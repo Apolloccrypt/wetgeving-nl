@@ -1,24 +1,50 @@
 ---
-title: "Besluit vaststelling formulier voor het indienen van een aanvraag ter beoordeling van het voorgenomen grensoverschrijdend personenvervoer per spoor als bedoeld in artikel 19a, tweede lid, Wet personenvervoer 2000"
+title: "Besluit van de Raad van Bestuur van de Nederlandse Mededingingsautoriteit van 6 november 2012 tot vaststelling van het formulier voor het indienen van een aanvraag ter beoordeling van het voorgenomen grensoverschrijdend personenvervoer per spoor als bedoeld in artikel 19a, tweede lid, van de Wet personenvervoer 2000"
 identifier: "BWBR0033419"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2012-11-16
-laatste_update: 2012-11-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033419"
+country: "nl"
+rank: "zbo"
+publication_date: "2012-11-16"
+last_updated: "2012-11-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033419"
+soort: "zbo"
+stam_id: "12257833"
+version_id: "20513552"
+internal_id: "C28851991"
+label_id: "12229144"
+dtd_version: "2.0"
+original_entry_into_force: "2012-11-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033419/2012-11-16/0"
+intitule_bron: "Stcrt.2012-23298"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-11-06"
+intitule_published: "2012-11-15"
+intitule_in_force: "2012-11-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-23298"
+original_signed_date: "2012-11-06"
+original_published_date: "2012-11-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-23298"
+entry_into_force_date: "2012-11-16"
+jci_1_3: "jci1.3:c:BWBR0033419&z=2012-11-16&g=2012-11-16"
+jci_1_0: "1.0:c:BWBR0033419&g=2012-11-16"
+citeertitel_status: "redactioneel"
+short_title: "Besluit vaststelling formulier voor het indienen van een aanvraag ter beoordeling van het voorgenomen grensoverschrijdend personenvervoer per spoor als bedoeld in artikel 19a, tweede lid, Wet personenvervoer 2000"
+signed_date: "2012-11-06"
+entry_into_force: "2012-11-16"
 ---
-
 # Besluit van de Raad van Bestuur van de Nederlandse Mededingingsautoriteit van 6 november 2012 tot vaststelling van het formulier voor het indienen van een aanvraag ter beoordeling van het voorgenomen grensoverschrijdend personenvervoer per spoor als bedoeld in artikel 19a, tweede lid, van de Wet personenvervoer 2000
 
 Gelet op [artikel 4.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:4);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Het formulier voor het indien van een aanvraag ter beoordeling van het voorgenomen grensoverschrijdend personenvervoer per spoor als bedoeld in [artikel 19a, tweede lid, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=19a), wordt vastgesteld overeenkomstig de bij dit besluit behorende bijlage.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit zal met de toelichting en bijlage in de Staatscourant worden geplaatst.
 

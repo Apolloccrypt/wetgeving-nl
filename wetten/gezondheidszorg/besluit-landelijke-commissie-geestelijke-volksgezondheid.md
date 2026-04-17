@@ -1,22 +1,46 @@
 ---
 title: "Besluit Landelijke Commissie Geestelijke Volksgezondheid"
 identifier: "BWBR0010830"
-categorie: "Gezondheidszorg"
-publicatiedatum: 1999-11-17
-laatste_update: 1999-11-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010830"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1999-11-17"
+last_updated: "1999-11-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010830"
+soort: "ministeriele-regeling"
+stam_id: "4811463"
+version_id: "6617852"
+internal_id: "C7075091"
+label_id: "4789524"
+dtd_version: "2.0"
+original_entry_into_force: "1999-11-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010830/1999-11-17/0"
+intitule_bron: "Stcrt.1999-220"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-11-09"
+intitule_published: "1999-11-15"
+intitule_in_force: "1999-11-15"
+intitule_status: "goed"
+original_publication: "Stcrt.1999-220"
+original_signed_date: "1999-11-09"
+original_published_date: "1999-11-15"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1999-11-17"
+jci_1_3: "jci1.3:c:BWBR0010830&z=1999-11-17&g=1999-11-17"
+jci_1_0: "1.0:c:BWBR0010830&g=1999-11-17"
+citeertitel_status: "officieel"
+signed_date: "1999-11-09"
+entry_into_force: "1999-11-17"
 ---
-
 # Besluit Landelijke Commissie Geestelijke Volksgezondheid
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een Landelijke Commissie Geestelijke Volksgezondheid.
 
@@ -34,7 +58,7 @@ In dit besluit wordt verstaan onder:
 
 - f. het presenteren van een eindrapport, zoals genoemd in [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010830&artikel=4&z=1999-11-17&g=1999-11-17).
 
-#### Artikel 3
+##### Artikel 3
 
 1. Tot lid van de commissie worden benoemd:
 
@@ -60,7 +84,7 @@ Adviseurs:
 
 - b. prof.dr. A. van Dantzig.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De commissie stelt binnen twee maanden na installatie haar eigen werkwijze vast in de vorm van een plan van aanpak.
 
@@ -72,17 +96,17 @@ Adviseurs:
 
 5. De commissie brengt begin 2001 een eindrapport uit van haar bevindingen bestaande uit ten minste twee delen. Het ene deel bevat de bundeling van alle essays die zijn geschreven. Het andere deel bevat de analyse en aanbevelingen van de commissie waarbij zij tenminste gebruik maakt van de informatie afkomstig uit de essays en de besloten en open discussiebijeenkomsten.
 
-#### Artikel 5
+##### Artikel 5
 
 Het beheer van de bescheiden van de commissie geschiedt op overeenkomstige wijze als bij het Ministerie van Volksgezondheid, Welzijn en Sport. De bescheiden worden na beëindiging van de werkzaamheden van de commissie in het archief van dit ministerie opgeborgen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Dit Besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 
 2. Dit Besluit vervalt twee maanden nadat de commissie begin 2001 haar eindrapport heeft uitgebracht.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit Besluit wordt aangehaald als: Besluit Landelijke Commissie Geestelijke Volksgezondheid.
 

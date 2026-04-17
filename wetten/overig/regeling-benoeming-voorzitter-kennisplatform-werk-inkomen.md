@@ -1,20 +1,46 @@
 ---
-title: "Regeling benoeming voorzitter Kennisplatform Werk & Inkomen"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 30 maart 2016, nr. 2016-0000081792, tot benoeming van de voorzitter van het Kennisplatform Werk & Inkomen"
 identifier: "BWBR0037813"
-categorie: "Overig"
-publicatiedatum: 2022-01-01
-laatste_update: 2022-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037813"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-01-01"
+last_updated: "2022-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037813"
+soort: "ministeriele-regeling"
+stam_id: "13469833"
+version_id: "23112702"
+internal_id: "C33400691"
+label_id: "13436924"
+dtd_version: "2.0"
+original_entry_into_force: "2016-04-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037813/2022-01-01/0"
+intitule_bron: "Stcrt.2016-18015"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-03-30"
+intitule_published: "2016-04-11"
+intitule_in_force: "2016-04-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-18015"
+original_signed_date: "2016-03-30"
+original_published_date: "2016-04-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-18015"
+entry_into_force_date: "2016-04-12"
+jci_1_3: "jci1.3:c:BWBR0037813&z=2022-01-01&g=2022-01-01"
+jci_1_0: "1.0:c:BWBR0037813&g=2022-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Regeling benoeming voorzitter Kennisplatform Werk & Inkomen"
+signed_date: "2016-03-30"
+entry_into_force: "2016-04-12"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 30 maart 2016, nr. 2016-0000081792, tot benoeming van de voorzitter van het Kennisplatform Werk & Inkomen
 
 Gelet op [artikel 2 van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2) en de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=2) en [4 van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=4);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -34,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 - h. **SVB:** Sociale verzekeringsbank.
 
-#### Artikel 2. Instelling voorzitter
+##### Artikel 2. Instelling voorzitter
 
 - a. Er is een voorzitter van het KWI.
 
@@ -42,7 +68,7 @@ In deze regeling wordt verstaan onder:
 
 - c. De benoeming geschiedt voor tenminste twee jaren, na afloop van welke termijn direct herbenoeming mogelijk is.
 
-#### Artikel 3. Taken voorzitter
+##### Artikel 3. Taken voorzitter
 
 1. De voorzitter heeft tot taak:
 
@@ -60,7 +86,7 @@ In deze regeling wordt verstaan onder:
 
 3. De voorzitter neemt deel aan de adviesraad van het kennisprogramma ‘Vakkundig aan het werk’ voor de uitvoeringpraktijk van gemeenten.
 
-#### Artikel 4. Secretariaat KWI
+##### Artikel 4. Secretariaat KWI
 
 1. In het secretariaat wordt voorzien door het Ministerie van Sociale Zaken en Werkgelegenheid, de Nederlandse Arbeidsinspectie en het UWV.
 
@@ -68,15 +94,15 @@ In deze regeling wordt verstaan onder:
 
 3. De werkzaamheden van het secretariaat kunnen in overleg met de Minister en het secretariaat nader worden bepaald.
 
-#### Artikel 5. Benoeming
+##### Artikel 5. Benoeming
 
 De heer P.T. de Beer wordt benoemd tot voorzitter van het KWI voor de periode van 1 januari 2021 tot en met uiterlijk 31 december 2021.
 
-#### Artikel 6. Vergoeding
+##### Artikel 6. Vergoeding
 
 Aan de voorzitter wordt een vaste vergoeding toegekend, waarbij de toepasselijke salarisschaal wordt bepaald op het maximum van salarisschaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) en de toepasselijke arbeidsduurfactor wordt bepaald op 0,08.
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 september 2015.
 

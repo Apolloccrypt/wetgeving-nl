@@ -1,13 +1,39 @@
 ---
-title: "Stimuleringsregeling zorggeschikte woningen"
+title: "Regeling van de Minister voor Langdurige Zorg en Sport van 6 september 2023, kenmerk 3663019-1052552-DMO, houdende regels voor de subsidiëring van de onrendabele top bij realisatie van zorggeschikte woningen binnen geclusterde woonvormen (Stimuleringsregeling zorggeschikte woningen)"
 identifier: "BWBR0048611"
-categorie: "Sociaal recht"
-publicatiedatum: 2025-04-26
-laatste_update: 2025-04-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048611"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-04-26"
+last_updated: "2025-04-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048611"
+soort: "ministeriele-regeling"
+stam_id: "16855343"
+version_id: "30703672"
+internal_id: "C44010891"
+label_id: "16767644"
+dtd_version: "2.0"
+original_entry_into_force: "2025-04-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048611/2025-04-26/0"
+intitule_bron: "Stcrt.2023-25360"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-09-06"
+intitule_published: "2023-09-14"
+intitule_in_force: "2023-09-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-14339"
+original_signed_date: "2025-04-16"
+original_published_date: "2025-04-25"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2025-14339"
+entry_into_force_date: "2025-04-16"
+jci_1_3: "jci1.3:c:BWBR0048611&z=2025-04-26&g=2025-04-26"
+jci_1_0: "1.0:c:BWBR0048611&g=2025-04-26"
+citeertitel_status: "officieel"
+short_title: "Stimuleringsregeling zorggeschikte woningen"
+signed_date: "2025-04-16"
+entry_into_force: "2025-04-16"
 ---
-
 # Regeling van de Minister voor Langdurige Zorg en Sport van 6 september 2023, kenmerk 3663019-1052552-DMO, houdende regels voor de subsidiëring van de onrendabele top bij realisatie van zorggeschikte woningen binnen geclusterde woonvormen (Stimuleringsregeling zorggeschikte woningen)
 
 Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3) en [5 van de Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=5);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1. Definitiebepaling
+##### Artikel 1.1. Definitiebepaling
 
 In deze regeling wordt verstaan onder:
 
@@ -56,15 +82,15 @@ In deze regeling wordt verstaan onder:
 
 - –. **zorgkantoor:** een zorgkantoor als bedoeld in [artikel 1.1.1 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=1.1.1).
 
-#### Artikel 1.2. Doel van de regeling
+##### Artikel 1.2. Doel van de regeling
 
 Deze regeling heeft tot doel de totstandkoming van zorggeschikte wooneenheden in geclusterde woonvormen, met een huur tot de maximum huurgrens, te stimuleren.
 
-#### Artikel 1.3. Toepasselijkheid Kaderregeling subsidies OCW, SZW en VWS
+##### Artikel 1.3. Toepasselijkheid Kaderregeling subsidies OCW, SZW en VWS
 
 Op deze regeling zijn de [hoofdstukken 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=5) en [7 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=7) van toepassing.
 
-#### Artikel 1.4. Staatssteun
+##### Artikel 1.4. Staatssteun
 
 1. De totstandkoming van zorggeschikte wooneenheden in geclusterde woonvormen onder de voorwaarden van deze regeling wordt aangewezen als DAEB.
 
@@ -72,7 +98,7 @@ Op deze regeling zijn de [hoofdstukken 5](https://wetten.overheid.nl/jci1.3:c:BW
 
 ### Hoofdstuk 2. Verlening en vaststelling van de subsidie
 
-#### Artikel 2.1. Aanvraag van de subsidie
+##### Artikel 2.1. Aanvraag van de subsidie
 
 1. De minister kan op aanvraag een subsidie verstrekken voor een bijdrage in de kosten voor de transformatie of nieuwbouw bij de realisatie van zorggeschikte wooneenheden in een geclusterde woonvorm.
 
@@ -110,7 +136,7 @@ Op deze regeling zijn de [hoofdstukken 5](https://wetten.overheid.nl/jci1.3:c:BW
 
 - j. een door de minister vastgestelde ondertekende overeenkomst, bedoeld in [artikel 1.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048611&hoofdstuk=1&artikel=1.4&z=2025-04-26&g=2025-04-26), voor het vestigen van een DAEB.
 
-#### Artikel 2.2. Voorwaarden subsidie
+##### Artikel 2.2. Voorwaarden subsidie
 
 Een subsidie wordt enkel verstrekt indien:
 
@@ -134,7 +160,7 @@ Een subsidie wordt enkel verstrekt indien:
 
 - g. in de wooneenheden geen intramurale zorg wordt verleend.
 
-#### Artikel 2.3. Hoogte van de subsidie
+##### Artikel 2.3. Hoogte van de subsidie
 
 1. Bij nieuwbouw of transformatie waarbij de gemiddelde kosten van de verbouwing per wooneenheid meer dan € 100.000 inclusief BTW bedragen, is de hoogte van de subsidie maximaal:
 
@@ -156,7 +182,7 @@ Een subsidie wordt enkel verstrekt indien:
 
 - –. € 2.000 per rollatorgeschikte wooneenheid met één kamer die niet beschikbaar is voor mensen met een Wlz-indicatie.
 
-#### Artikel 2.4. Subsidieplafond
+##### Artikel 2.4. Subsidieplafond
 
 1. De minister stelt jaarlijks een subsidieplafond vast voor het verlenen van subsidie op grond van dit hoofdstuk.
 
@@ -168,7 +194,7 @@ Een subsidie wordt enkel verstrekt indien:
 
 5. Indien op de dag dat het subsidieplafond wordt bereikt meer dan één complete aanvraag ontvangen wordt en de volgorde van binnenkomst van deze aanvragen niet is vast te stellen, wordt de volgorde vastgesteld door middel van loting.
 
-#### Artikel 2.5. Aanvraagperiode en wijze van indienen
+##### Artikel 2.5. Aanvraagperiode en wijze van indienen
 
 1. In 2025 kan een aanvraag voor een subsidie worden ingediend van 15 mei 2025 tot en met 28 november 2025 17.00 uur.
 
@@ -178,7 +204,7 @@ Een subsidie wordt enkel verstrekt indien:
 
 4. Indien een beschikking niet binnen de in het derde lid bedoelde termijn kan worden gegeven, kan deze termijn eenmaal met twaalf weken worden verlengd.
 
-#### Artikel 2.6. Subsidieverplichtingen
+##### Artikel 2.6. Subsidieverplichtingen
 
 1. De subsidieontvanger is verplicht:
 
@@ -196,7 +222,7 @@ Een subsidie wordt enkel verstrekt indien:
 
 2. Indien de bouw van de geclusterde woonvorm buiten de schuld van de subsidieontvanger niet mogelijk is binnen de termijnen, genoemd in het eerste lid, onder b en c, kan de minister op schriftelijk en gemotiveerd verzoek van de subsidieontvanger ontheffing verlenen van die termijnen.
 
-#### Artikel 2.7. Voorschot
+##### Artikel 2.7. Voorschot
 
 1. De minister verstrekt een voorschot van maximaal 90% van de verleende subsidie uiterlijk binnen twaalf weken na ontvangst van:
 
@@ -210,7 +236,7 @@ Een subsidie wordt enkel verstrekt indien:
 
 2. Indien het voorschot van het subsidiebedrag niet binnen de in het eerste lid bedoelde termijn kan worden verstrekt, kan deze termijn eenmaal met twaalf weken worden verlengd.
 
-#### Artikel 2.8. Vaststelling
+##### Artikel 2.8. Vaststelling
 
 1. Uiterlijk binnen 22 weken na de oplevering van de geclusterde woonvorm wordt een aanvraag tot vaststelling ingediend.
 
@@ -226,15 +252,15 @@ Een subsidie wordt enkel verstrekt indien:
 
 ### Hoofdstuk 3. Slotbepalingen
 
-#### Artikel 3.1. Hardheidsclausule
+##### Artikel 3.1. Hardheidsclausule
 
 De minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat de desbetreffende bepaling beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 3.2. Inwerkingtreding en vervaldatum
+##### Artikel 3.2. Inwerkingtreding en vervaldatum
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt op 1 januari 2027, met dien verstande dat zij van toepassing blijft op subsidies die op grond van deze regeling zijn verleend.
 
-#### Artikel 3.3. Citeertitel
+##### Artikel 3.3. Citeertitel
 
 Deze regeling wordt aangehaald als: Stimuleringsregeling zorggeschikte woningen.
 

@@ -1,13 +1,39 @@
 ---
-title: "Regeling erkenning EU-beroepskwalificaties advocatuur"
+title: "Regeling van de Staatssecretaris van Justitie van 2 september 2008, nr. 5561403/08, houdende nadere regels ten aanzien van de erkenning van beroepskwalificaties voor advocaten (Regeling erkenning EG-beroepskwalificaties advocatuur)"
 identifier: "BWBR0024507"
-categorie: "Overig"
-publicatiedatum: 2016-08-26
-laatste_update: 2016-08-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024507"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2016-08-26"
+last_updated: "2016-08-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024507"
+soort: "ministeriele-regeling"
+stam_id: "9724233"
+version_id: "15738342"
+internal_id: "C21518751"
+label_id: "9701184"
+dtd_version: "2.0"
+original_entry_into_force: "2008-09-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024507/2016-08-26/0"
+intitule_bron: "Stcrt.2008-184"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-09-02"
+intitule_published: "2008-09-23"
+intitule_in_force: "2008-09-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-184"
+original_signed_date: "2008-09-02"
+original_published_date: "2008-09-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-184-p7-SC87572"
+entry_into_force_date: "2008-09-25"
+jci_1_3: "jci1.3:c:BWBR0024507&z=2016-08-26&g=2016-08-26"
+jci_1_0: "1.0:c:BWBR0024507&g=2016-08-26"
+citeertitel_status: "officieel"
+short_title: "Regeling erkenning EU-beroepskwalificaties advocatuur"
+signed_date: "2008-09-02"
+entry_into_force: "2008-09-25"
 ---
-
 # Regeling van de Staatssecretaris van Justitie van 2 september 2008, nr. 5561403/08, houdende nadere regels ten aanzien van de erkenning van beroepskwalificaties voor advocaten (Regeling erkenning EG-beroepskwalificaties advocatuur)
 
 Gelet op de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=33) en [36 van de Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=36);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -26,13 +52,13 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. algemene raad: de algemene raad van de Nederlandse orde van advocaten, bedoeld in [artikel 18, eerste lid, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=18).
 
-#### Artikel 2
+##### Artikel 2
 
 De taken en bevoegdheden van de Minister van Veiligheid en Justitie, bedoeld in de artikelen [5](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=6), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=8), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=13), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=17), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=18), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=19), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=31), [31b](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=31b), [31c](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=31c), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=32), [32a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=32a), [33, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=33), [34, eerste, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=34), [34c](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=34c), en [35 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=35) worden uitgevoerd door de algemene raad voor zover het de advocatuur betreft.
 
 ### Hoofdstuk 2. Erkenning van beroepskwalificaties
 
-#### Artikel 3
+##### Artikel 3
 
 1. De aanvrager dient de aanvraag tot het verkrijgen van een erkenning van de beroepskwalificaties voor advocaat in bij de algemene raad.
 
@@ -62,7 +88,7 @@ De taken en bevoegdheden van de Minister van Veiligheid en Justitie, bedoeld in 
 
 4. Van de bescheiden en andere informatie die de aanvrager overlegt, wordt tevens een door een beëdigd tolk of vertaler opgestelde Nederlandse vertaling overgelegd.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Met inachtneming van [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=11) stelt de algemene raad de aanvrager op de hoogte van de eis tot het met goed gevolg afleggen van een proeve van bekwaamheid of een aanpassingsstage.
 
@@ -76,7 +102,7 @@ De taken en bevoegdheden van de Minister van Veiligheid en Justitie, bedoeld in 
 
 - d. de kosten die samenhangen met de aanvraag, de afgifte van besluiten en het organiseren van een proeve van bekwaamheid en van een aanpassingsstage.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De algemene raad draagt zorg voor de mogelijkheid tot het kunnen afleggen van een proeve van bekwaamheid.
 
@@ -94,7 +120,7 @@ De taken en bevoegdheden van de Minister van Veiligheid en Justitie, bedoeld in 
 
 - e. vervallen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De aanvrager die voor één of meer onderdelen van de proeve van bekwaamheid wordt afgewezen, kan voor elk van die onderdelen opnieuw een examen afleggen. De met goed gevolg afgelegde examens behouden hun geldigheid gedurende vijf jaar.
 
@@ -102,15 +128,15 @@ De taken en bevoegdheden van de Minister van Veiligheid en Justitie, bedoeld in 
 
 ### Hoofdstuk 3. Slotbepalingen
 
-#### Artikel 7
+##### Artikel 7
 
 De [regeling EG-verklaring advocaten 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0008351) wordt ingetrokken.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling wordt aangehaald als: Regeling erkenning EU-beroepskwalificaties advocatuur.
 

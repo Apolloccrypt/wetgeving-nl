@@ -1,13 +1,39 @@
 ---
-title: "Specifiek interventiebeleid NVWA fytosanitaire wetgeving"
+title: "Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur van 5 december 2025 tot vaststelling van het Specifiek interventiebeleid NVWA fytosanitaire wetgeving (IB03-SPEC 04, versie 03)"
 identifier: "BWBR0052204"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-02-15
-laatste_update: 2026-02-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052204"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2026-02-15"
+last_updated: "2026-02-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052204"
+soort: "beleidsregel"
+stam_id: "17737403"
+version_id: "31341292"
+internal_id: "C44792561"
+label_id: "17635904"
+dtd_version: "2.0"
+original_entry_into_force: "2026-02-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052204/2026-02-15/0"
+intitule_bron: "Stcrt.2026-1497"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-12-05"
+intitule_published: "2026-01-20"
+intitule_in_force: "2026-01-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-1497"
+original_signed_date: "2025-12-05"
+original_published_date: "2026-01-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-1497"
+entry_into_force_date: "2026-02-15"
+jci_1_3: "jci1.3:c:BWBR0052204&z=2026-02-15&g=2026-02-15"
+jci_1_0: "1.0:c:BWBR0052204&g=2026-02-15"
+citeertitel_status: "officieel"
+short_title: "Specifiek interventiebeleid NVWA fytosanitaire wetgeving"
+signed_date: "2025-12-05"
+entry_into_force: "2026-02-15"
 ---
-
 # Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur van 5 december 2025 tot vaststelling van het Specifiek interventiebeleid NVWA fytosanitaire wetgeving (IB03-SPEC 04, versie 03)
 
 De Minister van Landbouw, Visserij, Voedselzekerheid en Natuur,

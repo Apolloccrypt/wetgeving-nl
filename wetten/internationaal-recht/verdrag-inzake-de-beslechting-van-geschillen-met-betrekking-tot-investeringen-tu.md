@@ -1,13 +1,35 @@
 ---
 title: "Verdrag inzake de beslechting van geschillen met betrekking tot investeringen tussen Staten en onderdanen van andere Staten"
 identifier: "BWBV0004615"
-categorie: "Internationaal recht"
-publicatiedatum: 1966-10-14
-laatste_update: 1966-10-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004615"
+country: "nl"
+rank: "verdrag"
+publication_date: "1966-10-14"
+last_updated: "1966-10-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004615"
+soort: "verdrag"
+stam_id: "10004224393"
+version_id: "10004408012"
+internal_id: "C10008343641"
+label_id: "10004211964"
+dtd_version: "2.0"
+original_entry_into_force: "1966-10-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004615/1966-10-14/0"
+intitule_bron: "Trb.1966-152"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1966-05-25"
+intitule_in_force: "1966-10-26"
+intitule_status: "goed"
+original_publication: "Trb.1966-152"
+original_published_date: "1966-05-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1966-152"
+entry_into_force_date: "1966-10-14"
+jci_1_3: "jci1.3:c:BWBV0004615&z=1966-10-14&g=1966-10-14"
+jci_1_0: "1.0:c:BWBV0004615&g=1966-10-14"
+citeertitel_status: "redactioneel"
+entry_into_force: "1966-10-14"
 ---
-
 # Verdrag inzake de beslechting van geschillen met betrekking tot investeringen tussen Staten en onderdanen van andere Staten
 
 Preambule
@@ -34,33 +56,33 @@ Zijn het volgende overeengekomen:
 
 ### Afdeling 1. Oprichting en Organisatie
 
-#### Artikel 1
+##### Artikel 1
 
 1. Hierbij wordt opgericht het Internationaal Centrum voor Beslechting van Investeringsgeschillen (hierna te noemen het Centrum).
 
 2. Het doel van het Centrum is, de gelegenheid te openen voor bemiddeling en arbitrage ter beslechting van geschillen met betrekking tot investeringen tussen Verdragsluitende Staten en onderdanen van andere Verdragsluitende Staten in overeenstemming met de bepalingen van dit Verdrag.
 
-#### Artikel 2
+##### Artikel 2
 
 De zetel van het Centrum is gevestigd ten hoofdkantore van de Internationale Bank voor Herstel en Ontwikkeling (hierna te noemen de Bank). De zetel kan worden verplaatst naar een andere plaats bij besluit van de Raad van Bestuur, genomen door een meerderheid van twee derden van zijn leden.
 
-#### Artikel 3
+##### Artikel 3
 
 Het Centrum bestaat uit een Raad van Bestuur en een Secretariaat. Het houdt een Lijst aan van Bemiddelaars en een Lijst van Arbiters.
 
 ### Afdeling 2. De Raad van Bestuur
 
-#### Artikel 4
+##### Artikel 4
 
 1. De Raad van Bestuur wordt gevormd door de vertegenwoordigers van de Verdragsluitende Staten, en wel één van iedere Staat. Een plaatsvervanger kan als vertegenwoordiger optreden, wanneer de eigenlijke vertegenwoordiger afwezig of niet tot handelen in staat is.
 
 2. Als **geen** ander daartoe is aangewezen, is elke door een Verdragsluitende Staat benoemde bestuurder en plaatsvervangende bestuurder van de Bank **ex officio** de vertegenwoordiger, onderscheidenlijk de plaatsvervangende vertegenwoordiger, van die Staat.
 
-#### Artikel 5
+##### Artikel 5
 
 De President van de Bank is **ex officio** Voorzitter van de Raad van Bestuur (hierna genoemd de Voorzitter), maar heeft geen stemrecht. Wanneer hij afwezig of niet tot handelen in staat is of indien de zetel van de President van de Bank vacant is, treedt de waarnemend President op als Voorzitter van de Raad van Bestuur.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Onverminderd de bevoegdheden en taken, hem opgedragen in andere bepalingen van dit Verdrag, draagt de Raad van Bestuur zorg voor:
 
@@ -84,7 +106,7 @@ De hierboven onder a, b, c en f bedoelde besluiten worden door een meerderheid v
 
 3. De Raad van Bestuur oefent voorts alle andere bevoegdheden uit en verricht alle andere taken, die hij nodig oordeelt voor de uitvoering van de bepalingen van dit Verdrag.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De Raad van Bestuur houdt jaarlijks een zitting en voorts zoveel andere zittingen als de Raad besluit of worden bijeengeroepen door de Voorzitter of bijeengeroepen door de Secretaris-Generaal op verzoek van tenminste vijf leden van de Raad.
 
@@ -94,17 +116,17 @@ De hierboven onder a, b, c en f bedoelde besluiten worden door een meerderheid v
 
 4. De Raad van Bestuur kan bij een meerderheid van twee derden van zijn leden een procedure vaststellen, waarbij de Voorzitter een stemming door de Raad kan uitlokken zonder deze bijeen te roepen. Deze stemming wordt slechts als geldig beschouwd indien de meerderheid van de Raad zijn stem uitbrengt binnen de in genoemde procedure voorgeschreven termijnen.
 
-#### Artikel 8
+##### Artikel 8
 
 De werkzaamheden van de leden van de Raad van Bestuur alsmede van de President worden niet gehonoreerd door het Centrum.
 
 ### Afdeling 3. Het Secretariaat
 
-#### Artikel 9
+##### Artikel 9
 
 Het Secretariaat bestaat uit een Secretaris-Generaal, een of meer Plaatsvervangende Secretarissen-Generaal en verder personeel.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De Secretaris-Generaal en de Plaatsvervangende Secretarissen-Generaal worden op voordracht van de Voorzitter gekozen door de Raad van Bestuur met een meerderheid van twee derden van zijn leden voor een tijdvak van ten hoogste zes jaar; zij zijn herkiesbaar. De Voorzitter stelt, na overleg met de leden van de Raad van Bestuur, voor elk ambt een of meer kandidaten voor.
 
@@ -114,29 +136,29 @@ Het Secretariaat bestaat uit een Secretaris-Generaal, een of meer Plaatsvervange
 
 Indien er meer dan een Plaatsvervangende Secretaris-Generaal zal zijn, stelt de Raad van Bestuur tevoren de volgorde vast, waarin zij zullen optreden als Secretaris-Generaal.
 
-#### Artikel 11
+##### Artikel 11
 
 De Secretaris-Generaal is de vertegenwoordiger in rechten en de hoogste ambtenaar van het Centrum. Hij is verantwoordelijk voor het beheer daarvan, waaronder de benoeming van de leden van het personeel overeenkomstig de bepalingen van dit Verdrag en de door de Raad van Bestuur vastgestelde bepalingen. Hij treedt op als griffier en is bevoegd de scheidsrechterlijke uitspraken, gewezen ingevolge dit Verdrag, te legaliseren en afschriften daarvan te waarmerken.
 
 ### Afdeling 4. De Lijsten
 
-#### Artikel 12
+##### Artikel 12
 
 De Lijst van Bemiddelaars en de Lijst van Arbiters bestaan ieder uit namen van personen die de voor deze functies vereiste bekwaamheden bezitten en aangewezen zijn op de hierna bepaalde wijze en die goedvinden, op deze Lijsten te worden vermeld.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Iedere Verdragsluitende Staat kan voor elke Lijst vier personen aanwijzen, die onderdaan van die Staat kunnen doch niet behoeven te zijn.
 
 2. De Voorzitter kan tien personen aanwijzen voor iedere Lijst. De aldus voor een Lijst aangewezen personen dienen ieder van verschillende nationaliteit te zijn.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De voor de Lijsten aangewezen personen dienen van hoog zedelijk karakter en erkende deskundigen op het gebied van het recht, van de handel, de industrie of de financiën te zijn, op wier onafhankelijkheid van oordeel kan worden vertrouwd. Deskundigheid op juridisch gebied is van bijzonder belang voor de op de Lijst van Arbiters vermelde personen.
 
 2. De Voorzitter houdt voorts bij zijn aanwijzing van personen voor de Lijsten rekening met het belang, dat op de Lijsten de voornaamste rechtsstelsels van de wereld en de belangrijkste vormen van economische bedrijvigheid zijn vertegenwoordigd.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De aangewezen personen staan op de Lijst voor perioden van zes jaar, die kunnen worden verlengd.
 
@@ -144,7 +166,7 @@ De Lijst van Bemiddelaars en de Lijst van Arbiters bestaan ieder uit namen van p
 
 3. De op de Lijsten vermelde personen blijven daarop vermeld tot hun opvolger is aangewezen.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Eenzelfde persoon kan op beide Lijsten worden vermeld.
 
@@ -154,13 +176,13 @@ De Lijst van Bemiddelaars en de Lijst van Arbiters bestaan ieder uit namen van p
 
 ### Afdeling 5. De Inkomsten van het Centrum
 
-#### Artikel 17
+##### Artikel 17
 
 Indien de uitgaven van het Centrum niet kunnen worden gedekt door de vergoedingen voor het gebruik van zijn diensten of door andere ontvangsten, worden de resterende kosten gedragen door de Verdragsluitende Partijen die lid zijn van de Bank, en door de Verdragsluitende Staten die geen lid van de Bank zijn, overeenkomstig de door de Raad van Bestuur vastgestelde regels.
 
 ### Afdeling 6. Status, immuniteiten en voorrechten
 
-#### Artikel 18
+##### Artikel 18
 
 Het Centrum bezit volledige rechtspersoonlijkheid naar internationaal recht. De rechtsbevoegdheid van het Centrum omvat onder meer:
 
@@ -170,15 +192,15 @@ Het Centrum bezit volledige rechtspersoonlijkheid naar internationaal recht. De 
 
 - c). het optreden in rechte.
 
-#### Artikel 19
+##### Artikel 19
 
 Ten einde zijn werkzaamheden te kunnen verrichten geniet het Centrum op het grondgebied van elk der Verdragsluitende Staten de in deze Afdeling neergelegde immuniteiten en voorrechten.
 
-#### Artikel 20
+##### Artikel 20
 
 Het Centrum, alsmede zijn eigendommen en tegoeden, genieten immuniteit van rechtsmacht, tenzij het Centrum afstand doet van deze immuniteit.
 
-#### Artikel 21
+##### Artikel 21
 
 De Voorzitter, de leden van de Raad van Bestuur, zij die optreden als bemiddelaars, arbiters of als leden van een Comité ingesteld ingevolge artikel 52, lid 3, alsmede de ambtenaren en het overige personeel van het secretariaat:
 
@@ -186,17 +208,17 @@ De Voorzitter, de leden van de Raad van Bestuur, zij die optreden als bemiddelaa
 
 - b). genieten, indien zij geen onderdaan zijn van de Staat waar zij hun werkzaamheden verrichten, dezelfde immuniteiten terzake van immigratiebeperkingen, voorschriften voor vreemdelingenregistratie en dienstplicht, alsmede dezelfde faciliteiten terzake van deviezenbeperkingen en dezelfde behandeling, voorzover het betreft het maken van reizen als die welke de Verdragsluitende Staten verlenen aan de vertegenwoordigers, ambtenaren en het overige personeel van overeenkomstige rang van andere Verdragsluitende Staten.
 
-#### Artikel 22
+##### Artikel 22
 
 De bepalingen van artikel 21 zijn van toepassing op hen die als partij, vertegenwoordiger, raadsman, advocaat, getuige of deskundige aan een geding volgens dit Verdrag deelnemen, met dien verstande echter dat het bepaalde sub b) slechts van toepassing is ten aanzien van hun reis naar en van, en hun verblijf in de plaats waar het geding wordt gehouden.
 
-#### Artikel 23
+##### Artikel 23
 
 1. De archieven van het Centrum zijn onschendbaar, onverschillig waar zij zich bevinden.
 
 2. Elke Verdragsluitende Staat verleent het Centrum met betrekking tot zijn officiële verbindingen, een behandeling die tenminste even gunstig is als die welke hij aan andere internationale organisaties verleent.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Het Centrum, alsmede zijn tegoeden, eigendommen en inkomsten en de op grond van dit Verdrag door hen verrichte handelingen en transacties zijn vrijgesteld van alle belastingen en douanerechten. Het Centrum is eveneens vrijgesteld van elke aansprakelijkheid voor de invordering of betaling van belastingen of douanerechten.
 
@@ -206,7 +228,7 @@ De bepalingen van artikel 21 zijn van toepassing op hen die als partij, vertegen
 
 ### HOOFDSTUK II. Het werkterrein van het Centrum
 
-#### Artikel 25
+##### Artikel 25
 
 1. Het werkterrein van het Centrum omvat de beslechting van alle rechtsgeschillen tussen een Verdragsluitende Staat (of een samenstellend deel of een orgaan van die Staat, hetwelk als zodanig door die Verdragsluitende Staat aan het Centrum is aangewezen) en een onderdaan van een andere Verdragsluitende Staat, welke rechtstreeks voortvloeien uit een investering, en ten aanzien waarvan de partijen er schriftelijk in hebben toegestemd, deze aan het Centrum voor te leggen. Wanneer de partijen hun toestemming hebben gegeven, kan geen hunner deze eenzijdig intrekken.
 
@@ -220,11 +242,11 @@ De bepalingen van artikel 21 zijn van toepassing op hen die als partij, vertegen
 
 4. Elke Verdragsluitende Staat kan bij bekrachtiging, aanvaarding of goedkeuring van dit Verdrag of op ieder later tijdstip het Centrum in kennis stellen van de categorie of categorieën van geschillen welke naar het oordeel van die Staat al dan niet in aanmerking komen om aan het Centrum voorgelegd te worden. De Secretaris-Generaal deelt alle Verdragsluitende Staten deze kennisgeving terstond mede. Een dergelijke kennisgeving vormt niet de in lid 1 bedoelde toestemming.
 
-#### Artikel 26
+##### Artikel 26
 
 Toestemming van partijen tot arbitrage volgens dit Verdrag wordt, tenzij anders wordt verklaard, beschouwd als toestemming tot zodanige arbitrage met uitsluiting van ieder ander beslechtingsmiddel. Een Verdragsluitende Staat kan, als voorwaarde voor zijn toestemming tot arbitrage volgens dit Verdrag, eisen dat de nationale administratieve of gerechtelijke middelen tot beslechting zijn uitgeput.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Geen der Verdragsluitende Staten verleent diplomatieke bescherming of stelt een volkenrechtelijke eis met betrekking tot een geschil, dat een van zijn onderdanen en een andere Verdragsluitende Staat zijn overeengekomen aan arbitrage volgens dit Verdrag te onderwerpen of reeds onderworpen hebben, tenzij de andere Verdragsluitende Staat zich niet heeft gedragen overeenkomstig de inzake dat geschil gewezen uitspraak en deze niet heeft nagekomen.
 
@@ -234,7 +256,7 @@ Toestemming van partijen tot arbitrage volgens dit Verdrag wordt, tenzij anders 
 
 ### Afdeling 1. Het verzoek tot bemiddeling
 
-#### Artikel 28
+##### Artikel 28
 
 1. Een Verdragsluitende Staat of een onderdaan van een Verdragsluitende Staat die een bemiddelingsprocedure wenst aanhangig te maken, wendt zich met een daartoe strekkend schriftelijk request tot de Secretaris-Generaal, die een afschrift van het request aan de andere partij zendt.
 
@@ -244,7 +266,7 @@ Toestemming van partijen tot arbitrage volgens dit Verdrag wordt, tenzij anders 
 
 ### Afdeling 2. De samenstelling van de Bemiddelingscommissie
 
-#### Artikel 29
+##### Artikel 29
 
 1. De Bemiddelingscommissie (hierna te noemen de Commissie) wordt zo spoedig mogelijk na de inschrijving van het request bedoeld in artikel 28, samengesteld.
 
@@ -252,11 +274,11 @@ Toestemming van partijen tot arbitrage volgens dit Verdrag wordt, tenzij anders 
 
 - b). Indien partijen geen overeenstemming bereiken over het aantal bemiddelaars en de wijze van benoeming, bestaat de Commissie uit drie bemiddelaars; iedere partij benoemt een bemiddelaar en de derde, die optreedt als voorzitter van de Commissie, wordt bij overeenstemming tussen de partijen benoemd.
 
-#### Artikel 30
+##### Artikel 30
 
 Indien de Commissie niet is samengesteld binnen 90 dagen nadat de kennisgeving van inschrijving van het request door de Secretaris-Generaal overeenkomstig artikel 28, lid 3, is verzonden of binnen een andere tussen partijen overeengekomen termijn, benoemt de Voorzitter op verzoek van een van beide partijen, en voor zover mogelijk na raadpleging van beide partijen, de nog niet benoemde bemiddelaar of bemiddelaars.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Als bemiddelaars kunnen worden benoemd personen die niet op de Lijst van Bemiddelaars voorkomen, tenzij het een benoeming door de Voorzitter ingevolge artikel 30 betreft.
 
@@ -264,23 +286,23 @@ Indien de Commissie niet is samengesteld binnen 90 dagen nadat de kennisgeving v
 
 ### Afdeling 3. Het geding voor de Bemiddelingscommissie
 
-#### Artikel 32
+##### Artikel 32
 
 1. De Commissie beslist over haar bevoegdheid.
 
 2. Elke exceptie, door een der partijen opgeworpen, inhoudende dat het geschil niet binnen het werkterrein van het Centrum, of om andere redenen niet binnen de bevoegdheid van de Commissie valt, wordt door de Commissie in overweging genomen, die bepaalt of zij behandeld zal worden als een preliminaire vraag dan wel gelijktijdig met de hoofdzaak zal dienen.
 
-#### Artikel 33
+##### Artikel 33
 
 De bemiddelingsprocedure wordt gevoerd overeenkomstig de bepalingen van deze Afdeling en, tenzij partijen anders overeenkomen, overeenkomstig de Procedureregels voor Bemiddeling, van kracht op het tijdstip waarop partijen in bemiddeling hebben toegestemd. Indien een vraag rijst inzake de procedure waarin niet door deze Afdeling of door de genoemde Procedureregels of enige andere door partijen aanvaarde regel wordt voorzien, beslist de Commissie.
 
-#### Artikel 34
+##### Artikel 34
 
 1. Het is de taak van de Commissie om de geschilpunten tussen de partijen op te helderen en te trachten een voor beide partijen aanvaardbare oplossing te vinden. Daartoe kan de Commissie in iedere fase van het geding, en van tijd tot tijd, aan partijen aanbevelingen doen voor een regeling van het geschil. De partijen dienen te goeder trouw samen te werken met de Commissie ten einde haar in staat te stellen, haar werkzaamheden te verrichten, en dienen haar aanbevelingen in zeer ernstige overweging te nemen.
 
 2. Indien de partijen overeenstemming bereiken, stelt de Commissie een rapport op, inhoudende de punten van geschil en vermeldende dat partijen tot overeenstemming zijn gekomen. Indien in enige fase van het geding de Commissie meent dat overeenstemming tussen partijen niet mogelijk is, sluit zij het geding en stelt een rapport op, vermeldende dat het geschil is onderworpen aan bemiddeling en dat partijen geen overeenstemming hebben bereikt. Indien een der partijen niet verschijnt of niet deelneemt aan het geding, sluit de Commissie het geding en stelt een rapport op, vermeldende dat die partij niet verschenen is of niet heeft deelgenomen aan het geding.
 
-#### Artikel 35
+##### Artikel 35
 
 Tenzij partijen bij het geschil anders overeenkomen, is geen der partijen bij een bemiddelingsgeding gerechtigd in enig ander geding, hetzij voor arbiters, hetzij voor een rechtbank of op andere wijze, een beroep te doen of te stemmen op door de andere partij in het bemiddelingsgeding geuite meningen, verklaringen, erkenningen of voorstellen tot regeling, dan wel op het rapport of de aanbevelingen, opgesteld door de Commissie.
 
@@ -288,7 +310,7 @@ Tenzij partijen bij het geschil anders overeenkomen, is geen der partijen bij ee
 
 ### Afdeling 1. Het verzoek tot arbitrage
 
-#### Artikel 36
+##### Artikel 36
 
 1. Een Verdragsluitende Staat of een onderdaan van een Verdragsluitende Staat die een arbitragegeding wenst aanhangig te maken, wendt zich met een daartoe strekkend schriftelijk request tot de Secretaris-Generaal, die een afschrift van het request aan de andere partij zendt.
 
@@ -298,7 +320,7 @@ Tenzij partijen bij het geschil anders overeenkomen, is geen der partijen bij ee
 
 ### Afdeling 2. De samenstelling van het Scheidsgerecht
 
-#### Artikel 37
+##### Artikel 37
 
 1. Het Scheidsgerecht wordt zo spoedig mogelijk na de inschrijving van een request bedoeld in artikel 36 samengesteld.
 
@@ -306,15 +328,15 @@ Tenzij partijen bij het geschil anders overeenkomen, is geen der partijen bij ee
 
 - b). Indien partijen geen overeenstemming bereiken over het aantal arbiters en de wijze van benoeming, bestaat het Scheidsgerecht uit drie arbiters; iedere partij benoemt een arbiter, en de derde, die optreedt als Voorzitter van het Scheidsgerecht, wordt bij overovereenstemming tussen partijen benoemd.
 
-#### Artikel 38
+##### Artikel 38
 
 Indien het Scheidsgerecht niet is samengesteld binnen 90 dagen nadat de kennisgeving van inschrijving van het request door de Secretaris-Generaal overeenkomstig artikel 36, lid 3, is verzonden, of binnen een andere tussen partijen overeengekomen termijn, benoemt de Voorzitter op verzoek van een van beide partijen en voor zover mogelijk na raadpleging van beide partijen, de nog niet benoemde arbiter of arbiters. De door de Voorzitter ingevolge de bepalingen van dit artikel benoemde arbiters mogen geen onderdaan zijn van de Verdragsluitende Staat welke partij is bij het geschil of van de Verdragsluitende Staat wiens onderdaan partij is bij het geschil.
 
-#### Artikel 39
+##### Artikel 39
 
 De meerderheid der arbiters dient onderdaan te zijn van andere Staten dan de Verdragsluitende Staat die partij is bij het geschil en dan de Verdragsluitende Staat wiens onderdaan partij is bij het geschil, met dien verstande evenwel dat bovenstaande bepalingen van dit artikel niet van toepassing zijn, indien de partijen in onderlinge overeenstemming de enige arbiter of elk der leden van het Scheidsgerecht hebben benoemd.
 
-#### Artikel 40
+##### Artikel 40
 
 1. Als arbiters kunnen worden benoemd personen die niet op de Lijst van Arbiters voorkomen, tenzij het een benoeming door de Voorzitter ingevolge artikel 38 betreft.
 
@@ -322,13 +344,13 @@ De meerderheid der arbiters dient onderdaan te zijn van andere Staten dan de Ver
 
 ### Afdeling 3. De bevoegdheden en functies van het Scheidsgerecht
 
-#### Artikel 41
+##### Artikel 41
 
 1. Het Scheidsgerecht beslist over zijn bevoegdheid.
 
 2. Elke exceptie door een der partijen opgeworpen inhoudende dat het geschil niet binnen het werkterrein van het Centrum, of om andere redenen niet binnen de bevoegdheid van het Scheidsgerecht valt, wordt door het Scheidsgerecht in overweging genomen, dat bepaalt of zij behandeld dient te worden als een preliminaire vraag dan wel gelijktijdig met de hoofdzaak zal dienen.
 
-#### Artikel 42
+##### Artikel 42
 
 1. Het Scheidsgerecht beslist over een geschil in overeenstemming met zodanige rechtsregels als door partijen zal zijn overeengekomen. Bij gebreke aan zulk een overeenstemming past het Scheidsgerecht het recht toe van de Verdragsluitende Staat, die partij is bij het geschil, waaronder mede dienen te worden verstaan diens regels betreffende het conflictenrecht, alsmede die volkenrechtelijke regels, welke van toepassing kunnen zijn op de zaak.
 
@@ -336,7 +358,7 @@ De meerderheid der arbiters dient onderdaan te zijn van andere Staten dan de Ver
 
 3. De bepalingen der vorige leden doen geen afbreuk aan de bevoegdheid van het Scheidsgerecht om een uitspraak ex aequo et bono te doen, indien de partijen zulks overeenkomen.
 
-#### Artikel 43
+##### Artikel 43
 
 Tenzij partijen anders overeenkomen kan het Scheidsgerecht, indien het zulks nodig oordeelt, in elke fase van het geding:
 
@@ -344,27 +366,27 @@ Tenzij partijen anders overeenkomen kan het Scheidsgerecht, indien het zulks nod
 
 - b). zich naar de plaats van het geschil begeven en daar die onderzoekingen verrichten die het nodig oordeelt.
 
-#### Artikel 44
+##### Artikel 44
 
 Het arbitragegeding wordt gevoerd overeenkomstig de bepalingen van deze Afdeling, en tenzij partijen anders overeenkomen, overeenkomstig de Procedureregels voor Arbitrage, van kracht op het tijdstip waarop zij hebben ingestemd met de arbitrage. Indien een vraag rijst over de procedure, waarin niet is voorzien door deze Afdeling, of door de Procedureregels voor Arbitrage, of door enige door partijen overeengekomen regels, wordt deze vraag beslist door het Scheidsgerecht.
 
-#### Artikel 45
+##### Artikel 45
 
 1. Indien een der partijen niet verschijnt of haar zaak niet uiteenzet, wordt dit niet beschouwd als een erkenning van de juistheid van de beweringen van de wederpartij.
 
 2. Indien een der partijen niet verschijnt of haar zaak niet uiteenzet in enige fase van het geding, kan de wederpartij het Scheidsgerecht verzoeken de voorgelegde vragen toch te behandelen en een uitspraak te geven. Alvorens een uitspraak te geven, doet het Scheidsgerecht de partij die niet verschijnt of haar zaak niet uiteenzet, hiervan aanzegging, en verleent die partij uitstel, tenzij het ervan overtuigd is dat genoemde partij niet voornemens is te verschijnen of haar zaak uiteen te zetten.
 
-#### Artikel 46
+##### Artikel 46
 
 Tenzij partijen anders overeenkomen beslist het Scheidsgerecht, op verzoek van een der partijen, over bijkomende of verderstrekkende eisen dan wel eisen in reconventie, welke rechtstreeks verband houden met het voorwerp van geschil, mits deze eisen binnen het kader van de door partijen gegeven toestemming en overigens binnen het werkterrein van het Centrum vallen.
 
-#### Artikel 47
+##### Artikel 47
 
 Tenzij partijen anders overeenkomen kan het Scheidsgerecht, indien het zulks op grond van de omstandigheden noodzakelijk acht, voorlopige maatregelen aanbevelen ter bescherming van de rechten van partijen.
 
 ### Afdeling 4. De Uitspraak
 
-#### Artikel 48
+##### Artikel 48
 
 1. Het Scheidsgerecht beslist over alle vragen met meerderheid van stemmen van al zijn leden.
 
@@ -376,7 +398,7 @@ Tenzij partijen anders overeenkomen kan het Scheidsgerecht, indien het zulks op 
 
 5. Het Centrum publiceert de uitspraak niet dan met instemming van de partijen.
 
-#### Artikel 49
+##### Artikel 49
 
 1. De Secretaris-Generaal doet onverwijld aan partijen gewaarmerkte afschriften van de uitspraak toekomen. De uitspraak wordt geacht te zijn gedaan op de dag waarop genoemde afschriften zijn verzonden.
 
@@ -384,13 +406,13 @@ Tenzij partijen anders overeenkomen kan het Scheidsgerecht, indien het zulks op 
 
 ### Afdeling 5. Interpretatie, revisie en vernietiging van de uitspraak
 
-#### Artikel 50
+##### Artikel 50
 
 1. Indien een geschil tussen de partijen rijst inzake de bedoeling of de betekenis van een uitspraak, kan een der partijen schriftelijk een request tot interpretatie van de uitspraak tot de Secretaris-Generaal richten.
 
 2. Het request wordt zo mogelijk voorgelegd aan het Scheidsgerecht dat de uitspraak heeft gewezen. Indien zulks niet mogelijk is, wordt een nieuw Scheidsgerecht gevormd overeenkomstig Afdeling 2 van dit Hoofdstuk. Het Scheidsgerecht kan, indien het van oordeel is dat de omstandigheden zulks vereisen, de tenuitvoerlegging van de uitspraak schorsen, totdat het zich heeft uitgesproken.
 
-#### Artikel 51
+##### Artikel 51
 
 1. Elk der partijen kan schriftelijk aan de Secretaris-Generaal een request tot revisie van de uitspraak richten, wegens het aan het licht treden van een feit van dien aard dat het de uitspraak beslissend kan beïnvloeden, mits dit feit aan het Scheidsgerecht en aan de verzoekende partij niet bekend was toen de uitspraak werd gewezen, en mits de laatste dit feit niet had behoren te kennen.
 
@@ -400,7 +422,7 @@ Tenzij partijen anders overeenkomen kan het Scheidsgerecht, indien het zulks op 
 
 4. Het Scheidsgerecht kan, indien het van oordeel is dat de omstandigheden zulks vereisen, de tenuitvoerlegging van de uitspraak schorsen, totdat het zich heeft uitgesproken. Indien de verzoekende partij in zijn request vraagt om schorsing van de tenuitvoerlegging van de uitspraak, wordt de tenuitvoerlegging voorlopig opgeschort, totdat het Scheidsgerecht over dit verzoek heeft beslist.
 
-#### Artikel 52
+##### Artikel 52
 
 1. Elk der partijen kan schriftelijk de Secretaris-Generaal verzoeken om vernietiging van de uitspraak om een der volgende redenen:
 
@@ -426,7 +448,7 @@ Tenzij partijen anders overeenkomen kan het Scheidsgerecht, indien het zulks op 
 
 ### Afdeling 6. Erkenning en Tenuitvoerlegging van de Uitspraak
 
-#### Artikel 53
+##### Artikel 53
 
 1. De uitspraak is bindend voor partijen en niet onderworpen aan beroep of enig ander rechtsmiddel met uitzondering van die voorzien in dit Verdrag.
 
@@ -434,7 +456,7 @@ Iedere partij dient zich overeenkomstig de bepalingen van de uitspraak te gedrag
 
 2. Voor de toepassing van deze Afdeling, omvat „de uitspraak” mede iedere beslissing tot interpretatie, revisie of nietigverklaring van de uitspraak, genomen overeenkomstig artikel 50, 51 of 52.
 
-#### Artikel 54
+##### Artikel 54
 
 1. Iedere Verdragsluitende Staat erkent een ingevolge dit Verdrag gewezen uitspraak als bindend en draagt zorg voor de tenuitvoerlegging op zijn grondgebied van de financiële verplichtingen die deze uitspraak oplegt als ware zij een in kracht van gewijsde gegaan vonnis van een gerecht van die Staat. Een Verdragsluitende Staat die het karakter draagt van een bondsstaat, kan zulk een uitspraak ten uitvoer leggen door tussenkomst van zijn federale gerechten en bepalen dat deze een dergelijke uitspraak moeten behandelen als ware zij een in kracht van gewijsde gegaan vonnis van de gerechten van een der samenstellende delen van die Staat.
 
@@ -442,13 +464,13 @@ Iedere partij dient zich overeenkomstig de bepalingen van de uitspraak te gedrag
 
 3. De tenuitvoerlegging van de uitspraak wordt beheerst door de wetgeving betreffende de tenuitvoerlegging van vonnissen, van kracht in de Staat op wiens grondgebied de tenuitvoerlegging wordt verlangd.
 
-#### Artikel 55
+##### Artikel 55
 
 Geen der bepalingen van artikel 54 kan worden uitgelegd als afbreuk te doen aan het recht, van kracht in een Verdragsluitende Staat, betreffende de immuniteit van deze Staat of van een vreemde Staat ten aanzien van de tenuitvoerlegging van vonnissen.
 
 ### HOOFDSTUK V. Vervanging en Uitsluiting van Bemiddelaars en Arbiters
 
-#### Artikel 56
+##### Artikel 56
 
 1. Nadat een Commissie of een Scheidsgerecht is samengesteld en het geding is begonnen, blijft de samenstelling daarvan ongewijzigd. Ingeval echter van overlijden, onvermogen of aftreden van een bemiddelaar of een arbiter, wordt in de vacature voorzien overeenkomstig de bepalingen van Hoofdstuk III, Afdeling 2, of van Hoofdstuk IV, Afdeling 2.
 
@@ -456,27 +478,27 @@ Geen der bepalingen van artikel 54 kan worden uitgelegd als afbreuk te doen aan 
 
 3. Indien een bemiddelaar of een arbiter, benoemd door een der partijen, ontslag neemt zonder toestemming van de Commissie of het Scheidsgerecht waarvan hij lid was, voorziet de Voorzitter in de vacature door een der op de desbetreffende Lijst vermelde personen aan te wijzen.
 
-#### Artikel 57
+##### Artikel 57
 
 Een partij kan de Commissie of het Scheidsgerecht voorstellen, een der leden te disqualificeren wegens enig feit dat wijst op een klaarblijkelijk ontbreken van de in artikel 14, eerste lid, vereiste hoedanigheden. Een partij bij een arbitragegeding kan bovendien disqualificatie van een arbiter voorstellen met het motief dat deze niet voldeed aan de in Afdeling 2 van Hoofdstuk IV gestelde voorwaarden voor benoeming in het Scheidsgerecht.
 
-#### Artikel 58
+##### Artikel 58
 
 De overige leden van de Commissie, onderscheidenlijk het Scheidsgerecht beslissen over elk voorstel tot disqualificatie van een bemiddelaar of een arbiter. Bij staking van stemmen, of indien het verzoek tot disqualificatie betrekking heeft op één bemiddelaar of arbiter of op een meerderheid van de leden van de Commissie of van het Scheidsgerecht, wordt deze beslissing genomen door de Voorzitter. Indien de beslissing luidt dat het voorstel gegrond is, wordt de betrokken bemiddelaar of arbiter vervangen overeenkomstig de bepalingen van Hoofdstuk III, Afdeling 2, of van Hoofdstuk IV, Afdeling 2.
 
 ### HOOFDSTUK VI. De kosten van het geding
 
-#### Artikel 59
+##### Artikel 59
 
 De door partijen wegens gebruikmaking van de diensten van het Centrum verschuldigde bedragen worden door de Secretaris-Generaal vastgesteld in overeenstemming met de door de Raad van Bestuur terzake vastgestelde reglementen.
 
-#### Artikel 60
+##### Artikel 60
 
 1. Iedere Commissie en ieder Scheidsgerecht stelt de honoraria en onkostenvergoedingen van zijn leden vast, binnen door de Raad van Bestuur van tijd tot tijd opgestelde grenzen, en na overleg met de Secretaris-Generaal.
 
 2. Het bepaalde in het vorige lid sluit niet uit, dat partijen bij voorbaat, met de Commissie of het Scheidsgerecht, de honoraria en onkostenvergoedingen van zijn leden overeenkomen.
 
-#### Artikel 61
+##### Artikel 61
 
 1. Bij een bemiddelingsgeding worden de honoraria en onkostenvergoedingen van de leden van de Commissie, alsmede de wegens gebruikmaking van de diensten van het Centrum verschuldigde bedragen, voor gelijke delen door partijen gedragen. Iedere partij draagt alle andere kosten die zij in verband met het geding maakt.
 
@@ -484,11 +506,11 @@ De door partijen wegens gebruikmaking van de diensten van het Centrum verschuldi
 
 ### HOOFDSTUK VII. De plaats van het geding
 
-#### Artikel 62
+##### Artikel 62
 
 De bemiddelings- en arbitragegedingen bedoeld in dit Verdrag dienen ter plaatse waar het Centrum is gevestigd, behoudens het hierna bepaalde.
 
-#### Artikel 63
+##### Artikel 63
 
 Indien partijen aldus besluiten, kunnen de bemiddelings- en arbitragegedingen dienen:
 
@@ -498,17 +520,17 @@ Indien partijen aldus besluiten, kunnen de bemiddelings- en arbitragegedingen di
 
 ### HOOFDSTUK VIII. Geschillen tussen de Verdragsluitende Staten
 
-#### Artikel 64
+##### Artikel 64
 
 Geschillen die rijzen tussen de Verdragsluitende Staten met betrekking tot de interpretatie of de toepassing van dit Verdrag, die niet door onderhandelingen worden opgelost, worden op verzoek van een der partijen bij het geschil voor het Internationale Gerechtshof gebracht, tenzij de betrokken Staten een andere wijze van beslechting overeenkomen.
 
 ### HOOFDSTUK IX. Wijzigingen
 
-#### Artikel 65
+##### Artikel 65
 
 Iedere Verdragsluitende Staat kan wijzigingen in dit Verdrag voorstellen. De tekst van een wijzigingsvoorstel wordt medegedeeld aan de Secretaris-Generaal uiterlijk 90 dagen vóór de vergadering van de Raad van Bestuur waarop genoemde wijziging moet worden overwogen en wordt door de Secretaris-Generaal terstond ter kennis gebracht van alle leden van de Raad van Bestuur.
 
-#### Artikel 66
+##### Artikel 66
 
 1. Indien de Raad van Bestuur daartoe met een meerderheid van twee derden van zijn leden besluit, wordt de voorgestelde wijziging aan alle Verdragsluitende Staten toegezonden ter bekrachtiging, aanvaarding of goedkeuring. Iedere wijziging treedt in werking 30 dagen nadat de depositaris van dit Verdrag aan de Verdragsluitende Staten kennisgeving heeft verzonden van bekrachtiging, aanvaarding of goedkeuring van de wijziging door alle Verdragsluitende Staten.
 
@@ -516,41 +538,41 @@ Iedere Verdragsluitende Staat kan wijzigingen in dit Verdrag voorstellen. De tek
 
 ### HOOFDSTUK X. Slotbepalingen
 
-#### Artikel 67
+##### Artikel 67
 
 Dit Verdrag staat open voor ondertekening door Staten die lid zijn van de Bank. Het staat tevens open voor ondertekening door alle andere Staten die partij zijn bij het [Statuut van het Internationale Gerechtshof](https://wetten.overheid.nl/jci1.3:c:BWBV0005509), indien de Raad van Bestuur hen met een meerderheid van twee derden van zijn leden heeft uitgenodigd het Verdrag te ondertekenen.
 
-#### Artikel 68
+##### Artikel 68
 
 1. Dit Verdrag wordt door de ondertekenende Staten in overeenstemming met hun grondwettelijke procedures bekrachtigd, aanvaard of goedgekeurd.
 
 2. Dit Verdrag treedt in werking 30 dagen na het tijdstip van nederlegging van de 20ste akte van bekrachtiging, aanvaarding of goedkeuring. Ten aanzien van Staten die op een later tijdstip hun akte van bekrachtiging, aanvaarding of goedkeuring nederleggen, treedt het in werking 30 dagen na het tijdstip van die nederlegging.
 
-#### Artikel 69
+##### Artikel 69
 
 De Verdragsluitende Staten nemen de wettelijke en andere maatregelen, welke nodig zijn om de bepalingen van dit Verdrag van kracht te doen zijn op hun grondgebied.
 
-#### Artikel 70
+##### Artikel 70
 
 Dit Verdrag is van toepassing op alle gebieden waarvan de buitenlandse betrekkingen onder de verantwoordelijkheid van een der Verdragsluitende Staten vallen, tenzij die Staat deze gebieden, door middel van een schriftelijke kennisgeving aan de depositaris van dit Verdrag, heeft uitgesloten, hetzij op het tijdstip van de bekrachtiging, aanvaarding of goedkeuring, hetzij op enig later tijdstip.
 
-#### Artikel 71
+##### Artikel 71
 
 De Verdragsluitende Staten kunnen dit Verdrag opzeggen door middel van een schriftelijke kennisgeving aan de depositaris van dit Verdrag. De opzegging heeft rechtsgevolg vanaf zes maanden na ontvangst van een dergelijke kennisgeving.
 
-#### Artikel 72
+##### Artikel 72
 
 Een kennisgeving door een Verdragsluitende Staat overeenkomstig de artikelen 70 of 71 doet geen afbreuk aan de rechten en verplichtingen krachtens dit Verdrag van die Staat of van een van zijn samenstellende delen of organen of van een onderdaan van die Staat, die voortvloeien uit toestemming tot de bevoegdheid van het Centrum, gegeven vóór het tijdstip waarop genoemde kennisgeving door de depositaris is ontvangen.
 
-#### Artikel 73
+##### Artikel 73
 
 De akten van bekrachtiging, aanvaarding of goedkeuring van dit Verdrag en van daarin aangebrachte wijzigingen, worden nedergelegd bij de Bank, die zal optreden als depositaris van dit Verdrag. De depositaris zendt gewaarmerkte afschriften van dit Verdrag aan de Staten die lid zijn van de Bank en aan iedere andere Staat die is uitgenodigd het Verdrag te ondertekenen.
 
-#### Artikel 74
+##### Artikel 74
 
 De depositaris laat dit Verdrag bij het Secretariaat van de Verenigde Naties registreren overeenkomstig [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102), en het krachtens dit artikel door de Algemene Vergadering aangenomen Reglement.
 
-#### Artikel 75
+##### Artikel 75
 
 De depositaris stelt alle ondertekenende Staten in kennis van:
 

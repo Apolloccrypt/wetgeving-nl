@@ -1,13 +1,35 @@
 ---
-title: "Besluit eenmalige uitkering militairen 1992"
+title: "Besluit van 27 augustus 1993, houdende vaststelling van het Besluit eenmalige uitkering militairen 1992"
 identifier: "BWBR0006123"
-categorie: "Sociaal recht"
-publicatiedatum: 1993-10-29
-laatste_update: 1993-10-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006123"
+country: "nl"
+rank: "amvb"
+publication_date: "1993-10-29"
+last_updated: "1993-10-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006123"
+soort: "AMvB"
+stam_id: "353563"
+version_id: "520552"
+internal_id: "C28368071"
+label_id: "345464"
+dtd_version: "2.0"
+original_entry_into_force: "1993-10-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006123/1993-10-29/0"
+intitule_bron: "Stb.1993-540"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1993-08-27"
+intitule_status: "goed"
+original_publication: "Stb.1993-540"
+original_signed_date: "1993-08-27"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1993-10-29"
+jci_1_3: "jci1.3:c:BWBR0006123&z=1993-10-29&g=1993-10-29"
+jci_1_0: "1.0:c:BWBR0006123&g=1993-10-29"
+citeertitel_status: "officieel"
+short_title: "Besluit eenmalige uitkering militairen 1992"
+signed_date: "1993-08-27"
+entry_into_force: "1993-10-29"
 ---
-
 # Besluit van 27 augustus 1993, houdende vaststelling van het Besluit eenmalige uitkering militairen 1992
 
 Op de voordracht van Onze Minister van Defensie van 1 maart 1993, nr. PAV 5065/93005823;
@@ -20,7 +42,7 @@ Gezien het nader rapport van voornoemde Minister van Defensie van 17 augustus 19
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit besluit wordt verstaan onder:
 
@@ -30,27 +52,27 @@ Voor de toepassing van dit besluit wordt verstaan onder:
 
 - c. **bezoldiging:** hetgeen daaronder wordt verstaan in de Bezoldigingsregeling militairen zeemacht 1947 dan wel in de Regeling inkomsten militairen land- en luchtmacht 1969.
 
-#### Artikel 2
+##### Artikel 2
 
 De militair heeft aanspraak op een uitkering van 6% van de voor de militair over de maand september 1992 geldende bezoldiging.
 
-#### Artikel 3
+##### Artikel 3
 
 De militair die een deel van de bezoldiging geniet als gevolg van buitengewoon verlof, ziekte, schorsing of detentie, heeft aanspraak op een uitkering naar evenredigheid van het behoud van zijn bezoldiging.
 
-#### Artikel 4
+##### Artikel 4
 
 De gewezen militair heeft aanspraak op een uitkering van 5,56% van het voor de militair over de maand september 1992 geldende wachtgeld of uitkering wegens leeftijdsontslag of pensioen.
 
-#### Artikel 5
+##### Artikel 5
 
 De uitkering draagt een algemeen karakter en dient te worden aangemerkt als laatstelijk genoten bezoldiging in de zin van de Non-activiteitswet.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst en werkt terug tot en met 1 september 1992.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit wordt aangehaald als Besluit eenmalige uitkering militairen 1992.
 

@@ -1,20 +1,45 @@
 ---
 title: "Huishoudelijk reglement Fonds Podiumkunsten"
 identifier: "BWBR0031299"
-categorie: "Overig"
-publicatiedatum: 2012-03-01
-laatste_update: 2012-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031299"
+country: "nl"
+rank: "zbo"
+publication_date: "2012-03-01"
+last_updated: "2012-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031299"
+soort: "zbo"
+stam_id: "11674523"
+version_id: "19262112"
+internal_id: "C26874031"
+label_id: "11647264"
+dtd_version: "2.0"
+original_entry_into_force: "2012-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031299/2012-03-01/0"
+intitule_bron: "Stcrt.2012-3261"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-12-12"
+intitule_published: "2012-02-24"
+intitule_in_force: "2012-02-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-3261"
+original_signed_date: "2011-12-12"
+original_published_date: "2012-02-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-3261"
+entry_into_force_date: "2012-03-01"
+jci_1_3: "jci1.3:c:BWBR0031299&z=2012-03-01&g=2012-03-01"
+jci_1_0: "1.0:c:BWBR0031299&g=2012-03-01"
+citeertitel_status: "officieel"
+signed_date: "2011-12-12"
+entry_into_force: "2012-03-01"
 ---
-
 # Huishoudelijk reglement Fonds Podiumkunsten
 
 Gelet op [artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10) en [artikel 2 van het Algemeen Reglement Fonds Podiumkunsten](https://wetten.overheid.nl/jci1.3:c:BWBR0030539&artikel=2);
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit reglement wordt verstaan onder:
 
@@ -22,13 +47,13 @@ In dit reglement wordt verstaan onder:
 
 - **Fonds Podiumkunsten:** de stichting Nederlands Fonds voor Podiumkunsten+.
 
-#### Artikel 2. Subsidiebureau
+##### Artikel 2. Subsidiebureau
 
 1. Het bestuur oordeelt over bij het Fonds Podiumkunsten ingediende aanvragen met inachtneming van het bepaalde in het Algemeen Reglement Fonds Podiumkunsten en de op dit reglement gebaseerde deelregelingen.
 
 2. Het subsidiebureau ondersteunt het bestuur bij de afhandeling van ingediende aanvragen en bereidt de beoordeling van ingediende aanvragen door de adviescommissies voor.
 
-#### Artikel 3. Integriteit medewerkers
+##### Artikel 3. Integriteit medewerkers
 
 1. Werknemers van het Fonds Podiumkunsten vervullen geen nevenfuncties die strijdig zijn met het belang van het Fonds.
 
@@ -40,13 +65,13 @@ In dit reglement wordt verstaan onder:
 
 5. Het bestuur zorgt ervoor dat werknemers zonder gevaar voor hun rechtspositie melding kunnen doen van (vermeende) onregelmatigheden van algemene, operationele en financiële aard.
 
-#### Artikel 4. Transparantie en verantwoording
+##### Artikel 4. Transparantie en verantwoording
 
 1. Het bestuur evalueert periodiek de verschillende subsidie-instrumenten en verwerkt de resultaten hiervan in beleid.
 
 2. Het bestuur draagt er zorg voor dat in het kader van kwaliteitszorg voorzieningen getroffen worden waardoor personen en instellingen die met het Fonds Podiumkunsten in aanraking komen in de gelegenheid worden gesteld om voorstellen te doen ter verbetering van de werkwijzen en procedures. In het jaarverslag wordt hier melding van gemaakt.
 
-#### Artikel 5. Adviseurs en ad-hocadviseurs
+##### Artikel 5. Adviseurs en ad-hocadviseurs
 
 1. Adviseurs worden door het bestuur benoemd voor een periode van ten hoogste drie jaar en kunnen eenmaal herbenoemd worden. Het bestuur kan daarnaast ad-hocadviseurs benoemen.
 
@@ -62,7 +87,7 @@ In dit reglement wordt verstaan onder:
 
 7. Adviseurs en ad-hocadviseurs doen geen mededelingen aan derden over de inhoud van de beraadslaging over ingediende subsidieaanvragen, over de (uitkomsten van de) behandeling van aanvragen en over de inhoud van adviezen.
 
-#### Artikel 6. Adviescommissies
+##### Artikel 6. Adviescommissies
 
 1. Adviescommissies worden door het bestuur samengesteld en bestaan uit minimaal drie leden en een voorzitter.
 
@@ -88,7 +113,7 @@ In dit reglement wordt verstaan onder:
 
 6. Voorzitters, adviseurs en ad-hocadviseurs genieten per vergadering een door het bestuur vast te stellen vergoeding.
 
-#### Artikel 7. Integriteit advisering
+##### Artikel 7. Integriteit advisering
 
 1. Een adviseur of ad-hocadviseur neemt in het geheel niet deel aan de vergadering(en) in een subsidieronde als hij een persoonlijk belang heeft bij een aanvraag. De adviseur meldt onverwijld aan het bestuur als er mogelijk sprake is van een persoonlijk belang.
 
@@ -98,7 +123,7 @@ In dit reglement wordt verstaan onder:
 
 4. Adviseurs melden jaarlijks hun functies en nevenfuncties aan het Fonds.
 
-#### Artikel 8. Beoordeling subsidieaanvragen
+##### Artikel 8. Beoordeling subsidieaanvragen
 
 1. Het bestuur stelt een werkwijze op aan de hand waarvan subsidieaanvragen worden beoordeeld.
 
@@ -108,7 +133,7 @@ In dit reglement wordt verstaan onder:
 
 4. Een overzicht van de gehonoreerde aanvragen wordt geplaatst op de website.
 
-#### Artikel 9. Bezwaar
+##### Artikel 9. Bezwaar
 
 1. Bezwaarschriften worden afgehandeld door het bestuur.
 
@@ -122,17 +147,17 @@ In dit reglement wordt verstaan onder:
 
 6. Het bestuur neemt het besluit op een bezwaarschrift, waar van toepassing met inachtneming van het advies van de bezwarenadviescommissie.
 
-#### Artikel 10. Klachten
+##### Artikel 10. Klachten
 
 1. Klachten worden afgehandeld door het bestuur.
 
 2. Het bestuur zendt binnen 6 weken na ontvangst een reactie op een klacht.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Dit reglement kan worden aangehaald als: Huishoudelijk reglement Fonds Podiumkunsten.
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 Deze regeling treedt in werking op 1 maart 2012.
 

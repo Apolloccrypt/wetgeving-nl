@@ -1,13 +1,39 @@
 ---
-title: "Wijzigingsbesluit Besluit homeopatische farmaceutische produkten"
+title: "Besluit van 12 december 1995, houdende wijziging van het Besluit homeopatische farmaceutische produkten"
 identifier: "BWBR0007721"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2002-01-01
-laatste_update: 2002-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007721"
+country: "nl"
+rank: "amvb"
+publication_date: "2002-01-01"
+last_updated: "2002-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007721"
+soort: "AMvB"
+stam_id: "1465143"
+version_id: "2192422"
+internal_id: "C2192421"
+label_id: "1423344"
+dtd_version: "2.0"
+original_entry_into_force: "1995-12-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007721/2002-01-01/0"
+intitule_bron: "Stb.1995-654"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-12-12"
+intitule_published: "1995-12-28"
+intitule_in_force: "1995-12-28"
+intitule_status: "goed"
+original_publication: "Stb.1995-654"
+original_signed_date: "1995-12-12"
+original_published_date: "1995-12-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-1995-654"
+entry_into_force_date: "1995-12-29"
+jci_1_3: "jci1.3:c:BWBR0007721&z=2002-01-01&g=2002-01-01"
+jci_1_0: "1.0:c:BWBR0007721&g=2002-01-01"
+citeertitel_status: "officieel"
+short_title: "Wijzigingsbesluit Besluit homeopatische farmaceutische produkten"
+signed_date: "1995-12-12"
+entry_into_force: "1995-12-29"
 ---
-
 # Besluit van 12 december 1995, houdende wijziging van het Besluit homeopatische farmaceutische produkten
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 29 juni 1995, GMV/G 952674;
@@ -28,15 +54,15 @@ Gezien het nader rapport van voornoemde Minister van 6 december 1995, GMV/G 9545
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel II
+##### Artikel II
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel III
+##### Artikel III
 
 1. Op homeopatische farmaceutische produkten als bedoeld in [artikel 4, eerste lid, van het Besluit homeopatische farmaceutische produkten](https://wetten.overheid.nl/jci1.3:c:BWBR0005371&artikel=4), welke zijn bereid in overeenstemming met genoemd besluit zoals dat luidde onmiddellijk vóór de datum van inwerkingtreding bedoeld in [artikel IV, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007721&artikel=IV&z=2002-01-01&g=2002-01-01), van dit besluit, is tot vier jaar na die datum:
 
@@ -52,7 +78,7 @@ Bevat wijzigingen in andere regelgeving.
 
 5. Voor de behandeling van een aanmelding als bedoeld in het vierde lid is door de aanmelder een vergoeding verschuldigd volgens een door Onze Minister vastgesteld tarief. De vergoeding bedraagt ten hoogste € 226,89.
 
-#### Artikel IV
+##### Artikel IV
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst.
 

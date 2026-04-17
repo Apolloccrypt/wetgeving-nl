@@ -1,13 +1,37 @@
 ---
 title: "Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika inzake de geldendmaking van verplichtingen tot levensonderhoud"
 identifier: "BWBV0001535"
-categorie: "Internationaal recht"
-publicatiedatum: 2002-05-01
-laatste_update: 2002-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001535"
+country: "nl"
+rank: "verdrag"
+publication_date: "2002-05-01"
+last_updated: "2002-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001535"
+soort: "verdrag"
+stam_id: "10000115243"
+version_id: "10000146192"
+internal_id: "C10006991251"
+label_id: "10000115414"
+original_entry_into_force: "2002-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001535/2002-05-01/0"
+intitule_bron: "Trb.2001-117"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-05-01"
+intitule_published: "2001-06-28"
+intitule_in_force: "2002-07-18"
+intitule_status: "goed"
+original_publication: "Trb.2001-134"
+original_signed_date: "2002-05-01"
+original_published_date: "2001-08-03"
+original_effect: "structuurwijziging"
+original_url_id: "trb-2001-134"
+entry_into_force_date: "2002-05-01"
+jci_1_3: "jci1.3:c:BWBV0001535&z=2002-05-01&g=2002-05-01"
+jci_1_0: "1.0:c:BWBV0001535&g=2002-05-01"
+citeertitel_status: "officieel"
+signed_date: "2002-05-01"
+entry_into_force: "2002-05-01"
 ---
-
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika inzake de geldendmaking van verplichtingen tot levensonderhoud
 
 De Regering van de Verenigde Staten van Amerika
@@ -24,7 +48,7 @@ In overeenstemming met de procedures voor de totstandkoming van overeenkomsten i
 
 Zijn het volgende overeengekomen:
 
-#### Artikel I. Doelstelling
+##### Artikel I. Doelstelling
 
 1. De Partijen bij dit Verdrag beogen, met inachtneming van de daarin opgenomen bepalingen, voorzieningen te treffen voor:
 
@@ -32,7 +56,7 @@ Zijn het volgende overeengekomen:
 
 - b. de erkenning en de tenuitvoerlegging van beslissingen houdende oplegging of verhaal van levensonderhoud alsmede schikkingen inzake levensonderhoud (hierna te noemen onderhoudsbeslissingen) welke tot stand zijn gebracht op het grondgebied van een Partij of aldaar zijn erkend.
 
-#### Artikel II. Toepassingsgebied
+##### Artikel II. Toepassingsgebied
 
 1. Dit Verdrag heeft betrekking op verplichtingen tot levensonderhoud voortvloeiend uit familierechtelijke betrekkingen of verwantschap, met inbegrip van de verplichting tot levensonderhoud jegens een buiten huwelijk geboren kind. Verplichtingen tot levensonderhoud jegens een echtgenoot of vroegere echtgenoot ingeval er geen minderjarige kinderen zijn, worden op grond van dit Verdrag echter uitsluitend geldend gemaakt in staten en andere territoriale eenheden van de Verenigde Staten die verkiezen zulks te doen.
 
@@ -40,7 +64,7 @@ Zijn het volgende overeengekomen:
 
 3. De in dit Verdrag voorziene rechtsmiddelen treden niet in de plaats van en laten onverlet eventuele andere rechtsmiddelen ter geldendmaking van een geldige verplichting tot levensonderhoud.
 
-#### Artikel III. Centrale autoriteiten
+##### Artikel III. Centrale autoriteiten
 
 1. De Partijen wijzen elk een lichaam aan als centrale autoriteit die tot taak heeft de naleving van de bepalingen van dit Verdrag te bevorderen.
 
@@ -54,7 +78,7 @@ Zijn het volgende overeengekomen:
 
 6. Kennisgevingen worden door de centrale autoriteit of een ander openbaar lichaam van de ene Partij rechtstreeks gericht aan de centrale autoriteit of het andere verantwoordelijke openbare lichaam van de andere Partij, als aangewezen door die Partij.
 
-#### Artikel IV. Verzoeken, toezending van stukken en rechtshulp
+##### Artikel IV. Verzoeken, toezending van stukken en rechtshulp
 
 1. Een verzoek om inning of verhaal van levensonderhoud van een schuldenaar die onderworpen is aan de rechtsmacht van de ene Partij (hierna te noemen de Aangezochte Partij) wordt gedaan door de centrale autoriteit of een ander daartoe aangewezen openbaar lichaam van de andere Partij (hierna te noemen de Verzoekende Partij) overeenkomstig de geldende procedurevoorschriften van de Verzoekende Partij.
 
@@ -76,27 +100,27 @@ Zijn het volgende overeengekomen:
 
 7. Alle stukken die op grond van dit Verdrag worden overgelegd, zijn vrijgesteld van legalisatie.
 
-#### Artikel V. Taken van de centrale autoriteit van de Aangezochte Partij
+##### Artikel V. Taken van de centrale autoriteit van de Aangezochte Partij
 
 De centrale autoriteit of het andere daartoe aangewezen openbare lichaam van de Aangezochte Partij neemt namens de schuldeiser alle passende maatregelen met het oog op de inning of het verhaal van levensonderhoud, met inbegrip van het instellen en het voeren van procedures inzake levensonderhoud, waar nodig de vaststelling van het vaderschap, de erkenning en de tenuitvoerlegging van beslissingen inzake levensonderhoud alsmede de incasso en de overdracht van ontvangen bedragen.
 
-#### Artikel VI. Kosten van dienstverlening
+##### Artikel VI. Kosten van dienstverlening
 
 Alle in dit Verdrag beschreven procedures, met inbegrip van de dienstverlening van de centrale autoriteit en eventueel vereiste juridische en administratieve bijstand, worden door de Aangezochte Partij gevoerd onderscheidenlijk verleend zonder kosten voor de schuldeiser. De kosten van bloed- of weefselonderzoek ter vaststelling van het vaderschap zullen worden gedragen door de Partij voor wier gerechtelijke instanties de procedure plaatsvindt. Een Partij is gerechtigd een raming te maken van kosten van een procedure tegen de schuldenaar die voor de gerechtelijke instanties van die Partij verschijnt.
 
-#### Artikel VII. Erkenning en tenuitvoerlegging van beslissingen inzake levensonderhoud
+##### Artikel VII. Erkenning en tenuitvoerlegging van beslissingen inzake levensonderhoud
 
 1. Beslissingen inzake levensonderhoud, met inbegrip van zodanige beslissingen die zijn gebaseerd op een vaststelling van het vaderschap, afkomstig uit de Verenigde Staten, worden in het Koninkrijk der Nederlanden erkend en ten uitvoer gelegd voor zover de feiten van de zaak grond opleveren voor erkenning en tenuitvoerlegging overeenkomstig het op 2 oktober 1973 te 's-Gravenhage tot stand gekomen [Verdrag inzake de erkenning en de tenuitvoerlegging van beslissingen over onderhoudsverplichtingen](https://wetten.overheid.nl/jci1.3:c:BWBV0001995), als ware dit verdrag van kracht tussen de Partijen.
 
 2. Beslissingen inzake levensonderhoud, met inbegrip van zodanige beslissingen die zijn gebaseerd op een vaststelling van het vaderschap, afkomstig uit het Koninkrijk der Nederlanden, worden in de Verenigde Staten erkend en ten uitvoer gelegd voor zover de feiten van de zaak grond opleveren voor erkenning en tenuitvoerlegging overeenkomstig de **Uniform Interstate Family Support Act** (Eenvormige wet inzake de inning van levensonderhoud tussen staten van de Verenigde Staten), als ware deze wet van kracht tussen de Partijen.
 
-#### Artikel VIII. Toepasselijk recht
+##### Artikel VIII. Toepasselijk recht
 
 1. Alle uit hoofde van dit Verdrag door een Partij te nemen maatregelen en in acht te nemen procedures zullen worden uitgevoerd met toepassing van het recht, met inbegrip van het internationaal privaatrecht alsmede de procedurevoorschriften van die Partij.
 
 2. De fysieke aanwezigheid van het kind of de ouder die het gezag over hem heeft, is niet vereist in procedures uit hoofde van dit Verdrag voor de gerechtelijke instanties van de Aangezochte Partij.
 
-#### Artikel IX. Territoriale toepassing
+##### Artikel IX. Territoriale toepassing
 
 1. Wat het Koninkrijk der Nederlanden betreft, geldt dit Verdrag voor het grondgebied van het Koninkrijk in Europa. De toepasselijkheid van dit Verdrag kan, in zijn geheel of met de eventueel noodzakelijke wijzigingen, door middel van een schriftelijke overeenkomst tussen de Partijen worden uitgebreid tot de Nederlandse Antillen of Aruba.
 
@@ -104,13 +128,13 @@ Alle in dit Verdrag beschreven procedures, met inbegrip van de dienstverlening v
 
 3. Wat de Verenigde Staten van Amerika betreft, geldt dit Verdrag voor de vijftig staten van de Verenigde Staten, Amerikaans Samoa, het District Columbia, Guam, Porto Rico, de Maagdeneilanden van de Verenigde Staten en enige andere territoriale eenheid van de Verenigde Staten die Titel IV-D van de **Social Security Act** (Wet op de Sociale Verzekering) uitvoert.
 
-#### Artikel X. Inwerkingtreding
+##### Artikel X. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking op de dag waarop de Regering van het Koninkrijk der Nederlanden aan de Regering van de Verenigde Staten van Amerika kennis geeft dat aan de grondwettelijke vereisten van het Koninkrijk der Nederlanden voor de inwerkingtreding is voldaan.
 
 2. Dit Verdrag is van toepassing op een eventueel reeds gegeven beslissing over levensonderhoud alsmede op levensonderhoud dat op grond van een zodanige beslissing verschuldigd is, ongeacht het tijdstip waarop die beslissing is gegeven.
 
-#### Artikel XI. Beëindiging
+##### Artikel XI. Beëindiging
 
 1. Elk der Partijen kan dit Verdrag beëindigen door middel van een schriftelijke kennisgeving aan de andere Partij langs diplomatieke weg. De beëindiging wordt van kracht op de eerste dag van de derde maand na de ontvangst van de kennisgeving.
 

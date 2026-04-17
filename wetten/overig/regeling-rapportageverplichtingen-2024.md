@@ -1,13 +1,35 @@
 ---
 title: "Regeling rapportageverplichtingen 2024"
 identifier: "BWBR0050164"
-categorie: "Overig"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050164"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050164"
+soort: "zbo"
+stam_id: "17208323"
+version_id: "30304822"
+internal_id: "C43475101"
+label_id: "17114334"
+dtd_version: "2.0"
+original_entry_into_force: "2025-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050164/2025-01-01/0"
+intitule_bron: "Stcrt.2024-27962"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2024-08-28"
+intitule_in_force: "2024-08-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-27962"
+original_published_date: "2024-08-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-27962"
+entry_into_force_date: "2025-01-01"
+jci_1_3: "jci1.3:c:BWBR0050164&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0050164&g=2025-01-01"
+citeertitel_status: "officieel"
+entry_into_force: "2025-01-01"
 ---
-
 # Regeling rapportageverplichtingen 2024
 
 gelet op de [artikelen 34k van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=34k), [artikel 5.1, eerste en derde lid, van het Besluit kansspelen op afstand](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=5.1), de [artikelen 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=4), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=6) en [7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=7), en [20, vijfde lid, van het Besluit werving, reclame, verslavingspreventie kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=20), de [artikelen 4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&artikel=4.14), [4.15](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&artikel=4.15), [4.16](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&artikel=4.16), [4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&artikel=4.17) en [4.18 van de Regeling Kansspelen op afstand](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&artikel=4.18), en de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&artikel=2) en [14 van de Regeling werving, reclame, verslavingspreventie kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&artikel=14),
@@ -16,7 +38,7 @@ besluit de volgende regels vast te stellen:
 
 #### Paragraaf 1. Definities
 
-#### Artikel 1.1. Definities
+##### Artikel 1.1. Definities
 
 - 1. **besluit KOA:** [Besluit kansspelen op afstand](https://wetten.overheid.nl/jci1.3:c:BWBR0044773);
 
@@ -50,7 +72,7 @@ besluit de volgende regels vast te stellen:
 
 #### Paragraaf 2. Wijze van rapporteren
 
-#### Artikel 2.1. Vergunninghouder KOA
+##### Artikel 2.1. Vergunninghouder KOA
 
 1. Op grond van de in [artikel 5.1, eerste lid, van het besluit KOA](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=5.1), de [artikelen 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=4), en [7, vierde lid, van het besluit WRVK](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=7) en [artikel 2 van de regeling WRVK](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&artikel=2) opgenomen verplichtingen rapporteert een vergunninghouder KOA periodiek aan de raad van bestuur over
 
@@ -72,7 +94,7 @@ besluit de volgende regels vast te stellen:
 
 4. Bij iedere rapportage wordt het voorblad ingevuld.
 
-#### Artikel 2.2. Vergunninghouder speelcasino of speelautomatenhal
+##### Artikel 2.2. Vergunninghouder speelcasino of speelautomatenhal
 
 1. Op grond van de in [artikelen 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=4), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=6), [7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=7), [20, vijfde lid, van het besluit WRVK](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=20) en [artikel 2 van de regeling WRVK](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&artikel=2) opgenomen verplichtingen rapporteert een vergunninghouder speelcasino of een vergunninghouder speelautomatenhal periodiek aan de raad van bestuur over
 
@@ -90,7 +112,7 @@ besluit de volgende regels vast te stellen:
 
 6. De houder van een vergunning als bedoeld in [artikel 30h van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30h) kan een rapportage indienen namens meerdere houders van vergunningen als bedoeld in de [artikelen 27h](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27h) en [artikel 30c, eerste lid, aanhef en onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30c). In dat geval wordt de rapportage uitgesplitst naar vestiging.
 
-#### Artikel 2.3. Vergunninghouder instantloterij, sportweddenschappen, totalisator, staatsloterij, lotto en niet-incidentele loterij
+##### Artikel 2.3. Vergunninghouder instantloterij, sportweddenschappen, totalisator, staatsloterij, lotto en niet-incidentele loterij
 
 1. Op grond van de in [artikel 4, eerste lid, van het besluit WRVK](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=4) en [artikel 2 van de regeling WRVK](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&artikel=2) opgenomen verplichtingen rapporteert
 
@@ -114,13 +136,13 @@ periodiek aan de raad van bestuur over diens wervings- en reclameactiviteiten en
 
 4. Bij iedere rapportage wordt het voorblad ingevuld.
 
-#### Artikel 2.4. Taal
+##### Artikel 2.4. Taal
 
 De in [artikel 2.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050164&paragraaf=2&artikel=2.1&z=2025-01-01&g=2025-01-01), [artikel 2.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050164&paragraaf=2&artikel=2.2&z=2025-01-01&g=2025-01-01), en [2.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050164&paragraaf=2&artikel=2.3&z=2025-01-01&g=2025-01-01) genoemde rapportageformats worden ingevuld en aangeleverd in de Nederlandse taal.
 
 #### Paragraaf 3. Frequentie rapporteren
 
-#### Artikel 3.1. Jaarrapportages
+##### Artikel 3.1. Jaarrapportages
 
 1. De jaarrapportages als bedoeld in [artikel 4.18, eerste lid, van de regeling KOA](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&artikel=4.18) en [artikel 2, eerste lid, van de regeling WRVK](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&artikel=2) hebben betrekking op het voorafgaande kalenderjaar.
 
@@ -128,7 +150,7 @@ De in [artikel 2.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050164&p
 
 3. De verplichting om jaarlijks te rapporteren geldt niet voor de in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0050164&paragraaf=3&artikel=3.2&z=2025-01-01&g=2025-01-01) genoemde onderwerpen, waarvoor per kwartaal moet worden gerapporteerd. Voor deze onderwerpen kan worden volstaan met vier kwartaalrapportages.
 
-#### Artikel 3.2. Kwartaalrapportages
+##### Artikel 3.2. Kwartaalrapportages
 
 1. Op grond van [artikel 2, vijfde lid, van de regeling WRVK](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&artikel=2) rapporteren vergunninghouders ieder kwartaal over hun wervings- en reclameactiviteiten en het daaromtrent gevoerde beleid.
 
@@ -142,7 +164,7 @@ De in [artikel 2.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050164&p
 
 6. De kwartaalrapportages worden uiterlijk binnen 28 kalenderdagen na afloop van het kwartaal ingediend.
 
-#### Artikel 3.3. Overgangsregeling
+##### Artikel 3.3. Overgangsregeling
 
 1. Met ingang van 1 januari 2025 rapporteren vergunninghouders over het voorafgaande kwartaal volgens de in deze regeling genoemde rapportageformats.
 
@@ -150,14 +172,14 @@ De in [artikel 2.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050164&p
 
 #### Paragraaf 4. Slotbepalingen
 
-#### Artikel 4.1. Inwerkingtreding
+##### Artikel 4.1. Inwerkingtreding
 
 Deze regeling wordt met de toelichting gepubliceerd in de Staatscourant en treedt in werking op 1 januari 2025.
 
-#### Artikel 4.2
+##### Artikel 4.2
 
 De [Regeling rapportageverplichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0045552) (Staatscourant 2021, 39451) wordt ingetrokken.
 
-#### Artikel 4.3. Citeertitel
+##### Artikel 4.3. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling rapportageverplichtingen 2024.

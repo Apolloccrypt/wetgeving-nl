@@ -1,16 +1,38 @@
 ---
 title: "Overeenkomst van Locarno van 8 oktober 1968 tot instelling van een internationale classificatie voor tekeningen en modellen van nijverheid"
 identifier: "BWBV0004456"
-categorie: "Internationaal recht"
-publicatiedatum: 1981-11-23
-laatste_update: 1981-11-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004456"
+country: "nl"
+rank: "verdrag"
+publication_date: "1981-11-23"
+last_updated: "1981-11-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004456"
+soort: "verdrag"
+stam_id: "10004141523"
+version_id: "10004310372"
+internal_id: "C10006985861"
+label_id: "10004126584"
+dtd_version: "2.0"
+original_entry_into_force: "1977-03-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004456/1981-11-23/0"
+intitule_bron: "Trb.1969-235"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1969-12-29"
+intitule_in_force: "1977-01-17"
+intitule_status: "goed"
+original_publication: "Trb.1969-235"
+original_published_date: "1969-12-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1969-235"
+entry_into_force_date: "1977-03-30"
+jci_1_3: "jci1.3:c:BWBV0004456&z=1981-11-23&g=1981-11-23"
+jci_1_0: "1.0:c:BWBV0004456&g=1981-11-23"
+citeertitel_status: "redactioneel"
+entry_into_force: "1977-03-30"
 ---
-
 # Overeenkomst van Locarno van 8 oktober 1968 tot instelling van een internationale classificatie voor tekeningen en modellen van nijverheid
 
-#### Artikel 1. Oprichting van een bijzondere Unie; Vaststelling van een internationale classificatie
+##### Artikel 1. Oprichting van een bijzondere Unie; Vaststelling van een internationale classificatie
 
 1). De landen waarvoor deze Overeenkomst geldt vormen een bijzondere Unie.
 
@@ -34,7 +56,7 @@ bron: "https://wetten.overheid.nl/BWBV0004456"
 
 - b). In overleg met de betrokken regeringen worden door het Internationale Bureau van de intellectuele eigendom (hierna te noemen „het Internationale Bureau"), genoemd in het [Verdrag ter oprichting van de Wereldorganisatie voor de intellectuele eigendom](https://wetten.overheid.nl/jci1.3:c:BWBV0004328) (hierna te noemen „de Organisatie”), officiële teksten van de internationale classificatie vastgelegd in de andere talen die de Algemene Vergadering, bedoeld in artikel 5, kan aangeven.
 
-#### Artikel 2. Toepassing en juridische draagwijdte van de internationale classificatie
+##### Artikel 2. Toepassing en juridische draagwijdte van de internationale classificatie
 
 1). Onverminderd de door deze Overeenkomst opgelegde verplichtingen, heeft de internationale classificatie slechts een administratief karakter. Elk land kan daaraan evenwel de juridische draagwijdte toekennen die het gewenst acht. De landen van de bijzondere Unie worden met name niet door de internationale classificatie gebonden, wat betreft de aard en de omvang van de bescherming die de tekening of het model in die landen geniet.
 
@@ -44,7 +66,7 @@ bron: "https://wetten.overheid.nl/BWBV0004456"
 
 4). Bij de keuze van de benamingen die in de alfabetische lijst van de voortbrengselen moeten worden opgenomen, vermijdt de Commissie van deskundigen, voor zover zulks naar redelijkheid mogelijk is, het gebruik benamingen waarop uitsluitende rechten kunnen bestaan. Met het opnemen in de alfabetische lijst van welke term ook, spreekt de Commissie van deskundigen evenwel geen oordeel uit over het al dan niet bestaan van uitsluitende rechten daarop.
 
-#### Artikel 3. Commissie van deskundigen
+##### Artikel 3. Commissie van deskundigen
 
 1). Bij het Internationale Bureau wordt een Commissie van deskundigen ingesteld, die zal worden belast met de taken genoemd in artikel 1, vierde, vijfde en zesde lid.
 
@@ -62,13 +84,13 @@ De voorstellen van de Administraties en van het Internationale Bureau worden doo
 
 6). Ingeval een land geen vertegenwoordiger heeft aangewezen voor een bepaalde zitting van de Commissie van deskundigen, of de aangewezen deskundige zijn stem niet heeft uitgebracht tijdens de zitting of binnen een in het huishoudelijke reglement van de Commissie van deskundigen vastgestelde termijn, wordt het desbetreffende land geacht het besluit van de Commissie te hebben aanvaard.
 
-#### Artikel 4. Kennisgeving en bekendmaking van de classificatie, alsmede van aanvullingen en wijzigingen daarvan
+##### Artikel 4. Kennisgeving en bekendmaking van de classificatie, alsmede van aanvullingen en wijzigingen daarvan
 
 1). De alfabetische lijst van voortbrengselen en de toelichtingen vastgesteld door de Commissie van deskundigen, alsmede alle wijzigingen en aanvullingen van de internationale classificatie waartoe de Commissie besluit, worden door het Internationale Bureau ter kennis gebracht van de Administraties van de landen van de bijzondere Unie. De besluiten van de Commissie van deskundigen treden in werking na ontvangst van de kennisgeving. Indien zij de instelling van een nieuwe klasse of de overbrenging van voortbrengselen van de ene klasse naar de andere inhouden, treden zij evenwel in werking binnen een termijn van zes maanden, te rekenen van de datum van verzending van de kennisgeving.
 
 2). Het Internationale Bureau brengt in zijn hoedanigheid van bewaarder van de internationale classificatie daarin de in werking getreden wijzigingen en aanvullingen aan. Van deze wijzigingen en aanvullingen geschiedt bekendmaking in de door de Algemene Vergadering aan te wijzen periodieken.
 
-#### Artikel 5. De Algemene Vergadering van de Unie
+##### Artikel 5. De Algemene Vergadering van de Unie
 
 - a). De bijzondere Unie kent een Algemene Vergadering, samengesteld uit de landen van de bijzondere Unie.
 
@@ -122,7 +144,7 @@ De voorstellen van de Administraties en van het Internationale Bureau worden doo
 
 5). De Algemene Vergadering stelt haar reglement van orde vast.
 
-#### Artikel 6. Het Internationale Bureau
+##### Artikel 6. Het Internationale Bureau
 
 - a). De aan de bijzondere Unie toevallende administratieve taken worden verricht door het Internationale Bureau.
 
@@ -140,7 +162,7 @@ De voorstellen van de Administraties en van het Internationale Bureau worden doo
 
 4). Het Internationale Bureau voert alle overige hem opgedragen taken uit.
 
-#### Artikel 7. Financiën
+##### Artikel 7. Financiën
 
 - a). De bijzondere Unie heeft een begroting.
 
@@ -186,7 +208,7 @@ De voorstellen van de Administraties en van het Internationale Bureau worden doo
 
 8). Het nazien der rekeningen wordt verricht, op de wijze voorzien in het financiële reglement, door een of meer landen van de bijzondere Unie of door onafhankelijke controleurs, die met hun instemming zijn aangewezen door de Algemene Vergadering.
 
-#### Artikel 8. Wijziging van de artikelen 5 tot en met 8
+##### Artikel 8. Wijziging van de artikelen 5 tot en met 8
 
 1). Voorstellen tot wijziging van de artikelen 5, 6 en 7 en van dit artikel kunnen worden ingediend door ieder land van de bijzondere Unie of door de Directeur-Generaal. Deze voorstellen worden door laatstgenoemde ten minste zes maanden voor zij aan de behandeling door de Algemene Vergadering worden onderworpen, medegedeeld aan de landen van de bijzondere Unie.
 
@@ -194,7 +216,7 @@ De voorstellen van de Administraties en van het Internationale Bureau worden doo
 
 3). De wijzigingen van de in het eerste lid genoemde artikelen worden van kracht één maand na ontvangst door de Directeur-Generaal van de schriftelijke verklaringen van aanvaarding, verricht overeenkomstig hun onderscheiden grondwettelijke procedures, door drie vierde van de landen die lid waren van de bijzondere Unie op het tijdstip waarop de herziening werd aanvaard. Een aldus aanvaarde herziening van de genoemde artikelen bindt alle landen die lid zijn van de bijzondere Unie op het tijdstip waarop de wijziging van kracht wordt, of die op een latere datum lid worden; wijzigingen, die de financiële verplichtingen van de landen der bijzondere Unie verzwaren, binden evenwel slechts die landen die te kennen hebben gegeven deze wijzigingen te aanvaarden.
 
-#### Artikel 9. Bekrachtiging, toetreding; inwerkingtreding
+##### Artikel 9. Bekrachtiging, toetreding; inwerkingtreding
 
 1). Elk land dat partij is bij het [Verdrag van Parijs voor de bescherming van de industriële eigendom](https://wetten.overheid.nl/jci1.3:c:BWBV0004120) en dat deze Overeenkomst heeft ondertekend, kan haar bekrachtigen en, zo het deze niet heeft ondertekend, daartoe toetreden.
 
@@ -206,17 +228,17 @@ De voorstellen van de Administraties en van het Internationale Bureau worden doo
 
 4). Bekrachtiging of toetreding houdt van rechtswege in toetreding tot alle bepalingen en toelating tot alle voordelen in deze Overeenkomst vastgelegd.
 
-#### Artikel 10. Rechtskracht en looptijd van de Overeenkomst
+##### Artikel 10. Rechtskracht en looptijd van de Overeenkomst
 
 Deze Overeenkomst heeft dezelfde rechtskracht en dezelfde looptijd als het [Verdrag van Parijs voor de bescherming van de industriële eigendom](https://wetten.overheid.nl/jci1.3:c:BWBV0004120).
 
-#### Artikel 11. Herziening van de artikelen 1 tot en met 4 en 9 tot en met 15
+##### Artikel 11. Herziening van de artikelen 1 tot en met 4 en 9 tot en met 15
 
 1). De artikelen 1 tot en met 4 en 9 tot en met 15 van deze Overeenkomst kunnen worden herzien ten einde daarin wenselijk geachte verbeteringen aan te brengen.
 
 2). Elk van deze herzieningen zal worden behandeld in een conferentie van afgevaardigden van de landen van de bijzondere Unie.
 
-#### Artikel 12. Opzegging
+##### Artikel 12. Opzegging
 
 1). Elk land kan deze Overeenkomst opzeggen door een kennisgeving gericht aan de Directeur-Generaal. Deze opzegging geldt alleen ten aanzien van het land dat heeft opgezegd; de Overeenkomst blijft van kracht en uitvoerbaar ten opzichte van de andere landen van de bijzondere Unie.
 
@@ -224,11 +246,11 @@ Deze Overeenkomst heeft dezelfde rechtskracht en dezelfde looptijd als het [Verd
 
 3). De bevoegdheid tot opzegging, bedoeld in dit artikel, kan door een land slechts worden uitgeoefend na afloop van een termijn van vijf jaren, te rekenen van de datum waarop dat land lid is geworden van de bijzondere Unie.
 
-#### Artikel 13. Grondgebieden
+##### Artikel 13. Grondgebieden
 
 De bepalingen van [artikel 24 van het Verdrag van Parijs voor de bescherming van de industriële eigendom](https://wetten.overheid.nl/jci1.3:c:BWBV0004120&artikel=24) zijn van toepassing op deze Overeenkomst.
 
-#### Artikel 14. Ondertekening, talen, kennisgevingen
+##### Artikel 14. Ondertekening, talen, kennisgevingen
 
 - a). Deze Overeenkomst wordt ondertekend in een enkel exemplaar in de Engelse en de Franse taal, welke twee teksten gelijkelijk gezaghebbend zijn, en zal worden nedergelegd bij de Regering van Zwitserland.
 
@@ -242,7 +264,7 @@ De bepalingen van [artikel 24 van het Verdrag van Parijs voor de bescherming van
 
 5). De Directeur-Generaal brengt de datum van inwerkingtreding van de Overeenkomst, de ondertekeningen, de nederleggingen van akten van bekrachtiging of toetreding, de aanvaardingen van wijzigingen van deze Overeenkomst en de data waarop deze wijzigingen van kracht worden, alsmede de kennisgevingen van opzegging ter kennis van de Regeringen van alle landen van de bijzondere Unie.
 
-#### Artikel 15. Overgangsbepaling
+##### Artikel 15. Overgangsbepaling
 
 Tot het tijdstip van ambtsaanvaarding van de eerste Directeur-Generaal worden de verwijzingen in deze Overeenkomst naar het Internationale Bureau van de Organisatie of naar de Directeur-Generaal geacht betrekking te hebben op de Verenigde Internationale Bureaus voor de bescherming van de intellectuele eigendom (BIRPI) respectievelijk op hun Directeur.
 

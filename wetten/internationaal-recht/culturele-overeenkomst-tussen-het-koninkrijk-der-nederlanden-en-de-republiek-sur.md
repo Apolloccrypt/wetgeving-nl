@@ -1,13 +1,35 @@
 ---
 title: "Culturele Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Suriname"
 identifier: "BWBV0003381"
-categorie: "Internationaal recht"
-publicatiedatum: 1978-03-20
-laatste_update: 1978-03-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003381"
+country: "nl"
+rank: "verdrag"
+publication_date: "1978-03-20"
+last_updated: "1978-03-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003381"
+soort: "verdrag"
+stam_id: "10003507513"
+version_id: "10003554502"
+internal_id: "C10006980961"
+label_id: "10003492904"
+dtd_version: "2.0"
+original_entry_into_force: "1978-03-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003381/1978-03-20/0"
+intitule_bron: "Trb.1976-30"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1976-03-08"
+intitule_in_force: "1978-04-21"
+intitule_status: "goed"
+original_publication: "Trb.1976-30"
+original_published_date: "1976-03-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1976-30"
+entry_into_force_date: "1978-03-20"
+jci_1_3: "jci1.3:c:BWBV0003381&z=1978-03-20&g=1978-03-20"
+jci_1_0: "1.0:c:BWBV0003381&g=1978-03-20"
+citeertitel_status: "redactioneel"
+entry_into_force: "1978-03-20"
 ---
-
 # Culturele Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Suriname
 
 De Regering van het Koninkrijk der Nederlanden
@@ -22,7 +44,7 @@ ervan overtuigd dat deze samenwerking mede zal bijdragen tot een beter begrip tu
 
 hebben besloten een culturele overeenkomst te sluiten en zijn het volgende overeengekomen:
 
-#### Artikel I
+##### Artikel I
 
 Teneinde de samenwerking tussen de beide landen op het gebied van de wetenschapsbeoefening en het onderwijs te bevorderen, verbinden de Overeenkomstsluitende Partijen zich met name ertoe op basis van wederkerigheid:
 
@@ -38,7 +60,7 @@ Teneinde de samenwerking tussen de beide landen op het gebied van de wetenschaps
 
 - f. de instelling en verdere ontwikkeling te bevorderen van leerstoelen, lectoraten en cursussen aan hun universiteiten en andere instellingen van onderwijs en onderzoek, die betrekking hebben op de taal, de cultuur en de beschaving van het andere land, alsmede meer in het algemeen de samenwerking en uitwisseling op het gebied van taal en letterkunde te bevorderen.
 
-#### Artikel II
+##### Artikel II
 
 Teneinde in hun onderscheiden landen een betere kennis van de cultuur in brede zin van het andere land te bevorderen, zullen de Overeenkomstsluitende Partijen wederkerig aanmoedigen:
 
@@ -58,11 +80,11 @@ Teneinde in hun onderscheiden landen een betere kennis van de cultuur in brede z
 
 - h. het organiseren van andere overeen te komen activiteiten met een cultureel karakter.
 
-#### Artikel III
+##### Artikel III
 
 Teneinde in beide landen de beschikbaarstelling van Nederlandstalige teksten van zoveel mogelijk verschillende geschriften te bevorderen verbinden de Overeenkomstsluitende Partijen zich de uitwisseling te bevorderen van in het Nederlands vertaalde geschriften, die in een andere dan de Nederlandse taal zijn gesteld.
 
-#### Artikel IV
+##### Artikel IV
 
 In elk land zal een commissie worden ingesteld bestaande uit ten hoogste zes leden die tot taak zal hebben de Regering voorstellen te doen die betrekking hebben op de verwezenlijking van deze overeenkomst.
 
@@ -70,7 +92,7 @@ Haar leden zullen worden aangewezen door de daartoe bevoegde Ministers.
 
 Elke commissie vergadert steeds wanneer daartoe aanleiding bestaat en tenminste eenmaal per jaar.
 
-#### Artikel V
+##### Artikel V
 
 De beide commissies zullen tenminste eenmaal in de, twee jaren bijeenkomen, beurtelings in Suriname en in Nederland.
 
@@ -78,19 +100,19 @@ De leden kunnen zich ter vergadering doen bijstaan door een beperkt aantal desku
 
 De bijeenkomsten zullen worden voorgezeten door een commissielid van het land waar zij worden gehouden.
 
-#### Artikel VI
+##### Artikel VI
 
 Nadere regelingen die voor de verwezenlijking van de doelstelling van deze Overeenkomst nodig zijn, worden in onderling overleg door de bevoegde Ministers der Overeenkomstsluitende Partijen getroffen.
 
-#### Artikel VII
+##### Artikel VII
 
 Wat het Koninkrijk der Nederlanden betreft, zal de onderhavige overeenkomst gelden voor het Rijk in Europa.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Deze Overeenkomst treedt in werking, nadat beide partijen elkaar hebben medegedeeld dat in hun land aan de terzake geldende constitutionele vereisten is voldaan.
 
-#### Artikel IX
+##### Artikel IX
 
 De onderhavige overeenkomst zal van kracht blijven voor een tijdvak van vijf jaar.
 

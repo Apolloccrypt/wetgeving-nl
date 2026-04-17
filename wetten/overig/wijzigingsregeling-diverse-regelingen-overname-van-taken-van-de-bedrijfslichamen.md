@@ -1,13 +1,39 @@
 ---
-title: "Wijzigingsregeling diverse regelingen (overname van taken van de bedrijfslichamen)"
+title: "Regeling van de Staatssecretaris van Economische Zaken 2 december 2013, nr. WJZ/13161483, houdende wijziging van diverse regelingen in verband met de overname van taken van de bedrijfslichamen"
 identifier: "BWBR0034328"
-categorie: "Overig"
-publicatiedatum: 2014-01-01
-laatste_update: 2014-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034328"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2014-01-01"
+last_updated: "2014-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034328"
+soort: "ministeriele-regeling"
+stam_id: "12469273"
+version_id: "20961952"
+internal_id: "C30094001"
+label_id: "12440114"
+dtd_version: "2.0"
+original_entry_into_force: "2014-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034328/2014-01-01/0"
+intitule_bron: "Stcrt.2013-34135"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-12-02"
+intitule_published: "2013-12-10"
+intitule_in_force: "2013-12-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-34135"
+original_signed_date: "2013-12-02"
+original_published_date: "2013-12-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-34135"
+entry_into_force_date: "2014-01-01"
+jci_1_3: "jci1.3:c:BWBR0034328&z=2014-01-01&g=2014-01-01"
+jci_1_0: "1.0:c:BWBR0034328&g=2014-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsregeling diverse regelingen (overname van taken van de bedrijfslichamen)"
+signed_date: "2013-12-02"
+entry_into_force: "2014-01-01"
 ---
-
 # Regeling van de Staatssecretaris van Economische Zaken 2 december 2013, nr. WJZ/13161483, houdende wijziging van diverse regelingen in verband met de overname van taken van de bedrijfslichamen
 
 Handelende in overeenstemming met de Minister van Financiën;
@@ -16,67 +42,67 @@ Gelet op [verordening (EG) nr. 1234/2007](32007R1234) van de Raad van 22 oktober
 
 Besluit:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Algemene douaneregeling.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Landbouwkwaliteitsregeling 2007.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Regeling bijzondere restituties bij uitvoer bepaalde soorten rundvlees.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Regeling dierlijke producten.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Regeling GLB-inkomenssteun 2006.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Regeling handel levende dieren en levende producten.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Regeling identificatie en registratie van dieren.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Regeling instelling Commissie kwaliteitsbewaking classificatie.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Regeling interventie.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Regeling suiker, isoglucose en inulinestroop 1999.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt de Regeling superheffing 2008.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt de Uitvoeringsregeling Meststoffenwet.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt de Uitvoeringsregeling visserij.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt de Uitvoeringsregeling zeevisserij.
 
-#### Artikel XV
+##### Artikel XV
 
 Archiefbescheiden van de bedrijfslichamen betreffende zaken die op basis van deze regeling worden behartigd door de Minister van Economische Zaken, worden overgedragen aan de Minister van Economische Zaken, voor zover zij niet overeenkomstig de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) zijn overgebracht naar een archiefbewaarplaats.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Deze regeling treedt in werking met ingang van 1 januari 2014.
 

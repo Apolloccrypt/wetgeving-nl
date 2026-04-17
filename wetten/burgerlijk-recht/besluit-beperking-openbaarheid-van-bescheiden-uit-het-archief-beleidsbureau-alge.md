@@ -1,20 +1,45 @@
 ---
 title: "Besluit beperking openbaarheid van bescheiden uit het archief Beleidsbureau Algemeen Burgerlijk Pensioenfonds 1970–1988"
 identifier: "BWBR0020428"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2006-10-27
-laatste_update: 2006-10-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020428"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2006-10-27"
+last_updated: "2006-10-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020428"
+soort: "ministeriele-regeling"
+stam_id: "8672903"
+version_id: "13695872"
+internal_id: "C18496851"
+label_id: "8653074"
+dtd_version: "2.0"
+original_entry_into_force: "2006-10-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020428/2006-10-27/0"
+intitule_bron: "Stcrt.2006-208"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-10-16"
+intitule_published: "2006-10-25"
+intitule_in_force: "2006-10-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-208"
+original_signed_date: "2006-10-16"
+original_published_date: "2006-10-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-208-p15-SC77315"
+entry_into_force_date: "2006-10-27"
+jci_1_3: "jci1.3:c:BWBR0020428&z=2006-10-27&g=2006-10-27"
+jci_1_0: "1.0:c:BWBR0020428&g=2006-10-27"
+citeertitel_status: "redactioneel"
+signed_date: "2006-10-16"
+entry_into_force: "2006-10-27"
 ---
-
 # Besluit beperking openbaarheid van bescheiden uit het archief Beleidsbureau Algemeen Burgerlijk Pensioenfonds 1970–1988
 
 Gelet op [artikel 15, eerste lid, onder a van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15) en [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Met het oog op de bescherming van de persoonlijke levenssfeer wordt aan de openbaarheid van de naar het Algemeen Rijksarchief overgebrachte archiefbescheiden van het archief van het Beleidsbureau Algemeen Burgerlijk Pensioenfonds 1970–1988, de volgende beperking gesteld:
 
@@ -32,11 +57,11 @@ Met het oog op de bescherming van de persoonlijke levenssfeer wordt aan de openb
 
 - 3. Het formulier, bedoeld in het eerste lid, blijft achterwege indien een periode van 75 jaar na afsluiting van het betrokken dossier is verstreken.
 
-#### Artikel 2
+##### Artikel 2
 
 De directeur van het Algemeen Rijksarchief verplicht zich de archiefbescheiden in goede staat te bewaren of te doen bewaren, in overeenstemming met het bij of krachtens de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) bepaalde.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt gepubliceerd.
 

@@ -1,20 +1,46 @@
 ---
-title: "Regeling specifieke uitkering versterking GGD’en"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 10 februari 2023, kenmerk 3503357-1042699-PDPP, houdende het verstrekken van een specifieke uitkering voor het versterken van de GGD’en in verband met infectieziektebestrijding (Regeling specifieke uitkering versterking GGD'en)"
 identifier: "BWBR0047876"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047876"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047876"
+soort: "ministeriele-regeling"
+stam_id: "16674283"
+version_id: "30040552"
+internal_id: "C43056811"
+label_id: "16592174"
+dtd_version: "2.0"
+original_entry_into_force: "2024-04-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047876/2026-01-01/0"
+intitule_bron: "Stcrt.2023-5520"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-02-10"
+intitule_published: "2023-02-15"
+intitule_in_force: "2023-02-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-11860"
+original_signed_date: "2024-04-03"
+original_published_date: "2024-04-11"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2024-11860"
+entry_into_force_date: "2024-04-12"
+jci_1_3: "jci1.3:c:BWBR0047876&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0047876&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling specifieke uitkering versterking GGD’en"
+signed_date: "2024-04-03"
+entry_into_force: "2024-04-12"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 10 februari 2023, kenmerk 3503357-1042699-PDPP, houdende het verstrekken van een specifieke uitkering voor het versterken van de GGD’en in verband met infectieziektebestrijding (Regeling specifieke uitkering versterking GGD'en)
 
 Gelet op [artikel 3 van de Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -80,13 +106,13 @@ In deze regeling wordt verstaan onder:
 
 - **verpleegkundige Maatschappij en Gezondheid:** verpleegkundige die de post hbo-opleiding tot Verpleegkundige Maatschappij en Gezondheid heeft afgerond;
 
-#### Artikel 2. Toepasselijkheid [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) en [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepasselijkheid [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) en [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 1. Op deze regeling zijn de [artikelen 4:35](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35), [4:37 tot en met 4:39](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:37), [4:46](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:46), [4:48 tot en met 4:50](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:48), [4:56](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:56) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) van overeenkomstige toepassing.
 
 2. Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) niet van toepassing.
 
-#### Artikel 3. Activiteiten die in aanmerking komen voor een uitkering
+##### Artikel 3. Activiteiten die in aanmerking komen voor een uitkering
 
 1. De minister kan een uitkering verstrekken aan een GGD voor het jaar 2026 voor activiteiten die vallen onder de doelstellingen van pijler 1 tot en met pijler 6.
 
@@ -116,15 +142,15 @@ In deze regeling wordt verstaan onder:
 
 7. De activiteiten binnen pijler 6 bestaan uit het geheel aan activiteiten in het kader van het inzetten van transitiecapaciteit om de doelstelling van pijler 6 te behalen.
 
-#### Artikel 4. Hoogte van de uitkering
+##### Artikel 4. Hoogte van de uitkering
 
 De uitkering per GGD per pijler bedraagt ten hoogste het bedrag voor de jaren 2023 tot en met 2026 zoals opgenomen in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&bijlage=1&z=2026-01-01&g=2026-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&bijlage=2&z=2026-01-01&g=2026-01-01) bij deze regeling.
 
-#### Artikel 5. Aanvraag tot verlening
+##### Artikel 5. Aanvraag tot verlening
 
 Vervallen
 
-#### Artikel 6. Verlening en bevoorschotting
+##### Artikel 6. Verlening en bevoorschotting
 
 1. De minister geeft uiterlijk 27 februari 2026 ambtshalve een beschikking tot verlening van een uitkering.
 
@@ -134,19 +160,19 @@ Vervallen
 
 4. De minister verleent bij het besluit tot verlening van de uitkering een voorschot van 100% dat in één keer wordt betaald.
 
-#### Artikel 7. Verplichtingen verbonden aan de uitkering
+##### Artikel 7. Verplichtingen verbonden aan de uitkering
 
 1. De GGD meldt onverwijld schriftelijk aan de minister indien aannemelijk is geworden dat de activiteiten waarvoor een uitkering is verleend niet of niet geheel zullen worden verricht.
 
 2. De GGD informeert de minister op verzoek over de voortgang van de activiteiten waarvoor een uitkering is verleend.
 
-#### Artikel 8. Verantwoording
+##### Artikel 8. Verantwoording
 
 1. De GGD legt verantwoording af over de besteding van de uitkering op de wijze als bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
 2. Daar waar sprake is van overdracht van middelen van een medeoverheid naar een andere medeoverheid is SiSa tussen medeoverheden van toepassing, conform [artikel 17a, tweede lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
-#### Artikel 9. Vaststelling en terugvordering
+##### Artikel 9. Vaststelling en terugvordering
 
 1. De minister besluit uiterlijk 37 weken na ontvangst van de informatie ten behoeve van de verantwoording, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=8&z=2026-01-01&g=2026-01-01), over de vaststelling van de uitkering.
 
@@ -154,11 +180,11 @@ Vervallen
 
 3. Indien de informatie ten behoeve van de verantwoording te laat, niet of niet volledig wordt verstrekt, kan de minister de uitkering op een lager bedrag vaststellen, aan de hand van de gegevens die tot het besluit tot vaststelling beschikbaar zijn gesteld.
 
-#### Artikel 10. Hardheidsclausule
+##### Artikel 10. Hardheidsclausule
 
 De minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat de desbetreffende bepaling beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 11. Inwerkingtreding en vervaldatum
+##### Artikel 11. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na datum van uitgifte van de Staatscourant waarin hij wordt geplaatst. De regeling zal met toelichting in de Staatscourant worden geplaatst.
 
@@ -166,7 +192,7 @@ De minister kan een of meer bepalingen van deze regeling buiten toepassing laten
 
 3. Deze regeling vervalt met ingang van 1 januari 2027 met dien verstande dat de regeling van toepassing blijft op uitkeringen die op grond van de regeling zijn verleend.
 
-#### Artikel 12. Citeertitel
+##### Artikel 12. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering versterking GGD’en.
 

@@ -1,13 +1,38 @@
 ---
 title: "Standards Drugs Analysis and Interpretation (005.00), Drugs Comparison (005.01), Drugs Production (005.02)"
 identifier: "BWBR0039079"
-categorie: "Overig"
-publicatiedatum: 2016-12-12
-laatste_update: 2016-12-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039079"
+country: "nl"
+rank: "zbo"
+publication_date: "2016-12-12"
+last_updated: "2016-12-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039079"
+soort: "zbo"
+stam_id: "13870293"
+version_id: "23814012"
+internal_id: "C34258871"
+label_id: "13836344"
+dtd_version: "2.0"
+original_entry_into_force: "2016-12-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039079/2016-12-12/0"
+intitule_bron: "Stcrt.2016-70319"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-12-12"
+intitule_published: "2016-12-28"
+intitule_in_force: "2016-12-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-70319"
+original_signed_date: "2016-12-12"
+original_published_date: "2016-12-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-70319"
+entry_into_force_date: "2016-12-12"
+jci_1_3: "jci1.3:c:BWBR0039079&z=2016-12-12&g=2016-12-12"
+jci_1_0: "1.0:c:BWBR0039079&g=2016-12-12"
+citeertitel_status: "redactioneel"
+signed_date: "2016-12-12"
+entry_into_force: "2016-12-12"
 ---
-
 # Standards Drugs Analysis and Interpretation (005.00), Drugs Comparison (005.01), Drugs Production (005.02)
 
 ### Part I. General Introduction to Standards

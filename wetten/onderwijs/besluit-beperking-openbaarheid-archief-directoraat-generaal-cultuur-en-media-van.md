@@ -1,13 +1,39 @@
 ---
-title: "Besluit beperking openbaarheid archief Directoraat-generaal Cultuur en Media van het Ministerie van Onderwijs, Cultuur en Wetenschap over de periode (1945) 1965 – 2008"
+title: "Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 15 augustus 2022, nr. 723586, houdende beperking van de openbaarheid van het archief van Directoraat-generaal Cultuur en Media van het Ministerie van Onderwijs, Cultuur en Wetenschap over de periode (1945) 1965 – 2008"
 identifier: "BWBR0047109"
-categorie: "Onderwijs"
-publicatiedatum: 2022-09-07
-laatste_update: 2022-09-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047109"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-09-07"
+last_updated: "2022-09-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047109"
+soort: "ministeriele-regeling"
+stam_id: "16473623"
+version_id: "28864302"
+internal_id: "C40867701"
+label_id: "16395494"
+dtd_version: "2.0"
+original_entry_into_force: "2022-09-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047109/2022-09-07/0"
+intitule_bron: "Stcrt.2022-23302"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-08-15"
+intitule_published: "2022-09-06"
+intitule_in_force: "2022-09-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-23302"
+original_signed_date: "2022-08-15"
+original_published_date: "2022-09-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-23302"
+entry_into_force_date: "2022-09-07"
+jci_1_3: "jci1.3:c:BWBR0047109&z=2022-09-07&g=2022-09-07"
+jci_1_0: "1.0:c:BWBR0047109&g=2022-09-07"
+citeertitel_status: "redactioneel"
+short_title: "Besluit beperking openbaarheid archief Directoraat-generaal Cultuur en Media van het Ministerie van Onderwijs, Cultuur en Wetenschap over de periode (1945) 1965 – 2008"
+signed_date: "2022-08-15"
+entry_into_force: "2022-09-07"
 ---
-
 # Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 15 augustus 2022, nr. 723586, houdende beperking van de openbaarheid van het archief van Directoraat-generaal Cultuur en Media van het Ministerie van Onderwijs, Cultuur en Wetenschap over de periode (1945) 1965 – 2008
 
 Gelet op [artikel 15, lid 1, onder a, b en c van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van het Nationaal Archief d.d. 18 juni 2022, met kenmerk 1443567.
@@ -16,7 +42,7 @@ Besluit:
 
 Tot de volgende beperkingen aan de openbaarheid van het archief van het Directoraat-generaal Cultuur en Media van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
-#### Artikel 1
+##### Artikel 1
 
 Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste kolom beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
 
@@ -83,7 +109,7 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventari
 | 4574 | 2080 |
 | 4586 | 2082 |
 
-#### Artikel 2
+##### Artikel 2
 
 Met het oog op het belang van de Staat of zijn bondgenoten is het inventarisnummer, genoemd in de eerste kolom beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
 
@@ -91,7 +117,7 @@ Met het oog op het belang van de Staat of zijn bondgenoten is het inventarisnumm
 | --- | --- |
 | 149 | 2037 |
 
-#### Artikel 3
+##### Artikel 3
 
 Met het oog op het anderszins voorkomen van onevenredige bevoordeling of benadeling van betrokken natuurlijke personen of rechtspersonen dan wel van derden zijn de inventarisnummers, genoemd in de eerste kolom beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
 
@@ -137,14 +163,14 @@ Met het oog op het anderszins voorkomen van onevenredige bevoordeling of benadel
 | 3530 | 2027 |
 | 3541 | 2029 |
 
-#### Artikel 4
+##### Artikel 4
 
 Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047109&artikel=1&z=2022-09-07&g=2022-09-07), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0047109&artikel=2&z=2022-09-07&g=2022-09-07) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0047109&artikel=3&z=2022-09-07&g=2022-09-07), is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemene rijksarchivaris, die aan zijn toestemming voorwaarden kan verbinden.
 
-#### Artikel 5
+##### Artikel 5
 
 Het vervaardigen van reproducties van documenten geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047109&artikel=1&z=2022-09-07&g=2022-09-07), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0047109&artikel=2&z=2022-09-07&g=2022-09-07) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0047109&artikel=3&z=2022-09-07&g=2022-09-07), is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemene rijksarchivaris, die aan zijn toestemming voorwaarden kan verbinden.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van het archief van het Directoraat-generaal Cultuur en Media van het Ministerie van Onderwijs, Cultuur en Wetenschap over de periode (1945) 1965 – 2008.

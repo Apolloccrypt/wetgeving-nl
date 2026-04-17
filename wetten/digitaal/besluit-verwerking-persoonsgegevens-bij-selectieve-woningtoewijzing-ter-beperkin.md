@@ -1,13 +1,39 @@
 ---
-title: "Besluit verwerking persoonsgegevens bij selectieve woningtoewijzing ter beperking van overlastgevend en crimineel gedrag"
+title: "Besluit van 15 december 2016, houdende nadere regels betreffende de verwerking van persoonsgegevens in verband met de selectieve woningtoewijzing ter beperking van overlastgevend en crimineel gedrag"
 identifier: "BWBR0038929"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2018-07-28
-laatste_update: 2018-07-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038929"
+country: "nl"
+rank: "amvb"
+publication_date: "2018-07-28"
+last_updated: "2018-07-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038929"
+soort: "AMvB"
+stam_id: "13834873"
+version_id: "23751522"
+internal_id: "C34181921"
+label_id: "13800484"
+dtd_version: "2.0"
+original_entry_into_force: "2017-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038929/2018-07-28/0"
+intitule_bron: "Stb.2016-532"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-12-15"
+intitule_published: "2016-12-27"
+intitule_in_force: "2016-12-27"
+intitule_status: "goed"
+original_publication: "Stb.2016-532"
+original_signed_date: "2016-12-15"
+original_published_date: "2016-12-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2016-532"
+entry_into_force_date: "2017-01-01"
+jci_1_3: "jci1.3:c:BWBR0038929&z=2018-07-28&g=2018-07-28"
+jci_1_0: "1.0:c:BWBR0038929&g=2018-07-28"
+citeertitel_status: "officieel"
+short_title: "Besluit verwerking persoonsgegevens bij selectieve woningtoewijzing ter beperking van overlastgevend en crimineel gedrag"
+signed_date: "2016-12-15"
+entry_into_force: "2017-01-01"
 ---
-
 # Besluit van 15 december 2016, houdende nadere regels betreffende de verwerking van persoonsgegevens in verband met de selectieve woningtoewijzing ter beperking van overlastgevend en crimineel gedrag
 
 Op de voordracht van Onze Minister voor Wonen en Rijksdienst van 5 september 2016, nr. 2016-0000563899, Directie Constitutionele Zaken en Wetgeving, in overeenstemming met Onze Minister van Veiligheid en Justitie;
@@ -24,7 +50,7 @@ Treedt in werking op het tijdstip waarop de Wijzigingswet Wet bijzondere maatreg
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -42,13 +68,13 @@ In dit besluit wordt verstaan onder:
 
 - –. **woonverklaring:** verklaring van de burgemeester als bedoeld in [artikel 10b, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&artikel=10b), die wordt afgegeven aan het college van burgemeester en wethouders.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit is van toepassing indien de burgemeester of het college van burgemeester en wethouders persoonsgegevens verwerken in het kader van het afgeven van een woonverklaring of in het kader van een besluit op de aanvraag van een huisvestingsvergunning voor een complex, straat of gebied als bedoeld in [artikel 5, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&artikel=5).
 
 ### Hoofdstuk 2. Verwerking persoonsgegevens door het college van burgemeester en wethouders ten behoeve van de aanvraag
 
-#### Artikel 3
+##### Artikel 3
 
 1. Indien een woningzoekende een huisvestingsvergunning als bedoeld in [artikel 5, derde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&artikel=5), aanvraagt, verwerkt het college van burgemeester en wethouders in een bestand de volgende persoonsgegevens:
 
@@ -72,7 +98,7 @@ Dit besluit is van toepassing indien de burgemeester of het college van burgemee
 
 - d. de bereidverklaring.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien een onderzoek op basis van politiegegevens als bedoeld in [artikel 10a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&artikel=10a), wordt verlangd, beoordeelt het college van burgemeester en wethouders de aanvraag om een huisvestingsvergunning eerst op basis van de criteria die zijn opgenomen in de huisvestingsverordening en die geen betrekking hebben op de gedragingen uit de politiegegevens, bedoeld in artikel 10a, tweede lid, van de wet.
 
@@ -80,13 +106,13 @@ Dit besluit is van toepassing indien de burgemeester of het college van burgemee
 
 ### Hoofdstuk 3. Verwerking persoonsgegevens door de burgemeester in het kader van het onderzoek op basis van politiegegevens
 
-#### Artikel 5
+##### Artikel 5
 
 1. Indien de burgemeester in kennis is gesteld van de aanvraag van een huisvestingsvergunning, verzoekt de burgemeester de politiechef zo spoedig mogelijk een overzicht te verstrekken van de in het kader van het onderzoek, bedoeld in [artikel 10a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&artikel=10a), relevante politiegegevens, de duiding ervan en de periode waarop deze gegevens betrekking hebben.
 
 2. De politiechef draagt er zorg voor dat de verstrekte politiegegevens geen tot andere personen dan de woningzoekende herleidbare persoonsgegevens bevatten.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De burgemeester vermeldt in de woonverklaring of de huisvestingsvergunning kan worden:
 
@@ -104,7 +130,7 @@ Dit besluit is van toepassing indien de burgemeester of het college van burgemee
 
 - b. de onderbouwing van die woonverklaring.
 
-#### Artikel 7
+##### Artikel 7
 
 Indien de burgemeester in kennis is gesteld van de aanvraag om een huisvestingsvergunning, verwerkt hij in een bestand:
 
@@ -118,7 +144,7 @@ Indien de burgemeester in kennis is gesteld van de aanvraag om een huisvestingsv
 
 - e. een afschrift van de mededeling die de burgemeester heeft verstrekt aan de aanvrager van de huisvestingsvergunning op grond van [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=3&artikel=6&z=2018-07-28&g=2018-07-28).
 
-#### Artikel 8
+##### Artikel 8
 
 1. De burgemeester wijst onder zijn verantwoordelijkheid werkzame personen aan voor de uitvoering van de taken, bedoeld in de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=3&artikel=5&z=2018-07-28&g=2018-07-28), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=3&artikel=6&z=2018-07-28&g=2018-07-28), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=3&artikel=7&z=2018-07-28&g=2018-07-28), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=5&artikel=11&z=2018-07-28&g=2018-07-28), en [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=7&artikel=13&z=2018-07-28&g=2018-07-28).
 
@@ -130,7 +156,7 @@ Indien de burgemeester in kennis is gesteld van de aanvraag om een huisvestingsv
 
 ### Hoofdstuk 4. Verwerking persoonsgegevens door het college van burgemeester en wethouders in het kader van de evaluatie
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het college van burgemeester en wethouders verwerkt in het bestand, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=3&z=2018-07-28&g=2018-07-28), indien de huisvestingsvergunning, bedoeld in artikel 3, eerste lid, is:
 
@@ -166,7 +192,7 @@ Indien de burgemeester in kennis is gesteld van de aanvraag om een huisvestingsv
 
 4. Het college van burgemeester en wethouders verwerkt de persoonsgegevens, bedoeld in [artikel 10, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=4&artikel=10&z=2018-07-28&g=2018-07-28), die het van de eigenaren of beheerders van woonruimte ontvangt op basis van het schriftelijk verleend mandaat, bedoeld in artikel 10, aanhef, in het bestand, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=2&artikel=3&z=2018-07-28&g=2018-07-28).
 
-#### Artikel 10
+##### Artikel 10
 
 Indien de bevoegdheid tot het verlenen van een huisvestingsvergunning op basis van [artikel 19 van de Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=19) door het college van burgemeester en wethouders is gemandateerd aan eigenaren of beheerders van woonruimte, geldt dat deze eigenaren of beheerders:
 
@@ -188,7 +214,7 @@ Indien de bevoegdheid tot het verlenen van een huisvestingsvergunning op basis v
 
 ### Hoofdstuk 5. Inzage bij bezwaar en beroep
 
-#### Artikel 11
+##### Artikel 11
 
 1. De burgemeester verleent op verzoek van het bestuursorgaan dat belast is met de beslissing op bezwaar inzage in de in het bestand, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=3&artikel=7&z=2018-07-28&g=2018-07-28), opgenomen persoonsgegevens over de woningzoekende waarop het bezwaar tegen het besluit op de aanvraag van een huisvestingsvergunning, betrekking heeft.
 
@@ -196,7 +222,7 @@ Indien de bevoegdheid tot het verlenen van een huisvestingsvergunning op basis v
 
 ### Hoofdstuk 6. Maatregelen op het gebied van beveiliging en toezicht
 
-#### Artikel 12
+##### Artikel 12
 
 1. De burgemeester draagt er zorg voor dat de beveiliging van het bestand, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0038929&hoofdstuk=3&artikel=7&z=2018-07-28&g=2018-07-28), voldoet aan de eisen gesteld bij of krachtens [artikel 13 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=13).
 
@@ -210,7 +236,7 @@ Indien de bevoegdheid tot het verlenen van een huisvestingsvergunning op basis v
 
 ### Hoofdstuk 7. Vernietigen en bewaren van persoonsgegevens
 
-#### Artikel 13
+##### Artikel 13
 
 1. Het college van burgemeester en wethouders stelt de burgemeester in kennis van het onherroepelijk worden van het besluit tot het al dan niet verlenen van de huisvestingsvergunning.
 
@@ -226,17 +252,17 @@ Indien de bevoegdheid tot het verlenen van een huisvestingsvergunning op basis v
 
 ### Hoofdstuk 8. Wijziging van het [Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086)
 
-#### Artikel 14
+##### Artikel 14
 
 Wijzigt het Besluit politiegegevens.
 
 ### Hoofdstuk 9. Slotbepalingen
 
-#### Artikel 15
+##### Artikel 15
 
 Dit besluit treedt in werking op het tijdstip waarop de [Wet van 23 augustus 2016 tot wijziging van de Wet bijzondere maatregelen grootstedelijke problematiek in verband met de selectieve woningtoewijzing ter beperking van overlastgevend en crimineel gedrag](https://wetten.overheid.nl/jci1.3:c:BWBR0038513) (Stb. 2016, 329) in werking treedt.
 
-#### Artikel 16
+##### Artikel 16
 
 Dit besluit wordt aangehaald als: Besluit verwerking persoonsgegevens bij selectieve woningtoewijzing ter beperking van overlastgevend en crimineel gedrag.
 

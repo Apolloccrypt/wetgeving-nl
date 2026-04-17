@@ -1,13 +1,39 @@
 ---
-title: "Uitvoeringsregeling Wtza"
+title: "Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 20 augustus 2021, kenmerk 3242398-1014062-PZO, houdende nadere regels op grond van de Wet toetreding zorgaanbieders (Uitvoeringsregeling Wtza)"
 identifier: "BWBR0045540"
-categorie: "Overig"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045540"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045540"
+soort: "ministeriele-regeling"
+stam_id: "16060123"
+version_id: "27972822"
+internal_id: "C39465151"
+label_id: "15992224"
+dtd_version: "2.0"
+original_entry_into_force: "2022-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045540/2025-01-01/0"
+intitule_bron: "Stcrt.2021-39289"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-08-20"
+intitule_published: "2021-08-30"
+intitule_in_force: "2021-08-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-39289"
+original_signed_date: "2021-08-20"
+original_published_date: "2021-08-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-39289"
+entry_into_force_date: "2022-01-01"
+jci_1_3: "jci1.3:c:BWBR0045540&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0045540&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsregeling Wtza"
+signed_date: "2021-08-20"
+entry_into_force: "2022-01-01"
 ---
-
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 20 augustus 2021, kenmerk 3242398-1014062-PZO, houdende nadere regels op grond van de Wet toetreding zorgaanbieders (Uitvoeringsregeling Wtza)
 
 Gelet op de [artikelen 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&artikel=1), [2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&artikel=2), [3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&artikel=3), [4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&artikel=4), en [6, tweede lid, van de Wet toetreding zorgaanbieders](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&artikel=6) en [artikel 4.0.1, tweede lid, van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=4.0.1);
@@ -16,13 +42,13 @@ Besluit:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder ‘wet’: [Wet toetreding zorgaanbieders](https://wetten.overheid.nl/jci1.3:c:BWBR0043797).
 
 ### Hoofdstuk 2. Meldplicht
 
-#### Artikel 2
+##### Artikel 2
 
 1. De melding, bedoeld in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&artikel=2), geschiedt door het volledig invullen van het daartoe via de website [www.toetredingzorgaanbieders.nl](http://www.toetredingzorgaanbieders.nl) beschikbaar gestelde formulier.
 
@@ -32,7 +58,7 @@ In deze regeling wordt verstaan onder ‘wet’: [Wet toetreding zorgaanbieders]
 
 #### Paragraaf 1. Medisch specialistische zorg
 
-#### Artikel 3
+##### Artikel 3
 
 1. Als medisch specialistische zorg als bedoeld in [artikel 1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&artikel=1) wordt de volgende zorg aangewezen, voor zover die zorg wordt verleend door een arts, anders dan een huisarts, specialist ouderengeneeskunde of arts verstandelijk gehandicapten:
 
@@ -98,19 +124,19 @@ In deze regeling wordt verstaan onder ‘wet’: [Wet toetreding zorgaanbieders]
 
 #### Paragraaf 2. Aanvraag toelatingsvergunning
 
-#### Artikel 4
+##### Artikel 4
 
 De aanvraag om een toelatingsvergunning geschiedt door bij het CIBG een volledig ingevuld aanvraagformulier, waarvan het model is opgenomen in de bijlage bij deze regeling, met de in dat formulier genoemde bescheiden, elektronisch aan te leveren via [www.toetredingzorgaanbieders.nl](http://www.toetredingzorgaanbieders.nl) of per post.
 
 #### Paragraaf 3. Het te betalen bedrag voor de behandeling van de aanvraag om een toelatingsvergunning
 
-#### Artikel 5
+##### Artikel 5
 
 Voor de behandeling van de aanvraag om een toelatingsvergunning is de aanvrager € 725,00 verschuldigd.
 
 ### Hoofdstuk 4. Schriftelijk vastleggen verplichtingen omtrent interne toezichthouder
 
-#### Artikel 6
+##### Artikel 6
 
 Een instelling die moet voldoen aan [artikel 3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&artikel=3) legt op de volgende wijze vast hoe hij voldoet aan het bepaalde bij en krachtens artikel 3, eerste en tweede lid, van de wet:
 
@@ -120,17 +146,17 @@ Een instelling die moet voldoen aan [artikel 3, eerste lid, van de wet](https://
 
 ### Hoofdstuk 5. Wijziging [Regeling Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0036007)
 
-#### Artikel 7
+##### Artikel 7
 
 Wijzigt de Regeling Jeugdwet.
 
 ### Hoofdstuk 6. Slotbepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling treedt in werking met ingang van 1 januari 2022.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling Wtza.
 

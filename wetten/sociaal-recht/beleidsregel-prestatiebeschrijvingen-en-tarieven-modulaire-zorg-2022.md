@@ -1,20 +1,45 @@
 ---
 title: "Beleidsregel prestatiebeschrijvingen en tarieven modulaire zorg 2022"
 identifier: "BWBR0046039"
-categorie: "Sociaal recht"
-publicatiedatum: 2022-01-01
-laatste_update: 2022-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046039"
+country: "nl"
+rank: "zbo"
+publication_date: "2022-01-01"
+last_updated: "2022-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046039"
+soort: "zbo"
+stam_id: "16188443"
+version_id: "28249812"
+internal_id: "C39829161"
+label_id: "16116754"
+dtd_version: "2.0"
+original_entry_into_force: "2022-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046039/2022-01-01/0"
+intitule_bron: "Stcrt.2021-47388"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-10-12"
+intitule_published: "2021-12-14"
+intitule_in_force: "2021-12-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-47388"
+original_signed_date: "2021-10-12"
+original_published_date: "2021-12-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-47388"
+entry_into_force_date: "2022-01-01"
+jci_1_3: "jci1.3:c:BWBR0046039&z=2022-01-01&g=2022-01-01"
+jci_1_0: "1.0:c:BWBR0046039&g=2022-01-01"
+citeertitel_status: "officieel"
+signed_date: "2021-10-12"
+entry_into_force: "2022-01-01"
 ---
-
 # Beleidsregel prestatiebeschrijvingen en tarieven modulaire zorg 2022
 
 **Grondslag**
 
 Gelet op [artikel 57, eerste lid, onderdelen b en c, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot het uitoefenen van de bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
@@ -64,21 +89,21 @@ In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
 Voor overige begrippen die in deze beleidsregel gebruikt worden, maar niet hierboven vermeld staan, wordt verwezen naar de [Beleidsregel definities Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0045890).
 
-#### Artikel 2. Doel van de beleidsregel
+##### Artikel 2. Doel van de beleidsregel
 
 Het doel van deze beleidsregel is om vast te leggen op welke wijze de NZa gebruik maakt van haar bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen op het gebied van het mpt.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze beleidsregel is van toepassing op de zorg of dienst als omschreven bij of krachtens de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) die wordt geleverd door zorgaanbieders.
 
-#### Artikel 4. Prijspeil
+##### Artikel 4. Prijspeil
 
 De loon- en materiële kosten van de beleidsregelwaarden bevatten de definitieve percentages 2021 en de voorschotpercentages 2022.
 
 Indien binnen de beleidsregelwaarde een nhc is opgenomen (zie bijlage 2), dan bevat de nhc de jaarlijkse index van 2,5%.
 
-#### Artikel 5. Beleidsregelwaarden voor tariefvaststelling en overige onderwerpen
+##### Artikel 5. Beleidsregelwaarden voor tariefvaststelling en overige onderwerpen
 
 1. **Aanvaardbare kosten modulaire zorg**
 
@@ -160,11 +185,11 @@ De vervoersprestaties voor cliënten ggz wonen sluiten aan bij de vervoerspresta
 
 De prestaties en prestatiebeschrijvingen voor logeren zijn vermeld in de Beleidsregel prestatiebeschrijvingen en tarieven zorgzwaartepakketten en volledig pakket thuis.
 
-#### Artikel 6. Overbruggingsperiode instroom sglvg en lvg
+##### Artikel 6. Overbruggingsperiode instroom sglvg en lvg
 
 Indien een cliënt geïndiceerd wordt voor een sglvg- of lvg-indicatie, maar er nog geen plaats is in een instelling die de bij dat profiel benodigde zorg kan leveren, kan volgens de [Rlz, artikel 2.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&artikel=2.5), tijdelijk zorg geleverd worden middels een vpt, mpt, of via een intramurale zorgaanbieder. Deze vorm van overbruggingszorg geldt gedurende een periode van maximaal dertien weken. Op grond van [artikel 3.3.6, derde lid, van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.3.6) kan die termijn van dertien weken worden verlengd indien er zicht op is dat binnen afzienbare tijd na het aflopen van die termijn zorg geboden kan worden in een instelling voor sglvg of lvg cliënten.
 
-#### Artikel 7. Prestatiebeschrijvingen en tarieven modulair pakket thuis
+##### Artikel 7. Prestatiebeschrijvingen en tarieven modulair pakket thuis
 
 De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046039&artikel=5&z=2022-01-01&g=2022-01-01) beschreven beleidsregelwaarden voor tariefvaststelling zijn hieronder beschreven. De prestatiebeschrijvingen van de in dit artikel vermelde prestaties zijn opgenomen in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046039&bijlage=1&z=2022-01-01&g=2022-01-01) bij deze beleidsregel.
 
@@ -346,17 +371,17 @@ Vervoer naar een plaats waar de cliënt gedurende een dagdeel dagbesteding of da
 | Reiskosten prestaties behandeling (H325 t/m H331 en H334 t/m H336) | H321 | € 32,08 |
 | Reiskosten prestaties behandeling (H332 en H333) | H337 | € 25,35 |
 
-#### Artikel 8. Prestatiebeschrijvingen modulair pakket thuis
+##### Artikel 8. Prestatiebeschrijvingen modulair pakket thuis
 
 De prestatiebeschrijvingen die behoren bij de beleidsregelwaarden zoals vermeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0046039&artikel=7&z=2022-01-01&g=2022-01-01) zijn bijgevoegd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046039&bijlage=1&z=2022-01-01&g=2022-01-01) bij deze beleidsregel. Deze bijlage maakt onlosmakelijk deel uit van deze beleidsregel.
 
-#### Artikel 9. Intrekken oude beleidsregel
+##### Artikel 9. Intrekken oude beleidsregel
 
 Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt de [Beleidsregel prestatiebeschrijvingen en tarieven modulaire zorg 2021, met kenmerk BR/REG-21117b](https://wetten.overheid.nl/jci1.3:c:BWBR0045886), ingetrokken.
 
 Gelijktijdig met de inwerkingtreding van deze beleidsregel, wordt de al wel gepubliceerde maar nog niet in werking getreden [Beleidsregel prestatiebeschrijvingen en tarieven modulaire zorg, met kenmerk BR/REG-22124](https://wetten.overheid.nl/jci1.3:c:BWBR0045952), ingetrokken.
 
-#### Artikel 10. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding, terugwerkende kracht en citeertitel
+##### Artikel 10. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding, terugwerkende kracht en citeertitel
 
 De [Beleidsregel prestatiebeschrijvingen en tarieven modulaire zorg 2021, met kenmerk BR/REG-21117b](https://wetten.overheid.nl/jci1.3:c:BWBR0045886), blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die beleidsregel en die betrekking hebben op de periode waarvoor die beleidsregel gold.
 

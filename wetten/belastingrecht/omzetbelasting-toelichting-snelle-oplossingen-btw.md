@@ -1,13 +1,38 @@
 ---
 title: "Omzetbelasting. Toelichting snelle oplossingen btw"
 identifier: "BWBR0045068"
-categorie: "Belastingrecht"
-publicatiedatum: 2024-10-11
-laatste_update: 2024-10-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045068"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2024-10-11"
+last_updated: "2024-10-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045068"
+soort: "beleidsregel"
+stam_id: "15937813"
+version_id: "27727582"
+internal_id: "C39112501"
+label_id: "15872684"
+dtd_version: "2.0"
+original_entry_into_force: "2021-04-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045068/2024-10-11/0"
+intitule_bron: "Stcrt.2021-19872"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-04-13"
+intitule_published: "2021-04-22"
+intitule_in_force: "2021-04-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-19872"
+original_signed_date: "2021-04-13"
+original_published_date: "2021-04-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-19872"
+entry_into_force_date: "2021-04-23"
+jci_1_3: "jci1.3:c:BWBR0045068&z=2024-10-11&g=2024-10-11"
+jci_1_0: "1.0:c:BWBR0045068&g=2024-10-11"
+citeertitel_status: "redactioneel"
+signed_date: "2021-04-13"
+entry_into_force: "2021-04-23"
 ---
-
 # Omzetbelasting. Toelichting snelle oplossingen btw
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

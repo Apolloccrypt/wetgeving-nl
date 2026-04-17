@@ -1,13 +1,37 @@
 ---
 title: "Regeling inschrijving Nederlandse burgerluchtvaartuigen"
 identifier: "BWBR0012878"
-categorie: "Milieu"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012878"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012878"
+soort: "ministeriele-regeling"
+stam_id: "5096513"
+version_id: "9156052"
+internal_id: "C12178921"
+label_id: "5072334"
+dtd_version: "2.0"
+original_entry_into_force: "2001-10-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012878/2024-01-01/0"
+intitule_bron: "Stcrt.2001-198"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-10-08"
+intitule_published: "2001-10-12"
+intitule_in_force: "2001-10-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2001-198"
+original_signed_date: "2001-10-08"
+original_published_date: "2001-10-12"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2001-10-15"
+jci_1_3: "jci1.3:c:BWBR0012878&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0012878&g=2024-01-01"
+citeertitel_status: "officieel"
+signed_date: "2001-10-08"
+entry_into_force: "2001-10-15"
 ---
-
 # Regeling inschrijving Nederlandse burgerluchtvaartuigen
 
 Gelet op de [artikelen 3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.2), [3.3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.3), [3.5, vijfde lid van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.5) en [artikel 3 van het Besluit luchtwaardigheid](https://wetten.overheid.nl/jci1.3:c:BWBR0012651&artikel=3);
@@ -16,7 +40,7 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -32,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 - **register:** Nederlandse register voor burgerluchtvaartuigen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het aanvraagformulier voor inschrijving, wijziging van de inschrijving van een luchtvaartuig in het register of vernieuwing van het bewijs van inschrijving wordt volledig ingevuld en ondertekend door de aanvrager. Het formulier wordt door de minister elektronisch beschikbaar gesteld.
 
@@ -40,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 3. De gegevens, bedoeld in het tweede lid, worden op een zodanig tijdstip ingediend, dat de beoordeling waarop de inschrijving respectievelijk de wijziging van de inschrijving van het betrokken luchtvaartuig in het register is gebaseerd, tijdig kan plaatsvinden.
 
-#### Artikel 3
+##### Artikel 3
 
 De houder van het luchtvaartuig is verplicht de minister zo spoedig mogelijk in te lichten indien:
 
@@ -62,7 +86,7 @@ De houder van het luchtvaartuig is verplicht de minister zo spoedig mogelijk in 
 
 #### § 2. In te dienen gegevens met betrekking tot het luchtvaartuig
 
-#### Artikel 4
+##### Artikel 4
 
 1. Bij de aanvraag tot inschrijving van het luchtvaartuig in het register wordt een bewijs van eigendom van het luchtvaartuig overgelegd.
 
@@ -82,7 +106,7 @@ De houder van het luchtvaartuig is verplicht de minister zo spoedig mogelijk in 
 
 #### § 3. In te dienen gegevens met betrekking tot de aanvrager
 
-#### Artikel 5
+##### Artikel 5
 
 1. Door een natuurlijke persoon worden de volgende gegevens ingediend:
 
@@ -92,7 +116,7 @@ De houder van het luchtvaartuig is verplicht de minister zo spoedig mogelijk in 
 
 2. Ingeval van meerdere houders, wordt een verklaring inzake het optreden van één van de houders als contactpersoon ingediend, waarbij van iedere houder de gegevens, bedoeld in het eerste lid worden ingediend. Een formulier voor deze verklaring is kosteloos te verkrijgen bij de minister.
 
-#### Artikel 6
+##### Artikel 6
 
 Door een rechtspersoon worden de volgende gegevens ingediend:
 
@@ -100,7 +124,7 @@ Door een rechtspersoon worden de volgende gegevens ingediend:
 
 - b. op verzoek van de minister een afschrift van de statuten of vergelijkbare documenten, waaruit blijkt, wie de rechtspersoon in en buiten rechte vertegenwoordigt.
 
-#### Artikel 7
+##### Artikel 7
 
 Een aanvrager, bedoeld in [artikel 3, vierde lid, van het Besluit luchtvaartuigen 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=3), dient naast de gegevens volgens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012878&paragraaf=3&artikel=5&z=2024-01-01&g=2024-01-01) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0012878&paragraaf=3&artikel=6&z=2024-01-01&g=2024-01-01), de volgende gegevens in:
 
@@ -112,7 +136,7 @@ Een aanvrager, bedoeld in [artikel 3, vierde lid, van het Besluit luchtvaartuige
 
 - d. indien de aanvrager verplicht is het beheer van het luchtvaartuig uit te besteden aan een CAMO wordt in ieder geval een kopie van de pagina’s van het contract overgelegd waaruit de namen van de partijen, de ondertekening, de reikwijdte en de geldigheidsduur van het contract blijkt.
 
-#### Artikel 8
+##### Artikel 8
 
 Onverminderd het bepaalde in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012878&paragraaf=3&artikel=5&z=2024-01-01&g=2024-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0012878&paragraaf=3&artikel=6&z=2024-01-01&g=2024-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0012878&paragraaf=3&artikel=7&z=2024-01-01&g=2024-01-01) dient een aanvrager, niet tevens zijnde de eigenaar de volgende gegevens in:
 
@@ -122,7 +146,7 @@ Onverminderd het bepaalde in de [artikelen 5](https://wetten.overheid.nl/jci1.3:
 
 #### § 4. Wijziging van de inschrijving
 
-#### Artikel 9
+##### Artikel 9
 
 1. Bij de aanvraag tot wijziging van de in het register opgenomen gegevens van het luchtvaartuig worden de gewijzigde gegevens als bedoeld in de [artikelen 4 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0012878&paragraaf=2&artikel=4&z=2024-01-01&g=2024-01-01) overgelegd, waaruit de aard van de gevraagde wijziging blijkt.
 
@@ -130,7 +154,7 @@ Onverminderd het bepaalde in de [artikelen 5](https://wetten.overheid.nl/jci1.3:
 
 #### § 5. Vernieuwing van het bewijs van inschrijving
 
-#### Artikel 10
+##### Artikel 10
 
 1. Bij de aanvraag tot vernieuwing van het bewijs van inschrijving wordt een schriftelijke verklaring inzake de reden van vernieuwing overgelegd.
 
@@ -142,7 +166,7 @@ Onverminderd het bepaalde in de [artikelen 5](https://wetten.overheid.nl/jci1.3:
 
 #### § 6. Doorhaling van de inschrijving
 
-#### Artikel 11
+##### Artikel 11
 
 1. De aanvraag tot doorhaling van de inschrijving geschiedt schriftelijk.
 
@@ -162,13 +186,13 @@ Onverminderd het bepaalde in de [artikelen 5](https://wetten.overheid.nl/jci1.3:
 
 #### § 7. Model van bewijs van inschrijving
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
 #### § 8. In het register op te nemen gegevens
 
-#### Artikel 13
+##### Artikel 13
 
 In het register wordt aantekening gehouden van:
 
@@ -192,7 +216,7 @@ In het register wordt aantekening gehouden van:
 
 #### § 9. Nationaliteitskenmerken en inschrijvingskenmerken
 
-#### Artikel 14
+##### Artikel 14
 
 1. Het nationaliteitskenmerk bestaat uit PH. Dit kenmerk wordt met een koppelteken verbonden met het inschrijvingskenmerk.
 
@@ -210,7 +234,7 @@ In het register wordt aantekening gehouden van:
 
 4. De letter IJ wordt geschreven als Y.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De kenmerken worden aan de buitenzijde van het luchtvaartuig op een duurzame wijze aangebracht. De kenmerken worden altijd schoon en zichtbaar gehouden en stichten geen verwarring.
 
@@ -248,7 +272,7 @@ In het register wordt aantekening gehouden van:
 
 7. Met betrekking tot een luchtvaartuig, waarmee binnen het vluchtinformatiegebied Amsterdam testvluchten in het kader van onderhoud of demonstratievluchten worden uitgevoerd, dan wel dat luchtvaartuig voor overschilderen wordt overgebracht van een luchtvaartterrein binnen Nederland naar een ander luchtvaartterrein binnen Nederland, is het vierde lid niet van toepassing.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De letters en cijfers van het nationaliteitskenmerk en het inschrijvingskenmerk zijn alle van gelijke hoogte.
 
@@ -260,7 +284,7 @@ In het register wordt aantekening gehouden van:
 
 5. Indien het niet mogelijk is de kenmerken met de in het tweede, derde of vierde lid aangegeven hoogte aan te brengen, mogen de afmetingen van de kenmerken kleiner zijn, maar niet kleiner dan noodzakelijk is.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De letters zijn Romeins, zonder ornamenten en bij voorkeur volgens het model zoals in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012878&bijlage=2&z=2024-01-01&g=2024-01-01) van deze regeling.
 
@@ -276,7 +300,7 @@ In het register wordt aantekening gehouden van:
 
 7. De kleur van de diverse karakters is zo veel mogelijk gelijk.
 
-#### Artikel 18
+##### Artikel 18
 
 1. In bijzondere gevallen kan de minister toestemming verlenen voor het voeren van andere kenmerken. Aan de toestemming kunnen voorschriften of beperkingen worden verbonden. Het is verboden in strijd met die voorschriften of beperkingen te handelen.
 
@@ -286,7 +310,7 @@ In het register wordt aantekening gehouden van:
 
 4. De houder van een luchtvaartuig waarop een kenmerk is aangebracht als bedoeld in het eerste lid stelt de minister zo spoedig mogelijk op de hoogte indien deze kenmerken zijn verwijderd.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Luchtvaartuigen zijn voorzien van een identificatieplaat, waarin ten minste het nationaliteitskenmerk en het inschrijvingskenmerk zijn gegraveerd.
 
@@ -294,11 +318,11 @@ In het register wordt aantekening gehouden van:
 
 #### § 10. Slotbepalingen
 
-#### Artikel 20
+##### Artikel 20
 
 Deze regeling treedt in werking met ingang van 15 oktober 2001.
 
-#### Artikel 21
+##### Artikel 21
 
 Deze regeling wordt aangehaald als: Regeling inschrijving Nederlandse burgerluchtvaartuigen.
 
@@ -310,7 +334,7 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Deze regeling berust op de [artikelen 3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.2), [3.3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.3), en [3.5, vijfde lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.5) en [artikel 4 van het Besluit luchtvaartuigen 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=4).
 

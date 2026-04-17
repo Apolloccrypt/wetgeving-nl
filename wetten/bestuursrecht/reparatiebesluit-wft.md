@@ -1,13 +1,39 @@
 ---
-title: "Reparatiebesluit Wft"
+title: "Besluit van 18 december 2008, houdende herstel van technische gebreken in algemene maatregelen van bestuur op grond van de Wet op het financieel toezicht, het Besluit fondsen en spaarregelingen, het Besluit implementatie kapitaalakkoord Bazel 2 en het Uitvoeringsbesluit Wet ter voorkoming van witwassen en financieren van terrorisme (Reparatiebesluit Wft)"
 identifier: "BWBR0024966"
-categorie: "Bestuursrecht"
-publicatiedatum: 2009-01-01
-laatste_update: 2009-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024966"
+country: "nl"
+rank: "amvb"
+publication_date: "2009-01-01"
+last_updated: "2009-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024966"
+soort: "AMvB"
+stam_id: "9827093"
+version_id: "15984452"
+internal_id: "C21952201"
+label_id: "9803704"
+dtd_version: "2.0"
+original_entry_into_force: "2009-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024966/2009-01-01/0"
+intitule_bron: "Stb.2008-581"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-12-18"
+intitule_published: "2008-12-29"
+intitule_in_force: "2008-12-29"
+intitule_status: "goed"
+original_publication: "Stb.2008-581"
+original_signed_date: "2008-12-18"
+original_published_date: "2008-12-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2008-581"
+entry_into_force_date: "2009-01-01"
+jci_1_3: "jci1.3:c:BWBR0024966&z=2009-01-01&g=2009-01-01"
+jci_1_0: "1.0:c:BWBR0024966&g=2009-01-01"
+citeertitel_status: "officieel"
+short_title: "Reparatiebesluit Wft"
+signed_date: "2008-12-18"
+entry_into_force: "2009-01-01"
 ---
-
 # Besluit van 18 december 2008, houdende herstel van technische gebreken in algemene maatregelen van bestuur op grond van de Wet op het financieel toezicht, het Besluit fondsen en spaarregelingen, het Besluit implementatie kapitaalakkoord Bazel 2 en het Uitvoeringsbesluit Wet ter voorkoming van witwassen en financieren van terrorisme (Reparatiebesluit Wft)
 
 Op de voordracht van Onze Minister van Financiën van 8 oktober 2008, nr. FM 2008-2324 M, Generale Thesaurie, Directie Financiële Markten;
@@ -20,63 +46,63 @@ Gezien het nader rapport van Onze Minister van Financiën van 11 december 2008, 
 
 Hebben goed gevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Besluit bekostiging financieel toezicht.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Besluit definitiebepalingen Wft.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Besluit Markttoegang financiële ondernemingen Wft.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het Besluit reikwijdtebepalingen Wft.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Besluit prudentiële regels Wft.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt het Besluit bijzondere prudentiële maatregelen, beleggerscompensatie en depositogarantie Wft.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt het Besluit prudentieel toezicht financiële groepen Wft.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt Besluit Gedragstoezicht financiële ondernemingen Wft.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt het Besluit melding zeggenschap en kapitaalbelang in uitgevende instellingen.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt het Besluit openbare biedingen Wft.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt het Besluit fondsen en spaarregelingen.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt het Besluit implementatie kapitaalakkoord Bazel 2.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt het Uitvoeringsbesluit Wet ter voorkoming van witwassen en financieren van terrorisme.
 
-#### Artikel XIV
+##### Artikel XIV
 
 De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. [Artikel V, onderdeel O](https://wetten.overheid.nl/jci1.3:c:BWBR0024966&artikel=V&z=2009-01-01&g=2009-01-01), werkt terug tot en met 1 januari 2008. [Artikel XI](https://wetten.overheid.nl/jci1.3:c:BWBR0024966&artikel=XI&z=2009-01-01&g=2009-01-01) werkt terug tot en met 1 januari 2007.
 
-#### Artikel XV
+##### Artikel XV
 
 Dit besluit wordt aangehaald als: Reparatiebesluit Wft.
 

@@ -1,20 +1,45 @@
 ---
 title: "Regeling Informatiebeheer Commissariaat voor de Media 2024"
 identifier: "BWBR0050419"
-categorie: "Overig"
-publicatiedatum: 2024-11-15
-laatste_update: 2024-11-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050419"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-11-15"
+last_updated: "2024-11-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050419"
+soort: "zbo"
+stam_id: "17271313"
+version_id: "30419432"
+internal_id: "C43624441"
+label_id: "17176634"
+dtd_version: "2.0"
+original_entry_into_force: "2024-11-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050419/2024-11-15/0"
+intitule_bron: "Stcrt.2024-37228"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-06-18"
+intitule_published: "2024-11-15"
+intitule_in_force: "2024-11-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-37228"
+original_signed_date: "2024-06-18"
+original_published_date: "2024-11-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-37228"
+entry_into_force_date: "2024-11-15"
+jci_1_3: "jci1.3:c:BWBR0050419&z=2024-11-15&g=2024-11-15"
+jci_1_0: "1.0:c:BWBR0050419&g=2024-11-15"
+citeertitel_status: "officieel"
+signed_date: "2024-06-18"
+entry_into_force: "2024-11-15"
 ---
-
 # Regeling Informatiebeheer Commissariaat voor de Media 2024
 
 gelet op [artikel 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14),
 
 besluit:
 
-#### Artikel 1. begrippenkader
+##### Artikel 1. begrippenkader
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -70,11 +95,11 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - r. **Zorgdrager:** degene die krachtens de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) belast is met de zorg voor overheidsinformatie van het CvdM.
 
-#### Artikel 2. Reikwijdte
+##### Artikel 2. Reikwijdte
 
 De regeling Informatiebeheer is van toepassing op het beheer van alle overheidsinformatie van het CvdM. De zorg van het CvdM eindigt door overbrenging, vervreemding of vernietiging van de overheidsinformatie van het CvdM.
 
-#### Artikel 3. Verantwoordelijkheden
+##### Artikel 3. Verantwoordelijkheden
 
 1. **Voorzitter van het College**
 
@@ -140,11 +165,11 @@ De regeling Informatiebeheer is van toepassing op het beheer van alle overheidsi
 
 - b. de medewerker in het werkproces is verantwoordelijk voor de (inhoudelijke) juistheid van de overheidsinformatie.
 
-#### Artikel 4. Toezicht
+##### Artikel 4. Toezicht
 
 De manager van ieder bedrijfsonderdeel rapporteert over de staat van het informatiebeheer van de onder hem vallende processen in de Planning & Control cyclus.
 
-#### Artikel 5. Overgangs- en slotbepalingen
+##### Artikel 5. Overgangs- en slotbepalingen
 
 1. **Intrekking:** de Beheersregeling Documentaire Informatieverzorging Commissariaat voor de Media 2001 wordt ingetrokken.
 

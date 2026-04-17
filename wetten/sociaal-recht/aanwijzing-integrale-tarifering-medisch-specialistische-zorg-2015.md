@@ -1,13 +1,39 @@
 ---
-title: "Aanwijzing integrale tarifering medisch specialistische zorg 2015"
+title: "Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 21 mei 2014, kenmerk 371987-120847-MC, op grond van de Wet marktordening gezondheidszorg inzake invoering integrale tarifering medisch specialistische zorg en kaakchirurgie"
 identifier: "BWBR0035137"
-categorie: "Sociaal recht"
-publicatiedatum: 2014-07-01
-laatste_update: 2014-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035137"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2014-07-01"
+last_updated: "2014-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035137"
+soort: "ministeriele-regeling"
+stam_id: "12676853"
+version_id: "21417082"
+internal_id: "C30752251"
+label_id: "12647124"
+dtd_version: "2.0"
+original_entry_into_force: "2014-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035137/2014-07-01/0"
+intitule_bron: "Stcrt.2014-14914"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-05-21"
+intitule_published: "2014-05-30"
+intitule_in_force: "2014-05-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-14914"
+original_signed_date: "2014-05-21"
+original_published_date: "2014-05-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-14914"
+entry_into_force_date: "2014-07-01"
+jci_1_3: "jci1.3:c:BWBR0035137&z=2014-07-01&g=2014-07-01"
+jci_1_0: "1.0:c:BWBR0035137&g=2014-07-01"
+citeertitel_status: "officieel"
+short_title: "Aanwijzing integrale tarifering medisch specialistische zorg 2015"
+signed_date: "2014-05-21"
+entry_into_force: "2014-07-01"
 ---
-
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 21 mei 2014, kenmerk 371987-120847-MC, op grond van de Wet marktordening gezondheidszorg inzake invoering integrale tarifering medisch specialistische zorg en kaakchirurgie
 
 Overwegende dat in het coalitie akkoord ‘Bruggen slaan’ is opgenomen dat met ingang van 2015 het specialistenhonorarium integraal onderdeel is van het tarief dat het ziekenhuis voor een prestatie in rekening mag brengen en instellingen het voortouw krijgen op het terrein van kwaliteit, doelmatigheid en contractering met ziektekostenverzekeraars;
@@ -46,7 +72,7 @@ Besluit:
 
 ### Hoofdstuk I. Inleidende bepalingen
 
-#### Artikel I.1. definities
+##### Artikel I.1. definities
 
 In deze aanwijzing wordt verstaan onder:
 
@@ -86,41 +112,41 @@ In deze aanwijzing wordt verstaan onder:
 
 - r. **Zorgverzekeringsfonds:** het fonds bedoeld in [artikel 39 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=39).
 
-#### Artikel I.2. reikwijdte
+##### Artikel I.2. reikwijdte
 
 Deze aanwijzing is van toepassing op zorg als bedoeld in [artikel I.1, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0035137&hoofdstuk=I&artikel=I.1&z=2014-07-01&g=2014-07-01), verleend door zorgverleners als bedoeld in artikel I.1, onderdeel h, van deze aanwijzing.
 
-#### Artikel I.3. opdrachtverlening
+##### Artikel I.3. opdrachtverlening
 
 De zorgautoriteit stelt ter uitvoering van deze aanwijzing waar nodig regels en beleidsregels vast.
 
-#### Artikel I.4. effectuering
+##### Artikel I.4. effectuering
 
 De regels en beleidsregels van de zorgautoriteit die uitvoering geven aan deze aanwijzing treden in werking met ingang van het jaar 2015.
 
 ### Hoofdstuk II
 
-#### Artikel II.1. integrale prestatiebeschrijvingen
+##### Artikel II.1. integrale prestatiebeschrijvingen
 
 De zorgautoriteit stelt integrale prestatiebeschrijvingen vast voor zorg als bedoeld in [artikel 1, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0035137&hoofdstuk=I&artikel=I.1&z=2014-07-01&g=2014-07-01).
 
-#### Artikel II.2. integrale tarifering
+##### Artikel II.2. integrale tarifering
 
 Voor prestaties als bedoeld in de prestatiebeschrijvingen onder [artikel II.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035137&hoofdstuk=II&artikel=II.3&z=2014-07-01&g=2014-07-01) geldt een integraal tarief.
 
-#### Artikel II.3. segmentindeling
+##### Artikel II.3. segmentindeling
 
 1. De zorgautoriteit handhaaft de segmentindeling als bedoeld in de [Aanwijzing transparante prestatiebeschrijvingen medisch specialistische zorg 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030210).
 
 2. Kaakchirurgische prestaties behoren tot het gereguleerde segment.
 
-#### Artikel II.4. tariefsoorten
+##### Artikel II.4. tariefsoorten
 
 1. Voor prestaties in het gereguleerde segment gelden maximumtarieven.
 
 2. Voor prestaties in het vrije segment gelden vrije tarieven.
 
-#### Artikel II.5. onderlinge dienstverlening
+##### Artikel II.5. onderlinge dienstverlening
 
 1. De zorgautoriteit stelt één algemene prestatiebeschrijving vast voor alle vormen van onderlinge dienstverlening als bedoeld in [artikel 1, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0035137&hoofdstuk=I&artikel=I.1&z=2014-07-01&g=2014-07-01), van deze aanwijzing.
 
@@ -130,29 +156,29 @@ Voor prestaties als bedoeld in de prestatiebeschrijvingen onder [artikel II.3](h
 
 ### Hoofdstuk III
 
-#### Artikel III.1. declaratievoorschriften integrale tarieven
+##### Artikel III.1. declaratievoorschriften integrale tarieven
 
 1. De zorgautoriteit legt in een regel als bedoeld in [artikel 37, eerste lid, aanhef en onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=37), juncto artikel 37, tweede lid, van de wet vast dat uitsluitend de eigen zorgverlener voor een ‘eigen patiënt’ het tarief voor de geleverde prestatie in rekening mag brengen aan die consument of diens ziektekostenverzekeraar en dat andere bij de geleverde prestaties betrokken zorgaanbieders voor hun aandeel in het leveren van die prestaties een tarief voor onderlinge dienstverlening in rekening kunnen brengen aan de zorgverlener.
 
 2. Zorgaanbieders als bedoeld in [artikel 1, onderdeel c, sub 2, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1), niet zijnde een zorgaanbieder als bedoeld in artikel 1, onderdeel c, sub 1, van de wet, die tarieven in rekening brengen voor eigen zorgverleners worden in de regel, bedoeld in het eerste lid, met eigen zorgverleners gelijkgesteld.
 
-#### Artikel III.2. taakherschikking
+##### Artikel III.2. taakherschikking
 
 De zorgautoriteit draagt, niet dan nadat de minister bij brief heeft vermeld welke categorie van zorgaanbieders het betreft, er zorg voor dat regels en beleidsregels die registratie en declaratie van zorg belemmeren die geleverd kan worden door zorgverleners die aantoonbaar behoren tot die categorie, worden aangepast.
 
 ### Hoofdstuk IV. Integraal macrobeheersmodel
 
-#### Artikel IV.1
+##### Artikel IV.1
 
 Dit hoofdstuk is van toepassing op zorg, waarop ingevolge een zorgverzekering als bedoeld in [artikel 1, onder d, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1) aanspraak bestaat en waarvoor tarieven in rekening zijn gebracht of hadden kunnen worden gebracht door zorgverleners.
 
-#### Artikel IV.2. macrogrens
+##### Artikel IV.2. macrogrens
 
 1. De zorgautoriteit stelt voor zorg als bedoeld in [artikel IV.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035137&hoofdstuk=IV&artikel=IV.1&z=2014-07-01&g=2014-07-01) voor alle zorgverleners gezamenlijk jaarlijks, op basis van een door de minister bij brief te verstrekken bedrag, ambtshalve een macrogrens vast, zijnde een bovengrens als bedoeld in [artikel 50, tweede lid, aanhef en onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50).
 
 2. Onder zorgverleners in het eerste lid worden verstaan de zorgverleners, natuurlijke en rechtspersonen bedoeld in [artikel III.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035137&hoofdstuk=III&artikel=III.1&z=2014-07-01&g=2014-07-01).
 
-#### Artikel IV.3. individuele grenzen
+##### Artikel IV.3. individuele grenzen
 
 1. De zorgautoriteit stelt ambtshalve per individuele zorgverlener die zorg verleend als bedoeld in [artikel IV.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035137&hoofdstuk=IV&artikel=IV.1&z=2014-07-01&g=2014-07-01) jaarlijks een individuele bovengrens als bedoeld in [artikel 50, tweede lid, aanhef en onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50) vast.
 
@@ -164,7 +190,7 @@ Dit hoofdstuk is van toepassing op zorg, waarop ingevolge een zorgverzekering al
 
 5. Onder omzet van de zorgverlener wordt in dit artikel verstaan de opbrengt die de zorgverlener zou kunnen hebben uit tarieven die door de zorgaanbieder in rekening zijn gebracht of hadden kunnen worden gebracht voor zorg verleend aan eigen patiënten.
 
-#### Artikel IV.4. individuele aanwijzing tot afdracht
+##### Artikel IV.4. individuele aanwijzing tot afdracht
 
 1. In geval van overschrijding van de individuele grens, bedoeld in [artikel IV.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035137&hoofdstuk=IV&artikel=IV.3&z=2014-07-01&g=2014-07-01), geeft de zorgautoriteit individuele zorgverleners een aanwijzing in de zin van [artikel 76, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=76), tot de afdracht aan het Zorgverzekeringsfonds.
 
@@ -174,11 +200,11 @@ Dit hoofdstuk is van toepassing op zorg, waarop ingevolge een zorgverzekering al
 
 ### Hoofdstuk V. Overgangs- en slotbepalingen
 
-#### Artikel V.1. overgang geopende dbc’s
+##### Artikel V.1. overgang geopende dbc’s
 
 Voor prestaties die zijn omschreven als DBC-zorgproducten (diagnose behandeling combinaties) die zijn geopend vóór het jaar 2015 blijven de prestatiebeschrijvingen en tarieven van toepassing zoals die luidden op het moment van openen van de prestatie.
 
-#### Artikel V.2. garantie kapitaallasten na macrobeheersmodel
+##### Artikel V.2. garantie kapitaallasten na macrobeheersmodel
 
 1. De zorgautoriteit past de overgangsregeling kapitaallasten in verband met de invoering van integrale tarifering zodanig aan dat de materiële effecten van de overgangsregeling ongewijzigd blijven ten opzichte van de oorspronkelijke overgangsregeling kapitaallasten.
 
@@ -186,7 +212,7 @@ Voor prestaties die zijn omschreven als DBC-zorgproducten (diagnose behandeling 
 
 3. De zorgautoriteit voert de op grond van het eerste lid aangepaste overgangsregeling kapitaallasten uit met inachtneming van de berekening van de vergoeding voor kapitaallasten die instellingen als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030586&artikel=3) en [5 van de Aanwijzing kapitaallasten transitiemodel](https://wetten.overheid.nl/jci1.3:c:BWBR0030586&artikel=5) behouden na de toepassing van het integraal macrobeheersmodel.
 
-#### Artikel V.3. citeertitel
+##### Artikel V.3. citeertitel
 
 Deze aanwijzing wordt aangehaald als: Aanwijzing integrale tarifering medisch specialistische zorg 2015.
 

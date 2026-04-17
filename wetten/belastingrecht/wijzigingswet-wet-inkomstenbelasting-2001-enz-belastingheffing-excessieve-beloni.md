@@ -1,14 +1,42 @@
 ---
-title: "Wijzigingswet Wet inkomstenbelasting 2001, enz. (belastingheffing excessieve beloningsbestanddelen)"
+title: "Wet van 11 december 2008 tot wijziging van enige belastingwetten (Belastingheffing excessieve beloningsbestanddelen)"
 identifier: "BWBR0024883"
-categorie: "Belastingrecht"
-publicatiedatum: 2009-01-01
-laatste_update: 2009-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024883"
+country: "nl"
+rank: "wet"
+publication_date: "2009-01-01"
+last_updated: "2009-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024883"
+soort: "wet"
+stam_id: "9803903"
+version_id: "15916872"
+internal_id: "C21821901"
+label_id: "9780554"
+dtd_version: "2.0"
+original_entry_into_force: "2008-12-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024883/2009-01-01/0"
+intitule_bron: "Stb.2008-547"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-12-11"
+intitule_published: "2008-12-18"
+intitule_in_force: "2008-12-18"
+intitule_status: "goed"
+original_publication: "Stb.2008-547"
+original_signed_date: "2008-12-11"
+original_published_date: "2008-12-18"
+original_effect: "nieuwe-regeling"
+original_dossier: "31459"
+original_url_id: "stb-2008-547"
+entry_into_force_date: "2008-12-31"
+entry_into_force_dossier: "31459"
+jci_1_3: "jci1.3:c:BWBR0024883&z=2009-01-01&g=2009-01-01"
+jci_1_0: "1.0:c:BWBR0024883&g=2009-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingswet Wet inkomstenbelasting 2001, enz. (belastingheffing excessieve beloningsbestanddelen)"
+signed_date: "2008-12-11"
+entry_into_force: "2008-12-31"
 ---
-
-# Wijzigingswet Wet inkomstenbelasting 2001, enz. (belastingheffing excessieve beloningsbestanddelen)
+# Wet van 11 december 2008 tot wijziging van enige belastingwetten (Belastingheffing excessieve beloningsbestanddelen)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,27 +44,27 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is enige belastingwette
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Algemene wet inzake rijksbelastingen.
 
-#### Artikel V
+##### Artikel V
 
 Het in [artikel III, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0024883&artikel=III&z=2009-01-01&g=2009-01-01), genoemde bedrag wordt per 1 januari 2009 bij ministeriële regeling vervangen door een ander bedrag. Dit bedrag wordt berekend door het te vervangen bedrag te vermenigvuldigen met de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2), en vervolgens de nodig geachte afronding aan te brengen.
 
-#### Artikel VI
+##### Artikel VI
 
 1. Voor het bepalen van het resultaat uit een werkzaamheid, bedoeld in [artikel 3.94 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.94), wordt een vermogensbestanddeel als bedoeld in [artikel 3.92b, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.92b) welke ten gevolge van de inwerkingtreding van [genoemd artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.92b) per 1 januari 2009 is gaan behoren tot het vermogen van een werkzaamheid, op dat tijdstip te boek gesteld volgens de regeling van [artikel 3.95b, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.95b).
 
@@ -48,15 +76,15 @@ Het in [artikel III, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR002488
 
 5. Indien een in het eerste lid bedoeld vermogensbestanddeel op 31 december 2008 behoort tot een aanmerkelijk belang in de zin van [hoofdstuk 4 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4), maar dit vermogensbestanddeel ten gevolge van de inwerkingtreding van [artikel 3.92b van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.92b) per 1 januari 2009 is gaan behoren tot het vermogen van een werkzaamheid, vindt [artikel 4.16, eerste lid, onderdeel f, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.16) ter zake daarvan geen toepassing.
 
-#### Artikel VII
+##### Artikel VII
 
 [Artikel 32bb van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=32bb) vindt voor het eerst toepassing met betrekking tot dienstbetrekkingen die op of na 1 januari 2009 worden beëindigd.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt het Belastingplan 2008.
 
-#### Artikel IX
+##### Artikel IX
 
 1. Deze wet treedt in werking met ingang van 1 januari 2009.
 

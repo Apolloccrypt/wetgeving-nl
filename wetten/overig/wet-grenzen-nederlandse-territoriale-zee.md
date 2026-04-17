@@ -1,14 +1,38 @@
 ---
-title: "Wet grenzen Nederlandse territoriale zee"
+title: "Wet van 9 januari 1985, houdende vaststelling van de grenzen van de territoriale zee van Nederland"
 identifier: "BWBR0003748"
-categorie: "Overig"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003748"
+country: "nl"
+rank: "wet"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003748"
+soort: "wet"
+stam_id: "365193"
+version_id: "537642"
+internal_id: "C537651"
+label_id: "356924"
+dtd_version: "2.0"
+original_entry_into_force: "1985-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003748/2024-01-01/0"
+intitule_bron: "Stb.1985-129"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1985-01-09"
+intitule_status: "goed"
+original_publication: "Stb.1985-129"
+original_signed_date: "1985-01-09"
+original_effect: "nieuwe-regeling"
+original_dossier: "17654"
+entry_into_force_date: "1985-06-01"
+entry_into_force_dossier: "17654"
+jci_1_3: "jci1.3:c:BWBR0003748&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0003748&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet grenzen Nederlandse territoriale zee"
+signed_date: "1985-01-09"
+entry_into_force: "1985-06-01"
 ---
-
-# Wet grenzen Nederlandse territoriale zee
+# Wet van 9 januari 1985, houdende vaststelling van de grenzen van de territoriale zee van Nederland
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,13 +42,13 @@ Dat het tevens wenselijk is ter gelegenheid van deze uitbreiding preciseringen a
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 1. De territoriale zee van Nederland strekt zich uit tot de lijn, waarvan elk punt gelegen is op een afstand van twaalf internationale zeemijlen, zijnde tweeëntwintig kilometer en tweehonderd vierentwintig meter, gemeten zeewaarts vanaf het dichtstbijgelegen punt van de laagwaterlijn langs de kust, met dien verstande dat, waar geheel of gedeeltelijk binnen deze afstand van deze laagwaterlijn een natuurlijk gevormde, bij eb droogvallende bodemverheffing is gelegen, die bij hoogtij onder water komt, gemeten wordt vanaf het dichtstbijgelegen punt van de laagwaterlijn van die bodemverheffing.
 
 2. De laagwaterlijn is de dieptelijn van nul meter, zoals aangegeven op de grootschalige Nederlandse zeekaarten, uitgegeven vanwege de Minister van Defensie.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De laagwaterlijn langs de kust vormt, met de in het tweede en vierde lid genoemde basislijnen, voor zover deze zeewaarts daarvan zijn gelegen, de grens tussen de binnenwateren en de territoriale zee van Nederland.
 
@@ -48,33 +72,33 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 4. In de Maasmond en in de havenmonden van Scheveningen en IJmuiden geldt als basislijn de verbindingslijn van de lichten op de koppen der havenhoofden.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De zijwaartse begrenzing van de territoriale zee zal worden bepaald in overeenstemming met de Staten van welke de territoriale zee grenst aan die van Nederland.
 
 2. Voor de toepassing van de Nederlandse wetgeving wordt de grens tussen de binnenwateren en de territoriale zee in de monding van de Eems gevormd door de verbindingslijn van de Grote Kaap van Rottumeroog, gelegen op 53°32'39",1 Noorderbreedte en 6°34'39",0 Oosterlengte en de grote lichttoren van Borkum, gelegen op 53°35'22",2 Noorderbreedte en 6°39'48",3 Oosterlengte, voorzover die lijn over Nederlands gebied loopt.
 
-#### Artikel 4
+##### Artikel 4
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 5
+##### Artikel 5
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 6
+##### Artikel 6
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 7
+##### Artikel 7
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 1. Deze wet treedt in werking op de eerste dag van de derde maand volgend op de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst.
 

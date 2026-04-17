@@ -1,26 +1,51 @@
 ---
 title: "Arbeidsveiligheidsbesluit II BES"
 identifier: "BWBR0028629"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028629"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028629"
+soort: "AMvB-BES"
+stam_id: "10906673"
+version_id: "17890272"
+internal_id: "C24846431"
+label_id: "10882054"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028629/2010-10-10/0"
+intitule_bron: "Stb.2010-616"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-28"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-616"
+original_signed_date: "2010-09-28"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-616"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028629&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028629&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-28"
+entry_into_force: "2010-10-10"
 ---
-
 # Arbeidsveiligheidsbesluit II BES
 
 ### Hoofdstuk 1. Steigerwerk
 
 ## Noodzaak van veilig arbeiden
 
-#### Artikel 1
+##### Artikel 1
 
 Het vervoer en het plaatsen van materialen en onderdelen van bouwwerken moet geschieden op zodanige wijze, dat de arbeiders zoveel mogelijk zijn beschermd tegen elk gevaar.
 
 ## Noodzaak van steigerwerk
 
-#### Artikel 2
+##### Artikel 2
 
 1. Doelmatig, voldoende en veilig steigerwerk moet voor de arbeiders op het werk beschikbaar zijn voor alle arbeid, welke niet veilig kan worden uitgevoerd met andere hiertoe geëigende middelen.
 
@@ -28,7 +53,7 @@ Het vervoer en het plaatsen van materialen en onderdelen van bouwwerken moet ges
 
 ## Kwaliteit van de materialen
 
-#### Artikel 3
+##### Artikel 3
 
 1. Alle steigers met toebehoren en alle ladders moeten zijn vervaardigd van deugdelijke materialen en voldoende sterk zijn in verband met de belasting en spanning waaraan zij zullen worden onderworpen.
 
@@ -46,7 +71,7 @@ Het vervoer en het plaatsen van materialen en onderdelen van bouwwerken moet ges
 
 ## Toezicht en opslag van material
 
-#### Artikel 4
+##### Artikel 4
 
 1. De onderdelen van een steiger, met inbegrip van hefwerktuigen, touwen en staaldraad, moeten telkens voor het opbouwen door een ervaren persoon worden nagekeken en mogen slechts worden gebruikt, indien zij in ieder opzicht voldoen aan de voor hun doel te stellen eisen.
 
@@ -60,7 +85,7 @@ Het vervoer en het plaatsen van materialen en onderdelen van bouwwerken moet ges
 
 ## Het ter beschikking stellen en gebruik van steigermateriaal en het onderhoud van steigers
 
-#### Artikel 5
+##### Artikel 5
 
 1. Voldoende materiaal moet beschikbaar zijn en gebruikt worden bij het opbouwen van steigerwerk.
 
@@ -70,7 +95,7 @@ Het vervoer en het plaatsen van materialen en onderdelen van bouwwerken moet ges
 
 ## Staande steigers van rondhout en van gezaagd hout
 
-#### Artikel 6
+##### Artikel 6
 
 1. Staanders van rondhout of van gezaagd hout moeten:
 
@@ -150,7 +175,7 @@ Het vervoer en het plaatsen van materialen en onderdelen van bouwwerken moet ges
 
 ## Staande steigers samengesteld uit buizen, koppelingen en houten steigerplanken
 
-#### Artikel 7
+##### Artikel 7
 
 1. Staanders:
 
@@ -246,7 +271,7 @@ De koppelingen, welke een onderdeel van de constructie vormen, moeten doelmatig 
 
 ## Laddersteigers
 
-#### Artikel 8
+##### Artikel 8
 
 1. Een laddersteiger mag slechts gebruikt worden voor licht werk waarbij weinig materiaal wordt gebruikt (onderhoud, verfwerk e.d.).
 
@@ -260,7 +285,7 @@ De koppelingen, welke een onderdeel van de constructie vormen, moeten doelmatig 
 
 ## Stabiliteit van steigers van rond- en gezaagd hout en van laddersteigers
 
-#### Artikel 9
+##### Artikel 9
 
 1. Een steiger moet voldoende en doelmatig tegen schranken gevrijwaard worden.
 
@@ -276,7 +301,7 @@ De koppelingen, welke een onderdeel van de constructie vormen, moeten doelmatig 
 
 ## Vrijdragende steigers
 
-#### Artikel 10
+##### Artikel 10
 
 1. Een vrijdragende steiger moet:
 
@@ -292,13 +317,13 @@ De koppelingen, welke een onderdeel van de constructie vormen, moeten doelmatig 
 
 ## Console-steigers
 
-#### Artikel 11
+##### Artikel 11
 
 Een console-steiger, ondersteund of vastgehouden door klampen of wiggen die in de muur zijn geslagen, zal niet gebruikt worden, tenzij de console-haken sterk genoeg zijn, gemaakt van deugdelijk materiaal en stevig verankerd zijn in de muur.
 
 ## Zware hangende steigers met beweegbare werkvloeren
 
-#### Artikel 12
+##### Artikel 12
 
 1. De draagbalken van zware hangende steigers moeten voldoende sterkte en doorsnee hebben om de stevigheid en de stabiliteit van de steiger te verzekeren en loodrecht op het gebouw aangebracht zijn; de afstanden onderling moeten zorgvuldig in overeenstemming zijn met de houten of stalen kortelingen.
 
@@ -326,7 +351,7 @@ Een console-steiger, ondersteund of vastgehouden door klampen of wiggen die in d
 
 ## Lichte hangende steigers met beweegbare werkvloeren
 
-#### Artikel 13
+##### Artikel 13
 
 1. Lichte hangende steigers moeten voldoen aan de in de navolgende artikelleden omschreven voorschriften.
 
@@ -348,7 +373,7 @@ Een console-steiger, ondersteund of vastgehouden door klampen of wiggen die in d
 
 ## Andere hangende steigers
 
-#### Artikel 14
+##### Artikel 14
 
 1. Een bak, bootsmansstoel of soortgelijke uitrusting mag slechts gebruikt worden als hangsteiger in buitengewone omstandigheden voor werk van korte duur en onder toezicht van een verantwoordelijk persoon.
 
@@ -366,7 +391,7 @@ Een console-steiger, ondersteund of vastgehouden door klampen of wiggen die in d
 
 ## Vervoer en opslag van materiaal op steigers en de verdeling van de belasting
 
-#### Artikel 15
+##### Artikel 15
 
 1. Bij het vervoer van zware lasten op of naar een steiger mag geen plotselinge schok overgebracht worden op de steiger.
 
@@ -376,7 +401,7 @@ Een console-steiger, ondersteund of vastgehouden door klampen of wiggen die in d
 
 ## Het opstellen van hijsmaterieel op steigers
 
-#### Artikel 16
+##### Artikel 16
 
 1. Wanneer hijsmaterieel gebruikt zal worden op een steiger,
 
@@ -390,7 +415,7 @@ Een console-steiger, ondersteund of vastgehouden door klampen of wiggen die in d
 
 ## Periodiek toezicht op steigers
 
-#### Artikel 17
+##### Artikel 17
 
 Steigers moeten nagezien worden door een bevoegd persoon:
 
@@ -400,7 +425,7 @@ Steigers moeten nagezien worden door een bevoegd persoon:
 
 ## Het nazien van steigers voor het gebruik
 
-#### Artikel 18
+##### Artikel 18
 
 Elke steiger, al of niet opgebouwd door de werkgever wiens arbeiders hem gaan gebruiken moet:
 
@@ -418,7 +443,7 @@ Elke steiger, al of niet opgebouwd door de werkgever wiens arbeiders hem gaan ge
 
 ## Werkvloeren
 
-#### Artikel 19
+##### Artikel 19
 
 1. Onder werkvloeren wordt verstaan, vloeren waarop pleegt te worden gewerkt, waarop materialen zijn geplaatst of waarover regelmatig verkeer van personen of vervoer van materialen plaats heeft.
 
@@ -470,7 +495,7 @@ Elke steiger, al of niet opgebouwd door de werkgever wiens arbeiders hem gaan ge
 
 ## Loopplanken, loopbruggen en trappen
 
-#### Artikel 20
+##### Artikel 20
 
 1. Een loopplank of loopbrug op een hoogte van meer dan 2 m boven de grond of vloer moet:
 
@@ -504,7 +529,7 @@ Elke steiger, al of niet opgebouwd door de werkgever wiens arbeiders hem gaan ge
 
 ## Algemene voorschriften t.a.v. werkvloeren, loopplanken, loopbruggen en trappen
 
-#### Artikel 21
+##### Artikel 21
 
 1. Een werkvloer, loopplank, loopbrug of trap moet vrij zijn van onnodige versperring, afval etc.
 
@@ -518,7 +543,7 @@ Elke steiger, al of niet opgebouwd door de werkgever wiens arbeiders hem gaan ge
 
 ## Houten schraagsteigers
 
-#### Artikel 22
+##### Artikel 22
 
 1. Een schraagsteiger mag slechts gebruikt worden wanneer:
 
@@ -532,7 +557,7 @@ Elke steiger, al of niet opgebouwd door de werkgever wiens arbeiders hem gaan ge
 
 ## Ladders
 
-#### Artikel 23
+##### Artikel 23
 
 1. Een ladder die gebruikt wordt als middel van verkeer moet tenminste 1 m uitsteken boven het hoogste punt dat een persoon, die de ladder gebruikt, moet bereiken, tenzij een der bomen door een stevig bevestigde rib van 5 x 7 cm tot deze hoogte is verlengd.
 
@@ -568,7 +593,7 @@ Elke steiger, al of niet opgebouwd door de werkgever wiens arbeiders hem gaan ge
 
 ## Het afschermen van openingen
 
-#### Artikel 24
+##### Artikel 24
 
 1. Een opening in de vloer van een gebouw of in een werkvloer, ten behoeve van een lift of een trap, voor het hijsen van materiaal, voor toegang van arbeiders of enigerlei ander doel, moet voorzien zijn van:
 
@@ -590,7 +615,7 @@ Elke steiger, al of niet opgebouwd door de werkgever wiens arbeiders hem gaan ge
 
 ## Het werken op een dak
 
-#### Artikel 25
+##### Artikel 25
 
 1. Een persoon mag niet op een dak werken, wanneer door de helling, de aard van het dakmateriaal of de weersgesteldheid een mogelijkheid bestaat van vallen, tenzij doelmatige voorzorgen worden genomen om het vallen van personen of materiaal te voorkomen.
 
@@ -610,7 +635,7 @@ Elke steiger, al of niet opgebouwd door de werkgever wiens arbeiders hem gaan ge
 
 ## Diverse bepalingen
 
-#### Artikel 26
+##### Artikel 26
 
 1. Bij ieder gedeelte van een bouwwerk waar een persoon die werkt of erlangs loopt, mogelijk geraakt kan worden door materiaal, gereedschappen of andere voorwerpen, vallende van meer dan 3,5 m, dienen voorzieningen te worden getroffen om deze personen te beschermen, tenzij andere doelmatige stappen worden ondernomen om het vallen van voorwerpen van zulke hoogten te voorkomen.
 
@@ -640,7 +665,7 @@ Indien steigers zodanig zijn opgesteld, dat zich op, langs, aan of boven deze st
 
 ## Algemeen
 
-#### Artikel 27
+##### Artikel 27
 
 1. Elk deel van de constructie, de aandrijving en de verankerings- en bevestigingsinrichtingen van elke kraan, bok, loopkat en lier en van alle andere hijsmachines en hijsgerei moeten:
 
@@ -690,7 +715,7 @@ Indien steigers zodanig zijn opgesteld, dat zich op, langs, aan of boven deze st
 
 ## Lieren, loopkatten en takels
 
-#### Artikel 28
+##### Artikel 28
 
 1. Elk gedeelte van de constructie van elke loopkat of lier moet van metaal zijn.
 
@@ -710,7 +735,7 @@ Indien steigers zodanig zijn opgesteld, dat zich op, langs, aan of boven deze st
 
 ## Ophanging en bevestiging
 
-#### Artikel 29
+##### Artikel 29
 
 1. Alle kabels of touwen die gebruikt worden op hijsinrichtingen voor het hijsen of het neerlaten van materialen moeten lang genoeg zijn om tenminste twee windingen op de trommel te laten bij iedere werkstand van het werktuig.
 
@@ -748,7 +773,7 @@ Indien steigers zodanig zijn opgesteld, dat zich op, langs, aan of boven deze st
 
 ## Kranen
 
-#### Artikel 30
+##### Artikel 30
 
 1. Het platform van iedere kraan moet gebouwd zijn van degelijk materiaal en van goede constructie zijn, waarbij rekening moet worden gehouden met de hoogte, de plaatsing en het hijs- en reikvermogen van de kraan.
 
@@ -790,7 +815,7 @@ Indien steigers zodanig zijn opgesteld, dat zich op, langs, aan of boven deze st
 
 ## Onderzoek van kraan-certificaten
 
-#### Artikel 31
+##### Artikel 31
 
 1. Een kraan wordt niet gebruikt, tenzij deze is beproefd door een door Onze Minister van Sociale Zaken en Werkgelegenheid erkende deskundige en die deskundige een bewijs heeft afgegeven, waarin is aangegeven:
 
@@ -840,7 +865,7 @@ boven 50 ton te overschrijden met 10%.
 
 ## Dirkkranen
 
-#### Artikel 32
+##### Artikel 32
 
 1. De maximum-last, waarbij met de uiterste stand van de giek mag worden gewerkt, moet zijn vastgelegd.
 
@@ -870,7 +895,7 @@ boven 50 ton te overschrijden met 10%.
 
 ## Het bedienen van een kraan
 
-#### Artikel 33
+##### Artikel 33
 
 1. Een kraan mag slechts gebruikt worden voor het loodrecht hijsen of neerlaten van een last, mits de stabiliteit niet in gevaar wordt gebracht.
 
@@ -878,7 +903,7 @@ boven 50 ton te overschrijden met 10%.
 
 ## Hijstoestellen
 
-#### Artikel 34
+##### Artikel 34
 
 1. Onder hijstoestellen wordt verstaan: hijsgereedschap voorzien van een platform, dat in geleiders loopt, hetwelk gebruikt wordt voor het hijsen of neerlaten van materiaal.
 
@@ -938,7 +963,7 @@ boven 50 ton te overschrijden met 10%.
 
 ## Diverse bepalingen
 
-#### Artikel 35
+##### Artikel 35
 
 1. Voorzorgsmaatregelen moeten genomen worden dat de arbeiders die een kraan of hijstoestel nazien of smeren, voldoende beschermd zijn.
 
@@ -966,13 +991,13 @@ boven 50 ton te overschrijden met 10%.
 
 ## Hygiënische faciliteiten
 
-#### Artikel 36
+##### Artikel 36
 
 Het bepaalde ten aanzien van was- en badgelegenheden in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028627&artikel=15), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0028627&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0028627&artikel=17) en [18 van het Arbeidsveiligheidsbesluit I BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028627&artikel=18) is niet van toepassing op bouwwerken.
 
 ## Sloopwerk
 
-#### Artikel 37
+##### Artikel 37
 
 1. Wanneer het te slopen gebouw twee verdiepingen of meer hoog is en de horizontale afstand van de binnenkant van het trottoir tot aan het gebouw 4.50 m of minder is, moet, indien het personenverkeer dit noodzakelijk maakt, het trottoir over de gehele lengte van het gebouw doelmatig worden overdekt.
 
@@ -1000,7 +1025,7 @@ Het bepaalde ten aanzien van was- en badgelegenheden in de [artikelen 15](https:
 
 ## Grondwerk
 
-#### Artikel 38
+##### Artikel 38
 
 1. Grondwerk moet verricht worden met gebruikmaking van alle noodzakelijke voorzieningen, in overeenstemming met degelijke technische principes en rekening houdende met de bodemgesteldheid, de belendende percelen en de eventueel aanwezige kabels, leidingen e.d.
 
@@ -1008,7 +1033,7 @@ Het bepaalde ten aanzien van was- en badgelegenheden in de [artikelen 15](https:
 
 ## Diverse bepalingen
 
-#### Artikel 39
+##### Artikel 39
 
 Tijdens werkzaamheden bij de bouw, de aanleg, de verbouwing, de herstelling, het onderhoud of de sloping van gebouwen moeten:
 
@@ -1018,7 +1043,7 @@ Tijdens werkzaamheden bij de bouw, de aanleg, de verbouwing, de herstelling, het
 
 ### Hoofdstuk IV. Slotbepalingen
 
-#### Artikel 40
+##### Artikel 40
 
 1. Onze Minister van Sociale Zaken en Werkgelegenheid kan van het bij of krachtens dit besluit bepaalde vrijstelling verlenen.
 
@@ -1038,10 +1063,10 @@ Tijdens werkzaamheden bij de bouw, de aanleg, de verbouwing, de herstelling, het
 
 6. De werking van een beschikking inzake een ontheffing wordt opgeschort totdat de termijn voor het indienen van een bezwaar- of beroepschrift is verstreken of, indien bezwaar is gemaakt of beroep is ingesteld, op het bezwaar of beroep is beslist.
 
-#### Artikel 40a
+##### Artikel 40a
 
 Dit besluit berust op [artikel 2, eerste lid, van de Arbeidsveiligheidswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028228&artikel=2).
 
-#### Artikel 41
+##### Artikel 41
 
 Dit besluit wordt aangehaald als: Arbeidsveiligheidsbesluit II BES.

@@ -1,13 +1,38 @@
 ---
 title: "Europees Verdrag inzake de algemene gelijkstelling van tijdvakken van universitaire studie"
 identifier: "BWBV0002636"
-categorie: "Internationaal recht"
-publicatiedatum: 1993-09-01
-laatste_update: 1993-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002636"
+country: "nl"
+rank: "verdrag"
+publication_date: "1993-09-01"
+last_updated: "1993-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002636"
+soort: "verdrag"
+stam_id: "10002956313"
+version_id: "10002959102"
+internal_id: "C10006987001"
+label_id: "10002943144"
+dtd_version: "2.0"
+original_entry_into_force: "1993-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002636/1993-09-01/0"
+intitule_bron: "Trb.1992-120"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1993-07-05"
+intitule_published: "1992-08-14"
+intitule_in_force: "1993-08-17"
+intitule_status: "goed"
+original_publication: "Trb.1992-120"
+original_signed_date: "1993-07-05"
+original_published_date: "1992-08-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1992-120"
+entry_into_force_date: "1993-09-01"
+jci_1_3: "jci1.3:c:BWBV0002636&z=1993-09-01&g=1993-09-01"
+jci_1_0: "1.0:c:BWBV0002636&g=1993-09-01"
+citeertitel_status: "officieel"
+signed_date: "1993-07-05"
+entry_into_force: "1993-09-01"
 ---
-
 # Europees Verdrag inzake de algemene gelijkstelling van tijdvakken van universitaire studie
 
 De lidstaten van de Raad van Europa en de andere Staten die Partij zijn bij het [Europees Cultureel Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005098), die het onderhavige Verdrag hebben ondertekend,
@@ -22,7 +47,7 @@ Vastbesloten hiertoe het beginsel van de algemene gelijkstelling van tijdvakken 
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit Verdrag worden onder „instellingen voor hoger onderwijs” verstaan:
 
@@ -30,7 +55,7 @@ Voor de toepassing van dit Verdrag worden onder „instellingen voor hoger onder
 
 - b. andere instellingen voor hoger onderwijs die voor de toepassing van dit Verdrag als zodanig worden erkend door de bevoegde autoriteiten van de Partij op het grondgebied waarvan zij gevestigd zijn.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Partijen stellen, voor zover de Staat de ter zake bevoegde autoriteit is op hun grondgebied, ieder tijdvak van studie dat een student heeft doorgebracht aan een instelling voor hoger onderwijs van een andere Partij gelijk aan eenzelfde tijdvak doorgebracht aan zijn eigen instelling, mits:
 
@@ -40,15 +65,15 @@ Voor de toepassing van dit Verdrag worden onder „instellingen voor hoger onder
 
 2. De duur van het in het voorgaande lid bedoelde tijdvak van studie wordt bepaald door de bevoegde autoriteiten van de Partij op het grondgebied waarvan de instelling voor hoger onderwijs gevestigd is.
 
-#### Artikel 3
+##### Artikel 3
 
 Voor zover de instellingen voor hoger onderwijs zelf de ter zake bevoegde autoriteit zijn op hun grondgebied, doen de Partijen de tekst van dit Verdrag toekomen aan de autoriteiten van deze instellingen, en moedigen zij die autoriteiten aan de in artikel 2 vervatte beginselen welwillend in overweging te nemen en toe te passen.
 
-#### Artikel 4
+##### Artikel 4
 
 De bepalingen van dit Verdrag doen geen afbreuk aan die van het [Europees Verdrag inzake de gelijkstelling van tijdvakken van universitaire studie](https://wetten.overheid.nl/jci1.3:c:BWBV0005357), voor ondertekening opengesteld te Parijs op 15 december 1956.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Dit Verdrag staat open voor ondertekening door de lidstaten van de Raad van Europa en de andere Staten die Partij zijn bij het [Europees Cultureel Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005098), die hun instemming door dit Verdrag te worden gebonden, tot uiting kunnen brengen door:
 
@@ -58,19 +83,19 @@ De bepalingen van dit Verdrag doen geen afbreuk aan die van het [Europees Verdra
 
 2. De akten van bekrachtiging, aanvaarding of goedkeuring dienen te worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Dit Verdrag treedt in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van een maand na de datum waarop twee lidstaten van de Raad van Europa hun instemming door het Verdrag te worden gebonden tot uitdrukking hebben gebracht in overeenstemming met de bepalingen van artikel 5.
 
 2. Ten aanzien van iedere lidstaat die daarna zijn instemming door dit Verdrag te worden gebonden tot uitdrukking brengt, treedt het in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van een maand na de datum van ondertekening of na de nederlegging van de akte van bekrachtiging, aanvaarding of goedkeuring.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Na de inwerkingtreding van dit Verdrag kan het Comité van Ministers van de Raad van Europa Staten die geen lid van de Raad van Europa zijn alsmede de Europese Economische Gemeenschap uitnodigen tot dit Verdrag toe te treden, door middel van een besluit genomen met een meerderheid van stemmen zoals bepaald in [artikel 20.d van het Statuut van de Raad van Europa](https://wetten.overheid.nl/jci1.3:c:BWBV0005506&artikel=20), en met eenparigheid van de stemmen van de vertegenwoordigers van de Verdragsluitende Staten die gerechtigd zijn zitting te hebben in het Comité.
 
 2. Ten aanzien van iedere Staat die toetreedt of ten aanzien van de Europese Economische Gemeenschap, indien zij zou toetreden, treedt het Verdrag in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van een maand na de datum van nederlegging van de akte van toetreding bij de Secretaris-Generaal van de Raad van Europa.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Iedere Staat kan ten tijde van de ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding het gebied of de gebieden aanwijzen waarop dit Verdrag van toepassing is.
 
@@ -78,13 +103,13 @@ De bepalingen van dit Verdrag doen geen afbreuk aan die van het [Europees Verdra
 
 3. Iedere krachtens de twee voorgaande leden afgelegde verklaring kan ten aanzien van ieder in die verklaring genoemd gebied worden ingetrokken door middel van een aan de Secretaris-Generaal gerichte kennisgeving. De intrekking wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van een maand na de datum van ontvangst van die kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Iedere Partij kan dit Verdrag te allen tijde opzeggen door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte kennisgeving.
 
 2. De opzegging wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van zes maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 10
+##### Artikel 10
 
 De Secretaris-Generaal van de Raad van Europa stelt de lidstaten van de Raad, de andere Partijen bij het [Europees Cultureel Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005098), iedere Staat die tot dit Verdrag is toegetreden, alsmede de Europese Economische Gemeenschap, indien zij tot dit Verdrag is toegetreden, in kennis van:
 

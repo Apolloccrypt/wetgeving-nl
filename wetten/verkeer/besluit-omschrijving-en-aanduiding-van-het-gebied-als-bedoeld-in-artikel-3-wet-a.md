@@ -1,13 +1,35 @@
 ---
-title: "Besluit omschrijving en aanduiding van het gebied als bedoeld in artikel 3 Wet agrarisch grondverkeer"
+title: "Besluit van 16 oktober 1981, houdende nadere voorschriften met betrekking tot de omschrijving en aanduiding van het gebied als bedoeld in artikel 3 van de Wet agrarisch grondverkeer (Stb. 1981, 248)"
 identifier: "BWBR0003449"
-categorie: "Verkeer"
-publicatiedatum: 2006-03-08
-laatste_update: 2006-03-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003449"
+country: "nl"
+rank: "amvb"
+publication_date: "2006-03-08"
+last_updated: "2006-03-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003449"
+soort: "AMvB"
+stam_id: "740603"
+version_id: "1082112"
+internal_id: "C1082111"
+label_id: "717594"
+dtd_version: "2.0"
+original_entry_into_force: "1981-11-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003449/2006-03-08/0"
+intitule_bron: "Stb.1981-659"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1981-10-16"
+intitule_status: "goed"
+original_publication: "Stb.1981-659"
+original_signed_date: "1981-10-16"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1981-11-07"
+jci_1_3: "jci1.3:c:BWBR0003449&z=2006-03-08&g=2006-03-08"
+jci_1_0: "1.0:c:BWBR0003449&g=2006-03-08"
+citeertitel_status: "officieel"
+short_title: "Besluit omschrijving en aanduiding van het gebied als bedoeld in artikel 3 Wet agrarisch grondverkeer"
+signed_date: "1981-10-16"
+entry_into_force: "1981-11-07"
 ---
-
 # Besluit van 16 oktober 1981, houdende nadere voorschriften met betrekking tot de omschrijving en aanduiding van het gebied als bedoeld in artikel 3 van de Wet agrarisch grondverkeer (Stb. 1981, 248)
 
 Op de voordracht van Onze Minister van Landbouw en Visserij van 29 juni 1981, Directie Juridische en Bedrijfsorganisatorische Zaken, nr. J.4247;
@@ -20,7 +42,7 @@ Gezien het nader rapport van Onze Minister van Landbouw en Visserij van 8 oktobe
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 1. De omschrijving en de aanduiding van het gebied waarvan bij besluit van het college van burgemeester en wethouders wordt verklaard, dat daarin uitsluitend of nagenoeg uitsluitend onroerend goed is gelegen, dat duurzaam voor andere dan landbouwkundige doeleinden wordt gebruikt dan wel onroerend goed dat niet als natuurterrein dient te worden aangemerkt, geschiedt in dat besluit door de vermelding van alle tot het gebied behorende percelen, met gebruikmaking van hun kadastrale aanduiding, welke bestaat uit achtereenvolgens de naam der kadastrale gemeente, de aanduiding der sectie en het perceelnummer.
 
@@ -32,11 +54,11 @@ Hebben goedgevonden en verstaan:
 
 5. Als kadastrale aanduiding waarvan vermelding geschiedt ingevolge het eerste, tweede en derde lid, wordt aangemerkt die, welke bestaat op een tijdstip dat het college van burgemeester en wethouders in het besluit aanwijst.
 
-#### Artikel 2
+##### Artikel 2
 
 Indien verschillende verspreid liggende gebieden als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003449&artikel=1&z=2006-03-08&g=2006-03-08), tot eenzelfde gemeente behoren, worden zij te zamen in één besluit van het college van burgemeester en wethouders opgenomen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De bij het besluit van het college van burgemeester en wethouders gevoegde kaart wordt ingericht met inachtneming van de volgende voorschriften:
 
@@ -58,11 +80,11 @@ Indien verschillende verspreid liggende gebieden als bedoeld in [artikel 1, eers
 
 3. Onze Minister kan met betrekking tot de technische uitvoering van de kaarten nadere voorschriften geven.
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst.
 

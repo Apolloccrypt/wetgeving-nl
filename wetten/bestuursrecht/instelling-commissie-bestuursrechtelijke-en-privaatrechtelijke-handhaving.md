@@ -1,13 +1,37 @@
 ---
 title: "Instelling Commissie bestuursrechtelijke en privaatrechtelijke handhaving"
 identifier: "BWBR0008416"
-categorie: "Bestuursrecht"
-publicatiedatum: 1997-02-01
-laatste_update: 1997-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008416"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1997-02-01"
+last_updated: "1997-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008416"
+soort: "ministeriele-regeling"
+stam_id: "4259013"
+version_id: "6022452"
+internal_id: "C6225841"
+label_id: "4237594"
+dtd_version: "2.0"
+original_entry_into_force: "1997-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008416/1997-02-01/0"
+intitule_bron: "Stcrt.1996-250"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-12-12"
+intitule_published: "1996-12-30"
+intitule_in_force: "1996-12-30"
+intitule_status: "goed"
+original_publication: "Stcrt.1996-250"
+original_signed_date: "1996-12-12"
+original_published_date: "1996-12-30"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1997-02-01"
+jci_1_3: "jci1.3:c:BWBR0008416&z=1997-02-01&g=1997-02-01"
+jci_1_0: "1.0:c:BWBR0008416&g=1997-02-01"
+citeertitel_status: "officieel"
+signed_date: "1996-12-12"
+entry_into_force: "1997-02-01"
 ---
-
 # Instelling Commissie bestuursrechtelijke en privaatrechtelijke handhaving
 
 Overwegende, dat de in het rapport van de Commissie Heroverweging Instrumentarium Rechtshandhaving, Het recht ten uitvoer gelegd, oude en nieuwe instrumenten van rechtshandhaving, deel C, aanbevelingen worden gedaan terzake van de handhaving van regelgeving langs bestuursrechtelijke of privaatrechtelijke weg;
@@ -16,11 +40,11 @@ dat deze aanbevelingen nadere studie en beoordeling behoeven;
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Er is een Commissie bestuursrechtelijke en privaatrechtelijke handhaving, hierna te noemen de commissie.
 
-#### Artikel 2
+##### Artikel 2
 
 De commissie heeft tot taak:
 
@@ -34,7 +58,7 @@ De commissie heeft tot taak:
 
 - 5). terzake deze onderwerpen waar de commissie dat nodig acht voorstellen te doen.
 
-#### Artikel 3
+##### Artikel 3
 
 In de commissie hebben zitting:
 
@@ -64,18 +88,18 @@ In de commissie hebben zitting:
 
 - mr. R.G. van de Pol, senior-beleidsmedewerker bij de Directie Bestuurlijke en Financiële Organisatie van het Ministerie van Binnenlandse Zaken.
 
-#### Artikel 4
+##### Artikel 4
 
 De commissie is bevoegd deskundigen uit te nodigen om aan de beraadslagingen van de commissie deel te nemen.
 
-#### Artikel 5
+##### Artikel 5
 
 De commissie kan ten behoeve van haar taak voor specifieke vraagstellingen aan derden opdracht geven onderzoek te verrichten binnen het daarvoor vastgestelde budget.
 
-#### Artikel 6
+##### Artikel 6
 
 De commissie kan zich wenden tot de onder de verantwoordelijkheid van de Minister van Justitie ressorterende diensten en instellingen voor het verkrijgen van de inlichtingen die zij behoeft.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit wordt bekend gemaakt door publikatie in de Staatscourant.

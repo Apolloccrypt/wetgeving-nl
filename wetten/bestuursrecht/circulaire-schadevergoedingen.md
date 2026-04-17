@@ -1,13 +1,34 @@
 ---
 title: "Circulaire schadevergoedingen"
 identifier: "BWBR0008488"
-categorie: "Bestuursrecht"
-publicatiedatum: 1997-12-22
-laatste_update: 1997-12-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008488"
+country: "nl"
+rank: "circulaire"
+publication_date: "1997-12-22"
+last_updated: "1997-12-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008488"
+soort: "circulaire"
+stam_id: "6593973"
+version_id: "11437662"
+internal_id: "C16101711"
+label_id: "6583404"
+original_entry_into_force: "1997-12-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008488/1997-12-22/0"
+intitule_bron: "Stcrt.1997-246"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1997-12-22"
+intitule_in_force: "1997-12-22"
+intitule_status: "goed"
+original_publication: "Stcrt.1997-246"
+original_published_date: "1997-12-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1997-246-p32-SC11877"
+entry_into_force_date: "1997-12-22"
+jci_1_3: "jci1.3:c:BWBR0008488&z=1997-12-22&g=1997-12-22"
+jci_1_0: "1.0:c:BWBR0008488&g=1997-12-22"
+citeertitel_status: "redactioneel"
+entry_into_force: "1997-12-22"
 ---
-
 # Circulaire schadevergoedingen
 
 ### 1. Inleiding

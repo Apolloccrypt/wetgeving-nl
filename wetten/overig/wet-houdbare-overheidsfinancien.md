@@ -1,14 +1,42 @@
 ---
-title: "Wet houdbare overheidsfinanciën"
+title: "Wet van 11 december 2013 inzake houdbare financiën van de collectieve sector (Wet houdbare overheidsfinanciën)"
 identifier: "BWBR0034360"
-categorie: "Overig"
-publicatiedatum: 2025-12-31
-laatste_update: 2025-12-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034360"
+country: "nl"
+rank: "wet"
+publication_date: "2025-12-31"
+last_updated: "2025-12-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034360"
+soort: "wet"
+stam_id: "12475963"
+version_id: "31112392"
+internal_id: "C44534591"
+label_id: "12446704"
+dtd_version: "2.0"
+original_entry_into_force: "2025-10-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034360/2025-12-31/0"
+intitule_bron: "Stb.2013-531"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-12-11"
+intitule_published: "2013-12-13"
+intitule_in_force: "2013-12-13"
+intitule_status: "goed"
+original_publication: "Stb.2025-396"
+original_signed_date: "2025-10-08"
+original_published_date: "2025-11-27"
+original_effect: "structuurwijziging"
+original_dossier: "36756"
+original_url_id: "stb-2025-396"
+entry_into_force_date: "2025-10-08"
+entry_into_force_dossier: "36756"
+jci_1_3: "jci1.3:c:BWBR0034360&z=2025-12-31&g=2025-12-31"
+jci_1_0: "1.0:c:BWBR0034360&g=2025-12-31"
+citeertitel_status: "officieel"
+short_title: "Wet houdbare overheidsfinanciën"
+signed_date: "2025-10-08"
+entry_into_force: "2025-10-08"
 ---
-
-# Wet houdbare overheidsfinanciën
+# Wet van 11 december 2013 inzake houdbare financiën van de collectieve sector (Wet houdbare overheidsfinanciën)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +44,7 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is een wettelijke regel
 
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1. : Definities
+##### Artikel 1. : Definities
 
 In deze wet wordt verstaan onder:
 
@@ -60,7 +88,7 @@ In deze wet wordt verstaan onder:
 
 - **Structureel EMU-saldo:** het EMU-saldo, gecorrigeerd overeenkomstig de EU-methode voor conjunctuurschommelingen en voor eenmalige en tijdelijke maatregelen.
 
-#### Artikel 2. : Begrotingsbeleid
+##### Artikel 2. : Begrotingsbeleid
 
 1. Onze Minister van Financiën voert trendmatig begrotingsbeleid met betrekking tot de uitgaven en de ontvangsten van de rijksdienst en de sociale fondsen.
 
@@ -94,7 +122,7 @@ In deze wet wordt verstaan onder:
 
 6. Voor de beoordeling van het gevoerde begrotingsbeleid over een jaar wordt uitgegaan van de berekening van het CBS van het gerealiseerde EMU-saldo en van de gerealiseerde EMU-schuld.
 
-#### Artikel 3. : Normering budgettair beleid decentrale overheden
+##### Artikel 3. : Normering budgettair beleid decentrale overheden
 
 1. De decentrale overheden en de op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034360&artikel=4&z=2025-12-31&g=2025-12-31) aangewezen overige rechtspersonen met een wettelijke taak zijn gehouden een gelijkwaardige inspanning te leveren als voor de rijksdienst en de sociale fondsen ten aanzien van het respecteren van de normen, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034360&artikel=2&z=2025-12-31&g=2025-12-31), en treffen daartoe de nodige maatregelen.
 
@@ -118,7 +146,7 @@ In deze wet wordt verstaan onder:
 
 7. Het CBS verstrekt aan Onze Minister van Financiën, Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Infrastructuur en Waterstaat jaarlijks op hun verzoek informatie over de aandelen van de provincies gezamenlijk, de gemeenten gezamenlijk en de waterschappen gezamenlijk in het EMU-saldo en in de EMU-schuld en over de individuele aandelen van de waterschappen in het EMU-saldo en de EMU-schuld.
 
-#### Artikel 4. : Bevoegdheden ten aanzien van overige rechtspersonen met een wettelijke taak
+##### Artikel 4. : Bevoegdheden ten aanzien van overige rechtspersonen met een wettelijke taak
 
 1. Bij een besluit van Onze Minister van Financiën kunnen, in overeenstemming met Onze Ministers die beschikken over wettelijke bevoegdheden met betrekking tot overige rechtspersonen met een wettelijke taak, rechtspersonen behorende tot de categorie overige rechtspersonen met een wettelijke taak worden aangewezen, die de voorafgaande instemming van hem behoeven, indien zij voornemens zijn hun activiteiten te financieren door het aantrekken van een lening op de geld- of de kapitaalmarkt.
 
@@ -128,7 +156,7 @@ In deze wet wordt verstaan onder:
 
 4. Alvorens Onze Minister van Financiën besluit tot het aanwijzen van een rechtspersoon als bedoeld in het eerste lid, of tot onthouden van zijn instemming aan het voornemen tot het aantrekken van een lening, stelt hij de betrokken rechtspersoon in de gelegenheid te worden gehoord.
 
-#### Artikel 5. : Vaststelling individuele referentiewaarde voor het EMU-saldo
+##### Artikel 5. : Vaststelling individuele referentiewaarde voor het EMU-saldo
 
 1. De individuele referentiewaarde voor het EMU-saldo omvat naast het eigen aandeel, ook het aandeel in het EMU-saldo van een openbaar lichaam dat is ingesteld bij een gemeenschappelijke regeling als bedoeld in de Wet gemeenschappelijke regelingen, waaraan de decentrale overheid deelneemt, voor zover dit aandeel aan de deelnemende decentrale overheid moet worden toegerekend.
 
@@ -140,7 +168,7 @@ In deze wet wordt verstaan onder:
 
 3. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Infrastructuur en Waterstaat stellen in overeenstemming met Onze Minister van Financiën de individuele referentiewaarden voor de decentrale overheden vast.
 
-#### Artikel 6. : Correctiemechanisme decentrale overheden
+##### Artikel 6. : Correctiemechanisme decentrale overheden
 
 1. Indien uit de ramingen van het CPB of uit realisaties van het CBS blijkt dat het collectief aandeel in het EMU-saldo van de decentrale overheden gezamenlijk, bedoeld in [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034360&artikel=3&z=2025-12-31&g=2025-12-31), meerjarig wordt overschreden, kunnen na bestuurlijk overleg, bij algemene maatregel van bestuur maatregelen worden gesteld ter naleving van het vastgestelde resultaat in termen van het collectief aandeel in het EMU-saldo van de decentrale overheden gezamenlijk, als bedoeld in artikel 3, zesde lid.
 
@@ -148,7 +176,7 @@ In deze wet wordt verstaan onder:
 
 3. Een krachtens het eerste lid vastgestelde algemene maatregel van bestuur treedt niet eerder in werking dan vier weken na de datum van uitgifte van het Staatsblad waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal.
 
-#### Artikel 7. : Doorberekening van EU-sanctie aan decentrale overheden
+##### Artikel 7. : Doorberekening van EU-sanctie aan decentrale overheden
 
 1. Dit artikel is van toepassing als:
 
@@ -166,7 +194,7 @@ Bij de toerekening wordt in ieder geval gelet op hoogte en de duur van het EMU-t
 
 5. Het toegerekende deel van de in het vierde lid bedoelde boete, wordt in mindering gebracht op de uitkering waar de desbetreffende provincie dan wel gemeente op grond van de [Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290) aanspraak op heeft, dan wel ten laste gebracht van het desbetreffende waterschap.
 
-#### Artikel 8. : NL-sanctie voor overige rechtspersonen met een wettelijke taak
+##### Artikel 8. : NL-sanctie voor overige rechtspersonen met een wettelijke taak
 
 1. Onze Minister van Financiën kan, in overeenstemming met Onze betrokken Minister, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034360&artikel=4&z=2025-12-31&g=2025-12-31), een boete opleggen aan een rechtspersoon als bedoeld in dat artikellid, indien de rechtspersoon ondanks de onthouden instemming zijn voornemen tot het aantrekken van een lening uitvoert.
 
@@ -176,11 +204,11 @@ Bij de toerekening wordt in ieder geval gelet op hoogte en de duur van het EMU-t
 
 Het vrijgeven van het depot vindt plaats zo spoedig mogelijk als passend is in het hier bedoelde beleid.
 
-#### Artikel 9. : Toepassing sanctiebevoegdheid
+##### Artikel 9. : Toepassing sanctiebevoegdheid
 
 Indien toepassing wordt gegeven aan de bevoegdheid tot het toerekenen van een sanctie of het opleggen van een boete, bedoeld in respectievelijk, [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034360&artikel=7&z=2025-12-31&g=2025-12-31) en [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0034360&artikel=8&z=2025-12-31&g=2025-12-31), wordt, voordat deze ten uitvoer worden gebracht, de Tweede Kamer der Staten-Generaal van het voornemen daartoe in kennis gesteld. De bevoegdheden, genoemd in de vorige volzin, worden slechts ten uitvoer gebracht nadat vier weken zijn verstreken na het in kennis stellen van de Tweede Kamer der Staten-Generaal, tenzij de Tweede Kamer der Staten-Generaal zich binnen deze termijn tegen de sanctie heeft uitgesproken.
 
-#### Artikel 10. : Wijziging van enkele wetten
+##### Artikel 10. : Wijziging van enkele wetten
 
 1. Wijzigt de Gemeentewet.
 
@@ -188,7 +216,7 @@ Indien toepassing wordt gegeven aan de bevoegdheid tot het toerekenen van een sa
 
 3. Wijzigt de Wet financiering decentrale overheden.
 
-#### Artikel 11. : Slotbepalingen
+##### Artikel 11. : Slotbepalingen
 
 1. Deze wet wordt aangehaald als: Wet houdbare overheidsfinanciën.
 
@@ -196,7 +224,7 @@ Indien toepassing wordt gegeven aan de bevoegdheid tot het toerekenen van een sa
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 2a. : Onafhankelijke begrotingsinstellingen
+##### Artikel 2a. : Onafhankelijke begrotingsinstellingen
 
 1. De Afdeling advisering van de Raad van State en het CPB zijn de onafhankelijke begrotingsinstellingen belast met het toezicht op de naleving van begrotingsregels als bedoeld in artikel 8 bis van de richtlijn.
 
@@ -204,7 +232,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 3. Onze Minister van Financiën maakt voor het berekenen van de raming van het EMU-saldo en van de EMU-schuld gebruik van de meerjarige budgettaire ramingen van de collectieve sector, die gebaseerd zijn op de macro-economische variabelen van het CPB.
 
-#### Artikel 2b. : Taken onafhankelijke begrotingsinstellingen
+##### Artikel 2b. : Taken onafhankelijke begrotingsinstellingen
 
 1. De onafhankelijke begrotingsinstellingen, genoemd in [artikel 2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034360&artikel=2a&z=2025-12-31&g=2025-12-31), zijn belast met de volgende taken:
 
@@ -228,7 +256,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 4. Onze Minister van Financiën verschaft aan de onafhankelijke begrotingsinstellingen, bedoeld in [artikel 2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034360&artikel=2a&z=2025-12-31&g=2025-12-31), adequate en tijdige toegang tot de informatie die nodig is om hun taken uit te voeren.
 
-#### Artikel 2c. : Beschrijving en beoordeling geplande beleidsmaatregelen en publicatie voorwaardelijke verplichtingen
+##### Artikel 2c. : Beschrijving en beoordeling geplande beleidsmaatregelen en publicatie voorwaardelijke verplichtingen
 
 Onze Minister van Financiën draagt zorg voor de naleving van de artikelen 9, tweede lid, onder c en d, en 14, derde lid, van de richtlijn.
 

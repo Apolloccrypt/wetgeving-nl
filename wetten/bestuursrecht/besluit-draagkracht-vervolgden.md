@@ -1,13 +1,37 @@
 ---
-title: "Besluit draagkracht vervolgden"
+title: "Besluit van 21 juni 1973, houdende nadere regelen met betrekking tot de tegemoetkoming in bijzondere kosten en de bepaling van de financiële draagkracht ingevolge de Wet uitkeringen vervolgingsslachtoffers 1940-1945"
 identifier: "BWBR0002888"
-categorie: "Bestuursrecht"
-publicatiedatum: 2013-01-01
-laatste_update: 2013-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002888"
+country: "nl"
+rank: "amvb"
+publication_date: "2013-01-01"
+last_updated: "2013-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002888"
+soort: "AMvB"
+stam_id: "350923"
+version_id: "9299412"
+internal_id: "C12391931"
+label_id: "343084"
+dtd_version: "2.0"
+original_entry_into_force: "2003-08-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002888/2013-01-01/0"
+intitule_bron: "Stb.1973-329"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1973-06-21"
+intitule_status: "goed"
+original_publication: "Stb.2003-325"
+original_signed_date: "2003-08-11"
+original_published_date: "2003-08-26"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2003-325"
+entry_into_force_date: "2003-08-11"
+jci_1_3: "jci1.3:c:BWBR0002888&z=2013-01-01&g=2013-01-01"
+jci_1_0: "1.0:c:BWBR0002888&g=2013-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit draagkracht vervolgden"
+signed_date: "2003-08-11"
+entry_into_force: "2003-08-11"
 ---
-
 # Besluit van 21 juni 1973, houdende nadere regelen met betrekking tot de tegemoetkoming in bijzondere kosten en de bepaling van de financiële draagkracht ingevolge de Wet uitkeringen vervolgingsslachtoffers 1940-1945
 
 Op de voordracht van Onze Minister van Cultuur, Recreatie en Maatschappelijk Werk van 19 april 1973, Directie Bijstandszaken, nr. 964-Bu;
@@ -22,11 +46,11 @@ Gezien het nader rapport van de Staatssecretaris van Cultuur, Recreatie en Maats
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder de wet: de [Wet uitkeringen vervolgingsslachtoffers 1940-1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002844).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Bij het bepalen van de financiële draagkracht van de vervolgde ter zake van de toekenning van een tegemoetkoming in kosten van voorzieningen als bedoeld in [artikel 21, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=21) wordt als zijn inkomen aangemerkt:
 
@@ -44,7 +68,7 @@ In dit besluit wordt verstaan onder de wet: de [Wet uitkeringen vervolgingsslach
 
 3. Wanneer toepassing is gegeven aan de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=14) of [20, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=20) wordt als inkomen aangemerkt het percentage van de grondslag, genoemd in [artikel 14, eerste lid, onder a, b of c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=14).
 
-#### Artikel 3
+##### Artikel 3
 
 De financiële draagkracht wordt eenmalig berekend en bepaald op:
 
@@ -52,19 +76,19 @@ De financiële draagkracht wordt eenmalig berekend en bepaald op:
 
 - b. 50 procent van het ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002888&artikel=2&z=2013-01-01&g=2013-01-01) vastgestelde inkomen dat de grondslag, genoemd in [artikel 8, zevende lid, onder **b,** van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=8) overschrijdt.
 
-#### Artikel 4
+##### Artikel 4
 
 Indien de vervolging in het voormalige Nederlands-Indië heeft plaatsgehad en de uitkeringsgerechtigde in Indonesië gevestigd is, vindt het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002888&artikel=3&z=2013-01-01&g=2013-01-01) overeenkomstige toepassing, met dien verstande dat in plaats van de grondslagen, genoemd in artikel 8, zevende lid, onder **a** en **b,** wordt uitgegaan van de grondslagen, genoemd in artikel 8, achtste lid, onder **a** en **b,** van de wet.
 
-#### Artikel 5
+##### Artikel 5
 
 De tegemoetkoming in de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002888&artikel=2&z=2013-01-01&g=2013-01-01), bedoelde kosten van voorzieningen wordt vastgesteld op het bedrag, waarmede die kosten de ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002888&artikel=3&z=2013-01-01&g=2013-01-01) berekende financiële draagkracht overschrijden.
 
-#### Artikel 5a
+##### Artikel 5a
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 1. Dit besluit kan worden aangehaald als Besluit draagkracht vervolgden.
 
@@ -72,7 +96,7 @@ Vervallen
 
 Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en de Algemene Rekenkamer.
 
-#### Artikel 3a
+##### Artikel 3a
 
 1. De ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002888&artikel=3&z=2013-01-01&g=2013-01-01) bepaalde financiële draagkracht wordt herzien:
 

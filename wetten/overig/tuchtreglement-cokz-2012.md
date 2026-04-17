@@ -1,13 +1,38 @@
 ---
 title: "Tuchtreglement COKZ 2012"
 identifier: "BWBR0031790"
-categorie: "Overig"
-publicatiedatum: 2012-07-01
-laatste_update: 2012-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031790"
+country: "nl"
+rank: "zbo"
+publication_date: "2012-07-01"
+last_updated: "2012-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031790"
+soort: "zbo"
+stam_id: "11793533"
+version_id: "19513602"
+internal_id: "C27361721"
+label_id: "11766084"
+dtd_version: "2.0"
+original_entry_into_force: "2012-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031790/2012-07-01/0"
+intitule_bron: "Stcrt.2012-14416"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-05-25"
+intitule_published: "2012-07-13"
+intitule_in_force: "2012-07-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-14416"
+original_signed_date: "2012-05-25"
+original_published_date: "2012-07-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-14416"
+entry_into_force_date: "2012-07-01"
+jci_1_3: "jci1.3:c:BWBR0031790&z=2012-07-01&g=2012-07-01"
+jci_1_0: "1.0:c:BWBR0031790&g=2012-07-01"
+citeertitel_status: "officieel"
+signed_date: "2012-05-25"
+entry_into_force: "2012-07-01"
 ---
-
 # Tuchtreglement COKZ 2012
 
 gelet op [artikel 13, tweede lid, van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=13) (Stb. 1971, 371) en [artikel 2 van het Tuchtrechtbesluit Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003252&artikel=13),
@@ -18,7 +43,7 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 #### Definities
 
-#### Artikel 1
+##### Artikel 1
 
 In dit reglement wordt verstaan onder:
 
@@ -46,13 +71,13 @@ In dit reglement wordt verstaan onder:
 
 #### Instelling, samenstelling en bevoegdheid van het tuchtgerecht
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het tuchtgerecht van de stichting, als bedoeld in artikel 18 van de statuten van de stchting, is belast met tuchtrechtspraak terzake van overtredingen van voorschriften.
 
 2. Het tuchtgerecht is gevestigd te Leusden.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het tuchtgerecht is samengesteld uit een lid-voorzitter, een lid-vice-voorzitter en ten minste zes andere leden. Het wordt bijgestaan door een secretaris, die geen lid is van het tuchtgerecht.
 
@@ -66,7 +91,7 @@ In dit reglement wordt verstaan onder:
 
 6. De benoeming van de voorzitter en de vice-voorzitter behoeft de goedkeuring van de Minister.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Echtgenoten, bloedverwanten of aanverwanten tot de derde graad ingesloten, kunnen niet tezamen zijn voorzitter, vice-voorzitter, lid of secretaris van het tuchtgerecht.
 
@@ -76,7 +101,7 @@ In dit reglement wordt verstaan onder:
 
 Zwagerschap houdt op door de ontbinding van het huwelijk dat haar veroorzaakte.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De voorzitter, de vice-voorzitter, de overige leden en de secretaris van het tuchtgerecht kunnen tussentijds op eigen verzoek door het bestuur worden ontslagen.
 
@@ -86,7 +111,7 @@ Zwagerschap houdt op door de ontbinding van het huwelijk dat haar veroorzaakte.
 
 4. Tegen een besluit als bedoeld in het tweede lid staat beroep open bij de Minister. Dit beroep dient binnen 30 dagen na verzending van het in het derde lid bedoelde aangetekend schrijven te worden ingesteld.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De kosten van het tuchtgerecht komen ten laste van de stichting.
 
@@ -96,7 +121,7 @@ Zwagerschap houdt op door de ontbinding van het huwelijk dat haar veroorzaakte.
 
 4. De kosten van partijen zoals ten aanzien van raadslieden, vertegenwoordigers, getuigen, deskundigen en tolken, alsmede alle overige kosten komen voor rekening van de partij aan wiens zijde deze kosten vallen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het tuchtgerecht houdt zitting in de plaats waarin het is gevestigd.
 
@@ -108,7 +133,7 @@ Zwagerschap houdt op door de ontbinding van het huwelijk dat haar veroorzaakte.
 
 5. Indien een voor een zitting aangewezen lid verhinderd is de zitting bij te wonen, geeft hij daarvan onverwijld kennis aan de fungerend secretaris, die alsdan het als vervanger aangewezen lid oproept.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het tuchtgerecht kan aan een betrokkene die een voorschrift heeft overtreden een of meer van de in [artikel 13, eerste lid, van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=13) opgenomen maatregelen opleggen, te weten:
 
@@ -122,7 +147,7 @@ Zwagerschap houdt op door de ontbinding van het huwelijk dat haar veroorzaakte.
 
 2. In gevallen waarin het tuchtgerecht besluit tot de in het eerste lid onder c. of d. genoemde maatregelen, stelt het tevens het geschatte bedrag van de daaraan verbonden kosten vast, welk bedrag door de betrokkene moet worden voldaan. Wordt openbaarmaking van de tuchtbeschikking gelast, dan bepaalt het tuchtgerecht tevens de wijze waarop deze dient te geschieden. De kosten van openbaarmaking worden in de uitspraak op een bepaald bedrag geschat.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Indien een feit, dat tuchtrechtelijk kan worden afgedaan, wordt begaan door of vanwege een rechtspersoon of een vennootschap, wordt de tuchtrechtelijke vervolging ingesteld en worden
 
@@ -142,7 +167,7 @@ maatregelen genomen tegen:
 
 #### Rechtsgang van het tuchtrechtelijk geding
 
-#### Artikel 10
+##### Artikel 10
 
 1. Een zaak wordt binnen vier maanden na constatering van de ten laste gelegde overtreding door of namens het bestuur bij het tuchtgerecht aanhangig gemaakt door middel van een schriftelijke verklaring, inhoudende:
 
@@ -160,7 +185,7 @@ maatregelen genomen tegen:
 
 6. De directeur of diens plaatsvervanger is, voor zover het bestuur niet anders bepaalt, bevoegd ter uitvoering van het eerste lid van dit artikel te handelen namens het bestuur.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Indien naar het oordeel van de voorzitter geen tuchtmaatregel of geen andere tuchtmaatregel dan een berisping of een geldboete van ten hoogste € 225,– dient te worden opgelegd, kan de voorzitter de zaak zonder zitting afdoen. De voorzittersbeschikking wordt op schrift gesteld. [Artikel 23, lid 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031790&artikel=23&z=2012-07-01&g=2012-07-01), van dit reglement is van overeenkomstige toepassing.
 
@@ -168,7 +193,7 @@ maatregelen genomen tegen:
 
 3. De termijnen van [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031790&artikel=12&z=2012-07-01&g=2012-07-01), vangen in dat geval aan vanaf de datum waarop de secretaris het verzoek heeft ontvangen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Onverminderd het bepaalde in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0031790&artikel=11&z=2012-07-01&g=2012-07-01), wordt de betrokkene binnen een termijn van ten hoogste acht weken nadat een zaak tegen hem bij het tuchtgerecht aanhangig is gemaakt, bij aangetekende brief opgeroepen om op een door de voorzitter te bepalen dag en uur ter zitting te verschijnen. De oproeping wordt tenminste twee weken voor de dag der zitting aan hem toegezonden en vermeldt de plaats van de zitting. Met inachtneming van dezelfde termijn wordt ook het bestuur of degene die de zaak namens het bestuur aanhangig heeft gemaakt ter zitting opgeroepen.
 
@@ -182,7 +207,7 @@ maatregelen genomen tegen:
 
 - c. de mededeling, dat de betrokkene bevoegd is zich ter zitting door een raadsman te doen bijstaan.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De zittingen van het tuchtgerecht zijn openbaar, tenzij naar het oordeel van de voorzitter dringende redenen zich daartegen verzetten.
 
@@ -194,11 +219,11 @@ maatregelen genomen tegen:
 
 5. De betrokkene kan zich te allen tijde door een raadsman doen bijstaan. Het tuchtgerecht kan weigeren bepaalde personen, die niet zijn advocaat, als raadsman toe te laten. Bij zodanige weigering houdt het tuchtgerecht op verzoek van de betrokkene de zaak tot een volgende zitting aan.
 
-#### Artikel 14
+##### Artikel 14
 
 Tegen de betrokkene, die niet is verschenen of, ingeval zijn persoonlijke verschijning niet is gelast, zich niet heeft laten vertegenwoordigen, wordt verstek verleend. De behandeling wordt daarna voortgezet.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Een lid van het tuchtgerecht kan zich verschonen en kan worden gewraakt, indien te zijnen aanzien feiten of omstandigheden bestaan, waardoor in het algemeen de onpartijdigheid van het tuchtgerecht schade zou kunnen lijden.
 
@@ -208,7 +233,7 @@ Tegen de betrokkene, die niet is verschenen of, ingeval zijn persoonlijke versch
 
 4. M.b.t. wraking resp. verschoning zijn de [artikelen 513 tot en met 515](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=513) resp. de [artikelen 517, tweede en derde lid tot en met 518 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=517) van overeenkomstige toepassing.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Het tuchtgerecht is bevoegd ambtshalve of op verzoek van de betrokkene getuigen bij aangetekend schrijven op te roepen. Iedereen die als getuige is opgeroepen, is verplicht voor het tuchtgerecht te verschijnen.
 
@@ -218,7 +243,7 @@ Tegen de betrokkene, die niet is verschenen of, ingeval zijn persoonlijke versch
 
 4. De voorzitter van het tuchtgerecht kan een getuige de eed of belofte doen afleggen dat hij de waarheid en niets dan de waarheid zal zeggen.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Het tuchtgerecht kan ambtshalve of op verzoek van de betrokkene een of meer deskundigen benoemen, zonodig met opdracht een onderzoek in te stellen en daarvan verslag uit te brengen.
 
@@ -230,11 +255,11 @@ Tegen de betrokkene, die niet is verschenen of, ingeval zijn persoonlijke versch
 
 5. Het tuchtgerecht kan de deskundige geheimhouding opleggen.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Door het tuchtgerecht opgeroepen en verschenen getuigen en deskundigen, niet zijnde functionarissen van de stichting, ontvangen een vergoeding overeenkomstig het bepaalde bij of krachtens de [Wet tarieven strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0002406).
 
-#### Artikel 19
+##### Artikel 19
 
 1. Het tuchtgerecht kan de behandeling ter zitting schorsen onder opgaaf van redenen.
 
@@ -242,7 +267,7 @@ Tegen de betrokkene, die niet is verschenen of, ingeval zijn persoonlijke versch
 
 3. De in het tweede lid bedoelde mededeling gaat vergezeld van een afschrift van alle op de zaak betrekking hebbende stukken, voor zover niet reeds toegezonden ingevolge [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031790&artikel=11&z=2012-07-01&g=2012-07-01), van dit reglement.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Het is aan de voorzitter en de andere leden verboden buiten de zitting:
 
@@ -256,7 +281,7 @@ Tegen de betrokkene, die niet is verschenen of, ingeval zijn persoonlijke versch
 
 3. De geheimhoudingsplicht geldt ook na beëindiging van de functie.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Meerdere overtredingen van de voorschriften, door dezelfde betrokkene begaan, kunnen tegelijkertijd tuchtrechtelijk worden afgedaan.
 
@@ -266,7 +291,7 @@ Tegen de betrokkene, die niet is verschenen of, ingeval zijn persoonlijke versch
 
 4. Overtredingen van de voorschriften, door twee of meer betrokkenen begaan, kunnen -indien de betrokkenen daartegen geen bezwaar hebben- tegelijkertijd tuchtrechtelijk worden afgedaan.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De voorzitter sluit het onderzoek ter zitting wanneer het tuchtgerecht van oordeel is dat het is voltooid.
 
@@ -274,7 +299,7 @@ Tegen de betrokkene, die niet is verschenen of, ingeval zijn persoonlijke versch
 
 3. Nadat het onderzoek ter zitting is gesloten deelt de voorzitter mee wanneer uitspraak zal worden gedaan.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Het tuchtgerecht beraadslaagt en beslist in raadkamer, zo mogelijk in aansluiting aan de behandeling ter zitting.
 
@@ -292,11 +317,11 @@ Tegen de betrokkene, die niet is verschenen of, ingeval zijn persoonlijke versch
 
 #### Verzet en beroep
 
-#### Artikel 24
+##### Artikel 24
 
 Tegen de bij verstek gegeven uitspraak kan de betrokkene binnen zes weken na verzending van de uitspraak verzet doen. In dat geval wordt de zaak overeenkomstig de [artikelen 12 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0031790&artikel=12&z=2012-07-01&g=2012-07-01) van dit reglement behandeld. Indien de betrokkene wederom niet ter zitting verschijnt, wordt in afwijking van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0031790&artikel=14&z=2012-07-01&g=2012-07-01) niet opnieuw verstek verleend.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Op gezamenlijk verzoek van eigenaar van het bedrijf waar de maatregel is opgelegd en degene die de zaak aanhangig heeft gemaakt kan het tuchtgerecht besluiten om de sanctie van het verscherpt toezicht op te heffen.
 
@@ -304,7 +329,7 @@ Tegen de bij verstek gegeven uitspraak kan de betrokkene binnen zes weken na ver
 
 3. Tegen de uitspraak op het verzoek staat geen hoger beroep open.
 
-#### Artikel 26
+##### Artikel 26
 
 1. De betrokkene dan wel degene die de zaak aanhangig heeft gemaakt kan binnen zes weken na de verzending van de uitspraak van het tuchtgerecht hoger beroep instellen bij het College van beroep voor het bedrijfsleven, tenzij tegen die uitspraak verzet kan of kon worden gedaan.
 
@@ -314,19 +339,19 @@ Tegen de bij verstek gegeven uitspraak kan de betrokkene binnen zes weken na ver
 
 #### Tenuitvoerlegging
 
-#### Artikel 27
+##### Artikel 27
 
 De tenuitvoerlegging van uitspraken van het tuchtgerecht en van het College van beroep voor het bedrijfsleven geschiedt op last van het bestuur. Van tenuitvoerlegging kan niet worden afgezien tenzij met goedkeuring van de voorzitter van het College van beroep voor het bedrijfsleven.
 
-#### Artikel 28
+##### Artikel 28
 
 Wanneer het bestuur een uitspraak waarbij een geldboete voorwaardelijk is opgelegd, ten uitvoer wil leggen omdat de voorwaarde is overtreden, kan het bestuur bij de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0031790&artikel=10&z=2012-07-01&g=2012-07-01) bedoelde verklaring bij het aanhangig maken van die overtreding een verzoek voegen om vast te stellen dat de voorwaarde is overtreden.
 
-#### Artikel 29
+##### Artikel 29
 
 Een tuchtbeschikking wordt niet ten uitvoer gelegd zolang daartegen beroep openstaat of op een ingesteld beroep nog niet is beslist.
 
-#### Artikel 30
+##### Artikel 30
 
 1. Het [Tuchtreglement COKZ](https://wetten.overheid.nl/jci1.3:c:BWBR0006918) wordt ingetrokken.
 

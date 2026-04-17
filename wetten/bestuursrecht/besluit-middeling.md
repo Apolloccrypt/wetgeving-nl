@@ -1,13 +1,38 @@
 ---
 title: "Besluit middeling"
 identifier: "BWBR0048560"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-08-18
-laatste_update: 2023-08-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048560"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2023-08-18"
+last_updated: "2023-08-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048560"
+soort: "beleidsregel"
+stam_id: "16839913"
+version_id: "29587922"
+internal_id: "C42299201"
+label_id: "16752474"
+dtd_version: "2.0"
+original_entry_into_force: "2023-08-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048560/2023-08-18/0"
+intitule_bron: "Stcrt.2023-23180"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-08-11"
+intitule_published: "2023-08-17"
+intitule_in_force: "2023-08-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-23180"
+original_signed_date: "2023-08-11"
+original_published_date: "2023-08-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-23180"
+entry_into_force_date: "2023-08-18"
+jci_1_3: "jci1.3:c:BWBR0048560&z=2023-08-18&g=2023-08-18"
+jci_1_0: "1.0:c:BWBR0048560&g=2023-08-18"
+citeertitel_status: "officieel"
+signed_date: "2023-08-11"
+entry_into_force: "2023-08-18"
 ---
-
 # Besluit middeling
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

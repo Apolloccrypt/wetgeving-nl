@@ -1,13 +1,35 @@
 ---
 title: "Protocol Accountantsonderzoek 2015 CAK"
 identifier: "BWBR0037700"
-categorie: "Overig"
-publicatiedatum: 2016-03-05
-laatste_update: 2015-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037700"
+country: "nl"
+rank: "zbo"
+publication_date: "2016-03-05"
+last_updated: "2015-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037700"
+soort: "zbo"
+stam_id: "13434223"
+version_id: "23060242"
+internal_id: "C33327321"
+label_id: "13402154"
+dtd_version: "2.0"
+original_entry_into_force: "2016-03-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037700/2016-03-05/0"
+intitule_bron: "Stcrt.2016-9795"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2016-03-04"
+intitule_in_force: "2016-03-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-9795"
+original_published_date: "2016-03-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-9795"
+entry_into_force_date: "2016-03-05"
+jci_1_3: "jci1.3:c:BWBR0037700&z=2016-03-05&g=2016-03-05"
+jci_1_0: "1.0:c:BWBR0037700&g=2016-03-05"
+citeertitel_status: "redactioneel"
+entry_into_force: "2016-03-05"
 ---
-
 # Protocol Accountantsonderzoek 2015 CAK
 
 februari 2016

@@ -1,13 +1,39 @@
 ---
-title: "Besluit instelling bezwaaradviescommissie Referendumcommissie"
+title: "Besluit van de Referendumcommissie van 5 februari 2016, houdende instelling van een bezwaaradviescommissie (Besluit instelling bezwaaradviescommissie Referendumcommissie)"
 identifier: "BWBR0037663"
-categorie: "Overig"
-publicatiedatum: 2016-02-12
-laatste_update: 2016-02-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037663"
+country: "nl"
+rank: "zbo"
+publication_date: "2016-02-12"
+last_updated: "2016-02-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037663"
+soort: "zbo"
+stam_id: "13425463"
+version_id: "23042062"
+internal_id: "C33305551"
+label_id: "13392994"
+dtd_version: "2.0"
+original_entry_into_force: "2016-02-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037663/2016-02-12/0"
+intitule_bron: "Stcrt.2016-7176"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-02-05"
+intitule_published: "2016-02-11"
+intitule_in_force: "2016-02-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-7176"
+original_signed_date: "2016-02-05"
+original_published_date: "2016-02-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-7176"
+entry_into_force_date: "2016-02-12"
+jci_1_3: "jci1.3:c:BWBR0037663&z=2016-02-12&g=2016-02-12"
+jci_1_0: "1.0:c:BWBR0037663&g=2016-02-12"
+citeertitel_status: "officieel"
+short_title: "Besluit instelling bezwaaradviescommissie Referendumcommissie"
+signed_date: "2016-02-05"
+entry_into_force: "2016-02-12"
 ---
-
 # Besluit van de Referendumcommissie van 5 februari 2016, houdende instelling van een bezwaaradviescommissie (Besluit instelling bezwaaradviescommissie Referendumcommissie)
 
 Gelet op [artikel 7:13 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:13);
@@ -16,7 +42,7 @@ Besluit:
 
 #### Paragraaf 1. Begripsbepaling
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -36,13 +62,13 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 2. De bezwaaradviescommissie
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een bezwaaradviescommissie.
 
 2. De commissie heeft tot taak de Referendumcommissie te adviseren over de te nemen besluiten op haar door de Referendumcommissie voorgelegde bezwaren tegen beslissingen van de Referendumcommissie.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De commissie bestaat uit ten minste drie leden, met inbegrip van de voorzitter en de plaatsvervangend voorzitter.
 
@@ -50,7 +76,7 @@ In dit besluit wordt verstaan onder:
 
 3. De commissie wordt bijgestaan door een secretaris, niet zijnde lid van de commissie.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De leden van de commissie en de secretaris worden benoemd en ontslagen door de Referendumcommissie.
 
@@ -62,7 +88,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 3. Verschoning en wraking
 
-#### Artikel 5
+##### Artikel 5
 
 1. De leden van de commissie verschonen zich van de behandeling van zaken waarbij zij enig belang hebben.
 
@@ -72,19 +98,19 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 4. Bijzondere bepalingen over de werkwijze van de commissie
 
-#### Artikel 6
+##### Artikel 6
 
 1. De leden van de Referendumcommissie, het secretariaat van de Referendumcommissie en de personen die de subsidieregeling voor de Referendumcommissie uitvoeren zijn verplicht alle inlichtingen naar waarheid en zonder voorbehoud te verstrekken die de commissie nodig acht voor het uitbrengen van een advies.
 
 2. De commissie kan daarvoor in aanmerking komende derden oproepen voor het verkrijgen van inlichtingen die zij behoeft, mits over daarmee gemoeide kosten vooraf overeenstemming bestaat met de Referendumcommissie.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De commissie kan zich door deskundigen van advies en verslag laten dienen, mits over daarmee gemoeide kosten vooraf overeenstemming bestaat met de Referendumcommissie.
 
 2. De commissie kan overlegging vorderen van ter zake dienende bescheiden.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De bij de behandeling van een zaak betrokken leden van de commissie stellen het advies van de commissie vast bij meerderheid van stemmen. Geen van de betrokken leden onthoudt zich van stemming.
 
@@ -92,13 +118,13 @@ In dit besluit wordt verstaan onder:
 
 3. De voorzitter of bij afwezigheid of ontstentenis de plaatsvervangend voorzitter zendt het advies en het verslag van de hoorzitting aan de Referendumcommissie.
 
-#### Artikel 9
+##### Artikel 9
 
 In gevallen waarin dit besluit niet voorziet, beslist de bij de behandeling van het bezwaarschrift fungerend voorzitter van de commissie.
 
 #### Paragraaf 5. Indienen bezwaarschrift
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het bezwaarschrift dient per post aan de Referendumcommissie te worden toegestuurd.
 
@@ -106,11 +132,11 @@ In gevallen waarin dit besluit niet voorziet, beslist de bij de behandeling van 
 
 #### Paragraaf 6. Overgangs- en slotbepalingen
 
-#### Artikel 11
+##### Artikel 11
 
 Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 12
+##### Artikel 12
 
 Dit besluit wordt aangehaald als: Besluit instelling bezwaaradviescommissie Referendumcommissie.
 

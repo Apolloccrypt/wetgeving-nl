@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregel boeteoplegging Arbeidstijdenwet en Arbeidstijdenbesluit vervoer (wegvervoer) 2026"
+title: "Beleidsregel van de Minister van Infrastructuur en Waterstaat en de Minister van Sociale Zaken en Werkgelegenheid, van 17 februari 2026, nr. ILT-2025/54705, over vaststelling van boetebedragen voor overtredingen van de Arbeidstijdenwet begaan door personen, werkzaam in of op motorrijtuigen als bedoeld in artikel 5: 12, tweede lid, onder a, van die wet (Beleidsregel boeteoplegging Arbeidstijdenwet en Arbeidstijdenbesluit vervoer (wegvervoer) 2026)"
 identifier: "BWBR0052429"
-categorie: "Strafrecht"
-publicatiedatum: 2026-03-18
-laatste_update: 2026-03-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052429"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2026-03-18"
+last_updated: "2026-03-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052429"
+soort: "beleidsregel"
+stam_id: "17811423"
+version_id: "31484922"
+internal_id: "C44963651"
+label_id: "17708884"
+dtd_version: "2.0"
+original_entry_into_force: "2026-03-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052429/2026-03-18/0"
+intitule_bron: "Stcrt.2026-10218"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2026-02-17"
+intitule_published: "2026-03-17"
+intitule_in_force: "2026-03-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-10218"
+original_signed_date: "2026-02-17"
+original_published_date: "2026-03-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-10218"
+entry_into_force_date: "2026-03-18"
+jci_1_3: "jci1.3:c:BWBR0052429&z=2026-03-18&g=2026-03-18"
+jci_1_0: "1.0:c:BWBR0052429&g=2026-03-18"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel boeteoplegging Arbeidstijdenwet en Arbeidstijdenbesluit vervoer (wegvervoer) 2026"
+signed_date: "2026-02-17"
+entry_into_force: "2026-03-18"
 ---
-
 # Beleidsregel van de Minister van Infrastructuur en Waterstaat en de Minister van Sociale Zaken en Werkgelegenheid, van 17 februari 2026, nr. ILT-2025/54705, over vaststelling van boetebedragen voor overtredingen van de Arbeidstijdenwet begaan door personen, werkzaam in of op motorrijtuigen als bedoeld in artikel 5: 12, tweede lid, onder a, van die wet (Beleidsregel boeteoplegging Arbeidstijdenwet en Arbeidstijdenbesluit vervoer (wegvervoer) 2026)
 
 Gelet op [artikel 10:7, zesde lid, tweede volzin, van de Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=10:7) en [artikel 5:46, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:46);
 
 BESLUITEN:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -32,7 +58,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - **zelfstandige:** persoon als bedoeld in [artikel 2:7 van de Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=2:7).
 
-#### Artikel 2. Toepassingsgebied
+##### Artikel 2. Toepassingsgebied
 
 Deze beleidsregel is van toepassing op elke als zodanig aangemerkte overtreding van het bij of krachtens de [Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671) bepaalde, voor zover:
 
@@ -42,7 +68,7 @@ Deze beleidsregel is van toepassing op elke als zodanig aangemerkte overtreding 
 
 - c. voor zover daarvoor op grond van de wet een bestuurlijke boete kan worden opgelegd.
 
-#### Artikel 3. Berekening van de bestuurlijke boete
+##### Artikel 3. Berekening van de bestuurlijke boete
 
 1. In bijlage 1 bij deze beleidsregel staan de normbedragen die, met inachtneming van [artikel 10:7, eerste lid, van de Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=10:7) en met toepassing van het tweede en vierde lid, van dat artikel als uitgangspunt worden gehanteerd bij het opleggen van een bestuurlijke boete.
 
@@ -72,15 +98,15 @@ Deze beleidsregel is van toepassing op elke als zodanig aangemerkte overtreding 
 
 5. In [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052429&bijlage=2&z=2026-03-18&g=2026-03-18) bij deze beleidsregel staan de overtredingen waarvoor bij de toepassing van het eerste lid direct bij constatering een bestuurlijke boete wordt opgelegd en de overtredingen waarvoor eerst een waarschuwing wordt gegeven en pas nadat eenzelfde overtreding nogmaals is geconstateerd, wordt overgegaan tot oplegging van een bestuurlijke boete.
 
-#### Artikel 4. Cumulatie bestuurlijke boetes
+##### Artikel 4. Cumulatie bestuurlijke boetes
 
 Onverminderd de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0052429&artikel=5&z=2026-03-18&g=2026-03-18), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0052429&artikel=6&z=2026-03-18&g=2026-03-18), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0052429&artikel=7&z=2026-03-18&g=2026-03-18) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0052429&artikel=8&z=2026-03-18&g=2026-03-18) bestaat de bij een boetebeschikking op te leggen bestuurlijke boete, in geval er sprake is van meerdere overtredingen, uit de som van de per overtreding berekende boetebedragen overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052429&artikel=3&z=2026-03-18&g=2026-03-18).
 
-#### Artikel 5. Maximering boete werknemers
+##### Artikel 5. Maximering boete werknemers
 
 Aan werknemers wordt per boetebeschikking per boetefeit maximaal één boete opgelegd.
 
-#### Artikel 6. Maximum aantal werknemers
+##### Artikel 6. Maximum aantal werknemers
 
 Bij een bedrijfsinspectie bedraagt het maximaal in het boeterapport of proces-verbaal op te nemen aantal personen ter zake waarvan een of meer overtredingen zijn vastgesteld, voor een werkgever met:
 
@@ -92,7 +118,7 @@ Bij een bedrijfsinspectie bedraagt het maximaal in het boeterapport of proces-ve
 
 - d. 100 of meer werknemers: 12.
 
-#### Artikel 7. Boete bij een bedrijfsinspectie
+##### Artikel 7. Boete bij een bedrijfsinspectie
 
 1. De boete die per boetebeschikking kan worden opgelegd bij een eerste bedrijfsinspectie bedraagt ten hoogste het in de tabel opgenomen percentage van het in [artikel 10,7, eerste lid, van de Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=10:7), bedoelde bedrag van de vijfde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
 
@@ -108,7 +134,7 @@ Bij een bedrijfsinspectie bedraagt het maximaal in het boeterapport of proces-ve
 
 3. De boete die maximaal per boetebeschikking kan worden opgelegd bij een tweede bedrijfsinspectie bedraagt ten hoogste 200% van het bedrag dat overeenkomstig het eerste en tweede lid kan worden opgelegd.
 
-#### Artikel 8. Boete bij een transportinspectie
+##### Artikel 8. Boete bij een transportinspectie
 
 1. De boete die per boetebeschikking aan de werkgever of aan de zelfstandige kan worden opgelegd bij een eerste transportinspectie bedraagt ten hoogste 50% van het bedrag dat op grond van [artikel 7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052429&artikel=7&z=2026-03-18&g=2026-03-18), aan een bedrijf met 1 t/m 24 werknemers respectievelijk een zelfstandige kan worden opgelegd.
 
@@ -116,19 +142,19 @@ Bij een bedrijfsinspectie bedraagt het maximaal in het boeterapport of proces-ve
 
 3. Het eerste en tweede lid zijn niet van toepassing op boetes voor overtredingen die vallen onder de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052429&bijlage=1&z=2026-03-18&g=2026-03-18) opgenomen boetefeitcodes B 2.4:4 (11), B 2.4:5 (40) of B 2.4:5 (40a).
 
-#### Artikel 9. Intrekking [Beleidsregel boeteoplegging Arbeidstijdenwet en Arbeidstijdenbesluit vervoer (wegvervoer) 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0047993)
+##### Artikel 9. Intrekking [Beleidsregel boeteoplegging Arbeidstijdenwet en Arbeidstijdenbesluit vervoer (wegvervoer) 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0047993)
 
 De [Beleidsregel boeteoplegging Arbeidstijdenwet en Arbeidstijdenbesluit vervoer (wegvervoer) 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0047993) wordt ingetrokken.
 
-#### Artikel 10. Overgangsrecht
+##### Artikel 10. Overgangsrecht
 
 Indien voor het tijdstip van inwerkingtreding van deze beleidsregel een overtreding is begaan, blijft met betrekking tot de berekening van de boete voor die overtreding het recht gelden zoals dat luidde onmiddellijk voor dat tijdstip, indien de toepassing daarvan voor de overtreder gunstiger is.
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin hij wordt geplaatst.
 
-#### Artikel 12. Citeertitel
+##### Artikel 12. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel boeteoplegging Arbeidstijdenwet en Arbeidstijdenbesluit vervoer (wegvervoer) 2026.
 

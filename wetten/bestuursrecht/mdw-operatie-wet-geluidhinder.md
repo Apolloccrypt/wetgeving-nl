@@ -1,13 +1,37 @@
 ---
 title: "MDW-operatie Wet Geluidhinder"
 identifier: "BWBR0008362"
-categorie: "Bestuursrecht"
-publicatiedatum: 1996-12-18
-laatste_update: 1996-12-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008362"
+country: "nl"
+rank: "circulaire"
+publication_date: "1996-12-18"
+last_updated: "1996-12-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008362"
+soort: "circulaire"
+stam_id: "6346013"
+version_id: "11002032"
+internal_id: "C14894871"
+label_id: "6334974"
+original_entry_into_force: "1996-12-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008362/1996-12-18/0"
+intitule_bron: "Stcrt.1996-245"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-11-29"
+intitule_published: "1996-12-18"
+intitule_in_force: "1996-12-18"
+intitule_status: "goed"
+original_publication: "Stcrt.1996-245"
+original_signed_date: "1996-11-29"
+original_published_date: "1996-12-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1996-245-p19-SC7762"
+entry_into_force_date: "1996-12-18"
+jci_1_3: "jci1.3:c:BWBR0008362&z=1996-12-18&g=1996-12-18"
+jci_1_0: "1.0:c:BWBR0008362&g=1996-12-18"
+citeertitel_status: "redactioneel"
+signed_date: "1996-11-29"
+entry_into_force: "1996-12-18"
 ---
-
 # MDW-operatie Wet Geluidhinder
 
 Circulaire aan besturen van provincies en gemeenten

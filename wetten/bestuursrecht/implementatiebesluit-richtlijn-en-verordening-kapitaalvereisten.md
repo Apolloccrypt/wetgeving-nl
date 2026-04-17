@@ -1,13 +1,39 @@
 ---
-title: "Implementatiebesluit richtlijn en verordening kapitaalvereisten"
+title: "Besluit van 15 juli 2014 tot wijziging van het Besluit prudentiële regels Wft, het Besluit bestuurlijke boetes financiële sector en enige andere besluiten op het terrein van de financiële markten ter implementatie van de richtlijn kapitaalvereisten en de verordening kapitaalvereisten (Implementatiebesluit richtlijn en verordening kapitaalvereisten)"
 identifier: "BWBR0035416"
-categorie: "Bestuursrecht"
-publicatiedatum: 2015-01-01
-laatste_update: 2015-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035416"
+country: "nl"
+rank: "amvb"
+publication_date: "2015-01-01"
+last_updated: "2015-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035416"
+soort: "AMvB"
+stam_id: "12748783"
+version_id: "21585762"
+internal_id: "C30992631"
+label_id: "12718514"
+dtd_version: "2.0"
+original_entry_into_force: "2014-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035416/2015-01-01/0"
+intitule_bron: "Stb.2014-303"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-07-15"
+intitule_published: "2014-07-30"
+intitule_in_force: "2014-07-30"
+intitule_status: "goed"
+original_publication: "Stb.2014-303"
+original_signed_date: "2014-07-15"
+original_published_date: "2014-07-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2014-303"
+entry_into_force_date: "2014-08-01"
+jci_1_3: "jci1.3:c:BWBR0035416&z=2015-01-01&g=2015-01-01"
+jci_1_0: "1.0:c:BWBR0035416&g=2015-01-01"
+citeertitel_status: "officieel"
+short_title: "Implementatiebesluit richtlijn en verordening kapitaalvereisten"
+signed_date: "2014-07-15"
+entry_into_force: "2014-08-01"
 ---
-
 # Besluit van 15 juli 2014 tot wijziging van het Besluit prudentiële regels Wft, het Besluit bestuurlijke boetes financiële sector en enige andere besluiten op het terrein van de financiële markten ter implementatie van de richtlijn kapitaalvereisten en de verordening kapitaalvereisten (Implementatiebesluit richtlijn en verordening kapitaalvereisten)
 
 Op de voordracht van Onze Minister van Financiën van 24 april 2014, FM/2014/0727 M, directie Financiële Markten;
@@ -20,39 +46,39 @@ Gezien het nader rapport van Onze Minister van Financiën van 10 juli 2014, FM/2
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Besluit prudentiële regels Wft.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Besluit bestuurlijke boetes financiële sector.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Besluit Markttoegang financiële ondernemingen Wft.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het Besluit prudentieel toezicht financiële groepen Wft.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Besluit Gedragstoezicht financiële ondernemingen Wft.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt het Besluit prudentiële regels Wft.
 
-#### Artikel VII
+##### Artikel VII
 
 Na de inwerkingtreding van dit besluit berust de [Regeling beheerst beloningsbeleid Wft 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0029246) op [artikel 23e, vijfde lid, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=23e).
 
-#### Artikel VIII
+##### Artikel VIII
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel IX
+##### Artikel IX
 
 Dit besluit wordt aangehaald als: Implementatiebesluit richtlijn en verordening kapitaalvereisten.
 

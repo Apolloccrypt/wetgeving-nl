@@ -1,13 +1,39 @@
 ---
-title: "Vrijstelling VectoBac WG exotische muggen 2026"
+title: "Besluit van de Staatssecretaris van Infrastructuur en Waterstaat van 23 februari 2026, nr. IENW/BSK-2026/12867 houdende tijdelijke vrijstelling op grond van artikel 46, eerste lid van de Wet gewasbeschermingsmiddelen en biociden voor het gebruik van VectoBac WG voor het bestrijden van exotische muggen in binnenruimten (Vrijstelling VectoBac WG Exotische muggen 2026)"
 identifier: "BWBR0052416"
-categorie: "Overig"
-publicatiedatum: 2026-03-11
-laatste_update: 2026-03-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052416"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-03-11"
+last_updated: "2026-03-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052416"
+soort: "ministeriele-regeling"
+stam_id: "17796573"
+version_id: "31465402"
+internal_id: "C44941631"
+label_id: "17694204"
+dtd_version: "2.0"
+original_entry_into_force: "2026-03-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052416/2026-03-11/0"
+intitule_bron: "Stcrt.2026-8396"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2026-02-23"
+intitule_published: "2026-03-10"
+intitule_in_force: "2026-03-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-8396"
+original_signed_date: "2026-02-23"
+original_published_date: "2026-03-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-8396"
+entry_into_force_date: "2026-03-11"
+jci_1_3: "jci1.3:c:BWBR0052416&z=2026-03-11&g=2026-03-11"
+jci_1_0: "1.0:c:BWBR0052416&g=2026-03-11"
+citeertitel_status: "officieel"
+short_title: "Vrijstelling VectoBac WG exotische muggen 2026"
+signed_date: "2026-02-23"
+entry_into_force: "2026-03-11"
 ---
-
 # Besluit van de Staatssecretaris van Infrastructuur en Waterstaat van 23 februari 2026, nr. IENW/BSK-2026/12867 houdende tijdelijke vrijstelling op grond van artikel 46, eerste lid van de Wet gewasbeschermingsmiddelen en biociden voor het gebruik van VectoBac WG voor het bestrijden van exotische muggen in binnenruimten (Vrijstelling VectoBac WG Exotische muggen 2026)
 
 Gelezen het verzoek van de directeur Infectieziektenbeleid van het Ministerie van Volksgezondheid, Welzijn en Sport (verder: VWS) van 12 augustus 2025 tot vrijstelling van het verbod op het gebruik van de biocide VectoBac WG, voor het bestrijden van bepaalde exotische muggen (Aedes spec) in binnenruimten, met uitzondering van ruimten die bedoeld zijn of gebruikt worden voor menselijk verblijf;
@@ -16,7 +42,7 @@ Gelet op [artikel 46, eerste lid, van de Wet gewasbeschermingsmiddelen en biocid
 
 BESLUIT:
 
-#### Artikel 1
+##### Artikel 1
 
 Ten behoeve van het bestrijden van bepaalde exotische muggen (Aedes spec) in binnenruimtes, wordt op grond van:
 
@@ -24,15 +50,15 @@ Ten behoeve van het bestrijden van bepaalde exotische muggen (Aedes spec) in bin
 
 - b). artikel 55 van [Verordening (EU) nr. 528/2012](32012R0528) toegestaan dat de in het onderdeel a genoemde biocide op de Nederlandse markt wordt aangeboden en gebruikt.
 
-#### Artikel 2
+##### Artikel 2
 
 Aan de vrijstelling en toestemming, bedoeld in [artikel 1, onderdelen a onderscheidenlijk b](https://wetten.overheid.nl/jci1.3:c:BWBR0052416&artikel=1&z=2026-03-11&g=2026-03-11), zijn de in de bijlage bij dit besluit opgenomen beperkingen en voorschriften verbonden.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit wordt aangehaald als: Vrijstelling VectoBac WG exotische muggen 2026.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking op de dag na de datum van plaatsing in de Staatscourant waarin het wordt bekendgemaakt, werkt terug tot en met 29 oktober 2025 en vervalt met ingang van 2 mei 2027.
 

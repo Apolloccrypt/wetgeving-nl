@@ -1,13 +1,39 @@
 ---
-title: "Deelregeling Programma- en Presentatiebijdrage Fonds Podiumkunsten"
+title: "Deelregeling van het bestuur van het Fonds Podiumkunsten van 20 juni 2025, inhoudende regels voor het programmeren van divers en toegankelijk podiumkunstenaanbod in Nederland en het Caribisch deel van het Koninkrijk"
 identifier: "BWBR0051544"
-categorie: "Overig"
-publicatiedatum: 2026-01-31
-laatste_update: 2026-01-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051544"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-31"
+last_updated: "2026-01-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051544"
+soort: "zbo"
+stam_id: "17535483"
+version_id: "30942762"
+internal_id: "C44323941"
+label_id: "17437384"
+dtd_version: "2.0"
+original_entry_into_force: "2025-10-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051544/2026-01-31/0"
+intitule_bron: "Stcrt.2025-32912"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-09-22"
+intitule_published: "2025-09-29"
+intitule_in_force: "2025-09-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-32912"
+original_signed_date: "2025-09-22"
+original_published_date: "2025-09-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-32912"
+entry_into_force_date: "2025-10-08"
+jci_1_3: "jci1.3:c:BWBR0051544&z=2026-01-31&g=2026-01-31"
+jci_1_0: "1.0:c:BWBR0051544&g=2026-01-31"
+citeertitel_status: "officieel"
+short_title: "Deelregeling Programma- en Presentatiebijdrage Fonds Podiumkunsten"
+signed_date: "2025-09-22"
+entry_into_force: "2025-10-08"
 ---
-
 # Deelregeling van het bestuur van het Fonds Podiumkunsten van 20 juni 2025, inhoudende regels voor het programmeren van divers en toegankelijk podiumkunstenaanbod in Nederland en het Caribisch deel van het Koninkrijk
 
 Gelet op [artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10) en [artikel 2 van het Algemeen Reglement van het Nederlands Fonds voor Podiumkunsten](https://wetten.overheid.nl/jci1.3:c:BWBR0030539&artikel=2)
@@ -16,7 +42,7 @@ Besluit:
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 1.1. Definities
+##### Artikel 1.1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -46,7 +72,7 @@ In deze regeling wordt verstaan onder:
 
 - **programmeringskosten:** kosten in de vorm van uitkoopsommen, honoraria en gages ten behoeve van professionele podiumkunstprogrammering;
 
-#### Artikel 1.2. Subsidieonderdelen
+##### Artikel 1.2. Subsidieonderdelen
 
 Het bestuur kan subsidies verstrekken op de volgende onderdelen;
 
@@ -54,11 +80,11 @@ Het bestuur kan subsidies verstrekken op de volgende onderdelen;
 
 - b. Programma- en presentatiebijdrage met een focus op onderscheidende programmering.
 
-#### Artikel 1.3. Procedure
+##### Artikel 1.3. Procedure
 
 Het bestuur kan advies vragen over ingediende aanvragen om subsidie. Adviseurs beoordelen de aan hen voorgelegde aanvragen met inachtneming van het bepaalde in deze regeling.
 
-#### Artikel 1.4. Subsidieplafonds
+##### Artikel 1.4. Subsidieplafonds
 
 1. Het bestuur stelt voor beide onderdelen een of meerdere subsidieplafonds vast.
 
@@ -66,15 +92,15 @@ Het bestuur kan advies vragen over ingediende aanvragen om subsidie. Adviseurs b
 
 3. Een besluit tot het vaststellen en verhogen van een subsidieplafond wordt bekendgemaakt door publicatie van het besluit in de Staatscourant.
 
-#### Artikel 1.5. Subsidieperiode
+##### Artikel 1.5. Subsidieperiode
 
 Subsidie wordt verstrekt voor een periode van twee jaren.
 
-#### Artikel 1.6. Wie kan aanvragen
+##### Artikel 1.6. Wie kan aanvragen
 
 Een aanvraag kan worden ingediend door een programmerende organisatie die in twee jaren voorafgaand aan de aanvraag artistiek en financieel eindverantwoordelijk was voor de programmering van gemiddeld, ten minste zes podiumkunstactiviteiten per jaar.
 
-#### Artikel 1.7. Weigeringsgronden
+##### Artikel 1.7. Weigeringsgronden
 
 1. Het bestuur kan, onverminderd het bepaalde in [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35), subsidie weigeren;
 
@@ -102,11 +128,11 @@ Een aanvraag kan worden ingediend door een programmerende organisatie die in twe
 
 - c. als de aanvrager gedurende twee jaren voorafgaand aan de aanvraag gemiddeld per jaar minder dan zes podiumkunstactiviteiten heeft geprogrammeerd;
 
-#### Artikel 1.8. Bundeling van activiteiten
+##### Artikel 1.8. Bundeling van activiteiten
 
 Het bestuur kan meerdere, korte podiumkunstactiviteiten aanmerken als één (1) podiumkunstactiviteit.
 
-#### Artikel 1.9. Subsidiabele activiteiten
+##### Artikel 1.9. Subsidiabele activiteiten
 
 1. De subsidie is een bijdrage aan programmeringskosten bestaande uit honoraria, gages en uitkoopsommen.
 
@@ -138,7 +164,7 @@ Het bestuur kan meerdere, korte podiumkunstactiviteiten aanmerken als één (1) 
 
 - e. die op grond van deze regeling binnen dezelfde subsidieronde reeds worden opgevoerd door een andere organisatie die financieel en artistiek verantwoordelijk is voor deze activiteiten.
 
-#### Artikel 1.10. Subsidiehoogte
+##### Artikel 1.10. Subsidiehoogte
 
 1. Het bestuur stelt de subsidiebedragen vast en publiceert deze in de Staatscourant.
 
@@ -146,11 +172,11 @@ Het bestuur kan meerdere, korte podiumkunstactiviteiten aanmerken als één (1) 
 
 3. Het bestuur kan afwijken van het bepaalde in het tweede lid indien een strikte toepassing hiervan zou leiden tot een kennelijk onredelijk resultaat.
 
-#### Artikel 1.11. Samenloop
+##### Artikel 1.11. Samenloop
 
 Podiumactiviteiten die plaatsvinden op een podium of festival dat een meerjarige subsidie ontvangt waaronder subsidie op grond van de [Podiumregeling Fonds Podiumkunsten](https://wetten.overheid.nl/jci1.3:c:BWBR0046665), de [Deelregeling meerjarige festivals 2025–2028](https://wetten.overheid.nl/jci1.3:c:BWBR0048740) of van het Ministerie van Onderwijs, Cultuur en Wetenschap, zijn niet subsidiabel op basis van deze regeling tenzij er aantoonbaar sprake is van een andere, onderscheidende programmering ten opzichte van de eigen programmering van het reeds gesubsidieerde podium of festival en als de aanvrager een andere organisatie is dan het podium of festival dat reeds wordt gesubsidieerd.
 
-#### Artikel 1.12. Subsidieaanvraag
+##### Artikel 1.12. Subsidieaanvraag
 
 1. Een aanvraag wordt ingediend met behulp van een door het bestuur opgesteld formulier dat digitaal beschikbaar wordt gesteld.
 
@@ -164,35 +190,35 @@ Podiumactiviteiten die plaatsvinden op een podium of festival dat een meerjarige
 
 #### Paragraaf 2. Programma- en presentatiebijdrage met een focus op spreiding
 
-#### Artikel 2.1. Doel
+##### Artikel 2.1. Doel
 
 Het bestuur verstrekt subsidies aan programmerende organisaties om bij te dragen aan een divers, toegankelijk en breed gespreid podiumkunstenaanbod in Nederland.
 
-#### Artikel 2.2. Indeling in landsdelen
+##### Artikel 2.2. Indeling in landsdelen
 
 1. Ten behoeve van de subsidieverstrekking binnen deze paragraaf worden aanvragers ingedeeld in landsdelen.
 
 2. De podiumkunstactiviteiten zoals beschreven in de aanvraag zijn leidend bij de indeling van een aanvrager in een landsdeel.
 
-#### Artikel 2.3. Weigeringsgronden
+##### Artikel 2.3. Weigeringsgronden
 
 De subsidie wordt geweigerd als de podiumkunstactiviteiten geheel plaatsvinden binnen de G4.
 
-#### Artikel 2.4. Subsidiabele activiteiten
+##### Artikel 2.4. Subsidiabele activiteiten
 
 Subsidiabel zijn podiumkunstactiviteiten die plaatsvinden buiten de G4.
 
-#### Artikel 2.5. Advisering
+##### Artikel 2.5. Advisering
 
 Indien gebruik wordt gemaakt van advisering worden aanvragen per landsdeel voorgelegd aan een adviescommissie.
 
-#### Artikel 2.6. Beoordelingscriteria
+##### Artikel 2.6. Beoordelingscriteria
 
 1. Aanvragen worden gelijktijdig behandeld en per landsdeel beoordeeld op het criterium: kwaliteit van programmakeuzes.
 
 2. Bij een score ‘van voldoende kwaliteit’ of een score ‘van goede kwaliteit’ op het criterium genoemd in het eerste lid wordt de aanvraag aanvullend beoordeeld op het criterium: spreiding in het landsdeel.
 
-#### Artikel 2.7. Verdeling budget
+##### Artikel 2.7. Verdeling budget
 
 1. Aanvragen met een totaalscore van 2 punten of meer ontvangen een positief advies en komen in aanmerking voor honorering.
 
@@ -214,15 +240,15 @@ Indien gebruik wordt gemaakt van advisering worden aanvragen per landsdeel voorg
 
 #### Paragraaf 3. Programma- en Presentatiebijdrage met een focus op onderscheidende programmering
 
-#### Artikel 3.1. Doel
+##### Artikel 3.1. Doel
 
 Het bestuur verstrekt subsidies aan programmerende organisaties om bij te dragen aan een divers, toegankelijk en kwalitatief hoogwaardig podiumkunstenaanbod in Nederland.
 
-#### Artikel 3.2. Advisering
+##### Artikel 3.2. Advisering
 
 Indien gebruik wordt gemaakt van advisering worden aanvragen voorgelegd aan een landelijke adviescommissie.
 
-#### Artikel 3.3. Beoordelingscriteria
+##### Artikel 3.3. Beoordelingscriteria
 
 Aanvragen worden gelijktijdig behandeld en beoordeeld op de volgende criteria:
 
@@ -232,7 +258,7 @@ Aanvragen worden gelijktijdig behandeld en beoordeeld op de volgende criteria:
 
 - c. mate waarin de publieksbenadering en het publieksbereik onderscheidend is.
 
-#### Artikel 3.4. Verdeling budget
+##### Artikel 3.4. Verdeling budget
 
 1. Aanvragen met een score van minimaal 3 punten ontvangen een positief advies.
 
@@ -252,11 +278,11 @@ Aanvragen worden gelijktijdig behandeld en beoordeeld op de volgende criteria:
 
 #### Paragraaf 4. Overige bepalingen
 
-#### Artikel 4.1. Besluit
+##### Artikel 4.1. Besluit
 
 Het bestuur informeert de aanvrager binnen 22 weken na de datum waarop de aanvraag uiterlijk moet zijn ingediend, schriftelijk over zijn besluit. Als voor de motivering van het besluit wordt verwezen naar een over de aanvraag uitgebracht advies wordt de tekst van het advies aan de aanvrager toegezonden.
 
-#### Artikel 4.2. Aan de subsidie verbonden verplichtingen
+##### Artikel 4.2. Aan de subsidie verbonden verplichtingen
 
 1. De subsidieontvanger meldt onverwijld aan het bestuur als:
 
@@ -270,7 +296,7 @@ Het bestuur informeert de aanvrager binnen 22 weken na de datum waarop de aanvra
 
 3. Het bestuur kan bij beschikking andere dan de in het eerste en tweede lid opgenomen verplichtingen aan de subsidie verbinden.
 
-#### Artikel 4.3. Vaststelling, wijziging en intrekking
+##### Artikel 4.3. Vaststelling, wijziging en intrekking
 
 1. Het bestuur kan na het verstrijken van de in de beschikking opgenomen datum waarop de activiteiten uiterlijk verricht moeten zijn de ontvanger van de subsidie verzoeken bewijsstukken te overleggen waarmee kan worden aangetoond dat de gesubsidieerde activiteiten volgens plan hebben plaatsgevonden.
 
@@ -284,21 +310,21 @@ Het bestuur informeert de aanvrager binnen 22 weken na de datum waarop de aanvra
 
 6. De subsidieontvanger wordt vooraf geïnformeerd over een voornemen tot intrekking of wijziging van de subsidie.
 
-#### Artikel 4.4. Begrotingsvoorbehoud
+##### Artikel 4.4. Begrotingsvoorbehoud
 
 Subsidie wordt verleend onder voorbehoud van verstrekking van voldoende middelen door de Minister van Onderwijs, Cultuur en Wetenschap.
 
-#### Artikel 4.5. Inwerkingtreding
+##### Artikel 4.5. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 8 oktober 2025. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na 8 oktober 2025 treedt zij in werking met ingang van de dag na de datum van uitgifte van het Staatsblad Staatscourant waarin zij wordt geplaatst, en werkt zij terug tot en met 8 oktober 2025.
 
-#### Artikel 4.6. Intrekking
+##### Artikel 4.6. Intrekking
 
 1. [Paragraaf 3 (Programmeringssubsidie kleinschalige of incidentele programmering) van de Deelregeling Programmeringssubsidies Fonds Podiumkunsten](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=3) vervalt.
 
 2. Subsidies die zijn verleend op basis van de in het eerste lid genoemde [deelregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0029360) worden afgehandeld conform het bepaalde in die regeling.
 
-#### Artikel 4.7. Citeertitel
+##### Artikel 4.7. Citeertitel
 
 Deze regeling wordt aangehaald als Deelregeling Programma- en Presentatiebijdrage Fonds Podiumkunsten.
 

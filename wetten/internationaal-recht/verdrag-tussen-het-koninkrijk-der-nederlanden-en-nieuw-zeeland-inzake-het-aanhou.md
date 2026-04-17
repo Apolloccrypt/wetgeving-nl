@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en Nieuw-Zeeland inzake het aanhouden van voorraden ruwe aardolie, aardolieproducten en onverwerkte oliën"
 identifier: "BWBV0003085"
-categorie: "Internationaal recht"
-publicatiedatum: 2009-03-01
-laatste_update: 2009-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003085"
+country: "nl"
+rank: "verdrag"
+publication_date: "2009-03-01"
+last_updated: "2009-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003085"
+soort: "verdrag"
+stam_id: "10003326303"
+version_id: "10003356212"
+internal_id: "C10008429861"
+label_id: "10003311934"
+dtd_version: "2.0"
+original_entry_into_force: "2009-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003085/2009-03-01/0"
+intitule_bron: "Trb.2008-93"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2008-05-23"
+intitule_in_force: "2009-02-27"
+intitule_status: "goed"
+original_publication: "Trb.2008-93"
+original_published_date: "2008-05-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2008-93"
+entry_into_force_date: "2009-03-01"
+jci_1_3: "jci1.3:c:BWBV0003085&z=2009-03-01&g=2009-03-01"
+jci_1_0: "1.0:c:BWBV0003085&g=2009-03-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2009-03-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en Nieuw-Zeeland inzake het aanhouden van voorraden ruwe aardolie, aardolieproducten en onverwerkte oliën
 
 Het Koninkrijk der Nederlanden
@@ -26,7 +48,7 @@ Gelet op Nederlandse nationale wetgeving inzake de verplichting tot het aanhoude
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -40,11 +62,11 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - e. „entiteit” elke instantie of onderneming, met inbegrip van de bevoegde autoriteit van Nieuw-Zeeland, gevestigd op het grondgebied van een Verdragsluitende Partij, die voorraden aanhoudt ten behoeve van het vergemakkelijken van de nakoming door Nieuw-Zeeland van zijn voorraadverplichtingen.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit Verdrag is van toepassing op voorraden waarop de IEP-Overeenkomst van toepassing is die door de bevoegde autoriteit van Nederland zijn goedgekeurd in overeenstemming met het goedkeuringsproces vervat in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003085&artikel=5&z=2009-03-01&g=2009-03-01).
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een in Nieuw-Zeeland gevestigde entiteit kan op het grondgebied van Nederland voorraden aanhouden waarop dit Verdrag betrekking heeft. Dergelijke voorraden kunnen worden aangehouden:
 
@@ -56,11 +78,11 @@ Dit Verdrag is van toepassing op voorraden waarop de IEP-Overeenkomst van toepas
 
 3. Indien een in Nieuw-Zeeland gevestigde entiteit voorraden aanhoudt in overeenstemming met het eerste lid van dit artikel, worden deze voorraden niet beschouwd als onderdeel van de voorraadverplichting van Nederland, maar als onderdeel van de voorraadverplichting van Nieuw-Zeeland.
 
-#### Artikel 4
+##### Artikel 4
 
 Nederland verzet zich niet tegen de verwijdering van voorraden waarop dit Verdrag van toepassing is, van zijn grondgebied in overeenstemming met aanwijzingen van de bevoegde autoriteit van Nieuw-Zeeland.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Alle in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003085&artikel=3&z=2009-03-01&g=2009-03-01) omschreven regelingen voor het aanhouden van voorraden dienen te worden goedgekeurd door de bevoegde autoriteit van Nederland en verzoeken hiertoe dienen te worden ingediend in overeenstemming met de in dit artikel vastgelegde procedure.
 
@@ -82,7 +104,7 @@ Nederland verzet zich niet tegen de verwijdering van voorraden waarop dit Verdra
 
 6. Onverminderd de in [artikel 5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003085&artikel=5&z=2009-03-01&g=2009-03-01), vermelde termijnen, kunnen de bevoegde autoriteiten, indien bijzondere omstandigheden daartoe noodzaken, onderling besluiten een of alle termijnen te wijzigen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Wanneer een entiteit om toestemming verzoekt in het kader van dit Verdrag voorraden aan te houden in omstandigheden waarin zij niet de eigenaar van deze voorraden zal zijn, geeft de bevoegde autoriteit van Nederland geen toestemming voor het aanhouden van de desbetreffende voorraden in het kader van dit Verdrag tenzij:
 
@@ -94,7 +116,7 @@ Nederland verzet zich niet tegen de verwijdering van voorraden waarop dit Verdra
 
 - d. de feitelijke beschikbaarheid van de voorraden voor de entiteit met de voorraadverplichting gedurende de gehele looptijd van de overeenkomst gewaarborgd is.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De Verdragsluitende Partijen komen overeen zo spoedig als redelijkerwijs mogelijk is met elkaar te overleggen in het geval van een crisis in de voorziening.
 
@@ -106,15 +128,15 @@ Nederland verzet zich niet tegen de verwijdering van voorraden waarop dit Verdra
 
 in welk geval het overleg in ieder geval uiterlijk zestig dagen na ontvangst van het verzoek dient aan te vangen.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit Verdrag kan met schriftelijke instemming van beide Verdragsluitende Partijen worden gewijzigd. De Verdragsluitende Partijen stellen elkaar langs diplomatieke weg ervan in kennis dat aan hun constitutionele vereisten voor de inwerkingtreding van het gewijzigde Verdrag is voldaan. Het gewijzigde Verdrag treedt in werking op de dertigste dag na de datum van ontvangst van de laatste kennisgeving.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit Verdrag treedt in werking op de eerste dag van de tweede maand nadat beide Verdragsluitende Partijen elkaar langs diplomatieke weg ervan in kennis hebben gesteld dat de procedures vereist voor de inwerkingtreding van dit Verdrag zijn afgerond.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Dit Verdrag kan door elk van de Verdragsluitende Partijen langs diplomatieke weg worden beëindigd door schriftelijke kennisgeving aan de andere Verdragsluitende Partij ten minste zes (6) maanden voor het einde van enig kalenderjaar. Het Verdrag houdt in dat geval op van kracht te zijn met ingang van de eerste dag van het eerstvolgende kalenderjaar.
 

@@ -1,14 +1,41 @@
 ---
-title: "Wijzigingswet Wet inburgering, enz. (versterking eigen verantwoordelijkheid inburgeringsplichtige)"
+title: "Wet van 13 september 2012 tot wijziging van de Wet inburgering en enkele andere wetten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige"
 identifier: "BWBR0032031"
-categorie: "Overig"
-publicatiedatum: 2013-07-01
-laatste_update: 2013-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032031"
+country: "nl"
+rank: "wet"
+publication_date: "2013-07-01"
+last_updated: "2013-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032031"
+soort: "wet"
+stam_id: "11855523"
+version_id: "19660232"
+internal_id: "C27716061"
+label_id: "11827664"
+dtd_version: "2.0"
+original_entry_into_force: "2013-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032031/2013-07-01/0"
+intitule_bron: "Stb.2012-430"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-09-13"
+intitule_published: "2012-09-28"
+intitule_in_force: "2012-10-30"
+intitule_status: "goed"
+original_publication: "Stb.2012-430"
+original_signed_date: "2012-09-13"
+original_published_date: "2012-09-28"
+original_effect: "nieuwe-regeling"
+original_dossier: "33086"
+original_url_id: "stb-2012-430"
+entry_into_force_date: "2013-01-01"
+jci_1_3: "jci1.3:c:BWBR0032031&z=2013-07-01&g=2013-07-01"
+jci_1_0: "1.0:c:BWBR0032031&g=2013-07-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingswet Wet inburgering, enz. (versterking eigen verantwoordelijkheid inburgeringsplichtige)"
+signed_date: "2012-09-13"
+entry_into_force: "2013-01-01"
 ---
-
-# Wijzigingswet Wet inburgering, enz. (versterking eigen verantwoordelijkheid inburgeringsplichtige)
+# Wet van 13 september 2012 tot wijziging van de Wet inburgering en enkele andere wetten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,43 +43,43 @@ Alzo Wij in overweging genomen hebben, dat het ter versterking van de eigen vera
 
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet inburgering.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Beroepswet.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Wet educatie en beroepsonderwijs.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Wet kinderopvang en kwaliteitseisen peuterspeelzalen.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Wet participatiebudget.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Vreemdelingenwet 2000.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Wet werk en bijstand.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Vervallen
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt deze wet.
 
-#### Artikel X
+##### Artikel X
 
 1. In het tweede tot en met vijfde lid wordt onder [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611) verstaan: Wet inburgering als laatstelijk luidend voor het tijdstip van inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0032031&artikel=I&z=2013-07-01&g=2013-07-01) van deze wet.
 
@@ -66,7 +93,7 @@ Wijzigt deze wet.
 
 6. Bij regeling van Onze Minister voor Immigratie, Integratie en Asiel wordt een termijn of worden termijnen vastgesteld, waarbinnen van de in het tweede tot en met het vierde lid bedoelde personen in redelijkheid niet kan worden gevergd het examen, bedoeld in [artikel 7, tweede lid, onderdeel a, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=7) als gewijzigd door deze wet, af te leggen, en waarbinnen deze personen het examen, bedoeld in [artikel 13, eerste lid, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=13) als laatstelijk luidend voor het tijdstip van inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0032031&artikel=I&z=2013-07-01&g=2013-07-01) van deze wet, kunnen afleggen.
 
-#### Artikel XI
+##### Artikel XI
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 

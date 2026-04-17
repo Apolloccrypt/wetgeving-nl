@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Speciale Administratieve Regio Macau van de Volksrepubliek China inzake de bevordering en de wederzijdse bescherming van investeringen"
 identifier: "BWBV0003059"
-categorie: "Internationaal recht"
-publicatiedatum: 2009-05-01
-laatste_update: 2009-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003059"
+country: "nl"
+rank: "verdrag"
+publication_date: "2009-05-01"
+last_updated: "2009-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003059"
+soort: "verdrag"
+stam_id: "10003312283"
+version_id: "10003341122"
+internal_id: "C10008429541"
+label_id: "10003297954"
+dtd_version: "2.0"
+original_entry_into_force: "2009-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003059/2009-05-01/0"
+intitule_bron: "Trb.2008-129"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2008-06-26"
+intitule_in_force: "2009-06-23"
+intitule_status: "goed"
+original_publication: "Trb.2008-129"
+original_published_date: "2008-06-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2008-129"
+entry_into_force_date: "2009-05-01"
+jci_1_3: "jci1.3:c:BWBV0003059&z=2009-05-01&g=2009-05-01"
+jci_1_0: "1.0:c:BWBV0003059&g=2009-05-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2009-05-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Speciale Administratieve Regio Macau van de Volksrepubliek China inzake de bevordering en de wederzijdse bescherming van investeringen
 
 Het Koninkrijk der Nederlanden
@@ -24,7 +46,7 @@ In het besef dat overeenstemming over de aan dergelijke investeringen toe te ken
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit Verdrag:
 
@@ -60,11 +82,11 @@ Voor de toepassing van dit Verdrag:
 
 - ii. wat betreft de Speciale Administratieve Regio Macau van de Volksrepubliek China: het schiereiland Macau en de eilanden Taipa en Coloane.
 
-#### Artikel 2
+##### Artikel 2
 
 Elke Verdragsluitende Partij bevordert, binnen het kader van haar wetten en voorschriften, de economische samenwerking door middel van de bescherming op haar gebied van investeringen van investeerders van de andere Verdragsluitende Partij. Met inachtneming van haar recht de door haar wetten of voorschriften verleende bevoegdheden uit te oefenen, staat elke Verdragsluitende Partij dergelijke investeringen toe.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Elke Verdragsluitende Partij waarborgt een eerlijke en rechtvaardige behandeling van de investeringen van investeerders van de andere Verdragsluitende Partij en belemmert niet, door onredelijke of discriminatoire maatregelen, de werking, het beheer, de instandhouding, het gebruik, het genot of de vervreemding daarvan door die investeerders. Elke Verdragsluitende Partij kent aan die investeringen volledige fysieke zekerheid en bescherming toe.
 
@@ -78,7 +100,7 @@ Elke Verdragsluitende Partij bevordert, binnen het kader van haar wetten en voor
 
 6. De bepalingen van dit artikel laten de bepalingen van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003059&artikel=4&z=2009-05-01&g=2009-05-01) van dit Verdrag onverlet.
 
-#### Artikel 4
+##### Artikel 4
 
 Met betrekking tot belastingen, heffingen, lasten en verminderingen en vrijstellingen van belasting kent iedere Verdragsluitende Partij aan investeerders van de andere Verdragsluitende Partij die zich op haar gebied met economische activiteiten bezighouden, een behandeling toe die niet minder gunstig is dan die welke wordt toegekend aan haar eigen investeerders of aan die van een derde staat die zich in dezelfde omstandigheden bevinden, naar gelang van welke het gunstigst is voor de betrokken investeerders. Hierbij wordt evenwel geen rekening gehouden met bijzondere belastingvoordelen door die Partij toegekend:
 
@@ -88,7 +110,7 @@ Met betrekking tot belastingen, heffingen, lasten en verminderingen en vrijstell
 
 - c. op basis van wederkerigheid met een derde staat.
 
-#### Artikel 5
+##### Artikel 5
 
 De Verdragsluitende Partijen waarborgen dat betalingen die verband houden met een investering kunnen worden overgemaakt. De overmakingen geschieden in vrij inwisselbare valuta, zonder beperking of vertraging. Deze overmakingen omvatten in het bijzonder, doch niet uitsluitend:
 
@@ -112,7 +134,7 @@ De Verdragsluitende Partijen waarborgen dat betalingen die verband houden met ee
 
 - h. betalingen uit hoofde van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003059&artikel=7&z=2009-05-01&g=2009-05-01).
 
-#### Artikel 6
+##### Artikel 6
 
 1. Geen van de Verdragsluitende Partijen neemt maatregelen waardoor direct of indirect aan investeerders van de andere Verdragsluitende Partij hun investeringen worden ontnomen, tenzij aan de volgende voorwaarden wordt voldaan:
 
@@ -130,15 +152,15 @@ De Verdragsluitende Partijen waarborgen dat betalingen die verband houden met ee
 
 2. Onverminderd het recht te verzoeken om internationale arbitrage, is de investeerder gerechtigd de rechtmatigheid van de onteigening te laten toetsen door de bevoegde autoriteiten van de Verdragsluitende Partijen die de onteigening bewerkstelligd hebben.
 
-#### Artikel 7
+##### Artikel 7
 
 Aan investeerders van de ene Verdragsluitende Partij die verliezen lijden met betrekking tot hun investeringen op het gebied van de andere Verdragsluitende Partij wegens oorlog of een ander gewapend conflict, revolutie, een nationale noodtoestand, opstand, oproer of ongeregeldheden, wordt door de laatstgenoemde Verdragsluitende Partij wat restitutie, schadevergoeding, schadeloosstelling of een andere regeling betreft, geen minder gunstige behandeling toegekend dan die welke die Verdragsluitende Partij toekent aan haar eigen investeerders of aan investeerders van een derde staat, naar gelang van wat het gunstigst is voor de betrokken investeerders.
 
-#### Artikel 8
+##### Artikel 8
 
 Indien de investeringen van een investeerder van de ene Verdragsluitende Partij verzekerd zijn tegen niet-commerciële risico's of anderszins aanleiding geven tot de betaling van schadevergoeding ter zake van die investeringen krachtens een bij wet, voorschrift of overheidscontract ingesteld stelsel, wordt de subrogatie van de verzekeraar of de herverzekeraar of de door de ene Verdragsluitende Partij aangewezen instantie in de rechten van de bedoelde investeerder, ingevolge de voorwaarden van deze verzekering of krachtens een andere gegeven schadevergoeding, door de andere Verdragsluitende Partij erkend.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Geschillen die mogelijk ontstaan tussen een van de Verdragsluitende Partijen en een investeerder van de andere Verdragsluitende Partij betreffende een investering van die investeerder op het gebied van de eerstbedoelde Verdragsluitende Partij worden tussen de betrokken partijen zoveel mogelijk in der minne geschikt.
 
@@ -158,15 +180,15 @@ Indien de investeringen van een investeerder van de ene Verdragsluitende Partij 
 
 6. Elke Verdragsluitende Partij stemt er bij dezen onvoorwaardelijk mee in investeringsgeschillen ter beslechting voor te leggen aan de in de voorgaande leden genoemde alternatieve instanties voor geschillenbeslechting.
 
-#### Artikel 10
+##### Artikel 10
 
 De bepalingen van dit Verdrag zijn, vanaf de datum waarop het in werking treedt, ook van toepassing op investeringen die vóór die datum zijn gedaan, maar zijn niet van toepassing op investeringsgeschillen die zijn ontstaan vóór de inwerkingtreding ervan.
 
-#### Artikel 11
+##### Artikel 11
 
 Elk van de Verdragsluitende Partijen kan aan de andere Partij voorstellen overleg te plegen over een aangelegenheid betreffende de uitlegging of toepassing van het Verdrag. De andere Partij neemt dit voorstel in welwillende overweging en biedt passende gelegenheid voor dergelijk overleg.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Enig geschil tussen de Verdragsluitende Partijen betreffende de uitlegging of de toepassing van dit Verdrag dat niet binnen een redelijke termijn kan worden beslecht door onderhandelingen tussen Partijen, wordt, tenzij de Partijen anders zijn overeengekomen, op verzoek van een van beide Partijen voorgelegd aan een uit drie leden samengesteld scheidsgerecht. Elke Partij benoemt een scheidsman en de twee aldus benoemde scheidslieden benoemen tezamen tot hun voorzitter een derde scheidsman, die geen onderdaan is van het Koninkrijk der Nederlanden en geen inwoner van de Speciale Administratieve Regio Macau.
 
@@ -182,11 +204,11 @@ Elk van de Verdragsluitende Partijen kan aan de andere Partij voorstellen overle
 
 7. Het scheidsgerecht neemt zijn beslissing bij meerderheid van stemmen. Deze beslissing is onherroepelijk en bindend voor de Partijen.
 
-#### Artikel 13
+##### Artikel 13
 
 Wat het Koninkrijk der Nederlanden betreft is dit Verdrag van toepassing op het deel van het Koninkrijk in Europa, op de Nederlandse Antillen en op Aruba, tenzij anders is bepaald in de in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003059&artikel=14&z=2009-05-01&g=2009-05-01), bedoelde mededeling.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Dit Verdrag treedt in werking op de eerste dag van de tweede maand die volgt op de datum waarop de Verdragsluitende Partijen elkaar schriftelijk hebben medegedeeld dat aan hun vereiste wettelijke procedures is voldaan, en blijft van kracht gedurende een tijdvak van vijftien jaar.
 

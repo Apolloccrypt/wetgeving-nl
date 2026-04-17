@@ -1,13 +1,38 @@
 ---
 title: "Ondermandaatbesluit tenuitvoerlegging strafrechtelijke en administratiefrechtelijke beslissingen CJIB oktober 2022"
 identifier: "BWBR0048423"
-categorie: "Strafrecht"
-publicatiedatum: 2023-05-09
-laatste_update: 2023-05-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048423"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-05-09"
+last_updated: "2023-05-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048423"
+soort: "ministeriele-regeling"
+stam_id: "16808893"
+version_id: "29530382"
+internal_id: "C42218301"
+label_id: "16722564"
+dtd_version: "2.0"
+original_entry_into_force: "2023-05-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048423/2023-05-09/0"
+intitule_bron: "Stcrt.2023-12599"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-04-12"
+intitule_published: "2023-05-09"
+intitule_in_force: "2023-05-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-12599"
+original_signed_date: "2023-04-12"
+original_published_date: "2023-05-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-12599"
+entry_into_force_date: "2023-05-09"
+jci_1_3: "jci1.3:c:BWBR0048423&z=2023-05-09&g=2023-05-09"
+jci_1_0: "1.0:c:BWBR0048423&g=2023-05-09"
+citeertitel_status: "officieel"
+signed_date: "2023-04-12"
+entry_into_force: "2023-05-09"
 ---
-
 # Ondermandaatbesluit tenuitvoerlegging strafrechtelijke en administratiefrechtelijke beslissingen CJIB oktober 2022
 
 In aanmerking nemende het geldende [Organisatiebesluit van de Minister van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293) en het daarbij behorende [Takenbesluit CJIB](https://wetten.overheid.nl/jci1.3:c:BWBR0045971);
@@ -58,7 +83,7 @@ Van het ingevolge [artikel 1, onderdeel e van het Mandaatbesluit hoofden taakorg
 
 Mandaat, volmacht en machtiging te verlenen voor het – voortvloeiend uit de toegepaste bevoegdheden – uitvoeren van rechtshandelingen die betrekking hebben op coördinatie en tenuitvoerlegging van strafrechtelijke beslissingen en inning van administratieve sancties [Wahv](https://wetten.overheid.nl/jci1.3:c:BWBR0004581).
 
-#### Artikel 1. (definities)
+##### Artikel 1. (definities)
 
 In deze regeling wordt verstaan onder:
 
@@ -87,11 +112,11 @@ Daarnaast geldt dat:
 
 - •. Strategisch manager binnen het CJIB Opgavemanager of (afdelings)hoofd wordt genoemd.
 
-#### Artikel 2. (bevoegdheid)
+##### Artikel 2. (bevoegdheid)
 
 De functionarissen zijn bevoegd uitvoering te geven aan de bevoegdheden die de Algemeen Directeur van het CJIB toekomen op basis van het gegeven mandaat.
 
-#### Artikel 3. (gemandateerde bevoegdheden)
+##### Artikel 3. (gemandateerde bevoegdheden)
 
 De aangelegenheden waarvoor bevoegdheid wordt verleend, betreffen:
 
@@ -185,11 +210,11 @@ De aangelegenheden waarvoor bevoegdheid wordt verleend, betreffen:
 
 1Afhankelijk van het onderwerp van de gerechtelijke procedure die of onder directie Dienstverlening & Incasso of onder directie Executie valt.
 
-#### Artikel 4. (ondermandaat)
+##### Artikel 4. (ondermandaat)
 
 De ressorterende functionarissen wordt niet toegestaan ondermandaat te verlenen.
 
-#### Artikel 5. (uitvoeringsvoorschrift)
+##### Artikel 5. (uitvoeringsvoorschrift)
 
 Als gebruik wordt gemaakt van dit mandaat, dan geldt het volgende uitvoeringsvoorschrift:
 
@@ -209,19 +234,19 @@ namens deze,
 
 <functietitel medewerker>
 
-#### Artikel 6. (overleg)
+##### Artikel 6. (overleg)
 
 Deze bevoegdheden worden uitgevoerd binnen de kaders van wet- en regelgeving alsmede de richtlijnen en aanwijzingen van de Minister van Justitie en Veiligheid en de Minister voor Rechtsbescherming en hetgeen is opgenomen in het bovenliggende mandaat. Over de uitoefening van de bevoegdheden vindt zo nodig periodiek overleg plaats tussen de Minister van Justitie en Veiligheid of de Minister voor Rechtsbescherming en het CJIB.
 
-#### Artikel 7. (intrekking)
+##### Artikel 7. (intrekking)
 
 Het ‘[Ondermandaatbesluit tenuitvoerlegging strafrechtelijke en administratiefrechtelijke beslissingen CJIB maart 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0046642)’ wordt door middel van dit besluit ingetrokken.
 
-#### Artikel 7. (aanhaling)
+##### Artikel 7. (aanhaling)
 
 Dit besluit wordt aangehaald als: ‘Ondermandaatbesluit tenuitvoerlegging strafrechtelijke en administratiefrechtelijke beslissingen CJIB oktober 2022’.
 
-#### Artikel 8. (inwerkingtreding)
+##### Artikel 8. (inwerkingtreding)
 
 Dit besluit treedt in werking met terugwerkende kracht met ingang van 1 oktober 2022.
 

@@ -1,13 +1,39 @@
 ---
-title: "Uitvoeringsregeling verbruiksbelasting van alcoholvrije dranken"
+title: "Uitvoeringsregeling verbruiksbelasting van alcoholvrije dranken en van enkele andere produkten"
 identifier: "BWBR0005812"
-categorie: "Belastingrecht"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005812"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005812"
+soort: "ministeriele-regeling"
+stam_id: "3375403"
+version_id: "5130752"
+internal_id: "C21380621"
+label_id: "3356034"
+dtd_version: "2.0"
+original_entry_into_force: "1993-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005812/2025-01-01/0"
+intitule_bron: "Stcrt.1992-252"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-12-28"
+intitule_published: "1992-12-29"
+intitule_in_force: "1992-12-30"
+intitule_status: "goed"
+original_publication: "Stcrt.1992-252"
+original_signed_date: "1992-12-28"
+original_published_date: "1992-12-29"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1993-01-01"
+entry_into_force_dossier: "22843"
+jci_1_3: "jci1.3:c:BWBR0005812&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0005812&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsregeling verbruiksbelasting van alcoholvrije dranken"
+signed_date: "1992-12-28"
+entry_into_force: "1993-01-01"
 ---
-
 # Uitvoeringsregeling verbruiksbelasting van alcoholvrije dranken en van enkele andere produkten
 
 Gelet op de [artikelen 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=3), [4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=4), [5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=5), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=7), [10, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=10), [14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=14), [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=15), [20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=20), [23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=23), [29, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=29), [30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=30), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=31), [32, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=32), [33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=33), [35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=35), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=36), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=37) en [40 van de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=40) (Stb. 1992, 683) en [artikel 6 van het Uitvoeringsbesluit verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&artikel=6) (Stb. 1992, 685);
@@ -20,11 +46,11 @@ Treedt in werking op het tijdstip waarop de Wet op de verbruiksbelastingen van a
 
 ### Afdeling 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 Deze regeling geeft uitvoering aan de [artikelen 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=3), [4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=4), [5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=5), [10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=10), [14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=14), [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=15), [20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=20), [23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=23), [29, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=29), [30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=30), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=31), [32, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=32), [33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=33), [35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=35), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=36), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=37) en [40 van de Wet op de verbruiksbelasting van alcoholvrije dranken](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=40) en [artikel 6 van het Uitvoeringsbesluit verbruiksbelasting van alcoholvrije dranken](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&artikel=6).
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling verstaat onder:
 
@@ -34,7 +60,7 @@ Deze regeling verstaat onder:
 
 ### Afdeling 2. Overbrengen van alcoholvrije dranken
 
-#### Artikel 3
+##### Artikel 3
 
 1. Als vervoersopdracht als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&artikel=2) van het besluit dienen te worden gebruikt:
 
@@ -52,7 +78,7 @@ Deze regeling verstaat onder:
 
 3. Op de als vervoersopdracht gebruikte bescheiden moet worden vermeld: vervoersopdracht.
 
-#### Artikel 4
+##### Artikel 4
 
 Als een bescheid als bedoeld in [artikel 5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&artikel=5) kan worden gebruikt:
 
@@ -60,21 +86,21 @@ Als een bescheid als bedoeld in [artikel 5 van het besluit](https://wetten.overh
 
 - b. een vervoersbescheid.
 
-#### Artikel 5
+##### Artikel 5
 
 [Artikel 4, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=4) vindt uitsluitend toepassing indien de hoeveelheid, bedoeld in [artikel 6 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&artikel=6), niet meer bedraagt dan 25 liter.
 
 ### Hoofdstuk II. Alcoholvrije dranken
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 Indien alcoholvrije dranken zijn verpakt in kleinhandelsverpakking, wordt het volume in aanmerking genomen dat op de verpakking is vermeld, mits de wijze waarop dat is vastgesteld en de aanduiding ervan voldoen aan de voorschriften gesteld bij het [Warenwetbesluit hoeveelheden voorverpakkingen](https://wetten.overheid.nl/jci1.3:c:BWBR0035560).
 
@@ -82,13 +108,13 @@ Indien alcoholvrije dranken zijn verpakt in kleinhandelsverpakking, wordt het vo
 
 ### Afdeling 1. Inrichting
 
-#### Artikel 9
+##### Artikel 9
 
 1. Een plaats waar geen alcoholvrije dranken worden vervaardigd, kan uitsluitend als inrichting voor de opslag van alcoholvrije dranken in aanmerking komen, indien de hoeveelheid die aldaar gemiddeld over een jaar voorhanden is, meer bedraagt dan 50 000 liter.
 
 2. In afwijking van het eerste lid kan de inspecteur onder door hem te stellen voorwaarden een vergunning voor een inrichting verlenen als de gemiddeld over een jaar voorhanden zijnde voorraad gelijk is aan of lager is dan 50 000 liter, indien en voor zover de alcoholvrije dranken vanuit die inrichting in belangrijke mate worden overgebracht naar een ondernemer of een publiekrechtelijk lichaam, anders dan als ondernemer, in een andere lidstaat of naar een derde land.
 
-#### Artikel 10
+##### Artikel 10
 
 1. In afwijking van het in [artikel 14, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=14) van overeenkomstige toepassing verklaarde [artikel 40, tweede lid, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=40) kunnen als inrichting in aanmerking komen:
 
@@ -118,7 +144,7 @@ Indien alcoholvrije dranken zijn verpakt in kleinhandelsverpakking, wordt het vo
 
 - 5°. een partner als bedoeld in [artikel 5a van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5a).
 
-#### Artikel 11
+##### Artikel 11
 
 1. Indien de inspecteur op grond van [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&artikel=12) voorwaarden stelt voor een vergunning voor een inrichting waar alcoholvrije dranken worden vervaardigd, kan daarbij worden bepaald dat ter zake van de vervaardiging werkaangiften moeten worden gedaan.
 
@@ -132,7 +158,7 @@ Indien alcoholvrije dranken zijn verpakt in kleinhandelsverpakking, wordt het vo
 
 4. De werkaangifte kan per werkweek geschieden.
 
-#### Artikel 12
+##### Artikel 12
 
 1. In een verzoek om een vergunning voor een inrichting dienen met betrekking tot hetgeen in het in [artikel 15, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=15) van overeenkomstige toepassing verklaarde [artikel 42, eerste en tweede lid, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=42), is bepaald, in elk geval te worden vermeld:
 
@@ -146,7 +172,7 @@ Indien alcoholvrije dranken zijn verpakt in kleinhandelsverpakking, wordt het vo
 
 ### Afdeling 2. Aangifte
 
-#### Artikel 13
+##### Artikel 13
 
 1. Een vergunninghouder van een inrichting die tevens vergunninghouder is van één of meer andere inrichtingen kan op verzoek één aangifte voor die plaatsen tezamen doen, indien:
 
@@ -162,7 +188,7 @@ Indien alcoholvrije dranken zijn verpakt in kleinhandelsverpakking, wordt het vo
 
 ### Afdeling 3. Zekerheid
 
-#### Artikel 14
+##### Artikel 14
 
 1. Voor de belasting die de vergunninghouder van een inrichting verschuldigd is of kan worden, stelt hij zekerheid. De zekerheid wordt bepaald op basis van het belastingbelang.
 
@@ -188,7 +214,7 @@ Indien alcoholvrije dranken zijn verpakt in kleinhandelsverpakking, wordt het vo
 
 ### Afdeling 1. Vrijstellingen
 
-#### Artikel 15
+##### Artikel 15
 
 1. In het verzoek om een vergunning als bedoeld in het in [artikel 29, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=29) van overeenkomstige toepassing verklaarde [artikel 65, vierde lid, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=65), dienen te worden vermeld:
 
@@ -204,7 +230,7 @@ Indien alcoholvrije dranken zijn verpakt in kleinhandelsverpakking, wordt het vo
 
 2. Met betrekking tot het verlenen, het aanpassen en het intrekken van de vergunning zijn de [artikelen 45 tot en met 50 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=45) van overeenkomstige toepassing.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De verklaring, bedoeld in [artikel 15 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&artikel=15), bevat de volgende gegevens:
 
@@ -232,7 +258,7 @@ Indien alcoholvrije dranken zijn verpakt in kleinhandelsverpakking, wordt het vo
 
 2. De verklaring wordt in het Nederlands of in het Engels opgesteld.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De verklaring, bedoeld in [artikel 16 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&artikel=16), bevat de volgende gegevens:
 
@@ -258,7 +284,7 @@ Indien alcoholvrije dranken zijn verpakt in kleinhandelsverpakking, wordt het vo
 
 2. De verklaring wordt in het Nederlands of in het Engels opgesteld.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Degene die in het bezit is van een vergunning als bedoeld in [artikel 17, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&artikel=17), dient in zijn administratie met betrekking tot de alcoholvrije dranken die worden gebruikt voor onderzoek, kwaliteitscontroles of smaaktesten buiten de inrichting op overzichtelijke wijze bij te houden:
 
@@ -280,7 +306,7 @@ Indien alcoholvrije dranken zijn verpakt in kleinhandelsverpakking, wordt het vo
 
 3. Degene die de alcoholvrije dranken met vrijstelling invoert bewaart bij de in het eerste lid bedoelde administratie tevens een afschrift van de voor de desbetreffende goederen ingevolge de wettelijke bepalingen, bedoeld in [artikel 1:1, eerste en tweede lid, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:1), gedane aangifte voor het vrije verkeer.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Vrijstelling van belasting ter zake van de uitslag van alcoholvrije dranken uit een inrichting wordt verleend in gevallen waarin bij invoer deze goederen met toepassing van de [artikelen 7:8](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&artikel=7:8), [7:9](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&artikel=7:9) of [7:11 van de Algemene douaneregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&artikel=7:11) met vrijstelling van rechten bij invoer zouden kunnen worden betrokken.
 
@@ -290,7 +316,7 @@ Indien alcoholvrije dranken zijn verpakt in kleinhandelsverpakking, wordt het vo
 
 ### Afdeling 2. Teruggaven
 
-#### Artikel 20
+##### Artikel 20
 
 1. Een verzoek om teruggaaf van belasting als bedoeld in [artikel 32 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=32) wordt ingediend uiterlijk drie maanden na afloop van het kalenderkwartaal waarin:
 
@@ -342,7 +368,7 @@ Indien alcoholvrije dranken zijn verpakt in kleinhandelsverpakking, wordt het vo
 
 4. De verklaring, bedoeld in het tweede en derde lid, wordt in het Nederlands of in het Engels opgesteld.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Een verzoek om teruggaaf van belasting als bedoeld in [artikel 33, eerste lid, onderdelen a en b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=33), voor alcoholvrije dranken, die zijn verloren gegaan of onder ambtelijk toezicht zijn vernietigd, wordt ingediend uiterlijk drie maanden na afloop van het kalenderkwartaal waarin de alcoholvrije dranken zijn verloren gegaan of onder ambtelijk toezicht zijn vernietigd.
 
@@ -356,7 +382,7 @@ Indien alcoholvrije dranken zijn verpakt in kleinhandelsverpakking, wordt het vo
 
 - d. de soort en de hoeveelheid van de restanten van verloren gegane goederen en andere van belang zijnde gegevens.
 
-#### Artikel 22
+##### Artikel 22
 
 Een verzoek om teruggaaf van belasting als bedoeld in [artikel 33, eerste lid, onderdelen c, d en e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=33) wordt ingediend uiterlijk drie maanden na afloop van het kalenderkwartaal waarin de alcoholvrije dranken hun bestemming hebben bereikt.
 
@@ -364,85 +390,85 @@ Een verzoek om teruggaaf van belasting als bedoeld in [artikel 33, eerste lid, o
 
 ### Afdeling 1. Belastingzegels
 
-#### Artikel 23
+##### Artikel 23
 
 Vervallen
 
-#### Artikel 24
+##### Artikel 24
 
 Vervallen
 
-#### Artikel 25
+##### Artikel 25
 
 Vervallen
 
-#### Artikel 26
+##### Artikel 26
 
 Vervallen
 
-#### Artikel 27
+##### Artikel 27
 
 Vervallen
 
-#### Artikel 28
+##### Artikel 28
 
 Vervallen
 
-#### Artikel 28a
+##### Artikel 28a
 
 Vervallen
 
-#### Artikel 29
+##### Artikel 29
 
 Vervallen
 
-#### Artikel 30
+##### Artikel 30
 
 Vervallen
 
-#### Artikel 31
+##### Artikel 31
 
 Vervallen
 
-#### Artikel 32
+##### Artikel 32
 
 Vervallen
 
-#### Artikel 33
+##### Artikel 33
 
 Vervallen
 
-#### Artikel 34
+##### Artikel 34
 
 Vervallen
 
-#### Artikel 35
+##### Artikel 35
 
 Vervallen
 
-#### Artikel 36
+##### Artikel 36
 
 Vervallen
 
-#### Artikel 37
+##### Artikel 37
 
 Vervallen
 
-#### Artikel 38
+##### Artikel 38
 
 Vervallen
 
-#### Artikel 39
+##### Artikel 39
 
 Vervallen
 
-#### Artikel 40
+##### Artikel 40
 
 Vervallen
 
 ### Afdeling 2. Controlebepalingen
 
-#### Artikel 41
+##### Artikel 41
 
 1. Als een in [artikel 27, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&artikel=27), bedoeld bescheid kan dienen:
 
@@ -474,7 +500,7 @@ Vervallen
 
 - j. de datum van aanvang van het vervoer.
 
-#### Artikel 42
+##### Artikel 42
 
 Een op grond van [artikel 36 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=36) gevorderd monster wordt:
 
@@ -486,7 +512,7 @@ Een op grond van [artikel 36 van de wet](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ### Afdeling 3. Overige bepalingen
 
-#### Artikel 43
+##### Artikel 43
 
 1. De vergunninghouder van een inrichting doet van het verloren gaan van alcoholvrije dranken in zijn inrichting ten gevolge van ongeval of overmacht onverwijld mededeling aan de inspecteur onder opgaaf van het tijdstip en de oorzaak van het verloren gaan.
 
@@ -496,19 +522,19 @@ Een op grond van [artikel 36 van de wet](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ### Hoofdstuk VI. Ontheffing verbodsbepalingen
 
-#### Artikel 44
+##### Artikel 44
 
 Vervallen
 
 ### Hoofdstuk VII. Strafbepalingen
 
-#### Artikel 45
+##### Artikel 45
 
 Vervallen
 
 ### Hoofdstuk VIII. Slotbepalingen
 
-#### Artikel 46
+##### Artikel 46
 
 1. Deze regeling treedt in werking op het tijdstip waarop de [Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten](https://wetten.overheid.nl/jci1.3:c:BWBR0005802) in werking treedt.
 
@@ -518,7 +544,7 @@ Vervallen
 
 Vervallen
 
-#### Artikel 40a
+##### Artikel 40a
 
 In een ingevolge de overeenkomstige toepassing van [artikel 75, tweede lid, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=75) gedaan verzoek wordt in ieder geval vermeld:
 
@@ -536,11 +562,11 @@ In een ingevolge de overeenkomstige toepassing van [artikel 75, tweede lid, van 
 
 - g. de naam en het adres van degene die de pruimtabak of snuiftabak uitslaat of invoert als het een bedrijf als bedoeld in [artikel 75, eerste lid, onderdelen c of d, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=75) betreft.
 
-#### Artikel 40b
+##### Artikel 40b
 
 Met betrekking tot het verlenen en aanpassen van de toestemming om belastingzegels aan te vragen zijn de [artikelen 43](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=43), [44, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=44), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=45) en [46 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=46) van overeenkomstige toepassing.
 
-#### Artikel 40c
+##### Artikel 40c
 
 In de administratie wordt krachtens de overeenkomstige toepassing van [artikel 75, zesde lid, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=75) in ieder geval aantekening gehouden van:
 

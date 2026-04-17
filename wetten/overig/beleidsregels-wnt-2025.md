@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregels WNT 2025"
+title: "Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 9 december 2024, nr. 2024-0000016490 houdende vaststelling van beleidsregels inzake de toepassing van de Wet normering topinkomens met ingang van 1 januari 2025 (Beleidsregels WNT 2025)"
 identifier: "BWBR0050560"
-categorie: "Overig"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050560"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050560"
+soort: "ministeriele-regeling"
+stam_id: "17308773"
+version_id: "30485262"
+internal_id: "C43707901"
+label_id: "17212764"
+dtd_version: "2.0"
+original_entry_into_force: "2025-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050560/2025-01-01/0"
+intitule_bron: "Stcrt.2024-39628"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-12-09"
+intitule_published: "2024-12-11"
+intitule_in_force: "2024-12-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-39628"
+original_signed_date: "2024-12-09"
+original_published_date: "2024-12-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-39628"
+entry_into_force_date: "2025-01-01"
+jci_1_3: "jci1.3:c:BWBR0050560&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0050560&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregels WNT 2025"
+signed_date: "2024-12-09"
+entry_into_force: "2025-01-01"
 ---
-
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 9 december 2024, nr. 2024-0000016490 houdende vaststelling van beleidsregels inzake de toepassing van de Wet normering topinkomens met ingang van 1 januari 2025 (Beleidsregels WNT 2025)
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties, handelend in overeenstemming met de Ministers van Buitenlandse Zaken, van Defensie, van Economische Zaken, van Financiën, van Onderwijs, Cultuur en Wetenschap, van Infrastructuur en Waterstaat, van Justitie en Veiligheid, van Sociale Zaken en Werkgelegenheid, van Landbouw, Visserij, Voedselzekerheid en Natuur, van Volkshuisvesting en Ruimtelijke Ordening, van Asiel en Migratie, van Klimaat en Groene Groei, van Volksgezondheid, Welzijn en Sport, en voor Buitenlandse Handel en Ontwikkelingssamenwerking, alsmede de staatssecretarissen van Binnenlandse Zaken en Koninkrijksrelaties, van Defensie, van Financiën, van Onderwijs, Cultuur en Wetenschap, van Infrastructuur en Waterstaat, van Justitie en Veiligheid, van Sociale Zaken en Werkgelegenheid, van Landbouw, Visserij, Voedselzekerheid en Natuur, en van Volksgezondheid, Welzijn en Sport;
@@ -16,15 +42,15 @@ Gelet op [artikel 1.10 van de Wet normering topinkomens](https://wetten.overheid
 
 Besluit:
 
-#### Artikel I
+##### Artikel I
 
 De als bijlage bij dit besluit gevoegde beleidsregels zijn voor het jaar 2025 van toepassing op de uitvoering van de [Wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) berustende bepalingen, daaronder begrepen de uitvoering en handhaving door of namens de Ministers van die wet en de daartoe door hen aangewezen ambtenaren.
 
-#### Artikel II
+##### Artikel II
 
 Dit besluit wordt aangehaald als: Beleidsregels WNT 2025.
 
-#### Artikel III
+##### Artikel III
 
 Dit besluit treedt in werking met ingang van 1 januari 2025.
 

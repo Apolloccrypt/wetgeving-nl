@@ -1,13 +1,39 @@
 ---
-title: "Besluit conformiteitsbeoordeling vaste biomassa voor energietoepassingen"
+title: "Besluit van 1 november 2017, houdende regels inzake de conformiteitsbeoordeling van vaste biomassa voor energietoepassingen door erkende conformiteitsbeoordelingsinstanties (Besluit conformiteitsbeoordeling vaste biomassa voor energietoepassingen)"
 identifier: "BWBR0040209"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040209"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040209"
+soort: "AMvB"
+stam_id: "14418063"
+version_id: "24653542"
+internal_id: "C35271241"
+label_id: "14378844"
+dtd_version: "2.0"
+original_entry_into_force: "2018-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040209/2024-01-01/0"
+intitule_bron: "Stb.2017-427"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-11-01"
+intitule_published: "2017-11-21"
+intitule_in_force: "2017-11-21"
+intitule_status: "goed"
+original_publication: "Stb.2017-427"
+original_signed_date: "2017-11-01"
+original_published_date: "2017-11-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2017-427"
+entry_into_force_date: "2018-01-01"
+jci_1_3: "jci1.3:c:BWBR0040209&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0040209&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit conformiteitsbeoordeling vaste biomassa voor energietoepassingen"
+signed_date: "2017-11-01"
+entry_into_force: "2018-01-01"
 ---
-
 # Besluit van 1 november 2017, houdende regels inzake de conformiteitsbeoordeling van vaste biomassa voor energietoepassingen door erkende conformiteitsbeoordelingsinstanties (Besluit conformiteitsbeoordeling vaste biomassa voor energietoepassingen)
 
 Op de voordracht van de Staatssecretaris van Infrastructuur en Milieu en Onze Minister van Economische Zaken van 14 juli 2017, nr. IENM/BSK-2017/143466, Hoofddirectie Bestuurlijke en Juridische Zaken;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -62,7 +88,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 2. Erkenning conformiteitsbeoordelingsinstanties
 
-#### Artikel 2. Erkenning
+##### Artikel 2. Erkenning
 
 1. Onze Minister voor Klimaat en Energie kan op aanvraag erkenning verlenen aan een conformiteitsbeoordelingsinstantie.
 
@@ -82,7 +108,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 9. Onze Minister voor Klimaat en Energie maakt de lijst op een door hem aan te wijzen website bekend.
 
-#### Artikel 3. Wederzijdse erkenning
+##### Artikel 3. Wederzijdse erkenning
 
 1. Met een accreditatie als bedoeld bij of krachtens dit besluit wordt gelijkgesteld een accreditatie die is afgegeven door een instelling in een staat, niet zijnde een lidstaat van de Europese Unie of een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, op basis van onderzoekingen of documenten die een beschermingsniveau bieden dat naar het oordeel van Onze Minister voor Klimaat en Energie ten minste gelijkwaardig is aan het beschermingsniveau dat met de nationale accreditatie wordt geboden.
 
@@ -92,7 +118,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 4. [Artikel 2, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040209&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01), is van overeenkomstige toepassing op de erkenning, bedoeld in het derde lid.
 
-#### Artikel 4. Aanvraag erkenning
+##### Artikel 4. Aanvraag erkenning
 
 1. Een aanvraag om erkenning wordt ingediend bij Onze Minister voor Klimaat en Energie met gebruikmaking van een door hem vastgesteld middel.
 
@@ -104,7 +130,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. een accreditatie of een ander bewijsstuk waaruit ten genoegen van Onze Minister voor Klimaat en Energie blijkt dat de conformiteitsbeoordelingsinstantie in staat is bij het uitvoeren van de in de aanvraag aangegeven werkzaamheden te voldoen aan de bij of krachtens dit besluit gestelde eisen.
 
-#### Artikel 5. Weigeren erkenning
+##### Artikel 5. Weigeren erkenning
 
 1. Een erkenning wordt in ieder geval geweigerd indien de aanvrager in staat van faillissement verkeert of surseance van betaling heeft verkregen.
 
@@ -116,7 +142,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 5. Voordat toepassing wordt gegeven aan het vierde lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=8), om een advies als bedoeld in [artikel 9 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=9) worden gevraagd.
 
-#### Artikel 6. Wijziging erkenning
+##### Artikel 6. Wijziging erkenning
 
 1. Op verzoek van een erkende conformiteitsbeoordelingsinstantie kan de erkenning worden gewijzigd.
 
@@ -126,7 +152,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Op het verzoek zijn de [artikelen 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040209&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01), en [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040209&hoofdstuk=2&artikel=4&z=2024-01-01&g=2024-01-01), van overeenkomstige toepassing.
 
-#### Artikel 7. Schorsen en intrekken erkenning
+##### Artikel 7. Schorsen en intrekken erkenning
 
 1. Onze Minister voor Klimaat en Energie kan een erkenning voor een periode van ten hoogste vijf maanden, geheel of gedeeltelijk schorsen, indien:
 
@@ -162,7 +188,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 6. Onze Minister voor Klimaat en Energie verwerkt de schorsing en intrekking van erkenningen in de lijst, bedoeld in [artikel 2, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040209&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01).
 
-#### Artikel 8. Melding
+##### Artikel 8. Melding
 
 1. Een erkende conformiteitsbeoordelingsinstantie doet aan Onze Minister voor Klimaat en Energie onverwijld melding:
 
@@ -174,13 +200,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 2. Een melding wordt ingediend bij Onze Minister voor Klimaat en Energie met gebruikmaking van het middel dat door hem beschikbaar wordt gesteld.
 
-#### Artikel 9. Verbod
+##### Artikel 9. Verbod
 
 Het is verboden een werkzaamheid uit te voeren in strijd met of zonder een daartoe verleende erkenning.
 
 ### Hoofdstuk 3. Werkzaamheden
 
-#### Artikel 10. Goedkeuring certificatieschema
+##### Artikel 10. Goedkeuring certificatieschema
 
 1. Onze Minister voor Klimaat en Energie kan op aanvraag van een schemabeheerder goedkeuring verlenen aan:
 
@@ -202,13 +228,13 @@ Het is verboden een werkzaamheid uit te voeren in strijd met of zonder een daart
 
 7. Onze Minister voor Klimaat en Energie maakt de lijst op een door hem aan te wijzen website bekend.
 
-#### Artikel 11. Wederzijdse erkenning
+##### Artikel 11. Wederzijdse erkenning
 
 1. Met een certificatieschema als bedoeld bij of krachtens dit besluit wordt gelijkgesteld een document dat is vastgesteld in een andere lidstaat van de Europese Unie dan wel in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, en een beschermingsniveau biedt dat naar het oordeel van Onze Minister voor Klimaat en Energie ten minste gelijkwaardig is aan het beschermingsniveau dat met het certificatieschema wordt geboden.
 
 2. [Artikel 10, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040209&hoofdstuk=3&artikel=10&z=2024-01-01&g=2024-01-01), is van overeenkomstige toepassing op het document, bedoeld in het eerste lid.
 
-#### Artikel 12. Aanvraag goedkeuring
+##### Artikel 12. Aanvraag goedkeuring
 
 1. Een aanvraag om goedkeuring van een certificatieschema als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040209&hoofdstuk=3&artikel=10&z=2024-01-01&g=2024-01-01), wordt door de schemabeheerder ingediend bij Onze Minister voor Klimaat en Energie met gebruikmaking van een door hem vastgesteld middel.
 
@@ -224,23 +250,23 @@ Het is verboden een werkzaamheid uit te voeren in strijd met of zonder een daart
 
 4. Onze Minister voor Klimaat en Energie kan nadere regels stellen met betrekking tot de gegevens, bedoeld in het tweede lid.
 
-#### Artikel 13. Verificatieprotocol
+##### Artikel 13. Verificatieprotocol
 
 1. Onze Ministers wijzen bij regeling het verificatieprotocol aan dat bij verificatie wordt toegepast, onder specificatie van de categorie vaste biomassa en de duurzaamheidseisen.
 
 2. Onze Minister voor Klimaat en Energie maakt het verificatieprotocol op een door hem aan te wijzen website bekend.
 
-#### Artikel 14. Wederzijdse erkenning
+##### Artikel 14. Wederzijdse erkenning
 
 1. Met een verificatieprotocol wordt gelijkgesteld een document dat is vastgesteld in een andere lidstaat van de Europese Unie dan wel in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, en een beschermingsniveau biedt dat naar het oordeel van Onze Minister voor Klimaat en Energie ten minste gelijkwaardig is aan het beschermingsniveau dat met het verificatieprotocol wordt geboden.
 
 2. Onze Minister voor Klimaat en Energie houdt een actuele lijst bij met gelijkgestelde documenten als bedoeld in het eerste lid, onder specificatie van de categorie vaste biomassa en de duurzaamheidseisen waarop het gelijkgestelde document betrekking heeft.
 
-#### Artikel 15. Verbod
+##### Artikel 15. Verbod
 
 Het is verboden een werkzaamheid uit te voeren in strijd met of zonder toepassing van een goedgekeurd certificatieschema of het verificatieprotocol.
 
-#### Artikel 16. Duurzaamheidseisen en beheerseisen
+##### Artikel 16. Duurzaamheidseisen en beheerseisen
 
 1. Onze Ministers stellen bij regeling duurzaamheidseisen voor categorieën vaste biomassa vast die de schemabeheerder in acht neemt bij het opstellen of wijzigen van het certificatieschema en die zien op:
 
@@ -262,25 +288,25 @@ Het is verboden een werkzaamheid uit te voeren in strijd met of zonder toepassin
 
 - b. bevoegdheden en verplichtingen van de schemabeheerder.
 
-#### Artikel 17. Toetsen aan certificatieschema en verificatieprotocol
+##### Artikel 17. Toetsen aan certificatieschema en verificatieprotocol
 
 Een erkende conformiteitsbeoordelingsinstantie toetst bij het uitvoeren van certificatie of verificatie aan een certificatieschema of het deel daarvan waaraan goedkeuring is verleend onderscheidenlijk aan het verificatieprotocol.
 
 ### Hoofdstuk 4. Toezicht en handhaving
 
-#### Artikel 18. Melding en afgewezen conformiteitsbeoordelingsverklaring
+##### Artikel 18. Melding en afgewezen conformiteitsbeoordelingsverklaring
 
 1. Een erkende conformiteitsbeoordelingsinstantie doet aan Onze Minister voor Klimaat en Energie onverwijld melding van de intrekking van een ten onrechte afgegeven conformiteitsbeoordelingsverklaring.
 
 2. Onze Minister voor Klimaat en Energie merkt een door een erkende conformiteitsbeoordelingsinstantie afgegeven verklaring niet langer aan als conformiteitsbeoordelingsverklaring, indien geen gerechtvaardigd vertrouwen bestaat dat de hierin gespecificeerde categorie vaste biomassa is geproduceerd op een wijze die voldoet aan een de duurzaamheidseisen waarop de beoordeling betrekking heeft en die in de verklaring zijn gespecificeerd.
 
-#### Artikel 19. Aanwijzen toezichthoudende ambtenaren
+##### Artikel 19. Aanwijzen toezichthoudende ambtenaren
 
 Met het toezicht op de naleving van het bepaalde bij of krachtens dit besluit zijn de bij regeling van Onze Ministers aangewezen ambtenaren belast.
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 20. Overgangsrecht
+##### Artikel 20. Overgangsrecht
 
 1. Een conformiteitsbeoordelingsinstantie die binnen een door Onze Minister voor Klimaat en Energie bepaalde redelijke termijn van ten minste een maand na het tijdstip van inwerkingtreding van dit besluit een aanvraag om erkenning heeft ingediend, wordt met ingang van dat tijdstip aangemerkt als tijdelijk erkende conformiteitsbeoordelingsinstantie totdat onherroepelijk op de aanvraag is beslist.
 
@@ -288,17 +314,17 @@ Met het toezicht op de naleving van het bepaalde bij of krachtens dit besluit zi
 
 3. Certificaten en verificatieverklaringen over vaste biomassa van een conformiteitsbeoordelingsinstantie als bedoeld in het eerste lid die voor het tijdstip van inwerkingtreding van dit besluit zijn afgegeven op grond van een certificatieschema als bedoeld in het tweede lid onderscheidenlijk een verificatieprotocol inzake de duurzaamheid van vaste biomassa, dat van toepassing was op het moment van afgifte, worden aangemerkt als tijdelijke conformiteitsbeoordelingsverklaringen totdat op de aanvraag om erkenning van die conformiteitsbeoordelingsinstantie onherroepelijk is beslist.
 
-#### Artikel 21. Inwerkingtreding
+##### Artikel 21. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 januari 2018. Indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven na 31 december 2017, treedt het besluit in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-#### Artikel 22. Citeertitel
+##### Artikel 22. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit conformiteitsbeoordeling vaste biomassa voor energietoepassingen.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 1a. Grondslag besluit
+##### Artikel 1a. Grondslag besluit
 
 Dit besluit berust mede op [artikel 18.6, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=18.6).
 

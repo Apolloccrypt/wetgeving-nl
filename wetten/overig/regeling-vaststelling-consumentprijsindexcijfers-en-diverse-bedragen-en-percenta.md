@@ -1,13 +1,39 @@
 ---
-title: "Regeling vaststelling consumentprijsindexcijfers en diverse bedragen en percentages voor Caribisch Nederland 2017"
+title: "Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 21 november 2016, 2016-0000252614, tot vaststelling van de consumentprijsindexcijfers voor Caribisch Nederland voor 2017 alsmede naar aanleiding daarvan de vaststelling van diverse bedragen en percentages"
 identifier: "BWBR0038770"
-categorie: "Overig"
-publicatiedatum: 2017-01-01
-laatste_update: 2017-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038770"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2017-01-01"
+last_updated: "2017-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038770"
+soort: "ministeriele-regeling-BES"
+stam_id: "13803743"
+version_id: "23677412"
+internal_id: "C34085251"
+label_id: "13769964"
+dtd_version: "2.0"
+original_entry_into_force: "2017-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038770/2017-01-01/0"
+intitule_bron: "Stcrt.2016-63861"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-11-21"
+intitule_published: "2016-11-29"
+intitule_in_force: "2016-11-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-63861"
+original_signed_date: "2016-11-21"
+original_published_date: "2016-11-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-63861"
+entry_into_force_date: "2017-01-01"
+jci_1_3: "jci1.3:c:BWBR0038770&z=2017-01-01&g=2017-01-01"
+jci_1_0: "1.0:c:BWBR0038770&g=2017-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Regeling vaststelling consumentprijsindexcijfers en diverse bedragen en percentages voor Caribisch Nederland 2017"
+signed_date: "2016-11-21"
+entry_into_force: "2017-01-01"
 ---
-
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 21 november 2016, 2016-0000252614, tot vaststelling van de consumentprijsindexcijfers voor Caribisch Nederland voor 2017 alsmede naar aanleiding daarvan de vaststelling van diverse bedragen en percentages
 
 In overeenstemming met de Staatssecretaris van Financiën;
@@ -16,7 +42,7 @@ Gelet op de [artikelen 7b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 Besluit:
 
-#### Artikel 1. Consumentenprijsindexcijfer Caribisch Nederland
+##### Artikel 1. Consumentenprijsindexcijfer Caribisch Nederland
 
 1. Het consumentenprijsindexcijfer voor 2017, bedoeld in de [artikelen 8a, eerste lid, van de Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459&artikel=8a), [12a, eerste lid, van de Wet algemene weduwen- en wezenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&artikel=12a), [13, eerste lid, van de Wet minimumlonen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028170&artikel=13), [7b, derde lid, van de Pensioenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=7b), [10, eerste lid, van de Wet kinderbijslagvoorziening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&artikel=10) en [21, eerste lid, van het Besluit onderstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&artikel=21) wordt vastgesteld op:
 
@@ -30,7 +56,7 @@ Besluit:
 
 3. Het gemiddelde consumentenprijsindexcijfer voor 2017, bedoeld in [artikel 7, vierde lid, van de Arbeidsvrederegeling BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028762&artikel=7), wordt vastgesteld op –0,07%.
 
-#### Artikel 2. [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459)
+##### Artikel 2. [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459)
 
 1. Het bedrag van het ouderdomspensioen, genoemd in [artikel 7 van de Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459&artikel=7), wordt per maand vastgesteld op:
 
@@ -72,7 +98,7 @@ Besluit:
 
 5. Het premiepercentage, bedoeld in [artikel 26, eerste lid, van de Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459&artikel=26), wordt vastgesteld op 25%.
 
-#### Artikel 3. [Wet algemene weduwen- en wezenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028387)
+##### Artikel 3. [Wet algemene weduwen- en wezenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028387)
 
 1. Het bedrag van het weduwenpensioen voor de weduwe jonger dan 40 jaar, genoemd in [artikel 11, eerste lid, onderdeel a, van de Wet algemene weduwen- en wezenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&artikel=11), wordt per maand vastgesteld op:
 
@@ -186,7 +212,7 @@ Besluit:
 
 12. Het premiepercentage, bedoeld in [artikel 29, eerste lid, van de Wet algemene weduwen- en wezenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&artikel=29), wordt vastgesteld op 1,3%.
 
-#### Artikel 4. [Wet minimumlonen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028170)
+##### Artikel 4. [Wet minimumlonen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028170)
 
 Het bedrag van het bruto minimumuurloon, genoemd in [artikel 9, eerste lid, onderdelen a, b en c, van de Wet minimumlonen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028170&artikel=9), wordt vastgesteld op:
 
@@ -196,11 +222,11 @@ Het bedrag van het bruto minimumuurloon, genoemd in [artikel 9, eerste lid, onde
 
 - c. USD 5,68, indien belanghebbende woonachtig is in het openbaar lichaam Saba.
 
-#### Artikel 5. [Cessantiawet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028304)
+##### Artikel 5. [Cessantiawet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028304)
 
 Het premiepercentage, bedoeld in [artikel 7, derde lid, van de Cessantiawet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=7), wordt vastgesteld op 0,2%.
 
-#### Artikel 6. [Wet ongevallenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028497)
+##### Artikel 6. [Wet ongevallenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028497)
 
 1. Het bedrag,, bedoeld in [artikel 5, negentiende lid, van de Wet ongevallenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=5), wordt voor een werknemer met een zesdaagse werkweek vastgesteld op:
 
@@ -220,7 +246,7 @@ Het premiepercentage, bedoeld in [artikel 7, derde lid, van de Cessantiawet BES]
 
 3. Het premiepercentage, bedoeld in [artikel 8, tweede lid, van de Wet ongevallenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=8), wordt vastgesteld op 0,5%.
 
-#### Artikel 7. [Wet ziekteverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028728)
+##### Artikel 7. [Wet ziekteverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028728)
 
 1. Het bedrag, bedoeld in [artikel 5, tweede lid, van de Wet ziekteverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=5), wordt voor een werknemer met een zesdaagse werkweek vastgesteld op:
 
@@ -240,7 +266,7 @@ Het premiepercentage, bedoeld in [artikel 7, derde lid, van de Cessantiawet BES]
 
 3. Het premiepercentage, bedoeld in [artikel 8, derde lid, van de Wet ziekteverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=8), wordt vastgesteld op 1,6%.
 
-#### Artikel 8. [Wet kinderbijslagvoorziening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0037347)
+##### Artikel 8. [Wet kinderbijslagvoorziening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0037347)
 
 De bedragen van de kinderbijslag BES, genoemd in [artikel 9 van de Wet kinderbijslagvoorziening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&artikel=9), worden vastgesteld op:
 
@@ -250,7 +276,7 @@ De bedragen van de kinderbijslag BES, genoemd in [artikel 9 van de Wet kinderbij
 
 - c. USD 42, indien belanghebbende woonachtig is in het openbaar lichaam Saba.
 
-#### Artikel 9. [Pensioenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028712)
+##### Artikel 9. [Pensioenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028712)
 
 Het bedrag, bedoeld in [artikel 7b, eerste lid, van de Pensioenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=7b), wordt vastgesteld op:
 
@@ -262,11 +288,11 @@ Het bedrag, bedoeld in [artikel 7b, eerste lid, van de Pensioenwet BES](https://
 
 - d. USD 1524, indien belanghebbende woonachtig is buiten de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 10. [Arbeidsvrederegeling BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028762)
+##### Artikel 10. [Arbeidsvrederegeling BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028762)
 
 Het bedrag, genoemd in [artikel 7, eerste lid, van de Arbeidsvrederegeling BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028762&artikel=7), wordt per uur vastgesteld op USD 104.
 
-#### Artikel 11. [Besluit onderstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028595)
+##### Artikel 11. [Besluit onderstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028595)
 
 1. De basisbedragen van de algemene onderstand, genoemd in [artikel 13 van het Besluit onderstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&artikel=13), worden per twee weken vastgesteld op:
 
@@ -318,7 +344,7 @@ Het bedrag, genoemd in [artikel 7, eerste lid, van de Arbeidsvrederegeling BES](
 
 7. Het bedrag, genoemd in [artikel 17, derde lid, van het Besluit onderstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&artikel=17), wordt per twee weken vastgesteld op USD 41.
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2017.
 

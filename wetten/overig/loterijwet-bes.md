@@ -1,16 +1,41 @@
 ---
 title: "Loterijwet BES"
 identifier: "BWBR0028260"
-categorie: "Overig"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028260"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028260"
+soort: "wet-BES"
+stam_id: "10726013"
+version_id: "17696052"
+internal_id: "C24746481"
+label_id: "10700674"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028260/2010-10-10/0"
+intitule_bron: "Stb.2010-524"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-14"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-524"
+original_signed_date: "2010-09-14"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-524"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028260&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028260&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-14"
+entry_into_force: "2010-10-10"
 ---
-
 # Loterijwet BES
 
-#### Artikel 1
+##### Artikel 1
 
 Deze wet verstaat onder loterij, elke gelegenheid, door iemand opengesteld om, tegen voldoening aan zekere voorwaarde, mede te dingen naar prijzen of premiën in geld of goed, uitgeloofd ten behoeve van de deelnemers, die als winners worden aangewezen door het lot of enige andere kansbepaling, waarop zij geen overwegende invloed kunnen oefenen.
 
@@ -20,11 +45,11 @@ Onder loterij in de zin dezer wet worden niet verstaan:
 
 - 2°. de tegen een niet hogere dan de parikoers door een publiekrechtelijk lichaam voor het publiek opengestelde werkelijke geldlening, die een jaarlijkse en jaarlijks ter beschikking te stellen rente geeft van ten minste drie ten honderd, terwijl aan de schuldbewijzen van die lening bijkomstig een kans op het winnen van premiën is verbonden.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Deze wet is niet van toepassing op loterijen welke door en ten behoeve van handelszaken of bedrijven ter stimulering van de verkoop of verhoging van de omzet worden aangelegd of gehouden, mits als voorwaarde tot deelneming niet gevraagd wordt voldoening van een geldsbedrag en mits daarbij de bij eilandsverordening te stellen voorwaarden en regelen in acht worden genomen.
 
-#### Artikel 2
+##### Artikel 2
 
 Het is verboden:
 
@@ -34,11 +59,11 @@ Het is verboden:
 
 - 3°. certificaten rechtgevende op de gedeeltelijke eigendom van een oorspronkelijk aandeel in een loterij of een premielening of op de aan zodanig aandeel verbonden winkans bij trekkingen, onder welke benaming ook, te verkopen, te koop aan te bieden, af te leveren, uit te delen of ten verkoop of ter uitdeling in voorraad te hebben of op enige andere wijze de deelneming door middel van zodanige certificaten in loterijen en premieleningen open te stellen of openlijk te bevorderen.
 
-#### Artikel 2bis
+##### Artikel 2bis
 
 Het bestuurscollege kan aan een naamloze vennootschap, een coöperatieve of andere, rechtspersoonlijkheid bezittende vereniging of een stichting toestemming verlenen tot het openstellen van een tegen een niet hogere dan de parikoers uit te geven werkelijke geldlening, welke een jaarlijkse en jaarlijks ter beschikking te stellen rente heeft van ten minste drie ten honderd, terwijl aan de schuldbewijzen van die lening bijkomstig een kans op het winnen van premiën is verbonden.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Tot het aanleggen en houden van een loterij, uitsluitend strekkende tot een liefdadig doel of ter bevordering van wetenschap, kunst of een ander algemeen belang, en waarin de prijzen of premiën niet in geld of geldswaardig papier bestaan, kan toestemming worden verleend door het bestuurscollege.
 
@@ -64,11 +89,11 @@ Deze voorwaarden hebben onder meer betrekking op:
 
 Als voorwaarde dient in ieder geval te worden opgenomen de bestemming van de opbrengst van elke gehouden loterij met dien verstande, dat de netto opbrengsten uitsluiten ten goede mogen komen aan sportorganisaties op Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 4
+##### Artikel 4
 
 Op loterijen, tot het aanleggen en houden waarvan de toestemming van het bestuurscollege wordt vereist, wordt een vergunningsrecht geheven van tien ten honderd van het gezamenlijk bedrag der loten.
 
-#### Artikel 5
+##### Artikel 5
 
 Bij eilandsverordening kunnen voorschriften worden gegeven met betrekking tot de wijze waarop en de middelen waarmede prijs- en premietrekkingen van loterijen en premieleningen moeten plaats hebben, alsook ten aanzien van de hoegrootheid van de waarde der gezamenlijk uit te geven aandelen in die loterijen en premieleningen.
 
@@ -76,7 +101,7 @@ Aan elke toestemming, als in de [art. 2bis](https://wetten.overheid.nl/jci1.3:c:
 
 Bij verlening van een toestemming, als in [artikel 2 bis](https://wetten.overheid.nl/jci1.3:c:BWBR0028260&artikel=2bis&z=2010-10-10&g=2010-10-10) bedoeld, kan het bestuurscollege waarborgen van de aanleggers van zulk een loterij verlangen, welke eventueel worden gesteld en verbeurd op een wijze en om redenen bij eilandsverordening te bepalen.
 
-#### Artikel 6
+##### Artikel 6
 
 Het is verboden:
 
@@ -86,7 +111,7 @@ Het is verboden:
 
 - 3°. aandelen in zodanige loterij te verkopen, te koop aan te bieden, af te leveren, uit te delen of ten verkoop of ter uitdeling in voorraad te hebben of op enige andere wijze de deelneming in zodanige loterij open te stellen of openlijk te bevorderen, zonder dat door hem, die een der genoemde handelingen pleegt, alle voorwaarden, waaronder de toestemming tot het houden der loterij is verleend, zijn of worden nagekomen.
 
-#### Artikel 7
+##### Artikel 7
 
 Overtreding van een der verbodsbepalingen van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028260&artikel=2&z=2010-10-10&g=2010-10-10) of van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028260&artikel=6&z=2010-10-10&g=2010-10-10) wordt gestraft met gevangenisstraf van ten hoogste zes maanden of een geldboete van de tweede categorie.
 
@@ -94,21 +119,21 @@ Voorwerpen de veroordeelde toebehorende, welke door middel van het strafbaar fei
 
 De vernietiging van in beslag genomen aandelen in de loterij of van andere geschriften, waarmede het strafbaar feit is gepleegd, kan in het vonnis worden gelast.
 
-#### Artikel 7bis
+##### Artikel 7bis
 
 Indien een feit, bij deze wet strafbaar gesteld, wordt begaan door of vanwege een naamloze vennootschap, een coöperatieve of andere rechtspersoonlijkheid bezittende vereniging of een stichting, wordt de strafvervolging ingesteld en de straf uitgesproken tegen de leden van het bestuur of commissarissen.
 
 Geen straf wordt uitgesproken tegen de bestuurder of commissaris, van wien blijkt, dat het feit buiten zijn toedoen is begaan.
 
-#### Artikel 8
+##### Artikel 8
 
 Hij die opzettelijk in strijd met de waarheid het vermoeden wekt, dat ingevolge de [artikelen 2 bis](https://wetten.overheid.nl/jci1.3:c:BWBR0028260&artikel=2bis&z=2010-10-10&g=2010-10-10) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028260&artikel=3&z=2010-10-10&g=2010-10-10), toestemming tot het houden van een loterij is verleend, of dat aan de verleende toestemming geen voorwaarden of andere dan de gestelde of niet al de gestelde voorwaarden zijn verbonden, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de tweede categorie.
 
-#### Artikel 8bis
+##### Artikel 8bis
 
 De in deze wet bedoelde strafbare feiten worden beschouwd als misdrijven.
 
-#### Artikel 9
+##### Artikel 9
 
 De ambtenaren belast met het opsporen van de feiten bij deze wet strafbaar gesteld zijn te allen tijde bevoegd in beslag te nemen en ter inbeslagneming de uitlevering te vorderen van al hetgeen kan dienen tot bewijs, van al hetgeen redelijkerwijs vermoed kan worden bestemd te zijn geweest of gediend te hebben tot het plegen van een overtreding dezer wet zijn verkregen.
 
@@ -120,6 +145,6 @@ Is de plaats tevens een woning of alleen door een woning toegankelijk, dan trede
 
 Van dit binnentreden wordt door hen proces-verbaal opgemaakt, dat binnen tweemaal vierentwintig uren aan de ingezetene, wiens woning is binnengetreden, in afschrift wordt medegedeeld.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze wet wordt aangehaald als: Loterijwet BES.

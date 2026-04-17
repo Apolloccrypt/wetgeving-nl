@@ -1,13 +1,38 @@
 ---
 title: "Circulaire toepassen Arbeidsvoorwaardenovereenkomst sector Rijk 2018–2020"
 identifier: "BWBR0041311"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2018-09-04
-laatste_update: 2018-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041311"
+country: "nl"
+rank: "circulaire"
+publication_date: "2018-09-04"
+last_updated: "2018-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041311"
+soort: "circulaire"
+stam_id: "14745083"
+version_id: "25239622"
+internal_id: "C36072981"
+label_id: "14697024"
+dtd_version: "2.0"
+original_entry_into_force: "2018-09-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041311/2018-09-04/0"
+intitule_bron: "Stcrt.2018-49773"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-08-28"
+intitule_published: "2018-09-03"
+intitule_in_force: "2018-09-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-49773"
+original_signed_date: "2018-08-28"
+original_published_date: "2018-09-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-49773"
+entry_into_force_date: "2018-09-04"
+jci_1_3: "jci1.3:c:BWBR0041311&z=2018-09-04&g=2018-09-04"
+jci_1_0: "1.0:c:BWBR0041311&g=2018-09-04"
+citeertitel_status: "redactioneel"
+signed_date: "2018-08-28"
+entry_into_force: "2018-09-04"
 ---
-
 # Circulaire toepassen Arbeidsvoorwaardenovereenkomst sector Rijk 2018–2020
 
 Op 13 juli jongstleden hebben de minister van Binnenlandse Zaken en Koninkrijksrelaties en de vakbonden FNV Overheid, Ambtenarencentrum, CNV Overheid en CMHF de Arbeidsvoorwaardenovereenkomst sector Rijk 2018–2020 gesloten. Met deze circulaire informeer ik u over de inhoud van deze overeenkomst en wordt aangegeven op welke wijze moet worden omgegaan met daarin gemaakte afspraken. De overeenkomst is als bijlage bij deze circulaire gevoegd.

@@ -1,14 +1,37 @@
 ---
-title: "Wijzigingswet Wet milieubeheer (afvalstoffen)"
+title: "Wet van 13 mei 1993, tot uitbreiding en wijziging van de Wet milieubeheer (afvalstoffen)"
 identifier: "BWBR0005986"
-categorie: "Milieu"
-publicatiedatum: 1996-03-01
-laatste_update: 1996-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005986"
+country: "nl"
+rank: "wet"
+publication_date: "1996-03-01"
+last_updated: "1996-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005986"
+soort: "wet"
+stam_id: "2796023"
+version_id: "4303392"
+internal_id: "C4303391"
+label_id: "2744204"
+dtd_version: "2.0"
+original_entry_into_force: "1994-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005986/1996-03-01/0"
+intitule_bron: "Stb.1993-283"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1993-05-13"
+intitule_status: "goed"
+original_publication: "Stb.1993-283"
+original_signed_date: "1993-05-13"
+original_effect: "nieuwe-regeling"
+original_dossier: "21246"
+entry_into_force_date: "1994-01-01"
+jci_1_3: "jci1.3:c:BWBR0005986&z=1996-03-01&g=1996-03-01"
+jci_1_0: "1.0:c:BWBR0005986&g=1996-03-01"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet Wet milieubeheer (afvalstoffen)"
+signed_date: "1993-05-13"
+entry_into_force: "1994-01-01"
 ---
-
-# Wijzigingswet Wet milieubeheer (afvalstoffen)
+# Wet van 13 mei 1993, tot uitbreiding en wijziging van de Wet milieubeheer (afvalstoffen)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -20,43 +43,43 @@ dat daarbij tevens uitvoering moet worden gegeven aan de richtlijnen van de Raad
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel II
+##### Artikel II
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel IIIA
+##### Artikel IIIA
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel III
+##### Artikel III
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel IV
+##### Artikel IV
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel V
+##### Artikel V
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel VA
+##### Artikel VA
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel VI
+##### Artikel VI
 
 De Afvalstoffenwet (**Stb**. 1977, 455) en de Wet chemische afvalstoffen (**Stb**. 1981, 696) worden ingetrokken op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden gesteld.
 
-#### Artikel VII
+##### Artikel VII
 
 In afwijking van de [artikelen 81 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=81) (**Stb**. 1962, 17), 194 van de [gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416) (**Stb**. 1931, 89) en 59, tweede lid, van de [Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108) blijven de bepalingen van verordeningen van provincies, van gemeenten en van waterschappen betreffende het onderwerp waarin deze wet voorziet - behoudens in de gevallen waarin strijd met de bij of krachtens deze wet gestelde voorschriften zou ontstaan - nog van kracht tot twee jaar na het in werking treden van dit artikel.
 
-#### Artikel VIII
+##### Artikel VIII
 
 1. Een vergunning of ontheffing, verleend krachtens de Afvalstoffenwet of de Wet chemische afvalstoffen, wordt, voor zover zij betrekking heeft op gedragingen waarvoor na het in werking treden van de onderscheidene bepalingen van [hoofdstuk 10 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10) een vergunning of ontheffing krachtens die bepalingen vereist is, gelijk gesteld met een vergunning, onderscheidenlijk ontheffing, verleend krachtens de betrokken bepaling van dat hoofdstuk.
 
@@ -74,7 +97,7 @@ In afwijking van de [artikelen 81 van de Provinciewet](https://wetten.overheid.n
 
 8. Een provinciale verordening ter bescherming van de kwaliteit van het grondwater met het oog op de waterwinning wordt voor de toepassing van de [artikelen 15.21](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.21), [15.22](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.22) en [15.34 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.34) gelijk gesteld met een verordening als bedoeld in [artikel 1.2 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.2). Een verzoek om vergoeding ingediend voor het tijdstip van inwerkingtreding van deze wet, maar na 28 februari 1993, wordt gelijkgesteld met een verzoek om vergoeding ingediend na het tijdstip van inwerkingtreding van deze wet.
 
-#### Artikel IX
+##### Artikel IX
 
 1. De titels, paragrafen en artikelen van [hoofdstuk 10 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10) worden door Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer doorlopend genummerd. De verwijzingen in de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245) worden aan die nummering aangepast.
 
@@ -82,7 +105,7 @@ In afwijking van de [artikelen 81 van de Provinciewet](https://wetten.overheid.n
 
 3. De tekst van de krachtens de [artikelen II](https://wetten.overheid.nl/jci1.3:c:BWBR0005986&artikel=II&z=1996-03-01&g=1996-03-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0005986&artikel=III&z=1996-03-01&g=1996-03-01) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0005986&artikel=IV&z=1996-03-01&g=1996-03-01) ingevoegde en gewijzigde bepalingen van de [Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682), de [Wet verontreiniging zeewater](https://wetten.overheid.nl/jci1.3:c:BWBR0002975) en de [Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063) worden door Onze Minister van Justitie in het **Staatsblad** geplaatst, nadat de verwijzingen in die wetten naar artikelen van de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245) door Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer zijn aangepast aan de vernummering van die artikelen ingevolge het eerste lid.
 
-#### Artikel X
+##### Artikel X
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden gesteld.
 

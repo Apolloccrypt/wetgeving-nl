@@ -1,13 +1,38 @@
 ---
 title: "Verdrag van Bazel inzake de beheersing van de grensoverschrijdende overbrenging van gevaarlijke afvalstoffen en de verwijdering ervan"
 identifier: "BWBV0002081"
-categorie: "Milieu"
-publicatiedatum: 2025-01-01
-laatste_update: 2019-12-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002081"
+country: "nl"
+rank: "verdrag"
+publication_date: "2025-01-01"
+last_updated: "2019-12-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002081"
+soort: "verdrag"
+stam_id: "10002653033"
+version_id: "10002651042"
+internal_id: "C10006984811"
+label_id: "10002642554"
+dtd_version: "2.0"
+original_entry_into_force: "1993-07-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002081/2025-01-01/0"
+intitule_bron: "Trb.1990-12"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1993-04-16"
+intitule_published: "1990-02-01"
+intitule_in_force: "1993-05-20"
+intitule_status: "goed"
+original_publication: "Trb.1990-12"
+original_signed_date: "1993-04-16"
+original_published_date: "1990-02-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1990-12"
+entry_into_force_date: "1993-07-15"
+jci_1_3: "jci1.3:c:BWBV0002081&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBV0002081&g=2025-01-01"
+citeertitel_status: "officieel"
+signed_date: "1993-04-16"
+entry_into_force: "1993-07-15"
 ---
-
 # Verdrag van Bazel inzake de beheersing van de grensoverschrijdende overbrenging van gevaarlijke afvalstoffen en de verwijdering ervan
 
 Preambule
@@ -66,7 +91,7 @@ Vastbesloten door strenge beheersing de gezondheid van de mens en het milieu te 
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Reikwijdte van het Verdrag
+##### Artikel 1. Reikwijdte van het Verdrag
 
 1. De volgende afvalstoffen die het voorwerp zijn van grensoverschrijdende overbrenging zijn „gevaarlijke afvalstoffen” voor de toepassing van dit Verdrag:
 
@@ -80,7 +105,7 @@ Zijn het volgende overeengekomen:
 
 4. Dit Verdrag is niet van toepassing op afvalstoffen die voortkomen uit de gewone exploitatie van een schip, en waarvan de lozing onder een andere internationale akte valt.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -126,7 +151,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - 21. „sluikhandel”: iedere grensoverschrijdende overbrenging van gevaarlijke afvalstoffen of andere afvalstoffen zoals beschreven in artikel 9.
 
-#### Artikel 3. Nationale omschrijvingen van gevaarlijke afvalstoffen
+##### Artikel 3. Nationale omschrijvingen van gevaarlijke afvalstoffen
 
 1. Iedere Partij deelt het Secretariaat van het Verdrag, binnen zes maanden nadat zij Partij bij dit Verdrag wordt, mee welke afvalstoffen, behalve de afvalstoffen die worden opgesomd in de Bijlagen I en II, krachtens haar nationale wetgeving als gevaarlijk worden beschouwd of zijn omschreven, en welke vereisten aangaande procedures voor grensoverschrijdende overbrenging op deze afvalstoffen van toepassing zijn.
 
@@ -136,7 +161,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 4. Het is de verantwoordelijkheid van de Partijen de gegevens die hen door het Secretariaat krachtens het derde lid zijn toegezonden aan hun exporteurs te verstrekken.
 
-#### Artikel 4. Algemene verplichtingen
+##### Artikel 4. Algemene verplichtingen
 
 - a). Partijen die hun recht uitoefenen de invoer van gevaarlijke afvalstoffen of andere afvalstoffen voor verwijdering te verbieden, delen de andere Partijen hun besluit mee ingevolge artikel 13.
 
@@ -196,7 +221,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 13. Partijen verplichten zich periodiek de mogelijkheden te bezien van het verminderen van de hoeveelheid van en/of het risico van verontreiniging door gevaarlijke afvalstoffen en andere afvalstoffen die worden uitgevoerd naar andere Staten, in het bijzonder naar ontwikkelingslanden.
 
-#### Artikel 5. Aanwijzing van bevoegde autoriteiten en contactpunt
+##### Artikel 5. Aanwijzing van bevoegde autoriteiten en contactpunt
 
 Ter vergemakkelijking van de uitvoering van dit Verdrag dienen de Partijen:
 
@@ -206,7 +231,7 @@ Ter vergemakkelijking van de uitvoering van dit Verdrag dienen de Partijen:
 
 - 3. het Secretariaat in kennis te stellen van iedere wijziging aangaande de aanwijzing die krachtens het tweede lid van dit artikel is geschied, binnen een maand vanaf de datum waarop tot die wijziging is besloten.
 
-#### Artikel 6. Grensoverschrijdende overbrenging tussen Partijen
+##### Artikel 6. Grensoverschrijdende overbrenging tussen Partijen
 
 1. De Staat van uitvoer doet schriftelijk mededeling aan de bevoegde autoriteit van de betrokken Staten van iedere voorgenomen grensoverschrijdende overbrenging van gevaarlijke afvalstoffen of andere afvalstoffen, door tussenkomst van de bevoegde autoriteit van de Staat van uitvoer, of eist dat de producent of de exporteur hiervan op deze wijze mededeling doet. Deze mededeling bevat de in Bijlage V A genoemde verklaringen en gegevens, geschreven in een voor de Staat van invoer aanvaardbare taal. Per betrokken Staat hoeft slechts één mededeling te worden verzonden.
 
@@ -240,15 +265,15 @@ Ter vergemakkelijking van de uitvoering van dit Verdrag dienen de Partijen:
 
 11. Iedere grensoverschrijdende overbrenging van gevaarlijke afvalstoffen of andere afvalstoffen wordt gedekt door een verzekering, borg of een andere garantie, te bepalen door de Staat van invoer of een Staat van doorvoer die Partij is.
 
-#### Artikel 7. Grensoverschrijdende overbrenging vanuit een Partij via Staten die geen Partij zijn
+##### Artikel 7. Grensoverschrijdende overbrenging vanuit een Partij via Staten die geen Partij zijn
 
 Het eerste lid van artikel 6 van het Verdrag is mutatis mutandis van toepassing op grensoverschrijdende overbrenging van gevaarlijke afvalstoffen of andere afvalstoffen vanuit een Partij via een Staat of Staten die geen Partij zijn.
 
-#### Artikel 8. Verplichting tot wederinvoer
+##### Artikel 8. Verplichting tot wederinvoer
 
 Wanneer een grensoverschrijdende overbrenging van gevaarlijke afvalstoffen of andere afvalstoffen waarvoor de instemming van de betrokken Staten is gegeven, met inachtneming van de bepalingen van dit Verdrag, niet kan worden voltooid in overeenstemming met de voorwaarden van het contract, verzekert de Staat van uitvoer dat de afvalstoffen in kwestie door de exporteur worden teruggebracht naar de Staat van uitvoer, indien geen alternatieve regelingen kunnen worden getroffen voor de verwerking ervan op milieuhygiënisch verantwoorde wijze, en wel binnen negentig dagen vanaf het tijdstip waarop de invoerende Staat de Staat van uitvoer en het Secretariaat op de hoogte heeft gesteld, of binnen een ander tijdvak overeengekomen door de betrokken Staten. De Staat van uitvoer noch enige Partij van doorvoer verzet zich tegen, belemmert of verhindert de terugkeer van die afvalstoffen naar de Staat van uitvoer.
 
-#### Artikel 9. Sluikhandel
+##### Artikel 9. Sluikhandel
 
 1. Voor de toepassing van dit Verdrag wordt iedere grensoverschrijdende overbrenging van gevaarlijke afvalstoffen of andere afvalstoffen:
 
@@ -276,7 +301,7 @@ binnen dertig dagen vanaf het tijdstip waarop de Staat van uitvoer op de hoogte 
 
 5. Iedere Partij voert passende nationale/binnenlandse wetgeving in ter voorkoming en bestraffing van sluikhandel. De Partijen werken samen teneinde de doelstellingen van dit artikel te verwezenlijken.
 
-#### Artikel 10. Internationale samenwerking
+##### Artikel 10. Internationale samenwerking
 
 1. De Partijen werken samen teneinde een milieuhygiënisch verantwoord beheer van gevaarlijke afvalstoffen en andere afvalstoffen te bewerkstelligen of te verbeteren.
 
@@ -296,17 +321,17 @@ binnen dertig dagen vanaf het tijdstip waarop de Staat van uitvoer op de hoogte 
 
 4. Gezien de behoeften van de ontwikkelingslanden wordt samenwerking tussen Partijen en de bevoegde internationale organisaties toegejuicht ter bevordering van, onder andere, het publieke bewustzijn, de ontwikkeling van een verantwoord beheer van gevaarlijke afvalstoffen en andere afvalstoffen en de invoering van nieuwe technologieën waarbij weinig afval wordt geproduceerd.
 
-#### Artikel 11. Bilaterale, multilaterale en regionale overeenkomsten
+##### Artikel 11. Bilaterale, multilaterale en regionale overeenkomsten
 
 1. Niettegenstaande de bepalingen van artikel 4, vijfde lid, kunnen Partijen bilaterale, multilaterale of regionale overeenkomsten aangaan of regelingen treffen ten aanzien van de grensoverschrijdende overbrenging van gevaarlijke afvalstoffen of andere afvalstoffen met Partijen of niet-partijen, mits die overeenkomsten of regelingen geen afbreuk doen aan het milieuhygiënisch verantwoord beheer van gevaarlijke afvalstoffen en andere afvalstoffen zoals voorgeschreven bij dit Verdrag. Deze overeenkomsten of regelingen mogen geen bepalingen bevatten die minder milieuhygiënisch verantwoord zijn dan de bepalingen van dit Verdrag, met name rekening houdend met de belangen van ontwikkelingslanden.
 
 2. De Partijen stellen het Secretariaat in kennis van alle bilaterale, multilaterale of regionale overeenkomsten die zij aangaan of regelingen die zij treffen zoals bedoeld in het eerste lid en die zij reeds zijn aangegaan of hebben getroffen voorafgaand aan de inwerkingtreding voor hen van dit Verdrag ter beheersing van grensoverschrijdende overbrengingen van gevaarlijke afvalstoffen en andere afvalstoffen die geheel tussen Partijen bij die overeenkomsten plaatsvinden. De bepalingen van dit Verdrag laten grensoverschrijdende overbrengingen die plaatsvinden ingevolge die overeenkomsten onverlet, mits die overeenkomsten verenigbaar zijn met het milieuhygiënisch verantwoord beheer van gevaarlijke afvalstoffen en andere afvalstoffen zoals voorgeschreven bij dit Verdrag.
 
-#### Artikel 12. Overleg omtrent aansprakelijkheid
+##### Artikel 12. Overleg omtrent aansprakelijkheid
 
 De Partijen werken samen teneinde zo spoedig mogelijk een protocol aan te nemen waarin passende regels en procedures worden vervat op het gebied van aansprakelijkheid voor en vergoeding van schade ten gevolge van de grensoverschrijdende overbrenging en de verwijdering van gevaarlijke afvalstoffen en andere afvalstoffen.
 
-#### Artikel 13. Het toezenden van gegevens
+##### Artikel 13. Het toezenden van gegevens
 
 1. De Partijen verzekeren dat, zodra zij vernemen dat zich een ongeval voordoet tijdens de grensoverschrijdende overbrenging of de verwijdering van gevaarlijke afvalstoffen of andere afvalstoffen dat risico's voor de gezondheid van de mens en het milieu in andere Staten met zich kan brengen, die Staten daar onmiddellijk van in kennis worden gesteld.
 
@@ -352,13 +377,13 @@ De Partijen werken samen teneinde zo spoedig mogelijk een protocol aan te nemen 
 
 4. De Partijen verzekeren, voor zover verenigbaar met hun nationale wetten en regelingen, dat afschriften van iedere mededeling betreffende een grensoverschrijdende overbrenging van gevaarlijke afvalstoffen of andere afvalstoffen, en van het antwoord daarop, aan het Secretariaat worden toegezonden wanneer een Partij die van mening is dat haar milieu kan worden aangetast door die grensoverschrijdende overbrenging, hierom verzoekt.
 
-#### Artikel 14. Financiële aspecten
+##### Artikel 14. Financiële aspecten
 
 1. De Partijen komen overeen dat, overeenkomstig de specifieke behoeften van verschillende regio's en subregio's, regionale of subregionale centra dienen te worden opgericht voor opleiding en overdracht van technologie aangaande het beheer van gevaarlijke afvalstoffen en andere afvalstoffen en voor de beperking tot een minimum van de produktie daarvan. De Partijen zullen beslissen over het instellen van een passend stelsel voor financiering op vrijwillige basis.
 
 2. De Partijen overwegen het instellen van een operationeel fonds om op tijdelijke basis steun te verlenen in geval van noodsituaties om schade ten gevolge van ongevallen die zich voordoen tijdens grensoverschrijdende overbrengingen van gevaarlijke afvalstoffen en andere afvalstoffen of tijdens de verwijdering van die afvalstoffen tot een minimum te beperken.
 
-#### Artikel 15. Conferentie der Partijen
+##### Artikel 15. Conferentie der Partijen
 
 1. Hierbij wordt een Conferentie der Partijen opgericht. De eerste vergadering van de Conferentie der Partijen wordt bijeengeroepen door de Uitvoerend Directeur van het UNEP uiterlijk één jaar na de inwerkingtreding van dit Verdrag. Daarna worden gewone vergaderingen van de Conferentie der Partijen gehouden met regelmatige tussenpozen, door de Conferentie vast te stellen tijdens haar eerste vergadering.
 
@@ -384,7 +409,7 @@ De Partijen werken samen teneinde zo spoedig mogelijk een protocol aan te nemen 
 
 7. De Conferentie der Partijen beoordeelt drie jaar na de inwerkingtreding van dit Verdrag, en ten minste elk zes jaar daarna, de doeltreffendheid ervan en overweegt, indien dit noodzakelijk wordt geacht, het aannemen van een algeheel of gedeeltelijk verbod van grensoverschrijdende overbrenging van gevaarlijke afvalstoffen en andere afvalstoffen in het licht van de meest recente wetenschappelijke, milieuhygiënische, technische en economische gegevens.
 
-#### Artikel 16. Het Secretariaat
+##### Artikel 16. Het Secretariaat
 
 1. De taken van het Secretariaat zijn:
 
@@ -434,7 +459,7 @@ De Partijen werken samen teneinde zo spoedig mogelijk een protocol aan te nemen 
 
 3. Op haar eerste vergadering wijst de Conferentie der Partijen één van die bestaande bevoegde intergouvernementele organisaties die zich bereid hebben verklaard tot het verrichten van de secretariaatstaken ingevolge dit Verdrag, aan als Secretariaat. Op deze vergadering beoordeelt de Conferentie der Partijen tevens het verrichten door het tijdelijke Secretariaat van de aan hem toegewezen taken, met name taken krachtens het eerste lid van dit artikel, en beslist zij over de voor die taken passende structuren.
 
-#### Artikel 17. Wijziging van het Verdrag
+##### Artikel 17. Wijziging van het Verdrag
 
 1. Iedere Partij kan wijzigingen op dit Verdrag voorstellen en iedere Partij bij een protocol kan wijzigingen op dat protocol voorstellen. In die wijzigingen wordt naar behoren rekening gehouden met, onder andere, ter zake dienende wetenschappelijke en technische overwegingen.
 
@@ -448,7 +473,7 @@ De Partijen werken samen teneinde zo spoedig mogelijk een protocol aan te nemen 
 
 6. Voor de toepassing van dit artikel betekent «aanwezige Partijen die hun stem uitbrengen» Partijen die aanwezig zijn en een stem vóór of tegen een voorstel uitbrengen.
 
-#### Artikel 18. Aanneming en wijziging van Bijlagen
+##### Artikel 18. Aanneming en wijziging van Bijlagen
 
 1. De Bijlagen bij dit Verdrag of bij een protocol vormen een integrerend onderdeel van dit Verdrag of van dat protocol, naar gelang van het geval, en tenzij uitdrukkelijk anders is bepaald, vormt een verwijzing naar dit Verdrag of naar de protocollen bij dit Verdrag tegelijkertijd een verwijzing naar de Bijlagen daarbij. Die Bijlagen zijn beperkt tot wetenschappelijke, technische en bestuurlijke aangelegenheden.
 
@@ -464,11 +489,11 @@ De Partijen werken samen teneinde zo spoedig mogelijk een protocol aan te nemen 
 
 4. Indien een bijkomende bijlage of een wijziging op een bijlage een wijziging op het Verdrag of op enig Protocol met zich brengt, treedt de bijkomende bijlage of de gewijzigde bijlage niet in werking tot het tijdstip waarop de wijziging op dit Verdrag of op het protocol in werking treedt.
 
-#### Artikel 19. Verificatie
+##### Artikel 19. Verificatie
 
 Iedere Partij die reden heeft om aan te nemen dat een andere Partij handelt of heeft gehandeld in strijd met haar verplichtingen volgens dit Verdrag kan het Secretariaat daarvan op de hoogte stellen en stelt in dat geval tegelijkertijd en onverwijld, rechtstreeks of door tussenkomst van het Secretariaat, de Partij op de hoogte tegen wie de beschuldigingen zijn gericht. Alle ter zake dienende gegevens dienen door het Secretariaat aan de Partijen te worden voorgelegd.
 
-#### Artikel 20. Beslechting van geschillen
+##### Artikel 20. Beslechting van geschillen
 
 1. In geval van een geschil tussen Partijen over de uitlegging, toepassing of naleving van dit Verdrag of enig protocol daarbij, trachten zij het geschil te beslechten door middel van onderhandeling of op een andere door henzelf te kiezen vreedzame wijze.
 
@@ -482,11 +507,11 @@ Iedere Partij die reden heeft om aan te nemen dat een andere Partij handelt of h
 
 Deze verklaring wordt schriftelijk meegedeeld aan het Secretariaat, dat de andere Partijen ervan in kennis stelt.
 
-#### Artikel 21. Ondertekening
+##### Artikel 21. Ondertekening
 
 Dit Verdrag staat open voor ondertekening door Staten, door Namibië, vertegenwoordigd door de Raad voor Namibië van de Verenigde Naties, en door organisaties voor politieke en/of economische integratie, te Bazel op 22 maart 1989, bij het Ministerie van Buitenlandse Zaken van Zwitserland te Bern van 23 maart 1989 tot 30 juni 1989, en bij de Zetel van de Verenigde Naties te New York van 1 juli 1989 tot 22 maart 1990.
 
-#### Artikel 22. Bekrachtiging, aanvaarding, formele bevestiging of goedkeuring
+##### Artikel 22. Bekrachtiging, aanvaarding, formele bevestiging of goedkeuring
 
 1. Dit Verdrag kan worden bekrachtigd, aanvaard of goedgekeurd door Staten en door Namibië, vertegenwoordigd door de Raad voor Namibië van de Verenigde Naties, en formeel bevestigd of goedgekeurd door organisaties voor politieke en/of economische integratie. De akten van bekrachtiging, aanvaarding, formele bevestiging of goedkeuring worden nedergelegd bij de Depositaris.
 
@@ -494,7 +519,7 @@ Dit Verdrag staat open voor ondertekening door Staten, door Namibië, vertegenwo
 
 3. In hun akten van formele bevestiging of goedkeuring geven de in het eerste lid van dit artikel bedoelde organisaties de reikwijdte aan van hun bevoegdheid aangaande aangelegenheden die door het Verdrag worden geregeld. Deze organisaties stellen de Depositaris tevens op de hoogte van iedere wezenlijke verandering in de reikwijdte van hun bevoegdheid, en de Depositaris stelt de Partijen hiervan in kennis.
 
-#### Artikel 23. Toetreding
+##### Artikel 23. Toetreding
 
 1. Dit Verdrag staat open voor toetreding door Staten, door Namibië, vertegenwoordigd door de Raad voor Namibië van de Verenigde Naties, en door organisaties voor politieke en/of economische integratie vanaf de datum waarop het Verdrag is gesloten voor ondertekening. De akten van toetreding worden nedergelegd bij de Depositaris.
 
@@ -502,13 +527,13 @@ Dit Verdrag staat open voor ondertekening door Staten, door Namibië, vertegenwo
 
 3. De bepalingen van artikel 22, tweede lid, zijn van toepassing op organisaties voor politieke en/of economische integratie die tot dit Verdrag toetreden.
 
-#### Artikel 24. Stemrecht
+##### Artikel 24. Stemrecht
 
 1. Behalve wanneer het bepaalde in het tweede lid van dit artikel van toepassing is, heeft iedere Partij bij dit Verdrag één stem.
 
 2. Organisaties voor politieke en/of economische integratie oefenen in aangelegenheden binnen hun bevoegdheid, in overeenstemming met artikel 22, derde lid en artikel 23, tweede lid, hun stemrecht uit met een aantal stemmen dat gelijk is aan het aantal van hun lidstaten die Partij bij het Verdrag of bij het desbetreffende protocol zijn. Deze organisaties oefenen hun stemrecht niet uit indien hun lidstaten hun stemrecht uitoefenen, en omgekeerd.
 
-#### Artikel 25. Inwerkingtreding
+##### Artikel 25. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking op de negentigste dag na de datum van nederlegging van de twintigste akte van bekrachtiging, aanvaarding, formele bevestiging, goedkeuring of toetreding.
 
@@ -516,51 +541,51 @@ Dit Verdrag staat open voor ondertekening door Staten, door Namibië, vertegenwo
 
 3. Voor de toepassing van het eerste en tweede lid van dit artikel worden akten, nedergelegd door organisaties voor politieke en/of economische integratie, niet geteld naast akten nedergelegd door lidstaten van die organisatie.
 
-#### Artikel 26. Het maken van een voorbehoud en het afleggen van verklaringen
+##### Artikel 26. Het maken van een voorbehoud en het afleggen van verklaringen
 
 1. Ten aanzien van dit Verdrag kan geen voorbehoud of uitzondering worden gemaakt.
 
 2. Het eerste lid van dit artikel belet een Staat of een organisatie voor politieke en/of economische integratie niet, wanneer deze dit Verdrag ondertekent, bekrachtigt, aanvaardt, goedkeurt, formeel bevestigt of ertoe toetreedt, verklaringen af te leggen of uiteenzettingen te geven, ongeacht hoe deze worden verwoord of genoemd, teneinde, onder andere, zijn of haar wetten en regelingen te harmoniseren met de bepalingen van dit Verdrag, mits die verklaringen niet ertoe strekken de wettelijke gevolgen van de bepalingen van het Verdrag bij hun toepassing op die Staat uit te sluiten of te wijzigen.
 
-#### Artikel 27. Opzegging
+##### Artikel 27. Opzegging
 
 1. Na het verstrijken van een periode van drie jaar vanaf de datum waarop dit Verdrag voor de Partij in werking is getreden, kan die Partij het Verdrag te allen tijde opzeggen door middel van een schriftelijke kennisgeving aan de Depositaris.
 
 2. De opzegging wordt van kracht één jaar na ontvangst van die kennisgeving door de Depositaris, of op een latere datum die in de kennisgeving wordt vermeld.
 
-#### Artikel 28. Depositaris
+##### Artikel 28. Depositaris
 
 De Secretaris-Generaal van de Verenigde Naties is de Depositaris van dit Verdrag en van ieder protocol daarbij.
 
-#### Artikel 29. Authentieke teksten
+##### Artikel 29. Authentieke teksten
 
 De originele teksten van dit Verdrag in de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse taal zijn gelijkelijk authentiek.
 
-#### Artikel 1
+##### Artikel 1
 
 Tenzij anders overeengekomen, zoals bedoeld in artikel 20 van het Verdrag, wordt de arbitrageprocedure gevoerd in overeenstemming met de artikelen 2 tot en met 10 hieronder.
 
-#### Artikel 2
+##### Artikel 2
 
 De eisende partij deelt het Secretariaat mee dat de partijen zijn overeengekomen het geschil aan arbitrage te onderwerpen ingevolge het tweede of derde lid van artikel 20 en voegt, in het bijzonder, de artikelen van het Verdrag bij waarover onenigheid bestaat wat de uitlegging of de toepassing ervan betreft. Het Secretariaat zendt de aldus ontvangen gegevens aan alle Partijen bij het Verdrag.
 
-#### Artikel 3
+##### Artikel 3
 
 Het scheidsgerecht bestaat uit drie leden. Ieder van de partijen bij het geschil benoemt een scheidsman, en de twee aldus benoemde scheidsmannen wijzen in onderlinge overeenstemming de derde scheidsman aan, die de voorzitter van het scheidsgerecht zal zijn. De laatstbedoelde dient geen staatsburger te zijn van één van de partijen bij het geschil, noch zijn gewone verblijfplaats te hebben op het grondgebied van één van deze partijen, noch werknemer van één van hen te zijn, noch de aangelegenheid in een andere hoedanigheid te hebben behandeld.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien de voorzitter van het scheidsgerecht niet binnen twee maanden na de benoeming van de tweede scheidsman is aangewezen, wijst de Secretaris-Generaal der Verenigde Naties deze op verzoek van één van beide partijen aan binnen een volgend tijdvak van twee maanden.
 
 2. Indien één van de partijen bij het geschil niet binnen twee maanden na ontvangst van het verzoek daartoe een scheidsman benoemt, kan de andere partij dit ter kennis brengen van de Secretaris-Generaal der Verenigde Naties, die binnen een volgend tijdvak van twee maanden de voorzitter van het scheidsgerecht aanwijst. Zodra hij is aangewezen, verzoekt de voorzitter van het scheidsgerecht de partij die geen scheidsman heeft benoemd, dit binnen twee maanden te doen. Na verloop van dat tijdvak stelt hij de Secretaris-Generaal der Verenigde Naties op de hoogte, die deze benoeming verricht binnen een volgend tijdvak van twee maanden.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het scheidsgerecht doet uitspraak in overeenstemming met het internationale recht en in overeenstemming met de bepalingen van dit Verdrag.
 
 2. Een scheidsgerecht gevormd krachtens de bepalingen van deze Bijdrage stelt zijn eigen procedureregels op.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De beslissingen van het scheidsgerecht zowel aangaande de procedure als aangaande de zaak zelve, worden genomen met een meerderheid van de stemmen van zijn leden.
 
@@ -570,19 +595,19 @@ Het scheidsgerecht bestaat uit drie leden. Ieder van de partijen bij het geschil
 
 4. De afwezigheid of het verzuim van een partij bij het geschil vormt geen belemmering voor de procedure.
 
-#### Artikel 7
+##### Artikel 7
 
 Het scheidsgerecht kan tegeneisen horen en vaststellen die rechtstreeks uit de materie van het geschil voortkomen.
 
-#### Artikel 8
+##### Artikel 8
 
 Tenzij het scheidsgerecht anders bepaalt gezien de bijzondere omstandigheden van de zaak, worden de kosten van het scheidsgerecht, daaronder begrepen de bezoldiging van zijn leden, in gelijke delen door de partijen bij het geschil gedragen. Het scheidsgerecht houdt aantekening van al zijn onkosten, en verstrekt de partijen daarvan een definitieve opgave.
 
-#### Artikel 9
+##### Artikel 9
 
 Iedere Partij die bij het onderwerp van het geschil een belang van juridische aard heeft dat door de beslissing in de zaak geschaad kan worden, kan zich voegen in de procedure indien het scheidsgerecht hiermee instemt.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het scheidsgerecht komt binnen vijf maanden na de datum waarop het is ingesteld tot een uitspraak, tenzij het het nodig acht de termijn te verlengen voor een tijdvak van niet langer dan vijf maanden.
 
@@ -594,37 +619,37 @@ IN WITNESS WHEREOF, the undersigned, being duly authorized to that effect, have 
 
 DONE at Basel on the 22nd day of March 1989
 
-#### Artikel 4A
+##### Artikel 4A
 
 1. Iedere in Bijlage VII genoemde Partij verbiedt de grensoverschrijdende overbrenging van gevaarlijke afvalstoffen naar andere Staten dan de in Bijlage VII genoemde, wanneer deze zijn bestemd om te worden verwijderd volgens handelingen als bedoeld in Bijlage IV A.
 
 2. Iedere in Bijlage VII genoemde Partij beëindigt tot 31 december 1997 geleidelijk de grensoverschrijdende overbrenging van gevaarlijke afvalstoffen als bedoeld in artikel 1, eerste lid, letter a, van het Verdrag naar andere Staten dan de in de Bijlage VII genoemde, wanneer deze zijn bestemd om te worden verwijderd volgens handelingen als bedoeld in Bijlage IV B, en verbiedt deze met ingang van die datum. Een dergelijke grensoverschrijdende overbrenging wordt slechts verboden, wanneer de desbetreffende afvalstoffen in het Verdrag als gevaarlijk worden aangemerkt.
 
-#### Artikel 1
+##### Artikel 1
 
 Tenzij anders overeengekomen, zoals bedoeld in artikel 20 van het Verdrag, wordt de arbitrageprocedure gevoerd in overeenstemming met de artikelen 2 tot en met 10 hieronder.
 
-#### Artikel 2
+##### Artikel 2
 
 De eisende partij deelt het Secretariaat mee dat de partijen zijn overeengekomen het geschil aan arbitrage te onderwerpen ingevolge het tweede of derde lid van artikel 20 en voegt, in het bijzonder, de artikelen van het Verdrag bij waarover onenigheid bestaat wat de uitlegging of de toepassing ervan betreft. Het Secretariaat zendt de aldus ontvangen gegevens aan alle Partijen bij het Verdrag.
 
-#### Artikel 3
+##### Artikel 3
 
 Het scheidsgerecht bestaat uit drie leden. Ieder van de partijen bij het geschil benoemt een scheidsman, en de twee aldus benoemde scheidsmannen wijzen in onderlinge overeenstemming de derde scheidsman aan, die de voorzitter van het scheidsgerecht zal zijn. De laatstbedoelde dient geen staatsburger te zijn van één van de partijen bij het geschil, noch zijn gewone verblijfplaats te hebben op het grondgebied van één van deze partijen, noch werknemer van één van hen te zijn, noch de aangelegenheid in een andere hoedanigheid te hebben behandeld.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien de voorzitter van het scheidsgerecht niet binnen twee maanden na de benoeming van de tweede scheidsman is aangewezen, wijst de Secretaris-Generaal der Verenigde Naties deze op verzoek van één van beide partijen aan binnen een volgend tijdvak van twee maanden.
 
 2. Indien één van de partijen bij het geschil niet binnen twee maanden na ontvangst van het verzoek daartoe een scheidsman benoemt, kan de andere partij dit ter kennis brengen van de Secretaris-Generaal der Verenigde Naties, die binnen een volgend tijdvak van twee maanden de voorzitter van het scheidsgerecht aanwijst. Zodra hij is aangewezen, verzoekt de voorzitter van het scheidsgerecht de partij die geen scheidsman heeft benoemd, dit binnen twee maanden te doen. Na verloop van dat tijdvak stelt hij de Secretaris-Generaal der Verenigde Naties op de hoogte, die deze benoeming verricht binnen een volgend tijdvak van twee maanden.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het scheidsgerecht doet uitspraak in overeenstemming met het internationale recht en in overeenstemming met de bepalingen van dit Verdrag.
 
 2. Een scheidsgerecht gevormd krachtens de bepalingen van deze Bijdrage stelt zijn eigen procedureregels op.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De beslissingen van het scheidsgerecht zowel aangaande de procedure als aangaande de zaak zelve, worden genomen met een meerderheid van de stemmen van zijn leden.
 
@@ -634,19 +659,19 @@ Het scheidsgerecht bestaat uit drie leden. Ieder van de partijen bij het geschil
 
 4. De afwezigheid of het verzuim van een partij bij het geschil vormt geen belemmering voor de procedure.
 
-#### Artikel 7
+##### Artikel 7
 
 Het scheidsgerecht kan tegeneisen horen en vaststellen die rechtstreeks uit de materie van het geschil voortkomen.
 
-#### Artikel 8
+##### Artikel 8
 
 Tenzij het scheidsgerecht anders bepaalt gezien de bijzondere omstandigheden van de zaak, worden de kosten van het scheidsgerecht, daaronder begrepen de bezoldiging van zijn leden, in gelijke delen door de partijen bij het geschil gedragen. Het scheidsgerecht houdt aantekening van al zijn onkosten, en verstrekt de partijen daarvan een definitieve opgave.
 
-#### Artikel 9
+##### Artikel 9
 
 Iedere Partij die bij het onderwerp van het geschil een belang van juridische aard heeft dat door de beslissing in de zaak geschaad kan worden, kan zich voegen in de procedure indien het scheidsgerecht hiermee instemt.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het scheidsgerecht komt binnen vijf maanden na de datum waarop het is ingesteld tot een uitspraak, tenzij het het nodig acht de termijn te verlengen voor een tijdvak van niet langer dan vijf maanden.
 

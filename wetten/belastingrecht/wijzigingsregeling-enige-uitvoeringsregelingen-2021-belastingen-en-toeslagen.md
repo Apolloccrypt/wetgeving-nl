@@ -1,100 +1,126 @@
 ---
-title: "Wijzigingsregeling enige uitvoeringsregelingen 2021 (belastingen en toeslagen)"
+title: "Regeling van de Staatssecretaris van Financiën van 28 december 2021 tot wijziging van onder meer enige uitvoeringsregelingen op het gebied van belastingen en toeslagen"
 identifier: "BWBR0046114"
-categorie: "Belastingrecht"
-publicatiedatum: 2023-01-01
-laatste_update: 2023-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046114"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-01-01"
+last_updated: "2023-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046114"
+soort: "ministeriele-regeling"
+stam_id: "16205863"
+version_id: "28286662"
+internal_id: "C39879801"
+label_id: "16134084"
+dtd_version: "2.0"
+original_entry_into_force: "2022-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046114/2023-01-01/0"
+intitule_bron: "Stcrt.2021-48636"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-12-28"
+intitule_published: "2021-12-28"
+intitule_in_force: "2021-12-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-48636"
+original_signed_date: "2021-12-28"
+original_published_date: "2021-12-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-48636"
+entry_into_force_date: "2022-01-01"
+jci_1_3: "jci1.3:c:BWBR0046114&z=2023-01-01&g=2023-01-01"
+jci_1_0: "1.0:c:BWBR0046114&g=2023-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsregeling enige uitvoeringsregelingen 2021 (belastingen en toeslagen)"
+signed_date: "2021-12-28"
+entry_into_force: "2022-01-01"
 ---
-
 # Regeling van de Staatssecretaris van Financiën van 28 december 2021 tot wijziging van onder meer enige uitvoeringsregelingen op het gebied van belastingen en toeslagen
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Uitvoeringsregeling inkomstenbelasting 2001.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Uitvoeringsregeling Algemene wet inkomensafhankelijke regelingen.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Uitvoeringsregeling loonbelasting 2011.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Regeling loonbelasting- en premietabellen 1990.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Regeling gegevensuitvraag loonaangifte.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Uitvoeringsbeschikking vennootschapsbelasting 1971.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Regeling laagbelastende staten en niet-coöperatieve rechtsgebieden voor belastingdoeleinden.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Uitvoeringsbeschikking dividendbelasting 1965.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Uitvoeringsregeling bronbelasting 2021.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Uitvoeringsregeling Registratiewet 1970.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt de Uitvoeringsbeschikking omzetbelasting 1968.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt de Algemene douaneregeling.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt de Uitvoeringsregeling accijns.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt de Uitvoeringsregeling belasting van personenauto's en motorrijwielen 1992.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt de Uitvoeringsregeling belasting van personenauto’s en motorrijwielen 1992.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt de Uitvoeringsregeling belastingen op milieugrondslag.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Wijzigt de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Wijzigt de Uitvoeringsregeling Belastingdienst 2003.
 
-#### Artikel XIX
+##### Artikel XIX
 
 Wijzigt de Regeling elektronisch berichtenverkeer Belastingdienst.
 
-#### Artikel XX
+##### Artikel XX
 
 Wijzigt de Uitvoeringsregeling Invorderingswet 1990.
 
-#### Artikel XXI
+##### Artikel XXI
 
 **Artikel 4**, eerste lid, van de [Uitvoeringsregeling Registratiewet 1970](https://wetten.overheid.nl/jci1.3:c:BWBR0034017), zoals dat luidde op 31 december 2021, blijft tot en met 31 maart 2022 van toepassing op notarissen die niet kunnen voldoen aan [artikel 4, eerste lid, van de Uitvoeringsregeling Registratiewet 1970](https://wetten.overheid.nl/jci1.3:c:BWBR0034017&artikel=4), zoals dat luidt met ingang van 1 januari 2022.
 
-#### Artikel XXII
+##### Artikel XXII
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2022, met dien verstande dat:
 

@@ -1,18 +1,43 @@
 ---
 title: "Regeling multidisciplinaire zorg"
 identifier: "BWBR0051268"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051268"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051268"
+soort: "zbo"
+stam_id: "17476443"
+version_id: "30822262"
+internal_id: "C44172421"
+label_id: "17378794"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051268/2026-01-01/0"
+intitule_bron: "Stcrt.2025-24389"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-06-24"
+intitule_published: "2025-07-17"
+intitule_in_force: "2025-07-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-24389"
+original_signed_date: "2025-06-24"
+original_published_date: "2025-07-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-24389"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051268&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051268&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2025-06-24"
+entry_into_force: "2026-01-01"
 ---
-
 # Regeling multidisciplinaire zorg
 
 Gelet op [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=36), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=37) en [38](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=38) en [artikel 40 lid 4, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40) (Wmg), is de Nederlandse Zorgautoriteit (NZa) bevoegd tot het vaststellen van regels op het gebied van de multidisciplinaire zorg.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt, tenzij anders vermeld, verstaan onder:
 
@@ -52,7 +77,7 @@ In deze regeling wordt, tenzij anders vermeld, verstaan onder:
 
 - **De beleidsregel:** De Beleidsregel huisartsenzorg en multidisciplinaire zorg.
 
-#### Artikel 2. Doel van de regeling
+##### Artikel 2. Doel van de regeling
 
 Deze regeling heeft tot doel het stellen van de navolgende voorschriften met betrekking tot de multidisciplinaire zorgverlening chronische aandoeningen (DM type 2, VRM, COPD, Astma):
 
@@ -62,11 +87,11 @@ Deze regeling heeft tot doel het stellen van de navolgende voorschriften met bet
 
 - •. Transparantievoorschriften teneinde te bewerkstelligen dat consumenten tijdig en zorgvuldig geïnformeerd worden over de eigenschappen van de betreffende prestatie met het oog op doeltreffendheid, juistheid, inzichtelijkheid en vergelijkbaarheid van de informatie. Met deze informatie kunnen patiënten een weloverwogen keuze maken voor het aangaan van een overeenkomst met betrekking tot ketenzorg.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze regeling is van toepassing op zorgaanbieders die multidisciplinaire eerstelijnszorg aanbieden zoals omschreven bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) (Zvw).
 
-#### Artikel 4. Declaratie
+##### Artikel 4. Declaratie
 
 1. **Hoofdcontractant**
 
@@ -122,7 +147,7 @@ Het overeengekomen tarief dient per kwartaal2Het kwartaaltarief is een kwart van
 
 - 5.3. **Tarief onderlinge dienstverlening** De tarieven voor onderlinge dienstverlening zijn vrij.
 
-#### Artikel 5. Declaratiebepalingen betreffende samenloop
+##### Artikel 5. Declaratiebepalingen betreffende samenloop
 
 1. **Samenloop met de eerstelijnszorg**
 
@@ -138,7 +163,7 @@ De prestaties zoals vermeld onder 1.1 a en b beschrijven een zorgtraject voor tw
 
 4. In die gevallen waar een contractuele relatie tussen zorgaanbieder en zorgverzekeraar ontbreekt (bij declaratie van de prestaties c, d en e zoals beschreven in [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0051268&artikel=1&z=2026-01-01&g=2026-01-01)) zal de declarerende partij de patiënt, de zorgverzekeraar dan wel de NZa op verzoek duidelijk moeten maken welke onderaannemers betrokken zijn bij het samenwerkingsverband.
 
-#### Artikel 6. Administratievoorschriften
+##### Artikel 6. Administratievoorschriften
 
 1. **Minimale Dataset**
 
@@ -150,7 +175,7 @@ De indicatorensets zoals deze worden gehanteerd bij de landelijke benchmark kete
 
 De hoofdcontractant draagt zorg voor registratie van de contactmomenten tussen huisartsgeneeskundige zorgverleners en patiënt, die zorginhoudelijk verband houden met de zorg die via de ketenprestatie is ingekocht. Dit biedt de zorgverzekeraar een mogelijkheid om te controleren of zorg die reeds via de keten wordt bekostigd niet separaat via de bekostigingssystematiek van de individuele zorgaanbieders in onderaannemerschap wordt gedeclareerd.
 
-#### Artikel 7. Transparantievoorschriften
+##### Artikel 7. Transparantievoorschriften
 
 1. **Zorgaanbieder**
 
@@ -192,11 +217,11 @@ De hoofdcontractant draagt zorg voor registratie van de contactmomenten tussen h
 
 - •. De prijs van de prestatie geldt voor de duur van het betreffende kalenderjaar.
 
-#### Artikel 8. Intrekken oude regeling
+##### Artikel 8. Intrekken oude regeling
 
 Gelijktijdig met de inwerkingtreding van deze regeling wordt de [Regeling multidisciplinaire zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0039832), met kenmerk NR/REG-1821, ingetrokken.
 
-#### Artikel 9. Toepasselijkheid voorafgaande regeling, bekendmaking, inwerkingtreding en citeertitel
+##### Artikel 9. Toepasselijkheid voorafgaande regeling, bekendmaking, inwerkingtreding en citeertitel
 
 De [Regeling multidisciplinaire zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0039832), met kenmerk NR/REG-1821, blijft van toepassing op gedragingen (handelen en nalaten) van zorgaanbieders die onder de werkingssfeer van die regeling vielen en die zijn aangevangen – en al dan niet beëindigd – in de periode dat die regeling gold.
 

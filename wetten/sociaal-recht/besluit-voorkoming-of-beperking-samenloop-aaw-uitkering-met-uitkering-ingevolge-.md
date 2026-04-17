@@ -1,13 +1,37 @@
 ---
-title: "Besluit voorkoming of beperking samenloop AAW-uitkering met uitkering ingevolge de sociale wetgeving van een andere Mogendheid"
+title: "Besluit van 19 oktober 1976, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 43, van de Algemene Arbeidsongeschiktheidswet"
 identifier: "BWBR0003064"
-categorie: "Sociaal recht"
-publicatiedatum: 2021-01-01
-laatste_update: 2021-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003064"
+country: "nl"
+rank: "amvb"
+publication_date: "2021-01-01"
+last_updated: "2021-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003064"
+soort: "AMvB"
+stam_id: "1210383"
+version_id: "26912862"
+internal_id: "C38107751"
+label_id: "1172184"
+dtd_version: "2.0"
+original_entry_into_force: "2020-07-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003064/2021-01-01/0"
+intitule_bron: "Stb.1976-526"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1976-10-19"
+intitule_status: "goed"
+original_publication: "Stb.2020-280"
+original_signed_date: "2020-07-16"
+original_published_date: "2020-07-23"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2020-280"
+entry_into_force_date: "2020-07-16"
+jci_1_3: "jci1.3:c:BWBR0003064&z=2021-01-01&g=2021-01-01"
+jci_1_0: "1.0:c:BWBR0003064&g=2021-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit voorkoming of beperking samenloop AAW-uitkering met uitkering ingevolge de sociale wetgeving van een andere Mogendheid"
+signed_date: "2020-07-16"
+entry_into_force: "2020-07-16"
 ---
-
 # Besluit van 19 oktober 1976, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 43, van de Algemene Arbeidsongeschiktheidswet
 
 Op voordracht van de Staatssecretaris van Sociale Zaken van 21 september 1976, Directoraat-Generaal voor Sociale Voorzieningen, Stafafdeling B.O., nr. 54414;
@@ -22,7 +46,7 @@ Gezien het nader rapport van de Staatssecretaris van Sociale Zaken van 14 oktobe
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Bij samenloop over eenzelfde tijdvak van een arbeidsongeschiktheidsuitkering op grond van de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656) of de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) met één of meer van de navolgende ingevolge de sociale wetgeving van één of meer andere Mogendheden toegekende uitkeringen:
 
@@ -36,7 +60,7 @@ Hebben goedgevonden en verstaan:
 
 2. Bij de toepassing van het bepaalde in het vorige lid wordt met een in dat lid onder a bedoelde uitkering slechts rekening gehouden, indien en voor zover deze is verleend ter zake van dezelfde arbeidsongeschiktheid als de arbeidsongeschiktheidsuitkering.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Indien ingevolge het vorige artikel bij de vaststelling van het bedrag van de uit te betalen arbeidsongeschiktheidsuitkering twee of meer uitkeringen ingevolge de sociale wetgeving van één of meer andere Mogendheden in aanmerking moeten worden genomen, welke reeds onderling onderhevig zijn aan de werking van anticumulatiebepalingen, wordt als bedrag van de betrokken uitkeringen in aanmerking genomen het bedrag, dat is vastgesteld na toepassing van de vorenbedoelde anticumulatiebepalingen.
 
@@ -44,7 +68,7 @@ Hebben goedgevonden en verstaan:
 
 3. Indien ter zake van de samenloop met een uitkering ingevolge de sociale wetgeving van een andere Mogendheid zowel het bepaalde in het eerste lid, als het bepaalde in het tweede lid van toepassing is, wordt voor de toepassing van het tweede lid genoemde uitkering in aanmerking genomen voor hetzelfde bedrag, als waarvoor die uitkering in aanmerking zou moeten worden genomen als alleen het bepaalde in het eerste lid van toepassing was.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Wanneer een periodieke uitkering ingevolge de sociale wetgeving van een of andere Mogendheid, welke van invloed was op de hoogte van het overeenkomstig de voorgaande artikelen tot uitbetaling komende bedrag van de arbeidsongeschiktheidsuitkering, is afgekocht, blijft het bedrag van de uit te betalen arbeidsongeschiktheidsuitkering vastgesteld, alsof de eerstbedoelde uitkering niet was afgekocht. Na de beëindiging van de periodieke uitkering wordt de betrokkene geacht uit hoofde van de ontvangen afkoopsom een periodieke uitkering te ontvangen ter hoogte van de periodieke uitkering, die laatstelijk voor die beëindiging werd genoten.
 
@@ -52,7 +76,7 @@ Hebben goedgevonden en verstaan:
 
 3. Indien, na toepassing van het eerste of tweede lid, het uit te betalen bedrag van de arbeidsongeschiktheidsuitkering moet worden herberekend, wordt het overeenkomstig de voorgaande leden vastgestelde in mindering te brengen bedrag naar evenredigheid aangepast aan de herzieningen van het minimumloon, bedoeld in [artikel 8, achtste lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=8) en in de [artikelen 1:1, eerste lid, onderdeel m](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=1:1), en [3:7, tweede lid, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:7), die sedert de beëindiging van die periodieke uitkering hebben plaatsgevonden.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De bij de toepassing van de voorgaande artikelen noodzakelijke omrekening in euro van een niet in euro uitgedrukte uitkering op grond van de sociale wetgeving van een andere Mogendheid geschiedt met behulp van de door de Europese Centrale Bank geadviseerde wisselkoersen.
 
@@ -62,7 +86,7 @@ Hebben goedgevonden en verstaan:
 
 - b. tenminste een keer per jaar een omrekening plaatsvindt.
 
-#### Artikel 5
+##### Artikel 5
 
 Voor zoveel nodig in afwijking van het bepaalde in de voorgaande artikelen wordt:
 
@@ -70,17 +94,17 @@ Voor zoveel nodig in afwijking van het bepaalde in de voorgaande artikelen wordt
 
 - b. in geval van een herziening van het bedrag van de uitkering ingevolge de sociale wetgeving van een andere Mogendheid als gevolg van een wijziging van het loon- en/of prijspeil geen wijziging gebracht in het laatstelijk voor de ingangsdatum van die herziening tot uitbetaling komende bedrag van de arbeidsongeschiktheidsuitkering.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst, en werkt terug tot 1 oktober 1976.
 
 Lasten en bevelen dat dit besluit in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 5a. Grondslag besluit
+##### Artikel 5a. Grondslag besluit
 
 Dit besluit berust op [artikel 59a, zevende lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=59a) en [artikel 3:50, vijfde lid, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:50).
 
-#### Artikel 6a. Citeertitel
+##### Artikel 6a. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit voorkoming of beperking samenloop AAW-uitkering met uitkering ingevolge de sociale wetgeving van een andere Mogendheid.
 

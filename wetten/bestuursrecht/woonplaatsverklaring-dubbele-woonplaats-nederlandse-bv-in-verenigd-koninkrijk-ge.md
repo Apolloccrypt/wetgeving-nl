@@ -1,13 +1,37 @@
 ---
 title: "Woonplaatsverklaring, dubbele woonplaats, Nederlandse BV in Verenigd Koninkrijk gevestigd"
 identifier: "BWBR0004574"
-categorie: "Bestuursrecht"
-publicatiedatum: 1989-06-12
-laatste_update: 1989-06-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004574"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "1989-06-12"
+last_updated: "1989-06-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004574"
+soort: "beleidsregel"
+stam_id: "8398013"
+version_id: "13270712"
+internal_id: "C18431831"
+label_id: "8378794"
+dtd_version: "2.0"
+original_entry_into_force: "1989-06-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004574/1989-06-12/0"
+intitule_bron: "Infob.1989-6"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1989-06-12"
+intitule_published: "1989-01-01"
+intitule_in_force: "1989-01-01"
+intitule_status: "goed"
+original_publication: "Infob.1989-6"
+original_signed_date: "1989-06-12"
+original_published_date: "1989-01-01"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1989-06-12"
+jci_1_3: "jci1.3:c:BWBR0004574&z=1989-06-12&g=1989-06-12"
+jci_1_0: "1.0:c:BWBR0004574&g=1989-06-12"
+citeertitel_status: "redactioneel"
+signed_date: "1989-06-12"
+entry_into_force: "1989-06-12"
 ---
-
 # Woonplaatsverklaring, dubbele woonplaats, Nederlandse BV in Verenigd Koninkrijk gevestigd
 
 De Directeur-Generaal Belastingdienst heeft namens de Staatssecretaris van Financiën het volgende besloten

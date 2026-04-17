@@ -1,13 +1,35 @@
 ---
-title: "Besluit instelling departementen van onderwijs, kunsten en wetenschappen en van arbeid"
+title: "Besluit van 25 september 1918, tot instelling van Departementen van Algemeen Bestuur die de naam zullen dragen van Ministerie van Onderwijs, Kunsten en Wetenschappen en van Ministerie van Arbeid"
 identifier: "BWBR0001894"
-categorie: "Arbeidsrecht"
-publicatiedatum: 1918-09-27
-laatste_update: 1918-09-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0001894"
+country: "nl"
+rank: "kb"
+publication_date: "1918-09-27"
+last_updated: "1918-09-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0001894"
+soort: "KB"
+stam_id: "626713"
+version_id: "910662"
+internal_id: "C910661"
+label_id: "608044"
+dtd_version: "2.0"
+original_entry_into_force: "1918-09-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0001894/1918-09-27/0"
+intitule_bron: "Stb.1918-551"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1918-09-25"
+intitule_status: "goed"
+original_publication: "Stb.1918-551"
+original_signed_date: "1918-09-25"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1918-09-27"
+jci_1_3: "jci1.3:c:BWBR0001894&z=1918-09-27&g=1918-09-27"
+jci_1_0: "1.0:c:BWBR0001894&g=1918-09-27"
+citeertitel_status: "officieel"
+short_title: "Besluit instelling departementen van onderwijs, kunsten en wetenschappen en van arbeid"
+signed_date: "1918-09-25"
+entry_into_force: "1918-09-27"
 ---
-
 # Besluit van 25 september 1918, tot instelling van Departementen van Algemeen Bestuur die de naam zullen dragen van Ministerie van Onderwijs, Kunsten en Wetenschappen en van Ministerie van Arbeid
 
 Op het rapport van den Raad van Ministers van 11 September 1918;

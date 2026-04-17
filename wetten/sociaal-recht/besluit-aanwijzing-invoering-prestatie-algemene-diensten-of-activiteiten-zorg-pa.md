@@ -1,13 +1,39 @@
 ---
-title: "Besluit aanwijzing invoering prestatie algemene diensten of activiteiten zorg Parkinsonpatiënten"
+title: "Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 21 oktober 2022, kenmerk 3452903-1038179-PZo, inzake de invoering van een prestatie voor algemene diensten of activiteiten ten behoeve van zorg voor Parkinsonpatiënten"
 identifier: "BWBR0047407"
-categorie: "Sociaal recht"
-publicatiedatum: 2022-11-01
-laatste_update: 2022-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047407"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-11-01"
+last_updated: "2022-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047407"
+soort: "ministeriele-regeling"
+stam_id: "16548883"
+version_id: "29008962"
+internal_id: "C41063101"
+label_id: "16469844"
+dtd_version: "2.0"
+original_entry_into_force: "2022-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047407/2022-11-01/0"
+intitule_bron: "Stcrt.2022-28880"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-10-21"
+intitule_published: "2022-11-01"
+intitule_in_force: "2022-11-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-28880"
+original_signed_date: "2022-10-21"
+original_published_date: "2022-11-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-28880"
+entry_into_force_date: "2022-11-01"
+jci_1_3: "jci1.3:c:BWBR0047407&z=2022-11-01&g=2022-11-01"
+jci_1_0: "1.0:c:BWBR0047407&g=2022-11-01"
+citeertitel_status: "redactioneel"
+short_title: "Besluit aanwijzing invoering prestatie algemene diensten of activiteiten zorg Parkinsonpatiënten"
+signed_date: "2022-10-21"
+entry_into_force: "2022-11-01"
 ---
-
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 21 oktober 2022, kenmerk 3452903-1038179-PZo, inzake de invoering van een prestatie voor algemene diensten of activiteiten ten behoeve van zorg voor Parkinsonpatiënten
 
 Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
@@ -16,7 +42,7 @@ Na op 13 september 2022 schriftelijk mededeling te hebben gedaan aan de Eerste e
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze aanwijzing wordt verstaan onder:
 
@@ -32,7 +58,7 @@ In deze aanwijzing wordt verstaan onder:
 
 - –. **zorgautoriteit:** Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3);
 
-#### Artikel 2. Werkingssfeer
+##### Artikel 2. Werkingssfeer
 
 Deze aanwijzing is van toepassing op ‘algemene diensten of activiteiten ten behoeve van zorg voor Parkinsonpatiënten’.
 
@@ -58,11 +84,11 @@ Het gaat hierbij om de volgende activiteiten of diensten ten behoeve van zorg vo
 
 - –. Innovatie binnen de netwerkzorg; de zorgkwaliteit en kostenbeheersing kunnen verder toenemen door implementatie van e-health en hulpmiddelen voor zelfmanagement.
 
-#### Artikel 3. Prestatiebeschrijvingen en tarieven
+##### Artikel 3. Prestatiebeschrijvingen en tarieven
 
 De zorgautoriteit stelt per 1 januari 2023 een prestatiebeschrijving vast met een vrij tarief voor activiteiten en diensten ten behoeve van zorg voor Parkinsonpatiënten.
 
-#### Artikel 4. Voorwaarden
+##### Artikel 4. Voorwaarden
 
 De zorgautoriteit kan voorschriften of beperkingen aan de vaststelling van de aangevraagde prestatiebeschrijving verbinden.
 

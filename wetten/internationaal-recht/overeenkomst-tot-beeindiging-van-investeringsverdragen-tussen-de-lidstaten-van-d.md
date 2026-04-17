@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst tot beëindiging van investeringsverdragen tussen de lidstaten van de Europese Unie"
 identifier: "BWBV0006867"
-categorie: "Internationaal recht"
-publicatiedatum: 2021-03-31
-laatste_update: 2021-03-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006867"
+country: "nl"
+rank: "verdrag"
+publication_date: "2021-03-31"
+last_updated: "2021-03-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006867"
+soort: "verdrag"
+stam_id: "10005553113"
+version_id: "10006048652"
+internal_id: "C10009801511"
+label_id: "10005536544"
+dtd_version: "2.0"
+original_entry_into_force: "2021-03-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006867/2021-03-31/0"
+intitule_bron: "Trb.2020-52"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2020-05-20"
+intitule_in_force: "2021-03-26"
+intitule_status: "goed"
+original_publication: "Trb.2020-52"
+original_published_date: "2020-05-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2020-52"
+entry_into_force_date: "2021-03-31"
+jci_1_3: "jci1.3:c:BWBV0006867&z=2021-03-31&g=2021-03-31"
+jci_1_0: "1.0:c:BWBV0006867&g=2021-03-31"
+citeertitel_status: "redactioneel"
+entry_into_force: "2021-03-31"
 ---
-
 # Overeenkomst tot beëindiging van investeringsverdragen tussen de lidstaten van de Europese Unie
 
 De overeenkomstsluitende partijen,
@@ -96,7 +118,7 @@ Hebben overeenstemming bereikt omtrent de volgende bepalingen:
 
 ### AFDELING 1. DEFINITIES
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 Voor de toepassing van deze overeenkomst wordt verstaan onder:
 
@@ -120,17 +142,17 @@ Voor de toepassing van deze overeenkomst wordt verstaan onder:
 
 ### AFDELING 2. BEPALINGEN BETREFFENDE DE BEËINDIGING VAN BILATERALE INVESTERINGSVERDRAGEN
 
-#### Artikel 2. Beëindiging van Bilaterale Investeringsverdragen
+##### Artikel 2. Beëindiging van Bilaterale Investeringsverdragen
 
 1. De in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&bijlage=A&z=2021-03-31&g=2021-03-31) genoemde Bilaterale Investeringsverdragen worden beëindigd in overeenstemming met de voorwaarden van deze overeenkomst.
 
 2. Om meer zekerheid te bieden, worden de Horizonclausules van de in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&bijlage=A&z=2021-03-31&g=2021-03-31) genoemde Bilaterale Investeringsverdragen beëindigd in overeenstemming met lid 1 van dit artikel en hebben zij geen rechtsgevolgen.
 
-#### Artikel 3. Beëindiging van mogelijke gevolgen van Horizonclausules
+##### Artikel 3. Beëindiging van mogelijke gevolgen van Horizonclausules
 
 Horizonclausules van de in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&bijlage=B&z=2021-03-31&g=2021-03-31) genoemde Bilaterale Investeringsverdragen worden beëindigd door deze overeenkomst en hebben geen rechtsgevolgen, in overeenstemming met de voorwaarden van deze overeenkomst.
 
-#### Artikel 4. Gemeenschappelijke bepalingen
+##### Artikel 4. Gemeenschappelijke bepalingen
 
 1. De Overeenkomstsluitende Partijen bevestigen dat Arbitragebedingen strijdig zijn met de EU-Verdragen en derhalve geen toepassing kunnen vinden. Als gevolg van deze onverenigbaarheid tussen Arbitragebedingen en de EU-Verdragen kan vanaf de datum waarop de laatste van de partijen bij een Bilateraal Investeringsverdrag een lidstaat van de Europese Unie werd, het Arbitragebeding in een dergelijk Bilateraal Investeringsverdrag niet als rechtsgrondslag voor Arbitrageprocedures dienen.
 
@@ -138,17 +160,17 @@ Horizonclausules van de in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0
 
 ### AFDELING 3. BEPALINGEN BETREFFENDE VORDERINGEN OP GROND VAN BILATERALE INVESTERINGSVERDRAGEN
 
-#### Artikel 5. Nieuwe Arbitrageprocedures
+##### Artikel 5. Nieuwe Arbitrageprocedures
 
 Arbitragebedingen dienen niet als rechtsgrondslag voor Nieuwe Arbitrageprocedures.
 
-#### Artikel 6. Beëindigde Arbitrageprocedures
+##### Artikel 6. Beëindigde Arbitrageprocedures
 
 1. Onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&afdeling=2&artikel=4&z=2021-03-31&g=2021-03-31) doet deze overeenkomst geen afbreuk aan Beëindigde Arbitrageprocedures. Deze procedures worden niet heropend.
 
 2. Daarnaast doet deze overeenkomst geen afbreuk aan elke overeenkomst om een geschil ten aanzien waarvan vóór 6 maart 2018 een Arbitrageprocedure is ingeleid, in der minne te schikken.
 
-#### Artikel 7. Plichten van de Overeenkomstsluitende Partijen in verband met Aanhangige Arbitrageprocedures en Nieuwe Arbitrageprocedures
+##### Artikel 7. Plichten van de Overeenkomstsluitende Partijen in verband met Aanhangige Arbitrageprocedures en Nieuwe Arbitrageprocedures
 
 Ingeval de Overeenkomstsluitende Partijen partijen zijn bij Bilaterale Investeringsverdragen op grond waarvan Aanhangige Arbitrageprocedures of Nieuwe Arbitrageprocedures zijn ingeleid, zijn zij ertoe gehouden:
 
@@ -156,7 +178,7 @@ Ingeval de Overeenkomstsluitende Partijen partijen zijn bij Bilaterale Investeri
 
 - b. ingeval zij partij zijn in een gerechtelijke procedure betreffende een arbitrale uitspraak die op grond van een Bilateraal Investeringsverdrag is gedaan, de bevoegde nationale rechter – ook als het om een rechter uit een derde land gaat – te vragen om, al naargelang het geval, de arbitrale uitspraak te seponeren of te vernietigen, dan wel zich te onthouden van de erkenning of tenuitvoerlegging ervan.
 
-#### Artikel 8. Overgangsmaatregelen in verband met Aanhangige Arbitrageprocedures
+##### Artikel 8. Overgangsmaatregelen in verband met Aanhangige Arbitrageprocedures
 
 1. Indien een investeerder partij is in een Aanhangige Arbitrageprocedure en de maatregel die het voorwerp van het geschil uitmaakt niet bij de bevoegde nationale rechter is aangevochten, zijn de overgangsmaatregelen van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&afdeling=3&artikel=9&z=2021-03-31&g=2021-03-31) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&afdeling=3&artikel=10&z=2021-03-31&g=2021-03-31) van toepassing.
 
@@ -166,7 +188,7 @@ Ingeval de Overeenkomstsluitende Partijen partijen zijn bij Bilaterale Investeri
 
 4. De betrokken Overeenkomstsluitende Partij en de investeerder kunnen ook overeenstemming bereiken over een andere passende beslechting van het geschil, zoals onder meer een minnelijke schikking, op voorwaarde dat de oplossing in overeenstemming is met het Unierecht.
 
-#### Artikel 9. Gestructureerde dialoog voor Aanhangige Arbitrageprocedures
+##### Artikel 9. Gestructureerde dialoog voor Aanhangige Arbitrageprocedures
 
 1. Een investeerder die partij is in een Aanhangige Arbitrageprocedure, kan de bij deze procedure betrokken Overeenkomstsluitende Partij overeenkomstig dit artikel verzoeken een schikkingsprocedure in te leiden op voorwaarde dat:
 
@@ -214,7 +236,7 @@ In voorkomend geval moet in het antwoord door de betrokken Overeenkomstsluitende
 
 - b. kunnen een bepaling omvatten waarin afstand wordt gedaan van alle andere rechten en vorderingen in verband met de maatregel die het voorwerp van de in lid 1 bedoelde procedure uitmaakt.
 
-#### Artikel 10. Toegang tot de nationale rechtbanken
+##### Artikel 10. Toegang tot de nationale rechtbanken
 
 1. Een investeerder heeft binnen de in lid 2 bedoelde termijn recht op toegang tot de rechtsmiddelen uit hoofde van het nationale recht tegen een in een Aanhangige Arbitrageprocedure bestreden maatregel, ook al zijn de nationale termijnen voor het instellen van een vordering verstreken, op voorwaarde dat:
 
@@ -240,7 +262,7 @@ In voorkomend geval moet in het antwoord door de betrokken Overeenkomstsluitende
 
 ### AFDELING 4. SLOTBEPALINGEN
 
-#### Artikel 11. Depositaris
+##### Artikel 11. Depositaris
 
 1. De secretaris-generaal van de Raad van de Europese Unie treedt op als depositaris van deze overeenkomst.
 
@@ -256,17 +278,17 @@ In voorkomend geval moet in het antwoord door de betrokken Overeenkomstsluitende
 
 3. De secretaris-generaal van de Raad van de Europese Unie maakt deze overeenkomst bekend in het **Publicatieblad van de Europese Unie**.
 
-#### Artikel 12. Bijlagen
+##### Artikel 12. Bijlagen
 
 1. De bijlagen bij deze overeenkomst vormen een integrerend onderdeel daarvan.
 
 2. Indien een in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&bijlage=A&z=2021-03-31&g=2021-03-31) genoemd Bilateraal Investeringsverdrag niet van kracht is op de datum waarop deze overeenkomst voor de desbetreffende Overeenkomstsluitende Partijen in werking treedt, maar indien vóór de beëindiging van dit verdrag gedane investeringen op grond van de in het verdrag opgenomen Horizonclausule nog wel binnen de werkingssfeer ervan kunnen vallen, wordt het als een in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&bijlage=B&z=2021-03-31&g=2021-03-31) genoemd Bilateraal Investeringsverdrag beschouwd.
 
-#### Artikel 13. Voorbehouden
+##### Artikel 13. Voorbehouden
 
 Bij deze overeenkomst kan geen enkel voorbehoud worden gemaakt.
 
-#### Artikel 14. Geschillenbeslechting
+##### Artikel 14. Geschillenbeslechting
 
 1. Geschillen tussen de Overeenkomstsluitende Partijen betreffende de uitlegging of toepassing van deze overeenkomst worden, indien mogelijk, in der minne geschikt.
 
@@ -274,13 +296,13 @@ Bij deze overeenkomst kan geen enkel voorbehoud worden gemaakt.
 
 3. Om meer zekerheid te bieden, vormt dit artikel een compromis tussen de Overeenkomstsluitende Partijen in de zin van [artikel 273 VWEU](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=273).
 
-#### Artikel 15. Bekrachtiging, goedkeuring of aanvaarding
+##### Artikel 15. Bekrachtiging, goedkeuring of aanvaarding
 
 Deze overeenkomst dient te worden bekrachtigd, goedgekeurd of aanvaard.
 
 De Overeenkomstsluitende Partijen leggen hun akte van bekrachtiging, aanvaarding of goedkeuring neer bij de depositaris.
 
-#### Artikel 16. Inwerkingtreding
+##### Artikel 16. Inwerkingtreding
 
 1. Deze overeenkomst treedt in werking 30 kalenderdagen na de datum waarop de depositaris de tweede akte van bekrachtiging, goedkeuring of aanvaarding ontvangt.
 
@@ -288,13 +310,13 @@ De Overeenkomstsluitende Partijen leggen hun akte van bekrachtiging, aanvaarding
 
 3. Wanneer een Overeenkomstsluitende Partij die partij is in een Aanhangige Arbitrageprocedure deze overeenkomst bekrachtigt, goedkeurt of aanvaardt, stelt zij vóór de inwerkingtreding van deze overeenkomst voor die Partij, de andere partij in de procedure van dit feit in kennis. Deze kennisgeving bevat een vermelding of het desbetreffende Bilaterale Investeringsverdrag door die bekrachtiging, goedkeuring of aanvaarding is beëindigd, dan wel of de bekrachtiging, goedkeuring of aanvaarding door de andere Overeenkomstsluitende Partij bij dat verdrag nog niet heeft plaatsgevonden.
 
-#### Artikel 17. Voorlopige toepassing
+##### Artikel 17. Voorlopige toepassing
 
 1. Overeenkomstig hun grondwettelijke bepalingen kunnen de Overeenkomstsluitende Partijen besluiten deze overeenkomst voorlopig toe te passen. De Overeenkomstsluitende Partijen stellen de depositaris van een dergelijk besluit in kennis.
 
 2. Wanneer beide partijen bij een Bilateraal Investeringsverdrag hebben besloten deze overeenkomst voorlopig toe te passen, worden de bepalingen van deze overeenkomst op dit verdrag van toepassing 30 kalenderdagen na de datum waarop het laatste besluit tot voorlopige toepassing is genomen.
 
-#### Artikel 18. Authentieke teksten
+##### Artikel 18. Authentieke teksten
 
 Deze overeenkomst, opgesteld in één exemplaar in de Bulgaarse, de Deense, de Duitse, de Engelse, de Estse, de Franse, de Griekse, de Hongaarse, de Italiaanse, de Kroatische, de Letse, de Litouwse, de Maltese, de Nederlandse, de Poolse, de Portugese, de Roemeense, de Sloveense, de Slowaakse, de Spaanse en de Tsjechische taal, waarbij alle teksten gelijkelijk authentiek zijn, wordt neergelegd in het archief van de depositaris.
 

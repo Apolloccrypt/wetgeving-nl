@@ -1,20 +1,46 @@
 ---
-title: "Besluit bekendmaking veiling kavels B01, B03, B04, B06 tot en met B26, B35 en B37"
+title: "Besluit van de Minister van Economische Zaken en Klimaat van 4 april 2022 nr. DGBI-DE/22097037, handelend in overeenstemming met de Staatssecretaris Cultuur en Media, inzake de keuze voor het instrument veiling van vergunningen voor niet-landelijke commerciële radio-omroep kavels B01, B03, B04, B06 tot en met B26, B35 en B37, de vaststelling van die vergunningen, en de vaststelling van de daaraan te koppelen vergunningen voor digitale radio-omroep (Besluit bekendmaking veiling kavels B01, B03, B04, B06 tot en met B26, B35 en B37)"
 identifier: "BWBR0046523"
-categorie: "Overig"
-publicatiedatum: 2022-04-06
-laatste_update: 2022-04-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046523"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-04-06"
+last_updated: "2022-04-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046523"
+soort: "ministeriele-regeling"
+stam_id: "16320963"
+version_id: "28531532"
+internal_id: "C40256471"
+label_id: "16246354"
+dtd_version: "2.0"
+original_entry_into_force: "2022-04-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046523/2022-04-06/0"
+intitule_bron: "Stcrt.2022-7358"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-04-04"
+intitule_published: "2022-04-05"
+intitule_in_force: "2022-04-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-7358"
+original_signed_date: "2022-04-04"
+original_published_date: "2022-04-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-7358"
+entry_into_force_date: "2022-04-06"
+jci_1_3: "jci1.3:c:BWBR0046523&z=2022-04-06&g=2022-04-06"
+jci_1_0: "1.0:c:BWBR0046523&g=2022-04-06"
+citeertitel_status: "officieel"
+short_title: "Besluit bekendmaking veiling kavels B01, B03, B04, B06 tot en met B26, B35 en B37"
+signed_date: "2022-04-04"
+entry_into_force: "2022-04-06"
 ---
-
 # Besluit van de Minister van Economische Zaken en Klimaat van 4 april 2022 nr. DGBI-DE/22097037, handelend in overeenstemming met de Staatssecretaris Cultuur en Media, inzake de keuze voor het instrument veiling van vergunningen voor niet-landelijke commerciële radio-omroep kavels B01, B03, B04, B06 tot en met B26, B35 en B37, de vaststelling van die vergunningen, en de vaststelling van de daaraan te koppelen vergunningen voor digitale radio-omroep (Besluit bekendmaking veiling kavels B01, B03, B04, B06 tot en met B26, B35 en B37)
 
 Gelet op [artikel 3.10, derde lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10), en [artikel 17 van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=17);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De vergunningen voor niet-landelijke commerciële radio-omroep in de FM-band, genoemd in tabel 1, met de daaraan te verbinden voorschriften en beperkingen, worden verleend met toepassing van een veiling als bedoeld in [artikel 3.10, eerste lid, aanhef en onderdeel f, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10).
 
@@ -47,23 +73,23 @@ De vergunningen voor niet-landelijke commerciële radio-omroep in de FM-band, ge
 | B35 | 1, 5, 6, 31 | 0,35% | 5A | 33, 34, 35, 39 |
 | B37 | 1, 5, 6, 32 | 0,18% | 7C-N | 33, 34, 35, 40 |
 
-#### Artikel 2
+##### Artikel 2
 
 De aanvraag- en veilingprocedure vangt aan op vrijdag 8 april 2022.
 
-#### Artikel 3
+##### Artikel 3
 
 De vergunningen, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046523&artikel=1&z=2022-04-06&g=2022-04-06), zijn nader bestemd voor niet-landelijke commerciële radio-omroep.
 
-#### Artikel 4
+##### Artikel 4
 
 De voorschriften en beperkingen behorende bij de aan de vergunningen, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046523&artikel=1&z=2022-04-06&g=2022-04-06), te koppelen vergunningen voor digitale radio-omroep worden, voor zover dat reeds mogelijk is, vastgesteld in [bijlagen 32 tot en met 41](https://wetten.overheid.nl/jci1.3:c:BWBR0046523&bijlage=32&z=2022-04-06&g=2022-04-06).
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit wordt aangehaald als: Besluit bekendmaking veiling kavels B01, B03, B04, B06 tot en met B26, B35 en B37.
 

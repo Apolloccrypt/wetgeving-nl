@@ -1,36 +1,62 @@
 ---
-title: "Warenwetregeling nadere eisen kinderbedden en -boxen"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 16 juli 2008, nr. VGP/PSL 2862172, houdende aanwijzing van nadere eisen betreffende de veiligheid van kinderbedden en -boxen gebruikt in de kinderopvang en van nadere eisen voor te gebruiken methoden van onderzoek (Warenwetregeling nadere eisen kinderbedden en -boxen kinderopvang)"
 identifier: "BWBR0024262"
-categorie: "Overig"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024262"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024262"
+soort: "ministeriele-regeling"
+stam_id: "9668963"
+version_id: "15604572"
+internal_id: "C21304471"
+label_id: "9646024"
+dtd_version: "2.0"
+original_entry_into_force: "2008-07-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024262/2025-01-01/0"
+intitule_bron: "Stcrt.2008-141"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-07-16"
+intitule_published: "2008-07-24"
+intitule_in_force: "2008-07-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-141"
+original_signed_date: "2008-07-16"
+original_published_date: "2008-07-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-141-p35-SC86753"
+entry_into_force_date: "2008-07-26"
+jci_1_3: "jci1.3:c:BWBR0024262&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0024262&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Warenwetregeling nadere eisen kinderbedden en -boxen"
+signed_date: "2008-07-16"
+entry_into_force: "2008-07-26"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 16 juli 2008, nr. VGP/PSL 2862172, houdende aanwijzing van nadere eisen betreffende de veiligheid van kinderbedden en -boxen gebruikt in de kinderopvang en van nadere eisen voor te gebruiken methoden van onderzoek (Warenwetregeling nadere eisen kinderbedden en -boxen kinderopvang)
 
 Gelet op de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004710&artikel=3), en [8, tweede lid, van het Warenwetbesluit kinderbedden en -boxen](https://wetten.overheid.nl/jci1.3:c:BWBR0004710&artikel=8);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Als normen, bedoeld in [artikel 3, derde lid, van het Warenwetbesluit kinderbedden en -boxen](https://wetten.overheid.nl/jci1.3:c:BWBR0004710&artikel=3), worden aangewezen de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0024262&bijlage=I&z=2025-01-01&g=2025-01-01) bij deze regeling vermelde normen.
 
 2. Als nadere eisen voor kinderbedden en -boxen die in een kindercentrum als bedoeld in [artikel 1.1, eerste lid, van de Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.1), worden gebruikt en voor te gebruiken methoden van onderzoek worden aangewezen de in de [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0024262&bijlage=II&z=2025-01-01&g=2025-01-01) bij deze regeling opgenomen eisen.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling wordt aangehaald als:
 
 Warenwetregeling nadere eisen kinderbedden en -boxen.
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling treedt in werking op de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 

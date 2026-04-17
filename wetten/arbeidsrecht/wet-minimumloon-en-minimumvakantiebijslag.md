@@ -1,14 +1,36 @@
 ---
-title: "Wet minimumloon en minimumvakantiebijslag"
+title: "Wet van 27 november 1968, houdende regelen inzake een minimumloon en een minimumvakantiebijslag"
 identifier: "BWBR0002638"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2026-02-04
-laatste_update: 2026-02-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002638"
+country: "nl"
+rank: "wet"
+publication_date: "2026-02-04"
+last_updated: "2026-02-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002638"
+soort: "wet"
+stam_id: "893383"
+version_id: "1304792"
+internal_id: "C1304791"
+label_id: "866774"
+dtd_version: "2.0"
+original_entry_into_force: "1969-02-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002638/2026-02-04/0"
+intitule_bron: "Stb.1968-657"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1968-11-27"
+intitule_status: "goed"
+original_publication: "Stb.1968-657"
+original_signed_date: "1968-11-27"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1969-02-23"
+jci_1_3: "jci1.3:c:BWBR0002638&z=2026-02-04&g=2026-02-04"
+jci_1_0: "1.0:c:BWBR0002638&g=2026-02-04"
+citeertitel_status: "officieel"
+short_title: "Wet minimumloon en minimumvakantiebijslag"
+signed_date: "1968-11-27"
+entry_into_force: "1969-02-23"
 ---
-
-# Wet minimumloon en minimumvakantiebijslag
+# Wet van 27 november 1968, houdende regelen inzake een minimumloon en een minimumvakantiebijslag
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +40,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan onder:
 
@@ -28,7 +50,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2. Voor de toepassing van het bij of krachtens deze wet bepaalde worden onder collectieve arbeidsovereenkomst mede verstaan bepalingen van een collectieve arbeidsovereenkomst, welke krachtens [artikel 2 van de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2) (**Stb.** 1937, 801) algemeen verbindend zijn verklaard.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Voor de toepassing van het bij of krachtens deze wet bepaalde wordt onder dienstbetrekking verstaan de dienstbetrekking krachtens arbeidsovereenkomst naar burgerlijk recht.
 
@@ -40,11 +62,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ingevolge welke de arbeidsverhouding van degene, die tegen beloning arbeid verricht en wiens arbeidsverhouding niet reeds ingevolge het eerste of tweede lid als dienstbetrekking wordt beschouwd, doch hiermede maatschappelijk gelijk kan worden gesteld, eveneens onder dienstbetrekking wordt verstaan.
 
-#### Artikel 3
+##### Artikel 3
 
 Indien hiertoe in verband met de bijzondere aard van de arbeidsverhouding dan wel in verband met bijzondere omstandigheden aanleiding bestaat, kan bij algemene maatregel van bestuur worden bepaald, dat de arbeidsverhouding van tot een daarbij aangewezen categorie behorende personen niet onder dienstbetrekking als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=I&artikel=2&z=2026-02-04&g=2026-02-04) wordt verstaan.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Voor de toepassing van het bij of krachtens deze wet bepaalde wordt onder werknemer verstaan de natuurlijke persoon, die overeenkomstig het bepaalde bij of krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=I&artikel=2&z=2026-02-04&g=2026-02-04) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=I&artikel=3&z=2026-02-04&g=2026-02-04) in dienstbetrekking staat.
 
@@ -54,7 +76,7 @@ Indien hiertoe in verband met de bijzondere aard van de arbeidsverhouding dan we
 
 4. Voor de toepassing van de vorige leden worden schepen en luchtvaartuigen, welke binnen het Rijk hun thuishaven hebben, ten opzichte van de werkgever en de bemanning beschouwd als deel van het Rijk.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Voor de toepassing van het bij of krachtens deze wet bepaalde wordt onder werkgever verstaan de persoon, tot wie een werknemer in dienstbetrekking staat.
 
@@ -62,7 +84,7 @@ Indien hiertoe in verband met de bijzondere aard van de arbeidsverhouding dan we
 
 3. Ingeval toepassing wordt gegeven aan [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=I&artikel=2&z=2026-02-04&g=2026-02-04), wordt tevens bij of krachtens algemene maatregel van bestuur bepaald wie in de daarbij betrokken gevallen onder werkgever wordt verstaan.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Voor de toepassing van het bij of krachtens deze wet bepaalde worden onder loon verstaan de geldelijke inkomsten uit hoofde van de dienstbetrekking, met uitzondering van:
 
@@ -92,7 +114,7 @@ Indien hiertoe in verband met de bijzondere aard van de arbeidsverhouding dan we
 
 ### Hoofdstuk II. Minimumloon
 
-#### Artikel 7
+##### Artikel 7
 
 1. De werknemer die de leeftijd van 21 jaar heeft bereikt heeft voor de arbeid door hem in dienstbetrekking verricht, jegens de werkgever recht op een loon ten minste tot het bedrag, bij of krachtens de volgende artikelen onder de benaming minimumloon vastgesteld.
 
@@ -106,7 +128,7 @@ Indien hiertoe in verband met de bijzondere aard van de arbeidsverhouding dan we
 
 6. De werkgever is met toepassing van [artikel 623 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=623) verplicht het minimumloon tijdig te voldoen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het minimumloon bedraagt:
 
@@ -122,11 +144,11 @@ Indien hiertoe in verband met de bijzondere aard van de arbeidsverhouding dan we
 
 4. Bij algemene maatregel van bestuur kan ten aanzien van de werknemer die werkzaam is op basis van een arbeidsovereenkomst die is aangegaan in verband met een beroepsbegeleidende leerweg als bedoeld in [artikel 7.2.2 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) een percentage van de in het eerste lid genoemde bedragen worden vastgesteld. Dit percentage kan voor naar leeftijd te onderscheiden categorieën van deze werknemers verschillend zijn.
 
-#### Artikel 9
+##### Artikel 9
 
 De uitbetaling van het loon aan werknemers, wier dienstbetrekking niet op een arbeidsovereenkomst berust, geschiedt, voor wat het bedrag van het minimumloon betreft, telkens na een kwartaal, tenzij partijen een kortere uitbetalingstermijn zijn overeengekomen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Onze Minister kan op verzoek van een werkgever of van een rechtspersoonlijkheid bezittende organisatie van werkgevers of werknemers het minimumloon van tot een door hem aangewezen categorie behorende werknemers in een onderneming dan wel een tak van bedrijf of beroep voor een door hem te bepalen termijn op lagere dan de krachtens [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=8&z=2026-02-04&g=2026-02-04) geldende bedragen vaststellen, indien naar zijn oordeel het voortbestaan van of de omvang der bedrijvigheid in die onderneming dan wel die tak van bedrijf of beroep ernstig wordt bedreigd. Aan deze vaststelling kunnen voorwaarden worden verbonden. Op een verzoek wordt niet beslist, zolang niet is gebleken, dat de verzoeker met de naar het oordeel van Onze Minister representatieve organisaties van werknemers onderscheidenlijk werkgevers ter zake overleg heeft gepleegd.
 
@@ -134,17 +156,17 @@ De uitbetaling van het loon aan werknemers, wier dienstbetrekking niet op een ar
 
 3. Een besluit tot toepassing van het eerste of het tweede lid ten aanzien van werknemers in een tak van bedrijf of beroep wordt in de **Staatscourant** bekend gemaakt.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Indien ten aanzien van een werknemer op grond van een collectieve arbeidsovereenkomst, publiekrechtelijke regeling of een schriftelijke arbeidsovereenkomst sprake is van een vaste overeengekomen arbeidsduur per week en een vaste beloning per maand, wordt aan de werknemer ten minste het minimumuurloon dat geldt in het betreffende tijdvak over het gemiddeld aantal arbeidsuren van de betreffende maand, afgeleid van het totaal aantal arbeidsuren dat de betreffende werknemer arbeid verricht in dat kalenderjaar, betaald.
 
 2. Indien bij publiekrechtelijke regeling of collectieve arbeidsovereenkomst een periode van afrekening, welke meerdere uitbetalingstermijnen omvat, is vastgesteld, wordt zodanige periode van afrekening voor de toepassing van de [artikelen 7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=7&z=2026-02-04&g=2026-02-04), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=8&z=2026-02-04&g=2026-02-04) en [13a](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=13a&z=2026-02-04&g=2026-02-04) als uitbetalingstermijn beschouwd. Een periode van afrekening kan ten hoogste twaalf maanden omvatten.
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
-#### Artikel 13
+##### Artikel 13
 
 1. Het minimumloon is niet vatbaar voor inhouding of verrekening door de werkgever met overeenkomstige toepassing van [artikel 631](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=631) onderscheidenlijk [artikel 632, met uitzondering van het tweede lid, tweede zin, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=632).
 
@@ -152,7 +174,7 @@ Vervallen
 
 3. In afwijking van het eerste lid zijn voorschotten op het minimumloon, overeenkomstig [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=7a&z=2026-02-04&g=2026-02-04) aan de werknemer verstrekt, vatbaar voor verrekening met het minimumloon, mits dit vooraf schriftelijk met de werknemer is overeengekomen.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Het bedrag, genoemd in [artikel 8, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=8&z=2026-02-04&g=2026-02-04), wordt telkens met ingang van 1 januari door Onze Minister herzien overeenkomstig:
 
@@ -214,7 +236,7 @@ C = het aantal uren per week dat wordt gesteld op 36.
 
 ### Hoofdstuk III. Minimumvakantiebijslag
 
-#### Artikel 15
+##### Artikel 15
 
 1. De werknemer heeft jegens de werkgever recht op een vakantiebijslag ten minste tot een bedrag van 8% van zijn ten laste van de werkgever komende loon, alsmede van de uitkeringen waarop hij tijdens de dienstbetrekking krachtens de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), [hoofdstuk 3, afdeling 2, paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&paragraaf=1) of de [artikelen 4:2b](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=4:2b) of [6:3 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=6:3) en de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) aanspraak heeft, met dien verstande, dat het bedrag waarmede de som van dit loon en deze uitkeringen het drievoud van het minimumloon overschrijdt buiten beschouwing blijft.
 
@@ -224,7 +246,7 @@ C = het aantal uren per week dat wordt gesteld op 36.
 
 4. Gelijktijdig met de toepassing van [artikel 14, dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=14&z=2026-02-04&g=2026-02-04), gaat Onze Minister na of de ontwikkeling van het niveau van de in collectieve arbeidsovereenkomsten overeengekomen vakantiebijslag een verhoging van de minimumvakantiebijslag wenselijk maakt. Bij algemene maatregel van bestuur kan vervolgens het percentage, genoemd in het eerste lid, en dienovereenkomstig het percentage, genoemd in [artikel 16, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=III&artikel=16&z=2026-02-04&g=2026-02-04), worden verhoogd; daarbij kan tevens een minimum-bedrag worden vastgesteld voor het recht van de werknemer jegens zijn werkgever ingevolge het eerste lid.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Behoudens het bij het tweede, derde en vierde lid bepaalde kan bij publiekrechtelijke regeling of collectieve arbeidsovereenkomst worden bepaald, dat de werknemer geen recht heeft op vakantiebijslag dan wel recht heeft op een lager bedrag aan vakantiebijslag dan uit [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=III&artikel=15&z=2026-02-04&g=2026-02-04) voortvloeit.
 
@@ -240,7 +262,7 @@ C = het aantal uren per week dat wordt gesteld op 36.
 
 7. Indien de werknemer recht heeft op loon over een periode, waarin hij geen arbeid verricht, worden de uitkeringen krachtens de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), [hoofdstuk 3, afdeling 2, paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&paragraaf=1) of de [artikelen 4:2b](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=4:2b) of [6:3 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=6:3) en de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), waarmee het loon overeenkomstig die bepaling wordt verminderd, voor de toepassing van dit artikel geacht ten laste van de werkgever komend loon te zijn.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De vakantiebijslag, waarop de werknemer over het loon en de uitkeringen krachtens de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), [hoofdstuk 3, afdeling 2, paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&paragraaf=1) of de [artikelen 4:2b](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=4:2b) of [6:3 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=6:3) en de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), voor zover een en ander over het tijdvak tot en met 31 mei van het lopende jaar opeisbaar is geworden, recht heeft verworven, wordt behoudens het bepaalde in de volgende leden in de maand juni uitbetaald.
 
@@ -248,7 +270,7 @@ C = het aantal uren per week dat wordt gesteld op 36.
 
 3. Bij het einde van de dienstbetrekking wordt aan de werknemer het bedrag aan vakantiebijslag uitbetaald, waarop hij op dat tijdstip recht heeft verworven.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Indien hierin bij publiekrechtelijke regeling of collectieve arbeidsovereenkomst is voorzien, kan de werkgever aan zijn verplichtingen tegenover de werknemer betreffende de vakantiebijslag voldoen hetzij door aan de werknemer vakantiebonnen over te dragen ten laste van een fonds, hetzij door betaling van de vakantiebijslag aan een fonds ten laste waarvan de werknemer het recht op vakantiebijslag verwerft, mits het bedrag, waarop de werknemer door deze overdracht onderscheidenlijk deze betaling, op dat fonds recht verwerft, niet lager ligt dan het bedrag, waarop de werknemer krachtens de[artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=III&artikel=15&z=2026-02-04&g=2026-02-04) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=III&artikel=16&z=2026-02-04&g=2026-02-04) recht heeft.
 
@@ -256,7 +278,7 @@ C = het aantal uren per week dat wordt gesteld op 36.
 
 ### Hoofdstuk III. Minimumvakantiebijslag
 
-#### Artikel 18a
+##### Artikel 18a
 
 1. Met het toezicht op de naleving van deze wet en de daarop berustende bepalingen zijn belast de bij besluit van Onze Minister aangewezen, onder hem ressorterende ambtenaren.
 
@@ -266,7 +288,7 @@ C = het aantal uren per week dat wordt gesteld op 36.
 
 4. De op grond van het eerste of tweede lid aangewezen ambtenaar is te allen tijde bevoegd tot inbeslagneming van daarvoor vatbare voorwerpen. Hij kan daartoe de uitlevering vorderen tegen een door hem afgegeven schriftelijk bewijs. Zodra het belang van onderzoek omtrent de overtreding zulks toelaat wordt het in beslag genomen voorwerp teruggegeven aan degene bij wie het in beslag is genomen.
 
-#### Artikel 18b
+##### Artikel 18b
 
 1. Als overtreding wordt aangemerkt:
 
@@ -310,43 +332,43 @@ C = het aantal uren per week dat wordt gesteld op 36.
 
 ### Hoofdstuk V. Slotbepalingen
 
-#### Artikel 18c
+##### Artikel 18c
 
 1. Een daartoe door Onze Minister aangewezen, onder hem ressorterende ambtenaar legt namens hem de bestuurlijke boete op aan degene op wie de verplichtingen rusten welke voortvloeien uit deze wet, voor zover het niet naleven daarvan is aangeduid als een overtreding.
 
 2. De ter zake van de bij of krachtens deze wet gestelde overtredingen gelden ten opzichte van elke persoon met of ten aanzien van wie de overtreding is begaan.
 
-#### Artikel 19
+##### Artikel 19
 
 Bedingen, die strijdig zijn met het bij of krachtens deze wet bepaalde, zijn nietig.
 
-#### Artikel 20
+##### Artikel 20
 
 Ieder vorderingsrecht tot betaling van vakantiebijslag als bedoeld in [Hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=III&z=2026-02-04&g=2026-02-04) verjaart na verloop van vijf jaren na het tijdstip, waarop de uitbetaling had moeten geschieden.
 
-#### Artikel 21
+##### Artikel 21
 
 Vervallen
 
-#### Artikel 22
+##### Artikel 22
 
 Vervallen
 
-#### Artikel 23
+##### Artikel 23
 
 Vervallen
 
-#### Artikel 24
+##### Artikel 24
 
 Deze wet kan worden aangehaald als: Wet minimumloon en minimumvakantiebijslag.
 
-#### Artikel 25
+##### Artikel 25
 
 Deze wet treedt in werking met ingang van de tiende kalenderweek na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 23a
+##### Artikel 23a
 
 Vervallen
 
@@ -356,11 +378,11 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 #### § 2. Bestuurlijke boete
 
-#### Artikel 18d
+##### Artikel 18d
 
 Vervallen
 
-#### Artikel 18e
+##### Artikel 18e
 
 1. Onverminderd [artikel 5:48, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:48) vermeldt het rapport in ieder geval:
 
@@ -370,7 +392,7 @@ Vervallen
 
 2. Het rapport wordt toegezonden aan de op grond van [artikel 18c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=IV&paragraaf=2&artikel=18c&z=2026-02-04&g=2026-02-04), aangewezen ambtenaar.
 
-#### Artikel 18f
+##### Artikel 18f
 
 1. De bestuurlijke boete die voor een overtreding kan worden opgelegd bedraagt ten hoogste het bedrag van de vijfde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
 
@@ -386,15 +408,15 @@ Vervallen
 
 7. In afwijking van [artikel 8:69 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:69) kan de rechter in beroep of hoger beroep de hoogte van de bestuurlijke boete ook ten nadele van de belanghebbende wijzigen.
 
-#### Artikel 18g
+##### Artikel 18g
 
 Degene aan wie een bestuurlijke boete is opgelegd, verstrekt desgevraagd aan de daartoe op grond van [artikel 18c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=IV&paragraaf=2&artikel=18c&z=2026-02-04&g=2026-02-04), aangewezen ambtenaar de inlichtingen die redelijkerwijs voor de tenuitvoerlegging van de bestuurlijke boete nodig zijn.
 
-#### Artikel 18h
+##### Artikel 18h
 
 Indien een bestuurlijke boete ten onrechte is opgelegd, wordt deze binnen zes weken nadat is vastgesteld dat de bestuurlijke boete ten onrechte is opgelegd, aan de rechthebbende terugbetaald.
 
-#### Artikel 18i
+##### Artikel 18i
 
 1. Een daartoe door Onze Minister aangewezen, onder hem ressorterende ambtenaar kan, nadat een overtreding van een voorschrift bij of krachtens deze wet is geconstateerd die bestuurlijk beboetbaar is gesteld, aan de werkgever een schriftelijke waarschuwing geven dat bij herhaling van de overtreding of bij een latere overtreding van eenzelfde in de waarschuwing aangegeven wettelijke verplichting of het niet naleven van bij of krachtens algemene maatregel van bestuur aan te wijzen soortgelijke verplichtingen, door hem een bevel kan worden opgelegd dat door hem aangewezen werkzaamheden voor ten hoogste drie maanden worden gestaakt dan wel niet mogen worden aangevangen. [Artikel 18a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=IV&paragraaf=1&artikel=18a&z=2026-02-04&g=2026-02-04), is van overeenkomstige toepassing.
 
@@ -410,25 +432,25 @@ Indien een bestuurlijke boete ten onrechte is opgelegd, wordt deze binnen zes we
 
 7. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot het eerste en tweede lid.
 
-#### Artikel 18j
+##### Artikel 18j
 
 Vervallen
 
-#### Artikel 18k
+##### Artikel 18k
 
 Vervallen
 
-#### Artikel 18l
+##### Artikel 18l
 
 Vervallen
 
-#### Artikel 18m
+##### Artikel 18m
 
 Vervallen
 
 #### § 2a. Stillegging van werkzaamheden
 
-#### Artikel 18n
+##### Artikel 18n
 
 1. Een daartoe door Onze Minister aangewezen onder hem ressorterende ambtenaar kan een werkgever die de op hem op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=7&z=2026-02-04&g=2026-02-04) rustende verplichting aangaande het voldoen van hetgeen in [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&z=2026-02-04&g=2026-02-04) is aangeduid als minimumloon niet of onvoldoende nakomt, een werkgever die inhoudt op of verrekent met het minimumloon in strijd met [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=13&z=2026-02-04&g=2026-02-04), alsmede een werkgever die de op hem op grond van de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=III&artikel=15&z=2026-02-04&g=2026-02-04) of [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=III&artikel=16&z=2026-02-04&g=2026-02-04) rustende verplichting niet of onvoldoende nakomt, een last onder dwangsom opleggen.
 
@@ -436,13 +458,13 @@ Vervallen
 
 3. Onze Minister stelt beleidsregels vast omtrent de last onder dwangsom.
 
-#### Artikel 18o
+##### Artikel 18o
 
 Indien een dwangsom ten onrechte is ingevorderd, wordt de betaalde geldsom, vermeerderd met de wettelijke rente, binnen 6 weken nadat is vastgesteld dat de dwangsom ten onrechte is ingevorderd, aan de rechthebbende terugbetaald.
 
 #### § 4. Gegevensuitwisseling
 
-#### Artikel 18p
+##### Artikel 18p
 
 1. Bestuursorganen zijn bevoegd uit eigen beweging en verplicht desgevraagd aan Onze Minister en de ambtenaren, bedoeld in [artikel 18a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=IV&paragraaf=1&artikel=18a&z=2026-02-04&g=2026-02-04), kosteloos alle gegevens en inlichtingen te verstrekken die noodzakelijk zijn voor de uitvoering en het toezicht op de naleving van het bepaalde bij of krachtens deze wet en dit noodzakelijk is ten behoeve van een samenwerkingsverband tussen twee of meer van de voornoemde instanties.
 
@@ -466,7 +488,7 @@ Indien een dwangsom ten onrechte is ingevorderd, wordt de betaalde geldsom, verm
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 18q
+##### Artikel 18q
 
 Een beschikking op grond van deze wet van de ambtenaar, bedoeld in de [artikelen 18c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=IV&paragraaf=2&artikel=18c&z=2026-02-04&g=2026-02-04), [18i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=IV&paragraaf=2a&artikel=18i&z=2026-02-04&g=2026-02-04), [18n, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=IV&paragraaf=3&artikel=18n&z=2026-02-04&g=2026-02-04), en [18pa, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=IV&paragraaf=5&artikel=18pa&z=2026-02-04&g=2026-02-04), wordt genomen namens Onze Minister.
 
@@ -482,7 +504,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 7a
+##### Artikel 7a
 
 1. In afwijking van [artikel 620 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=620) geschiedt de voldoening van het verschuldigde minimumloon door girale betaling overeenkomstig [artikel 114 van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=114).
 
@@ -504,7 +526,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 #### § 3. Last onder dwangsom
 
-#### Artikel 18pa
+##### Artikel 18pa
 
 1. De door Onze Minister aangewezen ambtenaren, bedoeld in [artikel 18a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=IV&paragraaf=1&artikel=18a&z=2026-02-04&g=2026-02-04), of [18c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=IV&paragraaf=2&artikel=18c&z=2026-02-04&g=2026-02-04), maken het feit dat een bestuurlijke boete is opgelegd wegens overtreding van deze wet als bedoeld in [artikel 18b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=IV&paragraaf=2&artikel=18b&z=2026-02-04&g=2026-02-04), dat een besluit is genomen als bedoeld in [artikel 18i, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=IV&paragraaf=2a&artikel=18i&z=2026-02-04&g=2026-02-04), of dat na een afgerond onderzoek geen overtreding is geconstateerd openbaar teneinde de naleving van deze wet te bevorderen en inzicht te geven in het uitvoeren van het toezicht op grond van deze wet.
 
@@ -526,7 +548,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 12a
+##### Artikel 12a
 
 1. Bij ministeriële regeling kunnen op verzoek van de Stichting van de Arbeid specifieke werkzaamheden in een bedrijfstak worden aangewezen voor welke, in afwijking van [artikel 5a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=I&artikel=5a&z=2026-02-04&g=2026-02-04), voor de toepassing van het bij of krachtens deze wet bepaalde als arbeidsduur wordt aangemerkt, de tijd die redelijkerwijs met de uitvoering van de te verrichten arbeid is gemoeid, indien dat noodzakelijk wordt geacht, gelet op:
 
@@ -550,11 +572,11 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 7. De Stichting van de Arbeid draagt zorg voor de bekendmaking van de berekening, bedoeld in het derde en zesde lid, op een bij ministeriële regeling te bepalen wijze.
 
-#### Artikel 12b
+##### Artikel 12b
 
 Indien de werkgever schriftelijk met de werknemer overeenkomt specifieke werkzaamheden te verrichten die zijn aangewezen op grond van [artikel 12a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=12a&z=2026-02-04&g=2026-02-04), wordt in afwijking van [artikel 5a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=I&artikel=5a&z=2026-02-04&g=2026-02-04), voor de toepassing van het bij of krachtens deze wet bepaalde als arbeidsduur aangemerkt: de tijd die overeenkomstig de door de Stichting van de Arbeid bekendgemaakte berekening, bedoeld in [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=12a&z=2026-02-04&g=2026-02-04), met de uitvoering van de te verrichten arbeid is gemoeid.
 
-#### Artikel 13a
+##### Artikel 13a
 
 1. Indien de feitelijke arbeidsduur van de werknemer binnen een uitbetalingstermijn langer is dan de overeengekomen arbeidsduur wordt deze langere arbeidsduur uitbetaald uiterlijk in de eerstvolgende uitbetalingstermijn na de uitbetalingstermijn waarin deze is ontstaan.
 
@@ -584,7 +606,7 @@ Indien de werkgever schriftelijk met de werknemer overeenkomt specifieke werkzaa
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 5a
+##### Artikel 5a
 
 1. Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan onder arbeidsduur: de tijd dat de werknemer in dienstbetrekking arbeid verricht of de tijd waarover hij recht op loon heeft als bedoeld in [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&hoofdstuk=II&artikel=7&z=2026-02-04&g=2026-02-04).
 
@@ -610,7 +632,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 6a
+##### Artikel 6a
 
 De werkgever mag de werknemer niet benadelen wegens de omstandigheid dat de werknemer in of buiten rechte de in deze wet aan hem toegekende rechten of zijn recht op het in de collectieve arbeidsovereenkomst geregelde laagste schaalbedrag in de laagste loonschaal of andere minimumvergoeding voor de verrichte arbeid geldend maakt, ter zake bijstand heeft verleend of een klacht hierover heeft ingediend.
 

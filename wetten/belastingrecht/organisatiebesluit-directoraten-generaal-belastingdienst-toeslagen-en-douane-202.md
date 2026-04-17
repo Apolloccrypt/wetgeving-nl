@@ -1,13 +1,39 @@
 ---
-title: "Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021"
+title: "Besluit van de secretaris-generaal van 7 april 2021, (nr. 2021-63950) houdende vaststelling van het Organisatiebesluit van de Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021"
 identifier: "BWBR0045076"
-categorie: "Belastingrecht"
-publicatiedatum: 2026-04-03
-laatste_update: 2026-04-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045076"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-04-03"
+last_updated: "2026-04-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045076"
+soort: "ministeriele-regeling"
+stam_id: "15939533"
+version_id: "27733272"
+internal_id: "C39122091"
+label_id: "15874224"
+dtd_version: "2.0"
+original_entry_into_force: "2021-04-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045076/2026-04-03/0"
+intitule_bron: "Stcrt.2021-21166"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-04-07"
+intitule_published: "2021-04-29"
+intitule_in_force: "2021-04-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-21166"
+original_signed_date: "2021-04-07"
+original_published_date: "2021-04-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-21166"
+entry_into_force_date: "2021-04-30"
+jci_1_3: "jci1.3:c:BWBR0045076&z=2026-04-03&g=2026-04-03"
+jci_1_0: "1.0:c:BWBR0045076&g=2026-04-03"
+citeertitel_status: "officieel"
+short_title: "Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021"
+signed_date: "2021-04-07"
+entry_into_force: "2021-04-30"
 ---
-
 # Besluit van de secretaris-generaal van 7 april 2021, (nr. 2021-63950) houdende vaststelling van het Organisatiebesluit van de Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021
 
 Gelet op [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=5), [5A](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=5A) en [5B van het Organisatiebesluit Ministerie van Financiën 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=5B) en op het [Mandaatbesluit Ministerie van Financiën 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043022),
@@ -18,7 +44,7 @@ Besluit vast te stellen het navolgende Organisatiebesluit:
 
 ### Hoofdstuk 1. Inleidende bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -48,7 +74,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 2. De Belastingdienst
 
-#### Artikel 2. Dienstonderdelen
+##### Artikel 2. Dienstonderdelen
 
 De volgende dienstonderdelen van het Ministerie van Financiën vormen samen de Belastingdienst:
 
@@ -60,11 +86,11 @@ De volgende dienstonderdelen van het Ministerie van Financiën vormen samen de B
 
 ### Hoofdstuk 3. Het Directoraat-Generaal Belastingdienst (DGBD)
 
-#### Artikel 3. Leiding DGBD
+##### Artikel 3. Leiding DGBD
 
 Het Directoraat-Generaal Belastingdienst staat onder leiding van de directeur-generaal Belastingdienst.
 
-#### Artikel 4. Inrichting DGBD
+##### Artikel 4. Inrichting DGBD
 
 Het DGBD bestaat uit de volgende organisatieonderdelen:
 
@@ -124,7 +150,7 @@ Het DGBD bestaat uit de volgende organisatieonderdelen:
 
 - iii. het Bureau Veiligheid & Integriteit, onder leiding van een manager.
 
-#### Artikel 5. Overlegstructuur DGBD
+##### Artikel 5. Overlegstructuur DGBD
 
 1. Er is een Bestuursteam Belastingdienst.
 
@@ -166,11 +192,11 @@ Het DGBD bestaat uit de volgende organisatieonderdelen:
 
 ### Hoofdstuk 4. Directoraat-Generaal Toeslagen (DGTSL)
 
-#### Artikel 6. Leiding DGTSL
+##### Artikel 6. Leiding DGTSL
 
 Het Directoraat-Generaal Toeslagen staat onder leiding van de directeur-generaal Toeslagen.
 
-#### Artikel 7. Inrichting DGTSL
+##### Artikel 7. Inrichting DGTSL
 
 Het Directoraat-Generaal Toeslagen bestaat uit de volgende organisatieonderdelen:
 
@@ -192,11 +218,11 @@ Het Directoraat-Generaal Toeslagen bestaat uit de volgende organisatieonderdelen
 
 ### Hoofdstuk 5. Directoraat-Generaal Douane (DGD)
 
-#### Artikel 8. Leiding DGD
+##### Artikel 8. Leiding DGD
 
 Het Directoraat-Generaal Douane staat onder leiding van de directeur-generaal Douane.
 
-#### Artikel 9. Organisatie inrichting en aansturing DGD
+##### Artikel 9. Organisatie inrichting en aansturing DGD
 
 1. Het DGD bestaat uit de volgende organisatieonderdelen:
 
@@ -296,7 +322,7 @@ Het Directoraat-Generaal Douane staat onder leiding van de directeur-generaal Do
 
 ### Hoofdstuk 6. Slotbepalingen
 
-#### Artikel 10. Beheer
+##### Artikel 10. Beheer
 
 1. De directie Juridische Zaken (DJZ) van het Ministerie van Financiën heeft tot taak het voorbereiden van regelgeving op het gebied van het Organisatiebesluit en het [Mandaatbesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane](onbekend).
 
@@ -304,21 +330,21 @@ Het Directoraat-Generaal Douane staat onder leiding van de directeur-generaal Do
 
 3. Het beheer en de aanlevering van gegevens geschieden met inachtneming van de desbetreffende (richtlijnen inzake) administratieve organisatiebeschrijvingen.
 
-#### Artikel 11. Intrekking andere besluiten
+##### Artikel 11. Intrekking andere besluiten
 
 Het [Organisatiebesluit Directoraat-Generaal Belastingdienst 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0041509) wordt ingetrokken.
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt zij terug tot en met 1 januari 2021.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 7a. Directie Toeslagen
+##### Artikel 7a. Directie Toeslagen
 
 1. De directie Toeslagen staat onder leiding van een algemeen directeur.
 
@@ -364,7 +390,7 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 4. Een van de directeuren, bedoeld in het derde lid, vervult tevens de rol van plaatsvervangend algemeen directeur.
 
-#### Artikel 7b. Directie Uitvoeringsorganisatie Herstel Toeslagen
+##### Artikel 7b. Directie Uitvoeringsorganisatie Herstel Toeslagen
 
 1. De directie Uitvoeringsorganisatie Herstel Toeslagen staat onder leiding van een directeur.
 
@@ -398,7 +424,7 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 5. De clusterdirecteuren, de clustermanagers en de programmadirecteuren, bedoeld in het derde en vierde lid, worden in hun mandaat gelijkgesteld aan afdelingshoofden in de zin van het [Mandaatbesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045078).
 
-#### Artikel 7c. Directie Strategie, Recht & Beleid
+##### Artikel 7c. Directie Strategie, Recht & Beleid
 
 1. De directie Strategie, Recht & Beleid staat onder leiding van een directeur, tevens plaatsvervangend directeur-generaal Toeslagen.
 
@@ -422,7 +448,7 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 4. Een van de afdelingshoofden, bedoeld in het derde lid, vervult tevens de rol van plaatsvervangend directeur.
 
-#### Artikel 7d. Directie Mensen, Middelen & Communicatie
+##### Artikel 7d. Directie Mensen, Middelen & Communicatie
 
 1. De directie Mensen, Middelen & Communicatie staat onder leiding van een directeur.
 
@@ -460,7 +486,7 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 5. De managers, bedoeld in het derde lid, worden in hun mandaat gelijkgesteld aan teamleiders in de zin van het [Mandaatbesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045078).
 
-#### Artikel 7e. Directie Informatiestromen & Digitale Ontwikkeling
+##### Artikel 7e. Directie Informatiestromen & Digitale Ontwikkeling
 
 1. De directie Informatiestromen & Digitale Ontwikkeling staat onder leiding van een directeur, tevens Chief Information Officer van Dienst Toeslagen.
 
@@ -476,7 +502,7 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 4. Het afdelingshoofd van Bureau CIO, bedoeld in het derde lid, onderdeel c, vervult tevens de rol van plaatsvervangend directeur.
 
-#### Artikel 7f. Directie Control & Risk
+##### Artikel 7f. Directie Control & Risk
 
 1. De directie Control & Risk staat onder leiding van een directeur.
 
@@ -512,7 +538,7 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 4. Een van de clustercoördinatoren vervult tevens de rol van plaatsvervangend directeur.
 
-#### Artikel 7g. Directie Business Ontwikkeling
+##### Artikel 7g. Directie Business Ontwikkeling
 
 1. De directie Business Ontwikkeling staat onder leiding van een programmadirecteur.
 
@@ -524,7 +550,7 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 - c. het voorzien in voldoende kwalitatief hoogwaardige interne capaciteit op het terrein van project- of programmamanagement om invulling te kunnen geven aan de projecten en programma’s voor het directoraat-generaal.
 
-#### Artikel 7h. Bureau DG
+##### Artikel 7h. Bureau DG
 
 1. Het Bureau DG staat onder leiding van een afdelingshoofd.
 

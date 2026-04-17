@@ -1,13 +1,37 @@
 ---
 title: "Begrip zelfstandige in de zin van artikel 1, onder a van de EEG-verordening nr. 1408/71"
 identifier: "BWBR0004596"
-categorie: "Bestuursrecht"
-publicatiedatum: 1989-07-12
-laatste_update: 1989-07-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004596"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "1989-07-12"
+last_updated: "1989-07-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004596"
+soort: "beleidsregel"
+stam_id: "8398813"
+version_id: "13271482"
+internal_id: "C18432031"
+label_id: "8379564"
+dtd_version: "2.0"
+original_entry_into_force: "1989-07-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004596/1989-07-12/0"
+intitule_bron: "Infob.1989-7"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1989-07-12"
+intitule_published: "1989-01-01"
+intitule_in_force: "1989-01-01"
+intitule_status: "goed"
+original_publication: "Infob.1989-7"
+original_signed_date: "1989-07-12"
+original_published_date: "1989-01-01"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1989-07-12"
+jci_1_3: "jci1.3:c:BWBR0004596&z=1989-07-12&g=1989-07-12"
+jci_1_0: "1.0:c:BWBR0004596&g=1989-07-12"
+citeertitel_status: "redactioneel"
+signed_date: "1989-07-12"
+entry_into_force: "1989-07-12"
 ---
-
 # Begrip zelfstandige in de zin van artikel 1, onder a van de EEG-verordening nr. 1408/71
 
 Hierbij vraag ik uw aandacht voor het volgende.

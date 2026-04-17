@@ -1,144 +1,172 @@
 ---
-title: "Fiscale verzamelwet 2024"
+title: "Wet van 20 december 2023 tot wijziging van enkele belastingwetten en enige andere wetten (Fiscale verzamelwet 2024)"
 identifier: "BWBR0049142"
-categorie: "Overig"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049142"
+country: "nl"
+rank: "wet"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049142"
+soort: "wet"
+stam_id: "16980383"
+version_id: "29853152"
+internal_id: "C42795581"
+label_id: "16891054"
+dtd_version: "2.0"
+original_entry_into_force: "2024-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049142/2024-01-01/0"
+intitule_bron: "Stb.2023-498"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-12-20"
+intitule_published: "2023-12-27"
+intitule_in_force: "2023-12-27"
+intitule_status: "goed"
+original_publication: "Stb.2023-498"
+original_signed_date: "2023-12-20"
+original_published_date: "2023-12-27"
+original_effect: "nieuwe-regeling"
+original_dossier: "36342"
+original_url_id: "stb-2023-498"
+entry_into_force_date: "2024-01-01"
+entry_into_force_dossier: "36342"
+jci_1_3: "jci1.3:c:BWBR0049142&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0049142&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Fiscale verzamelwet 2024"
+signed_date: "2023-12-20"
+entry_into_force: "2024-01-01"
 ---
+# Wet van 20 december 2023 tot wijziging van enkele belastingwetten en enige andere wetten (Fiscale verzamelwet 2024)
 
-# Fiscale verzamelwet 2024
-
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Wet op de dividendbelasting 1965.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Wet bronbelasting 2021.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Wet op belastingen van rechtsverkeer.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Wet op de omzetbelasting 1968.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Wet op de accijns.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Wet op de verbruiksbelasting van alcoholvrije dranken.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt Algemene wet inkomensafhankelijke regelingen.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt de Wet hersteloperatie toeslagen.
 
-#### Artikel XIIa
+##### Artikel XIIa
 
 Wijzigt de Wet aanvullende regelingen hersteloperatie toeslagen.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt de Wet op de zorgtoeslag.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt de Wet op de huurtoeslag.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt de Wet op het kindgebonden budget.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt de Wet kinderopvang.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Wijzigt de Algemene wet inzake rijksbelastingen.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Wijzigt Invorderingswet 1990.
 
-#### Artikel XIX
+##### Artikel XIX
 
 Wijzigt de Belastingwet BES.
 
-#### Artikel XX
+##### Artikel XX
 
 Wijzigt de Participatiewet.
 
-#### Artikel XXI
+##### Artikel XXI
 
 Wijzigt de Uitvoeringswet huurprijzen woonruimte.
 
-#### Artikel XXII
+##### Artikel XXII
 
 Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.
 
-#### Artikel XXIII
+##### Artikel XXIII
 
 Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers.
 
-#### Artikel XXIV
+##### Artikel XXIV
 
 Wijzigt de Wet nadeelcompensatie en schadevergoeding onrechtmatige besluiten.
 
-#### Artikel XXV
+##### Artikel XXV
 
 Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.
 
-#### Artikel XXVI
+##### Artikel XXVI
 
 Wijzigt de Woningwet.
 
-#### Artikel XXVII
+##### Artikel XXVII
 
 Wijzigt de Wet vrachtwagenheffing.
 
-#### Artikel XXVIII
+##### Artikel XXVIII
 
 Wijzigt de Overige fiscale maatregelen 2020.
 
-#### Artikel XXIX
+##### Artikel XXIX
 
 Wijzigt de Wet verbetering uitvoerbaarheid toeslagen.
 
-#### Artikel XXX
+##### Artikel XXX
 
 Wijzigt deze wet.
 
-#### Artikel XXXI
+##### Artikel XXXI
 
 Wijzigt deze wet.
 
-#### Artikel XXXII
+##### Artikel XXXII
 
 Deze wet treedt in werking met ingang van 1 januari 2024, met dien verstande dat:
 
@@ -148,7 +176,7 @@ Deze wet treedt in werking met ingang van 1 januari 2024, met dien verstande dat
 
 - c. [artikel II, onderdelen C en E](https://wetten.overheid.nl/jci1.3:c:BWBR0049142&artikel=II&z=2024-01-01&g=2024-01-01), terugwerkt tot en met 1 juli 2023.
 
-#### Artikel XXXIII
+##### Artikel XXXIII
 
 Deze wet wordt aangehaald als: Fiscale verzamelwet 2024.
 

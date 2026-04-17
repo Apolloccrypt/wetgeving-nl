@@ -1,18 +1,43 @@
 ---
 title: "Bestuursreglement van de Lcsh"
 identifier: "BWBR0048641"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-09-26
-laatste_update: 2023-09-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048641"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-09-26"
+last_updated: "2023-09-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048641"
+soort: "zbo"
+stam_id: "16860563"
+version_id: "29630882"
+internal_id: "C42394851"
+label_id: "16772744"
+dtd_version: "2.0"
+original_entry_into_force: "2023-09-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048641/2023-09-26/0"
+intitule_bron: "Stcrt.2023-26168"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-09-04"
+intitule_published: "2023-09-25"
+intitule_in_force: "2023-09-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-26168"
+original_signed_date: "2023-09-04"
+original_published_date: "2023-09-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-26168"
+entry_into_force_date: "2023-09-26"
+jci_1_3: "jci1.3:c:BWBR0048641&z=2023-09-26&g=2023-09-26"
+jci_1_0: "1.0:c:BWBR0048641&g=2023-09-26"
+citeertitel_status: "officieel"
+signed_date: "2023-09-04"
+entry_into_force: "2023-09-26"
 ---
-
 # Bestuursreglement van de Lcsh
 
 De Landelijke commissie sociale hygiëne, gelet op [artikel 11b, derde lid, van de Alcoholwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=11b), besluit het volgende bestuursreglement vast te stellen:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit bestuursreglement wordt verstaan onder:
 
@@ -32,7 +57,7 @@ In dit bestuursreglement wordt verstaan onder:
 
 - h. **sociale hygiëne:** zoals gedefinieerd in het [Alcoholbesluit art. 4.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0045211&artikel=4.1a)[bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0045211&bijlage=II).
 
-#### Artikel 2. Juridische grondslag
+##### Artikel 2. Juridische grondslag
 
 1. Dit bestuursreglement is het reglement als bedoeld in [artikel 11b, derde lid van de Alcoholwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=11b).
 
@@ -40,7 +65,7 @@ In dit bestuursreglement wordt verstaan onder:
 
 3. Dit bestuursreglement is vastgesteld door de Commissie, en daarna goedgekeurd door de Minister.
 
-#### Artikel 3. Samenstelling Commissie
+##### Artikel 3. Samenstelling Commissie
 
 1. De Minister benoemt de leden voor een periode van ten hoogste vier jaar, conform [artikel 11b, tweede lid, van de Alcoholwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=11b). De leden kunnen eenmaal worden herbenoemd voor een periode van ten hoogste vier jaar.
 
@@ -50,7 +75,7 @@ In dit bestuursreglement wordt verstaan onder:
 
 4. De Commissie heeft een ambtelijk secretaris.
 
-#### Artikel 4. Taken en bevoegdheden Commissie
+##### Artikel 4. Taken en bevoegdheden Commissie
 
 1. De Commissie voert de bij of krachtens de wet aan haar opgedragen taken uit. Daartoe behoren krachtens [artikel 11c van de Alcoholwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=11c);
 
@@ -106,7 +131,7 @@ In dit bestuursreglement wordt verstaan onder:
 
 8. In de uitoefening van haar taken zoekt de Commissie actief inhoudelijke inbreng vanuit en afstemming met het veld, met behoud van de onafhankelijke rol die de Commissie heeft.
 
-#### Artikel 5. Besluitvorming Commissie
+##### Artikel 5. Besluitvorming Commissie
 
 1. De voorzitter leidt de vergaderingen van de Commissie.
 
@@ -132,7 +157,7 @@ In dit bestuursreglement wordt verstaan onder:
 
 12. De secretaris legt de besluiten van de Commissie vast in een verslag. De Commissie stelt het verslag eventueel na aanpassingen vast in de eerstvolgende vergadering.
 
-#### Artikel 6. Verantwoording door de Commissie
+##### Artikel 6. Verantwoording door de Commissie
 
 Als zelfstandig bestuursorgaan valt de Commissie onder de [Kaderwet zbo’s](https://wetten.overheid.nl/jci1.3:c:BWBR0020495). Gelet hierop gelden in ieder geval de volgende bepalingen voor de Commissie:
 
@@ -148,7 +173,7 @@ Als zelfstandig bestuursorgaan valt de Commissie onder de [Kaderwet zbo’s](htt
 
 - 6. De Commissie en het ministerie maken samenwerkingsafspraken.
 
-#### Artikel 7. Integriteit
+##### Artikel 7. Integriteit
 
 1. Elke vorm en schijn van belangenverstrengeling of schijn van vooringenomenheid van leden van de Commissie bij het uitoefenen van hun publiekrechtelijke bevoegdheden, wordt vermeden.
 
@@ -170,17 +195,17 @@ Als zelfstandig bestuursorgaan valt de Commissie onder de [Kaderwet zbo’s](htt
 
 10. Elk lid van de Commissie handelt integer en transparant, met inachtneming van de algemene beginselen van goede trouw.
 
-#### Artikel 8. Vertrouwelijkheid
+##### Artikel 8. Vertrouwelijkheid
 
 1. De leden van de Commissie zijn verplicht tot volledige geheimhouding van alle zaken waarvan zij in hun hoedanigheid als lid van de Commissie kennis nemen, waaronder zaken met betrekking tot examens en kandidaten, ook na hun aftreden.
 
 2. Het eerste lid is van overeenkomstige toepassing op diegenen die belast zijn met de administratieve en secretariële ondersteuning van de Commissie en op diegenen die vergaderingen geheel of gedeeltelijk hebben bijgewoond.
 
-#### Artikel 9. Klachtenregeling
+##### Artikel 9. Klachtenregeling
 
 1. De Commissie stelt, met inachtneming van [hoofdstuk 9 van de Algemene Wet Bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9), een klachtenregeling vast op grond waarvan eenieder recht heeft om over de wijze waarop de Lcsh zich in een bepaalde aangelegenheid jegens hem of een ander heeft gedragen een klacht in te dienen bij de Lcsh. De wijze van behandelen van de klacht is vastgelegd in de klachtenregeling.
 
-#### Artikel 10. Wijziging bestuursreglement
+##### Artikel 10. Wijziging bestuursreglement
 
 1. Wijziging van dit bestuursreglement geschiedt in overeenstemming met de besluitvormingsprocedure zoals bepaald in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048641&artikel=5&z=2023-09-26&g=2023-09-26) van dit reglement.
 
@@ -188,7 +213,7 @@ Als zelfstandig bestuursorgaan valt de Commissie onder de [Kaderwet zbo’s](htt
 
 3. Een wijziging in dit bestuursreglement wordt gepubliceerd in de Staatscourant, waarna deze wijziging in werking treedt.
 
-#### Artikel 11. Slotbepaling
+##### Artikel 11. Slotbepaling
 
 1. Dit bestuursreglement kan worden aangehaald als: Bestuursreglement van de Lcsh.
 

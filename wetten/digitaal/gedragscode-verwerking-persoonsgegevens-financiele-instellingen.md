@@ -1,13 +1,38 @@
 ---
 title: "Gedragscode Verwerking Persoonsgegevens Financiële Instellingen"
 identifier: "BWBR0033201"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2010-04-26
-laatste_update: 2010-04-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033201"
+country: "nl"
+rank: "zbo"
+publication_date: "2010-04-26"
+last_updated: "2010-04-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033201"
+soort: "zbo"
+stam_id: "12195253"
+version_id: "20405802"
+internal_id: "C28684501"
+label_id: "12167174"
+dtd_version: "2.0"
+original_entry_into_force: "2010-04-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033201/2010-04-26/0"
+intitule_bron: "Stcrt.2010-6429"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-03-16"
+intitule_published: "2010-04-26"
+intitule_in_force: "2010-04-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-6429"
+original_signed_date: "2010-03-16"
+original_published_date: "2010-04-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-6429"
+entry_into_force_date: "2010-04-26"
+jci_1_3: "jci1.3:c:BWBR0033201&z=2010-04-26&g=2010-04-26"
+jci_1_0: "1.0:c:BWBR0033201&g=2010-04-26"
+citeertitel_status: "redactioneel"
+signed_date: "2010-03-16"
+entry_into_force: "2010-04-26"
 ---
-
 # Gedragscode Verwerking Persoonsgegevens Financiële Instellingen
 
 ### 1. Overwegingen

@@ -1,13 +1,37 @@
 ---
 title: "Intrekkingsregeling BZK 2004"
 identifier: "BWBR0017790"
-categorie: "Overig"
-publicatiedatum: 2005-02-01
-laatste_update: 2005-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0017790"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2005-02-01"
+last_updated: "2005-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0017790"
+soort: "ministeriele-regeling"
+stam_id: "6555763"
+version_id: "11355332"
+internal_id: "C15296051"
+label_id: "6544364"
+original_entry_into_force: "2005-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0017790/2005-02-01/0"
+intitule_bron: "Stcrt.2004-252"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-12-20"
+intitule_published: "2004-12-29"
+intitule_in_force: "2004-12-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2004-252"
+original_signed_date: "2004-12-20"
+original_published_date: "2004-12-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2004-252-p11-SC68140"
+entry_into_force_date: "2005-02-01"
+jci_1_3: "jci1.3:c:BWBR0017790&z=2005-02-01&g=2005-02-01"
+jci_1_0: "1.0:c:BWBR0017790&g=2005-02-01"
+citeertitel_status: "officieel"
+signed_date: "2004-12-20"
+entry_into_force: "2005-02-01"
 ---
-
 # Intrekkingsregeling BZK 2004
 
 Handelende in overeenstemming met de Minister van Economische Zaken, voor zover het betreft [artikel IX, onderdeel dd](https://wetten.overheid.nl/jci1.3:c:BWBR0017790&artikel=IX&z=2005-02-01&g=2005-02-01);
@@ -22,7 +46,7 @@ Gelet op de artikelen die de bevoegdheid bieden om regelingen vast te stellen, t
 
 Besluiten:
 
-#### Artikel I. Regelingen met betrekking tot leden van de Staten-Generaal
+##### Artikel I. Regelingen met betrekking tot leden van de Staten-Generaal
 
 De volgende regelingen worden ingetrokken:
 
@@ -50,7 +74,7 @@ De volgende regelingen worden ingetrokken:
 
 - l. Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 30 maart 2001, nr. BW2001/U62977 (Stcrt. 2001, 68) houdende aanpassing bedragen Wet subsidiëring politieke partijen;
 
-#### Artikel II. Regelingen met betrekking tot de financiën van gemeenten en provincies
+##### Artikel II. Regelingen met betrekking tot de financiën van gemeenten en provincies
 
 De volgende regelingen worden ingetrokken:
 
@@ -74,7 +98,7 @@ De volgende regelingen worden ingetrokken:
 
 - j. Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Staatssecretaris van Financiën van 14 augustus 2001, nr. FO2001/U67174 (Stcrt. 2001, 171) houdende vaststelling bedragen per eenheid gemeentefonds 2000.
 
-#### Artikel III. Regelingen met betrekking tot arbeidsvoorwaarden
+##### Artikel III. Regelingen met betrekking tot arbeidsvoorwaarden
 
 De volgende regelingen worden ingetrokken:
 
@@ -104,7 +128,7 @@ De volgende regelingen worden ingetrokken:
 
 - m. Tijdelijke regeling afwijking betaalbaarstelling vakantie-uitkering WAO-conforme uitkering;
 
-#### Artikel IV. Regelingen met betrekking tot brandweer
+##### Artikel IV. Regelingen met betrekking tot brandweer
 
 De volgende regelingen worden ingetrokken:
 
@@ -118,7 +142,7 @@ De volgende regelingen worden ingetrokken:
 
 - e. Sociaal Statuut Nederlands bureau brandweerexamens.
 
-#### Artikel V. Regelingen met betrekking tot politie
+##### Artikel V. Regelingen met betrekking tot politie
 
 De volgende regelingen worden ingetrokken:
 
@@ -156,7 +180,7 @@ De volgende regelingen worden ingetrokken:
 
 - q. Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 15 december 2000, nr. EA2000/U101913 (Stcrt. 2000, 247) houdende wijziging Regeling maandgeld en salaris aspirant.
 
-#### Artikel VI. Regelingen met betrekking tot tegemoetkoming schade
+##### Artikel VI. Regelingen met betrekking tot tegemoetkoming schade
 
 De volgende regelingen worden ingetrokken:
 
@@ -166,7 +190,7 @@ De volgende regelingen worden ingetrokken:
 
 - c. Regeling tot aanpassing schadegebied bij tweede extreem zware regenval 1998.
 
-#### Artikel VII. Regelingen op het gebied van de [Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159), het [Vergoedingenbesluit adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008353) en het [Vergoedingenbesluit Wet Nationale Ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0009885)
+##### Artikel VII. Regelingen op het gebied van de [Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159), het [Vergoedingenbesluit adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008353) en het [Vergoedingenbesluit Wet Nationale Ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0009885)
 
 De volgende regelingen worden ingetrokken:
 
@@ -186,7 +210,7 @@ De volgende regelingen worden ingetrokken:
 
 - h. Vergoedingenregeling Adviescommissie Modernisering GBA.
 
-#### Artikel VIII. Regelingen met betrekking tot verzelfstandiging
+##### Artikel VIII. Regelingen met betrekking tot verzelfstandiging
 
 De volgende regelingen worden ingetrokken:
 
@@ -210,7 +234,7 @@ De volgende regelingen worden ingetrokken:
 
 - j. Sociaal Statuut verzelfstandiging Rijks Computercentrum.
 
-#### Artikel IX. Overige regelingen
+##### Artikel IX. Overige regelingen
 
 De volgende regelingen worden ingetrokken:
 
@@ -300,17 +324,17 @@ De volgende regelingen worden ingetrokken:
 
 - qq. Vergoedingsregeling tijdelijke WWV-vervangende uitkeringen lagere overheden 1988, 1989, 1990 en het tijdvak 1 januari tot 1 augustus 1991;
 
-#### Artikel X. Overgangsbepaling
+##### Artikel X. Overgangsbepaling
 
 1. Voor zover er ter zake nog sprake is van enige bestuursrechtelijke afdoening, met inbegrip van bezwaar- en beroepsprocedures, vindt deze overeenkomstig de regelingen, bedoeld in de [artikelen I tot en met X](https://wetten.overheid.nl/jci1.3:c:BWBR0017790&artikel=I&z=2005-02-01&g=2005-02-01), plaats.
 
 2. Bestaande aanspraken en verplichtingen bij, op grond of in het kader van de regelingen, bedoeld in de [artikelen I tot en met X](https://wetten.overheid.nl/jci1.3:c:BWBR0017790&artikel=I&z=2005-02-01&g=2005-02-01), blijven in stand.
 
-#### Artikel XI. Inwerkingtreding
+##### Artikel XI. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de eerste dag van de tweede kalendermaand na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel XII. Citeertitel
+##### Artikel XII. Citeertitel
 
 Deze regeling wordt aangehaald als: Intrekkingsregeling BZK 2004.
 

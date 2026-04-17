@@ -1,20 +1,44 @@
 ---
 title: "Regeling eisen geschiktheid 2000"
 identifier: "BWBR0011362"
-categorie: "Overig"
-publicatiedatum: 2026-04-01
-laatste_update: 2026-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011362"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-04-01"
+last_updated: "2026-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011362"
+soort: "ministeriele-regeling"
+stam_id: "4596303"
+version_id: "6412592"
+internal_id: "C6658151"
+label_id: "4574664"
+dtd_version: "2.0"
+original_entry_into_force: "2000-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011362/2026-04-01/0"
+intitule_bron: "Stcrt.2000-99"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-05-18"
+intitule_published: "2000-05-23"
+intitule_in_force: "2000-05-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2000-99"
+original_signed_date: "2000-05-18"
+original_published_date: "2000-05-23"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2000-06-01"
+jci_1_3: "jci1.3:c:BWBR0011362&z=2026-04-01&g=2026-04-01"
+jci_1_0: "1.0:c:BWBR0011362&g=2026-04-01"
+citeertitel_status: "officieel"
+signed_date: "2000-05-18"
+entry_into_force: "2000-06-01"
 ---
-
 # Regeling eisen geschiktheid 2000
 
 Gelet op de [artikelen 111, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=111), [130 tot en met 132](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=130) en [134 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=134);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze regeling wordt verstaan onder:
 
@@ -24,19 +48,19 @@ Besluit:
 
 2. Voor de toepassing van deze regeling wordt categorie B+code 96 gelijkgesteld met categorie BE.
 
-#### Artikel 2
+##### Artikel 2
 
 De eisen met betrekking tot de lichamelijke en geestelijke geschiktheid tot het besturen van motorrijtuigen worden vastgesteld overeenkomstig de bij deze regeling behorende bijlage.
 
-#### Artikel 3
+##### Artikel 3
 
 De Regeling eisen geschiktheid (Regeling van de Minister van Verkeer en Waterstaat van 12 juni 1996, nr. HW/RV 218632 Hoofddirectie van de Waterstaat (Stcrt. 117)) wordt ingetrokken.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling treedt in werking met ingang van 1 juni 2000.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling wordt aangehaald als: Regeling eisen geschiktheid 2000.
 

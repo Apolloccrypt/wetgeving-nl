@@ -1,13 +1,38 @@
 ---
 title: "Verdrag inzake het Open Luchtruim"
 identifier: "BWBV0001051"
-categorie: "Milieu"
-publicatiedatum: 2002-01-01
-laatste_update: 2002-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001051"
+country: "nl"
+rank: "verdrag"
+publication_date: "2002-01-01"
+last_updated: "2002-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001051"
+soort: "verdrag"
+stam_id: "10002456623"
+version_id: "10002451932"
+internal_id: "C10006976551"
+label_id: "10002448334"
+dtd_version: "2.0"
+original_entry_into_force: "2002-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001051/2002-01-01/0"
+intitule_bron: "Trb.1992-142"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-03-24"
+intitule_published: "1992-09-28"
+intitule_in_force: "2002-01-08"
+intitule_status: "goed"
+original_publication: "Trb.1992-142"
+original_signed_date: "1992-03-24"
+original_published_date: "1992-09-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1992-142"
+entry_into_force_date: "2002-01-01"
+jci_1_3: "jci1.3:c:BWBV0001051&z=2002-01-01&g=2002-01-01"
+jci_1_0: "1.0:c:BWBV0001051&g=2002-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "1992-03-24"
+entry_into_force: "2002-01-01"
 ---
-
 # Verdrag inzake het Open Luchtruim
 
 De Staten die dit Verdrag sluiten, hierna te noemen, gezamenlijk, de Staten-Partijen of, afzonderlijk, een Staat-Partij,
@@ -30,13 +55,13 @@ Erop wijzende dat de toepassing van een dergelijk „open luchtruim"-regime de S
 
 Zijn als volgt overeengekomen:
 
-#### Artikel I. Algemene bepalingen
+##### Artikel I. Algemene bepalingen
 
 1. Dit Verdrag stelt het regime in voor het uitvoeren van observatievluchten door Staten-Partijen boven de grondgebieden van andere Staten-Partijen, hetgeen wordt aangeduid als het „open luchtruim"-regime, en legt de daarmee verband houdende rechten en verplichtingen van de Staten-Partijen vast.
 
 2. Elk der Bijlagen en de bijbehorende Aanhangsels maken een integrerend deel uit van dit Verdrag.
 
-#### Artikel II. Begripsomschrijvingen
+##### Artikel II. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -110,7 +135,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - 35. „gevaarlijk gebied" een deel van het luchtruim met vastgestelde afmetingen, waarbinnen op bepaalde tijdstippen activiteiten kunnen plaatsvinden die gevaarlijk zijn voor de luchtvaart met luchtvaartuigen.
 
-#### Artikel III. Quotums
+##### Artikel III. Quotums
 
 1. Elke Staat-Partij is gerechtigd observatievluchten uit te voeren in overeenstemming met de bepalingen van dit Verdrag.
 
@@ -174,7 +199,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 7. Na de inwerkingtreding van dit Verdrag worden wijzigingen in de toekenning of verdeling van quotums ten gevolge van de vorming van, dan wel toelating tot of terugtrekking uit, een groep Staten-Partijen overeenkomstig het derde lid van deze Afdeling, van kracht op 1 januari na de eerstvolgende jaarlijkse toetsing in het kader van de „Open Luchtruim”-Overlegcommissie die plaatsvindt na de kennisgevingstermijn van zes maanden. Wanneer nodig worden nieuwe „open luchtruim”-vliegvelden aangewezen en worden dienovereenkomstig maximale vliegafstanden vastgesteld.
 
-#### Artikel IV. Sensoren
+##### Artikel IV. Sensoren
 
 1. Tenzij anders is bepaald in het derde lid van dit artikel, is een observatievliegtuig slechts uitgerust met sensoren van de volgende categorieën:
 
@@ -224,7 +249,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 14. Ingeval, nadat de in het dertiende lid van dit artikel bedoelde stappen zijn ondernomen, de Staten-Partijen blijven betwijfelen of de aan boord van een observatievliegtuig aangebrachte sensor of de bijbehorende apparatuur overeenstemt met de overeenkomstig de bepaling van Bijlage D gecertificeerde exemplaren, kan de kwestie worden voorgelegd aan de „Open Luchtruim"-Overlegcommissie.
 
-#### Artikel V. Aanwijzing van vliegtuigen
+##### Artikel V. Aanwijzing van vliegtuigen
 
 1. Elke Staat-Partij heeft het recht één of meer typen of modellen vliegtuigen die bij de desbetreffende autoriteiten van een Staat-Partij zijn ingeschreven, als observatievliegtuigen aan te wijzen.
 
@@ -236,7 +261,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 5. Elk observatievliegtuig moet de bemanning en het personeel als genoemd in Artikel VI, Afdeling III, kunnen vervoeren.
 
-#### Artikel VI. Keuze van de observatievliegtuigen, algemene bepalingen voor het uitvoeren van observatievluchten en vereisten betreffende het missieplan
+##### Artikel VI. Keuze van de observatievliegtuigen, algemene bepalingen voor het uitvoeren van observatievluchten en vereisten betreffende het missieplan
 
 1. Observatievluchten worden uitgevoerd met observatievliegtuigen die overeenkomstig artikel V door een Staat-Partij zijn aangewezen. Tenzij de geobserveerde Partij gebruik maakt van haar recht een door haarzelf aangewezen observatievliegtuig ter beschikking te stellen, heeft de observerende Partij het recht het observatievliegtuig ter beschikking te stellen. Ingeval de observerende Partij het observatievliegtuig ter beschikking stelt, heeft deze het recht een door haarzelf aangewezen vliegtuig of een door een andere Staat-Partij aangewezen vliegtuig ter beschikking te stellen. Ingeval de geobserveerde Partij het observatievliegtuig ter beschikking stelt, heeft de observerende Partij het recht te beschikken over een vliegtuig dat in staat is met volle tanks, met inbegrip van de nodige brandstofreserves, zonder bijtanken een minimumafstand af te leggen die gelijk is aan de helft van de maximale vliegafstand die voor de geobserveerde Partij geldt, waarvan kennisgeving is gedaan overeenkomstig het vijfde lid, letter G, van deze Afdeling.
 
@@ -358,7 +383,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 5. Ingeval de observerende Partij een observatievliegtuig ter beschikking stelt dat is aangewezen door een andere Staat-Partij dan de observerende en de geobserveerde Partij, heeft de observerende Partij het recht twee vertegenwoordigers en een tolk aan boord van het observatievliegtuig te hebben, naast een vertegenwoordiger voor elke bedieningspost voor sensoren aan boord van het vliegtuig, tenzij anders is overeengekomen. In dat geval zijn de in het eerste lid van deze Afdeling uiteengezette bepalingen inzake vluchtwaarnemers eveneens van toepassing. Vertegenwoordigers en tolken hebben de in Bijlage G bij dit Verdrag omschreven rechten en plichten.
 
-#### Artikel VII. Transitvluchten
+##### Artikel VII. Transitvluchten
 
 1. Transitvluchten, ter toepassing van dit Verdrag uitgevoerd door een observerende Partij naar en van het grondgebied van een geobserveerde Partij, beginnen op het grondgebied van de observerende Partij of een andere Staat-Partij.
 
@@ -366,7 +391,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 3. Het gebruik van sensoren aan boord van een observatievliegtuig gedurende transitvluchten is verboden. Ingeval het observatievliegtuig gedurende een transitvlucht op het grondgebied van een Staat-Partij landt, inspecteert die Staat-Partij na de landing en vóór het vertrek de kappen van de sensoraperturen of andere inrichtingen die het gebruik van sensoren verhinderen, teneinde zich ervan te vergewissen dat deze op de juiste wijze zijn aangebracht.
 
-#### Artikel VIII. Verboden, afwijkingen van het vliegplan en noodsituaties
+##### Artikel VIII. Verboden, afwijkingen van het vliegplan en noodsituaties
 
 1. De geobserveerde Partij heeft het recht een observatievlucht die niet in overeenstemming met de bepalingen van dit Verdrag is, te verbieden.
 
@@ -438,7 +463,7 @@ In dergelijke gevallen heeft de observerende Partij het recht te beslissen of de
 
 5. Ingeval een observatievliegtuig niet bij de geobserveerde Partij is ingeschreven, worden na afronding van het onderzoek alle wrakken en wrakstukken van het observatievliegtuig en de sensoren, indien gevonden en geborgen, teruggegeven aan de observerende Partij of aan de Partij waaraan het vliegtuig toebehoort, indien daarom wordt verzocht.
 
-#### Artikel IX. Tijdens observatievluchten door sensoren verzamelde gegevens
+##### Artikel IX. Tijdens observatievluchten door sensoren verzamelde gegevens
 
 1. Voor het registreren van de tijdens observatievluchten door sensoren verzamelde gegevens worden de volgende gegevensdragers gebruikt:
 
@@ -524,7 +549,7 @@ Het overeengekomen formaat waarin deze gegevens worden geregistreerd en uitgewis
 
 - F. het type en het formaat van de duplicaat-gegevensdrager, hetzij een negatieve of een positieve film, hetzij een magneetband.
 
-#### Artikel X. „Open luchtruim"-overlegcommissie
+##### Artikel X. „Open luchtruim"-overlegcommissie
 
 1. Ter bevordering van de doelstellingen van dit Verdrag en ter vergemakkelijking van de toepassing van de bepalingen daarvan, stellen de Staten-Partijen hierbij een „Open Luchtruim"-Overlegcommissie in.
 
@@ -548,15 +573,15 @@ Het overeengekomen formaat waarin deze gegevens worden geregistreerd en uitgewis
 
 7. Bepalingen betreffende de werkwijze van de „Open Luchtruim"-Overlegcommissie zijn uiteengezet in Bijlage L bij dit Verdrag.
 
-#### Artikel XI. Kennisgevingen en rapporten
+##### Artikel XI. Kennisgevingen en rapporten
 
 De Staten-Partijen doen de op grond van dit Verdrag vereiste kennisgevingen en rapporten toekomen in schriftelijke vorm. De Staten-Partijen verzenden bedoelde kennisgevingen en rapporten langs diplomatieke weg of, naar keuze, langs andere officiële kanalen, zoals het communicatienetwerk van de Conferentie over Veiligheid en Samenwerking in Europa.
 
-#### Artikel XII. Aansprakelijkheid
+##### Artikel XII. Aansprakelijkheid
 
 Een Staat-Partij is, in overeenstemming met het internationale recht en de internationale gebruiken, verplicht schadevergoeding te betalen voor schade die hij heeft toegebracht aan andere Staten-Partijen, of aan hun natuurlijke personen of rechtspersonen of hun eigendommen, bij de toepassing van dit Verdrag.
 
-#### Artikel XIII. Aanwijzing van personeel en voorrechten en immuniteiten
+##### Artikel XIII. Aanwijzing van personeel en voorrechten en immuniteiten
 
 1. Elke Staat-Partij verstrekt op het tijdstip van nederlegging van zijn akte van bekrachtiging bij één van beide Depositarissen aan alle andere Staten-Partijen, ter beoordeling, een lijst van het aangewezen personeel dat alle met het uitvoeren van observatievluchten verband houdende taken zal verrichten voor die Staat-Partij, met inbegrip van de controle op de verwerking van de door sensoren verzamelde gegevens. Bedoelde lijst van aangewezen personeel mag nimmer meer dan 400 personen omvatten. In de lijst dient voor iedere daarin opgenomen persoon te zijn vermeld de naam, het geslacht, de geboortedatum en -plaats, het paspoortnummer en de functie. Elke Staat-Partij heeft het recht zijn lijst van aangewezen personeel te wijzigen tot 30 dagen na de inwerkingtreding van dit Verdrag en daarna eenmaal per zes maanden.
 
@@ -580,13 +605,13 @@ Een Staat-Partij is, in overeenstemming met het internationale recht en de inter
 
 5. De vervoermiddelen van het personeel genieten dezelfde immuniteiten van onderzoek, vordering, beslaglegging of executoriale maatregelen als die van een diplomatieke zending op grond van artikel 22, derde lid, van het Verdrag van Wenen, tenzij in dit Verdrag anders is bepaald.
 
-#### Artikel XIV. Benelux
+##### Artikel XIV. Benelux
 
 1. Uitsluitend voor de toepassing van de artikelen II tot en met IX en artikel XI, alsmede de Bijlagen A tot en met I en Bijlage K bij dit Verdrag, worden het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden beschouwd als één StaatPartij, hierna te noemen de Benelux.
 
 2. Onverminderd de bepalingen van artikel XV, kunnen de bovengenoemde Staten-Partijen deze regeling beëindigen door middel van een kennisgeving aan alle andere Staten-Partijen. Deze regeling wordt dan geacht te eindigen op de eerstvolgende 31ste december na de termijn van 60 dagen te rekenen vanaf die kennisgeving.
 
-#### Artikel XV. Duur en terugtrekking
+##### Artikel XV. Duur en terugtrekking
 
 1. Dit Verdrag wordt voor onbepaalde tijd gesloten.
 
@@ -594,7 +619,7 @@ Een Staat-Partij is, in overeenstemming met het internationale recht en de inter
 
 3. Ingeval een Staat-Partij in overeenstemming met het tweede lid van dit artikel kennisgeving doet van zijn besluit zich uit dit Verdrag terug te trekken, beleggen de Depositarissen ten minste 30 dagen en ten hoogste 60 dagen na de ontvangst van die kennisgeving een conferentie van de Staten-Partijen, teneinde de gevolgen van die terugtrekking voor het Verdrag te bestuderen.
 
-#### Artikel XVI. Wijzigingen en periodieke toetsing
+##### Artikel XVI. Wijzigingen en periodieke toetsing
 
 1. Elke Staat-Partij heeft het recht wijzigingen op dit Verdrag voor te stellen. De tekst van elk wijzigingsvoorstel wordt ingediend bij één van beide Depositarissen, die het ter bestudering toezendt aan alle Staten-Partijen. Indien daarom door ten minste drie Staten-Partijen wordt verzocht binnen een termijn van 90 dagen na de toezending van het wijzigingsvoorstel, beleggen de Depositarissen een conferentie van de Staten-Partijen teneinde het wijzigingsvoorstel te bestuderen. Deze conferentie begint ten vroegste 30 dagen en uiterlijk 60 dagen na de ontvangst van het derde daartoe strekkende verzoek.
 
@@ -602,7 +627,7 @@ Een Staat-Partij is, in overeenstemming met het internationale recht en de inter
 
 3. Tenzij ten minste drie Staten-Partijen reeds eerder daarom verzoeken, beleggen de Depositarissen drie jaar na de inwerkingtreding van dit Verdrag, en daarna eens in de vijf jaar, een conferentie van de Staten-Partijen ter toetsing van de toepassing van dit Verdrag.
 
-#### Artikel XVII. Depositarissen, inwerkingtreding en toetreding
+##### Artikel XVII. Depositarissen, inwerkingtreding en toetreding
 
 1. Dit Verdrag dient door elke Staat-Partij te worden bekrachtigd in overeenstemming met zijn constitutionele procedures. De akten van bekrachtiging en de akten van toetreding worden nedergelegd bij de Regering van Canada of de Regering van de Republiek Hongarije, of bij beide, die hierbij als Depositarissen worden aangewezen. Dit Verdrag wordt door de Depositarissen geregistreerd ingevolge artikel 102 van het Handvest van de Verenigde Naties.
 
@@ -634,7 +659,7 @@ Deze aangelegenheid wordt bestudeerd tijdens de volgende gewone vergadering van 
 
 - G. elke andere aangelegenheid waarvan de Depositarissen krachtens dit Verdrag de Staten-Partijen in kennis dienen te stellen.
 
-#### Artikel XVIII. Voorlopige toepassing en gefaseerde toepassing van het verdrag
+##### Artikel XVIII. Voorlopige toepassing en gefaseerde toepassing van het verdrag
 
 Ter vergemakkelijking van de toepassing van dit Verdrag worden enkele bepalingen daarvan voorlopig toegepast en worden andere in fasen toegepast.
 
@@ -670,13 +695,13 @@ Ter vergemakkelijking van de toepassing van dit Verdrag worden enkele bepalingen
 
 7. De instelling van volgende fasen met betrekking tot de invoering van extra categorieën sensoren of verbeteringen van het vermogen van bestaande categorieën sensoren wordt besproken door de „Open Luchtruim" Overlegcommissie in overeenstemming met de bepalingen van artikel IV, derde lid, inzake die invoering of verbetering.
 
-#### Artikel XIX. Authentieke teksten
+##### Artikel XIX. Authentieke teksten
 
 De oorspronkelijke exemplaren van dit Verdrag, waarvan de Duitse, de Franse, de Engelse, de Italiaanse, de Russische en de Spaanse tekst gelijkelijk authentiek zijn, worden nedergelegd in het archief van de Depositarissen. De Depositarissen doen alle Staten-Partijen voor eensluidend gewaarmerkte afschriften van dit Verdrag toekomen.
 
 ### AFDELING I. TOEKENNING VAN PASSIEVE QUOTUMS
 
-#### 1
+##### 1
 
 De toekenning van de individuele passieve quotums wordt hieronder uiteengezet en geldt slechts voor de Staten-Partij en die het Verdrag hebben bekrachtigd:
 
@@ -703,13 +728,13 @@ De toekenning van de individuele passieve quotums wordt hieronder uiteengezet en
 | Voor de Republiek Turkije | 12 |
 | Voor Oekraïne | 12 |
 
-#### 2
+##### 2
 
 Ingeval een nieuwe Staat dit Verdrag bekrachtigt of hiertoe toetreedt in overeenstemming met de bepalingen van artikel XVII en artikel X, vierde lid, letter C, wordt, met inachtneming van het vierde lid, letter D, van laatstgenoemd artikel over de toekenning van een passief quotum aan die Staat beraadslaagd gedurende de gewone vergadering van de „Open Luchtruim"-Overlegcommissie na de datum van nederlegging van zijn akte van bekrachtiging of toetreding.
 
 ### AFDELING II. EERSTE VERDELING VAN ACTIEVE QUOTUMS VOOR OBSERVATIEVLUCHTEN
 
-#### 1
+##### 1
 
 De eerste verdeling van actieve quotums ingevolge artikel III, Afdeling I, zesde lid, van het Verdrag geschiedt op zodanige wijze, dat elke Staat-Partij verplicht is over zijn grondgebied een aantal observatievluchten te dulden dat niet groter is dan 75 procent, naar beneden afgerond op het eerstvolgende hele getal, van het individuele passieve quotum, toegekend als uiteengezet in Afdeling 1, paragraaf 1, van deze Bijlage. Op deze grondslag, en voor de Staten-Partijen die onderhandelingen hebben gevoerd in het kader van de „Open Luchtruim"-Conferentie te Wenen, is de eerste wederzijdse verdeling geldig vanaf de datum van inwerkingtreding van het Verdrag tot 31 december van het daaropvolgende jaar; zij geldt slechts ten aanzien van de Staten-Partijen die het Verdrag hebben bekrachtigd. De eerste verdeling wordt hieronder uiteengezet:
 
@@ -751,15 +776,15 @@ De Republiek Turkije heeft het recht twee observatievluchten uit te voeren boven
 
 Oekraïne heeft het recht één observatievlucht uit te voeren boven het grondgebied van de Tsjechische en Slowaakse Federatieve Republiek, één observatievlucht boven het grondgebied van de Republiek Hongarije, één observatievlucht boven het grondgebied van de Republiek Polen, één observatievlucht boven het grondgebied van Roemenië, en twee observatievluchten boven het grondgebied van de Republiek Turkije.
 
-#### 2
+##### 2
 
 Na deze eerste verdeling tot de in artikel XVIII met het oog hierop voor het gebruik van de actieve quotums genoemde datum van volledige toepassing van het Verdrag, geschiedt de jaarlijkse verdeling op grond van de in paragraaf 1 van deze Afdeling met betrekking tot de toekenning van de individuele passieve quotums vastgelegde 75%-regel.
 
-#### 3
+##### 3
 
 Vanaf de datum van volledige toepassing duldt elke Staat-Partij, indien daarom wordt verzocht, bij volgende verdelingen van actieve quotums boven zijn grondgebied een aantal observatievluchten tot ten hoogste de totale hoeveelheid van zijn individuele passieve quotum. Wanneer zulks mogelijk is of daarom wordt verzocht en tenzij niet anders is overeengekomen, geschieden die verdelingen op grond van een evenredige vermeerdering van de bij de eerste verdeling vastgelegde actieve quotums.
 
-#### 4
+##### 4
 
 Ingeval een nieuwe Staat het Verdrag bekrachtigt, of hiertoe toetreedt, in overeenstemming met de bepalingen van artikel XVII, wordt over de verdeling van de aan die Staat toe te kennen actieve quotums beraadslaagd tijdens de gewone vergadering van de „Open Luchtruim"-Overlegcommissie na de datum van nederlegging van zijn akte van bekrachtiging of toetreding, behoudens de volgende bepalingen:
 
@@ -771,11 +796,11 @@ Ingeval een nieuwe Staat het Verdrag bekrachtigt, of hiertoe toetreedt, in overe
 
 ### AFDELING I. TECHNISCHE GEGEVENS
 
-#### 1
+##### 1
 
 Ingevolge artikel IV, tiende lid, stelt elke Staat-Partij alle andere Staten-Partijen in kennis van de toepasselijke, in deze Afdeling genoemde, technische gegevens betreffende elke sensor die is aangebracht in een door die Staat-Partij ingevolge artikel V van het Verdrag aangewezen observatievliegtuig.
 
-#### 2
+##### 2
 
 De volgende technische gegevens dienen te worden verstrekt voor panorama- en fotocamera's:
 
@@ -807,7 +832,7 @@ De volgende technische gegevens dienen te worden verstrekt voor panorama- en fot
 
 - J. indien van toepassing, de maximale gebruikshoogte in meters.
 
-#### 3
+##### 3
 
 De volgende technische gegevens dienen te worden verstrekt voor videocamera's:
 
@@ -831,7 +856,7 @@ De volgende technische gegevens dienen te worden verstrekt voor videocamera's:
 
 - G. de spectrale bandbreedte in nanometers.
 
-#### 4
+##### 4
 
 De volgende technische gegevens dienen te worden verstrekt voor infrarood-lijnaftasttoestellen:
 
@@ -855,7 +880,7 @@ De volgende technische gegevens dienen te worden verstrekt voor infrarood-lijnaf
 
 - J. indien van toepassing, de maximale gebruikshoogte in meters.
 
-#### 5
+##### 5
 
 De volgende technische gegevens dienen te worden verstrekt voor zijwaarts gerichte radars met synthetische apertuur:
 
@@ -877,7 +902,7 @@ De volgende technische gegevens dienen te worden verstrekt voor zijwaarts gerich
 
 - I. het uitgangsvermogen van de zender in watt.
 
-#### 6
+##### 6
 
 De volgende technische gegevens dienen te worden verstrekt voor sensoren die gegevens vastleggen op fotofilm:
 
@@ -889,7 +914,7 @@ De volgende technische gegevens dienen te worden verstrekt voor sensoren die geg
 
 - D. de capaciteit van het filmchassis voor elk type film in meters.
 
-#### 7
+##### 7
 
 De volgende technische gegevens dienen te worden verstrekt voor sensoren die gegevens vastleggen op andere gegevensdragers:
 
@@ -907,7 +932,7 @@ De volgende technische gegevens dienen te worden verstrekt voor sensoren die geg
 
 ### AFDELING II. HET VAN VERKLARENDE AANTEKENINGEN VOORZIEN
 
-#### 1
+##### 1
 
 De gedurende een observatieperiode door sensoren verzamelde gegevens dienen van de volgende verklarende aantekeningen te worden voorzien op de aanloopstrook van elke rol van het oorspronkelijke negatief of aan het begin van elke andere gegevensdrager, zulks in overeenstemming met de bepalingen van Aanhangsel I bij deze Bijlage:
 
@@ -921,7 +946,7 @@ De gedurende een observatieperiode door sensoren verzamelde gegevens dienen van 
 
 - E. indien van toepassing, de brandpuntsafstand.
 
-#### 2
+##### 2
 
 De gedurende een observatieperiode door sensoren verzamelde gegevens dienen van de volgende verklarende aantekeningen te worden voorzien, die hetzij met de hand, hetzij elektronisch zijn geregistreerd met behulp van het navigatiesysteem of de Iuchtvaartelektronica van het observatievliegtuig, op een wijze die geen details verhult, zulks in overeenstemming met de bepalingen van Aanhangsel I bij deze Bijlage:
 
@@ -985,15 +1010,15 @@ De gedurende een observatieperiode door sensoren verzamelde gegevens dienen van 
 
 - d. de rolhoek
 
-#### 3
+##### 3
 
 Bij kopieën of beeldstroken, vervaardigd van het oorspronkelijke negatief of andere gegevensdragers, dienen de in de paragrafen 1 en 2 van deze Afdeling genoemde verklarende aantekeningen op elk positief te worden aangebracht.
 
-#### 4
+##### 4
 
 Staten-Partijen hebben het recht de gedurende een observatievlucht verzamelde gegevens van verklarende aantekeningen te voorzien met behulp van alfanumerieke tekens, dan wel met behulp van tijdens het tijdvak van voorlopige toepassing door de „Open Luchtruim"-Overlegcommissie overeen te komen codes.
 
-#### 1
+##### 1
 
 Het referentienummer van de observatievlucht wordt op de volgende wijze aangegeven door middel van één reeks van zes alfanumerieke tekens:
 
@@ -1003,7 +1028,7 @@ Het referentienummer van de observatievlucht wordt op de volgende wijze aangegev
 
 - C. een getal van drie cijfers ter aanduiding van elke afzonderlijke observatievlucht, waaruit het actieve quotum blijkt dat tijdens de jaarlijkse toetsing in het kader van de „Open Luchtruim"-Overlegcommissie voor een kalenderjaar is toegekend aan een Staat-Partij met betrekking tot het grondgebied van een andere Staat-Partij.
 
-#### 2
+##### 2
 
 De omschrijving van de sensor wordt op de volgende wijze aangegeven door middel van één blok van ten hoogste zes alfanumerieke tekens, bestaande uit twee reeksen:
 
@@ -1026,7 +1051,7 @@ De omschrijving van de sensor wordt op de volgende wijze aangegeven door middel 
 | 5. „TA" | - band, analoog; of |
 | 6. „TD" | - band, digitaal. |
 
-#### 3
+##### 3
 
 De opstelling van de sensoren wordt op de volgende wijze aangegeven door middel van één blok van ten hoogste negen alfanumerieke tekens, bestaande uit drie reeksen:
 
@@ -1059,65 +1084,65 @@ De opstelling van de sensoren wordt op de volgende wijze aangegeven door middel 
 
 - 2. het tweede getal ter aanduiding van de afzonderlijke plaats van de sensor, in volgorde van links naar rechts ten opzichte van de vliegrichting van het observatievliegtuig.
 
-#### 4
+##### 4
 
 De brandpuntsafstand van een objectief wordt aangegeven in millimeters.
 
-#### 5
+##### 5
 
 De datum en het tijdstip worden tot op de minuut aangegeven in de Gecoördineerde Wereldtijd.
 
-#### 6
+##### 6
 
 De gemiddelde hoogte van het observatievliegtuig boven de grond wordt aangegeven door middel van een getal van vijf cijfers, gevolgd door een code ter aanduiding van de maateenheid, hetzij in voeten, door middel van de letter „F", hetzij in meters, door middel van de letter „M".
 
-#### 7
+##### 7
 
 De positie in lengte- en breedtegraden van het observatievliegtuig wordt aangegeven in graden, afgerond op de dichtstbijzijnde honderdste van een graad, als „gg.gg(N of S) ggg.gg(E of W)", of in graden en minuten, afgerond op de dichtstbijzijnde minuut, als „gg mm(N of S) ggg mm(E of W)".
 
-#### 8
+##### 8
 
 De werkelijke koers van het observatievliegtuig wordt aangegeven in graden, afgerond op de dichtstbijzijnde graad.
 
-#### 9
+##### 9
 
 De rolhoek van het observatievliegtuig wordt aangegeven in graden, gevolgd door een code die aanduidt of de rolhoek naar links, aangegeven door middel van de letter „L", dan wel naar rechts, aangegeven door middel van de letter „R", is gericht.
 
-#### 10
+##### 10
 
 De langshoek van het observatievliegtuig wordt aangegeven in graden, gevolgd door een code die aanduidt of de langshoek naar boven, aangegeven door middel van de letter U, dan wel naar beneden, aangegeven door middel van de letter „D", is gericht ten opzichte van het horizontale vlak.
 
-#### 11
+##### 11
 
 De drifthoek van het observatievliegtuig wordt aangegeven in graden, gevolgd door een code die aanduidt of de drifthoek naar links, aangegeven door middel van de letter „L", dan wel naar rechts, aangegeven door middel van de letter „R", is gericht ten opzichte van de vliegbaan van het observatievliegtuig.
 
-#### 12
+##### 12
 
 De snelheid van het observatievliegtuig ten opzichte van een punt op de grond wordt aangegeven door middel van een getal van drie cijfers, gevolgd door een code van twee letters die de maateenheid aanduidt, hetzij in zeemijlen, door middel van de letters „NM", hetzij in kilometers, door middel van de letters „KM", per uur.
 
-#### 13
+##### 13
 
 Het dichtstbij gelegen punt van de aftaststrookbreedte wordt aangegeven in kilometers.
 
-#### 14
+##### 14
 
 De openingshoek wordt aangegeven in graden, gemeten vanaf het verticale vlak.
 
-#### 15
+##### 15
 
 De aftaststrookbreedte wordt aangegeven in kilometers.
 
-#### 16
+##### 16
 
 Bij films wordt elk filmchassis dat gedurende een observatievlucht door dezelfde sensor is gebruikt, doorlopend genummerd, te beginnen bij één. Elk beeld op het oorspronkelijke negatief dat door elke sensor werd belicht, wordt doorlopend genummerd, van het eerste tot het laatste beeld van het desbetreffende chassis van die sensor. Wanneer een film is genummerd met één of twee getallen per beeld, wordt een afzonderlijk beeld eenduidig benoemd door middel van ofwel het getal dat het dichtst bij het middelpunt van het beeld is gelegen, ofwel, indien beide getallen even ver van het middelpunt zijn gelegen, het kleinste hele getal.
 
 ### AFDELING I. ALGEMENE BEPALINGEN
 
-#### 1
+##### 1
 
 Elke Staat-Partij heeft het recht deel te nemen aan de certificering van elk type en model observatievliegtuig en de bijbehorende sensoren dat door een andere Staat-Partij is aangewezen overeenkomstig artikel V van het Verdrag; daarbij worden het observatievliegtuig en de sensoren daarvan zowel op de grond als tijdens een vlucht aan een onderzoek onderworpen.
 
-#### 2
+##### 2
 
 Elke certificering wordt verricht teneinde vast te stellen:
 
@@ -1133,7 +1158,7 @@ Elke certificering wordt verricht teneinde vast te stellen:
 
 - F. dat de kappen voor sensoraperturen of andere inrichtingen die het gebruik van de sensoren verhinderen op de juiste wijze zijn aangebracht in overeenstemming met de bepalingen van artikel IV, vierde lid, van het Verdrag.
 
-#### 3
+##### 3
 
 Elke Staat-Partij die een certificering verricht, stelt alle andere Staten-Partijen ten minste 60 dagen van tevoren in kennis van het tijdvak van zeven dagen gedurende hetwelk de certificering van het desbetreffende vliegtuig en de sensoren daarvan zal plaatsvinden. In de kennisgeving dient te zijn vermeld:
 
@@ -1149,13 +1174,13 @@ Elke Staat-Partij die een certificering verricht, stelt alle andere Staten-Parti
 
 - F. het type en het model, alsmede een omschrijving en de opstelling van elke aan boord van het te certificeren observatievliegtuig aangebrachte sensor, zulks in overeenstemming met de in Aanhangsel 1 bij Bijlage B bij dit Verdrag voorgeschreven aanduidingen.
 
-#### 4
+##### 4
 
 Uiterlijk tien dagen na ontvangst van de kennisgeving ingevolge de bepalingen van paragraaf 3 van deze Afdeling stelt elke Staat-Partij alle andere Staten-Partijen in kennis van zijn voornemen deel te nemen aan de certificering van het desbetreffende vliegtuig en de sensoren daarvan overeenkomstig de bepalingen van artikel IV, elfde lid. Over het aantal personen uit de Staten-Partijen die kennisgeving van hun voorgenomen deelneming hebben gedaan, dat aan de certificering zal deelnemen, wordt besloten in het kader van de „Open Luchtruim"-Overlegcommissie. Tenzij anders is overeengekomen, mag het aantal personen niet meer bedragen dan 40 in totaal en niet meer dan vier per Staat-Partij.
 
 Ingeval twee of meer Staten-Partijen kennisgeving doen van hun voornemen een certificering te verrichten gedurende hetzelfde tijdvak, wordt in het kader van de „Open Luchtruim"-Overlegcommissie besloten wie van hen de certificering zal verrichten in dit tijdvak.
 
-#### 5
+##### 5
 
 Elke Staat-Partij die aan de certificering deelneemt, stelt de Staat-Partij die de certificering verricht ten minste 30 dagen vóór de aanvangsdatum van de certificering van het observatievliegtuig, als bekendgemaakt in overeenstemming met paragraaf 3 van deze Afdeling, in kennis van het volgende:
 
@@ -1165,7 +1190,7 @@ Elke Staat-Partij die aan de certificering deelneemt, stelt de Staat-Partij die 
 
 - C. het vervoermiddel dat wordt gebruikt om het punt van binnenkomst te bereiken.
 
-#### 6
+##### 6
 
 Ten minste 14 dagen vóór de datum waarop de certificering van het observatievliegtuig begint, als bekendgemaakt in overeenstemming met paragraaf 3 van deze Afdeling, stelt de Staat-Partij die de certificering verricht de Staten-Partijen die aan de certificering deelnemen in kennis van de volgende informatie betreffende elke aan boord van het observatievliegtuig aangebrachte sensor en de bijbehorende apparatuur waarmee de door de sensoren verzamelde gegevens van verklarende aantekeningen worden voorzien:
 
@@ -1181,29 +1206,29 @@ Ten minste 14 dagen vóór de datum waarop de certificering van het observatievl
 
 - C. aanwijzingen betreffende de bediening van de sensor tijdens de vlucht.
 
-#### 7
+##### 7
 
 Ingeval geen enkele Staat-Partij kennisgeving doet van zijn voornemen deel te nemen aan de certificering in overeenstemming met de bepalingen van paragraaf 5 van deze Afdeling, verricht de Staat-Partij zelf een onderzoek tijdens een vlucht in overeenstemming met de bepalingen van Afdeling III van deze Bijlage en stelt deze een certificeringsrapport op in overeenstemming met de bepalingen van Afdeling IV van deze Bijlage.
 
-#### 8
+##### 8
 
 De bepalingen van artikel XIII, Afdeling II, van het Verdrag zijn op de leden van het personeel van elke Staat-Partij die aan de certificering deelneemt van toepassing gedurende hun gehele verblijf op het grondgebied van de Staat-Partij die de certificering verricht.
 
-#### 9
+##### 9
 
 Het personeel van elke Staat-Partij die aan de certificering deelneemt, verlaat het grondgebied van de Staat-Partij die de certificering verricht onmiddellijk na het ondertekenen van het certificeringsrapport.
 
 ### AFDELING II. ONDERZOEK OP DE GROND
 
-#### 1
+##### 1
 
 Met instemming van de Staat-Partij die de certificering verricht, kunnen gelijktijdig onderzoeken op de grond worden verricht door meer dan één Staat-Partij. Staten-Partijen hebben het recht gezamenlijk een onderzoek op de grond te verrichten van het observatievliegtuig en de sensoren daarvan. De Staat-Partij die de certificering verricht, heeft het recht het aantal personen vast te stellen dat op een bepaald tijdstip bezig mag zijn met een onderzoek op de grond van het observatievliegtuig en de sensoren daarvan.
 
-#### 2
+##### 2
 
 Tenzij anders is overeengekomen, mag het onderzoek op de grond niet langer duren dan drie tijdvakken van 8 uur per observatievliegtuig en de sensoren daarvan.
 
-#### 3
+##### 3
 
 Voor het begin van het onderzoek op de grond verstrekt de Staat-Partij die de certificering verricht de Staten-Partijen die aan de certificering deelnemen de volgende informatie:
 
@@ -1223,7 +1248,7 @@ Voor het begin van het onderzoek op de grond verstrekt de Staat-Partij die de ce
 
 - D. voor zijwaarts gerichte radars met synthetische apertuur, vliegproefgegevens afkomstig uit alle uitvoerapparatuur, waaruit de grondresolutie in verhouding tot het schuine zicht vanuit het vliegtuig blijkt.
 
-#### 4
+##### 4
 
 Voor het begin van het onderzoek op de grond geeft de Staat-Partij die de certificering verricht de Staten-Partijen die aan de certificering deelnemen, voorlichting over:
 
@@ -1235,15 +1260,15 @@ Voor het begin van het onderzoek op de grond geeft de Staat-Partij die de certif
 
 - D. de inventarisatieprocedures die de begeleiders van de Staat-Partij die de certificering verricht, beogen toe te passen overeenkomstig paragraaf 6 van deze Afdeling.
 
-#### 5
+##### 5
 
 Voor het begin van het onderzoek op de grond verstrekt elke Staat-Partij die aan de certificering deelneemt aan de Staat-Partij die de certificering verricht een lijst van alle apparatuur die zal worden gebruikt gedurende het onderzoek op de grond of tijdens een vlucht. Het is de Staten-Partijen die het onderzoek verrichten toegestaan videocamera's, draagbare geluidsopname-apparatuur en draagbare computers mee aan boord te nemen en deze aldaar te gebruiken. Onder voorbehoud van goedkeuring door de Staat-Partij die de certificering verricht, is het de Staten-Partij en die aan de certificering deelnemen toegestaan andere apparatuur te gebruiken.
 
-#### 6
+##### 6
 
 De Staten-Partijen die aan de certificering deelnemen, gaan te zamen met de Staat-Partij die de certificering verricht over tot inventarisatie van alle in paragraaf 5 van deze Afdeling bedoelde apparatuur en gaan de in acht te nemen inventarisatieprocedures na teneinde zich ervan te vergewissen dat alle apparatuur die door de Staten-Partijen die aan de certificering deelnemen aan boord van het observatievliegtuig is gebracht, na afloop van het onderzoek uit het observatievliegtuig is verwijderd.
 
-#### 7
+##### 7
 
 Het personeel van elke Staat-Partij die aan de certificering deelneemt heeft het recht gedurende het onderzoek op de grond van het observatievliegtuig en van elke aan boord van het observatievliegtuig aangebrachte sensor:
 
@@ -1255,19 +1280,19 @@ Het personeel van elke Staat-Partij die aan de certificering deelneemt heeft het
 
 - D. zichzelf vertrouwd te maken met de in overeenstemming met de bepalingen van paragraaf 3 van deze Afdeling verstrekte vliegproefgegevens.
 
-#### 8
+##### 8
 
 Op verzoek van een Staat-Partij die aan de certificering deelneemt, fotografeert de Staat-Partij die de certificering verricht iedere aan boord van het observatievliegtuig aangebrachte sensor, de bijbehorende apparatuur aan boord van het observatievliegtuig, of de sensoraperturen met hun kappen of inrichtingen die het gebruik van de sensoren verhinderen. Deze foto's dienen te voldoen aan de in Afdeling 1, paragraaf 6, letter B, punten 1, 2 en 3, van deze Bijlage genoemde vereisten.
 
-#### 9
+##### 9
 
 De Staat-Partij die de certificering verricht, heeft het recht personeel aan te wijzen dat de Staten-Partijen die aan de certificering deelnemen gedurende het gehele onderzoek op de grond begeleidt om zich ervan te vergewissen dat de bepalingen van deze Afdeling worden nageleefd. Het personeel van de Staat-Partij die de certificering verricht, bemoeit zich niet met de werkzaamheden van de Staten-Partijen die aan de certificering deelnemen, tenzij deze werkzaamheden in strijd zijn met de in paragraaf 4, letter C, van deze Afdeling bedoelde veiligheidsmaatregelen.
 
-#### 10
+##### 10
 
 De Staat-Partij die de certificering verricht, verleent de Staten-Partijen die aan de certificering deelnemen toegang tot het gehele observatievliegtuig, alsmede de sensoren daarvan en de bijbehorende apparatuur en levert voldoende energie om deze te bedienen. De Staat-Partij die de certificering verricht, stelt afgeschermde gedeelten open of verwijdert panelen of obstakels voor zover zulks noodzakelijk is om de te certificeren sensoren en bijbehorende apparatuur aan een onderzoek te kunnen onderwerpen.
 
-#### 11
+##### 11
 
 Onverminderd de bepalingen van deze Afdeling dient het onderzoek op de grond te worden verricht op een wijze die niet leidt tot:
 
@@ -1277,21 +1302,21 @@ Onverminderd de bepalingen van deze Afdeling dient het onderzoek op de grond te 
 
 - C. beïnvloeding van de luchtwaardigheid van het observatievliegtuig.
 
-#### 12
+##### 12
 
 De Staten-Partijen die aan de certificering deelnemen, hebben het recht maten te nemen en met behulp van de in paragraaf 5 van deze Afdeling genoemde apparatuur notities, tekeningen of soortgelijke verslagen en opnamen te maken betreffende het observatievliegtuig, de sensoren daarvan en de bijbehorende apparatuur. Dit werkmateriaal mag worden behouden door de Staat-Partij die aan de certificering deelneemt en wordt niet onderworpen aan een controle of onderzoek door de Staat-Partij die de certificering verricht.
 
-#### 13
+##### 13
 
 De Staat-Partij die de certificering verricht, stelt alles in het werk om op het onderzoek op de grond betrekking hebbende vragen van de Staten-Partijen die aan de certificering deelnemen te beantwoorden.
 
-#### 14
+##### 14
 
 Na afloop van het onderzoek op de grond, verlaten de Staten-Partijen die aan de certificering deelnemen het observatievliegtuig, waarna de Staat-Partij die de certificering verricht het recht heeft zijn eigen inventarisatieprocedures als bedoeld in paragraaf 6 van deze Afdeling toe te passen, teneinde zich ervan te vergewissen dat alle apparatuur die overeenkomstig paragraaf 5 van deze Afdeling gedurende het onderzoek op de grond is gebruikt, uit het observatievliegtuig is verwijderd.
 
 ### AFDELING III. ONDERZOEK TIJDENS EEN VLUCHT
 
-#### 1
+##### 1
 
 Naast het verrichten van een onderzoek op de grond van het observatievliegtuig en de sensoren daarvan, verricht de Staat-Partij die de certificering verricht een onderzoek van de sensoren tijdens een vlucht, dat volstaat om:
 
@@ -1301,7 +1326,7 @@ Naast het verrichten van een onderzoek op de grond van het observatievliegtuig e
 
 - C. de grondresolutie van elke aan boord van het observatievliegtuig van dat type en model aangebrachte sensor vast te stellen, in overeenstemming met de in artikel IV, tweede lid, van het Verdrag genoemde limiet van de grondresolutie, zulks ingeval de grondresolutie van een sensor niet afhankelijk is van de hoogte boven de grond.
 
-#### 2
+##### 2
 
 Voor het begin van het onderzoek van de sensoren tijdens een vlucht geeft de Staat-Partij die de certificering verricht de Staten-Partijen die aan de certificering deelnemen, voorlichting over zijn plan voor het verrichten van het onderzoek tijdens een vlucht. Deze voorlichting dient de volgende informatie te omvatten:
 
@@ -1311,33 +1336,33 @@ Voor het begin van het onderzoek van de sensoren tijdens een vlucht geeft de Sta
 
 - C. alle noodzakelijke veiligheidsmaatregelen die tijdens het onderzoek tijdens een vlucht van het observatievliegtuig en de sensoren daarvan in acht moeten worden genomen.
 
-#### 3
+##### 3
 
 Voor en tijdens het verrichten van het onderzoek tijdens een vlucht hebben de Staten-Partijen die aan de certificering deelnemen het recht de plaats van de ijkdoelen te bezoeken. De Staat-Partij die de certificering verricht, stelt de apparatuur ter beschikking die nodig is om zich ervan te vergewissen dat de ijkdoelen voldoen aan de in Afdeling I van Aanhangsel I bij deze Bijlage uiteengezette voorschriften.
 
-#### 4
+##### 4
 
 Tenzij anders is overeengekomen, wordt het onderzoek tijdens een vlucht overdag bij helder weer verricht boven de desbetreffende ijkdoelen van elke categorie aan boord van het observatievliegtuig aangebrachte sensoren, zulks in overeenstemming met de bepalingen van Afdeling II van Aanhangsel I bij deze Bijlage, teneinde de grondresolutie van elke sensor vast te stellen.
 
-#### 5
+##### 5
 
 De Staat-Partij die de certificering verricht, verstrekt de gegevens betreffende de weersomstandigheden op de plaats van de ijkdoelen gedurende het onderzoek van de sensoren tijdens een vlucht die nodig zijn om de berekeningen te kunnen maken in overeenstemming met de in Afdeling III van Aanhangsel I bij deze Bijlage omschreven methoden.
 
-#### 6
+##### 6
 
 Elke Staat-Partij heeft het recht personeel aan te wijzen om deel te nemen aan het onderzoek tijdens een vlucht. Ingeval het aantal aldus aangewezen personen de passagierscapaciteit van het observatievliegtuig overschrijdt, komen de Staten-Partijen die aan de certificering deelnemen overeen welk personeel aan het onderzoek tijdens een vlucht deelneemt.
 
-#### 7
+##### 7
 
 Overeenkomstig paragraaf 6 van deze Afdeling aangewezen personeel van de Staten-Partijen heeft het recht de bediening van de sensoren door personeel van de Staat-Partij die de certificering verricht te observeren.
 
-#### 8
+##### 8
 
 Personeel van de Staten-Partijen die aan de certificering deelnemen heeft het recht het openen van de filmcassette, alsmede de opslag, ontwikkeling en gebruikmaking van het oorspronkelijke negatief, dat gedurende het onderzoek tijdens een vlucht is belicht, te controleren, zulks in overeenstemming met de bepalingen van Afdeling II van Bijlage K bij het Verdrag.
 
 ### AFDELING IV. CERTIFICERINGSRAPPORT
 
-#### 1
+##### 1
 
 Na afloop van het onderzoek op de grond en tijdens een vlucht worden de door de sensoren en met behulp van de ijkdoelen verzamelde gegevens gezamenlijk bestudeerd door de Staat-Partij die de certificering verricht en de Staten-Partijen die aan de certificering deelnemen. Deze Staten-Partijen stellen een certificeringsrapport op waarin wordt vastgelegd:
 
@@ -1353,19 +1378,19 @@ Na afloop van het onderzoek op de grond en tijdens een vlucht worden de door de 
 
 - F. dat de kappen voor de sensoraperturen of de andere inrichtingen die het gebruik van de sensoren verhinderen, in overeenstemming zijn met de bepalingen van artikel IV, vierde lid, van het Verdrag.
 
-#### 2
+##### 2
 
 Aan het certificeringsrapport wordt een kopie gehecht van de overeenkomstig Afdeling I, paragraaf 6, en Afdeling II, paragrafen 3 en 8, van deze Bijlage verstrekte gegevens betreffende elke sensor.
 
-#### 3
+##### 3
 
 De Staat-Partij die de certificering verricht, verstrekt exemplaren van het certificeringsrapport aan alle andere Staten-Partijen. Staten-Partijen die niet aan de certificering hebben deelgenomen, hebben niet riet recht de in het certificeringsrapport vervatte conclusies te verwerpen.
 
-#### 4
+##### 4
 
 Een observatievliegtuig en de bijbehorende sensoren worden geacht te zijn gecertificeerd, tenzij de Staten-Partijen die aan de certificering deelnemen niet in staat zijn overeenstemming te bereiken over de inhoud van het certificeringsrapport.
 
-#### 5
+##### 5
 
 Ingeval de Staat-Partij die de certificering verricht en de Staten-Partijen die aan de certificering deelnemen niet in staat zijn overeenstemming te bereiken over het certificeringsrapport, mag het observatievliegtuig niet voor observatievluchten worden gebruikt totdat de kwestie is opgelost.
 
@@ -1373,81 +1398,81 @@ De grondresolutie van elke aan boord van het observatievliegtuig aangebrachte se
 
 ### AFDELING I. VOORSCHRIFTEN BETREFFENDE IJKDOELEN
 
-#### 1
+##### 1
 
 Door de Staat-Partij die de certificering verricht in overeenstemming met de bepalingen van Bijlage D bij het Verdrag worden ijkdoelen ter beschikking gesteld. Deze ijkdoelen worden gebruikt ter vaststelling van de grondresolutie van sensoren; elke categorie sensoren heeft zijn eigen type ijkdoel, ontworpen in overeenstemming met de hieronder aangegeven kenmerken.
 
-#### 2
+##### 2
 
 IJkdoelen voor het vaststellen van de grondresolutie van optische camera's bestaan uit een reeks groepen van elkaar afwisselende zwarte en witte strepen.
 
 Elke groep strepen bestaat uit ten minste twee zwarte strepen, gescheiden door een witte streep. De breedte van de zwarte en de witte strepen binnen een groep blijft constant. De breedte van de strepen van tot een ijkdoel behorende groepen strepen verandert geleidelijk, zulks in een mate die toereikend is om een accurate meting van de grondresolutie mogelijk te maken. De lengte van de strepen blijft binnen elke groep constant. De contrastverhouding van de zwarte ten opzichte van de witte strepen blijft over het gehele ijkdoel gelijk en bedraagt ten minste 5 : 1 (overeenkomend met een modulatie van 0,66).
 
-#### 3
+##### 3
 
 IJkdoelen voor het vaststellen van de grondresolutie van infraroodlijnaftasttoestellen worden in het kader van de „Open Luchtruim"-Overlegcommissie bepaald gedurende het tijdvak van voorlopige toepassing.
 
-#### 4
+##### 4
 
 IJkdoelen voor het vaststellen van de grondresolutie van zijwaarts gerichte radars met synthetische apertuur bestaan uit groepen drievlakkige hoekreflectoren, waarvan de opstelling in overeenstemming dient te zijn met de in het kader van de „Open Luchtruim"-Overlegcommissie gedurende het tijdvak van voorlopige toepassing bepaalde methoden.
 
-#### 5
+##### 5
 
 Elke Staat-Partij verstrekt alle andere Staten-Partijen een schema van de ijkdoelen die hij beoogt te gebruiken ten behoeve van het onderzoek tijdens een vlucht. Op deze schema's dienen de totale afmetingen van de ijkdoelen, de ligging en het soort terrein waarop zij zijn gelegen, alsmede de informatie betreffende elk type ijkdoel, als bepaald in het kader van de „Open Luchtruim"-Overlegcommissie gedurende het tijdvak van voorlopige toepassing, te zijn vermeld.
 
 ### AFDELING II. HET VERRICHTEN VAN HET ONDERZOEK TIJDENS EEN VLUCHT
 
-#### 1
+##### 1
 
 Teneinde de grondresolutie van panorama-camera's of verticaal aangebrachte fotocamera's vast te stellen, loopt de vluchtlijn van het observatievliegtuig rechtstreeks over en parallel aan het ijkdoel. Teneinde de grondresolutie van schuin aangebrachte fotocamera's vast te stellen, loopt de vluchtlijn van het observatievliegtuig op zodanige afstand parallel aan het ijkdoel, dat het beeld van het ijkdoel op de voorgrond van het gezichtsveld van de optische camera verschijnt, ingesteld op de grootste hoek ten opzichte van het horizontale vlak, dan wel op de kleinste hoek ten opzichte van het verticale vlak.
 
-#### 2
+##### 2
 
 Teneinde de grondresolutie van een infrarood-lijnaftasttoestel vast te stellen, loopt de vluchtlijn van het observatievliegtuig rechtstreeks over en parallel aan het ijkdoel op overeengekomen hoogten boven de grond.
 
-#### 3
+##### 3
 
 Teneinde de grondresolutie van zijwaarts gerichte radars met synthetische apertuur vast te stellen, loopt de vluchtlijn van het observatievliegtuig ter zijde van de groep hoekreflectoren.
 
 ### AFDELING III. ANALYSE VAN DE IN DE LOOP VAN HET ONDERZOEK TIJDENS EEN VLUCHT VERZAMELDE GEGEVENS
 
-#### 1
+##### 1
 
 Na het onderzoek tijdens een vlucht analyseren de Staat-Partij die de certificering verricht en de Staten-Partijen die aan de certificering deelnemen gezamenlijk de gegevens die zijn verzameld in de loop van het onderzoek tijdens een vlucht overeenkomstig Afdeling IV, paragraaf 1, van Bijlage D bij het Verdrag.
 
-#### 2
+##### 2
 
 De methode voor de berekening van de minimumhoogte boven de grond waarbij elke aan boord van het observatievliegtuig aangebrachte optische camera tijdens een observatievlucht mag worden bediend, met inbegrip van de bij deze berekening te hanteren contrastverhouding dan wel de daarmee overeenkomende modulatie, die ten minste 1,6 : 1 (overeenkomend met 0,23) en ten hoogste 4 : 1 (overeenkomend met 0,6) bedraagt, wordt in het kader van de „Open Luchtruim"-Overlegcommissie bepaald gedurende het tijdvak van voorlopige toepassing, doch vóór 30 juni 1992. De grondresolutie van optische camera's wordt bepaald door middel van een visuele analyse van het beeld van het ijkdoel op het oorspronkelijke negatief. De getalswaarde van de grondresolutie moet gelijk zijn aan de breedte van de smalste streep van het ijkdoel die als afzonderlijke streep te onderscheiden is.
 
-#### 3
+##### 3
 
 De methode voor de berekening van de minimumhoogte boven de grond waarbij elke aan boord van het observatievliegtuig aangebrachte videocamera tijdens een observatievlucht mag worden bediend, wordt in het kader van de „Open Luchtruim"-Overlegcommissie bepaald gedurende het tijdvak van voorlopige toepassing.
 
-#### 4
+##### 4
 
 De methode voor de berekening van de minimumhoogte boven de grond waarbij een aan boord van het observatievliegtuig aangebracht infrarood-Iijnaftasttoestel tijdens een observatievlucht mag worden bediend, met inbegrip van de waarde van het bij deze berekening te hanteren minimale waarneembare temperatuurverschil, wordt in het kader van de „Open Luchtruim"-Overlegcommissie bepaald gedurende het tijdvak van voorlopige toepassing.
 
-#### 5
+##### 5
 
 De methode voor de berekening van de grondresolutie van een zijwaarts gerichte radar met synthetische apertuur, met inbegrip van het resultaat van de vergelijking van de impulsresponsmethode met de objectscheidingsmethode, wordt in het kader van de „Open Luchtruim"-Overlegcommissie bepaald gedurende het tijdvak van voorlopige toepassing.
 
-#### 1
+##### 1
 
 Elke Staat-Partij wijst één of meer punten van binnenkomst, één of meer punten van vertrek en één of meer „open luchtruim"-vliegvelden op zijn grondgebied aan. De punten van binnenkomst en de punten van vertrek kunnen „open luchtruim"-vliegvelden zijn. Indien een „open luchtruim"-vliegveld geen punt van binnenkomst is, dient tenzij anders is overeengekomen - een „open luchtruim"-vliegveld te worden aangewezen dat de observerende Partij binnen vijf uur kan bereiken vanaf het punt van binnenkomst, hetzij met haar eigen observatievliegtuig, hetzij met het door de geobserveerde Partij ter beschikking gestelde vervoermiddel. De observerende Partij heeft na aankomst op een punt van binnenkomst of een „open luchtruim"-vliegveld het recht op een rustperiode, zulks met inachtneming van de bepalingen van artikel VI van het Verdrag.
 
-#### 2
+##### 2
 
 Elke Staat-Partij heeft het recht binnenkomstposities en vertrekposities aan te wijzen. Indien een Staat-Partij besluit binnenkomst- en vertrekposities aan te wijzen, dienen deze posities de vlucht van het grondgebied van de observerende Partij naar het punt van binnenkomst van de geobserveerde Partij te vergemakkelijken. Geplande vluchten tussen binnenkomstposities en punten van binnenkomst en tussen punten van vertrek en vertrekposities worden uitgevoerd in overeenstemming met bekendgemaakte normen en aanbevelingen van de ICAO en nationale voorschriften. Ingeval delen van de vluchten tussen binnenkomstposities en punten van binnenkomst en punten van vertrek en vertrekposities in het internationale luchtruim zijn gelegen, wordt de vlucht door het internationale luchtruim uitgevoerd in overeenstemming met bekendgemaakte internationale voorschriften.
 
-#### 3
+##### 3
 
 Informatie over de punten van binnenkomst en de punten van vertrek, de „open luchtruim"-vliegvelden, de binnenkomstposities en de vertrekposities, de bijtankvliegvelden en de ijkdoelen is vooralsnog de informatie als vermeld in Aanhangsel I bij deze Bijlage.
 
-#### 4
+##### 4
 
 Een Staat-Partij heeft het recht wijzigingen aan te brengen in Aanhangsel I bij deze Bijlage door alle andere Staten-Partijen daarvan schriftelijk in kennis te stellen, zulks ten minste 90 dagen voordat die wijzigingen van kracht worden.
 
-#### 5
+##### 5
 
 Elke Staat-Partij waarborgt een doeltreffende observatie van zijn gehele grondgebied op de volgende wijze:
 
@@ -1461,11 +1486,11 @@ Elke Staat-Partij waarborgt een doeltreffende observatie van zijn gehele grondge
 
 - 3. kan die Staat-Partij, ingeval dat gebiedsdeel of die gebiedsdelen minder dan 600 kilometer van het vasteland is c.q. zijn gelegen en niet onder de bepalingen van letter A van deze paragraaf valt c.q. vallen, daarvoor een afzonderlijke maximale vliegafstand aangeven in Bijlage A.
 
-#### 6
+##### 6
 
 Onmiddellijk na de aankomst van een observatievliegtuig op het punt van binnenkomst en onmiddellijk vóór het vertrek van een observatievliegtuig van het punt van vertrek inspecteren de observerende en de geobserveerde Partij de overeenkomstig artikel IV, Afdeling 1, vierde lid, aangebrachte kappen voor de sensoraperturen en de andere inrichtingen die het gebruik van de sensoren verhinderen. Ingeval het punt van binnenkomst niet het „open luchtruim"-vliegveld is waar de observatievlucht aanvangt, inspecteren de observerende en de geobserveerde Partij de kappen voor de sensoraperturen en de andere inrichtingen die het gebruik van de sensoren verhinderen onmiddellijk vóór het vertrek van het observatievliegtuig van het punt van binnenkomst naar het „open luchtruim"-vliegveld waar de observatievlucht aanvangt. Ingeval het punt van vertrek niet het „open luchtruim" -vliegveld is waar de observatievlucht eindigt, inspecteren de observerende en de geobserveerde Partij de kappen voor de sensoraperturen en de andere inrichtingen die het gebruik van de sensoren verhinderen onmiddellijk vóór het vertrek van het observatievliegtuig van dat vliegveld naar het punt van vertrek.
 
-#### 7
+##### 7
 
 Een Staat-Partij heeft het recht een onderzoek en een inventarisatie te verrichten met betrekking tot de voorwerpen die de andere Staat-Partij voornemens is te gebruiken ten behoeve van het verrichten van een aan de vlucht voorafgaande inspectie van de sensoren en, indien van toepassing, van het observatievliegtuig, alsmede met betrekking tot de voorwerpen die de vluchtwaarnemers voornemens zijn mede aan boord te nemen. Dit onderzoek en deze inventarisatie:
 
@@ -1473,7 +1498,7 @@ Een Staat-Partij heeft het recht een onderzoek en een inventarisatie te verricht
 
 - B. dienen te worden uitgevoerd in aanwezigheid van één of meer door de andere Staat-Partij aangewezen personen.
 
-#### 8
+##### 8
 
 Indien de Staat-Partij die het onderzoek en de inventarisatie verricht gedurende het onderzoek en de inventarisatie met betrekking tot voorwerpen die worden gebruikt bij de inspectie van de sensoren en, indien van toepassing, van het observatievliegtuig, alsmede met betrekking tot de voorwerpen die de vluchtwaarnemers voornemens zijn mede aan boord van het observatievliegtuig te nemen, vaststelt dat de voorwerpen niet in overeenstemming zijn met de lijst van toegestane voorwerpen als bedoeld in Bijlage D, Afdeling II, paragraaf 5, of met de voorwerpen als omschreven in Bijlage G, Afdeling I, paragraaf 4, heeft deze het recht te weigeren toestemming te verlenen voor het gebruik van die voorwerpen.
 
@@ -1483,7 +1508,7 @@ Voorwerpen ten aanzien waarvan zulks is vastgesteld en die door de observerende 
 
 - B. vervolgens bij de eerstkomende gelegenheid, doch uiterlijk bij het vertrek van de observerende Partij, van het grondgebied van de geobserveerde Partij verwijderd.
 
-#### 9
+##### 9
 
 Ingeval de observerende Partij reist naar het punt van binnenkomst, als genoemd in de ingevolge artikel VI, Afdeling I, vijfde lid, van dit Verdrag verstrekte kennisgeving, met gebruikmaking van een transportvliegtuig dat is ingeschreven bij de observerende Staat-Partij of bij een andere Staat-Partij, mag dit transportvliegtuig:
 
@@ -1493,7 +1518,7 @@ Ingeval de observerende Partij reist naar het punt van binnenkomst, als genoemd 
 
 - C. ingeval het punt van binnenkomst niet hetzelfde is als het punt van vertrek, tijdig naar het punt van vertrek vliegen, zodat de bemanning nog voldoende rust kan nemen vóór het vertrek van al het personeel van de observerende Partij van het grondgebied van de geobserveerde Partij.
 
-#### 10
+##### 10
 
 Ingeval het observatievliegtuig door de geobserveerde Partij ter beschikking wordt gesteld en de observerende Partij geen gebruik maakt van haar eigen transportvliegtuig om haar personeel te vervoeren van het punt van binnenkomst naar het „open luchtruim"-vliegveld, draagt de geobserveerde Partij er zorg voor dat het personeel van de observerende Partij wordt vervoerd van het punt van binnenkomst naar het „open luchtruim"-vliegveld en van het „open luchtruim"-vliegveld naar het punt van vertrek.
 
@@ -1503,7 +1528,7 @@ Ingeval het observatievliegtuig door de geobserveerde Partij ter beschikking wor
 
 ### AFDELING I. AAN DE VLUCHT VOORAFGAANDE INSPECTIE VAN OBSERVATIEVLIEGTUIGEN EN SENSOREN VAN DE OBSERVERENDE PARTIJ
 
-#### 1
+##### 1
 
 De aan de vlucht voorafgaande inspectie van door de observerende Partij ter beschikking gestelde observatievliegtuigen en sensoren heeft tot doel zich ervan te vergewissen dat het observatievliegtuig, de sensoren en de bijbehorende apparatuur overeenstemmen met die welke zijn gecertificeerd overeenkomstig de bepalingen van Bijlage D bij het Verdrag. De geobserveerde Partij heeft het recht een aan de vlucht voorafgaande inspectie te verrichten van een door de observerende Partij ter beschikking gesteld observatievliegtuig en de sensoren daarvan, teneinde zich ervan te vergewissen dat:
 
@@ -1511,7 +1536,7 @@ De aan de vlucht voorafgaande inspectie van door de observerende Partij ter besc
 
 - B. zich geen andere apparatuur aan boord van het observatievliegtuig bevindt dan die welke is toegestaan op grond van artikel IV van het Verdrag.
 
-#### 2
+##### 2
 
 Na aankomst van het observatievliegtuig op het punt van binnenkomst dient de geobserveerde Partij:
 
@@ -1521,7 +1546,7 @@ Na aankomst van het observatievliegtuig op het punt van binnenkomst dient de geo
 
 - C. de observerende Partij te informeren over haar plan voor de aan de vlucht voorafgaande inspectie van het observatievliegtuig en de sensoren daarvan.
 
-#### 3
+##### 3
 
 Vóór het begin van de aan de vlucht voorafgaande inspectie dient een aangewezen persoon van de observerende Partij:
 
@@ -1531,19 +1556,19 @@ Vóór het begin van de aan de vlucht voorafgaande inspectie dient een aangeweze
 
 - C. de inspecteurs voor te lichten over alle veiligheidsmaatregelen die tijdens de aan de vlucht voorafgaande inspectie van het observatievliegtuig en de sensoren daarvan in acht moeten worden genomen.
 
-#### 4
+##### 4
 
 De aan de vlucht voorafgaande inspectie begint eerst na afloop van de formele aankomstprocedures en mag niet langer dan acht uur duren.
 
-#### 5
+##### 5
 
 De observerende Partij heeft het recht haar eigen begeleiders te leveren die de inspecteurs gedurende de gehele aan de vlucht voorafgaande inspectie van het observatievliegtuig en de sensoren daarvan vergezellen, teneinde zich ervan te vergewissen dat de inspectie geschiedt in overeenstemming met de bepalingen van deze Afdeling. De observerende Partij vergemakkelijkt de inspectie in overeenstemming met de in Afdeling II, paragrafen 7 en 8, van Bijlage D bij dit Verdrag omschreven procedures.
 
-#### 6
+##### 6
 
 Bij de uitvoering van de aan de vlucht voorafgaande inspectie hebben de inspecteurs recht van toegang tot het observatievliegtuig, de sensoren en de bijbehorende apparatuur, zulks op dezelfde wijze als bepaald in Bijlage D, Afdeling II, paragraaf 10, en daarbij dienen zij de bepalingen van Afdeling II, paragrafen 11 en 12, van Bijlage D bij het Verdrag in acht te nemen.
 
-#### 7
+##### 7
 
 Ten behoeve van de inspectie heeft de geobserveerde Partij het recht de volgende niet tot vernietiging leidende testapparatuur mede aan boord te nemen en deze aldaar te gebruiken:
 
@@ -1561,15 +1586,15 @@ Ten behoeve van de inspectie heeft de geobserveerde Partij het recht de volgende
 
 Daarnaast heeft de geobserveerde Partij het recht andere niet tot vernietiging leidende testapparatuur mede aan boord te nemen, en aldaar te gebruiken, die nodig is om vast te stellen dat zich aan boord van het observatievliegtuig geen andere apparatuur bevindt dan die welke is toegestaan op grond van artikel IV van het Verdrag, overeen te komen door de „Open Luchtruim"-Overlegcommissie vóór 30 juni 1992.
 
-#### 8
+##### 8
 
 Na afloop van de aan de vlucht voorafgaande inspectie verlaten de inspecteurs het observatievliegtuig en heeft de observerende Partij het recht haar eigen inventarisatieprocedures toe te passen om zich ervan te vergewissen dat alle gedurende de aan de vlucht voorafgaande inspectie gebruikte inspectie-apparatuur uit het observatievliegtuig is verwijderd. Indien de geobserveerde Partij niet in staat is dit ten genoegen van de observerende Partij aan te tonen, heeft de observerende Partij het recht met de observatievlucht te beginnen of daarvan af te zien en het grondgebied van de geobserveerde Partij te verlaten, wanneer zij meent dat zij zulks veilig kan doen. In het laatstbedoelde geval wordt geen observatievlucht in mindering gebracht op het quotum van beide Staten-Partijen.
 
-#### 9
+##### 9
 
 De inspecteurs lichten de observerende Partij onmiddellijk in indien zij vaststellen dat het observatievliegtuig, de sensoren of de bijbehorende apparatuur niet overeenstemmen met die welke zijn gecertificeerd overeenkomstig de bepalingen van Bijlage D bij het Verdrag, of dat zich aan boord van het observatievliegtuig andere apparatuur bevindt dan die welke is toegestaan op grond van artikel IV van het Verdrag. Indien de observerende Partij niet in staat is aan te tonen dat het observatievliegtuig, de sensoren en de bijbehorende apparatuur overeenstemmen met die welke zijn gecertificeerd overeenkomstig de bepalingen van Bijlage D bij het Verdrag, en dat zich aan boord van het observatievliegtuig geen andere apparatuur bevindt dan die welke is toegestaan op grond van artikel IV van het Verdrag, heeft de geobserveerde Partij, indien de observerende en de geobserveerde Partij niet anders zijn overeengekomen, het recht de observatievlucht te verbieden overeenkomstig artikel VIII van het Verdrag. Indien de observatievlucht wordt verboden, dient het observatievliegtuig het grondgebied van de geobserveerde onverwijld te verlaten en wordt er geen observatievlucht in mindering gebracht op het quotum van beide Staten-Partijen.
 
-#### 10
+##### 10
 
 Na afloop van de aan de vlucht voorafgaande inspectie van het observatievliegtuig en de sensoren daarvan, stellen de geobserveerde en de observerende Partij een rapport inzake de aan de vlucht voorafgaande inspectie op, waarin wordt vermeld dat:
 
@@ -1577,17 +1602,17 @@ Na afloop van de aan de vlucht voorafgaande inspectie van het observatievliegtui
 
 - B. zich aan boord van het observatievliegtuig geen andere apparatuur bevindt dan die welke is toegestaan op grond van artikel IV van het Verdrag.
 
-#### 11
+##### 11
 
 Ondertekening van het rapport inzake de aan de vlucht voorafgaande inspectie door de geobserveerde Partij betekent dat zij erin toestemt dat de observerende Partij dat observatievliegtuig gebruikt voor het uitvoeren van een observatievlucht boven het grondgebied van de geobserveerde Partij.
 
 ### AFDELING II. AAN DE VLUCHT VOORAFGAANDE INSPECTIE VAN DE SENSOREN VAN DE GEOBSERVEERDE PARTIJ
 
-#### 1
+##### 1
 
 De aan de vlucht voorafgaande inspectie van de sensoren aan boord van een door de geobserveerde Partij ter beschikking gesteld observatievliegtuig heeft tot doel zich ervan te vergewissen dat de sensoren en de bijbehorende apparatuur overeenstemmen met die welke zijn gecertificeerd overeenkomstig de bepalingen van bijlage D bij het Verdrag. De observerende Partij heeft het recht een aan de vlucht voorafgaande inspectie te verrichten van de sensoren en de bijbehorende apparatuur die zijn aangebracht aan boord van een door de geobserveerde Partij ter beschikking gesteld observatievliegtuig, teneinde zich ervan te vergewissen dat de sensoren en de bijbehorende apparatuur overeenstemmen met die welke zijn gecertificeerd overeenkomstig de bepalingen van Bijlage D bij het Verdrag.
 
-#### 2
+##### 2
 
 Na aankomst van de inspecteurs van de observerende Partij op de plaats waar de aan de vlucht voorafgaande inspectie plaatsvindt, dient de observerende Partij:
 
@@ -1597,7 +1622,7 @@ Na aankomst van de inspecteurs van de observerende Partij op de plaats waar de a
 
 - C. de observerende Partij te informeren over haar plan voor de aan de vlucht voorafgaande inspectie van de sensoren en bijbehorende apparatuur aan boord van het observatievliegtuig.
 
-#### 3
+##### 3
 
 Vóór het begin van de aan de vlucht voorafgaande inspectie dient een aangewezen persoon van de geobserveerde Partij:
 
@@ -1607,23 +1632,23 @@ Vóór het begin van de aan de vlucht voorafgaande inspectie dient een aangeweze
 
 - C. de inspecteurs voor te lichten over alle noodzakelijke veiligheidsmaatregelen die tijdens de aan de vlucht voorafgaande inspectie van de aan boord van het observatievliegtuig aangebrachte sensoren en bijbehorende apparatuur in acht moeten worden genomen.
 
-#### 4
+##### 4
 
 De aan de vlucht voorafgaande inspectie begint eerst na afloop van de formele aankomstprocedures en mag niet langer dan acht uur duren.
 
-#### 5
+##### 5
 
 De geobserveerde Partij heeft het recht haar eigen begeleiders te leveren die de inspecteurs gedurende de gehele aan de vlucht voorafgaande inspectie van de sensoren en de bijbehorende apparatuur aan boord van het observatievliegtuig vergezellen, teneinde zich ervan te vergewissen dat de inspectie geschiedt in overeenstemming met de bepalingen van deze Afdeling. De geobserveerde Partij vergemakkelijkt de inspectie van de sensoren en de bijbehorende apparatuur aan boord van het observatievliegtuig door de inspecteurs in overeenstemming met de in Afdeling II, paragraaf 7, van Bijlage D bij dit Verdrag omschreven procedures.
 
-#### 6
+##### 6
 
 Bij de uitvoering van de aan de vlucht voorafgaande inspectie hebben de inspecteurs recht van toegang tot de sensoren en de bijbehorende apparatuur aan boord van het observatievliegtuig, zulks op dezelfde wijze als bepaald in Bijlage D, Afdeling II, paragraaf 10, en daarbij dienen zij de bepalingen van Afdeling II, paragrafen 11 en 12, van Bijlage D bij het Verdrag in acht te nemen.
 
-#### 7
+##### 7
 
 Na afloop van de aan de vlucht voorafgaande inspectie verlaten de inspecteurs het observatievliegtuig en heeft de geobserveerde Partij het recht haar eigen inventarisatieprocedures toe te passen om zich ervan te vergewissen dat alle apparatuur uit het observatievliegtuig is verwijderd. Indien de observerende Partij niet in staat is dit ten genoegen van de geobserveerde Partij aan te tonen, heeft de geobserveerde Partij het recht de observatievlucht te verbieden in overeenstemming met artikel VIII van het Verdrag en wordt er geen observatievlucht in mindering gebracht op het quotum van beide Staten-Partijen.
 
-#### 8
+##### 8
 
 De inspecteurs lichten de geobserveerde Partij onmiddellijk in indien zij vaststellen dat een van de sensoren of de bijbehorende apparatuur niet overeenstemt met die welke zijn gecertificeerd overeenkomstig de bepalingen van Bijlage D bij het Verdrag. Indien de geobserveerde Partij niet in staat is aan te tonen dat de sensoren en de bijbehorende apparatuur aan boord van het observatievliegtuig overeenstemmen met die welke zijn gecertificeerd overeenkomstig de bepalingen van Bijlage D bij het Verdrag, heeft de observerende Partij het recht:
 
@@ -1635,25 +1660,25 @@ De inspecteurs lichten de geobserveerde Partij onmiddellijk in indien zij vastst
 
 - D. af te zien van de observatievlucht en het grondgebied van de geobserveerde Partij onmiddellijk te verlaten.
 
-#### 9
+##### 9
 
 Indien de observerende Partij het grondgebied van de geobserveerde Partij verlaat zonder een observatievlucht te hebben uitgevoerd, zoals bepaald in paragraaf 8, letters C en D, van deze Afdeling, wordt er geen observatievlucht in mindering gebracht op het quotum van beide Staten-Partijen.
 
-#### 10
+##### 10
 
 Na afloop van de aan de vlucht voorafgaande inspectie van de aan boord van het observatievliegtuig aangebrachte sensoren en bijbehorende apparatuur stellen de geobserveerde en de observerende Partij een rapport inzake de aan de vlucht voorafgaande inspectie op, waarin wordt vermeld dat de sensoren overeenstemmen met die welke zijn gecertificeerd overeenkomstig de bepalingen van Bijlage D bij het Verdrag. Ondertekening van het rapport inzake de aan de vlucht voorafgaande inspectie door de observerende Partij betekent dat zij instemt met het gebruik van dat observatievliegtuig voor het uitvoeren van een observatievlucht boven het grondgebied van de geobserveerde Partij.
 
 ### AFDELING III. DEMONSTRATIEVLUCHTEN
 
-#### 1
+##### 1
 
 Ingeval het vliegtuig ter beschikking wordt gesteld door de observerende Partij voert de observerende Partij, op verzoek van de geobserveerde Partij, na de aan de vlucht voorafgaande inspectie een demonstratievlucht uit teneinde de inspecteurs in staat te stellen de werking van de tijdens de observatievlucht te gebruiken sensoren waar te nemen en voldoende gegevens te verzamelen om hen in staat te stellen zich ervan te vergewissen dat het vermogen van die sensoren in overeenstemming is met de bepalingen van artikel IV, achtste lid, van het Verdrag.
 
-#### 2
+##### 2
 
 Ingeval het vliegtuig ter beschikking wordt gesteld door de geobserveerde Partij voert de geobserveerde Partij, op verzoek van de observerende Partij, na de aan de vlucht voorafgaande inspectie een demonstratievlucht uit teneinde de inspecteurs in staat te stellen de werking van de tijdens de observatievlucht te gebruiken sensoren waar te nemen en voldoende gegevens te verzamelen om hen in staat te stellen zich ervan te vergewissen dat het vermogen van die sensoren in overeenstemming is met de bepalingen van artikel IV, negende lid, van het Verdrag.
 
-#### 3
+##### 3
 
 Ingeval hetzij de geobserveerde, hetzij de observerende Partij gebruik maakt van haar recht te verzoeken om een demonstratievlucht:
 
@@ -1669,15 +1694,15 @@ Ingeval hetzij de geobserveerde, hetzij de observerende Partij gebruik maakt van
 
 - F. worden de kosten van de demonstratievlucht, met inbegrip van die van de gegevensdragers en het verwerken van de gegevens, gedeeld in overeenstemming met de bepalingen van Afdeling 1, paragraaf 9, van Bijlage L bij het Verdrag.
 
-#### 4
+##### 4
 
 Ingeval de geobserveerde Partij gebruik maakt van haar recht om een demonstratievlucht te verzoeken, heeft de observerende Partij het recht aan het in artikel VI, Afdeling I, negende lid, bepaalde tijdvak van 96 uur voor het uitvoeren van een observatievlucht ten hoogste 24 uur toe te voegen. Dit laat het recht van andere Staten-Partijen om observatievluchten uit te voeren na het oorspronkelijke tijdvak van 96 uur, als bepaald in artikel VI, Afdeling I, derde lid, van het Verdrag, onverlet.
 
-#### 5
+##### 5
 
 Ingeval de observerende Partij gebruik maakt van haar recht om een demonstratievlucht te verzoeken, dient deze plaats te vinden binnen het in artikel VI, Afdeling 1, negende lid, van het Verdrag bepaalde tijdvak van 96 uur voor het uitvoeren van de observatievlucht.
 
-#### 6
+##### 6
 
 Ingeval de geobserveerde Partij er niet van overtuigd is dat het vermogen van een sensor aan boord van het door de observerende Partij ter beschikking gestelde observatievliegtuig in overeenstemming is met de bepalingen van artikel IV, achtste lid, van het Verdrag, heeft de geobserveerde Partij het recht:
 
@@ -1687,7 +1712,7 @@ Ingeval de geobserveerde Partij er niet van overtuigd is dat het vermogen van ee
 
 - C. de observatievlucht te verbieden overeenkomstig de bepalingen van artikel VIII van het Verdrag.
 
-#### 7
+##### 7
 
 Ingeval de observerende Partij er niet van overtuigd is dat het vermogen van een sensor aan boord van het door de geobserveerde Partij ter beschikking gestelde observatievliegtuig in overeenstemming is met de bepalingen van artikel IV, negende lid, van het Verdrag, heeft de observerende Partij het recht:
 
@@ -1701,21 +1726,21 @@ Ingeval de observerende Partij er niet van overtuigd is dat het vermogen van een
 
 - E. af te zien van de observatievlucht overeenkomstig artikel VIII van het Verdrag en het grondgebied van de geobserveerde Partij onmiddellijk te verlaten.
 
-#### 8
+##### 8
 
 Ingeval de observatievlucht wordt verboden, of daarvan wordt afgezien door de Staat-Partij die om de demonstratievlucht heeft verzocht, wordt geen observatievlucht in mindering gebracht op het quotum van beide Staten-Partijen en legt de Staat-Partij die om de demonstratievlucht heeft verzocht, de aangelegenheid voor aan de "Open Luchtruim"-Overlegcommissie.
 
 ### AFDELING I. VLUCHTWAARNEMERS EN VLUCHTVERTEGENWOORDIGERS
 
-#### 1
+##### 1
 
 De bepalingen van deze Bijlage zijn van toepassing op het in overeenstemming met artikel XIII aangewezen personeel. Elke Staat-Partij heeft het recht te allen tijde het in artikel VI, Afdeling III, genoemde aantal vluchtwaarnemers en vluchtvertegenwoordigers aan boord van het observatievliegtuig aanwezig te doen zijn. De bepalingen van die Afdeling regelen hun werkzaamheden met betrekking tot de organisatie en de uitvoering van observatievluchten. Elke Staat-Partij vergemakkelijkt de werkzaamheden van vluchtwaarnemers en vluchtvertegenwoordigers overeenkomstig deze Bijlage.
 
-#### 2
+##### 2
 
 De geobserveerde Partij wijst één van de vluchtwaarnemers aan als hoofdvluchtwaamemer. De hoofdvluchtwaarnemer dient onderdaan te zijn van de geobserveerde Partij. De observerende Partij wijst één van de vluchtvertegenwoordigers aan als hoofdvluchtvertegenwoordiger. De hoofdvluchtvertegenwoordiger dient onderdaan te zijn van de observerende Partij.
 
-#### 3
+##### 3
 
 Bij de voorbereiding van de observatievlucht hebben de vluchtwaarnemers en vluchtvertegenwoordigers het recht:
 
@@ -1723,7 +1748,7 @@ Bij de voorbereiding van de observatievlucht hebben de vluchtwaarnemers en vluch
 
 - B. zichzelf vertrouwd te maken met de uitrusting van het observatievliegtuig met betrekking tot de controle van het vluchtregime en de werking en bediening van de sensoren aan boord van het observatievliegtuig.
 
-#### 4
+##### 4
 
 Vluchtwaarnemers en vluchtvertegenwoordigers hebben het recht:
 
@@ -1739,7 +1764,7 @@ Vluchtwaarnemers en vluchtvertegenwoordigers hebben het recht:
 
 - F. de parameters van het vluchtregime en de werking en bediening van de sensoren aan te tekenen op landkaarten, vliegkaarten en notitieblokken.
 
-#### 5
+##### 5
 
 Naast de in paragraaf 4 van deze Afdeling omschreven rechten heeft de hoofdvluchtwaarnemer het recht:
 
@@ -1753,11 +1778,11 @@ Naast de in paragraaf 4 van deze Afdeling omschreven rechten heeft de hoofdvluch
 
 - E. zich, indien nodig, in verbinding te stellen met de autoriteiten die zijn belast met de luchtverkeersleiding en te helpen mededelingen van de met de luchtverkeersleiding belaste autoriteiten aan de bemanning en mededelingen van de bemanning aan de met de luchtverkeersleiding belaste autoriteiten omtrent het uitvoeren van de observatievlucht door te geven en te interpreteren; hiertoe is het de hoofdvluchtwaarnemer toegestaan externe radiomededelingen te doen met gebruikmaking van de radio-apparatuur van het observatievliegtuig.
 
-#### 6
+##### 6
 
 Ingeval de hoofdvluchtwaarnemer meent dat het observatievliegtuig afwijkt van zijn vliegplan, licht hij de bemanning in en kan hij de met de luchtverkeersleiding belaste autoriteiten op de hoogte brengen van de afwijkingen van het vliegplan van het observatievliegtuig die hij bedreigend acht voor de veiligheid van de vlucht.
 
-#### 7
+##### 7
 
 Naast de in paragraaf 5 van deze Afdeling omschreven rechten heeft de hoofdvluchtvertegenwoordiger:
 
@@ -1765,17 +1790,17 @@ Naast de in paragraaf 5 van deze Afdeling omschreven rechten heeft de hoofdvluch
 
 - B. in geval van afwijking van het vliegplan, het recht om van de bemanning opheldering te verkrijgen met betrekking tot de redenen voor die afwijking.
 
-#### 8
+##### 8
 
 Vluchtvertegenwoordigers hebben het recht leiding te geven aan de bediening van de sensoren tijdens de observatievlucht. Bovendien hebben vluchtvertegenwoordigers het recht de sensoren tijdens de observatievlucht te bedienen, mits de geobserveerde Partij hiervan vóór de aanvang van de observatievlucht in kennis wordt gesteld. Ingeval de vluchtvertegenwoordigers gebruik maken van hun recht om de sensoren te bedienen, overeenkomstig deze paragraaf, is de geobserveerde Partij niet verantwoordelijk voor storingen of gebreken in de door de sensoren verzamelde gegevens ten gevolge van de bediening van de sensoren door de vluchtvertegenwoordigers.
 
 ### AFDELING II. VERTEGENWOORDIGERS
 
-#### 1
+##### 1
 
 Een observerende Partij die een door een derde Staat-Partij aangewezen observatievliegtuig gebruikt, heeft het recht te allen tijde het in artikel VI, Afdeling III, van het Verdrag genoemde aantal vertegenwoordigers aan boord van het observatievliegtuig aanwezig te doen zijn.
 
-#### 2
+##### 2
 
 De observerende Partij wijst één van haar vertegenwoordigers aan als hoofdvertegenwoordiger. De hoofdvertegenwoordiger heeft de rechten van de hoofdvluchtvertegenwoordiger als omschreven in Afdeling I van deze Bijlage.
 
@@ -1787,31 +1812,31 @@ Daarnaast
 
 - C. heeft de hoofdvertegenwoordiger, in geval van afwijking van het vliegplan, het recht van de gezagvoerder opheldering te verkrijgen met betrekking tot de redenen voor de afwijking.
 
-#### 3
+##### 3
 
 Vertegenwoordigers en tolken hebben de rechten van vluchtvertegenwoordigers als omschreven in Afdeling I van deze Bijlage.
 
-#### 1
+##### 1
 
 Teneinde mogelijk samenvallen van tijdstippen van uitvoering van observatievluchten boven dezelfde Staat-Partij te vermijden, kan elke Staat-Partij die het recht heeft observatievluchten uit te voeren ingevolge de jaarlijkse verdeling van actieve quotums, alle andere Staten-Partijen uiterlijk 1 november van elk jaar in kennis stellen van zijn voornemen om zijn actieve quotum in het daaropvolgende jaar geheel of gedeeltelijk te gebruiken. In de kennisgeving dient te worden vermeld het aantal observatievluchten dat die Staat-Partij voornemens is uit te voeren boven het grondgebied van andere Staten-Partijen gedurende elk kwartaal van dat jaar.
 
-#### 2
+##### 2
 
 Het totale aantal voorgenomen observatievluchten boven het grondgebied van een Staat-Partij gedurende een bepaald kwartaal, waarvan kennisgeving wordt gedaan in overeenstemming met paragraaf 1 van deze Bijlage, mag in geen geval meer bedragen dan 16. Behoudens het in artikel VI, Afdeling I, derde lid, bepaalde, is een Staat-Partij niet verplicht meer dan één vlucht te dulden op enig tijdstip gedurende het in artikel VI, Afdeling I, negende lid, van het Verdrag genoemde tijdvak.
 
-#### 3
+##### 3
 
 Staten-Partijen die in overeenstemming met paragraaf 1 van deze Bijlage kennisgeving hebben gedaan van hun voornemen één of meer actieve quotums te gebruiken voor observatievluchten boven het grondgebied van dezelfde Staat-Partij gedurende een bepaald kwartaal of bepaalde kwartalen, plegen, indien nodig, overleg teneinde samenvallen van hun geplande observatievluchten te vermijden. Ingeval door middel van overleg tussen de betrokken Staten-Partijen geen overeenstemming kan worden bereikt over het vermijden van dit samenvallen, wordt de kwestie opgelost door middel van loting onder die Staten-Partijen. Het eerste overleg, betreffende observatievluchten in het eerste kwartaal, aanvangende op 1 januari van het volgende jaar, begint onmiddellijk na ontvangst van de in paragraaf 1 van deze Bijlage bedoelde kennisgeving. Het daaropvolgende overleg tussen de betrokken Staten-Partijen wordt gevoerd tussen 1 februari en 15 februari betreffende het kwartaal aanvangende op 1 april, tussen 1 mei en 15 mei betreffende het kwartaal aanvangende op 1 juli, en tussen 1 augustus en 15 augustus betreffende het kwartaal aanvangende op 1 oktober. De betrokken Staten-Partijen stellen alle andere StatenPartijen uiterlijk 15 november, 15 februari, 15 mei, respectievelijk 15 augustus in kennis van de tijdens het overleg vastgestelde volgorde van de observatievluchten.
 
-#### 4
+##### 4
 
 Uiterlijk zeven dagen na de kennisgeving van de ingevolge paragraaf 3 van deze Bijlage vastgestelde volgorde van de observatievluchten stelt elke Staat-Partij alle andere Staten-Partijen die voornemens zijn gedurende dat kwartaal observatievluchten uit te voeren boven zijn grondgebied in kennis van elke vlucht ten aanzien waarvan hij voornemens is gebruik te maken van het recht zijn eigen observatievliegtuig ter beschikking te stellen.
 
-#### 5
+##### 5
 
 Elke Staat-Partij die geen kennisgeving heeft gedaan ingevolge paragraaf 1 van deze Bijlage of die geen kennisgeving heeft gedaan van zijn voornemen al zijn actieve quotums te gebruiken, of die een voor een kwartaal geplande observatievlucht niet heeft uitgevoerd, heeft het recht die resterende actieve quotums alsnog te gebruiken, mits met die observatievluchten rekening is gehouden bij de in paragraaf 3 van deze Bijlage bedoelde overeenstemming.
 
-#### 1
+##### 1
 
 Ten vroegste 90 dagen na de inwerkingtreding van het Verdrag verstrekt een Staat-Partij, op verzoek van een andere Staat-Partij, uiterlijk 30 dagen na ontvangst van dit verzoek de volgende informatie, in overeenstemming met de voorschriften van de ICAO:
 
@@ -1827,25 +1852,25 @@ Ten vroegste 90 dagen na de inwerkingtreding van het Verdrag verstrekt een Staat
 
 - 3. uitwijkvliegvelden en bijtankvliegvelden voor zijn punten van binnenkomst, punten van vertrek en „open luchtruim"-vliegvelden.
 
-#### 2
+##### 2
 
 Elke Staat-Partij stelt Staten-Partijen die overeenkomstig de bepalingen van paragraaf 1 van deze Bijlage om informatie hebben verzocht onmiddellijk in kennis van wijzigingen in de overeenkomstig paragraaf 1 van deze Bijlage verstrekte informatie. Onverminderd de bepalingen van deze paragraaf behoeven geen Berichten aan Luchtvarenden (NOTAM's) te worden verstrekt.
 
-#### 3
+##### 3
 
 Uiterlijk 90 dagen na de inwerkingtreding van het Verdrag stelt elke Staat-Partij alle andere Staten-Partijen in kennis van de bron van de ingevolge paragraaf 1 van deze Bijlage te verstrekken informatie.
 
-#### 1
+##### 1
 
 Ingevolge de bepalingen van het Verdrag uitgevoerde observatievluchten die voorzien in observatie van het gehele grondgebied van Staten-Partijen laten het Verdrag van Montreux van 20 juli 1936 onverlet.
 
-#### 2
+##### 2
 
 Op de vaststelling van de route en de kennisgeving van transitvluchten van vliegtuigen ter toepassing van het Verdrag, die onder artikel 23 van het Verdrag van Montreux vallen, zijn de bepalingen van dat artikel van toepassing.
 
 ### AFDELING I. INFORMATIE OVER FILMONTWIKKELAPPARATUUR, DUPLICATORS EN FOTOFILMS
 
-#### 1
+##### 1
 
 Overeenkomstig Afdeling II, paragraaf 3, letter A, punt 3, van Bijlage D bij het Verdrag verstrekt elke Staat-Partij, wanneer hij de andere Staten-Partijen kennisgeving doet van de filmontwikkelapparatuur of duplicators die hij voornemens is te gebruiken om het oorspronkelijke negatief te ontwikkelen of duplicaatpositieven of -negatieven te vervaardigen, de volgende informatie van de producent:
 
@@ -1857,7 +1882,7 @@ Overeenkomstig Afdeling II, paragraaf 3, letter A, punt 3, van Bijlage D bij het
 
 - D. elke stap van het procédé, met inbegrip van de belichtingsomvang, de temperatuur, de duur, de aanbevolen filmtransportsnelheid, chemicaliën en chemische mengsels voor elk type film.
 
-#### 2
+##### 2
 
 Overeenkomstig Afdeling II, paragraaf 3, letter B, punt 2, van Bijlage D bij het Verdrag verstrekt elke Staat-Partij, wanneer hij informatie verstrekt over de typen zwart/wit-film voor luchtopnamen die hij voornemens is te gebruiken voor het verzamelen van gegevens gedurende het onderzoek tijdens een vlucht of een observatievlucht, of om die gegevens te dupliceren, de volgende informatie van de producent voor elk type film voor luchtopnamen dat met behulp van de in paragraaf 1 van deze Afdeling bedoelde filmontwikkelapparatuur of duplicators kan worden ontwikkeld of gedupliceerd, voor zover noodzakelijk om de mogelijkheden van de film te bevestigen.
 
@@ -1871,17 +1896,17 @@ Afhankelijk van de nationale gebruiken van de producent van de film kan deze inf
 
 - D. de optische dichtheid, gemeten met evenwijdige lichtstralen, of sensitometrische eigenschappen.
 
-#### 3
+##### 3
 
 Teneinde de sensitometrische eigenschappen van het filmmateriaal voor het maken van luchtopnamen vast te stellen overeenkomstig de nationale methoden heeft elke Staat-Partij het recht op verzoek onbelichte monsters te ontvangen van alle typen fotofilm die als gegevensdrager zullen worden gebruikt, alsook de chemicaliën waarmee zij worden ontwikkeld, en aanwijzingen te ontvangen voor het ontwikkelen en dupliceren van die fotofilms. Bedoelde monsters en aanwijzingen dienen uiterlijk 30 dagen na ontvangst van het verzoek daartoe te worden verstrekt.
 
 ### AFDELING II. HET CONTROLEREN VAN HET ONTWIKKELEN EN DUPLICEREN VAN DE FILM
 
-#### 1
+##### 1
 
 Staten-Partijen die deelnemen aan de certificering van een observatievliegtuig en de sensoren daarvan hebben het recht het ontwikkelen en dupliceren te controleren van de film voor luchtopnamen die is gebruikt gedurende het onderzoek tijdens een vlucht. Personeel van de geobserveerde en de observerende Partij heeft het recht het ontwikkelen en dupliceren te controleren van de film voor luchtopnamen die is gebruikt tijdens een demonstratievlucht of een observatievlucht.
 
-#### 2
+##### 2
 
 Tijdens het controleren van het ontwikkelen en dupliceren van de film voor luchtopnamen hebben de Staten-Partijen het recht de volgende apparatuur mede te brengen en te gebruiken, zulks op een wijze die het ontwikkelen of dupliceren van de film niet beïnvloedt:
 
@@ -1899,98 +1924,98 @@ Tijdens het controleren van het ontwikkelen en dupliceren van de film voor lucht
 
 - G. sensitometrische proefstroken van 21 trappen en grijswiggen.
 
-#### 3
+##### 3
 
 Vóór het ontwikkelen van de films die zijn belicht gedurende het onderzoek tijdens een vlucht, een demonstratievlucht of een observatievlucht controleren de Staten-Partijen de filmontwikkelapparatuur en de chemicaliën door een sensitometrische proefstrook van 21-trappen te ontwikkelen of een 21-trappenwig te belichten en te ontwikkelen, teneinde te bevestigen dat de sensitometrische gegevens voor het ontwikkelen van dat type film met behulp van dat ontwikkelprocédé overeenstemt met de overeenkomstig Afdeling 1 van deze Bijlage verstrekte gegevens. Het origineel of het duplicaat van negatieven of positieven van films voor luchtopnamen worden eerst ontwikkeld of gedupliceerd nadat het ontwikkelen van de sensitometrische proefstrook van 21 trappen of het belichten en ontwikkelen van de 21- trappenwig overeenstemt met de overeenkomstig de bepalingen van Afdeling I van deze Bijlage verstrekte eigenschappen van het desbetreffende type film voor luchtopnamen en de desbetreffende filmontwikkelapparatuur of duplicator, tenzij anders is overeengekomen.
 
-#### 4
+##### 4
 
 Vóór het ontwikkelen van de films die zijn belicht gedurende het onderzoek tijdens een vlucht, een demonstratievlucht of een observatievlucht hebben de Staten-Partijen het recht de filmontwikkelapparatuur en de chemicaliën te controleren door een proeffilm te belichten en te ontwikkelen van hetzelfde type als dat wat is gebruikt gedurende het onderzoek tijdens een vlucht, de demonstratievlucht of de observatievlucht, teneinde te bevestigen dat het spoel- en fixeerproces geschikt is voor duurzame archivering.
 
 ### AFDELING I. ALGEMENE BEPALINGEN
 
-#### 1
+##### 1
 
 De „Open Luchtruim"-Overlegcommissie is samengesteld uit door elke Staat-Partij aangewezen vertegenwoordigers. Plaatsvervangers, adviseurs en deskundigen van een Staat-Partij kunnen aan de handelingen van de „Open Luchtruim"-Overlegcommissie deelnemen voor zover zulks door die Staat-Partij noodzakelijk wordt geacht.
 
-#### 2
+##### 2
 
 De eerste bijeenkomst van de „Open Luchtruim"-Overlegcommissie begint binnen 60 dagen na ondertekening van het Verdrag. Voorzitter van de openingsbijeenkomst is de vertegenwoordiger van Canada.
 
-#### 3
+##### 3
 
 De „Open Luchtruim"-Overlegcommissie houdt ten minste vier gewone vergaderingen per kalenderjaar, tenzij zij anders besluit. Op verzoek van één of meer Staten-Partijen worden buitengewone vergaderingen belegd door de Voorzitter van de „Open Luchtruim"-Overlegcommissie, die alle andere Staten-Partijen onmiddellijk in kennis stelt van het verzoek. Deze vergaderingen beginnen uiterlijk 15 dagen na ontvangst van een verzoek daartoe door de Voorzitter.
 
-#### 4
+##### 4
 
 Vergaderingen van de „Open Luchtruim"-Overlegcommissie duren ten hoogste vier weken, tenzij zij anders besluit.
 
-#### 5
+##### 5
 
 Staten-Partijen bekleden bij toerbeurt het Voorzitterschap van de „Open Luchtruim"-Overlegcommissie, zulks in de alfabetische volgorde van de benaming van de Staten-Partijen in de Franse taal. Elke Voorzitter fungeert vanaf de opening van een vergadering tot aan de opening van de volgende vergadering, tenzij anders is overeengekomen.
 
-#### 6
+##### 6
 
 De vertegenwoordigers zitten op vergaderingen in de alfabetische volgorde van de benaming van de Staten-Partijen in de Franse taal.
 
-#### 7
+##### 7
 
 De werktalen van de „Open Luchtruim"-Overlegcommissie zijn de Duitse, de Engelse, de Franse, de Italiaanse, de Russische en de Spaanse taal.
 
-#### 8
+##### 8
 
 De handelingen van de „Open Luchtruim"-Overlegcommissie zijn vertrouwelijk, tenzij anders is overeengekomen. De „Open Luchtruim"-Overlegcommissie kan overeenkomen haar handelingen of besluiten openbaar te maken.
 
-#### 9
+##### 9
 
 Gedurende het tijdvak van voorlopige toepassing en vóór 30 juni 1992 stelt de „Open Luchtruim"-Overlegcommissie de verdeling van de uit het Verdrag voortvloeiende kosten vast. Zij stelt tevens zo spoedig mogelijk de verdeelsleutel vast voor de gezamenlijke uitgaven in verband met het functioneren van de „Open Luchtruim"-Overlegcommissie.
 
-#### 10
+##### 10
 
 Gedurende het tijdvak van voorlopige toepassing van het Verdrag stelt de „Open Luchtruim"-Overlegcommissie een document op betreffende de op grond van het Verdrag vereiste kennisgevingen en rapporten. In dat document dienen alle bedoelde kennisgevingen en rapporten te zijn genoemd; indien van toepassing zijn hierin de desbetreffende modellen opgenomen.
 
-#### 11
+##### 11
 
 De „Open Luchtruim"-Overleg stelt haar reglement van orde en werkwijzen vast en herziet deze indien nodig.
 
 ### AFDELING II. JAARLIJKSE TOETSING VAN ACTIEVE QUOTUMS
 
-#### 1
+##### 1
 
 De Staten-Partijen die de verdeling van het voorgaande jaar betreffende hun actieve quotum geheel of gedeeltelijk willen wijzigen, geven alle andere Staten-Partijen en de „Open Luchtruim"-Overlegcommissie uiterlijk 1 oktober van elk jaar te kennen boven welke Staten-Partijen zij in het volgende kalenderjaar observatievluchten wensen uit te voeren. Deze voorgestelde wijzigingen worden tijdens die toetsing door de Staten-Partijen bestudeerd, zulks overeenkomstig de in de volgende paragrafen van deze Afdeling uiteengezette regels.
 
-#### 2
+##### 2
 
 Indien de verzoeken om observatievluchten boven het grondgebied van een bepaalde Staat-Partij niet meer bedragen dan diens passieve quotum, wordt de verdeling vastgesteld zoals gewenst en ter goedkeuring voorgelegd aan de „Open Luchtruim"-Overlegcommissie.
 
-#### 3
+##### 3
 
 Indien de verzoeken om observatievluchten boven het grondgebied van een bepaalde Staat-Partij meer bedragen dan diens passieve quotum, wordt de verdeling vastgesteld met algemene instemming van de betrokken Staten-Partijen en ter goedkeuring voorgelegd aan de „Open Luchtruim"-Overlegcommissie.
 
 ### AFDELING III. BUITENGEWONE OBSERVATIEVLUCHTEN
 
-#### 1
+##### 1
 
 De „Open-Luchtruim"-Overlegcommissie bestudeert verzoeken van organen van de Conferentie over Veiligheid en Samenwerking in Europa, die bevoegd zijn op het gebied van conflictpreventie en crisisbeheer, en van andere daarvoor in aanmerking komende internationale organisaties, ter vergemakkelijking van het organiseren en uitvoeren van buitengewone observatievluchten boven het grondgebied van een Staat-Partij met diens instemming.
 
-#### 2
+##### 2
 
 De bij deze observatievluchten verkregen gegevens worden ter beschikking gesteld van de betrokken organen en organisaties.
 
-#### 3
+##### 3
 
 Onverminderd de overige bepalingen van het Verdrag kunnen Staten-Partijen op bilaterale en vrijwillige basis overeenkomen observatievluchten uit te voeren boven elkaars grondgebied overeenkomstig de procedures voor het uitvoeren van observatievluchten. De bij deze observatievluchten verkregen gegevens worden ter beschikking gesteld van de „Open Luchtruim"-Overlegcommissie, tenzij de betrokken Staten-Partijen anders zijn overeengekomen.
 
-#### 4
+##### 4
 
 Overeenkomstig de bepalingen van deze Afdeling uitgevoerde observatievluchten worden niet in mindering gebracht op de actieve of passieve quotums van de betrokken Staten-Partijen.
 
 ### AFDELING IV. ANDERE TOEPASSINGSGEBIEDEN VOOR HET „OPEN LUCHTRUIM"-REGIME
 
-#### 1
+##### 1
 
 Staten-Partijen kunnen ter bestudering in de „Open Luchtruim"-Overlegcommissie voorstellen indienen voor het gebruik van het „open luchtruim"-regime op andere specifieke gebieden, zoals het milieu.
 
-#### 2
+##### 2
 
 De „Open Luchtruim"-Overlegcommissie kan besluiten nemen over deze conferentie of latere conferenties, bijeengeroepen ter toetsing van de toepassing van het Verdrag in overeenstemming met de bepalingen van artikel XVI, derde lid, van het Verdrag.

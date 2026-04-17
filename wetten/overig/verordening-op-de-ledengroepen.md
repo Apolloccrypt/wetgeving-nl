@@ -1,13 +1,35 @@
 ---
 title: "Verordening op de ledengroepen"
 identifier: "BWBR0033813"
-categorie: "Overig"
-publicatiedatum: 2022-01-01
-laatste_update: 2022-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033813"
+country: "nl"
+rank: "pbo"
+publication_date: "2022-01-01"
+last_updated: "2022-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033813"
+soort: "pbo"
+stam_id: "12344813"
+version_id: "20711232"
+internal_id: "C29746861"
+label_id: "12316084"
+dtd_version: "2.0"
+original_entry_into_force: "2013-08-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033813/2022-01-01/0"
+intitule_bron: "Stcrt.2013-23900"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2013-08-27"
+intitule_in_force: "2013-08-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-23900"
+original_published_date: "2013-08-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-23900"
+entry_into_force_date: "2013-08-28"
+jci_1_3: "jci1.3:c:BWBR0033813&z=2022-01-01&g=2022-01-01"
+jci_1_0: "1.0:c:BWBR0033813&g=2022-01-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2013-08-28"
 ---
-
 # Verordening op de ledengroepen
 
 Gelet op de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=5), [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=16), [17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=17) en [19, tweede lid, aanhef en onderdeel e, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=19);
@@ -16,7 +38,7 @@ Stelt de volgende verordening vast:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze verordening wordt verstaan onder:
 
@@ -66,7 +88,7 @@ In deze verordening wordt verstaan onder:
 
 - –. **wet:** [Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een ledengroep van openbaar accountants waarin de accountants zijn verenigd welke zijn ingedeeld in de contributiegroep voor openbaar accountants.
 
@@ -74,7 +96,7 @@ In deze verordening wordt verstaan onder:
 
 3. Er is een ledengroep van accountants in business waarin de accountants zijn verenigd welke zijn ingedeeld in de contributiegroep voor accountants in business.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Bij de inwerkingtreding van deze verordening en vervolgens bij iedere tussentijdse wijziging van de aard van de werkzaamheden van een accountant of de functie die een wijziging van de indeling in een ledengroep met zich brengt, wordt door het bestuur vastgesteld tot welke ledengroep een accountant behoort.
 
@@ -88,7 +110,7 @@ In deze verordening wordt verstaan onder:
 
 ### Hoofdstuk 2. De werkwijze van een ledengroep
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een ledengroepbestuur roept een ledengroepvergadering zo dikwijls bijeen als het zulks nodig acht of op verzoek van ten minste 1% van de leden van de ledengroep, of, indien dit lager is, ten minste vijftig leden van een ledengroep.
 
@@ -96,7 +118,7 @@ In deze verordening wordt verstaan onder:
 
 3. Een ledengroepbestuur kan besluiten een bijeenkomst van een ledengroepvergadering geheel of gedeeltelijk via elektronische communicatiemiddelen te laten plaatsvinden.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De oproeping tot een bijeenkomst van een ledengroepvergadering geschiedt ten minste veertien dagen tevoren door toezending aan de leden van een ledengroep van een agenda, onder vermelding van plaats, dag en aanvangsuur van de vergadering.
 
@@ -104,7 +126,7 @@ In deze verordening wordt verstaan onder:
 
 3. In spoedeisende gevallen ter beoordeling van een ledengroepbestuur kan de in het eerste lid genoemde termijn worden bekort, met dien verstande dat de termijn van oproeping ten minste vijf werkdagen is.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een ledengroepvergadering neemt beslissingen bij meerderheid van stemmen. Blanco stemmen worden hierbij geacht niet te zijn uitgebracht.
 
@@ -112,11 +134,11 @@ In deze verordening wordt verstaan onder:
 
 3. Stemmingen over personen zijn geheim.
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 1. Ieder lid van een ledengroep kan één stem uitbrengen.
 
@@ -124,7 +146,7 @@ Vervallen
 
 ### Hoofdstuk 3. De werkwijze van een ledengroepbestuur
 
-#### Artikel 9
+##### Artikel 9
 
 1. Een ledengroepbestuur bestuurt de ledengroep.
 
@@ -132,13 +154,13 @@ Vervallen
 
 3. Het bestuur raadpleegt een ledengroepbestuur over de kandidaten die aan het bestuur worden voorgedragen door een commissie die is belast met de voorselectie van kandidaten die door het bestuur aan de ledenvergadering worden aanbevolen. Het bestuur betrekt de reactie van een ledengroepbestuur bij de besluitvorming over de aanbeveling van een kandidaat aan de ledenvergadering.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het aantal leden van het ledengroepbestuur wordt door de ledengroepvergadering bepaald, doch bedraagt ten hoogste zeven.
 
 2. Een ledengroepbestuur bevordert dat het ledengroepbestuur een evenwichtige afspiegeling van de ledengroep vormt.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Het lidmaatschap van een ledengroepbestuur is onverenigbaar met:
 
@@ -158,7 +180,7 @@ Vervallen
 
 2. Een lid van het ledengroepbestuur laat niet toe dat de uitoefening van zijn functie als lid van het ledengroepbestuur wordt aangetast door een vooroordeel, belangentegenstelling of ongepaste beïnvloeding door een derde of dat de schijn daarvan wordt gewekt.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Het ledengroepbestuur neemt beslissingen en besluiten bij meerderheid van stemmen.
 
@@ -168,7 +190,7 @@ Vervallen
 
 4. Ook buiten de vergadering kunnen besluiten worden genomen, mits alle bestuursleden zijn geraadpleegd en zich niet tegen het voorgestelde besluit hebben verklaard. Op deze wijze genomen besluiten worden in de notulen van de eerstvolgende bestuursvergadering opgenomen.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Kandidaten voor de te vervullen vacatures in het ledengroepbestuur kunnen worden aanbevolen, zowel door het ledengroepbestuur als door ten minste 1% van de leden van de ledengroep, of, indien dit lager is, ten minste vijftig leden van een ledengroep.
 
@@ -176,13 +198,13 @@ Vervallen
 
 3. De namen van de door leden van een ledengroep aanbevolen kandidaten worden uiterlijk drie weken voor de datum van de bijeenkomst van de ledengroepvergadering bij het ledengroepbestuur ingediend.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Het ledengroepbestuur vermeldt bij de agenda voor de bijeenkomst van de ledengroepvergadering de namen van de door hem of door leden aanbevolen kandidaten.
 
 2. Op niet aanbevolen personen kunnen geen geldige stemmen worden uitgebracht.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Het ledengroepbestuur wordt bij de uitoefening van zijn taken bijgestaan door een secretaris.
 
@@ -192,13 +214,13 @@ Vervallen
 
 ### Hoofdstuk 4. De voorzitter en plaatsvervangend voorzitter van het ledengroepbestuur
 
-#### Artikel 16
+##### Artikel 16
 
 1. Een ledengroepbestuur heeft een voorzitter en een plaatsvervangend voorzitter.
 
 2. De voorzitter van een ledengroepbestuur, dan wel bij zijn afwezigheid de plaatsvervangend voorzitter, bekleedt tijdens de vergaderingen van het ledengroepbestuur en de bijeenkomst van de ledengroepvergadering het voorzitterschap.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De voorzitter en de plaatsvervangend voorzitter van een ledengroepbestuur, worden jaarlijks door het ledengroepbestuur uit het midden van het ledengroepbestuur benoemd.
 
@@ -208,7 +230,7 @@ Vervallen
 
 ### Hoofdstuk 5. De afgevaardigde uit ledengroepbestuur
 
-#### Artikel 18
+##### Artikel 18
 
 1. Een ledengroepbestuur benoemt uit zijn midden een afgevaardigde.
 
@@ -220,7 +242,7 @@ Vervallen
 
 ### Hoofdstuk 6. De financiën van de ledengroep
 
-#### Artikel 19
+##### Artikel 19
 
 1. Een ledengroepbestuur dient uiterlijk op 2 januari van een jaar bij het bestuur een plan van voorgenomen activiteiten in, tezamen met een raming van de daarmee gemoeide uitgaven, met betrekking tot jaar volgend op het jaar waarin voorgenoemde dag valt.
 
@@ -242,13 +264,13 @@ Vervallen
 
 ### Hoofdstuk 7. Overgangsrecht
 
-#### Artikel 20
+##### Artikel 20
 
 Vervallen
 
 ### Hoofdstuk 8. Slotbepalingen
 
-#### Artikel 21
+##### Artikel 21
 
 1. Deze verordening treedt in werking op de dag na publicatie in de Staatscourant en werkt terug tot 1 juli 2013.
 

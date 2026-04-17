@@ -1,13 +1,39 @@
 ---
-title: "Besluit periodieke registratie Wet BIG"
+title: "Besluit van 24 november 2008, houdende periodieke registratie van op grond van artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg ingeschrevenen (Besluit periodieke registratie Wet BIG)"
 identifier: "BWBR0024841"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-03-01
-laatste_update: 2023-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024841"
+country: "nl"
+rank: "amvb"
+publication_date: "2023-03-01"
+last_updated: "2023-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024841"
+soort: "AMvB"
+stam_id: "9794163"
+version_id: "27605332"
+internal_id: "C38936431"
+label_id: "9770934"
+dtd_version: "2.0"
+original_entry_into_force: "2021-03-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024841/2023-03-01/0"
+intitule_bron: "Stb.2008-515"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-11-24"
+intitule_published: "2008-12-16"
+intitule_in_force: "2008-12-22"
+intitule_status: "goed"
+original_publication: "Stb.2021-121"
+original_signed_date: "2021-03-03"
+original_published_date: "2021-03-11"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2021-121"
+entry_into_force_date: "2021-03-03"
+jci_1_3: "jci1.3:c:BWBR0024841&z=2023-03-01&g=2023-03-01"
+jci_1_0: "1.0:c:BWBR0024841&g=2023-03-01"
+citeertitel_status: "officieel"
+short_title: "Besluit periodieke registratie Wet BIG"
+signed_date: "2021-03-03"
+entry_into_force: "2021-03-03"
 ---
-
 # Besluit van 24 november 2008, houdende periodieke registratie van op grond van artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg ingeschrevenen (Besluit periodieke registratie Wet BIG)
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 18 juli 2008, kenmerk DWJZ/SWW-2864601;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 Treedt in werking op het tijdstip waarop artikel 8 van de Wet op de beroepen in de individuele gezondheidszorg en de artikelen I, onderdelen A en B en IA van de Wijzigingswet Wet op de beroepen in de individuele gezondheidszorg (periodieke registratie) (Stb. 2007/237) in werking treden.
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -30,7 +56,7 @@ In dit besluit wordt verstaan onder:
 
 - b. **het register:** het register, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Voor de toepassing van [artikel 8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8) worden de volgende registers aangewezen:
 
@@ -64,7 +90,7 @@ In dit besluit wordt verstaan onder:
 
 5. Wanneer de inschrijving van een specialist wordt doorgehaald uit een specialistenregister waarvoor een regeling geldt als bedoeld in [artikel 15, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=15) nadat de periode van vijf jaren, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024841&artikel=2&z=2023-03-01&g=2023-03-01), is verstreken, dan wordt die periode verlengd tot vier maanden na de datum van doorhaling van de inschrijving uit het specialistenregister. De termijn van zes maanden, bedoeld in het derde lid, wordt in dat geval verkort tot twee maanden.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De in [artikel 8, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8) bedoelde werkzaamheden worden in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024841&artikel=2&z=2023-03-01&g=2023-03-01) bedoelde periode verricht gedurende minimaal 2080 uren waarbij het de ingeschrevene vrijstaat de werkzaamheden naar eigen inzicht te spreiden over die periode. In afwijking van de eerste volzin, geldt voor de ingeschrevenen in een register als bedoeld in artikel 2, eerste lid, onder g, h of j, een periode van minimaal 3120 uren. In de gevallen bedoeld in artikel 2, vijfde lid, wordt bij de toepassing van de eerste en tweede zin, uitgegaan van een periode van vijf jaar die eindigt op het tijdstip waarop de inschrijving in het register moet worden doorgehaald.
 
@@ -102,13 +128,13 @@ In dit besluit wordt verstaan onder:
 
 - g. de uren besteed aan buitengewoon verlof, indien deze worden opgenomen voor invulling van werkzaamheden die overeenkomen met werkzaamheden die worden verricht binnen het desbetreffende beroep.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Voor de aanvraag tot opneming van een aantekening in het register van de datum, bedoeld in [artikel 8, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8), stelt Onze Minister een formulier beschikbaar, dat in ieder geval rubrieken bevat voor de naam, de geboortedatum en het woon- en werkadres van de aanvrager, het nummer van de registratie in het register, en rubrieken voor gegevens over de onderwijsinstelling waar scholing is gevolgd.
 
 2. Bij de indiening van een aanvraag als bedoeld in het eerste lid wordt het in het eerste lid bedoelde formulier overgelegd dat door de aanvrager is ingevuld en ondertekend alsmede het getuigschrift waaruit blijkt dat betrokkene met goed gevolg de bij ministeriële regeling voorgeschreven scholing ter zake heeft afgerond.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Voor de aanvraag tot opneming van een aantekening in het register van de datum, bedoeld in [artikel 8, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8) stelt Onze Minister een formulier beschikbaar, dat in ieder geval rubrieken bevat voor de naam, de geboortedatum en het woon- en werkadres van de aanvrager, het nummer van de registratie in het register, en rubrieken voor gegevens over de aard, de omvang en de duur van verrichte werkzaamheden.
 
@@ -126,7 +152,7 @@ gaat het formulier vergezeld van bewijsstukken van aard, omvang en duur van de v
 
 5. De bewijsstukken, bedoeld in het derde lid, zijn in het Nederlands of Engels gesteld, danwel door een beëdigd vertaler in een van de genoemde talen vertaald. Overgelegde fotokopieën zijn gewaarmerkt door de instelling of werkgever die het desbetreffende bewijsstuk heeft afgegeven, of door een in Nederland gevestigde notaris.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Bij het indienen van een aanvraag tot het opnemen van een aantekening in het register van de datum, bedoeld in [artikel 8, tweede lid, onderdelen b en c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8) wordt een bedrag van € 65,-- voldaan.
 
@@ -136,7 +162,7 @@ gaat het formulier vergezeld van bewijsstukken van aard, omvang en duur van de v
 
 4. Indien na de beoordeling van de aanvraag de gevraagde aantekening niet wordt opgenomen in het register, wordt het bedrag, genoemd in tweede lid, gerestitueerd.
 
-#### Artikel 7
+##### Artikel 7
 
 1. In afwijking van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024841&artikel=2&z=2023-03-01&g=2023-03-01), geldt voor artsen van wie de aangetekende datum, bedoeld in [artikel 8, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8) is gelegen voor 1 januari 2013, dat de periode, bedoeld in artikel 8, eerste lid van de wet, duurt van de aangetekende datum tot 1 januari 2018.
 
@@ -148,21 +174,21 @@ gaat het formulier vergezeld van bewijsstukken van aard, omvang en duur van de v
 
 3. Voor de toepassing van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024841&artikel=6&z=2023-03-01&g=2023-03-01), wordt de periode, bedoeld in het eerste lid, gelijkgesteld met een periode van vijf jaar.
 
-#### Artikel 8
+##### Artikel 8
 
 Indien de ingeschrevene beschikt over een getuigschrift dat is behaald vóór de inwerkingtreding van dit besluit, geldt in afwijking van [artikel 8, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8), de datum van inwerkingtreding van dit besluit als aanvangsdatum vanaf welke de in dat artikellid bedoelde periode begint te lopen.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit treedt in werking op het tijdstip waarop [artikel 8 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8) en artikel I, onderdelen A en B en artikel 1A van de Wet van 7 juni 2007 tot wijziging van de Wet op de beroepen in de individuele gezondheidszorg (periodieke registratie) (Stb. 2007, 237) in werking treden.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit periodieke registratie Wet BIG.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 7a
+##### Artikel 7a
 
 1. In afwijking van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024841&artikel=2&z=2023-03-01&g=2023-03-01), geldt voor beoefenaren van de in artikel 2, eerste lid, genoemde beroepen:
 

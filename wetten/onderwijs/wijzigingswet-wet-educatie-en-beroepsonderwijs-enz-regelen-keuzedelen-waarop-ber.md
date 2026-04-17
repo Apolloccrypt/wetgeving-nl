@@ -1,14 +1,41 @@
 ---
-title: "Wijzigingswet Wet educatie en beroepsonderwijs, enz. (regelen keuzedelen waarop beroepsopleidingen mede worden gebaseerd)"
+title: "Wet van 14 oktober 2015 tot wijziging van onder meer de Wet educatie en beroepsonderwijs in verband met het regelen van keuzedelen waarop beroepsopleidingen mede worden gebaseerd"
 identifier: "BWBR0037151"
-categorie: "Onderwijs"
-publicatiedatum: 2018-08-01
-laatste_update: 2016-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037151"
+country: "nl"
+rank: "wet"
+publication_date: "2018-08-01"
+last_updated: "2016-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037151"
+soort: "wet"
+stam_id: "13294343"
+version_id: "22758022"
+internal_id: "C33213931"
+label_id: "13262224"
+dtd_version: "2.0"
+original_entry_into_force: "2016-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037151/2018-08-01/0"
+intitule_bron: "Stb.2015-390"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-10-14"
+intitule_published: "2015-11-03"
+intitule_in_force: "2016-01-12"
+intitule_status: "goed"
+original_publication: "Stb.2015-390"
+original_signed_date: "2015-10-14"
+original_published_date: "2015-11-03"
+original_effect: "nieuwe-regeling"
+original_dossier: "34160"
+original_url_id: "stb-2015-390"
+entry_into_force_date: "2016-02-01"
+jci_1_3: "jci1.3:c:BWBR0037151&z=2018-08-01&g=2018-08-01"
+jci_1_0: "1.0:c:BWBR0037151&g=2018-08-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingswet Wet educatie en beroepsonderwijs, enz. (regelen keuzedelen waarop beroepsopleidingen mede worden gebaseerd)"
+signed_date: "2015-10-14"
+entry_into_force: "2016-02-01"
 ---
-
-# Wijzigingswet Wet educatie en beroepsonderwijs, enz. (regelen keuzedelen waarop beroepsopleidingen mede worden gebaseerd)
+# Wet van 14 oktober 2015 tot wijziging van onder meer de Wet educatie en beroepsonderwijs in verband met het regelen van keuzedelen waarop beroepsopleidingen mede worden gebaseerd
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,21 +43,21 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is keuzedelen te introd
 
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I. Wijziging [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625)
+##### Artikel I. Wijziging [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625)
 
 Wijzigt de Wet educatie en beroepsonderwijs.
 
-#### Artikel II. Wijziging [Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800)
+##### Artikel II. Wijziging [Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800)
 
 Wijzigt de Wet op het onderwijstoezicht.
 
-#### Artikel III. Wijziging [Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395)
+##### Artikel III. Wijziging [Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395)
 
 Wijzigt de Wet educatie en beroepsonderwijs BES.
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel IV. Invoeringsbepalingen
+##### Artikel IV. Invoeringsbepalingen
 
 1. Op het moment van inwerkingtreding van deze wet strekt de beschikking afgegeven op grond van [artikel 1.4.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.4.1) zich mede uit over keuzedelen.
 
@@ -40,11 +67,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 4. Tot een bij koninklijk besluit te bepalen tijdstip geldt invoering van keuzedelen op grond van deze wet niet voor de specialistenopleiding, bedoeld in [artikel 7.2.2, eerste lid, onderdeel e, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2).
 
-#### Artikel V. Overgangsbepalingen
+##### Artikel V. Overgangsbepalingen
 
 Deelnemers die op grond van de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625), zoals deze luidde op het moment voor inwerkingtreding van deze wet een beroepsopleiding volgen, worden door het bevoegd gezag in de gelegenheid gesteld deze beroepsopleiding te voltooien, gedurende een periode van de desbetreffende studieduur vermeerderd met twee jaar.
 
-#### Artikel VI. Inwerkingtreding
+##### Artikel VI. Inwerkingtreding
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 

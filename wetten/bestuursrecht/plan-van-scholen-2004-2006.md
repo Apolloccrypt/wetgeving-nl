@@ -1,13 +1,36 @@
 ---
 title: "Plan van Scholen 2004 - 2006"
 identifier: "BWBR0015649"
-categorie: "Bestuursrecht"
-publicatiedatum: 2003-10-29
-laatste_update: 2003-10-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015649"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2003-10-29"
+last_updated: "2003-10-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015649"
+soort: "beleidsregel"
+stam_id: "6592873"
+version_id: "11434692"
+internal_id: "C15407241"
+label_id: "6581184"
+original_entry_into_force: "2003-10-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015649/2003-10-29/0"
+intitule_bron: "Uitleg.1993-24"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-09-30"
+intitule_published: "1993-10-29"
+intitule_in_force: "1993-10-29"
+intitule_status: "goed"
+original_publication: "Uitleg.1993-24"
+original_signed_date: "2003-09-30"
+original_published_date: "1993-10-29"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2003-10-29"
+jci_1_3: "jci1.3:c:BWBR0015649&z=2003-10-29&g=2003-10-29"
+jci_1_0: "1.0:c:BWBR0015649&g=2003-10-29"
+citeertitel_status: "redactioneel"
+signed_date: "2003-09-30"
+entry_into_force: "2003-10-29"
 ---
-
 # Plan van Scholen 2004 - 2006
 
 Vast te stellen het aan deze beschikking gehechte Plan van Scholen 2004 - 2005 - 2006;

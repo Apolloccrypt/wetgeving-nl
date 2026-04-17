@@ -1,13 +1,37 @@
 ---
-title: "Verordening bezoldiging tuchtgerechten PBO"
+title: "Verordening van de Sociaal-Economische Raad van 21 november 2003 houdende regelen terzake van de bezoldiging van de voorzitter, de leden en de secretaris van een tuchtgerecht op grond van de Wet tuchtrechtspraak bedrijfsorganisatie 2002 (Verordening bezoldiging tuchtgerechten PBO)"
 identifier: "BWBR0015930"
-categorie: "Overig"
-publicatiedatum: 2004-04-01
-laatste_update: 2004-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015930"
+country: "nl"
+rank: "pbo"
+publication_date: "2004-04-01"
+last_updated: "2004-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015930"
+soort: "pbo"
+stam_id: "6103613"
+version_id: "10764342"
+internal_id: "C14611701"
+label_id: "6092804"
+original_entry_into_force: "2004-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015930/2004-04-01/0"
+intitule_bron: "Vbbo.2004-16"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-11-21"
+intitule_published: "2004-03-19"
+intitule_in_force: "2004-03-04"
+intitule_status: "goed"
+original_publication: "Vbbo.2004-16"
+original_signed_date: "2003-11-21"
+original_published_date: "2004-03-19"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2004-04-01"
+jci_1_3: "jci1.3:c:BWBR0015930&z=2004-04-01&g=2004-04-01"
+jci_1_0: "1.0:c:BWBR0015930&g=2004-04-01"
+citeertitel_status: "officieel"
+short_title: "Verordening bezoldiging tuchtgerechten PBO"
+signed_date: "2003-11-21"
+entry_into_force: "2004-04-01"
 ---
-
 # Verordening van de Sociaal-Economische Raad van 21 november 2003 houdende regelen terzake van de bezoldiging van de voorzitter, de leden en de secretaris van een tuchtgerecht op grond van de Wet tuchtrechtspraak bedrijfsorganisatie 2002 (Verordening bezoldiging tuchtgerechten PBO)
 
 Gelet op [artikel 36 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=36);
@@ -22,7 +46,7 @@ Treedt in werking op het tijdstip waarop de Wet tuchtrechtspraak bedrijfsorganis
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze verordening wordt verstaan onder:
 
@@ -36,7 +60,7 @@ In deze verordening wordt verstaan onder:
 
 #### § 2. Bezoldiging
 
-#### Artikel 2
+##### Artikel 2
 
 1. De bezoldiging van de voorzitter van een tuchtgerecht houdt in:
 
@@ -54,7 +78,7 @@ In deze verordening wordt verstaan onder:
 
 4. De Bestuurskamer kan bij besluit een bedrijfslichaam toestaan af te wijken van de grenswaarden in de tabel, bedoeld in het eerste lid, onderdeel a.
 
-#### Artikel 3
+##### Artikel 3
 
 De bezoldiging van de leden van een tuchtgerecht en hun plaatsvervangers houdt in:
 
@@ -62,29 +86,29 @@ De bezoldiging van de leden van een tuchtgerecht en hun plaatsvervangers houdt i
 
 - b. een vergoeding voor reis- en verblijfkosten, overeenkomstig de voor leden van de Raad geldende regeling.
 
-#### Artikel 4
+##### Artikel 4
 
 Indien een zitting niet langer duurt dan vier uren, worden de in [artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0015930&paragraaf=2&artikel=2&z=2004-04-01&g=2004-04-01), en [artikel 3, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0015930&paragraaf=2&artikel=3&z=2004-04-01&g=2004-04-01), bedoelde bedragen gehalveerd.
 
-#### Artikel 5
+##### Artikel 5
 
 De bezoldiging van de secretaris van een tuchtgerecht en van zijn plaatsvervanger is gebaseerd op de beloningsparagraaf van de geldende collectieve arbeidsovereenkomst voor de publiekrechtelijke bedrijfsorganisatie, met dien verstande dat de hoogte van de beloning ten minste overeenkomt met het minimum van salarisschaal 11 en ten hoogste met het maximum van salarisschaal 14.
 
 #### § 3. Overgangs- en slotbepalingen
 
-#### Artikel 6
+##### Artikel 6
 
 Voor de periode die aanvangt met de inwerkingtreding van dit besluit en die eindigt op 31 december van het daaropvolgende jaar, stelt de Bestuurskamer het aantal zaken, bedoeld in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0015930&paragraaf=2&artikel=2&z=2004-04-01&g=2004-04-01), bij besluit vast.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze verordening wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze verordening treedt in werking op het tijdstip waarop de [Wet tuchtrechtspraak bedrijfsorganisatie 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0016341) in werking treedt.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze verordening wordt aangehaald als: Verordening bezoldiging tuchtgerechten PBO.
 

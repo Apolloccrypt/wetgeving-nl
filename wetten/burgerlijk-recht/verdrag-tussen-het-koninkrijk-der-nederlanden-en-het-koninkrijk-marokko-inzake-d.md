@@ -1,13 +1,38 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Marokko inzake de overbrenging van gevonniste personen"
 identifier: "BWBV0001425"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2001-05-01
-laatste_update: 2001-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001425"
+country: "nl"
+rank: "verdrag"
+publication_date: "2001-05-01"
+last_updated: "2001-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001425"
+soort: "verdrag"
+stam_id: "10001412773"
+version_id: "10001482492"
+internal_id: "C10006992161"
+label_id: "10001413254"
+dtd_version: "2.0"
+original_entry_into_force: "2001-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001425/2001-05-01/0"
+intitule_bron: "Trb.1999-198"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-12-30"
+intitule_published: "1999-12-21"
+intitule_in_force: "2001-05-10"
+intitule_status: "goed"
+original_publication: "Trb.1999-198"
+original_signed_date: "1999-12-30"
+original_published_date: "1999-12-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1999-198"
+entry_into_force_date: "2001-05-01"
+jci_1_3: "jci1.3:c:BWBV0001425&z=2001-05-01&g=2001-05-01"
+jci_1_0: "1.0:c:BWBV0001425&g=2001-05-01"
+citeertitel_status: "redactioneel"
+signed_date: "1999-12-30"
+entry_into_force: "2001-05-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Marokko inzake de overbrenging van gevonniste personen
 
 Het Koninkrijk der Nederlanden
@@ -30,7 +55,7 @@ Zijn de volgende bepalingen overeengekomen:
 
 ### Hoofdstuk 1. Algemene beginselen
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -42,13 +67,13 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - d. de uitdrukking „de Staat van tenuitvoerlegging": de Staat waarnaar de gevonniste persoon kan worden of reeds is overgebracht, teneinde zijn veroordeling te ondergaan.
 
-#### Artikel 2
+##### Artikel 2
 
 Elke gevonniste persoon op wie dit Verdrag van toepassing kan zijn, dient door de Staat van veroordeling op de hoogte te worden gebracht van de mogelijkheid die dit Verdrag hem biedt om te worden overgebracht naar zijn land voor de tenuitvoerlegging van zijn veroordeling.
 
 ### Hoofdstuk 2. Voorwaarden voor overbrenging
 
-#### Artikel 3
+##### Artikel 3
 
 Dit Verdrag wordt toegepast onder de volgende voorwaarden:
 
@@ -64,7 +89,7 @@ Dit Verdrag wordt toegepast onder de volgende voorwaarden:
 
 - f. de Staat van veroordeling en de Staat van tenuitvoerlegging moeten het eens zijn over de overbrenging.
 
-#### Artikel 4
+##### Artikel 4
 
 De overbrenging van een gevonniste persoon wordt geweigerd:
 
@@ -78,7 +103,7 @@ De overbrenging van een gevonniste persoon wordt geweigerd:
 
 - e. indien de feiten die aan de veroordeling ten grondslag liggen, het voorwerp van strafvervolging zijn in de Staat van tenuitvoerlegging.
 
-#### Artikel 5
+##### Artikel 5
 
 De overbrenging kan met name worden geweigerd:
 
@@ -90,41 +115,41 @@ De overbrenging kan met name worden geweigerd:
 
 ### Hoofdstuk 3. Tenuitvoerlegging van de straf
 
-#### Artikel 6
+##### Artikel 6
 
 De tenuitvoerlegging van een veroordeling wordt beheerst door de wet van de Staat van tenuitvoerlegging onder de in de navolgende artikelen bedoelde voorwaarden.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De bevoegde autoriteiten van de Staat van tenuitvoerlegging zetten de tenuitvoerlegging van de veroordeling voort op basis van een administratieve beschikking.
 
 2. De Staat van tenuitvoerlegging is gebonden aan het rechtskarakter en de duur van de sanctie, zoals die uit de veroordeling blijken. Indien deze veroordeling evenwel naar aard en naar duur onverenigbaar is met de wet van de Staat van tenuitvoerlegging, kan die Staat de sanctie aanpassen aan de straf of maatregel door zijn eigen wet voor een soortgelijk strafbaar feit voorgeschreven. Wat de aard betreft, zal de straf of maatregel voor zover mogelijk overeenstemmen met die welke door de ten uitvoer te leggen veroordeling is opgelegd. De door de Staat van veroordeling opgelegde sanctie zal hierdoor naar aard en duur niet worden verzwaard en evenmin zal het door de wet van de Staat van tenuitvoerlegging voorgeschreven maximum hierdoor worden overschreden.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De Staat van veroordeling stelt de Staat van tenuitvoerlegging onverwijld in kennis van enige beslissing of maatregel op zijn grondgebied ten gevolge waarvan de veroordeling niet meer voor tenuitvoerlegging vatbaar is.
 
 2. De bevoegde autoriteiten van de Staat van tenuitvoerlegging dienen de tenuitvoerlegging van de veroordeling te beëindigen zodra zij van een dergelijke beslissing in kennis zijn gesteld.
 
-#### Artikel 9
+##### Artikel 9
 
 Slechts de Staat van veroordeling, met uitsluiting van de Staat van tenuitvoerlegging, is bevoegd te beslissen op een verzoek tot herziening van het vonnis.
 
-#### Artikel 10
+##### Artikel 10
 
 De Staat van veroordeling en de Staat van tenuitvoerlegging kunnen gratie, amnestie of strafvermindering van de veroordeling verlenen ingevolge hun grondwet of andere wetten.
 
-#### Artikel 11
+##### Artikel 11
 
 De Staat van tenuitvoerlegging is als enige bevoegd om ten aanzien van de gevonniste persoon beslissingen te nemen met betrekking tot strafvermindering, en meer in het algemeen, de wijze van tenuitvoerlegging van de straf.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Met de daadwerkelijke overname van de gevonniste persoon door de autoriteiten van de Staat van tenuitvoerlegging wordt de tenuitvoerlegging van de veroordeling in de Staat van veroordeling geschorst. Indien de gevonniste persoon na zijn overbrenging zich aan de tenuitvoerlegging onttrekt, herleeft het recht van de Staat van veroordeling de resterende straf die de gevonniste persoon in de Staat van tenuitvoerlegging nog had moeten uitdienen, ten uitvoer te leggen.
 
 2. De Staat van veroordeling kan de straf niet langer ten uitvoer leggen, indien de Staat van tenuitvoerlegging de straf beschouwt geheel ten uitvoer gelegd te zijn.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Een in overeenstemming met de bepalingen van dit Verdrag overgebrachte persoon kan niet opnieuw worden berecht of veroordeeld in de Staat van tenuitvoerlegging terzake van de feiten die aanleiding hebben gegeven tot de veroordeling in de Staat van veroordeling.
 
@@ -132,7 +157,7 @@ De Staat van tenuitvoerlegging is als enige bevoegd om ten aanzien van de gevonn
 
 ### Hoofdstuk 4. Verplichting tot het verstrekken van inlichtingen
 
-#### Artikel 14
+##### Artikel 14
 
 De Staat van tenuitvoerlegging bericht de Staat van veroordeling ten aanzien van de tenuitvoerlegging van de veroordeling:
 
@@ -144,7 +169,7 @@ De Staat van tenuitvoerlegging bericht de Staat van veroordeling ten aanzien van
 
 ### Hoofdstuk 5. Toepassing naar tijdstip
 
-#### Artikel 15
+##### Artikel 15
 
 Dit Verdrag is van toepassing op de tenuitvoerlegging van veroordelingen die hetzij vóór hetzij na de inwerkingtreding van het Verdrag zijn uitgesproken.
 
@@ -152,19 +177,19 @@ Dit Verdrag is van toepassing op de tenuitvoerlegging van veroordelingen die het
 
 #### Paragraaf 1. verzoeken en antwoorden
 
-#### Artikel 16
+##### Artikel 16
 
 1. Het verzoek tot overbrenging kan zowel door de Staat van veroordeling als door de Staat van tenuitvoerlegging worden ingediend.
 
 2. De gevonniste persoon zelf of diens wettelijk vertegenwoordiger kan hetzij bij de Staat van veroordeling, hetzij bij de Staat van tenuitvoerlegging schriftelijk de wens te kennen geven te worden overgebracht.
 
-#### Artikel 17
+##### Artikel 17
 
 De verzoeken tot overbrenging geschieden schriftelijk. Het verzoek bevat de volledige personalia van de gevonniste persoon alsmede zijn verblijfplaats in de Staat van veroordeling en in de Staat van tenuitvoerlegging.
 
 #### Paragraaf 2. stukken ter ondersteuning
 
-#### Artikel 18
+##### Artikel 18
 
 1. Ter ondersteuning van zijn verzoek of in antwoord op het door de Staat van veroordeling geformuleerde verzoek, verstrekt de Staat van tenuitvoerlegging:
 
@@ -186,7 +211,7 @@ De verzoeken tot overbrenging geschieden schriftelijk. Het verzoek bevat de voll
 
 4. De gevonniste persoon dient van de voortgang van zijn dossier in kennis te worden gesteld, alsmede van elke door een van beide Staten op zijn aanvrage tot overbrenging genomen beslissing.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Behoudens uitzonderingsgevallen, worden de verzoeken door het Ministerie van Justitie van de verzoekende Staat aan het Ministerie van Justitie van de aangezochte Staat gericht. De antwoorden worden zo snel mogelijk langs hetzelfde kanaal gegeven.
 
@@ -194,17 +219,17 @@ De verzoeken tot overbrenging geschieden schriftelijk. Het verzoek bevat de voll
 
 3. Elke weigering dient met redenen te zijn omkleed.
 
-#### Artikel 20
+##### Artikel 20
 
 Elk van beide Staten kan verlangen dat de hem aangeboden verzoeken en de bijbehorende stukken vergezeld gaan van een vertaling in zijn officiële taal.
 
-#### Artikel 21
+##### Artikel 21
 
 De met toepassing van dit Verdrag verzonden stukken en documenten zijn vrijgesteld van alle legalisatie.
 
 ### Hoofdstuk 7. Kosten
 
-#### Artikel 22
+##### Artikel 22
 
 1. De Staat van tenuitvoerlegging draagt zorg voor de begeleiding bij de overbrenging. De kosten van de overbrenging, met inbegrip van de kosten van de begeleiding, komen ten laste van de Staat van tenuitvoerlegging, tenzij door beide Staten anders wordt bepaald.
 
@@ -212,7 +237,7 @@ De met toepassing van dit Verdrag verzonden stukken en documenten zijn vrijgeste
 
 ## TITEL II. REGELING VAN GESCHILLEN
 
-#### Artikel 23
+##### Artikel 23
 
 1. Elk geschil over de uitlegging of de toepassing van dit Verdrag wordt langs diplomatieke weg opgelost.
 
@@ -222,7 +247,7 @@ De met toepassing van dit Verdrag verzonden stukken en documenten zijn vrijgeste
 
 #### Voorlopige toepassing en inwerkingtreding
 
-#### Artikel 24
+##### Artikel 24
 
 1. Dit Verdrag wordt voorlopig toegepast vanaf een maand na de datum van ondertekening en treedt in werking op de eerste dag van de tweede maand na de datum waarop de laatste kennisgeving waarin wordt verklaard dat aan de in elke Staat vereiste constitutionele formaliteiten is voldaan, is verricht.
 
@@ -230,7 +255,7 @@ De met toepassing van dit Verdrag verzonden stukken en documenten zijn vrijgeste
 
 #### Territoriale toepassing
 
-#### Artikel 25
+##### Artikel 25
 
 1. Dit Verdrag is van toepassing:
 
@@ -242,7 +267,7 @@ De met toepassing van dit Verdrag verzonden stukken en documenten zijn vrijgeste
 
 #### Schorsing en opzegging
 
-#### Artikel 26
+##### Artikel 26
 
 1. Elk van beide Partijen kan te allen tijde dit Verdrag schorsen of opzeggen door middel van een aan de andere Partij gerichte kennisgeving. Ten aanzien van het Koninkrijk der Nederlanden, is elk van de Partijen bevoegd dit Verdrag te schorsen of op te zeggen ten aanzien van elk deel van het grondgebied van het Koninkrijk der Nederlanden.
 

@@ -1,14 +1,42 @@
 ---
-title: "Wijzigingswet Wet inkomstenbelasting 2001, enz. (Belastingplan 2003 Deel I)"
+title: "Wet van 12 december 2002, houdende wijziging van enkele belastingwetten c.a. (Belastingplan 2003 Deel I)"
 identifier: "BWBR0014448"
-categorie: "Belastingrecht"
-publicatiedatum: 2006-01-01
-laatste_update: 2006-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0014448"
+country: "nl"
+rank: "wet"
+publication_date: "2006-01-01"
+last_updated: "2006-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0014448"
+soort: "wet"
+stam_id: "3257693"
+version_id: "5015382"
+internal_id: "C5075281"
+label_id: "3237954"
+dtd_version: "2.0"
+original_entry_into_force: "2003-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0014448/2006-01-01/0"
+intitule_bron: "Stb.2002-615"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-12-12"
+intitule_published: "2002-12-19"
+intitule_in_force: "2002-12-19"
+intitule_status: "goed"
+original_publication: "Stb.2002-615"
+original_signed_date: "2002-12-12"
+original_published_date: "2002-12-19"
+original_effect: "nieuwe-regeling"
+original_dossier: "28607"
+original_url_id: "stb-2002-615"
+entry_into_force_date: "2003-01-01"
+entry_into_force_dossier: "28607"
+jci_1_3: "jci1.3:c:BWBR0014448&z=2006-01-01&g=2006-01-01"
+jci_1_0: "1.0:c:BWBR0014448&g=2006-01-01"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet Wet inkomstenbelasting 2001, enz. (Belastingplan 2003 Deel I)"
+signed_date: "2002-12-12"
+entry_into_force: "2003-01-01"
 ---
-
-# Wijzigingswet Wet inkomstenbelasting 2001, enz. (Belastingplan 2003 Deel I)
+# Wet van 12 december 2002, houdende wijziging van enkele belastingwetten c.a. (Belastingplan 2003 Deel I)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,87 +44,87 @@ Alzo Wij in overweging genomen hebben, dat het in het kader van het fiscale bele
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Invoeringswet Wet inkomstenbelasting 2001.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel X
+##### Artikel X
 
 Vervallen
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt de Wet op belastingen van rechtsverkeer.
 
-#### Artikel XVA
+##### Artikel XVA
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel XIX
+##### Artikel XIX
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel XX
+##### Artikel XX
 
 De [Wet tijdelijke fiscale stimulering van de aankoop van schone personenauto's en bestelauto's](https://wetten.overheid.nl/jci1.3:c:BWBR0012605) wordt ingetrokken, met dien verstande dat:
 
@@ -104,7 +132,7 @@ De [Wet tijdelijke fiscale stimulering van de aankoop van schone personenauto's 
 
 - b. op basis van die wet geen vermindering op de motorrijtuigenbelasting wordt toegepast na 31 december 2002.
 
-#### Artikel XXI
+##### Artikel XXI
 
 In de [Wet op de belasting van personenauto's en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806) vervalt **hoofdstuk VB**, met dien verstande dat:
 
@@ -112,35 +140,35 @@ In de [Wet op de belasting van personenauto's en motorrijwielen 1992](https://we
 
 - b. op basis van dat artikel geen teruggaaf van belasting wordt verleend na 31 december 2002.
 
-#### Artikel XXII
+##### Artikel XXII
 
 In de [wet van 14 december 2000 tot wijziging van enkele belastingwetten c.a. in verband met de tweede tranche van het ondernemerspakket 2001 (Wet ondernemerspakket 2001)](https://wetten.overheid.nl/jci1.3:c:BWBR0011983) (Stb. 567) vervallen [artikel I, onderdeel N](https://wetten.overheid.nl/jci1.3:c:BWBR0014448&artikel=I&z=2006-01-01&g=2006-01-01), [artikel II, onderdeel B, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014448&artikel=II&z=2006-01-01&g=2006-01-01), en [artikel XV, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014448&artikel=XV&z=2006-01-01&g=2006-01-01).
 
-#### Artikel XXIII
+##### Artikel XXIII
 
 Wijzigt de Wijzigingswet belastingwetten c.a. (Belastingplan 2001).
 
-#### Artikel XXIV
+##### Artikel XXIV
 
 Wijzigt de Wijzigingswet Wet Belastingplan 2002-III Natuur, milieu en vervoer.
 
-#### Artikel XXV
+##### Artikel XXV
 
 Wijzigt de Coördinatiewet Sociale Verzekering.
 
-#### Artikel XXVI
+##### Artikel XXVI
 
 Wijzigt de Wet minimumloon en minimumvakantiebijslag.
 
-#### Artikel XXVIA
+##### Artikel XXVIA
 
 Wijzigt de Wet op de accijns.
 
-#### Artikel XXVIB
+##### Artikel XXVIB
 
 Teruggaaf van accijns voor overige alcoholhoudende producten op de voet van de [artikelen 70](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=70) en [71 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=71) wordt tot en met 28 februari 2003 verleend naar het tot en met 31 december 2002 geldende tarief, tenzij belanghebbende aantoont dat de accijns naar het vanaf 1 januari 2003 geldende tarief is voldaan.
 
-#### Artikel XXVII
+##### Artikel XXVII
 
 A. Vervallen
 
@@ -176,11 +204,11 @@ H. Aanpassing blokkeringsperiode voor spaarloon van de kalenderjaren 2001 tot en
 
 De termijn van vier jaar, genoemd in [artikel 32, eerste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=32) en [artikel 6, negende lid, van de Coördinatiewet Sociale Verzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002126&artikel=6), zoals dat luidde op 31 december 2004, wordt vervangen door een termijn die eindigt op 1 september 2005 voor in de kalenderjaren 2001 tot en met 2004 op de voet van een spaarloonregeling als bedoeld in die bepalingen gespaard loon.
 
-#### Artikel XXVIII
+##### Artikel XXVIII
 
 Ingeval de samenloop van wetten die in 2002 in het Staatsblad zijn of worden gepubliceerd en wijzigingen aanbrengen in één of meer belastingwetten, niet of niet juist is geregeld, of als gevolg van die samenloop onjuistheden ontstaan in de aanduiding van artikelonderdelen, verwijzingen en dergelijke in de desbetreffende wetten, herstelt Onze Minister van Financiën dat bij ministeriële regeling.
 
-#### Artikel XXIX
+##### Artikel XXIX
 
 [**Artikel 3.52**, tweede lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.52) is niet van toepassing op een op grond van [artikel 3.52, eerste lid, onderdeel a, onder 4°, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.52) vastgestelde ministeriële regeling die met ingang van 1 januari 2003 voorziet in:
 
@@ -190,7 +218,7 @@ Ingeval de samenloop van wetten die in 2002 in het Staatsblad zijn of worden gep
 
 - c. afschaffing van de willekeurige afschrijving op investeringen in nieuwe gebouwen in aangewezen gemeenten.
 
-#### Artikel XXX
+##### Artikel XXX
 
 1. Onder toepassing van [artikel 16 van de Tijdelijke Referendumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=16) treedt deze wet in werking met ingang van 1 januari 2003, met dien verstande dat artikel I, onderdelen B, U, V, W en X, en [artikel VI, onderdelen E, F, G, H en I](https://wetten.overheid.nl/jci1.3:c:BWBR0014448&artikel=VI&z=2006-01-01&g=2006-01-01), toepassing vinden nadat [artikel 10.1 van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2003 is toegepast.
 

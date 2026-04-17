@@ -1,13 +1,38 @@
 ---
 title: "Circulaire wijzigingen in de Algemene pensioenwet politieke ambtsdragers (Appa) 2011 (CvdK, enz.)"
 identifier: "BWBR0031215"
-categorie: "Bestuursrecht"
-publicatiedatum: 2011-11-19
-laatste_update: 2011-11-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031215"
+country: "nl"
+rank: "circulaire"
+publication_date: "2011-11-19"
+last_updated: "2011-11-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031215"
+soort: "circulaire"
+stam_id: "11649893"
+version_id: "19223542"
+internal_id: "C26820741"
+label_id: "11622924"
+dtd_version: "2.0"
+original_entry_into_force: "2011-11-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031215/2011-11-19/0"
+intitule_bron: "Stcrt.2012-1951"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-01-16"
+intitule_published: "2012-02-03"
+intitule_in_force: "2012-02-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-1951"
+original_signed_date: "2012-01-16"
+original_published_date: "2012-02-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-1951"
+entry_into_force_date: "2011-11-19"
+jci_1_3: "jci1.3:c:BWBR0031215&z=2011-11-19&g=2011-11-19"
+jci_1_0: "1.0:c:BWBR0031215&g=2011-11-19"
+citeertitel_status: "redactioneel"
+signed_date: "2012-01-16"
+entry_into_force: "2011-11-19"
 ---
-
 # Circulaire wijzigingen in de Algemene pensioenwet politieke ambtsdragers (Appa) 2011 (CvdK, enz.)
 
 ### 1. Algemeen

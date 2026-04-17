@@ -1,13 +1,39 @@
 ---
-title: "Aanwijzing hervorming beschikbaarheidbijdrage kapitaallasten academische zorg"
+title: "Aanwijzing van de Minister voor Medische Zorg van 10 maart 2020, kenmerk 1642169-201362-CZ, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake hervorming beschikbaarheidbijdrage kapitaallasten academische zorg"
 identifier: "BWBR0043287"
-categorie: "Sociaal recht"
-publicatiedatum: 2020-05-01
-laatste_update: 2020-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043287"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-05-01"
+last_updated: "2020-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043287"
+soort: "ministeriele-regeling"
+stam_id: "15373193"
+version_id: "26573752"
+internal_id: "C37708841"
+label_id: "15317844"
+dtd_version: "2.0"
+original_entry_into_force: "2020-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043287/2020-05-01/0"
+intitule_bron: "Stcrt.2020-15715"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-03-10"
+intitule_published: "2020-03-19"
+intitule_in_force: "2020-03-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-15715"
+original_signed_date: "2020-03-10"
+original_published_date: "2020-03-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-15715"
+entry_into_force_date: "2020-05-01"
+jci_1_3: "jci1.3:c:BWBR0043287&z=2020-05-01&g=2020-05-01"
+jci_1_0: "1.0:c:BWBR0043287&g=2020-05-01"
+citeertitel_status: "officieel"
+short_title: "Aanwijzing hervorming beschikbaarheidbijdrage kapitaallasten academische zorg"
+signed_date: "2020-03-10"
+entry_into_force: "2020-05-01"
 ---
-
 # Aanwijzing van de Minister voor Medische Zorg van 10 maart 2020, kenmerk 1642169-201362-CZ, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake hervorming beschikbaarheidbijdrage kapitaallasten academische zorg
 
 Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
@@ -30,7 +56,7 @@ Na op 9 december 2019 schriftelijk mededeling te hebben gedaan aan de Eerste en 
 
 **Besluit:**
 
-#### Artikel 1. definities
+##### Artikel 1. definities
 
 In deze aanwijzing wordt verstaan onder:
 
@@ -48,13 +74,13 @@ In deze aanwijzing wordt verstaan onder:
 
 - −. **zorgautoriteit:** de Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3).
 
-#### Artikel 2
+##### Artikel 2
 
 1. De zorgautoriteit verleent een beschikbaarheidbijdrage en stelt deze ambtshalve vast voor kapitaallasten in verband met academische zorg die betrekking heeft op medisch specialistische zorg van universitair medische centra.
 
 2. De zorgautoriteit dient bij de berekening van de hoogte van de kapitaallasten voor academische zorg voor universitair medische centra en de verlening en vaststelling van een beschikbaarheidbijdrage uit te gaan van de geprognosticeerde investeringen voor kapitaallasten in het kader van het convenant en die aansluiten op de hervorming van de beschikbaarheidbijdrage voor academische zorg voor medische specialistische zorg als bedoeld in mijn [aanwijzing van 25 september 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042611).
 
-#### Artikel 3
+##### Artikel 3
 
 Deze aanwijzing wordt aangehaald als Aanwijzing hervorming beschikbaarheidbijdrage kapitaallasten academische zorg.
 

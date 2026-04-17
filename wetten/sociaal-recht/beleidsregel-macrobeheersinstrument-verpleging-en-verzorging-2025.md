@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregel macrobeheersinstrument verpleging en verzorging 2025"
 identifier: "BWBR0050087"
-categorie: "Sociaal recht"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050087"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050087"
+soort: "zbo"
+stam_id: "17194233"
+version_id: "30269802"
+internal_id: "C43353941"
+label_id: "17100554"
+dtd_version: "2.0"
+original_entry_into_force: "2025-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050087/2025-01-01/0"
+intitule_bron: "Stcrt.2024-25488"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-07-16"
+intitule_published: "2024-08-02"
+intitule_in_force: "2024-08-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-25488"
+original_signed_date: "2024-07-16"
+original_published_date: "2024-08-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-25488"
+entry_into_force_date: "2025-01-01"
+jci_1_3: "jci1.3:c:BWBR0050087&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0050087&g=2025-01-01"
+citeertitel_status: "officieel"
+signed_date: "2024-07-16"
+entry_into_force: "2025-01-01"
 ---
-
 # Beleidsregel macrobeheersinstrument verpleging en verzorging 2025
 
 Gelet op [artikel 57, eerste lid, onderdeel d, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot het uitoefenen van de bevoegdheid om een grens vast te stellen op grond van [artikel 50, tweede lid, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50).
@@ -16,7 +41,7 @@ Gelet op [artikel 50, tweede lid, van de Wmg](https://wetten.overheid.nl/jci1.3:
 
 Gelet op [artikel 59 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=59) heeft de Minister van Volksgezondheid, Welzijn en Sport met brief van 16 juli 2014, kenmerk 378012-121397-MC, ten behoeve van de voorliggende beleidsregel een aanwijzing op grond van [artikel 7 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7) aan de NZa gegeven.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
@@ -46,17 +71,17 @@ In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
 - **Zorgverzekeringsfonds:** het fonds bedoeld in [artikel 39 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=39).
 
-#### Artikel 2. Doel van de beleidsregel
+##### Artikel 2. Doel van de beleidsregel
 
 Doel van deze beleidsregel is vast te leggen op welke wijze de NZa gebruik maakt van haar bevoegdheid om ontstane overschrijdingen van het Budgettair kader zorg, betrekking hebbend op verpleging en verzorging, met behulp van een macrobeheersinstrument, achteraf te redresseren.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze beleidsregel is van toepassing op verpleging en verzorging waarop aanspraak bestaat op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) (Zvw).
 
 Deze beleidsregel is ook van toepassing op intensieve kindzorg en daarmee gepaard gaand verblijf waarop aanspraak bestaat op de grond van de [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), voor zover deze zorg wordt geleverd door een rechtspersoonlijkheid bezittend organisatorisch verband ten behoeve van verpleegkundige dagopvang of verblijf.
 
-#### Artikel 4. Bekendmaking in 2024 van de grenzen
+##### Artikel 4. Bekendmaking in 2024 van de grenzen
 
 1. De minister maakt in 2024 bij kaderbrief aan de NZa de hoogte van de macro-omzetgrens voor 2025 bekend.
 
@@ -66,7 +91,7 @@ Deze beleidsregel is ook van toepassing op intensieve kindzorg en daarmee gepaar
 
 4. De NZa maakt de hiervoor genoemde beschikkingen bekend door publicatie op haar website, toezending aan branche- en koepelorganisaties en door publicatie in de Staatscourant. De NZa kan de grenzen genoemd in artikel 4.2 en 4.3 vaststellen in één enkele beschikking.
 
-#### Artikel 5. Procedure na 2025
+##### Artikel 5. Procedure na 2025
 
 1. De minister bericht de NZa na afloop van 2025 met een realisatiebrief of de collectieve bovengrens van 2025 is overschreden en, zo ja, welk totaalbedrag door de zorgaanbieders gezamenlijk in het Zorgverzekeringsfonds moet worden gestort, het doelbedrag.
 
@@ -90,11 +115,11 @@ Deze beleidsregel is ook van toepassing op intensieve kindzorg en daarmee gepaar
 
 10. De NZa legt in de Regeling macrobeheersinstrument verpleging en verzorging 2025 vast op welke wijze en op welk moment zorgverzekeraars haar over de gerealiseerde omzet van de zorgaanbieders dienen te informeren.
 
-#### Artikel 6. Intrekken oude beleidsregel
+##### Artikel 6. Intrekken oude beleidsregel
 
 Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt de [Beleidsregel macrobeheersinstrument verpleging en verzorging 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0045923), met kenmerk BR/REG-22102, ingetrokken.
 
-#### Artikel 7. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding en citeertitel
+##### Artikel 7. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding en citeertitel
 
 De [Beleidsregel macrobeheersinstrument verpleging en verzorging 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0045923) met kenmerk BR/REG-22102, blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die beleidsregel en die betrekking hebben op de periode waarvoor die beleidsregel gold.
 

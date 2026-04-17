@@ -1,13 +1,39 @@
 ---
-title: "Besluit buitengewoon opsporingsambtenaar gemeente Maastricht 2021"
+title: "Besluit van de Minister voor Rechtsbescherming van 24 maart 2021 nr. BOACAT2021/009, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Maastricht"
 identifier: "BWBR0045016"
-categorie: "Bestuursrecht"
-publicatiedatum: 2021-05-25
-laatste_update: 2021-05-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045016"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-05-25"
+last_updated: "2021-05-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045016"
+soort: "ministeriele-regeling"
+stam_id: "15916983"
+version_id: "27664522"
+internal_id: "C39028651"
+label_id: "15852254"
+dtd_version: "2.0"
+original_entry_into_force: "2021-05-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045016/2021-05-25/0"
+intitule_bron: "Stcrt.2021-15839"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-03-24"
+intitule_published: "2021-04-01"
+intitule_in_force: "2021-04-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-15839"
+original_signed_date: "2021-03-24"
+original_published_date: "2021-04-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-15839"
+entry_into_force_date: "2021-05-25"
+jci_1_3: "jci1.3:c:BWBR0045016&z=2021-05-25&g=2021-05-25"
+jci_1_0: "1.0:c:BWBR0045016&g=2021-05-25"
+citeertitel_status: "officieel"
+short_title: "Besluit buitengewoon opsporingsambtenaar gemeente Maastricht 2021"
+signed_date: "2021-03-24"
+entry_into_force: "2021-05-25"
 ---
-
 # Besluit van de Minister voor Rechtsbescherming van 24 maart 2021 nr. BOACAT2021/009, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Maastricht
 
 Gelezen het verzoek van de gemeente Maastricht van 15 maart 2021 en de adviezen van de hoofdofficier van justitie bij het arrondissementsparket Limburg en de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
@@ -30,15 +56,15 @@ de [Beleidsregels Buitengewoon Opsporingsambtenaar](https://wetten.overheid.nl/j
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045016&artikel=2&z=2021-05-25&g=2021-05-25).
 
-#### Artikel 2
+##### Artikel 2
 
 De personen, werkzaam in de functie van BOA of Wijkgebonden medewerker in dienst van de gemeente Maastricht, zijn aangewezen als buitengewoon opsporingsambtenaar.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein I, Openbare ruimte, zoals opgenomen in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](onbekend).
 
@@ -46,23 +72,23 @@ De personen, werkzaam in de functie van BOA of Wijkgebonden medewerker in dienst
 
 3. De buitengewoon opsporingsambtenaar vermeldt in zijn processen-verbaal en schriftelijke verslagleggingen het in het eerste lid genoemde domein.
 
-#### Artikel 4
+##### Artikel 4
 
 Op grond van dit besluit kunnen maximaal 60 personen als buitengewoon opsporingsambtenaar worden beëdigd.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Als toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36) is aangewezen de hoofdofficier van justitie bij het arrondissementsparket Limburg.
 
 2. Als direct toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36) is aangewezen de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27).
 
-#### Artikel 6
+##### Artikel 6
 
 De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste, derde en vierde lid (vervoersfouillering), van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7) omschreven bevoegdheden uitoefenen met gebruikmaking van handboeien en de wapenstok.
 
 **Het voorhanden hebben van de wapenstok vervalt na het tijdstip van beëindiging van de Pilot korte wapenstok.**
 
-#### Artikel 7
+##### Artikel 7
 
 1. De gemeente Maastricht brengt jaarlijks, voor 1 april, verslag uit over:
 
@@ -74,19 +100,19 @@ De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste, derde en vierd
 
 2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045016&artikel=5&z=2021-05-25&g=2021-05-25) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Justitie en Veiligheid, Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
 
-#### Artikel 8
+##### Artikel 8
 
 De op naam gestelde akten van beëdiging en de overige benoemingsbescheiden, afgegeven mede op basis van het in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0045016&artikel=9&z=2021-05-25&g=2021-05-25) genoemde besluit, worden geacht mede te zijn afgegeven op basis van dit besluit.
 
 Dit artikel brengt geen wijziging in de resterende looptijd van de afgegeven aktes.
 
-#### Artikel 9
+##### Artikel 9
 
 Het [Besluit buitengewoon opsporingsambtenaar gemeente Maastricht, afdeling V&L Team Handhaven OR 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0037789), nr. BOACAT2016/021 van 29 maart 2016 zal vervallen op 25 mei 2021.
 
 Dit besluit treedt in werking met ingang van 25 mei 2021 en vervalt met ingang van 25 mei 2026.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar gemeente Maastricht 2021.
 

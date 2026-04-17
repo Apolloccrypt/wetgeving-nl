@@ -1,13 +1,39 @@
 ---
-title: "Regeling toetswijzer doorstroomtoets PO"
+title: "Regeling van het College voor toetsen en examens van 26 september 2022, nummer CvTE-22.00945, houdende vaststelling van de toetswijzer voor de doorstroomtoets in het primair onderwijs (Regeling toetswijzer doorstroomtoets PO)"
 identifier: "BWBR0047245"
-categorie: "Overig"
-publicatiedatum: 2026-04-01
-laatste_update: 2026-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047245"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-04-01"
+last_updated: "2026-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047245"
+soort: "zbo"
+stam_id: "16507113"
+version_id: "28935292"
+internal_id: "C41334061"
+label_id: "16428594"
+dtd_version: "2.0"
+original_entry_into_force: "2023-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047245/2026-04-01/0"
+intitule_bron: "Stcrt.2022-26159"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-09-26"
+intitule_published: "2022-10-05"
+intitule_in_force: "2022-11-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-26159"
+original_signed_date: "2022-09-26"
+original_published_date: "2022-10-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-26159"
+entry_into_force_date: "2023-01-01"
+jci_1_3: "jci1.3:c:BWBR0047245&z=2026-04-01&g=2026-04-01"
+jci_1_0: "1.0:c:BWBR0047245&g=2026-04-01"
+citeertitel_status: "officieel"
+short_title: "Regeling toetswijzer doorstroomtoets PO"
+signed_date: "2022-09-26"
+entry_into_force: "2023-01-01"
 ---
-
 # Regeling van het College voor toetsen en examens van 26 september 2022, nummer CvTE-22.00945, houdende vaststelling van de toetswijzer voor de doorstroomtoets in het primair onderwijs (Regeling toetswijzer doorstroomtoets PO)
 
 Gelet op [artikel 3a, eerste lid, onderdeel e, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=3a);
@@ -16,19 +42,19 @@ Besluit:
 
 Treedt in werking op het tijdstip waarop artikel VIII, onderdeel B, van de Wijzigingswet Wet op het primair onderwijs, enz.(aanpassingen op het gebied van de doorstroom van het basisonderwijs naar het voortgezet onderwijs en wijziging van de stelselinrichting van doorstroomtoetsen en toetsen verbonden aan leerling- en onderwijsvolgsystemen in het basisonderwijs) in werking treedt.
 
-#### Artikel 1. Toetswijzer
+##### Artikel 1. Toetswijzer
 
 De toetswijzer, bedoeld in [artikel 3a, eerste lid, onderdeel e, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=3a) wordt vastgesteld als bijlage bij deze regeling.
 
-#### Artikel 2. Intrekking
+##### Artikel 2. Intrekking
 
 De [Regeling toetswijzer eindtoets PO](https://wetten.overheid.nl/jci1.3:c:BWBR0035687) wordt ingetrokken.
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 Deze regeling treedt in werking op het tijdstip waarop [artikel VIII, onderdeel B, van de Wet van 9 februari 2022 tot wijziging van een aantal onderwijswetten in verband met aanpassingen op het gebied van de doorstroom van het basisonderwijs naar het voortgezet onderwijs en wijziging van de stelselinrichting van doorstroomtoetsen en toetsen verbonden aan leerling- en onderwijsvolgsystemen in het basisonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0046751&artikel=VIII) (Stb. 2022, 135) in werking treedt.
 
-#### Artikel 4. Citeertitel
+##### Artikel 4. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling toetswijzer doorstroomtoets PO.
 

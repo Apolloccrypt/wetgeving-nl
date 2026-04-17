@@ -1,14 +1,42 @@
 ---
-title: "Wet overheidspersoneel onder de werknemersverzekeringen"
+title: "Wet van 24 december 1997, houdende het onder de werkingssfeer van de wettelijke werknemersverzekeringen brengen van het overheidspersoneel (Wet overheidspersoneel onder de werknemersverzekeringen)"
 identifier: "BWBR0009267"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2018-01-01
-laatste_update: 2018-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009267"
+country: "nl"
+rank: "wet"
+publication_date: "2018-01-01"
+last_updated: "2018-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009267"
+soort: "wet"
+stam_id: "3027663"
+version_id: "4697032"
+internal_id: "C4697031"
+label_id: "2979014"
+dtd_version: "2.0"
+original_entry_into_force: "1997-12-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009267/2018-01-01/0"
+intitule_bron: "Stb.1997-768"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-12-24"
+intitule_published: "1997-12-30"
+intitule_in_force: "1997-12-30"
+intitule_status: "goed"
+original_publication: "Stb.1997-768"
+original_signed_date: "1997-12-24"
+original_published_date: "1997-12-30"
+original_effect: "nieuwe-regeling"
+original_dossier: "25282"
+original_url_id: "stb-1997-768"
+entry_into_force_date: "1997-12-31"
+entry_into_force_dossier: "25282"
+jci_1_3: "jci1.3:c:BWBR0009267&z=2018-01-01&g=2018-01-01"
+jci_1_0: "1.0:c:BWBR0009267&g=2018-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet overheidspersoneel onder de werknemersverzekeringen"
+signed_date: "1997-12-24"
+entry_into_force: "1997-12-31"
 ---
-
-# Wet overheidspersoneel onder de werknemersverzekeringen
+# Wet van 24 december 1997, houdende het onder de werkingssfeer van de wettelijke werknemersverzekeringen brengen van het overheidspersoneel (Wet overheidspersoneel onder de werknemersverzekeringen)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -20,7 +48,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### Paragraaf 1. Begripsomschrijvingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -84,7 +112,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Paragraaf 2. Ziekte
 
-#### Artikel 2
+##### Artikel 2
 
 1. De [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) wordt met ingang van het tijdstip van aanvang van fase 2, bedoeld in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=2&artikel=48&z=2018-01-01&g=2018-01-01), van toepassing op de gewezen overheidswerknemer die op de dag voorafgaande aan dat tijdstip geen wachtgeld geniet en evenmin bezoldiging of uitkering ingeval van ziekte ontvangt, maar die op dat tijdstip uit hoofde van zijn voormalige dienstverband als overheidswerknemer recht zou krijgen op een uitkering op grond van de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), en die niet op de dag voorafgaande aan dat tijdstip maar wel op dat tijdstip ongeschikt tot werken is wegens ziekte.
 
@@ -110,7 +138,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. de gewezen overheidswerknemer wiens recht op wachtgeld wegens het verstrijken van de terzake geldende uitkeringsduur is geëindigd op of na het tijdstip van aanvang van fase 2, bedoeld in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=2&artikel=48&z=2018-01-01&g=2018-01-01), doch voor het tijdstip van aanvang van fase 3, bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=2&artikel=49&z=2018-01-01&g=2018-01-01); indien de ongeschiktheid is ontstaan binnen een maand na de bedoelde eindiging.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Voor de vaststelling van het recht op ziekengeld op grond van de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), alsmede voor de toelating tot de vrijwillige verzekering op grond van de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), worden de volgende personen, vanaf de dag van aanvang van hun dienstverband tot de datum waarop de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) op grond van deze wet of de algemene maatregel van bestuur, bedoeld in [artikel 8b van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=8b), op hen van toepassing wordt, aangemerkt als verplicht verzekerd op grond van de ZW:
 
@@ -132,7 +160,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Aan het eerste tot en met derde lid kunnen geen rechten worden ontleend over tijdvakken, die gelegen zijn voor de datum waarop de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) ingevolge deze wet van toepassing wordt.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien hij op die datum nog niet 52 weken ongeschikt is tot werken wegens ziekte, heeft recht op ziekengeld op grond van de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888):
 
@@ -152,7 +180,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Voor het bepalen van de in het eerste en het tweede lid bedoelde periode van 52 onderscheidenlijk 16 weken, worden steeds perioden in aanmerking genomen, gedurende welke aanspraak bestaat op bezoldiging of uitkering in geval van ziekte.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Voor de vaststelling van de hoogte van het ziekengeld op grond van de ZW, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=2&artikel=4&z=2018-01-01&g=2018-01-01), geldt als dagloon in de zin van die wet de door het getal 261 gedeelde, naar een jaarbedrag herleide bezoldiging overeenkomstig het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630), al dan niet onder toepassing van [artikel 47, eerste lid, van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=47), of daarmee vergelijkbare regelingen, zoals dit besluit luidde respectievelijk deze regelingen luidden op de dag voorafgaande aan de datum waarop de ZW ingevolge deze wet van toepassing wordt op de betrokken overheidswerknemer of gewezen overheidswerknemer, waarnaar de bezoldiging of uitkering ingeval van ziekte van de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=2&artikel=4&z=2018-01-01&g=2018-01-01), bedoelde overheidswerknemer of gewezen overheidswerknemer wordt berekend op die dag, vermeerderd met de vakantie-uitkering of eindejaarsuitkering voorzover betrokkene geen recht heeft op onverminderde opbouw of doorbetaling van die uitkering.
 
@@ -162,23 +190,23 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Het dagloon bedraagt ten hoogste het bedrag, bedoeld in [artikel 17, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=17), met betrekking tot een loontijdvak van een dag.
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 1. [Artikel 44, eerste lid, onderdeel a, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=44) is niet van toepassing op de overheidswerknemer en de gewezen overheidswerknemer, bedoeld in [de artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=2&artikel=2&z=2018-01-01&g=2018-01-01) en [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=2&artikel=3&z=2018-01-01&g=2018-01-01), die op de dag voorafgaande aan de datum waarop de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) op grond van deze wet of de algemene maatregel van bestuur, bedoeld in [artikel 8b van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=8b), op hem van toepassing wordt, ongeschikt is tot werken wegens ziekte.
 
@@ -190,11 +218,11 @@ Vervallen
 
 #### Afdeling 1. Overheidswerknemers uitgezonderd beroepsmilitairen
 
-#### Artikel 11
+##### Artikel 11
 
 Deze afdeling is van toepassing op overheidswerknemers en de in deze afdeling bedoelde gewezen overheidswerknemers, uitgezonderd beroepsmilitairen en gewezen beroepsmilitairen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Voor de vaststelling van het recht op uitkering op grond van de WAO, alsmede voor de toelating tot de vrijwillige verzekering op grond van de WAO, worden, vanaf de dag van aanvang van hun dienstverband tot het tijdstip van aanvang van fase 1 van deze wet, aangemerkt als verplicht verzekerd op grond van de WAO:
 
@@ -214,7 +242,7 @@ Deze afdeling is van toepassing op overheidswerknemers en de in deze afdeling be
 
 2. Aan het eerste lid kunnen geen rechten worden ontleend over tijdvakken, die gelegen zijn voor het tijdstip van aanvang van fase 1 van deze wet.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De overheidswerknemers en gewezen overheidswerknemers, bedoeld in [artikel 12, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_1&artikel=12&z=2018-01-01&g=2018-01-01), hebben vanaf het tijdstip van aanvang van fase 1 van deze wet recht op een uitkering op grond van de WAO.
 
@@ -222,7 +250,7 @@ Deze afdeling is van toepassing op overheidswerknemers en de in deze afdeling be
 
 3. Voor de toepassing van de [artikelen 21a](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=21a), [21b](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=21b), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=34) juncto [36](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=36) en [61 van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=61) en de [artikelen 29](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29) en [29b van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29b), wordt de datum waarop de in [artikel 12, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_1&artikel=12&z=2018-01-01&g=2018-01-01), bedoelde WAO-conforme uitkering ingevolge [artikel 37, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=37), [39, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=39), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=40), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=41), [42, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=42), of [43, zesde lid, van de WPA](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=43)is ingegaan, aangemerkt als de datum waarop het in het eerste of het tweede lid bedoelde recht op een uitkering op grond van de WAO is ingegaan.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Voor de vaststelling van de hoogte van de uitkering op grond van de WAO, bedoeld in [artikel 13, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_1&artikel=13&z=2018-01-01&g=2018-01-01), geldt als dagloon in de zin van die wet het dagloon waarnaar de WAO-conforme uitkering van de in [artikel 12, eerste lid, onderdeel b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_1&artikel=12&z=2018-01-01&g=2018-01-01), bedoelde overheidswerknemer of gewezen overheidswerknemer op grond van artikel 32 van de WPA is berekend op de dag voorafgaande aan het tijdstip van aanvang van fase 1 van deze wet.
 
@@ -232,17 +260,17 @@ Deze afdeling is van toepassing op overheidswerknemers en de in deze afdeling be
 
 4. Onze Minister van Sociale Zaken en Werkgelegenheid kan, tezamen met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Defensie, nadere regels stellen met betrekking tot het eerste tot en met het derde lid.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Voor de vaststelling van de hoogte van de uitkering op grond van de WAO voor de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=2&artikel=4&z=2018-01-01&g=2018-01-01), bedoelde overheidswerknemers en gewezen overheidswerknemers, geldt als dagloon in de zin van die wet het met toepassing van [artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=2&artikel=5&z=2018-01-01&g=2018-01-01), vastgestelde dagloon.
 
 2. Voor de vaststelling van de hoogte van de uitkering op grond van de WAO voor de overheidswerknemer of gewezen overheidswerknemer die op grond van [artikel 31, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=4&artikel=31&z=2018-01-01&g=2018-01-01), recht heeft verkregen op een uitkering op grond van de WW, geldt als dagloon in de zin van de WAO het met toepassing van [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=4&artikel=33&z=2018-01-01&g=2018-01-01) vastgestelde dagloon.
 
-#### Artikel 16
+##### Artikel 16
 
 Voor de eerste vaststelling van het recht op uitkering op grond van de WAO, bedoeld in [artikel 13, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_1&artikel=13&z=2018-01-01&g=2018-01-01), van de in [artikel 12, eerste lid, onderdeel b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_1&artikel=12&z=2018-01-01&g=2018-01-01), bedoelde overheidswerknemer of gewezen overheidswerknemer is de door het FAOP met overeenkomstige toepassing van de WAO ten aanzien van betrokkene vastgestelde mate van arbeidsongeschiktheid in het kader van de WAO-conforme uitkering, zoals die geldt op de dag voorafgaande aan het tijdstip van aanvang van fase 1 van deze wet, bepalend.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Voor de vaststelling van de hoogte van de voorlopige uitkering op grond van de WAO, bedoeld in [artikel 13, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_1&artikel=13&z=2018-01-01&g=2018-01-01), ten aanzien van de in [artikel 12, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_1&artikel=12&z=2018-01-01&g=2018-01-01), bedoelde overheidswerknemer of gewezen overheidswerknemer, geldt:
 
@@ -256,13 +284,13 @@ Voor de eerste vaststelling van het recht op uitkering op grond van de WAO, bedo
 
 4. Het op grond van [artikel 13, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_1&artikel=13&z=2018-01-01&g=2018-01-01), betaalde bedrag aan voorlopige uitkeringen wordt verrekend met het bedrag van de uitkering op grond van de WAO, bedoeld in [artikel 13, tweede lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_1&artikel=13&z=2018-01-01&g=2018-01-01).
 
-#### Artikel 18
+##### Artikel 18
 
 1. Indien de WAO-conforme uitkering met overeenkomstige toepassing van [artikel 46a van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=46a) op grond van [artikel 32 van de WPA](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=32) is verhoogd, wordt de uitkering op grond van de WAO, bedoeld in [artikel 13, eerste of tweede lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_1&artikel=13&z=2018-01-01&g=2018-01-01), danwel de voorlopige uitkering op grond van de WAO, bedoeld in [artikel 13, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_1&artikel=13&z=2018-01-01&g=2018-01-01), vastgesteld met inachtneming van die verhoging.
 
 2. Het eerste lid is van toepassing op de betrokkene zolang hij recht zou hebben gehad op de in dat lid bedoelde verhoging als [artikel 46a van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=46a) op grond van [artikel 32, eerste lid, van de WPA](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=32) op hem nog van overeenkomstige toepassing zou zijn geweest op het tijdstip van aanvang van fase 1 van deze wet.
 
-#### Artikel 19
+##### Artikel 19
 
 De TBA wordt toegepast op een ingevolge [artikel 13, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_1&artikel=13&z=2018-01-01&g=2018-01-01), toegekende uitkering op grond van de WAO, met inachtneming van het volgende:
 
@@ -272,7 +300,7 @@ De TBA wordt toegepast op een ingevolge [artikel 13, eerste of tweede lid](https
 
 - c. de artikelen XVII tot en met XIX van de TBA zijn van toepassing op de overheidswerknemer of gewezen overheidswerknemer op wie op de dag voorafgaande aan het tijdstip van aanvang van fase 1 van deze wet de artikelen XXI tot en met XXIII dan wel XXV tot en met XXVII van de TBA van toepassing waren.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Voorzieningen, vergoedingen of toelagen die zijn toegekend op grond van [artikel 32 van de WPA](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=32), met overeenkomstige toepassing van de artikelen 57, 57a en 58 van de AAW, worden met ingang van het tijdstip van aanvang van fase 1 van deze wet voortgezet als voorzieningen, vergoedingen en toelagen op grond van [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=65), [65a](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=65a) of [65b van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=65b).
 
@@ -280,11 +308,11 @@ De TBA wordt toegepast op een ingevolge [artikel 13, eerste of tweede lid](https
 
 #### Afdeling 2. Beroepsmilitairen
 
-#### Artikel 21
+##### Artikel 21
 
 Deze afdeling is van toepassing op beroepsmilitairen en de in deze afdeling bedoelde gewezen beroepsmilitairen.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Voor de vaststelling van het recht op uitkering op grond van de WAO, alsmede voor de toelating tot de vrijwillige verzekering op grond van de WAO, worden, vanaf de dag van aanvang van hun dienstverband tot aan het tijdstip van aanvang van fase 1 van deze wet, aangemerkt als verplicht verzekerd op grond van de WAO:
 
@@ -300,7 +328,7 @@ Deze afdeling is van toepassing op beroepsmilitairen en de in deze afdeling bedo
 
 2. Aan het eerste lid kunnen geen rechten worden ontleend over tijdvakken, die gelegen zijn voor het tijdstip van aanvang van fase 1 van deze wet.
 
-#### Artikel 23
+##### Artikel 23
 
 1. De beroepsmilitair, bedoeld in [artikel 22, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_2&artikel=22&z=2018-01-01&g=2018-01-01), die op het tijdstip van aanvang van fase 1 van deze wet 52 weken of langer arbeidsongeschikt is in de zin van de WAO, de gewezen beroepsmilitair, bedoeld in [artikel 22, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_2&artikel=22&z=2018-01-01&g=2018-01-01), en de gewezen beroepsmilitair, bedoeld in [artikel 22, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_2&artikel=22&z=2018-01-01&g=2018-01-01), hebben vanaf dat tijdstip recht op een uitkering op grond van de WAO.
 
@@ -314,7 +342,7 @@ Deze afdeling is van toepassing op beroepsmilitairen en de in deze afdeling bedo
 
 aangemerkt als de datum van ingang van het in het eerste lid bedoelde recht op een uitkering op grond van de WAO.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Voor de vaststelling van de hoogte van de uitkering op grond van de WAO, bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_2&artikel=23&z=2018-01-01&g=2018-01-01), voor de in [artikel 22, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_2&artikel=22&z=2018-01-01&g=2018-01-01), bedoelde beroepsmilitair die op het tijdstip van aanvang van fase 1 van deze wet 52 weken of langer arbeidsongeschikt is in de zin van de WAO, geldt als dagloon respectievelijk vervolgdagloon in de zin van die wet de door het getal 261 gedeelde, naar een jaarbedrag herleide pensioengrondslag, bedoeld in [artikel F6](onbekend) van de Amp-wet, respectievelijk vervolguitkeringsgrondslag, bedoeld in [artikel F6a](onbekend) van de Amp-wet, die voor betrokkene zou zijn vastgesteld indien betrokkene op de dag voorafgaande aan de vorenbedoelde datum zou zijn ontslagen met recht op een pensioen ter zake van arbeidsongeschiktheid.
 
@@ -326,13 +354,13 @@ aangemerkt als de datum van ingang van het in het eerste lid bedoelde recht op e
 
 5. Onze Minister van Sociale Zaken en Werkgelegenheid kan, tezamen met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Defensie, nadere regels stellen met betrekking tot het eerste tot en met het vierde lid.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Voor de vaststelling van de hoogte van de uitkering op grond van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) voor de beroepsmilitair of gewezen beroepsmilitair die op grond van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=2&artikel=4&z=2018-01-01&g=2018-01-01), recht heeft gekregen op een uitkering op grond van de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), geldt als dagloon in de zin van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) het met toepassing van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=2&artikel=5&z=2018-01-01&g=2018-01-01), vastgestelde dagloon.
 
 2. Voor de vaststelling van de hoogte van de uitkering op grond van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) voor de beroepsmilitair of gewezen beroepsmilitair die op grond van [artikel 31, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=4&artikel=31&z=2018-01-01&g=2018-01-01), recht heeft verkregen op een uitkering op grond van de WW, geldt als dagloon in de zin van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) het met toepassing van [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=4&artikel=33&z=2018-01-01&g=2018-01-01) vastgestelde dagloon.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Voor de eerste vaststelling van het recht op uitkering ingevolge de WAO, bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_2&artikel=23&z=2018-01-01&g=2018-01-01), voor de in [artikel 22, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_2&artikel=22&z=2018-01-01&g=2018-01-01), bedoelde beroepsmilitair die op het tijdstip van aanvang van fase 1 van deze wet 52 weken of langer arbeidsongeschikt is in de zin van de WAO, is de door Onze Minister van Defensie vastgestelde mate van arbeidsongeschiktheid, bedoeld in [artikel E6 van de Amp-wet](onbekend), bepalend.
 
@@ -342,7 +370,7 @@ aangemerkt als de datum van ingang van het in het eerste lid bedoelde recht op e
 
 4. Voor de eerste vaststelling van het recht op uitkering ingevolge de WAO, bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_2&artikel=23&z=2018-01-01&g=2018-01-01), voor de in [artikel 22, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_2&artikel=22&z=2018-01-01&g=2018-01-01), bedoelde gewezen beroepsmilitair, is de mate van arbeidsongeschiktheid, waarnaar zijn uitkering overeenkomstig de normen van de WAO is berekend, bepalend.
 
-#### Artikel 27
+##### Artikel 27
 
 De TBA wordt toegepast op een ingevolge [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_2&artikel=23&z=2018-01-01&g=2018-01-01), toegekende uitkering op grond van de WAO, met inachtneming van het volgende:
 
@@ -352,7 +380,7 @@ De TBA wordt toegepast op een ingevolge [artikel 23, eerste lid](https://wetten.
 
 - c. de artikelen XVII tot en met XIX van de TBA zijn van overeenkomstige toepassing op de beroepsmilitair of gewezen beroepsmilitair op wie op de dag voorafgaande aan het tijdstip van aanvang van fase 1 van deze wet de artikelen XXV tot en met XXVII van de TBA van toepassing waren.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Voorzieningen, vergoedingen of toelagen die zijn toegekend op grond van [artikel X5](onbekend) van de Amp-wet, met overeenkomstige toepassing van de artikelen 57, 57a en 58 van de AAW, worden met ingang van het tijdstip van aanvang van fase 1 van deze wet voortgezet als voorzieningen, vergoedingen en toelagen op grond van [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=2&artikel=65&z=2018-01-01&g=2018-01-01), [65a](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=65a) of [65b van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=65b).
 
@@ -360,7 +388,7 @@ De TBA wordt toegepast op een ingevolge [artikel 23, eerste lid](https://wetten.
 
 #### Afdeling 3. Risicowering arbeidsongeschiktheid
 
-#### Artikel 29
+##### Artikel 29
 
 1. De [artikelen 18, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=18), en [30, eerste lid, onderdeel a, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=30) zijn niet van toepassing op de overheidswerknemers en de gewezen overheidswerknemers, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_1&artikel=13&z=2018-01-01&g=2018-01-01), en de beroepsmilitairen en de gewezen beroepsmilitairen, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_2&artikel=23&z=2018-01-01&g=2018-01-01), alsmede op de overheidswerknemers en gewezen overheidswerknemers, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_1&artikel=12&z=2018-01-01&g=2018-01-01), en de beroepsmilitairen en gewezen beroepsmilitairen, bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_2&artikel=22&z=2018-01-01&g=2018-01-01), die op de dag voorafgaande aan het tijdstip van aanvang van fase 1 van deze wet ongeschikt zijn tot werken wegens ziekte, behoudens ingeval een of meer van de genoemde bepalingen reeds van toepassing of van overeenkomstige toepassing was op de betrokkene op de dag voorafgaande aan de datum waarop de WAO ingevolge deze wet van toepassing wordt op de betrokkene.
 
@@ -368,7 +396,7 @@ De TBA wordt toegepast op een ingevolge [artikel 23, eerste lid](https://wetten.
 
 #### Paragraaf 4. Werkloosheid
 
-#### Artikel 30
+##### Artikel 30
 
 1. Met ingang van de datum waarop de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) op grond van deze wet of de algemene maatregel van bestuur, bedoeld in [artikel 7 van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=7), van toepassing wordt op de overheidswerknemer wordt, vanaf de dag van aanvang van het betreffende dienstverband, voor de vaststelling van het recht op uitkering op grond van de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), alsmede voor de toelating tot de vrijwillige verzekering op grond van de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), aangemerkt als een dienstbetrekking als bedoeld in [artikel 3 van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=3):
 
@@ -388,7 +416,7 @@ De TBA wordt toegepast op een ingevolge [artikel 23, eerste lid](https://wetten.
 
 2. Aan het eerste lid kunnen geen rechten worden ontleend over tijdvakken, die gelegen zijn voor de datum waarop de WW ingevolge deze wet van toepassing wordt.
 
-#### Artikel 31
+##### Artikel 31
 
 1. De gewezen overheidswerknemer, bedoeld in [artikel 30, eerste lid, onderdeel b, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=4&artikel=30&z=2018-01-01&g=2018-01-01), heeft vanaf het tijdstip van aanvang van fase 3 van deze wet recht op een uitkering op grond van de WW, indien zijn dienstverband op het moment van ingang van zijn recht op wachtgeld aangemerkt zou zijn als dienstbetrekking in de zin van de WW, indien de WW van toepassing zou zijn geweest op de dag waarop het recht op wachtgeld ontstond, en dat recht op een uitkering op grond van de WW zou voortduren na vorenbedoeld tijdstip.
 
@@ -398,7 +426,7 @@ De TBA wordt toegepast op een ingevolge [artikel 23, eerste lid](https://wetten.
 
 4. De in het eerste onderscheidenlijk het tweede lid bedoelde gewezen overheidswerknemer heeft vanaf het tijdstip van aanvang van fase 3 van deze wet onderscheidenlijk vanaf de in het tweede lid bedoelde dag, recht op een kortdurende uitkering op grond van de WW, indien zijn dienstverband op het moment van ingang van zijn recht op kortdurende uitkering ingevolge het [Besluit Werkloosheid onderwijs- en onderzoekpersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0006445), het [Werkloosheidsbesluit beroepsmilitairen bepaalde tijd](https://wetten.overheid.nl/jci1.3:c:BWBR0007212), het [Werkloosheidsbesluit defensiepersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0008113) of een met die besluiten vergelijkbare regeling, aangemerkt zou zijn als dienstbetrekking in de zin van de WW, en dat recht op een kortdurende uitkering op grond van de WW zou voortduren na het tijdstip van aanvang van fase 3 van deze wet onderscheidenlijk vanaf de in het tweede lid bedoelde dag.
 
-#### Artikel 32
+##### Artikel 32
 
 1. Voor de vaststelling van de duur van de uitkering op grond van de WW, bedoeld in [artikel 31, eerste, tweede of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=4&artikel=31&z=2018-01-01&g=2018-01-01), wordt het recht op uitkering op grond van de WW geacht te zijn aangevangen op het moment, waarop het in [artikel 30, eerste lid, onderdeel b, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=4&artikel=30&z=2018-01-01&g=2018-01-01), bedoelde wachtgeld, is aangevangen.
 
@@ -410,7 +438,7 @@ De TBA wordt toegepast op een ingevolge [artikel 23, eerste lid](https://wetten.
 
 5. De resterende duur van de uitkering op grond van de WW, bedoeld in het vierde lid, bedraagt niet meer dan de duur van het wachtgeld waarop de betrokkene recht had op de dag voorafgaande aan het tijdstip van aanvang van fase 3 van deze wet en zoals dat zou hebben doorgelopen na dat tijdstip of zou hebben herleefd vanaf de in [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=4&artikel=31&z=2018-01-01&g=2018-01-01), bedoelde dag, indien deze wet niet zou hebben gegolden.
 
-#### Artikel 32a
+##### Artikel 32a
 
 1. Onder de in [artikel 16, eerste lid, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=16) bedoelde arbeidsuren per kalenderweek wordt voor de gewezen overheidswerknemer, bedoeld in [artikel 31, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=4&artikel=31&z=2018-01-01&g=2018-01-01), verstaan het aantal uren waarin die overheidswerknemer laatstelijk was aangesteld respectievelijk waarvoor hij laatstelijk in dienst was genomen in het dienstverband waarop het recht op uitkering op grond van de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), bedoeld in [artikel 31, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=4&artikel=31&z=2018-01-01&g=2018-01-01), betrekking heeft.
 
@@ -418,7 +446,7 @@ De TBA wordt toegepast op een ingevolge [artikel 23, eerste lid](https://wetten.
 
 3. In afwijking van het eerste lid, wordt onder de in [artikel 16, eerste lid, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=16) bedoelde arbeidsuren per kalenderweek voor de gewezen overheidswerknemer, bedoeld in [artikel 31, tweede of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=4&artikel=31&z=2018-01-01&g=2018-01-01), wiens recht op uitkering op grond van het [Besluit Werkloosheid onderwijs- en onderzoekpersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0006445), het [Werkloosheidsbesluit beroepsmilitairen bepaalde tijd](https://wetten.overheid.nl/jci1.3:c:BWBR0007212), het [Werkloosheidsbesluit defensiepersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0008113) of een met die besluiten vergelijkbare regeling, in verband met een omstandigheid als bedoeld in [artikel 20, eerste lid, onderdeel a, b, c of d, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=20)voorafgaande aan het tijdstip van aanvang van fase 3 van deze wet geëindigd is, verstaan het in het kader van dat recht vastgestelde aantal arbeidsuren per kalenderweek.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Voor de berekening van de uitkering op grond van [artikel 31, eerste, tweede of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=4&artikel=31&z=2018-01-01&g=2018-01-01), geldt als dagloon de naar een jaarbedrag herleide berekeningsgrondslag waarnaar het wachtgeld is berekend op de dag voorafgaande aan het tijdstip van aanvang van fase 3 van deze wet, gedeeld door het getal 261.
 
@@ -442,13 +470,13 @@ De TBA wordt toegepast op een ingevolge [artikel 23, eerste lid](https://wetten.
 
 11. Het dagloon bedraagt ten hoogste het bedrag, bedoeld in [artikel 17, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=17), met betrekking tot een loontijdvak van een dag.
 
-#### Artikel 34
+##### Artikel 34
 
 De in deze paragraaf bedoelde overheidswerknemer of gewezen overheidswerknemer, die het einde van de voor hem geldende duur van de uitkering op grond van de WW heeft bereikt, wordt voor de toepassing van de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044) geacht te hebben voldaan aan het bepaalde in artikel 2, eerste lid, onderdeel a, onder 3°, onderdeel b, onder 3°, en onderdeel c, onder 3°, van die wet.
 
 #### Paragraaf 5. De uitvoering
 
-#### Artikel 35
+##### Artikel 35
 
 1. De overheidswerknemer of de gewezen overheidswerknemer, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=2&artikel=3&z=2018-01-01&g=2018-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_1&artikel=12&z=2018-01-01&g=2018-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_1&artikel=20&z=2018-01-01&g=2018-01-01) of [30](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=4&artikel=30&z=2018-01-01&g=2018-01-01), dan wel de beroepsmilitair of de gewezen beroepsmilitair, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_2&artikel=22&z=2018-01-01&g=2018-01-01) of [28](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_2&artikel=28&z=2018-01-01&g=2018-01-01), is verzekerd bij het Landelijk instituut sociale verzekeringen.
 
@@ -470,7 +498,7 @@ De in deze paragraaf bedoelde overheidswerknemer of gewezen overheidswerknemer, 
 
 5. Met ingang van de datum van inwerkingtreding van de [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060) treedt het Uitvoeringsinstituut werknemersverzekeringen in de plaats van het Landelijk instituut sociale verzekeringen.
 
-#### Artikel 36
+##### Artikel 36
 
 1. Het Landelijk instituut sociale verzekeringen stelt ambtshalve van iedere overheidswerknemer of gewezen overheidswerknemer als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=2&artikel=4&z=2018-01-01&g=2018-01-01), [artikel 13, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_1&artikel=13&z=2018-01-01&g=2018-01-01), of [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=4&artikel=31&z=2018-01-01&g=2018-01-01), en van iedere beroepsmilitair of gewezen beroepsmilitair als bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_2&artikel=23&z=2018-01-01&g=2018-01-01), het recht op uitkering of voorziening vast met inachtneming van [de artikelen 3 tot en met 34](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=2&artikel=3&z=2018-01-01&g=2018-01-01) en [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=5&artikel=41&z=2018-01-01&g=2018-01-01).
 
@@ -494,23 +522,23 @@ De in deze paragraaf bedoelde overheidswerknemer of gewezen overheidswerknemer, 
 
 7. Met ingang van de datum van inwerkingtreding van de [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060) treedt het Uitvoeringsinstituut werknemersverzekeringen in de plaats van het Landelijk instituut sociale verzekeringen.
 
-#### Artikel 37
+##### Artikel 37
 
 1. De overheidswerkgever aan wie vóór het tijdstip van aanvang van fase 1 van deze wet ter zake van een overheidswerknemer of een gewezen overheidswerknemer dan wel een beroepsmilitair of een gewezen beroepsmilitair een loonkostensubsidie is toegekend overeenkomstig artikel 62 van de WAO, waarvan de duur niet eindigt vóór bedoeld tijdstip, wordt door het Landelijk instituut sociale verzekeringen, met inachtneming van [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_1&artikel=20&z=2018-01-01&g=2018-01-01), of [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_2&artikel=28&z=2018-01-01&g=2018-01-01), met ingang van dat tijdstip in aanmerking gebracht voor een loonkostensubsidie, bedoeld in artikel 62 van de WAO.
 
 2. Met ingang van de datum van inwerkingtreding van de [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060) treedt het Uitvoeringsinstituut werknemersverzekeringen in de plaats van het Landelijk instituut sociale verzekeringen.
 
-#### Artikel 38
+##### Artikel 38
 
 1. Een stimuleringsuitkering als bedoeld in artikel XIII , eerste lid, van de TBA van een overheidswerknemer of een gewezen overheidswerknemer als bedoeld in [artikel 12, eerste lid, onderdeel b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_1&artikel=12&z=2018-01-01&g=2018-01-01), dan wel een beroepsmilitair als bedoeld in [artikel 22, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_2&artikel=22&z=2018-01-01&g=2018-01-01), of een gewezen beroepsmilitair als bedoeld in [artikel 22, eerste lid, onderdeel c, d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_2&artikel=22&z=2018-01-01&g=2018-01-01), die herleeft, wordt betaald door het Landelijk instituut sociale verzekeringen en komt ten laste van het Arbeidsongeschiktheidsfonds, bedoeld in [artikel 72 van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=72).
 
 2. Met ingang van de datum van inwerkingtreding van de [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060) treedt het Uitvoeringsinstituut werknemersverzekeringen in de plaats van het Landelijk instituut sociale verzekeringen.
 
-#### Artikel 39
+##### Artikel 39
 
 Onze Minister van Sociale Zaken en Werkgelegenheid kan tezamen met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties nadere regels stellen met betrekking tot [de artikelen 35 tot en met 38](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=5&artikel=35&z=2018-01-01&g=2018-01-01).
 
-#### Artikel 40
+##### Artikel 40
 
 1. Tot en met de dag waarop het dienstverband van de betrokkene eindigt, geschiedt de uitbetaling van de uitkering op grond van de WAO, bedoeld in [artikel 13, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_1&artikel=13&z=2018-01-01&g=2018-01-01), door tussenkomst van de overheidswerkgever die aan de betrokkene bezoldiging of uitkering in geval van ziekte is verschuldigd, indien de WAO-conforme uitkering, bedoeld in [artikel 12, eerste lid, onderdeel b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_1&artikel=12&z=2018-01-01&g=2018-01-01), op de dag voorafgaande aan het tijdstip van aanvang van fase 1 van deze wet met toepassing van [artikel 47, eerste lid, van de WPA](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=47) door tussenkomst van de overheidswerkgever werd uitbetaald.
 
@@ -532,7 +560,7 @@ Onze Minister van Sociale Zaken en Werkgelegenheid kan tezamen met Onze Minister
 
 7. Met ingang van de datum van inwerkingtreding van de [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060) treedt het Uitvoeringsinstituut werknemersverzekeringen in de plaats van het Landelijk instituut sociale verzekeringen.
 
-#### Artikel 41
+##### Artikel 41
 
 1. Onze Minister van Sociale Zaken en Werkgelegenheid stelt tezamen met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Defensie nadere regels ten aanzien van de betrokkene die als overheidswerknemer op het tijdstip waarop fase 1, 2 of 3 van deze wet op hem van toepassing wordt, tegelijkertijd recht heeft op twee of meer van de navolgende uitkeringen of voorzieningen danwel een combinatie daarvan:
 
@@ -578,7 +606,7 @@ Onze Minister van Sociale Zaken en Werkgelegenheid kan tezamen met Onze Minister
 
 3. De in het eerste lid bedoelde regels hebben tot doel te bereiken dat een hoogte en een duur van het ingevolge deze wet aan de betrokkene toe te kennen ziekengeld op grond van de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), uitkering op grond van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), loonsuppletie of reïntegratie-uitkering op grond van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), danwel uitkering op grond van de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) wordt vastgesteld die ten minste evenredig is aan de hoogte en duur van het met de betreffende werknemersverzekering overeenkomende deel van het wachtgeld, de uitkering of de voorziening waarop de betrokkene in zijn hoedanigheid als overheidswerknemer, danwel gewezen overheidswerknemer recht had op de dag voorafgaande aan de datum waarop de betreffende werknemersverzekering ingevolge deze wet op hem van toepassing werd.
 
-#### Artikel 42
+##### Artikel 42
 
 1. Vanaf het tijdstip van aanvang van fase 1 van deze wet, treedt het Landelijk instituut sociale verzekeringen in de plaats van het FAOP wat betreft de overeenkomstige toepassing van de WAO, bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=32), juncto [artikel 46, tweede lid, van de WPA](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=46), alsmede wat betreft de toepassing van de AAW, bedoeld in artikel 8 van de AAW.
 
@@ -594,7 +622,7 @@ Onze Minister van Sociale Zaken en Werkgelegenheid kan tezamen met Onze Minister
 
 #### Paragraaf 6. Overige bepalingen
 
-#### Artikel 43
+##### Artikel 43
 
 1. Indien de overheidswerknemer of de gewezen overheidswerknemer, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=2&artikel=4&z=2018-01-01&g=2018-01-01), ingevolge de op hem van toepassing zijnde rechtspositieregeling recht heeft op bezoldiging of uitkering ingeval van ziekte en tegelijkertijd ter zake van hetzelfde dienstverband recht heeft op ziekengeld op grond van de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), wordt het eerstbedoelde recht verminderd met het ziekengeld.
 
@@ -602,7 +630,7 @@ Onze Minister van Sociale Zaken en Werkgelegenheid kan tezamen met Onze Minister
 
 3. Het eerste en tweede lid zijn uitsluitend van toepassing indien in de op betrokkene van toepassing zijnde rechtspositieregeling geen bepalingen zijn opgenomen ter zake van de in die leden bedoelde samenloop van rechten.
 
-#### Artikel 44
+##### Artikel 44
 
 1. Het Landelijk instituut sociale verzekeringen liquideert vóór het tijdstip gelegen twee jaar na het tijdstip van aanvang van fase 1 van deze wet het vermogen van het FAOP.
 
@@ -628,7 +656,7 @@ Onze Minister van Sociale Zaken en Werkgelegenheid kan tezamen met Onze Minister
 
 10. Met ingang van de datum van inwerkingtreding van de [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060) treedt het Uitvoeringsinstituut werknemersverzekeringen in de plaats van het Landelijk instituut sociale verzekeringen.
 
-#### Artikel 45
+##### Artikel 45
 
 1. Onverminderd het bepaalde in deze wet zijn de ZW, de WAO, en de WW, alsmede de op die wetten berustende bepalingen, van toepassing op het in dit hoofdstuk bedoelde recht op uitkering op grond van die wetten, op het in aanmerking brengen voor voorzieningen, vergoedingen of toelagen op grond van [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_1&artikel=20&z=2018-01-01&g=2018-01-01), of [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_2&artikel=28&z=2018-01-01&g=2018-01-01), en op het in aanmerking brengen voor loonsuppleties, loonkostensubsidies, opleiding of scholing of reïntegratie-uitkeringen op grond van [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_1&artikel=20&z=2018-01-01&g=2018-01-01), of [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_2&artikel=28&z=2018-01-01&g=2018-01-01).
 
@@ -638,11 +666,11 @@ Onze Minister van Sociale Zaken en Werkgelegenheid kan tezamen met Onze Minister
 
 4. Loonsuppleties, loonkostensubsidies, opleiding of scholing of reïntegratie-uitkeringen op grond van [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_1&artikel=20&z=2018-01-01&g=2018-01-01), of [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=3&sub-paragraaf=Afdeling_2&artikel=28&z=2018-01-01&g=2018-01-01), worden beschouwd als loonsuppleties, loonkostensubsidies, opleiding of scholing of reïntegratie-uitkeringen op grond van de verplichte verzekering krachtens de WAO.
 
-#### Artikel 45a
+##### Artikel 45a
 
 De Wet financiering loopbaanonderbreking en de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), zoals deze luidden op de dag voor het tijdstip van aanvang van fase 2 van deze wet, blijven van toepassing op de financiële tegemoetkoming op grond van de eerstgenoemde wet, die is aangevangen voor het bedoelde tijdstip van aanvang van fase 2.
 
-#### Artikel 45b
+##### Artikel 45b
 
 1. Voor de toepassing van de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044) wordt onder het bereiken van de volledige uitkeringsduur, bedoeld in [hoofdstuk II van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=II), mede verstaan het voor het tijdstip van aanvang van fase 3 van deze wet bereiken van de volledige uitkeringsduur van een wachtgeld, waarop recht is ontstaan voor het tijdstip van aanvang van fase 2 van deze wet. Onder wachtgeld wordt niet verstaan de kortdurende uitkering, bedoeld in het tweede lid.
 
@@ -650,87 +678,87 @@ De Wet financiering loopbaanonderbreking en de [Werkloosheidswet](https://wetten
 
 3. Voor de toepassing van de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044) wordt onder het bereiken van de volledige uitkeringsduur bedoeld in [hoofdstuk II van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=II), mede verstaan het bereiken van de volledige uitkeringsduur van een wachtgeld, waarop in verband met de verlaging van een uitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) recht is ontstaan tussen 30 september 2004 en 1 oktober 2005 voor de overheidswerknemer of de gewezen overheidswerknemer die op 31 december 2000 en op 30 september 2004 recht had op een uitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), berekend naar een mate van arbeidsongeschiktheid van 80% of meer.
 
-#### Artikel 45c
+##### Artikel 45c
 
 Indien een overheidswerkgever in staat van faillissement is verklaard, dan wel aan hem surséance van betaling is verleend, of deze anderszins verkeert in de blijvende toestand dat hij heeft opgehouden te betalen, wordt, op verzoek van de gewezen overheidswerknemer die uit hoofde van een dienstverband met deze overheidswerkgever recht op wachtgeld heeft, welk recht is ontstaan voor het tijdstip van aanvang van fase 2 van deze wet, het tijdstip van aanvang van fase 3 van deze wet vastgesteld op het tijdstip dat de overheidswerkgever kwam te verkeren in een toestand als hiervoor bedoeld, doch niet eerder dan het tijdstip van aanvang van fase 2. De eerste zin is slechts van toepassing als de overheidswerknemer zijn verzoek doet binnen 26 weken na de dag waarop de overheidswerkgever is komen te verkeren in een toestand als bedoeld in de eerste zin.
 
-#### Artikel 46
+##### Artikel 46
 
 Bij algemene maatregel van bestuur op voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties in overeenstemming met Onze Minister of Onze Ministers wie het mede aangaat, kunnen ter uitvoering van dit hoofdstuk nadere regels worden gesteld.
 
 ### Hoofdstuk 2. Wijziging van wetten op het terrein van de sociale zekerheid alsmede van de Wet arbeid gehandicapte werknemers en de Wet voorzieningen gehandicapten
 
-#### Artikel 47
+##### Artikel 47
 
 Wijzigt de Ziektewet.
 
-#### Artikel 48
+##### Artikel 48
 
 Wijzigt de Ziektewet.
 
-#### Artikel 49
+##### Artikel 49
 
 Wijzigt de Ziektewet.
 
-#### Artikel 50
+##### Artikel 50
 
 Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
 
-#### Artikel 51
+##### Artikel 51
 
 Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
 
-#### Artikel 52
+##### Artikel 52
 
 Wijzigt de Werkloosheidswet.
 
-#### Artikel 53
+##### Artikel 53
 
 Wijzigt de Werkloosheidswet.
 
-#### Artikel 54
+##### Artikel 54
 
 Wijzigt de Werkloosheidswet
 
-#### Artikel 55
+##### Artikel 55
 
 Wijzigt de Invoeringswet stelselherziening sociale zekerheid.
 
-#### Artikel 56
+##### Artikel 56
 
 [Artikel 10 van de Invoeringswet stelselherziening sociale zekerheid](https://wetten.overheid.nl/jci1.3:c:BWBR0004046&artikel=10) en de daarop berustende bepalingen, zoals deze luiden op de dag voor het tijdstip van aanvang van fase 2 van deze wet, blijven tot het tijdstip van aanvang van fase 3 van deze wet van toepassing op de overheidswerknemer, bedoeld in dat artikel, wiens eerste dag van werkloosheid gelegen is voor het tijdstip van aanvang van fase 2 van deze wet.
 
-#### Artikel 57
+##### Artikel 57
 
 Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers.
 
-#### Artikel 58
+##### Artikel 58
 
 Wijzigt de Wet arbeid gehandicapte werknemers.
 
-#### Artikel 59
+##### Artikel 59
 
 Wijzigt de Wet voorzieningen gehandicapten.
 
-#### Artikel 60
+##### Artikel 60
 
 Wijzigt de Coördinatiewet Sociale Verzekering.
 
-#### Artikel 61
+##### Artikel 61
 
 Wijzigt de Coördinatiewet Sociale Verzekering.
 
-#### Artikel 62
+##### Artikel 62
 
 1. Wijzigt de Wet terugdringing ziekteverzuim.
 
 2. Wijzigt de Wet terugdringing ziekteverzuim.
 
-#### Artikel 63
+##### Artikel 63
 
 Wijzigt de Wet terugdringing beroep op de arbeidsongeschiktheidsregelingen.
 
-#### Artikel 64
+##### Artikel 64
 
 Met ingang van het tijdstip van aanvang van fase 2 van deze wet, bedoeld in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=2&artikel=53&z=2018-01-01&g=2018-01-01), wordt de [Tijdelijke wet beperking inkomensgevolgen arbeidsongeschiktheidscriteria](https://wetten.overheid.nl/jci1.3:c:BWBR0007891) voor de overheidswerknemers, bedoeld in [artikel 1, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=1&artikel=1&z=2018-01-01&g=2018-01-01), en de gewezen overheidswerknemers, op wie de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) van toepassing wordt, als volgt gelezen:
 
@@ -754,81 +782,81 @@ Met ingang van het tijdstip van aanvang van fase 2 van deze wet, bedoeld in [art
 
 - H. In het nieuwe [twaalfde lid van artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=2&artikel=9&z=2018-01-01&g=2018-01-01) wordt «het negende lid» vervangen door: het elfde lid.
 
-#### Artikel 65
+##### Artikel 65
 
 Wijzigt de Tijdelijke wet beperking inkomensgevolgen arbeidsongeschiktheidscriteria.
 
-#### Artikel 66
+##### Artikel 66
 
 Wijzigt de Wet premiedifferentiatie en marktwerking bij arbeidsongeschiktheidsverzekeringen.
 
-#### Artikel 67
+##### Artikel 67
 
 Wijzigt de Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen.
 
-#### Artikel 67a
+##### Artikel 67a
 
 Wijzigt de Wet op de (re)integratie arbeidsgehandicapten.
 
-#### Artikel 67b
+##### Artikel 67b
 
 Wet financiering loopbaanonderbreking.
 
 ### Hoofdstuk 3. Wijziging van andere wetten
 
-#### Artikel 68
+##### Artikel 68
 
 Wijzigt de Wet financiële voorzieningen privatisering ABP.
 
-#### Artikel 69
+##### Artikel 69
 
 Wijzigt de Wet financiële voorzieningen privatisering ABP.
 
-#### Artikel 70
+##### Artikel 70
 
 Wijzigt de Wet financiële voorzieningen privatisering ABP.
 
-#### Artikel 71
+##### Artikel 71
 
 Wijzigt de Wet privatisering ABP.
 
-#### Artikel 72
+##### Artikel 72
 
 Wijzigt de Beroepswet.
 
-#### Artikel 73
+##### Artikel 73
 
 Wijzigt de Algemene militaire pensioenwet.
 
-#### Artikel 74
+##### Artikel 74
 
 Vervallen
 
-#### Artikel 75
+##### Artikel 75
 
 Wijzigt de Ziekenfondswet.
 
-#### Artikel 76
+##### Artikel 76
 
 Wijzigt de Ziekenfondswet.
 
-#### Artikel 77
+##### Artikel 77
 
 Met ingang van het tijdstip van aanvang van fase 1 van deze wet wordt de Wet Stichting USZO ingetrokken.
 
-#### Artikel 78
+##### Artikel 78
 
 Wijzigt de Wet op de ondernemingsraden.
 
 ### Hoofdstuk 4. Overige en slotbepalingen
 
-#### Artikel 79
+##### Artikel 79
 
 1. Op verzoek van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties verstrekt een organisatie die een of meer uitkeringsregelingen ter zake van ziekte, ontslag of werkloosheid van overheidswerknemers of gewezen overheidswerknemers uitvoert, kosteloos alle statistische informatie die hij wenselijk acht in verband met zijn bestuurlijke verantwoordelijkheid voor het overheidspersoneelsbeleid.
 
 2. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties kan regels stellen omtrent de verstrekking van de statistische informatie, bedoeld in het eerste lid.
 
-#### Artikel 80
+##### Artikel 80
 
 1. Het burgerservicenummer kan in een persoonsregistratie worden opgenomen en bij het verstrekken van gegevens daaruit worden gebruikt door een organisatie die een of meer uitkeringsregelingen ter zake van ziekte, ontslag of werkloosheid van overheidswerknemers of gewezen overheidswerknemers uitvoert.
 
@@ -840,15 +868,15 @@ Wijzigt de Wet op de ondernemingsraden.
 
 3. Ten behoeve van wetenschappelijk onderzoek of statistiek dan wel op grond van een dwingende en gewichtige reden, kan desgevraagd een burgerservicenummer, aan een derde worden verstrekt voor zover de persoonlijke levenssfeer van de geregistreerde daardoor niet onevenredig wordt geschaad.
 
-#### Artikel 81
+##### Artikel 81
 
 De Algemene Rekenkamer heeft met betrekking tot de uitkeringsregelingen ter zake van ziekte, ontslag en werkloosheid ten aanzien van een organisatie die een of meer uitkeringsregelingen ter zake van ziekte, ontslag of werkloosheid van overheidswerknemers of gewezen overheidswerknemers uitvoert, de in [artikel 7.34 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=7.34) vermelde bevoegdheden.
 
-#### Artikel 82
+##### Artikel 82
 
 Het Uitvoeringsinstituut werknemersverzekeringen verstrekt op verzoek aan een organisatie die een of meer uitkeringsregelingen ter zake van ziekte, ontslag of werkloosheid van overheidswerknemers of gewezen overheidswerknemers uitvoert, kosteloos alle gegevens en inlichtingen die de betreffende organisatie nodig acht voor de uitvoering van de desbetreffende [uitkeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002537).
 
-#### Artikel 83
+##### Artikel 83
 
 1. Wijzigt deze wet.
 
@@ -864,31 +892,31 @@ Het Uitvoeringsinstituut werknemersverzekeringen verstrekt op verzoek aan een or
 
 5. Met ingang van het tijdstip van aanvang van fase 3 van deze wet berust het [Faseringsbesluit overheidswerknemers onder de Ziektewet en de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0010744) op het tweede tot en met vierde lid van dit artikel.
 
-#### Artikel 84
+##### Artikel 84
 
 1. Op verzoek van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties verstrekt een organisatie die een of meer bovenwettelijke regelingen ter zake van ziekte, arbeidsongeschiktheid, ontslag of werkloosheid van overheidswerknemers of gewezen overheidswerknemers uitvoert, kosteloos alle statistische informatie die hij wenselijk acht in verband met zijn bestuurlijke verantwoordelijkheid voor het overheidspersoneelsbeleid.
 
 2. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties kan regels stellen omtrent de verstrekking van de statistische informatie, bedoeld in het eerste lid.
 
-#### Artikel 85
+##### Artikel 85
 
 Vervallen
 
-#### Artikel 86
+##### Artikel 86
 
 [Artikel 32, eerste en tweede lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=32) is niet van toepassing op een overheidswerkgever als bedoeld in [artikel 1, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=1&artikel=1&z=2018-01-01&g=2018-01-01), of een overheidswerknemer als bedoeld in [artikel 1, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=1&artikel=1&z=2018-01-01&g=2018-01-01), tot het tijdstip waarop ingevolge deze wet de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) op hem van toepassing wordt.
 
-#### Artikel 87
+##### Artikel 87
 
 1. Onverminderd artikel 38, eerste lid, van de Organisatiewet sociale verzekeringen 1997, heeft het Landelijk instituut sociale verzekeringen, bedoeld in artikel 30, eerste lid, van die wet met ingang van het tijdstip van aanvang van fase 1 van deze wet tot taak uitvoering te geven aan [hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&z=2018-01-01&g=2018-01-01) van de Wet overheidspersoneel onder de werknemersverzekeringen.
 
 2. Onverminderd [artikel 30, eerste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30), treedt het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5), met ingang van het tijdstip van inwerkingtreding van die wet voor de toepassing van het eerste lid in de plaats van het Landelijk instituut sociale verzekeringen.
 
-#### Artikel 88
+##### Artikel 88
 
 Vervallen
 
-#### Artikel 89
+##### Artikel 89
 
 1. Met ingang van het tijdstip van aanvang van fase 1 van deze wet tot en met de dag voorafgaande aan het tijdstip van aanvang van fase 2 van deze wet, bedoeld in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=2&artikel=53&z=2018-01-01&g=2018-01-01), komt de premie op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), bedoeld in de [artikelen 85 derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=85), en [86 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=86), over de uitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) van een overheidswerknemer als bedoeld in [artikel 1, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=1&artikel=1&z=2018-01-01&g=2018-01-01), of een gewezen overheidswerknemer, in afwijking van [artikel 92, onderdelen a en b, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=92), niet ten gunste van het wachtgeldfonds, bedoeld in [artikel 102](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=102) van die wet, of het Algemeen Werkloosheidsfonds, bedoeld in artikel 103 van die wet, maar van het Arbeidsongeschiktheidsfonds, bedoeld in [artikel 72 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=72). De eerste volzin is slechts van toepassing, indien de werkzaamheden met betrekking tot de in die volzin bedoelde uitkering worden verricht door een rechtspersoon, die de in artikel 41, eerste lid, van de Organisatiewet sociale verzekeringen 1997 bedoelde werkzaamheden uitsluitend verricht voor een of meer sectoren of sectoronderdelen waarbij geen andere dan overheidswerkgevers als bedoeld in [artikel 1, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=1&artikel=1&z=2018-01-01&g=2018-01-01), zijn aangesloten.
 
@@ -902,7 +930,7 @@ Vervallen
 
 3. Het eerste en het tweede lid gelden uitsluitend voor uitkeringen op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), die betrekking hebben op de periode tot aan het tijdstip van aanvang van fase 2 van deze wet, bedoeld in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=2&artikel=53&z=2018-01-01&g=2018-01-01).
 
-#### Artikel 90
+##### Artikel 90
 
 1. Het bedrag dat de overheidswerkgever, bedoeld in [artikel 1, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=1&artikel=1&z=2018-01-01&g=2018-01-01), moet betalen aan het Uitvoeringsinstituut werknemersverzekeringen, in verband met de door hem verschuldigde premie, bedoeld in [artikel 76a van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=76a), wordt verminderd met het door het Uitvoeringsinstituut werknemersverzekeringen overeenkomstig het tweede lid vastgestelde, ten laste van het Arbeidsongeschiktheidsfonds, bedoeld in [artikel 72 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=72) komende bedrag, dat bedoeld is om de over uitkeringen op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) van overheidswerknemers als bedoeld in [artikel 1, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=1&paragraaf=1&artikel=1&z=2018-01-01&g=2018-01-01), en gewezen overheidswerknemers verschuldigde premies op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) ten gunste te laten komen van de overheidswerkgevers. De in de eerste volzin bedoelde vermindering vindt plaats zo spoedig mogelijk na het in het tweede lid bedoelde, betreffende kalenderjaar.
 
@@ -928,23 +956,23 @@ Vervallen
 
 8. Bij algemene maatregel van bestuur op voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid kan worden bepaald dat het totaal van de in een kalenderjaar verschuldigde premie, bedoeld in het tweede lid, onderdeel a, dat na aftrek van de in het tweede lid, onderdeel a, onder 1° en 2°, bedoelde bedragen resteert, in afwijking van het eerste lid geheel of gedeeltelijk kan worden gebruikt voor de bekostiging van uitgaven in verband met het onder de werkingssfeer van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) en de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) brengen van het overheidspersoneel. In deze algemene maatregel van bestuur kan worden bepaald dat bij regeling van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties nadere regels kunnen worden gesteld met betrekking tot de in de eerste volzin bedoelde bekostiging.
 
-#### Artikel 90a
+##### Artikel 90a
 
 Betalingen die na het tijdstip van aanvang van fase 2, bedoeld in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&hoofdstuk=2&artikel=53&z=2018-01-01&g=2018-01-01), worden gedaan als uitgave in verband met het onder de werkingssfeer van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) en de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) brengen van het overheidspersoneel, komen ten laste van het Uitvoeringsfonds voor de overheid, bedoeld in [artikel 104 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=104).
 
-#### Artikel 91
+##### Artikel 91
 
 Vervallen
 
-#### Artikel 92
+##### Artikel 92
 
 Vervallen
 
-#### Artikel 93
+##### Artikel 93
 
 Deze wet wordt aangehaald als: Wet overheidspersoneel onder de werknemersverzekeringen.
 
-#### Artikel 94
+##### Artikel 94
 
 1. Deze wet treedt in werking met ingang van een bij koninklijk besluit te bepalen tijdstip.
 

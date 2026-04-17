@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst betreffende wederzijdse rechtshulp in strafzaken tussen de Europese Unie en de Verenigde Staten van Amerika"
 identifier: "BWBV0004049"
-categorie: "Internationaal recht"
-publicatiedatum: 2010-02-01
-laatste_update: 2003-06-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004049"
+country: "nl"
+rank: "verdrag"
+publication_date: "2010-02-01"
+last_updated: "2003-06-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004049"
+soort: "verdrag"
+stam_id: "10003867353"
+version_id: "10003941182"
+internal_id: "C10008431371"
+label_id: "10003852184"
+dtd_version: "2.0"
+original_entry_into_force: "2010-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004049/2010-02-01/0"
+intitule_bron: "Trb.2004-298"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2004-12-20"
+intitule_in_force: "2010-01-12"
+intitule_status: "goed"
+original_publication: "Trb.2004-298"
+original_published_date: "2004-12-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2004-298"
+entry_into_force_date: "2010-02-01"
+jci_1_3: "jci1.3:c:BWBV0004049&z=2010-02-01&g=2010-02-01"
+jci_1_0: "1.0:c:BWBV0004049&g=2010-02-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2010-02-01"
 ---
-
 # Overeenkomst betreffende wederzijdse rechtshulp in strafzaken tussen de Europese Unie en de Verenigde Staten van Amerika
 
 De Europese Unie en de Verenigde Staten van Amerika,
@@ -24,17 +46,17 @@ vanuit de wens een verdrag betreffende wederzijdse rechtshulp in strafzaken te s
 
 hebben overeenstemming bereikt omtrent de volgende bepalingen:
 
-#### Artikel 1. Onderwerp en doel
+##### Artikel 1. Onderwerp en doel
 
 De overeenkomstsluitende partijen verbinden zich ertoe in overeenstemming met de bepalingen van deze overeenkomst de samenwerking en wederzijdse rechtshulp te verbeteren.
 
-#### Artikel 2. Definities
+##### Artikel 2. Definities
 
 1. Onder „overeenkomstsluitende partijen” wordt verstaan: de Europese Unie en de Verenigde Staten van Amerika.
 
 2. Onder „lidstaat” wordt verstaan: een lidstaat van de Europese Unie.
 
-#### Artikel 3. Reikwijdte van deze overeenkomst met betrekking tot bilaterale rechtshulpverdragen met lidstaten en bij gebreke daarvan
+##### Artikel 3. Reikwijdte van deze overeenkomst met betrekking tot bilaterale rechtshulpverdragen met lidstaten en bij gebreke daarvan
 
 1. De Europese Unie, krachtens het Verdrag betreffende de Europese Unie, en de Verenigde Staten van Amerika waarborgen dat de bepalingen van deze overeenkomst in samenhang met bilaterale rechtshulpverdragen tussen de lidstaten en de Verenigde Staten van Amerika die op het moment van inwerkingtreding van deze overeenkomst gelden, op de volgende wijze worden toegepast:
 
@@ -68,7 +90,7 @@ De overeenkomstsluitende partijen verbinden zich ertoe in overeenstemming met de
 
 5. De overeenkomstsluitende partijen komen overeen dat deze overeenkomst alleen tot rechtshulp tussen de betrokken staten strekt. Een particulier kan aan de bepalingen van deze overeenkomst niet het recht ontlenen bewijs te verkrijgen, te weren of uit te sluiten, de uitvoering van een verzoek te beletten, of de anderszins krachtens de nationale wetgeving beschikbare rechten uit te breiden of te beperken.
 
-#### Artikel 4. Identificatie van bankgegevens
+##### Artikel 4. Identificatie van bankgegevens
 
 - a. Op verzoek van de verzoekende staat onderzoekt de aangezochte staat terstond, in overeenstemming met dit artikel, of de op zijn grondgebied gevestigde banken weten of een met name genoemde natuurlijke of rechtspersoon die verdacht wordt van of in staat van beschuldiging is gesteld wegens een strafbaar feit, houder is van een of meer bankrekeningen. De aangezochte staat deelt het resultaat van zijn onderzoek terstond aan de verzoekende staat mee.
 
@@ -114,7 +136,7 @@ De overeenkomstsluitende partijen verbinden zich ertoe in overeenstemming met de
 
 7. De overeenkomstsluitende partijen nemen maatregelen om te voorkomen dat aangezochte staten door de toepassing van dit artikel buitengewoon worden belast. Indien een aangezochte staat, met inbegrip van banken of de communicatiekanalen waarin dit artikel voorziet, niettemin buitengewoon worden belast, plegen de overeenkomstsluitende partijen onmiddellijk overleg teneinde de toepassing van dit artikel te vergemakkelijken, en teneinde de maatregelen te treffen die nodig zijn om de bestaande en toekomstige belasting te verminderen.
 
-#### Artikel 5. Gemeenschappelijke onderzoeksteams
+##### Artikel 5. Gemeenschappelijke onderzoeksteams
 
 1. De overeenkomstsluitende partijen nemen, voorzover zij zulks nog niet hebben gedaan, de nodige maatregelen om gemeenschappelijke onderzoeksteams te kunnen instellen en te laten optreden op het grondgebied van respectievelijk elke lidstaat en de Verenigde Staten van Amerika, teneinde strafrechtelijke onderzoeken of strafvervolgingen waarbij een of meer lidstaten en de Verenigde Staten van Amerika betrokken zijn te vergemakkelijken, voorzover de betrokken lidstaat en de Verenigde Staten van Amerika dit nodig achten.
 
@@ -124,7 +146,7 @@ De overeenkomstsluitende partijen verbinden zich ertoe in overeenstemming met de
 
 4. Wanneer het gemeenschappelijk onderzoeksteam het noodzakelijk acht dat in een van de staten die het team hebben ingesteld, onderzoekshandelingen plaatsvinden, kan een uit die staat afkomstig lid van het team zijn eigen bevoegde autoriteiten vragen die handelingen te verrichten zonder dat de andere staten daartoe een verzoek om rechtshulp behoeven in te dienen. Aan de toepassing van de maatregel in die staat zullen dezelfde juridische eisen worden gesteld als aan nationale onderzoekshandelingen.
 
-#### Artikel 6. Videoconferenties
+##### Artikel 6. Videoconferenties
 
 1. De overeenkomstsluitende partijen nemen, voorzover dergelijke hulp niet al beschikbaar is, de nodige maatregelen om ervoor te zorgen dat tussen iedere lidstaat en de Verenigde Staten van Amerika videoconferenties kunnen worden gehouden om personen die zich in de aangezochte staat bevinden als getuige of deskundige in een procedure waarin rechtshulp wordt verstrekt, te horen. Voorzover niet specifiek in dit artikel bepaald, gelden voor die procedure de voorwaarden van het tussen de betrokken staten toepasselijke rechtshulpverdrag of van de wet van de aangezochte staat.
 
@@ -138,11 +160,11 @@ De overeenkomstsluitende partijen verbinden zich ertoe in overeenstemming met de
 
 6. Dit artikel doet geen afbreuk aan de toepassing van bepalingen van bilaterale rechtshulpovereenkomsten tussen de lidstaten en de Verenigde Staten van Amerika die het gebruik van videoconferenties voor andere dan de in lid 1 aangegeven doelen verplicht stellen of toestaan, daaronder begrepen ten behoeve van de identificatie van personen of voorwerpen of het afnemen van verklaringen in het kader van een onderzoek. Wanneer een toepasselijke overeenkomst of wet niet reeds daarin voorziet, kan een staat het gebruik van videoconferenties in die gevallen toestaan.
 
-#### Artikel 7. Versnelde toezending van verzoeken
+##### Artikel 7. Versnelde toezending van verzoeken
 
 Verzoeken om rechtshulp, en mededelingen dienaangaande, kunnen worden gedaan met behulp van snelle communicatietechnieken, daaronder begrepen faxapparatuur of elektronische post, gevolgd door een formele bevestiging wanneer de aangezochte staat zulks vereist. De aangezochte staat kan het verzoek met behulp van zulke snelle communicatietechnieken beantwoorden.
 
-#### Artikel 8. Rechtshulp aan administratieve autoriteiten
+##### Artikel 8. Rechtshulp aan administratieve autoriteiten
 
 1. Rechtshulp wordt ook verleend aan een nationale administratieve autoriteit die, krachtens een specifieke administratieve of regelgevende bevoegdheid om dergelijke onderzoeken te doen, gedragingen onderzoekt met het oog op strafvervolging of verwijzing van dergelijke gedragingen naar autoriteiten die bevoegd zijn deze te onderzoeken of strafrechtelijk te vervolgen. Rechtshulp kan onder vergelijkbare omstandigheden ook worden verleend aan andere administratieve autoriteiten. Rechtshulp wordt niet verleend in aangelegenheden waarin de administratieve autoriteit op voorhand verklaart dat geen vervolging of, voorzover van toepassing, verwijzing zal plaatsvinden.
 
@@ -152,7 +174,7 @@ Verzoeken om rechtshulp, en mededelingen dienaangaande, kunnen worden gedaan met
 
 3. De overeenkomstsluitende partijen nemen maatregelen om buitengewone belasting van de aangezochte staten ten gevolge van de toepassing van dit artikel te voorkomen. Wanneer een dergelijke buitengewone belasting toch optreedt, plegen de overeenkomstsluitende partijen onverwijld overleg om de toepassing van dit artikel te vergemakkelijken, onder andere door die maatregelen te nemen welke nodig zijn om bestaande en toekomstige belasting te verminderen.
 
-#### Artikel 9. Gebruiksbeperkingen met het oog op bescherming van persoons- en andere gegevens
+##### Artikel 9. Gebruiksbeperkingen met het oog op bescherming van persoons- en andere gegevens
 
 1. De verzoekende staat kan van de aangezochte staat verkregen bewijsmateriaal en gegevens gebruiken:
 
@@ -180,29 +202,29 @@ Verzoeken om rechtshulp, en mededelingen dienaangaande, kunnen worden gedaan met
 
 5. Indien een bilateraal rechtshulpverdrag dat tussen een lidstaat en de Verenigde Staten van Amerika op de datum van ondertekening van deze overeenkomst van kracht is, beperkingen toestaat op de verplichting om rechtshulp te verlenen bij bepaalde belastingdelicten, kan de betrokken lidstaat bij de uitwisseling van schriftelijke instrumenten met de Verenigde Staten van Amerika als bedoeld in artikel 3, lid 2, aangeven dat hij, bij dergelijke strafbare feiten, de bepaling inzake gebruiksbeperking van dat verdrag blijft toepassen.
 
-#### Artikel 10. Verzoek om vertrouwelijkheid dat uitgaat van de verzoekende staat
+##### Artikel 10. Verzoek om vertrouwelijkheid dat uitgaat van de verzoekende staat
 
 De aangezochte staat stelt alles in het werk om een verzoek en de inhoud ervan vertrouwelijk te houden, indien de verzoekende staat daarom verzoekt. Indien het verzoek niet kan worden uitgevoerd zonder de verlangde vertrouwelijkheid te schenden, deelt de centrale autoriteit van de aangezochte staat dit mee aan de verzoekende staat, die dan bepaalt of het verzoek desalniettemin moet worden uitgevoerd.
 
-#### Artikel 11. Overleg
+##### Artikel 11. Overleg
 
 De overeenkomstsluitende partijen plegen voorzover nodig overleg opdat zo goed mogelijk gebruik kan worden gemaakt van deze overeenkomst, daaronder begrepen overleg om de oplossing van geschillen over de uitlegging of de toepassing van deze overeenkomst te bevorderen.
 
-#### Artikel 12. Toepassing in de tijd
+##### Artikel 12. Toepassing in de tijd
 
 1. Deze overeenkomst is van toepassing op strafbare feiten die vóór of na de inwerkingtreding ervan zijn gepleegd.
 
 2. Deze overeenkomst is van toepassing op rechtshulpverzoeken die na de inwerkingtreding ervan zijn ingediend. De artikelen 6 en 7 zijn echter van toepassing op verzoeken die in de aangezochte staat op het moment van inwerkingtreding van deze overeenkomst in behandeling zijn.
 
-#### Artikel 13. Non-derogatie
+##### Artikel 13. Non-derogatie
 
 Behoudens artikel 4, lid 5, en artikel 9, lid 2, onder b), laat deze overeenkomst voor de aangezochte staat de mogelijkheid onverlet ten aanzien van het verlenen van rechtshulp weigeringsgronden in te roepen uit hoofde van een bilateraal rechtshulpverdrag, of bij ontstentenis daarvan, van zijn toepasselijke rechtsbeginselen, onder andere wanneer de uitvoering van het verzoek schadelijk zou zijn voor zijn soevereiniteit, veiligheid, openbare orde of andere wezenlijke belangen.
 
-#### Artikel 14. Toekomstige bilaterale rechtshulpverdragen met lidstaten
+##### Artikel 14. Toekomstige bilaterale rechtshulpverdragen met lidstaten
 
 Deze overeenkomst belet niet dat, nadat zij van kracht is geworden, bilaterale overeenkomsten tussen een lidstaat en de Verenigde Staten van Amerika worden gesloten die verenigbaar zijn met de onderhavige overeenkomst.
 
-#### Artikel 15. Aanwijzing en kennisgeving
+##### Artikel 15. Aanwijzing en kennisgeving
 
 1. Indien een ander ministerie dan het ministerie van Justitie krachtens artikel 8, lid 2, onder b), is aangewezen, stelt de Europese Unie de Verenigde Staten van Amerika van die aanwijzing in kennis, voorafgaand aan de uitwisseling van schriftelijke instrumenten tussen de lidstaten en de Verenigde Staten van Amerika zoals omschreven in artikel 3, lid 3.
 
@@ -210,7 +232,7 @@ Deze overeenkomst belet niet dat, nadat zij van kracht is geworden, bilaterale o
 
 3. De overeenkomstsluitende partijen stellen elkaar in kennis van alle uit hoofde van artikel 4, lid 4, ingeroepen beperkingen, voorafgaand aan de uitwisseling van schriftelijke instrumenten tussen de lidstaten en de Verenigde Staten van Amerika zoals omschreven in artikel 3, leden 2 en 3.
 
-#### Artikel 16. Territoriale toepassing
+##### Artikel 16. Territoriale toepassing
 
 1. Deze overeenkomst is van toepassing:
 
@@ -224,11 +246,11 @@ Deze overeenkomst belet niet dat, nadat zij van kracht is geworden, bilaterale o
 
 2. De tot enig gebiedsdeel of land uitgebreide toepassing van deze overeenkomst krachtens lid 1, onder b, kan door elke overeenkomstsluitende partij worden beëindigd door middel van een schriftelijke, naar behoren tussen de betrokken lidstaat en de Verenigde Staten van Amerika bevestigde, kennisgeving langs diplomatieke weg die zes maanden op voorhand aan de andere partij wordt gedaan.
 
-#### Artikel 17. Herziening
+##### Artikel 17. Herziening
 
 De overeenkomstsluitende partijen komen overeen deze Overeenkomst uiterlijk vijf jaar na de inwerkingtreding aan een gemeenschappelijke herziening te onderwerpen. Deze herziening zal in het bijzonder betrekking hebben op de praktische uitvoering van de Overeenkomst en kan ook aangelegenheden behelzen zoals de gevolgen van de verdere ontwikkeling van de Europese Unie met betrekking tot het voorwerp van deze Overeenkomst.
 
-#### Artikel 18. Inwerkingtreding en beëindiging
+##### Artikel 18. Inwerkingtreding en beëindiging
 
 1. Deze Overeenkomst treedt in werking op de eerste dag na de derde maand volgend op de datum waarop de overeenkomstsluitende partijen instrumenten hebben uitgewisseld waaruit blijkt dat zij hun daartoe strekkende interne procedures hebben voltooid. In deze instrumenten wordt tevens aangegeven dat de in artikel 3, leden 2 en 3, bedoelde procedures zijn voltooid.
 

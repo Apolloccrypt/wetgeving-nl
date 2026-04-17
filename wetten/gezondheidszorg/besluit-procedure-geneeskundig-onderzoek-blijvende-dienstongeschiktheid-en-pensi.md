@@ -1,13 +1,39 @@
 ---
-title: "Besluit procedure geneeskundig onderzoek blijvende dienstongeschiktheid en pensioenkeuring militairen"
+title: "Besluit van 23 december 1996, houdende een procedure aangaande een geneeskundig onderzoek naar blijvende dienstongeschiktheid en een pensioenkeuring van militairen (Besluit procedure geneeskundig onderzoek blijvende dienstongeschiktheid en pensioenkeuring militairen)"
 identifier: "BWBR0008475"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2006-08-02
-laatste_update: 2006-08-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008475"
+country: "nl"
+rank: "amvb"
+publication_date: "2006-08-02"
+last_updated: "2006-08-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008475"
+soort: "AMvB"
+stam_id: "232743"
+version_id: "321432"
+internal_id: "C321431"
+label_id: "228234"
+dtd_version: "2.0"
+original_entry_into_force: "1997-02-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008475/2006-08-02/0"
+intitule_bron: "Stb.1997-67"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-12-23"
+intitule_published: "1997-02-20"
+intitule_in_force: "1997-02-20"
+intitule_status: "goed"
+original_publication: "Stb.1997-67"
+original_signed_date: "1996-12-23"
+original_published_date: "1997-02-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-1997-67"
+entry_into_force_date: "1997-02-21"
+jci_1_3: "jci1.3:c:BWBR0008475&z=2006-08-02&g=2006-08-02"
+jci_1_0: "1.0:c:BWBR0008475&g=2006-08-02"
+citeertitel_status: "officieel"
+short_title: "Besluit procedure geneeskundig onderzoek blijvende dienstongeschiktheid en pensioenkeuring militairen"
+signed_date: "1996-12-23"
+entry_into_force: "1997-02-21"
 ---
-
 # Besluit van 23 december 1996, houdende een procedure aangaande een geneeskundig onderzoek naar blijvende dienstongeschiktheid en een pensioenkeuring van militairen (Besluit procedure geneeskundig onderzoek blijvende dienstongeschiktheid en pensioenkeuring militairen)
 
 Op de voordracht van de Staatssecretaris van Defensie van 26 juli 1996, nr. P/96002773;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 #### Paragraaf 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -40,7 +66,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 2. Het geneeskundig onderzoek naar blijvende dienstongeschiktheid
 
-#### Artikel 2
+##### Artikel 2
 
 1. In geval van langdurig arbeidsverzuim dient voorafgaand aan het geneeskundig onderzoek naar blijvende dienstongeschiktheid uiterlijk in de 26e week na de eerste dag van het arbeidsverzuim een eerste beoordeling plaats te vinden omtrent de vraag of de betreffende militair moet worden voorgedragen voor een dergelijk geneeskundig onderzoek. Deze beoordeling vindt plaats op een door de geneeskundige autoriteit te bepalen wijze. Zo nodig wordt deze beoordeling in de twaalfde maand herhaald.
 
@@ -48,7 +74,7 @@ In dit besluit wordt verstaan onder:
 
 3. Van de opdracht genoemd in het vorige lid doet de geneeskundige autoriteit mededeling aan de pensioenverzekeringsautoriteit.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een al dan niet na langdurig ziekteverzuim te houden geneeskundig onderzoek, als ook een herhaald geneeskundig onderzoek naar blijvende dienstongeschiktheid, wordt ingesteld door een commissie, welke bestaat uit ten minste drie artsen, waarvan de voorzitter, tevens lid, en de overige leden worden aangewezen door de geneeskundige autoriteit.
 
@@ -58,15 +84,15 @@ In dit besluit wordt verstaan onder:
 
 - b. zo mogelijk als lid een hoofdofficier wordt aangewezen.
 
-#### Artikel 4
+##### Artikel 4
 
 Aan de te onderzoeken militair wordt bij de schriftelijke oproep voor een geneeskundig of herhaald geneeskundig onderzoek naar blijvende dienstongeschiktheid door de voorzitter van de commissie bekend gemaakt met welk doel het onderzoek zal plaatsvinden.
 
-#### Artikel 5
+##### Artikel 5
 
 Indien de te onderzoeken militair door zijn toestand verhinderd is te verschijnen op de door de voorzitter van de commissie bepaalde zittingsplaats, bepaalt de voorzitter waar en op welke wijze het geneeskundig of herhaald geneeskundig onderzoek naar blijvende dienstongeschiktheid alsdan zal plaatsvinden.
 
-#### Artikel 6
+##### Artikel 6
 
 De militaire autoriteiten zijn, met inachtneming van de op de Wet persoonsregistraties gebaseerde privacyreglementen, verplicht aan de voorzitter van de commissie op diens verzoek toe te zenden een staat van dienst betreffende de te onderzoeken militair en hem voorts die gegevens te verstrekken, welke de commissie nodig acht, in het bijzonder:
 
@@ -74,11 +100,11 @@ De militaire autoriteiten zijn, met inachtneming van de op de Wet persoonsregist
 
 - b. een verslag van de reïntegratieactiviteiten van het krijgsmachtdeel en eventueel externe diensten;
 
-#### Artikel 7
+##### Artikel 7
 
 De commissie beoordeelt een militair op het bestaan van blijvende ongeschiktheid voor het vervullen van de militaire dienst met inachtneming van het [Militair keuringsreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0002346).
 
-#### Artikel 8
+##### Artikel 8
 
 1. De commissie brengt aangaande het geneeskundig onderzoek en het herhaald geneeskundig onderzoek naar blijvende dienstongeschiktheid een rapport uit. Het rapport omvat een onderbouwde uitspraak omtrent de al dan niet blijvende dienstongeschiktheid van de militair en de gegevens waarop deze uitspraak is gebaseerd en voor het herhaald geneeskundig onderzoek een nadere beschouwing met betrekking tot de door de militair aangevoerde redenen van zijn verzet.
 
@@ -88,7 +114,7 @@ De commissie beoordeelt een militair op het bestaan van blijvende ongeschiktheid
 
 4. De voorzitter van de commissie zendt het rapport alsmede eventuele nota’s als genoemd in het derde lid, naar de geneeskundige autoriteit.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De geneeskundige autoriteit kan de commissie opdragen het rapport nader te motiveren, zo nodig na een op zijn last voortgezet onderzoek.
 
@@ -98,17 +124,17 @@ De commissie beoordeelt een militair op het bestaan van blijvende ongeschiktheid
 
 4. Binnen zes weken na de dag waarop de militair in kennis is gesteld van de uitspraak genoemd in het derde lid, kan de militair daartegen bij Onze Minister schriftelijk en met redenen omkleed in verzet komen, waarna binnen zes weken na de datum van ontvangst een herhaald geneeskundig onderzoek kan worden ingesteld.
 
-#### Artikel 10
+##### Artikel 10
 
 In bijzondere gevallen kan Onze Minister bepalen dat hem het volledige rapport wordt toegezonden met het oog op een integrale herbeoordeling van de uitspraak van de geneeskundige autoriteit, door een door hem aangewezen functionaris belast met de taak om namens hem op te treden in medische zaken.
 
-#### Artikel 11
+##### Artikel 11
 
 Onze Minister kan bepalen, dat een onderzoek ten aanzien van een dienstplichtige door een keuringsraad wordt aangemerkt als een geneeskundig onderzoek.
 
 #### Paragraaf 3. De pensioenkeuring
 
-#### Artikel 12
+##### Artikel 12
 
 1. De pensioenverzekeringsautoriteit kan bij de vaststelling van de aanspraken van de militair, ter vervanging van een eigen pensioenkeuring gebruik maken van een geneeskundig onderzoek door de commissie.
 
@@ -118,7 +144,7 @@ Onze Minister kan bepalen, dat een onderzoek ten aanzien van een dienstplichtige
 
 4. In voorkomend geval kan de commissie tevens gevraagd worden een advies uit te brengen omtrent de vraag of en zo ja in hoeverre na ontslag alsnog sprake is van verwonding, ziekten of gebreken als bedoeld in de bij of krachtens [Kaderwet militaire pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0011955) vastgestelde bepalingen inzake invaliditeit met dienstverband.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Bij de vaststelling van de mate van invaliditeit met dienstverband als bedoeld in de bij of krachtens [Kaderwet militaire pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0011955) vastgestelde bepalingen wordt uitgegaan van de War Pensions Committee-schaal zoals in de bijlage opgenomen.
 
@@ -126,15 +152,15 @@ Onze Minister kan bepalen, dat een onderzoek ten aanzien van een dienstplichtige
 
 #### Paragraaf 4. Slotbepalingen
 
-#### Artikel 14
+##### Artikel 14
 
 Het Besluit procedure geneeskundig onderzoek militairen wordt ingetrokken.
 
-#### Artikel 15
+##### Artikel 15
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van in het **Staatsblad** waarin het wordt geplaatst.
 
-#### Artikel 16
+##### Artikel 16
 
 Dit besluit kan worden aangehaald als: Besluit procedure geneeskundig onderzoek blijvende dienstongeschiktheid en pensioenkeuring militairen.
 

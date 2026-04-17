@@ -1,13 +1,39 @@
 ---
-title: "Regeling omzetting scores in cijfers VO"
+title: "Regeling van het College voor Toetsen en Examens van 30 november 2015, nummer CvTE-15.02159, houdende vaststelling van regels voor de omzetting van scores in cijfers bij centrale examens en de rekentoets in het voortgezet onderwijs (Regeling omzetting scores in cijfers centrale examens en rekentoets VO 2016)"
 identifier: "BWBR0037590"
-categorie: "Overig"
-publicatiedatum: 2024-03-09
-laatste_update: 2024-03-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037590"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-03-09"
+last_updated: "2024-03-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037590"
+soort: "zbo"
+stam_id: "13407933"
+version_id: "25707362"
+internal_id: "C36670521"
+label_id: "13375584"
+dtd_version: "2.0"
+original_entry_into_force: "2019-02-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037590/2024-03-09/0"
+intitule_bron: "Stcrt.2016-4817"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-11-30"
+intitule_published: "2016-02-04"
+intitule_in_force: "2016-02-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-9325"
+original_signed_date: "2018-11-26"
+original_published_date: "2019-02-21"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2019-9325"
+entry_into_force_date: "2019-02-22"
+jci_1_3: "jci1.3:c:BWBR0037590&z=2024-03-09&g=2024-03-09"
+jci_1_0: "1.0:c:BWBR0037590&g=2024-03-09"
+citeertitel_status: "officieel"
+short_title: "Regeling omzetting scores in cijfers VO"
+signed_date: "2018-11-26"
+entry_into_force: "2019-02-22"
 ---
-
 # Regeling van het College voor Toetsen en Examens van 30 november 2015, nummer CvTE-15.02159, houdende vaststelling van regels voor de omzetting van scores in cijfers bij centrale examens en de rekentoets in het voortgezet onderwijs (Regeling omzetting scores in cijfers centrale examens en rekentoets VO 2016)
 
 Gelet op [artikel 2, tweede lid, aanhef en onderdeel e, en lid 2a van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2);
@@ -16,27 +42,27 @@ Gezien de goedkeuring van de Staatsecretaris van Onderwijs, Cultuur en Wetenscha
 
 Besluit:
 
-#### Artikel 1. centrale examens VO
+##### Artikel 1. centrale examens VO
 
 De omzetting van scores in cijfers bij centrale examens VO, bedoeld in [artikel 2, tweede lid, onderdeel e, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2) geschiedt op de in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037590&bijlage=1&z=2024-03-09&g=2024-03-09) bij deze regeling vastgestelde wijze.
 
-#### Artikel 2. rekentoets VO
+##### Artikel 2. rekentoets VO
 
 Vervallen
 
-#### Artikel 3. tijdelijke speelruimte centraal schriftelijk en praktisch examen
+##### Artikel 3. tijdelijke speelruimte centraal schriftelijk en praktisch examen
 
 Vervallen
 
-#### Artikel 4. inwerkingtreding
+##### Artikel 4. inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de eerste dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 5. intrekking
+##### Artikel 5. intrekking
 
 De [Regeling omzetting scores in cijfers centrale examens en rekentoets VO 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036522) van 9 februari 2015, wordt ingetrokken.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling wordt aangehaald als: Regeling omzetting scores in cijfers VO.
 

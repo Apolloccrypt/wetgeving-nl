@@ -1,13 +1,39 @@
 ---
-title: "Besluit introductie premiepensioeninstellingen"
+title: "Besluit van 23 december 2010, houdende wijziging van het Besluit Markttoegang financiële ondernemingen Wft, het Besluit prudentiële regels Wft, het Besluit Gedragstoezicht financiële ondernemingen Wft, het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling, het Besluit financieel toetsingskader pensioenfondsen en het Vrijstellings- en boetebesluit Wet Bpf 2000, ter nadere invulling van de eisen die worden gesteld op grond van de Wet introductie premiepensioeninstellingen (Besluit introductie premiepensioeninstellingen)"
 identifier: "BWBR0029354"
-categorie: "Bestuursrecht"
-publicatiedatum: 2011-01-01
-laatste_update: 2011-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029354"
+country: "nl"
+rank: "amvb"
+publication_date: "2011-01-01"
+last_updated: "2011-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029354"
+soort: "AMvB"
+stam_id: "11188693"
+version_id: "18307932"
+internal_id: "C25505371"
+label_id: "11162884"
+dtd_version: "2.0"
+original_entry_into_force: "2011-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029354/2011-01-01/0"
+intitule_bron: "Stb.2010-888"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-12-23"
+intitule_published: "2010-12-30"
+intitule_in_force: "2010-12-30"
+intitule_status: "goed"
+original_publication: "Stb.2010-888"
+original_signed_date: "2010-12-23"
+original_published_date: "2010-12-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-888"
+entry_into_force_date: "2011-01-01"
+jci_1_3: "jci1.3:c:BWBR0029354&z=2011-01-01&g=2011-01-01"
+jci_1_0: "1.0:c:BWBR0029354&g=2011-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit introductie premiepensioeninstellingen"
+signed_date: "2010-12-23"
+entry_into_force: "2011-01-01"
 ---
-
 # Besluit van 23 december 2010, houdende wijziging van het Besluit Markttoegang financiële ondernemingen Wft, het Besluit prudentiële regels Wft, het Besluit Gedragstoezicht financiële ondernemingen Wft, het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling, het Besluit financieel toetsingskader pensioenfondsen en het Vrijstellings- en boetebesluit Wet Bpf 2000, ter nadere invulling van de eisen die worden gesteld op grond van de Wet introductie premiepensioeninstellingen (Besluit introductie premiepensioeninstellingen)
 
 Op de voordracht van Onze Minister van Financiën van 14 juli 2010, nr. FM 2010-4842 M, gedaan mede namens Onze Minister van Sociale Zaken en Werkgelegenheid;
@@ -20,35 +46,35 @@ Gezien het nader rapport van Onze Minister van Financiën, uitgebracht mede name
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Besluit Markttoegang financiële ondernemingen Wft.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Besluit prudentiële regels Wft.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Besluit Gedragstoezicht financiële ondernemingen Wft.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Besluit financieel toetsingskader pensioenfondsen.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt het Vrijstellings- en boetebesluit Wet Bpf 2000.
 
-#### Artikel VII
+##### Artikel VII
 
 De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Dit besluit wordt aangehaald als: Besluit introductie premiepensioeninstellingen.
 

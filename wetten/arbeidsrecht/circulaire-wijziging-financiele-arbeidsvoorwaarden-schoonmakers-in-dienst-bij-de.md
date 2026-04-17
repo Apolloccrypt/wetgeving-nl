@@ -1,13 +1,38 @@
 ---
 title: "Circulaire wijziging financiële arbeidsvoorwaarden schoonmakers in dienst bij de Rijksschoonmaakorganisatie"
 identifier: "BWBR0042345"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2019-06-28
-laatste_update: 2019-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042345"
+country: "nl"
+rank: "circulaire"
+publication_date: "2019-06-28"
+last_updated: "2019-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042345"
+soort: "circulaire"
+stam_id: "15110593"
+version_id: "25901442"
+internal_id: "C36910001"
+label_id: "15058904"
+dtd_version: "2.0"
+original_entry_into_force: "2019-06-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042345/2019-06-28/0"
+intitule_bron: "Stcrt.2019-35447"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-06-19"
+intitule_published: "2019-06-28"
+intitule_in_force: "2019-06-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-35447"
+original_signed_date: "2019-06-19"
+original_published_date: "2019-06-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-35447"
+entry_into_force_date: "2019-06-28"
+jci_1_3: "jci1.3:c:BWBR0042345&z=2019-06-28&g=2019-06-28"
+jci_1_0: "1.0:c:BWBR0042345&g=2019-06-28"
+citeertitel_status: "redactioneel"
+signed_date: "2019-06-19"
+entry_into_force: "2019-06-28"
 ---
-
 # Circulaire wijziging financiële arbeidsvoorwaarden schoonmakers in dienst bij de Rijksschoonmaakorganisatie
 
 De Rijksoverheid is in 2016 de schoonmaakwerkzaamheden bij het Rijk in eigen beheer gaan uitvoeren. Daartoe is de Rijksschoonmaakorganisatie (RSO) opgericht. Op 6 februari 2015 is de Overeenkomst Arbeidsvoorwaarden Rijksschoonmaakorganisatie (verder: de Overeenkomst) gesloten over de arbeidsvoorwaarden van schoonmakers die vanuit de marksector overkomen naar de Rijksschoonmaakorganisatie. Uitgangspunt van de Overeenkomst is dat de betrokken schoonmakers ervoor wat betreft de hoogte van het salaris niet op achteruit zullen gaan bij de overgang naar het Rijk. Uitvoering van die afspraken vergde enige aanpassing van de bestaande arbeidsvoorwaardelijke regelgeving. Deze aanpassingen zijn geregeld via het [Besluit van 14 december 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037438) (Stb 2015, 531) en daarbij zijn de salaristabellen voor de schoonmakers in dienst van de Rijksschoonmaakorganisatie vastgelegd in van [bijlage C van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=C) (BBRA 1984).

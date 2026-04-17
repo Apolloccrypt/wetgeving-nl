@@ -1,13 +1,35 @@
 ---
-title: "Besluit ex artikel 5 Instellingswet Productschap voor Vis en Visproducten"
+title: "Besluit van 1 december 1958, houdende uitvoering van artikel 5, eerste lid, onder a, van de Instellingswet Productschap voor Vis en Visproducten"
 identifier: "BWBR0002303"
-categorie: "Overig"
-publicatiedatum: 1959-01-01
-laatste_update: 1959-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002303"
+country: "nl"
+rank: "kb"
+publication_date: "1959-01-01"
+last_updated: "1959-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002303"
+soort: "KB"
+stam_id: "419493"
+version_id: "615732"
+internal_id: "C615731"
+label_id: "408234"
+dtd_version: "2.0"
+original_entry_into_force: "1959-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002303/1959-01-01/0"
+intitule_bron: "Stb.1958-557"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1958-12-01"
+intitule_status: "goed"
+original_publication: "Stb.1958-557"
+original_signed_date: "1958-12-01"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1959-01-01"
+jci_1_3: "jci1.3:c:BWBR0002303&z=1959-01-01&g=1959-01-01"
+jci_1_0: "1.0:c:BWBR0002303&g=1959-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit ex artikel 5 Instellingswet Productschap voor Vis en Visproducten"
+signed_date: "1958-12-01"
+entry_into_force: "1959-01-01"
 ---
-
 # Besluit van 1 december 1958, houdende uitvoering van artikel 5, eerste lid, onder a, van de Instellingswet Productschap voor Vis en Visproducten
 
 Op de voordracht van de Staatssecretaris van Binnenlandse Zaken, Bezitsvorming en Publiekrechtelijke Bedrijfsorganisatie en van Onze Ministers van Landbouw, Visserij en Voedselvoorziening en van Economische Zaken van 25 november 1958, no. U 2077, afdeling Publiekrechtelijke Bedrijfsorganisatie;
@@ -18,7 +40,7 @@ Gelet op artikel 5, eerste lid, onder **a**, van de Instellingswet Productschap 
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 Onder aangelegenheden, verband houdende met het economisch verkeer tussen verschillende stadia van voortbrenging en afzet, als bedoeld in artikel 5, eerste lid, onder **a**, van de [Instellingswet Productschap voor Vis en Visproducten](https://wetten.overheid.nl/jci1.3:c:BWBR0002220) (**Stb.** 1956, 332) zijn begrepen:
 
@@ -28,7 +50,7 @@ Onder aangelegenheden, verband houdende met het economisch verkeer tussen versch
 
 - c. de prijzen, waartegen vis, andere dan mosselen, en visprodukten, een en ander voor zover zij tot menselijk voedsel kunnen dienen, aan buitenlandse afnemers ten minste moeten worden afgezet.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van 1 januari 1959.
 

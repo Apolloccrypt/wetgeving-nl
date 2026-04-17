@@ -1,13 +1,35 @@
 ---
-title: "Geheimhoudingsbesluit Kernenergiewet"
+title: "Besluit van 17 juni 1971, houdende toepassing van artikel 68 van de Kernenergiewet"
 identifier: "BWBR0002768"
-categorie: "Bestuursrecht"
-publicatiedatum: 2018-02-06
-laatste_update: 2018-02-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002768"
+country: "nl"
+rank: "amvb"
+publication_date: "2018-02-06"
+last_updated: "2018-02-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002768"
+soort: "AMvB"
+stam_id: "326443"
+version_id: "473932"
+internal_id: "C473931"
+label_id: "319424"
+dtd_version: "2.0"
+original_entry_into_force: "1971-07-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002768/2018-02-06/0"
+intitule_bron: "Stb.1971-420"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1971-06-17"
+intitule_status: "goed"
+original_publication: "Stb.1971-420"
+original_signed_date: "1971-06-17"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1971-07-03"
+jci_1_3: "jci1.3:c:BWBR0002768&z=2018-02-06&g=2018-02-06"
+jci_1_0: "1.0:c:BWBR0002768&g=2018-02-06"
+citeertitel_status: "officieel"
+short_title: "Geheimhoudingsbesluit Kernenergiewet"
+signed_date: "1971-06-17"
+entry_into_force: "1971-07-03"
 ---
-
 # Besluit van 17 juni 1971, houdende toepassing van artikel 68 van de Kernenergiewet
 
 Op de voordracht van Onze Ministers van Economische Zaken en van Defensie van 28 april 1971, no. 671/222 W.J.A., gedaan in overeenstemming met Onze Ministers van Buitenlandse Zaken, van Binnenlandse Zaken, van Verkeer en Waterstaat en van Justitie, de Centrale Raad voor de Kernenergie gehoord;
@@ -20,7 +42,7 @@ Gezien het nader rapport van Onze Ministers van Economische Zaken en van Defensi
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Dit besluit geldt ten aanzien van:
 
@@ -58,7 +80,7 @@ Hebben goedgevonden en verstaan:
 
 4. Indien een aanwijzing op grond van het eerste lid, onder **a** of **b**, niet uitdrukkelijk tot een of meer bepaalde personen is gericht, wordt zij in de **Staatscourant** bekend gemaakt.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Degene, die beschikt over gegevens, hulpmiddelen of materialen, dan wel onderzoekingen verricht of werkmethoden toepast, ten aanzien waarvan dit besluit geldt, is verplicht ervoor zorg te dragen, dat de maatregelen worden getroffen, welke redelijkerwijs nodig zijn om ten aanzien van de betrokken gegevens, hulpmiddelen, materialen, onderzoekingen of werkmethoden de geheimhouding te verzekeren.
 
@@ -82,7 +104,7 @@ Hebben goedgevonden en verstaan:
 
 4. In het tweede en derde lid wordt onder Onze Ministers verstaan Onze Ministers, van wie of met wier instemming de betrokken gegevens, hulpmiddelen of materialen onder verplichting tot geheimhouding zijn verkregen, dan wel Onze Ministers, die de betrokken gegevens, hulpmiddelen, materialen, onderzoekingen of werkmethoden op grond van [artikel 1, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0002768&artikel=1&z=2018-02-06&g=2018-02-06), hebben aangewezen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Dit besluit kan worden aangehaald als: Geheimhoudingsbesluit Kernenergiewet.
 

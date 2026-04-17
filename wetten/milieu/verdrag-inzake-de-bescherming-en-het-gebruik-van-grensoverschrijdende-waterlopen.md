@@ -1,13 +1,38 @@
 ---
 title: "Verdrag inzake de bescherming en het gebruik van grensoverschrijdende waterlopen en internationale meren"
 identifier: "BWBV0001174"
-categorie: "Milieu"
-publicatiedatum: 2013-02-06
-laatste_update: 1996-10-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001174"
+country: "nl"
+rank: "verdrag"
+publication_date: "2013-02-06"
+last_updated: "1996-10-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001174"
+soort: "verdrag"
+stam_id: "10002288993"
+version_id: "10002313362"
+internal_id: "C10006976241"
+label_id: "10002279474"
+dtd_version: "2.0"
+original_entry_into_force: "1996-10-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001174/2013-02-06/0"
+intitule_bron: "Trb.1992-199"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-03-14"
+intitule_published: "1992-12-09"
+intitule_in_force: "1996-11-13"
+intitule_status: "goed"
+original_publication: "Trb.1992-199"
+original_signed_date: "1995-03-14"
+original_published_date: "1992-12-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1992-199"
+entry_into_force_date: "1996-10-06"
+jci_1_3: "jci1.3:c:BWBV0001174&z=2013-02-06&g=2013-02-06"
+jci_1_0: "1.0:c:BWBV0001174&g=2013-02-06"
+citeertitel_status: "redactioneel"
+signed_date: "1995-03-14"
+entry_into_force: "1996-10-06"
 ---
-
 # Verdrag inzake de bescherming en het gebruik van grensoverschrijdende waterlopen en internationale meren
 
 Preambule
@@ -32,7 +57,7 @@ Beklemtonend dat de samenwerking tussen de landen die lid zijn ten aanzien van d
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -52,7 +77,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 ## DEEL I. BEPALINGEN DIE VOOR ALLE PARTIJEN GELDEN
 
-#### Artikel 2. Algemene bepalingen
+##### Artikel 2. Algemene bepalingen
 
 1. De Partijen nemen alle passende maatregelen om grensoverschrijdende effecten te voorkomen, te beheersen en te verminderen.
 
@@ -84,7 +109,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 8. De bepalingen van dit Verdrag doen geen afbreuk aan het recht van Partijen om afzonderlijk of gezamenlijk strengere maatregelen te nemen en toe te passen dan voorzien in dit Verdrag.
 
-#### Artikel 3. Voorkoming, beheersing en vermindering
+##### Artikel 3. Voorkoming, beheersing en vermindering
 
 1. Ter voorkoming, beheersing en vermindering van grensoverschrijdende effecten dienen de Partijen desbetreffende wettelijke, bestuurlijke, economische, financiële en technische maatregelen uit te werken, aan te nemen, toe te passen en, voor zover mogelijk, op elkaar af te stemmen, ten einde onder andere te waarborgen dat:
 
@@ -116,11 +141,11 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 3. Daarnaast formuleert elke Partij, waar passend, doelstellingen voor de waterkwaliteit en stelt zij normen voor de waterkwaliteit ten behoeve van de voorkoming, beheersing en vermindering van grensoverschrijdende effecten. Algemene richtlijnen voor het uitwerken van die doelstellingen en normen worden gegeven in Bijlage III bij dit Verdrag. De Partijen streven ernaar deze Bijlage, wanneer nodig, bij te werken.
 
-#### Artikel 4. Controle
+##### Artikel 4. Controle
 
 De Partijen stellen programma's op voor het controleren van de toestand van grensoverschrijdende wateren.
 
-#### Artikel 5. Onderzoek en ontwikkeling
+##### Artikel 5. Onderzoek en ontwikkeling
 
 De Partijen werken samen bij het verrichten van onderzoek naar en de ontwikkeling van doeltreffende technieken voor de voorkoming, beheersing en vermindering van grensoverschrijdende effecten. Hiertoe streven de Partijen ernaar, op bilaterale en/of multilaterale basis, rekening houdend met onderzoekswerkzaamheden die worden verricht binnen desbetreffende internationale fora, specifieke onderzoeksprogramma's op te zetten of te intensiveren, waar nodig, onder andere gericht op:
 
@@ -142,21 +167,21 @@ De Partijen werken samen bij het verrichten van onderzoek naar en de ontwikkelin
 
 De resultaten van deze onderzoeksprogramma's worden tussen de Partijen uitgewisseld in overeenstemming met artikel 6 van dit Verdrag.
 
-#### Artikel 6. Uitwisseling van informatie
+##### Artikel 6. Uitwisseling van informatie
 
 De Partijen dragen zorg voor een zo omvattend mogelijke uitwisseling van informatie, zo vroegtijdig mogelijk, over onderwerpen waarop de bepalingen van dit Verdrag betrekking hebben.
 
-#### Artikel 7. Verantwoordelijkheid en aansprakelijkheid
+##### Artikel 7. Verantwoordelijkheid en aansprakelijkheid
 
 De Partijen ondersteunen passende internationale inspanningen om regels, normen en procedures op te stellen op het gebied van verantwoordelijkheid en aansprakelijkheid.
 
-#### Artikel 8. Bescherming van informatie
+##### Artikel 8. Bescherming van informatie
 
 De bepalingen van dit Verdrag doen geen afbreuk aan de rechten of de verplichtingen die de Partijen hebben, uit hoofde van hun nationale wetgeving en toepasselijke supranationale regelingen, om informatie te beschermen in verband met de industriële en commerciële geheimhouding, met inbegrip van de intellectuele eigendom, of de nationale veiligheid.
 
 ## DEEL II. BEPALINGEN DIE GELDEN VOOR OEVERSTATEN
 
-#### Artikel 9. Bilaterale en multilaterale samenwerking
+##### Artikel 9. Bilaterale en multilaterale samenwerking
 
 1. De Oeverstaten gaan op basis van gelijkheid en wederkerigheid bilaterale of multilaterale overeenkomsten of andere regelingen aan, waar deze nog niet bestaan, of passen bestaande overeenkomsten of andere regelingen aan, waar nodig om bepalingen die in strijd zijn met de grondslagen van dit Verdrag eruit te verwijderen, ten einde hun onderlinge betrekkingen en hun gedragingen aangaande de voorkoming, beheersing en vermindering van grensoverschrijdende effecten te definiëren. De Oeverstaten specificeren de stroomgebieden, of delen daarvan, ten aanzien van welke zij samenwerken. Deze overeenkomsten of regelingen dienen de onderwerpen te omvatten die onder dit Verdrag vallen, alsmede overige onderwerpen ten aanzien van welke de Oeverstaten samenwerking nodig kunnen achten.
 
@@ -188,11 +213,11 @@ De bepalingen van dit Verdrag doen geen afbreuk aan de rechten of de verplichtin
 
 5. Waar twee of meer commissies bestaan in hetzelfde stroomgebied, streven zij naar afstemming van hun werkzaamheden, ten einde de voorkoming, beheersing en vermindering van grensoverschrijdende effecten binnen dat stroomgebied te intensiveren.
 
-#### Artikel 10. Overleg
+##### Artikel 10. Overleg
 
 Tussen de Oeverstaten wordt overleg gepleegd op basis van wederkerigheid, goed vertrouwen en goed nabuurschap, indien een van hen daarom verzoekt. Dat overleg is gericht op samenwerking ten aanzien van de onderwerpen die onder de bepalingen van dit Verdrag vallen. Het overleg wordt steeds gevoerd door tussenkomst van een krachtens artikel 9 van dit Verdrag opgerichte commissie, waar deze bestaat.
 
-#### Artikel 11. Gemeenschappelijke controle en beoordeling
+##### Artikel 11. Gemeenschappelijke controle en beoordeling
 
 1. In het kader van de in artikel 9 van dit Verdrag bedoelde algemene samenwerking, dan wel in het kader van specifieke regelingen, gaan de Oeverstaten over tot het opstellen en uitvoeren van gemeenschappelijke programma's voor het controleren van de toestand van grensoverschrijdende wateren, met inbegrip van hoogwater en ijsgang, alsmede het controleren van grensoverschrijdende effecten.
 
@@ -202,11 +227,11 @@ Tussen de Oeverstaten wordt overleg gepleegd op basis van wederkerigheid, goed v
 
 4. Hiertoe harmoniseren de Oeverstaten de voorschriften voor het opstellen en het gebruik van controleprogramma's, meetsystemen, instrumenten, analysetechnieken, procedures voor gegevensverwerking en -evaluatie, en methoden voor de registratie van verontreinigende stoffen die worden geloosd.
 
-#### Artikel 12. Gezamenlijke onderzoeks- en ontwikkelingswerkzaamheden
+##### Artikel 12. Gezamenlijke onderzoeks- en ontwikkelingswerkzaamheden
 
 In het kader van de in artikel 9 van dit Verdrag bedoelde algemene samenwerking, of in het kader van specifieke regelingen, ondernemen de Oeverstaten specifieke onderzoeks- en ontwikkelingswerkzaamheden ter ondersteuning van het verwezenlijken van en het blijven voldoen aan de doelstellingen en normen betreffende de waterkwaliteit die zij in onderlinge overeenstemming hebben bepaald en aangenomen.
 
-#### Artikel 13. Uitwisseling van informatie tussen Oeverstaten
+##### Artikel 13. Uitwisseling van informatie tussen Oeverstaten
 
 1. De Oeverstaten wisselen, in het kader van desbetreffende overeenkomsten of andere regelingen overeenkomstig artikel 9 van dit Verdrag, redelijkerwijs beschikbare gegevens uit over, onder andere:
 
@@ -226,11 +251,11 @@ In het kader van de in artikel 9 van dit Verdrag bedoelde algemene samenwerking,
 
 4. Ten behoeve van de toepassing van dit Verdrag bevorderen de Oeverstaten de uitwisseling van de beste beschikbare technologie, met name door het bevorderen van: de commerciële uitwisseling van beschikbare technologie; rechtstreekse contacten en samenwerking tussen industrieën, met inbegrip van gezamenlijke projecten, de uitwisseling van informatie en ervaring; en de verlening van technische bijstand. De Oeverstaten organiseren ook gezamenlijke opleidingsprogramma's en de relevante studiebijeenkomsten en vergaderingen.
 
-#### Artikel 14. Waarschuwings- en alarmsystemen
+##### Artikel 14. Waarschuwings- en alarmsystemen
 
 De Oeverstaten stellen elkaar onverwijld op de hoogte van eventuele kritieke situaties die grensoverschrijdende effecten kunnen hebben. De Oeverstaten installeren, waar passend, en gebruiken gecoördineerde of gemeenschappelijke communicatie-, waarschuwings- en alarmsystemen, voor het verkrijgen en doorgeven van informatie. Deze systemen werken op basis van door de Oeverstaten overeen te komen compatibele procedures en voorzieningen voor het doorgeven en behandelen van gegevens. De Oeverstaten lichten elkaar in omtrent de bevoegde autoriteiten of voor dit doel aangewezen contactpunten.
 
-#### Artikel 15. Wederzijdse bijstand
+##### Artikel 15. Wederzijdse bijstand
 
 1. Indien een kritieke situatie zich mocht voordoen, verlenen de Oeverstaten elkaar op verzoek wederzijdse bijstand, waarbij zij de overeenkomstig het tweede lid van dit artikel vast te stellen procedures volgen.
 
@@ -244,7 +269,7 @@ De Oeverstaten stellen elkaar onverwijld op de hoogte van eventuele kritieke sit
 
 - d. methoden voor het vergoeden van verleende bijstand.
 
-#### Artikel 16. Openbare informatie
+##### Artikel 16. Openbare informatie
 
 1. De Oeverstaten waarborgen dat informatie over de toestand van grensoverschrijdende wateren, over genomen of voorgenomen maatregelen ter voorkoming, beheersing en vermindering van grensoverschrijdende effecten, en over de doeltreffendheid van die maatregelen, openbaar wordt gemaakt. Hiertoe waarborgen de Oeverstaten dat de volgende informatie openbaar wordt gemaakt:
 
@@ -258,7 +283,7 @@ De Oeverstaten stellen elkaar onverwijld op de hoogte van eventuele kritieke sit
 
 ## DEEL III. INSTITUTIONELE BEPALINGEN EN SLOTBEPALINGEN
 
-#### Artikel 17. Vergaderingen van de Partijen
+##### Artikel 17. Vergaderingen van de Partijen
 
 1. De eerste vergadering van de Partijen wordt uiterlijk een jaar na de datum van inwerkingtreding van dit Verdrag belegd. Daarna worden iedere drie jaar gewone vergaderingen gehouden, of met kortere tussenpozen zoals bepaald in het reglement van orde. De Partijen beleggen een buitengewone vergadering indien zij daartoe tijdens een gewone vergadering besluiten, of op schriftelijk verzoek van een Partij, mits dit verzoek, binnen zes maanden nadat het aan alle Partijen is toegezonden, door ten minste een derde van de Partijen wordt gesteund.
 
@@ -276,13 +301,13 @@ De Oeverstaten stellen elkaar onverwijld op de hoogte van eventuele kritieke sit
 
 - f. het bespreken en treffen van alle overige maatregelen die vereist kunnen zijn voor de verwezenlijking van de doeleinden van dit Verdrag.
 
-#### Artikel 18. Stemrecht
+##### Artikel 18. Stemrecht
 
 1. Behoudens het bepaalde in het tweede lid van dit artikel heeft elke Partij bij dit Verdrag één stem.
 
 2. Regionale organisaties voor economische integratie oefenen ten aanzien van aangelegenheden die onder hun bevoegdheid vallen hun stemrecht uit met een aantal stemmen dat gelijk is aan het aantal van hun lidstaten die Partij zijn bij het Verdrag. Deze organisaties oefenen hun stemrecht niet uit indien hun lidstaten hun stemrecht uitoefenen, en omgekeerd.
 
-#### Artikel 19. Secretariaat
+##### Artikel 19. Secretariaat
 
 De Uitvoerend Secretaris van de Economische Commissie voor Europa verricht de volgende secretariaatstaken:
 
@@ -292,11 +317,11 @@ De Uitvoerend Secretaris van de Economische Commissie voor Europa verricht de vo
 
 - c. het verrichten van overige taken die worden vastgesteld door de Partijen.
 
-#### Artikel 20. Bijlagen
+##### Artikel 20. Bijlagen
 
 De bijlagen bij dit Verdrag vormen een integrerend onderdeel van het Verdrag.
 
-#### Artikel 21. Wijziging van het Verdrag
+##### Artikel 21. Wijziging van het Verdrag
 
 1. Iedere Partij kan voorstellen doen tot wijziging van dit Verdrag.
 
@@ -306,7 +331,7 @@ De bijlagen bij dit Verdrag vormen een integrerend onderdeel van het Verdrag.
 
 4. Een wijziging van dit Verdrag wordt aangenomen met consensus van de vertegenwoordigers van de Partijen bij dit Verdrag die aanwezig zijn tijdens een vergadering van de Partijen, en treedt ten aanzien van de Partijen bij dit Verdrag die de wijziging hebben aanvaard, in werking op de negentigste dag na de datum waarop twee derde van die Partijen hun akten van aanvaarding van de wijziging bij de Depositaris hebben nedergelegd. Voor iedere andere Partij treedt de wijziging in werking op de negentigste dag na de datum waarop die Partij haar akte van aanvaarding van de wijziging nederlegt.
 
-#### Artikel 22. Geschillenregeling
+##### Artikel 22. Geschillenregeling
 
 1. Indien tussen twee of meer Partijen een geschil ontstaat over de uitlegging of de toepassing van dit Verdrag, trachten zij dit op te lossen door onderhandeling of volgens een andere voor de partijen bij het geschil aanvaardbare methode voor de regeling van geschillen.
 
@@ -318,15 +343,15 @@ De bijlagen bij dit Verdrag vormen een integrerend onderdeel van het Verdrag.
 
 3. Indien de partijen bij het geschil beide in het tweede lid van dit artikel genoemde methoden voor de regeling van geschillen hebben aanvaard, kan het geschil alleen aan het Internationaal Gerechtshof worden voorgelegd, tenzij de partijen anders overeenkomen.
 
-#### Artikel 23. Ondertekening
+##### Artikel 23. Ondertekening
 
 Dit Verdrag staat van 17 tot en met 18 maart 1992 te Helsinki, en daarna tot 18 september 1992 op de Zetel van de Verenigde Naties te New York, open voor ondertekening door de lidstaten van de Economische Commissie voor Europa alsmede door Staten die een consultatieve status bij de Economische Commissie voor Europa hebben krachtens paragraaf 8 van resolutie 36 (IV) van 28 maart 1947 van de Economische en Sociale Raad, en door regionale organisaties voor economische integratie opgericht door soevereine Staten die lid zijn van de Economische Commissie voor Europa waaraan de lidstaten bevoegdheden hebben overgedragen ten aanzien van aangelegenheden die onder dit Verdrag vallen, met inbegrip van de bevoegdheid ten aanzien van die aangelegenheden verdragen aan te gaan.
 
-#### Artikel 24. De Depositaris
+##### Artikel 24. De Depositaris
 
 De Secretaris-Generaal van de Verenigde Naties treedt op als Depositaris van dit Verdrag.
 
-#### Artikel 25. Bekrachtiging, aanvaarding, goedkeuring en toetreding
+##### Artikel 25. Bekrachtiging, aanvaarding, goedkeuring en toetreding
 
 1. Dit Verdrag dient te worden bekrachtigd, aanvaard of goedgekeurd door ondertekenende Staten en regionale organisaties voor economische integratie.
 
@@ -338,7 +363,7 @@ De Secretaris-Generaal van de Verenigde Naties treedt op als Depositaris van dit
 
 5. In hun akten van bekrachtiging, aanvaarding, goedkeuring of toetreding geven de in artikel 23 bedoelde regionale organisaties voor economische integratie de reikwijdte aan van hun bevoegdheid ten aanzien van de aangelegenheden die onder dit Verdrag vallen. Deze organisaties doen de Depositaris tevens mededeling van iedere wezenlijke verandering in de reikwijdte van hun bevoegdheid.
 
-#### Artikel 26. Inwerkingtreding
+##### Artikel 26. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking op de negentigste dag na de datum van nederlegging van de zestiende akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
 
@@ -346,15 +371,15 @@ De Secretaris-Generaal van de Verenigde Naties treedt op als Depositaris van dit
 
 3. Ten aanzien van elke in artikel 23 of in artikel 25, derde lid bedoelde Staat of organisatie die dit Verdrag bekrachtigt, aanvaardt of goedkeurt of ertoe toetreedt na de nederlegging van de zestiende akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, treedt het Verdrag in werking op de negentigste dag na de datum van nederlegging door die Staat of organisatie van zijn of haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
 
-#### Artikel 27. Opzegging
+##### Artikel 27. Opzegging
 
 Elke Partij kan, te allen tijde na drie jaar vanaf de datum waarop dit Verdrag ten aanzien van die Partij in werking is getreden, het Verdrag opzeggen door middel van een schriftelijke kennisgeving aan de Depositaris. Deze opzegging wordt van kracht op de negentigste dag na de datum van ontvangst van de kennisgeving door de Depositaris.
 
-#### Artikel 28. Authentieke teksten
+##### Artikel 28. Authentieke teksten
 
 Het originele exemplaar van dit Verdrag, waarvan de Engelse, de Franse en de Russische tekst gelijkelijk authentiek zijn, wordt nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
 
-#### 1
+##### 1
 
 Onder het begrip „beste beschikbare technologie" wordt verstaan het meest recente stadium in de ontwikkeling van procesvoering, installaties of exploitatiewijze waarbij rekening wordt gehouden met de praktische toepassingsmogelijkheid van een bepaalde techniek voor het beperken van lozingen, emissies en afval. Bij het bepalen of een geheel van procédés, voorzieningen en werkwijzen de beste beschikbare technologie vormen in het algemeen of in afzonderlijke gevallen, wordt bijzondere aandacht geschonken aan:
 
@@ -370,11 +395,11 @@ Onder het begrip „beste beschikbare technologie" wordt verstaan het meest rece
 
 - f. technologieën waarbij weinig of geen afval wordt geproduceerd.
 
-#### 2
+##### 2
 
 Dit houdt dus in dat de betekenis van „beste beschikbare technologie" voor een bepaalde procesvoering in de loop der tijd zal veranderen in het licht van de technologische vooruitgang, van economische en sociale factoren, alsook van veranderingen in wetenschappelijke kennis en inzichten.
 
-#### 1
+##### 1
 
 Bij de keuze van de meest geschikte combinatie van maatregelen die in afzonderlijke gevallen de meest milieuveilige handelwijze kan vormen, dient de volgende reeks maatregelen in de gegeven volgorde te worden overwogen:
 
@@ -392,7 +417,7 @@ Bij de keuze van de meest geschikte combinatie van maatregelen die in afzonderli
 
 - g. invoering van een vergunningenstelsel, waarin een reeks beperkingen of een verbod wordt opgenomen.
 
-#### 2
+##### 2
 
 Bij het bepalen welke combinatie van maatregelen meest milieuveilige handelwijzen vormen, in het algemeen of in afzonderlijke gevallen, dient bijzondere aandacht te worden geschonken aan:
 
@@ -418,43 +443,43 @@ Bij het bepalen welke combinatie van maatregelen meest milieuveilige handelwijze
 
 - g. sociale en economische gevolgen.
 
-#### 3
+##### 3
 
 Dit houdt dus in dat de betekenis van „meest milieuveilige handelwijze" voor een bepaalde bron in de loop der tijd zal veranderen in het licht van de technologische vooruitgang, van economische en sociale factoren, alsook veranderingen in wetenschappelijke kennis en inzichten.
 
-#### 1
+##### 1
 
 Indien een geschil aan arbitrage wordt onderworpen ingevolge artikel 22, tweede lid, van dit Verdrag, stelt/stellen een of meer van de partijen bij het geschil het secretariaat in kennis van het onderwerp van arbitrage, onder vermelding van de artikelen van dit Verdrag over de uitlegging of toepassing waarvan een geschil is ontstaan. Het secretariaat zendt de ontvangen informatie toe aan alle Partijen bij dit Verdrag.
 
-#### 2
+##### 2
 
 Het scheidsgerecht bestaat uit drie leden. De eisende partij(en) en de andere partij(en) bij het geschil benoemen een arbiter, en de twee aldus benoemde arbiters wijzen met gezamenlijke instemming de derde arbiter aan, die voorzitter van het scheidsgerecht wordt. De derde arbiter mag geen onderdaan van een van de partijen bij het geschil zijn, noch mag hij of zij zijn of haar gewone verblijfplaats op het grondgebied van een van die partijen hebben, of in dienst zijn bij een van hen, of in een andere hoedanigheid reeds bij de aangelegenheid betrokken zijn geweest.
 
-#### 3
+##### 3
 
 Indien de voorzitter van het scheidsgerecht niet is aangewezen binnen twee maanden na de benoeming van de tweede arbiter, wijst de Uitvoerend Secretaris van de Economische Commissie voor Europa, op verzoek van een van beide partijen bij het geschil, binnen een volgend tijdvak van twee maanden de voorzitter aan.
 
-#### 4
+##### 4
 
 Indien een van de partijen bij het geschil niet binnen een maand nadat zij het verzoek daartoe heeft ontvangen, een arbiter heeft benoemd, kan de andere partij dit mededelen aan de Uitvoerend Secretaris van de Economische Commissie voor Europa, die binnen een volgend tijdvak van twee maanden de voorzitter van het scheidsgerecht aanwijst. Vervolgens verzoekt de voorzitter van het scheidsgerecht de partij die nog geen arbiter heeft benoemd, dit binnen twee maanden te doen. Indien zij dit binnen dat tijdvak niet doet, deelt de voorzitter dit mede aan de Uitvoerend Secretaris van de Economische Commissie voor Europa, die vervolgens binnen een volgend tijdvak van twee maanden de benoeming verricht.
 
-#### 5
+##### 5
 
 Het scheidsgerecht neemt zijn beslissing in overeenstemming met het internationale recht en met de bepalingen van dit Verdrag.
 
-#### 6
+##### 6
 
 Ieder krachtens de bepalingen van deze Bijlage ingesteld scheidsgerecht stelt zijn eigen procedureregels vast.
 
-#### 7
+##### 7
 
 De beslissingen van het scheidsgerecht betreffende zowel procedures als aan hem voorgelegde aangelegenheden worden genomen met een meerderheid van de stemmen van zijn leden.
 
-#### 8
+##### 8
 
 Het scheidsgerecht kan alle passende maatregelen nemen ter vaststelling van de feiten.
 
-#### 9
+##### 9
 
 De partijen bij het geschil doen alles wat in hun vermogen ligt om het werk van het scheidsgerecht te vergemakkelijken, met name door:
 
@@ -462,39 +487,39 @@ De partijen bij het geschil doen alles wat in hun vermogen ligt om het werk van 
 
 - b. het scheidsgerecht indien nodig in staat te stellen getuigen of deskundigen op te roepen en verklaringen van hen te verkrijgen.
 
-#### 10
+##### 10
 
 De partijen en de arbiters beschermen de vertrouwelijkheid van de informatie die zij gedurende het werk van het scheidsgerecht in vertrouwen verkrijgen.
 
-#### 11
+##### 11
 
 Het scheidsgerecht kan, op verzoek van een van de partijen, tussentijdse maatregelen ter bescherming aanbevelen.
 
-#### 12
+##### 12
 
 Indien een van de partijen bij het geschil niet voor het scheidsgerecht verschijnt of haar zaak niet verdedigt, kan de andere partij het scheidsgerecht verzoeken de procedure voort te zetten en zijn uiteindelijke beslissing te nemen. Het feit dat een partij niet voor het scheidsgerecht verschijnt of haar zaak niet verdedigt, vormt geen belemmering voor de voortzetting van de procedure.
 
-#### 13
+##### 13
 
 Het scheidsgerecht kan tegeneisen die rechtstreeks voortkomen uit de aangelegenheid die het onderwerp van het geschil is, horen en erover beslissen.
 
-#### 14
+##### 14
 
 Tenzij het scheidsgerecht anders bepaalt vanwege de bijzondere omstandigheden van de zaak, worden de kosten van het scheidsgerecht, met inbegrip van de honorering van zijn leden, in gelijke delen gedragen door de partijen bij het geschil. Het scheidsgerecht houdt een overzicht van al zijn kosten bij, en verstrekt de partijen daarvan een eindopgave.
 
-#### 15
+##### 15
 
 Iedere Partij bij dit Verdrag die een belang ten aanzien van het recht heeft bij de aangelegenheid die het onderwerp van het geschil is, en waarvoor de beslissing van het scheidsgerecht gevolgen kan hebben, kan zich met de instemming van het scheidsgerecht voegen in de procedure.
 
-#### 16
+##### 16
 
 Het scheidsgerecht doet zijn uitspraak binnen vijf maanden na de datum waarop het werd ingesteld, tenzij het het noodzakelijk acht deze termijn te verlengen met een tijdvak van ten hoogste vijf maanden.
 
-#### 17
+##### 17
 
 De uitspraak van het scheidsgerecht dient vergezeld te gaan van een uiteenzetting van de gronden. De uitspraak is onherroepelijk en bindend voor alle partijen bij het geschil. De uitspraak wordt door het scheidsgerecht toegezonden aan de partijen bij het geschil en aan het secretariaat. Het secretariaat zendt de ontvangen informatie toe aan alle Partijen bij dit Verdrag.
 
-#### 18
+##### 18
 
 Ieder geschil dat tussen partijen ontstaat betreffende de uitlegging of tenuitvoeringlegging van de uitspraak kan door elk van de partijen worden voorgelegd aan het scheidsgerecht dat de uitspraak heeft gedaan of, indien het daaraan niet kan worden voorgelegd, aan een ander scheidsgerecht dat hiertoe wordt ingesteld op dezelfde wijze als het eerstbedoelde scheidsgerecht.
 

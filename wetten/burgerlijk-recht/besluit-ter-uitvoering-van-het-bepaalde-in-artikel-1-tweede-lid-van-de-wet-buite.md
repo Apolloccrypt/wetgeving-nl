@@ -1,13 +1,35 @@
 ---
-title: "Besluit ter uitvoering van het bepaalde in artikel 1, tweede lid, van de Wet buitengewoon pensioen 1940-1945, houdende omschrijving van de categorieën van personen op wie deze wet van overeenkomstige toepassing zal zijn"
+title: "Besluit van 8 juli 1978, ter uitvoering van het bepaalde in artikel 1, tweede lid, van de Wet buitengewoon pensioen 1940-1945, houdende de omschrijving van de categorieën van personen op wie deze wet van overeenkomstige toepassing zal zijn"
 identifier: "BWBR0003189"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2011-01-01
-laatste_update: 2011-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003189"
+country: "nl"
+rank: "amvb"
+publication_date: "2011-01-01"
+last_updated: "2011-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003189"
+soort: "AMvB"
+stam_id: "1031113"
+version_id: "1514922"
+internal_id: "C1514921"
+label_id: "999064"
+dtd_version: "2.0"
+original_entry_into_force: "1978-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003189/2011-01-01/0"
+intitule_bron: "Stb.1978-422"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1978-07-08"
+intitule_status: "goed"
+original_publication: "Stb.1978-422"
+original_signed_date: "1978-07-08"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1978-01-01"
+jci_1_3: "jci1.3:c:BWBR0003189&z=2011-01-01&g=2011-01-01"
+jci_1_0: "1.0:c:BWBR0003189&g=2011-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit ter uitvoering van het bepaalde in artikel 1, tweede lid, van de Wet buitengewoon pensioen 1940-1945, houdende omschrijving van de categorieën van personen op wie deze wet van overeenkomstige toepassing zal zijn"
+signed_date: "1978-07-08"
+entry_into_force: "1978-01-01"
 ---
-
 # Besluit van 8 juli 1978, ter uitvoering van het bepaalde in artikel 1, tweede lid, van de Wet buitengewoon pensioen 1940-1945, houdende de omschrijving van de categorieën van personen op wie deze wet van overeenkomstige toepassing zal zijn
 
 Op de voordracht van de Staatssecretaris van Cultuur, Recreatie en Maatschappelijk Werk van 15 juni 1978, Hoofdafdeling Verzetsdeelnemers en Vervolgden, nr. 62243, mede namens Onze Minister van Financiën;
@@ -22,7 +44,7 @@ Gezien het nader rapport van de Staatssecretaris van Cultuur, Recreatie en Maats
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -30,7 +52,7 @@ In dit besluit wordt verstaan onder:
 
 "anti-nationaal-socialistische activiteiten": activiteiten, waaraan een het nationaal-socialisme afwijzende gezindheid ten grondslag lag en welke hebben bestaan uit spionage of contra-spionage, sabotage, medewerken aan het ongeoorloofd verlaten van het toenmalige Duitse grondgebied door tegenstanders van het nationaal-socialisme dan wel het schrijven, drukken of verspreiden van tegen het nationaal-socialisme gerichte geschriften.
 
-#### Artikel 2
+##### Artikel 2
 
 Tot de in [artikel 1, tweede lid, van de Wet buitengewoon pensioen 1940-1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&artikel=1) (**Stb.** 1985, 575), bedoelde categorieën van personen behoren zij, gedurende de oorlogsjaren 1940-1945 Nederlander zijnde:
 
@@ -52,11 +74,11 @@ Tot de in [artikel 1, tweede lid, van de Wet buitengewoon pensioen 1940-1945](ht
 
 - c. vanuit bezet gebied in Europa naar Engeland hebben getracht uit te wijken en die in verband met deze poging om uit te wijken het leven hebben verloren, vrijheidsberoving hebben ondergaan, door de vijand zijn mishandeld of ter dood gebracht dan wel wegens ziekten of gebreken, welke door of in verband met het uitwijken zijn ontstaan of verergerd, Engeland niet hebben kunnen bereiken.
 
-#### Artikel 3
+##### Artikel 3
 
 De Pensioen- en Uitkeringsraad, bedoeld in [artikel 3 van de Wet uitvoering wetten voor verzetsdeelnemers en oorlogsgetroffenen](https://wetten.overheid.nl/jci1.3:c:BWBR0027660&artikel=3) kan met personen, die behoren tot de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003189&artikel=2&z=2011-01-01&g=2011-01-01) omschreven categorieën, gelijkstellen degenen, wier omstandigheden tijdens de oorlogsjaren 1940-1945 een zodanige overeenkomst vertonen met die van personen behorende tot eerder bedoelde categorieën, dat het niet van toepassing verklaren van dit besluit een klaarblijkelijke hardheid zou zijn.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad**, waarin het wordt geplaatst en werkt terug tot 1 januari 1978.
 

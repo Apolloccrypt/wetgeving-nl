@@ -1,24 +1,49 @@
 ---
 title: "Subtaakbesluit Koninklijke Marechaussee 2019"
 identifier: "BWBR0043241"
-categorie: "Overig"
-publicatiedatum: 2020-03-12
-laatste_update: 2019-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043241"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-03-12"
+last_updated: "2019-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043241"
+soort: "ministeriele-regeling"
+stam_id: "15355413"
+version_id: "26545232"
+internal_id: "C37673541"
+label_id: "15300414"
+dtd_version: "2.0"
+original_entry_into_force: "2020-03-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043241/2020-03-12/0"
+intitule_bron: "Stcrt.2020-13559"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-12-19"
+intitule_published: "2020-03-10"
+intitule_in_force: "2020-03-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-13559"
+original_signed_date: "2019-12-19"
+original_published_date: "2020-03-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-13559"
+entry_into_force_date: "2020-03-12"
+jci_1_3: "jci1.3:c:BWBR0043241&z=2020-03-12&g=2020-03-12"
+jci_1_0: "1.0:c:BWBR0043241&g=2020-03-12"
+citeertitel_status: "officieel"
+signed_date: "2019-12-19"
+entry_into_force: "2020-03-12"
 ---
-
 # Subtaakbesluit Koninklijke Marechaussee 2019
 
 gelet op [artikel 25 van het Algemeen Organisatiebesluit Defensie 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034157&artikel=25),
 
 Besluit:
 
-#### Artikel 1. Begripsbepaling
+##### Artikel 1. Begripsbepaling
 
 1. Het Commando Koninklijke Marechaussee staat onder leiding van de Commandant Koninklijke Marechaussee (KMar). Tot het Commando Koninklijke Marechaussee behoren tevens die militairen die namens het Commando Koninklijke Marchaussee bij andere defensieonderdelen dienen.
 
-#### Artikel 2. Organisatie van het Commando Koninklijke Marechaussee
+##### Artikel 2. Organisatie van het Commando Koninklijke Marechaussee
 
 1. De Commandant Koninklijke Marechaussee vormt samen met de Plaatsvervangend Commandant Koninklijke Marechaussee één bestuurlijke eenheid in het geven van leiding aan het Commando Koninklijke Marechaussee.
 
@@ -204,7 +229,7 @@ Besluit:
 
 - 5. de sector Ondersteuning.
 
-#### Artikel 3. Passagiersinformatie-eenheid Nederland (Pi-NL)
+##### Artikel 3. Passagiersinformatie-eenheid Nederland (Pi-NL)
 
 De Passagiersinformatie-eenheid Nederland (Pi-NL) is ondergebracht bij de Koninklijke Marechaussee. Onder de Pi-NL ressorteren:
 
@@ -220,7 +245,7 @@ De Passagiersinformatie-eenheid Nederland (Pi-NL) is ondergebracht bij de Konink
 
 - 3. Liaison Officieren (LSO).
 
-#### Artikel 4. Plaatsvervangend Commandant KMar (PCKMar)
+##### Artikel 4. Plaatsvervangend Commandant KMar (PCKMar)
 
 De plaatsvervangend Commandant Koninklijke Marechaussee is belast met de volgende taken:
 
@@ -232,7 +257,7 @@ De plaatsvervangend Commandant Koninklijke Marechaussee is belast met de volgend
 
 - d. het optreden als Genderambassadeur voor de KMar en Inspecteur voor het Reservepersoneel van de KMar.
 
-#### Artikel 5. Directie Operaties (DOPS) STC
+##### Artikel 5. Directie Operaties (DOPS) STC
 
 De directie Operaties staat onder leiding van de directeur Operaties die is belast met de volgende taken:
 
@@ -264,7 +289,7 @@ De directie Operaties staat onder leiding van de directeur Operaties die is bela
 
 - i. het uitvoering geven aan de crisisbeheersingsorganisatie Staf CKMar en het adviseren van (P)CKMar hierover.
 
-#### Artikel 6. Directie Personeel en Bedrijfsvoering (DPB) STC
+##### Artikel 6. Directie Personeel en Bedrijfsvoering (DPB) STC
 
 De directie Personeel en Bedrijfsvoering staat onder leiding van de directeur Personeel en Bedrijfsvoering die is belast met de volgende taken:
 
@@ -280,7 +305,7 @@ De directie Personeel en Bedrijfsvoering staat onder leiding van de directeur Pe
 
 - f. het uitvoeren van werkzaamheden als Chief Data Officer (CDO).
 
-#### Artikel 7. Afdeling Financiën en Control (AFC) STC
+##### Artikel 7. Afdeling Financiën en Control (AFC) STC
 
 De stafafdeling Financiën en Control staat onder leiding van het stafafdelingshoofd Financiën en Control die is belast met de volgende taken:
 
@@ -296,7 +321,7 @@ De stafafdeling Financiën en Control staat onder leiding van het stafafdelingsh
 
 - f. het dragen van verantwoordelijkheid voor de financieel-economische beleidsontwikkeling voor de KMar en het toezien op de financierbaarheid van het KMar-beleid en een doelmatige besteding van de KMar-begrotingsmiddelen.
 
-#### Artikel 8. Kabinet (KAB) STC
+##### Artikel 8. Kabinet (KAB) STC
 
 De stafafdeling Kabinet staat onder leiding van Chef Kabinet die belast is met de volgende taken:
 
@@ -326,7 +351,7 @@ De stafafdeling Kabinet staat onder leiding van Chef Kabinet die belast is met d
 
 - m. het uitvoering geven aan het integriteitsbeleid en het adviseren van (P)CKMar inzake integriteitsvraagstukken.
 
-#### Artikel 9. Landelijk Tactisch Commando (LTC)
+##### Artikel 9. Landelijk Tactisch Commando (LTC)
 
 Het Landelijk Tactisch Commando staat onder leiding van de commandant van het Landelijk Tactisch Commando (LTC) die op tactisch niveau belast is met de volgende taken:
 
@@ -370,7 +395,7 @@ Het Landelijk Tactisch Commando staat onder leiding van de commandant van het La
 
 - 5. het voeren van overleg met de medezeggenschap binnen het LTC.
 
-#### Artikel 9a. Commandogroep (LTC)
+##### Artikel 9a. Commandogroep (LTC)
 
 De commandogroep LTC staat onder leiding van de plaatsvervangend Commandant van het LTC die belast is met de volgende taken:
 
@@ -386,13 +411,13 @@ De commandogroep LTC staat onder leiding van de plaatsvervangend Commandant van 
 
 - f. het inzetten van projectcapaciteit t.b.v. het onderzoeken van specifieke opdrachten en / of onderwerpen.
 
-#### Artikel 9b. Afdeling Intell (LTC)
+##### Artikel 9b. Afdeling Intell (LTC)
 
 De afdeling Intell staat onder leiding van het hoofd Intell die belast is met de volgende taak:
 
 - a. het leveren van een actueel intelligencebeeld in de verschillende planfasen ten behoeve van het maken van strategische, tactische en operationele keuzes.
 
-#### Artikel 9c. Afdeling Plans (LTC)
+##### Artikel 9c. Afdeling Plans (LTC)
 
 De afdeling Plans staat onder leiding van het hoofd Plans die belast is met de volgende taken:
 
@@ -404,7 +429,7 @@ De afdeling Plans staat onder leiding van het hoofd Plans die belast is met de v
 
 - d. het namens de Commandant LTC dragen van de verantwoordelijkheid voor de operationele aansturing van de organisatie, zowel regulier als bij calamiteiten.
 
-#### Artikel 9d. Afdeling Operations (LTC)
+##### Artikel 9d. Afdeling Operations (LTC)
 
 De afdeling Operations staat onder leiding van het hoofd Operations die belast is met de volgende taken:
 
@@ -416,7 +441,7 @@ De afdeling Operations staat onder leiding van het hoofd Operations die belast i
 
 - d. het leveren van bijdragen aan operationele concepten.
 
-#### Artikel 9e. Afdeling Support (LTC)
+##### Artikel 9e. Afdeling Support (LTC)
 
 De afdeling Support staat onder leiding van het hoofd Support die belast is met de volgende taken:
 
@@ -428,7 +453,7 @@ De afdeling Support staat onder leiding van het hoofd Support die belast is met 
 
 - d. het voorbereiden, ondersteunen, coördineren en afwikkelen van de operationele (missies en oefeningen) personeels-, materieel & diensten en informatie en communicatieaspecten.
 
-#### Artikel 9f. Coördinatie Schiphol (LTC)
+##### Artikel 9f. Coördinatie Schiphol (LTC)
 
 De afdeling Coördinatie Schiphol staat onder leiding van de coördinator Schiphol die belast is met de volgende taken:
 
@@ -440,7 +465,7 @@ De afdeling Coördinatie Schiphol staat onder leiding van de coördinator Schiph
 
 - d. het uitvoeren van representatieve werkzaamheden namens CKMar en de commandant LTC op de Luchthaven Schiphol.
 
-#### Artikel 10. Brigades en Hoog Risico Beveiliging eskadron (LTC)
+##### Artikel 10. Brigades en Hoog Risico Beveiliging eskadron (LTC)
 
 Binnen het LTC zijn er 20 brigades: vijf specifieke brigades en 15 overige brigades KMar:
 
@@ -488,7 +513,7 @@ Binnen het LTC zijn er 20 brigades: vijf specifieke brigades en 15 overige briga
 
 En er is een Hoog Risico Beveiliging (HRB) eskadron.
 
-#### Artikel 10a. Brigade Toezicht Beveiliging Burgerluchtvaart (LTC)
+##### Artikel 10a. Brigade Toezicht Beveiliging Burgerluchtvaart (LTC)
 
 De Brigade Toezicht Beveiliging Burgerluchtvaart staat onder leiding van de brigadecommandant BTBB die belast is met de volgende taken:
 
@@ -498,7 +523,7 @@ De Brigade Toezicht Beveiliging Burgerluchtvaart staat onder leiding van de brig
 
 - c. het adviseren van de Minister van Justitie & Veiligheid m.b.t. beveiligingsplannen, procedures, werkinstructies en opleidingsprogramma’s voor de beveiliging van de burgerluchtvaart.
 
-#### Artikel 10b. Brigade Speciale Beveiligingsopdrachten (LTC)
+##### Artikel 10b. Brigade Speciale Beveiligingsopdrachten (LTC)
 
 De Brigade Speciale Beveiligingsopdrachten staat onder leiding van de brigadecommandant BSB die belast is met de volgende taken:
 
@@ -522,7 +547,7 @@ De Brigade Speciale Beveiligingsopdrachten staat onder leiding van de brigadecom
 
 - j. het optreden als observatieteam KMar.
 
-#### Artikel 10c. Brigade Caribisch gebied (LTC)
+##### Artikel 10c. Brigade Caribisch gebied (LTC)
 
 De Brigade Caribisch gebied staat onder leiding van de brigadecommandant Caribisch gebied die belast is met de volgende taken:
 
@@ -538,7 +563,7 @@ De Brigade Caribisch gebied staat onder leiding van de brigadecommandant Caribis
 
 - f. het leveren van ondersteuning bij inzet in het kader van handhaving openbare orde (beteugelen van woelingen).
 
-#### Artikel 10d. Brigade Recherche (LTC)
+##### Artikel 10d. Brigade Recherche (LTC)
 
 De Brigade Recherche staat onder leiding van de brigadecommandant Recherche die belast is met de volgende taken:
 
@@ -552,7 +577,7 @@ De Brigade Recherche staat onder leiding van de brigadecommandant Recherche die 
 
 - e. het, afgeleid van de taakstelling van Defensie, leveren van een bijdrage aan de bestrijding van terrorisme / piraterij.
 
-#### Artikel 10e. Brigade Operationele Service en Support (LTC)
+##### Artikel 10e. Brigade Operationele Service en Support (LTC)
 
 De Brigade Operationele Service en Support staat onder leiding van de brigadecommandant BOSS die belast is met de volgende taken: het (direct) ondersteunen van de operationele processen door:
 
@@ -580,7 +605,7 @@ De Brigade Operationele Service en Support staat onder leiding van de brigadecom
 
 - l. het ondersteunen van de ME door voorbereiden, uitvoeren, afwikkelen inzet en beheren ME-middelen.
 
-#### Artikel 10f. Overige Brigades KMar (LTC)
+##### Artikel 10f. Overige Brigades KMar (LTC)
 
 De Overige Brigades KMar staan onder leiding van een brigadecommandant die belast is met de volgende taken:
 
@@ -598,7 +623,7 @@ De Overige Brigades KMar staan onder leiding van een brigadecommandant die belas
 
 - g. het verrichten van de beveiligingstaken bij aangewezen objecten.
 
-#### Artikel 10g. Hoog Risico Beveiliging Eskadron (LTC)
+##### Artikel 10g. Hoog Risico Beveiliging Eskadron (LTC)
 
 Het Hoog Risico Beveiliging eskadron staat onder leiding van de commandant HRB eskadron die belast is met de volgende taken:
 
@@ -610,7 +635,7 @@ Het Hoog Risico Beveiliging eskadron staat onder leiding van de commandant HRB e
 
 - d. het aansturen en ondersteunen van de operationele inzet.
 
-#### Artikel 11. Opleidings-, Trainings- & Kenniscentrum KMar (OTCKMar)
+##### Artikel 11. Opleidings-, Trainings- & Kenniscentrum KMar (OTCKMar)
 
 Het Opleidings-, Trainings- en Kenniscentrum KMar staat onder leiding van de commandant van het Opleidings-, Trainings- en Kenniscentrum KMar die belast is met de volgende taken:
 
@@ -632,19 +657,19 @@ Het Opleidings-, Trainings- en Kenniscentrum KMar staat onder leiding van de com
 
 - i. het vervullen van de rol van HDE (Hoofd Dienst Eenheid) OTCKMar.
 
-#### Artikel 12. Passagiersinformatie-eenheid Nederland (Pi-NL)
+##### Artikel 12. Passagiersinformatie-eenheid Nederland (Pi-NL)
 
 De Passagiersinformatie-eenheid Nederland staat onder leiding van een hoofd Pi-NL. Pi-NL is belast met het uitvoeren van de taken conform [art. 5, eerste lid van de wet gebruik van passagiersgegevens voor de bestrijding van terroristische en ernstige misdrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0042301&artikel=5) (PNR). Dit is nader uitgewerkt in het [besluit PNR](https://wetten.overheid.nl/jci1.3:c:BWBR0042377). In bestuursafspraken inzake het hosten van de Pi-NL door Defensie/KMar d.d. 19 juni 2019 zijn de rollen en taken beschreven van de eigenaar van de Pi-NL.
 
-#### Artikel 13. Intrekking huidige subtaakbesluit
+##### Artikel 13. Intrekking huidige subtaakbesluit
 
 Het [subtaakbesluit Koninklijke Marechaussee 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036611) wordt ingetrokken.
 
-#### Artikel 14. Inwerkingtreding
+##### Artikel 14. Inwerkingtreding
 
 Dit subtaakbesluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant, waarin mededeling wordt gedaan van plaatsing van dit besluit in de reeks ministeriële publicaties van het Ministerie van Defensie en werkt terug tot en met 1 februari 2019.
 
-#### Artikel 15. Citeertitel
+##### Artikel 15. Citeertitel
 
 Dit besluit wordt aangehaald als: **Subtaakbesluit Koninklijke Marechaussee 2019.**
 

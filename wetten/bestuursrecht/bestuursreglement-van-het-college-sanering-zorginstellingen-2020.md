@@ -1,16 +1,41 @@
 ---
 title: "Bestuursreglement van het College sanering zorginstellingen 2020"
 identifier: "BWBR0045033"
-categorie: "Bestuursrecht"
-publicatiedatum: 2021-04-10
-laatste_update: 2021-04-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045033"
+country: "nl"
+rank: "zbo"
+publication_date: "2021-04-10"
+last_updated: "2021-04-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045033"
+soort: "zbo"
+stam_id: "15923913"
+version_id: "27688602"
+internal_id: "C39061491"
+label_id: "15859004"
+dtd_version: "2.0"
+original_entry_into_force: "2021-04-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045033/2021-04-10/0"
+intitule_bron: "Stcrt.2021-17553"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-12-08"
+intitule_published: "2021-04-09"
+intitule_in_force: "2021-04-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-17553"
+original_signed_date: "2020-12-08"
+original_published_date: "2021-04-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-17553"
+entry_into_force_date: "2021-04-10"
+jci_1_3: "jci1.3:c:BWBR0045033&z=2021-04-10&g=2021-04-10"
+jci_1_0: "1.0:c:BWBR0045033&g=2021-04-10"
+citeertitel_status: "officieel"
+signed_date: "2020-12-08"
+entry_into_force: "2021-04-10"
 ---
-
 # Bestuursreglement van het College sanering zorginstellingen 2020
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit bestuursreglement wordt verstaan onder:
 
@@ -32,7 +57,7 @@ In dit bestuursreglement wordt verstaan onder:
 
 - i. **manager:** manager van het College sanering zorginstellingen
 
-#### Artikel 2. Samenstelling Raad van Bestuur
+##### Artikel 2. Samenstelling Raad van Bestuur
 
 1. De RvB bestuurt de organisatie van het College sanering.
 
@@ -58,7 +83,7 @@ De RvB legt de nevenfuncties van zijn leden ter inzage voor het publiek door mid
 
 7. De voorzitter benoemt een secretaris. De secretaris maakt deel uit van het personeel van het College sanering.
 
-#### Artikel 3. Taken en verantwoordelijkheden Raad van Bestuur
+##### Artikel 3. Taken en verantwoordelijkheden Raad van Bestuur
 
 1. De RvB geeft leiding aan het personeel van het College sanering.
 
@@ -84,7 +109,7 @@ De RvB informeert de minister over zijn directe contacten met Eerste en Tweede K
 
 9. De leden zijn elk voor de eigen taken en verantwoordelijkheden het aanspreekpunt voor de medewerkers van het College sanering.
 
-#### Artikel 4. Besluitvorming Raad van Bestuur
+##### Artikel 4. Besluitvorming Raad van Bestuur
 
 1. De voorzitter leidt de vergaderingen van de RvB.
 
@@ -124,7 +149,7 @@ Dat lid neemt in dat geval geen deel aan de beraadslaging in de RvB over dat ond
 
 11. De secretaris legt de besluiten van de RvB vast in een besluitenlijst. De voorzitter van de RvB ondertekent de besluitenlijst.
 
-#### Artikel 5. Verantwoording door de Raad van Bestuur
+##### Artikel 5. Verantwoording door de Raad van Bestuur
 
 1. De RvB legt in een jaarverslag verantwoording af over de uitvoering van de taken, over het beleid en over de kwaliteitszorg in het voorafgaande jaar.
 
@@ -142,11 +167,11 @@ Bij zijn verklaring voegt de accountant een rapport over de doelmatigheid van he
 
 - b. de beheersing van risico’s in de primaire en ondersteunende processen.
 
-#### Artikel 6. Toezicht
+##### Artikel 6. Toezicht
 
 De RvB verleent en bevordert binnen de organisatie de volledige medewerking aan de uitvoering van toezichthoudende taken door de minister.
 
-#### Artikel 7. Commissies en raden
+##### Artikel 7. Commissies en raden
 
 1. De RvB kan in overleg met de minister een of meer al dan niet vaste commissies en raden instellen.
 
@@ -168,7 +193,7 @@ De leden kunnen eenmaal worden herbenoemd voor een periode van ten hoogste vier 
 
 Vergoedingen gaan de bedragen op grond van het [Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279) niet te boven.
 
-#### Artikel 7a. Raad van Advies
+##### Artikel 7a. Raad van Advies
 
 1. Indien de minister of de RvB dat wenselijk acht, kan de RvB een Raad van Advies instellen, bestaande uit onafhankelijke externe deskundigen.
 
@@ -180,7 +205,7 @@ De Raad van Advies stelt een verslag van werkzaamheden op ten behoeve van het ja
 
 De RvB wijdt in het jaarverslag aandacht aan de wijze waarop het bestuur is omgegaan met de bevindingen en adviezen van de Raad van Advies.
 
-#### Artikel 7b. Audit Committee
+##### Artikel 7b. Audit Committee
 
 1. Indien de minister of de RvB dat wenselijk acht, kan de RvB een audit committee bestaande uit onafhankelijke externe deskundigen instellen.
 
@@ -192,21 +217,21 @@ Het audit committee stelt een verslag van werkzaamheden op ten behoeve van het j
 
 De RvB wijdt in het jaarverslag aandacht aan de wijze waarop hij is omgegaan met de bevindingen en adviezen van het audit committee.
 
-#### Artikel 8. Vertegenwoordiging belanghebbenden
+##### Artikel 8. Vertegenwoordiging belanghebbenden
 
 De RvB onderhoudt met het oog op een adequate uitvoering van zijn taken en verantwoordelijkheden contacten met de vertegenwoordigende organisaties van de belanghebbende partijen op het terrein van de zorg.
 
-#### Artikel 9. Integriteit
+##### Artikel 9. Integriteit
 
 De RvB legt zijn integriteitsbeleid vast in een Integriteitscode of Gedragscode.
 
-#### Artikel 10. Vertrouwelijkheid
+##### Artikel 10. Vertrouwelijkheid
 
 1. De leden nemen omtrent alle informatie en documentatie die zij in het kader van hun functie verkrijgen en die als vertrouwelijk is aangemerkt, dan wel waarvan de vertrouwelijkheid uit de aard der informatie voortvloeit, strikte geheimhouding in acht, ook na hun aftreden.
 
 2. Het eerste lid is van overeenkomstige toepassing op diegenen die belast zijn met de administratieve en secretariële ondersteuning van de RvB en op diegenen die vergaderingen geheel of gedeeltelijk hebben bijgewoond.
 
-#### Artikel 11. Toelating en aanwijzing gemachtigde
+##### Artikel 11. Toelating en aanwijzing gemachtigde
 
 1. Naar aanleiding van overleg tussen de (voorzitter van de) RvB en de manager over het aantrekken van eventuele nieuwe gemachtigden, doet de manager een voorstel aan de RvB voor een eerste gesprek.
 
@@ -216,21 +241,21 @@ De RvB legt zijn integriteitsbeleid vast in een Integriteitscode of Gedragscode.
 
 4. Van het besluit, bedoeld in het derde lid van dit artikel, wordt de kandidaat- gemachtigde op de hoogte gesteld.
 
-#### Artikel 12. Klachtenregeling
+##### Artikel 12. Klachtenregeling
 
 1. De RvB stelt, met in achtneming van [hoofdstuk 9 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9), een klachtenregeling vast, op grond waarvan eenieder het recht heeft om over de wijze waarop het College sanering zich in een bepaalde aangelegenheid jegens hem of een ander heeft gedragen, een klacht in te dienen bij het College sanering.
 
 2. De wijze van behandeling van klachten is geregeld in een Klachtenregeling.
 
-#### Artikel 13. Klokkenluidersregeling
+##### Artikel 13. Klokkenluidersregeling
 
 De RvB stelt een Klokkenluidersregeling vast.
 
-#### Artikel 14. Mandaatregeling
+##### Artikel 14. Mandaatregeling
 
 Het College sanering stelt een [mandaterings- en volmachtbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037763) vast, waarin het in ieder geval aangeeft welke bevoegdheden namens het College sanering door de manager worden uitgeoefend. In het mandaterings- en volmachtbesluit kan het College sanering tevens bepalen dat de manager in de bij dit besluit aangegeven gevallen bevoegd is ondermandaat te verlenen. In geval van (langduriger) ontstentenis van de manager voorziet de voorzitter van de Raad van Bestuur in (zijn/haar) vervanging.
 
-#### Artikel 15. Wijziging bestuursreglement
+##### Artikel 15. Wijziging bestuursreglement
 
 1. Wijziging van dit bestuursreglement geschiedt in overeenstemming met de besluitvormingsprocedure zoals bepaald in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045033&artikel=4&z=2021-04-10&g=2021-04-10) van dit reglement.
 
@@ -238,7 +263,7 @@ Het College sanering stelt een [mandaterings- en volmachtbesluit](https://wetten
 
 3. Een wijziging in dit bestuursreglement wordt gepubliceerd in de Staatscourant, waarna deze wijziging in werking treedt.
 
-#### Artikel 16. Slotbepaling
+##### Artikel 16. Slotbepaling
 
 1. Dit bestuursreglement kan worden aangehaald als: Bestuursreglement van het College sanering zorginstellingen 2020.
 

@@ -1,13 +1,39 @@
 ---
-title: "Aanwijzing bekostiging epilepsiezorg 2013"
+title: "Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 30 november 2012, MC-U-3142052, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake bekostiging epilepsiezorg"
 identifier: "BWBR0032398"
-categorie: "Sociaal recht"
-publicatiedatum: 2013-02-01
-laatste_update: 2013-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032398"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2013-02-01"
+last_updated: "2013-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032398"
+soort: "ministeriele-regeling"
+stam_id: "11940083"
+version_id: "19848172"
+internal_id: "C27877421"
+label_id: "11912014"
+dtd_version: "2.0"
+original_entry_into_force: "2013-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032398/2013-02-01/0"
+intitule_bron: "Stcrt.2012-25523"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-11-30"
+intitule_published: "2012-12-12"
+intitule_in_force: "2012-12-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-25523"
+original_signed_date: "2012-11-30"
+original_published_date: "2012-12-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-25523"
+entry_into_force_date: "2013-02-01"
+jci_1_3: "jci1.3:c:BWBR0032398&z=2013-02-01&g=2013-02-01"
+jci_1_0: "1.0:c:BWBR0032398&g=2013-02-01"
+citeertitel_status: "officieel"
+short_title: "Aanwijzing bekostiging epilepsiezorg 2013"
+signed_date: "2012-11-30"
+entry_into_force: "2013-02-01"
 ---
-
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 30 november 2012, MC-U-3142052, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake bekostiging epilepsiezorg
 
 Overwegende dat de functiegerichte budgettering voor instellingen voor medisch specialistische zorg en de bekostiging op basis van begrotingsfinanciering van audiologische centra is beëindigd en dat daarbij een tijdelijke uitzondering is gemaakt voor de longastmacentra en epilepsie-inrichtingen totdat een voldoende stabiele product en tariefstructuur beschikbaar is;
@@ -32,7 +58,7 @@ Besluit:
 
 ### Hoofdstuk I
 
-#### Artikel 1. definities
+##### Artikel 1. definities
 
 In deze aanwijzing wordt verstaan onder:
 
@@ -52,21 +78,21 @@ In deze aanwijzing wordt verstaan onder:
 
 - **maximumtarief:** bedrag als bedoeld in [artikel 50, eerste lid, aanhef en onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50), dat ten hoogste voor een prestatie in rekening mag worden gebracht.
 
-#### Artikel 2. werkingssfeer
+##### Artikel 2. werkingssfeer
 
 Deze aanwijzing is van toepassing op epilepsiezorg als bedoeld in het bepaalde bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450).
 
-#### Artikel 3. opdracht
+##### Artikel 3. opdracht
 
 De zorgautoriteit stelt ter uitvoering van deze aanwijzing tijdig vóór 1 januari 2013 regels of beleidsregels vast.
 
-#### Artikel 4. transparante prestatiebeschrijvingen
+##### Artikel 4. transparante prestatiebeschrijvingen
 
 De zorgautoriteit stelt met ingang van het jaar 2013 prestatiebeschrijvingen vast voor epilepsiezorg, op basis van het voorstel in de adviesbrief.
 
 Indien en voor zover prestaties voor epilepsiezorg niet als een DOT-zorgproduct in de adviesbrief zijn omschreven stelt de zorgautoriteit met ingang van 2013 prestatiebeschrijvingen, verder te noemen overige zorgproducten, vast. Onder overige producten wordt ook verstaan toegevoegde prestaties en add-on’s.
 
-#### Artikel 5. segmentindeling
+##### Artikel 5. segmentindeling
 
 De zorgautoriteit verdeelt de zorg als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032398&hoofdstuk=I&artikel=4&z=2013-02-01&g=2013-02-01) in een gereguleerd segment en een vrij segment en stelt voor ieder segment prestatiebeschrijvingen vast.
 
@@ -74,7 +100,7 @@ De indeling in segmenten geschiedt op basis van het voorstel van de zorgautorite
 
 De overige zorgproducten, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032398&hoofdstuk=I&artikel=4&z=2013-02-01&g=2013-02-01), behoren tot het gereguleerde segment met uitzondering van de nader door de zorgautoriteit te specificeren overige zorgproducten met betrekking tot extramurale dieetadvisering, fysiotherapie en oefentherapie, die behoren tot het vrije segment.
 
-#### Artikel 6. tariefsoorten
+##### Artikel 6. tariefsoorten
 
 1. Voor prestaties in het gereguleerde segment gelden maximumtarieven.
 
@@ -82,17 +108,17 @@ De overige zorgproducten, bedoeld in [artikel 4, tweede lid](https://wetten.over
 
 3. De voorgaande leden zijn niet van toepassing op de honorariumcomponent voor de dienstverlening door medisch specialisten als onderdeel van die prestaties, dat blijft een maximumtarief.
 
-#### Artikel 7. overgang geopende DOT-zorgproducten
+##### Artikel 7. overgang geopende DOT-zorgproducten
 
 Voor prestaties die zijn omschreven als DOT-zorgproducten en die zijn geopend vóór aanvang van het jaar 2013 blijven de prestatiebeschrijvingen en tarieven van toepassing zoals die luidden op het moment van openen van die DOT-zorgproducten.
 
-#### Artikel 8. transitiemodel
+##### Artikel 8. transitiemodel
 
 Ten behoeve van een zorgvuldige overgang van een budgetsysteem naar een systeem van prestatiebekostiging stelt de zorgautoriteit voor epilepsiecentra voor het jaar 2013 en het jaar 2014 een transitiemodel vast overeenkomstig het transitiemodel bedoeld in [Hoofdstuk II van de Aanwijzing transitiemodel prestatiebekostiging medisch specialistische zorg 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=II) en zoals bedoeld in de adviesbrief.
 
 De verrekenfactor voor het jaar 2013 is vastgesteld op 0,95, de verrekenfactor voor het jaar 2014 is vastgesteld op 0,70.
 
-#### Artikel 9. garantieregeling kapitaallasten
+##### Artikel 9. garantieregeling kapitaallasten
 
 De zorgautoriteit voorziet voor de epilepsiecentra in een overgangsregeling voor kapitaallasten overeenkomstig de overgangsregeling voor kapitaallasten in de [hoofdstukken III](https://wetten.overheid.nl/jci1.3:c:BWBR0030586&hoofdstuk=III) en [IV van de Aanwijzing kapitaallasten transitiemodel prestatiebekostiging medisch specialistische zorg 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030586&hoofdstuk=IV).
 
@@ -106,11 +132,11 @@ De garantie wordt voor instellingen als bedoeld in het eerste lid als volgt afge
 | 2016 | 70% |
 | 2017 e.v. | 0% |
 
-#### Artikel 10. einde Epilepsie-experiment
+##### Artikel 10. einde Epilepsie-experiment
 
 Met de invoering van de product- en tariefstructuur voor epilepsiezorg op grond van onderhavige aanwijzing wordt het experiment bij epilepsie-inrichtingen als bedoeld in de aanwijzing van 14 december 2007 (Staatscourant 2007, nr. 248) en de aanwijzing van 12 februari 2012 (Staatscourant 2012, 3505) met ingang van 2013 als afgehandeld beschouwd overeenkomstig het bepaalde in [artikel 58 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=58).
 
-#### Artikel 11
+##### Artikel 11
 
 Deze aanwijzing wordt aangehaald als: Aanwijzing bekostiging epilepsiezorg 2013.
 

@@ -1,13 +1,39 @@
 ---
-title: "Regeling Yakovlev-52 vliegtuigen"
+title: "Regeling van de Staatssecretaris van Infrastructuur en Milieu van 25 februari 2013, nr. IENM/BSK-2013/25450, houdende regels inzake onder andere de certificering en het onderhoud van Yakovlev-52 vliegtuigen en tot wijziging van de Regeling onderhoud luchtvaartuigen (Regeling Yakovlev-52 vliegtuigen)"
 identifier: "BWBR0032948"
-categorie: "Overig"
-publicatiedatum: 2020-10-01
-laatste_update: 2020-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032948"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-10-01"
+last_updated: "2020-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032948"
+soort: "ministeriele-regeling"
+stam_id: "12122763"
+version_id: "20224112"
+internal_id: "C28452271"
+label_id: "12094424"
+dtd_version: "2.0"
+original_entry_into_force: "2013-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032948/2020-10-01/0"
+intitule_bron: "Stcrt.2013-5551"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-02-25"
+intitule_published: "2013-02-28"
+intitule_in_force: "2013-02-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-5551"
+original_signed_date: "2013-02-25"
+original_published_date: "2013-02-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-5551"
+entry_into_force_date: "2013-03-01"
+jci_1_3: "jci1.3:c:BWBR0032948&z=2020-10-01&g=2020-10-01"
+jci_1_0: "1.0:c:BWBR0032948&g=2020-10-01"
+citeertitel_status: "officieel"
+short_title: "Regeling Yakovlev-52 vliegtuigen"
+signed_date: "2013-02-25"
+entry_into_force: "2013-03-01"
 ---
-
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu van 25 februari 2013, nr. IENM/BSK-2013/25450, houdende regels inzake onder andere de certificering en het onderhoud van Yakovlev-52 vliegtuigen en tot wijziging van de Regeling onderhoud luchtvaartuigen (Regeling Yakovlev-52 vliegtuigen)
 
 Gelet op de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=9), [12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=12), en [13, van het Besluit luchtvaartuigen 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=13), [artikel 7, eerste lid, van het Besluit vluchtuitvoering](https://wetten.overheid.nl/jci1.3:c:BWBR0020111&artikel=7) en de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=5), [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=9), en [10, tweede lid, van het Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=10);
@@ -16,7 +42,7 @@ BESLUIT:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -40,7 +66,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Speciaal-BvL
 
-#### Artikel 2
+##### Artikel 2
 
 1. De aanvraag voor een speciaal-BvL voor een Yak-52 vliegtuig wordt gedaan door de eigenaar of houder van een Yak-52 vliegtuig door indiening bij de minister van een volledig ingevuld en ondertekend door de minister daartoe verstrekt aanvraagformulier.
 
@@ -64,7 +90,7 @@ In deze regeling wordt verstaan onder:
 
 4. [Hoofdstuk 4, paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&paragraaf=1), [hoofdstuk 5, artikel 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&artikel=34), en de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&paragraaf=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&paragraaf=3) en [4, van de Regeling nationale veiligheidsvoorschriften luchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&paragraaf=4) zijn overeenkomstig van toepassing.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De aanvraag voor het verlengen van de termijn van geldigheid van het speciaal-BvL wordt door de eigenaar of houder van een Yak-52 vliegtuig gedaan door indiening bij de minister van een volledig ingevuld en ondertekend door de minister daartoe verstrekt aanvraagformulier.
 
@@ -78,7 +104,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 3. Vluchtuitvoering
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een Yak-52 vliegtuig mag in ieder geval niet worden gebruikt voor:
 
@@ -96,7 +122,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 4. Bewijs van bevoegdheid en bevoegdverklaring
 
-#### Artikel 5
+##### Artikel 5
 
 1. De bestuurder van een Yak-52 vliegtuig beschikt tenminste over:
 
@@ -110,13 +136,13 @@ In deze regeling wordt verstaan onder:
 
 - b. met goed gevolg bij een vlieginstructeur Yak-52 een opleiding heeft afgerond voor de Yak-52 typebevoegdverklaring conform [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032948&bijlage=2&z=2020-10-01&g=2020-10-01) bij deze regeling.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De opleiding bedoeld in [artikel 5, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032948&paragraaf=4&artikel=5&z=2020-10-01&g=2020-10-01), wordt afgesloten met een vaardigheidstoets afgenomen door een vlieginstructeur Yak-52 die niet de opleiding, in z’n geheel of een voornamelijk deel ervan, heeft gegeven.
 
 2. Het toetsen van theoretische kennis teneinde het type veilig te kunnen vliegen maakt onderdeel uit van de vaardigheidstoets.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De Yak-52 typebevoegdverklaring wordt door de minister afgegeven voor een periode van 2 jaar.
 
@@ -128,11 +154,11 @@ In deze regeling wordt verstaan onder:
 
 - b. met goed gevolg een vaardigheidstoets als bedoeld in het tweede lid is afgelegd.
 
-#### Artikel 8
+##### Artikel 8
 
 Voor het behouden van de Yak-52 typebevoegdverklaring is vereist dat ten minste 10 uren vliegervaring op een Yak-52 vliegtuig per kalenderjaar zijn voltooid.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Door de vlieginstructeur Yak-52 wordt een deugdelijke administratie bijgehouden met betrekking tot de voortgang van de opleiding en het eindresultaat.
 
@@ -140,23 +166,23 @@ Voor het behouden van de Yak-52 typebevoegdverklaring is vereist dat ten minste 
 
 #### § 5. Overgangsbepaling
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
 #### § 6. Wijziging van de [Regeling onderhoud luchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0012882)
 
-#### Artikel 11
+##### Artikel 11
 
 Wijzigt de Regeling onderhoud luchtvaartuigen.
 
 #### § 7. Slotbepalingen
 
-#### Artikel 12
+##### Artikel 12
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 13
+##### Artikel 13
 
 Deze regeling wordt aangehaald als: Regeling Yakovlev-52 vliegtuigen.
 
@@ -230,7 +256,7 @@ Deze regeling wordt aangehaald als: Regeling Yakovlev-52 vliegtuigen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Deze regeling berust op de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=9), [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=12), en [13 van het Besluit luchtvaartuigen 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=13), [artikel 7, eerste lid, van het Besluit vluchtuitvoering](https://wetten.overheid.nl/jci1.3:c:BWBR0020111&artikel=7), de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=5), [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=9), en [10, tweede lid, van het Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=10), en [artikel 19, derde lid, van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=19).
 

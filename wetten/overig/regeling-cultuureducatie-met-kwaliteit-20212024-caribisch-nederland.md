@@ -1,13 +1,35 @@
 ---
 title: "Regeling Cultuureducatie met Kwaliteit 2021–2024 Caribisch Nederland"
 identifier: "BWBR0044392"
-categorie: "Overig"
-publicatiedatum: 2020-11-28
-laatste_update: 2020-11-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044392"
+country: "nl"
+rank: "zbo"
+publication_date: "2020-11-28"
+last_updated: "2020-11-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044392"
+soort: "zbo"
+stam_id: "15713733"
+version_id: "27233542"
+internal_id: "C38479381"
+label_id: "15652644"
+dtd_version: "2.0"
+original_entry_into_force: "2020-11-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044392/2020-11-28/0"
+intitule_bron: "Stcrt.2020-61829"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2020-11-27"
+intitule_in_force: "2020-11-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-61829"
+original_published_date: "2020-11-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-61829"
+entry_into_force_date: "2020-11-28"
+jci_1_3: "jci1.3:c:BWBR0044392&z=2020-11-28&g=2020-11-28"
+jci_1_0: "1.0:c:BWBR0044392&g=2020-11-28"
+citeertitel_status: "officieel"
+entry_into_force: "2020-11-28"
 ---
-
 # Regeling Cultuureducatie met Kwaliteit 2021–2024 Caribisch Nederland
 
 gelet op [artikel 10, vierde lid van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
@@ -22,7 +44,7 @@ besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -60,15 +82,15 @@ In deze regeling wordt verstaan onder:
 
 - q). **de Rijkscultuurfondsen:** Fonds podiumkunsten, Stimuleringsfonds creatieve industrie, Mondriaan fonds, Filmfonds, Nederlands letterenfonds en het Fonds voor cultuurparticipatie.
 
-#### Artikel 2. Doel van de regeling
+##### Artikel 2. Doel van de regeling
 
 Met deze regeling stimuleert het Fonds het duurzaam versterken van de kwaliteit van cultuureducatie op Caribisch Nederland, te realiseren door middel van intensieve samenwerking tussen onderwijs en de culturele sector. De samenwerking berust op een onderwijskundige visie op cultuureducatie en dient de culturele ontwikkeling van het kind centraal te stellen. Daarbij is er aandacht voor het vergroten van de kansengelijkheid voor kinderen.
 
-#### Artikel 3. Wie kan aanvragen
+##### Artikel 3. Wie kan aanvragen
 
 Subsidie kan uitsluitend worden aangevraagd door een culturele instelling met rechtspersoonlijkheid zonder winstoogmerk, of een schoolbestuur van een basis- of voortgezet onderwijsinstelling. Per eiland wijst het openbaar lichaam één aanvrager voor dat eiland aan.
 
-#### Artikel 4. Waarvoor kan worden aangevraagd
+##### Artikel 4. Waarvoor kan worden aangevraagd
 
 1. Een aanvraag voor meerjarige subsidie wordt ingediend voor het realiseren en het duurzaam versterken van de kwaliteit van cultuureducatie. Dit wordt uitgevoerd door middel van intensieve samenwerking tussen het onderwijs en de culturele sector. De samenwerking berust op een onderwijskundige visie op cultuureducatie en dient de culturele ontwikkeling van het kind centraal te stellen. Daarbij is er aandacht voor het vergroten van de kansengelijkheid voor kinderen. De wijze waarop het doel wordt gerealiseerd is door middel van:
 
@@ -78,7 +100,7 @@ Subsidie kan uitsluitend worden aangevraagd door een culturele instelling met re
 
 2. De primaire doelgroep voor deze regeling is het primair onderwijs en het culturele veld. Het voortgezet onderwijs kan evenwel een samenwerkingspartner zijn.
 
-#### Artikel 5. Subsidieverstrekking
+##### Artikel 5. Subsidieverstrekking
 
 1. Subsidie wordt verstrekt in een tweetal rondes:
 
@@ -88,7 +110,7 @@ Subsidie kan uitsluitend worden aangevraagd door een culturele instelling met re
 
 2. Een aanvraag in de tweede ronde hoeft niet voorafgegaan te zijn door een gehonoreerde aanvraag in de eerste ronde.
 
-#### Artikel 6. Subsidieplafond
+##### Artikel 6. Subsidieplafond
 
 1. Het subsidieplafond voor de aanvragen in:
 
@@ -100,7 +122,7 @@ Subsidie kan uitsluitend worden aangevraagd door een culturele instelling met re
 
 3. Een besluit tot het verhogen of verlagen van een subsidieplafond wordt bekendgemaakt via de website van het Fonds.
 
-#### Artikel 7. Hoogte van de subsidie
+##### Artikel 7. Hoogte van de subsidie
 
 1. Voor aanvragen van ieder openbaar lichaam is per ronde beschikbaar:
 
@@ -110,7 +132,7 @@ Subsidie kan uitsluitend worden aangevraagd door een culturele instelling met re
 
 2. Het aantal inwoners per eiland wordt voor de volledige looptijd van de regeling vastgesteld op basis van de CBS-gegevens van 1 januari 2019.
 
-#### Artikel 8. Weigeringsgronden
+##### Artikel 8. Weigeringsgronden
 
 1. Een subsidieaanvraag wordt geweigerd indien voor dezelfde activiteiten reeds subsidie is of zal worden verleend:
 
@@ -134,7 +156,7 @@ Subsidie kan uitsluitend worden aangevraagd door een culturele instelling met re
 
 - f. de aanvraag onvoldoende concreet is met betrekking tot de uit te voeren activiteiten.
 
-#### Artikel 9. Bijzondere verplichtingen
+##### Artikel 9. Bijzondere verplichtingen
 
 De penvoerder:
 
@@ -160,7 +182,7 @@ De penvoerder:
 
 ### Hoofdstuk 2. Aanvraagprocedures
 
-#### Artikel 10. Aanvraagtermijnen
+##### Artikel 10. Aanvraagtermijnen
 
 1. Voor ronde 1: aanvragen kunnen worden ingediend vanaf 1 december 2020 en dienen voor 14 januari 2021 13.00 uur CEST door het Fonds te zijn ontvangen.
 
@@ -168,7 +190,7 @@ De penvoerder:
 
 3. Een te laat ingediende aanvraag wordt niet in behandeling genomen.
 
-#### Artikel 11. Aanvraagvereisten
+##### Artikel 11. Aanvraagvereisten
 
 1. Een aanvraag wordt ingediend via de website van het Fonds middels een digitaal aanvraagformulier.
 
@@ -190,7 +212,7 @@ De penvoerder:
 
 - h. in geval van (samenwerking met) een culturele instelling die gesubsidieerd wordt uit de [Subsidieregeling culturele basisinfrastructuur 2021–2024](https://wetten.overheid.nl/jci1.3:c:BWBR0042754): een toelichting op de reguliere taken voor cultuureducatie.
 
-#### Artikel 12. Beoordelingscriteria
+##### Artikel 12. Beoordelingscriteria
 
 1. Aanvragen worden beoordeeld aan de hand van de volgende criteria:
 
@@ -204,27 +226,27 @@ De penvoerder:
 
 2. Om voor subsidie in aanmerking te komen, moet een aanvraag op alle in het eerste lid genoemde criteria positief zijn beoordeeld. De wijze waarop aan de criteria wordt getoetst, is terug te vinden in de toelichting.
 
-#### Artikel 13. Adviescommissie
+##### Artikel 13. Adviescommissie
 
 Aanvragen die voldoen aan de formele vereisten om voor subsidie in aanmerking te komen, worden ter advisering voorgelegd aan de interne adviescommissie van het Fonds. Het Fonds besluit over de aanvraag op basis van het advies van de commissie.
 
-#### Artikel 14. Beoordelingswijze
+##### Artikel 14. Beoordelingswijze
 
 Iedere aanvraag wordt beoordeeld op basis van de eigen kwaliteit. Aanvragen die op tijd en volledig zijn ontvangen, worden in behandeling genomen. De aanvragen worden beoordeeld op basis van de beoordelingscriteria en op volgorde van binnenkomst.
 
-#### Artikel 15. Beslistermijn
+##### Artikel 15. Beslistermijn
 
 Het bestuur beslist binnen 13 weken nadat een aanvraag is ontvangen.
 
 ### Hoofdstuk 3. Verantwoording subsidies
 
-#### Artikel 16. Subsidies hoger dan € 25.000,–
+##### Artikel 16. Subsidies hoger dan € 25.000,–
 
 - a. Indien de subsidie meer dan € 25.000,– bedraagt, toont de subsidieontvanger aan de hand van een activiteitenverslag en financiële verantwoording aan dat de activiteiten waarvoor subsidie is verstrekt zijn verricht en dat is voldaan aan de subsidieverplichtingen.
 
 - b. Tussentijds verzoekt het Fonds om een verantwoording op de prestatieafspraken en de financiën. Deze tussentijdse verantwoording dient het Fonds uiterlijk 1 maart van het tweede jaar van het project te ontvangen, dit geldt voor zowel ronde 1 als ronde 2. Het Fonds levert hier een verplicht te gebruiken format voor aan.
 
-#### Artikel 17. Melding van wijzigingen
+##### Artikel 17. Melding van wijzigingen
 
 De penvoerder doet direct melding aan het Fonds als:
 
@@ -236,26 +258,26 @@ De penvoerder doet direct melding aan het Fonds als:
 
 ### Hoofdstuk 4. Overige regelingen
 
-#### Artikel 18. [Algemeen Subsidiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0039127)
+##### Artikel 18. [Algemeen Subsidiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0039127)
 
 Voor zover de regeling daar niet in voorziet, zijn de bepalingen uit het [Algemeen Subsidiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0039127) van toepassing.
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 19. Hardheidsclausule
+##### Artikel 19. Hardheidsclausule
 
 In bijzondere of uitzonderlijke gevallen, waarbij het opstellen van deze subsidieregeling geen rekening mee is gehouden en die een onredelijke uitwerking hebben, kan het Fonds ten gunste van de aanvrager afwijken van de rechten en plichten die in deze regeling zijn opgenomen.
 
-#### Artikel 20. Begrotingsvoorbehoud
+##### Artikel 20. Begrotingsvoorbehoud
 
 Subsidie wordt verleend onder voorbehoud van verstrekking van de bijbehorende middelen door de Minister van Onderwijs, Cultuur en Wetenschap.
 
-#### Artikel 21. Inwerkingtreding en vervaldatum
+##### Artikel 21. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 1 januari 2027. Op bezwaar- en beroepsprocedures die op dat moment nog niet zijn afgerond, blijft het bepaalde in deze regeling van overeenkomstige toepassing.
 
-#### Artikel 22. Citeertitel
+##### Artikel 22. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling Cultuureducatie met Kwaliteit 2021–2024 Caribisch Nederland.

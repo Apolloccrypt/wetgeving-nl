@@ -1,20 +1,45 @@
 ---
 title: "Beleidsregel experiment patiëntengroepsgebonden afstemming binnen Zvw-verzekerde zorg"
 identifier: "BWBR0049689"
-categorie: "Sociaal recht"
-publicatiedatum: 2024-05-11
-laatste_update: 2024-05-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049689"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-05-11"
+last_updated: "2024-05-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049689"
+soort: "zbo"
+stam_id: "17100353"
+version_id: "30095032"
+internal_id: "C43121361"
+label_id: "17009034"
+dtd_version: "2.0"
+original_entry_into_force: "2024-05-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049689/2024-05-11/0"
+intitule_bron: "Stcrt.2024-15090"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-04-23"
+intitule_published: "2024-05-10"
+intitule_in_force: "2024-05-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-15090"
+original_signed_date: "2024-04-23"
+original_published_date: "2024-05-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-15090"
+entry_into_force_date: "2024-05-11"
+jci_1_3: "jci1.3:c:BWBR0049689&z=2024-05-11&g=2024-05-11"
+jci_1_0: "1.0:c:BWBR0049689&g=2024-05-11"
+citeertitel_status: "officieel"
+signed_date: "2024-04-23"
+entry_into_force: "2024-05-11"
 ---
-
 # Beleidsregel experiment patiëntengroepsgebonden afstemming binnen Zvw-verzekerde zorg
 
 Gelet op [artikel 57, eerste lid, onderdelen b en c, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot het uitoefenen van de bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen.
 
 Onder verwijzing naar [artikel 58 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=58), is in de voorliggende beleidsregel een experiment opgenomen. De daartoe vereiste aanwijzing van 19 april 2024 met kenmerk 3805336-1064180-PZO, bedoeld in [artikel 59, aanhef en onder f, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=59), is door de Minister van aan de NZa gegeven.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
@@ -32,25 +57,25 @@ In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
 - b. natuurlijk persoon of rechtspersoon voor zover deze tarieven in rekening brengt namens, ten behoeve van of in verband met het verlenen van zorg door een zorgaanbieder als bedoeld onder a;
 
-#### Artikel 2. Doel van de beleidsregel
+##### Artikel 2. Doel van de beleidsregel
 
 Het doel van deze beleidsregel is om vast te leggen op welke wijze de NZa gebruik maakt van haar bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen op het gebied van patiëntengroepsgebonden afstemming.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze beleidsregel is van toepassing op patiëntengroepsgebonden afstemming zoals omschreven in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049689&artikel=1&z=2024-05-11&g=2024-05-11) van deze beleidsregel voor zover deze afstemming direct ten dienste staat van een of meerdere zorgvormen onder de aanspraken van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450).
 
-#### Artikel 4. Prestatiebeschrijving
+##### Artikel 4. Prestatiebeschrijving
 
 De samenwerking door een zorgaanbieder met derden, voor zover het patiëntengroepsgebonden afstemming betreft en het direct ten dienste staat van een of meerdere zorgvormen onder de aanspraken van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450). De samenwerking is niet specifiek gericht op individuele verzekerden/cliënten, maar meer in algemene zin op groepen van verzekerden/cliënten.
 
 De prestatiebeschrijving kan alleen in rekening worden gebracht indien de zorgaanbieder en de ziektekostenverzekeraar hiervoor een schriftelijke afspraak hebben gemaakt. Het voorgaande wordt opgenomen in de beschikking van de NZa waarin de prestatiebeschrijving en het tarief worden vastgesteld.
 
-#### Artikel 5. Tariefsoort
+##### Artikel 5. Tariefsoort
 
 Voor de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049689&artikel=4&z=2024-05-11&g=2024-05-11) genoemde prestatiebeschrijving geldt een vrij tarief zoals bedoeld in [artikel 50, eerste lid, onder a, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50).
 
-#### Artikel 6. Monitoring en evaluatie
+##### Artikel 6. Monitoring en evaluatie
 
 De NZa evalueert deze experimentbeleidsregel conform [artikel 58 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=58). Daarnaast rapporteert de NZa over de uitslag van het experiment zoals bedoeld in het zevende lid van artikel 58 van de Wmg aan de Minister. In de aanwijzing van de Minister is bepaald dat de NZa hierbij in elk geval rapporteert:
 
@@ -96,7 +121,7 @@ De NZa evalueert deze experimentbeleidsregel conform [artikel 58 van de Wmg](htt
 
 - o. welke voor- en nadelen er zijn en hoe deze kunnen worden gewogen? Wat zijn eventuele ideeën ten aanzien van (bijstelling van) de positionering of vormgeving van de prestatiebeschrijving?
 
-#### Artikel 7. Inwerkingtreding en bekendmaking
+##### Artikel 7. Inwerkingtreding en bekendmaking
 
 Deze beleidsregel treedt in werking met ingang van 1 mei 2024 en vervalt met ingang van 1 mei 2029.
 
@@ -106,6 +131,6 @@ Na het vervallen van deze beleidsregel met ingang van 1 mei 2029, blijft deze be
 
 De beleidsregel ligt ter inzage bij de NZa en is te raadplegen op [https://www.nza.nl](https://www.nza.nl/).
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel experiment patiëntengroepsgebonden afstemming binnen Zvw-verzekerde zorg.

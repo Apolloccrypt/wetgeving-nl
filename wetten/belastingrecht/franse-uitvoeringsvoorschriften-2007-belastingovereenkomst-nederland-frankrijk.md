@@ -1,13 +1,38 @@
 ---
 title: "Franse uitvoeringsvoorschriften 2007 belastingovereenkomst Nederland-Frankrijk"
 identifier: "BWBR0021495"
-categorie: "Belastingrecht"
-publicatiedatum: 2007-03-17
-laatste_update: 2007-03-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0021495"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2007-03-17"
+last_updated: "2007-03-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0021495"
+soort: "beleidsregel"
+stam_id: "8993093"
+version_id: "14306982"
+internal_id: "C19461961"
+label_id: "8972314"
+dtd_version: "2.0"
+original_entry_into_force: "2007-03-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0021495/2007-03-17/0"
+intitule_bron: "Stcrt.2007-53"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-03-06"
+intitule_published: "2007-03-15"
+intitule_in_force: "2007-03-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-53"
+original_signed_date: "2007-03-06"
+original_published_date: "2007-03-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2007-53-p10-SC79674"
+entry_into_force_date: "2007-03-17"
+jci_1_3: "jci1.3:c:BWBR0021495&z=2007-03-17&g=2007-03-17"
+jci_1_0: "1.0:c:BWBR0021495&g=2007-03-17"
+citeertitel_status: "officieel"
+signed_date: "2007-03-06"
+entry_into_force: "2007-03-17"
 ---
-
 # Franse uitvoeringsvoorschriften 2007 belastingovereenkomst Nederland-Frankrijk
 
 In dit besluit zijn opgenomen de nieuwe Franse uitvoeringsvoorschriften die van toepassing zijn onder het belastingverdrag Nederland-Frankrijk.

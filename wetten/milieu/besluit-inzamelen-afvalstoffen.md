@@ -1,13 +1,39 @@
 ---
-title: "Besluit inzamelen afvalstoffen"
+title: "Besluit van 19 maart 2004, houdende regels met betrekking tot het inzamelen van bedrijfsafvalstoffen of gevaarlijke afvalstoffen (Besluit inzamelen afvalstoffen)"
 identifier: "BWBR0016530"
-categorie: "Milieu"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0016530"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0016530"
+soort: "AMvB"
+stam_id: "5802523"
+version_id: "24575382"
+internal_id: "C35192401"
+label_id: "5783034"
+dtd_version: "2.0"
+original_entry_into_force: "2017-10-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0016530/2024-01-01/0"
+intitule_bron: "Stb.2004-127"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-03-19"
+intitule_published: "2004-03-31"
+intitule_in_force: "2004-04-27"
+intitule_status: "goed"
+original_publication: "Stb.2017-423"
+original_signed_date: "2017-10-24"
+original_published_date: "2017-11-10"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2017-423"
+entry_into_force_date: "2017-10-24"
+jci_1_3: "jci1.3:c:BWBR0016530&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0016530&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit inzamelen afvalstoffen"
+signed_date: "2017-10-24"
+entry_into_force: "2017-10-24"
 ---
-
 # Besluit van 19 maart 2004, houdende regels met betrekking tot het inzamelen van bedrijfsafvalstoffen of gevaarlijke afvalstoffen (Besluit inzamelen afvalstoffen)
 
 Op de voordracht van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 31 oktober 2003, nr. MJZ2003108190, Centrale Directie Juridische Zaken, Afdeling Wetgeving;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit wordt verstaan onder:
 
@@ -70,37 +96,37 @@ Hebben goedgevonden en verstaan:
 
 #### § 1a. De inzameling en het vervoer van bedrijfsafvalstoffen en gevaarlijke afvalstoffen
 
-#### Artikel 2
+##### Artikel 2
 
 Een aanvraag voor vermelding op de lijst van inzamelaars wordt gedaan bij de instantie.
 
-#### Artikel 3
+##### Artikel 3
 
 Bij regeling van Onze Minister wordt bepaald op welke wijze de aanvraag geschiedt en welke gegevens daarbij worden verstrekt.
 
-#### Artikel 4
+##### Artikel 4
 
 Een inzamelaar die staat vermeld op de lijst van inzamelaars, meldt een verandering van de gegevens, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01), onverwijld aan de instantie op een door Onze Minister te bepalen wijze.
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 De inzamelaar heeft tijdens het inzamelen een gewaarmerkte kopie, zichtbaar ten behoeve van de handhaving, aanwezig van het certificaat waaruit blijkt dat hij op de lijst van inzamelaars staat vermeld.
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 Het verbod, bedoeld in [artikel 10.45, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.45), om zonder vermelding op een lijst van inzamelaars bedrijfsafvalstoffen of gevaarlijke afvalstoffen in te zamelen, geldt niet voor het niet-beroepsmatig inzamelen van bedrijfsafvalstoffen of gevaarlijke afvalstoffen.
 
 #### § 3. Inzamelvergunning
 
-#### Artikel 9
+##### Artikel 9
 
 Een vergunning van Onze Minister is vereist voor het inzamelen van:
 
@@ -110,7 +136,7 @@ Een vergunning van Onze Minister is vereist voor het inzamelen van:
 
 - c. scheepsafvalstoffen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De aanvraag om een vergunning bevat:
 
@@ -128,7 +154,7 @@ Een vergunning van Onze Minister is vereist voor het inzamelen van:
 
 2. De aanvraag om een vergunning wordt gedaan met een daartoe door Onze Minister vastgesteld formulier.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Bij de aanvraag om een vergunning worden de volgende gegevens verstrekt:
 
@@ -158,7 +184,7 @@ Een vergunning van Onze Minister is vereist voor het inzamelen van:
 
 #### § 4. Overgangs- en slotbepalingen
 
-#### Artikel 12
+##### Artikel 12
 
 1. Degene die op het tijdstip van inwerkingtreding van dit besluit bedrijfsafvalstoffen of gevaarlijke afvalstoffen inzamelt waarvoor een vermelding op de lijst van inzamelaars is vereist, dient zo spoedig mogelijk doch uiterlijk binnen drie maanden na dat tijdstip een aanvraag in voor vermelding op de lijst van inzamelaars.
 
@@ -170,63 +196,63 @@ Een vergunning van Onze Minister is vereist voor het inzamelen van:
 
 5. In andere gevallen dan bedoeld in het derde en vierde lid, geldt het bewijs van ontvangst van een ontvankelijke aanvraag als vermelding op de lijst van inzamelaars totdat is beslist op de aanvraag.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Degene die op het tijdstip van inwerkingtreding van dit besluit bedrijfsafvalstoffen of gevaarlijke afvalstoffen inzamelt waarvoor een vergunning is vereist, maar waarvoor voor dat tijdstip geen vergunning was vereist, dient zo spoedig mogelijk doch uiterlijk binnen drie maanden na dat tijdstip een aanvraag om een vergunning in.
 
 2. Onze Minister verstrekt de aanvrager die een ontvankelijke aanvraag heeft ingediend per omgaand een bewijs van ontvangst van de aanvraag. Dit bewijs geldt als een vergunning als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=3&artikel=9&z=2024-01-01&g=2024-01-01) totdat op de aanvraag is beslist.
 
-#### Artikel 14
+##### Artikel 14
 
 1. In afwijking van [artikel 11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=3&artikel=11&z=2024-01-01&g=2024-01-01), kan tot uiterlijk drie jaar na het tijdstip van inwerkingtreding van dit besluit worden volstaan met het verstrekken van de gegevens, bedoeld in [artikel 11, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=3&artikel=11&z=2024-01-01&g=2024-01-01), of [artikel 11, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=3&artikel=11&z=2024-01-01&g=2024-01-01).
 
 2. Indien toepassing wordt gegeven aan het eerste lid, verstrekt de aanvrager uiterlijk op het tijdstip, bedoeld in het eerste lid, de gegevens, bedoeld in [artikel 11, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=3&artikel=11&z=2024-01-01&g=2024-01-01), of [artikel 11, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=3&artikel=11&z=2024-01-01&g=2024-01-01).
 
-#### Artikel 15
+##### Artikel 15
 
 Vergunningen voor het inzamelen van afgewerkte olie, klein gevaarlijk afval of scheepsafvalstoffen, die zijn verleend voor het tijdstip van inwerkingtreding van dit besluit, worden aangemerkt als vergunningen verleend op grond van dit besluit.
 
-#### Artikel 16
+##### Artikel 16
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 17
+##### Artikel 17
 
 Dit besluit wordt aangehaald als: Besluit inzamelen afvalstoffen.
 
-#### Artikel 18
+##### Artikel 18
 
 Wijzigt het Besluit akkerbouwbedrijven milieubeheer.
 
-#### Artikel 19
+##### Artikel 19
 
 Wijzigt het Besluit melkrundveehouderijen milieubeheer.
 
-#### Artikel 20
+##### Artikel 20
 
 Wijzigt het Besluit opslaan in ondergrondse tanks 1998.
 
-#### Artikel 21
+##### Artikel 21
 
 Wijzigt het Besluit tuinbouwbedrijven met bedekte teelt milieubeheer.
 
-#### Artikel 22
+##### Artikel 22
 
 Wijzigt het Besluit voorzieningen en installaties milieubeheer.
 
-#### Artikel 23
+##### Artikel 23
 
 Wijzigt het Inrichtingen- en vergunningenbesluit milieubeheer.
 
-#### Artikel 24
+##### Artikel 24
 
 Wijzigt het Lozingenbesluit Wvo bodemsanering en proefbronnering.
 
-#### Artikel 25
+##### Artikel 25
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 26
+##### Artikel 26
 
 Dit besluit wordt aangehaald als: Besluit inzamelen afvalstoffen.
 
@@ -250,11 +276,11 @@ II. Afgewerkte olie behoort tot categorie II, indien:
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Deze paragraaf berust op [artikel 10.47, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.47).
 
-#### Artikel 1b
+##### Artikel 1b
 
 Bedrijfsafvalstoffen en gevaarlijke afvalstoffen die behoren tot een categorie van afvalstoffen als bedoeld in [bijlage II bij het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&bijlage=II) en die gescheiden worden afgegeven, worden afzonderlijk ingezameld, tenzij in een vergunning, afgeven krachtens [artikel 10.48, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.48) anders is bepaald.
 

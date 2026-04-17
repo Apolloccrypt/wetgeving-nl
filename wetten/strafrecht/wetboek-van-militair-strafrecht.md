@@ -1,14 +1,36 @@
 ---
-title: "Wetboek van Militair Strafrecht"
+title: "Wet van 27 april 1903, tot vaststelling van een Wetboek van Militair Strafrecht"
 identifier: "BWBR0001869"
-categorie: "Strafrecht"
-publicatiedatum: 2020-01-01
-laatste_update: 2020-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0001869"
+country: "nl"
+rank: "rijkswet"
+publication_date: "2020-01-01"
+last_updated: "2020-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0001869"
+soort: "rijkswet"
+stam_id: "481463"
+version_id: "716002"
+internal_id: "C716001"
+label_id: "469844"
+dtd_version: "2.0"
+original_entry_into_force: "1923-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0001869/2020-01-01/0"
+intitule_bron: "Stb.1903-111"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1903-04-27"
+intitule_status: "goed"
+original_publication: "Stb.1903-111"
+original_signed_date: "1903-04-27"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1923-01-01"
+jci_1_3: "jci1.3:c:BWBR0001869&z=2020-01-01&g=2020-01-01"
+jci_1_0: "1.0:c:BWBR0001869&g=2020-01-01"
+citeertitel_status: "officieel"
+short_title: "Wetboek van Militair Strafrecht"
+signed_date: "1903-04-27"
+entry_into_force: "1923-01-01"
 ---
-
-# Wetboek van Militair Strafrecht
+# Wet van 27 april 1903, tot vaststelling van een Wetboek van Militair Strafrecht
 
 Allen, die deze zullen zien of hooren lezen, saluut! doen te weten:
 
@@ -20,7 +42,7 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 ## Inleiding Toepasselijkheid van het gemene strafrecht
 
-#### Artikel 1
+##### Artikel 1
 
 1. Bij de toepassing van dit wetboek gelden de bepalingen van het gemene strafrecht, daaronder begrepen de [negende titel van het eerste boek van het Wetboek van Strafrecht](onbekend), behoudens de afwijkingen bij de wet vastgesteld.
 
@@ -30,39 +52,39 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 - b. **Wetboek van Strafvordering:** het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) van het Europese deel van Nederland.
 
-#### Artikel 2
+##### Artikel 2
 
 Op de niet in dit wetboek omschreven strafbare feiten, begaan door in [artikel 2 van de Wet militaire strafrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&artikel=2) genoemde personen, is het gemene strafrecht toepasselijk, behoudens de afwijkingen bij de wet vastgesteld.
 
-#### Artikel 3
+##### Artikel 3
 
 De in het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854) voorkomende bepalingen betreffende feiten, begaan aan boord van of met betrekking tot een Nederlands schip, zijn ook toepasselijk op die feiten, begaan aan boord van of met betrekking tot een vaartuig der krijgsmacht, tenzij de inhoud dier bepalingen deze toepasselijkheid uitsluit of het feit valt onder een zwaardere strafbepaling.
 
 ## Titel I. Omvang van de werking der strafwet
 
-#### Artikel 4
+##### Artikel 4
 
 De Nederlandse strafwet is toepasselijk op de militair, die zich buiten Nederland aan enig strafbaar feit schuldig maakt.
 
-#### Artikel 5
+##### Artikel 5
 
 De Nederlandse strafwet is toepasselijk op ieder die zich, in tijd van oorlog, buiten Nederland schuldig maakt aan een strafbaar feit, waarvan onder die omstandigheden de kennisneming behoort aan de gerechten bedoeld in de [Wet militaire strafrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0004789).
 
 ## Titel IA. Bepalingen omtrent feiten begaan in of met betrekking tot Aruba, Curaçao en Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius en Saba
 
-#### Artikel 5a
+##### Artikel 5a
 
 1. Op feiten door in [artikel 2 van de Wet militaire strafrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&artikel=2) genoemde personen begaan in of met betrekking tot Aruba, Curaçao of Sint Maarten of in of met betrekking tot de openbare lichamen Bonaire, Sint Eustatius en Saba, is het aldaar geldende strafrecht toepasselijk, indien de Nederlandse strafwet tegen zodanige feiten geen straf bedreigt.
 
 2. Indien het strafrecht van een der in het vorige lid genoemde Rijksdelen wordt toegepast, kunnen tevens worden toegepast de bepalingen van de Nederlandse strafwet, die betrekking hebben op de voorwaardelijke veroordeling en op de terbeschikkingstelling wegens psychische stoornis of verstandelijke beperking.
 
-#### Artikel 5b
+##### Artikel 5b
 
 Indien de Nederlandse strafwet op feiten door in [artikel 2 van de Wet militaire strafrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&artikel=2) genoemde personen begaan in of met betrekking tot Aruba, Curaçao of Sint Maarten of in of met betrekking tot de openbare lichamen Bonaire, Sint Eustatius of Saba, een lagere vrijheidsstraf of geldboete stelt dan de strafwet van Aruba, Curaçao of Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius en Saba, kan een vrijheidsstraf of geldboete worden opgelegd van ten hoogste de tijd dan wel het bedrag, gesteld bij laatstbedoelde strafwet.
 
 ## Titel II. Straffen
 
-#### Artikel 6
+##### Artikel 6
 
 Onverminderd het bepaalde met betrekking tot de straffen in het gemene strafrecht kan de militair worden opgelegd:
 
@@ -70,27 +92,27 @@ Onverminderd het bepaalde met betrekking tot de straffen in het gemene strafrech
 
 - b. als bijkomende straf: ontzegging van bepaalde bevoegdheden.
 
-#### Artikel 6a
+##### Artikel 6a
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Voor de gevangenisstraf en de hechtenis gelden de in het gemene recht daarvoor gegeven regelen met dien verstande dat bij algemene maatregel van rijksbestuur voor militairen bijzondere voorschriften met betrekking tot de arbeid, de bestemming van de opbrengst van de verplichte arbeid en de geestelijke, culturele en sociale verzorging kunnen worden vastgesteld.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Ingeval gevangenisstraf of hechtenis kan worden uitgesproken is de rechter bevoegd in plaats daarvan tot militaire detentie te veroordelen.
 
@@ -98,7 +120,7 @@ Voor de gevangenisstraf en de hechtenis gelden de in het gemene recht daarvoor g
 
 3. [Artikel 27 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=27) is bij het opleggen van militaire detentie van overeenkomstige toepassing.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Militaire detentie wordt als regel in algehele of beperkte gemeenschap ondergaan. De straf wordt ten uitvoer gelegd in een inrichting als bedoeld in [artikel 1, onder b, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=1).
 
@@ -112,117 +134,117 @@ Voor de gevangenisstraf en de hechtenis gelden de in het gemene recht daarvoor g
 
 - d. de tucht.
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
-#### Artikel 14
+##### Artikel 14
 
 Voor de toepassing van de bepalingen, die betrekking hebben op de voorwaardelijke veroordeling, wordt de militaire detentie als gevangenisstraf beschouwd.
 
-#### Artikel 15
+##### Artikel 15
 
 Een opdracht tot het verlenen van bijstand aan een voorwaardelijk veroordeelde kan aan elke instelling, houder van een inrichting of bijzondere ambtenaar, die daarmede in een der rijksdelen belast is, worden gegeven.
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
-#### Artikel 17
+##### Artikel 17
 
 Vervallen
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
-#### Artikel 19
+##### Artikel 19
 
 Vervallen
 
-#### Artikel 20
+##### Artikel 20
 
 Vervallen
 
-#### Artikel 21
+##### Artikel 21
 
 1. Veroordelingen tot vrijheidsstraffen, vervangende hechtenis daaronder begrepen, kunnen, in de gevallen en op de wijze bij algemene maatregel van rijksbestuur te bepalen, geheel of gedeeltelijk ten uitvoer worden gelegd in inrichtingen in Aruba, Curaçao of Sint Maarten of in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
 2. Veroordelingen tot gevangenisstraf, militaire detentie of hechtenis, vervangende hechtenis daaronder begrepen, kunnen, indien de gelegenheid ontbreekt om gebruik te maken van een daartoe bestemde inrichting of een daartoe bestemd gebouw, in de gevallen en op de wijze bij algemene maatregel van rijksbestuur te bepalen, geheel of gedeeltelijk ten uitvoer worden gelegd hetzij in een inrichting buiten het Koninkrijk, hetzij op een andere plaats geschikt tot het ondergaan van straf.
 
-#### Artikel 22
+##### Artikel 22
 
 Vervallen
 
-#### Artikel 23
+##### Artikel 23
 
 Vervallen
 
-#### Artikel 24
+##### Artikel 24
 
 Vervallen
 
-#### Artikel 25
+##### Artikel 25
 
 Vervallen
 
-#### Artikel 25a
+##### Artikel 25a
 
 Vervallen
 
-#### Artikel 26
+##### Artikel 26
 
 Vervallen
 
-#### Artikel 27
+##### Artikel 27
 
 Vervallen
 
-#### Artikel 28
+##### Artikel 28
 
 Vervallen
 
-#### Artikel 29
+##### Artikel 29
 
 Vervallen
 
-#### Artikel 30
+##### Artikel 30
 
 Vervallen
 
-#### Artikel 31
+##### Artikel 31
 
 Vervallen
 
-#### Artikel 32
+##### Artikel 32
 
 Vervallen
 
-#### Artikel 33
+##### Artikel 33
 
 Vervallen
 
-#### Artikel 34
+##### Artikel 34
 
 Vervallen
 
-#### Artikel 35
+##### Artikel 35
 
 1. Ontzetting van de rechten, vermeld in [artikel 28, eerste lid, onder 1° en 2°, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Eerste&titeldeel=II&artikel=28&z=2020-01-01&g=2020-01-01), kan worden uitgesproken bij veroordeling wegens enig opzettelijk gepleegd misdrijf, in dit wetboek omschreven.
 
 2. Ontzetting van het recht, vermeld in [artikel 28, eerste lid, onder 3°, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=28), kan worden uitgesproken bij veroordeling tot gevangenisstraf van tenminste een jaar wegens het plegen van een misdrijf als omschreven in het [Tweede Boek, Titel I, van dit wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=I&z=2020-01-01&g=2020-01-01).
 
-#### Artikel 35a
+##### Artikel 35a
 
 Indien een persoon genoemd in [artikel 2 van de Wet militaire strafrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&artikel=2) naar aanleiding van een strafbaar feit begaan in of met betrekking tot Aruba, Curaçao en Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius en Saba, is ontzet uit een van de rechten vermeld in [artikel 28, eerste lid, onderdelen 1° tot en met 5°, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=28), heeft deze ontzetting ook betrekking op de uitoefening van die rechten in de betrokken rijksdelen en openbare lichamen.
 
-#### Artikel 35b
+##### Artikel 35b
 
 1. Ingeval tegen de bestuurder van een motorrijtuig proces-verbaal wordt opgemaakt ter zake van overtreding van [artikel 163](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=XII&artikel=163&z=2020-01-01&g=2020-01-01) of [artikel 164](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=XII&artikel=164&z=2020-01-01&g=2020-01-01) van dit wetboek, is [artikel 164 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=164) van overeenkomstige toepassing, met dien verstande dat de in laatstgenoemd artikel omschreven verplichting tot overgifte betrekking heeft op elk aan de bestuurder ingevolge enige binnen het Koninkrijk geldende regeling afgegeven rijbewijs alsmede op het hem in het buitenland uitgereikt internationaal rijbewijs.
 
 2. Indien [artikel 164 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=164) wordt toegepast in een geval dat zich voordoet in Aruba, Curaçao of Sint Maarten of in de openbare lichamen Bonaire, Sint Eustatius en Saba, worden onder opsporingsambtenaren als bedoeld in dat artikel mede begrepen de militairen die aldaar zijn aangesteld als opsporingsambtenaar.
 
-#### Artikel 36
+##### Artikel 36
 
 1. Bij veroordeling van de bestuurder van een motorrijtuig wegens overtreding van [artikel 163](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=XII&artikel=163&z=2020-01-01&g=2020-01-01), [164](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=XII&artikel=164&z=2020-01-01&g=2020-01-01), [167](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Derde&titeldeel=I&artikel=167&z=2020-01-01&g=2020-01-01) of [169](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Derde&titeldeel=I&artikel=169&z=2020-01-01&g=2020-01-01) kan hem de bevoegdheid motorrijtuigen te besturen voor de duur van ten hoogste vijf jaren worden ontzegd.
 
@@ -230,123 +252,123 @@ Indien een persoon genoemd in [artikel 2 van de Wet militaire strafrechtspraak](
 
 3. [Artikel 179, vierde en zesde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=179) is van overeenkomstige toepassing.
 
-#### Artikel 36a
+##### Artikel 36a
 
 Bij veroordeling van een lid van de bemanning van een luchtvaartuig wegens overtreding van [artikel 168](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Derde&titeldeel=I&artikel=168&z=2020-01-01&g=2020-01-01) en [artikel 169](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Derde&titeldeel=I&artikel=169&z=2020-01-01&g=2020-01-01) kan aan hem de bevoegdheid de luchtvaart uit te oefenen voor ten hoogste zes maanden worden ontzegd.
 
-#### Artikel 36b
+##### Artikel 36b
 
 Bij algemene maatregel van rijksbestuur kunnen regels worden gesteld met betrekking tot het tijdstip van ingang van de bijkomende straffen, bedoeld in de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Eerste&titeldeel=II&artikel=36&z=2020-01-01&g=2020-01-01) en [36a](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Eerste&titeldeel=II&artikel=36a&z=2020-01-01&g=2020-01-01), en de daaraan verbonden administratieve gevolgen.
 
-#### Artikel 37
+##### Artikel 37
 
 Vervallen
 
 ## Titel III. Uitsluiting, vermindering en verhoging der strafbaarheid
 
-#### Artikel 38
+##### Artikel 38
 
 1. Niet strafbaar is hij die in tijd van oorlog binnen de grenzen zijner bevoegdheid een naar de regelen van het oorlogsrecht geoorloofd feit begaat, of wiens bestraffing strijdig zou zijn met een verdrag, geldende tussen Nederland en de mogendheid waarmede Nederland in oorlog is, of met enig voorschrift, ingevolge zodanig verdrag vastgesteld.
 
 2. Niet strafbaar is de militair die geweld gebruikt in de rechtmatige uitoefening van zijn taak en in overeenstemming met de regels die voor de uitoefening van die taak zijn vastgesteld.
 
-#### Artikel 39
+##### Artikel 39
 
 Vervallen
 
-#### Artikel 40
+##### Artikel 40
 
 Vervallen
 
-#### Artikel 41
+##### Artikel 41
 
 Vervallen
 
-#### Artikel 42
+##### Artikel 42
 
 Vervallen
 
-#### Artikel 43
+##### Artikel 43
 
 Vervallen
 
-#### Artikel 44
+##### Artikel 44
 
 Vervallen
 
-#### Artikel 44a
+##### Artikel 44a
 
 De verpleging van personen die krachtens uitspraak van een van de gerechten bedoeld in de [Wet militaire strafrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0004789) ter beschikking zijn gesteld, kan in de gevallen en op de wijze bij algemene maatregel van rijksbestuur te bepalen geschieden in Aruba, Curaçao of Sint Maarten of in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 45
+##### Artikel 45
 
 Vervallen
 
-#### Artikel 46
+##### Artikel 46
 
 Indien een militair door het begaan van een misdrijf waarop hechtenis is gesteld, een dienstplicht schendt, wordt hij, onverminderd de toepassing van [artikel 44 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=44), gestraft met gevangenisstraf van ten hoogste de duur der op dat misdrijf gestelde hechtenis.
 
-#### Artikel 47
+##### Artikel 47
 
 Vervallen
 
-#### Artikel 48
+##### Artikel 48
 
 Ten aanzien van een militair die opzettelijk met een militair van mindere rang of stand aan enig opzettelijk gepleegd misdrijf deelneemt, wordt het maximum van de daarop gestelde tijdelijke gevangenisstraf met de helft verhoogd.
 
 ## Titel IV. Poging
 
-#### Artikel 49
+##### Artikel 49
 
 Vervallen
 
 ## Titel V. Deelneming aan strafbare feiten
 
-#### Artikel 50
+##### Artikel 50
 
 Vervallen
 
 ## Titel VI. Samenloop van strafbare feiten
 
-#### Artikel 51
+##### Artikel 51
 
 Vervallen
 
-#### Artikel 52
+##### Artikel 52
 
 Vervallen
 
-#### Artikel 53
+##### Artikel 53
 
 Vervallen
 
 ## Titel VII. Misdrijven naar het gemene strafrecht alleen op klachte vervolgbaar
 
-#### Artikel 54
+##### Artikel 54
 
 Indien een der misdrijven, omschreven in de [artikelen 245](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=245), [248a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=248a) en [281 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=281), gepleegd is in tijd van oorlog, door een persoon, genoemd in [artikel 2 van de Wet militaire strafrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&artikel=2), kan de vervolging ambtshalve plaatshebben.
 
 ## Titel VIII. Verval van het recht tot strafvordering en van de straf
 
-#### Artikel 55
+##### Artikel 55
 
 Vervallen
 
-#### Artikel 56
+##### Artikel 56
 
 Het recht tot strafvordering ter zake van de misdrijven omschreven in de [artikelen 100](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=III&artikel=100&z=2020-01-01&g=2020-01-01), [109](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=III&artikel=109&z=2020-01-01&g=2020-01-01) en [110](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=III&artikel=110&z=2020-01-01&g=2020-01-01), vervalt door verjaring in twaalf jaren.
 
-#### Artikel 57
+##### Artikel 57
 
 1. Ten aanzien van een persoon die ten tijde van het begaan van het misdrijf de leeftijd van achttien jaren nog niet heeft bereikt, wordt de in [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Eerste&titeldeel=VIII&artikel=56&z=2020-01-01&g=2020-01-01) vermelde verjaringstermijn tot de helft van de daar bedoelde duur ingekort.
 
 2. Ten aanzien van zodanige persoon is de termijn der verjaring van het recht tot uitvoering der straf, opgelegd wegens een misdrijf als bedoeld bij [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Eerste&titeldeel=VIII&artikel=56&z=2020-01-01&g=2020-01-01), een derde langer dan de bij het voorgaande lid bepaalde termijn der verjaring van het recht tot strafvordering wegens dat misdrijf.
 
-#### Artikel 58
+##### Artikel 58
 
 De termijn van verjaring van het recht tot strafvordering ter zake van ongeoorloofde afwezigheid, van desertie en van de misdrijven omschreven in de [artikelen 109](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=III&artikel=109&z=2020-01-01&g=2020-01-01) en [110](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=III&artikel=110&z=2020-01-01&g=2020-01-01), vangt aan met de dag na die waarop de afwezigheid is aangevangen.
 
-#### Artikel 59
+##### Artikel 59
 
 1. De krachtens [artikel 59 van de Wet militaire strafrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&artikel=59) aangewezen bevelvoerende militairen kunnen buiten het Koninkrijk of binnen de territoriale zee, onder omstandigheden en in zaken bij algemene maatregel van rijksbestuur vast te stellen, een strafbeschikking als bedoeld in [Titel IVA van het Tweede Boek van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&titeldeel=IVa) uitvaardigen.
 
@@ -356,7 +378,7 @@ De termijn van verjaring van het recht tot strafvordering ter zake van ongeoorlo
 
 ## Titel IX. Betekenis van sommige in het wetboek voorkomende uitdrukkingen - Uitbreiding der toepasselijkheid van sommige bepalingen
 
-#### Artikel 60
+##### Artikel 60
 
 Onder militairen worden verstaan:
 
@@ -364,15 +386,15 @@ Onder militairen worden verstaan:
 
 - 2°. alle andere vrijwilligers bij de krijgsmacht en de dienstplichtigen, zo vaak en zolang zij in werkelijke dienst zijn, alsmede wanneer zij buiten werkelijke dienst in het tijdvak gedurende hetwelk zij voor die dienst kunnen worden opgeroepen, een der feiten plegen omschreven in de [artikelen 109](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=III&artikel=109&z=2020-01-01&g=2020-01-01) en [110 van dit wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=III&artikel=110&z=2020-01-01&g=2020-01-01).
 
-#### Artikel 60a
+##### Artikel 60a
 
 Bij algemene maatregel van rijksbestuur kan worden bepaald dat vreemde militairen en een vreemde krijgsmacht voor de toepassing van daarbij aan te wijzen wettelijke bepalingen worden gelijkgesteld met Nederlandse militairen dan wel de Nederlandse krijgsmacht.
 
-#### Artikel 61
+##### Artikel 61
 
 Hij die feitelijk dient bij de krijgsmacht, wordt van rechtswege als militair aangemerkt, tenzij aannemelijk wordt gemaakt, dat hij niet onder een der bepalingen van [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Eerste&titeldeel=IX&artikel=60&z=2020-01-01&g=2020-01-01) valt.
 
-#### Artikel 62
+##### Artikel 62
 
 De in [artikel 60, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Eerste&titeldeel=IX&artikel=60&z=2020-01-01&g=2020-01-01), bedoelde vrijwilliger bij de krijgsmacht of de dienstplichtige wordt geacht in werkelijke dienst te zijn:
 
@@ -386,25 +408,25 @@ De in [artikel 60, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&bo
 
 - 5°. zolang hij in een militaire inrichting of aan boord van een vaartuig der krijgsmacht straf ondergaat.
 
-#### Artikel 63
+##### Artikel 63
 
 Onder militairen worden mede begrepen de tot enige militaire dienst gebruikt wordende gewezen militairen, in welk geval zij worden geacht de laatstelijk door hen beklede rang of de hogere, die hun bij of na het verlaten van de militaire dienst is toegekend, te bekleden.
 
-#### Artikel 64
+##### Artikel 64
 
 Vervallen
 
-#### Artikel 65
+##### Artikel 65
 
 1. Krijgsgevangenen en geïnterneerde personen die ingevolge artikel 4, onder B, van het Verdrag van Genève betreffende de behandeling van krijgsgevangenen, van 12 augustus 1949 als krijgsgevangenen moeten worden behandeld, daaronder begrepen degenen die onder belofte of voorwaarde zijn vrijgelaten, worden, met inachtneming van de door hen beklede rang, gelijkgesteld met Nederlandse militairen ten aanzien van door hen begane strafbare feiten, waartegen is voorzien bij het gemene recht, bij [artikel 80](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=I&artikel=80&z=2020-01-01&g=2020-01-01) of bij de [titels IV-VI](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=IV&z=2020-01-01&g=2020-01-01) en [VIII-XI van het tweede boek van dit wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=VIII&z=2020-01-01&g=2020-01-01), met uitzondering van de [artikelen 159-162](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=XI&artikel=159&z=2020-01-01&g=2020-01-01). Geïnterneerde vreemde militairen die krachtens beschikking van het bevoegd Nederlands gezag andere vreemde militairen onder hun bevelen hebben, worden ten aanzien van hun verhouding tot die andere personen, met inachtneming van de door hen beklede rang gelijkgesteld met Nederlandse militairen.
 
 2. Zij worden geacht tot dat deel van de krijgsmacht te behoren, onder welks bewaring zij zich bevinden.
 
-#### Artikel 66
+##### Artikel 66
 
 In de uitdrukking "hij die ....", gebezigd in de omschrijving van een strafbaar feit wordt onder het woord "hij" verstaan ieder persoon genoemd in [artikel 2 van de Wet militaire strafrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&artikel=2).
 
-#### Artikel 67
+##### Artikel 67
 
 De verhouding van meerdere tot mindere bestaat tussen militairen:
 
@@ -414,49 +436,49 @@ De verhouding van meerdere tot mindere bestaat tussen militairen:
 
 - 3°. onafhankelijk van hun rang of stand, wanneer en voor zover de ene, hetzij krachtens zijn betrekking als bevelvoerend militair, hetzij krachtens beschikking van het bevoegd gezag, de andere onder zijn bevelen heeft.
 
-#### Artikel 67a
+##### Artikel 67a
 
 Ten aanzien van vreemde militairen kan een gelijkstelling van vreemde militaire rangen met Nederlandse plaatsvinden bij of krachtens algemene maatregel van rijksbestuur.
 
-#### Artikel 68
+##### Artikel 68
 
 Vervallen
 
-#### Artikel 69
+##### Artikel 69
 
 Onder schildwacht wordt verstaan iedere militair, die met een door Onze Minister van Defensie vast te stellen wapen uitgerust of van een door Onze Minister van Defensie vast te stellen kenteken voorzien, op post of uitkijk is gesteld.
 
-#### Artikel 70
+##### Artikel 70
 
 Onder oorlogsvaartuig wordt verstaan elk ten behoeve der zeemacht gebezigd vaartuig, waarover een militair der zeemacht het bevel voert.
 
-#### Artikel 71
+##### Artikel 71
 
 In dit wetboek wordt onder oorlog mede verstaan: een gewapend conflict dat niet als oorlog kan worden aangemerkt en waarbij het Koninkrijk is betrokken, hetzij ter individuele of collectieve zelfverdediging, hetzij tot herstel van internationale vrede en veiligheid.
 
-#### Artikel 71a
+##### Artikel 71a
 
 1. Voor de toepassing van de [titels III-X](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=III&z=2020-01-01&g=2020-01-01) en de [artikelen 156](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=XI&artikel=156&z=2020-01-01&g=2020-01-01) en [159-162 van het tweede boek](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=XI&artikel=159&z=2020-01-01&g=2020-01-01) zal de rechter, onverminderd het bepaalde in de [artikelen 71b](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Eerste&titeldeel=IX&artikel=71b&z=2020-01-01&g=2020-01-01) en [72](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Eerste&titeldeel=IX&artikel=72&z=2020-01-01&g=2020-01-01), de aanwezigheid van tijd van oorlog slechts aannemen, hetzij onder feitelijke oorlogsomstandigheden, hetzij indien bij koninklijk besluit is bepaald dat een oorlog dreigende is.
 
 2. Het in het eerste lid bedoelde besluit kan betrekking hebben op de gehele krijgsmacht of op een deel daarvan.
 
-#### Artikel 71b
+##### Artikel 71b
 
 Voor de toepassing van de [artikelen 122](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=IV&artikel=122&z=2020-01-01&g=2020-01-01), [123](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=IV&artikel=123&z=2020-01-01&g=2020-01-01), [142](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=VIII&artikel=142&z=2020-01-01&g=2020-01-01), [156](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=XI&artikel=156&z=2020-01-01&g=2020-01-01) en [159-162](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=XI&artikel=159&z=2020-01-01&g=2020-01-01) wordt tijd van oorlog mede aanwezig geacht indien de in die artikelen omschreven feiten worden begaan aan boord van een oorlogsvaartuig of luchtvaartuig van de krijgsmacht dat zich ergens bevindt waar geen onmiddellijke hulp te verkrijgen is.
 
-#### Artikel 72
+##### Artikel 72
 
 Waar gesproken wordt van een misdrijf, gepleegd in tijd van oorlog, wordt daaronder mede begrepen het geval, dat de schuldige het misdrijf pleegt met het oog op een door hem aanstaand geachte oorlog tegen Nederland.
 
-#### Artikel 73
+##### Artikel 73
 
 Waar gesproken wordt van een misdrijf, gepleegd bij een gevecht met de vijand, wordt daaronder mede begrepen het geval, dat de schuldige het misdrijf pleegt met het oog op een door hem aanstaand geacht gevecht of bij een terugtocht uit een gevecht met de vijand.
 
-#### Artikel 74
+##### Artikel 74
 
 Vervallen
 
-#### Artikel 75
+##### Artikel 75
 
 1. De bepalingen van dit wetboek zijn toepasselijk, indien de daarin omschreven feiten worden gepleegd tegen of met betrekking tot vreemde mogendheden, hun krijgsmachten of personen, die daarvan deel uitmaken, voor zover:
 
@@ -468,15 +490,15 @@ Vervallen
 
 2. De bepalingen van dit wetboek zijn voorts toepasselijk indien de feiten omschreven in de [titels IV-VI](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=IV&z=2020-01-01&g=2020-01-01), [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=VIII&z=2020-01-01&g=2020-01-01) en [IX van het tweede boek](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=IX&z=2020-01-01&g=2020-01-01) worden gepleegd tegen of met betrekking tot vreemde mogendheden waarmede een overeenkomst is gesloten ter collectieve zelfverdediging, hun krijgsmachten of personen, die daarvan deel uitmaken.
 
-#### Artikel 75a
+##### Artikel 75a
 
 Een verhouding van meerdere tot mindere bestaat ten opzichte van vreemde militairen slechts voor zover dit bij algemene maatregel van rijksbestuur of door een bij algemene maatregel van rijksbestuur daartoe aangewezen autoriteit is bepaald.
 
-#### Artikel 75b
+##### Artikel 75b
 
 Voor de toepassing van de [artikelen 164](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=XII&artikel=164&z=2020-01-01&g=2020-01-01), [166](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=XII&artikel=166&z=2020-01-01&g=2020-01-01) en [169](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Derde&titeldeel=I&artikel=169&z=2020-01-01&g=2020-01-01) worden onder rij-, voer-, vaar- en luchtvaartuigen, die bij de krijgsmacht in gebruik zijn, mede begrepen rij-, voer-, vaar- en luchtvaartuigen in gebruik bij een vreemde krijgsmacht als bedoeld in [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Eerste&titeldeel=IX&artikel=75&z=2020-01-01&g=2020-01-01).
 
-#### Artikel 76
+##### Artikel 76
 
 Vervallen
 
@@ -484,13 +506,13 @@ Vervallen
 
 ## Titel I. Misdrijven tegen de veiligheid van de Staat
 
-#### Artikel 77
+##### Artikel 77
 
 1. De militair die in tijd van oorlog opzettelijk de vijand hulp verleent of de Staat tegenover de vijand benadeelt, wordt, als schuldig aan militair verraad, gestraft met, levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie.
 
 2. Met gelijke straf wordt gestraft de militair die in tijd van oorlog tot het plegen van militair verraad samenspant.
 
-#### Artikel 78
+##### Artikel 78
 
 1. Als schuldig aan verspieding wordt gestraft met, levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie:
 
@@ -502,23 +524,23 @@ Vervallen
 
 2. Het eerste lid, onder 2° en 3°, is niet van toepassing, indien de rechter blijkt, dat de dader niet ten behoeve van de vijand heeft gehandeld.
 
-#### Artikel 79
+##### Artikel 79
 
 Vervallen
 
-#### Artikel 80
+##### Artikel 80
 
 De in geval van een oorlog waarin Nederland niet betrokken is, hier te lande geïnterneerde militair van een der oorlogvoerende mogendheden, die opzettelijk in strijd met een door hem gegeven belofte zich verwijdert of een door hem gegeven belofte of aangenomen voorwaarde waaronder hem verlof is verleend om zich tijdelijk of voorgoed te verwijderen, schendt, wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vierde categorie.
 
-#### Artikel 81
+##### Artikel 81
 
 De militair die, hetzij enige handeling waarvan hij weet, althans redelijkerwijze kan vermoeden, dat de staat daardoor in gevaar van oorlogsverwikkeling wordt gebracht, opzettelijk, zonder daartoe gerechtigd te zijn, verricht, hetzij opzettelijk enig voorschrift tot handhaving van de goede betrekkingen van de Staat met andere mogendheden van regeringswege gegeven en bekendgemaakt, overtreedt, wordt gestraft met gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie.
 
-#### Artikel 82
+##### Artikel 82
 
 Vervallen
 
-#### Artikel 83
+##### Artikel 83
 
 1. Tegen de deelnemer aan enige in deze titel vermelde samenspanning, die, voordat de overheid met het bestaan daarvan bekend is, haar op zodanige wijze daarvan kennis geeft, dat dientengevolge het plegen van het voorgenomen misdrijf wordt voorkomen, is de strafvervolging uitgesloten.
 
@@ -526,7 +548,7 @@ Vervallen
 
 ## Titel II. Schending van krijgsplichten, zonder oogmerk om de vijand hulp te verlenen of de Staat tegenover de vijand te benadelen
 
-#### Artikel 84
+##### Artikel 84
 
 Met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie wordt gestraft de militair die in tijd van oorlog opzettelijk:
 
@@ -538,7 +560,7 @@ Met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of ge
 
 - 4°. de onder zijn bevelen staande krijgsmacht, geheel of ten dele, buiten noodzaak naar onzijdig gebied doet of laat overgaan.
 
-#### Artikel 85
+##### Artikel 85
 
 Met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie wordt gestraft:
 
@@ -546,7 +568,7 @@ Met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of ge
 
 - 2°. hij die in tijd van oorlog het krijgsvolk tracht te misleiden, te ontmoedigen of in verwarring te brengen.
 
-#### Artikel 86
+##### Artikel 86
 
 1. Met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie wordt gestraft:
 
@@ -556,13 +578,13 @@ Met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of ge
 
 2. De schuldige wordt gestraft met, levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie, indien hij tevens een andere militair tot een der in het eerste lid omschreven handelingen aanzet, alsmede indien hij het misdrijf begaat als bevelvoerend militair.
 
-#### Artikel 87
+##### Artikel 87
 
 1. Hij die in tijd van oorlog opzettelijk een militaire operatie doet mislukken, wordt gestraft met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie.
 
 2. De schuldige wordt gestraft met, levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie, indien hij het misdrijf begaat als bevelvoerend militair of als belast zijnde met het bestuur of toezicht over benodigdheden ten dienste van de krijgsmacht.
 
-#### Artikel 88
+##### Artikel 88
 
 Met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie wordt gestraft:
 
@@ -572,37 +594,37 @@ Met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde catego
 
 - 3°. hij die in tijd van oorlog een gebeurtenis, bijzonderheid of beschouwing, welker ruchtbaarheid enig krijgsbelang kan schaden, opzettelijk bekendmaakt, zonder van ambtswege daartoe verplicht of bevoegd te zijn.
 
-#### Artikel 89
+##### Artikel 89
 
 1. Met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie wordt gestraft hij die in tijd van oorlog opzettelijk een bevel, gegeven door een daartoe bevoegde militair, niet opvolgt, of opzettelijk een maatregel, door een militair in het belang van de dienst ondernomen of bevolen, belet, belemmert of verijdelt, indien als rechtstreeks en onmiddellijk gevolg daarvan schade ontstaat aan of te duchten is voor de gereedheid tot het daadwerkelijk uitvoeren van een operatie of oefening van enig onderdeel van de krijgsmacht.
 
 2. [Het derde lid van artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=V&artikel=127&z=2020-01-01&g=2020-01-01) en [de artikelen 131](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=V&artikel=131&z=2020-01-01&g=2020-01-01), [132](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=V&artikel=132&z=2020-01-01&g=2020-01-01) en [150](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=IX&artikel=150&z=2020-01-01&g=2020-01-01) zijn van overeenkomstige toepassing.
 
-#### Artikel 90
+##### Artikel 90
 
 1. De samenspanning tot de in de [artikelen 84](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=II&artikel=84&z=2020-01-01&g=2020-01-01), [85](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=II&artikel=85&z=2020-01-01&g=2020-01-01) en [87, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=II&artikel=87&z=2020-01-01&g=2020-01-01), omschreven misdrijven wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
 
 2. [Artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=I&artikel=83&z=2020-01-01&g=2020-01-01) is toepasselijk.
 
-#### Artikel 91
+##### Artikel 91
 
 Vervallen
 
-#### Artikel 92
+##### Artikel 92
 
 Vervallen
 
-#### Artikel 93
+##### Artikel 93
 
 Vervallen
 
-#### Artikel 94
+##### Artikel 94
 
 1. Hij aan wiens schuld te wijten is dat, in tijd van oorlog, enige versterkte of bezette plaats of post, ofwel de krijgsmacht of enig deel daarvan verloren gaat, dat een militaire operatie mislukt, of dat een vaartuig of luchtvaartuig der krijgsmacht onbruikbaar wordt, wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vierde categorie.
 
 2. Indien de schuldige het misdrijf pleegt als bevelvoerend militair of als belast zijnde met het bestuur of toezicht over benodigdheden ten dienste van de krijgsmacht, wordt hij gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
 
-#### Artikel 95
+##### Artikel 95
 
 1. De militair, aan wiens schuld te wijten is dat enige versterkte of bezette plaats of post, ofwel de krijgsmacht of enig deel daarvan door de vijand wordt overvallen, wordt gestraft met gevangenisstraf van ten hoogste drie jaren of geldboete van de vierde categorie.
 
@@ -610,7 +632,7 @@ Vervallen
 
 ## Titel III. Misdrijven waardoor de militair zich aan de vervulling van dienstverplichtingen onttrekt
 
-#### Artikel 96
+##### Artikel 96
 
 Met gevangenisstraf of hechtenis van ten hoogste een jaar of geldboete van de derde categorie wordt gestraft de militair wiens ongeoorloofde afwezigheid in tijd van vrede aan zijn schuld is te wijten:
 
@@ -620,7 +642,7 @@ Met gevangenisstraf of hechtenis van ten hoogste een jaar of geldboete van de de
 
 - 3°. indien hij daardoor een reis naar of van een plaats buiten het Koninkrijk of naar een plaats in een ander rijksdeel die, naar hij weet of redelijkerwijs moet vermoeden, is bevolen, geheel of gedeeltelijk niet meemaakt.
 
-#### Artikel 97
+##### Artikel 97
 
 Met gevangenisstraf van ten hoogste een jaar en zes maanden of geldboete van de vierde categorie wordt gestraft de militair wiens ongeoorloofde afwezigheid in tijd van oorlog aan zijn schuld is te wijten:
 
@@ -632,7 +654,7 @@ Met gevangenisstraf van ten hoogste een jaar en zes maanden of geldboete van de 
 
 - 4°. indien de afwezigheid langer dan vier dagen duurt.
 
-#### Artikel 98
+##### Artikel 98
 
 Met gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie wordt gestraft de militair die zich in tijd van vrede schuldig maakt aan opzettelijke ongeoorloofde afwezigheid:
 
@@ -640,7 +662,7 @@ Met gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie
 
 - 2°. indien de afwezigheid langer dan vier dagen duurt.
 
-#### Artikel 99
+##### Artikel 99
 
 Met gevangenisstraf van ten hoogste twee jaar of geldboete van de vierde categorie wordt gestraft de militair die zich in tijd van oorlog schuldig maakt aan opzettelijke ongeoorloofde afwezigheid:
 
@@ -648,7 +670,7 @@ Met gevangenisstraf van ten hoogste twee jaar of geldboete van de vierde categor
 
 - 2°. indien de afwezigheid langer dan twee dagen duurt.
 
-#### Artikel 100
+##### Artikel 100
 
 1. Als schuldig aan desertie wordt gestraft de militair:
 
@@ -662,7 +684,7 @@ Met gevangenisstraf van ten hoogste twee jaar of geldboete van de vierde categor
 
 3. Desertie, in tijd van oorlog gepleegd, wordt gestraft met gevangenisstraf van ten hoogste zeven jaar en zes maanden of geldboete van de vijfde categorie.
 
-#### Artikel 101
+##### Artikel 101
 
 Het maximum der in de [artikelen 98-100](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=III&artikel=98&z=2020-01-01&g=2020-01-01) gestelde gevangenisstraffen wordt verdubbeld:
 
@@ -678,7 +700,7 @@ Het maximum der in de [artikelen 98-100](https://wetten.overheid.nl/jci1.3:c:BWB
 
 - 6°. indien hij het misdrijf pleegt met medeneming van een ten behoeve van de krijgsmacht gebruikt luchtvaartuig of motorvoertuig, wapen of munitie.
 
-#### Artikel 102
+##### Artikel 102
 
 Met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie wordt gestraft:
 
@@ -686,19 +708,19 @@ Met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of ge
 
 - 2°. desertie met het oogmerk om in een door de schuldige aanstaand geachte oorlog van het Koninkrijk met een andere mogendheid of macht bij deze in krijgsdienst te treden.
 
-#### Artikel 103
+##### Artikel 103
 
 1. De samenspanning tot het in [artikel 102](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=III&artikel=102&z=2020-01-01&g=2020-01-01) omschreven misdrijf wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
 
 2. [Artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=I&artikel=83&z=2020-01-01&g=2020-01-01) is toepasselijk.
 
-#### Artikel 104
+##### Artikel 104
 
 1. Naar de onderscheidingen, gemaakt in de [artikelen 98-102](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=III&artikel=98&z=2020-01-01&g=2020-01-01) en met de daarbij gestelde straffen wordt gestraft de militair die zich opzettelijk door een listige kunstgreep of een samenweefsel van verdichtsels aan de vervulling van zijn dienstverplichtingen onttrekt of die zich opzettelijk daarvoor ongeschikt maakt of laat maken.
 
 2. Bij de toepassing van het eerste lid wordt met afwezigheid, bedoeld in de [artikelen 98-102](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=III&artikel=98&z=2020-01-01&g=2020-01-01), gelijkgesteld de tijd, gedurende welke de militair zijn dienstverplichtingen niet heeft vervuld.
 
-#### Artikel 105
+##### Artikel 105
 
 1. Met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie wordt gestraft hij die opzettelijk een militair op diens verzoek voor de vervulling van dienstverplichting ongeschikt maakt.
 
@@ -706,13 +728,13 @@ Met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of ge
 
 3. Indien het feit de dood ten gevolge heeft wordt gevangenisstraf van ten hoogste zes jaren of geldboete van de vierde categorie opgelegd.
 
-#### Artikel 106
+##### Artikel 106
 
 1. Met gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie wordt gestraft de militair die zich opzettelijk aan de vervulling van een bepaalde soort van dienstverplichtingen onttrekt of zich opzettelijk daarvoor ongeschikt maakt of laat maken, indien als rechtstreeks en onmiddellijk gevolg daarvan schade ontstaat aan of te duchten is voor de bestrijding van gemeen gevaar voor personen of goederen, dan wel de gereedheid tot het daadwerkelijk uitvoeren van een operatie of oefening van enig onderdeel van de krijgsmacht.
 
 2. Indien het feit wordt gepleegd in tijd van oorlog wordt gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie opgelegd.
 
-#### Artikel 107
+##### Artikel 107
 
 1. Met gevangenisstraf van ten hoogste drie jaren of geldboete van de vierde categorie wordt gestraft de militair die zich opzettelijk aan een bijzondere verplichting betreffende de waakzaamheid of veiligheid onttrekt of zich opzettelijk daarvoor ongeschikt maakt of laat maken, indien als rechtstreeks en onmiddellijk gevolg daarvan schade ontstaat aan of te duchten is voor de bestrijding van gemeen gevaar voor personen of goederen, de gereedheid tot het daadwerkelijke uitvoeren van een operatie of oefening van enig onderdeel van de krijgsmacht, dan wel de veiligheid.
 
@@ -720,7 +742,7 @@ Met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of ge
 
 3. Indien het feit wordt gepleegd op een door de vijand aangevallen of met aanval bedreigde plaats, dan wel op een voor de oorlogvoering essentiële plaats, wordt de schuldige gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie.
 
-#### Artikel 108
+##### Artikel 108
 
 1. Met gevangenisstraf of hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie wordt gestraft de militair aan wiens schuld het is te wijten dat hij een bijzondere verplichting betreffende de waakzaamheid of veiligheid niet vervult of niet in staat is te vervullen, indien als rechtstreeks en onmiddellijk gevolg daarvan schade ontstaat aan of te duchten is voor de bestrijding van gemeen gevaar voor personen of goederen, de gereedheid tot het daadwerkelijk uitvoeren van een operatie of oefening van enig onderdeel van de krijgsmacht, dan wel de veiligheid.
 
@@ -728,29 +750,29 @@ Met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of ge
 
 3. Indien het feit wordt gepleegd op een door de vijand aangevallen of met aanval bedreigde plaats, dan wel op een voor de oorlogvoering essentiële plaats, wordt gevangenisstraf of hechtenis van ten hoogste een jaar of geldboete van de derde categorie opgelegd.
 
-#### Artikel 109
+##### Artikel 109
 
 Met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie wordt gestraft de militair die opzettelijk niet voldoet aan een wettige oproeping voor de werkelijke dienst. Indien het feit wordt gepleegd in tijd van oorlog kan gevangenisstraf van ten hoogste vijf jaren of geldboete van de vierde categorie worden opgelegd.
 
-#### Artikel 110
+##### Artikel 110
 
 Met gevangenisstraf of hechtenis van ten hoogste negen maanden of geldboete van de derde categorie wordt gestraft de militair aan wiens schuld het is te wijten, dat hij niet voldoet aan een wettige oproeping voor de werkelijke dienst.
 
-#### Artikel 111
+##### Artikel 111
 
 1. Hij die een verlofpas valselijk opmaakt of vervalst, of die zodanig stuk op een valse naam of voornaam of met aanwijzing van een valse hoedanigheid doet afgeven, met het oogmerk om het te gebruiken of door een militair te doen gebruiken als ware het echt en onvervalst of als ware de inhoud in overeenstemming met de waarheid, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of een geldboete van de vierde categorie.
 
 2. Met gelijke straf wordt gestraft de militair die opzettelijk gebruik maakt van een valse of vervalste verlofpas als ware hij echt en onvervalst of als ware de inhoud in overeenstemming met de waarheid.
 
-#### Artikel 112
+##### Artikel 112
 
 De militair die opzettelijk van eens anders reispas, veiligheidskaart, reisorder of verlofpas gebruik maakt, als ware hij de daarin genoemde persoon, wordt gestraft met gevangenisstraf van ten hoogste een jaar en zes maanden of geldboete van de vierde categorie.
 
-#### Artikel 113
+##### Artikel 113
 
 Indien een der misdrijven, omschreven in de [artikelen 111](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=III&artikel=111&z=2020-01-01&g=2020-01-01) en [112 van dit wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=III&artikel=112&z=2020-01-01&g=2020-01-01) of in de [artikelen 228, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=228), of [229 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=229), door een militair in tijd van oorlog wordt gepleegd ten einde het misdrijf van desertie gemakkelijk te maken, wordt hij gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vierde categorie.
 
-#### Artikel 114
+##### Artikel 114
 
 1. Onder zich verwijderen wordt in deze titel mede begrepen het zich schuilhouden of zich niet bevinden op de plaats, waar de militair zijn dienstverplichtingen behoort te vervullen.
 
@@ -760,25 +782,25 @@ Indien een der misdrijven, omschreven in de [artikelen 111](https://wetten.overh
 
 ## Titel IV. Misdrijven waardoor de militair het functioneren van de krijgsmacht belemmert
 
-#### Artikel 115
+##### Artikel 115
 
 1. Met gevangenisstraf van ten hoogste een jaar en negen maanden of geldboete van de vierde categorie wordt gestraft de militair die door het stelselmatig niet nakomen van dienstverplichtingen het functioneren van de krijgsmacht belemmert.
 
 2. Indien het feit wordt gepleegd in tijd van oorlog wordt gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie opgelegd.
 
-#### Artikel 116
+##### Artikel 116
 
 1. Met gevangenisstraf van ten hoogste drie jaren of geldboete van de vierde categorie wordt gestraft de militair die het functioneren van de krijgsmacht belemmert door in gezamenlijk verband met een of meer militairen opzettelijk dienstverplichtingen niet na te komen.
 
 2. Indien het feit wordt gepleegd in tijd van oorlog wordt gevangenisstraf van ten hoogste acht jaren of geldboete van de vijfde categorie opgelegd.
 
-#### Artikel 117
+##### Artikel 117
 
 1. Met gevangenisstraf van ten hoogste drie jaren of geldboete van de vierde categorie wordt gestraft de militair die opzettelijk wederrechtelijk de uitvoering van enige maatregel belet of belemmert, indien als rechtstreeks en onmiddellijk gevolg daarvan schade ontstaat aan of te duchten is voor de gereedheid tot het daadwerkelijk uitvoeren van een operatie of oefening van enig onderdeel van de krijgsmacht.
 
 2. Indien het feit wordt gepleegd in tijd van oorlog wordt gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie opgelegd.
 
-#### Artikel 118
+##### Artikel 118
 
 1. Als schuldig aan feitelijke insubordinatie wordt met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie gestraft de militair die opzettelijk met geweld of bedreiging met geweld hetzij zich tegen een meerdere in de uitoefening van diens functie verzet, hetzij hem de vrijheid in die uitoefening ontneemt, hetzij hem dwingt enige dienst te verrichten of na te laten.
 
@@ -790,7 +812,7 @@ Indien een der misdrijven, omschreven in de [artikelen 111](https://wetten.overh
 
 - 3°. met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie, indien zij de dood ten gevolge hebben.
 
-#### Artikel 119
+##### Artikel 119
 
 1. Feitelijke insubordinatie, door twee of meer militairen met verenigde krachten gepleegd, wordt als muiterij, gestraft met gevangenisstraf van ten hoogste acht jaren of geldboete van de vijfde categorie.
 
@@ -802,7 +824,7 @@ Indien een der misdrijven, omschreven in de [artikelen 111](https://wetten.overh
 
 - 3°. met gevangenisstraf van ten hoogste twintig jaren of geldboete van de vijfde categorie, indien zij de dood ten gevolge hebben.
 
-#### Artikel 120
+##### Artikel 120
 
 Met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie wordt gestraft:
 
@@ -810,35 +832,35 @@ Met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of ge
 
 - 2°. muiterij aan boord van een oorlogsvaartuig of luchtvaartuig van de krijgsmacht dat zich ergens bevindt waar geen onmiddellijke hulp te verkrijgen is.
 
-#### Artikel 121
+##### Artikel 121
 
 1. De samenspanning tot het in [artikel 120](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=IV&artikel=120&z=2020-01-01&g=2020-01-01) omschreven misdrijf wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
 
 2. [Artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=I&artikel=83&z=2020-01-01&g=2020-01-01) is toepasselijk.
 
-#### Artikel 122
+##### Artikel 122
 
 1. De militair die opzettelijk met vier of meer andere militairen samenschoolt om in vereniging hun plicht te verzaken wordt, indien het tot enige gewelddadigheid of bedreiging daarmee is gekomen, als schuldig aan deelneming aan militaire oproer gestraft met gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie.
 
 2. Indien het feit is gepleegd in tijd van oorlog wordt de schuldige gestraft met gevangenisstraf van ten hoogste twintig jaren of geldboete van de vijfde categorie.
 
-#### Artikel 123
+##### Artikel 123
 
 1. De deelnemer aan samenscholing met vier of meer andere militairen om in vereniging hun plicht te verzaken, die tot de orde terugkeert voordat het tot enige gewelddadigheid of bedreiging daarmee is gekomen, wordt gestraft met gevangenisstraf van ten hoogste drie jaren of geldboete van de vierde categorie.
 
 2. Indien de samenscholing is gepleegd in tijd van oorlog wordt de schuldige gestraft met gevangenisstraf van ten hoogste vijf jaren of geldboete van de vijfde categorie.
 
-#### Artikel 124
+##### Artikel 124
 
 Ten aanzien van de feiten gepleegd tegen een meerdere wordt een troepenafdeling belast met wacht- of patrouilledienst, of een schildwacht gelijkgesteld met een meerdere, behalve in geval het feit is begaan door hem aan wie zij, als zodanig, ondergeschikt zijn.
 
 ## Titel V. Schending van het dienstbevel
 
-#### Artikel 125
+##### Artikel 125
 
 Onder een dienstbevel wordt verstaan een bevel dat enig militair dienstbelang betreft en gegeven is door een meerdere aan een mindere.
 
-#### Artikel 126
+##### Artikel 126
 
 De militair die opzettelijk een dienstbevel niet opvolgt, wordt gestraft:
 
@@ -848,7 +870,7 @@ De militair die opzettelijk een dienstbevel niet opvolgt, wordt gestraft:
 
 - 3°. met gevangenisstraf van ten hoogste vijf jaren of geldboete van de vierde categorie, indien daarvan levensgevaar voor een ander te duchten is en het feit iemands dood ten gevolge heeft.
 
-#### Artikel 127
+##### Artikel 127
 
 1. Met gevangenisstraf van ten hoogste een jaar en negen maanden of geldboete van de vierde categorie wordt gestraft de militair die opzettelijk een dienstbevel niet opvolgt, indien als rechtstreeks en onmiddellijk gevolg daarvan schade ontstaat aan of te duchten is voor de gereedheid tot het daadwerkelijk uitvoeren van een operatie of oefening van enig onderdeel van de krijgsmacht.
 
@@ -862,17 +884,17 @@ De militair die opzettelijk een dienstbevel niet opvolgt, wordt gestraft:
 
 - 3°. indien hij het misdrijf pleegt bij een gevecht met de vijand.
 
-#### Artikel 128
+##### Artikel 128
 
 Met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie wordt gestraft de militair die opzettelijk een dienstbevel om aan een gevecht met de vijand deel te nemen, of tegenover deze stand te houden, niet opvolgt.
 
-#### Artikel 129
+##### Artikel 129
 
 1. De samenspanning tot het in [artikel 128](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=V&artikel=128&z=2020-01-01&g=2020-01-01) omschreven misdrijf wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
 
 2. [Artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=I&artikel=83&z=2020-01-01&g=2020-01-01) is toepasselijk.
 
-#### Artikel 130
+##### Artikel 130
 
 De militair aan wiens schuld het is te wijten, dat hij een dienstbevel niet opvolgt, wordt gestraft:
 
@@ -886,33 +908,33 @@ De militair aan wiens schuld het is te wijten, dat hij een dienstbevel niet opvo
 
 - 5°. met gevangenisstraf van ten hoogste zes jaren of geldboete van de vierde categorie, indien het feit een bevel betrof om aan een gevecht met de vijand deel te nemen of tegenover deze stand te houden.
 
-#### Artikel 130a
+##### Artikel 130a
 
 Onder het niet opvolgen van een dienstbevel wordt mede verstaan het weigeren een dienstbevel op te volgen of het eigendunkelijk overschrijden daarvan.
 
-#### Artikel 131
+##### Artikel 131
 
 Een feit, bedoeld in de [artikelen 126-130](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=V&artikel=126&z=2020-01-01&g=2020-01-01), is niet strafbaar, indien de bevolen gedraging onrechtmatig is.
 
-#### Artikel 132
+##### Artikel 132
 
 Niet strafbaar is de militair die een feit begaat, genoemd in de [artikelen 126-128](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=V&artikel=126&z=2020-01-01&g=2020-01-01), indien hij de bevolen gedraging te goeder trouw als onrechtmatig beschouwde.
 
-#### Artikel 133
+##### Artikel 133
 
 Een feit, bedoeld in de [artikelen 126-130](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=V&artikel=126&z=2020-01-01&g=2020-01-01), is niet strafbaar, indien onderling strijdige dienstbevelen zijn gegeven en het niet opgevolgde dienstbevel voorafgaat aan het laatst gehandhaafde.
 
-#### Artikel 134
+##### Artikel 134
 
 Met betrekking tot het dienstbevel wordt een troepenafdeling belast met wacht- of patrouilledienst, of een schildwacht gelijkgesteld met een meerdere, behalve in het geval het feit is begaan door hem aan wie zij, als zodanig, ondergeschikt zijn.
 
 ## Titel VI. Schending van het dienstvoorschrift
 
-#### Artikel 135
+##### Artikel 135
 
 Onder dienstvoorschrift wordt verstaan een bij of krachtens algemene maatregel van rijksbestuur of van bestuur dan wel een bij of krachtens landsverordening onderscheidenlijk landsbesluit gegeven schriftelijk besluit van algemene strekking dat enig militair dienstbelang betreft en een tot de militair gericht ge- of verbod bevat.
 
-#### Artikel 136
+##### Artikel 136
 
 1. De militair die opzettelijk een dienstvoorschrift niet opvolgt wordt gestraft:
 
@@ -926,7 +948,7 @@ Onder dienstvoorschrift wordt verstaan een bij of krachtens algemene maatregel v
 
 2. Indien het feit bedoeld onder 1° is gepleegd in tijd van oorlog, wordt de schuldige gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie.
 
-#### Artikel 137
+##### Artikel 137
 
 De militair aan wiens schuld het is te wijten, dat hij een dienstvoorschrift niet opvolgt, wordt gestraft:
 
@@ -938,13 +960,13 @@ De militair aan wiens schuld het is te wijten, dat hij een dienstvoorschrift nie
 
 - 4°. met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie, indien als rechtstreeks en onmiddellijk gevolg daarvan schade ontstaat aan of te duchten is voor de gereedheid tot het daadwerkelijk uitvoeren van een operatie of oefening van enig onderdeel van de krijgsmacht en het feit is gepleegd in tijd van oorlog.
 
-#### Artikel 138
+##### Artikel 138
 
 Een feit, bedoeld in een van beide voorgaande artikelen, is niet strafbaar indien een van het dienstvoorschrift afwijkend dienstbevel is opgevolgd.
 
 ## Titel VII. Dienstweigering
 
-#### Artikel 139
+##### Artikel 139
 
 1. De militair die weigert of opzettelijk nalaat iedere dienst, van welke soort ook, te verrichten wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
 
@@ -952,15 +974,15 @@ Een feit, bedoeld in een van beide voorgaande artikelen, is niet strafbaar indie
 
 ## Titel VIII. Misdrijven tegen de persoon
 
-#### Artikel 140
+##### Artikel 140
 
 Met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie wordt gestraft de militair die opzettelijk een andere militair of iemand, die anderszins bij of ten behoeve van de krijgsmacht werkzaam is, feitelijk bedreigt met geweld of feitelijk aanrandt.
 
-#### Artikel 141
+##### Artikel 141
 
 Indien een in de [artikelen 300-303 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=300) bedoeld misdrijf door een militair wordt gepleegd tegen een andere militair of iemand, die anderszins bij of ten behoeve van de krijgsmacht werkzaam is, kunnen de in die artikelen bepaalde gevangenisstraffen met een derde worden verhoogd.
 
-#### Artikel 142
+##### Artikel 142
 
 1. Met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie worden gestraft de militairen die in tijd van oorlog met vereende krachten geweld tegen een of meer personen plegen en bij het plegen van het feit misbruik maken of dreigen te maken van macht, gelegenheid of middel, hun als militair gegeven.
 
@@ -968,7 +990,7 @@ Indien een in de [artikelen 300-303 van het Wetboek van Strafrecht](https://wett
 
 3. [Artikel 81 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=81) blijft buiten toepassing.
 
-#### Artikel 143
+##### Artikel 143
 
 1. Hij, die geweld pleegt tegen een dode, zieke of gewonde, behorende tot de krijgsmacht van een der strijdende partijen, wordt gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie.
 
@@ -976,33 +998,33 @@ Indien een in de [artikelen 300-303 van het Wetboek van Strafrecht](https://wett
 
 ## Titel IX. Ambtsmisdrijven
 
-#### Artikel 144
+##### Artikel 144
 
 1. Met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie wordt gestraft hij die opzettelijk een mededeling, die hij uit hoofde van zijn ambt moet doen, niet of onjuist doet, indien als rechtstreeks en onmiddellijk gevolg daarvan schade ontstaat aan of te duchten is voor de veiligheid van de Staat dan wel de gereedheid tot het daadwerkelijk uitvoeren van een operatie of oefening van enig onderdeel van de krijgsmacht.
 
 2. Indien het feit wordt gepleegd in tijd van oorlog wordt de schuldige gestraft met gevangenisstraf van ten hoogste negen jaren of geldboete van de vijfde categorie.
 
-#### Artikel 145
+##### Artikel 145
 
 Met gevangenisstraf van ten hoogste drie jaren of geldboete van de vierde categorie wordt gestraft hij aan wiens schuld het is te wijten dat hij in tijd van oorlog een mededeling, die hij uit hoofde van zijn ambt moet doen, niet of onjuist doet, indien als rechtstreeks en onmiddellijk gevolg daarvan schade ontstaat aan of te duchten is voor de veiligheid van de Staat dan wel de gereedheid tot het daadwerkelijk uitvoeren van een operatie of oefening van enig onderdeel van de krijgsmacht.
 
-#### Artikel 146
+##### Artikel 146
 
 Indien het in [artikel 365 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=365) omschreven misdrijf wordt gepleegd door een militair kan de in dat artikel bepaalde gevangenisstraf met een derde worden verhoogd.
 
-#### Artikel 147
+##### Artikel 147
 
 Met gevangenisstraf van ten hoogste drie jaren of geldboete van de vierde categorie wordt gestraft de militair die een andere militair opzettelijk door gift, belofte, bedreiging of misleiding weerhoudt van het doen van een klacht of aangifte ter zake van een strafbaar feit.
 
-#### Artikel 148
+##### Artikel 148
 
 De militair, die opzettelijk toelaat, dat een mindere een misdrijf pleegt, of die, getuige van een door een mindere gepleegd misdrijf, opzettelijk nalaat maatregelen te nemen, voorzover die nodig zijn en van hem kunnen worden gevergd, wordt gestraft als de medeplichtige.
 
-#### Artikel 149
+##### Artikel 149
 
 Met gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie wordt gestraft de militair die opzettelijk nalaat maatregelen te nemen, voor zover die nodig zijn en van hem kunnen worden gevergd, indien een onder zijn bevelen staande militair, naar hij redelijkerwijs moet vermoeden, een misdrijf pleegt of voornemens is te plegen.
 
-#### Artikel 150
+##### Artikel 150
 
 1. De militair die opzettelijk een mindere een bevel geeft, inhoudende het plegen van een misdrijf, wordt, indien het bevel is uitgevoerd, als dader van dat misdrijf gestraft.
 
@@ -1010,17 +1032,17 @@ Met gevangenisstraf van ten hoogste zes maanden of geldboete van de derde catego
 
 ## Titel X. Misdrijven tegen de openbare orde
 
-#### Artikel 151
+##### Artikel 151
 
 1. Hij die kennis draagt van enige in dit wetboek strafbaar gestelde samenspanning tot misdrijf of van voornemen tot het plegen van een misdrijf ter zake waarvan levenslange gevangenisstraf kan worden opgelegd of van een misdrijf tegen de veiligheid van de Staat, desertie in tijd van oorlog, feitelijke insubordinatie of militair oproer, en op een tijdstip, waarop het begaan van het misdrijf nog kan worden voorkomen, opzettelijk nalaat daarvan tijdig kennis te geven hetzij aan de overheid, hetzij aan de bedreigde, wordt indien het misdrijf is gevolgd, gestraft als de medeplichtige.
 
 2. Met gelijke straf wordt gestraft hij die kennis draagt van enig in het eerste lid vermeld reeds gepleegd misdrijf, en op een tijdstip, waarop de gevolgen nog kunnen worden afgewend, opzettelijk nalaat daarvan kennis te doen.
 
-#### Artikel 152
+##### Artikel 152
 
 [Artikel 151](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=X&artikel=151&z=2020-01-01&g=2020-01-01) is niet van toepassing op hem die door de kennisgeving gevaar voor een strafvervolging zou doen ontstaan voor zichzelf, voor een van zijn bloedverwanten of aangehuwden in de rechte lijn of in de tweede of derde graad van de zijlijn, voor zijn echtgenoot of gewezen echtgenoot of degene met wie hij een geregistreerd partnerschap is of was aangegaan, of voor een ander, bij wiens vervolging hij zich, uit hoofde van zijn ambt of beroep, van het afleggen van getuigenis zou kunnen verschonen.
 
-#### Artikel 153
+##### Artikel 153
 
 1. Hij die, mondeling of bij geschrifte, een militair opruit tot enig misdrijf, in dit wetboek omschreven of door hem te begaan onder een der in [artikel 44 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=44) vermelde omstandigheden, wordt gestraft met gevangenisstraf van ten hoogste vijf jaren of geldboete van de vierde categorie.
 
@@ -1036,15 +1058,15 @@ Met gevangenisstraf van ten hoogste zes maanden of geldboete van de derde catego
 
 ## Titel XI. Misdrijven met betrekking tot goederen
 
-#### Artikel 154
+##### Artikel 154
 
 Met gevangenisstraf van ten hoogste zes jaren of geldboete van de vierde categorie wordt gestraft hij die diefstal pleegt en daarbij misbruik heeft gemaakt van de gelegenheid, hem verschaft door zijn inkwartiering of door zijn huisvesting op openbaar gezag.
 
-#### Artikel 155
+##### Artikel 155
 
 Met gevangenisstraf van ten hoogste negen jaren of geldboete van de vijfde categorie wordt gestraft diefstal door een militair gepleegd op een onder zijn bijzondere bewaking of bescherming gestelde plaats.
 
-#### Artikel 156
+##### Artikel 156
 
 1. Met gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie wordt, als schuldig aan plundering, gestraft:
 
@@ -1056,7 +1078,7 @@ Met gevangenisstraf van ten hoogste negen jaren of geldboete van de vijfde categ
 
 2. Indien het feit gepleegd is door twee of meer verenigde personen, worden de schuldigen gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie.
 
-#### Artikel 157
+##### Artikel 157
 
 1. Als schuldig aan opzetheling wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vierde categorie de militair die:
 
@@ -1066,7 +1088,7 @@ Met gevangenisstraf van ten hoogste negen jaren of geldboete van de vijfde categ
 
 2. Met dezelfde straf wordt gestraft hij die opzettelijk uit de opbrengst van enig door zodanig misdrijf verkregen goed voordeel trekt.
 
-#### Artikel 158
+##### Artikel 158
 
 1. Als schuldig aan schuldheling wordt gestraft met gevangenisstraf van ten hoogste twee jaar of geldboete van de vierde categorie de militair die:
 
@@ -1076,13 +1098,13 @@ Met gevangenisstraf van ten hoogste negen jaren of geldboete van de vijfde categ
 
 2. Met dezelfde straf wordt gestraft hij die uit de opbrengst van enig goed voordeel trekt, terwijl hij redelijkerwijs moet vermoeden dat het een door zodanig misdrijf verkregen goed betreft.
 
-#### Artikel 159
+##### Artikel 159
 
 1. Hij die opzettelijk en wederrechtelijk een dier, dat ten behoeve van de krijgsmacht wordt gebruikt, doodt, mishandelt, voor de dienst ongeschikt maakt of wegmaakt, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie.
 
 2. Indien hij het feit pleegt in tijd van oorlog wordt gevangenisstraf van ten hoogste tien jaren opgelegd of geldboete van de vijfde categorie.
 
-#### Artikel 160
+##### Artikel 160
 
 1. Met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie worden gestraft de militairen die in tijd van oorlog met verenigde krachten opzettelijk en wederrechtelijk enig goed dat geheel of gedeeltelijk aan een ander toebehoort, vernielen, beschadigen, onbruikbaar maken of wegmaken, en bij het plegen van dat feit misbruik maken of dreigen te maken van macht, gelegenheid of middel, hun als militair gegeven.
 
@@ -1090,29 +1112,29 @@ Met gevangenisstraf van ten hoogste negen jaren of geldboete van de vijfde categ
 
 3. [Artikel 81 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=81) blijft buiten toepassing.
 
-#### Artikel 161
+##### Artikel 161
 
 De militair, die in tijd van oorlog opzettelijk en wederrechtelijk enige oorlogsbehoefte vernielt, beschadigt, onbruikbaar maakt of wegmaakt, of die zich opzettelijk en eigendunkelijk ontdoet van enig hem van rijkswege verstrekt wapen, munitie, krijgstoerusting of voedingsmiddel, wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
 
-#### Artikel 162
+##### Artikel 162
 
 De militair, die in tijd van oorlog enig aan hem of aan een andere militair van rijkswege verstrekt goed, wetende dat dit behoort tot de militaire kleding of uitrusting, hetzij zonder schriftelijke vergunning, door of vanwege de bevoegde officier afgegeven, verkoopt, ruilt, ten geschenke, in pand, gebruik of bewaring geeft, hetzij wegmaakt, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie.
 
 ## Titel XII. Verkeersmisdrijven
 
-#### Artikel 163
+##### Artikel 163
 
 Hij die als bestuurder van een motorrijtuig, een rijwiel of enig ander rij- of voertuig daarmede over enige voor het openbaar of militair verkeer openstaande weg rijdt dan wel als bestuurder van een vaartuig daarmede op enig voor de openbare of militaire scheepvaart openstaand water vaart, onder zodanige invloed van het gebruik van alcoholhoudende drank, dat hij niet in staat moet worden geacht het rij-, voer- of vaartuig naar behoren te besturen, wordt gestraft met gevangenisstraf van ten hoogste drie maanden of geldboete van de tweede categorie.
 
-#### Artikel 164
+##### Artikel 164
 
 Hij die optreedt als bestuurder van een motorrijtuig, een rijwiel of enig ander rij-, voer- of vaartuig, dat bij de krijgsmacht in gebruik is, onder zodanige invloed van het gebruik van alcoholhoudende drank, dat hij niet in staat moet worden geacht zijn taak, als zodanig, naar behoren te vervullen, wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie.
 
-#### Artikel 165
+##### Artikel 165
 
 Voor de toepassing van de [artikelen 163](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=XII&artikel=163&z=2020-01-01&g=2020-01-01) en [164](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=XII&artikel=164&z=2020-01-01&g=2020-01-01) wordt met alcoholhoudende drank gelijkgesteld elke stof, waarvan de bestuurder weet of redelijkerwijze moet weten, dat het gebruik de rijvaardigheid kan verminderen.
 
-#### Artikel 166
+##### Artikel 166
 
 Hij die opzettelijk wederrechtelijk enig motorrijtuig, vaartuig of luchtvaartuig gebruikt, dat bij de krijgsmacht in gebruik is, wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de tweede categorie.
 
@@ -1120,25 +1142,25 @@ Hij die opzettelijk wederrechtelijk enig motorrijtuig, vaartuig of luchtvaartuig
 
 ## Titel I. Verkeersovertredingen
 
-#### Artikel 167
+##### Artikel 167
 
 Hij die zich op een voor het openbaar of militair verkeer openstaande weg dan wel op een voor de openbare of militaire scheepvaart openstaand water zodanig gedraagt, dat de vrijheid van het verkeer dan wel van de scheepvaart zonder noodzaak wordt belemmerd, of de veiligheid op de weg of op het water in gevaar wordt gebracht of dat redelijkerwijze is aan te nemen dat dit het geval kan zijn, wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.
 
-#### Artikel 167a
+##### Artikel 167a
 
 Vervallen
 
-#### Artikel 168
+##### Artikel 168
 
 Hij die zich als lid van de bemanning van een luchtvaartuig zodanig gedraagt, dat de vrijheid van het verkeer zonder noodzaak wordt belemmerd of de veiligheid in het luchtruim dan wel op de grond of op het water in gevaar wordt gebracht of dat redelijkerwijze is aan te nemen, dat dit het geval kan zijn, wordt gestraft met hechtenis van ten hoogste zes maanden of geldboete van de derde categorie.
 
-#### Artikel 169
+##### Artikel 169
 
 Hij die als gebruiker van een voor het openbaar of militair verkeer openstaande weg of als gebruiker van een voor de openbare of militaire scheepvaart openstaand water, dan wel als bestuurder van een motorrijtuig, een rijwiel, enig ander rij- of voertuig, een vaartuig of een luchtvaartuig, dat bij de krijgsmacht in gebruik is, de door of vanwege het bevoegd gezag met betrekking tot het verkeer of de scheepvaart gegeven regels en aanwijzingen niet in acht neemt, wordt gestraft met hechtenis van ten hoogste vier maanden of geldboete van de tweede categorie.
 
 ## Titel II. Feiten strafbaar gesteld in de buitenlandse wet
 
-#### Artikel 170
+##### Artikel 170
 
 1. Hij die buiten het Koninkrijk een feit begaat, dat niet met straf wordt bedreigd door enige ingevolge dit wetboek toepasselijke strafbepaling, doch waarvoor hij ingevolge enige op hem toepasselijke wet van het land, waar het feit begaan wordt, strafbaar is, wordt gestraft met hetzij hechtenis van ten hoogste zes maanden en geldboete van de derde categorie, hetzij één van deze straffen. De opgelegde hechtenis mag in duur het maximum van de tegen het feit in de buitenlandse wet bedreigde vrijheidsstraf niet overtreffen. De opgelegde geldboete mag evenmin het maximum van de in de buitenlandse wet tegen het feit bedreigde geldboete te boven gaan.
 

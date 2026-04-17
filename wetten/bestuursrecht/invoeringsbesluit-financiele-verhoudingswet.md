@@ -1,13 +1,39 @@
 ---
-title: "Invoeringsbesluit Financiële-verhoudingswet"
+title: "Besluit van 12 december 1996, houdende wijzigingen van een aantal algemene maatregelen van bestuur in verband met de invoering van de Financiële-verhoudingswet (Invoeringsbesluit Financiële-verhoudingswet)"
 identifier: "BWBR0008418"
-categorie: "Bestuursrecht"
-publicatiedatum: 1997-01-01
-laatste_update: 1997-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008418"
+country: "nl"
+rank: "amvb"
+publication_date: "1997-01-01"
+last_updated: "1997-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008418"
+soort: "AMvB"
+stam_id: "219873"
+version_id: "305142"
+internal_id: "C305141"
+label_id: "215904"
+dtd_version: "2.0"
+original_entry_into_force: "1997-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008418/1997-01-01/0"
+intitule_bron: "Stb.1996-620"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-12-12"
+intitule_published: "1996-12-19"
+intitule_in_force: "1996-12-19"
+intitule_status: "goed"
+original_publication: "Stb.1996-620"
+original_signed_date: "1996-12-12"
+original_published_date: "1996-12-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-1996-620"
+entry_into_force_date: "1997-01-01"
+jci_1_3: "jci1.3:c:BWBR0008418&z=1997-01-01&g=1997-01-01"
+jci_1_0: "1.0:c:BWBR0008418&g=1997-01-01"
+citeertitel_status: "officieel"
+short_title: "Invoeringsbesluit Financiële-verhoudingswet"
+signed_date: "1996-12-12"
+entry_into_force: "1997-01-01"
 ---
-
 # Besluit van 12 december 1996, houdende wijzigingen van een aantal algemene maatregelen van bestuur in verband met de invoering van de Financiële-verhoudingswet (Invoeringsbesluit Financiële-verhoudingswet)
 
 Op de voordracht van de Staatssecretaris van Binnenlandse Zaken, mw. A. G. M. van de Vondervoort, gedaan mede namens de Staatssecretaris van Financiën, van 31 mei 1996, kenmerk VFO96/1/U6);
@@ -24,63 +50,63 @@ Hebben goedgevonden en verstaan:
 
 ### HOOFDSTUK 1. MINISTERIE VAN JUSTITIE
 
-#### Artikel 1
+##### Artikel 1
 
 Wijzigt het Faciliteitenbesluit opvangcentra.
 
 ### HOOFDSTUK 2. MINISTERIE VAN BINNENLANDSE ZAKEN
 
-#### Artikel 2
+##### Artikel 2
 
 Wijzigt het Besluit integratie welzijnsmiddelen Gemeentefonds.
 
-#### Artikel 3
+##### Artikel 3
 
 Wijzigt het Besluit integratie-uitkering voorzieningen gehandicapten Gemeentefonds.
 
-#### Artikel 4
+##### Artikel 4
 
 Wijzigt het Besluit integratie-uitkering WUW-middelen Gemeentefonds.
 
-#### Artikel 5
+##### Artikel 5
 
 Wijzigt het Besluit rijksbijdragen gemeenten bij rampen.
 
-#### Artikel 6
+##### Artikel 6
 
 Wijzigt het Besluit uitkeringen beleidsplannen minderheden vier grote steden.
 
-#### Artikel 7
+##### Artikel 7
 
 Wijzigt het Besluit uitkering leerlingenvervoer Gemeentefonds.
 
-#### Artikel 8
+##### Artikel 8
 
 Wijzigt het Besluit verfijningen algemene uitkering 1984.
 
 ### HOOFDSTUK 3. MINISTERIE VAN FINANCIËN
 
-#### Artikel 9
+##### Artikel 9
 
 Wijzigt het Bijdragebesluit kosten ruiming explosieven Tweede Wereldoorog 1994.
 
 ### HOOFDSTUK 4. MINISTERIE VAN VOLKSHUISVESTING, RUIMTELIJKE ORDENING EN MILIEUBEHEER
 
-#### Artikel 10
+##### Artikel 10
 
 Wijzigt het Besluit op de stads- en dorpsvernieuwing.
 
-#### Artikel 11
+##### Artikel 11
 
 Wijzigt het Besluit zonering buitenlandse luchtvaartterreinen Noord- en Midden-Limburg.
 
 ### HOOFDSTUK 5. SLOTBEPALINGEN
 
-#### Artikel 12
+##### Artikel 12
 
 Dit besluit treedt in werking op 1 januari 1997.
 
-#### Artikel 13
+##### Artikel 13
 
 Dit besluit wordt aangehaald als: Invoeringsbesluit Financiële-verhoudingswet.
 

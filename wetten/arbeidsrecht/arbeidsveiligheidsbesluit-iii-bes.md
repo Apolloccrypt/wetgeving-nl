@@ -1,18 +1,43 @@
 ---
 title: "Arbeidsveiligheidsbesluit III BES"
 identifier: "BWBR0028426"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028426"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028426"
+soort: "AMvB-BES"
+stam_id: "10780863"
+version_id: "17757462"
+internal_id: "C24840311"
+label_id: "10755564"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028426/2010-10-10/0"
+intitule_bron: "Stb.2010-617"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-23"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-617"
+original_signed_date: "2010-09-23"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-617"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028426&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028426&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-23"
+entry_into_force: "2010-10-10"
 ---
-
 # Arbeidsveiligheidsbesluit III BES
 
 ## Definities
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -30,7 +55,7 @@ In dit besluit wordt verstaan onder:
 
 ## Vergunning tot het gebruik van reservoirs
 
-#### Artikel 2
+##### Artikel 2
 
 1. Tot het gebruik van een reservoir en toebehoren is vergunning nodig van de Minister of van de door hem daartoe aangewezen ambtenaar.
 
@@ -54,7 +79,7 @@ In dit besluit wordt verstaan onder:
 
 ## Het reservoir en toebehoren
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een reservoir moet geschikt zijn voor een werkdruk welke dusdanig is, dat voldoende marge bestaat tussen de afsteldruk van de veiligheidsklep en de dampspanning bij heersende temperatuur.
 
@@ -90,7 +115,7 @@ In dit besluit wordt verstaan onder:
 
 ## Installatie
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een leiding, welke op een reservoir is aangesloten, moet zijn voorzien van een afsluiter, welke direct op de reservoirstomp is aangebracht.
 
@@ -132,7 +157,7 @@ In dit besluit wordt verstaan onder:
 
 ## Onderhoud en herstel
 
-#### Artikel 5
+##### Artikel 5
 
 1. De installatie moet steeds in goede staat van onderhoud verkeren.
 
@@ -140,7 +165,7 @@ In dit besluit wordt verstaan onder:
 
 ## Keuring
 
-#### Artikel 6
+##### Artikel 6
 
 1. De gebruiker van een reservoir moet in het bezit zijn van het certificaat van goedkeuring als bedoeld in [artikel 2 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028426&artikel=2&z=2010-10-10&g=2010-10-10).
 
@@ -168,7 +193,7 @@ In dit besluit wordt verstaan onder:
 
 ## Diverse bepalingen
 
-#### Artikel 7
+##### Artikel 7
 
 1. Een reservoir mag niet gevuld worden met een hoeveelheid propaan of butaan, die overeenkomt met het vloeistofniveau waarbij het reservoir voor meer dan 80% met vloeistof is gevuld.
 
@@ -176,7 +201,7 @@ In dit besluit wordt verstaan onder:
 
 ## Slotbepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 1. Onze Minister kan van het bij of krachtens dit besluit bepaalde vrijstelling verlenen.
 
@@ -196,10 +221,10 @@ In dit besluit wordt verstaan onder:
 
 6. De werking van een beschikking inzake een ontheffing wordt opgeschort totdat de termijn voor het indienen van een bezwaar- of beroepschrift is verstreken of, indien bezwaar is gemaakt of beroep is ingesteld, op het bezwaar of beroep is beslist.
 
-#### Artikel 8a
+##### Artikel 8a
 
 Dit besluit berust op [artikel 2, eerste lid, van de Arbeidsveiligheidswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028228&artikel=2)
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit wordt aangehaald als: Arbeidsveiligheidsbesluit III BES.

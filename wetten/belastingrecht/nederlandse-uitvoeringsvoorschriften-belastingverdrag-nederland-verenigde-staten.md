@@ -1,20 +1,46 @@
 ---
-title: "Nederlandse uitvoeringsvoorschriften belastingverdrag Nederland – Verenigde Staten van Amerika 1992"
+title: "Nederlandse uitvoeringsvoorschriften inzake het belastingverdrag Nederland-Verenigde Staten van Amerika 1992"
 identifier: "BWBR0036213"
-categorie: "Belastingrecht"
-publicatiedatum: 2018-03-29
-laatste_update: 2018-03-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036213"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2018-03-29"
+last_updated: "2018-03-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036213"
+soort: "beleidsregel"
+stam_id: "12971103"
+version_id: "22125132"
+internal_id: "C31726451"
+label_id: "12940314"
+dtd_version: "2.0"
+original_entry_into_force: "2015-02-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036213/2018-03-29/0"
+intitule_bron: "Stcrt.2015-2585"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-01-13"
+intitule_published: "2015-02-03"
+intitule_in_force: "2015-02-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-2585"
+original_signed_date: "2015-01-13"
+original_published_date: "2015-02-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-2585"
+entry_into_force_date: "2015-02-04"
+jci_1_3: "jci1.3:c:BWBR0036213&z=2018-03-29&g=2018-03-29"
+jci_1_0: "1.0:c:BWBR0036213&g=2018-03-29"
+citeertitel_status: "officieel"
+short_title: "Nederlandse uitvoeringsvoorschriften belastingverdrag Nederland – Verenigde Staten van Amerika 1992"
+signed_date: "2015-01-13"
+entry_into_force: "2015-02-04"
 ---
-
 # Nederlandse uitvoeringsvoorschriften inzake het belastingverdrag Nederland-Verenigde Staten van Amerika 1992
 
 In deze regeling worden de Nederlandse uitvoeringsvoorschriften inzake het belastingverdrag Nederland-Verenigde Staten van Amerika 1992 opnieuw vastgesteld. In deze actualisering is bepaald dat verzoeken om toepassing van de inhoudingsvrijstelling bij deelnemingsdividenden voortaan bij de Belastingdienst/ kantoor Arnhem moeten worden ingediend. De beoordeling van deze verzoeken blijft berusten bij de bevoegde vpb-inspecteur. Tevens is de geldigheid van een afgegeven beschikking beperkt tot maximaal vier jaren. Hiermee samenhangend is bepaald dat reeds bestaande beschikkingen nog maximaal vier jaren geldig blijven.
 
 Ter uitvoering van artikel 34, eerste lid, van de op 18 december 1992 te Washington tussen Nederland en de Verenigde Staten van Amerika gesloten Overeenkomst tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen (**Trb.** 1993, 77 en 158), zoals deze overeenkomst is gewijzigd bij het op 13 oktober 1993 te Washington gesloten Protocol (**Trb.** 1993, 184), onderscheidenlijk bij het op 8 maart 2004 te Washington gesloten Protocol (**Trb.** 2004, 166), en gelet op de regeling gepubliceerd bij mededeling van 6 augustus 2007, nr. IFZ2007/537M, **Stcrt**. 2007, 154, en de wijziging gepubliceerd bij mededeling van 19 maart 2010, nr. IFZ 2010/193 M, **Stcrt**. 2010, nr. 4769, die op grond van artikel 29 van de genoemde overeenkomst is getroffen tussen Nederland en de Verenigde Staten van Amerika, stel ik de navolgende regeling vast met [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0036213&bijlage=I&z=2018-03-29&g=2018-03-29) (formulier IB 96 USA) en [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0036213&bijlage=II&z=2018-03-29&g=2018-03-29) (formulier IB 95 USA):
 
-#### Artikel 1. Algemeen
+##### Artikel 1. Algemeen
 
 1. Deze regeling verstaat onder:
 
@@ -24,7 +50,7 @@ Ter uitvoering van artikel 34, eerste lid, van de op 18 december 1992 te Washing
 
 2. Deze regeling neemt verder de begrippen van het Verdrag over.
 
-#### Artikel 2. Nederlandse dividendbelasting met betrekking tot deelnemingsdividenden (vrijstellingsprocedure)
+##### Artikel 2. Nederlandse dividendbelasting met betrekking tot deelnemingsdividenden (vrijstellingsprocedure)
 
 1. Een Nederlands lichaam dat aan een lichaam, niet zijnde een pensioenfonds of een vrijgestelde organisatie als bedoeld in artikel 35 respectievelijk artikel 36 van het Verdrag, dat inwoner is van de Verenigde Staten van Amerika en dat onmiddellijk ten minste 10 percent van het totale aantal stemmen in het Nederlandse lichaam bezit, dividenden betaalt waarop ingevolge artikel 10, tweede lid, onderdeel a, van het Verdrag ten hoogste 5 percent dividendbelasting mag worden ingehouden, kan bij de Belastingdienst/kantoor Arnhem, Team dividendbelasting, Postbus 9007, 6400 DJ Arnhem, het verzoek indienen ontslagen te worden van de verplichting tot inhouding van die belasting voor zover deze meer dan 5 percent bedraagt.
 
@@ -66,7 +92,7 @@ In het verzoek wordt voorts verklaard dat het bedoelde lichaam dat inwoner is va
 
 De bestuurder van het Nederlandse lichaam aan wie blijkt of die redelijkerwijs moet vermoeden dat zulks in enig opzicht niet meer het geval is, is gehouden aan vorenbedoelde inspecteur schriftelijke mededeling te doen vóór de eerstvolgende vaststelling van dividend.
 
-#### Artikel 3. Nederlandse dividendbelasting met betrekking tot deelnemingsdividenden (teruggaafprocedure)
+##### Artikel 3. Nederlandse dividendbelasting met betrekking tot deelnemingsdividenden (teruggaafprocedure)
 
 1. Indien dividendbelasting is ingehouden van dividenden, betaald door een Nederlands lichaam aan een lichaam, niet zijnde een pensioenfonds of een vrijgestelde organisatie als bedoeld in artikel 35 respectievelijk artikel 36 van het Verdrag, dat inwoner is van de Verenigde Staten van Amerika en dat een deelneming in het Nederlandse lichaam bezit welke voldoet aan de voorwaarden van artikel 10, tweede lid, onderdeel a, respectievelijk artikel 10, derde lid, van het Verdrag, terwijl ingevolge het Verdrag recht bestaat op vermindering van dividendbelasting, kan dat Amerikaanse lichaam een verzoek om teruggaaf van hetgeen te veel aan dividendbelasting is ingehouden, richten tot de inspecteur van het organisatieonderdeel van de Belastingdienst onder wie het Nederlandse lichaam ressorteert.
 
@@ -76,7 +102,7 @@ De bestuurder van het Nederlandse lichaam aan wie blijkt of die redelijkerwijs m
 
 4. Indien de inspecteur gerede twijfel heeft of de gerechtigde tot de opbrengst voldoet aan de voorwaarden van artikel 26 van het Verdrag, kan hij door tussenkomst van de Belastingdienst/CLO om inlichtingen verzoeken aan de bevoegde Amerikaanse autoriteit.
 
-#### Artikel 4. Nederlandse dividendbelasting met betrekking tot portfoliodividenden genoten door vrijgestelde pensioenfondsen en vrijgestelde organisaties (teruggaafprocedure)
+##### Artikel 4. Nederlandse dividendbelasting met betrekking tot portfoliodividenden genoten door vrijgestelde pensioenfondsen en vrijgestelde organisaties (teruggaafprocedure)
 
 1. Een inwoner van de Verenigde Staten van Amerika die ingevolge artikel 35 of artikel 36 van het Verdrag in aanmerking komt voor vrijstelling van dividendbelasting voor dividenden als bedoeld in artikel 10, tweede lid, onderdeel b, van het Verdrag, heeft recht op teruggaaf van hetgeen aan dividendbelasting is ingehouden.
 
@@ -88,7 +114,7 @@ De bestuurder van het Nederlandse lichaam aan wie blijkt of die redelijkerwijs m
 
 5. Indien de inspecteur van de Belastingdienst /kantoor Buitenland gerede twijfel heeft of de gerechtigde tot de opbrengst voldoet aan de voorwaarden van artikel 26 van het Verdrag, kan hij door tussenkomst van de Belastingdienst/CLO om inlichtingen verzoeken aan de bevoegde Amerikaanse autoriteit.
 
-#### Artikel 5. Nederlandse dividendbelasting met betrekking tot portfoliodividenden genoten door vrijgestelde pensioenfondsen (vrijstellingsprocedure)
+##### Artikel 5. Nederlandse dividendbelasting met betrekking tot portfoliodividenden genoten door vrijgestelde pensioenfondsen (vrijstellingsprocedure)
 
 1. In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036213&artikel=4&z=2018-03-29&g=2018-03-29) zijn de vennootschap die dividend verschuldigd is, degene bij wie de opbrengst betaalbaar is gesteld, het administratiekantoor dat de opbrengst doorbetaalt aan certificaathouders, en degene tot wiens beroep het kopen of innen van dividendbewijzen gewoonlijk behoort, bevoegd die opbrengst uit te betalen zonder inhouding van dividendbelasting indien de gerechtigde tot de opbrengst een vrijgesteld pensioenfonds als bedoeld in artikel 35 van het Verdrag is, die gerechtigde voor dividenden als bedoeld in artikel 10, tweede lid, onderdeel b, van het Verdrag in aanmerking komt voor vrijstelling van dividendbelasting en hij bij het dividendbewijs overlegt:
 
@@ -96,7 +122,7 @@ De bestuurder van het Nederlandse lichaam aan wie blijkt of die redelijkerwijs m
 
 - b. een door de gerechtigde ingevulde en ondertekende verklaring waarin is opgenomen een bevestiging omtrent het voldoen aan de voorwaarden van artikel 26 en artikel 35 van het Verdrag, in samenhang met de regeling gepubliceerd bij mededeling van 6 augustus 2007, nr. IFZ2007/537M, **Stcrt**. 2007, 154, en de wijziging gepubliceerd bij mededeling van 19 maart 2010, nr. IFZ 2010/193 M, **Stcrt**. 2010, nr. 4769, in tweevoud op een formulier volgens het in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0036213&bijlage=I&z=2018-03-29&g=2018-03-29) opgenomen model (formulier IB 96 USA).
 
-#### Artikel 6. Nederlandse dividendbelasting met betrekking tot deelnemingsdividenden genoten door vrijgestelde pensioenfondsen en vrijgestelde organisaties (teruggaafprocedure)
+##### Artikel 6. Nederlandse dividendbelasting met betrekking tot deelnemingsdividenden genoten door vrijgestelde pensioenfondsen en vrijgestelde organisaties (teruggaafprocedure)
 
 1. Een inwoner van de Verenigde Staten van Amerika die ingevolge artikel 35 of artikel 36 van het Verdrag in aanmerking komt voor vrijstelling van dividendbelasting voor dividenden als bedoeld in artikel 10, tweede lid, onderdeel a, van het Verdrag, heeft recht op teruggaaf van hetgeen aan dividendbelasting is ingehouden.
 
@@ -108,7 +134,7 @@ De bestuurder van het Nederlandse lichaam aan wie blijkt of die redelijkerwijs m
 
 5. Indien de inspecteur gerede twijfel heeft of de gerechtigde tot de opbrengst voldoet aan de voorwaarden van artikel 26 van het Verdrag, kan hij door tussenkomst van de Belastingdienst/CLO om inlichtingen verzoeken aan de bevoegde Amerikaanse autoriteit.
 
-#### Artikel 7. Nederlandse dividendbelasting met betrekking tot deelnemingsdividenden genoten door vrijgestelde pensioenfondsen (vrijstellingsprocedure)
+##### Artikel 7. Nederlandse dividendbelasting met betrekking tot deelnemingsdividenden genoten door vrijgestelde pensioenfondsen (vrijstellingsprocedure)
 
 1. In afwijking van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036213&artikel=6&z=2018-03-29&g=2018-03-29) kan een lichaam dat aan een vrijgesteld pensioenfonds als bedoeld in artikel 35 van het Verdrag, dat inwoner van de Verenigde Staten van Amerika is, dividenden als bedoeld in artikel 10, tweede lid, onderdeel a, van het Verdrag betaalt waarvoor ingevolge artikel 35 van het Verdrag recht bestaat op vrijstelling van dividendbelasting, bij de Belastingdienst/kantoor Arnhem, Team dividendbelasting, Postbus 9007, 5400 DJ Arnhem, het verzoek indienen ontslagen te worden van de verplichting tot inhouding van die belasting.
 
@@ -136,35 +162,35 @@ In het verzoek wordt voorts verklaard dat het bedoelde pensioenfonds dat inwoner
 
 De bestuurder van het Nederlandse lichaam aan wie blijkt of die redelijkerwijs moet vermoeden dat zulks in enig opzicht niet meer het geval is, is gehouden aan vorenbedoelde inspecteur schriftelijke mededeling te doen vóór de eerstvolgende vaststelling van dividend.
 
-#### Artikel 8. Formele bepalingen
+##### Artikel 8. Formele bepalingen
 
 De in deze regeling bedoelde verklaringen, verzoeken, gegevens en mededelingen moeten duidelijk, stellig en zonder voorbehoud worden gedaan of verstrekt. Indien naar aanleiding van een ingevolge deze regeling gedaan verzoek, ten onrechte of tot een te hoog bedrag, vrijstelling of vermindering van inhouding van dividendbelasting dan wel teruggaaf van dividendbelasting is verleend, zijn de bepalingen van [artikel 20 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=20) van (overeenkomstige) toepassing.
 
-#### Artikel 9. Verjaringstermijn
+##### Artikel 9. Verjaringstermijn
 
 Verzoeken om teruggaaf van belasting als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036213&artikel=3&z=2018-03-29&g=2018-03-29), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0036213&artikel=4&z=2018-03-29&g=2018-03-29) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0036213&artikel=6&z=2018-03-29&g=2018-03-29), moeten bij de bevoegde inspecteur zijn ingediend binnen een termijn van drie jaren na het einde van het kalenderjaar waarin de belasting is geheven.
 
-#### Artikel 10. Overgangsregeling
+##### Artikel 10. Overgangsregeling
 
 Reeds afgegeven beschikkingen om ontslagen te worden van de verplichting om de op de grond van het Verdrag niet-verschuldigde dividendbelasting in te houden als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036213&artikel=2&z=2018-03-29&g=2018-03-29) en [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0036213&artikel=7&z=2018-03-29&g=2018-03-29) van deze regeling zullen maximaal vier kalenderjaren geldig zijn, gerekend vanaf de dag van inwerkingtreding van deze regeling.
 
-#### Artikel 11. Formulieren
+##### Artikel 11. Formulieren
 
 De teksten van de in de bijlagen opgenomen formulieren zijn niet gepubliceerd in de Staatscourant, maar zijn gepubliceerd op www.belastingdienst.nl.
 
 De in deze regeling bedoelde formulieren worden van rijkswege verstrekt. De formulieren zijn op aanvraag kosteloos verkrijgbaar in Nederland bij de Belastingdienst/Centrum voor facilitaire dienstverlening, Unit Werkomgeving/Serviceteam LRC, Postbus 20049, 7302 HA Apeldoorn. Het e-mailadres daarvan luidt: lrc.apeldoorn@belastingdienst.nl.
 
-#### Artikel 12. Delegatiebepaling
+##### Artikel 12. Delegatiebepaling
 
 De Minister van Financiën kan, in afwijking van deze regeling, onder nadere voorwaarden bijzondere regelingen treffen of kan, in afwijking van deze regeling, binnen de door hem gestelde kaders de Belastingdienst machtigen bijzondere regelingen te treffen.
 
-#### Artikel 13. Intrekking
+##### Artikel 13. Intrekking
 
 De volgende regeling wordt ingetrokken met ingang van de inwerkingtreding van deze regeling:
 
 - –. [Regeling van 28 april 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0027646), nr. DGB 2010/2251M, Stcrt. 2010, 7347.
 
-#### Artikel 14. Inwerkingtreding
+##### Artikel 14. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 

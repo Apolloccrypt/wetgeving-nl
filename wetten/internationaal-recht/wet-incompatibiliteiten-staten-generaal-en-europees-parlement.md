@@ -1,14 +1,37 @@
 ---
-title: "Wet Incompatibiliteiten Staten-Generaal en Europees Parlement"
+title: "Wet van 20 april 1994, houdende bepalingen inzake niet gelijktijdig met het lidmaatschap van de Staten-Generaal of van het Europees Parlement uit te oefenen openbare betrekkingen"
 identifier: "BWBR0006612"
-categorie: "Internationaal recht"
-publicatiedatum: 2024-12-11
-laatste_update: 2024-12-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006612"
+country: "nl"
+rank: "wet"
+publication_date: "2024-12-11"
+last_updated: "2024-12-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006612"
+soort: "wet"
+stam_id: "377273"
+version_id: "554302"
+internal_id: "C34097101"
+label_id: "368254"
+dtd_version: "2.0"
+original_entry_into_force: "1994-04-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006612/2024-12-11/0"
+intitule_bron: "Stb.1994-295"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-04-20"
+intitule_status: "goed"
+original_publication: "Stb.1994-295"
+original_signed_date: "1994-04-20"
+original_effect: "nieuwe-regeling"
+original_dossier: "22769"
+entry_into_force_date: "1994-04-29"
+jci_1_3: "jci1.3:c:BWBR0006612&z=2024-12-11&g=2024-12-11"
+jci_1_0: "1.0:c:BWBR0006612&g=2024-12-11"
+citeertitel_status: "officieel"
+short_title: "Wet Incompatibiliteiten Staten-Generaal en Europees Parlement"
+signed_date: "1994-04-20"
+entry_into_force: "1994-04-29"
 ---
-
-# Wet Incompatibiliteiten Staten-Generaal en Europees Parlement
+# Wet van 20 april 1994, houdende bepalingen inzake niet gelijktijdig met het lidmaatschap van de Staten-Generaal of van het Europees Parlement uit te oefenen openbare betrekkingen
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +39,7 @@ Alzo Wij in overweging genomen hebben, dat het gelet op [artikel 57, vierde lid,
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Een lid van de Staten-Generaal kan niet tevens zijn:
 
@@ -48,7 +71,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 4. Een lid van de Staten-Generaal kan niet tevens zijn dienstplichtige in werkelijke dienst of tewerkgestelde erkend gewetensbezwaarde.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een in Nederland gekozen lid van het Europees Parlement kan niet tevens zijn:
 
@@ -88,7 +111,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 4. Een lid van het Europees Parlement kan niet tevens zijn dienstplichtige in werkelijke dienst of tewerkgestelde erkend gewetensbezwaarde.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De militair behorende tot het beroepspersoneel van de krijgsmacht die tot het lidmaatschap van de Eerste Kamer der Staten-Generaal is toegelaten, is van rechtswege op non-activiteit gesteld.
 
@@ -104,7 +127,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 7. De arbeidsovereenkomst van degene die een in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006612&artikel=1&z=2024-12-11&g=2024-12-11), bedoeld ambt bekleedt en die tot het lidmaatschap van de Tweede Kamer der Staten-Generaal of het Europees Parlement is toegelaten, eindigt in verband daarmee van rechtswege met ingang van de dag van die toelating, tenzij betrokkene voor die dag verzoekt om met ingang van die dag tijdelijk te worden ontheven van de waarneming van zijn ambt.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Tijdens de non-activiteit wordt, onverminderd het bepaalde in de volgende artikelen, door de betrokkene een non-activiteitswedde genoten ten bedrage van de helft der laatstelijk door hem in zijn ambt genoten loon of bezoldiging.
 
@@ -116,27 +139,27 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 5. Over de betaling van de non-activiteitswedde en met betrekking tot de berekening van het in het tweede lid vermelde loon of de in het tweede lid vermelde bezoldiging worden bij algemene maatregel van bestuur regels gesteld.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De inkomsten die betrokkene geniet of gaat genieten uit of in verband met arbeid of bedrijf, ter hand genomen nadat hij op non-activiteit is gesteld, worden met de non-activiteitswedde als volgt verrekend: de non-activiteitswedde wordt verminderd met het bedrag waarmee de non-activiteitswedde, vermeerderd met die inkomsten, het laatstelijk in zijn ambt genoten loon of de laatstelijk in zijn ambt genoten bezoldiging overschrijdt.
 
 2. In verband met de uitvoering van het eerste lid worden bij algemene maatregel van bestuur regels gesteld.
 
-#### Artikel 6
+##### Artikel 6
 
 Indien de op non-activiteit gestelde uit het ambt een ontslag, dat aanspraak geeft op wachtgeld, wordt verleend, worden voor de toepassing van de desbetreffende bepalingen inkomsten als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006612&artikel=5&z=2024-12-11&g=2024-12-11) beschouwd als inkomsten, genoten uit of in verband met arbeid of bedrijf na het ontslag ter hand genomen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Bij het einde van het lidmaatschap wordt degene die op non-activiteit was gesteld, voor zoveel zulks naar het oordeel van de overheidswerkgever of het bevoegd gezag mogelijk is, in actieve dienst hersteld.
 
 2. Is herstel in actieve dienst niet mogelijk, dan wordt aan de ambtenaar, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006612&artikel=2&z=2024-12-11&g=2024-12-11), eervol ontslag verleend. Als gevolg van het eervol ontslag, is geen sprake van verwijtbare werkloosheid in de zin van [artikel 24 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24). Inkomsten, als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0006612&artikel=6&z=2024-12-11&g=2024-12-11), worden beschouwd als inkomsten genoten uit of in verband met arbeid of bedrijf na het ontslag ter hand genomen.
 
-#### Artikel 8
+##### Artikel 8
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Degenen die ingevolge de wet van 17 juli 1923 (**Stb.** 364), additioneel artikel XVII van de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) of artikel 3 van de Wet Incompatibiliteiten Europees Parlement (**Stb.** 1978, 653) op non-activiteit zijn gesteld, blijven gedurende hun lidmaatschap van de kamer der Staten-Generaal waarin zij zijn gekozen, onderscheidenlijk van het Europees Parlement, op non-activiteit, doch uiterlijk tot het einde van de zittingsduur van de kamer waarin zij zijn gekozen, onderscheidenlijk van het Europees Parlement.
 
@@ -146,15 +169,15 @@ Bevat wijzigingen in andere regelgeving.
 
 4. Degenen die bij inwerkingtreding van deze wet reeds aanspraken hebben als omschreven in artikel 7 van de wet van 17 juli 1923 behouden die aanspraken.
 
-#### Artikel 10
+##### Artikel 10
 
 De wet van 17 juli 1923 en het koninklijk besluit van 1 mei 1925 (**Stb.** 175), worden ingetrokken.
 
-#### Artikel 11
+##### Artikel 11
 
 De Wet Incompatibiliteiten Europees Parlement (**Stb.** 1978, 653) wordt ingetrokken.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 

@@ -1,18 +1,43 @@
 ---
 title: "Regeling burgerluchtvaartinlichtingen BES"
 identifier: "BWBR0028661"
-categorie: "Milieu"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028661"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028661"
+soort: "ministeriele-regeling-BES"
+stam_id: "10920063"
+version_id: "17903622"
+internal_id: "C24980401"
+label_id: "10894644"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028661/2010-10-10/0"
+intitule_bron: "Stcrt.2010-14849"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-21"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-14849"
+original_signed_date: "2010-09-21"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-14849"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028661&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028661&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-21"
+entry_into_force: "2010-10-10"
 ---
-
 # Regeling burgerluchtvaartinlichtingen BES
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze regeling wordt verstaan onder:
 
@@ -40,7 +65,7 @@ bron: "https://wetten.overheid.nl/BWBR0028661"
 
 ### Hoofdstuk 3. Luchtvaartinlichtingen anders dan luchtvaartmeteorologische inlichtingen
 
-#### Artikel 10
+##### Artikel 10
 
 1. De AIS heeft tot taak door middel van het verstrekken van luchtvaartinlichtingen en het uitgeven van luchtvaartpublicaties en luchtvaartkaarten, een veilig, ordelijk en vlot verloop van het luchtverkeer te bevorderen.
 
@@ -52,13 +77,13 @@ bron: "https://wetten.overheid.nl/BWBR0028661"
 
 5. De exploitant van het luchtvaartterrein is verantwoordelijk voor het bijhouden van de luchtvaartinlichtingen.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Een luchtvaartkaart van de Flamingo CTR, Rooseveld ATZ en Yrausquin ATZ, als bedoeld in de [Regeling aanwijzing luchtruim en aanwijzing luchtverkeersdienstverleners BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028797) voor VFR-vluchten, op een schaal van 1:500.000, wordt jaarlijks verstrekt.
 
 2. Gegevens omtrent het aardoppervlak en de obstakels daarop worden, voor zover van toepassing tezamen met luchtvaartgegevens, elektronisch verstrekt overeenkomstig hoofdstuk 10 van Bijlage 15. De gegevens voldoen aan de in dat hoofdstuk gestelde eisen.
 
-#### Artikel 12
+##### Artikel 12
 
 De luchtvaartinlichtingen worden in de volgende samenstellingen verstrekt:
 
@@ -84,7 +109,7 @@ De luchtvaartinlichtingen worden in de volgende samenstellingen verstrekt:
 
 - 5. TAM’s middels AFS.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Op alle luchtvaartterreinen op Bonaire, Sint Eustatius en Saba worden de luchtvaartinlichtingen verstrekt.
 
@@ -94,7 +119,7 @@ De luchtvaartinlichtingen worden in de volgende samenstellingen verstrekt:
 
 4. De AIS is aangwezen als centrale bibliotheek voor luchtvaartinlichtingen, overeenkomstig Bijlage 15.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Luchtvaartinlichtingen ten behoeve van de vluchtvoorbereiding en vluchtuitvoering worden verstrekt aan:
 
@@ -116,7 +141,7 @@ De luchtvaartinlichtingen worden in de volgende samenstellingen verstrekt:
 
 - b. de politie van de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Het international NOTAM office is aangesloten op AFS
 
@@ -126,14 +151,14 @@ De luchtvaartinlichtingen worden in de volgende samenstellingen verstrekt:
 
 - b. luchtvaartterreinen.
 
-#### Artikel 16
+##### Artikel 16
 
 De informatie neergelegd in deze regeling is ook beschikbaar voor staatsluchtvaartuigen.
 
-#### Artikel 17
+##### Artikel 17
 
 Deze regeling wordt aangeduid als: Regeling burgerluchtvaartinlichtingen BES.
 
-#### Artikel 18
+##### Artikel 18
 
 Deze regeling berust op [artikel 26, tweede lid, van het Besluit luchtverkeer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028639&artikel=26).

@@ -1,13 +1,39 @@
 ---
-title: "Warenwetbesluit Verpakte waters"
+title: "Besluit van 31 juli 1998, houdende regels voor bronwater, natuurlijk mineraalwater en andere verpakte waters (Warenwetbesluit Verpakte waters)"
 identifier: "BWBR0009828"
-categorie: "Milieu"
-publicatiedatum: 2023-01-12
-laatste_update: 2023-01-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009828"
+country: "nl"
+rank: "amvb"
+publication_date: "2023-01-12"
+last_updated: "2023-01-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009828"
+soort: "AMvB"
+stam_id: "2267493"
+version_id: "9862042"
+internal_id: "C13328111"
+label_id: "2218124"
+dtd_version: "2.0"
+original_entry_into_force: "2003-11-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009828/2023-01-12/0"
+intitule_bron: "Stb.1998-527"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-07-31"
+intitule_published: "1998-09-03"
+intitule_in_force: "1998-09-03"
+intitule_status: "goed"
+original_publication: "Stb.2003-473"
+original_signed_date: "2003-11-06"
+original_published_date: "2003-11-25"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2003-473"
+entry_into_force_date: "2003-11-06"
+jci_1_3: "jci1.3:c:BWBR0009828&z=2023-01-12&g=2023-01-12"
+jci_1_0: "1.0:c:BWBR0009828&g=2023-01-12"
+citeertitel_status: "officieel"
+short_title: "Warenwetbesluit Verpakte waters"
+signed_date: "2003-11-06"
+entry_into_force: "2003-11-06"
 ---
-
 # Besluit van 31 juli 1998, houdende regels voor bronwater, natuurlijk mineraalwater en andere verpakte waters (Warenwetbesluit Verpakte waters)
 
 Op de voordracht van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 4 juli 1997, GZB/VVB/973729 gedaan in overeenstemming met Onze Minister van Economische Zaken;
@@ -26,7 +52,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -56,7 +82,7 @@ Hebben goedgevonden en verstaan:
 
 - b. natuurlijk mineraalwater dat met het oog op genezing aan de bron in thermale of hydrominerale inrichtingen wordt gebruikt.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het is verboden de in dit besluit bedoelde drinkwaren te verhandelen die niet voldoen aan de bij dit besluit gestelde eisen met betrekking tot hun samenstelling.
 
@@ -78,7 +104,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 2. In de Europese Unie gewonnen natuurlijk mineraalwater
 
-#### Artikel 3
+##### Artikel 3
 
 1. Onze Minister erkent op verzoek natuurlijk mineraalwater dat voldoet aan:
 
@@ -92,7 +118,7 @@ Hebben goedgevonden en verstaan:
 
 4. In afwijking van het eerste lid, onder b, kan Onze Minister bij het verlenen van een in dat lid bedoelde erkenning lagere richtwaarden hanteren dan ten hoogste 50 mg/l nitraat en ten hoogste 0,1 mg/l nitriet, voor zover die lagere richtwaarden worden gehanteerd voor alle bij hem ingediende verzoeken tot erkenning van natuurlijk mineraalwater.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een natuurlijk mineraalwater zoals dat bij het ontspringen voorkomt, wordt aan geen andere behandeling onderworpen dan:
 
@@ -118,11 +144,11 @@ Hebben goedgevonden en verstaan:
 
 - e. de behandeling geen residuen achterlaat die schadelijk kunnen zijn voor de volksgezondheid of waarbij de in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&bijlage=II&z=2023-01-12&g=2023-01-12) bedoelde grenswaarden worden overschreden.
 
-#### Artikel 5
+##### Artikel 5
 
 Aan een natuurlijk mineraalwater zoals dat bij het ontspringen voorkomt, mag uitsluitend koolzuur worden toegevoegd of opnieuw worden toegevoegd.
 
-#### Artikel 6
+##### Artikel 6
 
 Het totale gehalte aan kweekbare micro-organismen van een natuurlijk mineraalwater:
 
@@ -138,7 +164,7 @@ Het totale gehalte aan kweekbare micro-organismen van een natuurlijk mineraalwat
 
 - c. wordt tijdens de verhandeling uitsluitend bepaald door de normale ontwikkeling van het kiemgehalte van dat water bij het ontspringen.
 
-#### Artikel 7
+##### Artikel 7
 
 In natuurlijk mineraalwater zijn niet aantoonbaar:
 
@@ -148,7 +174,7 @@ In natuurlijk mineraalwater zijn niet aantoonbaar:
 
 - c. Pseudomonas aeruginosa, in 250 ml onderzocht monster.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Natuurlijk mineraalwater is aan de bron gebotteld of geplaatst in een andere recipiënt die bestemd is voor levering aan de eindverbruiker.
 
@@ -158,7 +184,7 @@ In natuurlijk mineraalwater zijn niet aantoonbaar:
 
 4. In afwijking van het eerste lid is natuurlijk mineraalwater, bestemd voor de bereiding van een als frisdrank of limonade aangeduide waar, aan de bron gebotteld of in een andere recipiënt geplaatst die niet bestemd is voor de eindverbruiker.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Natuurlijk mineraalwater mag uitsluitend en moet worden aangeduid met de aanduiding «natuurlijk mineraalwater» of, indien het gashoudend mineraalwater betreft en voor zover van toepassing, met een van de volgende aanduidingen:
 
@@ -170,7 +196,7 @@ In natuurlijk mineraalwater zijn niet aantoonbaar:
 
 2. Voor zover het mineraalwater een in [artikel 4, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=2&artikel=4&z=2023-01-12&g=2023-01-12), bedoelde behandeling heeft ondergaan, wordt de in het eerste lid bedoelde aanduiding aangevuld met: «volledig ontgast» of «gedeeltelijk ontgast».
 
-#### Artikel 10
+##### Artikel 10
 
 1. Ten aanzien van natuurlijk mineraalwater worden vermeldingen gebezigd inzake:
 
@@ -188,7 +214,7 @@ In natuurlijk mineraalwater zijn niet aantoonbaar:
 
 5. Onverminderd het eerste lid wordt bij natuurlijk mineraalwater met meer dan 1,5 mg/l fluor in de onmiddellijke nabijheid van de aanduiding de volgende vermelding gebezigd: «bevat meer dan 1,5 mg/l fluor; niet geschikt voor regelmatig gebruik door zuigelingen en kinderen jonger dan 7 jaar».
 
-#### Artikel 11
+##### Artikel 11
 
 Ten aanzien van natuurlijk mineraalwater mogen naast die van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=2&artikel=10&z=2023-01-12&g=2023-01-12) uitsluitend de volgende vermeldingen gebezigd worden, met inachtneming van de daarbij vermelde criteria:
 
@@ -214,7 +240,7 @@ Ten aanzien van natuurlijk mineraalwater mogen naast die van [artikel 10](https:
 
 #### § 3. In de Europese Unie gewonnen bronwater
 
-#### Artikel 12
+##### Artikel 12
 
 1. De [artikelen 3 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=2&artikel=3&z=2023-01-12&g=2023-01-12), en [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=2&artikel=10&z=2023-01-12&g=2023-01-12), met uitzondering van:
 
@@ -228,7 +254,7 @@ Ten aanzien van natuurlijk mineraalwater mogen naast die van [artikel 10](https:
 
 #### § 4. Binnen Nederlands grondgebied brengen van natuurlijk mineraalwater en bronwater vanuit een derde land
 
-#### Artikel 13
+##### Artikel 13
 
 1. Natuurlijk mineraalwater en bronwater, dat gewonnen is uit de bodem van een derde land, wordt door Onze Minister slechts erkend indien de desbetreffende bevoegde autoriteit in het land van winning heeft verklaard dat dit water voldoet aan bijlage I, deel I, van richtlijn 2009/54/EG, en dat permanent wordt gecontroleerd of bijlage II, punt 2, van richtlijn 2009/54/EG wordt nageleefd.
 
@@ -236,7 +262,7 @@ Ten aanzien van natuurlijk mineraalwater mogen naast die van [artikel 10](https:
 
 #### § 5. Ander verpakt water dan natuurlijk mineraalwater en bronwater
 
-#### Artikel 14
+##### Artikel 14
 
 1. Water voldoet op het punt waar flessen of verpakkingen worden gevuld ten minste aan de bij of krachtens de [Drinkwaterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338) aan voor drinkwater gestelde eisen.
 
@@ -251,7 +277,7 @@ a. voldoet water aan de volgende microbiologische parameters:
 
 b. is de pH van niet-bruisend water ten minste 4,5 en ten hoogste 9,5, met dien verstande dat de minimumwaarde lager kan zijn voor water in flessen of verpakkingen dat van nature rijk is aan kooldioxide of kunstmatig verrijkt is met kooldioxide.
 
-#### Artikel 14a
+##### Artikel 14a
 
 Bij de vaststelling of al dan niet is voldaan aan [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=5&artikel=14&z=2023-01-12&g=2023-01-12), worden de specificaties in acht genomen die zijn omschreven in bijlage III van [richtlijn (EU) 2020/2184](32020L2184), met dien verstande dat:
 
@@ -261,15 +287,15 @@ Bij de vaststelling of al dan niet is voldaan aan [artikel 14](https://wetten.ov
 
 #### § 6:. slotbepalingen
 
-#### Artikel 15
+##### Artikel 15
 
 Het Natuurlijk mineraal- en bronwaterbesluit (Warenwet) wordt ingetrokken, met dien verstande dat een krachtens dat besluit verleende erkenning gelijk wordt gesteld met een erkenning krachtens dit besluit.
 
-#### Artikel 16
+##### Artikel 16
 
 Wijzigt het Warenwetbesluit Frisdranken.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Dit besluit treedt in werking met ingang van 28 oktober 1998,
 
@@ -279,13 +305,13 @@ Wijzigt het Warenwetbesluit Frisdranken.
 
 2. Een wijziging van bijlage II en III van richtlijn 2013/51/Euratom gaat voor de toepassing van [artikel 14b](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=5&artikel=14b&z=2023-01-12&g=2023-01-12) gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
-#### Artikel 18
+##### Artikel 18
 
 Dit besluit wordt aangehaald als: Warenwetbesluit Verpakte waters.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 11a
+##### Artikel 11a
 
 Bij de vaststelling of al dan niet is voldaan aan artikel 8, derde lid, worden de prestatiekenmerken in acht genomen die zijn omschreven in bijlage II van [richtlijn 2003/40/EG](32003L0040).
 
@@ -347,7 +373,7 @@ De van nature in mineraalwater aanwezige bestanddelen en hoeveelheden, bedoeld i
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 14b
+##### Artikel 14b
 
 Bij de vaststelling of al dan niet is voldaan aan [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=5&artikel=14&z=2023-01-12&g=2023-01-12), voor zover het betrekking heeft op het voldoen aan de parameterwaarden voor radioactieve stoffen, wordt gecontroleerd volgens de in bijlage II en III bij richtlijn 2013/51/Euratom vastgestelde controlestrategieën en controlefrequenties.
 

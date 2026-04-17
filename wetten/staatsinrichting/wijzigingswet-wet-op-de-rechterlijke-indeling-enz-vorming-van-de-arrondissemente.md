@@ -1,14 +1,41 @@
 ---
-title: "Wijzigingswet Wet op de rechterlijke indeling, enz. (vorming van de arrondissementen Gelderland en Overijssel)"
+title: "Wet van 20 december 2012 tot wijziging van de Wet op de rechterlijke indeling, de Wet op de rechterlijke organisatie en enige andere wetten in verband met de vorming van de arrondissementen Gelderland en Overijssel"
 identifier: "BWBR0032588"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2013-04-01
-laatste_update: 2013-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032588"
+country: "nl"
+rank: "wet"
+publication_date: "2013-04-01"
+last_updated: "2013-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032588"
+soort: "wet"
+stam_id: "11993793"
+version_id: "19945442"
+internal_id: "C28071301"
+label_id: "11965934"
+dtd_version: "2.0"
+original_entry_into_force: "2013-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032588/2013-04-01/0"
+intitule_bron: "Stb.2012-666"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-12-20"
+intitule_published: "2012-12-21"
+intitule_in_force: "2012-12-21"
+intitule_status: "goed"
+original_publication: "Stb.2012-666"
+original_signed_date: "2012-12-20"
+original_published_date: "2012-12-21"
+original_effect: "nieuwe-regeling"
+original_dossier: "33451"
+original_url_id: "stb-2012-666"
+entry_into_force_date: "2013-04-01"
+jci_1_3: "jci1.3:c:BWBR0032588&z=2013-04-01&g=2013-04-01"
+jci_1_0: "1.0:c:BWBR0032588&g=2013-04-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingswet Wet op de rechterlijke indeling, enz. (vorming van de arrondissementen Gelderland en Overijssel)"
+signed_date: "2012-12-20"
+entry_into_force: "2013-04-01"
 ---
-
-# Wijzigingswet Wet op de rechterlijke indeling, enz. (vorming van de arrondissementen Gelderland en Overijssel)
+# Wet van 20 december 2012 tot wijziging van de Wet op de rechterlijke indeling, de Wet op de rechterlijke organisatie en enige andere wetten in verband met de vorming van de arrondissementen Gelderland en Overijssel
 
 ### Hoofdstuk I. Wijziging van wetgeving op het terrein van rechtspleging
 
@@ -16,19 +43,19 @@ bron: "https://wetten.overheid.nl/BWBR0032588"
 
 ### Hoofdstuk III. Overgangsbepalingen
 
-#### Artikel XIII. (overgang lopende zaken naar nieuwe rechtbanken)
+##### Artikel XIII. (overgang lopende zaken naar nieuwe rechtbanken)
 
 Zaken die op de dag voorafgaand aan de inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0032588&hoofdstuk=I&artikel=I&z=2013-04-01&g=2013-04-01) aanhangig waren bij de rechtbank Oost-Nederland, tot kennisneming waarvan de rechtbank Gelderland onderscheidenlijk de rechtbank Overijssel bevoegd is, gaan van rechtswege over naar de rechtbank Gelderland onderscheidenlijk de rechtbank Overijssel.
 
-#### Artikel XIV. (overgangsrecht i.v.m. verzet, beroep, hoger beroep enz.)
+##### Artikel XIV. (overgangsrecht i.v.m. verzet, beroep, hoger beroep enz.)
 
 Voor de toepassing van bepalingen inzake de behandeling van geschillen ter zake van beslissingen van de rechtbank Oost-Nederland die vóór het tijdstip van inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0032588&hoofdstuk=I&artikel=I&z=2013-04-01&g=2013-04-01) zijn genomen, tot kennisneming waarvan de rechtbank Gelderland onderscheidenlijk de rechtbank Overijssel bevoegd is, worden deze beslissingen aangemerkt als beslissingen van de rechtbank Gelderland onderscheidenlijk de rechtbank Overijssel.
 
-#### Artikel XV. (overgangsrecht i.v.m. dagvaardingen, verzoekschriften en andere processtukken)
+##### Artikel XV. (overgangsrecht i.v.m. dagvaardingen, verzoekschriften en andere processtukken)
 
 Dagvaardingen, verzoekschriften en andere processtukken in aanhangige of aanhangig te maken zaken, tot kennisneming waarvan op de dag voorafgaand aan de inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0032588&hoofdstuk=I&artikel=I&z=2013-04-01&g=2013-04-01) bevoegd was de rechtbank Oost-Nederland, tot kennisneming waarvan met ingang van de dag van inwerkingtreding van artikel I de rechtbank Gelderland onderscheidenlijk de rechtbank Overijssel bevoegd is, worden met ingang van de dag van inwerkingtreding van artikel I aangemerkt als processtukken in zaken tot kennisneming waarvan de rechtbank Gelderland onderscheidenlijk de rechtbank Overijssel bevoegd is.
 
-#### Artikel XVI. (overdracht archiefbescheiden)
+##### Artikel XVI. (overdracht archiefbescheiden)
 
 1. Archiefbescheiden welke op de datum van inwerkingtreding van de [Wet herziening gerechtelijke kaart](https://wetten.overheid.nl/jci1.3:c:BWBR0031789) overeenkomstig [artikel CV van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031789&artikel=CV) zijn overgedragen vanuit de rechtbank te Arnhem en de rechtbank te Zutphen aan de rechtbank Oost-Nederland, worden overgedragen aan de rechtbank Gelderland, voor zover zij niet overeenkomstig de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) zijn overgebracht naar een archiefbewaarplaats.
 
@@ -38,7 +65,7 @@ Dagvaardingen, verzoekschriften en andere processtukken in aanhangige of aanhang
 
 4. Overige archiefbescheiden van de rechtbank Oost-Nederland worden overgedragen aan de rechtbank Gelderland, voor zover zij niet overeenkomstig de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) zijn overgebracht naar een archiefbewaarplaats.
 
-#### Artikel XVII. (overgangsrecht functionarissen rechtbanken)
+##### Artikel XVII. (overgangsrecht functionarissen rechtbanken)
 
 1. Ten aanzien van degenen voor wie op de dag voorafgaand aan de inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0032588&hoofdstuk=I&artikel=I&z=2013-04-01&g=2013-04-01) is vastgesteld dat zij het ambt van senior rechter A, senior rechter, rechter, rechter-plaatsvervanger, senior-gerechtsauditeur, gerechtsauditeur of rechterlijk ambtenaar in opleiding vervullen bij de rechtbank Oost-Nederland, wordt die vaststelling van rechtswege gewijzigd in de vaststelling dat zij datzelfde ambt vervullen bij:
 
@@ -90,7 +117,7 @@ Zij worden als zodanig niet beëdigd.
 
 Zij worden als zodanig niet beëdigd.
 
-#### Artikel XVIII. (overgangsrecht gerechtsbestuurders)
+##### Artikel XVIII. (overgangsrecht gerechtsbestuurders)
 
 1. De benoeming van degene die op de dag voorafgaand aan de inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0032588&hoofdstuk=I&artikel=I&z=2013-04-01&g=2013-04-01) als voorzitter van het bestuur van de rechtbank Oost-Nederland is benoemd, wordt van rechtswege gewijzigd in de benoeming als voorzitter van het bestuur van de rechtbank Gelderland.
 
@@ -108,7 +135,7 @@ Zij worden als zodanig niet beëdigd.
 
 8. In afwijking van [artikel 5c van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=5c) kan de commissie, bedoeld in het vijfde lid, worden geadviseerd door de gerechtsvergadering van de rechtbank Oost-Nederland inzake de lijst van aanbeveling ten behoeve van de vervulling van een functie als bedoeld in artikel 5c, eerste lid, van die wet, niet zijnde rechter-plaatsvervanger bij de rechtbank Gelderland onderscheidenlijk de rechtbank Overijssel, met ingang van de dag van inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0032588&hoofdstuk=I&artikel=I&z=2013-04-01&g=2013-04-01), voor zover het kandidaten betreft die met ingang van diezelfde dag worden benoemd als lid van het bestuur van de rechtbank Gelderland onderscheidenlijk de rechtbank Overijssel en die met ingang van diezelfde dag nog niet ingevolge [artikel XVII, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032588&hoofdstuk=III&artikel=XVII&z=2013-04-01&g=2013-04-01), bij de rechtbank Gelderland onderscheidenlijk de rechtbank Overijssel als rechterlijk ambtenaar met rechtspraak belast werkzaam zijn.
 
-#### Artikel XIX. (overgangsrecht rechtspositionele beslissingen)
+##### Artikel XIX. (overgangsrecht rechtspositionele beslissingen)
 
 Besluiten of andere handelingen van het bestuur of de president van de rechtbank Oost-Nederland waarbij ambtenaren of gewezen ambtenaren, bedoeld in [artikel XVII, eerste, tweede, vierde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032588&hoofdstuk=III&artikel=XVII&z=2013-04-01&g=2013-04-01), die op de dag voorafgaand aan de inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0032588&hoofdstuk=I&artikel=I&z=2013-04-01&g=2013-04-01) bij die rechtbank werkzaam zijn en hun ambt gewoonlijk vervullen in of vanuit een gemeente in de provincie Gelderland onderscheidenlijk Overijssel, dan wel voor wie op die dag een gemeente in de provincie Gelderland onderscheidenlijk Overijssel als standplaats is aangewezen, als zodanig belanghebbende zijn, dan wel waarbij hun rechtverkrijgenden of nagelaten betrekkingen belanghebbenden zijn, worden van rechtswege aangemerkt als besluiten of andere handelingen van:
 
@@ -116,7 +143,7 @@ Besluiten of andere handelingen van het bestuur of de president van de rechtbank
 
 - b. het bestuur of de president van de rechtbank Overijssel, indien de betrokken ambtenaren of gewezen ambtenaren hun ambt gewoonlijk vervullen in of vanuit een gemeente in de provincie Overijssel dan wel voor wie een gemeente in de provincie Overijssel als standplaats is aangewezen.
 
-#### Artikel XX. (overgangsrecht wettelijke procedures en rechtsgedingen)
+##### Artikel XX. (overgangsrecht wettelijke procedures en rechtsgedingen)
 
 In wettelijke procedures en rechtsgedingen, waarbij het bestuur onderscheidenlijk de president van de rechtbank Oost-Nederland op de dag voorafgaand aan de inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0032588&hoofdstuk=I&artikel=I&z=2013-04-01&g=2013-04-01) is betrokken, treedt in de plaats:
 
@@ -126,7 +153,7 @@ In wettelijke procedures en rechtsgedingen, waarbij het bestuur onderscheidenlij
 
 - c. het bestuur onderscheidenlijk de president van de rechtbank Gelderland, indien het andere dan in de onderdelen a en b genoemde wettelijke procedures en rechtsgedingen betreft.
 
-#### Artikel XXI. (overgangsrecht klachtbehandeling)
+##### Artikel XXI. (overgangsrecht klachtbehandeling)
 
 1. In zaken waarin voor het tijdstip van inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0032588&hoofdstuk=I&artikel=I&z=2013-04-01&g=2013-04-01) aan de Nationale ombudsman is verzocht een onderzoek te doen dan wel de Nationale ombudsman een onderzoek heeft ingesteld naar een gedraging die op grond van [artikel 26, zevende lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=26) wordt aangemerkt als een gedraging van het bestuur van de rechtbank Oost-Nederland, treedt van rechtswege in de plaats van dat bestuur het bestuur van:
 
@@ -146,11 +173,11 @@ In wettelijke procedures en rechtsgedingen, waarbij het bestuur onderscheidenlij
 
 - b. de rechtbank Overijssel, indien de klacht betrekking heeft op een gedraging van een ambtenaar die zijn ambt op de dag direct voorafgaand aan de inwerkingtreding van artikel I gewoonlijk vervult in of vanuit een gemeente in de provincie Overijssel dan wel voor wie op die dag een gemeente in de provincie Overijssel als standplaats is aangewezen.
 
-#### Artikel XXII. (overgangsrecht zaaksverdelingsreglement)
+##### Artikel XXII. (overgangsrecht zaaksverdelingsreglement)
 
 Het zaaksverdelingsreglement van de rechtbank Oost-Nederland, bedoeld in [artikel 21 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=21), zoals dit luidt op de dag voor de datum van inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0032588&hoofdstuk=I&artikel=I&z=2013-04-01&g=2013-04-01), en voor zover betrekking hebbend op de zittingsplaatsen in de provincies Gelderland onderscheidenlijk Overijssel, heeft te gelden als het zaaksverdelingsreglement van de rechtbank Gelderland onderscheidenlijk de rechtbank Overijssel.
 
-#### Artikel XXIII. (overgangsrecht advocatuur)
+##### Artikel XXIII. (overgangsrecht advocatuur)
 
 1. De algemene raad van de Nederlandse orde van advocaten wijst, na daaromtrent het gevoelen te hebben ingewonnen van de orde van advocaten in het arrondissement Oost-Nederland, zoals dat bestond vóór het tijdstip van inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0032588&hoofdstuk=I&artikel=I&z=2013-04-01&g=2013-04-01), de personen aan die vanaf het tijdstip van inwerkingtreding van artikel I als deken of overige leden zitting hebben in de raden van toezicht, bedoeld in [artikel 22, eerste lid, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=22) van de arrondissementen Gelderland en Overijssel, voor een termijn van ten hoogste drie maanden. Binnen die termijn geven de orden in die arrondissementen uitvoering aan artikel 22, tweede lid, van de Advocatenwet.
 
@@ -164,7 +191,7 @@ Het zaaksverdelingsreglement van de rechtbank Oost-Nederland, bedoeld in [artike
 
 3. De benoemingsduur van afgevaardigden en hun plaatsvervangers in het college van afgevaardigden, bedoeld in [artikel 19, eerste lid, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=19), welke zijn gekozen in de vergadering van de orde in het arrondissement Oost-Nederland eindigt binnen een termijn van ten hoogste drie maanden na de datum van inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0032588&hoofdstuk=I&artikel=I&z=2013-04-01&g=2013-04-01). Binnen die termijn geven de orden van advocaten in de arrondissementen Gelderland en Overijssel uitvoering aan [artikel 20, eerste lid, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=20).
 
-#### Artikel XXIV. (overgangsrecht notariaat)
+##### Artikel XXIV. (overgangsrecht notariaat)
 
 1. Het bestuur van de Koninklijke Notariële Beroepsorganisatie wijst, na daaromtrent het gevoelen te hebben ingewonnen van het ringbestuur in het arrondissement Oost-Nederland, zoals deze bestond vóór het tijdstip van inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0032588&hoofdstuk=I&artikel=I&z=2013-04-01&g=2013-04-01), de personen aan die vanaf het tijdstip van inwerkingtreding van artikel I als voorzitter of als lid zitting hebben in de ringbesturen in de arrondissementen Gelderland en Overijssel voor een termijn van ten hoogste drie maanden. Binnen die termijn geven de ringvergaderingen van de ringen in de arrondissementen Gelderland en Overijssel uitvoering aan [artikel 85 van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=85).
 
@@ -186,95 +213,95 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is om de [Wet op de rec
 
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet op de rechterlijke indeling.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Wet op de rechterlijke organisatie.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Wet rechtspositie rechterlijke ambtenaren.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Wet herziening gerechtelijke kaart.
 
 ### Hoofdstuk II. Wijziging van overige wetten
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Algemene wet inzake rijksbelastingen.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de onteigeningswet.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Politiewet 2012.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Wet aansprakelijkheid olietankschepen.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Wet griffierechten in burgerlijke zaken.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Wet op de ondernemingsraden.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt het Wetboek van Strafvordering.
 
 ### Hoofdstuk IV. Samenloopbepalingen
 
-#### Artikel XXV
+##### Artikel XXV
 
 Wijzigt de Algemene wet bestuursrecht.
 
-#### Artikel XXVI
+##### Artikel XXVI
 
 Wijzigt de Wet lokaal spoor (KST33324).
 
-#### Artikel XXVII
+##### Artikel XXVII
 
 Wijzigt de Wet basisregistratie personen (KST33219).
 
-#### Artikel XXVIII
+##### Artikel XXVIII
 
 1. Wijzigt de Pensioenwet.
 
 2. Wijzigt de Wet versterking pensioenfondsen (KST33182).
 
-#### Artikel XXIX
+##### Artikel XXIX
 
 Wijzigt de Beginselenwet AWBZ-zorg (KST33109).
 
-#### Artikel XXX
+##### Artikel XXX
 
 Wijzigt de Wet wijziging curatele, beschermingsbewind en mentorschap (KST33054).
 
-#### Artikel XXXI
+##### Artikel XXXI
 
 Wijzigt de Reparatiewet griffierechten burgerlijke zaken (KST33108).
 
 ### Hoofdstuk V. Slotbepalingen
 
-#### Artikel XXXII
+##### Artikel XXXII
 
 Onze Minister van Veiligheid en Justitie zendt binnen drie jaar na inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk in het arrondissement Gelderland en het arrondissement Overijssel. Bij dit verslag wordt betrokken het verslag over de doeltreffendheid en de effecten van de [Wet herziening gerechtelijke kaart](https://wetten.overheid.nl/jci1.3:c:BWBR0031789) in het arrondissement Oost-Nederland, bedoeld in [artikel CXLIVb, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031789&artikel=CXLIVb), zoals dat luidt op de dag voor de datum van inwerkingtreding van deze wet, naar de stand op het moment van inwerkingtreding van deze wet.
 
-#### Artikel XXXIII
+##### Artikel XXXIII
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld en wat betreft [artikel XVIII, vijfde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032588&hoofdstuk=III&artikel=XVIII&z=2013-04-01&g=2013-04-01), kan terugwerken tot en met een in dat besluit te bepalen tijdstip.
 

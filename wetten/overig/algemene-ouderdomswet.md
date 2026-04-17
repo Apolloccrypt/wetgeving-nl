@@ -1,14 +1,40 @@
 ---
-title: "Algemene Ouderdomswet"
+title: "Wet van 31 mei 1956, inzake een algemene ouderdomsverzekering"
 identifier: "BWBR0002221"
-categorie: "Overig"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002221"
+country: "nl"
+rank: "wet"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002221"
+soort: "wet"
+stam_id: "2552363"
+version_id: "12691002"
+internal_id: "C25389981"
+label_id: "2498844"
+dtd_version: "2.0"
+original_entry_into_force: "2006-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002221/2025-01-01/0"
+intitule_bron: "Stb.1956-281"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1956-05-31"
+intitule_status: "goed"
+original_publication: "Stb.2005-718"
+original_signed_date: "2005-12-22"
+original_published_date: "2005-12-29"
+original_effect: "structuurwijziging"
+original_dossier: "30223"
+original_url_id: "stb-2005-718"
+entry_into_force_date: "2006-01-01"
+entry_into_force_dossier: "30223"
+jci_1_3: "jci1.3:c:BWBR0002221&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0002221&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Algemene Ouderdomswet"
+signed_date: "2005-12-22"
+entry_into_force: "2006-01-01"
 ---
-
-# Algemene Ouderdomswet
+# Wet van 31 mei 1956, inzake een algemene ouderdomsverzekering
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +44,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. Voor de toepassing van deze wet en van de tot haar uitvoering genomen besluiten wordt verstaan onder:
 
@@ -82,11 +108,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 9. Onder voormalig pleegkind als bedoeld in het achtste lid wordt verstaan een pleegkind voor wie de ongehuwde meerderjarige een pleegvergoeding ontving of ontvangt op grond van de [Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637) of de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925), of kinderbijslag ontving op grond van de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368).
 
-#### Artikel 2
+##### Artikel 2
 
 Ingezetene in de zin van deze wet is degene, die in Nederland woont.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Waar iemand woont en waar een lichaam gevestigd is, wordt naar de omstandigheden beoordeeld.
 
@@ -94,17 +120,17 @@ Ingezetene in de zin van deze wet is degene, die in Nederland woont.
 
 3. Hij die Nederland metterwoon heeft verlaten en binnen een jaar nadien metterwoon terugkeert zonder inmiddels in Aruba, Curaçao, Sint Maarten, de openbare lichamen Bonaire, Sint Eustatius en Saba, of op het grondgebied van een andere Mogendheid te hebben gewoond, wordt ook voor de duur van zijn afwezigheid geacht in Nederland te hebben gewoond.
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
 ### Hoofdstuk II. Kring der verzekerden
 
-#### Artikel 6
+##### Artikel 6
 
 1. Verzekerd overeenkomstig de bepalingen van deze wet is degene, die nog niet de pensioengerechtigde leeftijd heeft bereikt, en
 
@@ -122,7 +148,7 @@ Vervallen
 
 - b. vreemdelingen die, na rechtmatig verblijf te hebben gehouden in de zin van [artikel 8, onder a tot en met e en l, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), rechtmatig in Nederland verblijf hebben als bedoeld in artikel 8, onder g of h, van de Vreemdelingenwet 2000.
 
-#### Artikel 6a
+##### Artikel 6a
 
 Zo nodig in afwijking van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=II&artikel=6&z=2025-01-01&g=2025-01-01) en de daarop berustende bepalingen:
 
@@ -134,7 +160,7 @@ Zo nodig in afwijking van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 #### § 1. Het recht op ouderdomspensioen en toeslag
 
-#### Artikel 7
+##### Artikel 7
 
 1. Recht op ouderdomspensioen overeenkomstig de bepalingen van deze wet heeft degene, die
 
@@ -144,7 +170,7 @@ Zo nodig in afwijking van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 2. Bij ministeriële regeling worden regels gesteld omtrent de herleiding van gedeelten van kalenderjaren tot gehele kalenderjaren.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De pensioengerechtigde die voor 1 januari 2015 is gehuwd en voor die datum recht heeft op ouderdomspensioen en van wie de echtgenoot jonger is dan de pensioengerechtigde leeftijd, heeft overeenkomstig de bepalingen van deze wet recht op een toeslag, tenzij, met inachtneming van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=11&z=2025-01-01&g=2025-01-01), het inkomen uit arbeid of overig inkomen van die echtgenoot meer bedraagt dan de volledige bruto-toeslag.
 
@@ -166,7 +192,7 @@ Zo nodig in afwijking van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 4. Waar in deze wet en in de tot haar uitvoering genomen besluiten wordt gesproken van ouderdomspensioen wordt daaronder mede verstaan de in het eerste lid bedoelde toeslag, voor zover niet anders is bepaald.
 
-#### Artikel 8a
+##### Artikel 8a
 
 1. Geen recht op toeslag heeft de pensioengerechtigde, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=8&z=2025-01-01&g=2025-01-01), die niet in Nederland woont.
 
@@ -180,7 +206,7 @@ Zo nodig in afwijking van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 - c. de gezinsleden van de in de onderdelen a of b bedoelde pensioengerechtigde.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Deze wet kent een bruto-ouderdomspensioen voor:
 
@@ -208,7 +234,7 @@ Zo nodig in afwijking van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 9. De Sociale verzekeringsbank betaalt het gewijzigde ouderdomspensioen, bedoeld in het achtste lid, bij de eerstvolgende betaling van het ouderdomspensioen nadat de wijziging, bedoeld in het achtste lid, heeft plaatsgevonden.
 
-#### Artikel 9a
+##### Artikel 9a
 
 1. In afwijking van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=9&z=2025-01-01&g=2025-01-01) is voor de pensioengerechtigde, die niet in Nederland woont, het bruto-ouderdomspensioen gelijk aan het bruto-ouderdomspensioen voor de pensioengerechtigde, bedoeld in artikel 9, eerste lid, onderdeel b, onverminderd [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=13&z=2025-01-01&g=2025-01-01).
 
@@ -228,13 +254,13 @@ Zo nodig in afwijking van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 - b. een pensioen, toeslag, uitkering, vergoeding of tegemoetkoming, vergelijkbaar met een pensioen, toeslag, uitkering, vergoeding of tegemoetkoming als bedoeld in onderdeel a, op grond van een buitenlandse wettelijke regeling die vergelijkbaar is met de wettelijke regelingen, genoemd in onderdeel a.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De volledige bruto-toeslag wordt toegekend voorzolang, met inachtneming van het bepaalde in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=11&z=2025-01-01&g=2025-01-01), het inkomen uit arbeid of overig inkomen van de echtgenoot van de pensioengerechtigde nihil bedraagt.
 
 2. Op de volledige bruto-toeslag wordt in mindering gebracht het inkomen van de echtgenoot van de pensioengerechtigde uit arbeid of overig inkomen, vastgesteld met inachtneming van het bepaalde in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=11&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 11
+##### Artikel 11
 
 1. Voor de toepassing van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=8&z=2025-01-01&g=2025-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=10&z=2025-01-01&g=2025-01-01) wordt van het inkomen uit arbeid buiten aanmerking gelaten:
 
@@ -252,7 +278,7 @@ Zo nodig in afwijking van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 - –. Y staat voor het aantal dagen van de maand waarin de pensioengerechtigde of de echtgenoot van de pensioengerechtigde de pensioengerechtigde leeftijd heeft bereikt.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Op de bruto-toeslag, vastgesteld op grond van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=10&z=2025-01-01&g=2025-01-01) en, indien van toepassing, na toepassing van [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=13&z=2025-01-01&g=2025-01-01), wordt een korting toegepast tot 10% voor zover de toeslag samen met het gezamenlijke inkomen uit arbeid of overig inkomen van de gehuwde pensioengerechtigde en diens echtgenoot vermeerderd met het op grond van de [artikelen 9, zesde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=9&z=2025-01-01&g=2025-01-01) en [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=13&z=2025-01-01&g=2025-01-01), vastgestelde bruto-ouderdomspensioen door de toepassing van de korting niet minder bedraagt dan 162% van het bruto-minimumloon met inbegrip van de bruto-minimumvakantiebijslag, bedoeld in [artikel 15, eerste lid, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=15).
 
@@ -266,7 +292,7 @@ Zo nodig in afwijking van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 4. [Artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=11&z=2025-01-01&g=2025-01-01), is van overeenkomstige toepassing op de inkomensgrens, bedoeld in het eerste lid.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Op het bruto-ouderdomspensioen, vastgesteld op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=9&z=2025-01-01&g=2025-01-01), wordt een korting toegepast van 2% voor elk kalenderjaar, dat de pensioengerechtigde na het bereiken van de aanvangsleeftijd, doch vóór het bereiken van de pensioengerechtigde leeftijd niet verzekerd is geweest.
 
@@ -276,13 +302,13 @@ Zo nodig in afwijking van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 #### § 2. Toekenning, ingang, intrekking, herziening en betaling van het ouderdomspensioen
 
-#### Artikel 14
+##### Artikel 14
 
 1. Het ouderdomspensioen alsmede een verhoging van het ouderdomspensioen wordt op aanvraag toegekend door de Sociale verzekeringsbank.
 
 2. In afwijking van het bepaalde in het vorige lid is de Sociale verzekeringsbank bevoegd het ouderdomspensioen of een verhoging van het ouderdomspensioen ambtshalve toe te kennen.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De Sociale verzekeringsbank is bevoegd controlevoorschriften vast te stellen. Deze voorschriften mogen niet verder gaan dan strikt noodzakelijk is voor een juiste uitvoering van deze wet.
 
@@ -290,17 +316,17 @@ Zo nodig in afwijking van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 3. De pensioengerechtigde, zijn echtgenoot, dan wel zijn wettelijk vertegenwoordiger, onthouden zich van zeer ernstige misdragingen jegens de met de uitvoering van deze wet belaste personen en instanties tijdens het verrichten van hun werkzaamheden.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Het ouderdomspensioen gaat in op de dag waarop de belanghebbende aan de voorwaarden voor het recht op ouderdomspensioen voldoet.
 
 2. In afwijking van het bepaalde in het eerste lid kan een ouderdomspensioen niet vroeger ingaan dan de eerste dag van de twaalfde maand vóór de dag waarop de aanvraag werd ingediend of vóór de dag waarop ambtshalve toekenning plaatsvond. De Sociale verzekeringsbank kan voor bijzondere gevallen van het bepaalde in de vorige volzin afwijken.
 
-#### Artikel 16a
+##### Artikel 16a
 
 Vervallen
 
-#### Artikel 17
+##### Artikel 17
 
 1. Het ouderdomspensioen wordt door de Sociale verzekeringsbank ingetrokken of herzien, wanneer degene, aan wie het is toegekend, ingevolge het bij of krachtens deze wet bepaalde daarvoor niet of niet meer in aanmerking komt, onderscheidenlijk voor een hoger of lager ouderdomspensioen in aanmerking komt.
 
@@ -318,7 +344,7 @@ Vervallen
 
 8. Ter uitvoering van dit artikel kunnen bij ministeriële regeling nadere voorschriften worden gegeven.
 
-#### Artikel 17a
+##### Artikel 17a
 
 1. Onverminderd het elders in deze wet bepaalde terzake van herziening of intrekking van een besluit tot toekenning van ouderdomspensioen en terzake van weigering van ouderdomspensioen, herziet de Sociale verzekeringsbank een dergelijk besluit of trekt zij dat in:
 
@@ -330,7 +356,7 @@ Vervallen
 
 2. Indien daarvoor dringende redenen aanwezig zijn kan de Sociale verzekeringsbank besluiten geheel of gedeeltelijk van herziening of intrekking af te zien.
 
-#### Artikel 17b
+##### Artikel 17b
 
 1. De Sociale verzekeringsbank weigert het ouderdomspensioen geheel of gedeeltelijk, tijdelijk of blijvend, indien de pensioengerechtigde, zijn echtgenoot, of zijn wettelijke vertegenwoordiger een verplichting, hem op grond van [artikel 15, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=2&artikel=15&z=2025-01-01&g=2025-01-01), opgelegd, of de verplichtingen, bedoeld in [artikel 55, tweede lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=55) niet of niet behoorlijk is nagekomen, dan wel de verplichting, bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=VI&artikel=49&z=2025-01-01&g=2025-01-01) niet binnen de door de Sociale verzekeringsbank daarvoor vastgestelde termijn is nagekomen.
 
@@ -344,7 +370,7 @@ Vervallen
 
 6. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot het eerste en tweede lid.
 
-#### Artikel 17c
+##### Artikel 17c
 
 1. De Sociale verzekeringsbank legt een bestuurlijke boete op van ten hoogste het benadelingsbedrag wegens het niet of niet behoorlijk nakomen door de pensioengerechtigde, zijn echtgenoot, of zijn wettelijke vertegenwoordiger van de verplichting, bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=VI&artikel=49&z=2025-01-01&g=2025-01-01). Indien de feiten en omstandigheden, bedoeld in artikel 49, niet of niet behoorlijk zijn medegedeeld en deze overtreding opzettelijk is begaan, bedraagt de bestuurlijke boete ten hoogste het bedrag van de vijfde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23). Indien de feiten en omstandigheden, bedoeld in artikel 49, niet of niet behoorlijk zijn medegedeeld en deze overtreding niet opzettelijk is begaan, bedraagt de bestuurlijke boete ten hoogste het bedrag van de derde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht.
 
@@ -372,27 +398,27 @@ Vervallen
 
 13. Het besluit tot kwijtschelding, bedoeld in het twaalfde lid, wordt ingetrokken of ten nadele van degene aan wie de bestuurlijke boete is opgelegd herzien indien binnen vijf jaar na het besluit tot kwijtschelding wederom een overtreding wegens eenzelfde gedraging is begaan.
 
-#### Artikel 17d
+##### Artikel 17d
 
 Vervallen
 
-#### Artikel 17e
+##### Artikel 17e
 
 Bij ministeriële regeling kunnen regels worden gesteld omtrent de termijn waarvoor uitstel van betaling van de bestuurlijke boete kan worden verleend alsmede omtrent de hoogte van het op grond van [artikel 17i, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=2&artikel=17i&z=2025-01-01&g=2025-01-01), te verrekenen bedrag en de termijn of termijnen waarbinnen deze verrekening plaatsvindt.
 
-#### Artikel 17f
+##### Artikel 17f
 
 Vervallen
 
-#### Artikel 17g
+##### Artikel 17g
 
 Vervallen
 
-#### Artikel 17h
+##### Artikel 17h
 
 Vervallen
 
-#### Artikel 17i
+##### Artikel 17i
 
 1. De Sociale verzekeringsbank verrekent de bestuurlijke boete en een eerdere bestuurlijke boete wegens eenzelfde gedraging als bedoeld in [artikel 17c, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=2&artikel=17c&z=2025-01-01&g=2025-01-01), met het ouderdomspensioen dat degene aan wie een bestuurlijke boete is opgelegd op grond van deze wet ontvangt.
 
@@ -408,7 +434,7 @@ Vervallen
 
 - b. geldt de beslagvrije voet, bedoeld in de [artikelen 475c tot en met 475e van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475c), in afwijking van [artikel 4:116 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:116), niet bij de invordering van een bestuurlijke boete bij dwangbevel.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Na het overlijden van degene, aan wie ouderdomspensioen is toegekend, wordt met ingang van de dag na het overlijden, ouderdomspensioen in de vorm van een overlijdensuitkering uitbetaald:
 
@@ -428,7 +454,7 @@ Vervallen
 
 6. De overlijdensuitkering is niet vatbaar voor beslag.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De Sociale verzekeringsbank betaalt het ouderdomspensioen waarop op grond van deze wet recht bestaat. De betaling geschiedt als regel maandelijks.
 
@@ -448,13 +474,13 @@ Vervallen
 
 6. De Sociale verzekeringsbank stelt de betrokken persoon of instelling onverwijld schriftelijk in kennis van de beslissing, bedoeld in het vijfde lid.
 
-#### Artikel 19a
+##### Artikel 19a
 
 1. De Sociale verzekeringsbank schort de betaling van het ouderdomspensioen op indien degene aan wie een ouderdomspensioen is toegekend een vreemdeling is die niet rechtmatig in Nederland verblijf houdt als bedoeld in [artikel 8 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8).
 
 2. De betaling van het ouderdomspensioen wordt hervat indien betrokkene daartoe een aanvraag indient en het de Sociale verzekeringsbank is gebleken dat hij feitelijk buiten Nederland woont of verblijf houdt.
 
-#### Artikel 19b
+##### Artikel 19b
 
 1. De Sociale verzekeringsbank schort de betaling van de uitkering op, indien blijkt dat het door de pensioengerechtigde verstrekte adres van hemzelf of van zijn echtgenoot afwijkt van het adres waaronder de pensioengerechtigde of zijn echtgenoot in de basisregistratie personen staat ingeschreven.
 
@@ -468,7 +494,7 @@ Vervallen
 
 4. De opschorting wordt beëindigd zodra het aan de Sociale verzekeringsbank gebleken is dat de afwijking niet meer bestaat.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Indien degene aan wie een ouderdomspensioen is toegekend, aanspraak heeft op verstrekking of vergoeding van zorg als bedoeld in de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) en op grond van die wet een bijdrage voor die zorg verschuldigd is, is de Sociale verzekeringsbank bevoegd het ouderdomspensioen tot het bedrag van die bijdrage in plaats van aan degene, aan wie ouderdomspensioen is toegekend, zonder diens machtiging uit te betalen aan het Zorginstituut Nederland, genoemd in [artikel 58, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58).
 
@@ -480,19 +506,19 @@ Vervallen
 
 5. Een herziening van het ouderdomspensioen op grond van het eerste of tweede lid als gevolg van een wijziging van de verschuldigde bijdrage vindt plaats zonder dat dit bij beschikking wordt vastgesteld.
 
-#### Artikel 21
+##### Artikel 21
 
 Voor zover bij of krachtens deze wet niet anders is bepaald, wordt een voorschot op het nog niet vastgestelde ouderdomspensioen beschouwd als ouderdomspensioen op grond van deze wet.
 
-#### Artikel 22
+##### Artikel 22
 
 Vervallen
 
-#### Artikel 23
+##### Artikel 23
 
 De termijnen van het ouderdomspensioen, welke niet zijn ingevorderd binnen twee jaren na de eerste dag, waarop zij konden worden ingevorderd, worden niet meer uitbetaald.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Het ouderdomspensioen dat als gevolg van een besluit als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=2&artikel=17&z=2025-01-01&g=2025-01-01) onverschuldigd is betaald, alsmede hetgeen anderszins onverschuldigd is betaald, wordt door de Sociale verzekeringsbank teruggevorderd van de pensioengerechtigde of zijn wettelijke vertegenwoordiger, dan wel van de erfgenaam van de pensioengerechtigde voor zover het onverschuldigd betaalde in het vermogen van die erfgenaam is gevallen.
 
@@ -520,17 +546,17 @@ De termijnen van het ouderdomspensioen, welke niet zijn ingevorderd binnen twee 
 
 7. In afwijking van het eerste lid kan de Sociale verzekeringsbank, onder voorwaarden die Onze Minister kan stellen, besluiten van terugvordering af te zien indien het terug te vorderen bedrag een door Onze Minister vast te stellen bedrag niet te boven gaat.
 
-#### Artikel 24a
+##### Artikel 24a
 
 1. De Sociale verzekeringsbank kan hetgeen is teruggevorderd op grond van [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=2&artikel=24&z=2025-01-01&g=2025-01-01), invorderen bij dwangbevel.
 
 2. [Artikel 17i](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=2&artikel=17i&z=2025-01-01&g=2025-01-01) is van overeenkomstige toepassing, met dien verstande dat indien het gemiddeld inkomen van de pensioengerechtigde of zijn wettelijke vertegenwoordiger gedurende drie jaar de beslagvrije voet bedoeld in de [artikelen 475c tot en met 475e van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475c) niet te boven is gegaan, de Sociale verzekeringsbank de aflossingsbedragen lager vaststelt.
 
-#### Artikel 24b
+##### Artikel 24b
 
 Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wijze van tenuitvoerlegging van de beschikking waarbij is vastgesteld dat onverschuldigd is betaald.
 
-#### Artikel 25
+##### Artikel 25
 
 1. In afwijking van [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=2&artikel=24&z=2025-01-01&g=2025-01-01), kan de Sociale verzekeringsbank, op verzoek van de pensioengerechtigde, of zijn wettelijke vertegenwoordiger, besluiten gedeeltelijk van terugvordering of gedeeltelijk van verdere terugvordering af te zien door medewerking aan een schuldregeling, indien:
 
@@ -556,7 +582,7 @@ Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wi
 
 4. Bij ministeriële regeling kunnen met betrekking tot dit artikel nadere regels worden gesteld ten aanzien van de bevoegdheid om mee te werken aan schuldregelingen.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Het ouderdomspensioen is:
 
@@ -568,17 +594,17 @@ Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wi
 
 3. Elk beding, strijdig met enige bepaling van dit artikel, is nietig.
 
-#### Artikel 27
+##### Artikel 27
 
 Vervallen
 
 #### § 3. Vakantie-uitkering
 
-#### Artikel 28
+##### Artikel 28
 
 Degene, die over een maand recht heeft op ouderdomspensioen, heeft over die maand tevens recht op vakantie-uitkering.
 
-#### Artikel 29
+##### Artikel 29
 
 1. De bruto-vakantie-uitkering wordt zodanig vastgesteld, dat:
 
@@ -596,15 +622,15 @@ Degene, die over een maand recht heeft op ouderdomspensioen, heeft over die maan
 
 4. In de gevallen, dat op het ouderdomspensioen, vastgesteld op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=9&z=2025-01-01&g=2025-01-01), met toepassing van [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=13&z=2025-01-01&g=2025-01-01), een korting wordt toegepast, wordt op de, op grond van het eerste en derde lid, vastgestelde bruto-vakantie-uitkering, een evenredige korting toegepast.
 
-#### Artikel 29a
+##### Artikel 29a
 
 Vervallen
 
-#### Artikel 30
+##### Artikel 30
 
 Vervallen
 
-#### Artikel 31
+##### Artikel 31
 
 1. Eenmaal per jaar vindt ambtshalve uitbetaling van de vakantie-uitkering plaats.
 
@@ -612,15 +638,15 @@ Vervallen
 
 3. De vakantie-uitkering wordt betaald zonder dat dit bij beschikking is vastgesteld.
 
-#### Artikel 16a
+##### Artikel 16a
 
 Vervallen
 
-#### Artikel 33
+##### Artikel 33
 
 Bij ministeriële regeling kunnen met betrekking tot deze paragraaf nadere regels worden gesteld. Daarbij kan worden afgeweken van het bepaalde in [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=3&artikel=31&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 33a
+##### Artikel 33a
 
 1. Recht op een inkomensondersteuning heeft degene, die:
 
@@ -654,11 +680,11 @@ Bij ministeriële regeling kunnen met betrekking tot deze paragraaf nadere regel
 
 ### Hoofdstuk IV. De vrijwillige verzekering
 
-#### Artikel 34
+##### Artikel 34
 
 In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder gewezen verzekerde: degene, wiens verplichte verzekering is geëindigd.
 
-#### Artikel 35
+##### Artikel 35
 
 1. De gewezen verzekerde die de aanvangsleeftijd heeft bereikt kan zich, zolang hij de pensioengerechtigde leeftijd nog niet heeft bereikt, vrijwillig verzekeren over een periode van maximaal tien jaar, met ingang van de dag na de dag waarop de verplichte verzekering is geëindigd. De eerste zin is alleen van toepassing indien de gewezen verzekerde direct voorafgaande aan de periode van vrijwillige verzekering ten minste een jaar verplicht verzekerd is geweest.
 
@@ -698,13 +724,13 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder gewezen
 
 5. Bij of krachtens algemene maatregel van bestuur kunnen ten aanzien van dit artikel nadere regels worden gesteld.
 
-#### Artikel 36
+##### Artikel 36
 
 1. De gewezen verzekerde die van de vrijwillige verzekering, bedoeld in [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=IV&artikel=35&z=2025-01-01&g=2025-01-01), gebruik wil maken, is verplicht uiterlijk een jaar na de dag, waarop de verplichte verzekering is geëindigd, een aanvraag daartoe in te dienen bij de Sociale verzekeringsbank.
 
 2. De aanvraag wordt afgewezen indien de gewezen verzekerde niet voldoet aan de bij of krachtens dit hoofdstuk gestelde voorwaarden.
 
-#### Artikel 37
+##### Artikel 37
 
 De vrijwillige verzekering, bedoeld in [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=IV&artikel=35&z=2025-01-01&g=2025-01-01), eindigt:
 
@@ -720,7 +746,7 @@ De vrijwillige verzekering, bedoeld in [artikel 35, eerste lid](https://wetten.o
 
 - f. met ingang van de dag volgend op de laatste dag van een door de Sociale verzekeringsbank gestelde termijn waarbinnen de gewezen verzekerde de van hem, in verband met de toepassing van dit hoofdstuk, verlangde inlichtingen dient te verstrekken, indien de gewezen verzekerde die gegevens niet heeft verstrekt, tenzij de gewezen verzekerde aannemelijk maakt dat dat hem niet in overwegende mate kan worden verweten.
 
-#### Artikel 38
+##### Artikel 38
 
 1. De verzekerde, die voorafgaand aan de verplichte verzekering niet eerder verplicht verzekerd is geweest, kan zich, zolang hij de pensioengerechtigde leeftijd nog niet heeft bereikt, vrijwillig verzekeren vanaf de aanvangsleeftijd, over de achterliggende periode, waarin hij niet verplicht verzekerd is geweest, indien hij ten minste vijf jaar verplicht verzekerd is geweest ingevolge de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=II&artikel=6&z=2025-01-01&g=2025-01-01) of [6a](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=II&artikel=6a&z=2025-01-01&g=2025-01-01), en voor zover hij in die achterliggende periode niet onderworpen is geweest aan een buitenlandse wettelijk verplichte ouderdomsverzekering, die bij het bereiken van de daarin aangegeven leeftijd recht geeft op ouderdomspensioen.
 
@@ -728,47 +754,47 @@ De vrijwillige verzekering, bedoeld in [artikel 35, eerste lid](https://wetten.o
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen ten aanzien van het eerste lid nadere regels worden gesteld.
 
-#### Artikel 39
+##### Artikel 39
 
 1. De verzekerde die van de vrijwillige verzekering, bedoeld in [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=IV&artikel=38&z=2025-01-01&g=2025-01-01), gebruik wil maken, is verplicht uiterlijk tien jaar na de dag, waarop de verplichte verzekering is ontstaan, een aanvraag daartoe in te dienen bij de Sociale verzekeringsbank.
 
 2. De [artikelen 36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=IV&artikel=36&z=2025-01-01&g=2025-01-01), en [37, onderdelen e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=IV&artikel=37&z=2025-01-01&g=2025-01-01), zijn van overeenkomstige toepassing.
 
-#### Artikel 40
+##### Artikel 40
 
 Vervallen
 
-#### Artikel 41
+##### Artikel 41
 
 Vervallen
 
-#### Artikel 42
+##### Artikel 42
 
 Vervallen
 
-#### Artikel 43
+##### Artikel 43
 
 Vervallen
 
-#### Artikel 44
+##### Artikel 44
 
 Vervallen
 
-#### Artikel 45
+##### Artikel 45
 
 Vervallen
 
-#### Artikel 46
+##### Artikel 46
 
 Vervallen
 
 ### Hoofdstuk IVA. Vrijwillige verzekering voor in de Europese Unie wonende postactieven
 
-#### Artikel 47
+##### Artikel 47
 
 Vervallen
 
-#### Artikel 48
+##### Artikel 48
 
 1. Degene, van wie ingevolge [artikel 65, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=65) belasting is geheven of in door Onze Minister en Onze Minister van Financiën bij ministeriële regeling aan te wijzen gevallen geacht wordt te zijn geheven, heeft recht op een uitkering, indien en zolang hij recht heeft op ouderdomspensioen krachtens deze wet en hij wegens gemoedsbezwaren geen aanspraak maakt op dit ouderdomspensioen.
 
@@ -790,17 +816,17 @@ Vervallen
 
 ### Hoofdstuk IVA. Vrijwillige verzekering voor in de Europese Unie wonende postactieven
 
-#### Artikel 49
+##### Artikel 49
 
 De pensioengerechtigde, zijn echtgenoot, alsmede zijn wettelijke vertegenwoordiger of de instelling waaraan ingevolge [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=2&artikel=20&z=2025-01-01&g=2025-01-01) ouderdomspensioen wordt uitbetaald, zijn verplicht aan de Sociale verzekeringsbank op haar verzoek of onverwijld uit eigen beweging alle feiten en omstandigheden mee te delen, waarvan hun redelijkerwijs duidelijk moet zijn dat zij van invloed kunnen zijn op het recht op uitkering, de hoogte van de uitkering of op het bedrag van de uitkering, dat wordt betaald. De verplichting geldt niet indien die feiten en omstandigheden door de Sociale verzekeringsbank kunnen worden vastgesteld op grond van bij wettelijk voorschrift als authentiek aangemerkte gegevens of kunnen worden verkregen uit bij ministeriële regeling aan te wijzen administraties. Bij ministeriële regeling wordt bepaald voor welke gegevens de tweede zin van toepassing is.
 
-#### Artikel 50
+##### Artikel 50
 
 Vervallen
 
 ### Hoofdstuk V. Gemoedsbezwaren
 
-#### Artikel 51
+##### Artikel 51
 
 1. Een beschikking op grond van deze wet en de daarop berustende bepalingen wordt gegeven binnen een redelijke termijn na ontvangst van de aanvraag.
 
@@ -808,17 +834,17 @@ Vervallen
 
 3. Indien een beschikking niet binnen de termijn van acht weken kan worden gegeven, wordt die termijn met een redelijke termijn verlengd en wordt de aanvrager daarvan schriftelijk in kennis gesteld.
 
-#### Artikel 52
+##### Artikel 52
 
 In afwijking van [artikel 7:10, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:10) beslist de Sociale verzekeringsbank binnen dertien weken gerekend vanaf de dag na die waarop de termijn voor het indienen van het bezwaarschrift is verstreken.
 
-#### Artikel 53
+##### Artikel 53
 
 1. Tegen uitspraken van de Centrale Raad van Beroep kan ieder der partijen beroep in cassatie instellen ter zake van schending of verkeerde toepassing van de [artikelen 1, derde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=I&artikel=1&z=2025-01-01&g=2025-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=I&artikel=2&z=2025-01-01&g=2025-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=I&artikel=3&z=2025-01-01&g=2025-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=II&artikel=6&z=2025-01-01&g=2025-01-01) en de op die artikelen berustende bepalingen.
 
 2. Op dit beroep zijn de voorschriften betreffende het beroep in cassatie tegen uitspraken van de gerechtshoven inzake beroepen in belastingzaken van overeenkomstige toepassing, waarbij de Centrale Raad van Beroep de plaats inneemt van een gerechtshof.
 
-#### Artikel 54
+##### Artikel 54
 
 Vervallen
 
@@ -826,41 +852,41 @@ Vervallen
 
 #### § 1. Het ouderdomspensioen van personen die vóór het in werking treden van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=II&artikel=6&z=2002-07-01&g=2002-07-01) de leeftijd van 15, doch nog niet die van 65 jaar hebben bereikt
 
-#### Artikel 55
+##### Artikel 55
 
 1. Degene, die vóór het in werking treden van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=II&artikel=6&z=2025-01-01&g=2025-01-01) de leeftijd van 15, doch nog niet die van 65 jaar heeft bereikt, en die - al dan niet onafgebroken - gedurende zes jaren na de voleindiging van zijn 59ste levensjaar in Nederland, Aruba, Curaçao, Sint Maarten of in de openbare lichamen Bonaire, Sint Eustatius en Saba heeft gewoond, wordt voor de toepassing van het bepaalde in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=13&z=2025-01-01&g=2025-01-01), gedurende het tijdvak, gelegen tussen de voleindiging van zijn 15de levensjaar en het in werking treden van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=II&artikel=6&z=2025-01-01&g=2025-01-01), geacht verzekerd te zijn geweest. Voor de toepassing van het bepaalde in de vorige volzin wordt, uitsluitend voor de vaststelling van de toeslag, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=8&z=2025-01-01&g=2025-01-01) met toepassing van het bepaalde in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=13&z=2025-01-01&g=2025-01-01), de jongere echtgenoot van de pensioengerechtigde geacht het 59ste levensjaar te hebben voleindigd op dezelfde dag als de pensioengerechtigde.
 
 2. Degene, die voldoet aan het bepaalde in de eerste volzin van het eerste lid, doch nimmer ingevolge deze wet verzekerd is geweest, wordt nochtans voor de toepassing van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=7&z=2025-01-01&g=2025-01-01) geacht verzekerd te zijn geweest.
 
-#### Artikel 56
+##### Artikel 56
 
 De voordelen uit [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=VIII&paragraaf=1&artikel=55&z=2025-01-01&g=2025-01-01) voortvloeiende komen enkel toe aan degene die in Nederland woont.
 
-#### Artikel 57
+##### Artikel 57
 
 Bij algemene maatregel van bestuur kan onder daarbij te stellen voorwaarden worden bepaald, dat voor de toepassing van de [artikelen 55](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=VIII&paragraaf=1&artikel=55&z=2025-01-01&g=2025-01-01) en [56](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=VIII&paragraaf=1&artikel=56&z=2025-01-01&g=2025-01-01) het wonen buiten Nederland wordt gelijkgesteld met het wonen in Nederland.
 
 #### § 2. Het ouderdomspensioen van personen die vóór of op de dag van het in werking treden van artikel 7 de leeftijd van 65 jaar hebben bereikt
 
-#### Artikel 58
+##### Artikel 58
 
 Vervallen
 
-#### Artikel 59
+##### Artikel 59
 
 Vervallen
 
-#### Artikel 60
+##### Artikel 60
 
 Vervallen
 
-#### Artikel 61
+##### Artikel 61
 
 Vervallen
 
 ### Hoofdstuk VIII. Overgangsbepalingen
 
-#### Artikel 62
+##### Artikel 62
 
 1. De [artikelen 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=8a&z=2025-01-01&g=2025-01-01) en [9a](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=9a&z=2025-01-01&g=2025-01-01) zijn niet van toepassing op de pensioengerechtigde, die:
 
@@ -870,63 +896,63 @@ Vervallen
 
 2. Het eerste lid blijft van toepassing zolang de pensioengerechtigde blijft wonen in hetzelfde land als het land waar hij op 19 december 2005 woonde en blijft voldoen aan de voorwaarden voor het recht op ouderdomspensioen.
 
-#### Artikel 63
+##### Artikel 63
 
 Vervallen
 
-#### Artikel 64
+##### Artikel 64
 
 Ten aanzien van de persoon wiens vrijheid op de dag voorafgaande aan de inwerkingtreding van [artikel 8b](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=8b&z=2025-01-01&g=2025-01-01) reeds rechtens was ontnomen wordt voor de toepassing van [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=8b&z=2025-01-01&g=2025-01-01) als eerste dag waarop de vrijheidsontneming plaatsvindt, aangemerkt de dag van inwerkingtreding van [artikel 8b](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=8b&z=2025-01-01&g=2025-01-01) en eindigt het recht op ouderdomspensioen in afwijking van [artikel 8b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=8b&z=2025-01-01&g=2025-01-01), vanaf de dag dat deze vrijheidsontneming zes maanden heeft geduurd. De beëindiging gaat in op de eerste dag van de maand volgend op de maand waarin de vrijheidsontneming als bedoeld in de eerste zin zes maanden heeft geduurd.
 
-#### Artikel 65
+##### Artikel 65
 
 Een gedraging die in strijd is met een krachtens deze wet uitgevaardigde algemene maatregel van bestuur, voor zover uitdrukkelijk als strafbaar feit in de zin van dit artikel aangeduid, wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de tweede categorie. Het feit wordt beschouwd als een overtreding. Het in de eerste zin bedoelde feit wordt beschouwd als een overtreding.
 
-#### Artikel 66
+##### Artikel 66
 
 Vervallen
 
-#### Artikel 67
+##### Artikel 67
 
 Vervallen
 
-#### Artikel 68
+##### Artikel 68
 
 Vervallen
 
-#### Artikel 69
+##### Artikel 69
 
 Vervallen
 
 ### Hoofdstuk IX. Strafbepalingen
 
-#### Artikel 70
+##### Artikel 70
 
 Hetgeen nog ter uitvoering van deze wet nodig is, wordt geregeld bij ministeriële regeling.
 
-#### Artikel 71
+##### Artikel 71
 
 1. Indien in een pensioenregeling van een pensioenfonds of van een werkgever bepalingen zijn of worden opgenomen krachtens welke op enigerlei wijze geheel of gedeeltelijk met het ouderdomspensioen ingevolge deze wet rekening wordt gehouden, dient bij de toepassing van deze bepalingen in acht te worden genomen, dat een verhoging van het ouderdomspensioen, welke plaatsvindt na de datum van beëindiging van de actieve deelneming aan de pensioenregeling, buiten beschouwing blijft.
 
 2. Het eerste lid is niet van toepassing op pensioenregelingen waarin bepalingen zijn opgenomen volgens welke het ouderdomspensioen ingevolge deze wet en de premievrije aanspraken of het pensioen van die regeling tezamen na beëindiging van de actieve deelneming jaarlijks ten minste worden verhoogd met het percentage van de in het eerste lid bedoelde verhoging van het ouderdomspensioen of het percentage van de loon- of prijsontwikkeling.
 
-#### Artikel 72
+##### Artikel 72
 
 Vervallen
 
-#### Artikel 72a
+##### Artikel 72a
 
 Vervallen
 
-#### Artikel 73
+##### Artikel 73
 
 Vervallen
 
-#### Artikel 74
+##### Artikel 74
 
 Vervallen
 
-#### Artikel 75
+##### Artikel 75
 
 1. Deze wet kan worden aangehaald onder de titel "Algemene Ouderdomswet".
 
@@ -934,7 +960,7 @@ Vervallen
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 13a
+##### Artikel 13a
 
 1. [Artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=13&z=2025-01-01&g=2025-01-01), is niet van toepassing op de vrouwelijke pensioengerechtigde voor elk kalenderjaar dat zij in de periode van 1 januari 1957 tot 1 april 1985 niet verzekerd was, doordat zij in Nederland woonde en gehuwd dan wel gehuwd geweest was met een persoon, die in die periode niet verzekerd was.
 
@@ -942,7 +968,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 #### § 2. Toekenning, ingang, intrekking, herziening en betaling van het ouderdomspensioen
 
-#### Artikel 27
+##### Artikel 27
 
 Vervallen
 
@@ -954,7 +980,7 @@ Vervallen
 
 ### Hoofdstuk V. Gemoedsbezwaren
 
-#### Artikel 50
+##### Artikel 50
 
 Vervallen
 
@@ -968,7 +994,7 @@ Vervallen
 
 ### Hoofdstuk VIII. Overgangsbepalingen
 
-#### Artikel 68
+##### Artikel 68
 
 Het recht tot strafvordering vervalt indien de Sociale verzekeringsbank aan de pensioengerechtigde, zijn echtgenoot, of zijn wettelijke vertegenwoordiger ter zake van hetzelfde feit reeds een boete heeft opgelegd.
 
@@ -978,13 +1004,13 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ### Hoofdstuk IX. Strafbepalingen
 
-#### Artikel 68
+##### Artikel 68
 
 Het recht tot strafvordering vervalt indien de Sociale verzekeringsbank aan de pensioengerechtigde, zijn echtgenoot, of zijn wettelijke vertegenwoordiger ter zake van hetzelfde feit reeds een boete heeft opgelegd.
 
 #### § 1. Het ouderdomspensioen van personen die vóór het in werking treden van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=II&artikel=6&z=2024-01-01&g=2024-01-01) de leeftijd van 15, doch nog niet die van 65 jaar hebben bereikt
 
-#### Artikel 62*
+##### Artikel 62*
 
 De [artikelen 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=8a&z=2006-12-23&g=2005-12-20) en [9a](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=9a&z=2006-12-23&g=2005-12-20) zijn niet van toepassing op de pensioengerechtigde, die:
 
@@ -994,7 +1020,7 @@ De [artikelen 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&
 
 ### Hoofdstuk IX. Strafbepalingen
 
-#### Artikel 68
+##### Artikel 68
 
 Het recht tot strafvordering vervalt indien de Sociale verzekeringsbank aan de pensioengerechtigde, zijn echtgenoot, of zijn wettelijke vertegenwoordiger ter zake van hetzelfde feit reeds een boete heeft opgelegd.
 
@@ -1010,13 +1036,13 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ### Hoofdstuk V. Gemoedsbezwaren
 
-#### Artikel 50
+##### Artikel 50
 
 Vervallen
 
 ### Hoofdstuk V. Gemoedsbezwaren
 
-#### Artikel 51a
+##### Artikel 51a
 
 Vervallen
 
@@ -1026,13 +1052,13 @@ Vervallen
 
 #### § 1. Het ouderdomspensioen van personen die vóór het in werking treden van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=II&artikel=6&z=2010-10-10&g=2010-10-10) de leeftijd van 15, doch nog niet die van 65 jaar hebben bereikt
 
-#### Artikel 69
+##### Artikel 69
 
 Vervallen
 
 #### § 2. Het ouderdomspensioen van personen die vóór of op de dag van het in werking treden van artikel 7 de leeftijd van 65 jaar hebben bereikt
 
-#### Artikel 62*
+##### Artikel 62*
 
 De [artikelen 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=8a&z=2006-12-23&g=2005-12-29) en [9a](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=9a&z=2006-12-23&g=2005-12-29) zijn niet van toepassing op de pensioengerechtigde, die:
 
@@ -1042,7 +1068,7 @@ De [artikelen 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&
 
 ### Hoofdstuk IX. Strafbepalingen
 
-#### Artikel 69
+##### Artikel 69
 
 Vervallen
 
@@ -1050,7 +1076,7 @@ Vervallen
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 33b
+##### Artikel 33b
 
 Vervallen
 
@@ -1058,11 +1084,11 @@ Vervallen
 
 ### Hoofdstuk IVA. Vrijwillige verzekering voor in de Europese Unie wonende postactieven
 
-#### Artikel 40
+##### Artikel 40
 
 De [artikelen 34 tot en met 39](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=IV&artikel=34&z=2025-01-01&g=2025-01-01) zijn van overeenkomstige toepassing op de gewezen verzekerde die op 31 december 2005 vrijwillig verzekerd was op grond van een algemene maatregel van bestuur die gebaseerd was op artikel 40, zoals dat luidde op de dag voor inwerkingtreding van de Wet tot wijziging van een aantal wetten op het terrein van het Ministerie van Sociale Zaken en Werkgelegenheid teneinde deze in overeenstemming te brengen met de motie van het lid Jurgens c.s.
 
-#### Artikel 50
+##### Artikel 50
 
 Vervallen
 
@@ -1074,7 +1100,7 @@ Vervallen
 
 #### § 2. Het ouderdomspensioen van personen die vóór of op de dag van het in werking treden van artikel 7 de leeftijd van 65 jaar hebben bereikt
 
-#### Artikel 62*
+##### Artikel 62*
 
 De [artikelen 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=8a&z=2006-12-23&g=2006-03-08) en [9a](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=9a&z=2006-12-23&g=2006-03-08) zijn niet van toepassing op de pensioengerechtigde, die:
 
@@ -1098,7 +1124,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 #### § 3. Overige overgangsbepalingen
 
-#### Artikel 62
+##### Artikel 62
 
 1. De besluiten tot herziening van het ouderdomspensioen, genomen met toepassing van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=2&artikel=17&z=2006-12-23&g=2006-12-23) zoals [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=2&artikel=17&z=2006-12-23&g=2006-12-23) luidde op de dag voorafgaand aan de datum van inwerkingtreding van de wet van 2 november 2006 tot wijziging van de Algemene Ouderdomswet in verband met samenwonen ten behoeve van zorg voor een hulpbehoevende (Stb. 558), worden op aanvraag door de Sociale verzekeringsbank met toepassing van [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=2&artikel=17&z=2006-12-23&g=2006-12-23), gewijzigd met ingang van 4 april 2006 of indien de herziening op een later tijdstip heeft plaatsgevonden met ingang van dat tijdstip indien:
 
@@ -1112,11 +1138,11 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 25a
+##### Artikel 25a
 
 Een vordering van de Sociale verzekeringsbank als bedoeld in de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=2&artikel=24&z=2025-01-01&g=2025-01-01) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=2&artikel=25&z=2025-01-01&g=2025-01-01) is bevoorrecht en volgt onmiddellijk na de vorderingen, bedoeld in [artikel 288 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=288).
 
-#### Artikel 27
+##### Artikel 27
 
 Vervallen
 
@@ -1128,7 +1154,7 @@ Vervallen
 
 ### Hoofdstuk IVA. Vrijwillige verzekering voor in de Europese Unie wonende postactieven
 
-#### Artikel 50
+##### Artikel 50
 
 Vervallen
 
@@ -1138,7 +1164,7 @@ Vervallen
 
 #### § 1. Het ouderdomspensioen van personen die vóór het in werking treden van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=II&artikel=6&z=2017-01-01&g=2017-01-01) de leeftijd van 15, doch nog niet die van 65 jaar hebben bereikt
 
-#### Artikel 8b
+##### Artikel 8b
 
 1. Geen recht op ouderdomspensioen ontstaat voor de pensioengerechtigde, aan wie rechtens zijn vrijheid is ontnomen indien de dag waarop het ouderdomspensioen zou ingaan dan wel de dag na afloop van de toepassing van [artikel 8c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=8c&z=2025-01-01&g=2025-01-01), met betrekking tot dat recht op ouderdomspensioen, is gelegen in de periode dat hem rechtens zijn vrijheid is ontnomen.
 
@@ -1156,7 +1182,7 @@ Vervallen
 
 #### § 3. Vakantie-uitkering
 
-#### Artikel 28
+##### Artikel 28
 
 Degene, die over een maand recht heeft op ouderdomspensioen, heeft over die maand tevens recht op vakantie-uitkering.
 
@@ -1168,7 +1194,7 @@ Degene, die over een maand recht heeft op ouderdomspensioen, heeft over die maan
 
 ### Hoofdstuk V. Gemoedsbezwaren
 
-#### Artikel 50
+##### Artikel 50
 
 Vervallen
 
@@ -1178,7 +1204,7 @@ Vervallen
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 63a
+##### Artikel 63a
 
 [Artikel 1, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=I&artikel=1&z=2025-01-01&g=2025-01-01), is niet van toepassing, indien voor de inwerkingtreding van deze artikelleden, op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=8&z=2025-01-01&g=2025-01-01) recht bestaat op toeslag, omdat de ongehuwde pensioengerechtigde wegens een gezamenlijke huishouding met een meerderjarig aangehuwd kind of een meerderjarig voormalig pleegkind is aangemerkt als gehuwd, voor zolang dit recht op toeslag bestaat, tenzij toepassing van de genoemde artikelleden leidt tot een hoger ouderdomspensioen.
 
@@ -1188,7 +1214,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 8c
+##### Artikel 8c
 
 1. Voor de pensioengerechtigde ontstaat geen recht op ouderdomspensioen indien en voor zolang hij zich op de dag waarop het ouderdomspensioen zou ingaan en daarna onttrekt aan de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel.
 
@@ -1196,7 +1222,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 3. De persoon die op grond van het eerste of tweede lid geen recht op ouderdomspensioen heeft, heeft met ingang van de dag dat hij zich niet langer onttrekt aan de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel met inachtneming van de bepalingen van deze wet recht op ouderdomspensioen.
 
-#### Artikel 12a
+##### Artikel 12a
 
 Bij algemene maatregel van bestuur wordt bepaald wat onder inkomen uit arbeid en overig inkomen als bedoeld in de [artikelen 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=8&z=2025-01-01&g=2025-01-01), [10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=10&z=2025-01-01&g=2025-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=11&z=2025-01-01&g=2025-01-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=12&z=2025-01-01&g=2025-01-01) wordt verstaan. Daarbij kan tevens worden bepaald dat nader te bepalen inkomen dat gedeeltelijk, niet, of niet langer wordt genoten als gevolg van gewijzigde omstandigheden of enig handelen of nalaten van betrokkene in aanmerking wordt genomen alsof het wel volledig wordt genoten.
 
@@ -1204,7 +1230,7 @@ Bij algemene maatregel van bestuur wordt bepaald wat onder inkomen uit arbeid en
 
 #### § 3. Vakantie-uitkering
 
-#### Artikel 30
+##### Artikel 30
 
 Vervallen
 
@@ -1212,7 +1238,7 @@ Vervallen
 
 ### Hoofdstuk IV. De vrijwillige verzekering
 
-#### Artikel 50
+##### Artikel 50
 
 Vervallen
 
@@ -1220,11 +1246,11 @@ Vervallen
 
 #### § 2. Overige overgangsbepalingen
 
-#### Artikel 64a
+##### Artikel 64a
 
 Vervallen
 
-#### Artikel 64a*
+##### Artikel 64a*
 
 1. De [artikelen 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=8&z=2012-04-01&g=2012-04-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=10&z=2012-04-01&g=2012-04-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=11&z=2012-04-01&g=2012-04-01) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=2&artikel=22&z=2012-04-01&g=2012-04-01) en de daarop berustende bepalingen, zoals deze luidden op de dag voor inwerkingtreding van de Wet harmonisatie en vereenvoudiging socialezekerheidswetgeving, blijven van toepassing op de persoon op wie een op deze artikelen berustende bepaling werd toegepast op de dag voor inwerkingtreding van die wet, voor zolang de toepassing duurt, doch ten hoogste gedurende twee jaar na de dag waarop die wet in werking is getreden.
 
@@ -1234,7 +1260,7 @@ Vervallen
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 62a
+##### Artikel 62a
 
 1. De [artikelen 8a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=8a&z=2025-01-01&g=2025-01-01), en [9a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=9a&z=2025-01-01&g=2025-01-01), zijn niet van toepassing op de pensioengerechtigde, op wie die artikelen als gevolg van de opzegging van een verdrag, de beëindiging van de voorlopige toepassing van een verdrag dan wel de beëindiging van een daarmee gelijk te stellen situatie van toepassing zouden worden, zolang de pensioengerechtigde blijft wonen in hetzelfde land of gebied als het land of gebied waar hij op de dag voor buitenwerkingtreding als gevolg van die opzegging respectievelijk op de dag voor de beëindiging woonde en blijft voldoen aan de voorwaarden voor het recht op ouderdomspensioen.
 
@@ -1242,7 +1268,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 #### § 2. Overige overgangsbepalingen
 
-#### Artikel 64a*
+##### Artikel 64a*
 
 1. De [artikelen 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=8&z=2015-01-01&g=2012-04-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=10&z=2015-01-01&g=2012-04-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=11&z=2015-01-01&g=2012-04-01) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=2&artikel=22&z=2015-01-01&g=2012-04-01) en de daarop berustende bepalingen, zoals deze luidden op de dag voor inwerkingtreding van de Wet harmonisatie en vereenvoudiging socialezekerheidswetgeving, blijven van toepassing op de persoon op wie een op deze artikelen berustende bepaling werd toegepast op de dag voor inwerkingtreding van die wet, voor zolang de toepassing duurt, doch ten hoogste gedurende twee jaar na de dag waarop die wet in werking is getreden.
 
@@ -1252,7 +1278,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 7a
+##### Artikel 7a
 
 1. De pensioengerechtigde leeftijd en de aanvangsleeftijd zijn:
 
@@ -1310,13 +1336,13 @@ De volgens de formule vastgestelde verdere verhoging van de pensioengerechtigde 
 
 #### § 2. Toekenning, ingang, intrekking, herziening en betaling van het ouderdomspensioen
 
-#### Artikel 17j
+##### Artikel 17j
 
 Vervallen
 
 #### § 3. Vakantie-uitkering
 
-#### Artikel 31
+##### Artikel 31
 
 1. Eenmaal per jaar vindt ambtshalve uitbetaling van de vakantie-uitkering plaats.
 
@@ -1330,13 +1356,13 @@ Vervallen
 
 ### Hoofdstuk VI. Informatieverplichtingen
 
-#### Artikel 50
+##### Artikel 50
 
 Vervallen
 
 #### § 3. Overige overgangsbepalingen
 
-#### Artikel 64a*
+##### Artikel 64a*
 
 1. De [artikelen 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=8&z=2012-12-28&g=2012-12-31), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=10&z=2012-12-28&g=2012-12-31), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=11&z=2012-12-28&g=2012-12-31) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=2&artikel=22&z=2012-12-28&g=2012-12-31) en de daarop berustende bepalingen, zoals deze luidden op de dag voor inwerkingtreding van de Wet harmonisatie en vereenvoudiging socialezekerheidswetgeving, blijven van toepassing op de persoon op wie een op deze artikelen berustende bepaling werd toegepast op de dag voor inwerkingtreding van die wet, voor zolang de toepassing duurt, doch ten hoogste gedurende twee jaar na de dag waarop die wet in werking is getreden.
 
@@ -1348,7 +1374,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 #### § 3. Overige overgangsbepalingen
 
-#### Artikel 64a*
+##### Artikel 64a*
 
 1. De [artikelen 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=8&z=2015-01-01&g=2012-12-31), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=10&z=2015-01-01&g=2012-12-31), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=11&z=2015-01-01&g=2012-12-31) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=2&artikel=22&z=2015-01-01&g=2012-12-31) en de daarop berustende bepalingen, zoals deze luidden op de dag voor inwerkingtreding van de Wet harmonisatie en vereenvoudiging socialezekerheidswetgeving, blijven van toepassing op de persoon op wie een op deze artikelen berustende bepaling werd toegepast op de dag voor inwerkingtreding van die wet, voor zolang de toepassing duurt, doch ten hoogste gedurende twee jaar na de dag waarop die wet in werking is getreden.
 
@@ -1360,7 +1386,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 50
+##### Artikel 50
 
 In aanvulling op [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=VI&artikel=49&z=2025-01-01&g=2025-01-01) kan de Sociale verzekeringsbank de pensioengerechtigde of zijn wettelijke vertegenwoordiger verzoeken aan te tonen dat:
 
@@ -1370,17 +1396,17 @@ In aanvulling op [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&ho
 
 Teneinde hem daartoe in de gelegenheid te stellen kan de Sociale verzekeringsbank bij die verzoeken aanbieden met de toestemming van de pensioengerechtigde dan wel zijn wettelijke vertegenwoordiger de woning van de pensioengerechtigde binnen te treden.
 
-#### Artikel 64b
+##### Artikel 64b
 
 1. Pensioengerechtigden die voor 1 januari 2015 zijn gehuwd en die in november of december 2014 de leeftijd van 65 jaar bereiken en van wie de echtgenoot jonger is dan de pensioengerechtigde leeftijd hebben, in afwijking van [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=8&z=2025-01-01&g=2025-01-01), overeenkomstig de bepalingen van deze wet recht op een toeslag, tenzij, met inachtneming van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=11&z=2025-01-01&g=2025-01-01), het inkomen uit arbeid of overig inkomen van die echtgenoot meer bedraagt dan de volledige bruto-toeslag.
 
 2. [Artikel 8, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=8&z=2025-01-01&g=2025-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 64c
+##### Artikel 64c
 
 [Artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=2&artikel=17&z=2025-01-01&g=2025-01-01), zoals dat luidde op de dag voorafgaand aan de dag van inwerkingtreding van artikel I, onderdeel B, van de Wet van 9 juli 2014 tot wijziging van de Algemene Ouderdomswet in verband met beëindiging van de voorschotregeling en vaststelling van een grondslag voor het stellen van regels ten aanzien van hetgeen wordt verstaan onder het hebben van het hoofdverblijf in dezelfde woning (Stb. 2014, 307) blijft van toepassing op pensioengerechtigden ten aanzien waarvan dat artikellid is toegepast tot het tijdstip waarop niet meer wordt voldaan aan de in dat artikellid gestelde voorwaarden.
 
-#### Artikel 64e
+##### Artikel 64e
 
 1. Op aanvragen om gebruik te maken van de vrijwillige verzekering, bedoeld in [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=IV&artikel=38&z=2025-01-01&g=2025-01-01), die zijn ingediend voor de datum van inwerkingtreding van de Wet van 26 november 2014 tot wijziging van de Algemene Ouderdomswet in verband met wijziging van de voorwaarden voor de vrijwillige verzekering over een achterliggende periode en wijziging van de Participatiewet in verband met wijziging van de berekening en de periodieke aanpassing van de bijstandsnormen voor pensioengerechtigden (Stb. 2014, 502) blijft artikel 38, eerste lid, van de Algemene Ouderdomswet, zoals dat luidde op de dag voorafgaand aan die datum van inwerkingtreding van toepassing.
 
@@ -1392,7 +1418,7 @@ Teneinde hem daartoe in de gelegenheid te stellen kan de Sociale verzekeringsban
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 64d
+##### Artikel 64d
 
 [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=1&artikel=7&z=2025-01-01&g=2025-01-01), zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van [artikel III, onderdeel A, van de Wet vereenvoudiging regelingen SVB](https://wetten.overheid.nl/jci1.3:c:BWBR0033114&artikel=III) blijft na de inwerkingtreding van dat artikelonderdeel van toepassing op personen die op die dag op grond van artikel 7 recht hebben op ouderdomspensioen.
 
@@ -1408,7 +1434,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ### Hoofdstuk VII. Bepalingen in verband met de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) en het beroep in cassatie
 
-#### Artikel 8d
+##### Artikel 8d
 
 1. Voor de pensioengerechtigde ontstaat geen recht op ouderdomspensioen indien en voor zolang hij een uitreiziger is.
 
@@ -1424,7 +1450,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 #### § 3. Vakantie-uitkering
 
-#### Artikel 32
+##### Artikel 32
 
 Het bepaalde bij of krachtens de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=2&artikel=18&z=2025-01-01&g=2025-01-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=2&artikel=19&z=2025-01-01&g=2025-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=2&artikel=20&z=2025-01-01&g=2025-01-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=2&artikel=23&z=2025-01-01&g=2025-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=2&artikel=24&z=2025-01-01&g=2025-01-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=III&paragraaf=2&artikel=26&z=2025-01-01&g=2025-01-01) en [49](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&hoofdstuk=VI&artikel=49&z=2025-01-01&g=2025-01-01) vindt overeenkomstige toepassing ten aanzien van de vakantie-uitkering, voor zover bij of krachtens deze paragraaf niet anders is bepaald.
 

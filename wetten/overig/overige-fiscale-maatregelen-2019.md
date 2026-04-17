@@ -1,94 +1,122 @@
 ---
-title: "Overige fiscale maatregelen 2019"
+title: "Wet van 19 december 2018 tot wijziging van enkele belastingwetten en enige andere wetten (Overige fiscale maatregelen 2019)"
 identifier: "BWBR0041761"
-categorie: "Overig"
-publicatiedatum: 2019-01-01
-laatste_update: 2019-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041761"
+country: "nl"
+rank: "wet"
+publication_date: "2019-01-01"
+last_updated: "2019-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041761"
+soort: "wet"
+stam_id: "14929483"
+version_id: "25557742"
+internal_id: "C36483351"
+label_id: "14880584"
+dtd_version: "2.0"
+original_entry_into_force: "2019-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041761/2019-01-01/0"
+intitule_bron: "Stb.2018-507"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-12-19"
+intitule_published: "2018-12-28"
+intitule_in_force: "2018-12-28"
+intitule_status: "goed"
+original_publication: "Stb.2018-507"
+original_signed_date: "2018-12-19"
+original_published_date: "2018-12-28"
+original_effect: "nieuwe-regeling"
+original_dossier: "35027"
+original_url_id: "stb-2018-507"
+entry_into_force_date: "2019-01-01"
+entry_into_force_dossier: "35027"
+jci_1_3: "jci1.3:c:BWBR0041761&z=2019-01-01&g=2019-01-01"
+jci_1_0: "1.0:c:BWBR0041761&g=2019-01-01"
+citeertitel_status: "officieel"
+short_title: "Overige fiscale maatregelen 2019"
+signed_date: "2018-12-19"
+entry_into_force: "2019-01-01"
 ---
+# Wet van 19 december 2018 tot wijziging van enkele belastingwetten en enige andere wetten (Overige fiscale maatregelen 2019)
 
-# Overige fiscale maatregelen 2019
-
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Algemene wet inkomensafhankelijke regelingen.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Natuurschoonwet 1928.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Registratiewet 1970.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Algemene douanewet.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijizgt de Wet op de motorrijtuigenbelasting 1994.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Wet belasting zware motorrijtuigen.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt de Algemene wet inzake rijksbelastingen.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt de Invorderingswet 1990.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt de Wet wederzijdse bijstand in de Europese Unie bij de invordering van belastingschulden en enkele andere schuldvorderingen 2012.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt de Conjunctuurwet.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt de Wet aanpak fraude toeslagen en fiscaliteit.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt het Belastingplan 2018.
 
-#### Artikel XVIa
+##### Artikel XVIa
 
 Wijzigt het Belastingplan 2018.
 
-#### Artikel XVII
+##### Artikel XVII
 
 1. [Artikel XII, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0041761&artikel=XII&z=2019-01-01&g=2019-01-01), is uitsluitend van toepassing op onverplichte handelingen die zijn verricht op of na 18 september 2018, 15.15 uur.
 
 2. [Artikel XII, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0041761&artikel=XII&z=2019-01-01&g=2019-01-01), is uitsluitend van toepassing op schenkingen die tot stand zijn gekomen op of na 18 september 2018, 15.15 uur.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Wijzigt deze wet.
 
-#### Artikel XIX
+##### Artikel XIX
 
 Deze wet treedt in werking met ingang van 1 januari 2019, met dien verstande dat:
 
@@ -96,7 +124,7 @@ Deze wet treedt in werking met ingang van 1 januari 2019, met dien verstande dat
 
 - b. [artikel XII, onderdelen C, D, E en F](https://wetten.overheid.nl/jci1.3:c:BWBR0041761&artikel=XII&z=2019-01-01&g=2019-01-01), terugwerkt tot en met 18 september 2018, 15.15 uur.
 
-#### Artikel XX
+##### Artikel XX
 
 Deze wet wordt aangehaald als: Overige fiscale maatregelen 2019.
 

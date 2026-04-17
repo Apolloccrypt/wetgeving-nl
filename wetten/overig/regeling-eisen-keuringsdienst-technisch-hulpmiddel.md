@@ -1,20 +1,46 @@
 ---
-title: "Regeling eisen keuringsdienst technisch hulpmiddel"
+title: "Regeling van de Minister van Justitie en Veiligheid van 15 februari 2019, nr. 2433978, houdende regels voor de aanwijzing van een keuringsdienst voor het keuren van technische hulpmiddelen waarmee onderzoekshandelingen worden verricht in een geautomatiseerd werk"
 identifier: "BWBR0041952"
-categorie: "Overig"
-publicatiedatum: 2019-03-01
-laatste_update: 2019-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041952"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2019-03-01"
+last_updated: "2019-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041952"
+soort: "ministeriele-regeling"
+stam_id: "15012143"
+version_id: "25715492"
+internal_id: "C36680331"
+label_id: "14962124"
+dtd_version: "2.0"
+original_entry_into_force: "2019-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041952/2019-03-01/0"
+intitule_bron: "Stcrt.2019-10713"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-02-15"
+intitule_published: "2019-02-27"
+intitule_in_force: "2019-02-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-10713"
+original_signed_date: "2019-02-15"
+original_published_date: "2019-02-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-10713"
+entry_into_force_date: "2019-03-01"
+jci_1_3: "jci1.3:c:BWBR0041952&z=2019-03-01&g=2019-03-01"
+jci_1_0: "1.0:c:BWBR0041952&g=2019-03-01"
+citeertitel_status: "officieel"
+short_title: "Regeling eisen keuringsdienst technisch hulpmiddel"
+signed_date: "2019-02-15"
+entry_into_force: "2019-03-01"
 ---
-
 # Regeling van de Minister van Justitie en Veiligheid van 15 februari 2019, nr. 2433978, houdende regels voor de aanwijzing van een keuringsdienst voor het keuren van technische hulpmiddelen waarmee onderzoekshandelingen worden verricht in een geautomatiseerd werk
 
 Gelet op [artikel 16, vierde lid, van het Besluit onderzoek in een geautomatiseerd werk](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&artikel=16),
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -22,7 +48,7 @@ In deze regeling wordt verstaan onder:
 
 - b. **'technisch hulpmiddel', `korpschef’, ’technische infrastructuur', `keuringsdienst' en ‘wet':** hetgeen het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041426) daaronder verstaat.
 
-#### Artikel 2
+##### Artikel 2
 
 Voor een aanwijzing als keuringsdienst in de zin van [artikel 16, tweede lid van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&artikel=16) komt in aanmerking een instelling die:
 
@@ -38,11 +64,11 @@ Voor een aanwijzing als keuringsdienst in de zin van [artikel 16, tweede lid van
 
 - f. de kwaliteit van haar organisatie, processen en werkzaamheden aantoonbaar heeft geborgd door deze onder te brengen in een gestructureerd kwaliteitssysteem.
 
-#### Artikel 3
+##### Artikel 3
 
 De aangewezen keuringsdienst heeft als taak keuringen uit te voeren, zoals bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&artikel=14) en [15 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&artikel=15).
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een aanwijzing als keuringsdienst geldt voor ten hoogste drie jaar.
 
@@ -56,7 +82,7 @@ De aangewezen keuringsdienst heeft als taak keuringen uit te voeren, zoals bedoe
 
 - c. indien de keuringsdienst de krachtens het tweede lid aan de aanwijzing verbonden voorschriften niet naleeft.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De bij de keuringsdienst werkzame persoon die belast wordt met de keuring en herkeuring van technische hulpmiddelen, voldoet aan de volgende eisen:
 
@@ -74,7 +100,7 @@ De aangewezen keuringsdienst heeft als taak keuringen uit te voeren, zoals bedoe
 
 3. De keuringsdienst draagt er zorg voor te allen tijde geïnformeerd te zijn over de meest recente ontwikkelingen ter zake technische hulpmiddelen en voorziet in een opleidings- en trainingsprogramma ten behoeve van de doorlopende scholing van zijn medewerkers.
 
-#### Artikel 6
+##### Artikel 6
 
 De keuringsdienst beschikt over de nodige werknemers en middelen om de aan de uitvoering van de keuringen verbonden technische en administratieve taken op een passende wijze te vervullen en is in staat:
 
@@ -82,7 +108,7 @@ De keuringsdienst beschikt over de nodige werknemers en middelen om de aan de ui
 
 - b. een herkeuring, als bedoeld in [artikel 14, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&artikel=14) binnen twee weken na aanbieding van het technische hulpmiddel uit te voeren;
 
-#### Artikel 7
+##### Artikel 7
 
 Een aangewezen keuringsdienst voldoet aan de volgende voorwaarden:
 
@@ -96,7 +122,7 @@ Een aangewezen keuringsdienst voldoet aan de volgende voorwaarden:
 
 - e. hij verstrekt zo spoedig mogelijk de door haar uitgebrachte keuringsrapporten aan de Landelijke eenheid van de politie, ten behoeve van een centrale registratie van keuringsrapporten als bedoeld in [artikel 10 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&artikel=10).
 
-#### Artikel 8
+##### Artikel 8
 
 Een aangewezen keuringsdienst:
 
@@ -114,7 +140,7 @@ Een aangewezen keuringsdienst:
 
 - −. hetzij, na hiervoor toestemming te hebben gekregen van de betreffende directeur-generaal van het Ministerie van Justitie en Veiligheid, een andere keuringsdienst, als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041952&artikel=1&z=2019-03-01&g=2019-03-01).
 
-#### Artikel 9
+##### Artikel 9
 
 1. De aangewezen keuringsdienst en de werknemers die met de keuringen zijn belast, voeren de keuringen of beoordelingen uit met de grootste mate van beroepsintegriteit en technische bekwaamheid, zij zijn vrij van elke pressie of beïnvloeding, die hun beoordeling of de uitslagen van hun keuring kan beïnvloeden, met name door personen of groepen van personen die bij de resultaten van de keuring of beoordeling belang hebben.
 
@@ -124,11 +150,11 @@ Een aangewezen keuringsdienst:
 
 - 2. beschikt over een recente door de AIVD afgegeven verklaring van geen bezwaar tegen vervulling van A- en P-vertrouwensfuncties bij de politie, als bedoeld in [artikel 1, eerste lid, onder b van de Wet op de veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=1).
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling wordt aangehaald als Regeling eisen keuringsdienst technisch hulpmiddel.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze regeling treedt in werking op 1 maart 2019 en vervalt op 1 maart 2022.
 

@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel aanwijzing keurend medisch specialisten"
+title: "Besluit directie van het CBR houdende vaststelling van een beleidsregel betreffende het afgeven en intrekken van aanwijzingen van keurend medisch specialisten (beleidsregel aanwijzing keurend medisch specialisten)"
 identifier: "BWBR0037647"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2018-12-01
-laatste_update: 2018-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037647"
+country: "nl"
+rank: "zbo"
+publication_date: "2018-12-01"
+last_updated: "2018-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037647"
+soort: "zbo"
+stam_id: "13418793"
+version_id: "23027672"
+internal_id: "C33289251"
+label_id: "13386384"
+dtd_version: "2.0"
+original_entry_into_force: "2015-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037647/2018-12-01/0"
+intitule_bron: "Stcrt.2015-19246"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-04-20"
+intitule_published: "2015-07-13"
+intitule_in_force: "2015-07-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-19246"
+original_signed_date: "2015-04-20"
+original_published_date: "2015-07-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-19246"
+entry_into_force_date: "2015-05-01"
+jci_1_3: "jci1.3:c:BWBR0037647&z=2018-12-01&g=2018-12-01"
+jci_1_0: "1.0:c:BWBR0037647&g=2018-12-01"
+citeertitel_status: "redactioneel"
+short_title: "Beleidsregel aanwijzing keurend medisch specialisten"
+signed_date: "2015-04-20"
+entry_into_force: "2015-05-01"
 ---
-
 # Besluit directie van het CBR houdende vaststelling van een beleidsregel betreffende het afgeven en intrekken van aanwijzingen van keurend medisch specialisten (beleidsregel aanwijzing keurend medisch specialisten)
 
 Gelet op de [artikelen 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81), [133, tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=133), en [101, eerste lid, van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=101);

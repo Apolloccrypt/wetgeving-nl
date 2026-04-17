@@ -1,20 +1,45 @@
 ---
 title: "Reglement Wetenschappelijke Kwaliteitsraad Kenniscentrum Stelsel Gesubsidieerde Rechtsbijstand"
 identifier: "BWBR0050153"
-categorie: "Sociaal recht"
-publicatiedatum: 2024-08-20
-laatste_update: 2024-08-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050153"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-08-20"
+last_updated: "2024-08-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050153"
+soort: "zbo"
+stam_id: "17206243"
+version_id: "30296782"
+internal_id: "C43465901"
+label_id: "17112154"
+dtd_version: "2.0"
+original_entry_into_force: "2024-08-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050153/2024-08-20/0"
+intitule_bron: "Stcrt.2024-27084"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-07-17"
+intitule_published: "2024-08-19"
+intitule_in_force: "2024-08-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-27084"
+original_signed_date: "2024-07-17"
+original_published_date: "2024-08-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-27084"
+entry_into_force_date: "2024-08-20"
+jci_1_3: "jci1.3:c:BWBR0050153&z=2024-08-20&g=2024-08-20"
+jci_1_0: "1.0:c:BWBR0050153&g=2024-08-20"
+citeertitel_status: "officieel"
+signed_date: "2024-07-17"
+entry_into_force: "2024-08-20"
 ---
-
 # Reglement Wetenschappelijke Kwaliteitsraad Kenniscentrum Stelsel Gesubsidieerde Rechtsbijstand
 
 Gelet op [artikel 8 van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=8);
 
 Heeft het volgende reglement vastgesteld:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit reglement wordt verstaan onder:
 
@@ -32,7 +57,7 @@ In dit reglement wordt verstaan onder:
 
 - g. **Programma:** onderzoeksprogramma op themaniveau dat wordt vastgesteld door de Programmaraad en op basis waarvan het Kenniscentrum programmatisch onderzoek uitvoert.
 
-#### Artikel 2. De leden van Wetenschappelijke Kwaliteitsraad
+##### Artikel 2. De leden van Wetenschappelijke Kwaliteitsraad
 
 1. De Wetenschappelijke Kwaliteitsraad bestaat uit hoogleraren die werkzaam zijn bij een Nederlandse universiteit of lectoren die werkzaam zijn bij een Nederlandse hogeschool.
 
@@ -48,11 +73,11 @@ In dit reglement wordt verstaan onder:
 
 7. De voorzitter en de leden van de Wetenschappelijke Kwaliteitsraad ontvangen jaarlijks een passende vacatievergoeding. Deze vergoeding is equivalent aan het maximum van schaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsoverkomst voor rijksambtenaren.
 
-#### Artikel 3. Taak Wetenschappelijke Kwaliteitsraad
+##### Artikel 3. Taak Wetenschappelijke Kwaliteitsraad
 
 De Wetenschappelijke Kwaliteitsraad verricht iedere drie jaar een visitatie aangaande de wetenschappelijke kwaliteit van het programmatisch onderzoek dat het Kenniscentrum gedurende deze periode openbaar heeft gemaakt.
 
-#### Artikel 4. Rapportages Wetenschappelijke Kwaliteitsraad
+##### Artikel 4. Rapportages Wetenschappelijke Kwaliteitsraad
 
 1. De Wetenschappelijke Kwaliteitsraad doet jaarlijks verslag van de activiteiten en resultaten als onderdeel van het jaarverslag van het Kenniscentrum.
 
@@ -62,7 +87,7 @@ De Wetenschappelijke Kwaliteitsraad verricht iedere drie jaar een visitatie aang
 
 4. Visitatierapporten van de Wetenschappelijke Kwaliteitsraad zijn openbaar en worden gepubliceerd op de website van het Kenniscentrum.
 
-#### Artikel 5. Vergaderingen Wetenschappelijke Kwaliteitsraad
+##### Artikel 5. Vergaderingen Wetenschappelijke Kwaliteitsraad
 
 1. Vergaderingen van de Wetenschappelijke Kwaliteitsraad vinden in beginsel fysiek plaats.
 
@@ -82,7 +107,7 @@ De Wetenschappelijke Kwaliteitsraad verricht iedere drie jaar een visitatie aang
 
 9. De Wetenschappelijke Kwaliteitsraad kan op verzoek van de CSO besluiten om anderen dan leden toe te laten tot de vergadering.
 
-#### Artikel 6. Besluitvorming
+##### Artikel 6. Besluitvorming
 
 1. De leden van de Wetenschappelijke Kwaliteitsraad hebben ieder één stem.
 
@@ -92,11 +117,11 @@ De Wetenschappelijke Kwaliteitsraad verricht iedere drie jaar een visitatie aang
 
 4. Besluiten tot wijziging van het reglement van de Wetenschappelijke Kwaliteitsraad kunnen slechts door de Programmaraad worden genomen door een gewone meerderheid van zijn leden. Voorafgaand aan de besluitvorming consulteert de Programmaraad de CSO over de voorgenomen wijziging. [Artikel 4 lid 1, 2 en 3 van het Reglement Programmaraad Kenniscentrum Stelsel Gesubsidieerde Rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0050147&artikel=4) zijn van overeenkomstige toepassing.
 
-#### Artikel 7. Citeertitel
+##### Artikel 7. Citeertitel
 
 Het reglement wordt aangehaald als: Reglement Wetenschappelijke Kwaliteitsraad Kenniscentrum Stelsel Gesubsidieerde Rechtsbijstand.
 
-#### Artikel 8. Inwerkingtreding
+##### Artikel 8. Inwerkingtreding
 
 1. Het reglement wordt gepubliceerd in de Staatscourant en op de website van de Raad voor Rechtsbijstand.
 

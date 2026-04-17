@@ -1,13 +1,38 @@
 ---
 title: "Overeenkomst inzake politieke dialoog en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republieken Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua en Panama, anderzijds"
 identifier: "BWBV0001726"
-categorie: "Internationaal recht"
-publicatiedatum: 2014-05-01
-laatste_update: 2003-12-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001726"
+country: "nl"
+rank: "verdrag"
+publication_date: "2014-05-01"
+last_updated: "2003-12-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001726"
+soort: "verdrag"
+stam_id: "10002224833"
+version_id: "10002284652"
+internal_id: "C10008603041"
+label_id: "10002215504"
+dtd_version: "2.0"
+original_entry_into_force: "2014-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001726/2014-05-01/0"
+intitule_bron: "Trb.2004-173"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-03-23"
+intitule_published: "2004-06-24"
+intitule_in_force: "2014-05-16"
+intitule_status: "goed"
+original_publication: "Trb.2004-173"
+original_signed_date: "2005-03-23"
+original_published_date: "2004-06-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2004-173"
+entry_into_force_date: "2014-05-01"
+jci_1_3: "jci1.3:c:BWBV0001726&z=2014-05-01&g=2014-05-01"
+jci_1_0: "1.0:c:BWBV0001726&g=2014-05-01"
+citeertitel_status: "redactioneel"
+signed_date: "2005-03-23"
+entry_into_force: "2014-05-01"
 ---
-
 # Overeenkomst inzake politieke dialoog en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republieken Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua en Panama, anderzijds
 
 Het Koninkrijk België,
@@ -94,7 +119,7 @@ Hebben besloten deze overeenkomst te sluiten:
 
 ## TITEL I. BEGINSELEN, DOELSTELLINGEN EN TOEPASSINGSGEBIED VAN DE OVEREENKOMST
 
-#### Artikel 1. Beginselen
+##### Artikel 1. Beginselen
 
 1. De eerbiediging van de democratische beginselen en de fundamentele rechten van de mens, zoals deze zijn vastgelegd in de Universele Verklaring van de Rechten van de Mens, en van het beginsel van de rechtsstaat, ligt ten grondslag aan het binnenlandse en het buitenlandse beleid van de contractsluitende partijen en is een essentieel element van deze overeenkomst.
 
@@ -102,7 +127,7 @@ Hebben besloten deze overeenkomst te sluiten:
 
 3. De partijen bevestigen opnieuw het belang dat zij hechten aan de beginselen van goed bestuur en de bestrijding van corruptie.
 
-#### Artikel 2. Doelstellingen en reikwijdte
+##### Artikel 2. Doelstellingen en reikwijdte
 
 1. De partijen bevestigen hun gemeenschappelijke doelstelling om hun betrekkingen te versterken door de politieke dialoog en de samenwerking te intensiveren.
 
@@ -118,7 +143,7 @@ Hebben besloten deze overeenkomst te sluiten:
 
 ## TITEL II. POLITIEKE DIALOOG
 
-#### Artikel 3. Doelstellingen
+##### Artikel 3. Doelstellingen
 
 1. De partijen komen overeen hun regelmatige politieke dialoog te intensiveren, op basis van de beginselen die zijn neergelegd in de gemeenschappelijke verklaringen van het proces van de dialoog van San José, met name de verklaringen van San José (28/29 september 1984), Florence (21 maart 1996) en Madrid (18 mei 2002).
 
@@ -126,7 +151,7 @@ Hebben besloten deze overeenkomst te sluiten:
 
 3. De partijen komen overeen dat een intensievere politieke dialoog de gelegenheid biedt tot het uitwisselen van informatie op een groot aantal gebieden en als forum fungeert voor gemeenschappelijke initiatieven op internationaal vlak.
 
-#### Artikel 4. Mechanismen
+##### Artikel 4. Mechanismen
 
 De partijen komen overeen dat de politieke dialoog wordt gevoerd:
 
@@ -140,13 +165,13 @@ De partijen komen overeen dat de politieke dialoog wordt gevoerd:
 
 en dat hierbij zo veel mogelijk gebruik maakt van de diplomatieke kanalen.
 
-#### Artikel 5. Samenwerking op het gebied van het buitenlands en veiligheidsbeleid
+##### Artikel 5. Samenwerking op het gebied van het buitenlands en veiligheidsbeleid
 
 De partijen coördineren zo veel mogelijk overeenkomstig hun belangen hun standpunten en ondernemen gezamenlijke initiatieven in toepasselijke internationale fora, en werken samen op het gebied van het buitenlands en veiligheidsbeleid.
 
 ## TITEL III. SAMENWERKING
 
-#### Artikel 6. Doelstellingen
+##### Artikel 6. Doelstellingen
 
 1. De partijen komen overeen dat de samenwerking uit hoofde van de Raamovereenkomst voor samenwerking van 1993 wordt versterkt en tot andere terreinen wordt uitgebreid. De samenwerking concentreert zich met name op:
 
@@ -160,11 +185,11 @@ De partijen coördineren zo veel mogelijk overeenkomstig hun belangen hun standp
 
 3. De partijen komen overeen dat maatregelen om de regionale integratie in Midden-Amerika te bevorderen en de interregionale betrekkingen tussen de partijen te versterken, worden aangemoedigd.
 
-#### Artikel 7. Methode
+##### Artikel 7. Methode
 
 De partijen komen overeen dat de samenwerking wordt uitgevoerd door middel van technische en financiële bijstand, studies, opleiding, uitwisseling van informatie en deskundigheid, bijeenkomsten, seminars, onderzoeksprojecten en alle andere door de partijen overeen te komen middelen, afhankelijk van het samenwerkingsterrein, de nagestreefde doeleinden en de beschikbare middelen, overeenkomstig de normen en voorschriften die op deze samenwerking van toepassing zijn. Alle bij de samenwerking betrokken partijen moeten de middelen op transparante wijze beheren en hierover verantwoording afleggen.
 
-#### Artikel 8. Samenwerking inzake mensenrechten, democratie en goed bestuur
+##### Artikel 8. Samenwerking inzake mensenrechten, democratie en goed bestuur
 
 De partijen komen overeen dat in het kader van de samenwerking de overheid en vertegenwoordigers van de civiele samenleving actief gesteund zullen worden, door middel van maatregelen op met name de volgende terreinen:
 
@@ -174,7 +199,7 @@ De partijen komen overeen dat in het kader van de samenwerking de overheid en ve
 
 - c. versterking van de onafhankelijkheid en de doelmatigheid van de rechterlijke macht.
 
-#### Artikel 9. Samenwerking inzake conflictpreventie
+##### Artikel 9. Samenwerking inzake conflictpreventie
 
 1. De partijen komen overeen dat in het kader van de samenwerking op dit gebied een breed vredesbeleid bevorderd en ondersteund wordt dat de dialoog stimuleert tussen democratische naties die voor taken staan als preventie en oplossing van conflicten, het herstel van de vrede justitie in het kader van de mensenrechten. Dit beleid wordt gebaseerd op het beginsel van eigen inbreng en is met name gericht op de opbouw van regionale, sub-regionale en nationale capaciteit. Om conflicten te voorkomen, en verder waar nodig zal ernaar gestreefd worden alle segmenten van de samenleving gelijke politieke, economische, sociale en culturele kansen te geven, de democratische legitimiteit te versterken, de sociale samenhang te bevorderen, het openbaar bestuur effectiever te maken, doeltreffende mechanismen te creëren om de belangen van verschillende groepen op vreedzame wijze te verzoenen, en een actief, goed georganiseerd maatschappelijk middenveld te bevorderen.
 
@@ -182,13 +207,13 @@ De partijen komen overeen dat in het kader van de samenwerking de overheid en ve
 
 3. De partijen zullen ook samen proberen de illegale handel in handvuurwapens en lichte wapens te voorkomen en te bestrijden en onder andere de samenwerking binnen justitie en politie en op institutioneel niveau beter op elkaar afstemmen, evenals de inbeslagname en vernietiging van illegale handvuurwapens en lichte wapens die in handen zijn van burgers.
 
-#### Artikel 10. Samenwerking inzake modernisering van het staatsbestuur en andere overheden
+##### Artikel 10. Samenwerking inzake modernisering van het staatsbestuur en andere overheden
 
 1. De partijen komen overeen dat in het kader van de samenwerking op dit gebied het openbaar bestuur in de Midden-Amerikaanse landen verder gemoderniseerd en geprofessionaliseerd wordt, onder meer door steun voor het decentralisatieproces en de organisatorische veranderingen die uit het integratieproces in Midden-Amerika voortvloeien. In het algemeen moet de samenwerking de doelmatigheid van de organisatie verbeteren teneinde ervoor te zorgen dat de openbare middelen transparant worden beheerd en daarover verantwoording wordt afgelegd, en moeten het juridische en het institutionele kader worden verbeterd, waarbij ondermeer wordt uitgegaan van de beste praktijken van beide partijen en gebruik gemaakt van de ervaring die is opgedaan bij het ontwikkelen van beleid en instrumenten in de Europese Unie.
 
 2. De samenwerking kan onder meer omvatten: programma's voor het opbouwen van capaciteit met betrekking tot de formulering en uitvoering van beleid op alle terreinen die van wederzijds belang zijn, onder andere openbare dienstverlening, opstelling en uitvoering van de begroting, voorkoming en bestrijding van corruptie en versterking van de rechterlijke macht.
 
-#### Artikel 11. Samenwerking inzake regionale integratie
+##### Artikel 11. Samenwerking inzake regionale integratie
 
 1. De partijen komen overeen dat in het kader van de samenwerking op dit gebied het proces van regionale integratie in Midden-Amerika wordt versterkt, in het bijzonder door de ontwikkeling en invoering van een gemeenschappelijke markt.
 
@@ -206,11 +231,11 @@ De partijen komen overeen dat in het kader van de samenwerking de overheid en ve
 
 - d. verlening van bijstand ter versterking en totstandbrenging van een intra-regionale gemeenschappelijke markt.
 
-#### Artikel 12. Regionale samenwerking
+##### Artikel 12. Regionale samenwerking
 
 De partijen komen overeen alle beschikbare samenwerkingsinstrumenten te gebruiken om activiteiten te bevorderen die gericht zijn op de ontwikkeling van actieve wederzijdse samenwerking tussen de Europese Unie en Midden-Amerika en, zonder de samenwerking tussen de partijen te ondermijnen, tussen Midden-Amerika en andere landen en gebieden in Latijns-Amerika en het Caribisch gebied, op terreinen als bevordering van handel en investeringen, milieu, voorkoming van en optreden bij natuurrampen, wetenschappelijk, technisch en technologisch onderzoek, energie, vervoer, communicatie-infrastructuur, cultuur, regionale ontwikkeling en ruimtelijke ordening.
 
-#### Artikel 13. Samenwerking op handelsgebied
+##### Artikel 13. Samenwerking op handelsgebied
 
 1. De partijen komen overeen dat de samenwerking op handelsgebied de integratie van de Midden-Amerikaanse landen in de wereldeconomie moet bevorderen. De samenwerking is er, via het verlenen van handelsgerelateerde technische bijstand, ook op gericht de intraregionale handel zo veel mogelijk te ontwikkelen en te diversifiëren en de handel met de Europese Unie zoveel mogelijk te vergemakkelijken.
 
@@ -218,25 +243,25 @@ De partijen komen overeen alle beschikbare samenwerkingsinstrumenten te gebruike
 
 3. Om deze samenwerkingsagenda uit te voeren en optimaal gebruik te kunnen maken van de mogelijkheden van de bilaterale, regionale of multilaterale onderhandelingen over en overeenkomsten inzake de handel, komen de partijen overeen de regionale technische-capaciteitsopbouw te versterken.
 
-#### Artikel 14. Samenwerking inzake diensten
+##### Artikel 14. Samenwerking inzake diensten
 
 1. De partijen komen overeen hun samenwerking op dienstengebied te versterken, overeenkomstig de regels van de Algemene Overeenkomst inzake de handel in diensten (GATS). Deze samenwerking weerspiegelt het groeiende belang van de dienstensector voor de ontwikkeling en diversificatie van hun economieën. De versterkte samenwerking wordt erop gericht het concurrentievermogen van de Midden-Amerikaanse dienstensector te verbeteren op een wijze die strookt met het beginsel van duurzame ontwikkeling.
 
 2. De partijen stellen vast op welke dienstensectoren de samenwerking zal worden geconcentreerd. De activiteiten zullen onder andere betrekking hebben op de regelgeving, onverminderd de nationale wetgeving, en toegang tot kapitaal en technologie.
 
-#### Artikel 15. Samenwerking inzake intellectuele eigendom
+##### Artikel 15. Samenwerking inzake intellectuele eigendom
 
 De partijen komen overeen dat de samenwerking op dit terrein gericht wordt op stimulering van de investeringen, overdracht van technologie, verspreiding van informatie, culturele en creatieve activiteiten en daarmee verband houdende economische activiteiten, alsmede het delen van toegang en voordelen op door de partijen te bepalen terreinen. De samenwerking zal zich richten op het verbeteren van de wet- en regelgeving en het beleid zodat de intellectuele-eigendomsrechten beschermd en gerespecteerd worden overeenkomstig de strengste internationale normen.
 
-#### Artikel 16. Samenwerking inzake overheidsopdrachten
+##### Artikel 16. Samenwerking inzake overheidsopdrachten
 
 De partijen komen overeen dat in het kader van de samenwerking op dit gebied gestreefd wordt naar wederzijdse, niet-discriminerende, transparante en, indien de partijen dit overeenkomen, open1)In dit verband betekent „open” niet „toegankelijk”; verder geldt Artikel 2, lid 5, tweede zin. procedures voor opdrachten van de overheid en de openbare sector en indien nodig op alle niveaus.
 
-#### Artikel 17. Samenwerking inzake het mededingingsbeleid
+##### Artikel 17. Samenwerking inzake het mededingingsbeleid
 
 De partijen komen overeen dat de samenwerking op het gebied van het mededingingsbeleid doeltreffende vaststelling en toepassing van mededingingsregels en de verspreiding van informatie dient te bevorderen. Dit moet leiden tot meer transparantie en rechtszekerheid voor bedrijven die op de Midden-Amerikaanse en de Europese markt actief zijn.
 
-#### Artikel 18. Samenwerking op douanegebied
+##### Artikel 18. Samenwerking op douanegebied
 
 1. De partijen komen overeen dat in het kader van de samenwerking op dit terrein maatregelen ontwikkeld zullen worden om de douane en de handel soepeler te laten verlopen en het uitwisselen van informatie tussen de respectieve douanediensten bevorderd zal worden, teneinde de handel tussen de partijen te vergemakkelijken.
 
@@ -252,7 +277,7 @@ De partijen komen overeen dat de samenwerking op het gebied van het mededingings
 
 3. Binnen het institutionele kader dat bij de overeenkomst wordt ingesteld, kan worden overwogen een protocol inzake wederzijdse bijstand in douanezaken te sluiten.
 
-#### Artikel 19. Samenwerking inzake technische regelgeving en conformiteitsbeoordeling
+##### Artikel 19. Samenwerking inzake technische regelgeving en conformiteitsbeoordeling
 
 1. De partijen komen overeen dat de samenwerking op het gebied van normalisatie, technische regelgeving en conformiteitsbeoordeling van groot belang is voor de ontwikkeling van het handelsverkeer, met name wat de intraregionale handel betreft.
 
@@ -274,13 +299,13 @@ De partijen komen overeen dat de samenwerking op het gebied van het mededingings
 
 - c. bevordering van alle maatregelen ter verbetering van de transparantie, de regelgeving en de kwaliteitsnormen voor producten en handelspraktijken.
 
-#### Artikel 20. Industriële samenwerking
+##### Artikel 20. Industriële samenwerking
 
 1. De partijen komen overeen dat in het kader van de industriële samenwerking de modernisering en herstructurering van de Midden-Amerikaanse industrie en afzonderlijke sectoren gestimuleerd moet worden, alsmede de industriële samenwerking tussen ondernemingen, teneinde de particuliere sector te versterken, waarbij tegelijkertijd de bescherming van het milieu gewaarborgd moet zijn.
 
 2. De samenwerkingsinitiatieven op het gebied van de industrie dienen een afspiegeling te zijn van de prioriteiten die door de partijen worden vastgesteld. Rekening wordt gehouden met de regionale aspecten van industriële ontwikkeling, en waar nodig worden internationale partnerschappen gestimuleerd. De initiatieven moeten in het bijzonder een geschikt kader tot stand brengen om kennis op managementgebied te verbeteren en de transparantie van de markt en het ondernemingsklimaat te bevorderen.
 
-#### Artikel 21. Samenwerking inzake de ontwikkeling van het midden- en kleinbedrijf en micro-ondernemingen
+##### Artikel 21. Samenwerking inzake de ontwikkeling van het midden- en kleinbedrijf en micro-ondernemingen
 
 De partijen streven naar een klimaat dat gunstig is voor de ontwikkeling van het midden- en kleinbedrijf en micro-ondernemingen, onder meer op het platteland, met name door:
 
@@ -288,7 +313,7 @@ De partijen streven naar een klimaat dat gunstig is voor de ontwikkeling van het
 
 - b. het vergemakkelijken van de toegang tot kredietfaciliteiten, het verstrekken van informatie en het stimuleren van innovatie.
 
-#### Artikel 22. Samenwerking op het gebied van landbouw en plattelandsontwikkeling; sanitaire en fytosanitaire maatregelen
+##### Artikel 22. Samenwerking op het gebied van landbouw en plattelandsontwikkeling; sanitaire en fytosanitaire maatregelen
 
 1. De partijen komen overeen wederzijds samen te werken op het gebied van de landbouw, ter bevordering van duurzame landbouw, ontwikkeling van de landbouw en het platteland, bosbouw, duurzame maatschappelijke en economische ontwikkeling en continuïteit van de voedselvoorziening in Midden-Amerika.
 
@@ -308,11 +333,11 @@ De partijen streven naar een klimaat dat gunstig is voor de ontwikkeling van het
 
 - g. versterking van de capaciteit voor het uitvoeren van sanitaire en fytosanitaire maatregelen, teneinde de markttoegang te verbeteren en op transparante, niet discriminerende en voorspelbare basis te zorgen voor een passende bescherming van de gezondheid, overeenkomstig de WTO-/SPS-overeenkomst.
 
-#### Artikel 23. Samenwerking inzake visserij en aquacultuur
+##### Artikel 23. Samenwerking inzake visserij en aquacultuur
 
 De partijen komen overeen economische en technische samenwerking in de sector visserij en aquacultuur te ontwikkelen, met name wat betreft duurzame exploitatie, beheer en behoud van de visbestanden, met inbegrip van milieueffectbeoordelingen. De samenwerking moet ook betrekking hebben op de verwerkende industrie en vergemakkelijking van het handelsverkeer. De samenwerking op het gebied van de visserij kan leiden tot de sluiting van bilaterale visserijovereenkomsten tussen de partijen of tussen de Europese Gemeenschap en een of meer Midden-Amerikaanse landen en/of multilaterale visserijovereenkomsten tussen de partijen.
 
-#### Artikel 24. Samenwerking inzake mijnbouw
+##### Artikel 24. Samenwerking inzake mijnbouw
 
 De partijen komen overeen dat de samenwerking op het gebied van de mijnbouw zich, met inachtneming van het behoud van het milieu, met name richt op:
 
@@ -326,7 +351,7 @@ De partijen komen overeen dat de samenwerking op het gebied van de mijnbouw zich
 
 - e. ontwikkeling van maatregelen ter bevordering van het milieubehoud en verantwoord optreden op milieugebied van het bedrijfsleven in deze sector.
 
-#### Artikel 25. Samenwerking inzake energie
+##### Artikel 25. Samenwerking inzake energie
 
 1. De partijen komen overeen gezamenlijk te streven naar intensievere samenwerking op het gebied van energie, in sleutelsectoren als waterkracht, olie en gas, duurzame energiebronnen, technologie voor energiebesparing, elektrificatie van het platteland en regionale integratie van de energiemarkten, zoals onder andere aangewezen door de partijen en in overeenstemming met de nationale wetgeving.
 
@@ -342,7 +367,7 @@ De partijen komen overeen dat de samenwerking op het gebied van de mijnbouw zich
 
 - e. schoon en duurzaam gebruik van kernenergie.
 
-#### Artikel 26. Samenwerking inzake vervoer
+##### Artikel 26. Samenwerking inzake vervoer
 
 1. De partijen komen overeen dat de samenwerking wordt geconcentreerd op herstructurering en modernisering van de systemen voor vervoer en de daarmee samenhangende infrastructuur, verbetering van het verkeer van personen en goederen en verbetering van de toegang tot de markt voor het stads-, lucht-, zee-, spoorweg- en wegvervoer, door verbetering van het operationele en administratieve beheer en bevordering van de toepassing van strenge exploitatienormen.
 
@@ -356,7 +381,7 @@ De partijen komen overeen dat de samenwerking op het gebied van de mijnbouw zich
 
 - d. verhoging van de normen voor veiligheid en voorkoming van verontreiniging, onder meer door samenwerking in passende internationale fora, gericht op betere handhaving van de internationale normen.
 
-#### Artikel 27. Samenwerking inzake de informatiemaatschappij, informatietechnologie en telecommunicatie
+##### Artikel 27. Samenwerking inzake de informatiemaatschappij, informatietechnologie en telecommunicatie
 
 1. De partijen komen overeen dat informatietechnologie en communicatie sleutelsectoren van de moderne samenleving zijn, die van vitaal belang zijn voor de economische en sociale ontwikkeling en voor een soepele overgang naar de informatiemaatschappij. De samenwerking op dit terrein zal bijdragen aan het verkleinen van de digitale kloof en de ontwikkeling van het menselijk potentieel.
 
@@ -378,19 +403,19 @@ De partijen komen overeen dat de samenwerking op het gebied van de mijnbouw zich
 
 - h. de ontwikkeling van toepassingen op het gebied van e-bestuur.
 
-#### Artikel 28. Samenwerking op audiovisueel gebied
+##### Artikel 28. Samenwerking op audiovisueel gebied
 
 De partijen komen overeen de samenwerking in de audiovisuele sector en in de mediasector in het algemeen te bevorderen, door gezamenlijke initiatieven voor opleiding en ontwikkelings-, productie- en distributieactiviteiten, ondermeer op educatief en cultureel gebied. De samenwerking vindt plaats in overeenstemming met de nationale bepalingen op het gebied van auteursrecht en de geldende internationale overeenkomsten.
 
-#### Artikel 29. Samenwerking inzake toerisme
+##### Artikel 29. Samenwerking inzake toerisme
 
 De partijen komen overeen dat in het kader van de samenwerking op dit gebied gestreefd moet worden naar de toepassing van beste praktijken om te zorgen voor een evenwichtige en duurzame ontwikkeling van het toerisme in Midden-Amerika. Er zouden strategieën ontwikkeld moeten worden om de regio beter onder de aandacht te brengen in Europa en te presenteren als een aantrekkelijke veelzijdige toeristische bestemming.
 
-#### Artikel 30. Samenwerking tussen financiële instellingen
+##### Artikel 30. Samenwerking tussen financiële instellingen
 
 De partijen komen overeen afhankelijk van hun behoeften en in het kader van hun respectieve programma's en wetgeving de samenwerking financiële instellingen te bevorderen.
 
-#### Artikel 31. Samenwerking inzake bevordering van investeringen
+##### Artikel 31. Samenwerking inzake bevordering van investeringen
 
 1. De partijen komen overeen om, binnen het kader van hun bevoegdheden, een aantrekkelijk en stabiel klimaat voor wederzijdse investeringen te bevorderen.
 
@@ -404,19 +429,19 @@ De partijen komen overeen afhankelijk van hun behoeften en in het kader van hun 
 
 - d. ontwikkeling van mechanismen voor joint ventures.
 
-#### Artikel 32. Macro-economische dialoog
+##### Artikel 32. Macro-economische dialoog
 
 1. De partijen komen overeen dat de samenwerking de uitwisseling van informatie over macro-economisch beleid en macro-economische trends dient te bevorderen, alsmede de uitwisseling van ervaringen op het gebied van de coördinatie van macro-economisch beleid in de context van een gemeenschappelijke markt.
 
 2. De partijen streven tevens naar intensivering van de dialoog tussen hun autoriteiten over macro-economische aangelegenheden, zoals overeen te komen door de partijen, bijvoorbeeld over monetair en fiscaal beleid, overheidsfinanciën, macro-economische stabilisatie en buitenlandse schuld.
 
-#### Artikel 33. Samenwerking inzake statistiek
+##### Artikel 33. Samenwerking inzake statistiek
 
 1. De partijen komen overeen dat als belangrijkste doel moet worden gestreefd naar betere statistische methoden en programma's, en de verzameling en verspreiding van gegevens, zodat de partijen over vergelijkbare indicatoren beschikken, waardoor de partijen gebruik kunnen maken van elkaars statistieken op het gebied van de handel in goederen en diensten, en in het algemeen elk onder deze overeenkomst vallend gebied waarvoor statistieken kunnen worden opgesteld.
 
 2. De samenwerking kan onder meer inhouden: technische uitwisseling tussen instellingen voor de statistiek in Midden-Amerika en in de lidstaten van de EU en Eurostat; ontwikkeling van betere en indien noodzakelijk consistentere methoden voor het verzamelen, analyseren en interpreteren van gegevens; en organisatie van seminars, werkgroepen en opleidingsprogramma's op het gebied van statistiek.
 
-#### Artikel 34. Samenwerking inzake de bescherming van de consument
+##### Artikel 34. Samenwerking inzake de bescherming van de consument
 
 1. De partijen komen overeen dat de samenwerking in dit verband onder andere betrekking kan hebben op de volgende gebieden, voor zover mogelijk:
 
@@ -424,13 +449,13 @@ De partijen komen overeen afhankelijk van hun behoeften en in het kader van hun 
 
 - b. bevordering van uitwisseling van informatie over regelingen voor consumentenbescherming.
 
-#### Artikel 35. Samenwerking inzake de bescherming van gegevens
+##### Artikel 35. Samenwerking inzake de bescherming van gegevens
 
 1. De partijen komen overeen de verwerking van persoonsgegevens en andere gegevens te beschermen overeenkomstig de strengste internationale normen.
 
 2. De partijen komen tevens overeen samen te werken op het gebied van de bescherming van persoonsgegevens teneinde het beschermingsniveau te verhogen en bij te dragen tot het vrije verkeer van persoonsgegevens tussen de partijen, overeenkomstig de binnenlandse wetgeving van de partijen.
 
-#### Artikel 36. Samenwerking inzake wetenschap en technologie
+##### Artikel 36. Samenwerking inzake wetenschap en technologie
 
 1. De partijen komen overeen dat de samenwerking op het gebied van wetenschap en technologie tot wederzijds voordeel van de partijen en overeenkomstig hun beleid wordt uitgevoerd, en gericht wordt op:
 
@@ -450,7 +475,7 @@ De partijen komen overeen afhankelijk van hun behoeften en in het kader van hun 
 
 4. De partijen komen overeen de samenwerking tussen organisaties die actief zijn op het gebied van wetenschap, technologie en innovatie te versterken teneinde technologie te bevorderen, verspreiden en over te dragen.
 
-#### Artikel 37. Samenwerking inzake onderwijs en opleiding
+##### Artikel 37. Samenwerking inzake onderwijs en opleiding
 
 1. De partijen komen overeen in het kader van de samenwerking op dit terrein te onderzoeken hoe onderwijs en beroepsopleiding kunnen worden verbeterd. Bijzondere aandacht wordt hierbij geschonken aan de toegankelijkheid van het onderwijs, met inbegrip van het technisch onderwijs, hoger onderwijs en beroepsonderwijs, voor jongeren, vrouwen, inheemse bevolkingsgroepen en andere Midden-Amerikaanse etnische minderheden en aan het verwezenlijken van de millenniumdoelstellingen voor ontwikkeling.
 
@@ -460,7 +485,7 @@ De partijen komen overeen afhankelijk van hun behoeften en in het kader van hun 
 
 4. De partijen zullen het onderwijs aan inheemse bevolkingsgroepen bevorderen, ook in hun eigen taal.
 
-#### Artikel 38. Samenwerking inzake milieu en biologische diversiteit
+##### Artikel 38. Samenwerking inzake milieu en biologische diversiteit
 
 1. De partijen komen overeen dat de samenwerking op dit terrein gericht wordt op het bevorderen van de bescherming van het milieu en dat gestreefd zal worden naar duurzame ontwikkeling. In dit verband zijn de relatie tussen armoede en milieu en het milieueffect van economische activiteiten van belang. De samenwerking zou ook de effectieve deelname aan internationale milieuverdragen moeten bevorderen, bijvoorbeeld met betrekking tot klimaatverandering, biologische diversiteit, woestijnvorming en beheer van chemische stoffen.
 
@@ -482,11 +507,11 @@ De partijen komen overeen afhankelijk van hun behoeften en in het kader van hun 
 
 - h. bevordering van gezamenlijke regionale onderzoeksprogramma's.
 
-#### Artikel 39. Samenwerking inzake natuurrampen
+##### Artikel 39. Samenwerking inzake natuurrampen
 
 De partijen komen overeen dat de samenwerking op dit gebied Midden-Amerika minder kwetsbaar moet maken voor natuurrampen, door de regionale onderzoekscapaciteit te versterken, toe te zien op de preventie, het reactievermogen en de wederopbouwcapaciteit, de wetgeving te harmoniseren en de coördinatie tussen instanties en de steun van de regering te verbeteren.
 
-#### Artikel 40. Culturele samenwerking
+##### Artikel 40. Culturele samenwerking
 
 1. De partijen komen overeen dat in het kader van de samenwerking op dit gebied de culturele banden en de contacten tussen culturele instellingen in beide regio's moeten worden uitgebreid.
 
@@ -510,13 +535,13 @@ De partijen komen overeen dat de samenwerking op dit gebied Midden-Amerika minde
 
 - g. bevordering van handwerk en culturele nijverheid.
 
-#### Artikel 41. Samenwerking inzake gezondheidszorg
+##### Artikel 41. Samenwerking inzake gezondheidszorg
 
 1. De partijen komen overeen samen te werken om de hervorming van de gezondheidszorg te ondersteunen en door billijke financieringsmechanismen ervoor te zorgen dat de zorg toegankelijk is voor arme mensen en dat hun voedselvoorziening gegarandeerd is.
 
 2. De partijen komen overeen dat bij de preventieve gezondheidszorg ook andere sectoren moeten worden betrokken, zoals onderwijs, watervoorziening en sanitaire voorzieningen. In dit verband streven de partijen naar het opbouwen en versterken van partnerschapsrelaties met instanties buiten de gezondheidszorg om de millenniumdoelstellingen voor ontwikkeling te realiseren, met name wat de bestrijding van aids, malaria, tuberculose en andere ziekten betreft. Er zijn ook partnerschappen nodig met het maatschappelijk middenveld, NGO's en de particuliere sector om seksuele gezondheidszorg en rechten op genderbewuste wijze aan te pakken en seksueel overdraagbare aandoeningen en ongewenste zwangerschappen onder jongeren te voorkomen, voor zover deze doelstellingen niet in strijd zijn met de nationale wetgeving of culturele gevoeligheden.
 
-#### Artikel 42. Samenwerking op sociaal gebied
+##### Artikel 42. Samenwerking op sociaal gebied
 
 1. De partijen komen overeen samen te werken om de deelname van de sociale partners aan de dialoog over leef- en werkomstandigheden, sociale bescherming en integratie in de samenleving te stimuleren. Bijzondere aandacht zal worden besteed aan het tegengaan van discriminatie bij de behandeling van onderdanen van een partij die legaal op het grondgebied van de andere partij verblijven.
 
@@ -526,7 +551,7 @@ De partijen komen overeen dat de samenwerking op dit gebied Midden-Amerika minde
 
 4. Waar nodig voeren de partijen, in overeenstemming met hun interne procedures, deze dialoog in coördinatie met het Europees Economisch en Sociaal Comité en het Midden-Amerikaanse equivalent daarvan.
 
-#### Artikel 43. Betrokkenheid van het maatschappelijk middenveld bij de samenwerking
+##### Artikel 43. Betrokkenheid van het maatschappelijk middenveld bij de samenwerking
 
 1. De partijen erkennen de rol en de potentiële bijdrage van het maatschappelijk middenveld in het samenwerkingsproces en komen overeen een effectieve dialoog met de samenleving aan te moedigen.
 
@@ -540,17 +565,17 @@ De partijen komen overeen dat de samenwerking op dit gebied Midden-Amerika minde
 
 - d. deelnemen aan de uitvoering van samenwerkingsprogramma's op gebieden die hem aangaan.
 
-#### Artikel 44. Samenwerking inzake man/vrouwvraagstukken
+##### Artikel 44. Samenwerking inzake man/vrouwvraagstukken
 
 De partijen zijn het erover eens dat de samenwerking op dit terrein dient bij te dragen tot de versterking van beleidslijnen, programma's en mechanismen die de gelijkwaardige participatie van mannen en vrouwen in alle sectoren van het politieke, economische, maatschappelijke en culturele leven beogen te verbeteren, te garanderen en te verbreden, waar nodig door middel van positieve maatregelen voor vrouwen. De samenwerking moet ook bijdragen tot verbetering van de toegang voor vrouwen tot alle middelen die zij voor de volwaardige uitoefening van hun fundamentele rechten nodig hebben.
 
-#### Artikel 45. Samenwerking inzake inheemse bevolkingsgroepen en andere etnische minderheden in Midden-Amerika
+##### Artikel 45. Samenwerking inzake inheemse bevolkingsgroepen en andere etnische minderheden in Midden-Amerika
 
 1. De partijen komen overeen dat de samenwerking op dit terrein moet bijdragen aan de opbouw en ontwikkeling van nieuwe, alsmede de versterking van de bestaande organisaties voor inheemse bevolkingsgroepen en andere etnische minderheden in Midden-Amerika, in het kader van de bevordering van armoedebestrijding, duurzaam beheer van natuurlijke hulpbronnen, eerbiediging van de mensenrechten, democratie en culturele diversiteit.
 
 2. De partijen dienen niet alleen op alle niveaus van de ontwikkelingssamenwerking systematisch rekening te houden met de situatie van de inheemse bevolkingsgroepen en andere etnische minderheden, maar ook de bijzondere situatie van die bevolkingsgroepen in de beleidsformulering te integreren en de capaciteit van organisaties die deze groepen vertegenwoordigen te versterken, om de positieve effecten van de ontwikkelingssamenwerking voor deze groepen te versterken, overeenkomstig de nationale en internationale verplichtingen van beide partijen.
 
-#### Artikel 46. Samenwerking inzake ontheemde bevolkingsgroepen en gedemobiliseerde strijders
+##### Artikel 46. Samenwerking inzake ontheemde bevolkingsgroepen en gedemobiliseerde strijders
 
 1. De partijen komen overeen dat de samenwerking inzake steun aan ontheemde bevolkingsgroepen en gedemobiliseerde strijders ertoe moet bijdragen dat in hun essentiële behoeften wordt voorzien gedurende de periode van het stopzetten van humanitaire hulp tot de totstandkoming van een permanente oplossing voor hun situatie.
 
@@ -568,7 +593,7 @@ De partijen zijn het erover eens dat de samenwerking op dit terrein dient bij te
 
 - f. steun voor de reïntegratie in het politieke, sociale en actieve leven, onder meer in voorkomende gevallen als onderdeel van een verzoeningsproces.
 
-#### Artikel 47. Samenwerking inzake bestrijding van drugs en daarmee samenhangende criminaliteit
+##### Artikel 47. Samenwerking inzake bestrijding van drugs en daarmee samenhangende criminaliteit
 
 1. Op basis van het beginsel van medeverantwoordelijkheid komen de partijen overeen in het kader van de samenwerking op dit gebied de gezamenlijke inspanningen om de productie en het gebruik van en de handel in drugs te voorkomen en terug te dringen op elkaar af te stemmen en te intensiveren. De partijen komen tevens overeen ernaar te streven de criminaliteit die met deze handel samenhangt te bestrijden, onder meer via internationale organisaties en instanties. Onverminderd andere samenwerkingsmechanisme, komen de partijen overeen dat het coördinatie- en samenwerkingsmechanisme inzake drugs dat door de EU en Latijns-Amerika en het Caribisch gebied gezamenlijk is ingesteld, moet ook voor dit doel worden gebruikt.
 
@@ -588,13 +613,13 @@ De partijen zijn het erover eens dat de samenwerking op dit terrein dient bij te
 
 - g. maatregelen om de handel in drugs terug te dringen, onder meer opleiding met betrekking tot administratieve controlesystemen om te voorkomen dat chemische precursoren verdwijnen, en het onder controle brengen van drugsgerelateerde criminaliteit.
 
-#### Artikel 48. Samenwerking inzake bestrijding van het witwassen van geld en daarmee samenhangende criminaliteit
+##### Artikel 48. Samenwerking inzake bestrijding van het witwassen van geld en daarmee samenhangende criminaliteit
 
 1. De partijen werken samen om te voorkomen dat hun financiële systemen worden gebruikt voor het witwassen van de opbrengst van criminele activiteiten in het algemeen en drugshandel in het bijzonder.
 
 2. De samenwerking omvat administratieve en technische bijstand ten behoeve van het ontwikkelen en uitvoeren van regelgeving en het efficiënte functioneren van geschikte normen en mechanismen. De samenwerking moet het met name mogelijk maken relevante informatie uit te wisselen en passende normen vast te stellen voor het bestrijden van witwassen, die vergelijkbaar zijn met die van de Europese Gemeenschap en de internationale instanties op dit gebied, zoals de Financial Action Task Force (FATF) en de Verenigde Naties. De samenwerking op regionaal niveau wordt aangemoedigd.
 
-#### Artikel 49. Samenwerking inzake migratie
+##### Artikel 49. Samenwerking inzake migratie
 
 1. De partijen bevestigen dat het van belang is migratiestromen tussen hun grondgebieden gezamenlijk te beheren. Om de samenwerking te versterken zullen de partijen een brede dialoog opzetten over alle kwesties in verband met migratie, waaronder illegale migratie, mensensmokkel en -handel, en vluchtelingenstromen. Het thema migratie zou geïntegreerd moeten worden in alle nationale strategieën met betrekking tot de economische en sociale ontwikkeling van de landen van herkomst, doorreis of bestemming van de migranten.
 
@@ -624,7 +649,7 @@ De partijen komen overeen indien gewenst en zo snel mogelijk een overeenkomst te
 
 In dit verband wordt met „partijen" bedoeld: de Gemeenschap, al haar lidstaten en alle Midden-Amerikaanse landen.
 
-#### Artikel 50. Samenwerking inzake de bestrijding van terrorisme
+##### Artikel 50. Samenwerking inzake de bestrijding van terrorisme
 
 1. De partijen bevestigen opnieuw het belang van bestrijding van terrorisme en komen overeen conform internationale overeenkomsten, relevante VN-resoluties en hun eigen wet- en regelgeving samen te werken om terroristische daden te voorkomen en te bestrijden. Zij doen dit in het bijzonder:
 
@@ -636,7 +661,7 @@ In dit verband wordt met „partijen" bedoeld: de Gemeenschap, al haar lidstaten
 
 ## TITEL IV. ALGEMENE EN SLOTBEPALINGEN
 
-#### Artikel 51. Methoden
+##### Artikel 51. Methoden
 
 1. Teneinde bij te dragen tot de verwezenlijking van de doelstellingen van de samenwerking die bij deze overeenkomst worden ingesteld, verbinden de partijen zich ertoe binnen de grenzen van hun vermogen en via hun eigen kanalen passende middelen, waaronder financiële middelen, ter beschikking te stellen. In dit verband zullen de partijen voor zover mogelijk een meerjarenprogramma goedkeuren en prioriteiten vaststellen, waarbij rekening gehouden wordt met de behoeften en het ontwikkelingsniveau van de Midden-Amerikaanse landen.
 
@@ -644,7 +669,7 @@ In dit verband wordt met „partijen" bedoeld: de Gemeenschap, al haar lidstaten
 
 3. De Midden-Amerikaanse landen zullen faciliteiten en garanties verstrekken aan deskundigen uit de Europese Gemeenschap en samenwerkingsactiviteiten vrijstellen van invoerheffingen, overeenkomstig de raamovereenkomsten tussen de Europese Gemeenschap en ieder Midden-Amerikaans land.
 
-#### Artikel 52. Institutioneel kader
+##### Artikel 52. Institutioneel kader
 
 1. De partijen handhaven het Gemengd Comité dat bij de samenwerkingsovereenkomst met Midden-Amerika van 1985 is ingesteld en ook bij de Raamovereenkomst inzake samenwerking van 1993 is gehandhaafd.
 
@@ -656,11 +681,11 @@ In dit verband wordt met „partijen" bedoeld: de Gemeenschap, al haar lidstaten
 
 5. De partijen moedigen het Europees Parlement en het Midden-Amerikaanse parlement (Parlacen) aan een interparlementair comité in te stellen in het kader van deze overeenkomst en in overeenstemming met hun oprichtingsverdragen.
 
-#### Artikel 53. Definitie van de partijen
+##### Artikel 53. Definitie van de partijen
 
 Voor de toepassing van deze overeenkomst wordt onder „partijen" verstaan: enerzijds de Europese Gemeenschap, haar lidstaten dan wel de Europese Gemeenschap en haar lidstaten, binnen de grenzen van hun respectieve bevoegdheden zoals die voortvloeien uit het Verdrag tot oprichting van de Europese Gemeenschap, en anderzijds de Republiek Costa Rica, de Republiek El Salvador, de Republiek Guatemala, de Republiek Honduras, de Republiek Nicaragua en de Republiek Panama, binnen de grenzen van hun respectieve bevoegdheden. De overeenkomst is ook van toepassing op maatregelen van staten, regionale of plaatselijke autoriteiten op het grondgebied van de partijen.
 
-#### Artikel 54. Inwerkingtreding
+##### Artikel 54. Inwerkingtreding
 
 1. Deze overeenkomst treedt in werking op de eerste dag van de maand volgende op die waarin de partijen elkaar mededelen dat de voor de inwerkingtreding vereiste procedures zijn voltooid.
 
@@ -668,13 +693,13 @@ Voor de toepassing van deze overeenkomst wordt onder „partijen" verstaan: ener
 
 3. Vanaf de datum van inwerkingtreding van deze overeenkomst overeenkomstig lid 1 komt deze overeenkomst in de plaats van de Raamovereenkomst inzake samenwerking van 1993.
 
-#### Artikel 55. Duur
+##### Artikel 55. Duur
 
 1. Deze overeenkomst is van onbeperkte duur. In dit verband en zoals bepaald in artikel 2, lid 3, van deze overeenkomst, wordt de verklaring van Madrid van 17 mei 2002 ingetrokken.
 
 2. Beide partijen kunnen deze overeenkomst door schriftelijke kennisgeving aan de andere partij opzeggen. De overeenkomst verstrijkt zes maanden na de datum van genoemde kennisgeving.
 
-#### Artikel 56. Naleving van verplichtingen
+##### Artikel 56. Naleving van verplichtingen
 
 1. De partijen treffen alle algemene en bijzondere maatregelen die vereist zijn om aan hun verplichtingen krachtens deze overeenkomst te voldoen, en zien erop toe dat deze in overeenstemming zijn met de doelstellingen die in deze overeenkomst zijn neergelegd.
 
@@ -688,7 +713,7 @@ In eerste instantie moet de keuze vallen op de maatregelen die de werking van de
 
 - b. schending door de andere partij van de essentiële elementen van deze overeenkomst als bedoeld in artikel 1, lid 1. De andere partij kan verzoeken dat binnen vijftien dagen een spoedbijeenkomst tussen de partijen wordt belegd voor een grondig onderzoek van de situatie, teneinde een voor de partijen aanvaardbare oplossing te vinden.
 
-#### Artikel 57. Toekomstige ontwikkelingen
+##### Artikel 57. Toekomstige ontwikkelingen
 
 1. In het licht van de ervaring die bij de uitvoering van deze overeenkomst is opgedaan, kunnen de partijen gezamenlijk besluiten de overeenkomst uit te breiden teneinde het toepassingsgebied te verruimen en aan te vullen, overeenkomstig hun respectieve wetgeving, door overeenkomsten te sluiten inzake specifieke sectoren of activiteiten.
 
@@ -696,14 +721,14 @@ In eerste instantie moet de keuze vallen op de maatregelen die de werking van de
 
 3. Wat de tenuitvoerlegging van deze overeenkomst betreft, kan elke partij voorstellen doen tot uitbreiding van de samenwerking op alle gebieden, rekening houdende met de ervaring die bij de uitvoering is opgedaan.
 
-#### Artikel 58. Gegevensbescherming
+##### Artikel 58. Gegevensbescherming
 
 De partijen komen overeen een hoge mate van bescherming te geven aan de verwerking van persoonsgegevens en andere gegevens, overeenkomstig de strengste internationale normen.
 
-#### Artikel 59. Territoriale toepassing
+##### Artikel 59. Territoriale toepassing
 
 Deze overeenkomst is enerzijds van toepassing in de gebieden waar het Verdrag tot oprichting van de Europese Gemeenschap van toepassing is en op de in dit Verdrag neergelegde voorwaarden en anderzijds op het grondgebied van de Republiek Costa Rica, de Republiek El Salvador, de Republiek Guatemala, de Republiek Honduras, de Republiek Nicaragua en de Republiek Panama.
 
-#### Artikel 60. Authentieke teksten
+##### Artikel 60. Authentieke teksten
 
 Deze overeenkomst is opgesteld in twee exemplaren in de Duitse, de Deense, de Spaanse, de Franse, de Finse, de Griekse, de Nederlandse, de Engelse, de Italiaanse, de Portugese en de Zweedse taal, zijnde alle teksten gelijkelijk authentiek.

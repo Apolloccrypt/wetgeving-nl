@@ -1,13 +1,39 @@
 ---
-title: "Besluit verkeersveiligheid weginfrastructuur"
+title: "Besluit van 24 mei 2023 ter implementatie van richtlijn 2008/96/EG van het Europees Parlement en de Raad van de Europese Unie van 19 november 2008 betreffende het beheer van de verkeersveiligheid van weginfrastructuur (PbEU 2008, L 319) alsmede richtlijn (EU) 2019/1936 van het Europees Parlement en de Raad van de Europese Unie van 23 oktober 2019 tot wijziging van richtlijn 2008/96/EG betreffende het beheer van de verkeersveiligheid van weginfrastructuur (PbEU 2019, L 305) (Besluit verkeersveiligheid weginfrastructuur)"
 identifier: "BWBR0048193"
-categorie: "Verkeer"
-publicatiedatum: 2023-06-01
-laatste_update: 2023-06-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048193"
+country: "nl"
+rank: "amvb"
+publication_date: "2023-06-01"
+last_updated: "2023-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048193"
+soort: "AMvB"
+stam_id: "16753183"
+version_id: "29421662"
+internal_id: "C42068591"
+label_id: "16669284"
+dtd_version: "2.0"
+original_entry_into_force: "2023-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048193/2023-06-01/0"
+intitule_bron: "Stb.2023-171"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-05-24"
+intitule_published: "2023-05-26"
+intitule_in_force: "2023-05-26"
+intitule_status: "goed"
+original_publication: "Stb.2023-171"
+original_signed_date: "2023-05-24"
+original_published_date: "2023-05-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2023-171"
+entry_into_force_date: "2023-06-01"
+jci_1_3: "jci1.3:c:BWBR0048193&z=2023-06-01&g=2023-06-01"
+jci_1_0: "1.0:c:BWBR0048193&g=2023-06-01"
+citeertitel_status: "officieel"
+short_title: "Besluit verkeersveiligheid weginfrastructuur"
+signed_date: "2023-05-24"
+entry_into_force: "2023-06-01"
 ---
-
 # Besluit van 24 mei 2023 ter implementatie van richtlijn 2008/96/EG van het Europees Parlement en de Raad van de Europese Unie van 19 november 2008 betreffende het beheer van de verkeersveiligheid van weginfrastructuur (PbEU 2008, L 319) alsmede richtlijn (EU) 2019/1936 van het Europees Parlement en de Raad van de Europese Unie van 23 oktober 2019 tot wijziging van richtlijn 2008/96/EG betreffende het beheer van de verkeersveiligheid van weginfrastructuur (PbEU 2019, L 305) (Besluit verkeersveiligheid weginfrastructuur)
 
 Op de voordracht van Onze Minister van Infrastructuur en Waterstaat van 16 november 2022, nr. IENW/BSK-2022/247658, Hoofddirectie Bestuurlijke en Juridische Zaken;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -58,7 +84,7 @@ In dit besluit wordt verstaan onder:
 
 - **wet:** [Wegenverkeerswet 1994](onbekend).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Dit besluit is van toepassing op:
 
@@ -76,7 +102,7 @@ In dit besluit wordt verstaan onder:
 
 4. Indien de aanleg of wijziging van een weg gevolgen heeft voor de lijst van wegen waarop dit besluit van toepassing is, deelt het voor die weg aangewezen bestuursorgaan als bedoeld in [artikel 18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=18) dit mee aan Onze Minister op de door Onze Minister aangegeven wijze.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De beheerder van een weg voert in elk geval de volgende procedures uit:
 
@@ -98,7 +124,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 2. Verkeersveiligheidseffectbeoordeling
 
-#### Artikel 4
+##### Artikel 4
 
 1. De beheerder van een weg voert een verkeersveiligheidseffectbeoordeling uit in de fase van de voorbereiding van een weginfrastructuurproject waarin de keuze voor het voorgenomen ontwerpalternatief tot stand komt.
 
@@ -118,7 +144,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 3. Verkeersveiligheidsaudit
 
-#### Artikel 5
+##### Artikel 5
 
 1. De beheerder van een weg laat een verkeersveiligheidsaudit voor een weginfrastructuurproject uitvoeren door een verkeersveiligheidsauditor.
 
@@ -144,7 +170,7 @@ In dit besluit wordt verstaan onder:
 
 5. Een verkeersveiligheidsauditor is gedurende de verkeersveiligheidsaudit niet betrokken bij het ontwerp of de exploitatie van een weginfrastructuurproject waarop een door hem uitgevoerde verkeersveiligheidsaudit betrekking heeft.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een verkeersveiligheidsauditor beschikt over een vakbekwaamheidscertificaat VVA.
 
@@ -156,7 +182,7 @@ In dit besluit wordt verstaan onder:
 
 5. De functie van verkeersveiligheidsauditor kan tevens worden vervuld door de persoon die voldoet aan de krachtens [artikel 33, eerste lid, van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=33) voor het verkrijgen van erkenning van EU-kwalificaties van voor de functie van verkeersveiligheidsauditor gestelde regels met betrekking tot het doorlopen van een aanpassingsstage of het afleggen van een proeve van bekwaamheid en zolang deze persoon blijkt geeft over voldoende kennis en vakbekwaamheid te beschikken om de functie van verkeersveiligheidsauditor te kunnen blijven uitoefenen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De opleiding tot verkeersveiligheidsauditor is gericht op het verwerven van gedegen en voldoende actuele kennis van ten minste:
 
@@ -174,7 +200,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 4. Verkeersveiligheidsbeoordeling
 
-#### Artikel 8
+##### Artikel 8
 
 1. De beheerder van een weg voert ten minste eens in de vijf jaar een verkeersveiligheidsbeoordeling uit. De eerste verkeersveiligheidsbeoordeling van het wegennet is uiterlijk vóór 1 januari 2025 uitgevoerd.
 
@@ -194,7 +220,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 5. Periodieke verkeersveiligheidsinspectie
 
-#### Artikel 9
+##### Artikel 9
 
 1. De beheerder van een weg voert ten minste eens in de vijf jaar een periodieke verkeersveiligheidsinspectie uit.
 
@@ -204,7 +230,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 6. Vervolgactie
 
-#### Artikel 10
+##### Artikel 10
 
 1. De beheerder van een weg beslist op basis van de resultaten van een procedure als bedoeld in [artikel 3, eerste lid, onderdeel c, d of f](https://wetten.overheid.nl/jci1.3:c:BWBR0048193&paragraaf=1&artikel=3&z=2023-06-01&g=2023-06-01), zo spoedig mogelijk of het uitvoeren van een gerichte verkeersveiligheidsinspectie dan wel het direct treffen van verbeteringsmaatregelen nodig is.
 
@@ -224,7 +250,7 @@ In dit besluit wordt verstaan onder:
 
 7. De beheerder van een weg stelt een actieplan met risicoprioritering op aan de hand waarvan hij de uitvoering van de verbeteringsmaatregelen kan monitoren.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Een bijzondere verkeersveiligheidsinspecteur beschikt over een vakbekwaamheidscertificaat G-VVI of een vakbekwaamheidscertificaat VVA.
 
@@ -248,7 +274,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 7. Ongevalsverslag
 
-#### Artikel 12
+##### Artikel 12
 
 1. De beheerder van een weg stelt een ongevalsverslag op na elk dodelijk ongeval op een weg.
 
@@ -258,7 +284,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 8. Tunnel
 
-#### Artikel 13
+##### Artikel 13
 
 1. De beheerder van een weg in een tunnel als bedoeld in [artikel 2, eerste lid, van Wet aanvullende regels veiligheid wegtunnels](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&artikel=2), die een procedure als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048193&paragraaf=1&artikel=3&z=2023-06-01&g=2023-06-01), uitvoert in die tunnel, deelt de resultaten van deze procedure zo spoedig mogelijk mee aan de veiligheidsbeambte.
 
@@ -266,7 +292,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 9. Overgangs- en slotbepalingen
 
-#### Artikel 14
+##### Artikel 14
 
 1. De beheerder van een weg deelt uiterlijk op 1 juni 2023 schriftelijk aan Onze Minister mee op welke wegen binnen zijn beheergebied dit besluit van toepassing is.
 
@@ -290,7 +316,7 @@ In dit besluit wordt verstaan onder:
 
 7. Op de bekendmaking van de startopdracht is [artikel 3:42 van de Algemene wet bestuursrech](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:42)t van toepassing.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Dit besluit treedt in werking met ingang van 1 juni 2023.
 

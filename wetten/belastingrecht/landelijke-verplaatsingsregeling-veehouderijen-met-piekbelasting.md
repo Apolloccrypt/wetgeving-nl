@@ -1,13 +1,39 @@
 ---
-title: "Landelijke verplaatsingsregeling veehouderijen met piekbelasting"
+title: "Regeling van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur van 28 augustus 2024, nr. WJZ/ 26374198, tot vaststelling van een regeling voor de verstrekking van subsidie voor het verplaatsen van veehouderijen met piekbelasting op natuurgebieden (Landelijke verplaatsingsregeling veehouderijen met piekbelasting)"
 identifier: "BWBR0050183"
-categorie: "Belastingrecht"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050183"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050183"
+soort: "ministeriele-regeling"
+stam_id: "17212873"
+version_id: "30315422"
+internal_id: "C43488141"
+label_id: "17119204"
+dtd_version: "2.0"
+original_entry_into_force: "2024-09-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050183/2025-07-01/0"
+intitule_bron: "Stcrt.2024-28636"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-08-28"
+intitule_published: "2024-09-02"
+intitule_in_force: "2024-09-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-28636"
+original_signed_date: "2024-08-28"
+original_published_date: "2024-09-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-28636"
+entry_into_force_date: "2024-09-03"
+jci_1_3: "jci1.3:c:BWBR0050183&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0050183&g=2025-07-01"
+citeertitel_status: "officieel"
+short_title: "Landelijke verplaatsingsregeling veehouderijen met piekbelasting"
+signed_date: "2024-08-28"
+entry_into_force: "2024-09-03"
 ---
-
 # Regeling van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur van 28 augustus 2024, nr. WJZ/ 26374198, tot vaststelling van een regeling voor de verstrekking van subsidie voor het verplaatsen van veehouderijen met piekbelasting op natuurgebieden (Landelijke verplaatsingsregeling veehouderijen met piekbelasting)
 
 ### Hoofdstuk 1. Algemeen
@@ -16,7 +42,7 @@ bron: "https://wetten.overheid.nl/BWBR0050183"
 
 ### Hoofdstuk 3. Bedrijfsverplaatsing
 
-#### Artikel 3.1. Begripsomschrijvingen
+##### Artikel 3.1. Begripsomschrijvingen
 
 In dit hoofdstuk wordt verstaan onder:
 
@@ -24,7 +50,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 - –. **vervanging bestaand bouwwerk:** vervanging van een bouwwerk of een deel daarvan door een ander bouwwerk of een deel daarvan waarbij het doel, de functie en de uitvoering van het betreffende bouwwerk gelijkwaardig blijft.
 
-#### Artikel 3.2. Subsidiabele activiteiten
+##### Artikel 3.2. Subsidiabele activiteiten
 
 De minister kan een veehouderijonderneming op aanvraag subsidie verstrekken voor:
 
@@ -32,7 +58,7 @@ De minister kan een veehouderijonderneming op aanvraag subsidie verstrekken voor
 
 - b. investeringen op de hervestigingslocatie in verband met de in onderdeel a bedoelde verplaatsing van de veehouderijonderneming.
 
-#### Artikel 3.3. Vereisten hervestigingslocatie
+##### Artikel 3.3. Vereisten hervestigingslocatie
 
 1. De aanvrager vangt binnen vierentwintig maanden na de datum van de beschikking tot subsidieverlening de veehouderijonderneming aan op een door hem gekozen hervestigingslocatie.
 
@@ -56,7 +82,7 @@ De minister kan een veehouderijonderneming op aanvraag subsidie verstrekken voor
 
 5. Indien de hervestigingslocatie zich bevindt buiten het grondgebied van de lidstaat Nederland, zijn het derde lid, onderdeel a, en het vierde lid, onderdeel c, niet van toepassing.
 
-#### Artikel 3.4. Vereisten te verlaten veehouderijlocatie
+##### Artikel 3.4. Vereisten te verlaten veehouderijlocatie
 
 1. Er is sprake van een verplaatsing van een veehouderijonderneming als bedoeld in [artikel 3.2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0050183&hoofdstuk=3&artikel=3.2&z=2025-07-01&g=2025-07-01), indien de veehouderijonderneming aanvangt als bedoeld in [artikel 3.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050183&hoofdstuk=3&artikel=3.3&z=2025-07-01&g=2025-07-01), op een hervestigingslocatie, waarbij de te verlaten veehouderijlocatie wordt gesloten.
 
@@ -92,13 +118,13 @@ De minister kan een veehouderijonderneming op aanvraag subsidie verstrekken voor
 
 3. De minister kan ontheffing verlenen van het vereiste, bedoeld in het tweede lid, onderdeel h, voor zover de veehouder de bouwwerken langdurig gaat gebruiken voor andere activiteiten dan voor de veehouderijonderneming, mits het bevoegd gezag op grond van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) binnen twaalf maanden na aanvang op de hervestigingslocatie met dat gebruik heeft ingestemd.
 
-#### Artikel 3.5. Subsidieplafond
+##### Artikel 3.5. Subsidieplafond
 
 1. Het subsidieplafond voor hoofdstuk 3 bedraagt € 90.000.000.
 
 2. Indien blijkt dat het totale bedrag van de te verlenen subsidies voor de subsidiabele activiteiten, bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0050183&hoofdstuk=2&artikel=2.2&z=2025-07-01&g=2025-07-01), lager is dan het daarvoor vastgestelde subsidieplafond, wordt het overblijvende bedrag zo nodig aan het subsidieplafond toegevoegd voor de subsidiabele activiteiten, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0050183&hoofdstuk=3&artikel=3.2&z=2025-07-01&g=2025-07-01).
 
-#### Artikel 3.6. Subsidiecomponenten
+##### Artikel 3.6. Subsidiecomponenten
 
 1. De subsidie omvat:
 
@@ -118,7 +144,7 @@ De minister kan een veehouderijonderneming op aanvraag subsidie verstrekken voor
 
 2. De subsidie, bedoeld in het eerste lid, bedraagt ten minste € 25.000 per aanvraag.
 
-#### Artikel 3.7. Bijdrage demonteer-, verhuis-, en opbouwkosten
+##### Artikel 3.7. Bijdrage demonteer-, verhuis-, en opbouwkosten
 
 1. De in [artikel 3.6, eerste lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0050183&hoofdstuk=3&artikel=3.6&z=2025-07-01&g=2025-07-01), bedoelde bijdrage bedraagt 100 procent van de werkelijke kosten:
 
@@ -130,7 +156,7 @@ De minister kan een veehouderijonderneming op aanvraag subsidie verstrekken voor
 
 3. Onder de kosten voor het verhuizen, bedoeld in het eerste lid, onderdelen a en b, wordt mede verstaan de kosten voor de opslag en stalling van bouwwerken, voorzieningen, tractoren, landbouwwerktuigen of landbouwhuisdieren, voor de maximale duur van 31 dagen, totdat zij kunnen worden verhuisd naar, en in gebruik kunnen worden genomen op, de hervestigingslocatie.
 
-#### Artikel 3.8. Bijdrage overnemen bestaande bouwwerken en vervangen bouwwerken op de hervestigingslocatie
+##### Artikel 3.8. Bijdrage overnemen bestaande bouwwerken en vervangen bouwwerken op de hervestigingslocatie
 
 1. De in [artikel 3.6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0050183&hoofdstuk=3&artikel=3.6&z=2025-07-01&g=2025-07-01), bedoelde bijdrage voor het overnemen van bestaande bouwwerken op de hervestigingslocatie en het vervangen van bouwwerken op de hervestigingslocatie wordt bepaald door de som van:
 
@@ -168,7 +194,7 @@ tot maximaal de vervangingswaarde van de op de te verlaten veehouderijlocatie aa
 
 8. Een door een taxateur opgesteld taxatierapport van de in het eerste lid bedoelde marktwaarde van de op de hervestigingslocatie aanwezige bouwwerken, erfgrond, cultuurgrond en bedrijfswoning of van de in het eerste lid bedoelde vervangingswaarde van de bouwwerken op de te verlaten veehouderijlocatie, voldoet aan de eisen die zijn opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050183&bijlage=2&z=2025-07-01&g=2025-07-01) bij de regeling.
 
-#### Artikel 3.9. Bijdrage sloopkosten ten behoeve van het terugbrengen van de te verlaten veehouderijlocatie naar een uit milieuoogpunt bevredigende toestand
+##### Artikel 3.9. Bijdrage sloopkosten ten behoeve van het terugbrengen van de te verlaten veehouderijlocatie naar een uit milieuoogpunt bevredigende toestand
 
 1. De in [artikel 3.6, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0050183&hoofdstuk=3&artikel=3.6&z=2025-07-01&g=2025-07-01), bedoelde bijdrage bedraagt 100 procent van de werkelijke kosten voor het slopen en verwijderen van de op de te verlaten veehouderijlocatie aanwezige bouwwerken, tot een maximum van € 45,– per vierkante meter, van het totaal van de te slopen en te verwijderen bouwwerken.
 
@@ -178,7 +204,7 @@ tot maximaal de vervangingswaarde van de op de te verlaten veehouderijlocatie aa
 
 4. Onder de in het eerste lid bedoelde werkelijke kosten voor het slopen wordt tevens begrepen de leges voor vergunningen en planologische procedures voor de te verlaten veehouderijlocatie, alsmede de kosten voor het laten uitvoeren van een flora- en fauna-onderzoek.
 
-#### Artikel 3.10. Bijdrage investeringen die leiden tot modernisering van de bouwwerken of voorzieningen
+##### Artikel 3.10. Bijdrage investeringen die leiden tot modernisering van de bouwwerken of voorzieningen
 
 1. De in [artikel 3.6, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0050183&hoofdstuk=3&artikel=3.6&z=2025-07-01&g=2025-07-01), bedoelde bijdrage ten behoeve van een investering die leidt tot modernisering van de bouwwerken of voorzieningen in verband met verplaatsing van de veehouderijonderneming naar een hervestigingslocatie, bedraagt 65 procent van de subsidiabele kosten, tot een maximum van € 100.000 per subsidieaanvrager.
 
@@ -188,7 +214,7 @@ tot maximaal de vervangingswaarde van de op de te verlaten veehouderijlocatie aa
 
 4. Voor een bijdrage ten behoeve van een investering die leidt tot modernisering als bedoeld in het eerste lid komen in aanmerking de investeringen, bedoeld in [paragraaf 2a, onderdeel 2.2, van de bijlage bij de artikelen 1a en 2 van de Aanwijzingsregeling willekeurige afschrijving en investeringsaftrek milieu-investeringen 2009](onbekend).
 
-#### Artikel 3.11. Bijdrage kosten inhuur deskundigen die direct verbonden zijn met de uitvoering van de bedrijfsverplaatsing
+##### Artikel 3.11. Bijdrage kosten inhuur deskundigen die direct verbonden zijn met de uitvoering van de bedrijfsverplaatsing
 
 1. De in [artikel 3.6, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0050183&hoofdstuk=3&artikel=3.6&z=2025-07-01&g=2025-07-01), bedoelde bijdrage bedraagt 95 procent van de subsidiabele kosten.
 
@@ -210,7 +236,7 @@ tot maximaal de vervangingswaarde van de op de te verlaten veehouderijlocatie aa
 
 - c. niet behoort tot de gewone bedrijfsuitgaven van de veehouderijonderneming.
 
-#### Artikel 3.12. Niet-subsidiabele kosten
+##### Artikel 3.12. Niet-subsidiabele kosten
 
 1. In afwijking van [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050183&hoofdstuk=3&artikel=3.6&z=2025-07-01&g=2025-07-01), komen de volgende kosten in ieder geval niet in aanmerking voor subsidie:
 
@@ -226,7 +252,7 @@ tot maximaal de vervangingswaarde van de op de te verlaten veehouderijlocatie aa
 
 2. In aanvulling op het eerste lid, komen de kosten, bedoeld in [artikel 3.11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050183&hoofdstuk=3&artikel=3.11&z=2025-07-01&g=2025-07-01), niet in aanmerking voor subsidie, indien er ten aanzien van de aanvrager een subsidie is verstrekt op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050183&hoofdstuk=2&z=2025-07-01&g=2025-07-01) van deze regeling voor dezelfde kosten.
 
-#### Artikel 3.13. Realisatietermijn
+##### Artikel 3.13. Realisatietermijn
 
 1. De op grond van dit hoofdstuk gesubsidieerde activiteiten worden uitgevoerd binnen zesendertig maanden na de datum van de beschikking tot subsidieverlening.
 
@@ -234,13 +260,13 @@ tot maximaal de vervangingswaarde van de op de te verlaten veehouderijlocatie aa
 
 3. De op grond van dit hoofdstuk gesubsidieerde activiteiten worden voor het indienen van een aanvraag om subsidievaststelling door de subsidieontvanger voltooid.
 
-#### Artikel 3.14. Openstellingsperiode
+##### Artikel 3.14. Openstellingsperiode
 
 1. Een aanvraag kan worden ingediend in de periode van 6 januari 2025 tot en met 30 november 2027.
 
 2. Aanvragen kunnen worden ingediend vanaf 09.00 uur op de in het eerste lid genoemde begindatum en zijn tijdig ingediend indien zij op de in het eerste lid genoemde einddatum vóór 17.00 uur zijn ontvangen.
 
-#### Artikel 3.15. Informatieverplichtingen
+##### Artikel 3.15. Informatieverplichtingen
 
 1. Onverminderd [artikel 1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0050183&hoofdstuk=1&artikel=1.6&z=2025-07-01&g=2025-07-01) bevat de aanvraag een opgave van de voor de veehouderijonderneming op de te verlaten veehouderijlocatie gebruikte bouwwerken waarbij de productiecapaciteit van deze bouwwerken wordt uitgedrukt in grootvee-eenheden.
 
@@ -278,7 +304,7 @@ tot maximaal de vervangingswaarde van de op de te verlaten veehouderijlocatie aa
 
 4. Onverminderd het eerste, tweede en derde lid bevat een aanvraag tot subsidieverlening, wanneer de subsidie wordt aangevraagd door een jonge landbouwer als bedoeld in [artikel 3.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050183&hoofdstuk=3&artikel=3.10&z=2025-07-01&g=2025-07-01), de notariële akte van overdracht van aandelen of van de oprichting van de besloten vennootschap en het aandelenregister of de door alle maten getekende maatschapsakte met vermelding van alle maten.
 
-#### Artikel 3.16. Fasering sluiting van de te verlaten veehouderijlocatie
+##### Artikel 3.16. Fasering sluiting van de te verlaten veehouderijlocatie
 
 1. De subsidieontvanger voldoet aan:
 
@@ -292,7 +318,7 @@ tot maximaal de vervangingswaarde van de op de te verlaten veehouderijlocatie aa
 
 3. Het afbreken en verwijderen van de bouwwerken, bedoeld in [artikel 3.4, tweede lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0050183&hoofdstuk=3&artikel=3.4&z=2025-07-01&g=2025-07-01), vindt niet eerder plaats dan nadat de minister heeft geconstateerd dat uitvoering is gegeven aan de in artikel 3.4, tweede lid, onderdelen a en b, bedoelde vereisten.
 
-#### Artikel 3.17. Algemene verplichtingen subsidieontvanger
+##### Artikel 3.17. Algemene verplichtingen subsidieontvanger
 
 1. Onverminderd [artikel 1.10](https://wetten.overheid.nl/jci1.3:c:BWBR0050183&hoofdstuk=1&artikel=1.10&z=2025-07-01&g=2025-07-01) dient de subsidieontvanger jaarlijks, totdat de aanvraag tot subsidievaststelling wordt ingediend, een tussenrapportage in bij de minister, die informatie bevat over de uitvoering van de in [artikel 3.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050183&hoofdstuk=3&artikel=3.4&z=2025-07-01&g=2025-07-01), bedoelde vereisten.
 
@@ -328,7 +354,7 @@ tot maximaal de vervangingswaarde van de op de te verlaten veehouderijlocatie aa
 
 9. De subsidieontvanger beschikt over de voor de hervestigingslocatie benodigde vergunningen en toestemmingen om zijn veehouderijonderneming op de hervestigingslocatie te kunnen aanvangen.
 
-#### Artikel 3.18. Gegevensverwerking
+##### Artikel 3.18. Gegevensverwerking
 
 1. De minister kan met het oog op de uitvoering van deze regeling gegevens over aanvragen op grond van deze regeling verstrekken aan het bevoegd gezag, bedoeld in [artikel 3.4, tweede lid, onderdelen c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0050183&hoofdstuk=3&artikel=3.4&z=2025-07-01&g=2025-07-01).
 
@@ -338,13 +364,13 @@ tot maximaal de vervangingswaarde van de op de te verlaten veehouderijlocatie aa
 
 - b. de toepassing van [artikel 20.1, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=20.1), de [artikelen 11.68](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=11.68), [11.69](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=11.69), [11.69a](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=11.69a), [11.69c](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=11.69c), [12.26b](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=12.26b) en [12.26c van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=12.26c) en de [artikelen 10.36dc](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=10.36dc) en [15.5 van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=15.5).
 
-#### Artikel 3.19. Bevoorschotting
+##### Artikel 3.19. Bevoorschotting
 
 1. De minister verstrekt de subsidieontvanger op aanvraag uiterlijk zes weken na het ontvangen van de onherroepelijke overeenkomst inzake de overname van de door de veehouder gekozen hervestigingslocatie, een voorschot van 60 procent van het subsidiebedrag.
 
 2. De minister verstrekt de subsidieontvanger een voorschot van 30 procent van het subsidiebedrag uiterlijk zes weken na het ontvangen van de in [artikel 3.17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050183&hoofdstuk=3&artikel=3.17&z=2025-07-01&g=2025-07-01), genoemde bescheiden.
 
-#### Artikel 3.20. Aanvraag subsidievaststelling
+##### Artikel 3.20. Aanvraag subsidievaststelling
 
 1. De aanvraag om subsidievaststelling wordt uiterlijk dertien weken na voltooiing van de op grond van dit hoofdstuk gesubsidieerde activiteiten ingediend.
 
@@ -370,7 +396,7 @@ tot maximaal de vervangingswaarde van de op de te verlaten veehouderijlocatie aa
 
 - e. voor zover de in het tweede lid genoemde gegevens zijn opgesteld in een andere taal dan het Nederlands, omdat de hervestigingslocatie is gelegen in een andere lidstaat van de Europese Unie dan Nederland, dienen ze voorzien te zijn van een door een beëdigd vertaler opgestelde vertaling in het Nederlands.
 
-#### Artikel 3.21. Staatssteun
+##### Artikel 3.21. Staatssteun
 
 1. De subsidie, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0050183&hoofdstuk=3&artikel=3.2&z=2025-07-01&g=2025-07-01), bevat staatssteun.
 
@@ -408,7 +434,7 @@ Gelet op [artikel 3 van de Kaderwet EZK- en LNV-subsidies](https://wetten.overhe
 
 Besluit:
 
-#### Artikel 1.1. Begripsomschrijvingen
+##### Artikel 1.1. Begripsomschrijvingen
 
 In deze regeling wordt verstaan onder:
 
@@ -468,11 +494,11 @@ In deze regeling wordt verstaan onder:
 
 - –. **voorziening:** roerende zaak die volgens de normale agrarische praktijk noodzakelijk is voor de voortzetting van de agrarische bedrijfsvoering van een veehouderijonderneming, waarop fiscaal afgeschreven kan worden, met uitzondering van een landbouwwerktuig en een tractor.
 
-#### Artikel 1.2. Doelstelling
+##### Artikel 1.2. Doelstelling
 
 Deze regeling heeft als doel om in het licht van de instandhoudingsdoelstellingen voor overbelaste Natura 2000-gebieden de door veehouderijlocaties veroorzaakte stikstofdepositie op die gebieden te verlagen.
 
-#### Artikel 1.3. Bepaling stikstofvracht
+##### Artikel 1.3. Bepaling stikstofvracht
 
 1. De stikstofvracht wordt bepaald met gebruik van de meest actuele versie van AERIUS Check.
 
@@ -490,11 +516,11 @@ Deze regeling heeft als doel om in het licht van de instandhoudingsdoelstellinge
 
 - b. voor het indienen van de aanvraag om subsidie op grond van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050183&hoofdstuk=3&z=2025-07-01&g=2025-07-01) van de regeling gebruik maken van de berekening van de stikstofvracht die heeft plaatsgevonden voor het indienen van de aanvraag om subsidie op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050183&hoofdstuk=2&z=2025-07-01&g=2025-07-01) van de regeling, voor zover de veehouderijonderneming laatstgenoemde subsidie heeft aangevraagd en de beschikking tot subsidievaststelling is verleend.
 
-#### Artikel 1.4. [Kaderbesluit nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796)
+##### Artikel 1.4. [Kaderbesluit nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796)
 
 De [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=6), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=10), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=27), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=36), [36a](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=36a), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=41), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=43), [52 van het Kaderbesluit nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=52) zijn van overeenkomstige toepassing, met dien verstande dat voor ‘dit besluit’ telkens wordt gelezen: ‘deze regeling’.
 
-#### Artikel 1.5. Grondslag
+##### Artikel 1.5. Grondslag
 
 1. De minister kan op aanvraag subsidie verstrekken voor activiteiten op de gebieden, genoemd in [artikel 2a van de Kaderwet EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=2a).
 
@@ -502,7 +528,7 @@ De [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=6), [10
 
 3. Voor subsidieverstrekking op grond van het tweede lid komt niet in aanmerking een veehouderijonderneming die niet voldoet aan de in artikel 2, eerste lid van bijlage I bij de groepsvrijstellingsverordening landbouw vastgestelde criteria.
 
-#### Artikel 1.6. Informatieverplichtingen
+##### Artikel 1.6. Informatieverplichtingen
 
 1. Een aanvraag om subsidie wordt ingediend met gebruikmaking van een middel dat door de minister beschikbaar wordt gesteld.
 
@@ -532,7 +558,7 @@ De [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=6), [10
 
 - e. gegevens over het gemiddeld aantal landbouwhuisdieren dat op de veehouderijlocatie is gehouden in het voor de berekening van de stikstofvracht, bedoeld in [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0050183&hoofdstuk=1&artikel=1.3&z=2025-07-01&g=2025-07-01), gebruikte referentiejaar.
 
-#### Artikel 1.7. Verdeling subsidieplafond
+##### Artikel 1.7. Verdeling subsidieplafond
 
 1. De minister verdeelt het subsidieplafond op volgorde van binnenkomst van de volledige aanvragen.
 
@@ -540,13 +566,13 @@ De [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=6), [10
 
 3. Indien de minister op de dag dat het subsidieplafond wordt bereikt meer dan één aanvraag ontvangt, stelt hij de volgorde van die aanvragen vast door middel van loting.
 
-#### Artikel 1.8. Beslissing op de aanvraag
+##### Artikel 1.8. Beslissing op de aanvraag
 
 1. De minister geeft een beschikking op een aanvraag om subsidie binnen acht weken na ontvangst van de volledige aanvraag.
 
 2. Indien niet binnen de in onderdeel a genoemde termijn kan worden beslist, stelt de minister de aanvrager daarvan in kennis en hij noemt daarbij een redelijke termijn waarbinnen de beslissing wel kan worden genomen.
 
-#### Artikel 1.9. Afwijzingsgronden
+##### Artikel 1.9. Afwijzingsgronden
 
 De minister beslist afwijzend op een aanvraag van een veehouderijonderneming indien:
 
@@ -560,7 +586,7 @@ De minister beslist afwijzend op een aanvraag van een veehouderijonderneming ind
 
 - 2°. ruimte voor stikstofdepositie op een Natura 2000-gebied die voor de te verlaten veehouderijlocatie bestaat of bestond ingevolge de bestaande vergunningen, in het kader van extern salderen geheel of gedeeltelijk ter beschikking stelt of heeft gesteld voor andere activiteiten met het oog op een daarvoor aangevraagde of aan te vragen omgevingsvergunning voor een Natura 2000-activiteit.
 
-#### Artikel 1.10. Algemene verplichtingen subsidieontvanger
+##### Artikel 1.10. Algemene verplichtingen subsidieontvanger
 
 1. Indien de subsidieontvanger voornemens is een of meerdere opdrachten te verstrekken aan één opdrachtnemer, waarbij de totale waarde van de opdrachten hoger zal zijn dan € 25.000, vraagt de subsidieontvanger voorafgaand aan de opdrachtverlening twee vergelijkbare offertes op bij van elkaar onafhankelijke aanbieders.
 
@@ -574,11 +600,11 @@ De minister beslist afwijzend op een aanvraag van een veehouderijonderneming ind
 
 6. In geval van een gerechtelijke procedure wordt de administratie ten minste tien jaar na de datum van de afhandeling van de gerechtelijke procedure bewaard.
 
-#### Artikel 1.11. Gegevensverwerking
+##### Artikel 1.11. Gegevensverwerking
 
 De minister kan voor een beoordeling van de juistheid van de informatie die is verstrekt bij de indiening van aanvragen op grond van deze regeling gebruikmaken van de daarvoor noodzakelijke gegevens die zijn opgenomen in registraties op grond van de [Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054), de [Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250), de [Landbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002252), de [Verordening (EU) 2016/429](32016R0429) van het Europees Parlement en de Raad van 9 maart 2016 (PB EU 2016, L 84) en de Gedelegeerde [verordening (EU) 2019/2035](32019R2035) van de Commissie (Pb EU 2019, L 314).
 
-#### Artikel 1.12. Subsidievaststelling
+##### Artikel 1.12. Subsidievaststelling
 
 1. Een aanvraag om subsidievaststelling wordt ingediend met gebruikmaking van een middel dat door de minister beschikbaar wordt gesteld.
 
@@ -586,25 +612,25 @@ De minister kan voor een beoordeling van de juistheid van de informatie die is v
 
 ### Hoofdstuk 2. Haalbaarheidsonderzoek bedrijfsverplaatsing
 
-#### Artikel 2.1. Begripsomschrijving
+##### Artikel 2.1. Begripsomschrijving
 
 In dit hoofdstuk wordt verstaan onder:
 
 - –. **haalbaarheidsonderzoek bedrijfsverplaatsing:** verrichting van een of meer van de in [artikel 2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050183&hoofdstuk=2&artikel=2.5&z=2025-07-01&g=2025-07-01), genoemde uit te voeren onderzoeken en analyses met als doel de haalbaarheid van de uitvoering van bedrijfsverplaatsing van een veehouderijonderneming naar een hervestigingslocatie als bedoeld in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050183&hoofdstuk=3&z=2025-07-01&g=2025-07-01) van de regeling te bepalen.
 
-#### Artikel 2.2. Subsidiabele activiteiten
+##### Artikel 2.2. Subsidiabele activiteiten
 
 De minister verstrekt op aanvraag subsidie aan een veehouderijonderneming voor het uitvoeren van een haalbaarheidsonderzoek bedrijfsverplaatsing.
 
-#### Artikel 2.3. Subsidieplafond
+##### Artikel 2.3. Subsidieplafond
 
 Het subsidieplafond voor hoofdstuk 2 bedraagt € 15.000.000.
 
-#### Artikel 2.4. Hoogte subsidie
+##### Artikel 2.4. Hoogte subsidie
 
 De subsidie bedraagt 95 procent van de subsidiabele kosten, tot een maximum van € 50.000 per subsidieaanvrager.
 
-#### Artikel 2.5. Subsidiabele kosten
+##### Artikel 2.5. Subsidiabele kosten
 
 1. Als subsidiabele kosten komen in aanmerking de kosten derden die direct verbonden zijn met de uitvoering van een haalbaarheidsonderzoek bedrijfsverplaatsing, bestaande uit de kosten voor de volgende uit te voeren onderzoeken en analyses:
 
@@ -634,7 +660,7 @@ De subsidie bedraagt 95 procent van de subsidiabele kosten, tot een maximum van 
 
 3. De kosten van een haalbaarheidsstudie bedrijfsverplaatsing blijven in aanmerking komen voor subsidiëring, zelfs wanneer op basis van de resultaten daarvan geen uitgaven uit hoofde van de bedrijfsverplaatsing, bedoeld in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050183&hoofdstuk=3&z=2025-07-01&g=2025-07-01) van de regeling, worden verricht.
 
-#### Artikel 2.6. Start- en realisatietermijn
+##### Artikel 2.6. Start- en realisatietermijn
 
 1. Met de uitvoering van de op grond van dit hoofdstuk gesubsidieerde activiteiten wordt gestart binnen drie maanden nadat een beschikking tot subsidieverlening is gegeven.
 
@@ -644,7 +670,7 @@ De subsidie bedraagt 95 procent van de subsidiabele kosten, tot een maximum van 
 
 4. De op grond van dit hoofdstuk gesubsidieerde activiteiten worden voor het indienen van een aanvraag om subsidievaststelling door de subsidieontvanger voltooid.
 
-#### Artikel 2.7. Afwijzingsgronden
+##### Artikel 2.7. Afwijzingsgronden
 
 Onverminderd [artikel 1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0050183&hoofdstuk=1&artikel=1.9&z=2025-07-01&g=2025-07-01) beslist de minister afwijzend op een aanvraag, voor zover:
 
@@ -654,13 +680,13 @@ Onverminderd [artikel 1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0050183&hoofd
 
 - c. het onderzoek, of onderdelen daarvan, geen betrekking heeft op de haalbaarheid van de bedrijfsverplaatsing van de veehouderijonderneming.
 
-#### Artikel 2.8. Openstellingsperiode
+##### Artikel 2.8. Openstellingsperiode
 
 1. Een aanvraag kan worden ingediend in de periode van 2 december 2024 tot en met 30 mei 2025.
 
 2. Aanvragen kunnen worden ingediend vanaf 09.00 uur op de in het eerste lid genoemde begindatum en zijn tijdig ingediend indien zij op de in het eerste lid genoemde einddatum vóór 17.00 uur zijn ontvangen.
 
-#### Artikel 2.9. Informatieverplichtingen
+##### Artikel 2.9. Informatieverplichtingen
 
 Onverminderd [artikel 1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0050183&hoofdstuk=1&artikel=1.6&z=2025-07-01&g=2025-07-01) bevat een aanvraag om subsidie de volgende gegevens:
 
@@ -668,13 +694,13 @@ Onverminderd [artikel 1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0050183&hoofd
 
 - b. een gespecificeerde begroting die betrekking heeft op de in onderdeel a genoemde uit te voeren onderzoeken en analyses.
 
-#### Artikel 2.10. Algemene verplichtingen subsidieontvanger
+##### Artikel 2.10. Algemene verplichtingen subsidieontvanger
 
 1. Onverminderd [artikel 1.10](https://wetten.overheid.nl/jci1.3:c:BWBR0050183&hoofdstuk=1&artikel=1.10&z=2025-07-01&g=2025-07-01), indien de omvang van de subsidie € 25.000 tot € 50.000 bedraagt, dient de subsidieontvanger twaalf maanden na de datum van de beschikking tot subsidieverlening, een tussenrapportage in bij de minister met gebruikmaking van een door de minister beschikbaar gesteld middel.
 
 2. De tussenrapportage, bedoeld in het eerste lid, bevat informatie over de voortgang in de uitvoering van de op grond van dit hoofdstuk uit te voeren subsidiabele activiteiten.
 
-#### Artikel 2.11. Bevoorschotting
+##### Artikel 2.11. Bevoorschotting
 
 1. De minister verstrekt ambtshalve voorschotten voor de subsidie die nog niet is vastgesteld.
 
@@ -688,7 +714,7 @@ Onverminderd [artikel 1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0050183&hoofd
 
 6. De hoogte van het in het vijfde lid genoemde voorschot bedraagt 100 procent van de maximale hoogte van de subsidie.
 
-#### Artikel 2.12. Aanvraag subsidievaststelling
+##### Artikel 2.12. Aanvraag subsidievaststelling
 
 1. De aanvraag om subsidievaststelling wordt uiterlijk acht weken na voltooiing van de op grond van dit hoofdstuk gesubsidieerde activiteiten ingediend met gebruikmaking van een door de minister beschikbaar gesteld middel.
 
@@ -708,7 +734,7 @@ Onverminderd [artikel 1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0050183&hoofd
 
 - 5°. wat het totale bedrag van de gerealiseerde eigen bijdrage is die met de activiteiten, bedoeld in subonderdeel 1°, gemoeid is.
 
-#### Artikel 2.13. Staatssteun
+##### Artikel 2.13. Staatssteun
 
 1. De subsidie, bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0050183&hoofdstuk=2&artikel=2.2&z=2025-07-01&g=2025-07-01), bevat staatssteun.
 
@@ -730,13 +756,13 @@ Onverminderd [artikel 1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0050183&hoofd
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 4.1. Inwerkingtreding
+##### Artikel 4.1. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt vijf jaren na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met dien verstande dat zij van toepassing blijft op subsidies die voor die datum zijn aangevraagd, verleend of vastgesteld.
 
-#### Artikel 4.2. Citeertitel
+##### Artikel 4.2. Citeertitel
 
 Deze regeling wordt aangehaald als: Landelijke verplaatsingsregeling veehouderijen met piekbelasting.
 

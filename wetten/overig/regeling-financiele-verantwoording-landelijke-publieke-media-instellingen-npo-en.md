@@ -1,32 +1,58 @@
 ---
-title: "Regeling financiële verantwoording landelijke publieke media-instellingen, NPO en Ster 2022"
+title: "Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 19 april 2022, nr. WJZ/30984886 (13746), houdende vaststelling van een nieuw financieel handboek voor de landelijke publieke media-instellingen, de NPO en de Ster (Regeling financiële verantwoording landelijke publieke media-instellingen, NPO en Ster 2022)"
 identifier: "BWBR0046601"
-categorie: "Overig"
-publicatiedatum: 2022-04-30
-laatste_update: 2022-04-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046601"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-04-30"
+last_updated: "2022-04-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046601"
+soort: "ministeriele-regeling"
+stam_id: "16340763"
+version_id: "28583002"
+internal_id: "C40333371"
+label_id: "16265084"
+dtd_version: "2.0"
+original_entry_into_force: "2022-04-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046601/2022-04-30/0"
+intitule_bron: "Stcrt.2022-11333"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-04-19"
+intitule_published: "2022-04-29"
+intitule_in_force: "2022-04-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-11333"
+original_signed_date: "2022-04-19"
+original_published_date: "2022-04-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-11333"
+entry_into_force_date: "2022-04-30"
+jci_1_3: "jci1.3:c:BWBR0046601&z=2022-04-30&g=2022-04-30"
+jci_1_0: "1.0:c:BWBR0046601&g=2022-04-30"
+citeertitel_status: "officieel"
+short_title: "Regeling financiële verantwoording landelijke publieke media-instellingen, NPO en Ster 2022"
+signed_date: "2022-04-19"
+entry_into_force: "2022-04-30"
 ---
-
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 19 april 2022, nr. WJZ/30984886 (13746), houdende vaststelling van een nieuw financieel handboek voor de landelijke publieke media-instellingen, de NPO en de Ster (Regeling financiële verantwoording landelijke publieke media-instellingen, NPO en Ster 2022)
 
 Gelet op [artikel 2.172, derde lid, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.172);
 
 Besluit:
 
-#### Artikel 1. Vaststelling handboek financiële verantwoording
+##### Artikel 1. Vaststelling handboek financiële verantwoording
 
 Op de jaarrekening van de landelijke publieke media-instellingen, de NPO en de Ster is de bij deze regeling gevoegde bijlage van toepassing.
 
-#### Artikel 2. Intrekking oude [Regeling financiële verantwoording](https://wetten.overheid.nl/jci1.3:c:BWBR0044843)
+##### Artikel 2. Intrekking oude [Regeling financiële verantwoording](https://wetten.overheid.nl/jci1.3:c:BWBR0044843)
 
 De [Regeling financiële verantwoording landelijke publieke media-instellingen, NPO en Ster 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044843) wordt ingetrokken, met dien verstande dat die regeling van toepassing blijft op de verantwoording tot en met het boekjaar 2021.
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2022.
 
-#### Artikel 4. Citeertitel
+##### Artikel 4. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling financiële verantwoording landelijke publieke media-instellingen, NPO en Ster 2022.
 

@@ -1,14 +1,37 @@
 ---
-title: "Wijzigingswet Wet op de bezoldiging van de rechterlijke ambtenaren, enz. (wijziging bezoldigingsstructuur)"
+title: "Wet van 4 februari 1994, tot wijziging van de Wet op de bezoldiging van de rechterlijke ambtenaren en enkele andere wetten (wijziging bezoldigingsstructuur)"
 identifier: "BWBR0006451"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 1999-02-17
-laatste_update: 1999-02-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006451"
+country: "nl"
+rank: "wet"
+publication_date: "1999-02-17"
+last_updated: "1999-02-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006451"
+soort: "wet"
+stam_id: "531083"
+version_id: "779722"
+internal_id: "C779721"
+label_id: "515814"
+dtd_version: "2.0"
+original_entry_into_force: "1994-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006451/1999-02-17/0"
+intitule_bron: "Stb.1994-81"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-02-04"
+intitule_status: "goed"
+original_publication: "Stb.1994-81"
+original_signed_date: "1994-02-04"
+original_effect: "nieuwe-regeling"
+original_dossier: "23223"
+entry_into_force_date: "1994-04-01"
+jci_1_3: "jci1.3:c:BWBR0006451&z=1999-02-17&g=1999-02-17"
+jci_1_0: "1.0:c:BWBR0006451&g=1999-02-17"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet Wet op de bezoldiging van de rechterlijke ambtenaren, enz. (wijziging bezoldigingsstructuur)"
+signed_date: "1994-02-04"
+entry_into_force: "1994-04-01"
 ---
-
-# Wijzigingswet Wet op de bezoldiging van de rechterlijke ambtenaren, enz. (wijziging bezoldigingsstructuur)
+# Wet van 4 februari 1994, tot wijziging van de Wet op de bezoldiging van de rechterlijke ambtenaren en enkele andere wetten (wijziging bezoldigingsstructuur)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,71 +39,71 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is de bezoldigingsstruc
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel II
+##### Artikel II
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel III
+##### Artikel III
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel IV
+##### Artikel IV
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel V
+##### Artikel V
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel VI
+##### Artikel VI
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel VII
+##### Artikel VII
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel IX
+##### Artikel IX
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel X
+##### Artikel X
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XI
+##### Artikel XI
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XII
+##### Artikel XII
 
 Wat hun bezoldiging betreft zijn de vice-presidenten van de gerechtshoven die op het tijdstip van inwerkingtreding van deze wet als zodanig zijn benoemd, gelijkgesteld met een coördinerend vice-president.
 
-#### Artikel XIII
+##### Artikel XIII
 
 1. De benoemingen van de ondervoorzitters van de Centrale Raad van Beroep, onderscheidenlijk de vice-voorzitters van het College van Beroep voor het bedrijfsleven, die op het tijdstip van inwerkingtreding van deze wet als zodanig zijn benoemd, worden van rechtswege gewijzigd in een benoeming tot vice-president.
 
 2. Wat hun bezoldiging betreft zijn zij gelijkgesteld met een coördinerend vice-president.
 
-#### Artikel XIV
+##### Artikel XIV
 
 1. De benoemingen van de voorzitter, de leden en de plaatsvervangende leden van de Centrale Raad van Beroep die op het tijdstip van inwerkingtreding van deze wet als zodanig zijn benoemd, worden van rechtswege gewijzigd in een benoeming tot president van, raadsheer in en raadsheer-plaatsvervanger in de Centrale Raad van Beroep.
 
 2. De benoemingen van de voorzitter, de leden en de plaatsvervangende leden van het College van Beroep voor het bedrijfsleven die op het tijdstip van inwerkingtreding van deze wet als zodanig zijn benoemd, worden van rechtswege gewijzigd in een benoeming tot president van, raadsheer in en raadsheer-plaatsvervanger in het College.
 
-#### Artikel XV
+##### Artikel XV
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XVI
+##### Artikel XVI
 
 1. Indien als gevolg van deze wet het salaris, onderscheidenlijk het maximum salaris, van een rechterlijk ambtenaar of een rechterlijk ambtenaar in opleiding op een gelijk of een hoger bedrag wordt bepaald, geschiedt de inpassing in de op grond van deze wet van toepassing zijnde salariscategorie met terugwerkende kracht tot en met 1 juni 1992, onderscheidenlijk tot en met de datum van indiensttreding of de datum van een opvolgende benoeming gelegen na 1 juni 1992.
 
@@ -90,11 +113,11 @@ Bevat wijzigingen in andere regelgeving.
 
 4. Voor de toepassing van het derde lid worden de salarisbedragen waarop de inpassing geschiedt, herleid overeenkomstig de bijlage die bij deze wet behoort.
 
-#### Artikel XVII
+##### Artikel XVII
 
 [Artikel XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0006451&artikel=XVI&z=1999-02-17&g=1999-02-17) is van overeenkomstige toepassing op rechterlijke ambtenaren als bedoeld in artikel 2, tweede en derde lid, van de Wet op de bezoldiging van de rechterlijke ambtenaren, die op het tijdstip van inwerkingtreding van deze wet als zodanig zijn aangewezen en die in aansluiting op hun aanwijzing worden benoemd tot rechterlijk ambtenaar als bedoeld in de artikelen 1 en 1**a** van die wet.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 1. Indien als gevolg van deze wet het salaris van een rechterlijk ambtenaar of een rechterlijk ambtenaar in opleiding op een hoger bedrag is bepaald en aan hem in de periode van 1 januari 1992 tot en met 31 december 1994 ontslag is of wordt verleend en aan hem tegelijkertijd een ouderdomspensioen of een invaliditeitspensioen is of wordt toegekend, wordt aan hem in verband met gederfde pensioenaanspraken een eenmalige uitkering toegekend volgens bij algemene maatregel van bestuur te stellen regels.
 
@@ -104,7 +127,7 @@ Bevat wijzigingen in andere regelgeving.
 
 4. Indien als gevolg van deze wet het salaris van een rechterlijk ambtenaar of een rechterlijk ambtenaar in opleiding aan wie in de periode van 1 juni 1991 tot en met 31 mei 1992 ontslag is verleend en aan wie tegelijkertijd een wachtgeld of een uitkering op grond van de [Uitkeringsregeling 1966](https://wetten.overheid.nl/jci1.3:c:BWBR0002537) is toegekend, op een hoger bedrag is bepaald, wordt aan hem in verband met een te laag vastgesteld wachtgeld of een te laag vastgestelde uitkering op grond van de [Uitkeringsregeling 1966](https://wetten.overheid.nl/jci1.3:c:BWBR0002537) een eenmalige uitkering toegekend volgens bij algemene maatregel van bestuur te stellen regels.
 
-#### Artikel XIX
+##### Artikel XIX
 
 De bijlage, bedoeld in [artikel XVI, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006451&artikel=XVI&z=1999-02-17&g=1999-02-17), wordt als volgt vastgesteld:
 
@@ -202,7 +225,7 @@ Bijlage bij de Wet van 4 februari 1994, Stb. 81, houdende wijziging van de Wet o
 
 A = salaris in guldens per maand met ingang van 1 juni 1992. B = salaris in guldens per maand met ingang van 1 januari 1993. C = salaris in guldens per maand met ingang van 1 april 1993.
 
-#### Artikel XX
+##### Artikel XX
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 

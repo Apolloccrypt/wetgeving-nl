@@ -1,13 +1,38 @@
 ---
 title: "Overeenkomst van 's-Gravenhage betreffende het internationaal depot van tekeningen of modellen van nijverheid van 6 november 1925, herzien te Londen op 2 juni 1934 en te 's-Gravenhage op 28 november 1960"
 identifier: "BWBV0002034"
-categorie: "Internationaal recht"
-publicatiedatum: 1984-08-01
-laatste_update: 1984-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002034"
+country: "nl"
+rank: "verdrag"
+publication_date: "1984-08-01"
+last_updated: "1984-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002034"
+soort: "verdrag"
+stam_id: "10002636493"
+version_id: "10002633762"
+internal_id: "C10006990621"
+label_id: "10002625884"
+dtd_version: "2.0"
+original_entry_into_force: "1984-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002034/1984-08-01/0"
+intitule_bron: "Trb.1961-40"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1979-02-15"
+intitule_published: "1961-05-04"
+intitule_in_force: "1984-08-31"
+intitule_status: "goed"
+original_publication: "Trb.1961-40"
+original_signed_date: "1979-02-15"
+original_published_date: "1961-05-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1961-40"
+entry_into_force_date: "1984-08-01"
+jci_1_3: "jci1.3:c:BWBV0002034&z=1984-08-01&g=1984-08-01"
+jci_1_0: "1.0:c:BWBV0002034&g=1984-08-01"
+citeertitel_status: "redactioneel"
+signed_date: "1979-02-15"
+entry_into_force: "1984-08-01"
 ---
-
 # Overeenkomst van 's-Gravenhage betreffende het internationaal depot van tekeningen of modellen van nijverheid van 6 november 1925, herzien te Londen op 2 juni 1934 en te 's-Gravenhage op 28 november 1960
 
 De Overeenkomstsluitende Staten,
@@ -18,13 +43,13 @@ van mening dat te dien einde de Overeenkomst betreffende het internationaal depo
 
 zijn overeengekomen als volgt:
 
-#### Artikel 1
+##### Artikel 1
 
 1. De Overeenkomstsluitende Staten vormen een bijzondere Unie voor het internationaal depot van tekeningen of modellen van nijverheid.
 
 2. Slechts de Lid-Staten van de Internationale Unie voor de bescherming van de intellectuele eigendom kunnen partij zijn bij deze Overeenkomst.
 
-#### Artikel 2
+##### Artikel 2
 
 In deze Overeenkomst dient te worden verstaan onder:
 
@@ -48,11 +73,11 @@ Staat van oorsprong van een internationaal depot: De Overeenkomstsluitende Staat
 
 Staat waar een nieuwheidsonderzoek wordt ingesteld: Een staat waarvan de nationale wetgeving voorziet in een systeem dat een ambtshalve ingesteld vooronderzoek inhoudt, verricht door de nationale Administratie en gericht op de nieuwheid van alle gedeponeerde tekeningen of modellen.
 
-#### Artikel 3
+##### Artikel 3
 
 De onderdanen van de Overeenkomstsluitende Staten of de personen die, hoewel zij geen onderdaan van een dezer staten zijn, hun woonplaats of daadwerkelijke en wezenlijke inrichting van nijverheid of handel op het grondgebied van een der bedoelde staten hebben, kunnen tekeningen of modellen bij het Internationaal Bureau deponeren.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het internationaal depot kan bij het Internationaal Bureau worden verricht:
 
@@ -62,7 +87,7 @@ De onderdanen van de Overeenkomstsluitende Staten of de personen die, hoewel zij
 
 2. De nationale wetgeving van elke Overeenkomstsluitende Staat kan verlangen dat ieder internationaal depot, waarvoor deze staat als staat van oorsprong wordt aangemerkt, wordt verricht door tussenkomst van zijn nationale Administratie. Niet nakoming van een dergelijk voorschrift tast geenszins de gevolgen van het internationaal depot in de andere Overeenkomstsluitende Staten aan.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het internationaal depot bevat een aanvrage, een of meer fotografische dan wel anderszins grafische afbeeldingen van de tekening of het model, alsmede de in het Reglement voorziene betaling van de taksen.
 
@@ -88,7 +113,7 @@ De onderdanen van de Overeenkomstsluitende Staten of de personen die, hoewel zij
 
 4. Een meervoudig depot kan verscheidene tekeningen of modellen omvatten, indien zij bestemd zijn om te worden belichaamd in voorwerpen die volgens de internationale classificatie van tekeningen of modellen, bedoeld in artikel 21, lid 2 onder 4, in dezelfde klasse vallen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het Internationaal Bureau houdt het internationaal register van tekeningen of modellen en schrijft de internationale depots in.
 
@@ -116,7 +141,7 @@ De onderdanen van de Overeenkomstsluitende Staten of de personen die, hoewel zij
 
 5. Met uitzondering van de in lid 4 bedoelde gevallen, kan het publiek kennis nemen van het register, alsmede van alle geschriften en voorwerpen die bij het Internationaal Bureau zijn gedeponeerd.
 
-#### Artikel 7
+##### Artikel 7
 
 - a). Elk depot, ingeschreven bij het Internationaal Bureau, heeft in ieder van de Overeenkomstsluitende Staten die de deposant in zijn aanvrage heeft aangewezen, dezelfde werking als waren alle door de nationale wet voorgeschreven formaliteiten ter verkrijging van de bescherming door de deposant vervuld en alle te dien einde voorgeschreven administratieve handelingen door de Administratie van die staat verricht.
 
@@ -124,7 +149,7 @@ De onderdanen van de Overeenkomstsluitende Staten of de personen die, hoewel zij
 
 2. Het internationaal depot heeft geen gevolg in de staat van oorsprong indien de wetgeving van deze staat dit voorschrijft.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Niettegenstaande de bepalingen van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0002034&artikel=7&z=1984-08-01&g=1984-08-01) moet de nationale Administratie van een Overeenkomstsluitende Staat, waarvan de nationale wetgeving voorziet in een weigering van bescherming op grond van een ambtshalve ingesteld administratief onderzoek of op grond van oppositie van derden, in geval van weigering, binnen een termijn van zes maanden aan het Internationaal Bureau kennis geven, dat de tekening of het model niet voldoet aan de eisen welke deze wetgeving stelt naast de formaliteiten en administratieve handelingen bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002034&artikel=7&z=1984-08-01&g=1984-08-01). Indien van de weigering niet binnen de termijn van zes maanden wordt kennis gegeven, heeft het internationaal depot in de bedoelde staat gevolg vanaf de datum van dit depot. Indien niet in de loop van de termijn van zes maanden van een weigering is kennis gegeven, behoudt het internationaal depot in elke Overeenkomstsluitende Staat waar een nieuwheidsonderzoek wordt gehouden, zijn recht van voorrang en heeft rechtsgevolgen van de dag af waarop de genoemde termijn is verstreken, tenzij de nationale wetgeving een vroegere datum toekent voor de depots die bij zijn nationale Administratie, zijn verricht.
 
@@ -152,11 +177,11 @@ De onderdanen van de Overeenkomstsluitende Staten of de personen die, hoewel zij
 
 - b). Indien de wetgeving van een Overeenkomstsluitende Staat voorziet in verscheidene systemen van bescherming van tekeningen of modellen en één dezer systemen een nieuwheidsonderzoek vereist, zijn de bepalingen van deze Overeenkomst die betrekking hebben op staten waar een dergelijk onderzoek wordt gehouden slechts van toepassing wat dit systeem betreft.
 
-#### Artikel 9
+##### Artikel 9
 
 Wordt het internationaal depot van de tekening of het model verricht binnen zes maanden na het eerste depot van dezelfde tekening of van hetzelfde model in een van de Lid-Staten van de internationale Unie voor de bescherming van de Intellectuele Eigendom en wordt het recht van voorrang voor het internationaal depot ingeroepen, dan is de datum van dat eerste depot de voorrangsdatum.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het internationaal depot kan om de vijf jaar worden vernieuwd door in de loop van het laatste jaar van elke periode van vijf jaar de in het Reglement vastgestelde vernieuwingstaksen te betalen.
 
@@ -168,7 +193,7 @@ Wordt het internationaal depot van de tekening of het model verricht binnen zes 
 
 5. Het Internationaal Bureau schrijft de vernieuwingen in en maakt deze openbaar.
 
-#### Artikel 11
+##### Artikel 11
 
 - a). De tijd waarvoor een Overeenkomstsluitende Staat bescherming verleent voor de tekeningen of modellen die het voorwerp van een internationaal depot vormen kan niet korter zijn dan:
 
@@ -184,19 +209,19 @@ Wordt het internationaal depot van de tekening of het model verricht binnen zes 
 
 4. Behoudens de bepalingen van lid 1 onder **b** eindigt de bescherming in de Overeenkomstsluitende Staten op de datum waarop de geldigheidsduur van het internationaal depot verstrijkt, tenzij de nationale wetgeving van deze Staten bepaalt dat de bescherming na de datum waarop de geldigheidsduur van het internationaal depot is verstreken, voortduurt.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Het Internationaal Bureau moet iedere verandering betreffende het recht op een tekening of model, waarvoor een internationaal depot van kracht is, inschrijven en openbaar maken. De overdracht van het recht kan worden beperkt tot de rechten die uit het internationaal depot in slechts één of verscheidene Overeenkomstsluitende Staten voortvloeien en in geval van een meervoudig depot, tot slechts een gedeelte van de tekeningen of modellen die in het bedoelde depot zijn opgenomen.
 
 2. De inschrijving bedoeld in het eerste lid heeft hetzelfde gevolg als wanneer deze zou zijn verricht door de nationale Administraties van de Overeenkomstsluitende Staten.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De houder van een internationaal depot kan door middel van een tot het Internationaal Bureau gerichte verklaring afstand doen van zijn rechten voor alle Overeenkomstsluitende Staten, of voor slechts een bepaald aantal van hen en in geval van een meervoudig depot voor slechts een deel van de in dit depot opgenomen tekeningen of modellen.
 
 2. Het Internationaal Bureau schrijft de verklaring in en maakt deze openbaar.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Een Overeenkomstsluitende Staat kan voor de erkenning van het recht niet eisen, dat op het voorwerp waarin de tekening of het model wordt belichaamd, een kenteken of een vermelding van het depot van deze tekening of dit model wordt aangebracht.
 
@@ -212,7 +237,7 @@ Wordt het internationaal depot van de tekening of het model verricht binnen zes 
 
 4. Het aanbrengen van het internationale teken van voorbehoud van recht op de voorwerpen of etiketten kan op zichzelf geenszins geacht worden in te houden dat van bescherming op grond van het auteursrecht, of op grond van enige andere titel afstand wordt gedaan, wanneer deze bescherming ingeval een zodanig teken niet zou zijn aangebracht, wel kan worden verkregen.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De in het Reglement geregelde taksen omvatten:
 
@@ -226,7 +251,7 @@ Wordt het internationaal depot van de tekening of het model verricht binnen zes 
 
 2. Voor eenzelfde depot worden de voor een Overeenkomstsluitende Staat, krachtens de bepalingen van het eerste lid onder 2**a** betaalde taksen afgetrokken van het bedrag van de in het eerste lid onder 2**b** bedoelde taks, zodra deze laatste taks voor bedoelde staat opeisbaar wordt.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De taksen voor de Overeenkomstsluitende Staten bedoel in [artikel 15, eerste lid onder 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002034&artikel=15&z=1984-08-01&g=1984-08-01), worden geïnd door het Internationaal Bureau, dat deze taksen jaarlijks overmaakt aan de door de deposant aangewezen Overeenkomstsluitende Staten.
 
@@ -234,7 +259,7 @@ Wordt het internationaal depot van de tekening of het model verricht binnen zes 
 
 - b). Hij kan eveneens afstand doen van dit recht wat betreft het internationaal depot, waarvoor hij zelf als staat van oorsprong wordt aangemerkt.
 
-#### Artikel 17
+##### Artikel 17
 
 Het Reglement van uitvoering stelt de toepassing van deze Overeenkomst in bijzonderheden vast en wel inzonderheid:
 
@@ -258,51 +283,51 @@ Het Reglement van uitvoering stelt de toepassing van deze Overeenkomst in bijzon
 
 - 10. de bestemming van de geschriften en de voorwerpen die behoren tot depots die niet meer vernieuwd kunnen worden.
 
-#### Artikel 18
+##### Artikel 18
 
 De bepalingen van deze Overeenkomst verhinderen geenszins een beroep op de toepasselijkheid van ruimere voorschriften gegeven door de nationale wetgeving van een Overeenkomstsluitende Staat. Zij bekorten in geen enkel opzicht de bescherming die aan werken van kunst of toegepaste kunst door internationale verdragen en overeenkomsten betreffende het auteursrecht wordt verleend.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Deze Overeenkomst staat tot 31 december 1961 ter ondertekening open.
 
 2. Zij dient te worden bekrachtigd en de akten van bekrachtiging worden nedergelegd bij de Regering van het Koninkrijk der Nederlanden.
 
-#### Artikel 24
+##### Artikel 24
 
 1. De Lid-Staten van de Internationale Unie voor de bescherming van de intellectuele eigendom, die deze Overeenkomst niet hebben ondertekend zullen daartoe mogen toetreden.
 
 2. Deze toetreding wordt aan de Directeur-Generaal en door deze aan de Regeringen van alle Overeenkomstsluitende Staten langs diplomatieke weg medegedeeld.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Iedere Overeenkomstsluitende Staat verplicht zich de bescherming van tekeningen of modellen van nijverheid te waarborgen en overeenkomstig zijn Grondwet de noodzakelijke maatregelen te treffen teneinde de toepassing van deze Overeenkomst te verzekeren.
 
 2. Iedere Overeenkomstsluitende Staat moet op het tijdstip van nederlegging van zijn akte van bekrachtiging of toetreding in staat zijn, overeenkomstig zijn nationale wetgeving, uitvoering te geven aan de bepalingen van deze Overeenkomst.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Deze Overeenkomst treedt in werking na het verstrijken van een termijn van een maand, te rekenen van de dag waarop de Directeur-Generaal aan de Overeenkomstsluitende Staten bericht heeft gezonden van de nederlegging van tien akten van bekrachtiging of toetreding, waaronder die van tenminste vier staten die, op de datum van deze Overeenkomst, noch bij de Overeenkomst van 1925 noch bij de Overeenkomst van 1934 partij zijn.
 
 2. Bijgevolg zal de nederlegging van de akten van bekrachtiging en toetreding door de Directeur-Generaal aan de overeenkomstsluitende Staten moeten worden medegedeeld; deze bekrachtigingen en toetredingen worden van kracht na het verstrijken van een termijn van één maand, te rekenen van de datum waarop het desbetreffende bericht is verzonden, af, tenzij, ingeval van toetreding, een latere datum in de akte van toetreding is aangegeven.
 
-#### Artikel 27
+##### Artikel 27
 
 Iedere Overeenkomstsluitende Staat kan te allen tijde de Directeur-Generaal ervan in kennis stellen, dat deze Overeenkomst van toepassing is voor alle of een deel van de gebieden waarvan de internationale betrekkingen door bedoelde staat worden behartigd. De Directeur-Generaal stelt alle Overeenkomstsluitende Staten hiervan in kennis en de Overeenkomst is alsdan eveneens van toepassing in de in de kennisgeving aangewezen gebieden, een maand nadat de Directeur-Generaal aan de Overeenkomstsluitende Staten de mededeling heeft verzonden, tenzij een latere datum in de kennisgeving is aangegeven.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Iedere Overeenkomstsluitende Staat heeft de bevoegdheid deze Overeenkomst voor zichzelf en voor alle of een deel van de gebieden die in de in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0002034&artikel=27&z=1984-08-01&g=1984-08-01) bedoelde mededeling zijn genoemd, op te zeggen door een aan de Directeur-Generaal gerichte mededeling. Deze opzegging wordt van kracht na verloop van een termijn van een jaar nadat de Directeur-Generaal hiervan bericht heeft ontvangen.
 
 2. De opzegging van deze Overeenkomst door een Overeenkomstsluitende Staat ontheft deze niet van de verplichtingen die hij heeft aangegaan ten aanzien van tekeningen of modellen waarvoor een internationale inschrijving is verricht vóór de datum waarop de opzegging van kracht wordt.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Deze Overeenkomst wordt aan herzieningen onderworpen ten einde daarin verbeteringen aan te brengen, die beogen de uit een internationaal depot van tekeningen of modellen voortvloeiende bescherming te vervolmaken.
 
 2. De Conferenties voor een herziening zullen worden bijeengeroepen op verzoek van tenminste de helft van de Overeenkomstsluitende Staten.
 
-#### Artikel 30
+##### Artikel 30
 
 1. Verscheidene Overeenkomstsluitende Staten kunnen te allen tijde de Directeur-Generaal ervan in kennis stellen dat op nader in deze mededeling aangeduide voorwaarden:
 
@@ -312,7 +337,7 @@ Iedere Overeenkomstsluitende Staat kan te allen tijde de Directeur-Generaal erva
 
 2. Deze mededeling heeft eerst gevolg zes maanden nadat de Directeur-Generaal hiervan bericht heeft gezonden aan de andere Overeenkomstsluitende Staten.
 
-#### Artikel 31
+##### Artikel 31
 
 1. De staten die tegelijkertijd partij zijn bij deze Overeenkomst en de Overeenkomst van 1925 of de Overeenkomst van 1934, worden in hun wederzijdse betrekkingen alleen door deze Overeenkomst gebonden. Deze Staten zijn echter gehouden in hun wederzijdse betrekkingen de bepalingen van de Overeenkomst van 1925, onderscheidenlijk die van de Overeenkomst van 1934 toe te passen, al naar het geval zich voordoet, op de tekeningen of modellen die bij het Internationaal Bureau zijn gedeponeerd vóór de datum waarop deze Overeenkomst hen in hun wederzijdse betrekkingen bindt.
 
@@ -322,7 +347,7 @@ Iedere Overeenkomstsluitende Staat kan te allen tijde de Directeur-Generaal erva
 
 3. De staten die slechts partij zijn bij deze Overeenkomst hebben geen enkele verplichting jegens de staten die zonder tevens partij te zijn bij deze Overeenkomst, partij zijn bij de Overeenkomst van 1925 of van de Overeenkomst van 1934.
 
-#### Artikel 32
+##### Artikel 32
 
 1. De ondertekening en de bekrachtiging van deze Overeenkomst door een staat die op de datum van deze Overeenkomst partij is bij de Overeenkomst van 1925 of bij de Overeenkomst van 1934, evenals de toetreding tot deze Overeenkomst door een zodanige staat, zullen worden beschouwd als rechtsgeldige ondertekening en bekrachtiging van het aan deze Overeenkomst gehechte Protocol onderscheidenlijk als toetreding tot dit Protocol, tenzij deze staat bij de ondertekening of bij de nederlegging van de akte van toetreding een uitdrukkelijke verklaring in tegengestelde zin heeft ondertekend.
 
@@ -330,7 +355,7 @@ Iedere Overeenkomstsluitende Staat kan te allen tijde de Directeur-Generaal erva
 
 De bepalingen van de artikelen 23 t/m 28 zijn van overeenkomstige toepassing.
 
-#### Artikel 33
+##### Artikel 33
 
 Deze acte wordt ondertekend in één enkel exemplaar, dat wordt nedergelegd in het archief van de Regering van het Koninkrijk der Nederlanden. Een gewaarmerkt afschrift wordt door deze Regering toegezonden aan de Regering van elk der staten die deze Overeenkomst hebben ondertekend of tot deze Overeenkomst zijn toegetreden.
 

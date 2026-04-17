@@ -1,13 +1,39 @@
 ---
-title: "Besluit experimentele subsidie generieke werkgeversvoorzieningen"
+title: "Besluit van 16 juni 2021 houdende regels voor experimenten met het verstrekken van subsidies voor generieke werkgeversvoorzieningen (Besluit experimentele subsidie generieke werkgeversvoorzieningen)"
 identifier: "BWBR0045276"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045276"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045276"
+soort: "AMvB"
+stam_id: "15994543"
+version_id: "27838062"
+internal_id: "C39262591"
+label_id: "15928424"
+dtd_version: "2.0"
+original_entry_into_force: "2021-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045276/2024-01-01/0"
+intitule_bron: "Stb.2021-302"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-06-16"
+intitule_published: "2021-06-25"
+intitule_in_force: "2021-06-25"
+intitule_status: "goed"
+original_publication: "Stb.2021-302"
+original_signed_date: "2021-06-16"
+original_published_date: "2021-06-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2021-302"
+entry_into_force_date: "2021-07-01"
+jci_1_3: "jci1.3:c:BWBR0045276&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0045276&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit experimentele subsidie generieke werkgeversvoorzieningen"
+signed_date: "2021-06-16"
+entry_into_force: "2021-07-01"
 ---
-
 # Besluit van 16 juni 2021 houdende regels voor experimenten met het verstrekken van subsidies voor generieke werkgeversvoorzieningen (Besluit experimentele subsidie generieke werkgeversvoorzieningen)
 
 Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 13 april 2021, nr. 2021-0000050093;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -32,7 +58,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. **wet:** [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060).
 
-#### Artikel 2. Doel van de subsidie
+##### Artikel 2. Doel van de subsidie
 
 1. Het Uitvoeringsinstituut werknemersverzekeringen verstrekt, in zoverre in afwijking van [artikel 36 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=36) en [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=2), en [artikel 9 van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=9), op aanvraag van de werkgever een eenmalige subsidie voor het realiseren van een generieke werkgeversvoorziening, ongeacht of de voorziening naar de aard der zaak duurzaam is verenigd met het bedrijf.
 
@@ -50,7 +76,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Paragraaf 2. Toegang tot de subsidie
 
-#### Artikel 3. De aanvraag
+##### Artikel 3. De aanvraag
 
 1. Een werkgever kan bij het Uitvoeringsinstituut werknemersverzekeringen een aanvraag doen voor een subsidie ten behoeve het realiseren van een generieke werkgeversvoorziening.
 
@@ -68,7 +94,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Bij de aanvraag wordt een offerte voor de desbetreffende generieke werkgeversvoorziening overgelegd waaruit de kosten voor het realiseren van de generieke werkgeversvoorziening blijken.
 
-#### Artikel 4. Subsidiabele kosten
+##### Artikel 4. Subsidiabele kosten
 
 1. Onverminderd [artikel 2, eerste lid, onderdeel a, van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=2) komen de kosten die rechtstreeks zijn bedoeld voor het realiseren van een generieke werkgeversvoorziening in aanmerking voor subsidie.
 
@@ -80,7 +106,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Paragraaf 3. Toekenning van de subsidie
 
-#### Artikel 5. Tijdvak, subsidieplafond en omvang subsidie
+##### Artikel 5. Tijdvak, subsidieplafond en omvang subsidie
 
 1. Voor subsidies op grond van dit besluit is van 1 juli 2021 tot en met 31 december 2021 € 6.000.000,– beschikbaar en is van 1 januari 2022 tot en met 30 juni 2022 € 12.000.000,– beschikbaar.
 
@@ -90,13 +116,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Bij ministeriële regeling wordt een tijdvak, een subsidieplafond, met inbegrip van een eventueel deelplafond, en een maximumbedrag per aanvraag vastgesteld voor de verstrekking van subsidies in de resterende periode van het jaar 2022 en in de daaropvolgende jaren.
 
-#### Artikel 6. Verdeling van de subsidie
+##### Artikel 6. Verdeling van de subsidie
 
 1. Het Uitvoeringsinstituut werknemersverzekeringen verdeelt de beschikbare bedragen op volgorde van binnenkomst van volledige aanvragen.
 
 2. Aanvragen die op dezelfde dag binnenkomen, worden geacht tegelijkertijd te zijn ontvangen. Tussen deze aanvragen wordt geloot, indien het subsidieplafond wordt overschreden bij de toekenning van subsidie voor deze aanvragen.
 
-#### Artikel 7. Weigeringsgronden
+##### Artikel 7. Weigeringsgronden
 
 Onverminderd [artikel 4:35, tweede en derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35), wordt de subsidieverstrekking geweigerd indien:
 
@@ -122,13 +148,13 @@ Onverminderd [artikel 4:35, tweede en derde lid, van de Algemene wet bestuursrec
 
 - k. de generieke werkgeversvoorziening niet binnen een jaar na de subsidievaststelling kan worden gerealiseerd.
 
-#### Artikel 8. Subsidievaststelling
+##### Artikel 8. Subsidievaststelling
 
 Onverminderd [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=2), en [artikel 10 van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=10), stelt het Uitvoeringsinstituut werknemersverzekeringen de subsidie vast op het bedrag dat noodzakelijk is voor het dekken van de kosten, die op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045276&paragraaf=2&artikel=4&z=2024-01-01&g=2024-01-01) voor subsidie in aanmerking komen.
 
 #### Paragraaf 4. Gebruik van de subsidie
 
-#### Artikel 9. Subsidieverplichtingen
+##### Artikel 9. Subsidieverplichtingen
 
 1. Bij de subsidieverstrekking legt het Uitvoeringsinstituut werknemersverzekeringen de ontvanger de verplichting op om de generieke werkgeversvoorziening binnen een jaar na de subsidievaststelling te realiseren.
 
@@ -166,7 +192,7 @@ Onverminderd [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR001
 
 #### Paragraaf 5. Controle en verantwoording
 
-#### Artikel 10. Wijziging en intrekking subsidievaststelling
+##### Artikel 10. Wijziging en intrekking subsidievaststelling
 
 1. Onverminderd [artikel 4:49, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49), wijzigt het Uitvoeringsinstituut werknemersverzekeringen de subsidievaststelling:
 
@@ -180,15 +206,15 @@ Onverminderd [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR001
 
 #### Paragraaf 6. Slotbepalingen
 
-#### Artikel 11. Evaluatie
+##### Artikel 11. Evaluatie
 
 Onze Minister zendt uiterlijk 1 juli 2026 een verslag over de doeltreffendheid van het experiment in de praktijk aan de Staten-Generaal, alsmede een standpunt inzake de voortzetting van de inhoud van dit besluit anders dan als experiment.
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang met ingang van 1 juli 2021.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit experimentele subsidie generieke werkgeversvoorzieningen.
 

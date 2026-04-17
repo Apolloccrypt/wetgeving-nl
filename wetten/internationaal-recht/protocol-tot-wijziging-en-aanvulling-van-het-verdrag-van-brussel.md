@@ -1,13 +1,35 @@
 ---
 title: "Protocol tot wijziging en aanvulling van het Verdrag van Brussel"
 identifier: "BWBV0005633"
-categorie: "Internationaal recht"
-publicatiedatum: 2011-06-30
-laatste_update: 2011-06-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005633"
+country: "nl"
+rank: "verdrag"
+publication_date: "2011-06-30"
+last_updated: "2011-06-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005633"
+soort: "verdrag"
+stam_id: "10004794283"
+version_id: "10005099302"
+internal_id: "C10007720621"
+label_id: "10004778324"
+dtd_version: "2.0"
+original_entry_into_force: "2011-06-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005633/2011-06-30/0"
+intitule_bron: "Trb.2011-178"
+intitule_effect: "intrekking-regeling"
+intitule_published: "2011-10-04"
+intitule_in_force: "2011-10-04"
+intitule_status: "vervallen"
+original_publication: "Trb.2011-178"
+original_published_date: "2011-10-04"
+original_effect: "intrekking-regeling"
+original_url_id: "trb-2011-178"
+entry_into_force_date: "2011-06-30"
+jci_1_3: "jci1.3:c:BWBV0005633&z=2011-06-30&g=2011-06-30"
+jci_1_0: "1.0:c:BWBV0005633&g=2011-06-30"
+citeertitel_status: "redactioneel"
+entry_into_force: "2011-06-30"
 ---
-
 # Protocol tot wijziging en aanvulling van het Verdrag van Brussel
 
 Zijne Majesteit de Koning der Belgen, de President van de Franse Republiek, President van de Franse Unie, Hare Koninklijke Hoogheid de Groothertogin van Luxemburg, Hare Majesteit de Koningin der Nederlanden en Hare Majesteit de Koningin van het Verenigd Koninkrijk van Groot-Britannië en Noord-Ierland en van Haar andere Rijken en Gebieden, Hoofd van het Gemenebest, Partijen bij het op 17 Maart 1948 te Brussel ondertekende [Verdrag van economische, sociale en culturele samenwerking en collectieve zelfverdediging](https://wetten.overheid.nl/jci1.3:c:BWBV0005480), hierna te noemen het Verdrag, te ener zijde,
@@ -58,27 +80,27 @@ Die, na hun in goede orde bevonden volmachten te hebben getoond,
 
 Het volgende zijn overeengekomen:
 
-#### Artikel I
+##### Artikel I
 
 Vervallen
 
-#### Artikel II
+##### Artikel II
 
 Vervallen
 
-#### Artikel III
+##### Artikel III
 
 Vervallen
 
-#### Artikel IV
+##### Artikel IV
 
 Vervallen
 
-#### Artikel V
+##### Artikel V
 
 Vervallen
 
-#### Artikel VI
+##### Artikel VI
 
 Vervallen
 

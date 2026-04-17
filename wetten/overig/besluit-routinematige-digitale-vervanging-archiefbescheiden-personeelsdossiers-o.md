@@ -1,13 +1,39 @@
 ---
-title: "Besluit routinematige digitale vervanging archiefbescheiden personeelsdossiers OCW 2016"
+title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 21 december 2016, nr. O&B/699178, inzake de routinematige digitale vervanging archiefbescheiden personeelsdossiers, concern OCW (Besluit routinematige digitale vervanging archiefbescheiden personeelsdossiers OCW 2016)"
 identifier: "BWBR0039107"
-categorie: "Overig"
-publicatiedatum: 2017-01-20
-laatste_update: 2017-01-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039107"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-01-20"
+last_updated: "2017-01-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039107"
+soort: "ministeriele-regeling"
+stam_id: "13889983"
+version_id: "23837542"
+internal_id: "C34286201"
+label_id: "13854664"
+dtd_version: "2.0"
+original_entry_into_force: "2017-01-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039107/2017-01-20/0"
+intitule_bron: "Stcrt.2017-2696"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-12-21"
+intitule_published: "2017-01-19"
+intitule_in_force: "2017-01-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-2696"
+original_signed_date: "2016-12-21"
+original_published_date: "2017-01-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-2696"
+entry_into_force_date: "2017-01-20"
+jci_1_3: "jci1.3:c:BWBR0039107&z=2017-01-20&g=2017-01-20"
+jci_1_0: "1.0:c:BWBR0039107&g=2017-01-20"
+citeertitel_status: "officieel"
+short_title: "Besluit routinematige digitale vervanging archiefbescheiden personeelsdossiers OCW 2016"
+signed_date: "2016-12-21"
+entry_into_force: "2017-01-20"
 ---
-
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 21 december 2016, nr. O&B/699178, inzake de routinematige digitale vervanging archiefbescheiden personeelsdossiers, concern OCW (Besluit routinematige digitale vervanging archiefbescheiden personeelsdossiers OCW 2016)
 
 Gelet op:
@@ -24,7 +50,7 @@ het [Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 3 november
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Over te gaan tot routinematige vervanging door digitale reproducties van de analoge archiefbescheiden die op grond van het **BSD ‘Mens en Werk’**voor bewaring of vernietiging in aanmerking komen, waarna deze analoge archiefbescheiden worden vernietigd.
 
@@ -32,11 +58,11 @@ Besluit:
 
 3. Het [Besluit routinematige digitale vervanging archiefbescheiden personeelsdossiers OCW](https://wetten.overheid.nl/jci1.3:c:BWBR0031381) wordt ingetrokken.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit kan worden aangehaald als: Besluit routinematige digitale vervanging archiefbescheiden personeelsdossiers OCW 2016.
 

@@ -1,20 +1,46 @@
 ---
-title: "Besluit instelling Departementaal Coördinatiecentrum Crisisbeheersing Infrastructuur en Waterstaat"
+title: "Besluit van de Minister van Infrastructuur en Waterstaat, van 1 februari 2019, nr. IENW/BSK-2019/16637, tot instelling van het Departementaal Coördinatiecentrum Crisisbeheersing Infrastructuur en Waterstaat"
 identifier: "BWBR0041886"
-categorie: "Milieu"
-publicatiedatum: 2019-02-09
-laatste_update: 2019-02-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041886"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2019-02-09"
+last_updated: "2019-02-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041886"
+soort: "ministeriele-regeling"
+stam_id: "14994063"
+version_id: "25680922"
+internal_id: "C36638471"
+label_id: "14944194"
+dtd_version: "2.0"
+original_entry_into_force: "2019-02-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041886/2019-02-09/0"
+intitule_bron: "Stcrt.2019-6105"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-02-01"
+intitule_published: "2019-02-08"
+intitule_in_force: "2019-02-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-6105"
+original_signed_date: "2019-02-01"
+original_published_date: "2019-02-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-6105"
+entry_into_force_date: "2019-02-09"
+jci_1_3: "jci1.3:c:BWBR0041886&z=2019-02-09&g=2019-02-09"
+jci_1_0: "1.0:c:BWBR0041886&g=2019-02-09"
+citeertitel_status: "redactioneel"
+short_title: "Besluit instelling Departementaal Coördinatiecentrum Crisisbeheersing Infrastructuur en Waterstaat"
+signed_date: "2019-02-01"
+entry_into_force: "2019-02-09"
 ---
-
 # Besluit van de Minister van Infrastructuur en Waterstaat, van 1 februari 2019, nr. IENW/BSK-2019/16637, tot instelling van het Departementaal Coördinatiecentrum Crisisbeheersing Infrastructuur en Waterstaat
 
 Gelet op [artikel 3, tweede lid, van het Coördinatiebesluit organisatie en bedrijfsvoering rijksdienst 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=3) en op de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), [10:9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:9), [10:11](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:11) en [10:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:12);
 
 BESLUIT:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -24,7 +50,7 @@ In dit besluit wordt verstaan onder:
 
 - **OCM-IenW:** Overleg Crisismanagement Infrastructuur en Waterstaat.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De directeur-generaal Rijkswaterstaat wordt aangewezen als portefeuillehouder crisisbeheersing van het ministerie binnen de bestuursraad van het ministerie.
 
@@ -32,7 +58,7 @@ In dit besluit wordt verstaan onder:
 
 3. De portefeuillehouder crisisbeheersing van het ministerie legt aan de bestuursraad van het ministerie verantwoording af over het functioneren van het DCC-IenW.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Er is een DCC-IenW.
 
@@ -42,7 +68,7 @@ In dit besluit wordt verstaan onder:
 
 4. De werkwijze van het DCC-IenW staat beschreven in het Handboek Crisisbeheersing van het DCC-IenW.
 
-#### Artikel 4
+##### Artikel 4
 
 Het DCC-IenW heeft tot taak het fungeren als het departementaal coördinatiecentrum voor crisisbeheersing en het zijn van knooppunt van en voor de informatievoorziening bij crises of een dreiging daarvan. Daartoe is het DCC-IenW in ieder geval verantwoordelijk voor:
 
@@ -80,7 +106,7 @@ Het DCC-IenW heeft tot taak het fungeren als het departementaal coördinatiecent
 
 - q. het (laten) uitvoeren van evaluaties van de crisisbeheersing bij daadwerkelijk opgetreden crises.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Binnen het ministerie fungeert het OCM-IenW.
 
@@ -106,7 +132,7 @@ Het DCC-IenW heeft tot taak het fungeren als het departementaal coördinatiecent
 
 3. Het hoofd DCC-IenW is voorzitter van het OCM-IenW.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Aan de portefeuillehouder crisisbeheersing van het ministerie wordt mandaat verleend om, in voorafgaand overleg met de betrokken directeur-generaal en met inachtneming van een instructie van de Minister van Infrastructuur en Waterstaat, verzoeken als bedoeld in [artikel 4, onderdeel o](https://wetten.overheid.nl/jci1.3:c:BWBR0041886&artikel=4&z=2019-02-09&g=2019-02-09), af te doen, mits de begrote kosten niet meer dan € 1 miljoen bedragen.
 
@@ -114,15 +140,15 @@ Het DCC-IenW heeft tot taak het fungeren als het departementaal coördinatiecent
 
 3. De portefeuillehouder crisisbeheersing van het ministerie kan met betrekking tot zijn bevoegdheden, bedoeld in het tweede lid, machtiging verlenen aan een functionaris van het DCC-IenW.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit wordt elke vijf jaar geëvalueerd.
 
-#### Artikel 8
+##### Artikel 8
 
 Het [Besluit DCC-V&W](https://wetten.overheid.nl/jci1.3:c:BWBR0011009) wordt ingetrokken.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 

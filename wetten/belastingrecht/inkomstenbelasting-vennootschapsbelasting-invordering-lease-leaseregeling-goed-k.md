@@ -1,13 +1,38 @@
 ---
 title: "Inkomstenbelasting, vennootschapsbelasting, invordering, lease, leaseregeling, goed koopmansgebruik"
 identifier: "BWBR0042985"
-categorie: "Belastingrecht"
-publicatiedatum: 2020-01-01
-laatste_update: 2020-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042985"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2020-01-01"
+last_updated: "2020-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042985"
+soort: "beleidsregel"
+stam_id: "15296703"
+version_id: "26363142"
+internal_id: "C37464391"
+label_id: "15242744"
+dtd_version: "2.0"
+original_entry_into_force: "2020-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042985/2020-01-01/0"
+intitule_bron: "Stcrt.2019-66228"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-12-10"
+intitule_published: "2019-12-20"
+intitule_in_force: "2019-12-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-66228"
+original_signed_date: "2019-12-10"
+original_published_date: "2019-12-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-66228"
+entry_into_force_date: "2020-01-01"
+jci_1_3: "jci1.3:c:BWBR0042985&z=2020-01-01&g=2020-01-01"
+jci_1_0: "1.0:c:BWBR0042985&g=2020-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "2019-12-10"
+entry_into_force: "2020-01-01"
 ---
-
 # Inkomstenbelasting, vennootschapsbelasting, invordering, lease, leaseregeling, goed koopmansgebruik
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

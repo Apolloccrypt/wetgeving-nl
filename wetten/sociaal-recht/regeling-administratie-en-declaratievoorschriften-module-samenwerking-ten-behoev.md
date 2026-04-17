@@ -1,13 +1,36 @@
 ---
-title: "Regeling administratie- en declaratievoorschriften module samenwerking ten behoeve van geïntegreerde eerstelijnszorg"
+title: "Administratie- en declaratievoorschriften module samenwerking ten behoeve van geïntegreerde eerstelijnszorgproducten"
 identifier: "BWBR0030690"
-categorie: "Sociaal recht"
-publicatiedatum: 2012-01-01
-laatste_update: 2012-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030690"
+country: "nl"
+rank: "zbo"
+publication_date: "2012-01-01"
+last_updated: "2012-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030690"
+soort: "zbo"
+stam_id: "11507873"
+version_id: "18937222"
+internal_id: "C26430191"
+label_id: "11481294"
+dtd_version: "2.0"
+original_entry_into_force: "2012-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030690/2012-01-01/0"
+intitule_bron: "Stcrt.2011-21431"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2011-11-29"
+intitule_in_force: "2011-11-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-21431"
+original_published_date: "2011-11-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-21431"
+entry_into_force_date: "2012-01-01"
+jci_1_3: "jci1.3:c:BWBR0030690&z=2012-01-01&g=2012-01-01"
+jci_1_0: "1.0:c:BWBR0030690&g=2012-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Regeling administratie- en declaratievoorschriften module samenwerking ten behoeve van geïntegreerde eerstelijnszorg"
+entry_into_force: "2012-01-01"
 ---
-
 # Administratie- en declaratievoorschriften module samenwerking ten behoeve van geïntegreerde eerstelijnszorgproducten
 
 Gelet op [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=36), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=37) en [38 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=38) (Wmg), heeft de Nederlandse Zorgautoriteit de volgende regeling vastgesteld: Regeling Administratie- en declaratievoorschriften module samenwerking ten behoeve van geïntegreerde eerstelijnsproducten.

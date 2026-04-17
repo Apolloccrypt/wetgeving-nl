@@ -1,14 +1,38 @@
 ---
-title: "Wijzigingswet Boek 2 van het Burgerlijk Wetboek (2)"
+title: "Wet van 16 september 1993, tot vaststelling van bepalingen voor de jaarrekening van verzekeringsmaatschappijen"
 identifier: "BWBR0006146"
-categorie: "Burgerlijk recht"
-publicatiedatum: 1993-10-15
-laatste_update: 1993-10-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006146"
+country: "nl"
+rank: "wet"
+publication_date: "1993-10-15"
+last_updated: "1993-10-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006146"
+soort: "wet"
+stam_id: "496033"
+version_id: "733802"
+internal_id: "C733801"
+label_id: "482034"
+dtd_version: "2.0"
+original_entry_into_force: "1993-10-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006146/1993-10-15/0"
+intitule_bron: "Stb.1993-517"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1993-09-16"
+intitule_status: "goed"
+original_publication: "Stb.1993-517"
+original_signed_date: "1993-09-16"
+original_effect: "nieuwe-regeling"
+original_dossier: "22896"
+entry_into_force_date: "1993-10-15"
+entry_into_force_dossier: "22896"
+jci_1_3: "jci1.3:c:BWBR0006146&z=1993-10-15&g=1993-10-15"
+jci_1_0: "1.0:c:BWBR0006146&g=1993-10-15"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet Boek 2 van het Burgerlijk Wetboek (2)"
+signed_date: "1993-09-16"
+entry_into_force: "1993-10-15"
 ---
-
-# Wijzigingswet Boek 2 van het Burgerlijk Wetboek (2)
+# Wet van 16 september 1993, tot vaststelling van bepalingen voor de jaarrekening van verzekeringsmaatschappijen
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,19 +40,19 @@ Alzo Wij in overweging genomen hebben, dat de wet moet worden aangepast aan de r
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel II
+##### Artikel II
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel III
+##### Artikel III
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel IV
+##### Artikel IV
 
 1. Deze wet treedt in werking met ingang van de dag na de datum van het **Staatsblad** waarin zij wordt geplaatst.
 

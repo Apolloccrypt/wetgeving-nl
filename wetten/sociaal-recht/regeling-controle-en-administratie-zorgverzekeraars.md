@@ -1,20 +1,45 @@
 ---
 title: "Regeling controle en administratie zorgverzekeraars"
 identifier: "BWBR0052505"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-04-09
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052505"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-04-09"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052505"
+soort: "zbo"
+stam_id: "17829013"
+version_id: "31517102"
+internal_id: "C45006861"
+label_id: "17726264"
+dtd_version: "2.0"
+original_entry_into_force: "2026-04-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052505/2026-04-09/0"
+intitule_bron: "Stcrt.2026-12546"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2026-03-17"
+intitule_published: "2026-04-08"
+intitule_in_force: "2026-04-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-12546"
+original_signed_date: "2026-03-17"
+original_published_date: "2026-04-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-12546"
+entry_into_force_date: "2026-04-09"
+jci_1_3: "jci1.3:c:BWBR0052505&z=2026-04-09&g=2026-04-09"
+jci_1_0: "1.0:c:BWBR0052505&g=2026-04-09"
+citeertitel_status: "officieel"
+signed_date: "2026-03-17"
+entry_into_force: "2026-04-09"
 ---
-
 # Regeling controle en administratie zorgverzekeraars
 
 De Nederlandse Zorgautoriteit (NZa) houdt toezicht op de rechtmatige uitvoering van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) (Zvw). Deze bevoegdheid is gebaseerd op [artikel 16, sub b, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=16) (Wmg).
 
 Ingevolge [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=27), [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=36) en [artikel 68 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=68) (Wmg), is de Nederlandse Zorgautoriteit (NZa) bevoegd tot het stellen van regels op het gebied van de controle door zorgverzekeraars en de administratie van zorgverzekeraars.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -106,15 +131,15 @@ Signaal
 
 1.21. [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450).
 
-#### Artikel 2. Doel van de beleidsregel
+##### Artikel 2. Doel van de beleidsregel
 
 De regeling controle en administratie zorgverzekeraars heeft tot doel nadere voorschriften te stellen aan de uitvoering van controles door zorgverzekeraars ten behoeve van de rechtmatige uitvoering van de [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450). Daarnaast stelt deze regeling voorschriften aan de administratie die een zorgverzekeraar voert ten behoeve van de uitvoering van controles, als ook de verzekerdenadministratie.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze regeling is van toepassing op verzekeraars voor zover deze zorgverzekeringen als bedoeld in [artikel 1, sub d, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1) (Zvw), aanbieden en uitvoeren.
 
-#### Artikel 4. Algemene bepalingen
+##### Artikel 4. Algemene bepalingen
 
 4.1. De zorgverzekeraar voert controleactiviteiten uit om de rechtmatigheid van declaraties van zorgaanbieders en verzekerden te controleren met als doel de juistheid en volledigheid van de administratie en de juistheid van de opgaven te borgen.
 
@@ -130,7 +155,7 @@ Deze regeling is van toepassing op verzekeraars voor zover deze zorgverzekeringe
 
 4.7. De accountant voert controles uit met inachtneming van het NZa Protocol onderzoek [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) voor het betreffende verantwoordingsjaar.
 
-#### Artikel 5. Bepalingen over organisatie van controleactiviteiten
+##### Artikel 5. Bepalingen over organisatie van controleactiviteiten
 
 5.1. De zorgverzekeraar heeft een toereikende organisatie voor de opzet, uitvoering en evaluatie van de controleactiviteiten. De organisatie van de zorgverzekeraar is dusdanig ingericht, dat de zorgverzekeraar kan voldoen aan de bepalingen in deze regeling en, indien nodig, tijdig kan bijsturen zodat de controledoelen worden bereikt.
 
@@ -148,7 +173,7 @@ Deze regeling is van toepassing op verzekeraars voor zover deze zorgverzekeringe
 
 5.4. De zorgverzekeraar draagt zorg voor voldoende deskundigheid ten behoeve van een goede uitoefening van zijn controleactiviteiten.
 
-#### Artikel 6. Bepalingen over controle-aanpak
+##### Artikel 6. Bepalingen over controle-aanpak
 
 6.1. De zorgverzekeraar stelt de risicoanalyse met voldoende reikwijdte en diepgang op als basis voor het controleplan. De zorgverzekeraar waarborgt daarbij voldoende inbreng van de verschillende organisatieonderdelen (zorginkoop, medisch adviseurs, coördinator fraudebestrijding).
 
@@ -186,7 +211,7 @@ Deze regeling is van toepassing op verzekeraars voor zover deze zorgverzekeringe
 
 6.12. De zorgverzekeraar legt op inzichtelijke wijze vast in zijn administratie of en voor welke specifieke behandelingen voor de controle op gepast gebruik, gebruik wordt gemaakt van het controle-instrument machtigingen.Aanleveren van de verslagen en bijbehorende stukken
 
-#### Artikel 7. Bepalingen over uitvoering van controles
+##### Artikel 7. Bepalingen over uitvoering van controles
 
 7.1. De zorgverzekeraar voert de controleplannen tijdig uit, waarbij de zorgverzekeraar rekening houdt met de verschillende verantwoordingsjaren van de opgaven.
 
@@ -200,7 +225,7 @@ Deze regeling is van toepassing op verzekeraars voor zover deze zorgverzekeringe
 
 7.6. De zorgverzekeraar gebruikt bij de de controleactiviteiten ten aanzien van de transformatiemiddelen het verantwoordings- en beoordelingskader transformatieplannen en de brief ‘Herziening nadere duiding Verantwoordingskader transformatieplannen’ van 29 augustus 2025 zoals afzonderlijk door de NZa gepubliceerd op het Publicatieplatform UitvoeringsContent (PUC). Dit houdt in dat de in deze regeling opgenomen reguliere controle-eisen met betrekking tot formele en materiële controles niet van toepassing zijn op transformatiemiddelen.
 
-#### Artikel 8. Bepalingen over vervolgacties en evaluatie
+##### Artikel 8. Bepalingen over vervolgacties en evaluatie
 
 8.1. De zorgverzekeraar stelt voor alle uitgevoerde controles een foutenevaluatie op en neemt deze op inzichtelijke wijze in zijn administratie op. Fouten worden in absolute zin opgevat, saldering van fouten is niet toegestaan.
 
@@ -218,7 +243,7 @@ Deze regeling is van toepassing op verzekeraars voor zover deze zorgverzekeringe
 
 8.8. Bij vermoeden van fraude maakt de zorgverzekeraar melding daarvan bij het Kenniscentrum Fraudebeheersing.
 
-#### Artikel 9. Bepalingen over sturing en managementinformatie
+##### Artikel 9. Bepalingen over sturing en managementinformatie
 
 9.1. Het bestuur van de zorgverzekeraar is verantwoordelijk voor de goede uitvoering van controleactiviteiten en geeft actief sturing aan de uitvoering van de controles.
 
@@ -226,11 +251,11 @@ Deze regeling is van toepassing op verzekeraars voor zover deze zorgverzekeringe
 
 9.3. De zorgverzekeraar betrekt de managementinformatie, bedoeld in artikel 9.2, bij de uitvoering van zijn controle-activiteiten. De zorgverzekeraar breidt zijn controleactiviteiten uit of scherpt deze aan, als uit de managementinformatie blijkt dat dat nodig is.
 
-#### Artikel 10. Intrekken oude regeling
+##### Artikel 10. Intrekken oude regeling
 
 Gelijktijdig met de inwerkingtreding van deze regeling wordt de [Nadere regel controle en administratie zorgverzekeraars](https://wetten.overheid.nl/jci1.3:c:BWBR0037337), met kenmerk TH/NR-006, ingetrokken.
 
-#### Artikel 11. Toepasselijkheid voorafgaande regeling, bekendmaking, inwerkingtreding, en citeertitel
+##### Artikel 11. Toepasselijkheid voorafgaande regeling, bekendmaking, inwerkingtreding, en citeertitel
 
 De [Nadere regel controle en administratie zorgverzekeraars](https://wetten.overheid.nl/jci1.3:c:BWBR0037337), met kenmerk TH/NR-006, blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die regeling en die betrekking hebben op de periode waarvoor die regeling gold.
 

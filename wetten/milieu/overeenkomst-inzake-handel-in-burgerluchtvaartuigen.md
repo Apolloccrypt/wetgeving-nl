@@ -1,13 +1,38 @@
 ---
 title: "Overeenkomst inzake handel in burgerluchtvaartuigen"
 identifier: "BWBV0001023"
-categorie: "Milieu"
-publicatiedatum: 1988-01-01
-laatste_update: 1988-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001023"
+country: "nl"
+rank: "verdrag"
+publication_date: "1988-01-01"
+last_updated: "1988-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001023"
+soort: "verdrag"
+stam_id: "10002404253"
+version_id: "10002411702"
+internal_id: "C10006979021"
+label_id: "10002393984"
+dtd_version: "2.0"
+original_entry_into_force: "1981-05-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001023/1988-01-01/0"
+intitule_bron: "Trb.1980-20"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1981-04-14"
+intitule_published: "1980-02-15"
+intitule_in_force: "1981-06-15"
+intitule_status: "goed"
+original_publication: "Trb.1980-20"
+original_signed_date: "1981-04-14"
+original_published_date: "1980-02-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1980-20"
+entry_into_force_date: "1981-05-14"
+jci_1_3: "jci1.3:c:BWBV0001023&z=1988-01-01&g=1988-01-01"
+jci_1_0: "1.0:c:BWBV0001023&g=1988-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "1981-04-14"
+entry_into_force: "1981-05-14"
 ---
-
 # Overeenkomst inzake handel in burgerluchtvaartuigen
 
 Preambule
@@ -38,7 +63,7 @@ Geleid door de wens een internationaal kader voor de handel in burgerluchtvaartu
 
 Hebben overeenstemming bereikt omtrent het volgende:
 
-#### Artikel 1. Produkten
+##### Artikel 1. Produkten
 
 1.1. Deze Overeenkomst is van toepassing op de volgende produkten:
 
@@ -58,7 +83,7 @@ ongeacht het feit of zij als oorspronkelijke dan wel als vervangende uitrusting 
 
 - b). alle overige in artikel 1, eerste lid, genoemde produkten.
 
-#### Artikel 2. Douanerechten en andere heffingen
+##### Artikel 2. Douanerechten en andere heffingen
 
 2.1. De Ondertekenaars komen overeen:
 
@@ -76,11 +101,11 @@ ongeacht het feit of zij als oorspronkelijke dan wel als vervangende uitrusting 
 
 - c). stelt de andere Ondertekenaars in kennis van de administratieve bepalingen van zijn op de eindbestemming gebaseerde systeem.
 
-#### Artikel 3. Technische handelsbelemmeringen
+##### Artikel 3. Technische handelsbelemmeringen
 
 3.1. De Ondertekenaars nemen er nota van dat de bepalingen van de Overeenkomst inzake technische handelsbelemmeringen van toepassing zijn op de handel in burgerluchtvaartuigen. Voorts zijn de Ondertekenaars overeengekomen dat ten aanzien van de voorschriften inzake certificering van burgerluchtvaartuigen en de specificaties met betrekking tot de bedienings- en onderhoudsprocedures van deze luchtvaartuigen de bepalingen van de Overeenkomst inzake technische handelsbelemmeringen van toepassing zijn tussen de Ondertekenaars.
 
-#### Artikel 4. Aankopen in opdracht van de Overheid, verplichte contracten inzake onderaanneming en overredingspogingen
+##### Artikel 4. Aankopen in opdracht van de Overheid, verplichte contracten inzake onderaanneming en overredingspogingen
 
 4.1. De kopers van burgerluchtvaartuigen dienen hun leveranciers vrij te kunnen kiezen op grond van commerciële en technologische overwegingen.
 
@@ -90,13 +115,13 @@ ongeacht het feit of zij als oorspronkelijke dan wel als vervangende uitrusting 
 
 4.4. De Ondertekenaars komen overeen, zich te onthouden van overredingspogingen van welke aard ook ten aanzien van de verkoop of de aankoop van burgerluchtvaartuigen van bepaalde oorsprong, die zouden leiden tot discriminatie ten nadele van leveranciers van enige Ondertekenaar.
 
-#### Artikel 5. Handelsbeperkingen
+##### Artikel 5. Handelsbeperkingen
 
 5.1. De Ondertekenaars passen geen kwantitatieve beperkingen (invoercontingenten) of maatregelen inzake invoervergunningen toe, waardoor de invoer van burgerluchtvaartuigen wordt beperkt op een wijze die niet in overeenstemming is met de bepalingen van de GATT. Deze bepaling sluit niet de toepassing uit van maatregelen inzake invoercontrole of invoervergunningen in overeenstemming met de voorschriften van de GATT.
 
 5.2. De Ondertekenaars passen geen kwantitatieve beperkingen, systemen van exportvergunningen of andere soortgelijke maatregelen toe, waardoor de uitvoer van burgerluchtvaartuigen naar andere Ondertekenaars om commerciële redenen of uit concurrentieoverwegingen wordt beperkt op een wijze die niet in overeenstemming is met de geldende bepalingen van de GATT.
 
-#### Artikel 6. Overheidssteun, exportkredieten en op de markt brengen van luchtvaartuigen
+##### Artikel 6. Overheidssteun, exportkredieten en op de markt brengen van luchtvaartuigen
 
 6.1. De Ondertekenaars nemen er nota van dat de bepalingen van de Overeenkomst inzake de uitleg en de toepassing van de artikelen VI, XVI en XXIII van de Algemene Overeenkomst inzake Tarieven en Handel (Overeenkomst betreffende subsidies en compenserende maatregelen) van toepassing zijn op de handel in burgerluchtvaartuigen. Zij bevestigen dat zij bij hun deelneming of steun aan programma's inzake burgerluchtvaartuigen eventueel nadelige gevolgen voor de handel in burgerluchtvaartuigen in de zin van artikel 8, derde en vierde lid, van de Overeenkomst betreffende subsidies en compenserende maatregelen zullen trachten te voorkomen.
 
@@ -104,11 +129,11 @@ Zij houden eveneens rekening met speciale factoren in de Iuchtvaartsector, in he
 
 6.2. De Ondertekenaars komen overeen dat de prijs van burgerluchtvaartuigen zodanig dient te worden vastgesteld, dat er redelijke vooruitzichten op dekking van alle kosten bestaan, met inbegrip van de eenmalige programmakosten en de aanwijsbare en naar rato omgeslagen kosten van militaire research- en ontwikkelingswerk inzake luchtvaartuigen, onderdelen en systemen die vervolgens toepassing vinden bij de produktie van burgerluchtvaartuigen, alsmede de gemiddelde produktiekosten en de financiële kosten.
 
-#### Artikel 7. Regionale en plaatselijke overheid
+##### Artikel 7. Regionale en plaatselijke overheid
 
 7.1. Behalve andere uit deze Overeenkomst voortvloeiende verplichtingen komen de Ondertekenaars overeen de regionale en plaatselijke overheid en autoriteiten, de niet-gouvernementele of andere instellingen niet te verplichten of aan te moedigen, direct of indirect, maatregelen te nemen die onverenigbaar zijn met de bepalingen van deze Overeenkomst.
 
-#### Artikel 8. Toezicht, onderzoek, overleg en beslechting van geschillen
+##### Artikel 8. Toezicht, onderzoek, overleg en beslechting van geschillen
 
 8.1. Er wordt een Comité voor de handel in burgerluchtvaartuigen (hierna „het Comité" genoemd) ingesteld, bestaande uit vertegenwoordigers van alle Ondertekenaars. Het Comité kiest zijn eigen Voorzitter. Het Comité komt zo dikwijls als noodzakelijk is bijeen, doch ten minste éénmaal per jaar, ten einde de Ondertekenaars in de gelegenheid te stellen overleg te plegen over alle vraagstukken met betrekking tot de toepassing van deze Overeenkomst, met inbegrip van de ontwikkelingen van de burgerluchtvaartindustrie, na te gaan of wijzigingen noodzakelijk zijn ter verzekering van een vrij en ongestoord handelsverkeer, alle vraagstukken te behandelen waarvoor door middel van bilateraal overleg geen bevredigende oplossing is gevonden, en de taken uit te voeren die haar ingevolge deze Overeenkomst of door de Ondertekenaars kunnen worden opgedragen.
 
@@ -128,7 +153,7 @@ Zij houden eveneens rekening met speciale factoren in de Iuchtvaartsector, in he
 
 Indien de partijen bij het geschil zulks overeenkomen, worden deze procedures eveneens toegepast om een geschil te beslechten met betrekking tot een aangelegenheid waarop deze Overeenkomst en enig ander multilateraal, onder auspiciën van de GATT gesloten, akkoord van toepassing is.
 
-#### Artikel 9. Slotbepalingen
+##### Artikel 9. Slotbepalingen
 
 9.1. Aanvaarding en toetreding
 

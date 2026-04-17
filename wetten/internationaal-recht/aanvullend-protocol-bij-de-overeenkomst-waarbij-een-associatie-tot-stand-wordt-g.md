@@ -1,13 +1,32 @@
 ---
 title: "Aanvullend Protocol bij de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschap en Turkije naar aanleiding van de uitbreiding van de Europese Unie"
 identifier: "BWBV0005453"
-categorie: "Internationaal recht"
-publicatiedatum: 2004-05-01
-laatste_update: 2004-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005453"
+country: "nl"
+rank: "verdrag"
+publication_date: "2004-05-01"
+last_updated: "2004-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005453"
+soort: "verdrag"
+stam_id: "10004637463"
+version_id: "10004893802"
+internal_id: "C10008335971"
+label_id: "10004621904"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005453/2004-05-01/0"
+intitule_bron: "Trb.2007-160"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2007-08-24"
+intitule_status: "nogniet"
+original_publication: "Trb.2007-160"
+original_published_date: "2007-08-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2007-160"
+jci_1_3: "jci1.3:c:BWBV0005453&z=2004-05-01&g=2004-05-01"
+jci_1_0: "1.0:c:BWBV0005453&g=2004-05-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2007-08-24"
 ---
-
 # Aanvullend Protocol bij de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschap en Turkije naar aanleiding van de uitbreiding van de Europese Unie
 
 Het Koninkrijk België,
@@ -84,7 +103,7 @@ Zijn als volgt overeengekomen:
 
 ### PARTIJEN EN GRONDGEBIED WAAR DE OVEREENKOMST WORDT TOEGEPAST
 
-#### Artikel 1
+##### Artikel 1
 
 1. De Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek (hierna de „nieuwe lidstaten” genoemd) worden partij bij de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije, die op 12 september 1963 te Ankara is ondertekend, en dienen, zoals de andere lidstaten van de Europese Gemeenschap, te weten het Koninkrijk België, het Koninkrijk Denemarken, de Duitse Bondsrepubliek, de Franse Republiek, Ierland, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, alsmede de Helleense Republiek, het Koninkrijk Spanje, de Republiek Oostenrijk, de Portugese Republiek, de Republiek Finland en het Koninkrijk Zweden, de teksten van deze overeenkomst en de protocollen en verklaringen die aan de op diezelfde datum ondertekende slotakte zijn gehecht, alsmede alle latere wijzigingen, overeenkomsten, protocollen, besluiten en verklaringen die met de overeenkomst van Ankara verband houden, respectievelijk goed te keuren en er nota van te nemen.
 
@@ -94,27 +113,27 @@ Zijn als volgt overeengekomen:
 
 ### VERSTRIJKEN VAN HET EGKS-VERDRAG EN EGKS-PRODUCTEN
 
-#### Artikel 2. Verstrijken van het EGKS-Verdrag
+##### Artikel 2. Verstrijken van het EGKS-Verdrag
 
 Teneinde rekening te houden met de recente institutionele ontwikkelingen binnen de Europese Unie, komen de partijen overeen dat na het verstrijken van het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal (EGKS) de bestaande bepalingen van de overeenkomst en daarmee verband houdende teksten bedoeld in artikel 1, lid 1, die naar de Europese Gemeenschap voor Kolen en Staal verwijzen, geacht worden te verwijzen naar de Europese Gemeenschap, die alle door de Europese Gemeenschap voor Kolen en Staal aangegane rechten en verplichtingen heeft overgenomen.
 
-#### Artikel 3. Oorsprongsregels
+##### Artikel 3. Oorsprongsregels
 
 Wijzigt de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije; Ankara, 12 september 1963.
 
 ### LANDBOUWPRODUCTEN
 
-#### Artikel 4. Oorsprongsregels
+##### Artikel 4. Oorsprongsregels
 
 Wijzigt Protocol nr. 3 bij Besluit nr. 1/98 van de Associatieraad EG–Turkije van 25 februari 1998 betreffende de handelsregeling voor landbouwproducten.
 
-#### Artikel 5. Aanpassing van tariefcontingenten voor landbouwproducten
+##### Artikel 5. Aanpassing van tariefcontingenten voor landbouwproducten
 
 De regeling voor de invoer in de Gemeenschap van bepaalde landbouwproducten van oorsprong uit Turkije en de regeling voor de invoer in Turkije van bepaalde landbouwproducten van oorsprong uit de Gemeenschap worden zo spoedig mogelijk door de partijen gezamenlijk en ordelijk overeengekomen in het institutionele kader van de overeenkomst van Ankara. Daarbij worden de bestaande handelsconcessies en de traditionele handelsstromen voor landbouwproducten tussen Turkije en de nieuwe lidstaten gerespecteerd.
 
 ### BEPALINGEN INZAKE DE DOUANE-UNIE
 
-#### Artikel 6. Certificaat inzake goederenverkeer A.TR. en administratieve samenwerking
+##### Artikel 6. Certificaat inzake goederenverkeer A.TR. en administratieve samenwerking
 
 1. Certificaten inzake goederenverkeer A.TR die door Turkije of de nieuwe lidstaten zijn afgegeven, worden in de desbetreffende landen aanvaard. Voorschriften voor de afgifte van certificaten inzake goederenverkeer A.TR en bepalingen inzake administratieve samenwerking op dit gebied zijn opgenomen in Besluit nr. 1/2001 van het Comité douanesamenwerking EG–Turkije1)PB L 98 van 7.4.2001, blz. 31. Besluit gewijzigd bij Besluit nr. 1/2003 (PB L 28 van 4.2.2003, blz. 51)..
 
@@ -250,7 +269,7 @@ SV „UTFÄRDAT I EFTERHAND”
 
 TR „SONRADAN VERİLMİŞTİR”.
 
-#### Artikel 7. Passieve veredeling
+##### Artikel 7. Passieve veredeling
 
 1. Inlichtingenbladen INF 2 die door Turkije of de nieuwe lidstaten zijn afgegeven overeenkomstig de artikelen 22 tot en met 26 van Besluit nr. 1/2001 van het Comité douanesamenwerking EG–Turkije, worden in de desbetreffende landen aanvaard.
 
@@ -298,7 +317,7 @@ SV „DUPLIKAT”
 
 TR „İKİNCİ NÜSHADIR”
 
-#### Artikel 8. Terugkerende goederen
+##### Artikel 8. Terugkerende goederen
 
 1. Inlichtingenbladen INF 3 die door Turkije of de nieuwe lidstaten zijn afgegeven overeenkomstig de artikelen 35 tot en met 41 van Besluit nr. 1/2001 van het Comité douanesamenwerking EG–Turkije, worden in de desbetreffende landen aanvaard.
 
@@ -348,7 +367,7 @@ TR „İKİNCİ NÜSHADIR”
 
 ### OVERGANGSBEPALINGEN
 
-#### Artikel 9. Bewijs van status van goederen volgens de bepalingen inzake het vrije verkeer van industrieproducten
+##### Artikel 9. Bewijs van status van goederen volgens de bepalingen inzake het vrije verkeer van industrieproducten
 
 1. Oorsprongsbewijzen die door Turkije of een nieuwe lidstaat zijn afgegeven in het kader van onderling toegepaste preferentiële handelsovereenkomsten waarbij een cumulatie van de oorsprong met de Gemeenschap werd toegestaan, gebaseerd op gelijkluidende oorsprongsregels en een verbod op de terugbetaling of schorsing van douanerechten op de betrokken goederen, worden in de betrokken landen aanvaard als bewijs van status volgens de bepalingen inzake het vrije verkeer van industrieproducten, zoals neergelegd in Besluit nr. 1/95 van de Associatieraad EG-Turkije van 22 december 19951)PB L 35 van 13.2.1996, blz. 1). Besluit gewijzigd bij Besluit nr. 2/1999 (PB L 72 van 18.3.1999, blz. 36.), mits:
 
@@ -360,7 +379,7 @@ Indien goederen vóór 1 mei 2004 ten invoer zijn aangegeven in Turkije of een v
 
 2. Verzoeken om controle achteraf van oorsprongsbewijzen als bedoeld in lid 1, worden gedurende een periode van drie jaar na de afgifte van die bewijzen aanvaard door de bevoegde douaneautoriteiten van Turkije en de nieuwe lidstaten, en kunnen door die autoriteiten nog worden gedaan gedurende een periode van drie jaar na de aanvaarding van de oorsprongsbewijzen die bij die autoriteiten ter staving van een aangifte ten invoer waren ingediend.
 
-#### Artikel 10. Bewijs van oorsprong en administratieve samenwerking op grond van de preferentiële overeenkomsten inzake kolen en staalproducten en landbouwproducten2)Zie de aan het Toetredingsverdrag van 2003 gehechte Toetredingsakte, bijlage IV nr. 5, leden 3 tot en met 5 (PB L 236 van 13.9.2003, blz. 33).
+##### Artikel 10. Bewijs van oorsprong en administratieve samenwerking op grond van de preferentiële overeenkomsten inzake kolen en staalproducten en landbouwproducten2)Zie de aan het Toetredingsverdrag van 2003 gehechte Toetredingsakte, bijlage IV nr. 5, leden 3 tot en met 5 (PB L 236 van 13.9.2003, blz. 33).
 
 1. Oorsprongsbewijzen die door Turkije of een van de nieuwe lidstaten zijn afgegeven in het kader van preferentiële overeenkomsten die deze landen onderling toepasten voor andere dan de in artikel 9 genoemde producten, worden in de betrokken landen aanvaard, mits:
 
@@ -382,7 +401,7 @@ Deze vergunningen worden uiterlijk een jaar na de toetredingsdatum vervangen doo
 
 3. Verzoeken om controle achteraf van bewijzen van oorsprong die zijn afgegeven op grond van de preferentiële overeenkomsten als bedoeld in de leden 1 en 2, worden gedurende een periode van drie jaar na de afgifte van het betrokken bewijs aanvaard door de bevoegde douaneautoriteiten van Turkije en de lidstaten, en kunnen door die autoriteiten nog worden gedaan gedurende een periode van drie jaar na de aanvaarding van de bewijzen van oorsprong die bij die autoriteiten ter staving van een aangifte ten invoer zijn ingediend.
 
-#### Artikel 11. Goederen in doorvoer
+##### Artikel 11. Goederen in doorvoer
 
 1. De bepalingen inzake het vrije verkeer van industrieproducten in Besluit nr. 1/95 van de Associatieraad EG-Turkije, of de preferentiële tariefbehandeling op grond van de preferentiële tariefmaatregelen van de overeenkomst inzake kolen en staalproducten en het besluit inzake landbouwproducten, kunnen worden toegepast op goederen die uit Turkije naar een van de nieuwe lidstaten of uit een van de nieuwe lidstaten naar Turkije worden uitgevoerd, indien deze goederen voldoen aan ofwel de voorwaarden voor de tenuitvoerlegging van de bepalingen inzake het vrije verkeer van industrieproducten, ofwel de bepalingen van Protocol nr. 1 bij de overeenkomst inzake kolen en staalproducten, ofwel de bepalingen van Protocol nr. 3 bij het besluit inzake landbouwproducten, en op de datum van toetreding in doorvoer waren dan wel in tijdelijke opslag in een douane-entrepot of een vrije zone in Turkije of in die nieuwe lidstaat.
 
@@ -390,25 +409,25 @@ Deze vergunningen worden uiterlijk een jaar na de toetredingsdatum vervangen doo
 
 ### ALGEMENE BEPALINGEN EN SLOTBEPALINGEN
 
-#### Artikel 12
+##### Artikel 12
 
 Dit protocol is een integrerend onderdeel van de overeenkomst van Ankara.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Dit protocol wordt door de partijen bekrachtigd of goedgekeurd volgens hun eigen procedures.
 
 2. De partijen stellen elkaar in kennis van de voltooiing van de in lid 1 bedoelde procedures. De akten van bekrachtiging of goedkeuring worden nedergelegd bij het secretariaat-generaal van de Raad van de Europese Unie.
 
-#### Artikel 14
+##### Artikel 14
 
 Dit protocol treedt in werking op de eerste dag van de eerste maand volgende op de datum waarop de laatste akte van bekrachtiging of van goedkeuring is nedergelegd; het is van toepassing met ingang van 1 mei 2004.
 
-#### Artikel 15
+##### Artikel 15
 
 Dit protocol is opgesteld in twee exemplaren in de Deense, de Duitse, de Engelse, de Estse, de Finse, de Franse, de Griekse, de Hongaarse, de Italiaanse, de Letse, de Litouwse, de Maltese, de Nederlandse, de Poolse, de Portugese, de Sloveense, de Slowaakse, de Spaanse, de Tsjechische, de Zweedse en de Turkse taal, zijnde alle teksten gelijkelijk authentiek.
 
-#### Artikel 16
+##### Artikel 16
 
 De tekst van de overeenkomst van Ankara, de bijlagen en de protocollen die daarvan een integrerend onderdeel vormen en de slotakte en de daaraan gehechte verklaringen worden opgemaakt in de Estse, de Hongaarse, de Letse, de Litouwse, de Maltese, de Poolse, de Sloveense, de Slowaakse en de Tsjechische taal; die teksten zijn evenzeer authentiek als de oorspronkelijke teksten. De Associatieraad stelt deze teksten vast.
 

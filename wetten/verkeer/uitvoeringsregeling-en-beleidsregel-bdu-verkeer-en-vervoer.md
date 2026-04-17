@@ -1,20 +1,45 @@
 ---
-title: "Uitvoeringsregeling en beleidsregel BDU verkeer en vervoer"
+title: "Regeling tot vaststelling van regels ter uitvoering van de BDU verkeer en vervoer en van een beleidsregel ter uitvoering van artikel 11, eerste lid, onderdeel b, van de Wet BDU verkeer en vervoer (Uitvoeringsregeling en beleidsregel BDU verkeer en vervoer)"
 identifier: "BWBR0018109"
-categorie: "Verkeer"
-publicatiedatum: 2025-11-12
-laatste_update: 2025-11-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0018109"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-11-12"
+last_updated: "2025-11-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0018109"
+soort: "ministeriele-regeling"
+stam_id: "6929123"
+version_id: "11796632"
+internal_id: "C15892601"
+label_id: "6917314"
+original_entry_into_force: "2005-04-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0018109/2025-11-12/0"
+intitule_bron: "Stcrt.2005-70"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-03-14"
+intitule_published: "2005-04-12"
+intitule_in_force: "2005-04-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-70"
+original_signed_date: "2005-03-14"
+original_published_date: "2005-04-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2005-70-p30-SC69559"
+entry_into_force_date: "2005-04-14"
+jci_1_3: "jci1.3:c:BWBR0018109&z=2025-11-12&g=2025-11-12"
+jci_1_0: "1.0:c:BWBR0018109&g=2025-11-12"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsregeling en beleidsregel BDU verkeer en vervoer"
+signed_date: "2005-03-14"
+entry_into_force: "2005-04-14"
 ---
-
 # Regeling tot vaststelling van regels ter uitvoering van de BDU verkeer en vervoer en van een beleidsregel ter uitvoering van artikel 11, eerste lid, onderdeel b, van de Wet BDU verkeer en vervoer (Uitvoeringsregeling en beleidsregel BDU verkeer en vervoer)
 
 Gelet op [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018113&artikel=4), [artikel 5, eerste en derde lid, van het Besluit BDU verkeer en vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0018113&artikel=5) en [artikel 11, eerste lid, onderdeel b, van de Wet BDU verkeer en vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&artikel=11);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -22,7 +47,7 @@ In deze regeling wordt verstaan onder:
 
 - b. uitkeringsontvanger: het openbaar lichaam dat een uitkering ontvangt.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het percentuele aandeel, bedoeld in [artikel 5, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&artikel=5), van een uitkeringsontvanger is de uitkomst van de formule:
 
@@ -47,7 +72,7 @@ in welke formule voorstelt:
 
 4. Actualisering van de gegevens, bedoeld in het tweede lid en van de rekenfactor bedoeld in het derde lid, geschiedt slechts op de gezamenlijke voordracht van de dagelijkse besturen van de in [artikel 36b Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=36b) genoemde openbare lichamen.
 
-#### Artikel 3
+##### Artikel 3
 
 Het absolute aandeel bedraagt voor het uitkeringsjaar 2026 het bij de uitkeringsontvanger genoemde bedrag in onderstaande tabel:
 
@@ -56,21 +81,21 @@ Het absolute aandeel bedraagt voor het uitkeringsjaar 2026 het bij de uitkerings
 | Openbaar lichaam als bedoeld in [artikel 36b, eerste lid, onderdeel a, Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=36b) | € 119.913.630,– |
 | Openbaar lichaam als bedoeld in [artikel 36b, eerste lid, onderdeel b, Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=36b) | € 131.369.545,– |
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 Indien de minister toepassing geeft aan [artikel 11, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&artikel=11), verlaagt hij de uitkering voor het betreffende uitkeringsjaar met € 150.000.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Deze regeling treedt in werking op het tijdstip waarop het [Besluit BDU verkeer en vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0018113) in werking treedt.
 
 2. Deze regeling treedt in afwijking van het eerste lid, in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin deze regeling is geplaatst, indien het [Besluit BDU verkeer en vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0018113) op een daarvoor liggend tijdstip in werking is getreden.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling en beleidsregel BDU verkeer en vervoer.
 

@@ -1,13 +1,39 @@
 ---
-title: "Besluit ondermandaat, volmacht en machtiging voor het directoraat-generaal Regieorganisatie Transitie Landelijk Gebied van het Ministerie van Landbouw, Natuur en Voedselkwaliteit 2023"
+title: "Besluit van de directeur-generaal Regieorganisatie Transitie Landelijk Gebied van het Ministerie van Landbouw, Natuur en Voedselkwaliteit van 3 april 2023, nr. 26818476, houdende verlening van ondermandaat, volmacht en machtiging voor het directoraat-generaal Regieorganisatie Transitie Landelijk Gebied van het Ministerie van Landbouw, Natuur en Voedselkwaliteit 2023 (Besluit ondermandaat, volmacht en machtiging voor het directoraat-generaal Regieorganisatie Transitie Landelijk Gebied van het Ministerie van Landbouw, Natuur en Voedselkwaliteit 2023)"
 identifier: "BWBR0048047"
-categorie: "Milieu"
-publicatiedatum: 2024-03-05
-laatste_update: 2024-03-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048047"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-03-05"
+last_updated: "2024-03-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048047"
+soort: "ministeriele-regeling"
+stam_id: "16720123"
+version_id: "29329172"
+internal_id: "C41788621"
+label_id: "16636754"
+dtd_version: "2.0"
+original_entry_into_force: "2023-04-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048047/2024-03-05/0"
+intitule_bron: "Stcrt.2023-10614"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-04-03"
+intitule_published: "2023-04-11"
+intitule_in_force: "2023-04-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-10614"
+original_signed_date: "2023-04-03"
+original_published_date: "2023-04-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-10614"
+entry_into_force_date: "2023-04-12"
+jci_1_3: "jci1.3:c:BWBR0048047&z=2024-03-05&g=2024-03-05"
+jci_1_0: "1.0:c:BWBR0048047&g=2024-03-05"
+citeertitel_status: "officieel"
+short_title: "Besluit ondermandaat, volmacht en machtiging voor het directoraat-generaal Regieorganisatie Transitie Landelijk Gebied van het Ministerie van Landbouw, Natuur en Voedselkwaliteit 2023"
+signed_date: "2023-04-03"
+entry_into_force: "2023-04-12"
 ---
-
 # Besluit van de directeur-generaal Regieorganisatie Transitie Landelijk Gebied van het Ministerie van Landbouw, Natuur en Voedselkwaliteit van 3 april 2023, nr. 26818476, houdende verlening van ondermandaat, volmacht en machtiging voor het directoraat-generaal Regieorganisatie Transitie Landelijk Gebied van het Ministerie van Landbouw, Natuur en Voedselkwaliteit 2023 (Besluit ondermandaat, volmacht en machtiging voor het directoraat-generaal Regieorganisatie Transitie Landelijk Gebied van het Ministerie van Landbouw, Natuur en Voedselkwaliteit 2023)
 
 Gelet op [artikel 10 van het Besluit mandaat, volmacht en machtiging LNV 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&artikel=10);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -34,7 +60,7 @@ In dit besluit wordt verstaan onder:
 
 #### § 2. Taakverdeling tussen de directeur-generaal en de onder hem ressorterende medewerkers
 
-#### Artikel 2
+##### Artikel 2
 
 Aan de directeur-generaal is voorbehouden: het nemen van besluiten, het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van andere handelingen dan een besluit of een privaatrechtelijke rechtshandeling betreffende de volgende aangelegenheden:
 
@@ -46,7 +72,7 @@ Aan de directeur-generaal is voorbehouden: het nemen van besluiten, het verricht
 
 - 2°. die door een directeur aan de directeur-generaal ter afhandeling worden voorgelegd, tenzij zij naar het oordeel van de directeur-generaal door een andere directeur moeten worden behandeld.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Aan de directeuren wordt, ieder voor zich, mandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 2.000.000 per verplichting niet te boven gaat.
 
@@ -62,7 +88,7 @@ Aan de directeur-generaal is voorbehouden: het nemen van besluiten, het verricht
 
 - e. het accorderen van aanvragen voor dienstreizen en het goedkeuren van reiskostendeclaraties.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Aan de managers en MT-leden wordt, ieder voor zich, mandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 100.000 per verplichting niet te boven gaat.
 
@@ -86,7 +112,7 @@ Aan de directeur-generaal is voorbehouden: het nemen van besluiten, het verricht
 
 #### § 3. Vervanging
 
-#### Artikel 5
+##### Artikel 5
 
 1. De uit dit besluit voor de directeur Programmabureau Transitie en de directeur Netwerkfaciliteit voortvloeiende bevoegdheden gaan in geval van afwezigheid over op de andere directeur als zijn plaatsvervanger. Bij afwezigheid van zowel de directeur als zijn plaatsvervanger gaan de uit dit besluit voortvloeiende bevoegdheden over op een door hem aangewezen manager van het directoraat-generaal Regieorganisatie Transitie Landelijk Gebied. De uit dit besluit voor de programmadirecteur Uitvoering Aanpak Piekbelasting voortvloeiende bevoegdheden gaan in geval van afwezigheid over op zijn plaatsvervanger.
 
@@ -98,17 +124,17 @@ Aan de directeur-generaal is voorbehouden: het nemen van besluiten, het verricht
 
 #### § 4. Slotbepalingen
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit treedt in werking met ingang van de dag na uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 oktober 2022.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit wordt aangehaald als: Besluit ondermandaat, volmacht en machtiging voor het directoraat-generaal Regieorganisatie Transitie Landelijk Gebied van het Ministerie van Landbouw, Natuur en Voedselkwaliteit 2023.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-#### Artikel 3a
+##### Artikel 3a
 
 1. Aan de manager Grondzaken wordt mandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 500.000 per verplichting niet te boven gaat. De manager Grondzaken rapporteert tweemaal per jaar aan de directeur Netwerkfaciliteit over de gebruikmaking van zijn bevoegdheden ten behoeve van grondaankopen.
 

@@ -1,14 +1,42 @@
 ---
-title: "Algemene wet erkenning EU-beroepskwalificaties"
+title: "Wet van 6 december 2007, houdende algemene bepalingen met betrekking tot de erkenning van EG-beroepskwalificaties (Algemene wet erkenning EG-beroepskwalificaties)"
 identifier: "BWBR0023066"
-categorie: "Overig"
-publicatiedatum: 2021-08-26
-laatste_update: 2021-08-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0023066"
+country: "nl"
+rank: "wet"
+publication_date: "2021-08-26"
+last_updated: "2021-08-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023066"
+soort: "wet"
+stam_id: "9329263"
+version_id: "22953972"
+internal_id: "C33183201"
+label_id: "9308324"
+dtd_version: "2.0"
+original_entry_into_force: "2015-12-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023066/2021-08-26/0"
+intitule_bron: "Stb.2007-530"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-12-06"
+intitule_published: "2007-12-20"
+intitule_in_force: "2007-12-20"
+intitule_status: "goed"
+original_publication: "Stb.2015-478"
+original_signed_date: "2015-12-02"
+original_published_date: "2015-12-11"
+original_effect: "structuurwijziging"
+original_dossier: "34272"
+original_url_id: "stb-2015-478"
+entry_into_force_date: "2015-12-02"
+entry_into_force_dossier: "34272"
+jci_1_3: "jci1.3:c:BWBR0023066&z=2021-08-26&g=2021-08-26"
+jci_1_0: "1.0:c:BWBR0023066&g=2021-08-26"
+citeertitel_status: "officieel"
+short_title: "Algemene wet erkenning EU-beroepskwalificaties"
+signed_date: "2015-12-02"
+entry_into_force: "2015-12-02"
 ---
-
-# Algemene wet erkenning EU-beroepskwalificaties
+# Wet van 6 december 2007, houdende algemene bepalingen met betrekking tot de erkenning van EG-beroepskwalificaties (Algemene wet erkenning EG-beroepskwalificaties)
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -24,31 +52,31 @@ bron: "https://wetten.overheid.nl/BWBR0023066"
 
 ## Onderwijs, Cultuur en Wetenschap
 
-#### Artikel 42
+##### Artikel 42
 
 Wijzigt de Algemene wet erkenning EG-beroepsopleidingen.
 
-#### Artikel 42a
+##### Artikel 42a
 
 Wijzigt de Wet educatie en beroepsonderwijs.
 
-#### Artikel 43
+##### Artikel 43
 
 Wijzigt de Wet op de expertisecentra.
 
-#### Artikel 44
+##### Artikel 44
 
 Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
 
-#### Artikel 45
+##### Artikel 45
 
 Wijzigt de Wet op het primair onderwijs.
 
-#### Artikel 46
+##### Artikel 46
 
 Wijzigt de Wet verzelfstandiging Informatiseringsbank.
 
-#### Artikel 47
+##### Artikel 47
 
 Wijzigt de Wet op het voortgezet onderwijs.
 
@@ -68,7 +96,7 @@ dat deze regels voor onderdanen van de lidstaten van de Europese Unie, andere st
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -134,17 +162,17 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 **verklaring omtrent het gedrag**: verklaring als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28).
 
-#### Artikel 2. Orgaan organisatie van beroepsbeoefenaars
+##### Artikel 2. Orgaan organisatie van beroepsbeoefenaars
 
 1. Voor de erkenning als specialist in de zin van [artikel 14 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=14) wordt onder Onze Minister die het aangaat verstaan het orgaan, bedoeld in [artikel 14, tweede lid, onder e, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=14).
 
 2. Het bepaalde in het eerste lid is niet van toepassing op de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=2&artikel=17&z=2021-08-26&g=2021-08-26), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=2&artikel=18&z=2021-08-26&g=2021-08-26), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=4&artikel=33&z=2021-08-26&g=2021-08-26), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=4&artikel=34&z=2021-08-26&g=2021-08-26), en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=4&artikel=36&z=2021-08-26&g=2021-08-26).
 
-#### Artikel 3. Hetzelfde beroep
+##### Artikel 3. Hetzelfde beroep
 
 Voor de toepassing van deze wet en de daarop berustende bepalingen wordt het beroep dat de migrerende beroepsbeoefenaar in een betrokken staat wenst uit te oefenen, aangemerkt als hetzelfde als dat waarvoor hij in de betrokken staat van oorsprong of herkomst de kwalificaties bezit, indien daaronder vergelijkbare werkzaamheden vallen.
 
-#### Artikel 4. Reikwijdte
+##### Artikel 4. Reikwijdte
 
 1. Deze wet is van toepassing op gereglementeerde beroepen, voor zover niet bij of krachtens wet ten aanzien van een beroep is geïmplementeerd:
 
@@ -158,13 +186,13 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt het ber
 
 ### Hoofdstuk 2. Erkenning van beroepskwalificaties
 
-#### Artikel 5. Erkenning beroepskwalificaties
+##### Artikel 5. Erkenning beroepskwalificaties
 
 1. Onze Minister die het aangaat kan erkenning van beroepskwalificaties verlenen aan een migrerende beroepsbeoefenaar die in Nederland toegang tot of uitoefening van een gereglementeerd beroep wenst op basis van beroepskwalificaties die in een andere betrokken staat verplicht zijn gesteld voor toegang tot of uitoefening van dat beroep.
 
 2. De migrerende beroepsbeoefenaar aan wie erkenning van beroepskwalificaties is verleend ten aanzien van een gereglementeerd beroep, voldoet aan de bij of krachtens wet voor de toelating tot of uitoefening van het desbetreffende beroep vereiste beroepskwalificaties en kan dat beroep uitoefenen onder de voorwaarden die in Nederland voor die beroepsuitoefening zijn gesteld.
 
-#### Artikel 6. Vereisten erkenning beroepskwalificaties
+##### Artikel 6. Vereisten erkenning beroepskwalificaties
 
 1. Onze Minister die het aangaat verleent erkenning van beroepskwalificaties indien de migrerende beroepsbeoefenaar in het bezit is van een opleidingstitel die of een door het bevoegd gezag in een andere betrokken staat dan Nederland afgegeven bekwaamheidsattest dat blijk geeft van een beroepskwalificatieniveau, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=2&artikel=9&z=2021-08-26&g=2021-08-26), dat in de andere betrokken staat verplicht wordt gesteld aan de uitoefening van het betrokken beroep.
 
@@ -176,15 +204,15 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt het ber
 
 - b. het certificaat waarmee de andere betrokken staat verklaart dat de opleiding, bedoeld in [artikel 9, onderdeel c, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=2&artikel=9&z=2021-08-26&g=2021-08-26), gelijkwaardig is aan het niveau, bedoeld in artikel 9, onderdeel c, onder 1°.
 
-#### Artikel 7. Gereglementeerde opleiding
+##### Artikel 7. Gereglementeerde opleiding
 
 De beroepservaring van een jaar, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=2&artikel=6&z=2021-08-26&g=2021-08-26), wordt niet geëist indien de migrerende beroepsbeoefenaar met de opleidingstitel of opleidingstitels een gereglementeerde opleiding heeft afgesloten.
 
-#### Artikel 8. Geen erkenning beroepskwalificaties bij vier niveaus verschil
+##### Artikel 8. Geen erkenning beroepskwalificaties bij vier niveaus verschil
 
 In afwijking van de [artikelen 6, eerste en tweede lid, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=2&artikel=6&z=2021-08-26&g=2021-08-26), en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=2&artikel=11&z=2021-08-26&g=2021-08-26), kan Onze Minister die het aangaat erkenning van beroepskwalificaties weigeren indien de migrerende beroepsbeoefenaar in het bezit is van een bekwaamheidsattest op het kwalificatieniveau, bedoeld in [artikel 9, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=2&artikel=9&z=2021-08-26&g=2021-08-26), en voor toegang tot of uitoefening van het betrokken beroep een beroepskwalificatie van het kwalificatieniveau, bedoeld in artikel 9, onderdeel a, verplicht is gesteld.
 
-#### Artikel 9. Kwalificatieniveaus
+##### Artikel 9. Kwalificatieniveaus
 
 Voor de toepassing van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=2&artikel=6&z=2021-08-26&g=2021-08-26) en [artikel 11, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=2&artikel=11&z=2021-08-26&g=2021-08-26), worden de beroepskwalificaties onderscheiden in de volgende vijf niveaus:
 
@@ -218,7 +246,7 @@ Voor de toepassing van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR00230
 
 - 4°. na het volgen van een algemene opleiding op het niveau van het primair of secundair onderwijs, waaruit een zekere algemene ontwikkeling blijkt.
 
-#### Artikel 10. Gelijkstelling van beroepskwalificaties
+##### Artikel 10. Gelijkstelling van beroepskwalificaties
 
 Met een opleidingstitel ter afsluiting van een in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=2&artikel=9&z=2021-08-26&g=2021-08-26) bedoelde opleiding, met inbegrip van het betrokken niveau, wordt gelijkgesteld:
 
@@ -226,7 +254,7 @@ Met een opleidingstitel ter afsluiting van een in [artikel 9](https://wetten.ove
 
 - b. een beroepskwalificatie die weliswaar niet meer voldoet aan de eisen die bij of krachtens wet in de betrokken staat van oorsprong of herkomst voor de toegang tot of uitoefening van een beroep zijn vastgesteld, maar die de houder ervan bij of krachtens wet in die betrokken staat verworven rechten verleent.
 
-#### Artikel 11. Compenserende maatregelen
+##### Artikel 11. Compenserende maatregelen
 
 1. Onze Minister die het aangaat kan eisen dat de migrerende beroepsbeoefenaar een aanpassingsstage van ten hoogste drie jaar doorloopt of een proeve van bekwaamheid aflegt, indien:
 
@@ -260,7 +288,7 @@ Met een opleidingstitel ter afsluiting van een in [artikel 9](https://wetten.ove
 
 8. Onze Minister die het aangaat stelt de migrerende beroepsbeoefenaar van wie hij een proeve van bekwaamheid eist in de gelegenheid de proeve van bekwaamheid af te leggen binnen zes maanden na het nemen van het besluit.
 
-#### Artikel 12. Gedeeltelijke toegang
+##### Artikel 12. Gedeeltelijke toegang
 
 1. Indien de verschillen tussen in de betrokken staat van oorsprong of herkomst verrichte beroepswerkzaamheden en de beroepswerkzaamheden die het in Nederland gereglementeerde beroep omvat dermate groot zijn dat het eisen van een aanpassingsstage dan wel proeve van bekwaamheid, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=2&artikel=11&z=2021-08-26&g=2021-08-26), zou neerkomen op het volgen van een volledig onderwijs- of opleidingsprogramma, verleent Onze Minister die het aangaat gedeeltelijke toegang tot het gereglementeerd beroep, als aan de volgende voorwaarden is voldaan:
 
@@ -274,7 +302,7 @@ Met een opleidingstitel ter afsluiting van een in [artikel 9](https://wetten.ove
 
 4. De migrerende beroepsbeoefenaar maakt aan de afnemers van de diensten duidelijk kenbaar welke beroepswerkzaamheden hij gerechtigd is uit te oefenen.
 
-#### Artikel 13. Documenten bij de aanvraag
+##### Artikel 13. Documenten bij de aanvraag
 
 1. Onze Minister die het aangaat kan alvorens te beslissen op een aanvraag om erkenning van beroepskwalificaties de volgende documenten eisen:
 
@@ -302,7 +330,7 @@ Met een opleidingstitel ter afsluiting van een in [artikel 9](https://wetten.ove
 
 2. Onze Minister die het aangaat kan de migrerende beroepsbeoefenaar verzoeken informatie omtrent zijn opleiding te verstrekken, voor zover dat noodzakelijk is voor de vaststelling van wezenlijke verschillen als bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=2&artikel=11&z=2021-08-26&g=2021-08-26). Indien de migrerende beroepsbeoefenaar deze informatie niet kan verstrekken, richt Onze Minister die het aangaat zich tot een assistentiecentrum als bedoeld in artikel 57 ter van de Richtlijn, de bevoegde autoriteit, of de relevante instelling van de betrokken staat van oorsprong.
 
-#### Artikel 14. Verklaring omtrent gedrag en faillissement
+##### Artikel 14. Verklaring omtrent gedrag en faillissement
 
 1. Indien de toegang tot of uitoefening van een gereglementeerd beroep mede afhankelijk is gesteld van:
 
@@ -314,7 +342,7 @@ Met een opleidingstitel ter afsluiting van een in [artikel 9](https://wetten.ove
 
 3. De in het eerste en tweede lid bedoelde verklaringen, documenten en attesten mogen bij indiening van een aanvraag tot het verkrijgen van een erkenning van beroepskwalificaties niet ouder zijn dan drie maanden.
 
-#### Artikel 15. Document inzake gezondheid
+##### Artikel 15. Document inzake gezondheid
 
 1. Indien de toegang tot of uitoefening van een gereglementeerd beroep mede afhankelijk is gesteld van een document betreffende de geestelijke of lichamelijke gezondheid, geldt als zodanig het document dat in de betrokken staat van oorsprong of herkomst ter zake is vereist.
 
@@ -322,7 +350,7 @@ Met een opleidingstitel ter afsluiting van een in [artikel 9](https://wetten.ove
 
 3. [Artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=2&artikel=14&z=2021-08-26&g=2021-08-26), is van overeenkomstige toepassing.
 
-#### Artikel 16. Bewijs van financiële draagkracht en verzekering
+##### Artikel 16. Bewijs van financiële draagkracht en verzekering
 
 1. Indien de toegang tot of uitoefening van een gereglementeerd beroep mede afhankelijk is gesteld van:
 
@@ -332,17 +360,17 @@ Met een opleidingstitel ter afsluiting van een in [artikel 9](https://wetten.ove
 
 2. [Artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=2&artikel=14&z=2021-08-26&g=2021-08-26), is van overeenkomstige toepassing.
 
-#### Artikel 17. Tuchtrechtelijke en strafrechtelijke inbreuken
+##### Artikel 17. Tuchtrechtelijke en strafrechtelijke inbreuken
 
 1. Indien Onze Minister die het aangaat de toegang tot of uitoefening van een gereglementeerd beroep tijdelijk of permanent verbiedt in geval van tuchtrechtelijke of strafrechtelijke inbreuken, gelden documenten afgegeven door het bevoegd gezag van de betrokken staat van oorsprong of herkomst waaruit blijkt dat aan de migrerende beroepsbeoefenaar geen tijdelijk of permanent tuchtrechtelijk of strafrechtelijk beroepsuitoefeningsverbod is opgelegd als genoegzaam bewijs.
 
 2. [Artikel 14, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=2&artikel=14&z=2021-08-26&g=2021-08-26), is van overeenkomstige toepassing.
 
-#### Artikel 18. Eed of belofte
+##### Artikel 18. Eed of belofte
 
 Indien voor de toegang tot of uitoefening van een gereglementeerd beroep het afleggen van een eed of belofte is vereist en de formule van deze eed of belofte niet door de migrerende beroepsbeoefenaar kan worden gebruikt, draagt Onze Minister die het aangaat ervoor zorg dat de migrerende beroepsbeoefenaar een passende gelijkwaardige formule kan gebruiken.
 
-#### Artikel 19. Procedure erkenning
+##### Artikel 19. Procedure erkenning
 
 1. Onze Minister die het aangaat bevestigt binnen een maand de ontvangst van een aanvraag om erkenning van beroepskwalificaties, en deelt bij die gelegenheid in voorkomend geval mede met welke documenten de aanvraag dient te worden aangevuld.
 
@@ -352,17 +380,17 @@ Indien voor de toegang tot of uitoefening van een gereglementeerd beroep het afl
 
 4. In geval van toepassing van het derde lid neemt Onze Minister die het aangaat zo spoedig mogelijk en in elk geval binnen een maand nadat de migrerende beroepsbeoefenaar een aanpassingsstage heeft doorlopen of een proeve van bekwaamheid heeft afgelegd, een besluit als bedoeld in het tweede lid.
 
-#### Artikel 20. Voeren van beroepstitel
+##### Artikel 20. Voeren van beroepstitel
 
 Indien in Nederland voorschriften gelden voor het voeren van de beroepstitel voor een van de werkzaamheden van het betrokken gereglementeerde beroep, voert de migrerende beroepsbeoefenaar die op grond van dit hoofdstuk is gerechtigd het gereglementeerde beroep uit te oefenen, de beroepstitel die in Nederland bij dit beroep behoort, en maakt de migrerende beroepsbeoefenaar gebruik van de eventuele afkorting van deze titel.
 
 ### Hoofdstuk 3. Tijdelijke en incidentele dienstverrichting
 
-#### Artikel 21. Begripsbepaling [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=3&z=2021-08-26&g=2021-08-26)
+##### Artikel 21. Begripsbepaling [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=3&z=2021-08-26&g=2021-08-26)
 
 In dit hoofdstuk wordt onder dienstverrichter verstaan een migrerende beroepsbeoefenaar die zich vanuit een andere betrokken staat waar de migrerende beroepsbeoefenaar op wettige wijze is gevestigd om er een beroep uit te oefenen naar Nederland begeeft om er bij wijze van tijdelijke en incidentele dienstverrichting hetzelfde gereglementeerde beroep uit te oefenen. Het tijdelijke en incidentele karakter van de dienstverrichting wordt per geval beoordeeld, met name in het licht van de duur, frequentie, regelmaat en continuïteit van de dienstverrichting.
 
-#### Artikel 22. Geen beperkingen op dienstverrichting
+##### Artikel 22. Geen beperkingen op dienstverrichting
 
 Onverminderd de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=3&artikel=23&z=2021-08-26&g=2021-08-26), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=3&artikel=24&z=2021-08-26&g=2021-08-26), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=3&artikel=27&z=2021-08-26&g=2021-08-26) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=3&artikel=28&z=2021-08-26&g=2021-08-26) stelt Onze Minister die het aangaat aan een dienstverrichter geen beperkingen wegens beroepskwalificaties indien:
 
@@ -370,7 +398,7 @@ Onverminderd de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&h
 
 - b. het beroep of de opleiding die leidt tot toegang tot of uitoefening van het beroep in een of meer betrokken staten niet is gereglementeerd en de migrerende beroepsbeoefenaar tijdens de tien jaar voorafgaand aan de dienstverrichting in Nederland gedurende ten minste een jaar dat beroep heeft uitgeoefend in een of meer betrokken staten.
 
-#### Artikel 23. Verklaring vooraf van dienstverrichter
+##### Artikel 23. Verklaring vooraf van dienstverrichter
 
 1. Onze Minister die het aangaat kan van een dienstverrichter voorafgaand aan de eerste dienstverrichting in Nederland een schriftelijke verklaring eisen met daarin gegevens betreffende verzekering of gelijksoortige bescherming tegen de financiële risico’s van beroepsaansprakelijkheid.
 
@@ -410,7 +438,7 @@ Onverminderd de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&h
 
 - c. Onze Minister die het aangaat over geen andere middelen beschikt om deze informatie te verkrijgen.
 
-#### Artikel 24. Vrijstellingen
+##### Artikel 24. Vrijstellingen
 
 Een dienstverrichter is vrijgesteld van de eisen die gelden voor in Nederland gevestigde beroepsbeoefenaren met betrekking tot:
 
@@ -420,7 +448,7 @@ Een dienstverrichter is vrijgesteld van de eisen die gelden voor in Nederland ge
 
 - c. de aansluiting bij een beroepsorganisatie.
 
-#### Artikel 25. Toepasselijkheid beroepsregels en tuchtrechtelijke bepalingen
+##### Artikel 25. Toepasselijkheid beroepsregels en tuchtrechtelijke bepalingen
 
 1. Een dienstverrichter valt onder de beroepsregels die rechtstreeks verband houden met beroepskwalificaties en de tuchtrechtelijke bepalingen die in Nederland van toepassing zijn op beoefenaren van hetzelfde beroep.
 
@@ -430,7 +458,7 @@ Een dienstverrichter is vrijgesteld van de eisen die gelden voor in Nederland ge
 
 4. Het moment van versturen van de kopieën, bedoeld in het derde lid, wordt gelijkgesteld met een automatische tijdelijke inschrijving of aansluiting pro forma als bedoeld in het tweede lid.
 
-#### Artikel 26. Beroepstitel en titel behorend bij opleiding
+##### Artikel 26. Beroepstitel en titel behorend bij opleiding
 
 1. De dienstverrichter voert de beroepstitel waartoe hij in de betrokken staat van vestiging is gerechtigd. Deze titel wordt vermeld in de officiële taal of één van de officiële talen van de betrokken staat van vestiging.
 
@@ -442,7 +470,7 @@ Een dienstverrichter is vrijgesteld van de eisen die gelden voor in Nederland ge
 
 - b. in de gevallen waarin de beroepskwalificaties overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=3&artikel=27&z=2021-08-26&g=2021-08-26) zijn geverifieerd.
 
-#### Artikel 27. Controle in verband met volksgezondheid of openbare veiligheid
+##### Artikel 27. Controle in verband met volksgezondheid of openbare veiligheid
 
 1. Onze Minister die het aangaat kan voorafgaand aan de eerste dienstverrichting de beroepskwalificaties van de dienstverrichter controleren indien de te verrichten dienst een gereglementeerd beroep betreft met implicaties voor de volksgezondheid of de openbare veiligheid en dat is geplaatst op een door Onze Minister bij ministeriële regeling vastgestelde lijst.
 
@@ -452,7 +480,7 @@ Een dienstverrichter is vrijgesteld van de eisen die gelden voor in Nederland ge
 
 4. Het eerste tot en met derde lid zijn niet van toepassing in geval van beroepskwalificaties als bedoeld in [artikel 30c](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=3b&artikel=30c&z=2021-08-26&g=2021-08-26).
 
-#### Artikel 28. Procedure controle
+##### Artikel 28. Procedure controle
 
 1. In geval van toepassing van [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=3&artikel=27&z=2021-08-26&g=2021-08-26), beslist Onze Minister die het aangaat binnen een maand na ontvangst van de verklaring en de documenten, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=3&artikel=23&z=2021-08-26&g=2021-08-26):
 
@@ -474,7 +502,7 @@ Een dienstverrichter is vrijgesteld van de eisen die gelden voor in Nederland ge
 
 5. In het geval van toepassing van het eerste lid, onderdeel b, onder 3°, is [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=2&artikel=12&z=2021-08-26&g=2021-08-26) van overeenkomstige toepassing.
 
-#### Artikel 29. Gegevens voor afnemers van de dienst
+##### Artikel 29. Gegevens voor afnemers van de dienst
 
 Wanneer de dienstverrichter de beroepstitel waartoe hij in de betrokken staat van vestiging is gerechtigd of de titel die behoort bij zijn opleiding, bedoeld in [artikel 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=3&artikel=26&z=2021-08-26&g=2021-08-26), voert, kan Onze Minister die het aangaat eisen dat de dienstverrichter aan de afnemer van de dienst de volgende gegevens verstrekt:
 
@@ -488,7 +516,7 @@ Wanneer de dienstverrichter de beroepstitel waartoe hij in de betrokken staat va
 
 - e. gegevens betreffende verzekering of gelijksoortige bescherming tegen de financiële risico’s van beroepsaansprakelijkheid.
 
-#### Artikel 30. Uitwisseling van informatie inzake dienstverrichter
+##### Artikel 30. Uitwisseling van informatie inzake dienstverrichter
 
 1. Onze Minister die het aangaat verstrekt aan een bevoegde autoriteit van een andere betrokken staat dan Nederland waar een migrerende beroepsbeoefenaar die in Nederland is gevestigd tijdelijk en incidenteel diensten gaat verrichten op diens verzoek en indien het verzoek deugdelijk is gemotiveerd:
 
@@ -510,7 +538,7 @@ Wanneer de dienstverrichter de beroepstitel waartoe hij in de betrokken staat va
 
 ### Hoofdstuk 4. Overige bepalingen
 
-#### Artikel 31. Talenkennis
+##### Artikel 31. Talenkennis
 
 1. De migrerende beroepsbeoefenaar die op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=2&z=2021-08-26&g=2021-08-26) of [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=3&z=2021-08-26&g=2021-08-26) erkenning van beroepskwalificaties heeft verkregen respectievelijk is toegelaten als dienstverrichter, of die een Europese beroepskaart heeft verkregen met het oog op beroepsuitoefening in Nederland, beschikt over de talenkennis die voor de uitoefening van het desbetreffende gereglementeerde beroep is vereist.
 
@@ -522,13 +550,13 @@ Wanneer de dienstverrichter de beroepstitel waartoe hij in de betrokken staat va
 
 3. De taalcontrole is evenredig aan de uit te oefenen beroepswerkzaamheden en beperkt zich tot de kennis van één officiële taal in Nederland.
 
-#### Artikel 32. Voeren van academische titels
+##### Artikel 32. Voeren van academische titels
 
 1. Onverminderd de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=2&artikel=20&z=2021-08-26&g=2021-08-26) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=3&artikel=26&z=2021-08-26&g=2021-08-26), heeft de migrerende beroepsbeoefenaar het recht gebruik te maken van academische titels die aan de migrerende beroepsbeoefenaar zijn verleend in de betrokken staat van oorsprong of herkomst, en eventueel van de afkorting daarvan, in de taal van die betrokken staat. Onze Minister die het aangaat kan voorschrijven dat deze titel wordt gevolgd door de naam en de plaats van de instelling of de examencommissie die de titel heeft verleend.
 
 2. Indien een academische titel als bedoeld in het eerste lid kan worden verward met een titel waarvoor in Nederland een aanvullende opleiding is vereist die de migrerende beroepsbeoefenaar niet heeft gevolgd, kan Onze Minister die het aangaat voorschrijven dat de migrerende beroepsbeoefenaar de academische titel van de betrokken staat van oorsprong of herkomst voert in een door Onze Minister die het aangaat aangegeven passende vorm.
 
-#### Artikel 33. Nadere regels
+##### Artikel 33. Nadere regels
 
 1. Onze Minister die het aangaat geeft bij ministeriële regeling per gereglementeerd beroep nadere regels ten aanzien van de aanvraag tot het verkrijgen van erkenning, de aanpassingsstage en de proeve van bekwaamheid. Deze regels hebben in ieder geval betrekking op de documenten die bij de aanvraag moeten worden gevoegd alsmede op de beoordeling van de aanpassingsstage en de proeve van bekwaamheid.
 
@@ -538,7 +566,7 @@ Wanneer de dienstverrichter de beroepstitel waartoe hij in de betrokken staat va
 
 4. In geval onder Onze Minister die het aangaat wordt verstaan het orgaan, bedoeld in [artikel 14, tweede lid, onder e, van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=14), worden de nadere regels, bedoeld in het eerste, tweede en derde lid, gesteld bij regeling van het orgaan, bedoeld in artikel 14, tweede lid, onder d, van die wet.
 
-#### Artikel 34. Uitwisseling van informatie voor beoordeling rechtmatigheid
+##### Artikel 34. Uitwisseling van informatie voor beoordeling rechtmatigheid
 
 1. Onze Minister die het aangaat verstrekt aan een bevoegde autoriteit van een andere betrokken staat dan Nederland op diens verzoek en mits het verzoek deugdelijk is gemotiveerd, informatie over tuchtrechtelijke maatregelen, strafrechtelijke sancties of andere specifieke ernstige feiten ten aanzien van een migrerende beroepsbeoefenaar, voor zover noodzakelijk voor de beoordeling van de rechtmatigheid van de toegang tot of uitoefening van een gereglementeerd beroep in het kader van de richtlijn.
 
@@ -552,7 +580,7 @@ Wanneer de dienstverrichter de beroepstitel waartoe hij in de betrokken staat va
 
 6. Onze Minister die het aangaat verstrekt de informatie, bedoeld in het eerste en tweede lid, via het IMI.
 
-#### Artikel 35. Registratie
+##### Artikel 35. Registratie
 
 Onze Minister die het aangaat draagt zorg voor registratie van:
 
@@ -560,7 +588,7 @@ Onze Minister die het aangaat draagt zorg voor registratie van:
 
 - b. het aantal en de soorten besluiten die op grond van deze wet en de daarop berustende bepalingen worden genomen, met inbegrip van de soorten besluiten over gedeeltelijke toegang die overeenkomstig [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=2&artikel=12&z=2021-08-26&g=2021-08-26) zijn genomen.
 
-#### Artikel 36. Delegatie
+##### Artikel 36. Delegatie
 
 Onze Minister die het aangaat kan de taken en bevoegdheden die hij heeft op grond van deze wet delegeren, met uitzondering van de bevoegdheid tot het stellen van nadere regels bij ministeriële regeling.
 
@@ -568,23 +596,23 @@ Onze Minister die het aangaat kan de taken en bevoegdheden die hij heeft op gron
 
 ## Justitie
 
-#### Artikel 37
+##### Artikel 37
 
 Wijzigt de Advocatenwet.
 
-#### Artikel 38
+##### Artikel 38
 
 Wijzigt de Gerechtsdeurwaarderswet.
 
-#### Artikel 39
+##### Artikel 39
 
 Wijzigt de Wet beëdigde tolken en vertalers.
 
-#### Artikel 40
+##### Artikel 40
 
 Wijzigt de Wet op het notarisambt.
 
-#### Artikel 41
+##### Artikel 41
 
 Wijzigt de Wet rechtspositie rechterlijke ambtenaren.
 
@@ -592,37 +620,37 @@ Wijzigt de Wet rechtspositie rechterlijke ambtenaren.
 
 ## Verkeer en Waterstaat
 
-#### Artikel 48
+##### Artikel 48
 
 Wijzigt de Loodsenwet.
 
-#### Artikel 49
+##### Artikel 49
 
 Wijzigt de Wet luchtvaart.
 
-#### Artikel 50
+##### Artikel 50
 
 Wijzigt de Spoorwegwet.
 
-#### Artikel 51
+##### Artikel 51
 
 Wijzigt de Zeevaartbemanningswet.
 
 ## Volksgezondheid, Welzijn en Sport
 
-#### Artikel 52
+##### Artikel 52
 
 Wijzigt de Wet op de beroepen in de individuele gezondheidszorg.
 
 ## Onderwijs, Cultuur en Wetenschap
 
-#### Artikel 53
+##### Artikel 53
 
 Wijzigt de Kadasterwet.
 
 ### Hoofdstuk 6. Overgangs- en slotbepalingen
 
-#### Artikel 54. Overgangsrecht EG-verklaringen, aanvragen, bezwaarschriften en beroepen
+##### Artikel 54. Overgangsrecht EG-verklaringen, aanvragen, bezwaarschriften en beroepen
 
 1. Een EG-verklaring die is afgegeven op grond van de [Algemene wet erkenning EG-hoger-onderwijsdiploma’s](https://wetten.overheid.nl/jci1.3:c:BWBR0006317) of de [Algemene wet erkenning EG-beroepsopleidingen](https://wetten.overheid.nl/jci1.3:c:BWBR0006781) geldt als een erkenning van beroepskwalificaties als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=2&artikel=6&z=2021-08-26&g=2021-08-26) van deze wet.
 
@@ -634,21 +662,21 @@ Wijzigt de Kadasterwet.
 
 5. Op een op de datum van inwerkingtreding van deze wet ingesteld of tijdig in te stellen beroep tegen een beslissing op grond van de [Algemene wet erkenning EG-hoger-onderwijsdiploma’s](https://wetten.overheid.nl/jci1.3:c:BWBR0006317) of de [Algemene wet erkenning EG-beroepsopleidingen](https://wetten.overheid.nl/jci1.3:c:BWBR0006781) blijft het recht zoals het gold voor die datum van toepassing, met dien verstande dat het beroep wordt geacht te zijn gericht tegen een beslissing van Onze Minister die het aangaat.
 
-#### Artikel 55. Intrekking Algemene wetten
+##### Artikel 55. Intrekking Algemene wetten
 
 De [Algemene wet erkenning EG-hoger-onderwijsdiploma’s](https://wetten.overheid.nl/jci1.3:c:BWBR0006317) en de [Algemene wet erkenning EG-beroepsopleidingen](https://wetten.overheid.nl/jci1.3:c:BWBR0006781) worden ingetrokken.
 
-#### Artikel 56. Inwerkingtreding
+##### Artikel 56. Inwerkingtreding
 
 Deze wet treedt in werking met ingang van de eerste dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, met dien verstande dat [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=5&artikel=42&z=2021-08-26&g=2021-08-26) terugwerkt tot en met 1 januari 2007.
 
-#### Artikel 57. Citeertitel
+##### Artikel 57. Citeertitel
 
 Deze wet wordt aangehaald als: Algemene wet erkenning EU-beroepskwalificaties.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 30a. Uitwisseling van informatie in verband met afhandeling klacht afnemer
+##### Artikel 30a. Uitwisseling van informatie in verband met afhandeling klacht afnemer
 
 1. Onze Ministers die het aangaat kunnen onderling informatie opvragen over een dienstverrichter en zij verstrekken onderling informatie over een dienstverrichter voor zover noodzakelijk voor de afhandeling van een klacht van een afnemer over de dienstverrichter in het kader van de beroepsuitoefening.
 
@@ -660,7 +688,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ### Hoofdstuk 4. Overige bepalingen
 
-#### Artikel 34a. Instemming migrerende beroepsbeoefenaar en vergoeding van kosten
+##### Artikel 34a. Instemming migrerende beroepsbeoefenaar en vergoeding van kosten
 
 1. Voor de toepassing van de [artikelen 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=32), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=34), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=35) en [36 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=36) wordt als aanvrager aangemerkt de migrerende beroepsbeoefenaar ten aanzien van wie de verklaring omtrent het gedrag wordt gevraagd.
 
@@ -670,7 +698,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 4. Voor het in behandeling nemen van de aanvraag tot afgifte van een verklaring omtrent het gedrag kan Onze Minister van Justitie en Veiligheid van de aanvrager, bedoeld in het eerste lid, een vergoeding van kosten verlangen. [Artikel 39, tweede en vierde lid, van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=39) is van overeenkomstige toepassing.
 
-#### Artikel 34b. Informeren migrerende beroepsbeoefenaar
+##### Artikel 34b. Informeren migrerende beroepsbeoefenaar
 
 1. Onze Minister van Justitie en Veiligheid informeert de migrerende beroepsbeoefenaar ten aanzien van wie de verklaring omtrent het gedrag wordt gevraagd indien hij voornemens is de afgifte van de verklaring omtrent het gedrag te weigeren.
 
@@ -696,7 +724,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 4a. Reikwijdte hoofdstuk 2
+##### Artikel 4a. Reikwijdte hoofdstuk 2
 
 Dit hoofdstuk ziet op de migrerende beroepsbeoefenaar die in Nederland toegang tot of uitoefening van een gereglementeerd beroep wenst op basis van beroepskwalificaties die in een andere betrokken staat verplicht zijn gesteld voor toegang tot of uitoefening van dat beroep.
 
@@ -704,7 +732,7 @@ Dit hoofdstuk ziet op de migrerende beroepsbeoefenaar die in Nederland toegang t
 
 ### Hoofdstuk 3a. Europese beroepskaart
 
-#### Artikel 30a*. Europese beroepskaart gereglementeerd beroep
+##### Artikel 30a*. Europese beroepskaart gereglementeerd beroep
 
 1. Bij of krachtens algemene maatregel van bestuur worden regels vastgesteld voor een Europese beroepskaart als bedoeld in de richtlijn voor een beroep dat in Nederland gereglementeerd is.
 
@@ -720,7 +748,7 @@ Dit hoofdstuk ziet op de migrerende beroepsbeoefenaar die in Nederland toegang t
 
 3. De regels kunnen onder meer betreffen het ten laste van de aanvrager van een Europese beroepskaart brengen van kosten in verband met die aanvraag, met dien verstande dat de kosten die ten laste van de aanvrager worden gebracht redelijk, evenredig en in verhouding zijn tot de gemaakte kosten, de gemaakte kosten niet overschrijden, en het doen van een aanvraag niet ontmoedigen.
 
-#### Artikel 30b. Europese beroepskaart niet-gereglementeerd beroep
+##### Artikel 30b. Europese beroepskaart niet-gereglementeerd beroep
 
 1. Bij of krachtens algemene maatregel van bestuur worden regels vastgesteld voor een Europese beroepskaart als bedoeld in de richtlijn voor een beroep dat in Nederland niet gereglementeerd is.
 
@@ -734,11 +762,11 @@ Dit hoofdstuk ziet op de migrerende beroepsbeoefenaar die in Nederland toegang t
 
 ### Hoofdstuk 3b. Gemeenschappelijke opleidingsbeginselen
 
-#### Artikel 30c. Automatische erkenning bij gemeenschappelijke opleidingsbeginselen
+##### Artikel 30c. Automatische erkenning bij gemeenschappelijke opleidingsbeginselen
 
 Indien de Europese Commissie gemeenschappelijke opleidingsbeginselen heeft vastgesteld als bedoeld in titel III, hoofdstuk III bis, van de richtlijn, en er geen vrijstelling is als bedoeld in de artikelen 49 bis, vijfde lid, en 49 ter, vijfde lid, van de richtlijn, verleent Onze Minister die het aangaat automatische erkenning aan beroepskwalificaties op basis van die gemeenschappelijke opleidingsbeginselen, met inachtneming van bij ministeriële regeling te stellen regels. [Artikel 33, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=4&artikel=33&z=2021-08-26&g=2021-08-26), is van overeenkomstige toepassing.
 
-#### Artikel 31a. Waarschuwingsmechanisme bij beroepsverbod
+##### Artikel 31a. Waarschuwingsmechanisme bij beroepsverbod
 
 1. Onze Minister die het aangaat stelt de bevoegde autoriteiten van alle andere betrokken staten in kennis van een in Nederland door een rechterlijke instantie of een andere bij of krachtens de wet bevoegde instantie aan een migrerende beroepsbeoefenaar opgelegd verbod of een opgelegde beperking, tijdelijk dan wel permanent, op de uitoefening van een in Nederland gereglementeerd beroep. Het opgelegde verbod of de opgelegde beperking heeft betrekking op:
 
@@ -780,7 +808,7 @@ Indien de Europese Commissie gemeenschappelijke opleidingsbeginselen heeft vastg
 
 8. Onze Minister die het aangaat kan in verband met de afhandeling van een bezwaar of beroep als bedoeld in het zesde lid, gegevens in verband met de kennisgeving verwerken voor zover dit noodzakelijk is met het oog op die afhandeling.
 
-#### Artikel 31b. Waarschuwingsmechanisme bij gebruik valse beroepskwalificaties
+##### Artikel 31b. Waarschuwingsmechanisme bij gebruik valse beroepskwalificaties
 
 1. Indien een migrerende beroepsbeoefenaar door een rechterlijke instantie of een andere bij of krachtens de wet bevoegde instantie in Nederland schuldig is bevonden aan het gebruik van valse beroepskwalificaties in verband met een procedure als bedoeld in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=2&z=2021-08-26&g=2021-08-26), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=3&z=2021-08-26&g=2021-08-26) of [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=3a&z=2021-08-26&g=2021-08-26), stelt Onze Minister die het aangaat de bevoegde autoriteiten van alle andere betrokken staten daarvan in kennis.
 
@@ -788,7 +816,7 @@ Indien de Europese Commissie gemeenschappelijke opleidingsbeginselen heeft vastg
 
 3. [Artikel 31a, tweede tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=4&artikel=31a&z=2021-08-26&g=2021-08-26), zijn van overeenkomstige toepassing.
 
-#### Artikel 31c. Binnengekomen waarschuwingen van het waarschuwingsmechanisme
+##### Artikel 31c. Binnengekomen waarschuwingen van het waarschuwingsmechanisme
 
 1. Onze Minister die het aangaat kan de door hem ontvangen waarschuwingen die bevoegde autoriteiten van andere betrokken staten hebben verricht in het waarschuwingsmechanisme, bedoeld in artikel 56 bis van de richtlijn, verwerken.
 
@@ -800,7 +828,7 @@ Indien de Europese Commissie gemeenschappelijke opleidingsbeginselen heeft vastg
 
 5. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld voor de verwerking, bedoeld in het eerste lid.
 
-#### Artikel 32a. Beroepsstage
+##### Artikel 32a. Beroepsstage
 
 1. Indien een migrerende beroepsbeoefenaar die in het bezit is van in Nederland behaalde beroepskwalificaties, in een andere betrokken staat een beroepsstage heeft doorlopen en toegang wenst tot een gereglementeerd beroep in Nederland waarvoor een beroepsstage is vereist, beschouwt Onze Minister die het aangaat, indien hij een verzoek om toelating om het gereglementeerde beroep uit te oefenen, in overweging neemt, de in de andere betrokken staat gevolgde beroepsstage als die vereiste beroepsstage, mits de in de andere betrokken staat gevolgde beroepsstage in overeenstemming is met door Onze Minister die het aangaat vast te stellen beleidsregels op grond van het derde lid.
 
@@ -810,13 +838,13 @@ Indien de Europese Commissie gemeenschappelijke opleidingsbeginselen heeft vastg
 
 4. Het beschouwen als vereiste beroepsstage en het rekening houden met een beroepsstage, bedoeld in het eerste respectievelijk tweede lid, vervangt niet een voor de toelating tot het desbetreffende beroep verplicht af te leggen examen.
 
-#### Artikel 34c. Elektronische procedures
+##### Artikel 34c. Elektronische procedures
 
 1. De procedures in het kader van erkenning van beroepskwalificaties als bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=2&z=2021-08-26&g=2021-08-26), tijdelijke en incidentele dienstverrichting als bedoeld in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=3&z=2021-08-26&g=2021-08-26) en de Europese beroepskaart als bedoeld in [hoofdstuk 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=3a&z=2021-08-26&g=2021-08-26), zijn beschikbaar langs elektronische weg, via het centraal loket als bedoeld in [artikel 5 van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=5), of via Onze Minister die het aangaat.
 
 2. Het eerste lid is niet van toepassing op het uitvoeren van een aanpassingsstage als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=2&artikel=11&z=2021-08-26&g=2021-08-26), of een proeve van bekwaamheid als bedoeld in artikel 11, eerste lid of [artikel 27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=3&artikel=27&z=2021-08-26&g=2021-08-26).
 
-#### Artikel 34d. Assistentiecentrum
+##### Artikel 34d. Assistentiecentrum
 
 Onze Minister wijst een assistentiecentrum aan als bedoeld in artikel 57 ter van de richtlijn en kan daarbij de taken en bevoegdheden van het assistentiecentrum nader bepalen, waaronder taken en bevoegdheden inzake de verwerking van persoonsgegevens, waarbij de [artikelen 34, eerste tot en met vierde lid en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=4&artikel=34&z=2021-08-26&g=2021-08-26), [34a](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=4&artikel=34a&z=2021-08-26&g=2021-08-26) en [34b](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=4&artikel=34b&z=2021-08-26&g=2021-08-26) van overeenkomstige toepassing kunnen worden verklaard.
 
@@ -834,7 +862,7 @@ Onze Minister wijst een assistentiecentrum aan als bedoeld in artikel 57 ter van
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 30a1. Europese beroepskaart gereglementeerd beroep
+##### Artikel 30a1. Europese beroepskaart gereglementeerd beroep
 
 1. Bij of krachtens algemene maatregel van bestuur worden regels vastgesteld voor een Europese beroepskaart als bedoeld in de richtlijn voor een beroep dat in Nederland gereglementeerd is.
 
@@ -850,7 +878,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 3. De regels kunnen onder meer betreffen het ten laste van de aanvrager van een Europese beroepskaart brengen van kosten in verband met die aanvraag, met dien verstande dat de kosten die ten laste van de aanvrager worden gebracht redelijk, evenredig en in verhouding zijn tot de gemaakte kosten, de gemaakte kosten niet overschrijden, en het doen van een aanvraag niet ontmoedigen.
 
-#### Artikel 13a. Uitwisseling van informatie inzake de documenten bij de aanvraag
+##### Artikel 13a. Uitwisseling van informatie inzake de documenten bij de aanvraag
 
 1. Onze Minister die het aangaat verstrekt in geval van gegronde twijfel aan een bevoegde autoriteit van een andere betrokken staat dan Nederland op diens verzoek en indien het verzoek deugdelijk is gemotiveerd, informatie over de echtheid van in Nederland afgegeven opleidingstitels, en documenten, verklaringen en attesten als bedoeld in de [artikelen 14 tot met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=2&artikel=14&z=2021-08-26&g=2021-08-26).
 

@@ -1,13 +1,38 @@
 ---
 title: "Besluit bevestiging kwalificatie Braziliaanse interest on net equity"
 identifier: "BWBR0046510"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-04-04
-laatste_update: 2022-04-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046510"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2022-04-04"
+last_updated: "2022-04-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046510"
+soort: "beleidsregel"
+stam_id: "16317723"
+version_id: "28523652"
+internal_id: "C40247451"
+label_id: "16242904"
+dtd_version: "2.0"
+original_entry_into_force: "2022-04-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046510/2022-04-04/0"
+intitule_bron: "Stcrt.2022-8330"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-03-16"
+intitule_published: "2022-04-04"
+intitule_in_force: "2022-04-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-8330"
+original_signed_date: "2022-03-16"
+original_published_date: "2022-04-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-8330"
+entry_into_force_date: "2022-04-04"
+jci_1_3: "jci1.3:c:BWBR0046510&z=2022-04-04&g=2022-04-04"
+jci_1_0: "1.0:c:BWBR0046510&g=2022-04-04"
+citeertitel_status: "officieel"
+signed_date: "2022-03-16"
+entry_into_force: "2022-04-04"
 ---
-
 # Besluit bevestiging kwalificatie Braziliaanse interest on net equity
 
 De Staatssecretaris van Financiën deelt het volgende mee.

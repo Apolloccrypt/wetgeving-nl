@@ -1,20 +1,45 @@
 ---
 title: "Uitvoeringsregeling belasting van personenauto's en motorrijwielen 1992"
 identifier: "BWBR0005813"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005813"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005813"
+soort: "ministeriele-regeling"
+stam_id: "3376173"
+version_id: "29137002"
+internal_id: "C41406741"
+label_id: "3356284"
+dtd_version: "2.0"
+original_entry_into_force: "2023-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005813/2026-01-01/0"
+intitule_bron: "Stcrt.1992-252"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-12-28"
+intitule_published: "1992-12-29"
+intitule_in_force: "1992-12-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-33377"
+original_signed_date: "2022-12-02"
+original_published_date: "2022-12-27"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2022-33377"
+entry_into_force_date: "2023-01-01"
+jci_1_3: "jci1.3:c:BWBR0005813&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0005813&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2022-12-02"
+entry_into_force: "2023-01-01"
 ---
-
 # Uitvoeringsregeling belasting van personenauto's en motorrijwielen 1992
 
 Gelet op de [artikelen 3, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=3), [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=4), [6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=6), [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=8), [9, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9), [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=10), [14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=14), [17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=17), [20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=20), en [34 van de Wet op de belasting van personenauto's en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=34) (Stb. 709).
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Deze regeling geeft uitvoering aan de [artikelen 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=3), [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=4), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=8), [9, dertiende en veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9), [10, vijfde, zevende en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=10), [10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=10a), [10c, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=10c), [14a, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=14a), [14b, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=14b), [15a, zevende en dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15a), en [17, derde lid, van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=17) en [artikel 5, tweede lid, van het Uitvoeringsbesluit belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=5).
 
@@ -28,7 +53,7 @@ Besluit:
 
 - d. taxatiewaarde: taxatiewaarde, bedoeld in [artikel 10, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=10).
 
-#### Artikel 2
+##### Artikel 2
 
 1. De laadruimte voldoet aan de gestelde voorwaarden met betrekking tot de lengte en de hoogte indien deze in gesloten toestand een rechthoekig, rechtop geplaatst blok kan bevatten waarvan de lengte, de hoogte en de breedte ten minste gelijk zijn aan de in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=3) voor de desbetreffende laadruimte genoemde afmetingen, en waarvan de lengte-as evenwijdig is aan die van het desbetreffende motorrijtuig. Voor de toepassing van deze bepaling worden, indien de laadruimte niet van de bestuurderszitplaats is afgescheiden door een vaste wand, de zitplaatsen voor de bestuurder en de bijrijder in de achterste stand geplaatst. Voor de toepassing van dit lid wordt, ingeval de open laadbak van een motorrijtuig van het type pick-up is voorzien van een al dan niet eenvoudig te demonteren overkapping, de laadruimte in aanmerking genomen met gesloten overkapping, tenzij deze overkapping slechts bestaat uit een platte deksel die direct op de opstaande zijkanten van de laadbak is geplaatst.
 
@@ -72,11 +97,11 @@ Besluit:
 
 12. De laadruimte dient in haar geheel te zijn voorzien van een vaste, vlakke laadvloer. De laadvloer dient zoveel mogelijk rondom en op onverbrekelijke wijze rechtstreeks met de carrosserie te zijn verbonden.
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen.
 
-#### Artikel 4
+##### Artikel 4
 
 Met motorrijwielen worden gelijkgesteld motorrijtuigen die:
 
@@ -84,11 +109,11 @@ Met motorrijwielen worden gelijkgesteld motorrijtuigen die:
 
 - b. voldoen aan de normen geldend voor voertuigcategorie L en de voertuigclassificatie L5e of L7e, genoemd in artikel 4 van en bijlage I bij Verordening (EU) nr. 168/2013 van het Europees Parlement en de Raad van 15 januari 2013 betreffende de goedkeuring van en het markttoezicht op twee- of driewielige voertuigen en vierwielers (PbEU 2013, L 60).
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 1. De toestemming als bedoeld in [artikel 8, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=8) wordt verleend aan een ondernemer die een zodanige administratie voert dat daarin naar het oordeel van de inspecteur op duidelijke en overzichtelijke wijze alle voor de heffing van de belasting van belang zijnde gegevens zijn opgenomen. De inspecteur kan ter zake nadere voorwaarden en beperkingen stellen, waarbij de toestemming voor gebruikte motorrijtuigen kan worden beperkt tot motorrijtuigen waarvoor de vermindering ingevolge [artikel 10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=10), wordt vastgesteld op de voet van artikel 10, vijfde lid, van de wet.
 
@@ -98,11 +123,11 @@ Vervallen
 
 4. Indien niet wordt voldaan aan het in het eerste, tweede of derde lid bepaalde, kan de inspecteur de toestemming als bedoeld in [artikel 8, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=8) bij voor bezwaar vatbare beschikking weigeren of intrekken.
 
-#### Artikel 7
+##### Artikel 7
 
 Een motorrijtuig wordt in ieder geval als gebruikt aangemerkt indien dat motorrijtuig 3.000 kilometer of meer heeft afgelegd.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De afschrijving bedoeld in [artikel 10, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=10) bedraagt met betrekking tot personenauto’s, motorrijwielen of bestelauto’s als bedoeld in [artikel 15, eerste lid, onderdelen a en b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15):
 
@@ -163,7 +188,7 @@ Bij het doen van de opgaaf wordt slechts gebruikgemaakt van de gegevens van niet
 
 10. De vermindering van het belastingbedrag, bedoeld in [artikel 5, tweede lid, van het Uitvoeringsbesluit belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=5), is een percentage van het belastingbedrag, zoals aangegeven in de tabel opgenomen in het vijfde lid.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De zekerheid bedoeld in [artikel 17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=17) wordt bepaald aan de hand van het bedrag van de belasting dat degene aan wie de toestemming als bedoeld in [artikel 8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=8) is verleend gemiddeld per aangiftetijdvak verschuldigd is ter zake van de inschrijving of herinschrijving van motorrijtuigen.
 
@@ -173,25 +198,25 @@ Bij het doen van de opgaaf wordt slechts gebruikgemaakt van de gegevens van niet
 
 4. Degene aan wie de toestemming als bedoeld in [artikel 8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=8) is verleend kan een verzoek tot verlaging van de zekerheid indienen bij de inspecteur, die daarop bij voor bezwaar vatbare beschikking beslist.
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
-#### Artikel 13
+##### Artikel 13
 
 1. Deze regeling treedt in werking met ingang van 1 januari 1993.
 
 2. Deze regeling kan worden aangehaald als: Uitvoeringsregeling belasting van personenauto's en motorrijwielen 1992.
 
-#### Artikel 8a
+##### Artikel 8a
 
 1. Voor de toepassing van de vermindering van de verschuldigde belasting, bedoeld in [artikel 10c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=10c), worden bij de voldoening op aangifte van de voor het motorrijtuig verschuldigde belasting op verzoek van de inspecteur nadere gegevens overgelegd die naar zijn oordeel van belang zijn voor een juiste vaststelling van de vermindering.
 
@@ -199,21 +224,21 @@ Vervallen
 
 3. Ingeval voor het motorrijtuig teruggaaf van de eerder betaalde belasting is verleend, wordt de vermindering alleen toegepast voor zover de eerder teruggegeven belasting op een later tijdstip alsnog als verschuldigde belasting is voldaan.
 
-#### Artikel 8b
+##### Artikel 8b
 
 Vervallen
 
-#### Artikel 8c
+##### Artikel 8c
 
 Vervallen
 
-#### Artikel 8e
+##### Artikel 8e
 
 1. Onder een niet-opvouwbare rolstoel wordt voor de toepassing van [artikel 15a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15a) mede verstaan een ander in verband met de handicap noodzakelijk hulpmiddel van een dusdanige omvang of een dusdanig gewicht, dat de gehandicapte, rekening houdend met zijn specifieke handicap, voor zijn vervoer is aangewezen op het gebruik van een bestelauto.
 
 2. Onder een bestelauto, ingericht voor het vervoer als bedoeld in [artikel 15a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15a), wordt verstaan een bestelauto die voorzieningen bevat ten behoeve van het vervoer van een niet-opvouwbare rolstoel of het vervoer van een ander hulpmiddel als bedoeld in het eerste lid en het gelijktijdige vervoer van de gehandicapte, zoals voorzieningen voor het met of vanuit een rolstoel of een ander hulpmiddel kunnen plaatsnemen in en verlaten van de bestelauto, voor het vastzetten van een rolstoel of een ander hulpmiddel in de cabine op de plaats van een zitplaats, en voor het vastzetten van een rolstoel of een ander hulpmiddel zonder passagier in de laadruimte.
 
-#### Artikel 8d
+##### Artikel 8d
 
 1. De vermindering van het belastingbedrag, bedoeld in [artikel 14a, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=14a), is de som van de percentages die ingevolge de navolgende tabel van toepassing zijn voor elke maand die geheel of gedeeltelijk is verstreken tussen het tijdstip dat bepalend was voor de hoogte van de belasting en het tijdstip waarop de omstandigheid, bedoeld in artikel 14a, eerste of tweede lid, van de wet, zich voordoet, toegepast op het belastingbedrag, bedoeld in [artikel 9, eerste en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9).
 
@@ -248,7 +273,7 @@ Daarbij is geheven belasting de belasting die voor dat motorrijtuig met toepassi
 
 6. Bij een verzoek om teruggaaf van belasting op grond van [artikel 14a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=14), wordt een kopie van het buitenlandse kentekenbewijs gevoegd.
 
-#### Artikel 6a
+##### Artikel 6a
 
 1. Voor de toepassing van [artikel 9, dertiende en veertiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9) blijkt de CO2-uitstoot van een personenauto of een bestelauto in gram per kilometer uit het kentekenregister.
 
@@ -264,7 +289,7 @@ Daarbij is geheven belasting de belasting die voor dat motorrijtuig met toepassi
 
 3. De CO2-uitstoot is nihil wanneer uit het kentekenregister blijkt dat de personenauto of bestelauto is ingericht en bestemd om uitsluitend te worden aangedreven door een elektromotor waarbij de elektrische energie uitsluitend door een batterij of door een brandstofcel wordt geleverd, of door een verbrandingsmotor die kan worden gevoed met waterstof.
 
-#### Artikel 8da
+##### Artikel 8da
 
 1. Bij een verkorting of verlenging van de overeengekomen periode van terbeschikkingstelling, bedoeld in [artikel 14b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=14b), worden, in geval van een verkorting, bij het verzoek om teruggaaf, dan wel, in geval van een verlenging, bij de voldoening op aangifte, gegevens overgelegd waaruit de voor het motorrijtuig in totaal overeengekomen nieuwe periode van terbeschikkingstelling ondubbelzinnig blijkt. Wanneer de in de eerste volzin bedoelde gegevens niet zijn opgemaakt in de Nederlandse of Engelse taal, wordt een vertaling in één van deze talen bijgevoegd.
 

@@ -1,13 +1,37 @@
 ---
 title: "Overeenkomst tussen de Regering van de Republiek Hongarije en Regeringen van de Benelux-Staten (het Koninkrijk België, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden) betreffende de overname van onregelmatig verblijvende personen"
 identifier: "BWBV0001576"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2003-12-01
-laatste_update: 2003-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001576"
+country: "nl"
+rank: "verdrag"
+publication_date: "2003-12-01"
+last_updated: "2003-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001576"
+soort: "verdrag"
+stam_id: "10000444883"
+version_id: "10000453182"
+internal_id: "C10006993161"
+label_id: "10000445294"
+original_entry_into_force: "2003-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001576/2003-12-01/0"
+intitule_bron: "Trb.2002-59"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-02-04"
+intitule_published: "2002-03-25"
+intitule_in_force: "2003-12-18"
+intitule_status: "goed"
+original_publication: "Trb.2002-59"
+original_signed_date: "2003-02-04"
+original_published_date: "2002-03-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2002-59"
+entry_into_force_date: "2003-12-01"
+jci_1_3: "jci1.3:c:BWBV0001576&z=2003-12-01&g=2003-12-01"
+jci_1_0: "1.0:c:BWBV0001576&g=2003-12-01"
+citeertitel_status: "officieel"
+signed_date: "2003-02-04"
+entry_into_force: "2003-12-01"
 ---
-
 # Overeenkomst tussen de Regering van de Republiek Hongarije en Regeringen van de Benelux-Staten (het Koninkrijk België, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden) betreffende de overname van onregelmatig verblijvende personen
 
 De Regering van de Republiek Hongarije enerzijds (hierna genoemd „de Overeenkomstsluitende Partij")
@@ -20,7 +44,7 @@ ernaar strevend de overname van personen die zich illegaal op het grondgebied va
 
 zijn het volgende overeengekomen:
 
-#### Artikel 1. Definities en werkingssfeer
+##### Artikel 1. Definities en werkingssfeer
 
 In deze Overeenkomst dient te worden verstaan onder
 
@@ -36,7 +60,7 @@ In deze Overeenkomst dient te worden verstaan onder
 
 - d. „verblijfstitel": elke vergunning, ongeacht van welke aard, met uitzondering van het visum, het transitvisum en de tijdelijke toelating tot verblijf die wordt afgegeven tijdens de periode van de behandeling van een asielverzoek door de bevoegde autoriteiten van de Overeenkomstsluitende Partijen en die de betrokkene recht geeft op een wettige binnenkomst en een wettig verblijf op het grondgebied van de Overeenkomstsluitende Partijen.
 
-#### Artikel 2. Overname van eigen onderdanen van de Overeenkomstsluitende Partijen
+##### Artikel 2. Overname van eigen onderdanen van de Overeenkomstsluitende Partijen
 
 1. Iedere Overeenkomstsluitende Partij neemt op verzoek van de andere Overeenkomstsluitende Partij, zonder formaliteiten de persoon over die niet of niet meer voldoet aan de op het grondgebied van de Staat van de verzoekende Overeenkomstsluitende Partij geldende nationale voorwaarden voor binnenkomst of verblijf, wanneer kan worden aangetoond of aannemelijk gemaakt dat hij de nationaliteit van de Staat van de aangezochte Overeenkomstsluitende Partij heeft.
 
@@ -44,7 +68,7 @@ In deze Overeenkomst dient te worden verstaan onder
 
 3. De verzoekende Overeenkomstsluitende Partij neemt deze persoon onder dezelfde voorwaarden terug, indien uit een later onderzoek blijkt dat deze op het moment van het verlaten van het grondgebied van de Staat van de verzoekende Overeenkomstsluitende Partij niet de nationaliteit van de Staat van de aangezochte Overeenkomstsluitende Partij had. Dit geldt niet wanneer de verplichting tot overname volgt uit het feit dat deze persoon de nationaliteit van de aangezochte Overeenkomstsluitende Partij heeft verloren na binnenkomst op het grondgebied van de verzoekende Overeenkomstsluitende Partij, zonder ten minste een naturalisatietoezegging van de kant van de verzoekende Overeenkomstsluitende Partij te hebben ontvangen.
 
-#### Artikel 3. Overname van onderdanen van derde landen
+##### Artikel 3. Overname van onderdanen van derde landen
 
 1. Iedere Overeenkomstsluitende Partij neemt op verzoek van de andere Overeenkomstsluitende Partij, zonder formaliteiten op het grondgebied van haar Staat de onderdanen van een derde land en de staatlozen (hierna te noemen: onderdanen van derde landen) over, die niet of niet meer voldoen aan de op het grondgebied van de Staat van de verzoekende Overeenkomstsluitende Partij geldende nationale voorwaarden voor binnenkomst of verblijf, wanneer kan worden aangetoond of aannemelijk gemaakt dat deze onderdanen van een derde land net voor hun binnenkomst op het grondgebied van de verzoekende Overeenkomstsluitende Partij regelmatig op het grondgebied van de aangezochte Overeenkomstsluitende Partij verbleven.
 
@@ -72,7 +96,7 @@ In deze Overeenkomst dient te worden verstaan onder
 
 9. Op voorwaarde dat de aangezochte Overeenkomstsluitende Partij daarom binnen een termijn van dertig (30) dagen te rekenen van de overname verzoekt, neemt de verzoekende Overeenkomstsluitende Partij de personen onder dezelfde voorwaarden over, indien uit een later door de aangezochte Overeenkomstsluitende Partij verricht onderzoek blijkt dat deze op het moment van het verlaten van het grondgebied van de Staat van de verzoekende Overeenkomstsluitende Partij niet voldeden aan de in lid (1), (2), (6) en (7) hierboven bepaalde voorwaarden van de verplichting tot overname.
 
-#### Artikel 4. Bewijs en vermoeden van nationaliteit
+##### Artikel 4. Bewijs en vermoeden van nationaliteit
 
 1. De nationaliteit van een krachtens de bepalingen van lid (1) van artikel 2 van deze Overeenkomst over te nemen persoon kan worden aangetoond door middel van de volgende documenten:
 
@@ -128,7 +152,7 @@ In deze Overeenkomst dient te worden verstaan onder
 
 3. In geval het vermoeden van de nationaliteit wordt ondersteund overeenkomstig artikel 2 van deze Overeenkomst, maar de in lid (2) hierboven beschreven documenten niet beschikbaar zijn, kan de nationaliteit worden vastgesteld met de hulp van de bevoegde consulaire ambtenaar van de aangezochte Overeenkomstsluitende Partij. De bevoegde consulaire ambtenaar zal de betrokkene zo spoedig mogelijk, uiterlijk binnen zeven (7) dagen, horen.
 
-#### Artikel 5. Doorgeleiding ter fine van overname
+##### Artikel 5. Doorgeleiding ter fine van overname
 
 1. Onverminderd artikel 11 van deze Overeenkomst staan de Overeenkomstsluitende Partijen de doorreis door de lucht of de doorgeleiding door de lucht of over land van onderdanen van derde landen toe, indien een andere Overeenkomstsluitende Partij daarom verzoekt en de doorreis van die personen door de overige landen van doorreis en de toelating tot de Staat van bestemming verzekerd zijn.
 
@@ -146,7 +170,7 @@ In deze Overeenkomst dient te worden verstaan onder
 
 5. De Overeenkomstsluitende Partijen doen het nodige om doorgeleidingen, zoals beschreven in lid (1) hierboven, te beperken tot onderdanen van derde landen voor wie de rechtstreekse teruggeleiding naar het land van herkomst niet mogelijk is.
 
-#### Artikel 6. Indiening van het verzoek om overname
+##### Artikel 6. Indiening van het verzoek om overname
 
 1. Een verzoek om overname vindt schriftelijk plaats en omvat:
 
@@ -158,7 +182,7 @@ In deze Overeenkomst dient te worden verstaan onder
 
 2. De verzoekende Overeenkomstsluitende Partij kan elke andere voor de overnameprocedure dienstige inlichting aan de aangezochte Overeenkomstsluitende Partij verstrekken.
 
-#### Artikel 7. Termijnen
+##### Artikel 7. Termijnen
 
 1. De aangezochte Overeenkomstsluitende Partij beantwoordt schriftelijk en onverwijld, doch uiterlijk binnen een termijn van vijf (5) werkdagen, de tot haar gerichte verzoeken om overname.
 
@@ -170,7 +194,7 @@ In deze Overeenkomst dient te worden verstaan onder
 
 3. De in lid (2) hierboven bepaalde termijnen kunnen op verzoek van de verzoekende Overeenkomstsluitende Partij uitzonderlijkerwijze worden verlengd wanneer omtrent de overname juridische of praktische belemmeringen rijzen en enkel tot die belemmeringen zijn opgeheven.
 
-#### Artikel 8. Bescherming van persoonsgegevens
+##### Artikel 8. Bescherming van persoonsgegevens
 
 1. Voor zover voor de uitvoering van deze Overeenkomst persoonsgegevens moeten worden verstrekt, mogen de betrokken gegevens uitsluitend betrekking hebben op:
 
@@ -194,13 +218,13 @@ In deze Overeenkomst dient te worden verstaan onder
 
 6. De Overeenkomstsluitende Partijen houden een register bij, waarin de namen van organen en personen die de persoonsgegevens doorsturen en ontvangen, alsmede de datum van doorsturen, ontvangst, wijziging en wissen van die gegevens zijn vermeld.
 
-#### Artikel 9. Kosten
+##### Artikel 9. Kosten
 
 1. De kosten verbonden aan het overbrengen, tot aan de grens van de Staat van de aangezochte Overeenkomstsluitende Partij, van personen die volgens artikel 2 en 3 van deze Overeenkomst worden overgenomen en de eventuele kosten die voortvloeien uit de terugleiding waarin is voorzien in lid (3) van artikel 2 en in lid (9) van artikel 3 van deze Overeenkomst, komen ten laste van de verzoekende Overeenkomstsluitende Partij.
 
 2. Alle kosten verbonden aan de doorgeleiding of aan de begeleide doorgeleiding van onderdanen van derde landen alsmede de eventueel uit hun terugleiding voortvloeiende kosten komen overeenkomstig artikel 5 van deze Overeenkomst ten laste van de verzoekende Overeenkomstsluitende Partij.
 
-#### Artikel 10. Comité van deskundigen
+##### Artikel 10. Comité van deskundigen
 
 1. De Overeenkomstsluitende Partijen verlenen elkaar onderling hulp bij de toepassing en uitlegging van deze Overeenkomst. Daartoe stellen de in artikel 12 van deze Overeenkomst bedoelde ministeries van de Overeenkomstsluitende Partijen een Comité van deskundigen in dat:
 
@@ -218,7 +242,7 @@ In deze Overeenkomst dient te worden verstaan onder
 
 4. Het Comité van deskundigen komt zo nodig bij toerbeurt op het grondgebied van één der Overeenkomstsluitende Partijen bijeen. Het voorzitterschap wordt waargenomen door de Overeenkomstsluitende Partij die als gastland optreedt. Ieder der Overeenkomstsluitende Partijen kan het initiatief nemen om het Comité van deskundigen bijeen te roepen.
 
-#### Artikel 11. Verhouding van de Overeenkomst tot andere verdragen
+##### Artikel 11. Verhouding van de Overeenkomst tot andere verdragen
 
 De bepalingen van deze Overeenkomst doen geen afbreuk aan de aan de onderdanen van de Overeenkomstsluitende Partijen toegekende rechten, de bepalingen van de tussen de Republiek Hongarije en de Benelux-Staten vigerende verdragen noch de overige verplichtingen van de Overeenkomstsluitende Partijen, die uit andere verdragen voortvloeien en met name:
 
@@ -238,29 +262,29 @@ De bepalingen van deze Overeenkomst doen geen afbreuk aan de aan de onderdanen v
 
 - –. de bepalingen van de [Overeenkomst van Dublin van 15 juni 1990 betreffende de vaststelling van de Staat die verantwoordelijk is voor de behandeling van een asielverzoek dat bij één van de Lidstaten van de Europese Unie wordt ingediend](https://wetten.overheid.nl/jci1.3:c:BWBV0002149).
 
-#### Artikel 12. Uitvoeringsprotocol
+##### Artikel 12. Uitvoeringsprotocol
 
 De Overeenkomstsluitende Partijen geven volmacht aan hun bevoegde Ministeries om in een Uitvoeringsprotocol de te volgen procedure bij de uitvoering van deze Overeenkomst vast te leggen.
 
-#### Artikel 13. Depositaris van de Overeenkomst
+##### Artikel 13. Depositaris van de Overeenkomst
 
 De Regering van het Koninkrijk België is depositaris van deze Overeenkomst.
 
-#### Artikel 14. Territoriale toepassing
+##### Artikel 14. Territoriale toepassing
 
 Wat het Koninkrijk der Nederlanden betreft, kan de toepassing van deze Overeenkomst tot de Nederlandse Antillen en Aruba worden uitgebreid door een kennisgeving aan de Belgische Overeenkomstsluitende Partij, depositaris van deze Overeenkomst, die de overige Overeenkomstsluitende Partijen hiervan in kennis stelt.
 
-#### Artikel 15. Geschillenregeling
+##### Artikel 15. Geschillenregeling
 
 Elk geschil over de uitlegging en toepassing van deze Overeenkomst wordt via onderhandelingen geregeld door het in artikel 10 van deze Overeenkomst bedoelde Comité van deskundigen. Indien deze niet tot een akkoord leiden, wordt het geschil via diplomatieke weg geregeld.
 
-#### Artikel 16. Inwerkingtreding
+##### Artikel 16. Inwerkingtreding
 
 1. Deze Overeenkomst treedt in werking op de eerste dag van de tweede maand die volgt op de datum van ontvangst van de nota waarbij de laatste van de Overeenkomstsluitende Partijen de Belgische Overeenkomstsluitende Partij kennis heeft gegeven de voor de inwerkingtreding vereiste interne juridische formaliteiten te hebben nageleefd.
 
 2. De Belgische Overeenkomstsluitende Partij stelt ieder der Overeenkomstsluitende Partijen in kennis van de in vorenstaand lid (1) bedoelde notificaties en van de datum van de inwerkingtreding van deze Overeenkomst.
 
-#### Artikel 17. Tijdsduur, schorsing, opzegging
+##### Artikel 17. Tijdsduur, schorsing, opzegging
 
 1. Deze Overeenkomst wordt voor onbepaalde tijd gesloten.
 
@@ -270,11 +294,11 @@ Elk geschil over de uitlegging en toepassing van deze Overeenkomst wordt via ond
 
 Het Ministerie van Binnenlandse Zaken van de Republiek Hongarije, het Ministerie van Buitenlandse Zaken van het Koninkrijk België, het Ministerie van Buitenlandse Zaken van het Groothertogdom Luxemburg en het Ministerie van Buitenlandse Zaken van het Koninkrijk der Nederlanden zijn, op grond van artikel 12 van de Overeenkomst van 23 januari 2002 tussen de Regering van de Republiek Hongarije en de Regeringen van de Benelux-Staten (het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden) betreffende de overname van onregelmatig verblijvende personen (hierna te noemen: de Overeenkomst), het volgende overeengekomen:
 
-#### Artikel 1. Onregelmatige binnenkomst en onregelmatig verblijf
+##### Artikel 1. Onregelmatige binnenkomst en onregelmatig verblijf
 
 De onregelmatige binnenkomst en het onregelmatige verblijf in de zin van de artikelen 2 en 3 van de Overeenkomst worden door de Overeenkomstsluitende Partijen op grond van hun respectieve nationale wetgeving vastgesteld.
 
-#### Artikel 2. Overnameprocedure
+##### Artikel 2. Overnameprocedure
 
 1. De verzoeken om overname van eigen onderdanen worden gedaan wanneer de identiteit en de nationaliteit van de over te nemen persoon zijn aangetoond of aannemelijk gemaakt overeenkomstig artikel 4 van de Overeenkomst.
 
@@ -302,13 +326,13 @@ De onregelmatige binnenkomst en het onregelmatige verblijf in de zin van de arti
 
 9. Indien een verzoek om overname niet wordt ingewilligd, moet zulks door de bevoegde instantie van de aangezochte Overeenkomstsluitende Partij met redenen worden omkleed en moet de bevoegde instantie van de verzoekende Overeenkomstsluitende Partij daarvan binnen de in lid (1) van artikel 7 van de Overeenkomst bedoelde termijn in kennis worden gesteld.
 
-#### Artikel 3. Reisdocument
+##### Artikel 3. Reisdocument
 
 1. De bevoegde instantie van de verzoekende Overeenkomstsluitende Partij leidt het positieve antwoord op haar aanvraag tot overname naar de diplomatieke of consulaire vertegenwoordiging van de aangezochte Overeenkomstsluitende Partij door, teneinde, zo nodig, het voor de terugkeer en de overname van personen met toepassing van artikel 2 van de Overeenkomst nodige reisdocument op te stellen. De aanvraag voor een reisdocument wordt door middel van het als bijlage 3 bij dit Protocol gaande formulier gedaan (Verzoek om een laissez-passer).
 
 2. Het staat aan de bevoegde instantie van de verzoekende Overeenkomstsluitende Partij om, zo nodig, het reisdocument op te stellen, dat voor de overname van ingevolge artikel 3 van de Overeenkomst over te nemen personen nodig is.
 
-#### Artikel 4. Doorgeleiding ter fine van overname
+##### Artikel 4. Doorgeleiding ter fine van overname
 
 1. Het verzoek om doorreis van een onderdaan van een derde land wordt in de in artikel 5 van de Overeenkomst bepaalde gevallen door de in artikel 6 van dit Protocol aangewezen bevoegde instantie van de verzoekende Overeenkomstsluitende Partij gericht aan de in artikel 6 van dit Protocol aangewezen bevoegde instantie van de aangezochte Overeenkomstsluitende Partij. Het aanvraag- en antwoordformulier gaat als bijlage 2 bij dit Protocol (Verzoek om doorreis).
 
@@ -338,7 +362,7 @@ De onregelmatige binnenkomst en het onregelmatige verblijf in de zin van de arti
 
 9. De doorreis van onderdanen van derde landen door het grondgebied van de aangezochte Overeenkomstsluitende Partij vindt plaats op de in artikel 5 van dit Protocol bepaalde grensovergangen.
 
-#### Artikel 5. Grensovergangen
+##### Artikel 5. Grensovergangen
 
 Overnames en doorgeleidingen vinden op onderstaande grensovergangen plaats:
 
@@ -368,7 +392,7 @@ Overnames en doorgeleidingen vinden op onderstaande grensovergangen plaats:
 
 - –. over land: te bepalen door het Bureau Dublin
 
-#### Artikel 6. Bevoegde instanties
+##### Artikel 6. Bevoegde instanties
 
 - a. Voor de Hongaarse Overeenkomstsluitende Partij is voor het voorleggen en aanvaarden van verzoeken om overname van eigen onderdanen en onderdanen van derde landen de volgende instantie bevoegd: Landelijke Staf van de Grensbewaking Hoofddirectie Politie en Overtredingen (Határörség Országos Parancsnokság Idegenrendészeti és Szabálysértési Föosztály) Postadres: H-1525 Budapest, Pf: 47. Telefoon en fax: (0036-1) 45-67-195
 
@@ -386,21 +410,21 @@ Overnames en doorgeleidingen vinden op onderstaande grensovergangen plaats:
 
 - c. Voor Nederland: Ministerie van Justitie IND – Immigratie- en Naturalisatiedienst - Bureau Dublin Postbus 449 NL – 6900 K Zevenaar Telefoon: (0031.31) 636.87.24 Fax (0031.31) 636.86.49
 
-#### Artikel 7. Ten laste komende kosten
+##### Artikel 7. Ten laste komende kosten
 
 1. De tegenwaarde van alle uit de toepassing van artikel 9 van de Overeenkomst voortvloeiende kosten wordt door de verzoekende Overeenkomstsluitende Partij, met inachtneming van haar interne budgettaire wetgeving, binnen een termijn van dertig (30) dagen te rekenen van de ontvangst van de factuur, in EUR (euro) aan de andere Overeenkomstsluitende Partij overgemaakt.
 
 2. De Overeenkomstsluitende Partijen dragen er zorg voor dat de begeleide doorgeleidingen zich onder toereikende en bevredigende veiligheidsvoorwaarden en zo efficiënt en economisch mogelijk kunnen voltrekken.
 
-#### Artikel 8. Werktalen
+##### Artikel 8. Werktalen
 
 Tenzij anders wordt overeengekomen, bezigen de bevoegde instanties van de Overeenkomstsluitende Partijen bij de toepassing van de Overeenkomst en dit Protocol de Engelse of de Franse taal in hun contacten.
 
-#### Artikel 9. Comité van deskundigen
+##### Artikel 9. Comité van deskundigen
 
 De bevoegde instanties van de Overeenkomstsluitende Partijen stellen elkaar binnen dertig (30) dagen na de inwerkingtreding van de Overeenkomst in kennis van de samenstelling van hun delegatie in het in artikel 10 van de Overeenkomst bedoelde Comité van deskundigen.
 
-#### Artikel 10. Slotbepalingen
+##### Artikel 10. Slotbepalingen
 
 1. De bevoegde ministeries van de Overeenkomstsluitende Partijen kunnen dit Protocol in onderlinge overeenstemming inhoudelijk aanvullen of wijzigen.
 

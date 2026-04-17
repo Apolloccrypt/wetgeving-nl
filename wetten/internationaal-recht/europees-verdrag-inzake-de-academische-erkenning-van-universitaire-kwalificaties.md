@@ -1,13 +1,35 @@
 ---
 title: "Europees Verdrag inzake de academische erkenning van universitaire kwalificaties"
 identifier: "BWBV0005307"
-categorie: "Internationaal recht"
-publicatiedatum: 1962-05-27
-laatste_update: 1962-05-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005307"
+country: "nl"
+rank: "verdrag"
+publication_date: "1962-05-27"
+last_updated: "1962-05-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005307"
+soort: "verdrag"
+stam_id: "10004554703"
+version_id: "10004780932"
+internal_id: "C10007205641"
+label_id: "10004539254"
+dtd_version: "2.0"
+original_entry_into_force: "1962-05-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005307/1962-05-27/0"
+intitule_bron: "Trb.1960-22"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1960-04-01"
+intitule_in_force: "1962-07-20"
+intitule_status: "goed"
+original_publication: "Trb.1960-22"
+original_published_date: "1960-04-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1960-22"
+entry_into_force_date: "1962-05-27"
+jci_1_3: "jci1.3:c:BWBV0005307&z=1962-05-27&g=1962-05-27"
+jci_1_0: "1.0:c:BWBV0005307&g=1962-05-27"
+citeertitel_status: "redactioneel"
+entry_into_force: "1962-05-27"
 ---
-
 # Europees Verdrag inzake de academische erkenning van universitaire kwalificaties
 
 De regeringen die dit Verdrag hebben ondertekend, leden van de Raad van Europa,
@@ -22,7 +44,7 @@ Overwegende dat het wenselijk is deze Verdragen aan te vullen door voorzieningen
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit Verdrag:
 
@@ -36,7 +58,7 @@ Voor de toepassing van dit Verdrag:
 
 - (c). een graad, diploma of getuigschrift, verleend op grond van een gedeeltelijk examen, wordt niet beschouwd als een universitaire kwalificatie als bedoeld onder (**b**) van dit artikel.
 
-#### Artikel 2
+##### Artikel 2
 
 1. In dit Verdrag worden de Verdragsluitende Partijen in groepen verdeeld, al naar
 
@@ -50,7 +72,7 @@ de autoriteit is, die op hun grondgebied bevoegd is ten aanzien van aangelegenhe
 
 2. Binnen een jaar nadat dit Verdrag ten aanzien van een Verdragsluitende Partij in werking is getreden, deelt die Partij de Secretaris-Generaal van de Raad van Europa mede welke autoriteit op haar grondgebied bevoegd is ten aanzien van aangelegenheden die betrekking hebben op gelijkstelling van universitaire kwalificaties.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De Verdragsluitende Partijen die vallen onder groep (**a**) van artikel 2, lid 1, van dit Verdrag verlenen academische erkenning aan universitaire kwalificaties die zijn verleend door een op het grondgebied van een andere Verdragsluitende Partij gelegen universiteit.
 
@@ -60,7 +82,7 @@ de autoriteit is, die op hun grondgebied bevoegd is ten aanzien van aangelegenhe
 
 - (b). een door een buitenlandse universiteit verleende academische titel te voeren met aanduiding van de herkomst van die titel.
 
-#### Artikel 4
+##### Artikel 4
 
 Iedere Verdragsluitende Partij kan, met betrekking tot het vermelde in artikel 3, lid 2, onder (**a**), van dit Verdrag:
 
@@ -68,23 +90,23 @@ Iedere Verdragsluitende Partij kan, met betrekking tot het vermelde in artikel 3
 
 - (b). van de houders van een buitenlandse universitaire kwalificatie eisen dat zij een proeve van bekwaamheid afleggen in haar officiële taal, of een van haar officiële talen, indien zij hun studie in een andere taal gevolgd hebben.
 
-#### Artikel 5
+##### Artikel 5
 
 De Verdragsluitende Partijen die behoren tot groep (**b**) van artikel 2, eerste lid, doen de tekst van dit Verdrag toekomen aan de autoriteiten die op hun grondgebied bevoegd zijn ten aanzien van aangelegenheden die betrekking hebben op gelijkstelling van universitaire kwalificaties en bevorderen dat deze de in de artikelen 3 en 4 neergelegde beginselen in welwillende overweging nemen en in toepassing brengen.
 
-#### Artikel 6
+##### Artikel 6
 
 De Verdragsluitende Partijen die behoren tot groep (**c**) van artikel 2, eerste lid, van dit Verdrag passen de bepalingen van de artikelen 3 en 4 toe, indien de staat de autoriteit is die bevoegd is ten aanzien van de gelijkstelling van universitaire kwalificaties en passen de bepalingen van artikel 5 toe, indien de staat ten aanzien van deze aangelegenheden niet de bevoegde autoriteit is.
 
-#### Artikel 7
+##### Artikel 7
 
 De Secretaris-Generaal van de Raad van Europa kan van tijd tot tijd de Verdragsluitende Partijen verzoeken schriftelijk mededeling te doen van de maatregelen en besluiten die met het oog op de tenuitvoerlegging van de bepalingen van dit Verdrag zijn genomen.
 
-#### Artikel 8
+##### Artikel 8
 
 De Secretaris-Generaal van de Raad van Europa deelt aan elk der Verdragsluitende Partijen de inlichtingen mede, die hij overeenkomstig het bepaalde in de artikelen 2 en 7 van dit Verdrag van elk der andere Verdragsluitende Partijen heeft ontvangen en hij houdt tevens het Comité van Ministers op de hoogte van de voortgang die bij de tenuitvoerlegging van dit Verdrag is gemaakt.
 
-#### Artikel 9
+##### Artikel 9
 
 Niets in dit Verdrag zal geacht worden:
 
@@ -92,7 +114,7 @@ Niets in dit Verdrag zal geacht worden:
 
 - (b). een aantasting in te houden van een ieders verplichting tot het inachtnemen van de wetten en regelingen die op het grondgebied van een Verdragsluitende Partij met betrekking tot het binnenkomen, het verblijf en het vertrek van vreemdelingen van kracht zijn.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Dit Verdrag staat ter ondertekening open voor de leden van de Raad van Europa. Het dient te worden bekrachtigd. De akten van bekrachtiging worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
 
@@ -104,11 +126,11 @@ Niets in dit Verdrag zal geacht worden:
 
 5. De Secretaris-Generaal van de Raad van Europa geeft aan alle leden van de Raad, alsmede aan de toetredende staten, kennis van de nederlegging van alle akten van bekrachtiging en toetreding.
 
-#### Artikel 11
+##### Artikel 11
 
 Iedere Verdragsluitende Partij kan, op het tijdstip van nederlegging van haar akte van bekrachtiging of toetreding, of op ieder tijdstip daarna, door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte kennisgeving verklaren dat dit Verdrag van toepassing zal zijn op enige of alle gebieden voor welker internationale betrekkingen zij verantwoordelijk is.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Iedere Verdragsluitende Partij kan dit Verdrag, nadat het gedurende een tijdvak van vijf jaar van kracht is geweest, te allen tijde opzeggen door middel van kennisgeving aan de Secretaris-Generaal van de Raad van Europa, die hiervan aan de andere Verdragsluitende Partijen mededeling zal doen.
 

@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst tot herziening van de Overeenkomst houdende oprichting van een Europees Universitair Instituut"
 identifier: "BWBV0004696"
-categorie: "Internationaal recht"
-publicatiedatum: 2007-05-01
-laatste_update: 1992-09-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004696"
+country: "nl"
+rank: "verdrag"
+publication_date: "2007-05-01"
+last_updated: "1992-09-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004696"
+soort: "verdrag"
+stam_id: "10004266493"
+version_id: "10004454252"
+internal_id: "C10006979011"
+label_id: "10004251474"
+dtd_version: "2.0"
+original_entry_into_force: "2007-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004696/2007-05-01/0"
+intitule_bron: "Trb.1993-68"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1993-05-13"
+intitule_in_force: "2008-04-10"
+intitule_status: "goed"
+original_publication: "Trb.1993-68"
+original_published_date: "1993-05-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1993-68"
+entry_into_force_date: "2007-05-01"
+jci_1_3: "jci1.3:c:BWBV0004696&z=2007-05-01&g=2007-05-01"
+jci_1_0: "1.0:c:BWBV0004696&g=2007-05-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2007-05-01"
 ---
-
 # Overeenkomst tot herziening van de Overeenkomst houdende oprichting van een Europees Universitair Instituut
 
 Zijne Majesteit de Koning der Belgen,
@@ -114,57 +136,57 @@ Die, na overlegging van in goede en behoorlijke vorm bevonden volmachten, overee
 
 ## BEPALINGEN TOT HERZIENING VAN DE OVEREENKOMST HOUDENDE OPRICHTING VAN EEN EUROPEES UNIVERSITAIR INSTITUUT
 
-#### Artikel 1
+##### Artikel 1
 
 Wijzigt de Overeenkomst houdende oprichting van een Europees Universitair Instituut; Florence, 19 april 1972.
 
-#### Artikel 2
+##### Artikel 2
 
 Wijzigt de Overeenkomst houdende oprichting van een Europees Universitair Instituut; Florence, 19 april 1972.
 
-#### Artikel 3
+##### Artikel 3
 
 Wijzigt de Overeenkomst houdende oprichting van een Europees Universitair Instituut; Florence, 19 april 1972.
 
-#### Artikel 4
+##### Artikel 4
 
 Wijzigt de Overeenkomst houdende oprichting van een Europees Universitair Instituut; Florence, 19 april 1972.
 
-#### Artikel 5
+##### Artikel 5
 
 Wijzigt de Overeenkomst houdende oprichting van een Europees Universitair Instituut; Florence, 19 april 1972.
 
-#### Artikel 6
+##### Artikel 6
 
 Wijzigt de Overeenkomst houdende oprichting van een Europees Universitair Instituut; Florence, 19 april 1972.
 
-#### Artikel 7
+##### Artikel 7
 
 Wijzigt de Overeenkomst houdende oprichting van een Europees Universitair Instituut; Florence, 19 april 1972.
 
-#### Artikel 8
+##### Artikel 8
 
 Wijzigt de Overeenkomst houdende oprichting van een Europees Universitair Instituut; Florence, 19 april 1972.
 
-#### Artikel 9
+##### Artikel 9
 
 Wijzigt de Overeenkomst houdende oprichting van een Europees Universitair Instituut; Florence, 19 april 1972.
 
-#### Artikel 10
+##### Artikel 10
 
 Wijzigt de Overeenkomst houdende oprichting van een Europees Universitair Instituut; Florence, 19 april 1972.
 
-#### Artikel 11
+##### Artikel 11
 
 Wijzigt de Overeenkomst houdende oprichting van een Europees Universitair Instituut; Florence, 19 april 1972.
 
 ## OVERGANGS- EN SLOTBEPALINGEN
 
-#### Artikel 12
+##### Artikel 12
 
 De Raad van Bestuur kan bij de inwerkingtreding van deze Overeenkomst de duur van het mandaat van de in functie zijnde financiële controleurs van drie tot vier jaar verlengen.
 
-#### Artikel 13
+##### Artikel 13
 
 Deze Overeenkomst zal worden onderworpen aan de bekrachtiging, aanvaarding of goedkeuring, vereist krachtens de grondwettelijke bepalingen der Overeenkomstsluitende Staten.
 

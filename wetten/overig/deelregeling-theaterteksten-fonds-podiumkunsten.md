@@ -1,13 +1,38 @@
 ---
 title: "Deelregeling theaterteksten Fonds Podiumkunsten"
 identifier: "BWBR0039482"
-categorie: "Overig"
-publicatiedatum: 2017-04-20
-laatste_update: 2017-04-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039482"
+country: "nl"
+rank: "zbo"
+publication_date: "2017-04-20"
+last_updated: "2017-04-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039482"
+soort: "zbo"
+stam_id: "13984753"
+version_id: "24061492"
+internal_id: "C34577871"
+label_id: "13947344"
+dtd_version: "2.0"
+original_entry_into_force: "2017-04-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039482/2017-04-20/0"
+intitule_bron: "Stcrt.2017-21695"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-03-06"
+intitule_published: "2017-04-19"
+intitule_in_force: "2017-04-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-21695"
+original_signed_date: "2017-03-06"
+original_published_date: "2017-04-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-21695"
+entry_into_force_date: "2017-04-20"
+jci_1_3: "jci1.3:c:BWBR0039482&z=2017-04-20&g=2017-04-20"
+jci_1_0: "1.0:c:BWBR0039482&g=2017-04-20"
+citeertitel_status: "officieel"
+signed_date: "2017-03-06"
+entry_into_force: "2017-04-20"
 ---
-
 # Deelregeling theaterteksten Fonds Podiumkunsten
 
 Gelet op [artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10) en [artikel 2 van het Algemeen Reglement Fonds Podiumkunsten](https://wetten.overheid.nl/jci1.3:c:BWBR0030539&artikel=2);
@@ -16,7 +41,7 @@ Besluit:
 
 #### Paragraaf 1. algemene bepalingen
 
-#### Artikel 1.1. Definities
+##### Artikel 1.1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -28,11 +53,11 @@ In deze regeling wordt verstaan onder:
 
 - **Nederland:** Het Koninkrijk der Nederlanden, bestaande uit Nederland inclusief Bonaire, Sint-Eustatius en Saba en Aruba, Curaçao en Sint Maarten;
 
-#### Artikel 1.2. Subsidievormen
+##### Artikel 1.2. Subsidievormen
 
 Het bestuur kan subsidie verstrekken aan individuen in de vorm van een werkbijdrage theatertekst.
 
-#### Artikel 1.3. De aanvraag
+##### Artikel 1.3. De aanvraag
 
 1. Een aanvraag wordt ingediend met behulp van een door het bestuur opgesteld aanvraagformulier.
 
@@ -42,7 +67,7 @@ Het bestuur kan subsidie verstrekken aan individuen in de vorm van een werkbijdr
 
 4. Het bestuur kan digitale indiening mogelijk maken. Het bepaalde in lid een tot en met drie is van overeenkomstige toepassing.
 
-#### Artikel 1.4. Beoordeling
+##### Artikel 1.4. Beoordeling
 
 1. Het bestuur kan een of meer aanvraagrondes per jaar vaststellen. De bijbehorende indieningsdata worden bekendgemaakt via de website van het Fonds Podiumkunsten.
 
@@ -50,7 +75,7 @@ Het bestuur kan subsidie verstrekken aan individuen in de vorm van een werkbijdr
 
 3. Het bestuur informeert de aanvrager binnen 13 weken na de uiterlijke indieningsdatum schriftelijk over zijn besluit. Als voor de motivering van het besluit wordt verwezen naar een over de aanvraag uitgebracht advies, wordt de tekst van het advies aan de aanvrager toegezonden.
 
-#### Artikel 1.5. Subsidieplafond
+##### Artikel 1.5. Subsidieplafond
 
 1. Het bestuur kan per subsidieronde een of meer subsidieplafonds vaststellen.
 
@@ -58,7 +83,7 @@ Het bestuur kan subsidie verstrekken aan individuen in de vorm van een werkbijdr
 
 3. Besluiten als bedoeld in het eerste en tweede lid worden bekendgemaakt via de website van het Fonds Podiumkunsten.
 
-#### Artikel 1.6. Verdeling budget
+##### Artikel 1.6. Verdeling budget
 
 1. Het bestuur voorziet in een gelijktijdige beslissing op aanvragen op basis van hun geschiktheid om bij te dragen aan de doelstelling waarvoor subsidie wordt verstrekt. Als een subsidieplafond ontoereikend is om alle aanvragen die voor subsidie in aanmerking komen te honoreren, worden de aanvragen die het betreft onderverdeeld in drie categorieën:
 
@@ -74,7 +99,7 @@ Het bestuur kan subsidie verstrekken aan individuen in de vorm van een werkbijdr
 
 4. Indien het bestuur een subsidieplafond verhoogt, wordt eerst het subsidiebedrag van een aanvraag die wegens ontoereikendheid van het budget gedeeltelijk was gehonoreerd alsnog verhoogd tot het geadviseerde subsidiebedrag. Vervolgens wordt steeds de eerstvolgende aanvraag gehonoreerd voor het geadviseerde subsidiebedrag totdat het subsidieplafond is bereikt.
 
-#### Artikel 1.7. Algemene weigeringsgronden
+##### Artikel 1.7. Algemene weigeringsgronden
 
 Onverminderd het bepaalde in [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) kan het bestuur subsidie weigeren:
 
@@ -94,23 +119,23 @@ Onverminderd het bepaalde in [artikel 4:35 van de Algemene wet bestuursrecht](ht
 
 #### Paragraaf 2. Werkbijdrage theatertekst
 
-#### Artikel 2.1. Doel
+##### Artikel 2.1. Doel
 
 Het bestuur verstrekt een werkbijdrage theatertekst aan theaterauteurs die willen investeren in de artistieke kwaliteit van hun werkpraktijk om zo de ontwikkeling van en diversiteit binnen de podiumkunsten te stimuleren.
 
-#### Artikel 2.2. Aanvrager
+##### Artikel 2.2. Aanvrager
 
 1. Een aanvrager mag op het moment van indiening van de aanvraag geen kunstvakopleiding volgen.
 
 2. Een aanvrager kan maximaal een keer per twee jaar een werkbijdrage theaterauteur ontvangen.
 
-#### Artikel 2.3. Subsidieaanvraag
+##### Artikel 2.3. Subsidieaanvraag
 
 1. Een aanvraag heeft betrekking op een werkplan van een theaterauteur die nieuw werk wil ontwikkelen.
 
 2. De werkbijdrage theaterauteur is een tegemoetkoming in de investering van tijd en materialen en kan gebruikt worden voor kosten die verband houden met de ontwikkeling en presentatie van nieuw werk.
 
-#### Artikel 2.4. Beoordeling
+##### Artikel 2.4. Beoordeling
 
 1. Aanvragen worden beoordeeld aan de hand van de volgende criteria:
 
@@ -124,7 +149,7 @@ Het bestuur verstrekt een werkbijdrage theatertekst aan theaterauteurs die wille
 
 2. Het bestuur stelt in overleg met het Nederlands Letterenfonds een commissie in die adviseert over ingediende aanvragen.
 
-#### Artikel 2.5. Hoogte subsidie
+##### Artikel 2.5. Hoogte subsidie
 
 1. Een werkbijdrage theaterauteur wordt verstrekt op basis van de omvang van de werkzaamheden.
 
@@ -132,7 +157,7 @@ Het bestuur verstrekt een werkbijdrage theatertekst aan theaterauteurs die wille
 
 #### Paragraaf 3. Overige bepalingen
 
-#### Artikel 3.1. Aan het subsidie verbonden verplichtingen
+##### Artikel 3.1. Aan het subsidie verbonden verplichtingen
 
 De ontvanger van het subsidie meldt onverwijld aan het bestuur als:
 
@@ -142,7 +167,7 @@ De ontvanger van het subsidie meldt onverwijld aan het bestuur als:
 
 - c). er aanzienlijke wijzigingen zijn ten opzichte van het plan op basis waarvan subsidie is verstrekt.
 
-#### Artikel 3.2. Verantwoording van het subsidie
+##### Artikel 3.2. Verantwoording van het subsidie
 
 1. Het bestuur kan na het verstrijken van de in de aanvraag opgenomen einddatum de ontvanger van het subsidie verzoeken bewijsstukken te overleggen waarmee kan worden aangetoond dat de gesubsidieerde activiteiten volgens plan hebben plaatsgevonden.
 
@@ -152,21 +177,21 @@ De ontvanger van het subsidie meldt onverwijld aan het bestuur als:
 
 4. Binnen 22 weken na het verstrijken van de in de beschikking opgenomen afrondingsdatum stelt het bestuur het subsidie ambtshalve vast.
 
-#### Artikel 3.3. Begrotingsvoorbehoud
+##### Artikel 3.3. Begrotingsvoorbehoud
 
 Subsidie wordt verstrekt onder voorbehoud van verstrekking van de bijbehorende middelen door de Minister van Onderwijs, Cultuur, Wetenschap.
 
-#### Artikel 3.4. Inwerkingtreding
+##### Artikel 3.4. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na publicatie in de Staatscourant.
 
-#### Artikel 3.5. Intrekking
+##### Artikel 3.5. Intrekking
 
 1. De [Deelregeling opdracht theatertekst Fonds Podiumkunsten](https://wetten.overheid.nl/jci1.3:c:BWBR0037619) wordt ingetrokken.
 
 2. Subsidies die zijn verleend op basis van de in het eerste lid genoemde deelregeling worden afgehandeld conform het bepaalde in die regeling.
 
-#### Artikel 3.6. Citeertitel
+##### Artikel 3.6. Citeertitel
 
 Deze regeling wordt aangehaald als: Deelregeling theaterteksten Fonds Podiumkunsten.
 

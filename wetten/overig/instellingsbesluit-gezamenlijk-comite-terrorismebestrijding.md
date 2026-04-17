@@ -1,24 +1,48 @@
 ---
 title: "Instellingsbesluit Gezamenlijk Comité Terrorismebestrijding"
 identifier: "BWBR0016870"
-categorie: "Overig"
-publicatiedatum: 2004-07-11
-laatste_update: 2004-07-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0016870"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2004-07-11"
+last_updated: "2004-07-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0016870"
+soort: "ministeriele-regeling"
+stam_id: "5954223"
+version_id: "10544922"
+internal_id: "C14330031"
+label_id: "5943914"
+original_entry_into_force: "2004-07-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0016870/2004-07-11/0"
+intitule_bron: "Stcrt.2004-129"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-06-15"
+intitule_published: "2004-07-09"
+intitule_in_force: "2004-07-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2004-129"
+original_signed_date: "2004-06-15"
+original_published_date: "2004-07-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2004-129-p12-SC65720"
+entry_into_force_date: "2004-07-11"
+jci_1_3: "jci1.3:c:BWBR0016870&z=2004-07-11&g=2004-07-11"
+jci_1_0: "1.0:c:BWBR0016870&g=2004-07-11"
+citeertitel_status: "redactioneel"
+signed_date: "2004-06-15"
+entry_into_force: "2004-07-11"
 ---
-
 # Instellingsbesluit Gezamenlijk Comité Terrorismebestrijding
 
 Handelend in overeenstemming met het gevoelen van de Ministerraad;
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Er is een Gezamenlijk Comité Terrorismebestrijding (GCT).
 
-#### Artikel 2
+##### Artikel 2
 
 Het GCT heeft tot taak:
 
@@ -34,7 +58,7 @@ Het GCT heeft tot taak:
 
 - •. het bewaken van de samenhang tussen de activiteiten die worden ontplooid door de diverse organisaties op het terrein van terrorismebestrijding;
 
-#### Artikel 3
+##### Artikel 3
 
 Het GCT is als volgt samengesteld:
 
@@ -68,35 +92,35 @@ Het GCT is als volgt samengesteld:
 
 - –. de directeur van de directie Wetgeving van het ministerie van Justitie.
 
-#### Artikel 4
+##### Artikel 4
 
 - a. Het secretariaat van het GCT wordt verzorgd door de staf van de Nationaal Coördinator Terrorismebestrijding.
 
 - b. Het GCT regelt haar eigen werkwijze (onder meer terzake van geheimhouding en regeling omtrent vervangers in het GCT) en die van het secretariaat.
 
-#### Artikel 5
+##### Artikel 5
 
 Besluiten van het GCT worden uitgevoerd onder verantwoordelijkheid van het GCT lid dat verantwoordelijk is voor het beleidsterrein waar het besluit betrekking op heeft en dit GCT lid zal de voortgang van de uitvoering periodiek aan het GCT rapporteren.
 
-#### Artikel 6
+##### Artikel 6
 
 - a. Het beheer van de archiefbescheiden van het GCT geschiedt door het secretariaat van het GCT met inachtneming van de terzake geldende bepalingen.
 
 - b. Bij opheffing van het GCT worden de archiefbescheiden overgedragen aan het centraal archief van het ministerie van Justitie.
 
-#### Artikel 7
+##### Artikel 7
 
 Het GCT vergadert ten minste 10 keer per jaar.
 
-#### Artikel 8
+##### Artikel 8
 
 Om de schakelfunctie tussen beleid en uitvoering goed te kunnen uitvoeren wordt het GCT ondersteund door het Coördinerend Overleg Terrorismebestrijding (COTB).
 
-#### Artikel 9
+##### Artikel 9
 
 In het COTB zijn in ieder geval de volgende uitvoerende organisaties vertegenwoordigd: AIVD, MIVD, KLPD, OM, FIOD/ECD, Douane, Kmar, IND, DCIM en de Nationaal Coördinator Bewaking en Beveiliging.
 
-#### Artikel 10
+##### Artikel 10
 
 De taken van het COTB zijn:
 
@@ -106,11 +130,11 @@ De taken van het COTB zijn:
 
 - c. Het zorgdragen voor uitvoering van besluiten van het GCT.
 
-#### Artikel 11
+##### Artikel 11
 
 De voorzitter van het COTB is de directeur Opsporingsbeleid van het Ministerie van Justitie. Het secretariaat wordt gevoerd door de AIVD. De secretaris van het GCT zal q.q. participeren in het COTB.
 
-#### Artikel 12
+##### Artikel 12
 
 De deelnemende partijen handelen in overeenstemming met:
 
@@ -120,7 +144,7 @@ De deelnemende partijen handelen in overeenstemming met:
 
 - –. de Wet op de Staatsgeheimen.
 
-#### Artikel 13
+##### Artikel 13
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

@@ -1,13 +1,39 @@
 ---
-title: "Regeling medisch-wetenschappelijk onderzoek met mensen"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 9 juli 2015, houdende regels voor medisch-wetenschappelijk onderzoek met mensen (Regeling medisch-wetenschappelijk onderzoek met mensen)"
 identifier: "BWBR0036864"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2018-08-01
-laatste_update: 2018-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036864"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2018-08-01"
+last_updated: "2018-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036864"
+soort: "ministeriele-regeling"
+stam_id: "13224763"
+version_id: "22595282"
+internal_id: "C32491711"
+label_id: "13193154"
+dtd_version: "2.0"
+original_entry_into_force: "2015-08-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036864/2018-08-01/0"
+intitule_bron: "Stcrt.2015-20221"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-07-09"
+intitule_published: "2015-07-17"
+intitule_in_force: "2015-08-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-20221"
+original_signed_date: "2015-07-09"
+original_published_date: "2015-07-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-20221"
+entry_into_force_date: "2015-08-27"
+jci_1_3: "jci1.3:c:BWBR0036864&z=2018-08-01&g=2018-08-01"
+jci_1_0: "1.0:c:BWBR0036864&g=2018-08-01"
+citeertitel_status: "officieel"
+short_title: "Regeling medisch-wetenschappelijk onderzoek met mensen"
+signed_date: "2015-07-09"
+entry_into_force: "2015-08-27"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 9 juli 2015, houdende regels voor medisch-wetenschappelijk onderzoek met mensen (Regeling medisch-wetenschappelijk onderzoek met mensen)
 
 #### Paragraaf 1. : Algemene bepaling
@@ -20,19 +46,19 @@ bron: "https://wetten.overheid.nl/BWBR0036864"
 
 #### Paragraaf 4. : Toezicht
 
-#### Artikel 12
+##### Artikel 12
 
 Wijzigt de Regeling wetenschappelijk onderzoek met geneesmiddelen.
 
-#### Artikel 13
+##### Artikel 13
 
 De [Regeling wetenschappelijk onderzoek met geneesmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0019570) en de [Regeling toezicht WMO](https://wetten.overheid.nl/jci1.3:c:BWBR0012276) worden ingetrokken.
 
-#### Artikel 14
+##### Artikel 14
 
 Deze regeling wordt aangehaald als: Regeling medisch-wetenschappelijk onderzoek met mensen.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Deze regeling treedt in werking op het tijdstip waarop de wet van 4 juni 2015 houdende wijziging van de Wet medisch-wetenschappelijk onderzoek met mensen in verband met een uitbreiding van de meldingsplicht van ernstige ongewenste voorvallen (**Stb**. 2015, 240) in werking treedt, met uitzondering van artikel 12.
 
@@ -48,7 +74,7 @@ Treedt in werking op het tijdstip waarop artikel I, onderdeel K, van de Wijzigin
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -56,7 +82,7 @@ In deze regeling wordt verstaan onder:
 
 - b. **besluit:** het [Besluit wetenschappelijk onderzoek met geneesmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0019313).
 
-#### Artikel 2
+##### Artikel 2
 
 Bij een aanvraag als bedoeld in [artikel 13h van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&artikel=13h) en bij een kennisgeving als bedoeld in [artikel 13i, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&artikel=13i) worden de volgende gegevens verstrekt:
 
@@ -82,7 +108,7 @@ Bij een aanvraag als bedoeld in [artikel 13h van de wet](https://wetten.overheid
 
 - –. overige voor de beoordeling van het wetenschappelijk onderzoek met geneesmiddelen relevante documenten.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een melding van een substantiële wijziging van het onderzoeksprotocol als bedoeld in [artikel 13k, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&artikel=13k) aan de ingevolge [artikel 2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&artikel=2) bevoegde commissie bevat de volgende gegevens:
 
@@ -106,7 +132,7 @@ Bij een aanvraag als bedoeld in [artikel 13h van de wet](https://wetten.overheid
 
 - –. een omschrijving van de wijziging van het wetenschappelijk onderzoek met geneesmiddelen en de reden daarvan.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een melding dat het wetenschappelijk onderzoek met geneesmiddelen is beëindigd als bedoeld in [artikel 13l van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&artikel=13l) bevat de volgende gegevens:
 
@@ -116,7 +142,7 @@ Bij een aanvraag als bedoeld in [artikel 13h van de wet](https://wetten.overheid
 
 2. Degene die het wetenschappelijk onderzoek met geneesmiddelen verricht, draagt er zorg voor dat binnen één jaar na beëindiging van het onderzoek een samenvatting van de resultaten van het onderzoek wordt ingediend bij de centrale commissie of de Minister van Volksgezondheid, Welzijn en Sport, ingeval het vijfde lid van [artikel 13i van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&artikel=13i) van toepassing is, en de ingevolge [artikel 2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&artikel=2) bevoegde commissie.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een melding van een vermoeden van een onverwachte ernstige bijwerking als bedoeld in [artikel 13p van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&artikel=13p) bevat de volgende gegevens:
 
@@ -144,17 +170,17 @@ Bij een aanvraag als bedoeld in [artikel 13h van de wet](https://wetten.overheid
 
 3. Degene die het wetenschappelijk onderzoek verricht, draagt er zorg voor dat eens per half jaar een overzichtslijst van alle vermoedens van onverwachte ernstige bijwerkingen van een geneesmiddel voor onderzoek waarvan hij kennis heeft genomen, wordt ingediend bij de ingevolge [artikel 2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&artikel=2) bevoegde commissies, die wetenschappelijk onderzoek van dezelfde verrichter en met hetzelfde geneesmiddel als waarover het bedoelde vermoeden is gerezen, hebben beoordeeld. De overzichtslijst van alle vermoedens van onverwachte ernstige bijwerkingen van een geneesmiddel voor onderzoek bevat een korte toelichting waarin de belangrijkste conclusies worden vermeld.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Bij de lijst van alle vermoedens van ernstige bijwerkingen, bedoeld in [artikel 13q van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&artikel=13q), wordt een geaggregeerde samenvattende tabel gevoegd van alle gerapporteerde ernstige bijwerkingen geordend naar orgaansysteem per onderzoek.
 
 2. Een rapport betreffende de veiligheid van de proefpersonen als bedoeld in [artikel 13q van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&artikel=13q) bestaat uit een volledige veiligheidsanalyse en een evaluatie van de balans tussen de werkzaamheid en de schadelijkheid van het geneesmiddel voor onderzoek.
 
-#### Artikel 7
+##### Artikel 7
 
 Bij de toepassing van de beginselen van goede klinische praktijken en bij de documentatie en de archivering van wetenschappelijk onderzoek met geneesmiddelen wordt rekening gehouden met de gedetailleerde richtsnoeren die de Commissie van de Europese Gemeenschappen heeft gepubliceerd in ‘The rules governing medicinal products in the European Union’.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Een wijziging in een door de Europese Commissie vastgesteld formulier treedt voor de toepassing van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036864&paragraaf=2&artikel=2&z=2018-08-01&g=2018-08-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036864&paragraaf=2&artikel=3&z=2018-08-01&g=2018-08-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0036864&paragraaf=2&artikel=4&z=2018-08-01&g=2018-08-01) in werking met ingang van de datum waarop deze wijziging in werking treedt.
 
@@ -162,7 +188,7 @@ Bij de toepassing van de beginselen van goede klinische praktijken en bij de doc
 
 #### Paragraaf 3. : Melding van ernstige ongewenste voorvallen
 
-#### Artikel 9
+##### Artikel 9
 
 1. Een melding van een ernstig ongewenst voorval als bedoeld in [artikel 10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&artikel=10) bevat de volgende gegevens:
 
@@ -180,13 +206,13 @@ Bij de toepassing van de beginselen van goede klinische praktijken en bij de doc
 
 - –. een beoordeling door degene die het wetenschappelijk onderzoek verricht van de gevolgen van de melding voor de uitvoering van het wetenschappelijk onderzoek.
 
-#### Artikel 10
+##### Artikel 10
 
 Degene die het wetenschappelijk onderzoek verricht, maakt voor de rapportage, bedoeld in [artikel 10, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&artikel=10), uitsluitend gebruik van het daarvoor bestemde internetportaal van de centrale commissie.
 
 #### Paragraaf 4. : Toezicht
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 

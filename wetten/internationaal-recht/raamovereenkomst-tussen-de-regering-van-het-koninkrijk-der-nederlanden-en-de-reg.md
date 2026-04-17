@@ -1,13 +1,35 @@
 ---
 title: "Raamovereenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Federatieve Republiek van Brazilië inzake technische samenwerking"
 identifier: "BWBV0004485"
-categorie: "Internationaal recht"
-publicatiedatum: 1971-06-14
-laatste_update: 1971-06-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004485"
+country: "nl"
+rank: "verdrag"
+publication_date: "1971-06-14"
+last_updated: "1971-06-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004485"
+soort: "verdrag"
+stam_id: "10004160183"
+version_id: "10004329882"
+internal_id: "C10006999271"
+label_id: "10004145194"
+dtd_version: "2.0"
+original_entry_into_force: "1971-06-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004485/1971-06-14/0"
+intitule_bron: "Trb.1969-226"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1969-12-05"
+intitule_in_force: "1971-07-23"
+intitule_status: "goed"
+original_publication: "Trb.1969-226"
+original_published_date: "1969-12-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1969-226"
+entry_into_force_date: "1971-06-14"
+jci_1_3: "jci1.3:c:BWBV0004485&z=1971-06-14&g=1971-06-14"
+jci_1_0: "1.0:c:BWBV0004485&g=1971-06-14"
+citeertitel_status: "redactioneel"
+entry_into_force: "1971-06-14"
 ---
-
 # Raamovereenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Federatieve Republiek van Brazilië inzake technische samenwerking
 
 De Regering van het Koninkrijk der Nederlanden en de Regering van de Federatieve Republiek van Brazilië,
@@ -20,7 +42,7 @@ Zich bewust van de wederzijdse voordelen die zullen voortvloeien uit een nauwere
 
 Besloten hebbende, in een geest van vriendschappelijke samenwerking, een raamovereenkomst inzake technische samenwerking te sluiten, hebben hun daartoe behoorlijk gemachtigde Gevolmachtigden aangewezen, die zijn overeengekomen als volgt:
 
-#### Artikel I
+##### Artikel I
 
 1. De Regeringen zullen trachten elkaar bijstand te verlenen en samen te werken, met inachtneming van hun onderscheiden technische en financiële mogelijkheden en voor zover het hun ter beschikking staande personeel zulks toelaat.
 
@@ -32,11 +54,11 @@ Besloten hebbende, in een geest van vriendschappelijke samenwerking, een raamove
 
 5. De programma's voor technische samenwerking zullen worden uitgevoerd overeenkomstig de bepalingen van bijzondere technische overeenkomsten door de bevoegde autoriteiten gesloten op grond van deze Overeenkomst. Deze overeenkomsten treden in werking op de datum waarop zij bij diplomatieke notawisseling zijn bevestigd.
 
-#### Artikel II
+##### Artikel II
 
 De Regeringen zullen gezamenlijk de kosten dragen van de programma's voor technische samenwerking die worden uitgevoerd ingevolge de bepalingen van deze Overeenkomst en van de bijzondere technische overeenkomsten.
 
-#### Artikel III
+##### Artikel III
 
 De technische samenwerking zoals omschreven in deze Overeenkomst en nader uiteengezet in de bijzondere technische overeenkomsten kan bestaan in:
 
@@ -46,11 +68,11 @@ De technische samenwerking zoals omschreven in deze Overeenkomst en nader uiteen
 
 - C. De verlening van enige andere soort van technische samenwerking waaromtrent onderling overeenstemming is bereikt.
 
-#### Artikel IV
+##### Artikel IV
 
 Bij de uitoefening van zijn taak onderhoudt het personeel voor technische bijstand, via de door de desbetreffende Regering aangewezen organen, nauw contact met de Regering die de adviezen en de bijstand ontvangt en houdt het zich aan die instructies van deze Regering waarin de bijzondere technische overeenkomsten kunnen voorzien.
 
-#### Artikel V
+##### Artikel V
 
 1. Het personeel voor technische bijstand dat op grond van deze Overeenkomst door de Regering van een der landen ter beschikking wordt gesteld voor adviserende of uitvoerende werkzaamheden in het andere land, kan gedurende zes maanden na aankomst in het betrokken land zonder bijzondere invoervergunning en zonder bewijs van deviezendekking, zo deze mochten bestaan, en vrij van consulaire rechten en douaneheffingen en van soortgelijke belastingen of heffingen invoeren:
 
@@ -66,15 +88,15 @@ Bij de uitoefening van zijn taak onderhoudt het personeel voor technische bijsta
 
 4. Elke Regering is verantwoordelijk voor het behandelen van vorderingen die door derden tegen buitenlands technisch personeel kunnen worden ingebracht en vrijwaart zodanig personeel voor alle vorderingen of aanspraken die het gevolg zijn van werkzaamheden ingevolge deze Overeenkomst, behalve wanneer de twee Regeringen overeenkomen dat zodanige vorderingen of aanspraken voortvloeien uit grove nalatigheid of opzettelijk onjuist optreden van zodanig personeel.
 
-#### Artikel VI
+##### Artikel VI
 
 De invoer en uitvoer van apparatuur en goederen die de deskundigen nodig hebben voor het vervullen van hun taak of welke deel uitmaken van het materiaal dat beschikbaar wordt gesteld in gevallen van technische samenwerking op uitgebreidere schaal, zijn toegestaan zonder tijdslimiet en zonder een bijzondere invoervergunning of bewijs van deviezendekking zo deze mochten bestaan, en zijn vrijgesteld van consulaire rechten en douaneheffingen, belasting bij aankoop en accijnzen, belasting bij verkoop en andere soortgelijke belastingen of heffingen.
 
-#### Artikel VII
+##### Artikel VII
 
 Wat betreft de faciliteiten met betrekking tot het beschikbaar stellen van deskundigen en het uitvoeren van projecten waarin deze Overeenkomst niet voorziet, passen de twee Regeringen de raamovereenkomst betreffende technische bijstand toe die op 29 december 1964 te Rio de Janeiro werd gesloten tussen de Regering van Brazilië en de Verenigde Naties.
 
-#### Artikel VIII
+##### Artikel VIII
 
 1. Deze Overeenkomst loopt af vijf jaar na de datum van ondertekening. Zij wordt geacht stilzwijgend te zijn verlengd, telkens voor een tijdvak van drie jaar, indien zij niet door een der Overeenkomstsluitende Partijen schriftelijk is opgezegd uiterlijk zes maanden voor het einde van het lopende tijdvak.
 

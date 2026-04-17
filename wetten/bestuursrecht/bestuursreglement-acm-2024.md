@@ -1,13 +1,39 @@
 ---
-title: "Bestuursreglement ACM 2024"
+title: "Besluit van de Autoriteit Consument en Markt van 11 januari 2024, tot vaststelling van het Bestuursreglement ACM 2024"
 identifier: "BWBR0049735"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-05-29
-laatste_update: 2024-05-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049735"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-05-29"
+last_updated: "2024-05-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049735"
+soort: "zbo"
+stam_id: "17112243"
+version_id: "30117972"
+internal_id: "C43154911"
+label_id: "17020884"
+dtd_version: "2.0"
+original_entry_into_force: "2024-05-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049735/2024-05-29/0"
+intitule_bron: "Stcrt.2024-17125"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-01-11"
+intitule_published: "2024-05-28"
+intitule_in_force: "2024-05-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-17125"
+original_signed_date: "2024-01-11"
+original_published_date: "2024-05-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-17125"
+entry_into_force_date: "2024-05-29"
+jci_1_3: "jci1.3:c:BWBR0049735&z=2024-05-29&g=2024-05-29"
+jci_1_0: "1.0:c:BWBR0049735&g=2024-05-29"
+citeertitel_status: "officieel"
+short_title: "Bestuursreglement ACM 2024"
+signed_date: "2024-01-11"
+entry_into_force: "2024-05-29"
 ---
-
 # Besluit van de Autoriteit Consument en Markt van 11 januari 2024, tot vaststelling van het Bestuursreglement ACM 2024
 
 Gelet op [artikel 4, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=4);
@@ -18,7 +44,7 @@ Besluit:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -36,7 +62,7 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 2. Het bestuur
 
-#### Artikel 2
+##### Artikel 2
 
 1. De bestuursleden geven gezamenlijk leiding aan het ACM-personeel.
 
@@ -46,7 +72,7 @@ In dit besluit wordt verstaan onder:
 
 4. De ACM benoemt een secretaris. De secretaris maakt deel uit van het ACM-personeel.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De bestuursvoorzitter roept de ACM in vergadering bijeen en leidt de vergadering.
 
@@ -54,7 +80,7 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 3. De bestuursvergadering
 
-#### Artikel 4
+##### Artikel 4
 
 1. De bestuursleden komen in beginsel eenmaal per week in vergadering bijeen.
 
@@ -68,7 +94,7 @@ In dit besluit wordt verstaan onder:
 
 6. In spoedeisende gevallen of bij afwezigheid van bestuursleden kan de vergadering hetzij schriftelijk, hetzij op andere geschikte wijze geschieden. De wijze van besluitvorming wordt alsdan met de genomen beslissingen in het verslag vastgelegd.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Ieder bestuurslid heeft één stem.
 
@@ -76,7 +102,7 @@ In dit besluit wordt verstaan onder:
 
 3. Een bestuurslid stemt zonder last of ruggespraak.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De secretaris stelt een verslag op van het verhandelde in de vergadering. Het verslag bevat ten minste:
 
@@ -94,7 +120,7 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 4. Verschoning
 
-#### Artikel 7
+##### Artikel 7
 
 1. Een bestuurslid kan verzoeken zich te mogen verschonen indien hij van mening is dat zijn onpartijdigheid bij een bepaalde aangelegenheid in het geding zou kunnen komen. Indien hij zich wil verschonen, richt hij zijn verzoek aan de bestuursvoorzitter dan wel, indien het de bestuursvoorzitter betreft, aan zijn vervanger.
 
@@ -106,7 +132,7 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 5. De raad van advies
 
-#### Artikel 8
+##### Artikel 8
 
 1. Er is een Raad van Advies die de ACM gevraagd en ongevraagd adviseert op het gebied van:
 
@@ -124,17 +150,17 @@ In dit besluit wordt verstaan onder:
 
 3. De raad adviseert niet over voorgenomen besluiten die de ACM neemt op grond van haar wettelijke bevoegdheden.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De raad stelt een reglement van orde vast.
 
 2. Het reglement van orde van de raad behoeft de goedkeuring van de ACM.
 
-#### Artikel 10
+##### Artikel 10
 
 De raad bestaat uit tenminste drie en ten hoogste vijf leden.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De leden van de raad worden door de ACM benoemd en na overleg met de raad uit hun functie ontheven.
 
@@ -144,25 +170,25 @@ De raad bestaat uit tenminste drie en ten hoogste vijf leden.
 
 4. De ACM benoemt na overleg met het Ministerie van EZK de voorzitter van de raad.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De ACM stelt een profielschets op voor de leden van de raad.
 
 2. De profielschets wordt op de website van de ACM gepubliceerd.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Een lid van de raad neemt niet deel aan de beraadslaging indien hij daarbij een direct of indirect persoonlijk belang heeft.
 
 2. Leden van de raad melden een direct of indirect persoonlijk belang aan de voorzitter van de raad, die het meldt aan de overige leden.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De leden van de raad doen bij aantreden en bij wijziging opgave bij de ACM van hun nevenfuncties.
 
 2. Het is de leden van de raad niet toegestaan een nevenfunctie te bekleden die onverenigbaar is met het lidmaatschap van de raad.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De raad vergadert ten minste viermaal per jaar.
 
@@ -172,31 +198,31 @@ De raad bestaat uit tenminste drie en ten hoogste vijf leden.
 
 4. De vergaderingen van de raad zijn niet openbaar.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De raad stelt een jaarverslag op.
 
 2. Het jaarverslag maakt deel uit van het jaarverslag van de ACM.
 
-#### Artikel 17
+##### Artikel 17
 
 De leden van de raad ontvangen een door de ACM vast te stellen vergoeding.
 
-#### Artikel 18
+##### Artikel 18
 
 [Artikel 2:5, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:5) is van overeenkomstige toepassing op de leden van de raad.
 
 ### Hoofdstuk 6. Slotbepalingen
 
-#### Artikel 19
+##### Artikel 19
 
 Het [Bestuursreglement ACM](https://wetten.overheid.nl/jci1.3:c:BWBR0033328) wordt ingetrokken.
 
-#### Artikel 20
+##### Artikel 20
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 21
+##### Artikel 21
 
 Dit besluit wordt aangehaald als: Bestuursreglement ACM 2024.
 

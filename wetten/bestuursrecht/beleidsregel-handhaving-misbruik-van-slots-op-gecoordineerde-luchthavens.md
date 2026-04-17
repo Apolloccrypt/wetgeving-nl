@@ -1,20 +1,42 @@
 ---
 title: "Beleidsregel handhaving misbruik van slots op gecoördineerde luchthavens"
 identifier: "BWBR0045764"
-categorie: "Bestuursrecht"
-publicatiedatum: 2021-11-03
-laatste_update: 2021-11-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045764"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2021-11-03"
+last_updated: "2021-11-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045764"
+soort: "beleidsregel"
+stam_id: "16117843"
+version_id: "28115962"
+internal_id: "C39649231"
+label_id: "16048274"
+dtd_version: "2.0"
+original_entry_into_force: "2021-11-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045764/2021-11-03/0"
+intitule_bron: "Stcrt.2021-45332"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2021-11-02"
+intitule_in_force: "2021-11-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-45332"
+original_published_date: "2021-11-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-45332"
+entry_into_force_date: "2021-11-03"
+jci_1_3: "jci1.3:c:BWBR0045764&z=2021-11-03&g=2021-11-03"
+jci_1_0: "1.0:c:BWBR0045764&g=2021-11-03"
+citeertitel_status: "officieel"
+entry_into_force: "2021-11-03"
 ---
-
 # Beleidsregel handhaving misbruik van slots op gecoördineerde luchthavens
 
 Gelet op [artikel 7 van het Besluit slotallocatie](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=7) en [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81).
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze beleidsregel wordt verstaan onder:
 
@@ -44,7 +66,7 @@ Besluit:
 
 2. De omschrijving van begrippen in artikel 2 van [Verordening 95/93](31993R0095) en [artikel 1 van het Besluit slotallocatie](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=1) is van overeenkomstige toepassing.
 
-#### Artikel 2
+##### Artikel 2
 
 In [artikel 7, eerste lid, van het Besluit slotallocatie](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=7) wordt verstaan onder:
 
@@ -58,11 +80,11 @@ In [artikel 7, eerste lid, van het Besluit slotallocatie](https://wetten.overhei
 
 - c. **‘wezenlijk andere wijze’:** het gebruik van een slot met een ander type vliegtuig, aantal stoelen, herkomst en bestemming, STC code of elke andere wezenlijke afwijking dan door de luchtvaartmaatschappij werd aangegeven op het moment van toewijzing van het desbetreffende slot.
 
-#### Artikel 3
+##### Artikel 3
 
 Bij het berekenen van een bestuurlijke boete op grond van [artikel 11.16, eerste lid, onderdeel e, onder 5°, Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=11.16) wordt in het geval van een overtreding van [artikel 7 Besluit slotallocatie](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=7) de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045764&bijlage=1&z=2021-11-03&g=2021-11-03) opgenomen boetecatalogus toegepast.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Van het opleggen van een bestuurlijke boete overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045764&artikel=3&z=2021-11-03&g=2021-11-03) wordt in ieder geval afgezien in de volgende situaties, mits de gedraging van de luchtvaartmaatschappij, onvoorzienbaar, onvermijdbaar en niet toerekenbaar was aan de luchtvaartmaatschappij:
 
@@ -100,15 +122,15 @@ Bij het berekenen van een bestuurlijke boete op grond van [artikel 11.16, eerste
 
 5. Bij het niet uitvoeren van een verbeterplan als bedoeld in het vierde lid, kan er geen beroep worden gedaan op een rechtvaardigingsgrond.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze beleidsregel is niet van toepassing bij de handhaving van overtredingen van [artikel 7 van het Besluit slotallocatie](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=7) die zijn begaan vóór inwerkingtreding van deze beleidsregel.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel handhaving misbruik van slots op gecoördineerde luchthavens.
 

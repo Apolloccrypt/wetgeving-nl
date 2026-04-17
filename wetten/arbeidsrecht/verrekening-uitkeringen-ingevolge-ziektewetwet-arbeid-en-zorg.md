@@ -1,13 +1,36 @@
 ---
 title: "Verrekening uitkeringen ingevolge ziektewet/wet arbeid en zorg"
 identifier: "BWBR0013905"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2002-07-31
-laatste_update: 2002-07-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013905"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2002-07-31"
+last_updated: "2002-07-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013905"
+soort: "beleidsregel"
+stam_id: "6443643"
+version_id: "11115472"
+internal_id: "C15030591"
+label_id: "6432434"
+original_entry_into_force: "2002-07-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013905/2002-07-31/0"
+intitule_bron: "Uitleg.2002-18"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-07-19"
+intitule_published: "2002-07-31"
+intitule_in_force: "2002-07-31"
+intitule_status: "goed"
+original_publication: "Uitleg.2002-18"
+original_signed_date: "2002-07-19"
+original_published_date: "2002-07-31"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2002-07-31"
+jci_1_3: "jci1.3:c:BWBR0013905&z=2002-07-31&g=2002-07-31"
+jci_1_0: "1.0:c:BWBR0013905&g=2002-07-31"
+citeertitel_status: "redactioneel"
+signed_date: "2002-07-19"
+entry_into_force: "2002-07-31"
 ---
-
 # Verrekening uitkeringen ingevolge ziektewet/wet arbeid en zorg
 
 ### Inleiding

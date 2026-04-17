@@ -1,13 +1,38 @@
 ---
 title: "Algemeen/Formeel recht, ondermandaat"
 identifier: "BWBR0021233"
-categorie: "Bestuursrecht"
-publicatiedatum: 2007-02-14
-laatste_update: 2007-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0021233"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2007-02-14"
+last_updated: "2007-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0021233"
+soort: "beleidsregel"
+stam_id: "8918293"
+version_id: "14172272"
+internal_id: "C29324751"
+label_id: "8897504"
+dtd_version: "2.0"
+original_entry_into_force: "2007-02-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0021233/2007-02-14/0"
+intitule_bron: "Stcrt.2007-30"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-02-01"
+intitule_published: "2007-02-12"
+intitule_in_force: "2007-02-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-30"
+original_signed_date: "2007-02-01"
+original_published_date: "2007-02-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2007-30-p14-SC79201"
+entry_into_force_date: "2007-02-14"
+jci_1_3: "jci1.3:c:BWBR0021233&z=2007-02-14&g=2007-02-14"
+jci_1_0: "1.0:c:BWBR0021233&g=2007-02-14"
+citeertitel_status: "redactioneel"
+signed_date: "2007-02-01"
+entry_into_force: "2007-02-14"
 ---
-
 # Algemeen/Formeel recht, ondermandaat
 
 De Minister van Economische Zaken heeft het volgende besloten:

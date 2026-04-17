@@ -1,13 +1,38 @@
 ---
 title: "Douanerechten/Indeling in de goederennomenclatuur van bepaalde LCD-monitoren"
 identifier: "BWBR0019786"
-categorie: "Bestuursrecht"
-publicatiedatum: 2006-05-04
-laatste_update: 2006-01-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019786"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2006-05-04"
+last_updated: "2006-01-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019786"
+soort: "beleidsregel"
+stam_id: "8256483"
+version_id: "13093802"
+internal_id: "C29234771"
+label_id: "8237594"
+dtd_version: "2.0"
+original_entry_into_force: "2006-05-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019786/2006-05-04/0"
+intitule_bron: "Stcrt.2006-85"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-04-21"
+intitule_published: "2006-05-02"
+intitule_in_force: "2006-05-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-85"
+original_signed_date: "2006-04-21"
+original_published_date: "2006-05-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-85-p10-SC74861"
+entry_into_force_date: "2006-05-04"
+jci_1_3: "jci1.3:c:BWBR0019786&z=2006-05-04&g=2006-05-04"
+jci_1_0: "1.0:c:BWBR0019786&g=2006-05-04"
+citeertitel_status: "redactioneel"
+signed_date: "2006-04-21"
+entry_into_force: "2006-05-04"
 ---
-
 # Douanerechten/Indeling in de goederennomenclatuur van bepaalde LCD-monitoren
 
 De Staatssecretaris van Financiën heeft het volgende besloten:

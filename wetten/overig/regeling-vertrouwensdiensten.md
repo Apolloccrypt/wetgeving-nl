@@ -1,13 +1,39 @@
 ---
-title: "Regeling vertrouwensdiensten"
+title: "Regeling van de Minister van Economische Zaken van 24 februari 2017, nr. WJZ/17028856, in overeenstemming met de Minister van Financiën en de Minister van Infrastructuur en Milieu, tot vaststelling van procedurele bepalingen inzake de aanvraag tot certificerende instelling van gekwalificeerde middelen, de aanvraag tot toekenning van de status gekwalificeerd en inzake de vertrouwenslijst, tot intrekking van de Regeling elektronische handtekeningen en van de Regeling vertrouwenslijst en tot wijziging van een aantal regelingen als gevolg van de inwerkingtreding van de eidas-verordening (Regeling vertrouwensdiensten)"
 identifier: "BWBR0039274"
-categorie: "Overig"
-publicatiedatum: 2023-01-01
-laatste_update: 2023-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039274"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-01-01"
+last_updated: "2023-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039274"
+soort: "ministeriele-regeling"
+stam_id: "13930243"
+version_id: "23949932"
+internal_id: "C34450401"
+label_id: "13894054"
+dtd_version: "2.0"
+original_entry_into_force: "2017-03-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039274/2023-01-01/0"
+intitule_bron: "Stcrt.2017-11810"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-02-24"
+intitule_published: "2017-03-08"
+intitule_in_force: "2017-03-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-11810"
+original_signed_date: "2017-02-24"
+original_published_date: "2017-03-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-11810"
+entry_into_force_date: "2017-03-10"
+jci_1_3: "jci1.3:c:BWBR0039274&z=2023-01-01&g=2023-01-01"
+jci_1_0: "1.0:c:BWBR0039274&g=2023-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling vertrouwensdiensten"
+signed_date: "2017-02-24"
+entry_into_force: "2017-03-10"
 ---
-
 # Regeling van de Minister van Economische Zaken van 24 februari 2017, nr. WJZ/17028856, in overeenstemming met de Minister van Financiën en de Minister van Infrastructuur en Milieu, tot vaststelling van procedurele bepalingen inzake de aanvraag tot certificerende instelling van gekwalificeerde middelen, de aanvraag tot toekenning van de status gekwalificeerd en inzake de vertrouwenslijst, tot intrekking van de Regeling elektronische handtekeningen en van de Regeling vertrouwenslijst en tot wijziging van een aantal regelingen als gevolg van de inwerkingtreding van de eidas-verordening (Regeling vertrouwensdiensten)
 
 #### § 1. Regels omtrent aanvragen
@@ -16,31 +42,31 @@ bron: "https://wetten.overheid.nl/BWBR0039274"
 
 #### § 3. Intrekking en wijziging van andere ministeriële regelingen
 
-#### Artikel 5. Intrekking [Regeling elektronische handtekeningen](https://wetten.overheid.nl/jci1.3:c:BWBR0015039)
+##### Artikel 5. Intrekking [Regeling elektronische handtekeningen](https://wetten.overheid.nl/jci1.3:c:BWBR0015039)
 
 De [Regeling elektronische handtekeningen](https://wetten.overheid.nl/jci1.3:c:BWBR0015039) wordt ingetrokken.
 
-#### Artikel 6. Intrekking [Regeling vertrouwenslijst](https://wetten.overheid.nl/jci1.3:c:BWBR0026956)
+##### Artikel 6. Intrekking [Regeling vertrouwenslijst](https://wetten.overheid.nl/jci1.3:c:BWBR0026956)
 
 De [Regeling vertrouwenslijst](https://wetten.overheid.nl/jci1.3:c:BWBR0026956) wordt ingetrokken.
 
-#### Artikel 7. Wijziging [Dienstenregeling centraal loket en interne markt informatiesysteem](https://wetten.overheid.nl/jci1.3:c:BWBR0026766)
+##### Artikel 7. Wijziging [Dienstenregeling centraal loket en interne markt informatiesysteem](https://wetten.overheid.nl/jci1.3:c:BWBR0026766)
 
 Wijzigt de Dienstenregeling centraal loket en interne markt informatiesysteem.
 
-#### Artikel 8. Wijziging [Regeling doorberekening kosten ACM](https://wetten.overheid.nl/jci1.3:c:BWBR0036097)
+##### Artikel 8. Wijziging [Regeling doorberekening kosten ACM](https://wetten.overheid.nl/jci1.3:c:BWBR0036097)
 
 Wijzigt de Regeling doorberekening kosten ACM.
 
-#### Artikel 9. Wijziging [Regeling specificaties en typegoedkeuring boordcomputer taxi](https://wetten.overheid.nl/jci1.3:c:BWBR0027945)
+##### Artikel 9. Wijziging [Regeling specificaties en typegoedkeuring boordcomputer taxi](https://wetten.overheid.nl/jci1.3:c:BWBR0027945)
 
 Wijzigt de Regeling specificaties en typegoedkeuring boordcomputer taxi.
 
-#### Artikel 10. Wijziging [Uitvoeringsregeling Kadasterwet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006596)
+##### Artikel 10. Wijziging [Uitvoeringsregeling Kadasterwet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006596)
 
 Wijzigt de Uitvoeringsregeling Kadasterwet 1994.
 
-#### Artikel 11. Wijziging [Uitvoeringsregeling Registratiewet 1970](https://wetten.overheid.nl/jci1.3:c:BWBR0034017)
+##### Artikel 11. Wijziging [Uitvoeringsregeling Registratiewet 1970](https://wetten.overheid.nl/jci1.3:c:BWBR0034017)
 
 Wijzigt de Uitvoeringsregeling Registratiewet 1970.
 
@@ -52,7 +78,7 @@ Besluit:
 
 Treedt in werking op het tijdstip waarop de Wijzigingswet Telecommunicatiewet, enz. (uitvoering EU-verordening elektronische identiteiten en vertrouwensdiensten) in werking treedt.
 
-#### Artikel 1. Aanvraag certificerende instellingen gekwalificeerde middelen
+##### Artikel 1. Aanvraag certificerende instellingen gekwalificeerde middelen
 
 1. Een aanvraag voor een aanwijzing als bedoeld in [artikel 18.17a, eerste lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=18.17a), wordt schriftelijk ingediend bij:
 
@@ -68,7 +94,7 @@ Postbus 20141
 
 3. De aanvrager verleent de minister alle medewerking bij de beoordeling of de aanvraag aan de eisen, bedoeld in artikel 3 van het Besluit vertrouwensdiensten, voldoet door desgevraagd ten minste inzage te verstrekken in alle bescheiden, voor zover dat nodig is in verband met deze beoordeling.
 
-#### Artikel 2. Aanvraag toekennen status gekwalificeerd
+##### Artikel 2. Aanvraag toekennen status gekwalificeerd
 
 1. Een verlener van vertrouwensdiensten dient een aanvraag tot toekenning van de status gekwalificeerd als bedoeld in [artikel 2.5b, eerste lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=2.5b), schriftelijk, opgesteld in de Nederlandse of Engelse taal, in bij:
 
@@ -94,7 +120,7 @@ Emmasingel 1
 
 #### § 2. Vertrouwenslijst
 
-#### Artikel 3. Gegevens vertrouwenslijst
+##### Artikel 3. Gegevens vertrouwenslijst
 
 1. De door een gekwalificeerde verlener van vertrouwensdiensten te overleggen gegevens voor de vertrouwenslijst worden gesteld in de Nederlandse of in de Engelse taal.
 
@@ -102,7 +128,7 @@ Emmasingel 1
 
 3. In geval van een wijziging als bedoeld in [artikel 2.5c, derde lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=2.5c) vermeldt de gekwalificeerde verlener van vertrouwensdiensten de datum waarop de wijziging is ingegaan.
 
-#### Artikel 4. Publicatie vingerafdrukken van de publieke sleutelcertificaten
+##### Artikel 4. Publicatie vingerafdrukken van de publieke sleutelcertificaten
 
 De Minister van Economische Zaken en Klimaat draagt er zorg voor dat de vingerafdrukken van de publieke sleutelcertificaten, bedoeld in artikel 4, tweede lid, van het Uitvoeringsbesluit 2015/1505 van de Commissie tot vaststelling van de technische specificaties en formaten van vertrouwenslijsten overeenkomstig artikel 22, lid 5, van de Verordening (EU) nr. 910/2014 van het Europees Parlement en de Raad betreffende elektronische identificatie en vertrouwensdiensten voor elektronische transacties in de interne markt (PbEU 2015 L 235), waarmee de vertrouwenslijst wordt ondertekend of verzegeld, worden gepubliceerd in de Staatscourant.
 
@@ -110,13 +136,13 @@ De Minister van Economische Zaken en Klimaat draagt er zorg voor dat de vingeraf
 
 #### § 4. Slotbepalingen
 
-#### Artikel 12
+##### Artikel 12
 
 1. Deze regeling treedt in werking op het tijdstip dat [artikel I, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0039151&artikel=I), en [artikel VII van de Wet van 21 december 2016 tot wijziging van de Telecommunicatiewet, de Boeken 3 en 6 van het Burgerlijk Wetboek, de Algemene wet bestuursrecht alsmede daarmee samenhangende wijzigingen van andere wetten in verband met de uitvoering van EU-verordening elektronische identiteiten en vertrouwensdiensten (uitvoering EU-verordening elektronische identiteiten en vertrouwensdiensten)](https://wetten.overheid.nl/jci1.3:c:BWBR0039151&artikel=VII) (Stb. 2017, 13) in werking treden.
 
 2. [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039274&paragraaf=3&artikel=8&z=2023-01-01&g=2023-01-01) werkt terug tot en met 1 januari 2017.
 
-#### Artikel 13
+##### Artikel 13
 
 Deze regeling wordt aangehaald als: Regeling vertrouwensdiensten.
 

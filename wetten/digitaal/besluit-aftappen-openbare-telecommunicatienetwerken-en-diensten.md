@@ -1,13 +1,39 @@
 ---
-title: "Besluit aftappen openbare telecommunicatienetwerken en -diensten"
+title: "Besluit van 10 november 1998, houdende regels met betrekking tot de technische aftapbaarheid van openbare telecommunicatienetwerken en -diensten en de, inzake aftappen, te nemen organisatorische en personele maatregelen en te treffen voorzieningen (Besluit aftappen openbare telecommunicatienetwerken en -diensten)"
 identifier: "BWBR0009999"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2003-01-24
-laatste_update: 2003-01-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009999"
+country: "nl"
+rank: "amvb"
+publication_date: "2003-01-24"
+last_updated: "2003-01-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009999"
+soort: "AMvB"
+stam_id: "971093"
+version_id: "1424022"
+internal_id: "C1424021"
+label_id: "941484"
+dtd_version: "2.0"
+original_entry_into_force: "1998-12-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009999/2003-01-24/0"
+intitule_bron: "Stb.1998-642"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-11-10"
+intitule_published: "1998-11-24"
+intitule_in_force: "1998-12-03"
+intitule_status: "goed"
+original_publication: "Stb.1998-642"
+original_signed_date: "1998-11-10"
+original_published_date: "1998-11-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-1998-642"
+entry_into_force_date: "1998-12-15"
+jci_1_3: "jci1.3:c:BWBR0009999&z=2003-01-24&g=2003-01-24"
+jci_1_0: "1.0:c:BWBR0009999&g=2003-01-24"
+citeertitel_status: "officieel"
+short_title: "Besluit aftappen openbare telecommunicatienetwerken en -diensten"
+signed_date: "1998-11-10"
+entry_into_force: "1998-12-15"
 ---
-
 # Besluit van 10 november 1998, houdende regels met betrekking tot de technische aftapbaarheid van openbare telecommunicatienetwerken en -diensten en de, inzake aftappen, te nemen organisatorische en personele maatregelen en te treffen voorzieningen (Besluit aftappen openbare telecommunicatienetwerken en -diensten)
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 20 mei 1998, nr. HDTP/98/1552/HW, Hoofddirectie Telecommunicatie en Post;
@@ -20,7 +46,7 @@ Gezien het nader rapport van de Staatssecretaris van Verkeer en Waterstaat van 3
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -40,7 +66,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - 3°. het hoofd van de Militaire Inlichtingen- en Veiligheidsdienst.
 
-#### Artikel 2
+##### Artikel 2
 
 De aanbieder richt zijn openbare telecommunicatienetwerk of openbare telecommunicatiedienst zodanig in dat aan de volgende vereisten wordt voldaan:
 
@@ -64,19 +90,19 @@ De aanbieder richt zijn openbare telecommunicatienetwerk of openbare telecommuni
 
 - j. de uitgevoerde bijzondere last wordt door de aanbieder ten behoeve van de lastgever bijgehouden in een register.
 
-#### Artikel 3
+##### Artikel 3
 
 De voorzieningen door middel van welke de ten behoeve van aftappen verkregen telecommunicatie door de aanbieder wordt doorgegeven zijn in overeenstemming met het bij ministeriële regeling vast te stellen technisch protocol, dan wel met de bij ministeriële regeling vast te stellen andere eisen of uitgangspunten.
 
-#### Artikel 4
+##### Artikel 4
 
 Bij ministeriële regeling kunnen nadere regels inzake technische aftapbaarheid worden gesteld met betrekking tot de bij die regeling aan te wijzen openbare telecommunicatienetwerken en openbare telecommunicatiediensten. Bij ministeriële regeling kunnen tevens regels worden gesteld ten aanzien van de door een aanbieder te nemen personele maatregelen en te treffen voorzieningen met betrekking tot aftappen. Bij deze regeling kan worden bepaald dat deze maatregelen en voorzieningen de instemming van een bij die regeling aan te wijzen bestuursorgaan of bevoegde autoriteit behoeven. Voorts kan bij deze regeling worden bepaald dat de desbetreffende bestuursorganen of bevoegde autoriteiten bevoegd zijn beveiligingseisen vast te stellen.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit wordt aangehaald als: Besluit aftappen openbare telecommunicatienetwerken en -diensten.
 

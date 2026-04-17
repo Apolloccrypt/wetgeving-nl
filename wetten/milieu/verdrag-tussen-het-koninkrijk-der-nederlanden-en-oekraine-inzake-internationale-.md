@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en Oekraïne inzake internationale juridische samenwerking met betrekking tot misdrijven die verband houden met het neerhalen van vlucht MH17 van Malaysia Airlines op 17 juli 2014"
 identifier: "BWBV0006683"
-categorie: "Milieu"
-publicatiedatum: 2018-08-28
-laatste_update: 2018-08-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006683"
+country: "nl"
+rank: "verdrag"
+publication_date: "2018-08-28"
+last_updated: "2018-08-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006683"
+soort: "verdrag"
+stam_id: "10005410523"
+version_id: "10005850302"
+internal_id: "C10009433151"
+label_id: "10005393634"
+dtd_version: "2.0"
+original_entry_into_force: "2018-08-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006683/2018-08-28/0"
+intitule_bron: "Trb.2017-102"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2017-07-07"
+intitule_in_force: "2018-09-07"
+intitule_status: "goed"
+original_publication: "Trb.2017-102"
+original_published_date: "2017-07-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2017-102"
+entry_into_force_date: "2018-08-28"
+jci_1_3: "jci1.3:c:BWBV0006683&z=2018-08-28&g=2018-08-28"
+jci_1_0: "1.0:c:BWBV0006683&g=2018-08-28"
+citeertitel_status: "redactioneel"
+entry_into_force: "2018-08-28"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en Oekraïne inzake internationale juridische samenwerking met betrekking tot misdrijven die verband houden met het neerhalen van vlucht MH17 van Malaysia Airlines op 17 juli 2014
 
 Het Koninkrijk der Nederlanden
@@ -34,7 +56,7 @@ Zijn het volgende overeengekomen:
 
 ## DEEL I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -46,7 +68,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - d. „veroordeling”: elke straf of maatregel die door een rechter van het Koninkrijk der Nederlanden wordt opgelegd en die vrijheidsbeneming wegens een misdrijf met zich meebrengt.
 
-#### Artikel 2. Reikwijdte
+##### Artikel 2. Reikwijdte
 
 1. Dit Verdrag strekt tot het regelen van aangelegenheden in verband met of voortvloeiend uit de vervolging en berechting in het Koninkrijk der Nederlanden van misdrijven die verband houden met het neerhalen van vlucht MH17 van Malaysia Airlines op 17 juli 2014 in Oekraïne.
 
@@ -54,7 +76,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 3. Dit Verdrag vormt een aanvulling op bestaande verdragen en regelingen inzake internationale strafrechtelijke samenwerking die tussen de partijen van toepassing zijn.
 
-#### Artikel 3. Communicatiekanalen
+##### Artikel 3. Communicatiekanalen
 
 1. Ten behoeve van de toepassing van dit Verdrag communiceren de bevoegde autoriteiten van de partijen via hun centrale autoriteiten. Deze zijn:
 
@@ -64,19 +86,19 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 2. Verzoeken en antwoorden worden uitgewisseld in een vorm die toelaat dat het schriftelijk wordt vastgelegd en die de autoriteiten in staat stelt de echtheid ervan vast te stellen.
 
-#### Artikel 4. Vrijstelling van legalisatie
+##### Artikel 4. Vrijstelling van legalisatie
 
 Elk verzoek of document dat door een partij in overeenstemming met dit Verdrag wordt ingediend is vrijgesteld van legalisatie of andere soortgelijke formaliteiten.
 
 ## DEEL II. OVERDRACHT VAN STRAFVERVOLGING
 
-#### Artikel 5. Bevoegdheid
+##### Artikel 5. Bevoegdheid
 
 1. In aanvulling op en onverminderd bestaande bevoegdheden ingevolge zijn eigen strafrecht heeft het Koninkrijk der Nederlanden de bevoegdheid misdrijven te vervolgen waarop het Oekraïense recht van toepassing is, na een overdracht van strafvervolging in overeenstemming met [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006683&deel=II&artikel=6&z=2018-08-28&g=2018-08-28) van dit Verdrag.
 
 2. Ten behoeve van de toepassing van dit Verdrag kan een overdracht van strafvervolging berusten op de gronden die zijn genoemd in [artikel 8, eerste lid, van het Verdrag betreffende de overdracht van strafvervolging](https://wetten.overheid.nl/jci1.3:c:BWBV0001035&artikel=8), waarvan met name de onderdelen d en e relevant zijn.
 
-#### Artikel 6. Overdracht van strafvervolging
+##### Artikel 6. Overdracht van strafvervolging
 
 1. Ten behoeve van de toepassing van [artikel 6 van het Verdrag betreffende de overdracht van strafvervolging](https://wetten.overheid.nl/jci1.3:c:BWBV0001035&artikel=6) kan het Koninkrijk der Nederlanden Oekraïne uitnodigen te verzoeken om een overdracht van strafvervolging.
 
@@ -86,13 +108,13 @@ Elk verzoek of document dat door een partij in overeenstemming met dit Verdrag w
 
 ## DEEL III. UITLEVERING
 
-#### Artikel 7. Uitlevering
+##### Artikel 7. Uitlevering
 
 Op kwesties van uitlevering van personen wegens misdrijven zijn de relevante internationale verdragen die tussen de partijen van kracht zijn van toepassing.
 
 ## DEEL IV. GEBRUIKMAKING VAN VIDEOCONFERENTIE
 
-#### Artikel 8. Terechtstaan per videoconferentie
+##### Artikel 8. Terechtstaan per videoconferentie
 
 1. Een verdachte die zich op het grondgebied van Oekraïne bevindt en wiens uitlevering aan het Koninkrijk der Nederlanden is geweigerd, kan terechtstaan in het Koninkrijk der Nederlanden door middel van een videoconferentieverbinding in overeenstemming met dit Verdrag.
 
@@ -120,7 +142,7 @@ Op kwesties van uitlevering van personen wegens misdrijven zijn de relevante int
 
 6. Onverminderd eventuele maatregelen die ter bescherming van personen zijn overeengekomen, stelt de bevoegde autoriteit van Oekraïne na afloop van het verhoor een proces-verbaal op waarin het volgende wordt vermeld: de datum en de plaats van het verhoor, de identiteit van de verhoorde persoon, de identiteit en de hoedanigheid van alle andere personen die in Oekraïne aan het verhoor hebben deelgenomen, eventuele eedafleggingen en de technische omstandigheden waaronder het verhoor heeft plaatsgevonden. Dit document wordt naar de bevoegde autoriteit van het Koninkrijk der Nederlanden gezonden.
 
-#### Artikel 9. Verhoren van getuigen of deskundigen per videoconferentie
+##### Artikel 9. Verhoren van getuigen of deskundigen per videoconferentie
 
 1. Indien een persoon die zich op het grondgebied van Oekraïne bevindt als getuige of deskundige dient te worden verhoord ten behoeve van bewijsvoering voorafgaande aan of tijdens het proces, kunnen de bevoegde autoriteiten van het Koninkrijk der Nederlanden verzoeken om een verhoor per videoconferentie, in overeenstemming met dit Verdrag.
 
@@ -136,13 +158,13 @@ Op kwesties van uitlevering van personen wegens misdrijven zijn de relevante int
 
 5. Het [vijfde en zesde lid van artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006683&deel=IV&artikel=8&z=2018-08-28&g=2018-08-28) van dit Verdrag zijn van overeenkomstige toepassing.
 
-#### Artikel 10. Toegang tot een raadsman
+##### Artikel 10. Toegang tot een raadsman
 
 De partijen zorgen ervoor dat verdachten recht hebben op toegang tot een raadsman op een zodanig moment en op zodanige wijze dat zij hun rechten van verdediging in de praktijk daadwerkelijk kunnen uitoefenen. Ten behoeve hiervan heeft een verdachte die zich op het grondgebied van Oekraïne bevindt het recht vrijelijk en vertrouwelijk te communiceren met de raadsman die hem of haar vertegenwoordigt in het proces in het Koninkrijk der Nederlanden, zo nodig bijgestaan door een tolk. De Nederlandse raadsman geniet hiertoe de relevante waarborgen voorzien in het Oekraïense recht.
 
 ## DEEL V. OVERDRACHT VAN DE TENUITVOERLEGGING VAN VEROORDELINGEN
 
-#### Artikel 11. Overdracht van de tenuitvoerlegging
+##### Artikel 11. Overdracht van de tenuitvoerlegging
 
 1. De tenuitvoerlegging van een veroordeling van een persoon met de Oekraïense nationaliteit die zich op het grondgebied van Oekraïne bevindt, wordt overgedragen in overeenstemming met dit Verdrag.
 
@@ -150,7 +172,7 @@ De partijen zorgen ervoor dat verdachten recht hebben op toegang tot een raadsma
 
 3. De instemming van de veroordeelde, bedoeld in het eerste lid van dit artikel, is voor de overdracht van de tenuitvoerlegging van de veroordeling niet vereist.
 
-#### Artikel 12. Verzoeken tot overdracht van de tenuitvoerlegging
+##### Artikel 12. Verzoeken tot overdracht van de tenuitvoerlegging
 
 1. Een verzoek van de bevoegde autoriteit van het Koninkrijk der Nederlanden tot overdracht van de tenuitvoerlegging van een veroordeling dient de volgende informatie te bevatten:
 
@@ -172,11 +194,11 @@ De partijen zorgen ervoor dat verdachten recht hebben op toegang tot een raadsma
 
 3. De bevoegde autoriteit van Oekraïne geeft met voortvarendheid en overeenkomstig het nationale recht gevolg aan het verzoek. Zij stelt de bevoegde autoriteit van het Koninkrijk der Nederlanden in kennis van haar besluit.
 
-#### Artikel 13. Detentie en andere maatregelen
+##### Artikel 13. Detentie en andere maatregelen
 
 Bij het verzoek om tenuitvoerlegging van de veroordeling kan de bevoegde autoriteit van het Koninkrijk der Nederlanden de bevoegde autoriteit van Oekraïne tevens verzoeken de veroordeelde in hechtenis te nemen of enige andere maatregel te nemen om te waarborgen dat de veroordeelde op het grondgebied van Oekraïne blijft in afwachting van een beslissing over de overdracht van de tenuitvoerlegging van de veroordeling. De duur van de veroordeling wordt niet verlengd als gevolg van enigerlei periode van hechtenis die op grond van dit artikel werd ondergaan.
 
-#### Artikel 14. Vonnissen op tegenspraak en verstekvonnissen
+##### Artikel 14. Vonnissen op tegenspraak en verstekvonnissen
 
 1. Behoudens het bepaalde in het tweede lid van dit artikel wordt onder een verstekvonnis verstaan, elk vonnis dat is gewezen na een strafrechtelijke procedure waarbij de verdachte niet in persoon ter terechtzitting is verschenen.
 
@@ -204,7 +226,7 @@ Bij het verzoek om tenuitvoerlegging van de veroordeling kan de bevoegde autorit
 
 5. Een afschrift van de akte van betekening, bedoeld in het vierde lid van dit artikel, wordt onverwijld gezonden aan de autoriteit die om tenuitvoerlegging heeft verzocht.
 
-#### Artikel 15. Tenuitvoerlegging
+##### Artikel 15. Tenuitvoerlegging
 
 1. De tenuitvoerlegging van de veroordeling in Oekraïne geschiedt overeenkomstig het Oekraïense recht.
 
@@ -220,7 +242,7 @@ Bij het verzoek om tenuitvoerlegging van de veroordeling kan de bevoegde autorit
 
 7. Met de tenuitvoerlegging van de veroordeling in Oekraïne wordt de tenuitvoerlegging van de veroordeling in het Koninkrijk der Nederlanden opgeschort.
 
-#### Artikel 16. Herziening van de veroordeling en informatie over de tenuitvoerlegging
+##### Artikel 16. Herziening van de veroordeling en informatie over de tenuitvoerlegging
 
 1. De beslissing over elk verzoek tot herziening van het vonnis ligt bij de bevoegde autoriteiten van het Koninkrijk der Nederlanden.
 
@@ -236,11 +258,11 @@ Bij het verzoek om tenuitvoerlegging van de veroordeling kan de bevoegde autorit
 
 ## DEEL VI. SLOTBEPALINGEN
 
-#### Artikel 17. Talen
+##### Artikel 17. Talen
 
 Verzoeken en antwoorden alsmede ondersteunende documenten die ingevolge dit Verdrag worden gecommuniceerd, worden opgesteld of vertaald in de Oekraïense taal, tenzij de partijen anderszins overeenkomen of in dit Verdrag anderszins is bepaald.
 
-#### Artikel 18. Kosten
+##### Artikel 18. Kosten
 
 1. Oekraïne draagt de kosten die voortvloeien uit de toepassing van dit Verdrag op zijn grondgebied, met uitzondering van de volgende kosten die door het Koninkrijk der Nederlanden worden gedragen of terugbetaald:
 
@@ -254,11 +276,11 @@ Verzoeken en antwoorden alsmede ondersteunende documenten die ingevolge dit Verd
 
 2. De partijen voeren overleg met het oog op het treffen van regelingen voor het terugbetalen van kosten van buitengewone aard.
 
-#### Artikel 19. Overleg
+##### Artikel 19. Overleg
 
 In het geval van kwesties die voortvloeien uit de interpretatie of toepassing van dit Verdrag, plegen de partijen overleg via hun centrale autoriteiten of langs diplomatieke weg.
 
-#### Artikel 20. Inwerkingtreding, wijziging en beëindiging
+##### Artikel 20. Inwerkingtreding, wijziging en beëindiging
 
 1. Dit Verdrag treedt in werking op de datum van ontvangst langs diplomatieke weg van de laatste schriftelijke kennisgeving inzake de voltooiing door de partijen van hun interne procedures die vereist zijn voor de inwerkingtreding van dit Verdrag.
 
@@ -266,7 +288,7 @@ In het geval van kwesties die voortvloeien uit de interpretatie of toepassing va
 
 3. Elke partij kan dit Verdrag op enig moment beëindigen door daarvan langs diplomatieke weg kennis te geven. De beëindiging wordt van kracht zes maanden na de datum waarop deze kennisgeving wordt gedaan. Op verzoeken die voor de datum van beëindiging van dit Verdrag worden ontvangen, blijft dit Verdrag van toepassing.
 
-#### Artikel 21. Territoriale toepassing
+##### Artikel 21. Territoriale toepassing
 
 Wat het Koninkrijk der Nederlanden betreft, is dit Verdrag van toepassing op het Europese deel van Nederland.
 

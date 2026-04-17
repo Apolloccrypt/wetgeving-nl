@@ -1,13 +1,35 @@
 ---
 title: "Verdrag betreffende de werkgelegenheidspolitiek"
 identifier: "BWBV0004631"
-categorie: "Internationaal recht"
-publicatiedatum: 1968-01-09
-laatste_update: 1968-01-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004631"
+country: "nl"
+rank: "verdrag"
+publication_date: "1968-01-09"
+last_updated: "1968-01-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004631"
+soort: "verdrag"
+stam_id: "10004229603"
+version_id: "10004416032"
+internal_id: "C10008343671"
+label_id: "10004214594"
+dtd_version: "2.0"
+original_entry_into_force: "1968-01-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004631/1968-01-09/0"
+intitule_bron: "Trb.1965-11"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1965-02-05"
+intitule_in_force: "1967-03-29"
+intitule_status: "goed"
+original_publication: "Trb.1965-11"
+original_published_date: "1965-02-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1965-11"
+entry_into_force_date: "1968-01-09"
+jci_1_3: "jci1.3:c:BWBV0004631&z=1968-01-09&g=1968-01-09"
+jci_1_0: "1.0:c:BWBV0004631&g=1968-01-09"
+citeertitel_status: "redactioneel"
+entry_into_force: "1968-01-09"
 ---
-
 # Verdrag betreffende de werkgelegenheidspolitiek
 
 De Algemene Conferentie van de Internationale Arbeidsorganisatie,
@@ -30,7 +52,7 @@ Besloten hebbende aan deze voorstellen de vorm van een internationaal verdrag te
 
 Neemt heden, de 9de juli 1964, het volgende verdrag aan, dat kan worden aangehaald onder de titel „Verdrag betreffende de werkgelegenheidspolitiek, 1964”:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Teneinde de economische groei en ontwikkeling te bevorderen, de levensstandaard te verhogen, in de behoefte aan arbeidskrachten te voorzien en het vraagstuk van de werkloosheid en de onvolledige werkgelegenheid op te lossen, dient ieder Lid als voornaamste doelstelling na te streven het opstellen en uitvoeren van een actief beleid, gericht op de bevordering van volledige, produktieve en in vrijheid gekozen werkgelegenheid.
 
@@ -44,7 +66,7 @@ Neemt heden, de 9de juli 1964, het volgende verdrag aan, dat kan worden aangehaa
 
 3. Genoemd beleid dient rekening te houden met het economische ontwikkelingsstadium en -niveau, evenals met de verhoudingen tussen de doelstellingen van de arbeidsvoorziening en de andere economische en sociale doelstellingen en dient te worden uitgevoerd volgens aan de nationale omstandigheden en gebruiken aangepaste methoden.
 
-#### Artikel 2
+##### Artikel 2
 
 Elk Lid dient, volgens aan de omstandigheden van het land aangepaste methoden en voor zover deze het toelaten,
 
@@ -52,15 +74,15 @@ Elk Lid dient, volgens aan de omstandigheden van het land aangepaste methoden en
 
 - b). bepalingen vast te stellen die nodig zouden kunnen zijn voor de toepassing van deze maatregelen, daarbij eventueel inbegrepen het opstellen van programma's.
 
-#### Artikel 3
+##### Artikel 3
 
 Bij de toepassing van dit Verdrag woeden de vertegenwoordigers uit de kringen die bij de te nemen maatregelen belang hebben, en in het bijzonder de vertegenwoordigers van de werkgevers en van de werknemers, geraadpleegd met betrekking tot het werkgelegenheidsbeleid, opdat volledig rekening wordt gehouden met hun ervaring en mening, opdat zij ten volle medewerken aan het opstellen van dit beleid en opdat zij bevorderen dat aan dit beleid steun wordt verleend.
 
-#### Artikel 4
+##### Artikel 4
 
 De formele bekrachtigingen van dit Verdrag worden de Directeur-Generaal van het Internationaal Arbeidsbureau medegedeeld en door deze geregistreerd.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Dit Verdrag is slechts verbindend voor de Leden der Internationale Arbeidsorganisatie die hun bekrachtiging door de Directeur-Generaal hebben doen registreren.
 
@@ -68,27 +90,27 @@ De formele bekrachtigingen van dit Verdrag worden de Directeur-Generaal van het 
 
 3. Vervolgens treedt dit Verdrag voor ieder Lid in werking twaalf maanden na de datum waarop zijn bekrachtiging is geregistreerd.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Elk Lid dat dit Verdrag heeft bekrachtigd kan het opzeggen na verloop van een termijn van tien jaren na de datum van inwerkingtreding van dit Verdrag, door middel van een tot de Directeur-Generaal van het Internationaal Arbeidsbureau gerichte en door deze geregistreerde akte. De opzegging wordt eerst van kracht een jaar nadat zij is geregistreerd.
 
 2. Elk Lid dat dit Verdrag heeft bekrachtigd en binnen een jaar na verloop van de termijn van tien jaren als bedoeld in het vorige lid, geen gebruik maakt van de bevoegdheid tot opzegging voorzien in dit artikel, is voor een nieuwe termijn van tien jaren gebonden en kan daarna dit Verdrag opzeggen na verloop van elke termijn van tien jaren, onder de voorwaarden bedoeld in dit artikel.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De Directeur-Generaal van het Internationaal Arbeidsbureau geeft aan alle Leden der Internationale Arbeidsorganisatie kennis van de registratie van alle bekrachtigingen en opzeggingen die hem door de Leden der Organisatie zijn medegedeeld.
 
 2. Bij de kennisgeving aan de Leden der Organisatie van de registratie van de tweede hem medegedeelde bekrachtiging, vestigt de Directeur-Generaal de aandacht van de Leden der Organisatie op de datum, waarop dit Verdrag van kracht wordt.
 
-#### Artikel 8
+##### Artikel 8
 
 De Directeur-Generaal van het Internationaal Arbeidsbureau doet aan de Secretaris-Generaal van de Verenigde Naties mededeling, ter registratie overeenkomstig het bepaalde in [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102), van de volledige bijzonderheden van alle bekrachtigingen en opzeggingen, welke door hem overeenkomstig de voorgaande artikelen zijn geregistreerd.
 
-#### Artikel 9
+##### Artikel 9
 
 Telkens wanneer hij dit nodig oordeelt, brengt de Raad van Beheer van het Internationaal Arbeidsbureau aan de Algemene Conferentie verslag uit over de toepassing van dit Verdrag en onderzoekt of het wenselijk is de gehele of gedeeltelijke herziening van dit Verdrag op de agenda van de Conferentie te plaatsen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Indien de Conferentie een nieuw verdrag aanneemt, houdende gehele of gedeeltelijke herziening van het onderhavige Verdrag, zal, tenzij het nieuwe verdrag anders bepaalt:
 
@@ -98,7 +120,7 @@ Telkens wanneer hij dit nodig oordeelt, brengt de Raad van Beheer van het Intern
 
 2. Het onderhavige Verdrag blijft in elk geval naar vorm en inhoud van kracht voor de Leden die het bekrachtigd hebben en die het nieuwe verdrag, houdende herziening, niet bekrachtigen.
 
-#### Artikel 11
+##### Artikel 11
 
 De Franse en de Engelse tekst van dit Verdrag zijn gelijkelijk authentiek.
 

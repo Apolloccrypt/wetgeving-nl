@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregels ‘Meldingen in het kader van een projectvergunning’"
+title: "Besluit van de Centrale Commissie Dierproeven van 28 oktober 2016, ref CCD 16-15-09, houdende regels inzake meldingen in het kader van een projectvergunning van de Centrale Commissie Dierproeven (Besluit Meldingen in het kader van een projectvergunning van de Centrale Commissie Dierproeven CCD 2016)"
 identifier: "BWBR0039251"
-categorie: "Bestuursrecht"
-publicatiedatum: 2017-03-04
-laatste_update: 2017-03-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039251"
+country: "nl"
+rank: "zbo"
+publication_date: "2017-03-04"
+last_updated: "2017-03-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039251"
+soort: "zbo"
+stam_id: "13925843"
+version_id: "23941462"
+internal_id: "C34425201"
+label_id: "13889874"
+dtd_version: "2.0"
+original_entry_into_force: "2017-03-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039251/2017-03-04/0"
+intitule_bron: "Stcrt.2017-6138"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-10-28"
+intitule_published: "2017-03-02"
+intitule_in_force: "2017-03-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-6138"
+original_signed_date: "2016-10-28"
+original_published_date: "2017-03-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-6138"
+entry_into_force_date: "2017-03-04"
+jci_1_3: "jci1.3:c:BWBR0039251&z=2017-03-04&g=2017-03-04"
+jci_1_0: "1.0:c:BWBR0039251&g=2017-03-04"
+citeertitel_status: "officieel"
+short_title: "Beleidsregels ‘Meldingen in het kader van een projectvergunning’"
+signed_date: "2016-10-28"
+entry_into_force: "2017-03-04"
 ---
-
 # Besluit van de Centrale Commissie Dierproeven van 28 oktober 2016, ref CCD 16-15-09, houdende regels inzake meldingen in het kader van een projectvergunning van de Centrale Commissie Dierproeven (Besluit Meldingen in het kader van een projectvergunning van de Centrale Commissie Dierproeven CCD 2016)
 
 Gelet op [artikel 11:3 lid 4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=11:3);
 
 Besluit:
 
-#### Artikel 1. Definitie omschrijving
+##### Artikel 1. Definitie omschrijving
 
 In deze beleidsregels wordt verstaan onder:
 
@@ -30,7 +56,7 @@ In deze beleidsregels wordt verstaan onder:
 
 - f. **IvD:** Instantie voor dierenwelzijn. Ingesteld door de gebruiker op grond van [artikel 14a lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=14a). Belast met de beoordeling van de gevolgen van veranderingen op het dierenwelzijn.
 
-#### Artikel 2. Onderscheid melding, wijziging, nieuwe aanvraag
+##### Artikel 2. Onderscheid melding, wijziging, nieuwe aanvraag
 
 1. Onder **melding** wordt verstaan de kennisgeving aan de Centrale Commissie Dierproeven van een verandering in de voor het project verleende projectvergunning die naar het oordeel van de IvD geen gevolgen dan wel positieve gevolgen heeft voor het dierenwelzijn in de zin van [artikel 10c Wod](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10c).
 
@@ -38,7 +64,7 @@ In deze beleidsregels wordt verstaan onder:
 
 3. Van een geheel **nieuwe aanvraag** is sprake wanneer een verandering in een project een dusdanig karakter heeft dat de verandering niet aangemerkt kan worden als melding of als wijziging.
 
-#### Artikel 3. De melding
+##### Artikel 3. De melding
 
 1. De vergunninghouder die voornemens is een verandering aan te brengen in het project waarvoor de Centrale Commissie Dierproeven aan hem een projectvergunning heeft verleend waarop de Wod van toepassing is, doet daarvan dan wel vóór aanvang van de verandering dan wel achteraf, op het tijdstip als omschreven in [artikel 4 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039251&artikel=4&z=2017-03-04&g=2017-03-04) melding aan de Centrale Commissie Dierproeven.
 
@@ -64,7 +90,7 @@ In deze beleidsregels wordt verstaan onder:
 
 5. Voor het oordeel van de IvD en onderbouwing van de verandering in het project mag gebruik worden gemaakt van bijlagen.
 
-#### Artikel 4. Moment van melden
+##### Artikel 4. Moment van melden
 
 1. De melding als omschreven in [artikel 2 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039251&artikel=2&z=2017-03-04&g=2017-03-04) kan achteraf worden gedaan. Daarvoor gelden de volgende voorwaarden:
 
@@ -76,7 +102,7 @@ In deze beleidsregels wordt verstaan onder:
 
 2. Als naar mening van de Centrale Commissie Dierproeven de in lid 1 sub a genoemde voorwaarden worden geschonden, of in geval van andere misstanden, kan de Centrale Commissie Dierproeven besluiten dat de melding als omschreven in [artikel 2 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039251&artikel=2&z=2017-03-04&g=2017-03-04) van deze beleidsregels voortaan vóóraf moet worden gedaan.
 
-#### Artikel 5. Behandeling van de melding
+##### Artikel 5. Behandeling van de melding
 
 1. Na de bevestiging van ontvangst van de melding gaat de Centrale Commissie Dierproeven na of de binnengekomen melding volledig is. Daarbij let ze op de punten beschreven in [artikel 3 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039251&artikel=3&z=2017-03-04&g=2017-03-04) van deze beleidsregels.
 
@@ -84,13 +110,13 @@ In deze beleidsregels wordt verstaan onder:
 
 3. De melding maakt onderdeel uit van het dossier van de projectvergunning.
 
-#### Artikel 6. Handelswijze in bijzondere situaties
+##### Artikel 6. Handelswijze in bijzondere situaties
 
 1. De Centrale Commissie Dierproeven onderscheidt een aantal situaties in welke aanpassing van de projectvergunning noodzakelijk is. In de [artikelen 7a tot en met 7i](https://wetten.overheid.nl/jci1.3:c:BWBR0039251&artikel=7&z=2017-03-04&g=2017-03-04) van deze beleidsregels worden die situaties beschreven.
 
 2. In de [artikelen 7a tot en met 7i](https://wetten.overheid.nl/jci1.3:c:BWBR0039251&artikel=7&z=2017-03-04&g=2017-03-04) van deze beleidsregel wordt tevens per geval aangegeven of de vergunninghouder kan volstaan met het doen van een melding of dat sprake is van een wijziging dan wel een geheel nieuwe aanvraag.
 
-#### Artikel 7
+##### Artikel 7
 
 - a. Spoedeisende bijstelling experiment
 
@@ -224,15 +250,15 @@ In deze beleidsregels wordt verstaan onder:
 
 - 3. Indien aan bovenstaande voorwaarden wordt voldaan, kan worden volstaan met een melding. Indien niet aan bovenstaande voorwaarden kan worden voldaan, dient de instellingsvergunninghouder een separate projectvergunning aan te vragen voor de desbetreffende doelstellingen
 
-#### Artikel 8
+##### Artikel 8
 
 Deze beleidsregels bevat het CCD-beleid inzake meldingen op bestaande projectvergunningen. De CCD behoudt zich uitdrukkelijk de mogelijkheid voor daarin wijzigingen aan te brengen. Toepassing van deze beleidsregels en voortschrijdend inzicht zullen zo nodig tot aanpassing of herziening ervan leiden.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze beleidsregels treden in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt gepubliceerd
 
-#### Artikel 10
+##### Artikel 10
 
 Deze bekendmaking wordt aangehaald als: Beleidsregels ‘Meldingen in het kader van een projectvergunning’
 

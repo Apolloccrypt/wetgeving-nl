@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregel subsidiëring regionale zorgnetwerken AMR 2024–2027"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 7 juli 2023, kenmerk 3628006-1050435-CZ, houdende subsidiëring van regionale zorgnetwerken voor het verrichten van activiteiten op het gebied van antimicrobiële resistentie 2024-2027 (Beleidsregel subsidiëring regionale zorgnetwerken antimicrobiële resistentie)"
 identifier: "BWBR0048402"
-categorie: "Sociaal recht"
-publicatiedatum: 2023-07-18
-laatste_update: 2023-07-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048402"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2023-07-18"
+last_updated: "2023-07-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048402"
+soort: "beleidsregel"
+stam_id: "16804613"
+version_id: "29522672"
+internal_id: "C42208281"
+label_id: "16718204"
+dtd_version: "2.0"
+original_entry_into_force: "2023-07-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048402/2023-07-18/0"
+intitule_bron: "Stcrt.2023-19892"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-07-07"
+intitule_published: "2023-07-17"
+intitule_in_force: "2023-07-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-19892"
+original_signed_date: "2023-07-07"
+original_published_date: "2023-07-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-19892"
+entry_into_force_date: "2023-07-18"
+jci_1_3: "jci1.3:c:BWBR0048402&z=2023-07-18&g=2023-07-18"
+jci_1_0: "1.0:c:BWBR0048402&g=2023-07-18"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel subsidiëring regionale zorgnetwerken AMR 2024–2027"
+signed_date: "2023-07-07"
+entry_into_force: "2023-07-18"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 7 juli 2023, kenmerk 3628006-1050435-CZ, houdende subsidiëring van regionale zorgnetwerken voor het verrichten van activiteiten op het gebied van antimicrobiële resistentie 2024-2027 (Beleidsregel subsidiëring regionale zorgnetwerken antimicrobiële resistentie)
 
 Gelet op [artikel 1.3 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3);
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -42,13 +68,13 @@ In deze beleidsregel wordt verstaan onder:
 
 - **zorgverlener:** een natuurlijke persoon die beroepsmatig zorg verleent.
 
-#### Artikel 2. Subsidiabele activiteiten
+##### Artikel 2. Subsidiabele activiteiten
 
 1. De minister kan subsidie verstrekken aan de penvoerder van een regionaal zorgnetwerk AMR voor de periode van 1 januari 2024 tot 1 januari 2028, voor het verrichten van activiteiten met betrekking tot het voorkomen en bestrijden van AMR en het bevorderen van infectiepreventie in Nederland.
 
 2. De subsidie is een subsidie als bedoeld in [artikel 1.5, onder d, van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.5).
 
-#### Artikel 3. Activiteiten regionale zorgnetwerken AMR
+##### Artikel 3. Activiteiten regionale zorgnetwerken AMR
 
 1. De activiteiten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048402&artikel=2&z=2023-07-18&g=2023-07-18), bestaan uit:
 
@@ -96,7 +122,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - b. taken op het gebied van bestrijding van uitbraken en reguliere taken van zorginstellingen.
 
-#### Artikel 4. Subsidiebedrag
+##### Artikel 4. Subsidiebedrag
 
 1. De subsidie voor de activiteiten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048402&artikel=3&z=2023-07-18&g=2023-07-18), bedraagt maximaal € 3.440.000 per regionaal zorgnetwerk gedurende de gehele subsidieperiode, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048402&artikel=2&z=2023-07-18&g=2023-07-18).
 
@@ -104,7 +130,7 @@ In deze beleidsregel wordt verstaan onder:
 
 3. Van het totale subsidiebedrag, bedoeld in het tweede lid, mag maximaal € 180.000 per regionaal zorgnetwerk besteed worden aan werkplekbeheer inclusief ICT-kosten, huisvesting, reiskosten, en andere overhead kosten die niet direct bijdragen aan de activiteiten, als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048402&artikel=3&z=2023-07-18&g=2023-07-18).
 
-#### Artikel 5. Subsidievoorwaarden
+##### Artikel 5. Subsidievoorwaarden
 
 1. Uitsluitend de penvoerderskomen voor subsidie in aanmerking ten behoeve van de regionale zorgnetwerken AMR.
 
@@ -128,7 +154,7 @@ In deze beleidsregel wordt verstaan onder:
 
 7. Een regionaal zorgnetwerk AMR stelt producten, zoals ontwikkelde formats, software, scholingsmateriaal, die met de subsidie zijn ontwikkeld en resultaten van de activiteiten kosteloos beschikbaar aan eenieder en publiceert deze op de website van het regionale zorgnetwerk AMR.
 
-#### Artikel 6. Aanvraag tot subsidieverlening
+##### Artikel 6. Aanvraag tot subsidieverlening
 
 1. Een aanvraag tot verlening van een subsidie wordt ontvangen in de periode van 1 september 2023 tot en met 1 oktober 2023.
 
@@ -136,7 +162,7 @@ In deze beleidsregel wordt verstaan onder:
 
 3. In aanvulling op [artikel 3.3 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.3) gaat de aanvraag tot verlening vergezeld van een ondertekende overeenkomst voor het vestigen van een dienst van algemeen economisch belang als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048402&artikel=3&z=2023-07-18&g=2023-07-18).
 
-#### Artikel 7. Subsidieverplichtingen
+##### Artikel 7. Subsidieverplichtingen
 
 1. Een penvoerder:
 
@@ -156,21 +182,21 @@ In deze beleidsregel wordt verstaan onder:
 
 3. De penvoerder van een regionaal zorgnetwerk AMR maakt afspraken met de minister met betrekking tot het uitbrengen van tussentijds inhoudelijk en financieel verslag en gaat daarbij in op onder andere de voortgang van de activiteiten zoals beschreven in het activiteitenplan en de resultaten hiervan. De voortgangsrapportage dient dezelfde opbouw te hebben als de ingediende subsidieaanvraag.
 
-#### Artikel 8. Besluit tot subsidieverlening, bevoorschotting en betaling
+##### Artikel 8. Besluit tot subsidieverlening, bevoorschotting en betaling
 
 De minister verleent bij het besluit tot subsidieverlening gelijkmatig voorschotten over het aantal maanden dat de subsidie wordt verleend van het bedrag van de verleende subsidie voor activiteiten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048402&artikel=3&z=2023-07-18&g=2023-07-18).
 
-#### Artikel 9. Aanvraag tot vaststelling
+##### Artikel 9. Aanvraag tot vaststelling
 
 Voor de aanvraag tot vaststelling van de subsidie wordt een door de minister vastgesteld formulier gebruikt.
 
-#### Artikel 10. Inwerkingtreding en vervaldatum
+##### Artikel 10. Inwerkingtreding en vervaldatum
 
 1. Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin hij wordt geplaatst.
 
 2. Deze beleidsregel vervalt met ingang van 1 januari 2028.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel subsidiëring regionale zorgnetwerken AMR 2024–2027.
 

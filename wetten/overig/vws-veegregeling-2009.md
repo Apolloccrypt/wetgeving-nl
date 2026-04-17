@@ -1,26 +1,52 @@
 ---
-title: "VWS veegregeling 2009"
+title: "Besluit van de minister van Volksgezondheid, Welzijn en Sport van 26 januari 2009, nr. DWJZ/SWW-2907432, houdende enkele kleine wijzigingen van regelingen op het terrein van VWS, alsmede intrekking van diverse regelingen op dat terrein die hun betekenis hebben verloren (VWS veegregeling 2009)"
 identifier: "BWBR0025267"
-categorie: "Overig"
-publicatiedatum: 2009-02-06
-laatste_update: 2009-02-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0025267"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2009-02-06"
+last_updated: "2009-02-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0025267"
+soort: "ministeriele-regeling"
+stam_id: "9897003"
+version_id: "16127882"
+internal_id: "C22126971"
+label_id: "9873424"
+dtd_version: "2.0"
+original_entry_into_force: "2009-02-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0025267/2009-02-06/0"
+intitule_bron: "Stcrt.2009-23"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-01-26"
+intitule_published: "2009-02-04"
+intitule_in_force: "2009-02-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-23"
+original_signed_date: "2009-01-26"
+original_published_date: "2009-02-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-1721"
+entry_into_force_date: "2009-02-06"
+jci_1_3: "jci1.3:c:BWBR0025267&z=2009-02-06&g=2009-02-06"
+jci_1_0: "1.0:c:BWBR0025267&g=2009-02-06"
+citeertitel_status: "officieel"
+short_title: "VWS veegregeling 2009"
+signed_date: "2009-01-26"
+entry_into_force: "2009-02-06"
 ---
-
 # Besluit van de minister van Volksgezondheid, Welzijn en Sport van 26 januari 2009, nr. DWJZ/SWW-2907432, houdende enkele kleine wijzigingen van regelingen op het terrein van VWS, alsmede intrekking van diverse regelingen op dat terrein die hun betekenis hebben verloren (VWS veegregeling 2009)
 
 Besluit:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Regeling stamceltransplantatie.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Regeling transplantatie eilandjes van Langerhans.
 
-#### Artikel III
+##### Artikel III
 
 De volgende regelingen worden ingetrokken:
 
@@ -72,15 +98,15 @@ De volgende regelingen worden ingetrokken:
 
 - x. [Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 29 mei 2006, nr. MEVA/ICT-2687159, houdende een tijdelijke voorziening voor het gebruik van het sociaal-fiscaalnummer ten behoeve van experimenten met het gebruik van informatietechnologie in de zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0019909) (Stcrt. 2006, 106);
 
-#### Artikel IV
+##### Artikel IV
 
 Aanspraken of verplichtingen die voortvloeien uit een van de regelingen, genoemd in [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0025267&artikel=III&z=2009-02-06&g=2009-02-06), blijven in stand.
 
-#### Artikel V
+##### Artikel V
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel VI
+##### Artikel VI
 
 Deze regeling wordt aangehaald als: VWS veegregeling 2009.
 

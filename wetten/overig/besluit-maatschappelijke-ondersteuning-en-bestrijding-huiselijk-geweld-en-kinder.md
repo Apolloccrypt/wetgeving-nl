@@ -1,13 +1,39 @@
 ---
-title: "Besluit maatschappelijke ondersteuning en bestrijding huiselijk geweld en kindermishandeling BES"
+title: "Besluit van 9 november 2024, houdende regels over maatschappelijke ondersteuning en de bestrijding van huiselijk geweld en kindermishandeling op Bonaire, Sint Eustatius en Saba (Besluit maatschappelijke ondersteuning en bestrijding huiselijk geweld en kindermishandeling BES)"
 identifier: "BWBR0050401"
-categorie: "Overig"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050401"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050401"
+soort: "AMvB-BES"
+stam_id: "17266763"
+version_id: "30412002"
+internal_id: "C43614951"
+label_id: "17172774"
+dtd_version: "2.0"
+original_entry_into_force: "2024-11-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050401/2025-01-01/0"
+intitule_bron: "Stb.2024-342"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-11-09"
+intitule_published: "2024-11-13"
+intitule_in_force: "2024-11-13"
+intitule_status: "goed"
+original_publication: "Stb.2024-342"
+original_signed_date: "2024-11-09"
+original_published_date: "2024-11-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2024-342"
+entry_into_force_date: "2024-11-14"
+jci_1_3: "jci1.3:c:BWBR0050401&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0050401&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit maatschappelijke ondersteuning en bestrijding huiselijk geweld en kindermishandeling BES"
+signed_date: "2024-11-09"
+entry_into_force: "2024-11-14"
 ---
-
 # Besluit van 9 november 2024, houdende regels over maatschappelijke ondersteuning en de bestrijding van huiselijk geweld en kindermishandeling op Bonaire, Sint Eustatius en Saba (Besluit maatschappelijke ondersteuning en bestrijding huiselijk geweld en kindermishandeling BES)
 
 ### Hoofdstuk 1. Begripsbepalingen en algemene bepalingen
@@ -22,7 +48,7 @@ bron: "https://wetten.overheid.nl/BWBR0050401"
 
 ### Hoofdstuk 2. Maatschappelijke ondersteuning
 
-#### Artikel 6.1
+##### Artikel 6.1
 
 1. Indien een cliënt onmiddellijk voorafgaand aan het tijdstip waarop [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=2&z=2025-01-01&g=2025-01-01) in werking treedt een maatwerkvoorziening ontvangt, behoudt deze cliënt een maatwerkvoorziening tot de eerste dag van het tweede kalenderjaar na dat tijdstip, tenzij deze cliënt niet meer op een maatwerkvoorziening is aangewezen of eerder een besluit als bedoeld in [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=2&paragraaf=2.2&artikel=2.8&z=2025-01-01&g=2025-01-01) of [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=2&paragraaf=2.2&artikel=2.9&z=2025-01-01&g=2025-01-01) wordt genomen.
 
@@ -36,23 +62,23 @@ bron: "https://wetten.overheid.nl/BWBR0050401"
 
 3. Het bestuurscollege voert, met overeenkomstige toepassing van [artikel 2.6, tweede tot en met het vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=2&paragraaf=2.2&artikel=2.6&z=2025-01-01&g=2025-01-01), zonder melding als bedoeld in artikel 2.6, eerste lid, het in dat artikel bedoelde onderzoek uit op een zodanig tijdstip dat de cliënt bij Onze Minister een aanvraag als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=2&paragraaf=2.2&artikel=2.7&z=2025-01-01&g=2025-01-01) kan doen of het bestuurscollege een besluit als bedoeld in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=2&paragraaf=2.2&artikel=2.9&z=2025-01-01&g=2025-01-01) kan nemen.
 
-#### Artikel 6.2
+##### Artikel 6.2
 
 In afwijking van [artikel 2.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=2&paragraaf=2.6&artikel=2.23&z=2025-01-01&g=2025-01-01), zijn de op grond van dat lid bij regeling aangewezen aanbieders van maatschappelijke ondersteuning voor beroepskrachten en andere personen die beroepsmatig met diens cliënten in contact kunnen komen en op het tijdstip van inwerkingtreding van dat lid voor hem werkzaam zijn uiterlijk binnen een bij regeling van Onze Minister vast te stellen termijn na dat tijdstip in het bezit van een verklaring omtrent het gedrag die niet eerder dan drie maanden voor het verstrijken van de vastgestelde termijn is afgegeven. De termijn kan voor verschillende groepen beroepskrachten verschillend worden vastgesteld.
 
-#### Artikel 6.3
+##### Artikel 6.3
 
 Onze Minister zendt binnen vijf jaar na de inwerkingtreding van dit besluit aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van dit besluit in de praktijk.
 
-#### Artikel 6.4
+##### Artikel 6.4
 
 Wijzigt het Besluit zorgverzekering BES.
 
-#### Artikel 6.5
+##### Artikel 6.5
 
 Dit besluit treedt in werking met ingang van 1 januari 2025, met uitzondering van de [artikelen 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=4&paragraaf=4.2&artikel=4.9&z=2025-01-01&g=2025-01-01) en [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=6&artikel=6.4&z=2025-01-01&g=2025-01-01). Artikel 4.9 treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Artikel 6.4 treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 juli 2022.
 
-#### Artikel 6.6
+##### Artikel 6.6
 
 Dit besluit wordt aangehaald als: Besluit maatschappelijke ondersteuning en bestrijding huiselijk geweld en kindermishandeling BES.
 
@@ -70,7 +96,7 @@ Hebben goedgevonden en verstaan:
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 1.1
+##### Artikel 1.1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -156,7 +182,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - **zorgaanbieder:** de zorgaanbieder, bedoeld in [artikel 1, onderdeel f, van het Besluit zorgverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&artikel=1).
 
-#### Artikel 1.2
+##### Artikel 1.2
 
 1. Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt:
 
@@ -182,7 +208,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. kunnen regels worden gesteld over het blijk geven zorg te dragen voor een ander als bedoeld in het tweede lid.
 
-#### Artikel 1.3
+##### Artikel 1.3
 
 1. Een ingezetene komt overeenkomstig de bepalingen van dit besluit in aanmerking voor een voorziening.
 
@@ -200,11 +226,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Paragraaf 2.1. Algemene maatregelen en algemene voorzieningen
 
-#### Artikel 2.1
+##### Artikel 2.1
 
 Het bestuurscollege draagt zorg voor algemene maatregelen ter bevordering van de sociale samenhang, mantelzorg en vrijwilligerswerk, de toegankelijkheid van voorzieningen, diensten en ruimten voor mensen met een beperking, de veiligheid en leefbaarheid, alsmede het voorkomen en bestrijden van huiselijk geweld.
 
-#### Artikel 2.2
+##### Artikel 2.2
 
 1. Het bestuurscollege draagt zorg voor de beschikbaarheid, kwaliteit en continuïteit van de algemene voorzieningen.
 
@@ -218,25 +244,25 @@ Het bestuurscollege draagt zorg voor algemene maatregelen ter bevordering van de
 
 4. De inhoud en omvang van de algemene voorzieningen kan per openbaar lichaam verschillen.
 
-#### Artikel 2.3
+##### Artikel 2.3
 
 Bij regeling van Onze Minister kunnen nadere regels worden gesteld over de inhoud en de omvang van algemene voorzieningen, waarbij onderscheid kan worden gemaakt tussen de openbare lichamen.
 
 #### Paragraaf 2.2. Maatwerkvoorzieningen
 
-#### Artikel 2.4
+##### Artikel 2.4
 
 1. Onze Minister draagt zorg voor de beschikbaarheid, kwaliteit en continuïteit van de maatwerkvoorzieningen, met uitzondering van opvang.
 
 2. Het bestuurscollege draagt zorg voor de beschikbaarheid, kwaliteit en continuïteit van opvang.
 
-#### Artikel 2.5
+##### Artikel 2.5
 
 1. Bij regeling van Onze Minister kunnen nadere regels worden gesteld over de inhoud en de omvang van een maatwerkvoorziening waarbij onderscheid kan worden gemaakt tussen de openbare lichamen.
 
 2. Bij regeling van Onze Minister kan worden bepaald dat een cliënt een bijdrage in de kosten van de maatwerkvoorziening betaalt en kunnen regels worden gesteld over de hoogte van de bijdrage.Deze regels kunnen betrekking hebben op de wijze waarop het inkomen bij de vaststelling van de hoogte van de bijdrage worden betrokken.
 
-#### Artikel 2.6
+##### Artikel 2.6
 
 1. Indien bij het bestuurscollege melding wordt gedaan van een behoefte aan maatschappelijke ondersteuning, voert het bestuurscollege in samenspraak met de cliënt en waar mogelijk met diens mantelzorger of vertegenwoordiger uiterlijk binnen zes weken een onderzoek uit. Het bestuurscollege bevestigt de ontvangst van de melding.
 
@@ -260,7 +286,7 @@ Bij regeling van Onze Minister kunnen nadere regels worden gesteld over de inhou
 
 4. Het bestuurscollege bespreekt de uitkomsten van het onderzoek met de cliënt of diens vertegenwoordiger en verstrekt indien gewenst een schriftelijke weergave van de uitkomsten van het onderzoek aan de cliënt.
 
-#### Artikel 2.7
+##### Artikel 2.7
 
 1. Een cliënt kan bij Onze Minister een aanvraag indienen voor een maatwerkvoorziening, niet zijnde opvang.
 
@@ -272,7 +298,7 @@ Bij regeling van Onze Minister kunnen nadere regels worden gesteld over de inhou
 
 5. Onze Minister overlegt met het bestuurscollege indien dat nodig is om tot een besluit te kunnen komen.
 
-#### Artikel 2.8
+##### Artikel 2.8
 
 1. Onze Minister besluit over verstrekking van een maatwerkvoorziening, met uitzondering van opvang, voor zover de cliënt in verband met een beperking, chronische psychische of psychosociale problemen niet op eigen kracht, met een algemeen gebruikelijke voorziening, met gebruikelijke hulp, met mantelzorg, met hulp van andere personen uit diens sociale netwerk of met gebruikmaking van algemene voorzieningen voldoende zelfredzaam is, voldoende in staat is tot participatie of in staat is om zich te handhaven in de samenleving.
 
@@ -312,7 +338,7 @@ Bij regeling van Onze Minister kunnen nadere regels worden gesteld over de inhou
 
 5. Onze Minister besluit binnen twee weken na ontvangst van de aanvraag.
 
-#### Artikel 2.9
+##### Artikel 2.9
 
 1. Het bestuurscollege tot welke de cliënt zich wendt, besluit tot verstrekking van opvang, voor zover de cliënt niet in staat is om zich met gebruikmaking van algemene voorzieningen te handhaven in de samenleving.
 
@@ -324,7 +350,7 @@ Bij regeling van Onze Minister kunnen nadere regels worden gesteld over de inhou
 
 5. Het bestuurscollege besluit binnen twee weken nadat het onderzoek, bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=2&paragraaf=2.2&artikel=2.6&z=2025-01-01&g=2025-01-01), is uitgevoerd of de termijn voor het uitvoeren van dit onderzoek is verstreken.
 
-#### Artikel 2.10
+##### Artikel 2.10
 
 In spoedeisende gevallen:
 
@@ -332,17 +358,17 @@ In spoedeisende gevallen:
 
 - b. besluit het bestuurscollege na een melding als bedoeld in [artikel 2.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=2&paragraaf=2.2&artikel=2.6&z=2025-01-01&g=2025-01-01), ambtshalve zo spoedig mogelijk tot verstrekking van tijdelijke opvang in afwachting van de uitkomst van het onderzoek.
 
-#### Artikel 2.11
+##### Artikel 2.11
 
 1. Bij het onderzoek, bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=2&paragraaf=2.2&artikel=2.6&z=2025-01-01&g=2025-01-01), stelt het bestuurscollege de identiteit van de cliënt vast aan de hand van een document als bedoeld in [artikel 2 van de Wet identificatieplicht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028575&artikel=2).
 
 2. De cliënt die een maatwerkvoorziening wenst te ontvangen, verstrekt Onze Minister of het bestuurscollege desgevraagd terstond een document als bedoeld in [artikel 2 van de Wet identificatieplicht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028575&artikel=2) ter inzage.
 
-#### Artikel 2.12
+##### Artikel 2.12
 
 Bij regeling van Onze Minister kunnen regels worden gesteld over het verstrekken van een tegemoetkoming aan personen met een beperking of chronische psychische of psychosociale problemen die daarmee verband houdende aannemelijke meerkosten hebben, ter ondersteuning van de zelfredzaamheid en de participatie.
 
-#### Artikel 2.13
+##### Artikel 2.13
 
 1. Onze Minister of het bestuurscollege kan voorwaarden of verplichtingen verbinden aan een besluit als bedoeld in [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=2&paragraaf=2.2&artikel=2.8&z=2025-01-01&g=2025-01-01), [2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=2&paragraaf=2.2&artikel=2.9&z=2025-01-01&g=2025-01-01) of [2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=2&paragraaf=2.3&artikel=2.14&z=2025-01-01&g=2025-01-01).
 
@@ -352,7 +378,7 @@ Bij regeling van Onze Minister kunnen regels worden gesteld over het verstrekken
 
 #### Paragraaf 2.3. Wijziging beschikking
 
-#### Artikel 2.14
+##### Artikel 2.14
 
 1. Een cliënt doet aan Onze Minister of het bestuurscollege mededeling van alle feiten en omstandigheden waarvan hem redelijkerwijs duidelijk moet zijn dat zij aanleiding kunnen zijn tot heroverweging van een besluit als bedoeld in [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=2&paragraaf=2.2&artikel=2.8&z=2025-01-01&g=2025-01-01) of [2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=2&paragraaf=2.2&artikel=2.9&z=2025-01-01&g=2025-01-01).
 
@@ -360,7 +386,7 @@ Bij regeling van Onze Minister kunnen regels worden gesteld over het verstrekken
 
 3. De cliënt is verplicht aan Onze Minister of het bestuurscollege desgevraagd de medewerking te verlenen die redelijkerwijs nodig is voor de uitvoering van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=2&z=2025-01-01&g=2025-01-01) en [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=4&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 2.15
+##### Artikel 2.15
 
 1. Het bestuurscollege onderzoekt periodiek of er aanleiding is een besluit als bedoeld in [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=2&paragraaf=2.2&artikel=2.8&z=2025-01-01&g=2025-01-01) of [2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=2&paragraaf=2.2&artikel=2.9&z=2025-01-01&g=2025-01-01) te heroverwegen.
 
@@ -368,7 +394,7 @@ Bij regeling van Onze Minister kunnen regels worden gesteld over het verstrekken
 
 3. [Artikel 2.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=2&paragraaf=2.2&artikel=2.6&z=2025-01-01&g=2025-01-01) en [artikel 2.8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=2&paragraaf=2.2&artikel=2.8&z=2025-01-01&g=2025-01-01), zijn van overeenkomstige toepassing.
 
-#### Artikel 2.16
+##### Artikel 2.16
 
 1. Onze Minister of het bestuurscollege kan een besluit ambtshalve of naar aanleiding van de uitkomsten van het periodiek onderzoek wijzigen of intrekken, indien deze vaststelt dat:
 
@@ -388,7 +414,7 @@ Bij regeling van Onze Minister kunnen regels worden gesteld over het verstrekken
 
 #### Paragraaf 2.4. Verhaal van kosten
 
-#### Artikel 2.17
+##### Artikel 2.17
 
 1. Indien Onze Minister of het bestuurscollege een besluit met toepassing van [artikel 2.16, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=2&paragraaf=2.3&artikel=2.16&z=2025-01-01&g=2025-01-01), heeft herzien of ingetrokken en de verstrekking van de onjuiste of onvolledige gegevens door de cliënt opzettelijk heeft plaatsgevonden, kan Onze Minister respectievelijk het bestuurscollege van de cliënt en van degene die daaraan opzettelijk zijn medewerking heeft verleend, geheel of gedeeltelijk de geldswaarde vorderen van de ten onrechte genoten maatwerkvoorziening.
 
@@ -398,11 +424,11 @@ Bij regeling van Onze Minister kunnen regels worden gesteld over het verstrekken
 
 4. [Titel 4.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.4) is van overeenkomstige toepassing.
 
-#### Artikel 2.18
+##### Artikel 2.18
 
 Roerende zaken die aan de cliënt zijn verstrekt als onderdeel van een maatwerkvoorziening, zijn niet vatbaar voor vervreemding, verpanding, belening of beslag gedurende de periode waarvoor een beslissing als bedoeld in [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=2&paragraaf=2.2&artikel=2.8&z=2025-01-01&g=2025-01-01), [2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=2&paragraaf=2.2&artikel=2.9&z=2025-01-01&g=2025-01-01) of [2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=2&paragraaf=2.3&artikel=2.16&z=2025-01-01&g=2025-01-01) geldt.
 
-#### Artikel 2.19
+##### Artikel 2.19
 
 1. Bij de vaststelling van de schadevergoeding, waarop de cliënt naar burgerlijk recht aanspraak kan maken ter zake van een feit, dat aanleiding geeft tot het verstrekken van een maatwerkvoorziening houdt de rechter rekening met de aanspraken, die de cliënt krachtens dit besluit heeft.
 
@@ -420,7 +446,7 @@ Roerende zaken die aan de cliënt zijn verstrekt als onderdeel van een maatwerkv
 
 #### Paragraaf 2.5. Evaluatie van beleid
 
-#### Artikel 2.20
+##### Artikel 2.20
 
 1. Het bestuurscollege onderzoekt tweejaarlijks hoe de cliënten het aanbod en de kwaliteit van algemene voorzieningen en opvang ervaren.
 
@@ -430,7 +456,7 @@ Roerende zaken die aan de cliënt zijn verstrekt als onderdeel van een maatwerkv
 
 4. Bij regeling van Onze Minister kunnen regels gesteld worden over de inrichting van het onderzoek, bedoeld in het eerste en derde lid.
 
-#### Artikel 2.21
+##### Artikel 2.21
 
 1. Het bestuurscollege verstrekt desgevraagd kosteloos aan Onze Minister de gegevens die Onze Minister nodig heeft om de werking van dit besluit met betrekking tot maatschappelijke ondersteuning te kunnen beoordelen.
 
@@ -438,7 +464,7 @@ Roerende zaken die aan de cliënt zijn verstrekt als onderdeel van een maatwerkv
 
 #### Paragraaf 2.6. Kwaliteit
 
-#### Artikel 2.22
+##### Artikel 2.22
 
 1. Een aanbieder van maatschappelijke ondersteuning draagt er zorg voor dat een voorziening van goede kwaliteit is.
 
@@ -462,7 +488,7 @@ Roerende zaken die aan de cliënt zijn verstrekt als onderdeel van een maatwerkv
 
 7. Bij regeling van Onze Minister kunnen regels worden gesteld over welke aanbieders van maatschappelijke ondersteuning jaarlijks een verslag openbaar maken over het beleid dat in het afgelopen jaar is gevoerd met betrekking tot de kwaliteit van de voorzieningen en kunnen regels worden gesteld over de inhoud van dit verslag. Een afschrift van het verslag wordt verzonden aan de minister of het bestuurscollege.
 
-#### Artikel 2.23
+##### Artikel 2.23
 
 1. Bij regeling van Onze Minister kunnen regels worden gesteld over welke aanbieders van maatschappelijke ondersteuning, niet zijnde aanbieders die alleen hulpmiddelen of woningaanpassingen leveren, beschikken over een verklaring omtrent het gedrag als bedoeld in [artikel 15, derde lid, van de Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028258&artikel=15), voor beroepskrachten en andere personen die beroepsmatig met diens cliënten in contact kunnen komen, welke niet eerder is afgegeven dan drie maanden voor het tijdstip waarop betrokkene voor deze aanbieder ging werken.
 
@@ -476,11 +502,11 @@ Roerende zaken die aan de cliënt zijn verstrekt als onderdeel van een maatwerkv
 
 #### Paragraaf 3.1. Advies- en meldpunt huiselijk geweld en kindermishandeling
 
-#### Artikel 3.1
+##### Artikel 3.1
 
 Het bestuurscollege draagt zorg voor de inrichting van een AMHK.
 
-#### Artikel 3.2
+##### Artikel 3.2
 
 1. Het AMHK verstrekt desgevraagd advies aan degene die een vermoeden van huiselijk geweld of kindermishandeling heeft, over de stappen die in verband daarmee kunnen worden ondernomen en verleent daarbij zo nodig ondersteuning.
 
@@ -498,7 +524,7 @@ Het bestuurscollege draagt zorg voor de inrichting van een AMHK.
 
 3. Het bestuurscollege bevordert een goede samenwerking tussen het AMHK, de hulpverlenende instanties, de politie, de (gezins)voogdij-instelling en de voogdijraad.
 
-#### Artikel 3.3
+##### Artikel 3.3
 
 1. Het bestuurscollege draagt er zorg voor dat het AMHK herkenbaar en toegankelijk is en dat het kosteloos telefonisch bereikbaar is.
 
@@ -508,7 +534,7 @@ Het bestuurscollege draagt zorg voor de inrichting van een AMHK.
 
 - b. uitvoering wordt gegeven aan [artikel 3.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=3&paragraaf=3.1&artikel=3.5&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 3.4
+##### Artikel 3.4
 
 1. Het AMHK draagt er zorg voor dat de uitvoering van zijn taken van goede kwaliteit is.
 
@@ -516,13 +542,13 @@ Het bestuurscollege draagt zorg voor de inrichting van een AMHK.
 
 3. Het AMHK neemt bij zijn werkzaamheden de zorg van een goede professional in acht en handelt daarbij in overeenstemming met de op hem rustende verantwoordelijkheid, voortvloeiende uit de voor die professional geldende professionele standaard.
 
-#### Artikel 3.5
+##### Artikel 3.5
 
 1. Het bestuurscollege draagt er zorg voor dat voor het AMHK voldoende deskundigheid beschikbaar is op het gebied van huiselijk geweld en kindermishandeling.
 
 2. Het AMHK draagt er zorg voor dat de taken worden uitgevoerd door of onder verantwoordelijkheid van een professional die minimaal hbo werk- en denkniveau heeft.
 
-#### Artikel 3.6
+##### Artikel 3.6
 
 1. Het AMHK is in het bezit van een verklaring omtrent het gedrag als bedoeld in [artikel 15, derde lid, van de Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028258&artikel=15) van personen die taken van het AMHK uitvoeren.
 
@@ -532,7 +558,7 @@ Het bestuurscollege draagt zorg voor de inrichting van een AMHK.
 
 #### Paragraaf 3.2. Verplichte beschermingscode huiselijk geweld en kindermishandeling
 
-#### Artikel 3.7
+##### Artikel 3.7
 
 1. De volgende partijen stellen een beschermingscode huiselijk geweld en kindermishandeling vast voor hun medewerkers, waarin stapsgewijs wordt aangegeven hoe met signalen van huiselijk geweld of kindermishandeling wordt omgegaan en die er redelijkerwijs aan bijdraagt dat zo snel en adequaat mogelijk hulp kan worden geboden:
 
@@ -562,7 +588,7 @@ Het bestuurscollege draagt zorg voor de inrichting van een AMHK.
 
 3. De in dit artikel genoemde partijen bevorderen de kennis en het gebruik van de beschermingscode.
 
-#### Artikel 3.8
+##### Artikel 3.8
 
 1. Een beschermingscode bevat ten minste de volgende elementen:
 
@@ -596,7 +622,7 @@ Het bestuurscollege draagt zorg voor de inrichting van een AMHK.
 
 #### Paragraaf 4.1. Verwerking van persoonsgegevens in het kader van maatschappelijke ondersteuning
 
-#### Artikel 4.1
+##### Artikel 4.1
 
 1. Onze Minister en het bestuurscollege zijn de verantwoordelijken voor de verwerking van persoonsgegevens in de uitoefening van hun taken.
 
@@ -612,7 +638,7 @@ Het bestuurscollege draagt zorg voor de inrichting van een AMHK.
 
 7. Bij gegevensuitwisseling tussen Onze Minister, het bestuurscollege en een aanbieder van maatschappelijke ondersteuning wordt, voor zover die personen en instanties tot gebruik van dat nummer bevoegd zijn, het identificatienummer van de cliënt gebruikt.
 
-#### Artikel 4.2
+##### Artikel 4.2
 
 1. Een aanbieder van maatschappelijke ondersteuning is de verantwoordelijke voor de verwerking van persoonsgegevens in de uitoefening van zijn taken.
 
@@ -624,19 +650,19 @@ Het bestuurscollege draagt zorg voor de inrichting van een AMHK.
 
 3. Een aanbieder van maatschappelijke ondersteuning die een algemene voorziening levert, is bevoegd tot het verwerken van de persoonsgegevens van de cliënt, voor zover deze van de cliënt zijn verkregen en noodzakelijk zijn voor het leveren van de algemene voorziening.
 
-#### Artikel 4.3
+##### Artikel 4.3
 
 Onze Minister en het bestuurscollege zijn bevoegd uit eigen beweging en verplicht op verzoek binnen een bij dat verzoek genoemde termijn, uit de onder hun verantwoordelijkheid gevoerde administratie, aan elkaar, aan een daartoe door of vanwege hen aangewezen persoon, kosteloos, de gegevens, waaronder persoonsgegevens, daaronder begrepen persoonsgegevens betreffende iemands gezondheid, te verstrekken die noodzakelijk zijn voor de uitvoering van de [artikelen 2.6 tot en met 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=2&paragraaf=2.2&artikel=2.6&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 4.4
+##### Artikel 4.4
 
 Onze Minister en het bestuurscollege zijn bevoegd aan een aanbieder van maatschappelijke ondersteuning die een maatwerkvoorziening levert persoonsgegevens, waaronder persoonsgegevens betreffende iemands gezondheid, te verstrekken, die het bestuurscollege en Onze Minister hebben verkregen in het kader van het onderzoek, bedoeld in [artikel 2.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=2&paragraaf=2.2&artikel=2.6&z=2025-01-01&g=2025-01-01), of [artikel 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=2&paragraaf=2.3&artikel=2.15&z=2025-01-01&g=2025-01-01), voor zover deze noodzakelijk zijn voor het aan de cliënt leveren van de diensten, hulpmiddelen, woningaanpassingen en andere maatregelen waartoe deze aanbieder zich jegens Onze Minister, het bestuurscollege dan wel de cliënt heeft verbonden.
 
-#### Artikel 4.5
+##### Artikel 4.5
 
 Een aanbieder van maatschappelijke ondersteuning die aan een cliënt een maatwerkvoorziening verleent, en die de kosten daarvan krachtens een door hem met Onze Minister of het bestuurscollege gesloten overeenkomst rechtstreeks bij Onze Minister of het bestuurscollege in rekening brengt, verstrekt aan Onze Minister of het bestuurscollege kosteloos de persoonsgegevens van de cliënt, waaronder persoonsgegevens betreffende iemands gezondheid, die noodzakelijk zijn voor de uitvoering van de [artikelen 2.6 tot en met 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=2&paragraaf=2.2&artikel=2.6&z=2025-01-01&g=2025-01-01) en [artikel 6.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=6&artikel=6.1&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 4.6
+##### Artikel 4.6
 
 1. Het Zorgverzekeringskantoor BES en een zorgaanbieder zijn bevoegd uit eigen beweging en desgevraagd verplicht aan Onze Minister, het bestuurscollege of een aanbieder van maatschappelijke ondersteuning kosteloos persoonsgegevens, waaronder persoonsgegevens betreffende iemands gezondheid, te verstrekken van een verzekerde ingevolge dat besluit, die zorg als omschreven in dat besluit ontvangt of heeft ontvangen en in aanvulling of in aansluiting daarop aangewezen is of kan zijn op een maatwerkvoorziening, voor zover dit noodzakelijk is voor de uitvoering van de [artikelen 2.6 tot en met 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=2&paragraaf=2.2&artikel=2.6&z=2025-01-01&g=2025-01-01).
 
@@ -644,13 +670,13 @@ Een aanbieder van maatschappelijke ondersteuning die aan een cliënt een maatwer
 
 #### Paragraaf 4.2. Verwerking van persoonsgegevens door het AMHK
 
-#### Artikel 4.7
+##### Artikel 4.7
 
 1. Het AMHK is bevoegd tot het verwerken van persoonsgegevens ten behoeve van de goede vervulling van zijn taken. Het AMHK is de verantwoordelijke voor deze verwerking.
 
 2. Voorts is het AMHK bevoegd persoonsgegevens, waaronder persoonsgegevens betreffende iemands godsdienst of levensovertuiging, ras, gezondheid, seksuele leven en strafrechtelijke persoonsgegevens, te verwerken van personen die betrokken zijn bij huiselijk geweld of kindermishandeling, indien uit een melding redelijkerwijs een vermoeden van huiselijk geweld of kindermishandeling kan worden afgeleid en de verwerking noodzakelijk is te achten voor de uitoefening van de taken, bedoeld in [artikel 3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=3&paragraaf=3.1&artikel=3.2&z=2025-01-01&g=2025-01-01)
 
-#### Artikel 4.8
+##### Artikel 4.8
 
 1. Het AMHK verschaft aan degene die advies vraagt, degene die een melding doet, degene op wie een melding betrekking heeft of degene aan wie om informatie wordt verzocht in het kader van een veiligheidsbeoordeling naar aanleiding van een melding bij het eerste contact informatie over:
 
@@ -664,13 +690,13 @@ Een aanbieder van maatschappelijke ondersteuning die aan een cliënt een maatwer
 
 3. Het AMHK verstrekt geen inlichtingen over de herkomst van persoonsgegevens die het naar aanleiding van een melding heeft verkregen van een persoon die niet in een beroepsmatige, hulpverlenende of pedagogische relatie tot het slachtoffer of het vermoedelijke slachtoffer of zijn huiselijke kring staat, behoudens voor zover zij daarvoor toestemming hebben gegeven.
 
-#### Artikel 4.9
+##### Artikel 4.9
 
 Dit onderdeel is nog niet inwerking getreden
 
 #### Paragraaf 4.3. Verwerking van persoonsgegevens overig
 
-#### Artikel 4.10
+##### Artikel 4.10
 
 1. Het bestuurscollege, Onze Minister, een aanbieder van maatschappelijke ondersteuning en het AMHK verstrekken aan anderen dan de betrokkene geen inlichtingen over betrokkene, dan wel inzage in of afschrift van de bescheiden dan met toestemming van betrokkene.
 
@@ -678,13 +704,13 @@ Dit onderdeel is nog niet inwerking getreden
 
 3. Bij regeling van Onze Minister, voor zover nodig in overeenstemming met Onze Minister van Justitie en Veiligheid, kunnen regels worden gesteld over de wijze waarop een AMHK gegevens verwerkt en over de wijze van uitwisseling van gegevens tussen een AMHK en andere AMHK’s en met de voogdijraad, aanbieders van jeugdzorg, (gezins)voogdij-instellingen, politie en andere bij die regeling aan te wijzen organisaties.
 
-#### Artikel 4.11
+##### Artikel 4.11
 
 1. Onze Minister, het bestuurscollege en een aanbieder van maatschappelijke ondersteuning bewaren de persoonsgegevens die zij op grond van dit besluit met betrekking tot een betrokkene onder zich hebben, gedurende vijftien jaren, te rekenen vanaf het tijdstip waarop de laatste wijziging van die persoonsgegevens is vastgelegd, of zoveel langer als redelijkerwijs in verband met een zorgvuldige uitvoering van hun taken op grond van dit besluit noodzakelijk is.
 
 2. Het AMHK bewaart de persoonsgegevens die het in verband met de uitoefening van de taken, bedoeld in [artikel 3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=3&paragraaf=3.1&artikel=3.2&z=2025-01-01&g=2025-01-01), met betrekking tot een betrokkene onder zich heeft, gedurende tien jaren, te rekenen vanaf het tijdstip waarop de laatste wijziging van die persoonsgegevens is vastgelegd, of zoveel langer als redelijkerwijs in verband met een zorgvuldige uitvoering van deze taken noodzakelijk is.
 
-#### Artikel 4.12
+##### Artikel 4.12
 
 1. In afwijking van [artikel 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=4&paragraaf=4.3&artikel=4.11&z=2025-01-01&g=2025-01-01) vernietigen Onze Minister, het bestuurscollege, een aanbieder van maatschappelijke ondersteuning en het AMHK de persoonsgegevens die het op grond van dit besluit onder zich heeft binnen drie maanden na een daartoe strekkend schriftelijk verzoek van degene op wie de persoonsgegevens betrekking hebben.
 
@@ -692,17 +718,17 @@ Dit onderdeel is nog niet inwerking getreden
 
 ### Hoofdstuk 5. Integrale samenwerking
 
-#### Artikel 5.1
+##### Artikel 5.1
 
 De bestuurscolleges werken met elkaar samen, indien dat voor een doeltreffende en doelmatige uitvoering van dit besluit aangewezen is.
 
-#### Artikel 5.2
+##### Artikel 5.2
 
 1. De bestuurscolleges en Onze Minister werken met elkaar samen, indien dat voor een doeltreffende en doelmatige uitvoering van dit besluit aangewezen is.
 
 2. De bestuurscolleges en Onze Minister maken schriftelijke afspraken over de samenwerking, bedoeld in het eerste lid.
 
-#### Artikel 5.3
+##### Artikel 5.3
 
 1. Het bestuurscollege en Onze Minister stemmen de wijze waarop zij de taken omschreven in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=2&z=2025-01-01&g=2025-01-01) uitvoeren af op de uitvoering van het [Besluit zorgverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029404), met het oog op de wettelijke taken.
 

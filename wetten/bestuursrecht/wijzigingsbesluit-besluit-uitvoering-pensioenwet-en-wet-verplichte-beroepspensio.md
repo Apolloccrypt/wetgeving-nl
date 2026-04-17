@@ -1,13 +1,39 @@
 ---
-title: "Wijzigingsbesluit Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling, enz. (uitvoering pensioentransitie)"
+title: "Besluit van 16 december 2025 tot wijziging van met name het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling en het Besluit financieel toetsingskader pensioenfondsen in verband met de uitvoering van de pensioentransitie [KetenID WGK027244]"
 identifier: "BWBR0052001"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052001"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052001"
+soort: "AMvB"
+stam_id: "17688373"
+version_id: "31212182"
+internal_id: "C44645501"
+label_id: "17587394"
+dtd_version: "2.0"
+original_entry_into_force: "2025-12-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052001/2026-01-01/0"
+intitule_bron: "Stb.2025-439"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-12-16"
+intitule_published: "2025-12-19"
+intitule_in_force: "2025-12-19"
+intitule_status: "goed"
+original_publication: "Stb.2025-439"
+original_signed_date: "2025-12-16"
+original_published_date: "2025-12-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2025-439"
+entry_into_force_date: "2025-12-20"
+jci_1_3: "jci1.3:c:BWBR0052001&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0052001&g=2026-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsbesluit Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling, enz. (uitvoering pensioentransitie)"
+signed_date: "2025-12-16"
+entry_into_force: "2025-12-20"
 ---
-
 # Besluit van 16 december 2025 tot wijziging van met name het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling en het Besluit financieel toetsingskader pensioenfondsen in verband met de uitvoering van de pensioentransitie [KetenID WGK027244]
 
 Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 1 oktober 2025, nr. 2025-0000228334;
@@ -20,27 +46,27 @@ Gezien het nader rapport van Onze Minister van Sociale Zaken en Werkgelegenheid 
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I. [Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0020892)
+##### Artikel I. [Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0020892)
 
 Wijzigt het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling.
 
-#### Artikel II. [Besluit financieel toetsingskader pensioenfondsen](https://wetten.overheid.nl/jci1.3:c:BWBR0020871)
+##### Artikel II. [Besluit financieel toetsingskader pensioenfondsen](https://wetten.overheid.nl/jci1.3:c:BWBR0020871)
 
 Wijzigt het Besluit financieel toetsingskader pensioenfondsen.
 
-#### Artikel III. [Vrijstellings- en boetebesluit Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012094)
+##### Artikel III. [Vrijstellings- en boetebesluit Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012094)
 
 Wijzigt het Vrijstellings- en boetebesluit Wet Bpf 2000.
 
-#### Artikel IV. Vervallen [artikel 15c Besluit financieel toetsingskader pensioenfondsen](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=15c)
+##### Artikel IV. Vervallen [artikel 15c Besluit financieel toetsingskader pensioenfondsen](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=15c)
 
 Het in [artikel 15c, achtste lid, van het Besluit financieel toetsingskader pensioenfondsen](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=15c) bedoelde tijdstip is het tijdstip waarop de Wet van 4 december 2025 tot wijziging van de Pensioenwet, de Wet op de loonbelasting 1964 en enige andere wetten in verband met de verlenging van de transitieperiode naar het nieuwe pensioenstelsel in werking treedt.
 
-#### Artikel V. [Besluit consumentenprijsindex voor kinderbijslagbedragen](https://wetten.overheid.nl/jci1.3:c:BWBR0022744)
+##### Artikel V. [Besluit consumentenprijsindex voor kinderbijslagbedragen](https://wetten.overheid.nl/jci1.3:c:BWBR0022744)
 
 Wijzigt het Besluit consumentenprijsindex voor kinderbijslagbedragen.
 
-#### Artikel VI. Inwerkingtreding
+##### Artikel VI. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met dien verstande dat [artikel I, onderdeel M](https://wetten.overheid.nl/jci1.3:c:BWBR0052001&artikel=I&z=2026-01-01&g=2026-01-01), van toepassing is met ingang van 1 januari 2026 en artikel I, onderdeel I terugwerkt tot en met 1 juli 2025 en met uitzondering van de tweede wijziging van [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0052001&artikel=III&z=2026-01-01&g=2026-01-01), die in werking treedt op het moment dat de Wet van 4 december 2025 tot wijziging van de Pensioenwet, de Wet op de loonbelasting 1964 en enige andere wetten in verband met de verlenging van de transitieperiode naar het nieuwe pensioenstelsel in werking treedt.
 

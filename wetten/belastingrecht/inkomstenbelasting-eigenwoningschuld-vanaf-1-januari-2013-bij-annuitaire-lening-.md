@@ -1,13 +1,38 @@
 ---
 title: "Inkomstenbelasting, eigenwoningschuld vanaf 1 januari 2013; bij annuïtaire lening is overeengekomen contractuele rente hoger dan marktconforme rente"
 identifier: "BWBR0050717"
-categorie: "Belastingrecht"
-publicatiedatum: 2025-01-29
-laatste_update: 2013-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050717"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-01-29"
+last_updated: "2013-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050717"
+soort: "ministeriele-regeling"
+stam_id: "17354313"
+version_id: "30588002"
+internal_id: "C43844051"
+label_id: "17257354"
+dtd_version: "2.0"
+original_entry_into_force: "2025-01-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050717/2025-01-29/0"
+intitule_bron: "Stcrt.2025-3916"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-01-24"
+intitule_published: "2025-01-28"
+intitule_in_force: "2025-01-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-3916"
+original_signed_date: "2025-01-24"
+original_published_date: "2025-01-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-3916"
+entry_into_force_date: "2025-01-29"
+jci_1_3: "jci1.3:c:BWBR0050717&z=2025-01-29&g=2025-01-29"
+jci_1_0: "1.0:c:BWBR0050717&g=2025-01-29"
+citeertitel_status: "redactioneel"
+signed_date: "2025-01-24"
+entry_into_force: "2025-01-29"
 ---
-
 # Inkomstenbelasting, eigenwoningschuld vanaf 1 januari 2013; bij annuïtaire lening is overeengekomen contractuele rente hoger dan marktconforme rente
 
 **De Staatssecretaris van Financiën – Fiscaliteit en Belastingdienst heeft het volgende besloten.**

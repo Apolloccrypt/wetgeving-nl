@@ -1,13 +1,39 @@
 ---
-title: "Regeling eisen theorie-examens rijbewijscategorieën D1 en D"
+title: "Regeling van de Minister van Infrastructuur en Milieu, van 27 maart 20112, nr. IENM/BSK-2012/21921, houdende vaststelling van de eisen voor de theorie-examens voor de rijbewijscategorieën D1 en D (Regeling eisen theorie-examens categorieën D1 en D)"
 identifier: "BWBR0031430"
-categorie: "Verkeer"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031430"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031430"
+soort: "ministeriele-regeling"
+stam_id: "11704023"
+version_id: "28881372"
+internal_id: "C40887421"
+label_id: "11676734"
+dtd_version: "2.0"
+original_entry_into_force: "2022-09-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031430/2025-07-01/0"
+intitule_bron: "Stcrt.2012-6458"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-03-27"
+intitule_published: "2012-04-04"
+intitule_in_force: "2012-04-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-23626"
+original_signed_date: "2022-09-06"
+original_published_date: "2022-09-13"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2022-23626"
+entry_into_force_date: "2022-09-14"
+jci_1_3: "jci1.3:c:BWBR0031430&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0031430&g=2025-07-01"
+citeertitel_status: "officieel"
+short_title: "Regeling eisen theorie-examens rijbewijscategorieën D1 en D"
+signed_date: "2022-09-06"
+entry_into_force: "2022-09-14"
 ---
-
 # Regeling van de Minister van Infrastructuur en Milieu, van 27 maart 20112, nr. IENM/BSK-2012/21921, houdende vaststelling van de eisen voor de theorie-examens voor de rijbewijscategorieën D1 en D (Regeling eisen theorie-examens categorieën D1 en D)
 
 Gelet op [richtlijn nr. 2006/126/EG](32006L0126) van het Europees Parlement en de Raad van de Europese Unie van 20 december 2006 betreffende het rijbewijs (PbEU L 403) en [artikel 111, vierde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=111);
@@ -18,7 +44,7 @@ Treedt in werking op het tijdstip waarop artikel I, onderdelen A tot en met L va
 
 #### § 1. **Eisen theorie-examens rijbewijscategorie D1**
 
-#### Artikel 1
+##### Artikel 1
 
 De aanvrager van het theorie-examen rijbewijscategorie D1 moet blijk geven kennis van en inzicht te bezitten in de hierna genoemde voorschriften, alsmede kennis van en inzicht in die voorschriften voor zover deze gelden voor andere verkeersdeelnemers:
 
@@ -36,7 +62,7 @@ De aanvrager van het theorie-examen rijbewijscategorie D1 moet blijk geven kenni
 
 - g. van de [Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415): [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=2).
 
-#### Artikel 2
+##### Artikel 2
 
 De aanvrager van het theorie-examen rijbewijscategorie D1 moet blijk geven kennis van en inzicht te bezitten in de hierna genoemde factoren en risico’s die van belang zijn bij deelneming aan het verkeer:
 
@@ -62,7 +88,7 @@ De aanvrager van het theorie-examen rijbewijscategorie D1 moet blijk geven kenni
 
 - k. het veilig rijden in tunnels.
 
-#### Artikel 3
+##### Artikel 3
 
 De aanvrager van het theorie-examen rijbewijscategorie D1 geeft blijk kennis te bezitten van de mechanische onderdelen die voor de rijveiligheid bij deelneming aan het verkeer van belang zijn en in staat zijn de meest voorkomende defecten te ontdekken die zich met name kunnen voordoen aan
 
@@ -88,7 +114,7 @@ De aanvrager van het theorie-examen rijbewijscategorie D1 geeft blijk kennis te 
 
 - k. veiligheidsgordels.
 
-#### Artikel 4
+##### Artikel 4
 
 De aanvrager van het theorie-examen rijbewijscategorie D1 moet blijk geven kennis te bezitten:
 
@@ -104,7 +130,7 @@ De aanvrager van het theorie-examen rijbewijscategorie D1 moet blijk geven kenni
 
 - f. van veiligheidseisen met betrekking tot het voertuig, de lading en de passagiers.
 
-#### Artikel 5
+##### Artikel 5
 
 De aanvrager van het theorie-examen rijbewijscategorie D1 moet blijk geven kennis van en inzicht te bezitten in:
 
@@ -118,7 +144,7 @@ De aanvrager van het theorie-examen rijbewijscategorie D1 moet blijk geven kenni
 
 - e. de verschillende soorten bussen.
 
-#### Artikel 6
+##### Artikel 6
 
 De aanvrager van het theorie-examen rijbewijscategorie D1 moet blijk geven kennis te bezitten van:
 
@@ -134,7 +160,7 @@ De aanvrager van het theorie-examen rijbewijscategorie D1 moet blijk geven kenni
 
 #### § 2. **Eisen theorie-examen rijbewijscategorie D**
 
-#### Artikel 7
+##### Artikel 7
 
 1. De [artikelen 1 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031430&paragraaf=1&artikel=1&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing op de aanvragers van het theorie-examen voor de rijbewijscategorie D.
 
@@ -160,19 +186,19 @@ De aanvrager van het theorie-examen rijbewijscategorie D1 moet blijk geven kenni
 
 - j. preventief onderhoud van voertuigen en noodzakelijke reparaties, het nemen van juiste maatregelen en controle houden voor, tijdens en na de rit in verband met eigen veiligheid, het milieu, alsmede de (rij)technische en verkeersveilige staat van onderhoud van het voertuig.
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 De [Regeling eisen theorie-examen rijbewijscategorie D](https://wetten.overheid.nl/jci1.3:c:BWBR0015602) wordt ingetrokken.
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Deze regeling wordt aangehaald als: Regeling eisen theorie-examens rijbewijscategorieën D1 en D.
 
@@ -180,13 +206,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### § 3. Vaststelling toetsmatrijzen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 6a
+##### Artikel 6a
 
 Vervallen
 

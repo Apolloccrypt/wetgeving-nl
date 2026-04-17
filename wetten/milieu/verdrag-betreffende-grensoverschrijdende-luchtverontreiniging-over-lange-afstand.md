@@ -1,13 +1,35 @@
 ---
 title: "Verdrag betreffende grensoverschrijdende luchtverontreiniging over lange afstand"
 identifier: "BWBV0003681"
-categorie: "Milieu"
-publicatiedatum: 1983-03-16
-laatste_update: 1983-03-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003681"
+country: "nl"
+rank: "verdrag"
+publication_date: "1983-03-16"
+last_updated: "1983-03-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003681"
+soort: "verdrag"
+stam_id: "10003647403"
+version_id: "10003707922"
+internal_id: "C10006981211"
+label_id: "10003633114"
+dtd_version: "2.0"
+original_entry_into_force: "1983-03-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003681/1983-03-16/0"
+intitule_bron: "Trb.1980-21"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1980-02-20"
+intitule_in_force: "1983-03-10"
+intitule_status: "goed"
+original_publication: "Trb.1980-21"
+original_published_date: "1980-02-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1980-21"
+entry_into_force_date: "1983-03-16"
+jci_1_3: "jci1.3:c:BWBV0003681&z=1983-03-16&g=1983-03-16"
+jci_1_0: "1.0:c:BWBV0003681&g=1983-03-16"
+citeertitel_status: "redactioneel"
+entry_into_force: "1983-03-16"
 ---
-
 # Verdrag betreffende grensoverschrijdende luchtverontreiniging over lange afstand
 
 De Partijen bij dit Verdrag,
@@ -34,7 +56,7 @@ Zijn overeengekomen als volgt:
 
 ### BEGRIPSOMSCHRIJVINGEN
 
-#### Artikel 1
+##### Artikel 1
 
 In de zin van dit Verdrag wordt verstaan onder:
 
@@ -44,31 +66,31 @@ In de zin van dit Verdrag wordt verstaan onder:
 
 ### GRONDBEGINSELEN
 
-#### Artikel 2
+##### Artikel 2
 
 De Verdragsluitende Partijen zijn, met inachtneming van de desbetreffende feiten en vraagstukken, vastbesloten de mens en diens milieu te beschermen tegen luchtverontreiniging en trachten de luchtverontreiniging, waaronder grensoverschrijdende luchtverontreiniging over lange afstand, te beperken en voor zover mogelijk geleidelijk te verminderen en te voorkomen.
 
-#### Artikel 3
+##### Artikel 3
 
 De Verdragsluitende Partijen werken, binnen het kader van dit Verdrag, door middel van uitwisseling van informatie, overleg, onderzoek en bewaking, binnen niet al te lange tijd een beleid en strategieën uit ter bestrijding van uitworp van luchtverontreinigende stoffen met inachtneming van de op nationaal en internationaal niveau reeds gedane inspanningen.
 
-#### Artikel 4
+##### Artikel 4
 
 De Verdragsluitende Partijen wisselen informatie uit over en geven een overzicht van hun beleid, wetenschappelijke activiteiten en technische maatregelen die beogen de uitworp van luchtverontreinigende stoffen, die schadelijke gevolgen kunnen hebben, zoveel mogelijk te bestrijden om aldus een bijdrage te leveren aan de vermindering van luchtverontreiniging, waaronder grensoverschrijdende luchtverontreiniging over lange afstand.
 
-#### Artikel 5
+##### Artikel 5
 
 Desgevraagd vindt in een vroegtijdig stadium overleg plaats tussen enerzijds de Verdragsluitende Partijen die daadwerkelijk worden getroffen door grensoverschrijdende luchtverontreiniging over lange afstand of zijn blootgesteld aan een aanmerkelijk risico wat een dergelijke verontreiniging betreft en anderzijds de Verdragsluitende Partijen op het grondgebied en onder de rechtsmacht waarvan in verband met aldaar uitgevoerde of overwogen activiteiten een aanzienlijke mate van grensoverschrijdende luchtverontreiniging over lange afstand ontstaat of kan ontstaan.
 
 ### BEHEER VAN DE LUCHTKWALITEIT
 
-#### Artikel 6
+##### Artikel 6
 
 Met inachtneming van de artikelen 2 tot en met 5, het lopende onderzoek, de uitwisseling van informatie, de bewaking en de resultaten daarvan, de kosten en doeltreffendheid van plaatselijk getroffen en andere corrigerende maatregelen en ten einde de luchtverontreiniging te bestrijden, in het bijzonder die welke wordt veroorzaakt door nieuwe of gewijzigde installaties, verbindt iedere Verdragsluitende Partij zich ertoe het beste beleid en de beste strategieën te ontwikkelen, waaronder systemen voor het beheer van de luchtkwaliteit en, als onderdeel daarvan, controlemaatregelen die verenigbaar zijn met een evenwichtige ontwikkeling, in het bijzonder door gebruik te maken van de beste technieken die beschikbaar en economisch gezien toepasbaar zijn en van technieken waarbij weinig of geen afvalstoffen ontstaan.
 
 ### ONDERZOEK EN ONTWIKKELING
 
-#### Artikel 7
+##### Artikel 7
 
 De Verdragsluitende Partijen nemen, naar gelang van hun behoeften, het initiatief tot en werken samen bij het onderzoek naar en/of de ontwikkeling van:
 
@@ -86,7 +108,7 @@ De Verdragsluitende Partijen nemen, naar gelang van hun behoeften, het initiatie
 
 ### UITWISSELING VAN INFORMATIE
 
-#### Artikel 8
+##### Artikel 8
 
 In het kader van het uitvoerend orgaan, bedoeld in artikel 10, of bilateraal, wisselen de Verdragsluitende Partijen in hun gemeenschappelijk belang informatie uit over:
 
@@ -106,7 +128,7 @@ In het kader van het uitvoerend orgaan, bedoeld in artikel 10, of bilateraal, wi
 
 ### UITVOERING EN UITBREIDING VAN HET PROGRAMMA VOOR SAMENWERKING INZAKE DE BEWAKING EN DE EVALUATIE VAN HET TRANSPORT VAN LUCHTVERONTREINIGENDE STOFFEN OVER LANGE AFSTAND IN EUROPA
 
-#### Artikel 9
+##### Artikel 9
 
 De Verdragsluitende Partijen benadrukken de noodzaak van de tenuitvoerlegging van het bestaande „programma tot samenwerking voor de bewaking en de evaluatie van het transport van luchtverontreinigende stoffen over lange afstand in Europa” (hierna te noemen het EMEP) en komen overeen dat bij de uitbreiding van dit programma het volgende centraal zal komen te staan:
 
@@ -130,7 +152,7 @@ De Verdragsluitende Partijen benadrukken de noodzaak van de tenuitvoerlegging va
 
 ### UITVOEREND ORGAAN
 
-#### Artikel 10
+##### Artikel 10
 
 1. De vertegenwoordigers van de Verdragsluitende Partijen richten binnen het kader van het orgaan van Hoge Beleidsadviseurs voor milieuvraagstukken de bij de Economische Commissie voor Europa aangesloten Regeringen, het uitvoerend orgaan voor dit Verdrag op en komen ten minste jaarlijks in die hoedanigheid bijeen.
 
@@ -148,7 +170,7 @@ De Verdragsluitende Partijen benadrukken de noodzaak van de tenuitvoerlegging va
 
 ### SECRETARIAAT
 
-#### Artikel 11
+##### Artikel 11
 
 De uitvoerend secretaris van de Economische Commissie voor Europa vervult ten behoeve van het uitvoerend orgaan de volgende taken:
 
@@ -160,7 +182,7 @@ De uitvoerend secretaris van de Economische Commissie voor Europa vervult ten be
 
 ### WIJZIGING VAN HET VERDRAG
 
-#### Artikel 12
+##### Artikel 12
 
 1. Alle Verdragsluitende Partijen mogen wijzigingen in het onderhavige Verdrag voorstellen.
 
@@ -172,13 +194,13 @@ Daarna wordt de wijziging voor elke andere Verdragsluitende Partij van kracht ne
 
 ### REGELING VAN GESCHILLEN
 
-#### Artikel 13
+##### Artikel 13
 
 Indien tussen twee of meer Verdragsluitende Partijen bij dit Verdrag een geschil is gerezen ten aanzien van de uitlegging of de toepassing van dit Verdrag, trachten deze tot een oplossing te komen door middel van onderhandeling of enige andere methode voor het regelen van geschillen, die voor de Partijen aanvaardbaar is.
 
 ### ONDERTEKENING
 
-#### Artikel 14
+##### Artikel 14
 
 1. Dit Verdrag staat open voor ondertekening door de Lid-Staten van de Economische Commissie voor Europa, door Staten die slechts een raadgevende status bij de Economische Commissie voor Europa hebben krachtens paragraaf 8 van Resolutie 36 (IV) van de Economische en Sociale Raad van 28 maart 1947 en door organisaties voor regionale economische integratie, die door soevereine Staten die lid zijn van de Economische Commissie voor Europa zijn opgericht en bevoegd zijn te onderhandelen over internationale overeenkomsten met betrekking tot onder dit Verdrag vallende zaken en dergelijke overeenkomsten te sluiten en toe te passen, ten kantore van de Verenigde Naties in Genève van 13 tot 16 november 1979 ter gelegenheid van de vergadering op hoog niveau in het kader van de Economische Commissie voor Europa inzake de bescherming van het milieu.
 
@@ -186,7 +208,7 @@ Indien tussen twee of meer Verdragsluitende Partijen bij dit Verdrag een geschil
 
 ### BEKRACHTIGING, AANVAARDING; GOEDKEURING EN TOETREDING
 
-#### Artikel 15
+##### Artikel 15
 
 1. Dit Verdrag moet worden bekrachtigd, aanvaard of goedgekeurd.
 
@@ -196,7 +218,7 @@ Indien tussen twee of meer Verdragsluitende Partijen bij dit Verdrag een geschil
 
 ### INWERKINGTREDING
 
-#### Artikel 16
+##### Artikel 16
 
 1. Dit Verdrag treedt in werking op de negentigste dag na de datum van de nederlegging van de vierentwintigste akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
 
@@ -204,13 +226,13 @@ Indien tussen twee of meer Verdragsluitende Partijen bij dit Verdrag een geschil
 
 ### OPZEGGING
 
-#### Artikel 17
+##### Artikel 17
 
 Na vijf jaar vanaf de datum waarop dit Verdrag in werking is getreden voor een Verdragsluitende Partij, kan die Partij te allen tijde het Verdrag opzeggen door middel van een aan de depositaris gerichte schriftelijke kennisgeving. De opzegging wordt van kracht op de negentigste dag na de datum waarop de depositaris deze kennisgeving heeft ontvangen.
 
 ### AUTHENTIEKE TEKSTEN
 
-#### Artikel 18
+##### Artikel 18
 
 Het origineel van dit Verdrag, waarvan de Engelse, de Franse en de Russische tekst gelijkelijk authentiek zijn, wordt nedergelegd bij de Secretaris-generaal van de Verenigde Naties.
 

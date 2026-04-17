@@ -1,13 +1,37 @@
 ---
 title: "Verschaffen van informatie inzake eigendomsverhoudingen binnen de gezondheidszorg in Nederland"
 identifier: "BWBR0010380"
-categorie: "Burgerlijk recht"
-publicatiedatum: 1999-04-08
-laatste_update: 1999-04-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010380"
+country: "nl"
+rank: "circulaire"
+publication_date: "1999-04-08"
+last_updated: "1999-04-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010380"
+soort: "circulaire"
+stam_id: "6260443"
+version_id: "10940992"
+internal_id: "C14835631"
+label_id: "6249404"
+original_entry_into_force: "1999-04-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010380/1999-04-08/0"
+intitule_bron: "Stcrt.1999-67"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-04-01"
+intitule_published: "1999-04-08"
+intitule_in_force: "1999-04-08"
+intitule_status: "goed"
+original_publication: "Stcrt.1999-67"
+original_signed_date: "1999-04-01"
+original_published_date: "1999-04-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1999-67-p19-SC18407"
+entry_into_force_date: "1999-04-08"
+jci_1_3: "jci1.3:c:BWBR0010380&z=1999-04-08&g=1999-04-08"
+jci_1_0: "1.0:c:BWBR0010380&g=1999-04-08"
+citeertitel_status: "redactioneel"
+signed_date: "1999-04-01"
+entry_into_force: "1999-04-08"
 ---
-
 # Verschaffen van informatie inzake eigendomsverhoudingen binnen de gezondheidszorg in Nederland
 
 Aan alle besturen van inrichtingen voor gezondheidszorg als bedoeld in [artikel 1, eerste lid, onder c van de Wet ziekenhuisvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0002753&artikel=1)

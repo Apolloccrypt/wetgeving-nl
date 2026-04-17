@@ -1,13 +1,39 @@
 ---
-title: "Regeling certificaten wettelijke beroepsvereisten groen middelbaar beroepsonderwijs"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 1 juli 2020, kenmerk MBO-24861840 houdende vaststelling van certificaten wettelijke beroepsvereisten groen middelbaar beroepsonderwijs voor beroepsgerichte onderdelen van kwalificaties en keuzedelen die betrekking hebben op de sector Landbouw, Natuur en Voedselkwaliteit (Regeling certificaten wettelijke beroepsvereisten groen middelbaar beroepsonderwijs)"
 identifier: "BWBR0043847"
-categorie: "Onderwijs"
-publicatiedatum: 2025-08-01
-laatste_update: 2025-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043847"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-08-01"
+last_updated: "2025-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043847"
+soort: "ministeriele-regeling"
+stam_id: "15560523"
+version_id: "26880522"
+internal_id: "C38067921"
+label_id: "15502254"
+dtd_version: "2.0"
+original_entry_into_force: "2020-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043847/2025-08-01/0"
+intitule_bron: "Stcrt.2020-37016"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-07-01"
+intitule_published: "2020-07-13"
+intitule_in_force: "2020-07-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-37016"
+original_signed_date: "2020-07-01"
+original_published_date: "2020-07-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-37016"
+entry_into_force_date: "2020-08-01"
+jci_1_3: "jci1.3:c:BWBR0043847&z=2025-08-01&g=2025-08-01"
+jci_1_0: "1.0:c:BWBR0043847&g=2025-08-01"
+citeertitel_status: "officieel"
+short_title: "Regeling certificaten wettelijke beroepsvereisten groen middelbaar beroepsonderwijs"
+signed_date: "2020-07-01"
+entry_into_force: "2020-08-01"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 1 juli 2020, kenmerk MBO-24861840 houdende vaststelling van certificaten wettelijke beroepsvereisten groen middelbaar beroepsonderwijs voor beroepsgerichte onderdelen van kwalificaties en keuzedelen die betrekking hebben op de sector Landbouw, Natuur en Voedselkwaliteit (Regeling certificaten wettelijke beroepsvereisten groen middelbaar beroepsonderwijs)
 
 Handelende in overeenstemming met de Minister van Landbouw, Natuur en Voedselkwaliteit en de Staatssecretaris van Infrastructuur en Waterstaat;
@@ -16,23 +42,23 @@ Gelet op [artikel 7.2.3, eerste lid, van de WEB](https://wetten.overheid.nl/jci1
 
 Besluit:
 
-#### Artikel 1. Certificaat groen middelbaar beroepsonderwijs beroepsgerichte onderdelen
+##### Artikel 1. Certificaat groen middelbaar beroepsonderwijs beroepsgerichte onderdelen
 
 Er is een certificaat groen middelbaar beroepsonderwijs verbonden aan beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043847&bijlage=1&z=2025-08-01&g=2025-08-01).
 
-#### Artikel 2. Certificaat groen middelbaar beroepsonderwijs keuzedelen
+##### Artikel 2. Certificaat groen middelbaar beroepsonderwijs keuzedelen
 
 Er is een certificaat groen middelbaar beroepsonderwijs verbonden aan keuzedelen, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043847&bijlage=2&z=2025-08-01&g=2025-08-01).
 
-#### Artikel 3. Vervallen regeling
+##### Artikel 3. Vervallen regeling
 
 De [Regeling certificaten groen beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0032494) vervalt.
 
-#### Artikel 4. Inwerkingtreding
+##### Artikel 4. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 augustus 2020.
 
-#### Artikel 5. Citeertitel
+##### Artikel 5. Citeertitel
 
 Deze regeling wordt aangehaald als: ‘Regeling certificaten wettelijke beroepsvereisten groen middelbaar beroepsonderwijs’.
 

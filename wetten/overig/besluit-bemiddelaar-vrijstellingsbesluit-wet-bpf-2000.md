@@ -1,13 +1,36 @@
 ---
 title: "Besluit bemiddelaar Vrijstellingsbesluit Wet Bpf 2000"
 identifier: "BWBR0013422"
-categorie: "Overig"
-publicatiedatum: 2002-02-24
-laatste_update: 2002-02-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013422"
+country: "nl"
+rank: "pbo"
+publication_date: "2002-02-24"
+last_updated: "2002-02-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013422"
+soort: "pbo"
+stam_id: "6161023"
+version_id: "10834362"
+internal_id: "C14695671"
+label_id: "6150124"
+original_entry_into_force: "2002-02-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013422/2002-02-24/0"
+intitule_bron: "Vbbo.2002-9"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-02-15"
+intitule_published: "2002-02-22"
+intitule_in_force: "2002-02-22"
+intitule_status: "goed"
+original_publication: "Vbbo.2002-9"
+original_signed_date: "2002-02-15"
+original_published_date: "2002-02-22"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2002-02-24"
+jci_1_3: "jci1.3:c:BWBR0013422&z=2002-02-24&g=2002-02-24"
+jci_1_0: "1.0:c:BWBR0013422&g=2002-02-24"
+citeertitel_status: "officieel"
+signed_date: "2002-02-15"
+entry_into_force: "2002-02-24"
 ---
-
 # Besluit bemiddelaar Vrijstellingsbesluit Wet Bpf 2000
 
 Gelet op [artikel 2 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=2);
@@ -18,7 +41,7 @@ Gehoord de Vereniging van Bedrijfstakpensioenfondsen en het Verbond van Verzeker
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 1. In dit besluit worden overgenomen de begripsbepalingen van het vrijstellingsbesluit als bedoeld in [artikel 13, derde lid, van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000 (Wet Bpf 2000)](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=13).
 
@@ -31,7 +54,7 @@ Besluit:
 | d. | Verbond | : | Verbond van Verzekeraars |
 | e. | raad | : | Sociaal-Economische Raad. |
 
-#### Artikel 2. Bemiddelaar Vrijstellingsbesluit Wet Bpf 2000
+##### Artikel 2. Bemiddelaar Vrijstellingsbesluit Wet Bpf 2000
 
 1. Er is een bemiddelingsinstantie inzake het [vrijstellingsbesluit van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=13).
 
@@ -39,7 +62,7 @@ Besluit:
 
 3. De bemiddelingsinstantie wordt hierna aangeduid als bemiddelaar.
 
-#### Artikel 3. Taak
+##### Artikel 3. Taak
 
 1. De bemiddelaar heeft tot taak te bemiddelen in geschillen in het kader van verzoeken van ondernemingen aan bedrijfstakpensioenfondsen om toepassing van het vrijstellingsbesluit, welke geschillen betrekking kunnen hebben op:
 
@@ -51,13 +74,13 @@ Besluit:
 
 3. De bemiddelaar wordt voorts bijgestaan door een secretariaat. Dit secretariaat berust bij de raad.
 
-#### Artikel 4. Benoeming en ontslag
+##### Artikel 4. Benoeming en ontslag
 
 1. De bemiddelaar wordt benoemd en ontslagen door het Dagelijks Bestuur van de raad, Benoeming en ontslag behoeven de goedkeuring van de Stichting van de Arbeid.
 
 2. De bemiddelaar heeft geen dienstverband met enig natuurlijk of rechtspersoon die betrokken is bij de totstandkoming en uitvoering van dit besluit, noch met een van de bij een geschil als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013422&artikel=3&z=2002-02-24&g=2002-02-24), betrokken partijen, en legt aan geen van dezen verantwoording af.
 
-#### Artikel 5. Werkwijze
+##### Artikel 5. Werkwijze
 
 1. Elke bemiddeling wordt ingeleid door een daartoe strekkend, bij voorkeur gezamenlijk, schriftelijk verzoek van een onderneming of bedrijfstakpensioenfonds in verband met een besluit of voorgenomen besluit van laatstgenoemde inzake vrijstelling.
 
@@ -79,7 +102,7 @@ Besluit:
 
 10. De bemiddelaar kan nadere regels stellen inzake zijn werkwijze.
 
-#### Artikel 6. Verslaglegging
+##### Artikel 6. Verslaglegging
 
 1. Jaarlijks vóór 1 juni brengt de bemiddelaar verslag uit van zijn werkzaamheden aan de raad, de Stichting van de Arbeid, de Vereniging en het Verbond.
 
@@ -89,7 +112,7 @@ Besluit:
 
 - eventuele tekortkomingen in het [vrijstellingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=13) voor zover deze betrekking hebben op de in [artikel 3, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0013422&artikel=3&z=2002-02-24&g=2002-02-24), bedoelde beleidsgebieden.
 
-#### Artikel 7. Vergoedingen en kosten/eigen bijdrage
+##### Artikel 7. Vergoedingen en kosten/eigen bijdrage
 
 1. De bemiddelaar en de adviseurs, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013422&artikel=3&z=2002-02-24&g=2002-02-24), genieten voor hun werkzaamheden een vergoeding. De hoogte daarvan wordt door de raad vastgesteld op de voet van de Verordening vergoedingen van leden van de raad, het dagelijks bestuur en de commissies 2002.
 
@@ -101,22 +124,22 @@ Besluit:
 
 5. De door de raad ontvangen kostenvergoedingen worden in mindering gebracht op de afrekening, bedoeld in het derde lid.
 
-#### Artikel 8. Wijziging en intrekking
+##### Artikel 8. Wijziging en intrekking
 
 De raad gaat niet over tot wijziging of intrekking van dit besluit dan nadat daarover de Stichting van de Arbeid, de Vereniging en het Verbond zijn gehoord.
 
-#### Artikel 9. Intrekking Besluit bemiddelaar vrijstellingsregeling Wet bpf
+##### Artikel 9. Intrekking Besluit bemiddelaar vrijstellingsregeling Wet bpf
 
 Het Besluit bemiddelaar vrijstellingsregeling Wet bpf wordt ingetrokken.
 
-#### Artikel 10. Publicatie
+##### Artikel 10. Publicatie
 
 Dit besluit wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie en in de Staatscourant.
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 12. Citeertitel
+##### Artikel 12. Citeertitel
 
 Dit besluit wordt aangehaald als Besluit bemiddelaar Vrijstellingsbesluit Wet Bpf 2000.

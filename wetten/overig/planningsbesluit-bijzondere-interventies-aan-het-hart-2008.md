@@ -1,36 +1,62 @@
 ---
-title: "Planningsbesluit bijzondere interventies aan het hart 2008"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 22 april 2008, nr. CZ/TSZ-2830051, houdende vaststelling van het Planningsbesluit bijzondere interventies aan het hart 2008"
 identifier: "BWBR0023804"
-categorie: "Overig"
-publicatiedatum: 2024-06-05
-laatste_update: 2024-06-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0023804"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-06-05"
+last_updated: "2024-06-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023804"
+soort: "ministeriele-regeling"
+stam_id: "9490433"
+version_id: "15301952"
+internal_id: "C20845601"
+label_id: "9467884"
+dtd_version: "2.0"
+original_entry_into_force: "2008-05-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023804/2024-06-05/0"
+intitule_bron: "Stcrt.2008-84"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-04-22"
+intitule_published: "2008-05-05"
+intitule_in_force: "2008-05-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-84"
+original_signed_date: "2008-04-22"
+original_published_date: "2008-05-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-84-p11-SC85522"
+entry_into_force_date: "2008-05-07"
+jci_1_3: "jci1.3:c:BWBR0023804&z=2024-06-05&g=2024-06-05"
+jci_1_0: "1.0:c:BWBR0023804&g=2024-06-05"
+citeertitel_status: "officieel"
+short_title: "Planningsbesluit bijzondere interventies aan het hart 2008"
+signed_date: "2008-04-22"
+entry_into_force: "2008-05-07"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 22 april 2008, nr. CZ/TSZ-2830051, houdende vaststelling van het Planningsbesluit bijzondere interventies aan het hart 2008
 
 Gelet op de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&artikel=5) en [6, tweede lid, van de Wet op bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&artikel=6);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De omvang van de behoefte aan bijzondere interventies aan het hart, de wijze waarop in deze behoefte kan worden voorzien en de voorschriften waaraan uitvoerende centra moeten voldoen, zijn neergelegd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023804&bijlage=1&z=2024-06-05&g=2024-06-05).
 
-#### Artikel 2
+##### Artikel 2
 
 De gegevens die een instelling bij de aanvraag van een vergunning dient te verstrekken, in aanvulling op de [Regeling vergunningprocedure bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0009846), zijn omschreven in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023804&bijlage=2&z=2024-06-05&g=2024-06-05).
 
-#### Artikel 3
+##### Artikel 3
 
 Het [Planningsbesluit bijzondere interventies aan het hart](https://wetten.overheid.nl/jci1.3:c:BWBR0008447) wordt ingetrokken.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling wordt aangehaald als: Planningsbesluit bijzondere interventies aan het hart 2008.
 

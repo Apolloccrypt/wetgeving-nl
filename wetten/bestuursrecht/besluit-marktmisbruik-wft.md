@@ -1,13 +1,39 @@
 ---
-title: "Besluit marktmisbruik Wft"
+title: "Besluit van 12 oktober 2006, houdende regels tot uitvoering van diverse bepalingen van hoofdstuk 5.4 van de Wet op het financieel toezicht (Besluit marktmisbruik Wft)"
 identifier: "BWBR0020417"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-04-01
-laatste_update: 2024-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020417"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-04-01"
+last_updated: "2024-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020417"
+soort: "AMvB"
+stam_id: "8689753"
+version_id: "13714072"
+internal_id: "C18906341"
+label_id: "8670394"
+dtd_version: "2.0"
+original_entry_into_force: "2007-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020417/2024-04-01/0"
+intitule_bron: "Stb.2006-510"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-10-12"
+intitule_published: "2006-10-31"
+intitule_in_force: "2006-12-20"
+intitule_status: "goed"
+original_publication: "Stb.2006-510"
+original_signed_date: "2006-10-12"
+original_published_date: "2006-10-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2006-510"
+entry_into_force_date: "2007-01-01"
+jci_1_3: "jci1.3:c:BWBR0020417&z=2024-04-01&g=2024-04-01"
+jci_1_0: "1.0:c:BWBR0020417&g=2024-04-01"
+citeertitel_status: "officieel"
+short_title: "Besluit marktmisbruik Wft"
+signed_date: "2006-10-12"
+entry_into_force: "2007-01-01"
 ---
-
 # Besluit van 12 oktober 2006, houdende regels tot uitvoering van diverse bepalingen van hoofdstuk 5.4 van de Wet op het financieel toezicht (Besluit marktmisbruik Wft)
 
 Op de voordracht van Onze Minister van Financiën van 20 april 2006, nr. FM 2006-00969 M;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Inleidende bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -34,15 +60,15 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 2. Uitzonderingen op de wettelijke verboden
 
-#### Artikel 2
+##### Artikel 2
 
 Vervallen
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
@@ -50,33 +76,33 @@ Vervallen
 
 #### § 3.1. Melding van transacties
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
 #### § 3.2. Lijst van personen die op regelmatige of incidentele basis kennis kunnen hebben van koersgevoelige informatie en reglement
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
@@ -84,39 +110,39 @@ Vervallen
 
 #### § 4.1. De wijze van openbaarmaking
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
 #### § 4.2. Uitzonderingen op de verplichting tot onverwijlde openbaarmaking
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
 ### Hoofdstuk 5. Voorkoming van publiekmisleiding door beleggingsaanbevelingen
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
-#### Artikel 17
+##### Artikel 17
 
 Vervallen
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
-#### Artikel 19
+##### Artikel 19
 
 Vervallen
 
@@ -124,11 +150,11 @@ Vervallen
 
 #### § 6.1. Algemene bepalingen
 
-#### Artikel 20
+##### Artikel 20
 
 Een onderneming als bedoeld in [artikel 5:68, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:68), treft adequate maatregelen teneinde belangenconflicten met betrekking tot transacties in financiële instrumenten te beheersen.
 
-#### Artikel 21
+##### Artikel 21
 
 Een onderneming als bedoeld in [artikel 5:68, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:68), treft adequate maatregelen teneinde:
 
@@ -136,13 +162,13 @@ Een onderneming als bedoeld in [artikel 5:68, eerste lid, van de wet](https://we
 
 - b. te waarborgen dat aan de onderneming verbonden personen de uiterste zorgvuldigheid betrachten in de behandeling van informatie waarvan zij weten of redelijkerwijs moeten vermoeden dat deze moet worden aangemerkt als voorwetenschap.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Een onderneming als bedoeld in [artikel 5:68, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:68), wijst een persoon aan die belast is met het interne toezicht op de naleving van het in dit hoofdstuk bepaalde en stelt regels ten aanzien van de uitoefening van dat toezicht.
 
 2. Een onderneming als bedoeld in [artikel 5:68, eerste en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:68) beschikt over passende procedures die haar werknemers in staat stellen om door hen geconstateerde mogelijke of feitelijke overtredingen van de verordening marktmisbruik intern te melden.
 
-#### Artikel 23
+##### Artikel 23
 
 Een onderneming als bedoeld in [artikel 5:68, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:68), houdt van de door haar voor eigen rekening verrichte transacties in financiële instrumenten een administratie bij, die de volgende gegevens bevat:
 
@@ -158,7 +184,7 @@ Een onderneming als bedoeld in [artikel 5:68, eerste lid, van de wet](https://we
 
 #### § 6.2. Gedragscode voor privé-transacties
 
-#### Artikel 24
+##### Artikel 24
 
 1. Een onderneming als bedoeld in het tweede lid beschikt over een gedragscode voor privé-transacties door aan de onderneming verbonden personen die direct of indirect bij de transacties van de onderneming in financiële instrumenten zijn betrokken dan wel anderszins uit hoofde van werk, beroep of functie regelmatig over voorwetenschap beschikken of kunnen beschikken, tenzij de onderneming met toepassing van [artikel 25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=6&paragraaf=6.2&artikel=25&z=2024-04-01&g=2024-04-01), besluit geen personen aan te wijzen als insider als bedoeld in artikel 25. Zij draagt er zorg voor dat de gedragscode bekend is bij ieder wie het aangaat en ziet toe op de naleving ervan.
 
@@ -182,7 +208,7 @@ Een onderneming als bedoeld in [artikel 5:68, eerste lid, van de wet](https://we
 
 - c. transacties in indexfondsen of in rechten van deelneming in beleggingsinstellingen die alleen openstaan voor professionele marktpartijen.
 
-#### Artikel 25
+##### Artikel 25
 
 1. De gedragscode, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=6&paragraaf=6.2&artikel=24&z=2024-04-01&g=2024-04-01), bevat regels die gelden voor alle in dat lid bedoelde personen, en aanvullende regels voor insiders.
 
@@ -198,11 +224,11 @@ Een onderneming als bedoeld in [artikel 5:68, eerste lid, van de wet](https://we
 
 4. Een onderneming voorziet in procedures voor het aanwijzen van insiders en voor de toepassing van het derde lid, en houdt een lijst bij van de personen die als insider zijn aangewezen.
 
-#### Artikel 26
+##### Artikel 26
 
 De gedragscode, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=6&paragraaf=6.2&artikel=24&z=2024-04-01&g=2024-04-01), bepaalt dat een in dat lid bedoelde persoon iedere vermenging van zakelijke en privé-belangen, respectievelijk de redelijkerwijs voorzienbare schijn daarvan, die te maken heeft met transacties in financiële instrumenten, vermijdt.
 
-#### Artikel 27
+##### Artikel 27
 
 1. De gedragscode, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=6&paragraaf=6.2&artikel=24&z=2024-04-01&g=2024-04-01), bepaalt dat een insider als bedoeld in [artikel 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=6&paragraaf=6.2&artikel=25&z=2024-04-01&g=2024-04-01):
 
@@ -212,31 +238,31 @@ De gedragscode, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/j
 
 2. De gedragscode kan bepalen dat melding van transacties in bepaalde categorieën financiële instrumenten, waarvan melding niet bijdraagt aan het doel van de gedragscode, achterwege kan blijven.
 
-#### Artikel 28
+##### Artikel 28
 
 Vervallen
 
-#### Artikel 29
+##### Artikel 29
 
 Vervallen
 
 ### Hoofdstuk 7. Slotbepalingen
 
-#### Artikel 30
+##### Artikel 30
 
 [Artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=6&paragraaf=6.2&artikel=24&z=2024-04-01&g=2024-04-01), is tot de eerste dag van de zevende maand na de datum van inwerkingtreding niet van toepassing op ondernemingen als bedoeld in [artikel 24, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=6&paragraaf=6.2&artikel=24&z=2024-04-01&g=2024-04-01), die op de datum van inwerkingtreding van dit besluit werkzaam zijn en ingevolge [hoofdstuk IVA van de Vrijstellingsregeling Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007777&hoofdstuk=IVA) waren vrijgesteld van [artikel 18a van de Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=18a).
 
-#### Artikel 31
+##### Artikel 31
 
 De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 32
+##### Artikel 32
 
 Dit besluit wordt aangehaald als: Besluit marktmisbruik Wft.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Dit besluit berust mede op de [artikelen 1:3a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:3a), [3:10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:10), [3:17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:17), [4:11, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:11), en [4:14, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:14), [artikel 143, tweede lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=143) en [artikel 138, tweede lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=138).
 
@@ -260,7 +286,7 @@ Dit besluit berust mede op de [artikelen 1:3a, vierde lid](https://wetten.overhe
 
 #### § 6.1. Bepalingen ter uitvoering van [artikel 5:68, eerste en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:68)
 
-#### Artikel 21a
+##### Artikel 21a
 
 1. Een onderneming als bedoeld in [artikel 5:68, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:68), niet zijnde een clearinginstelling, treft adequate maatregelen teneinde te vermijden dat zij:
 

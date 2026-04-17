@@ -1,13 +1,39 @@
 ---
-title: "Besluit maatregelen rechtstreeks geautomatiseerde toegang inlichtingen- en veiligheidsdiensten"
+title: "Besluit van 18 april 2018, houdende regels inzake technische en organisatorische maatregelen met betrekking tot rechtstreeks geautomatiseerde toegang van de inlichtingen- en veiligheidsdiensten tot de gegevens verwerkt door informanten dan wel door ambtenaren van politie, van de Koninklijke marechaussee en van de rijksbelastingdienst (Besluit maatregelen rechtstreeks geautomatiseerde toegang inlichtingen- en veiligheidsdiensten)"
 identifier: "BWBR0040844"
-categorie: "Bestuursrecht"
-publicatiedatum: 2018-05-01
-laatste_update: 2018-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040844"
+country: "nl"
+rank: "amvb"
+publication_date: "2018-05-01"
+last_updated: "2018-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040844"
+soort: "AMvB"
+stam_id: "14594273"
+version_id: "24989492"
+internal_id: "C35737581"
+label_id: "14547854"
+dtd_version: "2.0"
+original_entry_into_force: "2018-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040844/2018-05-01/0"
+intitule_bron: "Stb.2018-115"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-04-18"
+intitule_published: "2018-04-26"
+intitule_in_force: "2018-04-26"
+intitule_status: "goed"
+original_publication: "Stb.2018-115"
+original_signed_date: "2018-04-18"
+original_published_date: "2018-04-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2018-115"
+entry_into_force_date: "2018-05-01"
+jci_1_3: "jci1.3:c:BWBR0040844&z=2018-05-01&g=2018-05-01"
+jci_1_0: "1.0:c:BWBR0040844&g=2018-05-01"
+citeertitel_status: "officieel"
+short_title: "Besluit maatregelen rechtstreeks geautomatiseerde toegang inlichtingen- en veiligheidsdiensten"
+signed_date: "2018-04-18"
+entry_into_force: "2018-05-01"
 ---
-
 # Besluit van 18 april 2018, houdende regels inzake technische en organisatorische maatregelen met betrekking tot rechtstreeks geautomatiseerde toegang van de inlichtingen- en veiligheidsdiensten tot de gegevens verwerkt door informanten dan wel door ambtenaren van politie, van de Koninklijke marechaussee en van de rijksbelastingdienst (Besluit maatregelen rechtstreeks geautomatiseerde toegang inlichtingen- en veiligheidsdiensten)
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 15 augustus 2017, nr. 2017-0000212778, gedaan mede namens Onze Minister van Defensie;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijks
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -28,7 +54,7 @@ In dit besluit wordt verstaan onder:
 
 - b. **toegangverlener:** de persoon of instantie die op grond van artikel 39, derde lid, onderscheidenlijk 94, tweede lid, rechtstreeks geautomatiseerde toegang verleent tot de gegevens, bedoeld in [artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=39), onderscheidenlijk [94, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=94).
 
-#### Artikel 2
+##### Artikel 2
 
 1. De toegangverlener neemt de noodzakelijke technische en organisatorische maatregelen teneinde de vertrouwelijkheid van gegevensbevragingen door en gegevensverstrekkingen aan de diensten te waarborgen.
 
@@ -44,7 +70,7 @@ In dit besluit wordt verstaan onder:
 
 3. Over de wijze waarop aan de voorgeschreven maatregelen uitvoering wordt gegeven vindt overleg plaats tussen de toegangverlener en de dienst.
 
-#### Artikel 3
+##### Artikel 3
 
 De toegangverlener stelt de desbetreffende dienst terstond op de hoogte, indien een ongeoorloofde inbreuk is gemaakt op de vertrouwelijkheid van de gegevensbevragingen door of gegevensverstrekkingen aan de diensten. Daarbij vermeldt de toegangverlener:
 
@@ -56,7 +82,7 @@ De toegangverlener stelt de desbetreffende dienst terstond op de hoogte, indien 
 
 - d. welke maatregelen zijn genomen om verdere verspreiding van de gegevens tegen te gaan of herhaling van het gebeurde te voorkomen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien de toegangverlener de uitvoering van werkzaamheden uitbesteedt aan een derde en in dat kader de derde kennis neemt of kan nemen van gegevens betreffende gegevensbevragingen door en gegevensverstrekkingen aan de diensten, draagt de toegangverlener er zorg voor dat de derde zich verplicht:
 
@@ -74,7 +100,7 @@ De toegangverlener stelt de desbetreffende dienst terstond op de hoogte, indien 
 
 4. De toegangverlener is verantwoordelijk voor de naleving door de derde van de verplichtingen, bedoeld in het eerste lid.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De diensten nemen de noodzakelijke technische en organisatorische maatregelen teneinde een rechtmatig gebruik door de diensten van de rechtstreeks geautomatiseerde toegang tot gegevens als bedoeld in de [artikelen 39, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=39), en [94, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=94) te waarborgen.
 
@@ -94,10 +120,10 @@ De toegangverlener stelt de desbetreffende dienst terstond op de hoogte, indien 
 
 - d. datum en tijdstip waarop van het systeem gebruik is gemaakt.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit wordt aangehaald als: Besluit maatregelen rechtstreeks geautomatiseerde toegang inlichtingen- en veiligheidsdiensten.

@@ -1,13 +1,35 @@
 ---
 title: "Regionale Overeenkomst inzake de erkenning van studies en diploma's op het gebied van het hoger onderwijs in Latijns-Amerika en in het Caraïbische gebied"
 identifier: "BWBV0003920"
-categorie: "Onderwijs"
-publicatiedatum: 1977-11-06
-laatste_update: 1977-11-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003920"
+country: "nl"
+rank: "verdrag"
+publication_date: "1977-11-06"
+last_updated: "1977-11-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003920"
+soort: "verdrag"
+stam_id: "10003771063"
+version_id: "10003836012"
+internal_id: "C10006983161"
+label_id: "10003756414"
+dtd_version: "2.0"
+original_entry_into_force: "1977-11-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003920/1977-11-06/0"
+intitule_bron: "Trb.1976-61"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1976-05-26"
+intitule_in_force: "1977-11-07"
+intitule_status: "goed"
+original_publication: "Trb.1976-61"
+original_published_date: "1976-05-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1976-61"
+entry_into_force_date: "1977-11-06"
+jci_1_3: "jci1.3:c:BWBV0003920&z=1977-11-06&g=1977-11-06"
+jci_1_0: "1.0:c:BWBV0003920&g=1977-11-06"
+citeertitel_status: "redactioneel"
+entry_into_force: "1977-11-06"
 ---
-
 # Regionale Overeenkomst inzake de erkenning van studies en diploma's op het gebied van het hoger onderwijs in Latijns-Amerika en in het Caraïbische gebied
 
 De Staten van Latijns-Amerika en het Caraïbische gebied, die Partij zijn bij deze Overeenkomst,
@@ -40,7 +62,7 @@ Zijn het volgende overeengekomen:
 
 ## I. BEGRIPSBEPALINGEN
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van deze Overeenkomst:
 
@@ -58,7 +80,7 @@ Voor de toepassing van deze Overeenkomst:
 
 ## II. DOELSTELLINGEN
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Overeenkomstsluitende Staten geven uiting aan hun vaste voornemen:
 
@@ -86,23 +108,23 @@ Voor de toepassing van deze Overeenkomst:
 
 ## III. VERPLICHTINGEN INZAKE ONMIDDELLIJKE UITVOERING
 
-#### Artikel 3
+##### Artikel 3
 
 De Overeenkomstsluitende Staten erkennen, ten einde voortzetting van de studie en onmiddellijke toegang tot de meer gevorderde niveaus van onderwijs in de hogere onderwijsinstellingen die zich of op hun grondgebied bevinden of onder hun gezag staan, mogelijk te maken, diploma's en getuigschriften welke ter afsluiting van een studie op secundair niveau zijn behaald in een andere Overeenkomstsluitende Staat, alwaar bezit van een dergelijk diploma of getuigschrift recht geeft op toelating tot meer gevorderde niveaus van onderwijs in de hogere onderwijsinstellingen die gevestigd zijn op het grondgebied van het land van herkomst of onder het gezag staan van dit land.
 
-#### Artikel 4
+##### Artikel 4
 
 De Overeenkomstsluitende Staten erkennen, ten einde voortzetting van de studie en onmiddellijke toegang tot meer gevorderde niveaus van hoger onderwijs mogelijk te maken, academische graden, diploma's en getuigschriften van hoger onderwijs die zijn behaald op het grondgebied van een andere Overeenkomstsluitende Staat of bij een instelling onder het gezag van de desbetreffende Staat, waaruit blijkt dat men een volledige studie van hoger onderwijs heeft voltooid. De getuigschriften enz. dienen het aantal jaren, semesters of trimesters of, in het algemeen, de totale studieduur te vermelden.
 
-#### Artikel 5
+##### Artikel 5
 
 De Overeenkomstsluitende Staten verbinden zich tot het nemen van de noodzakelijke maatregelen ten einde, met het oog op de uitoefening van een hoger beroep, zo spoedig mogelijk tot erkenning te komen van diploma's, getuigschriften of academische graden van hoger onderwijs die door de bevoegde autoriteiten van een andere Overeenkomstsluitende Staat zijn verleend.
 
-#### Artikel 6
+##### Artikel 6
 
 De Overeenkomstsluitende Staten verbinden zich zo spoedig mogelijk maatregelen te treffen met betrekking tot de erkenning van gedeeltelijk voltooide hogere studies die in een andere Overeenkomstsluitende Staat of aan een instelling onder het gezag van die Staat zijn gevolgd.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De voordelen die krachtens de artikelen 3, 4, 5 en 6 zijn toegekend, zijn van toepassing op een ieder die zijn studie in een van de Overeenkomstsluitende Staten heeft gevolgd, ongeacht de nationaliteit van de desbetreffende persoon.
 
@@ -110,7 +132,7 @@ De Overeenkomstsluitende Staten verbinden zich zo spoedig mogelijk maatregelen t
 
 ## IV. ORGANISATIES EN PROCEDURE VOOR DE UITVOERING
 
-#### Artikel 8
+##### Artikel 8
 
 De Overeenkomstsluitende Staten verbinden zich te streven naar de verwezenlijking van de doelstellingen, omschreven in artikel 2, en de toepassing en naleving te verzekeren van de verplichtingen welke in de artikelen 3, 4, 5, 6 en 7 worden omschreven, en wel door middel van:
 
@@ -120,11 +142,11 @@ De Overeenkomstsluitende Staten verbinden zich te streven naar de verwezenlijkin
 
 - (c). bilaterale of sub-regionale organen.
 
-#### Artikel 9
+##### Artikel 9
 
 De Overeenkomstsluitende Staten beseffen dat voor de verwezenlijking van de doelstellingen en de naleving van de verplichtingen welke in deze Overeenkomst zijn omschreven, nauwe en voortdurende samenwerking en coördinatie op nationaal niveau nodig is tussen vele verschillende instanties, zowel overheidsinstanties als andere lichamen, en wel in het bijzonder tussen de universiteiten en andere onderwijsinstellingen. Zij verbinden zich er derhalve toe, ter bestudering en oplossing van de vraagstukken betreffende de toepassing van deze Overeenkomst, passende nationale organen in te stellen, waarin alle desbetreffende sectoren zijn vertegenwoordigd, en maatregelen van bestuurlijke aard te treffen, die erop zijn gericht een snelle en doeltreffende toepassing van deze Overeenkomst te verzekeren.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Er wordt een Regionale Commissie ingesteld, die bestaat uit vertegenwoordigers van alle Overeenkomstsluitende Staten; het Secretariaat hiervan bevindt zich in een Overeenkomstsluitende Staat die binnen de regio is gelegen en wordt geplaatst onder het gezag van de Directeur-Generaal van de Organisatie van de Verenigde Naties voor Onderwijs, Wetenschap en Cultuur.
 
@@ -132,23 +154,23 @@ De Overeenkomstsluitende Staten beseffen dat voor de verwezenlijking van de doel
 
 3. De Regionale Commissie doet algemene of specifieke aanbevelingen aan de Overeenkomstsluitende Staten.
 
-#### Artikel 11
+##### Artikel 11
 
 De Regionale Commissie kiest zelf een Voorzitter en stelt haar eigen huishoudelijk reglement vast. Zij komt ten minste eenmaal in de twee jaar bijeen, en wel voor de eerste maal drie maanden nadat de zesde akte van bekrachtiging is nedergelegd.
 
-#### Artikel 12
+##### Artikel 12
 
 De Overeenkomstsluitende Staten kunnen aan bilaterale of subregionale organen die reeds bestaan of speciaal voor dit doel zijn ingesteld, opdracht geven de vraagstukken die zich als gevolg van de toepassing van deze Overeenkomst op bilateraal of sub-regionaal niveau voordoen, te bestuderen en voorstellen te doen voor de oplossing daarvan.
 
 ## V. SAMENWERKING MET INTERNATIONALE ORGANISATIES
 
-#### Artikel 13
+##### Artikel 13
 
 De Overeenkomstsluitende Staten nemen passende maatregelen om zich te verzekeren van de samenwerking van de bevoegde gouvernementele en niet-gouvernementele internationale organisaties bij hun streven een doeltreffende toepassing van deze Overeenkomst te verzekeren. Zij sluiten met deze organisaties overeenkomsten en nemen te zamen met hen beslissingen inzake de meest passende vormen van samenwerking.
 
 ## VI. BEKRACHTIGING, TOETREDING EN INWERKINGTREDING
 
-#### Artikel 14
+##### Artikel 14
 
 Deze Overeenkomst staat open ter ondertekening en bekrachtiging:
 
@@ -156,19 +178,19 @@ Deze Overeenkomst staat open ter ondertekening en bekrachtiging:
 
 - (b). door andere Staten van Latijns-Amerika en het Caraïbische gebied die lid zijn van de Verenigde Naties, van een van de Gespecialiseerde Organisaties van de Verenigde Naties of van de Internationale Organisatie voor Atoomenergie, of door Staten die Partij zijn bij het Statuut van het Internationale Gerechtshof, welke kunnen worden uitgenodigd partij te worden bij deze Overeenkomst krachtens een besluit van de Regionale Commissie, dat is aangenomen met een meerderheid vast te stellen op grond van haar huishoudelijk reglement.
 
-#### Artikel 15
+##### Artikel 15
 
 De Regionale Commissie kan Staten die lid zijn van de Verenigde Naties, van een van de Gespecialiseerde Organisaties van de Verenigde Naties of van de Internationale Organisatie voor Atoomenergie, of Staten die partij zijn bij het Statuut van het Internationale Gerechtshof en die zijn gelegen buiten Latijns-Amerika en het Caraïbische gebied machtigen tot deze Overeenkomst toe te treden. In dit geval dient het besluit van de Regionale Commissie te worden genomen met twee derde meerderheid van de Overeenkomstsluitende Staten.
 
-#### Artikel 16
+##### Artikel 16
 
 Bekrachtiging van of toetreding tot deze Overeenkomst geschiedt door middel van nederlegging van een akte van bekrachtiging of toetreding bij de Directeur-Generaal van de Organisatie van de Verenigde Naties voor Onderwijs, Wetenschap en Cultuur.
 
-#### Artikel 17
+##### Artikel 17
 
 Deze Overeenkomst treedt in werking tussen de Staten welke haar hebben bekrachtigd, een maand na de nederlegging van de tweede akte van bekrachtiging. Vervolgens treedt zij in werking wat betreft de andere Staten, een maand nadat de desbetreffende Staat zijn akte van bekrachtiging of toetreding heeft nedergelegd.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De Overeenkomstsluitende Staten kunnen deze Overeenkomst opzeggen.
 
@@ -176,15 +198,15 @@ Deze Overeenkomst treedt in werking tussen de Staten welke haar hebben bekrachti
 
 3. De opzegging wordt van kracht twaalf maanden na de datum van ontvangst van zulk een kennisgeving.
 
-#### Artikel 19
+##### Artikel 19
 
 Deze Overeenkomst heeft generlei invloed op de internationale verdragen en overeenkomsten welke tussen de Overeenkomstsluitende Staten van kracht zijn of op reeds bestaande nationale normen ingevolge welke ruimere faciliteiten worden verleend dan die welke krachtens deze Overeenkomst verleend worden.
 
-#### Artikel 20
+##### Artikel 20
 
 De Directeur-Generaal van de Organisatie van de Verenigde Naties voor Onderwijs, Wetenschap en Cultuur stelt de Overeenkomstsluitende Staten en de andere Staten bedoeld in de artikelen 14 en 15, alsmede de Verenigde Naties in kennis van iedere nederlegging van de akten van bekrachtiging of toetreding bedoeld in artikel 16 en van iedere nederlegging van de akten van opzegging als bepaald in artikel 18.
 
-#### Artikel 21
+##### Artikel 21
 
 Deze Overeenkomst wordt overeenkomstig artikel 102 van het Handvest van de Verenigde Naties bij het Secretariaat van de Verenigde Naties geregistreerd op verzoek van de Directeur-Generaal van de Organisatie van de Verenigde Naties voor Onderwijs, Wetenschap en Cultuur.
 

@@ -1,13 +1,39 @@
 ---
-title: "Besluit plantgezondheid"
+title: "Besluit van 2 oktober 2020, houdende bepalingen in verband met plantgezondheid (Besluit plantgezondheid)"
 identifier: "BWBR0044299"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2021-03-01
-laatste_update: 2021-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044299"
+country: "nl"
+rank: "amvb"
+publication_date: "2021-03-01"
+last_updated: "2021-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044299"
+soort: "AMvB"
+stam_id: "15687543"
+version_id: "27179972"
+internal_id: "C38876901"
+label_id: "15626744"
+dtd_version: "2.0"
+original_entry_into_force: "2021-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044299/2021-03-01/0"
+intitule_bron: "Stb.2020-417"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-10-02"
+intitule_published: "2020-11-04"
+intitule_in_force: "2021-02-26"
+intitule_status: "goed"
+original_publication: "Stb.2020-417"
+original_signed_date: "2020-10-02"
+original_published_date: "2020-11-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2020-417"
+entry_into_force_date: "2021-03-01"
+jci_1_3: "jci1.3:c:BWBR0044299&z=2021-03-01&g=2021-03-01"
+jci_1_0: "1.0:c:BWBR0044299&g=2021-03-01"
+citeertitel_status: "officieel"
+short_title: "Besluit plantgezondheid"
+signed_date: "2020-10-02"
+entry_into_force: "2021-03-01"
 ---
-
 # Besluit van 2 oktober 2020, houdende bepalingen in verband met plantgezondheid (Besluit plantgezondheid)
 
 Op de voordracht van Onze Minister van Landbouw, Natuur en Voedselkwaliteit, mede namens Onze Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, nr. WJZ / 20174665;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -52,7 +78,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 2. Bevoegde autoriteit
 
-#### Artikel 2
+##### Artikel 2
 
 De BKD wordt aangewezen als bevoegde autoriteit met betrekking tot bloembollen voor:
 
@@ -76,7 +102,7 @@ De BKD wordt aangewezen als bevoegde autoriteit met betrekking tot bloembollen v
 
 - h. het beslissen over zendingen als bedoeld in artikel 55 van [verordening 2017/625](32525R2017).
 
-#### Artikel 3
+##### Artikel 3
 
 De NAK wordt aangewezen als bevoegde autoriteit met betrekking tot landbouwgewassen voor:
 
@@ -100,7 +126,7 @@ De NAK wordt aangewezen als bevoegde autoriteit met betrekking tot landbouwgewas
 
 - h. het beslissen over zendingen als bedoeld in artikel 55 van [verordening 2017/625](32525R2017).
 
-#### Artikel 4
+##### Artikel 4
 
 De Naktuinbouw wordt aangewezen als bevoegde autoriteit met betrekking tot tuinbouw- en bosbouwgewassen voor:
 
@@ -124,7 +150,7 @@ De Naktuinbouw wordt aangewezen als bevoegde autoriteit met betrekking tot tuinb
 
 - h. het beslissen over zendingen als bedoeld in artikel 55 van [verordening 2017/625](32525R2017).
 
-#### Artikel 5
+##### Artikel 5
 
 De KCB wordt aangewezen als bevoegde autoriteit met betrekking tot planten, plantaardige producten, voor opplant bestemde planten en ander materiaal voor:
 
@@ -150,7 +176,7 @@ De KCB wordt aangewezen als bevoegde autoriteit met betrekking tot planten, plan
 
 ### Hoofdstuk 3. Preventie
 
-#### Artikel 6
+##### Artikel 6
 
 Bij ministeriële regeling kunnen regels worden gesteld voor de beheersing van risico’s op schadelijke organismen bij planten, plantaardige producten en ander materiaal op het gebied van onder meer:
 
@@ -162,7 +188,7 @@ Bij ministeriële regeling kunnen regels worden gesteld voor de beheersing van r
 
 ### Hoofdstuk 4. Retributies
 
-#### Artikel 7
+##### Artikel 7
 
 1. Onze Minister stuurt als bevoegde autoriteit een factuur voor retributies als bedoeld in [artikel 21, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=21).
 
@@ -188,7 +214,7 @@ Bij ministeriële regeling kunnen regels worden gesteld voor de beheersing van r
 
 ### Hoofdstuk 5. Bestuurlijke boete
 
-#### Artikel 8
+##### Artikel 8
 
 1. De hoogte van de bestuurlijke boete die Onze Minister aan een overtreder voor een overtreding van het bepaalde bij of krachtens de [artikelen 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=8), [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=13), [15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=15), [20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=20), [24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=24), en [25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=25) kan opleggen wordt overeenkomstig de volgende boetecategorieën vastgesteld:
 
@@ -208,17 +234,17 @@ Bij ministeriële regeling kunnen regels worden gesteld voor de beheersing van r
 
 ### Hoofdstuk 6. Overgangsbepaling
 
-#### Artikel 9
+##### Artikel 9
 
 Voor besluiten die voor het tijdstip van inwerkingtreding van de [Plantgezondheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043194) zijn genomen op basis van het [Besluit bestrijding schadelijke organismen](https://wetten.overheid.nl/jci1.3:c:BWBR0005206), blijft het recht gelden zoals dat luidde onmiddellijk voor het tijdstip van inwerkingtreding van de Plantgezondheidswet.
 
 ### Hoofdstuk 7. Slotbepalingen
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 11
+##### Artikel 11
 
 Dit besluit wordt aangehaald als: Besluit plantgezondheid.
 

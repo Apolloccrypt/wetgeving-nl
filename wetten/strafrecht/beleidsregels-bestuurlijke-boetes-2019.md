@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregels bestuurlijke boetes 2019"
+title: "Beleidsregels van het Commissariaat voor de Media van 25 juni 2019 over bestuurlijke boetes in het kader van de Mediawet 2008 (Beleidsregels bestuurlijke boetes 2019)"
 identifier: "BWBR0042389"
-categorie: "Strafrecht"
-publicatiedatum: 2019-07-11
-laatste_update: 2019-07-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042389"
+country: "nl"
+rank: "zbo"
+publication_date: "2019-07-11"
+last_updated: "2019-07-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042389"
+soort: "zbo"
+stam_id: "15118103"
+version_id: "25916252"
+internal_id: "C36928351"
+label_id: "15066294"
+dtd_version: "2.0"
+original_entry_into_force: "2019-07-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042389/2019-07-11/0"
+intitule_bron: "Stcrt.2019-37780"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-06-25"
+intitule_published: "2019-07-10"
+intitule_in_force: "2019-07-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-37780"
+original_signed_date: "2019-06-25"
+original_published_date: "2019-07-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-37780"
+entry_into_force_date: "2019-07-11"
+jci_1_3: "jci1.3:c:BWBR0042389&z=2019-07-11&g=2019-07-11"
+jci_1_0: "1.0:c:BWBR0042389&g=2019-07-11"
+citeertitel_status: "officieel"
+short_title: "Beleidsregels bestuurlijke boetes 2019"
+signed_date: "2019-06-25"
+entry_into_force: "2019-07-11"
 ---
-
 # Beleidsregels van het Commissariaat voor de Media van 25 juni 2019 over bestuurlijke boetes in het kader van de Mediawet 2008 (Beleidsregels bestuurlijke boetes 2019)
 
 Gelet op de [artikelen 7.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=7.11) en [7.12 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=7.12) en [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81),
@@ -22,7 +48,7 @@ dat het Commissariaat voor de Media inzicht wenst te geven in de wijze waarop he
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze beleidsregels wordt verstaan onder:
 
@@ -32,17 +58,17 @@ In deze beleidsregels wordt verstaan onder:
 
 - –. **het Commissariaat:** het Commissariaat voor de Media.
 
-#### Artikel 2. Reikwijdte
+##### Artikel 2. Reikwijdte
 
 Deze beleidsregels zijn van toepassing op alle overtredingen waarbij het Commissariaat op basis van [artikel 7.12 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=7.12) bevoegd is om een bestuurlijke boete op te leggen.
 
-#### Artikel 3. Hoogte boete
+##### Artikel 3. Hoogte boete
 
 1. Het Commissariaat bepaalt de hoogte van een bestuurlijke boete overeenkomstig het bepaalde in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042389&artikel=4&z=2019-07-11&g=2019-07-11) en verder van deze beleidsregels, tenzij de boete betrekking heeft op overtreding van [artikel 2.34, eerste lid, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.34).
 
 2. Het Commissariaat bepaalt de hoogte van een bestuurlijke boete bij overtreding van [artikel 2.34, eerste lid, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.34) overeenkomstig het bepaalde in [artikel 7.12, tweede lid, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=7.12).
 
-#### Artikel 4. Overtreden norm
+##### Artikel 4. Overtreden norm
 
 De door het Commissariaat te handhaven normen zijn, afhankelijk van een algemene waardering van de aard van de betreffende norm, onderverdeeld in de volgende categorieën:
 
@@ -52,11 +78,11 @@ De door het Commissariaat te handhaven normen zijn, afhankelijk van een algemene
 
 - c. Categorie C: overtreding van enig ander bij of krachtens de [Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028) gesteld voorschrift op de naleving waarvan het Commissariaat toeziet en waarvoor het Commissariaat de bevoegdheid heeft een bestuurlijke boete op te leggen.
 
-#### Artikel 5. Ernst van de overtreding
+##### Artikel 5. Ernst van de overtreding
 
 De ernst van de overtreding in het concrete geval beoordeelt het Commissariaat aan de hand van de relevante omstandigheden van het geval. Het Commissariaat beoordeelt of er in het concrete geval omstandigheden bestaan die ertoe leiden dat het de overtreding als licht (zwaarte I) of als zeer ernstig (zwaarte III) aanmerkt. Bij afwezigheid van dergelijke omstandigheden gaat het Commissariaat uit van een overtreding met zwaarte II.
 
-#### Artikel 6. Basisboete
+##### Artikel 6. Basisboete
 
 1. Bij het bepalen van de hoogte van een bestuurlijke boete in het concrete geval neemt het Commissariaat de toepasselijke basisboete uit onderstaande tabellen als uitgangspunt.
 
@@ -96,7 +122,7 @@ Tabel 3
 
 7. Als de omstandigheden genoemd in de leden 4 t/m 6 van dit artikel niet van toepassing zijn op de overtreder, dan gelden de bedragen in de tabel in lid 4 van dit artikel als basisboete.
 
-#### Artikel 7. Boeteverhogende en -verlagende omstandigheden
+##### Artikel 7. Boeteverhogende en -verlagende omstandigheden
 
 1. Bij de vaststelling van de hoogte van de bestuurlijke boete neemt het Commissariaat eventuele boeteverhogende en ‑verlagende omstandigheden in aanmerking. Dit kan leiden tot een verhoging of verlaging van de basisboete.
 
@@ -118,20 +144,20 @@ Tabel 3
 
 4. Naast de hiervoor vermelde boeteverhogende en -verlagende omstandigheden, kan het Commissariaat ook andere omstandigheden in aanmerking nemen als boeteverhogende of ‑verlagende omstandigheid.
 
-#### Artikel 8. Afwijking
+##### Artikel 8. Afwijking
 
 Indien de uitzonderlijke omstandigheden van het geval hiertoe naar het oordeel van het Commissariaat aanleiding geven, kan het Commissariaat afwijken van de hiervoor, in de [artikelen 4 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0042389&artikel=4&z=2019-07-11&g=2019-07-11), neergelegde berekeningssystematiek voor de bepaling van de hoogte van een bestuurlijke boete.
 
-#### Artikel 9. Intrekking [Beleidslijn Sanctiemaatregelen 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0029893)
+##### Artikel 9. Intrekking [Beleidslijn Sanctiemaatregelen 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0029893)
 
 De [Beleidslijn Sanctiemaatregelen 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0029893) wordt ingetrokken.
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 1. Deze beleidsregels worden bekendgemaakt door kennisgeving ervan in de Staatscourant en op de internetsite van het Commissariaat (www.cvdm.nl).
 
 2. Deze beleidsregels treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin dit besluit wordt geplaatst.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Deze beleidsregels worden aangehaald als: Beleidsregels bestuurlijke boetes 2019.

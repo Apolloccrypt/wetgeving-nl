@@ -1,14 +1,37 @@
 ---
-title: "Wet samenvoeging van de gemeenten Geffen en Nuland"
+title: "Wet van 27 februari 1992, houdende samenvoeging van de gemeenten Geffen en Nuland"
 identifier: "BWBR0005432"
-categorie: "Bestuursrecht"
-publicatiedatum: 1992-05-28
-laatste_update: 1992-05-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005432"
+country: "nl"
+rank: "wet"
+publication_date: "1992-05-28"
+last_updated: "1992-05-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005432"
+soort: "wet"
+stam_id: "113883"
+version_id: "156712"
+internal_id: "C156711"
+label_id: "114244"
+dtd_version: "2.0"
+original_entry_into_force: "1992-05-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005432/1992-05-28/0"
+intitule_bron: "Stb.1992-280"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-02-27"
+intitule_status: "goed"
+original_publication: "Stb.1992-280"
+original_signed_date: "1992-02-27"
+original_effect: "nieuwe-regeling"
+original_dossier: "22230"
+entry_into_force_date: "1992-05-28"
+jci_1_3: "jci1.3:c:BWBR0005432&z=1992-05-28&g=1992-05-28"
+jci_1_0: "1.0:c:BWBR0005432&g=1992-05-28"
+citeertitel_status: "officieel"
+short_title: "Wet samenvoeging van de gemeenten Geffen en Nuland"
+signed_date: "1992-02-27"
+entry_into_force: "1992-05-28"
 ---
-
-# Wet samenvoeging van de gemeenten Geffen en Nuland
+# Wet van 27 februari 1992, houdende samenvoeging van de gemeenten Geffen en Nuland
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +39,7 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is de gemeenten Geffen 
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Met ingang van de datum van herindeling worden de gemeenten Geffen en Nuland opgeheven.
 
@@ -42,27 +65,27 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - J. Grens tussen de gemeenten Berlicum en Rosmalen De nieuwe grens tussen de gemeenten Berlicum en Rosmalen begint in het ontmoetingspunt van de percelen, kadastraal bekend gemeente Rosmalen, sectie D, nrs. 2028, 2355, gemeente Nuland, sectie C, nrs. 2924 en 2191, en volgt in westelijke richting de gemeenschappelijke grens van de percelen, kadastraal bekend gemeente Rosmalen, sectie D, nrs. 2355, 2027, 1374 en 2233, enerzijds en gemeente Rosmalen, sectie D, nrs. 2028 en 2231, anderzijds, tot het ontmoetingspunt van de percelen, kadastraal bekend gemeente Rosmalen, sectie D, nrs. 2233, 2231 en gemeente Berlicum, sectie M, nr. 6.
 
-#### Artikel 2
+##### Artikel 2
 
 Voor de toepassing van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=36), eerste en tweede lid, en van [artikel 52, eerste lid, van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=52) (**Stb.** 1991, 317) wordt aangewezen de gemeente Geffen.
 
-#### Artikel 3
+##### Artikel 3
 
 Voor de toepassing van de artikelen 39, tweede lid, 41, derde lid, 44, eerste lid, 45, tweede lid, 48, tweede lid, 59, eerste lid, en 70, eerste lid, van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005432&artikel=2&z=1992-05-28&g=1992-05-28) bedoelde wet, wordt aangewezen de nieuwe gemeente Maasdonk.
 
-#### Artikel 4
+##### Artikel 4
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 5
+##### Artikel 5
 
 In het gebied waarop deze wet van toepassing is, blijft de organisatie van het Korps Rijkspolitie gelijk aan die op de dag voorafgaande aan de datum van herindeling tot het tijdstip waarop Onze Minister van Justitie de organisatie van dat Korps in overeenstemming met het bepaalde in [artikel 13 van de Politiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=13) heeft gebracht.
 
-#### Artikel 6
+##### Artikel 6
 
 Onze Minister van Binnenlandse Zaken stelt, voor zover nodig, binnen één maand na inwerkingtreding van deze wet, de definitieve grensbeschrijving vast.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 

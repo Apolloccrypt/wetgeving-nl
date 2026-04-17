@@ -1,13 +1,36 @@
 ---
 title: "Voortzetting ondersteuning onderwijs aan zieke leerlingen in het schooljaar 2003-2004"
 identifier: "BWBR0014940"
-categorie: "Onderwijs"
-publicatiedatum: 2003-04-23
-laatste_update: 2003-04-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0014940"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2003-04-23"
+last_updated: "2003-04-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0014940"
+soort: "beleidsregel"
+stam_id: "6487053"
+version_id: "11166262"
+internal_id: "C15089611"
+label_id: "6475584"
+original_entry_into_force: "2003-04-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0014940/2003-04-23/0"
+intitule_bron: "Uitleg.2003-12"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-04-09"
+intitule_published: "2003-04-23"
+intitule_in_force: "2003-04-23"
+intitule_status: "goed"
+original_publication: "Uitleg.2003-12"
+original_signed_date: "2003-04-09"
+original_published_date: "2003-04-23"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2003-04-23"
+jci_1_3: "jci1.3:c:BWBR0014940&z=2003-04-23&g=2003-04-23"
+jci_1_0: "1.0:c:BWBR0014940&g=2003-04-23"
+citeertitel_status: "redactioneel"
+signed_date: "2003-04-09"
+entry_into_force: "2003-04-23"
 ---
-
 # Voortzetting ondersteuning onderwijs aan zieke leerlingen in het schooljaar 2003-2004
 
 In de huidige wettelijk regeling van de ondersteuning van het onderwijs aan zieke leerlingen ([Wijziging van de Wet op de expertise centra, de Wet op het primair onderwijs, de Wet op het voortgezet onderwijs, de Wet op het hoger onderwijs en wetenschappelijk onderzoek inzake het onderwijs aan zieke leerlingen](https://wetten.overheid.nl/jci1.3:c:BWBR0010086), Stb 1998, 733) is een jaarlijkse specifieke uitkering aan de gemeenten voorzien tot 1 augustus 2003 (zie artikel IX van de regeling).

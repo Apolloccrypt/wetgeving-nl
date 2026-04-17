@@ -1,13 +1,38 @@
 ---
-title: "Warenwetregeling containers"
+title: "Uitvoering Wet op de gevaarlijke werktuigen en Besluit containers"
 identifier: "BWBR0003763"
-categorie: "Overig"
-publicatiedatum: 2015-01-01
-laatste_update: 2015-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003763"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2015-01-01"
+last_updated: "2015-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003763"
+soort: "ministeriele-regeling"
+stam_id: "4874313"
+version_id: "7804572"
+internal_id: "C9520861"
+label_id: "4852464"
+dtd_version: "2.0"
+original_entry_into_force: "1985-06-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003763/2015-01-01/0"
+intitule_bron: "Stcrt.1985-23"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1985-01-28"
+intitule_published: "1985-02-01"
+intitule_in_force: "1985-06-28"
+intitule_status: "goed"
+original_publication: "Stcrt.1985-23"
+original_signed_date: "1985-01-28"
+original_published_date: "1985-02-01"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1985-06-30"
+jci_1_3: "jci1.3:c:BWBR0003763&z=2015-01-01&g=2015-01-01"
+jci_1_0: "1.0:c:BWBR0003763&g=2015-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Warenwetregeling containers"
+signed_date: "1985-01-28"
+entry_into_force: "1985-06-30"
 ---
-
 # Uitvoering Wet op de gevaarlijke werktuigen en Besluit containers
 
 Gelet op artikel 4, tweede lid, eerste zin, vijfde en zesde lid, artikel 5, derde en vierde lid, artikel 11, eerste lid, en artikel 12, eerste lid, eerste zin, van de Wet op de gevaarlijke werktuigen (Stb. 1952 104), alsmede [artikel 2, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&artikel=2), [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&artikel=8), en [artikel 15, derde lid, van het Besluit containers](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&artikel=15) (Stb. 1983, 177).
@@ -16,7 +41,7 @@ Besluit:
 
 ### Hoofdstuk I. Inleidende bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -32,7 +57,7 @@ In deze regeling wordt verstaan onder:
 
 - f. Rg: het maximaal toelaatbare gewicht van de container tezamen met zijn lading.
 
-#### Artikel 2
+##### Artikel 2
 
 Als wissellaadbakken, bedoeld in [artikel 1a, onder 3°, van het Warenwetbesluit containers](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&artikel=1a), worden aangemerkt containers die:
 
@@ -42,11 +67,11 @@ Als wissellaadbakken, bedoeld in [artikel 1a, onder 3°, van het Warenwetbesluit
 
 ### Hoofdstuk II. Keuring
 
-#### Artikel 3
+##### Artikel 3
 
 De beproevingen, bedoeld in [artikel 8, eerste lid, van het Warenwetbesluit containers](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&artikel=8), worden uitgevoerd overeenkomstig het bepaalde in de [artikelen 4 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003763&hoofdstuk=II&artikel=4&z=2015-01-01&g=2015-01-01).
 
-#### Artikel 4
+##### Artikel 4
 
 1. Bij de hefbeproeving wordt de container op zodanige wijze opgehesen, dat er zo weinig mogelijk versnellingskrachten ontstaan. Daarna wordt de container gedurende vijf minuten opgehesen gehouden of ondersteund en vervolgens op de begane grond geplaatst.
 
@@ -87,7 +112,7 @@ Bij een tankcontainer wordt, indien de totale massa van de container en de inwen
 
 6. Een container die ingericht is om in beladen toestand te worden opgehesen of opgeheven volgens een methode, anders dan bedoeld in het tweede, derde of vierde lid, moet tevens worden onderworpen aan een inwendige belasting en aan uitwendig uitgeoefende krachten, welke de aan die methode eigen versnellingskrachten typeren.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Bij de stapelbeproeving wordt de container met het midden van elk van de vier bodemhoekstukken geplaatst op steunblokken waarvan de bovenzijden zich in één horizontaal plat vlak bevinden, de afmetingen zoveel mogelijk overeenstemmen met die van de bodemhoekstukken en de onderzijden rusten op een niet vervormbaar horizontaal oppervlak.
 
@@ -103,7 +128,7 @@ Bij een tankcontainer wordt, indien de totale massa van de container en de inwen
 
 5. Tankcontainers kunnen in onbeladen toestand worden beproefd.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De puntbelastingsbeproeving wordt uitgevoerd op de buitenzijde van het dak en op de binnenzijde van de bodem van de container.
 
@@ -111,7 +136,7 @@ Bij een tankcontainer wordt, indien de totale massa van de container en de inwen
 
 3. Bij de puntbelastingsbeproeving op de binnenzijde van de bodem wordt de container met de bodemhoeken geplaatst op steunblokken waarvan de bovenzijden zich in één horizontaal vlak bevinden, en wel zodanig dat het bodemraam van de container vrij kan buigen. In deze stand van de container wordt over zijn gehele bodem een proeflast voortbewogen van 54,6 kg, bestaande in twee lasten van 27,3 kg die elk met de bodem een aanrakingsoppervlakte hebben van 142 cm² bij een breedte van 180 mm en waarvan de middelpunten 760 mm van elkaar verwijderd zijn.
 
-#### Artikel 7
+##### Artikel 7
 
 Bij de torsiebeproeving wordt de container in onbeladen toestand met elk van de bodemhoeken bevestigd op steunblokken waarvan de bovenzijden zich in één horizontaal vlak bevinden, en wel zodanig dat de container niet in vertikale richting kan worden bewogen en dat zijwaartse beweging met alleen wordt verhinderd aan de bodemhoeken die diagonaal gelegen zijn tegenover de hoeken waarop de beproevingskrachten worden uitgeoefend. In deze stand van de container wordt afzonderlijk of gelijktijdig op de kopstructuren een zodanige uitwendige belasting, gelijk aan die waarvoor de container ontworpen is, uitgeoefend dat hij zijwaarts wordt geduwd en getrokken en wel:
 
@@ -121,7 +146,7 @@ Bij de torsiebeproeving wordt de container in onbeladen toestand met elk van de 
 
 een en ander in de richting van de bovenhoekstukken langs lijnen, evenwijdig met het bodemraam en de vlakken van de kopwanden, en vervolgens in omgekeerde richting.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Bij de beproeving van de weerstand tegen vervorming in de lengterichting (statische belasting) wordt de container aan twee bodemhoekstukken die zich aan één zijde van de container bevinden, in de lengterichting vastgezet aan deugdelijke verankeringspunten. In deze stand wordt de container onderworpen aan:
 
@@ -131,7 +156,7 @@ een en ander in de richting van de bovenhoekstukken langs lijnen, evenwijdig met
 
 2. Wanneer bij een tankcontainer de totale massa van de container en de inwendig aangebrachte beproevingsbelasting minder is dan R, wordt op die container een aanvullende belasting aangebracht.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Bij de beproeving van de kopwanden wordt een inwendige, gelijkmatig verdeelde, kracht van 0,4 × de zwaartekracht bij Pg uitgeoefend op:
 
@@ -143,7 +168,7 @@ een en ander in de richting van de bovenhoekstukken langs lijnen, evenwijdig met
 
 3. Indien de kopwanden van een container zodanig ontworpen zijn dat zij een andere kracht dan 0,4 × de zwaartekracht bij Pg kunnen weerstaan, moet, in afwijking van het eerste lid, die andere belasting worden uitgeoefend.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Bij de beproeving van de zijwanden wordt een inwendige, gelijkmatig verdeelde, kracht van 0,6 × de zwaartekracht bij Pg uitgeoefend op:
 
@@ -159,11 +184,11 @@ een en ander in de richting van de bovenhoekstukken langs lijnen, evenwijdig met
 
 ### Hoofdstuk III. Merk van goedkeuring
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 1. Het merk van goedkeuring van een container bestaat in een plaat van duurzaam corrosie- en brandbestendig materiaal met een formaat van ten minste 200 mm × 100 mm, waarop in ten minste de Engelse of de Franse taal duidelijk en onuitwisbaar met betrekking tot de container vermeld moeten zijn:
 
@@ -197,7 +222,7 @@ Vervallen
 
 3. Wanneer het toelaatbaar stapelgewicht of de belastingswaarde bij torsiebeproeving lager is dan 192.000 kg respectievelijk 150 kN, wordt de container geacht een verminderd stapelvermogen respectievelijk een verminderde bestendigheid bij torsiebelasting te hebben en wordt zulks op een goed zichtbare plaats op vermeld op de plaat, bedoeld in het eerste lid, met inachtneming van het tweede lid.
 
-#### Artikel 13
+##### Artikel 13
 
 Fabrikanten van en handelaren in containers zijn bevoegd om containers die geheel overeenkomstig een of meer goedgekeurde, het type kenmerkende monsters vervaardigd zijn, te voorzien van het merk van goedkeuring, onder voorwaarde dat:
 
@@ -219,39 +244,39 @@ Fabrikanten van en handelaren in containers zijn bevoegd om containers die gehee
 
 - f. de aangewezen instelling in de gelegenheid wordt gesteld om tijdens de vervaardiging van de containers door onderzoekingen of beproevingen te controleren of die containers met het goedgekeurde monster of de goedgekeurde monsters overeenkomen.
 
-#### Artikel 14
+##### Artikel 14
 
 Met het merk van goedkeuring worden gelijkgesteld de merken van goedkeuring die in de staten, zijnde Partijen bij de Internationale Overeenkomst voor Veilige Containers (Trb. 1976, 28) in overeenstemming met de aldaar geldende wettelijke en bestuursrechtelijke regelen op containers aangebracht zijn.
 
 ### Hoofdstuk IV. Keuringstarief
 
-#### Artikel 15
+##### Artikel 15
 
 De toezichthouder onderwerpt een goedgekeurde container aan controle met inachtneming van Bijlage III, paragrafen 1, 2 en 4, bij de Internationale Overeenkomst voor veilige containers, 1972 (Trb. 1976, 28).
 
 ### Hoofdstuk IV. Toezicht
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
-#### Artikel 17
-
-Vervallen
-
-### Hoofdstuk VI. Merk van afkeuring
-
-#### Artikel 18
+##### Artikel 17
 
 Vervallen
 
 ### Hoofdstuk VI. Merk van afkeuring
 
-#### Artikel 19. Citeertitel
+##### Artikel 18
+
+Vervallen
+
+### Hoofdstuk VI. Merk van afkeuring
+
+##### Artikel 19. Citeertitel
 
 Deze regeling wordt aangehaald als: Warenwetregeling containers.
 
-#### Artikel 2a
+##### Artikel 2a
 
 In het jaarverslag, bedoeld in [artikel 7c, tweede lid, van de Warenwet](onbekend), worden door de aangewezen instelling ten minste de volgende onderwerpen behandeld:
 
@@ -289,7 +314,7 @@ In het jaarverslag, bedoeld in [artikel 7c, tweede lid, van de Warenwet](onbeken
 
 ### Hoofdstuk VII. Slotbepalingen
 
-#### Artikel 10a
+##### Artikel 10a
 
 1. Containers met één ontbrekende deur worden voor gebruik gekeurd.
 

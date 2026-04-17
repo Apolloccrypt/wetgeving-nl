@@ -1,13 +1,38 @@
 ---
 title: "Overeenkomst inzake de instandhouding van kleine walvisachtigen in de Baltische Zee, de Noordoost-Atlantische Oceaan, de Ierse Zee en de Noordzee"
 identifier: "BWBV0001069"
-categorie: "Internationaal recht"
-publicatiedatum: 2008-02-03
-laatste_update: 2008-02-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001069"
+country: "nl"
+rank: "verdrag"
+publication_date: "2008-02-03"
+last_updated: "2008-02-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001069"
+soort: "verdrag"
+stam_id: "10002311743"
+version_id: "10002321522"
+internal_id: "C10006976291"
+label_id: "10002301764"
+dtd_version: "2.0"
+original_entry_into_force: "1994-03-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001069/2008-02-03/0"
+intitule_bron: "Trb.1992-137"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-12-29"
+intitule_published: "1992-09-24"
+intitule_in_force: "1994-05-31"
+intitule_status: "goed"
+original_publication: "Trb.1992-137"
+original_signed_date: "1992-12-29"
+original_published_date: "1992-09-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1992-137"
+entry_into_force_date: "1994-03-29"
+jci_1_3: "jci1.3:c:BWBV0001069&z=2008-02-03&g=2008-02-03"
+jci_1_0: "1.0:c:BWBV0001069&g=2008-02-03"
+citeertitel_status: "redactioneel"
+signed_date: "1992-12-29"
+entry_into_force: "1994-03-29"
 ---
-
 # Overeenkomst inzake de instandhouding van kleine walvisachtigen in de Baltische Zee, de Noordoost-Atlantische Oceaan, de Ierse Zee en de Noordzee
 
 The Parties,
@@ -36,7 +61,7 @@ Referring to the Memorandum of Understanding on Small Cetaceans in the North Sea
 
 Have agreed as follows:
 
-#### 1. Scope and interpretation
+##### 1. Scope and interpretation
 
 1.1. This agreement shall apply to all small cetaceans found within the area of the agreement.
 
@@ -56,7 +81,7 @@ Have agreed as follows:
 
 - g). “Secretariat” means, unless the context otherwise indicates, the Secretariat to this agreement.
 
-#### 2. Purpose and basic arrangements
+##### 2. Purpose and basic arrangements
 
 2.1. The Parties should undertake to cooperate in order to achieve and maintain a favourable conservation status for small cetaceans.
 
@@ -70,11 +95,11 @@ Have agreed as follows:
 
 2.6. The provisions of this agreement shall not affect the rights of a Party to take stricter measures for the conservation of small cetaceans.
 
-#### 3. The Coordinating Authority
+##### 3. The Coordinating Authority
 
 3.1. The activities of each Party shall be coordinated and monitored through its Coordinating Authority which shall serve as the contact point for the Secretariat and the Advisory Committee in their work.
 
-#### 4. The Secretariat
+##### 4. The Secretariat
 
 4.1. The Secretariat shall, following instructions provided by the meetings of the Parties, promote and coordinate the activities undertaken in accordance with Article 6.1 of this agreement and shall, in close consultation with the Advisory Committee, provide advice and support to the Parties and their Coordinating Authorities.
 
@@ -84,7 +109,7 @@ Have agreed as follows:
 
 4.4. The Secretariat shall be attached to a public institution of a Party or to an international body, and that institution or body shall be the employer of its staff.
 
-#### 5. The Advisory Committee
+##### 5. The Advisory Committee
 
 5.1. The Meeting of the Parties shall establish an Advisory Committee to provide expert advice and information to the Secretariat and the Parties on the conservation and management of small cetaceans and on other matters in relation to the running of the agreement, having regard to the need not to duplicate the work of other international bodies and the desirability of drawing on their expertise.
 
@@ -94,7 +119,7 @@ Have agreed as follows:
 
 5.4. Each Committee member may be accompanied by advisers, and the Committee may invite other experts to attend its meetings. The Committee may establish working groups.
 
-#### 6. The Meeting of the Parties
+##### 6. The Meeting of the Parties
 
 6.1. The Parties shall meet, at the invitation of the Bonn Convention Secretariat on behalf of any Party, within one year of the entry into force of this agreement, and thereafter, at the notification of the Secretariat, not less than once every three years to review the progress made and difficulties encountered in the implementation and operation of the agreement since the last Meeting, and to consider and decide upon :
 
@@ -130,7 +155,7 @@ Have agreed as follows:
 
 - b). be considered as a Party to the unamended Agreement in relation to any Party not bound by the Amendment.
 
-#### 7. Financing
+##### 7. Financing
 
 7.1. The Parties agree to share the cost of the budget, with Regional Economic Organizations contributing 2.5 per cent of the administrative costs and other Parties sharing the balance in accordance with the United Nations scale, but with a maximum of 25 per cent per Party.
 
@@ -138,7 +163,7 @@ Have agreed as follows:
 
 7.3. The Secretariat shall prepare and keep financial accounts by calender years.
 
-#### 8. Legal matters and formalities
+##### 8. Legal matters and formalities
 
 8.1. This is an agreement within the meaning of the [Bonn Convention, Article IV (4)](https://wetten.overheid.nl/jci1.3:c:BWBV0004769&artikel=IV).
 

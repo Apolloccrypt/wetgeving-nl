@@ -1,13 +1,35 @@
 ---
 title: "Verdrag betreffende geneeskundige verzorging en uitkeringen bij ziekte"
 identifier: "BWBV0004668"
-categorie: "Sociaal recht"
-publicatiedatum: 2007-01-17
-laatste_update: 1969-06-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004668"
+country: "nl"
+rank: "verdrag"
+publication_date: "2007-01-17"
+last_updated: "1969-06-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004668"
+soort: "verdrag"
+stam_id: "10004251053"
+version_id: "10004439212"
+internal_id: "C10006984661"
+label_id: "10004236964"
+dtd_version: "2.0"
+original_entry_into_force: "2007-01-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004668/2007-01-17/0"
+intitule_bron: "Trb.1970-136"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1970-08-26"
+intitule_in_force: "2006-05-12"
+intitule_status: "goed"
+original_publication: "Trb.1970-136"
+original_published_date: "1970-08-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1970-136"
+entry_into_force_date: "2007-01-17"
+jci_1_3: "jci1.3:c:BWBV0004668&z=2007-01-17&g=2007-01-17"
+jci_1_0: "1.0:c:BWBV0004668&g=2007-01-17"
+citeertitel_status: "redactioneel"
+entry_into_force: "2007-01-17"
 ---
-
 # Verdrag betreffende geneeskundige verzorging en uitkeringen bij ziekte
 
 De Algemene Conferentie van de Internationale Arbeidsorganisatie,
@@ -22,7 +44,7 @@ neemt heden, de 25ste juni 1969, het volgende Verdrag aan, hetwelk kan worden aa
 
 ## DEEL I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -52,7 +74,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - (k). „geneeskundige verzorging”: de geneeskundige zorg met alle daaraan verbonden diensten.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een Lid dat op economisch en medisch gebied nog niet voldoende tot ontwikkeling is gekomen kan door een bij de akte van bekrachtiging gevoegde gemotiveerde verklaring zich het recht voorbehouden tot tijdelijke toepassing van de afwijkende bepalingen, voorzien in artikel 1, alinea **(g)**, (i) , artikel 11, artikel 14, artikel 20, en artikel 26, lid 2.
 
@@ -70,7 +92,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - (c). de duur van het verlenen van uitkeringen bij ziekte verlengen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Elk Lid wiens wetgeving werknemers beschermt, kan door een bij de akte van bekrachtiging gevoegde verklaring tijdelijk van de toepassing van dit Verdrag uitzonderen de werknemers in de agrarische sector, die ten tijde van bedoelde bekrachtiging nog niet door een wettelijke regeling overeenkomstig de normen van dit Verdrag beschermd zijn.
 
@@ -78,7 +100,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 3. Elk Lid dat een verklaring heeft afgelegd overeenkomstig het eerste lid van dit artikel moet, naar mate de omstandigheden dit toelaten, het aantal beschermde werknemers in de agrarische sector verhogen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Elk Lid dat dit Verdrag bekrachtigt, kan door een bij de akte van bekrachtiging gevoegde verklaring van de toepassing van het Verdrag uitsluiten:
 
@@ -96,7 +118,7 @@ wanneer deze categorieën beschermd worden door bijzondere regelingen, die, over
 
 3. Elk Lid dat een verklaring ingevolge lid 1 van dit artikel heeft afgelegd, kan later de Directeur-Generaal van het Internationale Arbeidsbureau ervan in kennis stellen, dat het de verplichtingen van dit Verdrag aanvaardt met betrekking tot de categorie of categorieën personen die het bij zijn bekrachtiging heeft uitgesloten.
 
-#### Artikel 5
+##### Artikel 5
 
 Elk Lid wiens wetgeving werknemers beschermt, kan indien nodig, van de toepassing van dit Verdrag uitzonderen:
 
@@ -106,7 +128,7 @@ Elk Lid wiens wetgeving werknemers beschermt, kan indien nodig, van de toepassin
 
 - (c). andere categorieën werknemers, waarvan het aantal niet meer mag bedragen dan 10% van het totaal der werknemers, ongerekend zij die door toepassing van de alinea's **(a)** en **(b)** van dit artikel zijn uitgezonderd.
 
-#### Artikel 6
+##### Artikel 6
 
 Voor de toepassing van dit Verdrag mag een Lid rekening houden met de bescherming, voortvloeiende uit een verzekering die op de datum van de bekrachtiging krachtens zijn wetgeving niet verplicht is voor de beschermde personen, wanneer deze verzekering:
 
@@ -116,7 +138,7 @@ Voor de toepassing van dit Verdrag mag een Lid rekening houden met de beschermin
 
 - (c). voldoet aan de bepalingen van het Verdrag, indien nodig te zamen met andere vormen van bescherming.
 
-#### Artikel 7
+##### Artikel 7
 
 De verzekerde eventualiteiten moeten omvatten:
 
@@ -126,15 +148,15 @@ De verzekerde eventualiteiten moeten omvatten:
 
 ## DEEL II. Geneeskundige verzorging
 
-#### Artikel 8
+##### Artikel 8
 
 Elk Lid moet met betrekking tot de in alinea **(a)** van artikel 7 bedoelde eventualiteit overeenkomstig de voorgeschreven bepalingen aan de beschermde personen geneeskundige verzorging van genezende of preventieve aard waarborgen.
 
-#### Artikel 9
+##### Artikel 9
 
 De geneeskundige verzorging, als bedoeld in artikel 8, moet verleend worden om de gezondheid van de beschermde persoon, alsmede zijn arbeidsgeschiktheid in stand te houden, te herstellen of te verbeteren en om in zijn persoonlijke behoeften te voorzien.
 
-#### Artikel 10
+##### Artikel 10
 
 Met betrekking tot de in alinea **(a)** van artikel 7 bedoelde eventualiteit moeten tot de beschermde personen worden gerekend:
 
@@ -144,7 +166,7 @@ Met betrekking tot de in alinea **(a)** van artikel 7 bedoelde eventualiteit moe
 
 - (c). voorgeschreven groepen ingezetenen, welke ten minste 75 % uitmaken van alle ingezetenen.
 
-#### Artikel 11
+##### Artikel 11
 
 Wanneer een krachtens artikel 2 afgelegde verklaring van kracht is, moeten met betrekking tot de in alinea **(a)** van artikel 7 bedoelde eventualiteit tot de beschermde personen worden gerekend:
 
@@ -152,11 +174,11 @@ Wanneer een krachtens artikel 2 afgelegde verklaring van kracht is, moeten met b
 
 - (b). voorgeschreven groepen van loontrekkenden in industriële ondernemingen, welke ten minste 50 % uitmaken van het totale aantal loontrekkenden, werkzaam in industriële ondernemingen, alsmede de echtgenoten en de kinderen van de tot de bedoelde groepen behorende loontrekkenden.
 
-#### Artikel 12
+##### Artikel 12
 
 Personen die een sociale zekerheidsuitkering ontvangen wegens invaliditeit, ouderdom, overlijden van de kostwinner, of werkloosheid en in voorkomend geval, de echtgenoten en de kinderen van deze personen, moeten onder de voorgeschreven voorwaarden, met betrekking tot de in alinea **(a)** van artikel 7 bedoelde eventualiteit tot de beschermde personen blijven behoren.
 
-#### Artikel 13
+##### Artikel 13
 
 De geneeskundige verzorging, bedoeld in artikel 8, moet ten minste omvatten:
 
@@ -172,7 +194,7 @@ De geneeskundige verzorging, bedoeld in artikel 8, moet ten minste omvatten:
 
 - (f). geneeskundige revalidatie, waaronder begrepen de verstrekking, het onderhoud en de vervanging van prothesen en orthopedische middelen, als voorgeschreven.
 
-#### Artikel 14
+##### Artikel 14
 
 Wanneer een krachtens artikel 2 afgelegde verklaring van kracht is, moet de in artikel 8 bedoelde geneeskundige verzorging ten minste omvatten:
 
@@ -184,11 +206,11 @@ Wanneer een krachtens artikel 2 afgelegde verklaring van kracht is, moet de in a
 
 - (d). opneming in een ziekenhuis, wanneer zulks nodig is.
 
-#### Artikel 15
+##### Artikel 15
 
 Wanneer de wetgeving van een Lid het recht op geneeskundige verzorging, als bedoeld in artikel 8, afhankelijk stelt van de vervulling van een wachttijd door de beschermde persoon of door zijn kostwinner, moeten de bepalingen betreffende die wachttijd zodanig zijn, dat personen die gewoonlijk tot de groepen van beschermde personen behoren, het recht op verstrekkingen niet wordt ontzegd.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De in artikel 8 bedoelde geneeskundige verzorging moet worden verleend tijdens de gehele duur van de eventualiteit.
 
@@ -196,17 +218,17 @@ Wanneer de wetgeving van een Lid het recht op geneeskundige verzorging, als bedo
 
 3. Ongeacht het bepaalde in het vorige lid moet de duur van de geneeskundige verzorging voor ziekten, waarvan erkend wordt, dat ze een langdurige verzorging nodig maken, verlengd worden.
 
-#### Artikel 17
+##### Artikel 17
 
 Wanneer de wetgeving van een Lid erin voorziet, dat de rechthebbende of zijn kostwinner bijdraagt in de kosten van de in artikel 8 bedoelde geneeskundige verzorging moet deze bijdrageregeling zo zijn vastgesteld, dat zij geen te zware last vormt en dat zij aan de doelmatigheid van de geneeskundige en sociale bescherming geen afbreuk doet.
 
 ## DEEL III. Ziekengeld
 
-#### Artikel 18
+##### Artikel 18
 
 Elk Lid moet ten aanzien van de in alinea **(b)** van artikel 7 bedoelde eventualiteit aan de beschermde personen overeenkomstig de voorgeschreven bepalingen de toekenning van ziekengeld waarborgen.
 
-#### Artikel 19
+##### Artikel 19
 
 Ten aanzien van de in alinea **(b)** van artikel 7 bedoelde eventualiteit, moeten tot de beschermde personen worden gerekend:
 
@@ -216,7 +238,7 @@ Ten aanzien van de in alinea **(b)** van artikel 7 bedoelde eventualiteit, moete
 
 - (c). alle ingezetenen wier inkomsten tijdens de eventualiteit de grenzen, voorgeschreven overeenkomstig de bepalingen van artikel 24, niet overschrijden.
 
-#### Artikel 20
+##### Artikel 20
 
 Wanneer een verklaring, afgelegd overeenkomstig artikel 2, van kracht is, moeten met betrekking tot de in alinea **(b)** van artikel 7 bedoelde eventualiteit tot de beschermde personen worden gerekend:
 
@@ -224,7 +246,7 @@ Wanneer een verklaring, afgelegd overeenkomstig artikel 2, van kracht is, moeten
 
 - (b). voorgeschreven groepen van loontrekkenden in industriële ondernemingen, welke ten minste 50 % uitmaken van het totale aantal loontrekkenden, werkzaam in industriële ondernemingen.
 
-#### Artikel 21
+##### Artikel 21
 
 Het ziekengeld, bedoeld in artikel 18, moet worden verleend in de vorm van een periodieke betaling, berekend:
 
@@ -232,7 +254,7 @@ Het ziekengeld, bedoeld in artikel 18, moet worden verleend in de vorm van een p
 
 - (b). overeenkomstig de bepalingen van artikel 24, wanneer alle ingezetenen wier inkomsten tijdens de eventualiteit zekere voorgeschreven grenzen niet overschrijden, worden beschermd.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Ten aanzien van elke periodieke betaling waarop dit artikel van toepassing is moet het bedrag van de uitkering, vermeerderd met het bedrag van de tijdens de in alinea **(b)** van artikel 7 bedoelde eventualiteit verstrekte kinderbijslag zodanig zijn dat het voor de gerechtigde volgens standaard ten minste gelijk is aan 60 % van het totaal van de vroegere inkomsten uit arbeid van de gerechtigde en van het bedrag van de kinderbijslag verstrekt aan een beschermde persoon die dezelfde gezinslasten heeft als de gerechtigde volgens standaard.
 
@@ -260,7 +282,7 @@ Het ziekengeld, bedoeld in artikel 18, moet worden verleend in de vorm van een p
 
 9. Het loon van de geschoolde mannelijke arbeider, met inbegrip van eventuele duurtetoeslagen, wordt vastgesteld op basis van het loon voor een normaal aantal arbeidsuren, vastgesteld hetzij bij collectieve arbeidsovereenkomst, hetzij eventueel bij of krachtens de nationale wetgeving, hetzij krachtens gewoonte; wanneer de aldus vastgestelde lonen van streek tot streek verschillen en het voorgaande lid niet wordt toegepast, moet het gemiddelde loon worden genomen.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Ten aanzien van elke periodieke betaling waarop dit artikel van toepassing is moet het bedrag van de uitkering, vermeerderd met het bedrag van de tijdens de in alinea **(b)** van artikel 7 bedoelde eventualiteit verstrekte kinderbijslag zodanig zijn dat het voor de gerechtigde volgens standaard ten minste gelijk is aan 60% van het loon van een volwassen ongeschoolde mannelijke arbeider en van het bedrag van de kinderbijslag verstrekt aan een beschermde persoon die dezelfde gezinslasten heeft als de gerechtigde volgens standaard.
 
@@ -280,7 +302,7 @@ Het ziekengeld, bedoeld in artikel 18, moet worden verleend in de vorm van een p
 
 7. Het loon van de volwassen ongeschoolde mannelijke arbeider met inbegrip van eventuele duurtetoeslagen wordt vastgesteld op basis van het loon voor een normaal aantal arbeidsuren, vastgesteld hetzij bij collectieve arbeidsovereenkomst, hetzij eventueel bij of krachtens de nationale wetgeving, hetzij krachtens gewoonte; wanneer de aldus vastgestelde lonen van streek tot streek verschillen en het voorgaande lid niet wordt toegepast, moet het gemiddelde loon worden genomen.
 
-#### Artikel 24
+##### Artikel 24
 
 Met betrekking tot elke periodieke betaling waarop dit artikel van toepassing is:
 
@@ -292,11 +314,11 @@ Met betrekking tot elke periodieke betaling waarop dit artikel van toepassing is
 
 - (d). wordt aan het bepaalde in alinea **(c)** geacht te zijn voldaan, indien het totaalbedrag van de krachtens dit Verdrag betaalde uitkeringen ten minste 30% meer bedraagt dan het totaalbedrag der uitkeringen, dat men zou verkrijgen bij toepassing van de bepalingen van artikel 23 en de bepalingen van alinea **(b)** van artikel 19.
 
-#### Artikel 25
+##### Artikel 25
 
 Wanneer de wettelijke regeling van een Lid het recht op ziekengeld, als bedoeld in artikel 18, afhankelijk stelt van het feit dat de beschermde personen een wachttijd moeten vervullen, moeten de voorwaarden van deze wachttijd zodanig zijn, dat personen die normaal tot de categorie van beschermde personen behoren, niet het genot van deze uitkering wordt ontnomen.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Het ziekengeld als bedoeld in artikel 18, moet worden verleend tijdens de gehele duur van de eventualiteit; de duur van de uitkering mag evenwel beperkt worden tot ten minste 52 weken per ziektegeval, al naar is voorgeschreven.
 
@@ -304,7 +326,7 @@ Wanneer de wettelijke regeling van een Lid het recht op ziekengeld, als bedoeld 
 
 3. Wanneer de wettelijke regeling van een Lid erin voorziet, dat het ziekengeld slechts mag worden verleend na afloop van een wachttijd, mag deze wachttijd niet langer zijn dan de eerste drie dagen van inkomstenderving.
 
-#### Artikel 27
+##### Artikel 27
 
 1. In geval van overlijden van een persoon die ziekengeld ontving of die aanspraak kon maken op ziekengeld, zoals bedoeld in artikel 18, moet overeenkomstig de voorgeschreven voorwaarden aan zijn nabestaanden, aan andere personen, die door hem werden onderhouden of aan degene, voor wiens rekening de begrafeniskosten zijn gekomen, een begrafenisuitkering worden verleend.
 
@@ -318,7 +340,7 @@ Wanneer de wettelijke regeling van een Lid het recht op ziekengeld, als bedoeld 
 
 ## DEEL IV. Gemeenschappelijke bepalingen
 
-#### Artikel 28
+##### Artikel 28
 
 1. De uitkeringen waarop een beschermde persoon recht zou hebben gehad op grond van dit Verdrag, kunnen worden geschorst in een eventueel voor te schrijven mate:
 
@@ -340,19 +362,19 @@ Wanneer de wettelijke regeling van een Lid het recht op ziekengeld, als bedoeld 
 
 2. In voorgeschreven gevallen en binnen voorgeschreven grenzen, moet een deel van de uitkering die normaal zou zijn toegekend, betaalbaar worden gesteld aan de personen die ten laste van de belanghebbende komen.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Een ieder die aanspraak maakt op een uitkering moet het recht hebben beroep in te stellen wanneer hem een uitkering wordt geweigerd of wanneer hij zich niet kan verenigen met de hoedanigheid of de omvang ervan.
 
 2. Wanneer bij de toepassing van dit Verdrag het beheer van de geneeskundige verzorging is toevertrouwd aan een regeringsdepartement, dat verantwoording is verschuldigd aan een parlement, mag het recht van beroep als voorzien in het eerste lid van dit artikel, vervangen worden door het recht om een klacht, betreffende de weigering van geneeskundige verzorging of de hoedanigheid ervan door de bevoegde autoriteit te laten onderzoeken.
 
-#### Artikel 30
+##### Artikel 30
 
 1. Elk Lid moet een algemene verantwoordelijkheid aanvaarden wat betreft het verlenen van de krachtens dit Verdrag toegekende prestaties en neemt alle hiertoe dienende maatregelen.
 
 2. Elk Lid moet een algemene verantwoordelijkheid aanvaarden voor een goede administratie van de instellingen en diensten die betrokken zijn bij de toepassing van dit Verdrag.
 
-#### Artikel 31
+##### Artikel 31
 
 Wanneer de administratie niet wordt gevoerd door een op overheidsvoorschriften berustende instelling of door een regeringsdepartement dat verantwoording verschuldigd is aan een parlement:
 
@@ -362,11 +384,11 @@ Wanneer de administratie niet wordt gevoerd door een op overheidsvoorschriften b
 
 - (c). kan de nationale wetgeving eveneens voorzien in de deelneming van vertegenwoordigers van de overheid.
 
-#### Artikel 32
+##### Artikel 32
 
 Met betrekking tot het recht op de uitkeringen, voorzien in dit Verdrag, moet elk Lid op zijn grondgebied vreemdelingen, die er wonen of er gewoonlijk werken, op gelijke wijze behandelen als zijn eigen onderdanen.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Wanneer een Lid:
 
@@ -384,7 +406,7 @@ Met betrekking tot het recht op de uitkeringen, voorzien in dit Verdrag, moet el
 
 2. Ieder Lid dat gebruik heeft gemaakt van zodanige afwijkende bepalingen vermeldt in de rapporten over de toepassing van dit Verdrag, die het ingevolge [artikel 22 van het Statuut van de Internationale Arbeidsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBV0001986&artikel=22) moet uitbrengen, de stand van zijn wetgeving en de uitvoering hiervan met betrekking tot deze afwijkende bepalingen en de vooruitgang welke het met het oog op de volledige toepassing van het Verdrag heeft gemaakt.
 
-#### Artikel 34
+##### Artikel 34
 
 Dit Verdrag is niet van toepassing op:
 
@@ -394,25 +416,25 @@ Dit Verdrag is niet van toepassing op:
 
 ## DEEL V. Slotbepalingen
 
-#### Artikel 35
+##### Artikel 35
 
 Dit Verdrag herziet het Verdrag betreffende de ziekteverzekering van arbeiders in de industrie en de handel en van huispersoneel, 1927 en het Verdrag betreffende de ziekteverzekering van landarbeiders, 1927.
 
-#### Artikel 36
+##### Artikel 36
 
 1. Overeenkomstig het bepaalde in [artikel 75 van het Verdrag betreffende de sociale zekerheid (minimumnormen), 1952](https://wetten.overheid.nl/jci1.3:c:BWBV0004942&artikel=75), houdt [deel III van dat verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004942&deel=III) en de overeenkomstige bepalingen van de andere delen van genoemd [verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004942) op van toepassing te zijn voor ieder Lid dat dit Verdrag bekrachtigt van de datum af, waarop de bepalingen van dit Verdrag dit Lid binden, mits geen verklaring, ingevolge artikel 3, van kracht is,
 
 2. De aanvaarding van de verplichtingen van dit Verdrag zal voor de toepassing van [artikel 2 van het Verdrag betreffende de sociale zekerheid (minimumnormen), 1952](https://wetten.overheid.nl/jci1.3:c:BWBV0004942&artikel=2), worden beschouwd, mits geen verklaring ingevolge artikel 3 van kracht is, als aanvaarding van de verplichtingen van [deel III](https://wetten.overheid.nl/jci1.3:c:BWBV0004942&deel=III) en de overeenkomstige bepalingen van andere delen van genoemd [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004942).
 
-#### Artikel 37
+##### Artikel 37
 
 Wanneer zulks wordt bepaald in een later door de Conferentie aangenomen verdrag, hetwelk betrekking heeft op een of meer van de in dit Verdrag behandelde onderwerpen, houden de bepalingen van dit Verdrag welke in het nieuwe verdrag worden genoemd, op van toepassing te zijn op ieder Lid, dat dit laatste verdrag heeft bekrachtigd vanaf de datum waarop dit Verdrag voor het betrokken Lid in werking treedt.
 
-#### Artikel 38
+##### Artikel 38
 
 De officiële bekrachtigingen van dit Verdrag worden aan de Directeur-Generaal van het Internationaal Arbeidsbureau medegedeeld en door hem geregistreerd.
 
-#### Artikel 39
+##### Artikel 39
 
 1. Dit Verdrag is slechts verbindend voor de Leden van de Internationale Arbeidsorganisatie, die hun bekrachtiging door de Directeur-Generaal hebben doen registreren.
 
@@ -420,27 +442,27 @@ De officiële bekrachtigingen van dit Verdrag worden aan de Directeur-Generaal v
 
 3. Vervolgens treedt dit Verdrag voor ieder Lid in werking twaalf maanden na de datum, waarop zijn bekrachtiging is geregistreerd.
 
-#### Artikel 40
+##### Artikel 40
 
 1. Ieder Lid, dat dit Verdrag heeft bekrachtigd, kan het opzeggen na verloop van een termijn van tien jaren na de datum van zijn inwerkingtreding door middel van een aan de Directeur-Generaal van het Internationale Arbeidsbureau gerichte en door deze geregistreerde verklaring. De opzegging wordt eerst van kracht een jaar nadat zij is geregistreerd.
 
 2. Ieder Lid, dat dit Verdrag heeft bekrachtigd en niet binnen een jaar na het verloop van de termijn van tien jaren als bedoeld in het vorige lid, gebruik maakt van de bevoegdheid tot opzegging, voorzien in dit artikel, is voor een nieuwe termijn van tien jaren gebonden en kan daarna dit Verdrag opzeggen na verloop van elke termijn van tien jaren onder de voorwaarden bedoeld in dit artikel.
 
-#### Artikel 41
+##### Artikel 41
 
 1. De Directeur-Generaal van het Internationale Arbeidsbureau geeft aan alle Leden van de Internationale Arbeidsorganisatie kennis van de registratie van alle bekrachtigingen en opzeggingen, die hem door de Leden van de Organisatie zijn medegedeeld.
 
 2. Bij de kennisgeving van de tweede hem medegedeelde bekrachtiging aan de Leden van de Organisatie, vestigt de Directeur-Generaal de aandacht van deze Leden op de datum waarop dit Verdrag in werking treedt.
 
-#### Artikel 42
+##### Artikel 42
 
 De Directeur-Generaal van het Internationaal Arbeidsbureau doet van de volledige bijzonderheden omtrent alle bekrachtigingen en opzeggingen, welke hij heeft geregistreerd overeenkomstig de bepalingen van de voorgaande artikelen, mededeling aan de Secretaris-Generaal van de Verenigde Naties ter registratie overeenkomstig [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-#### Artikel 43
+##### Artikel 43
 
 Telkens wanneer de Raad van Beheer van het Internationale Arbeidsbureau zulks nodig oordeelt, brengt deze Raad aan de Algemene Conferentie verslag uit over de toepassing van dit Verdrag en onderzoekt of het wenselijk is de gehele of gedeeltelijke herziening ervan op de agenda van de Conferentie te plaatsen.
 
-#### Artikel 44
+##### Artikel 44
 
 1. Indien de Conferentie een nieuw verdrag aanneemt, houdende gehele of gedeeltelijke herziening van dit Verdrag, zal, tenzij het nieuwe verdrag anders bepaalt:
 
@@ -450,7 +472,7 @@ Telkens wanneer de Raad van Beheer van het Internationale Arbeidsbureau zulks no
 
 2. Dit Verdrag blijft echter in elk geval naar vorm en inhoud van kracht voor de Leden, die het bekrachtigd hebben en die het nieuwe verdrag, houdende herziening, niet bekrachtigen.
 
-#### Artikel 45
+##### Artikel 45
 
 De Franse en de Engelse tekst van dit Verdrag zijn gelijkelijk authentiek.
 

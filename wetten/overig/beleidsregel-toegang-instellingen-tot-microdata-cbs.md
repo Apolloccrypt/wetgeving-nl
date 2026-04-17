@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregel toegang instellingen tot microdata CBS"
+title: "Beleidsregel van de directeur-generaal van de statistiek van 12 juli 2021, nr. CSB-2021-072, houdende de criteria voor het verlenen van toegang aan instellingen tot microdata van het Centraal Bureau voor de Statistiek (Beleidsregel toegang instellingen tot microdata CBS)"
 identifier: "BWBR0045454"
-categorie: "Overig"
-publicatiedatum: 2021-08-01
-laatste_update: 2021-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045454"
+country: "nl"
+rank: "zbo"
+publication_date: "2021-08-01"
+last_updated: "2021-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045454"
+soort: "zbo"
+stam_id: "16035243"
+version_id: "27924502"
+internal_id: "C39371811"
+label_id: "15968554"
+dtd_version: "2.0"
+original_entry_into_force: "2021-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045454/2021-08-01/0"
+intitule_bron: "Stcrt.2021-36083"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-07-12"
+intitule_published: "2021-07-22"
+intitule_in_force: "2021-07-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-36083"
+original_signed_date: "2021-07-12"
+original_published_date: "2021-07-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-36083"
+entry_into_force_date: "2021-08-01"
+jci_1_3: "jci1.3:c:BWBR0045454&z=2021-08-01&g=2021-08-01"
+jci_1_0: "1.0:c:BWBR0045454&g=2021-08-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel toegang instellingen tot microdata CBS"
+signed_date: "2021-07-12"
+entry_into_force: "2021-08-01"
 ---
-
 # Beleidsregel van de directeur-generaal van de statistiek van 12 juli 2021, nr. CSB-2021-072, houdende de criteria voor het verlenen van toegang aan instellingen tot microdata van het Centraal Bureau voor de Statistiek (Beleidsregel toegang instellingen tot microdata CBS)
 
 Gelet op [artikel 41 van de Wet op het Centraal bureau voor de statistiek](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=41);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -30,13 +56,13 @@ In deze beleidsregel wordt verstaan onder:
 
 - **Wet CBS:** [Wet op het Centraal bureau voor de statistiek](https://wetten.overheid.nl/jci1.3:c:BWBR0015926)
 
-#### Artikel 2
+##### Artikel 2
 
 1. Op verzoek kan de directeur-generaal een instellingsmachtiging verstrekken aan een instelling voor toegang tot microdata van het CBS.
 
 2. Per onderzoeksproject dient een instelling een separaat verzoek in tot het verkrijgen van projecttoestemming.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een instellingsmachtiging voor een instelling waarop [artikel 41, tweede lid, onderdeel a, b, c of d, van de Wet CBS](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=41) van toepassing is, heeft een duur van maximaal drie jaar.
 
@@ -46,7 +72,7 @@ In deze beleidsregel wordt verstaan onder:
 
 4. Een instellingsmachtiging kan worden verlengd met een periode van maximaal drie jaar.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een instelling komt alleen in aanmerking voor een instellingsmachtiging dan wel voor een verlenging van de instellingsmachtiging indien zij haar hoofdvestiging en verwerkingsvestiging heeft in:
 
@@ -58,7 +84,7 @@ In deze beleidsregel wordt verstaan onder:
 
 2. Het eerste lid, onderdeel c, is uitsluitend van toepassing voor zover het in dat onderdeel genoemde adequaatheidsbesluit van toepassing is op de verwerking van persoonsgegevens voor wetenschappelijke of statistische doeleinden door de betreffende instelling.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een instelling waarop [artikel 41, tweede lid, onderdeel e, van de Wet CBS](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=41) van toepassing is en die voldoet aan de criteria uit [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045454&artikel=4&z=2021-08-01&g=2021-08-01), komt alleen in aanmerking voor een instellingsmachtiging dan voor wel een verlenging van de instellingsmachtiging indien zij in ieder geval voldoet aan de volgende criteria:
 
@@ -82,7 +108,7 @@ In deze beleidsregel wordt verstaan onder:
 
 2. Van een hoofdactiviteit, als bedoeld in het eerste lid, onderdeel c, is sprake indien minimaal 60% van de personele capaciteit onderzoek uitvoert.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Om een instellingsmachtiging aan te vragen dan wel te verlengen vult een instelling het aanvraagformulier, dat hiervoor beschikbaar is op de website van het CBS, volledig in.
 
@@ -100,7 +126,7 @@ In deze beleidsregel wordt verstaan onder:
 
 5. Indien er na toekenning van de instellingsmachtiging wijzigingen zijn in de aangeleverde informatie vult de instelling het aanvraagformulier opnieuw in, zodat bezien kan worden of de machtiging kan worden gehandhaafd.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Dit artikel is uitsluitend van toepassing op instellingsmachtigingen die zijn afgegeven voor 1 augustus 2021.
 
@@ -112,11 +138,11 @@ In deze beleidsregel wordt verstaan onder:
 
 - b. de instellingsmachtiging na 1 augustus 2022 afloopt, loopt de instellingsmachtiging door tot het einde van de geldende machtigingsduur.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze beleidsregel treedt in werking met ingang van 1 augustus 2021.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel toegang instellingen tot microdata CBS.
 

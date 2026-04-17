@@ -1,18 +1,43 @@
 ---
 title: "Besluit toezicht luchtvaart BES"
 identifier: "BWBR0028721"
-categorie: "Milieu"
-publicatiedatum: 2021-01-01
-laatste_update: 2021-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028721"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2021-01-01"
+last_updated: "2021-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028721"
+soort: "AMvB-BES"
+stam_id: "10943713"
+version_id: "27339202"
+internal_id: "C38611441"
+label_id: "10918924"
+dtd_version: "2.0"
+original_entry_into_force: "2020-12-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028721/2021-01-01/0"
+intitule_bron: "Stb.2010-632"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-10-04"
+intitule_published: "2010-10-07"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2020-530"
+original_signed_date: "2020-12-08"
+original_published_date: "2020-12-18"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2020-530"
+entry_into_force_date: "2020-12-08"
+jci_1_3: "jci1.3:c:BWBR0028721&z=2021-01-01&g=2021-01-01"
+jci_1_0: "1.0:c:BWBR0028721&g=2021-01-01"
+citeertitel_status: "officieel"
+signed_date: "2020-12-08"
+entry_into_force: "2020-12-08"
 ---
-
 # Besluit toezicht luchtvaart BES
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit landsbesluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -44,11 +69,11 @@ bron: "https://wetten.overheid.nl/BWBR0028721"
 
 2. De definities, opgenomen in [artikel 1 van het Besluit luchtverkeer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028639&artikel=1), zijn van toepassing op dit besluit.
 
-#### Artikel 2
+##### Artikel 2
 
 De bepalingen van dit besluit gelden niet ten aanzien van militaire luchtvaartuigen, de leden van het boordpersoneel, passagiers en lading van deze luchtvaartuigen alsmede ten aanzien van militaire luchtvaartterreinen.
 
-#### Artikel 2A
+##### Artikel 2A
 
 Door de minister worden regels gesteld betreffende meeteenheden met betrekking tot lucht- en grondoperaties waaromtrent bij of krachtens de [Luchtvaartwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028549) voorschriften zijn gesteld.
 
@@ -56,7 +81,7 @@ Door de minister worden regels gesteld betreffende meeteenheden met betrekking t
 
 ### Hoofdstuk 6. Samenwerkingsovereenkomsten met andere landen
 
-#### Artikel 129
+##### Artikel 129
 
 1. Wanneer een of meer in het Nederlandse nationaliteitsregister ingeschreven luchtvaartuigen ingevolge een lease-, charter, of ruilovereenkomst of soortgelijke regeling wordt geëxploiteerd door een luchtvaartmaatschappij of een luchtvaartonderneming, welke haar hoofdkantoor of, bij afwezigheid daarvan, haar vaste woonplaats heeft in een buiten de openbare lichamen Bonaire, Sint Eustatius en Saba gelegen Staat welke aangesloten is bij het Verdrag kunnen de functies en taken met betrekking tot de luchtverkeersregels, het bewijs van luchtwaardigheid annex radiovergunning behorende bij het betreffende luchtvaartuig, alsmede het bewijs van bevoegdheid en de bevoegdverklaringen van het stuurhutpersoneel geheel of ten dele worden overgedragen, teneinde de Staat van Operatie in staat te stellen toezicht hierop uit te oefenen.
 
@@ -72,7 +97,7 @@ Door de minister worden regels gesteld betreffende meeteenheden met betrekking t
 
 #### § 1. Algemeen
 
-#### Artikel 130
+##### Artikel 130
 
 1. De bepalingen in dit hoofdstuk en de bij dit besluit behorende bijlage CARNA Part 14 zijn van toepassing op alle burgerlijke luchtvaart-terreinen in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
@@ -80,13 +105,13 @@ Door de minister worden regels gesteld betreffende meeteenheden met betrekking t
 
 3. Door de Minister kunnen nadere regels gesteld worden met betrekking tot de bepalingen in dit hoofdstuk.
 
-#### Artikel 131
+##### Artikel 131
 
 1. De aanleg van een luchtvaartterrein is ter beoordeling door de Minister zodanig, dat luchtvaartuigen daarvan een veilig gebruik kunnen maken. Hiertoe worden desgevraagd gegevens overgelegd.
 
 2. Er worden ten genoegen van de Minister voorzieningen getroffen, dat de aan- en uitvlieghoogtes zodanig zijn, dat luchtvaartuigen veilig kunnen landen op en opstijgen van het luchtvaartterrein.
 
-#### Artikel 132
+##### Artikel 132
 
 1. Door de Minister wordt de lengte van een baan op een luchtvaartterrein vastgesteld.
 
@@ -102,7 +127,7 @@ Door de minister worden regels gesteld betreffende meeteenheden met betrekking t
 
 4. Door de Minister kunnen regels gesteld worden met betrekking tot de minimale veiligheidsvereiste.
 
-#### Artikel 133
+##### Artikel 133
 
 Op verzoek van de exploitant kan door de Minister, indien het betreft een instrumentenbaan niet zijnde een precisiebaan met als codenummer 3 of 4 ontheffing worden verleend inzake de strookbreedte van 150 meter zoals vereist onder paragraaf 3.4.4 van de bij dit besluit behorende bijlage CARNA Part 14 mits de afstand tussen de lengteas van de baan en de lange zijde van de strook niet minder dan 75 meter bedraagt; en
 
@@ -112,7 +137,7 @@ Op verzoek van de exploitant kan door de Minister, indien het betreft een instru
 
 - c. de exploitant een actieplan heeft ingediend ter verbreding van de strook om tegemoet te komen aan het vereiste neergelegd onder paragraaf 3.4.4 van de bij dit besluit bijbehorende bijlage CARNA Part 14.
 
-#### Artikel 134
+##### Artikel 134
 
 1. Een gedeelte of gedeelten van een luchtvaartterrein kan worden bestemd tot platform.
 
@@ -120,7 +145,7 @@ Op verzoek van de exploitant kan door de Minister, indien het betreft een instru
 
 3. De Minister onthoudt de goedkeuring, bedoeld in het tweede lid, indien de regels voor het gebruik van het platform de orde en veiligheid van het platform naar zijn oordeel onvoldoende waarborgen bevatten.
 
-#### Artikel 135
+##### Artikel 135
 
 1. De exploitant draagt er zorg voor dat op het luchtvaartterrein aan alle vereisten wordt voldaan zoals neergelegd in de bij dit besluit bijbehorende bijlage CARNA Part 14.
 
@@ -134,7 +159,7 @@ Op verzoek van de exploitant kan door de Minister, indien het betreft een instru
 
 De exploitant draagt er zorg voor dat bij het opstellen van systemen, visuele hulpmiddelen, uitrusting en faciliteiten rekening wordt gehouden met de aanwijzingen en/of richtlijnen neergelegd in Doc 9157 AN/901 «Aerodrome Design Manual».
 
-#### Artikel 136
+##### Artikel 136
 
 1. Een luchtvaartterreinreferentiecode (codenummer en letter), die wordt bepaald bij de planning van een luchtvaartterrein, wordt vastgesteld in overeenstemming met de kenmerken van de vliegtuigen waarvoor de luchtvaartterreinvoorzieningen zijn bestemd zulks conform tabel 1.1. «Aerodrome Reference code» van hoofdstuk 1 van de bij dit besluit behorende bijlage CARNA Part 14.
 
@@ -142,15 +167,15 @@ De exploitant draagt er zorg voor dat bij het opstellen van systemen, visuele hu
 
 3. De referentietemperatuur van een luchtvaartterrein wordt vastgesteld in graden Celsius.
 
-#### Artikel 137
+##### Artikel 137
 
 [vervallen]
 
-#### Artikel 138
+##### Artikel 138
 
 Luchtvaartdata, luchtvaartterrein referentie, luchtvaartterrein referentie temperatuur, luchtvaartterreindimensies en daaraan gerelateerde informatie alsmede de sterkte van de banen, rijbanen en het platform worden aangegeven conform hoofdstuk 2 «Aerodrome data» van de bij dit besluit behorende bijlage CARNA Part 14.
 
-#### Artikel 139
+##### Artikel 139
 
 1. Op een baan bestemd voor internationale verkeersvluchten worden de afstanden berekend van:
 
@@ -164,7 +189,7 @@ Luchtvaartdata, luchtvaartterrein referentie, luchtvaartterrein referentie tempe
 
 2. Voor de berekening van de afstanden bedoeld in het eerste lid wordt gebruik gemaakt van de richtlijnen neergelegd in attachment A section 3 van de bij dit besluit behorende bijlage CARNA Part 14.
 
-#### Artikel 140
+##### Artikel 140
 
 1. Informatie met betrekking tot de toestand waarin het landingsterrein, het platform en de daarbij behorende voorzieningen zich bevinden, wordt onverwijld aan de vluchtvoorlichtingsdienst (AIS) en voor wat betreft het landingsterrein tevens aan de luchtverkeersdienst doorgegeven, opdat de noodzakelijke inlichtingen verstrekt kunnen worden aan de luchtvaartuigen, die landen of vertrekken. De informatie moet bijgewerkt zijn en veranderingen moeten onverwijld gemeld worden.
 
@@ -186,43 +211,43 @@ Luchtvaartdata, luchtvaartterrein referentie, luchtvaartterrein referentie tempe
 
 4. De exploitant van een luchtvaartterrein draagt er zorg voor dat een regeling tot stand komt met de AIS inzake de ontvangst en distributie van de informatie bedoeld in het eerste en tweede lid.
 
-#### Artikel 141
+##### Artikel 141
 
 1. Inzake het verplaatsen van onklaar geraakte luchtvaartuigen worden de aanwijzingen van paragraaf 9.3 van de bij dit besluit behorende bijlage CARNA Part 14 opgevolgd.
 
 2. Ten aanzien van het verplaatsen van onklaar geraakte luchtvaartuigen wordt door de exploitant van het luchtvaartterrein een plan opgemaakt ten aanzien van de wijze waarop het een en ander wordt uitgevoerd.
 
-#### Artikel 142
+##### Artikel 142
 
 1. Op een luchtvaartterrein is informatie beschikbaar met betrekking tot de mate van hulpverlening aan luchtvaartuigen en brandbestrijding.
 
 2. Indien belangrijke wijzigingen optreden in de voorzieningen, bedoeld in het eerste lid, worden deze medegedeeld aan de desbetreffende luchtverkeersdiensten en de vluchtvoorlichtingsdienst (AIS), opdat deze diensten in staat zijn de luchtvaartuigen, die vertrekken en landen, van de noodzakelijke informatie te voorzien.
 
-#### Artikel 143
+##### Artikel 143
 
 1. Elke luchtvaartterrein met een luchtvaartterreinreferentiecode 3 of 4, bedoeld in [artikel 136](https://wetten.overheid.nl/jci1.3:c:BWBR0028721&hoofdstuk=7&paragraaf=1&artikel=136&z=2021-01-01&g=2021-01-01), beschikt over een PAPI (Precision Approach Path Indicator)
 
 2. Elke luchtvaartterrein met een luchtvaartterreinreferentiecode 1 of 2, bedoeld in [artikel 136](https://wetten.overheid.nl/jci1.3:c:BWBR0028721&hoofdstuk=7&paragraaf=1&artikel=136&z=2021-01-01&g=2021-01-01), beschikt over een PAPI (Precision Approach Path Indicator) of APAPI (Abbreviated Precision Approach Path Indicator)
 
-#### Artikel 144
+##### Artikel 144
 
 [vervallen]
 
-#### Artikel 145
+##### Artikel 145
 
 1. Op het luchtvaartterrein wordt een plaats aangewezen of wordt aan de plaatselijke luchtverkeersleidingsdienst een plaats gemeld waar luchtvaartuigen kunnen parkeren, die vermoed worden betrokken te zijn bij een wederrechtelijk vergrijp of die anderszins afgezonderd moeten worden van normale werkzaamheden op het luchtvaartterrein.
 
 2. De exploitant houdt bij de keuze van de plaats bedoeld in het eerste lid rekening met de specificaties van paragraaf 3.14 van de bij dit besluit behorende bijlage CARNA Part 14.
 
-#### Artikel 146
+##### Artikel 146
 
 Hindernissen, welke gevaar voor luchtvaartuigen opleveren dan wel kunnen opleveren en welke zich bevinden op het luchtvaartterrein worden verwijderd, of indien dit niet mogelijk is, worden deze aangeduid door vlaggen, tekens of kleuren zoals aangegeven in hoofdstuk 6 «Visual Aids for denoting obstacles» van de bij dit besluit behorende bijlage CARNA Part 14.
 
-#### Artikel 147
+##### Artikel 147
 
 Een licht op de grond, dat geen verband houdt met de luchtvaart, wordt gedoofd of afgeschermd, indien het de vliegveiligheid in gevaar brengt.
 
-#### Artikel 148
+##### Artikel 148
 
 1. De exploitant van een luchtvaartterrein, dat gedurende de nacht of tijdens instrument-weersomstandigheden kan worden gebruikt, draagt zorg dat:
 
@@ -234,25 +259,25 @@ Een licht op de grond, dat geen verband houdt met de luchtvaart, wordt gedoofd o
 
 2. Ten aanzien van de verlichting en lichten, bedoeld in het eerste lid, kunnen door de Minister nadere voorschriften worden vastgesteld en aanwijzingen worden gegeven.
 
-#### Artikel 149
+##### Artikel 149
 
 De exploitant plaatst lichten ter aanduiding van de hindernissen, bedoeld in [artikel 146](https://wetten.overheid.nl/jci1.3:c:BWBR0028721&hoofdstuk=7&paragraaf=1&artikel=146&z=2021-01-01&g=2021-01-01), overeenkomstig de voorschriften opgenomen in [artikel 135, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0028721&hoofdstuk=7&paragraaf=1&artikel=135&z=2021-01-01&g=2021-01-01).
 
-#### Artikel 150
+##### Artikel 150
 
 1. Op een luchtvaartterrein dat gedurende de nacht of tijdens instrumentweersomstandigheden (IMC) wordt gebruikt, handelt de exploitant in geval van een gehele of gedeeltelijke sluiting van het luchtvaartterrein conform de voorschriften neergelegd in hoofdstuk 7 «Visual Aids for denoting restricted use areas» van de bij dit besluit behorende bijlage CARNA Part 14.
 
 2. Ten aanzien van het gebruik van lichten kunnen door de Minister voorschriften gegeven worden.
 
-#### Artikel 151
+##### Artikel 151
 
 Indien een gedeelte van het landingsterrein of van het platform van een luchtvaartterrein dat gedurende de nacht of tijdens instrumentweersomstandigheden (IMC) wordt gebruikt, niet geschikt is voor het gebruik door luchtvaartuigen, wordt dit tevens door lichten aangegeven.
 
-#### Artikel 152 en 153
+##### Artikel 152 en 153
 
 [vervallen]
 
-#### Artikel 154
+##### Artikel 154
 
 1. Op het luchtvaartterrein zijn voldoende middelen aanwezig voor het op verantwoorde wijze verlenen van eerste hulp bij ongevallen.
 
@@ -260,7 +285,7 @@ Indien een gedeelte van het landingsterrein of van het platform van een luchtvaa
 
 3. Voor zover een voor het openbaar luchtverkeer aangewezen luchtvaartterrein ingevolge de beschikking tot aanwijzing mede voor het internationale luchtverkeer is bestemd, draagt de exploitant zorg dat op het luchtvaartterrein een gezondheidsorganisatie functioneert, welke doorlopend beantwoord aan hetgeen nodig is om ziekten te voorkomen en welke in elk geval de medewerking van een geneesheer verzekert, zo dikwijls diens aanwezigheid nodig kan zijn voor een ingevolge een internationale overeenkomst of een wettelijk voorschrift te verrichten geneeskundig onderzoek.
 
-#### Artikel 155
+##### Artikel 155
 
 1. Op het luchtvaartterrein zijn voldoende materieel en middelen alsmede voldoende deskundig en bedreven personeel aanwezig voor het redden van mensenlevens en tot het voorkomen, beperken en bestrijden van brand ten gevolge van ongevallen met luchtvaartuigen op of in de onmiddellijke omgeving van het luchtvaartterrein.
 
@@ -272,7 +297,7 @@ Indien een gedeelte van het landingsterrein of van het platform van een luchtvaa
 
 5. Er wordt door de Minister een regeling vastgesteld waarin het geheel van de te nemen maatregelen is opgenomen voor een doelmatige bestrijding van ongevallen als bedoeld in eerste en vierde lid, alsmede van rampen welke zich op het luchtvaartterrein kunnen voordoen.
 
-#### Artikel 156
+##### Artikel 156
 
 1. De exploitant draagt zorg dat van het luchtvaartterrein een veilig gebruik kan worden gemaakt.
 
@@ -284,7 +309,7 @@ Indien een gedeelte van het landingsterrein of van het platform van een luchtvaa
 
 3. Door de Minister kunnen aanwijzingen worden gegeven aan de exploitant in verband met de in de vorige leden gestelde bepalingen.
 
-#### Artikel 157
+##### Artikel 157
 
 1. De exploitant draagt zorg dat aan het Bestuurscollege en aan de Minister halfjaarlijks een verslag over de toestand van het luchtvaartterrein wordt aangeboden.
 
@@ -292,23 +317,23 @@ Indien een gedeelte van het landingsterrein of van het platform van een luchtvaa
 
 3. De Minister kan de exploitant opdragen op basis van en ter aanvulling van de in het eerste lid gegeven voorschriften nadere maatregelen vast te stellen. Deze behoeven de goedkeuring van het Bestuurscollege.
 
-#### Artikel 158
+##### Artikel 158
 
 1. De exploitant neemt maatregelen voor een behoorlijk toezicht op de veiligheid en de goede orde op het luchtvaartterrein.
 
 2. Terzake de uitvoering van het toezicht, bedoeld in het eerste lid, kunnen door de Minister nadere voorschriften worden gegeven.
 
-#### Artikel 159
+##### Artikel 159
 
 Met betrekking tot het luchtvaartterreinverkeer op het landingsterrein, uitgezonderd luchtvaartuigen, en met betrekking tot het verkeer van luchtvaartuigen naar, van en op het platform wordt coördinatie gevoerd tussen de exploitant en de plaatselijke luchtverkeersleidingsdienst.
 
-#### Artikel 160
+##### Artikel 160
 
 De exploitant staat toe dat op het luchtvaartterrein elektronische, meteorologische en eventueel andere hulpmiddelen aanwezig zijn vanwege de aan de relevante luchtverkeersdienstverleners en verleners van meteorologische diensten opgedragen taken met betrekking tot de luchtverkeersbeveiliging en de luchtvaartmeteorologische dienstverlening.
 
 #### § 2. De luchthavenmeester
 
-#### Artikel 161
+##### Artikel 161
 
 1. De luchthavenmeester wordt door de exploitant van het luchtvaartterrein benoemd.
 
@@ -316,11 +341,11 @@ De exploitant staat toe dat op het luchtvaartterrein elektronische, meteorologis
 
 3. De functie van luchthavenmeester mag verenigd worden met die van exploitant.
 
-#### Artikel 162
+##### Artikel 162
 
 De luchthavenmeester is belast met de dagelijkse uitvoering van het toezicht op het luchtvaartterrein en in het bijzonder met het toezicht op de veiligheid en de goede orde daarop.
 
-#### Artikel 163
+##### Artikel 163
 
 1. De luchthavenmeester van een gecontroleerd luchtvaartterrein deelt de luchtverkeersleidingsdienst steeds tijdig mede welk gedeelte van het landingsterrein gebruikt kan worden voor het verkeer met luchtvaartuigen.
 
@@ -328,11 +353,11 @@ De luchthavenmeester is belast met de dagelijkse uitvoering van het toezicht op 
 
 3. De luchtverkeersleidingsdienst bepaalt op grond van verkeerstechnische overwegingen welk gedeelte van het in gebruik zijnde deel van het landingsterrein daadwerkelijk wordt bestemd voor het landen en opstijgen van luchtvaartuigen en daarmede verband houdende bewegingen.
 
-#### Artikel 164
+##### Artikel 164
 
 De luchthavenmeester draagt zorg dat bij nacht of tijdens instrumentweersomstandigheden (IMC) de verlichting en de lichten, bedoeld in de [artikel 148](https://wetten.overheid.nl/jci1.3:c:BWBR0028721&hoofdstuk=7&paragraaf=1&artikel=148&z=2021-01-01&g=2021-01-01), tijdig en voor zover nodig worden ontstoken en blijven branden zolang dit voor de veiligheid van het luchtvaartterrein nodig wordt geacht.
 
-#### Artikel 165
+##### Artikel 165
 
 De luchthavenmeester draagt zorg dat:
 
@@ -340,7 +365,7 @@ De luchthavenmeester draagt zorg dat:
 
 - b. in geval van windstilte de op het luchtvaartterrrein aanwezige landings-T wordt vastgezet in de richting waarin moet worden geland en opgestegen, waarbij onder windstilte wordt verstaan wind met een snelheid van ten hoogste 2,5 m per seconde.
 
-#### Artikel 166
+##### Artikel 166
 
 1. De luchthavenmeester draagt zorg dat het in gebruik zijnde deel van het landingsterrein niet onveilig wordt gemaakt door enig roerend goed.
 
@@ -350,7 +375,7 @@ De luchthavenmeester draagt zorg dat:
 
 4. Indien een gedeelte van het landingsterrein op een luchtvaartterrein, dat gedurende de nacht of tijdens instrumentweersomstandigheden (IMC) wordt gebruikt, geheel of gedeeltelijk gesloten is verklaard of niet geschikt is voor het gebruik door luchtvaartuigen, wordt dat gedeelte door de zorg van de luchthavenmeester aangeduid door lichten overeenkomstig het bepaalde in de [artikel 148](https://wetten.overheid.nl/jci1.3:c:BWBR0028721&hoofdstuk=7&paragraaf=1&artikel=148&z=2021-01-01&g=2021-01-01) en [150](https://wetten.overheid.nl/jci1.3:c:BWBR0028721&hoofdstuk=7&paragraaf=1&artikel=150&z=2021-01-01&g=2021-01-01).
 
-#### Artikel 167
+##### Artikel 167
 
 1. De luchthavenmeester draagt zorg dat een platform niet onveilig wordt gemaakt door enig roerend goed.
 
@@ -360,7 +385,7 @@ De luchthavenmeester draagt zorg dat:
 
 4. Indien een gedeelte van het platform op een luchtvaartterrein, dat gedurende de nacht of tijdens instrumentweersomstandigheden (IMC) wordt gebruik, geheel of gedeeltelijk gesloten is verklaard of niet geschikt is voor het gebruik door luchtvaartuigen, wordt dat gedeelte door de zorg van de luchthavenmeester aangeduid door lichten overeenkomstig het bepaalde in de [artikelen 150](https://wetten.overheid.nl/jci1.3:c:BWBR0028721&hoofdstuk=7&paragraaf=1&artikel=150&z=2021-01-01&g=2021-01-01) en [151](https://wetten.overheid.nl/jci1.3:c:BWBR0028721&hoofdstuk=7&paragraaf=1&artikel=151&z=2021-01-01&g=2021-01-01).
 
-#### Artikel 168
+##### Artikel 168
 
 1. De luchthavenmeester stelt, indien het landingsterrein door enigerlei omstandigheid gevaarlijk is geworden of kan worden voor luchtvaartuigen, de Minister daarvan zo spoedig mogelijk in kennis onder vermelding van de bijzonderheden dienaangaande.
 
@@ -368,7 +393,7 @@ De luchthavenmeester draagt zorg dat:
 
 3. Wanneer de omstandigheid welke aanleiding heeft gegeven tot de mededeling, bedoeld in het eerste of tweede lid, ophoudt te bestaan, stelt de luchthavenmeester de Minister daarvan eveneens zo spoedig mogelijk in kennis.
 
-#### Artikel 169
+##### Artikel 169
 
 1. De luchthavenmeester legt een register aan, waarin gegevens worden opgenomen omtrent elk luchtvaartuig dat op het luchtvaartterrein landt of daarvan opstijgt.
 
@@ -400,7 +425,7 @@ De luchthavenmeester draagt zorg dat:
 
 6. De luchthavenmeester verleent desgewenst aan de Minister inzage van het register, bedoeld in het eerste lid.
 
-#### Artikel 170
+##### Artikel 170
 
 De luchthavenmeester draagt zorg dat op de daarvoor geëigende en duidelijk waarneembare plaats ter inzage aanwezig zijn:
 
@@ -408,13 +433,13 @@ De luchthavenmeester draagt zorg dat op de daarvoor geëigende en duidelijk waar
 
 - b. een lijst betreffende eventueel te heffen vergoedingen voor het gebruik van de verschillende inlichtingen, de herstellingen aan luchtvaartuigen en al hetgeen daarmee samenhangt.
 
-#### Artikel 170a
+##### Artikel 170a
 
 De Minister kan ontheffing verlening van het bij of krachtens de [artikelen 134](https://wetten.overheid.nl/jci1.3:c:BWBR0028721&hoofdstuk=7&paragraaf=1&artikel=134&z=2021-01-01&g=2021-01-01), [146](https://wetten.overheid.nl/jci1.3:c:BWBR0028721&hoofdstuk=7&paragraaf=1&artikel=146&z=2021-01-01&g=2021-01-01), [148](https://wetten.overheid.nl/jci1.3:c:BWBR0028721&hoofdstuk=7&paragraaf=1&artikel=148&z=2021-01-01&g=2021-01-01), [150](https://wetten.overheid.nl/jci1.3:c:BWBR0028721&hoofdstuk=7&paragraaf=1&artikel=150&z=2021-01-01&g=2021-01-01), [154, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028721&hoofdstuk=7&paragraaf=1&artikel=154&z=2021-01-01&g=2021-01-01), [155](https://wetten.overheid.nl/jci1.3:c:BWBR0028721&hoofdstuk=7&paragraaf=1&artikel=155&z=2021-01-01&g=2021-01-01) en [165, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028721&hoofdstuk=7&paragraaf=2&artikel=165&z=2021-01-01&g=2021-01-01), bepaalde. De ontheffing kan onder beperkingen worden verleend. Aan de ontheffing kunnen voorschriften worden verbonden.
 
 #### § 3. Certificatie van luchtvaartterreinen
 
-#### Artikel 171
+##### Artikel 171
 
 1. Een voor het openbaar luchtverkeer aangewezen luchtvaartterrein wordt, met inachtneming van de bepalingen in de voorgaande paragrafen, gecertificeerd conform de in deze paragraaf vastgelegde regels en procedures.
 
@@ -430,7 +455,7 @@ De Minister kan ontheffing verlening van het bij of krachtens de [artikelen 134]
 
 - e. **gecertificeerd luchtvaartterrein:** een luchtvaartterrein aan de exploitant waarvan een certificaat luchtvaartterrein is afgegeven.
 
-#### Artikel 172
+##### Artikel 172
 
 1. De exploitant van een gecertificeerd luchtvaartterrein heeft ten behoeve van de operatie hiervan de beschikking over een handboek luchtvaartterrein.
 
@@ -456,7 +481,7 @@ De Minister kan ontheffing verlening van het bij of krachtens de [artikelen 134]
 
 7. De exploitant van een luchtvaartterrein stelt een volledig en geldig exemplaar van het handboek ter beschikking van de directeur van de Minister.
 
-#### Artikel 173
+##### Artikel 173
 
 1. De afgifte, verlenging van de geldigheidstermijn, vernieuwing, schorsing en intrekking van een certificaat luchtvaartterrein geschieden door de Minister.
 
@@ -476,7 +501,7 @@ De Minister kan ontheffing verlening van het bij of krachtens de [artikelen 134]
 
 5. De tarieven voor de behandeling van een aanvraag voor de eerste afgifte en de instand houding van een certificaat luchtvaartterrein worden door de Minister vastgesteld.
 
-#### Artikel 174
+##### Artikel 174
 
 1. De exploitant van een luchtvaartterrein draagt zorg voor:
 
@@ -488,7 +513,7 @@ De Minister kan ontheffing verlening van het bij of krachtens de [artikelen 134]
 
 3. De exploitant van een luchtvaartterrein voert tenminste eenmaal per jaar een interne beoordeling uit van het veiligheidssysteem.
 
-#### Artikel 175
+##### Artikel 175
 
 1. De afgifte van een certificaat luchtvaartterrein wordt aangevraagd door de exploitant van een luchtvaartterrein door middel van indiening van een behoorlijk ingevuld en ondertekend formulier, waarvan het model door de Minister is vastgesteld en waarvan exemplaren kosteloos verkrijgbaar zijn bij de Minister.
 
@@ -528,11 +553,11 @@ De Minister kan ontheffing verlening van het bij of krachtens de [artikelen 134]
 
 - c. op overtuigende wijze duidelijk heeft gemaakt dat het voortzetten van operaties op het luchtvaartterrein schadelijk zal zijn voor het algemeen belang.
 
-#### Artikel 176
+##### Artikel 176
 
 Het certificatieproces verloopt met inachtneming van de procedurele voorschriften neergelegd in de paragrafen 4.1. t/m 4.4 van hoofdstuk 4 «Aerodrome certification procedures» van de ICAO-Manual on Aerodrome Certification DOC 9774 AN/969.
 
-#### Artikel 177
+##### Artikel 177
 
 1. Indien het luchtvaartterrein of de faciliteiten, de dienstverlening en de uitrusting op of van het luchtvaartterrein geen voldoende waarborgen bieden om de luchtvaart op veilige wijze uit te oefenen, wordt door de Minister afwijzend beschikt op de aanvraag.
 
@@ -540,7 +565,7 @@ Het certificatieproces verloopt met inachtneming van de procedurele voorschrifte
 
 ### Hoofdstuk 8. Luchtvaartinlichtingen en kaarten
 
-#### Artikel 178
+##### Artikel 178
 
 1. Ten behoeve van de veiligheid, de regelmaat en de doelmatigheid van de luchtvaart worden ten behoeve van de delen van het Vluchtinformatiegebied Curaçao en het Vluchtinformatiegebied San Juan waarvoor de Minister de verantwoordelijkheid voor het verzorgen van luchtverkeersdiensten heeft aanvaard de volgende publicaties uitgegeven:
 
@@ -564,17 +589,17 @@ Tijdelijke aanpassingen van de luchtvaartgids worden verstrekt middels een suppl
 
 3. De publicaties kunnen tevens worden uitgegeven in de Engelse taal.
 
-#### Artikel 179
+##### Artikel 179
 
 De AIP, NOTAM, AIC en de Luchtvaartkaarten, waaronder naderings-, landings- en hinderniskaarten worden samengesteld overeenkomstig de richtlijnen vervat in Bijlage 15 van het Verdrag.
 
-#### Artikel 180
+##### Artikel 180
 
 1. De abonnementsgelden voor de publicaties, bedoeld in [artikel 178](https://wetten.overheid.nl/jci1.3:c:BWBR0028721&hoofdstuk=8&artikel=178&z=2021-01-01&g=2021-01-01), worden door de Minister vastgesteld.
 
 2. De betaling van de abonnementsgelden, bedoeld in het eerste lid, geschiedt volgens door de Minister vastgestelde regels.
 
-#### Artikel 181
+##### Artikel 181
 
 1. Op de luchtvaartterreinen binnen de openbare lichamen Bonaire, Sint Eustatius en Saba worden inlichtingen gegeven voor het uitvoeren van vluchten.
 
@@ -584,7 +609,7 @@ De AIP, NOTAM, AIC en de Luchtvaartkaarten, waaronder naderings-, landings- en h
 
 ### Hoofdstuk 9. Luchtvaartvertoningen en Luchtvaartwedstrijden
 
-#### Artikel 182
+##### Artikel 182
 
 1. Voor het verkrijgen van ontheffing tot het houden van een luchtvaartvertoning of luchtvaartwedstrijd als bedoeld in [artikel 28, derde lid, van de Luchtvaartwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=28), wordt ten minste 21 dagen voor de dag van de vertoning of van de wedstrijd een daartoe strekkend verzoekschrift bij de Minister ingediend.
 
@@ -598,7 +623,7 @@ De AIP, NOTAM, AIC en de Luchtvaartkaarten, waaronder naderings-, landings- en h
 
 3. Een verzoekschrift als bedoeld in dit artikel wordt eerst in behandeling genomen, indien alle benodigde gegevens en de verklaring zijn overgelegd.
 
-#### Artikel 183
+##### Artikel 183
 
 1. Voor het aanvragen van een ontheffing van het in [artikel 26, eerste lid, van de Luchtvaartwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=26) vervatte verbod, wordt tenminste 21 dagen voor de eerste dag waarop het terrein zal worden gebruikt een daartoe strekkend verzoekschrift bij de Minister ingediend.
 
@@ -634,7 +659,7 @@ De AIP, NOTAM, AIC en de Luchtvaartkaarten, waaronder naderings-, landings- en h
 
 ### Hoofdstuk 11. Strafbepalingen
 
-#### Artikel 185
+##### Artikel 185
 
 1. Overtreding van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028721&hoofdstuk=2&artikel=3&z=2021-01-01&g=2021-01-01), [135, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028721&hoofdstuk=7&paragraaf=1&artikel=135&z=2021-01-01&g=2021-01-01), [146](https://wetten.overheid.nl/jci1.3:c:BWBR0028721&hoofdstuk=7&paragraaf=1&artikel=146&z=2021-01-01&g=2021-01-01), [148, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028721&hoofdstuk=7&paragraaf=1&artikel=148&z=2021-01-01&g=2021-01-01), [154](https://wetten.overheid.nl/jci1.3:c:BWBR0028721&hoofdstuk=7&paragraaf=1&artikel=154&z=2021-01-01&g=2021-01-01), [155, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028721&hoofdstuk=7&paragraaf=1&artikel=155&z=2021-01-01&g=2021-01-01), [156, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028721&hoofdstuk=7&paragraaf=1&artikel=156&z=2021-01-01&g=2021-01-01), [157, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028721&hoofdstuk=7&paragraaf=1&artikel=157&z=2021-01-01&g=2021-01-01), [158, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028721&hoofdstuk=7&paragraaf=1&artikel=158&z=2021-01-01&g=2021-01-01), [163](https://wetten.overheid.nl/jci1.3:c:BWBR0028721&hoofdstuk=7&paragraaf=2&artikel=163&z=2021-01-01&g=2021-01-01), [164](https://wetten.overheid.nl/jci1.3:c:BWBR0028721&hoofdstuk=7&paragraaf=2&artikel=164&z=2021-01-01&g=2021-01-01), [165](https://wetten.overheid.nl/jci1.3:c:BWBR0028721&hoofdstuk=7&paragraaf=2&artikel=165&z=2021-01-01&g=2021-01-01), [166](https://wetten.overheid.nl/jci1.3:c:BWBR0028721&hoofdstuk=7&paragraaf=2&artikel=166&z=2021-01-01&g=2021-01-01), [167](https://wetten.overheid.nl/jci1.3:c:BWBR0028721&hoofdstuk=7&paragraaf=2&artikel=167&z=2021-01-01&g=2021-01-01), [168](https://wetten.overheid.nl/jci1.3:c:BWBR0028721&hoofdstuk=7&paragraaf=2&artikel=168&z=2021-01-01&g=2021-01-01), [169](https://wetten.overheid.nl/jci1.3:c:BWBR0028721&hoofdstuk=7&paragraaf=2&artikel=169&z=2021-01-01&g=2021-01-01), [170](https://wetten.overheid.nl/jci1.3:c:BWBR0028721&hoofdstuk=7&paragraaf=2&artikel=170&z=2021-01-01&g=2021-01-01) en [170a](https://wetten.overheid.nl/jci1.3:c:BWBR0028721&hoofdstuk=7&paragraaf=2&artikel=170a&z=2021-01-01&g=2021-01-01) is een strafbaar feit als bedoeld in [artikel 50, vierde lid, van de Luchtvaartwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=50).
 
@@ -642,15 +667,15 @@ De AIP, NOTAM, AIC en de Luchtvaartkaarten, waaronder naderings-, landings- en h
 
 ### Hoofdstuk 11. Strafbepalingen
 
-#### Artikel 186
+##### Artikel 186
 
 De vóór de inwerkingtreding van dit besluit door de Minister afgegeven bewijzen van inschrijving, van luchtwaardigheid, van gelijkstelling treden in de plaats van de overeenkomstige in dit besluit vermelde bewijzen. Voor bewijzen, waarvan het model afwijkt van de bedoelde overeenkomstige bewijzen geschiedt dit slechts voor de duur van ten hoogste zes maanden. In deze periode worden de bewijzen van afwijkend model door de Minister vervangen door overeenkomstige in dit besluit vermelde bewijzen zonder dat daarbij enige kosten in rekening worden gebracht.
 
-#### Artikel 187
+##### Artikel 187
 
 Dit besluit berust op de [artikelen 37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=37), [50, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=50), [66, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=66), en [68 van de Luchtvaartwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=68).
 
-#### Artikel 188
+##### Artikel 188
 
 Dit besluit wordt aangehaald als: Besluit toezicht luchtvaart BES.
 
@@ -5462,7 +5487,7 @@ In addition, as required for any specialist function, the operator shall be the 
 
 ### ATTACHMENT B. OBSTACLE LIMITATION SURFACES
 
-#### Artikel 3
+##### Artikel 3
 
 De passagier volgt tijdens de vlucht door of namens de gezagvoerder gegeven aanwijzingen op.
 

@@ -1,13 +1,35 @@
 ---
 title: "Verdrag betreffende minimumnormen op koopvaardijschepen"
 identifier: "BWBV0003738"
-categorie: "Internationaal recht"
-publicatiedatum: 1981-11-28
-laatste_update: 1981-11-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003738"
+country: "nl"
+rank: "verdrag"
+publication_date: "1981-11-28"
+last_updated: "1981-11-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003738"
+soort: "verdrag"
+stam_id: "10003681053"
+version_id: "10003741512"
+internal_id: "C10006981261"
+label_id: "10003666424"
+dtd_version: "2.0"
+original_entry_into_force: "1981-11-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003738/1981-11-28/0"
+intitule_bron: "Trb.1977-108"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1977-08-02"
+intitule_in_force: "1981-07-09"
+intitule_status: "goed"
+original_publication: "Trb.1977-108"
+original_published_date: "1977-08-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1977-108"
+entry_into_force_date: "1981-11-28"
+jci_1_3: "jci1.3:c:BWBV0003738&z=1981-11-28&g=1981-11-28"
+jci_1_0: "1.0:c:BWBV0003738&g=1981-11-28"
+citeertitel_status: "redactioneel"
+entry_into_force: "1981-11-28"
 ---
-
 # Verdrag betreffende minimumnormen op koopvaardijschepen
 
 De Algemene Conferentie van de Internationale Arbeidsorganisatie,
@@ -22,7 +44,7 @@ Vastgesteld hebbende, dat deze voorstellen de vorm van een internationaal Verdra
 
 Aanvaardt heden de negenentwintigste oktober negentienhonderd zesenzeventig het volgende Verdrag, dat kan worden aangehaald als Koopvaardijverdrag (minimumnormen), 1976:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Tenzij in dit artikel anders is bepaald, is dit Verdrag van toepassing op elk zeeschip, hetzij in bezit van de overheid, hetzij in particulier bezit, dat voor handelsdoeleinden wordt gebruikt voor het vervoer van goederen of passagiers, dan wel voor enig ander commercieel doel wordt gebezigd.
 
@@ -40,7 +62,7 @@ Aanvaardt heden de negenentwintigste oktober negentienhonderd zesenzeventig het 
 
 5. Niets in dit Verdrag wordt geacht uitbreiding te geven aan de werkingssfeer van de Verdragen, waarnaar wordt verwezen in de Bijlage bij dit Verdrag, of van de bepalingen daarvan.
 
-#### Artikel 2
+##### Artikel 2
 
 Ieder Lid dat dit Verdrag bekrachtigt neemt de verplichting op zich om:
 
@@ -74,11 +96,11 @@ Ieder Lid dat dit Verdrag bekrachtigt neemt de verplichting op zich om:
 
 - g. een officieel onderzoek in te stellen naar alle ernstige zeevaartongevallen waarbij binnen zijn grondgebied teboekgestelde schepen zijn betrokken, in het bijzonder die welke letsel en/ of de dood ten gevolge hebben; het eindrapport van zulk een onderzoek dient in de regel openbaar te worden gemaakt.
 
-#### Artikel 3
+##### Artikel 3
 
 Ieder Lid dat dit Verdrag heeft bekrachtigd, dient voor zover mogelijk zijn onderdanen te wijzen op de problemen die kunnen rijzen bij het aanmonsteren op een schip dat is teboekgesteld in een Staat die het Verdrag niet heeft bekrachtigd, totdat het zekerheid heeft verkregen dat normen worden toegepast die gelijkwaardig zijn aan de normen die in dit Verdrag zijn vastgelegd. Daartoe strekkende maatregelen van de Staat die het Verdrag bekrachtigt mogen niet strijdig zijn met het beginsel van het vrije verkeer van arbeidskrachten, zoals bepaald in de Verdragen waarbij de desbetreffende twee Staten eventueel partij zijn.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien een Lid dat dit Verdrag heeft bekrachtigd en in welks haven een schip binnenloopt in de gewone uitoefening van zijn dienst of om bedrijfstechnische redenen, een klacht ontvangt of bewijsmateriaal in handen krijgt dat het schip niet voldoet aan de normen van dit Verdrag, nadat het van kracht is geworden, kan het een rapport opstellen, gericht aan de regering van het land waarin het schip is teboekgesteld, met een afschrift aan de Directeur-Generaal van het Internationaal Arbeidsbureau, en kan het maatregelen nemen die nodig zijn ter verbetering van alle omstandigheden aan boord die duidelijk gevaar opleveren voor de veiligheid of de gezondheid.
 
@@ -86,7 +108,7 @@ Ieder Lid dat dit Verdrag heeft bekrachtigd, dient voor zover mogelijk zijn onde
 
 3. Voor de toepassing van dit artikel wordt onder „klacht” verstaan inlichtingen, verstrekt door een lid van de bemanning, een vereniging van beroepsbeoefenaren, een vereniging, een vakbond of, in het algemeen, een ieder die belang heeft bij de veiligheid van het schip, mede waar het de gevaren voor de veiligheid of voor de gezondheid van de bemanning betreft.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Dit Verdrag kan worden bekrachtigd door Leden die:
 
@@ -100,7 +122,7 @@ Ieder Lid dat dit Verdrag heeft bekrachtigd, dient voor zover mogelijk zijn onde
 
 3. De officiële bekrachtigingen van dit Verdrag worden medegedeeld aan de Directeur-Generaal van het Internationaal Arbeidsbureau en door hem geregistreerd.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Dit Verdrag is slechts bindend voor die Leden van de Internationale Arbeidsorganisatie, die hun bekrachtigingen door de Directeur-Generaal hebben doen registreren.
 
@@ -108,27 +130,27 @@ Ieder Lid dat dit Verdrag heeft bekrachtigd, dient voor zover mogelijk zijn onde
 
 3. Vervolgens treedt dit Verdrag voor elk Lid in werking twaalf maanden na de datum waarop zijn bekrachtiging is geregistreerd.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Ieder Lid dat dit Verdrag heeft bekrachtigd, kan het opzeggen na afloop van een termijn van tien jaren na de datum van zijn inwerkingtreding door middel van een aan de Directeur-Generaal van het Internationaal Arbeidsbureau gerichte en door deze geregistreerde verklaring. De opzegging wordt eerst van kracht een jaar nadat zij is geregistreerd.
 
 2. Ieder Lid dat dit Verdrag heeft bekrachtigd en binnen een jaar na afloop van de termijn van tien jaren, bedoeld in het vorige lid, geen gebruik maakt van de bevoegdheid tot opzegging, voorzien in dit artikel, is voor een nieuwe termijn van tien jaren gebonden en kan daarna dit Verdrag opzeggen na afloop van elke termijn van tien jaren onder de voorwaarden voorzien in dit artikel.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De Directeur-Generaal van het Internationaal Arbeidsbureau stelt alle Leden van de Internationale Arbeidsorganisatie in kennis van de registratie van alle bekrachtigingen en opzeggingen die hem door de Leden van de Organisatie zijn medegedeeld.
 
 2. Indien de voorwaarden als voorzien in voorgaand artikel 6, tweede lid, zijn vervuld, vestigt de Directeur-Generaal de aandacht van de Leden van de Organisatie op de datum waarop het Verdrag in werking zal treden.
 
-#### Artikel 9
+##### Artikel 9
 
 De Directeur-Generaal van het Internationaal Arbeidsbureau doet aan de Secretaris-Generaal van de Verenigde Naties mededeling ter registratie overeenkomstig het bepaalde in [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102), van de volledige bijzonderheden omtrent alle bekrachtigingen en opzeggingen die hij overeenkomstig de bepalingen van de voorgaande artikelen heeft geregistreerd.
 
-#### Artikel 10
+##### Artikel 10
 
 De Raad van Beheer van het Internationaal Arbeidsbureau brengt, telkens wanneer deze dit noodzakelijk acht, aan de Algemene Conferentie verslag uit over de toepassing van dit Verdrag en onderzoekt of het wenselijk is de gehele of gedeeltelijke herziening van dit Verdrag op de agenda van de Conferentie te plaatsen.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Indien de Conferentie een nieuw Verdrag aanneemt, houdende gehele of gedeeltelijke herziening van dit Verdrag, zal tenzij het nieuwe Verdrag anders bepaalt:
 
@@ -138,7 +160,7 @@ De Raad van Beheer van het Internationaal Arbeidsbureau brengt, telkens wanneer 
 
 2. Het onderhavige Verdrag blijft in elk geval naar vorm en inhoud van kracht voor de Leden die het hebben bekrachtigd en die het nieuwe Verdrag, houdende herziening, niet bekrachtigen.
 
-#### Artikel 12
+##### Artikel 12
 
 De Engelse en de Franse tekst van dit Verdrag zijn gelijkelijk gezaghebbend.
 

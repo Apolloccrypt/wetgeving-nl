@@ -1,18 +1,44 @@
 ---
 title: "Wet sociale kanstrajecten jongeren BES"
 identifier: "BWBR0028506"
-categorie: "Sociaal recht"
-publicatiedatum: 2022-08-01
-laatste_update: 2022-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028506"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2022-08-01"
+last_updated: "2022-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028506"
+soort: "wet-BES"
+stam_id: "10829423"
+version_id: "18395912"
+internal_id: "C25719801"
+label_id: "10804454"
+dtd_version: "2.0"
+original_entry_into_force: "2011-02-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028506/2022-08-01/0"
+intitule_bron: "Stb.2010-577"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-29"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-350"
+original_signed_date: "2010-05-17"
+original_published_date: "2010-09-01"
+original_effect: "structuurwijziging"
+original_dossier: "31959"
+original_url_id: "stb-2010-350"
+entry_into_force_date: "2011-02-17"
+jci_1_3: "jci1.3:c:BWBR0028506&z=2022-08-01&g=2022-08-01"
+jci_1_0: "1.0:c:BWBR0028506&g=2022-08-01"
+citeertitel_status: "officieel"
+signed_date: "2010-05-17"
+entry_into_force: "2011-02-17"
 ---
-
 # Wet sociale kanstrajecten jongeren BES
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -54,17 +80,17 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 2. Oproeping en melding
 
-#### Artikel 2. Doelgroep sociaal kanstraject
+##### Artikel 2. Doelgroep sociaal kanstraject
 
 Voor een sociaal kanstraject komt in aanmerking een voortijdig schoolverlater.
 
-#### Artikel 3. Aanmelding
+##### Artikel 3. Aanmelding
 
 Een voortijdig schoolverlater wordt onverwijld door het bestuurscollege aangemeld bij het projectbureau.
 
 ### Hoofdstuk 3. Vrijstelling en ontheffing van de sociale vormingsplicht
 
-#### Artikel 4. Doorverwijzing; intake; aanbod sociale kanstraject
+##### Artikel 4. Doorverwijzing; intake; aanbod sociale kanstraject
 
 1. Het projectbureau nodigt een aangemelde voortijdig schoolverlater uit voor een gesprek om te onderzoeken of de betrokkene kan worden doorverwezen naar onderwijs of arbeidsmarkt. Indien dit het geval is, begeleidt het projectbureau de betrokkene naar het desbetreffende onderwijs of de desbetreffende arbeid.
 
@@ -76,7 +102,7 @@ Een voortijdig schoolverlater wordt onverwijld door het bestuurscollege aangemel
 
 5. De betrokkene legt bij het sluiten van de overeenkomst zijn persoonsgegevens over.
 
-#### Artikel 5. Projectbureau en uitvoeringsinstantie
+##### Artikel 5. Projectbureau en uitvoeringsinstantie
 
 1. Elk openbaar lichaam houdt een projectbureau in stand dat tot taak heeft:
 
@@ -102,7 +128,7 @@ Een voortijdig schoolverlater wordt onverwijld door het bestuurscollege aangemel
 
 3. Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent het bepaalde in het eerste en tweede lid.
 
-#### Artikel 6. Deelnemersregister
+##### Artikel 6. Deelnemersregister
 
 1. Het projectbureau houdt een register bij waarin iedere deelnemer wordt ingeschreven.
 
@@ -120,11 +146,11 @@ Een voortijdig schoolverlater wordt onverwijld door het bestuurscollege aangemel
 
 ### Hoofdstuk 4. Jongerenregister
 
-#### Artikel 7. Gebruik register
+##### Artikel 7. Gebruik register
 
 De in het deelnemersregister opgenomen gegevens worden uitsluitend gebruikt voor de uitvoering en handhaving van deze wet en zijn als zodanig uitsluitend toegankelijk voor de uitvoeringsinstantie en de in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&artikel=20&z=2022-08-01&g=2022-08-01) bedoelde toezichthouders, voor zover deze gegevens redelijkerwijs noodzakelijk zijn voor de vervulling van hun taak.
 
-#### Artikel 8. Raamplan sociale kanstrajecten
+##### Artikel 8. Raamplan sociale kanstrajecten
 
 1. De uitvoeringsinstantie stelt een raamplan sociale kanstrajecten op, dat ten minste omvat:
 
@@ -154,7 +180,7 @@ De in het deelnemersregister opgenomen gegevens worden uitsluitend gebruikt voor
 
 ### Hoofdstuk 5. Vaststelling raamplan kanstrajecten
 
-#### Artikel 9. Sociaal kanstraject
+##### Artikel 9. Sociaal kanstraject
 
 1. Op grond van de resultaten van de educatieve intake, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&artikel=4&z=2022-08-01&g=2022-08-01), stelt de uitvoeringsinstantie een op de individuele situatie afgestemd sociaal kanstraject voor de deelnemer vast.
 
@@ -176,11 +202,11 @@ De in het deelnemersregister opgenomen gegevens worden uitsluitend gebruikt voor
 
 ### Hoofdstuk 6. Kanstraject
 
-#### Artikel 10. Getuigschrift
+##### Artikel 10. Getuigschrift
 
 Nadat de deelnemer alle modules van het voor hem vastgestelde dan wel gewijzigde kanstraject met succes heeft afgerond, ontvangt hij een certificaat of een diploma, afhankelijk van de aard van het traject.
 
-#### Artikel 11. Kanstrajecttoelage
+##### Artikel 11. Kanstrajecttoelage
 
 1. Een deelnemer komt in aanmerking voor een kanstrajecttoelage die bestaat uit:
 
@@ -202,7 +228,7 @@ Nadat de deelnemer alle modules van het voor hem vastgestelde dan wel gewijzigde
 
 6. In afwijking van het eerste lid komt een gedetineerde deelnemer niet in aanmerking voor een kanstrajecttoelage.
 
-#### Artikel 12. Handelingsplan
+##### Artikel 12. Handelingsplan
 
 1. De uitvoeringsinstantie stelt voor de aanvang van het sociaal kanstraject van de deelnemer met een specifieke zorgbehoefte een handelingsplan op.
 
@@ -210,7 +236,7 @@ Nadat de deelnemer alle modules van het voor hem vastgestelde dan wel gewijzigde
 
 ### Hoofdstuk 7. Geheimhoudingsplicht
 
-#### Artikel 13. Bekostiging sociale kanstrajecten
+##### Artikel 13. Bekostiging sociale kanstrajecten
 
 1. Het bestuurscollege bekostigt het projectbureau voor de uitvoering van zijn taken en de uitvoeringsinstantie voor de aan de uitvoering van de sociale kanstrajecten verbonden kosten.
 
@@ -220,7 +246,7 @@ Nadat de deelnemer alle modules van het voor hem vastgestelde dan wel gewijzigde
 
 ### Hoofdstuk 9. Administratieve boeten
 
-#### Artikel 19. Terugvordering of verrekening middelen
+##### Artikel 19. Terugvordering of verrekening middelen
 
 1. Bij het geheel of gedeeltelijk intrekken van de bijzondere uitkering op grond van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&artikel=18&z=2022-08-01&g=2022-08-01) besluit Onze Minister tot:
 
@@ -230,7 +256,7 @@ Nadat de deelnemer alle modules van het voor hem vastgestelde dan wel gewijzigde
 
 2. Het openbaar lichaam is verplicht binnen vier weken na een besluit als bedoeld in het eerste lid, onderdeel a, over te gaan tot betaling. Indien betaling uitblijft, is het openbaar lichaam zonder aanmaning of rechterlijke tussenkomst wettelijke rente verschuldigd.
 
-#### Artikel 20. Toezicht
+##### Artikel 20. Toezicht
 
 1. Met de uitoefening van het toezicht op de naleving van deze wet zijn belast de door Onze Minister aangewezen toezichthouders.
 
@@ -242,25 +268,25 @@ Nadat de deelnemer alle modules van het voor hem vastgestelde dan wel gewijzigde
 
 ### Hoofdstuk 10. Strafbepalingen
 
-#### Artikel 21. Strafbepalingen
+##### Artikel 21. Strafbepalingen
 
 Hij die op grond van de bij of krachtens deze wet vastgestelde bepalingen gehouden is inlichtingen of gegevens te verstrekken en daarbij opzettelijk een valse opgave doet dan wel opzettelijk in strijd met bedoelde gehoudenheid iets verzwijgt wordt gestraft met hechtenis van ten hoogste zes maanden, een geldboete van de vierde categorie of met beide straffen. Het in de eerste volzin strafbaar gestelde feit is een misdrijf.
 
-#### Artikel 22. Citeertitel
+##### Artikel 22. Citeertitel
 
 Deze wet wordt aangehaald als: Wet sociale kanstrajecten jongeren BES.
 
-#### Artikel 23
+##### Artikel 23
 
 Hij die op grond van de bij of krachtens deze wet vastgestelde bepalingen gehouden is inlichtingen of gegevens te verstrekken en daarbij opzettelijk een valse opgave doet dan wel opzettelijk in strijd met bedoelde gehoudenheid iets verzwijgt wordt gestraft met hechtenis van ten hoogste zes maanden, een geldboete van ten hoogste USD 8.400 of met beide straffen. Het in de eerste volzin strafbaar gestelde feit is een misdrijf.
 
-#### Artikel 24
+##### Artikel 24
 
 Hij die op andere wijze dan door het valselijk opmaken of vervalsen van een geschrift, dat bestemd is tot bewijs van enig feit te dienen opzettelijk een opgave doet in strijd met de waarheid, zulks met het oogmerk om de verlening van vrijstelling of ontheffing van de sociale vormingsplicht te verkrijgen, wordt gestraft met hechtenis van ten hoogste zes maanden, een geldboete van ten hoogste USD 8.400 of met beide straffen. Het in de eerste volzin strafbaar gestelde feit is een misdrijf.
 
 ### Hoofdstuk 11. Kanstrajecttoelage
 
-#### Artikel 25
+##### Artikel 25
 
 1. Een jongere die deelneemt aan een kanstraject als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=6&artikel=10&z=2010-10-10&g=2011-01-01), komt in aanmerking voor een tegemoetkoming in de noodzakelijk te maken onkosten voor vervoer, kleding en schoeisel, verzorging, en een ziektekostenverzekering, van gemiddeld USD 280 per maand en voor kinderopvang maximaal USD 56 per maand. Daartoe dient hij een aanvraag in bij de oproepingsinstantie, met gebruikmaking van het formulier volgens het model dat door Onze Minister wordt vastgesteld.
 
@@ -272,7 +298,7 @@ Hij die op andere wijze dan door het valselijk opmaken of vervalsen van een gesc
 
 ### Hoofdstuk 10. Strafbepalingen
 
-#### Artikel 26
+##### Artikel 26
 
 1. De aan de uitvoering van een raamplan kanstrajecten verbonden kosten en toelagen komen voor 95% ten laste van Onze Minister en voor 5% ten laste van het openbaar lichaam waar uitvoering wordt gegeven aan een raamplan kanstrajecten.
 
@@ -288,7 +314,7 @@ Hij die op andere wijze dan door het valselijk opmaken of vervalsen van een gesc
 
 7. Het bestuurscollege sluit met de uitvoerende instantie een overeenkomst voor de bekostiging overeenkomstig [artikel 27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=12&artikel=27&z=2010-10-10&g=2011-01-01).
 
-#### Artikel 27
+##### Artikel 27
 
 1. De bijdrage aan een uitvoerende instantie ten behoeve van een raamplan kanstrajecten wordt berekend op grondslag van:
 
@@ -300,19 +326,19 @@ Hij die op andere wijze dan door het valselijk opmaken of vervalsen van een gesc
 
 3. De uitvoerende instantie ontvangt bij de aanvang van de uitvoering van het raamplan kanstrajecten per deelnemer 50% van het normbedrag en wanneer de deelnemer aan het kanstraject voor meer dan 80% heeft deelgenomen nog eens 30%. Indien de deelnemer het kanstraject met succes afrondt, ontvangt de uitvoerende instantie de resterende 20%.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Bij een met redenen omklede aanvraag, met inachtneming van de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=12&artikel=26&z=2010-10-10&g=2011-01-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=12&artikel=27&z=2010-10-10&g=2011-01-01), verzoekt het betrokken bestuurscollege Onze Minister het ingevolge artikel 27, eerste lid, ten laste van het Rijk komende deel in de kosten en kostenvergoedingen ten laste te brengen van ’s Rijks kas. Bij beschikking wordt binnen één maand na de datum van ontvangst omtrent deze aanvraag beslist.
 
 2. Indien een openbaar lichaam kan aantonen dat het niet in staat is het in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=12&artikel=26&z=2010-10-10&g=2011-01-01), genoemde, ten laste van hem komende deel in de kosten en onkostenvergoedingen geheel of gedeeltelijk te dragen, kan het betrokken bestuurscollege bij een met redenen omklede aanvraag Onze Minister verzoeken dat deel geheel of gedeeltelijk ten laste te brengen van ’s Rijks kas.
 
-#### Artikel 29
+##### Artikel 29
 
 1. De uitvoerende instantie zendt jaarlijks binnen drie maanden na afloop van het jaar waarvoor een bijdrage uit de openbare kas is verstrekt in de kosten van de uitvoering van het raamplan kanstrajecten, aan het betrokken bestuurscollege en Onze Minister een schriftelijk verslag over de uitgevoerde kanstrajecten.
 
 2. De met het beheer van het jongerenregister belaste instantie zendt binnen drie maanden na de opzet van het jongerenregister een schriftelijk verslag aan het bestuurscollege en Onze Minister over het functioneren van het register.
 
-#### Artikel 30
+##### Artikel 30
 
 1. De uitvoerende instantie dient bij het bestuurscollege vóór 1 maart volgend op het jaar waarvoor een bijdrage uit de openbare kas is verkregen, een financiële verantwoording in waaruit blijkt:
 
@@ -330,7 +356,7 @@ Hij die op andere wijze dan door het valselijk opmaken of vervalsen van een gesc
 
 4. Het verslag, waarin de financiële verantwoording zoals bedoeld in het eerste en tweede lid is vervat, wordt, vergezeld van een verklaring van deskundige als bedoeld in artikel 74, eerste lid, van het [Wetboek van Koophandel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028278). Aan Onze Minister wordt op diens verzoek inzicht gegeven in de gegevens die bij de controle op enigerlei wijze een rol spelen, en in de rapporten van bedoelde deskundige.
 
-#### Artikel 31
+##### Artikel 31
 
 De eilandsraad kan op voorstel van het bestuurscollege de vastgestelde bijdrage binnen een periode van vijf jaar, gerekend vanaf de dag waarop het verzoek tot bekostiging was ingewilligd intrekken of ten nadele van de uitvoerende instantie wijzigen:
 
@@ -340,7 +366,7 @@ De eilandsraad kan op voorstel van het bestuurscollege de vastgestelde bijdrage 
 
 - c. indien de uitvoerende instantie na de vaststelling van de bijdrage niet heeft voldaan aan het bepaalde in deze wet.
 
-#### Artikel 32
+##### Artikel 32
 
 Onze Minister kan de vastgestelde rijksbijdrage aan een openbaar lichaam binnen een periode van vijf jaar, gerekend vanaf de dag waarop het verzoek tot bekostiging was ingewilligd intrekken of ten nadele van een openbaar lichaam wijzigen:
 
@@ -350,7 +376,7 @@ Onze Minister kan de vastgestelde rijksbijdrage aan een openbaar lichaam binnen 
 
 - c. indien het openbaar lichaam na de vaststelling van de landsbijdrage niet heeft voldaan aan het bepaalde in deze wet.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Bij het geheel of gedeeltelijk intrekken van de bijdrage op grond van [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=12&artikel=32&z=2010-10-10&g=2011-01-01) besluit Onze Minister tot:
 
@@ -362,41 +388,41 @@ Onze Minister kan de vastgestelde rijksbijdrage aan een openbaar lichaam binnen 
 
 ### Hoofdstuk 13. Rapportage en evaluatie
 
-#### Artikel 34
+##### Artikel 34
 
 1. Binnen vier weken na afloop van een kwartaal brengt een oproepingsinstantie verslag uit aan de het bestuurscollege en Onze Minister over het aantal meldingen, oproepingen en toegekende en afgewezen aanvragen voor onkostenvergoeding. Van oproepingen waaraan niet tijdig gehoor is gegeven stelt de oproepingsinstantie het bestuurscollege in kennis binnen twee weken na afloop van de termijn waarbinnen de jongere gehoor had moeten geven aan de oproeping.
 
 2. Binnen vier weken na afloop van elk kwartaal brengt een uitvoerende instantie verslag uit aan de het bestuurscollege en Onze Minister over het aantal afgenomen educatieve intakes, het aantal deelnemers, de mate waarin de deelnemers conform het kanstraject vorderen, het aantal deelnemers dat een kanstraject met goed gevolg heeft voltooid en het aantal jongeren dat vertrokken is.
 
-#### Artikel 35
+##### Artikel 35
 
 [vervallen]
 
 ### Hoofdstuk 14. Overgangs- en slotbepalingen
 
-#### Artikel 36
+##### Artikel 36
 
 Onze Minister verleent aan een ieder aan wie geen kanstraject kan worden aangeboden ontheffing van de verplichting tot het volgen van een kanstraject.
 
-#### Artikel 37
+##### Artikel 37
 
 De jongere die op het tijdstip van inwerkingtreding van de Landsverordening sociale vormingsplicht de leeftijd van 16 jaar en één maand reeds heeft bereikt maar nog niet de leeftijd van 25 jaar wordt binnen één maand na bedoeld tijdstip door de oproepingsinstantie van het openbaar lichaam waarvan hij ingezetene is opgeroepen.
 
-#### Artikel 38
+##### Artikel 38
 
 1. Een in deze wet gestelde termijn die op zaterdag, zondag of een feestdag eindigt, wordt verlengd tot en met de eerstvolgende dag die niet een zaterdag, zondag of feestdag is.
 
 2. Artikel 5, tweede lid, van de Regeling ambtenarenrechtspraak (P.B.1951, no. 134) is van overeenkomstige toepassing. Een feestdag is eveneens iedere dag die daarenboven door het bestuurscollege als zodanig wordt aangewezen.
 
-#### Artikel 39
+##### Artikel 39
 
 [vervallen]
 
-#### Artikel 40
+##### Artikel 40
 
 Deze wet wordt aangehaald als: Wet sociale kanstrajecten jongeren BES.
 
-#### Artikel 12a. Zorgstructuur
+##### Artikel 12a. Zorgstructuur
 
 1. De uitvoeringsinstantie is aangesloten bij een samenwerkingsverband als bedoeld in [artikel 26 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=26), in [artikel 11.16 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.16) en [artikel 3.2 van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=3.2).
 
@@ -404,7 +430,7 @@ Deze wet wordt aangehaald als: Wet sociale kanstrajecten jongeren BES.
 
 ### Hoofdstuk 7. Geheimhoudingsplicht
 
-#### Artikel 14. Verslaglegging
+##### Artikel 14. Verslaglegging
 
 Het projectbureau zendt binnen drie maanden na afloop van het jaar aan het betrokken bestuurscollege en Onze Minister:
 
@@ -412,7 +438,7 @@ Het projectbureau zendt binnen drie maanden na afloop van het jaar aan het betro
 
 - b. een verslag over de uitgevoerde sociale kanstrajecten.
 
-#### Artikel 15. Indiening financiële verantwoording
+##### Artikel 15. Indiening financiële verantwoording
 
 1. De uitvoeringsinstantie dient bij het bestuurscollege vóór 1 maart volgend op het jaar waarvoor een bijdrage uit de openbare kas is verkregen, een financiële verantwoording in waaruit blijkt:
 
@@ -424,7 +450,7 @@ Het projectbureau zendt binnen drie maanden na afloop van het jaar aan het betro
 
 3. Aan Onze Minister wordt op diens verzoek inzicht wordt geboden in de controlerapporten van de deskundige.
 
-#### Artikel 16. Intrekking of wijziging bekostiging door bestuurscollege
+##### Artikel 16. Intrekking of wijziging bekostiging door bestuurscollege
 
 Het bestuurscollege kan de vastgestelde bijdrage binnen een periode van vijf jaar, gerekend vanaf de dag waarop het verzoek tot bekostiging was ingewilligd, intrekken of ten nadele van de uitvoeringsinstantie wijzigen:
 
@@ -434,7 +460,7 @@ Het bestuurscollege kan de vastgestelde bijdrage binnen een periode van vijf jaa
 
 - c. indien de uitvoeringsinstantie na de vaststelling van de bijdrage niet heeft voldaan aan het bepaalde in deze wet.
 
-#### Artikel 17. Bijzondere uitkering
+##### Artikel 17. Bijzondere uitkering
 
 1. Onze Minister verstrekt jaarlijks, binnen het raam van de door de begrotingswetgever beschikbaar gestelde middelen, per openbaar lichaam een bijzondere uitkering als bedoeld in [artikel 91 van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=91) ter tegemoetkoming in de kosten van de activiteiten van het projectbureau en van de uitvoeringsinstantie.
 
@@ -442,13 +468,13 @@ Het bestuurscollege kan de vastgestelde bijdrage binnen een periode van vijf jaa
 
 3. Het bestuurscollege dient de aanvraag voor een bijzondere uitkering voor 1 juli in. De aanvraag gaat vergezeld van een begroting van geraamde inkomsten en uitgaven, waarin in ieder geval wordt opgenomen het verwachte aantal deelnemers en de aan hen te verstrekken kanstrajecttoelage.
 
-#### Artikel 17a. Verantwoording bijzondere uitkering
+##### Artikel 17a. Verantwoording bijzondere uitkering
 
 1. Het bestuurscollege verantwoordt jegens Onze Minister de bijzondere uitkering in een bijlage bij de jaarrekening, bedoeld in [artikel 28, eerste lid, van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=28). Uit de bijlage blijkt op welke wijze de uitkering is aangewend en de rechtmatigheid daarvan.
 
 2. Onze Minister kan nadere regels stellen omtrent de in de bijlage te verstrekken informatie voor zover deze nodig is voor een beoordeling van de besteding van de bijzondere uitkering.
 
-#### Artikel 18. Intrekking of wijziging bijzondere uitkering door Onze Minister
+##### Artikel 18. Intrekking of wijziging bijzondere uitkering door Onze Minister
 
 Onze Minister kan de vastgestelde bijzondere uitkering, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&artikel=17&z=2022-08-01&g=2022-08-01) aan een openbaar lichaam binnen een periode van vijf jaar, gerekend vanaf de dag waarop de kosten zijn vergoed, intrekken of ten nadele van een openbaar lichaam wijzigen:
 
@@ -464,7 +490,7 @@ Onze Minister kan de vastgestelde bijzondere uitkering, bedoeld in [artikel 17](
 
 ### Hoofdstuk 9. Administratieve boeten
 
-#### Artikel 21a. Overgangsbepaling
+##### Artikel 21a. Overgangsbepaling
 
 Degene die op de dag voorafgaand aan de inwerkingtreding van deze wet deelneemt aan een kanstraject als bedoeld in de Wet sociale kanstrajecten jongeren BES, zoals die wet is komen te luiden op 10 oktober 2010, is deelnemer in de zin van deze wet.
 

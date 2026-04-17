@@ -1,13 +1,37 @@
 ---
 title: "Herziening beloningsbeleid sector Rijk per 1-1-1997"
 identifier: "BWBR0008282"
-categorie: "Bestuursrecht"
-publicatiedatum: 1997-01-01
-laatste_update: 1997-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008282"
+country: "nl"
+rank: "circulaire"
+publication_date: "1997-01-01"
+last_updated: "1997-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008282"
+soort: "circulaire"
+stam_id: "6377053"
+version_id: "11043582"
+internal_id: "C14943831"
+label_id: "6366134"
+original_entry_into_force: "1997-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008282/1997-01-01/0"
+intitule_bron: "Stcrt.1996-209"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-10-14"
+intitule_published: "1996-10-29"
+intitule_in_force: "1996-10-29"
+intitule_status: "goed"
+original_publication: "Stcrt.1996-209"
+original_signed_date: "1996-10-14"
+original_published_date: "1996-10-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1996-209-p12-SC7294"
+entry_into_force_date: "1997-01-01"
+jci_1_3: "jci1.3:c:BWBR0008282&z=1997-01-01&g=1997-01-01"
+jci_1_0: "1.0:c:BWBR0008282&g=1997-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "1996-10-14"
+entry_into_force: "1997-01-01"
 ---
-
 # Herziening beloningsbeleid sector Rijk per 1-1-1997
 
 «Circulaire aan de ministers»

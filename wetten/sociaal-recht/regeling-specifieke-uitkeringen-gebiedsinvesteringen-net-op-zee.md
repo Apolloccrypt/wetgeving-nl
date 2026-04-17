@@ -1,20 +1,46 @@
 ---
-title: "Regeling specifieke uitkeringen gebiedsinvesteringen Net op Zee"
+title: "Regeling van de Minister van Klimaat en Groene Groei van 18 november 2024, nr. WJZ/ 89799993, houdende regels voor het verstrekken van specifieke uitkeringen in verband met de gebiedsinvesteringen Net op Zee (Regeling specifieke uitkeringen gebiedsinvesteringen Net op Zee)"
 identifier: "BWBR0050437"
-categorie: "Sociaal recht"
-publicatiedatum: 2025-11-07
-laatste_update: 2025-11-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050437"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-11-07"
+last_updated: "2025-11-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050437"
+soort: "ministeriele-regeling"
+stam_id: "17276543"
+version_id: "31028702"
+internal_id: "C44432831"
+label_id: "17181904"
+dtd_version: "2.0"
+original_entry_into_force: "2025-11-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050437/2025-11-07/0"
+intitule_bron: "Stcrt.2024-37708"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-11-18"
+intitule_published: "2024-11-20"
+intitule_in_force: "2024-11-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-37464"
+original_signed_date: "2025-11-04"
+original_published_date: "2025-11-06"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2025-37464"
+entry_into_force_date: "2025-11-04"
+jci_1_3: "jci1.3:c:BWBR0050437&z=2025-11-07&g=2025-11-07"
+jci_1_0: "1.0:c:BWBR0050437&g=2025-11-07"
+citeertitel_status: "officieel"
+short_title: "Regeling specifieke uitkeringen gebiedsinvesteringen Net op Zee"
+signed_date: "2025-11-04"
+entry_into_force: "2025-11-04"
 ---
-
 # Regeling van de Minister van Klimaat en Groene Groei van 18 november 2024, nr. WJZ/ 89799993, houdende regels voor het verstrekken van specifieke uitkeringen in verband met de gebiedsinvesteringen Net op Zee (Regeling specifieke uitkeringen gebiedsinvesteringen Net op Zee)
 
 Gelet op [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=2), en [artikel 3 van de Kaderwet EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3) en [artikel 17, vijfde lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -46,7 +72,7 @@ In deze regeling wordt verstaan onder:
 
 - **uitvoeringsbesluit:** Uitvoeringsbesluit van de Raad van 4 oktober 2022 betreffende de goedkeuring van de beoordeling van het herstel- en veerkrachtplan voor Nederland (ST 12275/2022; ST 12275/2022 ADD 1) (niet gepubliceerd).
 
-#### Artikel 2. Specifieke uitkeringen eerste tranche
+##### Artikel 2. Specifieke uitkeringen eerste tranche
 
 1. De Minister kan overeenkomstig het bestuursakkoord gebiedsinvesteringen Net op Zee met elk van de onderscheiden regio’s een specifieke uitkering verstrekken aan:
 
@@ -68,13 +94,13 @@ In deze regeling wordt verstaan onder:
 
 5. De uitvoeringsperiode betreft voor de regio’s Zeeland en Maasvlakte de kalenderjaren 2020 tot en met 2030, betreft voor de regio Moerdijk, Geertruidenberg, Drimmelen en Oosterhout de kalenderjaren 2020 tot en met 2034, betreft voor de regio PAWOZ-Eemshave de kalenderjaren 2020 tot en met 2035 en betreft voor de regio Noordzeekanaalgebied de kalenderjaren 2020 tot en met 2037.
 
-#### Artikel 3. Uitkeringsplafond en BTW eerste tranche
+##### Artikel 3. Uitkeringsplafond en BTW eerste tranche
 
 1. Het uitkeringsplafond van de specifieke uitkeringen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050437&artikel=2&z=2025-11-07&g=2025-11-07), gezamenlijk bedraagt € 210 miljoen, inclusief BTW.
 
 2. De betaling wordt verminderd met de kosten waarvoor de regio op grond van de [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817) voor compensatie in aanmerking komt.
 
-#### Artikel 4. Verplichtingen
+##### Artikel 4. Verplichtingen
 
 1. De ontvanger van de specifieke uitkering draagt verantwoordelijkheid voor de besteding van de middelen overeenkomstig deze regeling en legt twee keer per jaar hierover verantwoording af met gebruikmaking van een middel dat door de Minister beschikbaar wordt gesteld.
 
@@ -90,19 +116,19 @@ In deze regeling wordt verstaan onder:
 
 7. Voor specifieke uitkeringen die zijn verstrekt op grond van [artikel 2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050437&artikel=2a&z=2025-11-07&g=2025-11-07), is het derde lid uitsluitend van toepassing op de regio’s Zeeland, Maasvlakte en Noordzeekanaalgebied en op de regio PAWOZ-Eemshaven voor activiteiten voor de bestrijding van verzilting.
 
-#### Artikel 5. Betaling eerste tranche
+##### Artikel 5. Betaling eerste tranche
 
 1. De Minister verleent de ontvanger van de specifieke uitkering, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050437&artikel=2&z=2025-11-07&g=2025-11-07), in de beschikking tot verstrekking van de specifieke uitkering voorschotten in twee of drie jaarlijkse termijnen van 2024 tot en met 2026.
 
 2. Uiterlijk op 1 september van de kalenderjaren 2025 en 2026 dient de ontvanger van de specifieke uitkering ten aanzien van de op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050437&artikel=2&z=2025-11-07&g=2025-11-07), verstrekte specifieke uitkering een voorstel in voor de verdeling van het voorschot over de acties uit het regioplan gebiedsinvesteringen Net op Zee van de desbetreffende regio. De Minister neemt de acties en de verdeling van de uitkering over de acties per kalenderjaar op in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0050437&bijlage=II&z=2025-11-07&g=2025-11-07).
 
-#### Artikel 6. Verantwoording
+##### Artikel 6. Verantwoording
 
 1. De ontvanger van de specifieke uitkering verantwoordt de besteding van de specifieke uitkering uiterlijk op 15 juli van het jaar volgend op het begrotingsjaar, zoals geregeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
 2. De gemeente die een uitkering heeft ontvangen van de ontvanger van de specifieke uitkering legt verantwoording af over de besteding van desbetreffende uitkering met toepassing van [artikel 17a, tweede lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
-#### Artikel 7. Vaststelling
+##### Artikel 7. Vaststelling
 
 De Minister stelt de uitkering binnen 22 weken nadat de Minister de verantwoordingsinformatie, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a) van de Minister van Binnenlandse Zaken en Koninkrijksrelaties heeft ontvangen, ambtshalve overeenkomstig de verlening vast, tenzij:
 
@@ -110,15 +136,15 @@ De Minister stelt de uitkering binnen 22 weken nadat de Minister de verantwoordi
 
 - b. niet is voldaan aan de verplichtingen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050437&artikel=4&z=2025-11-07&g=2025-11-07).
 
-#### Artikel 8. Terugvordering
+##### Artikel 8. Terugvordering
 
 Indien uit de verantwoordingsinformatie bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050437&artikel=6&z=2025-11-07&g=2025-11-07) blijkt dat de specifieke uitkering in de uitvoeringsperiode niet volledig is besteed aan uitvoeringsactiviteiten waarvoor deze is verstrekt, of onrechtmatig is besteed, kan de uitkering ter hoogte van het niet of onrechtmatig bestede deel door de Minister worden teruggevorderd. De Minister doet binnen een jaar na ontvangst van de verantwoordingsinformatie mededeling van de terugvordering aan de ontvanger van de specifieke uitkering.
 
-#### Artikel 9. Inwerkingtreding en horizon
+##### Artikel 9. Inwerkingtreding en horizon
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 januari 2038, met dien verstande dat zij van toepassing blijft op specifieke uitkeringen die voor die datum zijn verleend.
 
-#### Artikel 10. Citeertitel
+##### Artikel 10. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkeringen gebiedsinvesteringen Net op Zee.
 
@@ -130,7 +156,7 @@ Deze regeling wordt aangehaald als: Regeling specifieke uitkeringen gebiedsinves
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 2a. Specifieke uitkeringen tweede tranche en regiopakket
+##### Artikel 2a. Specifieke uitkeringen tweede tranche en regiopakket
 
 1. De Minister kan overeenkomstig een administratieve overeenkomst inzake gebiedsinvesteringen Net op Zee met elk van de onderscheiden regio’s een specifieke uitkering verstrekken aan:
 
@@ -168,7 +194,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - c. 2024 tot en met 2037 voor de regio’s Noordzeekanaalgebied en PAWOZ-Eemshaven.
 
-#### Artikel 3a. Uitkeringsplafond en BTW tweede tranche
+##### Artikel 3a. Uitkeringsplafond en BTW tweede tranche
 
 1. Het uitkeringsplafond van de specifieke uitkeringen, bedoeld in [artikel 2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050437&artikel=2a&z=2025-11-07&g=2025-11-07), gezamenlijk bedraagt € 245 miljoen, inclusief BTW.
 
@@ -182,7 +208,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 3. De betaling wordt verminderd met de kosten waarvoor de regio op grond van de Wet op het BTW-compensatiefonds voor compensatie in aanmerking komt.
 
-#### Artikel 5a. Betaling tweede tranche
+##### Artikel 5a. Betaling tweede tranche
 
 1. De Minister verleent de ontvanger van de specifieke uitkering, bedoeld in [artikel 2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050437&artikel=2a&z=2025-11-07&g=2025-11-07), in de beschikking tot verstrekking van de specifieke uitkering voorschotten, die worden betaald in 2027 tot en met 2030.
 

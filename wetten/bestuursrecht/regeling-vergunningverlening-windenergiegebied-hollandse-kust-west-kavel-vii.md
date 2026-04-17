@@ -1,20 +1,46 @@
 ---
-title: "Regeling vergunningverlening windenergiegebied Hollandse Kust (west) kavel VII"
+title: "Regeling van de Minister voor Klimaat en Energie van 5 maart 2022, nr. WJZ/ 21196433, houdende regels inzake de vergunningverlening windenergiegebied Hollandse Kust (west) kavel VII (Regeling vergunningverlening windenergiegebied Hollandse Kust (west) kavel VII)"
 identifier: "BWBR0046405"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-04-01
-laatste_update: 2022-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046405"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-04-01"
+last_updated: "2022-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046405"
+soort: "ministeriele-regeling"
+stam_id: "16292583"
+version_id: "28472592"
+internal_id: "C40173711"
+label_id: "16218854"
+dtd_version: "2.0"
+original_entry_into_force: "2022-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046405/2022-04-01/0"
+intitule_bron: "Stcrt.2022-7093"
+intitule_effect: "wijziging"
+intitule_signed: "2022-03-05"
+intitule_published: "2022-03-09"
+intitule_in_force: "2022-03-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-7093"
+original_signed_date: "2022-03-05"
+original_published_date: "2022-03-09"
+original_effect: "wijziging"
+original_url_id: "stcrt-2022-7093"
+entry_into_force_date: "2022-04-01"
+jci_1_3: "jci1.3:c:BWBR0046405&z=2022-04-01&g=2022-04-01"
+jci_1_0: "1.0:c:BWBR0046405&g=2022-04-01"
+citeertitel_status: "redactioneel"
+short_title: "Regeling vergunningverlening windenergiegebied Hollandse Kust (west) kavel VII"
+signed_date: "2022-03-05"
+entry_into_force: "2022-04-01"
 ---
-
 # Regeling van de Minister voor Klimaat en Energie van 5 maart 2022, nr. WJZ/ 21196433, houdende regels inzake de vergunningverlening windenergiegebied Hollandse Kust (west) kavel VII (Regeling vergunningverlening windenergiegebied Hollandse Kust (west) kavel VII)
 
 Gelet op de [artikelen 10, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=10), [12a, tweede, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=12a), [14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=14), [14a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=14a), [15a, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=15a), [25b, derde en vierde lid, van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=25b);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -26,11 +52,11 @@ In deze regeling wordt verstaan onder:
 
 - **wet:** [Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752).
 
-#### Artikel 2
+##### Artikel 2
 
 De aanvraag voor een vergunning voor kavel VII wordt ingediend in de periode tussen 14 april 2022 en 12 mei 2022, 17:00 uur.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het ontwerp voor het windpark, bedoeld in [artikel 12a, vierde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=12a), omvat ten minste:
 
@@ -104,7 +130,7 @@ De aanvraag voor een vergunning voor kavel VII wordt ingediend in de periode tus
 
 - h. het geïnstalleerd vermogen van de windparken dat de verantwoordelijke voor het onderhoud en de bediening in onderhoud heeft en bedient.
 
-#### Artikel 4
+##### Artikel 4
 
 In aanvulling op [artikel 12a, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=12a) en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046405&artikel=3&z=2022-04-01&g=2022-04-01) bevat de aanvraag:
 
@@ -122,13 +148,13 @@ In aanvulling op [artikel 12a, vierde lid, van de wet](https://wetten.overheid.n
 
 - g. indien van toepassing een bewijs van financiële garanties van de moederorganisatie of- organisaties.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De kosten voor de behandeling van een aanvraag voor een vergunning als bedoeld in [artikel 12a, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=12a) bedragen € 0.
 
 2. De periode bedoeld in [artikel 14, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=14) bedraagt 48 maanden nadat de vergunning onherroepelijk is geworden.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Bij de beoordeling van de technische haalbaarheid van de bouw en exploitatie van een windpark wordt in ieder geval rekening gehouden met:
 
@@ -148,7 +174,7 @@ In aanvulling op [artikel 12a, vierde lid, van de wet](https://wetten.overheid.n
 
 5. Bij de beoordeling van de economische haalbaarheid van de bouw en exploitatie van een windpark wordt in ieder geval rekening gehouden met de door de aanvrager overgelegde raming van de kosten en opbrengsten, bedoeld in [artikel 12a, vierde lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=12a).
 
-#### Artikel 7
+##### Artikel 7
 
 1. De verlening van een vergunning geschiedt met de toepassing van de procedure van een vergelijkende toets met financieel bod.
 
@@ -162,7 +188,7 @@ In aanvulling op [artikel 12a, vierde lid, van de wet](https://wetten.overheid.n
 
 4. Indien of voor zover het project, bedoeld in het derde lid, een demonstratie van innovatie betreft, is blijkens het projectplan bij de uitvoering van de demonstratie sprake zijn van een prototype in een operationele omgeving in de vorm van een pilot.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De onderlinge weging van de rangschikkingscriteria, genoemd in [artikel 25b, tweede lid, onderdelen a, b en c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=25b) en [artikel 7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046405&artikel=7&z=2022-04-01&g=2022-04-01), vindt plaats overeenkomstig de waardering in punten zoals opgenomen in de bijlage waarbij een hoger aantal punten leidt tot een hogere rangschikking.
 
@@ -174,13 +200,13 @@ In aanvulling op [artikel 12a, vierde lid, van de wet](https://wetten.overheid.n
 
 5. Als bij toepassing van het vierde lid twee of meer aanvragen gelijk als hoogste worden gerangschikt, weegt de waardering in punten voor het uitgebrachte financiële bod zwaarder.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De kosten, bedoeld in [artikel 10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=10) bedragen € 13.465.191,35.
 
 2. Degene aan wie de vergunning wordt verleend betaalt de vergoeding van de kosten op een door de minister bekendgemaakte rekening uiterlijk op dag dat de termijn genoemd in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046405&artikel=10&z=2022-04-01&g=2022-04-01), verstrijkt.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De hoogte van de bankgarantie, bedoeld in [artikel 15a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=15a) bedraagt € 70.000.000.
 
@@ -194,11 +220,11 @@ In aanvulling op [artikel 12a, vierde lid, van de wet](https://wetten.overheid.n
 
 - b. € 7.000.000 voor elke maand volgend op het tijdvak waarbinnen het windpark volgens de vergunning volledige dient te zijn gerealiseerd.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze regeling treedt in werking met ingang van 1 april 2022.
 
-#### Artikel 12
+##### Artikel 12
 
 Deze regeling wordt aangehaald als: Regeling vergunningverlening windenergiegebied Hollandse Kust (west) kavel VII.
 

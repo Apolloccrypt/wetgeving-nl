@@ -1,13 +1,37 @@
 ---
 title: "Europees Verdrag inzake de wettelijke bescherming van diensten die op voorwaarden toegankelijk zijn"
 identifier: "BWBV0001624"
-categorie: "Internationaal recht"
-publicatiedatum: 2004-05-01
-laatste_update: 2004-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001624"
+country: "nl"
+rank: "verdrag"
+publication_date: "2004-05-01"
+last_updated: "2004-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001624"
+soort: "verdrag"
+stam_id: "10000114933"
+version_id: "10000157422"
+internal_id: "C10006991231"
+label_id: "10000115224"
+original_entry_into_force: "2004-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001624/2004-05-01/0"
+intitule_bron: "Trb.2001-138"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-01-23"
+intitule_published: "2001-08-16"
+intitule_in_force: "2004-06-09"
+intitule_status: "goed"
+original_publication: "Trb.2002-111"
+original_signed_date: "2004-01-23"
+original_published_date: "2002-06-24"
+original_effect: "structuurwijziging"
+original_url_id: "trb-2002-111"
+entry_into_force_date: "2004-05-01"
+jci_1_3: "jci1.3:c:BWBV0001624&z=2004-05-01&g=2004-05-01"
+jci_1_0: "1.0:c:BWBV0001624&g=2004-05-01"
+citeertitel_status: "officieel"
+signed_date: "2004-01-23"
+entry_into_force: "2004-05-01"
 ---
-
 # Europees Verdrag inzake de wettelijke bescherming van diensten die op voorwaarden toegankelijk zijn
 
 Preambule
@@ -38,11 +62,11 @@ Zijn het volgende overeengekomen:
 
 ### Afdeling I. Algemene bepalingen
 
-#### Artikel 1. Onderwerp en doel
+##### Artikel 1. Onderwerp en doel
 
 Dit Verdrag heeft betrekking op omroepdiensten en diensten van de informatiemaatschappij die tegen betaling worden geleverd en op voorwaarden toegankelijk zijn. Het doel van dit Verdrag is op het grondgebied van de Partijen een aantal activiteiten die leiden tot ongeoorloofde toegang tot beschermde diensten als illegaal aan te merken en de wetgeving van de Partijen op dit gebied nader tot elkaar te brengen.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -60,13 +84,13 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - d. „illegale voorziening", alle apparatuur, software en/of regelingen ontworpen of aangepast ten behoeve van het in begrijpelijke vorm verlenen van toegang tot een van de in onderdeel a van dit artikel genoemde diensten, zonder toestemming van de leverancier van de dienst.
 
-#### Artikel 3. Begunstigden
+##### Artikel 3. Begunstigden
 
 Dit Verdrag is van toepassing op alle rechtspersonen of natuurlijke personen die een beschermde dienst als omschreven in artikel 2, onderdeel a, aanbieden, ongeacht hun nationaliteit en ongeacht of zij al dan niet vallen onder de rechtsmacht van een Partij.
 
 ### Hoofdstuk II. Illegale activiteiten
 
-#### Artikel 4. Strafbare feiten
+##### Artikel 4. Strafbare feiten
 
 Het uitvoeren van een van de volgende activiteiten op het grondgebied van een Partij wordt aangemerkt als onwettig:
 
@@ -88,25 +112,25 @@ Elke Partij kan, te allen tijde, in een verklaring gericht aan de Secretaris-Gen
 
 ### Hoofdstuk III. Sancties en rechtsmiddelen
 
-#### Artikel 5. Sancties tegen illegale activiteiten
+##### Artikel 5. Sancties tegen illegale activiteiten
 
 De Partijen nemen maatregelen om de in artikel 4 omschreven illegale activiteiten strafbaar te stellen met strafrechtelijke, bestuursrechtelijke of andere sancties. Deze maatregelen zijn doeltreffend, afschrikkend en evenredig aan de potentiële gevolgen van de illegale activiteit.
 
-#### Artikel 6. Confiscatoire maatregelen
+##### Artikel 6. Confiscatoire maatregelen
 
 De Partijen nemen de passende maatregelen die nodig kunnen zijn om hen in staat te stellen over te gaan tot beslaglegging op, en confiscatie van illegale voorzieningen of van het promotie-, marketing- of reclamemateriaal gebruikt bij het plegen van een strafbaar feit, alsmede verbeurdverklaring van winsten of financiële voordelen die voortvloeien uit de onwettige activiteit.
 
-#### Artikel 7. Civiele procedure
+##### Artikel 7. Civiele procedure
 
 De Partijen nemen de noodzakelijke maatregelen om te waarborgen dat leveranciers van beschermde diensten van wie de belangen door een hierboven in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001624&hoofdstuk=II&artikel=4&z=2004-05-01&g=2004-05-01) omschreven onwettige activiteit nadelig worden beïnvloed, toegang hebben tot passende rechtsmiddelen, met inbegrip van het aanspannen van een procedure tot schadevergoeding en het verkrijgen van een gerechtelijk bevel of andere preventieve maatregelen, en, waar van toepassing, het verzoeken om verwijdering van illegale voorzieningen uit commerciële kanalen.
 
 ### Hoofdstuk IV. Uitvoering en wijzigingen
 
-#### Artikel 8. Internationale samenwerking
+##### Artikel 8. Internationale samenwerking
 
 De Partijen verplichten zich ertoe elkaar wederzijds bijstand te verlenen teneinde dit Verdrag uit te voeren. De Partijen verlenen elkaar, overeenkomstig de bepalingen van ter zake geldende internationale regelingen inzake internationale samenwerking op het gebied van strafrechtelijke of bestuursrechtelijke zaken en overeenkomstig hun nationale wetgeving, de ruimst mogelijke bijstand bij onderzoek en juridische procedures met betrekking tot overeenkomstig dit Verdrag vastgestelde strafrechtelijke of bestuursrechtelijke vergrijpen.
 
-#### Artikel 9. Multilateraal overleg
+##### Artikel 9. Multilateraal overleg
 
 1. Binnen twee jaar na de inwerkingtreding van dit Verdrag en daarna om de twee jaar en in alle gevallen waarin een Partij daarom verzoekt, plegen de Partijen multilateraal overleg binnen de Raad van Europa ter bestudering van de toepassing van dit Verdrag en de wenselijkheid van verlenging of van wijziging van een bepaling daarvan, in het bijzonder ten aanzien van de begripsomschrijvingen in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001624&afdeling=I&artikel=2&z=2004-05-01&g=2004-05-01). Dit overleg vindt plaats tijdens vergaderingen bijeengeroepen door de Secretaris-Generaal van de Raad van Europa.
 
@@ -118,7 +142,7 @@ De Partijen verplichten zich ertoe elkaar wederzijds bijstand te verlenen tenein
 
 5. Met inachtneming van de bepalingen van dit Verdrag stellen de Partijen het reglement van orde voor de overlegvergaderingen vast.
 
-#### Artikel 10. Wijzigingen
+##### Artikel 10. Wijzigingen
 
 1. Elke Partij kan wijzigingen van dit Verdrag voorstellen.
 
@@ -134,7 +158,7 @@ De Partijen verplichten zich ertoe elkaar wederzijds bijstand te verlenen tenein
 
 7. Indien een wijziging is goedgekeurd door het Comité van Ministers, maar nog niet in werking is getreden in overeenstemming met het vijfde of zesde lid van dit artikel, mag een Staat of de Europese Gemeenschap niet verklaren zich door het Verdrag gebonden te achten zonder tegelijkertijd de wijziging te aanvaarden.
 
-#### Artikel 11. Verhouding tot andere verdragen of akkoorden
+##### Artikel 11. Verhouding tot andere verdragen of akkoorden
 
 1. Dit Verdrag doet geen afbreuk aan de rechten en verplichtingen voortvloeiend uit internationale multilaterale verdragen inzake specifieke kwesties.
 
@@ -146,7 +170,7 @@ De Partijen verplichten zich ertoe elkaar wederzijds bijstand te verlenen tenein
 
 ### Hoofdstuk V. Slotbepalingen
 
-#### Artikel 12. Ondertekening en inwerkingtreding
+##### Artikel 12. Ondertekening en inwerkingtreding
 
 1. Dit Verdrag staat open voor ondertekening door de Lidstaten van de Raad van Europa en de andere Staten die Partij zijn bij het Europees Cultureel Verdrag, en door de Europese Gemeenschap. Deze Staten en de Europese Gemeenschap kunnen hun instemming te worden gebonden tot uitdrukking brengen door:
 
@@ -160,13 +184,13 @@ De Partijen verplichten zich ertoe elkaar wederzijds bijstand te verlenen tenein
 
 4. Ten aanzien van elke ondertekenende Staat of de Europese Gemeenschap die daarna zijn/haar instemming door dit Verdrag te worden gebonden tot uitdrukking brengt, treedt het in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum waarop deze/die, in overeenstemming met de bepalingen van het eerste lid, zijn/haar instemming door het Verdrag te worden gebonden tot uitdrukking heeft gebracht.
 
-#### Artikel 13. Toetreding tot het Verdrag door niet-Lidstaten
+##### Artikel 13. Toetreding tot het Verdrag door niet-Lidstaten
 
 1. Na de inwerkingtreding van dit Verdrag kan het Comité van Ministers van de Raad van Europa, na overleg met de Partijen bij het Verdrag, iedere Staat die niet vermeld wordt in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001624&hoofdstuk=V&artikel=12&z=2004-05-01&g=2004-05-01), uitnodigen toe te treden tot dit Verdrag, door een besluit, genomen door de meerderheid als voorzien in [artikel 20, onderdeel d, van het Statuut van de Raad van Europa](https://wetten.overheid.nl/jci1.3:c:BWBV0005506&artikel=20) en met algemene stemmen van de vertegenwoordigers van de Verdragsluitende Staten die recht hebben op een zetel in het Comité.
 
 2. Ten aanzien van elke toetredende Staat treedt het Verdrag in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van nederlegging van de akte van toetreding bij de Secretaris-Generaal van de Raad van Europa.
 
-#### Artikel 14. Territoriale toepassing
+##### Artikel 14. Territoriale toepassing
 
 1. Elke Staat of de Europese Gemeenschap kan, op het moment van ondertekening of bij de nederlegging van zijn/haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, het gebied of de gebieden waarop dit Verdrag van toepassing is nader aanduiden.
 
@@ -174,21 +198,21 @@ De Partijen verplichten zich ertoe elkaar wederzijds bijstand te verlenen tenein
 
 3. Iedere overeenkomstig de twee voorgaande leden afgelegde verklaring kan, met betrekking tot elk in die verklaring aangewezen grondgebied, worden ingetrokken door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte kennisgeving. De intrekking wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van ontvangst door de Secretaris-Generaal van een dergelijke kennisgeving.
 
-#### Artikel 15. Voorbehouden
+##### Artikel 15. Voorbehouden
 
 Ten aanzien van dit Verdrag kan geen enkel voorbehoud worden gemaakt.
 
-#### Artikel 16. Beslechting van geschillen
+##### Artikel 16. Beslechting van geschillen
 
 In het geval van een geschil tussen Partijen inzake de uitlegging of toepassing van dit Verdrag, trachten de betrokken Partijen tot een minnelijke schikking van het geschil te komen door onderhandeling of andere vreedzame middelen van hun keuze, met inbegrip van voorlegging van het geschil aan een scheidsgerecht, waarvan de beslissingen bindend zijn voor de Partijen.
 
-#### Artikel 17. Opzegging
+##### Artikel 17. Opzegging
 
 1. Iedere Partij kan dit Verdrag, te allen tijde, opzeggen door middel van een kennisgeving gericht aan de Secretaris-Generaal van de Raad van Europa.
 
 2. Deze opzegging wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 18. Kennisgevingen
+##### Artikel 18. Kennisgevingen
 
 De Secretaris-Generaal van de Raad van Europa stelt de Lidstaten van de Raad van Europa, de andere Staten die partij zijn bij het Europees Cultureel Verdrag, de Europese Gemeenschap en iedere andere Staat die is toegetreden tot dit Verdrag in kennis van:
 

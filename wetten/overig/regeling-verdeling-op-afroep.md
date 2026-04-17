@@ -1,13 +1,39 @@
 ---
-title: "Regeling verdeling op afroep"
+title: "Regeling van de Minister van Economische Zaken van 15 februari 2013, nr. WJZ/13014657, houdende regels met betrekking tot de verdeling van frequentieruimte als bedoeld in artikel 3.10, eerste lid, onderdeel b, van de Telecommunicatiewet (Regeling verdeling op afroep)"
 identifier: "BWBR0032899"
-categorie: "Overig"
-publicatiedatum: 2020-09-29
-laatste_update: 2020-09-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032899"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-09-29"
+last_updated: "2020-09-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032899"
+soort: "ministeriele-regeling"
+stam_id: "12108953"
+version_id: "20192212"
+internal_id: "C28390491"
+label_id: "12080764"
+dtd_version: "2.0"
+original_entry_into_force: "2013-03-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032899/2020-09-29/0"
+intitule_bron: "Stcrt.2013-3364"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-02-15"
+intitule_published: "2013-02-15"
+intitule_in_force: "2013-02-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-3364"
+original_signed_date: "2013-02-15"
+original_published_date: "2013-02-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-3364"
+entry_into_force_date: "2013-03-15"
+jci_1_3: "jci1.3:c:BWBR0032899&z=2020-09-29&g=2020-09-29"
+jci_1_0: "1.0:c:BWBR0032899&g=2020-09-29"
+citeertitel_status: "officieel"
+short_title: "Regeling verdeling op afroep"
+signed_date: "2013-02-15"
+entry_into_force: "2013-03-15"
 ---
-
 # Regeling van de Minister van Economische Zaken van 15 februari 2013, nr. WJZ/13014657, houdende regels met betrekking tot de verdeling van frequentieruimte als bedoeld in artikel 3.10, eerste lid, onderdeel b, van de Telecommunicatiewet (Regeling verdeling op afroep)
 
 Gelet op de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=14) en [16 van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=16);
@@ -18,7 +44,7 @@ Treedt in werking op het tijdstip waarop de Wijzigingswet Telecommunicatiewet, e
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -42,7 +68,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. De aanvraag
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een aanvraag tot verlening van een vergunning voor het gebruik van frequentieruimte als bedoeld in [artikel 3.10, eerste lid, onderdeel b, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10) geschiedt door middel van een daartoe strekkend formulier. De aanvraag bevat de in het formulier genoemde gegevens en bescheiden.
 
@@ -58,7 +84,7 @@ In deze regeling wordt verstaan onder:
 
 7. De aanvraag wordt ingediend per post dan wel door persoonlijke overhandiging op een bij publicatie van het aanvraagformulier door de minister bekendgemaakt adres, dan wel, indien beschikbaar, via een door de minister bij publicatie van het aanvraagformulier aan te wijzen elektronisch communicatiekanaal. De persoonlijke overhandiging vindt plaats op werkdagen tussen 8:30 uur en 16:00 uur.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Indien de aanvrager niet heeft voldaan aan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032899&paragraaf=2&artikel=2&z=2020-09-29&g=2020-09-29) gestelde vereisten, deelt de minister dit de aanvrager mee en stelt de minister de aanvrager in de gelegenheid het verzuim te herstellen.
 
@@ -68,7 +94,7 @@ In deze regeling wordt verstaan onder:
 
 4. Indien het verzuim, bedoeld in het eerste lid, binnen de termijn, genoemd in het tweede lid, niet is hersteld of de aanvraag na herstel niet voldoet aan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032899&paragraaf=2&artikel=2&z=2020-09-29&g=2020-09-29) gestelde eisen, kan de minister besluiten de aanvraag overeenkomstig [artikel 4:5 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) niet te behandelen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De aanvrager is een natuurlijke persoon of een rechtspersoon naar Nederlands recht of het equivalent daarvan naar het recht van een van de overige lidstaten van de Europese Unie of een van de overige staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte, en heeft zijn woonplaats, of indien het geen natuurlijke persoon is, is gevestigd in de Europese Economische Ruimte.
 
@@ -80,7 +106,7 @@ In deze regeling wordt verstaan onder:
 
 3. Met de eisen van het tweede lid worden gelijkgesteld zodanige eisen volgens het recht van een van de andere lidstaten van de Europese Unie of een van de andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Indien uit de aanvraag niet blijkt dat aan de eisen, bedoeld in [artikel 4, eerste en het tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032899&paragraaf=2&artikel=4&z=2020-09-29&g=2020-09-29), is voldaan, wijst de minister de aanvraag af.
 
@@ -90,11 +116,11 @@ In deze regeling wordt verstaan onder:
 
 #### § 3. Toewijzing frequentieruimte zonder veiling
 
-#### Artikel 6
+##### Artikel 6
 
 Indien de minister een besluit neemt, als bedoeld in [artikel 16, eerste lid, onderdeel a, van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=16), verleent de minister aan de aanvrager een vergunning voor het gebruik van de in diens aanvraag vermelde hoeveelheid frequentieruimte.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Indien de minister een besluit neemt, als bedoeld in [artikel 16, eerste lid, onderdeel a, van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=16), deelt de minister iedere aanvrager mee aan wie de vergunningen zullen worden verleend.
 
@@ -112,11 +138,11 @@ Indien de minister een besluit neemt, als bedoeld in [artikel 16, eerste lid, on
 
 #### § 4. Veiling
 
-#### Artikel 8
+##### Artikel 8
 
 Indien de Minister een besluit als bedoeld in [artikel 16, eerste lid, onderdeel b, van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=16) heeft genomen zijn de [artikelen 9 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0032899&paragraaf=4&artikel=9&z=2020-09-29&g=2020-09-29) van toepassing.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De veiling vindt plaats door middel van internet, met behulp van een elektronisch veilingsysteem.
 
@@ -128,7 +154,7 @@ Indien de Minister een besluit als bedoeld in [artikel 16, eerste lid, onderdeel
 
 5. De minister leidt de veiling en draagt zorg voor een goed verloop van de veiling.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De minister deelt iedere aanvrager schriftelijk mee of hij als deelnemer wordt toegelaten tot de veiling. Degene die een aanvraag heeft ingediend die voldoet aan de eisen van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032899&paragraaf=2&artikel=2&z=2020-09-29&g=2020-09-29) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0032899&paragraaf=2&artikel=4&z=2020-09-29&g=2020-09-29) wordt toegelaten tot de veiling.
 
@@ -150,7 +176,7 @@ Indien de Minister een besluit als bedoeld in [artikel 16, eerste lid, onderdeel
 
 - h. het bankrekeningnummer, de daarbij behorende naam en de overige bij de overmaking te vermelden gegevens, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0032899&paragraaf=5&artikel=25&z=2020-09-29&g=2020-09-29).
 
-#### Artikel 11
+##### Artikel 11
 
 1. Een aanvrager, inbegrepen diegene die een aanvrager ten behoeve van de veiling bijstaat of een lid van de groep van een aanvrager, verspreidt geen vertrouwelijke informatie en doet geen vertrouwelijke informatie verspreiden aan een andere aanvrager of een derde, en maakt geen vertrouwelijke informatie openbaar tot de mededeling bedoeld in [artikel 24, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032899&paragraaf=5&artikel=24&z=2020-09-29&g=2020-09-29). De vorige volzin is na de mededeling bedoeld in artikel 24, derde lid, niet van toepassing op communicatie over de hoeveelheid, soort of combinatie van vergunningen tussen winnende deelnemers ten behoeve van het bereiken van de overeenstemming, bedoeld in artikel 24, vijfde en zesde lid.
 
@@ -166,7 +192,7 @@ Indien de Minister een besluit als bedoeld in [artikel 16, eerste lid, onderdeel
 
 - b. besluiten dat een of meer biedronden opnieuw moeten worden gehouden.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De minister kan de veiling opschorten voor een termijn van ten hoogste één jaar indien zich naar zijn oordeel bijzondere omstandigheden voordoen buiten de beïnvloedingssfeer van de minister of de deelnemers of indien technische problemen optreden waardoor de veiling tijdelijk geen doorgang kan vinden. Een bijzondere omstandigheid of technisch probleem wordt door een deelnemer onverwijld maar uiterlijk binnen 10 minuten na afloop van een biedronde of verlengde biedronde per telefoon gemeld aan de minister.
 
@@ -182,13 +208,13 @@ Indien de Minister een besluit als bedoeld in [artikel 16, eerste lid, onderdeel
 
 4. Indien de technische problemen optreden bij een deelnemer, kan de minister verlangen dat zijn biedingen worden uitgebracht door middel van een computer die de minister ter beschikking stelt op een door hem te bepalen locatie.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De minister bepaalt wanneer de biedronden van de veiling plaatsvinden en de duur van die biedronden.
 
 2. Een deelnemer is onvoorwaardelijk en onherroepelijk aan zijn bieding gebonden.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Een ongeldige bieding wordt niet in aanmerking genomen bij:
 
@@ -210,11 +236,11 @@ Indien de Minister een besluit als bedoeld in [artikel 16, eerste lid, onderdeel
 
 3. Indien een deelnemer niet heeft voldaan aan de in het tweede lid, onder a tot en met e, gestelde voorwaarden, deelt de minister dit de deelnemer mee en stelt hij de deelnemer in de gelegenheid het verzuim door middel van het elektronisch veilingsysteem te herstellen binnen de duur van de betrokken biedronde, dan wel de verlengde biedronde, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032899&paragraaf=4&artikel=17&z=2020-09-29&g=2020-09-29).
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
-#### Artikel 16
+##### Artikel 16
 
 1. Een deelnemer brengt per biedronde maximaal één bieding uit.
 
@@ -224,7 +250,7 @@ Vervallen
 
 4. Indien een deelnemer in een biedronde geen bieding uitbrengt of een ongeldige bieding uitbrengt, is het aantal vergunningen waarop de betreffende deelnemer in de volgende biedronde biedt nul.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Indien een deelnemer een biedronde laat verstrijken zonder dat hij een bieding uitbrengt wordt die biedronde voor die deelnemer eenmalig van rechtswege verlengd met een termijn van 30 minuten, met dien verstande dat in ten hoogste twee biedronden voor een deelnemer verlenging plaats vindt.
 
@@ -240,7 +266,7 @@ Vervallen
 
 5. De minister deelt in het geval, bedoeld in het eerste lid, zo spoedig mogelijk aan alle deelnemers mee dat de biedronde ten behoeve van een of meer deelnemers is verlengd.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De minister deelt elke deelnemer zo spoedig mogelijk na het einde van een biedronde mee:
 
@@ -264,7 +290,7 @@ Vervallen
 
 3. In afwijking van het eerste lid, onder g en h, wordt geen informatie over de vorige biedronde gegeven indien daarop op grond van [artikel 21, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032899&paragraaf=4&artikel=21&z=2020-09-29&g=2020-09-29), een herstelbiedfase volgt.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De prijs per vergunning is in de eerste biedronde € 0,–.
 
@@ -274,11 +300,11 @@ Vervallen
 
 4. Indien dit naar het oordeel van de minister nodig is voor een evenwichtige vraagontwikkeling of een efficiënt verloop van de veiling kan hij afwijken van het derde lid.
 
-#### Artikel 20
+##### Artikel 20
 
 De laatste biedronde is de eerste biedronde waarin het aantal vergunningen waarop in de biedronde geboden is, gelijk is aan of kleiner is dan het aantal beschikbare vergunningen.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Indien in de laatste biedronde het aantal vergunningen waarop geboden is, gelijk is aan het aantal beschikbare vergunningen, wint elke bieder het aantal vergunningen waarop hij in de laatste ronde een bieding heeft uitgebracht tegen de prijs van de laatste biedronde.
 
@@ -294,7 +320,7 @@ De laatste biedronde is de eerste biedronde waarin het aantal vergunningen waaro
 
 volgt eenmalig een herstelbiedfase. Een herstelbiedfase houdt in dat de laatste biedronde komt te vervallen en opnieuw wordt gehouden, waarbij de minister de rondeprijs in deze biedronde vaststelt op een bedrag hoger dan de rondeprijs in de ronde voorafgaand aan de laatste biedronde, maar lager dan de rondeprijs in de laatste biedronde. De deelnemers die in de ronde voorafgaand aan de laatste biedronde hoger dan nul hebben geboden zijn toegelaten tot deze biedronde. Op biedrondes in de herstelbiedfase zijn [artikel 16, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0032899&paragraaf=4&artikel=16&z=2020-09-29&g=2020-09-29), en [19, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032899&paragraaf=4&artikel=19&z=2020-09-29&g=2020-09-29), van overeenkomstige toepassing en is, in afwijking van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0032899&paragraaf=4&artikel=20&z=2020-09-29&g=2020-09-29) en 21, [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0032899&paragraaf=4&artikel=22&z=2020-09-29&g=2020-09-29) van toepassing.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De laatste biedronde in de herstelbiedfase is de eerste biedronde in die fase waarin het aantal vergunningen waarop in de biedronde geboden is:
 
@@ -314,13 +340,13 @@ volgt eenmalig een herstelbiedfase. Een herstelbiedfase houdt in dat de laatste 
 
 #### § 5. Toewijzing frequentieruimte na veiling
 
-#### Artikel 23
+##### Artikel 23
 
 1. De frequentieruimte waarop de vergunningen die aan een aanvrager worden verleend, betrekking hebben, is indien mogelijk aaneengesloten.
 
 2. Indien het totaal aan frequentieruimte waarop de te verlenen vergunningen betrekking hebben, kleiner is dan de beschikbare frequentieruimte binnen de band, worden de vergunningen zodanig verleend dat de frequentieruimte binnen de band waarvoor geen vergunning wordt verleend aaneengesloten is.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Aan een winnende deelnemer wordt een vergunning verleend voor het aantal vergunningen waarop hij in de finale winnende combinatie heeft geboden. De prijs voor die vergunning is gelijk aan het aantal vergunningen waarop de winnende deelnemer in deze combinatie heeft geboden, vermenigvuldigd met de hoogste rondeprijs waartegen de deelnemer deze bieding heeft uitgebracht.
 
@@ -340,17 +366,17 @@ volgt eenmalig een herstelbiedfase. Een herstelbiedfase houdt in dat de laatste 
 
 7. De minister deelt na verlening van de vergunningen iedere deelnemer mee voor welke frequentieruimte de vergunningen zijn verleend en aan welke winnende deelnemer. De minister maakt de datum van het einde van de VOA-procedure en de nadien nog beschikbare frequentieruimte binnen de band waarop de procedure betrekking had, bekend.
 
-#### Artikel 25
+##### Artikel 25
 
 Uiterlijk twee weken nadat de mededeling, bedoeld in [artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032899&paragraaf=5&artikel=24&z=2020-09-29&g=2020-09-29), is gedaan, betaalt de deelnemer wiens bieding onderdeel uitmaakt van de finale winnende combinatie de door hem verschuldigde totaalprijs, door overmaking van dat bedrag op het krachtens [artikel 10, tweede lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0032899&paragraaf=4&artikel=10&z=2020-09-29&g=2020-09-29), meegedeelde bankrekeningnummer, ten name van de daarbij meegedeelde naam en onder vermelding van de daarbij meegedeelde gegevens.
 
 #### § 6. Slotbepalingen
 
-#### Artikel 26
+##### Artikel 26
 
 Deze regeling treedt in werking op het tijdstip waarop het bij koninklijke boodschap van 9 april 2008 ingediende voorstel van wet houdende wijziging van de Telecommunicatiewet in verband met de Nota frequentiebeleid 2005 (Kamerstukken 31412) in werking treedt.
 
-#### Artikel 27
+##### Artikel 27
 
 Deze regeling wordt aangehaald als: Regeling verdeling op afroep.
 

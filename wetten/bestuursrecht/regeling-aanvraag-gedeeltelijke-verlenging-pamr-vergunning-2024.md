@@ -1,13 +1,39 @@
 ---
-title: "Regeling aanvraag gedeeltelijke verlenging PAMR-vergunning 2024"
+title: "Regeling van de Minister van Economische Zaken en Klimaat van 9 maart 2024, nr. WJZ/ 40938380, houdende regels voor het aanvragen van een verlenging van de vergunning voor Public Access Mobile Radio in de 450 – 470 MHz-band (Regeling aanvraag gedeeltelijke verlenging PAMR-vergunning 2024)"
 identifier: "BWBR0049460"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-03-15
-laatste_update: 2024-03-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049460"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-03-15"
+last_updated: "2024-03-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049460"
+soort: "ministeriele-regeling"
+stam_id: "17049843"
+version_id: "29998912"
+internal_id: "C43006991"
+label_id: "16959254"
+dtd_version: "2.0"
+original_entry_into_force: "2024-03-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049460/2024-03-15/0"
+intitule_bron: "Stcrt.2024-5716"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-03-09"
+intitule_published: "2024-03-14"
+intitule_in_force: "2024-03-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-5716"
+original_signed_date: "2024-03-09"
+original_published_date: "2024-03-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-5716"
+entry_into_force_date: "2024-03-15"
+jci_1_3: "jci1.3:c:BWBR0049460&z=2024-03-15&g=2024-03-15"
+jci_1_0: "1.0:c:BWBR0049460&g=2024-03-15"
+citeertitel_status: "officieel"
+short_title: "Regeling aanvraag gedeeltelijke verlenging PAMR-vergunning 2024"
+signed_date: "2024-03-09"
+entry_into_force: "2024-03-15"
 ---
-
 # Regeling van de Minister van Economische Zaken en Klimaat van 9 maart 2024, nr. WJZ/ 40938380, houdende regels voor het aanvragen van een verlenging van de vergunning voor Public Access Mobile Radio in de 450 – 470 MHz-band (Regeling aanvraag gedeeltelijke verlenging PAMR-vergunning 2024)
 
 Gelet op [artikel 18, achtste en vijftiende lid, van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=18);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -24,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 - b. **PAMR-vergunning:** dat deel van de vergunning met dossiernummer 5749257 voor het gebruik van de frequentieruimte 451,76875 – 454,76875 MHz gepaard met 461,76875 – 464,76875 MHz ten behoeve van PAMR (Public Access Mobile Radio) dat op grond van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047499&artikel=1) juncto [2, tweede lid, van het Besluit gedeeltelijke verlengbaarheid PAMR-vergunning 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0047499&artikel=2) verlengbaar is.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een aanvraag om verlenging van de looptijd van de PAMR-vergunning voor de periode 18 november 2024 tot en met 30 juni 2035 wordt ingediend bij de minister.
 
@@ -34,11 +60,11 @@ In deze regeling wordt verstaan onder:
 
 4. De aanvraag wordt ingediend met gebruikmaking van het in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0049460&bijlage=1&z=2024-03-15&g=2024-03-15) opgenomen model en gaat vergezeld van de in dit model genoemde gegevens en bescheiden.
 
-#### Artikel 3
+##### Artikel 3
 
 Indien niet is voldaan aan [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049460&paragraaf=1&artikel=2&z=2024-03-15&g=2024-03-15), wijst de minister de aanvraag tot verlenging van de PAMR-vergunning af.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien de aanvrager niet heeft voldaan aan een van de in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049460&paragraaf=1&artikel=2&z=2024-03-15&g=2024-03-15), gestelde eisen, deelt de minister dit de aanvrager mee en stelt de minister de aanvrager in de gelegenheid het verzuim te herstellen.
 
@@ -48,15 +74,15 @@ Indien niet is voldaan aan [artikel 2, tweede lid](https://wetten.overheid.nl/jc
 
 4. Indien het verzuim niet binnen de termijn, bedoeld in het tweede lid, en op de wijze, genoemd in het derde lid, is hersteld of de aanvrager na herstel niet heeft voldaan aan de in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049460&paragraaf=1&artikel=2&z=2024-03-15&g=2024-03-15), gestelde eisen, kan de aanvraag buiten behandeling worden gelaten.
 
-#### Artikel 5
+##### Artikel 5
 
 De [Regeling aanvraag verlenging PAMR-vergunning](https://wetten.overheid.nl/jci1.3:c:BWBR0042292) wordt ingetrokken.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling wordt aangehaald als: Regeling aanvraag gedeeltelijke verlenging PAMR-vergunning 2024.
 

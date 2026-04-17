@@ -1,13 +1,39 @@
 ---
-title: "Aanpassingsbesluit herziening gerechtelijke kaart"
+title: "Besluit van 13 december 2012, houdende aanpassing van diverse besluiten in verband met de vermindering van het aantal ressorten en arrondissementen (Aanpassingsbesluit herziening gerechtelijke kaart)"
 identifier: "BWBR0032531"
-categorie: "Bestuursrecht"
-publicatiedatum: 2013-01-01
-laatste_update: 2013-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032531"
+country: "nl"
+rank: "amvb"
+publication_date: "2013-01-01"
+last_updated: "2013-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032531"
+soort: "AMvB"
+stam_id: "11976443"
+version_id: "19909032"
+internal_id: "C27971871"
+label_id: "11948464"
+dtd_version: "2.0"
+original_entry_into_force: "2013-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032531/2013-01-01/0"
+intitule_bron: "Stb.2012-650"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-12-13"
+intitule_published: "2012-12-20"
+intitule_in_force: "2012-12-20"
+intitule_status: "goed"
+original_publication: "Stb.2012-650"
+original_signed_date: "2012-12-13"
+original_published_date: "2012-12-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2012-650"
+entry_into_force_date: "2013-01-01"
+jci_1_3: "jci1.3:c:BWBR0032531&z=2013-01-01&g=2013-01-01"
+jci_1_0: "1.0:c:BWBR0032531&g=2013-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Aanpassingsbesluit herziening gerechtelijke kaart"
+signed_date: "2012-12-13"
+entry_into_force: "2013-01-01"
 ---
-
 # Besluit van 13 december 2012, houdende aanpassing van diverse besluiten in verband met de vermindering van het aantal ressorten en arrondissementen (Aanpassingsbesluit herziening gerechtelijke kaart)
 
 Op de voordracht van Onze Minister van Veiligheid en Justitie van 15 november 2012, nr. 322808;
@@ -20,91 +46,91 @@ Gezien het nader rapport van Onze Minister van Veiligheid en Justitie van 7 dece
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Beroepsreglement.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Besluit bewaren en vernietigen niet-gevoegde stukken.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Besluit College van afgevaardigden.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het Besluit curateleregister, het Vreemdelingenbesluit 2000, het Besluit boedelregister en het Reglement voor de Kamer voor de Binnenvisserij 1964.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Besluit gezagsregisters.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt het Besluit openbare biedingen Wft.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt het Besluit orde van dienst gerechten.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt het Besluit prudentiële regels Wft.
 
-#### Artikel IX
+##### Artikel IX
 
 Het [Besluit tijdelijke aanwijzing bevoegde rechtbanken](https://wetten.overheid.nl/jci1.3:c:BWBR0030170) wordt ingetrokken.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt het Besluit regelen nopens beheer Grootboek 1946.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt het Besluit ex artikel 4 Wet installaties Noordzee.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt het Reglement dienst hoofd- en lokaalspoorwegen.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt het Besluit ex artikel 2 Uitvoeringswet Europees Verdrag inzake rechtspositie migrerende werknemers.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt het Besluit vaststelling van het aantal raden van tucht voor registeraccountants en Accountants-Administratieconsulenten, van hun zetel en rechtsgebied, alsmede van hun relatieve bevoegdheid.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt het Vaststellingsbesluit regels met betrekking tot commissies bedoeld in Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt het Reglement op de Raccordementen 1966.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Wijzigt het Reglement verpleging ter beschikking gestelden.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Wijzigt het Tramwegreglement.
 
-#### Artikel XIX
+##### Artikel XIX
 
 Wijzigt het Tuchtrechtbesluit Landbouwkwaliteitswet.
 
-#### Artikel XX
+##### Artikel XX
 
 Wijzigt het Uitvoeringsbesluit pacht.
 
-#### Artikel XXI
+##### Artikel XXI
 
 Wijzigt het Uitvoeringsbesluit pacht.
 
-#### Artikel XXII
+##### Artikel XXII
 
 In afwijking van [artikel 3, tweede lid, van het Besluit College van afgevaardigden](https://wetten.overheid.nl/jci1.3:c:BWBR0013128&artikel=3) maken de leden van een commissie als bedoeld in artikel 3 van dat besluit, die op de dag voorafgaand aan de inwerkingtreding van dit besluit deel uitmaken van de hieronder in de linkerkolom genoemde commissie, van rechtswege deel uit van de daarbij in de rechterkolom genoemde commissie. Voor hen vangt geen nieuwe termijn als bedoeld in artikel 3, tweede lid, van het Besluit College van afgevaardigden aan.
 
@@ -115,11 +141,11 @@ In afwijking van [artikel 3, tweede lid, van het Besluit College van afgevaardig
 | Commissie ressort ’s-Hertogenbosch | Commissie ressort ’s-Hertogenbosch |
 | Commissie ressort Leeuwarden | Commissie ressort Arnhem-Leeuwarden |
 
-#### Artikel XXIII
+##### Artikel XXIII
 
 De Commissies bedoeld in [artikel 3 van het Besluit College van afgevaardigden](https://wetten.overheid.nl/jci1.3:c:BWBR0013128&artikel=3) wijzen onder degenen die op de dag voorafgaand aan de inwerkingtreding van dit besluit namens het ressort Amsterdam, onderscheidenlijk het ressort Arnhem of het ressort Leeuwarden, onderscheidenlijk het ressort ’s-Gravenhage, onderscheidenlijk het ressort ’s-Hertogenbosch deel uitmaken van het College, bedoeld in [artikel 90 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=90), de leden aan die namens het ressort Amsterdam, onderscheidenlijk het ressort Arnhem-Leeuwarden, onderscheidenlijk het ressort Den Haag, onderscheidenlijk het ressort ’s-Hertogenbosch deel uitmaken van het College. Voor hen vangt geen nieuwe termijn als bedoeld in [artikel 2, vijfde lid, van het Besluit College van afgevaardigden](https://wetten.overheid.nl/jci1.3:c:BWBR0013128&artikel=2) aan.
 
-#### Artikel XXIV
+##### Artikel XXIV
 
 Dit besluit treedt in werking op 1 januari 2013.
 

@@ -1,13 +1,39 @@
 ---
-title: "Wijzigingsbesluit Besluit tankstations milieubeheer, enz. (financiële zekerheid, keuringsdocumenten en bevoegdgezagorganen)"
+title: "Besluit van 12 december 2002 tot wijziging van het Besluit tankstations milieubeheer, het Besluit verplicht bodemonderzoek bedrijfsterreinen en het Besluit opslaan in ondergrondse tanks 1998 (financiële zekerheid, keuringsdocumenten en bevoegdgezagorganen)"
 identifier: "BWBR0014450"
-categorie: "Milieu"
-publicatiedatum: 2004-07-01
-laatste_update: 2004-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0014450"
+country: "nl"
+rank: "amvb"
+publication_date: "2004-07-01"
+last_updated: "2004-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0014450"
+soort: "AMvB"
+stam_id: "3254963"
+version_id: "5007472"
+internal_id: "C5066501"
+label_id: "3234094"
+dtd_version: "2.0"
+original_entry_into_force: "2003-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0014450/2004-07-01/0"
+intitule_bron: "Stb.2002-645"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-12-12"
+intitule_published: "2002-12-24"
+intitule_in_force: "2002-12-24"
+intitule_status: "goed"
+original_publication: "Stb.2002-645"
+original_signed_date: "2002-12-12"
+original_published_date: "2002-12-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2002-645"
+entry_into_force_date: "2003-02-01"
+jci_1_3: "jci1.3:c:BWBR0014450&z=2004-07-01&g=2004-07-01"
+jci_1_0: "1.0:c:BWBR0014450&g=2004-07-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsbesluit Besluit tankstations milieubeheer, enz. (financiële zekerheid, keuringsdocumenten en bevoegdgezagorganen)"
+signed_date: "2002-12-12"
+entry_into_force: "2003-02-01"
 ---
-
 # Besluit van 12 december 2002 tot wijziging van het Besluit tankstations milieubeheer, het Besluit verplicht bodemonderzoek bedrijfsterreinen en het Besluit opslaan in ondergrondse tanks 1998 (financiële zekerheid, keuringsdocumenten en bevoegdgezagorganen)
 
 Op de voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 23 januari 2002, nr. MJZ2002004104, Centrale Directie Juridische Zaken, Afdeling Wetgeving;
@@ -20,25 +46,25 @@ Gezien het nader rapport van de Staatssecretaris van Volkshuisvesting, Ruimtelij
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Besluit tankstations milieubeheer.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Besluit opslaan in ondergrondse tanks 1998.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Besluit verplicht bodemonderzoek bedrijfsterreinen.
 
-#### Artikel IV
+##### Artikel IV
 
 1. Gedurende een jaar na inwerkingtreding van [artikel I, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0014450&artikel=I&z=2004-07-01&g=2004-07-01), blijft KIWA Inspecties BV, gevestigd te Rijswijk, gerechtigd de in het [Besluit tankstations milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0006423) onderscheidenlijk het [Besluit opslaan in ondergrondse tanks 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009747) voorgeschreven inspecties uit te voeren met toepassing van het bepaalde bij en krachtens dit besluit, zoals dit luidde voor bedoeld tijdstip.
 
 2. Een met toepassing van het eerste lid uitgevoerde inspectie wordt voor de toepassing van het [Besluit tankstations milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0006423) gelijkgesteld met een inspectie, uitgevoerd volgens het bepaalde bij en krachtens dat besluit.
 
-#### Artikel V
+##### Artikel V
 
 Dit besluit treedt in werking met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met uitzondering van:
 

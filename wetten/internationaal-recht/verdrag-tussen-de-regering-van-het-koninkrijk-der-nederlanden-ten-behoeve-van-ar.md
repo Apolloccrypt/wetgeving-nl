@@ -1,13 +1,32 @@
 ---
 title: "Verdrag tussen de regering van het Koninkrijk der Nederlanden ten behoeve van Aruba en de regering van de Verenigde Staten van Amerika inzake douane-voorinspectie"
 identifier: "BWBV0007118"
-categorie: "Internationaal recht"
-publicatiedatum: 2025-10-28
-laatste_update: 2025-10-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0007118"
+country: "nl"
+rank: "verdrag"
+publication_date: "2025-10-28"
+last_updated: "2025-10-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0007118"
+soort: "verdrag"
+stam_id: "10005716493"
+version_id: "10006315572"
+internal_id: "C10010221401"
+label_id: "10005697754"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0007118/2025-10-28/0"
+intitule_bron: "Trb.2025-84"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2025-11-04"
+intitule_status: "nogniet"
+original_publication: "Trb.2025-84"
+original_published_date: "2025-11-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2025-84"
+jci_1_3: "jci1.3:c:BWBV0007118&z=2025-10-28&g=2025-10-28"
+jci_1_0: "1.0:c:BWBV0007118&g=2025-10-28"
+citeertitel_status: "redactioneel"
+entry_into_force: "2025-11-04"
 ---
-
 # Verdrag tussen de regering van het Koninkrijk der Nederlanden ten behoeve van Aruba en de regering van de Verenigde Staten van Amerika inzake douane-voorinspectie
 
 The Government of the Kingdom of the Netherlands, in respect of Aruba
@@ -26,7 +45,7 @@ recognizing that Preclearance being conducted in Aruba provides a homeland and n
 
 Agree as follows:
 
-#### Article I. Definitions
+##### Article I. Definitions
 
 For the purposes of this Agreement:
 
@@ -92,7 +111,7 @@ For the purposes of this Agreement:
 
 - 23. „United States” means the United States of America and its Government (including any United States agency associated with Preclearance operations, and in particular CBP), as appropriate.
 
-#### Article II. Scope
+##### Article II. Scope
 
 1. The Parties agree that this Agreement shall apply to Preclearance conducted at Queen Beatrix International Airport. The Parties shall mutually agree in writing on any additional airport location(s) where this Agreement shall apply. However Preclearance at such future locations shall not be authorized until the Airport Operator has executed an understanding with the United States in support of Preclearance at that airport.
 
@@ -106,7 +125,7 @@ For the purposes of this Agreement:
 
 6. This Agreement does not create any right, benefit, or privilege for any private party or person.
 
-#### Article III. Aruba Obligations and Authorities
+##### Article III. Aruba Obligations and Authorities
 
 1. In order to preserve the integrity of Preclearance, Aruba shall:
 
@@ -162,7 +181,7 @@ For the purposes of this Agreement:
 
 - (ii). collect information (including biometric information) from applicants as needed by the United States to evaluate membership in such program.
 
-#### Article IV. United States Obligations and Authorities
+##### Article IV. United States Obligations and Authorities
 
 1. In order to preserve the integrity of Preclearance, the United States, acting through its Preclearance Officers, shall have the right:
 
@@ -232,7 +251,7 @@ For the purposes of this Agreement:
 
 - b). Collect information (including biometric information) from applicants as needed by the United States to evaluate membership in such program.
 
-#### Article V. Role of the Airport Operator
+##### Article V. Role of the Airport Operator
 
 1. Aruba shall ensure that the Airport Operator or other responsible entity:
 
@@ -266,7 +285,7 @@ For the purposes of this Agreement:
 
 3. The obligations and responsibilities of Aruba with respect to the Airport Operator under this Agreement may be implemented by another entity if mutually decided in writing by the Parties. In that case, all obligations and responsibilities of Aruba with respect to the Airport Operator under this Agreement shall become obligations and responsibilities with respect to such other entity. As soon as practicable but before such change occurs, Aruba shall notify the United States of any intended change in the entity implementing the responsibilities of the Airport Operator.
 
-#### Article VI. Privileges and Immunities
+##### Article VI. Privileges and Immunities
 
 1. The Government of the Kingdom of the Netherlands on behalf of Aruba shall grant to all United States citizen employees of the Government of the United States of America assigned to duties in Aruba in connection with this Agreement the privileges and immunities equivalent to those accorded to consular officers of a consular post under the Vienna Convention on Consular Relations of 1963.
 
@@ -282,7 +301,7 @@ For the purposes of this Agreement:
 
 7. Dependents of Preclearance Officers by operation of law have admission to Aruba and no further conditions, other than those generally applicable to any registered local citizen, shall be applicable to exercise a profession or performance of work.
 
-#### Article VII. Application of Law and Jurisdiction
+##### Article VII. Application of Law and Jurisdiction
 
 1. The United States may, in the process of preclearing aircraft, Travelers, Goods, and Aircraft Stores in Aruba, apply any of its customs, immigration, agriculture, border security, and public health laws and regulations for the purposes of enforcing such laws and regulations; and establishing and enforcing penalties, forfeitures, and other sanctions for violations of these laws and regulations. The Parties acknowledge that, in the process of preclearing aircraft, Travelers, Goods, and Aircraft Stores, the United States shall not enforce its criminal law in Aruba through arrest or prosecution.
 
@@ -308,7 +327,7 @@ For the purposes of this Agreement:
 
 12. The United States shall provide reasonable assistance to Aruba in relation to the detection and processing of offenses under the laws of Aruba and in the context of this Agreement or any challenges to the authorities provided by this Agreement, consistent with any applicable law enforcement agreement between the Parties.
 
-#### Article VIII. Operations and Procedures
+##### Article VIII. Operations and Procedures
 
 1. The Parties agree that any Air Carrier or Aircraft Commander shall have the option to request either Preclearance or Post-Clearance, with Preclearance being subject to approval by the United States and the following conditions:
 
@@ -330,7 +349,7 @@ For the purposes of this Agreement:
 
 - (ii). Aircraft Commanders shall be required to comply with laws governing landing, entry, and clearance in the United States. The Airport Operator shall ensure that all Aircraft Commanders seeking Preclearance provide advance notice of their departure from the territory of Aruba to the territory of the United States in order to schedule Preclearance services. The Parties shall develop mutually accepted procedures to ensure adequate advance notice of requests for the Preclearance of Private Aircraft.
 
-#### Article IX. Costs
+##### Article IX. Costs
 
 1. The Parties agree that the following conditions shall apply to the payment of the costs referred to in [subparagraph 1(l) of Article V](https://wetten.overheid.nl/jci1.3:c:BWBV0007118&artikel=V&z=2025-10-28&g=2025-10-28):
 
@@ -356,23 +375,23 @@ For the purposes of this Agreement:
 
 3. Neither Party shall be responsible for costs associated with persons obtaining advice from legal counsel during Preclearance, if permitted.
 
-#### Article X. Consultations
+##### Article X. Consultations
 
 1. Either Party may request consultations with the other Party on any matter related to this Agreement. Such consultations shall begin within 60 days from the date the other Party receives the request unless otherwise agreed between the Parties.
 
 2. Any issues that arise concerning implementation of this Agreement between the local representatives of the Parties involved in the operation of Preclearance shall, in the first instance, be addressed by the local representatives. Issues that cannot be resolved between the local representatives shall be referred by them for resolution to a consultative group consisting of representatives of the Parties.
 
-#### Article XI. Territorial scope
+##### Article XI. Territorial scope
 
 As far as the Kingdom of the Netherlands is concerned, this Agreement shall be applicable only to Aruba.
 
-#### Article XII. Amendments
+##### Article XII. Amendments
 
 1. The Parties may amend this Agreement by mutual written agreement.
 
 2. Any amendment to the Agreement agreed upon by the Parties shall enter into force in accordance with the procedure described in [paragraph 1 of Article XIII](https://wetten.overheid.nl/jci1.3:c:BWBV0007118&artikel=XIII&z=2025-10-28&g=2025-10-28).
 
-#### Article XIII. Entry into Force and Duration
+##### Article XIII. Entry into Force and Duration
 
 1. This Agreement shall enter into force on the date of the receipt of the last note in an exchange of diplomatic notes in which the Parties notify each other of the completion of their respective internal procedures necessary for the entry into force of this Agreement.
 

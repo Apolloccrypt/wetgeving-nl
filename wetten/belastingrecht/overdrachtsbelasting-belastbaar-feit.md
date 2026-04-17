@@ -1,13 +1,38 @@
 ---
 title: "Overdrachtsbelasting, belastbaar feit"
 identifier: "BWBR0045104"
-categorie: "Belastingrecht"
-publicatiedatum: 2021-05-07
-laatste_update: 2021-05-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045104"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2021-05-07"
+last_updated: "2021-05-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045104"
+soort: "beleidsregel"
+stam_id: "15946443"
+version_id: "27748752"
+internal_id: "C39139871"
+label_id: "15881194"
+dtd_version: "2.0"
+original_entry_into_force: "2021-05-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045104/2021-05-07/0"
+intitule_bron: "Stcrt.2021-22617"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-04-23"
+intitule_published: "2021-05-06"
+intitule_in_force: "2021-05-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-22617"
+original_signed_date: "2021-04-23"
+original_published_date: "2021-05-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-22617"
+entry_into_force_date: "2021-05-07"
+jci_1_3: "jci1.3:c:BWBR0045104&z=2021-05-07&g=2021-05-07"
+jci_1_0: "1.0:c:BWBR0045104&g=2021-05-07"
+citeertitel_status: "redactioneel"
+signed_date: "2021-04-23"
+entry_into_force: "2021-05-07"
 ---
-
 # Overdrachtsbelasting, belastbaar feit
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

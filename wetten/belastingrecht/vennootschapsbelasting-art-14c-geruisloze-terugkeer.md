@@ -1,13 +1,38 @@
 ---
 title: "Vennootschapsbelasting; art. 14c; geruisloze terugkeer"
 identifier: "BWBR0041539"
-categorie: "Belastingrecht"
-publicatiedatum: 2023-07-18
-laatste_update: 2023-07-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041539"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2023-07-18"
+last_updated: "2023-07-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041539"
+soort: "beleidsregel"
+stam_id: "14855693"
+version_id: "25411532"
+internal_id: "C36277451"
+label_id: "14808314"
+dtd_version: "2.0"
+original_entry_into_force: "2018-11-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041539/2023-07-18/0"
+intitule_bron: "Stcrt.2018-62988"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-10-02"
+intitule_published: "2018-11-09"
+intitule_in_force: "2018-11-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-62988"
+original_signed_date: "2018-10-02"
+original_published_date: "2018-11-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-62988"
+entry_into_force_date: "2018-11-10"
+jci_1_3: "jci1.3:c:BWBR0041539&z=2023-07-18&g=2023-07-18"
+jci_1_0: "1.0:c:BWBR0041539&g=2023-07-18"
+citeertitel_status: "redactioneel"
+signed_date: "2018-10-02"
+entry_into_force: "2018-11-10"
 ---
-
 # Vennootschapsbelasting; art. 14c; geruisloze terugkeer
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

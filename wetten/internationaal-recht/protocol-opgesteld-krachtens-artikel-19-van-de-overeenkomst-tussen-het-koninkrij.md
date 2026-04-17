@@ -1,18 +1,40 @@
 ---
 title: "Protocol opgesteld krachtens artikel 19 van de Overeenkomst tussen het Koninkrijk der Nederlanden en de Portugese Republiek betreffende het internationale wegvervoer"
 identifier: "BWBV0004954"
-categorie: "Internationaal recht"
-publicatiedatum: 1979-11-01
-laatste_update: 1979-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004954"
+country: "nl"
+rank: "verdrag"
+publication_date: "1979-11-01"
+last_updated: "1979-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004954"
+soort: "verdrag"
+stam_id: "10004404383"
+version_id: "10004608652"
+internal_id: "C10006983441"
+label_id: "10004389194"
+dtd_version: "2.0"
+original_entry_into_force: "1973-08-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004954/1979-11-01/0"
+intitule_bron: "Trb.1973-3"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1973-01-12"
+intitule_in_force: "1973-09-03"
+intitule_status: "goed"
+original_publication: "Trb.1973-3"
+original_published_date: "1973-01-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1973-3"
+entry_into_force_date: "1973-08-16"
+jci_1_3: "jci1.3:c:BWBV0004954&z=1979-11-01&g=1979-11-01"
+jci_1_0: "1.0:c:BWBV0004954&g=1979-11-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1973-08-16"
 ---
-
 # Protocol opgesteld krachtens artikel 19 van de Overeenkomst tussen het Koninkrijk der Nederlanden en de Portugese Republiek betreffende het internationale wegvervoer
 
 Met het oog op de toepassing van genoemde Overeenkomst zijn de Directeur-Generaal van het Verkeer en de „Director-Geral de Transportes Terrestres”, de bevoegde autoriteiten van het Koninkrijk der Nederlanden en de Republiek Portugal, overeengekomen als volgt:
 
-#### I. Met betrekking tot artikel 1
+##### I. Met betrekking tot artikel 1
 
 De voertuigen die zijn ingeschreven in het land van een der Overeenkomstsluitende Partijen zijn bevoegd bij bevrachting voor de terugrit goederen te laden op het grondgebied van de andere Overeenkomstsluitende Partij die zijn bestemd voor een derde land op de volgende voorwaarden:
 
@@ -20,7 +42,7 @@ De voertuigen die zijn ingeschreven in het land van een der Overeenkomstsluitend
 
 - b. in andere gevallen en bij wijze van proef met een beperking tot 1/3 van het aantal vergunningen dat is vastgesteld bij toepassing van artikel 9 van de Overeenkomst.
 
-#### II. Met betrekking tot de artikelen 2, 4 en 5
+##### II. Met betrekking tot de artikelen 2, 4 en 5
 
 1. De bevoegde autoriteiten aan wie de aanvragen om vergunning dienen te worden gericht en die deze vergunningen afgeven, zijn de volgende:
 
@@ -60,7 +82,7 @@ Zij dienen vergezeld te gaan van de volgende gegevens:
 
 4. In het reizigersvervoer mogen geen dagtrajecten worden opgenomen van meer dan 450 km.
 
-#### III. Met betrekking tot artikel 3
+##### III. Met betrekking tot artikel 3
 
 De verklaringen die worden afgegeven overeenkomstig artikel 3 dienen de volgende gegevens te bevatten:
 
@@ -74,7 +96,7 @@ De verklaringen die worden afgegeven overeenkomstig artikel 3 dienen de volgende
 
 - -. reisweg en eindpunten van de dagtrajecten.
 
-#### IV. Met betrekking tot de artikelen 7, 9 en 10
+##### IV. Met betrekking tot de artikelen 7, 9 en 10
 
 1. Voor de toepassing van artikel 9 van de Overeenkomst wordt het aantal vergunningen voorlopig vastgesteld voor elk kalenderjaar.
 
@@ -112,7 +134,7 @@ Zij gaan vergezeld van hetzij de vrachtbrief (GMR), hetzij een vervoerverslag, v
 
 - -. Voor het Koninkrijk der Nederlanden: Directeur-Generaal van het Verkeer Plesmanweg 1-6 Den Haag
 
-#### V. Met betrekking tot artikel 14
+##### V. Met betrekking tot artikel 14
 
 De aanvragen om bijzondere vergunningen dienen te worden gericht
 
@@ -120,11 +142,11 @@ De aanvragen om bijzondere vergunningen dienen te worden gericht
 
 - b. door Nederlandse vervoerders aan Director-Geral de Transportes Terrestres Avenida 28 de Maio, 40 Lisboa-4
 
-#### VI. Met betrekking tot artikel 15
+##### VI. Met betrekking tot artikel 15
 
 De tekst van de vertaling is niet beschikbaar.
 
-#### VII. Met betrekking tot artikel 17
+##### VII. Met betrekking tot artikel 17
 
 1. De bevoegde autoriteiten doen elkander binnen twee maanden na afloop van elk kalenderjaar een opgave toekomen van de door hen in het afgelopen jaar afgegeven vergunningen.
 

@@ -1,20 +1,46 @@
 ---
-title: "Regeling specifieke uitkering startbouwimpuls"
+title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 30 november 2023, nr. 2023-0000652636, houdende regels met betrekking tot de verstrekking van een specifieke uitkering aan gemeenten en openbare lichamen ter stimulering van woningbouwprojecten (Regeling specifieke uitkering startbouwimpuls)"
 identifier: "BWBR0049006"
-categorie: "Sociaal recht"
-publicatiedatum: 2023-12-07
-laatste_update: 2023-12-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049006"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-12-07"
+last_updated: "2023-12-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049006"
+soort: "ministeriele-regeling"
+stam_id: "16947673"
+version_id: "29789182"
+internal_id: "C42695711"
+label_id: "16858134"
+dtd_version: "2.0"
+original_entry_into_force: "2023-12-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049006/2023-12-07/0"
+intitule_bron: "Stcrt.2023-33282"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-11-30"
+intitule_published: "2023-12-06"
+intitule_in_force: "2023-12-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-33282"
+original_signed_date: "2023-11-30"
+original_published_date: "2023-12-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-33282"
+entry_into_force_date: "2023-12-07"
+jci_1_3: "jci1.3:c:BWBR0049006&z=2023-12-07&g=2023-12-07"
+jci_1_0: "1.0:c:BWBR0049006&g=2023-12-07"
+citeertitel_status: "officieel"
+short_title: "Regeling specifieke uitkering startbouwimpuls"
+signed_date: "2023-11-30"
+entry_into_force: "2023-12-07"
 ---
-
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 30 november 2023, nr. 2023-0000652636, houdende regels met betrekking tot de verstrekking van een specifieke uitkering aan gemeenten en openbare lichamen ter stimulering van woningbouwprojecten (Regeling specifieke uitkering startbouwimpuls)
 
 Gelet op de [artikelen 2, eerste lid, onderdelen a en d](https://wetten.overheid.nl/jci1.3:c:BWBR0047481&artikel=2), en [3 van het Besluit van 29 oktober 2022, houdende het stellen van regels over het verstrekken van specifieke uitkeringen aan gemeenten of provincies voor activiteiten die passen in het rijksbeleid met betrekking tot het bouwen, het wonen en de woonomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0047481&artikel=3) (Stb. 2022, 452);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -30,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 - –. **woningbouwproject:** woningbouwproject als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049006&artikel=2&z=2023-12-07&g=2023-12-07).
 
-#### Artikel 2. Woningbouwproject
+##### Artikel 2. Woningbouwproject
 
 Onder een woningbouwproject wordt verstaan een project voor de bouw van woningen en een of meer bouwkundig daarmee verbonden niet‑woningbouwdelen binnen één samenhangende vastgoedontwikkeling:
 
@@ -42,7 +68,7 @@ Onder een woningbouwproject wordt verstaan een project voor de bouw van woningen
 
 - d. waarbij sprake is van uitstel van de start bouw door een financieel tekort als gevolg van de huidige economische omstandigheden.
 
-#### Artikel 3. Specifieke uitkering
+##### Artikel 3. Specifieke uitkering
 
 1. De minister kan een specifieke uitkering verstrekken aan ontvangers voor het stimuleren van de start bouw van woningbouwprojecten die zonder financiële bijdrage niet zouden kunnen starten.
 
@@ -50,7 +76,7 @@ Onder een woningbouwproject wordt verstaan een project voor de bouw van woningen
 
 3. De specifieke uitkering wordt niet verstrekt voor btw die is verschuldigd over kosten voor de uitvoering van woningbouwprojecten, bedoeld in het eerste lid, voor zover het bedrag van de btw in aanmerking komt voor een bijdrage op grond van de [Wet op het BTWcompensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817) of voor zover de kosten in aanmerking komen voor aftrek op grond van de [Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629).
 
-#### Artikel 4. Verplichtingen woningbouw
+##### Artikel 4. Verplichtingen woningbouw
 
 1. De ontvanger besteedt de specifieke uitkering aan de in de uitkeringsbeschikking opgenomen woningbouwprojecten.
 
@@ -64,7 +90,7 @@ Onder een woningbouwproject wordt verstaan een project voor de bouw van woningen
 
 6. Indien de volledige besteding van de specifieke uitkering vóór de datum, genoemd in het vijfde lid, niet mogelijk is, kan de minister die termijn met ten hoogste een jaar verlengen op een schriftelijk en gemotiveerd verzoek van de ontvanger.
 
-#### Artikel 5. De uitkeringsbeschikking
+##### Artikel 5. De uitkeringsbeschikking
 
 De uitkeringsbeschikking vermeldt in ieder geval:
 
@@ -78,7 +104,7 @@ De uitkeringsbeschikking vermeldt in ieder geval:
 
 - e. de afdracht aan het BTW-compensatiefonds.
 
-#### Artikel 6. Informatievoorziening na uitkering
+##### Artikel 6. Informatievoorziening na uitkering
 
 1. De ontvanger informeert de minister op verzoek van de voortgang van de activiteiten waarvoor de specifieke uitkering is verstrekt.
 
@@ -92,7 +118,7 @@ De uitkeringsbeschikking vermeldt in ieder geval:
 
 4. De ontvanger verleent op verzoek van de minister medewerking en verstrekt op verzoek van de minister informatie ten behoeve van de evaluatie van de doelmatigheid en doeltreffendheid van de activiteiten waarvoor de specifieke uitkering is verstrekt.
 
-#### Artikel 7. Verantwoording, vaststelling en terugvordering
+##### Artikel 7. Verantwoording, vaststelling en terugvordering
 
 1. De ontvanger legt verantwoording af over de besteding van de specifieke uitkering op de wijze bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
@@ -108,11 +134,11 @@ De uitkeringsbeschikking vermeldt in ieder geval:
 
 - c. de ontvanger de minister heeft geïnformeerd als bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049006&artikel=6&z=2023-12-07&g=2023-12-07), of dit heeft nagelaten.
 
-#### Artikel 8. Inwerkingtreding
+##### Artikel 8. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 9. Citeertitel
+##### Artikel 9. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering startbouwimpuls.
 

@@ -1,20 +1,46 @@
 ---
-title: "Archiefregeling III voor de archieven op het beleidsterrein Arbeidsvoorziening van het Ministerie van Sociale Zaken en Werkgelegenheid"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 17 maart 2009, nr. Directie GOB/DIV/2009/5301, houdende een beperking van de openbaarheid voor de inventarisnummers 29 tot en met 59, 62, 86 tot en met 104 en 108 tot en met 133 uit het archief van de Emigratievertegenwoordiging in het buitenland van het Ministerie van Sociale Zaken en Werkgelegenheid over de periode 1952-1992 (Archiefregeling III voor de archieven op het beleidsterrein Arbeidsvoorziening van het Ministerie van Sociale Zaken en Werkgelegenheid)"
 identifier: "BWBR0025557"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2009-04-01
-laatste_update: 2009-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0025557"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2009-04-01"
+last_updated: "2009-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0025557"
+soort: "ministeriele-regeling"
+stam_id: "9953763"
+version_id: "16239672"
+internal_id: "C22265341"
+label_id: "9930064"
+dtd_version: "2.0"
+original_entry_into_force: "2009-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0025557/2009-04-01/0"
+intitule_bron: "Stcrt.2009-61"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-03-17"
+intitule_published: "2009-03-30"
+intitule_in_force: "2009-03-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-61"
+original_signed_date: "2009-03-17"
+original_published_date: "2009-03-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-4610"
+entry_into_force_date: "2009-04-01"
+jci_1_3: "jci1.3:c:BWBR0025557&z=2009-04-01&g=2009-04-01"
+jci_1_0: "1.0:c:BWBR0025557&g=2009-04-01"
+citeertitel_status: "officieel"
+short_title: "Archiefregeling III voor de archieven op het beleidsterrein Arbeidsvoorziening van het Ministerie van Sociale Zaken en Werkgelegenheid"
+signed_date: "2009-03-17"
+entry_into_force: "2009-04-01"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 17 maart 2009, nr. Directie GOB/DIV/2009/5301, houdende een beperking van de openbaarheid voor de inventarisnummers 29 tot en met 59, 62, 86 tot en met 104 en 108 tot en met 133 uit het archief van de Emigratievertegenwoordiging in het buitenland van het Ministerie van Sociale Zaken en Werkgelegenheid over de periode 1952-1992 (Archiefregeling III voor de archieven op het beleidsterrein Arbeidsvoorziening van het Ministerie van Sociale Zaken en Werkgelegenheid)
 
 Gelet op [artikel 15, eerste lid, onder a en c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15) en [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Met het oog op de eerbiediging van de persoonlijke levenssfeer, alsmede op het anderszins voorkomen van onevenredige bevoordeling of benadeling van betrokken natuurlijke personen of rechtspersonen dan wel van derden wordt aan de openbaarheid van de naar het Nationaal Archief over te brengen archiefbescheiden uit het historische bestand van personeelsleden van het Ministerie de in het volgende lid genoemde beperking gesteld voor de volledige duur van de in [artikel 15, vierde lid, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15) genoemde termijn.
 
@@ -180,12 +206,12 @@ Indiening van het verzoek geschiedt door invulling en ondertekening door de verz
 
 - –. inventarisnummer 133 op 1 januari 2049
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling wordt aangehaald als:
 
 Archiefregeling III voor de archieven op het beleidsterrein Arbeidsvoorziening van het Ministerie van Sociale Zaken en Werkgelegenheid.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt gepubliceerd.

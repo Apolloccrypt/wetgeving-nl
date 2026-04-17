@@ -1,20 +1,45 @@
 ---
-title: "Maltese uitvoeringsvoorschriften belastingovereenkomst Nederland-Malta"
+title: "Regeling inzake vermindering van Maltese belasting op dividenden, interest en royalty's uit Maltese bron, genoten door inwoners van Nederland"
 identifier: "BWBR0004981"
-categorie: "Belastingrecht"
-publicatiedatum: 1991-01-27
-laatste_update: 1991-01-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004981"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1991-01-27"
+last_updated: "1991-01-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004981"
+soort: "ministeriele-regeling"
+stam_id: "3731863"
+version_id: "5514732"
+internal_id: "C5707821"
+label_id: "3711614"
+dtd_version: "2.0"
+original_entry_into_force: "1991-01-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004981/1991-01-27/0"
+intitule_bron: "Stcrt.1991-18"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1991-01-25"
+intitule_published: "1991-01-25"
+intitule_in_force: "1991-01-25"
+intitule_status: "goed"
+original_publication: "Stcrt.1991-18"
+original_signed_date: "1991-01-25"
+original_published_date: "1991-01-25"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1991-01-27"
+jci_1_3: "jci1.3:c:BWBR0004981&z=1991-01-27&g=1991-01-27"
+jci_1_0: "1.0:c:BWBR0004981&g=1991-01-27"
+citeertitel_status: "officieel"
+short_title: "Maltese uitvoeringsvoorschriften belastingovereenkomst Nederland-Malta"
+signed_date: "1991-01-25"
+entry_into_force: "1991-01-27"
 ---
-
 # Regeling inzake vermindering van Maltese belasting op dividenden, interest en royalty's uit Maltese bron, genoten door inwoners van Nederland
 
 Besluit:
 
 Door plaatsing in de Staatscourant het navolgende ter kennis van belanghebbende inwoners van Nederland te brengen:
 
-#### Artikel 1. Aanspraken van inwoners van Nederland
+##### Artikel 1. Aanspraken van inwoners van Nederland
 
 Aan de op 18 mei 1977 tussen Nederland en Malta gesloten Overeenkomst tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen (Trb. 1977, nr. 82) kunnen inwoners van Nederland onder meer de volgende aanspraken ontlenen, geregeld in de hieronder tussen haakjes vermelde artikelen van de Overeenkomst:
 
@@ -28,7 +53,7 @@ Aan de op 18 mei 1977 tussen Nederland en Malta gesloten Overeenkomst tot het ve
 
 - e. Vermindering tot 10 percent van de Maltese belasting op niet onder onderdeel d vallende royalty's, afkomstig uit Malta en betaald aan een inwoner van Nederland die de uiteindelijk gerechtigde daarvan is (artikel 12, tweede lid). De in dit artikel vermelde verminderingen of vrijstellingen zijn niet van toepassing, indien de genieter van de dividenden, de interest of de royalty's in Malta een bedrijf uitoefent met behulp van een aldaar gevestigde vaste inrichting of in Malta een vrij beroep uitoefent vanuit een aldaar gevestigd vast middelpunt, en het aandelenbezit uit hoofde waarvan de dividenden worden betaald, de vordering uit hoofde waarvan de interest wordt betaald, of het recht of de zaak uit hoofde waarvan de royalty's verschuldigd zijn, tot het bedrijfsvermogen van die vaste inrichting of tot het beroepsvermogen van dat vaste middelpunt behoort (artikel 10, vijfde, respectievelijk artikel 11, vijfde lid, en artikel 12, derde lid).
 
-#### Artikel 2. Maltese regeling
+##### Artikel 2. Maltese regeling
 
 Ter uitvoering van artikel 1 is van Maltese zijde de volgende regeling getroffen:
 
@@ -50,11 +75,11 @@ Ter uitvoering van artikel 1 is van Maltese zijde de volgende regeling getroffen
 
 - 3. Termijn van indiening van verzoeken om teruggaaf van belasting Verzoeken om teruggaaf moeten worden ingediend binnen een tijdvak van drie jaren na het einde van het kalenderjaar waarin de belasting is geheven (onderdeel V van het Protocol).
 
-#### Artikel 3. Intrekking
+##### Artikel 3. Intrekking
 
 De beschikking van de Staatssecretaris van Financiën van 19 mei 1981, nr. 081-848 (Stcrt. van 3 juni 1981, nr. 103), wordt ingetrokken.
 
-#### Artikel 4. Inwerkingtreding
+##### Artikel 4. Inwerkingtreding
 
 1. Deze regeling kan worden aangehaald als: Maltese uitvoeringsvoorschriften belastingovereenkomst Nederland-Malta.
 

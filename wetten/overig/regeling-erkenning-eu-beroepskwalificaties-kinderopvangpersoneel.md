@@ -1,20 +1,46 @@
 ---
-title: "Regeling erkenning EU-beroepskwalificaties kinderopvangpersoneel"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 5 juni 2010, nr. WJZ/211998 (2719), houdende regels in verband met de erkenning van EG-beroepskwalificaties voor personeel in de kinderopvang (Regeling erkenning EG-beroepskwalificaties kinderopvangpersoneel)"
 identifier: "BWBR0027765"
-categorie: "Overig"
-publicatiedatum: 2017-04-01
-laatste_update: 2017-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027765"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-04-01"
+last_updated: "2017-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027765"
+soort: "ministeriele-regeling"
+stam_id: "10572583"
+version_id: "18929912"
+internal_id: "C26414101"
+label_id: "10547534"
+dtd_version: "2.0"
+original_entry_into_force: "2011-11-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027765/2017-04-01/0"
+intitule_bron: "Stcrt.2010-9216"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-06-05"
+intitule_published: "2010-06-17"
+intitule_in_force: "2010-06-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-21108"
+original_signed_date: "2011-11-16"
+original_published_date: "2011-11-24"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2011-21108"
+entry_into_force_date: "2011-11-16"
+jci_1_3: "jci1.3:c:BWBR0027765&z=2017-04-01&g=2017-04-01"
+jci_1_0: "1.0:c:BWBR0027765&g=2017-04-01"
+citeertitel_status: "officieel"
+short_title: "Regeling erkenning EU-beroepskwalificaties kinderopvangpersoneel"
+signed_date: "2011-11-16"
+entry_into_force: "2011-11-16"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 5 juni 2010, nr. WJZ/211998 (2719), houdende regels in verband met de erkenning van EG-beroepskwalificaties voor personeel in de kinderopvang (Regeling erkenning EG-beroepskwalificaties kinderopvangpersoneel)
 
 Gelet op [artikel 33 van de Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=33);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -34,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 - f. **gastouderbureau:** organisatie als bedoeld in [artikel 1.1, eerste lid, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.1).
 
-#### Artikel 2. Gereglementeerde beroepen in de kinderopvang
+##### Artikel 2. Gereglementeerde beroepen in de kinderopvang
 
 Deze regeling is van toepassing op:
 
@@ -54,7 +80,7 @@ Deze regeling is van toepassing op:
 
 - b. de verklaring vooraf, bedoeld in [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=23), van een dienstverrichter die een gereglementeerd beroep als bedoeld onder a wenst uit te oefenen.
 
-#### Artikel 3. Aanvraag erkenning beroepskwalificaties
+##### Artikel 3. Aanvraag erkenning beroepskwalificaties
 
 1. De aanvrager verstrekt aan de minister bij de aanvraag de volgende documenten, bedoeld in [artikel 13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=13):
 
@@ -76,7 +102,7 @@ Deze regeling is van toepassing op:
 
 2. Bij toepassing van [artikel 11, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=11) verstrekt de aanvrager de minister bij de aanvraag een bewijs van kennis, vaardigheden en competenties in het kader van een leven lang leren als bedoeld in artikel 11, derde lid, van de wet.
 
-#### Artikel 4. Proeve van bekwaamheid
+##### Artikel 4. Proeve van bekwaamheid
 
 1. Indien de minister op grond van [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=11) eist dat de aanvrager een proeve van bekwaamheid aflegt, draagt de minister ervoor zorg dat:
 
@@ -92,7 +118,7 @@ Deze regeling is van toepassing op:
 
 2. De aanvrager voldoet de kosten van de proeve van bekwaamheid.
 
-#### Artikel 5. Aanpassingsstage
+##### Artikel 5. Aanpassingsstage
 
 1. Indien de minister eist op grond van [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=11) dat de aanvrager een aanpassingsstage doorloopt, deelt de minister de aanvrager schriftelijk mee:
 
@@ -112,11 +138,11 @@ Deze regeling is van toepassing op:
 
 6. Het kindercentrum of het gastouderbureau deelt het resultaat van de aanpassingsstage zo spoedig mogelijk en in elk geval binnen een maand na het doorlopen van de aanpassingsstage mee aan de aanvrager en de minister.
 
-#### Artikel 6. Herkansing
+##### Artikel 6. Herkansing
 
 Indien het resultaat van de proeve van bekwaamheid of de aanpassingsstage onvoldoende is, heeft de aanvrager het recht nogmaals een proeve van bekwaamheid af te leggen of een aanpassingsstage te doorlopen.
 
-#### Artikel 7. Verklaring vooraf
+##### Artikel 7. Verklaring vooraf
 
 Een dienstverrichter verstrekt aan de minister de volgende documenten, bedoeld in [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=23):
 
@@ -130,7 +156,7 @@ Een dienstverrichter verstrekt aan de minister de volgende documenten, bedoeld i
 
 - e. voor gevallen als bedoeld in [artikel 22, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=22) een bewijs van de daar omschreven beroepservaring.
 
-#### Artikel 8. Dienst Uitvoering Onderwijs
+##### Artikel 8. Dienst Uitvoering Onderwijs
 
 1. Aan de Directeur-generaal van de Dienst Uitvoering Onderwijs wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten en het verrichten van alle benodigde werkzaamheden, waaronder het vaststellen en ondertekenen van stukken, ter uitvoering van de bevoegdheden van de Minister van Sociale Zaken en Werkgelegenheid bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027765&artikel=3&z=2017-04-01&g=2017-04-01), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027765&artikel=4&z=2017-04-01&g=2017-04-01), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027765&artikel=5&z=2017-04-01&g=2017-04-01), en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0027765&artikel=7&z=2017-04-01&g=2017-04-01), en de [artikelen 31a](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=31a), [31b](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=31b) en [31c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=31c) met betrekking tot de in [artikel 2, onderdeel a, onder 1°, 2°, 3° en 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0027765&artikel=2&z=2017-04-01&g=2017-04-01) bedoelde gereglementeerde beroepen.
 
@@ -138,13 +164,13 @@ Een dienstverrichter verstrekt aan de minister de volgende documenten, bedoeld i
 
 3. De Directeur-generaal van de Dienst Uitvoering Onderwijs kan met betrekking tot zijn bevoegdheden, genoemd in het eerste en tweede lid, ondermandaat, volmacht en machtiging in een door hem te bepalen omvang verlenen aan onder hem ressorterende functionarissen, met dien verstande dat hij geen onder-mandaat verleent aan de functionaris aan wie door hem ondermandaat tot het nemen van het besluit waartegen het bezwaar zich richt, is verleend.
 
-#### Artikel 9. Inwerkingtreding
+##### Artikel 9. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 10. Citeertitel
+##### Artikel 10. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling erkenning EU-beroepskwalificaties kinderopvangpersoneel.
 

@@ -1,20 +1,46 @@
 ---
-title: "Regeling NLQF"
+title: "Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 17 oktober 2024, nr. MBO/46958859, houdende de vaststelling van de niveaubeschrijvingen per NLQF-niveau, de NLQF-niveaus van formele opleidingen en van de leges voor inschaling van non-formele opleidingen (Regeling NLQF)"
 identifier: "BWBR0050327"
-categorie: "Overig"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050327"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050327"
+soort: "ministeriele-regeling"
+stam_id: "17248033"
+version_id: "30378842"
+internal_id: "C43565851"
+label_id: "17153664"
+dtd_version: "2.0"
+original_entry_into_force: "2025-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050327/2025-01-01/0"
+intitule_bron: "Stcrt.2024-34565"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-10-17"
+intitule_published: "2024-10-25"
+intitule_in_force: "2024-10-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-34565"
+original_signed_date: "2024-10-17"
+original_published_date: "2024-10-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-34565"
+entry_into_force_date: "2025-01-01"
+jci_1_3: "jci1.3:c:BWBR0050327&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0050327&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling NLQF"
+signed_date: "2024-10-17"
+entry_into_force: "2025-01-01"
 ---
-
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 17 oktober 2024, nr. MBO/46958859, houdende de vaststelling van de niveaubeschrijvingen per NLQF-niveau, de NLQF-niveaus van formele opleidingen en van de leges voor inschaling van non-formele opleidingen (Regeling NLQF)
 
 Gelet op de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0050058&artikel=2.1) en [3.2, tweede lid, van de Wet NLQF](https://wetten.overheid.nl/jci1.3:c:BWBR0050058&artikel=3.2), de [artikelen 7.4.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.6), en [7.4.6a, vierde lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.6a) en [artikel 2, derde lid, van het Besluit NLQF](https://wetten.overheid.nl/jci1.3:c:BWBR0050303&artikel=2);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -28,11 +54,11 @@ In deze regeling wordt verstaan onder:
 
 - **WVO 2020:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
-#### Artikel 2. Vaststelling niveaubeschrijvingen per NLQF-niveau
+##### Artikel 2. Vaststelling niveaubeschrijvingen per NLQF-niveau
 
 De niveaubeschrijving behorend bij elk NLQF-niveau, genoemd in [artikel 2, eerste lid, van het Besluit NLQF](https://wetten.overheid.nl/jci1.3:c:BWBR0050303&artikel=2) zijn in termen van kennis, vaardigheden, zelfstandigheid en verantwoordelijkheid, opgenomen in de bijlage.
 
-#### Artikel 3. Vaststelling NLQF-niveaus formele opleidingen
+##### Artikel 3. Vaststelling NLQF-niveaus formele opleidingen
 
 1. Het NLQF-niveau van de volgende opleidingen in het voortgezet onderwijs wordt als volgt vastgesteld:
 
@@ -78,7 +104,7 @@ De niveaubeschrijving behorend bij elk NLQF-niveau, genoemd in [artikel 2, eerst
 
 - d. de opleiding tot wetenschappelijk onderzoeker, bedoeld in [artikel 1.3, eerste en tweede lid, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.3), de opleiding tot medisch specialist, bedoeld in [artikel 1.4, eerste lid, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.4), en de promotie, bedoeld in [artikel 7.18, vierde lid, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.18): NLQF-niveau 8.
 
-#### Artikel 4. Hoogte leges
+##### Artikel 4. Hoogte leges
 
 De leges voor een aanvraag tot het vaststellen van het NLQF-niveau van een non-formele opleiding worden geheven naar de maatstaven en tarieven opgenomen in de tarieventabel.
 
@@ -92,15 +118,15 @@ De leges voor een aanvraag tot het vaststellen van het NLQF-niveau van een non-f
 | --- | --- |
 | Herbeoordeling inschaling | € 1.000 |
 
-#### Artikel 5. Wijziging [Regeling modellen voor mbo-diploma, mbo-certificaat en mbo-verklaring](https://wetten.overheid.nl/jci1.3:c:BWBR0031616)
+##### Artikel 5. Wijziging [Regeling modellen voor mbo-diploma, mbo-certificaat en mbo-verklaring](https://wetten.overheid.nl/jci1.3:c:BWBR0031616)
 
 Wijzigt de Regeling modellen voor mbo-diploma, mbo-certificaat en mbo-verklaring.
 
-#### Artikel 6. Inwerkingtreding
+##### Artikel 6. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2025.
 
-#### Artikel 7. Citeertitel
+##### Artikel 7. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling NLQF.
 

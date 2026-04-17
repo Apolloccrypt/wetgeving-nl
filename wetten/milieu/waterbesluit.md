@@ -1,13 +1,39 @@
 ---
-title: "Waterbesluit"
+title: "Besluit van 30 november 2009 houdende regels met betrekking tot het beheer en gebruik van watersystemen (Waterbesluit)"
 identifier: "BWBR0026872"
-categorie: "Milieu"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026872"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026872"
+soort: "AMvB"
+stam_id: "10326303"
+version_id: "23710782"
+internal_id: "C34128301"
+label_id: "10302624"
+dtd_version: "2.0"
+original_entry_into_force: "2016-12-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026872/2024-01-01/0"
+intitule_bron: "Stb.2009-548"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-11-30"
+intitule_published: "2009-12-18"
+intitule_in_force: "2009-12-18"
+intitule_status: "goed"
+original_publication: "Stb.2016-492"
+original_signed_date: "2016-12-06"
+original_published_date: "2016-12-14"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2016-492"
+entry_into_force_date: "2016-12-06"
+jci_1_3: "jci1.3:c:BWBR0026872&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0026872&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Waterbesluit"
+signed_date: "2016-12-06"
+entry_into_force: "2016-12-06"
 ---
-
 # Besluit van 30 november 2009 houdende regels met betrekking tot het beheer en gebruik van watersystemen (Waterbesluit)
 
 Op de voordracht van de Staatssecretaris van Verkeer en Waterstaat van 17 februari 2009, nr. CEND/HDJZ-2009/132 Sector WAT, Hoofddirectie Juridische Zaken, gedaan in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
@@ -24,13 +50,13 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1.1
+##### Artikel 1.1
 
 Vervallen
 
 #### § 2. Stroomgebieddistricten
 
-#### Artikel 1.2
+##### Artikel 1.2
 
 Vervallen
 
@@ -38,17 +64,17 @@ Vervallen
 
 #### § 1. Rangorde bij watertekorten
 
-#### Artikel 2.1
+##### Artikel 2.1
 
 Vervallen
 
-#### Artikel 2.2
+##### Artikel 2.2
 
 Vervallen
 
 #### § 2. Meten en beoordelen
 
-#### Artikel 2.3
+##### Artikel 2.3
 
 Vervallen
 
@@ -56,23 +82,23 @@ Vervallen
 
 #### § 1. Toedeling beheer
 
-#### Artikel 3.1
+##### Artikel 3.1
 
 Vervallen
 
-#### Artikel 3.2
-
-Vervallen
-
-#### § 2. Begrenzing oppervlaktewaterlichamen en aanwijzing drogere oevergebieden
-
-#### Artikel 3.3
+##### Artikel 3.2
 
 Vervallen
 
 #### § 2. Begrenzing oppervlaktewaterlichamen en aanwijzing drogere oevergebieden
 
-#### Artikel 3.4
+##### Artikel 3.3
+
+Vervallen
+
+#### § 2. Begrenzing oppervlaktewaterlichamen en aanwijzing drogere oevergebieden
+
+##### Artikel 3.4
 
 Vervallen
 
@@ -80,79 +106,79 @@ Vervallen
 
 #### § 1. Het nationale waterplan
 
-#### Artikel 4.1
+##### Artikel 4.1
 
 Vervallen
 
-#### Artikel 4.2
+##### Artikel 4.2
 
 Vervallen
 
-#### Artikel 4.3
+##### Artikel 4.3
 
 Vervallen
 
-#### Artikel 4.4
+##### Artikel 4.4
 
 Vervallen
 
-#### Artikel 4.5
+##### Artikel 4.5
 
 Vervallen
 
-#### Artikel 4.6
+##### Artikel 4.6
 
 Vervallen
 
-#### Artikel 4.7
+##### Artikel 4.7
 
 Vervallen
 
-#### Artikel 4.8
+##### Artikel 4.8
 
 Vervallen
 
-#### Artikel 4.9
+##### Artikel 4.9
 
 Vervallen
 
 #### § 2. Regionale waterplannen
 
-#### Artikel 4.10
+##### Artikel 4.10
 
 Vervallen
 
-#### Artikel 4.11
+##### Artikel 4.11
 
 Vervallen
 
-#### Artikel 4.12
+##### Artikel 4.12
 
 Vervallen
 
-#### Artikel 4.13
+##### Artikel 4.13
 
 Vervallen
 
 #### § 3. Beheerplannen
 
-#### Artikel 4.14
+##### Artikel 4.14
 
 Vervallen
 
-#### Artikel 4.15
+##### Artikel 4.15
 
 Vervallen
 
-#### Artikel 4.16
+##### Artikel 4.16
 
 Vervallen
 
-#### Artikel 4.17
+##### Artikel 4.17
 
 Vervallen
 
-#### Artikel 4.18
+##### Artikel 4.18
 
 Vervallen
 
@@ -160,19 +186,19 @@ Vervallen
 
 #### § 1. Vrijstelling leggerplicht
 
-#### Artikel 5.1
+##### Artikel 5.1
 
 Vervallen
 
 #### § 2. Aanwijzing rijkswateren peilbesluit
 
-#### Artikel 5.2
+##### Artikel 5.2
 
 Vervallen
 
 #### § 3. Regels ten aanzien van het calamiteitenplan
 
-#### Artikel 5.3
+##### Artikel 5.3
 
 Vervallen
 
@@ -180,121 +206,121 @@ Vervallen
 
 #### § 3. Regels ten aanzien van het calamiteitenplan
 
-#### Artikel 6.1
+##### Artikel 6.1
 
 Vervallen
 
-#### Artikel 6.1a
+##### Artikel 6.1a
 
 Vervallen
 
 #### § 3. Regels ten aanzien van het calamiteitenplan
 
-#### Artikel 6.1b
+##### Artikel 6.1b
 
 Vervallen
 
-#### Artikel 6.2
+##### Artikel 6.2
 
 Vervallen
 
-#### Artikel 6.3
+##### Artikel 6.3
 
 Vervallen
 
-#### Artikel 6.3a
+##### Artikel 6.3a
 
 Vervallen
 
 #### § 1. Algemeen
 
-#### Artikel 6.4
+##### Artikel 6.4
 
 Vervallen
 
-#### Artikel 6.5
+##### Artikel 6.5
 
 Vervallen
 
-#### Artikel 6.6
+##### Artikel 6.6
 
 Vervallen
 
-#### Artikel 6.7
+##### Artikel 6.7
 
 Vervallen
 
 #### § 3. Het brengen van stedelijk afvalwater in oppervlaktewaterlichamen
 
-#### Artikel 6.8
+##### Artikel 6.8
 
 Vervallen
 
-#### Artikel 6.9
+##### Artikel 6.9
 
 Vervallen
 
-#### Artikel 6.10
+##### Artikel 6.10
 
 Vervallen
 
 #### § 5. Melden en meten van onttrekkingen en infiltraties
 
-#### Artikel 6.11
+##### Artikel 6.11
 
 Vervallen
 
 #### § 5. Onttrekkingen en infiltraties
 
-#### Artikel 6.12
+##### Artikel 6.12
 
 Vervallen
 
-#### Artikel 6.13
+##### Artikel 6.13
 
 Vervallen
 
-#### Artikel 6.14
+##### Artikel 6.14
 
 Vervallen
 
-#### Artikel 6.15
+##### Artikel 6.15
 
 Vervallen
 
-#### Artikel 6.16
+##### Artikel 6.16
 
 Vervallen
 
 #### § 5. Onttrekkingen en infiltraties
 
-#### Artikel 6.17
+##### Artikel 6.17
 
 Vervallen
 
-#### Artikel 6.18
+##### Artikel 6.18
 
 Vervallen
 
-#### Artikel 6.19
+##### Artikel 6.19
 
 Vervallen
 
 #### § 8. Nadere bepalingen omtrent de watervergunning
 
-#### Artikel 6.20
+##### Artikel 6.20
 
 Vervallen
 
-#### Artikel 6.21
+##### Artikel 6.21
 
 Vervallen
 
-#### Artikel 6.22
+##### Artikel 6.22
 
 Vervallen
 
-#### Artikel 6.23
+##### Artikel 6.23
 
 Vervallen
 
@@ -302,11 +328,11 @@ Vervallen
 
 #### § 6. Gebruik van rijkswaterstaatswerken
 
-#### Artikel 7.1
+##### Artikel 7.1
 
 Vervallen
 
-#### Artikel 7.2
+##### Artikel 7.2
 
 Vervallen
 
@@ -314,41 +340,41 @@ Vervallen
 
 #### § 7. Brengen of onttrekken van water
 
-#### Artikel 8.1
+##### Artikel 8.1
 
 Vervallen
 
-#### Artikel 8.2
+##### Artikel 8.2
 
 Vervallen
 
-#### Artikel 8.3
+##### Artikel 8.3
 
 Vervallen
 
-#### Artikel 8.4
+##### Artikel 8.4
 
 Vervallen
 
-#### Artikel 8.5
+##### Artikel 8.5
 
 Vervallen
 
-#### Artikel 8.6
+##### Artikel 8.6
 
 Vervallen
 
-#### Artikel 8.7
+##### Artikel 8.7
 
 Vervallen
 
 #### § 2. Slotbepalingen
 
-#### Artikel 8.8
+##### Artikel 8.8
 
 Vervallen
 
-#### Artikel 8.9
+##### Artikel 8.9
 
 Dit besluit wordt aangehaald als: Waterbesluit.
 
@@ -402,7 +428,7 @@ Dit besluit wordt aangehaald als: Waterbesluit.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 8.7a
+##### Artikel 8.7a
 
 Vervallen
 
@@ -420,7 +446,7 @@ Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 4.6a
+##### Artikel 4.6a
 
 Vervallen
 
@@ -462,7 +488,7 @@ Vervallen
 
 #### § 6. Gebruik van rijkswaterstaatswerken
 
-#### Artikel 8.1a
+##### Artikel 8.1a
 
 Vervallen
 
@@ -488,7 +514,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 6.10a
+##### Artikel 6.10a
 
 Vervallen
 
@@ -516,7 +542,7 @@ Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 6.1c*
+##### Artikel 6.1c*
 
 Vervallen
 
@@ -548,7 +574,7 @@ Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 6.1c
+##### Artikel 6.1c
 
 [Hoofdstuk 6 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=6) is mede van toepassing op handelingen waaromtrent regels zijn gesteld bij of krachtens de [Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670), voor zover die handelingen plaatsvinden in het kader van agrarische activiteiten als bedoeld in [artikel 1.1 van het Activiteitenbesluit milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0022762&artikel=1.1).
 
@@ -558,39 +584,39 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### § 4. Verontreinigende handelingen in het zeegebied
 
-#### Artikel 6.11a
+##### Artikel 6.11a
 
 Vervallen
 
-#### Artikel 6.11b
+##### Artikel 6.11b
 
 Vervallen
 
-#### Artikel 6.11c
+##### Artikel 6.11c
 
 Vervallen
 
-#### Artikel 6.11d
+##### Artikel 6.11d
 
 Vervallen
 
-#### Artikel 6.11e
+##### Artikel 6.11e
 
 Vervallen
 
-#### Artikel 6.11f
+##### Artikel 6.11f
 
 Vervallen
 
-#### Artikel 6.11g
+##### Artikel 6.11g
 
 Vervallen
 
-#### Artikel 6.11h
+##### Artikel 6.11h
 
 Vervallen
 
-#### Artikel 6.11i
+##### Artikel 6.11i
 
 Vervallen
 
@@ -604,7 +630,7 @@ Vervallen
 
 #### § 1. Overgangsbepalingen
 
-#### Artikel 8.7b
+##### Artikel 8.7b
 
 Vervallen
 
@@ -769,7 +795,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### § 3. Overig
 
-#### Artikel 1.3
+##### Artikel 1.3
 
 Dit besluit berust mede op de [artikelen 7.23, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=7.23), en [7.24, vijfde lid, onderdeel c, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=7.24).
 
@@ -799,7 +825,7 @@ Dit besluit berust mede op de [artikelen 7.23, vijfde lid](https://wetten.overhe
 
 #### § 1. Algemeen
 
-#### Artikel 6.1c
+##### Artikel 6.1c
 
 [Hoofdstuk 6 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=6) is mede van toepassing op handelingen waaromtrent regels zijn gesteld bij of krachtens de [Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670), voor zover die handelingen plaatsvinden in het kader van agrarische activiteiten als bedoeld in [artikel 1.1 van het Activiteitenbesluit milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0022762&artikel=1.1).
 
@@ -809,7 +835,7 @@ Dit besluit berust mede op de [artikelen 7.23, vijfde lid](https://wetten.overhe
 
 #### § 7. Brengen of onttrekken van water
 
-#### Artikel 7.3
+##### Artikel 7.3
 
 De maatregelen, bedoeld in [artikel 7.23, vijfde lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=7.23), zijn vermeld in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&bijlage=V&z=2024-01-01&g=2024-01-01) bij dit besluit.
 
@@ -939,51 +965,51 @@ Deze kaart ligt ter inzage op het Ministerie van Infrastructuur en Milieu en kan
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 6.16a
+##### Artikel 6.16a
 
 Vervallen
 
-#### Artikel 6.16b
+##### Artikel 6.16b
 
 Vervallen
 
-#### Artikel 6.16c
+##### Artikel 6.16c
 
 Vervallen
 
-#### Artikel 6.16d
+##### Artikel 6.16d
 
 Vervallen
 
-#### Artikel 6.16e
+##### Artikel 6.16e
 
 Vervallen
 
-#### Artikel 6.16f
+##### Artikel 6.16f
 
 Vervallen
 
-#### Artikel 6.16g
+##### Artikel 6.16g
 
 Vervallen
 
-#### Artikel 6.16h
+##### Artikel 6.16h
 
 Vervallen
 
-#### Artikel 6.16i
+##### Artikel 6.16i
 
 Vervallen
 
-#### Artikel 6.16j
+##### Artikel 6.16j
 
 Vervallen
 
-#### Artikel 6.16k
+##### Artikel 6.16k
 
 Vervallen
 
-#### Artikel 6.16l
+##### Artikel 6.16l
 
 Vervallen
 
@@ -1127,7 +1153,7 @@ Deze kaart ligt ter inzage op het Ministerie van Infrastructuur en Milieu en kan
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 2.1a
+##### Artikel 2.1a
 
 1. Een dijkdeel wordt aan twee zijden begrensd door een lijn loodrecht op het dijkdeel door een punt waarvan de rijksdriehoekscoördinaten zijn opgenomen in [bijlage IA](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&bijlage=Ia&z=2017-01-01&g=2017-01-01).
 
@@ -1149,7 +1175,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### § 1. Het nationale waterplan
 
-#### Artikel 4.5a
+##### Artikel 4.5a
 
 Vervallen
 
@@ -1161,7 +1187,7 @@ Vervallen
 
 ### Hoofdstuk 6. Handelingen in watersystemen
 
-#### Artikel 6.1c
+##### Artikel 6.1c
 
 [Hoofdstuk 6 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=6) is mede van toepassing op handelingen waaromtrent regels zijn gesteld bij of krachtens de [Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670), voor zover die handelingen plaatsvinden in het kader van agrarische activiteiten als bedoeld in [artikel 1.1 van het Activiteitenbesluit milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0022762&artikel=1.1).
 
@@ -1175,7 +1201,7 @@ Vervallen
 
 #### § 1. Overgangsbepalingen
 
-#### Artikel 8.1b
+##### Artikel 8.1b
 
 Vervallen
 
@@ -1240,7 +1266,7 @@ Deze kaart ligt ter inzage op het Ministerie van Infrastructuur en Milieu en kan
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 7.4
+##### Artikel 7.4
 
 De andere dan primaire waterkeringen, bedoeld in [artikel 7.24, vijfde lid, onderdeel c, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=7.24), zijn vermeld in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&bijlage=VI&z=2024-01-01&g=2024-01-01) bij dit besluit.
 
@@ -1389,7 +1415,7 @@ Deze kaart ligt ter inzage op het Ministerie van Infrastructuur en Milieu en kan
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 2.2a
+##### Artikel 2.2a
 
 Vervallen
 
@@ -1487,13 +1513,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### § 4. Risicobeoordeling en risicobeheer conform de drinkwaterrichtlijn
 
-#### Artikel 5.4
+##### Artikel 5.4
 
 Vervallen
 
 ### Hoofdstuk 6. Handelingen in watersystemen
 
-#### Artikel 6.1c
+##### Artikel 6.1c
 
 Vervallen
 

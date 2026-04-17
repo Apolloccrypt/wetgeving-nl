@@ -1,20 +1,45 @@
 ---
 title: "Beleidsregel Adz-ondersteuning van Parkinsonzorg"
 identifier: "BWBR0047430"
-categorie: "Sociaal recht"
-publicatiedatum: 2023-01-01
-laatste_update: 2023-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047430"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-01-01"
+last_updated: "2023-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047430"
+soort: "zbo"
+stam_id: "16554873"
+version_id: "29018952"
+internal_id: "C41077161"
+label_id: "16475794"
+dtd_version: "2.0"
+original_entry_into_force: "2023-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047430/2023-01-01/0"
+intitule_bron: "Stcrt.2022-29356"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-10-25"
+intitule_published: "2022-11-04"
+intitule_in_force: "2022-11-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-29356"
+original_signed_date: "2022-10-25"
+original_published_date: "2022-11-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-29356"
+entry_into_force_date: "2023-01-01"
+jci_1_3: "jci1.3:c:BWBR0047430&z=2023-01-01&g=2023-01-01"
+jci_1_0: "1.0:c:BWBR0047430&g=2023-01-01"
+citeertitel_status: "officieel"
+signed_date: "2022-10-25"
+entry_into_force: "2023-01-01"
 ---
-
 # Beleidsregel Adz-ondersteuning van Parkinsonzorg
 
 Gelet op [artikel 57, eerste lid, onderdelen b en c, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot het uitoefenen van de bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen.
 
 Gelet op [artikel 59, aanhef en onder a, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=59), heeft de Minister van VWS met brief van 21 oktober 2022, met kenmerk 3452903-1038179-PZo, ten behoeve van de voorliggende beleidsregel een aanwijzing op grond van [artikel 7 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7), aan de NZa gegeven. Deze aanwijzing dateert van 21 oktober 2022 en heeft als kenmerk 3452903-1038179-PZo.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
@@ -38,15 +63,15 @@ In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
 - 2°. natuurlijk persoon of rechtspersoon voor zover deze tarieven in rekening brengt namens, ten behoeve van of in verband met het verlenen van zorg door een zorgaanbieder als bedoeld onder 1°.
 
-#### Artikel 2. Doel van de beleidsregel
+##### Artikel 2. Doel van de beleidsregel
 
 Het doel van deze beleidsregel is om vast te leggen op welke wijze de NZa gebruik maakt van haar bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen op het gebied van Adz-ondersteuning van Parkinsonzorg.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze beleidsregel is van toepassing op geneeskundige zorg als bedoeld in [artikel 2.4. van het Besluit zorgvezekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.4) voorzover het gaat om Adz-ondersteuning van Parkinsonzorg.
 
-#### Artikel 4. Prestatiebeschrijving
+##### Artikel 4. Prestatiebeschrijving
 
 Adz-ondersteuning van Parkinsonzorg zijn algemene diensten of activiteiten geleverd door een Adz-zorgaanbieder en omvat de volgende negen functionaliteiten:
 
@@ -78,11 +103,11 @@ De prestatiebeschrijving kan alleen in rekening worden gebracht als wordt voldaa
 
 - (iv). De kwaliteit van de integrale zorg blijft de verantwoordelijkheid van de betrokken zorgaanbieder.
 
-#### Artikel 5. Tariefsoort
+##### Artikel 5. Tariefsoort
 
 Voor de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047430&artikel=4&z=2023-01-01&g=2023-01-01) genoemde prestatiebeschrijving geldt een vrij tarief.
 
-#### Artikel 6. Bekendmaking, inwerkingtreding en citeertitel
+##### Artikel 6. Bekendmaking, inwerkingtreding en citeertitel
 
 Deze beleidsregel treedt in werking met ingang van 1 januari 2023.
 

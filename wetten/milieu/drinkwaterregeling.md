@@ -1,13 +1,39 @@
 ---
-title: "Drinkwaterregeling"
+title: "Regeling van de Staatssecretaris van Infrastructuur en Milieu van 14 juni 2011, nr. BJZ2011046947 houdende nadere regels met betrekking tot enige onderwerpen inzake de voorziening van drinkwater, warm tapwater en huishoudwater (Drinkwaterregeling)"
 identifier: "BWBR0030152"
-categorie: "Milieu"
-publicatiedatum: 2025-10-24
-laatste_update: 2025-10-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030152"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-10-24"
+last_updated: "2025-10-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030152"
+soort: "ministeriele-regeling"
+stam_id: "11367403"
+version_id: "30985962"
+internal_id: "C44374951"
+label_id: "11341274"
+dtd_version: "2.0"
+original_entry_into_force: "2025-10-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030152/2025-10-24/0"
+intitule_bron: "Stcrt.2011-10842"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-06-14"
+intitule_published: "2011-06-27"
+intitule_in_force: "2011-06-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-35959"
+original_signed_date: "2025-10-21"
+original_published_date: "2025-10-23"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2025-35959"
+entry_into_force_date: "2025-10-21"
+jci_1_3: "jci1.3:c:BWBR0030152&z=2025-10-24&g=2025-10-24"
+jci_1_0: "1.0:c:BWBR0030152&g=2025-10-24"
+citeertitel_status: "officieel"
+short_title: "Drinkwaterregeling"
+signed_date: "2025-10-21"
+entry_into_force: "2025-10-21"
 ---
-
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu van 14 juni 2011, nr. BJZ2011046947 houdende nadere regels met betrekking tot enige onderwerpen inzake de voorziening van drinkwater, warm tapwater en huishoudwater (Drinkwaterregeling)
 
 Handelende in overeenstemming met de Minister van Economische Zaken, Landbouw en Innovatie,
@@ -18,7 +44,7 @@ Besluit:
 
 Treedt in werking op het tijdstip waarop de Drinkwaterwet in werking treedt.
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -30,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 - **wijkwarmtapwatervoorziening:** collectieve watervoorziening voor de productie of distributie van warm tapwater, waarbij het distributienet in de bodem ligt.
 
-#### Artikel 2. Versies van normerende documenten
+##### Artikel 2. Versies van normerende documenten
 
 1. Als tijdstip als bedoeld in [artikel 1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=1), geldt telkens: 1 juli 2011. In afwijking van de eerste volzin geldt voor BRL 6010 het tijdstip: 1 januari 2021.
 
@@ -54,7 +80,7 @@ In deze regeling wordt verstaan onder:
 
 - i. NEN-EN-ISO 9001: NEN-EN-ISO 9001:2008/C1:2009.
 
-#### Artikel 3. Huishoudwater
+##### Artikel 3. Huishoudwater
 
 1. De voorziening voor productie en distributie van huishoudwater voldoet aan de daaraan gestelde bepalingen in de onderdelen 4.7.2. en 4.7.3 van NEN 1006:2002/A3:2011.
 
@@ -68,11 +94,11 @@ In deze regeling wordt verstaan onder:
 
 3. Het is de eigenaar van een drinkwaterbedrijf niet toegestaan om zonder daartoe door de Minister verleende ontheffing huishoudwater te produceren voor consumenten of andere afnemers of aan hen huishoudwater te leveren.
 
-#### Artikel 4. Aanduiding distributiegebieden
+##### Artikel 4. Aanduiding distributiegebieden
 
 Als distributiegebied van een drinkwaterbedrijf als bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=5) geldt het voor dat bedrijf in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&bijlage=1&z=2025-10-24&g=2025-10-24) bij deze regeling omschreven distributiegebied.
 
-#### Artikel 5. Berekening gewogen gemiddelde vermogenskostenvoet
+##### Artikel 5. Berekening gewogen gemiddelde vermogenskostenvoet
 
 Ten behoeve van de berekening van de gewogen gemiddelde vermogenskostenvoet, bedoeld in [artikel 10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=10), overeenkomstig [bijlage C van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&bijlage=C), hanteert de Minister de volgende uitgangspunten:
 
@@ -92,13 +118,13 @@ Ten behoeve van de berekening van de gewogen gemiddelde vermogenskostenvoet, bed
 
 - f. het aandeel eigen vermogen ten behoeve van de bepaling van de gewogen gemiddelde vermogenskostenvoet wordt gebaseerd op gegevens over het aandeel eigen vermogen van ondernemingen die vergelijkbaar zijn met drinkwaterbedrijven, met een gezonde financiële positie.
 
-#### Artikel 6. Berekening vermogenskosten
+##### Artikel 6. Berekening vermogenskosten
 
 1. De maximaal toegestane vermogenskosten die de eigenaar van een drinkwaterbedrijf mag doorberekenen in het drinkwatertarief worden berekend als het product van de op grond van [artikel 10, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=10) vastgestelde vermogenskostenvergoeding en de activawaarde, bedoeld in [artikel 11, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=11).
 
 2. De activawaarde, bedoeld in het eerste lid, is het gemiddelde van het begrote totaal van de activa per 1 januari en 31 december van het jaar waarvoor de toegestane vermogenskosten worden berekend. Liquide middelen worden niet gerekend tot de activawaarde.
 
-#### Artikel 7. Omstandigheden waaronder advies gevraagd wordt aan Autoriteit Consument en Markt
+##### Artikel 7. Omstandigheden waaronder advies gevraagd wordt aan Autoriteit Consument en Markt
 
 1. De Minister vraagt advies aan de Autoriteit Consument en Markt voorafgaande aan:
 
@@ -114,11 +140,11 @@ Ten behoeve van de berekening van de gewogen gemiddelde vermogenskostenvoet, bed
 
 2. De inspecteur vraagt bij de uitoefening van het toezicht op de naleving van [artikel 12, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=12) en van [paragraaf 2.1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&paragraaf=2.1) advies aan de Autoriteit Consument en Markt.
 
-#### Artikel 8. Fusieverzoek in relatie tot prestatievergelijking
+##### Artikel 8. Fusieverzoek in relatie tot prestatievergelijking
 
 (gereserveerd)
 
-#### Artikel 9. Eisen aan degene die de monitoring verricht
+##### Artikel 9. Eisen aan degene die de monitoring verricht
 
 1. De monitoring geschiedt door laboratoria die een kwaliteitsborgingssysteem hanteren dat gebaseerd is op NEN-EN-ISO/IEC 17025 of een gelijkwaardige norm en die daarvoor overeenkomstig deze norm geaccrediteerd zijn.
 
@@ -142,7 +168,7 @@ Ten behoeve van de berekening van de gewogen gemiddelde vermogenskostenvoet, bed
 
 6. De laboratoria, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&bijlage=2&z=2025-10-24&g=2025-10-24) bij deze regeling, worden aangemerkt als laboratoria die zijn aangewezen overeenkomstig het vierde lid.
 
-#### Artikel 10. Risicobeoordeling met meetprogramma en meetfrequentie voor drinkwaterbedrijven en collectieve watervoorzieningen waarvoor risicobeoordeling en risicobeheer van het watervoorzieningssysteem wordt vereist
+##### Artikel 10. Risicobeoordeling met meetprogramma en meetfrequentie voor drinkwaterbedrijven en collectieve watervoorzieningen waarvoor risicobeoordeling en risicobeheer van het watervoorzieningssysteem wordt vereist
 
 1. De eigenaar van een drinkwaterbedrijf of van een collectieve watervoorziening anders dan bedoeld in [artikel 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=10a&z=2025-10-24&g=2025-10-24), beschikt over een daarop betrekking hebbend meetprogramma dat voldoet aan de van toepassing zijnde tabel of tabellen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&bijlage=3&z=2025-10-24&g=2025-10-24), met inachtneming van het zesde tot en met negende lid, en dat bestaat uit het nemen en analyseren van verschillende watermonsters of het verrichten van metingen die in het kader van een doorlopend proces van controle worden geregistreerd. De eigenaar evalueert voortdurend het meetprogramma en past het aan naar aanleiding van de evaluatie of voorafgaand aan wijzigingen in de feitelijke situatie.
 
@@ -172,7 +198,7 @@ Ten behoeve van de berekening van de gewogen gemiddelde vermogenskostenvoet, bed
 
 9. Het achtste lid is niet van toepassing op de bemonsteringsfrequenties voor Intestinale enterococcen en Escherichia coli.
 
-#### Artikel 11. Plaats en tijdstip monstername en bewaring monsters
+##### Artikel 11. Plaats en tijdstip monstername en bewaring monsters
 
 1. De eigenaar van een drinkwaterbedrijf die drinkwater betrekt dat geleverd is door een ander teneinde dit zonder behandeling aan derden ter beschikking te stellen, onderzoekt dat ter plaatse waar hij dit water betrekt overeenkomstig de tabellen Ia, Ib en II, opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&bijlage=3&z=2025-10-24&g=2025-10-24) bij deze regeling. In het meetprogramma kan op basis van een goedgekeurde risicobeoordeling hiervan gemotiveerd worden afgeweken. Indien het drinkwater wordt betrokken van een ander drinkwaterbedrijf kan de inspecteur toestaan dat de levering van onderzoeksgegevens van het andere bedrijf wordt beschouwd als uitvoering van het onderzoek, bedoeld in de eerste volzin.
 
@@ -186,7 +212,7 @@ Ten behoeve van de berekening van de gewogen gemiddelde vermogenskostenvoet, bed
 
 verricht het onderzoek of neemt de monsters daarvoor op een plaats die representatief is voor de waterkwaliteit op het punt waar het oppervlaktewater vóór de zuiveringsbehandeling wordt onttrokken.
 
-#### Artikel 12. Meting hoeveelheid en druk
+##### Artikel 12. Meting hoeveelheid en druk
 
 1. De eigenaar van een drinkwaterbedrijf draagt er zorg voor dat:
 
@@ -196,7 +222,7 @@ verricht het onderzoek of neemt de monsters daarvoor op een plaats die represent
 
 2. De eigenaar houdt de in het eerste lid bedoelde gegevens gedurende ten minste vijf jaar beschikbaar.
 
-#### Artikel 13. Analysemethoden en prestatiekenmerken
+##### Artikel 13. Analysemethoden en prestatiekenmerken
 
 1. Bij het uitvoeren van onderzoek als bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=9&z=2025-10-24&g=2025-10-24), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=10&z=2025-10-24&g=2025-10-24), [10a](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=10a&z=2025-10-24&g=2025-10-24), [10b](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=10b&z=2025-10-24&g=2025-10-24) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=11&z=2025-10-24&g=2025-10-24) worden de specificaties, genoemd in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&bijlage=4&z=2025-10-24&g=2025-10-24) bij deze regeling, in acht genomen. Voor de in tabel I van bijlage 4 bij deze regeling genoemde parameters worden de daar genoemde analysemethoden toegepast.
 
@@ -204,7 +230,7 @@ verricht het onderzoek of neemt de monsters daarvoor op een plaats die represent
 
 3. Voor de in tabel II van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&bijlage=4&z=2025-10-24&g=2025-10-24) bij deze regeling genoemde parameters worden bij de analyse de daar vermelde prestatiekenmerken in acht genomen.
 
-#### Artikel 14. Verstrekking kwaliteitsgegevens
+##### Artikel 14. Verstrekking kwaliteitsgegevens
 
 1. De eigenaar van een drinkwaterbedrijf verstrekt aan de inspecteur per meetpunt voor iedere in het meetprogramma opgenomen parameter in ieder geval de volgende gegevens:
 
@@ -232,7 +258,7 @@ Tevens geeft de eigenaar van een drinkwaterbedrijf aan de inspecteur een schrift
 
 5. De representatieve samenvatting, bedoeld in [artikel 26, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=26), wordt aan de inspecteur verstrekt in de vorm van een begeleidende brief bij de aanbieding van de gegevens als bedoeld in het eerste lid.
 
-#### Artikel 15. Wijkwarmtapwatervoorzieningen
+##### Artikel 15. Wijkwarmtapwatervoorzieningen
 
 1. De eigenaar van een wijkwarmtapwatervoorziening, waarmee gemiddeld per dag meer dan 10 m3 warm tapwater per dag wordt geleverd, beschikt over een kwaliteitsmanagementsysteem, gebaseerd op NEN-EN-ISO 9001:2008/C1:2009, dat betrekking heeft op de borging van de kwaliteit van het geleverde warm tapwater.
 
@@ -284,7 +310,7 @@ Tevens geeft de eigenaar van een drinkwaterbedrijf aan de inspecteur een schrift
 
 7. Indien toepassing is gegeven aan het vierde lid, kan de inspecteur, indien het kwaliteitsmanagementsysteem van de in het eerste lid bedoelde eigenaar niet voldoet aan de eisen die daaraan worden gesteld overeenkomstig de handleiding, bedoeld in het vierde lid, aanwijzingen geven en daarbij bepalen op welke wijze en binnen welke termijn alsnog aan die eisen moet worden voldaan.
 
-#### Artikel 16. (eisen en ontheffing in te nemen oppervlaktewater gebruikt voor de bereiding van drinkwater)
+##### Artikel 16. (eisen en ontheffing in te nemen oppervlaktewater gebruikt voor de bereiding van drinkwater)
 
 1. De eisen aan het oppervlaktewater waaruit drinkwater wordt bereid, bedoeld in [artikel 30, eerste lid, onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=30), zijn opgenomen in [bijlage 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&bijlage=5a&z=2025-10-24&g=2025-10-24).
 
@@ -306,21 +332,21 @@ Tevens geeft de eigenaar van een drinkwaterbedrijf aan de inspecteur een schrift
 
 - b. het belang van de bescherming van de volksgezondheid zich niet verzet tegen het gebruik van dit oppervlaktewater voor de bereiding van drinkwater.
 
-#### Artikel 17. Prestatievergelijking; frequentie en prestatie-indicatoren drinkwaterkwaliteit
+##### Artikel 17. Prestatievergelijking; frequentie en prestatie-indicatoren drinkwaterkwaliteit
 
 1. De prestatievergelijking wordt eens in de drie jaar uitgevoerd, waarbij de eerste prestatievergelijking wordt uitgevoerd voor 1 november 2013 en betrekking heeft op het jaar 2012.
 
 2. De prestatie-indicatoren voor drinkwaterkwaliteit hebben betrekking op de parameters, genoemd in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&bijlage=6&z=2025-10-24&g=2025-10-24) bij deze regeling. De in [artikel 57, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=57) genoemde parameterwaarden betreffen de in [bijlage A van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&bijlage=A) opgenomen waarden voor deze parameters.
 
-#### Artikel 18. Prestatievergelijking; aanwijzing instantie
+##### Artikel 18. Prestatievergelijking; aanwijzing instantie
 
 Als instantie die belast is met de uitvoering van de prestatievergelijking wordt aangewezen: de inspecteur.
 
-#### Artikel 19. Maximumnorm voor bezoldiging werknemers/bestuurders drinkwaterbedrijf
+##### Artikel 19. Maximumnorm voor bezoldiging werknemers/bestuurders drinkwaterbedrijf
 
 Vervallen
 
-#### Artikel 20. Voorwaarden voor gebruik biociden bij drinkwaterproductie en -distributie
+##### Artikel 20. Voorwaarden voor gebruik biociden bij drinkwaterproductie en -distributie
 
 1. Het in [artikel 14, tweede lid, van het Besluit gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&artikel=14) bedoelde verbod is niet van toepassing indien de toegepaste biociden zodanig snel afbreken dat ze niet meer in het drinkwater aanwezig zijn op het punt waar het drinkwater gebruikt wordt.
 
@@ -336,15 +362,15 @@ Vervallen
 
 - d. hij waarborgt dat het drinkwater aan het tappunt voldoet aan de eisen gesteld in [artikel 21, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=21) en [artikel 13 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=13).
 
-#### Artikel 21. Wijziging [Besluit aanwijzing ambtenaren VROM-regelgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0017740)
+##### Artikel 21. Wijziging [Besluit aanwijzing ambtenaren VROM-regelgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0017740)
 
 Wijzigt het Besluit aanwijzing ambtenaren VROM-regelgeving.
 
-#### Artikel 22. Intrekking [Regeling distributiegebieden waterleidingbedrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0017743)
+##### Artikel 22. Intrekking [Regeling distributiegebieden waterleidingbedrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0017743)
 
 De [Regeling distributiegebieden waterleidingbedrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0017743) wordt ingetrokken.
 
-#### Artikel 23. Inwerkingtreding
+##### Artikel 23. Inwerkingtreding
 
 1. Deze regeling treedt, met uitzondering van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=5&z=2025-10-24&g=2025-10-24), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=6&z=2025-10-24&g=2025-10-24) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=15&z=2025-10-24&g=2025-10-24), in werking op het tijdstip waarop de [Drinkwaterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338) in werking treedt. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven op of na het tijdstip, bedoeld in de eerste volzin, treedt deze regeling in werking met ingang van de dag, volgende op die van de uitgifte van die Staatscourant.
 
@@ -352,7 +378,7 @@ De [Regeling distributiegebieden waterleidingbedrijven](https://wetten.overheid.
 
 3. [Artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=15&z=2025-10-24&g=2025-10-24) treedt met ingang van 1 januari 2013 in werking.
 
-#### Artikel 24. Citeertitel
+##### Artikel 24. Citeertitel
 
 Deze regeling wordt aangehaald als: Drinkwaterregeling.
 
@@ -594,7 +620,7 @@ Voor dit doel zijn in de EURATOM-richtlijn controleniveaus voor totaal alfa-acti
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 10a. Meetprogramma en meetfrequentie voor kleine of zeer kleine collectieve watervoorzieningen en voor collectieve leidingnetten
+##### Artikel 10a. Meetprogramma en meetfrequentie voor kleine of zeer kleine collectieve watervoorzieningen en voor collectieve leidingnetten
 
 1. De eigenaar van een kleine collectieve watervoorziening, van een zeer kleine collectieve watervoorziening die niet valt onder de vrijstelling, bedoeld in [artikel 32, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=32), of van een collectief leidingnet, beschikt over een daarop betrekking hebbend meetprogramma dat voldoet aan de van toepassing zijnde tabel of tabellen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&bijlage=3&z=2025-10-24&g=2025-10-24) en dat bestaat uit het nemen en analyseren van verschillende watermonsters of het verrichten van metingen die in het kader van een doorlopend proces van controle worden geregistreerd. De eigenaar evalueert voortdurend het meetprogramma en past het aan naar aanleiding van de evaluatie of voorafgaand aan wijzigingen in de feitelijke situatie.
 
@@ -716,7 +742,7 @@ De ID wordt berekend aan de hand van de gemeten radionuclideconcentraties en de 
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 16a. (signaleringsparameters voor oppervlaktewater gebruikt voor de bereiding van drinkwater)
+##### Artikel 16a. (signaleringsparameters voor oppervlaktewater gebruikt voor de bereiding van drinkwater)
 
 1. Signaleringsparameters voor het signaleren van mogelijke verontreiniging van oppervlaktewater, gebruikt voor de bereiding van drinkwater, zijn opgenomen in [bijlage 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&bijlage=5b&z=2025-10-24&g=2025-10-24).
 
@@ -838,7 +864,7 @@ Noten:
 
 - 3. Met deze parameter worden stoffen bedoeld die niet behoren tot de andere parameters in deze tabel of [tabel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&bijlage=5a&z=2021-10-07&g=2021-10-07) maar welke een bedreiging voor de drinkwatervoorziening kunnen zijn.
 
-#### Artikel 10b. Risicobeoordeling met beperkt meetprogramma en meetfrequentie voor kleine of zeer kleine collectieve watervoorzieningen en collectieve leidingnetten die onverplicht een risicobeoordeling uitvoeren
+##### Artikel 10b. Risicobeoordeling met beperkt meetprogramma en meetfrequentie voor kleine of zeer kleine collectieve watervoorzieningen en collectieve leidingnetten die onverplicht een risicobeoordeling uitvoeren
 
 1. Voor kleine of zeer kleine collectieve watervoorzieningen of collectieve leidingnetten als bedoeld in [artikel 10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=10a&z=2025-10-24&g=2025-10-24), die onverplicht een risicobeoordeling uitvoeren, kan de toezichthouder in afwijking van dat artikel op basis van de resultaten van de risicobeoordeling bepalen dat het meetprogramma, bedoeld in dat lid, en de lijst van daarin opgenomen bewakings- en audit parameters wordt beperkt en de bemonsteringsfrequenties worden verlaagd, met inachtneming van de herkomst van de parameter en van de variatie en lange termijnontwikkeling van diens concentratie, indien de risicobeoordeling bevestigt dat geen enkele redelijkerwijs te voorziene factor aanwezig is waardoor de kwaliteit van het voor menselijk consumptie bestemde water achteruit zou kunnen gaan in het geval van het verlagen van een bemonsteringsfrequentie of het schrappen van een parameter.
 
@@ -1011,7 +1037,7 @@ Als de totaal alfa-activiteit meer bedraagt dan 0,1 Bq/l of als de totaal bèta-
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a. Toegang tot drinkwater
+##### Artikel 1a. Toegang tot drinkwater
 
 Ter uitvoering van artikel 16 van de Drinkwaterrichtlijn laat de Minister onderzoek verrichten en draagt hij zo nodig zorg voor maatregelen als bedoeld in het eerste en tweede lid van dat artikel en voor bijstand als bedoeld in het derde lid van dat artikel teneinde de toegang tot drinkwater voor iedereen en met name voor kwetsbare en gemarginaliseerde groepen te waarborgen.
 

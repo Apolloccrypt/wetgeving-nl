@@ -1,13 +1,35 @@
 ---
-title: "Uitvoeringsbesluit ex artikel 2 Wet inzake spaarbewijzen"
+title: "Besluit van 11 maart 1987, tot algemeen verbindendverklaring van de regeling omtrent de uitgifte, de verhandeling en de uitbetaling tegen inlevering van spaarbewijzen als bedoeld in artikel 2 van de Wet inzake spaarbewijzen"
 identifier: "BWBR0004125"
-categorie: "Overig"
-publicatiedatum: 1987-04-08
-laatste_update: 1987-04-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004125"
+country: "nl"
+rank: "kb"
+publication_date: "1987-04-08"
+last_updated: "1987-04-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004125"
+soort: "KB"
+stam_id: "988533"
+version_id: "1451562"
+internal_id: "C1451561"
+label_id: "957954"
+dtd_version: "2.0"
+original_entry_into_force: "1987-04-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004125/1987-04-08/0"
+intitule_bron: "Stb.1987-129"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1987-03-11"
+intitule_status: "goed"
+original_publication: "Stb.1987-129"
+original_signed_date: "1987-03-11"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1987-04-08"
+jci_1_3: "jci1.3:c:BWBR0004125&z=1987-04-08&g=1987-04-08"
+jci_1_0: "1.0:c:BWBR0004125&g=1987-04-08"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsbesluit ex artikel 2 Wet inzake spaarbewijzen"
+signed_date: "1987-03-11"
+entry_into_force: "1987-04-08"
 ---
-
 # Besluit van 11 maart 1987, tot algemeen verbindendverklaring van de regeling omtrent de uitgifte, de verhandeling en de uitbetaling tegen inlevering van spaarbewijzen als bedoeld in artikel 2 van de Wet inzake spaarbewijzen
 
 Op de voordracht van Onze Minister van Financiën, Generale Thesaurie, Directie Binnenlands Geldwezen van 27 februari 1987 no. 387-1784;
@@ -16,7 +38,7 @@ Gelet op [artikel 2 van de Wet inzake spaarbewijzen](https://wetten.overheid.nl/
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Ten aanzien van ondernemingen en instellingen die spaarbewijzen uitgeven, worden algemeen verbindend verklaard:
 
@@ -26,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 2. De tekst van de overeenkomsten als bedoeld in het eerste lid zijn als bijlagen bij dit besluit gevoegd.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de dag na uitgifte van het **Staatsblad** waarin het wordt geplaatst.
 

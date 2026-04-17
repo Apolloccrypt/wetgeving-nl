@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen"
 identifier: "BWBV0005862"
-categorie: "Belastingrecht"
-publicatiedatum: 2025-12-31
-laatste_update: 2025-12-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005862"
+country: "nl"
+rank: "verdrag"
+publication_date: "2025-12-31"
+last_updated: "2025-12-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005862"
+soort: "verdrag"
+stam_id: "10004902473"
+version_id: "10005215392"
+internal_id: "C10009607211"
+label_id: "10004886594"
+dtd_version: "2.0"
+original_entry_into_force: "2015-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005862/2025-12-31/0"
+intitule_bron: "Trb.2012-123"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2012-07-23"
+intitule_in_force: "2015-11-04"
+intitule_status: "goed"
+original_publication: "Trb.2012-123"
+original_published_date: "2012-07-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2012-123"
+entry_into_force_date: "2015-12-01"
+jci_1_3: "jci1.3:c:BWBV0005862&z=2025-12-31&g=2025-12-31"
+jci_1_0: "1.0:c:BWBV0005862&g=2025-12-31"
+citeertitel_status: "redactioneel"
+entry_into_force: "2015-12-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen
 
 Het Koninkrijk der Nederlanden
@@ -26,11 +48,11 @@ Is van toepassing: a.in de Bondsrepubliek Duitsland:aa.in het geval van belastin
 
 ### HOOFDSTUK I. REIKWIJDTE VAN HET VERDRAG
 
-#### Artikel 1. Personen op wie het Verdrag van toepassing is
+##### Artikel 1. Personen op wie het Verdrag van toepassing is
 
 Dit Verdrag is van toepassing op personen die inwoner zijn van een of van beide verdragsluitende staten.
 
-#### Artikel 2. Belastingen waarop het Verdrag van toepassing is
+##### Artikel 2. Belastingen waarop het Verdrag van toepassing is
 
 1. Dit Verdrag is van toepassing op belastingen naar het inkomen die, ongeacht de wijze van heffing, worden geheven ten behoeve van een verdragsluitende staat, van een deelstaat of van de staatkundige onderdelen of plaatselijke publiekrechtelijke lichamen van een staat of deelstaat.
 
@@ -60,7 +82,7 @@ Dit Verdrag is van toepassing op personen die inwoner zijn van een of van beide 
 
 ### HOOFDSTUK II. BEGRIPSOMSCHRIJVINGEN
 
-#### Artikel 3. Algemene begripsomschrijvingen
+##### Artikel 3. Algemene begripsomschrijvingen
 
 1. Voor de toepassing van dit Verdrag, tenzij de context anders vereist:
 
@@ -106,7 +128,7 @@ Dit Verdrag is van toepassing op personen die inwoner zijn van een of van beide 
 
 2. Voor de toepassing van het Verdrag door een verdragsluitende staat op enig moment heeft, tenzij de context anders vereist, elke daarin niet omschreven uitdrukking de betekenis welke die uitdrukking op dat moment heeft volgens de wetgeving van die staat met betrekking tot de belastingen waarop het Verdrag van toepassing is, waarbij elke betekenis volgens de toepasselijke belastingwetgeving van die staat prevaleert boven een betekenis die volgens andere wetgeving van die staat aan die uitdrukking wordt gegeven.
 
-#### Artikel 4. Inwoner
+##### Artikel 4. Inwoner
 
 1. Voor de toepassing van dit Verdrag betekent de uitdrukking „inwoner van een verdragsluitende staat” iedere persoon die, ingevolge de wetgeving van die staat, aldaar aan belasting is onderworpen op grond van zijn woonplaats, verblijf, plaats van leiding, plaats van oprichting of enige andere soortgelijke omstandigheid en omvat tevens de staat zelf, een deelstaat en elk staatkundig onderdeel of plaatselijk publiekrechtelijk lichaam van een staat of deelstaat. Deze uitdrukking omvat echter niet een persoon die in die staat slechts aan belasting is onderworpen ter zake van inkomsten uit bronnen in die staat.
 
@@ -124,7 +146,7 @@ Dit Verdrag is van toepassing op personen die inwoner zijn van een of van beide 
 
 4. Indien de plaats van de werkelijke leiding van een rechtspersoon zich bevindt op een grensoverschrijdend bedrijventerrein en de gemeenschappelijke grens tussen de beide verdragsluitende staten loopt door de vaste bedrijfsinrichting waarin de plaats van de werkelijke leiding zich bevindt en niet eenduidig kan worden vastgesteld in welke van de verdragsluitende staten de rechtspersoon haar plaats van de werkelijke leiding heeft, dan wordt zij geacht uitsluitend inwoner te zijn van de staat waarin het grootste deel van de door de onderneming gebruikte oppervlakte van het gebouw waarin de werkelijke leiding van de onderneming wordt uitgeoefend, zich bevindt. Nadere regelingen voor de vaststelling in welk van de verdragsluitende staten de rechtspersoon wordt geacht inwoner te zijn, zijn neergelegd in de Bijlage bij dit Verdrag.
 
-#### Artikel 5. Vaste inrichting
+##### Artikel 5. Vaste inrichting
 
 1. Voor de toepassing van dit Verdrag betekent de uitdrukking „vaste inrichting” een vaste bedrijfsinrichting door middel waarvan de werkzaamheden van een onderneming geheel of gedeeltelijk worden uitgeoefend.
 
@@ -180,7 +202,7 @@ op voorwaarde dat die werkzaamheid, of, in het geval van onderdeel f, het geheel
 
 ### HOOFDSTUK III. BELASTINGHEFFING NAAR HET INKOMEN
 
-#### Artikel 6. Inkomsten uit onroerende zaken
+##### Artikel 6. Inkomsten uit onroerende zaken
 
 1. Inkomsten verkregen door een inwoner van een verdragsluitende staat uit onroerende zaken (waaronder begrepen voordelen uit landbouw- of bosbedrijven) die in de andere verdragsluitende staat zijn gelegen, mogen in die andere staat worden belast.
 
@@ -190,7 +212,7 @@ op voorwaarde dat die werkzaamheid, of, in het geval van onderdeel f, het geheel
 
 4. Het bepaalde in het eerste en derde lid is eveneens van toepassing op inkomsten uit onroerende zaken van een onderneming.
 
-#### Artikel 7. Winst uit onderneming
+##### Artikel 7. Winst uit onderneming
 
 1. De voordelen van een onderneming van een verdragsluitende staat zijn slechts in die staat belastbaar, tenzij de onderneming in de andere verdragsluitende staat haar bedrijf uitoefent door middel van een aldaar gevestigde vaste inrichting. Indien de onderneming aldus haar bedrijf uitoefent, mogen de voordelen die in overeenstemming met de bepalingen van het tweede lid aan de vaste inrichting kunnen worden toegerekend in die andere staat worden belast.
 
@@ -204,7 +226,7 @@ op voorwaarde dat die werkzaamheid, of, in het geval van onderdeel f, het geheel
 
 6. Indien in de voordelen bestanddelen van het inkomen zijn begrepen die afzonderlijk in andere artikelen van dit Verdrag worden behandeld, laten de bepalingen van dit artikel de bepalingen van die artikelen onverlet.
 
-#### Artikel 8. Zeevaart, binnenvaart en luchtvervoer
+##### Artikel 8. Zeevaart, binnenvaart en luchtvervoer
 
 1. Voordelen uit de exploitatie van schepen of luchtvaartuigen in internationaal verkeer zijn slechts belastbaar in de verdragsluitende staat waarin de plaats van de werkelijke leiding van de onderneming is gelegen.
 
@@ -222,7 +244,7 @@ mits het charteren, gebruik of de verhuur bijkomstig is aan de exploitatie van s
 
 5. De bepalingen van het eerste en tweede lid zijn eveneens van toepassing op voordelen uit de deelneming in een „pool”, een gemeenschappelijke onderneming of een internationaal opererend agentschap.
 
-#### Artikel 9. Gelieerde ondernemingen
+##### Artikel 9. Gelieerde ondernemingen
 
 1. Indien
 
@@ -234,7 +256,7 @@ en in het ene of in het andere geval tussen de beide ondernemingen in hun handel
 
 2. Indien een verdragsluitende staat in de voordelen van een onderneming van die staat voordelen begrijpt – en dienovereenkomstig belast – ter zake waarvan een onderneming van de andere verdragsluitende staat in die andere staat in de belastingheffing is betrokken en deze voordelen bestaan uit voordelen welke de onderneming van de eerstbedoelde staat zou hebben behaald indien tussen de beide ondernemingen zodanige voorwaarden zouden zijn overeengekomen als die welke tussen onafhankelijke ondernemingen zouden zijn overeengekomen, zal die andere staat het bedrag aan belasting dat in die staat over die voordelen is geheven, dienovereenkomstig aanpassen. Bij de vaststelling van deze aanpassing wordt zorgvuldig rekening gehouden met de overige bepalingen van dit Verdrag en plegen de bevoegde autoriteiten van de verdragsluitende staten zo nodig met elkaar overleg.
 
-#### Artikel 10. Dividenden
+##### Artikel 10. Dividenden
 
 1. Dividenden betaald door een lichaam dat inwoner is van een verdragsluitende staat aan een inwoner van de andere verdragsluitende staat, mogen in die andere staat worden belast.
 
@@ -258,7 +280,7 @@ Deze bepaling laat onverlet de belastingheffing van het lichaam ter zake van de 
 
 6. Niettegenstaande de bepalingen van het eerste, tweede en vijfde lid, mogen dividenden en uitdelingen op winstbewijzen betaald door een lichaam dat krachtens de wetgeving van een verdragsluitende staat inwoner van die staat is, aan een natuurlijke persoon die een inwoner van de andere verdragsluitende staat is en die, indien hij niet langer inwoner van de eerstgenoemde staat is, wordt belast over de waardevermeerdering van vermogen als bedoeld in [artikel 13, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=13&z=2025-12-31&g=2025-12-31), in overeenstemming met de wetgeving van die staat ook in die staat worden belast, evenwel uitsluitend gedurende een tijdvak van tien jaar na de emigratie van de natuurlijke persoon, voor zover er van de aanslag ter zake van de waardevermeerdering nog een bedrag openstaat.
 
-#### Artikel 11. Interest
+##### Artikel 11. Interest
 
 1. Interest afkomstig uit een verdragsluitende staat die wordt verkregen door een inwoner van de andere verdragsluitende staat die de uiteindelijke gerechtigde is, is slechts in die andere staat belastbaar.
 
@@ -268,7 +290,7 @@ Deze bepaling laat onverlet de belastingheffing van het lichaam ter zake van de 
 
 4. Indien, wegens een bijzondere verhouding tussen de schuldenaar en de uiteindelijk gerechtigde of tussen hen beiden en een derde, het bedrag van de interest, gelet op de schuldvordering ter zake waarvan deze wordt betaald, hoger is dan het bedrag dat zonder zulk een verhouding door de schuldenaar en de uiteindelijk gerechtigde zou zijn overeengekomen, zijn de bepalingen van dit artikel slechts op het laatstbedoelde bedrag van toepassing. In dat geval blijft het daarboven uitgaande deel van het betaalde bedrag belastbaar overeenkomstig de wetgeving van elk van de verdragsluitende staten, zulks met inachtneming van de overige bepalingen van dit Verdrag.
 
-#### Artikel 12. Royalty’s
+##### Artikel 12. Royalty’s
 
 1. Royalty’s afkomstig uit een verdragsluitende staat die worden verkregen door een inwoner van de andere verdragsluitende staat die de uiteindelijke gerechtigde is, zijn slechts in die andere staat belastbaar.
 
@@ -278,7 +300,7 @@ Deze bepaling laat onverlet de belastingheffing van het lichaam ter zake van de 
 
 4. Indien, wegens een bijzondere verhouding tussen de schuldenaar en de uiteindelijk gerechtigde of tussen hen beiden en een derde, het bedrag van de royalty’s, gelet op het gebruik, het recht of de informatie waarvoor zij worden betaald, hoger is dan het bedrag dat zonder zulk een verhouding door de schuldenaar en de uiteindelijk gerechtigde zou zijn overeengekomen, zijn de bepalingen van dit artikel slechts op het laatstbedoelde bedrag van toepassing. In dat geval blijft het daarboven uitgaande deel van het betaalde bedrag belastbaar overeenkomstig de wetgeving van elk van de verdragsluitende staten, zulks met inachtneming van de overige bepalingen van dit Verdrag.
 
-#### Artikel 13. Vermogenswinsten
+##### Artikel 13. Vermogenswinsten
 
 1. Voordelen verkregen door een inwoner van een verdragsluitende staat uit de vervreemding van onroerende zaken als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=6&z=2025-12-31&g=2025-12-31) en die zijn gelegen in de andere verdragsluitende staat, mogen in die andere staat worden belast.
 
@@ -296,7 +318,7 @@ Deze bepaling laat onverlet de belastingheffing van het lichaam ter zake van de 
 
 6. Indien een natuurlijke persoon inwoner was van een verdragsluitende staat en inwoner is geworden van de andere verdragsluitende staat, beletten de bepalingen van het vijfde lid de eerstgenoemde staat niet uit hoofde van zijn nationale recht de waardevermeerdering van aandelen, winstbewijzen, koopopties en het vruchtgebruik op aandelen in en winstbewijzen van en schuldvorderingen op een lichaam te belasten ter zake van het tijdvak waarin die natuurlijke persoon inwoner van de eerstgenoemde staat was. In dat geval wordt de waardevermeerdering van vermogen, belast in de eerstgenoemde staat, niet begrepen in de belastinggrondslag bij de vaststelling van de daaropvolgende waardevermeerdering van het vermogen door de andere staat.
 
-#### Artikel 14. Inkomsten uit dienstbetrekking
+##### Artikel 14. Inkomsten uit dienstbetrekking
 
 1. Onder voorbehoud van de bepalingen van de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=15&z=2025-12-31&g=2025-12-31), [17](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=17&z=2025-12-31&g=2025-12-31), [18](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=18&z=2025-12-31&g=2025-12-31) en [19](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=19&z=2025-12-31&g=2025-12-31) zijn salarissen, lonen en andere soortgelijke beloningen verkregen door een inwoner van een verdragsluitende staat ter zake van een dienstbetrekking slechts in die staat belastbaar, tenzij de dienstbetrekking in de andere verdragsluitende staat wordt uitgeoefend. Indien de dienstbetrekking aldaar wordt uitgeoefend, mag de ter zake daarvan verkregen beloning in die andere staat worden belast.
 
@@ -314,13 +336,13 @@ Deze bepaling laat onverlet de belastingheffing van het lichaam ter zake van de 
 
 4. Niettegenstaande de voorgaande bepalingen van dit artikel mag de beloning verkregen ter zake van een dienstbetrekking uitgeoefend aan boord van een schip of luchtvaartuig dat in internationaal verkeer wordt geëxploiteerd, of aan boord van een binnenschip, worden belast in de verdragsluitende staat waar de plaats van de werkelijke leiding van de onderneming die het schip, luchtvaartuig of binnenschip exploiteert is gelegen.
 
-#### Artikel 15. Directeursbeloningen
+##### Artikel 15. Directeursbeloningen
 
 1. Directeursbeloningen en andere beloningen verkregen door een inwoner van een verdragsluitende staat in zijn hoedanigheid van lid van de raad van beheer van een lichaam dat inwoner is van de andere verdragsluitende staat, mogen in die andere staat worden belast.
 
 2. De uitdrukking „lid van de raad van beheer” omvat zowel personen die zijn belast met de algemene leiding van het lichaam als personen die zijn belast met het toezicht daarop.
 
-#### Artikel 16. Artiesten en sportbeoefenaars
+##### Artikel 16. Artiesten en sportbeoefenaars
 
 1. Niettegenstaande de bepalingen van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=7&z=2025-12-31&g=2025-12-31) en [14](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=14&z=2025-12-31&g=2025-12-31), mogen inkomsten verkregen door een inwoner van een verdragsluitende staat als artiest, zoals een toneelspeler, een film-, radio- of televisie-artiest of een musicus, of als sportbeoefenaar, uit zijn persoonlijke werkzaamheden als zodanig die worden verricht in de andere verdragsluitende staat, worden belast in die andere staat.
 
@@ -328,7 +350,7 @@ Deze bepaling laat onverlet de belastingheffing van het lichaam ter zake van de 
 
 3. De bepalingen van het eerste en tweede lid zijn niet van toepassing op inkomsten verkregen door een inwoner van een verdragsluitende staat uit werkzaamheden verricht in de andere verdragsluitende staat, indien het bezoek aan die staat voor ten minste 50 percent wordt bekostigd uit de openbare middelen van een of beide verdragsluitende staten, een deelstaat, een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam van een of beide verdragsluitende staten of een deelstaat of door een organisatie die in een van de verdragsluitende staten wordt erkend als een algemeen nut beogende instelling of plaatsvindt in het kader van een culturele overeenkomst tussen de regeringen van de verdragsluitende staten. In dergelijke gevallen zijn de inkomsten slechts belastbaar in de verdragsluitende staat waarvan de artiest of sportbeoefenaar inwoner is.
 
-#### Artikel 17. Pensioenen, lijfrenten en socialezekerheidsuitkeringen
+##### Artikel 17. Pensioenen, lijfrenten en socialezekerheidsuitkeringen
 
 1. Onder voorbehoud van de bepalingen van [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=18&z=2025-12-31&g=2025-12-31), zijn pensioenen en andere soortgelijke beloningen betaald aan een inwoner van een verdragsluitende staat alsmede lijfrenten betaald aan een inwoner van een verdragsluitende staat slechts in die staat belastbaar. Pensioenen en andere uitkeringen betaald krachtens de bepalingen van een socialezekerheidsstelsel van een verdragsluitende staat aan een inwoner van de andere verdragsluitende staat zijn slechts in die andere staat belastbaar.
 
@@ -350,7 +372,7 @@ Deze bepaling laat onverlet de belastingheffing van het lichaam ter zake van de 
 
 - b. wat de Bondsrepubliek Duitsland betreft: een vaste som, periodiek betaalbaar op vaste tijdstippen, hetzij gedurende het leven, hetzij gedurende een vastgesteld of voor vaststelling vatbaar tijdvak, ingevolge een verbintenis tot het doen van betalingen, welke tegenover een voldoende en volledige tegenprestatie in geld of geldswaarde staat.
 
-#### Artikel 18. Overheidsfuncties
+##### Artikel 18. Overheidsfuncties
 
 - a. Salarissen, lonen en andere soortgelijke beloningen, betaald door een verdragsluitende staat, deelstaat of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam van een verdragsluitende staat of deelstaat, aan een natuurlijke persoon ter zake van diensten verleend aan die staat, deelstaat of dat staatkundig onderdeel of plaatselijk publiekrechtelijk lichaam daarvan, zijn slechts in die staat belastbaar.
 
@@ -368,17 +390,17 @@ Deze bepaling laat onverlet de belastingheffing van het lichaam ter zake van de 
 
 4. De bepalingen van het eerste en tweede lid zijn ook van toepassing op salarissen, lonen en andere soortgelijke beloningen en pensioenen betaald aan een natuurlijke persoon ter zake van diensten verleend aan het „Goethe-Institut”, de „Deutsche Akademische Austauschdienst” of aan andere soortgelijke instellingen die de verdragsluitende staten onderling zijn overeengekomen. Indien deze beloning niet wordt belast in de staat waar de instelling is opgericht, zijn de bepalingen van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=14&z=2025-12-31&g=2025-12-31) van toepassing.
 
-#### Artikel 19. Bezoekende hoogleraren en docenten
+##### Artikel 19. Bezoekende hoogleraren en docenten
 
 1. Vergoedingen en andere beloningen die een hoogleraar of docent, die inwoner is van een verdragsluitende staat en die in de andere verdragsluitende staat verblijft met het doel gedurende een tijdvak van ten hoogste twee jaar, te rekenen vanaf de datum waarop het onderwijs of de wetenschappelijke activiteiten daadwerkelijk aanvangen, onderwijs te geven of zich met wetenschappelijk onderzoek bezig te houden aan een universiteit, hogeschool of andere inrichting voor onderwijs of wetenschappelijk onderzoek in die andere staat, voor dat onderwijs of dat onderzoek ontvangt, zijn vrijgesteld van belasting in de andere verdragsluitende staat indien deze vergoedingen of andere beloningen niet afkomstig zijn uit die andere verdragsluitende staat.
 
 2. Dit artikel is niet van toepassing op inkomsten uit het verrichten van wetenschappelijk onderzoek, indien dit onderzoek niet wordt verricht in het algemeen belang, maar in de eerste plaats voor het persoonlijk nut van een bepaalde persoon of bepaalde personen.
 
-#### Artikel 20. Studenten
+##### Artikel 20. Studenten
 
 Vergoedingen die een student of een voor een beroep of bedrijf in opleiding zijnde persoon die inwoner is of onmiddellijk voorafgaande aan zijn bezoek aan een verdragsluitende staat inwoner was van de andere verdragsluitende staat en die uitsluitend voor zijn studie of opleiding in de eerstbedoelde staat verblijft, ontvangt ten behoeve van zijn onderhoud, studie of opleiding, zijn in die staat niet belastbaar, mits deze vergoedingen afkomstig zijn uit bronnen buiten die staat.
 
-#### Artikel 21. Overige inkomsten
+##### Artikel 21. Overige inkomsten
 
 1. Bestanddelen van het inkomen van een inwoner van een verdragsluitende staat, van waaruit ook afkomstig, die niet in de voorgaande artikelen van dit Verdrag zijn behandeld, zijn slechts in die staat belastbaar.
 
@@ -386,7 +408,7 @@ Vergoedingen die een student of een voor een beroep of bedrijf in opleiding zijn
 
 ### HOOFDSTUK IV. VERMIJDEN VAN DUBBELE BELASTING
 
-#### Artikel 22. Vermijden van dubbele belasting
+##### Artikel 22. Vermijden van dubbele belasting
 
 1. In het geval van een inwoner van de Bondsrepubliek Duitsland wordt de belasting als volgt vastgesteld:
 
@@ -426,7 +448,7 @@ Vergoedingen die een student of een voor een beroep of bedrijf in opleiding zijn
 
 ### HOOFDSTUK V. BIJZONDERE BEPALINGEN
 
-#### Artikel 23. Toepassing van het Verdrag in bijzondere gevallen
+##### Artikel 23. Toepassing van het Verdrag in bijzondere gevallen
 
 1. Dit Verdrag mag niet zodanig worden uitgelegd dat de verdragsluitende staten worden belet hun nationale wettelijke bepalingen ter voorkoming van het ontgaan of vermijden van belasting toe te passen.
 
@@ -446,7 +468,7 @@ zijn de voordelen van dit Verdrag niet van toepassing op enig bestanddeel van he
 
 6. Niettegenstaande de overige bepalingen van dit Verdrag, wordt een voordeel uit hoofde van dit Verdrag niet toegekend met betrekking tot een bestanddeel van het inkomen indien, alle relevante feiten en omstandigheden in aanmerking genomen, redelijkerwijs kan worden geconcludeerd dat het verkrijgen van dat voordeel een van de voornaamste doelen was van een constructie of transactie die direct of indirect tot dat voordeel heeft geleid, tenzij wordt vastgesteld dat het toekennen van dit voordeel onder die omstandigheden in overeenstemming zou zijn met het voorwerp en doel van de desbetreffende bepalingen van dit Verdrag.
 
-#### Artikel 24. Non-discriminatie
+##### Artikel 24. Non-discriminatie
 
 1. Onderdanen van een verdragsluitende staat worden in de andere verdragsluitende staat niet aan enige belastingheffing of daarmede verband houdende verplichting onderworpen, die anders of zwaarder is dan de belastingheffing en daarmee verband houdende verplichtingen waaraan onderdanen van die andere staat onder dezelfde omstandigheden, in het bijzonder met betrekking tot woonplaats, zijn of kunnen worden onderworpen. Deze bepaling is, niettegenstaande het bepaalde in artikel 1, ook van toepassing op personen die geen inwoner zijn van een of van beide verdragsluitende staten.
 
@@ -466,7 +488,7 @@ zijn de voordelen van dit Verdrag niet van toepassing op enig bestanddeel van he
 
 7. De bepalingen van dit artikel zijn, niettegenstaande de bepalingen van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=I&artikel=2&z=2025-12-31&g=2025-12-31), van toepassing op belastingen van elke soort en benaming.
 
-#### Artikel 25. Procedure voor onderling overleg
+##### Artikel 25. Procedure voor onderling overleg
 
 1. Indien een persoon van oordeel is dat de maatregelen van een of van beide verdragsluitende staten voor hem leiden of zullen leiden tot een belastingheffing die niet in overeenstemming is met de bepalingen van dit Verdrag, kan hij, ongeacht de rechtsmiddelen waarin de nationale wetgeving van die staten voorziet, zijn geval voorleggen aan de bevoegde autoriteit van de verdragsluitende staat waarvan hij inwoner is, of, indien zijn geval valt onder [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=V&artikel=24&z=2025-12-31&g=2025-12-31), aan die van de verdragsluitende staat waarvan hij onderdaan is. Het geval moet worden voorgelegd binnen drie jaar nadat de maatregel die leidt tot een belastingheffing die niet in overeenstemming is met de bepalingen van het Verdrag, voor het eerst te zijner kennis is gebracht.
 
@@ -482,7 +504,7 @@ zijn de voordelen van dit Verdrag niet van toepassing op enig bestanddeel van he
 
 - b). de bevoegde autoriteiten er niet in slagen om binnen twee jaar nadat het geval is voorgelegd aan de bevoegde autoriteit van de andere verdragsluitende staat, overeenstemming te bereiken om het geval op te lossen overeenkomstig het tweede lid, worden onopgeloste kwesties die voortvloeien uit het geval op verzoek van de persoon voorgelegd voor arbitrage. De arbitrale uitspraak is bindend voor beide verdragsluitende staten en wordt ten uitvoer gelegd ongeacht eventuele termijnen in de nationale wetgeving van deze staten, tenzij de rechtstreeks betrokken persoon de wederzijdse overeenstemming voor de tenuitvoerlegging van de arbitrale uitspraak niet aanvaardt. De verdragsluitende staten regelen in onderling overleg de wijze van toepassing van dit lid.
 
-#### Artikel 26. Boekenonderzoeken op grensoverschrijdende bedrijventerreinen
+##### Artikel 26. Boekenonderzoeken op grensoverschrijdende bedrijventerreinen
 
 1. Indien een onderneming van een van de verdragsluitende staten een vaste bedrijfsinrichting heeft die zich geheel of gedeeltelijk bevindt op het deel van een grensoverschrijdend bedrijventerrein dat behoort tot het grondgebied van de andere verdragsluitende staat en het recht tot belastingheffing over de inkomsten van deze onderneming of over de inkomsten uit dienstbetrekking van werknemers die voor deze onderneming werkzaam zijn, toekomt aan de eerstgenoemde verdragsluitende staat, dan mag de eerstgenoemde staat in zoverre zelfstandig boekenonderzoeken verrichten voor de vaststelling van de fiscale omstandigheden in deze vaste bedrijfsinrichting. De andere staat heeft het recht aan het boekenonderzoek deel te nemen.
 
@@ -506,7 +528,7 @@ Na afsluiting van het onderzoek stelt de verdragsluitende staat die het onderzoe
 
 5. Het eerste lid is niet van toepassing indien de verdragsluitende staat op het grondgebied waarvan een boekenonderzoek is voorzien, tegen de uitvoering van dat onderzoek bezwaar maakt. Dit bezwaar is alleen geoorloofd indien het onderzoek naar het oordeel van de laatstgenoemde staat in strijd is met de openbare orde (ordre public) of met wezenlijke belangen van die staat. In dat geval verrichten de beide verdragsluitende staten binnen een maand na de mededeling van het bezwaar een gezamenlijk onderzoek bij de betrokken onderneming. Hierbij zijn de rechts- en procedurevoorschriften maatgevend van de staat op het grondgebied waarvan het gezamenlijke onderzoek plaatsvindt.
 
-#### Artikel 27. Uitwisseling van informatie
+##### Artikel 27. Uitwisseling van informatie
 
 1. De bevoegde autoriteiten van de verdragsluitende staten wisselen de informatie uit die naar verwachting van belang is voor de uitvoering van de bepalingen van dit Verdrag of voor de toepassing of de handhaving van de nationale wetgeving betreffende belastingen van elke soort en benaming die worden geheven ten behoeve van een verdragsluitende staat, een deelstaat of van een staatkundig onderdeel of plaatselijk publiekrechtelijk lichaam van een verdragsluitende staat of deelstaat, voor zover de heffing van die belastingen niet in strijd is met het Verdrag. De uitwisseling van informatie wordt niet beperkt door de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=I&artikel=1&z=2025-12-31&g=2025-12-31) en [2](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=I&artikel=2&z=2025-12-31&g=2025-12-31).
 
@@ -526,7 +548,7 @@ Na afsluiting van het onderzoek stelt de verdragsluitende staat die het onderzoe
 
 6. De bepalingen van het vierde lid mogen in geen geval zodanig worden uitgelegd dat het een verdragsluitende staat toegestaan is het verstrekken van informatie te weigeren uitsluitend op grond van het feit dat de informatie berust bij een bank, een andere financiële instelling, een gevolmachtigde, of een persoon die bij wijze van vertegenwoordiging of als vertrouwenspersoon optreedt, dan wel omdat deze betrekking heeft op eigendomsbelangen in een persoon.
 
-#### Artikel 28. Bijstand bij de invordering van belastingen
+##### Artikel 28. Bijstand bij de invordering van belastingen
 
 1. De verdragsluitende staten verlenen elkaar bijstand bij de invordering van belastingvorderingen. Deze bijstand wordt niet beperkt door de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=I&artikel=1&z=2025-12-31&g=2025-12-31) en [2](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=I&artikel=2&z=2025-12-31&g=2025-12-31). De bevoegde autoriteiten van de verdragsluitende staten kunnen in onderlinge overeenstemming de wijze van toepassing van dit artikel regelen.
 
@@ -558,11 +580,11 @@ stelt de bevoegde autoriteit van de eerstbedoelde staat de bevoegde autoriteit v
 
 - d). bijstand te verlenen in gevallen waarin de administratieve last voor die staat duidelijk in verhouding onevenredig is met het voordeel te behalen door de andere verdragsluitende staat.
 
-#### Artikel 29. Procedures voor belastingheffing aan de bron
+##### Artikel 29. Procedures voor belastingheffing aan de bron
 
 Elke verdragsluitende staat voorziet in vrijstelling van belastingheffing aan de bron door toepassing van zijn nationale procedures. De bevoegde autoriteiten van de verdragsluitende staten kunnen evenwel in onderlinge overeenstemming de wijze van toepassing van vrijstelling van belastingheffing aan de bron regelen.
 
-#### Artikel 30. Leden van diplomatieke vertegenwoordigingen en consulaire posten
+##### Artikel 30. Leden van diplomatieke vertegenwoordigingen en consulaire posten
 
 1. De bepalingen in dit Verdrag tasten in geen enkel opzicht de fiscale voorrechten aan die leden van diplomatieke vertegenwoordigingen of consulaire posten ontlenen aan de algemene regels van het volkenrecht of aan de bepalingen van bijzondere overeenkomsten.
 
@@ -570,11 +592,11 @@ Elke verdragsluitende staat voorziet in vrijstelling van belastingheffing aan de
 
 3. Het Verdrag is niet van toepassing op internationale organisaties, op hun organen of functionarissen, noch op leden van een diplomatieke vertegenwoordiging of consulaire post van een derde staat, die in een verdragsluitende staat verblijven, indien zij in die staat niet aan dezelfde verplichtingen ter zake van belastingen naar het inkomen zijn onderworpen als inwoners van die staat.
 
-#### Artikel 31. Bijlage en Protocol
+##### Artikel 31. Bijlage en Protocol
 
 De Bijlage, het aan dit Verdrag gehechte Protocol en de Onderlinge Overeenkomst tot regeling van de wijze van toepassing van de arbitrageprocedure maken een integrerend onderdeel uit van dit Verdrag.
 
-#### Artikel 32. Uitbreiding tot andere gebieden
+##### Artikel 32. Uitbreiding tot andere gebieden
 
 1. Dit Verdrag kan, hetzij in zijn geheel, hetzij met de noodzakelijke wijzigingen, worden uitgebreid tot de delen van het Koninkrijk der Nederlanden die niet in Europa zijn gelegen en belastingen heffen die in wezen gelijksoortig zijn aan de belastingen waarop het Verdrag van toepassing is. Een dergelijke uitbreiding wordt van kracht met ingang van een datum en met inachtneming van wijzigingen en voorwaarden, daaronder begrepen voorwaarden ten aanzien van de beëindiging, tussen de verdragsluitende staten nader vast te stellen en overeen te komen bij diplomatieke notawisseling of op andere wijze in overeenstemming met hun grondwettelijke procedures.
 
@@ -582,7 +604,7 @@ De Bijlage, het aan dit Verdrag gehechte Protocol en de Onderlinge Overeenkomst 
 
 ### HOOFDSTUK VI. SLOTBEPALINGEN
 
-#### Artikel 33. Inwerkingtreding
+##### Artikel 33. Inwerkingtreding
 
 1. Dit Verdrag dient te worden bekrachtigd. De akten van bekrachtiging worden zo spoedig mogelijk uitgewisseld te ’s-Gravenhage.
 
@@ -604,7 +626,7 @@ De Bijlage, het aan dit Verdrag gehechte Protocol en de Onderlinge Overeenkomst 
 
 6. Niettegenstaande het tweede en derde lid, indien een persoon uit hoofde van de [Overeenkomst van 1959](https://wetten.overheid.nl/jci1.3:c:BWBV0004851) recht zou hebben op grotere voordelen dan uit hoofde van dit Verdrag, blijft de Overeenkomst van 1959 naar keuze van een dergelijke persoon met betrekking tot deze persoon volledig van toepassing gedurende een tijdvak van één jaar, te rekenen vanaf de datum waarop de bepalingen van dit Verdrag van toepassing zouden zijn uit hoofde van het tweede lid.
 
-#### Artikel 34. Beëindiging
+##### Artikel 34. Beëindiging
 
 Dit Verdrag blijft van kracht totdat het door een verdragsluitende staat wordt beëindigd. Een verdragsluitende staat kan het Verdrag langs diplomatieke weg beëindigen door middel van een kennisgeving van beëindiging.
 
@@ -614,11 +636,11 @@ Kennisgeving van beëindiging wordt geacht door een verdragsluitende staat te zi
 
 Op zaken die worden voorgelegd uit hoofde van [artikel 25, vijfde lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=V&artikel=25&z=2025-12-31&g=2025-12-31) tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belastingen naar het inkomen, ondertekend te Berlijn op 12 april 2012 („het Verdrag”), zijn de volgende regels en procedures van toepassing. De bevoegde autoriteiten van Nederland en Duitsland kunnen deze overeenkomst wijzigen of aanvullen door middel van een onderlinge notawisseling.
 
-#### 1. Verzoek om voorlegging van een zaak voor arbitrage
+##### 1. Verzoek om voorlegging van een zaak voor arbitrage
 
 Een verzoek uit hoofde van [artikel 25, vijfde lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=V&artikel=25&z=2025-12-31&g=2025-12-31) (het „verzoek om arbitrage”) om voorlegging voor arbitrage van onopgeloste kwesties voortvloeiend uit een onderlinge overlegprocedure wordt schriftelijk gedaan en gezonden aan een van de bevoegde autoriteiten. Het verzoek bevat voldoende gegevens ter aanduiding van de zaak. Het verzoek gaat tevens vergezeld van een schriftelijke verklaring van elk van de personen die hetzij het verzoek hebben ingediend, hetzij rechtstreeks bij de zaak betrokken zijn, dat in dezelfde kwesties niet reeds uitspraak is gedaan door een rechterlijke instantie of bestuursrechtelijk lichaam van een van de verdragsluitende staten. Binnen 10 dagen na ontvangst van het verzoek zendt de bevoegde autoriteit die het heeft ontvangen een afschrift van het verzoek en de begeleidende verklaringen toe aan de andere bevoegde autoriteit.
 
-#### 2. Termijn voor voorlegging van een zaak voor arbitrage
+##### 2. Termijn voor voorlegging van een zaak voor arbitrage
 
 Een verzoek om arbitrage kan na twee jaar na de datum waarop een zaak ingevolge [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=V&artikel=25&z=2025-12-31&g=2025-12-31), is voorgelegd aan de bevoegde autoriteit van een verdragsluitende staat slechts worden ingediend indien de zaak ook is voorgelegd aan de bevoegde autoriteit van de andere staat. Daartoe wordt een zaak uitsluitend geacht te zijn voorgelegd aan een bevoegde autoriteit indien deze bevoegde autoriteit de informatie heeft ontvangen die nodig is voor een materiële behandeling ten behoeve van onderling overleg.
 
@@ -642,19 +664,19 @@ Deze informatie kan omvatten:
 
 - i. alle specifieke aanvullende informatie waar een bevoegde autoriteit binnen drie maanden na ontvangst van het verzoek door die bevoegde autoriteit om heeft verzocht.
 
-#### 3. Terms of reference
+##### 3. Terms of reference
 
 Binnen drie maanden nadat het verzoek om arbitrage door beide bevoegde autoriteiten is ontvangen, komen de bevoegde autoriteiten overeen welke kwesties door de arbitrage-instantie moeten worden opgelost en delen deze schriftelijk mede aan de persoon die het verzoek om arbitrage heeft ingediend. Dit zijn de „Terms of reference” voor de zaak. Niettegenstaande de volgende paragrafen, kunnen de bevoegde autoriteiten in de Terms of reference ook procedureregels opnemen die de regels in de paragrafen van deze overeenkomst aanvullen of ervan afwijken en indien nodig, andere aangelegenheden betreffen.
 
-#### 4. Uitblijven van mededeling van de Terms of reference
+##### 4. Uitblijven van mededeling van de Terms of reference
 
 Indien de Terms of reference niet binnen de termijn bedoeld in de voorgaande [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&artikel=3&z=2025-12-31&g=2025-12-31) zijn medegedeeld aan de persoon die het verzoek om arbitrage heeft ingediend, kunnen die persoon en elke bevoegde autoriteit binnen een maand na afloop van die termijn elkaar schriftelijk een lijst van de door arbitrage op te lossen kwesties toezenden. Alle gedurende die termijn aldus toegezonden lijsten vormen de voorlopige Terms of reference. Binnen een maand nadat alle arbiters zijn benoemd als voorzien in [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&artikel=5&z=2025-12-31&g=2025-12-31) hierna, zenden de arbiters de bevoegde autoriteiten en de persoon die het verzoek om arbitrage heeft ingediend een op basis van de aldus toegezonden lijsten herziene versie van de voorlopige Terms of reference toe. Binnen een maand nadat zij beide de herziene versie hebben ontvangen, kunnen de bevoegde autoriteiten andere Terms of reference overeenkomen en deze schriftelijk toezenden aan de arbiters en de persoon die het verzoek om arbitrage heeft ingediend. Indien zij dat binnen die termijn doen, vormen deze andere Terms of reference de Terms of reference voor de zaak. Indien de bevoegde autoriteiten binnen die termijn geen andere Terms of reference overeenkomen en toezenden, vormt de herziene versie van de voorlopige Terms of reference opgesteld door de arbiters de Terms of reference voor de zaak.
 
-#### 5. Keuze van arbiters
+##### 5. Keuze van arbiters
 
 Binnen drie maanden nadat de Terms of reference door de persoon die het verzoek om arbitrage heeft ingediend zijn ontvangen, of, indien paragraaf 4 van toepassing is, binnen vier maanden nadat het verzoek om arbitrage is ontvangen door beide bevoegde autoriteiten, benoemen de bevoegde autoriteiten elk een arbiter. Binnen twee maanden nadat de laatste benoeming heeft plaatsgevonden, benoemen de aldus benoemde arbiters een derde arbiter die als voorzitter zal optreden. Indien een benoeming niet binnen de vereiste termijn geschiedt, wordt (worden) de ontbrekende arbiter(s) binnen vijftien dagen na ontvangst van een verzoek daartoe van de persoon die het verzoek om arbitrage heeft ingediend benoemd door de hoogstgeplaatste functionaris van het Secretariaat van het Centre for Tax Policy and Administration van de Organisatie voor Economische Samenwerking en Ontwikkeling (OESO) die geen onderdaan is van een van de verdragsluitende staten. Dezelfde procedure is met de noodzakelijke aanpassingen van toepassing indien het na aanvang van de arbitrageprocedure noodzakelijk blijkt een arbiter te vervangen, ongeacht de redenen daarvoor. Tenzij de Terms of reference anders voorzien, is de wijze van beloning gelijk aan de methode gehanteerd in de Gedragscode bij het EG-arbitrageverdrag.
 
-#### 6. Gestroomlijnde arbitrageprocedure
+##### 6. Gestroomlijnde arbitrageprocedure
 
 Indien de bevoegde autoriteiten dat aangeven in de Terms of reference (op voorwaarde dat deze niet zijn overeengekomen na de aanwijzing van de arbiters ingevolge [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&artikel=4&z=2025-12-31&g=2025-12-31) hierboven), zijn onverminderd de [paragrafen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&artikel=5&z=2025-12-31&g=2025-12-31), [11](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&artikel=11&z=2025-12-31&g=2025-12-31), [15](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&artikel=15&z=2025-12-31&g=2025-12-31), [16](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&artikel=16&z=2025-12-31&g=2025-12-31), [17](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&artikel=17&z=2025-12-31&g=2025-12-31) en [19](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&artikel=19&z=2025-12-31&g=2025-12-31), de volgende regels van toepassing:
 
@@ -664,31 +686,31 @@ Indien de bevoegde autoriteiten dat aangeven in de Terms of reference (op voorwa
 
 - c. Binnen een maand na ontvangst van het laatste van de antwoorden van de bevoegde autoriteiten beslist de arbiter over elke vraag vervat in de Terms of reference overeenkomstig een van de twee antwoorden ontvangen van de bevoegde autoriteiten naar aanleiding van die vraag en stelt de bevoegde autoriteiten en elke persoon die direct bij de zaak betrokken is in kennis van de keuze, tezamen met een korte toelichting op die keuze. De uitspraken worden ten uitvoer gelegd zoals voorzien in [paragraaf 19](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&artikel=19&z=2025-12-31&g=2025-12-31).
 
-#### 7. Voorwaarden voor en benoeming van arbiters
+##### 7. Voorwaarden voor en benoeming van arbiters
 
 Een ieder, met inbegrip van ambtenaren van een verdragsluitende staat, kan worden benoemd als arbiter, tenzij die persoon in eerdere fasen betrokken is geweest bij de zaak die aanleiding is voor de arbitrageprocedure. Een arbiter wordt geacht te zijn benoemd wanneer een brief ter bevestiging van die benoeming is ondertekend door zowel de persoon of personen die bevoegd is of zijn tot benoeming van die arbiter als door de arbiter zelf.
 
-#### 8. Verstrekking van informatie en vertrouwelijkheid
+##### 8. Verstrekking van informatie en vertrouwelijkheid
 
 Uitsluitend voor de toepassing van de bepalingen van de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=V&artikel=25&z=2025-12-31&g=2025-12-31) en [27](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=V&artikel=27&z=2025-12-31&g=2025-12-31) en van de nationale wetgeving van de verdragsluitende staten inzake de verzending en vertrouwelijkheid van de informatie betreffende de zaak die tot de arbitrageprocedure leidt, wordt elke arbiter benoemd als gevolmachtigd vertegenwoordiger van de bevoegde autoriteit die die arbiter heeft benoemd of, indien die arbiter niet uitsluitend door een bevoegde autoriteit is benoemd, van de bevoegde autoriteit waaraan de zaak die tot de arbitrageprocedure leidt oorspronkelijk was voorgelegd. Derhalve zijn de arbiters onderworpen aan dezelfde strikte vereisten omtrent vertrouwelijkheid die gelden ten aanzien van de informatie met betrekking tot de zaak die op de bevoegde autoriteiten zelf van toepassing zijn.
 
-#### 9. Verzuim tijdig informatie te verstrekken
+##### 9. Verzuim tijdig informatie te verstrekken
 
 Niettegenstaande de [paragrafen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&artikel=5&z=2025-12-31&g=2025-12-31) en [6](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&artikel=6&z=2025-12-31&g=2025-12-31), indien beide bevoegde autoriteiten overeenkomen dat het verzuim een kwestie binnen de in [artikel 25, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=V&artikel=25&z=2025-12-31&g=2025-12-31), voorziene termijn van twee jaar op te lossen vooral te wijten is aan het nalaten van een persoon die rechtstreeks wordt getroffen door de zaak tijdig relevante informatie te verstrekken, kunnen de bevoegde autoriteiten de benoeming van de arbiter uitstellen gedurende een tijdvak dat overeenkomt met de vertraging bij het verstrekken van die informatie.
 
-#### 10. Regels omtrent procedure en bewijsvoering
+##### 10. Regels omtrent procedure en bewijsvoering
 
 Met inachtneming van deze overeenkomst en de Terms of reference nemen de arbiters de regels omtrent procedure en bewijsvoering aan die zij nodig achten ter beantwoording van de vragen vervat in de Terms of reference. Zij hebben toegang tot alle informatie, met inbegrip van vertrouwelijke informatie, die nodig is om over de voor arbitrage voorgelegde kwesties te beslissen. Tenzij de bevoegde autoriteiten anders overeenkomen, wordt informatie die niet aan beide bevoegde autoriteiten ter beschikking stond voordat het verzoek om arbitrage door beide was ontvangen niet in aanmerking genomen ten behoeve van de uitspraak.
 
-#### 11. Deelname door de persoon die om de arbitrage heeft verzocht
+##### 11. Deelname door de persoon die om de arbitrage heeft verzocht
 
 De persoon die het verzoek om arbitrage heeft ingediend kan zijn standpunt, hetzij rechtstreeks, hetzij via zijn vertegenwoordigers, op dezelfde wijze schriftelijk voorleggen aan de arbiters als bij de regeling voor onderling overleg. Daarnaast kan deze persoon met toestemming van de arbiters zijn standpunt tijdens de arbitrageprocedure mondeling presenteren.
 
-#### 12. Logistieke maatregelen
+##### 12. Logistieke maatregelen
 
 Tenzij anders overeengekomen door de bevoegde autoriteiten, is de bevoegde autoriteit waaraan de zaak die tot de arbitrage leidt oorspronkelijk was voorgelegd verantwoordelijk voor de logistieke maatregelen voor de bijeenkomsten van de arbiters en stelt zij het nodige administratieve personeel voor de uitvoering van het arbitrageproces ter beschikking. Het aldus ter beschikking gestelde personeel rapporteert over elke daarmee verband houdende aangelegenheid uitsluitend aan de voorzitter van de arbiters.
 
-#### 13. Kosten
+##### 13. Kosten
 
 Tenzij anders overeengekomen door de bevoegde autoriteiten:
 
@@ -702,15 +724,15 @@ Tenzij anders overeengekomen door de bevoegde autoriteiten:
 
 - e. worden alle overige kosten (met inbegrip van vertaalkosten en van het vastleggen van de procedure) die verband houden met kosten waarover beide bevoegde autoriteiten overeenstemming hebben bereikt, gelijkelijk gedragen door beide verdragsluitende staten.
 
-#### 14. Toepasselijke rechtsbeginselen
+##### 14. Toepasselijke rechtsbeginselen
 
 De arbiters beslissen over de kwesties die voor arbitrage zijn voorgelegd in overeenstemming met de van toepassing zijnde bepalingen van het Verdrag en, onder voorbehoud van deze bepalingen, met die van het nationale recht van de verdragsluitende staten. Over kwesties omtrent verdragsinterpretatie beslissen de arbiters in het licht van de interpretatiebeginselen vervat in de [artikelen 31 tot en met 33 van het Verdrag van Wenen inzake het verdragenrecht](onbekend), waarbij de commentaren van het OESO-modelverdrag inzake belastingen, als van tijd tot tijd gewijzigd, zoals uitgelegd in de paragrafen 28 tot en met 36.1 van de inleiding tot het OESO-modelverdrag inzake belastingen in aanmerking worden genomen. Over kwesties omtrent de toepassing van het arm’s length-beginsel dient op vergelijkbare wijze te worden besloten, daarbij de OECD Transfer Pricing Guidelines for Multinational Enterprises and Tax Administrations (OESO-richtlijnen voor verrekenprijzen voor multinationale ondernemingen en belastingdiensten) in aanmerking nemend. De arbiters bestuderen ook eventuele andere bronnen die de bevoegde autoriteiten uitdrukkelijk kunnen noemen in de Terms of reference.
 
-#### 15. Arbitrale uitspraak
+##### 15. Arbitrale uitspraak
 
 Indien meer dan een arbiter is benoemd, wordt de uitspraak genomen bij een eenvoudige meerderheid van de arbiters. Tenzij anders voorzien in de Terms of reference, wordt de uitspraak van de arbiters schriftelijk gegeven, waarbij de rechtsbronnen die aan de uitspraak ten grondslag liggen alsmede de motivering worden vermeld. Na toestemming van de persoon die om de arbitrage heeft verzocht en van beide bevoegde autoriteiten, mag de uitspraak in geredigeerde vorm worden gepubliceerd zonder de namen van de betrokken partijen en zonder gegevens waarmee hun identiteit zou kunnen worden herleid en met dien verstande dat de uitspraak geen formele precedentwerking heeft.
 
-#### 16. Termijn voor mededelen van de arbitrale uitspraak
+##### 16. Termijn voor mededelen van de arbitrale uitspraak
 
 De arbitrale uitspraak moet binnen zes maanden nadat de voorzitter de bevoegde autoriteiten en elke persoon die rechtstreeks betrokken is bij de zaak er schriftelijk van in kennis heeft gesteld dat hij alle informatie heeft ontvangen die nodig is om met de behandeling van de zaak aan te vangen, worden medegedeeld aan de bevoegde autoriteiten en de persoon die het verzoek om arbitrage heeft ingediend. Indien, niettegenstaande het eerste deel van deze paragraaf, de voorzitter op enig tijdstip binnen twee maanden na de datum waarop de laatste arbiter is benoemd met instemming van een van de bevoegde autoriteiten de andere bevoegde autoriteit en de persoon die het verzoek om arbitrage heeft ingediend ervan in kennis stelt dat hij niet alle informatie heeft ontvangen die nodig is om met de behandeling van de zaak aan te vangen,
 
@@ -718,19 +740,19 @@ De arbitrale uitspraak moet binnen zes maanden nadat de voorzitter de bevoegde a
 
 - b. en de voorzitter de nodige informatie niet heeft ontvangen binnen twee maanden na de datum waarop die kennisgeving is verzonden, dient de arbitrale uitspraak, tenzij de bevoegde autoriteiten anders overeenkomen, te worden gedaan zonder die informatie, ook wanneer de voorzitter deze later ontvangt, en dient de uitspraak aan de bevoegde autoriteiten en elke persoon die rechtstreeks bij de zaak betrokken is te worden medegedeeld binnen acht maanden na de datum waarop de kennisgeving is verzonden.
 
-#### 17. Verzuim de uitspraak binnen de vereiste termijn mede te delen
+##### 17. Verzuim de uitspraak binnen de vereiste termijn mede te delen
 
 Indien de uitspraak niet binnen de in de [paragrafen 6c](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&artikel=6&z=2025-12-31&g=2025-12-31) of [16](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&artikel=16&z=2025-12-31&g=2025-12-31) voorziene termijn aan de bevoegde autoriteiten is medegedeeld, kunnen de bevoegde autoriteiten overeenkomen die termijn te verlengen met een tijdvak van ten hoogste zes maanden, of, indien zij zulks nalaten binnen een maand na afloop van de termijn voorzien in de paragrafen 6c of 16, benoemen zij in overeenstemming met [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&artikel=5&z=2025-12-31&g=2025-12-31) of 6a een of meer nieuwe arbiters, al naargelang van het geval.
 
-#### 18. Definitieve uitspraak
+##### 18. Definitieve uitspraak
 
 De arbitrale uitspraak is definitief, tenzij de rechters van een van de verdragsluitende staten de uitspraak niet uitvoerbaar achten in verband met een schending van [artikel 25, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=V&artikel=25&z=2025-12-31&g=2025-12-31), of van een procedureregel vervat in de Terms of reference of in deze overeenkomst die redelijkerwijs van toepassing had kunnen zijn op de uitspraak. Indien een uitspraak op een van deze gronden onuitvoerbaar wordt geacht, wordt de arbitrageprocedure geacht niet hebben plaatsgevonden (tenzij voor de toepassing van [paragraaf 8 „Verstrekking van informatie en vertrouwelijkheid”](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&artikel=8&z=2025-12-31&g=2025-12-31) en [13 „Kosten”](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&artikel=13&z=2025-12-31&g=2025-12-31)).
 
-#### 19. Tenuitvoerlegging van de arbitrale uitspraak
+##### 19. Tenuitvoerlegging van de arbitrale uitspraak
 
 De bevoegde autoriteiten leggen de arbitrale uitspraak binnen zes maanden na mededeling aan hen van de uitspraak ten uitvoer door middel van een onderlinge overeenkomst over de zaak die tot de arbitrage heeft geleid.
 
-#### 20. Indien geen arbitrale uitspraak wordt gedaan
+##### 20. Indien geen arbitrale uitspraak wordt gedaan
 
 Indien op enig tijdstip nadat een verzoek om arbitrage is ingediend en voordat de arbiters een uitspraak aan de bevoegde autoriteiten en de persoon die het verzoek arbitrage heeft ingediend hebben doen toekomen, de bevoegde autoriteiten de arbiters en die persoon er schriftelijk van in kennis stellen dat zij alle onopgeloste kwesties omschreven in de Terms of reference hebben opgelost, wordt de zaak beschouwd als opgelost krachtens de onderlinge overlegprocedure en wordt geen arbitrale uitspraak gedaan. Deze regeling is van toepassing op elk verzoek om arbitrage gedaan uit hoofde van [artikel 25, vijfde lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=V&artikel=25&z=2025-12-31&g=2025-12-31) nadat die bepaling van kracht is geworden.
 

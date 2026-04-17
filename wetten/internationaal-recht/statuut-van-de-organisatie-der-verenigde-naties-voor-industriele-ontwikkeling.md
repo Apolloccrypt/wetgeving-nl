@@ -1,13 +1,35 @@
 ---
 title: "Statuut van de Organisatie der Verenigde Naties voor Industriële Ontwikkeling"
 identifier: "BWBV0003907"
-categorie: "Internationaal recht"
-publicatiedatum: 1985-06-21
-laatste_update: 1985-06-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003907"
+country: "nl"
+rank: "verdrag"
+publication_date: "1985-06-21"
+last_updated: "1985-06-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003907"
+soort: "verdrag"
+stam_id: "10003765923"
+version_id: "10003830772"
+internal_id: "C10006980321"
+label_id: "10003751194"
+dtd_version: "2.0"
+original_entry_into_force: "1985-06-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003907/1985-06-21/0"
+intitule_bron: "Trb.1980-13"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1980-01-28"
+intitule_in_force: "1985-10-17"
+intitule_status: "goed"
+original_publication: "Trb.1980-13"
+original_published_date: "1980-01-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1980-13"
+entry_into_force_date: "1985-06-21"
+jci_1_3: "jci1.3:c:BWBV0003907&z=1985-06-21&g=1985-06-21"
+jci_1_0: "1.0:c:BWBV0003907&g=1985-06-21"
+citeertitel_status: "redactioneel"
+entry_into_force: "1985-06-21"
 ---
-
 # Statuut van de Organisatie der Verenigde Naties voor Industriële Ontwikkeling
 
 De Staten die Partij zijn bij dit Statuut,
@@ -36,11 +58,11 @@ Hechten hierbij hun goedkeuring aan dit Statuut.
 
 ### HOOFDSTUK I. DOELSTELLINGEN EN FUNCTIES
 
-#### Artikel 1. Doelstellingen
+##### Artikel 1. Doelstellingen
 
 De belangrijkste doelstelling van de Organisatie is het bevorderen en versnellen van de industriële ontwikkeling in de ontwikkelingslanden ten einde de invoering van een nieuwe internationale economische orde te stimuleren. Ook dient de Organisatie industriële ontwikkeling en samenwerking zowel op mondiaal, regionaal en nationaal als op sectoraal niveau aan te moedigen.
 
-#### Artikel 2. Functies
+##### Artikel 2. Functies
 
 Ten einde bovengenoemde doelstellingen te verwerkelijken, doet de Organisatie in de regel alle noodzakelijke en passende stappen en dient in het bijzonder:
 
@@ -82,7 +104,7 @@ Ten einde bovengenoemde doelstellingen te verwerkelijken, doet de Organisatie in
 
 ### HOOFDSTUK II. DEELNEMING
 
-#### Artikel 3. Leden
+##### Artikel 3. Leden
 
 Het lidmaatschap van de Organisatie staat open voor alle Staten die de doelstellingen en beginselen van de Organisatie onderschrijven:
 
@@ -90,7 +112,7 @@ Het lidmaatschap van de Organisatie staat open voor alle Staten die de doelstell
 
 - b. Andere Staten dan de in letter a bedoelde kunnen Lid worden van de Organisatie door Partij te worden bij dit Statuut overeenkomstig artikel 24, derde lid, en artikel 25, tweede lid, letter c, nadat hun lidmaatschap door de Conferentie met een tweederde meerderheid van de aanwezige Leden die hun stem uitbrengen, op aanbeveling van de Raad, is goedgekeurd.
 
-#### Artikel 4. Waarnemers
+##### Artikel 4. Waarnemers
 
 1. De status van waarnemer bij de Organisatie staat op verzoek open voor die Staten die deze status ook bij de Algemene Vergadering der Verenigde Naties genieten, tenzij de Conferentie anders besluit.
 
@@ -98,13 +120,13 @@ Het lidmaatschap van de Organisatie staat open voor alle Staten die de doelstell
 
 3. Het is waarnemers toegestaan deel te nemen aan het werk van de Organisatie overeenkomstig de desbetreffende huishoudelijke reglementen en de bepalingen van dit Statuut.
 
-#### Artikel 5. Schorsing
+##### Artikel 5. Schorsing
 
 1. Elk Lid van de Organisatie dat wordt geschorst wat de uitoefening betreft van de rechten en voorrechten, verbonden aan het lidmaatschap van de Verenigde Naties wordt tevens automatisch geschorst wat de uitoefening betreft van de rechten en voorrechten, verbonden aan het lidmaatschap van de Organisatie.
 
 2. Elk Lid dat achterstand heeft bij de betaling van zijn financiële bijdrage aan de Organisatie heeft geen stem in de Organisatie, indien het achterstallige bedrag gelijk is aan of hoger is dan het bedrag van de bijdrage waarvoor het is aangeslagen voor de twee voorafgaande fiscale jaren. Elk orgaan kan niettemin een dergelijk Lid toestaan in dat orgaan zijn stem uit te brengen, indien het ervan overtuigd is dat uitblijven van de betaling te wijten is aan omstandigheden waarover het desbetreffende Lid geen macht heeft.
 
-#### Artikel 6. Opzegging
+##### Artikel 6. Opzegging
 
 1. Een Lid kan zijn lidmaatschap van de Organisatie opzeggen door bij de depositaris een akte van opzegging van dit Statuut neder te leggen.
 
@@ -116,7 +138,7 @@ Het Lid dat zijn lidmaatschap opzegt voldoet bovendien aan alle onvoorwaardelijk
 
 ### HOOFDSTUK III. ORGANEN
 
-#### Artikel 7. Hoofdorganen en suborganen
+##### Artikel 7. Hoofdorganen en suborganen
 
 1. De hoofdorganen van de Organisatie zijn:
 
@@ -130,7 +152,7 @@ Het Lid dat zijn lidmaatschap opzegt voldoet bovendien aan alle onvoorwaardelijk
 
 3. Andere suborganen, waaronder technische commissies, kunnen door de Vergadering of de Raad worden ingesteld, waarbij rekening dient te worden gehouden met het beginsel van rechtvaardige geografische spreiding.
 
-#### Artikel 8. De Algemene Vergadering
+##### Artikel 8. De Algemene Vergadering
 
 1. De Vergadering bestaat uit vertegenwoordigers van alle Leden.
 
@@ -158,7 +180,7 @@ Het Lid dat zijn lidmaatschap opzegt voldoet bovendien aan alle onvoorwaardelijk
 
 6. Elk Lid heeft één stem in de Vergadering. Besluiten worden genomen door een meerderheid van de aanwezige Leden die hun stem uitbrengen, tenzij in dit Statuut of in het huishoudelijk reglement anders is bepaald.
 
-#### Artikel 9. De Raad voor industriële ontwikkeling
+##### Artikel 9. De Raad voor industriële ontwikkeling
 
 1. De Raad bestaat uit 53 Leden van de Organisatie die door de Vergadering zijn gekozen, waarbij het beginsel van rechtvaardige geografische spreiding in acht dient te worden genomen. Bij de verkiezing van de leden van de Raad dient de Vergadering zich te houden aan de volgende zetelverdeling: 33 leden van de Raad dienen te worden gekozen uit de Staten, genoemd in de Delen A en C, 15 uit de Staten, genoemd in Deel B, en 5 uit de Staten, genoemd in Deel D van Aanhangsel I van dit Statuut.
 
@@ -192,7 +214,7 @@ Het Lid dat zijn lidmaatschap opzegt voldoet bovendien aan alle onvoorwaardelijk
 
 7. De Raad nodigt elk Lid dat niet in de Raad is vertegenwoordigd uit zonder stemrecht deel te nemen aan zijn besprekingen betreffende zaken die voor dat Lid van bijzonder belang zijn.
 
-#### Artikel 10. Programma- en Begrotingscommissie
+##### Artikel 10. Programma- en Begrotingscommissie
 
 1. De Programma- en Begrotingscommissie bestaat uit 27 Leden van de Organisatie die worden gekozen door de Vergadering, waarbij het beginsel van rechtvaardige geografische spreiding in acht wordt genomen. Bij de verkiezing van de commissieleden dient de Vergadering zich te houden aan de volgende zetelverdeling: 15 commissieleden worden gekozen uit de Staten, genoemd in de Delen A en C, 9 uit de Staten, genoemd in Deel B en 3 uit de Staten, genoemd in Deel D van Aanhangsel I van dit Statuut. De Staten dienen bij het aanwijzen van vertegenwoordigers voor de Commissie rekening te houden met hun persoonlijke kwalificaties en ervaring.
 
@@ -216,7 +238,7 @@ Het Lid dat zijn lidmaatschap opzegt voldoet bovendien aan alle onvoorwaardelijk
 
 6. Elk lid van de Commissie heeft één stem. Besluiten worden genomen met een tweederde meerderheid der aanwezige leden die hun stem uitbrengen.
 
-#### Artikel 11. Het Secretariaat
+##### Artikel 11. Het Secretariaat
 
 1. Het Secretariaat bestaat uit een Directeur-Generaal en die plaatsvervangende Directeuren-Generaal die, en ander personeel dat de Organisatie nodig heeft.
 
@@ -232,11 +254,11 @@ Het Lid dat zijn lidmaatschap opzegt voldoet bovendien aan alle onvoorwaardelijk
 
 ### HOOFDSTUK IV. WERKPROGRAMMA EN FINANCIËLE AANGELEGENHEDEN
 
-#### Artikel 12. Kosten van delegaties
+##### Artikel 12. Kosten van delegaties
 
 Elk Lid en elke waarnemer dragen de kosten van afvaardiging naar de Vergadering, de Raad of elk ander orgaan waarin dat Lid of die waarnemer zitting heeft.
 
-#### Artikel 13. Samenstelling van de begrotingen
+##### Artikel 13. Samenstelling van de begrotingen
 
 1. De werkzaamheden van de Organisatie worden uitgevoerd overeenkomstig haar goedgekeurde werkprogramma en begrotingen.
 
@@ -250,7 +272,7 @@ Elk Lid en elke waarnemer dragen de kosten van afvaardiging naar de Vergadering,
 
 4. De operationele begroting voorziet in uitgaven ten behoeve van technische hulp en andere daarmee samenhangende activiteiten.
 
-#### Artikel 14. Programma en begrotingen
+##### Artikel 14. Programma en begrotingen
 
 1. Op een tijdstip, bepaald in het financiële reglement, stelt de Directeur-Generaal een voorlopig werkprogramma op voor het volgende fiscale jaar en maakt een overeenkomstige schatting van de kosten van die activiteiten die uit de gewone begroting dienen te worden bestreden en doet een en ander via de Programma- en Begrotingscommissie aan de Raad toekomen. De Directeur-Generaal doet tezelfdertijd voorstellen en financiële schattingen voor die activiteiten die uit vrijwillige bijdragen aan de Organisatie zullen worden bekostigd.
 
@@ -266,27 +288,27 @@ Elk Lid en elke waarnemer dragen de kosten van afvaardiging naar de Vergadering,
 
 6. Besluiten, beslissingen of wijzigingen welke uitgaven met zich kunnen brengen, die niet tevoren overeenkomstig het tweede en derde lid zijn bestudeerd worden niet door de Vergadering goedgekeurd, tenzij zij vergezeld zijn van een door de Directeur-Generaal opgestelde kostenschatting. Besluiten, beslissingen of wijzigingen ten aanzien waarvan de Directeur-Generaal verwacht dat zij uitgaven met zich zullen brengen, worden niet door de Vergadering goedgekeurd tot de Programma- en Begrotingscommissie en vervolgens de Raad, tezelfdertijd bijeenkomend als de Vergadering, de gelegenheid hebben gehad te handelen overeenkomstig het tweede en derde lid. De Raad legt zijn besluiten voor aan de Vergadering. Voor goedkeuring door de Vergadering van zodanige besluiten, beslissingen en wijzigingen is een tweederde meerderheid vereist van alle Leden die hun stem uitbrengen.
 
-#### Artikel 15. Bijdragen waarvoor de Leden zijn aangeslagen
+##### Artikel 15. Bijdragen waarvoor de Leden zijn aangeslagen
 
 1. Uitgaven die tot de gewone begroting behoren worden gedragen door de Leden volgens een verdeelsleutel inzake aanslagen, als vastgesteld door de Vergadering bij een tweederde meerderheid van de aanwezige Leden die hun stem uitbrengen, op een aanbeveling van de Raad die is aangenomen met een tweederde meerderheid van de aanwezige leden die hun stem uitbrengen, op grond van een door de Programma- en Begrotingscommissie opgesteld ontwerp.
 
 2. De verdeelsleutel inzake aanslagen is zoveel mogelijk gebaseerd op die welke laatstelijk door de Verenigde Naties is gehanteerd. Geen Lid wordt aangeslagen voor meer dan vijfentwintig procent van de gewone begroting van de Organisatie.
 
-#### Artikel 16. Vrijwillige bijdragen aan de Organisatie
+##### Artikel 16. Vrijwillige bijdragen aan de Organisatie
 
 Onverminderd het financiële reglement van de Organisatie kan de Directeur-Generaal ten behoeve van de Organisatie vrijwillige bijdragen, waaronder schenkingen, legaten en subsidies, aanvaarden, die aan de Organisatie worden gedaan door regeringen, intergouvernementele of niet-gouvernementele organisaties of uit andere niet-gouvernementele bronnen, mits de voorwaarden, verbonden aan dergelijke vrijwillige bijdragen stroken met de doelstellingen en het beleid van de Organisatie.
 
-#### Artikel 17. Het Fonds voor Industriële Ontwikkeling
+##### Artikel 17. Het Fonds voor Industriële Ontwikkeling
 
 Ten einde de middelen van de Organisatie alsmede haar mogelijkheden om onmiddellijk en met soepelheid te voorzien in de behoeften van de ontwikkelingslanden uit te breiden, beschikt de Organisatie over een Fonds voor Industriële Ontwikkeling, dat gefinancierd zal worden uit de in artikel 16 genoemde vrijwillige bijdragen en uit andere inkomsten waarin het financiële reglement van de Organisatie eventueel voorziet. De Directeur-Generaal beheert het Fonds voor Industriële Ontwikkeling volgens de algemene beleidslijnen voor de activiteiten van het Fonds, die zijn opgesteld door de Vergadering, of door de Raad uit naam van de Vergadering, en in overeenstemming zijn met het financiële reglement van de Organisatie.
 
 ### HOOFDSTUK V. SAMENWERKING EN COÖRDINATIE
 
-#### Artikel 18. Betrekkingen met de Verenigde Naties
+##### Artikel 18. Betrekkingen met de Verenigde Naties
 
 De betrekking waarin de Organisatie tot de Verenigde Naties staat, is die van een van de in [artikel 57 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=57) bedoelde gespecialiseerde organisaties. Elke overeenkomst die overeenkomstig [artikel 63 van het Handvest](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=63) wordt gesloten, vereist de goedkeuring van de Vergadering met een tweederde meerderheid der aanwezige Leden die hun stem uitbrengen, na aanbeveling van de Raad.
 
-#### Artikel 19. Betrekkingen met andere organisaties
+##### Artikel 19. Betrekkingen met andere organisaties
 
 1. De Directeur-Generaal kan met goedkeuring van de Raad en met inachtneming van de door de Vergadering opgestelde richtlijnen:
 
@@ -298,13 +320,13 @@ De betrekking waarin de Organisatie tot de Verenigde Naties staat, is die van ee
 
 ### HOOFDSTUK VI. JURIDISCHE AANGELEGENHEDEN
 
-#### Artikel 20. Zetel
+##### Artikel 20. Zetel
 
 1. De zetel van de Organisatie is gevestigd te Wenen. De Vergadering kan de plaats waar de Organisatie zetelt, wijzigen met een tweederde meerderheid van alle Leden.
 
 2. De Organisatie sluit een zetelovereenkomst met de regering van het gastland.
 
-#### Artikel 21. Rechtsbevoegdheid, voorrechten en immuniteiten
+##### Artikel 21. Rechtsbevoegdheid, voorrechten en immuniteiten
 
 1. De Organisatie geniet op het grondgebied van elk van haar Leden die rechtsbevoegdheid, voorrechten en immuniteiten die noodzakelijk zijn voor de uitoefening van haar functies en de verwezenlijking van haar doelstellingen. Vertegenwoordigers van de Leden en functionarissen van de Organisatie genieten die voorrechten en immuniteiten die noodzakelijk zijn voor de onafhankelijke uitoefening van hun functie in verband met de Organisatie.
 
@@ -316,7 +338,7 @@ De betrekking waarin de Organisatie tot de Verenigde Naties staat, is die van ee
 
 - c. zijn als bepaald in andere overeenkomsten die door de Organisatie zijn gesloten.
 
-#### Artikel 22. Regeling van geschillen en verzoeken om advies
+##### Artikel 22. Regeling van geschillen en verzoeken om advies
 
 - a. Een geschil tussen twee of meer Leden inzake de interpretatie of toepassing van dit Statuut, de aanhangsels inbegrepen, dat niet door onderhandeling is geregeld, dient te worden verwezen naar de Raad, tenzij de betrokken partijen een andere wijze van regeling overeenkomen. Als het geschil van bijzonder belang is voor een Lid dat niet in de Raad is vertegenwoordigd, is dat Lid gerechtigd zich te doen vertegenwoordigen overeenkomstig door de Raad vast te stellen regels.
 
@@ -330,7 +352,7 @@ De betrekking waarin de Organisatie tot de Verenigde Naties staat, is die van ee
 
 2. De Vergadering en de Raad zijn elk afzonderlijk gemachtigd om, behoudens goedkeuring door de Algemene Vergadering der Verenigde Naties, het Internationale Gerechtshof te verzoeken advies uit te brengen over elke juridische kwestie die zich binnen het kader van de werkzaamheden van de Organisatie voordoet.
 
-#### Artikel 23. Wijzigingen
+##### Artikel 23. Wijzigingen
 
 1. Na de tweede gewone zitting van de Vergadering kan elk Lid te allen tijde wijzigingen van dit Statuut voorstellen. De tekst van de voorgestelde wijzigingen wordt onmiddellijk door de Directeur-Generaal aan alle Leden medegedeeld en wordt niet eerder dan negentig dagen na verzending van een zodanige mededeling door de Vergadering behandeld.
 
@@ -350,7 +372,7 @@ De betrekking waarin de Organisatie tot de Verenigde Naties staat, is die van ee
 
 - c. drievierde van de Leden akten van bekrachtiging, aanvaarding of goedkeuring van de wijziging bij de depositaris heeft nedergelegd.
 
-#### Artikel 24. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
+##### Artikel 24. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
 
 1. Dit Statuut staat tot 7 oktober 1979 open voor ondertekening door alle Staten, bedoeld in letter a van artikel 3 op het Bondsministerie van Buitenlandse Zaken van de Republiek Oostenrijk en vervolgens op het Hoofdkantoor van de Verenigde Naties te New York tot de datum waarop dit Statuut in werking treedt.
 
@@ -358,7 +380,7 @@ De betrekking waarin de Organisatie tot de Verenigde Naties staat, is die van ee
 
 3. Nadat dit Statuut overeenkomstig het eerste lid van artikel 25 in werking is getreden, kunnen de Staten, bedoeld in letter a van artikel 3, die dit Statuut niet hebben ondertekend en Staten wier lidmaatschap overeenkomstig letter b van dat artikel is goedgekeurd tot dit Statuut toetreden door een akte van toetreding neder te leggen.
 
-#### Artikel 25. Inwerkingtreding
+##### Artikel 25. Inwerkingtreding
 
 1. Dit Statuut treedt in werking wanneer ten minste tachtig Staten die akten van bekrachtiging, aanvaarding of goedkeuring hebben nedergelegd de depositaris ervan in kennis stellen dat zij na onderling overleg zijn overeengekomen dat dit Statuut in werking treedt.
 
@@ -370,23 +392,23 @@ De betrekking waarin de Organisatie tot de Verenigde Naties staat, is die van ee
 
 - c. Voor Staten die akten van bekrachtiging, aanvaarding, goedkeuring of toetreding nederleggen na de inwerkingtreding van dit Statuut, op de datum van nederlegging daarvan.
 
-#### Artikel 26. Overgangsbepalingen
+##### Artikel 26. Overgangsbepalingen
 
 1. De depositaris roept de eerste zitting van de Vergadering bijeen; deze dient binnen drie maanden na de inwerkingtreding van dit Statuut te worden gehouden.
 
 2. De regels en voorschriften betreffende de organisatie, in het leven geroepen ingevolge resolutie 2152 (XXI) van de Algemene Vergadering der Verenigde Naties gelden voor de Organisatie en haar organen tot het tijdstip waarop deze zelf nieuwe bepalingen goedkeuren.
 
-#### Artikel 27. Voorbehouden
+##### Artikel 27. Voorbehouden
 
 Ten aanzien van dit Statuut kan geen voorbehoud worden gemaakt.
 
-#### Artikel 28. Depositaris
+##### Artikel 28. Depositaris
 
 1. De Secretaris-Generaal van de Verenigde Naties treedt op als depositaris van dit Statuut.
 
 2. Behalve de betrokken Staten stelt de depositaris ook de Directeur-Generaal in kennis van alle zaken die op dit Statuut betrekking hebben.
 
-#### Artikel 29. Authentieke teksten
+##### Artikel 29. Authentieke teksten
 
 De teksten van dit Statuut in de Arabische, de Chinese, de Engelse, de Franse, de Spaanse en de Russische taal zijn gelijkelijk authentiek.
 

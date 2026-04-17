@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregel verpleging en verzorging"
 identifier: "BWBR0051207"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051207"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051207"
+soort: "zbo"
+stam_id: "17465723"
+version_id: "30803742"
+internal_id: "C44148611"
+label_id: "17368034"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051207/2026-01-01/0"
+intitule_bron: "Stcrt.2025-23108"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-06-17"
+intitule_published: "2025-07-08"
+intitule_in_force: "2025-07-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-23108"
+original_signed_date: "2025-06-17"
+original_published_date: "2025-07-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-23108"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051207&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051207&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2025-06-17"
+entry_into_force: "2026-01-01"
 ---
-
 # Beleidsregel verpleging en verzorging
 
 Gelet op [artikel 57, eerste lid, onderdelen b en c, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot het uitoefenen van de bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen.
@@ -16,7 +41,7 @@ Gelet op [artikel 52, aanhef en onderdeel e, van de Wmg](https://wetten.overheid
 
 Gelet op [artikel 59, aanhef en onderdelen a en b, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=59), heeft de Minister van Volksgezondheid, Welzijn en Sport met [brieven van 16 juli 2014, met kenmerk 378012-121397-MC](https://wetten.overheid.nl/jci1.3:c:BWBR0035404), [9 juli 2015, met kenmerk 776202-137545-MC](https://wetten.overheid.nl/jci1.3:c:BWBR0036865) en [25 januari 2021, met kenmerk 1811415-216967-PZo](https://wetten.overheid.nl/jci1.3:c:BWBR0044769), ten behoeve van de voorliggende beleidsregel aanwijzingen op grond van [artikel 7 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7), aan de NZa gegeven. Deze aanwijzingen zijn gepubliceerd in de Staatscourant onder de nummers 2014, 21196, 2015, 20563 en 2021, 4639.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
@@ -28,15 +53,15 @@ In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
 - **Verplaatste directe contacttijd:** Directe contacttijd kan, maar hoeft niet plaats te vinden in de thuissituatie/werksituatie. Indien directe contacttijd om efficiëntieredenen of om te voorkomen dat de zorgaanbieder te laat komt bij de volgende cliënt wordt verplaatst naar kantoor of een andere locatie spreken we over verplaatste directe contacttijd. Regelmatig komt het voor dat deze werkzaamheden als ‘huiswerk’ op de route worden verzameld en (een deel hiervan) na afloop van de route moeten gebeuren.
 
-#### Artikel 2. Doel van de beleidsregel
+##### Artikel 2. Doel van de beleidsregel
 
 Het doel van deze beleidsregel is om vast te leggen op welke wijze de NZa gebruik maakt van haar bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen op het gebied van verpleging en verzorging.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze beleidsregel is van toepassing op verpleging en verzorging zoals omschreven in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051207&artikel=1&z=2026-01-01&g=2026-01-01) van deze beleidsregel.
 
-#### Artikel 4. Prestatiebeschrijvingen verpleging en verzorging
+##### Artikel 4. Prestatiebeschrijvingen verpleging en verzorging
 
 In het kader van deze beleidsregel worden de volgende prestatiebeschrijvingen onderscheiden:
 
@@ -66,7 +91,7 @@ In het kader van deze beleidsregel worden de volgende prestatiebeschrijvingen on
 
 - m. Onderlinge dienstverlening
 
-#### Artikel 5. Specifieke bepalingen bij de prestatiebeschrijvingen
+##### Artikel 5. Specifieke bepalingen bij de prestatiebeschrijvingen
 
 Uitvoeren van zorg zoals verpleegkundigen die plegen te bieden aan cliënten van 18 jaar en ouder, en aan kinderen jonger dan 18 jaar die op basis van het zorgplan alleen persoonlijke verzorging ontvangen, met het oog op herstel van gezondheid, of voorkomen van verergering van ziekte of aandoening.
 
@@ -178,7 +203,7 @@ De levering van (onderdelen van) de prestaties op het gebied van verpleging en v
 
 De uitvoerende zorgaanbieder heeft de mogelijkheid om (onderdelen van) de prestaties op het gebied van verpleging en verzorging in opdracht van de opdrachtgevende zorgaanbieder via onderlinge dienstverlening in rekening te brengen aan de opdrachtgevende zorgaanbieder.
 
-#### Artikel 6. Tariefsoort verpleging en verzorging
+##### Artikel 6. Tariefsoort verpleging en verzorging
 
 Voor de volgende prestatiebeschrijvingen gelden maximumtarieven per uur:
 
@@ -210,7 +235,7 @@ Voor de volgende prestatiebeschrijvingen gelden vrije tarieven:
 
 - •. Onderlinge dienstverlening.
 
-#### Artikel 7. Totstandkoming maximumtarieven
+##### Artikel 7. Totstandkoming maximumtarieven
 
 1. **Tariefopbouw**
 
@@ -222,11 +247,11 @@ De tarieven worden in beginsel jaarlijks geïndexeerd. De index voor de loonkost
 
 Het tarief wordt vastgesteld op basis van een voorcalculatie voor jaar t en de definitieve indices van jaar t-1. De op het tarief toe te passen index is het gewogen gemiddelde van de loon- en materiële indices waarbij wordt uitgegaan van een aandeel van 90% loonkosten en 10% materiële kosten.
 
-#### Artikel 8. Intrekking oude beleidsregel
+##### Artikel 8. Intrekking oude beleidsregel
 
 Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt de [Beleidsregel verpleging en verzorging](https://wetten.overheid.nl/jci1.3:c:BWBR0048536), met kenmerk BR/REG-24130, ingetrokken.
 
-#### Artikel 9. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding en citeertitel
+##### Artikel 9. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding en citeertitel
 
 De [Beleidsregel verpleging en verzorging](https://wetten.overheid.nl/jci1.3:c:BWBR0048536), met kenmerk BR/REG-24130, blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die beleidsregel en die betrekking hebben op de periode waarvoor die beleidsregel gold.
 

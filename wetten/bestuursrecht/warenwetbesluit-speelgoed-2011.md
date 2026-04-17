@@ -1,13 +1,39 @@
 ---
-title: "Warenwetbesluit speelgoed 2011"
+title: "Besluit van 21 januari 2011, houdende vaststelling van het Warenwetbesluit speelgoed 2011"
 identifier: "BWBR0029619"
-categorie: "Bestuursrecht"
-publicatiedatum: 2016-02-19
-laatste_update: 2016-02-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029619"
+country: "nl"
+rank: "amvb"
+publication_date: "2016-02-19"
+last_updated: "2016-02-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029619"
+soort: "AMvB"
+stam_id: "11241813"
+version_id: "18407942"
+internal_id: "C25664991"
+label_id: "11216064"
+dtd_version: "2.0"
+original_entry_into_force: "2011-07-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029619/2016-02-19/0"
+intitule_bron: "Stb.2011-57"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-01-21"
+intitule_published: "2011-02-17"
+intitule_in_force: "2011-02-17"
+intitule_status: "goed"
+original_publication: "Stb.2011-57"
+original_signed_date: "2011-01-21"
+original_published_date: "2011-02-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2011-57"
+entry_into_force_date: "2011-07-20"
+jci_1_3: "jci1.3:c:BWBR0029619&z=2016-02-19&g=2016-02-19"
+jci_1_0: "1.0:c:BWBR0029619&g=2016-02-19"
+citeertitel_status: "officieel"
+short_title: "Warenwetbesluit speelgoed 2011"
+signed_date: "2011-01-21"
+entry_into_force: "2011-07-20"
 ---
-
 # Besluit van 21 januari 2011, houdende vaststelling van het Warenwetbesluit speelgoed 2011
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 24 november 2010, kenmerk VGP/VC 3035418, gedaan in overeenstemming met Onze Ministers van Economische Zaken, Landbouw en Innovatie en van Veiligheid en Justitie;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit wordt verstaan onder:
 
@@ -50,7 +76,7 @@ Hebben goedgevonden en verstaan:
 
 2. Dit besluit is niet van toepassing op speelgoed, bedoeld in artikel 2, tweede lid, van [richtlijn 2009/48/EG](32009L0048).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het is verboden speelgoed te vervaardigen of te verhandelen dat niet voldoet aan de bij dit besluit gestelde voorschriften.
 
@@ -58,7 +84,7 @@ Hebben goedgevonden en verstaan:
 
 3. Het is verboden speelgoed binnen Nederlands grondgebied te brengen anders dan met inachtneming van de bij dit besluit gestelde voorschriften.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Fabrikanten voldoen bij het ontwerpen, vervaardigen en in de handel brengen van speelgoed aan:
 
@@ -84,13 +110,13 @@ van [richtlijn 2009/48/EG](32009L0048).
 
 3. De EG-verklaring van overeenstemming, bedoeld in artikel 15, tweede lid, van [richtlijn 2009/48/EG](32009L0048) is in ieder geval gesteld in de Nederlandse of Engelse taal.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De fabrikant die een gemachtigde aanstelt, voldoet en zorgt dat wordt voldaan aan artikel 5 van [richtlijn 2009/48/EG](32009L0048).
 
 2. De gemachtigde, bedoeld in het eerste lid, voldoet aan artikel 5, derde lid, en artikel 9 van [richtlijn 2009/48/EG](32009L0048).
 
-#### Artikel 5
+##### Artikel 5
 
 1. Importeurs voldoen bij het in de handel brengen van speelgoed aan:
 
@@ -104,7 +130,7 @@ van [richtlijn 2009/48/EG](32009L0048).
 
 2. Instructies en informatie aangaande de veiligheid als bedoeld in artikel 6, vierde lid, van [richtlijn 2009/48/EG](32009L0048)zijn in ieder geval gesteld in de Nederlandse taal.
 
-#### Artikel 6
+##### Artikel 6
 
 Distributeurs voldoen bij het op de markt aanbieden van speelgoed aan:
 
@@ -116,23 +142,23 @@ Distributeurs voldoen bij het op de markt aanbieden van speelgoed aan:
 
 van [richtlijn 2009/48/EG](32009L0048).
 
-#### Artikel 7
+##### Artikel 7
 
 1. Ten aanzien van speelgoed worden waarschuwingen en veiligheidsvoorschriften gebruikt met inachtneming van artikel 11, eerste en tweede lid, van [richtlijn 2009/48/EG](32009L0048).
 
 2. De in het eerste lid bedoelde waarschuwingen en veiligheidsvoorschriften zijn in ieder geval gesteld in de Nederlandse taal.
 
-#### Artikel 8
+##### Artikel 8
 
 Fabrikanten en importeurs die speelgoed in de handel brengen en distributeurs die speelgoed op de markt aanbieden dat in overeenstemming is met geharmoniseerde normen of delen daarvan, waarvan de referentienummers in het Publicatieblad van de Europese Unie zijn bekendgemaakt, worden vermoed te voldoen aan de eisen die door die normen of delen daarvan worden bestreken, zoals beschreven in artikel 10 en bijlage II van [richtlijn 2009/48/EG](32009L0048).
 
-#### Artikel 9
+##### Artikel 9
 
 1. Speelgoed dat op de markt wordt aangeboden, is overeenkomstig artikel 16, eerste en tweede lid, en artikel 17, van [richtlijn 2009/48/EG](32009L0048) voorzien van de CE-markering.
 
 2. Speelgoed dat niet is voorzien van de CE-markering of anderszins niet aan dit besluit voldoet mag op handelsbeurzen en tentoonstellingen worden getoond en gebruikt met inachtneming van artikel 16, vierde lid, van [richtlijn 2009/48/EG](32009L0048).
 
-#### Artikel 10
+##### Artikel 10
 
 1. Aanvragen voor EG-typeonderzoek, de uitvoering en de verlening van certificaten daarvan vinden plaats met inachtneming van artikel 20 van [richtlijn 2009/48/EG](32009L0048).
 
@@ -140,13 +166,13 @@ Fabrikanten en importeurs die speelgoed in de handel brengen en distributeurs di
 
 3. De technische documentatie en correspondentie, bedoeld in artikel 20, vijfde lid, van [richtlijn 2009/48/EG](32009L0048), zijn in ieder geval opgesteld in de Nederlandse of Engelse taal.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Bij de uitoefening van zijn taken als aanmeldende autoriteit, voldoet Onze Minister aan artikel 33 van [richtlijn 2009/48/EG](32009L0048).
 
 2. Onze Minister verricht de taken, bedoeld in artikel 31, zesde lid, van [richtlijn 2009/48/EG](32009L0048).
 
-#### Artikel 12
+##### Artikel 12
 
 1. Bij een verzoek als bedoeld in [artikel 7a Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=7a), voldoet de aanvrager aan artikel 30, tweede en derde lid, van [richtlijn 2009/48/EG](32009L0048).
 
@@ -166,23 +192,23 @@ van [richtlijn 2009/48/EG](32009L0048).
 
 4. Keuringsinstanties die taken uitbesteden of door ondergeschikte instanties laten uitvoeren, voldoen aan artikel 29 van [richtlijn 2009/48/EG](32009L0048).
 
-#### Artikel 13
+##### Artikel 13
 
 In het kader van het markttoezicht handelen de in [artikel 25 van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=25) bedoelde ambtenaren, de keuringsinstanties en de marktdeelnemers overeenkomstig de artikelen 41, 42 en 45 van [richtlijn 2009/48/EG](32009L0048).
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
-#### Artikel 15
+##### Artikel 15
 
 Het [Warenwetbesluit Speelgoed](https://wetten.overheid.nl/jci1.3:c:BWBR0005094) wordt ingetrokken.
 
-#### Artikel 16
+##### Artikel 16
 
 Wijzigt het Warenwetbesluit bestuurlijke boeten.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Speelgoed dat voldoet aan het [Warenwetbesluit Speelgoed](https://wetten.overheid.nl/jci1.3:c:BWBR0005094) zoals dat onmiddellijk vóór 20 juli 2011 luidde en vóór dat tijdstip in de handel is gebracht, mag ook na dat tijdstip op de markt worden aangeboden.
 
@@ -190,11 +216,11 @@ Wijzigt het Warenwetbesluit bestuurlijke boeten.
 
 3. Na de inwerkingtreding van dit besluit berusten de beschikkingen afgegeven op basis van [artikel 7, eerste lid, onder a, van het Warenwetbesluit Speelgoed](https://wetten.overheid.nl/jci1.3:c:BWBR0005094&artikel=7) tot aanwijzing van een keuringsinstelling op [artikel 7a van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=7a).
 
-#### Artikel 18
+##### Artikel 18
 
 Dit besluit treedt in werking met ingang van 20 juli 2011.
 
-#### Artikel 19
+##### Artikel 19
 
 Dit besluit wordt aangehaald als: Warenwetbesluit speelgoed 2011.
 

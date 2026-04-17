@@ -1,20 +1,46 @@
 ---
-title: "Instellingsbesluit Restitutiecommissie"
+title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 15 april 2021, nr. WJZ/27740278, houdende instelling van de Adviescommissie restitutieverzoeken cultuurgoederen en Tweede Wereldoorlog en de vaststelling van het door deze commissie te hanteren beoordelingskader (Instellingsbesluit Restitutiecommissie)"
 identifier: "BWBR0045060"
-categorie: "Overig"
-publicatiedatum: 2025-11-29
-laatste_update: 2025-11-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045060"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-11-29"
+last_updated: "2025-11-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045060"
+soort: "ministeriele-regeling"
+stam_id: "15934143"
+version_id: "29202792"
+internal_id: "C41496991"
+label_id: "15868894"
+dtd_version: "2.0"
+original_entry_into_force: "2022-12-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045060/2025-11-29/0"
+intitule_bron: "Stcrt.2021-20304"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-04-15"
+intitule_published: "2021-04-21"
+intitule_in_force: "2021-04-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-1560"
+original_signed_date: "2022-12-22"
+original_published_date: "2023-01-23"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2023-1560"
+entry_into_force_date: "2022-12-22"
+jci_1_3: "jci1.3:c:BWBR0045060&z=2025-11-29&g=2025-11-29"
+jci_1_0: "1.0:c:BWBR0045060&g=2025-11-29"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Restitutiecommissie"
+signed_date: "2022-12-22"
+entry_into_force: "2022-12-22"
 ---
-
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 15 april 2021, nr. WJZ/27740278, houdende instelling van de Adviescommissie restitutieverzoeken cultuurgoederen en Tweede Wereldoorlog en de vaststelling van het door deze commissie te hanteren beoordelingskader (Instellingsbesluit Restitutiecommissie)
 
 Gelet op [artikel 15, derde lid, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -36,7 +62,7 @@ In dit besluit wordt verstaan onder:
 
 - **verzoeker:** degene die verzoekt om restitutie.
 
-#### Artikel 2. Instelling en taak Restitutiecommissie
+##### Artikel 2. Instelling en taak Restitutiecommissie
 
 1. Er is een Adviescommissie restitutieverzoeken cultuurgoederen en Tweede Wereldoorlog, die tot taak heeft:
 
@@ -46,7 +72,7 @@ In dit besluit wordt verstaan onder:
 
 2. De minister gaat uitsluitend over tot het doen van een verzoek als bedoeld in het eerste lid, onderdeel b, indien de verzoeker en de bezitter de minister daar in onderlinge overeenstemming om verzoeken.
 
-#### Artikel 3. Samenstelling Restitutiecommissie
+##### Artikel 3. Samenstelling Restitutiecommissie
 
 1. De Restitutiecommissie bestaat uit ten hoogste zeven leden, waaronder een voorzitter en een plaatsvervangend voorzitter.
 
@@ -60,7 +86,7 @@ In dit besluit wordt verstaan onder:
 
 6. De minister benoemt de voorzitter, de plaatsvervangend voorzitter en de andere leden voor ten hoogste vier jaar. Zij kunnen eenmaal voor een periode van ten hoogste vier jaar worden herbenoemd.
 
-#### Artikel 4. Behandeling verzoeken door Restitutiecommissie
+##### Artikel 4. Behandeling verzoeken door Restitutiecommissie
 
 1. De Restitutiecommissie behandelt verzoeken als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045060&artikel=2&z=2025-11-29&g=2025-11-29):
 
@@ -78,7 +104,7 @@ In dit besluit wordt verstaan onder:
 
 6. De Restitutiecommissie kan een reglement over haar werkwijze vaststellen.
 
-#### Artikel 5. Ondersteuning Restitutiecommissie
+##### Artikel 5. Ondersteuning Restitutiecommissie
 
 1. De minister voegt aan de Restitutiecommissie een secretariaat toe.
 
@@ -88,19 +114,19 @@ In dit besluit wordt verstaan onder:
 
 4. Iedere ambtenaar van het ministerie geeft aan een verzoek of oproep van de Restitutiecommissie gehoor.
 
-#### Artikel 6. Buiten toepassing laten openbaarheidsbeperkingen
+##### Artikel 6. Buiten toepassing laten openbaarheidsbeperkingen
 
 Indien de Restitutiecommissie of de medewerkers van het Expertisecentrum ten behoeve van de uitvoering van de taken, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045060&artikel=2&z=2025-11-29&g=2025-11-29), inzage behoeven in archiefbescheiden die in een rijksarchiefbewaarplaats of in de algemene rijksarchiefbewaarplaats berusten, blijven de eventueel op die archiefbescheiden rustende openbaarheidsbeperkingen, bedoeld in [artikel 15, eerste lid, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), jegens hen buiten toepassing.
 
-#### Artikel 7. Jaarlijkse verslaglegging
+##### Artikel 7. Jaarlijkse verslaglegging
 
 De Restitutiecommissie brengt jaarlijks verslag uit aan de minister over de uitvoering van haar taken.
 
-#### Artikel 8. Archiefbescheiden Restitutiecommissie
+##### Artikel 8. Archiefbescheiden Restitutiecommissie
 
 De archiefbescheiden van de Restitutiecommissie worden na haar opheffing of zoveel eerder als de omstandigheden daartoe aanleiding geven, naar het archief van de Directie Erfgoed en Kunsten van het ministerie overgebracht.
 
-#### Artikel 9. Overgangsrecht toepasselijk besluit
+##### Artikel 9. Overgangsrecht toepasselijk besluit
 
 1. De adviezen of bindende adviezen, uitgebracht door de commissie, bedoeld in [artikel 2 van het Besluit adviescommissie restitutieverzoeken en cultuurgoederen en Tweede Wereldoorlog](https://wetten.overheid.nl/jci1.3:c:BWBR0022833&artikel=2), zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van dit besluit, worden geacht te zijn uitgebracht door de Restitutiecommissie.
 
@@ -114,21 +140,21 @@ De archiefbescheiden van de Restitutiecommissie worden na haar opheffing of zove
 
 - b. op aanhangige verzoeken als bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045060&artikel=2&z=2025-11-29&g=2025-11-29), indien de verzoeker en de bezitter daar beiden mee instemmen.
 
-#### Artikel 10. Overgangsrecht benoemingen
+##### Artikel 10. Overgangsrecht benoemingen
 
 1. De personen die op de dag voorafgaand aan de inwerkingtreding van dit besluit waren benoemd als leden van de commissie, bedoeld in [artikel 2 van het Besluit adviescommissie restitutieverzoeken cultuurgoederen en Tweede Wereldoorlog](https://wetten.overheid.nl/jci1.3:c:BWBR0022833&artikel=2), zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van dit besluit, gelden als leden van de Restitutiecommissie voor de resterende duur van hun benoeming.
 
 2. [Artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045060&artikel=3&z=2025-11-29&g=2025-11-29), is van overeenkomstige toepassing, met dien verstande dat een persoon die eerder is herbenoemd als lid van de commissie, bedoeld in [artikel 2 van het Besluit adviescommissie restitutieverzoeken cultuurgoederen en Tweede Wereldoorlog](https://wetten.overheid.nl/jci1.3:c:BWBR0022833&artikel=2), zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van dit besluit, niet opnieuw als lid van de Restitutiecommissie kan worden benoemd.
 
-#### Artikel 11. Intrekking [Besluit adviescommissie restitutieverzoeken cultuurgoederen en Tweede Wereldoorlog](https://wetten.overheid.nl/jci1.3:c:BWBR0022833)
+##### Artikel 11. Intrekking [Besluit adviescommissie restitutieverzoeken cultuurgoederen en Tweede Wereldoorlog](https://wetten.overheid.nl/jci1.3:c:BWBR0022833)
 
 Het [Besluit adviescommissie restitutieverzoeken cultuurgoederen en Tweede Wereldoorlog](https://wetten.overheid.nl/jci1.3:c:BWBR0022833) wordt ingetrokken.
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Restitutiecommissie.
 
@@ -222,7 +248,7 @@ Als de bijzonderheden van een zaak daartoe een zwaarwegende aanleiding geven, ka
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 10a. Overgangsrecht verlenging benoemingstermijn
+##### Artikel 10a. Overgangsrecht verlenging benoemingstermijn
 
 1. De Minister kan de benoeming van een persoon die op 1 januari 2023 lid was van de Restitutiecommissie, verlengen tot een totaalduur van ten hoogste vier jaar.
 

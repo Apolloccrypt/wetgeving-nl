@@ -1,13 +1,35 @@
 ---
 title: "Verdrag ter vaststelling van enige eenvormige regelen betreffende het cognossement"
 identifier: "BWBV0006327"
-categorie: "Internationaal recht"
-publicatiedatum: 1986-05-18
-laatste_update: 1986-05-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006327"
+country: "nl"
+rank: "verdrag"
+publication_date: "1986-05-18"
+last_updated: "1986-05-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006327"
+soort: "verdrag"
+stam_id: "10005172543"
+version_id: "10005545652"
+internal_id: "C10008583461"
+label_id: "10005155364"
+dtd_version: "2.0"
+original_entry_into_force: "1957-02-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006327/1986-05-18/0"
+intitule_bron: "Trb.1953-109"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1953-11-13"
+intitule_in_force: "1957-02-14"
+intitule_status: "goed"
+original_publication: "Trb.1953-109"
+original_published_date: "1953-11-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1953-109"
+entry_into_force_date: "1957-02-18"
+jci_1_3: "jci1.3:c:BWBV0006327&z=1986-05-18&g=1986-05-18"
+jci_1_0: "1.0:c:BWBV0006327&g=1986-05-18"
+citeertitel_status: "redactioneel"
+entry_into_force: "1957-02-18"
 ---
-
 # Verdrag ter vaststelling van enige eenvormige regelen betreffende het cognossement
 
 De President van de Duitse Republiek, de President van de Argentijnse Republiek, Zijne Majesteit de Koning der Belgen, de President van de Republiek Chili, de President van de Republiek Cuba, Zijne Majesteit de Koning van Denemarken en IJsland, Zijne Majesteit de Koning van Spanje, het Staatshoofd van Estland, de President der Verenigde Staten van Amerika, de President van de Republiek Finland, de President van de Franse Republiek, Zijne Majesteit de Koning van het Verenigd Koninkrijk van Groot-Brittannië en Ierland en van de Britse Bezittingen over Zee, Keizer van Indië, Zijne Doorluchtige Hoogheid de Bestuurder van het Koninkrijk Hongarije, Zijne Majesteit de Koning van Italië, Zijne Majesteit de Keizer van Japan, de President van de Republiek Letland, de President van de Republiek Mexico, Zijne Majesteit de Koning van Noorwegen, Hare Majesteit de Koningin der Nederlanden, de President van de Republiek Peru, de President van de Republiek Polen, de President van de Portugese Republiek, Zijne Majesteit de Koning van Roemenië, Zijne Majesteit de Koning der Serven, Kroaten en Slovenen, Zijne Majesteit de Koning van Zweden en de President van de Republiek Uruguay,
@@ -18,7 +40,7 @@ Erkend hebbend het nut om in gemeen overleg enige eenvormige regelen vast te ste
 
 Die, hiertoe behoorlijk gemachtigd, het volgende zijn overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit verdrag worden de navolgende woorden gebruikt in de hieronder aangegeven zin:
 
@@ -32,11 +54,11 @@ In dit verdrag worden de navolgende woorden gebruikt in de hieronder aangegeven 
 
 - e. „Vervoer van goederen” dekt de tijd verlopen van de inlading der goederen aan boord van het schip tot de lossing ervan uit het schip.
 
-#### Artikel 2
+##### Artikel 2
 
 Onverminderd de bepalingen van artikel 6 is de vervoerder in alle overeenkomsten tot vervoer van goederen over zee, met betrekking tot de lading, de behandeling, de stuwing, het vervoer, de bewaking, de verzorging en de lossing dier goederen, belast met de aansprakelijkheden en verplichtingen hieronder vermeld gelijk hij geniet van de daarbedoelde rechten en ontheffingen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De vervoerder is gehouden voor en bij de aanvang van de reis een redelijke zorg aan te wenden voor:
 
@@ -78,7 +100,7 @@ Indien er zekerheid of vermoeden bestaat, dat er verlies of beschadiging heeft p
 
 8. Iedere bepaling, beding of afspraak in een vervoerovereenkomst, waardoor de vervoerder of het schip wordt ontheven van aansprakelijkheid voor verlies of beschadiging van of met betrekking tot goederen, voortvloeiende uit nalatigheid, schuld of tekortkoming in het voldoen aan de verplichtingen, in dit artikel voorzien, of waardoor deze aansprakelijkheid mocht worden verminderd op andere wijze dan in dit verdrag is voorzien, is nietig, van onwaarde en zonder gevolg. Een beding, krachtens hetwelk de uitkering op grond van een gesloten verzekering aan de vervoerder komt, of elk ander beding van dergelijke strekking wordt geacht te zijn gemaakt ten einde de vervoerder van aansprakelijkheid te ontheffen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Noch de vervoerder noch het schip is aansprakelijk wegens verlies of schade, ontstaan ten gevolge van of voortvloeiend uit onzeewaardigheid, tenzij deze te wijten is aan gebrek aan redelijke zorg aan de zijde van de vervoerder om het schip zeewaardig te maken of om het behoorlijk uit te rusten, te bemannen of te bevoorraden, of om de ruimen, koel- en vrieskamers en alle andere delen van het schip, waarin goederen vervoerd worden, geschikt te maken en in goede staat te brengen, opdat zij kunnen dienen tot het ontvangen, het vervoeren en het bewaren van de goederen, alles overeenkomstig het bepaalde bij artikel 3, § 1. Telkens als verlies of schade het gevolg is van onzeewaardigheid, rust de bewijslast ten aanzien van de uitoefening van de redelijke zorg op de vervoerder of op elke andere persoon, die mocht beweren krachtens dit artikel van aansprakelijkheid te zijn ontheven.
 
@@ -144,7 +166,7 @@ Indien er zekerheid of vermoeden bestaat, dat er verlies of beschadiging heeft p
 
 6. Goederen van ontvlambare, ontplofbare of gevaarlijke aard, tot welker lading de vervoerder, de kapitein of de vertegenwoordiger van de vervoerder geen toestemming zou hebben gegeven, wanneer hij de aard of de gesteldheid daarvan gekend had, mogen te allen tijde voor de lossing op iedere plaats door de vervoerder worden gelost of vernietigd of onschadelijk gemaakt zonder schadevergoeding, en de afzender van deze goederen is aansprakelijk voor alle schaden en onkosten, middellijk of onmiddellijk ontstaan ten gevolge van de inlading ervan. Indien een van deze goederen, ingeladen met voorkennis en toestemming van de vervoerder, een gevaar wordt voor het schip of de lading, mag het eveneens door de vervoerder worden gelost of vernietigd of onschadelijk gemaakt zonder enige aansprakelijkheid van de vervoerder, tenzij voor averij-grosse, indien daartoe gronden bestaan.
 
-#### Artikel 4bis
+##### Artikel 4bis
 
 1. De ontheffingen en beperkingen van aansprakelijkheid als voorzien in dit Verdrag zijn van toepassing op iedere vordering tegen de vervoerder strekkende tot vergoeding van verlies van of schade aan goederen waarop een vervoerovereenkomst betrekking heeft, ongeacht of de vordering wordt gegrond op de aansprakelijkheid uit overeenkomst dan wel op aansprakelijkheid buiten overeenkomst.
 
@@ -154,13 +176,13 @@ Indien er zekerheid of vermoeden bestaat, dat er verlies of beschadiging heeft p
 
 4. De ondergeschikte kan zich evenwel niet beroepen op de bepalingen van dit artikel, wanneer bewezen is dat de schade is ontstaan uit een handeling of nalaten van deze ondergeschikte, geschied hetzij met het opzet schade te veroorzaken, hetzij roekeloos en met het bewustzijn dat schade er waarschijnlijk uit zou voortvloeien.
 
-#### Artikel 5
+##### Artikel 5
 
 Een vervoerder is vrij zijn rechten en ontheffingen geheel of gedeeltelijk op te geven of zijn aansprakelijkheden en verplichtingen te vermeerderen, zoals deze en gene voorzien zijn in dit verdrag, mits deze afstand of deze vermeerdering vermeld wordt in het de afzender afgegeven cognossement.
 
 Geen bepaling van dit verdrag is van toepassing op charterpartijen; maar als in het geval van een bevracht schip cognossementen worden afgegeven, zijn deze onderworpen aan de voorschriften van dit verdrag. Geen voorschrift in deze regelen wordt beschouwd als een beletsel voor de opneming in een cognossement van enig geoorloofd beding omtrent averij-grosse.
 
-#### Artikel 6
+##### Artikel 6
 
 Onverminderd de bepalingen der voorgaande artikelen zijn een vervoerder, kapitein of vertegenwoordiger van de vervoerder en een afzender vrij, omtrent bepaalde goederen, welke ook, een overeenkomst aan te gaan met zodanige bedingen als hun goed zullen dunken aangaande de aansprakelijkheid en de verplichtingen van de vervoerder betreffende deze goederen alsmede de rechten en ontheffingen van de vervoerder ten aanzien van deze goederen, of aangaande zijn verplichtingen voor wat betreft de staat van zeewaardigheid van het schip voorzover zodanig beding niet strijdig is met de openbare orde, of aangaande de zorgen of onachtzaamheid van zijn ondergeschikten of vertegenwoordigers voor wat betreft de inlading, de behandeling, de stuwing, het vervoer, de bewaking, de verzorging en de lossing der over zee vervoerde goederen, mits in dit geval geen cognossement is of wordt uitgegeven en de bepalingen van de getroffen afspraak opgenomen zijn in een ontvangstbewijs, dat een niet verhandelbaar stuk is en hiervan melding maakt.
 
@@ -168,19 +190,19 @@ Elke zo gesloten overeenkomst heeft volledig rechtsgevolg.
 
 Dit artikel is echter niet van toepassing op gewone handelsverschepingen, bewerkstelligd bij gelegenheid van gewone handelsverrichtingen, maar slechts op andere verladingen, waarbij het karakter en de gesteldheid van de te vervoeren goederen en de omstandigheden, de bedingen en de bepalingen, waarop het vervoer plaats moet vinden, zodanig zijn, dat ze een bijzondere afspraak rechtvaardigen.
 
-#### Artikel 7
+##### Artikel 7
 
 Geen bepaling van dit verdrag verbiedt een vervoerder of een afzender in een overeenkomst bedingen, bepalingen, voorbehouden of ontheffingen van de verplichtingen en aansprakelijkheden van de vervoerder of het schip betreffende het verlies of de schaden, aan de goederen overkomen of aangaande de bewaking, zorg en behandeling ervan, vóór de inlading in en na de lossing uit het schip, waarmede de goederen over zee worden vervoerd, op te nemen.
 
-#### Artikel 8
+##### Artikel 8
 
 De bepalingen van dit verdrag laten onverlet de rechten en de verplichtingen van de vervoerder, voortvloeiend uit enige thans geldende wet betreffende de beperking van de aansprakelijkheid van eigenaren van zeeschepen.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit Verdrag laat de bepalingen van internationale verdragen of nationale wetten die de aansprakelijkheid wegens kernschade regelen, onverlet.
 
-#### Artikel 10
+##### Artikel 10
 
 De bepalingen van dit Verdrag zijn van toepassing op elk cognossement dat betrekking heeft op vervoer van goederen tussen havens in twee verschillende Staten, indien:
 
@@ -196,7 +218,7 @@ Iedere Verdragsluitende Staat moet de bepalingen van dit Verdrag toepassen op co
 
 Dit artikel maakt geen inbreuk op het recht van een Verdragsluitende Staat om de bepalingen van dit Verdrag toe te passen op cognossementen, niet bedoeld in de voorgaande leden.
 
-#### Artikel 11
+##### Artikel 11
 
 Na afloop van een termijn van ten hoogste twee jaar, te rekenen van de dag der ondertekening van het verdrag stelt de Belgische Regering zich in verbinding met de Regeringen der Hoge verdragsluitende Partijen, die zich bereid hebben verklaard het te bekrachtigen ten einde te doen beslissen of er aanleiding is het in werking te doen treden. De bekrachtigingen worden neergelegd te Brussel op de dag, die in gemeen overleg tussen de genoemde Regeringen wordt vastgesteld. De eerste nederlegging van bekrachtigingen wordt vastgesteld door een proces-verbaal, ondertekend door de vertegenwoordigers van de Staten, die er aan deelnemen en door de Minister van Buitenlandse Zaken van België.
 
@@ -204,7 +226,7 @@ De verdere nederleggingen geschieden door een schriftelijke mededeling, gericht 
 
 Een voor gelijkluidend met het proces-verbaal betreffende de eerste nederlegging van bekrachtigingen en met de mededelingen uit het vorig lid gewaarmerkt afschrift alsmede een van de akten van bekrachtiging die hen vergezellen, wordt door de zorgen van de Belgische Regering en langs diplomatieke weg onmiddellijk gezonden aan de Staten, die dit verdrag hebben ondertekend of er toe zijn toegetreden. In de gevallen uit het vorige lid geeft deze Regering te zelfder tijd de dag op, waarop zij de mededeling heeft ontvangen.
 
-#### Artikel 12
+##### Artikel 12
 
 De Staten, die dit verdrag niet hebben ondertekend, kunnen tot dit verdrag toetreden, onafhankelijk van de vraag, of zij al dan niet vertegenwoordigd zijn geweest op de internationale conferentie te Brussel.
 
@@ -212,23 +234,23 @@ De Staat, die wenst toe te treden, deelt zijn voornemen schriftelijk mede aan de
 
 De Belgische Regering overhandigt onmiddellijk aan al de ondertekend hebbende of toegetreden Staten een voor gelijkluidend gewaarmerkt afschrift van de mededeling, alsmede van de akte van toetreding, terwijl Zij de dag vermeldt, waarop Zij de mededeling heeft ontvangen.
 
-#### Artikel 13
+##### Artikel 13
 
 De Hoge verdragsluitende Partijen kunnen bij de ondertekening, de nederlegging der bekrachtigingen of haar toetreding verklaren, dat de aanvaarding van dit verdrag niet geldt, hetzij voor zekere, hetzij voor alle zelfbesturende gewesten, koloniën, bezittingen, protectoraten of overzeese gebieden, die gesteld zijn onder haar opperbewind of gezag.
 
 Dienvolgens kunnen zij later afzonderlijk toetreden in naam van een of meer van deze zelfbesturende gewesten, koloniën, bezittingen, protectoraten of overzeese gebieden, die aldus in hun oorspronkelijke verklaring zijn uitgesloten. Zij kunnen evenzeer, zich richtend naar deze bepalingen, dit verdrag afzonderlijk opzeggen voor een of meer der zelfbesturende gewesten, koloniën, bezittingen, protectoraten of overzeese gebieden, die gesteld zijn onder haar opperbewind of gezag.
 
-#### Artikel 14
+##### Artikel 14
 
 Met betrekking tot de Staten, die deel hebben genomen aan de eerste nederlegging van bekrachtigingen, wordt dit verdrag van kracht een jaar na de dag van het proces-verbaal van deze nederlegging. Wat betreft de Staten, die het later bekrachtigen of die er toe toetreden, alsmede in de gevallen, waarin de inwerkingtreding later en volgens artikel 13 plaats vindt, wordt het van kracht zes maanden, nadat de mededelingen, voorzien in artikel 11, lid 2, en in artikel 12, lid 2, ontvangen zijn door de Belgische Regering.
 
-#### Artikel 15
+##### Artikel 15
 
 Indien het mocht gebeuren, dat een der verdragsluitende Staten dit verdrag zou willen opzeggen, wordt de opzegging schriftelijk ter kennis gebracht van de Belgische Regering, die onmiddellijk een voor gelijkluidend gewaarmerkt afschrift zal verstrekken aan al de andere Staten, terwijl Zij Hun de dag bericht, waarop Zij haar heeft ontvangen.
 
 De opzegging heeft alleen gevolg ten aanzien van de Staat, die haar heeft gedaan en wel een jaar nadat de mededeling ervan de Belgische Regering heeft bereikt.
 
-#### Artikel 16
+##### Artikel 16
 
 Elke verdragsluitende Staat heeft de bevoegdheid de bijeenkomst uit te lokken van een nieuwe conferentie ten einde de verbeteringen te onderzoeken, welke in dit verdrag zouden kunnen worden aangebracht.
 

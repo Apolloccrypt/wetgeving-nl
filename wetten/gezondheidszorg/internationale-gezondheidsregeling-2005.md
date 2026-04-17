@@ -1,18 +1,40 @@
 ---
 title: "Internationale Gezondheidsregeling (2005)"
 identifier: "BWBV0006969"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2016-07-11
-laatste_update: 2016-07-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006969"
+country: "nl"
+rank: "verdrag"
+publication_date: "2016-07-11"
+last_updated: "2016-07-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006969"
+soort: "verdrag"
+stam_id: "10005616133"
+version_id: "10006170372"
+internal_id: "C10009920961"
+label_id: "10005598894"
+dtd_version: "2.0"
+original_entry_into_force: "2007-06-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006969/2016-07-11/0"
+intitule_bron: "Trb.2006-73"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2006-04-04"
+intitule_in_force: "2006-04-04"
+intitule_status: "goed"
+original_publication: "Trb.2006-73"
+original_published_date: "2006-04-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2006-73"
+entry_into_force_date: "2007-06-15"
+jci_1_3: "jci1.3:c:BWBV0006969&z=2016-07-11&g=2016-07-11"
+jci_1_0: "1.0:c:BWBV0006969&g=2016-07-11"
+citeertitel_status: "redactioneel"
+entry_into_force: "2007-06-15"
 ---
-
 # Internationale Gezondheidsregeling (2005)
 
 ## DEEL I. BEGRIPSOMSCHRIJVINGEN, DOEL EN REIKWIJDTE, BEGINSELEN EN VERANTWOORDELIJKE AUTORITEITEN
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 1. Voor de toepassing van de Internationale Gezondheidsregeling (hierna de „IGR” of „Regeling”) wordt verstaan onder:
 
@@ -162,11 +184,11 @@ bron: "https://wetten.overheid.nl/BWBV0006969"
 
 2. Tenzij anders vastgelegd of door de context bepaald, vormt een verwijzing naar deze Regeling tevens een verwijzing naar de bijlagen daarbij.
 
-#### Artikel 2. Doel en reikwijdte
+##### Artikel 2. Doel en reikwijdte
 
 Het doel en de reikwijdte van deze Regeling zijn het voorkomen van, beschermen tegen, beheersen van en het voorzien in maatregelen op het gebied van de volksgezondheid naar aanleiding van de internationale verspreiding van ziekte op een wijze die toegesneden is op en beperkt is tot volksgezondheidsrisico's, en die onnodige belemmering van het internationaal verkeer en de internationale handel vermijden.
 
-#### Artikel 3. Beginselen
+##### Artikel 3. Beginselen
 
 1. De implementatie van deze Regeling geschiedt met volledige inachtneming van de waardigheid, mensenrechten en fundamentele vrijheden van personen.
 
@@ -176,7 +198,7 @@ Het doel en de reikwijdte van deze Regeling zijn het voorkomen van, beschermen t
 
 4. Staten hebben, in overeenstemming met het [Handvest van de Verenigde Naties](onbekend) en de beginselen van het internationale recht, het soevereine recht wetten uit vaardigen en wetgeving in te voeren ten behoeve van de uitvoering van hun gezondheidsbeleid. Daarbij dienen zij het doel van deze Regeling te ondersteunen.
 
-#### Artikel 4. Verantwoordelijke autoriteiten
+##### Artikel 4. Verantwoordelijke autoriteiten
 
 1. Elke Staat wijst een nationaal IGR-coördinatiepunt aan, of richt dit op, alsmede de autoriteiten die onder zijn rechtsmacht verantwoordelijk zijn voor de implementatie van gezondheidsmaatregelen krachtens deze Regeling.
 
@@ -192,7 +214,7 @@ Het doel en de reikwijdte van deze Regeling zijn het voorkomen van, beschermen t
 
 ## DEEL II. INFORMATIE EN MAATREGELEN OP HET GEBIED VAN DE VOLKSGEZONDHEID
 
-#### Artikel 5. Toezicht
+##### Artikel 5. Toezicht
 
 1. Elke Staat die Partij is, ontwikkelt, versterkt en handhaaft, zo spoedig mogelijk maar uiterlijk vijf jaar na de inwerkingtreding van deze Regeling voor die Staat die Partij is, de capaciteit om gebeurtenissen te ontdekken, te beoordelen, daar kennisgeving van te doen en daarvan verslag uit te brengen in overeenstemming met deze Regeling, zoals vermeld in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006969&bijlage=1&artikel=A&z=2016-07-11&g=2016-07-11).
 
@@ -202,21 +224,21 @@ Het doel en de reikwijdte van deze Regeling zijn het voorkomen van, beschermen t
 
 4. De WHO verzamelt informatie over gebeurtenissen door middel van zijn toezichtactiviteiten en beoordeelt het risico van internationale verspreiding van ziekte en mogelijke belemmering van het internationaal verkeer. Door de WHO ingevolge dit lid ontvangen informatie wordt behandeld in overeenstemming met de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBV0006969&deel=II&artikel=11&z=2016-07-11&g=2016-07-11) en [45](https://wetten.overheid.nl/jci1.3:c:BWBV0006969&deel=VIII&artikel=45&z=2016-07-11&g=2016-07-11), al naar gelang het geval.
 
-#### Artikel 6. Kennisgeving
+##### Artikel 6. Kennisgeving
 
 1. Elke Staat die Partij is, beoordeelt de gebeurtenissen die plaatsvinden op zijn grondgebied door gebruik te maken van het in Bijlage 2 vervatte beslissingsinstrument. Elke Staat die Partij is, stelt de WHO, via de meest doelmatige communicatiewijze voorhanden, via het nationale IGR-coördinatiepunt en binnen 24 uur na de beoordeling van de informatie met betrekking tot de volksgezondheid, in kennis van alle gebeurtenissen die een noodsituatie op het gebied van de volksgezondheid van internationaal belang kunnen vormen op haar grondgebied, in overeenstemming met het beslissingsinstrument, alsmede van alle genomen gezondheidsmaatregelen naar aanleiding van deze gebeurtenissen. Indien in de door de WHO ontvangen kennisgeving een beroep wordt gedaan op de bevoegdheden van de Internationale Organisatie voor Atoomenergie (IAEA), stelt de WHO de IAEA onverwijld in kennis.
 
 2. Na een kennisgeving blijft een Staat die Partij is de WHO tijdig in kennis stellen van nauwkeurige en voldoende gedetailleerde informatie met betrekking tot de volksgezondheid waarover hij beschikt ten aanzien van een gemelde gebeurtenis, waar mogelijk met inbegrip van gevalsdefinities, laboratoriumuitslagen, risicobron en soort risico, aantal gevallen en sterfgevallen, omstandigheden die van invloed zijn op de verspreiding van de ziekte en de getroffen gezondheidsmaatregelen; en brengt hij verslag uit, indien noodzakelijk, van de moeilijkheden waarmee hij geconfronteerd wordt en de ondersteuning die nodig is bij de bestrijding van de mogelijke noodsituatie op het gebied van de volksgezondheid van internationaal belang.
 
-#### Artikel 7. Delen van informatie tijdens onverwachte of ongebruikelijke gebeurtenissen op het gebied van de volksgezondheid
+##### Artikel 7. Delen van informatie tijdens onverwachte of ongebruikelijke gebeurtenissen op het gebied van de volksgezondheid
 
 Indien een Staat die Partij is over bewijs beschikt van een onverwachte of ongebruikelijke gebeurtenis op het gebied van de volksgezondheid op zijn grondgebied, ongeacht herkomst of bron, die een mogelijke noodsituatie op het gebied van de volksgezondheid van internationaal belang kan vormen, verstrekt hij de WHO alle relevante informatie met betrekking tot de volksgezondheid. In dat geval zijn de bepalingen van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006969&deel=II&artikel=6&z=2016-07-11&g=2016-07-11) volledig van toepassing.
 
-#### Artikel 8. Overleg
+##### Artikel 8. Overleg
 
 Indien zich op zijn grondgebied gebeurtenissen voordoen waarvoor de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006969&deel=II&artikel=6&z=2016-07-11&g=2016-07-11) voorziene kennisgeving niet vereist is, in het bijzonder die gevallen waarin onvoldoende informatie beschikbaar is om het beslissingsinstrument volledig in te vullen, kan een Staat die Partij is de WHO desalniettemin op de hoogte stellen via het nationale IGR-coördinatiepunt en met de WHO overleg plegen ter zake van passende gezondheidsmaatregelen. Dergelijke communicatie wordt behandeld in overeenstemming met [artikel 11, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006969&deel=II&artikel=11&z=2016-07-11&g=2016-07-11). De Staat die Partij is op wiens grondgebied de gebeurtenis zich heeft voorgedaan kan de WHO om assistentie verzoeken bij het beoordelen van enig epidemiologisch bewijsmateriaal dat die Staat die Partij is heeft verzameld.
 
-#### Artikel 9. Overige verslagen
+##### Artikel 9. Overige verslagen
 
 1. De WHO kan rekening houden met verslagen afkomstig uit bronnen anders dan kennisgevingen of overleg en beoordeelt deze verslagen volgens vastgestelde epidemiologische beginselen en stelt vervolgens de Staat die Partij is op wiens grondgebied de gebeurtenis zich zou voordoen in kennis van informatie over de gebeurtenis. Alvorens naar aanleiding van dergelijke verslagen maatregelen te treffen, pleegt de WHO overleg met de Staat die Partij is op wiens grondgebied de gebeurtenis zich zou voordoen en tracht de informatie te verifiëren in overeenstemming met de procedure vervat in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0006969&deel=II&artikel=10&z=2016-07-11&g=2016-07-11). Te dien einde stelt de WHO de ontvangen informatie beschikbaar aan alle Staten die Partij zijn, waarbij de WHO alleen in gevallen waarin dit gerechtvaardigd is de bron niet zal onthullen. Deze informatie wordt gebruikt in overeenstemming met de procedure vervat in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0006969&deel=II&artikel=11&z=2016-07-11&g=2016-07-11).
 
@@ -228,7 +250,7 @@ Indien zich op zijn grondgebied gebeurtenissen voordoen waarvoor de in [artikel 
 
 - c. besmette goederen die het grondgebied zijn binnengekomen of hebben verlaten.
 
-#### Artikel 10. Verificatie
+##### Artikel 10. Verificatie
 
 1. De WHO verzoekt, in overeenstemming met [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006969&deel=II&artikel=9&z=2016-07-11&g=2016-07-11), een Staat die Partij is om verificatie van verslagen afkomstig van andere bronnen dan kennisgevingen of overleg ter zake van gebeurtenissen die een mogelijke noodsituatie op het gebied van de volksgezondheid van internationaal belang kunnen vormen en zich op het grondgebied van die Staat zouden voordoen. In dergelijke gevallen stelt de WHO de betrokken Staat die Partij is in kennis van de rapporten die zij wenst te verifiëren.
 
@@ -244,7 +266,7 @@ Indien zich op zijn grondgebied gebeurtenissen voordoen waarvoor de in [artikel 
 
 4. Indien de Staat die Partij is het aanbod tot samenwerking niet aanvaardt, kan de WHO, indien de omvang van het volksgezondheidsrisico zulks rechtvaardigt, de informatie waarover zij beschikt, delen met andere Staten die Partij zijn, terwijl zij er bij de Staat die Partij is op aandringt het aanbod tot samenwerking van de WHO te aanvaarden, rekening houdend met de opvattingen van de betrokken Staat die Partij is.
 
-#### Artikel 11. Verschaffen van informatie door de WHO
+##### Artikel 11. Verschaffen van informatie door de WHO
 
 1. Behoudens het bepaalde in het tweede lid van dit artikel, zendt de WHO naar alle Staten die Partij zijn en, al naar gelang het geval, naar intergouvernementele organisaties, zo snel mogelijk en op de meest doelmatige wijze voorhanden, in vertrouwen, de informatie met betrekking tot de volksgezondheid die zij ingevolge de artikelen 5 tot en met 10 heeft ontvangen en die noodzakelijk is om de Staten die Partij zijn in staat te stellen te reageren op een volksgezondheidsrisico. De WHO dient andere Staten die Partij zijn in kennis te stellen van informatie die hen zou kunnen helpen het optreden van soortgelijke voorvallen te voorkomen.
 
@@ -266,7 +288,7 @@ Indien zich op zijn grondgebied gebeurtenissen voordoen waarvoor de in [artikel 
 
 4. Wanneer door de WHO uit hoofde van het tweede lid van dit artikel ontvangen informatie in overeenstemming met deze Regeling beschikbaar is gesteld aan de Staten die Partij zijn, kan de WHO deze ook toegankelijk maken voor het publiek indien andere informatie over dezelfde gebeurtenis reeds voor het publiek toegankelijk is en er behoefte bestaat aan de verspreiding van gezaghebbende en onafhankelijke informatie.
 
-#### Artikel 12. Vaststelling van een noodsituatie op het gebied van de volksgezondheid van internationaal belang
+##### Artikel 12. Vaststelling van een noodsituatie op het gebied van de volksgezondheid van internationaal belang
 
 1. De Directeur-Generaal bepaalt, op basis van de ontvangen informatie, in het bijzonder van de Staat die Partij is op wiens grondgebied de gebeurtenis zich voordoet, of een gebeurtenis een noodsituatie op het gebied van de volksgezondheid van internationaal belang vormt in overeenstemming met de criteria en procedure vervat in deze Regeling.
 
@@ -288,7 +310,7 @@ Indien zich op zijn grondgebied gebeurtenissen voordoen waarvoor de in [artikel 
 
 5. Indien de Directeur-Generaal, na overleg met de Staat die Partij is op wiens grondgebied de noodsituatie op het gebied van de volksgezondheid van internationaal belang zich heeft voorgedaan, van oordeel is dat voornoemde noodsituatie voorbij is, neemt de Directeur-Generaal een beslissing in overeenstemming met de in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBV0006969&deel=IX&hoofdstuk=II&artikel=49&z=2016-07-11&g=2016-07-11) vervatte procedure.
 
-#### Artikel 13. Maatregelen op het gebied van de volksgezondheid
+##### Artikel 13. Maatregelen op het gebied van de volksgezondheid
 
 1. Elke Staat die Partij is, ontwikkelt, versterkt en handhaaft, zo snel mogelijk maar uiterlijk vijf jaar nadat deze Regeling voor die Staat die Partij is in werking is getreden, de capaciteit om onverwijld en doeltreffend te reageren op volksgezondheidsrisico's en noodsituaties op het gebied van de volksgezondheid van internationaal belang zoals vervat in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006969&bijlage=1&artikel=A&z=2016-07-11&g=2016-07-11). De WHO publiceert, in overleg met de lidstaten, richtlijnen ter ondersteuning van Staten die Partij zijn bij de ontwikkeling van capaciteit betreffende maatregelen op het gebied van de volksgezondheid.
 
@@ -302,7 +324,7 @@ Indien zich op zijn grondgebied gebeurtenissen voordoen waarvoor de in [artikel 
 
 6. Op verzoek geeft de WHO adviezen en ondersteuning aan andere Staten die Partij zijn die getroffen zijn of bedreigd worden door de noodsituatie op het gebied van de volksgezondheid van internationaal belang.
 
-#### Artikel 14. Samenwerking tussen de WHO en intergouvernementele organisaties en internationale instanties
+##### Artikel 14. Samenwerking tussen de WHO en intergouvernementele organisaties en internationale instanties
 
 1. De WHO zal samenwerken met, alsmede haar activiteiten coördineren met, al naar gelang het geval, andere bevoegde intergouvernementele organisaties of internationale instanties bij de implementatie van deze Regeling, mede door het sluiten van overeenkomsten en andere soortgelijke regelingen.
 
@@ -312,7 +334,7 @@ Indien zich op zijn grondgebied gebeurtenissen voordoen waarvoor de in [artikel 
 
 ## DEEL III. AANBEVELINGEN
 
-#### Artikel 15. Tijdelijke aanbevelingen
+##### Artikel 15. Tijdelijke aanbevelingen
 
 1. Indien in overeenstemming met [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0006969&deel=II&artikel=12&z=2016-07-11&g=2016-07-11) is vastgesteld dat zich een noodsituatie op het gebied van de volksgezondheid van internationaal belang voordoet, doet de Directeur-Generaal tijdelijke aanbevelingen uitgaan in overeenstemming met de in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBV0006969&deel=IX&hoofdstuk=II&artikel=49&z=2016-07-11&g=2016-07-11) vervatte procedure. Indien nodig kunnen dergelijke tijdelijke aanbevelingen worden gewijzigd of kan de termijn ervan worden verlengd, met inbegrip van de situatie dat is vastgesteld dat aan een noodsituatie op het gebied van de volksgezondheid van internationaal belang een einde is gekomen, in welk geval andere tijdelijke aanbevelingen kunnen worden gedaan die noodzakelijk zijn om het opnieuw optreden van deze noodsituatie te voorkomen of onverwijld te ontdekken.
 
@@ -320,11 +342,11 @@ Indien zich op zijn grondgebied gebeurtenissen voordoen waarvoor de in [artikel 
 
 3. Tijdelijke aanbevelingen kunnen te allen tijde worden beëindigd in overeenstemming met de in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBV0006969&deel=IX&hoofdstuk=II&artikel=49&z=2016-07-11&g=2016-07-11) vervatte procedure en vervallen automatisch drie maanden na het uitbrengen ervan. Zij kunnen worden gewijzigd of verlengd voor periodes van ten hoogste drie maanden. Tijdelijke aanbevelingen mogen niet langer gelden dan tot de tweede Wereldgezondheidsvergadering na de vaststelling van de noodsituatie op het gebied van de volksgezondheid van internationaal belang waarop zij betrekking hebben.
 
-#### Artikel 16. Permanente aanbevelingen
+##### Artikel 16. Permanente aanbevelingen
 
 De WHO kan permanente aanbevelingen doen ter zake van de stelselmatige of periodieke toepassing van passende gezondheidsmaatregelen in overeenstemming met [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBV0006969&deel=IX&hoofdstuk=III&artikel=53&z=2016-07-11&g=2016-07-11). Dergelijke maatregelen kunnen door de Staten die Partij zijn, worden toegepast ter zake van personen, bagage, vracht, containers, vervoermiddelen, goederen en/of postpakketten met betrekking tot specifieke, blijvende volksgezondheidsrisico's teneinde de internationale verspreiding van ziekte te voorkomen of te beperken en onnodige belemmering van het internationaal verkeer te vermijden. De WHO kan, naargelang van het geval, dergelijke aanbevelingen wijzigen of beëindigen, in overeenstemming met artikel 53.
 
-#### Artikel 17. Criteria voor aanbevelingen
+##### Artikel 17. Criteria voor aanbevelingen
 
 Bij het uitvaardigen, wijzigen of beëindigen van tijdelijke of permanente aanbevelingen, neemt de Directeur-Generaal het volgende in overweging:
 
@@ -344,7 +366,7 @@ Bij het uitvaardigen, wijzigen of beëindigen van tijdelijke of permanente aanbe
 
 Ten aanzien van tijdelijke aanbevelingen kunnen urgente omstandigheden beperkingen stellen aan de overweging door de Directeur-Generaal van de onderdelen e en f van dit artikel.
 
-#### Artikel 18. Aanbevelingen met betrekking tot personen, bagage, vracht, containers, goederen en postpakketten
+##### Artikel 18. Aanbevelingen met betrekking tot personen, bagage, vracht, containers, goederen en postpakketten
 
 1. Aanbevelingen van de WHO aan de Staten die Partij zijn ten aanzien van personen kunnen de volgende adviezen omvatten:
 
@@ -396,7 +418,7 @@ Ten aanzien van tijdelijke aanbevelingen kunnen urgente omstandigheden beperking
 
 ## DEEL IV. PLAATSEN VAN BINNENKOMST
 
-#### Artikel 19. Algemene verplichtingen
+##### Artikel 19. Algemene verplichtingen
 
 In aanvulling op de overige verplichtingen uit hoofde van deze Regeling, is elke Staat die Partij is gehouden:
 
@@ -406,7 +428,7 @@ In aanvulling op de overige verplichtingen uit hoofde van deze Regeling, is elke
 
 - c. de WHO, voor zover praktisch uitvoerbaar, op verzoek naar aanleiding van een specifiek mogelijk volksgezondheidsrisico, te voorzien van relevante gegevens betreffende infectie- of besmettingsbronnen, met inbegrip van vectoren en reservoirs op zijn plaatsen van binnenkomst die zouden kunnen leiden tot internationale verspreiding van ziekte.
 
-#### Artikel 20. Luchthavens en havens
+##### Artikel 20. Luchthavens en havens
 
 1. De Staten die Partij zijn, wijzen de luchthavens en havens aan die de in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006969&bijlage=1&z=2016-07-11&g=2016-07-11) voorziene capaciteiten ontwikkelen.
 
@@ -424,7 +446,7 @@ In aanvulling op de overige verplichtingen uit hoofde van deze Regeling, is elke
 
 5. In samenwerking met bevoegde intergouvernementele organisaties en internationale instanties, ontwikkelt en publiceert de WHO richtlijnen voor verklaringen inzake luchthavens en havens ingevolge dit artikel. De WHO publiceert tevens een lijst van luchthavens en havens waarvoor verklaringen zijn afgegeven.
 
-#### Artikel 21. Grensovergangen op land
+##### Artikel 21. Grensovergangen op land
 
 1. Wanneer zulks om redenen van de volksgezondheid gerechtvaardigd is, kan een Staat die Partij is grensovergangen op land aanwijzen die de in Bijlage 1 voorziene capaciteiten ontwikkelen, daarbij rekening houdend met:
 
@@ -438,7 +460,7 @@ In aanvulling op de overige verplichtingen uit hoofde van deze Regeling, is elke
 
 - b. het gezamenlijk aanwijzen van aangrenzende grensovergangen op land ten behoeve van de capaciteiten in Bijlage 1 in overeenstemming met het eerste lid van dit artikel.
 
-#### Artikel 22. Rol van de bevoegde autoriteiten
+##### Artikel 22. Rol van de bevoegde autoriteiten
 
 1. De bevoegde autoriteiten:
 
@@ -468,7 +490,7 @@ In aanvulling op de overige verplichtingen uit hoofde van deze Regeling, is elke
 
 ### HOOFDSTUK I. ALGEMENE BEPALINGEN
 
-#### Artikel 23. Gezondheidsmaatregelen bij aankomst en vertrek
+##### Artikel 23. Gezondheidsmaatregelen bij aankomst en vertrek
 
 1. Met inachtneming van toepasselijke internationale overeenkomsten en relevante artikelen van deze Regeling kan een Staat die Partij is ten behoeve van de volksgezondheid bij aankomst of vertrek het volgende verlangen:
 
@@ -492,7 +514,7 @@ In aanvulling op de overige verplichtingen uit hoofde van deze Regeling, is elke
 
 ### HOOFDSTUK II. BIJZONDERE BEPALINGEN VOOR VERVOERMIDDELEN EN VERVOERSEXPLOITANTEN
 
-#### Artikel 24. Vervoersexploitanten
+##### Artikel 24. Vervoersexploitanten
 
 1. De Staten die Partij zijn, nemen alle praktisch uitvoerbare en met deze Regeling verenigbare maatregelen teneinde te waarborgen dat vervoersexploitanten:
 
@@ -504,7 +526,7 @@ In aanvulling op de overige verplichtingen uit hoofde van deze Regeling, is elke
 
 2. Bijzondere bepalingen met betrekking tot vervoermiddelen en vervoersexploitanten ingevolge dit artikel staan vermeld in [Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006969&bijlage=4&z=2016-07-11&g=2016-07-11). Bijzondere maatregelen die van toepassing zijn op vervoermiddelen en vervoersexploitanten ten aanzien van door vectoren overgebrachte ziekten staan vermeld in [Bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006969&bijlage=5&z=2016-07-11&g=2016-07-11).
 
-#### Artikel 25. Schepen en luchtvaartuigen op doorreis
+##### Artikel 25. Schepen en luchtvaartuigen op doorreis
 
 Met inachtneming van de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBV0006969&deel=V&hoofdstuk=II&artikel=27&z=2016-07-11&g=2016-07-11) en [43](https://wetten.overheid.nl/jci1.3:c:BWBV0006969&deel=VIII&artikel=43&z=2016-07-11&g=2016-07-11) of tenzij toegestaan krachtens van toepassing zijnde internationale overeenkomsten, past een Staat die Partij is geen enkele gezondheidsmaatregel toe op:
 
@@ -514,11 +536,11 @@ Met inachtneming van de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBV0
 
 - c. een luchtvaartuig op doorreis dat zich op een luchthaven onder zijn rechtsmacht bevindt, met dien verstande dat het luchtvaartuig op een bepaald gedeelte van de luchthaven moet blijven en er geen personen mogen in- en uitstappen en er geen laden of lossen plaatsvindt. Het is een dergelijk luchtvaartuig wel toegestaan, onder toezicht van de bevoegde autoriteit, brandstof, water, voedsel en voorraden aan boord te nemen.
 
-#### Artikel 26. Civiele vrachtwagens, treinen en autobussen op doorreis
+##### Artikel 26. Civiele vrachtwagens, treinen en autobussen op doorreis
 
 Met inachtneming van de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBV0006969&deel=V&hoofdstuk=II&artikel=27&z=2016-07-11&g=2016-07-11) en [43](https://wetten.overheid.nl/jci1.3:c:BWBV0006969&deel=VIII&artikel=43&z=2016-07-11&g=2016-07-11) of tenzij toegestaan krachtens van toepassing zijnde internationale overeenkomsten, wordt geen enkele gezondheidsmaatregel toegepast op civiele vrachtwagens, treinen of autobussen die niet afkomstig zijn uit een getroffen gebied en die over het grondgebied reizen zonder personen in of uit te laten stappen of te laden of te lossen.
 
-#### Artikel 27. Getroffen vervoermiddelen
+##### Artikel 27. Getroffen vervoermiddelen
 
 1. Indien klinische verschijnselen of symptomen en informatie gebaseerd op feiten of bewijzen die erop duiden dat er een volksgezondheidsrisico bestaat, met inbegrip van infectie- en besmettingsbronnen, aan boord van een vervoermiddel worden aangetroffen, beschouwt de bevoegde autoriteit het vervoermiddel als getroffen en kan:
 
@@ -540,7 +562,7 @@ De bevoegde autoriteit kan aanvullende gezondheidsmaatregelen implementeren, waa
 
 - b. er geen omstandigheden aan boord zijn die een volksgezondheidsrisico zouden kunnen vormen.
 
-#### Artikel 28. Schepen en luchtvaartuigen bij plaatsen van binnenkomst
+##### Artikel 28. Schepen en luchtvaartuigen bij plaatsen van binnenkomst
 
 1. Met inachtneming van [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBV0006969&deel=VIII&artikel=43&z=2016-07-11&g=2016-07-11) of zoals voorzien in van toepassing zijnde internationale overeenkomsten, mag een schip of luchtvaartuig niet om volksgezondheidsredenen verhinderd worden een plaats van binnenkomst aan te doen. Indien de plaats van binnenkomst echter niet over de voorzieningen beschikt om gezondheidsmaatregelen toe te passen uit hoofde van deze Regeling, kan het schip of luchtvaartuig de opdracht krijgen zijn route op eigen risico te vervolgen naar de dichtstbijzijnde plaats van binnenkomst die beschikbaar is, tenzij het schip of het luchtvaartuig een technisch probleem heeft waardoor deze omleiding gevaar zou opleveren.
 
@@ -562,17 +584,17 @@ De bevoegde autoriteit kan aanvullende gezondheidsmaatregelen implementeren, waa
 
 6. Niettegenstaande de in dit artikel vervatte bepalingen kan de gezagvoerder van een schip of van een luchtvaartuig de noodmaatregelen nemen die nodig kunnen zijn voor de gezondheid en veiligheid van de reizigers aan boord. Hij of zij informeert de bevoegde autoriteit zo vroeg mogelijk omtrent uit hoofde van dit lid genomen maatregelen.
 
-#### Artikel 29. Civiele vrachtwagens, treinen en autobussen bij plaatsen van binnenkomst
+##### Artikel 29. Civiele vrachtwagens, treinen en autobussen bij plaatsen van binnenkomst
 
 De WHO ontwikkelt, in samenwerking met de Staten die Partij zijn, grondbeginselen voor de toepassing van gezondheidsmaatregelen op civiele vrachtwagens, treinen en autobussen bij plaatsen van binnenkomst en bij het passeren van grensovergangen op land.
 
 ### HOOFDSTUK III. BIJZONDERE BEPALINGEN VOOR REIZIGERS
 
-#### Artikel 30. Reizigers die ten behoeve van de volksgezondheid onder observatie staan
+##### Artikel 30. Reizigers die ten behoeve van de volksgezondheid onder observatie staan
 
 Met inachtneming van [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBV0006969&deel=VIII&artikel=43&z=2016-07-11&g=2016-07-11) of zoals toegestaan krachtens van toepassing zijnde internationale overeenkomsten, mag een verdachte reiziger die bij aankomst ten behoeve van de volksgezondheid onder observatie is geplaatst zijn internationale reis vervolgen indien de reiziger geen dreigend risico voor de volksgezondheid oplevert en de Staat die Partij is de bevoegde autoriteit van de plaats van binnenkomst van de bestemming, indien bekend, informeert over de verwachte komst van de reiziger. Na aankomst dient de reiziger zich bij die autoriteit te vervoegen.
 
-#### Artikel 31. Gezondheidsmaatregelen met betrekking tot de binnenkomst van reizigers
+##### Artikel 31. Gezondheidsmaatregelen met betrekking tot de binnenkomst van reizigers
 
 1. Invasief medisch onderzoek, vaccinatie of een andere profylaxe is geen voorwaarde voor de binnenkomst van een reiziger op het grondgebied van een Staat die Partij is, met dien verstande dat, met inachtneming van de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBV0006969&deel=V&hoofdstuk=III&artikel=32&z=2016-07-11&g=2016-07-11), [42](https://wetten.overheid.nl/jci1.3:c:BWBV0006969&deel=VIII&artikel=42&z=2016-07-11&g=2016-07-11) en [45](https://wetten.overheid.nl/jci1.3:c:BWBV0006969&deel=VIII&artikel=45&z=2016-07-11&g=2016-07-11), deze Regeling Staten die Partij zijn niet belet medisch onderzoek, vaccinatie of een andere profylaxe of bewijs van vaccinatie of van een andere profylaxe te verlangen:
 
@@ -592,7 +614,7 @@ Met inachtneming van [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBV000696
 
 - c. zich te onderwerpen aan aanvullende vastgestelde gezondheidsmaatregelen die de verspreiding van ziekte voorkomen of bestrijden, met inbegrip van isolatie, quarantaine of het ten behoeve van de volksgezondheid onder observatie plaatsen van de reiziger.
 
-#### Artikel 32. Behandeling van reizigers
+##### Artikel 32. Behandeling van reizigers
 
 Bij de implementatie van gezondheidsmaatregelen uit hoofde van deze Regeling, behandelen de Staten die Partij zijn reizigers met respect voor hun waardigheid, mensenrechten en fundamentele vrijheden en beperken zij het bij deze maatregelen behorende ongemak of ongerief tot een minimum, mede door:
 
@@ -604,11 +626,11 @@ Bij de implementatie van gezondheidsmaatregelen uit hoofde van deze Regeling, be
 
 ### HOOFDSTUK IV. BIJZONDERE BEPALINGEN VOOR GOEDEREN, CONTAINERS EN LAADZONES VOOR CONTAINERS
 
-#### Artikel 33. Goederen in doorvoer
+##### Artikel 33. Goederen in doorvoer
 
 Met inachtneming van [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBV0006969&deel=VIII&artikel=43&z=2016-07-11&g=2016-07-11) of tenzij toegestaan krachtens van toepassing zijnde internationale overeenkomsten, worden op goederen, uitgezonderd levende have, die in doorvoer zijn en niet worden overgeslagen, geen gezondheidsmaatregelen uit hoofde van deze Regeling toegepast of worden zij niet vastgehouden ten behoeve van de volksgezondheid.
 
-#### Artikel 34. Containers en laadzones voor containers
+##### Artikel 34. Containers en laadzones voor containers
 
 1. De Staten die Partij zijn, waarborgen, voor zover praktisch uitvoerbaar, dat containervervoerders gebruik maken van containers voor internationaal vervoer die vrij zijn gehouden van infectie- of besmettingsbronnen, met inbegrip van vectoren en reservoirs, in het bijzonder tijdens het laden.
 
@@ -622,17 +644,17 @@ Met inachtneming van [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBV000696
 
 ## DEEL VI. GEZONDHEIDSDOCUMENTEN
 
-#### Artikel 35. Algemene regel
+##### Artikel 35. Algemene regel
 
 Naast de in deze Regeling of in de door de WHO gedane aanbevelingen voorziene gezondheidsdocumenten worden in het internationale verkeer geen gezondheidsdocumenten verlangd, echter met dien verstande dat dit artikel noch van toepassing is op reizigers die tijdelijk of permanent verblijf wensen, noch op documentvereisten met betrekking tot de volksgezondheidsstatus van goederen of vracht in de internationale handel ingevolge van toepassing zijnde internationale overeenkomsten. De bevoegde autoriteit kan reizigers verzoeken informatieformulieren en vragenlijsten inzake de gezondheid van de reizigers in te vullen, op voorwaarde dat deze voldoen aan de in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0006969&deel=V&hoofdstuk=I&artikel=23&z=2016-07-11&g=2016-07-11) vervatte vereisten.
 
-#### Artikel 36. Bewijs van vaccinatie of van een andere profylaxe
+##### Artikel 36. Bewijs van vaccinatie of van een andere profylaxe
 
 1. Vaccinaties en profylaxe voor reizigers toegediend uit hoofde van deze Regeling of van aanbevelingen, en de daarmee verband houdende bewijzen, dienen te voldoen aan de bepalingen van [Bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006969&bijlage=6&z=2016-07-11&g=2016-07-11) en, wanneer van toepassing, [Bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006969&bijlage=7&z=2016-07-11&g=2016-07-11) met betrekking tot specifieke ziekten.
 
 2. Een reiziger in het bezit van een bewijs van vaccinatie of van een andere profylaxe dat is afgegeven overeenkomstig [Bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006969&bijlage=6&z=2016-07-11&g=2016-07-11) en, wanneer van toepassing, [Bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006969&bijlage=7&z=2016-07-11&g=2016-07-11), wordt niet de toegang geweigerd vanwege de ziekte waarnaar het bewijs verwijst, zelfs al komt hij uit een getroffen gebied, tenzij de bevoegde autoriteit over verifieerbare aanwijzingen en/of bewijzen beschikt dat de vaccinatie of andere profylaxe niet doeltreffend was.
 
-#### Artikel 37. Maritieme gezondheidsverklaring
+##### Artikel 37. Maritieme gezondheidsverklaring
 
 1. Voor aankomst in de eerste aanloophaven op het grondgebied van een Staat die Partij is, stelt de kapitein van een schip de gezondheidstoestand aan boord vast, en vult hij bij aankomst, of voor aankomst indien het schip over de juiste voorzieningen beschikt en de Staat die Partij is een dergelijke voorafgaande overhandiging verlangt, een maritieme gezondheidsverklaring in en overhandigt deze aan de bevoegde autoriteit van deze haven, tenzij de Staat die Partij is zulks niet verlangt. Deze verklaring wordt medeondertekend door de scheepsarts, indien aanwezig.
 
@@ -648,7 +670,7 @@ Naast de in deze Regeling of in de door de WHO gedane aanbevelingen voorziene ge
 
 De Staat die Partij is, stelt scheepvaartondernemingen of hun vertegenwoordigers op de hoogte van deze vereisten.
 
-#### Artikel 38. Gezondheidsgedeelte van de algemene verklaring voor luchtvaartuigen
+##### Artikel 38. Gezondheidsgedeelte van de algemene verklaring voor luchtvaartuigen
 
 1. De gezagvoerder van een luchtvaartuig of diens vertegenwoordiger vult, tijdens de vlucht of na aankomst op de eerste luchthaven op het grondgebied van een Staat die Partij is, naar beste kunnen, het gezondheidsgedeelte van de algemene verklaring voor luchtvaartuigen, dat is opgesteld volgens het in Bijlage 9 opgenomen model, in en overhandigt dit aan de bevoegde autoriteit voor die luchthaven, tenzij de Staat die Partij is zulks niet verlangt.
 
@@ -662,7 +684,7 @@ De Staat die Partij is, stelt scheepvaartondernemingen of hun vertegenwoordigers
 
 De Staat die Partij is, stelt luchtvaartondernemingen of hun vertegenwoordigers op de hoogte van deze vereisten.
 
-#### Artikel 39. Certificaten van sanitaire controle van schepen
+##### Artikel 39. Certificaten van sanitaire controle van schepen
 
 1. Certificaten tot vrijstelling van sanitaire controle van schepen en certificaten van sanitaire controle van schepen zijn ten hoogste zes maanden geldig. Dit tijdvak kan met een maand worden verlengd indien de vereiste inspectie- of bestrijdingsmaatregelen niet in de haven kunnen worden uitgevoerd.
 
@@ -680,7 +702,7 @@ De Staat die Partij is, stelt luchtvaartondernemingen of hun vertegenwoordigers 
 
 ## DEEL VII. KOSTEN
 
-#### Artikel 40. Kosten van gezondheidsmaatregelen met betrekking tot reizigers
+##### Artikel 40. Kosten van gezondheidsmaatregelen met betrekking tot reizigers
 
 1. Uitgezonderd voor reizigers die tijdelijk of permanent verblijf wensen, en met inachtneming van het tweede lid van dit artikel, brengt een Staat die Partij is geen kosten in rekening uit hoofde van deze Regeling voor de volgende maatregelen ter bescherming van de volksgezondheid:
 
@@ -714,7 +736,7 @@ De Staat die Partij is, stelt luchtvaartondernemingen of hun vertegenwoordigers 
 
 6. In geen geval wordt reizigers of vervoersexploitanten de mogelijkheid ontzegd uit het grondgebied van een Staat die Partij is te vertrekken in afwachting van de betaling van de in het eerste of tweede lid van dit artikel bedoelde kosten.
 
-#### Artikel 41. Kosten voor bagage, vracht, containers, vervoermiddelen, goederen of postpakketten
+##### Artikel 41. Kosten voor bagage, vracht, containers, vervoermiddelen, goederen of postpakketten
 
 1. Wanneer kosten in rekening worden gebracht voor de toepassing van de gezondheidsmaatregelen op bagage, vracht, containers, vervoermiddelen, goederen of postpakketten uit hoofde van deze Regeling, bestaat er in elke Staat die Partij is slechts één tarief voor deze kosten en deze kosten dienen:
 
@@ -728,11 +750,11 @@ De Staat die Partij is, stelt luchtvaartondernemingen of hun vertegenwoordigers 
 
 ## DEEL VIII. ALGEMENE BEPALINGEN
 
-#### Artikel 42. Implementatie van gezondheidsmaatregelen
+##### Artikel 42. Implementatie van gezondheidsmaatregelen
 
 Met uit hoofde van deze Regeling genomen gezondheidsmaatregelen dient onverwijld te worden aangevangen; zij dienen onverwijld te worden voltooid en op transparante en non-discriminatoire wijze te worden toegepast.
 
-#### Artikel 43. Aanvullende gezondheidsmaatregelen
+##### Artikel 43. Aanvullende gezondheidsmaatregelen
 
 1. Deze Regeling belet Staten die Partij zijn niet gezondheidsmaatregelen te implementeren, in overeenstemming met hun relevante nationale wetgeving en verplichtingen ingevolge het internationale recht, naar aanleiding van specifieke volksgezondheidsrisico's of noodsituaties op het gebied van de volksgezondheid van internationaal belang die:
 
@@ -764,7 +786,7 @@ Dergelijke maatregelen vormen voor de internationale handel geen sterkere belemm
 
 8. De bepalingen van dit artikel kunnen van toepassing zijn op de implementatie van maatregelen betreffende reizigers die deelnemen aan massabijeenkomsten.
 
-#### Artikel 44. Samenwerking en assistentie
+##### Artikel 44. Samenwerking en assistentie
 
 1. De Staten die Partij zijn, verplichten zich met elkaar samen te werken, voor zover mogelijk, bij:
 
@@ -786,7 +808,7 @@ Dergelijke maatregelen vormen voor de internationale handel geen sterkere belemm
 
 3. Samenwerking ingevolge dit artikel kan via diverse kanalen worden geïmplementeerd, met inbegrip van bilaterale kanalen, via regionale netwerken en de regionale kantoren van de WHO en via intergouvernementele organisaties en internationale instanties.
 
-#### Artikel 45. Behandeling van persoonsgegevens
+##### Artikel 45. Behandeling van persoonsgegevens
 
 1. Gezondheidsinformatie die door een Staat die Partij is ingevolge deze Regeling is verzameld of ontvangen van een andere Staat die Partij is of van de WHO, die verwijst naar een geïdentificeerde of identificeerbare persoon wordt vertrouwelijk behandeld en op anonieme wijze verwerkt zoals vereist ingevolge de nationale wetgeving.
 
@@ -802,7 +824,7 @@ Dergelijke maatregelen vormen voor de internationale handel geen sterkere belemm
 
 3. Op verzoek verstrekt de WHO, voor zover praktisch uitvoerbaar, een natuurlijke persoon zijn of haar in dit artikel bedoelde persoonsgegevens, in een begrijpelijke vorm en zonder onnodige vertraging of kosten, en staat, wanneer nodig, toe dat deze gecorrigeerd worden.
 
-#### Artikel 46. Vervoer en omgang met biologische stoffen, reagens en materialen voor diagnostische doeleinden
+##### Artikel 46. Vervoer en omgang met biologische stoffen, reagens en materialen voor diagnostische doeleinden
 
 De Staten die Partij zijn, vergemakkelijken, onverminderd hun nationale recht en rekening houdend met relevante internationale richtlijnen, het vervoer, de binnenkomst, het vertrek, de verwerking en de verwijdering van biologische stoffen en specimen, reagens en andere materialen voor diagnostische doeleinden ten behoeve van verificatie en maatregelen op het gebied van de volksgezondheid ingevolge deze Regeling.
 
@@ -810,13 +832,13 @@ De Staten die Partij zijn, vergemakkelijken, onverminderd hun nationale recht en
 
 ### HOOFDSTUK I. DE IGR-LIJST VAN DESKUNDIGEN
 
-#### Artikel 47. Samenstelling
+##### Artikel 47. Samenstelling
 
 De Directeur-Generaal stelt een lijst op van deskundigen op alle relevante expertisegebieden (hierna „IGR-lijst van deskundigen”). De Directeur-Generaal benoemt de leden van de IGR-lijst van deskundigen in overeenstemming met de **WHO Regulations for Expert Advisory Panels and Committees** (hierna de „WHO-regeling inzake commissies van advies”), tenzij in deze Regeling anders is bepaald. Daarnaast benoemt de Directeur-Generaal een lid op verzoek van elke Staat die Partij is en, wanneer van toepassing, deskundigen die worden voorgedragen door relevante intergouvernementele organisaties en regionale organisaties voor economische integratie. Belanghebbende Staten die Partij zijn, stellen de Directeur-Generaal in kennis van de kwalificaties en expertisegebieden van elk van de deskundigen die zij voor het lidmaatschap voordragen. De Directeur-Generaal stelt de Staten die Partij zijn, alsmede relevante intergouvernementele organisaties en regionale organisaties voor economische integratie, in kennis van de samenstelling van de IGR-lijst van deskundigen.
 
 ### HOOFDSTUK II. DE COMMISSIE VOOR NOODSITUATIES
 
-#### Artikel 48. Mandaat en samenstelling
+##### Artikel 48. Mandaat en samenstelling
 
 1. De Directeur-Generaal stelt een Commissie voor noodsituaties in die op verzoek van de Directeur-Generaal haar oordeel geeft over:
 
@@ -830,7 +852,7 @@ De Directeur-Generaal stelt een lijst op van deskundigen op alle relevante exper
 
 3. De Directeur-Generaal kan, uit eigen beweging of op verzoek van de Commissie voor noodsituaties, een of meer technische deskundigen aanstellen om de Commissie te adviseren.
 
-#### Artikel 49. Procedure
+##### Artikel 49. Procedure
 
 1. De Directeur-Generaal roept bijeenkomsten van de Commissie voor noodgevallen bijeen door een aantal van de in [artikel 48, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006969&deel=IX&hoofdstuk=II&artikel=48&z=2016-07-11&g=2016-07-11), genoemde deskundigen te kiezen aan de hand van de expertisegebieden en ervaring die het meest relevant zijn voor de specifieke gebeurtenis die zich voordoet. Voor de toepassing van dit artikel wordt onder „bijeenkomsten” van de Commissie voor noodgevallen mede verstaan teleconferenties, videoconferenties of elektronische communicatie.
 
@@ -848,7 +870,7 @@ De Directeur-Generaal stelt een lijst op van deskundigen op alle relevante exper
 
 ### HOOFDSTUK III. DE TOETSINGSCOMMISSIE
 
-#### Artikel 50. Mandaat en samenstelling
+##### Artikel 50. Mandaat en samenstelling
 
 1. De Directeur-Generaal stelt een Toetsingscommissie in, die de volgende taken verricht:
 
@@ -868,13 +890,13 @@ De Directeur-Generaal stelt een lijst op van deskundigen op alle relevante exper
 
 6. De Directeur-Generaal kiest de leden van de Toetsingscommissie op basis van de beginselen van een billijke geografische spreiding, een evenwichtige verdeling tussen de seksen, een evenwichtige verdeling tussen deskundigen uit ontwikkelde en ontwikkelingslanden, vertegenwoordiging van verschillende wetenschappelijke stromingen, benaderingen en praktische ervaringen uit diverse delen van de wereld, en een passende verdeling tussen de verschillende disciplines.
 
-#### Artikel 51. Gang van zaken
+##### Artikel 51. Gang van zaken
 
 1. Beslissingen van de Toetsingscommissie worden genomen door een meerderheid van de leden die aanwezig zijn en hun stem uitbrengen.
 
 2. De Directeur-Generaal nodigt lidstaten, de Verenigde Naties en haar gespecialiseerde organisaties en andere relevante intergouvernementele of niet-gouvernementele organisaties die officiële betrekkingen onderhouden met de WHO uit vertegenwoordigers aan te wijzen om de zittingen van de Commissie bij te wonen. Dergelijke vertegenwoordigers kunnen memoranda indienen en, met toestemming van de Voorzitter, verklaringen afleggen over de onderwerpen die worden besproken. Zij hebben geen stemrecht.
 
-#### Artikel 52. Verslagen
+##### Artikel 52. Verslagen
 
 1. De Toetsingscommissie stelt per zitting een verslag op met daarin het oordeel en advies van de commissie. Dit verslag wordt voor het einde van de zitting goedgekeurd door de Toetsingscommissie. Haar oordeel en advies zijn niet bindend voor de Organisatie en worden opgesteld als een advies aan de Directeur-Generaal. De tekst van het verslag mag niet zonder toestemming van de commissie worden gewijzigd.
 
@@ -882,7 +904,7 @@ De Directeur-Generaal stelt een lijst op van deskundigen op alle relevante exper
 
 3. Het verslag van de Toetsingscommissie wordt ingediend bij de Directeur-Generaal, die het oordeel en advies zal overbrengen aan de Gezondheidsvergadering of de Uitvoerende Raad ter bestudering en met het oog op het nemen van maatregelen.
 
-#### Artikel 53. Procedures voor permanente aanbevelingen
+##### Artikel 53. Procedures voor permanente aanbevelingen
 
 Wanneer de Directeur-Generaal van oordeel is dat een permanente aanbeveling noodzakelijk en passend is voor een specifiek volksgezondheidsrisico, vraagt de Directeur-Generaal om het oordeel van de Toetsingscommissie. Naast de relevante leden van de artikelen 50 tot en met 52, zijn de volgende bepalingen van toepassing:
 
@@ -902,7 +924,7 @@ Wanneer de Directeur-Generaal van oordeel is dat een permanente aanbeveling nood
 
 ## DEEL X. SLOTBEPALINGEN
 
-#### Artikel 54. Verslaglegging en toetsing
+##### Artikel 54. Verslaglegging en toetsing
 
 1. De Staten die Partij zijn en de Directeur-Generaal brengen aan de Gezondheidsvergadering verslag uit van de implementatie van deze Regeling zoals besloten door de Gezondheidsvergadering.
 
@@ -910,7 +932,7 @@ Wanneer de Directeur-Generaal van oordeel is dat een permanente aanbeveling nood
 
 3. De WHO voert periodiek onderzoek uit teneinde de werking van [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006969&bijlage=2&z=2016-07-11&g=2016-07-11) te toetsen en te evalueren. Een eerste dergelijke toetsing vangt uiterlijk een jaar na de inwerkingtreding van deze Regeling aan. De resultaten van dergelijke toetsingen worden ter bestudering bij de Gezondheidsvergadering ingediend, naargelang van het geval.
 
-#### Artikel 55. Wijzigingen
+##### Artikel 55. Wijzigingen
 
 1. Wijzigingen van deze Regeling kunnen door elke Staat die Partij is of door de Directeur-Generaal worden voorgesteld. Dergelijke voorstellen tot wijziging worden ter bestudering bij de Gezondheidsvergadering ingediend.
 
@@ -918,7 +940,7 @@ Wanneer de Directeur-Generaal van oordeel is dat een permanente aanbeveling nood
 
 3. Wijzigingen van deze Regeling die door de Gezondheidsvergadering ingevolge dit artikel worden aangenomen, treden voor alle Staten die Partij zijn in werking onder dezelfde voorwaarden, en met inachtneming van dezelfde rechten en verplichtingen, als vervat in [artikel 22 van het Statuut van de Wereldgezondheidsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBV0005804&artikel=22) en in de artikelen 59 tot en met 64 van deze Regeling.
 
-#### Artikel 56. Regeling van geschillen
+##### Artikel 56. Regeling van geschillen
 
 1. Indien tussen twee of meer Staten die Partij zijn een geschil ontstaat met betrekking tot de interpretatie of toepassing van deze Regeling, trachten de betrokken Staten die Partij zijn in eerste instantie tot een regeling van het geschil te komen door middel van onderhandeling of andere vreedzame middelen van hun eigen keuze, met inbegrip van goede diensten, bemiddeling of verzoening. Indien geen overeenstemming kan worden bereikt, worden de partijen bij het geschil niet ontheven van de verplichting te blijven zoeken naar een oplossing voor het geschil.
 
@@ -930,7 +952,7 @@ Wanneer de Directeur-Generaal van oordeel is dat een permanente aanbeveling nood
 
 5. In geval van een geschil tussen de WHO en een of meer Staten die Partij zijn betreffende de interpretatie of toepassing van deze Regeling, wordt de kwestie voorgelegd aan de Gezondheidsvergadering.
 
-#### Artikel 57. Verhouding tot andere internationale overeenkomsten
+##### Artikel 57. Verhouding tot andere internationale overeenkomsten
 
 1. De Staten die Partij zijn, erkennen dat de IGR en andere relevante internationale overeenkomsten zodanig moeten worden geïnterpreteerd dat zij met elkaar in overeenstemming zijn. De bepalingen van de IGR doen geen afbreuk aan de rechten en verplichtingen van een Staat die Partij is die voortvloeien uit andere internationale overeenkomsten.
 
@@ -948,7 +970,7 @@ Wanneer de Directeur-Generaal van oordeel is dat een permanente aanbeveling nood
 
 3. Onverminderd hun verplichtingen ingevolge deze Regeling, passen Staten die Partij zijn die lid zijn van een regionale organisatie voor economische integratie in hun onderlinge betrekkingen de gemeenschappelijke regels toe die van kracht zijn in die organisatie voor economische integratie.
 
-#### Artikel 58. Internationale sanitaire verdragen en regelingen
+##### Artikel 58. Internationale sanitaire verdragen en regelingen
 
 1. Behoudens het bepaalde in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBV0006969&deel=X&artikel=62&z=2016-07-11&g=2016-07-11) en de hierna vastgestelde uitzonderingen, vervangt deze Regeling de volgende internationale sanitaire verdragen en regelingen voor wat betreft de betrekkingen tussen de Staten die gebonden zijn door deze Regeling en die tussen de Staten en de WHO:
 
@@ -976,7 +998,7 @@ Wanneer de Directeur-Generaal van oordeel is dat een permanente aanbeveling nood
 
 2. De Panamerikaanse Sanitaire Code, ondertekend te Havana op 14 november 1924, blijft van kracht met uitzondering van de artikelen, 2, 9, 10, 11, 16 tot en met 53, 61 en 62, waarop het relevante gedeelte van het eerste lid van dit artikel van toepassing is.
 
-#### Artikel 59. Inwerkingtreding; tijdvak voor verwerping of voorbehouden
+##### Artikel 59. Inwerkingtreding; tijdvak voor verwerping of voorbehouden
 
 1. Uit hoofde van [artikel 22 van het Statuut van de WHO](https://wetten.overheid.nl/jci1.3:c:BWBV0005804&artikel=22) wordt de tijd gedurende welke deze Regeling of een wijziging daarvan kan worden verworpen of ten aanzien ervan voorbehouden kunnen worden gemaakt, gesteld op 18 maanden met ingang van de dag van de kennisgeving door de Directeur-Generaal dat deze Regeling of een wijziging van deze Regeling door de Gezondheidsvergadering is aangenomen. Aan verwerpingen of voorbehouden die ter kennis van de Directeur-Generaal worden gebracht na het verstrijken van het genoemde tijdvak wordt geen gevolg gegeven.
 
@@ -992,15 +1014,15 @@ Wanneer de Directeur-Generaal van oordeel is dat een permanente aanbeveling nood
 
 3. Indien een Staat niet in de gelegenheid is zijn nationale wettelijke en administratieve regelingen volledig aan deze Regeling aan te passen binnen het in het tweede lid van dit artikel gestelde tijdvak, doet deze Staat binnen het in het eerste lid van dit artikel genoemde tijdvak de Directeur-Generaal een verklaring toekomen betreffende de aanpassingen die nog moeten worden gedaan en dient zij deze uiterlijk 12 maanden na de inwerkingtreding van deze Regeling voor die Staat die Partij is te verwezenlijken.
 
-#### Artikel 60. Nieuwe lidstaten van de WHO
+##### Artikel 60. Nieuwe lidstaten van de WHO
 
 Iedere Staat die lid wordt van de WHO na de in [artikel 59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006969&deel=X&artikel=59&z=2016-07-11&g=2016-07-11), bedoelde datum van kennisgeving door de Directeur-Generaal en die niet reeds partij is bij deze Regeling, kan binnen een tijdvak van twaalf maanden vanaf de datum van kennisgeving door de Directeur-Generaal aan hem nadat hij lid van de WHO is geworden, mededelen dat hij deze Regeling verwerpt of ten aanzien ervan een voorbehoud maakt. Tenzij zij verworpen wordt, treedt deze Regeling na het verstrijken van dat tijdvak ten aanzien van die Staat in werking, behoudens de bepalingen van de [artikelen 62](https://wetten.overheid.nl/jci1.3:c:BWBV0006969&deel=X&artikel=62&z=2016-07-11&g=2016-07-11) en [63](https://wetten.overheid.nl/jci1.3:c:BWBV0006969&deel=X&artikel=63&z=2016-07-11&g=2016-07-11). In geen geval treedt deze Regeling ten aanzien van die Staat eerder in werking dan 24 maanden na de datum van de in [artikel 59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006969&deel=X&artikel=59&z=2016-07-11&g=2016-07-11), bedoelde kennisgeving.
 
-#### Artikel 61. Verwerping
+##### Artikel 61. Verwerping
 
 Wanneer een Staat de Directeur-Generaal in kennis stelt van zijn verwerping van deze Regeling of van een wijziging ervan binnen het in [artikel 59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006969&deel=X&artikel=59&z=2016-07-11&g=2016-07-11), voorziene tijdvak, treedt deze Regeling of de betreffende wijziging ten aanzien van die Staat niet in werking. Internationale sanitaire verdragen of regelingen vermeld in [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBV0006969&deel=X&artikel=58&z=2016-07-11&g=2016-07-11) waarbij een dergelijke Staat reeds partij is, blijven wat deze Staat betreft van kracht.
 
-#### Artikel 62. Voorbehouden
+##### Artikel 62. Voorbehouden
 
 1. Staten kunnen ten aanzien van deze Regeling in overeenstemming met dit artikel voorbehouden maken. Dergelijke voorbehouden mogen niet onverenigbaar zijn met het onderwerp en het doel van deze Regeling.
 
@@ -1026,25 +1048,25 @@ Staten die bezwaar maken tegen een voorbehoud dienen de Directeur-Generaal de re
 
 9. De Directeur-Generaal legt het voorbehoud, en het oordeel van de Toetsingscommissie indien van toepassing, ter bestudering voor aan de Gezondheidsvergadering. Indien de Gezondheidsvergadering, met meerderheid van stemmen, bezwaar maakt tegen het voorbehoud op grond van het feit dat het onverenigbaar is met het onderwerp en het doel van deze Regeling, wordt het voorbehoud niet aanvaard en treedt deze Regeling pas in werking voor de Staat die voorbehoud maakt nadat deze zijn voorbehoud ingevolge [artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBV0006969&deel=X&artikel=63&z=2016-07-11&g=2016-07-11) heeft ingetrokken. Indien de Gezondheidsvergadering het voorbehoud aanvaardt, treedt deze Regeling in werking ten aanzien van de Staat die een voorbehoud maakt, met inachtneming van zijn voorbehoud.
 
-#### Artikel 63. Intrekking van verwerping en voorbehoud
+##### Artikel 63. Intrekking van verwerping en voorbehoud
 
 1. Een verwerping uit hoofde van [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBV0006969&deel=X&artikel=61&z=2016-07-11&g=2016-07-11) kan te allen tijde door een Staat worden ingetrokken door daarvan bij de Directeur-Generaal kennisgeving te doen. In dergelijke gevallen treedt deze Regeling ten aanzien van die Staat in werking na ontvangst van de kennisgeving door de Directeur-Generaal, tenzij de Staat een voorbehoud maakt bij de intrekking van de verwerping, in welk geval deze Regeling in werking treedt zoals voorzien in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBV0006969&deel=X&artikel=62&z=2016-07-11&g=2016-07-11). In geen geval treedt deze Regeling ten aanzien van die Staat eerder in werking dan 24 maanden na de in [artikel 59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006969&deel=X&artikel=59&z=2016-07-11&g=2016-07-11), bedoelde datum van kennisgeving.
 
 2. Een voorbehoud kan te allen tijde geheel of gedeeltelijk worden ingetrokken door de betrokken Staat die Partij is door daarvan bij de Directeur-Generaal kennisgeving te doen. In dergelijke gevallen wordt de intrekking van kracht op de datum van ontvangst van de kennisgeving door de Directeur-Generaal.
 
-#### Artikel 64. Staten die geen lid van de WHO zijn
+##### Artikel 64. Staten die geen lid van de WHO zijn
 
 1. Elke Staat die geen lid is van de WHO, die partij is bij een van de in [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBV0006969&deel=X&artikel=58&z=2016-07-11&g=2016-07-11) vermelde internationale sanitaire verdragen of regelingen of aan wie de Directeur-Generaal ter kennis heeft gebracht dat deze Regeling door de Gezondheidsvergadering is aangenomen, kan partij worden bij deze Regeling door de Directeur-Generaal kennisgeving van aanvaarding te doen. Met inachtneming van de bepalingen van [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBV0006969&deel=X&artikel=62&z=2016-07-11&g=2016-07-11) treedt een dergelijke aanvaarding in werking op de datum van inwerkingtreding van deze Regeling of, indien de kennisgeving van aanvaarding na die datum geschiedt, drie maanden na de datum van ontvangst door de Directeur-Generaal van de kennisgeving van aanvaarding.
 
 2. Elke Staat die geen lid is van de WHO die partij is geworden bij deze Regeling kan deze Regeling te allen tijde opzeggen door daarvan bij de Directeur-Generaal kennisgeving te doen; deze opzegging treedt zes maanden na de ontvangst door de Directeur-Generaal van de kennisgeving in werking. De Staat die heeft opgezegd hervat met ingang van die datum de toepassing van de bepalingen van alle in [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBV0006969&deel=X&artikel=58&z=2016-07-11&g=2016-07-11) vermelde internationale sanitaire verdragen of regelingen waarbij hij voordien partij was.
 
-#### Artikel 65. Kennisgevingen door de Directeur-Generaal
+##### Artikel 65. Kennisgevingen door de Directeur-Generaal
 
 1. De Directeur-Generaal stelt alle lidstaten en geassocieerde leden van de WHO, alsmede andere partijen bij een van de in [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBV0006969&deel=X&artikel=58&z=2016-07-11&g=2016-07-11) vermelde internationale sanitaire verdragen of regelingen, in kennis van de aanneming door de Gezondheidsvergadering van deze Regeling.
 
 2. De Directeur-Generaal stelt deze Staten, alsmede elke andere Staat die partij is geworden bij deze Regeling of bij een wijziging van deze Regeling, in kennis van alle door de WHO ontvangen kennisgevingen krachtens de artikelen 60 tot en met 64, alsmede van alle krachtens [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBV0006969&deel=X&artikel=62&z=2016-07-11&g=2016-07-11) door de Gezondheidsvergadering genomen beslissingen.
 
-#### Artikel 66. Authentieke teksten
+##### Artikel 66. Authentieke teksten
 
 1. De Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse tekst van deze Regeling zijn gelijkelijk authentiek. De originele teksten van deze Regeling worden nedergelegd bij de WHO.
 

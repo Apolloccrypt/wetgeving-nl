@@ -1,14 +1,40 @@
 ---
-title: "Wet op de architectentitel"
+title: "Wet van 7 juli 1987, houdende regelen omtrent de bescherming van de titels architect, stedebouwkundige, tuin- en landschapsarchitect en interieurarchitect"
 identifier: "BWBR0004189"
-categorie: "Overig"
-publicatiedatum: 2021-08-26
-laatste_update: 2021-08-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004189"
+country: "nl"
+rank: "wet"
+publication_date: "2021-08-26"
+last_updated: "2021-08-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004189"
+soort: "wet"
+stam_id: "1088343"
+version_id: "17224372"
+internal_id: "C25968681"
+label_id: "1055304"
+dtd_version: "2.0"
+original_entry_into_force: "2012-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004189/2021-08-26/0"
+intitule_bron: "Stb.1987-347"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1987-07-07"
+intitule_in_force: "1988-09-27"
+intitule_status: "goed"
+original_publication: "Stb.2010-130"
+original_signed_date: "2010-03-04"
+original_published_date: "2010-03-25"
+original_effect: "structuurwijziging"
+original_dossier: "32016"
+original_url_id: "stb-2010-130"
+entry_into_force_date: "2012-01-01"
+jci_1_3: "jci1.3:c:BWBR0004189&z=2021-08-26&g=2021-08-26"
+jci_1_0: "1.0:c:BWBR0004189&g=2021-08-26"
+citeertitel_status: "officieel"
+short_title: "Wet op de architectentitel"
+signed_date: "2010-03-04"
+entry_into_force: "2012-01-01"
 ---
-
-# Wet op de architectentitel
+# Wet van 7 juli 1987, houdende regelen omtrent de bescherming van de titels architect, stedebouwkundige, tuin- en landschapsarchitect en interieurarchitect
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +44,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk I. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -60,13 +86,13 @@ richtlijn: richtlijn nr. 2005/36/EG van het Europees Parlement en de Raad van de
 
 ### Hoofdstuk II. Het architectenregister
 
-#### Artikel 2
+##### Artikel 2
 
 Er is een architectenregister, waarin op verzoek wordt ingeschreven als architect, als stedenbouwkundige, als tuin- en landschapsarchitect of als interieurarchitect degene, die voldoet aan de bij of krachtens deze wet gestelde eisen.
 
 ### Hoofdstuk III. Het bureau architectenregister
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het bureau is belast met het beheer van het register.
 
@@ -86,7 +112,7 @@ Er is een architectenregister, waarin op verzoek wordt ingeschreven als architec
 
 6. Het bureau informeert het door Onze Minister op grond van [artikel 34d van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=34d) aangewezen assistentiecentrum periodiek over de werkzaamheden die het op grond van het derde en vierde lid heeft verricht en over het resultaat van de door hem op grond van het vierde lid geboden ondersteuning.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het bureau betrekt de beroepsorganisaties en de ongeorganiseerden bij de voorbereiding van de nadere eisen en regels, bedoeld in de [artikelen 12a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=2&artikel=12a&z=2021-08-26&g=2021-08-26), [12b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=2&artikel=12b&z=2021-08-26&g=2021-08-26), en [12e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVa&artikel=12e&z=2021-08-26&g=2021-08-26).
 
@@ -96,7 +122,7 @@ Er is een architectenregister, waarin op verzoek wordt ingeschreven als architec
 
 4. Indien het bureau toepassing geeft aan [artikel 27a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VI&artikel=27a&z=2021-08-26&g=2021-08-26), betrekt het de beroepsorganisaties en de ongeorganiseerden bij de voorbereiding van de in dat lid bedoelde beleidsregels. Het derde lid is van overeenkomstige toepassing op zodanig vastgestelde beleidsregels.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het bestuur bestaat uit ten hoogste drie leden. Ingeval Onze Minister het aantal bestuursleden op twee of drie stelt, benoemt hij één lid tot voorzitter.
 
@@ -104,7 +130,7 @@ Er is een architectenregister, waarin op verzoek wordt ingeschreven als architec
 
 3. Ingeval Onze Minister het aantal bestuursleden op twee of drie stelt, stelt Onze Minister, behoudens spoedeisende gevallen, de beroepsorganisaties in de gelegenheid voor één te vervullen plaats in het bestuur een gezamenlijke voordracht te doen van ten minste drie personen. Ingeval een bestuurslid voor herbenoeming in aanmerking komt, kan in plaats van een voordracht van ten minste drie personen het voorstel worden gedaan dat bestuurslid te herbenoemen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Onverminderd de overige eisen waaraan een persoon krachtens deze wet moet voldoen om op verzoek als stedenbouwkundige te worden ingeschreven in het register, dient een persoon in het bezit te zijn van:
 
@@ -124,7 +150,7 @@ Er is een architectenregister, waarin op verzoek wordt ingeschreven als architec
 
 3. Onze Minister stelt nadere regels over de inrichting welke degene die op grond van het voldoen aan een der eisen bedoeld in het eerste lid, onderdeel a, b of c, inschrijving in het register wenst te verkrijgen aan zijn opleiding moet hebben gegeven.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het bureau draagt alle kosten die uit de uitvoering van de aan hem bij deze wet opgedragen taken voortvloeien, behoudens het tweede en derde lid.
 
@@ -132,7 +158,7 @@ Er is een architectenregister, waarin op verzoek wordt ingeschreven als architec
 
 3. Onze Minister bekostigt de taken, bedoeld in [artikel 3, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&paragraaf=1&artikel=3&z=2021-08-26&g=2021-08-26).
 
-#### Artikel 8
+##### Artikel 8
 
 Het bureau stelt tarieven vast voor een vergoeding ter zake van:
 
@@ -152,7 +178,7 @@ Het bureau stelt tarieven vast voor een vergoeding ter zake van:
 
 ### Hoofdstuk IV. De inschrijving in het register
 
-#### Artikel 9
+##### Artikel 9
 
 1. Onverminderd de overige eisen waaraan een persoon krachtens deze wet moet voldoen om op verzoek als architect in het register te worden ingeschreven, dient een persoon in het bezit te zijn van:
 
@@ -180,7 +206,7 @@ Het bureau stelt tarieven vast voor een vergoeding ter zake van:
 
 3. Onze Minister stelt nadere regels over de inrichting welke degene die op grond van het voldoen aan een der eisen, bedoeld in het eerste lid, onderdeel a, b of c, inschrijving in het register wenst te verkrijgen aan zijn opleiding moet hebben gegeven.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Inschrijving in het register als stedebouwkundige wordt verleend aan degene die voldoet aan een van de volgende eisen:
 
@@ -202,7 +228,7 @@ Het bureau stelt tarieven vast voor een vergoeding ter zake van:
 
 2. Onze Minister kan nadere regels geven over de inrichting welke degene die op grond van het voldoen aan een der eisen bedoeld in het eerste lid, onder **a** tot en met **d**, inschrijving in het register wenst te verkrijgen aan zijn opleiding moet hebben gegeven.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Onverminderd de overige eisen waaraan krachtens deze wet moet worden voldaan om op verzoek als tuin- en landschapsarchitect te worden ingeschreven in het register, dient een persoon in het bezit te zijn van:
 
@@ -222,7 +248,7 @@ Het bureau stelt tarieven vast voor een vergoeding ter zake van:
 
 3. Onze Minister van Landbouw, Natuur en Voedselkwaliteit stelt nadere regels over de inrichting welke degene die op grond van het voldoen aan een der eisen, bedoeld in het eerste lid, onderdeel a, b of c, inschrijving in het register wenst te verkrijgen aan zijn opleiding moet hebben gegeven.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Onverminderd de overige eisen waaraan krachtens deze wet moet worden voldaan om op verzoek als interieurarchitect te worden ingeschreven in het register, dient een persoon in het bezit te zijn van:
 
@@ -242,7 +268,7 @@ Het bureau stelt tarieven vast voor een vergoeding ter zake van:
 
 3. Onze Minister stelt nadere regels over de inrichting welke degene die op grond van het voldoen aan een der eisen, bedoeld in het eerste lid, onderdeel a, b of c, inschrijving in het register wenst te verkrijgen aan zijn opleiding moet hebben gegeven.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Een persoon die in het register wenst te worden ingeschreven, dient daartoe een verzoek in bij het bureau. Een verzoek gaat vergezeld van de stukken aan de hand waarvan het bureau de identiteit, de opleiding en de beroepservaring van de verzoeker kan vaststellen.
 
@@ -256,7 +282,7 @@ Het bureau stelt tarieven vast voor een vergoeding ter zake van:
 
 6. Indien het bureau toepassing geeft aan [artikel 11 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=11) houdt het het besluit omtrent de erkenning aan overeenkomstig [artikel 19, derde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=19). Het derde en vierde lid van dat artikel zijn van overeenkomstige toepassing.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Het bureau draagt zorg dat na het nemen van een besluit tot inschrijving ten spoedigste inschrijving van de verzoeker in het register plaatsvindt.
 
@@ -264,15 +290,15 @@ Het bureau stelt tarieven vast voor een vergoeding ter zake van:
 
 3. Het bureau verstrekt de aanvrager onmiddellijk na de inschrijving in het register een bewijs van inschrijving.
 
-#### Artikel 15
+##### Artikel 15
 
 Het bureau kan bepalen dat de indiener van het verzoek in persoon voor hem zal verschijnen. De oproeping maakt van een zodanig besluit melding.
 
-#### Artikel 16
+##### Artikel 16
 
 Dadelijk na inschrijving in het register en voorts telkens na verloop van een jaar is de ingeschrevene de krachtens [artikel 8, aanhef en onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&paragraaf=3&artikel=8&z=2021-08-26&g=2021-08-26), vastgestelde vergoeding verschuldigd.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Het bureau haalt een inschrijving in het register door:
 
@@ -292,35 +318,35 @@ Dadelijk na inschrijving in het register en voorts telkens na verloop van een ja
 
 5. Het bureau houdt aantekening van de doorhalingen en van de data waarop deze zijn geschied.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Degene, van wie de inschrijving op grond van [artikel 17, eerste lid, onderdeel b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVb&artikel=17&z=2021-08-26&g=2021-08-26), is doorgehaald, kan het bureau verzoeken de doorhaling ongedaan te maken.
 
 2. Het in het eerste lid bedoelde verzoek wordt niet in behandeling genomen zolang niet de krachtens [artikel 8, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&paragraaf=3&artikel=8&z=2021-08-26&g=2021-08-26), vastgestelde vergoeding is betaald, en zolang niet de reeds vóór het tijdstip van doorhaling verschuldigde, maar nog niet betaalde vergoedingen als bedoeld in artikel 8, aanhef en onderdeel d, zijn voldaan.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Het bureau maakt binnen vier weken na ontvangst van het verzoek, bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVb&artikel=18&z=2021-08-26&g=2021-08-26), de doorhaling ongedaan.
 
 2. [Artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVb&artikel=14&z=2021-08-26&g=2021-08-26), is van overeenkomstige toepassing.
 
-#### Artikel 20
+##### Artikel 20
 
 Voor de toepassing van het bepaalde in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVb&artikel=16&z=2021-08-26&g=2021-08-26), geldt het tijdstip waarop een doorhaling ongedaan is gemaakt als tijdstip van inschrijving in het register.
 
-#### Artikel 21
+##### Artikel 21
 
 Vervallen
 
 ### Hoofdstuk V. Titelbescherming
 
-#### Artikel 22
+##### Artikel 22
 
 1. Het bureau doet aan iedere verzoeker schriftelijk opgave of een persoon in het register staat ingeschreven en onder welke titel.
 
 2. Na ontvangst van de opgave, bedoeld in het eerste lid, kan de verzoeker inzage verlangen in de stukken, die aan de inschrijving ten grondslag liggen. De inzage geschiedt, na de indiening bij het bureau van een daartoe strekkend schriftelijk verzoek, op een door het bureau te bepalen tijdstip ten kantore van het bureau.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Gerechtigd tot het voeren van de titel van architect, stedenbouwkundige, tuin- en landschapsarchitect of interieurarchitect of een afkorting van die titel, hetzij zonder nadere aanduiding, hetzij in woordsamenstellingen waarin de titel of een afkorting daarvan voorkomt, is uitsluitend hij die onder deze titel in het register staat ingeschreven.
 
@@ -332,7 +358,7 @@ Vervallen
 
 5. Het eerste tot en met vierde lid is niet van toepassing met betrekking tot het voeren van een titel als bedoeld in het eerste lid, of een afkorting van die titel, hetzij zonder nadere aanduiding, hetzij in een woordsamenstelling waarin die titel of een afkorting daarvan voorkomt, indien degene die gebruik maakt van die titel of afkorting geen werkzaamheden verricht die overeenkomen met werkzaamheden die in het economisch verkeer worden verricht door een architect, stedenbouwkundige, tuin- en landschapsarchitect of interieurarchitect.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Onverminderd [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=V&artikel=23&z=2021-08-26&g=2021-08-26), is degene die voldoet aan [artikel 9, eerste lid, onderdeel d, e, f, g, h of i](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=9&z=2021-08-26&g=2021-08-26), [10, eerste lid, onderdeel d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=10&z=2021-08-26&g=2021-08-26), [11, eerste lid, onderdeel d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=11&z=2021-08-26&g=2021-08-26), of [12, eerste lid, onderdeel d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=12&z=2021-08-26&g=2021-08-26), gerechtigd gebruik te maken van de wettige in een andere betrokken staat gevoerde titel of afkorting daarvan in de officiële taal van die staat of in één van de officiële talen van die staat.
 
@@ -340,27 +366,27 @@ Vervallen
 
 ### Hoofdstuk IVa. Beroepservaringperiode
 
-#### Artikel 25
+##### Artikel 25
 
 Vervallen
 
-#### Artikel 26
+##### Artikel 26
 
 Vervallen
 
-#### Artikel 27
+##### Artikel 27
 
 Vervallen
 
 ### Hoofdstuk VI. Examens
 
-#### Artikel 28
+##### Artikel 28
 
 1. Onverminderd de doorhaling van een inschrijving in het register krachtens [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVb&artikel=17&z=2021-08-26&g=2021-08-26) blijft degene die in het register is ingeschreven door de Stichting bureau architectenregister ingeschreven in het register.
 
 2. Een persoon van wie de inschrijving in het register door de Stichting bureau architectenregister is doorgehaald, kan het bureau verzoeken de doorhaling ongedaan te maken. Op dat verzoek en de behandeling daarvan zijn de [artikelen 18 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVb&artikel=18&z=2021-08-26&g=2021-08-26) van toepassing.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Een persoon kan op verzoek in het register worden ingeschreven als architect, stedenbouwkundige, tuin- en landschapsarchitect of interieurarchitect op grond van een ander door hem in Nederland behaald getuigschrift dan genoemd in [artikel 9, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=9&z=2021-08-26&g=2021-08-26), [10, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=10&z=2021-08-26&g=2021-08-26), [11, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=11&z=2021-08-26&g=2021-08-26), [12, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=12&z=2021-08-26&g=2021-08-26), indien:
 
@@ -376,57 +402,57 @@ Vervallen
 
 - b. dat getuigschrift op de dag voorafgaand aan het tijdstip, bedoeld in het eerste lid, onderdeel a, recht gaf op inschrijving in het register.
 
-#### Artikel 30
+##### Artikel 30
 
 Een persoon die op het tijdstip, bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VIIa&artikel=28&z=2021-08-26&g=2021-08-26), of die daarna krachtens [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VIIa&artikel=29&z=2021-08-26&g=2021-08-26), in het register is ingeschreven als architect, stedenbouwkundige of tuin- en landschapsarchitect kan een overeenkomstig verzoek doen als bedoeld in [artikel 12a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=2&artikel=12a&z=2021-08-26&g=2021-08-26), indien hij voldoet aan de krachtens dat lid gestelde nadere eisen.
 
-#### Artikel 31
+##### Artikel 31
 
 Vervallen
 
-#### Artikel 32
+##### Artikel 32
 
 Vervallen
 
-#### Artikel 33
+##### Artikel 33
 
 Vervallen
 
-#### Artikel 34
+##### Artikel 34
 
 Vervallen
 
-#### Artikel 35
+##### Artikel 35
 
 Vervallen
 
-#### Artikel 36
+##### Artikel 36
 
 Vervallen
 
-#### Artikel 37
+##### Artikel 37
 
 Vervallen
 
-#### Artikel 38
+##### Artikel 38
 
 Vervallen
 
-#### Artikel 39
+##### Artikel 39
 
 Vervallen
 
-#### Artikel 40
+##### Artikel 40
 
 Vervallen
 
-#### Artikel 41
+##### Artikel 41
 
 Vervallen
 
 ### Hoofdstuk VII. Bij- en nascholing
 
-#### Artikel 42
+##### Artikel 42
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, met uitzondering van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=V&artikel=23&z=2021-08-26&g=2021-08-26) dat vijf jaar nadien in werking treedt.
 
@@ -434,11 +460,11 @@ Vervallen
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 9a
+##### Artikel 9a
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 1. Inschrijving in het register als stedenbouwkundige wordt verleend aan degene die voldoet aan een van de volgende eisen:
 
@@ -480,7 +506,7 @@ Vervallen
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 27a
+##### Artikel 27a
 
 1. Behoudens het tweede lid is een persoon die is ingeschreven in het register gehouden om door middel van bij- en nascholing de ontwikkelingen op zijn vakgebied bij te houden in ten minste 16 uur per jaar.
 
@@ -494,7 +520,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ### Hoofdstuk VIIa. Dienstverrichting op het gebied van architectuur, stedenbouw, tuin- en landschapsarchitectuur en interieurarchitectuur
 
-#### Artikel 27b
+##### Artikel 27b
 
 1. Een dienstverrichter die niet in het register is ingeschreven, voert in Nederland uitsluitend de beroepstitel die hij voert in de betrokken staat waar hij is gevestigd in de officiële taal van die staat of in één van de officiële talen van die staat. Indien die titel in de betrokken staat waar hij is gevestigd niet bestaat treedt de dienstverrichter in Nederland op onder vermelding van de titel die bij zijn opleiding hoort in de officiële taal van de staat waar hij is gevestigd of in één van de officiële talen van die staat.
 
@@ -514,7 +540,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 6. De inschrijving van een dienstverrichter of de verlenging van die inschrijving wordt geëffectueerd zodra het bureau de krachtens [artikel 8, aanhef en onderdeel a of d](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&paragraaf=3&artikel=8&z=2021-08-26&g=2021-08-26), vastgestelde vergoeding heeft ontvangen.
 
-#### Artikel 27c
+##### Artikel 27c
 
 1. Het bureau kan bij of aan een bestuursorgaan gegevens van een dienstverrichter opvragen of verstrekken voor zover noodzakelijk voor de afhandeling van een klacht van een afnemer over de dienstverrichter in het kader van zijn dienstverrichting.
 
@@ -526,7 +552,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 3a
+##### Artikel 3a
 
 1. Voor de toepassing van [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&paragraaf=1&artikel=3&z=2021-08-26&g=2021-08-26), wordt, voor zover het de verstrekking van strafrechtelijke sancties betreft, een verklaring omtrent het gedrag aangemerkt als informatie omtrent strafrechtelijke sancties.
 
@@ -536,7 +562,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 4. Het bureau kan bij een bevoegde autoriteit uit een andere betrokken staat een verzoek indienen als bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&paragraaf=1&artikel=3&z=2021-08-26&g=2021-08-26), mits het verzoek deugdelijk is gemotiveerd.
 
-#### Artikel 3b
+##### Artikel 3b
 
 1. Voor de toepassing van de [artikelen 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=32), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=34), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=35) en [36 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=36) wordt als aanvrager aangemerkt de persoon die krachtens [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVb&artikel=13&z=2021-08-26&g=2021-08-26) is ingeschreven in het register of die op grond van dat artikel een verzoek tot inschrijving in het register heeft gedaan ten aanzien van wie de verklaring omtrent het gedrag wordt gevraagd.
 
@@ -544,7 +570,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 3. Indien de persoon, bedoeld in het eerste lid, geen instemming verleent, bericht Onze Minister van Justitie dit aan de bevoegde autoriteit uit een andere betrokken staat die de verklaring omtrent het gedrag heeft aangevraagd.
 
-#### Artikel 3c
+##### Artikel 3c
 
 1. Onze Minister van Justitie informeert de persoon, bedoeld in [artikel 3b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&paragraaf=1&artikel=3b&z=2021-08-26&g=2021-08-26), ten aanzien van wie de verklaring omtrent het gedrag wordt gevraagd indien hij voornemens is de afgifte van de verklaring omtrent het gedrag te weigeren.
 
@@ -556,7 +582,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ### Hoofdstuk IV. De inschrijving in het register
 
-#### Artikel 13
+##### Artikel 13
 
 1. Degene die van zijn ingevolge het bepaalde in de [artikelen 9 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=9&z=2009-12-28&g=2009-12-28) bestaande recht tot inschrijving in het register gebruik wenst te maken, dient bij het bureau een verzoek tot inschrijving in op een formulier waarvan het model door het bureau wordt vastgesteld. Het verzoek gaat vergezeld door stukken waaruit het bureau de opleiding van de verzoeker kan vaststellen. Een verzoek wordt geacht niet te zijn ingediend zolang niet een inschrijfgeld is betaald, indien en voorzover ingevolge het bepaalde in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&artikel=7&z=2009-12-28&g=2009-12-28) hiervoor een bedrag is vastgesteld.
 
@@ -578,7 +604,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 #### § 1. Het bureau
 
-#### Artikel 2a
+##### Artikel 2a
 
 1. Er is een bureau architectenregister. Het bureau bezit rechtspersoonlijkheid en is gevestigd te Den Haag.
 
@@ -586,7 +612,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 #### § 2. Het bestuur
 
-#### Artikel 6
+##### Artikel 6
 
 Het bestuur stelt een bestuursreglement vast.
 
@@ -598,7 +624,7 @@ Het bestuur stelt een bestuursreglement vast.
 
 #### § 2. Overige kwalificaties
 
-#### Artikel 12d
+##### Artikel 12d
 
 1. Een persoon die in het bezit is van een getuigschrift van een opleiding als bedoeld in [artikel 9, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=9&z=2021-08-26&g=2021-08-26), [10, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=10&z=2021-08-26&g=2021-08-26), [11, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=11&z=2021-08-26&g=2021-08-26), of [12, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=12&z=2021-08-26&g=2021-08-26), waarvan de inrichting voldoet aan de voorschriften, bedoeld in het derde lid van die artikelen, wordt op verzoek in het register ingeschreven, indien hij met goed gevolg de tweejarige beroepservaringperiode, bedoeld in [artikel 12e](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVa&artikel=12e&z=2021-08-26&g=2021-08-26), heeft afgesloten of een naar het oordeel van het bureau daarmee vergelijkbare beroepservaring heeft opgedaan.
 
@@ -614,7 +640,7 @@ Het bestuur stelt een bestuursreglement vast.
 
 4. Het bureau erkent de in een andere betrokken staat gevolgde beroepservaringperiode, indien deze in overeenstemming is met de regels, bedoeld in [artikel 12e](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVa&artikel=12e&z=2021-08-26&g=2021-08-26), en houdt rekening met de in een derde land gevolgde beroepservaringperiode. Een erkenning van een beroepservaringperiode als bedoeld in de eerste volzin vervangt niet een voor de toegang tot het desbetreffende beroep verplicht af te leggen examen.
 
-#### Artikel 12e
+##### Artikel 12e
 
 1. De tweejarige beroepservaringperiode is gericht op het zich in de praktijk bekwamen in de uitoefening van het beroep waarvoor met goed gevolg een opleiding is gevolgd als bedoeld in [artikel 9, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=9&z=2021-08-26&g=2021-08-26), [10, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=10&z=2021-08-26&g=2021-08-26), [11, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=11&z=2021-08-26&g=2021-08-26), of [12, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=12&z=2021-08-26&g=2021-08-26), onder toezicht van een door het bureau erkende persoon of instantie. De in de eerste volzin bedoelde persoon dient bij aanvang van het toezicht blijkens de inschrijving in het register ten minste drie jaar beroepsmatig werkzaam te zijn in datzelfde beroep.
 
@@ -634,7 +660,7 @@ Het bestuur stelt een bestuursreglement vast.
 
 - g. een voorziening in geval van een conflict tussen de toezichthoudende persoon of instantie en de persoon die onder toezicht staat.
 
-#### Artikel 23a
+##### Artikel 23a
 
 1. Een bureau dat werkzaam is op het gebied van architectuur, stedenbouw, tuin- en landschapsarchitectuur of interieurarchitectuur is slechts gerechtigd in of bij zijn naam een titel als bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=V&artikel=23&z=2021-08-26&g=2021-08-26), of een afkorting van die titel, hetzij zonder nadere aanduiding, hetzij in een woordsamenstelling waarin die titel of een afkorting daarvan voorkomt, te voeren, indien de bestuurder van dat bureau of ten minste de helft van de bestuurders krachtens deze wet gerechtigd is om de desbetreffende titel te voeren.
 
@@ -644,7 +670,7 @@ Het bestuur stelt een bestuursreglement vast.
 
 ### Hoofdstuk VI. Examens
 
-#### Artikel 27aa
+##### Artikel 27aa
 
 Degene die is ingeschreven in het register informeert de persoon die hem een offerte vraagt over zijn relevante deskundigheid en vakbekwaamheid, met inbegrip van zijn bij- en nascholingsactiviteiten, de dekking van de door hem te verrichten werkzaamheden door een beroepsaansprakelijkheidsverzekering, diens rechten en plichten jegens hem als opdrachtgever en de borging daarvan, alsmede over diens rechten en plichten jegens een derde, ingeval die derde het werk heeft ontworpen waarop de offerte betrekking heeft of werkzaamheden heeft gestaakt die blijkens de offerte dienen te worden hervat.
 
@@ -654,7 +680,7 @@ Degene die is ingeschreven in het register informeert de persoon die hem een off
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 12a
+##### Artikel 12a
 
 1. Het bureau kan, gehoord een door hem ingestelde commissie van deskundigen, een persoon, die werkzaam is op het gebied van architectuur, stedenbouw, tuin- en landschapsarchitectuur of interieurarchitectuur en die zich door de kwaliteit van zijn prestaties op het betreffende gebied naar het oordeel van het bureau in het bijzonder heeft onderscheiden, een certificaat verlenen op grond waarvan hij zich kan doen inschrijven in het register.
 
@@ -664,7 +690,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 4. Het bureau hoort een door hem ingestelde commissie van deskundigen alvorens te beslissen op een verzoek als bedoeld in het tweede lid.
 
-#### Artikel 12b
+##### Artikel 12b
 
 1. Ten minste eenmaal per jaar geeft het bureau de gelegenheid tot het afleggen van een examen voor architecten, stedenbouwkundigen, tuin- en landschapsarchitecten en interieurarchitecten. Het bureau stelt voor elk van die disciplines een aparte examencommissie in.
 
@@ -684,7 +710,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 4. Een persoon die met goed gevolg het examen, bedoeld in het eerste lid, heeft afgelegd, kan op diens verzoek worden ingeschreven in het register.
 
-#### Artikel 12c
+##### Artikel 12c
 
 1. Een persoon die in het bezit is van een opleidingstitel op het gebied van architectuur als bedoeld in artikel 21 van de richtlijn, of van een opleidingstitel als bedoeld in [artikel 10, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=10&z=2021-08-26&g=2021-08-26), [11, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=11&z=2021-08-26&g=2021-08-26), of [12, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=12&z=2021-08-26&g=2021-08-26), wordt in het register ingeschreven indien hij in de staat, waar hij die opleidingstitel heeft behaald, gerechtigd is beroepsmatig werkzaamheden te verrichten op het gebied van architectuur, stedenbouw, tuin- en landschapsarchitectuur of interieurarchitectuur of indien hij met goed gevolg de tweejarige beroepservaringperiode, bedoeld in [artikel 12e](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVa&artikel=12e&z=2021-08-26&g=2021-08-26), heeft afgesloten of een naar het oordeel van het bureau daarmee vergelijkbare beroepservaring heeft opgedaan.
 

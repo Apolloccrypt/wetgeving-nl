@@ -1,13 +1,36 @@
 ---
-title: "Rijkswet houdende verdeling van het bedrag bedoeld in de overeenkomst tussen het Koninkrijk der Nederlanden en de Unie van Socialistische Sowjetrepublieken inzake de regeling van wederzijdse financiële en eigendomsvorderingen"
+title: "RIJKSWET van 11 februari 1971, houdende verdeling van het bedrag bedoeld in de Overeenkomst tussen het Koninkrijk der Nederlanden en de Unie van Socialistische Sowjetrepublieken inzake de regeling van wederzijdse financiële en eigendomsvorderingen, van 20 oktober 1967 (Trb. 1967, 195, laatstelijk Trb. 1969, 11)"
 identifier: "BWBR0002749"
-categorie: "Burgerlijk recht"
-publicatiedatum: 1971-07-01
-laatste_update: 1971-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002749"
+country: "nl"
+rank: "rijkswet"
+publication_date: "1971-07-01"
+last_updated: "1971-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002749"
+soort: "rijkswet"
+stam_id: "200053"
+version_id: "273702"
+internal_id: "C273701"
+label_id: "197374"
+dtd_version: "2.0"
+original_entry_into_force: "1971-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002749/1971-07-01/0"
+intitule_bron: "Stb.1971-60"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1971-02-11"
+intitule_status: "goed"
+original_publication: "Stb.1971-60"
+original_signed_date: "1971-02-11"
+original_effect: "nieuwe-regeling"
+original_dossier: "10665"
+entry_into_force_date: "1971-07-01"
+jci_1_3: "jci1.3:c:BWBR0002749&z=1971-07-01&g=1971-07-01"
+jci_1_0: "1.0:c:BWBR0002749&g=1971-07-01"
+citeertitel_status: "officieel"
+short_title: "Rijkswet houdende verdeling van het bedrag bedoeld in de overeenkomst tussen het Koninkrijk der Nederlanden en de Unie van Socialistische Sowjetrepublieken inzake de regeling van wederzijdse financiële en eigendomsvorderingen"
+signed_date: "1971-02-11"
+entry_into_force: "1971-07-01"
 ---
-
 # RIJKSWET van 11 februari 1971, houdende verdeling van het bedrag bedoeld in de Overeenkomst tussen het Koninkrijk der Nederlanden en de Unie van Socialistische Sowjetrepublieken inzake de regeling van wederzijdse financiële en eigendomsvorderingen, van 20 oktober 1967 (Trb. 1967, 195, laatstelijk Trb. 1969, 11)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
@@ -18,7 +41,7 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van deze Rijkswet wordt verstaan onder:
 
@@ -34,7 +57,7 @@ Voor de toepassing van deze Rijkswet wordt verstaan onder:
 
 - f. Gerechtshof: het Gerechtshof te 's-Gravenhage.
 
-#### Artikel 2
+##### Artikel 2
 
 Het bedrag van de schadeloosstelling vermeld in artikel 1 van de Overeenkomst, wordt verdeeld als volgt:
 
@@ -44,7 +67,7 @@ Het bedrag van de schadeloosstelling vermeld in artikel 1 van de Overeenkomst, w
 
 ### Hoofdstuk 2. De Commissie
 
-#### Artikel 3
+##### Artikel 3
 
 1. Onze Minister van Justitie benoemt een Commissie, bestaande uit een voorzitter en ten minste twee leden.
 
@@ -52,21 +75,21 @@ Het bedrag van de schadeloosstelling vermeld in artikel 1 van de Overeenkomst, w
 
 3. Met uitzondering van het nemen van een beslissing omtrent het erkennen van een vordering en het vaststellen van het bedrag daarvan, alsmede omtrent het verlagen van een vordering als bedoeld in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002749&hoofdstuk=3&titeldeel=2&artikel=13&z=1971-07-01&g=1971-07-01), kunnen alle taken, bij deze Rijkswet aan de Commissie opgedragen, door haar worden gedelegeerd aan de Voorzitter of een harer leden.
 
-#### Artikel 4
+##### Artikel 4
 
 Onze Minister van Justitie heeft de bevoegdheid de Voorzitter of een lid der Commissie te allen tijde, na hem gehoord of behoorlijk opgeroepen te hebben, te ontslaan en door een ander te vervangen, of de Commissie met een of meer leden of plaatsvervangende leden uit te breiden.
 
-#### Artikel 5
+##### Artikel 5
 
 De benoeming en het ontslag van de Voorzitter en de leden van de Commissie worden door Onze Minister van Justitie in de **Nederlandse Staatscourant** bekend gemaakt.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Onze Minister van Justitie benoemt een regeringsvertegenwoordiger bij de Commissie.
 
 2. Op verzoek van de Commissie kan Onze Minister van Justitie aan de Commissie, hetzij voor de gehele duur van haar werkzaamheden, hetzij voor bepaalde werkzaamheden een secretaris toevoegen.
 
-#### Artikel 7
+##### Artikel 7
 
 Het salaris van de Voorzitter, de leden en de secretaris en de vergoeding van de ter uitvoering van deze Rijkswet door de Vereeniging gemaakte kosten worden bepaald door Onze Minister van Justitie.
 
@@ -74,7 +97,7 @@ Het salaris van de Voorzitter, de leden en de secretaris en de vergoeding van de
 
 ## Titel 1. De termijn van indiening van de vorderingen
 
-#### Artikel 8
+##### Artikel 8
 
 1. De Commissie bepaalt zo spoedig mogelijk de dag waarop uiterlijk de vorderingen moeten worden ingediend.
 
@@ -86,13 +109,13 @@ Het salaris van de Voorzitter, de leden en de secretaris en de vergoeding van de
 
 ## Titel 2. De verificatie van de vorderingen der schuldeisers, niet zijnde obligatiehouders
 
-#### Artikel 9
+##### Artikel 9
 
 1. De indiening van de vorderingen der schuldeisers, voor zover geen obligatiehouder in de zin dezer Rijkswet, geschiedt bij de Commissie door schriftelijke opgave van de aard en het ontstaan van de vordering, zo mogelijk vergezeld van de bewijsstukken waaruit van het bestaan van de vordering en van de grootte daarvan blijkt.
 
 2. De schuldeisers zijn bevoegd een ontvangbewijs te vorderen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De Commissie treedt, zo zij daarvoor termen aanwezig acht, met de schuldeiser in overleg omtrent de erkenning van de vordering en de vaststelling van het bedrag daarvan. Zij is bevoegd overlegging van ontbrekende stukken, alsook inzage van aantekeningen en bewijsstukken te vorderen.
 
@@ -100,11 +123,11 @@ Het salaris van de Voorzitter, de leden en de secretaris en de vergoeding van de
 
 3. Indien de Commissie voor de beoordeling van de vordering inlichtingen behoeft uit het buitenland, wendt zij zich te dezer zake tot Onze Minister van Buitenlandse Zaken.
 
-#### Artikel 11
+##### Artikel 11
 
 De Commissie is niet aan wettelijke bewijsvoorschriften gebonden.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De Commissie kan andere personen dan de schuldeiser, die voor haar zijn verschenen tot het verstrekken van inlichtingen, verzoeken hun verklaring onder ede af te leggen.
 
@@ -112,7 +135,7 @@ De Commissie is niet aan wettelijke bewijsvoorschriften gebonden.
 
 3. Ter aanvulling van onvolledig bewijs kan de Commissie aan de schuldeiser een eed opleggen omtrent de waarheid van door hem verstrekte inlichtingen of gedane mededelingen. Het vorige lid is van overeenkomstige toepassing.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Tenzij de Commissie om bepaalde, in de beslissing te vermelden redenen meent anders te moeten oordelen, wordt als grondslag voor de vaststelling van het bedrag der vordering aangenomen de waarde van het getroffen belang op het tijdstip waarop de schade werd geleden.
 
@@ -122,11 +145,11 @@ De Commissie is niet aan wettelijke bewijsvoorschriften gebonden.
 
 4. De Commissie kan, indien haar blijkt dat terzake van hetzelfde belang reeds krachtens een andere internationale overeenkomst recht op schadevergoeding bestaat, daarmede bij de vaststelling van het bedrag der vordering rekening houden.
 
-#### Artikel 14
+##### Artikel 14
 
 Wanneer verschillende personen erkenning vragen van vorderingen, betrekking hebbende op dezelfde schade, en het voor de vraag of de vordering zal worden erkend, en op welk bedrag zij zal worden vastgesteld, onverschillig is wie van deze personen schuldeiser is, kan de Commissie volstaan met een beslissing omtrent de erkenning van de vordering, alsmede tot vaststelling van het bedrag daarvan, zonder te bepalen aan wie van bedoelde personen de vordering toekomt.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De Commissie geeft op elke vordering een met redenen omklede beslissing, nadat zij de regeringsvertegenwoordiger in de gelegenheid heeft gesteld om schriftelijk advies aan haar uit te brengen.
 
@@ -136,13 +159,13 @@ Wanneer verschillende personen erkenning vragen van vorderingen, betrekking hebb
 
 ## Titel 3. De verificatie van de vorderingen der obligatiehouders
 
-#### Artikel 16
+##### Artikel 16
 
 1. De indiening van de vorderingen van de obligatiehouders geschiedt bij het kantoor van de Vereeniging of bij een, door de Vereeniging aan te wijzen kantoor, door schriftelijke opgave van naam, aantal, nummer en nominale waarde van de obligaties, vergezeld van de waardepapieren zelf, bestaande uit mantel, talon en niet-verzilverde coupons.
 
 2. De houders zijn bevoegd een ontvangbewijs te vorderen.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Binnen zes maanden na de in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002749&hoofdstuk=3&titeldeel=1&artikel=8&z=1971-07-01&g=1971-07-01), bedoelde dag zendt de Vereeniging aan de Commissie een advies omtrent de bij haar ingediende vorderingen, bestaande in een lijst van vorderingen, welke naar haar oordeel voor erkenning in aanmerking komen en een lijst van vorderingen welke naar haar oordeel niet voor erkenning in aanmerking komen. Vorderingen uit hoofde van niet-verzilverde coupons worden buiten beschouwing gelaten.
 
@@ -150,7 +173,7 @@ Wanneer verschillende personen erkenning vragen van vorderingen, betrekking hebb
 
 3. Tenzij de Commissie om bepaalde in de beslissing te vermelden redenen meent anders te moeten oordelen, wordt als grondslag voor de vaststelling van het bedrag der vordering van een obligatiehouder aangenomen de in de Nederlandse geldseenheid omgerekende nominale waarde van de obligatie.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De Commissie beslist omtrent de erkenning der vorderingen en de vaststelling van het bedrag daarvan. [Artikel 13, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002749&hoofdstuk=3&titeldeel=2&artikel=13&z=1971-07-01&g=1971-07-01), en [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002749&hoofdstuk=3&titeldeel=2&artikel=14&z=1971-07-01&g=1971-07-01) zijn van overeenkomstige toepassing. Indien de Commissie een vordering niet erkent, vermeldt zij in de beslissing de gronden van de niet-erkenning.
 
@@ -158,7 +181,7 @@ Wanneer verschillende personen erkenning vragen van vorderingen, betrekking hebb
 
 ### Hoofdstuk 4. Beroep
 
-#### Artikel 19
+##### Artikel 19
 
 1. De schuldeiser wiens vordering door de Commissie niet is erkend, of die zich niet kan verenigen met het bedrag waarop de Commissie zijn vordering heeft vastgesteld, of wiens vordering met toepassing van [artikel 13, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002749&hoofdstuk=3&titeldeel=2&artikel=13&z=1971-07-01&g=1971-07-01), is verlaagd, alsmede de regeringsvertegenwoordiger bij de Commissie, kunnen aan het Gerechtshof verzoeken de beslissing der Commissie te vernietigen.
 
@@ -168,7 +191,7 @@ Wanneer verschillende personen erkenning vragen van vorderingen, betrekking hebb
 
 4. Mededelingen of bescheiden, bestemd voor de Commissie of voor de regeringsvertegenwoordiger worden geadresseerd aan het departement van Onze Minister van Justitie.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Het Gerechtshof bepaalt dag en uur waarop de behandeling aanvangt en gelast de oproeping van de verzoeker en de Commissie, alsmede van de regeringsvertegenwoordiger of, indien het verzoekschrift is ingediend door de regeringsvertegenwoordiger, de belanghebbende schuldeiser, teneinde hen op het verzoekschrift te horen.
 
@@ -176,7 +199,7 @@ Wanneer verschillende personen erkenning vragen van vorderingen, betrekking hebb
 
 3. De behandeling geschiedt in raadkamer. Na afloop van de behandeling bepaalt het Gerechtshof de dag, waarop het de beschikking zal geven.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Het Gerechtshof beslist bij met reden omklede beschikking.
 
@@ -186,7 +209,7 @@ Wanneer verschillende personen erkenning vragen van vorderingen, betrekking hebb
 
 ### Hoofdstuk 5. Uitdeling
 
-#### Artikel 22
+##### Artikel 22
 
 1. Nadat alle gedingen, bedoeld in het vorige artikel, zijn geëindigd, maakt de Commissie afzonderlijke lijsten op van de erkende vorderingen van de schuldeisers, geen obligatiehouders zijnde en van de obligatiehouders, en vermeldt daarop bij elke vordering het bedrag, waarop deze is vastgesteld. Een afschrift van deze uitdelingslijsten wordt door de Commissie toegezonden aan de erkende schuldeisers niet zijnde obligatiehouders, aan de Vereeniging, en aan Onze Minister van Buitenlandse Zaken.
 
@@ -194,31 +217,31 @@ Wanneer verschillende personen erkenning vragen van vorderingen, betrekking hebb
 
 3. Onze Minister van Buitenlandse Zaken kan, op voorstel van de Commissie of na deze gehoord te hebben, te allen tijde bepalen dat er op de erkende vorderingen een voorlopige uitkering zal worden gedaan. De grootte van deze uitkering wordt door Onze Minister van Buitenlandse Zaken bepaald.
 
-#### Artikel 23
+##### Artikel 23
 
 Indien ten tijde van de uitdeling er gevallen zijn, waarin krachtens [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002749&hoofdstuk=3&titeldeel=2&artikel=14&z=1971-07-01&g=1971-07-01) een beslissing over de vraag aan welke persoon een bepaalde vordering toekomt, niet is genomen en niet inmiddels op andere wijze is komen vast te staan aan wie de vordering toekomt, wordt het voor uitkering vatbare bedrag waarvoor zodanige vordering op de in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002749&hoofdstuk=5&artikel=22&z=1971-07-01&g=1971-07-01), bedoelde lijsten voorkomt, door Onze Minister van Buitenlandse Zaken gestort in de consignatiekas ten behoeve van degeen die daarop uiteindelijk zal blijken rechthebbende te zijn.
 
-#### Artikel 24
+##### Artikel 24
 
 De uitkeringen geschieden tegen finale kwijting, door de schuldeisers aan Onze Minister van Buitenlandse Zaken af te geven bij de slotuitkering.
 
 ### Hoofdstuk 6. Slotbepalingen
 
-#### Artikel 25
+##### Artikel 25
 
 1. Waardepapieren, schuldbewijzen en andere bewijsstukken, welke door schuldeisers zijn overgelegd, hetzij aan de Commissie, hetzij aan het Gerechtshof, hetzij aan de Vereeniging, worden overgedragen aan Onze Minister van Buitenlandse Zaken, die daarmede handelt overeenkomstig hetgeen in de Overeenkomst is voorgeschreven. Schuldeisers die aantonen daaraan behoefte te hebben, kunnen, zolang die bescheiden onder Onze Minister van Buitenlandse Zaken berusten, deze verzoeken afschriften daarvan aan hen ter hand te stellen. Onze Minister van Buitenlandse Zaken is bevoegd, in zodanig geval op die afschriften te vermelden dat terzake van de rechten waarop zij betrekking hebben, door de schuldeiser finale kwijting is verleend.
 
 2. Stukken die niet krachtens de Overeenkomst aan de Regering van de Unie van Socialistische Sowjetrepublieken ter hand behoeven te worden gesteld, kan Onze Minister van Buitenlandse Zaken na verloop van tien jaar na de uitkering vernietigen.
 
-#### Artikel 26
+##### Artikel 26
 
 Op de bedragen op welker verdeling deze Rijkswet van toepassing is, kan geen beslag worden gelegd behoudens ten laste van erkende schuldeisers tot het bedrag waarvoor zij op de in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002749&hoofdstuk=5&artikel=22&z=1971-07-01&g=1971-07-01), bedoelde lijst voorkomen.
 
-#### Artikel 27
+##### Artikel 27
 
 Wij behouden Ons voor bij algemene maatregel van Rijksbestuur nadere regelen te treffen ter uitvoering van deze Rijkswet.
 
-#### Artikel 28
+##### Artikel 28
 
 Deze Rijkswet is verbindend voor het gehele Koninkrijk. Zij treedt voor het gehele Koninkrijk in werking op een nader door Ons te bepalen tijdstip.
 

@@ -1,13 +1,39 @@
 ---
-title: "Besluit sollicitatieplicht Appa voor gewezen politieke ambtsdragers"
+title: "Besluit van 18 november 2010 tot het stellen van nadere regels betreffende het vinden van passende arbeid voor gewezen politieke ambtsdragers en het opleggen van sancties aan gewezen politieke ambtsdragers (Besluit sollicitatieplicht Appa voor gewezen politieke ambtsdragers)"
 identifier: "BWBR0029017"
-categorie: "Bestuursrecht"
-publicatiedatum: 2010-12-01
-laatste_update: 2010-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029017"
+country: "nl"
+rank: "amvb"
+publication_date: "2010-12-01"
+last_updated: "2010-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029017"
+soort: "AMvB"
+stam_id: "11090433"
+version_id: "18129752"
+internal_id: "C25207001"
+label_id: "11064914"
+dtd_version: "2.0"
+original_entry_into_force: "2010-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029017/2010-12-01/0"
+intitule_bron: "Stb.2010-788"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-11-18"
+intitule_published: "2010-11-30"
+intitule_in_force: "2010-11-30"
+intitule_status: "goed"
+original_publication: "Stb.2010-788"
+original_signed_date: "2010-11-18"
+original_published_date: "2010-11-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-788"
+entry_into_force_date: "2010-12-01"
+jci_1_3: "jci1.3:c:BWBR0029017&z=2010-12-01&g=2010-12-01"
+jci_1_0: "1.0:c:BWBR0029017&g=2010-12-01"
+citeertitel_status: "officieel"
+short_title: "Besluit sollicitatieplicht Appa voor gewezen politieke ambtsdragers"
+signed_date: "2010-11-18"
+entry_into_force: "2010-12-01"
 ---
-
 # Besluit van 18 november 2010 tot het stellen van nadere regels betreffende het vinden van passende arbeid voor gewezen politieke ambtsdragers en het opleggen van sancties aan gewezen politieke ambtsdragers (Besluit sollicitatieplicht Appa voor gewezen politieke ambtsdragers)
 
 Op de voordracht van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 15 september 2010, nr. 2010-0000419238;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1
+##### Artikel 1.1
 
 In dit besluit wordt verstaan onder:
 
@@ -48,11 +74,11 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 2. Regels betreffende activiteiten om passende arbeid te vinden
 
-#### Artikel 2.1
+##### Artikel 2.1
 
 Het verantwoordelijk bestuursorgaan wijst ten behoeve van het opstellen van het plan een re-integratiebedrijf aan.
 
-#### Artikel 2.2
+##### Artikel 2.2
 
 Het plan bevat de volgende onderdelen:
 
@@ -72,7 +98,7 @@ Het plan bevat de volgende onderdelen:
 
 - h. de wijze waarop en de frequentie waarmee de contacten tussen het re-integratiebedrijf en de belanghebbende zullen plaatsvinden.
 
-#### Artikel 2.3
+##### Artikel 2.3
 
 1. Het re-integratiebedrijf stuurt het plan binnen drie weken na afloop van de in de [artikelen 7a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=7a), [52a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=52a), en [132a, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=132a) genoemde periode naar het verantwoordelijk bestuursorgaan.
 
@@ -80,19 +106,19 @@ Het plan bevat de volgende onderdelen:
 
 3. Het re-integratiebedrijf informeert terstond het verantwoordelijk bestuursorgaan, indien de belanghebbende de uit de [artikelen 7a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=7a), [52a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=52a), en [132a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=132a) voortvloeiende verplichtingen niet nakomt.
 
-#### Artikel 2.4
+##### Artikel 2.4
 
 1. Het plan wordt elke drie maanden door de belanghebbende en het re-integratiebedrijf geëvalueerd.
 
 2. Indien de evaluatie aanleiding geeft tot wijziging van het plan, stuurt het re-integratiebedrijf het bijgestelde plan aan het bestuursorgaan. [Artikel 2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029017&hoofdstuk=2&artikel=2.3&z=2010-12-01&g=2010-12-01), is van overeenkomstige toepassing.
 
-#### Artikel 2.5
+##### Artikel 2.5
 
 1. De belanghebbende voert gemiddeld een keer per week een sollicitatieactiviteit uit, tenzij in het plan anders is bepaald.
 
 2. Bij het vaststellen van de mate waarin sollicitatieactiviteiten dienen te worden ondernomen, wordt rekening gehouden met de regionale arbeidsmarktsituatie en het aantal beschikbare vacatures, de mogelijkheden van de belanghebbende en eventueel aanwezige medische beperkingen en het begrip passende arbeid.
 
-#### Artikel 2.6
+##### Artikel 2.6
 
 1. De belanghebbende kan per kalenderjaar gedurende twintig dagen vakantie genieten waarin geen sollicitatieactiviteiten hoeven worden uitgevoerd. Onder dagen wordt verstaan: maandag tot en met vrijdag dan wel dinsdag tot en met zaterdag.
 
@@ -100,11 +126,11 @@ Het plan bevat de volgende onderdelen:
 
 3. Het aantal dagen, berekend volgens het tweede lid, wordt rekenkundig op hele dagen afgerond.
 
-#### Artikel 2.7
+##### Artikel 2.7
 
 Op het re-integratiebedrijf zijn de krachtens [artikel 4.2 van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=4.2) gestelde voorwaarden van overeenkomstige toepassing.
 
-#### Artikel 2.8
+##### Artikel 2.8
 
 1. De kosten die de belanghebbende maakt voor de activiteiten, bedoeld in [artikel 2.2., onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0029017&hoofdstuk=2&artikel=2.2&z=2010-12-01&g=2010-12-01), worden door het verantwoordelijk bestuursorgaan vergoed, overeenkomstig de in het vastgestelde plan opgenomen begroting, of, bij gebreke hiervan, overeenkomstig het besluit op de aanvraag.
 
@@ -114,7 +140,7 @@ Op het re-integratiebedrijf zijn de krachtens [artikel 4.2 van het Besluit SUWI]
 
 ### Hoofdstuk 3. Planmatige begeleiding en ondersteuning
 
-#### Artikel 3.1
+##### Artikel 3.1
 
 1. De belanghebbende dient bij het verantwoordelijk bestuursorgaan een aanvraag in voor een tegemoetkoming in de kosten van vrijwillige planmatige begeleiding en ondersteuning, voordat met de planmatige begeleiding en ondersteuning een aanvang is gemaakt. Vergoeding vindt uitsluitend plaats na overlegging van facturen en bewijzen van betaling tot ten hoogste het bedrag waarop op grond van de wet aanspraak bestaat. Kosten die niet noodzakelijk zijn voor planmatige begeleiding en ondersteuning, of die niet in redelijke verhouding staan tot geleverde prestaties, worden niet vergoed.
 
@@ -126,7 +152,7 @@ Op het re-integratiebedrijf zijn de krachtens [artikel 4.2 van het Besluit SUWI]
 
 5. De aanspraak op de tegemoetkoming, bedoeld in het eerste lid, vervalt zodra de belanghebbende ophoudt mee te werken aan de planmatige begeleiding en ondersteuning of op andere wijze de oorzaak is dat de planmatige begeleiding en ondersteuning niet of niet langer bijdraagt aan het vinden van passend werk.
 
-#### Artikel 3.2
+##### Artikel 3.2
 
 Een organisatie die planmatige begeleiding en ondersteuning uitvoert, voldoet aan de volgende eisen:
 
@@ -140,7 +166,7 @@ Een organisatie die planmatige begeleiding en ondersteuning uitvoert, voldoet aa
 
 ### Hoofdstuk 4. Inhouding van de uitkering
 
-#### Artikel 4.1
+##### Artikel 4.1
 
 Het verantwoordelijk bestuursorgaan legt een inhouding op, indien het constateert dat:
 
@@ -156,7 +182,7 @@ Het verantwoordelijk bestuursorgaan legt een inhouding op, indien het constateer
 
 - f. de belanghebbende weigert mee te werken aan een verplicht opgelegde planmatige begeleiding en ondersteuning.
 
-#### Artikel 4.2
+##### Artikel 4.2
 
 1. De hoogte en duur van de inhouding op grond van de [artikelen 7c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=7c), [52c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=52c), of [artikel 132c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=132c)bedragen:
 
@@ -168,21 +194,21 @@ Het verantwoordelijk bestuursorgaan legt een inhouding op, indien het constateer
 
 3. Inhoudingen kunnen gelijktijdig opgelegd worden, met dien verstande dat nooit meer dan 100% van de uitkering wordt ingehouden.
 
-#### Artikel 4.3
+##### Artikel 4.3
 
 Een inhouding wordt opgelegd met ingang van de eerste dag dat een verplichting als bedoeld in dit besluit niet of niet behoorlijk is nagekomen.
 
-#### Artikel 4.4
+##### Artikel 4.4
 
 Indien het verantwoordelijk bestuursorgaan de belanghebbende een inhouding oplegt binnen twee jaar na de bekendmaking van een inhouding wegens dezelfde grond, worden de percentages alsmede het minimumbedrag, genoemd in [artikel 4.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029017&hoofdstuk=4&artikel=4.2&z=2010-12-01&g=2010-12-01), met 50% verhoogd.
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 5.1
+##### Artikel 5.1
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-#### Artikel 5.2
+##### Artikel 5.2
 
 Dit besluit wordt aangehaald als: Besluit sollicitatieplicht Appa voor gewezen politieke ambtsdragers.
 

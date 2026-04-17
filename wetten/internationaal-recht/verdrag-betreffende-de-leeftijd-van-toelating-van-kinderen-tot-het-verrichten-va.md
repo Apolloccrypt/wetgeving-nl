@@ -1,13 +1,37 @@
 ---
 title: "Verdrag betreffende de leeftijd van toelating van kinderen tot het verrichten van niet-industriële werkzaamheden"
 identifier: "BWBV0006213"
-categorie: "Internationaal recht"
-publicatiedatum: 1964-11-13
-laatste_update: 1964-11-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006213"
+country: "nl"
+rank: "verdrag"
+publication_date: "1964-11-13"
+last_updated: "1964-11-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006213"
+soort: "verdrag"
+stam_id: "10005098073"
+version_id: "10005438062"
+internal_id: "C10008385081"
+label_id: "10005081164"
+dtd_version: "2.0"
+original_entry_into_force: "1936-07-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006213/1964-11-13/0"
+intitule_bron: "Stb.1935-433"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1935-07-26"
+intitule_published: "1935-08-09"
+intitule_in_force: "1935-08-09"
+intitule_status: "goed"
+original_publication: "Stb.1935-433"
+original_signed_date: "1935-07-26"
+original_published_date: "1935-08-09"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1936-07-12"
+jci_1_3: "jci1.3:c:BWBV0006213&z=1964-11-13&g=1964-11-13"
+jci_1_0: "1.0:c:BWBV0006213&g=1964-11-13"
+citeertitel_status: "redactioneel"
+signed_date: "1935-07-26"
+entry_into_force: "1936-07-12"
 ---
-
 # Verdrag betreffende de leeftijd van toelating van kinderen tot het verrichten van niet-industriële werkzaamheden
 
 **Verdrag betreffende den leeftijd van toelating van kinderen tot het verrichten van niet-industriëele werkzaamheden.**
@@ -20,7 +44,7 @@ besloten hebbende, dat deze voorstellen den vorm zullen aannemen van een interna
 
 neemt heden den 30sten April 1932, het volgende verdrag aan, dat genoemd zal worden het “Verdrag betreffende den leeftijd van toelating van kinderen tot het verrichten van niet-industriëele werkzaamheden, 1932”, ter bekrachtiging door de leden van de Internationale Organisatie van den Arbeid, zulks in overeenstemming met de bepalingen van het Statuut van de Internationale Arbeidsorganisatie:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Dit verdrag is van toepassing op elken arbeid, die niet valt onder de regeling neergelegd in de volgende verdragen onderscheidenlijk door de Internationale Arbeidsconferentie aangenomen in hare eerste, tweede en derde zitting:
 
@@ -44,11 +68,11 @@ In elk land zal de bevoegde autoriteit, na raadpleging van de voornaamste betrok
 
 - b. huiselijke diensten in het gezin door de leden van dat gezin.
 
-#### Artikel 2
+##### Artikel 2
 
 Kinderen beneden 14 jaar of kinderen ouder dan 14 jaar, die echter nog onderworpen zijn aan den leerplicht voor zooveel de lagere school betreft, mogen niet gebruikt worden voor werkzaamheden waarop dit verdrag van toepassing is, behoudens hetgeen hierna bepaald is.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De kinderen, die den 12-jarigen leeftijd bereikt hebben kunnen buiten de uren voor het schoolbezoek vastgesteld, voor lichte werkzaamheden gebruikt worden, mits die werkzaamheden:
 
@@ -76,7 +100,7 @@ Kinderen beneden 14 jaar of kinderen ouder dan 14 jaar, die echter nog onderworp
 
 - b. mag in landen waar geenerlei bepaling betreffende het verplichte schoolbezoek bestaat, de duur van de lichte werkzaamheden niet meer bedragen dan vier en een half uur per dag.
 
-#### Artikel 4
+##### Artikel 4
 
 1. In het belang van de kunst of de wetenschap of het onderwijs, kan de nationale wetgeving door middel van individueele vergunningen, afwijkingen toestaan van de bepalingen van de artikelen 2 en 3 van dit verdrag, teneinde het optreden van kinderen in alle openbare vermakelijkheden mogelijk te maken alsmede het als spelers of als figuranten deelnemen in cinematografische opnamen.
 
@@ -88,15 +112,15 @@ Kinderen beneden 14 jaar of kinderen ouder dan 14 jaar, die echter nog onderworp
 
 - c. de kinderen aan wie overeenkomstig het bepaalde in dit artikel toegestaan is te werken, niet na middernacht arbeid mogen verrichten.
 
-#### Artikel 5
+##### Artikel 5
 
 De nationale wetgeving stelt voor de toelating tot elke werkzaamheid, die door haar aard of door de omstandigheden waaronder zij verricht wordt, gevaarlijk is voor het leven, de gezondheid of de zedelijkheid van de personen, die voor die werkzaamheid gebruikt worden, een leeftijdsgrens of leeftijdsgrenzen vast, die hooger zijn dan die genoemd in artikel 2.
 
-#### Artikel 6
+##### Artikel 6
 
 De nationale wetgeving stelt voor de toelating van jeugdige personen en jongelingen tot het verrichten van werkzaamheden in den rondtrekkenden handel op den openbaren weg of in openbare inrichtingen en plaatsen, tot het verrichten van voortdurende werkzaamheden bij étalages buiten, of in rondtrekkende beroepen, een leeftijdsgrens of leeftijdsgrenzen vast, die hooger zijn dan die genoemd in artikel 2 van dit verdrag, wanneer die werkzaamheden verricht worden onder omstandigheden, welke een hoogeren toelatingsleeftijd rechtvaardigen.
 
-#### Artikel 7
+##### Artikel 7
 
 Teneinde een doeltreffende toepassing van de bepalingen van dit verdrag te verzekeren, moet de nationale wetgeving:
 
@@ -106,7 +130,7 @@ Teneinde een doeltreffende toepassing van de bepalingen van dit verdrag te verze
 
 - c. straffen vaststellen op den inbreuk op de wettelijke bepalingen, ter uitvoering van de bepalingen van dit verdrag vastgesteld.
 
-#### Artikel 8
+##### Artikel 8
 
 De jaarverslagen, bedoeld in artikel 22 van het Statuut van de Internationale Arbeidsorganisatie moeten volledige inlichtingen geven over de wetgeving, vastgesteld ter uitvoering van de bepalingen van dit verdrag. De inlichtingen zullen in het bijzonder bevatten:
 
@@ -116,7 +140,7 @@ De jaarverslagen, bedoeld in artikel 22 van het Statuut van de Internationale Ar
 
 - c. volledige inlichtingen over de voorwaarden, waaronder krachtens artikel 4 afwijkingen van de artikelen 2 en 3 toegestaan worden.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De bepalingen van de artikelen 2, 3, 4, 5, 6 en 7 van dit verdrag zijn niet van toepassing op Britsch-Indië. Doch in Britsch-Indië:
 
@@ -132,11 +156,11 @@ De jaarverslagen, bedoeld in artikel 22 van het Statuut van de Internationale Ar
 
 2. Indien in Britsch-Indië een wetgeving wordt vastgesteld, die den leerplicht tot het 14de jaar uitstrekt, houdt dit artikel op van toepassing te zijn en worden de artikelen 2, 3, 4, 5, 6 en 7 van toepassing op Britsch-Indië.
 
-#### Artikel 10
+##### Artikel 10
 
 De officieele bekrachtigingen van dit verdrag, in overeenstemming met de bepalingen van het Statuut van de Internationale Arbeidsorganisatie, zullen worden medegedeeld aan den Directeur-Generaal van het Internationaal Arbeidsbureau en door hem worden ingeschreven.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Dit verdrag zal slechts verbindend zijn voor de leden van de Internationale Organisatie van den Arbeid, die hunne bekrachtiging door den Directeur-Generaal hebben doen inschrijven.
 
@@ -144,21 +168,21 @@ De officieele bekrachtigingen van dit verdrag, in overeenstemming met de bepalin
 
 3. Vervolgens zal dit verdrag voor ieder der andere leden in werking treden twaalf maanden na den datum, waarop de bekrachtiging van dat lid door het Internationaal Arbeidsbureau zal zijn ingeschreven.
 
-#### Artikel 12
+##### Artikel 12
 
 Zoodra de bekrachtigingen van twee leden der Internationale Organisatie van den Arbeid door het Internationaal Arbeidsbureau zijn ingeschreven, zal de Directeur-Generaal van het Internationaal Arbeidsbureau van dit feit mededeeling doen aan alle leden van de Internationale Organisatie van den Arbeid. Hij zal hen eveneens in kennis stellen met de inschrijvingen van de bekrachtigingen, die hem later door andere leden der Organisatie zullen worden medegedeeld.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Ieder lid, dat dit verdrag heeft bekrachtigd, kan het opzeggen na verloop van een termijn van tien jaren na den datum, waarop dit verdrag van kracht begint te worden, zulks bij een verklaring toegezonden aan den Directeur-Generaal van het Internationaal Arbeidsbureau en door dezen in te schrijven. De opzegging wordt eerst van kracht, een jaar nadat zij door het Internationaal Arbeidsbureau is ingeschreven.
 
 2. Ieder lid, dat dit verdrag heeft bekrachtigd, dat binnen den termijn ven een jaar na verloop van den termijn van tien jaar, bedoeld in het vorige lid, geen gebruik maakt van de bevoegdheid tot opzegging, voorzien in dit artikel, zal voor een nieuwen termijn van vijf jaren gebonden zijn en zal in het vervolg dit verdrag kunnen opzeggen na verloop van elken termijn van vijf jaren onder de voorwaarden, bedoeld in dit artikel.
 
-#### Artikel 14
+##### Artikel 14
 
 Telkens wanneer de Raad van Beheer van het Internationaal Arbeidsbureau zulks nodig acht legt deze een verslag inzake de toepassing van dit Verdrag voor aan de Algemene Conferentie, en gaat na of het wenselijk is de kwestie van de gehele of gedeeltelijke herziening van het Verdrag op de agenda van de Conferentie te plaatsen.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Indien de Internationale Arbeidsconferentie een nieuw verdrag aanneemt, houdende geheele of gedeeltelijke wijziging van dit verdrag, zal de ratificatie door een lid van het nieuwe verdrag, houdende herziening, vanzelf medebrengen onmiddellijke opzegging van dit verdrag, niettegenstaande het bepaalde in artikel 13, onder voorbehoud evenwel, dat het nieuwe verdrag van kracht geworden is.
 
@@ -166,6 +190,6 @@ Telkens wanneer de Raad van Beheer van het Internationaal Arbeidsbureau zulks no
 
 3. Het onderhavige verdrag zal echter van kracht blijven naar vorm en inhoud voor die leden, die het bekrachtigd hebben en die het nieuwe verdrag, houdende herziening, niet bekrachtigen.
 
-#### Artikel 16
+##### Artikel 16
 
 Zoowel de Fransche als de Engelsche tekst van dit verdrag is authentiek.

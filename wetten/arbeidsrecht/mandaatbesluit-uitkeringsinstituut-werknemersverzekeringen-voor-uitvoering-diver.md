@@ -1,20 +1,45 @@
 ---
-title: "Mandaatbesluit Uitkeringsinstituut werknemersverzekeringen voor uitvoering diverse werkloosheidsregelingen"
+title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap tot het verlenen van mandaat aan het Uitkeringsinstituut werknemersverzekeringen voor de uitvoering van diverse werkloosheidsregelingen"
 identifier: "BWBR0016576"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2004-04-01
-laatste_update: 2004-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0016576"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2004-04-01"
+last_updated: "2004-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0016576"
+soort: "ministeriele-regeling"
+stam_id: "5815403"
+version_id: "10383672"
+internal_id: "C14048531"
+label_id: "5795474"
+original_entry_into_force: "2004-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0016576/2004-04-01/0"
+intitule_bron: "Stcrt.2004-70"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-03-31"
+intitule_published: "2004-04-13"
+intitule_in_force: "2004-04-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2004-70"
+original_signed_date: "2004-03-31"
+original_published_date: "2004-04-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2004-70-p17-SC64518"
+entry_into_force_date: "2004-04-01"
+jci_1_3: "jci1.3:c:BWBR0016576&z=2004-04-01&g=2004-04-01"
+jci_1_0: "1.0:c:BWBR0016576&g=2004-04-01"
+citeertitel_status: "redactioneel"
+short_title: "Mandaatbesluit Uitkeringsinstituut werknemersverzekeringen voor uitvoering diverse werkloosheidsregelingen"
+signed_date: "2004-03-31"
+entry_into_force: "2004-04-01"
 ---
-
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap tot het verlenen van mandaat aan het Uitkeringsinstituut werknemersverzekeringen voor de uitvoering van diverse werkloosheidsregelingen
 
 Besluit:
 
 De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -24,7 +49,7 @@ In dit besluit wordt verstaan onder:
 
 - Regelingen: het [Besluit Werkloosheid Onderwijs- en Onderzoekspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0006445), het [Besluit bovenwettelijke werkloosheidsregeling voor onderwijspersoneel primair en voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0012177), alsmede hoofdstuk III, hoofdstuk IV en hoofdstuk VI, artikel 44, van het Besluit ziekte en arbeidsongeschiktheid onderwijs- en onderzoekspersoneel.
 
-#### Artikel 2. Mandaat
+##### Artikel 2. Mandaat
 
 Opdrachtgever verleent aan UWV het volgende mandaat:
 
@@ -38,6 +63,6 @@ Opdrachtgever verleent aan UWV het volgende mandaat:
 
 - 5. UWV is bevoegd tot het verlenen van ondermandaat aan bij UWV in dienst zijnde functionarissen.
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 april 2004.

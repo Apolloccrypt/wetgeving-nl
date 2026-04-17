@@ -1,13 +1,39 @@
 ---
-title: "Besluit markttoezicht registerloodsen"
+title: "Besluit van 20 december 2007, houdende bepalingen in verband met de invoering van markttoezicht op het aanbod van dienstverlening door registerloodsen en een herziening van de loodsgeldtariefstructuur (Besluit markttoezicht registerloodsen)"
 identifier: "BWBR0023123"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0023123"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023123"
+soort: "AMvB"
+stam_id: "9341163"
+version_id: "28265022"
+internal_id: "C39851941"
+label_id: "9320004"
+dtd_version: "2.0"
+original_entry_into_force: "2021-12-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023123/2025-07-01/0"
+intitule_bron: "Stb.2007-561"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-12-20"
+intitule_published: "2007-12-27"
+intitule_in_force: "2007-12-27"
+intitule_status: "goed"
+original_publication: "Stb.2021-618"
+original_signed_date: "2021-12-07"
+original_published_date: "2021-12-17"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2021-618"
+entry_into_force_date: "2021-12-07"
+jci_1_3: "jci1.3:c:BWBR0023123&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0023123&g=2025-07-01"
+citeertitel_status: "officieel"
+short_title: "Besluit markttoezicht registerloodsen"
+signed_date: "2021-12-07"
+entry_into_force: "2021-12-07"
 ---
-
 # Besluit van 20 december 2007, houdende bepalingen in verband met de invoering van markttoezicht op het aanbod van dienstverlening door registerloodsen en een herziening van de loodsgeldtariefstructuur (Besluit markttoezicht registerloodsen)
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 1 oktober 2007, nr. HDJZ/SCH/2007 - 1217, Hoofddirectie Juridische Zaken;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1.1
+##### Artikel 1.1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -94,31 +120,31 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 1. Inrichting kostentoerekeningssysteem
 
-#### Artikel 2.1
+##### Artikel 2.1
 
 Het kostentoerekeningssysteem, bedoeld in [artikel 27b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27b), wordt ingericht overeenkomstig deze paragraaf.
 
-#### Artikel 2.2
+##### Artikel 2.2
 
 Kosten die geheel aan een afzonderlijke dienst of taak, bedoeld in [artikel 27a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27a), kunnen worden toegerekend, worden slechts aan de desbetreffende dienst of taak toegerekend.
 
-#### Artikel 2.3
+##### Artikel 2.3
 
 Kosten die gedeeltelijk aan een dienst of taak, bedoeld in [artikel 27a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27a), en gedeeltelijk aan een of meer andere diensten of taken kunnen worden toegerekend, worden slechts in overeenstemming met het daadwerkelijk gebruik of verbruik toegerekend aan de desbetreffende dienst of taak, bedoeld in [artikel 27a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27a).
 
-#### Artikel 2.4
+##### Artikel 2.4
 
 Kosten die niet kunnen worden toegerekend aan een dienst of taak, bedoeld in [artikel 27a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27a), worden niet in het kostentoerekeningssysteem opgenomen.
 
-#### Artikel 2.5
+##### Artikel 2.5
 
 Indien de inkomsten uit andere diensten of taken dan die, bedoeld in [artikel 27a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27a), minder bedragen dan 1% van de totale inkomsten uit alle tarieven vastgesteld krachtens [artikel 27f, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27f), en de kosten van die andere diensten of taken de inkomsten niet overtreffen, kunnen, in afwijking van de [artikelen 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=2&paragraaf=1&artikel=2.3&z=2025-07-01&g=2025-07-01) en [2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2025-07-01&g=2025-07-01), de kosten gemoeid met deze diensten of taken worden toegerekend aan diensten of taken, bedoeld in [artikel 27a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27a). In dat geval worden de opbrengsten van die andere diensten of taken ook aan de desbetreffende diensten of taken, bedoeld in [artikel 27a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27a) toegerekend.
 
-#### Artikel 2.6
+##### Artikel 2.6
 
 Kosten gemoeid met de evenredigheid, bedoeld in [artikel 26, tweede lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=26), en met de waarborg, bedoeld in [artikel 26, tweede lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=26), worden toegerekend aan de loodsgeldtarieven.
 
-#### Artikel 2.7
+##### Artikel 2.7
 
 De volgende kosten worden niet toegerekend:
 
@@ -126,7 +152,7 @@ De volgende kosten worden niet toegerekend:
 
 - b. verbeurde boetes en dwangsommen.
 
-#### Artikel 2.8
+##### Artikel 2.8
 
 Het kostentoerekeningssysteem bevat:
 
@@ -136,7 +162,7 @@ Het kostentoerekeningssysteem bevat:
 
 - c. zowel een gelijktijdige als een volgtijdelijke toerekening van opbrengsten en kosten.
 
-#### Artikel 2.9
+##### Artikel 2.9
 
 1. Kosten worden berekend en toegerekend op grond van algemeen aanvaarde bedrijfseconomische principes.
 
@@ -150,7 +176,7 @@ Het kostentoerekeningssysteem bevat:
 
 6. De berekening van vermogenskosten bedoeld in [artikel 27b, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27b), is gebaseerd op een methode, met inbegrip van de daarvan deel uitmakende parameters, die voldoet aan algemeen aanvaarde bedrijfseconomische principes.
 
-#### Artikel 2.10
+##### Artikel 2.10
 
 De toerekening van de kosten, bedoeld in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=2&paragraaf=1&artikel=2.9&z=2025-07-01&g=2025-07-01), gemoeid met het loodsen van zeeschepen kan plaatsvinden aan elk van de krachtens [artikel 27d, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27d) aangewezen zeehavengebieden naar rato van:
 
@@ -164,7 +190,7 @@ De toerekening van de kosten, bedoeld in [artikel 2.9](https://wetten.overheid.n
 
 #### § 2. Procedurele bepalingen
 
-#### Artikel 2.11
+##### Artikel 2.11
 
 1. De algemene raad zendt een door de ledenvergadering overeenkomstig [artikel 27b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27b) vastgesteld kostentoerekeningssysteem ten minste een jaar voorafgaand aan het tijdstip waarop het van kracht zijnde kostentoerekeningssysteem zijn geldigheid verliest aan de Autoriteit Consument en Markt.
 
@@ -172,7 +198,7 @@ De toerekening van de kosten, bedoeld in [artikel 2.9](https://wetten.overheid.n
 
 ### Hoofdstuk 3. Index uurtarief arbeidsvergoeding
 
-#### Artikel 3.1
+##### Artikel 3.1
 
 De indexering, bedoeld in [artikel 27d, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27d) is het door het Centraal Bureau voor de Statistiek vastgestelde indexcijfer CAO-lonen per maand inclusief bijzondere beloningen, telkens toe te passen over de periode van 12 maanden, eindigend op de laatste dag van de maand februari van het kalenderjaar voorafgaande aan het kalenderjaar waarvoor een tariefvoorstel als bedoeld in [artikel 27c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27c) wordt gedaan.
 
@@ -180,7 +206,7 @@ De indexering, bedoeld in [artikel 27d, tweede lid, van de wet](https://wetten.o
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 4.1
+##### Artikel 4.1
 
 Een kostengeoriënteerd tarief en een kostengeoriënteerde vergoeding voldoen aan de eis dat de geraamde opbrengst uit het betrokken tarief, onderscheidenlijk de betrokken vergoeding, in een kalenderjaar niet meer bedraagt dan de som van:
 
@@ -190,13 +216,13 @@ Een kostengeoriënteerd tarief en een kostengeoriënteerde vergoeding voldoen aa
 
 - c. de daarbij te verrichten verrekening als bedoeld in [artikel 27c, zevende lid, onder i, en achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27c).
 
-#### Artikel 4.2
+##### Artikel 4.2
 
 Een tarief of vergoeding is redelijk in verhouding tot de geleverde dienst.
 
 #### § 2. Loodsgeldtariefstructuur
 
-#### Artikel 4.3
+##### Artikel 4.3
 
 1. De loodsgeldtarieven worden onderscheiden in een S-tarief, een T-tarief, een A-tarief en loodsvergoedingen.
 
@@ -208,7 +234,7 @@ Een tarief of vergoeding is redelijk in verhouding tot de geleverde dienst.
 
 5. In afwijking van het vierde lid wordt voor de situaties genoemd in [artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=4&paragraaf=2&artikel=4.4&z=2025-07-01&g=2025-07-01) een T-speciaaltarief vastgesteld.
 
-#### Artikel 4.4
+##### Artikel 4.4
 
 Voor de volgende situaties wordt een T-speciaaltarief vastgesteld:
 
@@ -220,7 +246,7 @@ Voor de volgende situaties wordt een T-speciaaltarief vastgesteld:
 
 - d. indien loodsdienst ten behoeve van een proefvaart van een schip wordt verricht.
 
-#### Artikel 4.5
+##### Artikel 4.5
 
 Voor de volgende aanvullende diensten wordt een A-tarief vastgesteld:
 
@@ -238,7 +264,7 @@ Voor de volgende aanvullende diensten wordt een A-tarief vastgesteld:
 
 - g. indien door omstandigheden bij een verhaalreis een langere dan de kortst mogelijke route wordt gevaren.
 
-#### Artikel 4.6
+##### Artikel 4.6
 
 1. Voor de volgende situaties worden ter dekking van de door een loods gemaakte kosten en van de tijd die niet met het verrichten van loodsdiensten is gemoeid, loodsvergoedingen vastgesteld:
 
@@ -258,7 +284,7 @@ Voor de volgende aanvullende diensten wordt een A-tarief vastgesteld:
 
 2. Het tarief van een loodsvergoeding kan bestaan uit een forfaitair bedrag of een uurtarief of in het geval bedoeld in eerste lid, onderdeel g, uit werkelijke kosten. Een loodsvergoeding heeft, met uitzondering van de situatie in het eerste lid, onderdeel f, steeds betrekking op de vergoeding per loods.
 
-#### Artikel 4.7
+##### Artikel 4.7
 
 1. De Autoriteit Consument en Markt stelt de S-, T-, T-speciaal en A-tarieven alsmede de loodsvergoedingen vast en stelt rekenregels vast voor reizen waarin meerdere aanvullende diensten als bedoeld in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=4&paragraaf=2&artikel=4.5&z=2025-07-01&g=2025-07-01), worden verricht.
 
@@ -270,7 +296,7 @@ Voor de volgende aanvullende diensten wordt een A-tarief vastgesteld:
 
 - c. een cluster van zusterschepen of een consortium dat binnen een kalenderjaar ontstaat, wordt beëindigd of waarin een mutatie plaatsvindt.
 
-#### Artikel 4.8
+##### Artikel 4.8
 
 1. Voor alle reizen ten behoeve waarvan loodsdiensten worden verricht is, afhankelijk van de diepgang van het schip of het bijzondere transport, het bij het type reis behorende S-tarief en een daarbij horend T-tarief verschuldigd. Naast het S- en een T-tarief zijn, indien zich situaties voordoen als bedoeld in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=4&paragraaf=2&artikel=4.5&z=2025-07-01&g=2025-07-01) of [4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=4&paragraaf=2&artikel=4.6&z=2025-07-01&g=2025-07-01), een A-tarief en loodsvergoedingen verschuldigd.
 
@@ -284,7 +310,7 @@ Voor de volgende aanvullende diensten wordt een A-tarief vastgesteld:
 
 6. In afwijking van het eerste lid, eerste volzin, worden voor inkomende en uitgaande reizen van schepen die zijn opgenomen in het Register loodsplicht kleine zeeschepen, bedoeld in [artikel 6, eerste lid, van het Loodsplichtbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&artikel=6), die alleen op zee loodsplichtig zijn en waarbij geen loodsdienst aan boord van het schip wordt verricht, het S-verhaaltarief en de eerste kolom van het T-verhaaltarief in rekening gebracht.
 
-#### Artikel 4.9
+##### Artikel 4.9
 
 1. De organisatie verleent op het bedrag dat in één kalenderjaar aan S-, T- en A-tarief aan een schip, een cluster van zusterschepen of een consortium als bedoeld in [artikel 4.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=4&paragraaf=2&artikel=4.7&z=2025-07-01&g=2025-07-01), in rekening is gebracht, een frequentiekorting.
 
@@ -300,7 +326,7 @@ Voor de volgende aanvullende diensten wordt een A-tarief vastgesteld:
 
 7. De organisatie kan nadere inlichtingen vragen ten behoeve van het verlenen van frequentiekorting.
 
-#### Artikel 4.10
+##### Artikel 4.10
 
 1. Een voorstel van de algemene raad met betrekking tot de loodsgeldtarieven wordt door de algemene raad uiterlijk 15 juli van het jaar voorafgaand aan het jaar waarop die tarieven betrekking hebben aan de Autoriteit Consument en Markt gezonden. De Autoriteit Consument en Markt kan op verzoek van de algemene raad een latere datum vaststellen.
 
@@ -310,7 +336,7 @@ Voor de volgende aanvullende diensten wordt een A-tarief vastgesteld:
 
 4. De algemene raad dient uiterlijk 15 oktober van het jaar voorafgaand aan het jaar waarop de tarieven betrekking hebben een bijstelling van het ingediende voorstel als bedoeld in [artikel 27c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27c) in.
 
-#### Artikel 4.11
+##### Artikel 4.11
 
 1. Een voorstel van de algemene raad met betrekking tot andere tarieven dan de loodsgeldtarieven wordt door de algemene raad uiterlijk 15 juli van het jaar voorafgaand aan het jaar waarop de tarieven betrekking hebben aan de Autoriteit Consument en Markt gezonden.
 
@@ -318,13 +344,13 @@ Voor de volgende aanvullende diensten wordt een A-tarief vastgesteld:
 
 #### § 4. Procedurele bepalingen
 
-#### Artikel 4.12
+##### Artikel 4.12
 
 1. De Autoriteit Consument en Markt stelt in een uitnodiging als bedoeld in [artikel 27h, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27h) een termijn vast waarbinnen een voorstel als bedoeld in dat lid wordt gedaan.
 
 2. De Autoriteit Consument en Markt neemt binnen twintig weken na de datum van ontvangst van een voorstel als bedoeld in [artikel 27h, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27h) een beslissing op dat voorstel.
 
-#### Artikel 4.13
+##### Artikel 4.13
 
 1. De algemene raad stelt het bij de Autoriteit Consument en Markt ingediende voorstel voor de tarieven en vergoedingen voor diensten en taken, bedoeld in [artikel 27c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27c) bij als ten opzichte van de in dat voorstel opgenomen loodsgeldtarieven een afwijking bestaat van meer dan 0,8 procentpunt op de volgende gezamenlijke posten:
 
@@ -340,7 +366,7 @@ Voor de volgende aanvullende diensten wordt een A-tarief vastgesteld:
 
 #### § 4. Aanwijzing zeehavengebieden
 
-#### Artikel 4.14
+##### Artikel 4.14
 
 1. De alternatieve berekening, bedoeld in [artikel 27ca, van de wet](onbekend) wordt vastgesteld aan de hand van:
 
@@ -358,7 +384,7 @@ Voor de volgende aanvullende diensten wordt een A-tarief vastgesteld:
 
 #### § 5. Frequentiekorting loodsgeldtarieven
 
-#### Artikel 4.15
+##### Artikel 4.15
 
 1. De organisatie verleent op het toepasselijke Z- en B-tarief volgens een bij besluit van de Autoriteit Consument en Markt vastgesteld schema in de volgende gevallen een korting:
 
@@ -368,13 +394,13 @@ Voor de volgende aanvullende diensten wordt een A-tarief vastgesteld:
 
 2. Een schip kan tegelijkertijd slechts deel uitmaken van één cluster van zusterschepen of consortium.
 
-#### Artikel 4.16
+##### Artikel 4.16
 
 1. Degene die het loodsgeld verschuldigd is, dient een aanvraag om in aanmerking te komen voor een frequentiekorting in bij de organisatie.
 
 2. Indien de frequentiekorting in de loop van een kalenderjaar wordt aangevraagd en in het daaropvolgende kalenderjaar tevens de aangegeven frequentie in calls zal worden behaald, wordt, ter vaststelling van de frequentiekorting in het kalenderjaar waarin de aanvraag plaatsvindt, de frequentie in calls die in dat kalenderjaar wordt behaald, herleid tot de frequentie in calls op jaarbasis.
 
-#### Artikel 4.17
+##### Artikel 4.17
 
 1. De frequentiekorting wordt verleend met ingang van de dag waarop is aangetoond dat aan de daarvoor geldende eisen wordt voldaan.
 
@@ -382,11 +408,11 @@ Voor de volgende aanvullende diensten wordt een A-tarief vastgesteld:
 
 #### § 6. Loodsvergoedingen
 
-#### Artikel 4.18
+##### Artikel 4.18
 
 De loodsvergoedingen strekken ter dekking van de kosten die samenhangen met de bestelling van een loods, ter vergoeding van de door de loods ten gevolge van bijzondere omstandigheden niet rechtstreeks aan het loodsen bestede tijd en ter vergoeding van de reis- en verblijfkosten van de loods.
 
-#### Artikel 4.19
+##### Artikel 4.19
 
 1. De Autoriteit Consument en Markt stelt bij besluit het tarief vast van de loodsvergoedingen in verband met:
 
@@ -410,7 +436,7 @@ De loodsvergoedingen strekken ter dekking van de kosten die samenhangen met de b
 
 2. Een tarief kan bestaan uit een forfaitair bedrag of een uurtarief.
 
-#### Artikel 4.20
+##### Artikel 4.20
 
 1. De Autoriteit Consument en Markt stelt bij besluit het tarief vast van de loodsvergoedingen in verband met:
 
@@ -424,7 +450,7 @@ De loodsvergoedingen strekken ter dekking van de kosten die samenhangen met de b
 
 #### § 7. Procedurele bepalingen
 
-#### Artikel 4.21
+##### Artikel 4.21
 
 1. Een voorstel van de algemene raad met betrekking tot de loodsgeldtarieven wordt door de algemene raad uiterlijk 15 juli van het jaar voorafgaand aan het jaar waarop die tarieven betrekking hebben aan de Autoriteit Consument en Markt gezonden. De Autoriteit Consument en Markt kan op verzoek van de algemene raad een latere datum vaststellen.
 
@@ -432,13 +458,13 @@ De loodsvergoedingen strekken ter dekking van de kosten die samenhangen met de b
 
 3. Een voorstel als bedoeld in het eerste lid, gaat vergezeld van een verklaring van een onafhankelijke accountant als bedoeld in [artikel 393, eerste lid, van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) waarin deze verklaart dat het voorstel is opgesteld in overeenstemming met het van kracht zijnde kostentoerekeningssysteem, bedoeld in [artikel 27b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27b), en dat de bijbehorende ramingen correct zijn opgesteld.
 
-#### Artikel 4.22
+##### Artikel 4.22
 
 1. Een voorstel van de algemene raad met betrekking tot andere tarieven dan de loodsgeldtarieven wordt door de algemene raad ten minste zeventien weken voorafgaand aan de beoogde datum van inwerkingtreding aan de Autoriteit Consument en Markt gezonden.
 
 2. Een voorstel als bedoeld in het eerste lid, gaat vergezeld van een verklaring van een onafhankelijke accountant als bedoeld in [artikel 393, eerste lid, van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) waarin deze verklaart dat het voorstel is opgesteld in overeenstemming met het van kracht zijnde kostentoerekeningssysteem, bedoeld in [artikel 27b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27b).
 
-#### Artikel 4.23
+##### Artikel 4.23
 
 1. De Autoriteit Consument en Markt stelt in een uitnodiging als bedoeld in [artikel 27h, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27h) een termijn vast waarbinnen een voorstel als bedoeld in dat lid wordt gedaan.
 
@@ -446,7 +472,7 @@ De loodsvergoedingen strekken ter dekking van de kosten die samenhangen met de b
 
 ### Hoofdstuk 5. Verantwoording
 
-#### Artikel 5.1
+##### Artikel 5.1
 
 1. De financiële verantwoording en de verantwoording over het gerealiseerde kwaliteitsniveau, bedoeld in [artikel 27j van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27j), zijn zodanig ingericht dat zij geschikt zijn voor nacalculatorisch gebruik.
 
@@ -454,27 +480,27 @@ De loodsvergoedingen strekken ter dekking van de kosten die samenhangen met de b
 
 3. De algemene raad zendt jaarlijks de verantwoording over het gerealiseerde kwaliteitsniveau, bedoeld in [artikel 27j, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27j) uiterlijk 15 juli aan de Autoriteit Consument en Markt en aan Onze Minister, overeenkomstig artikel 27j, vierde lid van de wet.
 
-#### Artikel 5.2
+##### Artikel 5.2
 
 De financiële verantwoording, bedoeld in [artikel 27j, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27j), wordt opgesteld in overeenstemming met het kostentoerekeningssysteem, bedoeld in [artikel 27b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27b).
 
 ### Hoofdstuk 6. Wijziging en intrekking van andere besluiten
 
-#### Artikel 6.1
+##### Artikel 6.1
 
 Vervallen
 
-#### Artikel 6.2
+##### Artikel 6.2
 
 Het [Loodsgeldbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007342) wordt ingetrokken.
 
 ### Hoofdstuk 7. Slotbepalingen
 
-#### Artikel 7.1
+##### Artikel 7.1
 
 Dit besluit treedt in werking met ingang van 1 januari 2008.
 
-#### Artikel 7.2
+##### Artikel 7.2
 
 Dit besluit wordt aangehaald als: Besluit markttoezicht registerloodsen.
 
@@ -557,7 +583,7 @@ Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 1.1a
+##### Artikel 1.1a
 
 Dit besluit berust mede op [artikelen 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=2), [27ca](onbekend), en [27l, tweede lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27l).
 

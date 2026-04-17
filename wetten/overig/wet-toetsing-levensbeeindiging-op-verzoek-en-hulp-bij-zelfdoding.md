@@ -1,14 +1,42 @@
 ---
-title: "Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding"
+title: "Wet van 12 april 2001, houdende toetsing van levensbeëindiging op verzoek en hulp bij zelfdoding en wijziging van het Wetboek van Strafrecht en van de Wet op de lijkbezorging (Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding)"
 identifier: "BWBR0012410"
-categorie: "Overig"
-publicatiedatum: 2021-10-01
-laatste_update: 2021-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012410"
+country: "nl"
+rank: "wet"
+publication_date: "2021-10-01"
+last_updated: "2021-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012410"
+soort: "wet"
+stam_id: "1568913"
+version_id: "17607202"
+internal_id: "C24364561"
+label_id: "1524504"
+dtd_version: "2.0"
+original_entry_into_force: "2010-05-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012410/2021-10-01/0"
+intitule_bron: "Stb.2001-194"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-04-12"
+intitule_published: "2001-04-26"
+intitule_in_force: "2002-03-26"
+intitule_status: "goed"
+original_publication: "Stb.2010-350"
+original_signed_date: "2010-05-17"
+original_published_date: "2010-09-01"
+original_effect: "structuurwijziging"
+original_dossier: "31959"
+original_url_id: "stb-2010-350"
+entry_into_force_date: "2010-05-17"
+entry_into_force_dossier: "31959"
+jci_1_3: "jci1.3:c:BWBR0012410&z=2021-10-01&g=2021-10-01"
+jci_1_0: "1.0:c:BWBR0012410&g=2021-10-01"
+citeertitel_status: "officieel"
+short_title: "Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding"
+signed_date: "2010-05-17"
+entry_into_force: "2010-05-17"
 ---
-
-# Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding
+# Wet van 12 april 2001, houdende toetsing van levensbeëindiging op verzoek en hulp bij zelfdoding en wijziging van het Wetboek van Strafrecht en van de Wet op de lijkbezorging (Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen weten:
 
@@ -18,7 +46,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk I. Begripsomschrijvingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet wordt verstaan onder:
 
@@ -36,7 +64,7 @@ In deze wet wordt verstaan onder:
 
 ### Hoofdstuk II. Zorgvuldigheidseisen
 
-#### Artikel 2
+##### Artikel 2
 
 1. De zorgvuldigheidseisen, bedoeld in [artikel 293, tweede lid, Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=293), houden in dat de arts:
 
@@ -62,13 +90,13 @@ In deze wet wordt verstaan onder:
 
 #### Paragraaf 1:. Instelling, samenstelling en benoeming
 
-#### Artikel 3
+##### Artikel 3
 
 1. Er zijn regionale commissies voor de toetsing van meldingen van gevallen van levensbeëindiging op verzoek en hulp bij zelfdoding als bedoeld in [artikel 293, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=293), onderscheidelijk [294, tweede lid, tweede volzin, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=294).
 
 2. Een commissie bestaat uit een oneven aantal leden, waaronder in elk geval één rechtsgeleerd lid, tevens voorzitter, één arts en één deskundige inzake ethische of zingevingsvraagstukken. Van een commissie maken mede deel uit plaatsvervangende leden van elk van de in de eerste volzin genoemde categorieën.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De voorzitter en de leden, alsmede de plaatsvervangende leden worden door Onze Ministers benoemd voor de tijd van vier jaar. Herbenoeming kan eenmaal plaatsvinden voor de tijd van vier jaar.
 
@@ -78,17 +106,17 @@ In deze wet wordt verstaan onder:
 
 #### Paragraaf 2:. Ontslag
 
-#### Artikel 5
+##### Artikel 5
 
 De voorzitter en de leden, alsmede de plaatsvervangende leden kunnen te allen tijde op hun eigen verzoek worden ontslagen door Onze Ministers.
 
-#### Artikel 6
+##### Artikel 6
 
 De voorzitter en de leden, alsmede de plaatsvervangende leden kunnen door Onze Ministers worden ontslagen wegens ongeschiktheid of onbekwaamheid of op andere zwaarwegende gronden.
 
 #### Paragraaf 3:. Bezoldiging
 
-#### Artikel 7
+##### Artikel 7
 
 1. Onverminderd de [artikelen 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=III&paragraaf=1&artikel=4&z=2021-10-01&g=2021-10-01) worden bij of krachtens algemene maatregel van bestuur regels gesteld over de rechtspositie van de voorzitters, waaronder in ieder geval regels over de vergoeding.
 
@@ -96,7 +124,7 @@ De voorzitter en de leden, alsmede de plaatsvervangende leden kunnen door Onze M
 
 #### Paragraaf 4:. Taken en bevoegdheden
 
-#### Artikel 8
+##### Artikel 8
 
 1. De commissie beoordeelt op basis van het verslag bedoeld in [artikel 7, tweede lid, van de Wet op de lijkbezorging](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=7), of de arts die levensbeëindiging op verzoek heeft toegepast of hulp bij zelfdoding heeft verleend, heeft gehandeld overeenkomstig de zorgvuldigheidseisen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=II&artikel=2&z=2021-10-01&g=2021-10-01).
 
@@ -104,7 +132,7 @@ De voorzitter en de leden, alsmede de plaatsvervangende leden kunnen door Onze M
 
 3. De commissie kan bij de gemeentelijke lijkschouwer, de consulent of de betrokken hulpverleners inlichtingen inwinnen, indien dit voor een goede beoordeling van het handelen van de arts noodzakelijk is.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De commissie brengt haar gemotiveerde oordeel binnen zes weken na ontvangst van het verslag als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=III&paragraaf=4&artikel=8&z=2021-10-01&g=2021-10-01), schriftelijk ter kennis van de arts.
 
@@ -118,7 +146,7 @@ De voorzitter en de leden, alsmede de plaatsvervangende leden kunnen door Onze M
 
 4. De commissie is bevoegd het door haar gegeven oordeel mondeling tegenover de arts nader toe te lichten. Deze mondelinge toelichting kan plaatsvinden op verzoek van de commissie of op verzoek van de arts.
 
-#### Artikel 10
+##### Artikel 10
 
 De commissie is verplicht aan de officier van justitie desgevraagd alle inlichtingen te verstrekken, welke hij nodig heeft:
 
@@ -130,37 +158,37 @@ Van het verstrekken van inlichtingen aan de officier van justitie doet de commis
 
 #### Paragraaf 6:. Werkwijze
 
-#### Artikel 11
+##### Artikel 11
 
 De commissie draagt zorg voor registratie van de ter beoordeling gemelde gevallen van levensbeëindiging op verzoek of hulp bij zelfdoding. Bij ministeriële regeling van Onze Ministers kunnen daaromtrent nadere regels worden gesteld.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Een oordeel wordt vastgesteld bij gewone meerderheid van stemmen.
 
 2. Een oordeel wordt vastgesteld door drie leden van de commissie die elk een van de in [artikel 3, tweede lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=III&paragraaf=1&artikel=3&z=2021-10-01&g=2021-10-01), genoemde categorieën van deskundigheid vertegenwoordigen.
 
-#### Artikel 13
+##### Artikel 13
 
 De voorzitters van de regionale toetsingscommissies voeren ten minste twee maal per jaar overleg met elkaar over werkwijze en functioneren van de commissies. Bij het overleg worden uitgenodigd een arts en een deskundige inzake ethische of zingevingsvraagstukken die ieder de andere leden van de betreffende categorie van deskundigheid vertegenwoordigen.
 
 #### Paragraaf 7:. Geheimhouding en Verschoning
 
-#### Artikel 14
+##### Artikel 14
 
 De leden en plaatsvervangend leden van de commissie zijn verplicht tot geheimhouding van de gegevens waarover zij bij de taakuitvoering de beschikking krijgen, behoudens voor zover enig wettelijk voorschrift hen tot mededeling verplicht of uit hun taak de noodzaak tot mededeling voortvloeit.
 
-#### Artikel 15
+##### Artikel 15
 
 Een lid van de commissie, dat voor de behandeling van een zaak zitting heeft in de commissie, verschoont zich en kan worden gewraakt indien er feiten of omstandigheden bestaan waardoor de onpartijdigheid van zijn oordeel schade zou kunnen lijden.
 
-#### Artikel 16
+##### Artikel 16
 
 Een lid, een plaatsvervangend lid en de secretaris van de commissie onthouden zich van het geven van een oordeel over het voornemen van een arts om levensbeëindiging op verzoek toe te passen of hulp bij zelfdoding te verlenen.
 
 #### Paragraaf 8:. Rapportage
 
-#### Artikel 17
+##### Artikel 17
 
 1. De commissies brengen jaarlijks vóór 1 april aan Onze Ministers een gezamenlijk verslag van werkzaamheden uit over het afgelopen kalenderjaar. Onze Ministers stellen hiervoor bij ministeriële regeling een model vast.
 
@@ -172,11 +200,11 @@ Een lid, een plaatsvervangend lid en de secretaris van de commissie onthouden zi
 
 - c. de oordelen en de daarbij gemaakte afwegingen.
 
-#### Artikel 18
+##### Artikel 18
 
 Onze Ministers brengen jaarlijks ter gelegenheid van het indienen van de begroting aan de Staten-Generaal verslag uit met betrekking tot het functioneren van de commissies naar aanleiding van het in het[artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=III&paragraaf=8&artikel=17&z=2021-10-01&g=2021-10-01), bedoelde verslag van werkzaamheden.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Op voordracht van Onze Ministers worden bij algemene maatregel van bestuur met betrekking tot de commissies regels gesteld betreffende
 
@@ -194,35 +222,35 @@ Onze Ministers brengen jaarlijks ter gelegenheid van het indienen van de begroti
 
 ### Hoofdstuk IIIa. Bonaire, Sint Eustatius en Saba
 
-#### Artikel 20
+##### Artikel 20
 
 Wijzigt het Wetboek van Strafrecht.
 
-#### Artikel 21
+##### Artikel 21
 
 Wijzigt de Wet op de lijkbezorging.
 
-#### Artikel 22
+##### Artikel 22
 
 Wijzigt de Algemene wet bestuursrecht.
 
 ### Hoofdstuk V. Slotbepalingen
 
-#### Artikel 23
+##### Artikel 23
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 24
+##### Artikel 24
 
 Deze wet wordt aangehaald als: Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 19a
+##### Artikel 19a
 
 Deze wet is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba met inachtneming van het in dit hoofdstuk bepaalde.
 
-#### Artikel 19b
+##### Artikel 19b
 
 1. Voor de toepassing van:
 
@@ -240,11 +268,11 @@ Deze wet is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius 
 
 2. [Artikel 1, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=I&artikel=1&z=2021-10-01&g=2021-10-01), is niet van toepassing.
 
-#### Artikel 19c
+##### Artikel 19c
 
 In afwijking van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=III&paragraaf=1&artikel=3&z=2021-10-01&g=2021-10-01), is er een door Onze Ministers aan te wijzen commissie, die bevoegd is de meldingen van gevallen van levensbeëindiging op verzoek en hulp bij zelfdoding als bedoeld in artikel 306, tweede lid, onderscheidenlijk 307, tweede lid, tweede volzin, van het Wetboek van Strafrecht BES te toetsen.
 
-#### Artikel 19d
+##### Artikel 19d
 
 Bij het overleg, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=III&paragraaf=6&artikel=13&z=2021-10-01&g=2021-10-01), is de voorzitter van de commissie, bedoeld in [artikel 19c](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=IIIa&artikel=19c&z=2021-10-01&g=2021-10-01), betrokken.
 

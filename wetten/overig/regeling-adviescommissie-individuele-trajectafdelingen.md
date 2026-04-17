@@ -1,20 +1,46 @@
 ---
-title: "Regeling adviescommissie individuele trajectafdelingen"
+title: "Regeling van de Staatssecretaris van Veiligheid en Justitie van 25 september 2015 houdende regels over de taak, de samenstelling en de werkwijze van de adviescommissie individuele trajectafdelingen (Regeling adviescommissie individuele trajectafdelingen)"
 identifier: "BWBR0037040"
-categorie: "Overig"
-publicatiedatum: 2015-10-01
-laatste_update: 2015-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037040"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2015-10-01"
+last_updated: "2015-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037040"
+soort: "ministeriele-regeling"
+stam_id: "13263113"
+version_id: "22692492"
+internal_id: "C32821061"
+label_id: "13231164"
+dtd_version: "2.0"
+original_entry_into_force: "2015-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037040/2015-10-01/0"
+intitule_bron: "Stcrt.2015-32658"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-09-25"
+intitule_published: "2015-09-30"
+intitule_in_force: "2015-09-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-32658"
+original_signed_date: "2015-09-25"
+original_published_date: "2015-09-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-32658"
+entry_into_force_date: "2015-10-01"
+jci_1_3: "jci1.3:c:BWBR0037040&z=2015-10-01&g=2015-10-01"
+jci_1_0: "1.0:c:BWBR0037040&g=2015-10-01"
+citeertitel_status: "officieel"
+short_title: "Regeling adviescommissie individuele trajectafdelingen"
+signed_date: "2015-09-25"
+entry_into_force: "2015-10-01"
 ---
-
 # Regeling van de Staatssecretaris van Veiligheid en Justitie van 25 september 2015 houdende regels over de taak, de samenstelling en de werkwijze van de adviescommissie individuele trajectafdelingen (Regeling adviescommissie individuele trajectafdelingen)
 
 Gelet op [artikel 22c, zesde lid, van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=22c);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -24,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 - c. **de wet:** de [Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756).
 
-#### Artikel 2
+##### Artikel 2
 
 De adviescommissie heeft tot taak:
 
@@ -32,7 +58,7 @@ De adviescommissie heeft tot taak:
 
 - b. schriftelijk te adviseren ten aanzien van de voortgang, de voorzetting van het verblijf en de door- en uitstroom van de jeugdigen die op de individuele trajectafdeling verblijven.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De leden van de adviescommissie worden door de minister benoemd en ontslagen. De leden van de adviescommissie worden door de minister benoemd voor de tijd van twee jaar. Zij kunnen voor herbenoeming in aanmerking komen.
 
@@ -52,7 +78,7 @@ De adviescommissie heeft tot taak:
 
 7. De minister beslist binnen twee maanden op een verzoek tot benoeming als bedoeld in het eerste, tweede of derde lid.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een lid van de adviescommissie wordt door de minister tussentijds ontslagen:
 
@@ -68,7 +94,7 @@ De adviescommissie heeft tot taak:
 
 3. Hangende de procedure voor ontslag kan de minister het lid van de adviescommissie in de uitoefening van zijn functie schorsen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De adviescommissie vergadert ten minste eenmaal in de twee maanden.
 
@@ -78,7 +104,7 @@ De adviescommissie heeft tot taak:
 
 4. De minister is bevoegd vergaderingen van de adviescommissie door een, door hem aan te wijzen ambtenaar van zijn ministerie, te doen bijwonen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De selectiefunctionaris vraagt, al dan niet op verzoek van de directeur van de inrichting waar de jeugdige verblijft, advies aan de adviescommissie ten behoeve van de plaatsing op een individuele trajectafdeling.
 
@@ -88,21 +114,21 @@ De adviescommissie heeft tot taak:
 
 4. Indien voor de adviesaanvraag de volgende vergadering van de adviescommissie, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037040&artikel=5&z=2015-10-01&g=2015-10-01), niet afgewacht kan worden, bereiken de leden van de adviescommissie schriftelijk overeenstemming en brengen schriftelijk advies uit.
 
-#### Artikel 7
+##### Artikel 7
 
 Indien de adviescommissie de selectiefunctionaris adviseert een jeugdige op een individuele trajectafdeling te plaatsen, dan adviseert zij tevens over de plaats van tenuitvoerlegging.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De kosten voor het instandhouden van de adviescommissie worden door de Staat gedragen.
 
 2. Voor zover een lid, de secretaris of de plaatsvervangende secretaris van de adviescommissie geen ambtenaar is, komt deze in aanmerking voor vergoeding van reis- en verblijfskosten overeenkomstig de bepalingen welke te dien aanzien voor de burgerlijke rijksambtenaren zijn vastgesteld.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling treedt op 1 oktober 2015 in werking.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling adviescommissie individuele trajectafdelingen
 

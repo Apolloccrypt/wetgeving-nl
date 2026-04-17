@@ -1,13 +1,32 @@
 ---
 title: "Verdrag inzake de internationale inning van levensonderhoud voor kinderen en andere familieleden"
 identifier: "BWBV0005392"
-categorie: "Internationaal recht"
-publicatiedatum: 2007-11-23
-laatste_update: 2007-11-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005392"
+country: "nl"
+rank: "verdrag"
+publication_date: "2007-11-23"
+last_updated: "2007-11-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005392"
+soort: "verdrag"
+stam_id: "10004609493"
+version_id: "10004860262"
+internal_id: "C10007290731"
+label_id: "10004595424"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005392/2007-11-23/0"
+intitule_bron: "Trb.2011-144"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2011-08-19"
+intitule_status: "nogniet"
+original_publication: "Trb.2011-144"
+original_published_date: "2011-08-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2011-144"
+jci_1_3: "jci1.3:c:BWBV0005392&z=2007-11-23&g=2007-11-23"
+jci_1_0: "1.0:c:BWBV0005392&g=2007-11-23"
+citeertitel_status: "redactioneel"
+entry_into_force: "2011-08-19"
 ---
-
 # Verdrag inzake de internationale inning van levensonderhoud voor kinderen en andere familieleden
 
 De staten die dit Verdrag hebben ondertekend,
@@ -34,7 +53,7 @@ Hebben besloten dit Verdrag te sluiten en hebben overeenstemming bereikt omtrent
 
 ### HOOFDSTUK I. DOELSTELLING, TOEPASSINGSGEBIED EN BEGRIPSOMSCHIJVINGEN
 
-#### Artikel 1. Doelstelling
+##### Artikel 1. Doelstelling
 
 Doelstelling van dit Verdrag is de effectieve internationale inning van levensonderhoud voor kinderen en andere familieleden te waarborgen, in het bijzonder door:
 
@@ -46,7 +65,7 @@ Doelstelling van dit Verdrag is de effectieve internationale inning van levenson
 
 - d. effectieve maatregelen te eisen voor de snelle tenuitvoerlegging van beslissingen inzake levensonderhoud.
 
-#### Artikel 2. Toepassingsgebied
+##### Artikel 2. Toepassingsgebied
 
 1. Dit Verdrag is van toepassing op:
 
@@ -62,7 +81,7 @@ Doelstelling van dit Verdrag is de effectieve internationale inning van levenson
 
 4. De bepalingen van dit Verdrag zijn van toepassing op kinderen ongeacht de burgerlijke staat van de ouders.
 
-#### Artikel 3. Begripsomschrijvingen
+##### Artikel 3. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -84,7 +103,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 ### HOOFDSTUK II. ADMINISTRATIEVE SAMENWERKING
 
-#### Artikel 4. Aanwijzing van centrale autoriteiten
+##### Artikel 4. Aanwijzing van centrale autoriteiten
 
 1. Elke verdragsluitende staat wijst een centrale autoriteit aan die is belast met de haar door dit Verdrag oplegde taken.
 
@@ -92,7 +111,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 3. De verdragsluitende staat stelt het Permanent Bureau van de Haagse Conferentie voor Internationaal Privaatrecht in kennis van de aanwijzing van de centrale autoriteit of centrale autoriteiten, hun contactgegevens en, indien van toepassing, de reikwijdte van hun taken zoals omschreven in het tweede lid, op het tijdstip waarop de akte van bekrachtiging of toetreding wordt nedergelegd of wanneer een verklaring in overeenstemming met [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IX&artikel=61&z=2007-11-23&g=2007-11-23) wordt afgelegd. De verdragsluitende staten stellen het Permanent Bureau onverwijld in kennis van eventuele wijzigingen.
 
-#### Artikel 5. Algemene taken van de centrale autoriteiten
+##### Artikel 5. Algemene taken van de centrale autoriteiten
 
 De centrale autoriteiten:
 
@@ -100,7 +119,7 @@ De centrale autoriteiten:
 
 - b. zoeken zoveel mogelijk naar oplossingen voor moeilijkheden die zich voordoen bij de toepassing van het Verdrag.
 
-#### Artikel 6. Specifieke taken van de centrale autoriteiten
+##### Artikel 6. Specifieke taken van de centrale autoriteiten
 
 1. De centrale autoriteiten verlenen bijstand met betrekking tot verzoeken in de zin van [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=III&z=2007-11-23&g=2007-11-23). In het bijzonder door:
 
@@ -134,13 +153,13 @@ De centrale autoriteiten:
 
 4. Niets in dit artikel of in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=II&artikel=7&z=2007-11-23&g=2007-11-23) mag aldus worden uitgelegd, dat een centrale autoriteit de verplichting wordt opgelegd bevoegdheden uit te oefenen die krachtens het recht van de aangezochte staat slechts door gerechtelijke autoriteiten kunnen worden uitgeoefend.
 
-#### Artikel 7. Verzoeken om specifieke maatregelen
+##### Artikel 7. Verzoeken om specifieke maatregelen
 
 1. Indien geen verzoek op grond van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=III&artikel=10&z=2007-11-23&g=2007-11-23) aanhangig is, kan een centrale autoriteit aan een andere centrale autoriteit een met redenen omkleed verzoek richten om passende specifieke maatregelen te treffen in de zin van [artikel 6, tweede lid, onderdeel b), c), g), h), i) en j)](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=II&artikel=6&z=2007-11-23&g=2007-11-23). De aangezochte centrale autoriteit treft passende maatregelen indien zij deze noodzakelijk acht om een mogelijke verzoeker bij te staan bij het indienen van een in artikel 10 bedoeld verzoek of bij het bepalen of een dergelijk verzoek moet worden ingediend.
 
 2. Een centrale autoriteit kan op verzoek van een andere centrale autoriteit tevens specifieke maatregelen treffen in verband met een in de verzoekende staat aanhangige zaak met een internationaal aspect die betrekking heeft op de inning van levensonderhoud.
 
-#### Artikel 8. Kosten van de centrale autoriteit
+##### Artikel 8. Kosten van de centrale autoriteit
 
 1. Elke centrale autoriteit draagt haar eigen kosten voor de toepassing van dit Verdrag.
 
@@ -150,11 +169,11 @@ De centrale autoriteiten:
 
 ### HOOFDSTUK III. VERZOEKEN VIA CENTRALE AUTORITEITEN
 
-#### Artikel 9. Verzoek via centrale autoriteiten
+##### Artikel 9. Verzoek via centrale autoriteiten
 
 Een verzoek in de zin van dit hoofdstuk wordt via de centrale autoriteit van de verdragsluitende staat waar de verzoeker verblijft, ingediend bij de centrale autoriteit van de aangezochte staat. Voor de toepassing van deze bepaling wordt onder verblijf niet de enkele aanwezigheid verstaan.
 
-#### Artikel 10. Beschikbare verzoeken
+##### Artikel 10. Beschikbare verzoeken
 
 1. Een onderhoudsgerechtigde die op grond van dit Verdrag levensonderhoud wil innen, kan in een verzoekende staat de volgende soorten verzoeken indienen:
 
@@ -180,7 +199,7 @@ Een verzoek in de zin van dit hoofdstuk wordt via de centrale autoriteit van de 
 
 3. Tenzij anders is bepaald in dit Verdrag, worden de in het eerste en tweede lid bedoelde verzoeken behandeld overeenkomstig het recht van de aangezochte staat en worden de in het eerste lid, onderdeel c) tot en met f), en tweede lid, onderdeel b) en c), bedoelde verzoeken onderworpen aan de bevoegdheidsregels die van toepassing zijn in de aangezochte staat.
 
-#### Artikel 11. Inhoud van het verzoek
+##### Artikel 11. Inhoud van het verzoek
 
 1. Alle verzoeken in de zin van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=III&artikel=10&z=2007-11-23&g=2007-11-23) bevatten ten minste:
 
@@ -212,7 +231,7 @@ Een verzoek in de zin van dit hoofdstuk wordt via de centrale autoriteit van de 
 
 4. Verzoeken in de zin van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=III&artikel=10&z=2007-11-23&g=2007-11-23) kunnen worden gedaan middels het door de Haagse Conferentie voor Internationaal Privaatrecht aanbevolen en bekendgemaakte formulier.
 
-#### Artikel 12. Verzending, ontvangst en behandeling van verzoeken en zaken door centrale autoriteiten
+##### Artikel 12. Verzending, ontvangst en behandeling van verzoeken en zaken door centrale autoriteiten
 
 1. De centrale autoriteit van de verzoekende staat staat de verzoeker bij teneinde te verzekeren dat het verzoek vergezeld gaat van alle informatie en stukken die, voor zover haar bekend, voor de behandeling van het verzoek noodzakelijk zijn.
 
@@ -238,11 +257,11 @@ en zij antwoorden tijdig op verzoeken om inlichtingen.
 
 9. De aangezochte centrale autoriteit kan een verzoek niet weigeren op de enkele grond dat aanvullende stukken of informatie nodig zijn. De aangezochte centrale autoriteit kan de verzoekende centrale autoriteit evenwel verzoeken deze aanvullende stukken of informatie te verstrekken. Indien de verzoekende centrale autoriteit hierop niet binnen drie maanden of binnen een langere door de aangezochte centrale autoriteit vermelde termijn ingaat, kan de aangezochte centrale autoriteit beslissen het verzoek niet verder te behandelen. In dat geval stelt zij de verzoekende centrale autoriteit in kennis van deze beslissing.
 
-#### Artikel 13. Communicatiemiddelen
+##### Artikel 13. Communicatiemiddelen
 
 Een verzoek via de centrale autoriteiten van de verdragsluitende staten in overeenstemming met dit hoofdstuk en elk daarbij gevoegd of door een centrale autoriteit verstrekt stuk of informatie, kan door de verweerder niet op de enkele grond van het tussen de betrokken centrale autoriteiten gebruikte communicatiemedium of -middel worden betwist.
 
-#### Artikel 14. Effectieve toegang tot procedures
+##### Artikel 14. Effectieve toegang tot procedures
 
 1. De aangezochte staat verstrekt verzoekers effectieve toegang tot procedures, waaronder tenuitvoerleggings- en beroepsprocedures, die voortvloeien uit verzoeken op grond van dit hoofdstuk.
 
@@ -254,13 +273,13 @@ Een verzoek via de centrale autoriteiten van de verdragsluitende staten in overe
 
 5. Geen zekerheid, borgtocht of depot, ongeacht de omschrijving, kan worden vereisr om de betaling van de kosten en uitgaven in verband met procedures op grond van het Verdrag te verzekeren.
 
-#### Artikel 15. Kosteloze rechtsbijstand voor verzoeken om levensonderhoud voor kinderen
+##### Artikel 15. Kosteloze rechtsbijstand voor verzoeken om levensonderhoud voor kinderen
 
 1. De aangezochte staat verleent kosteloze rechtsbijstand voor elk door een onderhoudsgerechtigde op grond van dit hoofdstuk ingediend verzoek betreffende onderhoudsverplichtingen die voortvloeien uit een ouder-kindrelatie jegens een persoon jonger dan 21 jaar.
 
 2. In afwijking van het eerste lid kan de aangezochte staat met betrekking tot andere verzoeken dan de in [artikel 10, eerste lid, onderdeel a) en b)](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=III&artikel=10&z=2007-11-23&g=2007-11-23), bedoelde verzoeken en met betrekking tot de onder [artikel 20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=20&z=2007-11-23&g=2007-11-23), vallende zaken, de verlening van kosteloze rechtsbijstand weigeren indien hij van oordeel is dat het verzoek of enig beroep kennelijk ongegrond is.
 
-#### Artikel 16. Verklaring houdende toestemming voor het gebruik van een op het kind gerichte toetsing van de middelen
+##### Artikel 16. Verklaring houdende toestemming voor het gebruik van een op het kind gerichte toetsing van de middelen
 
 1. In afwijking van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=III&artikel=15&z=2007-11-23&g=2007-11-23), kan een staat in overeenstemming met [artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IX&artikel=63&z=2007-11-23&g=2007-11-23) verklaren dat hij met betrekking tot andere verzoeken dan de in [artikel 10, eerste lid, onderdeel a) en b)](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=III&artikel=10&z=2007-11-23&g=2007-11-23), bedoelde verzoeken en met betrekking tot de onder [artikel 20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=20&z=2007-11-23&g=2007-11-23), vallende zaken, kosteloze rechtsbijstand verleent op voorwaarde van een toetsing gebaseerd op een raming van de middelen van het kind.
 
@@ -270,7 +289,7 @@ Een verzoek via de centrale autoriteiten van de verdragsluitende staten in overe
 
 4. Indien de gunstigste rechtsbijstand die is vastgesteld in het recht van de aangezochte staat voor op grond van dit hoofdstuk ingediende verzoeken betreffende onderhoudsverplichtingen die voortvloeien uit een ouder-kindrelatie jegens een kind, gunstiger is dan die welke wordt vastgesteld in overeenstemming met het eerste tot en met derde lid, dient de gunstigste rechtsbijstand te worden verleend.
 
-#### Artikel 17. Niet onder [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=III&artikel=15&z=2007-11-23&g=2007-11-23) of [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=III&artikel=16&z=2007-11-23&g=2007-11-23) vallende verzoeken
+##### Artikel 17. Niet onder [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=III&artikel=15&z=2007-11-23&g=2007-11-23) of [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=III&artikel=16&z=2007-11-23&g=2007-11-23) vallende verzoeken
 
 Voor de verzoeken op grond van dit Verdrag die niet onder [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=III&artikel=15&z=2007-11-23&g=2007-11-23) of [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=III&artikel=16&z=2007-11-23&g=2007-11-23) vallen:
 
@@ -280,7 +299,7 @@ Voor de verzoeken op grond van dit Verdrag die niet onder [artikel 15](https://w
 
 ### HOOFDSTUK IV. BEPERKINGEN TEN AANZIEN VAN HET INSTELLEN VAN PROCEDURES
 
-#### Artikel 18. Beperking ten aanzien van procedures
+##### Artikel 18. Beperking ten aanzien van procedures
 
 1. Indien een beslissing is gegeven in een verdragsluitende staat waar de onderhoudsgerechtigde zijn gewone verblijfplaats heeft, kan de onderhoudsplichtige in een andere verdragsluitende staat geen procedure instellen tot wijziging van de beslissing of tot het geven van een nieuwe beslissing zolang de onderhoudsgerechtigde zijn gewone verblijfplaats heeft in de staat waar de beslissing is gegeven.
 
@@ -296,7 +315,7 @@ Voor de verzoeken op grond van dit Verdrag die niet onder [artikel 15](https://w
 
 ### HOOFDSTUK V. ERKENNING EN TENUITVOERLEGGING
 
-#### Artikel 19. Toepassingsgebied van het hoofdstuk
+##### Artikel 19. Toepassingsgebied van het hoofdstuk
 
 1. Dit hoofdstuk is van toepassing op beslissingen met betrekking tot onderhoudsverplichtingen die zijn gegeven door gerechtelijke of administratieve autoriteiten. Onder de term „beslissing” wordt mede verstaan een schikking of overeenkomst gesloten ten overstaan van of goedgekeurd door een dergelijke autoriteit. Een beslissing kan automatische indexering omvatten en de verplichting achterstallige bedragen, levensonderhoud met terugwerkende kracht of interest te betalen, alsook de vaststelling van kosten of uitgaven.
 
@@ -312,7 +331,7 @@ Voor de verzoeken op grond van dit Verdrag die niet onder [artikel 15](https://w
 
 5. De bepalingen van dit hoofdstuk zijn van toepassing op verzoeken om erkenning en tenuitvoerlegging die in overeenstemming met [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=VIII&artikel=37&z=2007-11-23&g=2007-11-23) rechtstreeks worden gedaan aan een bevoegde autoriteit van de aangezochte staat.
 
-#### Artikel 20. Gronden voor erkenning en tenuitvoerlegging
+##### Artikel 20. Gronden voor erkenning en tenuitvoerlegging
 
 1. Een beslissing gegeven in een verdragsluitende staat („de staat van herkomst”) wordt in de andere verdragsluitende staten erkend en ten uitvoer gelegd indien:
 
@@ -338,13 +357,13 @@ Voor de verzoeken op grond van dit Verdrag die niet onder [artikel 15](https://w
 
 6. Een beslissing wordt alleen erkend wanneer zij in de staat van herkomst effect sorteert, en wordt alleen ten uitvoer gelegd wanneer zij in de staat van herkomst voor tenuitvoerlegging vatbaar is.
 
-#### Artikel 21. Deelbaarheid en gedeeltelijke erkenning en tenuitvoerlegging
+##### Artikel 21. Deelbaarheid en gedeeltelijke erkenning en tenuitvoerlegging
 
 1. Indien de aangezochte staat een beslissing niet volledig kan erkennen of ten uitvoer leggen, gaat hij over tot erkenning of tenuitvoerlegging van de delen van de beslissing die wel kunnen worden erkend of ten uitvoer gelegd.
 
 2. Te allen tijde kan worden verzocht om gedeeltelijke erkenning of tenuitvoerlegging van een beslissing.
 
-#### Artikel 22. Gronden voor weigering van erkenning en tenuitvoerlegging
+##### Artikel 22. Gronden voor weigering van erkenning en tenuitvoerlegging
 
 Erkenning en tenuitvoerlegging van een beslissing kunnen worden geweigerd indien:
 
@@ -364,7 +383,7 @@ Erkenning en tenuitvoerlegging van een beslissing kunnen worden geweigerd indien
 
 - f. de beslissing is gegeven in strijd met [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IV&artikel=18&z=2007-11-23&g=2007-11-23).
 
-#### Artikel 23. Procedure voor verzoeken om erkenning en tenuitvoerlegging
+##### Artikel 23. Procedure voor verzoeken om erkenning en tenuitvoerlegging
 
 1. Onder voorbehoud van de bepalingen van het Verdrag is het recht van de aangezochte staat van toepassing op erkennings- en tenuitvoerleggingsprocedures.
 
@@ -398,7 +417,7 @@ Erkenning en tenuitvoerlegging van een beslissing kunnen worden geweigerd indien
 
 11. De bevoegde autoriteit treedt voortvarend op bij het geven van beslissingen inzake erkenning en tenuitvoerlegging, met inbegrip van beroep.
 
-#### Artikel 24. Alternatieve procedure voor een verzoek om erkenning en tenuitvoerlegging
+##### Artikel 24. Alternatieve procedure voor een verzoek om erkenning en tenuitvoerlegging
 
 1. In afwijking van [artikel 23, tweede tot en met elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=23&z=2007-11-23&g=2007-11-23), kan een staat in overeenstemming met [artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IX&artikel=63&z=2007-11-23&g=2007-11-23) verklaren de in dit artikel vastgestelde procedure voor erkenning en tenuitvoerlegging toe te passen.
 
@@ -418,7 +437,7 @@ Erkenning en tenuitvoerlegging van een beslissing kunnen worden geweigerd indien
 
 7. De bevoegde autoriteit treedt voortvarend op bij het geven van beslissingen inzake erkenning en tenuitvoerlegging, met inbegrip van beroep.
 
-#### Artikel 25. Stukken
+##### Artikel 25. Stukken
 
 1. Verzoeken om erkenning en tenuitvoerlegging op grond van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=23&z=2007-11-23&g=2007-11-23) of [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=24&z=2007-11-23&g=2007-11-23) gaan vergezeld van:
 
@@ -448,23 +467,23 @@ Erkenning en tenuitvoerlegging van een beslissing kunnen worden geweigerd indien
 
 - c. hij geen stuk vereist waarin wordt verklaard dat is voldaan aan de vereisten van [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=19&z=2007-11-23&g=2007-11-23).
 
-#### Artikel 26. Procedure voor een verzoek om erkenning
+##### Artikel 26. Procedure voor een verzoek om erkenning
 
 Dit hoofdstuk is van overeenkomstige toepassing op verzoeken om erkenning van een beslissing, zij het dat het vereiste van uitvoerbaarheid is vervangen door het vereiste dat de beslissing in de staat van herkomst effect sorteert.
 
-#### Artikel 27. Vaststelling van de feiten
+##### Artikel 27. Vaststelling van de feiten
 
 De bevoegde autoriteit van de aangezochte staat is gebonden aan de vaststelling van de feiten waarop de autoriteit van de staat van herkomst haar bevoegdheid heeft gebaseerd.
 
-#### Artikel 28. Verbod van inhoudelijke toetsing
+##### Artikel 28. Verbod van inhoudelijke toetsing
 
 De bevoegde autoriteit van de aangezochte staat toetst beslissingen niet inhoudelijk.
 
-#### Artikel 29. Fysieke aanwezigheid van het kind of de verzoeker niet vereist
+##### Artikel 29. Fysieke aanwezigheid van het kind of de verzoeker niet vereist
 
 De fysieke aanwezigheid van het kind of de verzoeker is niet vereist in de op grond van dit hoofdstuk ingestelde procedures in de aangezochte staat.
 
-#### Artikel 30. Regelingen inzake levensonderhoud
+##### Artikel 30. Regelingen inzake levensonderhoud
 
 1. Een in een verdragsluitende staat getroffen regeling inzake levensonderhoud moet in aanmerking komen voor erkenning en tenuitvoerlegging als een beslissing op grond van dit hoofdstuk, mits zij in de staat van herkomst uitvoerbaar is als een beslissing.
 
@@ -502,7 +521,7 @@ De fysieke aanwezigheid van het kind of de verzoeker is niet vereist in de op gr
 
 8. Een verdragsluitende staat kan zich in overeenstemming met [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IX&artikel=62&z=2007-11-23&g=2007-11-23) het recht voorbehouden een regeling inzake levensonderhoud niet te erkennen en niet ten uitvoer te leggen.
 
-#### Artikel 31. Beslissingen die tot stand komen door het gecombineerde effect van voorlopige bevelen en bevelen tot bevestiging
+##### Artikel 31. Beslissingen die tot stand komen door het gecombineerde effect van voorlopige bevelen en bevelen tot bevestiging
 
 Indien een beslissing tot stand komt door het gecombineerde effect van een voorlopig bevel in de ene staat en van een bevel van een autoriteit in een andere staat („de bevestigende staat”) waarmee het voorlopige bevel wordt bevestigd:
 
@@ -516,7 +535,7 @@ Indien een beslissing tot stand komt door het gecombineerde effect van een voorl
 
 ### HOOFDSTUK VI. TENUITVOERLEGGING DOOR DE AANGEZOCHTE STAAT
 
-#### Artikel 32. Tenuitvoerlegging krachtens het nationale recht
+##### Artikel 32. Tenuitvoerlegging krachtens het nationale recht
 
 1. Met inachtneming van de bepalingen van dit hoofdstuk geschiedt tenuitvoerlegging in overeenstemming met het recht van de aangezochte staat.
 
@@ -528,11 +547,11 @@ Indien een beslissing tot stand komt door het gecombineerde effect van een voorl
 
 5. Elke beperking van de termijn waarvoor achterstallige bedragen ten uitvoer kunnen worden gelegd, wordt bepaald op grond van het recht van de staat van herkomst van de beslissing of op grond van het recht van de aangezochte staat, al naargelang welk recht voorziet in de langste termijn.
 
-#### Artikel 33. Non-discriminatie
+##### Artikel 33. Non-discriminatie
 
 De aangezochte staat voorziet in ten minste dezelfde methoden voor tenuitvoerlegging voor zaken uit hoofde van dit Verdrag als die welke beschikbaar zijn voor nationale zaken.
 
-#### Artikel 34. Tenuitvoerleggingsmaatregelen
+##### Artikel 34. Tenuitvoerleggingsmaatregelen
 
 1. De verdragsluitende staten stellen in hun nationale recht effectieve maatregelen beschikbaar voor de uitvoerlegging van beslissingen waarop dit Verdrag van toepassing is.
 
@@ -556,7 +575,7 @@ De aangezochte staat voorziet in ten minste dezelfde methoden voor tenuitvoerleg
 
 - i. toepassing van bemiddeling, verzoening of soortgelijke processen om vrijwillige nakoming te bewerkstelligen.
 
-#### Artikel 35. Overmaking van gelden
+##### Artikel 35. Overmaking van gelden
 
 1. De verdragsluitende staten worden aangemoedigd het gebruik te stimuleren, onder meer met behulp van internationale overeenkomsten, van de meest kosteneffectieve en de meest efficiënte methoden die beschikbaar zijn voor het overmaken van verschuldigde levensonderhoudsgelden.
 
@@ -564,7 +583,7 @@ De aangezochte staat voorziet in ten minste dezelfde methoden voor tenuitvoerleg
 
 ### HOOFDSTUK VII. OVERHEIDSLICHAMEN
 
-#### Artikel 36. Overheidslichamen in de hoedanigheid van verzoeker
+##### Artikel 36. Overheidslichamen in de hoedanigheid van verzoeker
 
 1. Ten behoeve van verzoeken om erkenning en tenuitvoerlegging krachtens [artikel 10, eerste lid, onderdeel a) en b)](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=III&artikel=10&z=2007-11-23&g=2007-11-23), en van onder [artikel 20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=20&z=2007-11-23&g=2007-11-23), vallende zaken, wordt onder „onderhoudsgerechtigde” tevens verstaan een overheidslichaam dat optreedt in plaats van een persoon aan wie levensonderhoud is verschuldigd of een lichaam waaraan terugbetaling is verschuldigd van uitkeringen die bij wijze van levensonderhoud zijn verstrekt.
 
@@ -580,7 +599,7 @@ De aangezochte staat voorziet in ten minste dezelfde methoden voor tenuitvoerleg
 
 ### HOOFDSTUK VIII. ALGEMENE BEPALINGEN
 
-#### Artikel 37. Rechtstreekse verzoeken aan bevoegde autoriteiten
+##### Artikel 37. Rechtstreekse verzoeken aan bevoegde autoriteiten
 
 1. Het Verdrag sluit de mogelijkheid niet uit dat gebruik wordt gemaakt van eventueel krachtens het nationale recht van een verdragsluitende staat beschikbare procedures waarbij een persoon (een verzoeker) zich rechtstreeks kan wenden tot een bevoegde autoriteit van die staat betreffende een aangelegenheid waarop het Verdrag van toepassing is, waaronder, met inachtneming van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IV&artikel=18&z=2007-11-23&g=2007-11-23), de vaststelling of wijziging van een beslissing inzake levensonderhoud.
 
@@ -588,15 +607,15 @@ De aangezochte staat voorziet in ten minste dezelfde methoden voor tenuitvoerleg
 
 3. Voor de toepassing van het tweede lid, is [artikel 2, eerste lid, onderdeel a)](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=I&artikel=2&z=2007-11-23&g=2007-11-23), van toepassing op een beslissing tot toekenning van levensonderhoud aan een kwetsbare persoon ouder dan de in dat onderdeel vermelde leeftijd, indien deze beslissing is gegeven voordat die persoon die leeftijd had bereikt en indien zij, gelet op de aantasting van zijn vermogens, voorziet in levensonderhoud boven die leeftijd.
 
-#### Artikel 38. Bescherming van persoonsgegevens
+##### Artikel 38. Bescherming van persoonsgegevens
 
 Persoonsgegevens die in het kader van het Verdrag zijn verzameld of verzonden mogen slechts worden gebruikt voor de doeleinden waarvoor zij zijn verzameld of verzonden.
 
-#### Artikel 39. Vertrouwelijkheid
+##### Artikel 39. Vertrouwelijkheid
 
 Elke autoriteit die gegevens verwerkt, waarborgt de vertrouwelijkheid daarvan in overeenstemming met het recht van haar staat.
 
-#### Artikel 40. Niet-bekendmaking van informatie
+##### Artikel 40. Niet-bekendmaking van informatie
 
 1. Autoriteiten maken geen informatie die voor de toepassing van dit Verdrag is verzameld of verzonden, bekend noch bevestigen zij deze, indien zij vaststellen dat zulks ten koste zou kunnen gaan van de gezondheid, veiligheid of vrijheid van een persoon.
 
@@ -604,15 +623,15 @@ Elke autoriteit die gegevens verwerkt, waarborgt de vertrouwelijkheid daarvan in
 
 3. Niets in dit artikel belet de verzameling en verzending van informatie door en tussen autoriteiten, voor zover zulks noodzakelijk is voor het nakomen van de verplichtingen uit hoofde van het Verdrag.
 
-#### Artikel 41. Geen legalisatie
+##### Artikel 41. Geen legalisatie
 
 Legalisatie of soortgelijke formaliteiten worden niet vereist in het kader van dit Verdrag.
 
-#### Artikel 42. Volmacht
+##### Artikel 42. Volmacht
 
 De centrale autoriteit van de aangezochte staat kan van de verzoeker alleen een volmacht eisen indien zij namens hem in gerechtelijke procedures of ten overstaan van andere autoriteiten optreedt, of teneinde daartoe een vertegenwoordiger aan te wijzen.
 
-#### Artikel 43. Inning van kosten
+##### Artikel 43. Inning van kosten
 
 1. De inning van kosten ontstaan bij de toepassing van dit Verdrag krijgt geen voorrang boven de inning van levensonderhoud.
 
@@ -622,7 +641,7 @@ De centrale autoriteit van de aangezochte staat kan van de verzoeker alleen een 
 
 4. Dit artikel laat [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=II&artikel=8&z=2007-11-23&g=2007-11-23) onverlet.
 
-#### Artikel 44. Taalvoorschriften
+##### Artikel 44. Taalvoorschriften
 
 1. Verzoeken en bijbehorende stukken worden opgesteld in de oorspronkelijke taal en gaan vergezeld van een vertaling in een officiële taal van de aangezochte staat of in een andere taal die de aangezochte staat in een verklaring in overeenstemming met [artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IX&artikel=63&z=2007-11-23&g=2007-11-23) heeft aangegeven te aanvaarden, tenzij de bevoegde autoriteit van die staat vrijstelling verleent van vertaling.
 
@@ -630,7 +649,7 @@ De centrale autoriteit van de aangezochte staat kan van de verzoeker alleen een 
 
 3. Tenzij anders is overeengekomen door de centrale autoriteiten geschieden overige mededelingen tussen deze autoriteiten in een officiële taal van de aangezochte staat of in de Engelse of de Franse taal. Een verdragsluitende staat kan echter, door het maken van een voorbehoud in de zin van [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IX&artikel=62&z=2007-11-23&g=2007-11-23), bezwaar maken tegen het gebruik van hetzij de Engelse, hetzij de Franse taal.
 
-#### Artikel 45. Middelen en kosten van vertalingen
+##### Artikel 45. Middelen en kosten van vertalingen
 
 1. In het geval van verzoeken in de zin van [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=III&z=2007-11-23&g=2007-11-23), kunnen de centrale autoriteiten in afzonderlijke gevallen of in het algemeen overeenkomen dat vertalingen uit de oorspronkelijke taal of uit een andere overeengekomen taal in een officiële taal van de aangezochte staat worden gemaakt in de aangezochte staat. Indien er geen overeenstemming is en het voor de verzoekende centrale autoriteit niet mogelijk is te voldoen aan de vereisten van [artikel 44, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=VIII&artikel=44&z=2007-11-23&g=2007-11-23), mogen het verzoek en de bijbehorende stukken samen met een vertaling in de Engelse of de Franse taal worden verzonden voor verdere vertaling in een officiële taal van de aangezochte staat.
 
@@ -638,7 +657,7 @@ De centrale autoriteit van de aangezochte staat kan van de verzoeker alleen een 
 
 3. In afwijking van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=II&artikel=8&z=2007-11-23&g=2007-11-23) kan de verzoekende centrale autoriteit een verzoeker de kosten van de vertaling van een verzoek en van de bijbehorende stukken in rekening brengen, tenzij deze kosten vallen onder haar stelsel van rechtsbijstand.
 
-#### Artikel 46. Niet-geünificeerde rechtsstelsels – uitlegging
+##### Artikel 46. Niet-geünificeerde rechtsstelsels – uitlegging
 
 1. Ten aanzien van een staat die met betrekking tot bij dit Verdrag geregelde aangelegenheden twee of meer rechtsstelsels of juridische regelingen heeft die binnen verschillende territoriale eenheden van toepassing zijn:
 
@@ -664,7 +683,7 @@ De centrale autoriteit van de aangezochte staat kan van de verzoeker alleen een 
 
 2. Dit artikel is niet van toepassing op regionale organisaties voor economische integratie.
 
-#### Artikel 47. Niet-geünificeerde rechtsstelsels - materiële regels
+##### Artikel 47. Niet-geünificeerde rechtsstelsels - materiële regels
 
 1. Een verdragsluitende staat met twee of meer territoriale eenheden waarin verschillende rechtsstelsels gelden, is niet gehouden dit Verdrag toe te passen op situaties waarbij alleen die verschillende territoriale eenheden zijn betrokken.
 
@@ -672,19 +691,19 @@ De centrale autoriteit van de aangezochte staat kan van de verzoeker alleen een 
 
 3. Dit artikel is niet van toepassing op regionale organisaties voor economische integratie.
 
-#### Artikel 48. Samenloop met eerdere Haagse verdragen inzake levensonderhoud
+##### Artikel 48. Samenloop met eerdere Haagse verdragen inzake levensonderhoud
 
 In de betrekkingen tussen de verdragsluitende staten vervangt dit Verdrag, met inachtneming van [artikel 56, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=VIII&artikel=56&z=2007-11-23&g=2007-11-23), het Haags Verdrag **van 2 oktober 1973 inzake de erkenning en de tenuitvoerlegging van beslissingen over onderhoudsverplichtingen** en het Haags Verdrag **van 15 april 1958 nopens de erkenning en de tenuitvoerlegging van beslissingen over onderhoudsverplichtingen jegens kinderen**, voor zover het toepassingsgebied daarvan tussen deze staten samenvalt met het toepassingsgebied van dit Verdrag.
 
-#### Artikel 49. Samenloop met het [Verdrag van New York van 1956](https://wetten.overheid.nl/jci1.3:c:BWBV0005233)
+##### Artikel 49. Samenloop met het [Verdrag van New York van 1956](https://wetten.overheid.nl/jci1.3:c:BWBV0005233)
 
 In de betrekkingen tussen de verdragsluitende staten vervangt dit Verdrag het [Verdrag van de Verenigde Naties inzake het verhaal in het buitenland van uitkeringen tot onderhoud](https://wetten.overheid.nl/jci1.3:c:BWBV0005233) van 20 juni 1956, voor zover het toepassingsgebied daarvan tussen deze staten samenvalt met het toepassingsgebied van dit Verdrag.
 
-#### Artikel 50. Relatie tot eerdere Haagse verdragen inzake de betekening en de kennisgeving van stukken en de verkrijging van bewijs
+##### Artikel 50. Relatie tot eerdere Haagse verdragen inzake de betekening en de kennisgeving van stukken en de verkrijging van bewijs
 
 Dit Verdrag laat onverlet het [Verdrag van ’s-Gravenhage van 1 maart 1954 betreffende de burgerlijke rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBV0002016), het [Verdrag van ’s-Gravenhage van 15 november 1965 inzake de betekening en de kennisgeving in het buitenland van gerechtelijke en buitengerechtelijke stukken in burgerlijke en in handelszaken](https://wetten.overheid.nl/jci1.3:c:BWBV0002015), en het [Verdrag van ’s-Gravenhage 18 maart 1970 inzake de verkrijging van bewijs in het buitenland in burgerlijke en in handelszaken](https://wetten.overheid.nl/jci1.3:c:BWBV0001993).
 
-#### Artikel 51. Samenloop met instrumenten en aanvullende verdragen
+##### Artikel 51. Samenloop met instrumenten en aanvullende verdragen
 
 1. Dit Verdrag laat onverlet alle vóór dit Verdrag gesloten internationale instrumenten waarbij de verdragsluitende partijen partij zijn en die bepalingen bevatten die van toepassing zijn op in dit Verdrag geregelde aangelegenheden.
 
@@ -694,7 +713,7 @@ Dit Verdrag laat onverlet het [Verdrag van ’s-Gravenhage van 1 maart 1954 betr
 
 4. Dit Verdrag laat de toepassing onverlet van instrumenten van een regionale organisatie voor economische integratie die partij is bij dit Verdrag, die zijn aangenomen na het sluiten van het Verdrag inzake in het Verdrag geregelde aangelegenheden, mits deze instrumenten de toepassing van de bepalingen van het Verdrag in de betrekkingen van lidstaten van de regionale organisatie voor economische integratie met andere verdragsluitende staten onverlet laten. Wat de erkenning of tenuitvoerlegging van beslissingen tussen lidstaten van de regionale organisatie voor economische integratie betreft, laat het Verdrag de regels van de regionale organisatie voor economische integratie onverlet, ongeacht of deze voor of na het sluiten van het Verdrag zijn aangenomen.
 
-#### Artikel 52. Meest doeltreffende regel
+##### Artikel 52. Meest doeltreffende regel
 
 1. Dit Verdrag belet niet de toepassing van verdragen, regelingen of internationaal instrumenten die van kracht zijn tussen de verzoekende staat en de aangezochte staat noch van wederkerige regelingen die van kracht zijn in de aangezochte staat, die voorzien in:
 
@@ -708,17 +727,17 @@ Dit Verdrag laat onverlet het [Verdrag van ’s-Gravenhage van 1 maart 1954 betr
 
 2. Dit Verdrag belet niet de toepassing van een in de aangezochte staat van kracht zijnde wet die voorziet in doeltreffender voorschriften in de zin van het eerste lid, onderdeel a) tot en met c). Wat betreft vereenvoudigde, snellere procedures, zoals bedoeld in het eerste lid, onderdeel b), moeten zij evenwel verenigbaar zijn met de bescherming die de partijen wordt geboden krachtens de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=23&z=2007-11-23&g=2007-11-23) en [24](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=24&z=2007-11-23&g=2007-11-23), in het bijzonder wat betreft het recht van de partijen naar behoren in kennis te worden gesteld van de procedures en voldoende in de gelegenheid te worden gesteld te worden gehoord, alsmede wat betreft de gevolgen van een bezwaar of beroep.
 
-#### Artikel 53. Uniforme uitlegging
+##### Artikel 53. Uniforme uitlegging
 
 Bij de uitlegging van dit Verdrag dient rekening te worden gehouden met het internationale karakter ervan en met de noodzaak de uniforme toepassing ervan te bevorderen.
 
-#### Artikel 54. Toetsing van de werking van het Verdrag in de praktijk
+##### Artikel 54. Toetsing van de werking van het Verdrag in de praktijk
 
 1. De Secretaris-Generaal van de Haagse Conferentie voor Internationaal Privaatrecht roept op gezette tijden een bijzondere commissie bijeen teneinde de werking van het Verdrag in de praktijk te toetsen en de ontwikkeling van beproefde methoden krachtens dit Verdrag aan te moedigen.
 
 2. Ten behoeve van deze toetsing werken de verdragsluitende staten samen met het Permanent Bureau van de Haagse Conferentie voor Internationaal Privaatrecht bij het verzamelen van informatie, met inbegrip van statistieken en jurisprudentie, betreffende de werking van het Verdrag in de praktijk.
 
-#### Artikel 55. Wijziging van formulieren
+##### Artikel 55. Wijziging van formulieren
 
 1. De in de bijlagen bij dit Verdrag opgenomen formulieren kunnen worden gewijzigd bij een beslissing van een bijzondere commissie bijeengeroepen door de Secretaris-Generaal van de Haagse Conferentie voor Internationaal Privaatrecht waarvoor alle verdragsluitende staten en alle leden worden uitgenodigd. Een kennisgeving van het voorstel tot wijziging van de formulieren wordt opgenomen in de agenda voor de bijeenkomst.
 
@@ -726,7 +745,7 @@ Bij de uitlegging van dit Verdrag dient rekening te worden gehouden met het inte
 
 3. Gedurende het in het tweede lid bedoelde tijdvak kan elke verdragsluitende staat in overeenstemming met [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IX&artikel=62&z=2007-11-23&g=2007-11-23) bij schriftelijke kennisgeving aan de depositaris een voorbehoud maken ten aanzien van de wijziging. Een staat die een dergelijk voorbehoud maakt, wordt tot het tijdstip waarop het voorbehoud wordt ingetrokken, behandeld als een staat die ter zake van die wijziging geen partij is bij dit Verdrag.
 
-#### Artikel 56. Overgangsbepalingen
+##### Artikel 56. Overgangsbepalingen
 
 1. Het Verdrag is van toepassing op elk geval:
 
@@ -738,7 +757,7 @@ Bij de uitlegging van dit Verdrag dient rekening te worden gehouden met het inte
 
 3. De aangezochte staat is krachtens dit Verdrag niet gehouden een beslissing of regeling inzake levensonderhoud ten uitvoer te leggen betreffende betalingen die verschuldigd waren voordat het Verdrag tussen de staat van herkomst en de aangezochte staat in werking is getreden, met uitzondering van onderhoudsverplichtingen die voortvloeien uit een ouder-kindrelatie jegens een persoon jonger dan 21 jaar.
 
-#### Artikel 57. Verstrekken van inlichtingen betreffende wetten, procedures en diensten
+##### Artikel 57. Verstrekken van inlichtingen betreffende wetten, procedures en diensten
 
 1. Een verdragsluitende staat verstrekt op het tijdstip van de nederlegging van zijn akte van bekrachtiging of toetreding of bij het indienen van een verklaring overeenkomstig artikel 61 van het Verdrag het Permanent Bureau van de Haagse Conferentie voor Internationaal Privaatrecht:
 
@@ -758,7 +777,7 @@ Bij de uitlegging van dit Verdrag dient rekening te worden gehouden met het inte
 
 ### HOOFDSTUK IX. SLOTBEPALINGEN
 
-#### Artikel 58. Ondertekening, bekrachtiging en toetreding
+##### Artikel 58. Ondertekening, bekrachtiging en toetreding
 
 1. Het Verdrag staat open voor ondertekening door de staten die lid waren van de Haagse Conferentie voor Internationaal Privaatrecht op het tijdstip van haar eenentwintigste zitting en door de overige staten die aan die zitting deelnamen.
 
@@ -770,7 +789,7 @@ Bij de uitlegging van dit Verdrag dient rekening te worden gehouden met het inte
 
 5. Deze toetreding heeft slechts gevolgen in de betrekkingen tussen de toetredende staat en die verdragsluitende staten die niet binnen twaalf maanden na de ontvangst van de in [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IX&artikel=65&z=2007-11-23&g=2007-11-23) bedoelde kennisgeving bezwaar hebben gemaakt tegen de toetreding van deze staat. Een dergelijk bezwaar kan ook door een staat worden gemaakt op het tijdstip van bekrachtiging, aanvaarding of goedkeuring van het Verdrag na een toetreding. Van elk bezwaar wordt kennisgeving gedaan aan de depositaris.
 
-#### Artikel 59. Regionale organisaties voor economische integratie
+##### Artikel 59. Regionale organisaties voor economische integratie
 
 1. Een regionale organisatie voor economische integratie die alleen uit soevereine staten is samengesteld en die bevoegd is ter zake van sommige of alle aangelegenheden die in dit Verdrag worden geregeld, kan dit Verdrag ook ondertekenen, aanvaarden, goedkeuren of hiertoe toetreden. In dat geval heeft de regionale organisatie voor economische integratie de rechten en verplichtingen van een verdragsluitende staat, voor zover de organisatie bevoegd is ter zake van de aangelegenheden waarop het Verdrag van toepassing is.
 
@@ -782,7 +801,7 @@ Bij de uitlegging van dit Verdrag dient rekening te worden gehouden met het inte
 
 5. Elke verwijzing in dit Verdrag naar een „verdragsluitende staat” of naar een „staat” is in voorkomend geval eveneens van toepassing op een regionale organisatie voor economische integratie die partij is bij het Verdrag. In het geval dat een regionale organisatie voor economische integratie een verklaring in overeenstemming met het derde lid heeft afgelegd, zijn alle verwijzingen in dit Verdrag naar een „verdragsluitende staat” of een „staat” in voorkomend geval eveneens van toepassing op de desbetreffende lidstaten van de organisatie.
 
-#### Artikel 60. Inwerkingtreding
+##### Artikel 60. Inwerkingtreding
 
 1. Het Verdrag treedt in werking op de eerste dag van de maand volgend op het verstrijken van drie maanden na de nederlegging van de tweede akte van bekrachtiging, aanvaarding of goedkeuring, bedoeld in [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IX&artikel=58&z=2007-11-23&g=2007-11-23).
 
@@ -794,7 +813,7 @@ Bij de uitlegging van dit Verdrag dient rekening te worden gehouden met het inte
 
 - c. voor een territoriale eenheid waartoe het Verdrag in overeenstemming met [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IX&artikel=61&z=2007-11-23&g=2007-11-23) is uitgebreid, op de eerste dag van de maand volgend op het verstrijken van drie maanden na de in dat artikel bedoelde kennisgeving.
 
-#### Artikel 61. Verklaringen ten aanzien van niet-geünificeerde rechtsstelsels
+##### Artikel 61. Verklaringen ten aanzien van niet-geünificeerde rechtsstelsels
 
 1. Indien een staat twee of meer territoriale eenheden heeft waarin verschillende rechtsstelsels van toepassing zijn betreffende in dit Verdrag geregelde aangelegenheden, kan hij op het tijdstip van ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding in overeenstemming met [artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IX&artikel=63&z=2007-11-23&g=2007-11-23) verklaren dat dit Verdrag op al deze territoriale eenheden of slechts op een of meer daarvan van toepassing is en kan hij te allen tijde deze verklaring wijzigen door een nieuwe verklaring af te leggen.
 
@@ -804,7 +823,7 @@ Bij de uitlegging van dit Verdrag dient rekening te worden gehouden met het inte
 
 4. Dit artikel is niet van toepassing op regionale organisaties voor economische integratie.
 
-#### Artikel 62. Voorbehouden
+##### Artikel 62. Voorbehouden
 
 1. Elke verdragsluitende staat kan, uiterlijk op het tijdstip van bekrachtiging, aanvaarding, goedkeuring of toetreding, of op het tijdstip waarop een verklaring bedoeld in [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IX&artikel=61&z=2007-11-23&g=2007-11-23) wordt afgelegd, een of meer van de voorbehouden bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=I&artikel=2&z=2007-11-23&g=2007-11-23), [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=20&z=2007-11-23&g=2007-11-23), [artikel 30, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=30&z=2007-11-23&g=2007-11-23), [artikel 44, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=VIII&artikel=44&z=2007-11-23&g=2007-11-23), en [artikel 55, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=VIII&artikel=55&z=2007-11-23&g=2007-11-23), maken. Andere voorbehouden zijn niet toegestaan.
 
@@ -814,7 +833,7 @@ Bij de uitlegging van dit Verdrag dient rekening te worden gehouden met het inte
 
 4. Met uitzondering van het in [artikel 2, tweede lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=I&artikel=2&z=2007-11-23&g=2007-11-23), bedoelde voorbehoud hebben voorbehouden uit hoofde van dit artikel geen wederkerige gevolgen.
 
-#### Artikel 63. Verklaringen
+##### Artikel 63. Verklaringen
 
 1. De in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=I&artikel=2&z=2007-11-23&g=2007-11-23), [artikel 11, eerste lid, onderdeel g)](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=III&artikel=11&z=2007-11-23&g=2007-11-23), [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=III&artikel=16&z=2007-11-23&g=2007-11-23), [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=24&z=2007-11-23&g=2007-11-23), [artikel 30, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=30&z=2007-11-23&g=2007-11-23), [artikel 44, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=VIII&artikel=44&z=2007-11-23&g=2007-11-23), [artikel 59, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IX&artikel=59&z=2007-11-23&g=2007-11-23), en [artikel 61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IX&artikel=61&z=2007-11-23&g=2007-11-23), bedoelde verklaringen mogen worden afgelegd bij de ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding of op enig tijdstip daarna, en mogen te allen tijde worden gewijzigd of ingetrokken.
 
@@ -824,13 +843,13 @@ Bij de uitlegging van dit Verdrag dient rekening te worden gehouden met het inte
 
 4. Een op een later tijdstip afgelegde verklaring en elke wijziging of intrekking van een verklaring, worden van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum waarop de kennisgeving door de depositaris is ontvangen.
 
-#### Artikel 64. Opzegging
+##### Artikel 64. Opzegging
 
 1. Een staat die partij is bij het Verdrag kan dit opzeggen door middel van een schriftelijke kennisgeving gericht aan de depositaris. De opzegging kan worden beperkt tot bepaalde territoriale eenheden van een staat met meerdere eenheden waarop dit Verdrag van toepassing is.
 
 2. De opzegging wordt van kracht op de eerste dag van de maand volgend op het verstrijken van een termijn van twaalf maanden na de datum waarop de kennisgeving door de depositaris is ontvangen. Wanneer in de kennisgeving een langere opzegtermijn is aangegeven, wordt de opzegging van kracht na het verstrijken van deze langere termijn, na de datum waarop de kennisgeving door de depositaris is ontvangen.
 
-#### Artikel 65. Kennisgeving
+##### Artikel 65. Kennisgeving
 
 De depositaris stelt de leden van de Haagse Conferentie voor Internationaal Privaatrecht, en andere staten en regionale organisaties voor economische integratie die in overeenstemming met de [artikelen 58](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IX&artikel=58&z=2007-11-23&g=2007-11-23) en [59](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IX&artikel=59&z=2007-11-23&g=2007-11-23) hebben ondertekend, bekrachtigd, aanvaard, goedgekeurd of zijn toegetreden, in kennis van het volgende:
 

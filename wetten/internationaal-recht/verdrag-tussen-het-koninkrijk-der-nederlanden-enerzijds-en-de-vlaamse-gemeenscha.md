@@ -1,13 +1,38 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden, enerzijds en de Vlaamse Gemeenschap en het Vlaams Gewest, anderzijds inzake de samenwerking op het gebied van het beleid en het beheer in het Schelde-estuarium"
 identifier: "BWBV0003047"
-categorie: "Internationaal recht"
-publicatiedatum: 2008-10-01
-laatste_update: 2005-12-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003047"
+country: "nl"
+rank: "verdrag"
+publication_date: "2008-10-01"
+last_updated: "2005-12-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003047"
+soort: "verdrag"
+stam_id: "10003306363"
+version_id: "10003333882"
+internal_id: "C10008429281"
+label_id: "10003292184"
+dtd_version: "2.0"
+original_entry_into_force: "2008-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003047/2008-10-01/0"
+intitule_bron: "Trb.2005-316"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-08-28"
+intitule_published: "2005-12-23"
+intitule_in_force: "2008-09-22"
+intitule_status: "goed"
+original_publication: "Trb.2005-316"
+original_signed_date: "2008-08-28"
+original_published_date: "2005-12-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2005-316"
+entry_into_force_date: "2008-10-01"
+jci_1_3: "jci1.3:c:BWBV0003047&z=2008-10-01&g=2008-10-01"
+jci_1_0: "1.0:c:BWBV0003047&g=2008-10-01"
+citeertitel_status: "redactioneel"
+signed_date: "2008-08-28"
+entry_into_force: "2008-10-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden, enerzijds en de Vlaamse Gemeenschap en het Vlaams Gewest, anderzijds inzake de samenwerking op het gebied van het beleid en het beheer in het Schelde-estuarium
 
 Het Koninkrijk der Nederlanden, enerzijds,
@@ -34,7 +59,7 @@ komen het volgende overeen:
 
 ### Hoofdstuk I. INLEIDING
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit Verdrag wordt verstaan onder:
 
@@ -58,7 +83,7 @@ In dit Verdrag wordt verstaan onder:
 
 - j. „Scheldeverdrag’’: het op 3 december 2002 te Gent gesloten Verdrag inzake de bescherming van de Schelde.
 
-#### Artikel 2. Toepassingsgebied
+##### Artikel 2. Toepassingsgebied
 
 1. Dit Verdrag is van toepassing op het volgende gebied:
 
@@ -80,7 +105,7 @@ In dit Verdrag wordt verstaan onder:
 
 ### Hoofdstuk II. DOELSTELLINGEN
 
-#### Artikel 3. Doel en voorwerp
+##### Artikel 3. Doel en voorwerp
 
 1. Dit Verdrag regelt de samenwerking tussen Nederland en Vlaanderen teneinde een gemeenschappelijk beleid en een daarop afgestemd gemeenschappelijk beheer in het Schelde-estuarium te verwezenlijken met als doel het ontwikkelen van het Schelde-estuarium als een multifunctioneel estuarien watersysteem dat op duurzame wijze wordt gebruikt voor menselijke behoeften.
 
@@ -102,7 +127,7 @@ In dit Verdrag wordt verstaan onder:
 
 5. Dit Verdrag heeft mede tot doel de samenwerking op het gebied van wetenschappelijk onderzoek tussen Nederland en Vlaanderen zoals bedoeld in Artikel 6 te bevorderen.
 
-#### Artikel 4. De Vlaams-Nederlandse Scheldecommissie
+##### Artikel 4. De Vlaams-Nederlandse Scheldecommissie
 
 1. Ten behoeve van de ontwikkeling, tenuitvoerlegging en bewaking van de doelstellingen omschreven in Artikel 3 stellen de Verdragsluitende Partijen de Vlaams-Nederlandse Scheldecommissie in. Deze Commissie omvat:
 
@@ -122,7 +147,7 @@ In dit Verdrag wordt verstaan onder:
 
 - d. het bevorderen van samenwerking met betrekking tot specifieke terreinen van beheer.
 
-#### Artikel 5. Plannen, programma’s en projecten
+##### Artikel 5. Plannen, programma’s en projecten
 
 1. Het Politiek College beraadslaagt en besluit, op verzoek van hetzij een van de delegaties in dit College, hetzij van het Ambtelijk College, over voorstellen voor het voorbereiden, vaststellen en uitvoeren van plannen, programma’s en projecten.
 
@@ -142,7 +167,7 @@ In dit Verdrag wordt verstaan onder:
 
 9. Het Politiek College kan, indien dit bijdraagt tot de verwezenlijking van de doelstellingen van dit Verdrag, voorstellen doen aan de Regeringen van de Verdragsluitende Partijen voor specifieke grensoverschrijdende regelstelling met het oog op de voorbereiding, de vaststelling en de uitvoering van plannen, programma’s en projecten.
 
-#### Artikel 6. Onderzoek en fysieke monitoring
+##### Artikel 6. Onderzoek en fysieke monitoring
 
 1. De gemeenschappelijke fysieke monitoring bedoeld in Artikel 3, derde lid, en het gemeenschappelijk wetenschappelijk onderzoek, bedoeld in Artikel 3, vijfde lid, hebben tot doel:
 
@@ -154,7 +179,7 @@ In dit Verdrag wordt verstaan onder:
 
 2. Uitsluitend de Vlaams-Nederlandse Scheldecommissie is bevoegd om conclusies en aanbevelingen aan de Verdragsluitende Partijen te richten betreffende de uitvoering van het voorgaande lid en de in Artikel 3, derde lid, omschreven doelstelling.
 
-#### Artikel 7. Relaties met andere verdragen
+##### Artikel 7. Relaties met andere verdragen
 
 1. Het Politiek College geeft uitvoering aan Artikel 4, vijfde en zesde lid, van het Scheldeverdrag.
 
@@ -164,7 +189,7 @@ In dit Verdrag wordt verstaan onder:
 
 4. De Verdragsluitende Partijen zullen in bilaterale verdragen of samenwerkingsakkoorden met het Koninkrijk België geen verbintenissen aangaan, die de verwezenlijking van de doelstellingen van dit Verdrag in het gedrang brengen.
 
-#### Artikel 8. Externe betrekkingen
+##### Artikel 8. Externe betrekkingen
 
 1. De Vlaams-Nederlandse Scheldecommissie draagt zorg voor de structurele betrokkenheid bij de uitvoering van dit Verdrag van lokale overheden waarvan de bevoegdheden verband houden met dit Verdrag.
 
@@ -178,15 +203,15 @@ In dit Verdrag wordt verstaan onder:
 
 ### Hoofdstuk III. EVALUATIE, RAPPORTAGE EN GESCHILLEN
 
-#### Artikel 9. Evaluatie
+##### Artikel 9. Evaluatie
 
 Het Politiek College beoordeelt elke vijf jaar in welke mate de doelstellingen van dit Verdrag zijn verwezenlijkt en doet desgewenst voorstellen aan de Verdragsluitende Partijen om maatregelen te treffen teneinde de mogelijkheden tot verwezenlijking van deze doelstellingen te verbeteren, daarbij inbegrepen voorstellen tot wijziging van dit Verdrag.
 
-#### Artikel 10. Rapportage
+##### Artikel 10. Rapportage
 
 Ten behoeve van de Regeringen van de Verdragsluitende Partijen stelt het Politiek College periodiek een verslag op over de belangrijke ontwikkelingen bij de tenuitvoerlegging van dit Verdrag. Dit verslag wordt ter kennis van het Nederlandse en het Vlaamse parlement gebracht.
 
-#### Artikel 11. Geschillen
+##### Artikel 11. Geschillen
 
 1. Het Politiek College beraadslaagt over alle geschillen of moeilijkheden omtrent de toepassing, de uitvoering of de interpretatie van dit Verdrag, teneinde een oplossing te bereiken.
 
@@ -194,7 +219,7 @@ Ten behoeve van de Regeringen van de Verdragsluitende Partijen stelt het Politie
 
 ### Hoofdstuk IV. SAMENSTELLING EN WERKWIJZE VAN DE VLAAMS-NEDERLANDSE SCHELDECOMMISSIE
 
-#### Artikel 12. Samenstelling en werkwijze van het Politiek College
+##### Artikel 12. Samenstelling en werkwijze van het Politiek College
 
 1. De Nederlandse en de Vlaamse Regering worden in het Politiek College vertegenwoordigd door de terzake bevoegde bewindspersonen, die elk hun delegatie samenstellen.
 
@@ -208,7 +233,7 @@ Ten behoeve van de Regeringen van de Verdragsluitende Partijen stelt het Politie
 
 6. Het Politiek College draagt het Ambtelijk College op om de samenstelling en de taken van het Uitvoerend Secretariaat te bepalen ten dienste van de uitvoering van de doelstellingen van dit Verdrag. Het Politiek College kan een besluit nemen, dan wel de Verdragsluitende Partijen kunnen een regeling treffen, teneinde het Uitvoerend Secretariaat in staat te stellen zijn taken te vervullen.
 
-#### Artikel 13. Samenstelling en werkwijze van het Ambtelijk College
+##### Artikel 13. Samenstelling en werkwijze van het Ambtelijk College
 
 1. Het Ambtelijk College is samengesteld uit hoge Nederlandse en Vlaamse ambtenaren.
 
@@ -226,7 +251,7 @@ Ten behoeve van de Regeringen van de Verdragsluitende Partijen stelt het Politie
 
 8. Het Ambtelijk College kan werkgroepen samenstellen voor de uitvoering van specifieke opdrachten.
 
-#### Artikel 14. Taken van het Uitvoerend Secretariaat
+##### Artikel 14. Taken van het Uitvoerend Secretariaat
 
 1. Het Uitvoerend Secretariaat ondersteunt het Politiek College en het Ambtelijk College op organisatorisch en administratief vlak en geeft uitvoering aan de door deze Colleges opgedragen taken.
 
@@ -234,7 +259,7 @@ Ten behoeve van de Regeringen van de Verdragsluitende Partijen stelt het Politie
 
 ### Hoofdstuk V. FINANCIERING
 
-#### Artikel 15. Financiering
+##### Artikel 15. Financiering
 
 1. Elke Verdragsluitende Partij draagt de kosten van haar vertegenwoordiging in het Politiek College en het Ambtelijk College.
 
@@ -250,11 +275,11 @@ Ten behoeve van de Regeringen van de Verdragsluitende Partijen stelt het Politie
 
 ### Hoofdstuk VI. SLOTBEPALINGEN
 
-#### Artikel 16. Wijziging
+##### Artikel 16. Wijziging
 
 Door de Verdragsluitende Partijen schriftelijk overeengekomen wijzigingen van dit Verdrag treden in werking op de dag waarop de Verdragsluitende Partijen elkaar schriftelijk hebben medegedeeld dat aan de constitutionele vereisten is voldaan.
 
-#### Artikel 17. Inwerkingtreding
+##### Artikel 17. Inwerkingtreding
 
 Dit Verdrag treedt in werking op de eerste dag van de tweede maand volgend op de datum waarop de Verdragsluitende Partijen elkaar schriftelijk hebben medegedeeld dat aan de constitutionele vereisten is voldaan.
 

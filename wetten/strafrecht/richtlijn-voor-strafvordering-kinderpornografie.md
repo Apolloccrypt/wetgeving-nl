@@ -1,13 +1,35 @@
 ---
 title: "Richtlijn voor strafvordering kinderpornografie"
 identifier: "BWBR0049873"
-categorie: "Strafrecht"
-publicatiedatum: 2024-07-01
-laatste_update: 2024-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049873"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2024-07-01"
+last_updated: "2024-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049873"
+soort: "beleidsregel"
+stam_id: "17144573"
+version_id: "30174732"
+internal_id: "C43235161"
+label_id: "17052954"
+dtd_version: "2.0"
+original_entry_into_force: "2024-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049873/2024-07-01/0"
+intitule_bron: "Stcrt.2024-19871"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2024-06-24"
+intitule_in_force: "2024-06-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-19871"
+original_published_date: "2024-06-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-19871"
+entry_into_force_date: "2024-07-01"
+jci_1_3: "jci1.3:c:BWBR0049873&z=2024-07-01&g=2024-07-01"
+jci_1_0: "1.0:c:BWBR0049873&g=2024-07-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2024-07-01"
 ---
-
 # Richtlijn voor strafvordering kinderpornografie
 
 ### I. Inleiding

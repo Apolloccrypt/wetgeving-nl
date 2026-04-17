@@ -1,13 +1,37 @@
 ---
 title: "Vrije dagen sparen in relatie tot ontslag wegens arbeidsongeschiktheid"
 identifier: "BWBR0010214"
-categorie: "Arbeidsrecht"
-publicatiedatum: 1999-01-13
-laatste_update: 1999-01-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010214"
+country: "nl"
+rank: "circulaire"
+publication_date: "1999-01-13"
+last_updated: "1999-01-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010214"
+soort: "circulaire"
+stam_id: "6359333"
+version_id: "11017612"
+internal_id: "C14911941"
+label_id: "6348184"
+original_entry_into_force: "1999-01-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010214/1999-01-13/0"
+intitule_bron: "Stcrt.1999-23"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-01-13"
+intitule_published: "1999-02-03"
+intitule_in_force: "1999-02-03"
+intitule_status: "goed"
+original_publication: "Stcrt.1999-23"
+original_signed_date: "1999-01-13"
+original_published_date: "1999-02-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1999-23-p6-SC17476"
+entry_into_force_date: "1999-01-13"
+jci_1_3: "jci1.3:c:BWBR0010214&z=1999-01-13&g=1999-01-13"
+jci_1_0: "1.0:c:BWBR0010214&g=1999-01-13"
+citeertitel_status: "redactioneel"
+signed_date: "1999-01-13"
+entry_into_force: "1999-01-13"
 ---
-
 # Vrije dagen sparen in relatie tot ontslag wegens arbeidsongeschiktheid
 
 Circulaire aan de ministers

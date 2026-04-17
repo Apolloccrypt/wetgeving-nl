@@ -1,13 +1,39 @@
 ---
 title: "Regeling capaciteitsbeheersing binnenvaartvloot"
 identifier: "BWBR0037026"
-categorie: "Overig"
-publicatiedatum: 2004-04-09
-laatste_update: 2004-04-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037026"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2004-04-09"
+last_updated: "2004-04-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037026"
+soort: "ministeriele-regeling"
+stam_id: "13260163"
+version_id: "22688212"
+internal_id: "C32815681"
+label_id: "13228364"
+dtd_version: "2.0"
+original_entry_into_force: "2001-11-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037026/2004-04-09/0"
+intitule_bron: "Stcrt.2001-222"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-11-05"
+intitule_published: "2001-11-15"
+intitule_in_force: "2001-11-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2001-222"
+original_signed_date: "2001-11-05"
+original_published_date: "2001-11-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2001-222-p20-SC31742"
+entry_into_force_date: "2001-11-23"
+entry_into_force_dossier: "27634"
+jci_1_3: "jci1.3:c:BWBR0037026&z=2004-04-09&g=2004-04-09"
+jci_1_0: "1.0:c:BWBR0037026&g=2004-04-09"
+citeertitel_status: "officieel"
+signed_date: "2001-11-05"
+entry_into_force: "2001-11-23"
 ---
-
 # Regeling capaciteitsbeheersing binnenvaartvloot
 
 Gelet op [artikel 5 van de Wet capaciteitsbeheersing binnenvaartvloot](https://wetten.overheid.nl/jci1.3:c:BWBR0012950&artikel=5);
@@ -16,11 +42,11 @@ Besluit:
 
 Treedt in werking op het tijdstip waarop de Wet capaciteitsbeheersing binnenvaartvloot in werking treedt.
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van deze regeling wordt verstaan onder ton: kubieke meter waterverplaatsing als bedoeld in [artikel 1, onderdeel f, van het Metingsbesluit Binnenvaartuigen 1978](https://wetten.overheid.nl/jci1.3:c:BWBR0003246&artikel=1).
 
-#### Artikel 2
+##### Artikel 2
 
 1. De eigenaar van een in de vaart te brengen binnenschip als bedoeld in artikel 4, eerste lid, van de Raadsverordening verzoekt de Minister om toezending van een aanmeldingsformulier.
 
@@ -28,15 +54,15 @@ Voor de toepassing van deze regeling wordt verstaan onder ton: kubieke meter wat
 
 3. De Minister houdt een register bij van de ingediende aanmeldingen.
 
-#### Artikel 3
+##### Artikel 3
 
 De eigenaar van het binnenschip die voldoet aan een van de voorwaarden, bedoeld in artikel 4, eerste lid, van de Raadsverordening, ontvangt van de Minister daarvan een bewijs.
 
-#### Artikel 4
+##### Artikel 4
 
 Aanvragen om een slooppremie als bedoeld in artikel 6 van de Raadsverordening dan wel aanmeldingen van compenserende tonnage als bedoeld in artikel 4, derde lid, van de Raadsverordening voor een binnenschip worden ingediend bij de Minister.
 
-#### Artikel 5
+##### Artikel 5
 
 Bij de indiening van een aanvraag dan wel aanmelding als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037026&artikel=4&z=2004-04-09&g=2004-04-09) legt de eigenaar met betrekking tot het desbetreffende binnenschip, ter vaststelling of dat binnenschip tot de actieve vloot behoort en bedrijfszeker is, de volgende bescheiden over:
 
@@ -50,11 +76,11 @@ Bij de indiening van een aanvraag dan wel aanmelding als bedoeld in [artikel 4](
 
 - e. een afschrift van het vergunning of inschrijvingsbewijs, bedoeld in [artikel 22, onderscheidenlijk 46 van de Wet vervoer binnenvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005319&artikel=22), indien verstrekt.
 
-#### Artikel 6
+##### Artikel 6
 
 Bij de vaststelling of aan een van de voorwaarden, bedoeld in artikel 4, eerste lid, van de Raadsverordening, is voldaan en bij de vaststelling van de slooppremie wordt een gedeelte van een ton naar boven afgerond tot een hele ton, een gedeelte van een kilowatt naar boven afgerond tot een hele kilowatt en delen van guldens onderscheidenlijk euro’s naar boven afgerond tot hele guldens onderscheidenlijk euro’s.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Ten aanzien van een binnenschip dat wordt gesloopt:
 
@@ -92,7 +118,7 @@ Bij de vaststelling of aan een van de voorwaarden, bedoeld in artikel 4, eerste 
 
 3. In het geval de romp van een binnenschip onherstelbaar is verschroot of, wanneer het een duwboot betreft, de romp en de motor onherstelbaar zijn vernietigd in een andere lidstaat dan Nederland of in Zwitserland, is het eerste lid niet van toepassing en levert de eigenaar in afwijking van het tweede lid, onderdeel a, na de daadwerkelijke sloop een door de bevoegde autoriteit van het desbetreffende land afgegeven verklaring in omtrent de onherstelbare verschroting van de romp van het binnenschip of, wanneer het een duwboot betreft, de onherstelbare vernietiging van de romp en de motor.
 
-#### Artikel 8
+##### Artikel 8
 
 De eigenaar van een binnenschip dat definitief uit de vaart is genomen in afwachting van sloop levert de volgende bescheiden bij de Minister in:
 
@@ -100,21 +126,21 @@ De eigenaar van een binnenschip dat definitief uit de vaart is genomen in afwach
 
 - b. voor zover van toepassing de bescheiden, bedoeld in [artikel 7, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0037026&artikel=7&z=2004-04-09&g=2004-04-09).
 
-#### Artikel 9
+##### Artikel 9
 
 [Artikel 7, eerste lid, tweede lid, onderdelen a, b, c en d, en het derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037026&artikel=7&z=2004-04-09&g=2004-04-09), is van overeenkomstige toepassing op de sloop van een binnenschip als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037026&artikel=8&z=2004-04-09&g=2004-04-09).
 
-#### Artikel 10
+##### Artikel 10
 
 1. De Minister houdt een register bij van de binnenschepen, bedoeld in artikel 5, tweede lid, van de Raadsverordening.
 
 2. De [artikelen 4 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037026&artikel=4&z=2004-04-09&g=2004-04-09) zijn van overeenkomstige toepassing op binnenschepen als bedoeld in het eerste lid.
 
-#### Artikel 11
+##### Artikel 11
 
 In het geval ter voldoening aan een van de voorwaarden, bedoeld in artikel 4, eerste lid, van de Raadsverordening, een in een andere lidstaat dan Nederland of in Zwitserland geregistreerd binnenschip is gesloopt, levert de eigenaar van het in de vaart te brengen binnenschip een door de bevoegde autoriteit van het desbetreffende land afgegeven verklaring in omtrent de vaststelling, dat aan alle vereisten met betrekking tot de sloop van een binnenschip in het kader van de oud-voor-nieuwregeling is voldaan.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Het model van het aanmeldingsformulier, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037026&artikel=2&z=2004-04-09&g=2004-04-09), wordt vastgesteld overeenkomstig de bij deze regeling gevoegde[bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037026&bijlage=1&z=2004-04-09&g=2004-04-09).
 
@@ -128,7 +154,7 @@ In het geval ter voldoening aan een van de voorwaarden, bedoeld in artikel 4, ee
 
 6. Het model van het formulier waarmee binnenschepen worden aangemeld bij het register, bedoeld in[artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037026&artikel=10&z=2004-04-09&g=2004-04-09), wordt vastgesteld overeenkomstig de bij deze regeling gevoegde [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037026&bijlage=6&z=2004-04-09&g=2004-04-09).
 
-#### Artikel 13
+##### Artikel 13
 
 1. Het is de eigenaar van een binnenschip dat in afwachting van de sloop definitief uit de vaart moet worden genomen verboden het binnenschip te gebruiken voor vervoer of opslag.
 
@@ -136,23 +162,23 @@ In het geval ter voldoening aan een van de voorwaarden, bedoeld in artikel 4, ee
 
 3. Overtreding van het verbod, bedoeld in het eerste, onderscheidenlijk tweede lid, vormt een strafbaar feit in de zin van [artikel 1, onder 4o, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1).
 
-#### Artikel 14
+##### Artikel 14
 
 1. Wijzigt het Besluit aanwijzing toezichthouders en opsporingsambtenaren Rijksverkeersinspectie.
 
 2. Wijzigt het Privacy-reglement RVI.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De Regeling oud-voor-nieuw in Europese binnenvaart wordt ingetrokken.
 
 2. De Sloopregeling sleep-, duw- of duwsleepboten wordt ingetrokken.
 
-#### Artikel 16
+##### Artikel 16
 
 Deze regeling treedt in werking op het tijdstip waarop de [Wet capaciteitsbeheersing binnenvaartvloot](https://wetten.overheid.nl/jci1.3:c:BWBR0012950) in werking treedt.
 
-#### Artikel 17
+##### Artikel 17
 
 Deze regeling wordt aangehaald als: Regeling capaciteitsbeheersing binnenvaartvloot.
 

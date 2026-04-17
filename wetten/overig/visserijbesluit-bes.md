@@ -1,16 +1,41 @@
 ---
 title: "Visserijbesluit BES"
 identifier: "BWBR0028413"
-categorie: "Overig"
-publicatiedatum: 2023-07-15
-laatste_update: 2023-07-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028413"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2023-07-15"
+last_updated: "2023-07-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028413"
+soort: "AMvB-BES"
+stam_id: "10777633"
+version_id: "17754142"
+internal_id: "C24817261"
+label_id: "10752244"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028413/2023-07-15/0"
+intitule_bron: "Stb.2010-572"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-16"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-572"
+original_signed_date: "2010-09-16"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-572"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028413&z=2023-07-15&g=2023-07-15"
+jci_1_0: "1.0:c:BWBR0028413&g=2023-07-15"
+citeertitel_status: "officieel"
+signed_date: "2010-09-16"
+entry_into_force: "2010-10-10"
 ---
-
 # Visserijbesluit BES
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -36,7 +61,7 @@ In dit besluit wordt verstaan onder:
 
 - **zeekomkommers:** soorten die behoren tot de familie van de Holothuroidea.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het is in de territoriale zee en de visserijzone verboden te vissen met:
 
@@ -78,7 +103,7 @@ In dit besluit wordt verstaan onder:
 
 6. Het is verboden te handelen in strijd met de bij een ontheffing gestelde voorschriften.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het is aan een ieder in de territoriale zee en de visserijzone verboden te vissen op de volgende vissen, of om deze vissen die in die gebieden zijn gevangen, aan boord te houden, over te laden, te verplaatsen, aan te landen, of voorhanden te hebben in die gebieden of in de onmiddellijke nabijheid van die wateren:
 
@@ -112,7 +137,7 @@ In dit besluit wordt verstaan onder:
 
 5. Onze minister kan nadere regels stellen aan de visserij op soorten waarop het is toegestaan te vissen.
 
-#### Artikel 3a
+##### Artikel 3a
 
 1. De Visserijcommissie BES bestaat uit een voorzitter, tevens lid, en drie andere leden. De leden van de Visserijcommissie, de voorzitter daaronder begrepen, worden telkens voor de periode van 6 jaren benoemd.
 
@@ -124,7 +149,7 @@ In dit besluit wordt verstaan onder:
 
 5. Onze Minister stelt nadere regels met betrekking tot de taken, de werkwijze van de Visserijcommissie BES en de vergoeding voor de leden van de Visserijcommissie BES.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De vergunninghouder houdt een verslag van de visactiviteiten bij, dat informatie omtrent het visgebied, de visserij-inspanning, de gevangen soorten en de gebruikte vismethoden omvat.
 
@@ -132,7 +157,7 @@ De modellen voor het bedoelde verslag worden door de Visserijcommissie, bedoeld 
 
 2. Onze Minister kan nadere regels stellen met betrekking tot het in het eerste lid bedoelde verslag van de visserijactiviteiten.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De hoogte van het recht, bedoeld in [artikel 12 van de Visserijwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028168&artikel=12) bedraagt voor het vissen met visfuiken voor het vangen van kreeft met duikers, voor het vissen op zeeslakken behorende tot de Strombus gigas, alsmede voor het vissen met bottom en drop longlines op demersale soorten:
 
@@ -186,18 +211,18 @@ De modellen voor het bedoelde verslag worden door de Visserijcommissie, bedoeld 
 
 3. De inning van het recht, bedoeld in het eerste lid, geschiedt door middel van storting van het verschuldigde op een door het Ministerie van Financiën aangehouden bankrekening.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Voor het visgebied van de Saba bank kunnen vergunningen die het gebruik van de vismethoden genoemd in [artikel 5, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0028413&artikel=5&z=2023-07-15&g=2023-07-15), in zich verenigen, worden afgegeven aan de natuurlijke personen en rechtspersonen bedoeld in [artikel 6, eerste lid, van de Visserijwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028168&artikel=6). Voor deze vergunningen zullen de tarieven en het bepaalde in artikel 5 eerste lid, onderdeel a, van toepassing zijn.
 
 2. Voor het visgebied rond Bonaire kunnen vergunningen die het gebruik van de vismethoden genoemd in [artikel 5, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0028413&artikel=5&z=2023-07-15&g=2023-07-15), in zich verenigen, worden afgegeven. Voor deze vergunningen zullen de tarieven en het bepaalde in artikel 5, eerste lid, onderdeel a, van toepassing zijn.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Dit besluit berust op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028168&artikel=3), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028168&artikel=4), en [12 van de Visserijwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028168&artikel=12).
 
 2. Dit besluit berust mede op [artikel 8a, derde lid, van de Wet grondslagen natuurbeheer- en bescherming BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&artikel=8a).
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit wordt aangehaald als: Visserijbesluit BES.

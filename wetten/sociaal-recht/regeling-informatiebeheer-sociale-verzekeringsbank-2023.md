@@ -1,20 +1,46 @@
 ---
-title: "Regeling Informatiebeheer Sociale Verzekeringsbank 2023"
+title: "Regeling Informatiebeheer Sociale Verzekeringsbank (SVB) 2023"
 identifier: "BWBR0048117"
-categorie: "Sociaal recht"
-publicatiedatum: 2023-05-02
-laatste_update: 2023-05-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048117"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-05-02"
+last_updated: "2023-05-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048117"
+soort: "zbo"
+stam_id: "16735923"
+version_id: "29383512"
+internal_id: "C41922621"
+label_id: "16652034"
+dtd_version: "2.0"
+original_entry_into_force: "2023-05-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048117/2023-05-02/0"
+intitule_bron: "Stcrt.2023-12429"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-02-27"
+intitule_published: "2023-05-01"
+intitule_in_force: "2023-05-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-12429"
+original_signed_date: "2023-02-27"
+original_published_date: "2023-05-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-12429"
+entry_into_force_date: "2023-05-02"
+jci_1_3: "jci1.3:c:BWBR0048117&z=2023-05-02&g=2023-05-02"
+jci_1_0: "1.0:c:BWBR0048117&g=2023-05-02"
+citeertitel_status: "officieel"
+short_title: "Regeling Informatiebeheer Sociale Verzekeringsbank 2023"
+signed_date: "2023-02-27"
+entry_into_force: "2023-05-02"
 ---
-
 # Regeling Informatiebeheer Sociale Verzekeringsbank (SVB) 2023
 
 Gelet op [artikel 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14),
 
 Besluit:
 
-#### Artikel 1. Begrippenkader
+##### Artikel 1. Begrippenkader
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -66,11 +92,11 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - p. **Zorgdrager:** degene die bij of krachtens de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) belast is met de zorg voor overheidsinformatie van de SVB.
 
-#### Artikel 2. Reikwijdte
+##### Artikel 2. Reikwijdte
 
 De regeling Informatiebeheer is van toepassing op het beheer van alle overheidsinformatie van de SVB. De zorg van de SVB eindigt door overbrenging, vervreemding of vernietiging van de overheidsinformatie van de SVB.
 
-#### Artikel 3. Verantwoordelijkheden
+##### Artikel 3. Verantwoordelijkheden
 
 1. **Raad van Bestuur** (RvB)
 
@@ -140,11 +166,11 @@ De regeling Informatiebeheer is van toepassing op het beheer van alle overheidsi
 
 - b. de medewerker in het werkproces is verantwoordelijk voor de (inhoudelijke) juistheid van de overheidsinformatie.
 
-#### Artikel 4. Toezicht
+##### Artikel 4. Toezicht
 
 De directeur van ieder bedrijfsonderdeel rapporteert over de staat van het informatiebeheer van de onder hem vallende processen in de Planning & Control cyclus.
 
-#### Artikel 5. Overgangs- en slotbepalingen
+##### Artikel 5. Overgangs- en slotbepalingen
 
 1. **Intrekking**
 

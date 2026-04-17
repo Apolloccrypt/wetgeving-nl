@@ -1,20 +1,46 @@
 ---
-title: "Regeling luchtverkeersdienstverlening"
+title: "Regeling tot vaststelling van nieuwe regelen inzake de luchtverkeersdienstverlening"
 identifier: "BWBR0009899"
-categorie: "Milieu"
-publicatiedatum: 2025-03-21
-laatste_update: 2025-03-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009899"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-03-21"
+last_updated: "2025-03-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009899"
+soort: "ministeriele-regeling"
+stam_id: "4643803"
+version_id: "28176542"
+internal_id: "C39724561"
+label_id: "4622414"
+dtd_version: "2.0"
+original_entry_into_force: "2022-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009899/2025-03-21/0"
+intitule_bron: "Stcrt.1998-195"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-09-15"
+intitule_published: "1998-10-13"
+intitule_in_force: "1998-10-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-45515"
+original_signed_date: "2021-11-22"
+original_published_date: "2021-11-24"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2021-45515"
+entry_into_force_date: "2022-01-01"
+jci_1_3: "jci1.3:c:BWBR0009899&z=2025-03-21&g=2025-03-21"
+jci_1_0: "1.0:c:BWBR0009899&g=2025-03-21"
+citeertitel_status: "officieel"
+short_title: "Regeling luchtverkeersdienstverlening"
+signed_date: "2021-11-22"
+entry_into_force: "2022-01-01"
 ---
-
 # Regeling tot vaststelling van nieuwe regelen inzake de luchtverkeersdienstverlening
 
 Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=3), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=9), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=10), [42, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=42), [43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=43), [44, derde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=44), en [50, tweede lid, van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=50);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -96,11 +122,11 @@ In deze regeling wordt verstaan onder:
 
 - **voet (ft):** gelijke lengte aan 0,3048 m.
 
-#### Artikel 1a. Grondslagen
+##### Artikel 1a. Grondslagen
 
 Deze regeling berust op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=4), [5, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=6), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=8) en [17 van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=17).
 
-#### Artikel 2. Algemene luchtverkeersleidingsgebieden en naderingsluchtverkeersleidingsgebieden
+##### Artikel 2. Algemene luchtverkeersleidingsgebieden en naderingsluchtverkeersleidingsgebieden
 
 1. Als algemeen luchtverkeersleidingsgebied zijn aangewezen:
 
@@ -142,17 +168,17 @@ Deze regeling berust op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWB
 
 3. De gebieden, bedoeld in het eerste en tweede lid, worden lateraal en verticaal gedefinieerd door de grenzen die zijn vastgesteld door de minister en die zijn opgenomen in de luchtvaartgids, hoofdstukken ENR 2 en 6.
 
-#### Artikel 3. Luchtverkeersroutes
+##### Artikel 3. Luchtverkeersroutes
 
 1. De luchtverkeersroutes, alsmede de per route geldende gebruiksbeperkingen in de Amsterdam FIR zijn de luchtverkeersroutes en gebruiksbeperkingen die zijn vastgesteld door de minister en die zijn opgenomen in de luchtvaartgids, hoofdstukken ENR 3 en 6.
 
 2. Binnen de Shaded Area kunnen bij overeenkomst als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=17&z=2025-03-21&g=2025-03-21) tussen AOCS Nieuw Milligen en ACC Amsterdam respectievelijk UAC Maastricht afspraken worden gemaakt over de uitvoering van militaire vluchten.
 
-#### Artikel 4. Helicopter main routes, helicopter protection zones en helicopter traffic zones
+##### Artikel 4. Helicopter main routes, helicopter protection zones en helicopter traffic zones
 
 De HMR’s, de HPZ’s en de HTZ’s binnen de Amsterdam FIR, het gedeelte van de London FIR en de Scottisch FIR, waarvoor het verlenen van luchtverkeersdiensten gedelegeerd is aan Nederland, zijn de HMR’s, de HPZ’s en de HTZ’s die zijn vastgesteld door de minister en die zijn opgenomen in de luchtvaartgids, hoofdstukken ENR 3 en 6.
 
-#### Artikel 5. Gecontroleerde luchthavens en plaatselijke luchtverkeersleidingsgebieden
+##### Artikel 5. Gecontroleerde luchthavens en plaatselijke luchtverkeersleidingsgebieden
 
 1. Als gecontroleerde luchthaven zijn aangewezen:
 
@@ -192,15 +218,15 @@ De HMR’s, de HPZ’s en de HTZ’s binnen de Amsterdam FIR, het gedeelte van d
 
 6. De in het tweede en derde lid genoemde gebieden worden lateraal en verticaal gedefinieerd door de grenzen die zijn vastgesteld door de minister en die zijn opgenomen in de luchtvaartgids, hoofdstukken ENR 2 en AD 2.
 
-#### Artikel 6. Het verlenen van luchtverkeersdiensten in een plaatselijk luchtverkeersleidingsgebied buiten de openstellingsuren van een gecontroleerde luchthaven
+##### Artikel 6. Het verlenen van luchtverkeersdiensten in een plaatselijk luchtverkeersleidingsgebied buiten de openstellingsuren van een gecontroleerde luchthaven
 
 Vervallen
 
-#### Artikel 7. Aerodrome Trafffic Zones op militaire luchthavens
+##### Artikel 7. Aerodrome Trafffic Zones op militaire luchthavens
 
 Vervallen
 
-#### Artikel 7a. Aerodrome Traffic Zone op luchthaven Budel
+##### Artikel 7a. Aerodrome Traffic Zone op luchthaven Budel
 
 1. De luchtruimte rond de luchthaven Budel geldt gedurende de openstellingsuren van die luchthaven ter bescherming van het luchthavenverkeer waaronder luchtvaartuigen met de luchthaven Budel als plaats van bestemming of vertrek als ATZ en wordt aangeduid als ATZ Budel.
 
@@ -210,15 +236,15 @@ Vervallen
 
 4. De AFIS-unit Budel neemt buiten de daglichtperiode tijdens de openstellingsuren van de luchthaven Budel voorafgaand aan de eerste vliegactiviteit en na afloop van de laatste vliegactiviteit contact op met de verlener van plaatselijke luchtverkeersleidingsdiensten Kleine-Brogel en het AOCS Nieuw Milligen.
 
-#### Artikel 7b. Aerodrome Traffic Zones (ATZ’s) op luchthaven Lelystad
+##### Artikel 7b. Aerodrome Traffic Zones (ATZ’s) op luchthaven Lelystad
 
 Vervallen
 
-#### Artikel 8. Aerodrome flight information zone op burgerluchtvaartterrein
+##### Artikel 8. Aerodrome flight information zone op burgerluchtvaartterrein
 
 Gedurende de openstellingsuren van de luchthaven Budel buiten de daglichtperiode geldt de luchtruimte rond de luchthaven waarvan de grenzen gelijk zijn aan de grenzen van de ATZ Budel als AFIZ.
 
-#### Artikel 9. TMZ en RMZ
+##### Artikel 9. TMZ en RMZ
 
 1. De gebieden, vastgesteld door de minister en gepubliceerd in de hoofdstukken ENR 2.2 en ENR 6-2.6 van de luchtvaartgids en opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=3&z=2025-03-21&g=2025-03-21), zijn aangewezen als TMZ, met uitzondering van de volgende gebieden:
 
@@ -246,7 +272,7 @@ Gedurende de openstellingsuren van de luchthaven Budel buiten de daglichtperiode
 
 3. De laterale en verticale grenzen van een in het tweede lid, onderdeel g, aangewezen RMZ zijn gelijk aan de grenzen van de plaatselijke luchtverkeersleidingsgebieden, bedoeld in [artikel 5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=5&z=2025-03-21&g=2025-03-21).
 
-#### Artikel 10. Luchtverkeersdiensten
+##### Artikel 10. Luchtverkeersdiensten
 
 1. De instanties, genoemd in de [artikelen 5.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.13) en [5.14 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.14), zijn volgens de volgende indeling belast met het geven van luchtverkeersdienstverlening:
 
@@ -293,7 +319,7 @@ Gedurende de openstellingsuren van de luchthaven Budel buiten de daglichtperiode
 
 2. Onverminderd verordening (EU) nr. 923/2012 verlenen de instanties, bedoeld in het eerste lid, luchtverkeersdiensten aan GAT in overeenstemming met de van toepassing zijnde bepalingen uit de bijlagen 10 en 11 en documenten 4444 en 7030 van het Verdrag inzake de burgerluchtvaart, zoals opgenomen in de bijlage ‘ICAO documenten behorende bij diverse luchtvaartregelingen’. Deze bijlage ligt ter inzage bij het Ministerie van Infrastructuur en Waterstaat.
 
-#### Artikel 11. ACC Amsterdam
+##### Artikel 11. ACC Amsterdam
 
 1. ACC Amsterdam verleent luchtverkeersdiensten aan vluchten in de volgende algemene luchtverkeersleidingsgebieden:
 
@@ -315,13 +341,13 @@ Gedurende de openstellingsuren van de luchthaven Budel buiten de daglichtperiode
 
 3. Behoudens uitzonderingen vermeld in de overeenkomst met AOCS Nieuw Milligen, worden de geldende vliegplangegevens, van vluchten waarvoor de verantwoordelijkheid berust bij ACC Amsterdam, tijdig verstrekt aan MilATCC Nieuw Milligen, ten einde een mogelijke militaire noodzaak tot onderschepping van de betreffende luchtvaartuigen voor identificatiedoeleinden te voorkomen.
 
-#### Artikel 12. UAC Maastricht
+##### Artikel 12. UAC Maastricht
 
 1. UAC Maastricht verleent luchtverkeersdiensten aan vluchten in de Amsterdam UTA en daarboven, die worden uitgevoerd op of boven vliegniveau 245, met uitzondering van vluchten waaraan luchtverkeersdiensten worden verleend door AOCS Nieuw Milligen, bedoeld in [artikel 13, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=13&z=2025-03-21&g=2025-03-21), dan wel door een instantie van een andere staat in de gebieden die zijn aangewezen door de Minister van Infrastructuur en Waterstaat en de Minister van Defensie.
 
 2. Het gestelde in [artikel 11, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=11&z=2025-03-21&g=2025-03-21), met betrekking tot ACC Amsterdam is van overeenkomstige toepassing op UAC Maastricht.
 
-#### Artikel 13. AOCS Nieuw Milligen
+##### Artikel 13. AOCS Nieuw Milligen
 
 1. AOCS Nieuw Milligen verleent luchtverkeersdiensten aan vluchten in de volgende algemene luchtverkeersleidingsgebieden:
 
@@ -341,7 +367,7 @@ Gedurende de openstellingsuren van de luchthaven Budel buiten de daglichtperiode
 
 4. In afwijking van het tweede lid verstrekt AOCS Nieuw Milligen geen inlichtingen over de status en wijziging in de bruikbaarheid van het GNSS.
 
-#### Artikel 14. North Sea Area Amsterdam (NSA Amsterdam)
+##### Artikel 14. North Sea Area Amsterdam (NSA Amsterdam)
 
 1. FIC Amsterdam verstrekt vluchtinformatie aan vluchten die worden uitgevoerd in NSA Amsterdam en verzorgt de alarmering in dit gebied.
 
@@ -359,7 +385,7 @@ Gedurende de openstellingsuren van de luchthaven Budel buiten de daglichtperiode
 
 4. Ten aanzien van de in het derde lid genoemde luchtvaartuigen maken FIC Amsterdam en AOCS Nieuw Milligen nadere afspraken.
 
-#### Artikel 15. Overdracht van verantwoordelijkheid met betrekking tot het verlenen van luchtverkeersdiensten van AOCS Nieuw Milligen aan ACC Amsterdam/UAC Maastricht
+##### Artikel 15. Overdracht van verantwoordelijkheid met betrekking tot het verlenen van luchtverkeersdiensten van AOCS Nieuw Milligen aan ACC Amsterdam/UAC Maastricht
 
 1. De verantwoordelijkheid van AOCS Nieuw Milligen voor de onderlinge separatie, bedoeld in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=13&z=2025-03-21&g=2025-03-21), kan in onderlinge overeenstemming met betrekking tot de gehele Amsterdam UTA of een deel daarvan worden overgedragen aan ACC Amsterdam of UAC Maastricht, voor de duur van een overeengekomen periode met geringe intensiteit van militair luchtverkeer.
 
@@ -371,7 +397,7 @@ Gedurende de openstellingsuren van de luchthaven Budel buiten de daglichtperiode
 
 5. Tijdens de overeengekomen periode bepaalt ACC Amsterdam of UAC Maastricht het afwijken van de luchtverkeersroutes als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=3&z=2025-03-21&g=2025-03-21).
 
-#### Artikel 16. Plaatselijke en naderingsluchtverkeersleidingsdiensten
+##### Artikel 16. Plaatselijke en naderingsluchtverkeersleidingsdiensten
 
 1. De in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=10&z=2025-03-21&g=2025-03-21) genoemde verleners van naderingsluchtverkeersleidingsdiensten verlenen luchtverkeersdiensten in de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=2&z=2025-03-21&g=2025-03-21), bedoelde naderingsluchtverkeersleidingsgebieden aan vluchten die aankomen op, dan wel vertrekken van de in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=5&z=2025-03-21&g=2025-03-21), bedoelde luchthavens, met uitzondering van die vluchten waaraan luchtverkeersdiensten worden verleend door een andere verlener van luchtverkeersdiensten.
 
@@ -383,7 +409,7 @@ Gedurende de openstellingsuren van de luchthaven Budel buiten de daglichtperiode
 
 5. FIC Amsterdam verstrekt vluchtinformatie, met uitzondering van inlichtingen over de bruikbaarheid van het GNSS, en verzorgt alarmering aan vluchten in de Amsterdam FIR buiten luchtverkeersleidingsgebieden, voor zover het verlenen van luchtverkeersdiensten niet is opgedragen aan een andere verlener van luchtverkeersdiensten.
 
-#### Artikel 17. Overdracht van verantwoordelijkheid
+##### Artikel 17. Overdracht van verantwoordelijkheid
 
 1. De overdracht van verantwoordelijkheid tussen verleners van luchtverkeersdiensten voor een vlucht en onderlinge (tijdelijke) overdracht van verantwoordelijkheid voor een groep vluchten of voor luchtverkeersleidingsgebieden in de Amsterdam FIR wordt uitgevoerd in overeenstemming met een door de hoofden van de betrokken verleners van luchtverkeersdiensten gesloten overeenkomst; zodanige overeenkomst behoeft de goedkeuring van de LVNL en de Minister van Defensie, ieder voor zoveel hem aangaat.
 
@@ -391,7 +417,7 @@ Gedurende de openstellingsuren van de luchthaven Budel buiten de daglichtperiode
 
 3. De overdracht van verantwoordelijkheid met betrekking tot een vlucht tussen een verlener van luchtverkeersleidingsdiensten, een verlener van naderingsluchtverkeersleidingsdiensten of een verlener van plaatselijke luchtverkeersleidingsdiensten vindt plaats op een wijze zoals overeengekomen tussen de betrokken verleners.
 
-#### Artikel 18. Classificatie van luchtverkeersdienstverleningsgebieden en bijzondere vliegvoorschriften binnen het luchtverkeersdienstverleningsgebied Amsterdam UTA
+##### Artikel 18. Classificatie van luchtverkeersdienstverleningsgebieden en bijzondere vliegvoorschriften binnen het luchtverkeersdienstverleningsgebied Amsterdam UTA
 
 1. Voor de luchtverkeersdienstverleningsgebieden in de tabel wordt de aangegeven luchtverkeersdienstverleningsklasse vastgesteld:
 
@@ -446,7 +472,7 @@ Gedurende de openstellingsuren van de luchthaven Budel buiten de daglichtperiode
 
 - c. worden VFR GAT-vluchten boven FL 285 binnen RVSM-luchtruim uitgevoerd binnen een Temporary Segregated Area of een equivalent daarvan.
 
-#### Artikel 19. Afwijking minimum vereist vliegzicht
+##### Artikel 19. Afwijking minimum vereist vliegzicht
 
 Onverminderd het bepaalde in paragraaf SERA.5001 van verordening (EU) nr. 923/2012 geldt in luchtverkeersdienstverleningsgebieden met klasse G op of beneden 915 m (3000 ft) AMSL een vliegzicht gelijk aan of groter dan:
 
@@ -464,37 +490,37 @@ Onverminderd het bepaalde in paragraaf SERA.5001 van verordening (EU) nr. 923/20
 
 - 3°. helikopters die blijkens een vrijstelling of ontheffing ingevolge [artikel 19, derde lid, van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=19), vluchten uitvoeren beneden de minimum VFR-vlieghoogte, voorzover in die vrijstelling of ontheffing geen hogere waarden zijn vastgesteld.
 
-#### Artikel 20
+##### Artikel 20
 
 In afwijking van paragraaf SERA.5001 van verordening (EU) nr. 923/2012 wordt ten behoeve van een VFR-vlucht met militaire luchtvaartuigen die wordt aangemerkt als OAT, die wordt uitgevoerd in de naderingsluchtverkeersleidingsgebieden Nieuw Milligen op of beneden 915 m (3000 ft) AMSL en binnen plaatselijke luchtverkeersleidingsgebieden van de militaire luchthavens, de volgende waarde vastgesteld:
 
 de verticale afstand tussen het luchtvaartuig en de wolken is gelijk aan of groter dan 152,5 m (500 ft) AMSL.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Paragraaf SERA.5010, onderdeel b, onder 3°, van verordening (EU) nr. 923/2012, is niet van toepassing op bijzondere VFR-vluchten die worden aangemerkt als OAT, binnen een militair plaatselijk luchtverkeersleidingsgebied.
 
 2. Paragraaf SERA.5010, onderdeel c, onder 2°, van verordening (EU) nr. 923/2012, is niet van toepassing op vluchten die worden aangemerkt als OAT, binnen een militair plaatselijk luchtverkeersleidingsgebied.
 
-#### Artikel 22. VFR Area Lelystad
+##### Artikel 22. VFR Area Lelystad
 
 Vervallen
 
-#### Artikel 23. Procedures en patronen
+##### Artikel 23. Procedures en patronen
 
 De naderings-, vertrek- en wachtprocedures, alsmede de luchtverkeerspatronen voor luchthavenverkeer zijn de procedures en patronen die door de minister zijn vastgesteld en die zijn opgenomen in de luchtvaartgids, hoofdstukken AD 2 en 3.
 
 #### Slotbepalingen
 
-#### Artikel 24
+##### Artikel 24
 
 De Regeling luchtverkeersdienstverlening en de Regeling classificatie van luchtverkeersdienstverleningsgebieden worden ingetrokken.
 
-#### Artikel 25
+##### Artikel 25
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 26
+##### Artikel 26
 
 Deze regeling wordt aangehaald als: Regeling luchtverkeersdienstverlening.
 
@@ -527,7 +553,7 @@ Behorende bij artikel 2, vierde lid, van de Regeling luchtverkeersdienstverlenin
 
 Behorende bij artikel 2, vierde lid, van de Regeling luchtverkeersdienstverlening
 
-#### 1. Nieuw Milligen TMA A-1
+##### 1. Nieuw Milligen TMA A-1
 
 a. De laterale grenzen van Nieuw Milligen TMA A-1 zijn:
 
@@ -543,7 +569,7 @@ b. De verticale grenzen van Nieuw Milligen TMA-A1 zijn:
 
 c. Van vrijdag 1600 uur tot zondag 2300 uur UTC (vrijdag 1500 uur tot zondag 2200 uur UTC zomertijd) en tijdens feestdagen heeft Nieuw Milligen TMA A-1 vanaf de ondergrens tot en met een hoogte van vliegniveau 095 de classificatie E.
 
-#### 2. Nieuw Milligen TMA A-2
+##### 2. Nieuw Milligen TMA A-2
 
 a. De laterale grenzen van Nieuw Milligen TMA A-2 zijn:
 
@@ -553,7 +579,7 @@ b. Nieuw Milligen TMA A-2 heeft een ondergrens van 1500 voet boven gemiddeld zee
 
 c. Het luchtruim binnen Nieuw Milligen TMA A-2 heeft classificatie E.
 
-#### 3. Nieuw Milligen TMA A-3
+##### 3. Nieuw Milligen TMA A-3
 
 a. De laterale grenzen van Nieuw Milligen TMA A-3 zijn:
 
@@ -563,7 +589,7 @@ b. Nieuw Milligen TMA A-3 heeft een ondergrens van 3500 voet boven gemiddeld zee
 
 c. Het luchtruim binnen Nieuw Milligen TMA A-3 heeft classificatie E.
 
-#### 4. Schiphol TMA 1
+##### 4. Schiphol TMA 1
 
 a. De laterale grenzen van Schiphol TMA 1 zijn:
 
@@ -573,7 +599,7 @@ b. Schiphol TMA 1 heeft een ondergrens van 1500 voet boven gemiddeld zeeniveau e
 
 c. Het luchtruim binnen Schiphol TMA 1 heeft classificatie A.
 
-#### 5. Rotterdam TMA 1
+##### 5. Rotterdam TMA 1
 
 a. De laterale grenzen van Rotterdam TMA 1 zijn:
 
@@ -583,7 +609,7 @@ b. Rotterdam TMA 1 heeft een ondergrens van 1500 voet boven gemiddeld zeeniveau 
 
 c. Het luchtruim binnen Rotterdam TMA 1 heeft classificatie E.
 
-#### 6. Nieuw Milligen CTA Noord
+##### 6. Nieuw Milligen CTA Noord
 
 a. De laterale grenzen van Nieuw Milligen CTA Noord zijn:
 
@@ -593,7 +619,7 @@ b. Nieuw Milligen CTA Noord heeft een ondergrens van vliegniveau 055 en een bove
 
 c. Het luchtruim binnen Nieuw Milligen CTA Noord heeft classificatie A.
 
-#### 7. Nieuw Milligen TMA F-1
+##### 7. Nieuw Milligen TMA F-1
 
 a. De laterale grenzen van Nieuw Milligen TMA F-a zijn:
 
@@ -603,7 +629,7 @@ b. Nieuw Milligen TMA F-1 heeft een ondergrens van 1500 voet boven gemiddeld zee
 
 c. Het luchtruim binnen Nieuw Milligen TMA F-1 heeft classificatie E.
 
-#### 8. Nieuw Milligen TMA F-2
+##### 8. Nieuw Milligen TMA F-2
 
 a. De laterale grenzen van Nieuw Milligen TMA F-2 zijn:
 
@@ -613,7 +639,7 @@ b. Nieuw Milligen TMA F-2 heeft een ondergrens van 1500 voet boven gemiddeld zee
 
 c. Het luchtruim binnen Nieuw Milligen TMA F-2 heeft classificatie E.
 
-#### 9. Nieuw Milligen TMA B
+##### 9. Nieuw Milligen TMA B
 
 a. De laterale grenzen van Nieuw Milligen TMA B zijn:
 
@@ -623,7 +649,7 @@ b. Nieuw Milligen TMA B heeft een ondergrens van 1500 voet boven gemiddeld zeeni
 
 c. Het luchtruim binnen Nieuw Milligen TMA B heeft classificatie E.
 
-#### 10. Schiphol TMA 3
+##### 10. Schiphol TMA 3
 
 a. De laterale grenzen van Schiphol TMA 3 zijn:
 
@@ -642,7 +668,7 @@ c. Het luchtruim binnen Schiphol TMA 3 heeft classificatie A.
 
 ## Bijlage 3. behorende bij [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=9&z=2014-07-01&g=2014-07-01), van de Regeling luchtverkeersdienstverlening
 
-#### Plaatselijke luchtverkeersleidingsgebieden
+##### Plaatselijke luchtverkeersleidingsgebieden
 
 EHAM AD 2-1-9 d.d. 20 november 1997ATS Airspace
 
@@ -656,7 +682,7 @@ MIL AD 2-1 t/m 4 d.d. 10 oktober 1996Controlled Aerodromes
 
 ENR 6-2-1 d.d. 30 oktober 2003 Airspace Structure and ATS Airspace Classification
 
-#### Kleine-Brogel CTR
+##### Kleine-Brogel CTR
 
 1. De laterale grenzen van het Nederlandse deel van het plaatselijk luchtverkeersleidinggebied Kleine-Brogel (Kleine-Brogel CTR) zijn als volgt:
 
@@ -672,7 +698,7 @@ De posities worden uitgedrukt in WGS-84.
 
 Behorende bij de artikelen 5, vierde en vijfde lid, en 16, tweede lid, van de Regeling luchtverkeersdienstverlening
 
-#### Soesterberg CTR
+##### Soesterberg CTR
 
 a. De laterale grenzen van Soesterberg CTR zijn:
 
@@ -722,7 +748,7 @@ c. Het luchtruim binnen Soesterberg CTR heeft classificatie C.
 |   |   |
 | m. Castricum 1 | De laterale en verticale grenzen zijn gelijk aan het zweefvlieggebied Castricum 1. |
 
-#### 1. ATZ Budel
+##### 1. ATZ Budel
 
 - a. De laterale grenzen van de ATZ Budel zijn als volgt: 1º. de noordoostgrens: een cirkel van 5 nautische mijlen rond positie 51°14"21' NB 005°36"50' OL, en 2º. de zuidwestgrens: de grens van het vluchtinformatiegebied Amsterdam zoals vastgelegd in [artikel 1.1 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.1);
 
@@ -734,7 +760,7 @@ c. Het luchtruim binnen Soesterberg CTR heeft classificatie C.
 
 - 2º. **Deel B** Vanaf positie 51°15?21' NB 005°33"24' OL langs de Nederlands/Belgische grens naar positie 51°13"00' NB 005°33"50' OL vandaar langs de Nederlands/Belgische grens naar positie 51°11"52' NB 005°39"10' OL en vandaar in rechte lijn terug naar positie 51°15"21' NB 005°33"24' OL.
 
-#### 2. ATZ Lelystad
+##### 2. ATZ Lelystad
 
 a. De laterale grenzen van de ATZ Lelystad worden gevormd door de
 
@@ -956,7 +982,7 @@ Behorende bij de artikelen 5, vierde en vijfde lid, en 16, tweede lid, van de Re
 | n. TMZ LE5 | – De laterale begrenzing komt overeen met de Lelystad TMA 5. |
 |   | – De ondergrens is 1200 voet AMSL. |
 
-#### 1. ATZ Budel
+##### 1. ATZ Budel
 
 - a. De laterale grenzen van de ATZ Budel zijn als volgt: 1º. de noordoostgrens: een cirkel van 5 nautische mijlen rond positie 51°14"21' NB 005°36"50' OL, en 2º. de zuidwestgrens: de grens van het vluchtinformatiegebied Amsterdam zoals vastgelegd in [artikel 1.1 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.1);
 
@@ -968,7 +994,7 @@ Behorende bij de artikelen 5, vierde en vijfde lid, en 16, tweede lid, van de Re
 
 - 2º. **Deel B** Vanaf positie 51°15?21' NB 005°33"24' OL langs de Nederlands/Belgische grens naar positie 51°13"00' NB 005°33"50' OL vandaar langs de Nederlands/Belgische grens naar positie 51°11"52' NB 005°39"10' OL en vandaar in rechte lijn terug naar positie 51°15"21' NB 005°33"24' OL.
 
-#### 2. ATZ Lelystad
+##### 2. ATZ Lelystad
 
 a. De laterale grenzen van de ATZ Lelystad worden gevormd door de
 
@@ -1044,15 +1070,15 @@ De verticale grenzen van de Niederrhein CTR zijn:
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 21a
+##### Artikel 21a
 
 Voor een politievlucht, HEMS-vlucht of SAR-vlucht uitgevoerd als bijzondere VFR-helikoptervlucht kan, in afwijking van paragraaf SERA.5010, onderdeel c, onder 2°, een klaring worden gegeven voor een start of een landing op een burgerluchthaven bij een wolkenbasis minder dan 180 meter (600ft).
 
-#### Artikel 21b
+##### Artikel 21b
 
 Vervallen
 
-#### Artikel 22a. Verticale separatie
+##### Artikel 22a. Verticale separatie
 
 1. De minimale verticale separatie tussen luchtvaartuigen bedraagt ten minste 152 m (500 ft) bij:
 
@@ -1082,7 +1108,7 @@ Behorende bij artikel 2, vierde lid, van de Regeling luchtverkeersdienstverlenin
 
 Alle posities worden uitgedrukt in WGS-84.
 
-#### 1. Nieuw Milligen TMA A-1
+##### 1. Nieuw Milligen TMA A-1
 
 a. De laterale grenzen van Nieuw Milligen TMA A-1 zijn:
 
@@ -1098,7 +1124,7 @@ b. De verticale grenzen van Nieuw Milligen TMA-A1 zijn:
 
 c. Van vrijdag 1600 uur tot zondag 2300 uur UTC (vrijdag 1500 uur tot zondag 2200 uur UTC zomertijd) en tijdens feestdagen heeft Nieuw Milligen TMA A-1 vanaf de ondergrens tot en met een hoogte van vliegniveau 095 de classificatie E.
 
-#### 2. Nieuw Milligen TMA A-2
+##### 2. Nieuw Milligen TMA A-2
 
 a. De laterale grenzen van Nieuw Milligen TMA A-2 zijn:
 
@@ -1108,7 +1134,7 @@ b. Nieuw Milligen TMA A-2 heeft een ondergrens van 1500 voet boven gemiddeld zee
 
 c. Het luchtruim binnen Nieuw Milligen TMA A-2 heeft classificatie E.
 
-#### 3. Nieuw Milligen TMA A-3
+##### 3. Nieuw Milligen TMA A-3
 
 a. De laterale grenzen van Nieuw Milligen TMA A-3 zijn:
 
@@ -1118,7 +1144,7 @@ b. Nieuw Milligen TMA A-3 heeft een ondergrens van 3500 voet boven gemiddeld zee
 
 c. Het luchtruim binnen Nieuw Milligen TMA A-3 heeft classificatie E.
 
-#### 4. Schiphol TMA 1
+##### 4. Schiphol TMA 1
 
 a. De laterale grenzen van Schiphol TMA 1 zijn:
 
@@ -1128,7 +1154,7 @@ b. Schiphol TMA 1 heeft een ondergrens van 1500 voet boven gemiddeld zeeniveau e
 
 c. Het luchtruim binnen Schiphol TMA 1 heeft classificatie A.
 
-#### 5. Rotterdam TMA 1
+##### 5. Rotterdam TMA 1
 
 a. De laterale grenzen van Rotterdam TMA 1 zijn:
 
@@ -1138,7 +1164,7 @@ b. Rotterdam TMA 1 heeft een ondergrens van 1500 voet boven gemiddeld zeeniveau 
 
 c. Het luchtruim binnen Rotterdam TMA 1 heeft classificatie E.
 
-#### 6. Nieuw Milligen CTA Noord
+##### 6. Nieuw Milligen CTA Noord
 
 a. De laterale grenzen van Nieuw Milligen CTA Noord zijn:
 
@@ -1148,7 +1174,7 @@ b. Nieuw Milligen CTA Noord heeft een ondergrens van vliegniveau 055 en een bove
 
 c. Het luchtruim binnen Nieuw Milligen CTA Noord heeft classificatie A.
 
-#### 7. Nieuw Milligen TMA F-1
+##### 7. Nieuw Milligen TMA F-1
 
 a. De laterale grenzen van Nieuw Milligen TMA F-a zijn:
 
@@ -1158,7 +1184,7 @@ b. Nieuw Milligen TMA F-1 heeft een ondergrens van 1500 voet boven gemiddeld zee
 
 c. Het luchtruim binnen Nieuw Milligen TMA F-1 heeft classificatie E.
 
-#### 8. Nieuw Milligen TMA F-2
+##### 8. Nieuw Milligen TMA F-2
 
 a. De laterale grenzen van Nieuw Milligen TMA F-2 zijn:
 
@@ -1168,7 +1194,7 @@ b. Nieuw Milligen TMA F-2 heeft een ondergrens van 1500 voet boven gemiddeld zee
 
 c. Het luchtruim binnen Nieuw Milligen TMA F-2 heeft classificatie E.
 
-#### 9. Nieuw Milligen TMA B
+##### 9. Nieuw Milligen TMA B
 
 a. De laterale grenzen van Nieuw Milligen TMA B zijn:
 
@@ -1178,7 +1204,7 @@ b. Nieuw Milligen TMA B heeft een ondergrens van 1500 voet boven gemiddeld zeeni
 
 c. Het luchtruim binnen Nieuw Milligen TMA B heeft classificatie E.
 
-#### 10. Schiphol TMA 3
+##### 10. Schiphol TMA 3
 
 a. De laterale grenzen van Schiphol TMA 3 zijn:
 
@@ -1194,7 +1220,7 @@ c. Het luchtruim binnen Schiphol TMA 3 heeft classificatie A.
 
 Behorende bij de artikelen 5, vierde en vijfde lid, en 16, tweede lid, van de Regeling luchtverkeersdienstverlening
 
-#### 1. ATZ Budel
+##### 1. ATZ Budel
 
 - a. De laterale grenzen van de ATZ Budel zijn als volgt: 1º. de noordoostgrens: een cirkel van 5 nautische mijlen rond positie 51°14"21' NB 005°36"50' OL, en 2º. de zuidwestgrens: de grens van het vluchtinformatiegebied Amsterdam zoals vastgelegd in [artikel 1.1 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.1);
 
@@ -1206,7 +1232,7 @@ Behorende bij de artikelen 5, vierde en vijfde lid, en 16, tweede lid, van de Re
 
 - 2º. **Deel B** Vanaf positie 51°15?21' NB 005°33"24' OL langs de Nederlands/Belgische grens naar positie 51°13"00' NB 005°33"50' OL vandaar langs de Nederlands/Belgische grens naar positie 51°11"52' NB 005°39"10' OL en vandaar in rechte lijn terug naar positie 51°15"21' NB 005°33"24' OL.
 
-#### 2. ATZ Lelystad
+##### 2. ATZ Lelystad
 
 a. De laterale grenzen van de ATZ Lelystad worden gevormd door de
 
@@ -1499,7 +1525,7 @@ De verticale grenzen van de Niederrhein CTR zijn:
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 23a
+##### Artikel 23a
 
 Vervallen
 
@@ -1507,7 +1533,7 @@ Vervallen
 
 Alle posities worden uitgedrukt in WGS-84.
 
-#### 1. Nieuw Milligen TMA A-1
+##### 1. Nieuw Milligen TMA A-1
 
 a. De laterale grenzen van Nieuw Milligen TMA A-1 zijn:
 
@@ -1523,7 +1549,7 @@ b. De verticale grenzen van Nieuw Milligen TMA-A1 zijn:
 
 c. Van vrijdag 1600 uur tot zondag 2300 uur UTC (vrijdag 1500 uur tot zondag 2200 uur UTC zomertijd) en tijdens feestdagen heeft Nieuw Milligen TMA A-1 vanaf de ondergrens tot en met een hoogte van vliegniveau 095 de classificatie E.
 
-#### 2. Nieuw Milligen TMA A-2
+##### 2. Nieuw Milligen TMA A-2
 
 a. De laterale grenzen van Nieuw Milligen TMA A-2 zijn:
 
@@ -1533,7 +1559,7 @@ b. Nieuw Milligen TMA A-2 heeft een ondergrens van 1500 voet boven gemiddeld zee
 
 c. Het luchtruim binnen Nieuw Milligen TMA A-2 heeft classificatie E.
 
-#### 3. Nieuw Milligen TMA A-3
+##### 3. Nieuw Milligen TMA A-3
 
 a. De laterale grenzen van Nieuw Milligen TMA A-3 zijn:
 
@@ -1543,7 +1569,7 @@ b. Nieuw Milligen TMA A-3 heeft een ondergrens van 3500 voet boven gemiddeld zee
 
 c. Het luchtruim binnen Nieuw Milligen TMA A-3 heeft classificatie E.
 
-#### 4. Schiphol TMA 1
+##### 4. Schiphol TMA 1
 
 a. De laterale grenzen van Schiphol TMA 1 zijn:
 
@@ -1553,7 +1579,7 @@ b. Schiphol TMA 1 heeft een ondergrens van 1500 voet boven gemiddeld zeeniveau e
 
 c. Het luchtruim binnen Schiphol TMA 1 heeft classificatie A.
 
-#### 5. Rotterdam TMA 1
+##### 5. Rotterdam TMA 1
 
 a. De laterale grenzen van Rotterdam TMA 1 zijn:
 
@@ -1563,7 +1589,7 @@ b. Rotterdam TMA 1 heeft een ondergrens van 1500 voet boven gemiddeld zeeniveau 
 
 c. Het luchtruim binnen Rotterdam TMA 1 heeft classificatie E.
 
-#### 6. Nieuw Milligen CTA Noord
+##### 6. Nieuw Milligen CTA Noord
 
 a. De laterale grenzen van Nieuw Milligen CTA Noord zijn:
 
@@ -1573,7 +1599,7 @@ b. Nieuw Milligen CTA Noord heeft een ondergrens van vliegniveau 055 en een bove
 
 c. Het luchtruim binnen Nieuw Milligen CTA Noord heeft classificatie A.
 
-#### 7. Nieuw Milligen TMA F-1
+##### 7. Nieuw Milligen TMA F-1
 
 a. De laterale grenzen van Nieuw Milligen TMA F-a zijn:
 
@@ -1583,7 +1609,7 @@ b. Nieuw Milligen TMA F-1 heeft een ondergrens van 1500 voet boven gemiddeld zee
 
 c. Het luchtruim binnen Nieuw Milligen TMA F-1 heeft classificatie E.
 
-#### 8. Nieuw Milligen TMA F-2
+##### 8. Nieuw Milligen TMA F-2
 
 a. De laterale grenzen van Nieuw Milligen TMA F-2 zijn:
 
@@ -1593,7 +1619,7 @@ b. Nieuw Milligen TMA F-2 heeft een ondergrens van 1500 voet boven gemiddeld zee
 
 c. Het luchtruim binnen Nieuw Milligen TMA F-2 heeft classificatie E.
 
-#### 9. Nieuw Milligen TMA B
+##### 9. Nieuw Milligen TMA B
 
 a. De laterale grenzen van Nieuw Milligen TMA B zijn:
 
@@ -1603,7 +1629,7 @@ b. Nieuw Milligen TMA B heeft een ondergrens van 1500 voet boven gemiddeld zeeni
 
 c. Het luchtruim binnen Nieuw Milligen TMA B heeft classificatie E.
 
-#### 10. Schiphol TMA 3
+##### 10. Schiphol TMA 3
 
 a. De laterale grenzen van Schiphol TMA 3 zijn:
 
@@ -1613,7 +1639,7 @@ b. Schiphol TMA 3 heeft een ondergrens van 2500 voet boven gemiddeld zeeniveau e
 
 c. Het luchtruim binnen Schiphol TMA 3 heeft classificatie A.
 
-#### 1. ATZ Budel
+##### 1. ATZ Budel
 
 - a. De laterale grenzen van de ATZ Budel zijn als volgt: 1º. de noordoostgrens: een cirkel van 5 nautische mijlen rond positie 51°14"21' NB 005°36"50' OL, en 2º. de zuidwestgrens: de grens van het vluchtinformatiegebied Amsterdam zoals vastgelegd in [artikel 1.1 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.1);
 
@@ -1625,7 +1651,7 @@ c. Het luchtruim binnen Schiphol TMA 3 heeft classificatie A.
 
 - 2º. **Deel B** Vanaf positie 51°15?21' NB 005°33"24' OL langs de Nederlands/Belgische grens naar positie 51°13"00' NB 005°33"50' OL vandaar langs de Nederlands/Belgische grens naar positie 51°11"52' NB 005°39"10' OL en vandaar in rechte lijn terug naar positie 51°15"21' NB 005°33"24' OL.
 
-#### 2. ATZ Lelystad
+##### 2. ATZ Lelystad
 
 a. De laterale grenzen van de ATZ Lelystad worden gevormd door de
 
@@ -1705,7 +1731,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Alle posities worden uitgedrukt in WGS-84.
 
-#### 1. Nieuw Milligen TMA A-1
+##### 1. Nieuw Milligen TMA A-1
 
 a. De laterale grenzen van Nieuw Milligen TMA A-1 zijn:
 
@@ -1721,7 +1747,7 @@ b. De verticale grenzen van Nieuw Milligen TMA-A1 zijn:
 
 c. Van vrijdag 1600 uur tot zondag 2300 uur UTC (vrijdag 1500 uur tot zondag 2200 uur UTC zomertijd) en tijdens feestdagen heeft Nieuw Milligen TMA A-1 vanaf de ondergrens tot en met een hoogte van vliegniveau 095 de classificatie E.
 
-#### 2. Nieuw Milligen TMA A-2
+##### 2. Nieuw Milligen TMA A-2
 
 a. De laterale grenzen van Nieuw Milligen TMA A-2 zijn:
 
@@ -1731,7 +1757,7 @@ b. Nieuw Milligen TMA A-2 heeft een ondergrens van 1500 voet boven gemiddeld zee
 
 c. Het luchtruim binnen Nieuw Milligen TMA A-2 heeft classificatie E.
 
-#### 3. Nieuw Milligen TMA A-3
+##### 3. Nieuw Milligen TMA A-3
 
 a. De laterale grenzen van Nieuw Milligen TMA A-3 zijn:
 
@@ -1741,7 +1767,7 @@ b. Nieuw Milligen TMA A-3 heeft een ondergrens van 3500 voet boven gemiddeld zee
 
 c. Het luchtruim binnen Nieuw Milligen TMA A-3 heeft classificatie E.
 
-#### 4. Schiphol TMA 1
+##### 4. Schiphol TMA 1
 
 a. De laterale grenzen van Schiphol TMA 1 zijn:
 
@@ -1751,7 +1777,7 @@ b. Schiphol TMA 1 heeft een ondergrens van 1500 voet boven gemiddeld zeeniveau e
 
 c. Het luchtruim binnen Schiphol TMA 1 heeft classificatie A.
 
-#### 5. Rotterdam TMA 1
+##### 5. Rotterdam TMA 1
 
 a. De laterale grenzen van Rotterdam TMA 1 zijn:
 
@@ -1761,7 +1787,7 @@ b. Rotterdam TMA 1 heeft een ondergrens van 1500 voet boven gemiddeld zeeniveau 
 
 c. Het luchtruim binnen Rotterdam TMA 1 heeft classificatie E.
 
-#### 6. Nieuw Milligen CTA Noord
+##### 6. Nieuw Milligen CTA Noord
 
 a. De laterale grenzen van Nieuw Milligen CTA Noord zijn:
 
@@ -1771,7 +1797,7 @@ b. Nieuw Milligen CTA Noord heeft een ondergrens van vliegniveau 055 en een bove
 
 c. Het luchtruim binnen Nieuw Milligen CTA Noord heeft classificatie A.
 
-#### 7. Nieuw Milligen TMA F-1
+##### 7. Nieuw Milligen TMA F-1
 
 a. De laterale grenzen van Nieuw Milligen TMA F-a zijn:
 
@@ -1781,7 +1807,7 @@ b. Nieuw Milligen TMA F-1 heeft een ondergrens van 1500 voet boven gemiddeld zee
 
 c. Het luchtruim binnen Nieuw Milligen TMA F-1 heeft classificatie E.
 
-#### 8. Nieuw Milligen TMA F-2
+##### 8. Nieuw Milligen TMA F-2
 
 a. De laterale grenzen van Nieuw Milligen TMA F-2 zijn:
 
@@ -1791,7 +1817,7 @@ b. Nieuw Milligen TMA F-2 heeft een ondergrens van 1500 voet boven gemiddeld zee
 
 c. Het luchtruim binnen Nieuw Milligen TMA F-2 heeft classificatie E.
 
-#### 9. Nieuw Milligen TMA B
+##### 9. Nieuw Milligen TMA B
 
 a. De laterale grenzen van Nieuw Milligen TMA B zijn:
 
@@ -1801,7 +1827,7 @@ b. Nieuw Milligen TMA B heeft een ondergrens van 1500 voet boven gemiddeld zeeni
 
 c. Het luchtruim binnen Nieuw Milligen TMA B heeft classificatie E.
 
-#### 10. Schiphol TMA 3
+##### 10. Schiphol TMA 3
 
 a. De laterale grenzen van Schiphol TMA 3 zijn:
 
@@ -1813,7 +1839,7 @@ c. Het luchtruim binnen Schiphol TMA 3 heeft classificatie A.
 
 De posities worden uitgedrukt in WGS-84.
 
-#### 1. ATZ Budel
+##### 1. ATZ Budel
 
 - a. De laterale grenzen van de ATZ Budel zijn als volgt: 1º. de noordoostgrens: een cirkel van 5 nautische mijlen rond positie 51°14"21' NB 005°36"50' OL, en 2º. de zuidwestgrens: de grens van het vluchtinformatiegebied Amsterdam zoals vastgelegd in [artikel 1.1 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.1);
 
@@ -1825,7 +1851,7 @@ De posities worden uitgedrukt in WGS-84.
 
 - 2º. **Deel B** Vanaf positie 51°15?21' NB 005°33"24' OL langs de Nederlands/Belgische grens naar positie 51°13"00' NB 005°33"50' OL vandaar langs de Nederlands/Belgische grens naar positie 51°11"52' NB 005°39"10' OL en vandaar in rechte lijn terug naar positie 51°15"21' NB 005°33"24' OL.
 
-#### 2. ATZ Lelystad
+##### 2. ATZ Lelystad
 
 a. De laterale grenzen van de ATZ Lelystad worden gevormd door de
 
@@ -2106,7 +2132,7 @@ langs de weg naar:
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 7c. Aerodrome Traffic Zone op zweefvliegterrein Schinveld
+##### Artikel 7c. Aerodrome Traffic Zone op zweefvliegterrein Schinveld
 
 1. De luchtruimte rond het zweefvliegterrein Schinveld geldt ter bescherming van zweefvliegactiviteiten op dat terrein als ATZ en wordt aangeduid als ATZ Schinveld.
 
@@ -2138,7 +2164,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### 2. TMZ – op werkdagen van 0900-1700 lokale tijd:
 
-#### 1. ATZ Budel
+##### 1. ATZ Budel
 
 - a. De laterale grenzen van de ATZ Budel zijn als volgt: 1º. de noordoostgrens: een cirkel van 5 nautische mijlen rond positie 51°14"21' NB 005°36"50' OL, en 2º. de zuidwestgrens: de grens van het vluchtinformatiegebied Amsterdam zoals vastgelegd in [artikel 1.1 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.1);
 
@@ -2150,7 +2176,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - 2º. **Deel B** Vanaf positie 51°15?21' NB 005°33"24' OL langs de Nederlands/Belgische grens naar positie 51°13"00' NB 005°33"50' OL vandaar langs de Nederlands/Belgische grens naar positie 51°11"52' NB 005°39"10' OL en vandaar in rechte lijn terug naar positie 51°15"21' NB 005°33"24' OL.
 
-#### 2. ATZ Lelystad
+##### 2. ATZ Lelystad
 
 a. De laterale grenzen van de ATZ Lelystad worden gevormd door de
 
@@ -2194,7 +2220,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 7d. Aerodrome Traffic Zone op zweefvliegterrein Veendam
+##### Artikel 7d. Aerodrome Traffic Zone op zweefvliegterrein Veendam
 
 1. De luchtruimte rond het zweefvliegterrein Veendam geldt ter bescherming van zweefvliegactiviteiten op dat terrein als ATZ en wordt aangeduid als ATZ Veendam.
 
@@ -2211,7 +2237,7 @@ Alle posities worden uitgedrukt in WGS-84.
 
 ### 1. TMZ – permanent
 
-#### 1. ATZ Budel
+##### 1. ATZ Budel
 
 - a. De laterale grenzen van de ATZ Budel zijn als volgt: 1º. de noordoostgrens: een cirkel van 5 nautische mijlen rond positie 51°14"21' NB 005°36"50' OL, en 2º. de zuidwestgrens: de grens van het vluchtinformatiegebied Amsterdam zoals vastgelegd in [artikel 1.1 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.1);
 
@@ -2223,7 +2249,7 @@ Alle posities worden uitgedrukt in WGS-84.
 
 - 2º. **Deel B** Vanaf positie 51°15?21' NB 005°33"24' OL langs de Nederlands/Belgische grens naar positie 51°13"00' NB 005°33"50' OL vandaar langs de Nederlands/Belgische grens naar positie 51°11"52' NB 005°39"10' OL en vandaar in rechte lijn terug naar positie 51°15"21' NB 005°33"24' OL.
 
-#### 2. ATZ Lelystad
+##### 2. ATZ Lelystad
 
 a. De laterale grenzen van de ATZ Lelystad worden gevormd door de
 
@@ -2259,7 +2285,7 @@ langs de weg naar:
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### 3. ATZ en SRZ Schinveld
+##### 3. ATZ en SRZ Schinveld
 
 - a). De laterale grenzen van de ATZ Schinveld wordt gevormd door de lijnen tussen de posities: 50°58’34”NB 005°58’18”OL, 50°58’48”NB 005°58’19”OL, langs de Nederlands/Duitse grens naar 50°59’00”NB 006°01’36”OL, langs de Nederlands/Duitse grens naar 50°58’54”NB 006°01’37”OL, 50°58’56”NB 006°01’17”OL, 50°58’50”NB 006°00’58”OL, 50°58’33”NB 006°00’20”OL, 50°58’34”NB 005°58’18”OL.
 
@@ -2267,7 +2293,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - c). De ATZ en SRZ Schinveld hebben een ondergrens vanaf de grond en een bovengrens van 3000 voet boven gemiddeld zeeniveau.
 
-#### 4. ATZ en SRZ A en B Veendam
+##### 4. ATZ en SRZ A en B Veendam
 
 - a). De laterale grenzen van de ATZ Veendam worden gevormd door de lijnen tussen de posities: 53°04’15”NB 006°48’52”OL langs een boog van een cirkel met een straal van 0,88 nautische mijlen gecentreerd rond positie 53°05’04”NB 006°49’25”OL, 53°05’14”NB 006°50’51”OL, 53°04’46”NB 006°51’00”OL, 53°04’44”NB 006°52’58”OL, 53°03’51”NB 006°52’25”OL, 53°03’03”NB 006°51’12”OL, 53°03’23”NB 006°50’14”OL, 53°04’15”NB 006°48’52”OL.
 
@@ -2291,11 +2317,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 7e. Aerodrome Traffic Zone op zweefvliegterrein Valkenburg
+##### Artikel 7e. Aerodrome Traffic Zone op zweefvliegterrein Valkenburg
 
 Vervallen
 
-#### Artikel 7f. Aerodrome Traffic Zone op luchthaven Teuge
+##### Artikel 7f. Aerodrome Traffic Zone op luchthaven Teuge
 
 1. De luchtruimte rond de luchthaven Teuge geldt buiten de daglichtperiode ter bescherming van het luchthavenverkeer waaronder luchtvaartuigen met de luchthaven Teuge als plaats van bestemming of vertrek als ATZ en wordt aangeduid als ATZ Teuge.
 
@@ -2318,7 +2344,7 @@ Vervallen
 
 ## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=1&z=2025-03-21&g=2025-03-21) van de Regeling luchtverkeersdienstverlening
 
-#### 1. ATZ Budel
+##### 1. ATZ Budel
 
 - a. De laterale grenzen van de ATZ Budel zijn als volgt: 1º. de noordoostgrens: een cirkel van 5 nautische mijlen rond positie 51°14"21' NB 005°36"50' OL, en 2º. de zuidwestgrens: de grens van het vluchtinformatiegebied Amsterdam zoals vastgelegd in [artikel 1.1 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.1);
 
@@ -2330,7 +2356,7 @@ Vervallen
 
 - 2º. **Deel B** Vanaf positie 51°15?21' NB 005°33"24' OL langs de Nederlands/Belgische grens naar positie 51°13"00' NB 005°33"50' OL vandaar langs de Nederlands/Belgische grens naar positie 51°11"52' NB 005°39"10' OL en vandaar in rechte lijn terug naar positie 51°15"21' NB 005°33"24' OL.
 
-#### 2. ATZ Lelystad
+##### 2. ATZ Lelystad
 
 a. De laterale grenzen van de ATZ Lelystad worden gevormd door de
 
@@ -2358,7 +2384,7 @@ langs de weg naar:
 
 - 1. 52°26'39" NB 005°26'19" OL
 
-#### 3. ATZ en SRZ Schinveld
+##### 3. ATZ en SRZ Schinveld
 
 - a). De laterale grenzen van de ATZ Schinveld wordt gevormd door de lijnen tussen de posities: 50°58’34”NB 005°58’18”OL, 50°58’48”NB 005°58’19”OL, langs de Nederlands/Duitse grens naar 50°59’00”NB 006°01’36”OL, langs de Nederlands/Duitse grens naar 50°58’54”NB 006°01’37”OL, 50°58’56”NB 006°01’17”OL, 50°58’50”NB 006°00’58”OL, 50°58’33”NB 006°00’20”OL, 50°58’34”NB 005°58’18”OL.
 
@@ -2366,13 +2392,13 @@ langs de weg naar:
 
 - c). De ATZ en SRZ Schinveld hebben een ondergrens vanaf de grond en een bovengrens van 3000 voet boven gemiddeld zeeniveau.
 
-#### 4. ATZ Veendam
+##### 4. ATZ Veendam
 
 - a). De laterale grenzen van de ATZ Veendam wordt gevormd door de lijnen tussen de posities: 53°04’15”NB 006°48’52”OL langs een boog van een cirkel met een straal van 0,88 nautische mijlen gecentreerd rond positie 53°05’04”NB 006°49’25”OL, 53°05’14”NB 006°50’51”OL, 53°04’46”NB 006°51’00”OL, 53°04’44”NB 006°52’58”OL, 53°03’51”NB 006°52’25”OL, 53°03’03”NB 006°51’12”OL, 53°03’23”NB 006°50’14”OL, 53°04’15”NB 006°48’52”OL.
 
 - b). De ATZ Veendam heeft een ondergrens vanaf de grond en een bovengrens van 1500 voet boven gemiddeld zeeniveau.
 
-#### 5. ATZ Valkenburg en SRZ Valkenburg, Ypenburg en Hoek van Holland
+##### 5. ATZ Valkenburg en SRZ Valkenburg, Ypenburg en Hoek van Holland
 
 - a. De laterale grens van de ATZ Valkenburg is: een cirkel met een straal van 2 nautische mijlen rond positie 52°10"02' NB 004°25"06' OL
 
@@ -2400,7 +2426,7 @@ langs de weg naar:
 
 - 2. bovengrens: 2500 voet boven gemiddeld zeeniveau.
 
-#### 6. ATZ Soesterberg
+##### 6. ATZ Soesterberg
 
 - a. De laterale grens van de ATZ Soesterberg is: een cirkel met een straal van 2 nautische mijlen rond positie 52°07’42’NB 005°16’37’OL.
 
@@ -2412,7 +2438,7 @@ langs de weg naar:
 
 ### Luchtvaartgids
 
-#### Artikel 21c
+##### Artikel 21c
 
 1. In afwijking van paragraaf SERA.5001 van verordening (EU) nr. 923/2012, worden voor militaire helikopters die tijdens een VFR-vlucht die wordt aangemerkt als OAT het militair plaatselijk luchtverkeersleidingsgebied binnen vliegen, dan wel verlaten, de volgende waarden vastgesteld:
 
@@ -2428,7 +2454,7 @@ langs de weg naar:
 
 #### Slotbepalingen
 
-#### 1. ATZ Budel
+##### 1. ATZ Budel
 
 - a. De laterale grenzen van de ATZ Budel zijn als volgt:
 
@@ -2442,7 +2468,7 @@ langs de weg naar:
 
 - 2. bovengrens in deel A: 365,76 meter (1200 ft) AMSL en bovengrens in deel B: 182,88 meter (600 ft) AMSL.
 
-#### 2. ATZ Lelystad
+##### 2. ATZ Lelystad
 
 - a. De laterale grenzen van de ATZ Lelystad zijn als volgt: Vanaf positie 52°26’35”NB 005°26’17”OL naar positie 52°28’04”NB 005°28’39”OL naar positie 52°29’18”NB 005°31’07”OL naar positie 52°30’00”NB 005°31’47”OL naar positie 52°30’34”NB 005°33’50”OL naar positie 52°27’28”NB 005°36’45”OL naar positie 52°26’46”NB 005°34’54”OL naar positie 52°26’18”NB 005°34’23”OL naar positie 52°25’58”NB 005°33’31”OL langs de parallel naar positie 52°25’58”NB 005°33’05”OL naar positie 52°24’07”NB 005°30’11”OL en terug naar positie 52°26’35”NB 005°26’17”OL.
 
@@ -2452,7 +2478,7 @@ langs de weg naar:
 
 - 2. bovengrens: 457,2 meter (1500 ft) AMSL.
 
-#### 3. ATZ en SRZ Schinveld
+##### 3. ATZ en SRZ Schinveld
 
 - a). De laterale grenzen van de ATZ Schinveld wordt gevormd door de lijnen tussen de posities: 50°58’34”NB 005°58’18”OL, 50°58’48”NB 005°58’19”OL, langs de Nederlands/Duitse grens naar 50°59’00”NB 006°01’36”OL, langs de Nederlands/Duitse grens naar 50°58’54”NB 006°01’37”OL, 50°58’56”NB 006°01’17”OL, 50°58’50”NB 006°00’58”OL, 50°58’33”NB 006°00’20”OL, 50°58’34”NB 005°58’18”OL.
 
@@ -2460,13 +2486,13 @@ langs de weg naar:
 
 - c). De ATZ en SRZ Schinveld hebben een ondergrens vanaf de grond en een bovengrens van 3000 voet AMSL.
 
-#### 4. ATZ Veendam
+##### 4. ATZ Veendam
 
 - a). De laterale grenzen van de ATZ Veendam wordt gevormd door de lijnen tussen de posities: 53°04’15”NB 006°48’52”OL langs een boog van een cirkel met een straal van 0,88 nautische mijlen gecentreerd rond positie 53°05’04”NB 006°49’25”OL, 53°05’14”NB 006°50’51”OL, 53°04’46”NB 006°51’00”OL, 53°04’44”NB 006°52’58”OL, 53°03’51”NB 006°52’25”OL, 53°03’03”NB 006°51’12”OL, 53°03’23”NB 006°50’14”OL, 53°04’15”NB 006°48’52”OL.
 
 - b). De ATZ Veendam heeft een ondergrens vanaf de grond en een bovengrens van 1500 voet AMSL.
 
-#### 5. ATZ Valkenburg en SRZ Valkenburg, Ypenburg en Hoek van Holland
+##### 5. ATZ Valkenburg en SRZ Valkenburg, Ypenburg en Hoek van Holland
 
 - a. De laterale grens van de ATZ Valkenburg is: een cirkel met een straal van 2 nautische mijlen rond positie 52°10"02' NB 004°25"06' OL
 
@@ -2494,13 +2520,13 @@ langs de weg naar:
 
 - 2. bovengrens: 2500 voet AMSL.
 
-#### Artikel 18a. Afwijking van de maximum toegestane aangewezen luchtsnelheid voor militaire jachtvliegtuigen
+##### Artikel 18a. Afwijking van de maximum toegestane aangewezen luchtsnelheid voor militaire jachtvliegtuigen
 
 De snelheidsbeperking in paragraaf SERA.6001, onderdelen c tot en met g, van verordening (EU) nr. 923/2012 is niet van toepassing op VFR-vluchten en IFR-vluchten die worden aangemerkt als OAT en worden uitgevoerd door militaire jachtvliegtuigen waarvan de minimum luchtsnelheid meer dan 250 kts aangewezen luchtsnelheid (IAS) bedraagt, onder de voorwaarde dat het vliegzicht, uitgezonderd binnen plaatselijke luchtverkeersleidingsgebieden, minimaal 8 km bedraagt.
 
 #### Slotbepalingen
 
-#### 1. ATZ Budel
+##### 1. ATZ Budel
 
 - a. De laterale grenzen van de ATZ Budel zijn als volgt:
 
@@ -2514,7 +2540,7 @@ De snelheidsbeperking in paragraaf SERA.6001, onderdelen c tot en met g, van ver
 
 - 2. bovengrens in deel A: 365,76 meter (1200 ft) AMSL en bovengrens in deel B: 182,88 meter (600 ft) AMSL.
 
-#### 2. ATZ Lelystad
+##### 2. ATZ Lelystad
 
 - a. De laterale grenzen van de ATZ Lelystad zijn als volgt: Vanaf positie 52°26’35”NB 005°26’17”OL naar positie 52°28’04”NB 005°28’39”OL naar positie 52°29’18”NB 005°31’07”OL naar positie 52°30’00”NB 005°31’47”OL naar positie 52°30’34”NB 005°33’50”OL naar positie 52°27’28”NB 005°36’45”OL naar positie 52°26’46”NB 005°34’54”OL naar positie 52°26’18”NB 005°34’23”OL naar positie 52°25’58”NB 005°33’31”OL langs de parallel naar positie 52°25’58”NB 005°33’05”OL naar positie 52°24’07”NB 005°30’11”OL en terug naar positie 52°26’35”NB 005°26’17”OL.
 
@@ -2524,7 +2550,7 @@ De snelheidsbeperking in paragraaf SERA.6001, onderdelen c tot en met g, van ver
 
 - 2. bovengrens: 457,2 meter (1500 ft) AMSL.
 
-#### 3. ATZ en SRZ Schinveld
+##### 3. ATZ en SRZ Schinveld
 
 - a). De laterale grenzen van de ATZ Schinveld wordt gevormd door de lijnen tussen de posities: 50°58’34”NB 005°58’18”OL, 50°58’48”NB 005°58’19”OL, langs de Nederlands/Duitse grens naar 50°59’00”NB 006°01’36”OL, langs de Nederlands/Duitse grens naar 50°58’54”NB 006°01’37”OL, 50°58’56”NB 006°01’17”OL, 50°58’50”NB 006°00’58”OL, 50°58’33”NB 006°00’20”OL, 50°58’34”NB 005°58’18”OL.
 
@@ -2532,13 +2558,13 @@ De snelheidsbeperking in paragraaf SERA.6001, onderdelen c tot en met g, van ver
 
 - c). De ATZ en SRZ Schinveld hebben een ondergrens vanaf de grond en een bovengrens van 3000 voet AMSL.
 
-#### 4. ATZ Veendam
+##### 4. ATZ Veendam
 
 - a). De laterale grenzen van de ATZ Veendam wordt gevormd door de lijnen tussen de posities: 53°04’15”NB 006°48’52”OL langs een boog van een cirkel met een straal van 0,88 nautische mijlen gecentreerd rond positie 53°05’04”NB 006°49’25”OL, 53°05’14”NB 006°50’51”OL, 53°04’46”NB 006°51’00”OL, 53°04’44”NB 006°52’58”OL, 53°03’51”NB 006°52’25”OL, 53°03’03”NB 006°51’12”OL, 53°03’23”NB 006°50’14”OL, 53°04’15”NB 006°48’52”OL.
 
 - b). De ATZ Veendam heeft een ondergrens vanaf de grond en een bovengrens van 1500 voet AMSL.
 
-#### 5. ATZ Valkenburg en SRZ Valkenburg, Ypenburg en Hoek van Holland
+##### 5. ATZ Valkenburg en SRZ Valkenburg, Ypenburg en Hoek van Holland
 
 - a. De laterale grens van de ATZ Valkenburg is: een cirkel met een straal van 2 nautische mijlen rond positie 52°10"02' NB 004°25"06' OL
 
@@ -2568,7 +2594,7 @@ De snelheidsbeperking in paragraaf SERA.6001, onderdelen c tot en met g, van ver
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### 1. ATZ Budel
+##### 1. ATZ Budel
 
 - a. De laterale grenzen van de ATZ Budel zijn als volgt:
 
@@ -2582,7 +2608,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - 2. bovengrens in deel A: 365,76 meter (1200 ft) AMSL en bovengrens in deel B: 182,88 meter (600 ft) AMSL.
 
-#### 2. ATZ Lelystad
+##### 2. ATZ Lelystad
 
 - a. De laterale grenzen van de ATZ Lelystad zijn als volgt: Vanaf positie 52°26’35”NB 005°26’17”OL naar positie 52°28’04”NB 005°28’39”OL naar positie 52°29’18”NB 005°31’07”OL naar positie 52°30’00”NB 005°31’47”OL naar positie 52°30’34”NB 005°33’50”OL naar positie 52°27’28”NB 005°36’45”OL naar positie 52°26’46”NB 005°34’54”OL naar positie 52°26’18”NB 005°34’23”OL naar positie 52°25’58”NB 005°33’31”OL langs de parallel naar positie 52°25’58”NB 005°33’05”OL naar positie 52°24’07”NB 005°30’11”OL en terug naar positie 52°26’35”NB 005°26’17”OL.
 
@@ -2592,7 +2618,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - 2. bovengrens: 457,2 meter (1500 ft) AMSL.
 
-#### 3. ATZ en SRZ Schinveld
+##### 3. ATZ en SRZ Schinveld
 
 - a). De laterale grenzen van de ATZ Schinveld wordt gevormd door de lijnen tussen de posities: 50°58’34”NB 005°58’18”OL, 50°58’48”NB 005°58’19”OL, langs de Nederlands/Duitse grens naar 50°59’00”NB 006°01’36”OL, langs de Nederlands/Duitse grens naar 50°58’54”NB 006°01’37”OL, 50°58’56”NB 006°01’17”OL, 50°58’50”NB 006°00’58”OL, 50°58’33”NB 006°00’20”OL, 50°58’34”NB 005°58’18”OL.
 
@@ -2600,13 +2626,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - c). De ATZ en SRZ Schinveld hebben een ondergrens vanaf de grond en een bovengrens van 3000 voet AMSL.
 
-#### 4. ATZ Veendam
+##### 4. ATZ Veendam
 
 - a). De laterale grenzen van de ATZ Veendam wordt gevormd door de lijnen tussen de posities: 53°04’15”NB 006°48’52”OL langs een boog van een cirkel met een straal van 0,88 nautische mijlen gecentreerd rond positie 53°05’04”NB 006°49’25”OL, 53°05’14”NB 006°50’51”OL, 53°04’46”NB 006°51’00”OL, 53°04’44”NB 006°52’58”OL, 53°03’51”NB 006°52’25”OL, 53°03’03”NB 006°51’12”OL, 53°03’23”NB 006°50’14”OL, 53°04’15”NB 006°48’52”OL.
 
 - b). De ATZ Veendam heeft een ondergrens vanaf de grond en een bovengrens van 1500 voet AMSL.
 
-#### 5. ATZ Valkenburg en SRZ Valkenburg, Ypenburg en Hoek van Holland
+##### 5. ATZ Valkenburg en SRZ Valkenburg, Ypenburg en Hoek van Holland
 
 - a. De laterale grens van de ATZ Valkenburg is: een cirkel met een straal van 2 nautische mijlen rond positie 52°10"02' NB 004°25"06' OL
 
@@ -2636,7 +2662,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### 6. ATZ Teuge
+##### 6. ATZ Teuge
 
 - a. De laterale grenzen van de ATZ Teuge zijn als volgt: Met de klok mee volgens de punten:
 
@@ -2660,7 +2686,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1b. AFIS-vluchtinformatie
+##### Artikel 1b. AFIS-vluchtinformatie
 
 De instantie, belast met het geven van AFIS, verstrekt in ieder geval de volgende vluchtinformatie:
 
@@ -2708,7 +2734,7 @@ De instantie, belast met het geven van AFIS, verstrekt in ieder geval de volgend
 
 #### Slotbepalingen
 
-#### 1. ATZ Budel
+##### 1. ATZ Budel
 
 - a. De laterale grenzen van de ATZ Budel zijn als volgt:
 
@@ -2718,31 +2744,31 @@ De instantie, belast met het geven van AFIS, verstrekt in ieder geval de volgend
 
 - b. De ATZ Budel heeft een ondergrens vanaf de grond, een bovengrens in deel A van 365,76 meter (1200 ft) AMSL en een bovengrens in deel B van 182,88 meter (600 ft) AMSL.
 
-#### 2. ATZ Lelystad
+##### 2. ATZ Lelystad
 
 - a. De laterale grenzen van de ATZ Lelystad zijn als volgt: Vanaf positie 52°26’35”NB 005°26’17”OL naar positie 52°28’04”NB 005°28’39”OL naar positie 52°29’18”NB 005°31’07”OL naar positie 52°30’00”NB 005°31’47”OL naar positie 52°30’34”NB 005°33’50”OL naar positie 52°27’28”NB 005°36’45”OL naar positie 52°26’46”NB 005°34’54”OL naar positie 52°26’18”NB 005°34’23”OL naar positie 52°25’58”NB 005°33’31”OL langs de parallel naar positie 52°25’58”NB 005°33’05”OL naar positie 52°24’07”NB 005°30’11”OL en terug naar positie 52°26’35”NB 005°26’17”OL.
 
 - b. De ATZ Lelystad heeft een ondergrens vanaf de grond, en een bovengrens van 457,2 meter (1500 ft) AMSL.
 
-#### 3. ATZ Schinveld
+##### 3. ATZ Schinveld
 
 - a). De laterale grenzen van de ATZ Schinveld wordt gevormd door de lijnen tussen de posities: 50°58’34”NB 005°58’18”OL, 50°58’48”NB 005°58’19”OL, langs de Nederlands/Duitse grens naar 50°59’00”NB 006°01’36”OL, langs de Nederlands/Duitse grens naar 50°58’54”NB 006°01’37”OL, 50°58’56”NB 006°01’17”OL, 50°58’50”NB 006°00’58”OL, 50°58’33”NB 006°00’20”OL, 50°58’34”NB 005°58’18”OL.
 
 - b. De ATZ Schinveld heeft een ondergrens vanaf de grond en een bovengrens van 914,4 meter (3000 ft) AMSL.
 
-#### 4. ATZ Veendam
+##### 4. ATZ Veendam
 
 - a). De laterale grenzen van de ATZ Veendam wordt gevormd door de lijnen tussen de posities: 53°04’15”NB 006°48’52”OL langs een boog van een cirkel met een straal van 0,88 nautische mijlen gecentreerd rond positie 53°05’04”NB 006°49’25”OL, 53°05’14”NB 006°50’51”OL, 53°04’46”NB 006°51’00”OL, 53°04’44”NB 006°52’58”OL, 53°03’51”NB 006°52’25”OL, 53°03’03”NB 006°51’12”OL, 53°03’23”NB 006°50’14”OL, 53°04’15”NB 006°48’52”OL.
 
 - b. De ATZ Veendam heeft een ondergrens vanaf de grond en een bovengrens van 457,2 meter (1500 ft) AMSL.
 
-#### 5. ATZ Valkenburg
+##### 5. ATZ Valkenburg
 
 - a. De laterale grens van de ATZ Valkenburg is een cirkel met een straal van 2 nautische mijlen rond de positie 52°10’02’ NB 004°25’06’ OL.
 
 - b. De ATZ Valkenburg heeft een ondergrens vanaf de grond en een bovengrens van 457,2 meter (1500 ft) AMSL.
 
-#### 6. ATZ Teuge
+##### 6. ATZ Teuge
 
 - a. De laterale grenzen van de ATZ Teuge zijn als volgt: Met de klok mee volgens de punten:
 
@@ -2762,7 +2788,7 @@ De instantie, belast met het geven van AFIS, verstrekt in ieder geval de volgend
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 7g. Zweefvlieggebieden Valkenburg, Hoek van Holland en Castricum 2
+##### Artikel 7g. Zweefvlieggebieden Valkenburg, Hoek van Holland en Castricum 2
 
 1. De luchtruimte ten noorden van Rotterdam CTR wordt aangeduid als zweefvlieggebied Valkenburg.
 
@@ -2792,7 +2818,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### Slotbepalingen
 
-#### 1. ATZ Budel
+##### 1. ATZ Budel
 
 - a. De laterale grenzen van de ATZ Budel zijn als volgt:
 
@@ -2802,7 +2828,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - b. De ATZ Budel heeft een ondergrens vanaf de grond, een bovengrens in deel A van 365,76 meter (1200 ft) AMSL en een bovengrens in deel B van 182,88 meter (600 ft) AMSL.
 
-#### 2. ATZ Lelystad A en ATZ Lelystad B
+##### 2. ATZ Lelystad A en ATZ Lelystad B
 
 - a. De laterale grenzen van de ATZ Lelystad A zijn als volgt: Vanaf positie 52°26’35”NB 005°26’17”OL naar positie 52°28’04”NB 005°28’39”OL naar positie 52°29’18”NB 005°31’07”OL naar positie 52°30’00”NB 005°31’47”OL naar positie 52°30’34”NB 005°33’50”OL naar positie 52°27’28”NB 005°36’45”OL naar positie 52°26’46”NB 005°34’54”OL naar positie 52°26’18”NB 005°34’23”OL naar positie 52°25’58”NB 005°33’31”OL langs de parallel naar positie 52°25’58”NB 005°33’05”OL naar positie 52°24’07”NB 005°30’11”OL en terug naar positie 52°26’35”NB 005°26’17”OL.
 
@@ -2812,19 +2838,19 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - d. De ATZ Lelystad B heeft een ondergrens van 457,2 m (1500 ft) AMSL en een bovengrens van 1067,5 m (3500 ft) AMSL.
 
-#### 3. ATZ Schinveld
+##### 3. ATZ Schinveld
 
 - a). De laterale grenzen van de ATZ Schinveld wordt gevormd door de lijnen tussen de posities: 50°58’34”NB 005°58’18”OL, 50°58’48”NB 005°58’19”OL, langs de Nederlands/Duitse grens naar 50°59’00”NB 006°01’36”OL, langs de Nederlands/Duitse grens naar 50°58’54”NB 006°01’37”OL, 50°58’56”NB 006°01’17”OL, 50°58’50”NB 006°00’58”OL, 50°58’33”NB 006°00’20”OL, 50°58’34”NB 005°58’18”OL.
 
 - b. De ATZ Schinveld heeft een ondergrens vanaf de grond en een bovengrens van 914,4 meter (3000 ft) AMSL.
 
-#### 4. ATZ Veendam
+##### 4. ATZ Veendam
 
 - a). De laterale grenzen van de ATZ Veendam wordt gevormd door de lijnen tussen de posities: 53°04’15”NB 006°48’52”OL langs een boog van een cirkel met een straal van 0,88 nautische mijlen gecentreerd rond positie 53°05’04”NB 006°49’25”OL, 53°05’14”NB 006°50’51”OL, 53°04’46”NB 006°51’00”OL, 53°04’44”NB 006°52’58”OL, 53°03’51”NB 006°52’25”OL, 53°03’03”NB 006°51’12”OL, 53°03’23”NB 006°50’14”OL, 53°04’15”NB 006°48’52”OL.
 
 - b. De ATZ Veendam heeft een ondergrens vanaf de grond en een bovengrens van 457,2 meter (1500 ft) AMSL.
 
-#### 5. ATZ Valkenburg en zweefvlieggebieden Valkenburg en Hoek van Holland
+##### 5. ATZ Valkenburg en zweefvlieggebieden Valkenburg en Hoek van Holland
 
 - a. De grenzen van de ATZ Valkenburg zijn als volgt:
 
@@ -2844,7 +2870,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - B. De verticale grenzen zijn een ondergrens vanaf 457,2 meter (1500 ft) AMSL en een bovengrens van 762 meter (2500 ft) AMSL.
 
-#### 6. ATZ Teuge
+##### 6. ATZ Teuge
 
 - a. De laterale grenzen van de ATZ Teuge zijn als volgt: Met de klok mee volgens de punten:
 
@@ -2864,7 +2890,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### 7. Zweefvlieggebied Castricum 2
+##### 7. Zweefvlieggebied Castricum 2
 
 De grenzen van het zweefvlieggebied Castricum 2 zijn als volgt:
 
@@ -2876,7 +2902,7 @@ De grenzen van het zweefvlieggebied Castricum 2 zijn als volgt:
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 7h. Aerodrome Traffic Zone op luchthaven Twente
+##### Artikel 7h. Aerodrome Traffic Zone op luchthaven Twente
 
 1. De luchtruimte rond de luchthaven Twente geldt ter bescherming van het luchthavenverkeer waaronder luchtvaartuigen met de luchthaven Twente als plaats van bestemming of vertrek als ATZ en wordt aangeduid als ATZ Twente.
 
@@ -2884,7 +2910,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### Slotbepalingen
 
-#### 1. ATZ Budel
+##### 1. ATZ Budel
 
 - a. De laterale grenzen van de ATZ Budel zijn als volgt:
 
@@ -2894,19 +2920,19 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - b. De ATZ Budel heeft een ondergrens vanaf de grond, een bovengrens in deel A van 365,76 meter (1200 ft) AMSL en een bovengrens in deel B van 182,88 meter (600 ft) AMSL.
 
-#### 2. ATZ Schinveld
+##### 2. ATZ Schinveld
 
 - a). De laterale grenzen van de ATZ Schinveld wordt gevormd door de lijnen tussen de posities: 50°58’34”NB 005°58’18”OL, 50°58’48”NB 005°58’19”OL, langs de Nederlands/Duitse grens naar 50°59’00”NB 006°01’36”OL, langs de Nederlands/Duitse grens naar 50°58’54”NB 006°01’37”OL, 50°58’56”NB 006°01’17”OL, 50°58’50”NB 006°00’58”OL, 50°58’33”NB 006°00’20”OL, 50°58’34”NB 005°58’18”OL.
 
 - b. De ATZ Schinveld heeft een ondergrens vanaf de grond en een bovengrens van 914,4 meter (3000 ft) AMSL.
 
-#### 3. ATZ Veendam
+##### 3. ATZ Veendam
 
 - a). De laterale grenzen van de ATZ Veendam wordt gevormd door de lijnen tussen de posities: 53°04’15”NB 006°48’52”OL langs een boog van een cirkel met een straal van 0,88 nautische mijlen gecentreerd rond positie 53°05’04”NB 006°49’25”OL, 53°05’14”NB 006°50’51”OL, 53°04’46”NB 006°51’00”OL, 53°04’44”NB 006°52’58”OL, 53°03’51”NB 006°52’25”OL, 53°03’03”NB 006°51’12”OL, 53°03’23”NB 006°50’14”OL, 53°04’15”NB 006°48’52”OL.
 
 - b. De ATZ Veendam heeft een ondergrens vanaf de grond en een bovengrens van 457,2 meter (1500 ft) AMSL.
 
-#### 4. ATZ Valkenburg en zweefvlieggebieden Valkenburg en Hoek van Holland
+##### 4. ATZ Valkenburg en zweefvlieggebieden Valkenburg en Hoek van Holland
 
 - a. De grenzen van de ATZ Valkenburg zijn als volgt:
 
@@ -2926,7 +2952,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - B. De verticale grenzen zijn een ondergrens vanaf 457,2 meter (1500 ft) AMSL en een bovengrens van 762 meter (2500 ft) AMSL.
 
-#### 5. ATZ Teuge
+##### 5. ATZ Teuge
 
 - a. De laterale grenzen van de ATZ Teuge zijn als volgt: Met de klok mee volgens de punten:
 
@@ -2944,7 +2970,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - b. De ATZ Teuge heeft een ondergrens vanaf de grond en een bovengrens van 457,2 meter (1500 ft) AMSL.
 
-#### 6. Zweefvlieggebied Castricum 2
+##### 6. Zweefvlieggebied Castricum 2
 
 De grenzen van het zweefvlieggebied Castricum 2 zijn als volgt:
 
@@ -2952,7 +2978,7 @@ De grenzen van het zweefvlieggebied Castricum 2 zijn als volgt:
 
 - B. De verticale grenzen zijn een ondergrens vanaf 457,2 meter (1500 ft) AMSL en een bovengrens van 762 meter (2500 ft) AMSL.
 
-#### 7. ATZ Twente
+##### 7. ATZ Twente
 
 - a. De laterale grenzen van de ATZ Twente zijn als volgt: Met de klok mee volgens de punten:
 
@@ -2972,7 +2998,7 @@ De grenzen van het zweefvlieggebied Castricum 2 zijn als volgt:
 
 - b. De ATZ Twente heeft een ondergrens vanaf de grond en een bovengrens van 670,6 meter (2200 ft) AMSL. ATZ Twente
 
-#### 8. ATZ Twente
+##### 8. ATZ Twente
 
 - a. De laterale grenzen van de ATZ Twente zijn als volgt: Met de klok mee volgens de punten:
 
@@ -2994,7 +3020,7 @@ De grenzen van het zweefvlieggebied Castricum 2 zijn als volgt:
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 7i. North Sea Copter Area West
+##### Artikel 7i. North Sea Copter Area West
 
 1. De luchtruimte gelegen in het zuidelijk deel van Nieuw Milligen CTA Noord wordt aangeduid als North Sea Copter Area West.
 
@@ -3010,7 +3036,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### Slotbepalingen
 
-#### 1. ATZ Budel
+##### 1. ATZ Budel
 
 - a. De laterale grenzen van de ATZ Budel zijn als volgt:
 
@@ -3020,19 +3046,19 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - b. De ATZ Budel heeft een ondergrens vanaf de grond, een bovengrens in deel A van 365,76 meter (1200 ft) AMSL en een bovengrens in deel B van 182,88 meter (600 ft) AMSL.
 
-#### 2. ATZ Schinveld
+##### 2. ATZ Schinveld
 
 - a). De laterale grenzen van de ATZ Schinveld wordt gevormd door de lijnen tussen de posities: 50°58’34”NB 005°58’18”OL, 50°58’48”NB 005°58’19”OL, langs de Nederlands/Duitse grens naar 50°59’00”NB 006°01’36”OL, langs de Nederlands/Duitse grens naar 50°58’54”NB 006°01’37”OL, 50°58’56”NB 006°01’17”OL, 50°58’50”NB 006°00’58”OL, 50°58’33”NB 006°00’20”OL, 50°58’34”NB 005°58’18”OL.
 
 - b. De ATZ Schinveld heeft een ondergrens vanaf de grond en een bovengrens van 914,4 meter (3000 ft) AMSL.
 
-#### 3. ATZ Veendam
+##### 3. ATZ Veendam
 
 - a). De laterale grenzen van de ATZ Veendam wordt gevormd door de lijnen tussen de posities: 53°04’15”NB 006°48’52”OL langs een boog van een cirkel met een straal van 0,88 nautische mijlen gecentreerd rond positie 53°05’04”NB 006°49’25”OL, 53°05’14”NB 006°50’51”OL, 53°04’46”NB 006°51’00”OL, 53°04’44”NB 006°52’58”OL, 53°03’51”NB 006°52’25”OL, 53°03’03”NB 006°51’12”OL, 53°03’23”NB 006°50’14”OL, 53°04’15”NB 006°48’52”OL.
 
 - b. De ATZ Veendam heeft een ondergrens vanaf de grond en een bovengrens van 457,2 meter (1500 ft) AMSL.
 
-#### 4. Zweefvlieggebieden Valkenburg en Hoek van Holland
+##### 4. Zweefvlieggebieden Valkenburg en Hoek van Holland
 
 - a. De grenzen van het zweefvlieggebied Valkenburg zijn als volgt:
 
@@ -3046,7 +3072,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - B. De verticale grenzen zijn een ondergrens vanaf 457,2 meter (1500 ft) AMSL en een bovengrens van 762 meter (2500 ft) AMSL.
 
-#### 5. ATZ Teuge
+##### 5. ATZ Teuge
 
 - a. De laterale grenzen van de ATZ Teuge zijn als volgt: Met de klok mee volgens de punten:
 
@@ -3064,7 +3090,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - b. De ATZ Teuge heeft een ondergrens vanaf de grond en een bovengrens van 457,2 meter (1500 ft) AMSL.
 
-#### 6. Zweefvlieggebieden Castricum 1 en Castricum 2
+##### 6. Zweefvlieggebieden Castricum 1 en Castricum 2
 
 - 1. De grenzen van het zweefvlieggebied Castricum 1 zijn als volgt:
 
@@ -3078,7 +3104,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - B. De verticale grenzen zijn een ondergrens vanaf 457,2 meter (1500 ft) AMSL en een bovengrens van 762 meter (2500 ft) AMSL.
 
-#### 7. ATZ Twente
+##### 7. ATZ Twente
 
 - a. De laterale grenzen van de ATZ Twente zijn als volgt: Met de klok mee volgens de punten:
 
@@ -3098,7 +3124,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - b. De ATZ Twente heeft een ondergrens vanaf de grond en een bovengrens van 670,6 meter (2200 ft) AMSL. ATZ Twente
 
-#### 8. North Sea Copter Area West
+##### 8. North Sea Copter Area West
 
 - A. De laterale grens wordt gevormd door een lijn tussen de posities: 54°45'01.27"NB 004°46'00.00"OL, 53°30'00.00"NB 004°46'00.00"OL, 53°30'00.00"NB 003°38'44.30"OL, 54°45'01.27"NB 004°46'00.00.
 

@@ -1,13 +1,39 @@
 ---
-title: "Regeling verplichte geestelijke gezondheidszorg"
+title: "Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 31 oktober 2019, kenmerk 1604148-181029-WJZ, houdende nadere regels voor het kunnen verlenen van verplichte zorg aan een persoon met een psychische stoornis (Regeling verplichte geestelijke gezondheidszorg)"
 identifier: "BWBR0042740"
-categorie: "Sociaal recht"
-publicatiedatum: 2023-09-02
-laatste_update: 2023-09-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042740"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-09-02"
+last_updated: "2023-09-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042740"
+soort: "ministeriele-regeling"
+stam_id: "15220013"
+version_id: "26178472"
+internal_id: "C37357331"
+label_id: "15166804"
+dtd_version: "2.0"
+original_entry_into_force: "2020-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042740/2023-09-02/0"
+intitule_bron: "Stcrt.2019-60909"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-10-31"
+intitule_published: "2019-11-07"
+intitule_in_force: "2019-11-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-60909"
+original_signed_date: "2019-10-31"
+original_published_date: "2019-11-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-60909"
+entry_into_force_date: "2020-01-01"
+jci_1_3: "jci1.3:c:BWBR0042740&z=2023-09-02&g=2023-09-02"
+jci_1_0: "1.0:c:BWBR0042740&g=2023-09-02"
+citeertitel_status: "officieel"
+short_title: "Regeling verplichte geestelijke gezondheidszorg"
+signed_date: "2019-10-31"
+entry_into_force: "2020-01-01"
 ---
-
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 31 oktober 2019, kenmerk 1604148-181029-WJZ, houdende nadere regels voor het kunnen verlenen van verplichte zorg aan een persoon met een psychische stoornis (Regeling verplichte geestelijke gezondheidszorg)
 
 Gelet op de [artikelen 1:1, eerste lid, onderdeel aa](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&artikel=1:1); [4:1, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&artikel=4:1); [5:13, derde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&artikel=5:13); [7:3, vierde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&artikel=7:3); en [8:25, tweede lid, van de Wet verplichte geestelijke gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&artikel=8:25) en [artikelen 3.1, vijfde en zevende lid van het Besluit verplichte geestelijke gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0042262&artikel=3.1);
@@ -18,7 +44,7 @@ Treedt in werking op het tijdstip waarop de Wet verplichte geestelijke gezondhei
 
 ### Hoofdstuk 1. – Begripsbepaling
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -26,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. – Categorieën van deskundigen
 
-#### Artikel 2
+##### Artikel 2
 
 Als categorieën van deskundigen als bedoeld in [artikel 1:1, eerste lid, onderdeel aa, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&artikel=1:1) worden aangewezen:
 
@@ -46,11 +72,11 @@ Als categorieën van deskundigen als bedoeld in [artikel 1:1, eerste lid, onderd
 
 - –. verpleegkundig specialist geestelijke gezondheidszorg.
 
-#### Artikel 3
+##### Artikel 3
 
 Als categorie van deskundigen als bedoeld in [artikel 4:1, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&artikel=4:1) wordt de klinisch psycholoog aangewezen.
 
-#### Artikel 4
+##### Artikel 4
 
 Als categorieën van deskundigen als bedoeld in [artikel 5:13, derde lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&artikel=5:13) worden aangewezen:
 
@@ -64,7 +90,7 @@ Als categorieën van deskundigen als bedoeld in [artikel 5:13, derde lid, onderd
 
 - –. psychotherapeut.
 
-#### Artikel 5
+##### Artikel 5
 
 Als categorieën van deskundigen als bedoeld in [artikel 7:3, vierde lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&artikel=7:3) worden aangewezen:
 
@@ -76,7 +102,7 @@ Als categorieën van deskundigen als bedoeld in [artikel 7:3, vierde lid, onderd
 
 ### Hoofdstuk 3. – Gegevensverwerking
 
-#### Artikel 6
+##### Artikel 6
 
 1. De zorgaanbieder verstrekt aan de inspectie per locatie het digitale overzicht, bedoeld in [artikel 8:24, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&artikel=8:24), onder vermelding van het vestigingsnummer van die locatie.
 
@@ -86,11 +112,11 @@ Als categorieën van deskundigen als bedoeld in [artikel 7:3, vierde lid, onderd
 
 4. Bij de verstrekking wordt het bestandstype .xml, of de technische opvolger daarvan, gehanteerd in een digitaal uitleesbaar formaat.
 
-#### Artikel 7
+##### Artikel 7
 
 Als format als bedoeld in [artikel 3.1, zevende lid, van het Besluit verplichte geestelijke gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0042262&artikel=3.1) voor het verstrekken van een digitaal overzicht wordt het format in bijlage 1 bij deze regeling vastgesteld.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De zorgaanbieder verstrekt aan de inspectie de analyse, bedoeld in [artikel 8:25, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&artikel=8:25), onder vermelding van het vestigingsnummer van de locatie waar de analyse betrekking op heeft.
 
@@ -104,7 +130,7 @@ Als format als bedoeld in [artikel 3.1, zevende lid, van het Besluit verplichte 
 
 6. In afwijking van het eerste lid kan de zorgaanbieder de analyse, bedoeld in het eerste lid, met redenen omkleed betrekking doen hebben op meerdere locaties.
 
-#### Artikel 9
+##### Artikel 9
 
 1. In de analyse, bedoeld in [artikel 8:25, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&artikel=8:25) neemt de zorgaanbieder in ieder geval op:
 
@@ -122,15 +148,15 @@ Als format als bedoeld in [artikel 3.1, zevende lid, van het Besluit verplichte 
 
 2. De zorgaanbieder stelt de door hem op grond van [artikel 3 van de Wet medezeggenschap cliënten zorginstellingen 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&artikel=3) ingestelde en ter zake betrokken cliëntenraad gedurende vier weken in de gelegenheid om een reactie uit te brengen over de analyse, bedoeld in het eerste lid, en voegt deze toe aan de analyse. Indien de cliëntenraad geen reactie heeft gegeven, vermeldt de zorgaanbieder in de analyse wanneer hij de cliëntenraad hiertoe in de gelegenheid heeft gesteld.
 
-#### Artikel 10
+##### Artikel 10
 
 Ten aanzien van gegevensverwerkingen door zorgaanbieders die voortvloeien uit de wet en de daarop berustende bepalingen wordt als technische standaard als bedoeld in [artikel 3.1, vijfde lid, van het Besluit verplichte geestelijke gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0042262&artikel=3.1) NEN 7510, en de uitwerking daarvan in NEN 7512, aangewezen.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze regeling treedt in werking op het tijdstip waarop de [Wet verplichte geestelijke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040635) in werking treedt.
 
-#### Artikel 12
+##### Artikel 12
 
 Deze regeling wordt aangehaald als: Regeling verplichte geestelijke gezondheidszorg.
 

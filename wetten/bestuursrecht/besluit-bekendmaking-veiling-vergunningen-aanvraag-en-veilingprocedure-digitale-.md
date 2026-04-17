@@ -1,20 +1,46 @@
 ---
-title: "Besluit bekendmaking veiling vergunningen aanvraag- en veilingprocedure digitale radio-omroep DAB laag 6"
+title: "Besluit van de Minister van Economische Zaken en Klimaat van 7 juni 2024, nr. DGED/DE/45732471 handelend in overeenstemming met de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, inzake de keuze voor het instrument veiling voor de uitgifte van vergunningen voor commerciële digitale radio-omroep in DAB-laag 6 (Besluit bekendmaking veiling DAB-laag 6)"
 identifier: "BWBR0049838"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-06-20
-laatste_update: 2024-06-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049838"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-06-20"
+last_updated: "2024-06-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049838"
+soort: "ministeriele-regeling"
+stam_id: "17137593"
+version_id: "30161792"
+internal_id: "C43218081"
+label_id: "17046494"
+dtd_version: "2.0"
+original_entry_into_force: "2024-06-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049838/2024-06-20/0"
+intitule_bron: "Stcrt.2024-18622"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-06-07"
+intitule_published: "2024-06-19"
+intitule_in_force: "2024-06-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-18622"
+original_signed_date: "2024-06-07"
+original_published_date: "2024-06-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-18622"
+entry_into_force_date: "2024-06-20"
+jci_1_3: "jci1.3:c:BWBR0049838&z=2024-06-20&g=2024-06-20"
+jci_1_0: "1.0:c:BWBR0049838&g=2024-06-20"
+citeertitel_status: "officieel"
+short_title: "Besluit bekendmaking veiling vergunningen aanvraag- en veilingprocedure digitale radio-omroep DAB laag 6"
+signed_date: "2024-06-07"
+entry_into_force: "2024-06-20"
 ---
-
 # Besluit van de Minister van Economische Zaken en Klimaat van 7 juni 2024, nr. DGED/DE/45732471 handelend in overeenstemming met de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, inzake de keuze voor het instrument veiling voor de uitgifte van vergunningen voor commerciële digitale radio-omroep in DAB-laag 6 (Besluit bekendmaking veiling DAB-laag 6)
 
 Gelet op [artikel 3.10, vierde lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10), en [artikel 17 van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=17);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De DAB-vergunningen in frequentieband 174–230 MHz, genoemd in tabel 1, worden, met de daaraan te verbinden voorschriften en beperkingen, verleend met toepassing van een veiling als bedoeld in [artikel 3.10, eerste lid, aanhef en onderdeel f, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10).
 
@@ -50,23 +76,23 @@ De DAB-vergunningen in frequentieband 174–230 MHz, genoemd in tabel 1, worden,
 | 28 | 12 | 1, allotment 28 | 2,09% | 57 | 11 | 1, allotment 57 | 2,72% |
 | 29 | 14 | 1, allotment 29 | 1,90% |   |   |   |   |
 
-#### Artikel 2
+##### Artikel 2
 
 De aanvraag- en veilingprocedure vangt aan op 20 juni 2024.
 
-#### Artikel 3
+##### Artikel 3
 
 De vergunningen, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049838&artikel=1&z=2024-06-20&g=2024-06-20), zijn nader bestemd voor commerciële digitale lokale radio-omroep.
 
-#### Artikel 4
+##### Artikel 4
 
 De voorschriften en beperkingen inclusief de (technische) bijlagen behorende bij de DAB-vergunningen in frequentieband 174–230 MHz, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049838&artikel=1&z=2024-06-20&g=2024-06-20), worden voor zover dat reeds mogelijk is, vastgesteld in bijlagen 1 tot en met 57.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit wordt aangehaald als: Besluit bekendmaking veiling vergunningen aanvraag- en veilingprocedure digitale radio-omroep DAB laag 6.
 

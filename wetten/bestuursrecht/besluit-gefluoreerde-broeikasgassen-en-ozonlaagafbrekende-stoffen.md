@@ -1,13 +1,39 @@
 ---
-title: "Besluit gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen"
+title: "Besluit van 30 september 2015, houdende vaststelling van nieuwe regels voor bepaalde gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen ter uitvoering van Verordening (EU) nr. 517/2014 van 16 april 2014 betreffende gefluoreerde broeikasgassen en een aantal daarmee verband houdende verordeningen en ter uitvoering van Verordening (EG) nr. 1005/2009 van 16 september 2009 betreffende ozonlaagafbrekende stoffen (Besluit gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen)"
 identifier: "BWBR0037088"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-08-18
-laatste_update: 2025-08-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037088"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-08-18"
+last_updated: "2025-08-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037088"
+soort: "AMvB"
+stam_id: "13274493"
+version_id: "29329202"
+internal_id: "C41788651"
+label_id: "13242724"
+dtd_version: "2.0"
+original_entry_into_force: "2023-03-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037088/2025-08-18/0"
+intitule_bron: "Stb.2015-356"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-09-30"
+intitule_published: "2015-10-15"
+intitule_in_force: "2015-10-15"
+intitule_status: "goed"
+original_publication: "Stb.2023-114"
+original_signed_date: "2023-03-30"
+original_published_date: "2023-04-07"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2023-114"
+entry_into_force_date: "2023-03-30"
+jci_1_3: "jci1.3:c:BWBR0037088&z=2025-08-18&g=2025-08-18"
+jci_1_0: "1.0:c:BWBR0037088&g=2025-08-18"
+citeertitel_status: "officieel"
+short_title: "Besluit gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen"
+signed_date: "2023-03-30"
+entry_into_force: "2023-03-30"
 ---
-
 # Besluit van 30 september 2015, houdende vaststelling van nieuwe regels voor bepaalde gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen ter uitvoering van Verordening (EU) nr. 517/2014 van 16 april 2014 betreffende gefluoreerde broeikasgassen en een aantal daarmee verband houdende verordeningen en ter uitvoering van Verordening (EG) nr. 1005/2009 van 16 september 2009 betreffende ozonlaagafbrekende stoffen (Besluit gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen)
 
 Op de voordracht van de Staatssecretaris van Infrastructuur en Milieu van 25 maart 2015, nr. IenM/BSK-2015/40181, Hoofddirectie Bestuurlijke en Juridische Zaken, in overeenstemming met Onze Ministers van Veiligheid en Justitie en van Economische Zaken;
@@ -24,7 +50,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -40,17 +66,17 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - f. **aanbieder van diensten van de informatiemaatschappij:** aanbieder van een dienst zoals gedefinieerd in artikel 1, eerste lid, onderdeel b, van [Richtlijn (EU) 2015/1535](32015L1535) van het Europees Parlement en de Raad van 9 september 2015 betreffende een informatieprocedure op het gebied van technische voorschriften en regels betreffende de diensten van de informatiemaatschappij (PbEU 2015, L 241).
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit en de daarop berustende bepalingen zijn mede van toepassing op handelingen verricht binnen de exclusieve economische zone.
 
 #### § 2. Gefluoreerde broeikasgassen
 
-#### Artikel 3
+##### Artikel 3
 
 Onze Minister is de bevoegde autoriteit, bedoeld in de artikelen 4, 7, 8, 11, 13, 14, 15, 16, 17, 19, 20, 22, 23, 24, 28, 29 en 31 van de F-gassenverordening.
 
-#### Artikel 4
+##### Artikel 4
 
 Het is verboden te handelen in strijd met de volgende bepalingen van de F-gassenverordening:
 
@@ -126,7 +152,7 @@ Het is verboden te handelen in strijd met de volgende bepalingen van de F-gassen
 
 - aj. artikel 26.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het is verboden te handelen in strijd met artikel 1 van [Uitvoeringsverordening (EU) 2024/2174](32024R2174) van de Europese Commissie van 2 september 2024.
 
@@ -148,7 +174,7 @@ Het is verboden te handelen in strijd met de volgende bepalingen van de F-gassen
 
 10. Het is verboden te handelen in strijd met de artikelen 1 tot en met 4 van [Uitvoeringsverordening (EU) 2016/879](32016R0879) (PbEU L 146).
 
-#### Artikel 6
+##### Artikel 6
 
 1. Voor de uitvoering van de taken, bedoeld in artikel 10, eerste lid, eerste alinea, van de F-gassenverordening, alsmede voor de terugwinning van gefluoreerde broeikasgassen uit klimaatregelingsapparatuur in motorvoertuigen die binnen het toepassingsgebied van [Richtlijn 2006/40/EG](32006L0040) vallen, beschikt een natuurlijk persoon over een certificaat dat is verleend door een instelling die daartoe beschikt over een erkenning.
 
@@ -172,11 +198,11 @@ Het is verboden te handelen in strijd met de volgende bepalingen van de F-gassen
 
 #### § 3. Ozonlaagafbrekende stoffen
 
-#### Artikel 7
+##### Artikel 7
 
 Onze Minister is de bevoegde autoriteit, bedoeld in de artikelen 8 tot en met 10, 13 tot en met 18, 20, 21, 24 tot en met 27 van de Verordening ozonlaagafbrekende stoffen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het is verboden te handelen in strijd met de volgende bepalingen van de Verordening ozonlaagafbrekende stoffen:
 
@@ -196,7 +222,7 @@ Onze Minister is de bevoegde autoriteit, bedoeld in de artikelen 8 tot en met 10
 
 2. Het is verboden om chloorfluorkoolstoffen- of chloorfluorkoolwaterstoffenhoudende koel- en vriesapparatuur voor handelsdoeleinden voorhanden te hebben die afkomstig is van particuliere huishoudens of van anderen dan particuliere huishoudens voor zover deze apparatuur naar aard en hoeveelheid vergelijkbaar is met die van particuliere huishoudens.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Voor de terugwinning van ozonafbrekende stoffen, bedoeld in artikel 20, eerste, vierde en vijfde lid, van de Verordening ozonlaagafbrekende stoffen en de controle op lekkage, bedoeld in 21, derde lid, van de Verordening ozonlaagafbrekende stoffen, beschikt een natuurlijk persoon over een certificaat dat is verleend door een instelling die daartoe beschikt over een erkenning.
 
@@ -216,7 +242,7 @@ Onze Minister is de bevoegde autoriteit, bedoeld in de artikelen 8 tot en met 10
 
 #### § 4. Erkenning van instellingen die natuurlijke personen en ondernemingen certificeren
 
-#### Artikel 10
+##### Artikel 10
 
 1. Onze Minister kan op aanvraag een erkenning verlenen aan een instelling voor het verstrekken van certificaten als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&paragraaf=2&artikel=6&z=2025-08-18&g=2025-08-18) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&paragraaf=3&artikel=9&z=2025-08-18&g=2025-08-18) aan natuurlijke personen of ondernemingen.
 
@@ -224,7 +250,7 @@ Onze Minister is de bevoegde autoriteit, bedoeld in de artikelen 8 tot en met 10
 
 3. De erkenning wordt voor onbepaalde tijd verleend en is niet overdraagbaar.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Bij de aanvraag worden ten minste de volgende gegevens verstrekt:
 
@@ -234,7 +260,7 @@ Onze Minister is de bevoegde autoriteit, bedoeld in de artikelen 8 tot en met 10
 
 2. Onze Minister kan nadere regels stellen met betrekking tot de wijze van indiening van de aanvraag en de bij de aanvraag te verstrekken gegevens.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Onze Minister verleent de erkenning geheel of gedeeltelijk, indien de desbetreffende instelling:
 
@@ -254,13 +280,13 @@ Onze Minister is de bevoegde autoriteit, bedoeld in de artikelen 8 tot en met 10
 
 2. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot het gestelde in het eerste lid, onder c, d en f.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Op verzoek van de erkende instelling kan de erkenning worden gewijzigd.
 
 2. Op het verzoek zijn de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&paragraaf=4&artikel=11&z=2025-08-18&g=2025-08-18) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&paragraaf=4&artikel=12&z=2025-08-18&g=2025-08-18) van overeenkomstige toepassing.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Een instelling verstrekt geen certificaten als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&paragraaf=2&artikel=6&z=2025-08-18&g=2025-08-18) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&paragraaf=3&artikel=9&z=2025-08-18&g=2025-08-18) aan natuurlijke personen of ondernemingen zonder daartoe verleende erkenning.
 
@@ -272,7 +298,7 @@ Onze Minister is de bevoegde autoriteit, bedoeld in de artikelen 8 tot en met 10
 
 5. Bij ministeriële regeling worden nadere regels gesteld over de verplichtingen waaraan erkende instellingen moeten voldoen. Deze regels kunnen betrekking hebben op de tarieven die de erkende instellingen voor het verstrekken van certificaten in rekening brengen.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Onze Minister kan de erkenning van een instelling schorsen, indien de instelling een bij of krachtens dit besluit gestelde verplichting niet nakomt of niet is nagekomen.
 
@@ -282,7 +308,7 @@ Onze Minister is de bevoegde autoriteit, bedoeld in de artikelen 8 tot en met 10
 
 4. Het besluit tot schorsing vermeldt de termijn gedurende welke de schorsing van kracht is. Deze termijn is ten hoogste twee jaar.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Onze Minister kan de erkenning van een instelling intrekken indien:
 
@@ -300,13 +326,13 @@ Onze Minister is de bevoegde autoriteit, bedoeld in de artikelen 8 tot en met 10
 
 #### § 5. Wederzijdse erkenning
 
-#### Artikel 17
+##### Artikel 17
 
 Met een erkenning wordt gelijkgesteld een erkenning, afgegeven door een daartoe bevoegde instantie in een andere lidstaat van de Europese Unie dan wel in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, op basis van onderzoekingen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het beschermingsniveau dat met de nationale onderzoekingen wordt nagestreefd.
 
 #### § 5. Wederzijdse erkenning
 
-#### Artikel 18
+##### Artikel 18
 
 1. In aanvulling op de [artikelen 6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&paragraaf=2&artikel=6&z=2025-08-18&g=2025-08-18), en [9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&paragraaf=3&artikel=9&z=2025-08-18&g=2025-08-18), blijft het bepaalde bij en krachtens [artikel 4, eerste tot en met het vierde lid, van het Besluit gefluoreerde broeikasgassen milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0022857&artikel=4) en [artikel 5 van het Uitvoeringsbesluit EG-verordening ozonlaagafbrekende stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0030095&artikel=5), zoals deze bepalingen luidden onmiddellijk voorafgaande aan de inwerkingtreding van dit besluit, gedurende zes maanden na inwerkingtreding van dit besluit van kracht.
 
@@ -318,19 +344,19 @@ Met een erkenning wordt gelijkgesteld een erkenning, afgegeven door een daartoe 
 
 5. Met een certificaat voor een natuurlijk persoon als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&paragraaf=2&artikel=6&z=2025-08-18&g=2025-08-18), voor de uitvoering van de taken waarbij uitsluitend ammoniak, een brandbaar koudemiddel of kooldioxide als natuurlijk koudemiddel betrokken is, wordt tot uiterlijk 12 maart 2029 gelijkgesteld een geldig vakbekwaamheidsbewijs afgegeven op grond van een examen waarvoor de eindtermen minimaal gelijkwaardig waren aan de minimumeisen zoals beschreven in de betreffende uitvoeringshandeling op grond van artikel 10, achtste lid, van de F-gassenverordening, voor zover het taken en apparatuur betreft waarvoor het vakbekwaamheidsbewijs geldt.
 
-#### Artikel 19
+##### Artikel 19
 
 Wijzigt het Besluit OM-afdoening.
 
-#### Artikel 20
+##### Artikel 20
 
 Wijzigt het Activiteitenbesluit milieubeheer.
 
-#### Artikel 21
+##### Artikel 21
 
 Wijzigt het Besluit algemene regels milieu mijnbouw.
 
-#### Artikel 22
+##### Artikel 22
 
 De volgende besluiten worden ingetrokken:
 
@@ -340,17 +366,17 @@ De volgende besluiten worden ingetrokken:
 
 - c. [Uitvoeringsbesluit EG-verordening ozonlaagafbrekende stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0030095).
 
-#### Artikel 23
+##### Artikel 23
 
 Dit besluit treedt in werking met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-#### Artikel 24
+##### Artikel 24
 
 Dit besluit wordt aangehaald als: Besluit gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 17a
+##### Artikel 17a
 
 1. Het is marktdeelnemers verboden ten aanzien van producten die vallen onder de F-gassenverordening en de Verordening ozonlaagafbrekende stoffen te handelen in strijd met artikel 7, eerste lid, van [verordening (EU) nr. 2019/1020](32019R1020).
 
@@ -360,13 +386,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 2a
+##### Artikel 2a
 
 Voor de toepassing van dit besluit wordt een eigenaar aangewezen als zijnde eveneens verantwoordelijk voor de verplichtingen van een exploitant indien hij de feitelijke macht over het technisch functioneren van de onder de F-gassenverordening vallende producten, apparatuur of inrichtingen contractueel heeft overgedragen aan een dienstverlener.
 
 #### § 2. Gefluoreerde broeikasgassen
 
-#### Artikel 6a
+##### Artikel 6a
 
 Dit onderdeel is nog niet inwerking getreden
 

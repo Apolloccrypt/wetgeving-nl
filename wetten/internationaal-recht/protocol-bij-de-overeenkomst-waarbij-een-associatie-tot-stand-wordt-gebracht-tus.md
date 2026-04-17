@@ -1,13 +1,24 @@
 ---
 title: "Protocol bij de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Unie en haar lidstaten, enerzijds, en Midden-Amerika, anderzijds, om rekening te houden met de toetreding van Kroatië tot de Europese Unie"
 identifier: "BWBV0006903"
-categorie: "Internationaal recht"
-publicatiedatum: 2020-11-26
-laatste_update: 2020-11-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006903"
+country: "nl"
+rank: "verdrag"
+publication_date: "2020-11-26"
+last_updated: "2020-11-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006903"
+soort: "verdrag"
+stam_id: "10005583113"
+version_id: "10006110722"
+internal_id: "C10009806821"
+label_id: "10005565084"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006903/2020-11-26/0"
+intitule_status: "nogniet"
+jci_1_3: "jci1.3:c:BWBV0006903&z=2020-11-26&g=2020-11-26"
+jci_1_0: "1.0:c:BWBV0006903&g=2020-11-26"
+citeertitel_status: "redactioneel"
 ---
-
 # Protocol bij de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Unie en haar lidstaten, enerzijds, en Midden-Amerika, anderzijds, om rekening te houden met de toetreding van Kroatië tot de Europese Unie
 
 het Koninkrijk België,
@@ -102,27 +113,27 @@ Zijn het volgende overeengekomen:
 
 ### SECTIE I. DE PARTIJEN
 
-#### Artikel 1
+##### Artikel 1
 
 Kroatië wordt partij bij de overeenkomst en wordt toegevoegd aan de lijst van partijen bij [de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005882).
 
 ### SECTIE II. AFSCHAFFING VAN DOUANERECHTEN SPECIALE BEHANDELING VAN BANANEN
 
-#### Artikel 2
+##### Artikel 2
 
 Wijzigt de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Unie en haar lidstaten, enerzijds, en Midden-Amerika, anderzijds; Tegucigalpa, 29 juni 2012.
 
 ### SECTIE III. BETREFFENDE DE DEFINITIE VAN HET BEGRIP „PRODUCTEN VAN OORSPRONG” EN REGELINGEN VOOR ADMINISTRATIEVE SAMENWERKING
 
-#### Artikel 3
+##### Artikel 3
 
 Wijzigt de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Unie en haar lidstaten, enerzijds, en Midden-Amerika, anderzijds; Tegucigalpa, 29 juni 2012.
 
-#### Artikel 4
+##### Artikel 4
 
 Wijzigt de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Unie en haar lidstaten, enerzijds, en Midden-Amerika, anderzijds; Tegucigalpa, 29 juni 2012.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Dit protocol kan worden toegepast op producten van oorsprong van Midden-Amerika of van Kroatië, wanneer die producten voldoen aan bijlage II (Betreffende de definitie van het begrip „producten van oorsprong” en methoden van administratieve samenwerking) bij de overeenkomst, en op de datum van inwerkingtreding van dit protocol hetzij in doorvoer zijn, hetzij in tijdelijke opslag zijn in een douane-entrepot of in een vrije zone.
 
@@ -130,37 +141,37 @@ Wijzigt de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen d
 
 ### SECTIE IV. VESTIGING, HANDEL IN DIENSTEN EN ELEKTRONISCHE HANDEL
 
-#### Artikel 6
+##### Artikel 6
 
 Wijzigt de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Unie en haar lidstaten, enerzijds, en Midden-Amerika, anderzijds; Tegucigalpa, 29 juni 2012.
 
-#### Artikel 7
+##### Artikel 7
 
 Wijzigt de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Unie en haar lidstaten, enerzijds, en Midden-Amerika, anderzijds; Tegucigalpa, 29 juni 2012.
 
-#### Artikel 8
+##### Artikel 8
 
 Wijzigt de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Unie en haar lidstaten, enerzijds, en Midden-Amerika, anderzijds; Tegucigalpa, 29 juni 2012.
 
-#### Artikel 9
+##### Artikel 9
 
 Wijzigt de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Unie en haar lidstaten, enerzijds, en Midden-Amerika, anderzijds; Tegucigalpa, 29 juni 2012.
 
 ### SECTIE V. OVERHEIDSOPDRACHTEN
 
-#### Artikel 10
+##### Artikel 10
 
 Wijzigt de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Unie en haar lidstaten, enerzijds, en Midden-Amerika, anderzijds; Tegucigalpa, 29 juni 2012.
 
 ### SECTIE VI. WTO
 
-#### Artikel 11
+##### Artikel 11
 
 De republieken van de MA-partij verbinden zich ertoe in verband met de toetreding van Kroatië tot de Europese Unie geen claims of verzoeken in te dienen of beroep in te stellen, noch enige concessie op grond van [artikel XXIV, lid 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=XXIV), en [artikel XXVIII van de GATT 1994](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=XXVIII) of [artikel XXI van de GATS](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=XXI) te wijzigen of in te trekken.
 
 ### SECTIE VII. ALGEMENE EN SLOTBEPALINGEN
 
-#### Artikel 12
+##### Artikel 12
 
 1. Dit protocol wordt door de partijen volgens hun eigen interne wettelijke procedures goedgekeurd.
 
@@ -174,17 +185,17 @@ De republieken van de MA-partij verbinden zich ertoe in verband met de toetredin
 
 6. Indien een bepaling uit dit protocol overeenkomstig lid 3 door de partijen in afwachting van de inwerkingtreding van dit protocol wordt toegepast, wordt elke verwijzing in die bepaling naar de inwerkingtreding van dit protocol beschouwd als verwijzing naar de datum met ingang waarvan de partijen overeenkomen die bepaling overeenkomstig lid 3 toe te passen.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Dit protocol wordt opgesteld in tweevoud, in de volgende talen: Bulgaars, Kroatisch, Tsjechisch, Deens, Nederlands, Engels, Ests, Fins, Frans, Duits, Grieks, Hongaars, Italiaans, Lets, Litouws, Maltees, Pools, Portugees, Roemeens, Slowaaks, Sloveens, Spaans en Zweeds, zijnde alle teksten gelijkelijk authentiek.
 
 2. De EU-partij communiceert aan de republieken van de MA-partij de Kroatische taalversie van de overeenkomst. Onder voorbehoud van de inwerkingtreding van dit protocol wordt de Kroatische taalversie authentiek onder dezelfde voorwaarden als de versies die zijn opgesteld in de andere talen van dit protocol. [Artikel 363 van de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005882&artikel=363) wordt dienovereenkomstig gewijzigd.
 
-#### Artikel 14
+##### Artikel 14
 
 Dit protocol maakt integrerend deel uit van de [overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005882). De bijlagen bij dit protocol vormen een integrerend deel ervan.
 
-#### Artikel 15
+##### Artikel 15
 
 Dit protocol staat geen unilaterale voorbehouden of interpretatieve verklaringen toe.
 

@@ -1,20 +1,45 @@
 ---
-title: "Instellingsbesluit Programmaraad nationaal vervolgprogramma klimaatonderzoek"
+title: "Besluit van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 13 januari 2003, nr. KvI2002106469, tot instelling van een programmaraad voor het nationaal vervolgprogramma klimaatonderzoek (Instellingsbesluit Programmaraad NVKO)"
 identifier: "BWBR0014591"
-categorie: "Milieu"
-publicatiedatum: 2003-01-29
-laatste_update: 2003-01-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0014591"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2003-01-29"
+last_updated: "2003-01-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0014591"
+soort: "ministeriele-regeling"
+stam_id: "5484863"
+version_id: "9872072"
+internal_id: "C13343281"
+label_id: "5459134"
+dtd_version: "2.0"
+original_entry_into_force: "2003-01-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0014591/2003-01-29/0"
+intitule_bron: "Stcrt.2003-18"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-01-13"
+intitule_published: "2003-01-27"
+intitule_in_force: "2003-01-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2003-18"
+original_signed_date: "2003-01-13"
+original_published_date: "2003-01-27"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2003-01-29"
+jci_1_3: "jci1.3:c:BWBR0014591&z=2003-01-29&g=2003-01-29"
+jci_1_0: "1.0:c:BWBR0014591&g=2003-01-29"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Programmaraad nationaal vervolgprogramma klimaatonderzoek"
+signed_date: "2003-01-13"
+entry_into_force: "2003-01-29"
 ---
-
 # Besluit van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 13 januari 2003, nr. KvI2002106469, tot instelling van een programmaraad voor het nationaal vervolgprogramma klimaatonderzoek (Instellingsbesluit Programmaraad NVKO)
 
 Gezien de brief aan de Tweede Kamer der Staten-Generaal van 3 juli 2002, kenmerk: KVI2002047962, en de Uitvoeringsnota Klimaatbeleid deel 2 (Kamerstukken II, 2000/2001, 26 603, nr 28, VROM 17523/183);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -24,7 +49,7 @@ In dit besluit wordt verstaan onder:
 
 - c. **staatssecretaris:** de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een Programmaraad voor het Nationaal Vervolgprogramma Klimaat Onderzoek.
 
@@ -34,7 +59,7 @@ In dit besluit wordt verstaan onder:
 
 4. Tot de taak van de Programmaraad NVKO behoort eveneens de kwaliteitsborging op programmaniveau, welke gestalte krijgt door een evaluatie halverwege en aan het einde van het programma onder verantwoordelijkheid en op initiatief van de Programmaraad NVKO. De resultaten van deze evaluaties worden gerapporteerd aan de staatssecretaris.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De Programmaraad NVKO bestaat uit de volgende leden:
 
@@ -86,7 +111,7 @@ In dit besluit wordt verstaan onder:
 
 2. De Programmaraad NVKO kan besluiten om ten hoogste twee personen aan de Programmaraad NVKO als lid toe te voegen, welke personen andere maatschappelijke organisaties vertegenwoordigen dan die, genoemd in het eerste lid.
 
-#### Artikel 4
+##### Artikel 4
 
 De Programmaraad NVKO laat zich bijstaan door het Focal Point Climate Change, dat in opdracht van de staatssecretaris verantwoordelijk is voor de volgende taken:
 
@@ -100,17 +125,17 @@ De Programmaraad NVKO laat zich bijstaan door het Focal Point Climate Change, da
 
 - e. het zorgdragen voor de kwaliteitsborging van het programma.
 
-#### Artikel 5
+##### Artikel 5
 
 De Programmaraad NVKO is bevoegd, met inachtneming van dit besluit, nadere regels te stellen met betrekking tot zijn werkwijze.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst.
 
 2. Afschrift van dit besluit wordt gezonden aan de voorzitters en leden van de Programmaraad NVKO en aan de directie van in de die raad vertegenwoordigde organisaties, instituten en universiteiten, alsmede aan de ambtelijke leiding van de diensten van participerende ministeries.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit kan worden aangehaald als: Instellingbesluit Progammaraad nationaal vervolgprogramma klimaatonderzoek.
 

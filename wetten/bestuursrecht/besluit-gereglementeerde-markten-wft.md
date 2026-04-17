@@ -1,13 +1,39 @@
 ---
-title: "Besluit gereglementeerde markten Wft"
+title: "Besluit van 30 oktober 2007, houdende regels ter uitvoering van de Wet op het financieel toezicht met betrekking tot de toegang tot de Nederlandse financiële markten voor marktexploitanten en voor het exploiteren of beheren van een gereglementeerde markt en wijziging van enkele andere besluiten ter implementatie van de richtlijn markten voor financiële instrumenten (Besluit gereglementeerde markten Wft)"
 identifier: "BWBR0022748"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-01-17
-laatste_update: 2025-01-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0022748"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-01-17"
+last_updated: "2025-01-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0022748"
+soort: "AMvB"
+stam_id: "9259683"
+version_id: "24757682"
+internal_id: "C35422781"
+label_id: "9238394"
+dtd_version: "2.0"
+original_entry_into_force: "2017-12-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0022748/2025-01-17/0"
+intitule_bron: "Stb.2007-407"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-10-30"
+intitule_published: "2007-10-31"
+intitule_in_force: "2007-10-31"
+intitule_status: "goed"
+original_publication: "Stb.2017-513"
+original_signed_date: "2017-12-20"
+original_published_date: "2017-12-28"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2017-513"
+entry_into_force_date: "2017-12-20"
+jci_1_3: "jci1.3:c:BWBR0022748&z=2025-01-17&g=2025-01-17"
+jci_1_0: "1.0:c:BWBR0022748&g=2025-01-17"
+citeertitel_status: "officieel"
+short_title: "Besluit gereglementeerde markten Wft"
+signed_date: "2017-12-20"
+entry_into_force: "2017-12-20"
 ---
-
 # Besluit van 30 oktober 2007, houdende regels ter uitvoering van de Wet op het financieel toezicht met betrekking tot de toegang tot de Nederlandse financiële markten voor marktexploitanten en voor het exploiteren of beheren van een gereglementeerde markt en wijziging van enkele andere besluiten ter implementatie van de richtlijn markten voor financiële instrumenten (Besluit gereglementeerde markten Wft)
 
 Op de voordracht van Onze Minister van Financiën van 5 oktober 2007, nr. FM 2007-2455 M;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Inleidende bepaling
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder wet: [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368).
 
@@ -30,7 +56,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder wet: [Wet
 
 #### Bepalingen ter uitvoering van [artikel 5:27, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:27)
 
-#### Artikel 2
+##### Artikel 2
 
 De gegevens, bedoeld in [artikel 5:27, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:27) zijn:
 
@@ -66,7 +92,7 @@ De gegevens, bedoeld in [artikel 5:27, tweede lid, van de wet](https://wetten.ov
 
 - 3°. bescheiden waaruit de financiële positie en de juridische groepsstructuur van de houder van een gekwalificeerde deelneming in de aanvrager blijken.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De gegevens, bedoeld in [artikel 2, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0022748&paragraaf=2&artikel=2&z=2025-01-17&g=2025-01-17), zijn:
 
@@ -84,59 +110,59 @@ De gegevens, bedoeld in [artikel 5:27, tweede lid, van de wet](https://wetten.ov
 
 #### Bepaling ter uitvoering van [artikel 5:27, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:27)
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
 #### § 3. Wijzigingen andere besluiten
 
-#### Artikel 5
+##### Artikel 5
 
 Wijzigt het Besluit Markttoegang financiële ondernemingen Wft.
 
-#### Artikel 6
+##### Artikel 6
 
 Wijzigt het Besluit prudentiële regels Wft.
 
-#### Artikel 7
+##### Artikel 7
 
 Wijzigt het Besluit Gedragstoezicht financiële ondernemingen Wft.
 
-#### Artikel 8
+##### Artikel 8
 
 Wijzigt het Besluit bijzondere prudentiële maatregelen, beleggerscompensatie en depositogarantie Wft.
 
-#### Artikel 9
+##### Artikel 9
 
 Wijzigt het Besluit marktmisbruik Wft.
 
-#### Artikel 10
+##### Artikel 10
 
 Wijzigt het Besluit boetes Wft.
 
-#### Artikel 11
+##### Artikel 11
 
 Wijzigt het Besluit bekostiging financieel toezicht.
 
 #### § 4. Slotbepalingen
 
-#### Artikel 12
+##### Artikel 12
 
 De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 13
+##### Artikel 13
 
 Dit besluit wordt aangehaald als: Besluit gereglementeerde markten Wft
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 4a. Bepaling ter uitvoering van [artikel 5:29a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:29a)
+##### Artikel 4a. Bepaling ter uitvoering van [artikel 5:29a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:29a)
 
 Een marktexploitant is, mede voor de toepassing van [artikel 5:29a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:29a), significant indien hij door de Autoriteit Financiële Markten, gelet op zijn omvang, interne organisatie en aard, schaal en complexiteit van werkzaamheden als significant wordt aangemerkt.
 
 #### § 2a. Aanvullende eisen marktexploitanten
 
-#### Artikel 4b
+##### Artikel 4b
 
 De systemen, procedures en regelingen, bedoeld in [artikel 5:30a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:30a), zijn in staat om:
 
@@ -146,11 +172,11 @@ De systemen, procedures en regelingen, bedoeld in [artikel 5:30a, tweede lid, va
 
 - c. de minimale verhandelingseenheid op de gereglementeerde markt te beperken en te handhaven.
 
-#### Artikel 4c
+##### Artikel 4c
 
 De parameters, bedoeld in [artikel 5:30a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:30a), houden rekening met de liquiditeit van de verschillende categorieën activa, de aard van het marktmodel en de soorten gebruikers en zijn geschikt om aanzienlijke verstoringen van de ordelijke werking van de gereglementeerde markt te voorkomen.
 
-#### Artikel 4d
+##### Artikel 4d
 
 De overeenkomst, bedoeld in [artikel 5:30b, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:30b) bepaalt in ieder geval dat:
 
@@ -158,7 +184,7 @@ De overeenkomst, bedoeld in [artikel 5:30b, eerste lid, onderdeel a, van de wet]
 
 - b. de kortingen of andere voordelen die de gereglementeerde markt aan een beleggingsonderneming biedt om de gereglementeerde markt op regelmatige en voorspelbare basis van liquiditeit te voorzien en eventuele andere rechten van de beleggingsonderneming.
 
-#### Artikel 4e
+##### Artikel 4e
 
 1.
 

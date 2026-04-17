@@ -1,13 +1,39 @@
 ---
-title: "Specifiek interventiebeleid NVWA Nagoya protocol (IB03-SPEC06, versie 01)"
+title: "Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister van Landbouw, Natuur en Voedselkwaliteit van 12 maart 2024 tot vaststelling van het Specifiek interventiebeleid Nagoya protocol (IB03-SPEC 06, versie 01)"
 identifier: "BWBR0049485"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-04-04
-laatste_update: 2024-04-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049485"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2024-04-04"
+last_updated: "2024-04-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049485"
+soort: "beleidsregel"
+stam_id: "17055883"
+version_id: "30010752"
+internal_id: "C43020591"
+label_id: "16965394"
+dtd_version: "2.0"
+original_entry_into_force: "2024-04-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049485/2024-04-04/0"
+intitule_bron: "Stcrt.2024-8509"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-03-12"
+intitule_published: "2024-03-21"
+intitule_in_force: "2024-03-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-8509"
+original_signed_date: "2024-03-12"
+original_published_date: "2024-03-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-8509"
+entry_into_force_date: "2024-04-04"
+jci_1_3: "jci1.3:c:BWBR0049485&z=2024-04-04&g=2024-04-04"
+jci_1_0: "1.0:c:BWBR0049485&g=2024-04-04"
+citeertitel_status: "officieel"
+short_title: "Specifiek interventiebeleid NVWA Nagoya protocol (IB03-SPEC06, versie 01)"
+signed_date: "2024-03-12"
+entry_into_force: "2024-04-04"
 ---
-
 # Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister van Landbouw, Natuur en Voedselkwaliteit van 12 maart 2024 tot vaststelling van het Specifiek interventiebeleid Nagoya protocol (IB03-SPEC 06, versie 01)
 
 Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81), [artikel 4 van de Wet implementatie Nagoya Protocol](https://wetten.overheid.nl/jci1.3:c:BWBR0037150&artikel=4), [artikel 6, zevende lid, van het Besluit mandaat, volmacht en machtiging LNV 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&artikel=6) en het [Algemeen Interventiebeleid NVWA 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049215);

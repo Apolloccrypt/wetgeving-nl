@@ -1,13 +1,38 @@
 ---
 title: "Belastingen, internationale administratieve samenwerking; aanwijzing RDW als nationaal contactpunt uitwisseling voertuigregistratiegegevens EU en EVA"
 identifier: "BWBR0043911"
-categorie: "Belastingrecht"
-publicatiedatum: 2020-07-21
-laatste_update: 2020-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043911"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2020-07-21"
+last_updated: "2020-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043911"
+soort: "beleidsregel"
+stam_id: "15573063"
+version_id: "26904812"
+internal_id: "C38095731"
+label_id: "15514494"
+dtd_version: "2.0"
+original_entry_into_force: "2020-07-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043911/2020-07-21/0"
+intitule_bron: "Stcrt.2020-38257"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-07-09"
+intitule_published: "2020-07-20"
+intitule_in_force: "2020-07-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-38257"
+original_signed_date: "2020-07-09"
+original_published_date: "2020-07-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-38257"
+entry_into_force_date: "2020-07-21"
+jci_1_3: "jci1.3:c:BWBR0043911&z=2020-07-21&g=2020-07-21"
+jci_1_0: "1.0:c:BWBR0043911&g=2020-07-21"
+citeertitel_status: "redactioneel"
+signed_date: "2020-07-09"
+entry_into_force: "2020-07-21"
 ---
-
 # Belastingen, internationale administratieve samenwerking; aanwijzing RDW als nationaal contactpunt uitwisseling voertuigregistratiegegevens EU en EVA
 
 De Staatssecretaris van Financiën – Fiscaliteit en Belastingdienst heeft het volgende besloten.

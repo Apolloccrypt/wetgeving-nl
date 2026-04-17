@@ -1,13 +1,36 @@
 ---
 title: "Onderwijs deelname leerlingen/studenten met Belgische nationaliteit"
 identifier: "BWBR0014939"
-categorie: "Onderwijs"
-publicatiedatum: 2003-04-23
-laatste_update: 2003-04-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0014939"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2003-04-23"
+last_updated: "2003-04-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0014939"
+soort: "beleidsregel"
+stam_id: "6486923"
+version_id: "11166202"
+internal_id: "C15089521"
+label_id: "6475524"
+original_entry_into_force: "2003-04-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0014939/2003-04-23/0"
+intitule_bron: "Uitleg.2003-12"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-04-09"
+intitule_published: "2003-04-23"
+intitule_in_force: "2003-04-23"
+intitule_status: "goed"
+original_publication: "Uitleg.2003-12"
+original_signed_date: "2003-04-09"
+original_published_date: "2003-04-23"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2003-04-23"
+jci_1_3: "jci1.3:c:BWBR0014939&z=2003-04-23&g=2003-04-23"
+jci_1_0: "1.0:c:BWBR0014939&g=2003-04-23"
+citeertitel_status: "redactioneel"
+signed_date: "2003-04-09"
+entry_into_force: "2003-04-23"
 ---
-
 # Onderwijs deelname leerlingen/studenten met Belgische nationaliteit
 
 ### 1. Inleiding

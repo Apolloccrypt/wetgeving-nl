@@ -1,20 +1,46 @@
 ---
-title: "Instellingsbesluit Commissie sectorplan Bèta en Techniek, de Commissie sectorplan Social Sciences and Humanities en Commissie sectorplan Medische en Gezondheidswetenschappen"
+title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 10 januari 2019, nr. OWB/1456772, houdende instelling van de Commissie sectorplan Bèta en Techniek en de Commissie sectorplan Social Sciences and Humanities (Instellingsbesluit Commissie sectorplan Bèta en Techniek en de Commissie sectorplan Social Sciences and Humanities)"
 identifier: "BWBR0041941"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2026-03-07
-laatste_update: 2026-03-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041941"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-03-07"
+last_updated: "2026-03-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041941"
+soort: "ministeriele-regeling"
+stam_id: "15010163"
+version_id: "29734612"
+internal_id: "C42617001"
+label_id: "14960234"
+dtd_version: "2.0"
+original_entry_into_force: "2023-11-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041941/2026-03-07/0"
+intitule_bron: "Stcrt.2019-9819"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-01-10"
+intitule_published: "2019-02-22"
+intitule_in_force: "2019-02-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-31331"
+original_signed_date: "2023-10-13"
+original_published_date: "2023-11-16"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2023-31331"
+entry_into_force_date: "2023-11-17"
+jci_1_3: "jci1.3:c:BWBR0041941&z=2026-03-07&g=2026-03-07"
+jci_1_0: "1.0:c:BWBR0041941&g=2026-03-07"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Commissie sectorplan Bèta en Techniek, de Commissie sectorplan Social Sciences and Humanities en Commissie sectorplan Medische en Gezondheidswetenschappen"
+signed_date: "2023-10-13"
+entry_into_force: "2023-11-17"
 ---
-
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 10 januari 2019, nr. OWB/1456772, houdende instelling van de Commissie sectorplan Bèta en Techniek en de Commissie sectorplan Social Sciences and Humanities (Instellingsbesluit Commissie sectorplan Bèta en Techniek en de Commissie sectorplan Social Sciences and Humanities)
 
 Gelet op [artikel 2 van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -32,7 +58,7 @@ In dit besluit wordt verstaan onder:
 
 - g. **tweedegeldstroommiddelen:** middelen die aanvankelijk via de tweede geldstroom zouden zijn uitgekeerd, maar die per 2020 worden overgeheveld naar de eerste geldstroom en direct aan de universiteiten worden uitgekeerd, hierbij uitgezonderd de SSH call Digitale SSH die in 2019 reeds van start is gegaan. Zie ook verwijzing in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&artikel=2&z=2022-11-18&g=2023-06-01), [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&artikel=3&z=2022-11-18&g=2023-06-01), [artikel 4c en 4d](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&artikel=4&z=2022-11-18&g=2023-06-01) en de toelichting. Ook wel genoemd tweede geldstroom competitie of tweede geldstroom calls. Daar waar wordt gesproken van aansluiting van de tweedegeldstroommiddelen op de eerste geldstroommiddelen moet worden uitgegaan van de doelen die bereikt dienen te worden met de tweedegeldstroommiddelen.
 
-#### Artikel 2. Commissie sectorplan Bèta en Techniek
+##### Artikel 2. Commissie sectorplan Bèta en Techniek
 
 1. Er is een Commissie sectorplan Bèta en Techniek.
 
@@ -40,19 +66,19 @@ In dit besluit wordt verstaan onder:
 
 3. De Commissie sectorplan Bèta en Techniek heeft taken voor het sectorplan 2018–2024 en voor het sectorplan 2022–2028, zoals omschreven in respectievelijk [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&hoofdstuk=2&z=2026-03-07&g=2026-03-07) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&hoofdstuk=3&z=2026-03-07&g=2026-03-07).
 
-#### Artikel 3. Commissie sectorplan SSH
+##### Artikel 3. Commissie sectorplan SSH
 
 1. Er is een Commissie sectorplan Social Sciences and Humanities, aangeduid als Commissie sectorplan SSH.
 
 2. De Commissie sectorplan SSH heeft taken voor het sectorplan 2018–2024 en voor het sectorplan 2022–2028, zoals omschreven in respectievelijk [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&hoofdstuk=2&z=2026-03-07&g=2026-03-07) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&hoofdstuk=3&z=2026-03-07&g=2026-03-07).
 
-#### Artikel 4. Commissie sectorplan MGW
+##### Artikel 4. Commissie sectorplan MGW
 
 1. Er is een Commissie sectorplan Medische en Gezondheidswetenschappen, aangeduid als de Commissie sectorplan MGW.
 
 2. De Commissie sectorplan MGW heeft taken voor het sectorplan 2022–2028, zoals omschreven in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&hoofdstuk=3&z=2026-03-07&g=2026-03-07).
 
-#### Artikel 5. Hoofdlijnen taken Commissie sectorplan Bèta en Techniek 2018–2024
+##### Artikel 5. Hoofdlijnen taken Commissie sectorplan Bèta en Techniek 2018–2024
 
 De Commissie sectorplan Bèta en Techniek heeft voor de periode van 2018–2024 op hoofdlijnen tot taak:
 
@@ -62,7 +88,7 @@ De Commissie sectorplan Bèta en Techniek heeft voor de periode van 2018–2024 
 
 - c. bij beide adviezen te betrekken de mate van aansluiting van de tweede geldstroom competitie op de met de eerste geldstroom gefinancierde activiteiten.
 
-#### Artikel 6. Hoofdlijnen taken Commissie sectorplan SSH 2018–2024
+##### Artikel 6. Hoofdlijnen taken Commissie sectorplan SSH 2018–2024
 
 De Commissie sectorplan SSH heeft voor de periode van 2018–2024 op hoofdlijnen tot taak:
 
@@ -72,7 +98,7 @@ De Commissie sectorplan SSH heeft voor de periode van 2018–2024 op hoofdlijnen
 
 - c. bij beide adviezen te betrekken de mate van aansluiting van de tweede geldstroom competitie op de met de eerste geldstroom gefinancierde activiteiten.
 
-#### Artikel 7. Nadere uitwerking van taken sectorplannen 2018–2024
+##### Artikel 7. Nadere uitwerking van taken sectorplannen 2018–2024
 
 De Commissie sectorplan Bèta en Techniek en Commissie sectorplan SSH hebben voor de periode van 2018–2024 voorts tot taak:
 
@@ -90,15 +116,15 @@ De Commissie sectorplan Bèta en Techniek en Commissie sectorplan SSH hebben voo
 
 - iii. in het advies te betrekken op welke wijze de eerste geldstroom middelen worden ingezet voor de betreffende sectoren.
 
-#### Artikel 8. Beoordeling van en advisering over de concept sectorbeelden
+##### Artikel 8. Beoordeling van en advisering over de concept sectorbeelden
 
 In de concept sectorbeelden wordt aangegeven hoe het huidige universitaire landschap en hoe het gewenste universitaire landschap eruit ziet. In de omschrijving van het gewenste universitaire landschap staat omschreven hoe dit sectorbeeld zal zorgen voor een versterking van de kennisbasis van wetenschappelijk onderzoek in Nederland en een versterking van de aansluiting tussen onderzoek en hoger onderwijs en impact in de betrokken sectoren. Zie toelichting voor gedetailleerde omschrijving van de randvoorwaarden voor de sectorbeelden.
 
-#### Artikel 9. Advies op basis van evaluaties
+##### Artikel 9. Advies op basis van evaluaties
 
 De Commissie sectorplan Bèta en Techniek en de Commissie sectorplan SSH brengen vóór 1 juni 2022 hun advies uit aan de minister op basis van de tussentijdse evaluatie en vóór 1 juni 2025 hun advies uit aan de minister op basis van de eindevaluatie.
 
-#### Artikel 10. Nadere uitwerking van taken sectorplannen 2022–2028
+##### Artikel 10. Nadere uitwerking van taken sectorplannen 2022–2028
 
 De commissies, zoals benoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&hoofdstuk=1&artikel=2&z=2026-03-07&g=2026-03-07), [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&hoofdstuk=1&artikel=3&z=2026-03-07&g=2026-03-07) en [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&hoofdstuk=1&artikel=4&z=2026-03-07&g=2026-03-07) hebben voor de periode van 2022–2028 tot taak:
 
@@ -110,11 +136,11 @@ De commissies, zoals benoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:
 
 - d. In de evaluaties te rapporteren over de voortgang van de sectorplannen, met name aan de hand van landelijke Kritische Prestatie Indicatoren (KPI’s) en de sectorplan-specifieke KPI’s en hierbij aan te sluiten bij het advies van de NCSP.
 
-#### Artikel 11. Advies op basis van evaluaties
+##### Artikel 11. Advies op basis van evaluaties
 
 De commissies brengen vóór 1 juni 2026 hun advies uit aan de minister op basis van de tussentijdse evaluatie en vóór 1 juni 2029 hun advies uit aan de minister op basis van de eindevaluatie.
 
-#### Artikel 12. Kosten van de commissies
+##### Artikel 12. Kosten van de commissies
 
 De kosten van de commissies komen, voor zover goedgekeurd, voor rekening van de minister. Onder kosten worden in ieder geval verstaan:
 
@@ -124,7 +150,7 @@ De kosten van de commissies komen, voor zover goedgekeurd, voor rekening van de 
 
 - c. de kosten voor publicatie van rapportages.
 
-#### Artikel 13. Leden Commissie sectorplan Bèta en Techniek
+##### Artikel 13. Leden Commissie sectorplan Bèta en Techniek
 
 Voor de periode vanaf 1 december 2018 worden tot lid van de Commissie sectorplan Bèta en Techniek benoemd:
 
@@ -160,7 +186,7 @@ Voor de periode vanaf 1 december 2018 worden tot lid van de Commissie sectorplan
 
 - ■. te rekenen vanaf 1 december 2021: mevrouw prof. dr. ir. I. Lopez Arteaga;
 
-#### Artikel 14. Leden Commissie sectorplan SSH
+##### Artikel 14. Leden Commissie sectorplan SSH
 
 Voor de periode vanaf 1 december 2018 worden tot lid van de Commissie sectorplan SSH benoemd:
 
@@ -204,7 +230,7 @@ Voor de periode vanaf 1 december 2018 worden tot lid van de Commissie sectorplan
 
 - •. te rekenen vanaf 1 april 2024: mevrouw prof. dr. A.C.J. Hulk.
 
-#### Artikel 15. Leden Commissie sectorplan MGW
+##### Artikel 15. Leden Commissie sectorplan MGW
 
 Voor de periode vanaf 1 juni 2023 worden tot lid van de Commissie sectorplan MGW benoemd:
 
@@ -226,13 +252,13 @@ Voor de periode vanaf 1 juni 2023 worden tot lid van de Commissie sectorplan MGW
 
 - •. te rekenen vanaf 1 maart 2025: de heer prof. dr. W.J.G. Hoogendijk.
 
-#### Artikel 16. Ondersteuning en secretariaat
+##### Artikel 16. Ondersteuning en secretariaat
 
 1. De Commissie sectorplan Bèta en Techniek en de Commissie sectorplan SSH worden ondersteund door medewerkers van NWO. De Commissie sectorplan MGW wordt ondersteund door medewerkers van ZonMw.
 
 2. Het secretariaat is voor de inhoudelijke uitvoering van zijn taak uitsluitend verantwoording schuldig aan de voorzitters van de commissies.
 
-#### Artikel 17. Instellingsduur
+##### Artikel 17. Instellingsduur
 
 De Commissie sectorplan Bèta en Techniek en de Commissie sectorplan SSH worden ingesteld met ingang van 1 december 2018 en worden opgeheven per 1 augustus 2029. De Commissie sectorplan MGW wordt ingesteld met ingang van 1 juni 2023 en wordt opgeheven per 1 augustus 2029.
 
@@ -246,17 +272,17 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in af
 
 ### Hoofdstuk 4. Algemene bepalingen sectorplannen
 
-#### Artikel 18. Werkwijze
+##### Artikel 18. Werkwijze
 
 1. De commissies stellen hun eigen werkwijze vast, waarbij rekening wordt gehouden met het voorkomen van (de schijn van) belangenverstrengeling gedurende de gehele looptijd van de commissies.
 
 2. De commissies kunnen zich door andere personen laten bijstaan voor zover dat voor de vervulling van hun taak nodig is.
 
-#### Artikel 19. Informatieplicht
+##### Artikel 19. Informatieplicht
 
 De commissies verstrekken aan de minister desgevraagd de door de minister gewenste inlichtingen. De minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van de taak van de minister redelijkerwijs nodig is.
 
-#### Artikel 20. Kosten van de commissies
+##### Artikel 20. Kosten van de commissies
 
 De kosten van de commissies komen, voor zover goedgekeurd, voor rekening van de minister. Onder kosten worden in ieder geval verstaan:
 
@@ -266,13 +292,13 @@ De kosten van de commissies komen, voor zover goedgekeurd, voor rekening van de 
 
 - c. de kosten voor publicatie van rapportages.
 
-#### Artikel 21. Vergoeding van de commissies
+##### Artikel 21. Vergoeding van de commissies
 
 1. De voorzitters en de andere leden ontvangen een vaste vergoeding per kwartaal conform [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&bijlage=1&z=2026-03-07&g=2026-03-07). De toepasselijke salarisschaal voor de voorzitters en de andere leden is schaal 18 conform de vigerende CAO Rijk.
 
 2. De commissies bieden zo spoedig mogelijk na hun instelling een begroting en een planning aan de minister aan.
 
-#### Artikel 22. Openbaarmaking
+##### Artikel 22. Openbaarmaking
 
 1. Notities, verslagen en andere producten die door of namens de commissies worden vervaardigd of vergaard, worden niet door de commissies openbaar gemaakt, maar uitsluitend aan de minister uitgebracht of overgedragen.
 
@@ -280,23 +306,23 @@ De kosten van de commissies komen, voor zover goedgekeurd, voor rekening van de 
 
 3. Na toekenning van middelen als bedoeld in de tabel van de toelichting hebben de commissies toestemming om met de betrokken kennisinstellingen te communiceren ten behoeve van de uitvoering, monitoring en auditing van de sectorplannen.
 
-#### Artikel 23. Archiefbescheiden
+##### Artikel 23. Archiefbescheiden
 
 De commissies dragen zo spoedig mogelijk na beëindiging van hun werkzaamheden of, zo de omstandigheden daartoe aanleiding geven, zoveel eerder, de bescheiden betreffende die werkzaamheden over aan het archief van de directie Organisatie en Bedrijfsvoering van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
 ### Hoofstuk 5. Slotbepalingen
 
-#### Artikel 24. Inwerkingtreding
+##### Artikel 24. Inwerkingtreding
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 december 2018.
 
 2. Dit besluit vervalt met ingang van 1 januari 2031.
 
-#### Artikel 25. Citeertitel
+##### Artikel 25. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie sectorplan Bèta en Techniek, de Commissie sectorplan Social Sciences and Humanities en Commissie sectorplan Medische en Gezondheidswetenschappen.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -314,7 +340,7 @@ In dit besluit wordt verstaan onder:
 
 - g. **tweedegeldstroommiddelen:** middelen die aanvankelijk via de tweede geldstroom zouden zijn uitgekeerd, maar die per 2020 worden overgeheveld naar de eerste geldstroom en direct aan de universiteiten worden uitgekeerd, hierbij uitgezonderd de SSH call Digitale SSH die in 2019 reeds van start is gegaan. Zie ook verwijzing in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&hoofdstuk=1&artikel=2&z=2023-11-17&g=2023-06-01 jci1.3:c:BWBR0041941&artikel=2&z=2023-11-17&g=2023-06-01), [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&hoofdstuk=1&artikel=3&z=2023-11-17&g=2023-06-01 jci1.3:c:BWBR0041941&artikel=3&z=2023-11-17&g=2023-06-01), [artikel 4c en 4d](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&hoofdstuk=1&artikel=4&z=2023-11-17&g=2023-06-01 jci1.3:c:BWBR0041941&artikel=4&z=2023-11-17&g=2023-06-01) en de toelichting. Ook wel genoemd tweede geldstroom competitie of tweede geldstroom calls. Daar waar wordt gesproken van aansluiting van de tweedegeldstroommiddelen op de eerste geldstroommiddelen moet worden uitgegaan van de doelen die bereikt dienen te worden met de tweedegeldstroommiddelen.
 
-#### Artikel 2. Commissie sectorplan Bèta en Techniek
+##### Artikel 2. Commissie sectorplan Bèta en Techniek
 
 1. Er is een Commissie sectorplan Bèta en Techniek.
 
@@ -328,7 +354,7 @@ In dit besluit wordt verstaan onder:
 
 - c. bij beide adviezen te betrekken de mate van aansluiting van de tweede geldstroom competitie op de met de eerste geldstroom gefinancierde activiteiten.
 
-#### Artikel 3. Commissie sectorplan SSH
+##### Artikel 3. Commissie sectorplan SSH
 
 1. Er is een Commissie sectorplan Social Sciences and Humanities, aangeduid als Commissie sectorplan SSH.
 
@@ -340,7 +366,7 @@ In dit besluit wordt verstaan onder:
 
 - c. bij beide adviezen te betrekken de mate van aansluiting van de tweede geldstroom competitie op de met de eerste geldstroom gefinancierde activiteiten.
 
-#### Artikel 4. Nadere uitwerking van taken
+##### Artikel 4. Nadere uitwerking van taken
 
 De commissies hebben voorts tot taak:
 
@@ -358,11 +384,11 @@ De commissies hebben voorts tot taak:
 
 - (iii). in het advies te betrekken op welke wijze de eerste geldstroom middelen worden ingezet voor de betreffende sectoren.
 
-#### Artikel 5. Beoordeling van en advisering over de concept- sectorbeelden
+##### Artikel 5. Beoordeling van en advisering over de concept- sectorbeelden
 
 In de concept sectorbeelden wordt aangegeven hoe het huidige universitaire landschap en hoe het gewenste universitaire landschap eruit ziet. In de omschrijving van het gewenste universitaire landschap staat omschreven hoe dit sectorbeeld zal zorgen voor een versterking van de kennisbasis van wetenschappelijk onderzoek in Nederland en een versterking van de aansluiting tussen onderzoek en hoger onderwijs en impact in de betrokken sectoren. Zie toelichting voor gedetailleerde omschrijving van de randvoorwaarden voor de sectorbeelden.
 
-#### Artikel 6. Leden
+##### Artikel 6. Leden
 
 1. De samenstelling van de commissies is als volgt:
 
@@ -428,31 +454,31 @@ In de concept sectorbeelden wordt aangegeven hoe het huidige universitaire lands
 
 - •. **de heer prof. mr. dr. J.A. de Bruijn.**
 
-#### Artikel 7. Ondersteuning en secretariaat
+##### Artikel 7. Ondersteuning en secretariaat
 
 1. De commissies worden ondersteund door medewerkers van NWO.
 
 2. Het secretariaat is voor de inhoudelijke uitvoering van zijn taak uitsluitend verantwoording schuldig aan de voorzitters van de commissies.
 
-#### Artikel 8. Instellingsduur
+##### Artikel 8. Instellingsduur
 
 De commissies worden ingesteld voor de duur van 7 jaren met ingang van 1 december 2018 en wordt opgeheven per 1 december 2025.
 
-#### Artikel 9. Werkwijze
+##### Artikel 9. Werkwijze
 
 1. De commissies stellen hun eigen werkwijze vast, waarbij rekening wordt gehouden met het voorkomen van (de schijn van) belangenverstrengeling gedurende de gehele looptijd van de commissies.
 
 2. De commissies kunnen zich door andere personen laten bijstaan voor zover dat voor de vervulling van hun taak nodig is.
 
-#### Artikel 10. Informatieplicht
+##### Artikel 10. Informatieplicht
 
 De commissies verstrekken aan de minister desgevraagd de door de minister gewenste inlichtingen. De minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van de taak van de minister redelijkerwijs nodig is.
 
-#### Artikel 11. Advies op basis van evaluaties
+##### Artikel 11. Advies op basis van evaluaties
 
 De commissies brengen vóór 1 juni 2022 hun advies uit aan de minister op basis van de tussentijdse evaluatie en vóór 1 juni 2025 hun advies uit aan de minister op basis van de eindevaluatie.
 
-#### Artikel 12. Kosten van de commissies
+##### Artikel 12. Kosten van de commissies
 
 De kosten van de commissies komen, voor zover goedgekeurd, voor rekening van de minister. Onder kosten worden in ieder geval verstaan:
 
@@ -462,7 +488,7 @@ De kosten van de commissies komen, voor zover goedgekeurd, voor rekening van de 
 
 - c. de kosten voor publicatie van rapportages.
 
-#### Artikel 13. Vergoeding van de commissies
+##### Artikel 13. Vergoeding van de commissies
 
 1. De voorzitters en de andere leden ontvangen een vaste vergoeding per maand. De toepasselijke salarisschaal voor de voorzitters en de andere leden is schaal 18 conform de vigerende cao Rijk.
 
@@ -474,23 +500,23 @@ De kosten van de commissies komen, voor zover goedgekeurd, voor rekening van de 
 
 5. De commissies bieden zo spoedig mogelijk na hun instelling een begroting en een planning aan de minister aan.
 
-#### Artikel 14. Openbaarmaking
+##### Artikel 14. Openbaarmaking
 
 1. Rapporten, notities, verslagen, adviezen en andere producten die door of namens de commissies worden vervaardigd of vergaard, worden niet door de commissies openbaar gemaakt, maar uitsluitend aan de minister uitgebracht of overgedragen.
 
 2. Na toekenning van middelen als bedoeld in de tabel van de toelichting hebben de commissies toestemming om met de betrokken kennisinstellingen te communiceren ten behoeve van de uitvoering, monitoring en auditing van de sectorplannen.
 
-#### Artikel 15. Archiefbescheiden
+##### Artikel 15. Archiefbescheiden
 
 De commissies dragen zo spoedig mogelijk na beëindiging van hun werkzaamheden of, zo de omstandigheden daartoe aanleiding geven, zoveel eerder, de bescheiden betreffende die werkzaamheden over aan het archief van de directie Organisatie en Bedrijfsvoering van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
-#### Artikel 16. Inwerkingtreding
+##### Artikel 16. Inwerkingtreding
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 december 2018.
 
 2. Dit besluit vervalt met ingang van 1 juli 2026.
 
-#### Artikel 17. Citeertitel
+##### Artikel 17. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie sectorplan Bèta en Techniek en de Commissie sectorplan Social Sciences and Humanities.
 

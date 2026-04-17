@@ -1,13 +1,37 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Mexicaanse Staten inzake de bevordering, de aanmoediging en de wederzijdse bescherming van investeringen"
 identifier: "BWBV0001371"
-categorie: "Internationaal recht"
-publicatiedatum: 1999-10-01
-laatste_update: 1999-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001371"
+country: "nl"
+rank: "verdrag"
+publication_date: "1999-10-01"
+last_updated: "1999-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001371"
+soort: "verdrag"
+stam_id: "10000332183"
+version_id: "10000340432"
+internal_id: "C10006989581"
+label_id: "10000332604"
+original_entry_into_force: "1999-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001371/1999-10-01/0"
+intitule_bron: "Trb.1998-183"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-02-16"
+intitule_published: "1998-07-22"
+intitule_in_force: "1999-10-05"
+intitule_status: "goed"
+original_publication: "Trb.1998-183"
+original_signed_date: "1999-02-16"
+original_published_date: "1998-07-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1998-183"
+entry_into_force_date: "1999-10-01"
+jci_1_3: "jci1.3:c:BWBV0001371&z=1999-10-01&g=1999-10-01"
+jci_1_0: "1.0:c:BWBV0001371&g=1999-10-01"
+citeertitel_status: "officieel"
+signed_date: "1999-02-16"
+entry_into_force: "1999-10-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Mexicaanse Staten inzake de bevordering, de aanmoediging en de wederzijdse bescherming van investeringen
 
 Het Koninkrijk der Nederlanden
@@ -24,7 +48,7 @@ In het besef dat overeenstemming omtrent de aan dergelijke investeringen toe te 
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag:
 
@@ -58,7 +82,7 @@ Voor de toepassing van dit Verdrag:
 
 4. Omvat de term „grondgebied” mede alle aan de territoriale zee grenzende gebieden die, krachtens het recht van de betrokken Staat en overeenkomstig het internationale recht, tot de exclusieve economische zone of het continentaal plat van de betrokken Staat behoren, en waarin deze rechtsmacht of soevereine rechten uitoefent.
 
-#### Artikel 2. Investeringsbevordering
+##### Artikel 2. Investeringsbevordering
 
 Met het oog op een wezenlijke toename van bilaterale investeringsstromen,
 
@@ -72,7 +96,7 @@ Met het oog op een wezenlijke toename van bilaterale investeringsstromen,
 
 - c. statistieken van buitenlandse investeringen, op hun respectieve grondgebieden.
 
-#### Artikel 3. Behandeling
+##### Artikel 3. Behandeling
 
 1. Elke Verdragsluitende Partij waarborgt een eerlijke en rechtvaardige behandeling van de investeringen van onderdanen van de andere Verdragsluitende Partij en belemmert niet, door ongerechtvaardigde of discriminatoire maatregelen, de werking, het beheer, de instandhouding, het gebruik, het genot of de vervreemding daarvan door deze onderdanen. Elke Verdragsluitende Partij kent aan die investeringen volledige zekerheid en bescherming toe.
 
@@ -92,7 +116,7 @@ Met het oog op een wezenlijke toename van bilaterale investeringsstromen,
 
 5. Indien naast dit Verdrag de wettelijke bepalingen van één van beide Verdragsluitende Partijen of verplichtingen krachtens internationaal recht die thans tussen de Verdragsluitende Partijen bestaan of op een later tijdstip onderling worden aangegaan, een algemene of bijzondere regeling bevatten op grond waarvan investeringen door onderdanen van de andere Verdragsluitende Partij aanspraak kunnen maken op een behandeling die gunstiger is dan in dit Verdrag is voorzien, heeft een dergelijke regeling, in zoverre zij gunstiger is, voorrang boven dit Verdrag.
 
-#### Artikel 4. Overmakingen
+##### Artikel 4. Overmakingen
 
 1. De Verdragsluitende Partijen waarborgen het recht dat betalingen die verband houden met een investering kunnen worden overgemaakt. De overmakingen geschieden in vrij inwisselbare valuta, zonder beperking of vertraging. Deze overmakingen omvatten in het bijzonder, doch niet uitsluitend:
 
@@ -126,7 +150,7 @@ Met het oog op een wezenlijke toename van bilaterale investeringsstromen,
 
 Dergelijke maatregelen en de toepassing daarvan mogen echter niet worden aangewend als een middel om zich te onttrekken aan de verbintenissen of verplichtingen van de Verdragsluitende Partij uit hoofde van het Verdrag.
 
-#### Artikel 5. Onteigening en schadeloosstelling
+##### Artikel 5. Onteigening en schadeloosstelling
 
 1. Geen der Verdragsluitende Partijen neemt maatregelen waardoor direct of indirect aan onderdanen van de andere Verdragsluitende Partij hun investeringen worden ontnomen, tenzij:
 
@@ -142,27 +166,27 @@ Dergelijke maatregelen en de toepassing daarvan mogen echter niet worden aangewe
 
 4. Het op de datum van betaling betaalde bedrag dient niet lager te zijn dan wanneer het bedrag van de verschuldigde schadeloosstelling op de datum van de onteigening zou zijn geconverteerd in een converteerbare valuta op de internationale financiële markt, en deze valuta tegen de op de dag van de waardering geldende marktwisselkoers zou zijn geconverteerd, vermeerderd met de rente die tegen een gewone commerciële rentevoet voor die valuta zou zijn gekweekt vanaf de datum van onteigening tot de datum van betaling.
 
-#### Artikel 6. Schadeloosstelling voor verliezen
+##### Artikel 6. Schadeloosstelling voor verliezen
 
 Aan onderdanen van de ene Verdragsluitende Partij die verliezen lijden met betrekking tot hun investeringen op het grondgebied van de andere Verdragsluitende Partij wegens overmacht, oorlog of een ander gewapend conflict, revolutie, een nationale noodtoestand, opstand, oproer of ongeregeldheden, wordt de laatstbedoelde Verdragsluitende Partij wat restitutie, schadevergoeding, schadeloosstelling of een andere regeling betreft, geen minder gunstige behandeling toegekend dan die welke die Verdragsluitende Partij toekent aan haar eigen onderdanen of aan onderdanen van een derde Staat, naar gelang van wat het gunstigst is voor de betrokken onderdanen.
 
-#### Artikel 7. Subrogatie
+##### Artikel 7. Subrogatie
 
 Indien de investeringen van een onderdaan van de ene Verdragsluitende Partij door een verzekeringsmaatschappij, geheel in particulier eigendom of onder particulier toezicht, (hierna te noemen „verzekeringsmaatschappij”) verzekerd zijn tegen niet-commerciële risico's of anderszins aanleiding geven tot de betaling van schadevergoeding ter zake van die investeringen krachtens een bij wet, voorschrift of overheidscontract ingesteld stelsel, wordt de subrogatie van de verzekeringsmaatschappij in de rechten van de bedoelde onderdaan, ingevolge de voorwaarden van deze verzekering of krachtens een andere gegeven schadeloosstelling, door de andere Verdragsluitende Partij erkend. Alleen de onderdaan of de verzekeringsmaatschappij is gerechtigd deze rechten uit te oefenen en partij te zijn bij een geschil met betrekking tot deze rechten.
 
-#### Artikel 8. Beslechting van geschillen tussen een Verdragsluitende Partij en een onderdaan van de andere Verdragsluitende Partij
+##### Artikel 8. Beslechting van geschillen tussen een Verdragsluitende Partij en een onderdaan van de andere Verdragsluitende Partij
 
 Wat de beslechting van geschillen tussen een Verdragsluitende Partij en een onderdaan van de andere Verdragsluitende Partij betreft, zijn de bepalingen van de Bijlage, die een integrerend deel van dit Verdrag uitmaakt, van toepassing.
 
-#### Artikel 9. Toepassing
+##### Artikel 9. Toepassing
 
 De bepalingen van dit Verdrag zijn, vanaf de datum waarop dit in werking treedt, ook van toepassing op investeringen die vóór die datum zijn gedaan.
 
-#### Artikel 10. Overleg
+##### Artikel 10. Overleg
 
 Elk van beide Verdragsluitende Partijen kan aan de andere Partij voorstellen overleg te plegen over een aangelegenheid betreffende de uitlegging of toepassing van dit Verdrag. De andere Verdragsluitende Partij neemt dit voorstel in welwillende overweging en biedt passende gelegenheid voor een dergelijk overleg.
 
-#### Artikel 11. Beslechting van geschillen tussen de Verdragsluitende Partijen
+##### Artikel 11. Beslechting van geschillen tussen de Verdragsluitende Partijen
 
 1. Enig geschil tussen de Verdragsluitende Partijen betreffende de uitlegging of de toepassing van dit Verdrag dat niet binnen een redelijke termijn langs diplomatieke weg kan worden beslecht, wordt, tenzij de Verdragsluitende Partijen anders zijn overeengekomen, op verzoek van één van beide Verdragsluitende Partijen voorgelegd aan een uit drie leden samengesteld scheidsgerecht. Elke Verdragsluitende Partij benoemt één scheidsman en de twee aldus benoemde scheidslieden benoemen te zamen een derde scheidsman, die geen onderdaan van een der Verdragsluitende Partijen is, tot hun voorzitter.
 
@@ -178,11 +202,11 @@ Elk van beide Verdragsluitende Partijen kan aan de andere Partij voorstellen ove
 
 7. Het scheidsgerecht neemt zijn beslissing bij meerderheid van stemmen. Deze beslissing is onherroepelijk en bindend voor de Verdragsluitende Partijen.
 
-#### Artikel 12. Territoriale toepassing
+##### Artikel 12. Territoriale toepassing
 
 Wat betreft het Koninkrijk der Nederlanden is dit Verdrag van toepassing op het deel van het Rijk in Europa, de Nederlandse Antillen en Aruba, tenzij anders is bepaald in de in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001371&artikel=13&z=1999-10-01&g=1999-10-01), bedoelde mededeling.
 
-#### Artikel 13. Inwerkingtreding en beëindiging
+##### Artikel 13. Inwerkingtreding en beëindiging
 
 1. Dit Verdrag treedt in werking op de eerste dag van de tweede maand die volgt op de datum waarop de Verdragsluitende Partijen elkaar schriftelijk hebben medegedeeld dat aan hun grondwettelijk vereiste procedures is voldaan, en blijft van kracht gedurende een tijdvak van tien jaar.
 
@@ -194,37 +218,37 @@ Wat betreft het Koninkrijk der Nederlanden is dit Verdrag van toepassing op het 
 
 Bij de ondertekening van het Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Mexicaanse Staten inzake de bevordering, aanmoediging en de wederzijdse bescherming van investeringen hebben de ondergetekende gevolmachtigden bovendien overeenstemming bereikt over de volgende bepalingen, die als een integrerend deel van genoemd Verdrag worden beschouwd.
 
-#### Ad [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001371&artikel=1&z=1999-10-01&g=1999-10-01)
+##### Ad [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001371&artikel=1&z=1999-10-01&g=1999-10-01)
 
 Voor de interpretatie van dit lid en met name het onder b vermelde, wordt de standaarddefinitie van directe buitenlandse investeringen van de Organisatie voor Economische Samenwerking en Ontwikkeling (OESO), alsmede eventuele verdere ontwikkelingen in dat opzicht, geldend op de datum waarop de investering werd gedaan, hierbij bij verwijzing opgenomen.
 
-#### Ad [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001371&artikel=1&z=1999-10-01&g=1999-10-01)
+##### Ad [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001371&artikel=1&z=1999-10-01&g=1999-10-01)
 
 Het feit dat bepaalde zaken niet onder de definitie van de term „investeringen” vallen, doet geen afbreuk aan de rechten en verplichtingen die verband houden met die zaken.
 
 Voor de toepassing van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001371&artikel=5&z=1999-10-01&g=1999-10-01) moeten alle uitstaande vorderingen van de onteigende investering bij de waardering worden betrokken.
 
-#### Ad [artikel 1, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBV0001371&artikel=1&z=1999-10-01&g=1999-10-01) en [1, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBV0001371&artikel=1&z=1999-10-01&g=1999-10-01)
+##### Ad [artikel 1, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBV0001371&artikel=1&z=1999-10-01&g=1999-10-01) en [1, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBV0001371&artikel=1&z=1999-10-01&g=1999-10-01)
 
 De term „toezicht” omvat niet toezicht via rechtspersonen die zijn opgericht in derde landen, maar uitsluitend toezicht via rechtspersonen die zijn opgericht op het grondgebied van een van de Verdragsluitende Partijen.
 
-#### Ad [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001371&artikel=3&z=1999-10-01&g=1999-10-01)
+##### Ad [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001371&artikel=3&z=1999-10-01&g=1999-10-01)
 
 Niettegenstaande het beginsel van nationale behandeling kan een Verdragsluitende Partij van een onderneming op haar grondgebied die het eigendom is van of onder toezicht staat van een onderdaan van de andere Verdragsluitende Partij eisen routine-informatie voor statistische doeleinden met betrekking tot de investering te verschaffen. De Verdragsluitende Partij die deze informatie eist, beschermt vertrouwelijke zakelijke informatie tegen elke openbaarmaking die de concurrentiepositie van de investering zou aantasten.
 
-#### Ad [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001371&artikel=4&z=1999-10-01&g=1999-10-01)
+##### Ad [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001371&artikel=4&z=1999-10-01&g=1999-10-01)
 
 In geval van ernstige problemen met de betalingsbalans of de dreiging daarvan kunnen de Verenigde Mexicaanse Staten de vrije overmaking van kapitaal uitsluitend ingevolge [artikel 4, eerste lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBV0001371&artikel=4&z=1999-10-01&g=1999-10-01), tijdelijk beperken gedurende een periode van maximaal twaalf maanden. De grondslag voor het opleggen van deze beperkingen dient billijk, non-discriminatoir en te goeder trouw te zijn.
 
-#### Ad [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001371&artikel=4&z=1999-10-01&g=1999-10-01)
+##### Ad [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001371&artikel=4&z=1999-10-01&g=1999-10-01)
 
 Voor de interpretatie van de laatste zin van dit lid wordt overeengekomen dat een Verdragsluitende Partij krachtens die zin noch maatregelen op een onredelijke wijze kan toepassen, noch een eis van verslaglegging kan aanwenden om een overmaking onnodig te vertragen.
 
-#### Ad [artikel 2, tweede lid, van de Bijlage](https://wetten.overheid.nl/jci1.3:c:BWBV0001371&artikel=twee&z=1999-10-01&g=1999-10-01)
+##### Ad [artikel 2, tweede lid, van de Bijlage](https://wetten.overheid.nl/jci1.3:c:BWBV0001371&artikel=twee&z=1999-10-01&g=1999-10-01)
 
 Een vermeende schending van dit Verdrag moet causaal verband houden met verlies of schade voor de onderdaan of de onderneming, wil de onderdaan in de positie verkeren om een vordering in te stellen tegen de gaststaat. Een dreigende schade hoeft zich niet te hebben voorgedaan voordat het geschil aan arbitrage kan worden onderworpen, maar moet zich hebben voorgedaan wil het gerecht terzake een beslissing kunnen nemen, behoudens in het geval van [artikel negen, eerste lid, onder a. en d](https://wetten.overheid.nl/jci1.3:c:BWBV0001371&artikel=negen&z=1999-10-01&g=1999-10-01).
 
-#### Artikel een. Begripsomschrijvingen
+##### Artikel een. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage wordt verstaan onder:
 
@@ -252,7 +276,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 **Arbitragereglement van de UNCITRAL:** het arbitragereglement van de Commissie voor Internationaal Handelsrecht van de Verenigde Naties, op 15 december 1976 goedgekeurd door de Algemene Vergadering van de Verenigde Naties.
 
-#### Artikel twee. Beslechting van geschillen tussen een Verdragsluitende Partij en een onderdaan van de andere Verdragsluitende Partij
+##### Artikel twee. Beslechting van geschillen tussen een Verdragsluitende Partij en een onderdaan van de andere Verdragsluitende Partij
 
 1. In deze Bijlage wordt een werkwijze vastgesteld voor de beslechting van investeringsgeschillen die ontstaan vanaf de datum van inwerkingtreding van het Verdrag.
 
@@ -266,11 +290,11 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 6. Indien een onderdaan van een Verdragsluitende Partij een vordering aan arbitrage onderwerpt, is het noch de onderdaan, noch zijn onderneming toegestaan een procedure aan te spannen of voort te zetten voor een nationaal gerecht.
 
-#### Artikel drie. Schikking van een vordering door middel van overleg en onderhandelingen
+##### Artikel drie. Schikking van een vordering door middel van overleg en onderhandelingen
 
 De partijen bij het geschil dienen eerst te trachten een vordering te schikken door middel van overleg of onderhandelingen.
 
-#### Artikel vier. Onderwerpen van een vordering aan arbitrage
+##### Artikel vier. Onderwerpen van een vordering aan arbitrage
 
 1. Mits er zes maanden zijn verstreken sinds de gebeurtenissen die aanleiding geven tot een vordering hebben plaatsgevonden, mag een onderdaan bij het geschil de vordering aan arbitrage onderwerpen krachtens:
 
@@ -284,7 +308,7 @@ De partijen bij het geschil dienen eerst te trachten een vordering te schikken d
 
 3. De toepasselijke arbitrageregels zijn op de arbitrage van toepassing, behalve voor zover zij door deze Bijlage zijn gewijzigd.
 
-#### Artikel vijf. Instemming met arbitrage
+##### Artikel vijf. Instemming met arbitrage
 
 1. Elke Verdragsluitende Partij stemt ermee in dat een vordering overeenkomstig de in deze Bijlage uiteengezette procedures aan arbitrage wordt onderworpen.
 
@@ -296,7 +320,7 @@ De partijen bij het geschil dienen eerst te trachten een vordering te schikken d
 
 - c. Artikel 1 van het Arbitragereglement van de UNCITRAL: „De partijen bij een contract zijn schriftelijk overeengekomen”.
 
-#### Artikel zes. Aantal scheidsmannen en benoemingsmethode
+##### Artikel zes. Aantal scheidsmannen en benoemingsmethode
 
 1. Tenzij de partijen bij het geschil anders overeenkomen, bestaat het scheidsgerecht uit drie scheidsmannen: één scheidsman benoemd door elke partij bij het geschil en de derde, de voorzitter, benoemd door de scheidsmannen.
 
@@ -304,7 +328,7 @@ De partijen bij het geschil dienen eerst te trachten een vordering te schikken d
 
 3. Indien een krachtens deze Bijlage ingesteld scheidsgerecht niet binnen negentig dagen na de datum waarop een vordering aan arbitrage is onderworpen, is samengesteld, hetzij omdat een van de partijen bij het geschil verzuimt een scheidsman te benoemen, hetzij omdat de benoemde scheidsmannen geen overeenstemming kunnen bereiken over een voorzitter, kan elk der partijen bij het geschil de Secretaris-Generaal uitnodigen om de nog niet benoemde scheidsman of scheidsmannen naar zijn goeddunken te benoemen. Niettemin dient de Secretaris-Generaal, in geval van benoeming van de voorzitter, ervoor zorg te dragen dat genoemde voorzitter geen onderdaan is van de Verdragsluitende Partij bij het geschil, noch een onderdaan van de Verdragsluitende Partij van de onderdaan bij het geschil.
 
-#### Artikel zeven. Samenvoeging
+##### Artikel zeven. Samenvoeging
 
 1. Een krachtens dit artikel ingesteld gerecht voor samengevoegde zaken dient conform het Arbitragereglement van de UNCITRAL te worden geïnstalleerd en zijn gedingen in overeenstemming met die regels te voeren, tenzij in deze Bijlage anderszins is bepaald.
 
@@ -316,13 +340,13 @@ De partijen bij het geschil dienen eerst te trachten een vordering te schikken d
 
 3. Het gerecht voor samengevoegde zaken beslist onder welke jurisdictie de vorderingen vallen en zal de vorderingen gezamenlijk beoordelen, tenzij het vaststelt dat de belangen van een van de partijen bij het geschil daardoor worden geschaad.
 
-#### Artikel acht. Toepasselijk recht
+##### Artikel acht. Toepasselijk recht
 
 1. Een krachtens deze Bijlage ingesteld scheidsgerecht dient overeenkomstig dit Verdrag en de toepasselijke rechtsregels over de voorgelegde geschillen te beslissen.
 
 2. Een interpretatie van een bepaling in dit Verdrag die gezamenlijk door de Verdragsluitende Partijen is geformuleerd en overeengekomen, is bindend voor elk scheidsgerecht dat krachtens deze Bijlage wordt ingesteld. Indien de Verdragsluitende Partijen nalaten om binnen zestig dagen na de datum van het verzoek van een van de Verdragsluitende Partijen een interpretatie voor te leggen, beslist het scheidsgerecht over de zaak.
 
-#### Artikel negen. Definitieve uitspraak
+##### Artikel negen. Definitieve uitspraak
 
 1. Wanneer een krachtens deze Bijlage ingesteld scheidsgerecht een definitieve uitspraak doet tegen een Verdragsluitende Partij, kan het scheidsgerecht in zijn uitspraak uitsluitend een of meer van de volgende sancties opleggen:
 
@@ -344,7 +368,7 @@ De partijen bij het geschil dienen eerst te trachten een vordering te schikken d
 
 4. Een krachtens deze Bijlage ingesteld scheidsgerecht kan een Verdragsluitende Partij niet gelasten schadevergoeding als straf te betalen.
 
-#### Artikel tien. Het definitieve karakter en de tenuitvoerlegging van een uitspraak
+##### Artikel tien. Het definitieve karakter en de tenuitvoerlegging van een uitspraak
 
 1. Een uitspraak die wordt gedaan door een krachtens deze Bijlage ingesteld scheidsgerecht is uitsluitend bindend voor de partijen bij het geschil, en uitsluitend met betrekking tot de desbetreffende zaak.
 
@@ -372,11 +396,11 @@ De partijen bij het geschil dienen eerst te trachten een vordering te schikken d
 
 6. Voor de toepassing van artikel 1 van het Verdrag van New York wordt een vordering die krachtens deze Bijlage aan arbitrage wordt onderworpen, beschouwd als voortvloeiende uit handelsrechtelijke betrekkingen of transacties.
 
-#### Artikel elf. Publicatie van een uitspraak
+##### Artikel elf. Publicatie van een uitspraak
 
 De definitieve uitspraak zal alleen worden gepubliceerd indien de partijen bij het geschil daar schriftelijk mee hebben ingestemd.
 
-#### Artikel twaalf. Uitsluitingen
+##### Artikel twaalf. Uitsluitingen
 
 De bepalingen inzake de beslechting van geschillen van deze Bijlage zijn niet van toepassing op de resoluties die door een Verdragsluitende Partij om redenen van nationale veiligheid worden aangenomen.
 

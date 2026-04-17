@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst inzake de bescherming van het cultureel en natuurlijk erfgoed van de wereld"
 identifier: "BWBV0003974"
-categorie: "Milieu"
-publicatiedatum: 1992-11-26
-laatste_update: 1992-11-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003974"
+country: "nl"
+rank: "verdrag"
+publication_date: "1992-11-26"
+last_updated: "1992-11-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003974"
+soort: "verdrag"
+stam_id: "10003792763"
+version_id: "10003858852"
+internal_id: "C10006983291"
+label_id: "10003778324"
+dtd_version: "2.0"
+original_entry_into_force: "1992-11-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003974/1992-11-26/0"
+intitule_bron: "Trb.1973-155"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1973-10-31"
+intitule_in_force: "1992-10-16"
+intitule_status: "goed"
+original_publication: "Trb.1973-155"
+original_published_date: "1973-10-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1973-155"
+entry_into_force_date: "1992-11-26"
+jci_1_3: "jci1.3:c:BWBV0003974&z=1992-11-26&g=1992-11-26"
+jci_1_0: "1.0:c:BWBV0003974&g=1992-11-26"
+citeertitel_status: "redactioneel"
+entry_into_force: "1992-11-26"
 ---
-
 # Overeenkomst inzake de bescherming van het cultureel en natuurlijk erfgoed van de wereld
 
 De Algemene Vergadering van de Organisatie van de Verenigde Naties voor Onderwijs, Wetenschap en Cultuur, bijeengekomen in haar zeventiende zitting, van 17 oktober tot 21 november 1972 te Parijs gehouden,
@@ -34,7 +56,7 @@ Neemt op 16 november 1972 deze Overeenkomst aan.
 
 ### I. OMSCHRIJVING VAN HET BEGRIP CULTUREEL EN NATUURLIJK ERFGOED
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van deze Overeenkomst worden als „cultureel erfgoed” beschouwd:
 
@@ -44,7 +66,7 @@ Voor de toepassing van deze Overeenkomst worden als „cultureel erfgoed” besc
 
 - -. streken: werken van de mens of werken voortgekomen uit het samenspel van natuur en mens, benevens gebieden die archeologische vindplaatsen omvatten en die van uitzonderlijke universele waarde zijn uit historisch, esthetisch, etnologisch of antropologisch oogpunt.
 
-#### Artikel 2
+##### Artikel 2
 
 Voor de toepassing van deze Overeenkomst worden als „natuurlijk erfgoed” beschouwd:
 
@@ -54,17 +76,17 @@ Voor de toepassing van deze Overeenkomst worden als „natuurlijk erfgoed” bes
 
 - -. strikt begrensde natuurlijke streken of zones die uit een oogpunt van wetenschap, natuurbehoud of natuurlijke schoonheid van uitzonderlijke universele waarde zijn.
 
-#### Artikel 3
+##### Artikel 3
 
 Elke Staat die partij is bij deze Overeenkomst heeft het recht tot het vaststellen en omschrijven van de verschillende in de artikelen 1 en 2 bedoelde en op zijn grondgebied gelegen goederen.
 
 ### II. NATIONALE EN INTERNATIONALE BESCHERMING VAN HET CULTUREEL EN NATUURLIJK ERFGOED
 
-#### Artikel 4
+##### Artikel 4
 
 Elke Staat die partij is bij deze Overeenkomst erkent dat in eerste instantie op hem de verplichting rust de identificatie, de bescherming, het behoud, het toegankelijk maken en het overdragen aan komende generaties van het op zijn grondgebied liggende en in de artikelen 1 en 2 bedoelde cultureel en natuurlijk erfgoed te waarborgen. Hij dient zich daartoe tot het uiterste in te spannen voor zover zijn eigen hulpbronnen dat toelaten en, waar zulks ter zake dienende is, met gebruikmaking van internationale bijstand en samenwerking, welke hij zou kunnen verkrijgen, in het bijzonder op financieel, artistiek, wetenschappelijk en technisch gebied.
 
-#### Artikel 5
+##### Artikel 5
 
 Ten einde te waarborgen dat doeltreffende en daadwerkelijke maatregelen worden genomen voor de bescherming, het behoud en het toegankelijk maken van het op zijn grondgebied gelegen cultureel en natuurlijk erfgoed dient elke Staat die partij is bij deze Overeenkomst zoveel mogelijk en voor zover de situatie in het land zulks toelaat te streven naar:
 
@@ -78,7 +100,7 @@ Ten einde te waarborgen dat doeltreffende en daadwerkelijke maatregelen worden g
 
 - (e). het bevorderen van de oprichting of de ontwikkeling van nationale en regionale centra voor opleiding in de bescherming, het behoud en het toegankelijk maken van het cultureel en natuurlijk erfgoed en het aanmoedigen van het wetenschappelijk onderzoek op dit gebied.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Onder volledige eerbiediging van de soevereiniteit der Staten op wier grondgebied het in de artikelen 1 en 2 bedoelde cultureel en natuurlijk erfgoed is gelegen en onverminderd de eigendomsrechten ontleend aan de binnenlandse wetgeving, erkennen de Staten die partij zijn bij deze Overeenkomst dat een zodanig erfgoed een erfgoed is van de gehele wereld, tot welks bescherming de gehele internationale gemeenschap verplicht is samen te werken.
 
@@ -86,13 +108,13 @@ Ten einde te waarborgen dat doeltreffende en daadwerkelijke maatregelen worden g
 
 3. Elke Staat die partij is bij deze Overeenkomst neemt op zich geen enkele opzettelijke maatregel te treffen die direct of indirect schade zou kunnen toebrengen aan het in de artikelen 1 en 2 bedoelde cultureel en natuurlijk erfgoed dat gelegen is op het grondgebied van andere Staten die partij zijn bij deze Overeenkomst.
 
-#### Artikel 7
+##### Artikel 7
 
 Voor de toepassing van deze Overeenkomst wordt onder internationale bescherming van het cultureel en natuurlijk erfgoed van de wereld verstaan het instellen van een systeem voor internationale samenwerking en bijstand, gericht op het geven van steun aan Staten die partij zijn bij deze Overeenkomst in hun pogingen tot behoud en identificatie van dat erfgoed.
 
 ### III. INTERGOUVERNEMENTELE COMMISSIE VOOR DE BESCHERMING VAN HET CULTUREEL EN NATUURLIJK ERFGOED VAN DE WERELD
 
-#### Artikel 8
+##### Artikel 8
 
 1. Binnen het kader van de Organisatie van de Verenigde Naties voor Onderwijs, Wetenschap en Cultuur wordt hierbij een Intergouvernementele Commissie voor de Bescherming van het Cultureel en Natuurlijk Erfgoed van Uitzonderlijke Universele Waarde opgericht (hierna te noemen de „Commissie voor het Werelderfgoed”). Zij wordt samengesteld uit 15 Staten die partij zijn bij deze Overeenkomst gekozen door Staten die partij zijn bij deze Overeenkomst en bijeen zijn gekomen in een algemene vergadering tijdens de gewone zitting van de Algemene Vergadering van de Organisatie van de Verenigde Naties voor Onderwijs, Wetenschap en Cultuur. Het aantal Staten dat lid is van de Commissie zal tot 21 worden verhoogd met ingang van de datum van de gewone zitting van de Algemene Vergadering volgende op de inwerkingtreding van deze Overeenkomst voor ten minste 40 Staten.
 
@@ -100,7 +122,7 @@ Voor de toepassing van deze Overeenkomst wordt onder internationale bescherming 
 
 3. De vergaderingen van de Commissie kunnen worden bijgewoond, in een adviserende hoedanigheid, door een vertegenwoordiger van het Internationaal Centrum voor de Studie tot het behoud en de restauratie van culturele goederen (Centrum van Rome), een vertegenwoordiger van de Internationale Raad voor Monumenten en Landschappen (ICOMOS) en een vertegenwoordiger van de Internationale Unie voor behoud van de natuur en de natuurlijke hulpbronnen (IUCN) waaraan op verzoek van de Staten die partij zijn bij deze Overeenkomst, bijeenkomende in een algemene vergadering tijdens de gewone zittingen van de Algemene Vergadering van de Organisatie van de Verenigde Naties voor Onderwijs, Wetenschap en Cultuur, vertegenwoordigers van andere intergouvernementele of niet-gouvernementele organisaties met soortgelijke doelstellingen kunnen worden toegevoegd.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De zittingsperiode van Staten die lid zijn van de Commissie voor het Werelderfgoed loopt van het einde van de gewone zitting van de Algemene Vergadering tijdens welke zij zijn gekozen tot en met het einde van de derde daarop volgende gewone zitting.
 
@@ -108,7 +130,7 @@ Voor de toepassing van deze Overeenkomst wordt onder internationale bescherming 
 
 3. Staten die lid zijn van de Commissie wijzen als hun vertegenwoordigers personen aan die deskundig zijn op het gebied van het cultureel en natuurlijk erfgoed.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De Commissie voor het Werelderfgoed stelt haar eigen huishoudelijk reglement vast.
 
@@ -116,7 +138,7 @@ Voor de toepassing van deze Overeenkomst wordt onder internationale bescherming 
 
 3. De Commissie kan voor zover zij dit voor de uitvoering van haar taak nodig acht, raadgevende organen in het leven roepen.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Elke Staat die partij is bij deze Overeenkomst legt, voor zover zulks hem mogelijk is, aan de Commissie voor het Werelderfgoed een inventaris over van de goederen die deel uitmaken van het cultureel en natuurlijk erfgoed, gelegen op zijn grondgebied en in aanmerking komend voor plaatsing op de in het tweede lid van dit artikel bedoelde lijst. Deze inventaris, die niet als uitputtend wordt beschouwd, dient documentatie te omvatten omtrent de ligging en de betekenis van het desbetreffende goed.
 
@@ -132,11 +154,11 @@ Voor de toepassing van deze Overeenkomst wordt onder internationale bescherming 
 
 7. Met instemming van de betrokken Staten coördineert en bevordert de Commissie de studies en het onderzoek die nodig zijn voor de opstelling van de in het eerste en tweede lid van dit artikel bedoelde lijsten.
 
-#### Artikel 12
+##### Artikel 12
 
 De omstandigheid dat een goed behorend tot het cultureel en natuurlijk erfgoed niet is opgenomen in een van de beide in het eerste en tweede lid van artikel 11 bedoelde lijsten mag in genen dele zo worden uitgelegd als zou het geen uitzonderlijke universele waarde hebben om andere redenen dan die welke voortvloeien uit het opnemen in deze lijsten.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De Commissie voor het Werelderfgoed ontvangt en bestudeert verzoeken om internationale bijstand, gedaan door Staten die partij zijn bij deze Overeenkomst, met betrekking tot goederen die deel uitmaken van op hun grondgebied gelegen cultureel en natuurlijk erfgoed en zijn opgenomen in de in het tweede en vierde lid van artikel 11 bedoelde lijsten of daarvoor in aanmerking komen. Het doel van deze verzoeken kan zijn de bescherming, het behoud en het toegankelijk maken van zodanige goederen te waarborgen of daaraan een nieuwe bestemming te geven.
 
@@ -154,7 +176,7 @@ De omstandigheid dat een goed behorend tot het cultureel en natuurlijk erfgoed n
 
 8. De besluiten van de Commissie worden genomen met een meerderheid van twee derden van de aanwezige leden die hun stem uitbrengen. Het quorum wordt gevormd door de meerderheid van de leden van de Commissie.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De Commissie voor het Werelderfgoed wordt bijgestaan door een secretariaat dat wordt benoemd door de Directeur-Generaal van de Organisatie van de Verenigde Naties voor Onderwijs, Wetenschap en Cultuur.
 
@@ -162,7 +184,7 @@ De omstandigheid dat een goed behorend tot het cultureel en natuurlijk erfgoed n
 
 ### IV. FONDS VOOR DE BESCHERMING VAN HET CULTUREEL EN NATUURLIJK ERFGOED VAN DE WERELD
 
-#### Artikel 15
+##### Artikel 15
 
 1. Er wordt een fonds in het leven geroepen voor de bescherming van het cultureel en natuurlijk erfgoed dat van uitzonderlijke universele waarde is, genaamd „Fonds voor het Werelderfgoed”.
 
@@ -188,7 +210,7 @@ De omstandigheid dat een goed behorend tot het cultureel en natuurlijk erfgoed n
 
 4. De bijdragen aan het Fonds en andere vormen van aan de Commissie ter beschikking gestelde bijstand kunnen slechts worden gebruikt voor door de Commissie te omschrijven doeleinden. De Commissie kan bijdragen ontvangen die slechts voor een bepaald programma of project mogen worden gebruikt, op voorwaarde dat de Commissie een besluit heeft genomen over de uitvoering van een zodanig programma of project. Aan bijdragen verstrekt aan het Fonds mogen geen politieke voorwaarden worden verbonden.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Onverminderd eventuele aanvullende vrijwillige bijdragen nemen de Staten die partij zijn bij deze Overeenkomst op zich regelmatig om de twee jaar aan het Fonds voor het Werelderfgoed bijdragen te betalen waarvan het bedrag, in de vorm van een uniform, voor alle Staten geldend percentage, zal worden bepaald door de algemene vergadering van de Staten die partij zijn bij deze Overeenkomst tijdens de zittingen van de Algemene Vergadering van de Organisatie van de Verenigde Naties voor Onderwijs, Wetenschap en Cultuur. Voor dit besluit van de algemene vergadering is een meerderheid vereist van de Staten partij bij deze Overeenkomst die aanwezig zijn en een stem uitbrengen en die geen verklaring hebben afgelegd als bedoeld in het tweede lid van dit artikel. In geen geval mag de verplichte bijdrage van de Staten die partij zijn bij deze Overeenkomst meer bedragen dan 1 % van de bijdrage aan de Gewone Begroting van de Organisatie van de Verenigde Naties voor Onderwijs, Wetenschap en Cultuur.
 
@@ -202,25 +224,25 @@ De omstandigheid dat een goed behorend tot het cultureel en natuurlijk erfgoed n
 
 De zittingsperiode van een zodanige Staat die reeds lid is van de Commissie eindigt op het tijdstip der verkiezingen, bedoeld in het eerste lid van artikel 8 van deze Overeenkomst.
 
-#### Artikel 17
+##### Artikel 17
 
 De Staten die partij zijn bij deze Overeenkomst overwegen of bevorderen het in het leven roepen van nationale door de overheid en door particulieren opgerichte stichtingen of verenigingen, die ten doel hebben het doen van schenkingen aan te moedigen ten behoeve van de bescherming van het cultureel en natuurlijk erfgoed ais omschreven in de artikelen 1 en 2 van deze Overeenkomst.
 
-#### Artikel 18
+##### Artikel 18
 
 De Staten die partij zijn bij deze Overeenkomst verlenen hun medewerking aan internationale campagnes ter bijeenbrenging van gelden, georganiseerd ten behoeve van het Fonds voor het Werelderfgoed onder de auspiciën van de Organisatie van de Verenigde Naties voor Onderwijs, Wetenschap en Cultuur. Zij verlenen te dien einde faciliteiten voor geldinzamelingen door de in het derde lid van artikel 15 genoemde organisaties.
 
 ### V. VOORWAARDEN EN REGELINGEN INZAKE INTERNATIONALE BIJSTAND
 
-#### Artikel 19
+##### Artikel 19
 
 Een Staat die partij is bij deze Overeenkomst kan internationale bijstand vragen ten behoeve van goederen op zijn grondgebied die deel uitmaken van het cultureel en natuurlijk erfgoed van uitzonderlijke universele waarde. Te zamen met zijn verzoek legt die Staat de in artikel 21 bedoelde informatie en documentatie voor die hij in zijn bezit heeft ten einde de Commissie in staat te stellen een besluit te nemen.
 
-#### Artikel 20
+##### Artikel 20
 
 Behoudens het bepaalde in het tweede lid van artikel 13, letter (c) van artikel 22 en artikel 23 kan de in deze Overeenkomst bedoelde internationale bijstand alleen maar worden verleend aan van het cultureel en natuurlijk erfgoed deel uitmakende goederen ten aanzien waarvan de Commissie voor het Werelderfgoed heeft besloten of kan besluiten tot opneming in een van de in het eerste en vierde lid van artikel 11 bedoelde lijsten.
 
-#### Artikel 21
+##### Artikel 21
 
 1. De Commissie voor het Werelderfgoed bepaalt de procedure voor het onderzoek van de bij haar ingediende aanvragen om internationale bijstand en geeft een nauwkeurige omschrijving van de elementen welke daarin moeten zijn opgenomen, te weten een beschrijving van de beoogde operatie, de noodzakelijke werkzaamheden, een raming van de daaraan verbonden kosten, de mate van urgentie en de redenen waarom de middelen van de verzoekende Staat hem niet toestaan zelf het totaal der uitgaven te bestrijden. De verzoeken dienen zo mogelijk te worden gestaafd door rapporten van deskundigen.
 
@@ -228,7 +250,7 @@ Behoudens het bepaalde in het tweede lid van artikel 13, letter (c) van artikel 
 
 3. Alvorens tot een beslissing te komen verricht de Commissie de studies en wint zij de adviezen in, die zij noodzakelijk acht.
 
-#### Artikel 22
+##### Artikel 22
 
 De door de Commissie voor het Werelderfgoed verleende bijstand kan in de volgende vormen geschieden:
 
@@ -244,37 +266,37 @@ De door de Commissie voor het Werelderfgoed verleende bijstand kan in de volgend
 
 - (f). het in uitzonderlijke gevallen en om bijzondere redenen verstrekken van subsidies.
 
-#### Artikel 23
+##### Artikel 23
 
 De Commissie voor het Werelderfgoed kan ook internationale bijstand verlenen aan nationale en regionale centra voor de opleiding van personeel en deskundigen op alle niveaus op het gebied van de identificatie, de bescherming, het behoud, het toegankelijk maken van en het geven van een nieuwe bestemming aan het cultureel en natuurlijk erfgoed.
 
-#### Artikel 24
+##### Artikel 24
 
 Internationale bijstand op uitgebreide schaal dient te worden voorafgegaan door uitvoerige wetenschappelijke, economische en technische studies. Bij deze studies dient gebruik te worden gemaakt van de meest moderne technieken voor het beschermen, behouden en toegankelijk maken van en het geven van een nieuwe bestemming aan het natuurlijk en cultureel erfgoed en zij dienen verenigbaar te zijn met de doelstellingen van deze Overeenkomst. Deze studies dienen ook te zijn gericht op een rationeel gebruik van de in de betrokken Staat beschikbare middelen.
 
-#### Artikel 25
+##### Artikel 25
 
 Over het algemeen zal slechts een deel van de kosten der noodzakelijke werkzaamheden ten laste komen van de internationale gemeenschap. De bijdrage van de Staat die internationale bijstand geniet dient een aanmerkelijk deel te vormen van de middelen die aan elk programma of project worden besteed, tenzij zijn eigen middelen zulks niet toelaten.
 
-#### Artikel 26
+##### Artikel 26
 
 De Commissie voor het Werelderfgoed en de ontvangende Staat omschrijven in de tussen hen te sluiten overeenkomst de voorwaarden waarop een programma of een project waaraan krachtens de bepalingen van deze Overeenkomst internationale bijstand wordt verleend, zal worden uitgevoerd. De Staat die zodanige internationale bijstand ontvangt is verantwoordelijk voor de blijvende bescherming, het behoud en de toegankelijkheid van het aldus in stand gehouden goed, met inachtneming van de voorwaarden vervat in de overeenkomst.
 
 ### VI. OPVOEDKUNDIGE PROGRAMMA'S
 
-#### Artikel 27
+##### Artikel 27
 
 1. De Staten die partij zijn bij deze Overeenkomst streven met alle ter zake dienende middelen en in het bijzonder door middel van opvoedkundige en voorlichtende programma's, naar een verhoging van de waardering en de eerbied van hun volken voor het in de artikelen 1 en 2 van deze Overeenkomst omschreven cultureel en natuurlijk erfgoed.
 
 2. Zij nemen op zich het publiek op grote schaal voor te lichten over de gevaren die dit erfgoed bedreigen en over de activiteiten die ingevolge deze Overeenkomst worden uitgevoerd.
 
-#### Artikel 28
+##### Artikel 28
 
 De Staten die partij zijn bij deze Overeenkomst en die op grond van deze Overeenkomst internationale bijstand ontvangen dienen ter zake dienende maatregelen te treffen voor het ter openbare kennis brengen van het belang van het goed waarvoor bijstand is ontvangen en van de door die bijstand vervulde functie.
 
 ### VII. RAPPORTEN
 
-#### Artikel 29
+##### Artikel 29
 
 1. De Staten die partij zijn bij deze Overeenkomst verstrekken in (hun rapporten die op door haar te bepalen data en wijze worden voorgelegd aan de Algemene Vergadering van de Organisatie van de Verenigde Naties voor Onderwijs, Wetenschap en Cultuur, inlichtingen omtrent de wettelijke en bestuurlijke voorzieningen die zij hebben getroffen en omtrent andere voor de toepassing van deze Overeenkomst genomen maatregelen, vergezeld van mededelingen omtrent de op dit gebied verkregen ervaring.
 
@@ -284,27 +306,27 @@ De Staten die partij zijn bij deze Overeenkomst en die op grond van deze Overeen
 
 ### VIII. SLOTBEPALINGEN
 
-#### Artikel 30
+##### Artikel 30
 
 Deze Overeenkomst is opgesteld in de Arabische, de Engelse, de Franse, de Russische en de Spaanse taal, zijnde de vijf teksten gelijkelijk gezaghebbend.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Deze Overeenkomst dient te worden bekrachtigd of aanvaard door de Lid-Staten van de Organisatie van de Verenigde Naties voor Onderwijs, Wetenschap en Cultuur overeenkomstig hun onderscheiden constitutionele voorschriften.
 
 2. De akten van bekrachtiging of goedkeuring dienen te worden nedergelegd bij de Directeur-Generaal van de Organisatie van de Verenigde Naties voor Onderwijs, Wetenschap en Cultuur.
 
-#### Artikel 32
+##### Artikel 32
 
 1. Deze Overeenkomst staat open voor toetreding door alle Staten die geen lid zijn van de Organisatie van de Verenigde Naties voor Onderwijs, Wetenschap en Cultuur en die door de Algemene Vergadering van de Organisatie daartoe worden uitgenodigd.
 
 2. Toetreding geschiedt door nederlegging van een akte van toetreding bij de Directeur-Generaal van de Organisatie van de Verenigde Naties voor Onderwijs, Wetenschap en Cultuur.
 
-#### Artikel 33
+##### Artikel 33
 
 Deze Overeenkomst treedt in werking drie maanden na de datum van nederlegging van de twintigste akte van bekrachtiging, aanvaarding of toetreding, doch alleen ten aanzien van die Staten die hun onderscheiden akten van bekrachtiging, aanvaarding of toetreding op of voor die datum hebben nedergelegd. Zij treedt ten aanzien van elke andere Staat in werking drie maanden na de datum van de nederlegging van zijn akte van bekrachtiging, aanvaarding of toetreding.
 
-#### Artikel 34
+##### Artikel 34
 
 De volgende bepalingen zijn van toepassing op Staten die partij zijn bij deze Overeenkomst en die een federale staatsvorm hebben of geen eenheidsstaat zijn:
 
@@ -312,7 +334,7 @@ De volgende bepalingen zijn van toepassing op Staten die partij zijn bij deze Ov
 
 - (b). ten aanzien van de bepalingen van deze Overeenkomst waarvan de uitvoering valt onder de rechtsmacht van de afzonderlijke Staten, landen, provincies of kantons die ingevolge de constitutionele bepalingen van de federatie niet verplicht zijn tot het nemen van wettelijke maatregelen, dient de federale regering de bevoegde autoriteiten van zodanige Staten, landen, provincies of kantons in kennis te stellen van bedoelde bepalingen en hun aanvaarding aan te bevelen.
 
-#### Artikel 35
+##### Artikel 35
 
 1. Elke Staat die partij is bij deze Overeenkomst kan haar opzeggen.
 
@@ -320,17 +342,17 @@ De volgende bepalingen zijn van toepassing op Staten die partij zijn bij deze Ov
 
 3. De opzegging wordt van kracht twaalf maanden na de ontvangst van de akte van opzegging. Zij heeft geen invloed op de financiële verplichtingen die tot het tijdstip van de vankrachtwording van de opzegging op de opzeggende Staat rusten.
 
-#### Artikel 36
+##### Artikel 36
 
 De Directeur-Generaal van de Organisatie van de Verenigde Naties voor Onderwijs, Wetenschap en Cultuur geeft de Lid-Staten van de Organisatie, de in artikel 32 bedoelde Staten die geen lid zijn van de Organisatie, alsook de Verenigde Naties kennis van de nederlegging van alle in de artikelen 31 en 32 bedoelde akten van bekrachtiging, aanvaarding of toetreding en van de in artikel 35 bedoelde opzeggingen.
 
-#### Artikel 37
+##### Artikel 37
 
 1. Deze Overeenkomst kan door de Algemene Vergadering van de Organisatie van de Verenigde Naties voor Onderwijs, Wetenschap en Cultuur worden herzien. Een zodanige herziening is evenwel alleen bindend voor de Staten die partij worden bij de overeenkomst houdende herziening.
 
 2. Indien de Algemene Vergadering een nieuwe overeenkomst aanneemt die deze Overeenkomst geheel of gedeeltelijk herziet, dan staat, tenzij de nieuwe overeenkomst anders voorziet, de onderhavige Overeenkomst niet langer open voor bekrachtiging, aanvaarding of toetreding, met ingang van de datum waarop de nieuwe overeenkomst houdende herziening van kracht wordt.
 
-#### Artikel 38
+##### Artikel 38
 
 Overeenkomstig [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102) wordt deze Overeenkomst op verzoek van de Directeur-Generaal van de Organisatie van de Verenigde Naties voor Onderwijs, Wetenschap en Cultuur geregistreerd bij het Secretariaat der Verenigde Naties.
 

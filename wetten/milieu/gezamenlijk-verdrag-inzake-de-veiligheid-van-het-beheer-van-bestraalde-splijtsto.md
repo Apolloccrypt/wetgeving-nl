@@ -1,13 +1,37 @@
 ---
 title: "Gezamenlijk Verdrag inzake de veiligheid van het beheer van bestraalde splijtstof en inzake de veiligheid van het beheer van radioactief afval"
 identifier: "BWBV0001434"
-categorie: "Milieu"
-publicatiedatum: 2001-06-18
-laatste_update: 2001-06-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001434"
+country: "nl"
+rank: "verdrag"
+publication_date: "2001-06-18"
+last_updated: "2001-06-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001434"
+soort: "verdrag"
+stam_id: "10000748113"
+version_id: "10000775882"
+internal_id: "C10006990171"
+label_id: "10000748674"
+original_entry_into_force: "2001-06-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001434/2001-06-18/0"
+intitule_bron: "Trb.1999-164"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-04-26"
+intitule_published: "1999-09-03"
+intitule_in_force: "2001-06-22"
+intitule_status: "goed"
+original_publication: "Trb.1999-164"
+original_signed_date: "2000-04-26"
+original_published_date: "1999-09-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1999-164"
+entry_into_force_date: "2001-06-18"
+jci_1_3: "jci1.3:c:BWBV0001434&z=2001-06-18&g=2001-06-18"
+jci_1_0: "1.0:c:BWBV0001434&g=2001-06-18"
+citeertitel_status: "officieel"
+signed_date: "2000-04-26"
+entry_into_force: "2001-06-18"
 ---
-
 # Gezamenlijk Verdrag inzake de veiligheid van het beheer van bestraalde splijtstof en inzake de veiligheid van het beheer van radioactief afval
 
 Preambule
@@ -50,7 +74,7 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK 1. DOELSTELLINGEN, BEGRIPSOMSCHRIJVINGEN EN WERKINGSSFEER
 
-#### Artikel 1. Doelstellingen
+##### Artikel 1. Doelstellingen
 
 De doelstellingen van dit Verdrag zijn:
 
@@ -60,7 +84,7 @@ De doelstellingen van dit Verdrag zijn:
 
 - iii. het voorkomen van ongevallen waarbij radioactieve stoffen vrijkomen en het beperken van de gevolgen, mochten dergelijke ongevallen zich voordoen tijdens enig stadium van het beheer van bestraalde splijtstof of radioactief afval.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag
 
@@ -106,7 +130,7 @@ Voor de toepassing van dit Verdrag
 
 - u. wordt onder „vergunning" verstaan elke door een regulerend lichaam verleende machtiging, toestemming of certificatie ter verrichting van activiteiten met betrekking tot het beheer van bestraalde splijtstof of van radioactief afval;
 
-#### Artikel 3. Werkingssfeer
+##### Artikel 3. Werkingssfeer
 
 1. Dit Verdrag is van toepassing op de veiligheid van het beheer van bestraalde splijtstof wanneer de bestraalde splijtstof resulteert uit de bedrijfsvoering van civiele kernreactoren. Bestraalde splijtstof die in opwerkingsfaciliteiten voorhanden is als onderdeel van een opwerkingsactiviteit valt niet onder de werkingssfeer van dit Verdrag, tenzij de Verdragsluitende Partij verklaart dat opwerking deel uitmaakt van het beheer van bestraalde splijtstof.
 
@@ -118,7 +142,7 @@ Voor de toepassing van dit Verdrag
 
 ### HOOFDSTUK 2. VEILIGHEID VAN HET BEHEER VAN BESTRAALDE SPLIJTSTOF
 
-#### Artikel 4. Algemene veiligheidseisen
+##### Artikel 4. Algemene veiligheidseisen
 
 Elke Verdragsluitende Partij neemt passende maatregelen om zeker te stellen dat in alle stadia van het beheer van bestraalde splijtstof personen, de samenleving en het milieu op adequate wijze beschermd zijn tegen de gevaren van radioactiviteit.
 
@@ -138,11 +162,11 @@ Elke Verdragsluitende Partij neemt hierbij passende maatregelen:
 
 - vii. om te trachten te vermijden dat de toekomstige generaties overmatig worden belast.
 
-#### Artikel 5. Bestaande faciliteiten
+##### Artikel 5. Bestaande faciliteiten
 
 Elke Verdragsluitende Partij neemt passende maatregelen om de veiligheid te toetsen van elke faciliteit voor het beheer van bestraalde splijtstof die bestaat op het tijdstip waarop het Verdrag voor die Verdragsluitende Partij in werking treedt en om te waarborgen dat, indien noodzakelijk, alle redelijkerwijs uitvoerbare verbeteringen worden aangebracht ter vergroting van de veiligheid van een dergelijke faciliteit.
 
-#### Artikel 6. Keuze van de vestigingsplaats van geplande faciliteiten
+##### Artikel 6. Keuze van de vestigingsplaats van geplande faciliteiten
 
 1. Elke Verdragsluitende Partij neemt passende maatregelen om te waarborgen dat procedures worden vastgelegd en uitgevoerd voor een geplande faciliteit voor het beheer van bestraalde splijtstof:
 
@@ -156,7 +180,7 @@ Elke Verdragsluitende Partij neemt passende maatregelen om de veiligheid te toet
 
 2. Elke Verdragsluitende Partij neemt hierbij passende maatregelen om zeker te stellen dat deze faciliteiten geen onaanvaardbare effecten hebben op andere Verdragsluitende Partijen door de vestigingsplaats van de faciliteiten te kiezen in overeenstemming met de algemene veiligheidseisen van artikel 4.
 
-#### Artikel 7. Ontwerp en bouw van faciliteiten
+##### Artikel 7. Ontwerp en bouw van faciliteiten
 
 Elke Verdragsluitende Partij neemt passende maatregelen om zeker te stellen dat:
 
@@ -166,7 +190,7 @@ Elke Verdragsluitende Partij neemt passende maatregelen om zeker te stellen dat:
 
 - iii. de technologieën die bij het ontwerp en de bouw van een faciliteit voor het beheer van bestraalde splijtstof worden toegepast worden ondersteund door ervaring, testen of analyses.
 
-#### Artikel 8. Beoordeling van veiligheid van faciliteiten
+##### Artikel 8. Beoordeling van veiligheid van faciliteiten
 
 Elke Verdragsluitende Partij neemt passende maatregelen om zeker te stellen dat:
 
@@ -174,7 +198,7 @@ Elke Verdragsluitende Partij neemt passende maatregelen om zeker te stellen dat:
 
 - ii. vóór de inbedrijfstelling van een faciliteit voor het beheer van bestraalde splijtstof bijgewerkte en gedetailleerde versies van het veiligheidsrapport en het milieu-effectrapport worden opgesteld, wanneer dit noodzakelijk wordt geacht, ter aanvulling op de in het eerste lid bedoelde beoordelingen.
 
-#### Artikel 9. Bedrijfsvoering van faciliteiten
+##### Artikel 9. Bedrijfsvoering van faciliteiten
 
 Elke Verdragsluitende Partij neemt passende maatregelen om zeker te stellen dat:
 
@@ -192,13 +216,13 @@ Elke Verdragsluitende Partij neemt passende maatregelen om zeker te stellen dat:
 
 - vii. buitenbedrijfstellingsplannen voor een faciliteit voor het beheer van bestraalde splijtstof worden opgesteld en zo nodig bijgewerkt, met behulp van de informatie die is verkregen gedurende de operationele levensduur van die faciliteit, en door het regulerend lichaam worden bestudeerd.
 
-#### Artikel 10. Eindberging van bestraalde splijtstof
+##### Artikel 10. Eindberging van bestraalde splijtstof
 
 Indien een Verdragsluitende Partij, krachtens haar eigen wet- en regelgevend kader, bestraalde splijtstof heeft aangewezen voor opberging, geschiedt de eindberging van deze bestraalde splijtstof in overeenstemming met de verplichtingen van hoofdstuk 3 met betrekking tot de eindberging van radioactief afval.
 
 ### HOOFDSTUK 3. VEILIGHEID VAN HET BEHEER VAN RADIOACTIEF AFVAL
 
-#### Artikel 11. Algemene veiligheidseisen
+##### Artikel 11. Algemene veiligheidseisen
 
 Elke Verdragsluitende Partij neemt passende maatregelen om zeker te stellen dat in alle stadia van het beheer van radioactief afval personen, de samenleving en het milieu op adequate wijze beschermd zijn tegen gevaren van radioactiviteit en andere gevaren.
 
@@ -218,7 +242,7 @@ Elke Verdragsluitende Partij neemt hierbij passende maatregelen:
 
 - vii. om te trachten te vermijden dat de toekomstige generaties overmatig worden belast.
 
-#### Artikel 12. Bestaande faciliteiten en praktijken uit het verleden
+##### Artikel 12. Bestaande faciliteiten en praktijken uit het verleden
 
 Elke Verdragsluitende Partij neemt te zijner tijd passende maatregelen ter bestudering van:
 
@@ -226,7 +250,7 @@ Elke Verdragsluitende Partij neemt te zijner tijd passende maatregelen ter bestu
 
 - ii. de resultaten van praktijken uit het verleden om te kunnen bepalen of een interventie noodzakelijk is vanwege bescherming tegen straling, zonder uit het oog te verliezen dat de vermindering van schade als gevolg van de vermindering van de dosis voldoende moet zijn om de negatieve effecten en de kosten van de interventie, met inbegrip van de sociale kosten, te rechtvaardigen.
 
-#### Artikel 13. Keuze van de vestigingsplaats van geplande faciliteiten
+##### Artikel 13. Keuze van de vestigingsplaats van geplande faciliteiten
 
 1. Elke Verdragsluitende Partij neemt passende maatregelen om te waarborgen dat procedures worden vastgelegd en uitgevoerd voor een geplande faciliteit voor het beheer van radioactief afval:
 
@@ -240,7 +264,7 @@ Elke Verdragsluitende Partij neemt te zijner tijd passende maatregelen ter bestu
 
 2. Elke Verdragsluitende Partij neemt hierbij passende maatregelen om zeker te stellen dat deze faciliteiten geen onaanvaardbare effecten hebben op andere Verdragsluitende Partijen door de vestigingsplaats van de faciliteiten te kiezen in overeenstemming met de algemene veiligheidseisen van artikel 11.
 
-#### Artikel 14. Ontwerp en bouw van faciliteiten
+##### Artikel 14. Ontwerp en bouw van faciliteiten
 
 Elke Verdragsluitende Partij neemt passende maatregelen om zeker te stellen dat:
 
@@ -252,7 +276,7 @@ Elke Verdragsluitende Partij neemt passende maatregelen om zeker te stellen dat:
 
 - iv. de technologieën die bij het ontwerp en de bouw van een faciliteit voor het beheer van radioactief afval worden toegepast worden ondersteund door ervaring, testen of analyses.
 
-#### Artikel 15. Beoordeling van veiligheid van faciliteiten
+##### Artikel 15. Beoordeling van veiligheid van faciliteiten
 
 Elke Verdragsluitende Partij neemt passende maatregelen om zeker te stellen dat:
 
@@ -262,7 +286,7 @@ Elke Verdragsluitende Partij neemt passende maatregelen om zeker te stellen dat:
 
 - iii. vóór de inbedrijfstelling van een faciliteit voor het beheer van radioactief afval bijgewerkte en gedetailleerde versies van de veiligheidsbeoordeling en het milieu-effectrapport worden opgesteld, wanneer dit noodzakelijk wordt geacht, ter aanvulling op de in het eerste lid bedoelde beoordelingen.
 
-#### Artikel 16. Bedrijfsvoering van de faciliteiten
+##### Artikel 16. Bedrijfsvoering van de faciliteiten
 
 Elke Verdragsluitende Partij neemt passende maatregelen om zeker te stellen dat:
 
@@ -284,7 +308,7 @@ Elke Verdragsluitende Partij neemt passende maatregelen om zeker te stellen dat:
 
 - ix. plannen voor de sluiting van een eindbergingsfaciliteit worden opgesteld en zo nodig bijgewerkt, met behulp van de informatie die is verkregen tijdens de operationele levensduur van die faciliteit, en die door het regulerend lichaam worden bestudeerd.
 
-#### Artikel 17. Institutionele maatregelen na de sluiting
+##### Artikel 17. Institutionele maatregelen na de sluiting
 
 Elke Verdragsluitende Partij neemt passende maatregelen om zeker te stellen dat na de sluiting van een eindbergingsfaciliteit:
 
@@ -296,11 +320,11 @@ Elke Verdragsluitende Partij neemt passende maatregelen om zeker te stellen dat 
 
 ### HOOFDSTUK 4. ALGEMENE VEILIGHEIDSBEPALINGEN
 
-#### Artikel 18. Uitvoeringsbepalingen
+##### Artikel 18. Uitvoeringsbepalingen
 
 Elke Verdragsluitende Partij treft binnen het kader van haar nationale recht de wetgevende, regelgevende en bestuurlijke maatregelen en andere voorzieningen die noodzakelijk zijn ter nakoming van haar verplichtingen ingevolge dit Verdrag.
 
-#### Artikel 19. Wet- en regelgevend kader
+##### Artikel 19. Wet- en regelgevend kader
 
 1. Elke Verdragsluitende Partij schept en handhaaft een wet- en regelgevend kader betreffende de veiligheid van het beheer van bestraalde splijtstof en radioactief afval.
 
@@ -320,19 +344,19 @@ Elke Verdragsluitende Partij treft binnen het kader van haar nationale recht de 
 
 3. Wanneer nagegaan wordt of radioactieve stoffen aan de toepasselijke regelgeving voor radioactief afval moeten worden onderworpen houden de Verdragsluitende Partijen naar behoren rekening met de doelstellingen van dit Verdrag.
 
-#### Artikel 20. Regulerend lichaam
+##### Artikel 20. Regulerend lichaam
 
 1. Door elke Verdragsluitende Partij wordt een regulerend lichaam opgericht of aangewezen ter uitvoering van het in artikel 19 bedoelde wet- en regelgevend kader, dat beschikt over passende bevoegdheden, bekwaamheid en financiële en personele middelen om de zijn toegewezen taken te vervullen.
 
 2. Elke Verdragsluitende Partij neemt in overeenstemming met haar wet- en regelgevend kader passende maatregelen om ervoor te zorgen dat de regelgevende taken daadwerkelijk onafhankelijk zijn van andere taken indien organisaties die zowel bij het beheer van bestraalde splijtstof of radioactief afval als met de regelgeving ter zake betrokken zijn.
 
-#### Artikel 21. Verantwoordelijkheid van de vergunninghouder
+##### Artikel 21. Verantwoordelijkheid van de vergunninghouder
 
 1. Elke Verdragsluitende Partij zorgt ervoor dat de hoofdverantwoordelijkheid voor de veiligheid van een installatie voor het beheer van bestraalde splijtstof of radioactief afval berust bij de houder van de desbetreffende vergunning en neemt passende maatregelen om te waarborgen dat iedere vergunninghouder zijn verantwoordelijkheid in acht neemt.
 
 2. Indien er geen vergunninghouder of andere verantwoordelijke partij is, berust de verantwoordelijkheid bij de Verdragsluitende Partij die de jurisdictie heeft over de bestraalde splijtstof of over het radioactieve afval.
 
-#### Artikel 22. Personele en financiële middelen
+##### Artikel 22. Personele en financiële middelen
 
 Elke Verdragsluitende Partij neemt passende maatregelen om zeker te stellen dat:
 
@@ -342,11 +366,11 @@ Elke Verdragsluitende Partij neemt passende maatregelen om zeker te stellen dat:
 
 - iii. er financiële voorzieningen zijn getroffen die het mogelijk maken dat adequate institutionele controles en meetprogramma's worden uitgevoerd en, zolang dit noodzakelijk wordt geacht worden voortgezet na de sluiting van een faciliteit voor eindberging.
 
-#### Artikel 23. Kwaliteitsborging
+##### Artikel 23. Kwaliteitsborging
 
 Elke Verdragsluitende Partij neemt de noodzakelijke maatregelen om zeker te stellen dat passende programma's voor kwaliteitsborging inzake de veiligheid van het beheer van bestraalde splijtstof en radioactief afval worden opgezet en uitgevoerd.
 
-#### Artikel 24. Bescherming tegen straling tijdens de bedrijfsvoering
+##### Artikel 24. Bescherming tegen straling tijdens de bedrijfsvoering
 
 1. Elke Verdragsluitende Partij neemt passende maatregelen om zeker te stellen dat gedurende de operationele levensduur van een faciliteit voor het beheer van bestraalde splijtstof of radioactief afval:
 
@@ -364,13 +388,13 @@ Elke Verdragsluitende Partij neemt de noodzakelijke maatregelen om zeker te stel
 
 3. Elke Verdragsluitende Partij neemt passende maatregelen om zeker te stellen dat tijdens de operationele levensduur van een gereguleerde kerninstallatie, in het geval dat een niet-geplande of ongecontroleerde emissie van radioactieve stoffen in het milieu geschiedt, passende corrigerende maatregelen worden getroffen om de lozingen te beheersen en de effecten ervan te beperken.
 
-#### Artikel 25. Voorbereiding op noodsituaties
+##### Artikel 25. Voorbereiding op noodsituaties
 
 1. Elke Verdragsluitende Partij stelt zeker dat er voor en tijdens de bedrijfsvoering van een installatie voor het beheer van bestraalde splijtstof of radioactief afval passende interne en, indien nodig, externe rampenbestrijdingsplannen bestaan. Deze rampenbestrijdingsplannen dienen regelmatig te worden getest.
 
 2. Elke Verdragsluitende Partij neemt passende maatregelen voor het opstellen en testen van rampenbestrijdingsplannen voor haar grondgebied, voor zover zij zou kunnen worden getroffen door een ongeval met stralingsgevolgen in een faciliteit voor het beheer van bestraalde splijtstof of radioactief afval in de nabijheid van haar grondgebied.
 
-#### Artikel 26. Buitenbedrijfstelling
+##### Artikel 26. Buitenbedrijfstelling
 
 Elke Verdragsluitende Partij neemt passende maatregelen om de veiligheid van de buitenbedrijfstelling van een kerninstallatie zeker te stellen. Deze maatregelen moeten waarborgen dat:
 
@@ -384,7 +408,7 @@ Elke Verdragsluitende Partij neemt passende maatregelen om de veiligheid van de 
 
 ### HOOFDSTUK 5. DIVERSE BEPALINGEN
 
-#### Artikel 27. Grensoverschrijdende overbrenging
+##### Artikel 27. Grensoverschrijdende overbrenging
 
 1. Elke Verdragsluitende Partij die betrokken is bij een grensoverschrijdende overbrenging neemt passende maatregelen om zeker te stellen dat deze overbrenging geschiedt in overeenstemming met de bepalingen van dit Verdrag en van relevante bindende internationale instrumenten.
 
@@ -412,7 +436,7 @@ Hierbij:
 
 - iv. de rechten van een Verdragsluitende Partij waarnaar bestraalde splijtstof ter opwerking wordt uitgevoerd, om het radioactieve afval en de andere producten die voortvloeien uit de opwerking terug te zenden naar de Staat van herkomst of hiertoe maatregelen te nemen.
 
-#### Artikel 28. Uit bedrijf genomen, ingekapselde bronnen
+##### Artikel 28. Uit bedrijf genomen, ingekapselde bronnen
 
 1. Elke Verdragsluitende Partij neemt binnen het kader van haar nationale wetgeving, passende maatregelen om zeker te stellen dat het bezit, het voor hergebruik geschikt maken of opbergen van uit bedrijf genomen, ingekapselde bronnen op een veilige wijze plaatsvindt.
 
@@ -420,7 +444,7 @@ Hierbij:
 
 ### HOOFDSTUK 6. VERGADERINGEN VAN DE VERDRAGSLUITENDE PARTIJEN
 
-#### Artikel 29. Voorbereidende vergadering
+##### Artikel 29. Voorbereidende vergadering
 
 1. Uiterlijk zes maanden na de datum van inwerkingtreding van dit Verdrag wordt een voorbereidende vergadering van de Verdragsluitende Partijen gehouden.
 
@@ -440,7 +464,7 @@ Hierbij:
 
 3. Elke Staat of elke regionale organisatie strevend naar integratie dan wel van andere aard, die dit Verdrag bekrachtigt, aanvaardt, goedkeurt, bevestigt of ertoe toetreedt en waarvoor het Verdrag nog niet in werking is getreden kan de voorbereidende vergadering bijwonen alsof hij c.q. zij Partij bij dit Verdrag was.
 
-#### Artikel 30. Toetsingsvergaderingen
+##### Artikel 30. Toetsingsvergaderingen
 
 1. De Verdragsluitende Partijen houden vergaderingen ter toetsing van de ingevolge artikel 32 ingediende rapporten.
 
@@ -452,7 +476,7 @@ Hierbij:
 
 3. Op elke toetsingsvergadering wordt elke Verdragsluitende Partij een redelijke mogelijkheid geboden de door andere Verdragsluitende Partijen ingediende rapporten te bespreken en te vragen om een toelichting ter zake.
 
-#### Artikel 31. Buitengewone vergaderingen
+##### Artikel 31. Buitengewone vergaderingen
 
 Er wordt een buitengewone vergadering van de Verdragsluitende Partijen gehouden:
 
@@ -460,7 +484,7 @@ Er wordt een buitengewone vergadering van de Verdragsluitende Partijen gehouden:
 
 - ii. op schriftelijk verzoek van een Verdragsluitende Partij, binnen zes maanden nadat dit verzoek aan de Verdragsluitende Partijen is meegedeeld en een meerderheid van de Verdragsluitende Partijen aan het in artikel 37 bedoelde secretariaat te kennen heeft gegeven het verzoek te steunen
 
-#### Artikel 32. Rapportage
+##### Artikel 32. Rapportage
 
 1. In overeenstemming met het bepaalde in artikel 30 dient elke Verdragsluitende Partij een nationaal rapport in op elke toetsingsvergadering van de Verdragsluitende Partijen. Dit rapport heeft betrekking op de maatregelen die zijn genomen ter nakoming van elk van de verplichtingen van het Verdrag. Voor elke Verdragsluitende Partij heeft het rapport tevens betrekking op:
 
@@ -492,17 +516,17 @@ Er wordt een buitengewone vergadering van de Verdragsluitende Partijen gehouden:
 
 - v. een lijst met kerninstallaties ten aanzien waarvan een procedure van buitenbedrijfstelling loopt, waarbij de voortgang van de werkzaamheden inzake buitenbedrijfstelling van die faciliteiten is aangegeven.
 
-#### Artikel 33. Deelname
+##### Artikel 33. Deelname
 
 1. Elke Verdragsluitende Partij neemt deel aan de vergaderingen van de Verdragsluitende Partijen en wordt daar vertegenwoordigd door één afgevaardigde en door plaatsvervangers, deskundigen en adviseurs, in zoverre zij dit noodzakelijk acht.
 
 2. De Verdragsluitende Partijen kunnen, bij consensus, iedere intergouvernementele organisatie die deskundig is met betrekking tot de in dit Verdrag geregelde aangelegenheden uitnodigen als waarnemer aan een vergadering of bepaalde zittingen daarvan deel te nemen. Waarnemers dienen schriftelijk en van te voren in te stemmen met het bepaalde in artikel 36.
 
-#### Artikel 34. Samenvattend verslag
+##### Artikel 34. Samenvattend verslag
 
 De Verdragsluitende Partijen hechten, bij consensus, hun goedkeuring aan een document betreffende tijdens vergaderingen van de Verdragsluitende Partijen besproken onderwerpen en getrokken conclusies en stellen dit ter beschikking van het publiek.
 
-#### Artikel 35. Talen
+##### Artikel 35. Talen
 
 1. De voertalen tijdens vergaderingen van de Verdragsluitende Partijen zijn het Arabisch, het Chinees, het Engels, het Frans, het Russisch en het Spaans, tenzij in het reglement van orde anders is bepaald.
 
@@ -510,7 +534,7 @@ De Verdragsluitende Partijen hechten, bij consensus, hun goedkeuring aan een doc
 
 3. Onverminderd het bepaalde in het tweede lid, verzorgt het secretariaat, tegen vergoeding, de vertaling in de aangewezen taal van rapporten die in een andere ter vergadering gebezigde voertaal zijn ingediend.
 
-#### Artikel 36. Vertrouwelijkheid
+##### Artikel 36. Vertrouwelijkheid
 
 1. De bepalingen van dit Verdrag laten de rechten en verplichtingen onverlet die de Verdragsluitende Partijen krachtens hun wetgeving hebben met betrekking tot de bescherming van informatie tegen openbaarmaking. Voor de toepassing van dit artikel wordt onder „informatie" mede verstaan: informatie met betrekking tot de nationale veiligheid of de fysieke bescherming van kernmateriaal, informatie die wordt beschermd uit hoofde van de intellectuele eigendom of uit hoofde van het fabrieks- en handelsgeheim, en persoonsgegevens.
 
@@ -526,7 +550,7 @@ De Verdragsluitende Partijen hechten, bij consensus, hun goedkeuring aan een doc
 
 4. De inhoud van de besprekingen gedurende het toetsen van de nationale rapporten op iedere krachtens artikel 30 gehouden toetsingsvergadering is vertrouwelijk.
 
-#### Artikel 37. Secretariaat
+##### Artikel 37. Secretariaat
 
 1. De Internationale Organisatie voor Atoomenergie (hierna te noemen de „Organisatie") treedt op als secretariaat voor de vergaderingen van de Verdragsluitende Partijen.
 
@@ -542,11 +566,11 @@ De door de Organisatie gemaakte kosten ter verrichting van de onder i. en ii. be
 
 ### HOOFDSTUK 7. SLOTBEPALINGEN EN ANDERE BEPALINGEN
 
-#### Artikel 38. Oplossen van verschillen van mening
+##### Artikel 38. Oplossen van verschillen van mening
 
 In geval van een verschil van mening tussen twee of meer Verdragsluitende Partijen betreffende de interpretatie of toepassing van dit Verdrag, plegen de Verdragsluitende Partijen overleg in het kader van een vergadering van de Verdragsluitende Partijen teneinde een oplossing te vinden voor het verschil van mening. Wanneer het overleg niet tot een oplossing leidt, kan een beroep worden gedaan op de mechanismen van bemiddeling, conciliatie en arbitrage die zijn neergelegd in het internationale recht, met inbegrip van de binnen de IAEA geldende regels en praktijken.
 
-#### Artikel 39. Ondertekening, bekrachtiging, aanvaarding, goedkeuring, toetreding
+##### Artikel 39. Ondertekening, bekrachtiging, aanvaarding, goedkeuring, toetreding
 
 1. Dit Verdrag staat voor alle Staten open voor ondertekening op de zetel van de Organisatie te Wenen van 29 september 1997 tot aan zijn inwerkingtreding.
 
@@ -564,13 +588,13 @@ In geval van een verschil van mening tussen twee of meer Verdragsluitende Partij
 
 5. De akten van bekrachtiging, aanvaarding, goedkeuring, toetreding of bevestiging dienen te worden nedergelegd bij de depositaris.
 
-#### Artikel 40. Inwerkingtreding
+##### Artikel 40. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking op de negentigste dag na de datum van nederlegging bij de depositaris van de vijfentwintigste akte van bekrachtiging, aanvaarding of goedkeuring, waaronder de akten van vijftien Staten die elk een in bedrijf zijnde kerncentrale hebben.
 
 2. Voor elke Staat of regionale organisatie strevend naar integratie dan wel van andere aard die dit Verdrag bekrachtigt, aanvaardt, goedkeurt, bevestigt of ertoe toetreedt na de datum van nederlegging van de laatste akte die is vereist om te voldoen aan de in het eerste lid genoemde voorwaarden, treedt dit Verdrag in werking op de negentigste dag na de datum van nederlegging bij de depositaris van de desbetreffende akte door die Staat of organisatie.
 
-#### Artikel 41. Wijzigingen van het Verdrag
+##### Artikel 41. Wijzigingen van het Verdrag
 
 1. Elke Verdragsluitende Partij kan een wijziging van dit Verdrag voorstellen. Voorgestelde wijzigingen worden bestudeerd op een toetsingsvergadering of een buitengewone vergadering.
 
@@ -582,13 +606,13 @@ In geval van een verschil van mening tussen twee of meer Verdragsluitende Partij
 
 5. Wijzigingen van dit Verdrag die zijn aangenomen overeenkomstig het derde en vierde lid, dienen door de Verdragsluitende Partijen te worden bekrachtigd, aanvaard, goedgekeurd of bevestigd en worden voor de Verdragsluitende Partijen die ze hebben bekrachtigd, aanvaard, goedgekeurd of bevestigd van kracht op de negentigste dag na de ontvangst door de depositaris van de desbetreffende akten van ten minste twee derden van de Verdragsluitende Partijen. Ten aanzien van een Verdragsluitende Partij die bedoelde wijzigingen daarna bekrachtigt, aanvaardt, goedkeurt of bevestigt, worden zij van kracht op de negentigste dag na de nederlegging van de desbetreffende akte door die Verdragsluitende Partij.
 
-#### Artikel 42. Opzegging
+##### Artikel 42. Opzegging
 
 1. Elke Verdragsluitende Partij kan dit Verdrag opzeggen door middel van een schriftelijke kennisgeving aan de depositaris.
 
 2. De opzegging wordt van kracht een jaar na de datum van ontvangst van de kennisgeving door de depositaris of op een in de kennisgeving vermelde latere datum.
 
-#### Artikel 43. Depositaris
+##### Artikel 43. Depositaris
 
 1. De Directeur-Generaal van de Organisatie is depositaris van dit Verdrag.
 
@@ -602,7 +626,7 @@ In geval van een verschil van mening tussen twee of meer Verdragsluitende Partij
 
 - iv. de door de Verdragsluitende Partijen voorgestelde wijzigingen van dit Verdrag, de door de desbetreffende diplomatieke conferentie of de vergadering van de Verdragsluitende Partijen aangenomen wijzigingen, en de datum van vankrachtwording van bedoelde wijzigingen, in overeenstemming met artikel 41.
 
-#### Artikel 44. Authentieke teksten
+##### Artikel 44. Authentieke teksten
 
 Het origineel van dit Verdrag, waarvan de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse tekst gelijkelijk authentiek zijn, wordt nedergelegd bij de depositaris, die gewaarmerkte afschriften daarvan doet toekomen aan de Verdragsluitende Partijen.
 

@@ -1,13 +1,38 @@
 ---
 title: "Omzetbelasting; verzorging en verpleging van in een inrichting opgenomen personen"
 identifier: "BWBR0039991"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2018-12-29
-laatste_update: 2018-12-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039991"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2018-12-29"
+last_updated: "2018-12-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039991"
+soort: "beleidsregel"
+stam_id: "14169063"
+version_id: "24370362"
+internal_id: "C34969531"
+label_id: "14129924"
+dtd_version: "2.0"
+original_entry_into_force: "2017-09-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039991/2018-12-29/0"
+intitule_bron: "Stcrt.2017-53035"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-09-06"
+intitule_published: "2017-09-21"
+intitule_in_force: "2017-09-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-53035"
+original_signed_date: "2017-09-06"
+original_published_date: "2017-09-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-53035"
+entry_into_force_date: "2017-09-22"
+jci_1_3: "jci1.3:c:BWBR0039991&z=2018-12-29&g=2018-12-29"
+jci_1_0: "1.0:c:BWBR0039991&g=2018-12-29"
+citeertitel_status: "redactioneel"
+signed_date: "2017-09-06"
+entry_into_force: "2017-09-22"
 ---
-
 # Omzetbelasting; verzorging en verpleging van in een inrichting opgenomen personen
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

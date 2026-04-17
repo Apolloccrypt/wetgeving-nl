@@ -1,13 +1,39 @@
 ---
-title: "Regeling salariscompensatie medewerkers voormalige productschappen"
+title: "Regeling van de Minister van Economische Zaken en de Minister van Volksgezondheid, Welzijn en Sport van 8 februari 2016, nr. WJZ/15154754, houdende salariscompensatie voor medewerkers van productschappen bij de overgang naar de Rijksoverheid (Regeling salariscompensatie medewerkers voormalige productschappen)"
 identifier: "BWBR0037614"
-categorie: "Overig"
-publicatiedatum: 2016-02-17
-laatste_update: 2016-02-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037614"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2016-02-17"
+last_updated: "2016-02-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037614"
+soort: "ministeriele-regeling"
+stam_id: "13413213"
+version_id: "23016442"
+internal_id: "C33271591"
+label_id: "13380834"
+dtd_version: "2.0"
+original_entry_into_force: "2016-02-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037614/2016-02-17/0"
+intitule_bron: "Stcrt.2016-7380"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-02-08"
+intitule_published: "2016-02-16"
+intitule_in_force: "2016-02-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-7380"
+original_signed_date: "2016-02-08"
+original_published_date: "2016-02-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-7380"
+entry_into_force_date: "2016-02-17"
+jci_1_3: "jci1.3:c:BWBR0037614&z=2016-02-17&g=2016-02-17"
+jci_1_0: "1.0:c:BWBR0037614&g=2016-02-17"
+citeertitel_status: "officieel"
+short_title: "Regeling salariscompensatie medewerkers voormalige productschappen"
+signed_date: "2016-02-08"
+entry_into_force: "2016-02-17"
 ---
-
 # Regeling van de Minister van Economische Zaken en de Minister van Volksgezondheid, Welzijn en Sport van 8 februari 2016, nr. WJZ/15154754, houdende salariscompensatie voor medewerkers van productschappen bij de overgang naar de Rijksoverheid (Regeling salariscompensatie medewerkers voormalige productschappen)
 
 Gelet op [artikel 69, derde lid, van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=69);
@@ -16,7 +42,7 @@ Gehoord het Departementaal Georganiseerd Overleg, bedoeld in [artikel 113 van he
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -34,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 - g. **septembertoeslag:** jaarlijkse toeslag in de maand september bij het productschap, in verband met het verdwijnen van bonussparen (ter hoogte van € 525,96), die niet pensioengevend is.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Aan een medewerker wordt een salariscompensatie in de vorm van een toelage toegekend indien het netto maandsalaris in de maand januari 2014 bij het productschap hoger is dan het netto maandsalaris dat de medewerker met ingang van de datum van overgang bij het ministerie gaat verdienen in de functieschaal van zijn functie.
 
@@ -42,7 +68,7 @@ In deze regeling wordt verstaan onder:
 
 3. De in het eerste lid bedoelde toelage wordt maandelijks uitgekeerd zolang de medewerker is aangesteld bij het ministerie, maar niet langer dan twintig jaar na de datum van overgang van deze medewerker. De toelage eindigt eveneens op het moment dat het salarisniveau van januari 2014 is bereikt.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Indien een medewerker na de datum van overgang wordt bezoldigd naar een hogere salarisschaal wordt de toelage als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037614&artikel=2&z=2016-02-17&g=2016-02-17) naar evenredigheid verminderd met toegekende salarisverhogingen.
 
@@ -52,17 +78,17 @@ In deze regeling wordt verstaan onder:
 
 4. Voor de berekeningsgrondslag van de ambtsjubileum- en diensttijdgratificatie telt de toelage, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037614&artikel=2&z=2016-02-17&g=2016-02-17), mee.
 
-#### Artikel 4
+##### Artikel 4
 
 Het bevoegd gezag kan afwijken van de bepalingen in deze regeling indien toepassing hiervan onbedoeld tot een onbillijke individuele situatie leidt.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2014.
 
 2. Deze regeling vervalt op 1 januari 2035.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling wordt aangehaald als: Regeling salariscompensatie medewerkers voormalige productschappen.
 

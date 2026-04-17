@@ -1,13 +1,35 @@
 ---
 title: "Verdrag betreffende de vestiging van het Galileo-referentiecentrum tussen het Koninkrijk der Nederlanden, de Europese Commissie en het Europese GNSS-Agentschap"
 identifier: "BWBV0006594"
-categorie: "Internationaal recht"
-publicatiedatum: 2016-05-30
-laatste_update: 2016-05-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006594"
+country: "nl"
+rank: "verdrag"
+publication_date: "2016-05-30"
+last_updated: "2016-05-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006594"
+soort: "verdrag"
+stam_id: "10005352883"
+version_id: "10005773512"
+internal_id: "C10009083641"
+label_id: "10005335804"
+dtd_version: "2.0"
+original_entry_into_force: "2016-05-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006594/2016-05-30/0"
+intitule_bron: "Trb.2016-69"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2016-06-03"
+intitule_in_force: "2016-06-03"
+intitule_status: "goed"
+original_publication: "Trb.2016-69"
+original_published_date: "2016-06-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2016-69"
+entry_into_force_date: "2016-05-30"
+jci_1_3: "jci1.3:c:BWBV0006594&z=2016-05-30&g=2016-05-30"
+jci_1_0: "1.0:c:BWBV0006594&g=2016-05-30"
+citeertitel_status: "redactioneel"
+entry_into_force: "2016-05-30"
 ---
-
 # Verdrag betreffende de vestiging van het Galileo-referentiecentrum tussen het Koninkrijk der Nederlanden, de Europese Commissie en het Europese GNSS-Agentschap
 
 The Kingdom of the Netherlands
@@ -42,7 +64,7 @@ Whereas in compliance with the Implementing Decision an agreement should be conc
 
 Have agreed as follows:
 
-#### Article 1. Use of Terms
+##### Article 1. Use of Terms
 
 1.1. “Agreement” means this Agreement between the Kingdom of the Netherlands, the European Commission and the European GNSS Agency on the Hosting of the GRC, including its Annexes, and any future amendments to the Agreement or its Annexes;
 
@@ -78,15 +100,15 @@ Have agreed as follows:
 
 - d). any person living with a member of the GRC Staff whom the GRC Staff has a legal responsibility to maintain and whose maintenance involves heavy expenditure under the conditions set out in Article 2(4) of Annex VII of the EU Staff Regulations.
 
-#### Article 2. Object and Purpose
+##### Article 2. Object and Purpose
 
 This Agreement shall implement the [Protocol on the Privileges and Immunities of the European Union](onbekend) and regulate other matters relating to or arising out of the establishment and the proper and continuous functioning of the GRC in the Netherlands. It shall create conditions conducive to the stability and independence of the GRC and facilitate its smooth and efficient functioning.
 
-#### Article 3. GRC site
+##### Article 3. GRC site
 
 The GRC shall be hosted in Noordwijk, the Netherlands. The GRC shall be clearly identified and separated from the rest of the facilities of the site where it is hosted.
 
-#### Article 4. Responsibilities
+##### Article 4. Responsibilities
 
 4.1. The Hosting State shall provide to the European Union the GRC Facilities in accordance with the conditions set out in [Annex 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006594&bijlage=1&z=2016-05-30&g=2016-05-30). The Hosting State shall be financially responsible for the costs as set out in [Annex 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006594&bijlage=2&z=2016-05-30&g=2016-05-30).
 
@@ -96,13 +118,13 @@ The GRC shall be hosted in Noordwijk, the Netherlands. The GRC shall be clearly 
 
 4.4. The Agency shall ensure, under powers delegated to it by the Commission in accordance with the GNSS Regulation, the procurement, the deployment and the qualification of the GRC Equipment, the selection of the entity in charge of the operation of the GRC and the provision of the associated hosting services.
 
-#### Article 5. Ownership
+##### Article 5. Ownership
 
 5.1. The Hosting State shall be the owner of the GRC Facilities.
 
 5.2. The European Union shall be the owner of the GRC Equipment.
 
-#### Article 6. Use, access and protection
+##### Article 6. Use, access and protection
 
 6.1. The Commission and, within the scope of their respective responsibilities, the Agency and the Designated Entities shall have the exclusive right to use the GRC Facilities.
 
@@ -112,11 +134,11 @@ The GRC shall be hosted in Noordwijk, the Netherlands. The GRC shall be clearly 
 
 6.4. The Commission and, within the scope of their respective responsibilities, the Agency and the Designated Entities shall provide the competent authorities of the Hosting State with all information relevant to the security and protection of the premises.
 
-#### Article 7. Application of the [Protocol](onbekend)
+##### Article 7. Application of the [Protocol](onbekend)
 
 The [Protocol](onbekend) shall apply to the GRC, the GRC Staff and members of their household.
 
-#### Article 8. Inviolability
+##### Article 8. Inviolability
 
 8.1. The premises and buildings of the GRC Facilities shall be inviolable. They shall be exempt from search, requisition, confiscation and expropriation by the competent authorities of the Hosting State. The property and assets of the European Union and of the Agency related to the GRC operation shall not be subject to any administrative or legal measure or constraint, whether by executive, administrative, judicial or legislative action, without the prior authorisation of the Court of Justice of the European Union.
 
@@ -126,23 +148,23 @@ The [Protocol](onbekend) shall apply to the GRC, the GRC Staff and members of th
 
 8.4. Without prejudice to the terms of the Agreement, the GRC Facilities shall not become a refuge from justice for persons subject to extradition or deportation, or who are avoiding arrest or service of legal process under the law of the Hosting State.
 
-#### Article 9. Law and authority on the premises
+##### Article 9. Law and authority on the premises
 
 9.1. The GRC Facilities shall be under the exclusive control of the Commission and, within the scope of their respective responsibilities, the Agency and the Designated Entities in accordance with this Agreement.
 
 9.2. Except as otherwise provided in the Agreement and/or in the applicable European Union law, the laws and regulations of the Hosting State shall apply on the premises. The Commission shall inform the Hosting State of any newly adopted European Union regulations and rules which would apply to the premises.
 
-#### Article 10. Official Communications
+##### Article 10. Official Communications
 
 10.1. The Hosting State shall permit and protect unrestricted official communication related to the GRC operation.
 
 10.2. The official communications and transmission of all the documents related to the GRC operation shall be treated in a manner equivalent to that accorded by the Hosting State to diplomatic missions.
 
-#### Article 11. Flag
+##### Article 11. Flag
 
 The European Union flag and the flag with the Agency’s emblem is authorised to fly on the exterior of the buildings where the GRC Facilities are located.
 
-#### Article 12. Fiscal and Customs treatment of GRC
+##### Article 12. Fiscal and Customs treatment of GRC
 
 12.1. Any assets, revenue or other property of the European Union or the Agency used within the scope of GRC shall be exempt from all direct taxes, charges, fiscal duties or other levies.
 
@@ -174,11 +196,11 @@ The European Union flag and the flag with the Agency’s emblem is authorised to
 
 12.5. The European Union and the Agency shall not claim exemption from taxes which are, in fact, no more than charges for public utility services established at a rate according to the amount of services rendered and which can be specifically identified, described and itemised.
 
-#### Article 13. Exemption from import and export restrictions
+##### Article 13. Exemption from import and export restrictions
 
 The European Union and the Agency shall be exempt from prohibitions and restrictions on imports and exports in respect of goods and publications intended for the official use of the GRC operation. Such exemption should be subject to compliance with the limitations pursuant to [Article 4 of the Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=4).
 
-#### Article 14. GRC staff
+##### Article 14. GRC staff
 
 14.1. Without prejudice to applicable European Union law, GRC Staff shall enjoy within the Hosting State the following privileges and immunities:
 
@@ -206,17 +228,17 @@ The European Union and the Agency shall be exempt from prohibitions and restrict
 
 14.4. The privileges and immunities set out in paragraphs 2 and 3 of this article shall not apply to the GRC staff who are nationals or permanent residents of the Hosting State nor to their family members forming part of their household.
 
-#### Article 15. GRC seconded national experts
+##### Article 15. GRC seconded national experts
 
 15.1. The GRC Seconded National Experts shall be subject to the “Decision on the Administrative Board laying down rules on the secondment to the Agency of national experts and national experts in professional training”.
 
 15.2. Any emoluments, allowances and other payments made by the Agency to GRC Seconded National Experts shall be exempt from national taxes.
 
-#### Article 16. Representatives of Member States taking part in the work of the GRC
+##### Article 16. Representatives of Member States taking part in the work of the GRC
 
 Representatives of Member States taking part in the work of the GRC, their advisers and technical experts shall in the performance of their duties and during their travel to and from the place of meeting, enjoy the customary privileges, immunities and facilities.
 
-#### Article 17. Social security
+##### Article 17. Social security
 
 17.1. The GRC Staff and Family Members Forming Part of the Household shall be exempt from compulsory social security contributions in the Hosting State, provided that the person concerned is covered by the relevant provisions under the Staff Regulations. This exemption applies to Family Members Forming Part of the Household unless they take up gainful activity in the hosting State outside the GRC.
 
@@ -224,7 +246,7 @@ Representatives of Member States taking part in the work of the GRC, their advis
 
 17.3. The Agency shall be exempt from any compulsory contributions to social security schemes in the hosting State for the GRC Staff, the GRC Seconded National Experts and Members Forming Part of their Household.
 
-#### Article 18. Notification and Identification Cards
+##### Article 18. Notification and Identification Cards
 
 18.1. The Agency shall promptly, and no later than eight days after their first arrival, notify the Protocol Department of the Ministry of Foreign Affairs of the Hosting State of:
 
@@ -248,7 +270,7 @@ Representatives of Member States taking part in the work of the GRC, their advis
 
 18.3. The identity card shall also serve as a residence permit and a proof of privileges and immunities bestowed upon the individual person according to this Agreement.
 
-#### Article 19. Public services
+##### Article 19. Public services
 
 19.1. The Hosting State shall do its utmost to ensure that the GRC is supplied with the public services necessary for the GRC operation. In case of any interruption or threatened interruption to such services, the Hosting State shall take reasonable steps to ensure that the GRC operation is not prejudiced.
 
@@ -256,11 +278,11 @@ Representatives of Member States taking part in the work of the GRC, their advis
 
 19.3. The Commission shall pay the costs corresponding to the provision of the public services.
 
-#### Article 20. Cooperation by the Hosting States authorities
+##### Article 20. Cooperation by the Hosting States authorities
 
 The competent authorities of the Hosting State shall co-operate at all times with the Commission, and within the scope of their respective responsibilities, with the Agency and the Designated Entities to facilitate the application of the Agreement.
 
-#### Article 21. Annexes
+##### Article 21. Annexes
 
 The following Annexes shall form integral parts of the Agreement:
 
@@ -268,17 +290,17 @@ The following Annexes shall form integral parts of the Agreement:
 
 [ANNEX 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006594&bijlage=2&z=2016-05-30&g=2016-05-30): roles and responsibilities in the realisation and exploitation of the GRC.
 
-#### Article 22. Communication
+##### Article 22. Communication
 
 22.1. All communication in relation to the Agreement shall be done in writing between the authorised representatives of the Parties.
 
 22.2. The Parties shall designate and inform each other of their respective appropriate contact points responsible for the implementation of the Agreement.
 
-#### Article 23. Applicable law
+##### Article 23. Applicable law
 
 European Union law applies to the Agreement supplemented by the national law of the Hosting State where there are no relevant provisions of European Union law.
 
-#### Article 24. Settlement of disputes
+##### Article 24. Settlement of disputes
 
 24.1. All disputes relating to the application and interpretation of the Agreement and its Annexes shall, where possible, be settled amicably by direct negotiations between the Parties.
 
@@ -286,7 +308,7 @@ European Union law applies to the Agreement supplemented by the national law of 
 
 24.3. In the event of failure to settle a dispute in accordance with the procedure set out in the previous paragraphs, one of the Parties shall refer the dispute to the Court of Justice of the European Union, having given the other Parties two months' notice in advance of its intention to do so.
 
-#### Article 25. Final provisions
+##### Article 25. Final provisions
 
 25.1. Nothing in the Agreement shall be interpreted as restricting or adversely affecting the right of the Hosting State to take precautions necessary for its security. Whenever the Hosting State intends to take such precautions, it shall inform the Commission and within the scope of its responsibilities the Agency as soon as circumstances allow in order to determine by mutual agreement the measures necessary to protect the interest of the GRC and of the European Union.
 

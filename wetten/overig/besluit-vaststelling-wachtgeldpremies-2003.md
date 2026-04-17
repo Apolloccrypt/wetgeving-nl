@@ -1,13 +1,38 @@
 ---
 title: "Besluit vaststelling wachtgeldpremies 2003"
 identifier: "BWBR0014364"
-categorie: "Overig"
-publicatiedatum: 2003-01-01
-laatste_update: 2003-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0014364"
+country: "nl"
+rank: "zbo"
+publication_date: "2003-01-01"
+last_updated: "2003-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0014364"
+soort: "zbo"
+stam_id: "6587943"
+version_id: "11426192"
+internal_id: "C32496301"
+label_id: "6576304"
+dtd_version: "2.0"
+original_entry_into_force: "2003-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0014364/2003-01-01/0"
+intitule_bron: "Stcrt.2002-238"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-12-02"
+intitule_published: "2002-12-10"
+intitule_in_force: "2002-12-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2002-238"
+original_signed_date: "2002-12-02"
+original_published_date: "2002-12-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2002-238-p28-SC37474"
+entry_into_force_date: "2003-01-01"
+jci_1_3: "jci1.3:c:BWBR0014364&z=2003-01-01&g=2003-01-01"
+jci_1_0: "1.0:c:BWBR0014364&g=2003-01-01"
+citeertitel_status: "officieel"
+signed_date: "2002-12-02"
+entry_into_force: "2003-01-01"
 ---
-
 # Besluit vaststelling wachtgeldpremies 2003
 
 Gelet op [artikel 85, eerste lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=85);
@@ -16,15 +41,15 @@ Besluit:
 
 Besluit ook gepubliceerd in Stcrt. 2002/228.
 
-#### Artikel 1
+##### Artikel 1
 
 De premies die ten gunste komen van de wachtgeldfondsen, bedoeld in [artikel 85, eerste lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=85), worden voor het jaar 2003 vastgesteld op de percentages, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014364&bijlage=1&z=2003-01-01&g=2003-01-01) bij dit besluit.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van 1 januari 2003.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit wordt aangehaald als: Besluit vaststelling wachtgeldpremies 2003.
 

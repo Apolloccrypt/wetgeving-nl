@@ -1,13 +1,35 @@
 ---
 title: "Handleiding Impuls 2020, Nederlandse Organisatie voor Wetenschappelijk Onderzoek"
 identifier: "BWBR0043571"
-categorie: "Overig"
-publicatiedatum: 2020-05-26
-laatste_update: 2020-05-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043571"
+country: "nl"
+rank: "zbo"
+publication_date: "2020-05-26"
+last_updated: "2020-05-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043571"
+soort: "zbo"
+stam_id: "15465073"
+version_id: "26729962"
+internal_id: "C37887351"
+label_id: "15408384"
+dtd_version: "2.0"
+original_entry_into_force: "2020-05-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043571/2020-05-26/0"
+intitule_bron: "Stcrt.2020-27919"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2020-05-26"
+intitule_in_force: "2020-05-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-27919"
+original_published_date: "2020-05-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-27919"
+entry_into_force_date: "2020-05-26"
+jci_1_3: "jci1.3:c:BWBR0043571&z=2020-05-26&g=2020-05-26"
+jci_1_0: "1.0:c:BWBR0043571&g=2020-05-26"
+citeertitel_status: "redactioneel"
+entry_into_force: "2020-05-26"
 ---
-
 # Handleiding Impuls 2020, Nederlandse Organisatie voor Wetenschappelijk Onderzoek
 
 ### 1. Inleiding

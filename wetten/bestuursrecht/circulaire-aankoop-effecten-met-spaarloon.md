@@ -1,13 +1,34 @@
 ---
 title: "Circulaire Aankoop effecten met spaarloon"
 identifier: "BWBR0008482"
-categorie: "Bestuursrecht"
-publicatiedatum: 1997-12-15
-laatste_update: 1997-12-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008482"
+country: "nl"
+rank: "circulaire"
+publication_date: "1997-12-15"
+last_updated: "1997-12-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008482"
+soort: "circulaire"
+stam_id: "6343833"
+version_id: "10998822"
+internal_id: "C14891601"
+label_id: "6332644"
+original_entry_into_force: "1997-12-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008482/1997-12-15/0"
+intitule_bron: "Stcrt.1997-241"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1997-12-15"
+intitule_in_force: "1997-12-15"
+intitule_status: "goed"
+original_publication: "Stcrt.1997-241"
+original_published_date: "1997-12-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1997-241-p15-SC11695"
+entry_into_force_date: "1997-12-15"
+jci_1_3: "jci1.3:c:BWBR0008482&z=1997-12-15&g=1997-12-15"
+jci_1_0: "1.0:c:BWBR0008482&g=1997-12-15"
+citeertitel_status: "redactioneel"
+entry_into_force: "1997-12-15"
 ---
-
 # Circulaire Aankoop effecten met spaarloon
 
 Circulaire aan de Ministers

@@ -1,20 +1,43 @@
 ---
-title: "Instellingsbesluit commissie evaluatie pilots publieke en private authenticatiemiddelen"
+title: "Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties houdende instelling van een commissie voor de begeleiding van het evaluatieonderzoek inzake de pilots met publieke en private authenticatiemiddelen (Instellingsbesluit commissie evaluatie pilots publieke en private authenticatiemiddelen)"
 identifier: "BWBR0037443"
-categorie: "Overig"
-publicatiedatum: 2016-02-14
-laatste_update: 2016-02-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037443"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2016-02-14"
+last_updated: "2016-02-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037443"
+soort: "ministeriele-regeling"
+stam_id: "13366343"
+version_id: "22915672"
+internal_id: "C33139311"
+label_id: "13334134"
+dtd_version: "2.0"
+original_entry_into_force: "2016-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037443/2016-02-14/0"
+intitule_bron: "Stcrt.2015-48140"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2015-12-29"
+intitule_in_force: "2015-12-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-48140"
+original_published_date: "2015-12-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-48140"
+entry_into_force_date: "2016-01-01"
+jci_1_3: "jci1.3:c:BWBR0037443&z=2016-02-14&g=2016-02-14"
+jci_1_0: "1.0:c:BWBR0037443&g=2016-02-14"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit commissie evaluatie pilots publieke en private authenticatiemiddelen"
+entry_into_force: "2016-01-01"
 ---
-
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties houdende instelling van een commissie voor de begeleiding van het evaluatieonderzoek inzake de pilots met publieke en private authenticatiemiddelen (Instellingsbesluit commissie evaluatie pilots publieke en private authenticatiemiddelen)
 
 Handelende in overeenstemming met de Minister van Economische Zaken;
 
 Besluit:
 
-#### Artikel 1. Instelling en taak
+##### Artikel 1. Instelling en taak
 
 De commissie ziet toe op de uitvoering van zorgvuldig evaluatieonderzoek van de pilots met publieke en private authenticatiemiddelen en heeft tot taak de Minister van Binnenlandse Zaken en Koninkrijksrelaties te adviseren over:
 
@@ -22,7 +45,7 @@ De commissie ziet toe op de uitvoering van zorgvuldig evaluatieonderzoek van de 
 
 - •. de na de evaluatie te nemen vervolgstappen, in het bijzonder het wel/niet/onder welke randvoorwaarden verder uitrollen van publieke en/of private authenticatiemiddelen waarmee publieke diensten worden afgenomen.
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 Het evaluatieonderzoek heeft tot doel:
 
@@ -30,15 +53,15 @@ Het evaluatieonderzoek heeft tot doel:
 
 - •. dit inzicht op een zodanige wijze te formuleren, dat onderlinge vergelijkbaarheid bewerkstelligd wordt.
 
-#### Artikel 3. Samenstelling
+##### Artikel 3. Samenstelling
 
 De commissie bestaat uit vier onafhankelijke en onpartijdige leden, met een staat van dienst in de betrokken disciplines: een voorzitter, tevens lid, en drie leden.
 
-#### Artikel 4. Instellingsduur
+##### Artikel 4. Instellingsduur
 
 De commissie wordt ingesteld met ingang van 16 december 2015 en wordt opgeheven na afronding van de werkzaamheden (naar verwachting: medio 2016).
 
-#### Artikel 5. Leden
+##### Artikel 5. Leden
 
 Tot leden van de commissie worden benoemd:
 
@@ -52,7 +75,7 @@ Tot leden van de commissie worden benoemd:
 
 De benoeming geschiedt voor de duur van de commissie. Indien een tussentijdse vacature ontstaat, vindt een benoeming voor die vacature plaats voor de resterende duur van de zittingsperiode.
 
-#### Artikel 6. Werkwijze
+##### Artikel 6. Werkwijze
 
 De commissie stelt haar eigen werkwijze vast, met dien verstande dat:
 
@@ -62,11 +85,11 @@ De commissie stelt haar eigen werkwijze vast, met dien verstande dat:
 
 - •. de commissie begeleid wordt door een ambtelijk secretaris, ondersteund wordt door de gedelegeerd opdrachtgever en gefaciliteerd wordt door de stichting Centrum Arbeidsverhoudingen Overheidspersoneel (CAOP).
 
-#### Artikel 7. Verantwoording
+##### Artikel 7. Verantwoording
 
 De commissie stelt uiterlijk in juni 2016 een eindrapport op. Dit bevat een omschrijving van de werkzaamheden alsmede, op basis van de evaluatieonderzoeken geformuleerde, conclusies en aanbevelingen. Het eindrapport wordt uitgebracht aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
-#### Artikel 8. Proces
+##### Artikel 8. Proces
 
 De directeur B&I of degene die hem opvolgt, namens hem de gedelegeerd opdrachtgever:
 
@@ -82,15 +105,15 @@ De directeur B&I of degene die hem opvolgt, namens hem de gedelegeerd opdrachtge
 
 - •. bevordert dat na besluitvorming door de Tweede Kamer de vervolgstappen ter hand worden genomen en dat de uitkomsten van de besluitvorming worden meegenomen bij de verdere voorbereiding van de Wet generieke digitale infrastructuur (gdi).
 
-#### Artikel 9. Vergoeding
+##### Artikel 9. Vergoeding
 
 De voorzitter en de andere leden van de commissie ontvangen een vaste vergoeding met overeenkomstige toepassing van hetgeen inzake commissies is bepaald bij of krachtens de [Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775) (Stb 2008, 495, zoals gewijzigd).
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 januari 2016 en werkt terug tot en met 16 december 2015.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit commissie evaluatie pilots publieke en private authenticatiemiddelen.
 

@@ -1,13 +1,39 @@
 ---
-title: "Besluit erkenning 4,5% systeemrisicobuffer Noorwegen 2023"
+title: "Besluit van De Nederlandsche Bank N.V. van 21 augustus 2023 tot erkenning van de sinds 31 december 2022 van toepassing zijnde macroprudentiële maatregel van het Ministerie van Financiën van Noorwegen inhoudende een systeemrisicobufferpercentage van 4,5% (Besluit erkenning 4,5% systeemrisicobuffer Noorwegen 2023)"
 identifier: "BWBR0048576"
-categorie: "Overig"
-publicatiedatum: 2025-12-01
-laatste_update: 2025-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048576"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-12-01"
+last_updated: "2025-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048576"
+soort: "zbo"
+stam_id: "16843743"
+version_id: "29594032"
+internal_id: "C42328321"
+label_id: "16756104"
+dtd_version: "2.0"
+original_entry_into_force: "2023-08-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048576/2025-12-01/0"
+intitule_bron: "Stcrt.2023-23927"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-08-21"
+intitule_published: "2023-08-29"
+intitule_in_force: "2023-08-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-23927"
+original_signed_date: "2023-08-21"
+original_published_date: "2023-08-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-23927"
+entry_into_force_date: "2023-08-30"
+jci_1_3: "jci1.3:c:BWBR0048576&z=2025-12-01&g=2025-12-01"
+jci_1_0: "1.0:c:BWBR0048576&g=2025-12-01"
+citeertitel_status: "officieel"
+short_title: "Besluit erkenning 4,5% systeemrisicobuffer Noorwegen 2023"
+signed_date: "2023-08-21"
+entry_into_force: "2023-08-30"
 ---
-
 # Besluit van De Nederlandsche Bank N.V. van 21 augustus 2023 tot erkenning van de sinds 31 december 2022 van toepassing zijnde macroprudentiële maatregel van het Ministerie van Financiën van Noorwegen inhoudende een systeemrisicobufferpercentage van 4,5% (Besluit erkenning 4,5% systeemrisicobuffer Noorwegen 2023)
 
 Na openbare consultatie;
@@ -22,7 +48,7 @@ Gelet op [Richtlijn nr. 2013/36](32013L0036)/EU van het Europees Parlement en de
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
@@ -40,15 +66,15 @@ In dit besluit wordt verstaan onder:
 
 - e). **CRR:** [Verordening (EU) nr. 575/2013](32013R0575) van het Europees Parlement en de Raad van 26 juni 2013 betreffende prudentiële vereisten voor kredietinstellingen en beleggingsondernemingen en tot wijziging van [Verordening (EU) nr. 648/2012](32012R0648), oftewel verordening kapitaalvereisten of de Capital Requirements Regulation.
 
-#### Artikel 2. Erkenning systeemrisicobufferpercentage geldend in Noorwegen
+##### Artikel 2. Erkenning systeemrisicobufferpercentage geldend in Noorwegen
 
 1. Een instelling waarvan de risicogewogen blootstellingen in Noorwegen meer dan 5 miljard Noorse Kroon bedragen, beschikt voor blootstellingen in Noorwegen over een overeenkomstig artikel 133, tweede lid, CRD berekende systeemrisicobuffer van 4,5% op individuele, gesubconsolideerde en geconsolideerde basis, zoals van toepassing in overeenstemming met deel één, titel II, van de CRR.
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 4. Citeertitel
+##### Artikel 4. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit erkenning 4,5% systeemrisicobuffer Noorwegen 2023.
 

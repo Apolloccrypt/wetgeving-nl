@@ -1,13 +1,36 @@
 ---
-title: "Besluit verkeersbegeleidingstarieven scheepvaartverkeer"
+title: "Besluit van 4 november 1994, houdende bepalingen met betrekking tot het verkeersbegeleidingstarief"
 identifier: "BWBR0007006"
-categorie: "Verkeer"
-publicatiedatum: 1996-01-12
-laatste_update: 1996-01-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007006"
+country: "nl"
+rank: "amvb"
+publication_date: "1996-01-12"
+last_updated: "1996-01-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007006"
+soort: "AMvB"
+stam_id: "1194763"
+version_id: "1762512"
+internal_id: "C1762511"
+label_id: "1157274"
+dtd_version: "2.0"
+original_entry_into_force: "1995-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007006/1996-01-12/0"
+intitule_bron: "Stb.1994-807"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-11-04"
+intitule_in_force: "1995-08-31"
+intitule_status: "goed"
+original_publication: "Stb.1994-807"
+original_signed_date: "1994-11-04"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1995-10-01"
+jci_1_3: "jci1.3:c:BWBR0007006&z=1996-01-12&g=1996-01-12"
+jci_1_0: "1.0:c:BWBR0007006&g=1996-01-12"
+citeertitel_status: "officieel"
+short_title: "Besluit verkeersbegeleidingstarieven scheepvaartverkeer"
+signed_date: "1994-11-04"
+entry_into_force: "1995-10-01"
 ---
-
 # Besluit van 4 november 1994, houdende bepalingen met betrekking tot het verkeersbegeleidingstarief
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 17 mei 1994, nr. J 30.865/94, Directoraat-Generaal Scheepvaart en Maritieme Zaken, Stafafdeling Wetgeving en Juridische Zaken;
@@ -22,7 +45,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk I. Definities
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -34,7 +57,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk II. Verschuldigdheid en maatstaven
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het bij ministeriële regeling vastgestelde tarief is verschuldigd voor de vaart met een zeeschip in de volgende verkeersbegeleidingstariefgebieden:
 
@@ -50,7 +73,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 2. De tariefgebieden omvatten de op de kaart in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0007006&bijlage=I&z=1996-01-12&g=1996-01-12) bij dit besluit aangegeven scheepvaartwegen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het tarief is verschuldigd bij de passage vanaf zee met het zeeschip, van de basislijn, bedoeld in:
 
@@ -66,7 +89,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 3. De basislijn is per tariefgebied aangegeven op de kaart in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0007006&bijlage=I&z=1996-01-12&g=1996-01-12), bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007006&hoofdstuk=II&artikel=2&z=1996-01-12&g=1996-01-12), en per tariefgebied omschreven in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0007006&bijlage=II&z=1996-01-12&g=1996-01-12) bij dit besluit.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Voor de bepaling van de grondslag en de hoogte van het verschuldigde tarief geldt de lengte van het zeeschip, afgerond op hele meters, waarbij alleen gehele meters in aanmerking worden genomen.
 
@@ -74,7 +97,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk III. Vrijstellingen en ontheffingen
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het tarief is niet verschuldigd indien een zeeschip behoort tot een van de volgende categorieën:
 
@@ -92,29 +115,29 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. het in- of ontschepen van niet-betalende passagiers.
 
-#### Artikel 6
+##### Artikel 6
 
 Onze Minister kan geheel of gedeeltelijk ontheffing verlenen van de verplichting tot het betalen van het tarief, indien het desbetreffende zeeschip deelneemt aan een manifestatie of andere gebeurtenis, waarbij enig openbaar belang is betrokken.
 
 ### Hoofdstuk IV. Bijzonder tarief
 
-#### Artikel 7
+##### Artikel 7
 
 Voor de bepaling van het tarief voor gesleepte vaart geldt dat de sleepboot en het gesleepte zeeschip elk afzonderlijk naar hun lengte het tarief verschuldigd zijn.
 
 ### Hoofdstuk V. Zekerheidsstelling
 
-#### Artikel 8
+##### Artikel 8
 
 Door of namens de kapitein, eigenaar of rompbevrachter van een naar zee vertrekkend zeeschip, waarvoor het tarief nog niet is voldaan, dient ten genoege van de met de inning van het tarief belaste instantie zekerheid gesteld te worden voor de betaling van het tarief.
 
 ### Hoofdstuk VI. Slotbepalingen
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit verkeersbegeleidingstarieven scheepvaartverkeer.
 

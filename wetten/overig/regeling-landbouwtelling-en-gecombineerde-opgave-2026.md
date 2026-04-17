@@ -1,13 +1,39 @@
 ---
-title: "Regeling Landbouwtelling en Gecombineerde opgave 2026"
+title: "Regeling van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur van 11 februari 2026, nr. WJZ/101289183, tot instelling van een Landbouwtelling en tot het aanbieden van een Gecombineerde opgave (Regeling Landbouwtelling en Gecombineerde opgave 2026) [KetenID WGK 28313]"
 identifier: "BWBR0052301"
-categorie: "Overig"
-publicatiedatum: 2026-02-18
-laatste_update: 2026-02-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052301"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-02-18"
+last_updated: "2026-02-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052301"
+soort: "ministeriele-regeling"
+stam_id: "17760633"
+version_id: "31379672"
+internal_id: "C44845131"
+label_id: "17658754"
+dtd_version: "2.0"
+original_entry_into_force: "2026-02-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052301/2026-02-18/0"
+intitule_bron: "Stcrt.2026-3657"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2026-02-11"
+intitule_published: "2026-02-17"
+intitule_in_force: "2026-02-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-3657"
+original_signed_date: "2026-02-11"
+original_published_date: "2026-02-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-3657"
+entry_into_force_date: "2026-02-18"
+jci_1_3: "jci1.3:c:BWBR0052301&z=2026-02-18&g=2026-02-18"
+jci_1_0: "1.0:c:BWBR0052301&g=2026-02-18"
+citeertitel_status: "officieel"
+short_title: "Regeling Landbouwtelling en Gecombineerde opgave 2026"
+signed_date: "2026-02-11"
+entry_into_force: "2026-02-18"
 ---
-
 # Regeling van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur van 11 februari 2026, nr. WJZ/101289183, tot instelling van een Landbouwtelling en tot het aanbieden van een Gecombineerde opgave (Regeling Landbouwtelling en Gecombineerde opgave 2026) [KetenID WGK 28313]
 
 Handelende in overeenstemming met de Staatssecretaris van Volksgezondheid, Welzijn en Sport;
@@ -40,7 +66,7 @@ Besluit:
 
 #### Paragraaf 1. Begripsomschrijvingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -72,7 +98,7 @@ In deze regeling wordt verstaan onder:
 
 #### Paragraaf 2. Landbouwtelling en Gecombineerde opgave
 
-#### Artikel 2
+##### Artikel 2
 
 1. Als beschrijvingsbiljet als bedoeld in [artikel 24, eerste lid, van de Landbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&artikel=24) wordt vastgesteld het formulier in de bijlage bij deze regeling.
 
@@ -94,7 +120,7 @@ In deze regeling wordt verstaan onder:
 
 6. Het formulier dient voor het op basis van [artikel 47 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=47) verstrekken van de in het formulier gevraagde informatie die nodig is voor het bepalen van de groep van potentiële belastingplichtigen voor de CO2-heffing glastuinbouw, bedoeld in [artikel 71v van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=71v), aan de inspecteur van de rijksbelastingdienst.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het tijdvak waarin een Landbouwtelling als bedoeld in [artikel 25, eerste lid, van de Landbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&artikel=25) wordt gehouden is 1 april 2026 tot en met 15 mei 2026.
 
@@ -102,7 +128,7 @@ In deze regeling wordt verstaan onder:
 
 3. In afwijking van en in aanvulling op [artikel 10, eerste lid, van de Uitvoeringsregeling GLB 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&artikel=10) wordt de periode, bedoeld in artikel 10, eerste lid, van de Uitvoeringsregeling GLB 2023 verlengd tot en met 18 mei 2026.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een opgaveplichtige verstrekt, voor zover van toepassing:
 
@@ -132,7 +158,7 @@ In deze regeling wordt verstaan onder:
 
 #### Paragraaf 3. Opgave aanspraak Diergezondheidsfonds
 
-#### Artikel 5
+##### Artikel 5
 
 1. Betalingen uit het Diergezondheidsfonds voor maatregelen en voorzieningen die verband houden met de preventie en de bestrijding van besmettelijke dierziekten worden verricht met inachtneming van Deel I en Deel II, onderdeel 1.2.1.3, van de staatssteunrichtsnoeren en artikel 26 van [Verordening (EU) 2022/2472](32022R2472).
 
@@ -146,11 +172,11 @@ In deze regeling wordt verstaan onder:
 
 #### Paragraaf 4. Elektronische weg
 
-#### Artikel 6
+##### Artikel 6
 
 Het formulier wordt door de opgaveplichtige, respectievelijk de houder, langs elektronische weg ingevuld, ondertekend en ingediend op het internetadres mijn.rvo.nl.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Een opgaveplichtige of de houder kan op de volgende wijzen elektronisch toegang krijgen tot het formulier:
 
@@ -162,7 +188,7 @@ Het formulier wordt door de opgaveplichtige, respectievelijk de houder, langs el
 
 2. Ondertekening van het elektronisch formulier geschiedt door een akkoordverklaring van de opgaveplichtige, een houder of de gemachtigde van een opgaveplichtige.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De minister neemt een elektronisch verzonden formulier dat niet overeenkomstig deze regeling is ingediend niet in behandeling.
 
@@ -170,7 +196,7 @@ Het formulier wordt door de opgaveplichtige, respectievelijk de houder, langs el
 
 3. De minister informeert degene die het elektronisch verzonden formulier heeft ondertekend zo spoedig mogelijk over een besluit als bedoeld in het eerste of het tweede lid.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De minister kan ontheffing verlenen van de verplichting, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0052301&paragraaf=4&artikel=6&z=2026-02-18&g=2026-02-18), om het formulier langs elektronische weg in te vullen, in te dienen en te ondertekenen.
 
@@ -184,15 +210,15 @@ Het formulier wordt door de opgaveplichtige, respectievelijk de houder, langs el
 
 #### Paragraaf 5. Overige bepalingen
 
-#### Artikel 10
+##### Artikel 10
 
 De [Regeling Landbouwtelling en Gecombineerde opgave 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0050768) wordt ingetrokken.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 12
+##### Artikel 12
 
 Deze regeling wordt aangehaald als: Regeling Landbouwtelling en Gecombineerde opgave 2026.
 

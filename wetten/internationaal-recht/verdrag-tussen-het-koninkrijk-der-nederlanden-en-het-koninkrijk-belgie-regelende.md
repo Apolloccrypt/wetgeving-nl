@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België, regelende de verlichting en bebakening van de Westerschelde en haar mondingen"
 identifier: "BWBV0005170"
-categorie: "Internationaal recht"
-publicatiedatum: 1959-07-15
-laatste_update: 1959-07-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005170"
+country: "nl"
+rank: "verdrag"
+publication_date: "1959-07-15"
+last_updated: "1959-07-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005170"
+soort: "verdrag"
+stam_id: "10004493723"
+version_id: "10004708202"
+internal_id: "C10007007581"
+label_id: "10004478424"
+dtd_version: "2.0"
+original_entry_into_force: "1959-07-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005170/1959-07-15/0"
+intitule_bron: "Trb.1957-221"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1957-11-15"
+intitule_in_force: "1959-08-25"
+intitule_status: "goed"
+original_publication: "Trb.1957-221"
+original_published_date: "1957-11-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1957-221"
+entry_into_force_date: "1959-07-15"
+jci_1_3: "jci1.3:c:BWBV0005170&z=1959-07-15&g=1959-07-15"
+jci_1_0: "1.0:c:BWBV0005170&g=1959-07-15"
+citeertitel_status: "redactioneel"
+entry_into_force: "1959-07-15"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België, regelende de verlichting en bebakening van de Westerschelde en haar mondingen
 
 Hare Majesteit de Koningin der Nederlanden en Zijne Majesteit de Koning der Belgen, de noodzakelijkheid hebbende erkend nieuwe schikkingen te treffen aangaande de verlichting en de bebakening van de Westerschelde en haar mondingen, hebben te dien einde tot Hun gevolmachtigden benoemd, te weten:
@@ -22,7 +44,7 @@ Zijne Excellentie F. X. J. M. G. Baron van der Straten-Waillet, Ambassadeur te '
 
 Die, na elkander hun in goede en behoorlijke vorm bevonden volmachten te hebben overgelegd, zijn overeengekomen als volgt:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de verlichting en de bebakening van de Westerschelde en haar mondingen zijn of worden:
 
@@ -591,21 +613,21 @@ Voor de verlichting en de bebakening van de Westerschelde en haar mondingen zijn
 | 12. | Een verlichte peilschaal, Oosterweel, op: | ± | ———— |
 | 12. | Een verlichte peilschaal, Oosterweel, op: | ± | 04-23,6 E |
 
-#### Artikel 2
+##### Artikel 2
 
 De aanschaffing, de plaatsing, het onderhoud en de instandhouding van de lichtboeien, lichtbakens en lichtopstanden of lichttorens met bijbehorende opstallen, alsmede van de bakens en de peilschalen, geschieden op Belgisch grondgebied door en voor rekening van de Belgische Regering.
 
-#### Artikel 3
+##### Artikel 3
 
 De aanschaffing, de plaatsing, het onderhoud en de instandhouding van de lichtboeien genoemd in artikel 1 onder A. nrs. 3, 4, 6, 7, 15, 16, 21, 26, 50 en 55, alsmede van de lichtbakens en de lichtopstanden of lichttorens met bijbehorende opstallen genoemd in artikel 1 onder B. nrs. 4, 6, 10, 11, 13, 27 en 38, geschieden door en voor rekening van de Nederlandse Regering.
 
 Wat betreft de aanschaffing, de plaatsing, het onderhoud en de instandhouding van de lichtbakens, lichtopstanden of lichttorens met bijbehorende opstallen genoemd in artikel 1 onder B. nrs. 5, 12, 14 en 18, blijft toegepast het regime vastgesteld in artikel 18 van het Tractaat van 5 november 1842 en in het Reglement van 20 mei 1843 ter uitvoering van dit artikel.
 
-#### Artikel 4
+##### Artikel 4
 
 Met uitzondering van wat voorzien is in voorgaand artikel, geschieden de aanschaffing, de plaatsing, het onderhoud en de instandhouding van de lichtboeien, lichtbakens en lichtopstanden of lichttorens met bijbehorende opstallen, genoemd in artikel 1 en gelegen op Nederlands grondgebied, alsmede van de peilschalen genoemd in hetzelfde artikel en gelegen op hetzelfde grondgebied, door de zorg van de Nederlandse Regering in overleg met en voor rekening van de Belgische Regering.
 
-#### Artikel 5
+##### Artikel 5
 
 De Nederlandse Regering verplicht zich de lichtboeien, lichtbakens, lichtopstanden of lichttorens met bijbehorende opstallen, alsmede de peilschalen, bedoeld in artikel 4, in goede staat te onderhouden.
 
@@ -619,59 +641,59 @@ In geval van beschadiging door derden draagt de Nederlandse Regering zorg voor v
 
 Wanneer een regeling in der minne wordt getroffen, wordt deze vooraf aan de goedkeuring van de Permanente Commissarissen van toezicht op de Scheldevaart, als bedoeld in paragraaf 2 van artikel 9 van het Tractaat, gesloten tussen Nederland en België op 19 april 1839, onderworpen. Voor het geval de schade veroorzaakt: is door onbekenden of door overmacht, geschiedt de herstelling of vervanging voor rekening van de Belgische Regering.
 
-#### Artikel 6
+##### Artikel 6
 
 Indien lichtboeien bedoeld in artikel 4 of andere voorwerpen bedoeld in hetzelfde artikel moeten worden voorzien van radarreflectoren, ramarks, responders of andere hulpmiddelen voor de navigatie, zullen deze - nadat hierover tussen beide Regeringen overeenstemming is bereikt - door de zorgen van de Nederlandse Regering in overleg met en voor rekening van de Belgische Regering worden aangeschaft, geplaatst en onderhouden op de voorwaarden als in artikel 5 overeengekomen.
 
 Het bovenstaande geldt eveneens met betrekking tot andersoortige op Nederlands grondgebied gelegen of te plaatsen installaties, tenzij de Permanente Commissarissen van toezicht op de Scheldevaart in onderlinge overeenstemming anders bepalen.
 
-#### Artikel 7
+##### Artikel 7
 
 Ten einde op Nederlands grondgebied te kunnen voorzien in onmiddellijke behoeften, verband houdende met beschadiging, verlies, onderhoudswerkzaamheden, vermeerdering van het aantal uit te leggen lichtboeien of anderszins, stelt de Belgische Regering een door de Permanente Commissarissen van toezicht op de Scheldevaart vast te stellen aantal complete reserve lichtboeien ter beschikking van de Nederlandse Regering.
 
-#### Artikel 8
+##### Artikel 8
 
 Voor het onderhouden, herstellen, plaatsen, verplaatsen, wijzigen, uitbreiden, aanvullen en in stand houden van lichtboeien bedoeld in artikel 4 is de Belgische Regering aan de Nederlandse Regering jaarlijks een vergoeding verschuldigd voor de tijd, dat deze voorwerpen werkelijk hebben dienst gedaan. Deze vergoeding wordt voor iedere lichtboei bepaald op drieduizend gulden voor een vol jaar. Zij kan jaarlijks worden herzien, indien de omstandigheden daartoe aanleiding geven.
 
 De betaling van de vergoeding geschiedt binnen drie maanden na toezending aan de Belgische Regering van een declaratie door of namens de Nederlandse Regering. Deze declaratie, opgemaakt over het kalenderjaar, wordt uiterlijk op de 15e januari, volgend op het jaar waarop zij betrekking heeft, ingediend. Als bijlage wordt daarbij gevoegd een staat waarin de tijden zijn vermeld, waarop de bedoelde lichtboeien in dat kalenderjaar hebben dienst gedaan.
 
-#### Artikel 9
+##### Artikel 9
 
 Alle kosten voor personeel en materieel door de Nederlandse Regering te maken voor het onderhouden, herstellen, plaatsen, verplaatsen, wijzigen, uitbreiden, aanvullen en in stand houden van de in de artikelen 4 en 6 genoemde maar niet onder artikel 8 begrepen voorwerpen, zullen door de Permanente Commissarissen van beide landen in gemeen overleg worden vastgesteld naar de regelen welke gelden voor de andere diensten van dezelfde aard op de Nederlandse wateren.
 
 De betalingen zullen plaats vinden binnen twee maanden nadat door of namens de Nederlandse Regering aan de Belgische Regering betaallijsten of declaraties, vergezeld van de bewijsstukken tot staving van de uitgaven naar behoren door de bevoegde Nederlandse autoriteiten gewaarmerkt, zullen zijn aangeboden.
 
-#### Artikel 10
+##### Artikel 10
 
 Alle kosten voor personeel en materieel, verbonden aan het plaatsen van lichtboeien of andere installaties, benodigd voor het aangeven van wrakken of andere scheepvaarthindernissen op Nederlands grondgebied, komen voor rekening van de Nederlandse Regering.
 
-#### Artikel 11
+##### Artikel 11
 
 De Belgische Permanente Commissarissen van toezicht op de Scheldevaart zullen het recht hebben alle werken welke door de zorgen van de Nederlandse Regering voor rekening van de Belgische Regering worden uitgevoerd, te onderzoeken en op het onderhoud daarvan toe te zien.
 
 Ingeval door henzelve of op andere wijze geconstateerd wordt, dat de lichten of andere voorwerpen bedoeld in de artikelen 4 en 6 niet naar behoren functioneren, onderhouden of geplaatst worden, zullen zij er hun Nederlandse ambtgenoten terstond van in kennis stellen, opdat maatregelen genomen kunnen worden om hierin te voorzien.
 
-#### Artikel 12
+##### Artikel 12
 
 De plannen en begrotingen van alle uit te voeren werken op Nederlands gebied welke geschieden voor rekening van de Belgische Regering, zullen zoveel mogelijk in contracten worden vastgelegd. Deze werken zullen, zoveel mogelijk, in het openbaar worden aanbesteed.
 
 Zij worden niet uitgevoerd, dan nadat zij door de Permanente Commissarissen van beide landen zullen zijn goedgekeurd.
 
-#### Artikel 13
+##### Artikel 13
 
 De Permanente Commissarissen van beide landen worden bij deze gemachtigd tot het treffen der maatregelen welke voor de uitvoering van de vorenstaande artikelen nodig zullen zijn.
 
 Voorts hebben zij de bevoegdheid in onderlinge overeenstemming aan de verlichting, bebakening, peilschalen en andere in dit Verdrag genoemde installaties wijzigingen en uitbreidingen aan te brengen, indien dit noodzakelijk mocht blijken.
 
-#### Artikel 14
+##### Artikel 14
 
 De plaatsing van lichtschepen en lichtboeien in de Wielingen laat de wederzijdse soevereine aanspraken op dit gebied onverlet.
 
-#### Artikel 15
+##### Artikel 15
 
 Het leggen en verleggen, zomede het onderhouden van de thans of in de toekomst nodig geachte onverlichte tonnen blijft geschieden door beide Regeringen, elk in haar gedeelte van de stroom, overeenkomstig het bepaalde in artikel 9, paragraaf 2, van het Tractaat gesloten tussen België en Nederland op 19 april 1839.
 
-#### Artikel 16
+##### Artikel 16
 
 De volgende overeenkomsten worden bij deze vervallen verklaard:
 
@@ -689,7 +711,7 @@ De volgende overeenkomsten worden bij deze vervallen verklaard:
 
 - 7. de Overeenkomst tussen België en Nederland voor de verbetering van de verlichting en bebakening der Schelde, ondertekend te 's-Gravenhage op 8 oktober 1907.
 
-#### Artikel 17
+##### Artikel 17
 
 Dit Verdrag zal worden bekrachtigd en de akten van bekrachtiging zullen zo spoedig mogelijk te Brussel worden uitgewisseld.
 

@@ -1,13 +1,35 @@
 ---
-title: "Besluit herindeling van de ministeriële taak met betrekking tot opvang van asielzoekers"
+title: "Besluit van 5 september 1994, houdende de herindeling van de ministeriële taak met betrekking tot de opvang van asielzoekers"
 identifier: "BWBR0006904"
-categorie: "Overig"
-publicatiedatum: 1994-09-16
-laatste_update: 1994-09-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006904"
+country: "nl"
+rank: "kb"
+publication_date: "1994-09-16"
+last_updated: "1994-09-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006904"
+soort: "KB"
+stam_id: "563073"
+version_id: "820152"
+internal_id: "C820151"
+label_id: "546754"
+dtd_version: "2.0"
+original_entry_into_force: "1994-09-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006904/1994-09-16/0"
+intitule_bron: "Stb.1994-682"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-09-05"
+intitule_status: "goed"
+original_publication: "Stb.1994-682"
+original_signed_date: "1994-09-05"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1994-09-16"
+jci_1_3: "jci1.3:c:BWBR0006904&z=1994-09-16&g=1994-09-16"
+jci_1_0: "1.0:c:BWBR0006904&g=1994-09-16"
+citeertitel_status: "officieel"
+short_title: "Besluit herindeling van de ministeriële taak met betrekking tot opvang van asielzoekers"
+signed_date: "1994-09-05"
+entry_into_force: "1994-09-16"
 ---
-
 # Besluit van 5 september 1994, houdende de herindeling van de ministeriële taak met betrekking tot de opvang van asielzoekers
 
 Op de voordracht van Onze Minister-President, Minister van Algemene Zaken, d.d. 31 augustus 1994 nr. 94M005397;
@@ -16,7 +38,7 @@ Gelet op [artikel 44 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 Hebben goedgevonden en verstaan:
 
-#### Enig artikel
+##### Enig artikel
 
 1. Onze Minister van Justitie wordt belast met de behartiging van de aangelegenheden op het terrein van de opvang van asielzoekers, voor zover deze zorg voor 22 augustus 1994 was opgedragen aan Onze Minister van Welzijn, Volksgezondheid en Cultuur.
 

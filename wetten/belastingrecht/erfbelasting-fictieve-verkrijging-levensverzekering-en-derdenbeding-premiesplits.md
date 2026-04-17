@@ -1,13 +1,38 @@
 ---
 title: "Erfbelasting, fictieve verkrijging, levensverzekering en derdenbeding, premiesplitsing"
 identifier: "BWBR0029172"
-categorie: "Belastingrecht"
-publicatiedatum: 2022-12-02
-laatste_update: 2010-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029172"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2022-12-02"
+last_updated: "2010-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029172"
+soort: "beleidsregel"
+stam_id: "11130683"
+version_id: "18205732"
+internal_id: "C25300151"
+label_id: "11106214"
+dtd_version: "2.0"
+original_entry_into_force: "2010-12-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029172/2022-12-02/0"
+intitule_bron: "Stcrt.2010-20508"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-12-14"
+intitule_published: "2010-12-21"
+intitule_in_force: "2010-12-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-20508"
+original_signed_date: "2010-12-14"
+original_published_date: "2010-12-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-20508"
+entry_into_force_date: "2010-12-22"
+jci_1_3: "jci1.3:c:BWBR0029172&z=2022-12-02&g=2022-12-02"
+jci_1_0: "1.0:c:BWBR0029172&g=2022-12-02"
+citeertitel_status: "redactioneel"
+signed_date: "2010-12-14"
+entry_into_force: "2010-12-22"
 ---
-
 # Erfbelasting, fictieve verkrijging, levensverzekering en derdenbeding, premiesplitsing
 
 De staatssecretaris van Financiën heeft het volgende besloten.

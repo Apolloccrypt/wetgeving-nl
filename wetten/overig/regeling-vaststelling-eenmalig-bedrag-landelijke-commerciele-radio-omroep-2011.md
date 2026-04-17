@@ -1,20 +1,46 @@
 ---
-title: "Regeling vaststelling eenmalig bedrag landelijke commerciële radio-omroep 2011"
+title: "Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 17 maart 2011, nr. WJZ / 11039880, houdende regels met betrekking tot het eenmalig bedrag verschuldigd door verkrijgers of houders van een vergunning voor het gebruik van frequentieruimte bestemd voor landelijke commerciële radio-omroep (Regeling vaststelling eenmalig bedrag landelijke commerciële radio-omroep 2011)"
 identifier: "BWBR0029752"
-categorie: "Overig"
-publicatiedatum: 2016-12-17
-laatste_update: 2016-12-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029752"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2016-12-17"
+last_updated: "2016-12-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029752"
+soort: "ministeriele-regeling"
+stam_id: "11277033"
+version_id: "18469132"
+internal_id: "C25753501"
+label_id: "11251174"
+dtd_version: "2.0"
+original_entry_into_force: "2011-03-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029752/2016-12-17/0"
+intitule_bron: "Stcrt.2011-5069"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-03-17"
+intitule_published: "2011-03-22"
+intitule_in_force: "2011-03-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-5069"
+original_signed_date: "2011-03-17"
+original_published_date: "2011-03-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-5069"
+entry_into_force_date: "2011-03-23"
+jci_1_3: "jci1.3:c:BWBR0029752&z=2016-12-17&g=2016-12-17"
+jci_1_0: "1.0:c:BWBR0029752&g=2016-12-17"
+citeertitel_status: "officieel"
+short_title: "Regeling vaststelling eenmalig bedrag landelijke commerciële radio-omroep 2011"
+signed_date: "2011-03-17"
+entry_into_force: "2011-03-23"
 ---
-
 # Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 17 maart 2011, nr. WJZ / 11039880, houdende regels met betrekking tot het eenmalig bedrag verschuldigd door verkrijgers of houders van een vergunning voor het gebruik van frequentieruimte bestemd voor landelijke commerciële radio-omroep (Regeling vaststelling eenmalig bedrag landelijke commerciële radio-omroep 2011)
 
 Gelet op [artikel 3.3a, eerste en tweede lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.3a);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze regeling wordt verstaan onder:
 
@@ -34,7 +60,7 @@ Besluit:
 
 2. De vergunning voor kavel A2 wordt geacht mede te omvatten de vergunning inzake de steunzender 95,5 MHz te Hilversum.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De verkrijger of houder van een vergunning voor landelijke commerciële radio die verleend is respectievelijk waarvan de geldigheidsduur is verlengd met toepassing van de [Regeling verlenging en digitalisering landelijke commerciële radio-omroep](https://wetten.overheid.nl/jci1.3:c:BWBR0029751) is voor het gebruik van de desbetreffende frequentieruimte gedurende de periode van 1 september 2011 tot 1 september 2017 een eenmalig bedrag verschuldigd, waarvan de hoogte is:
 
@@ -48,7 +74,7 @@ Besluit:
 
 2. Indien de verlenging en verlening van vergunningen met toepassing van de [Regeling verlenging en digitalisering landelijke commerciële radio-omroep](https://wetten.overheid.nl/jci1.3:c:BWBR0029751) plaats vindt na 1 september 2011, is voor de resterende periode tot 1 september 2017 een eenmalig bedrag verschuldigd waarvan de hoogte wordt bepaald door het desbetreffende eenmalig bedrag, genoemd in het eerste lid, te vermenigvuldigen met een breuk waarvan de teller wordt gevormd door het aantal hele maanden dat na het tijdstip van vergunningverlening resteert tot 1 september 2017 en de noemer door het getal 72.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De verkrijger of de houder van de vergunningen betaalt het op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029752&artikel=2&z=2016-12-17&g=2016-12-17) verschuldigde bedrag uiterlijk op 1 september 2011 of, indien het tijdstip van vergunningverlening later ligt dan 21 juli 2011, uiterlijk zes weken na dat tijdstip.
 
@@ -66,7 +92,7 @@ Besluit:
 
 6. Het tweede tot en met vierde lid zijn niet van toepassing op de betaling van het verschuldigde eenmalig bedrag voor de vergunning voor kavel A2 en een vergunning voor digitale radio-omroep, bedoeld in [artikel 2, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0029752&artikel=2&z=2016-12-17&g=2016-12-17).
 
-#### Artikel 4
+##### Artikel 4
 
 Indien het aantal vergunningen voor digitale radio-omroep in de periode van 1 september 2011 tot 1 september 2017 gedurende ten minste vier weken kleiner is dan negen, ontvangt de houder van een vergunning voor digitale radio-omroep over het verschuldigde en betaalde bedrag een restitutie, waarbij de hoogte van het bedrag van de restitutie wordt bepaald overeenkomstig de volgende formule:
 
@@ -78,7 +104,7 @@ n: het aantal vergunningen voor digitale radio-omroep is waarover de vergunningh
 
 m: het aantal aaneengesloten perioden van vier weken is gedurende welke het aantal vergunningen voor digitale radio-omroep n is.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Indien de aanvraag op grond van de [Regeling verlenging en digitalisering landelijke commerciële radio-omroep](https://wetten.overheid.nl/jci1.3:c:BWBR0029751) wordt afgewezen, wordt de door de aanvrager op grond van [artikel 3, eerste lid, van die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0029751&artikel=3) verstrekte waarborgsom of bankgarantie door de minister teruggestort, respectievelijk teruggegeven.
 
@@ -88,11 +114,11 @@ m: het aantal aaneengesloten perioden van vier weken is gedurende welke het aant
 
 4. De rente wordt berekend volgens actual/360 op basis van de door de Europese Centrale Bank vastgestelde Euro Overnight Index Average, minus 4 basispunten.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling wordt aangehaald als: Regeling vaststelling eenmalig bedrag landelijke commerciële radio-omroep 2011.
 

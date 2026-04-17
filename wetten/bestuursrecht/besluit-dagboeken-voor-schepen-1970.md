@@ -1,13 +1,35 @@
 ---
-title: "Besluit dagboeken voor schepen 1970"
+title: "Besluit van 30 december 1970, tot vaststelling van de algemene maatregel van bestuur als bedoeld in artikel 349, laatste lid, van het Wetboek van Koophandel"
 identifier: "BWBR0002741"
-categorie: "Bestuursrecht"
-publicatiedatum: 2010-12-31
-laatste_update: 2010-12-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002741"
+country: "nl"
+rank: "amvb"
+publication_date: "2010-12-31"
+last_updated: "2010-12-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002741"
+soort: "AMvB"
+stam_id: "341253"
+version_id: "498342"
+internal_id: "C498341"
+label_id: "333664"
+dtd_version: "2.0"
+original_entry_into_force: "1972-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002741/2010-12-31/0"
+intitule_bron: "Stb.1970-659"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1970-12-30"
+intitule_status: "goed"
+original_publication: "Stb.1970-659"
+original_signed_date: "1970-12-30"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1972-05-01"
+jci_1_3: "jci1.3:c:BWBR0002741&z=2010-12-31&g=2010-12-31"
+jci_1_0: "1.0:c:BWBR0002741&g=2010-12-31"
+citeertitel_status: "officieel"
+short_title: "Besluit dagboeken voor schepen 1970"
+signed_date: "1970-12-30"
+entry_into_force: "1972-05-01"
 ---
-
 # Besluit van 30 december 1970, tot vaststelling van de algemene maatregel van bestuur als bedoeld in artikel 349, laatste lid, van het Wetboek van Koophandel
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 20 november 1970, no. 60.655 J, Directoraat-Generaal van Scheepvaart, mede namens Onze Minister van Justitie;
@@ -22,15 +44,15 @@ Gezien het nader rapport van Onze Minister van Verkeer en Waterstaat van 21 dece
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit besluit wordt onder zeeschip niet een zeevissers- en kustvissersschip verstaan.
 
-#### Artikel 2
+##### Artikel 2
 
 Als dagboek mag alleen een deugdelijk uitgevoerd boek van stevig papier worden gebruikt.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Door Onze Minister van Verkeer en Waterstaat wordt vastgesteld:
 
@@ -42,23 +64,23 @@ Als dagboek mag alleen een deugdelijk uitgevoerd boek van stevig papier worden g
 
 2. In de dagboeken mogen afwijkingen van het vastgestelde model worden aangebracht, mits dientengevolge de aard van het boek naar het oordeel van Onze Minister van Verkeer en Waterstaat niet te veel verandert.
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 De in de modellen opgenomen bladwijzer mag met andere dan de in het model vermelde onderwerpen worden aangevuld.
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Ons besluit van 4 november 1926 (**Stb.** 369), laatstelijk gewijzigd bij Ons besluit van 26 november 1969 (**Stb.** 529), wordt ingetrokken.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit kan worden aangehaald als "Besluit dagboeken voor schepen 1970".
 

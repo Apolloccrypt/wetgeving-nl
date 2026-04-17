@@ -1,13 +1,37 @@
 ---
 title: "Circulaire melding door de scheepvaart van de voorgenomen afgifte van scheepsafval en ladingsresiduen aan havenontvangstvoorzieningen"
 identifier: "BWBR0014516"
-categorie: "Milieu"
-publicatiedatum: 2002-12-28
-laatste_update: 2002-12-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0014516"
+country: "nl"
+rank: "circulaire"
+publication_date: "2002-12-28"
+last_updated: "2002-12-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0014516"
+soort: "circulaire"
+stam_id: "6412903"
+version_id: "11079872"
+internal_id: "C14991751"
+label_id: "6401704"
+original_entry_into_force: "2002-12-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0014516/2002-12-28/0"
+intitule_bron: "Stcrt.2002-247"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-12-19"
+intitule_published: "2002-12-23"
+intitule_in_force: "2002-12-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2002-247"
+original_signed_date: "2002-12-19"
+original_published_date: "2002-12-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2002-247-p53-SC37838"
+entry_into_force_date: "2002-12-28"
+jci_1_3: "jci1.3:c:BWBR0014516&z=2002-12-28&g=2002-12-28"
+jci_1_0: "1.0:c:BWBR0014516&g=2002-12-28"
+citeertitel_status: "redactioneel"
+signed_date: "2002-12-19"
+entry_into_force: "2002-12-28"
 ---
-
 # Circulaire melding door de scheepvaart van de voorgenomen afgifte van scheepsafval en ladingsresiduen aan havenontvangstvoorzieningen
 
 Circulaire Minister van Verkeer en Waterstaat

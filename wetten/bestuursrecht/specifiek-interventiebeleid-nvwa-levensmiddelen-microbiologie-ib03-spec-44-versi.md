@@ -1,13 +1,39 @@
 ---
-title: "Specifiek interventiebeleid NVWA levensmiddelen microbiologie (IB03-SPEC 44, versie 10)"
+title: "Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister van Volksgezondheid, Welzijn en Sport van 10 november 2025 tot vaststelling van het Specifiek interventiebeleid NVWA levensmiddelen microbiologie (IB03-SPEC 44, versie 10)"
 identifier: "BWBR0051803"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-12-01
-laatste_update: 2025-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051803"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2025-12-01"
+last_updated: "2025-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051803"
+soort: "beleidsregel"
+stam_id: "17609303"
+version_id: "31089252"
+internal_id: "C44508751"
+label_id: "17509804"
+dtd_version: "2.0"
+original_entry_into_force: "2025-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051803/2025-12-01/0"
+intitule_bron: "Stcrt.2025-39618"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-11-10"
+intitule_published: "2025-11-21"
+intitule_in_force: "2025-11-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-39618"
+original_signed_date: "2025-11-10"
+original_published_date: "2025-11-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-39618"
+entry_into_force_date: "2025-12-01"
+jci_1_3: "jci1.3:c:BWBR0051803&z=2025-12-01&g=2025-12-01"
+jci_1_0: "1.0:c:BWBR0051803&g=2025-12-01"
+citeertitel_status: "officieel"
+short_title: "Specifiek interventiebeleid NVWA levensmiddelen microbiologie (IB03-SPEC 44, versie 10)"
+signed_date: "2025-11-10"
+entry_into_force: "2025-12-01"
 ---
-
 # Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister van Volksgezondheid, Welzijn en Sport van 10 november 2025 tot vaststelling van het Specifiek interventiebeleid NVWA levensmiddelen microbiologie (IB03-SPEC 44, versie 10)
 
 Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81), [artikel 25 van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=25), [artikel 10 van de Mandaatregeling VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&artikel=10) en het [Algemeen interventiebeleid NVWA 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049215);

@@ -1,13 +1,39 @@
 ---
-title: "Regeling toepasselijkheid beleid NPO onder de Mediawet 2008"
+title: "Tijdelijke regeling van de Raad van Bestuur van de Nederlandse Omroep Stichting, ook handelende onder de naam NPO van 25 maart 2009 over de toepasselijkheid van (nadere) bindende regelingen en overige brieven en schriftelijk vastgelegd beleid van de NPO in verband met de inwerkingtreding van de Mediawet 2008 (Regeling toepasselijkheid beleid NPO onder de Mediawet 2008)"
 identifier: "BWBR0025810"
-categorie: "Overig"
-publicatiedatum: 2009-05-07
-laatste_update: 2009-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0025810"
+country: "nl"
+rank: "zbo"
+publication_date: "2009-05-07"
+last_updated: "2009-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0025810"
+soort: "zbo"
+stam_id: "10020563"
+version_id: "16379732"
+internal_id: "C22507661"
+label_id: "9996894"
+dtd_version: "2.0"
+original_entry_into_force: "2009-05-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0025810/2009-05-07/0"
+intitule_bron: "Stcrt.2009-83"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-03-25"
+intitule_published: "2009-05-07"
+intitule_in_force: "2009-05-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-83"
+original_signed_date: "2009-03-25"
+original_published_date: "2009-05-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-6710"
+entry_into_force_date: "2009-05-07"
+jci_1_3: "jci1.3:c:BWBR0025810&z=2009-05-07&g=2009-05-07"
+jci_1_0: "1.0:c:BWBR0025810&g=2009-05-07"
+citeertitel_status: "officieel"
+short_title: "Regeling toepasselijkheid beleid NPO onder de Mediawet 2008"
+signed_date: "2009-03-25"
+entry_into_force: "2009-05-07"
 ---
-
 # Tijdelijke regeling van de Raad van Bestuur van de Nederlandse Omroep Stichting, ook handelende onder de naam NPO van 25 maart 2009 over de toepasselijkheid van (nadere) bindende regelingen en overige brieven en schriftelijk vastgelegd beleid van de NPO in verband met de inwerkingtreding van de Mediawet 2008 (Regeling toepasselijkheid beleid NPO onder de Mediawet 2008)
 
 Gelet op de [artikelen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.2), [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.3), [2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.10) en [2.11 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.11);
@@ -30,11 +56,11 @@ dat het om die reden noodzakelijk is een tijdelijke maatregel te treffen om de h
 
 Besluit vast te stellen:
 
-#### Artikel 1
+##### Artikel 1
 
 Deze regeling strekt ertoe alle bestaande (nadere) bindende regelingen en overige toepasselijke brieven en schriftelijk vastgelegd beleid van de Raad van Bestuur NPO, voor zover relevant, toepasselijk te verklaren onder het regime van de [Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028) en het [Mediabesluit 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025036).
 
-#### Artikel 2
+##### Artikel 2
 
 In deze regeling wordt verstaan onder:
 
@@ -44,7 +70,7 @@ In deze regeling wordt verstaan onder:
 
 - c. **de NPO:** de Raad van Bestuur van de Nederlandse Omroep Stichting.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Na inwerkingtreding van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028) en het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025036) berusten alle in de bijlage opgenomen (nadere) bindende regelingen en overige toepasselijke brieven en schriftelijk vastgelegd beleid van de NPO op de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028), respectievelijk het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025036), onverminderd het bepaalde in [titel 9.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&titeldeel=9.1).
 
@@ -52,7 +78,7 @@ In deze regeling wordt verstaan onder:
 
 3. Na inwerkingtreding van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028) en het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025036) berust het overige beleid bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028) met betrekking tot de taken en bevoegdheden van de NPO en dat (nog) niet nader is uitgewerkt in (nadere) bindende regelingen, beleidsbrieven of anderszins, voor zover relevant op de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028), respectievelijk het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025036), onverminderd het bepaalde in [titel 9.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&titeldeel=9.1).
 
-#### Artikel 4
+##### Artikel 4
 
 1. De bepalingen van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028) en het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025036) treden in de plaats van de in de bestaande (nadere) bindende regelingen en overige toepasselijke brieven en schriftelijk vastgelegd beleid van de NPO genoemde bepalingen van de [Mediawet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028), respectievelijk van het [Mediabesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025036) voor zover mogelijk en relevant overeenkomstig de transponeringstabellen zoals deze zijn opgenomen in de Memorie van Toelichting (Kamerstukken II 2007/08, 31 356, nr. 3) en het Gewijzigd voorstel van wet (Kamerstukken I, 2007/08, 31 356, A), alsmede in het [Mediabesluit 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025036) (Staatsblad 2008, 584).
 
@@ -64,7 +90,7 @@ In deze regeling wordt verstaan onder:
 
 5. Indien bestaande (nadere) bindende regelingen en overige toepasselijke brieven en schriftelijk vastgelegd beleid van de NPO of een deel daarvan in strijd is met de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028), worden die bestaande (nadere) bindende regelingen en overige toepasselijke brieven en schriftelijk vastgelegd beleid van de NPO respectievelijk het betreffende deel in overeenstemming met de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028) toegepast en blijven zij voor het overige buiten toepassing.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Deze regeling treedt met terugwerkende kracht in werking met ingang van 1 januari 2009.
 

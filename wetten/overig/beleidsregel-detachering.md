@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel detachering"
+title: "Besluit van de algemene raad van 3 november 2014 tot vaststelling van de beleidsregel inzake ontheffing kantoorhouden in één arrondissement op één locatie vanwege detachering (Beleidsregel detachering)"
 identifier: "BWBR0041461"
-categorie: "Overig"
-publicatiedatum: 2021-01-01
-laatste_update: 2021-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041461"
+country: "nl"
+rank: "pbo"
+publication_date: "2021-01-01"
+last_updated: "2021-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041461"
+soort: "pbo"
+stam_id: "14839073"
+version_id: "27388392"
+internal_id: "C38673401"
+label_id: "14790884"
+dtd_version: "2.0"
+original_entry_into_force: "2021-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041461/2021-01-01/0"
+intitule_bron: "Stcrt.2018-58445"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-10-03"
+intitule_published: "2018-10-23"
+intitule_in_force: "2018-10-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-68618"
+original_signed_date: "2020-12-21"
+original_published_date: "2020-12-30"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2020-68618"
+entry_into_force_date: "2021-01-01"
+jci_1_3: "jci1.3:c:BWBR0041461&z=2021-01-01&g=2021-01-01"
+jci_1_0: "1.0:c:BWBR0041461&g=2021-01-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel detachering"
+signed_date: "2020-12-21"
+entry_into_force: "2021-01-01"
 ---
-
 # Besluit van de algemene raad van 3 november 2014 tot vaststelling van de beleidsregel inzake ontheffing kantoorhouden in één arrondissement op één locatie vanwege detachering (Beleidsregel detachering)
 
 gelet op [artikel 12, vierde lid, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=12);
@@ -16,11 +42,11 @@ gelet op [titel 4.3 van de Algemene wet bestuursrecht](https://wetten.overheid.n
 
 stelt het navolgende besluit vast:
 
-#### Artikel 1. Reikwijdte van de beleidsregel detachering
+##### Artikel 1. Reikwijdte van de beleidsregel detachering
 
 Deze beleidsregel is van toepassing op de advocaat die werkzaam is op grond van een arbeidsovereenkomst als bedoeld in [artikel 610 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=610) bij een werkgever als bedoeld in [artikel 5.9 van de Verordening op de advocatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=5.9) en op basis van detachering werkzaamheden gaat verrichten bij een inlener.
 
-#### Artikel 2. Uitleg wettelijke voorschriften
+##### Artikel 2. Uitleg wettelijke voorschriften
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -36,13 +62,13 @@ In deze beleidsregel wordt verstaan onder:
 
 - **werknemer:** de advocaat die wordt gedetacheerd.
 
-#### Artikel 3. Verzoek ontheffing
+##### Artikel 3. Verzoek ontheffing
 
 1. De advocaat verzoekt om ontheffing als bedoeld in [artikel 12, vierde lid, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=12), uiterlijk één week voor aanvang van de detachering.
 
 2. De advocaat verstrekt bij het verzoek een door de advocaat en de inlener ondertekende verklaring, overeenkomstig de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041461&bijlage=1&z=2021-01-01&g=2021-01-01) opgenomen verklaring onafhankelijke beroepsuitoefening bij detachering.
 
-#### Artikel 4. Weigering van de ontheffing
+##### Artikel 4. Weigering van de ontheffing
 
 De algemene raad weigert de ontheffing in ieder geval indien:
 
@@ -52,7 +78,7 @@ De algemene raad weigert de ontheffing in ieder geval indien:
 
 - c. de detachering langer duurt dan één jaar.
 
-#### Artikel 5. Verlening van de ontheffing
+##### Artikel 5. Verlening van de ontheffing
 
 De algemene raad verleent de ontheffing in ieder geval indien:
 
@@ -64,7 +90,7 @@ De algemene raad verleent de ontheffing in ieder geval indien:
 
 - d. de raad van de orde in het arrondissement waar de advocaat kantoor houdt op het moment van het verzoek om ontheffing heeft aangegeven geen bezwaar te hebben tegen de ontheffing.
 
-#### Artikel 6. Voorwaarden in de ontheffing
+##### Artikel 6. Voorwaarden in de ontheffing
 
 De algemene raad verbindt aan een ontheffing als bedoeld in [artikel 12, vierde lid, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=12), in ieder geval de volgende voorwaarden:
 
@@ -80,7 +106,7 @@ De algemene raad verbindt aan een ontheffing als bedoeld in [artikel 12, vierde 
 
 - f. de gedetacheerde advocaat en de inlener waarborgen de onafhankelijke beroepsuitoefening.
 
-#### Artikel 7. Ontheffing aan stagiaire
+##### Artikel 7. Ontheffing aan stagiaire
 
 1. Onverminderd [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041461&artikel=3&z=2021-01-01&g=2021-01-01) is het verzoek van een stagiaire medeondertekend door de in Nederland op het tableau ingeschreven patroon van de stagiaire.
 
@@ -100,11 +126,11 @@ De algemene raad verbindt aan een ontheffing als bedoeld in [artikel 12, vierde 
 
 5. Onverminderd [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041461&artikel=6&z=2021-01-01&g=2021-01-01) verbindt de algemene raad aan een ontheffing aan een stagiaire in ieder geval de voorwaarde dat het opleidingsplan wordt nageleefd.
 
-#### Artikel 8. Inwerkingtreding
+##### Artikel 8. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 januari 2015.
 
-#### Artikel 9. Citeertitel
+##### Artikel 9. Citeertitel
 
 Dit besluit wordt aangehaald als: Beleidsregel detachering.
 

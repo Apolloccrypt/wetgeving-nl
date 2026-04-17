@@ -1,13 +1,39 @@
 ---
-title: "Aanwijzing ex artikel 7 Wet marktordening gezondheidzorg (experiment bekostiging patiëntengroepsgebonden afstemming zorg en ondersteuning specifieke categorieën verzekerden)"
+title: "Aanwijzing van de Minister voor Medische Zorg van 19 april 2024, kenmerk 3805336-1064180-PZO, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake het experiment bekostiging van patiëntengroepsgebonden afstemming van zorg en ondersteuning voor specifieke categorieën verzekerden"
 identifier: "BWBR0049629"
-categorie: "Sociaal recht"
-publicatiedatum: 2024-04-29
-laatste_update: 2024-04-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049629"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-04-29"
+last_updated: "2024-04-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049629"
+soort: "ministeriele-regeling"
+stam_id: "17086923"
+version_id: "30071802"
+internal_id: "C43093181"
+label_id: "16995694"
+dtd_version: "2.0"
+original_entry_into_force: "2024-04-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049629/2024-04-29/0"
+intitule_bron: "Stcrt.2024-13765"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-04-19"
+intitule_published: "2024-04-29"
+intitule_in_force: "2024-04-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-13765"
+original_signed_date: "2024-04-19"
+original_published_date: "2024-04-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-13765"
+entry_into_force_date: "2024-04-29"
+jci_1_3: "jci1.3:c:BWBR0049629&z=2024-04-29&g=2024-04-29"
+jci_1_0: "1.0:c:BWBR0049629&g=2024-04-29"
+citeertitel_status: "redactioneel"
+short_title: "Aanwijzing ex artikel 7 Wet marktordening gezondheidzorg (experiment bekostiging patiëntengroepsgebonden afstemming zorg en ondersteuning specifieke categorieën verzekerden)"
+signed_date: "2024-04-19"
+entry_into_force: "2024-04-29"
 ---
-
 # Aanwijzing van de Minister voor Medische Zorg van 19 april 2024, kenmerk 3805336-1064180-PZO, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake het experiment bekostiging van patiëntengroepsgebonden afstemming van zorg en ondersteuning voor specifieke categorieën verzekerden
 
 Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
@@ -16,7 +42,7 @@ Na op 1 maart 2024 schriftelijk mededeling te hebben gedaan aan de Eerste en Twe
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze aanwijzing wordt verstaan onder:
 
@@ -36,15 +62,15 @@ In deze aanwijzing wordt verstaan onder:
 
 - f). **zorgautoriteit:** Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3).
 
-#### Artikel 2. Werkingssfeer
+##### Artikel 2. Werkingssfeer
 
 Deze aanwijzing is van toepassing op samenwerking tussen zorgaanbieders, voor zover het patiëntengroepsgebonden afstemming betreft en direct ten dienste staat van een of meerdere zorgvormen onder de aanspraken van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450).
 
-#### Artikel 3. Experiment patiëntengroepsgebonden afstemming
+##### Artikel 3. Experiment patiëntengroepsgebonden afstemming
 
 De zorgautoriteit voorziet op grond van [artikel 58 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=58) met ingang van 1 mei 2024 in een experiment voor de bekostiging van patiëntengroepsgebonden afstemming. De zorgautoriteit stelt een generieke prestatiebeschrijving met een vrij tarief vast, waarbij lumpsum betalingsafspraken mogelijk zijn, voor de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049629&artikel=2&z=2024-04-29&g=2024-04-29) bedoelde zorg.
 
-#### Artikel 4. Uitgangspunten experiment
+##### Artikel 4. Uitgangspunten experiment
 
 1. Doel van het experiment is om door middel van een generieke prestatiebeschrijving zorgaanbieders de mogelijkheid te geven om invulling te geven aan (regionale) samenwerkingsverbanden die bijdragen aan samenhangende zorg en ondersteuning voor specifieke categorieën verzekerden.
 
@@ -58,11 +84,11 @@ De zorgautoriteit voorziet op grond van [artikel 58 van de wet](https://wetten.o
 
 4. De zorgautoriteit informeert de Minister onmiddellijk indien zij het niet langer verantwoord vindt het experiment onveranderd voort te zetten.
 
-#### Artikel 5. Looptijd
+##### Artikel 5. Looptijd
 
 Het experiment heeft een looptijd van maximaal vijf jaar en eindigt uiterlijk op 1 mei 2029.
 
-#### Artikel 6. Evaluatie en rapportage
+##### Artikel 6. Evaluatie en rapportage
 
 De zorgautoriteit evalueert het experiment zoals bedoeld in het zesde lid van [artikel 58 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=58). Daarnaast rapporteert de zorgautoriteit over de uitslag van het experiment zoals bedoeld in het [zevende lid van artikel 58 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=58) aan de Minister. De zorgautoriteit heeft de ruimte hier zelf invulling aan te geven, maar rapporteert in elk geval wel:
 

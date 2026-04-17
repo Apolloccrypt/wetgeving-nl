@@ -1,16 +1,38 @@
 ---
 title: "Protocol inzake het verbod of de beperking van het gebruik van brandwapens (Protocol III)"
 identifier: "BWBV0004800"
-categorie: "Internationaal recht"
-publicatiedatum: 1987-12-18
-laatste_update: 1987-12-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004800"
+country: "nl"
+rank: "verdrag"
+publication_date: "1987-12-18"
+last_updated: "1987-12-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004800"
+soort: "verdrag"
+stam_id: "10004326033"
+version_id: "10004525262"
+internal_id: "C10008343301"
+label_id: "10004310864"
+dtd_version: "2.0"
+original_entry_into_force: "1987-12-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004800/1987-12-18/0"
+intitule_bron: "Trb.1981-154"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1981-07-10"
+intitule_in_force: "1987-07-06"
+intitule_status: "goed"
+original_publication: "Trb.1981-154"
+original_published_date: "1981-07-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1981-154"
+entry_into_force_date: "1987-12-18"
+jci_1_3: "jci1.3:c:BWBV0004800&z=1987-12-18&g=1987-12-18"
+jci_1_0: "1.0:c:BWBV0004800&g=1987-12-18"
+citeertitel_status: "redactioneel"
+entry_into_force: "1987-12-18"
 ---
-
 # Protocol inzake het verbod of de beperking van het gebruik van brandwapens (Protocol III)
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van dit Protocol wordt verstaan onder:
 
@@ -32,7 +54,7 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 - 5. „Praktisch uitvoerbare voorzorgen”: die voorzorgen die doenlijk of praktisch mogelijk zijn, rekening houdend met alle omstandigheden van het moment, met inbegrip van humanitaire en militaire overwegingen.
 
-#### Artikel 2. Bescherming van burgers en burgerobjecten
+##### Artikel 2. Bescherming van burgers en burgerobjecten
 
 1. Het is onder alle omstandigheden verboden de burgerbevolking als zodanig, individuele burgers of burgerobjecten het voorwerp te maken van aanvallen met brandwapens.
 

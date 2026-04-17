@@ -1,13 +1,37 @@
 ---
 title: "Regeling vaargebieden vissersvaartuigen"
 identifier: "BWBR0013689"
-categorie: "Overig"
-publicatiedatum: 2002-05-31
-laatste_update: 2002-05-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013689"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2002-05-31"
+last_updated: "2002-05-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013689"
+soort: "ministeriele-regeling"
+stam_id: "4088583"
+version_id: "5842452"
+internal_id: "C6045281"
+label_id: "4068564"
+dtd_version: "2.0"
+original_entry_into_force: "2002-05-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013689/2002-05-31/0"
+intitule_bron: "Stcrt.2002-99"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-05-15"
+intitule_published: "2002-05-29"
+intitule_in_force: "2002-05-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2002-99"
+original_signed_date: "2002-05-15"
+original_published_date: "2002-05-29"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2002-05-31"
+jci_1_3: "jci1.3:c:BWBR0013689&z=2002-05-31&g=2002-05-31"
+jci_1_0: "1.0:c:BWBR0013689&g=2002-05-31"
+citeertitel_status: "officieel"
+signed_date: "2002-05-15"
+entry_into_force: "2002-05-31"
 ---
-
 # Regeling vaargebieden vissersvaartuigen
 
 Handelende in overeenstemming met de Minister van Verkeer en Vervoer van de Nederlandse Antillen en met de Minister van Vervoer en Communicatie van Aruba;
@@ -18,7 +42,7 @@ Besluit:
 
 #### § 1. Begripsomschrijvingen
 
-#### Artikel 1. Omschrijvingen
+##### Artikel 1. Omschrijvingen
 
 1. In deze regeling wordt verstaan onder:
 
@@ -26,11 +50,11 @@ Besluit:
 
 #### § 2. Regionale bepalingen voor het noordelijk vaargebied
 
-#### Artikel 2. Toepassingsgebied
+##### Artikel 2. Toepassingsgebied
 
 Tenzij anders bepaald is deze paragraaf uitsluitend van toepassing op vissersvaartuigen die dienstdoen in het noordelijk vaargebied.
 
-#### Artikel 3. Bedrijfsomstandigheden
+##### Artikel 3. Bedrijfsomstandigheden
 
 In aanvulling op de specifieke bedrijfsomstandigheden, bedoeld in [artikel 3.7, eerste lid, onder a tot en met d, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&artikel=3.7), wordt tevens rekening gehouden met de volgende bedrijfsomstandigheden:
 
@@ -38,7 +62,7 @@ In aanvulling op de specifieke bedrijfsomstandigheden, bedoeld in [artikel 3.7, 
 
 - 2º. voor vissersvaartuigen die met de ringzegen vissen: vertrek van de visgronden met het vistuig, zonder vangst en met 30% van de voorraden, brandstoffen en dergelijke, met inbegrip van de invloed van ijsafzetting overeenkomstig het bepaalde in [artikel 3.8 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&artikel=3.8).
 
-#### Artikel 4. IJsafzetting
+##### Artikel 4. IJsafzetting
 
 1. De gebieden, bedoeld in [artikel 3.8 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&artikel=3.8), zijn:
 
@@ -64,51 +88,51 @@ In aanvulling op de specifieke bedrijfsomstandigheden, bedoeld in [artikel 3.7, 
 
 - b. 10 kg per vierkante meter op het geprojecteerde zijdelingse oppervlak aan elke zijde van het vaartuig boven de waterlijn.
 
-#### Artikel 5. Reddingsmiddelen
+##### Artikel 5. Reddingsmiddelen
 
 Onverminderd de bepalingen van [artikel 7.5, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&artikel=7.5), [derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&artikel=7.5), en [lid 3bis, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&artikel=7.5) dient, bij vaartuigen waarvan de bouw van de romp voldoet aan de voorschriften van een klassebureau om dienst te kunnen doen in wateren met zwaar drijfijs, de hulpverleningsboot of de reddingsboot, voorgeschreven in de voornoemde artikelen, ten minste gedeeltelijk overdekt te zijn zoals voorgeschreven in [artikel 7.18 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&artikel=7.18), en voldoende inhoud te hebben om aan alle opvarenden plaats te bieden.
 
-#### Artikel 6. Overlevingspakken en thermische beschermingsmiddelen
+##### Artikel 6. Overlevingspakken en thermische beschermingsmiddelen
 
 Onverminderd de bepalingen van [artikel 7.9 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&artikel=7.9) dient voor elke opvarende een overlevingspak in een passende maat beschikbaar te zijn dat voldoet aan de bepalingen van [artikel 7.25 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&artikel=7.25) en aan het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0013689&paragraaf=2&artikel=8&z=2002-05-31&g=2002-05-31).
 
-#### Artikel 7. Radartransponders
+##### Artikel 7. Radartransponders
 
 In aanvulling op de bepalingen van [hoofdstuk 7, paragraaf 2, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&paragraaf=2) dient elke reddingsboot, elke hulpverleningsboot en elk reddingsvlot te allen tijde te zijn voorzien van een goedgekeurde radartransponder die in staat is in de 9Ghz-band te werken.
 
-#### Artikel 8. Overlevingspakken
+##### Artikel 8. Overlevingspakken
 
 Onverminderd de bepalingen van [artikel 7.25 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&artikel=7.25) dienen alle overlevingspakken die op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0013689&paragraaf=2&artikel=6&z=2002-05-31&g=2002-05-31) zijn vereist, uit één stuk te zijn vervaardigd van materiaal met intrinsieke isolatie-eigenschappen en tevens te voldoen aan de eisen betreffende drijfvermogen van [artikel 7.24, eerste lid, onder c, 1°, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&artikel=7.24).
 
-#### Artikel 9. Radarinstallaties
+##### Artikel 9. Radarinstallaties
 
 Onverminderd de bepalingen van [artikel 10.3, zevende lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&artikel=10.3) dient ieder vaartuig waarvan de lengte 24 meter of meer bedraagt te zijn voorzien van een radarinstallatie die ten genoegen van het Hoofd van de Scheepvaartinspectie is. Deze radarinstallatie dient in staat te zijn in de 9Ghz-band te werken.
 
-#### Artikel 10. Uitrusting voor het geven van seinen
+##### Artikel 10. Uitrusting voor het geven van seinen
 
 In aanvulling op de bepalingen van [artikel 10.5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&artikel=10.5) dient elk vaartuig dat dienstdoet in wateren waarin drijfijs kan voorkomen, te zijn voorzien van ten minste één zoeklicht met een verlichtingssterkte van ten minste 1 lux op een afstand van 750 meter.
 
 #### § 3. Regionale bepalingen voor het zuidelijk vaargebied
 
-#### Artikel 11. Toepassingsgebied
+##### Artikel 11. Toepassingsgebied
 
 Deze paragraaf is uitsluitend van toepassing op vaartuigen die dienstdoen in het zuidelijk vaargebied.
 
-#### Artikel 12. Overlevingspakken
+##### Artikel 12. Overlevingspakken
 
 In afwijking van het bepaalde in [artikel 7.9, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&artikel=7.9), hoeft voor vaartuigen waarvan de lengte minder dan 45 meter bedraagt, het aantal overlevingspakken aan boord niet groter dan twee te zijn.
 
-#### Artikel 13. Radiocommunicatie
+##### Artikel 13. Radiocommunicatie
 
 [Hoofdstuk 9 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9) is eveneens van toepassing op nieuwe vaartuigen waarvan de lengte 24 meter of meer bedraagt, mits het vaargebied waarin zij dienstdoen afdoende wordt bestreken door een kuststation dat in overeenstemming met het IMO Master Plan werkt.
 
 #### § 4. Slotbepalingen
 
-#### Artikel 14. Inwerkingtreding
+##### Artikel 14. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt gepubliceerd.
 
-#### Artikel 15. Citeertitel
+##### Artikel 15. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling vaargebieden vissersvaartuigen.
 

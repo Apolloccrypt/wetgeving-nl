@@ -1,13 +1,35 @@
 ---
-title: "Besluit ex artikel 3 Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers"
+title: "Besluit van 22 oktober 1949, tot vaststelling van een algemene maatregel van bestuur, als bedoeld in artikel 3, derde lid, en in artikel 39 der Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers"
 identifier: "BWBR0002052"
-categorie: "Bestuursrecht"
-publicatiedatum: 2011-01-01
-laatste_update: 2011-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002052"
+country: "nl"
+rank: "amvb"
+publication_date: "2011-01-01"
+last_updated: "2011-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002052"
+soort: "AMvB"
+stam_id: "411863"
+version_id: "604772"
+internal_id: "C604771"
+label_id: "401454"
+dtd_version: "2.0"
+original_entry_into_force: "1949-12-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002052/2011-01-01/0"
+intitule_bron: "Stb.1949-J 469"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1949-10-22"
+intitule_status: "goed"
+original_publication: "Stb.1949-J 469"
+original_signed_date: "1949-10-22"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1949-12-15"
+jci_1_3: "jci1.3:c:BWBR0002052&z=2011-01-01&g=2011-01-01"
+jci_1_0: "1.0:c:BWBR0002052&g=2011-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit ex artikel 3 Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers"
+signed_date: "1949-10-22"
+entry_into_force: "1949-12-15"
 ---
-
 # Besluit van 22 oktober 1949, tot vaststelling van een algemene maatregel van bestuur, als bedoeld in artikel 3, derde lid, en in artikel 39 der Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers
 
 Op de voordracht van Onze Ministers van Verkeer en Waterstaat en van Sociale Zaken van 29 Juli 1949, No. 197564 Z;
@@ -22,7 +44,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk I. Inleidende bepaling
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -38,7 +60,7 @@ de Sociale verzekeringsbank: de Sociale verzekeringsbank, genoemd in [artikel 6 
 
 ### Hoofdstuk II. Van het geneeskundig onderzoek
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het geneeskundig onderzoek, bedoeld in [artikel 13 der wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=13), geschiedt door een geneeskundig adviseur, door de Raad of de Sociale verzekeringsbank aan te wijzen, of diens plaatsvervanger.
 
@@ -46,11 +68,11 @@ de Sociale verzekeringsbank: de Sociale verzekeringsbank, genoemd in [artikel 6 
 
 3. Bij de aanvrage om pensioen voegt de zeeman een omschrijving van de omstandigheden, waaronder de verwonding of verminking, of de ziekten of gebreken, naar zijn mening zijn ontstaan, alsmede van de nadelige gevolgen, welke hij daarvan ondervindt, zo mogelijk gestaafd door bewijsstukken.
 
-#### Artikel 3
+##### Artikel 3
 
 Indien de artsen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002052&hoofdstuk=II&artikel=2&z=2011-01-01&g=2011-01-01), dit voor het uitbrengen van hun rapport nodig achten, is de Raad of de Sociale verzekeringsbank bevoegd de zeeman voor de tijd van ten hoogste dertien weken in een inrichting ter observatie te doen opnemen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De artsen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002052&hoofdstuk=II&artikel=2&z=2011-01-01&g=2011-01-01), brengen zo spoedig mogelijk aan de Raad of de Sociale verzekeringsbank een met redenen omkleed rapport uit.
 
@@ -80,13 +102,13 @@ Indien de artsen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/
 
 - e. omstandige mededelingen omtrent de sedert het vorige onderzoek ingetreden wijziging van de bij het eerste onderzoek gegeven medische beoordeling van de omstandigheden, welke op de arbeidsongeschiktheid van invloed zijn.
 
-#### Artikel 5
+##### Artikel 5
 
 1. In gevallen, waarin daartoe aanleiding bestaat kan de Raad of de Sociale verzekeringsbank over het rapport van de artsen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002052&hoofdstuk=II&artikel=2&z=2011-01-01&g=2011-01-01), een rapport van een of meer deskundigen vragen en de zeeman daartoe nogmaals geneeskundig doen onderzoeken of hem voor de tijd van ten hoogste dertien weken in een inrichting ter observatie doen opnemen. Wijkt het gevoelen van deze deskundige of deskundigen af van dat van de artsen, over wier rapport zij werden gehoord, dan wordt het rapport van die deskundige of deskundigen ter kennis gebracht van de artsen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002052&hoofdstuk=II&artikel=2&z=2011-01-01&g=2011-01-01), die de Raad of de Sociale verzekeringsbank van hun gevoelen nader schriftelijk doen blijken.
 
 2. De Raad of de Sociale verzekeringsbank is bevoegd bij zijn ingevolge [artikel 22, eerste lid, der wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=22) te nemen beslissing af te wijken van de conclusie, neergelegd in het rapport van de artsen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002052&hoofdstuk=II&artikel=2&z=2011-01-01&g=2011-01-01), en in dat van de deskundige of deskundigen, bedoeld in het eerste lid.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Voorzover het onderzoek, ingesteld naar het ontstaan, de aard en de gevolgen van verwonding, verminking, ziekten of gebreken, aanleiding zou kunnen geven tot toekenning aan de zeeman van een buitengewoon pensioen, dan wel tot vernieuwing of wijziging van zijn buitengewoon pensioen, wordt door de arts of de artsen, bedoeld in [artikel 2, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002052&hoofdstuk=II&artikel=2&z=2011-01-01&g=2011-01-01) aan de Raad of de Sociale verzekeringsbank een met redenen omkleed rapport uitgebracht.
 
@@ -116,7 +138,7 @@ Indien de artsen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/
 
 ### Hoofdstuk III. Van de kosten van onderzoek
 
-#### Artikel 7
+##### Artikel 7
 
 1. De vergoeding voor de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002052&hoofdstuk=II&artikel=2&z=2011-01-01&g=2011-01-01), bedoelde arts wordt door de Sociale verzekeringsbank vastgesteld.
 
@@ -126,11 +148,11 @@ Indien de artsen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/
 
 ### Hoofdstuk IV. Van de geneeskundige behandeling en verpleging
 
-#### Artikel 8
+##### Artikel 8
 
 De geneeskundige behandeling en verpleging, als bedoeld in [artikel 3, zesde lid, der wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=3), omvat naast genees- en heelkundige voorzieningen, voorzieningen van medisch-sociale aard alsmede al hetgeen geacht kan worden dienstig te zijn voor het herstel, het behoud of de bevordering van de geschiktheid tot werken, voorzover die geschiktheid is verminderd tengevolge van verwonding, verminking, ziekten of gebreken, welke het recht op buitengewoon pensioen hebben doen ontstaan.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De kosten van de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002052&hoofdstuk=IV&artikel=8&z=2011-01-01&g=2011-01-01) bedoelde behandeling en verpleging worden slechts vergoed, indien en voor zover de zeeman niet op grond van andere voorschriften of krachtens overeenkomst op volledige of gedeeltelijke vergoeding van die kosten aanspraak kan maken. Daarbij wordt de in het derde lid bedoelde vaste vergoeding niet in aanmerking genomen.
 
@@ -138,11 +160,11 @@ De geneeskundige behandeling en verpleging, als bedoeld in [artikel 3, zesde lid
 
 3. Voor de bestrijding van kosten van voorzieningen van medisch-sociale aard wordt aan de zeeman, die een vermeerdering, bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=9) en [10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=10), geniet, jaarlijks een vaste vergoeding toegekend van € 1 361,34 Deze vergoeding wordt in maandelijkse termijnen van € 113,45 uitbetaald. Het recht op deze vergoeding gaat in op de eerste dag van de maand waarin bedoelde vermeerdering wordt toegekend en eindigt met het einde van de maand, waarin de belanghebbende is overleden.
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 

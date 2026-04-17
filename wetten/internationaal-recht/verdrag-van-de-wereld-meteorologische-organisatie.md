@@ -1,13 +1,35 @@
 ---
 title: "Verdrag van de Wereld Meteorologische Organisatie"
 identifier: "BWBV0003152"
-categorie: "Internationaal recht"
-publicatiedatum: 2007-06-01
-laatste_update: 2007-06-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003152"
+country: "nl"
+rank: "verdrag"
+publication_date: "2007-06-01"
+last_updated: "2007-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003152"
+soort: "verdrag"
+stam_id: "10003357983"
+version_id: "10003395342"
+internal_id: "C10008461401"
+label_id: "10003344734"
+dtd_version: "2.0"
+original_entry_into_force: "2007-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003152/2007-06-01/0"
+intitule_bron: "Trb.2009-46"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2009-04-08"
+intitule_in_force: "2009-04-08"
+intitule_status: "goed"
+original_publication: "Trb.2009-46"
+original_published_date: "2009-04-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2009-46"
+entry_into_force_date: "2007-06-01"
+jci_1_3: "jci1.3:c:BWBV0003152&z=2007-06-01&g=2007-06-01"
+jci_1_0: "1.0:c:BWBV0003152&g=2007-06-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2007-06-01"
 ---
-
 # Verdrag van de Wereld Meteorologische Organisatie
 
 Gelet op de noodzaak van duurzame ontwikkeling, terugdringing van het aantal dodelijke slachtoffers en de materiële schade ten gevolge van natuurrampen en andere catastrofale gebeurtenissen die verband houden met weer, klimaat en water, alsmede het veiligstellen van het milieu en het wereldomvattende klimaat voor de huidige en toekomstige generaties,
@@ -44,13 +66,13 @@ Het Verdrag is oorspronkelijk door Trb. 1951/141 in werking getreden op 12 novem
 
 ## DEEL I. OPRICHTING
 
-#### Artikel 1
+##### Artikel 1
 
 De Wereld Meteorologische Organisatie (hierna te noemen „de Organisatie”) wordt hierbij opgericht.
 
 ## DEEL II
 
-#### Artikel 2. Doeleinden
+##### Artikel 2. Doeleinden
 
 De Organisatie stelt zich ten doel:
 
@@ -68,7 +90,7 @@ De Organisatie stelt zich ten doel:
 
 ## DEEL III. LIDMAATSCHAP
 
-#### Artikel 3. Leden
+##### Artikel 3. Leden
 
 Overeenkomstig de in dit Verdrag omschreven procedure kan Lid worden van de Organisatie:
 
@@ -88,7 +110,7 @@ Elk verzoek tot lidmaatschap van de Organisatie vermeldt overeenkomstig welke pa
 
 ## DEEL IV. ORGANISATIE
 
-#### Artikel 4
+##### Artikel 4
 
 a. De Organisatie omvat:
 
@@ -104,7 +126,7 @@ a. De Organisatie omvat:
 
 b. De Organisatie heeft een Voorzitter en drie Vice-voorzitters, die tevens Voorzitter en Vice-voorzitters zijn van het Congres en van de Uitvoerende Raad.
 
-#### Artikel 5
+##### Artikel 5
 
 De Leden van de Organisatie beslissen over de werkzaamheden en de belangen van de Organisatie.
 
@@ -116,7 +138,7 @@ Schriftelijke stemmingen vinden plaats in overeenstemming met de [artikelen 11](
 
 ## DEEL V. FUNCTIONARISSEN VAN DE ORGANISATIE EN LEDEN VAN DE UITVOERENDE RAAD
 
-#### Artikel 6
+##### Artikel 6
 
 a. De verkiesbaarheid tot de functies van Voorzitter en Vice-voorzitter van de Organisatie, van Voorzitter en Vice-voorzitter van de regionale verbanden en voor lidmaatschap van de Uitvoerende Raad, met inachtneming van [artikel 13, c, onder ii](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=VII&artikel=13&z=2007-06-01&g=2007-06-01), van het Verdrag, moet beperkt worden tot personen die door de Leden van de Organisatie voor de toepassing van dit Verdrag zijn benoemd als directeuren van hun meteorologische of hydrometeorologische diensten, zoals voorzien in het Reglement;
 
@@ -124,7 +146,7 @@ b. Bij de vervulling van hun taak treden de functionarissen van de Organisatie e
 
 ## DEEL VI. HET CONGRES VAN DE WERELD METEOROLOGISCHE ORGANISATIE
 
-#### Artikel 7. Samenstelling
+##### Artikel 7. Samenstelling
 
 a. Het Congres is de algemene vergadering van afgevaardigden die Leden vertegenwoordigen en is als zodanig het hoogste orgaan van de Organisatie;
 
@@ -132,7 +154,7 @@ b. Elk Lid zal een van zijn afgevaardigden, die directeur van zijn meteorologisc
 
 c. Teneinde de ruimst mogelijke technische vertegenwoordiging te verzekeren, kan elke directeur van een meteorologische of hydrometeorologische dienst of elke andere persoon door de Voorzitter worden uitgenodigd om, in overeenstemming met de bepalingen van het Reglement, aanwezig te zijn bij en deel te nemen aan de besprekingen van het Congres.
 
-#### Artikel 8. Functies
+##### Artikel 8. Functies
 
 Naast de functies vervat in de overige artikelen van het Verdrag zijn de primaire functies van het Congres:
 
@@ -158,13 +180,13 @@ Naast de functies vervat in de overige artikelen van het Verdrag zijn de primair
 
 Het Congres kan ook alle andere passende maatregelen nemen ter zake van aangelegenheden die de Organisatie betreffen.
 
-#### Artikel 9. Uitvoering van de beslissingen van het Congres
+##### Artikel 9. Uitvoering van de beslissingen van het Congres
 
 a. Alle Leden zullen al het mogelijke doen om de beslissingen van het Congres uit te voeren;
 
 b. Indien echter enig Lid het ondoenlijk acht uitvoering te geven aan een vereiste van een door het Congres aangenomen technische resolutie, zal dit Lid aan de Secretaris-Generaal van de Organisatie mededelen of deze onmogelijkheid tijdelijk dan wel definitief is en de redenen daarvan opgeven.
 
-#### Artikel 10. Zittingen
+##### Artikel 10. Zittingen
 
 a. Het Congres wordt gewoonlijk bijeengeroepen met tussenpozen van vier jaar, op een door de Uitvoerende Raad vast te stellen plaats en datum;
 
@@ -172,7 +194,7 @@ b. Een buitengewoon Congres kan bij beslissing van de Uitvoerende Raad bijeen wo
 
 c. Na ontvangst van verzoeken om een buitengewoon Congres van een derde van de Leden van de Organisatie organiseert de Secretaris-Generaal een schriftelijke stemming en indien een gewone meerderheid van de Leden vóór stemt wordt een buitengewoon Congres bijeengeroepen.
 
-#### Artikel 11. Stemmen
+##### Artikel 11. Stemmen
 
 a. Elk Lid heeft één stem tijdens een Congres. Alleen Leden van de Organisatie die Staten zijn (hierna te noemen „Leden die Staten zijn”) zijn gerechtigd te stemmen of mee te beslissen over de volgende onderwerpen:
 
@@ -186,13 +208,13 @@ a. Elk Lid heeft één stem tijdens een Congres. Alleen Leden van de Organisatie
 
 b. Beslissingen worden genomen met een tweederde meerderheid van de vóór en tegen uitgebrachte stemmen, behoudens bij verkiezingen van personen om in de Organisatie een functie te bekleden, die met gewone meerderheid van de uitgebrachte stemmen plaatshebben. De bepalingen van deze paragraaf zijn echter niet van toepassing op beslissingen, genomen ingevolge de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=III&artikel=3&z=2007-06-01&g=2007-06-01), [10 paragraaf c](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=VI&artikel=10&z=2007-06-01&g=2007-06-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=XII&artikel=25&z=2007-06-01&g=2007-06-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=XIII&artikel=26&z=2007-06-01&g=2007-06-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=XV&artikel=28&z=2007-06-01&g=2007-06-01) van het Verdrag.
 
-#### Artikel 12. Quorum
+##### Artikel 12. Quorum
 
 De aanwezigheid van een meerderheid van vertegenwoordigers van de Leden zal vereist zijn om een quorum te vormen voor vergaderingen van het Congres. Voor die vergaderingen van het Congres, waarin beslissingen worden genomen over de onderwerpen genoemd in [paragraaf a van artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=VI&artikel=11&z=2007-06-01&g=2007-06-01), is een meerderheid van Leden die Staten zijn vereist om een quorum te vormen.
 
 ## DEEL VII. DE UITVOERENDE RAAD
 
-#### Artikel 13. Samenstelling
+##### Artikel 13. Samenstelling
 
 De Uitvoerende Raad bestaat uit:
 
@@ -206,7 +228,7 @@ De Uitvoerende Raad bestaat uit:
 
 - ii. ten hoogste negen en niet minder dan vier leden van de Uitvoerende Raad, bestaande uit de Voorzitter en Vice-voorzitters van de Organisatie, de Voorzitters van de regionale verbanden en de 27 gekozen directeuren, uit één regio afkomstig mogen zijn, waarbij de regio per lid wordt bepaald in overeenstemming met het Reglement.
 
-#### Artikel 14. Functies
+##### Artikel 14. Functies
 
 De Uitvoerende Raad is het uitvoerend orgaan van de Organisatie en legt aan het Congres verantwoording af over de afstemming van de programma’s van de Organisatie en voor de aanwending van de begrotingsmiddelen in overeenstemming met de beslissingen van het Congres.
 
@@ -230,25 +252,25 @@ Naast de functies vervat in de overige artikelen van het Verdrag zijn de primair
 
 De Uitvoerende Raad kan ook andere functies verrichten die hem worden opgedragen door het Congres of door de Leden gezamenlijk.
 
-#### Artikel 15. Vergaderingen
+##### Artikel 15. Vergaderingen
 
 a. De Uitvoerende Raad zal ten minste eenmaal per jaar bijeenkomen op een door de Voorzitter van de Organisatie, na overleg met de andere leden van de Raad te bepalen plaats en datum.
 
 b. Buitengewone vergaderingen van de Uitvoerende Raad worden bijeengeroepen volgens de procedures vervat in het Reglement na ontvangst door de Secretaris-Generaal van verzoeken van een meerderheid van de leden van de Uitvoerende Raad. Dergelijke vergaderingen kunnen ook bijeen worden geroepen bij gezamenlijk besluit van de Voorzitter en de drie Vice-voorzitters van de Organisatie.
 
-#### Artikel 16. Stemmen
+##### Artikel 16. Stemmen
 
 a. Beslissingen van de Uitvoerende Raad worden genomen bij tweederde meerderheid van de voor en tegen uitgebrachte stemmen. Elk lid van de Uitvoerende Raad heeft slechts één stem, ook indien hij lid mocht zijn in meer dan één hoedanigheid.
 
 b. In de periode gelegen tussen de vergaderingen kan de Uitvoerende Raad schriftelijk stemmen. Deze stemmingen vinden plaats in overeenstemming met [artikel 16, paragraaf a](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=VII&artikel=16&z=2007-06-01&g=2007-06-01), en [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=VII&artikel=17&z=2007-06-01&g=2007-06-01) van het Verdrag.
 
-#### Artikel 17. Quorum
+##### Artikel 17. Quorum
 
 De aanwezigheid van tweederde van het aantal leden zal zijn vereist om een quorum te vormen voor vergaderingen van de Uitvoerende Raad.
 
 ## DEEL VIII. REGIONALE VERBANDEN
 
-#### Artikel 18
+##### Artikel 18
 
 a. De regionale verbanden bestaan uit de Leden van de Organisatie waarvan de netwerken liggen binnen of zich uitstrekken tot in de regio.
 
@@ -272,7 +294,7 @@ e. Elk regionaal verband kiest zijn eigen voorzitter en vice-voorzitter.
 
 ## DEEL IX. TECHNISCHE COMMISSIES
 
-#### Artikel 19
+##### Artikel 19
 
 a. Commissies bestaande uit technische deskundigen kunnen door het Congres worden ingesteld om ieder onderwerp, vallende binnen de doelstellingen van de Organisatie, te bestuderen en daaromtrent aanbevelingen te doen aan het Congres en aan de Uitvoerende Raad;
 
@@ -284,17 +306,17 @@ d. De voorzitters van technische commissies kunnen zonder stemrecht deelnemen aa
 
 ## DEEL X. HET SECRETARIAAT
 
-#### Artikel 20
+##### Artikel 20
 
 Het permanente Secretariaat van de Organisatie bestaat uit een Secretaris-Generaal en het technisch en administratief personeel dat nodig is voor de werkzaamheden van de Organisatie.
 
-#### Artikel 21
+##### Artikel 21
 
 a. De Secretaris-Generaal wordt benoemd door het Congres op door het Congres goed te keuren voorwaarden.
 
 b. Het personeel van het Secretariaat wordt benoemd door de Secretaris-Generaal, met de goedkeuring van de Uitvoerende Raad en in overeenstemming met door het Congres vastgestelde regels.
 
-#### Artikel 22
+##### Artikel 22
 
 a. De Secretaris-Generaal legt verantwoording af aan de Voorzitter van de Organisatie over de technische en administratieve werkzaamheden van het Secretariaat;
 
@@ -302,25 +324,25 @@ b. Bij de vervulling van hun taken mogen de Secretaris-Generaal en het personeel
 
 ## DEEL XI. FINANCIEN
 
-#### Artikel 23
+##### Artikel 23
 
 a. Het Congres stelt de maximumuitgaven vast die door de Organisatie kunnen worden gedaan op basis van de begrotingen ingediend door de Secretaris-Generaal na voorafgaande toetsing door en met de aanbevelingen van de Uitvoerende Raad.
 
 b. Het Congres draagt aan de Uitvoerende Raad de bevoegdheden over die nodig zijn om de jaarlijkse uitgaven van de Organisatie, binnen door het Congres vastgestelde grenzen, goed te keuren.
 
-#### Artikel 24
+##### Artikel 24
 
 De uitgaven van de Organisatie worden over de Leden van de Organisatie omgeslagen in door het Congres vastgestelde verhoudingen.
 
 ## DEEL XII. BETREKKINGEN MET DE VERENIGDE NATIES
 
-#### Artikel 25
+##### Artikel 25
 
 De betrekkingen van de Organisatie met de Verenigde Naties zijn overeenkomstig [artikel 57 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=57). Elke overeenkomst inzake deze betrekkingen dient te worden goedgekeurd door tweederde van de Leden die Staten zijn.
 
 ## DEEL XIII. BETREKKINGEN MET ANDERE ORGANISATIES
 
-#### Artikel 26
+##### Artikel 26
 
 a. De Organisatie gaat doeltreffende betrekkingen aan en werkt nauw samen met andere intergouvernementele organisaties waarmee dat gewenst is. De Uitvoerende Raad sluit formele overeenkomsten met dergelijke organisaties die door tweederde van de Leden die Staten zijn dienen te worden goedgekeurd, hetzij tijdens het Congres hetzij schriftelijk.
 
@@ -330,7 +352,7 @@ c. Behoudens de goedkeuring van tweederde van de Leden die Staten zijn, kan de O
 
 ## DEEL XIV. RECHTSPOSITIE, VOORRECHTEN EN IMMUNITEITEN
 
-#### Artikel 27
+##### Artikel 27
 
 a. De Organisatie bezit op het grondgebied van elk Lid de rechtsbevoegdheid die nodig is voor het verwezenlijken van haar doelstellingen en voor de uitoefening van haar functies.
 
@@ -342,7 +364,7 @@ c. Op het grondgebied van elk Lid dat Staat is en dat is toegetreden tot het [Ve
 
 ## DEEL XV. WIJZIGINGEN
 
-#### Artikel 28
+##### Artikel 28
 
 a. De tekst van elke voorgestelde wijziging van dit Verdrag wordt door de Secretaris-Generaal tenminste zes maanden voordat deze door het Congres zal worden behandeld toegezonden aan de Leden van de Organisatie.
 
@@ -352,13 +374,13 @@ c. Andere wijzigingen worden van kracht na te zijn goedgekeurd door tweederde va
 
 ## DEEL XVI. INTERPRETATIE EN GESCHILLEN
 
-#### Artikel 29
+##### Artikel 29
 
 Een kwestie of geschil betreffende de interpretatie of toepassing van dit Verdrag die of dat niet door onderhandelingen of het Congres kan worden beslecht, wordt voorgelegd aan een onafhankelijke arbiter die is benoemd door de Voorzitter van het Internationale Gerechtshof, tenzij de betrokken partijen een andere wijze van beslechting overeenkomen.
 
 ## DEEL XVII. OPZEGGING
 
-#### Artikel 30
+##### Artikel 30
 
 a. Elk Lid kan zich met een opzegtermijn van 12 maanden uit de Organisatie terugtrekken door middel van een schriftelijke kennisgeving aan de Secretaris-Generaal van de Organisatie die onmiddellijk alle Leden van de Organisatie in kennis stelt van deze opzegging.
 
@@ -366,21 +388,21 @@ b. Elk Lid van de Organisatie dat niet verantwoordelijk is voor zijn eigen inter
 
 ## DEEL XVIII. OPSCHORTING
 
-#### Artikel 31
+##### Artikel 31
 
 Indien een Lid zijn financiële verplichtingen jegens de Organisatie of anderszins zijn verplichtingen uit hoofde van dit Verdrag niet nakomt, kan het Congres bij resolutie de uit het lidmaatschap van de Organisatie voortvloeiende rechten en voorrechten van dat Lid opschorten totdat het aan zijn financiële of andere verplichtingen heeft voldaan.
 
 ## DEEL XIX. BEKRACHTIGING EN TOETREDING
 
-#### Artikel 32
+##### Artikel 32
 
 Dit Verdrag wordt bekrachtigd door de ondertekenende Staten en de akten van bekrachtiging worden nedergelegd bij de Regering van de Verenigde Staten van Amerika, die elke ondertekenende en toetredende Staat in kennis stelt van de datum van de nederlegging daarvan.
 
-#### Artikel 33
+##### Artikel 33
 
 Met inachtneming van de bepalingen van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=III&artikel=3&z=2007-06-01&g=2007-06-01) van dit Verdrag geschiedt toetreding door de nederlegging van een akte van toetreding bij de Regering van de Verenigde Staten van Amerika, die elk Lid van de Organisatie daarvan in kennis stelt.
 
-#### Artikel 34
+##### Artikel 34
 
 Met inachtneming van de bepalingen van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003152&deel=III&artikel=3&z=2007-06-01&g=2007-06-01) van dit Verdrag:
 
@@ -392,7 +414,7 @@ Met inachtneming van de bepalingen van [artikel 3](https://wetten.overheid.nl/jc
 
 ## DEEL XX. INWERKINGTREDING
 
-#### Artikel 35
+##### Artikel 35
 
 Dit Verdrag treedt in werking dertig dagen na de nederlegging van de dertigste akte van bekrachtiging of toetreding. Dit Verdrag treedt voor elke Staat die het na die datum bekrachtigt of ertoe toetreedt in werking dertig dagen na de nederlegging van zijn akte van bekrachtiging of toetreding.
 

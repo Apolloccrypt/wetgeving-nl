@@ -1,13 +1,36 @@
 ---
-title: "Beleidsregel vergunningverlening van de NIWO"
+title: "Beleidsregel van de Nationale en Internationale Wegvervoer Organisatie (NIWO) inzake toepassing van de Wet wegvervoer goederen, Verordening (EG) nr. 1071/2009 en Verordening (EG) nr. 1072/2009 ten aanzien van vergunningverlening (Beleidsregel vergunningverlening van de NIWO)"
 identifier: "BWBR0049164"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049164"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049164"
+soort: "zbo"
+stam_id: "16983743"
+version_id: "29859182"
+internal_id: "C42808011"
+label_id: "16894254"
+dtd_version: "2.0"
+original_entry_into_force: "2024-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049164/2024-01-01/0"
+intitule_bron: "Stcrt.2023-34390"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2023-12-28"
+intitule_in_force: "2023-12-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-34390"
+original_published_date: "2023-12-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-34390"
+entry_into_force_date: "2024-01-01"
+jci_1_3: "jci1.3:c:BWBR0049164&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0049164&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel vergunningverlening van de NIWO"
+entry_into_force: "2024-01-01"
 ---
-
 # Beleidsregel van de Nationale en Internationale Wegvervoer Organisatie (NIWO) inzake toepassing van de Wet wegvervoer goederen, Verordening (EG) nr. 1071/2009 en Verordening (EG) nr. 1072/2009 ten aanzien van vergunningverlening (Beleidsregel vergunningverlening van de NIWO)
 
 Gelet op [artikelen 4.1 van de Wet wegvervoer goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=4.1), [4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:4) en [4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
@@ -16,7 +39,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemeen
 
-#### Artikel 0. Definitiebepaling
+##### Artikel 0. Definitiebepaling
 
 - **beroepsverordening voor het wegvervoer:** [Verordening (EG) nr. 1071/2009](32009R1071) van het Europees Parlement en de Raad van de Europese Unie van 21 oktober 2009 tot vaststelling van gemeenschappelijke voorwaarden waaraan moet zijn voldaan om het beroep van wegvervoerondernemer uit te oefenen;
 
@@ -42,7 +65,7 @@ Besluit:
 
 ### Hoofdstuk 2. Vergunningeisen
 
-#### Artikel 1. Eisen aanvraag
+##### Artikel 1. Eisen aanvraag
 
 Bij een aanvraag voor verlening of verlenging van de communautaire vergunning wordt ingevolge artikel 3 van de beroepsverordening voor het wegvervoer juncto [artikel 2.8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024800) vastgesteld of de onderneming die het beroep van wegvervoerondernemer voor rekening en risico uitoefent of wil gaan uitoefenen voldoet aan de eisen van:
 
@@ -54,7 +77,7 @@ Bij een aanvraag voor verlening of verlenging van de communautaire vergunning wo
 
 - d. vakbekwaamheid.
 
-#### Artikel 2. Werkelijke en duurzame vestiging
+##### Artikel 2. Werkelijke en duurzame vestiging
 
 1. De onderneming is werkelijk en op duurzame wijze in Nederland gevestigd indien in verhouding tot de omvang van de vervoersactiviteiten én in onderling verband en samenhang bezien:
 
@@ -82,7 +105,7 @@ Bij een aanvraag voor verlening of verlenging van de communautaire vergunning wo
 
 5. Dit artikel geldt niet voor de houders van de binnenlandse vergunning.
 
-#### Artikel 3. Betrouwbaarheid
+##### Artikel 3. Betrouwbaarheid
 
 1. De onderneming, vervoersmanager en uitvoerend directeur voldoen aan de eis van betrouwbaarheid.
 
@@ -92,7 +115,7 @@ Bij een aanvraag voor verlening of verlenging van de communautaire vergunning wo
 
 4. De onderneming overlegt in elk geval een nieuwe verklaring omtrent het gedrag bij tussentijdse toetreding van een bestuurder, vervoersmanager of uitvoerend directeur of op verzoek van de NIWO.
 
-#### Artikel 3a. ERRU: verlies van betrouwbaarheid en rehabilitatie
+##### Artikel 3a. ERRU: verlies van betrouwbaarheid en rehabilitatie
 
 1. Bij het verlies van betrouwbaarheid wordt de vergunning van de onderneming geschorst of ingetrokken of de vervoersmanager ongeschikt verklaard indien de NIWO oordeelt dat dit een evenredige sanctie is.
 
@@ -110,7 +133,7 @@ Bij een aanvraag voor verlening of verlenging van de communautaire vergunning wo
 
 6. De vervoersmanager die ongeschikt is verklaard, is na afloop van een termijn van twee jaar en nadat opnieuw de examens met succes zijn afgelegd, gerehabiliteerd.
 
-#### Artikel 3b. [Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798)
+##### Artikel 3b. [Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798)
 
 1. Tijdens de aanvraag- of verlengingsprocedure van de communautaire vergunning en gedurende de looptijd van de vergunning kan te allen tijde een onderzoek als bedoeld in [artikel 7a van de Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=7a) worden ingesteld.
 
@@ -118,7 +141,7 @@ Bij een aanvraag voor verlening of verlenging van de communautaire vergunning wo
 
 3. Voordat toepassing wordt gegeven aan het tweede lid, kan de NIWO het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, als bedoeld in [artikel 8 van de Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=8), om een advies als bedoeld in [artikel 9 van de Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=9) vragen.
 
-#### Artikel 4. Financiële draagkracht
+##### Artikel 4. Financiële draagkracht
 
 1. De onderneming beschikt ter voldoening aan de eis van financiële draagkracht over kapitaal en reserves van € 9.000, – wanneer slechts één voertuig wordt gebruikt en € 5.000, – voor ieder volgend voertuig.
 
@@ -158,7 +181,7 @@ Bij een aanvraag voor verlening of verlenging van de communautaire vergunning wo
 
 9. De onderneming toont haar financiële draagkracht in ieder geval opnieuw aan indien een uitbreiding van het aantal gewaarmerkte afschriften leidt tot overschrijding van het door de onderneming eerder aangetoonde risicodragend vermogen.
 
-#### Artikel 5. Vakbekwaamheid
+##### Artikel 5. Vakbekwaamheid
 
 1. De vakbekwaamheid wordt ingebracht door een natuurlijk persoon, de vervoersmanager, die door overlegging van een erkend getuigschrift aantoont dat hij de vereiste kennis bezit.
 
@@ -198,13 +221,13 @@ Bij een aanvraag voor verlening of verlenging van de communautaire vergunning wo
 
 - c. één holding waartoe meerdere vervoersondernemingen behoren.
 
-#### Artikel 6. Vrijstelling van het afleggen van examens van vakbekwaamheid
+##### Artikel 6. Vrijstelling van het afleggen van examens van vakbekwaamheid
 
 (Vervallen per inwerkingstreding van deze beleidsregel.)
 
 ### Hoofdstuk 3. Aanvraagprocedure
 
-#### Artikel 7. Indienen aanvraag
+##### Artikel 7. Indienen aanvraag
 
 1. Een aanvraag tot verlening of verlenging van een communautaire vergunning kan langs elektronische weg worden ingediend, mits dit via het daartoe ingerichte ondernemersloket geschiedt.
 
@@ -224,7 +247,7 @@ Bij een aanvraag voor verlening of verlenging van de communautaire vergunning wo
 
 ### Hoofdstuk 4. Binnenlandse vergunning
 
-#### Artikel 8. Eisen binnenlandse vergunning
+##### Artikel 8. Eisen binnenlandse vergunning
 
 1. De NIWO toetst eens per vijf jaar of de houder van de binnenlandse vergunning voldoet aan de eisen van betrouwbaarheid, financiële draagkracht en vakbekwaamheid.
 
@@ -254,7 +277,7 @@ Bij een aanvraag voor verlening of verlenging van de communautaire vergunning wo
 
 ### Hoofdstuk 5. Onderzoek
 
-#### Artikel 9. Onderzoek naar naleving van vergunningeisen
+##### Artikel 9. Onderzoek naar naleving van vergunningeisen
 
 1. Gedurende de looptijd van de vergunning kan te allen tijde onderzoek naar de naleving van de vergunningeisen worden ingesteld bij de onderneming.
 
@@ -276,7 +299,7 @@ Bij een aanvraag voor verlening of verlenging van de communautaire vergunning wo
 
 10. Indien de onderneming, ingeval geen bezwaar wordt ingediend, niet binnen één week na de inwerkingtreding van de beschikking tot intrekking de vergunning en de gewaarmerkte afschriften inlevert, kan de NIWO een last onder dwangsom opleggen.
 
-#### Artikel 10. Risicobedrijven
+##### Artikel 10. Risicobedrijven
 
 1. Een onderneming die beschikt over een communautaire vergunning wordt beschouwd als risicobedrijf, als bedoeld in artikel 12 van de beroepsverordening voor het wegvervoer, in elk geval indien sprake is van:
 
@@ -294,7 +317,7 @@ Bij een aanvraag voor verlening of verlenging van de communautaire vergunning wo
 
 ### Hoofdstuk 6. Financiële verstrengeling
 
-#### Artikel 11. Voor rekening en risico van de vervoerder
+##### Artikel 11. Voor rekening en risico van de vervoerder
 
 1. Indien wordt onderzocht of er sprake is van vervoer voor rekening en risico van de onderneming wordt de mate van financiële verstrengeling beoordeeld.
 
@@ -322,7 +345,7 @@ Bij een aanvraag voor verlening of verlenging van de communautaire vergunning wo
 
 4. Een vennootschap onder firma, een commanditaire vennootschap, een maatschap, een coöperatie en een stichting overleggen op verzoek een verklaring gezamenlijk vervoer.
 
-#### Artikel 12. Wijzigingen in het vennootschapsbestand
+##### Artikel 12. Wijzigingen in het vennootschapsbestand
 
 1. Zodra een vergunning is verleend geeft een vennootschap onder firma wijzigingen in het vennootschapsbestand onverwijld door aan de NIWO.
 
@@ -336,7 +359,7 @@ Bij een aanvraag voor verlening of verlenging van de communautaire vergunning wo
 
 ### Hoofdstuk 7. Vervoersdocumenten
 
-#### Artikel 13. Gewaarmerkte afschriften
+##### Artikel 13. Gewaarmerkte afschriften
 
 1. De NIWO beoordeelt het aantal af te geven gewaarmerkte afschriften aan de hand van:
 
@@ -358,7 +381,7 @@ Bij een aanvraag voor verlening of verlenging van de communautaire vergunning wo
 
 7. Indien de onderneming de vervoersdocumenten die op grond van het vijfde lid zijn komen te vervallen niet binnen één week na het vervallen ervan inlevert, kan de NIWO een last onder dwangsom opleggen.
 
-#### Artikel 14. Overbruggingsbewijzen
+##### Artikel 14. Overbruggingsbewijzen
 
 1. Bij een aanvraag als bedoeld in [artikel 7, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049164&hoofdstuk=3&artikel=7&z=2024-01-01&g=2024-01-01), van deze beleidsregel worden op verzoek van de onderneming overbruggingsbewijzen verstrekt gedurende de aanvraagprocedure voor maximaal zes maanden waarbij de geldigheid van het overbruggingsbewijs ingaat vanaf de datum van uitgifte van het overbruggingsbewijs.
 
@@ -368,7 +391,7 @@ Bij een aanvraag voor verlening of verlenging van de communautaire vergunning wo
 
 4. Voor een overbruggingsbewijs is de vergoeding verschuldigd zoals vastgesteld in [artikel 4 van het Besluit vergoedingen NIWO](https://wetten.overheid.nl/jci1.3:c:BWBR0044594&artikel=4).
 
-#### Artikel 15. Vermissing gewaarmerkte afschriften
+##### Artikel 15. Vermissing gewaarmerkte afschriften
 
 1. Bij vermissing van gewaarmerkte afschriften wordt door de onderneming terstond een verklaring van vermissing overgelegd.
 
@@ -376,7 +399,7 @@ Bij een aanvraag voor verlening of verlenging van de communautaire vergunning wo
 
 3. Voor het in het tweede lid bedoelde gewaarmerkte afschrift is de vergoeding verschuldigd zoals vastgesteld in [artikel 4 van het Besluit vergoedingen NIWO](https://wetten.overheid.nl/jci1.3:c:BWBR0044594&artikel=4).
 
-#### Artikel 16. Faillissement
+##### Artikel 16. Faillissement
 
 1. Indien een onderneming in staat van faillissement is verklaard, wordt de verleende vergunning ingetrokken waarvan mededeling wordt gedaan aan de curator.
 
@@ -390,7 +413,7 @@ Bij een aanvraag voor verlening of verlenging van de communautaire vergunning wo
 
 ### Hoofdstuk 8. Bezwaar en beroep
 
-#### Artikel 17. Bezwaar
+##### Artikel 17. Bezwaar
 
 1. Een bezwaarschrift kan langs elektronische weg worden ingediend, mits dit via het daartoe ingerichte ondernemersloket geschiedt.
 
@@ -400,14 +423,14 @@ Bij een aanvraag voor verlening of verlenging van de communautaire vergunning wo
 
 ### Hoofdstuk 9. Overige bepalingen
 
-#### Artikel 18. Intrekking
+##### Artikel 18. Intrekking
 
 De [beleidsregel van 12 december 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0040349) (**Stcrt.** 12 december 2017, nr. 71206) wordt ingetrokken.
 
-#### Artikel 19. Inwerkingtreding
+##### Artikel 19. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van 1 januari 2024.
 
-#### Artikel 20. Citeertitel
+##### Artikel 20. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: ‘Beleidsregel vergunningverlening van de NIWO’.

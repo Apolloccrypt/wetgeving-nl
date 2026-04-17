@@ -1,13 +1,38 @@
 ---
 title: "Overeenkomst inzake de bescherming van vleermuizen in Europa"
 identifier: "BWBV0002713"
-categorie: "Internationaal recht"
-publicatiedatum: 2004-02-07
-laatste_update: 2004-02-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002713"
+country: "nl"
+rank: "verdrag"
+publication_date: "2004-02-07"
+last_updated: "2004-02-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002713"
+soort: "verdrag"
+stam_id: "10003060643"
+version_id: "10003063522"
+internal_id: "C10006976861"
+label_id: "10003047054"
+dtd_version: "2.0"
+original_entry_into_force: "1994-01-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002713/2004-02-07/0"
+intitule_bron: "Trb.1992-18"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-03-17"
+intitule_published: "1992-02-11"
+intitule_in_force: "1993-12-01"
+intitule_status: "goed"
+original_publication: "Trb.1992-18"
+original_signed_date: "1992-03-17"
+original_published_date: "1992-02-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1992-18"
+entry_into_force_date: "1994-01-16"
+jci_1_3: "jci1.3:c:BWBV0002713&z=2004-02-07&g=2004-02-07"
+jci_1_0: "1.0:c:BWBV0002713&g=2004-02-07"
+citeertitel_status: "officieel"
+signed_date: "1992-03-17"
+entry_into_force: "1994-01-16"
 ---
-
 # Overeenkomst inzake de bescherming van vleermuizen in Europa
 
 The Contracting Parties
@@ -24,7 +49,7 @@ Convinced that the conclusion of an Agreement for these species would greatly be
 
 Have agreed as follows:
 
-#### Article I. Scope and Interpretation
+##### Article I. Scope and Interpretation
 
 For the purposes of this Agreement:
 
@@ -40,7 +65,7 @@ For the purposes of this Agreement:
 
 - f). "In Europe" means the continent of Europe.
 
-#### Article II. General Provisions
+##### Article II. General Provisions
 
 1. This Agreement is an AGREEMENT within the meaning of [paragraph 3 of Article IV of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004769&artikel=IV).
 
@@ -52,7 +77,7 @@ For the purposes of this Agreement:
 
 5. The Annexes to this Agreement form an integral part thereof. Any reference to the Agreement includes a reference to its Annexes.
 
-#### Article III. Fundamental Obligations
+##### Article III. Fundamental Obligations
 
 1. Each Party shall prohibit the deliberate capture, keeping or killing of bats except under permit from its competent authority.
 
@@ -70,13 +95,13 @@ For the purposes of this Agreement:
 
 8. Each Party shall, wherever appropriate, consider the potential effects of pesticides on bats, when assessing pesticides for use, and shall endeavour to replace timber treatment chemicals which are highly toxic to bats with safer alternatives.
 
-#### Article IV. National Implementation
+##### Article IV. National Implementation
 
 1. Each Party shall adopt and enforce such legislative and administrative measures as may be necessary for the purpose of giving effect to this Agreement.
 
 2. The provisions of this Agreement shall in no way affect the right of Parties to adopt stricter measures concerning the conservation of bats.
 
-#### Article V. Meetings of the Parties
+##### Article V. Meetings of the Parties
 
 1. There shall be periodic meetings of the Parties to this Agreement. The Government of the United Kingdom shall call the first meeting of the Parties to the Agreement not later than 3 years after the date of entry into force of the Agreement. The Parties to the Agreement shall adopt rules of procedure for their meetings and financial rules, including the provisions on the budget and the scale of contributions for the next financial period. Such rules shall be adopted by a two-thirds majority of the Parties present and voting. Decisions taken under the financial rules shall require a three-quarters majority of the Parties present and voting.
 
@@ -88,11 +113,11 @@ For the purposes of this Agreement:
 
 5. Regional Economic Integration Organisations which are Parties to this Agreement shall, in matters within their competence, exercise their right to vote with a number of votes equal to the number of their Member States which are Parties to the Agreement and present at the time of the vote. A Regional Economic Integration Organisation shall not exercise its right to vote if its Member States exercise theirs, and vice versa.
 
-#### Article VI. Reports on Implementation
+##### Article VI. Reports on Implementation
 
 Each Party shall present to each meeting of the Parties an up-to-date report on its implementation of this Agreement. It shall circulate the report to the Parties not less than 90 days before the opening of the ordinary meeting.
 
-#### Article VII. Amendment of the Agreement
+##### Article VII. Amendment of the Agreement
 
 1. This Agreement may be amended at any meeting of the Parties.
 
@@ -114,15 +139,15 @@ Such reservation may be withdrawn at any time by written notification to the Dep
 
 - b). be considered as a Party to the unamended Agreement in relation to any Party not bound by the Amendment.
 
-#### Article VIII. Reservations
+##### Article VIII. Reservations
 
 The provisions of this Agreement shall not be subject to general reservations. However, a Range State or Regional Economic Integration Organisation may, on becoming a Party in accordance with Articles X or XI, enter a specific reservation with regard to any particular species of bat.
 
-#### Article IX. Settlement of Disputes
+##### Article IX. Settlement of Disputes
 
 Any dispute which may arise between Parties with respect to the interpretation or application of the provisions of this Agreement shall be subject to negotiation between the Parties involved in the dispute.
 
-#### Article X. Signature, Ratification, Acceptance and Approval
+##### Article X. Signature, Ratification, Acceptance and Approval
 
 This Agreement shall be open to signature by Range States or Regional Economic Integration Organisations who may become Parties either by:
 
@@ -134,19 +159,19 @@ Instruments of ratification, acceptance or approval shall be deposited with the 
 
 This Agreement shall remain open for signature until the date of entry into force of the Agreement.
 
-#### Article XI. Accession
+##### Article XI. Accession
 
 This Agreement shall be open for accession by Range States or Regional Economic Integration Organisations after the date of entry into force of the Agreement. Instruments of accession shall be deposited with the Depositary.
 
-#### Article XII. Entry into Force
+##### Article XII. Entry into Force
 
 This Agreement shall enter into force on the ninetieth day following the date on which five Range States have become Parties in accordance with Article X. Thereafter it shall enter into force for a signatory or acceding State on the thirtieth day after the deposit of its instrument of ratification, acceptance, approval or accession.
 
-#### Article XIII. Denunciation and Termination
+##### Article XIII. Denunciation and Termination
 
 Any Party may denounce this Agreement by written notification to the Depositary at any time. The denunciation shall take effect twelve months after the date on which the Depositary has received the notification. The Agreement shall remain in force for at least ten years, and thereafter shall terminate on the date on which there cease to be at least five Parties thereto.
 
-#### Article XIV. Depositary
+##### Article XIV. Depositary
 
 The original of the Agreement, in English, French and German, each version being equally authentic, shall be deposited with the Government of the United Kingdom, which shall be the Depositary and shall transmit certified copies thereof to all States and any Regional Economic Integration Organisations that have signed the Agreement or deposited instruments of ratification, acceptance, approval or accession.
 

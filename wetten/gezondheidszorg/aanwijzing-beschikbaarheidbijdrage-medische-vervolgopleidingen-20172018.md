@@ -1,13 +1,39 @@
 ---
-title: "Aanwijzing beschikbaarheidbijdrage (medische) vervolgopleidingen 2017–2018"
+title: "Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 6 juli 2016, kenmerk 984591-152516-MC, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake beschikbaarheidbijdrage (medische) vervolgopleidingen 2017–2018"
 identifier: "BWBR0038287"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2016-09-01
-laatste_update: 2016-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038287"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2016-09-01"
+last_updated: "2016-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038287"
+soort: "ministeriele-regeling"
+stam_id: "13699533"
+version_id: "23468202"
+internal_id: "C33807101"
+label_id: "13666064"
+dtd_version: "2.0"
+original_entry_into_force: "2016-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038287/2016-09-01/0"
+intitule_bron: "Stcrt.2016-36918"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-07-06"
+intitule_published: "2016-07-15"
+intitule_in_force: "2016-07-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-36918"
+original_signed_date: "2016-07-06"
+original_published_date: "2016-07-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-36918"
+entry_into_force_date: "2016-09-01"
+jci_1_3: "jci1.3:c:BWBR0038287&z=2016-09-01&g=2016-09-01"
+jci_1_0: "1.0:c:BWBR0038287&g=2016-09-01"
+citeertitel_status: "redactioneel"
+short_title: "Aanwijzing beschikbaarheidbijdrage (medische) vervolgopleidingen 2017–2018"
+signed_date: "2016-07-06"
+entry_into_force: "2016-09-01"
 ---
-
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 6 juli 2016, kenmerk 984591-152516-MC, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake beschikbaarheidbijdrage (medische) vervolgopleidingen 2017–2018
 
 De Minister van Volksgezondheid, Welzijn en Sport,

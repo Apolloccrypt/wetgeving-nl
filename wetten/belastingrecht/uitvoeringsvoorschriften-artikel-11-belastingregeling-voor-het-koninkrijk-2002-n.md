@@ -1,13 +1,37 @@
 ---
 title: "Uitvoeringsvoorschriften artikel 11 Belastingregeling voor het Koninkrijk 2002 (Nederlandse Antillen)"
 identifier: "BWBR0013244"
-categorie: "Belastingrecht"
-publicatiedatum: 2002-01-01
-laatste_update: 2002-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013244"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2002-01-01"
+last_updated: "2002-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013244"
+soort: "ministeriele-regeling"
+stam_id: "5360443"
+version_id: "9639242"
+internal_id: "C12979361"
+label_id: "5336174"
+dtd_version: "2.0"
+original_entry_into_force: "2002-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013244/2002-01-01/0"
+intitule_bron: "Stcrt.2001-249"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-12-20"
+intitule_published: "2001-12-27"
+intitule_in_force: "2001-12-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2001-249"
+original_signed_date: "2001-12-20"
+original_published_date: "2001-12-27"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2002-01-01"
+jci_1_3: "jci1.3:c:BWBR0013244&z=2002-01-01&g=2002-01-01"
+jci_1_0: "1.0:c:BWBR0013244&g=2002-01-01"
+citeertitel_status: "officieel"
+signed_date: "2001-12-20"
+entry_into_force: "2002-01-01"
 ---
-
 # Uitvoeringsvoorschriften artikel 11 Belastingregeling voor het Koninkrijk 2002 (Nederlandse Antillen)
 
 In overeenstemming met de Minister van Financiën van de Nederlandse Antillen;
@@ -18,13 +42,13 @@ Besluit:
 
 Vast te stellen de navolgende regeling met bijlagen I en II.¹De bij deze regeling horende bijlagen I en II zullen begin 2002 worden vastgesteld.
 
-#### Artikel 1. Algemeen
+##### Artikel 1. Algemeen
 
 1. Deze regeling neemt over de begrippen van de [Belastingregeling voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002464).
 
 2. Deze regeling zal zo nodig worden aangepast bij invoering van een dividendbelasting door de Nederlandse Antillen.
 
-#### Artikel 2. Nederlandse dividendbelasting met betrekking tot portfoliodividenden (vrijstellingsprocedure)
+##### Artikel 2. Nederlandse dividendbelasting met betrekking tot portfoliodividenden (vrijstellingsprocedure)
 
 1. Een inwoner van de Nederlandse Antillen die, ingevolge artikel 11, tweede lid, van de Belastingregeling voor het Koninkrijk, aanspraak heeft op vermindering van dividendbelasting, levert voor het geldend maken van die aanspraak bij de bevoegde aanslagregelende autoriteit over zijn woonplaats een ingevulde en ondertekende verklaring in tweevoud in op een formulier volgens het in bijlage I opgenomen model (formulier 'IB 92 NAN'). Nadat hij een exemplaar van de verklaring, voorzien van dagtekening en ondertekening van de daarop voorkomende bevestiging omtrent de woonplaats, van vorenbedoelde aanslagregelende autoriteit heeft terugontvangen, legt hij dit over bij het innen van de opbrengst van de dividenden.
 
@@ -32,7 +56,7 @@ Vast te stellen de navolgende regeling met bijlagen I en II.¹De bij deze regeli
 
 3. Voorzover dividendbelasting die is ingehouden en afgedragen, ingevolge het tweede lid bij de uitbetaling van de opbrengst niet in aftrek is gebracht, wordt deze aan de vennootschap teruggegeven na indiening van een verzoek bij de inspecteur binnen wiens ambtsgebied zij is gevestigd, onder overlegging van het van een ondertekende bevestiging omtrent de woonplaats voorziene exemplaar van de in het eerste lid bedoelde verklaring. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking.
 
-#### Artikel 3. Nederlandse dividendbelasting met betrekking tot portfoliodividenden (teruggaafprocedure)
+##### Artikel 3. Nederlandse dividendbelasting met betrekking tot portfoliodividenden (teruggaafprocedure)
 
 1. Een inwoner van de Nederlandse Antillen die, ingevolge artikel 11, tweede lid, van de Belastingregeling voor het Koninkrijk, aanspraak heeft op vermindering van dividendbelasting en die, naar het oordeel van de inspecteur van de Belastingdienst/Particulieren/Ondernemingen buitenland, zijn aanspraak niet op de voet van artikel 2 heeft kunnen geldend maken, heeft recht op teruggaaf van hetgeen aan dividendbelasting meer is ingehouden dan 15 percent. Toetsing zal terzake plaatsvinden aan de hand van de voorwaarden die zijn opgenomen in de Belastingregeling voor het Koninkrijk.
 
@@ -50,7 +74,7 @@ Nadat hij een exemplaar van de verklaring, voorzien van dagtekening en onderteke
 
 De inspecteur van de Belastingdienst/Particulieren/Ondernemingen buitenland beslist op het verzoek bij voor bezwaar vatbare beschikking. Het terug te geven bedrag wordt door de ontvanger van de Belastingdienst/Particulieren/Ondernemingen buitenland aan de belanghebbende overgemaakt.
 
-#### Artikel 4. Nederlandse dividendbelasting met betrekking tot deelnemingsdividenden (vrijstellingsprocedure)
+##### Artikel 4. Nederlandse dividendbelasting met betrekking tot deelnemingsdividenden (vrijstellingsprocedure)
 
 1. Een lichaam dat inwoner van de Nederlandse Antillen is, en dat ingevolge artikel 11, derde lid, derde volzin, van de Belastingregeling voor het Koninkrijk, aanspraak heeft op vermindering van dividendbelasting, levert voor het geldend maken van die aanspraak bij de bevoegde aanslagregelende autoriteit over zijn plaats van vestiging een ingevulde en ondertekende verklaring in tweevoud in op een formulier volgens het in bijlage II opgenomen model (formulier 'IB 95(2) NAN'). Nadat het lichaam een exemplaar van de verklaring, voorzien van dagtekening en ondertekening van de daarop voorkomende bevestiging omtrent de woonplaats, van vorenbedoelde aanslagregelende autoriteit heeft terugontvangen, legt het dit over bij het innen van de dividenden.
 
@@ -74,7 +98,7 @@ De inspecteur van de Belastingdienst/Particulieren/Ondernemingen buitenland besl
 
 6. Het terug te geven bedrag wordt door de ontvanger ten behoeve van de belanghebbende aan de vennootschap overgemaakt.
 
-#### Artikel 5. Nederlandse dividendbelasting met betrekking tot deelnemingsdividenden (teruggaafprocedure)
+##### Artikel 5. Nederlandse dividendbelasting met betrekking tot deelnemingsdividenden (teruggaafprocedure)
 
 1. Indien meer dan 8,3 percent dividendbelasting is ingehouden van dividenden betaald door een vennootschap aan een lichaam dat inwoner van de Nederlandse Antillen is, terwijl ingevolge artikel 11, derde lid, derde volzin, van de Belastingregeling voor het Koninkrijk, de daarop in te houden dividendbelasting 8,3 percent bedraagt, heeft dat lichaam recht op teruggaaf van hetgeen aan dividendbelasting meer is ingehouden dan 8,3 percent.
 
@@ -94,7 +118,7 @@ De inspecteur van de Belastingdienst/Particulieren/Ondernemingen buitenland besl
 
 4. Het terug te geven bedrag wordt door de ontvanger aan de belanghebbende overgemaakt.
 
-#### Artikel 5A. Overmaking van Nederlandse dividendbelasting als bedoeld in artikel 11, derde lid, derde volzin, onderdeel b, van de Belastingregeling voor het Koninkrijk (met betrekking tot deelnemingsdividenden)
+##### Artikel 5A. Overmaking van Nederlandse dividendbelasting als bedoeld in artikel 11, derde lid, derde volzin, onderdeel b, van de Belastingregeling voor het Koninkrijk (met betrekking tot deelnemingsdividenden)
 
 1. De inspecteur binnen wiens ambtsgebied de vennootschap is gevestigd, zendt, na te hebben vastgesteld dat de dividendbelasting werd afgedragen, en dat de verklaringen onder onderdeel 3, a t/m d, van het formulier IB 95(2) NAN niet strijdig zijn met de hem overigens ter beschikking staande gegevens, onverwijld na binnenkomst van het aangiftebiljet dividendbelasting dan wel van het verzoekschrift als bedoeld in artikel 4, vijfde lid of artikel 5, tweede lid, een afschrift daarvan alsmede een afschrift van alle bijbehorende bijlagen door aan de Belastingdienst/Particulieren/Ondernemingen buitenland. In het geval de inhoudingsplichtige een beroep doet op een vermindering ingevolge artikel 11, tweede lid van de Wet op de dividendbelasting 1965, zal een onderzoek naar de vraag of deze vermindering terecht in aanmerking werd genomen, de hiervoor bedoelde doorzending niet vertragen.
 
@@ -118,17 +142,17 @@ Eveneens worden, in geval van een (verzoek tot) ambtshalve vermindering van de a
 
 8. Onverschuldigd gebleken overmakingen kunnen na beëindiging van de overmakingsregeling worden teruggevorderd.
 
-#### Artikel 5B. Overmakingsregeling voor het jaar 2001
+##### Artikel 5B. Overmakingsregeling voor het jaar 2001
 
 Ten aanzien van deelnemingsdividenden die betaalbaar zijn gesteld op of na 1 januari 2001 maar vóór 1 januari 2002, is het bepaalde in [artikel 5A](https://wetten.overheid.nl/jci1.3:c:BWBR0013244&artikel=5A&z=2002-01-01&g=2002-01-01) voor zoveel mogelijk van overeenkomstige toepassing, met dien verstande dat de over te maken bedragen gedurende dit tijdvak zijn gerelateerd aan de afgedragen en over dit tijdvak uiteindelijk daadwerkelijk verschuldigde dividendbelasting. [Artikel 5C](https://wetten.overheid.nl/jci1.3:c:BWBR0013244&artikel=5C&z=2002-01-01&g=2002-01-01) is eveneens van overeenkomstige toepassing. De bevoegde autoriteiten informeren elkaar over de wijze, waarop de uitvoerende instanties nader worden geïnstrueerd ten aanzien van de overmaking, samenhangend met de in 2001 betaalbaar gestelde dividenden.
 
-#### Artikel 5C. Samenloop met vermindering van dividendbelasting wegens dooruitdeling
+##### Artikel 5C. Samenloop met vermindering van dividendbelasting wegens dooruitdeling
 
 1. Voor toepassing van deze regeling worden voor de beoordeling van de feitelijke gecombineerde belastingdruk verminderingen ingevolge [artikel 11, tweede lid, van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=11) niet in aanmerking genomen.
 
 2. Bij het bepalen van de omvang van de op grond van de [artikelen 5A, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013244&artikel=5A&z=2002-01-01&g=2002-01-01), en [5B](https://wetten.overheid.nl/jci1.3:c:BWBR0013244&artikel=5B&z=2002-01-01&g=2002-01-01) over te maken bedragen wordt in aanmerking genomen de af te dragen dividendbelasting vóór aftrek van verminderingen ingevolge [artikel 11, tweede lid, van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=11).
 
-#### Artikel 6. Naheffing Nederlandse dividendbelasting met betrekking tot deelnemingsdividenden
+##### Artikel 6. Naheffing Nederlandse dividendbelasting met betrekking tot deelnemingsdividenden
 
 1. Indien ten aanzien van deelnemingsdividenden niet binnen de in [artikel 5A, vierde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0013244&artikel=5A&z=2002-01-01&g=2002-01-01), gestelde uiterste termijn overeenkomstig de in [artikel 5A](https://wetten.overheid.nl/jci1.3:c:BWBR0013244&artikel=5A&z=2002-01-01&g=2002-01-01) gestelde wijze is aangetoond dat in de Nederlandse Antillen het dividend is onderworpen aan een belasting met dien verstande dat de feitelijke gecombineerde belastingdruk van woonstaat en bronstaat tezamen op dit dividend ten minste 8,3 percent bedraagt, dan wel op enigerlei wijze is gebleken dat niet is voldaan aan de overige voorwaarden voor toepassing van [artikel 11, derde lid, derde volzin van de Belastingregeling voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&artikel=11), wordt door de bevoegde aanslagregelende autoriteit in Nederland van de vennootschap die het dividend heeft betaald, dividendbelasting over het gehele brutobedrag van dat dividend nageheven.
 
@@ -142,23 +166,23 @@ Ten aanzien van deelnemingsdividenden die betaalbaar zijn gesteld op of na 1 jan
 
 6. De bepalingen van de voorgaande leden van dit artikel laten onverlet de wijze van naheffing van dividendbelasting wegens het ten onrechte in aanmerking nemen van verminderingen als bedoeld in [artikel 11 van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=11).
 
-#### Artikel 7. Formele bepaling
+##### Artikel 7. Formele bepaling
 
 De in deze regeling bedoelde verklaringen, verzoeken, gegevens en mededelingen moeten duidelijk, stellig en zonder voorbehoud worden gedaan of verstrekt.
 
-#### Artikel 8. Termijn voor indiening van verzoeken om teruggaaf
+##### Artikel 8. Termijn voor indiening van verzoeken om teruggaaf
 
 Verzoeken om teruggaaf van belasting, als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013244&artikel=3&z=2002-01-01&g=2002-01-01), moeten bij de bevoegde inspecteur van de eenheid van de Belastingdienst zijn ingediend binnen een tijdvak van vijf jaren na het einde van het kalenderjaar waarin de belasting is geheven. Verzoeken om teruggaaf van belasting, als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013244&artikel=5&z=2002-01-01&g=2002-01-01), moeten bij de bevoegde inspecteur van de eenheid van de Belastingdienst zijn ingediend binnen een tijdvak van drie jaren na het einde van het kalenderjaar waarin het dividend betaalbaar werd gesteld.
 
-#### Artikel 9. Formulieren
+##### Artikel 9. Formulieren
 
 De in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013244&artikel=2&z=2002-01-01&g=2002-01-01), [3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013244&artikel=3&z=2002-01-01&g=2002-01-01), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013244&artikel=4&z=2002-01-01&g=2002-01-01), en [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013244&artikel=5&z=2002-01-01&g=2002-01-01), bedoelde formulieren worden van rijkswege verstrekt. De formulieren zijn op aanvraag kosteloos verkrijgbaar bij de Belastingdienst/Centrum voor facilitaire dienstverlening, Afdeling Logistiek reprografisch centrum, Postbus 1314, 7301 BN Apeldoorn.
 
-#### Artikel 10. Intrekking
+##### Artikel 10. Intrekking
 
 De regeling van de Staatssecretaris van Financiën van 19 december 1996, nr. IFZ96/1632 (Nederlandse Staatscourant van 23 december 1996, nr. 248) wordt ingetrokken, met dien verstande dat de bepalingen van die regeling van toepassing blijven met betrekking tot dividenden die zijn betaald of betaalbaar zijn gesteld vóór 1 januari 2002, met inachtneming van de [regeling in artikel 5B](https://wetten.overheid.nl/jci1.3:c:BWBR0013244&artikel=5B&z=2002-01-01&g=2002-01-01).
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 1. Deze regeling kan worden aangehaald als: [Uitvoeringsvoorschriften artikel 11 Belastingregeling voor het Koninkrijk 2002 (Nederlandse Antillen)](https://wetten.overheid.nl/jci1.3:c:BWBR0013244).
 

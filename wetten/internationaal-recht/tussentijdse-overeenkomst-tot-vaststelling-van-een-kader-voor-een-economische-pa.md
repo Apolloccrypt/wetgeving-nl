@@ -1,13 +1,32 @@
 ---
 title: "Tussentijdse Overeenkomst tot vaststelling van een kader voor een Economische Partnerschapsovereenkomst tussen staten in oostelijk en zuidelijk Afrika, enerzijds, en de Europese Gemeenschap en haar lidstaten, anderzijds"
 identifier: "BWBV0005864"
-categorie: "Internationaal recht"
-publicatiedatum: 2009-08-29
-laatste_update: 2009-08-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005864"
+country: "nl"
+rank: "verdrag"
+publication_date: "2009-08-29"
+last_updated: "2009-08-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005864"
+soort: "verdrag"
+stam_id: "10004903513"
+version_id: "10005217302"
+internal_id: "C10007976221"
+label_id: "10004888364"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005864/2009-08-29/0"
+intitule_bron: "Trb.2012-127"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2012-07-30"
+intitule_status: "nogniet"
+original_publication: "Trb.2012-127"
+original_published_date: "2012-07-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2012-127"
+jci_1_3: "jci1.3:c:BWBV0005864&z=2009-08-29&g=2009-08-29"
+jci_1_0: "1.0:c:BWBV0005864&g=2009-08-29"
+citeertitel_status: "redactioneel"
+entry_into_force: "2012-07-30"
 ---
-
 # Tussentijdse Overeenkomst tot vaststelling van een kader voor een Economische Partnerschapsovereenkomst tussen staten in oostelijk en zuidelijk Afrika, enerzijds, en de Europese Gemeenschap en haar lidstaten, anderzijds
 
 Preambule
@@ -44,11 +63,11 @@ zijn als volgt overeengekomen:1)[Red: De oorspronkelijke Bijlagen bij de Overeen
 
 ### HOOFDSTUK I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Werkingssfeer van de tussentijdse overeenkomst
+##### Artikel 1. Werkingssfeer van de tussentijdse overeenkomst
 
 Bij deze tussentijdse overeenkomst wordt een kader voor een economische partnerschapsovereenkomst, hierna „EPO” genoemd, vastgesteld.
 
-#### Artikel 2. Algemene EPO-doelstellingen
+##### Artikel 2. Algemene EPO-doelstellingen
 
 De doelstellingen van de economische partnerschapsovereenkomst zijn als volgt:
 
@@ -66,7 +85,7 @@ De doelstellingen van de economische partnerschapsovereenkomst zijn als volgt:
 
 - g. de bestaande relaties tussen de partijen op basis van solidariteit en wederzijdse belangen versterken. Om dit te bereiken verbetert de overeenkomst de economische en handelsbetrekkingen, geeft zij steun aan een nieuwe handelsdynamiek tussen de partijen door middel van de geleidelijke, asymmetrische liberalisering van de onderlinge handel en versterkt, verruimt en verdiept zij de samenwerking op alle gebieden die voor de handel en voor investeringen van belang zijn, een en ander met inachtneming van de WTO-verplichtingen.
 
-#### Artikel 3. Specifieke doelstellingen van deze overeenkomst
+##### Artikel 3. Specifieke doelstellingen van deze overeenkomst
 
 1. In overeenstemming met de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&artikel=34) en [35 van de Overeenkomst van Cotonou](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&artikel=35) zijn de doelstellingen van deze overeenkomst:
 
@@ -78,7 +97,7 @@ De doelstellingen van de economische partnerschapsovereenkomst zijn als volgt:
 
 2. De partijen verbinden zich ertoe de onderhandelingen te voltooien met het oog op de sluiting, uiterlijk op 31 december 2008, van een volledige EPO, onder meer over de in lid 1, onder b) en c), genoemde onderwerpen, in overeenstemming met de gemeenschappelijke routekaart die de partijen op 7 februari 2004 zijn overeengekomen.
 
-#### Artikel 4. Beginselen
+##### Artikel 4. Beginselen
 
 De beginselen van deze overeenkomst op basis waarvan de onderhandelingen tussen de partijen over een volledige EPO zullen worden voortgezet, zijn:
 
@@ -102,7 +121,7 @@ De beginselen van deze overeenkomst op basis waarvan de onderhandelingen tussen 
 
 ## TITEL I. ALGEMENE BEPALINGEN
 
-#### Artikel 5. Doelstellingen
+##### Artikel 5. Doelstellingen
 
 De samenwerking op handelsgebied heeft de volgende doelstellingen:
 
@@ -114,7 +133,7 @@ De samenwerking op handelsgebied heeft de volgende doelstellingen:
 
 - d. de markttoegangsvoorwaarden behouden en verbeteren om ervoor te zorgen dat de OZA-staten erop vooruit en niet erop achteruit gaan.
 
-#### Artikel 6. Werkingssfeer
+##### Artikel 6. Werkingssfeer
 
 1. Alleen de in bijlage II opgenomen overeenkomstsluitende OZA-staten gaan verbintenissen uit hoofde van dit hoofdstuk aan.
 
@@ -128,7 +147,7 @@ De samenwerking op handelsgebied heeft de volgende doelstellingen:
 
 ## TITEL II. VRIJ VERKEER VAN GOEDEREN
 
-#### Artikel 7. Douanerechten
+##### Artikel 7. Douanerechten
 
 In het kader van de afschaffing van de douanerechten op invoer worden onder douanerechten verstaan alle rechten en heffingen, met inbegrip van alle aanvullende heffingen of belastingen, die worden opgelegd op of in verband met de invoer van goederen, met uitzondering van:
 
@@ -138,23 +157,23 @@ In het kader van de afschaffing van de douanerechten op invoer worden onder doua
 
 - c. vergoedingen en andere heffingen die in overeenstemming met [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&hoofdstuk=II&titeldeel=II&artikel=10&z=2009-08-29&g=2009-08-29) worden opgelegd.
 
-#### Artikel 8. Classificatie van de goederen
+##### Artikel 8. Classificatie van de goederen
 
 De classificatie van de handelsgoederen waarop deze overeenkomst van toepassing is, geschiedt overeenkomstig de tariefnomenclatuur van elk der partijen, in overeenstemming met het geharmoniseerd systeem inzake de omschrijving en codering van goederen (GS). De overeenkomstsluitende OZA-staten gebruiken de Comesa-nomenclatuur.
 
-#### Artikel 9. Basisrecht
+##### Artikel 9. Basisrecht
 
 Het basisrecht waarop de opeenvolgende verlagingen worden toegepast, is het recht dat voor het betrokken product is vermeld in het tariefschema van elk van beide partijen.
 
-#### Artikel 10. Vergoedingen en andere heffingen
+##### Artikel 10. Vergoedingen en andere heffingen
 
 De in [lid 7, onder c)](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&hoofdstuk=II&titeldeel=II&artikel=7&z=2009-08-29&g=2009-08-29), bedoelde vergoedingen en andere heffingen blijven beperkt tot, bij benadering, de kosten van de verleende diensten en beogen geen indirecte bescherming van binnenlandse producten of een belasting op de invoer voor fiscale doeleinden. Zij worden gebaseerd op specifieke tarieven. Voor consulaire diensten worden geen handelsgerelateerde vergoedingen en heffingen opgelegd.
 
-#### Artikel 11. Douanerechten op producten van oorsprong uit de OZA-staten
+##### Artikel 11. Douanerechten op producten van oorsprong uit de OZA-staten
 
 Producten van oorsprong uit de OZA-staten worden vrij van douanerechten in de EG ingevoerd, onder de in bijlage I genoemde voorwaarden.
 
-#### Artikel 12. Douanerechten op producten van oorsprong uit de EG
+##### Artikel 12. Douanerechten op producten van oorsprong uit de EG
 
 1. Douanerechten op de invoer van producten van oorsprong uit de EG worden verlaagd of afgeschaft in overeenstemming met de in bijlage II opgenomen schema's voor de liberalisering van de tarieven; die bijlage bevat de schema's van elk van de overeenkomstsluitende OZA-staten of van elke groep overeenkomstsluitende OZA-staten.
 
@@ -162,21 +181,21 @@ Producten van oorsprong uit de OZA-staten worden vrij van douanerechten in de EG
 
 3. Elk nieuw schema voor de liberalisering van de douanetarieven met betrekking tot de invoer van producten van oorsprong uit de EG dat na het begin van de ratificatieprocedure voor deze overeenkomst wordt ingediend, kan bij besluit van het EPO-comité in bijlage II bij deze overeenkomst worden opgenomen.
 
-#### Artikel 13. Oorsprongsregels
+##### Artikel 13. Oorsprongsregels
 
 Voor de toepassing van dit hoofdstuk worden als „van oorsprong” beschouwd de goederen die aan de oorsprongsregels in protocol 1 bij deze overeenkomst voldoen. Met het oog op de toepassing van de volledige EPO onderzoeken de partijen gedurende de periode tussen de inwerkingtreding van deze overeenkomst en de inwerkingtreding van de volledige EPO of de bepalingen van dat protocol verder kunnen worden vereenvoudigd. Zij houden daarbij rekening met de ontwikkelingsbehoeften van de OZA-staten en met de ontwikkeling van de technologie, van de productieprocessen en van alle andere factoren, met inbegrip van de lopende hervormingen van de oorsprongsregels, die een wijziging van de bepalingen van dat protocol nodig kunnen maken. Het EPO-comité besluit over dergelijke wijzigingen.
 
-#### Artikel 14. Status-quo
+##### Artikel 14. Status-quo
 
 Behoudens [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&hoofdstuk=II&titeldeel=II&artikel=12&z=2009-08-29&g=2009-08-29) komen de partijen overeen de invoerrechten op producten uit de andere partij niet te verhogen.
 
-#### Artikel 15. Uitvoerrechten en -belastingen
+##### Artikel 15. Uitvoerrechten en -belastingen
 
 1. Tenzij in bijlage III anders is bepaald, voeren de partijen gedurende de looptijd van deze overeenkomst geen nieuwe rechten of belastingen op of in verband met de uitvoer van goederen naar de andere partij in die hoger zijn dan de rechten of belastingen die op soortgelijke, voor verkoop in het binnenland bestemde producten worden geheven.
 
 2. Het EPO-comité kan een verzoek van een overeenkomstsluitende OZA-staat om een herziening van de in bijlage III opgenomen goederen onderzoeken.
 
-#### Artikel 16. Gunstiger behandeling als gevolg van vrijhandelsovereenkomsten
+##### Artikel 16. Gunstiger behandeling als gevolg van vrijhandelsovereenkomsten
 
 1. Wat de onder dit hoofdstuk vallende aangelegenheden betreft, kent de EG de overeenkomstsluitende OZA-staten in voorkomend geval een gunstiger behandeling toe wanneer die toepasselijk wordt doordat de EG na de ondertekening van deze overeenkomst partij wordt bij een vrijhandelsovereenkomst met derde partijen.
 
@@ -192,11 +211,11 @@ Behoudens [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&hoofdstuk
 
 ## TITEL III. NIET-TARIFAIRE MAATREGELEN
 
-#### Artikel 17. Verbod op kwantitatieve beperkingen
+##### Artikel 17. Verbod op kwantitatieve beperkingen
 
 Tenzij in de bijlagen I en II bij deze overeenkomst anderszins is bepaald, worden vanaf de inwerkingtreding van deze overeenkomst in de handel tussen de partijen alle invoer- of uitvoerverboden of -beperkingen, met uitzondering van douanerechten, belastingen en de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&hoofdstuk=II&titeldeel=II&artikel=7&z=2009-08-29&g=2009-08-29) bedoelde vergoedingen en andere heffingen, afgeschaft, ongeacht of zij de vorm hebben van contingenten, in- of uitvoervergunningen of andere maatregelen. Er worden geen nieuwe maatregelen van dien aard ingevoerd.
 
-#### Artikel 18. Nationale behandeling op het gebied van interne belastingen en regelgeving
+##### Artikel 18. Nationale behandeling op het gebied van interne belastingen en regelgeving
 
 1. Ingevoerde producten van oorsprong uit de andere partij worden noch direct, noch indirect aan hogere interne belastingen of andere interne heffingen van welke aard dan ook onderworpen dan die welke direct of indirect op soortgelijke nationale producten van toepassing zijn. Bovendien passen de partijen ook anderszins geen interne belastingen of andere interne heffingen toe om de binnenlandse productie te beschermen.
 
@@ -214,7 +233,7 @@ Tenzij in de bijlagen I en II bij deze overeenkomst anderszins is bepaald, worde
 
 ## TITEL IV. HANDELSBESCHERMINGSINSTRUMENTEN
 
-#### Artikel 19. Antidumpingrechten en compenserende rechten
+##### Artikel 19. Antidumpingrechten en compenserende rechten
 
 1. Behoudens het bepaalde in dit artikel vormt geen enkele bepaling in deze overeenkomst voor de EG of voor de overeenkomstsluitende OZA-staten, individueel of gezamenlijk, een beletsel om in overeenstemming met de desbetreffende WTO-overeenkomsten antidumpingmaatregelen of compenserende maatregelen in te stellen. Voor de toepassing van dit artikel wordt de oorsprong vastgesteld in overeenstemming met de niet-preferentiële oorsprongsregels van de partijen.
 
@@ -230,7 +249,7 @@ Tenzij in de bijlagen I en II bij deze overeenkomst anderszins is bepaald, worde
 
 7. De bepalingen in deze overeenkomst over geschillenbeslechting zijn niet van toepassing op dit artikel.
 
-#### Artikel 20. Multilaterale vrijwaringsmaatregelen
+##### Artikel 20. Multilaterale vrijwaringsmaatregelen
 
 1. Behoudens het bepaalde in dit artikel vormt geen enkele bepaling in deze overeenkomst voor de overeenkomstsluitende OZA-staten en de EG een beletsel om maatregelen te nemen overeenkomstig artikel XIX van de GATT 1994, de [WTO-Overeenkomst inzake vrijwaringsmaatregelen](onbekend) en [artikel 5 van de WTO-Overeenkomst inzake de landbouw](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=5). Voor de toepassing van dit artikel wordt de oorsprong vastgesteld in overeenstemming met de niet-preferentiële oorsprongsregels van de partijen.
 
@@ -240,7 +259,7 @@ Tenzij in de bijlagen I en II bij deze overeenkomst anderszins is bepaald, worde
 
 4. De bepalingen in deze overeenkomst over geschillenbeslechting zijn niet van toepassing op lid 1.
 
-#### Artikel 21. Bilaterale vrijwaringsmaatregelen
+##### Artikel 21. Bilaterale vrijwaringsmaatregelen
 
 1. Na alternatieve oplossingen te hebben onderzocht, kan een partij op de voorwaarden van en in overeenstemming met de procedures van dit artikel vrijwaringsmaatregelen van beperkte duur vaststellen die afwijken van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&hoofdstuk=II&titeldeel=II&artikel=11&z=2009-08-29&g=2009-08-29), [12](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&hoofdstuk=II&titeldeel=II&artikel=12&z=2009-08-29&g=2009-08-29) en [17](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&hoofdstuk=II&titeldeel=III&artikel=17&z=2009-08-29&g=2009-08-29).
 
@@ -294,7 +313,7 @@ Tenzij in de bijlagen I en II bij deze overeenkomst anderszins is bepaald, worde
 
 ## TITEL V. ADMINISTRATIEVE BEPALINGEN
 
-#### Artikel 22. Speciale bepaling over administratieve samenwerking
+##### Artikel 22. Speciale bepaling over administratieve samenwerking
 
 1. De partijen zijn het erover eens dat administratieve samenwerking van essentieel belang is voor de tenuitvoerlegging van en de controle op de preferentiële behandeling die op grond van dit hoofdstuk wordt verleend, en benadrukken hun vastberadenheid om onregelmatigheden en fraude op het gebied van douane- en aanverwante aangelegenheden te bestrijden.
 
@@ -320,11 +339,11 @@ Tenzij in de bijlagen I en II bij deze overeenkomst anderszins is bepaald, worde
 
 6. Tegelijk met de kennisgeving aan het EPO-comité overeenkomstig lid 5, onder a), publiceert de betrokken partij in haar officiële publicatieblad een bericht aan de importeurs. In dit bericht wordt aangegeven dat zij voor het betrokken product op grond van objectieve informatie tot de bevinding is gekomen dat geen administratieve medewerking is verleend en/of dat er sprake is van onregelmatigheden of fraude.
 
-#### Artikel 23. Handelwijze bij administratieve fouten
+##### Artikel 23. Handelwijze bij administratieve fouten
 
 Indien de bevoegde autoriteiten bij het beheer van de preferentiële uitvoerregeling een fout hebben gemaakt, met name bij de toepassing van de bepalingen van protocol 1 betreffende de definitie van het begrip „producten van oorsprong” en de methoden voor administratieve samenwerking, en deze fout gevolgen heeft voor de invoerrechten, kan de partij die met deze gevolgen wordt geconfronteerd het EPO-comité verzoeken na te gaan of passende maatregelen kunnen worden genomen om de situatie te herstellen.
 
-#### Artikel 24. Douanewaarde
+##### Artikel 24. Douanewaarde
 
 1. Artikel VII van de GATT 1994 en de [Overeenkomst inzake de toepassing van artikel VII van de GATT 1994](onbekend) zijn van toepassing op de voorschriften inzake de vaststelling van de douanewaarde in de handel tussen de partijen.
 
@@ -334,7 +353,7 @@ Indien de bevoegde autoriteiten bij het beheer van de preferentiële uitvoerrege
 
 ## TITEL I. ALGEMENE BEPALINGEN
 
-#### Artikel 25
+##### Artikel 25
 
 1. De partijen erkennen dat de visserij een belangrijke economische sector voor de OZA-regio is en aanzienlijk bijdraagt aan de economieën van de overeenkomstsluitende OZA-staten en dat zij grote mogelijkheden biedt voor de toekomstige economische ontwikkeling van de regio en voor vermindering van de armoede. De visserij is ook een belangrijke bron van voedsel en van buitenlandse valuta.
 
@@ -342,7 +361,7 @@ Indien de bevoegde autoriteiten bij het beheer van de preferentiële uitvoerrege
 
 3. De partijen zijn het erover eens dat de economische groei van de visserijsector en de vergroting van zijn bijdrage aan de OZA-economie het best kan worden bevorderd door een toename van waardetoevoegende activiteiten binnen deze sector, waarbij de duurzaamheid op lange termijn niet uit het oog mag worden verloren.
 
-#### Artikel 26. Doelstellingen
+##### Artikel 26. Doelstellingen
 
 De doelstellingen van de samenwerking op visserijgebied zijn:
 
@@ -356,11 +375,11 @@ De doelstellingen van de samenwerking op visserijgebied zijn:
 
 - e. tot stand brengen van banden met andere economische sectoren.
 
-#### Artikel 27. Werkingssfeer
+##### Artikel 27. Werkingssfeer
 
 De samenwerking bij de handel in visserijproducten en de ontwikkeling van de visserij heeft betrekking op de zeevisserij, de binnenvisserij en de aquicultuur.
 
-#### Artikel 28. Beginselen
+##### Artikel 28. Beginselen
 
 1. De beginselen van de samenwerking op visserijgebied zijn:
 
@@ -380,17 +399,17 @@ De samenwerking bij de handel in visserijproducten en de ontwikkeling van de vis
 
 2. Deze richtsnoeren moeten bijdragen tot een duurzame en verantwoorde ontwikkeling van de visbestanden in binnenwateren en op zee en van de aquicultuur en tot een optimalisering van de baten van deze sector voor huidige en toekomstige generaties, door grotere investeringen, capaciteitsopbouw en een betere markttoegang.
 
-#### Artikel 29. Preferentiële toegang
+##### Artikel 29. Preferentiële toegang
 
 De partijen werken samen om ervoor te zorgen dat financiële en andere steun wordt gegeven om het concurrentievermogen en de productiecapaciteit van de visverwerkende industrie te vergroten, de visserijsector te diversifiëren en de havenfaciliteiten te verbeteren.
 
 ## TITEL II. ZEEVISSERIJ
 
-#### Artikel 30. Werkingssfeer
+##### Artikel 30. Werkingssfeer
 
 De werkingssfeer van deze titel betreft het gebruik, het behoud en het beheer van de zeevisbestanden teneinde de baten van de visserij voor de OZA-regio te optimaliseren door de opbouw van investeringscapaciteit en een verbeterde markttoegang.
 
-#### Artikel 31. Doelstellingen
+##### Artikel 31. Doelstellingen
 
 De doelstellingen van de samenwerking zijn:
 
@@ -402,7 +421,7 @@ De doelstellingen van de samenwerking zijn:
 
 - d. bevorderen van een doeltreffende exploitatie en een doeltreffend behoud en beheer van de visbestanden in de exclusieve economische zone en de wateren die onder de jurisdictie van de OZA-staten vallen op grond van internationale instrumenten, waaronder Unclos ([Verdrag van de Verenigde Naties inzake het recht van de zee](https://wetten.overheid.nl/jci1.3:c:BWBV0003172)), ten voordele - zowel op economisch als op sociaal vlak - van zowel de OZA-staten als de EG.
 
-#### Artikel 32. Samenwerkingsgebieden
+##### Artikel 32. Samenwerkingsgebieden
 
 1. Om de doelstellingen van de samenwerking op het gebied van de zeevisserij binnen de omschreven beginselen te bereiken, heeft de samenwerking betrekking op visserijbeheer en instandhouding van visbestanden, schepenbeheer en regelingen voor de behandeling na de vangst, financiële en handelsmaatregelen en ontwikkeling van de visserij, van visserijproducten en van de mariene aquicultuur.
 
@@ -450,15 +469,15 @@ De partijen verbinden zich ertoe samen te werken bij de bevordering van de opric
 
 ## TITEL III. ONTWIKKELING VAN DE BINNENVISSERIJ EN DE AQUICULTUUR
 
-#### Artikel 33. Werkingssfeer
+##### Artikel 33. Werkingssfeer
 
 Deze titel heeft betrekking op de ontwikkeling van de binnen- en kustvisserij en de aquicultuur in de OZA-regio, wat capaciteitsopbouw, technologieoverdracht, sanitaire en fytosanitaire normen (SPS-normen), investeringen en financiering van investeringen, milieubescherming en wet- en regelgevingskaders betreft.
 
-#### Artikel 34. Doelstellingen
+##### Artikel 34. Doelstellingen
 
 De doelstellingen van samenwerking bij de ontwikkeling van de binnenvisserij en de aquicultuur zijn bevordering van de duurzame exploitatie van zoetwatervisbestanden, vergroting van de aquicultuurproductie, verwijdering van aanbodbeperkingen, verbetering van de kwaliteit van vis en visproducten zodat ze aan de SPS-normen van de EG voldoen, verbetering van de toegang tot de EG-markt, aanpakken van intraregionale handelsbelemmeringen, aantrekken van kapitaal en investeringen voor de sector, capaciteitsopbouw en verruiming van de toegang tot financiële steun voor particuliere investeerders in de ontwikkeling van de binnenvisserij en de aquicultuur.
 
-#### Artikel 35. Samenwerkingsgebieden
+##### Artikel 35. Samenwerkingsgebieden
 
 1. De samenwerkingsgebieden omvatten bijdragen van de EG op onderstaande gebieden:
 
@@ -508,7 +527,7 @@ De doelstellingen van samenwerking bij de ontwikkeling van de binnenvisserij en 
 
 ## TITEL I. ALGEMENE BEPALINGEN
 
-#### Artikel 36. Algemene bepalingen
+##### Artikel 36. Algemene bepalingen
 
 1. De partijen komen overeen de ontwikkelingsbehoeften van de OZA-staten aan te pakken, teneinde een duurzame groei in de OZA-regio te bevorderen, de productie- en aanbodcapaciteit van de betrokken staten te vergroten, de structurele hervorming en het concurrentievermogen van hun economieën en hun diversificatie en waardetoevoeging te stimuleren en regionale integratie te ondersteunen.
 
@@ -528,13 +547,13 @@ De doelstellingen van samenwerking bij de ontwikkeling van de binnenvisserij en 
 
 9. De partijen zijn het erover eens dat het herzieningsproces van de [Overeenkomst van Cotonou](https://wetten.overheid.nl/jci1.3:c:BWBV0005264), onverminderd [artikel 95, lid 4, van die overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&artikel=95), voor de partijen een gelegenheid is om na te gaan wat met de in de overeenkomst opgenomen strategieën op het gebied van de ontwikkelingssamenwerking bereikt is, waar de problemen liggen en wat de vooruitzichten zijn.
 
-#### Artikel 37. Doelstellingen
+##### Artikel 37. Doelstellingen
 
 1. Met de economische en de ontwikkelingssamenwerking wordt ernaar gestreefd het concurrentievermogen van de OZA-economieën te vergroten, aanbodcapaciteit op te bouwen en de overeenkomstsluitende OZA-staten in staat te stellen de EPO soepel uit te voeren.
 
 2. Met de economische en de ontwikkelingssamenwerking wordt ernaar gestreefd de OZA-economieën structureel om te vormen door een sterke, concurrentiegerichte en gediversifieerde economische basis in de OZA-staten te leggen; daartoe worden hun productie-, distributie-, vervoers- en marketingcapaciteit vergroot, hun handelscapaciteit en hun capaciteit om investeringen aan te trekken ontwikkeld, het beleid en de regelgeving van de OZA-staten op het gebied van handel en investeringen versterkt en de regionale integratie verdiept.
 
-#### Artikel 38. Werkingssfeer
+##### Artikel 38. Werkingssfeer
 
 1. De partijen leggen in verband met de EPO ontwikkelingsdoelstellingen vast die specifiek zijn voor de OZA-regio en die nodig zijn voor het welslagen van regionale integratie op de gebieden en in de sectoren die in dit artikel worden genoemd.
 
@@ -578,13 +597,13 @@ De doelstellingen van samenwerking bij de ontwikkeling van de binnenvisserij en 
 
 ## TITEL II. ONTWIKKELING VAN DE PARTICULIERE SECTOR
 
-#### Artikel 39. Werkingssfeer en doelstellingen
+##### Artikel 39. Werkingssfeer en doelstellingen
 
 1. De partijen erkennen het belang van samenwerking bij de ontwikkeling van de particuliere sector van de OZA-regio als de belangrijkste motor voor het scheppen van welvaart, teneinde een passend klimaat te creëren dat bevorderlijk is voor investeringen en groei. Bij het verlenen van steun en bij de samenwerking zal de Gemeenschap rekening houden met de economische structuur van de OZA-staten en met hun prioriteiten ten aanzien van de versterking van de productiecapaciteiten en de waardetoevoeging en de toepassing van productie-, marketing-, distributie- en vervoersfuncties om de aanbodcapaciteit en het concurrentievermogen te verbeteren.
 
 2. De samenwerking bij de ontwikkeling van de particuliere sector bestrijkt onder meer investeringen, industriële ontwikkeling en vergroting van het concurrentievermogen, ontwikkeling van micro-ondernemingen en van kleine en middelgrote ondernemingen, mijnbouw en mineralen en ontwikkeling van het toerisme, alsmede andere productiesectoren, die direct dan wel indirect onder deze overeenkomst vallen.
 
-#### Artikel 40. Investeringen
+##### Artikel 40. Investeringen
 
 1. De partijen erkennen het belang van investeringen. De doelstellingen op dit gebied zijn als volgt:
 
@@ -618,7 +637,7 @@ De doelstellingen van samenwerking bij de ontwikkeling van de binnenvisserij en 
 
 - i. bieden van waarborgen en bijstaan door middel van garantiefondsen ter dekking van risico's bij in aanmerking komende investeringen.
 
-#### Artikel 41. Industriële ontwikkeling en concurrentievermogen
+##### Artikel 41. Industriële ontwikkeling en concurrentievermogen
 
 1. De partijen erkennen het belang van samenwerking op het gebied van de industriële ontwikkeling en het concurrentievermogen. De doelstellingen op dit gebied zijn als volgt:
 
@@ -640,7 +659,7 @@ De doelstellingen van samenwerking bij de ontwikkeling van de binnenvisserij en 
 
 - f. bevordering en intensivering van innovatie, diversificatie, op waardetoevoeging gerichte productontwikkeling en kwaliteit.
 
-#### Artikel 42. Micro-ondernemingen en kleine en middelgrote ondernemingen
+##### Artikel 42. Micro-ondernemingen en kleine en middelgrote ondernemingen
 
 1. De partijen erkennen het belang van samenwerking op het gebied van micro-ondernemingen en kleine en middelgrote ondernemingen. De doelstellingen op dit gebied zijn als volgt:
 
@@ -666,7 +685,7 @@ De doelstellingen van samenwerking bij de ontwikkeling van de binnenvisserij en 
 
 - h. bevordering van diversificatie en waardetoevoeging.
 
-#### Artikel 43. Mijnbouw en mineralen
+##### Artikel 43. Mijnbouw en mineralen
 
 1. De partijen erkennen het belang van samenwerking bij de ontwikkeling en het beheer van de sector mijnbouw en mineralen. De doelstellingen op dit gebied zijn als volgt:
 
@@ -690,7 +709,7 @@ De doelstellingen van samenwerking bij de ontwikkeling van de binnenvisserij en 
 
 - f. aandacht voor kwetsbaarheid bij afhankelijkheid van de uitvoer van mineralen.
 
-#### Artikel 44. Ontwikkeling van het toerisme
+##### Artikel 44. Ontwikkeling van het toerisme
 
 1. De partijen erkennen het belang van samenwerking op het gebied van de ontwikkeling van het toerisme. De doelstellingen op dit gebied zijn als volgt:
 
@@ -712,7 +731,7 @@ De doelstellingen van samenwerking bij de ontwikkeling van de binnenvisserij en 
 
 ## TITEL III. INFRASTRUCTUUR
 
-#### Artikel 45. Werkingssfeer en doelstellingen
+##### Artikel 45. Werkingssfeer en doelstellingen
 
 1. De partijen erkennen het belang van samenwerking bij de ontwikkeling en het beheer van infrastructuur als middel om obstakels aan de aanbodzijde te boven te komen en de regionale integratie te versterken.
 
@@ -720,7 +739,7 @@ De doelstellingen van samenwerking bij de ontwikkeling van de binnenvisserij en 
 
 3. De samenwerking op het gebied van de infrastructuur heeft betrekking op de ontwikkeling van materiële infrastructuur: vervoer, energie, informatie- en communicatietechnologie.
 
-#### Artikel 46. Vervoer
+##### Artikel 46. Vervoer
 
 1. De partijen erkennen het belang van samenwerking op het gebied van de ontwikkeling en het beheer van het vervoer. De doelstellingen op dit gebied zijn als volgt:
 
@@ -744,7 +763,7 @@ De doelstellingen van samenwerking bij de ontwikkeling van de binnenvisserij en 
 
 - g. steun bij de ontwikkeling van een regionaal vervoerbeleid.
 
-#### Artikel 47. Energie
+##### Artikel 47. Energie
 
 1. De partijen erkennen het belang van samenwerking in de energiesector als middel ter ondersteuning van het concurrentievermogen van de OZA-economieën op regionaal en mondiaal niveau. De doelstellingen op dit gebied zijn als volgt:
 
@@ -774,7 +793,7 @@ De doelstellingen van samenwerking bij de ontwikkeling van de binnenvisserij en 
 
 - i. stimulering van partnerschappen, netwerken en joint ventures tussen marktdeelnemers uit de EU en de OZA-regio.
 
-#### Artikel 48. Informatie- en communicatietechnologie (ICT)
+##### Artikel 48. Informatie- en communicatietechnologie (ICT)
 
 1. De partijen erkennen het belang van samenwerking bij de ontwikkeling van ICT, omdat ICT in de moderne samenleving een belangrijke sector is om het concurrentievermogen en innovatie te bevorderen en te zorgen voor een soepele overgang naar de informatiemaatschappij. Het doel op dit gebied is de ontwikkeling van de ICT-sector en de stimulering van de bijdrage van deze sector aan andere sociaal-economische sectoren.
 
@@ -796,13 +815,13 @@ De doelstellingen van samenwerking bij de ontwikkeling van de binnenvisserij en 
 
 ## TITEL IV. NATUURLIJKE HULPBRONNEN EN MILIEU
 
-#### Artikel 49. Werkingssfeer en doelstellingen
+##### Artikel 49. Werkingssfeer en doelstellingen
 
 1. De partijen erkennen het belang van samenwerking op het gebied van het duurzame beheer van natuurlijke hulpbronnen en het milieu. Bij de samenwerking op dit gebied wordt rekening gehouden met de uiteenlopende en grensoverschrijdende behoeften van de OZA-staten.
 
 2. De samenwerking op het gebied van de natuurlijke hulpbronnen en het milieu bestrijkt natuurlijke rijkdommen, met inbegrip van watervoorraden, en het milieu, met inbegrip van de biodiversiteit, alsmede de uitbreiding van de relaties tussen handel en milieu. Verder bestrijkt zij de tenuitvoerlegging van internationale milieuovereenkomsten en -verdragen.
 
-#### Artikel 50. Watervoorraden
+##### Artikel 50. Watervoorraden
 
 1. De partijen erkennen het belang van samenwerking bij de ontwikkeling van watervoorraden (met inbegrip van irrigatie, waterkracht en watervoorziening) ten behoeve van de verbetering van de levensomstandigheden van de bevolking. De doelstellingen op dit gebied zijn als volgt:
 
@@ -828,7 +847,7 @@ De doelstellingen van samenwerking bij de ontwikkeling van de binnenvisserij en 
 
 - h. bevordering van duurzame irrigatieprogramma's.
 
-#### Artikel 51. Milieu
+##### Artikel 51. Milieu
 
 1. De partijen erkennen het belang van samenwerking bij de bescherming en het duurzame beheer van het milieu en de tenuitvoerlegging van een handelsgerelateerd milieubeleid. De doelstellingen op dit gebied zijn als volgt:
 
@@ -872,7 +891,7 @@ De doelstellingen van samenwerking bij de ontwikkeling van de binnenvisserij en 
 
 - p. duurzaam beheer van bossen en dergelijke mechanismen.
 
-#### Artikel 52. Financiële garanties
+##### Artikel 52. Financiële garanties
 
 1. De EG stelt de OZA-staten financiële hulp ter beschikking als bijdrage voor de tenuitvoerlegging van de programma's en projecten in het kader van de in deze overeenkomst en de desbetreffende hoofdstukken beschreven samenwerkingsgebieden en van de uitvoerige ontwikkelingsmatrix.
 
@@ -882,7 +901,7 @@ De doelstellingen van samenwerking bij de ontwikkeling van de binnenvisserij en 
 
 ### HOOFDSTUK V. GEBIEDEN VOOR TOEKOMSTIGE ONDERHANDELINGEN
 
-#### Artikel 53. Rendez-vousclausule
+##### Artikel 53. Rendez-vousclausule
 
 Voortbouwend op de [Overeenkomst van Cotonou](https://wetten.overheid.nl/jci1.3:c:BWBV0005264) en rekening houdend met de vorderingen die worden gemaakt bij de onderhandelingen over een volledige EPO komen de partijen overeen de onderhandelingen overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&hoofdstuk=I&artikel=3&z=2009-08-29&g=2009-08-29) voort te zetten met het oog op de sluiting van een volledige EPO, die de volgende gebieden zal bestrijken:
 
@@ -922,7 +941,7 @@ Voortbouwend op de [Overeenkomst van Cotonou](https://wetten.overheid.nl/jci1.3:
 
 ## TITEL I. VERMIJDEN EN BESLECHTEN VAN GESCHILLEN
 
-#### Artikel 54. Overleg
+##### Artikel 54. Overleg
 
 1. De partijen streven ernaar elk geschil over de uitleg en toepassing van deze overeenkomst op te lossen door te goeder trouw overleg te plegen om tot een onderling overeengekomen oplossing te komen.
 
@@ -932,7 +951,7 @@ Voortbouwend op de [Overeenkomst van Cotonou](https://wetten.overheid.nl/jci1.3:
 
 4. Overleg over urgente kwesties, zoals over bederfelijke waren of seizoensgebonden goederen, vindt plaats binnen 15 dagen na de datum van indiening van het verzoek en wordt 30 dagen na de datum van indiening van het verzoek geacht te zijn afgesloten.
 
-#### Artikel 55. Geschillenbeslechting
+##### Artikel 55. Geschillenbeslechting
 
 1. Indien het overleg niet binnen de in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&hoofdstuk=VI&titeldeel=I&artikel=54&z=2009-08-29&g=2009-08-29) genoemde 60 resp. 30 dagen leidt tot beslechting van het geschil, kan elk van beide partijen verzoeken om beslechting van het geschil door arbitrage. Elk van beide partijen benoemt daartoe binnen 30 dagen na het verzoek om arbitrage een scheidsrechter door de andere partij en het EPO-comité hiervan in kennis te stellen. In het verzoek om arbitrage wordt aangegeven om welke maatregel het gaat en met welke bepalingen van de overeenkomst de maatregel volgens de klagende partij niet in overeenstemming is. Wanneer dit niet gebeurt, kan elk van beide partijen de secretaris-generaal van het Permanente Hof van Arbitrage vragen de tweede scheidsrechter te benoemen.
 
@@ -946,7 +965,7 @@ Voortbouwend op de [Overeenkomst van Cotonou](https://wetten.overheid.nl/jci1.3:
 
 ## TITEL II. ALGEMENE UITZONDERINGEN
 
-#### Artikel 56. Algemene uitzonderingsclausule
+##### Artikel 56. Algemene uitzonderingsclausule
 
 Mits de hieronder bedoelde maatregelen niet zodanig worden toegepast dat zij een middel tot willekeurige of ongerechtvaardigde discriminatie tussen de partijen bij soortgelijke omstandigheden of een verkapte beperking van de internationale handel vormen, wordt geen bepaling in deze overeenkomst uitgelegd als beletsel voor het vaststellen of toepassen door de EG, de OZA-staten of een overeenkomstsluitende OZA-staat van maatregelen:
 
@@ -976,7 +995,7 @@ Mits de hieronder bedoelde maatregelen niet zodanig worden toegepast dat zij een
 
 - h. die van wezenlijk belang zijn voor het verwerven of distribueren van producten in het algemeen of die plaatselijk zeldzaam zijn, mits dergelijke maatregelen in overeenstemming zijn met het beginsel dat alle partijen recht hebben op een billijk aandeel in het internationale aanbod van dergelijke producten, en mits dergelijke maatregelen, wanneer zij niet in overeenstemming zijn met andere bepalingen van deze overeenkomst, worden beëindigd zodra de omstandigheden die aanleiding hebben gegeven tot de maatregelen, niet meer bestaan.
 
-#### Artikel 57. Uitzonderingen met betrekking tot de nationale veiligheid
+##### Artikel 57. Uitzonderingen met betrekking tot de nationale veiligheid
 
 1. Geen enkele bepaling in deze overeenkomst wordt zodanig uitgelegd dat zij:
 
@@ -998,7 +1017,7 @@ Mits de hieronder bedoelde maatregelen niet zodanig worden toegepast dat zij een
 
 2. De partijen lichten elkaar zo volledig mogelijk in over maatregelen die krachtens lid 1, onder b) en c), worden genomen en over de beëindiging daarvan.
 
-#### Artikel 58. Belastingen
+##### Artikel 58. Belastingen
 
 1. Geen enkele bepaling in deze overeenkomst of in een in het kader van deze overeenkomst getroffen regeling wordt uitgelegd als beletsel voor de EG of voor een overeenkomstsluitende OZA-staat om bij de toepassing van de desbetreffende bepalingen van haar (zijn) belastingwetgeving een onderscheid te maken tussen belastingbetalers die niet in dezelfde situatie verkeren, in het bijzonder met betrekking tot hun verblijfplaats of de plaats waar hun kapitaal is geïnvesteerd.
 
@@ -1008,11 +1027,11 @@ Mits de hieronder bedoelde maatregelen niet zodanig worden toegepast dat zij een
 
 ## TITEL III. INSTITUTIONELE BEPALINGEN, ALGEMENE EN SLOTBEPALINGEN
 
-#### Artikel 59. Relatie tussen deze overeenkomst en de volledige EPO
+##### Artikel 59. Relatie tussen deze overeenkomst en de volledige EPO
 
 In geval van strijdigheid tussen de volledige EPO en deze tussentijdse overeenkomst heeft de volledige EPO voorrang voor zover het strijdige bepalingen betreft.
 
-#### Artikel 60. Ultraperifere gebieden van de Europese Gemeenschap
+##### Artikel 60. Ultraperifere gebieden van de Europese Gemeenschap
 
 1. Gezien de geografische nabijheid van de ultraperifere gebieden van de EG en de OZA-staten en ter versterking van de economische en sociale banden tussen deze gebieden en de OZA-staten, streven de partijen ernaar, tussen deze gebieden en de OZA-staten, de samenwerking op alle door deze overeenkomst bestreken gebieden te vergemakkelijken, de handel in goederen en diensten uit te bouwen en te verbeteren, investeringen aan te moedigen en het vervoer en communicatieverbindingen te stimuleren.
 
@@ -1022,7 +1041,7 @@ In geval van strijdigheid tussen de volledige EPO en deze tussentijdse overeenko
 
 4. Geen enkele bepaling in deze overeenkomst belet de EG toepassing van bestaande maatregelen uit hoofde van [artikel 299, lid 2, van het Verdrag tot oprichting van de Europese Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=299) ter verbetering van de structurele economische en sociale situatie van de ultraperifere gebieden.
 
-#### Artikel 61. Definitie van de partijen en naleving van verplichtingen
+##### Artikel 61. Definitie van de partijen en naleving van verplichtingen
 
 1. De overeenkomstsluitende partijen bij deze overeenkomst zijn de Unie der Comoren, de Republiek Madagaskar, de Republiek Mauritius, de Republiek der Seychellen, de Republiek Zambia en de Republiek Zimbabwe, hierna de „OZA-staten” genoemd, enerzijds, en de EG of haar lidstaten of de EG en haar lidstaten, in het kader van hun respectieve bevoegdheidsgebieden overeenkomstig het [Verdrag tot oprichting van de Europese Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506), hierna de „EG” genoemd, anderzijds, waarvoor deze overeenkomst in werking is getreden of voorlopig wordt toegepast.
 
@@ -1032,7 +1051,7 @@ In geval van strijdigheid tussen de volledige EPO en deze tussentijdse overeenko
 
 4. Op een overeenkomstsluitende OZA-staat waarop de in [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&hoofdstuk=II&z=2009-08-29&g=2009-08-29) genoemde rechten en plichten niet van toepassing zijn, zijn de rechten en plichten uit hoofde van de andere hoofdstukken van deze overeenkomst wel van toepassing.
 
-#### Artikel 62. Inwerkingtreding, opzegging en duur
+##### Artikel 62. Inwerkingtreding, opzegging en duur
 
 1. Deze overeenkomst wordt ondertekend, geratificeerd en goedgekeurd volgens de toepasselijke grondwettelijke of interne voorschriften en procedures van de respectieve partijen.
 
@@ -1052,11 +1071,11 @@ In geval van strijdigheid tussen de volledige EPO en deze tussentijdse overeenko
 
 9. Deze overeenkomst blijft van kracht totdat de volledige EPO in werking treedt.
 
-#### Artikel 63. Territoriaal toepassingsgebied
+##### Artikel 63. Territoriaal toepassingsgebied
 
 Deze overeenkomst is van toepassing op, enerzijds, elk gebied waarop het [Verdrag tot oprichting van de Europese Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) van toepassing is, onder de in dat verdrag neergelegde voorwaarden, en, anderzijds, het gebied van de overeenkomstsluitende OZA-staten. Verwijzingen in deze overeenkomst naar „gebied” worden in deze zin begrepen.
 
-#### Artikel 64. epo-comité
+##### Artikel 64. epo-comité
 
 1. Hierbij wordt een EPO-comité opgericht.
 
@@ -1066,7 +1085,7 @@ Deze overeenkomst is van toepassing op, enerzijds, elk gebied waarop het [Verdra
 
 4. Het EPO-comité stelt binnen drie maanden na de inwerkingtreding van de tussentijdse overeenkomst zijn reglement van orde vast.
 
-#### Artikel 65. Relatie tot andere overeenkomsten
+##### Artikel 65. Relatie tot andere overeenkomsten
 
 1. Geen enkele bepaling in deze overeenkomst doet afbreuk aan de toepassing van passend geachte maatregelen als bedoeld in de [artikelen 11 ter](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&artikel=11_ter), [96](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&artikel=96) en [97 van de Overeenkomst van Cotonou](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&artikel=97) overeenkomstig de in die artikelen vastgestelde procedures.
 
@@ -1076,7 +1095,7 @@ Deze overeenkomst is van toepassing op, enerzijds, elk gebied waarop het [Verdra
 
 4. De partijen komen overeen dat geen enkele bepaling in deze overeenkomst hen of de overeenkomstsluitende OZA-staten verplicht te handelen op een wijze die in strijd is met hun WTO-verplichtingen.
 
-#### Artikel 66. Toetreding
+##### Artikel 66. Toetreding
 
 1. De volgende OZA-staten, te weten de Republiek Djibouti, de Staat Eritrea, de Federale Democratische Republiek Ethiopië, de Republiek Malawi en de Republiek Sudan, kunnen tot deze overeenkomst toetreden wanneer de partijen hiermee instemmen. Voor de toetredende staat treedt deze overeenkomst in werking in overeenstemming met de toepasselijke wettelijke procedures van de EG, de OZA-staten en het toetredende land. De EG streeft ernaar deze overeenkomst zo spoedig mogelijk op het toetredende land toe te passen.
 
@@ -1086,7 +1105,7 @@ Deze overeenkomst is van toepassing op, enerzijds, elk gebied waarop het [Verdra
 
 4. Voor een toetredende staat treedt deze overeenkomst in werking op de datum waarop hij zijn instrument van toetreding heeft neergelegd.
 
-#### Artikel 67. Toetreding van nieuwe lidstaten tot de Europese Unie
+##### Artikel 67. Toetreding van nieuwe lidstaten tot de Europese Unie
 
 1. Het EPO-comité wordt in kennis gesteld van elk verzoek van een derde staat om toe te treden tot de EU. Tijdens de onderhandelingen tussen de EU en de staat die het verzoek heeft ingediend, verstrekt de EG de OZA-staten alle relevante informatie en stellen de OZA-staten de EG in kennis van hun problemen, zodat deze daar ten volle rekening mee kan houden. De OZA-staten worden door de EG in kennis gesteld van elke toetreding tot de EU.
 
@@ -1094,23 +1113,23 @@ Deze overeenkomst is van toepassing op, enerzijds, elk gebied waarop het [Verdra
 
 3. De partijen onderzoeken de gevolgen van de toetreding van nieuwe EU-lidstaten voor deze overeenkomst. Het EPO-comité kan de nodige overgangs- of wijzigingsmaatregelen vaststellen.
 
-#### Artikel 68. Wijzigingen
+##### Artikel 68. Wijzigingen
 
 1. Wijzigingen in deze overeenkomst worden goedgekeurd door het EPO-comité; ze treden in werking wanneer ze zijn geratificeerd.
 
 2. Het EPO-comité stelt overgangsmaatregelen vast indien deze nodig mochten zijn totdat de gewijzigde bepalingen in werking treden.
 
-#### Artikel 69. Authentieke teksten
+##### Artikel 69. Authentieke teksten
 
 Deze overeenkomst is opgesteld in tweevoud, in de volgende talen: Bulgaars, Tsjechisch, Deens, Nederlands, Engels, Ests, Fins, Frans, Duits, Grieks, Hongaars, Italiaans, Lets, Litouws, Maltees, Pools, Portugees, Roemeens, Slowaaks, Sloveens, Spaans en Zweeds, zijnde alle teksten gelijkelijk authentiek.
 
-#### Artikel 70. Bijlagen
+##### Artikel 70. Bijlagen
 
 De bijlagen en protocollen vormen een integrerend deel van deze overeenkomst en kunnen worden herzien en/of gewijzigd door het EPO-comité.
 
 ## TITEL I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 Voor de toepassing van dit protocol wordt verstaan onder:
 
@@ -1146,7 +1165,7 @@ Voor de toepassing van dit protocol wordt verstaan onder:
 
 ## TITEL II. DEFINITIE VAN HET BEGRIP „PRODUCTEN VAN OORSPRONG”
 
-#### Artikel 2. Algemene voorwaarden
+##### Artikel 2. Algemene voorwaarden
 
 1. Voor de toepassing van de economische partnerschapsovereenkomst OZA-EU, hierna „de overeenkomst” genoemd, worden de volgende producten beschouwd als van oorsprong uit de Gemeenschap:
 
@@ -1160,7 +1179,7 @@ Voor de toepassing van dit protocol wordt verstaan onder:
 
 - b. in een OZA-staat verkregen producten waarin materialen zijn verwerkt die daar niet volledig zijn verkregen, mits die materialen in die OZA-staat een be- of verwerking hebben ondergaan die toereikend is in de zin van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&titeldeel=II&artikel=7&z=2009-08-29&g=2009-08-29).
 
-#### Artikel 3. Cumulatie in de Gemeenschap
+##### Artikel 3. Cumulatie in de Gemeenschap
 
 1. Onverminderd het bepaalde in [artikel 2, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&titeldeel=II&artikel=2&z=2009-08-29&g=2009-08-29), worden producten als van oorsprong uit de Gemeenschap beschouwd als zij daar zijn verkregen en in die producten materialen zijn verwerkt die van oorsprong zijn uit een OZA-staat, andere ACS-staten of de LGO's, mits de be- of verwerking in de Gemeenschap ingrijpender is dan de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&titeldeel=II&artikel=8&z=2009-08-29&g=2009-08-29) genoemde be- of verwerkingen. De materialen behoeven geen toereikende be- of verwerking te hebben ondergaan.
 
@@ -1182,7 +1201,7 @@ Voor de toepassing van dit protocol wordt verstaan onder:
 
 7. De in dit artikel bedoelde cumulatie kan voor de in bijlage X genoemde producten pas vanaf 1 oktober 2015 worden toegepast en voor rijst bedoeld in tariefpost 1006 pas vanaf 1 januari 2010.
 
-#### Artikel 4. Cumulatie in de OZA-staten
+##### Artikel 4. Cumulatie in de OZA-staten
 
 1. Onverminderd het bepaalde in [artikel 2, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&titeldeel=II&artikel=2&z=2009-08-29&g=2009-08-29), worden producten als van oorsprong uit een OZA-staat beschouwd als zij daar zijn verkregen en in die producten materialen zijn verwerkt die van oorsprong zijn uit de Gemeenschap, andere ACS-staten, de LGO's of andere OZA-staten, mits de be- of verwerking in die OZA-staat ingrijpender is dan de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&titeldeel=II&artikel=8&z=2009-08-29&g=2009-08-29) genoemde be- of verwerkingen. De materialen behoeven geen toereikende be- of verwerking te hebben ondergaan.
 
@@ -1206,7 +1225,7 @@ Voor de toepassing van dit protocol wordt verstaan onder:
 
 8. Dit artikel is niet van toepassing op producten van bijlage XII die van oorsprong zijn uit Zuid-Afrika. Op de in bijlage XIII genoemde producten van oorsprong uit Zuid-Afrika is de in dit artikel bedoelde cumulatie na 31 december 2009 van toepassing.
 
-#### Artikel 5. Cumulatie met naburige ontwikkelingslanden
+##### Artikel 5. Cumulatie met naburige ontwikkelingslanden
 
 In overeenstemming met [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&titeldeel=V&artikel=41&z=2009-08-29&g=2009-08-29) worden, op verzoek van de OZA-staten, materialen van oorsprong uit een naburig ontwikkelingsland dat geen ACS-staat is maar tot een samenhangende geografische entiteit behoort, waarvan een lijst in bijlage VIII is opgenomen, als materialen van oorsprong uit een OZA-staat beschouwd wanneer zij in een aldaar verkregen product zijn verwerkt. De materialen behoeven geen toereikende be- of verwerking te hebben ondergaan, mits:
 
@@ -1218,7 +1237,7 @@ De in dit artikel bedoelde cumulatie is niet van toepassing op de lijst van prod
 
 Aan de hand van dit protocol wordt vastgesteld of de producten van oorsprong zijn uit een naburig ontwikkelingsland, zoals gedefinieerd in bijlage VIII.
 
-#### Artikel 6. Volledig verkregen producten
+##### Artikel 6. Volledig verkregen producten
 
 1. Als volledig in een OZA-staat of in de Gemeenschap verkregen worden beschouwd:
 
@@ -1268,7 +1287,7 @@ Aan de hand van dit protocol wordt vastgesteld of de producten van oorsprong zij
 
 4. Aan de voorwaarden van lid 2 kan worden voldaan in verschillende staten, zolang deze behoren tot de OZA-staten. In dat geval worden de producten geacht de oorsprong te hebben van de staat waarvan onderdanen of ondernemingen overeenkomstig lid 2, onder c), eigenaar zijn van het schip of het fabrieksschip. Wanneer een schip of een fabrieksschip eigendom is van onderdanen of ondernemingen uit staten die partij zijn bij verschillende economische partnerschapsovereenkomsten, worden de producten geacht van oorsprong te zijn uit de staat waarvan de onderdanen of ondernemingen overeenkomstig lid 2, onder c), het grootste aandeel hebben.
 
-#### Artikel 7. Toereikende be- of verwerking
+##### Artikel 7. Toereikende be- of verwerking
 
 1. Voor de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&titeldeel=II&artikel=2&z=2009-08-29&g=2009-08-29) worden niet volledig verkregen producten geacht een toereikende be- of verwerking te hebben ondergaan wanneer aan de voorwaarden in de lijst in bijlage II is voldaan.
 
@@ -1286,7 +1305,7 @@ Aan de hand van dit protocol wordt vastgesteld of de producten van oorsprong zij
 
 6. De leden 1 tot en met 5 zijn van toepassing behoudens het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&titeldeel=II&artikel=8&z=2009-08-29&g=2009-08-29).
 
-#### Artikel 8. Ontoereikende be- of verwerking
+##### Artikel 8. Ontoereikende be- of verwerking
 
 1. Onverminderd lid 2 worden de volgende be- of verwerkingen als ontoereikend beschouwd om de oorsprongsstatus te verkrijgen, ongeacht of aan de voorwaarden van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&titeldeel=II&artikel=7&z=2009-08-29&g=2009-08-29) is voldaan:
 
@@ -1324,7 +1343,7 @@ Aan de hand van dit protocol wordt vastgesteld of de producten van oorsprong zij
 
 2. Alle be- en verwerkingen die een product in de Gemeenschap of in de OZA-staten heeft ondergaan, worden tezamen genomen om te bepalen of deze als ontoereikend in de zin van lid 1 moeten worden beschouwd.
 
-#### Artikel 9. In aanmerking te nemen eenheid
+##### Artikel 9. In aanmerking te nemen eenheid
 
 1. De voor de toepassing van dit protocol in aanmerking te nemen eenheid is het product dat bij het vaststellen van de indeling in de nomenclatuur van het geharmoniseerd systeem als de basiseenheid wordt beschouwd.
 
@@ -1336,15 +1355,15 @@ Hieruit volgt dat:
 
 2. Wanneer volgens algemene regel 5 voor de interpretatie van het geharmoniseerd systeem de verpakking meetelt voor het vaststellen van de indeling, telt deze ook mee voor het vaststellen van de oorsprong.
 
-#### Artikel 10. Toebehoren, vervangingsonderdelen en gereedschappen
+##### Artikel 10. Toebehoren, vervangingsonderdelen en gereedschappen
 
 Toebehoren, vervangingsonderdelen en gereedschappen die samen met materieel, machines, apparaten of voertuigen worden verzonden en die deel uitmaken van de normale uitrusting daarvan en in de prijs ervan zijn begrepen of niet afzonderlijk in rekening worden gebracht, worden geacht een geheel te vormen met het materieel of de machines, apparaten of voertuigen in kwestie.
 
-#### Artikel 11. Stellen en assortimenten
+##### Artikel 11. Stellen en assortimenten
 
 Stellen en assortimenten in de zin van algemene regel 3 voor de interpretatie van het geharmoniseerd systeem worden als van oorsprong beschouwd wanneer alle samenstellende delen van oorsprong zijn. Een stel of assortiment bestaande uit producten van oorsprong en producten die niet van oorsprong zijn, wordt als van oorsprong beschouwd wanneer de waarde van de producten die niet van oorsprong zijn niet meer dan 15% van de prijs af fabriek van het stel of assortiment bedraagt.
 
-#### Artikel 12. Neutrale elementen
+##### Artikel 12. Neutrale elementen
 
 Om de oorsprong van een product te bepalen, behoeft niet te worden nagegaan wat de oorsprong is van de bij de vervaardiging van dat product gebruikte:
 
@@ -1358,7 +1377,7 @@ Om de oorsprong van een product te bepalen, behoeft niet te worden nagegaan wat 
 
 ## TITEL III. TERRITORIALE VOORWAARDEN
 
-#### Artikel 13. Territorialiteitsbeginsel
+##### Artikel 13. Territorialiteitsbeginsel
 
 1. Behoudens het bepaalde in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&titeldeel=II&artikel=3&z=2009-08-29&g=2009-08-29), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&titeldeel=II&artikel=4&z=2009-08-29&g=2009-08-29) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&titeldeel=II&artikel=5&z=2009-08-29&g=2009-08-29) moet zonder onderbreking zijn voldaan aan de in [titel II](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&titeldeel=II&z=2009-08-29&g=2009-08-29) genoemde voorwaarden met betrekking tot het verkrijgen van de oorsprongsstatus in de OZA-staten of in de Gemeenschap.
 
@@ -1368,7 +1387,7 @@ Om de oorsprong van een product te bepalen, behoeft niet te worden nagegaan wat 
 
 - b. de goederen, terwijl zij in het andere land waren of toen zij werden uitgevoerd, geen andere be- of verwerkingen hebben ondergaan dan die welke nodig waren om ze in goede staat te bewaren.
 
-#### Artikel 14. Rechtstreeks vervoer
+##### Artikel 14. Rechtstreeks vervoer
 
 1. De preferentiële behandeling waarin de overeenkomst voorziet, is uitsluitend van toepassing op producten die aan de voorwaarden van dit protocol voldoen en die rechtstreeks tussen een OZA-staat en de Gemeenschap worden vervoerd, dan wel via het gebied van de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&titeldeel=II&artikel=3&z=2009-08-29&g=2009-08-29), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&titeldeel=II&artikel=4&z=2009-08-29&g=2009-08-29) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&titeldeel=II&artikel=5&z=2009-08-29&g=2009-08-29) bedoelde andere landen waarmee cumulatie mogelijk is. Producten die een enkele zending vormen, kunnen evenwel via een ander gebied worden vervoerd, eventueel met overslag of tijdelijke opslag op dat gebied, mits ze in het land van doorvoer of opslag onder toezicht van de douane blijven en aldaar geen andere behandelingen ondergaan dan lossen en opnieuw laden of behandelingen om ze in goede staat te bewaren.
 
@@ -1388,7 +1407,7 @@ Het is evenwel toegestaan producten van oorsprong per pijpleiding door een ander
 
 - c. bij gebreke van bovengenoemde stukken, enig ander bewijsstuk.
 
-#### Artikel 15. Tentoonstellingen
+##### Artikel 15. Tentoonstellingen
 
 1. Op producten van oorsprong die zijn verzonden naar een tentoonstelling in een ander land of gebied dan de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&titeldeel=II&artikel=3&z=2009-08-29&g=2009-08-29), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&titeldeel=II&artikel=4&z=2009-08-29&g=2009-08-29) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&titeldeel=II&artikel=5&z=2009-08-29&g=2009-08-29) bedoelde landen en gebieden waarmee cumulatie mogelijk is, en die na de tentoonstelling zijn verkocht voor invoer in de Gemeenschap of een OZA-staat, is bij die invoer de overeenkomst van toepassing, mits ten genoegen van de douaneautoriteiten wordt aangetoond dat:
 
@@ -1406,7 +1425,7 @@ Het is evenwel toegestaan producten van oorsprong per pijpleiding door een ander
 
 ## TITEL IV. BEWIJS VAN OORSPRONG
 
-#### Artikel 16. Algemene voorwaarden
+##### Artikel 16. Algemene voorwaarden
 
 1. Producten van oorsprong uit een OZA-staat komen bij invoer in de Gemeenschap en producten van oorsprong uit de Gemeenschap komen bij invoer in een OZA-staat voor de voordelen van de overeenkomst in aanmerking op vertoon van:
 
@@ -1418,7 +1437,7 @@ Het is evenwel toegestaan producten van oorsprong per pijpleiding door een ander
 
 3. Voor de toepassing van deze titel streven de exporteurs ernaar een taal te gebruiken die zowel door de OZA-staten als door de Gemeenschap wordt gebruikt.
 
-#### Artikel 17. Procedure voor de afgifte van een certificaat inzake goederenverkeer EUR.1
+##### Artikel 17. Procedure voor de afgifte van een certificaat inzake goederenverkeer EUR.1
 
 1. Een certificaat inzake goederenverkeer EUR.1 wordt door de douaneautoriteiten van het land van uitvoer afgegeven op schriftelijke aanvraag van de exporteur of, onder diens verantwoordelijkheid, van zijn gemachtigde.
 
@@ -1434,7 +1453,7 @@ Het is evenwel toegestaan producten van oorsprong per pijpleiding door een ander
 
 7. Een certificaat inzake goederenverkeer EUR.1 wordt door de douaneautoriteiten afgegeven en ter beschikking van de exporteur gesteld zodra de goederen werkelijk worden uitgevoerd of wanneer het zeker is dat zij zullen worden uitgevoerd.
 
-#### Artikel 18. Afgifte achteraf van het certificaat inzake goederenverkeer EUR.1
+##### Artikel 18. Afgifte achteraf van het certificaat inzake goederenverkeer EUR.1
 
 1. In afwijking van [artikel 17, lid 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&titeldeel=IV&artikel=17&z=2009-08-29&g=2009-08-29), kan een certificaat inzake goederenverkeer EUR.1 bij wijze van uitzondering worden afgegeven na de uitvoer van de producten waarop het betrekking heeft, indien:
 
@@ -1452,7 +1471,7 @@ Het is evenwel toegestaan producten van oorsprong per pijpleiding door een ander
 
 5. De in lid 4 bedoelde vermelding wordt aangebracht in het vak „Opmerkingen” van het certificaat inzake goederenverkeer EUR.1.
 
-#### Artikel 19. Afgifte van een duplicaat van het certificaat inzake goederenverkeer EUR.1
+##### Artikel 19. Afgifte van een duplicaat van het certificaat inzake goederenverkeer EUR.1
 
 1. In geval van diefstal, verlies of vernietiging van een certificaat inzake goederenverkeer EUR.1 kan de exporteur de douaneautoriteiten die het certificaat hebben afgegeven, verzoeken een duplicaat op te maken aan de hand van de uitvoerdocumenten die in hun bezit zijn.
 
@@ -1464,11 +1483,11 @@ Het is evenwel toegestaan producten van oorsprong per pijpleiding door een ander
 
 4. Het duplicaat draagt dezelfde datum van afgifte als het oorspronkelijke certificaat inzake goederenverkeer EUR.1 en is vanaf die datum geldig.
 
-#### Artikel 20. Afgifte van een certificaat inzake goederenverkeer EUR.1 aan de hand van een eerder opgesteld of afgegeven bewijs van oorsprong
+##### Artikel 20. Afgifte van een certificaat inzake goederenverkeer EUR.1 aan de hand van een eerder opgesteld of afgegeven bewijs van oorsprong
 
 Voor producten van oorsprong die in een OZA-staat of in de Gemeenschap onder toezicht van een douanekantoor zijn geplaatst, kan het oorspronkelijke bewijs van oorsprong bij verzending van deze producten of van een gedeelte daarvan naar een andere plaats binnen de OZA-staten of de Gemeenschap door een of meer certificaten inzake goederenverkeer EUR.1 worden vervangen. Dergelijke certificaten worden afgegeven door het douanekantoor dat toezicht houdt op de producten en geviseerd door de douaneautoriteit die toezicht houdt op de producten.
 
-#### Artikel 21. Voorwaarden voor het opstellen van een factuurverklaring
+##### Artikel 21. Voorwaarden voor het opstellen van een factuurverklaring
 
 1. De in [artikel 16, lid 1, onder b)](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&titeldeel=IV&artikel=16&z=2009-08-29&g=2009-08-29), genoemde factuurverklaring kan worden opgesteld:
 
@@ -1486,7 +1505,7 @@ Voor producten van oorsprong die in een OZA-staat of in de Gemeenschap onder toe
 
 6. Een factuurverklaring kan door de exporteur worden opgesteld bij of na de uitvoer van de producten waarop zij betrekking heeft, maar moet uiterlijk twee jaar na de invoer van de producten waarop zij betrekking heeft in het land van invoer worden aangeboden.
 
-#### Artikel 22. Toegelaten exporteur
+##### Artikel 22. Toegelaten exporteur
 
 1. De douaneautoriteiten van het land van uitvoer kunnen een exporteur die veelvuldig producten verzendt waarop de bepalingen inzake handelssamenwerking van de overeenkomst van toepassing zijn, vergunning verlenen factuurverklaringen op te stellen ongeacht de waarde van de betrokken producten. Een exporteur die een dergelijke vergunning aanvraagt, moet ten genoegen van de douaneautoriteiten alle waarborgen bieden die nodig zijn voor de controle op de oorsprongsstatus van de producten en de naleving van de overige voorwaarden van dit protocol.
 
@@ -1498,7 +1517,7 @@ Voor producten van oorsprong die in een OZA-staat of in de Gemeenschap onder toe
 
 5. De douaneautoriteiten kunnen de vergunning te allen tijde intrekken. Zij zijn verplicht dit te doen wanneer de toegelaten exporteur niet langer de in lid 1 bedoelde garanties biedt, niet meer aan de in lid 2 bedoelde voorwaarden voldoet of de vergunning niet op de juiste wijze gebruikt.
 
-#### Artikel 23. Geldigheid van het bewijs van oorsprong
+##### Artikel 23. Geldigheid van het bewijs van oorsprong
 
 1. Een bewijs van oorsprong is vanaf de datum van afgifte in het land van uitvoer tien maanden geldig en moet binnen deze periode worden ingediend bij de douaneautoriteiten van het land van invoer.
 
@@ -1506,7 +1525,7 @@ Voor producten van oorsprong die in een OZA-staat of in de Gemeenschap onder toe
 
 3. In andere gevallen van verlate indiening kunnen de douaneautoriteiten van het land van invoer de bewijzen van oorsprong aanvaarden indien de producten vóór het verstrijken van genoemde termijn bij hen zijn aangebracht.
 
-#### Artikel 24. Doorvoerprocedure
+##### Artikel 24. Doorvoerprocedure
 
 Wanneer de goederen een in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&titeldeel=II&artikel=3&z=2009-08-29&g=2009-08-29) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&titeldeel=II&artikel=4&z=2009-08-29&g=2009-08-29) bedoeld land of gebied binnenkomen dat niet het land van oorsprong is, gaat een nieuwe geldigheidsduur van 4 maanden in op de datum waarop de douaneautoriteiten van het land van doorvoer in vak 7 van het certificaat inzake goederenverkeer EUR.1:
 
@@ -1518,15 +1537,15 @@ Wanneer de goederen een in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:
 
 - –. de datum van deze verklaringen, hebben aangebracht.
 
-#### Artikel 25. Overlegging van het bewijs van oorsprong
+##### Artikel 25. Overlegging van het bewijs van oorsprong
 
 Bewijzen van oorsprong worden bij de douaneautoriteiten van het land van invoer ingediend overeenkomstig de aldaar geldende procedures. Deze douaneautoriteiten kunnen eisen dat het bewijs van oorsprong wordt vertaald en dat de aangifte ten invoer vergezeld gaat van een verklaring van de importeur dat de producten aan de voorwaarden voor de toepassing van de overeenkomst voldoen.
 
-#### Artikel 26. Invoer in deelzendingen
+##### Artikel 26. Invoer in deelzendingen
 
 Wanneer, op verzoek van de importeur en op de door de douaneautoriteiten van het land van invoer vastgestelde voorwaarden, gedemonteerde of niet-gemonteerde producten in de zin van algemene regel 2 a) voor de interpretatie van het geharmoniseerd systeem, vallende onder de afdelingen XVI of XVII of de posten 7308 of 9406 van het geharmoniseerd systeem, in deelzendingen worden ingevoerd, wordt bij de invoer van de eerste deelzending een enkel bewijs van oorsprong bij de douaneautoriteiten ingediend.
 
-#### Artikel 27. Vrijstelling van het bewijs van oorsprong
+##### Artikel 27. Vrijstelling van het bewijs van oorsprong
 
 1. Producten die in kleine colli door particulieren aan particulieren worden verzonden of die deel uitmaken van de persoonlijke bagage van reizigers, worden als producten van oorsprong toegelaten zonder dat een bewijs van oorsprong behoeft te worden overgelegd, mits deze producten niet als handelsgoederen worden ingevoerd en bij hun aangifte verklaard is dat zij aan de voorwaarden van dit protocol voldoen en er over de juistheid van deze verklaring geen twijfel bestaat. Voor postzendingen kan deze verklaring op het douaneaangifteformulier CN22/CN23 of op een daaraan gehecht blad worden gesteld.
 
@@ -1534,7 +1553,7 @@ Wanneer, op verzoek van de importeur en op de door de douaneautoriteiten van het
 
 3. Voorts mag de totale waarde van deze producten niet meer bedragen dan 500 euro voor kleine colli of 1 200 euro voor producten die deel uitmaken van de persoonlijke bagage van reizigers.
 
-#### Artikel 28. Informatieprocedure in verband met cumulatie
+##### Artikel 28. Informatieprocedure in verband met cumulatie
 
 1. Wanneer [artikel 3, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&titeldeel=II&artikel=3&z=2009-08-29&g=2009-08-29), [artikel 4, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&titeldeel=II&artikel=4&z=2009-08-29&g=2009-08-29), en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&titeldeel=II&artikel=5&z=2009-08-29&g=2009-08-29) worden toegepast, wordt het bewijs dat de materialen in de zin van dit protocol van oorsprong zijn uit een OZA-staat, de Gemeenschap, een andere ACS-staat, een LGO of een ander land waarmee cumulatie mogelijk is, geleverd door een certificaat inzake goederenverkeer EUR.1 of door de leveranciersverklaring waarvan het model in bijlage V A bij dit protocol is opgenomen, afgegeven door de exporteur in de staat waaruit de materialen afkomstig zijn, dan wel in de Gemeenschap indien de materialen uit de Gemeenschap afkomstig zijn.
 
@@ -1552,7 +1571,7 @@ Wanneer, op verzoek van de importeur en op de door de douaneautoriteiten van het
 
 8. Leveranciersverklaringen en inlichtingenbladen die vóór de inwerkingtreding van dit protocol overeenkomstig [artikel 26 van protocol 1 bij de Overeenkomst van Cotonou](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&artikel=26) zijn afgegeven, behouden hun geldigheid.
 
-#### Artikel 29. Bewijsstukken
+##### Artikel 29. Bewijsstukken
 
 De in [artikel 17, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&titeldeel=IV&artikel=17&z=2009-08-29&g=2009-08-29), en [artikel 21, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&titeldeel=IV&artikel=21&z=2009-08-29&g=2009-08-29), bedoelde documenten aan de hand waarvan wordt aangetoond dat producten waarvoor een certificaat inzake goederenverkeer EUR.1 of een factuurverklaring is opgesteld, als producten van oorsprong uit een OZA-staat, uit de Gemeenschap of uit een van de andere in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&titeldeel=II&artikel=3&z=2009-08-29&g=2009-08-29), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&titeldeel=II&artikel=4&z=2009-08-29&g=2009-08-29) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&titeldeel=II&artikel=5&z=2009-08-29&g=2009-08-29) bedoelde landen en gebieden kunnen worden aangemerkt en aan de andere voorwaarden van dit protocol voldoen, kunnen onder meer de volgende zijn:
 
@@ -1564,7 +1583,7 @@ De in [artikel 17, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&titeld
 
 - d. certificaten inzake goederenverkeer EUR.1 of factuurverklaringen waaruit de oorsprongsstatus van de gebruikte materialen blijkt, die overeenkomstig dit protocol in een OZA-staat, in de Gemeenschap of in een van de andere in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&titeldeel=II&artikel=3&z=2009-08-29&g=2009-08-29), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&titeldeel=II&artikel=4&z=2009-08-29&g=2009-08-29) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&titeldeel=II&artikel=5&z=2009-08-29&g=2009-08-29) bedoelde landen en gebieden zijn afgegeven of opgesteld.
 
-#### Artikel 30. Bewaring van het bewijs van oorsprong en de bewijsstukken
+##### Artikel 30. Bewaring van het bewijs van oorsprong en de bewijsstukken
 
 1. Exporteurs die om de afgifte van een certificaat inzake goederenverkeer EUR.1 verzoeken, bewaren de in [artikel 17, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&titeldeel=IV&artikel=17&z=2009-08-29&g=2009-08-29), bedoelde documenten gedurende ten minste drie jaar.
 
@@ -1576,13 +1595,13 @@ De in [artikel 17, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&titeld
 
 5. De douaneautoriteiten van het land van invoer bewaren de certificaten inzake goederenverkeer EUR.1 en de factuurverklaringen die bij hen worden ingediend gedurende ten minste drie jaar.
 
-#### Artikel 31. Verschillen en vormfouten
+##### Artikel 31. Verschillen en vormfouten
 
 1. Geringe verschillen tussen de gegevens op het bewijs van oorsprong en die op de documenten die voor het vervullen van de invoerformaliteiten bij het douanekantoor worden ingediend, maken het bewijs van oorsprong niet automatisch ongeldig indien blijkt dat dit document wel degelijk met de aangebrachte producten overeenstemt.
 
 2. Kennelijke vormfouten, zoals typefouten op het bewijs van oorsprong, mogen niet tot weigering van dit document leiden indien deze fouten niet van dien aard zijn dat zij twijfel doen rijzen over de juistheid van de daarin vermelde gegevens.
 
-#### Artikel 32. In euro uitgedrukte bedragen
+##### Artikel 32. In euro uitgedrukte bedragen
 
 1. Voor de toepassing van [artikel 21, lid 1, onder b)](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&titeldeel=IV&artikel=21&z=2009-08-29&g=2009-08-29), en [artikel 27, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&titeldeel=IV&artikel=27&z=2009-08-29&g=2009-08-29), wordt, wanneer de producten gefactureerd zijn in een andere valuta dan de euro, de tegenwaarde van de in euro uitgedrukte bedragen in de nationale valuta van een OZA-staat, van de lidstaten van de Gemeenschap of van een van de andere in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&titeldeel=II&artikel=3&z=2009-08-29&g=2009-08-29), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&titeldeel=II&artikel=4&z=2009-08-29&g=2009-08-29) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&titeldeel=II&artikel=5&z=2009-08-29&g=2009-08-29) bedoelde landen of gebieden jaarlijks door elk van de betrokken landen vastgesteld.
 
@@ -1596,7 +1615,7 @@ De in [artikel 17, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&titeld
 
 ## TITEL V. REGELINGEN VOOR ADMINISTRATIEVE SAMENWERKING
 
-#### Artikel 33. Administratieve voorwaarden waaronder producten voor preferenties in aanmerking komen
+##### Artikel 33. Administratieve voorwaarden waaronder producten voor preferenties in aanmerking komen
 
 1. Producten die in de zin van dit protocol van oorsprong zijn uit de OZA-staten of uit de Gemeenschap, komen op het moment van de douaneaangifte ten invoer alleen voor de uit de overeenkomst voortvloeiende preferenties in aanmerking indien zij werden uitgevoerd op of na de datum waarop het land van uitvoer aan de bepalingen in lid 2 voldeed.
 
@@ -1608,7 +1627,7 @@ De in [artikel 17, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&titeld
 
 Zij doen de in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&titeldeel=V&artikel=34&z=2009-08-29&g=2009-08-29) bedoelde kennisgevingen.
 
-#### Artikel 34. Kennisgeving door de douaneautoriteiten van de partijen
+##### Artikel 34. Kennisgeving door de douaneautoriteiten van de partijen
 
 1. De OZA-staten en de lidstaten van de Gemeenschap doen elkaar via de Commissie van de Europese Gemeenschappen en het secretariaat van de COMESA de adressen toekomen van de douaneautoriteiten die belast zijn met de afgifte en/of controle van certificaten inzake goederenverkeer EUR.1 en van factuur- en leveranciersverklaringen, alsmede afdrukken van de stempels die in hun douanekantoren voor de afgifte van die certificaten worden gebruikt.
 
@@ -1618,13 +1637,13 @@ Certificaten inzake goederenverkeer EUR.1 en factuur- en leveranciersverklaringe
 
 3. De in lid 1 bedoelde autoriteiten handelen onder gezag van de regering van het betrokken land. De met de controle belaste autoriteiten maken deel uit van de overheid van het betrokken land.
 
-#### Artikel 35. Wederzijdse bijstand
+##### Artikel 35. Wederzijdse bijstand
 
 1. Ten behoeve van de correcte toepassing van dit protocol verlenen de Gemeenschap, de OZA-staten en de andere in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&titeldeel=II&artikel=3&z=2009-08-29&g=2009-08-29), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&titeldeel=II&artikel=4&z=2009-08-29&g=2009-08-29) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&titeldeel=II&artikel=5&z=2009-08-29&g=2009-08-29) bedoelde landen elkaar, via de bevoegde douaneautoriteiten, bijstand bij de controle van de echtheid van de certificaten inzake goederenverkeer EUR.1 en van de factuur- en leveranciersverklaringen en van de juistheid van de daarin vermelde gegevens.
 
 2. De geraadpleegde autoriteiten verstrekken de relevante gegevens over de omstandigheden waaronder het product is vervaardigd, met name over de omstandigheden waaronder de oorsprongsregels in de verschillende OZA-staten, de Gemeenschap en de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&titeldeel=II&artikel=3&z=2009-08-29&g=2009-08-29), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&titeldeel=II&artikel=4&z=2009-08-29&g=2009-08-29), en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&titeldeel=II&artikel=5&z=2009-08-29&g=2009-08-29) bedoelde betrokken andere landen in acht zijn genomen.
 
-#### Artikel 36. Controle van het bewijs van oorsprong
+##### Artikel 36. Controle van het bewijs van oorsprong
 
 1. Bewijzen van oorsprong worden achteraf op grond van een risicoanalyse en door middel van steekproeven gecontroleerd of wanneer de douaneautoriteiten van het land van invoer gegronde redenen hebben om te twijfelen aan de echtheid van deze documenten, de oorsprongsstatus van de betrokken producten of de naleving van de andere voorwaarden van dit protocol.
 
@@ -1640,7 +1659,7 @@ Certificaten inzake goederenverkeer EUR.1 en factuur- en leveranciersverklaringe
 
 7. Wanneer de resultaten van de controle of andere beschikbare gegevens erop lijken te wijzen dat de bepalingen van dit protocol worden geschonden, stelt het land van uitvoer op eigen initiatief of op verzoek van het land van invoer met de nodige spoed een onderzoek in of laat hij een onderzoek instellen om eventuele schendingen vast te stellen en te voorkomen; het betrokken land van uitvoer kan het land van invoer verzoeken aan deze controles deel te nemen.
 
-#### Artikel 37. Controle van leveranciersverklaringen
+##### Artikel 37. Controle van leveranciersverklaringen
 
 1. Leveranciersverklaringen worden op grond van een risicoanalyse en door middel van steekproeven gecontroleerd of wanneer de douaneautoriteiten van het land waar die verklaringen in aanmerking zijn genomen voor de afgifte van een certificaat inzake goederenverkeer EUR.1 of de opstelling van een factuurverklaring, gegronde redenen hebben om te twijfelen aan de echtheid van het document of de juistheid van de daarin vermelde gegevens.
 
@@ -1654,23 +1673,23 @@ Het kantoor dat het inlichtingenblad heeft afgegeven, bewaart gedurende ten mins
 
 5. Een certificaat inzake goederenverkeer EUR.1 dat is afgegeven of opgesteld op grond van een onjuiste leveranciersverklaring, wordt geacht ongeldig te zijn.
 
-#### Artikel 38. Geschillenbeslechting
+##### Artikel 38. Geschillenbeslechting
 
 Geschillen ten aanzien van de in de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&titeldeel=V&artikel=36&z=2009-08-29&g=2009-08-29) en [37](https://wetten.overheid.nl/jci1.3:c:BWBV0005864&titeldeel=V&artikel=37&z=2009-08-29&g=2009-08-29) bedoelde controles tussen de douaneautoriteiten die de controle aanvragen en de douaneautoriteiten die de controle moeten uitvoeren die zij niet onderling kunnen regelen en problemen in verband met de interpretatie van dit protocol worden voorgelegd aan het comité voor douanesamenwerking.
 
 Op de regeling van geschillen tussen de importeur en de douaneautoriteiten van het land van invoer is in alle gevallen de wetgeving van het land van invoer van toepassing.
 
-#### Artikel 39. Sancties
+##### Artikel 39. Sancties
 
 Er worden sancties getroffen tegen eenieder die een document met onjuiste gegevens opstelt of laat opstellen met het doel een preferentiële behandeling voor producten te verkrijgen.
 
-#### Artikel 40. Vrije zones
+##### Artikel 40. Vrije zones
 
 1. De OZA-staten en de Gemeenschap nemen alle nodige maatregelen om te voorkomen dat producten die onder geleide van een bewijs van oorsprong of een leveranciersverklaring worden verhandeld en die tijdens het vervoer in een op hun gebied gelegen vrije zone verblijven, door andere goederen worden vervangen of andere be- of verwerkingen ondergaan dan die welke bedoeld zijn om ze in goede staat te bewaren.
 
 2. In afwijking van lid 1 geven de bevoegde autoriteiten, wanneer producten van oorsprong uit een OZA-staat of uit de Gemeenschap onder geleide van een bewijs van oorsprong in een vrije zone worden ingevoerd en er een be- of verwerking ondergaan, op verzoek van de exporteur een nieuw certificaat inzake goederenverkeer EUR.1 af, mits de be- of verwerking in overeenstemming is met de bepalingen van dit protocol.
 
-#### Artikel 41. Comité voor douanesamenwerking
+##### Artikel 41. Comité voor douanesamenwerking
 
 1. Er wordt een comité voor douanesamenwerking, hierna „het comité” genoemd, opgericht, dat belast wordt met de uitvoering van de administratieve samenwerking met het oog op de correcte, uniforme toepassing van dit protocol en van alle andere taken op douanegebied.
 
@@ -1684,7 +1703,7 @@ Er worden sancties getroffen tegen eenieder die een document met onjuiste gegeve
 
 6. Het comité bestaat uit deskundigen uit de lidstaten van de Gemeenschap en ambtenaren van de Commissie die verantwoordelijk zijn voor douanevraagstukken, enerzijds, en uit deskundigen die de OZA-staten vertegenwoordigen en ambtenaren van regionale groeperingen van de OZA-staten die verantwoordelijk zijn voor douanevraagstukken, anderzijds. Zo nodig kan het comité een beroep doen op passende expertise. Het voorzitterschap van het comité wordt beurtelings door elk van de partijen bekleed.
 
-#### Artikel 42. Afwijkingen
+##### Artikel 42. Afwijkingen
 
 1. Het comité voor douanesamenwerking, hierna in dit artikel „het comité” genoemd, kan besluiten dat van dit protocol mag worden afgeweken wanneer de ontwikkeling van bestaande industrieën of de oprichting van nieuwe industrieën in de OZA-staten dit rechtvaardigt.
 
@@ -1752,7 +1771,7 @@ Verzoeken om een dergelijke afwijking moeten door de OZA-staten in overeenstemmi
 
 ## TITEL VI. CEUTA EN MELILLA
 
-#### Artikel 43. Bijzondere voorwaarden
+##### Artikel 43. Bijzondere voorwaarden
 
 1. De in dit protocol gebruikte term „Gemeenschap” omvat niet Ceuta en Melilla. Onder „producten van oorsprong uit de Gemeenschap” worden geen producten van oorsprong uit Ceuta en Melilla verstaan.
 
@@ -1768,19 +1787,19 @@ Verzoeken om een dergelijke afwijking moeten door de OZA-staten in overeenstemmi
 
 ## TITEL VII. SLOTBEPALINGEN
 
-#### Artikel 44. Wijziging van het protocol
+##### Artikel 44. Wijziging van het protocol
 
 Het OZA-comité kan besluiten dit protocol te wijzigen.
 
-#### Artikel 45. Bijlagen
+##### Artikel 45. Bijlagen
 
 De bijlagen bij dit protocol maken daarvan een integrerend deel uit.
 
-#### Artikel 46. Tenuitvoerlegging van het protocol
+##### Artikel 46. Tenuitvoerlegging van het protocol
 
 De Gemeenschap en de OZA-staten nemen elk de nodige stappen om dit protocol ten uitvoer te leggen.
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 Voor de toepassing van dit protocol wordt verstaan onder:
 
@@ -1796,7 +1815,7 @@ Voor de toepassing van dit protocol wordt verstaan onder:
 
 - f. „met de douanewetgeving strijdige handeling”: elke overtreding of poging tot overtreding van de douanewetgeving.
 
-#### Artikel 2. Werkingssfeer
+##### Artikel 2. Werkingssfeer
 
 1. De partijen verlenen elkaar bijstand om op de onder hun bevoegdheid vallende gebieden en op de wijze en voorwaarden die bij dit protocol zijn vastgesteld, een correcte toepassing van de douanewetgeving te waarborgen, in het bijzonder door met die wetgeving strijdige handelingen te voorkomen, op te sporen en te bestrijden.
 
@@ -1804,7 +1823,7 @@ Voor de toepassing van dit protocol wordt verstaan onder:
 
 3. Bijstand bij de invordering van rechten, belastingen en boetes valt niet onder dit protocol.
 
-#### Artikel 3. Bijstand op verzoek
+##### Artikel 3. Bijstand op verzoek
 
 1. Op aanvraag van de verzoekende autoriteit verstrekt de aangezochte autoriteit eerstgenoemde alle ter zake dienende informatie die deze nodig heeft om erop toe te zien dat de douanewetgeving correct wordt toegepast, met inbegrip van informatie betreffende voorgenomen of vastgestelde activiteiten die met deze wetgeving strijdige handelingen zijn of kunnen zijn.
 
@@ -1824,7 +1843,7 @@ Voor de toepassing van dit protocol wordt verstaan onder:
 
 - d. vervoermiddelen die op zodanige wijze worden of kunnen worden gebruikt dat redelijkerwijs kan worden vermoed dat zij bedoeld zijn om te worden gebruikt bij met de douanewetgeving strijdige handelingen.
 
-#### Artikel 4. Ongevraagde bijstand
+##### Artikel 4. Ongevraagde bijstand
 
 De partijen verlenen elkaar, in overeenstemming met hun wettelijke en bestuursrechtelijke bepalingen, op eigen initiatief bijstand indien zij dit noodzakelijk achten voor de correcte toepassing van de douanewetgeving, in het bijzonder indien zij informatie hebben verkregen over:
 
@@ -1838,7 +1857,7 @@ De partijen verlenen elkaar, in overeenstemming met hun wettelijke en bestuursre
 
 - e. vervoermiddelen waarvan redelijkerwijs kan worden vermoed dat zij zijn, worden of kunnen worden gebruikt bij met de douanewetgeving strijdige handelingen.
 
-#### Artikel 5. Verstrekking van documenten en kennisgeving van besluiten
+##### Artikel 5. Verstrekking van documenten en kennisgeving van besluiten
 
 1. Op aanvraag van de verzoekende autoriteit neemt de aangezochte autoriteit, in overeenstemming met haar wettelijke en bestuursrechtelijke bepalingen, alle maatregelen die nodig zijn voor:
 
@@ -1848,7 +1867,7 @@ De partijen verlenen elkaar, in overeenstemming met hun wettelijke en bestuursre
 
 2. Verzoeken om de overhandiging van documenten of de kennisgeving van besluiten worden schriftelijk aan de aangezochte autoriteit gericht in een officiële taal van die autoriteit of in een voor die autoriteit aanvaardbare taal.
 
-#### Artikel 6. Vorm en inhoud van verzoeken om bijstand
+##### Artikel 6. Vorm en inhoud van verzoeken om bijstand
 
 1. Verzoeken in het kader van dit protocol worden schriftelijk gedaan. Zij gaan vergezeld van de documenten die voor de behandeling van het verzoek noodzakelijk zijn. In spoedeisende gevallen kunnen verzoeken ook mondeling worden gedaan, mits zij onmiddellijk schriftelijk worden bevestigd. Verzoeken kunnen ook in elektronische vorm worden gedaan.
 
@@ -1870,7 +1889,7 @@ De partijen verlenen elkaar, in overeenstemming met hun wettelijke en bestuursre
 
 4. Indien een verzoek niet aan de hierboven vermelde vormvereisten voldoet, kan worden verzocht het te corrigeren of aan te vullen; in de tussentijd kan opdracht worden gegeven tot conservatoire maatregelen.
 
-#### Artikel 7. Uitvoering van verzoeken
+##### Artikel 7. Uitvoering van verzoeken
 
 1. Binnen de grenzen van haar bevoegdheden en de haar beschikbare middelen behandelt de aangezochte autoriteit een verzoek om bijstand alsof zij voor eigen rekening of in opdracht van een andere autoriteit van dezelfde partij handelt, en verstrekt zij de al beschikbare informatie en verricht zij het nodige onderzoek of laat zij dit verrichten. Deze bepaling is eveneens van toepassing op autoriteiten waaraan de aangezochte autoriteit het verzoek doorstuurt wanneer zij dit niet zelf kan afhandelen.
 
@@ -1882,7 +1901,7 @@ De partijen verlenen elkaar, in overeenstemming met hun wettelijke en bestuursre
 
 - b. aanwezig zijn bij onderzoek dat op het gebied van laatstgenoemde wordt verricht.
 
-#### Artikel 8. Vorm waarin de informatie moet worden verstrekt
+##### Artikel 8. Vorm waarin de informatie moet worden verstrekt
 
 1. De aangezochte autoriteit deelt de uitslag van het onderzoek schriftelijk aan de verzoekende autoriteit mede en voegt daarbij de relevante documenten, gewaarmerkte afschriften of andere stukken.
 
@@ -1890,7 +1909,7 @@ De partijen verlenen elkaar, in overeenstemming met hun wettelijke en bestuursre
 
 3. Originelen van documenten worden uitsluitend op verzoek verstrekt wanneer gewaarmerkte afschriften niet toereikend zijn. Deze originelen worden ten spoedigste geretourneerd.
 
-#### Artikel 9. Gevallen waarin geen bijstand behoeft te worden verleend
+##### Artikel 9. Gevallen waarin geen bijstand behoeft te worden verleend
 
 1. Bijstand kan worden geweigerd of van bepaalde voorwaarden of eisen afhankelijk worden gesteld wanneer een betrokken partij van oordeel is dat bijstand op grond van dit protocol:
 
@@ -1906,7 +1925,7 @@ De partijen verlenen elkaar, in overeenstemming met hun wettelijke en bestuursre
 
 4. In de in de leden 1 en 2 bedoelde gevallen moeten het besluit van de aangezochte autoriteit en de redenen ervan onverwijld aan de verzoekende autoriteit worden medegedeeld.
 
-#### Artikel 10. Doorgifte van informatie en geheimhoudingsplicht
+##### Artikel 10. Doorgifte van informatie en geheimhoudingsplicht
 
 1. Alle informatie die, in welke vorm dan ook, op grond van dit protocol wordt verstrekt, heeft een vertrouwelijk karakter of is alleen bestemd voor beperkte verspreiding, afhankelijk van de toepasselijke voorschriften van elk van de partijen. De verstrekte gegevens vallen onder de geheimhoudingsplicht en genieten de bescherming die door de desbetreffende wetgeving van de ontvangende partij, dan wel door de desbetreffende bepalingen die op de instellingen van de Europese Gemeenschap van toepassing zijn, aan dergelijke gegevens wordt geboden.
 
@@ -1916,25 +1935,25 @@ De partijen verlenen elkaar, in overeenstemming met hun wettelijke en bestuursre
 
 4. De verkregen informatie wordt uitsluitend voor de toepassing van dit protocol gebruikt. Wanneer een van de partijen dergelijke informatie voor andere doeleinden wenst te gebruiken, moet zij de autoriteit die de informatie heeft verstrekt vooraf om schriftelijke toestemming vragen. Voor dit gebruik gelden dan de eventueel door deze autoriteit vastgestelde beperkingen.
 
-#### Artikel 11. Deskundigen en getuigen
+##### Artikel 11. Deskundigen en getuigen
 
 Een onder een aangezochte autoriteit ressorterende ambtenaar kan worden gemachtigd om, binnen de grenzen van de hem verleende machtiging, als deskundige of getuige te verschijnen in gerechtelijke of administratieve procedures betreffende onder dit protocol vallende aangelegenheden en daarbij de voor de procedure noodzakelijke voorwerpen, documenten of gewaarmerkte afschriften over te leggen. In de dagvaarding dient uitdrukkelijk te worden vermeld voor welke rechterlijke of administratieve instantie de ambtenaar moet verschijnen en over welke aangelegenheid en in welke functie of hoedanigheid hij zal worden ondervraagd.
 
-#### Artikel 12. Kosten van de bijstand
+##### Artikel 12. Kosten van de bijstand
 
 De partijen brengen elkaar geen kosten in rekening voor uitgaven die op grond van dit protocol worden gedaan, met uitzondering van eventuele uitgaven voor deskundigen en getuigen en voor tolken en vertalers die niet in overheidsdienst zijn.
 
-#### Artikel 13. Tenuitvoerlegging
+##### Artikel 13. Tenuitvoerlegging
 
 1. Dit protocol wordt ten uitvoer gelegd door de douaneautoriteiten van de overeenkomstsluitende OZA-staten, enerzijds, en de bevoegde diensten van de Commissie van de Europese Gemeenschappen en, in voorkomend geval, de douaneautoriteiten van de lidstaten, anderzijds. Zij stellen alle voor de toepassing van dit protocol noodzakelijke praktische maatregelen en regelingen vast, rekening houdend met de geldende voorschriften, met name op het gebied van de gegevensbescherming.
 
 2. De partijen plegen onderling overleg en lichten elkaar in over alle uitvoeringsbepalingen die zij op grond van dit protocol vaststellen.
 
-#### Artikel 14. Wijzigingen
+##### Artikel 14. Wijzigingen
 
 De partijen kunnen de bevoegde autoriteiten aanbevelingen doen over wijzigingen die naar hun oordeel in dit protocol moeten worden aangebracht.
 
-#### Artikel 15. Slotbepalingen
+##### Artikel 15. Slotbepalingen
 
 1. Dit protocol is een aanvulling op en geen beletsel voor de toepassing van overeenkomsten inzake wederzijdse administratieve bijstand die tussen de partijen zijn gesloten of kunnen worden gesloten en staat niet in de weg aan uitgebreidere wederzijdse bijstand uit hoofde van dergelijke overeenkomsten.
 

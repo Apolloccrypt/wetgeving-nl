@@ -1,13 +1,38 @@
 ---
 title: "Regeling verstrekking gegevens voor onderzoek naar kansspelverslaving"
 identifier: "BWBR0045978"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2021-12-07
-laatste_update: 2021-12-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045978"
+country: "nl"
+rank: "zbo"
+publication_date: "2021-12-07"
+last_updated: "2021-12-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045978"
+soort: "zbo"
+stam_id: "16169553"
+version_id: "28214282"
+internal_id: "C39775081"
+label_id: "16098034"
+dtd_version: "2.0"
+original_entry_into_force: "2021-12-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045978/2021-12-07/0"
+intitule_bron: "Stcrt.2021-48712"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-11-30"
+intitule_published: "2021-12-06"
+intitule_in_force: "2021-12-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-48712"
+original_signed_date: "2021-11-30"
+original_published_date: "2021-12-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-48712"
+entry_into_force_date: "2021-12-07"
+jci_1_3: "jci1.3:c:BWBR0045978&z=2021-12-07&g=2021-12-07"
+jci_1_0: "1.0:c:BWBR0045978&g=2021-12-07"
+citeertitel_status: "officieel"
+signed_date: "2021-11-30"
+entry_into_force: "2021-12-07"
 ---
-
 # Regeling verstrekking gegevens voor onderzoek naar kansspelverslaving
 
 gelet op [artikel 31m van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31m) en [artikel 17 van het Besluit werving, reclame en verslavingspreventie kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=17),
@@ -16,7 +41,7 @@ Besluit de volgende regels vast te stellen:
 
 #### Paragraaf 1. Definities
 
-#### Artikel 1.1. Definities
+##### Artikel 1.1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -38,17 +63,17 @@ In deze regeling wordt verstaan onder:
 
 #### Paragraaf 2. Algemene bepalingen
 
-#### Artikel 2.1. Reikwijdte
+##### Artikel 2.1. Reikwijdte
 
 Deze regeling heeft uitsluitend betrekking op de verplichting van de vergunninghouder om op verzoek van een onderzoeksinstelling gegevens te verstrekken ten behoeve van wetenschappelijk onderzoek naar kansspelverslaving, als bedoeld in [artikel 31m, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31m) en [artikel 17 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=17).
 
-#### Artikel 2.2. Taal
+##### Artikel 2.2. Taal
 
 Het formulier als bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045978&paragraaf=3&artikel=3.1&z=2021-12-07&g=2021-12-07) van deze regeling, de daarbij behorende bijlagen en alle overige bij het verzoek behorende documenten worden ingevuld dan wel aangeleverd in de Nederlandse taal, tenzij anders is bepaald.
 
 #### Paragraaf 3. Verzoek
 
-#### Artikel 3.1. Verzoek en formulier
+##### Artikel 3.1. Verzoek en formulier
 
 1. De vergunninghouder neemt het verzoek in behandeling indien:
 
@@ -94,7 +119,7 @@ Het formulier als bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:B
 
 5. De vergunninghouder maakt een e-mailadres kenbaar op zijn website, waar een verzoek aan moet worden gericht.
 
-#### Artikel 3.2. Periodieke verzoekmogelijkheid
+##### Artikel 3.2. Periodieke verzoekmogelijkheid
 
 1. De vergunninghouder neemt een verzoek in behandeling indien dit is ingediend in de maand april 2022 of in de daaropvolgende maanden juli en januari van ieder kalenderjaar.
 
@@ -104,13 +129,13 @@ Het formulier als bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:B
 
 #### Paragraaf 4. Ontvangst verzoek, verstrekking gegevens en melding Kansspelautoriteit
 
-#### Artikel 4.1. Ontvangst van het verzoek en melding aan de Kansspelautoriteit
+##### Artikel 4.1. Ontvangst van het verzoek en melding aan de Kansspelautoriteit
 
 1. De vergunninghouder bevestigt de ontvangst van het verzoek binnen één week na de ontvangst aan de onderzoeksinstelling.
 
 2. De vergunninghouder doet binnen één week na de ontvangst van het verzoek melding van het verzoek aan de raad van bestuur. De vergunninghouder stuurt daartoe een afschrift van het verzoek, inclusief het formulier en de daarbij behorende documenten, naar de raad van bestuur via een daartoe beschikbaar gesteld e-mailadres op de website van de Kansspelautoriteit.
 
-#### Artikel 4.2. Verstrekking van de gegevens en melding aan de Kansspelautoriteit
+##### Artikel 4.2. Verstrekking van de gegevens en melding aan de Kansspelautoriteit
 
 1. De vergunninghouder is uitsluitend gehouden gegevens te verstrekken over een periode dat hij over een vergunning beschikt, met dien verstande dat geen gegevens worden verstrekt voor zover de toepasselijke bewaartermijn voor deze gegevens is verstreken.
 
@@ -126,7 +151,7 @@ Het formulier als bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:B
 
 #### Paragraaf 5. Overleg en toezicht
 
-#### Artikel 5.1. Overleg en toezicht
+##### Artikel 5.1. Overleg en toezicht
 
 1. De vergunninghouder en de onderzoeksinstelling treden met elkaar in overleg, in ieder geval voor zover dat in het kader van het voldoen aan de verplichting om gegevens te verstrekken nodig is.
 
@@ -134,7 +159,7 @@ Het formulier als bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:B
 
 #### Paragraaf 6. Overige regels
 
-#### Artikel 6.1. Overige regels
+##### Artikel 6.1. Overige regels
 
 1. De onderzoeksinstelling stelt de raad van bestuur en de vergunninghouder die gegevens heeft verstrekt binnen 14 kalenderdagen na de publicatie op de hoogte van de publicatie en vindplaats van het onderzoek waarvoor door de vergunninghouder verstrekte gegevens zijn gebruikt.
 
@@ -144,11 +169,11 @@ Het formulier als bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:B
 
 #### Paragraaf 7. Slotbepalingen
 
-#### Artikel 7.1. Inwerkingtreding
+##### Artikel 7.1. Inwerkingtreding
 
 Deze regeling wordt met de toelichting en de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0045978&bijlage=I&z=2021-12-07&g=2021-12-07) gepubliceerd in de Staatscourant en treedt in werking op 7 december 2021.
 
-#### Artikel 7.2. Citeertitel
+##### Artikel 7.2. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling verstrekking gegevens voor onderzoek naar kansspelverslaving.
 

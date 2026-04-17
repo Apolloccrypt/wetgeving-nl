@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Gambia inzake de export en handhaving van sociale zekerheidsuitkeringen"
 identifier: "BWBV0001780"
-categorie: "Bestuursrecht"
-publicatiedatum: 2005-11-28
-laatste_update: 2005-11-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001780"
+country: "nl"
+rank: "verdrag"
+publication_date: "2005-11-28"
+last_updated: "2005-11-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001780"
+soort: "verdrag"
+stam_id: "10002033683"
+version_id: "10002111792"
+internal_id: "C10006995411"
+label_id: "10002023824"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001780/2005-11-28/0"
+intitule_bron: "Trb.2006-10"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-01-01"
+intitule_published: "2006-01-18"
+intitule_status: "nogniet"
+original_publication: "Trb.2006-10"
+original_signed_date: "2006-01-01"
+original_published_date: "2006-01-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2006-10"
+jci_1_3: "jci1.3:c:BWBV0001780&z=2005-11-28&g=2005-11-28"
+jci_1_0: "1.0:c:BWBV0001780&g=2005-11-28"
+citeertitel_status: "redactioneel"
+signed_date: "2006-01-01"
+entry_into_force: "2006-01-18"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Gambia inzake de export en handhaving van sociale zekerheidsuitkeringen
 
 Het Koninkrijk der Nederlanden
@@ -24,7 +46,7 @@ Geleid door de wens de samenwerking tussen de twee staten te regelen ter waarbor
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 1. Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -50,7 +72,7 @@ Zijn het volgende overeengekomen:
 
 2. Andere in dit Verdrag gebruikte termen hebben de betekenis die daaraan in de toegepaste wetgeving wordt gegeven.
 
-#### Artikel 2. Materiële werkingssfeer
+##### Artikel 2. Materiële werkingssfeer
 
 Dit Verdrag is van toepassing:
 
@@ -76,11 +98,11 @@ Dit Verdrag is van toepassing:
 
 - f. ontslagvergoedingen.
 
-#### Artikel 3. Personele werkingssfeer
+##### Artikel 3. Personele werkingssfeer
 
 Tenzij in dit Verdrag anders is bepaald, is dit Verdrag zowel van toepassing op een uitkeringsgerechtigde als op een lid van zijn gezin voor zover de uitkeringsgerechtigde of het gezinslid woont of verblijft op het grondgebied van een van de Verdragsluitende Partijen.
 
-#### Artikel 4. Export van uitkeringen
+##### Artikel 4. Export van uitkeringen
 
 1. Tenzij in dit Verdrag anders is bepaald, is een bepaling van de wetgeving van een Verdragsluitende Partij die de betaling van een uitkering beperkt uitsluitend omdat een uitkeringsgerechtigde of een lid van zijn gezin buiten het grondgebied van die Verdragsluitende Partij woont of verblijft, niet van toepassing ten aanzien van een uitkeringsgerechtigde of een lid van zijn gezin die respectievelijk dat op het grondgebied van de andere Verdragsluitende Partij woont of verblijft.
 
@@ -90,13 +112,13 @@ Tenzij in dit Verdrag anders is bepaald, is dit Verdrag zowel van toepassing op 
 
 4. Ten aanzien van Gambiaanse nabestaandenuitkeringen in het geval van meer dan een nabestaande, wordt het bedrag betaald in overeenstemming met de van toepassing zijnde wetgeving.
 
-#### Artikel 5. Identificatie
+##### Artikel 5. Identificatie
 
 1. Om het recht op een uitkering of de rechtmatigheid van de betaling van een uitkering ingevolge de Nederlandse of Gambiaanse wetgeving vast te stellen, dient een uitkeringsgerechtigde of een lid van zijn gezin zich te identificeren door overlegging van een officieel identiteitsbewijs aan het bevoegde orgaan op het grondgebied waarvan de betrokken persoon woont of verblijft. Een officieel identiteitsbewijs is een paspoort of enig ander geldig identiteitsdocument dat is afgegeven op het grondgebied waar de betrokken persoon woont of verblijft.
 
 2. Het betrokken bevoegde orgaan identificeert de uitkeringsgerechtigde of het lid van zijn gezin aan de hand van het officiële identiteitsbewijs. Het bevoegde orgaan stelt het bevoegde orgaan van de andere Verdragsluitende Partij ervan in kennis dat de identiteit van de uitkeringsgerechtigde, of van dit lid van het gezin, is geverifieerd door toezending van een gewaarmerkt afschrift van het officiële identiteitsbewijs.
 
-#### Artikel 6. Verificatie van aanvragen en betalingen
+##### Artikel 6. Verificatie van aanvragen en betalingen
 
 1. Voor de toepassing van dit artikel wordt verstaan onder „informatie”: gegevens betreffende identiteit, adres, huishouden, gezinssituatie, werk, scholing, inkomen, vermogensbestanddelen, gezondheidstoestand, overlijden en hechtenis, of alle andere gegevens die relevant zijn voor de uitvoering van dit Verdrag.
 
@@ -110,7 +132,7 @@ Tenzij in dit Verdrag anders is bepaald, is dit Verdrag zowel van toepassing op 
 
 6. Bij de uitvoering van dit Verdrag zijn de instanties elkaar behulpzaam en handelen zij als betrof het de uitvoering van hun eigen wetgeving. De administratieve bijstand die door de instanties wordt verleend is kosteloos. De bevoegde autoriteiten van de Verdragsluitende Partijen kunnen echter overeenkomen dat sommige kosten worden vergoed.
 
-#### Artikel 7. Medisch onderzoek
+##### Artikel 7. Medisch onderzoek
 
 1. Op verzoek van het bevoegde orgaan van een Verdragsluitende Partij wordt het medisch onderzoek van een uitkeringsgerechtigde of een lid van zijn gezin die respectievelijk dat woont of verblijft op het grondgebied van de andere Verdragsluitende Partij, verricht door het bevoegde orgaan van de laatstgenoemde Verdragsluitende Partij.
 
@@ -120,37 +142,37 @@ Tenzij in dit Verdrag anders is bepaald, is dit Verdrag zowel van toepassing op 
 
 4. De kosten van het onderzoek en, naar gelang van het geval, de uitgaven voor reis en verblijf worden voldaan door het bevoegde orgaan op verzoek waarvan het onderzoek wordt verricht.
 
-#### Artikel 8. Bescherming van gegevens
+##### Artikel 8. Bescherming van gegevens
 
 1. Wanneer, ingevolge dit Verdrag, de bevoegde autoriteiten, bevoegde organen of instanties van een Verdragsluitende Partij persoonlijke gegevens mededelen aan de bevoegde autoriteiten, bevoegde organen of de diplomatieke of consulaire vertegenwoordigers van de andere Verdragsluitende Partij, is deze mededeling onderworpen aan de wettelijke bepalingen inzake de bescherming van persoonsgegevens als neergelegd door de Verdragsluitende Partij die de gegevens verstrekt. Elke daarop volgende overdracht dan wel opslag, wijziging of vernietiging van de gegevens is onderworpen aan de bepalingen van de wetgeving inzake de bescherming van gegevens van de ontvangende Verdragsluitende Partij.
 
 2. Het gebruik van persoonsgegevens voor andere doeleinden dan die van sociale zekerheid is onderworpen aan de goedkeuring van de betrokken persoon of in overeenstemming met andere waarborgen waarin de nationale wetgeving voorziet.
 
-#### Artikel 9. Uitvoering van het Verdrag
+##### Artikel 9. Uitvoering van het Verdrag
 
 De bevoegde organen van beide Verdragsluitende Partijen kunnen door middel van aanvullende regelingen maatregelen vaststellen voor de toepassing van dit Verdrag.
 
-#### Artikel 10. Taal
+##### Artikel 10. Taal
 
 1. Voor de toepassing van dit Verdrag kunnen de bevoegde autoriteiten, bevoegde organen en instanties van de Verdragsluitende Partijen rechtstreeks met elkaar communiceren in de Engelse taal.
 
 2. Geen enkel document wordt geweigerd op grond van het enkele feit dat het is opgesteld in een officiële taal van een Verdragsluitende Partij.
 
-#### Artikel 11. Beslechting van geschillen
+##### Artikel 11. Beslechting van geschillen
 
 De bevoegde autoriteiten van beide Verdragsluitende Partijen verrichten alle redelijke inspanningen om geschillen die voortvloeien uit de uitlegging of toepassing van dit Verdrag in onderlinge overeenstemming op te lossen.
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 1. De Verdragsluitende Partijen stellen elkaar schriftelijk in kennis van de voltooiing van hun onderscheiden wettelijke of grondwettelijke procedures die vereist zijn voor de inwerkingtreding van dit Verdrag.
 
 2. Dit Verdrag treedt in werking op de eerste dag van de tweede maand volgend op de datum van de laatste kennisgeving door een van de Verdragsluitende Partijen, met dien verstande dat het Koninkrijk der Nederlanden de artikelen 4, 5, 6 en 7 voorlopig zal toepassen vanaf de eerste dag van de tweede maand volgend op de datum van ondertekening van het Verdrag.
 
-#### Artikel 13. Territoriale toepassing
+##### Artikel 13. Territoriale toepassing
 
 Met betrekking tot het Koninkrijk der Nederlanden is dit Verdrag slechts van toepassing op het grondgebied van het Koninkrijk in Europa en met betrekking tot Gambia, op het grondgebied van de Republiek Gambia.
 
-#### Artikel 14. Beëindiging
+##### Artikel 14. Beëindiging
 
 Dit Verdrag kan te allen tijde worden beëindigd bij schriftelijke kennisgeving aan de andere Verdragsluitende Partij. In het geval van beëindiging blijft dit Verdrag van kracht tot het einde van het kalenderjaar volgend op het jaar waarin de kennisgeving van beëindiging door de andere Verdragsluitende Partij is ontvangen.
 

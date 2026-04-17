@@ -1,13 +1,38 @@
 ---
 title: "Protocol tussen het Koninkrijk der Nederlanden en het Koninkrijk België inzake voorrechten en immuniteiten van de Nederlandse Taalunie"
 identifier: "BWBV0002229"
-categorie: "Internationaal recht"
-publicatiedatum: 1994-01-17
-laatste_update: 1994-01-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002229"
+country: "nl"
+rank: "verdrag"
+publication_date: "1994-01-17"
+last_updated: "1994-01-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002229"
+soort: "verdrag"
+stam_id: "10002710153"
+version_id: "10002708852"
+internal_id: "C10006984931"
+label_id: "10002698034"
+dtd_version: "2.0"
+original_entry_into_force: "1994-01-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002229/1994-01-17/0"
+intitule_bron: "Trb.1990-124"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1993-01-21"
+intitule_published: "1990-08-24"
+intitule_in_force: "1994-02-16"
+intitule_status: "goed"
+original_publication: "Trb.1990-124"
+original_signed_date: "1993-01-21"
+original_published_date: "1990-08-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1990-124"
+entry_into_force_date: "1994-01-17"
+jci_1_3: "jci1.3:c:BWBV0002229&z=1994-01-17&g=1994-01-17"
+jci_1_0: "1.0:c:BWBV0002229&g=1994-01-17"
+citeertitel_status: "officieel"
+signed_date: "1993-01-21"
+entry_into_force: "1994-01-17"
 ---
-
 # Protocol tussen het Koninkrijk der Nederlanden en het Koninkrijk België inzake voorrechten en immuniteiten van de Nederlandse Taalunie
 
 Het Koninkrijk der Nederlanden en het Koninkrijk België,
@@ -20,11 +45,11 @@ Verlangend uitvoering te geven aan [artikel 16, tweede lid, van het Verdrag](htt
 
 Zijn overeengekomen als volgt:
 
-#### Artikel 1
+##### Artikel 1
 
 Zolang de Taalunie haar zetel te 's-Gravenhage dan wel elders in het Koninkrijk der Nederlanden heeft, wordt door het Koninkrijk der Nederlanden om niet onroerend goed ter beschikking gesteld ten behoeve van de huisvesting van het Algemeen Secretariaat van de Taalunie.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Binnen het raam van haar officiële werkzaamheden is de Taalunie ter zake van de verkrijging van onroerend goed ten behoeve van de huisvesting van het Algemeen Secretariaat van de Taalunie vrijgesteld van overdrachtsbelasting, mits de activiteiten die vanuit het onroerend goed worden verricht niet van commerciële aard zijn en het onroerend goed niet tot woning dient.
 
@@ -38,11 +63,11 @@ Zolang de Taalunie haar zetel te 's-Gravenhage dan wel elders in het Koninkrijk 
 
 6. Geen vrijstelling op grond van de voorgaande leden van dit artikel wordt verleend ten aanzien van goederen die worden aangekocht of ingevoerd ten gerieve van de personeelsleden van de Taalunie.
 
-#### Artikel 3
+##### Artikel 3
 
 De archieven van de Taalunie zijn onschendbaar. De Algemeen Secretaris van de Taalunie is bevoegd de onschendbaarheid op te heffen.
 
-#### Artikel 4
+##### Artikel 4
 
 - a. Aan de Algemeen Secretaris van de Taalunie worden een status vergelijkbaar met die van het hoofd van een diplomatieke zending en de daaruit voortvloeiende voorrechten en immuniteiten toegekend.
 
@@ -52,7 +77,7 @@ De archieven van de Taalunie zijn onschendbaar. De Algemeen Secretaris van de Ta
 
 2. Indien de Algemeen Secretaris een eigen onderdaan is, zijn de Partijen bij dit Protocol met betrekking tot de in het eerste lid bedoelde voorrechten en immuniteiten slechts verplicht tot het verlenen van immuniteit van jurisdictie voor hetgeen hij in zijn officiële hoedanigheid heeft gedaan, gezegd of geschreven, ook nadat hij zijn ambt heeft neergelegd, en tot het verlenen van onschendbaarheid van zijn officiële stukken en documenten.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Tegen de leden van de Interparlementaire Commissie van de Taalunie, hierna te noemen „de Commissie”, kan geen opsporing plaats vinden noch kunnen zij worden aangehouden of vervolgd op grond van de mening of de stem, die zij in de uitoefening van hun ambt hebben uitgebracht.
 
@@ -66,15 +91,15 @@ De immuniteit beschermt hen eveneens, wanneer zij zich naar de plaats van de bij
 
 De immuniteit is niet van toepassing op verkeersdelicten welke begaan werden door een lid van de Commissie, noch is zij van toepassing in gevallen waarin schade is veroorzaakt door een motorrijtuig dat eigendom is van, of bestuurd wordt door een lid van de Commissie.
 
-#### Artikel 6
+##### Artikel 6
 
 Wat het Koninkrijk der Nederlanden betreft is dit Protocol slechts van toepassing op het Rijk in Europa. Eventuele uitbreiding van de werking van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002947) tot een ander deel van het Koninkrijk houdt tevens in uitbreiding van de werking van dit Protocol tot dat deel van het Koninkrijk.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit Protocol wordt gesloten voor onbepaalde tijd. Beëindiging van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002947) houdt tevens in beëindiging van het Protocol.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit Protocol treedt in werking nadat het Koninkrijk der Nederlanden en het Koninkrijk België elkaar hebben medegedeeld dat aan de terzake geldende constitutionele vereisten is voldaan.
 

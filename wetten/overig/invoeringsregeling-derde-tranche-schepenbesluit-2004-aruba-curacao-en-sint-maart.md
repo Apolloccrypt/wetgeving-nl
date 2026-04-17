@@ -1,13 +1,39 @@
 ---
-title: "Invoeringsregeling derde tranche Schepenbesluit 2004 Aruba, Curaçao en Sint Maarten"
+title: "Regeling van de Minister van Infrastructuur en Milieu, van 10 december 2015, nr. IENM/BSK-2015/244369, tot wijziging van de Regeling veiligheid Arubaanse, Curaçaose en Sint Maartense zeeschepen in verband met de inwerkingtreding voor Aruba, Curaçao en Sint Maarten van de artikelen 6, 15, 41, 60, tweede lid, en 61, vierde lid, van het Schepenbesluit 2004 en de invoering van voorschriften betreffende de veiligheid van vrachtschepen en kleine commerciële schepen in het Caribisch gebied, de modernisering van de voorschriften betreffende de medische uitrusting aan boord van schepen, alsmede enige andere aanpassingen (Invoeringsregeling derde tranche Schepenbesluit 2004 Aruba, Curaçao en Sint Maarten)"
 identifier: "BWBR0037405"
-categorie: "Overig"
-publicatiedatum: 2016-01-01
-laatste_update: 2016-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037405"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2016-01-01"
+last_updated: "2016-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037405"
+soort: "ministeriele-regeling"
+stam_id: "13357823"
+version_id: "22899072"
+internal_id: "C33118951"
+label_id: "13325604"
+dtd_version: "2.0"
+original_entry_into_force: "2016-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037405/2016-01-01/0"
+intitule_bron: "Stcrt.2015-45626"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-12-10"
+intitule_published: "2015-12-22"
+intitule_in_force: "2015-12-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-45626"
+original_signed_date: "2015-12-10"
+original_published_date: "2015-12-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-45626"
+entry_into_force_date: "2016-01-01"
+jci_1_3: "jci1.3:c:BWBR0037405&z=2016-01-01&g=2016-01-01"
+jci_1_0: "1.0:c:BWBR0037405&g=2016-01-01"
+citeertitel_status: "officieel"
+short_title: "Invoeringsregeling derde tranche Schepenbesluit 2004 Aruba, Curaçao en Sint Maarten"
+signed_date: "2015-12-10"
+entry_into_force: "2016-01-01"
 ---
-
 # Regeling van de Minister van Infrastructuur en Milieu, van 10 december 2015, nr. IENM/BSK-2015/244369, tot wijziging van de Regeling veiligheid Arubaanse, Curaçaose en Sint Maartense zeeschepen in verband met de inwerkingtreding voor Aruba, Curaçao en Sint Maarten van de artikelen 6, 15, 41, 60, tweede lid, en 61, vierde lid, van het Schepenbesluit 2004 en de invoering van voorschriften betreffende de veiligheid van vrachtschepen en kleine commerciële schepen in het Caribisch gebied, de modernisering van de voorschriften betreffende de medische uitrusting aan boord van schepen, alsmede enige andere aanpassingen (Invoeringsregeling derde tranche Schepenbesluit 2004 Aruba, Curaçao en Sint Maarten)
 
 Handelende in overeenstemming met de Minister van Toerisme, Transport en Arbeid van Aruba, de Minister van Verkeer en Vervoer en Ruimtelijke Planning van Curaçao en de Minister van Toerisme, Economische Zaken, Verkeer en Telecommunicatie van Sint Maarten;
@@ -18,25 +44,25 @@ Besluit:
 
 Treedt in werking op het tijdstip waarop artikel 6 van het Schepenbesluit 2004 in werking treedt voor Aruba, Curaçao en Sint Maarten.
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Regeling veiligheid Arubaanse, Curaçaose en Sint Maartense zeeschepen.
 
-#### Artikel II
+##### Artikel II
 
 De [Regeling medische uitrusting aan boord van zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0007663) en de [Regeling medische uitrusting aan boord van vissersvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0027071) worden ingetrokken.
 
-#### Artikel III
+##### Artikel III
 
 Voor een schip als bedoeld in [artikel 6, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=6), waarvoor op grond van het [Schepenbesluit 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002501) een certificaat van deugdelijkheid is afgegeven dat nog geldig is op het tijdstip waarop deze regeling in werking treedt, gaat de in [artikel 3d van de Regeling veiligheid Arubaanse, Curaçaose en Sint Maartense zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&artikel=3d) bedoelde verplichting eerst gelden op het moment waarop het voor dat schip afgegeven certificaat van deugdelijkheid ingevolge [artikel 7, eerste lid, van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=7) vervalt. Tot dat moment blijven op het schip de bij of krachtens het Schepenbesluit 1965 gestelde regels betreffende onderzoeken en eisen van toepassing.
 
-#### Artikel IV
+##### Artikel IV
 
 1. De kapitein of, in het geval van een vissersvaartuig, de schipper draagt er zorg voor dat de medische uitrusting uiterlijk op het moment van de eerstvolgende inspectie van die uitrusting in overeenstemming is met [bijlage 2 bij de Regeling veiligheid Arubaanse, Curaçaose en Sint Maartense zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&bijlage=2), indien die [regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0017726) van toepassing is.
 
 2. Tot het in het eerste lid bedoelde moment mogen schepen uitgerust blijven met medische uitrusting, voorgeschreven in de [Regeling medische uitrusting aan boord van zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0007663), onderscheidenlijk de [Regeling medische uitrusting aan boord van vissersvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0027071), zoals die regeling luidde voor de inwerkingtreding van deze regeling.
 
-#### Artikel V
+##### Artikel V
 
 De volgende Codes en resoluties en de wijzigingen daarvan worden bekendgemaakt door terinzagelegging bij:
 
@@ -73,11 +99,11 @@ De volgende Codes en resoluties en de wijzigingen daarvan worden bekendgemaakt d
 
 - –. resolutie MSC.128(75) van de Maritieme Veiligheidscommissie van de IMO, inhoudende eisen betreffende de wachtalarminstallatie op de brug (**Performance standards for a bridge navigational watch alarm system (BNWAS**)).
 
-#### Artikel VI
+##### Artikel VI
 
 Deze regeling treedt in werking met ingang van het tijdstip waarop [artikel 6 van het Schepenbesluit 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=6) in werking treedt voor Aruba, Curaçao en Sint Maarten.
 
-#### Artikel VII
+##### Artikel VII
 
 Deze regeling wordt aangehaald als: Invoeringsregeling derde tranche Schepenbesluit 2004 Aruba, Curaçao en Sint Maarten.
 

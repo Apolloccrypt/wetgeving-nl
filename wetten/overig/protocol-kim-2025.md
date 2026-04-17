@@ -1,20 +1,46 @@
 ---
-title: "Protocol KiM 2025"
+title: "Besluit van de Minister van Infrastructuur en Waterstaat van 25 november 2025, nr. IENW/BSK-2025/284535, houdende vaststelling van het Protocol inzake de beheers- en beleidsmatige positie van het Kennisinstituut voor Mobiliteitsbeleid (Protocol KiM 2025)"
 identifier: "BWBR0051881"
-categorie: "Overig"
-publicatiedatum: 2025-11-29
-laatste_update: 2025-11-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051881"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-11-29"
+last_updated: "2025-11-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051881"
+soort: "ministeriele-regeling"
+stam_id: "17626063"
+version_id: "31115202"
+internal_id: "C44537531"
+label_id: "17526314"
+dtd_version: "2.0"
+original_entry_into_force: "2025-11-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051881/2025-11-29/0"
+intitule_bron: "Stcrt.2025-40323"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-11-25"
+intitule_published: "2025-11-28"
+intitule_in_force: "2025-11-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-40323"
+original_signed_date: "2025-11-25"
+original_published_date: "2025-11-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-40323"
+entry_into_force_date: "2025-11-29"
+jci_1_3: "jci1.3:c:BWBR0051881&z=2025-11-29&g=2025-11-29"
+jci_1_0: "1.0:c:BWBR0051881&g=2025-11-29"
+citeertitel_status: "officieel"
+short_title: "Protocol KiM 2025"
+signed_date: "2025-11-25"
+entry_into_force: "2025-11-29"
 ---
-
 # Besluit van de Minister van Infrastructuur en Waterstaat van 25 november 2025, nr. IENW/BSK-2025/284535, houdende vaststelling van het Protocol inzake de beheers- en beleidsmatige positie van het Kennisinstituut voor Mobiliteitsbeleid (Protocol KiM 2025)
 
 Gelet op [artikel 19, zesde lid, van het Organisatie- en mandaatbesluit Infrastructuur en Waterstaat 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&artikel=19);
 
 BESLUIT:
 
-#### Artikel 1
+##### Artikel 1
 
 Het Kennisinstituut voor Mobiliteitsbeleid (hierna: KiM) past dit protocol toe bij het leveren van kennisproducten voor de beleidsvorming op het gebied van mobiliteit.
 
@@ -86,15 +112,15 @@ De medewerkers van het KiM nemen deel aan het (internationaal) wetenschappelijk 
 
 - 2. Met de Dienst Water, Verkeer en Leefomgeving (WVL) van Rijkswaterstaat worden afspraken gemaakt over taakverdeling en samenwerking. In zijn algemeenheid geldt dat vragen met een strategische of wetenschappelijke achtergrond primair bij het KiM zullen worden behandeld en vragen met een meer tactisch-operationele achtergrond bij WVL. De door WVL verzamelde basisinformatie en de WVL-modellen vormen belangrijke bronnen van kennis voor het KiM. In de afspraken met WVL wordt snelle en directe toegang tot deze bronnen gewaarborgd.
 
-#### Artikel 2
+##### Artikel 2
 
 Het [Besluit van de Minister van Infrastructuur en Milieu, van 7 oktober 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0046209), nr. IENW/BSK-2021/270096, houdende vaststelling van het Protocol inzake de beheers- en beleidsmatige positie van het Kennisinstituut voor Mobiliteitsbeleid (Protocol KiM 2021) wordt ingetrokken.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit wordt aangehaald als: Protocol KiM 2025.
 

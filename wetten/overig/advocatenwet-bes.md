@@ -1,18 +1,43 @@
 ---
 title: "Advocatenwet BES"
 identifier: "BWBR0028204"
-categorie: "Overig"
-publicatiedatum: 2015-07-01
-laatste_update: 2015-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028204"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2015-07-01"
+last_updated: "2015-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028204"
+soort: "wet-BES"
+stam_id: "10694933"
+version_id: "17657942"
+internal_id: "C24752561"
+label_id: "10670094"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028204/2015-07-01/0"
+intitule_bron: "Stb.2010-511"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-07"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-511"
+original_signed_date: "2010-09-07"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-511"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028204&z=2015-07-01&g=2015-07-01"
+jci_1_0: "1.0:c:BWBR0028204&g=2015-07-01"
+citeertitel_status: "officieel"
+signed_date: "2010-09-07"
+entry_into_force: "2010-10-10"
 ---
-
 # Advocatenwet BES
 
 #### § 1. De inschrijving en de beëdiging van de advocaten
 
-#### Artikel 1
+##### Artikel 1
 
 1. Bevoegd om aan het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba schriftelijk inschrijving als advocaat te verzoeken is degene:
 
@@ -24,7 +49,7 @@ bron: "https://wetten.overheid.nl/BWBR0028204"
 
 3. Bij het verzoek worden overgelegd de nodige stukken ten bewijze dat de verzoeker aan de in het eerste of tweede lid gestelde vereisten voldoet.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Alvorens op een verzoek als in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=1&artikel=1&z=2015-07-01&g=2015-07-01) bedoeld te beslissen, wint het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba, gehoord de procureur-generaal, advies in van de raad van toezicht.
 
@@ -42,7 +67,7 @@ bron: "https://wetten.overheid.nl/BWBR0028204"
 
 5. Door een inschrijving als in het vorige lid bedoeld wordt de bevoegdheid verkregen om in Bonaire, Sint Eustatius en Saba het beroep van advocaat uit te oefenen, onverminderd het bepaalde in [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=3&z=2015-07-01&g=2015-07-01) van deze wet.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De advocaten worden in een openbare zitting van het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba op requisitoir van het openbaar ministerie beëdigd.
 
@@ -50,7 +75,7 @@ bron: "https://wetten.overheid.nl/BWBR0028204"
 
 «Ik zweer (beloof) getrouwheid aan de Koning, gehoorzaamheid aan de wettelijke regelingen, eerbied voor de rechterlijke autoriteiten, en dat ik geen zaak zal aanraden of verdedigen, die ik in gemoede niet gelove rechtvaardig te zijn.»
 
-#### Artikel 4
+##### Artikel 4
 
 1. Krachtens beslissing van het Hof van Justitie wordt een advocaat van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=1&artikel=2&z=2015-07-01&g=2015-07-01) bedoelde lijst van inschrijving afgevoerd, hetzij op eigen verzoek, hetzij ambtshalve dan wel op vordering van de procureur-generaal.
 
@@ -70,11 +95,11 @@ bron: "https://wetten.overheid.nl/BWBR0028204"
 
 #### § 2. De bevoegdheden en verplichtingen der advocaten
 
-#### Artikel 5
+##### Artikel 5
 
 De advocaten zijn bevoegd, in alle zaken en voor alle autoriteiten in Bonaire, Sint Eustatius en Saba de belangen van hun lastgevers te behartigen, alsmede hun lastgevers overal te vertegenwoordigen, waar zulks niet bij algemene verordening is verboden.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De advocaat moet zijn kantoor hebben in Curaçao of Sint Maarten of op Bonaire, Sint Eustatius of Saba en dit schriftelijk bekend stellen ter griffie van het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba.
 
@@ -84,23 +109,23 @@ De advocaten zijn bevoegd, in alle zaken en voor alle autoriteiten in Bonaire, S
 
 4. De controle op de naleving van de voorafgaande leden van dit artikel berust bij de raad van toezicht, die, indien aanwijzingen bestaan dat de advocaat aan voormelde verplichtingen niet voldoet, bevoegd is een onderzoek door de deskundige, bedoeld in [artikel 121, zesde lid, van Boek 2 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&artikel=121), te gelasten, tenzij de betrokken advocaat er de voorkeur aan geeft, dat dit onderzoek op zijn kosten door een accountant zal plaats hebben. De raad wijst dan, na overleg met de advocaat, een accountant aan.
 
-#### Artikel 7
+##### Artikel 7
 
 De advocaat moet, indien hij in zijn bediening een terechtzitting van het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba of van het Gerecht in eerste aanleg bijwoont, gekleed te zijn in een gesloten toga van zwarte stof met wijde mouwen; hij draagt bovendien een neerhangende bef van wit batist; hij mag desverkiezende pleiten het hoofd gedekt met een baret.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Advocaten, die in staat van faillissement worden verklaard of die wegens schulden worden gegijzeld of onder curatele gesteld, zijn gedurende de duur van het faillissement, de gijzeling of de curatele van rechtswege in de uitoefening van de praktijk geschorst.
 
 2. Zij mogen gedurende de schorsing de titel van advocaat niet voeren.
 
-#### Artikel 9
+##### Artikel 9
 
 Iedere advocaat is verplicht naar vermogen mede te werken aan de opleiding van de advocaten, zoals die in [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=3&z=2015-07-01&g=2015-07-01) van deze wet is geregeld.
 
 #### § 3. De stage
 
-#### Artikel 10
+##### Artikel 10
 
 1. De advocaat die niet in het bezit is van de verklaring, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=3&artikel=16&z=2015-07-01&g=2015-07-01), hierna te noemen: de stagiaire, is verplicht de praktijk uit te oefenen onder toezicht van een patroon en bij deze kantoor te houden, tenzij hij elders binnen het Koninkrijk der Nederlanden zijn stage heeft voltooid en ter zake een stageverklaring heeft verkregen.
 
@@ -110,7 +135,7 @@ Iedere advocaat is verplicht naar vermogen mede te werken aan de opleiding van d
 
 4. Indien de in het derde lid bedoelde vrijstelling onvoorwaardelijk is verleend, wordt de verkrijger daarvan geacht in het bezit te zijn van de verklaring, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=3&artikel=16&z=2015-07-01&g=2015-07-01).
 
-#### Artikel 11
+##### Artikel 11
 
 1. De Orde van advocaten in het openbaar lichaam waar de betrokken advocaat zich wenst te vestigen en de raad van toezicht verlenen hun bemiddeling bij het zoeken van een patroon.
 
@@ -118,19 +143,19 @@ Iedere advocaat is verplicht naar vermogen mede te werken aan de opleiding van d
 
 3. Wanneer de raad van toezicht weigert een buiten-patroon aan te wijzen staat daartegen beroep open op de raad van appèl.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Patroon kan slechts zijn een advocaat die gedurende ten minste zeven jaren in het Koninkrijk der Nederlanden de advocatuur daadwerkelijk heeft uitgeoefend.
 
 2. De raad van toezicht is bevoegd in bijzondere gevallen de in het eerste lid bedoelde termijn te verkorten, doch niet tot minder dan vijf jaren.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Elk patronaat behoeft vooraf de schriftelijke goedkeuring van de raad van toezicht.
 
 2. Tegen weigering van de goedkeuring kan zowel de stagiaire als de patroon bij de raad van appèl in beroep gaan.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De stage begint op de dag waarop de stagiaire de uitoefening van de praktijk onder toezicht van de patroon aanvangt, doch niet vóór de dag waarop de stagiaire overeenkomstig het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=1&artikel=3&z=2015-07-01&g=2015-07-01) beëdigd is. De patroon brengt het tijdstip van de aanvang van de stage onverwijld ter kennis van de raad van toezicht.
 
@@ -150,7 +175,7 @@ Iedere advocaat is verplicht naar vermogen mede te werken aan de opleiding van d
 
 5. De [Wet beëindiging arbeidsovereenkomsten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028174) is niet van toepassing op een met de stagiaire bestaande arbeidsovereenkomst.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De stagiaire die kantoor houdt bij zijn patroon is gehouden de hem door de patroon opgedragen werkzaamheden te verrichten.
 
@@ -158,7 +183,7 @@ Iedere advocaat is verplicht naar vermogen mede te werken aan de opleiding van d
 
 3. Na voorafgaande toestemming van de raad van toezicht kan de patroon aan de stagiaire de verplichting opleggen tot het volgen van rechtstheoretische en/of praktijkgerichte cursussen.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De raad van toezicht geeft, de patroon en de stagiaire gehoord, aan de stagiaire wiens stage naar het oordeel van de raad van toezicht naar behoren is geweest en drie jaren heeft geduurd, een verklaring dat de stage is voltooid.
 
@@ -166,11 +191,11 @@ Iedere advocaat is verplicht naar vermogen mede te werken aan de opleiding van d
 
 3. Tegen weigering van afgifte van de in het eerste lid bedoelde verklaring en verlenging van de stage-periode staat aan de stagiaire beroep op de raad van appèl open.
 
-#### Artikel 17
+##### Artikel 17
 
 De raad van toezicht is bevoegd aan zijn op grond van de [artikelen 10, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=3&artikel=10&z=2015-07-01&g=2015-07-01), [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=3&artikel=12&z=2015-07-01&g=2015-07-01), [14, tweede lid onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=3&artikel=14&z=2015-07-01&g=2015-07-01) en [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=3&artikel=16&z=2015-07-01&g=2015-07-01) genomen beslissingen voorwaarden te verbinden, welke niet de verplichting tot het volgen van enige cursus of tot het afleggen van een proeve van bekwaamheid mogen inhouden.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Beroep tegen een beslissing van de raad van toezicht wordt ingesteld binnen drie weken na de dag van verzending van een afschrift van de bestreden beslissing, bij een met redenen omkleed verzoekschrift, in tweevoud in te dienen bij de secretaris van de raad van appèl. De secretaris geeft van de instelling van het beroep onverwijld kennis aan de raad van toezicht, aan – indien de patroon in beroep komt – de stagiaire, en aan – indien de stagiaire in beroep komt – de patroon.
 
@@ -182,17 +207,17 @@ De raad van toezicht is bevoegd aan zijn op grond van de [artikelen 10, tweede e
 
 5. De secretaris van de raad van appèl zendt van de beslissing onverwijld afschrift aan de raad van toezicht, aan de patroon en de stagiaire, en aan de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=3&artikel=11&z=2015-07-01&g=2015-07-01) bedoelde Orde van advocaten.
 
-#### Artikel 19
+##### Artikel 19
 
 Bij ministeriële regeling kunnen ter uitvoering van deze paragraaf nadere regelen worden vastgesteld. Daarbij kan de termijn, genoemd in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=3&artikel=16&z=2015-07-01&g=2015-07-01), worden verkort tot ten minste een jaar.
 
 #### § 4. De tuchtrechtspraak
 
-#### Artikel 20
+##### Artikel 20
 
 De tuchtrechtspraak heeft ten doel het weren en beteugelen van misslagen, door advocaten in de uitoefening der praktijk begaan, en van inbreuken op de eer van de stand der advocaten. Zij wordt uitgeoefend in eerste aanleg door een raad van toezicht en in hoger beroep door een raad van appèl.
 
-#### Artikel 21
+##### Artikel 21
 
 1. De raad van toezicht en de raad van appel zijn gevestigd in de zittingsplaats van het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba. Zij kunnen ook elders zitting houden.
 
@@ -208,7 +233,7 @@ De tuchtrechtspraak heeft ten doel het weren en beteugelen van misslagen, door a
 
 7. Onze Minister van Justitie kan leden van de raad van toezicht en leden van de raad van appel, alsmede de plaatsvervangers, in de uitoefening van dat ambt schorsen of ontslaan.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De raad van toezicht kan de navolgende straffen opleggen:
 
@@ -230,7 +255,7 @@ De tuchtrechtspraak heeft ten doel het weren en beteugelen van misslagen, door a
 
 6. De kosten van de openbaarmaking van de straf worden verhaald op de gestrafte advocaat; bij diens weigering deze kosten te voldoen, zal verhaal daarvan, na daartoe van de secretaris van de raad van toezicht ontvangen verzoek, plaats vinden door de ontvanger, bedoeld in [artikel 1.3, onderdeel k, van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=1.3), waar de gestrafte advocaat woonachtig is.
 
-#### Artikel 23
+##### Artikel 23
 
 1. De raad van toezicht neemt, indien de klager daartoe de wens te kennen heeft gegeven, geen beslissing dan na verhoor of behoorlijke oproeping van de klager.
 
@@ -244,7 +269,7 @@ De tuchtrechtspraak heeft ten doel het weren en beteugelen van misslagen, door a
 
 6. De leden van de raad nemen, op straffe van nietigheid, geen deel aan de behandeling van een zaak waarin zij zelf, hun echtgenoten, dan wel bloed- of aanverwanten tot de derde graad ingesloten als partij betrokken zijn.
 
-#### Artikel 24
+##### Artikel 24
 
 1. De secretaris van de raad van toezicht zendt van de beslissingen van de raad onverwijld afschrift:
 
@@ -264,7 +289,7 @@ De tuchtrechtspraak heeft ten doel het weren en beteugelen van misslagen, door a
 
 4. Openbaarmaking als bedoeld in het [tweede lid van artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=4&artikel=22&z=2015-07-01&g=2015-07-01) geschiedt niet voordat de beslissing in kracht van gewijsde is gegaan.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Van de beslissingen van de raad van toezicht kunnen binnen drie weken na de dag van terpostbezorging van de aangetekende brief in het [vorige artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=4&artikel=24&z=2015-07-01&g=2015-07-01) bedoeld, de betrokken advocaat en de klager, zo die er is, bij verzoekschrift, en de procureur-generaal bij requisitoir hoger beroep instellen bij de raad van appèl.
 
@@ -276,7 +301,7 @@ De tuchtrechtspraak heeft ten doel het weren en beteugelen van misslagen, door a
 
 5. Indien de raad van appèl besluit tot openbaarmaking van de straf als bedoeld in het [tweede lid van artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=4&artikel=22&z=2015-07-01&g=2015-07-01), is het bepaalde bij het vijfde en zesde lid van dat artikel van overeenkomstige toepassing.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Indien bij een beslissing die niet of niet meer voor hoger beroep vatbaar is een straf is opgelegd, stelt de raad van appèl op grond van enige omstandigheid, welke volgens de opgemaakte stukken tijdens de behandeling niet is gebleken en welke op de beslissing invloed gehad zou kunnen hebben, op schriftelijke aanvrage van de betrokken advocaat, opnieuw een onderzoek in, en, voor zoveel nodig, behandelt dit college de zaak in herziening.
 
@@ -284,7 +309,7 @@ De tuchtrechtspraak heeft ten doel het weren en beteugelen van misslagen, door a
 
 3. Het bepaalde bij het [derde en vierde lid van artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=4&artikel=25&z=2015-07-01&g=2015-07-01) vindt overeenkomstige toepassing.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Zowel in geval van hoger beroep als van herziening beslist de raad van appèl, met handhaving, wijziging of gehele dan wel gedeeltelijke vernietiging van de beslissing of de opgelegde straf, zoals dit college zal vermenen te behoren.
 
@@ -292,37 +317,37 @@ De tuchtrechtspraak heeft ten doel het weren en beteugelen van misslagen, door a
 
 3. De beslissing van de raad van appèl is met redenen omkleed.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Geen lid van de raad van toezicht of van de raad van appèl mag zich rechtstreeks of zijdelings over enige voor de raad waarvan hij lid is aanhangige zaak of over een zaak, waarvan hij weet of vermoedt dat zij voor die raad aanhangig zal worden, in enig afzonderlijk onderhoud inlaten met partijen of haar gemachtigden, noch van hen afzonderlijke onderrichting of schrifturen aannemen.
 
 2. De leden van de raad van toezicht en van de raad van appèl, alsmede de secretaris van deze colleges, zijn verplicht het geheim te bewaren omtrent de gevoelens welke in de vergaderingen dezer colleges over de aldaar behandelde onderwerpen zijn geuit.
 
-#### Artikel 29
+##### Artikel 29
 
 De stukken, opgemaakt ter voldoening aan het bij deze paragraaf bepaalde, zijn vrij van het recht van zegel.
 
 #### § 5. Het salaris van de advocaten
 
-#### Artikel 30
+##### Artikel 30
 
 De advocaten berekenen het salaris voor werkzaamheden in alle zaken, zonder onderscheid, welke zij verrichten, alsmede voor werkzaamheden welke geen betrekking tot enig rechtsgeding hebben, naarmate van het belang, de omvang en de ingewikkeldheid der zaak, de daaraan verbonden moeilijkheden en de daaraan bestede tijd en naarmate zij zich voor hun besprekingen buiten hun kantoor of woonplaats hebben moeten begeven.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Desgevorderd zijn de advocaten verplicht aan hun cliënten gespecificeerde rekeningen over te leggen, welke iedere post, zo van salaris als verschot, behoorlijk omschrijven en de bedragen van die posten afzonderlijk uitdrukken.
 
 2. Indien de advocaat ter vaststelling van zijn salaris een overeenkomst met de cliënt heeft aangegaan, worden op de rekening globaal omschreven de aard en omvang der werkzaamheden, alsmede de dagen op welke of het tijdsverloop binnen hetwelk de werkzaamheden werden verricht.
 
-#### Artikel 32
+##### Artikel 32
 
 De advocaten zijn bevoegd met hun cliënten overeenkomsten aan te gaan ter vaststelling van hun salaris terzake van verrichte en/of nog te verrichten werkzaamheden, al dan niet met inbegrip van zegel- en registratierechten, justitie-, reis- en verblijfkosten.
 
-#### Artikel 33
+##### Artikel 33
 
 De voldoening van het in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=5&artikel=30&z=2015-07-01&g=2015-07-01) bedoelde salaris en van het met inachtneming van [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=5&artikel=32&z=2015-07-01&g=2015-07-01) overeengekomene wordt beschouwd de goedkeuring ervan in te sluiten.
 
-#### Artikel 34
+##### Artikel 34
 
 1. In geval van geschil over het berekende salaris, gevorderd hetzij volgens een gespecificeerde rekening, hetzij uit een vooraf gesloten overeenkomst, begroot de raad van toezicht het geëiste bedrag op schriftelijk verzoek van de advocaat dan wel van de cliënt.
 
@@ -332,7 +357,7 @@ De voldoening van het in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 4. Hij stelt onder de rekening «ter begroting ingediend te» met plaatsnaam, hand- en dagtekening.
 
-#### Artikel 35
+##### Artikel 35
 
 1. Alvorens te beslissen roept de raad van toezicht partijen bij aangetekende brief op om in haar belangen te worden gehoord.
 
@@ -340,7 +365,7 @@ De voldoening van het in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 3. Ambtshalve dan wel op verzoek van een der partijen kan de raad getuigen en deskundigen oproepen en onder ede horen. De wettelijke bepalingen betreffende het oproepen en het horen van getuigen en deskundigen alsmede die betreffende de hun toekomende schadeloosstelling en vacatiegelden in burgerlijke zaken vinden ten deze overeenkomstige toepassing. Bij het bevel tot oproeping bepaalt de raad tevens, welke partij de te maken kosten zal voorschieten.
 
-#### Artikel 36
+##### Artikel 36
 
 1. De raad van toezicht is bevoegd de overlegging der voor de begroting benodigde bescheiden te vorderen.
 
@@ -350,7 +375,7 @@ De voldoening van het in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 4. Het bedrag der te hoog gestelde of onaannemelijke posten wordt doorgehaald; in plaats daarvan wordt in het daarvoor opengelaten witte vak de verschuldigde som ofwel «nihil» gesteld.
 
-#### Artikel 37
+##### Artikel 37
 
 1. Aan het slot van de rekening stelt de raad van toezicht «goedgekeurd ter somma van ......», met uitdrukking in letters van het gehele bedrag op hetwelk de rekening is begroot.
 
@@ -360,7 +385,7 @@ De voldoening van het in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 4. De secretaris van de raad geeft bij aangetekende brief van de inhoud der eindbeslissing aan partijen kennis.
 
-#### Artikel 38
+##### Artikel 38
 
 1. De advocaat of de cliënt kan binnen drie weken na de dag van terpostbezorging van de aangetekende brief, in het [laatste lid van artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=5&artikel=37&z=2015-07-01&g=2015-07-01) bedoeld, de herziening der begroting bij een met redenen omkleed verzoekschrift aan de raad van appèl verzoeken.
 
@@ -370,21 +395,21 @@ De voldoening van het in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 4. De bepalingen van het [derde lid van artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=5&artikel=35&z=2015-07-01&g=2015-07-01) en het [tweede lid van artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=5&artikel=36&z=2015-07-01&g=2015-07-01) zijn van overeenkomstige toepassing.
 
-#### Artikel 39
+##### Artikel 39
 
 De beschikking op een verzoek om herziening is niet vatbaar voor verzet of enige andere voorziening.
 
-#### Artikel 40
+##### Artikel 40
 
 1. De schuldenaar wordt tot betaling genoodzaakt krachtens bevelschrift van de raad van toezicht of van de raad van appèl.
 
 2. Het in het eerste lid van dit artikel bedoelde bevelschrift wordt gesteld aan het slot van de rekening, onder het bedrag op hetwelk de rekening in eerste instantie door de raad van toezicht of in herziening door de raad van appèl is begroot. Het bevelschrift voert aan het hoofd de woorden: «In naam van de Koning». Het kan op de minuut ten uitvoer worden gelegd.
 
-#### Artikel 41
+##### Artikel 41
 
 De begrotingen zijn niet aan registratie onderworpen.
 
-#### Artikel 42
+##### Artikel 42
 
 1. Hetzij bij de aanvang, hetzij gedurende het verloop van een zaak zijn de advocaten bevoegd van hun cliënten het storten van een zekere som ter bestrijding van verschotten en als voorschot op het salaris te vorderen.
 
@@ -392,49 +417,49 @@ De begrotingen zijn niet aan registratie onderworpen.
 
 3. De raad dan wel de voorzitter kan partijen in haar belangen horen.
 
-#### Artikel 43
+##### Artikel 43
 
 Mits hij daarvan ten minste acht dagen te voren bij aangetekende brief aan de cliënt kennis geeft en een afschrift daarvan ter griffie van het betrokken gerecht of rechterlijke college heeft neergelegd, mag de advocaat zich onttrekken aan een zaak, bijaldien de in het [vorige artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=5&artikel=42&z=2015-07-01&g=2015-07-01) bedoelde storting, zo deze gevraagd of bevolen is, niet is gedaan.
 
-#### Artikel 44
+##### Artikel 44
 
 De advocaat is jegens de griffier persoonlijk aansprakelijk voor alle kosten welke cliënten verschuldigd zijn in zaken die hij heeft behandeld, of voor stukken waarvan hij opmaking of afgifte heeft verzocht.
 
 #### § 6. Belastingadviseurs
 
-#### Artikel 45
+##### Artikel 45
 
 [vervallen]
 
-#### Artikel 46
+##### Artikel 46
 
 [vervallen]
 
-#### Artikel 47
+##### Artikel 47
 
 [vervallen]
 
 #### § 7. Zaakwaarnemers
 
-#### Artikel 48
+##### Artikel 48
 
 [vervallen]
 
-#### Artikel 49
+##### Artikel 49
 
 [vervallen]
 
-#### Artikel 50
+##### Artikel 50
 
 [vervallen]
 
-#### Artikel 51
+##### Artikel 51
 
 [vervallen]
 
 #### § 8. Gemachtigden en raadslieden
 
-#### Artikel 52
+##### Artikel 52
 
 1. Als gemachtigden of raadslieden kunnen alleen optreden in de openbare lichamen Bonaire, Sint Eustatius en Saba of in Curaçao en Sint Maarten woonplaats hebbende personen.
 
@@ -446,14 +471,14 @@ De advocaat is jegens de griffier persoonlijk aansprakelijk voor alle kosten wel
 
 #### § 9. Slot- en overgangsbepalingen
 
-#### Artikel 53
+##### Artikel 53
 
 Deze wet wordt aangehaald als: Advocatenwet BES.
 
-#### Artikel 54
+##### Artikel 54
 
 Zij die op het tijdstip van inwerkingtreding van deze wet als advocaat zijn beëdigd en ter griffie van het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba zijn ingeschreven, worden geacht overeenkomstig de bepalingen van deze wet als advocaat te zijn beëdigd en ingeschreven.
 
-#### Artikel 55
+##### Artikel 55
 
 [vervallen]

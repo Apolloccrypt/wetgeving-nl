@@ -1,13 +1,38 @@
 ---
 title: "Protocol tot aanpassing van de Overeenkomst betreffende de Europese Economische Ruimte"
 identifier: "BWBV0001100"
-categorie: "Internationaal recht"
-publicatiedatum: 1994-01-01
-laatste_update: 1994-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001100"
+country: "nl"
+rank: "verdrag"
+publication_date: "1994-01-01"
+last_updated: "1994-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001100"
+soort: "verdrag"
+stam_id: "10002368763"
+version_id: "10002373312"
+internal_id: "C10006978091"
+label_id: "10002358704"
+dtd_version: "2.0"
+original_entry_into_force: "1994-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001100/1994-01-01/0"
+intitule_bron: "Trb.1993-69"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1993-08-02"
+intitule_published: "1993-05-13"
+intitule_in_force: "1993-12-31"
+intitule_status: "goed"
+original_publication: "Trb.1993-69"
+original_signed_date: "1993-08-02"
+original_published_date: "1993-05-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1993-69"
+entry_into_force_date: "1994-01-01"
+jci_1_3: "jci1.3:c:BWBV0001100&z=1994-01-01&g=1994-01-01"
+jci_1_0: "1.0:c:BWBV0001100&g=1994-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "1993-08-02"
+entry_into_force: "1994-01-01"
 ---
-
 # Protocol tot aanpassing van de Overeenkomst betreffende de Europese Economische Ruimte
 
 De Europese Economische Gemeenschap,
@@ -72,7 +97,7 @@ Overwegende dat het dienstig is bij het aanbrengen van deze wijzigingen ook een 
 
 Hebben besloten het volgende Protocol te sluiten;
 
-#### Artikel 1
+##### Artikel 1
 
 1. De [EER-Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001070), zoals bij dit Protocol gewijzigd, treedt in werking op de dag waarop dit Protocol tussen de Europese Economische Gemeenschap, de Europese Gemeenschap voor Kolen en Staal, hun Lid-Staten en de Republiek Finland, de Republiek IJsland, het Koninkrijk Noorwegen, de Republiek Oostenrijk en het Koninkrijk Zweden in werking treedt.
 
@@ -84,59 +109,59 @@ Hebben besloten het volgende Protocol te sluiten;
 
 3. Liechtenstein zal worden uitgenodigd aan de in lid 2 bedoelde besluiten van de Raad van de EER deel te nemen.
 
-#### Artikel 2
+##### Artikel 2
 
 Wijzigt de Overeenkomst betreffende de Europese Economische Ruimte; Oporto, 02-05-1992
 
-#### Artikel 3
+##### Artikel 3
 
 Wijzigt de Overeenkomst betreffende de Europese Economische Ruimte; Oporto, 02-05-1992
 
-#### Artikel 4
+##### Artikel 4
 
 Wijzigt de Overeenkomst betreffende de Europese Economische Ruimte; Oporto, 02-05-1992
 
-#### Artikel 5
+##### Artikel 5
 
 Wijzigt de Overeenkomst betreffende de Europese Economische Ruimte; Oporto, 02-05-1992
 
-#### Artikel 6
+##### Artikel 6
 
 Wijzigt de Overeenkomst betreffende de Europese Economische Ruimte; Oporto, 02-05-1992
 
-#### Artikel 7
+##### Artikel 7
 
 Wijzigt de Overeenkomst betreffende de Europese Economische Ruimte; Oporto, 02-05-1992
 
-#### Artikel 8
+##### Artikel 8
 
 Wijzigt de Overeenkomst betreffende de Europese Economische Ruimte; Oporto, 02-05-1992
 
-#### Artikel 9
+##### Artikel 9
 
 Wijzigt de Overeenkomst betreffende de Europese Economische Ruimte; Oporto, 02-05-1992
 
-#### Artikel 10
+##### Artikel 10
 
 Wijzigt de Overeenkomst betreffende de Europese Economische Ruimte; Oporto, 02-05-1992
 
-#### Artikel 11
+##### Artikel 11
 
 Wijzigt de Overeenkomst betreffende de Europese Economische Ruimte; Oporto, 02-05-1992
 
-#### Artikel 12
+##### Artikel 12
 
 Wijzigt de Overeenkomst betreffende de Europese Economische Ruimte; Oporto, 02-05-1992
 
-#### Artikel 13
+##### Artikel 13
 
 Wijzigt de Overeenkomst betreffende de Europese Economische Ruimte; Oporto, 02-05-1992
 
-#### Artikel 14
+##### Artikel 14
 
 Wijzigt de Overeenkomst betreffende de Europese Economische Ruimte; Oporto, 02-05-1992
 
-#### Artikel 15
+##### Artikel 15
 
 De volgende bepalingen van de [EER-Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001070):
 
@@ -152,31 +177,31 @@ De volgende bepalingen van de [EER-Overeenkomst](https://wetten.overheid.nl/jci1
 
 treden op 1 januari 1994 in werking.
 
-#### Artikel 16
+##### Artikel 16
 
 Wijzigt de Overeenkomst betreffende de Europese Economische Ruimte; Oporto, 02-05-1992
 
-#### Artikel 17
+##### Artikel 17
 
 Wijzigt de Overeenkomst betreffende de Europese Economische Ruimte; Oporto, 02-05-1992
 
-#### Artikel 18
+##### Artikel 18
 
 Wijzigt de Overeenkomst betreffende de Europese Economische Ruimte; Oporto, 02-05-1992
 
-#### Artikel 19
+##### Artikel 19
 
 Wijzigt de Overeenkomst betreffende de Europese Economische Ruimte; Oporto, 02-05-1992
 
-#### Artikel 20
+##### Artikel 20
 
 Wijzigt de Overeenkomst betreffende de Europese Economische Ruimte; Oporto, 02-05-1992
 
-#### Artikel 21
+##### Artikel 21
 
 De bepalingen, verwijzingen, bijzondere aanpassingen, perioden en data betreffende Liechtenstein in de [EER-Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001070), zoals bij dit Protocol gewijzigd, zijn slechts van toepassing wanneer de EER-Overeenkomst, zoals bij dit Protocol gewijzigd, overeenkomstig artikel 1, lid 2, van dit Protocol ten aanzien van Liechtenstein in werking is getreden.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Dit Protocol is opgesteld in één exemplaar, in de Deense, de Duitse, de Engelse, de Finse, de Franse, de Griekse, de IJslandse, de Italiaanse, de Nederlandse, de Noorse, de Portugese, de Spaanse en de Zweedse taal, zijnde elk van deze teksten gelijkelijk authentiek.
 

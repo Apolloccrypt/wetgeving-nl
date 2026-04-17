@@ -1,13 +1,39 @@
 ---
-title: "Instellingsbesluit Forum Standaardisatie 2026"
+title: "Besluit van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 10 februari 2026, 2025-0000610431, tot instelling van het Forum Standaardisatie (Instellingsbesluit Forum Standaardisatie 2026)"
 identifier: "BWBR0052374"
-categorie: "Overig"
-publicatiedatum: 2026-03-03
-laatste_update: 2026-03-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052374"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-03-03"
+last_updated: "2026-03-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052374"
+soort: "ministeriele-regeling"
+stam_id: "17787973"
+version_id: "31452572"
+internal_id: "C44923611"
+label_id: "17685794"
+dtd_version: "2.0"
+original_entry_into_force: "2026-03-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052374/2026-03-03/0"
+intitule_bron: "Stcrt.2026-7008"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2026-02-10"
+intitule_published: "2026-03-02"
+intitule_in_force: "2026-03-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-7008"
+original_signed_date: "2026-02-10"
+original_published_date: "2026-03-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-7008"
+entry_into_force_date: "2026-03-03"
+jci_1_3: "jci1.3:c:BWBR0052374&z=2026-03-03&g=2026-03-03"
+jci_1_0: "1.0:c:BWBR0052374&g=2026-03-03"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Forum Standaardisatie 2026"
+signed_date: "2026-02-10"
+entry_into_force: "2026-03-03"
 ---
-
 # Besluit van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 10 februari 2026, 2025-0000610431, tot instelling van het Forum Standaardisatie (Instellingsbesluit Forum Standaardisatie 2026)
 
 Overwegende dat het wenselijk is de taken, werkwijze, samenstelling en vergoeding van het Forum Standaardisatie en het Bureau Forum Standaardisatie vanaf het jaar 2026 vast te leggen,
@@ -16,7 +42,7 @@ Gelet op de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artike
 
 BESLUIT:
 
-#### Artikel 1. Taken Forum Standaardisatie
+##### Artikel 1. Taken Forum Standaardisatie
 
 1. Er is een Forum Standaardisatie.
 
@@ -52,7 +78,7 @@ BESLUIT:
 
 - o). Het voorafgaand aan de inkoop of ontwikkeling van werken, leveringen of diensten met een ICT component, geven van zwaarwegend advies aan aanbestedende diensten over de te gebruiken verplichte standaarden.
 
-#### Artikel 2. Werkwijze Forum Standaardisatie
+##### Artikel 2. Werkwijze Forum Standaardisatie
 
 1. Het Forum Standaardisatie stelt haar eigen werkwijze vast;
 
@@ -72,7 +98,7 @@ BESLUIT:
 
 9. de voorzitter van het Forum Standaardisatie is lid van de Architectuurraad in de Meerjarenprogrammering Infrastructuur Digitale Overheid, en de voorzitter van de Architectuurraad is lid van het Forum Standaardisatie.
 
-#### Artikel 3. Bureau Forum Standaardisatie
+##### Artikel 3. Bureau Forum Standaardisatie
 
 1. Het Forum Standaardisatie wordt bijgestaan door een secretariaat genaamd Bureau Forum Standaardisatie, waarin de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties voorziet.
 
@@ -90,7 +116,7 @@ BESLUIT:
 
 8. het Bureau Forum Standaardisatie is bevoegd zich voor het inwinnen van inlichtingen rechtstreeks te wenden tot personen en instellingen en hen te verzoeken die medewerking te verlenen die redelijkerwijs nodig is voor de vervulling van haar taak.
 
-#### Artikel 4. Samenstelling Forum Standaardisatie
+##### Artikel 4. Samenstelling Forum Standaardisatie
 
 1. Het Forum Standaardisatie bestaat uit een voorzitter en 14 tot 25 andere leden met deskundigheid en affiniteit op het gebied van standaardisatie en procesvernieuwing bij elektronische publieke dienstverlening.
 
@@ -100,7 +126,7 @@ BESLUIT:
 
 4. De voorzitter en de andere leden kunnen op eigen verzoek of wegens ongeschiktheid, onbekwaamheid of op andere zwaarwegende gronden worden geschorst en ontslagen door de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties in overeenstemming met de Minister van Economische Zaken.
 
-#### Artikel 5. Vergoeding
+##### Artikel 5. Vergoeding
 
 1. De leden van het Forum Standaardisatie ontvangen per vergadering een vergoeding. Twee of meer vergaderingen die op dezelfde dag vallen tellen daarbij als één vergadering.
 
@@ -112,27 +138,27 @@ BESLUIT:
 
 5. Van de toekenning van vergoedingen zijn uitgesloten: personen die een functie vervullen bij instellingen of organisaties als bedoeld in de [artikelen 1.2 tot en met 1.5 van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=1.2), indien hun benoeming of deelname aan de werkzaamheden haar oorzaak vindt in de functie die zij vervullen.
 
-#### Artikel 6. Archiefbescheiden
+##### Artikel 6. Archiefbescheiden
 
 Het Forum Standaardisatie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden of, indien op een eerder moment de omstandigheden daartoe aanleiding geven, de stukken en gegevens betreffende
 
 die werkzaamheden over aan het archief van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
-#### Artikel 7. Intrekking
+##### Artikel 7. Intrekking
 
 1. Het [Instellingsbesluit Forum Standaardisatie 2022-2026](https://wetten.overheid.nl/jci1.3:c:BWBR0047650) wordt ingetrokken;
 
 2. Het Besluit houdende vaststelling van een vergoeding voor de voorzitter en leden van het Forum Standaardisatie 7 juli 2006/Nr. ET/IT/6048743 wordt ingetrokken.
 
-#### Artikel 8. Evaluatie
+##### Artikel 8. Evaluatie
 
 Dit besluit en de werkzaamheden van het Forum Standaardisatie worden eens in de vier jaar geëvalueerd. De uitkomsten daarvan worden ter kennis gebracht aan de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Economische Zaken.
 
-#### Artikel 9. Citeertitel
+##### Artikel 9. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Forum Standaardisatie 2026.
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2026.
 

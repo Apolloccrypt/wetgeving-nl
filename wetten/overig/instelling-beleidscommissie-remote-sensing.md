@@ -1,13 +1,37 @@
 ---
 title: "Instelling Beleidscommissie Remote Sensing"
 identifier: "BWBR0007714"
-categorie: "Overig"
-publicatiedatum: 1996-01-01
-laatste_update: 1996-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007714"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1996-01-01"
+last_updated: "1996-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007714"
+soort: "ministeriele-regeling"
+stam_id: "4277203"
+version_id: "6040872"
+internal_id: "C6244271"
+label_id: "4255844"
+dtd_version: "2.0"
+original_entry_into_force: "1996-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007714/1996-01-01/0"
+intitule_bron: "Stcrt.1995-246"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-12-11"
+intitule_published: "1995-12-19"
+intitule_in_force: "1995-12-19"
+intitule_status: "goed"
+original_publication: "Stcrt.1995-246"
+original_signed_date: "1995-12-11"
+original_published_date: "1995-12-19"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1996-01-01"
+jci_1_3: "jci1.3:c:BWBR0007714&z=1996-01-01&g=1996-01-01"
+jci_1_0: "1.0:c:BWBR0007714&g=1996-01-01"
+citeertitel_status: "officieel"
+signed_date: "1995-12-11"
+entry_into_force: "1996-01-01"
 ---
-
 # Instelling Beleidscommissie Remote Sensing
 
 Gezien mijn beschikking inzake de instelling van de Beleidscommissie Remote Sensing van 29 mei 1986, (Stcrt. 1986, nr. 223) en de wijziging van deze beschikking van kracht sedert 1 november 1989;
@@ -20,11 +44,11 @@ Overwegende dat de Beleidscommissie Remote Sensing een gemotiveerd voorstel tot 
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Er is een Beleidscommissie Remote Sensing.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De taak van de commissie is het coördineren en stimuleren van remote sensing activiteiten in Nederland als aangegeven in het Nationaal Remote sensing Programma 1996 - 2000 en in het Programma Gebruikersondersteuning 1996 - 2005. Hiertoe behoort:
 
@@ -78,31 +102,31 @@ Er is een Beleidscommissie Remote Sensing.
 
 - het Hoofd van het Programma-bureau.
 
-#### Artikel 3
+##### Artikel 3
 
 Op gemotiveerd voorstel van de commissie kan de Minister van Verkeer en Waterstaat goedkeuring verlenen tot uitbreiding van de commissie.
 
-#### Artikel 4
+##### Artikel 4
 
 De commissie kan werkgroepen c.q. projectgroepen op ad-hoc basis instellen, die na voltooiing van een concrete opdracht ontbonden dienen te worden.
 
-#### Artikel 5
+##### Artikel 5
 
 De commissie heeft een Programma-bureau dat fungeert als uitvoerend orgaan. Dit Programmabureau is ondergebracht bij de Meetkundige Dienst van de Rijkswaterstaat.
 
-#### Artikel 6
+##### Artikel 6
 
 In de financiële middelen van de commissie zal, conform het daaromtrent gestelde in het Nationaal Remote Sensing Programma worden voorzien in de Rijksbegroting.
 
-#### Artikel 7
+##### Artikel 7
 
 De plaatsvervangend voorzitter van de commissie is gemachtigd ter uitvoering van het goedgekeurde jaarprogramma, overeenkomsten en verplichtingen aan te gaan met bedrijven en instellingen.
 
-#### Artikel 8
+##### Artikel 8
 
 De commissie ontvangt haar technische en administratieve ondersteuning van de in deze ten algemene nutte functionerende Meetkundige Dienst van de Rijkswaterstaat.
 
-#### Artikel 9
+##### Artikel 9
 
 De taken van het Programmabureau zijn:
 
@@ -130,13 +154,13 @@ De taken van het Programmabureau zijn:
 
 - het verrichten van secretariaatswerkzaamheden voor de commissie.
 
-#### Artikel 10
+##### Artikel 10
 
 De commissie zal na het afsluiten van het Nationaal Remote Sensing Programma de haar opgedragen werkzaamheden beëindigen en daarna worden opgeheven.
 
 Tevoren dient de commissie zorg te dragen voor de overdracht van de onder beheer van de commissie ressorterende bescheiden en materieel, alsmede overige resterende verplichtingen en taken aan een daartoe aan te wijzen orgaan.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze beschikking treedt in werking met ingang van 1 januari 1996.
 

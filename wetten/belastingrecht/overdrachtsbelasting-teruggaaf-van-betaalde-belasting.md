@@ -1,13 +1,38 @@
 ---
 title: "Overdrachtsbelasting, teruggaaf van betaalde belasting"
 identifier: "BWBR0042683"
-categorie: "Belastingrecht"
-publicatiedatum: 2019-10-19
-laatste_update: 2019-10-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042683"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2019-10-19"
+last_updated: "2019-10-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042683"
+soort: "beleidsregel"
+stam_id: "15210323"
+version_id: "26088552"
+internal_id: "C37128731"
+label_id: "15157464"
+dtd_version: "2.0"
+original_entry_into_force: "2019-10-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042683/2019-10-19/0"
+intitule_bron: "Stcrt.2019-57039"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-10-03"
+intitule_published: "2019-10-18"
+intitule_in_force: "2019-10-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-57039"
+original_signed_date: "2019-10-03"
+original_published_date: "2019-10-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-57039"
+entry_into_force_date: "2019-10-19"
+jci_1_3: "jci1.3:c:BWBR0042683&z=2019-10-19&g=2019-10-19"
+jci_1_0: "1.0:c:BWBR0042683&g=2019-10-19"
+citeertitel_status: "redactioneel"
+signed_date: "2019-10-03"
+entry_into_force: "2019-10-19"
 ---
-
 # Overdrachtsbelasting, teruggaaf van betaalde belasting
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

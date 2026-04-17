@@ -1,13 +1,39 @@
 ---
-title: "Regeling eisen theorie-examen rijbewijscategorie AM"
+title: "Regeling van 25 augustus 2006, nr. HDJZ/AWW/2006-1260, Hoofddirectie Juridische Zaken, houdende eisen voor het theorie-examen voor de rijbewijscategorie AM (Regeling eisen theorie-examen rijbewijscategorie AM)"
 identifier: "BWBR0020226"
-categorie: "Verkeer"
-publicatiedatum: 2015-04-01
-laatste_update: 2015-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020226"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2015-04-01"
+last_updated: "2015-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020226"
+soort: "ministeriele-regeling"
+stam_id: "8571103"
+version_id: "13517022"
+internal_id: "C18189021"
+label_id: "8551374"
+dtd_version: "2.0"
+original_entry_into_force: "2006-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020226/2015-04-01/0"
+intitule_bron: "Stcrt.2006-170"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-08-25"
+intitule_published: "2006-09-01"
+intitule_in_force: "2006-08-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-170"
+original_signed_date: "2006-08-25"
+original_published_date: "2006-09-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-170-p47-SC76602"
+entry_into_force_date: "2006-10-01"
+jci_1_3: "jci1.3:c:BWBR0020226&z=2015-04-01&g=2015-04-01"
+jci_1_0: "1.0:c:BWBR0020226&g=2015-04-01"
+citeertitel_status: "officieel"
+short_title: "Regeling eisen theorie-examen rijbewijscategorie AM"
+signed_date: "2006-08-25"
+entry_into_force: "2006-10-01"
 ---
-
 # Regeling van 25 augustus 2006, nr. HDJZ/AWW/2006-1260, Hoofddirectie Juridische Zaken, houdende eisen voor het theorie-examen voor de rijbewijscategorie AM (Regeling eisen theorie-examen rijbewijscategorie AM)
 
 Gelet op [artikel 111, vierde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=111);
@@ -16,7 +42,7 @@ Besluit:
 
 Treedt in werking op het tijdstip waarop artikel I, onderdeel C van de Wijzigingswet Wegenverkeerswet 1994 (invoering bromfietsrijbewijs) in werking treedt.
 
-#### Artikel 1
+##### Artikel 1
 
 De aanvrager van het theorie-examen moet blijk geven kennis en inzicht te bezitten van de hierna genoemde voorschriften, alsmede kennis en inzicht van die voorschriften voor zover deze gelden voor andere verkeersdeelnemers:
 
@@ -34,7 +60,7 @@ De aanvrager van het theorie-examen moet blijk geven kennis en inzicht te bezitt
 
 - g. van de[Wet aansprakelijkheidsverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415): [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=2).
 
-#### Artikel 2
+##### Artikel 2
 
 De aanvrager van het theorie-examen moet blijk geven kennis en inzicht te bezitten van de hierna genoemde factoren en risico’s die van belang zijn bij deelneming aan het verkeer:
 
@@ -56,7 +82,7 @@ De aanvrager van het theorie-examen moet blijk geven kennis en inzicht te bezitt
 
 - i. het veilig rijden in tunnels.
 
-#### Artikel 3
+##### Artikel 3
 
 De aanvrager van het theorie-examen moet blijk geven kennis te bezitten van de hierna genoemde veiligheidsaspecten die van belang zijn bij deelneming aan het verkeer:
 
@@ -68,11 +94,11 @@ De aanvrager van het theorie-examen moet blijk geven kennis te bezitten van de h
 
 - d. de elementaire begindelen van voertuigbediening en voertuigbeheersing.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling treedt in werking op het tijdstip waarop [artikel I, onderdeel C, van de wet van 28 juni 2006 tot wijziging van de Wegenverkeerswet 1994 in verband met de invoering van een bromfietsrijbewijs](https://wetten.overheid.nl/jci1.3:c:BWBR0020020&artikel=I) (Stb. 322) in werking treedt.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling wordt aangehaald als: Regeling eisen theorie-examen rijbewijscategorie AM.
 

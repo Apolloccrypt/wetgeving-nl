@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregel boeteoplegging artikel 6 Arbeidsomstandighedenwet"
+title: "Beleidsregel van de Minister van Sociale Zaken en Werkgelegenheid van 19 juni 2025, nr. 2025-0000136340, over het handhavings- en sanctioneringskader ten aanzien van artikel 6 van de Arbeidsomstandighedenwet"
 identifier: "BWBR0051147"
-categorie: "Strafrecht"
-publicatiedatum: 2025-06-28
-laatste_update: 2025-06-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051147"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2025-06-28"
+last_updated: "2025-06-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051147"
+soort: "beleidsregel"
+stam_id: "17454933"
+version_id: "30782742"
+internal_id: "C44123551"
+label_id: "17357784"
+dtd_version: "2.0"
+original_entry_into_force: "2025-06-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051147/2025-06-28/0"
+intitule_bron: "Stcrt.2025-21777"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-06-19"
+intitule_published: "2025-06-27"
+intitule_in_force: "2025-06-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-21777"
+original_signed_date: "2025-06-19"
+original_published_date: "2025-06-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-21777"
+entry_into_force_date: "2025-06-28"
+jci_1_3: "jci1.3:c:BWBR0051147&z=2025-06-28&g=2025-06-28"
+jci_1_0: "1.0:c:BWBR0051147&g=2025-06-28"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel boeteoplegging artikel 6 Arbeidsomstandighedenwet"
+signed_date: "2025-06-19"
+entry_into_force: "2025-06-28"
 ---
-
 # Beleidsregel van de Minister van Sociale Zaken en Werkgelegenheid van 19 juni 2025, nr. 2025-0000136340, over het handhavings- en sanctioneringskader ten aanzien van artikel 6 van de Arbeidsomstandighedenwet
 
 Gelet op de [artikelen 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=6), [33, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=33) en [34, tiende lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=34), [13.25](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=13.25), [13.26](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=13.26) en [13.27 van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=13.27), [9.9c](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=9.9c) en [9.9d van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=9.9d) en [8.29a van de Arbeidsomstandighedenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&artikel=8.29a) en [4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
 
 Besluit:
 
-#### Artikel 1. Type overtredingen
+##### Artikel 1. Type overtredingen
 
 1. In deze beleidsregel wordt verstaan onder:
 
@@ -30,7 +56,7 @@ Besluit:
 
 2. Hiernaast geldt in deze beleidsregel als overtreding met directe boete de overtreding die de directe aanleiding is geweest voor een zwaar ongeval als bedoeld in [Bijlage I bij artikel 1.1 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&bijlage=I) of [artikel 2.2 van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.2).
 
-#### Artikel 2. Berekening bestuurlijke boete
+##### Artikel 2. Berekening bestuurlijke boete
 
 1. De hoogte van de bestuurlijke boete wordt bepaald aan de hand van het boetenormbedrag dat op de betreffende overtreding van toepassing is en het bepaalde in dit artikel.
 
@@ -60,17 +86,17 @@ Besluit:
 
 6. Meerdere overtredingen van hetzelfde artikel, artikellid of onderdeel, zijn aparte beboetbare feiten.
 
-#### Artikel 3. Relatie overtredingen Seveso en [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498)
+##### Artikel 3. Relatie overtredingen Seveso en [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498)
 
 Bedrijven of inrichtingen, die zowel onder de Seveso-paragraaf van het [Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330) als onder [afdeling 2 van hoofdstuk 2 van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&afdeling=2) en [hoofdstuk 2 van de Arbeidsomstandighedenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2) vallen, en waar een feit is geconstateerd dat zowel op grond van het [Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278) als het [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498) of de [Arbeidsomstandighedenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0008587) een beboetbare overtreding is, worden beboet op grond van de [artikelen 13.25](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=13.25) en [13.27 van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=13.27).
 
-#### Artikel 4. Zelfstandige nevenvestiging
+##### Artikel 4. Zelfstandige nevenvestiging
 
 1. Bij de vaststelling of sprake is van herhaling van dezelfde of soortgelijke overtredingen wordt bij zelfstandig opererende nevenvestigingen van rechtspersonen gehandeld alsof deze afzonderlijke ondernemingen zijn.
 
 2. Het eerste lid is niet van toepassing op ernstige overtredingen als bedoeld in [artikel 13.27, tweede lid, van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=13.27) en [artikel 9.10b van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=9.10b).
 
-#### Artikel 5. Het vaststellen van recidive
+##### Artikel 5. Het vaststellen van recidive
 
 1. Er is sprake van recidive, als overtreding van dezelfde of soortgelijke verplichtingen en verboden, als bepaald in [artikel 13.27, derde lid, van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=13.27), aan de orde is, mits het te hanteren boetenormbedrag bij elk van deze overtredingen hoger is dan € 12.500,00.
 
@@ -96,11 +122,11 @@ Als het te hanteren boetenormbedrag, als opgenomen in Tabel 2 van [Bijlage 1](ht
 
 - c. ≥ € 500.000.
 
-#### Artikel 6. Boetesom
+##### Artikel 6. Boetesom
 
 De totale bij een boetebeschikking op te leggen bestuurlijke boete bestaat, in geval er sprake is van meer dan één overtreding, uit de som van de per overtreding berekende boetebedragen.
 
-#### Artikel 7. Handhavingsbeleid
+##### Artikel 7. Handhavingsbeleid
 
 1. De Minister stelt handhavingsbeleid vast voor de bepalingen waarop deze beleidsregel betrekking heeft. Het beleid is uniform en gelijk voor alle bedrijven, die vallen onder de hiervoor bedoelde bepalingen.
 
@@ -108,15 +134,15 @@ De totale bij een boetebeschikking op te leggen bestuurlijke boete bestaat, in g
 
 3. De Minister draagt zorg voor de openbaarmaking van het handhavingsbeleid en dat eenieder van dit beleid kennis kan nemen.
 
-#### Artikel 8. Inwerkingtreding
+##### Artikel 8. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin hij wordt geplaatst.
 
-#### Artikel 9. Intrekking
+##### Artikel 9. Intrekking
 
 De [Beleidsregel Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049323) wordt ingetrokken.
 
-#### Artikel 10. Citeertitel
+##### Artikel 10. Citeertitel
 
 Deze beleidsregel wordt aangehaald als:Beleidsregel boeteoplegging artikel 6 Arbeidsomstandighedenwet.
 

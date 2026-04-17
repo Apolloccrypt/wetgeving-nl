@@ -1,13 +1,39 @@
 ---
-title: "Verzamelbesluit openbaar bestuur 2019"
+title: "Besluit van 22 januari 2019, houdende wijzigingen van ondergeschikte aard in enkele algemene maatregelen van bestuur op het terrein van het openbaar bestuur (Verzamelbesluit openbaar bestuur 2019)"
 identifier: "BWBR0041907"
-categorie: "Bestuursrecht"
-publicatiedatum: 2020-01-01
-laatste_update: 2020-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041907"
+country: "nl"
+rank: "amvb"
+publication_date: "2020-01-01"
+last_updated: "2020-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041907"
+soort: "AMvB"
+stam_id: "14999493"
+version_id: "25692702"
+internal_id: "C36650601"
+label_id: "14949544"
+dtd_version: "2.0"
+original_entry_into_force: "2019-02-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041907/2020-01-01/0"
+intitule_bron: "Stb.2019-46"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-01-22"
+intitule_published: "2019-02-15"
+intitule_in_force: "2019-02-15"
+intitule_status: "goed"
+original_publication: "Stb.2019-46"
+original_signed_date: "2019-01-22"
+original_published_date: "2019-02-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2019-46"
+entry_into_force_date: "2019-02-16"
+jci_1_3: "jci1.3:c:BWBR0041907&z=2020-01-01&g=2020-01-01"
+jci_1_0: "1.0:c:BWBR0041907&g=2020-01-01"
+citeertitel_status: "officieel"
+short_title: "Verzamelbesluit openbaar bestuur 2019"
+signed_date: "2019-01-22"
+entry_into_force: "2019-02-16"
 ---
-
 # Besluit van 22 januari 2019, houdende wijzigingen van ondergeschikte aard in enkele algemene maatregelen van bestuur op het terrein van het openbaar bestuur (Verzamelbesluit openbaar bestuur 2019)
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 21 december 2018, nr. 2018-0000937063;
@@ -20,27 +46,27 @@ Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijks
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Besluit begroting en verantwoording provincies en gemeenten.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Besluit financiële verhouding 2001.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Besluit gemeentelijke parkeerbelastingen.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het Besluit op de lijkbezorging.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Legesbesluit akten burgerlijke stand.
 
-#### Artikel VI
+##### Artikel VI
 
 1. Dit besluit treedt in werking met ingang van 1 juli 2019, met uitzondering van de [artikelen IV](https://wetten.overheid.nl/jci1.3:c:BWBR0041907&artikel=IV&z=2020-01-01&g=2020-01-01) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0041907&artikel=V&z=2020-01-01&g=2020-01-01).
 
@@ -48,7 +74,7 @@ Wijzigt het Legesbesluit akten burgerlijke stand.
 
 3. [Artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0041907&artikel=V&z=2020-01-01&g=2020-01-01) treedt in werking met ingang van 16 februari 2019. Indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven na 15 februari 2019, treedt het in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, en werkt het terug tot en met 16 februari 2019.
 
-#### Artikel VII
+##### Artikel VII
 
 Dit besluit wordt aangehaald als: Verzamelbesluit openbaar bestuur 2019.
 

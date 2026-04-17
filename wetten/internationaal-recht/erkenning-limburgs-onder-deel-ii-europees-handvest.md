@@ -1,13 +1,37 @@
 ---
 title: "Erkenning Limburgs onder deel II Europees Handvest"
 identifier: "BWBR0008559"
-categorie: "Internationaal recht"
-publicatiedatum: 1997-03-23
-laatste_update: 1997-03-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008559"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1997-03-23"
+last_updated: "1997-03-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008559"
+soort: "ministeriele-regeling"
+stam_id: "3565703"
+version_id: "5348762"
+internal_id: "C5541851"
+label_id: "3545644"
+dtd_version: "2.0"
+original_entry_into_force: "1997-03-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008559/1997-03-23/0"
+intitule_bron: "Stcrt.1997-57"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-02-20"
+intitule_published: "1997-03-21"
+intitule_in_force: "1997-03-21"
+intitule_status: "goed"
+original_publication: "Stcrt.1997-57"
+original_signed_date: "1997-02-20"
+original_published_date: "1997-03-21"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1997-03-23"
+jci_1_3: "jci1.3:c:BWBR0008559&z=1997-03-23&g=1997-03-23"
+jci_1_0: "1.0:c:BWBR0008559&g=1997-03-23"
+citeertitel_status: "officieel"
+signed_date: "1997-02-20"
+entry_into_force: "1997-03-23"
 ---
-
 # Erkenning Limburgs onder deel II Europees Handvest
 
 Gelezen het verzoek van gedeputeerde staten van Limburg van 19 november 1996;

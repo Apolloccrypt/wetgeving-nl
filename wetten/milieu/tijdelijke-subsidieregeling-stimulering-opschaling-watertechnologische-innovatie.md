@@ -1,20 +1,46 @@
 ---
-title: "Tijdelijke Subsidieregeling stimulering opschaling watertechnologische innovaties voor testen in een pilotomgeving"
+title: "Regeling van de Minister van Infrastructuur en Waterstaat van 7 oktober 2025, nr. IENW/BSK-2025/238367, houdende vaststelling van tijdelijke regels ter stimulering van de opschaling van watertechnologische innovaties voor testen in een pilotomgeving (Tijdelijke Subsidieregeling stimulering opschaling watertechnologische innovaties voor testen in een pilotomgeving)"
 identifier: "BWBR0051578"
-categorie: "Milieu"
-publicatiedatum: 2025-10-09
-laatste_update: 2025-10-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051578"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-10-09"
+last_updated: "2025-10-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051578"
+soort: "ministeriele-regeling"
+stam_id: "17543193"
+version_id: "30957442"
+internal_id: "C44340411"
+label_id: "17444754"
+dtd_version: "2.0"
+original_entry_into_force: "2025-10-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051578/2025-10-09/0"
+intitule_bron: "Stcrt.2025-33572"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-10-07"
+intitule_published: "2025-10-08"
+intitule_in_force: "2025-10-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-33572"
+original_signed_date: "2025-10-07"
+original_published_date: "2025-10-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-33572"
+entry_into_force_date: "2025-10-09"
+jci_1_3: "jci1.3:c:BWBR0051578&z=2025-10-09&g=2025-10-09"
+jci_1_0: "1.0:c:BWBR0051578&g=2025-10-09"
+citeertitel_status: "officieel"
+short_title: "Tijdelijke Subsidieregeling stimulering opschaling watertechnologische innovaties voor testen in een pilotomgeving"
+signed_date: "2025-10-07"
+entry_into_force: "2025-10-09"
 ---
-
 # Regeling van de Minister van Infrastructuur en Waterstaat van 7 oktober 2025, nr. IENW/BSK-2025/238367, houdende vaststelling van tijdelijke regels ter stimulering van de opschaling van watertechnologische innovaties voor testen in een pilotomgeving (Tijdelijke Subsidieregeling stimulering opschaling watertechnologische innovaties voor testen in een pilotomgeving)
 
 Gelet op de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=2), [4, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=4), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=7), [8, eerste lid en tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=9), [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=10), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=13), [22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=22), [23, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=23) en [26, eerste lid, van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=26);
 
 BESLUIT:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -68,11 +94,11 @@ In deze regeling wordt verstaan onder:
 
 - **Werkpakket Versnellen en Maximaliseren:** werkpakket 2 van UPPWATER dat wordt gecoördineerd door TKI Watertechnologie.
 
-#### Artikel 2. Doel van de regeling
+##### Artikel 2. Doel van de regeling
 
 Deze regeling heeft tot doel om de opschaling van watertechnologische innovaties die passen binnen de focusgebieden te stimuleren.
 
-#### Artikel 3. Kosten die voor subsidie in aanmerking komen
+##### Artikel 3. Kosten die voor subsidie in aanmerking komen
 
 Voor subsidie komen in aanmerking de loonkosten, investeringskosten, materiaalkosten en advieskosten, bedoeld in artikel 25, derde lid, van de AGVV, die rechtstreeks verband houden met de uitvoering van een of meer van de volgende activiteiten:
 
@@ -86,7 +112,7 @@ Voor subsidie komen in aanmerking de loonkosten, investeringskosten, materiaalko
 
 - e. het monitoren en valideren van een prototype van de innovatieve watertechnologie in een pilotomgeving.
 
-#### Artikel 4. Kosten die niet voor subsidie in aanmerking komen
+##### Artikel 4. Kosten die niet voor subsidie in aanmerking komen
 
 Tot de kosten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051578&artikel=3&z=2025-10-09&g=2025-10-09), behoren in ieder geval niet:
 
@@ -102,7 +128,7 @@ Tot de kosten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 - f. gratificaties en bonussen.
 
-#### Artikel 5. Subsidieplafond en verdeling
+##### Artikel 5. Subsidieplafond en verdeling
 
 1. Het subsidieplafond voor deze regeling bedraagt € 18,4 miljoen en bestaat uit
 
@@ -148,7 +174,7 @@ Tot de kosten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 10. Indien aan twee of meer projecten een gelijk aantal punten is toegekend worden de aanvragen daarvoor gerangschikt naar focusgebied, waarbij de aanvraag voor het project dat bijdraagt aan een focusgebied waarvoor de minste aanvragen zijn ingediend het hoogst wordt gerangschikt.
 
-#### Artikel 6. Adviescommissie
+##### Artikel 6. Adviescommissie
 
 1. Er is een adviescommissie die belast is met adviseren van de minister over de aanvragen door middel van beoordeling en rangschikking, conform [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0051578&artikel=5&z=2025-10-09&g=2025-10-09).
 
@@ -164,7 +190,7 @@ Tot de kosten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 3. De voorzitter en de andere leden van de commissie worden door de minister benoemd voor periode tot uiterlijk zes maanden na sluiting van de laatste uitvoerperiode.
 
-#### Artikel 7. Aanvraag
+##### Artikel 7. Aanvraag
 
 1. De minister kan op aanvraag van een consortium subsidie verlenen.
 
@@ -200,7 +226,7 @@ Tot de kosten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 - c. een onderbouwde inschatting van de resultaten die worden verwacht direct na afloop van het project en vijf jaar na afloop van het project, aan de hand van de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0051578&bijlage=I&z=2025-10-09&g=2025-10-09) bij deze regeling opgenomen kentallen.
 
-#### Artikel 8. Afwijzingsgronden
+##### Artikel 8. Afwijzingsgronden
 
 Onverminderd de afwijzingsgronden, bedoeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=11) en [12 van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=12), beslist de minister afwijzend op een aanvraag indien:
 
@@ -218,7 +244,7 @@ Onverminderd de afwijzingsgronden, bedoeld in de [artikelen 11](https://wetten.o
 
 - g. ten aanzien van de aanvrager reeds een bevel tot terugvordering uitstaat ingevolge een eerder besluit van de Europese Commissie waarbij steun onrechtmatig en onverenigbaar met de interne markt is verklaard.
 
-#### Artikel 9. Verlening
+##### Artikel 9. Verlening
 
 1. Een besluit tot verlening van de subsidie vermeldt in ieder geval:
 
@@ -232,11 +258,11 @@ Onverminderd de afwijzingsgronden, bedoeld in de [artikelen 11](https://wetten.o
 
 2. Met het besluit tot verlening van de subsidie wordt het format van de voortgangsrapportage meegezonden.
 
-#### Artikel 10. Voorschot
+##### Artikel 10. Voorschot
 
 Gedurende de looptijd van het project wordt per kalenderjaar aan de hand van de projectbegroting maximaal 80% van de te verstrekken subsidie die de subsidieontvangers dat jaar aan de activiteiten zullen besteden, bevoorschot.
 
-#### Artikel 11. Voorwaarden
+##### Artikel 11. Voorwaarden
 
 1. De subsidie wordt uitsluitend besteed aan activiteiten waarvoor de subsidie is verleend.
 
@@ -244,7 +270,7 @@ Gedurende de looptijd van het project wordt per kalenderjaar aan de hand van de 
 
 3. Het project is onderdeel van Programma 2.
 
-#### Artikel 12. Verplichtingen met betrekking tot het project
+##### Artikel 12. Verplichtingen met betrekking tot het project
 
 1. Het consortium realiseert ten minste 30% van het projectbudget uit private middelen.
 
@@ -280,7 +306,7 @@ Gedurende de looptijd van het project wordt per kalenderjaar aan de hand van de 
 
 10. De termijnen, bedoeld in het achtste en negende lid, kunnen op onderbouwd verzoek van de aanvrager eenmalig worden verlengd met 21 weken.
 
-#### Artikel 13. Verplichtingen in het kader van UPPWATER
+##### Artikel 13. Verplichtingen in het kader van UPPWATER
 
 1. Het project is onderdeel van UPPWATER en voldoet aan de in dit artikel opgenomen verplichtingen.
 
@@ -294,7 +320,7 @@ Gedurende de looptijd van het project wordt per kalenderjaar aan de hand van de 
 
 6. Alle presentaties, publicaties en andere communicatie-uitingen over het project worden voorzien van de vermelding dat het project wordt uitgevoerd in het kader van UPPWATER, met subsidie van het Nationaal Groeifonds.
 
-#### Artikel 14. Verplichtingen voor onderzoeksorganisaties
+##### Artikel 14. Verplichtingen voor onderzoeksorganisaties
 
 1. Indien in het project niet-economische experimentele ontwikkeling door een onderzoeksorganisatie wordt verricht:
 
@@ -326,7 +352,7 @@ Gedurende de looptijd van het project wordt per kalenderjaar aan de hand van de 
 
 4. De voorwaarden van een overeenkomst, gesloten ingevolge het derde lid, onderdeel c, wijken niet af van voorwaarden die onafhankelijke ondernemingen overeen zouden komen en behelzen geen enkele vorm van heimelijke verstandhouding.
 
-#### Artikel 15. Vaststelling
+##### Artikel 15. Vaststelling
 
 1. Een aanvraag tot vaststelling van de subsidie wordt ingediend bij de minister.
 
@@ -336,21 +362,21 @@ Voor het indienen van de aanvraag kan gebruik worden gemaakt van een door de min
 
 3. Wanneer het door technische omstandigheden of omstandigheden die buiten de invloedsfeer liggen van de aanvrager niet mogelijk is om te voldoen aan [artikel 12, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051578&artikel=12&z=2025-10-09&g=2025-10-09), toont de aanvrager aan dat hij zich maximaal heeft ingespannen om aan deze verplichting te voldoen waarbij hij in ieder geval inzicht geeft in de omstandigheden die hebben geleid tot het niet kunnen voltooien van het project.
 
-#### Artikel 16. Evaluatie
+##### Artikel 16. Evaluatie
 
 1. De minister publiceert uiterlijk op 1 november 2029 een verslag over de doeltreffendheid en de effecten van de krachtens deze regeling verstrekte subsidie in de praktijk.
 
 2. UPPWATER wordt na afronding integraal geëvalueerd.
 
-#### Artikel 17. Staatssteun
+##### Artikel 17. Staatssteun
 
 De subsidie voor de subsidiabele activiteiten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051578&artikel=3&z=2025-10-09&g=2025-10-09), bestaande uit experimentele ontwikkeling door een onderneming, bevat staatssteun en wordt gerechtvaardigd door artikel 25 van de AGVV.
 
-#### Artikel 18. Inwerkingtreding en horizonbepaling
+##### Artikel 18. Inwerkingtreding en horizonbepaling
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 november 2034, met dien verstande dat zij van toepassing blijft op subsidies die voor die datum zijn verleend.
 
-#### Artikel 19. Citeertitel
+##### Artikel 19. Citeertitel
 
 Deze regeling wordt aangehaald als: Tijdelijke Subsidieregeling stimulering opschaling watertechnologische innovaties voor testen in een pilotomgeving.
 

@@ -1,13 +1,38 @@
 ---
 title: "Regeling eisen goedkeuring kentekenplaten 2000"
 identifier: "BWBR0012172"
-categorie: "Overig"
-publicatiedatum: 2016-01-01
-laatste_update: 2016-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012172"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2016-01-01"
+last_updated: "2016-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012172"
+soort: "ministeriele-regeling"
+stam_id: "4469543"
+version_id: "22813402"
+internal_id: "C32976481"
+label_id: "4448254"
+dtd_version: "2.0"
+original_entry_into_force: "2015-11-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012172/2016-01-01/0"
+intitule_bron: "Stcrt.2001-22"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-01-19"
+intitule_published: "2001-01-31"
+intitule_in_force: "2001-01-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-41413"
+original_signed_date: "2015-11-27"
+original_published_date: "2015-11-30"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2015-41413"
+entry_into_force_date: "2015-11-27"
+jci_1_3: "jci1.3:c:BWBR0012172&z=2016-01-01&g=2016-01-01"
+jci_1_0: "1.0:c:BWBR0012172&g=2016-01-01"
+citeertitel_status: "officieel"
+signed_date: "2015-11-27"
+entry_into_force: "2015-11-27"
 ---
-
 # Regeling eisen goedkeuring kentekenplaten 2000
 
 Gelet op de [artikelen 36, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36), en [40, derde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=40) en [artikel 5 van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=5);
@@ -16,7 +41,7 @@ Besluit:
 
 #### Hoofdstuk 1. Algemeen
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 - a. **kentekenplaat:** een plaat die het kenteken toont van een voertuig;
 
@@ -42,7 +67,7 @@ Besluit:
 
 #### Hoofdstuk 2. Algemene eisen voor kentekenplaten
 
-#### Artikel 2. Materiaal
+##### Artikel 2. Materiaal
 
 1. Het materiaal van de plaat dient een aluminium legering te zijn.
 
@@ -74,7 +99,7 @@ Besluit:
 
 5. Het materiaal van de kunststof tekens dient te behoren tot een door de Dienst Wegverkeer goedgekeurde soort, bestand te zijn tegen zonlicht, kunstlicht, water, zouten, benzine, olie, hoge en lage temperaturen en tevens kleurbestendig te zijn.
 
-#### Artikel 3. Kleur
+##### Artikel 3. Kleur
 
 1. De trichromatische componenten van de kleuren moeten zijn gelegen binnen het voor elk der kleuren afzonderlijk aangegeven kleurenvlak.
 
@@ -82,7 +107,7 @@ Besluit:
 
 3. De waarde van de luminantiefactor van de kleur moet voldoen aan de voor die kleur vastgestelde waarde van de luminantiefactor ß ([bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=3&z=2016-01-01&g=2016-01-01)).
 
-#### Artikel 4. Laklaag
+##### Artikel 4. Laklaag
 
 1. De dikte van elk der laklagen dient ten minste 20µm te bedragen.
 
@@ -90,7 +115,7 @@ Besluit:
 
 3. De gerichte reflectie van de laklagen mag niet meer bedragen dan 25.
 
-#### Artikel 5. Wijze van meten
+##### Artikel 5. Wijze van meten
 
 1. De bepaling van de kleur, luminantiefactor, gerichte reflectie en retroreflectie geschiedt overeenkomstig de door de International Commission on Illumination vastgestelde methode.
 
@@ -100,7 +125,7 @@ Besluit:
 
 #### Hoofdstuk 3. Bijzondere eisen voor kentekenplaten volgens de modellen 1.1, 2.1, 3.1, 4.1, 5.1, 6.1, 7.1, 8.1, 9.1 en 10.1 van de [bijlage behorende bij de Regeling kentekens en kentekenplaten](onbekend)
 
-#### Artikel 6. Samenstellen van het kenteken
+##### Artikel 6. Samenstellen van het kenteken
 
 Bij de vervaardiging van de kentekenplaat zijn de hiernavolgende toleranties in de maatvoering toegestaan:
 
@@ -110,7 +135,7 @@ Bij de vervaardiging van de kentekenplaat zijn de hiernavolgende toleranties in 
 
 - c. op de totale hoogte van het kenteken: bij de modellen 2.1, 4.1, 6.1, 7.1, 9.1 en 10.1: 1 mm.
 
-#### Artikel 7. Aanbrengen van het kenteken in of op de kentekenplaat
+##### Artikel 7. Aanbrengen van het kenteken in of op de kentekenplaat
 
 1. Het kenteken dient:
 
@@ -122,13 +147,13 @@ Bij de vervaardiging van de kentekenplaat zijn de hiernavolgende toleranties in 
 
 3. Het kenteken dient symmetrisch ten opzichte van het midden van de kentekenplaat te zijn aangebracht.
 
-#### Artikel 8. Monsters
+##### Artikel 8. Monsters
 
 1. Van elke soort gelakte kentekenplaat waarvoor door de fabrikant daarvan goedkeuring en erkenning voor het aanbrengen van het keurmerk op kentekenplaten wordt aangevraagd, dienen twee respectievelijk twee x twee monsters (1 x model 500 x 105 - 1 x model 275 x 195 respectievelijk 1 x model 500 x 105 - 1 x model 275 x 195 - 1 x model 350 x 80 - 1 x model 200 x 145) voor onderzoek te worden overgelegd.
 
 2. De in het eerste lid bedoelde monsters worden voor het uitvoeren van de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&hoofdstuk=3&artikel=9&z=2016-01-01&g=2016-01-01) bedoelde proeven gebezigd.
 
-#### Artikel 9. Proeven ten aanzien van de hechting van de laklaag
+##### Artikel 9. Proeven ten aanzien van de hechting van de laklaag
 
 1. In de laklaag van de kentekenplaat worden, op een onderlinge afstand van 1 mm, insnijdingen aangebracht zoals bepaald in de paragrafen 3.1a of 3.1.b en 5.1 tot en met 5.3 van de Duitse norm DIN 53151 van december 1970. Na het aanbrengen van deze insnijdingen wordt over het ingesneden gedeelte kleefband aangebracht zodanig dat het gehele oppervlak zich daaraan hecht. Vervolgens wordt het kleefband daarvan afgerukt. Het ingesneden gedeelte mag daarna geen enkele beschadiging vertonen. Het kleefband moet voldoen aan de eisen gesteld voor type I, class A in de Federal Specification L-T-90C van 17 maart 1959, met amendement-1 van 13 januari 1961 en int.-amendement-2 van 3 november 1965. De proef dient binnen drie weken na ontvangst van het monster te worden uitgevoerd bij de standaard atmosfeer 23/50, volgens de Nederlandse norm NEN 2172 van november 1969.
 
@@ -136,7 +161,7 @@ Bij de vervaardiging van de kentekenplaat zijn de hiernavolgende toleranties in 
 
 3. 3. De kentekenplaat wordt in een tijdsbestek van 1-2 seconden over een hoek van 180o gebogen om een cilindrische doorn met een diameter van 50 mm. De laklaag dient zich daarbij aan de buitenzijde te bevinden. Na de proef dient het beproefde gedeelte van de laklaag te worden onderzocht met behulp van een loep ‘10 x’, waarbij de laklaag geen barstvorming of loslaten van de ondergrond mag vertonen. De proef dient binnen drie weken na ontvangst van het monster te worden uitgevoerd bij de standaard atmosfeer 23/50, volgens de Nederlandse norm NEN 2172 van november 1969.
 
-#### Artikel 10. Keurmerk
+##### Artikel 10. Keurmerk
 
 1. Het keurmerk op de kentekenplaat moet zichtbaar aan de voorzijde daarvan zijn ingeslagen.
 
@@ -144,7 +169,7 @@ Bij de vervaardiging van de kentekenplaat zijn de hiernavolgende toleranties in 
 
 #### Hoofdstuk 4. Bijzondere eisen voor kentekenplaten volgens de modellen 11.1, 12.1, 13.1, 14.1, 15.1, 16.1, 17.1, 18.1, 18.2A tot en met 18.2E, 27.1A tot en met 27.2H, 27.10A tot en met 27.26E en 27.30A tot en met 27.31E en 30.1A tot en met 30.16 van de [bijlage behorende bij de Regeling kentekens en kentekenplaten](onbekend)
 
-#### Artikel 11
+##### Artikel 11
 
 Bij de vervaardiging van de kentekenplaat zijn de volgende toleranties in de maatvoering toegestaan:
 
@@ -160,7 +185,7 @@ Bij de vervaardiging van de kentekenplaat zijn de volgende toleranties in de maa
 
 - c. op de totale hoogte van het kenteken: bij kentekenplaten volgens de modellen 12.1, 14.1, 16.1, 17.1, 18.1, 27.2A tot en met 27.2H, 27.12, 27.16A tot en met 27.16E, 27.19, 27.22, 27.25A tot en met 27.25E, 27.28 en 27.31A tot en met 27.31E: 2 mm en 27.10A tot en met 27.10E, 27.13, 27.17A tot en met 27.17E, 27.20, 27.23, 27.26A tot en met 27.26E, 27.29, 30.1A, tot en met 30.16: 1 mm.
 
-#### Artikel 12. Aanbrengen van het kenteken, duplicaatcode, lamineercode en maandnummer in de kentekenplaat, datering en afrondingsstraal kentekenplaat
+##### Artikel 12. Aanbrengen van het kenteken, duplicaatcode, lamineercode en maandnummer in de kentekenplaat, datering en afrondingsstraal kentekenplaat
 
 1. Het kenteken dient door persing en reliëf in de plaat te worden aangebracht en in voorkomend geval van kunststof tekens te worden voorzien.
 
@@ -208,11 +233,11 @@ Bij de vervaardiging van de kentekenplaat zijn de volgende toleranties in de maa
 
 10. Kentekenplaten volgens 18.2A tot en met 18.2E, met uitzondering van platen met een donkerblauwe achtergrond, en volgens de modellen 27.1A tot en met 27.2H, 27.10A tot en met 27.14, 27.30A tot en met 27.31E en 30.1A tot en met 30.6 dienen aan de voorzijde te zijn voorzien van een lamineercode. Deze code bestaat uit het identificatienummer van de lamineerder (1e positie), de laatste twee cijfers van het jaartal van vervaardiging van de retroreflecterende plaat (2 posities) en een productievolgnummer (7 posities). Deze code met een breedte van circa 40 mm wordt, in 3 tot 4 mm hoge cijfers in zwart aangebracht volgens model E van de [bijlage bij de Regeling kentekens en kentekenplaten](onbekend). Dit lid is niet van toepassing op kentekenplaten volgens de modellen 27.11 tot en met 27.14 die zijn afgegeven vóór 31 augustus 2002.
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
-#### Artikel 14. Proeven gelakte kentekenplaten
+##### Artikel 14. Proeven gelakte kentekenplaten
 
 1. Ten aanzien van de hechting van de laklaag worden de volgende proeven genomen:
 
@@ -254,7 +279,7 @@ Een model van een kentekenplaat wordt opgesteld:
 
 - e. gedurende 12 maanden. Na de proef dient de kentekenplaat voor wat betreft kleur, luminantiefactor en gerichte reflectie te voldoen aan het gestelde daaromtrent in de [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=2&z=2016-01-01&g=2016-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=3&z=2016-01-01&g=2016-01-01) en [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&hoofdstuk=2&artikel=4&z=2016-01-01&g=2016-01-01), en mogen de laklagen geen sporen vertonen van barstvorming, afschilfering, putjes en bladders, alsmede geen verkrijting groter dan beoordeling 2 volgens methode verfinstituut TNO (standaard uitrusting voor het afpoederen).
 
-#### Artikel 15. Proeven retroreflecterende kentekenplaten
+##### Artikel 15. Proeven retroreflecterende kentekenplaten
 
 1. Ten aanzien van de hechting van de laklaag worden de volgende proeven genomen:
 
@@ -314,7 +339,7 @@ Het proefstuk XIII van de retroreflecterende kentekenplaat voorzien van een kuns
 
 10. Het Europese embleem en landenindicator vormen bij de in dit artikel bedoelde proeven een integraal onderdeel van de kentekenplaat.
 
-#### Artikel 16. Proeven gelakte aluminium plaat (halffabrikaat)
+##### Artikel 16. Proeven gelakte aluminium plaat (halffabrikaat)
 
 1. Van elk type gelakte aluminium plaat waarvoor door de fabrikant daarvan goedkeuring en erkenning voor het aanbrengen van het waarmerk daarop wordt aangevraagd, dienen zes monsters (3 x van de afmetingen 520 x 110 mm en 3 x van de afmetingen 340 x 210 mm) voor onderzoek te worden overgelegd.
 
@@ -360,7 +385,7 @@ Een model van een gelakte aluminium plaat wordt opgesteld:
 
 - e. gedurende 12 maanden. Na de proef dient de kentekenplaat voor wat betreft kleur, luminantiefactor en gerichte reflectie te voldoen aan het gestelde daaromtrent in de [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=2&z=2016-01-01&g=2016-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=3&z=2016-01-01&g=2016-01-01) en [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&hoofdstuk=2&artikel=4&z=2016-01-01&g=2016-01-01), en mogen de laklagen geen sporen vertonen van barstvorming, afschilfering, putjes en bladders, alsmede geen verkrijting groter dan beoordeling 2 volgens methode Verfinstituut TNO (standaard uitrusting voor het afpoederen).
 
-#### Artikel 17. Proeven retroreflecterend materiaal (halffabrikaat)
+##### Artikel 17. Proeven retroreflecterend materiaal (halffabrikaat)
 
 1. Van elk type retroreflecterend materiaal waarvoor door de fabrikant daarvan goedkeuring en erkenning voor het aanbrengen van het waarmerk wordt aangevraagd, dienen vijftien monsters (drie van 520 x 110 mm, drie van 340 x 210 mm, drie van 210 x 143 mm, drie van 100 x 175 mm en drie van 145 x 125 mm) voor onderzoek te worden overgelegd.
 
@@ -414,7 +439,7 @@ Een model van het retroreflecterende materiaal wordt opgesteld:
 
 11. Het Europese embleem en landenindicator vormen bij de in dit artikel bedoelde proeven een integraal onderdeel van het retroreflecterend materiaal.
 
-#### Artikel 18. Proeven retroreflecterende plaat (halffabrikaat)
+##### Artikel 18. Proeven retroreflecterende plaat (halffabrikaat)
 
 1. Van elk type retroreflecterende plaat waarvoor door de fabrikant daarvan goedkeuring en erkenning voor het aanbrengen van het waarmerk wordt aangevraagd, dienen vijftien monsters (drie van 520 x 110 mm, drie van 340 x 210 mm, drie van 210 x 143 mm, drie van 100 x 175 mm en drie van 145 x 125 mm) voor onderzoek te worden overgelegd.
 
@@ -464,7 +489,7 @@ Een model van het retroreflecterende materiaal wordt opgesteld:
 
 - e. gedurende 12 maanden. Na de proef dient het retroreflecterende materiaal voor wat betreft kleur, luminantiefactor en retroreflectie te voldoen aan het gestelde daaromtrent in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=1&z=2016-01-01&g=2016-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=2&z=2016-01-01&g=2016-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=3&z=2016-01-01&g=2016-01-01) en mag het retroreflecterende materiaal geen sporen vertonen van barstvorming, zichtbare corrosie of loslaten van het aluminium materiaal.
 
-#### Artikel 19. Keurmerk
+##### Artikel 19. Keurmerk
 
 1. Het keurmerk op de kentekenplaat moet zichtbaar, leesbaar en onuitwisbaar aan de voorzijde daarvan zijn aangebracht.
 
@@ -482,7 +507,7 @@ Een model van het retroreflecterende materiaal wordt opgesteld:
 
 6. Andere met het blote oog zichtbare merktekens van fabrikanten van halffabrikaten of kentekenplaten, al dan niet in combinatie met het keurmerk, zijn niet toegestaan.
 
-#### Artikel 20. Waarmerk
+##### Artikel 20. Waarmerk
 
 1. Elk halffabrikaat, met uitzondering van witte folie en blanco kentekenplaten met een witte achtergrond, dient te zijn voorzien van een onuitwisbaar en leesbaar waarmerk.
 
@@ -500,21 +525,21 @@ Een model van het retroreflecterende materiaal wordt opgesteld:
 
 #### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 21
+##### Artikel 21
 
 Van ieder type kentekenplaat waarbij gebruik is gemaakt van een goedgekeurd type halffabrikaat behoeven de reeds voor het laatstgenoemde type uitgevoerde proeven niet te worden herhaald.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De regeling van de Minister van Verkeer en Waterstaat van 4 december 1997, nr. DGP/WJZ/V-725566, houdende vaststelling van eisen voor de goedkeuring van kentekenplaten (Regeling eisen goedkeuring kentekenplaten) (Stcrt. 239), wordt ingetrokken.
 
 2. Op basis van de in het eerste lid genoemde regeling alsmede op basis van de regeling van de directeur van de Rijksdienst voor het wegverkeer van 31 december 1974, nr. 36209, verleende machtigingen en erkenningen behouden hun geldigheid.
 
-#### Artikel 23
+##### Artikel 23
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 juli 2000.
 
-#### Artikel 24
+##### Artikel 24
 
 Deze regeling wordt aangehaald als: Regeling eisen goedkeuring kentekenplaten 2000.
 
@@ -544,7 +569,7 @@ Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat te Den Haag en bij 
 
 ## Bijlage 5. Waarmerk
 
-#### Artikel 19a
+##### Artikel 19a
 
 1. Het hologram dient overeen te komen met model F van de [bijlage behorende bij de Regeling kentekens en kentekenplaten](onbekend).
 
@@ -560,11 +585,11 @@ Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat te Den Haag en bij 
 
 #### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 21a
+##### Artikel 21a
 
 [Artikel 12, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&hoofdstuk=4&artikel=12&z=2016-01-01&g=2016-01-01), is van overeenkomstige toepassing op kentekenplaten volgens model 18.2 van de [bijlage bij de Regeling kentekens en kentekenplaten](onbekend) zoals deze bijlage luidde voor het tijdstip van inwerkingtreding van de [wet van 12 mei 2005 tot wijziging van de Wegenverkeerswet 1994 en enkele andere wetten in verband met de invoering van een kentekenregistratiesysteem voor bromfietsen alsmede vaststelling van overgangsbepalingen in verband daarmee](https://wetten.overheid.nl/jci1.3:c:BWBR0018326) (Stb. 281), die zijn afgegeven na 31 augustus 2002 doch voor 1 september 2005.
 
-#### Artikel 21b
+##### Artikel 21b
 
 In afwijking van [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&hoofdstuk=4&artikel=19&z=2016-01-01&g=2016-01-01), mag bij kentekenplaten volgens model 18.2 van de [bijlage bij de Regeling kentekens en kentekenplaten](onbekend) zoals deze bijlage luidde voor het tijdstip van inwerkingtreding van de [wet van 12 mei 2005 tot wijziging van de Wegenverkeerswet 1994 en enkele andere wetten in verband met de invoering van een kentekenregistratiesysteem voor bromfietsen alsmede vaststelling van overgangsbepalingen in verband daarmee](https://wetten.overheid.nl/jci1.3:c:BWBR0018326) (Stb. 281, indien de ruimte boven de tweede streep onvoldoende is, het keurmerk onder de tweede streep zijn aangebracht.
 

@@ -1,13 +1,39 @@
 ---
-title: "Warenwetbesluit Smeerbare vetproducten"
+title: "Besluit van 22 september 1999, houdende het Warenwetbesluit Smeerbare vetproducten"
 identifier: "BWBR0010734"
-categorie: "Bestuursrecht"
-publicatiedatum: 2016-10-06
-laatste_update: 2014-11-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010734"
+country: "nl"
+rank: "amvb"
+publication_date: "2016-10-06"
+last_updated: "2014-11-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010734"
+soort: "AMvB"
+stam_id: "1167343"
+version_id: "1726622"
+internal_id: "C1726621"
+label_id: "1131394"
+dtd_version: "2.0"
+original_entry_into_force: "1999-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010734/2016-10-06/0"
+intitule_bron: "Stb.1999-428"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-09-22"
+intitule_published: "1999-10-14"
+intitule_in_force: "1999-10-14"
+intitule_status: "goed"
+original_publication: "Stb.1999-428"
+original_signed_date: "1999-09-22"
+original_published_date: "1999-10-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-1999-428"
+entry_into_force_date: "1999-12-01"
+jci_1_3: "jci1.3:c:BWBR0010734&z=2016-10-06&g=2016-10-06"
+jci_1_0: "1.0:c:BWBR0010734&g=2016-10-06"
+citeertitel_status: "officieel"
+short_title: "Warenwetbesluit Smeerbare vetproducten"
+signed_date: "1999-09-22"
+entry_into_force: "1999-12-01"
 ---
-
 # Besluit van 22 september 1999, houdende het Warenwetbesluit Smeerbare vetproducten
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 26 april 1999, nr GZB/VVB 991504, gedaan in overeenstemming met de Staatssecretaris van Economische Zaken en de Staatssecretaris van Landbouw, Natuurbeheer en Visserij;
@@ -24,7 +50,7 @@ Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -32,33 +58,33 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - **verordening (EU) 1308/2013:** Verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad van 17 december 2013, tot vaststelling van een gemeenschappelijke ordening van de markten voor landbouwproducten en tot intrekking van de Verordeningen (EEG) nr. 922/72, (EEG) nr. 234/79, (EG) nr. 1037/2001 en (EG) nr. 1234/2007 van de Raad (PbEU 2013, L 347).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het is verboden te handelen in strijd met de eisen gesteld bij of krachtens artikel 91, onder a en d, en bijlage VII, deel VII en aanhangsel II van verordening (EU) 1308/2013.
 
 2. Het is verboden de in aanhangsel II bij bijlage VII, van verordening (EU) 1308/2013, onder B en C, bedoelde vetten te bereiden of te verhandelen die niet voldoen aan de eisen bij dit besluit gesteld met betrekking tot hun samenstelling.
 
-#### Artikel 3
+##### Artikel 3
 
 In de in aanhangsel II bij bijlage VII, van verordening (EU) 1308/2013, onder B en C, bedoelde vetten is het gehalte aan erucazuur niet hoger dan 5% en het gehalte aan erucazuur en zijn isomeren niet hoger dan 6,5%, een en ander berekend op het totale gehalte aan vetzuren in de vetfase.
 
-#### Artikel 4
+##### Artikel 4
 
 Wijzigt het Warenwetbesluit Toevoeging microvoedingsstoffen aan levensmiddelen.
 
-#### Artikel 5
+##### Artikel 5
 
 Het Margarinebesluit (Warenwet) wordt ingetrokken.
 
-#### Artikel 6
+##### Artikel 6
 
 Wijzigt het Warenwetbesluit Zuivel.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit treedt in werking met ingang van 1 december 1999.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit wordt aangehaald als: Warenwetbesluit Smeerbare vetproducten.
 

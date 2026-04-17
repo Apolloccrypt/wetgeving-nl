@@ -1,13 +1,39 @@
 ---
-title: "Besluit coördinatie terrorismebestrijding en nationale veiligheid"
+title: "Besluit van 28 mei 2025, houdende regeling van technische, personele en organisatorische maatregelen en nadere regels omtrent gegevensbeschermingsaudits ter uitvoering van de Wet coördinatie terrorismebestrijding en nationale veiligheid en wijziging van het Besluit politiegegevens, alsmede tot vaststelling van het tijdstip van inwerkingtreding van de Wet coördinatie terrorismebestrijding en nationale veiligheid (Besluit coördinatie terrorismebestrijding en nationale veiligheid)"
 identifier: "BWBR0051085"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-06-04
-laatste_update: 2025-06-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051085"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-06-04"
+last_updated: "2025-06-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051085"
+soort: "AMvB"
+stam_id: "17441203"
+version_id: "30754142"
+internal_id: "C44082651"
+label_id: "17344034"
+dtd_version: "2.0"
+original_entry_into_force: "2025-06-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051085/2025-06-04/0"
+intitule_bron: "Stb.2025-148"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-05-28"
+intitule_published: "2025-06-03"
+intitule_in_force: "2025-06-03"
+intitule_status: "goed"
+original_publication: "Stb.2025-148"
+original_signed_date: "2025-05-28"
+original_published_date: "2025-06-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2025-148"
+entry_into_force_date: "2025-06-04"
+jci_1_3: "jci1.3:c:BWBR0051085&z=2025-06-04&g=2025-06-04"
+jci_1_0: "1.0:c:BWBR0051085&g=2025-06-04"
+citeertitel_status: "officieel"
+short_title: "Besluit coördinatie terrorismebestrijding en nationale veiligheid"
+signed_date: "2025-05-28"
+entry_into_force: "2025-06-04"
 ---
-
 # Besluit van 28 mei 2025, houdende regeling van technische, personele en organisatorische maatregelen en nadere regels omtrent gegevensbeschermingsaudits ter uitvoering van de Wet coördinatie terrorismebestrijding en nationale veiligheid en wijziging van het Besluit politiegegevens, alsmede tot vaststelling van het tijdstip van inwerkingtreding van de Wet coördinatie terrorismebestrijding en nationale veiligheid (Besluit coördinatie terrorismebestrijding en nationale veiligheid)
 
 Op de voordracht van Onze Minister van Justitie en Veiligheid van 7 februari 2025, directie Wetgeving en Juridische Zaken, nr. 6156363;
@@ -20,11 +46,11 @@ Gezien het nader rapport van Onze Minister van Justitie en Veiligheid, van 27 me
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1. Definitie
+##### Artikel 1. Definitie
 
 In dit besluit wordt verstaan onder wet: [Wet coördinatie terrorismebestrijding en nationale veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0049262).
 
-#### Artikel 2. Werkwijze
+##### Artikel 2. Werkwijze
 
 1. Onze Minister legt het doel en de afbakening van de werkzaamheden vast die worden verricht ter uitvoering van [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049262&artikel=2).
 
@@ -36,7 +62,7 @@ In dit besluit wordt verstaan onder wet: [Wet coördinatie terrorismebestrijding
 
 - c. indien de verstrekking betrekking heeft op een analyse van een trend of fenomeen als bedoeld in [artikel 2, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049262&artikel=2): de motivering dat is voldaan aan [artikel 7, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049262&artikel=7).
 
-#### Artikel 3. Beschermingsmaatregelen
+##### Artikel 3. Beschermingsmaatregelen
 
 1. Onze Minister voorziet voor de verwerking van persoonsgegevens bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049262) in:
 
@@ -50,7 +76,7 @@ In dit besluit wordt verstaan onder wet: [Wet coördinatie terrorismebestrijding
 
 2. De persoonsgegevens die in verband met het loggen als bedoeld in het eerste lid, onderdeel d, worden vastgelegd, worden uitsluitend gebruikt voor controledoeleinden. Deze persoonsgegevens worden minimaal een jaar na het genereren van de logregel en ten minste tot de datum waarop de laatste externe gegevensbeschermingsaudit, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051085&artikel=4&z=2025-06-04&g=2025-06-04), heeft plaatsgevonden bewaard.
 
-#### Artikel 4. Gegevensbeschermingsaudit
+##### Artikel 4. Gegevensbeschermingsaudit
 
 1. Onze Minister laat iedere vier jaar door middel van een externe gegevensbeschermingsaudit de wijze waarop uitvoering wordt gegeven aan de bij en krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049262) gestelde regels ten aanzien de in [artikel 3, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049262&artikel=3) bedoelde publiek toegankelijke bronnen, voor zover dit onlinebronnen zijn, in verband met het signaleren, analyseren en duiden van trends en fenomenen, controleren.
 
@@ -62,15 +88,15 @@ In dit besluit wordt verstaan onder wet: [Wet coördinatie terrorismebestrijding
 
 5. Ter voorbereiding op de controles, bedoeld in het eerste lid, laat Onze Minister ieder jaar een interne gegevensbeschermingsaudit verrichten.
 
-#### Artikel 5. Wijziging [Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086)
+##### Artikel 5. Wijziging [Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086)
 
 Wijzigt het Besluit politiegegevens.
 
-#### Artikel 6. Inwerkingtreding
+##### Artikel 6. Inwerkingtreding
 
 De [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049262) en dit besluit treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.
 
-#### Artikel 7. Citeertitel
+##### Artikel 7. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit coördinatie terrorismebestrijding en nationale veiligheid.
 

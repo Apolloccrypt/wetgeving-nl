@@ -1,20 +1,45 @@
 ---
 title: "Beleidsregel kostprijsonderzoek mondzorg (bronjaar 2023), ten behoeve van de tarieven tandheelkundige- en orthodontische zorg 2026"
 identifier: "BWBR0050287"
-categorie: "Sociaal recht"
-publicatiedatum: 2024-10-12
-laatste_update: 2024-10-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050287"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-10-12"
+last_updated: "2024-10-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050287"
+soort: "zbo"
+stam_id: "17238813"
+version_id: "30359932"
+internal_id: "C43545101"
+label_id: "17144604"
+dtd_version: "2.0"
+original_entry_into_force: "2024-10-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050287/2024-10-12/0"
+intitule_bron: "Stcrt.2024-33023"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-09-17"
+intitule_published: "2024-10-11"
+intitule_in_force: "2024-10-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-33023"
+original_signed_date: "2024-09-17"
+original_published_date: "2024-10-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-33023"
+entry_into_force_date: "2024-10-12"
+jci_1_3: "jci1.3:c:BWBR0050287&z=2024-10-12&g=2024-10-12"
+jci_1_0: "1.0:c:BWBR0050287&g=2024-10-12"
+citeertitel_status: "officieel"
+signed_date: "2024-09-17"
+entry_into_force: "2024-10-12"
 ---
-
 # Beleidsregel kostprijsonderzoek mondzorg (bronjaar 2023), ten behoeve van de tarieven tandheelkundige- en orthodontische zorg 2026
 
 Gelet op [artikel 57, eerste lid, onderdelen b en c, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot het uitoefenen van de bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen.
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
@@ -60,15 +85,15 @@ In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
 - **zorgverzekeraar:** een zorgverzekeraar als bedoeld in [artikel 1, aanhef en onderdeel b, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1).
 
-#### Artikel 2. Doel van de beleidsregel
+##### Artikel 2. Doel van de beleidsregel
 
 Deze beleidsregel legt de wijze vast waarop de NZa informatie over de kostprijzen ontvangt en de wijze waarop zij tarieven berekent voor de mondzorg. Het gaat daarbij om de tarieven behorende bij de prestatiebeschrijvingen genoemd in de Beleidsregel tandheelkundige zorg en de Beleidsregel orthodontische zorg.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze beleidsregel is van toepassing op het kostprijsonderzoek mondzorg met bronjaar 2023, ten behoeve van de tarieven tandheelkundige- en orthodontische zorg voor het jaar 2026 en verder.
 
-#### Artikel 4. Afstemming en verslaglegging
+##### Artikel 4. Afstemming en verslaglegging
 
 - 4.1. **Afstemming** De NZa betrekt naast intern bij de NZa aanwezige deskundigen, een externe klankbordgroep bij het kostprijsonderzoek. Bij deze groep wordt input opgehaald voor opzet en invulling van het kostprijsonderzoek. De deelnemers geven advies, op basis van hun inhoudelijke expertise en/of wensen van hun achterban. De bijeenkomsten met deze groepen zijn adviserend. Het advies van de externe klankbordgroep weegt de NZa mee in haar overwegingen en het op te stellen beleid.
 
@@ -78,7 +103,7 @@ Deze beleidsregel is van toepassing op het kostprijsonderzoek mondzorg met bronj
 
 - 4.4. **Verslaglegging** Tijdig voorafgaand aan een bijeenkomst (bijeenkomst van de externe klankbordgroep, een expertsessie of andere bijeenkomst), ontvangen de deelnemers de agenda voor de bijeenkomst, eventueel een memo met de uitwerking van één of meerdere bespreekpunten en eventuele andere relevante stukken. Tijdens de bijeenkomst zal de NZa een nadere toelichting geven op de te bespreken punten en is er voor de deelnemers ruimte om vragen te stellen en opmerkingen te maken. De NZa zal zorgen voor verslaglegging van de bijeenkomst en het conceptverslag zal na de bijeenkomst aan de deelnemers van de bijeenkomst worden verstuurd. Deelnemers hebben na afloop van de bijeenkomst de mogelijkheid, indien zij dat willen, hun schriftelijke reactie op de bespreekpunten bij de NZa kenbaar te maken. Vervolgens zal het verslag worden vastgesteld.
 
-#### Artikel 5. Het onderzoeksbureau
+##### Artikel 5. Het onderzoeksbureau
 
 - 5.1. Een deel van het kostprijsonderzoek zal worden uitgevoerd door een extern onderzoeksbureau. Middels een Europees aanbestedingstraject is hiervoor een extern onderzoeksbureau gecontracteerd. De werkzaamheden van het externe onderzoeksbureau hebben betrekking op de gegevensuitvraag onder de in de steekproef geselecteerde zorgaanbieders en omvat:
 
@@ -112,7 +137,7 @@ Deze beleidsregel is van toepassing op het kostprijsonderzoek mondzorg met bronj
 
 - 5.3. Zowel de NZa als het onderzoeksbureau zijn gehouden aan de Algemene verordening gegevensbescherming. Met het externe onderzoeksbureau is daarom een verwerkersovereenkomst gesloten die de bescherming van de persoonsgegevens waarborgt.
 
-#### Artikel 6. Selectie zorgaanbieders deelname kostprijsonderzoek
+##### Artikel 6. Selectie zorgaanbieders deelname kostprijsonderzoek
 
 - 6.1. **Inclusiecriteria (populatie omvang)** De NZa hanteert de volgende criteria bij het bepalen van de onderzoekspopulatie waaruit zorgaanbieders geselecteerd worden voor deelname aan het kostprijsonderzoek en baseert zich daarbij op de declaraties over het jaar 2022. Het betreft zorgaanbieders:
 
@@ -140,7 +165,7 @@ Deze beleidsregel is van toepassing op het kostprijsonderzoek mondzorg met bronj
 
 - 6.7. **Pilot** Het invulsjabloon wordt voorafgaand aan de gegevensuitvraag getest door middel van een pilot met een selectie van de geselecteerde zorgaanbieders. Bij het selecteren van de deelnemers aan de pilot wordt rekening gehouden met variatie van de onderzoekspopulatie. Aan de pilot nemen zeven praktijken voor tandheelkundige zorg deel en drie praktijken voor orthodontie. De resultaten van de pilot worden onder meer besproken met de externe klankbordgroep en expertgroep. Deze beleidsregel is vastgesteld ná deze pilot zodat wijzigingen die voortkwamen uit de pilot verwerkt zijn in deze beleidsregel.
 
-#### Artikel 7. Proces gegevensuitvraag
+##### Artikel 7. Proces gegevensuitvraag
 
 - 7.1. **Jaar van uitvraag** De gegevensuitvraag heeft betrekking op de kosten en prestaties in 2023. Dit jaar is het bronjaar.
 
@@ -170,7 +195,7 @@ Deze beleidsregel is van toepassing op het kostprijsonderzoek mondzorg met bronj
 
 - 7.11. De NZa heeft een plan van aanpak opgesteld in het kader van handhaving van de aanlevering van de gevraagde gegevens door de geselecteerde zorgaanbieders.
 
-#### Artikel 8. Controle gegevensaanlevering
+##### Artikel 8. Controle gegevensaanlevering
 
 - 8.1. **Eerste controle gegevensaanlevering** Bij twijfel over de juistheid van aangeleverde informatie in het invulsjabloon kan de NZa en/of het externe onderzoeksbureau navraag doen bij de geselecteerde zorgaanbieders. Onder andere de volgende situaties kunnen daarbij worden onderscheiden:
 
@@ -184,7 +209,7 @@ Deze beleidsregel is van toepassing op het kostprijsonderzoek mondzorg met bronj
 
 - 8.3. Naast de controles genoemd onder 8.1 kan de NZa steekproefsgewijs controles uitvoeren eventueel door een bedrijfsbezoek.
 
-#### Artikel 9. Kostprijsberekening
+##### Artikel 9. Kostprijsberekening
 
 - 9.1. **Geen aparte puntwaarde implantologie** De NZa heeft analyses uitgevoerd die tot de conclusie hebben geleid dat er binnen de tandheelkundige zorg geen enkele groep gedifferentieerde praktijken is die een aandeel van 75% of meer heeft van de omzet op macroniveau voor het differentiatie-specifieke hoofdstuk. Om die reden is de NZa tot de conclusie gekomen dat er in het kostprijsonderzoek zal worden toegewerkt naar één algemene puntwaarde voor de tandheelkundige zorg per 1 januari 2026, naast de puntwaarde voor de orthodontische zorg.
 
@@ -271,7 +296,7 @@ Deze beleidsregel is van toepassing op het kostprijsonderzoek mondzorg met bronj
 
 - 9.9. **Kostprijs per punt per praktijk** **Voor tandheelkundige zorg:** het inkomensdeel en het praktijkkostendeel worden gedeeld door de tandheelkundige productie in punten. **Voor orthodontische zorg:** De inkomensdeel en het praktijkkostendeel worden gedeeld door de orthodontische productie in punten.
 
-#### Artikel 10. Toetsingskader ten aanzien van kostprijsberekening
+##### Artikel 10. Toetsingskader ten aanzien van kostprijsberekening
 
 Het toetsingskader beoordeelt de betrouwbaarheid en representativiteit van de kostprijzen.
 
@@ -283,7 +308,7 @@ Het toetsingskader beoordeelt de betrouwbaarheid en representativiteit van de ko
 
 - 10.2. Voor de kostprijzen van de prestaties, zoals genoemd in [artikel 9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0050287&artikel=9&z=2024-10-12&g=2024-10-12), geldt het toetsingskader van dit artikel niet.
 
-#### Artikel 11. Tariefopbouw
+##### Artikel 11. Tariefopbouw
 
 - 11.1. Dit artikel beschrijft het beleid dat de NZa hanteert om na het deel van het kostprijsonderzoek dat door het externe onderzoeksbureau wordt uitgevoerd, van kostprijzen tot tarieven te komen.
 
@@ -317,11 +342,11 @@ Het toetsingskader beoordeelt de betrouwbaarheid en representativiteit van de ko
 
 De NZa maakt het verantwoordingsdocument openbaar na afronding van het kostprijsonderzoek.
 
-#### Artikel 12. Afwijkingsbevoegdheid
+##### Artikel 12. Afwijkingsbevoegdheid
 
 Deze beleidsregel voorziet zoveel mogelijk in de betrouwbaarheid van de uitkomsten van het kostprijsonderzoek. Indien nodig voor het waarborgen van deze betrouwbaarheid, kan de NZa van deze beleidsregel afwijken, bijvoorbeeld wanneer onvoorziene omstandigheden, onbetrouwbare metingen of onverwachte of niet plausibele uitkomsten, nieuwe prestaties of wijzigingen in de productstructuur daartoe naar oordeel van de NZa aanleiding geven. De NZa informeert de branche- en veldpartijen, al dan niet via de externe klankbordgroep, indien van deze beleidsregel wordt afgeweken.
 
-#### Artikel 13. Bekendmaking, inwerkingtreding en citeertitel
+##### Artikel 13. Bekendmaking, inwerkingtreding en citeertitel
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin de beleidsregel ingevolge [artikel 5, aanhef en onder e, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5), wordt geplaatst en vervalt met ingang van 1 januari 2027.
 

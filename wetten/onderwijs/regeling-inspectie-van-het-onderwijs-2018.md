@@ -1,20 +1,46 @@
 ---
-title: "Regeling Inspectie van het onderwijs 2018"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 13 juli 2018 nr. WJZ/1221455(8450), houdende actualisering van de Regeling Inspectie van het onderwijs 2006 (Regeling Inspectie van het onderwijs 2018)"
 identifier: "BWBR0041185"
-categorie: "Onderwijs"
-publicatiedatum: 2022-08-01
-laatste_update: 2022-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041185"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-08-01"
+last_updated: "2022-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041185"
+soort: "ministeriele-regeling"
+stam_id: "14686313"
+version_id: "25154172"
+internal_id: "C35967571"
+label_id: "14638944"
+dtd_version: "2.0"
+original_entry_into_force: "2018-07-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041185/2022-08-01/0"
+intitule_bron: "Stcrt.2018-40915"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-07-13"
+intitule_published: "2018-07-23"
+intitule_in_force: "2018-07-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-40915"
+original_signed_date: "2018-07-13"
+original_published_date: "2018-07-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-40915"
+entry_into_force_date: "2018-07-24"
+jci_1_3: "jci1.3:c:BWBR0041185&z=2022-08-01&g=2022-08-01"
+jci_1_0: "1.0:c:BWBR0041185&g=2022-08-01"
+citeertitel_status: "officieel"
+short_title: "Regeling Inspectie van het onderwijs 2018"
+signed_date: "2018-07-13"
+entry_into_force: "2018-07-24"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 13 juli 2018 nr. WJZ/1221455(8450), houdende actualisering van de Regeling Inspectie van het onderwijs 2006 (Regeling Inspectie van het onderwijs 2018)
 
 Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -46,7 +72,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Taakuitoefening
 
-#### Artikel 2. Jaarwerkplan
+##### Artikel 2. Jaarwerkplan
 
 1. De inspectie richt haar werkzaamheden in op basis van het jaarwerkplan, bedoeld in [artikel 7, van de WOT](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=7).
 
@@ -60,7 +86,7 @@ In deze regeling wordt verstaan onder:
 
 6. De Minister informeert de Staten-Generaal over tussentijdse wijzigingen van het jaarwerkplan en over andere aangelegenheden, die de uitvoering van het jaarwerkplan in belangrijke mate beïnvloeden.
 
-#### Artikel 3. Verslag over de staat van het onderwijs
+##### Artikel 3. Verslag over de staat van het onderwijs
 
 1. De inspectie stelt jaarlijks uiterlijk op de derde woensdag van mei het verslag over de staat van het onderwijs vast. In dit verslag wordt in ieder geval aandacht besteed aan de beleidsgebieden die zijn opgenomen in het jaarwerkplan.
 
@@ -80,19 +106,19 @@ In deze regeling wordt verstaan onder:
 
 6. Ten minste twee weken voor het tijdstip van verzending, bedoeld in het vierde lid, ontvangt de Minister het definitieve verslag. Het verslag is geheim tot aan het tijdstip van de verzending aan de Staten-Generaal.
 
-#### Artikel 4. Onderzoekskaders
+##### Artikel 4. Onderzoekskaders
 
 1. De Minister stelt op voordracht van de inspectie onderzoekskaders of wijzigingen daarvan vast, waarna publicatie in de Staatscourant plaatsvindt. Daarnaast zendt de Minister de vastgestelde onderzoekskaders of wijzigingen daarvan, in voorkomend geval samen met het verslag van het overleg met vertegenwoordigers van het onderwijsveld en andere betrokken, aan de Staten-Generaal.
 
 2. De inspectie draagt zorg voor tijdige afstemming over het ontwerp van de onderzoekskaders met de betrokken organisatieonderdelen van het ministerie.
 
-#### Artikel 5. Onderwijsaccountantsprotocollen
+##### Artikel 5. Onderwijsaccountantsprotocollen
 
 1. De Minister stelt op voordracht van de inspectie de onderwijsaccountantsprotocollen vast, waarna publicatie in de Staatscourant plaatsvindt.
 
 2. De inspectie draagt zorg voor tijdige afstemming over het ontwerp van de onderwijsaccountantsprotocollen met de betrokken organisatieonderdelen van het ministerie en de Auditdienst Rijk.
 
-#### Artikel 6. Openbaarmaking en voorlichting
+##### Artikel 6. Openbaarmaking en voorlichting
 
 1. De inspectie maakt inspectierapporten openbaar met inachtneming van de [artikelen 12a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=12a), [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=15), en [21 van de WOT](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=21) en de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252).
 
@@ -104,13 +130,13 @@ In deze regeling wordt verstaan onder:
 
 5. In situaties waarin dit artikel niet voorziet, vindt overleg plaats tussen de secretaris-generaal en de inspecteur-generaal.
 
-#### Artikel 7. Werkafspraken over handhaving
+##### Artikel 7. Werkafspraken over handhaving
 
 1. De inspecteur-generaal en de Minister kunnen werkafspraken maken over de wijze waarop wordt gehandhaafd bij instellingen die niet voldoen aan de wettelijke voorschriften, waarop door de inspectie toezicht wordt gehouden.
 
 2. De inspecteur-generaal en de Minister maken in ieder geval werkafspraken over de wijze waarop wordt gehandhaafd bij instellingen waarbij de kwaliteit van het onderwijs zeer zwak is, de leerresultaten ernstig en langdurig tekortschieten, of waarbij sprake is van een ernstig risico ten aanzien van het financieel beheer van de instelling.
 
-#### Artikel 8. Uitvoerings- en handhaafbaarheidstoets bij beleidsvoornemens en ontwerpregelgeving
+##### Artikel 8. Uitvoerings- en handhaafbaarheidstoets bij beleidsvoornemens en ontwerpregelgeving
 
 1. De organisatieonderdelen van het ministerie leggen beleidsvoornemens en ontwerpregelgeving die voor de uitvoering van de toezichtstaken van de inspectie van belang zijn in een vroeg stadium voor aan de inspectie ten behoeve van een toets op uitvoerbaarheid en handhaafbaarheid, en op de gevolgen voor het jaarwerkplan van de inspectie.
 
@@ -120,7 +146,7 @@ vast te stellen procedure.
 
 ### Hoofdstuk 3. Bedrijfsvoering
 
-#### Artikel 9. Bedrijfsvoering en managementafspraak
+##### Artikel 9. Bedrijfsvoering en managementafspraak
 
 1. De inspecteur-generaal is verantwoordelijk voor de bedrijfsvoering van de inspectie.
 
@@ -142,17 +168,17 @@ vast te stellen procedure.
 
 6. De secretaris-generaal en de inspecteur-generaal voeren ten minste drie keer per jaar overleg over de managementafspraak en de uitvoering daarvan. De inspecteur-generaal legt ten behoeve daarvan in viermaandelijkse managementrapportages verantwoording af over de uitvoering van de managementafspraak.
 
-#### Artikel 10. Voorbehouden met betrekking tot toepassing rechtspositionele regelingen
+##### Artikel 10. Voorbehouden met betrekking tot toepassing rechtspositionele regelingen
 
 1. Het voeren van overleg met vertegenwoordigers van de Minister van Binnenlandse Zaken en Koninkrijksrelaties over het personeels- en arbeidsvoorwaardenbeleid, daaronder begrepen de financiële gevolgen van dit beleid, alsmede het voeren van overleg hierover met het decentraal georganiseerd overleg of de Departementale ondernemingsraad, is voorbehouden aan de secretaris-generaal.
 
 2. Voor zover het personeels- en arbeidsvoorwaardenbeleid waarover overleg wordt gevoerd, gevolgen heeft voor de inspectie, doet de secretaris-generaal voorstellen daartoe na overleg met de inspecteur-generaal.
 
-#### Artikel 11. Overleg medezeggenschapsorganen
+##### Artikel 11. Overleg medezeggenschapsorganen
 
 De inspecteur-generaal is bestuurder in de zin van de [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747) en voert het overleg met het betreffende medezeggenschapsorgaan.
 
-#### Artikel 12. Kwaliteitssysteem uitoefening toezicht
+##### Artikel 12. Kwaliteitssysteem uitoefening toezicht
 
 1. De inspectie organiseert het toezicht op het onderwijs op zodanige wijze, dat dit leidt tot een verantwoorde uitoefening van het toezicht.
 
@@ -168,7 +194,7 @@ De inspecteur-generaal is bestuurder in de zin van de [Wet op de ondernemingsrad
 
 4. De toetsing, bedoeld in het derde lid, onder b, geschiedt mede door onafhankelijke deskundigen.
 
-#### Artikel 13. Jaarverslag met inbegrip van financiële verantwoording
+##### Artikel 13. Jaarverslag met inbegrip van financiële verantwoording
 
 1. De inspectie stelt jaarlijks een jaarverslag vast over het voorgaande kalenderjaar. Het jaarverslag bevat gegevens over de uitoefening van het toezicht door de inspectie, de bedrijfsvoering met inbegrip van de besteding van middelen, en de ontwikkelingen in het toezicht en in de organisatie in het voorgaande kalenderjaar.
 
@@ -190,13 +216,13 @@ De inspecteur-generaal is bestuurder in de zin van de [Wet op de ondernemingsrad
 
 ### Hoofdstuk 4. Overleg en informatievoorziening
 
-#### Artikel 14. Informatievoorziening
+##### Artikel 14. Informatievoorziening
 
 1. De inspecteur-generaal informeert zo nodig de Minister en de secretaris-generaal rechtstreeks over zijn bevindingen, oordelen en adviezen, en verstrekt zo nodig andere relevante gegevens.
 
 2. De inspectie informeert zo nodig de organisatieonderdelen van het ministerie over de uitvoering van bestaande regels en de werking van beleid in de praktijk.
 
-#### Artikel 15. Regulier overleg
+##### Artikel 15. Regulier overleg
 
 1. De Minister, de Minister voor Basis- en Voortgezet Onderwijs en Media, en de secretaris-generaal voeren ten minste vier keer per jaar overleg met de inspecteur-generaal over de hoofdlijnen van de uitoefening en de resultaten van het toezicht door de inspectie, met inbegrip van ontwikkelingen binnen de werkwijze van de inspectie en casuïstiek.
 
@@ -204,7 +230,7 @@ De inspecteur-generaal is bestuurder in de zin van de [Wet op de ondernemingsrad
 
 3. De inspecteur-generaal voert ten minste twee keer per jaar overleg met de directeuren-generaal en het management van de beleidsdirecties over lange-termijnontwikkelingen binnen beleid en toezicht en de waarnemingen van de inspectie en van beleid.
 
-#### Artikel 16. Informatie aan de Staten-Generaal
+##### Artikel 16. Informatie aan de Staten-Generaal
 
 1. De inspecteur-generaal kan, met toestemming van de Minister, in de Eerste of Tweede Kamer der Staten-Generaal een feitelijke toelichting geven op het verslag over de staat van het onderwijs of op andere onderwerpen die het werk van de inspectie betreffen.
 
@@ -212,7 +238,7 @@ De inspecteur-generaal is bestuurder in de zin van de [Wet op de ondernemingsrad
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 17. Aanwijzingsbevoegdheid van de Minister
+##### Artikel 17. Aanwijzingsbevoegdheid van de Minister
 
 1. Een aanwijzing als bedoeld in [artikel 2, tweede lid, van de WOT](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=2), wordt onverwijld gezonden aan de Staten-Generaal.
 
@@ -226,15 +252,15 @@ De inspecteur-generaal is bestuurder in de zin van de [Wet op de ondernemingsrad
 
 - c. de bevindingen, oordelen en adviezen van de inspectie.
 
-#### Artikel 18. Intrekking [Regeling Inspectie van het onderwijs 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019615)
+##### Artikel 18. Intrekking [Regeling Inspectie van het onderwijs 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019615)
 
 De [Regeling Inspectie van het onderwijs 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019615) wordt ingetrokken.
 
-#### Artikel 19. Inwerkingtreding
+##### Artikel 19. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 20. Citeertitel
+##### Artikel 20. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling Inspectie van het onderwijs 2018.
 

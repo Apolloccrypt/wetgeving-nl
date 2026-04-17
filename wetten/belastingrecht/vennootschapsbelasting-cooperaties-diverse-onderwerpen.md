@@ -1,13 +1,37 @@
 ---
 title: "Vennootschapsbelasting, coöperaties; diverse onderwerpen"
 identifier: "BWBR0019445"
-categorie: "Belastingrecht"
-publicatiedatum: 2006-01-17
-laatste_update: 2006-01-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019445"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2006-01-17"
+last_updated: "2006-01-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019445"
+soort: "beleidsregel"
+stam_id: "8272413"
+version_id: "13131732"
+internal_id: "C17693321"
+label_id: "8253554"
+dtd_version: "2.0"
+original_entry_into_force: "2006-01-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019445/2006-01-17/0"
+intitule_bron: "Stcrt.2006-64"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-01-17"
+intitule_published: "2006-03-30"
+intitule_in_force: "2006-03-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-64"
+original_signed_date: "2006-01-17"
+original_published_date: "2006-03-30"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2006-01-17"
+jci_1_3: "jci1.3:c:BWBR0019445&z=2006-01-17&g=2006-01-17"
+jci_1_0: "1.0:c:BWBR0019445&g=2006-01-17"
+citeertitel_status: "redactioneel"
+signed_date: "2006-01-17"
+entry_into_force: "2006-01-17"
 ---
-
 # Vennootschapsbelasting, coöperaties; diverse onderwerpen
 
 De directeur-generaal Belastingdienst heeft namens de staatssecretaris van Financiën het volgende besloten.

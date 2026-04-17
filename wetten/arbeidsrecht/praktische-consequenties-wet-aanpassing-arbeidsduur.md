@@ -1,13 +1,37 @@
 ---
 title: "Praktische consequenties Wet aanpassing arbeidsduur"
 identifier: "BWBR0011369"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2000-06-19
-laatste_update: 2000-06-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011369"
+country: "nl"
+rank: "circulaire"
+publication_date: "2000-06-19"
+last_updated: "2000-06-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011369"
+soort: "circulaire"
+stam_id: "6256053"
+version_id: "10938062"
+internal_id: "C14831441"
+label_id: "6245104"
+original_entry_into_force: "2000-06-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011369/2000-06-19/0"
+intitule_bron: "Stcrt.2000-115"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-05-22"
+intitule_published: "2000-06-19"
+intitule_in_force: "2000-06-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2000-115"
+original_signed_date: "2000-05-22"
+original_published_date: "2000-06-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2000-115-p8-SC24461"
+entry_into_force_date: "2000-06-19"
+jci_1_3: "jci1.3:c:BWBR0011369&z=2000-06-19&g=2000-06-19"
+jci_1_0: "1.0:c:BWBR0011369&g=2000-06-19"
+citeertitel_status: "redactioneel"
+signed_date: "2000-05-22"
+entry_into_force: "2000-06-19"
 ---
-
 # Praktische consequenties Wet aanpassing arbeidsduur
 
 Op 1 juli 2000 treedt de [Wet aanpassing arbeidsduur](onbekend), Stb. 114 en 115, in werking. Deze wet is van toepassing op werknemers in de markt- én de overheidssector. Door middel van deze circulaire wil ik u op de hoogte brengen van de praktische consequenties van de wet voor de sector Rijk.

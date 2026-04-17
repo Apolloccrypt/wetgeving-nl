@@ -1,13 +1,39 @@
 ---
-title: "Regeling vaststelling consumentenprijsindexcijfers 2016 Caribisch Nederland en wijziging Regeling Pensioenwet BES, enz. (wijziging bedragen tegemoetkomingen, uitkeringen, wettelijk minimumuurloon, enz.)"
+title: "Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 24 november 2015, nr. 2015-0000293039, houdende vaststelling van de consumentenprijsindexcijfers voor 2016 voor Caribisch Nederland en op basis daarvan wijziging van bedragen van tegemoetkomingen en uitkeringen, van het wettelijk minimumuurloon en het bedrag genoemd in de Regeling Pensioenwet BES, alsmede van premiepercentages van werknemersverzekeringen en volksverzekeringen, van het maximumdagloon voor de Wet ziekteverzekering BES en de Wet ongevallenverzekering BES en de schadeloosstelling voor de bemiddelaar, bedoeld in de Arbeidsgeschillenwet 1946 BES"
 identifier: "BWBR0037283"
-categorie: "Sociaal recht"
-publicatiedatum: 2016-01-01
-laatste_update: 2016-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037283"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2016-01-01"
+last_updated: "2016-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037283"
+soort: "ministeriele-regeling"
+stam_id: "13328543"
+version_id: "22834152"
+internal_id: "C32998641"
+label_id: "13296334"
+dtd_version: "2.0"
+original_entry_into_force: "2016-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037283/2016-01-01/0"
+intitule_bron: "Stcrt.2015-43458"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-11-24"
+intitule_published: "2015-12-04"
+intitule_in_force: "2015-12-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-43458"
+original_signed_date: "2015-11-24"
+original_published_date: "2015-12-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-43458"
+entry_into_force_date: "2016-01-01"
+jci_1_3: "jci1.3:c:BWBR0037283&z=2016-01-01&g=2016-01-01"
+jci_1_0: "1.0:c:BWBR0037283&g=2016-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Regeling vaststelling consumentenprijsindexcijfers 2016 Caribisch Nederland en wijziging Regeling Pensioenwet BES, enz. (wijziging bedragen tegemoetkomingen, uitkeringen, wettelijk minimumuurloon, enz.)"
+signed_date: "2015-11-24"
+entry_into_force: "2016-01-01"
 ---
-
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 24 november 2015, nr. 2015-0000293039, houdende vaststelling van de consumentenprijsindexcijfers voor 2016 voor Caribisch Nederland en op basis daarvan wijziging van bedragen van tegemoetkomingen en uitkeringen, van het wettelijk minimumuurloon en het bedrag genoemd in de Regeling Pensioenwet BES, alsmede van premiepercentages van werknemersverzekeringen en volksverzekeringen, van het maximumdagloon voor de Wet ziekteverzekering BES en de Wet ongevallenverzekering BES en de schadeloosstelling voor de bemiddelaar, bedoeld in de Arbeidsgeschillenwet 1946 BES
 
 In overeenstemming met de Staatssecretaris van Financiën;
@@ -16,7 +42,7 @@ Gelet op de [artikelen 7b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 Besluit:
 
-#### Artikel 1. Consumentenprijsindexcijfer Caribisch Nederland
+##### Artikel 1. Consumentenprijsindexcijfer Caribisch Nederland
 
 1. Het consumentenprijsindexcijfer voor 2016 voor de openbare lichamen Bonaire, Sint Eustatius en Saba, bedoeld in de artikelen:
 
@@ -36,7 +62,7 @@ wordt vastgesteld op respectievelijk -0,9%, -0,5% en -0,9%.
 
 3. Het gemiddelde consumentenprijsindexcijfer voor 2016, bedoeld in [artikel 7, vierde lid, van de Arbeidsvrederegeling BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028762&artikel=7), wordt vastgesteld op -0,77%.
 
-#### Artikel 2. [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459)
+##### Artikel 2. [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459)
 
 1. Het pensioenbedrag, genoemd in [artikel 7 van de Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459&artikel=7), wordt vastgesteld op:
 
@@ -82,7 +108,7 @@ per maand.
 
 5. Het percentage van de premie, bedoeld in [artikel 26, eerste lid, van de Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459&artikel=26), wordt voor het jaar 2016 vastgesteld op 25%.
 
-#### Artikel 3. [Wet algemene weduwen- en wezenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028387)
+##### Artikel 3. [Wet algemene weduwen- en wezenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028387)
 
 1. Het bedrag van het weduwenpensioen per maand, genoemd in [artikel 11, eerste lid, onderdeel a, van de Wet algemene weduwen- en wezenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&artikel=11), wordt vastgesteld op:
 
@@ -196,7 +222,7 @@ en voor een kind, bedoeld in [artikel 9, vijfde lid, van die wet](https://wetten
 
 9. Het percentage van de premie, bedoeld in [artikel 29, eerste lid, van de Wet algemene weduwen- en wezenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&artikel=29), wordt voor het jaar 2016 vastgesteld op 1,3%.
 
-#### Artikel 4. [Wet minimumlonen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028170)
+##### Artikel 4. [Wet minimumlonen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028170)
 
 De bedragen van het bruto minimumuurloon, genoemd in [artikel 9, eerste lid, onderdelen a, b en c, van de Wet minimumlonen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028170&artikel=9), worden vastgesteld op:
 
@@ -206,11 +232,11 @@ De bedragen van het bruto minimumuurloon, genoemd in [artikel 9, eerste lid, ond
 
 - c. USD 5,37, indien belanghebbende woonachtig is in het openbaar lichaam Saba.
 
-#### Artikel 5. [Cessantiawet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028304)
+##### Artikel 5. [Cessantiawet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028304)
 
 Het premiepercentage, bedoeld in [artikel 7, derde lid, van de Cessantiawet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=7), wordt voor het jaar 2016 vastgesteld op 0,2%.
 
-#### Artikel 6. [Wet ongevallenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028497)
+##### Artikel 6. [Wet ongevallenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028497)
 
 1. Het bedrag, bedoeld in [artikel 5, negentiende lid, van de Wet ongevallenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=5), wordt vastgesteld:
 
@@ -232,7 +258,7 @@ Het premiepercentage, bedoeld in [artikel 7, derde lid, van de Cessantiawet BES]
 
 2. Het premiepercentage, bedoeld in [artikel 8, tweede lid, van de Wet ongevallenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=8), wordt voor het jaar 2016 vastgesteld op 0,5%.
 
-#### Artikel 7. [Wet ziekteverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028728)
+##### Artikel 7. [Wet ziekteverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028728)
 
 1. Het bedrag, bedoeld in [artikel 5, tweede lid, van de Wet ziekteverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=5), wordt vastgesteld:
 
@@ -254,7 +280,7 @@ Het premiepercentage, bedoeld in [artikel 7, derde lid, van de Cessantiawet BES]
 
 2. Het premiepercentage, bedoeld in [artikel 8, derde lid, van de Wet ziekteverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=8), wordt voor het jaar 2016 vastgesteld op 1,6%.
 
-#### Artikel 8. [Besluit onderstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028595)
+##### Artikel 8. [Besluit onderstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028595)
 
 1. De basisbedragen van de algemene onderstand, genoemd in [artikel 13 van het Besluit onderstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&artikel=13), worden vastgesteld op:
 
@@ -306,15 +332,15 @@ Het premiepercentage, bedoeld in [artikel 7, derde lid, van de Cessantiawet BES]
 
 7. Het bedrag, genoemd in [artikel 17, derde lid, van het Besluit onderstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&artikel=17) wordt vastgesteld op USD 39.
 
-#### Artikel 9. [Regeling Pensioenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028776)
+##### Artikel 9. [Regeling Pensioenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028776)
 
 Wijzigt de Regeling Pensioenwet BES.
 
-#### Artikel 10. [Arbeidsvrederegeling BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028762)
+##### Artikel 10. [Arbeidsvrederegeling BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028762)
 
 Wijzigt de Arbeidsvrederegeling BES.
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2016.
 

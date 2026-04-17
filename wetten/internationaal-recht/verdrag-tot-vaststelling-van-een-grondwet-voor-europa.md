@@ -1,13 +1,32 @@
 ---
 title: "Verdrag tot vaststelling van een Grondwet voor Europa"
 identifier: "BWBV0005879"
-categorie: "Internationaal recht"
-publicatiedatum: 2004-10-29
-laatste_update: 2004-10-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005879"
+country: "nl"
+rank: "verdrag"
+publication_date: "2004-10-29"
+last_updated: "2004-10-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005879"
+soort: "verdrag"
+stam_id: "10004910053"
+version_id: "10005238632"
+internal_id: "C10008087581"
+label_id: "10004906224"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005879/2004-10-29/0"
+intitule_bron: "Trb.2004-275"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2004-11-11"
+intitule_status: "nogniet"
+original_publication: "Trb.2004-275"
+original_published_date: "2004-11-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2004-275"
+jci_1_3: "jci1.3:c:BWBV0005879&z=2004-10-29&g=2004-10-29"
+jci_1_0: "1.0:c:BWBV0005879&g=2004-10-29"
+citeertitel_status: "redactioneel"
+entry_into_force: "2004-11-11"
 ---
-
 # Verdrag tot vaststelling van een Grondwet voor Europa
 
 **Preambule**
@@ -296,17 +315,17 @@ Die, na overlegging van hun in goede en behoorlijke vorm bevonden volmachten, al
 
 ## TITEL I. DEFINITIE EN DOELSTELLINGEN VAN DE UNIE
 
-#### Artikel I-1. Instelling van de Unie
+##### Artikel I-1. Instelling van de Unie
 
 1. Bij deze Grondwet, die geïnspireerd wordt door de wil van de burgers en de staten van Europa om hun gemeenschappelijke toekomst op te bouwen, wordt de Europese Unie ingesteld, waaraan de lidstaten bevoegdheden toedelen om hun gemeenschappelijke doelstellingen te bereiken. De Unie coördineert het beleid van de lidstaten dat gericht is op het bereiken van die doelstellingen en oefent op communautaire wijze de bevoegdheden uit die de lidstaten aan haar toedelen.
 
 2. De Unie staat open voor alle Europese staten die haar waarden eerbiedigen en zich ertoe verbinden deze gezamenlijk uit te dragen.
 
-#### Artikel I-2. De waarden van de Unie
+##### Artikel I-2. De waarden van de Unie
 
 De waarden waarop de Unie berust, zijn eerbied voor de menselijke waardigheid, vrijheid, democratie, gelijkheid, de rechtsstaat en eerbiediging van de mensenrechten, waaronder de rechten van personen die tot minderheden behoren. Deze waarden hebben de lidstaten gemeen in een samenleving die gekenmerkt wordt door pluralisme, non-discriminatie, verdraagzaamheid, rechtvaardigheid, solidariteit en gelijkheid van vrouwen en mannen.
 
-#### Artikel I-3. De doelstellingen van de Unie
+##### Artikel I-3. De doelstellingen van de Unie
 
 1. De Unie heeft als doel de vrede, haar waarden en het welzijn van haar volkeren te bevorderen.
 
@@ -324,13 +343,13 @@ De Unie eerbiedigt haar rijke verscheidenheid van cultuur en taal en ziet toe op
 
 5. De Unie streeft deze doelstellingen met passende middelen na, naargelang van de bevoegdheden die haar daartoe in de Grondwet zijn toegedeeld.
 
-#### Artikel I-4. Fundamentele vrijheden en non-discriminatie
+##### Artikel I-4. Fundamentele vrijheden en non-discriminatie
 
 1. Het vrije verkeer van personen, diensten, goederen en kapitaal, en de vrijheid van vestiging worden overeenkomstig de Grondwet door en binnen de Unie gewaarborgd.
 
 2. Binnen het toepassingsgebied van de Grondwet en onverminderd de bijzondere bepalingen ervan, is iedere discriminatie op grond van nationaliteit verboden.
 
-#### Artikel I-5. De betrekkingen tussen de Unie en de lidstaten
+##### Artikel I-5. De betrekkingen tussen de Unie en de lidstaten
 
 1. De Unie eerbiedigt de gelijkheid van de lidstaten voor de Grondwet alsmede hun nationale identiteit, die besloten ligt in hun politieke en constitutionele basisstructuren, waaronder die voor regionaal en lokaal zelfbestuur. Zij eerbiedigt de essentiële staatsfuncties, met name de verdediging van de territoriale integriteit van de staat, de handhaving van de openbare orde en de bescherming van de nationale veiligheid.
 
@@ -340,15 +359,15 @@ De lidstaten treffen alle algemene en bijzondere maatregelen die geschikt zijn o
 
 De lidstaten vergemakkelijken de vervulling van de taak van de Unie en onthouden zich van alle maatregelen die de verwezenlijking van de doelstellingen van de Unie in gevaar kunnen brengen.
 
-#### Artikel I-6. Het recht van de Unie
+##### Artikel I-6. Het recht van de Unie
 
 De Grondwet en het recht dat de instellingen van de Unie bij de uitoefening van de haar toegedeelde bevoegdheden vaststellen, hebben voorrang boven het recht van de lidstaten.
 
-#### Artikel I-7. Rechtspersoonlijkheid
+##### Artikel I-7. Rechtspersoonlijkheid
 
 De Unie bezit rechtspersoonlijkheid.
 
-#### Artikel I-8. De symbolen van de Unie
+##### Artikel I-8. De symbolen van de Unie
 
 De vlag van de Unie stelt een cirkel van twaalf gouden sterren op een blauw veld voor.
 
@@ -362,7 +381,7 @@ De „Dag van Europa” wordt op 9 mei in de gehele Unie gevierd.
 
 ## TITEL II. GRONDRECHTEN EN BURGERSCHAP VAN DE UNIE
 
-#### Artikel I-9. De grondrechten
+##### Artikel I-9. De grondrechten
 
 1. De Unie erkent de rechten, vrijheden en beginselen die zijn vastgelegd in het [Handvest van de grondrechten van de Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=II&z=2004-10-29&g=2004-10-29), dat deel II vormt.
 
@@ -370,7 +389,7 @@ De „Dag van Europa” wordt op 9 mei in de gehele Unie gevierd.
 
 3. De grondrechten, zoals zij worden gewaarborgd door het [Europees Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden](https://wetten.overheid.nl/jci1.3:c:BWBV0001000) en zoals zij voortvloeien uit de constitutionele tradities die de lidstaten gemeen hebben, maken als algemene beginselen deel uit van het recht van de Unie.
 
-#### Artikel I-10. Het burgerschap van de Unie
+##### Artikel I-10. Het burgerschap van de Unie
 
 1. Eenieder die de nationaliteit van een lidstaat bezit, is burger van de Unie. Het burgerschap van de Unie staat naast het nationale burgerschap en treedt niet in de plaats daarvan.
 
@@ -388,7 +407,7 @@ Deze rechten worden uitgeoefend onder de voorwaarden en binnen de grenzen welke 
 
 ## TITEL III. BEVOEGDHEDEN VAN DE UNIE
 
-#### Artikel I-11. Grondbeginselen
+##### Artikel I-11. Grondbeginselen
 
 1. De afbakening van de bevoegdheden van de Unie wordt beheerst door het beginsel van bevoegdheidstoedeling. De uitoefening van die bevoegdheden wordt beheerst door de beginselen van subsidiariteit en evenredigheid.
 
@@ -400,7 +419,7 @@ De instellingen van de Unie passen het subsidiariteitsbeginsel toe overeenkomsti
 
 4. Krachtens het evenredigheidsbeginsel gaan de inhoud en de vorm van het optreden van de Unie niet verder dan wat nodig is om de doelstellingen van de Grondwet te verwezenlijken. De instellingen van de Unie passen het evenredigheidsbeginsel toe overeenkomstig het Protocol betreffende de toepassing van de beginselen van subsidiariteit en evenredigheid.
 
-#### Artikel I-12. De categorieën van bevoegdheden
+##### Artikel I-12. De categorieën van bevoegdheden
 
 1. In de gevallen waarin bij de Grondwet op een bepaald gebied een exclusieve bevoegdheid aan de Unie wordt toegedeeld, kan alleen de Unie wetgevend optreden en juridisch bindende handelingen vaststellen, en kunnen de lidstaten zulks slechts zelf doen als zij daartoe door de Unie gemachtigd zijn of ter uitvoering van de handelingen van de Unie.
 
@@ -416,7 +435,7 @@ De juridisch bindende handelingen van de Unie die op grond van de bepalingen van
 
 6. De omvang en de voorwaarden voor de uitoefening van de bevoegdheden van de Unie worden geregeld door de bepalingen van [deel III](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&z=2004-10-29&g=2004-10-29) over ieder van die gebieden.
 
-#### Artikel I-13. De gebieden van exclusieve bevoegdheid
+##### Artikel I-13. De gebieden van exclusieve bevoegdheid
 
 1. De Unie is exclusief bevoegd op de volgende gebieden:
 
@@ -432,7 +451,7 @@ De juridisch bindende handelingen van de Unie die op grond van de bepalingen van
 
 2. De Unie is tevens exclusief bevoegd, een internationale overeenkomst te sluiten indien een wetgevingshandeling van de Unie in die sluiting voorziet, indien die sluiting noodzakelijk is om de Unie in staat te stellen haar interne bevoegdheid uit te oefenen of indien die sluiting gevolgen kan hebben voor gemeenschappelijke regels of de strekking daarvan kan wijzigen.
 
-#### Artikel I-14. De gebieden van gedeelde bevoegdheid
+##### Artikel I-14. De gebieden van gedeelde bevoegdheid
 
 1. De Unie heeft een met de lidstaten gedeelde bevoegdheid in de gevallen waarin haar in de Grondwet een bevoegdheid wordt toegedeeld die buiten de in de [artikelen I-13](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=III&artikel=I-13&z=2004-10-29&g=2004-10-29) en [I-17](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=III&artikel=I-17&z=2004-10-29&g=2004-10-29) bedoelde gebieden valt.
 
@@ -464,7 +483,7 @@ De juridisch bindende handelingen van de Unie die op grond van de bepalingen van
 
 4. Op het gebied van ontwikkelingssamenwerking en humanitaire hulp is de Unie bevoegd op te treden en een gemeenschappelijk beleid te voeren; de uitoefening van die bevoegdheid belet de lidstaten niet hun eigen bevoegdheid uit te oefenen.
 
-#### Artikel I-15. De coördinatie van het economisch beleid en het werkgelegenheidsbeleid
+##### Artikel I-15. De coördinatie van het economisch beleid en het werkgelegenheidsbeleid
 
 1. De lidstaten coördineren hun economisch beleid binnen de Unie. Daartoe stelt de Raad van Ministers maatregelen vast, met name globale richtsnoeren voor dat beleid.
 
@@ -474,13 +493,13 @@ Voor de lidstaten die de euro als munt hebben, gelden bijzondere bepalingen.
 
 3. De Unie kan initiatieven nemen ter coördinatie van het sociaal beleid van de lidstaten.
 
-#### Artikel I-16. Het gemeenschappelijk buitenlands en veiligheidsbeleid
+##### Artikel I-16. Het gemeenschappelijk buitenlands en veiligheidsbeleid
 
 1. De bevoegdheid van de Unie met betrekking tot het gemeenschappelijk buitenlands en veiligheidsbeleid bestrijkt alle gebieden van het buitenlands beleid en alle vraagstukken die verband houden met de veiligheid van de Unie, met inbegrip van de geleidelijke bepaling van een gemeenschappelijk defensiebeleid dat kan leiden tot een gemeenschappelijke defensie.
 
 2. De lidstaten geven in een geest van loyaliteit en wederzijdse solidariteit hun actieve en onvoorwaardelijke steun aan het gemeenschappelijk buitenlands en veiligheidsbeleid van de Unie en eerbiedigen het optreden van de Unie op dat gebied. Zij onthouden zich van ieder optreden dat in strijd is met de belangen van de Unie of dat afbreuk zou kunnen doen aan de doeltreffendheid ervan.
 
-#### Artikel I-17. De gebieden voor ondersteunend, coördinerend of aanvullend optreden
+##### Artikel I-17. De gebieden voor ondersteunend, coördinerend of aanvullend optreden
 
 De Unie is bevoegd om ondersteunend, coördinerend of aanvullend op te treden. De gebieden voor dat optreden zijn, wat hun Europese dimensie betreft:
 
@@ -498,7 +517,7 @@ De Unie is bevoegd om ondersteunend, coördinerend of aanvullend op te treden. D
 
 - g. administratieve samenwerking.
 
-#### Artikel I-18. Flexibiliteitsclausule
+##### Artikel I-18. Flexibiliteitsclausule
 
 1. Indien een optreden van de Unie in het kader van de beleidsgebieden van [deel III](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&z=2004-10-29&g=2004-10-29) nodig blijkt om een van de doelstellingen van de Grondwet te verwezenlijken zonder dat de Grondwet in de daartoe vereiste bevoegdheden voorziet, stelt de Raad van Ministers, op voorstel van de Europese Commissie en na goedkeuring door het Europees Parlement, met eenparigheid van stemmen passende maatregelen vast.
 
@@ -510,7 +529,7 @@ De Unie is bevoegd om ondersteunend, coördinerend of aanvullend op te treden. D
 
 ### HOOFDSTUK I. INSTITUTIONEEL KADER
 
-#### Artikel I-19. De instellingen van de Unie
+##### Artikel I-19. De instellingen van de Unie
 
 1. De Unie beschikt over een institutioneel kader, dat ertoe strekt:
 
@@ -536,7 +555,7 @@ Dit institutioneel kader omvat:
 
 2. Iedere instelling handelt binnen de grenzen van de bevoegdheden die haar in de Grondwet zijn toegedeeld en volgens de daarin bepaalde procedures en voorwaarden. De instellingen werken loyaal samen.
 
-#### Artikel I-20. Het Europees Parlement
+##### Artikel I-20. Het Europees Parlement
 
 1. Het Europees Parlement oefent samen met de Raad de wetgevingstaak en de begrotingstaak uit. Het oefent onder de bij de Grondwet bepaalde voorwaarden politieke controle en adviserende taken uit. Het kiest de voorzitter van de Commissie.
 
@@ -548,7 +567,7 @@ De Europese Raad stelt met eenparigheid van stemmen op initiatief van en na goed
 
 4. Het Europees Parlement kiest uit zijn leden de voorzitter en het bureau.
 
-#### Artikel I-21. De Europese Raad
+##### Artikel I-21. De Europese Raad
 
 1. De Europese Raad geeft de nodige impulsen voor de ontwikkeling van de Unie en bepaalt de algemene politieke beleidslijnen en prioriteiten. Hij oefent geen wetgevingstaak uit.
 
@@ -558,7 +577,7 @@ De Europese Raad stelt met eenparigheid van stemmen op initiatief van en na goed
 
 4. Tenzij in de Grondwet anders is bepaald, spreekt de Europese Raad zich bij consensus uit.
 
-#### Artikel I-22. De voorzitter van de Europese Raad
+##### Artikel I-22. De voorzitter van de Europese Raad
 
 1. De Europese Raad kiest zijn voorzitter met gekwalificeerde meerderheid van stemmen voor een periode van tweeëneenhalf jaar. De voorzitter is eenmaal herkiesbaar. Indien de voorzitter verhinderd is of op ernstige wijze tekortschiet, kan de Europese Raad volgens dezelfde procedure zijn mandaat beëindigen.
 
@@ -576,7 +595,7 @@ De voorzitter van de Europese Raad zorgt op zijn niveau en in zijn hoedanigheid 
 
 3. De voorzitter van de Europese Raad kan geen nationaal mandaat uitoefenen.
 
-#### Artikel I-23. De Raad van Ministers
+##### Artikel I-23. De Raad van Ministers
 
 1. De Raad oefent samen met het Europees Parlement de wetgevingstaak en de begrotingstaak uit. Hij oefent onder de bij de Grondwet bepaalde voorwaarden beleidsbepalende en coördinerende taken uit.
 
@@ -584,7 +603,7 @@ De voorzitter van de Europese Raad zorgt op zijn niveau en in zijn hoedanigheid 
 
 3. Tenzij in de Grondwet anders is bepaald, besluit de Raad met gekwalificeerde meerderheid van stemmen.
 
-#### Artikel I-24. De formaties van de Raad van Ministers
+##### Artikel I-24. De formaties van de Raad van Ministers
 
 1. De Raad komt in verschillende formaties bijeen.
 
@@ -602,7 +621,7 @@ De Raad Algemene Zaken bereidt in samenspraak met de voorzitter van de Europese 
 
 7. Het voorzitterschap van de andere Raadsformaties dan de formatie Buitenlandse Zaken wordt volgens een toerbeurtsysteem op basis van gelijkheid uitgeoefend door de vertegenwoordigers van de lidstaten in de Raad, onder de bij een Europees besluit van de Europese Raad bepaalde voorwaarden. De Europese Raad besluit met gekwalificeerde meerderheid van stemmen.
 
-#### Artikel I-25. Definitie van gekwalificeerde meerderheid van stemmen in de Europese Raad en in de Raad
+##### Artikel I-25. Definitie van gekwalificeerde meerderheid van stemmen in de Europese Raad en in de Raad
 
 1. Onder gekwalificeerde meerderheid van stemmen wordt verstaan ten minste 55% van de leden van de Raad die ten minste vijftien in aantal zijn en lidstaten vertegenwoordigen waarvan de bevolking ten minste 65% uitmaakt van de bevolking van de Unie.
 
@@ -614,7 +633,7 @@ Een blokkerende minderheid moet ten minste uit vier leden van de Raad bestaan; i
 
 4. In de Europese Raad nemen de voorzitter en de voorzitter van de Europese Commissie niet deel aan de stemming.
 
-#### Artikel I-26. De Europese Commissie
+##### Artikel I-26. De Europese Commissie
 
 1. De Commissie bevordert het algemeen belang van de Unie en neemt daartoe passende initiatieven. Zij ziet toe op de toepassing zowel van de Grondwet als van de maatregelen die de instellingen krachtens de Grondwet vaststellen. Onder de controle van het Hof van Justitie van de Europese Unie ziet zij toe op de toepassing van het recht van de Unie. Zij voert de begroting uit en beheert de programma's. Zij oefent onder de bij de Grondwet bepaalde voorwaarden coördinerende, uitvoerende en beheerstaken uit. Zij zorgt voor de externe vertegenwoordiging van de Unie, behalve wat betreft het gemeenschappelijk buitenlands en veiligheidsbeleid en de andere bij de Grondwet bepaalde gevallen. Zij neemt de initiatieven tot de jaarlijkse en meerjarige programmering van de Unie om interinstitutionele akkoorden tot stand te brengen.
 
@@ -638,7 +657,7 @@ De leden van de Commissie worden volgens een toerbeurtsysteem op basis van gelij
 
 8. De Commissie legt als college verantwoording af aan het Europees Parlement. Het Europees Parlement kan zich overeenkomstig [Artikel III-340](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=I&paragraaf=1&artikel=III-340&z=2004-10-29&g=2004-10-29) uitspreken over een motie van afkeuring tegen de Commissie. Indien een dergelijke motie wordt aangenomen, nemen de leden van de Commissie collectief ontslag en legt ook de minister van Buitenlandse Zaken van de Unie zijn functie in de Commissie neer.
 
-#### Artikel I-27. De voorzitter van de Europese Commissie
+##### Artikel I-27. De voorzitter van de Europese Commissie
 
 1. Rekening houdend met de verkiezingen voor het Europees Parlement en na passende raadpleging, draagt de Europese Raad met gekwalificeerde meerderheid van stemmen bij het Europees Parlement een kandidaat voor het ambt van voorzitter van de Commissie voor. Deze kandidaat wordt door het Parlement bij meerderheid van zijn leden gekozen. Indien de kandidaat bij de stemming geen meerderheid behaalt, draagt de Europese Raad met gekwalificeerde meerderheid van stemmen binnen een maand een nieuwe kandidaat voor, die volgens dezelfde procedure door het Parlement wordt gekozen.
 
@@ -656,7 +675,7 @@ De voorzitter, de minister van Buitenlandse Zaken van de Unie en de overige lede
 
 Een lid van de Commissie neemt ontslag indien de voorzitter hem daarom verzoekt. De minister van Buitenlandse Zaken van de Unie neemt ontslag overeenkomstig de in [Artikel I-28, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=IV&hoofdstuk=I&artikel=I-28&z=2004-10-29&g=2004-10-29), bepaalde procedure indien de voorzitter hem daarom verzoekt.
 
-#### Artikel I-28. De minister van Buitenlandse Zaken van de Unie
+##### Artikel I-28. De minister van Buitenlandse Zaken van de Unie
 
 1. De Europese Raad benoemt met instemming van de voorzitter van de Commissie met gekwalificeerde meerderheid van stemmen de minister van Buitenlandse Zaken van de Unie. De Europese Raad kan zijn mandaat volgens dezelfde procedure beëindigen.
 
@@ -666,7 +685,7 @@ Een lid van de Commissie neemt ontslag indien de voorzitter hem daarom verzoekt.
 
 4. De minister van Buitenlandse Zaken van de Unie is een van de vice-voorzitters van de Commissie. Hij ziet toe op de samenhang van het externe optreden van de Unie. In de Commissie is hij belast met de taken van de Commissie op het gebied van de externe betrekkingen en met de coördinatie van de overige aspecten van het externe optreden van de Unie. Bij de uitoefening van deze taken in de Commissie, en alleen binnen het bestek daarvan, is de minister van Buitenlandse Zaken van de Unie onderworpen aan de procedures voor de werking van de Commissie, voorzover dit verenigbaar is met de leden 2 en 3.
 
-#### Artikel I-29. Het Hof van Justitie van de Europese Unie
+##### Artikel I-29. Het Hof van Justitie van de Europese Unie
 
 1. Het Hof van Justitie van de Europese Unie omvat het Hof van Justitie, het Gerecht en gespecialiseerde rechtbanken. Het verzekert de eerbiediging van het recht bij de uitlegging en toepassing van de Grondwet.
 
@@ -688,7 +707,7 @@ De rechters en de advocaten-generaal van het Hof van Justitie en de rechters van
 
 ### HOOFDSTUK II. DE OVERIGE INSTELLINGEN EN ADVIESORGANEN VAN DE UNIE
 
-#### Artikel I-30. De Europese Centrale Bank
+##### Artikel I-30. De Europese Centrale Bank
 
 1. De Europese Centrale Bank en de nationale centrale banken vormen het Europees Stelsel van Centrale Banken. De Europese Centrale Bank en de nationale centrale banken van de lidstaten die de euro als munt hebben, welke het eurostelsel vormen, voeren het monetair beleid van de Unie.
 
@@ -702,7 +721,7 @@ De rechters en de advocaten-generaal van het Hof van Justitie en de rechters van
 
 6. De besluitvormingsorganen van de Europese Centrale Bank, de samenstelling en de wijze van functioneren ervan zijn omschreven in de artikelen [III-382](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=I&paragraaf=6&artikel=III-382&z=2004-10-29&g=2004-10-29) en [III-383](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=I&paragraaf=6&artikel=III-383&z=2004-10-29&g=2004-10-29), alsmede in het statuut van het Europees Stelsel van Centrale Banken en van de Europese Centrale Bank.
 
-#### Artikel I-31. De Rekenkamer
+##### Artikel I-31. De Rekenkamer
 
 1. De Rekenkamer is een instelling. Zij verricht de controle van de rekeningen van de Unie.
 
@@ -710,7 +729,7 @@ De rechters en de advocaten-generaal van het Hof van Justitie en de rechters van
 
 3. In de Rekenkamer heeft één onderdaan van iedere lidstaat zitting. De leden van de Rekenkamer oefenen hun ambt volkomen onafhankelijk uit, in het algemeen belang van de Unie.
 
-#### Artikel I-32. De adviesorganen van de Unie
+##### Artikel I-32. De adviesorganen van de Unie
 
 1. Het Europees Parlement, de Raad en de Commissie worden bijgestaan door een Comité van de Regio's en een Economisch en Sociaal Comité, die een adviserende taak hebben.
 
@@ -728,7 +747,7 @@ De in de leden 2 en 3 bedoelde regels betreffende de aard van hun samenstelling 
 
 ### HOOFDSTUK I. GEMEENSCHAPPELIJKE BEPALINGEN
 
-#### Artikel I-33. De rechtshandelingen van de Unie
+##### Artikel I-33. De rechtshandelingen van de Unie
 
 1. De instellingen maken bij de uitoefening van de bevoegdheden van de Unie overeenkomstig [deel III](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&z=2004-10-29&g=2004-10-29) gebruik van de volgende rechtsinstrumenten: de Europese wet, de Europese kaderwet, de Europese verordening, het Europees besluit, aanbevelingen en adviezen.
 
@@ -744,7 +763,7 @@ De aanbevelingen en adviezen hebben geen bindende kracht.
 
 2. Indien bij het Europees Parlement en de Raad een ontwerp van wetgevingshandeling is ingediend, stellen zij geen handelingen vast waarin de op het betrokken gebied toepasselijke wetgevingsprocedure niet voorziet.
 
-#### Artikel I-34. De wetgevingshandelingen
+##### Artikel I-34. De wetgevingshandelingen
 
 1. Europese wetten en kaderwetten worden op voorstel van de Commissie door het Europees Parlement en de Raad gezamenlijk vastgesteld overeenkomstig de in [artikel III-396](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=4&artikel=III-396&z=2004-10-29&g=2004-10-29) bedoelde gewone wetgevingsprocedure. Indien deze twee instellingen geen overeenstemming bereiken, is de wetgevingshandeling niet vastgesteld.
 
@@ -752,7 +771,7 @@ De aanbevelingen en adviezen hebben geen bindende kracht.
 
 3. In de bij de Grondwet bepaalde specifieke gevallen kunnen Europese wetten en kaderwetten op initiatief van een groep van lidstaten of van het Europees Parlement, op aanbeveling van de Europese Centrale Bank of op verzoek van het Hof van Justitie of van de Europese Investeringsbank worden vastgesteld.
 
-#### Artikel I-35. Handelingen, niet zijnde wetgevingshandelingen
+##### Artikel I-35. Handelingen, niet zijnde wetgevingshandelingen
 
 1. De Europese Raad stelt in de bij de Grondwet bepaalde gevallen Europese besluiten vast.
 
@@ -760,7 +779,7 @@ De aanbevelingen en adviezen hebben geen bindende kracht.
 
 3. De Raad stelt aanbevelingen vast. De Raad besluit op voorstel van de Commissie in alle gevallen waarin bij de Grondwet is bepaald dat hij handelingen op voorstel van de Commissie vaststelt. De Raad besluit met eenparigheid van stemmen op de gebieden waarop handelingen van de Unie met eenparigheid van stemmen moeten worden vastgesteld. De Commissie, alsmede de Europese Centrale Bank in de bij de Grondwet bepaalde specifieke gevallen, stellen aanbevelingen vast.
 
-#### Artikel I-36. Gedelegeerde Europese verordeningen
+##### Artikel I-36. Gedelegeerde Europese verordeningen
 
 1. In de Europese wetten en kaderwetten kan aan de Commissie de bevoegdheid worden overgedragen gedelegeerde Europese verordeningen vast te stellen ter aanvulling of wijziging van bepaalde niet-wezenlijke onderdelen van de wet of kaderwet.
 
@@ -774,7 +793,7 @@ In de Europese wetten en kaderwetten worden uitdrukkelijk de doelstellingen, de 
 
 Voor de toepassing van het bepaalde onder a en b besluit het Europees Parlement bij meerderheid van zijn leden en besluit de Raad met gekwalificeerde meerderheid van stemmen.
 
-#### Artikel I-37. De uitvoeringshandelingen
+##### Artikel I-37. De uitvoeringshandelingen
 
 1. De lidstaten nemen alle maatregelen van intern recht die nodig zijn ter uitvoering van de juridisch bindende handelingen van de Unie.
 
@@ -784,13 +803,13 @@ Voor de toepassing van het bepaalde onder a en b besluit het Europees Parlement 
 
 4. De uitvoeringshandelingen van de Unie hebben de vorm van een Europese uitvoeringsverordening of een Europees uitvoeringsbesluit.
 
-#### Artikel I-38. Beginselen die de rechtshandelingen van de Unie gemeen hebben
+##### Artikel I-38. Beginselen die de rechtshandelingen van de Unie gemeen hebben
 
 1. Wanneer de Grondwet niet bepaalt welk soort van handeling moet worden vastgesteld, maken de instellingen zelf per afzonderlijk geval een keuze, met inachtneming van de toepasselijke procedures en van het in [artikel I-11](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=III&artikel=I-11&z=2004-10-29&g=2004-10-29) neergelegde evenredigheidsbeginsel.
 
 2. Rechtshandelingen worden met redenen omkleed en verwijzen naar de voorstellen, initiatieven, aanbevelingen, verzoeken of adviezen waarin de Grondwet voorziet.
 
-#### Artikel I-39. Bekendmaking en inwerkingtreding
+##### Artikel I-39. Bekendmaking en inwerkingtreding
 
 1. Europese wetten en kaderwetten die volgens de gewone wetgevingsprocedure zijn vastgesteld, worden door de voorzitter van het Europees Parlement en door de voorzitter van de Raad ondertekend.
 
@@ -806,7 +825,7 @@ Europese verordeningen en Europese besluiten die niet vermelden tot wie zij geri
 
 ### HOOFDSTUK II. BIJZONDERE BEPALINGEN
 
-#### Artikel I-40. Bijzondere bepalingen inzake het gemeenschappelijk buitenlands en veiligheidsbeleid
+##### Artikel I-40. Bijzondere bepalingen inzake het gemeenschappelijk buitenlands en veiligheidsbeleid
 
 1. De Europese Unie voert een gemeenschappelijk buitenlands en veiligheidsbeleid dat berust op de ontwikkeling van de wederzijdse politieke solidariteit van de lidstaten, de bepaling van aangelegenheden van algemeen belang en de totstandbrenging van een steeds toenemende convergentie van het optreden van de lidstaten.
 
@@ -824,7 +843,7 @@ Europese verordeningen en Europese besluiten die niet vermelden tot wie zij geri
 
 8. Het Europees Parlement wordt regelmatig geraadpleegd over de voornaamste aspecten en de fundamentele keuzen op het gebied van het gemeenschappelijk buitenlands en veiligheidsbeleid. Het wordt geïnformeerd over de evolutie daarvan.
 
-#### Artikel I-41. Bijzondere bepalingen inzake het gemeenschappelijk veiligheids- en defensiebeleid
+##### Artikel I-41. Bijzondere bepalingen inzake het gemeenschappelijk veiligheids- en defensiebeleid
 
 1. Het gemeenschappelijk veiligheids- en defensiebeleid is een integrerend deel van het gemeenschappelijk buitenlands en veiligheidsbeleid. Het voorziet de Unie van een operationeel vermogen dat op civiele en militaire middelen steunt. De Unie kan daarvan gebruik maken voor missies buiten het grondgebied van de Unie met het oog op vredeshandhaving, conflictpreventie en versterking van de internationale veiligheid overeenkomstig de beginselen van het [Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143). De uitvoering van deze taken berust op de door de lidstaten beschikbaar gestelde vermogens.
 
@@ -848,7 +867,7 @@ De verbintenissen en de samenwerking op dit gebied blijven in overeenstemming me
 
 8. Het Europees Parlement wordt regelmatig geraadpleegd over de voornaamste aspecten en de fundamentele keuzen op het gebied van het gemeenschappelijk veiligheids- en defensiebeleid. Het wordt geïnformeerd over de ontwikkeling daarvan.
 
-#### Artikel I-42. Bijzondere bepalingen inzake de ruimte van vrijheid, veiligheid en recht
+##### Artikel I-42. Bijzondere bepalingen inzake de ruimte van vrijheid, veiligheid en recht
 
 1. De Unie is een ruimte van vrijheid, veiligheid en recht:
 
@@ -862,7 +881,7 @@ De verbintenissen en de samenwerking op dit gebied blijven in overeenstemming me
 
 3. De lidstaten hebben een recht van initiatief op het gebied van politiële en justitiële samenwerking in strafzaken, overeenkomstig [artikel III-264](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=1&artikel=III-264&z=2004-10-29&g=2004-10-29).
 
-#### Artikel I-43. De solidariteitsclausule
+##### Artikel I-43. De solidariteitsclausule
 
 1. De Unie en de lidstaten treden uit solidariteit gezamenlijk op indien een lidstaat getroffen wordt door een terroristische aanval, een natuurramp of een door de mens veroorzaakte ramp. De Unie maakt van alle tot haar beschikking staande instrumenten, waaronder de door de lidstaten ter beschikking gestelde militaire middelen, gebruik om:
 
@@ -880,7 +899,7 @@ De verbintenissen en de samenwerking op dit gebied blijven in overeenstemming me
 
 ### HOOFDSTUK III. NAUWERE SAMENWERKING
 
-#### Artikel I-44. Nauwere samenwerking
+##### Artikel I-44. Nauwere samenwerking
 
 1. De lidstaten die onderling een nauwere samenwerking wensen aan te gaan in het kader van de niet-exclusieve bevoegdheden van de Unie, kunnen gebruik maken van de instellingen van de Unie en die bevoegdheden uitoefenen op grond van de terzake geldende bepalingen van de Grondwet, binnen de grenzen van en overeenkomstig het bepaalde in dit artikel en in de [artikelen III-416 tot en met III-423](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=III&artikel=III-416&z=2004-10-29&g=2004-10-29).
 
@@ -902,11 +921,11 @@ In afwijking van de derde en de vierde alinea wordt, wanneer de Raad niet beslui
 
 ## TITEL VI. HET DEMOCRATISCH BESTEL VAN DE UNIE
 
-#### Artikel I-45. Het beginsel van democratische gelijkheid
+##### Artikel I-45. Het beginsel van democratische gelijkheid
 
 De Unie eerbiedigt in al haar activiteiten het beginsel van gelijkheid van haar burgers, die gelijke aandacht genieten van haar instellingen, organen en instanties.
 
-#### Artikel I-46. Het beginsel van de representatieve democratie
+##### Artikel I-46. Het beginsel van de representatieve democratie
 
 1. De werking van de Unie is gegrond op de representatieve democratie.
 
@@ -918,7 +937,7 @@ De lidstaten worden in de Europese Raad vertegenwoordigd door hun staatshoofd of
 
 4. De politieke partijen op Europees niveau dragen bij tot de vorming van een Europees politiek bewustzijn en tot de uiting van de wil van de burgers van de Unie.
 
-#### Artikel I-47. Het beginsel van de participerende democratie
+##### Artikel I-47. Het beginsel van de participerende democratie
 
 1. De instellingen bieden de burgers en de representatieve organisaties langs passende wegen de mogelijkheid hun mening over alle onderdelen van het optreden van de Unie kenbaar te maken en daarover in het openbaar in discussie te treden.
 
@@ -928,17 +947,17 @@ De lidstaten worden in de Europese Raad vertegenwoordigd door hun staatshoofd of
 
 4. Wanneer ten minste één miljoen burgers van de Unie, afkomstig uit een significant aantal lidstaten, van oordeel zijn dat inzake een aangelegenheid een rechtshandeling van de Unie nodig is ter uitvoering van de Grondwet, kunnen zij het initiatief nemen de Commissie te verzoeken binnen het kader van de haar toegedeelde bevoegdheden een passend voorstel daartoe in te dienen. De procedures en voorwaarden voor de indiening van een dergelijk burgerinitiatief, met inbegrip van het minimumaantal lidstaten waaruit de burgers die het verzoek indienen, afkomstig dienen te zijn, worden bij Europese wet vastgesteld.
 
-#### Artikel I-48. De sociale partners en de autonome sociale dialoog
+##### Artikel I-48. De sociale partners en de autonome sociale dialoog
 
 De Unie erkent en bevordert de rol van de sociale partners op het niveau van de Unie, en houdt daarbij rekening met de verschillen tussen de nationale stelsels. Zij bevordert hun onderlinge dialoog, met inachtneming van hun autonomie.
 
 De tripartiete sociale top voor groei en werkgelegenheid levert een bijdrage tot de sociale dialoog.
 
-#### Artikel I-49. De Europese ombudsman
+##### Artikel I-49. De Europese ombudsman
 
 Een door het Europees Parlement gekozen Europese ombudsman neemt onder de bij de Grondwet bepaalde voorwaarden kennis van klachten betreffende gevallen van wanbeheer in het optreden van de instellingen, organen en instanties van de Unie. Hij onderzoekt die klachten en brengt terzake verslag uit. De Europese ombudsman verricht zijn werkzaamheden in volledige onafhankelijkheid.
 
-#### Artikel I-50. Transparantie van de werkzaamheden van de instellingen, organen en instanties van de Unie
+##### Artikel I-50. Transparantie van de werkzaamheden van de instellingen, organen en instanties van de Unie
 
 1. Om goed bestuur te bevorderen en de deelneming van het maatschappelijk middenveld te waarborgen, werken de instellingen, organen en instanties van de Unie in een zo groot mogelijke openheid.
 
@@ -950,13 +969,13 @@ Bij Europese wet worden de algemene beginselen en de beperkingen vastgesteld die
 
 4. De instellingen, organen en instanties stellen overeenkomstig de in lid 3 bedoelde Europese wet in hun reglement van orde specifieke bepalingen betreffende de inzage in hun documenten vast.
 
-#### Artikel I-51. De bescherming van persoonsgegevens
+##### Artikel I-51. De bescherming van persoonsgegevens
 
 1. Eenieder heeft recht op bescherming van de hem betreffende persoonsgegevens.
 
 2. De voorschriften betreffende de bescherming van natuurlijke personen ten aanzien van de verwerking van persoonsgegevens door de instellingen, de organen en de instanties van de Unie, alsook door de lidstaten, bij de uitoefening van activiteiten die binnen het toepassingsgebied van het recht van de Unie vallen, alsmede de voorschriften betreffende het vrije verkeer van die gegevens, worden bij Europese wet of kaderwet vastgesteld. Op de naleving van deze voorschriften wordt toezicht uitgeoefend door onafhankelijke autoriteiten.
 
-#### Artikel I-52. De status van kerken en van niet-confessionele organisaties
+##### Artikel I-52. De status van kerken en van niet-confessionele organisaties
 
 1. De Unie eerbiedigt de status die kerken en religieuze verenigingen en gemeenschappen volgens het nationaal recht in de lidstaten hebben, en doet daaraan geen afbreuk.
 
@@ -966,7 +985,7 @@ Bij Europese wet worden de algemene beginselen en de beperkingen vastgesteld die
 
 ## TITEL VII. FINANCIËN VAN DE UNIE
 
-#### Artikel I-53. De budgettaire en financiële beginselen
+##### Artikel I-53. De budgettaire en financiële beginselen
 
 1. Alle ontvangsten en uitgaven van de Unie worden overeenkomstig [deel III](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&z=2004-10-29&g=2004-10-29) voor ieder begrotingsjaar geraamd en opgenomen in de begroting van de Unie.
 
@@ -982,7 +1001,7 @@ Bij Europese wet worden de algemene beginselen en de beperkingen vastgesteld die
 
 7. De Unie en de lidstaten bestrijden overeenkomstig [artikel III-415](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=II&afdeling=5&artikel=III-415&z=2004-10-29&g=2004-10-29) fraude en alle andere onwettige activiteiten waardoor de financiële belangen van de Unie worden geschaad.
 
-#### Artikel I-54. De eigen middelen van de Unie
+##### Artikel I-54. De eigen middelen van de Unie
 
 1. De Unie voorziet zich van de middelen die nodig zijn om haar doelstellingen te verwezenlijken en aan haar beleid uitvoering te geven.
 
@@ -992,7 +1011,7 @@ Bij Europese wet worden de algemene beginselen en de beperkingen vastgesteld die
 
 4. Bij Europese wet van de Raad worden de uitvoeringsmaatregelen voor het stelsel van eigen middelen van de Unie vastgesteld voorzover de krachtens lid 3 vastgestelde Europese wet daarin voorziet. De Raad besluit na goedkeuring door het Europees Parlement.
 
-#### Artikel I-55. Het meerjarig financieel kader
+##### Artikel I-55. Het meerjarig financieel kader
 
 1. Het meerjarig financieel kader beoogt een ordelijke ontwikkeling van de uitgaven van de Unie te waarborgen binnen de grenzen van haar eigen middelen. In het kader worden overeenkomstig [artikel III-402](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=II&afdeling=1&artikel=III-402&z=2004-10-29&g=2004-10-29) de jaarlijkse maximumbedragen aan kredieten voor vastleggingen per uitgavencategorie vastgesteld.
 
@@ -1002,13 +1021,13 @@ Bij Europese wet worden de algemene beginselen en de beperkingen vastgesteld die
 
 4. De Europese Raad kan met eenparigheid van stemmen een Europees besluit vaststellen op grond waarvan de Raad met gekwalificeerde meerderheid van stemmen kan besluiten bij de vaststelling van de in lid 2 bedoelde Europese wet van de Raad.
 
-#### Artikel I-56. De begroting van de Unie
+##### Artikel I-56. De begroting van de Unie
 
 De jaarlijkse begroting van de Unie wordt overeenkomstig [artikel III-404](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=II&afdeling=2&artikel=III-404&z=2004-10-29&g=2004-10-29) bij Europese wet vastgesteld.
 
 ## TITEL VIII. DE UNIE EN HAAR NAASTE OMGEVING
 
-#### Artikel I-57. De Unie en haar naaste omgeving
+##### Artikel I-57. De Unie en haar naaste omgeving
 
 1. De Unie ontwikkelt met de naburige landen bijzondere betrekkingen, die erop gericht zijn een ruimte van welvaart en goed nabuurschap tot stand te brengen welke stoelt op de waarden van de Unie en welke gekenmerkt wordt door nauwe en vreedzame betrekkingen die gebaseerd zijn op samenwerking.
 
@@ -1016,13 +1035,13 @@ De jaarlijkse begroting van de Unie wordt overeenkomstig [artikel III-404](https
 
 ## TITEL IX. HET LIDMAATSCHAP VAN DE UNIE
 
-#### Artikel I-58. Criteria en procedure voor toetreding tot de Unie
+##### Artikel I-58. Criteria en procedure voor toetreding tot de Unie
 
 1. De Unie staat open voor alle Europese staten die de in [artikel I-2](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=I&artikel=I-2&z=2004-10-29&g=2004-10-29) bedoelde waarden eerbiedigen en zich ertoe verbinden deze gezamenlijk uit te dragen.
 
 2. Iedere Europese staat die lid wenst te worden van de Unie, richt daartoe een verzoek tot de Raad. Het Europees Parlement en de nationale parlementen worden van dit verzoek in kennis gesteld. De Raad besluit met eenparigheid van stemmen, na raadpleging van de Commissie en na goedkeuring door het Europees Parlement, dat zich uitspreekt bij meerderheid van zijn leden. De voorwaarden en nadere regels voor de toelating worden neergelegd in een akkoord tussen de lidstaten en de kandidaat-lidstaat. Dit akkoord wordt door alle overeenkomstsluitende staten overeenkomstig hun onderscheiden grondwettelijke bepalingen aan bekrachtiging onderworpen.
 
-#### Artikel I-59. Schorsing van bepaalde rechten die uit het lidmaatschap van de Unie voortvloeien
+##### Artikel I-59. Schorsing van bepaalde rechten die uit het lidmaatschap van de Unie voortvloeien
 
 1. De Raad kan op een met redenen omkleed initiatief van eenderde van de lidstaten, op een met redenen omkleed initiatief van het Europees Parlement of op voorstel van de Commissie een Europees besluit vaststellen waarin wordt geconstateerd dat er een duidelijk gevaar bestaat voor een ernstige schending door een lidstaat van de in [artikel I-2](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=I&artikel=I-2&z=2004-10-29&g=2004-10-29) bedoelde waarden. De Raad besluit met een meerderheid van viervijfde van zijn leden, na goedkeuring door het Europees Parlement. Alvorens die constatering te doen, hoort de Raad de betrokken lidstaat en kan hij die lidstaat volgens dezelfde procedure aanbevelingen doen.
 
@@ -1044,7 +1063,7 @@ Indien de Raad, ten vervolge op een overeenkomstig lid 3 vastgesteld besluit tot
 
 6. Voor de toepassing van dit artikel besluit het Europees Parlement met een meerderheid van tweederde der uitgebrachte stemmen welke tevens de meerderheid van zijn leden vertegenwoordigt.
 
-#### Artikel I-60. Vrijwillige terugtrekking uit de Unie
+##### Artikel I-60. Vrijwillige terugtrekking uit de Unie
 
 1. Een lidstaat kan overeenkomstig zijn grondwettelijke bepalingen besluiten zich uit de Unie terug te trekken.
 
@@ -1062,17 +1081,17 @@ Onder gekwalificeerde meerderheid van stemmen wordt verstaan ten minste 72% van 
 
 ## TITEL I. WAARDIGHEID
 
-#### Artikel II-61. De menselijke waardigheid
+##### Artikel II-61. De menselijke waardigheid
 
 De menselijke waardigheid is onschendbaar. Zij moet worden geëerbiedigd en beschermd.
 
-#### Artikel II-62. Het recht op leven
+##### Artikel II-62. Het recht op leven
 
 1. Eenieder heeft recht op leven.
 
 2. Niemand wordt tot de doodstraf veroordeeld of terechtgesteld.
 
-#### Artikel II-63. Het recht op menselijke integriteit
+##### Artikel II-63. Het recht op menselijke integriteit
 
 1. Eenieder heeft recht op lichamelijke en geestelijke integriteit.
 
@@ -1086,11 +1105,11 @@ De menselijke waardigheid is onschendbaar. Zij moet worden geëerbiedigd en besc
 
 - d. het verbod van het reproductief kloneren van mensen.
 
-#### Artikel II-64. Het verbod van folteringen en van onmenselijke of vernederende behandelingen of bestraffingen
+##### Artikel II-64. Het verbod van folteringen en van onmenselijke of vernederende behandelingen of bestraffingen
 
 Niemand mag worden onderworpen aan folteringen of aan onmenselijke of vernederende behandelingen of bestraffingen.
 
-#### Artikel II-65. Het verbod van slavernij en dwangarbeid
+##### Artikel II-65. Het verbod van slavernij en dwangarbeid
 
 1. Niemand mag in slavernij of dienstbaarheid worden gehouden.
 
@@ -1100,15 +1119,15 @@ Niemand mag worden onderworpen aan folteringen of aan onmenselijke of vernederen
 
 ## TITEL II. VRIJHEDEN
 
-#### Artikel II-66. Het recht op vrijheid en veiligheid
+##### Artikel II-66. Het recht op vrijheid en veiligheid
 
 Eenieder heeft recht op vrijheid en veiligheid van zijn persoon.
 
-#### Artikel II-67. De eerbiediging van het privé-leven en van het familie- en gezinsleven
+##### Artikel II-67. De eerbiediging van het privé-leven en van het familie- en gezinsleven
 
 Een ieder heeft recht op eerbiediging van zijn privé-leven, zijn familie- en gezinsleven, zijn woning en zijn communicatie.
 
-#### Artikel II-68. De bescherming van persoonsgegevens
+##### Artikel II-68. De bescherming van persoonsgegevens
 
 1. Eenieder heeft recht op bescherming van zijn persoonsgegevens.
 
@@ -1116,33 +1135,33 @@ Een ieder heeft recht op eerbiediging van zijn privé-leven, zijn familie- en ge
 
 3. Een onafhankelijke autoriteit ziet erop toe dat deze regels worden nageleefd.
 
-#### Artikel II-69. Het recht te huwen en het recht een gezin te stichten
+##### Artikel II-69. Het recht te huwen en het recht een gezin te stichten
 
 Het recht te huwen en het recht een gezin te stichten worden gewaarborgd volgens de nationale wetten die de uitoefening van deze rechten beheersen.
 
-#### Artikel II-70. De vrijheid van gedachte, geweten en godsdienst
+##### Artikel II-70. De vrijheid van gedachte, geweten en godsdienst
 
 1. Eenieder heeft recht op vrijheid van gedachte, geweten en godsdienst. Dit recht omvat tevens de vrijheid om van godsdienst en overtuiging te veranderen en de vrijheid, hetzij alleen, hetzij met anderen, zowel in het openbaar als privé, zijn godsdienst te belijden of zijn overtuiging tot uitdrukking te brengen in erediensten, in onderricht, in de praktische toepassing ervan en in het onderhouden van geboden en voorschriften.
 
 2. Het recht op dienstweigering op grond van gewetensbezwaren wordt erkend volgens de nationale wetten die de uitoefening van dit recht beheersen.
 
-#### Artikel II-71. De vrijheid van meningsuiting en van informatie
+##### Artikel II-71. De vrijheid van meningsuiting en van informatie
 
 1. Eenieder heeft recht op vrijheid van meningsuiting. Dit recht omvat de vrijheid een mening te hebben en de vrijheid kennis te nemen en te geven van informatie of ideeën, zonder inmenging van enig openbaar gezag en ongeacht grenzen.
 
 2. De vrijheid en de pluriformiteit van de media worden geëerbiedigd.
 
-#### Artikel II-72. De vrijheid van vergadering en vereniging
+##### Artikel II-72. De vrijheid van vergadering en vereniging
 
 1. Eenieder heeft op alle niveaus, met name op politiek, vakverenigings- en maatschappelijk gebied, het recht op vrijheid van vreedzame vergadering en op vrijheid van vereniging, hetgeen mede omvat eenieders recht, ter bescherming van zijn belangen samen met anderen vakverenigingen op te richten of zich daarbij aan te sluiten.
 
 2. Politieke partijen op het niveau van de Unie dragen bij tot de uiting van de politieke wil van de burgers van de Unie.
 
-#### Artikel II-73. De vrijheid van kunsten en wetenschappen
+##### Artikel II-73. De vrijheid van kunsten en wetenschappen
 
 De kunsten en het wetenschappelijk onderzoek zijn vrij. De academische vrijheid wordt geëerbiedigd.
 
-#### Artikel II-74. Het recht op onderwijs
+##### Artikel II-74. Het recht op onderwijs
 
 1. Eenieder heeft recht op onderwijs en op toegang tot beroepsopleiding en bijscholing.
 
@@ -1150,7 +1169,7 @@ De kunsten en het wetenschappelijk onderzoek zijn vrij. De academische vrijheid 
 
 3. De vrijheid om met inachtneming van de democratische beginselen instellingen voor onderwijs op te richten en het recht van ouders om zich voor hun kinderen te verzekeren van het onderwijs en de opvoeding die overeenstemmen met hun godsdienstige, hun levensbeschouwelijke en hun opvoedkundige overtuiging, worden geëerbiedigd volgens de nationale wetten die de uitoefening ervan beheersen.
 
-#### Artikel II-75. De vrijheid van beroep en het recht te werken
+##### Artikel II-75. De vrijheid van beroep en het recht te werken
 
 1. Eenieder heeft het recht te werken en een vrijelijk gekozen of aanvaard beroep uit te oefenen.
 
@@ -1158,21 +1177,21 @@ De kunsten en het wetenschappelijk onderzoek zijn vrij. De academische vrijheid 
 
 3. Onderdanen van derde landen die het toegestaan is op het grondgebied van de lidstaten te werken, hebben recht op arbeidsvoorwaarden die gelijkwaardig zijn aan die welke de burgers van de Unie genieten.
 
-#### Artikel II-76. De vrijheid van ondernemerschap
+##### Artikel II-76. De vrijheid van ondernemerschap
 
 De vrijheid van ondernemerschap wordt erkend overeenkomstig het recht van de Unie en de nationale wetgevingen en praktijken.
 
-#### Artikel II-77. Het recht op eigendom
+##### Artikel II-77. Het recht op eigendom
 
 1. Eenieder heeft het recht de goederen die hij rechtmatig heeft verkregen, in eigendom te bezitten, te gebruiken, erover te beschikken en te vermaken. Niemand mag zijn eigendom worden ontnomen, behalve in het algemeen belang, in de gevallen en onder de voorwaarden waarin de wet voorziet en mits het verlies tijdig op billijke wijze wordt vergoed. Het gebruik van de goederen kan bij wet worden geregeld, voorzover het algemeen belang dit vereist.
 
 2. Intellectuele eigendom is beschermd.
 
-#### Artikel II-78. Het recht op asiel
+##### Artikel II-78. Het recht op asiel
 
 Het recht op asiel is gegarandeerd met inachtneming van de voorschriften van het [Verdrag van Genève](https://wetten.overheid.nl/jci1.3:c:BWBV0001002) van 28 juli 1951 en het [Protocol van 31 januari 1967 betreffende de status van vluchtelingen](onbekend), en overeenkomstig de Grondwet.
 
-#### Artikel II-79. Bescherming bij verwijdering, uitzetting en uitlevering
+##### Artikel II-79. Bescherming bij verwijdering, uitzetting en uitlevering
 
 1. Collectieve uitzetting is verboden.
 
@@ -1180,27 +1199,27 @@ Het recht op asiel is gegarandeerd met inachtneming van de voorschriften van het
 
 ## TITEL III. GELIJKHEID
 
-#### Artikel II-80. Gelijkheid voor de wet
+##### Artikel II-80. Gelijkheid voor de wet
 
 Eenieder is gelijk voor de wet.
 
-#### Artikel II-81. Non-discriminatie
+##### Artikel II-81. Non-discriminatie
 
 1. Iedere discriminatie, met name op grond van geslacht, ras, kleur, etnische of sociale afkomst, genetische kenmerken, taal, godsdienst of overtuiging, politieke of andere denkbeelden, het behoren tot een nationale minderheid, vermogen, geboorte, een handicap, leeftijd of seksuele gerichtheid, is verboden.
 
 2. Binnen de werkingssfeer van de Grondwet en onverminderd de bijzondere bepalingen ervan, is iedere discriminatie op grond van nationaliteit verboden.
 
-#### Artikel II-82. Verscheidenheid van cultuur, godsdienst en taal
+##### Artikel II-82. Verscheidenheid van cultuur, godsdienst en taal
 
 De Unie eerbiedigt de verscheidenheid van cultuur, godsdienst en taal.
 
-#### Artikel II-83. De gelijkheid van vrouwen en mannen
+##### Artikel II-83. De gelijkheid van vrouwen en mannen
 
 De gelijkheid van vrouwen en mannen moet worden gewaarborgd op alle gebieden, met inbegrip van werkgelegenheid, beroep en beloning.
 
 Het beginsel van gelijkheid belet niet dat maatregelen worden gehandhaafd of genomen waarbij specifieke voordelen worden ingesteld ten gunste van het ondervertegenwoordigde geslacht.
 
-#### Artikel II-84. De rechten van het kind
+##### Artikel II-84. De rechten van het kind
 
 1. Kinderen hebben recht op de bescherming en de zorg die nodig zijn voor hun welzijn. Zij mogen vrijelijk hun mening uiten. Aan hun mening in hen betreffende aangelegenheden wordt in overeenstemming met hun leeftijd en rijpheid passend belang gehecht.
 
@@ -1208,51 +1227,51 @@ Het beginsel van gelijkheid belet niet dat maatregelen worden gehandhaafd of gen
 
 3. Ieder kind heeft het recht, regelmatig persoonlijke betrekkingen en rechtstreekse contacten met zijn beide ouders te onderhouden, tenzij dit tegen zijn belangen indruist.
 
-#### Artikel II-85. De rechten van ouderen
+##### Artikel II-85. De rechten van ouderen
 
 De Unie erkent en eerbiedigt het recht van ouderen, een waardig en zelfstandig leven te leiden en aan het maatschappelijk en cultureel leven deel te nemen.
 
-#### Artikel II-86. De integratie van personen met een handicap
+##### Artikel II-86. De integratie van personen met een handicap
 
 De Unie erkent en eerbiedigt het recht van personen met een handicap op maatregelen die beogen hun zelfstandigheid, hun maatschappelijke en beroepsintegratie en hun deelname aan het gemeenschapsleven te bewerkstelligen.
 
 ## TITEL IV. SOLIDARITEIT
 
-#### Artikel II-87. Het recht op informatie en raadpleging van de werknemers binnen de onderneming
+##### Artikel II-87. Het recht op informatie en raadpleging van de werknemers binnen de onderneming
 
 Werknemers en hun vertegenwoordigers moeten in de gevallen en onder de voorwaarden waarin het recht van de Unie en de nationale wetgevingen en praktijken voorzien, de zekerheid hebben, dat zij op passende niveaus tijdig worden geïnformeerd en geraadpleegd.
 
-#### Artikel II-88. Het recht op collectieve onderhandelingen en op collectieve actie
+##### Artikel II-88. Het recht op collectieve onderhandelingen en op collectieve actie
 
 Werkgevers en werknemers of hun respectieve organisaties hebben overeenkomstig het recht van de Unie en de nationale wetgevingen en praktijken het recht, op passende niveaus collectief te onderhandelen en collectieve arbeidsovereenkomsten te sluiten, alsmede, in geval van belangenconflicten, collectieve actie te ondernemen ter verdediging van hun belangen, met inbegrip van staking.
 
-#### Artikel II-89. Het recht op toegang tot arbeidsbemiddeling
+##### Artikel II-89. Het recht op toegang tot arbeidsbemiddeling
 
 Eenieder heeft recht op toegang tot kosteloze arbeidsbemiddeling.
 
-#### Artikel II-90. Bescherming bij kennelijk onredelijk ontslag
+##### Artikel II-90. Bescherming bij kennelijk onredelijk ontslag
 
 Iedere werknemer heeft overeenkomstig het recht van de Unie en de nationale wetgevingen en praktijken recht op bescherming tegen iedere vorm van kennelijk onredelijk ontslag.
 
-#### Artikel II-91. Rechtvaardige en billijke arbeidsomstandigheden en -voorwaarden
+##### Artikel II-91. Rechtvaardige en billijke arbeidsomstandigheden en -voorwaarden
 
 1. Iedere werknemer heeft recht op gezonde, veilige en waardige arbeidsomstandigheden.
 
 2. Iedere werknemer heeft recht op een beperking van de maximumarbeidsduur en op dagelijkse en wekelijkse rusttijden, alsmede op een jaarlijkse vakantie met behoud van loon.
 
-#### Artikel II-92. Het verbod van kinderarbeid en de bescherming van jongeren op het werk
+##### Artikel II-92. Het verbod van kinderarbeid en de bescherming van jongeren op het werk
 
 Kinderarbeid is verboden. De minimumleeftijd voor toelating tot het arbeidsproces mag niet lager zijn dan de leeftijd waarop de leerplicht ophoudt, onverminderd voor jongeren gunstiger regels en behoudens beperkte afwijkingen.
 
 Werkende jongeren hebben recht op arbeidsvoorwaarden die aangepast zijn aan hun leeftijd en zij moeten worden beschermd tegen economische uitbuiting en tegen arbeid die hun veiligheid, hun gezondheid of hun lichamelijke, geestelijke, morele of maatschappelijke ontwikkeling kan schaden, dan wel hun opvoeding in gevaar kan brengen.
 
-#### Artikel II-93. Het beroeps- en gezinsleven
+##### Artikel II-93. Het beroeps- en gezinsleven
 
 1. Het gezin geniet bescherming op juridisch, economisch en sociaal vlak.
 
 2. Teneinde beroeps- en gezinsleven te kunnen combineren, heeft eenieder recht op bescherming tegen ontslag om een reden die verband houdt met moederschap, alsmede recht op betaald moederschapsverlof en recht op ouderschapsverlof na de geboorte of de adoptie van een kind.
 
-#### Artikel II-94. Sociale zekerheid en sociale bijstand
+##### Artikel II-94. Sociale zekerheid en sociale bijstand
 
 1. De Unie erkent en eerbiedigt onder de door het recht van de Unie en de nationale wetgevingen en praktijken gestelde voorwaarden het recht op toegang tot socialezekerheidsvoorzieningen en sociale diensten die bescherming bieden in omstandigheden zoals moederschap, ziekte, arbeidsongevallen, afhankelijkheid of ouderdom, alsmede bij verlies van arbeid.
 
@@ -1260,35 +1279,35 @@ Werkende jongeren hebben recht op arbeidsvoorwaarden die aangepast zijn aan hun 
 
 3. Om sociale uitsluiting en armoede te bestrijden, erkent en eerbiedigt de Unie het recht op sociale bijstand en op bijstand voor huisvesting, teneinde eenieder die niet over voldoende middelen beschikt, onder de door het recht van de Unie en de nationale wetgevingen en praktijken gestelde voorwaarden een waardig bestaan te verzekeren.
 
-#### Artikel II-95. De gezondheidszorg
+##### Artikel II-95. De gezondheidszorg
 
 Eenieder heeft recht op toegang tot preventieve gezondheidszorg en op medische verzorging onder de door de nationale wetgevingen en praktijken gestelde voorwaarden. Bij de bepaling en de uitvoering van het beleid en het optreden van de Unie wordt een hoog niveau van bescherming van de menselijke gezondheid verzekerd.
 
-#### Artikel II-96. De toegang tot diensten van algemeen economisch belang
+##### Artikel II-96. De toegang tot diensten van algemeen economisch belang
 
 De Unie erkent en eerbiedigt overeenkomstig de Grondwet de toegang tot diensten van algemeen economisch belang zoals die in de nationale wetgevingen en praktijken is geregeld, teneinde de sociale en territoriale samenhang van de Unie te bevorderen.
 
-#### Artikel II-97. Milieubescherming
+##### Artikel II-97. Milieubescherming
 
 Een hoog niveau van milieubescherming en verbetering van de kwaliteit van het milieu moeten worden geïntegreerd in het beleid van de Unie en worden gewaarborgd overeenkomstig het beginsel van duurzame ontwikkeling.
 
-#### Artikel II-98. Consumentenbescherming
+##### Artikel II-98. Consumentenbescherming
 
 In het beleid van de Unie wordt zorg gedragen voor een hoog niveau van consumentenbescherming.
 
 ## TITEL V. BURGERSCHAP
 
-#### Artikel II-99. Actief en passief kiesrecht bij de verkiezingen voor het Europees Parlement
+##### Artikel II-99. Actief en passief kiesrecht bij de verkiezingen voor het Europees Parlement
 
 1. Iedere burger van de Unie heeft actief en passief kiesrecht bij de verkiezingen voor het Europees Parlement in de lidstaat waar hij verblijf houdt, onder dezelfde voorwaarden als de onderdanen van die staat.
 
 2. De leden van het Europees Parlement worden gekozen door middel van rechtstreekse, vrije en geheime algemene verkiezingen.
 
-#### Artikel II-100. Actief en passief kiesrecht bij de gemeenteraadsverkiezingen
+##### Artikel II-100. Actief en passief kiesrecht bij de gemeenteraadsverkiezingen
 
 Iedere burger van de Unie heeft actief en passief kiesrecht bij de gemeenteraadsverkiezingen in de lidstaat waar hij verblijf houdt, onder dezelfde voorwaarden als de onderdanen van die staat.
 
-#### Artikel II-101. Recht op behoorlijk bestuur
+##### Artikel II-101. Recht op behoorlijk bestuur
 
 1. Eenieder heeft er recht op dat zijn zaken onpartijdig, billijk en binnen een redelijke termijn door de instellingen, organen en instanties van de Unie worden behandeld.
 
@@ -1304,31 +1323,31 @@ Iedere burger van de Unie heeft actief en passief kiesrecht bij de gemeenteraads
 
 4. Eenieder kan zich in een van de talen van de Grondwet tot de instellingen van de Unie wenden en moet ook in die taal antwoord krijgen.
 
-#### Artikel II-102. Recht van inzage in documenten
+##### Artikel II-102. Recht van inzage in documenten
 
 Iedere burger van de Unie en iedere natuurlijke of rechtspersoon met verblijfplaats of statutaire zetel in een lidstaat heeft een recht van inzage in de documenten van de instellingen, organen en instanties van de Unie, ongeacht het medium waarop zij zijn vastgelegd.
 
-#### Artikel II-103. Europees Ombudsman
+##### Artikel II-103. Europees Ombudsman
 
 Iedere burger van de Unie en iedere natuurlijke of rechtspersoon met verblijfplaats of statutaire zetel in een lidstaat heeft het recht zich tot de Europese ombudsman te wenden in verband met gevallen van wanbeheer in het optreden van de instellingen, organen en instanties van de Unie, met uitzondering van het Hof van Justitie van de Europese Unie bij de uitoefening van zijn gerechtelijke taak.
 
-#### Artikel II-104. Recht van petitie
+##### Artikel II-104. Recht van petitie
 
 Iedere burger van de Unie en iedere natuurlijke of rechtspersoon met verblijfplaats of statutaire zetel in een lidstaat heeft het recht een verzoekschrift tot het Europees Parlement te richten.
 
-#### Artikel II-105. Vrijheid van verkeer en van verblijf
+##### Artikel II-105. Vrijheid van verkeer en van verblijf
 
 1. Iedere burger van de Unie heeft het recht zich vrij op het grondgebied van de lidstaten te verplaatsen en er vrij te verblijven.
 
 2. De vrijheid van verkeer en van verblijf kan overeenkomstig de Grondwet worden toegekend aan onderdanen van derde landen die legaal op het grondgebied van een lidstaat verblijven.
 
-#### Artikel II-106. Diplomatieke en consulaire bescherming
+##### Artikel II-106. Diplomatieke en consulaire bescherming
 
 Iedere burger van de Unie geniet op het grondgebied van derde landen waar de lidstaat waarvan hij onderdaan is, niet vertegenwoordigd is, de bescherming van de diplomatieke en consulaire instanties van de andere lidstaten, onder dezelfde voorwaarden als de onderdanen van die lidstaat.
 
 ## TITEL VI. RECHTSPLEGING
 
-#### Artikel II-107. Recht op een doeltreffende voorziening in rechte en op een onpartijdig gerecht
+##### Artikel II-107. Recht op een doeltreffende voorziening in rechte en op een onpartijdig gerecht
 
 Eenieder wiens door het recht van de Unie gewaarborgde rechten en vrijheden zijn geschonden, heeft recht op een doeltreffende voorziening in rechte, met inachtneming van de in dit artikel gestelde voorwaarden.
 
@@ -1336,13 +1355,13 @@ Eenieder heeft recht op een eerlijke en openbare behandeling van zijn zaak, binn
 
 Rechtsbijstand wordt verleend aan degenen die niet over toereikende financiële middelen beschikken, voorzover die bijstand noodzakelijk is om de daadwerkelijke toegang tot de rechter te waarborgen.
 
-#### Artikel II-108. Vermoeden van onschuld en rechten van de verdediging
+##### Artikel II-108. Vermoeden van onschuld en rechten van de verdediging
 
 1. Eenieder tegen wie een vervolging is ingesteld, wordt voor onschuldig gehouden totdat zijn schuld in rechte is komen vast te staan.
 
 2. Aan eenieder tegen wie een vervolging is ingesteld, wordt de eerbiediging van de rechten van de verdediging gegarandeerd.
 
-#### Artikel II-109. Legaliteitsbeginsel en evenredigheidsbeginsel inzake delicten en straffen
+##### Artikel II-109. Legaliteitsbeginsel en evenredigheidsbeginsel inzake delicten en straffen
 
 1. Niemand mag worden veroordeeld wegens een handelen of nalaten dat geen strafbaar feit naar nationaal of internationaal recht uitmaakte ten tijde van het handelen of nalaten. Evenmin mag een zwaardere straf worden opgelegd dan die welke ten tijde van het begaan van het strafbare feit van toepassing was. Indien de wet na het begaan van het strafbare feit in een lichtere straf voorziet, is die van toepassing.
 
@@ -1350,19 +1369,19 @@ Rechtsbijstand wordt verleend aan degenen die niet over toereikende financiële 
 
 3. De zwaarte van de straf mag niet onevenredig zijn aan het strafbare feit.
 
-#### Artikel II-110. Recht om niet tweemaal in een strafrechtelijke procedure voor hetzelfde delict te worden berecht of gestraft
+##### Artikel II-110. Recht om niet tweemaal in een strafrechtelijke procedure voor hetzelfde delict te worden berecht of gestraft
 
 Niemand wordt opnieuw berecht of gestraft in een strafrechtelijke procedure voor een strafbaar feit waarvoor hij in de Unie reeds onherroepelijk is vrijgesproken of veroordeeld overeenkomstig de wet.
 
 ## TITEL VII. ALGEMENE BEPALINGEN BETREFFENDE DE UITLEGGING EN DE TOEPASSING VAN HET HANDVEST
 
-#### Artikel II-111. Toepassingsgebied
+##### Artikel II-111. Toepassingsgebied
 
 1. De bepalingen van dit Handvest zijn gericht tot de instellingen, organen en instanties van de Unie met inachtneming van het subsidiariteitsbeginsel, alsmede, uitsluitend wanneer zij het recht van de Unie ten uitvoer brengen, tot de lidstaten. Derhalve eerbiedigen zij de rechten, leven zij de beginselen na en bevorderen zij de toepassing ervan overeenkomstig hun respectieve bevoegdheden en met inachtneming van de grenzen van de bevoegdheden zoals deze in de andere delen van de Grondwet aan de Unie zijn toegedeeld.
 
 2. Dit Handvest breidt het toepassingsgebied van het recht van de Unie niet verder uit dan de bevoegdheden van de Unie reiken, schept geen nieuwe bevoegdheden of taken voor de Unie, noch wijzigt het de in de andere delen van de Grondwet omschreven bevoegdheden en taken.
 
-#### Artikel II-112. Reikwijdte en uitlegging van de gewaarborgde rechten en beginselen
+##### Artikel II-112. Reikwijdte en uitlegging van de gewaarborgde rechten en beginselen
 
 1. Beperkingen op de uitoefening van de in dit Handvest erkende rechten en vrijheden moeten bij wet worden gesteld en de wezenlijke inhoud van die rechten en vrijheden eerbiedigen. Met inachtneming van het evenredigheidsbeginsel kunnen slechts beperkingen worden gesteld, indien zij noodzakelijk zijn en daadwerkelijk beantwoorden aan door de Unie erkende doelstellingen van algemeen belang of aan de eisen van de bescherming van de rechten en vrijheden van anderen.
 
@@ -1378,11 +1397,11 @@ Niemand wordt opnieuw berecht of gestraft in een strafrechtelijke procedure voor
 
 7. De toelichting, die is opgesteld om richting te geven aan de uitlegging van het Handvest van de grondrechten, wordt door de rechterlijke instanties van de Unie en van de lidstaten naar behoren in acht genomen.
 
-#### Artikel II-113. Beschermingsniveau
+##### Artikel II-113. Beschermingsniveau
 
 Geen van de bepalingen van dit Handvest mag worden uitgelegd als zou zij een beperking vormen van of afbreuk doen aan de rechten van de mens en de fundamentele vrijheden welke binnen hun respectieve toepassingsgebieden worden erkend door het recht van de Unie, het internationaal recht en de internationale overeenkomsten waarbij de Unie of alle lidstaten partij zijn, met name het [Europees Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden](https://wetten.overheid.nl/jci1.3:c:BWBV0001000), alsmede door de grondwetten van de lidstaten.
 
-#### Artikel II-114. Verbod van misbruik van recht
+##### Artikel II-114. Verbod van misbruik van recht
 
 Geen van de bepalingen van dit Handvest mag worden uitgelegd als zou zij het recht inhouden enige activiteit te ontplooien of enige daad te verrichten met als doel de in dit Handvest erkende rechten of vrijheden teniet te doen of de rechten en vrijheden verdergaand te beperken dan door dit Handvest is toegestaan.
 
@@ -1390,63 +1409,63 @@ Geen van de bepalingen van dit Handvest mag worden uitgelegd als zou zij het rec
 
 ## TITEL I. ALGEMEEN TOEPASSELIJKE BEPALINGEN
 
-#### Artikel III-115
+##### Artikel III-115
 
 De Unie ziet toe op de samenhang tussen ieder beleid en optreden bedoeld in dit deel, rekening houdend met het geheel van haar doelstellingen en met inachtneming van het beginsel van bevoegdheidstoedeling.
 
-#### Artikel III-116
+##### Artikel III-116
 
 Bij ieder in dit deel bedoeld optreden streeft de Unie naar opheffing van de ongelijkheden tussen vrouwen en mannen en naar bevordering van de gelijkheid van vrouwen en mannen.
 
-#### Artikel III-117
+##### Artikel III-117
 
 Bij de bepaling en de uitvoering van ieder beleid en optreden bedoeld in dit deel houdt de Unie rekening met de eisen in verband met de bevordering van een hoog niveau van werkgelegenheid, de waarborging van een adequate sociale bescherming, de bestrijding van sociale uitsluiting alsmede een hoog niveau van onderwijs, opleiding en bescherming van de volksgezondheid.
 
-#### Artikel III-118
+##### Artikel III-118
 
 Bij de bepaling en de uitvoering van ieder beleid en optreden bedoeld in dit deel streeft de Unie naar bestrijding van iedere discriminatie op grond van geslacht, ras of etnische afkomst, godsdienst of overtuiging, handicap, leeftijd of seksuele gerichtheid.
 
-#### Artikel III-119
+##### Artikel III-119
 
 Bij de bepaling en de uitvoering van ieder beleid en optreden bedoeld in dit deel moeten de eisen inzake milieubescherming worden geïntegreerd, teneinde in het bijzonder duurzame ontwikkeling te bevorderen.
 
-#### Artikel III-120
+##### Artikel III-120
 
 Bij de bepaling en de uitvoering van ieder ander beleid en optreden van de Unie wordt rekening gehouden met de eisen inzake consumentenbescherming.
 
-#### Artikel III-121
+##### Artikel III-121
 
 Bij de bepaling en de uitvoering van het beleid van de Unie op het gebied van landbouw, visserij, vervoer, de interne markt, onderzoek en technologische ontwikkeling en de ruimte houden de Unie en de lidstaten ten volle rekening met de eisen inzake het welzijn van dieren als wezens met gevoel, onder eerbiediging van de wettelijke en bestuursrechtelijke bepalingen en de gebruiken van de lidstaten, met name met betrekking tot godsdienstige riten, culturele tradities en regionaal erfgoed.
 
-#### Artikel III-122
+##### Artikel III-122
 
 Onverminderd de [artikelen I-5](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=I&artikel=I-5&z=2004-10-29&g=2004-10-29), [III-166](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=5&paragraaf=1&artikel=III-166&z=2004-10-29&g=2004-10-29), [III-167](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=5&paragraaf=2&artikel=III-167&z=2004-10-29&g=2004-10-29) en [III-238](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=III&afdeling=7&artikel=III-238&z=2004-10-29&g=2004-10-29) en gezien de plaats die de diensten van algemeen economisch belang innemen als diensten waaraan eenieder in de Unie waarde hecht, alsook de rol die zij vervullen bij de bevordering van de sociale en territoriale samenhang van de Unie, dragen de Unie en de lidstaten er overeenkomstig hun onderscheiden bevoegdheden en binnen het toepassingsgebied van de Grondwet zorg voor dat deze diensten functioneren op basis van beginselen en onder voorwaarden, met name economische en financiële, die hen in staat stellen hun taken te vervullen. Deze beginselen en voorwaarden worden bij Europese wet vastgesteld, onverminderd de bevoegdheid van de lidstaten om, met inachtneming van de Grondwet, dergelijke diensten te verstrekken, te laten verrichten en te financieren.
 
 ## TITEL II. NON-DISCRIMINATIE EN BURGERSCHAP
 
-#### Artikel III-123
+##### Artikel III-123
 
 Het in [artikel I-4, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=I&artikel=I-4&z=2004-10-29&g=2004-10-29), bedoelde verbod van discriminatie op grond van nationaliteit kan bij Europese wet of kaderwet worden geregeld.
 
-#### Artikel III-124
+##### Artikel III-124
 
 1. Onverminderd de overige bepalingen van de Grondwet en binnen de grenzen van de bij de Grondwet aan de Unie toegedeelde bevoegdheden, kunnen bij Europese wet of kaderwet van de Raad de nodige maatregelen worden vastgesteld om discriminatie op grond van geslacht, ras of etnische afkomst, godsdienst of overtuiging, handicap, leeftijd of seksuele gerichtheid te bestrijden. De Raad besluit met eenparigheid van stemmen, na goedkeuring door het Europees Parlement.
 
 2. In afwijking van lid 1 kunnen de grondbeginselen van de stimuleringsmaatregelen van de Unie, alsmede die maatregelen zelf, die worden genomen ter ondersteuning van het optreden van de lidstaten om bij te dragen tot de verwezenlijking van de in lid 1 bedoelde doelstellingen, bij Europese wet of kaderwet worden vastgesteld; iedere harmonisatie van hun wettelijke of bestuursrechtelijke bepalingen is uitgesloten.
 
-#### Artikel III-125
+##### Artikel III-125
 
 1. Indien een optreden van de Unie noodzakelijk blijkt om de uitoefening van het in [artikel I-10, lid 2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=II&artikel=I-10&z=2004-10-29&g=2004-10-29), bedoelde recht van vrij verkeer en vrij verblijf voor iedere burger van de Unie te vergemakkelijken, en de Grondwet niet in de daartoe vereiste bevoegdheden voorziet, kunnen bij Europese wet of kaderwet maatregelen daartoe worden vastgesteld.
 
 2. Ter verwezenlijking van de in lid 1 genoemde doelstellingen kunnen bij Europese wet of kaderwet van de Raad tevens maatregelen worden vastgesteld inzake paspoorten, identiteitskaarten, verblijfstitels en andere daarmee gelijkgestelde documenten, alsmede maatregelen inzake sociale zekerheid en sociale bescherming, tenzij de Grondwet in de daartoe vereiste bevoegdheden voorziet. De Raad besluit met eenparigheid van stemmen, na raadpleging van het Europees Parlement.
 
-#### Artikel III-126
+##### Artikel III-126
 
 Bij Europese wet of kaderwet van de Raad worden de nadere regelingen vastgesteld waaronder iedere burger van de Unie het in [artikel I-10, lid 2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=II&artikel=I-10&z=2004-10-29&g=2004-10-29), bedoelde actieve en passieve kiesrecht bij de gemeenteraadsverkiezingen en de verkiezingen voor het Europees Parlement kan uitoefenen in de lidstaat waar hij verblijf houdt, maar waarvan hij geen onderdaan is. De Raad besluit met eenparigheid van stemmen, na raadpleging van het Europees Parlement. Deze nadere regelingen kunnen voorzien in afwijkingen, indien zulks gerechtvaardigd wordt door problemen die eigen zijn aan een lidstaat.
 
 Het actief en passief kiesrecht bij de verkiezingen voor het Europees Parlement wordt uitgeoefend onverminderd [artikel III-330, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=I&paragraaf=1&artikel=III-330&z=2004-10-29&g=2004-10-29), en de voor de toepassing daarvan vastgestelde maatregelen.
 
-#### Artikel III-127
+##### Artikel III-127
 
 De lidstaten treffen de nodige regelingen met het oog op de diplomatieke en consulaire bescherming van de burgers van de Unie in derde landen, als bedoeld in [artikel I-10, lid 2, onder c](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=II&artikel=I-10&z=2004-10-29&g=2004-10-29).
 
@@ -1454,11 +1473,11 @@ De lidstaten beginnen de internationale onderhandelingen die met het oog op deze
 
 Bij Europese wet van de Raad kunnen de nodige maatregelen ter bevordering van deze bescherming worden vastgesteld. De Raad besluit na raadpleging van het Europees Parlement.
 
-#### Artikel III-128
+##### Artikel III-128
 
 De talen waarin iedere burger van de Unie krachtens [artikel I-10, lid 2, onder d](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=II&artikel=I-10&z=2004-10-29&g=2004-10-29), het recht heeft zich tot de instellingen en de organen te richten en antwoord te krijgen, worden genoemd in [artikel IV-448, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=IV&artikel=IV-448&z=2004-10-29&g=2004-10-29). De in artikel I-10, lid 2, onder d, bedoelde instellingen en organen worden genoemd in de [artikelen I-19, lid 1, tweede alinea](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=IV&hoofdstuk=I&artikel=I-19&z=2004-10-29&g=2004-10-29), en in de [artikelen I-30](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=IV&hoofdstuk=II&artikel=I-30&z=2004-10-29&g=2004-10-29), [I-31](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=IV&hoofdstuk=II&artikel=I-31&z=2004-10-29&g=2004-10-29) en [I-32](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=IV&hoofdstuk=II&artikel=I-32&z=2004-10-29&g=2004-10-29); ook de Europese ombudsman behoort hiertoe.
 
-#### Artikel III-129
+##### Artikel III-129
 
 De Commissie brengt om de drie jaar aan het Europees Parlement, aan de Raad en aan het Economisch en Sociaal Comité verslag uit over de toepassing van [artikel I-10](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=II&artikel=I-10&z=2004-10-29&g=2004-10-29) en van deze titel. In dat verslag wordt rekening gehouden met de ontwikkeling van de Unie.
 
@@ -1470,7 +1489,7 @@ Op basis van dat verslag en onverminderd de overige bepalingen van de Grondwet, 
 
 ### AFDELING I. TOTSTANDBRENGING EN WERKING VAN DE INTERNE MARKT
 
-#### Artikel III-130
+##### Artikel III-130
 
 1. De Unie stelt de maatregelen vast die ertoe bestemd zijn om de interne markt tot stand te brengen en de werking ervan te verzekeren, overeenkomstig de bepalingen terzake van de Grondwet.
 
@@ -1482,11 +1501,11 @@ Op basis van dat verslag en onverminderd de overige bepalingen van de Grondwet, 
 
 Indien deze maatregelen de vorm van afwijkingen aannemen, dienen zij van tijdelijke aard te zijn en de werking van de interne markt zo weinig mogelijk te verstoren.
 
-#### Artikel III-131
+##### Artikel III-131
 
 De lidstaten plegen onderling overleg teneinde gezamenlijk het nodige te doen om te voorkomen dat de werking van de interne markt ongunstig wordt beïnvloed door de maatregelen waartoe een lidstaat zich genoopt kan voelen in geval van ernstige binnenlandse onlusten die de openbare orde verstoren, in geval van oorlog of van ernstige internationale spanning welke oorlogsgevaar inhoudt, of om te voldoen aan de verplichtingen die hij met het oog op het behoud van de vrede en de internationale veiligheid is aangegaan.
 
-#### Artikel III-132
+##### Artikel III-132
 
 Indien maatregelen die zijn genomen in de gevallen bedoeld in de [artikelen III-131](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=I&artikel=III-131&z=2004-10-29&g=2004-10-29) en [III-436](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VII&artikel=III-436&z=2004-10-29&g=2004-10-29) tot gevolg hebben dat de mededingingsverhoudingen in de interne markt worden vervalst, gaat de Commissie samen met de betrokken lidstaat na onder welke voorwaarden die maatregelen kunnen worden aangepast aan de bij de Grondwet vastgestelde regels.
 
@@ -1496,7 +1515,7 @@ In afwijking van de procedure bepaald in de artikelen [III-360](https://wetten.o
 
 #### Onderafdeling 1. Werknemers
 
-#### Artikel III-133
+##### Artikel III-133
 
 1. Werknemers hebben het recht zich vrij binnen de Unie te verplaatsen.
 
@@ -1514,7 +1533,7 @@ In afwijking van de procedure bepaald in de artikelen [III-360](https://wetten.o
 
 4. Dit artikel is niet van toepassing op betrekkingen in overheidsdienst.
 
-#### Artikel III-134
+##### Artikel III-134
 
 Bij Europese wet of kaderwet worden de maatregelen vastgesteld die nodig zijn om tot een vrij verkeer van werknemers te komen zoals dit in [artikel III-133](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=2&paragraaf=1&artikel=III-133&z=2004-10-29&g=2004-10-29) is omschreven. Deze wetten of kaderwetten worden vastgesteld na raadpleging van het Economisch en Sociaal Comité. De Europese wetten en kaderwetten beogen met name het volgende:
 
@@ -1526,11 +1545,11 @@ Bij Europese wet of kaderwet worden de maatregelen vastgesteld die nodig zijn om
 
 - d. het instellen van structuren die vraag en aanbod op de arbeidsmarkt bij elkaar brengen en die het evenwicht daartussen bevorderen onder voorwaarden welke uitsluiten dat de levensstandaard en de werkgelegenheid in de verschillende regio's en industrieën ernstig in gevaar komen.
 
-#### Artikel III-135
+##### Artikel III-135
 
 De lidstaten werken in het kader van een gemeenschappelijk programma de uitwisseling van jonge werknemers in de hand.
 
-#### Artikel III-136
+##### Artikel III-136
 
 1. Op het gebied van de sociale zekerheid worden bij Europese wet of kaderwet de maatregelen vastgesteld die nodig zijn om tot een vrij verkeer van werknemers te komen, door met name een stelsel in te voeren waardoor het mogelijk is voor al dan niet in loondienst werkzame migrerende werknemers en hun rechthebbenden te waarborgen dat:
 
@@ -1546,13 +1565,13 @@ De lidstaten werken in het kader van een gemeenschappelijk programma de uitwisse
 
 #### Onderafdeling 2. Vrijheid van vestiging
 
-#### Artikel III-137
+##### Artikel III-137
 
 In het kader van deze onderafdeling zijn beperkingen van de vrijheid van vestiging voor onderdanen van een lidstaat op het grondgebied van een andere lidstaat verboden. Dit verbod geldt ook voor beperkingen van de oprichting van agentschappen, bijkantoren of dochterondernemingen door onderdanen van een lidstaat die zich op het grondgebied van een lidstaat hebben gevestigd.
 
 De onderdanen van een lidstaat hebben, behoudens [afdeling 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=4&z=2004-10-29&g=2004-10-29) betreffende kapitaal en betalingen, op het grondgebied van een andere lidstaat het recht van toegang tot werkzaamheden anders dan in loondienst en het recht op de uitoefening daarvan, alsmede het recht ondernemingen, met name vennootschappen in de zin van [artikel III-142, tweede alinea](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=2&paragraaf=2&artikel=III-142&z=2004-10-29&g=2004-10-29), op te richten en te beheren, onder de voorwaarden waarin de wetgeving van de lidstaat van vestiging voor de eigen onderdanen voorziet.
 
-#### Artikel III-138
+##### Artikel III-138
 
 1. Bij Europese kaderwet worden de maatregelen vastgesteld om tot de vrijheid van vestiging voor een bepaalde werkzaamheid te komen. De kaderwetten worden vastgesteld na raadpleging van het Economisch en Sociaal Comité.
 
@@ -1574,19 +1593,19 @@ De onderdanen van een lidstaat hebben, behoudens [afdeling 4](https://wetten.ove
 
 - h. ervoor te zorgen dat de voorwaarden van vestiging niet worden vervalst als gevolg van steunmaatregelen van de lidstaten.
 
-#### Artikel III-139
+##### Artikel III-139
 
 Deze onderafdeling is, wat een bepaalde lidstaat betreft, niet van toepassing op de werkzaamheden ter uitoefening van het openbaar gezag in een staat, ook niet indien deze slechts voor een bepaalde gelegenheid worden verricht.
 
 Bij Europese wet of kaderwet kunnen bepaalde werkzaamheden van de toepassing van deze onderafdeling worden uitgesloten.
 
-#### Artikel III-140
+##### Artikel III-140
 
 1. Deze onderafdeling en de op grond daarvan vastgestelde maatregelen doen niet af aan de toepasselijkheid van wettelijke en bestuursrechtelijke regels van de lidstaten betreffende een bijzondere regeling voor vreemdelingen, welke regels uit hoofde van de openbare orde, de openbare veiligheid en de volksgezondheid gerechtvaardigd zijn.
 
 2. De in lid 1 bedoelde nationale bepalingen worden bij Europese kaderwet op elkaar afgestemd.
 
-#### Artikel III-141
+##### Artikel III-141
 
 1. Bij Europese kaderwet wordt de toegang tot werkzaamheden anders dan in loondienst, alsmede de uitoefening daarvan, vergemakkelijkt wat betreft:
 
@@ -1596,25 +1615,25 @@ Bij Europese wet of kaderwet kunnen bepaalde werkzaamheden van de toepassing van
 
 2. Wat de geneeskundige, paramedische en farmaceutische beroepen betreft, is de geleidelijke opheffing van de beperkingen afhankelijk van de coördinatie van de voorwaarden waaronder die beroepen in de verschillende lidstaten worden uitgeoefend.
 
-#### Artikel III-142
+##### Artikel III-142
 
 Vennootschappen die overeenkomstig de wetgeving van een lidstaat zijn opgericht en die hun statutaire zetel, hun hoofdbestuur of hun hoofdvestiging binnen de Unie hebben, worden voor de toepassing van deze onderafdeling gelijkgesteld met natuurlijke personen die onderdaan van de lidstaten zijn.
 
 Onder „vennootschappen” worden verstaan vennootschappen naar burgerlijk recht of handelsrecht, coöperatieve verenigingen of vennootschappen daaronder begrepen, en de overige rechtspersonen naar publiek- of privaatrecht, met uitzondering van vennootschappen die geen winst beogen.
 
-#### Artikel III-143
+##### Artikel III-143
 
 Onverminderd de toepassing van de overige bepalingen van de Grondwet, passen de lidstaten nationale behandeling toe wat betreft financiële deelneming door onderdanen van de andere lidstaten in het kapitaal van vennootschappen in de zin van [artikel III-142, tweede alinea](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=2&paragraaf=2&artikel=III-142&z=2004-10-29&g=2004-10-29).
 
 #### Onderafdeling 3. De vrijheid van dienstverrichting
 
-#### Artikel III-144
+##### Artikel III-144
 
 In het kader van deze onderafdeling zijn beperkingen van het vrij verrichten van diensten binnen de Unie verboden ten aanzien van onderdanen van de lidstaten die zich in een andere lidstaat hebben gevestigd dan die waar degene gevestigd is voor wie de dienst wordt verricht.
 
 Bij Europese wet of kaderwet kan het genot van deze onderafdeling worden uitgebreid tot onderdanen van een derde staat die diensten verrichten en zich binnen de Unie hebben gevestigd.
 
-#### Artikel III-145
+##### Artikel III-145
 
 Voor de toepassing van de Grondwet worden als diensten beschouwd, diensten die gewoonlijk tegen vergoeding worden verricht, voorzover de bepalingen betreffende het vrij verkeer van personen, goederen en kapitaal op deze diensten niet van toepassing zijn. Deze diensten omvatten werkzaamheden:
 
@@ -1628,29 +1647,29 @@ Voor de toepassing van de Grondwet worden als diensten beschouwd, diensten die g
 
 Onverminderd [onderafdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=2&paragraaf=2&z=2004-10-29&g=2004-10-29) betreffende de vrijheid van vestiging, kan degene die de diensten verricht, zijn werkzaamheden tijdelijk uitoefenen in de lidstaat waar de dienst wordt verricht, onder voorwaarden welke die staat aan zijn eigen onderdanen oplegt.
 
-#### Artikel III-146
+##### Artikel III-146
 
 1. Het vrij verkeer van diensten op het gebied van vervoer wordt geregeld in [hoofdstuk III, afdeling 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=III&afdeling=7&z=2004-10-29&g=2004-10-29), betreffende vervoer.
 
 2. De liberalisering van de door banken en verzekeringsondernemingen verrichte diensten die gepaard gaan met kapitaalbewegingen, moet worden verwezenlijkt in overeenstemming met de vrijmaking van het kapitaalverkeer.
 
-#### Artikel III-147
+##### Artikel III-147
 
 1. Bij Europese kaderwet worden maatregelen vastgesteld om de liberalisering van het verrichten van een bepaalde dienst te verwezenlijken. Deze kaderwet wordt na raadpleging van het Economisch en Sociaal Comité vastgesteld.
 
 2. De in lid 1 bedoelde Europese kaderwet heeft in het algemeen bij voorrang betrekking op de diensten welke rechtstreeks van invloed zijn op de productiekosten of waarvan de liberalisering bijdraagt tot het vergemakkelijken van het goederenverkeer.
 
-#### Artikel III-148
+##### Artikel III-148
 
 De lidstaten spannen zich in om bij de liberalisering van de dienstverrichting verder te gaan dan waartoe zij op grond van de krachtens [artikel III-147, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=2&paragraaf=3&artikel=III-147&z=2004-10-29&g=2004-10-29), vastgestelde Europese kaderwet verplicht zijn, indien hun algemene economische toestand en de toestand in de betrokken sector dit toelaten.
 
 De Commissie doet de betrokken lidstaten daartoe aanbevelingen.
 
-#### Artikel III-149
+##### Artikel III-149
 
 Zolang de beperkingen op het vrij verrichten van diensten niet zijn opgeheven, passen de lidstaten deze zonder onderscheid naar nationaliteit of naar verblijfplaats toe op al degenen die diensten verrichten als bedoeld in [artikel III-144, eerste alinea](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=2&paragraaf=3&artikel=III-144&z=2004-10-29&g=2004-10-29).
 
-#### Artikel III-150
+##### Artikel III-150
 
 De [artikelen III-139 tot en met III-142](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=2&paragraaf=2&artikel=III-139&z=2004-10-29&g=2004-10-29) zijn van toepassing op de in deze onderafdeling behandelde materie.
 
@@ -1658,7 +1677,7 @@ De [artikelen III-139 tot en met III-142](https://wetten.overheid.nl/jci1.3:c:BW
 
 #### Onderafdeling 1. De douane-unie
 
-#### Artikel III-151
+##### Artikel III-151
 
 1. De Unie omvat mede een douane-unie, die zich uitstrekt over het gehele goederenverkeer en die zowel het verbod van in- en uitvoerrechten en van alle heffingen van gelijke werking in het verkeer tussen de lidstaten onderling meebrengt als de vaststelling van een gemeenschappelijk douanetarief voor de betrekkingen van de lidstaten met derde landen.
 
@@ -1682,21 +1701,21 @@ De [artikelen III-139 tot en met III-142](https://wetten.overheid.nl/jci1.3:c:BW
 
 #### Onderafdeling 2. Douanesamenwerking
 
-#### Artikel III-152
+##### Artikel III-152
 
 Binnen het toepassingsgebied van de Grondwet worden bij Europese wet of kaderwet maatregelen vastgesteld ter versterking van de douane-samenwerking tussen de lidstaten onderling en tussen de lidstaten en de Commissie.
 
 #### Onderafdeling 3. Het verbod op kwantitatieve beperkingen
 
-#### Artikel III-153
+##### Artikel III-153
 
 Kwantitatieve invoer- en uitvoerbeperkingen en alle maatregelen van gelijke werking zijn tussen de lidstaten verboden.
 
-#### Artikel III-154
+##### Artikel III-154
 
 [Artikel III-153](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=3&paragraaf=3&artikel=III-153&z=2004-10-29&g=2004-10-29) vormt geen beletsel voor een verbod of beperking van invoer, uitvoer of doorvoer dat, respectievelijk die gerechtvaardigd is uit hoofde van de bescherming van de openbare zedelijkheid, de openbare orde, de openbare veiligheid, de gezondheid en het leven van personen, dieren en planten, het nationaal artistiek, historisch en archeologisch bezit, of uit hoofde van bescherming van de industriële en commerciële eigendom. Dit verbod of deze beperking mag echter geen middel tot willekeurige discriminatie, noch een verkapte beperking van de handel tussen de lidstaten vormen.
 
-#### Artikel III-155
+##### Artikel III-155
 
 1. De lidstaten passen hun nationale monopolies van commerciële aard derwijze aan, dat iedere discriminatie tussen de onderdanen van de lidstaten in verband met de voorwaarden van voorziening en afzet is uitgesloten.
 
@@ -1708,11 +1727,11 @@ Dit artikel is van toepassing op ieder lichaam waardoor een lidstaat de invoer o
 
 ### AFDELING 4. KAPITAAL EN BETALINGEN
 
-#### Artikel III-156
+##### Artikel III-156
 
 In het kader van deze afdeling zijn beperkingen van het kapitaalverkeer en van betalingen tussen lidstaten onderling en tussen lidstaten en derde landen verboden.
 
-#### Artikel III-157
+##### Artikel III-157
 
 1. [Artikel III-156](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=4&artikel=III-156&z=2004-10-29&g=2004-10-29) laat onverlet de toepassing op derde landen van beperkingen die op 31 december 1993 bestonden uit hoofde van nationaal of Unierecht inzake het kapitaalverkeer naar of uit derde landen in verband met directe beleggingen – met inbegrip van beleggingen in onroerende goederen – vestiging, het verrichten van financiële diensten of de toelating van waardepapieren tot de kapitaalmarkten. Wat betreft de bestaande beperkingen uit hoofde van de nationale wetgeving in Estland en Hongarije is de betreffende datum 31 december 1999.
 
@@ -1722,7 +1741,7 @@ Het Europees Parlement en de Raad trachten de doelstelling van een vrij kapitaal
 
 3. In afwijking van lid 2, kunnen maatregelen die in het recht van de Unie een achteruitgang op het gebied van de liberalisering van het kapitaalverkeer naar of uit derde landen vormen, alleen worden vastgesteld bij Europese wet of kaderwet van de Raad. De Raad besluit met eenparigheid van stemmen, na raadpleging van het Europees Parlement.
 
-#### Artikel III-158
+##### Artikel III-158
 
 1. [Artikel III-156](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=4&artikel=III-156&z=2004-10-29&g=2004-10-29) laat onverlet het recht van de lidstaten:
 
@@ -1736,11 +1755,11 @@ Het Europees Parlement en de Raad trachten de doelstelling van een vrij kapitaal
 
 4. Bij ontstentenis van een Europese wet of kaderwet als bedoeld in [artikel III-157, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=4&artikel=III-157&z=2004-10-29&g=2004-10-29), kan de Commissie, of, bij ontstentenis van een Europees besluit van de Commissie binnen drie maanden na de indiening van het verzoek door de betrokken lidstaat, kan de Raad een Europees besluit vaststellen waarin wordt bepaald dat door een lidstaat jegens een of meer derde landen genomen beperkende belastingmaatregelen verenigbaar worden geacht met de Grondwet, voorzover deze stroken met de doelstellingen van de Unie en verenigbaar zijn met de goede werking van de interne markt. De Raad besluit met eenparigheid van stemmen, op verzoek van een lidstaat.
 
-#### Artikel III-159
+##### Artikel III-159
 
 Wanneer in uitzonderlijke omstandigheden het kapitaalverkeer naar of uit derde landen ernstige moeilijkheden voor de werking van de economische en monetaire unie veroorzaakt of dreigt te veroorzaken, kan de Raad op voorstel van de Commissie bij Europese verordening Europese vrijwaringsmaatregelen ten aanzien van derde landen vaststellen voor een periode van ten hoogste zes maanden, voor zover deze maatregelen strikt noodzakelijk zijn. De Raad besluit na raadpleging van de Europese Centrale Bank.
 
-#### Artikel III-160
+##### Artikel III-160
 
 Indien zulks noodzakelijk is om de in [artikel III-257](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=1&artikel=III-257&z=2004-10-29&g=2004-10-29) genoemde doelstellingen te verwezenlijken, wat betreft de preventie en de bestrijding van terrorisme en aanverwante activiteiten, wordt bij Europese wet een kader vastgesteld voor beheersmaatregelen met betrekking tot het kapitaal- en betalingsverkeer, zoals het bevriezen van tegoeden, financiële activa of economische baten waarvan de bezitters, de eigenaars of de houders natuurlijke personen, rechtspersonen dan wel niet-statelijke groepen of entiteiten zijn.
 
@@ -1752,7 +1771,7 @@ De in dit artikel bedoelde handelingen bevatten de nodige bepalingen inzake juri
 
 #### Onderafdeling 1. Regels voor ondernemingen
 
-#### Artikel III-161
+##### Artikel III-161
 
 1. Onverenigbaar met de interne markt en verboden zijn alle overeenkomsten tussen ondernemingen, alle besluiten van ondernemersverenigingen en alle onderling afgestemde feitelijke gedragingen welke de handel tussen lidstaten ongunstig kunnen beïnvloeden en tot doel of gevolg hebben dat de mededinging binnen de interne markt wordt verhinderd, beperkt of vervalst, en met name die welke bestaan in:
 
@@ -1782,7 +1801,7 @@ waarmee wordt bijgedragen tot verbetering van de productie of van de verdeling v
 
 - b. de mogelijkheid wordt gegeven, voor een wezenlijk deel van de betrokken producten de mededinging uit te schakelen.
 
-#### Artikel III-162
+##### Artikel III-162
 
 Onverenigbaar met de interne markt en verboden, voorzover de handel tussen lidstaten daardoor ongunstig kan worden beïnvloed, is misbruik door een of meer ondernemingen van een machtspositie op de interne markt of op een wezenlijk deel daarvan.
 
@@ -1796,7 +1815,7 @@ Dit misbruik kan met name bestaan in:
 
 - d. het feit dat het sluiten van overeenkomsten afhankelijk wordt gesteld van het aanvaarden door de handelspartners van bijkomende prestaties, welke naar hun aard of volgens het handelsgebruik geen verband houden met het onderwerp van deze overeenkomsten.
 
-#### Artikel III-163
+##### Artikel III-163
 
 De Raad stelt op voorstel van de Commissie Europese verordeningen vast voor de toepassing van de in de [artikelen III-161](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=5&paragraaf=1&artikel=III-161&z=2004-10-29&g=2004-10-29) en [III-162](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=5&paragraaf=1&artikel=III-162&z=2004-10-29&g=2004-10-29) neergelegde beginselen. De Raad besluit na raadpleging van het Europees Parlement. Die Europese verordeningen hebben met name ten doel:
 
@@ -1810,11 +1829,11 @@ De Raad stelt op voorstel van de Commissie Europese verordeningen vast voor de t
 
 - e. de verhouding vast te stellen tussen de wetgevingen van de lidstaten enerzijds en deze onderafdeling en de ter uitvoering van dit artikel vastgestelde Europese verordeningen, anderzijds.
 
-#### Artikel III-164
+##### Artikel III-164
 
 Tot de inwerkingtreding van de Europese verordeningen die op grond van [artikel III-163](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=5&paragraaf=1&artikel=III-163&z=2004-10-29&g=2004-10-29) worden vastgesteld, beslissen de autoriteiten van de lidstaten, in overeenstemming met hun nationale recht, met [artikel III-161, met name lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=5&paragraaf=1&artikel=III-161&z=2004-10-29&g=2004-10-29), en [artikel III-162](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=5&paragraaf=1&artikel=III-162&z=2004-10-29&g=2004-10-29), over de toelaatbaarheid van mededingingsregelingen en over het misbruik van een machtspositie op de interne markt.
 
-#### Artikel III-165
+##### Artikel III-165
 
 1. Onverminderd [artikel III-164](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=5&paragraaf=1&artikel=III-164&z=2004-10-29&g=2004-10-29) ziet de Commissie toe op de toepassing van de in de [artikelen III-161](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=5&paragraaf=1&artikel=III-161&z=2004-10-29&g=2004-10-29) en [III-162](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=5&paragraaf=1&artikel=III-162&z=2004-10-29&g=2004-10-29) neergelegde beginselen. Op verzoek van een lidstaat of ambtshalve, en in samenwerking met de bevoegde autoriteiten van de lidstaten, welke haar daarbij behulpzaam zijn, stelt de Commissie een onderzoek in naar de gevallen van vermoedelijke inbreuk op die beginselen. Indien haar blijkt dat inbreuk is gemaakt, stelt zij middelen voor om daaraan een eind te maken.
 
@@ -1822,7 +1841,7 @@ Tot de inwerkingtreding van de Europese verordeningen die op grond van [artikel 
 
 3. De Commissie kan Europese verordeningen vaststellen betreffende groepen overeenkomsten ten aanzien waarvan de Raad overeenkomstig [artikel III-163, tweede alinea, onder b](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=5&paragraaf=1&artikel=III-163&z=2004-10-29&g=2004-10-29), een Europese verordening heeft vastgesteld.
 
-#### Artikel III-166
+##### Artikel III-166
 
 1. De lidstaten nemen of handhaven met betrekking tot de openbare bedrijven en de ondernemingen waaraan zij bijzondere of uitsluitende rechten verlenen, geen enkele maatregel die in strijd is met de Grondwet, met name [artikel I-4, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=I&artikel=I-4&z=2004-10-29&g=2004-10-29), en de [artikelen III-161 tot en met III-169](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=5&paragraaf=1&artikel=III-161&z=2004-10-29&g=2004-10-29).
 
@@ -1832,7 +1851,7 @@ Tot de inwerkingtreding van de Europese verordeningen die op grond van [artikel 
 
 #### Onderafdeling 2. Steunmaatregelen van de lidstaten
 
-#### Artikel III-167
+##### Artikel III-167
 
 1. Behoudens de afwijkingen waarin de Grondwet voorziet, zijn door de lidstaten getroffen of op enigerlei wijze met staatsmiddelen gefinancierde steunmaatregelen die door begunstiging van bepaalde ondernemingen of bepaalde producties de mededinging vervalsen of dreigen te vervalsen, onverenigbaar met de interne markt, voorzover deze steun het handelsverkeer tussen de lidstaten ongunstig beïnvloedt.
 
@@ -1856,7 +1875,7 @@ Tot de inwerkingtreding van de Europese verordeningen die op grond van [artikel 
 
 - e. andere soorten van steunmaatregelen die de Raad bij Europese verordening of besluit op voorstel van de Commissie bepaalt.
 
-#### Artikel III-168
+##### Artikel III-168
 
 1. De Commissie onderwerpt tezamen met de lidstaten de in die staten bestaande steunregelingen aan een voortdurend onderzoek. Zij stelt hun de maatregelen voor welke de geleidelijke ontwikkeling of de werking van de interne markt vereist.
 
@@ -1872,13 +1891,13 @@ Indien evenwel de Raad binnen een termijn van drie maanden te rekenen vanaf het 
 
 4. De Commissie kan Europese verordeningen vaststellen betreffende de soorten van staatssteun waaromtrent de Raad overeenkomstig [artikel III-169](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=5&paragraaf=2&artikel=III-169&z=2004-10-29&g=2004-10-29) heeft bepaald dat zij van de in lid 3 van dit artikel bedoelde procedure kunnen worden vrijgesteld.
 
-#### Artikel III-169
+##### Artikel III-169
 
 De Raad kan op voorstel van de Commissie Europese verordeningen vaststellen voor de toepassing van de [artikelen III-167](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=5&paragraaf=2&artikel=III-167&z=2004-10-29&g=2004-10-29) en [III-168](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=5&paragraaf=2&artikel=III-168&z=2004-10-29&g=2004-10-29), en met name om de voorwaarden voor de toepassing van artikel III-168, lid 3, te bepalen, alsmede de van de in dat lid bedoelde procedure vrijgestelde soorten van steunmaatregelen. De Raad besluit na raadpleging van het Europees Parlement.
 
 ### AFDELING 6. BEPALINGEN BETREFFENDE BELASTINGEN
 
-#### Artikel III-170
+##### Artikel III-170
 
 1. De lidstaten heffen, al dan niet rechtstreeks, op producten van de overige lidstaten geen hogere binnenlandse belastingen van welke aard ook dan die welke, al dan niet rechtstreeks, op gelijksoortige nationale producten worden geheven.
 
@@ -1888,13 +1907,13 @@ Bovendien heffen de lidstaten op producten van de overige lidstaten geen zodanig
 
 3. Met betrekking tot andere belastingen dan de omzetbelasting, de accijnzen en de overige indirecte belastingen mogen vrijstellingen en teruggaven bij uitvoer naar de andere lidstaten slechts worden verleend en compenserende belastingen bij invoer uit de lidstaten slechts worden geheven, voorzover de bedoelde regelingen van tevoren voor een beperkte periode bij een door de Raad op voorstel van de Commissie aangenomen Europees besluit zijn goedgekeurd.
 
-#### Artikel III-171
+##### Artikel III-171
 
 De Raad stelt bij Europese wet of kaderwet maatregelen vast betreffende de harmonisatie van de wetgevingen inzake de omzetbelasting, de accijnzen en andere indirecte belastingen, voorzover deze harmonisatie geboden is om de totstandbrenging of de werking van de interne markt te bewerkstelligen en concurrentieverstoringen te voorkomen. De Raad besluit met eenparigheid van stemmen, na raadpleging van het Europees Parlement en van het Economisch en Sociaal Comité.
 
 ### AFDELING 7. GEMEENSCHAPPELIJKE BEPALINGEN
 
-#### Artikel III-172
+##### Artikel III-172
 
 1. Tenzij in de Grondwet anders wordt bepaald, is dit artikel van toepassing voor de verwezenlijking van de in [artikel III-130](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=I&artikel=III-130&z=2004-10-29&g=2004-10-29) genoemde doelstellingen. De maatregelen voor de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen van de lidstaten die de instelling of de werking van de interne markt betreffen, worden bij Europese wet of kaderwet vastgesteld. De wet of kaderwet wordt na raadpleging van het Economisch en Sociaal Comité vastgesteld.
 
@@ -1918,23 +1937,23 @@ Indien de Commissie binnen deze termijn geen besluit vaststelt, worden de in lid
 
 10. De in dit artikel bedoelde harmonisatiemaatregelen omvatten, in passende gevallen, een vrijwaringsclausule die de lidstaten machtigt om, op grond van een of meer van de in [artikel III-154](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=3&paragraaf=3&artikel=III-154&z=2004-10-29&g=2004-10-29) bedoelde niet-economische redenen, voorlopige maatregelen te nemen die aan een procedure van toetsing door de Unie worden onderworpen.
 
-#### Artikel III-173
+##### Artikel III-173
 
 Onverminderd [artikel III-172](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=7&artikel=III-172&z=2004-10-29&g=2004-10-29), stelt de Raad bij Europese kaderwet maatregelen vast voor de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen van de lidstaten die rechtstreeks van invloed zijn op de instelling of de werking van de interne markt. De Raad besluit met eenparigheid van stemmen na raadpleging van het Europees Parlement en van het Economisch en Sociaal Comité.
 
-#### Artikel III-174
+##### Artikel III-174
 
 Ingeval de Commissie constateert dat een verschil tussen de wettelijke of bestuursrechtelijke bepalingen van de lidstaten de mededingingsvoorwaarden op de interne markt vervalst en een distorsie veroorzaakt welke moet worden opgeheven, raadpleegt zij de betrokken lidstaten.
 
 Indien deze raadpleging niet tot overeenstemming leidt, worden bij Europese kaderwet de nodige maatregelen vastgesteld om de betrokken distorsie op te heffen. Ook andere dienstige maatregelen waarin de Grondwet voorziet, kunnen worden vastgesteld.
 
-#### Artikel III-175
+##### Artikel III-175
 
 1. Indien er aanleiding bestaat te vrezen dat de door een lidstaat voorgenomen vaststelling of wijziging van een wettelijke of bestuursrechtelijke bepaling van een lidstaat een distorsie in de zin van [artikel III-174](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=7&artikel=III-174&z=2004-10-29&g=2004-10-29) veroorzaakt, raadpleegt die lidstaat de Commissie. Na de lidstaten te hebben geraadpleegd, doet de Commissie de betrokken lidstaten een aanbeveling betreffende maatregelen om deze distorsie te voorkomen.
 
 2. Indien de lidstaat die nationale bepalingen wil vaststellen of wijzigen, niet handelt overeenkomstig de aanbeveling welke de Commissie hem heeft gedaan, kan ter toepassing van [artikel III-174](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=7&artikel=III-174&z=2004-10-29&g=2004-10-29) van de andere lidstaten niet worden verlangd dat zij hun nationale bepalingen wijzigen om deze distorsie op te heffen. Indien de lidstaat die aan de aanbeveling van de Commissie geen gevolg heeft gegeven, een distorsie veroorzaakt waarvan alleen hijzelf nadeel ondervindt, is artikel III-174 niet van toepassing.
 
-#### Artikel III-176
+##### Artikel III-176
 
 In het kader van de totstandbrenging en de werking van de interne markt worden bij Europese wet of kaderwet de maatregelen vastgesteld voor de invoering van Europese titels om een eenvormige bescherming van de intellectuele-eigendomsrechten in de hele Unie te bewerkstelligen, en voor de instelling van op het niveau van de Unie gecentraliseerde machtigings-, coördinatie- en controleregelingen.
 
@@ -1942,7 +1961,7 @@ De regelingen van het taalgebruik met betrekking tot de titels worden geregeld b
 
 ### HOOFDSTUK II. HET ECONOMISCH EN MONETAIR BELEID
 
-#### Artikel III-177
+##### Artikel III-177
 
 Voor de toepassing van [artikel I-3](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=I&artikel=I-3&z=2004-10-29&g=2004-10-29) omvat het optreden van de lidstaten en de Unie, onder de bij de Grondwet bepaalde voorwaarden, de invoering van een economisch beleid dat gebaseerd is op nauwe coördinatie van het economisch beleid van de lidstaten, de interne markt en de bepaling van gemeenschappelijke doelstellingen, en dat wordt gevoerd met eerbiediging van het beginsel van een open markteconomie met vrije mededinging.
 
@@ -1950,11 +1969,11 @@ Parallel daaraan omvat dit optreden, onder de voorwaarden en volgens de procedur
 
 ### AFDELING 1. HET ECONOMISCH BELEID
 
-#### Artikel III-178
+##### Artikel III-178
 
 De lidstaten voeren hun economisch beleid om bij te dragen tot de verwezenlijking van de doelstellingen van de Unie, als omschreven in [artikel I-3](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=I&artikel=I-3&z=2004-10-29&g=2004-10-29), en in het kader van de in [artikel III-179, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=1&artikel=III-179&z=2004-10-29&g=2004-10-29), bedoelde globale richtsnoeren. De lidstaten en de Unie handelen in overeenstemming met het beginsel van een open markteconomie met vrije mededinging, waarbij een doelmatige allocatie van middelen wordt bevorderd, en met inachtneming van de in [artikel III-177](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&artikel=III-177&z=2004-10-29&g=2004-10-29) neergelegde beginselen.
 
-#### Artikel III-179
+##### Artikel III-179
 
 1. De lidstaten beschouwen hun economisch beleid als een aangelegenheid van gemeenschappelijk belang en coördineren dit beleid in de Raad overeenkomstig [artikel III-178](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=1&artikel=III-178&z=2004-10-29&g=2004-10-29).
 
@@ -1976,29 +1995,29 @@ Onder gekwalificeerde meerderheid van stemmen wordt verstaan ten minste 55% van 
 
 6. De in de leden 3 en 4 bedoelde multilaterale toezichtprocedure kan bij Europese wet nader worden geregeld.
 
-#### Artikel III-180
+##### Artikel III-180
 
 1. Onverminderd de overige procedures waarin de Grondwet voorziet, kan de Raad op voorstel van de Europese Commissie bij Europees besluit de voor de economische situatie passende maatregelen vaststellen, met name indien zich bij de voorziening met bepaalde producten ernstige moeilijkheden voordoen.
 
 2. In geval van moeilijkheden of ernstige dreiging van grote moeilijkheden in een lidstaat, die worden veroorzaakt door natuurrampen of buitengewone gebeurtenissen die deze lidstaat niet kan beheersen, kan de Raad op voorstel van de Commissie een Europees besluit vaststellen waarbij onder bepaalde voorwaarden financiële bijstand van de Unie aan de betrokken lidstaat wordt verleend. De voorzitter van de Raad stelt het Europees Parlement daarvan in kennis.
 
-#### Artikel III-181
+##### Artikel III-181
 
 1. Het is de Europese Centrale Bank en de centrale banken van de lidstaten (hierna „nationale centrale banken” te noemen) verboden voorschotten in rekening-courant of andere kredietfaciliteiten te verlenen aan instellingen, organen of instanties van de Unie, centrale overheden, regionale, lokale of andere overheden, andere publiekrechtelijke lichamen of openbare bedrijven van de lidstaten, of rechtstreeks van hen schuldbewijzen te kopen. Het rechtstreeks van hen kopen door de Europese Centrale Bank of de nationale centrale banken, van schuldbewijzen is eveneens verboden.
 
 2. Lid 1 is niet van toepassing op kredietinstellingen die in handen van de overheid zijn en waaraan in het kader van de liquiditeitsvoorziening door centrale banken dezelfde behandeling door de nationale centrale banken en de Europese Centrale Bank wordt gegeven als aan particuliere kredietinstellingen.
 
-#### Artikel III-182
+##### Artikel III-182
 
 Niet op overwegingen van bedrijfseconomisch toezicht gebaseerde maatregelen en bepalingen waardoor instellingen, organen of instanties van de Unie, centrale overheden, regionale, lokale of andere overheden, andere publiekrechtelijke lichamen of openbare bedrijven van de lidstaten een bevoorrechte toegang tot de financiële instellingen krijgen, zijn verboden.
 
-#### Artikel III-183
+##### Artikel III-183
 
 1. De Unie is niet aansprakelijk voor de verbintenissen van centrale overheden, regionale, lokale of andere overheden, andere publiekrechtelijke lichamen of openbare bedrijven van de lidstaten; en neemt deze verbintenissen niet over, onverminderd de wederzijdse financiële garanties voor de gemeenschappelijke uitvoering van specifieke projecten. De lidstaten zijn niet aansprakelijk voor de verbintenissen van centrale overheden, regionale, lokale of andere overheden, andere publiekrechtelijke lichamen of openbare bedrijven van een andere lidstaat en nemen deze verbintenissen niet over, onverminderd de wederzijdse financiële garanties voor de gemeenschappelijke uitvoering van specifieke projecten.
 
 2. De Raad kan, op voorstel van de Commissie, bij Europese verordening of Europees besluit de definities voor de toepassing van de in de [artikelen III-181](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=1&artikel=III-181&z=2004-10-29&g=2004-10-29) en [III-182](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=1&artikel=III-182&z=2004-10-29&g=2004-10-29) alsmede in dit artikel bedoelde verbodsbepalingen vaststellen. De Raad besluit na raadpleging van het Europees Parlement.
 
-#### Artikel III-184
+##### Artikel III-184
 
 1. De lidstaten vermijden buitensporige overheidstekorten.
 
@@ -2066,7 +2085,7 @@ Onder voorbehoud van de andere bepalingen van dit lid, stelt de Raad op voorstel
 
 ### AFDELING 2. HET MONETAIR BELEID
 
-#### Artikel III-185
+##### Artikel III-185
 
 1. Het hoofddoel van het Europees Stelsel van Centrale Banken is het handhaven van prijsstabiliteit. Onverminderd deze doelstelling, ondersteunt het Europees Stelsel van Centrale Banken het algemene economisch beleid in de Unie teneinde bij te dragen tot de verwezenlijking van haar doelstellingen als omschreven in [artikel I-3](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=I&artikel=I-3&z=2004-10-29&g=2004-10-29). Het Europees Stelsel van Centrale Banken handelt in overeenstemming met het beginsel van een open markteconomie met vrije mededinging, waarbij een doelmatige allocatie van middelen wordt bevorderd, en onder eerbiediging van de in [artikel III-177](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&artikel=III-177&z=2004-10-29&g=2004-10-29) bepaalde beginselen.
 
@@ -2092,7 +2111,7 @@ Onder voorbehoud van de andere bepalingen van dit lid, stelt de Raad op voorstel
 
 6. Bij Europese wet van de Raad kunnen aan de Europese Centrale Bank specifieke taken betreffende het beleid op het gebied van het bedrijfseconomisch toezicht op kredietinstellingen en andere financiële instellingen, met uitzondering van verzekeringsondernemingen, worden opgedragen. De Raad besluit met eenparigheid van stemmen na raadpleging van het Europees Parlement en van de Europese Centrale Bank.
 
-#### Artikel III-186
+##### Artikel III-186
 
 1. De Europese Centrale Bank heeft het alleenrecht, machtiging te geven tot de uitgifte van bankbiljetten in euro's binnen de Unie. De Europese Centrale Bank en de nationale centrale banken mogen deze bankbiljetten uitgeven. De door de Europese Centrale Bank en de nationale centrale banken uitgegeven bankbiljetten zijn de enige bankbiljetten die binnen de Unie de hoedanigheid van wettig betaalmiddel hebben.
 
@@ -2100,7 +2119,7 @@ Onder voorbehoud van de andere bepalingen van dit lid, stelt de Raad op voorstel
 
 De Raad kan bij Europese verordening op voorstel van de Commissie maatregelen vaststellen om de nominale waarden en technische specificaties van de voor circulatie bestemde munten te harmoniseren, voorzover dit nodig is voor een goede circulatie van munten binnen de Unie. De Raad besluit na raadpleging van het Europees Parlement en van de Europese Centrale Bank.
 
-#### Artikel III-187
+##### Artikel III-187
 
 1. Het Europees Stelsel van Centrale Banken wordt bestuurd door de besluitvormende organen van de Europese Centrale Bank, te weten de Raad van bestuur en de directie.
 
@@ -2118,15 +2137,15 @@ De Raad kan bij Europese verordening op voorstel van de Commissie maatregelen va
 
 - b. hetzij op aanbeveling van de Europese Centrale Bank en na raadpleging van de Commissie.
 
-#### Artikel III-188
+##### Artikel III-188
 
 Bij de uitoefening van de bevoegdheden en het vervullen van de taken en plichten die bij de Grondwet en het statuut van het Europees Stelsel van Centrale Banken en van de Europese Centrale Bank aan hen zijn opgedragen, is het noch de Europese centrale bank, noch een nationale centrale bank, noch enig lid van hun besluitvormende organen toegestaan, instructies te vragen aan dan wel te aanvaarden van instellingen, organen of instanties van de Unie, van regeringen van lidstaten of van enige andere instantie. De instellingen, organen en instanties van de Unie en de regeringen van de lidstaten verplichten zich ertoe dit beginsel te eerbiedigen en niet te trachten de leden van de besluitvormende organen van de Europese Centrale Bank of van de nationale centrale banken bij de uitvoering van hun taken te beïnvloeden.
 
-#### Artikel III-189
+##### Artikel III-189
 
 Iedere lidstaat draagt er zorg voor dat zijn nationale wetgeving, met inbegrip van het statuut van zijn nationale centrale bank, verenigbaar is met de Grondwet en met het statuut van het Europees Stelsel van Centrale Banken en van de Europese Centrale Bank.
 
-#### Artikel III-190
+##### Artikel III-190
 
 1. Ter uitvoering van de aan het Europees Stelsel van Centrale Banken opgedragen taken worden door de Europese Centrale Bank, overeenkomstig de Grondwet en onder de voorwaarden van het statuut van het Europees Stelsel van Centrale Banken en van de Europese Centrale Bank:
 
@@ -2140,13 +2159,13 @@ Iedere lidstaat draagt er zorg voor dat zijn nationale wetgeving, met inbegrip v
 
 3. De Raad stelt volgens de procedure van [artikel III-187, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=2&artikel=III-187&z=2004-10-29&g=2004-10-29), de Europese verordeningen vast ter bepaling van de grenzen en voorwaarden waarbinnen de Europese Centrale Bank gerechtigd is om ondernemingen boeten of dwangsommen op te leggen bij niet-naleving van haar Europese verordeningen en besluiten.
 
-#### Artikel III-191
+##### Artikel III-191
 
 Onverminderd de bevoegdheden van de Europese Centrale Bank, worden bij Europese wet of kaderwet de maatregelen vastgesteld die nodig zijn voor het gebruik van de euro als enige munteenheid. De Europese wet of kaderwet wordt vastgesteld na raadpleging van de Europese Centrale Bank.
 
 ### AFDELING 3. INSTITUTIONELE BEPALINGEN
 
-#### Artikel III-192
+##### Artikel III-192
 
 1. Teneinde de coördinatie van het beleid van de lidstaten te bevorderen in de volle omvang die nodig is voor de werking van de interne markt, wordt een Economisch en Financieel Comité ingesteld.
 
@@ -2166,13 +2185,13 @@ De lidstaten, de Commissie en de Europese Centrale Bank benoemen ieder ten hoogs
 
 4. Naast de vervulling van de in lid 2 bedoelde taken volgt het Comité, indien en zolang er lidstaten zijn die vallen onder een derogatie in de zin van [artikel III-197](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=5&artikel=III-197&z=2004-10-29&g=2004-10-29), de monetaire en financiële toestand en de algemene regeling van het betalingsverkeer van die lidstaten en brengt het terzake regelmatig verslag uit aan de Raad en aan de Commissie.
 
-#### Artikel III-193
+##### Artikel III-193
 
 De Raad of een lidstaat kan de Commissie verzoeken een aanbeveling of een voorstel te doen betreffende aangelegenheden die onder [artikel III-179, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=1&artikel=III-179&z=2004-10-29&g=2004-10-29), [artikel III-184](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=1&artikel=III-184&z=2004-10-29&g=2004-10-29), met uitzondering van lid 13, de [artikelen III-191](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=2&artikel=III-191&z=2004-10-29&g=2004-10-29) en [III-196](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=4&artikel=III-196&z=2004-10-29&g=2004-10-29), [artikel III-198, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=5&artikel=III-198&z=2004-10-29&g=2004-10-29) en [artikel III-326](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=V&hoofdstuk=VI&artikel=III-326&z=2004-10-29&g=2004-10-29), vallen. De Commissie onderzoekt dit verzoek en legt haar conclusies onverwijld aan de Raad voor.
 
 ### AFDELING 4. SPECIFIEKE BEPALINGEN VOOR DE LIDSTATEN DIE DE EURO ALS MUNT HEBBEN
 
-#### Artikel III-194
+##### Artikel III-194
 
 1. Om bij te dragen tot de goede werking van de economische en monetaire unie, en overeenkomstig de desbetreffende bepalingen van de Grondwet stelt de Raad, overeenkomstig de procedure van [artikel III-179](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=1&artikel=III-179&z=2004-10-29&g=2004-10-29) of van [artikel III-184](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=1&artikel=III-184&z=2004-10-29&g=2004-10-29), al naar het geval, met uitzondering van de procedure van artikel III-184, lid 13, maatregelen vast voor de lidstaten die de euro als munt hebben:
 
@@ -2186,11 +2205,11 @@ Onder gekwalificeerde meerderheid van stemmen wordt verstaan ten minste 55% van 
 
 Een blokkerende minderheid moet ten minste uit het minimumaantal van die leden van de Raad bestaan die meer dan 35% van de bevolking van de deelnemende lidstaten vertegenwoordigen, plus één lid; in het andere geval wordt de gekwalificeerde meerderheid geacht te zijn verkregen.
 
-#### Artikel III-195
+##### Artikel III-195
 
 De nadere regels voor vergaderingen van de ministers van de lidstaten die de euro als munt hebben, worden vastgesteld door het Protocol betreffende de Eurogroep.
 
-#### Artikel III-196
+##### Artikel III-196
 
 1. Teneinde de positie van de euro in het internationaal monetair stelsel veilig te stellen, stelt de Raad op voorstel van de Commissie een Europees besluit vast houdende de gemeenschappelijke standpunten in de bevoegde internationale financiële instellingen en conferenties over kwesties die voor de Economische en Monetaire Unie van bijzonder belang zijn. De Raad besluit na raadpleging van de Europese Centrale Bank.
 
@@ -2204,7 +2223,7 @@ Een blokkerende minderheid moet ten minste uit het minimumaantal van die leden v
 
 ### AFDELING 5. OVERGANGSBEPALINGEN
 
-#### Artikel III-197
+##### Artikel III-197
 
 1. De lidstaten ten aanzien waarvan de Raad niet heeft besloten dat zij voldoen aan de nodige voorwaarden voor de invoering van de euro, worden hierna „lidstaten die vallen onder een derogatie” genoemd.
 
@@ -2244,7 +2263,7 @@ Onder gekwalificeerde meerderheid van stemmen wordt verstaan ten minste 55% van 
 
 Een blokkerende minderheid moet ten minste uit het minimumaantal van die leden van de Raad bestaan die meer dan 35% van de bevolking van de deelnemende lidstaten vertegenwoordigen, plus één lid; in het andere geval wordt de gekwalificeerde meerderheid geacht te zijn verkregen.
 
-#### Artikel III-198
+##### Artikel III-198
 
 1. Ten minste om de twee jaar of op verzoek van een lidstaat die valt onder een derogatie, brengen de Commissie en de Europese Centrale Bank verslag uit aan de Raad over de vooruitgang die door de onder een derogatie vallende lidstaten is geboekt bij de nakoming van hun verplichtingen met het oog op de totstandbrenging van de economische en monetaire unie. Deze verslagen bevatten met name een onderzoek naar de verenigbaarheid van de nationale wetgeving van ieder van deze lidstaten, met inbegrip van het statuut van zijn nationale centrale bank, met de [artikelen III-188](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=2&artikel=III-188&z=2004-10-29&g=2004-10-29) en [III-189](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=2&artikel=III-189&z=2004-10-29&g=2004-10-29) en met het statuut van het Europees Stelsel van Centrale Banken en van de Europese Centrale Bank. In deze verslagen wordt ook nagegaan of een hoge mate van duurzame convergentie is bereikt, aan de hand van de mate waarin elk van deze lidstaten aan de volgende criteria voldoet:
 
@@ -2266,7 +2285,7 @@ Onder de in de tweede alinea bedoelde gekwalificeerde meerderheid van stemmen wo
 
 3. Indien volgens de procedure van lid 2 wordt besloten een derogatie te beëindigen, stelt de Raad op voorstel van de Commissie bij Europese verordening of Europees besluit onherroepelijk de koers vast waartegen de munteenheid van de betrokken lidstaat wordt vervangen door de euro, en neemt hij de overige maatregelen die nodig zijn voor de invoering van de euro als enige munteenheid in die lidstaat. De Raad besluit met eenparigheid van stemmen van de leden die de lidstaten vertegenwoordigen welke de euro als munt hebben, en van de betrokken lidstaat, na raadpleging van de Europese Centrale Bank.
 
-#### Artikel III-199
+##### Artikel III-199
 
 1. Indien en zolang er onder een derogatie vallende lidstaten zijn, wordt, onverminderd het bepaalde in [artikel III-187, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=2&artikel=III-187&z=2004-10-29&g=2004-10-29), de in artikel 45 van het statuut van het Europees Stelsel van centrale banken en van de Europese Centrale Bank bedoelde Algemene Raad van de Europese Centrale Bank als derde besluitvormend orgaan van de Europese Centrale Bank gevormd.
 
@@ -2282,11 +2301,11 @@ Onder de in de tweede alinea bedoelde gekwalificeerde meerderheid van stemmen wo
 
 - e. de vroegere taken uit te oefenen van het Europees Fonds voor monetaire samenwerking, die eerder waren overgenomen door het Europees Monetair Instituut.
 
-#### Artikel III-200
+##### Artikel III-200
 
 Iedere lidstaat die onder een derogatie valt, behandelt zijn wisselkoersbeleid als een aangelegenheid van gemeenschappelijk belang. Daarbij houdt hij rekening met de ervaring die is opgedaan bij de samenwerking in het kader van het wisselkoersmechanisme.
 
-#### Artikel III-201
+##### Artikel III-201
 
 1. In geval van moeilijkheden of ernstig dreigende moeilijkheden in de betalingsbalans van een onder een derogatie vallende lidstaat, die voortvloeien hetzij uit het ontbreken van het globaal evenwicht van zijn balans hetzij uit de aard van zijn beschikbare deviezen, en die met name de werking van de interne markt of de verwezenlijking van de gemeenschappelijke handelspolitiek in gevaar kunnen brengen, onderwerpt de Commissie de toestand in die staat en de maatregelen welke hij overeenkomstig de Grondwet met gebruikmaking van alle hem ten dienste staande middelen heeft genomen of kan nemen, onverwijld aan een onderzoek. De Commissie geeft aan welke maatregelen zij de betrokken lidstaat aanbeveelt. Indien de actie die wordt ondernomen door de onder een derogatie vallende lidstaat en de door de Commissie in overweging gegeven maatregelen niet voldoende blijken te zijn om de ondervonden of dreigende moeilijkheden uit de weg te ruimen, doet de Commissie, na raadpleging van het Economisch en Financieel Comité, aan de Raad aanbevelingen tot onderlinge bijstand en betreffende passende methoden daarvoor.
 
@@ -2304,7 +2323,7 @@ De Commissie houdt de Raad regelmatig op de hoogte van de toestand en de ontwikk
 
 De Raad kan deze machtiging intrekken en deze voorwaarden en de wijze van toepassing wijzigen.
 
-#### Artikel III-202
+##### Artikel III-202
 
 1. In geval van een plotselinge crisis in de betalingsbalans en indien een Europees besluit als bedoeld in [artikel III-201, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=5&artikel=III-201&z=2004-10-29&g=2004-10-29), niet onmiddellijk wordt vastgesteld, kan een lidstaat die onder een derogatie valt, te zijner bescherming vrijwaringsmaatregelen treffen. Die maatregelen moeten zo weinig mogelijk verstoringen in de werking van de interne markt teweegbrengen en mogen niet verder reiken dan strikt onontbeerlijk is om de plotseling opgetreden moeilijkheden te overwinnen.
 
@@ -2316,23 +2335,23 @@ De Raad kan deze machtiging intrekken en deze voorwaarden en de wijze van toepas
 
 ### AFDELING I. WERKGELEGENHEID
 
-#### Artikel III-203
+##### Artikel III-203
 
 De lidstaten en de Unie streven overeenkomstig deze afdeling naar de ontwikkeling van een gecoördineerde strategie voor de werkgelegenheid en in het bijzonder voor de bevordering van de scholing, de opleiding en het aanpassingsvermogen van de werknemers en van arbeidsmarkten die soepel reageren op economische veranderingen teneinde de in [artikel I-3](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=I&artikel=I-3&z=2004-10-29&g=2004-10-29) genoemde doelstellingen te bereiken.
 
-#### Artikel III-204
+##### Artikel III-204
 
 1. De lidstaten dragen door middel van hun werkgelegenheidsbeleid bij tot het bereiken van de in [artikel III-203](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=III&afdeling=I&artikel=III-203&z=2004-10-29&g=2004-10-29) bedoelde doelstellingen op een wijze die verenigbaar is met de overeenkomstig [artikel III-179, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=1&artikel=III-179&z=2004-10-29&g=2004-10-29), vastgestelde globale richtsnoeren voor het economisch beleid van de lidstaten en van de Unie.
 
 2. Rekening houdend met nationale gebruiken op het gebied van de verantwoordelijkheden van de sociale partners, beschouwen de lidstaten het bevorderen van de werkgelegenheid als een aangelegenheid van gemeenschappelijk belang en coördineren zij hun maatregelen op dit gebied binnen de Raad, overeenkomstig [artikel III-206](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=III&afdeling=I&artikel=III-206&z=2004-10-29&g=2004-10-29).
 
-#### Artikel III-205
+##### Artikel III-205
 
 1. De Unie draagt bij tot een hoog werkgelegenheidsniveau door samenwerking tussen de lidstaten aan te moedigen en hun optreden te steunen en, indien nodig, aan te vullen. De bevoegdheden van de lidstaten worden daarbij geëerbiedigd.
 
 2. Bij het bepalen en uitvoeren van het beleid en het optreden van de Unie wordt rekening gehouden met de doelstelling van een hoog werkgelegenheidsniveau.
 
-#### Artikel III-206
+##### Artikel III-206
 
 1. De Europese Raad beziet jaarlijks de werkgelegenheidssituatie in de Unie en neemt ter zake conclusies aan, aan de hand van een gezamenlijk jaarverslag van de Raad en de Commissie.
 
@@ -2346,13 +2365,13 @@ Deze richtsnoeren moeten verenigbaar zijn met de overeenkomstig [artikel III-179
 
 5. Op basis van de resultaten van dit onderzoek brengen de Raad en de Commissie jaarlijks gezamenlijk verslag uit aan de Europese Raad over de werkgelegenheidssituatie in de Unie en over de tenuitvoerlegging van de richtsnoeren inzake werkgelegenheid.
 
-#### Artikel III-207
+##### Artikel III-207
 
 Bij Europese wet of kaderwet kunnen stimuleringsmaatregelen worden vastgesteld die erop gericht zijn de samenwerking tussen de lidstaten aan te moedigen en hun werkgelegenheidsbeleid te ondersteunen door middel van initiatieven ter ontwikkeling van de uitwisseling van informatie en optimale praktijken, verstrekking van vergelijkende analyses en advies, alsmede bevordering van een innovatieve aanpak en evaluatie van ervaringen, in het bijzonder door gebruik te maken van proefprojecten. Deze wet wordt vastgesteld na raadpleging van het Comité van de Regio's en van het Economisch en Sociaal Comité.
 
 De Europese wet of kaderwet houdt generlei harmonisatie van de wettelijke of bestuursrechtelijke bepalingen van de lidstaten in.
 
-#### Artikel III-208
+##### Artikel III-208
 
 De Raad stelt bij gewone meerderheid van stemmen een Europees besluit vast tot instelling van een raadgevend comité voor de werkgelegenheid, teneinde de coördinatie van het werkgelegenheids- en arbeidsmarktbeleid van de lidstaten te bevorderen. De Raad besluit na raadpleging van het Europees Parlement.
 
@@ -2368,7 +2387,7 @@ Iedere lidstaat en de Commissie benoemen elk twee leden van het comité.
 
 ### AFDELING 2. HET SOCIAAL BELEID
 
-#### Artikel III-209
+##### Artikel III-209
 
 De Unie en de lidstaten stellen zich, indachtig de sociale grondrechten zoals vastgelegd in het op 18 oktober 1961 te Turijn ondertekend [Europees Sociaal Handvest](https://wetten.overheid.nl/jci1.3:c:BWBV0001021) en in het Gemeenschapshandvest van de sociale grondrechten van de werkenden van 1989, ten doel de bevordering van de werkgelegenheid, de verbetering van de levensomstandigheden en van de arbeidsvoorwaarden, zodat de onderlinge aanpassing daarvan op de weg van de vooruitgang wordt mogelijk gemaakt, alsmede een adequate sociale bescherming, de sociale dialoog, de ontwikkeling van de menselijke hulpbronnen om een duurzaam hoog werkgelegenheidsniveau mogelijk te maken, en de bestrijding van uitsluiting.
 
@@ -2376,7 +2395,7 @@ Te dien einde houden de Unie en de lidstaten in hun handelen rekening met de ver
 
 De Unie en de lidstaten zijn van oordeel dat de bovengeschetste ontwikkeling zowel uit de werking van de interne markt – waardoor de harmonisatie der sociale stelsels zal worden bevorderd – als uit de in de Grondwet bepaalde procedures en de onderlinge aanpassing van wettelijke en bestuursrechtelijke bepalingen van de lidstaten zal voortvloeien.
 
-#### Artikel III-210
+##### Artikel III-210
 
 1. Ter verwezenlijking van de doelstellingen van [artikel III-209](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=III&afdeling=2&artikel=III-209&z=2004-10-29&g=2004-10-29) wordt het optreden van de lidstaten op de volgende gebieden door de Unie ondersteund en aangevuld:
 
@@ -2426,7 +2445,7 @@ In dat geval verzekert de lidstaat zich ervan dat de sociale partners uiterlijk 
 
 6. Dit artikel is niet van toepassing op de beloning, het recht van vereniging, het stakingsrecht of het recht tot uitsluiting.
 
-#### Artikel III-211
+##### Artikel III-211
 
 1. De Commissie bevordert de raadpleging van de sociale partners op het niveau van de Unie en stelt alle maatregelen vast die ertoe kunnen dienen, door middel van een evenwichtige ondersteuning van de partijen, de dialoog tussen de partners te vergemakkelijken.
 
@@ -2436,7 +2455,7 @@ In dat geval verzekert de lidstaat zich ervan dat de sociale partners uiterlijk 
 
 4. Ter gelegenheid van de in de leden 2 en 3 bedoelde raadplegingen kunnen de sociale partners de Commissie in kennis stellen van hun wens het in [artikel III-212, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=III&afdeling=2&artikel=III-212&z=2004-10-29&g=2004-10-29), bedoelde proces in te leiden. Dit proces neemt ten hoogste negen maanden in beslag, tenzij de betrokken sociale partners en de Commissie gezamenlijk besluiten tot verlenging.
 
-#### Artikel III-212
+##### Artikel III-212
 
 1. De dialoog tussen de sociale partners op het niveau van de Unie kan, indien de sociale partners zulks wensen, leiden tot contractuele betrekkingen, waaronder overeenkomsten.
 
@@ -2444,7 +2463,7 @@ In dat geval verzekert de lidstaat zich ervan dat de sociale partners uiterlijk 
 
 Indien de betrokken overeenkomst een of meer bepalingen bevat die betrekking hebben op een van de gebieden waarvoor op grond van [artikel III-210, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=III&afdeling=2&artikel=III-210&z=2004-10-29&g=2004-10-29), eenparigheid van stemmen vereist is, besluit de Raad met eenparigheid van stemmen.
 
-#### Artikel III-213
+##### Artikel III-213
 
 Ter verwezenlijking van de doelstellingen van [artikel III-209](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=III&afdeling=2&artikel=III-209&z=2004-10-29&g=2004-10-29) en onverminderd de andere bepalingen van de Grondwet, bevordert de Commissie de samenwerking tussen de lidstaten en vergemakkelijkt zij de coördinatie van hun optreden op alle door deze afdeling bestreken gebieden van het sociaal beleid, met name op het terrein van:
 
@@ -2466,7 +2485,7 @@ Te dien einde werkt de Commissie nauw samen met de lidstaten bij het verrichten 
 
 Alvorens de in dit artikel bedoelde adviezen uit te brengen, raadpleegt de Commissie het Economisch en Sociaal Comité.
 
-#### Artikel III-214
+##### Artikel III-214
 
 1. Iedere lidstaat draagt er zorg voor dat het beginsel van gelijke beloning van vrouwelijke en mannelijke werknemers voor gelijke of gelijkwaardige arbeid wordt toegepast.
 
@@ -2482,15 +2501,15 @@ Gelijke beloning zonder onderscheid naar geslacht houdt in:
 
 4. Het beginsel van gelijke behandeling belet niet dat een lidstaat, om volledige gelijkheid van vrouwen en mannen in het beroepsleven in de praktijk te verzekeren, maatregelen handhaaft of aanneemt waarbij specifieke voordelen worden ingesteld om de uitoefening van een beroepsactiviteit door het ondervertegenwoordigde geslacht te vergemakkelijken of om nadelen in de beroepsloopbaan te voorkomen of te compenseren.
 
-#### Artikel III-215
+##### Artikel III-215
 
 De lidstaten streven ernaar de bestaande gelijkwaardigheid van de bepalingen omtrent betaalde vakantie te handhaven.
 
-#### Artikel III-216
+##### Artikel III-216
 
 De Commissie stelt ieder jaar een voortgangsverslag op over de verwezenlijking van de doelstellingen van [artikel III-209](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=III&afdeling=2&artikel=III-209&z=2004-10-29&g=2004-10-29), waarin ook de demografische situatie in de Unie wordt behandeld. Zij zendt dit verslag toe aan het Europees Parlement, aan de Raad en aan het Economisch en Sociaal Comité.
 
-#### Artikel III-217
+##### Artikel III-217
 
 De Raad stelt bij gewone meerderheid een Europees besluit vast tot instelling van een comité voor sociale bescherming met een adviestaak, teneinde de samenwerking tussen de lidstaten onderling en met de Commissie op het gebied van de sociale bescherming te bevorderen. De Raad besluit na raadpleging van het Europees Parlement.
 
@@ -2506,13 +2525,13 @@ Voor de vervulling van zijn opdracht legt het comité de nodige contacten met de
 
 Iedere lidstaat en de Commissie benoemen twee leden van het comité.
 
-#### Artikel III-218
+##### Artikel III-218
 
 De Commissie wijdt in haar jaarverslag aan het Europees Parlement een afzonderlijk hoofdstuk aan de ontwikkeling van de sociale toestand in de Unie.
 
 Het Europees Parlement kan de Commissie verzoeken verslagen op te stellen over bijzondere vraagstukken betreffende de sociale toestand.
 
-#### Artikel III-219
+##### Artikel III-219
 
 1. Teneinde de werkgelegenheid voor de werknemers in de interne markt te verbeteren en zodoende bij te dragen tot verhoging van de levensstandaard, wordt een Europees Sociaal Fonds opgericht. Dit Fonds heeft ten doel binnen de Unie de arbeidsmarktkansen en de geografische en beroepsmobiliteit van werknemers te bevorderen, alsmede de aanpassing aan veranderingen in het bedrijfsleven en in productiestelsels gemakkelijker te maken, met name door beroepsopleiding en omscholing.
 
@@ -2522,7 +2541,7 @@ Het Europees Parlement kan de Commissie verzoeken verslagen op te stellen over b
 
 ### AFDELING 3. ECONOMISCHE, SOCIALE EN TERRITORIALE SAMENHANG
 
-#### Artikel III-220
+##### Artikel III-220
 
 Teneinde de harmonische ontwikkeling van de Unie in haar geheel te bevorderen, ontwikkelt en vervolgt de Unie haar optreden ter versterking van de economische, sociale en territoriale samenhang.
 
@@ -2530,7 +2549,7 @@ De Unie stelt zich in het bijzonder ten doel, de verschillen tussen de ontwikkel
 
 Wat betreft die regio's wordt bijzondere aandacht besteed aan de plattelandsgebieden, de regio's die een industriële overgang doormaken, en de regio's die kampen met ernstige en permanente natuurlijke of demografische belemmeringen, zoals de meest noordelijke regio's met een zeer geringe bevolkingsdichtheid, alsmede insulaire, grensoverschrijdende en berggebieden.
 
-#### Artikel III-221
+##### Artikel III-221
 
 De lidstaten voeren en coördineren hun economisch beleid mede met het oog op het verwezenlijken van de doelstellingen van [artikel III-220](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=III&afdeling=3&artikel=III-220&z=2004-10-29&g=2004-10-29). Bij de vaststelling en de uitvoering van het beleid en van de maatregelen van de Unie en bij de totstandbrenging van de interne markt wordt rekening gehouden met en bijgedragen tot verwezenlijking van deze doelstellingen. De Unie ondersteunt deze verwezenlijking tevens door haar optreden via de structuurfondsen (Europees Oriëntatie- en Garantiefonds voor de landbouw, afdeling Oriëntatie, Europees Sociaal Fonds, Europees Fonds voor regionale ontwikkeling), de Europese Investeringsbank en de andere bestaande financieringsinstrumenten.
 
@@ -2538,11 +2557,11 @@ De Commissie brengt om de drie jaar aan het Europees Parlement, aan de Raad, aan
 
 Bij Europese wet of kaderwet kunnen specifieke maatregelen buiten de fondsen om worden vastgesteld, onverminderd de maatregelen die in het kader van ander beleid van de Unie worden vastgesteld. De Europese wet of kaderwet wordt na raadpleging van het Comité van de Regio's en van het Economisch en Sociaal Comité vastgesteld.
 
-#### Artikel III-222
+##### Artikel III-222
 
 Het Europees Fonds voor regionale ontwikkeling is bedoeld om een bijdrage te leveren aan het ongedaan maken van de belangrijkste regionale onevenwichtigheden in de Unie, door deel te nemen aan de ontwikkeling en de structurele aanpassing van regio's met een ontwikkelingsachterstand en aan de omschakeling van industriegebieden met teruglopende economische activiteit.
 
-#### Artikel III-223
+##### Artikel III-223
 
 1. Onverminderd [artikel III-224](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=III&afdeling=3&artikel=III-224&z=2004-10-29&g=2004-10-29), worden bij Europese wet de taken, de prioritaire doelstellingen en de organisatie van de structuurfondsen vastgesteld – hetgeen ook samenvoeging van de fondsen kan omvatten – en de algemene regels die voor deze fondsen gelden, alsmede de bepalingen die nodig zijn voor de doeltreffende werking van de fondsen en de coördinatie tussen de fondsen onderling en met de andere bestaande financieringsinstrumenten.
 
@@ -2552,7 +2571,7 @@ De Europese wetten worden in alle gevallen na raadpleging van het Comité van de
 
 2. De eerste bepalingen betreffende de fondsen met structurele strekking en het cohesiefonds die worden vastgesteld ingevolge de bepalingen die van kracht zijn op de datum van ondertekening van het Verdrag tot vaststelling van een Grondwet voor Europa, worden vastgesteld bij Europese wet van de Raad. De Raad besluit met eenparigheid van stemmen, na goedkeuring door het Europees Parlement.
 
-#### Artikel III-224
+##### Artikel III-224
 
 De toepassingsmaatregelen met betrekking tot het Europees Fonds voor regionale ontwikkeling worden bij Europese wet vastgesteld. De wet wordt na raadpleging van het Comité van de Regio's en van het Economisch en Sociaal Comité vastgesteld.
 
@@ -2560,13 +2579,13 @@ Ten aanzien van het Europees Oriëntatie- en Garantiefonds voor de landbouw, afd
 
 ### AFDELING 4. LANDBOUW EN VISSERIJ
 
-#### Artikel III-225
+##### Artikel III-225
 
 De Unie stelt een gemeenschappelijk landbouw- en visserijbeleid vast en voert dit uit.
 
 Onder „landbouwproducten” worden verstaan de voortbrengselen van bodem, veeteelt en visserij, alsmede de producten in eerste graad van bewerking welke met de genoemde voortbrengselen rechtstreeks verband houden. Verwijzingen naar het gemeenschappelijk landbouwbeleid of naar de landbouw worden geacht tevens te gelden als verwijzing naar de visserij, met inachtneming van de bijzondere kenmerken van de visserijsector.
 
-#### Artikel III-226
+##### Artikel III-226
 
 1. De interne markt omvat mede de landbouw en de handel in landbouwproducten.
 
@@ -2576,7 +2595,7 @@ Onder „landbouwproducten” worden verstaan de voortbrengselen van bodem, veet
 
 4. De werking en de ontwikkeling van de interne markt voor de landbouwproducten dienen gepaard te gaan met een gemeenschappelijk landbouwbeleid.
 
-#### Artikel III-227
+##### Artikel III-227
 
 1. Het gemeenschappelijk landbouwbeleid heeft ten doel:
 
@@ -2598,7 +2617,7 @@ Onder „landbouwproducten” worden verstaan de voortbrengselen van bodem, veet
 
 - c. het feit dat de landbouwsector in de lidstaten nauw verweven is met de gehele economie.
 
-#### Artikel III-228
+##### Artikel III-228
 
 1. Om de in [artikel III-227](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=III&afdeling=4&artikel=III-227&z=2004-10-29&g=2004-10-29) genoemde doelstellingen te verwezenlijken wordt een gemeenschappelijke ordening van de landbouwmarkten tot stand gebracht.
 
@@ -2618,7 +2637,7 @@ Een eventueel gemeenschappelijk prijsbeleid moet op gemeenschappelijke criteria 
 
 3. Om de in lid 1 bedoelde gemeenschappelijke ordening aan haar doel te laten beantwoorden, kunnen een of meer oriëntatie- en garantiefondsen voor de landbouw in het leven worden geroepen.
 
-#### Artikel III-229
+##### Artikel III-229
 
 Ter verwezenlijking van de in [artikel III-227](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=III&afdeling=4&artikel=III-227&z=2004-10-29&g=2004-10-29) genoemde doeleinden kunnen in het kader van het gemeenschappelijk landbouwbeleid met name maatregelen worden getroffen met betrekking tot:
 
@@ -2626,7 +2645,7 @@ Ter verwezenlijking van de in [artikel III-227](https://wetten.overheid.nl/jci1.
 
 - b. gemeenschappelijke acties voor de ontwikkeling van het verbruik van bepaalde producten.
 
-#### Artikel III-230
+##### Artikel III-230
 
 1. De afdeling over regels betreffende de mededinging is op de voortbrenging van en de handel in landbouwproducten slechts in zoverre van toepassing, als bij Europese wet of kaderwet met inachtneming van de in [artikel III-227](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=III&afdeling=4&artikel=III-227&z=2004-10-29&g=2004-10-29) vermelde doelstellingen en overeenkomstig [artikel III-231, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=III&afdeling=4&artikel=III-231&z=2004-10-29&g=2004-10-29), wordt bepaald.
 
@@ -2636,7 +2655,7 @@ Ter verwezenlijking van de in [artikel III-227](https://wetten.overheid.nl/jci1.
 
 - b. in het kader van economische ontwikkelingsplannen.
 
-#### Artikel III-231
+##### Artikel III-231
 
 1. De Commissie doet voorstellen voor de totstandbrenging en de uitvoering van het gemeenschappelijk landbouwbeleid, waaronder begrepen de vervanging van nationale organisaties door een van de in [artikel III-228, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=III&afdeling=4&artikel=III-228&z=2004-10-29&g=2004-10-29), genoemde vormen van gemeenschappelijke ordening en de uitvoering van de in deze afdeling bedoelde maatregelen.
 
@@ -2654,7 +2673,7 @@ Deze voorstellen houden rekening met de samenhang van de in deze afdeling bedoel
 
 5. Indien voor bepaalde grondstoffen een gemeenschappelijke ordening in het leven wordt geroepen voordat er een gemeenschappelijke ordening voor de overeenkomstige verwerkte producten bestaat, mogen de betrokken grondstoffen die gebruikt worden voor de producten welke voor uitvoer naar derde landen zijn bestemd, van buiten de Unie worden ingevoerd.
 
-#### Artikel III-232
+##### Artikel III-232
 
 Wanneer in een lidstaat een product onder een nationale marktorganisatie valt of onder een binnenlandse regeling van gelijke werking welke een gelijksoortige productie in een andere lidstaat bij de concurrentiepositie nadelig beïnvloedt, leggen de lidstaten een compenserende heffing op de invoer van dat product uit de lidstaat waar de organisatie of de regeling bestaat, tenzij deze lidstaat een compenserende heffing op de uitvoer toepast.
 
@@ -2662,7 +2681,7 @@ De Commissie regelt bij Europese verordening of Europees besluit de hoogte van d
 
 ### AFDELING 5. HET MILIEU
 
-#### Artikel III-233
+##### Artikel III-233
 
 1. Het beleid van de Unie op milieugebied draagt bij tot het nastreven van de volgende doelstellingen:
 
@@ -2692,7 +2711,7 @@ In dit verband bevatten de harmonisatiemaatregelen die voldoen aan de eisen inza
 
 De eerste alinea doet geen afbreuk aan de bevoegdheid van de lidstaten om in internationale fora te onderhandelen en internationale overeenkomsten te sluiten.
 
-#### Artikel III-234
+##### Artikel III-234
 
 1. Bij Europese wet of kaderwet worden de maatregelen vastgesteld om de in [artikel III-233](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=III&afdeling=5&artikel=III-233&z=2004-10-29&g=2004-10-29) genoemde doelstellingen te verwezenlijken. De wet of kaderwet wordt vastgesteld na raadpleging van het Comité van de Regio's en van het Economisch en Sociaal Comité.
 
@@ -2730,7 +2749,7 @@ De voor de uitvoering van die programma's nodige maatregelen worden vastgesteld 
 
 ### AFDELING 6. CONSUMENTENBESCHERMING
 
-#### Artikel III-235
+##### Artikel III-235
 
 1. Om de belangen van consumenten te bevorderen en een hoog niveau van consumentenbescherming te waarborgen, draagt de Unie bij tot de bescherming van de gezondheid, de veiligheid en de economische belangen van consumenten, alsmede tot de bevordering van hun recht op voorlichting en vorming, en hun recht van vereniging om hun belangen te behartigen.
 
@@ -2746,7 +2765,7 @@ De voor de uitvoering van die programma's nodige maatregelen worden vastgesteld 
 
 ### AFDELING 7. VERVOER
 
-#### Artikel III-236
+##### Artikel III-236
 
 1. De doelstellingen van de Grondwet worden wat het onderwerp van deze afdeling betreft nagestreefd in het kader van een gemeenschappelijk vervoerbeleid.
 
@@ -2764,19 +2783,19 @@ Bij de Europese wet of kaderwet worden vastgesteld:
 
 3. Bij de vaststelling van de in lid 2 bedoelde Europese wet of kaderwet wordt rekening gehouden met gevallen waarin de toepassing ervan ernstige gevolgen zou kunnen hebben voor de levensstandaard en de werkgelegenheid in bepaalde regio's, en voor de exploitatie van de vervoersfaciliteiten.
 
-#### Artikel III-237
+##### Artikel III-237
 
 Totdat de in [artikel III-236, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=III&afdeling=7&artikel=III-236&z=2004-10-29&g=2004-10-29), bedoelde Europese wet of kaderwet is vastgesteld, en behoudens vaststelling met eenparigheid van stemmen van een Europees besluit van de Raad waarbij een afwijking wordt toegestaan, mag geen enkele lidstaat de onderscheiden bepalingen, die terzake gelden vanaf 1 januari 1958 of, voor de toetredende staten, vanaf de datum van hun toetreding, zodanig veranderen, dat zij daardoor in hun rechtstreekse of onrechtstreekse uitwerking minder gunstig worden voor vervoerondernemers uit overige lidstaten dan voor de nationale vervoerondernemers.
 
-#### Artikel III-238
+##### Artikel III-238
 
 Met deze Grondwet zijn verenigbaar steunmaatregelen die beantwoorden aan de behoeften van de coördinatie van het vervoer of die overeenkomen met de vergoeding van bepaalde met het begrip „openbare dienst” verbonden, verplichte dienstverrichtingen.
 
-#### Artikel III-239
+##### Artikel III-239
 
 Bij iedere in het kader van deze Grondwet vastgestelde maatregel op het gebied van vrachtprijzen en vervoervoorwaarden dient de economische toestand van de vervoerondernemers in aanmerking te worden genomen.
 
-#### Artikel III-240
+##### Artikel III-240
 
 1. In het verkeer binnen de Unie is iedere discriminatie verboden die erin bestaat dat een vervoerondernemer voor dezelfde verbindingen verschillende vrachtprijzen en vervoervoorwaarden voor gelijke goederen hanteert naar gelang van de lidstaat van herkomst of van bestemming van de vervoerde waren.
 
@@ -2788,7 +2807,7 @@ De Raad kan met name bij Europese verordening of bij Europees besluit het nodige
 
 4. De Commissie onderzoekt eigener beweging of op verzoek van een lidstaat de in lid 1 bedoelde gevallen van discriminatie en stelt na raadpleging van iedere belanghebbende lidstaat in het kader van de in lid 3 bedoelde Europese verordeningen of besluiten de nodige Europese besluiten vast.
 
-#### Artikel III-241
+##### Artikel III-241
 
 1. Behoudens machtiging op grond van een Europees besluit van de Commissie, is het een lidstaat verboden voor vervoer binnen de Unie prijzen en voorwaarden op te leggen die enig element van steun of bescherming in het belang van een of meer ondernemingen of bepaalde industrieën inhouden.
 
@@ -2798,21 +2817,21 @@ De Commissie stelt na raadpleging van iedere betrokken lidstaat de nodige Europe
 
 3. Het in lid 1 bedoelde verbod is niet van toepassing op mededingingstarieven.
 
-#### Artikel III-242
+##### Artikel III-242
 
 De heffingen of andere rechten welke naast de vervoerprijs door een vervoerondernemer in verband met grensoverschrijding in rekening worden gebracht, mogen een redelijk peil niet te boven gaan, gelet op de werkelijke kosten die door de grensoverschrijding feitelijk zijn veroorzaakt. De lidstaten streven naar een verlaging van deze kosten.
 
 De Commissie kan de lidstaten aanbevelingen doen voor de toepassing van dit artikel.
 
-#### Artikel III-243
+##### Artikel III-243
 
 De bepalingen van deze afdeling staan in de BondsRepubliek Duitsland genomen maatregelen niet in de weg, voorzover deze noodzakelijk zijn om de economische nadelen welke door de deling van Duitsland zijn berokkend aan de economie van de door de deling getroffen streken in de BondsRepubliek te compenseren. Vijf jaar na de inwerkingtreding van het Verdrag tot vaststelling voor een Grondwet voor Europa kan de Raad op voorstel van de Commissie een Europees besluit tot intrekking van dit artikel vaststellen.
 
-#### Artikel III-244
+##### Artikel III-244
 
 Een comité van raadgevende aard, bestaande uit door de regeringen van de lidstaten aangewezen deskundigen, wordt aan de Commissie toegevoegd. De Commissie raadpleegt het comité over vervoeraangelegenheden zo dikwijls zij dat nodig acht.
 
-#### Artikel III-245
+##### Artikel III-245
 
 1. Deze afdeling is van toepassing op het vervoer per spoor, over de weg en over de binnenwateren.
 
@@ -2820,13 +2839,13 @@ Een comité van raadgevende aard, bestaande uit door de regeringen van de lidsta
 
 ### AFDELING 8. TRANS-EUROPESE NETWERKEN
 
-#### Artikel III-246
+##### Artikel III-246
 
 1. Teneinde bij te dragen tot de verwezenlijking van de in de [artikelen III-130](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=I&artikel=III-130&z=2004-10-29&g=2004-10-29) en [III-220](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=III&afdeling=3&artikel=III-220&z=2004-10-29&g=2004-10-29) bedoelde doelstellingen en om de burgers van de Unie, de economische subjecten, alsmede de regionale en lokale gemeenschappen in staat te stellen ten volle profijt te trekken van de voordelen die uit de totstandkoming van een ruimte zonder binnengrenzen voortvloeien, draagt de Unie bij tot de totstandbrenging en ontwikkeling van trans-Europese netwerken op het gebied van vervoers-, telecommunicatie- en energie-infrastructuur.
 
 2. In het kader van een stelsel van open en door concurrentie gekenmerkte markten is het optreden van de Unie gericht op de bevordering van de onderlinge koppeling en interoperabiliteit van nationale netwerken, alsmede van de toegang tot deze netwerken. Daarbij wordt de noodzaak in aanmerking genomen om verbindingen tot stand te brengen tussen insulaire, ingesloten en perifere regio's en de centrale regio's van de Unie.
 
-#### Artikel III-247
+##### Artikel III-247
 
 1. Voor de verwezenlijking van de in [artikel III-246](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=III&afdeling=8&artikel=III-246&z=2004-10-29&g=2004-10-29) genoemde doelstellingen:
 
@@ -2848,7 +2867,7 @@ Voor richtsnoeren en projecten van gemeenschappelijk belang die betrekking hebbe
 
 ### AFDELING 9. ONDERZOEK EN TECHNOLOGISCHE ONTWIKKELING EN RUIMTE
 
-#### Artikel III-248
+##### Artikel III-248
 
 1. Het optreden van de Unie is erop gericht haar wetenschappelijke en technologische grondslagen te versterken door de totstandbrenging van een Europese onderzoeksruimte waarbinnen onderzoekers, wetenschappelijke kennis en technologieën vrij circuleren, tot de ontwikkeling van het concurrentievermogen van de Unie en van haar industrie bij te dragen en de onderzoeksactiviteiten te bevorderen die uit hoofde van andere hoofdstukken van de Grondwet nodig worden geacht.
 
@@ -2856,7 +2875,7 @@ Voor richtsnoeren en projecten van gemeenschappelijk belang die betrekking hebbe
 
 3. Alle activiteiten van de Unie op het gebied van onderzoek en technologische ontwikkeling, met inbegrip van demonstratieprojecten, worden vastgesteld en uitgevoerd overeenkomstig deze afdeling.
 
-#### Artikel III-249
+##### Artikel III-249
 
 Voor de verwezenlijking van de in [artikel III-248](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=III&afdeling=9&artikel=III-248&z=2004-10-29&g=2004-10-29) genoemde doelstellingen onderneemt de Unie de volgende activiteiten, die de activiteiten van de lidstaten aanvullen:
 
@@ -2868,13 +2887,13 @@ Voor de verwezenlijking van de in [artikel III-248](https://wetten.overheid.nl/j
 
 - d. stimulering van de opleiding en de mobiliteit van onderzoekers in de Unie.
 
-#### Artikel III-250
+##### Artikel III-250
 
 1. De Unie en de lidstaten coördineren hun activiteiten op het gebied van onderzoek en technologische ontwikkeling om zodoende de onderlinge samenhang van het beleid van de lidstaten en het beleid van de Unie te verzekeren.
 
 2. De Commissie kan in nauwe samenwerking met de lidstaten initiatieven nemen om de in lid 1 bedoelde coördinatie te bevorderen, met name initiatieven om richtsnoeren en indicatoren vast te stellen, de uitwisseling van beste praktijken te regelen en de nodige elementen met het oog op periodieke controle en evaluatie te verzamelen. Het Europees Parlement wordt ten volle in kennis gesteld.
 
-#### Artikel III-251
+##### Artikel III-251
 
 1. Bij Europese wet wordt het meerjarenkaderprogramma vastgesteld waarin alle activiteiten die door de Unie worden gefinancierd, zijn opgenomen. Deze wet wordt vastgesteld na raadpleging van het Economisch en Sociaal Comité.
 
@@ -2892,7 +2911,7 @@ In het kaderprogramma:
 
 4. Ter aanvulling op de in het meerjarenkaderprogramma geplande activiteiten worden bij Europese wet de maatregelen vastgesteld die nodig zijn om de Europese onderzoeksruimte te realiseren. Zij wordt vastgesteld na raadpleging van het Economisch en Sociaal Comité.
 
-#### Artikel III-252
+##### Artikel III-252
 
 1. Voor de uitvoering van het meerjarenkaderprogramma worden bij Europese wet of kaderwet de volgende regels vastgesteld:
 
@@ -2914,11 +2933,11 @@ De Europese wetten worden vastgesteld na raadpleging van het Economisch en Socia
 
 De regels voor deze samenwerking kunnen worden vastgesteld in overeenkomsten tussen de Unie en de betrokken derde partijen.
 
-#### Artikel III-253
+##### Artikel III-253
 
 De Raad kan op voorstel van de Commissie bij Europese verordening of Europees besluit vaststellen, dat gemeenschappelijke ondernemingen of andere structuren worden opgericht ten dienste van de goede uitvoering van programma's van de Unie voor onderzoek en technologische ontwikkeling en demonstratie. De Raad besluit na raadpleging van het Europees Parlement en het Economisch en Sociaal Comité.
 
-#### Artikel III-254
+##### Artikel III-254
 
 1. Om de wetenschappelijke en technische vooruitgang, het industriële concurrentievermogen en de uitvoering van haar beleid te bevorderen, stippelt de Unie een Europees ruimtevaartbeleid uit. Daartoe kan zij gemeenschappelijke initiatieven bevorderen, onderzoek en technologische ontwikkeling steunen en de nodige inspanningen coördineren voor de verkenning en het gebruik van de ruimte.
 
@@ -2926,13 +2945,13 @@ De Raad kan op voorstel van de Commissie bij Europese verordening of Europees be
 
 3. De Unie gaat elke nuttige relatie aan met het Europees Ruimteagentschap.
 
-#### Artikel III-255
+##### Artikel III-255
 
 Aan het begin van ieder jaar legt de Commissie aan het Europees Parlement en aan de Raad een verslag voor. Dit verslag heeft betrekking op de activiteiten inzake onderzoek en technologische ontwikkeling en inzake verspreiding van de resultaten in het voorafgaande jaar, alsmede op het werkprogramma van het lopende jaar.
 
 ### AFDELING 10. ENERGIE
 
-#### Artikel III-256
+##### Artikel III-256
 
 1. In het kader van de totstandbrenging en de werking van de interne markt en rekening houdend met de noodzaak om het milieu in stand te houden en te verbeteren, is het beleid van de Unie op het gebied van energie erop gericht:
 
@@ -2952,7 +2971,7 @@ De Europese wetten en/of kaderwetten zijn, onverminderd [artikel III-234, lid 2,
 
 ### AFDELING 1. ALGEMENE BEPALINGEN
 
-#### Artikel III-257
+##### Artikel III-257
 
 1. De Unie is een ruimte van vrijheid, veiligheid en recht, waarin de grondrechten en de verschillende rechtsstelsels en -tradities van de lidstaten worden geëerbiedigd.
 
@@ -2962,31 +2981,31 @@ De Europese wetten en/of kaderwetten zijn, onverminderd [artikel III-234, lid 2,
 
 4. De Unie vergemakkelijkt de toegang tot de rechter, met name door het beginsel van wederzijdse erkenning van gerechtelijke en buitengerechtelijke beslissingen in burgerlijke zaken.
 
-#### Artikel III-258
+##### Artikel III-258
 
 De Europese Raad stelt de strategische richtsnoeren van de wetgevende en operationele programmering in de ruimte van vrijheid, veiligheid en recht vast.
 
-#### Artikel III-259
+##### Artikel III-259
 
 Met betrekking tot de wetgevingsvoorstellen en -initiatieven die worden ingediend in het kader van de [afdelingen 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=4&z=2004-10-29&g=2004-10-29) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=5&z=2004-10-29&g=2004-10-29) zien de nationale parlementen erop toe dat het subsidiariteitsbeginsel wordt geëerbiedigd, overeenkomstig het protocol betreffende de toepassing van de beginselen van subsidiariteit en evenredigheid.
 
-#### Artikel III-260
+##### Artikel III-260
 
 Onverminderd de [artikelen III-360 tot en met III-362](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=I&paragraaf=5&artikel=III-360&z=2004-10-29&g=2004-10-29), kan de Raad op voorstel van de Commissie bij Europese verordening of Europees besluit vaststellen, dat de lidstaten in samenwerking met de Commissie een objectieve en onpartijdige evaluatie van de uitvoering, door de autoriteiten van de lidstaten, van het door dit hoofdstuk bestreken beleid van de Unie kunnen verrichten, met name ter bevordering van de volledige toepassing van het beginsel van wederzijdse erkenning. Het Europees Parlement en de nationale parlementen worden op de hoogte gebracht van de inhoud en de resultaten van die evaluatie.
 
-#### Artikel III-261
+##### Artikel III-261
 
 Binnen de Raad wordt een permanent comité opgericht om ervoor te zorgen dat binnen de Unie de operationele samenwerking op het gebied van de binnenlandse veiligheid wordt bevorderd en versterkt. Onverminderd [artikel III-344](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=I&paragraaf=3&artikel=III-344&z=2004-10-29&g=2004-10-29), bevordert het comité de coördinatie van het optreden van de bevoegde autoriteiten van de lidstaten. De vertegenwoordigers van de betrokken organen en instanties van de Unie kunnen bij de werkzaamheden van het comité worden betrokken. Het Europees Parlement en de nationale parlementen worden over deze werkzaamheden geïnformeerd.
 
-#### Artikel III-262
+##### Artikel III-262
 
 Dit hoofdstuk laat de uitoefening van de verantwoordelijkheid van de lidstaten voor de handhaving van de openbare orde en de bescherming van de binnenlandse veiligheid onverlet.
 
-#### Artikel III-263
+##### Artikel III-263
 
 De Raad stelt bij Europese verordening regels vast voor de administratieve samenwerking tussen de diensten van de lidstaten die bevoegd zijn op de door dit hoofdstuk bestreken gebieden, en tussen deze diensten en de Commissie. De Raad besluit op voorstel van de Commissie, onder voorbehoud van [artikel III-264](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=1&artikel=III-264&z=2004-10-29&g=2004-10-29), en na raadpleging van het Europees Parlement.
 
-#### Artikel III-264
+##### Artikel III-264
 
 De in de [afdelingen 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=4&z=2004-10-29&g=2004-10-29) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=5&z=2004-10-29&g=2004-10-29) bedoelde handelingen alsmede de in [artikel III-263](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=1&artikel=III-263&z=2004-10-29&g=2004-10-29) bedoelde Europese verordeningen tot vaststelling van regels voor administratieve samenwerking op de door die afdelingen bestreken gebieden worden vastgesteld:
 
@@ -2996,7 +3015,7 @@ De in de [afdelingen 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III
 
 ### AFDELING 2. BELEID INZAKE GRENSCONTROLES, ASIEL EN IMMIGRATIE
 
-#### Artikel III-265
+##### Artikel III-265
 
 1. De Unie ontwikkelt een beleid dat tot doel heeft:
 
@@ -3020,7 +3039,7 @@ De in de [afdelingen 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III
 
 3. Dit artikel laat de bevoegdheid van de lidstaten inzake de geografische afbakening van hun grenzen overeenkomstig het nationaal recht onverlet.
 
-#### Artikel III-266
+##### Artikel III-266
 
 1. De Unie ontwikkelt een gemeenschappelijk beleid inzake asiel, subsidiaire bescherming en tijdelijke bescherming, teneinde iedere onderdaan van een derde land die internationale bescherming behoeft, een passende status te verlenen en de naleving van het beginsel van non-refoulement te garanderen. Dit beleid moet in overeenstemming zijn met het [Verdrag van Genève](https://wetten.overheid.nl/jci1.3:c:BWBV0001002) van 28 juli 1951 en het [Protocol van 31 januari 1967 betreffende de status van vluchtelingen](onbekend) alsmede met de andere toepasselijke verdragen.
 
@@ -3042,7 +3061,7 @@ De in de [afdelingen 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III
 
 3. Indien een of meer lidstaten ten gevolge van een plotselinge toestroom van onderdanen van derde landen in een noodsituatie terechtkomen, kan de Raad op voorstel van de Commissie Europese verordeningen of besluiten met voorlopige maatregelen ten gunste van de betrokken lidstaat of lidstaten vaststellen. De Raad besluit na raadpleging van het Europees Parlement.
 
-#### Artikel III-267
+##### Artikel III-267
 
 1. De Unie ontwikkelt een gemeenschappelijk immigratiebeleid, dat erop gericht is in alle stadia te zorgen voor een efficiënt beheer van de migratiestromen, een billijke behandeling van onderdanen van derde landen die legaal op het grondgebied van de lidstaten verblijven, en een intensievere preventie en bestrijding van illegale immigratie en mensenhandel.
 
@@ -3062,13 +3081,13 @@ De in de [afdelingen 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III
 
 5. Dit artikel laat het recht van de lidstaten onverlet, zelf te bepalen hoeveel onderdanen van derde landen, afkomstig uit derde landen, tot hun grondgebied worden toegelaten teneinde daar al dan niet in loondienst arbeid te verrichten.
 
-#### Artikel III-268
+##### Artikel III-268
 
 Aan het in deze afdeling bedoelde beleid van de Unie en de uitvoering daarvan liggen het beginsel van solidariteit en van billijke verdeling van de verantwoordelijkheden tussen de lidstaten, ook op financieel vlak, ten grondslag. De handelingen van de Unie die uit hoofde van deze afdeling worden vastgesteld, bevatten passende bepalingen voor de toepassing van dit beginsel.
 
 ### AFDELING 3. JUSTITIËLE SAMENWERKING IN BURGERLIJKE ZAKEN
 
-#### Artikel III-269
+##### Artikel III-269
 
 1. De Unie ontwikkelt justitiële samenwerking in burgerlijke zaken met grensoverschrijdende gevolgen, die berust op het beginsel van wederzijdse erkenning van rechterlijke beslissingen en van beslissingen in buitengerechtelijke zaken. Deze samenwerking kan maatregelen ter aanpassing van de wettelijke en bestuursrechtelijke bepalingen van de lidstaten omvatten.
 
@@ -3096,7 +3115,7 @@ De Raad kan op voorstel van de Commissie bij Europees besluit vaststellen ten aa
 
 ### AFDELING 4. JUSTITIËLE SAMENWERKING IN STRAFZAKEN
 
-#### Artikel III-270
+##### Artikel III-270
 
 1. De justitiële samenwerking in strafzaken in de Unie berust op het beginsel van de wederzijdse erkenning van rechterlijke uitspraken en beslissingen en omvat de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen van de lidstaten op de in lid 2 en in [artikel III-271](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=4&artikel=III-271&z=2004-10-29&g=2004-10-29) genoemde gebieden.
 
@@ -3132,7 +3151,7 @@ De vaststelling van de in dit lid bedoelde minimumvoorschriften belet de lidstat
 
 4. Indien de Europese Raad na afloop van de in lid 3 bedoelde periode niet heeft gehandeld, of indien 12 maanden na de indiening van een nieuw ontwerp op grond van lid 3, onder b, de Europese kaderwet nog niet is vastgesteld, en ten minste eenderde van de lidstaten nauwere samenwerking wenst aan te gaan op basis van het betrokken ontwerp voor een kaderwet, stellen zij het Europees Parlement, de Raad en de Commissie daarvan op de hoogte. In dat geval wordt de in de [artikelen I-44, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=V&hoofdstuk=III&artikel=I-44&z=2004-10-29&g=2004-10-29), en [III-419, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=III&artikel=III-419&z=2004-10-29&g=2004-10-29), bedoelde machtiging tot nauwere samenwerking geacht te zijn verleend en zijn de bepalingen betreffende nauwere samenwerking van toepassing.
 
-#### Artikel III-271
+##### Artikel III-271
 
 1. Bij Europese kaderwet kunnen minimumvoorschriften worden vastgesteld betreffende de bepaling van strafbare feiten en sancties in verband met vormen van bijzonder zware criminaliteit met een grensoverschrijdende dimensie die voortvloeit uit de aard of de gevolgen van deze strafbare feiten of uit een bijzondere noodzaak om deze op gemeenschappelijke basis te bestrijden.
 
@@ -3152,11 +3171,11 @@ Afhankelijk van de ontwikkelingen in de criminaliteit kan de Raad bij Europees b
 
 In dat geval wordt de in [artikelen I-44, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=V&hoofdstuk=III&artikel=I-44&z=2004-10-29&g=2004-10-29), en in [artikel III-419, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=III&artikel=III-419&z=2004-10-29&g=2004-10-29), bedoelde machtiging tot nauwere samenwerking geacht te zijn verleend en zijn de bepalingen betreffende nauwere samenwerking van toepassing.
 
-#### Artikel III-272
+##### Artikel III-272
 
 Bij Europese wet of kaderwet kunnen maatregelen worden vastgesteld ter stimulering en ondersteuning van het optreden van de lidstaten op het gebied van misdaadpreventie, met uitsluiting van enige harmonisatie van de wettelijke en bestuursrechtelijke bepalingen van de lidstaten.
 
-#### Artikel III-273
+##### Artikel III-273
 
 1. De opdracht van Eurojust bestaat in het ondersteunen en versterken van de coördinatie en de samenwerking tussen de nationale autoriteiten die belast zijn met het onderzoek en de vervolging van zware criminaliteit welke twee of meer lidstaten schaadt of een vervolging op gemeenschappelijke basis vereist, op basis van de door de autoriteiten van de lidstaten en Europol uitgevoerde operaties en verstrekte informatie.
 
@@ -3172,7 +3191,7 @@ Bij Europese wet wordt tevens bepaald, op welke wijze het Europees Parlement en 
 
 2. In het kader van de in lid 1 bedoelde vervolgingen en onverminderd [artikel III-274](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=4&artikel=III-274&z=2004-10-29&g=2004-10-29), worden de formele handelingen in verband met de gerechtelijke procedure gesteld door de bevoegde nationale functionarissen.
 
-#### Artikel III-274
+##### Artikel III-274
 
 1. Ter bestrijding van strafbare feiten die de financiële belangen van de Unie schaden, kan op de grondslag van Eurojust bij Europese wet van de Raad een Europees openbaar ministerie worden ingesteld. De Raad besluit met eenparigheid van stemmen, na goedkeuring door het Europees Parlement.
 
@@ -3184,7 +3203,7 @@ Bij Europese wet wordt tevens bepaald, op welke wijze het Europees Parlement en 
 
 ### AFDELING 5. POLITIËLE SAMENWERKING
 
-#### Artikel III-275
+##### Artikel III-275
 
 1. De Unie ontwikkelt een vorm van politiële samenwerking waarbij alle bevoegde autoriteiten van de lidstaten betrokken zijn, met inbegrip van de politie, de douane en andere gespecialiseerde wetshandhavingsdiensten die belast zijn met het voorkomen, opsporen en onderzoeken van strafbare feiten.
 
@@ -3198,7 +3217,7 @@ Bij Europese wet wordt tevens bepaald, op welke wijze het Europees Parlement en 
 
 3. Bij Europese wet of kaderwet van de Raad kunnen maatregelen worden vastgesteld die betrekking hebben op de operationele samenwerking tussen de in dit artikel bedoelde autoriteiten. De Raad besluit met eenparigheid van stemmen, na raadpleging van het Europees Parlement.
 
-#### Artikel III-276
+##### Artikel III-276
 
 1. De opdracht van Europol is het optreden van de politie-instanties en andere wetshandhavingsdiensten van de lidstaten, alsmede hun wederzijdse samenwerking bij de voorkoming en bestrijding van zware criminaliteit waardoor twee of meer lidstaten worden getroffen, van terrorisme en van vormen van criminaliteit die een schending inhouden van een gemeenschappelijk belang dat tot het beleid van de Unie behoort, te ondersteunen en te versterken.
 
@@ -3212,7 +3231,7 @@ Bij Europese wet wordt tevens bepaald op welke wijze de activiteiten van Europol
 
 3. Iedere operationele actie van Europol moet worden uitgevoerd in overleg en overeenstemming met de autoriteiten van de lidstaat op wiens of de lidstaten op wier grondgebied de actie wordt uitgevoerd. Over het gebruik van dwangmiddelen beslissen alleen de bevoegde nationale autoriteiten.
 
-#### Artikel III-277
+##### Artikel III-277
 
 De voorwaarden en de beperkingen waarbinnen de in de [artikelen III-270](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=4&artikel=III-270&z=2004-10-29&g=2004-10-29) en [III-275](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=5&artikel=III-275&z=2004-10-29&g=2004-10-29) bedoelde bevoegde autoriteiten van de lidstaten op het grondgebied van een andere lidstaat in overleg en overeenstemming met de autoriteiten van die staat mogen optreden worden bij Europese wet of kaderwet van de Raad vastgesteld. De Raad besluit met eenparigheid van stemmen, na raadpleging van het Europees Parlement.
 
@@ -3220,7 +3239,7 @@ De voorwaarden en de beperkingen waarbinnen de in de [artikelen III-270](https:/
 
 ### AFDELING 1. VOLKSGEZONDHEID
 
-#### Artikel III-278
+##### Artikel III-278
 
 1. Bij de bepaling en de uitvoering van het gehele beleid en optreden van de Unie wordt een hoog niveau van bescherming van de menselijke gezondheid verzekerd.
 
@@ -3258,7 +3277,7 @@ De Europese wet of kaderwet wordt aangenomen na raadpleging van het Comité van 
 
 ### AFDELING 2. DE INDUSTRIE
 
-#### Artikel III-279
+##### Artikel III-279
 
 1. De Unie en de lidstaten scheppen de voorwaarden waaronder de industrie van de Unie kan concurreren.
 
@@ -3280,7 +3299,7 @@ Deze afdeling verschaft geen grondslag voor invoering door de Unie van maatregel
 
 ### AFDELING 3. CULTUUR
 
-#### Artikel III-280
+##### Artikel III-280
 
 1. De Unie draagt bij tot ontplooiing van de culturen van de lidstaten, onder eerbiediging van de nationale en regionale verscheidenheid van die culturen, maar tegelijk ook de nadruk leggend op het gemeenschappelijk cultureel erfgoed.
 
@@ -3306,7 +3325,7 @@ Deze afdeling verschaft geen grondslag voor invoering door de Unie van maatregel
 
 ### AFDELING 4. TOERISME
 
-#### Artikel III-281
+##### Artikel III-281
 
 1. De Unie zorgt voor aanvulling van het optreden van de lidstaten in de toerismesector, met name door bevordering van het concurrentievermogen van de ondernemingen van de Unie in die sector.
 
@@ -3320,7 +3339,7 @@ In dit verband is het optreden van de Unie gericht op:
 
 ### AFDELING 5. ONDERWIJS, JEUGD, SPORT EN BEROEPSOPLEIDING
 
-#### Artikel III-282
+##### Artikel III-282
 
 1. De Unie draagt bij tot de ontwikkeling van onderwijs van hoog gehalte door samenwerking tussen de lidstaten aan te moedigen en zo nodig hun activiteiten te ondersteunen en aan te vullen. Zij eerbiedigt ten volle de verantwoordelijkheid van de lidstaten voor de inhoud van het onderwijs en de opzet van het onderwijsstelsel en van hun verscheidenheid van cultuur en taal.
 
@@ -3350,7 +3369,7 @@ Het optreden van de Unie is erop gericht:
 
 - b. neemt de Raad op voorstel van de Commissie aanbevelingen aan.
 
-#### Artikel III-283
+##### Artikel III-283
 
 1. De Unie voert inzake beroepsopleiding een beleid waardoor het optreden van de lidstaten wordt versterkt en aangevuld, onder volledige eerbiediging van de verantwoordelijkheid van de lidstaten voor de inhoud en de opzet van de beroepsopleiding.
 
@@ -3376,7 +3395,7 @@ Het optreden van de Unie is erop gericht:
 
 ### AFDELING 6. CIVIELE BESCHERMING
 
-#### Artikel III-284
+##### Artikel III-284
 
 1. De Unie bevordert de samenwerking tussen de lidstaten om zodoende te komen tot een grotere doeltreffendheid van de systemen ter voorkoming van en bescherming tegen natuurrampen of door de mens veroorzaakte rampen.
 
@@ -3392,7 +3411,7 @@ Het optreden van de Unie is erop gericht:
 
 ### AFDELING 7. ADMINISTRATIEVE SAMENWERKING
 
-#### Artikel III-285
+##### Artikel III-285
 
 1. De doeltreffende uitvoering van de wetgeving van de Unie door de lidstaten, die van wezenlijk belang is voor de goede werking van de Unie, wordt beschouwd als een aangelegenheid van gemeenschappelijk belang.
 
@@ -3402,7 +3421,7 @@ Het optreden van de Unie is erop gericht:
 
 ## TITEL IV. ASSOCIATIE VAN DE LANDEN EN GEBIEDEN OVERZEE
 
-#### Artikel III-286
+##### Artikel III-286
 
 1. De niet-Europese landen en gebieden die bijzondere betrekkingen onderhouden met Denemarken, Frankrijk, Nederland en het Verenigd Koninkrijk, worden met de Unie geassocieerd. Die landen en gebieden, hierna genoemd landen en gebieden, worden opgesomd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&bijlage=II&z=2004-10-29&g=2004-10-29).
 
@@ -3412,7 +3431,7 @@ Deze titel is op Groenland van toepassing, behoudens de bijzondere bepalingen va
 
 De associatie schept in de eerste plaats de mogelijkheid, de belangen en de voorspoed van de inwoners van die landen en gebieden te bevorderen, om hen zodoende te brengen tot de economische, sociale en culturele ontwikkeling welke zij verwachten.
 
-#### Artikel III-287
+##### Artikel III-287
 
 Door de associatie worden de volgende doeleinden nagestreefd:
 
@@ -3426,7 +3445,7 @@ Door de associatie worden de volgende doeleinden nagestreefd:
 
 - e. in de betrekkingen tussen de lidstaten en deze landen en gebieden wordt het recht van vestiging van de onderdanen en rechtspersonen op voet van non-discriminatie geregeld overeenkomstig de bepalingen van [titel III, hoofdstuk I, afdeling 2, onderafdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=2&paragraaf=2&z=2004-10-29&g=2004-10-29), betreffende het recht van vestiging en met toepassing van de daarin vastgestelde procedures, behoudens de krachtens [artikel III-291](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=IV&artikel=III-291&z=2004-10-29&g=2004-10-29) vastgestelde handelingen.
 
-#### Artikel III-288
+##### Artikel III-288
 
 1. De goederen van oorsprong uit de landen en gebieden profiteren bij hun invoer in de lidstaten van het bij de Grondwet ingestelde verbod op douanerechten tussen de lidstaten.
 
@@ -3440,15 +3459,15 @@ De in de eerste alinea bedoelde rechten mogen niet hoger zijn dan de invoerrecht
 
 5. De heffing of wijziging van douanerechten op de in de landen en gebieden ingevoerde goederen mag noch in rechte noch in feite aanleiding geven tot rechtstreekse of onrechtstreekse discriminatie tussen importen uit verschillende lidstaten.
 
-#### Artikel III-289
+##### Artikel III-289
 
 Indien het peil van de rechten op goederen van herkomst uit een derde land bij invoer in een land of gebied van dien aard is dat, als gevolg van de toepassing van [artikel III-288, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=IV&artikel=III-288&z=2004-10-29&g=2004-10-29), het handelsverkeer zich ten nadele van een der lidstaten kan verleggen, kan deze staat de Commissie verzoeken, de overige lidstaten voor te stellen de nodige corrigerende maatregelen te treffen.
 
-#### Artikel III-290
+##### Artikel III-290
 
 Behoudens de bepalingen betreffende de volksgezondheid, de openbare veiligheid en de openbare orde, wordt het vrije verkeer van werknemers uit de landen en gebieden binnen de lidstaten en van werknemers uit de lidstaten binnen de landen en gebieden geregeld bij overeenkomstig [artikel III-291](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=IV&artikel=III-291&z=2004-10-29&g=2004-10-29) vastgestelde handelingen.
 
-#### Artikel III-291
+##### Artikel III-291
 
 De Raad stelt, op voorstel van de Commissie, op basis van de resultaten die in het kader van de associatie van de landen en gebieden met de Unie zijn bereikt, met eenparigheid van stemmen bij Europese wet, kaderwet, verordening en bij Europees besluit de regels en de procedure voor de associatie van de landen en gebieden met de Unie vast. Deze wetten en kaderwetten worden vastgesteld na raadpleging van het Europees Parlement.
 
@@ -3456,7 +3475,7 @@ De Raad stelt, op voorstel van de Commissie, op basis van de resultaten die in h
 
 ### HOOFDSTUK I. ALGEMEEN TOEPASSELIJKE BEPALINGEN
 
-#### Artikel III-292
+##### Artikel III-292
 
 1. Het internationaal optreden van de Unie berust op en is gericht op de wereldwijde verspreiding van de beginselen die aan de oprichting, de ontwikkeling en de uitbreiding van de Unie ten grondslag liggen: de democratie, de rechtsstaat, de universaliteit en de ondeelbaarheid van de mensenrechten en de fundamentele vrijheden, de eerbiediging van de menselijke waardigheid, de beginselen van gelijkheid en solidariteit en de naleving van de beginselen van het [Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143) en het internationaal recht.
 
@@ -3482,7 +3501,7 @@ De Unie streeft ernaar betrekkingen te ontwikkelen en partnerschappen aan te gaa
 
 3. De Unie eerbiedigt de in de leden 1 en 2 bedoelde beginselen en streeft de in deze leden genoemde doelstellingen na bij de bepaling en de uitvoering van het externe optreden op de verschillende door deze titel bestreken gebieden, alsmede van het overige beleid van de Unie wat de externe aspecten betreft. De Unie ziet toe op de samenhang tussen de diverse onderdelen van haar externe optreden en tussen het externe optreden en het beleid van de Unie op andere terreinen. De Raad en de Commissie, hierin bijgestaan door de minister van Buitenlandse Zaken van de Unie, dragen zorg voor deze samenhang en werken daartoe samen.
 
-#### Artikel III-293
+##### Artikel III-293
 
 1. De Europese Raad stelt op basis van de in [artikel III-292](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=V&hoofdstuk=I&artikel=III-292&z=2004-10-29&g=2004-10-29) vermelde beginselen en doelstellingen de strategische belangen en doelstellingen van de Unie vast.
 
@@ -3496,7 +3515,7 @@ De Europese Raad besluit met eenparigheid van stemmen op aanbeveling van de Raad
 
 ### AFDELING 1. GEMEENSCHAPPELIJKE BEPALINGEN
 
-#### Artikel III-294
+##### Artikel III-294
 
 1. In het kader van de beginselen en doelstellingen van zijn externe optreden, bepaalt en voert de Unie een gemeenschappelijk buitenlands en veiligheidsbeleid dat alle terreinen van het buitenlands en veiligheidsbeleid bestrijkt.
 
@@ -3520,7 +3539,7 @@ De Raad en de minister van Buitenlandse Zaken van de Unie zien erop toe dat deze
 
 - c. de systematische samenwerking tussen de lidstaten met betrekking tot de beleidsvoering te versterken.
 
-#### Artikel III-295
+##### Artikel III-295
 
 1. De Europese Raad stelt de algemene richtsnoeren voor het gemeenschappelijk buitenlands en veiligheidsbeleid vast, onder meer in aangelegenheden met consequenties op defensiegebied.
 
@@ -3528,7 +3547,7 @@ Indien een internationale ontwikkeling dit vereist, wordt de Europese Raad door 
 
 2. Op basis van de algemene richtsnoeren en strategische beleidslijnen van de Europese Raad, stelt de Raad de Europese besluiten voor het bepalen en uitvoeren van het gemeenschappelijk buitenlands en veiligheidsbeleid vast.
 
-#### Artikel III-296
+##### Artikel III-296
 
 1. De minister van Buitenlandse Zaken van de Unie, die de Raad Buitenlandse Zaken voorzit, draagt door middel van zijn voorstellen bij tot de voorbereiding van het gemeenschappelijk buitenlands en veiligheidsbeleid en waarborgt de uitvoering van de Europese besluiten van de Europese Raad en van de Raad.
 
@@ -3536,7 +3555,7 @@ Indien een internationale ontwikkeling dit vereist, wordt de Europese Raad door 
 
 3. Bij de vervulling van zijn ambt wordt de minister van Buitenlandse Zaken van de Unie bijgestaan door een Europese dienst voor extern optreden. Deze dienst werkt samen met de diplomatieke diensten van de lidstaten en is samengesteld uit ambtenaren uit de bevoegde diensten van het secretariaat-generaal van de Raad en van de Commissie en door de nationale diplomatieke diensten gedetacheerde personeelsleden. De inrichting en de werking van de Europese dienst extern beleid worden vastgesteld bij een Europees besluit van de Raad. De Raad besluit op voorstel van de minister van Buitenlandse Zaken van de Unie na raadpleging van het Europees Parlement en na de instemming van de Commissie verkregen te hebben.
 
-#### Artikel III-297
+##### Artikel III-297
 
 1. Wanneer een internationale situatie een operationeel optreden van de Unie vereist, neemt de Raad de nodige Europese besluiten. In die besluiten worden de doelstellingen, de draagwijdte, de middelen welke de Unie ter beschikking dienen te worden gesteld, en de voorwaarden voor de uitvoering van het optreden omschreven, alsmede, zo nodig, de duur ervan.
 
@@ -3550,17 +3569,17 @@ Indien zich een verandering van omstandigheden voordoet met een duidelijke invlo
 
 5. Indien een lidstaat bij de uitvoering van een in dit artikel bedoeld Europees besluit ernstige moeilijkheden ondervindt, legt hij deze voor aan de Raad, die daarover beraadslaagt en passende oplossingen zoekt. Deze mogen niet in strijd zijn met de doelstellingen van het optreden noch afbreuk doen aan de doeltreffendheid ervan.
 
-#### Artikel III-298
+##### Artikel III-298
 
 De Raad stelt Europese besluiten vast waarin de aanpak van de Unie ten aanzien van een bepaalde aangelegenheid van geografische of thematische aard wordt bepaald. De lidstaten dragen er zorg voor dat hun nationaal beleid met de standpunten van de Unie overeenstemt.
 
-#### Artikel III-299
+##### Artikel III-299
 
 1. Iedere lidstaat, de minister van Buitenlandse Zaken van de Unie, of de minister met de steun van de Commissie, kan ieder vraagstuk in verband met het gemeenschappelijk buitenlands en veiligheidsbeleid aan de Raad voorleggen en hem voorstellen respectievelijk initiatieven voorleggen.
 
 2. In gevallen waarin snelle besluitvorming is vereist, roept de minister van Buitenlandse Zaken van de Unie, hetzij ambtshalve, hetzij op verzoek van een lidstaat, binnen achtenveertig uur of, in geval van absolute noodzaak, op kortere termijn de Raad in buitengewone zitting bijeen.
 
-#### Artikel III-300
+##### Artikel III-300
 
 1. De in dit hoofdstuk bedoelde Europese besluiten worden door de Raad met eenparigheid van stemmen vastgesteld.
 
@@ -3582,27 +3601,27 @@ Indien een lid van de Raad verklaart om essentiële, nader genoemde, redenen van
 
 4. De leden 2 en 3 zijn niet van toepassing op besluiten die consequenties hebben op militair of defensiegebied.
 
-#### Artikel III-301
+##### Artikel III-301
 
 1. Wanneer de Europese Raad of de Raad een gemeenschappelijke aanpak van de Unie in de zin van [artikel I-40, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=V&hoofdstuk=II&artikel=I-40&z=2004-10-29&g=2004-10-29), heeft bepaald, coördineren de minister van Buitenlandse Zaken van de Unie en de ministers van Buitenlandse Zaken van de lidstaten hun activiteiten in de Raad.
 
 2. De diplomatieke missies van de lidstaten en de delegaties van de Unie in derde landen en bij internationale organisaties werken samen en dragen bij tot de formulering en de uitvoering van de in lid 1 bedoelde gemeenschappelijke aanpak.
 
-#### Artikel III-302
+##### Artikel III-302
 
 De Raad kan, op voorstel van de minister van Buitenlandse Zaken van de Unie, een speciale vertegenwoordiger benoemen aan wie hij een mandaat voor specifieke beleidsvraagstukken verleent. De speciale vertegenwoordiger voert zijn mandaat uit onder het gezag van de minister.
 
-#### Artikel III-303
+##### Artikel III-303
 
 De Unie kan met één of meer staten of internationale organisaties overeenkomsten sluiten op de gebieden die onder dit hoofdstuk vallen.
 
-#### Artikel III-304
+##### Artikel III-304
 
 1. De minister van Buitenlandse Zaken van de Unie raadpleegt het Europees Parlement en verstrekt het Europees Parlement informatie overeenkomstig de [artikelen I-40, lid 8](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=V&hoofdstuk=II&artikel=I-40&z=2004-10-29&g=2004-10-29), en [I-41, lid 8](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=V&hoofdstuk=II&artikel=I-41&z=2004-10-29&g=2004-10-29). Hij ziet erop toe dat de opvattingen van het Europees Parlement naar behoren in aanmerking worden genomen. Bij de informatieverstrekking aan het Europees Parlement kunnen de speciale vertegenwoordigers worden ingeschakeld.
 
 2. Het Europees Parlement kan vragen of aanbevelingen tot de Raad en de minister van Buitenlandse Zaken van de Unie richten. Het wijdt tweemaal per jaar een debat aan de vooruitgang die is geboekt bij de uitvoering van het gemeenschappelijk buitenlands en veiligheidsbeleid, met inbegrip van het gemeenschappelijk veiligheids- en defensiebeleid.
 
-#### Artikel III-305
+##### Artikel III-305
 
 1. De lidstaten coördineren hun optreden in internationale organisaties en op internationale conferenties. Zij verdedigen in deze fora de standpunten van de Unie. De minister van Buitenlandse Zaken van de Unie organiseert de coördinatie.
 
@@ -3614,13 +3633,13 @@ De lidstaten die tevens lid zijn van de Veiligheidsraad van de Verenigde Naties 
 
 Wanneer de Unie een standpunt over een thema op de agenda van de Veiligheidsraad van de Verenigde Naties heeft bepaald, doen de lidstaten die daarin zitting hebben, het verzoek dat de minister van Buitenlandse Zaken van de Unie wordt uitgenodigd om het standpunt van de Unie uiteen te zetten.
 
-#### Artikel III-306
+##### Artikel III-306
 
 De diplomatieke en consulaire missies van de lidstaten en de delegaties van de Unie in derde landen en op internationale conferenties, alsmede hun vertegenwoordigingen bij internationale organisaties werken samen om te verzekeren dat de krachtens dit hoofdstuk vastgestelde Europese besluiten die standpunten en optredens van de Unie bepalen, in acht worden genomen en worden uitgevoerd. Zij intensiveren hun samenwerking door inlichtingen uit te wisselen en gezamenlijke evaluaties te verrichten.
 
 Zij dragen bij tot de uitvoering van het recht op bescherming van de Europese burgers op het grondgebied van derde landen als bedoeld in de [artikelen I-10, lid 2, onder c](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=II&artikel=I-10&z=2004-10-29&g=2004-10-29), alsmede van de overeenkomstig [artikel III-127](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=II&artikel=III-127&z=2004-10-29&g=2004-10-29) vastgestelde maatregelen.
 
-#### Artikel III-307
+##### Artikel III-307
 
 1. Onverminderd [artikel III-344](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=I&paragraaf=3&artikel=III-344&z=2004-10-29&g=2004-10-29) volgt een Politiek en Veiligheidscomité de internationale situatie op de onder het gemeenschappelijk buitenlands en veiligheidsbeleid vallende gebieden en draagt het bij tot de beleidsbepaling door op verzoek van de Raad, van de minister van Buitenlandse Zaken van de Unie of eigener beweging adviezen aan de Raad uit te brengen. Onverminderd de bevoegdheden van de minister van Buitenlandse Zaken van de Unie, ziet het comité er ook op toe dat het overeengekomen beleid wordt uitgevoerd.
 
@@ -3628,7 +3647,7 @@ Zij dragen bij tot de uitvoering van het recht op bescherming van de Europese bu
 
 De Raad kan het comité voor het doel en voor de duur van een crisisbeheersingsoperatie, als bepaald door de Raad, machtigen passende maatregelen te nemen inzake de politieke controle en strategische aansturing van de operatie.
 
-#### Artikel III-308
+##### Artikel III-308
 
 De uitvoering van het gemeenschappelijk buitenlands en veiligheidsbeleid heeft geen gevolgen voor de toepassing van de procedures en de respectieve omvang van de bevoegdheden van de instellingen, waarin de Grondwet voorziet voor de uitoefening van de in de [artikelen I-13 tot en met I-15](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=III&artikel=I-12&z=2004-10-29&g=2004-10-29), en [I-17](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=III&artikel=I-17&z=2004-10-29&g=2004-10-29) bedoelde bevoegdheden van de Unie.
 
@@ -3636,19 +3655,19 @@ Evenmin heeft de uitvoering van de in deze artikelen bedoelde beleidsonderdelen 
 
 ### AFDELING 2. HET GEMEENSCHAPPELIJK VEILIGHEIDS- EN DEFENSIEBELEID
 
-#### Artikel III-309
+##### Artikel III-309
 
 1. De in [artikel I-41, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=V&hoofdstuk=II&artikel=I-41&z=2004-10-29&g=2004-10-29), bedoelde missies, waarbij de Unie civiele en militaire middelen kan inzetten, omvatten gezamenlijke ontwapeningsacties, humanitaire en reddingsmissies, advies en bijstand op militair gebied, conflictpreventie en vredeshandhaving, missies van strijdkrachten met het oog op crisisbeheersing, daaronder begrepen vredestichting, alsmede stabiliseringsoperaties na afloop van conflicten. Al deze taken kunnen bijdragen tot de strijd tegen het terrorisme, ook door middel van steun aan derde landen om het terrorisme op hun grondgebied te bestrijden.
 
 2. De Raad regelt bij Europees besluit de in lid 1 bedoelde missies en stelt doel en draagwijdte ervan vast, alsmede de algemene voorschriften voor de uitvoering ervan. De minister van Buitenlandse Zaken van de Unie draagt onder gezag van de Raad en in nauw en voortdurend contact met het Politiek en Veiligheidscomité zorg voor de coördinatie van de civiele en militaire aspecten van deze missies.
 
-#### Artikel III-310
+##### Artikel III-310
 
 1. In het kader van de overeenkomstig [artikel III-309](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=V&hoofdstuk=II&afdeling=2&artikel=III-309&z=2004-10-29&g=2004-10-29) vastgestelde Europese besluiten kan de Raad de uitvoering van een missie toevertrouwen aan een groep lidstaten die dat willen en die over de nodige vermogens voor een dergelijke missie beschikken. Deze lidstaten regelen in samenspraak met de minister van Buitenlandse Zaken van de Unie onderling het beheer van de missie.
 
 2. De lidstaten die aan de missie deelnemen, brengen de Raad regelmatig op eigen initiatief of op verzoek van een andere lidstaat op de hoogte van het verloop van de missie. De deelnemende lidstaten wenden zich onverwijld tot de Raad indien de uitvoering van de missie zwaarwegende gevolgen met zich meebrengt of een wijziging vereist van de doelstelling, de reikwijdte of de uitvoeringsbepalingen van de missie, zoals vastgesteld bij de in lid 1 bedoelde Europese besluiten. In dat geval stelt de Raad de nodige Europese besluiten vast.
 
-#### Artikel III-311
+##### Artikel III-311
 
 1. Het op grond van [artikel I-41, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=V&hoofdstuk=II&artikel=I-41&z=2004-10-29&g=2004-10-29), opgerichte Agentschap op het gebied van de ontwikkeling van defensievermogens, onderzoek, aankopen en bewapening (Europees Defensieagentschap), dat onder het gezag van de Raad ressorteert, heeft tot taak:
 
@@ -3664,7 +3683,7 @@ Evenmin heeft de uitvoering van de in deze artikelen bedoelde beleidsonderdelen 
 
 2. Het Europees Defensieagentschap staat open voor alle lidstaten die daarvan deel wensen uit te maken. De Raad stelt met gekwalificeerde meerderheid een Europees besluit vast houdende vastlegging van het statuut, de zetel en de voorschriften voor de werking van het Agentschap. In dat besluit wordt rekening gehouden met de mate van werkelijke deelneming aan de activiteiten van het Agentschap. Binnen het Agentschap worden specifieke groepen lidstaten gevormd die gezamenlijke projecten uitvoeren. Het Agentschap vervult zijn taken voorzover nodig in overleg met de Commissie.
 
-#### Artikel III-312
+##### Artikel III-312
 
 1. De lidstaten die wensen deel te nemen aan de in [artikel I-41, lid 6](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=V&hoofdstuk=II&artikel=I-41&z=2004-10-29&g=2004-10-29), bedoelde permanente gestructureerde samenwerking, die voldoen aan de criteria en die de verbintenissen inzake militaire vermogens als vermeld in het Protocol betreffende permanente gestructureerde samenwerking willen aangaan, stellen de Raad en de minister van Buitenlandse Zaken van de Unie in kennis van hun voornemen.
 
@@ -3692,7 +3711,7 @@ Een blokkerende minderheid moet ten minste uit het minimumaantal leden van de Ra
 
 ### AFDELING 3. FINANCIËLE BEPALINGEN
 
-#### Artikel III-313
+##### Artikel III-313
 
 1. De administratieve uitgaven die voor de instellingen voortvloeien uit de uitvoering van dit hoofdstuk komen ten laste van de begroting van de Unie.
 
@@ -3714,11 +3733,11 @@ Wanneer een overeenkomstig [artikel I-41, lid 1](https://wetten.overheid.nl/jci1
 
 ### HOOFDSTUK III. DE GEMEENSCHAPPELIJKE HANDELSPOLITIEK
 
-#### Artikel III-314
+##### Artikel III-314
 
 Door de oprichting van een douane-unie, overeenkomstig [artikel III-151](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=3&paragraaf=1&artikel=III-151&z=2004-10-29&g=2004-10-29), levert de Unie in het gemeenschappelijk belang een bijdrage tot een harmonische ontwikkeling van de wereldhandel, tot de geleidelijke afschaffing van de beperkingen voor het internationale handelsverkeer en voor buitenlandse directe investeringen, en tot de vermindering van de douane- en andere belemmeringen.
 
-#### Artikel III-315
+##### Artikel III-315
 
 1. De gemeenschappelijke handelspolitiek wordt gegrond op eenvormige beginselen, met name aangaande tariefwijzigingen, het sluiten van tarief- en handelsakkoorden betreffende handel in goederen en diensten, en de handelsaspecten van intellectuele eigendom, de directe buitenlandse investeringen, het eenvormig maken van liberalisatiemaatregelen, de uitvoerpolitiek alsmede de handelspolitieke beschermingsmaatregelen, waaronder de te nemen maatregelen in geval van dumping en subsidies. De gemeenschappelijke handelspolitiek wordt gevoerd in het kader van de beginselen en doelstellingen van het externe optreden van de Unie.
 
@@ -3748,13 +3767,13 @@ De Raad besluit ook met eenparigheid van stemmen ten aanzien van de onderhandeli
 
 ### AFDELING 1. ONTWIKKELINGSSAMENWERKING
 
-#### Artikel III-316
+##### Artikel III-316
 
 1. Het beleid van de Unie op het gebied van ontwikkelingssamenwerking wordt gevoerd in het kader van de beginselen en doelstellingen van het externe optreden van de Unie. Het ontwikkelingssamenwerkingsbeleid van de Unie en dat van de lidstaten completeren en versterken elkaar. Hoofddoel van het beleid van de Unie op dit gebied is de armoede terug te dringen en uiteindelijk uit te bannen. De Unie houdt bij de uitvoering van beleid dat gevolgen kan hebben voor de ontwikkelingslanden rekening met de doelstellingen van de ontwikkelingssamenwerking.
 
 2. De Unie en de lidstaten houden zich aan de verbintenissen en houden rekening met de doelstellingen die zij in het kader van de Verenigde Naties en andere bevoegde internationale organisaties hebben onderschreven.
 
-#### Artikel III-317
+##### Artikel III-317
 
 1. De maatregelen die nodig zijn voor de uitvoering van het ontwikkelingssamenwerkingsbeleid worden vastgesteld bij Europese wet of kaderwet en kunnen betrekking hebben op meerjarenprogramma's voor samenwerking met ontwikkelingslanden of op thematische programma's.
 
@@ -3764,7 +3783,7 @@ De eerste alinea laat de bevoegdheid van de lidstaten om in internationale fora 
 
 3. De Europese Investeringsbank draagt, onder de in haar statuut neergelegde voorwaarden, bij tot de uitvoering van de in lid 1 bedoelde maatregelen.
 
-#### Artikel III-318
+##### Artikel III-318
 
 1. Om de complementariteit en de doeltreffendheid van hun optreden te bevorderen coördineren de Unie en de lidstaten hun ontwikkelingssamenwerkingsbeleid en plegen zij overleg over hun hulpprogramma's, ook in internationale organisaties en tijdens internationale conferenties. Zij kunnen gezamenlijk optreden. De lidstaten dragen zo nodig bij tot de uitvoering van de hulpprogramma's van de Unie.
 
@@ -3774,7 +3793,7 @@ De eerste alinea laat de bevoegdheid van de lidstaten om in internationale fora 
 
 ### AFDELING 2. ECONOMISCHE, FINANCIËLE EN TECHNISCHE SAMENWERKING MET DERDE LANDEN
 
-#### Artikel III-319
+##### Artikel III-319
 
 1. Onverminderd de overige bepalingen van dit verdrag, met name de [artikelen III-316 tot en met III-318](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=V&hoofdstuk=IV&afdeling=1&artikel=III-316&z=2004-10-29&g=2004-10-29), onderneemt de Unie activiteiten voor economische, financiële en technische samenwerking, met inbegrip van bijstand op met name financieel gebied, met derde landen die geen ontwikkelingsland zijn. Deze activiteiten zijn coherent met het ontwikkelingsbeleid van de Unie en vinden plaats in het kader van de beginselen en doelstellingen van haar externe optreden. De activiteiten van de Unie en die van de lidstaten completeren en versterken elkaar.
 
@@ -3784,13 +3803,13 @@ De eerste alinea laat de bevoegdheid van de lidstaten om in internationale fora 
 
 De eerste alinea laat de bevoegdheid van de lidstaten om in internationale fora te onderhandelen en overeenkomsten te sluiten, onverlet.
 
-#### Artikel III-320
+##### Artikel III-320
 
 Wanneer er wegens de situatie in een derde land dringende financiële hulp van de Unie vereist is, stelt de Raad op voorstel van de Commissie de nodige Europese besluiten vast.
 
 ### AFDELING 3. HUMANITAIRE HULP
 
-#### Artikel III-321
+##### Artikel III-321
 
 1. De acties van de Unie op het gebied van humanitaire hulp vinden plaats in het kader van de beginselen en doelstellingen van het externe optreden van de Unie. Deze acties hebben tot doel aan de bevolking van derde landen die het slachtoffer is van natuurrampen of door de mens veroorzaakte rampen, specifieke bijstand en hulp te bieden en haar te beschermen om de uit die situaties voortvloeiende humanitaire noden te lenigen. De acties van de Unie en die van de lidstaten completeren en versterken elkaar.
 
@@ -3810,7 +3829,7 @@ De eerste alinea laat de bevoegdheid van de lidstaten om in internationale fora 
 
 ### HOOFDSTUK V. BEPERKENDE MAATREGELEN
 
-#### Artikel III-322
+##### Artikel III-322
 
 1. Wanneer een overeenkomstig [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&z=2004-10-29&g=2004-10-29) vastgesteld Europees besluit, voorziet in verbreking of gehele of gedeeltelijke beperking van de economische en financiële betrekkingen met een of meer derde landen, stelt de Raad, op gezamenlijk voorstel van de minister van Buitenlandse Zaken van de Unie en de Commissie, met gekwalificeerde meerderheid van stemmen de nodige Europese verordeningen en besluiten vast. De Raad stelt het Europees Parlement daarvan in kennis.
 
@@ -3820,17 +3839,17 @@ De eerste alinea laat de bevoegdheid van de lidstaten om in internationale fora 
 
 ### HOOFDSTUK VI. INTERNATIONALE OVEREENKOMSTEN
 
-#### Artikel III-323
+##### Artikel III-323
 
 1. De Unie kan een overeenkomst met een of meer derde landen of internationale organisaties sluiten wanneer de Grondwet daarin voorziet of wanneer het sluiten van een overeenkomst ofwel nodig is om, in het kader van het beleid van de Unie, een van de in de Grondwet bepaalde doelstellingen te verwezenlijken, of wanneer daarin bij een juridisch bindende handeling van de Unie is voorzien of wanneer zulks gevolgen kan hebben voor gemeenschappelijke regels of de strekking daarvan kan wijzigen.
 
 2. De door de Unie gesloten overeenkomsten zijn verbindend voor de instellingen van de Unie en voor de lidstaten.
 
-#### Artikel III-324
+##### Artikel III-324
 
 De Unie kan met een of meer derde landen of internationale organisaties een associatieovereenkomst sluiten waarbij een associatie wordt ingesteld die wordt gekenmerkt door wederkerige rechten en verplichtingen, gemeenschappelijke optredens en bijzondere procedures.
 
-#### Artikel III-325
+##### Artikel III-325
 
 1. Onverminderd de bijzondere bepalingen van [artikel III-315](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=V&hoofdstuk=III&artikel=III-315&z=2004-10-29&g=2004-10-29) wordt bij het onderhandelen over en het sluiten van overeenkomsten tussen de Unie en derde landen of internationale organisaties de volgende procedure gevolgd.
 
@@ -3872,7 +3891,7 @@ De Raad besluit evenwel met eenparigheid van stemmen wanneer de overeenkomst een
 
 11. Een lidstaat, het Europees Parlement, de Raad of de Commissie kan het advies inwinnen van het Hof van Justitie over de verenigbaarheid van een voorgenomen overeenkomst met de Grondwet. Indien het Hof van Justitie afwijzend adviseert, kan het voorgenomen akkoord niet in werking treden, behoudens in geval van wijziging daarvan of herziening van de Grondwet.
 
-#### Artikel III-326
+##### Artikel III-326
 
 1. In afwijking van [artikel III-325](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=V&hoofdstuk=VI&artikel=III-325&z=2004-10-29&g=2004-10-29) kan de Raad hetzij op aanbeveling van de Europese Centrale Bank, hetzij op aanbeveling van de Commissie en na raadpleging van de Europese Centrale Bank, met het oog op een consensus die verenigbaar is met de doelstelling van prijsstabiliteit, formele overeenkomsten sluiten over een stelsel van wisselkoersen van de euro ten opzichte van valuta's van derde staten. De Raad besluit met eenparigheid van stemmen na raadpleging van het Europees Parlement en volgens de procedure van lid 3.
 
@@ -3886,7 +3905,7 @@ De Raad kan hetzij op aanbeveling van de Europese Centrale Bank, hetzij op aanbe
 
 ### HOOFDSTUK VII. BETREKKINGEN VAN DE UNIE MET INTERNATIONALE ORGANISATIES EN DERDE LANDEN EN DELEGATIES VAN DE UNIE
 
-#### Artikel III-327
+##### Artikel III-327
 
 1. De Unie brengt iedere dienstige samenwerking tot stand met de organen en de gespecialiseerde organisaties van de Verenigde Naties, de Raad van Europa, de Organisatie voor Veiligheid en Samenwerking in Europa en de Organisatie voor Economische Samenwerking en Ontwikkeling.
 
@@ -3894,7 +3913,7 @@ De Unie onderhoudt voorts met andere internationale organisaties de betrekkingen
 
 2. De minister van Buitenlandse Zaken van de Unie en de Commissie zijn belast met de uitvoering van het bepaalde in dit artikel.
 
-#### Artikel III-328
+##### Artikel III-328
 
 1. De Unie wordt in derde landen en bij internationale organisaties vertegenwoordigd door de delegaties van de Unie.
 
@@ -3902,7 +3921,7 @@ De Unie onderhoudt voorts met andere internationale organisaties de betrekkingen
 
 ### HOOFDSTUK VIII. TOEPASSING VAN DE SOLIDARITEITSCLAUSULE
 
-#### Artikel III-329
+##### Artikel III-329
 
 1. Een lidstaat die getroffen wordt door een terroristische aanval, een natuurramp of een door de mens veroorzaakte ramp, wordt op verzoek van zijn politieke autoriteiten door de andere lidstaten bijstand verleend. De lidstaten coördineren daartoe hun optreden in het kader van de Raad.
 
@@ -3920,7 +3939,7 @@ In het kader van dit lid en onverminderd [artikel III-344](https://wetten.overhe
 
 #### Onderafdeling 1. Europees Parlement
 
-#### Artikel III-330
+##### Artikel III-330
 
 1. Bij Europese wet of kaderwet van de Raad worden de maatregelen vastgesteld die nodig zijn om de leden van het Europees Parlement te laten verkiezen door middel van rechtstreekse algemene verkiezingen volgens een in alle lidstaten eenvormige procedure of volgens beginselen die alle lidstaten gemeen hebben.
 
@@ -3928,15 +3947,15 @@ De Raad besluit met eenparigheid van stemmen op initiatief van het Europees Parl
 
 2. Bij Europese wet van het Europees Parlement worden het statuut en de algemene voorwaarden voor de uitoefening van de taken van zijn leden vastgesteld. Het Europees Parlement besluit op eigen initiatief, na raadpleging van de Commissie en na goedkeuring door de Raad. De Raad besluit met eenparigheid van stemmen over regels en voorwaarden betreffende de belastingregeling voor leden of voormalige leden.
 
-#### Artikel III-331
+##### Artikel III-331
 
 Bij Europese wet worden het statuut, en in het bijzonder de regels inzake de financiering, van de in [artikel I-46, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=VI&artikel=I-46&z=2004-10-29&g=2004-10-29), bedoelde Europese politieke partijen vastgesteld.
 
-#### Artikel III-332
+##### Artikel III-332
 
 Het Europees Parlement kan bij meerderheid van zijn leden de Commissie verzoeken passende voorstellen in te dienen inzake aangelegenheden die naar het oordeel van het Europees Parlement een handeling van de Unie voor de uitvoering van de Grondwet vergen. Indien de Commissie geen voorstel indient, deelt zij de redenen daarvoor aan het Europees Parlement mee.
 
-#### Artikel III-333
+##### Artikel III-333
 
 Het Europees Parlement kan in het kader van de vervulling van zijn taken op verzoek van eenvierde van zijn leden een tijdelijke enquêtecommissie instellen die, onverminderd de in de Grondwet aan andere instellingen of organen toegedeelde bevoegdheden, beweringen inzake inbreuken op het recht van de Unie of wanbeheer bij de toepassing van het recht van de Unie onderzoekt, behalve wanneer de beweerde feiten het voorwerp uitmaken van een gerechtelijke procedure die nog niet is voltooid.
 
@@ -3944,11 +3963,11 @@ De tijdelijke enquêtecommissie houdt op te bestaan wanneer zij haar verslag ind
 
 Bij Europese wet van het Europees Parlement wordt de uitoefening van het enquêterecht nader geregeld. Het Europees Parlement besluit op eigen initiatief, na goedkeuring door de Raad en door de Commissie.
 
-#### Artikel III-334
+##### Artikel III-334
 
 Iedere burger van de Unie, alsmede iedere natuurlijke of rechtspersoon met verblijfplaats of statutaire zetel in een lidstaat heeft, overeenkomstig [artikel I-10, lid 2, onder d](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=II&artikel=I-10&z=2004-10-29&g=2004-10-29), het recht om individueel of samen met andere personen een verzoekschrift bij het Europees Parlement in te dienen betreffende een onderwerp dat tot het werkterrein van de Unie behoort en dat hem rechtstreeks aangaat.
 
-#### Artikel III-335
+##### Artikel III-335
 
 1. Het Europees Parlement kiest de Europese ombudsman. Overeenkomstig [artikel I-10, lid 2,onder d](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=II&artikel=I-10&z=2004-10-29&g=2004-10-29), en [artikel I-49](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=VI&artikel=I-49&z=2004-10-29&g=2004-10-29) is deze bevoegd kennis te nemen van klachten van burgers van de Unie of van natuurlijke of rechtspersonen met verblijfplaats of statutaire zetel in een lidstaat, over gevallen van wanbeheer in het optreden van de instellingen, organen of instanties van de Unie, met uitzondering van het Hof van Justitie van de Europese Unie bij de uitoefening van zijn gerechtelijke taak.
 
@@ -3964,13 +3983,13 @@ De ombudsman kan op verzoek van het Europees Parlement door het Hof van Justitie
 
 4. Bij Europese wet stelt het Europees Parlement het statuut van de ombudsman en de algemene voorwaarden voor de uitoefening van het ambt van ombudsman vast. Het Europees Parlement besluit op eigen initiatief, na advies van de Commissie en na goedkeuring door de Raad.
 
-#### Artikel III-336
+##### Artikel III-336
 
 Het Europees Parlement houdt jaarlijks een zitting. Het komt van rechtswege op de tweede dinsdag van maart bijeen.
 
 Het Europees Parlement kan op verzoek van de meerderheid van zijn leden, dan wel op verzoek van de Raad of van de Commissie in buitengewone vergaderperiode bijeenkomen.
 
-#### Artikel III-337
+##### Artikel III-337
 
 1. De Europese Raad en de Raad worden door het Europees Parlement gehoord onder de voorwaarden waarin het reglement van orde van de Europese Raad en het reglement van orde van de Raad voorzien.
 
@@ -3978,17 +3997,17 @@ Het Europees Parlement kan op verzoek van de meerderheid van zijn leden, dan wel
 
 3. Het Europees Parlement beraadslaagt in openbare zitting over het door de Commissie voorgelegde algemene jaarverslag.
 
-#### Artikel III-338
+##### Artikel III-338
 
 Tenzij in de Grondwet anders is bepaald, besluit het Europees Parlement bij meerderheid van de uitgebrachte stemmen. Het quorum wordt bepaald in het reglement van orde.
 
-#### Artikel III-339
+##### Artikel III-339
 
 Het Europees Parlement stelt zijn reglement van orde vast bij meerderheid van zijn leden.
 
 De handelingen van het Europees Parlement worden bekendgemaakt onder de voorwaarden waarin de Grondwet en het reglement van orde van het Europees Parlement voorzien.
 
-#### Artikel III-340
+##### Artikel III-340
 
 Wanneer aan het Europees Parlement een motie van afkeuring betreffende het beleid van de Commissie wordt voorgelegd, kan het Parlement zich niet eerder dan drie dagen na de indiening ervan en slechts bij openbare stemming over deze motie uitspreken.
 
@@ -3996,7 +4015,7 @@ Indien de motie van afkeuring wordt aangenomen met een meerderheid van tweederde
 
 #### Onderafdeling 2. Europese Raad
 
-#### Artikel III-341
+##### Artikel III-341
 
 1. Ieder lid van de Europese Raad kan slechts door één ander lid worden gemachtigd om namens hem te stemmen.
 
@@ -4010,11 +4029,11 @@ Onthouding van stemming door aanwezige of vertegenwoordigde leden vormt geen bel
 
 #### Onderafdeling 3. Raad van ministers
 
-#### Artikel III-342
+##### Artikel III-342
 
 De Raad wordt door zijn voorzitter, op diens initiatief of op initiatief van een van zijn leden of van de Commissie, in vergadering bijeengeroepen.
 
-#### Artikel III-343
+##### Artikel III-343
 
 1. Ieder lid van de Raad kan slechts door één ander lid worden gemachtigd om namens hem te stemmen.
 
@@ -4022,7 +4041,7 @@ De Raad wordt door zijn voorzitter, op diens initiatief of op initiatief van een
 
 3. Onthouding van stemming door aanwezige of vertegenwoordigde leden vormt geen beletsel voor de vaststelling van beslissingen van de Raad waarvoor eenparigheid van stemmen is vereist.
 
-#### Artikel III-344
+##### Artikel III-344
 
 1. Een comité, bestaande uit de permanente vertegenwoordigers van de regeringen der lidstaten, is verantwoordelijk voor de voorbereiding van de werkzaamheden van de Raad en voor de uitvoering van de door de Raad verstrekte opdrachten. Het comité kan in de in het reglement van orde van de Raad genoemde gevallen procedurebesluiten vaststellen.
 
@@ -4032,23 +4051,23 @@ De Raad beslist met gewone meerderheid van stemmen over de organisatie van het s
 
 3. De Raad besluit bij gewone meerderheid van stemmen over procedurekwesties en over de vaststelling van zijn reglement van orde.
 
-#### Artikel III-345
+##### Artikel III-345
 
 De Raad kan met gewone meerderheid van stemmen de Commissie verzoeken, alle studies die hij wenselijk acht ter verwezenlijking van de gemeenschappelijke doelstellingen te verrichten en hem alle terzake dienende voorstellen voor te leggen. Indien de Commissie geen voorstellen doet, stelt zij de Raad in kennis van de redenen daarvoor.
 
-#### Artikel III-346
+##### Artikel III-346
 
 De Raad stelt bij Europees besluit het statuut van de door de Grondwet ingestelde comités vast. Hij besluit met gewone meerderheid van stemmen, na raadpleging van de Commissie.
 
 #### Onderafdeling 4. Europese Commissie
 
-#### Artikel III-347
+##### Artikel III-347
 
 De leden van de Commissie onthouden zich van iedere handeling die onverenigbaar is met hun ambt. De lidstaten eerbiedigen hun onafhankelijkheid en trachten niet hen te beïnvloeden bij de uitvoering van hun taak.
 
 De leden van de Commissie mogen gedurende hun ambtstermijn geen andere, al dan niet bezoldigde, beroepswerkzaamheden verrichten. Bij hun ambtsaanvaarding verbinden zij zich plechtig ertoe, gedurende hun ambtstermijn en na afloop daarvan de uit hun taak voortvloeiende verplichtingen na te komen, en in het bijzonder eerlijkheid en kiesheid te betrachten bij het aanvaarden van bepaalde functies of voordelen na afloop van hun ambtstermijn. Indien deze verplichtingen niet worden nagekomen, kan de Raad, met gewone meerderheid van stemmen, of de Commissie zich wenden tot het Hof van Justitie, dat, naargelang van het geval, ontslag ambtshalve overeenkomstig de in [artikel III-349](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=I&paragraaf=4&artikel=III-349&z=2004-10-29&g=2004-10-29) bepaalde voorwaarden of verval van het recht op pensioen of van andere als zodanig geldende voordelen kan uitspreken.
 
-#### Artikel III-348
+##### Artikel III-348
 
 1. Behalve door regelmatige vervanging of door overlijden eindigt de ambtsvervulling van een lid van de Commissie door vrijwillig ontslag of ontslag ambtshalve.
 
@@ -4062,19 +4081,19 @@ De Raad kan, met eenparigheid van stemmen, op voorstel van de voorzitter van de 
 
 5. In geval van vrijwillig ontslag van alle leden van de Commissie blijven zij in functie en blijven zij de lopende zaken behartigen totdat in hun vervanging is voorzien, voor de verdere duur van hun ambtstermijn, overeenkomstig de [artikelen I-26](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=IV&hoofdstuk=I&artikel=I-26&z=2004-10-29&g=2004-10-29) en [I-27](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=IV&hoofdstuk=I&artikel=I-27&z=2004-10-29&g=2004-10-29).
 
-#### Artikel III-349
+##### Artikel III-349
 
 Op verzoek van de Raad, die besluit bij gewone meerderheid van stemmen, of van de Commissie, kan een lid van de Commissie dat niet meer aan de eisen voor de uitoefening van zijn ambt voldoet of op ernstige wijze is tekortgeschoten, door het Hof van Justitie uit zijn ambt worden ontzet.
 
-#### Artikel III-350
+##### Artikel III-350
 
 Onverminderd [artikel I-28, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=IV&hoofdstuk=I&artikel=I-28&z=2004-10-29&g=2004-10-29), worden de taken van de Commissie overeenkomstig [artikel I-27, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=IV&hoofdstuk=I&artikel=I-27&z=2004-10-29&g=2004-10-29), door de voorzitter gestructureerd en over de leden van de Commissie verdeeld. De voorzitter kan de taakverdeling tijdens de ambtstermijn wijzigen. De leden van de Commissie oefenen de hun door de voorzitter toegewezen taak onder diens gezag uit.
 
-#### Artikel III-351
+##### Artikel III-351
 
 De Commissie neemt haar besluiten met meerderheid van stemmen van haar leden. Het quorum wordt bepaald in het reglement van orde.
 
-#### Artikel III-352
+##### Artikel III-352
 
 1. De Commissie stelt haar reglement van orde vast, teneinde haar eigen werkzaamheden en die van haar diensten te regelen. Zij draagt er zorg voor dat het reglement wordt bekendgemaakt.
 
@@ -4082,17 +4101,17 @@ De Commissie neemt haar besluiten met meerderheid van stemmen van haar leden. He
 
 #### Onderafdeling 5. Hof van Justitie van de Europese Unie
 
-#### Artikel III-353
+##### Artikel III-353
 
 Het Hof van Justitie houdt zitting in kamers, als grote kamer of in voltallige zitting, overeenkomstig het statuut van het Hof van Justitie van de Europese Unie.
 
-#### Artikel III-354
+##### Artikel III-354
 
 Het Hof van Justitie wordt bijgestaan door acht advocaten-generaal. Indien het Hof van Justitie zulks verzoekt, kan de Raad met eenparigheid van stemmen een Europees besluit houdende verhoging van het aantal advocaten-generaal vaststellen.
 
 De advocaat-generaal heeft tot taak, in het openbaar en in volkomen onpartijdigheid en onafhankelijkheid met redenen omklede conclusies voor te leggen aangaande zaken waarin zulks overeenkomstig het statuut van het Hof van Justitie van de Europese Unie vereist is.
 
-#### Artikel III-355
+##### Artikel III-355
 
 De rechters en de advocaten-generaal van het Hof van Justitie, die worden gekozen uit personen die alle waarborgen voor onafhankelijkheid bieden en die aan alle gestelde eisen voldoen om in hun onderscheiden landen de hoogste rechterlijke ambten te bekleden, of die bekend staan als kundige rechtsgeleerden, worden in onderlinge overeenstemming door de regeringen van de lidstaten benoemd, na raadpleging van het comité van [artikel III-357](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=I&paragraaf=5&artikel=III-357&z=2004-10-29&g=2004-10-29).
 
@@ -4102,7 +4121,7 @@ De rechters wijzen uit hun midden voor drie jaar de president van het Hof van Ju
 
 Het Hof van Justitie stelt zijn reglement voor de procesvoering vast. Dit reglement wordt ter goedkeuring aan de Raad voorgelegd.
 
-#### Artikel III-356
+##### Artikel III-356
 
 Het aantal rechters van het Gerecht wordt vastgesteld bij het statuut van het Hof van Justitie van de Europese Unie. Het statuut kan bepalen dat het Gerecht wordt bijgestaan door advocaten-generaal.
 
@@ -4116,13 +4135,13 @@ Het Gerecht stelt in overeenstemming met het Hof van Justitie zijn reglement voo
 
 Tenzij in het statuut anders is bepaald, zijn de bepalingen van de Grondwet betreffende het Hof van Justitie op het Gerecht van toepassing.
 
-#### Artikel III-357
+##### Artikel III-357
 
 Er wordt een comité opgericht dat de lidstaten van advies dient over de geschiktheid van de kandidaten voor de uitoefening van de ambten van rechter en advocaat-generaal van het Hof van Justitie en van het Gerecht, voordat de regeringen van de lidstaten overgaan tot de benoemingen overeenkomstig de artikelen [III-355](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=I&paragraaf=5&artikel=III-355&z=2004-10-29&g=2004-10-29) en [III-356](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=I&paragraaf=5&artikel=III-356&z=2004-10-29&g=2004-10-29).
 
 Het comité bestaat uit zeven voormalige leden van het Hof van Justitie en van het Gerecht, personen die de hoogste nationale rechterlijke ambten bekleden en personen die bekend staan als kundige rechtsgeleerden, waarvan er één wordt voorgedragen door het Europees Parlement. De Raad stelt een Europees besluit vast houdende bepaling van de werkwijze van dit comité, alsmede een Europees besluit tot benoeming van de leden. De Raad besluit op initiatief van de president van het Hof van Justitie.
 
-#### Artikel III-358
+##### Artikel III-358
 
 1. Het Gerecht is bevoegd in eerste aanleg kennis te nemen van de in de [artikelen III-365](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=I&paragraaf=5&artikel=III-365&z=2004-10-29&g=2004-10-29), [III-367](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=I&paragraaf=5&artikel=III-367&z=2004-10-29&g=2004-10-29), [III-370](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=I&paragraaf=5&artikel=III-370&z=2004-10-29&g=2004-10-29), [III-372](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=I&paragraaf=5&artikel=III-372&z=2004-10-29&g=2004-10-29) en [III-374](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=I&paragraaf=5&artikel=III-374&z=2004-10-29&g=2004-10-29) bedoelde beroepen, met uitzondering van de beroepen waarvan de kennisneming is toegedeeld aan een op grond van [artikel III-359](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=I&paragraaf=5&artikel=III-359&z=2004-10-29&g=2004-10-29) ingestelde gespecialiseerde rechtbank, en die waarvan de kennisneming overeenkomstig het statuut van het Hof van Justitie van de Europese Unie aan het Hof van Justitie is voorbehouden. Het statuut kan bepalen dat het Gerecht bevoegd is kennis te nemen van andere categorieën van beroepen.
 
@@ -4138,7 +4157,7 @@ Wanneer het Gerecht van oordeel is dat in een zaak een principiële beslissing m
 
 De beslissingen die het Gerecht over prejudiciële vragen geeft, kunnen op de wijze en binnen de grenzen die in het statuut worden bepaald, bij uitzondering door het Hof van Justitie worden heroverwogen, indien er een ernstig gevaar bestaat dat de eenheid of de samenhang van het recht van de Unie wordt aangetast.
 
-#### Artikel III-359
+##### Artikel III-359
 
 1. Bij Europese wet kunnen gespecialiseerde rechtbanken worden ingesteld die worden toegevoegd aan het Gerecht, en die in eerste aanleg kennis nemen van bepaalde categorieën van beroepen in specifieke aangelegenheden. De wet wordt vastgesteld hetzij op voorstel van de Commissie en na raadpleging van het Hof van Justitie, hetzij op verzoek van het Hof van Justitie en na raadpleging van de Commissie.
 
@@ -4152,13 +4171,13 @@ De beslissingen die het Gerecht over prejudiciële vragen geeft, kunnen op de wi
 
 6. Tenzij in de Europese wet tot instelling van de gespecialiseerde rechtbank anders is bepaald, zijn de bepalingen van de Grondwet betreffende het Hof van Justitie van de Europese Unie en de bepalingen van het statuut van het Hof van Justitie van de Europese Unie op de gespecialiseerde rechtbanken van toepassing. Titel I van het statuut en artikel 64 daarvan zijn in ieder geval van toepassing op de gespecialiseerde rechtbanken.
 
-#### Artikel III-360
+##### Artikel III-360
 
 Indien de Commissie van oordeel is dat een lidstaat een krachtens de Grondwet op hem rustende verplichting niet is nagekomen, brengt zij dienaangaande een met redenen omkleed advies uit, na de lidstaat in de gelegenheid te hebben gesteld zijn opmerkingen te maken.
 
 Indien de betrokken staat het advies niet binnen de door de Commissie gestelde termijn opvolgt, kan de Commissie de zaak aanhangig maken bij het Hof van Justitie van de Europese Unie.
 
-#### Artikel III-361
+##### Artikel III-361
 
 Een lidstaat die van mening is dat een andere lidstaat een krachtens de Grondwet op hem rustende verplichting niet is nagekomen, kan zich tot het Hof van Justitie van de Europese Unie wenden.
 
@@ -4168,7 +4187,7 @@ De Commissie brengt een met redenen omkleed advies uit, nadat de betrokken state
 
 Indien de Commissie binnen drie maanden na indiening van de klacht geen advies heeft uitgebracht, kan de klacht desalniettemin bij het Hof worden ingediend.
 
-#### Artikel III-362
+##### Artikel III-362
 
 1. Indien het Hof van Justitie van de Europese Unie vaststelt dat een lidstaat een krachtens de Grondwet op hem rustende verplichting niet is nagekomen, is deze staat gehouden het nodige te doen om gevolg te geven aan het arrest van het Hof.
 
@@ -4182,15 +4201,15 @@ Deze procedure geldt onverminderd het bepaalde in [artikel III-361](https://wett
 
 Indien het Hof de niet-nakoming vaststelt, kan het de betrokken lidstaat de betaling van een forfaitaire som of een dwangsom opleggen die niet hoger is dan de Commissie heeft aangegeven. De verplichting tot betaling gaat in op de door het Hof in zijn arrest bepaalde datum.
 
-#### Artikel III-363
+##### Artikel III-363
 
 De Europese wetten en de Europese verordeningen van de Raad kunnen aan het Hof van Justitie van de Europese Unie volledige rechtsmacht verlenen ten aanzien van de sancties waarin zij voorzien.
 
-#### Artikel III-364
+##### Artikel III-364
 
 Onverminderd de overige bepalingen van de Grondwet kan aan het Hof van Justitie van de Europese Unie bij Europese wet, in een in die wet te bepalen mate, de bevoegdheid worden verleend uitspraak te doen in geschillen die verband houden met de toepassing van krachtens de Grondwet vastgestelde handelingen waarbij Europese intellectuele-eigendomsrechten worden ingesteld.
 
-#### Artikel III-365
+##### Artikel III-365
 
 1. Het Hof van Justitie van de Europese Unie gaat de wettigheid na van de Europese wetten en kaderwetten, van de handelingen van de Raad, de Commissie en de Europese Centrale Bank, voorzover het geen aanbevelingen of adviezen betreft, alsmede van de handelingen van het Europees Parlement en van de Europese Raad die beogen rechtsgevolgen tegenover derden te hebben. Het gaat ook de wettigheid na van de handelingen van de organen of instanties van de Unie waarmee rechtsgevolgen ten aanzien van derden worden beoogd.
 
@@ -4204,13 +4223,13 @@ Onverminderd de overige bepalingen van de Grondwet kan aan het Hof van Justitie 
 
 6. Het in dit artikel bedoelde beroep moet worden ingesteld binnen twee maanden, naargelang van het geval te rekenen vanaf de dag van bekendmaking van de handeling, de dag van kennisgeving aan de verzoeker of, bij gebreke daarvan, de dag waarop de verzoeker van de handeling kennis heeft gekregen.
 
-#### Artikel III-366
+##### Artikel III-366
 
 Indien het beroep gegrond is, wordt de betwiste handeling door het Hof van Justitie van de Europese Unie nietig verklaard.
 
 Het Hof van Justitie bepaalt evenwel, zo het dit nodig oordeelt, welke gevolgen van de vernietigde handeling als definitief moeten worden beschouwd.
 
-#### Artikel III-367
+##### Artikel III-367
 
 Indien het Europees Parlement, de Europese Raad, de Raad, de Commissie of de Europese Centrale Bank, in strijd met de Grondwet, nalaat te besluiten, kunnen de lidstaten en de overige instellingen van de Unie zich tot het Hof van Justitie van de Europese Unie wenden om deze schending te doen vaststellen. Dit artikel is onder dezelfde voorwaarden van toepassing op de organen en de instanties van de Unie die nalaten een besluit te nemen.
 
@@ -4218,13 +4237,13 @@ Dit beroep is slechts ontvankelijk indien de instelling, het orgaan of de instan
 
 Iedere natuurlijke of rechtspersoon kan zich onder de in de eerste en de tweede alinea bepaalde voorwaarden tot het Hof wenden om bezwaar te maken tegen het feit dat een instelling, orgaan of instantie van de Unie heeft nagelaten tot hem een andere handeling te richten dan een aanbeveling of een advies.
 
-#### Artikel III-368
+##### Artikel III-368
 
 De instelling, het orgaan of de instantie waarvan de handeling nietig is verklaard of waarvan de nalatigheid strijdig met de Grondwet is verklaard, is gehouden het nodige te doen om gevolg te geven aan het arrest van het Hof van Justitie van de Europese Unie.
 
 Deze verplichting geldt onverminderd die welke uit de toepassing van [artikel III-431, tweede alinea](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VII&artikel=III-431&z=2004-10-29&g=2004-10-29), kan voortvloeien.
 
-#### Artikel III-369
+##### Artikel III-369
 
 Het Hof van Justitie van de Europese Unie is bevoegd, bij wijze van prejudiciële beslissing, uitspraak te doen over:
 
@@ -4238,21 +4257,21 @@ Indien een vraag te dien aanzien wordt opgeworpen in een zaak aanhangig bij een 
 
 Indien een dergelijke vraag wordt opgeworpen in een bij een nationale rechterlijke instantie aanhangige zaak betreffende een gedetineerde persoon, doet het Hof zo spoedig mogelijk uitspraak.
 
-#### Artikel III-370
+##### Artikel III-370
 
 Het Hof van Justitie van de Europese Unie is bevoegd kennis te nemen van geschillen over de vergoeding van de in [artikel III-431, tweede en derde alinea](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VII&artikel=III-431&z=2004-10-29&g=2004-10-29), bedoelde schade.
 
-#### Artikel III-371
+##### Artikel III-371
 
 Het Hof van Justitie kan uitsluitend op verzoek van de lidstaat ten aanzien waarvan de Europese Raad of de Raad een constatering heeft gedaan en uitsluitend wat de naleving van de procedurele bepalingen van [artikel I-59](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=IX&artikel=I-59&z=2004-10-29&g=2004-10-29) betreft uitspraak doen over de wettigheid van een handeling die door de Europese Raad of door de Raad krachtens artikel I-59 is vastgesteld.
 
 Dit verzoek moet binnen een maand na de constatering worden gedaan. Het Hof doet een uitspraak binnen een maand na de datum van het verzoek.
 
-#### Artikel III-372
+##### Artikel III-372
 
 Het Hof van Justitie van de Europese Unie is bevoegd uitspraak te doen in elk geschil tussen de Unie en haar personeelsleden, binnen de grenzen en onder de voorwaarden vastgesteld in het statuut van de ambtenaren van de Unie en de regeling welke van toepassing is op de andere personeelsleden van de Unie.
 
-#### Artikel III-373
+##### Artikel III-373
 
 Het Hof van Justitie van de Europese Unie is bevoegd, binnen de hierna aangegeven grenzen, kennis te nemen van geschillen betreffende:
 
@@ -4264,11 +4283,11 @@ Het Hof van Justitie van de Europese Unie is bevoegd, binnen de hierna aangegeve
 
 - d. de uitvoering van de verplichtingen van de nationale centrale banken voortvloeiende uit deze Grondwet en uit het statuut van het Europees Stelsel van Centrale Banken en van de Europese Centrale Bank. De Raad van bestuur van de Europese Centrale Bank beschikt dienaangaande ten aanzien van de nationale centrale banken over de bevoegdheden welke bij [artikel III-360](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=I&paragraaf=5&artikel=III-360&z=2004-10-29&g=2004-10-29) aan de Commissie zijn toegekend ten aanzien van de lidstaten. Indien het Hof van Justitie van de Europese Unie vaststelt dat een nationale centrale bank een van de krachtens deze Grondwet op haar rustende verplichtingen niet is nagekomen, is deze bank gehouden die voorzieningen te treffen welke nodig zijn ter uitvoering van het arrest van het Hof.
 
-#### Artikel III-374
+##### Artikel III-374
 
 Het Hof van Justitie van de Europese Unie is bevoegd uitspraak te doen krachtens een arbitragebeding vervat in een door of namens de Unie gesloten publiekrechtelijke of privaatrechtelijke overeenkomst.
 
-#### Artikel III-375
+##### Artikel III-375
 
 1. Behoudens de bevoegdheden die bij deze Grondwet aan het Hof van Justitie van de Europese Unie worden verleend, vallen de geschillen waarin de Unie partij is, niet uit dien hoofde buiten de bevoegdheid van de nationale rechterlijke instanties.
 
@@ -4276,31 +4295,31 @@ Het Hof van Justitie van de Europese Unie is bevoegd uitspraak te doen krachtens
 
 3. Het Hof van Justitie is bevoegd uitspraak te doen in elk geschil tussen lidstaten dat met de materie van deze Grondwet verband houdt, indien dit geschil hem krachtens een compromis wordt voorgelegd.
 
-#### Artikel III-376
+##### Artikel III-376
 
 Het Hof van Justitie van de Europese Unie is niet bevoegd ten aanzien van de [artikelen I-40](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=V&hoofdstuk=II&artikel=I-40&z=2004-10-29&g=2004-10-29) en [I-41](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=V&hoofdstuk=II&artikel=I-41&z=2004-10-29&g=2004-10-29) en van de bepalingen van [titel V, hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=V&hoofdstuk=II&z=2004-10-29&g=2004-10-29), betreffende het gemeenschappelijk buitenlands en veiligheidsbeleid en [artikel III-293](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=V&hoofdstuk=I&artikel=III-293&z=2004-10-29&g=2004-10-29) voorzover het betrekking heeft op het gemeenschappelijk buitenlands en veiligheidsbeleid.
 
 Het Hof is evenwel bevoegd om toezicht te houden op de naleving van [artikel III-308](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=V&hoofdstuk=II&afdeling=1&artikel=III-308&z=2004-10-29&g=2004-10-29) en uitspraak te doen inzake beroepen die onder de in [artikel III-365, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=I&paragraaf=5&artikel=III-365&z=2004-10-29&g=2004-10-29), bepaalde voorwaarden worden ingesteld betreffende het toezicht op de wettigheid van Europese besluiten houdende beperkende maatregelen jegens natuurlijke personen of rechtspersonen, die door de Raad op grond van [titel V, hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=V&hoofdstuk=II&z=2004-10-29&g=2004-10-29), zijn vastgesteld.
 
-#### Artikel III-377
+##### Artikel III-377
 
 Bij de uitoefening van zijn taken in verband met de bepalingen in de [afdelingen 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=4&z=2004-10-29&g=2004-10-29) en [5 van titel III, hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=5&z=2004-10-29&g=2004-10-29) betreffende de ruimte van vrijheid, veiligheid en recht is het Hof van Justitie van de Europese Unie niet bevoegd de geldigheid of de evenredigheid na te gaan van operaties van de politie of van andere instanties van een lidstaat belast met wetshandhaving of de uitoefening van de verantwoordelijkheden van de lidstaten ten aanzien van de handhaving van de openbare orde en de bescherming van de binnenlandse veiligheid.
 
-#### Artikel III-378
+##### Artikel III-378
 
 Iedere partij kan, ook na het verstrijken van de in [artikel III-365, lid 6](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=I&paragraaf=5&artikel=III-365&z=2004-10-29&g=2004-10-29), bedoelde termijn, naar aanleiding van een geschil waarbij een door een instelling, een orgaan of een instantie van de Unie vastgestelde handeling van algemene strekking in het geding is, de in artikel III-365, lid 2, bedoelde middelen aanvoeren om voor het Hof van Justitie van de Europese Unie de niet-toepasselijkheid van deze handeling in te roepen.
 
-#### Artikel III-379
+##### Artikel III-379
 
 1. Een bij het Hof van Justitie van de Europese Unie ingesteld beroep heeft geen schorsende werking. Het Hof kan echter, indien het van oordeel is dat de omstandigheden zulks vereisen, opschorting van de uitvoering van de betwiste handeling gelasten.
 
 2. Het Hof van Justitie van de Europese Unie kan in bij hem aanhangig gemaakte zaken de noodzakelijke voorlopige maatregelen gelasten.
 
-#### Artikel III-380
+##### Artikel III-380
 
 De arresten van het Hof van Justitie van de Europese Unie zijn uitvoerbaar overeenkomstig het bepaalde in [artikel III-401](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=4&artikel=III-401&z=2004-10-29&g=2004-10-29).
 
-#### Artikel III-381
+##### Artikel III-381
 
 Het statuut van het Hof van Justitie van de Europese Unie wordt vastgesteld bij een protocol.
 
@@ -4308,7 +4327,7 @@ De bepalingen van het statuut kunnen bij Europese wet worden gewijzigd, met uitz
 
 #### Onderafdeling 6. Europese Centrale Bank
 
-#### Artikel III-382
+##### Artikel III-382
 
 1. De Raad van bestuur van de Europese Centrale Bank bestaat uit de leden van de directie van de Europese Centrale Bank en de presidenten van de nationale centrale banken van de lidstaten die niet onder een derogatie in de zin van [artikel III-197](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=5&artikel=III-197&z=2004-10-29&g=2004-10-29) vallen.
 
@@ -4320,7 +4339,7 @@ Zij worden voor een periode van acht jaar benoemd en zijn niet herbenoembaar.
 
 Alleen de onderdanen van een van de lidstaten kunnen lid van de directie zijn.
 
-#### Artikel III-383
+##### Artikel III-383
 
 1. De voorzitter van de Raad en een lid van de Commissie kunnen zonder stemrecht aan de vergaderingen van de Raad van bestuur van de Europese Centrale Bank deelnemen.
 
@@ -4334,7 +4353,7 @@ De president van de Europese Centrale Bank en de overige leden van de directie k
 
 #### Onderafdeling 7. Rekenkamer
 
-#### Artikel III-384
+##### Artikel III-384
 
 1. De Rekenkamer onderzoekt de rekeningen van alle ontvangsten en uitgaven van de Unie. Zij onderzoekt tevens de rekeningen van alle ontvangsten en uitgaven van alle door de Unie ingestelde organen en instanties, voorzover de handeling tot instelling van het betrokken orgaan of de betrokken instantie dit onderzoek niet uitsluit.
 
@@ -4364,7 +4383,7 @@ De Rekenkamer staat het Europees Parlement en de Raad bij bij de controle op de 
 
 De Rekenkamer stelt haar reglement van orde vast, dat ter goedkeuring aan de Raad wordt voorgelegd.
 
-#### Artikel III-385
+##### Artikel III-385
 
 1. De leden van de Rekenkamer worden gekozen uit personen die in hun eigen staat behoren of behoord hebben tot de externe controle-instanties of die voor deze functie bijzonder geschikt zijn. Zij moeten alle waarborgen voor onafhankelijkheid bieden.
 
@@ -4388,7 +4407,7 @@ Behoudens in geval van ontslag ambtshalve, blijven de leden van de Rekenkamer in
 
 #### Onderafdeling 1. Het Comité van de Regio's
 
-#### Artikel III-386
+##### Artikel III-386
 
 Het aantal leden van het Comité van de Regio's bedraagt ten hoogste 350. De Raad stelt op voorstel van de Commissie met eenparigheid van stemmen een Europees besluit vast waarbij de samenstelling van het Comité wordt bepaald.
 
@@ -4398,7 +4417,7 @@ De Raad stelt bij Europees besluit de overeenkomstig de voordrachten van de onde
 
 Bij het verstrijken van het in [artikel I-32, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=IV&hoofdstuk=II&artikel=I-32&z=2004-10-29&g=2004-10-29), bedoelde mandaat uit hoofde waarvan zij zijn voorgedragen, eindigt de ambtstermijn van de leden van het Comité van rechtswege en worden zij volgens dezelfde procedure voor de verdere duur van de ambtstermijn vervangen.
 
-#### Artikel III-387
+##### Artikel III-387
 
 Het Comité van de regio's kiest, voor een periode van tweeënhalf jaar, uit zijn midden zijn voorzitter en zijn bureau.
 
@@ -4406,7 +4425,7 @@ Het Comité wordt door zijn voorzitter bijeengeroepen op verzoek van het Europee
 
 Het Comité stelt zijn reglement van orde vast.
 
-#### Artikel III-388
+##### Artikel III-388
 
 Het Comité van de Regio's wordt door het Europees Parlement, door de Raad of door de Commissie geraadpleegd in de door de Grondwet bepaalde gevallen en in alle andere gevallen waarin een van deze instellingen zulks wenselijk acht, in het bijzonder die welke grensoverschrijdende samenwerking betreffen.
 
@@ -4418,11 +4437,11 @@ Het advies van het Comité alsmede een verslag van zijn besprekingen worden aan 
 
 #### Onderafdeling 2. Het Economisch en Sociaal Comité
 
-#### Artikel III-389
+##### Artikel III-389
 
 Het aantal leden van het Economisch en Sociaal Comité bedraagt ten hoogste 350. De Raad stelt op voorstel van de Commissie met eenparigheid van stemmen een Europees besluit vast waarbij de samenstelling van het Comité wordt bepaald.
 
-#### Artikel III-390
+##### Artikel III-390
 
 De leden van het Economisch en Sociaal Comité worden voor vijf jaar benoemd. Zij zijn herbenoembaar.
 
@@ -4430,7 +4449,7 @@ De Raad stelt het Europees besluit vast met de lijst van leden die overeenkomsti
 
 De Raad besluit na raadpleging van de Commissie. Hij kan de mening vragen van de Europese organisaties die representatief zijn voor de verschillende economische en sociale sectoren, en van het maatschappelijk middenveld, welke betrokken zijn bij de activiteit van de Unie.
 
-#### Artikel III-391
+##### Artikel III-391
 
 Het Economisch en Sociaal Comité kiest, voor de periode van tweeënhalf jaar, uit zijn midden zijn voorzitter en zijn bureau.
 
@@ -4438,7 +4457,7 @@ Het Comité wordt door zijn voorzitter bijeengeroepen op verzoek van het Europee
 
 Het Comité stelt zijn reglement van orde vast.
 
-#### Artikel III-392
+##### Artikel III-392
 
 Het Economisch en Sociaal Comité wordt door het Europees Parlement, door de Raad of door de Commissie geraadpleegd in de door de Grondwet bepaalde gevallen. Het kan door deze instellingen worden geraadpleegd in alle gevallen waarin deze zulks wenselijk achten. Het Comité kan tevens op eigen initiatief advies uitbrengen.
 
@@ -4448,7 +4467,7 @@ Het advies van het Comité, alsmede een verslag van zijn besprekingen, worden aa
 
 ### AFDELING 3. DE EUROPESE INVESTERINGSBANK
 
-#### Artikel III-393
+##### Artikel III-393
 
 De Europese Investeringsbank bezit rechtspersoonlijkheid.
 
@@ -4458,7 +4477,7 @@ Het statuut van de Europese Investeringsbank is opgenomen in een protocol.
 
 Het statuut van de Europese Investeringsbank kan worden gewijzigd bij Europese wet van de Raad. De Raad besluit met eenparigheid van stemmen, hetzij op verzoek van de Europese Investeringsbank en na raadpleging van het Europees Parlement en van de Commissie, hetzij op voorstel van de Commissie en na raadpleging van het Europees Parlement en van de Europese Investeringsbank.
 
-#### Artikel III-394
+##### Artikel III-394
 
 De Europese Investeringsbank heeft tot taak, met een beroep op de kapitaalmarkten en met gebruikmaking van haar eigen middelen bij te dragen tot een evenwichtige en ongestoorde ontwikkeling van de interne markt in het belang van de Unie. Te dien einde vergemakkelijkt zij, met name door zonder winstoogmerk leningen en waarborgen te verstrekken, de financiering van de volgende projecten in alle sectoren van het economisch leven:
 
@@ -4472,13 +4491,13 @@ Bij de vervulling van haar taak vergemakkelijkt de Europese Investeringsbank de 
 
 ### AFDELING 4. BEPALINGEN DIE DE INSTELLINGEN, ORGANEN EN INSTANTIES VAN DE UNIE GEMEEN HEBBEN
 
-#### Artikel III-395
+##### Artikel III-395
 
 1. Wanneer de Raad uit hoofde van de Grondwet op voorstel van de Commissie besluit, kan hij dat voorstel slechts met eenparigheid van stemmen wijzigen, behalve in de gevallen als bedoeld in de [artikelen I-55](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=VII&artikel=I-55&z=2004-10-29&g=2004-10-29) en [I-56](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=VII&artikel=I-56&z=2004-10-29&g=2004-10-29), [artikel III-396, leden 10 en 13](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=4&artikel=III-396&z=2004-10-29&g=2004-10-29), [artikel III-404](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=II&afdeling=2&artikel=III-404&z=2004-10-29&g=2004-10-29) en [artikel III-405, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=II&afdeling=2&artikel=III-405&z=2004-10-29&g=2004-10-29).
 
 2. Zolang de Raad niet heeft besloten, kan de Commissie te allen tijde gedurende de procedures die tot vaststelling van een handeling van de Unie leiden, haar voorstel wijzigen.
 
-#### Artikel III-396
+##### Artikel III-396
 
 1. Wanneer Europese wetten of kaderwetten uit hoofde van de Grondwet volgens de gewone wetgevingsprocedure worden vastgesteld, zijn de onderstaande bepalingen van toepassing.
 
@@ -4532,23 +4551,23 @@ Bij de vervulling van haar taak vergemakkelijkt de Europese Investeringsbank de 
 
 In die gevallen zenden het Europees Parlement en de Raad de Commissie het ontwerp van handeling alsmede hun standpunten in eerste en tweede lezing toe. Het Europees Parlement of de Raad kan de Commissie in alle fasen van de procedure om advies verzoeken; de Commissie kan ook op eigen initiatief advies uitbrengen. Indien de Commissie dat nodig acht, kan zij overeenkomstig lid 11 ook deelnemen aan de werkzaamheden van het bemiddelingscomité.
 
-#### Artikel III-397
+##### Artikel III-397
 
 Het Europees Parlement, de Raad en de Commissie raadplegen elkaar en bepalen in onderlinge overeenstemming de wijze waarop zij samenwerken. Daartoe kunnen zij, met inachtneming van de Grondwet, interinstitutionele akkoorden sluiten die een bindend karakter kunnen hebben.
 
-#### Artikel III-398
+##### Artikel III-398
 
 1. Bij de vervulling van hun taken steunen de instellingen, organen en instanties van de Unie op een open, doeltreffend en onafhankelijk Europees ambtenarenapparaat.
 
 2. Met inachtneming van het statuut en de regeling vastgesteld op grond van [artikel III-427](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VII&artikel=III-427&z=2004-10-29&g=2004-10-29) worden bij Europese wet de bepalingen daartoe vastgesteld.
 
-#### Artikel III-399
+##### Artikel III-399
 
 1. De instellingen, organen en instanties van de Unie verzekeren de transparantie van hun werkzaamheden en stellen krachtens [artikel I-50](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=VI&artikel=I-50&z=2004-10-29&g=2004-10-29) specifieke bepalingen betreffende de inzage van het publiek in hun documenten vast in hun reglementen van orde. Ten aanzien van het Hof van Justitie van de Europese Unie, de Europese Centrale Bank en de Europese Investeringsbank, gelden artikel I-50, lid 3, en het onderhavige artikel alleen voor de uitoefening van hun administratieve taken.
 
 2. Het Europees Parlement en de Raad zorgen voor de openbaarmaking van de stukken betreffende de wetgevingsprocedures overeenkomstig de voorwaarden gesteld in de in [artikel I-50, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=VI&artikel=I-50&z=2004-10-29&g=2004-10-29), bedoelde Europese wet.
 
-#### Artikel III-400
+##### Artikel III-400
 
 1. De Raad stelt Europese verordeningen en besluiten vast houdende:
 
@@ -4560,7 +4579,7 @@ Het Europees Parlement, de Raad en de Commissie raadplegen elkaar en bepalen in 
 
 2. De Raad stelt Europese verordeningen en besluiten vast houdende de vergoedingen van de leden van het Economisch en Sociaal Comité.
 
-#### Artikel III-401
+##### Artikel III-401
 
 De handelingen van de Raad, de Commissie of de Europese Centrale Bank welke ten laste van natuurlijke of rechtspersonen, met uitzondering van de lidstaten, een geldelijke verplichting inhouden, vormen executoriale titel.
 
@@ -4574,7 +4593,7 @@ De tenuitvoerlegging kan alleen worden geschorst krachtens een beschikking van h
 
 ### AFDELING 1. MEERJARIG FINANCIEEL KADER
 
-#### Artikel III-402
+##### Artikel III-402
 
 1. Het meerjarig financieel kader wordt vastgesteld voor een periode van ten minste vijf jaar, overeenkomstig [artikel I-55](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=VII&artikel=I-55&z=2004-10-29&g=2004-10-29).
 
@@ -4588,11 +4607,11 @@ De tenuitvoerlegging kan alleen worden geschorst krachtens een beschikking van h
 
 ### AFDELING 2. DE JAARLIJKSE BEGROTING VAN DE UNIE
 
-#### Artikel III-403
+##### Artikel III-403
 
 Het begrotingsjaar begint op 1 januari en verstrijkt op 31 december.
 
-#### Artikel III-404
+##### Artikel III-404
 
 De jaarlijkse begroting van de Unie wordt bij Europese wet vastgesteld overeenkomstig de volgende bepalingen:
 
@@ -4630,7 +4649,7 @@ De jaarlijkse begroting van de Unie wordt bij Europese wet vastgesteld overeenko
 
 - 10. Iedere instelling oefent de haar bij dit artikel toegekende bevoegdheden uit met inachtneming van de Grondwet en van de krachtens de Grondwet vastgestelde handelingen, in het bijzonder die welke betrekking hebben op de eigen middelen van de Unie en op het evenwicht tussen ontvangsten en uitgaven.
 
-#### Artikel III-405
+##### Artikel III-405
 
 1. Indien aan het begin van een begrotingsjaar de Europese wet houdende vaststelling van de begroting niet definitief is vastgesteld, kunnen de uitgaven maandelijks per hoofdstuk, overeenkomstig de in [artikel III-412](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=II&afdeling=4&artikel=III-412&z=2004-10-29&g=2004-10-29) bedoelde Europese wet, worden verricht, met een maximum van een twaalfde van de in hetzelfde hoofdstuk van de begroting van het vorige begrotingsjaar opgenomen kredieten, en zonder meer dan een twaalfde te mogen bedragen van de in hetzelfde hoofdstuk van de ontwerpbegroting opgenomen kredieten.
 
@@ -4640,7 +4659,7 @@ Dit Europees besluit voorziet in de beschikbaarstelling van de nodige middelen v
 
 Het Europees besluit wordt van kracht op de dertigste dag volgende op de vaststelling ervan indien het Europees Parlement binnen die termijn niet bij meerderheid van zijn leden besluit die uitgaven te verminderen.
 
-#### Artikel III-406
+##### Artikel III-406
 
 Onder de voorwaarden bepaald bij de in [artikel III-412](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=II&afdeling=4&artikel=III-412&z=2004-10-29&g=2004-10-29) bedoelde Europese wet, kunnen de niet op personeelsuitgaven betrekking hebbende kredieten welke aan het einde van het begrotingsjaar ongebruikt zijn gebleven, worden overgedragen, evenwel uitsluitend naar het eerstvolgende begrotingsjaar.
 
@@ -4660,7 +4679,7 @@ worden als afzonderlijke afdelingen in de begroting opgenomen, onverminderd een 
 
 ### AFDELING 3. DE UITVOERING VAN DE BEGROTING EN DE KWIJTING
 
-#### Artikel III-407
+##### Artikel III-407
 
 De Commissie voert overeenkomstig de in [artikel III-412](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=II&afdeling=4&artikel=III-412&z=2004-10-29&g=2004-10-29) bedoelde Europese wet onder eigen verantwoordelijkheid de begroting uit in samenwerking met de lidstaten, binnen de grenzen der toegekende kredieten en in overeenstemming met het beginsel van goed financieel beheer. De lidstaten werken met de Commissie samen om te verzekeren dat de toegekende kredieten volgens datzelfde beginsel worden gebruikt.
 
@@ -4668,13 +4687,13 @@ Bij de in [artikel III-412](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel
 
 Binnen de begroting kan de Commissie, binnen de grenzen en onder de voorwaarden als bepaald bij de in [artikel III-412](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=II&afdeling=4&artikel=III-412&z=2004-10-29&g=2004-10-29) bedoelde Europese wet, kredieten overschrijven hetzij van het ene hoofdstuk naar het andere, hetzij van de ene onderafdeling naar de andere.
 
-#### Artikel III-408
+##### Artikel III-408
 
 De Commissie legt elk jaar aan het Europees Parlement en aan de Raad de rekeningen over het afgelopen begrotingsjaar voor welke betrekking hebben op de uitvoering van de begroting. Bovendien doet zij hun een financiële balans van de activa en passiva van de Unie toekomen.
 
 De Commissie dient bij het Europees Parlement en de Raad ook een evaluatieverslag over de financiën van de Unie in, waarin de bereikte resultaten worden getoetst aan de door het Europees Parlement en de Raad krachtens [artikel III-409](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=II&afdeling=3&artikel=III-409&z=2004-10-29&g=2004-10-29) verstrekte aanwijzingen.
 
-#### Artikel III-409
+##### Artikel III-409
 
 1. Op aanbeveling van de Raad verleent het Europees Parlement aan de Commissie kwijting voor de uitvoering van de begroting. Te dien einde onderzoekt het, na de Raad, de rekeningen, de financiële balans en het evaluatieverslag genoemd in [artikel III-408](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=II&afdeling=3&artikel=III-408&z=2004-10-29&g=2004-10-29), het jaarverslag van de Rekenkamer tezamen met de antwoorden van de gecontroleerde instellingen op de opmerkingen van de Rekenkamer, de in [artikel III-384, lid 1, tweede alinea](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=I&paragraaf=7&artikel=III-384&z=2004-10-29&g=2004-10-29), genoemde verklaring, alsmede de relevante speciale verslagen van de Rekenkamer.
 
@@ -4686,17 +4705,17 @@ De Commissie dient bij het Europees Parlement en de Raad ook een evaluatieversla
 
 ### AFDELING 4. GEMEENSCHAPPELIJKE BEPALINGEN
 
-#### Artikel III-410
+##### Artikel III-410
 
 Het meerjarig financieel kader en de jaarlijkse begroting luiden in euro.
 
-#### Artikel III-411
+##### Artikel III-411
 
 De Commissie kan, onder voorbehoud dat zij daarvan de bevoegde instanties van de betrokken lidstaten in kennis stelt, de saldi welke zij in de valuta van een van de lidstaten in haar bezit heeft, overmaken in de valuta van een andere lidstaat, voorzover die saldi gebruikt moeten worden voor de doeleinden die in de Grondwet zijn bepaald. De Commissie vermijdt dergelijke overmakingen zoveel mogelijk, indien zij saldi beschikbaar heeft of beschikbaar kan maken in de valuta waaraan zij behoefte heeft.
 
 De Commissie onderhoudt de betrekkingen met iedere van de betrokken lidstaten door tussenkomst van de door deze aangewezen autoriteit. Voor de uitvoering van financiële verrichtingen heeft zij toegang tot de centrale bank van de betrokken lidstaat of tot een andere door deze lidstaat gemachtigde financiële instelling.
 
-#### Artikel III-412
+##### Artikel III-412
 
 1. Bij Europese wet
 
@@ -4710,17 +4729,17 @@ De Europese wet wordt vastgesteld na raadpleging van de Rekenkamer.
 
 3. De Raad besluit tot 31 december 2006 met eenparigheid van stemmen in alle in dit artikel bedoelde gevallen.
 
-#### Artikel III-413
+##### Artikel III-413
 
 Het Europees Parlement, de Raad en de Commissie zien erop toe dat de Unie beschikt over de financiële middelen waarmee de Unie haar juridische verplichtingen jegens derden kan voldoen.
 
-#### Artikel III-414
+##### Artikel III-414
 
 In het kader van de in dit hoofdstuk bedoelde begrotingsprocedures roept de Commissie regelmatig de voorzitters van het Europees Parlement, de Raad en de Commissie bijeen. De voorzitters nemen alle maatregelen die nodig zijn om het overleg te bevorderen en de standpunten van hun respectieve instellingen dichter bij elkaar te brengen, om de uitvoering van dit hoofdstuk te vergemakkelijken.
 
 ### AFDELING 5. FRAUDEBESTRIJDING
 
-#### Artikel III-415
+##### Artikel III-415
 
 1. De Unie en de lidstaten bestrijden fraude en andere onwettige activiteiten waardoor de financiële belangen van de Unie worden geschaad, met maatregelen die overeenkomstig dit artikel worden genomen. Deze maatregelen werken afschrikkend en bieden in de lidstaten, alsook in de instellingen, organen en instanties van de Unie een effectieve bescherming.
 
@@ -4734,17 +4753,17 @@ In het kader van de in dit hoofdstuk bedoelde begrotingsprocedures roept de Comm
 
 ### HOOFDSTUK III. NAUWERE SAMENWERKING
 
-#### Artikel III-416
+##### Artikel III-416
 
 Bij nauwere samenwerking worden de Grondwet en het recht van de Unie geëerbiedigd.
 
 Nauwere samenwerking mag geen afbreuk doen aan de interne markt, noch aan de economische, sociale en territoriale samenhang. Zij mag geen belemmering of discriminatie in de handel tussen de lidstaten vormen, en zij mag de mededinging tussen de lidstaten niet verstoren.
 
-#### Artikel III-417
+##### Artikel III-417
 
 Bij nauwere samenwerking worden de bevoegdheden, rechten en verplichtingen van de lidstaten die er niet aan deelnemen, geëerbiedigd. De niet-deelnemende lidstaten belemmeren niet de uitvoering ervan door de deelnemende lidstaten.
 
-#### Artikel III-418
+##### Artikel III-418
 
 1. Nauwere samenwerking staat open voor alle lidstaten op het moment waarop zij wordt aangegaan, mits de deelnemingsvoorwaarden worden nageleefd die eventueel zijn vastgesteld bij het Europese besluit waarbij toestemming wordt verleend. Deelneming op een later tijdstip blijft steeds te allen tijde mogelijk, mits, naast de bovengenoemde eventuele voorwaarden, de in dit kader reeds vastgestelde handelingen worden nageleefd.
 
@@ -4752,7 +4771,7 @@ De Commissie en de aan een nauwere samenwerking deelnemende lidstaten, zien erop
 
 2. De Commissie en in voorkomend geval de minister van Buitenlandse Zaken van de Unie stellen het Europees Parlement en de Raad regelmatig op de hoogte van het verloop van de nauwere samenwerking.
 
-#### Artikel III-419
+##### Artikel III-419
 
 1. De lidstaten die onderling een nauwere samenwerking wensen aan te gaan op een van de gebieden die onder de Grondwet vallen, met uitzondering van de gebieden van exclusieve bevoegdheid en het gemeenschappelijk buitenlands en veiligheidsbeleid, richten een verzoek tot de Commissie, met opgave van het toepassingsgebied en de met de voorgenomen nauwere samenwerking nagestreefde doelstellingen. De Commissie kan bij de Raad een voorstel in die zin indienen. Indien de Commissie geen voorstel indient, deelt zij de redenen daarvoor mee aan de betrokken lidstaten.
 
@@ -4762,7 +4781,7 @@ De toestemming om een nauwere samenwerking aan te gaan, wordt verleend bij een E
 
 De toestemming om een nauwere samenwerking aan te gaan, wordt verleend bij een Europees besluit van de Raad, die met eenparigheid van stemmen besluit.
 
-#### Artikel III-420
+##### Artikel III-420
 
 1. Een lidstaat die wil deelnemen aan een bestaande nauwere samenwerking op een van de in [artikel III-419, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=III&artikel=III-419&z=2004-10-29&g=2004-10-29), bedoelde gebieden, stelt de Raad en de Commissie van zijn voornemen in kennis.
 
@@ -4776,11 +4795,11 @@ De Raad bevestigt de deelneming van de betrokken lidstaat, na de minister van Bu
 
 Voor de toepassing van dit lid besluit de Raad met eenparigheid van stemmen en overeenkomstig [artikel I-44, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=V&hoofdstuk=III&artikel=I-44&z=2004-10-29&g=2004-10-29).
 
-#### Artikel III-421
+##### Artikel III-421
 
 De uitgaven die voortvloeien uit de uitvoering van een nauwere samenwerking, met uitzondering van de administratieve kosten voor de instellingen, komen ten laste van de deelnemende lidstaten, tenzij de Raad, na raadpleging van het Europees Parlement, met eenparigheid van stemmen van al zijn leden anders besluit.
 
-#### Artikel III-422
+##### Artikel III-422
 
 1. Indien een bepaling van de Grondwet die in het kader van een nauwere samenwerking kan worden toegepast, bepaalt dat de Raad met eenparigheid van stemmen besluit, kan de Raad met eenparigheid van stemmen overeenkomstig het bepaalde in [artikel I-44, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=V&hoofdstuk=III&artikel=I-44&z=2004-10-29&g=2004-10-29), een Europees besluit vaststellen waarin wordt bepaald dat hij met gekwalificeerde meerderheid van stemmen zal besluiten.
 
@@ -4788,13 +4807,13 @@ De uitgaven die voortvloeien uit de uitvoering van een nauwere samenwerking, met
 
 3. De leden 1 en 2 zijn niet van toepassing op besluiten die gevolgen hebben op militair of defensiegebied.
 
-#### Artikel III-423
+##### Artikel III-423
 
 De Raad en de Commissie zorgen voor de samenhang van ieder optreden in het kader van een nauwere samenwerking, zowel onderling als met het beleid van de Unie, en werken daartoe samen.
 
 ## TITEL VII. GEMEENSCHAPPELIJKE BEPALINGEN
 
-#### Artikel III-424
+##### Artikel III-424
 
 Gezien de structurele economische en sociale situatie van Guadeloupe, Frans Guyana, Martinique, Réunion, de Azoren, Madeira en de Canarische Eilanden, die wordt bemoeilijkt door de grote afstand, het insulaire karakter, de kleine oppervlakte, een moeilijk reliëf en klimaat en de economische afhankelijkheid van een gering aantal producten, welke factoren door hun blijvende en cumulatieve karakter de ontwikkeling van deze gebieden ernstig schaden, stelt de Raad, op voorstel van de Commissie, Europese wetten, kaderwetten, verordeningen en besluiten vast die er met name op gericht zijn de voorwaarden voor de toepassing van de Grondwet, met inbegrip van gemeenschappelijk beleid, op deze gebieden vast te stellen. De Raad besluit na raadpleging van het Europees Parlement.
 
@@ -4802,33 +4821,33 @@ De in de eerste alinea bedoelde handelingen hebben met name betrekking op het do
 
 De Raad stelt de in de eerste alinea bedoelde handelingen vast, rekening houdend met de bijzondere kenmerken en beperkingen van de ultraperifere gebieden en zonder afbreuk te doen aan de integriteit en de samenhang van de rechtsorde van de Unie, waaronder de interne markt en het gemeenschappelijk beleid.
 
-#### Artikel III-425
+##### Artikel III-425
 
 De Grondwet laat de regeling van het eigendomsrecht in de lidstaten geheel onverlet.
 
-#### Artikel III-426
+##### Artikel III-426
 
 In elk van de lidstaten heeft de Unie de ruimste handelingsbevoegdheid die door de nationale wetgevingen aan rechtspersonen wordt toegekend. Zij kan met name roerende en onroerende goederen verkrijgen of vervreemden en in rechte optreden. Te dien einde wordt zij door de Commissie vertegenwoordigd. De Unie wordt evenwel door elk van de instellingen vertegenwoordigd, uit hoofde van hun administratieve autonomie, voor de aangelegenheden die verband houden met hun respectieve werking.
 
-#### Artikel III-427
+##### Artikel III-427
 
 Het statuut van de ambtenaren van de Unie, alsmede de regeling die van toepassing is op de andere personeelsleden van de Unie, worden bij Europese wet vastgesteld. Deze wet wordt vastgesteld na raadpleging van de betrokken instellingen.
 
-#### Artikel III-428
+##### Artikel III-428
 
 Voor de vervulling van de haar opgedragen taken kan de Commissie alle gegevens verzamelen en alle noodzakelijke verificaties verrichten, binnen de grenzen en onder de voorwaarden waarin wordt voorzien bij een door de Raad met gewone meerderheid van stemmen vastgestelde Europese verordening of Europees besluit.
 
-#### Artikel III-429
+##### Artikel III-429
 
 1. Onverminderd [artikel 5 van het Protocol tot vaststelling van het statuut van het Europees Stelsel van centrale banken en van de Europese Centrale Bank](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=II&artikel=5&z=2004-10-29&g=2004-10-29) worden de maatregelen voor de opstelling van statistieken, wanneer zulks voor de vervulling van de taken van de Unie nodig is, vastgesteld bij Europese wet of kaderwet.
 
 2. De opstelling van statistieken geschiedt op basis van onpartijdigheid, betrouwbaarheid, objectiviteit, wetenschappelijke onafhankelijkheid, kosteneffectiviteit en statistische geheimhouding. Zij mag geen buitensporige lasten voor de economische actoren met zich mee brengen.
 
-#### Artikel III-430
+##### Artikel III-430
 
 De leden van de instellingen van de Unie, de leden van de comités, alsmede de ambtenaren en personeelsleden van de Unie zijn gehouden, zelfs na neerlegging van hun functie, de inlichtingen die naar hun aard onder de geheimhoudingsplicht vallen, met name de inlichtingen betreffende de ondernemingen en hun handelsbetrekkingen of de bestanddelen van hun kostprijzen, niet openbaar te maken.
 
-#### Artikel III-431
+##### Artikel III-431
 
 De contractuele aansprakelijkheid van de Unie wordt beheerst door het recht dat op het betrokken contract van toepassing is.
 
@@ -4838,19 +4857,19 @@ In afwijking van de tweede alinea moet de Europese Centrale Bank overeenkomstig 
 
 De persoonlijke aansprakelijkheid van de personeelsleden jegens de Unie wordt geregeld bij de bepalingen tot vaststelling van hun statuut of de op hen toepasselijke regeling.
 
-#### Artikel III-432
+##### Artikel III-432
 
 De zetel van de instellingen van de Unie wordt in onderlinge overeenstemming door de regeringen van de lidstaten vastgesteld.
 
-#### Artikel III-433
+##### Artikel III-433
 
 De Raad stelt met eenparigheid van stemmen een Europese verordening vast houdende regeling van het taalgebruik door de instellingen van de Unie, onverminderd het statuut van het Hof van Justitie van de Europese Unie.
 
-#### Artikel III-434
+##### Artikel III-434
 
 De Unie geniet, onder de voorwaarden van het Protocol betreffende de voorrechten en immuniteiten van de Europese Unie, op het grondgebied van de lidstaten de voorrechten en immuniteiten die nodig zijn ter vervulling van haar taak.
 
-#### Artikel III-435
+##### Artikel III-435
 
 De rechten en verplichtingen voortvloeiende uit overeenkomsten die vóór 1 januari 1958 of, voor de toetredende staten, vóór de datum van hun toetreding zijn gesloten tussen een of meer lidstaten enerzijds en een of meer derde staten anderzijds, worden door de Grondwet onverlet gelaten.
 
@@ -4858,7 +4877,7 @@ Voorzover die overeenkomsten niet verenigbaar zijn met de Grondwet maken de betr
 
 Wanneer de lidstaten de in de eerste alinea bedoelde overeenkomsten toepassen, houden zij rekening met het feit dat de door iedere lidstaat in de Grondwet toegestane voordelen een wezenlijk bestanddeel uitmaken van de Unie en dientengevolge onverbrekelijk verbonden zijn met de oprichting van instellingen waaraan bij de Grondwet bevoegdheden zijn toegedeeld, en met het toekennen van identieke voordelen door alle overige lidstaten.
 
-#### Artikel III-436
+##### Artikel III-436
 
 1. De Grondwet vormt geen beletsel voor de volgende regels:
 
@@ -4870,7 +4889,7 @@ Wanneer de lidstaten de in de eerste alinea bedoelde overeenkomsten toepassen, h
 
 ## DEEL IV. ALGEMENE EN SLOTBEPALINGEN
 
-#### Artikel IV-437. Intrekking van de vroegere verdragen
+##### Artikel IV-437. Intrekking van de vroegere verdragen
 
 1. Bij dit Verdrag tot vaststelling van een Grondwet voor Europa worden ingetrokken het [Verdrag tot oprichting van de Europese Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) en het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507), alsmede, onder de voorwaarden die zijn bepaald in het Protocol betreffende de akten en verdragen waarbij het Verdrag tot oprichting van de Europese Gemeenschap en het Verdrag betreffende de Europese Unie zijn aangevuld of gewijzigd, de akten en verdragen waarbij deze zijn aangevuld of gewijzigd, onder voorbehoud van lid 2 van dit artikel.
 
@@ -4894,7 +4913,7 @@ Evenwel
 
 - –. blijven van het onder e genoemde verdrag de bepalingen die zijn opgenomen of waarnaar wordt verwezen in het Protocol betreffende het verdrag en de akte inzake de toetreding van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek, van kracht en worden de rechtsgevolgen ervan gehandhaafd overeenkomstig dat protocol.
 
-#### Artikel IV-438. Rechtsopvolging en rechtscontinuïteit
+##### Artikel IV-438. Rechtsopvolging en rechtscontinuïteit
 
 1. De bij dit Verdrag opgerichte Europese Unie volgt de Europese Unie die bij het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) is opgericht, en de Europese Gemeenschap op.
 
@@ -4908,11 +4927,11 @@ De overige onderdelen van het op de datum van inwerkingtreding van dit Verdrag b
 
 5. De continuïteit van de administratieve en gerechtelijke procedures die zijn ingeleid vóór de datum van inwerkingtreding van dit Verdrag, wordt gewaarborgd met inachtneming van de Grondwet. De instellingen, organen en instanties die voor deze procedures verantwoordelijk zijn, nemen daartoe alle dienstige maatregelen.
 
-#### Artikel IV-439. Overgangsbepalingen betreffende bepaalde instellingen
+##### Artikel IV-439. Overgangsbepalingen betreffende bepaalde instellingen
 
 De overgangsbepalingen betreffende de samenstelling van het Europees Parlement, betreffende de omschrijving van de gekwalificeerde meerderheid van stemmen in de Europese Raad en in de Raad, ook in de gevallen waarin niet alle leden van de Europese Raad of de Raad aan de stemming deelnemen, alsmede betreffende de samenstelling van de Commissie, daaronder begrepen de minister van Buitenlandse Zaken van de Unie, zijn opgenomen in het Protocol betreffende de overgangsbepalingen inzake de instellingen en organen van de Unie.
 
-#### Artikel IV-440. Territoriaal toepassingsgebied
+##### Artikel IV-440. Territoriaal toepassingsgebied
 
 1. Dit Verdrag is van toepassing op het Koninkrijk België, de Tsjechische Republiek, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Republiek Estland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, Ierland, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, de Republiek Hongarije, de Republiek Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Republiek Polen, de Portugese Republiek, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland, het Koninkrijk Zweden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland.
 
@@ -4936,15 +4955,15 @@ Dit Verdrag is niet van toepassing op de landen en gebieden overzee die met het 
 
 7. De Europese Raad kan op initiatief van de betrokken lidstaat een Europees besluit vaststellen tot wijziging van de status ten aanzien van de Unie van een Deens, Frans of Nederlands land of gebied als bedoeld in de leden 2 en 3. De Europese Raad besluit met eenparigheid van stemmen, na raadpleging van de Commissie.
 
-#### Artikel IV-441. Regionale unies
+##### Artikel IV-441. Regionale unies
 
 Dit Verdrag vormt geen beletsel voor het bestaan en de voltooiing van de regionale unies tussen België en Luxemburg alsmede tussen België, Luxemburg en Nederland, voorzover de doelstellingen van die regionale unies niet worden bereikt door toepassing van dit Verdrag.
 
-#### Artikel IV-442. Protocollen en bijlagen
+##### Artikel IV-442. Protocollen en bijlagen
 
 De protocollen en bijlagen bij dit Verdrag maken een integrerend deel daarvan uit.
 
-#### Artikel IV-443. Gewone herzieningsprocedure
+##### Artikel IV-443. Gewone herzieningsprocedure
 
 1. De regering van iedere lidstaat, het Europees Parlement en de Commissie kunnen de Raad ontwerpen tot herziening van dit Verdrag voorleggen. Deze ontwerpen worden door de Raad aan de Europese Raad toegezonden en worden ter kennis van de nationale parlementen gebracht.
 
@@ -4958,7 +4977,7 @@ De wijzigingen treden in werking nadat zij door alle lidstaten overeenkomstig hu
 
 4. Indien viervijfde van de lidstaten het verdrag houdende wijziging van dit Verdrag twee jaar na de ondertekening ervan hebben bekrachtigd en een of meer lidstaten moeilijkheden bij de bekrachtiging hebben ondervonden, bespreekt de Europese Raad de kwestie.
 
-#### Artikel IV-444. Vereenvoudigde herzieningsprocedure
+##### Artikel IV-444. Vereenvoudigde herzieningsprocedure
 
 1. Indien [deel III](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&z=2004-10-29&g=2004-10-29) voorschrijft dat de Raad op een bepaald gebied of in een bepaald geval met eenparigheid van stemmen besluit, kan de Europese Raad bij Europees besluit bepalen dat de Raad op dat gebied of in dat geval met gekwalificeerde meerderheid van stemmen besluit.
 
@@ -4970,7 +4989,7 @@ Dit lid is niet van toepassing op besluiten die gevolgen hebben op militair of d
 
 Voor de vaststelling van de in de leden 1 en 2 bedoelde Europese besluiten, besluit de Europese Raad met eenparigheid van stemmen, na goedkeuring door het Europees Parlement, dat zich uitspreekt bij meerderheid van zijn leden.
 
-#### Artikel IV-445. Vereenvoudigde herzieningsprocedure voor het intern beleid en optreden van de Unie
+##### Artikel IV-445. Vereenvoudigde herzieningsprocedure voor het intern beleid en optreden van de Unie
 
 1. De regering van een lidstaat, het Europees Parlement en de Commissie kunnen de Europese Raad ontwerpen tot gehele of gedeeltelijke herziening van de bepalingen van [deel III, titel III](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&z=2004-10-29&g=2004-10-29), over het intern beleid en optreden van de Unie voorleggen.
 
@@ -4980,17 +4999,17 @@ Dit Europees besluit treedt pas in werking nadat de lidstaten het overeenkomstig
 
 3. Het in lid 2 bedoelde Europees besluit kan geen uitbreiding van de in dit Verdrag aan de Unie toegedeelde bevoegdheden inhouden.
 
-#### Artikel IV-446. Duur
+##### Artikel IV-446. Duur
 
 Dit Verdrag wordt voor onbeperkte tijd gesloten.
 
-#### Artikel IV-447. Bekrachtiging en inwerkingtreding
+##### Artikel IV-447. Bekrachtiging en inwerkingtreding
 
 1. Dit Verdrag wordt door de Hoge Verdragsluitende Partijen bekrachtigd overeenkomstig hun onderscheiden grondwettelijke bepalingen. De akten van bekrachtiging worden nedergelegd bij de regering van de Italiaanse Republiek.
 
 2. Dit Verdrag treedt in werking op 1 november 2006, mits alle akten van bekrachtiging zijn nedergelegd, of bij gebreke daarvan op de eerste dag van de tweede maand die volgt op het nederleggen van de akte van bekrachtiging door de ondertekenende staat die als laatste deze handeling verricht.
 
-#### Artikel IV-448. Authentieke teksten en vertalingen
+##### Artikel IV-448. Authentieke teksten en vertalingen
 
 1. Dit Verdrag, opgesteld in één exemplaar, in de Deense, de Duitse, de Engelse, de Estische, de Finse, de Franse, de Griekse, de Hongaarse, de Ierse, de Italiaanse, de Letse, de Litouwse, de Maltese, de Nederlandse, de Poolse, de Portugese, de Spaanse, de Slowaakse, de Sloveense, de Tsjechische en de Zweedse taal, zijnde de teksten in elk van deze talen gelijkelijk authentiek, wordt nedergelegd in het archief van de regering van de Italiaanse Republiek, die een voor eensluidend gewaarmerkt afschrift daarvan toezendt aan de regeringen der andere ondertekenende staten.
 
@@ -5006,11 +5025,11 @@ Hebben overeenstemming bereikt omtrent de volgende bepalingen, die aan het Verdr
 
 ## TITEL I. INFORMATIE VOOR DE NATIONALE PARLEMENTEN
 
-#### Artikel 1
+##### Artikel 1
 
 Discussiedocumenten van de Europese Commissie (groenboeken, witboeken en mededelingen) worden bij publicatie door de Commissie rechtstreeks aan de nationale parlementen toegezonden. De Commissie zendt de nationale parlementen ook het jaarlijkse wetgevingsprogramma en alle andere instrumenten voor wetgevingsprogrammering en beleidsstrategie, op hetzelfde tijdstip als aan het Europees Parlement en de Raad.
 
-#### Artikel 2
+##### Artikel 2
 
 De tot het Europees Parlement en de Raad gerichte ontwerpen van Europese wetgevingshandelingen worden aan de nationale parlementen toegezonden.
 
@@ -5022,7 +5041,7 @@ Het Europees Parlement zendt zijn ontwerpen van Europese wetgevingshandelingen r
 
 De ontwerpen van Europese wetgevingshandelingen die uitgaan van een groep lidstaten, het Hof van Justitie, de Europese Centrale Bank of de Europese Investeringsbank worden door de Raad aan de nationale parlementen toegezonden.
 
-#### Artikel 3
+##### Artikel 3
 
 De nationale parlementen kunnen de voorzitter van het Europees Parlement, van de Raad en van de Europese Commissie een met redenen omkleed advies toezenden betreffende de overeenstemming van een ontwerp van een Europese wetgevingshandeling met het subsidiariteitsbeginsel, volgens de procedure van het Protocol betreffende de toepassing van de beginselen van subsidiariteit en evenredigheid.
 
@@ -5030,33 +5049,33 @@ Indien het ontwerp van een Europese wetgevingshandeling uitgaat van een groep li
 
 Indien het ontwerp van een Europese wetgevingshandeling uitgaat van het Hof van Justitie, de Europese Centrale Bank of de Europese Investeringsbank zendt de voorzitter van de Raad het/de met redenen omklede advies/adviezen toe aan de/het betrokken instelling of orgaan.
 
-#### Artikel 4
+##### Artikel 4
 
 Er dient een periode van zes weken te verstrijken tussen het tijdstip waarop een ontwerp van een Europese wetgevingshandeling aan de nationale parlementen in de officiële talen van de Unie beschikbaar wordt gesteld, en de datum waarop het met het oog op de vaststelling ervan of op de vaststelling van een standpunt in het kader van een wetgevingsprocedure op de voorlopige agenda van de Raad wordt geplaatst. Uitzonderingen zijn mogelijk in spoedeisende gevallen, waarvoor de redenen in de handeling of het standpunt van de Raad worden aangegeven. Behalve in naar behoren gemotiveerde dringende gevallen kan tijdens deze zes weken niet worden geconstateerd dat er over een ontwerp van een Europese wetgevingshandeling een akkoord bestaat. Behalve in naar behoren gemotiveerde dringende gevallen moeten tussen de plaatsing van een ontwerp van een Europese wetgevingshandeling op de voorlopige agenda van de Raad en de vaststelling van een standpunt tien dagen verstrijken.
 
-#### Artikel 5
+##### Artikel 5
 
 De agenda's en de resultaten van de Raadszittingen, waaronder begrepen de notulen van de Raadszittingen waarin over ontwerpen van Europese wetgevingshandelingen is beraadslaagd, worden rechtstreeks naar de nationale parlementen gezonden, op hetzelfde tijdstip als aan de regeringen van de lidstaten.
 
-#### Artikel 6
+##### Artikel 6
 
 Indien de Europese Raad artikel IV-444, lid 1 of lid 2, van de Grondwet wil toepassen, worden de nationale parlementen tenminste zes maanden voordat een Europees besluit wordt vastgesteld op de hoogte gebracht van het initiatief van de Europese Raad.
 
-#### Artikel 7
+##### Artikel 7
 
 De Rekenkamer zendt haar jaarverslag ter informatie toe aan de nationale parlementen, op hetzelfde tijdstip als aan het Europees Parlement en de Raad.
 
-#### Artikel 8
+##### Artikel 8
 
 Wanneer het nationale parlementaire stelsel geen eenkamerstelsel is, gelden de [artikelen 1 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&titeldeel=I&artikel=1&z=2004-10-29&g=2004-10-29) voor de kamers waaruit het bestaat.
 
 ## TITEL II. SAMENWERKING TUSSEN DE PARLEMENTEN
 
-#### Artikel 9
+##### Artikel 9
 
 Het Europees Parlement en de nationale parlementen bepalen samen hoe binnen de Unie een efficiënte en regelmatige samenwerking tussen de verschillende parlementen kan worden georganiseerd en gestimuleerd.
 
-#### Artikel 10
+##### Artikel 10
 
 Een conferentie van de organen van de nationale parlementen die gespecialiseerd zijn in de aangelegenheden van de Unie kan iedere door haar passend geachte bijdrage ter attentie van het Europees Parlement, de Raad en de Commissie leveren. Deze conferentie bevordert voorts de uitwisseling van informatie en beste praktijken tussen de nationale parlementen en het Europees Parlement, alsook tussen hun respectieve gespecialiseerde commissies. Zij kan ook interparlementaire conferenties over specifieke onderwerpen organiseren, met name om vraagstukken op het gebied van het gemeenschappelijk buitenlands en veiligheidsbeleid, waaronder het gemeenschappelijk veiligheids- en defensiebeleid, te bespreken. De bijdragen van de conferentie binden de nationale parlementen niet en laten hun standpunt onverlet.
 
@@ -5068,19 +5087,19 @@ Vastbesloten de voorwaarden vast te stellen voor de toepassing van de beginselen
 
 Hebben overeenstemming bereikt omtrent de volgende bepalingen, die aan het Verdrag tot vaststelling van een Grondwet voor Europa worden gehecht:
 
-#### Artikel 1
+##### Artikel 1
 
 Iedere instelling draagt er voortdurend zorg voor dat de beginselen van subsidiariteit en evenredigheid van [artikel I-11 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=III&artikel=I-11&z=2004-10-29&g=2004-10-29) in acht worden genomen.
 
-#### Artikel 2
+##### Artikel 2
 
 Alvorens een Europese wetgevingshandeling voor te stellen, houdt de Commissie brede raadplegingen. Daarbij wordt, in voorkomend geval, rekening gehouden met de regionale en de lokale dimensie van het beoogde optreden. In buitengewoon dringende gevallen houdt de Commissie geen raadplegingen. Zij motiveert haar beslissing in haar voorstel.
 
-#### Artikel 3
+##### Artikel 3
 
 Voor de toepassing van dit Protocol worden onder „ontwerp van Europese wetgevingshandeling” verstaan de voorstellen van de Commissie, de initiatieven van een groep lidstaten, de initiatieven van het Europees Parlement, de verzoeken van het Hof van Justitie, de aanbevelingen van de Europese Centrale Bank en de verzoeken van de Europese Investeringsbank met het oog op de vaststelling van een Europese wetgevingshandeling.
 
-#### Artikel 4
+##### Artikel 4
 
 De Commissie zendt haar ontwerpen voor Europese wetgevingshandelingen en gewijzigde ontwerpen gelijktijdig toe aan de nationale parlementen en aan de wetgever van de Unie.
 
@@ -5090,11 +5109,11 @@ De Raad zendt de ontwerpen van Europese wetgevingshandelingen en gewijzigde ontw
 
 De wetgevingsresoluties van het Europees Parlement en de standpunten van de Raad worden, zodra zij zijn aangenomen respectievelijk vastgesteld, door de betrokken instelling aan de nationale parlementen toegezonden.
 
-#### Artikel 5
+##### Artikel 5
 
 De ontwerpen van Europese wetgevingshandelingen worden gemotiveerd in het licht van de beginselen van subsidiariteit en evenredigheid. Ieder ontwerp van een Europese wetgevingshandeling bevat een subsidiariteits- en evenredigheidsmemorandum, met een uitgebreide toelichting van de elementen op basis waarvan de naleving van de beginselen van subsidiariteit en evenredigheid kan worden beoordeeld. Dat memorandum moet elementen bevatten waarmee de financiële gevolgen van het voorstel kunnen worden beoordeeld, alsook – in het geval van een Europese kaderwet – het effect ervan op de door de lidstaten vast te stellen regelgeving, inclusief – waar toepasselijk – de regionale regelgeving. De redenen voor de conclusie dat een doelstelling van de Unie beter bereikt kan worden door de Unie, worden met kwalitatieve en, zo mogelijk, kwantitatieve indicatoren gestaafd. In de ontwerpen van Europese wetgevingshandelingen wordt er rekening mee gehouden dat alle, financiële of administratieve, lasten voor de Unie, de nationale regeringen, de regionale of lokale overheden, het bedrijfsleven en de burgers tot een minimum moeten worden beperkt en in verhouding moeten staan tot het te bereiken doel.
 
-#### Artikel 6
+##### Artikel 6
 
 Ieder nationaal parlement en iedere kamer van een van die parlementen kan binnen een termijn van zes weken vanaf de datum van toezending van een ontwerp van Europese wetgevingshandeling aan de voorzitters van het Europees Parlement, de Raad en de Commissie een gemotiveerd advies toezenden waarin wordt uiteengezet waarom het betrokken ontwerp zijns inziens niet strookt met het subsidiariteitsbeginsel. Ieder nationaal parlement of iedere kamer van een nationaal parlement raadpleegt, in voorkomend geval, de regionale parlementen met wetgevingsbevoegdheid.
 
@@ -5102,7 +5121,7 @@ Indien het ontwerp van Europese wetgevingshandeling uitgaat van een groep lidsta
 
 Indien het ontwerp van Europese wetgevingshandeling afkomstig is van het Hof van Justitie, de Europese Centrale Bank of de Europese Investeringsbank zendt de voorzitter van de Raad het advies toe aan de betrokken instelling of het betrokken orgaan.
 
-#### Artikel 7
+##### Artikel 7
 
 Het Europees Parlement, de Raad en de Commissie, alsmede in voorkomend geval, de groep van lidstaten, het Hof van Justitie, de Europese Centrale Bank of de Europese Investeringsbank houden, indien het ontwerp van wetgevingshandeling van hen uitgaat, rekening met de gemotiveerde adviezen die de nationale parlementen of een kamer van een van deze parlementen tot hen richten.
 
@@ -5112,13 +5131,13 @@ Indien gemotiveerde adviezen waarin wordt gesteld dat een ontwerp van Europese w
 
 Op grond van de heroverweging kan de Commissie of, in voorkomend geval, de groep lidstaten, het Europees Parlement, het Hof van Justitie, de Europese Centrale Bank of de Europese Investeringsbank, indien het ontwerp van Europese wetgevingshandeling van hen uitgaat, besluiten het ontwerp te handhaven, te wijzigen of in te trekken. Dit besluit moet worden gemotiveerd.
 
-#### Artikel 8
+##### Artikel 8
 
 Het Hof van Justitie van de Europese Unie is bevoegd uitspraak te doen inzake ieder beroep wegens schending door een Europese wetgevingshandeling van het subsidiariteitsbeginsel, dat op de wijze als bepaald in [artikel III-365 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=I&paragraaf=5&artikel=III-365&z=2004-10-29&g=2004-10-29) wordt ingesteld door een lidstaat, of door een lidstaat overeenkomstig zijn rechtsorde wordt toegezonden namens zijn nationaal parlement of een kamer van dat parlement.
 
 Op de wijze als bepaald in datzelfde artikel kan ook het Comité van de Regio's een dergelijk beroep instellen tegen Europese wetgevingshandelingen voor de vaststelling waarvan het volgens de Grondwet moet worden geraadpleegd.
 
-#### Artikel 9
+##### Artikel 9
 
 De Commissie brengt jaarlijks aan de Europese Raad, aan het Europees Parlement, aan de Raad en aan de nationale parlementen verslag uit over de toepassing van [artikel I-11 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=III&artikel=I-11&z=2004-10-29&g=2004-10-29). Dit jaarverslag wordt ook aan het Comité van de Regio's en aan het Economisch en Sociaal Comité toegezonden.
 
@@ -5128,17 +5147,17 @@ Wensende, het statuut van het Hof van Justitie van de Europese Unie, bedoeld in 
 
 Hebben overeenstemming bereikt omtrent de volgende bepalingen, die aan het Verdrag tot vaststelling van een Grondwet voor Europa en het [Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie](https://wetten.overheid.nl/jci1.3:c:BWBV0004033) worden gehecht:
 
-#### Artikel 1
+##### Artikel 1
 
 Het Hof van Justitie van de Europese Unie wordt samengesteld en oefent zijn functies uit overeenkomstig de Grondwet, het [Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie](https://wetten.overheid.nl/jci1.3:c:BWBV0004033) (EGA-Verdrag) en dit statuut.
 
 ## TITEL I. STATUS VAN DE RECHTERS EN VAN DE ADVOCATEN-GENERAAL
 
-#### Artikel 2
+##### Artikel 2
 
 Alvorens zijn ambt te aanvaarden, moet iedere rechter voor het Hof van Justitie in openbare zitting bijeen, de eed afleggen, dat hij zijn functie zal uitoefenen in volkomen onpartijdigheid en geheel overeenkomstig zijn geweten en dat hij niets van het geheim der beraadslagingen openbaar zal maken.
 
-#### Artikel 3
+##### Artikel 3
 
 De rechters zijn vrijgesteld van rechtsvervolging. Met betrekking tot hetgeen zij in hun officiële hoedanigheid hebben gedaan, gezegd of geschreven, blijven zij deze immuniteit genieten ook nadat zij hun ambt hebben neergelegd.
 
@@ -5148,7 +5167,7 @@ Ingeval tegen een rechter wiens immuniteit is opgeheven, een strafvervolging wor
 
 De [artikelen 11 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=V&artikel=11&z=2004-10-29&g=2004-10-29) en [artikel 17 van het Protocol betreffende de voorrechten en immuniteiten van de Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=VII&artikel=17&z=2004-10-29&g=2004-10-29) zijn van toepassing op de rechters, de advocaten-generaal, de griffiers en de toegevoegde rapporteurs van het Hof van Justitie van de Europese Unie, onverminderd de bepalingen van de eerste, de tweede en de derde alinea van dit artikel nopens de vrijstelling van rechtsvervolging van de rechters.
 
-#### Artikel 4
+##### Artikel 4
 
 De rechters mogen geen politieke functie of bestuursambt uitoefenen.
 
@@ -5158,7 +5177,7 @@ Bij hun ambtsaanvaarding verbinden zij zich plechtig om gedurende hun ambtsperio
 
 In geval van twijfel beslist het Hof van Justitie. Wanneer de beslissing betrekking heeft op een lid van het Gerecht of van een gespecialiseerde rechtbank, beslist het Hof na raadpleging van het betrokken rechtscollege.
 
-#### Artikel 5
+##### Artikel 5
 
 Behalve door periodieke vervanging of door overlijden eindigt de ambtsuitoefening van een rechter door ontslag.
 
@@ -5166,7 +5185,7 @@ Ingeval een rechter om ontslag verzoekt, richt hij daartoe tot de president van 
 
 Met uitzondering van de gevallen waarin artikel 6 van toepassing is, blijft elke rechter zitting hebben totdat zijn opvolger in functie treedt.
 
-#### Artikel 6
+##### Artikel 6
 
 Een rechter kan slechts van zijn ambt worden ontheven of van zijn recht op pensioen of van andere als zodanig geldende gunsten vervallen worden verklaard, wanneer hij, naar het eenstemmig oordeel van de rechters van en de advocaten-generaal bij het Hof van Justitie, heeft opgehouden aan de gestelde voorwaarden of aan de uit zijn ambt voortvloeiende verplichtingen te voldoen. De betrokkene neemt niet aan die beraadslagingen deel. Wanneer de betrokkene lid is van het Gerecht of van een gespecialiseerde rechtbank, beslist het Hof na raadpleging van het betrokken rechtscollege.
 
@@ -5174,49 +5193,49 @@ De griffier deelt de beslissing van het Hof mede aan de voorzitters van het Euro
 
 In geval van een beslissing waarbij een rechter van zijn ambt wordt ontheven, ontstaat door laatstbedoelde kennisgeving een vacature.
 
-#### Artikel 7
+##### Artikel 7
 
 De rechters wier ambtsuitoefening vóór het verstrijken van hun mandaat eindigt, worden voor de verdere duur van het mandaat vervangen.
 
-#### Artikel 8
+##### Artikel 8
 
 De bepalingen van de artikelen 2 tot en met 7 zijn van toepassing op de advocaten-generaal.
 
 ## TITEL II. ORGANISATIE VAN HET HOF VAN JUSTITIE
 
-#### Artikel 9
+##### Artikel 9
 
 De gedeeltelijke vervanging van de rechters, die om de drie jaar plaatsvindt, heeft beurtelings betrekking op dertien en op twaalf rechters.
 
 De gedeeltelijke vervanging van de advocaten-generaal, die om de drie jaar plaatsvindt, heeft telkens betrekking op vier advocaten-generaal.
 
-#### Artikel 10
+##### Artikel 10
 
 De griffier legt voor het Hof van Justitie de eed af dat hij zijn functie zal uitoefenen in volkomen onpartijdigheid en geheel overeenkomstig zijn geweten en dat hij niets van het geheim der beraadslagingen openbaar zal maken.
 
-#### Artikel 11
+##### Artikel 11
 
 Het Hof van Justitie regelt de vervanging van de griffier, voor het geval dat deze verhinderd is.
 
-#### Artikel 12
+##### Artikel 12
 
 In het belang van de dienst worden aan het Hof van Justitie ambtenaren en andere personeelsleden verbonden. Zij ressorteren onder de griffier, onder het gezag van de president.
 
-#### Artikel 13
+##### Artikel 13
 
 Bij Europese wet kan worden voorzien in de benoeming van toegevoegde rapporteurs en kan hun statuut worden bepaald. Deze wet wordt vastgesteld op verzoek van het Hof van Justitie. De toegevoegde rapporteurs kunnen overeenkomstig de in het reglement voor de procesvoering vastgestelde bepalingen worden geroepen om deel te nemen aan het onderzoek van de bij het Hof aanhangige zaken en om de rechter-rapporteur bij te staan.
 
 De toegevoegde rapporteurs, gekozen uit personen die alle waarborgen voor onafhankelijkheid bieden en de nodige bewijzen van juridische bekwaamheid bezitten, worden bij een met gewone meerderheid vastgesteld Europees besluit van de Raad benoemd. Zij leggen voor het Hof de eed af dat zij hun ambt zullen uitoefenen in volkomen onpartijdigheid en geheel overeenkomstig hun geweten en dat zij niets van het geheim der beraadslagingen openbaar zullen maken.
 
-#### Artikel 14
+##### Artikel 14
 
 De rechters, de advocaten-generaal en de griffier zijn verplicht verblijf te houden in de plaats waar het Hof van Justitie is gevestigd.
 
-#### Artikel 15
+##### Artikel 15
 
 Het Hof van Justitie is permanent in functie. De rechterlijke vakanties worden door het Hof met inachtneming van de eisen van de dienst vastgesteld.
 
-#### Artikel 16
+##### Artikel 16
 
 Het Hof van Justitie vormt uit zijn midden kamers van drie en vijf rechters. De rechters kiezen uit hun midden de presidenten van de kamers. De presidenten van de kamers van vijf rechters worden voor drie jaar gekozen. Zij zijn eenmaal herbenoembaar.
 
@@ -5228,7 +5247,7 @@ Het Hof komt in voltallige zitting bijeen wanneer een zaak aanhangig is gemaakt 
 
 Verder kan het Hof, wanneer het van oordeel is dat een aanhangige zaak van uitzonderlijk belang is, nadat de advocaat-generaal is gehoord, besluiten deze zaak naar de voltallige zitting te verwijzen.
 
-#### Artikel 17
+##### Artikel 17
 
 Het Hof van Justitie kan slechts in oneven getal op geldige wijze beslissen.
 
@@ -5240,7 +5259,7 @@ De in voltallige zitting genomen beslissingen van het Hof zijn geldig, wanneer v
 
 In geval van verhindering van één der rechters van een kamer kan, overeenkomstig de in het reglement voor de procesvoering vastgestelde bepalingen een beroep worden gedaan op een rechter die deel uitmaakt van een andere kamer.
 
-#### Artikel 18
+##### Artikel 18
 
 De rechters en de advocaten-generaal mogen niet deelnemen aan de berechting van enige zaak, waarin zij vroeger zijn opgetreden als gemachtigde, raadsman of advocaat van één van beide partijen, of waarover zij geroepen zijn geweest zich uit te spreken als lid van een rechtbank, van een commissie van onderzoek of in enige andere hoedanigheid.
 
@@ -5252,7 +5271,7 @@ Partijen kunnen geen wijziging in de samenstelling van het Hof of van een van zi
 
 ## TITEL III. PROCEDURE VOOR HET HOF VAN JUSTITIE
 
-#### Artikel 19
+##### Artikel 19
 
 De lidstaten zowel als de instellingen van de Unie worden voor het Hof van Justitie vertegenwoordigd door een voor elke zaak benoemde gemachtigde. De gemachtigde kan door een raadsman of door een advocaat worden bijgestaan.
 
@@ -5268,7 +5287,7 @@ Ten aanzien van de raadslieden en advocaten die voor het Hof optreden, geniet he
 
 Hoogleraren die onderdaan zijn van een lidstaat waarvan de wetgeving hun het recht toekent te pleiten, genieten voor het Hof de rechten die in dit artikel aan de advocaten zijn toegekend.
 
-#### Artikel 20
+##### Artikel 20
 
 De procedure voor het Hof van Justitie bestaat uit twee gedeelten: de schriftelijke en de mondelinge behandeling.
 
@@ -5280,13 +5299,13 @@ De mondelinge behandeling omvat de voorlezing van het rapport van de rechter-rap
 
 Wanneer het Hof van oordeel is dat in de zaak geen nieuwe rechtsvraag aan de orde is, kan het Hof, de advocaat-generaal gehoord, beslissen dat de zaak zonder conclusie van de advocaat-generaal zal worden berecht.
 
-#### Artikel 21
+##### Artikel 21
 
 Een zaak wordt bij het Hof van Justitie aanhangig gemaakt door middel van een verzoekschrift, dat aan de griffier wordt toegezonden. Het verzoekschrift moet inhouden de naam en woonplaats van de verzoeker en de hoedanigheid van de ondertekenaar, de aanduiding van de partij of partijen tegen wie het verzoekschrift is gericht, het onderwerp van het geschil, de conclusies en een summiere uiteenzetting van de aangevoerde middelen.
 
 Het moet, indien daartoe aanleiding bestaat, vergezeld gaan van de handeling waarvan nietigverklaring wordt gevraagd, of, in het geval bedoeld in [artikel III-367 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=I&paragraaf=5&artikel=III-367&z=2004-10-29&g=2004-10-29), van een bewijsstuk van de datum van de in dit artikel bedoelde uitnodiging. Indien deze stukken niet bij het verzoekschrift zijn gevoegd, nodigt de griffier de betrokkene uit deze alsnog binnen een redelijke termijn over te leggen; verval van het recht tot beroep kan niet worden tegengeworpen, indien het verzuim eerst is hersteld na het verstrijken van de termijn van beroep.
 
-#### Artikel 22
+##### Artikel 22
 
 In de in [artikel 18 van het EGA-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004033&artikel=18) bedoelde gevallen wordt bij het Hof van Justitie beroep ingesteld door middel van een verzoekschrift, dat aan de griffier wordt toegezonden. Het verzoekschrift moet inhouden de naam en woonplaats van de verzoeker en de hoedanigheid van de ondertekenaar, de beslissing waartegen beroep wordt ingesteld, de tegenpartijen, het onderwerp van het geschil, de conclusies en een summiere uiteenzetting van de aangevoerde middelen.
 
@@ -5296,7 +5315,7 @@ Indien het Hof het beroep verwerpt, wordt de beslissing van de arbitragecommissi
 
 Indien het Hof de beslissing van de arbitragecommissie vernietigt, kan de procedure, wanneer daartoe grond bestaat, op initiatief van een der partijen in het geding voor de arbitragecommissie worden hervat. Deze is aan de door het Hof besliste rechtsvragen gebonden.
 
-#### Artikel 23
+##### Artikel 23
 
 In de in [artikel III-369 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=I&paragraaf=5&artikel=III-369&z=2004-10-29&g=2004-10-29) bedoelde gevallen wordt van de beslissing van de nationale rechterlijke instantie die de procedure schorst en een beroep doet op het Hof van Justitie, aan het Hof kennis gegeven op initiatief van die instantie. De griffier van het Hof geeft van deze beslissing vervolgens kennis aan de betrokken partijen, de lidstaten en de Commissie, alsmede aan de instelling, het orgaan of de instantie van de Unie die de handeling waarvan de geldigheid of de uitlegging wordt betwist, heeft vastgesteld.
 
@@ -5306,29 +5325,29 @@ Van de beslissing van de nationale rechterlijke instantie wordt door de griffier
 
 Indien in een door de Raad met een of meer derde landen op een bepaald gebied gesloten overeenkomst is bepaald, dat deze landen het recht hebben memories of schriftelijke opmerkingen in te dienen ingeval een rechterlijke instantie van een lidstaat het Hof een prejudiciële vraag stelt die op het toepassingsgebied van de overeenkomst betrekking heeft, wordt van de beslissing van de nationale rechterlijke instantie waarin een dergelijke vraag is gesteld, eveneens kennis gegeven aan de betrokken derde landen, die binnen een termijn van twee maanden na deze kennisgeving memories of schriftelijke opmerkingen kunnen indienen bij het Hof.
 
-#### Artikel 24
+##### Artikel 24
 
 Het Hof van Justitie kan partijen verzoeken alle stukken over te leggen en alle inlichtingen te verstrekken, die het nuttig acht. In geval van weigering neemt het Hof hiervan akte.
 
 Het Hof kan eveneens aan de lidstaten en aan de instellingen, organen of instanties van de Unie die geen partij in het proces zijn, verzoeken alle inlichtingen te verstrekken die het voor het proces nodig acht.
 
-#### Artikel 25
+##### Artikel 25
 
 Het Hof van Justitie kan te allen tijde een deskundigenonderzoek opdragen aan personen, lichamen, bureaus, commissies of organen te zijner keuze.
 
-#### Artikel 26
+##### Artikel 26
 
 Getuigen kunnen worden gehoord overeenkomstig de in het reglement voor de procesvoering vastgestelde bepalingen.
 
-#### Artikel 27
+##### Artikel 27
 
 Ten aanzien van gebrekkige getuigen geniet het Hof van Justitie dezelfde bevoegdheden als op dit gebied in de regel zijn toegekend aan gerechtshoven en rechtbanken, en kan het geldboeten opleggen, een en ander overeenkomstig de in het reglement voor de procesvoering vastgestelde bepalingen.
 
-#### Artikel 28
+##### Artikel 28
 
 Getuigen en deskundigen kunnen onder ede worden gehoord volgens de in het reglement voor de procesvoering vastgestelde formule of op de wijze, die in de nationale wetgeving van de getuige of de deskundige is voorgeschreven.
 
-#### Artikel 29
+##### Artikel 29
 
 Het Hof van Justitie kan bevelen, dat een getuige of deskundige door de rechterlijke instantie van zijn woonplaats wordt gehoord.
 
@@ -5336,43 +5355,43 @@ Dit bevel wordt ter uitvoering gericht tot de bevoegde rechterlijke instantie ov
 
 Het Hof draagt de kosten, doch kan deze eventueel ten laste van partijen brengen.
 
-#### Artikel 30
+##### Artikel 30
 
 Elke lidstaat beschouwt iedere schending van de eed der getuigen en deskundigen als het overeenkomstige strafbare feit bedreven voor een nationale rechtbank die in burgerlijke zaken uitspraak doet. Op aangifte van het Hof van Justitie vervolgt hij de daders van dit strafbare feit voor de bevoegde nationale rechterlijke instantie.
 
-#### Artikel 31
+##### Artikel 31
 
 De zittingen zijn openbaar, tenzij het Hof van Justitie ambtshalve of op verzoek van partijen om gewichtige redenen anders beslist.
 
-#### Artikel 32
+##### Artikel 32
 
 Tijdens de mondelinge behandeling kan het Hof van Justitie de deskundigen, de getuigen alsook de partijen zelf, horen. Deze laatsten kunnen evenwel slechts pleiten bij monde van hun vertegenwoordiger.
 
-#### Artikel 33
+##### Artikel 33
 
 Van iedere zitting wordt een proces-verbaal opgemaakt, dat door de president en de griffier wordt ondertekend.
 
-#### Artikel 34
+##### Artikel 34
 
 De rol der terechtzittingen wordt door de president vastgesteld.
 
-#### Artikel 35
+##### Artikel 35
 
 De beraadslagingen van het Hof van Justitie zijn en blijven geheim.
 
-#### Artikel 36
+##### Artikel 36
 
 De arresten zijn met redenen omkleed. Zij vermelden de namen van de rechters die hebben beslist.
 
-#### Artikel 37
+##### Artikel 37
 
 De arresten worden ondertekend door de president en de griffier. Zij worden in openbare zitting uitgesproken.
 
-#### Artikel 38
+##### Artikel 38
 
 Het Hof van Justitie geeft een beslissing ten aanzien van de proceskosten.
 
-#### Artikel 39
+##### Artikel 39
 
 De president van het Hof van Justitie kan volgens een summiere procedure, die voorzover nodig afwijkt van sommige regels van dit statuut en die wordt vastgesteld bij het reglement voor de procesvoering, uitspraak doen op conclusies, strekkende ofwel tot verkrijging van de in [artikel III-379, lid 1, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=I&paragraaf=5&artikel=III-379&z=2004-10-29&g=2004-10-29) en [artikel 157 van het EGA-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004033&artikel=157) bedoelde opschorting, ofwel tot toepassing van voorlopige maatregelen krachtens artikel III-379, lid 2, van de Grondwet, ofwel tot schorsing van de gedwongen tenuitvoerlegging overeenkomstig [artikel III-401, vierde alinea, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=4&artikel=III-401&z=2004-10-29&g=2004-10-29) of [artikel 164, derde alinea, van het EGA-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004033&artikel=164).
 
@@ -5380,7 +5399,7 @@ Bij verhindering van de president wordt deze door een andere rechter vervangen o
 
 De door de president of zijn plaatsvervanger gegeven beschikking heeft slechts een voorlopig karakter en prejudicieert niet op de beslissing van het Hof ten principale.
 
-#### Artikel 40
+##### Artikel 40
 
 De lidstaten en de instellingen van de Unie kunnen zich voegen in een voor het Hof van Justitie aanhangig rechtsgeding.
 
@@ -5390,19 +5409,19 @@ Onverminderd het bepaalde in de tweede alinea kunnen de staten – niet zijnde l
 
 De conclusies van het verzoek tot voeging kunnen slechts strekken tot ondersteuning van de conclusies van een der partijen.
 
-#### Artikel 41
+##### Artikel 41
 
 Wanneer de verwerende partij, ofschoon regelmatig in het geding geroepen, nalaat schriftelijk conclusies in te dienen, wordt het arrest tegen haar bij verstek gewezen. Het arrest is vatbaar voor verzet binnen een maand na zijn betekening. Tenzij het Hof van Justitie anders bepaalt, schorst het verzet de tenuitvoerlegging van het bij verstek gewezen arrest niet.
 
-#### Artikel 42
+##### Artikel 42
 
 De lidstaten, de instellingen, organen en bureaus van de Unie en alle andere natuurlijke of rechtspersonen kunnen, in de gevallen en overeenkomstig de bepalingen die worden vastgesteld in het reglement voor de procesvoering, derdenverzet instellen tegen de arresten gewezen in rechtsgedingen waarin zij niet geroepen zijn geweest, indien hun rechten door deze arresten worden geschaad.
 
-#### Artikel 43
+##### Artikel 43
 
 In geval van moeilijkheden aangaande de betekenis en de strekking van een arrest, legt het Hof van Justitie dit uit, op verzoek van een der partijen of van een instelling van de Unie die haar belang terzake aannemelijk maakt.
 
-#### Artikel 44
+##### Artikel 44
 
 Het Hof van Justitie kan slechts om herziening van een arrest worden verzocht op grond van de ontdekking van een feit dat van beslissende invloed kan zijn en dat vóór de uitspraak van het arrest onbekend was aan het Hof en aan de partij die om herziening verzoekt.
 
@@ -5410,13 +5429,13 @@ De herzieningsprocedure begint met een arrest waarbij het Hof uitdrukkelijk het 
 
 Om herziening kan niet meer worden verzocht na verloop van tien jaar te rekenen van de dagtekening van het arrest.
 
-#### Artikel 45
+##### Artikel 45
 
 In het reglement voor de procesvoering worden termijnen wegens afstand vastgesteld.
 
 Verval van instantie wegens het verstrijken van een procestermijn kan niet worden tegengeworpen, wanneer de betrokkene toeval of overmacht aantoont.
 
-#### Artikel 46
+##### Artikel 46
 
 De vorderingen tegen de Unie inzake niet-contractuele aansprakelijkheid verjaren vijf jaar na het feit dat tot deze vordering aanleiding heeft gegeven. De verjaring wordt gestuit, hetzij door een bij het Hof van Justitie ingesteld beroep, hetzij door een eerder gedaan verzoek, dat de benadeelde kan richten tot de bevoegde instelling van de Unie. In het laatste geval moet het beroep worden ingesteld binnen de termijn van twee maanden, bepaald in [artikel III-365 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=I&paragraaf=5&artikel=III-365&z=2004-10-29&g=2004-10-29). [Artikel III-367, tweede alinea, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=I&paragraaf=5&artikel=III-367&z=2004-10-29&g=2004-10-29) is van toepassing.
 
@@ -5424,17 +5443,17 @@ Dit artikel is tevens van toepassing op vorderingen tegen de Europese Centrale B
 
 ## TITEL IV. HET GERECHT
 
-#### Artikel 47
+##### Artikel 47
 
 Artikel 9, eerste alinea, en de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&titeldeel=II&artikel=14&z=2004-10-29&g=2004-10-29) en [15](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&titeldeel=II&artikel=15&z=2004-10-29&g=2004-10-29), [artikel 17, eerste, tweede, vierde en vijfde alinea](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&titeldeel=II&artikel=17&z=2004-10-29&g=2004-10-29), en [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&titeldeel=II&artikel=18&z=2004-10-29&g=2004-10-29) zijn van toepassing op het Gerecht en op zijn leden.
 
 De artikelen 10, [11](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&titeldeel=II&artikel=11&z=2004-10-29&g=2004-10-29) en [14](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&titeldeel=II&artikel=14&z=2004-10-29&g=2004-10-29) zijn van overeenkomstige toepassing op de griffier van het Gerecht.
 
-#### Artikel 48
+##### Artikel 48
 
 Het Gerecht bestaat uit vijfentwintig rechters.
 
-#### Artikel 49
+##### Artikel 49
 
 De leden van het Gerecht kunnen worden aangewezen om de functie van advocaat-generaal te bekleden.
 
@@ -5444,7 +5463,7 @@ De criteria voor de selectie van de zaken en de wijze waarop de advocaten-genera
 
 Een lid van het Gerecht dat is aangewezen om in een zaak de functie van advocaat-generaal te bekleden, mag niet deelnemen aan de berechting van die zaak.
 
-#### Artikel 50
+##### Artikel 50
 
 Het Gerecht houdt zitting in kamers bestaande uit drie of vijf rechters. De rechters kiezen uit hun midden de kamerpresident. De presidenten van de kamers van vijf rechters worden voor drie jaar gekozen. Zij zijn eenmaal herbenoembaar.
 
@@ -5452,7 +5471,7 @@ Het reglement voor de procesvoering regelt de samenstelling van de kamers en bep
 
 Het reglement voor de procesvoering kan ook bepalen dat, in de gevallen en onder de voorwaarden die daarin worden vastgesteld, het Gerecht in grote kamer zitting houdt.
 
-#### Artikel 51
+##### Artikel 51
 
 In afwijking van het bepaalde in [artikel III-358, lid 1, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=I&paragraaf=5&artikel=III-358&z=2004-10-29&g=2004-10-29) zijn aan het Hof van Justitie voorbehouden de in de [artikelen III-365](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=I&paragraaf=5&artikel=III-365&z=2004-10-29&g=2004-10-29) en [III-367 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=I&paragraaf=5&artikel=III-367&z=2004-10-29&g=2004-10-29) bedoelde beroepen die door een lidstaat worden ingesteld tegen
 
@@ -5468,11 +5487,11 @@ In afwijking van het bepaalde in [artikel III-358, lid 1, van de Grondwet](https
 
 Eveneens aan het Hof van Justitie voorbehouden zijn de in voornoemde artikelen bedoelde beroepen die door een instelling van de Unie worden ingesteld tegen een handeling of een nalaten te besluiten van het Europees Parlement, de Raad, deze beide instellingen tezamen of de Commissie, en door een instelling tegen een handeling of een nalaten te besluiten van de Europese Centrale Bank.
 
-#### Artikel 52
+##### Artikel 52
 
 De president van het Hof van Justitie en de president van het Gerecht bepalen in onderlinge overeenstemming de wijze waarop ambtenaren en andere personeelsleden bij het Hof in het belang van de dienst hun diensten aan het Gerecht verlenen. Bepaalde ambtenaren of andere personeelsleden ressorteren onder de griffier van het Gerecht, onder het gezag van de president van het Gerecht.
 
-#### Artikel 53
+##### Artikel 53
 
 De procedure voor het Gerecht wordt geregeld in [titel III](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&titeldeel=III&z=2004-10-29&g=2004-10-29).
 
@@ -5480,7 +5499,7 @@ De procedure voor het Gerecht wordt, voorzover nodig, gepreciseerd en aangevuld 
 
 In afwijking van [artikel 20, vierde alinea](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&titeldeel=III&artikel=20&z=2004-10-29&g=2004-10-29), kan de advocaat-generaal zijn met redenen omklede conclusie schriftelijk nemen.
 
-#### Artikel 54
+##### Artikel 54
 
 Wanneer een tot het Gerecht gericht verzoekschrift of ander processtuk bij vergissing wordt neergelegd bij de griffier van het Hof van Justitie, wordt het door hem onverwijld doorgezonden naar de griffier van het Gerecht. Evenzo, wanneer een tot het Hof gericht verzoekschrift of ander processtuk bij vergissing wordt neergelegd bij de griffier van het Gerecht, wordt het door hem onverwijld doorgezonden naar de griffier van het Hof.
 
@@ -5490,11 +5509,11 @@ Wanneer bij het Hof en het Gerecht zaken aanhangig worden gemaakt die hetzelfde 
 
 Wanneer een lidstaat en een instelling eenzelfde handeling betwisten, verklaart het Gerecht zich onbevoegd opdat het Hof uitspraak kan doen op die beroepen.
 
-#### Artikel 55
+##### Artikel 55
 
 Van eindbeslissingen van het Gerecht, beslissingen die het geding ten gronde slechts gedeeltelijk beslechten of die een einde maken aan een procesincident terzake van onbevoegdheid of niet-ontvankelijkheid, geeft de griffier van het Gerecht kennis aan alle partijen, alsook aan alle lidstaten en aan de instellingen van de Unie, zelfs indien deze zich niet in de zaak voor het Gerecht hebben gevoegd.
 
-#### Artikel 56
+##### Artikel 56
 
 Uiterlijk binnen twee maanden te rekenen vanaf de betekening van de bestreden beslissing kan bij het Hof van Justitie een verzoek om hogere voorziening worden ingediend tegen eindbeslissingen van het Gerecht, alsmede tegen beslissingen die het geding ten gronde slechts gedeeltelijk beslechten of die een einde maken aan een procesincident terzake van onbevoegdheid of niet-ontvankelijkheid.
 
@@ -5502,7 +5521,7 @@ Hogere voorziening staat open voor iedere partij die geheel of gedeeltelijk in h
 
 Met uitzondering van zaken betreffende geschillen tussen de Unie en hun personeelsleden, staat hogere voorziening eveneens open voor de lidstaten en de instellingen van de Unie die zich niet in het geding voor het Gerecht hebben gevoegd. In dit geval verschilt de positie van die lidstaten en instellingen niet van de positie van lidstaten of instellingen die in eerste aanleg zouden zijn geïntervenieerd.
 
-#### Artikel 57
+##### Artikel 57
 
 Hogere voorziening bij het Hof van Justitie staat open tegen beslissingen van het Gerecht waarbij een verzoek tot interventie wordt afgewezen. Het verzoek om hogere voorziening moet door degene wiens verzoek is afgewezen, worden ingediend binnen twee weken, te rekenen vanaf de betekening van de afwijzende beslissing.
 
@@ -5510,23 +5529,23 @@ Tegen iedere beslissing die door het Gerecht krachtens [artikel III-379, lid 1 e
 
 Over de in de eerste en tweede alinea bedoelde hogere voorziening wordt beslist volgens de in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&titeldeel=III&artikel=39&z=2004-10-29&g=2004-10-29) bedoelde procedure.
 
-#### Artikel 58
+##### Artikel 58
 
 Het verzoek aan het Hof van Justitie om hogere voorziening kan alleen rechtsvragen betreffen. Het kan gebaseerd zijn op middelen, ontleend aan onbevoegdheid van het Gerecht, op onregelmatigheden in de procedure voor het Gerecht waardoor aan de belangen van de verzoekende partij afbreuk is gedaan, of op schending van het recht van de Unie door het Gerecht.
 
 Het verzoek om hogere voorziening kan niet uitsluitend betrekking hebben op de veroordeling in of het bedrag van de proceskosten.
 
-#### Artikel 59
+##### Artikel 59
 
 In geval van hogere voorziening tegen een beslissing van het Gerecht omvat de procedure voor het Hof van Justitie een schriftelijk en een mondeling gedeelte. Onder de in het reglement voor de procesvoering vastgestelde voorwaarden kan het Hof, de advocaat-generaal en de partijen gehoord, zonder mondelinge behandeling beslissen.
 
-#### Artikel 60
+##### Artikel 60
 
 Onverminderd [artikel III-379, leden 1 en 2, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=I&paragraaf=5&artikel=III-379&z=2004-10-29&g=2004-10-29) dan wel [artikel 157 van het EGA-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004033&artikel=157), heeft het verzoek om hogere voorziening geen opschortende werking.
 
 In afwijking van [artikel III-380 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=I&paragraaf=5&artikel=III-380&z=2004-10-29&g=2004-10-29) treden beslissingen van het Gerecht houdende nietigverklaring van een Europese wet of een Europese verordening die verbindend is in al haar onderdelen en die rechtstreeks toepasselijk is in elke lidstaat, eerst in werking na afloop van de termijn bedoeld in [artikel 56, eerste alinea](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&titeldeel=IV&artikel=56&z=2004-10-29&g=2004-10-29), van dit statuut, of, indien binnen deze termijn een verzoek om hogere voorziening is ingediend, nadat dit verzoek is verworpen, onverminderd het feit dat een partij het Hof van Justitie krachtens [artikel III-379, leden 1 en 2, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=I&paragraaf=5&artikel=III-379&z=2004-10-29&g=2004-10-29) dan wel [artikel 157 van het EGA-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004033&artikel=157) kan verzoeken om opschorting van de werking van de nietig verklaarde Europese wet of Europese verordening of om enige andere voorlopige maatregel.
 
-#### Artikel 61
+##### Artikel 61
 
 In geval van gegrondheid van het verzoek om hogere voorziening vernietigt het Hof van Justitie de beslissing van het Gerecht. Het kan dan zelf de zaak afdoen wanneer deze in staat van wijzen is, dan wel haar voor afdoening verwijzen naar het Gerecht.
 
@@ -5534,7 +5553,7 @@ Indien de zaak wordt verwezen, is het Gerecht gebonden aan de beslissing van het
 
 In geval van gegrondheid van een verzoek om hogere voorziening van een lidstaat of een instelling van de Unie die zich niet in de zaak voor het Gerecht heeft gevoegd, kan het Hof, indien het zulks noodzakelijk acht, verklaren welke gevolgen van de vernietigde beslissing van het Gerecht als definitief worden beschouwd ten aanzien van de andere partijen in het geschil.
 
-#### Artikel 62
+##### Artikel 62
 
 In de in [artikel III-358, leden 2 en 3, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=I&paragraaf=5&artikel=III-358&z=2004-10-29&g=2004-10-29) bedoelde gevallen kan de eerste advocaat-generaal het Hof van Justitie voorstellen, de beslissing van het Gerecht te heroverwegen, wanneer hij van oordeel is dat er een ernstig risico bestaat dat de eenheid of de samenhang van het recht van de Unie wordt aangetast.
 
@@ -5542,17 +5561,17 @@ Het voorstel moet binnen een maand na de uitspraak van het Gerecht gedaan worden
 
 ## TITEL V. SLOTBEPALINGEN
 
-#### Artikel 63
+##### Artikel 63
 
 Het reglement voor de procesvoering van het Hof van Justitie en van het Gerecht bevat alle bepalingen die nodig zijn voor de toepassing en, voor zover nodig, de aanvulling van dit statuut.
 
-#### Artikel 64
+##### Artikel 64
 
 De bepalingen inzake de talenregeling die van toepassing is op het Hof van Justitie van de Europese Unie worden door de Raad met eenparigheid van stemmen vastgesteld bij Europese verordening. Die verordening wordt vastgesteld op verzoek van het Hof van Justitie en na raadpleging van de Commissie en het Europees Parlement, of op voorstel van de Commissie en na raadpleging van het Hof van Justitie en het Europees Parlement.
 
 Zolang die bepalingen niet zijn vastgesteld, zijn de bepalingen van het reglement voor de procesvoering van het Hof van Justitie en die van het reglement voor de procesvoering van het Gerecht inzake de talenregeling van toepassing. In afwijking van het bepaalde in de [artikelen III-355](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=I&paragraaf=5&artikel=III-355&z=2004-10-29&g=2004-10-29) en [III-356 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=I&paragraaf=5&artikel=III-356&z=2004-10-29&g=2004-10-29), moet iedere wijziging of intrekking van die bepalingen door de Raad met eenparigheid van stemmen worden goedgekeurd.
 
-#### Artikel 65
+##### Artikel 65
 
 1. In afwijking van [artikel IV-437 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=IV&artikel=IV-437&z=2004-10-29&g=2004-10-29) blijven wijzigingen van het [Protocol betreffende het statuut van het Hof van Justitie](onbekend), dat is gehecht aan het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507), aan het [Verdrag tot oprichting van de Europese Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) en aan het [EGA-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004033), die na de ondertekening en voor de inwerkingtreding van het Verdrag tot vaststelling van een Grondwet voor Europa worden vastgesteld, van kracht.
 
@@ -5566,7 +5585,7 @@ Hebben overeenstemming bereikt omtrent de volgende bepalingen, die aan het Verdr
 
 ### HOOFDSTUK I. EUROPEES STELSEL VAN CENTRALE BANKEN
 
-#### Artikel 1. EUROPEES STELSEL VAN CENTRALE BANKEN
+##### Artikel 1. EUROPEES STELSEL VAN CENTRALE BANKEN
 
 1. Overeenkomstig [artikel I-30, lid 1, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=IV&hoofdstuk=II&artikel=I-30&z=2004-10-29&g=2004-10-29) vormen de Europese Centrale Bank en de nationale centrale banken het Europees Stelsel van Centrale Banken. De Europese Centrale Bank en de nationale centrale banken van de lidstaten die de euro als munt hebben, vormen het Eurostelsel.
 
@@ -5574,11 +5593,11 @@ Hebben overeenstemming bereikt omtrent de volgende bepalingen, die aan het Verdr
 
 ### HOOFDSTUK II. DOELSTELLINGEN EN TAKEN VAN HET EUROPEES STELSEL VAN CENTRALE BANKEN
 
-#### Artikel 2. Doelstellingen
+##### Artikel 2. Doelstellingen
 
 Overeenkomstig [artikel I-30, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=IV&hoofdstuk=II&artikel=I-30&z=2004-10-29&g=2004-10-29), en [artikel III-185, lid 1, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=2&artikel=III-185&z=2004-10-29&g=2004-10-29) is het hoofddoel van het Europees Stelsel van Centrale Banken het handhaven van prijsstabiliteit. Onverminderd dit doel ondersteunt het Europees Stelsel van Centrale Banken het algemene economische beleid in de Unie teneinde bij te dragen tot de verwezenlijking van de in [artikel I-3 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=I&artikel=I-3&z=2004-10-29&g=2004-10-29) omschreven doelstellingen van de Unie. Het Europees Stelsel van Centrale Banken handelt in overeenstemming met het beginsel van een open markteconomie met vrije mededinging, waarbij een doelmatige allocatie van middelen wordt bevorderd, en met inachtneming van de beginselen die zijn neergelegd in [artikel III-177 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&artikel=III-177&z=2004-10-29&g=2004-10-29).
 
-#### Artikel 3. Taken
+##### Artikel 3. Taken
 
 1. Overeenkomstig [artikel III-185, lid 2, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=2&artikel=III-185&z=2004-10-29&g=2004-10-29) zijn de via het Europees Stelsel van Centrale Banken uit te voeren fundamentele taken:
 
@@ -5594,7 +5613,7 @@ Overeenkomstig [artikel I-30, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV000
 
 3. Overeenkomstig [artikel III-185, lid 5, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=2&artikel=III-185&z=2004-10-29&g=2004-10-29) draagt het Europees Stelsel van Centrale Banken bij tot een goede beleidsvoering van de bevoegde autoriteiten ten aanzien van het bedrijfseconomisch toezicht op kredietinstellingen en de stabiliteit van het financiële stelsel.
 
-#### Artikel 4. Adviesfuncties
+##### Artikel 4. Adviesfuncties
 
 Overeenkomstig [artikel III-185, lid 4, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=2&artikel=III-185&z=2004-10-29&g=2004-10-29) wordt de Europese Centrale Bank geraadpleegd:
 
@@ -5604,7 +5623,7 @@ Overeenkomstig [artikel III-185, lid 4, van de Grondwet](https://wetten.overheid
 
 De Europese Centrale Bank kan advies uitbrengen aan de instellingen, organen of instanties van de Unie of aan nationale autoriteiten omtrent aangelegenheden op de gebieden die onder haar verantwoordelijkheid vallen.
 
-#### Artikel 5. Verzamelen van statistische gegevens
+##### Artikel 5. Verzamelen van statistische gegevens
 
 1. Teneinde de taken van het Europees Stelsel van Centrale Banken te kunnen vervullen, verzamelt de Europese Centrale Bank, bijgestaan door de nationale centrale banken, de benodigde statistische gegevens, hetzij bij de bevoegde nationale autoriteiten hetzij rechtstreeks bij de economische subjecten. Hiertoe werkt zij samen met de instellingen, organen of instanties van de Unie en met de bevoegde autoriteiten van de lidstaten of van derde landen en met internationale organisaties.
 
@@ -5614,7 +5633,7 @@ De Europese Centrale Bank kan advies uitbrengen aan de instellingen, organen of 
 
 4. De Raad bepaalt volgens de procedure van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=VIII&artikel=41&z=2004-10-29&g=2004-10-29) welke natuurlijke en rechtspersonen onderworpen zijn aan rapportageverplichtingen, hoe de geheimhoudingsplicht wordt geregeld, en hoe wordt voorzien in passende handhavingsbepalingen.
 
-#### Artikel 6. Internationale samenwerking
+##### Artikel 6. Internationale samenwerking
 
 1. Op het terrein van de internationale samenwerking met betrekking tot de aan het Europees Stelsel van Centrale Banken opgedragen taken besluit de Europese Centrale Bank hoe het Europees Stelsel van Centrale Banken wordt vertegenwoordigd.
 
@@ -5624,15 +5643,15 @@ De Europese Centrale Bank kan advies uitbrengen aan de instellingen, organen of 
 
 ### HOOFDSTUK III. ORGANISATIE VAN HET EUROPEES STELSEL VAN CENTRALE BANKEN
 
-#### Artikel 7. Onafhankelijkheid
+##### Artikel 7. Onafhankelijkheid
 
 Overeenkomstig [artikel III-188 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=2&artikel=III-188&z=2004-10-29&g=2004-10-29) is het de Europese Centrale Bank, noch een nationale centrale bank noch enig lid van hun besluitvormende organen toegestaan bij de uitoefening van de bevoegdheden en het vervullen van de taken en plichten die bij de Grondwet en dit statuut aan hen zijn opgedragen, instructies te vragen aan dan wel te aanvaarden van instellingen, organen of instanties van de Unie, van regeringen van lidstaten of van enig ander orgaan. De instellingen, organen of instanties van de Unie alsmede de regeringen van de lidstaten verplichten zich ertoe dit beginsel te eerbiedigen en niet te trachten de leden van de besluitvormende organen van de Europese Centrale Bank of van de nationale centrale banken bij de uitvoering van hun taken te beïnvloeden.
 
-#### Artikel 8. Algemene grondslag
+##### Artikel 8. Algemene grondslag
 
 Het Europees Stelsel van Centrale Banken wordt bestuurd door de besluitvormende organen van de Europese Centrale Bank.
 
-#### Artikel 9. Europese Centrale Bank
+##### Artikel 9. Europese Centrale Bank
 
 1. De Europese Centrale Bank, die overeenkomstig [artikel I-30, lid 3, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=IV&hoofdstuk=II&artikel=I-30&z=2004-10-29&g=2004-10-29) rechtspersoonlijkheid bezit, heeft in elk van de lidstaten de ruimste handelingsbevoegdheid die door de wetgeving van de betrokken lidstaat aan rechtspersonen wordt toegekend. De Europese Centrale Bank kan met name roerende en onroerende goederen verkrijgen of vervreemden en in rechte optreden.
 
@@ -5640,7 +5659,7 @@ Het Europees Stelsel van Centrale Banken wordt bestuurd door de besluitvormende 
 
 3. Overeenkomstig [artikel III-187, lid 1, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=2&artikel=III-187&z=2004-10-29&g=2004-10-29) zijn de besluitvormende organen van de Europese Centrale Bank de Raad van bestuur en de directie.
 
-#### Artikel 10. Raad van bestuur
+##### Artikel 10. Raad van bestuur
 
 1. Overeenkomstig [artikel III-382, lid 1, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=I&paragraaf=6&artikel=III-382&z=2004-10-29&g=2004-10-29) bestaat de Raad van bestuur uit de leden van de directie en de presidenten van de nationale centrale banken van de lidstaten die vallen onder een derogatie in de zin van [artikel III-197 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=5&artikel=III-197&z=2004-10-29&g=2004-10-29).
 
@@ -5670,7 +5689,7 @@ De Raad van bestuur kan alleen tot stemming overgaan, indien een quorum van twee
 
 5. De Raad van bestuur vergadert ten minste tienmaal per jaar.
 
-#### Artikel 11. Directie
+##### Artikel 11. Directie
 
 1. Overeenkomstig [artikel III-382, lid 2, eerste alinea, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=I&paragraaf=6&artikel=III-382&z=2004-10-29&g=2004-10-29) bestaat de directie uit de president, de vice-president en vier andere leden.
 
@@ -5692,7 +5711,7 @@ Alleen zij die de nationaliteit van één van de lidstaten bezitten, kunnen lid 
 
 7. In elke vacature bij de directie wordt voorzien door de benoeming van een nieuw lid overeenkomstig lid 2.
 
-#### Artikel 12. Verantwoordelijkheden van de besluitvormende organen
+##### Artikel 12. Verantwoordelijkheden van de besluitvormende organen
 
 1. De Raad van bestuur stelt de richtsnoeren vast en neemt de besluiten die nodig zijn voor het vervullen van de bij de Grondwet en dit statuut aan het Europees Stelsel van Centrale Banken opgedragen taken. De Raad van bestuur formuleert het monetair beleid van de Unie, in voorkomend geval met inbegrip van besluiten met betrekking tot intermediaire monetaire doelstellingen, de belangrijkste rentetarieven en de liquiditeitsvoorziening in het Europees Stelsel van Centrale Banken, en stelt de nodige richtsnoeren op voor de uitvoering ervan.
 
@@ -5708,13 +5727,13 @@ De Europese Centrale Bank doet, voorzover zulks mogelijk en passend wordt geacht
 
 5. De Raad van bestuur neemt de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=II&artikel=6&z=2004-10-29&g=2004-10-29) bedoelde besluiten.
 
-#### Artikel 13. President
+##### Artikel 13. President
 
 1. De president of, bij diens afwezigheid, de vice-president zit de vergaderingen van de Raad van bestuur en van de directie van de Europese Centrale Bank voor.
 
 2. Onverminderd [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=VII&artikel=38&z=2004-10-29&g=2004-10-29) vertegenwoordigt de president of de door hem aangewezen persoon de Europese Centrale Bank naar buiten toe.
 
-#### Artikel 14. Nationale centrale banken
+##### Artikel 14. Nationale centrale banken
 
 1. Overeenkomstig [artikel III-189 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=2&artikel=III-189&z=2004-10-29&g=2004-10-29) waarborgt iedere lidstaat dat zijn nationale wetgeving, met inbegrip van de statuten van zijn nationale centrale bank, verenigbaar is met de Grondwet en dit statuut.
 
@@ -5726,7 +5745,7 @@ Een president kan slechts van zijn ambt worden ontheven indien hij niet meer aan
 
 4. De nationale centrale banken mogen andere functies vervullen dan die omschreven in dit statuut, tenzij de Raad van bestuur met een meerderheid van tweederde van de uitgebrachte stemmen vaststelt dat deze functies de doelstellingen en taken van het Europees Stelsel van Centrale Banken doorkruisen. Bedoelde functies worden onder verantwoordelijkheid en aansprakelijkheid van de nationale centrale banken vervuld en worden niet geacht deel uit te maken van de functies van het Europees Stelsel van Centrale Banken.
 
-#### Artikel 15. Rapportageplicht
+##### Artikel 15. Rapportageplicht
 
 1. De Europese Centrale Bank stelt, ten minste elk kwartaal, verslagen op over de werkzaamheden van het Europees Stelsel van Centrale Banken en maakt deze openbaar.
 
@@ -5736,7 +5755,7 @@ Een president kan slechts van zijn ambt worden ontheven indien hij niet meer aan
 
 4. De in dit artikel bedoelde verslagen en overzichten worden aan belangstellenden gratis ter beschikking gesteld.
 
-#### Artikel 16. Bankbiljetten
+##### Artikel 16. Bankbiljetten
 
 Overeenkomstig [artikel III-186, lid 1, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=2&artikel=III-186&z=2004-10-29&g=2004-10-29) heeft de Raad van bestuur het alleenrecht machtiging te geven tot de uitgifte van eurobankbiljetten binnen de Unie. De Europese Centrale Bank en de nationale centrale banken mogen dergelijke bankbiljetten uitgeven. De door de Europese Centrale Bank en de nationale centrale banken uitgegeven bankbiljetten zijn de enige bankbiljetten die binnen de Unie de hoedanigheid van wettig betaalmiddel hebben.
 
@@ -5744,11 +5763,11 @@ De Europese Centrale Bank eerbiedigt zoveel mogelijk de bestaande gebruiken inza
 
 ### HOOFDSTUK IV. MONETAIRE FUNCTIES EN WERKZAAMHEDEN VAN HET EUROPEES STELSEL VAN CENTRALE BANKEN
 
-#### Artikel 17. Rekeningen aangehouden bij de Europese Centrale Bank en de nationale centrale banken
+##### Artikel 17. Rekeningen aangehouden bij de Europese Centrale Bank en de nationale centrale banken
 
 Teneinde hun werkzaamheden te kunnen verrichten, zijn de Europese Centrale Bank en de nationale centrale banken gerechtigd rekeningen te openen ten behoeve van kredietinstellingen, openbare lichamen en andere marktpartijen, en activa, waaronder girale effecten, in onderpand te aanvaarden.
 
-#### Artikel 18. Open markt- en krediettransacties
+##### Artikel 18. Open markt- en krediettransacties
 
 1. Om de doelstellingen van het Europees Stelsel van Centrale Banken te kunnen verwezenlijken en de taken ervan te kunnen vervullen, mogen de Europese Centrale Bank en de nationale centrale banken:
 
@@ -5758,19 +5777,19 @@ Teneinde hun werkzaamheden te kunnen verrichten, zijn de Europese Centrale Bank 
 
 2. De Europese Centrale Bank stelt de algemene grondslagen vast voor door haarzelf of de nationale centrale banken uit te voeren openmarkt- en krediettransacties, waaronder mede begrepen die voor de aankondiging van de voorwaarden waaronder zij bereid zijn dergelijke transacties aan te gaan.
 
-#### Artikel 19. Minimumreserves
+##### Artikel 19. Minimumreserves
 
 1. Behoudens artikel 2 kan de Europese Centrale Bank eisen dat in de lidstaten gevestigde kredietinstellingen, met het oog op de doelstellingen van het monetair beleid, bij de Europese Centrale Bank en nationale centrale banken bepaalde minimumreserves aanhouden. De Raad van bestuur kan voorschriften omtrent de berekening en vaststelling van het vereiste bedrag vaststellen. Indien aan deze voorschriften niet wordt voldaan, is de Europese Centrale Bank gerechtigd boeterente te heffen en andere sancties met een vergelijkbaar effect op te leggen.
 
 2. Voor de toepassing van dit artikel stelt de Raad volgens de procedure van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=VIII&artikel=41&z=2004-10-29&g=2004-10-29) de grondslag voor de minimumreserves en de maximaal toelaatbare ratio's tussen die reserves en hun grondslag vast, alsook passende sancties bij niet-naleving.
 
-#### Artikel 20. Andere instrumenten van monetair beleid
+##### Artikel 20. Andere instrumenten van monetair beleid
 
 De Raad van bestuur kan, bij meerderheid van tweederde van de uitgebrachte stemmen, met inachtneming van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=II&artikel=2&z=2004-10-29&g=2004-10-29) besluiten tot het gebruik van alle andere door hem passend geachte instrumenten van monetair beleid.
 
 Indien die instrumenten verplichtingen voor derden meebrengen stelt de Raad, volgens de procedure van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=VIII&artikel=41&z=2004-10-29&g=2004-10-29), de reikwijdte ervan vast.
 
-#### Artikel 21. Transacties met openbare lichamen
+##### Artikel 21. Transacties met openbare lichamen
 
 1. Overeenkomstig [artikel III-181 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=1&artikel=III-181&z=2004-10-29&g=2004-10-29) is het de Europese Centrale Bank en de nationale centrale banken verboden voorschotten in rekening-courant of andere kredietfaciliteiten te verlenen aan instellingen, organen of instanties van de Unie, centrale overheden, regionale, lokale of andere overheden, overheidsinstanties, andere publiekrechtelijke lichamen of openbare bedrijven van de lidstaten. Ook het rechtstreeks van hen kopen van schuldbewijzen door de Europese Centrale Bank of de nationale centrale banken is verboden.
 
@@ -5778,11 +5797,11 @@ Indien die instrumenten verplichtingen voor derden meebrengen stelt de Raad, vol
 
 3. Dit artikel is niet van toepassing op kredietinstellingen die in handen van de overheid zijn en waaraan in het kader van de liquiditeitsvoorziening door de centrale banken dezelfde behandeling door de nationale centrale banken en de Europese Centrale Bank wordt gegeven als aan particuliere kredietinstellingen.
 
-#### Artikel 22. Verrekenings- en betalingssystemen
+##### Artikel 22. Verrekenings- en betalingssystemen
 
 De Europese Centrale Bank en de nationale centrale banken zijn gerechtigd faciliteiten ter beschikking te stellen en de Europese Centrale Bank kan verordeningen vaststellen ter verzekering van doelmatige en deugdelijke verrekenings- en betalingssystemen binnen de Unie en met derde landen.
 
-#### Artikel 23. Externe werkzaamheden
+##### Artikel 23. Externe werkzaamheden
 
 De Europese Centrale Bank en de nationale centrale banken mogen:
 
@@ -5794,13 +5813,13 @@ De Europese Centrale Bank en de nationale centrale banken mogen:
 
 - d. alle soorten bancaire transacties verrichten met derde landen en internationale organisaties, waaronder mede begrepen het verstrekken en opnemen van leningen.
 
-#### Artikel 24. Overige werkzaamheden
+##### Artikel 24. Overige werkzaamheden
 
 Naast de uit hun taken voortvloeiende werkzaamheden mogen de Europese Centrale Bank en de nationale centrale banken werkzaamheden verrichten voor eigen administratieve doeleinden en ten behoeve van hun personeel.
 
 ### HOOFDSTUK V. BEDRIJFSECONOMISCH TOEZICHT
 
-#### Artikel 25. Bedrijfseconomisch toezicht
+##### Artikel 25. Bedrijfseconomisch toezicht
 
 1. De Europese Centrale Bank kan adviezen uitbrengen aan en worden geraadpleegd door de Raad, de Commissie en de bevoegde autoriteiten van de lidstaten omtrent de reikwijdte en de uitvoering van de juridisch bindende handelingen van de Unie met betrekking tot het bedrijfseconomisch toezicht op kredietinstellingen en de stabiliteit van het financiële stelsel.
 
@@ -5808,7 +5827,7 @@ Naast de uit hun taken voortvloeiende werkzaamheden mogen de Europese Centrale B
 
 ### HOOFDSTUK VI. FINANCIËLE BEPALINGEN BETREFFENDE HET EUROPEES STELSEL VAN CENTRALE BANKEN
 
-#### Artikel 26. Financiële rekeningen
+##### Artikel 26. Financiële rekeningen
 
 1. Het boekjaar van de Europese Centrale Bank en de nationale centrale banken begint op de eerste dag van januari en eindigt op de laatste dag van december.
 
@@ -5818,13 +5837,13 @@ Naast de uit hun taken voortvloeiende werkzaamheden mogen de Europese Centrale B
 
 4. Voor de toepassing van dit artikel stelt de Raad van bestuur de nodige regels vast ter standaardisatie van de financiële administratie en verslaglegging van de door de nationale centrale banken uitgevoerde werkzaamheden.
 
-#### Artikel 27. Accountantscontrole
+##### Artikel 27. Accountantscontrole
 
 1. De rekeningen van de Europese Centrale Bank en de nationale centrale banken worden gecontroleerd door onafhankelijke externe accountants die op aanbeveling van de Raad van bestuur zijn aanvaard door de Raad. De accountants zijn zonder voorbehoud bevoegd alle boeken en rekeningen van de Europese Centrale Bank en de nationale centrale banken te onderzoeken en volledig te worden geïnformeerd over hun verrichtingen.
 
 2. [Artikel III-384 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=I&paragraaf=7&artikel=III-384&z=2004-10-29&g=2004-10-29) is uitsluitend van toepassing op een doelmatigheidscontrole van de Europese Centrale Bank.
 
-#### Artikel 28. Kapitaal van de Europese Centrale Bank
+##### Artikel 28. Kapitaal van de Europese Centrale Bank
 
 1. Het kapitaal van de Europese Centrale Bank bedraagt 5 miljard euro. Het kapitaal kan in voorkomend geval worden verhoogd bij Europees besluit van de Raad van bestuur, die besluit met de gekwalificeerde meerderheid van stemmen die is voorgeschreven in [artikel 10, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=III&artikel=10&z=2004-10-29&g=2004-10-29), binnen de grenzen en onder de voorwaarden die door de Raad volgens de procedure van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=VIII&artikel=41&z=2004-10-29&g=2004-10-29) worden vastgesteld.
 
@@ -5836,7 +5855,7 @@ Naast de uit hun taken voortvloeiende werkzaamheden mogen de Europese Centrale B
 
 5. Indien de in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=VI&artikel=29&z=2004-10-29&g=2004-10-29) genoemde verdeelsleutel wordt aangepast, dragen de nationale centrale banken onderling aandelen in het kapitaal over in die mate dat de verdeling van de aandelen overeenkomt met de aangepaste sleutel. De Raad van bestuur stelt de modaliteiten en voorwaarden voor een dergelijke overdracht vast.
 
-#### Artikel 29. Verdeelsleutel voor de inschrijving op het kapitaal
+##### Artikel 29. Verdeelsleutel voor de inschrijving op het kapitaal
 
 1. De verdeelsleutel voor de inschrijving op het kapitaal van de Europese Centrale Bank, die voor het eerst is vastgesteld in 1998, bij de oprichting van het Europees Stelsel van Centrale Banken, wordt vastgesteld door aan elke nationale centrale bank een weging in deze sleutel toe te kennen die gelijk is aan de som van:
 
@@ -5852,7 +5871,7 @@ De percentages worden naar onder of naar boven afgerond op het kleinste veelvoud
 
 4. De Raad van Bestuur treft alle andere maatregelen die voor de toepassing van dit artikel nodig zijn.
 
-#### Artikel 30. Overdracht van externe reserves aan de Europese Centrale Bank
+##### Artikel 30. Overdracht van externe reserves aan de Europese Centrale Bank
 
 1. Onverminderd [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=VI&artikel=26&z=2004-10-29&g=2004-10-29) wordt de Europese Centrale Bank door de nationale centrale banken tot een bedrag van 50 miljard euro gedoteerd met externe reserves, uitgezonderd valuta's van de lidstaten, euro's, reserveposities in het Internationaal Monetair Fonds en bijzondere trekkingsrechten. De Raad van bestuur besluit omtrent de door de Europese Centrale Bank op te roepen delen. De Europese Centrale Bank is ten volle gerechtigd om de aan haar overgedragen externe reserves aan te houden en te beheren en voor de in dit statuut omschreven doeleinden te gebruiken.
 
@@ -5866,7 +5885,7 @@ De percentages worden naar onder of naar boven afgerond op het kleinste veelvoud
 
 6. De Raad van bestuur treft alle andere maatregelen die voor de toepassing van dit artikel nodig zijn.
 
-#### Artikel 31. Door nationale centrale banken aangehouden externe reserves
+##### Artikel 31. Door nationale centrale banken aangehouden externe reserves
 
 1. Het is de nationale centrale banken toegestaan transacties te verrichten ter voldoening aan hun verplichtingen jegens internationale organisaties overeenkomstig [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=IV&artikel=23&z=2004-10-29&g=2004-10-29).
 
@@ -5874,7 +5893,7 @@ De percentages worden naar onder of naar boven afgerond op het kleinste veelvoud
 
 3. De Raad van bestuur vaardigt richtsnoeren uit teneinde dergelijke transacties te vergemakkelijken.
 
-#### Artikel 32. Toedeling van monetaire inkomsten van de nationale centrale banken
+##### Artikel 32. Toedeling van monetaire inkomsten van de nationale centrale banken
 
 1. De inkomsten die de nationale centrale banken bij de uitoefening van de monetaire beleidstaken van het Europees Stelsel van Centrale Banken verkrijgen (hierna „monetaire inkomsten” te noemen), worden aan het einde van elk boekjaar volgens de onderstaande bepalingen toegedeeld.
 
@@ -5890,7 +5909,7 @@ De percentages worden naar onder of naar boven afgerond op het kleinste veelvoud
 
 7. De Raad van bestuur treft alle andere maatregelen die voor de toepassing van dit artikel nodig zijn.
 
-#### Artikel 33. Toedeling van nettowinst en -verlies van de Europese Centrale Bank
+##### Artikel 33. Toedeling van nettowinst en -verlies van de Europese Centrale Bank
 
 1. De nettowinst van de Europese Centrale Bank wordt in de onderstaande volgorde overgedragen:
 
@@ -5902,7 +5921,7 @@ De percentages worden naar onder of naar boven afgerond op het kleinste veelvoud
 
 ### HOOFDSTUK VII. ALGEMENE BEPALINGEN
 
-#### Artikel 34. Rechtshandelingen
+##### Artikel 34. Rechtshandelingen
 
 1. Overeenkomstig [artikel III-190 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=2&artikel=III-190&z=2004-10-29&g=2004-10-29) stelt de Europese Centrale Bank vast:
 
@@ -5916,7 +5935,7 @@ De percentages worden naar onder of naar boven afgerond op het kleinste veelvoud
 
 3. Binnen de grenzen en onder de voorwaarden die door de Raad volgens de procedure van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=VIII&artikel=41&z=2004-10-29&g=2004-10-29) worden vastgesteld, is de Europese Centrale Bank gerechtigd om ondernemingen boeten en dwangsommen op te leggen bij niet-naleving van haar Europese verordeningen en besluiten.
 
-#### Artikel 35. Toetsing door de rechter en aanverwante aangelegenheden
+##### Artikel 35. Toetsing door de rechter en aanverwante aangelegenheden
 
 1. De handelingen en nalatigheden van de Europese Centrale Bank zijn onderworpen aan toetsing en uitlegging door het Hof van Justitie van de Europese Unie in de gevallen en onder de voorwaarden vastgesteld in de Grondwet. De Europese Centrale Bank kan gerechtelijke procedures aanspannen in de gevallen en onder de voorwaarden vastgesteld in de Grondwet.
 
@@ -5930,29 +5949,29 @@ De percentages worden naar onder of naar boven afgerond op het kleinste veelvoud
 
 6. Het Hof van Justitie van de Europese Unie is bevoegd uitspraak te doen in geschillen betreffende de nakoming door de nationale centrale banken van de verplichtingen die voor hen uit de Grondwet en uit dit statuut voortvloeien. Indien de Europese Centrale Bank van oordeel is dat een nationale centrale bank een van de krachtens de Grondwet of dit statuut op haar rustende verplichtingen niet is nagekomen, brengt zij dienaangaande een met redenen omkleed advies uit na de betrokken nationale centrale bank in de gelegenheid te hebben gesteld haar opmerkingen te maken. Indien de betrokken nationale centrale bank dit advies niet binnen de door de Europese Centrale Bank gestelde termijn opvolgt, kan de Europese Centrale Bank de zaak aanhangig maken bij het Hof van Justitie van de Europese Unie.
 
-#### Artikel 36. Personeel
+##### Artikel 36. Personeel
 
 1. De Raad van bestuur stelt op voorstel van de directie de arbeidsvoorwaarden van het personeel van de Europese Centrale Bank vast.
 
 2. Het Hof van Justitie van de Europese Unie is, binnen de grenzen en onder de voorwaarden die zijn vastgesteld in de arbeidsvoorwaarden, bevoegd ter zake van geschillen tussen de Europese Centrale Bank en haar personeelsleden.
 
-#### Artikel 37. Beroepsgeheim
+##### Artikel 37. Beroepsgeheim
 
 1. Leden van de bestuursorganen en personeelsleden van de Europese Centrale Bank en de nationale centrale banken zijn gehouden, ook na beëindiging van hun taken, inlichtingen die naar hun aard onder de geheimhoudingsplicht vallen, niet openbaar te maken.
 
 2. Personen die toegang hebben tot gegevens die vallen onder een juridisch bindende handeling van de Unie waarbij een geheimhoudingsplicht wordt opgelegd, zijn aan die plicht onderworpen.
 
-#### Artikel 38. Tekenbevoegdheid
+##### Artikel 38. Tekenbevoegdheid
 
 De Europese Centrale Bank wordt tegenover derden in rechte gebonden door de president of door twee leden van de directie of door de handtekeningen van twee personeelsleden van de Europese Centrale Bank die door de president naar behoren zijn gemachtigd om namens de Europese Centrale Bank te tekenen.
 
-#### Artikel 39. Voorrechten en immuniteiten
+##### Artikel 39. Voorrechten en immuniteiten
 
 De Europese Centrale Bank geniet op het grondgebied van de lidstaten de voorrechten en immuniteiten die nodig zijn voor de vervulling van haar taken, overeenkomstig de bepalingen van het Protocol betreffende de voorrechten en immuniteiten van de Europese Unie.
 
 ### HOOFDSTUK VIII. WIJZIGING VAN HET STATUUT EN AANVULLENDE REGELGEVING
 
-#### Artikel 40. Vereenvoudigde wijzigingsprocedures
+##### Artikel 40. Vereenvoudigde wijzigingsprocedures
 
 1. Overeenkomstig [artikel III-187, lid 3, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=2&artikel=III-187&z=2004-10-29&g=2004-10-29) kunnen [artikel 5, leden 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=II&artikel=5&z=2004-10-29&g=2004-10-29), de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=IV&artikel=17&z=2004-10-29&g=2004-10-29) en [18](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=IV&artikel=18&z=2004-10-29&g=2004-10-29), [artikel 19, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=IV&artikel=19&z=2004-10-29&g=2004-10-29), de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=IV&artikel=22&z=2004-10-29&g=2004-10-29), [23](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=IV&artikel=23&z=2004-10-29&g=2004-10-29), [24](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=IV&artikel=24&z=2004-10-29&g=2004-10-29) en [26](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=VI&artikel=26&z=2004-10-29&g=2004-10-29), [artikel 32, leden 2, 3, 4 en 6](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=VI&artikel=32&z=2004-10-29&g=2004-10-29), [artikel 33, lid 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=VI&artikel=33&z=2004-10-29&g=2004-10-29), en [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=VII&artikel=36&z=2004-10-29&g=2004-10-29) van dit statuut bij Europese wet worden herzien:
 
@@ -5964,7 +5983,7 @@ De Europese Centrale Bank geniet op het grondgebied van de lidstaten de voorrech
 
 3. Tot een aanbeveling van de Europese Centrale Bank uit hoofde van dit artikel wordt in de Raad van bestuur met eenparigheid van stemmen besloten.
 
-#### Artikel 41. Aanvullende regelgeving
+##### Artikel 41. Aanvullende regelgeving
 
 Overeenkomstig [artikel III-187, lid 4, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=2&artikel=III-187&z=2004-10-29&g=2004-10-29) stelt de Raad de Europese verordeningen en besluiten vast betreffende de maatregelen bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=II&artikel=4&z=2004-10-29&g=2004-10-29), [artikel 5, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=II&artikel=5&z=2004-10-29&g=2004-10-29), [artikel 19, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=IV&artikel=19&z=2004-10-29&g=2004-10-29), [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=IV&artikel=20&z=2004-10-29&g=2004-10-29), [artikel 28, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=VI&artikel=28&z=2004-10-29&g=2004-10-29), [artikel 29, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=VI&artikel=29&z=2004-10-29&g=2004-10-29), [artikel 30, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=VI&artikel=30&z=2004-10-29&g=2004-10-29), en [artikel 34, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=VII&artikel=34&z=2004-10-29&g=2004-10-29), van dit statuut. De Raad besluit na raadpleging van het Europees Parlement:
 
@@ -5974,7 +5993,7 @@ Overeenkomstig [artikel III-187, lid 4, van de Grondwet](https://wetten.overheid
 
 ### HOOFDSTUK IX. OVERGANGSBEPALINGEN EN ANDERE BEPALINGEN BETREFFENDE HET EUROPEES STELSEL VAN CENTRALE BANKEN
 
-#### Artikel 42. Algemene bepalingen
+##### Artikel 42. Algemene bepalingen
 
 1. Een derogatie als bedoeld in [artikel III-197, lid 1, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=5&artikel=III-197&z=2004-10-29&g=2004-10-29) brengt mee dat voor de betrokken lidstaat uit de volgende artikelen van dit statuut geen rechten of verplichtingen voortvloeien: [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=II&artikel=3&z=2004-10-29&g=2004-10-29) en [6](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=II&artikel=6&z=2004-10-29&g=2004-10-29), [artikel 9, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=III&artikel=9&z=2004-10-29&g=2004-10-29), [artikel 12, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=III&artikel=12&z=2004-10-29&g=2004-10-29), [artikel 14, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=III&artikel=14&z=2004-10-29&g=2004-10-29), [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=III&artikel=16&z=2004-10-29&g=2004-10-29), [18](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=IV&artikel=18&z=2004-10-29&g=2004-10-29), [19](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=IV&artikel=19&z=2004-10-29&g=2004-10-29), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=IV&artikel=20&z=2004-10-29&g=2004-10-29), [22](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=IV&artikel=22&z=2004-10-29&g=2004-10-29) en [23](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=IV&artikel=23&z=2004-10-29&g=2004-10-29), [artikel 26, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=VI&artikel=26&z=2004-10-29&g=2004-10-29), [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=VI&artikel=27&z=2004-10-29&g=2004-10-29), [30](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=VI&artikel=30&z=2004-10-29&g=2004-10-29), [31](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=VI&artikel=31&z=2004-10-29&g=2004-10-29), [32](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=VI&artikel=32&z=2004-10-29&g=2004-10-29), [33](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=VI&artikel=33&z=2004-10-29&g=2004-10-29), [34](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=VII&artikel=34&z=2004-10-29&g=2004-10-29) en [50](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=IX&artikel=50&z=2004-10-29&g=2004-10-29).
 
@@ -5988,13 +6007,13 @@ Overeenkomstig [artikel III-187, lid 4, van de Grondwet](https://wetten.overheid
 
 6. „Het geplaatste kapitaal van de Europese Centrale Bank” wordt gelezen als „het kapitaal van de Europese Centrale Bank dat is geplaatst bij de nationale centrale banken van de lidstaten die de euro als munt hebben” in [artikel 10, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=III&artikel=10&z=2004-10-29&g=2004-10-29), en [artikel 30, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=VI&artikel=30&z=2004-10-29&g=2004-10-29).
 
-#### Artikel 43. Overgangstaken van de Europese Centrale Bank
+##### Artikel 43. Overgangstaken van de Europese Centrale Bank
 
 De Europese Centrale Bank neemt de in [artikel III-199, lid 2, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=5&artikel=III-199&z=2004-10-29&g=2004-10-29) bedoelde vroegere functies van het Europees Monetair Instituut over die na de invoering van de euro wegens de derogaties van een of meer lidstaten nog moeten worden vervuld.
 
 De Europese Centrale Bank verstrekt advies bij de voorbereiding van het intrekken van de derogaties bedoeld in [artikel III-198 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=5&artikel=III-198&z=2004-10-29&g=2004-10-29).
 
-#### Artikel 44. Algemene Raad van de Europese Centrale Bank
+##### Artikel 44. Algemene Raad van de Europese Centrale Bank
 
 1. Onverminderd [artikel III-187, lid 1, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=2&artikel=III-187&z=2004-10-29&g=2004-10-29), wordt de Algemene Raad opgericht als derde besluitvormend orgaan van de Europese Centrale Bank.
 
@@ -6002,7 +6021,7 @@ De Europese Centrale Bank verstrekt advies bij de voorbereiding van het intrekke
 
 3. De verantwoordelijkheden van de Algemene Raad zijn volledig opgesomd in [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=IX&artikel=46&z=2004-10-29&g=2004-10-29).
 
-#### Artikel 45. Werking van de Algemene Raad
+##### Artikel 45. Werking van de Algemene Raad
 
 1. De president of, bij zijn afwezigheid, de vice-president van de Europese Centrale Bank zit de vergaderingen van de Algemene Raad van de Europese Centrale Bank voor.
 
@@ -6014,7 +6033,7 @@ De Europese Centrale Bank verstrekt advies bij de voorbereiding van het intrekke
 
 5. Het secretariaat van de Algemene Raad wordt verzorgd door de Europese Centrale Bank.
 
-#### Artikel 46. Verantwoordelijkheden van de Algemene Raad
+##### Artikel 46. Verantwoordelijkheden van de Algemene Raad
 
 1. De Algemene Raad
 
@@ -6038,11 +6057,11 @@ De Europese Centrale Bank verstrekt advies bij de voorbereiding van het intrekke
 
 4. De Algemene Raad wordt door de president van de Europese Centrale Bank in kennis gesteld van de besluiten van de Raad van bestuur.
 
-#### Artikel 47. Overgangsbepalingen voor het kapitaal van de Europese Centrale Bank
+##### Artikel 47. Overgangsbepalingen voor het kapitaal van de Europese Centrale Bank
 
 Overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=VI&artikel=29&z=2004-10-29&g=2004-10-29) wordt aan elke nationale centrale bank een weging toegekend in de verdeelsleutel voor inschrijving op het kapitaal van de Europese Centrale Bank. In afwijking van [artikel 28, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=VI&artikel=28&z=2004-10-29&g=2004-10-29), storten de centrale banken van de lidstaten die vallen onder een derogatie het kapitaal waarop zij hebben ingeschreven niet, tenzij de Algemene Raad met een gekwalificeerde meerderheid van stemmen die ten minste tweederde van het geplaatste kapitaal van de Europese Centrale Bank en ten minste de helft van de aandeelhouders vertegenwoordigt, besluit dat een minimumpercentage moet worden gestort als bijdrage aan de bedrijfskosten van de Europese Centrale Bank.
 
-#### Artikel 48. Latere storting van kapitaal, reserves en voorzieningen van de Europese Centrale Bank
+##### Artikel 48. Latere storting van kapitaal, reserves en voorzieningen van de Europese Centrale Bank
 
 1. De centrale bank van een lidstaat waarvan de derogatie is ingetrokken, stort haar aandeel in het kapitaal van de Europese Centrale Bank ten belope van hetzelfde percentage als de andere centrale banken van de lidstaten die de euro als munt hebben en draagt overeenkomstig [artikel 30, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=VI&artikel=30&z=2004-10-29&g=2004-10-29), haar externe reserves aan de Europese Centrale Bank over. Het over te dragen bedrag wordt bepaald door de euro-waarde tegen lopende wisselkoersen van de reeds overeenkomstig artikel 30, lid 1, aan de Europese Centrale Bank overgedragen externe reserves te vermenigvuldigen met de ratio tussen het aantal aandelen waarop de betrokken nationale centrale bank heeft ingeschreven en het aantal aandelen dat de andere nationale centrale banken al hebben volgestort.
 
@@ -6050,17 +6069,17 @@ Overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoof
 
 3. Zodra één of meer landen lid van de Unie worden en hun respectieve nationale centrale banken deel gaan uitmaken van het Europees Stelsel van Centrale Banken, worden het geplaatste kapitaal van de Europese Centrale Bank en het plafond voor de externe reserves die aan de Europese Centrale Bank mogen worden overgedragen, automatisch verhoogd. De verhoging wordt bepaald door de op dat ogenblik geldende bedragen te vermenigvuldigen met de ratio tussen de weging, in het kader van de verdeelsleutel voor de inschrijving op het uitgebreide kapitaal, van de toetredende nationale centrale banken enerzijds, en de weging van de nationale centrale banken die reeds deel uitmaken van het Europees Stelsel van Centrale Banken anderzijds. De weging van elke nationale centrale bank in de verdeelsleutel wordt berekend naar analogie van [artikel 29, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=VI&artikel=29&z=2004-10-29&g=2004-10-29), en in overeenstemming met artikel 29, lid 2. De referentieperioden voor de statistische gegevens zijn dezelfde als die welke zijn toegepast voor de laatste vijfjaarlijkse aanpassing van de wegingen krachtens artikel 29, lid 3.
 
-#### Artikel 49. Afwijking van [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=VI&artikel=32&z=2004-10-29&g=2004-10-29)
+##### Artikel 49. Afwijking van [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=VI&artikel=32&z=2004-10-29&g=2004-10-29)
 
 1. Wanneer de Raad van bestuur na de aanvang van de derde fase besluit dat de toepassing van [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=VI&artikel=32&z=2004-10-29&g=2004-10-29)resulteert in aanzienlijke wijzigingen in de relatieve inkomensposities van de nationale centrale banken, wordt het bedrag aan inkomsten dat ingevolge artikel 32 moet worden toegedeeld, verminderd met een uniform percentage, dat in het eerste boekjaar na de aanvang van de derde fase niet meer dan 60 mag bedragen, en dat in elk volgend boekjaar met ten minste 12 procentpunten afneemt.
 
 2. Lid 1, is niet langer van toepassing dan vijf boekjaren na de aanvang van de derde fase.
 
-#### Artikel 50. Inwisseling van bankbiljetten in de valuta's van de lidstaten
+##### Artikel 50. Inwisseling van bankbiljetten in de valuta's van de lidstaten
 
 Na de onherroepelijke vaststelling van de wisselkoersen overeenkomstig [artikel III-198, lid 3, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=5&artikel=III-198&z=2004-10-29&g=2004-10-29) treft de Raad van bestuur de noodzakelijke maatregelen om te verzekeren dat bankbiljetten luidende in valuta's van de lidstaten met onherroepelijk vastgestelde wisselkoersen door de nationale centrale banken worden ingewisseld tegen hun respectieve pari-waarden.
 
-#### Artikel 51. Toepasselijkheid van de overgangsbepalingen
+##### Artikel 51. Toepasselijkheid van de overgangsbepalingen
 
 Indien en zolang er lidstaten zijn die onder een derogatie vallen, zijn de [artikelen 42 tot en met 47](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=IX&artikel=42&z=2004-10-29&g=2004-10-29) van toepassing.
 
@@ -6070,19 +6089,19 @@ Wensende, het in [artikel III-393 van de Grondwet](https://wetten.overheid.nl/jc
 
 Hebben overeenstemming bereikt omtrent de volgende bepalingen, die aan het Verdrag tot vaststelling van een grondwet voor Europa worden gehecht:
 
-#### Artikel 1
+##### Artikel 1
 
 De in [artikel III-393 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=3&artikel=III-393&z=2004-10-29&g=2004-10-29) bedoelde Europese Investeringsbank, hierna te noemen, „de Bank”, wordt opgericht en oefent haar functies en werkzaamheden uit overeenkomstig de Grondwet en dit statuut.
 
-#### Artikel 2
+##### Artikel 2
 
 De taak van de Bank is in [artikel III-394 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=3&artikel=III-394&z=2004-10-29&g=2004-10-29) omschreven.
 
-#### Artikel 3
+##### Artikel 3
 
 Overeenkomstig [artikel III-393 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=3&artikel=III-393&z=2004-10-29&g=2004-10-29) zijn de lidstaten de leden van de Bank.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het kapitaal van de Bank bedraagt 163.653.737.000 euro, waarin door de lidstaten voor de volgende bedragen wordt deelgenomen:
 
@@ -6121,7 +6140,7 @@ De lidstaten zijn ten hoogste aansprakelijk tot het nog niet gestorte bedrag van
 
 4. Het aandeel der leden in het geplaatste kapitaal kan gecedeerd noch verpand worden en is niet vatbaar voor beslag.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het geplaatste kapitaal wordt door de lidstaten gestort ten belope van gemiddeld 5% van de in artikel 4, lid 1, vastgestelde bedragen.
 
@@ -6131,11 +6150,11 @@ De lidstaten zijn ten hoogste aansprakelijk tot het nog niet gestorte bedrag van
 
 Storting geschiedt door elke lidstaat in verhouding tot zijn aandeel in het geplaatste kapitaal.
 
-#### Artikel 6
+##### Artikel 6
 
 De Bank wordt bestuurd en beheerd door een Raad van gouverneurs, een Raad van bewind en een directie.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De Raad van gouverneurs bestaat uit de door de lidstaten aangewezen ministers.
 
@@ -6163,7 +6182,7 @@ Hij ziet erop toe dat deze richtlijnen worden opgevolgd.
 
 4. De Raad van gouverneurs kan met eenparigheid van stemmen, in het kader van de Grondwet en van dit statuut, alle besluiten vaststellen met betrekking tot de schorsing van de werkzaamheden van de Bank en met betrekking tot haar eventuele liquidatie.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Voorzover in dit statuut niet anders is bepaald, worden de besluiten van de Raad van gouverneurs met meerderheid van de stemmen van zijn leden genomen. Deze meerderheid moet ten minste 50% van het geplaatste kapitaal vertegenwoordigen.
 
@@ -6171,7 +6190,7 @@ Een gekwalificeerde meerderheid wordt gevormd door achttien stemmen en 68% van h
 
 2. Onthouding door aanwezige of vertegenwoordigde leden vormt geen beletsel voor de vaststelling van besluiten die eenparigheid van stemmen vereisen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De Raad van bewind beslist over financieringen, met name in de vorm van kredieten en garanties, en over het aangaan van leningen; hij stelt de rentevoet vast voor de door de Bank verstrekte leningen alsmede de provisies en overige verplichtingen. Hij kan op grond van een met gekwalificeerde meerderheid van stemmen genomen besluit, bepaalde bevoegdheden aan de directie delegeren. Hij bepaalt onder welke voorwaarden en op welke wijze deze delegatie geschiedt en ziet toe op de uitvoering ervan.
 
@@ -6223,13 +6242,13 @@ Ingeval het jaarverslag niet wordt goedgekeurd, treedt de Raad van bewind af.
 
 5. De Raad van gouverneurs stelt de vergoeding vast voor de leden van de Raad van bewind. Hij bepaalt welke functie eventueel onverenigbaar is met die van bewindvoerder en van plaatsvervanger.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Elke bewindvoerder beschikt in de Raad van bewind over één stem. Hij kan zijn stem in alle gevallen overeenkomstig in het reglement van orde van de Bank vast te stellen regels delegeren.
 
 2. Tenzij in dit statuut anders is bepaald, worden de besluiten van de Raad van bewind genomen door ten minste eenderde van de stemgerechtigde leden welke ten minste 50% van het geplaatste kapitaal vertegenwoordigen. Voor een gekwalificeerde meerderheid zijn achttien stemmen en 68% van het geplaatste kapitaal vereist. In het reglement van orde van de bank wordt bepaald welk quorum vereist is voor de geldigheid van de besluiten van de Raad van bewind.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De directie bestaat uit een president en acht vice-presidenten, die voor een periode van zes jaar door de Raad van gouverneurs op voorstel van de Raad van bewind worden benoemd. Zij zijn herbenoembaar.
 
@@ -6251,7 +6270,7 @@ Zij bereidt de besluiten van de Raad van bewind voor, met name wat betreft het a
 
 8. De directie en het personeel van de Bank zijn slechts aan de Bank verantwoording schuldig en oefenen hun functies in volledige onafhankelijkheid uit.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Een comité van zes leden, die door de Raad van gouverneurs op grond van hun bekwaamheid worden benoemd, controleert de activiteiten van de Bank op verenigbaarheid met de beste bancaire praktijken en is belast met de controle van de rekeningen van de Bank.
 
@@ -6261,21 +6280,21 @@ Zij bereidt de besluiten van de Raad van bewind voor, met name wat betreft het a
 
 4. Het reglement van orde bepaalt welke kwalificaties de leden van het in lid 1 bedoelde comité moeten bezitten, alsmede onder welke voorwaarden en op welke wijze het comité werkt.
 
-#### Artikel 13
+##### Artikel 13
 
 De Bank onderhoudt de betrekkingen met elke lidstaat door tussenkomst van de door deze aangewezen autoriteit. Voor de uitvoering van financiële verrichtingen doet zij een beroep op de nationale centrale bank van de betrokken lidstaat of op andere door die staat gemachtigde financiële instellingen.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De Bank werkt samen met alle internationale organisaties waarvan de werkzaamheden zich uitstrekken over een terrein dat met het hare overeenkomt.
 
 2. De Bank legt alle contacten welke dienstig zijn voor de samenwerking met de bankinstellingen en financiële instellingen van de landen tot welke haar verrichtingen zich uitstrekken.
 
-#### Artikel 15
+##### Artikel 15
 
 Op verzoek van een lidstaat of van de Commissie dan wel ambtshalve worden de richtlijnen die door de Raad van gouverneurs krachtens artikel 7 zijn vastgesteld, door hem uitgelegd of aangevuld op dezelfde wijze als waarop zij tot stand zijn gekomen.
 
-#### Artikel 16
+##### Artikel 16
 
 1. In het kader van de in [artikel III-394 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=3&artikel=III-394&z=2004-10-29&g=2004-10-29) omschreven taak, verleent de Bank aan haar leden of aan particuliere of openbare ondernemingen financiering, onder meer in de vorm van kredieten en garanties, voor investeringen die op het grondgebied van de lidstaten zullen worden verwezenlijkt, voorzover middelen uit andere bronnen niet tegen redelijke voorwaarden beschikbaar zijn.
 
@@ -6299,13 +6318,13 @@ Dit lid is eveneens van toepassing op de geconsolideerde rekeningen van de Bank.
 
 6. De Bank beveiligt zich tegen wisselkoersrisico's door in de lenings- en garantieovereenkomsten de naar haar mening passende bepalingen op te nemen.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De rentevoet voor door de Bank te verstrekken leningen alsmede de provisie en andere lasten worden aangepast aan de op de kapitaalmarkt geldende voorwaarden en worden zodanig berekend dat de daaruit voortvloeiende ontvangsten de Bank in staat stellen haar verplichtingen na te komen, haar kosten en risico's te dekken en overeenkomstig [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&artikel=22&z=2004-10-29&g=2004-10-29) een reservefonds te vormen.
 
 2. De Bank staat geen verlagingen toe van de rentevoet. Ingeval er, gelet op de bijzondere aard van de investering, aanleiding bestaat tot verlaging van de rentevoet, kan de belanghebbende lidstaat of een derde instantie rentesubsidies verlenen, voorzover dit verenigbaar is met de in [artikel III-167 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=5&paragraaf=2&artikel=III-167&z=2004-10-29&g=2004-10-29) vastgestelde regels.
 
-#### Artikel 18
+##### Artikel 18
 
 De Bank neemt bij zijn financieringsverrichtingen de navolgende beginselen in acht.
 
@@ -6327,7 +6346,7 @@ De Bank neemt bij zijn financieringsverrichtingen de navolgende beginselen in ac
 
 - 7. Ter aanvulling van haar kredietverlening kan de Bank zorgen voor technische bijstand volgens de voorwaarden en bijzonderheden die door de Raad van gouverneurs worden bepaald met gekwalificeerde meerderheid van stemmen en met inachtneming van dit statuut.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Iedere onderneming of openbaar of privaat lichaam kan rechtstreeks een aanvraag om financiering tot de Bank richten. Een aanvraag kan ook tot de Bank worden gericht, hetzij door tussenkomst van de Commissie, hetzij van de lidstaat op wiens grondgebied de investering zal worden verwezenlijkt.
 
@@ -6347,7 +6366,7 @@ De betrokken lidstaten en de Commissie brengen binnen een termijn van twee maand
 
 8. Indien de bescherming van de rechten en belangen van de Bank een herschikking van een financieringsverrichting met betrekking tot goedgekeurde investeringen rechtvaardigt, neemt de directie onverwijld de urgentiemaatregelen die zij nodig acht en legt deze onverwijld voor aan de Raad van bewind.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De Bank neemt op de kapitaalmarkten de middelen op die voor de vervulling van haar taak noodzakelijk zijn.
 
@@ -6355,7 +6374,7 @@ De betrokken lidstaten en de Commissie brengen binnen een termijn van twee maand
 
 De bevoegde instanties van een lidstaat die onder een derogatie valt in de zin van [artikel III-197, lid 1, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=5&artikel=III-197&z=2004-10-29&g=2004-10-29) kunnen zich slechts hiertegen verzetten, indien ernstige storingen op de kapitaalmarkt van die staat te vrezen zijn.
 
-#### Artikel 21
+##### Artikel 21
 
 1. De Bank kan de beschikbare middelen welke zij niet onmiddellijk nodig heeft om aan haar verplichtingen te voldoen, op de volgende wijze aanwenden:
 
@@ -6369,7 +6388,7 @@ De bevoegde instanties van een lidstaat die onder een derogatie valt in de zin v
 
 3. Op het in dit artikel bedoelde gebied handelt de Bank in overleg met de bevoegde instanties van de lidstaten of met hun nationale centrale bank.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Er wordt geleidelijk een reservefonds gevormd ten belope van 10% van het geplaatste kapitaal. Indien de stand van de verplichtingen van de Bank zulks rechtvaardigt, kan de Raad van bewind besluiten tot het vormen van aanvullende reserves. Zolang dit reservefonds nog niet geheel is gevormd, wordt het gestijfd door:
 
@@ -6381,7 +6400,7 @@ voorzover deze renteontvangsten niet noodzakelijk zijn voor het nakomen van de v
 
 2. De middelen van het reservefonds worden zodanig belegd dat zij te allen tijde het doel van dit fonds kunnen dienen.
 
-#### Artikel 23
+##### Artikel 23
 
 1. De Bank is steeds gemachtigd haar bezit aan deviezen van een van de lidstaten die niet de euro als munteenheid hebben, over te maken met het oog op de uitvoering van financiële verrichtingen overeenkomstig haar taak als omschreven in [artikel III-394 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=3&artikel=III-394&z=2004-10-29&g=2004-10-29) en met inachtneming van de bepalingen van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&artikel=21&z=2004-10-29&g=2004-10-29) van dit statuut. De Bank vermijdt dergelijke overmakingen zoveel mogelijk indien zij saldi beschikbaar heeft of beschikbaar kan maken in de valuta die zij nodig heeft.
 
@@ -6391,25 +6410,25 @@ voorzover deze renteontvangsten niet noodzakelijk zijn voor het nakomen van de v
 
 4. De lidstaten verbinden zich ertoe de debiteuren van de Bank de nodige deviezen ter beschikking te stellen, voor de terugbetaling van hoofdsom en rente van de leningen die de Bank verstrekt of gegarandeerd heeft voor op het grondgebied van de lidstaten uit te voeren investeringen.
 
-#### Artikel 24
+##### Artikel 24
 
 Indien een lidstaat zijn uit dit statuut voortvloeiende verplichtingen als lid niet nakomt, met name de verplichting zijn aandeel te storten of aan zijn verbintenissen ter zake van opgenomen leningen te voldoen, kan de verstrekking van leningen of van garanties aan deze lidstaat of aan zijn onderdanen worden geschorst door een met gekwalificeerde meerderheid van stemmen genomen besluit van de Raad van gouverneurs.
 
 Dit besluit bevrijdt de lidstaat noch zijn onderdanen van hun verplichtingen jegens de Bank.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Indien de Raad van gouverneurs besluit de werkzaamheid van de Bank te schorsen, worden alle werkzaamheden zonder verwijl stopgezet, met uitzondering van die welke noodzakelijk zijn om het gebruik, de bescherming en het behoud van de bezittingen, alsmede de afwikkeling der verplichtingen behoorlijk te waarborgen.
 
 2. In geval van liquidatie benoemt de Raad van gouverneurs de liquidateurs en geeft hun aanwijzingen voor de afwikkeling daarvan. Hij ziet toe op de vrijwaring van de rechten van het personeel.
 
-#### Artikel 26
+##### Artikel 26
 
 1. De Bank heeft in iedere lidstaat de ruimste handelingsbevoegdheid die door de nationale wetgevingen aan rechtspersonen wordt toegekend. Zij kan roerende en onroerende goederen verkrijgen en vervreemden en in rechte optreden.
 
 2. De bezittingen van de Bank kunnen op geen enkele wijze gevorderd of onteigend worden.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Geschillen tussen de Bank enerzijds en haar leninggevers, leningnemers of derden anderzijds worden, behoudens de aan het Hof van Justitie van de Europese Unie toegekende bevoegdheden, door de bevoegde nationale rechter beslecht. De Bank kan in een contract in een scheidsrechterlijke procedure voorzien.
 
@@ -6417,7 +6436,7 @@ Dit besluit bevrijdt de lidstaat noch zijn onderdanen van hun verplichtingen jeg
 
 3. De vermogenswaarden van de Bank kunnen slechts ingevolge rechterlijke beslissing in beslag genomen of geëxecuteerd worden.
 
-#### Artikel 28
+##### Artikel 28
 
 1. De Raad van gouverneurs kan met eenparigheid van stemmen besluiten tot de oprichting van filialen of andere lichamen die rechtspersoonlijkheid bezitten en financieel onafhankelijk zijn.
 
@@ -6441,7 +6460,7 @@ Wijzend op en bevestigend het Besluit van 8 april 1965, zulks onverminderd de to
 
 Hebben overeenstemming bereikt omtrent de volgende bepalingen, die aan het Verdrag tot vaststelling van een Grondwet voor Europa en aan het [Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie](https://wetten.overheid.nl/jci1.3:c:BWBV0004033) worden gehecht:
 
-#### Artikel Enig
+##### Artikel Enig
 
 1. Het Europees Parlement heeft zijn zetel te Straatsburg, voor de twaalf periodes van de maandelijkse voltallige zittingen met inbegrip van de begrotingszitting. De bijkomende voltallige zittingen worden gehouden te Brussel. De commissies van het Europees Parlement zetelen te Brussel. Het secretariaat-generaal van het Europees Parlement en zijn diensten blijven in Luxemburg gevestigd.
 
@@ -6471,21 +6490,21 @@ Hebben overeenstemming bereikt omtrent de volgende bepalingen, die aan het Verdr
 
 ### HOOFDSTUK I. EIGENDOMMEN, FONDSEN, BEZITTINGEN EN VERRICHTINGEN VAN DE UNIE
 
-#### Artikel 1
+##### Artikel 1
 
 De gebouwen en terreinen van de Unie zijn onschendbaar. Zij zijn vrijgesteld van huiszoeking, vordering, verbeurdverklaring of onteigening. De eigendommen en bezittingen van de Unie kunnen zonder toestemming van het Hof van Justitie niet worden getroffen door enige dwangmaatregel van bestuursrechtelijke of gerechtelijke aard.
 
-#### Artikel 2
+##### Artikel 2
 
 Het archief van de Unie is onschendbaar.
 
-#### Artikel 3
+##### Artikel 3
 
 De Unie, haar bezittingen, inkomsten en andere eigendommen zijn vrijgesteld van alle directe belastingen. Telkens wanneer hun dit mogelijk is, treffen de regeringen van de lidstaten passende maatregelen tot kwijtschelding of teruggave van het bedrag der indirecte belastingen en van belastingen op de verkoop, welke een deel vormen van de prijs van onroerende of roerende goederen, wanneer de Unie voor haar officieel gebruik belangrijke aankopen doet van goederen in de prijs waarvan zodanige belastingen begrepen zijn. De toepassing van deze bepalingen mag evenwel niet tot gevolg hebben dat de mededinging binnen de Unie wordt vervalst.
 
 Geen enkele vrijstelling wordt verleend van belastingen, heffingen en rechten die niet anders zijn dan eenvoudige vergoedingen voor diensten van openbaar nut.
 
-#### Artikel 4
+##### Artikel 4
 
 De Unie is vrijgesteld van alle douanerechten, in- en uitvoerverboden en -beperkingen met betrekking tot goederen bestemd voor haar officieel gebruik. De aldus ingevoerde goederen mogen op het grondgebied van de lidstaat alwaar zij zijn ingevoerd niet onder bezwarende titel of om niet worden overgedragen, tenzij op voorwaarden welke door de regering van die staat zijn goedgekeurd.
 
@@ -6493,13 +6512,13 @@ Zij is tevens vrijgesteld van alle douanerechten, in- en uitvoerverboden en -bep
 
 ### HOOFDSTUK II. MEDEDELINGEN EN LAISSEZ-PASSER
 
-#### Artikel 5
+##### Artikel 5
 
 De instellingen van de Unie genieten, voor hun officiële mededelingen en het overbrengen van al hun documenten op het grondgebied van iedere lidstaat de behandeling, welke door deze staat aan diplomatieke missies wordt toegestaan.
 
 De officiële correspondentie en andere officiële mededelingen van de instellingen van de Unie zijn niet aan censuur onderworpen.
 
-#### Artikel 6
+##### Artikel 6
 
 Laissez-passer, waarvan de vorm in een bij gewone meerderheid van stemmen door de Raad vastgestelde Europese verordening wordt bepaald en die als geldige reispapieren door de overheidsinstanties van de lidstaten worden erkend, kunnen door de voorzitters van de instellingen van de Unie aan de leden en het personeel van deze instellingen worden verstrekt. Deze laissez-passer worden aan de ambtenaren en overige personeelsleden verstrekt overeenkomstig de bepalingen van het statuut van de ambtenaren en de regeling voor de andere personeelsleden van de Unie.
 
@@ -6507,7 +6526,7 @@ De Commissie kan overeenkomsten sluiten teneinde deze laissez-passers te doen er
 
 ### HOOFDSTUK III. LEDEN VAN HET EUROPEES PARLEMENT
 
-#### Artikel 7
+##### Artikel 7
 
 De bewegingsvrijheid der leden van het Europees Parlement die zich naar de plaats van bijeenkomst van het Europees Parlement begeven of daarvan terugkeren wordt op geen enkele wijze beperkt door voorschriften van bestuursrechtelijke of andere aard.
 
@@ -6517,11 +6536,11 @@ Aan de leden van het Europees Parlement worden, wat betreft douane en deviezenco
 
 - b. door de regeringen van de andere lidstaten, dezelfde faciliteiten als aan vertegenwoordigers van buitenlandse regeringen, belast met een tijdelijke officiële zending.
 
-#### Artikel 8
+##### Artikel 8
 
 Tegen de leden van het Europees Parlement kan geen onderzoek worden ingesteld, noch kunnen zij worden aangehouden of vervolgd op grond van de mening of de stem, die zij in de uitoefening van hun ambt hebben uitgebracht.
 
-#### Artikel 9
+##### Artikel 9
 
 Tijdens de duur van de zittingen van het Europees Parlement genieten de leden:
 
@@ -6535,7 +6554,7 @@ Op deze immuniteit kan geen beroep worden gedaan in geval van ontdekking op hete
 
 ### HOOFDSTUK V. AMBTENAREN EN OVERIGE PERSONEELSLEDEN VAN DE UNIE
 
-#### Artikel 11
+##### Artikel 11
 
 De ambtenaren en overige personeelsleden van de Unie zijn, ongeacht hun nationaliteit, op het grondgebied van iedere lidstaat:
 
@@ -6549,13 +6568,13 @@ De ambtenaren en overige personeelsleden van de Unie zijn, ongeacht hun national
 
 - e. gerechtigd uit een staat hun voor persoonlijk gebruik bestemde personenauto die in de staat waar zij het laatst hun verblijfplaats hebben gehad of in de staat waarvan zij onderdaan zijn, verkregen is op de voorwaarden die op de binnenlandse markt van die staat gelden, vrij van rechten in te voeren, en deze vrij van rechten weder uit te voeren, in beide gevallen met inachtneming van de voorwaarden welke de regering van de betrokken staat als noodzakelijk beschouwt.
 
-#### Artikel 12
+##### Artikel 12
 
 Onder de voorwaarden en volgens de procedure welke bij Europese wet worden vastgesteld, worden de ambtenaren en overige personeelsleden van de Unie onderworpen aan een belasting ten bate van de Unie op de door haar betaalde salarissen, lonen en emolumenten. Deze wet wordt vastgesteld na raadpleging van de betrokken instellingen.
 
 De ambtenaren en overige personeelsleden van de Unie zijn vrijgesteld van nationale belastingen op de door de Unie betaalde salarissen, lonen en emolumenten.
 
-#### Artikel 13
+##### Artikel 13
 
 De ambtenaren en overige personeelsleden van de Unie, die zich uitsluitend uit hoofde van de uitoefening van hun ambt in dienst van de Unie vestigen op het grondgebied van een andere lidstaat dan de staat van de fiscale woonplaats, die zij bezitten op het ogenblik van hun indiensttreding bij de Unie, worden voor de toepassing van de inkomsten-, vermogens- en successiebelastingen, alsmede van de tussen de lidstaten van de Unie gesloten overeenkomsten ter voorkoming van dubbele belasting, zowel in de staat waar zij zich gevestigd hebben als in de staat van de fiscale woonplaats, geacht hun woonplaats te hebben behouden in de laatstgenoemde staat, indien deze lid is van de Unie. Deze bepaling geldt eveneens voor de echtgenoot voorzover deze geen eigen beroepsbezigheden uitoefent, alsmede voor de kinderen die ten laste zijn en onder toezicht staan van de in dit artikel bedoelde personen.
 
@@ -6563,11 +6582,11 @@ De roerende goederen welke toebehoren aan de in de eerste alinea bedoelde person
 
 De uitsluitend uit hoofde van de uitoefening van een ambt in dienst van andere internationale organisaties verkregen woonplaats wordt niet in aanmerking genomen bij de toepassing van de bepalingen van dit artikel.
 
-#### Artikel 14
+##### Artikel 14
 
 Bij Europese wet wordt de regeling vastgesteld inzake de sociale voorzieningen die op de ambtenaren en overige personeelsleden van de Unie van toepassing zijn. Zij wordt vastgesteld na raadpleging van de betrokken instellingen.
 
-#### Artikel 15
+##### Artikel 15
 
 Bij Europese wet wordt bepaald op welke categorieën van ambtenaren en overige personeelsleden van de Unie [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=V&artikel=11&z=2004-10-29&g=2004-10-29), [artikel 12, tweede alinea](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=V&artikel=12&z=2004-10-29&g=2004-10-29), en [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=V&artikel=13&z=2004-10-29&g=2004-10-29) geheel of ten dele van toepassing zijn. Zij wordt vastgesteld na raadpleging van de betrokken instellingen.
 
@@ -6575,39 +6594,39 @@ De namen, hoedanigheden en adressen der ambtenaren en overige personeelsleden, w
 
 ### HOOFDSTUK VI. VOORRECHTEN EN IMMUNITEITEN VAN DE BIJ DE UNIE GEACCREDITEERDE MISSIES VAN DERDE STATEN
 
-#### Artikel 16
+##### Artikel 16
 
 De lidstaat, op wiens grondgebied de zetel van de Unie is gevestigd, verleent aan de missies van de bij de Unie geaccrediteerde derde staten de gebruikelijke diplomatieke voorrechten en immuniteiten.
 
 ### HOOFDSTUK VII. ALGEMENE BEPALINGEN
 
-#### Artikel 17
+##### Artikel 17
 
 De voorrechten, immuniteiten en faciliteiten worden aan de ambtenaren en overige personeelsleden van de Unie uitsluitend in het belang van de Unie verleend.
 
 Elke instelling van de Unie is gehouden de aan een ambtenaar of ander personeelslid verleende immuniteit op te heffen in alle gevallen waarin zulks naar haar mening niet strijdig is met de belangen van de Unie.
 
-#### Artikel 18
+##### Artikel 18
 
 Voor de toepassing van dit Protocol handelen de instellingen van de Unie in overeenstemming met de verantwoordelijke autoriteiten van de betrokken lidstaten.
 
-#### Artikel 19
+##### Artikel 19
 
 De [artikelen 11 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=V&artikel=11&z=2004-10-29&g=2004-10-29) en [17](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=VII&artikel=17&z=2004-10-29&g=2004-10-29) zijn van toepassing op de leden van de Commissie.
 
-#### Artikel 20
+##### Artikel 20
 
 De [artikelen 11 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=V&artikel=11&z=2004-10-29&g=2004-10-29) en [17](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=VII&artikel=17&z=2004-10-29&g=2004-10-29) zijn van toepassing op de rechters, de advocaten-generaal, de griffiers en de toegevoegde rapporteurs van het Hof van Justitie van de Europese Unie, onverminderd de bepalingen van artikel 3 van het Protocol tot vaststelling van het statuut van het Hof van Justitie van de Europese Unie nopens de vrijstelling van rechtsvervolging van de rechters en de advocaten-generaal.
 
 De [artikelen 11 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=V&artikel=11&z=2004-10-29&g=2004-10-29) en [17](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=VII&artikel=17&z=2004-10-29&g=2004-10-29) zijn tevens van toepassing op de leden van de Rekenkamer.
 
-#### Artikel 21
+##### Artikel 21
 
 Dit Protocol is tevens van toepassing op de Europese Centrale Bank, de leden van haar organen en haar personeel, onverminderd het Protocol tot vaststelling van het statuut van het Europees Stelsel van centrale banken en van de Europese Centrale Bank.
 
 De Europese Centrale Bank wordt voorts vrijgesteld van elke fiscale en parafiscale heffing bij de uitbreiding van haar kapitaal, alsmede van de verschillende formaliteiten die hieraan verbonden zijn in de staat waar de zetel gevestigd is. De werkzaamheden van de Bank en van haar organen, die worden uitgeoefend overeenkomstig het statuut van het Europese Stelsel van centrale banken en van de Europese Centrale Bank, geven geen aanleiding tot de heffing van omzetbelasting.
 
-#### Artikel 22
+##### Artikel 22
 
 Dit Protocol is tevens van toepassing op de Europese Investeringsbank, de leden van haar organen, haar personeel en de vertegenwoordigers van de lidstaten, die aan haar werkzaamheden deelnemen, onverminderd het Protocol tot vaststelling van haar statuut.
 
@@ -6627,7 +6646,7 @@ Hebben overeenstemming bereikt omtrent de volgende bepalingen die aan het Verdra
 
 ## TITEL I. GEMEENSCHAPPELIJKE BEPALINGEN
 
-#### Artikel 1
+##### Artikel 1
 
 De rechten en verplichtingen die voortvloeien uit de in [artikel IV-437, lid 2, onder a tot en met d, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=IV&artikel=IV-437&z=2004-10-29&g=2004-10-29) genoemde toetredingsverdragen, zijn onder de in deze verdragen gestelde voorwaarden op de volgende data van kracht geworden:
 
@@ -6639,7 +6658,7 @@ De rechten en verplichtingen die voortvloeien uit de in [artikel IV-437, lid 2, 
 
 - d. 1 januari 1995 wat betreft het Verdrag betreffende de toetreding van de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De in artikel 1 genoemde toetredende staten verplichten zich ertoe, vóór hun respectieve toetreding partij te worden bij de volgende overeenkomsten en verdragen, voor zover deze nog van kracht zijn:
 
@@ -6649,17 +6668,17 @@ De rechten en verplichtingen die voortvloeien uit de in [artikel IV-437, lid 2, 
 
 2. De in artikel 1 genoemde toetredingsstaten treffen passende maatregelen om zo nodig hun positie ten aanzien van internationale organisaties en internationale overeenkomsten waarbij de Unie of de Europese Gemeenschap voor Atoomenergie of andere lidstaten eveneens partij zijn, aan te passen aan de rechten en verplichtingen die voortvloeien uit hun toetreding.
 
-#### Artikel 3
+##### Artikel 3
 
 Bepalingen van de akten van toetreding, als uitgelegd door het Hof van Justitie van de Europese Gemeenschappen en het Gerecht van eerste aanleg, die tot doel of tot gevolg hebben de intrekking of de wijziging, anders dan bij wijze van overgangsmaatregel, van de handelingen die zijn vastgesteld door de instellingen, organen of instanties van de Europese Gemeenschappen of van de bij het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) ingestelde Europese Unie, blijven van kracht, behoudens de tweede alinea.
 
 De in de eerste alinea bedoelde bepalingen hebben hetzelfde rechtskarakter als de handelingen die door deze bepalingen worden ingetrokken of gewijzigd en zij zijn aan dezelfde regels onderworpen.
 
-#### Artikel 4
+##### Artikel 4
 
 De teksten van de handelingen van de instellingen, organen en instanties van de Europese Gemeenschappen en van de bij het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) ingestelde Europese Unie die vóór de in artikel 1 genoemde toetredingen zijn vastgesteld en die achtereenvolgens in de Engelse en de Deense, de Griekse, de Spaanse en de Portugese, en de Finse en de Zweedse taal zijn opgesteld, zijn gelijkelijk authentiek vanaf de toetreding van de in artikel 1 genoemde staten, onder dezelfde voorwaarden als de in de overige talen opgestelde en gelijkelijk authentieke teksten.
 
-#### Artikel 5
+##### Artikel 5
 
 De in dit Protocol opgenomen overgangsbepalingen kunnen bij Europese wet van de Raad worden ingetrokken indien zij niet meer van toepassing zijn. De Raad besluit met eenparigheid van stemmen, na raadpleging van het Europees Parlement.
 
@@ -6667,7 +6686,7 @@ De in dit Protocol opgenomen overgangsbepalingen kunnen bij Europese wet van de 
 
 ### AFDELING 1. BEPALINGEN BETREFFENDE GIBRALTAR
 
-#### Artikel 6
+##### Artikel 6
 
 1. De handelingen van de instellingen die betrekking hebben op de producten van [bijlage I van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&bijlage=I&z=2004-10-29&g=2004-10-29) en op de producten die bij invoer in de Unie aan een bijzondere regeling zijn onderworpen ingevolge de uitvoering van het gemeenschappelijk landbouwbeleid, alsmede de handelingen tot harmonisatie van de wetgevingen van de lidstaten betreffende de omzetbelasting zijn niet van toepassing op Gibraltar, tenzij de Raad bij Europees besluit anders besluit. De Raad besluit met eenparigheid van stemmen, op voorstel van de Commissie.
 
@@ -6675,13 +6694,13 @@ De in dit Protocol opgenomen overgangsbepalingen kunnen bij Europese wet van de 
 
 ### AFDELING 2. BEPALINGEN BETREFFENDE DE FAERÖER
 
-#### Artikel 7
+##### Artikel 7
 
 Deense onderdanen die op de Faeröer woonachtig zijn, worden slechts als onderdanen van een lidstaat krachtens de Grondwet beschouwd vanaf de datum waarop deze op de Faeröer van toepassing wordt.
 
 ### AFDELING 3. BEPALINGEN BETREFFENDE DE KANAALEILANDEN EN HET EILAND MAN
 
-#### Artikel 8
+##### Artikel 8
 
 1. De Unieregeling inzake douaneaangelegenheden en inzake kwantitatieve beperkingen, met name de douanerechten, de heffingen van gelijke werking en het gemeenschappelijk douanetarief, is ten aanzien van de Kanaaleilanden en het eiland Man onder dezelfde voorwaarden van toepassing als die welke voor het Verenigd Koninkrijk gelden.
 
@@ -6691,25 +6710,25 @@ Eveneens van toepassing zijn de bepalingen van de Unieregeling die nodig zijn om
 
 Op voorstel van de Commissie stelt de Raad bij Europese verordening of Europees besluit de voorwaarden vast waaronder de in de eerste en de tweede alinea bedoelde bepalingen op deze gebieden van toepassing zijn.
 
-#### Artikel 9
+##### Artikel 9
 
 Aan de rechten van onderdanen van de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&titeldeel=II&afdeling=3&artikel=8&z=2004-10-29&g=2004-10-29) genoemde gebieden in het Verenigd Koninkrijk wordt geen afbreuk gedaan door het recht van de Unie. De bepalingen van het recht van de Unie betreffende het vrije verkeer van personen en diensten is echter niet op hen van toepassing.
 
-#### Artikel 10
+##### Artikel 10
 
 De bepalingen van het [Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie](https://wetten.overheid.nl/jci1.3:c:BWBV0004033) die voor personen of ondernemingen in de zin van [artikel 196](https://wetten.overheid.nl/jci1.3:c:BWBV0004033&artikel=196) van genoemd verdrag gelden, zijn op deze personen of ondernemingen van toepassing wanneer zij in de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&titeldeel=II&afdeling=3&artikel=8&z=2004-10-29&g=2004-10-29) van dit Protocol bedoelde gebieden zijn gevestigd.
 
-#### Artikel 11
+##### Artikel 11
 
 De autoriteiten van de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&titeldeel=II&afdeling=3&artikel=8&z=2004-10-29&g=2004-10-29) genoemde gebieden behandelen alle natuurlijke of rechtspersonen van de Unie op dezelfde wijze.
 
-#### Artikel 12
+##### Artikel 12
 
 Indien zich bij toepassing van de in deze afdeling neergelegde regeling aan deze of gene zijde moeilijkheden voordoen in de betrekkingen tussen de Unie en de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&titeldeel=II&afdeling=3&artikel=8&z=2004-10-29&g=2004-10-29) genoemde gebieden, stelt de Commissie onverwijld aan de Raad de beschermingsmaatregelen voor die zij nodig acht en geeft zij de voorwaarden en de wijze van toepassing aan.
 
 De Raad stelt in voorkomend geval binnen een maand een Europese verordening of een Europees besluit vast.
 
-#### Artikel 13
+##### Artikel 13
 
 In de zin van deze afdeling wordt als onderdaan van de Kanaaleilanden of van het eiland Man beschouwd, iedere Britse burger die deze hoedanigheid bezit op grond van de omstandigheid dat een van zijn ouders of een van zijn grootouders aldaar is geboren, geadopteerd, genaturaliseerd of er in de registers van de burgerlijke stand is ingeschreven; in dit opzicht wordt evenwel iemand niet als onderdaan van deze gebieden beschouwd indien hijzelf, een van zijn ouders of een van zijn grootouders in het Verenigd Koninkrijk is geboren, geadopteerd, genaturaliseerd of daar in de registers van de burgerlijke stand is ingeschreven. Als onderdaan wordt evenmin beschouwd degene die, in welk tijdvak dan ook, gedurende vijf jaar in het Verenigd Koninkrijk woonachtig is geweest.
 
@@ -6717,7 +6736,7 @@ De Commissie wordt in kennis gesteld van de bestuursrechtelijke bepalingen die n
 
 ### AFDELING 4. BEPALINGEN BETREFFENDE DE UITVOERING VAN EEN POLITIEK INZAKE INDUSTRIALISATIE EN ECONOMISCHE ONTWIKKELING IN IERLAND
 
-#### Artikel 14
+##### Artikel 14
 
 De lidstaten nemen ervan kennis dat de Ierse regering een aanvang heeft gemaakt met de uitvoering van een politiek inzake industrialisatie en economische ontwikkeling die ten doel heeft de levensstandaard in Ierland nader te brengen tot die in de andere lidstaten en het tekort aan werkgelegenheid op te heffen, en tegelijk de regionale verschillen in ontwikkeling geleidelijk weg te werken.
 
@@ -6727,7 +6746,7 @@ De lidstaten erkennen in het bijzonder dat in geval van toepassing van de [artik
 
 ### AFDELING 5. BEPALINGEN BETREFFENDE DE UITWISSELING VAN KENNIS OP NUCLEAIR GEBIED MET DENEMARKEN
 
-#### Artikel 15
+##### Artikel 15
 
 1. Vanaf 1 januari 1973 wordt de kennis waarvan overeenkomstig [artikel 13 van het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie](https://wetten.overheid.nl/jci1.3:c:BWBV0004033&artikel=13) mededeling is gedaan aan de lidstaten en aan personen en ondernemingen, ter beschikking gesteld van Denemarken, dat deze kennis onder de in genoemd artikel bedoelde voorwaarden op beperkte wijze op zijn grondgebied verspreidt.
 
@@ -6751,7 +6770,7 @@ De lidstaten erkennen in het bijzonder dat in geval van toepassing van de [artik
 
 4. Denemarken verbindt zich ertoe, ter aanvulling van de verslagen die het zal toezenden, aan de Europese Gemeenschap voor Atoomenergie alle inlichtingen te verstrekken, met name bij bezoeken van personeel van de Europese Gemeenschap voor Atoomenergie of van de lidstaten aan het Centrum te Ris⊘, en wel onder voorwaarden die per geval in onderling overleg zullen worden vastgesteld.
 
-#### Artikel 16
+##### Artikel 16
 
 1. In de sectoren waarin Denemarken kennis ter beschikking stelt van de Europese Gemeenschap voor Atoomenergie, worden door de bevoegde instanties op verzoek licenties tegen commerciële voorwaarden verleend aan de lidstaten en aan personen en ondernemingen van de Gemeenschap, die uitsluitende rechten bezitten op in de lidstaten verkregen octrooien, voor zover zij geen verplichting of verbintenis jegens derden hebben om een uitsluitende of gedeeltelijk uitsluitende licentie op de rechten op deze octrooien te verlenen of aan te bieden.
 
@@ -6761,7 +6780,7 @@ Het verlenen van dergelijke uitsluitende of gedeeltelijk uitsluitende licenties 
 
 ### AFDELING 6. BEPALINGEN BETREFFENDE DE UITWISSELING VAN KENNIS OP NUCLEAIR GEBIED MET IERLAND
 
-#### Artikel 17
+##### Artikel 17
 
 1. Vanaf 1 januari 1973 wordt de kennis waarvan overeenkomstig [artikel 13 van het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie](https://wetten.overheid.nl/jci1.3:c:BWBV0004033&artikel=13) mededeling is gedaan aan de lidstaten, en aan personen en ondernemingen, ter beschikking gesteld van Ierland, dat deze kennis onder de in dit artikel bedoelde voorwaarden op beperkte wijze op zijn grondgebied verspreidt.
 
@@ -6769,7 +6788,7 @@ Het verlenen van dergelijke uitsluitende of gedeeltelijk uitsluitende licenties 
 
 3. De in de leden 1 en 2 bedoelde kennis betreft hoofdzakelijk de studies voor de ontwikkeling van een energiereactor en de werkzaamheden inzake radio-isotopen en de medische toepassing ervan, met inbegrip van de problemen inzake bescherming tegen straling.
 
-#### Artikel 18
+##### Artikel 18
 
 1. In de sectoren waarin Ierland kennis ter beschikking stelt van de Europese Gemeenschap voor Atoomenergie, worden door de bevoegde instanties op verzoek licenties tegen commerciële voorwaarden verleend aan de lidstaten en aan personen en ondernemingen van de Gemeenschap die uitsluitende rechten bezitten op in de lidstaten verkregen octrooien, voorzover zij geen verplichting of verbintenis jegens derden hebben om een uitsluitende of gedeeltelijk uitsluitende licentie op de rechten op deze octrooien te verlenen of aan te bieden.
 
@@ -6779,7 +6798,7 @@ Het verlenen van dergelijke uitsluitende of gedeeltelijk uitsluitende licenties 
 
 ### AFDELING 7. BEPALINGEN BETREFFENDE DE UITWISSELING VAN KENNIS OP NUCLEAIR GEBIED MET HET VERENIGD KONINKRIJK
 
-#### Artikel 19
+##### Artikel 19
 
 1. Vanaf 1 januari 1973 wordt de kennis waarvan overeenkomstig [artikel 13 van het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie](https://wetten.overheid.nl/jci1.3:c:BWBV0004033&artikel=13) mededeling is gedaan aan de lidstaten en aan personen en ondernemingen, ter beschikking gesteld van het Verenigd Koninkrijk, dat deze kennis onder de in genoemd artikel bedoelde voorwaarden op beperkte wijze op zijn grondgebied verspreidt.
 
@@ -6803,7 +6822,7 @@ Het verlenen van dergelijke uitsluitende of gedeeltelijk uitsluitende licenties 
 
 - h. instrumenten.
 
-#### Artikel 20
+##### Artikel 20
 
 1. In de sectoren waarin het Verenigd Koninkrijk kennis ter beschikking stelt van de Europese Gemeenschap voor Atoomenergie, worden door de bevoegde instanties, op verzoek licenties tegen commerciële voorwaarden verleend aan de lidstaten en aan personen en ondernemingen van de Gemeenschap, die uitsluitende rechten bezitten op in de lidstaten van de Gemeenschap verkregen octrooien, voorzover zij geen verplichting of verbintenis jegens derden hebben om een uitsluitende of gedeeltelijk uitsluitende licentie op de rechten op deze octrooien te verlenen of aan te bieden.
 
@@ -6815,7 +6834,7 @@ Het verlenen van dergelijke uitsluitende of gedeeltelijk uitsluitende licenties 
 
 ### AFDELING 1. BEPALINGEN BETREFFENDE DE TOEKENNING VAN VRIJSTELLING VAN INVOERRECHTEN VOOR BEPAALDE GOEDEREN DOOR DE HELLEENSE REPUBLIEK
 
-#### Artikel 21
+##### Artikel 21
 
 [Artikel III-151 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=3&paragraaf=1&artikel=III-151&z=2004-10-29&g=2004-10-29) vormt geen beletsel voor de Helleense Republiek om de vrijstellingen te handhaven die vóór 1 januari 1979 waren toegekend krachtens:
 
@@ -6829,13 +6848,13 @@ tot het verstrijken van de geldigheidsduur van de overeenkomsten tussen de Griek
 
 ### AFDELING 2. BEPALINGEN BETREFFENDE BELASTINGEN
 
-#### Artikel 22
+##### Artikel 22
 
 De in punt II.2 van bijlage VIII1)PB L 291 van 19.11.1979, blz. 163. bij de Akte betreffende de toetredingsvoorwaarden voor de Helleense Republiek genoemde handelingen zijn ten aanzien van de Helleense Republiek van toepassing op de in genoemde bijlage bepaalde wijze, met uitzondering van de handelingen bedoeld in de punten 9 en 18 b.
 
 ### AFDELING 3. BEPALINGEN BETREFFENDE KATOEN
 
-#### Artikel 23
+##### Artikel 23
 
 1. Deze afdeling heeft betrekking op niet-gekaarde en niet-gekamde katoen die valt onder post 520 100 van de gecombineerde nomenclatuur.
 
@@ -6871,7 +6890,7 @@ De Raad besluit na raadpleging van het Europees Parlement.
 
 ### AFDELING 4. BEPALINGEN BETREFFENDE DE ECONOMISCHE EN INDUSTRIËLE ONTWIKKELING VAN GRIEKENLAND
 
-#### Artikel 24
+##### Artikel 24
 
 De lidstaten nemen ervan kennis dat de Griekse Regering een aanvang heeft gemaakt met de uitvoering van een politiek inzake industrialisatie en economische ontwikkeling die ten doel heeft de levensstandaard in Griekenland nader te brengen tot die in de andere lidstaten en het tekort aan werkgelegenheid op te heffen, en tegelijk de regionale verschillen in ontwikkeling geleidelijk weg te werken.
 
@@ -6883,7 +6902,7 @@ In het bijzonder dient in geval van toepassing van de [artikelen III-167](https:
 
 ### AFDELING 5. BEPALINGEN BETREFFENDE DE UITWISSELING VAN KENNIS OP NUCLEAIR GEBIED MET DE HELLEENSE REPUBLIEK
 
-#### Artikel 25
+##### Artikel 25
 
 1. Vanaf 1 januari 1981 wordt de kennis waarvan overeenkomstig [artikel 13 van het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie](https://wetten.overheid.nl/jci1.3:c:BWBV0004033&artikel=13) mededeling is gedaan aan de lidstaten en aan personen en ondernemingen, ter beschikking gesteld van de Helleense Republiek, die deze kennis onder de in genoemd artikel bedoelde voorwaarden op beperkte wijze op haar grondgebied verspreidt.
 
@@ -6899,7 +6918,7 @@ In het bijzonder dient in geval van toepassing van de [artikelen III-167](https:
 
 - d. ontwikkeling van methoden voor het opsporen van radioactieve ertsen.
 
-#### Artikel 26
+##### Artikel 26
 
 1. In de sectoren waarin de Helleense Republiek kennis ter beschikking stelt van de Europese Gemeenschap voor Atoomenergie, worden door de bevoegde instanties op verzoek licenties tegen commerciële voorwaarden verleend aan de lidstaten en aan personen en ondernemingen van de Gemeenschap die uitsluitende rechten bezitten op in de lidstaten van de Gemeenschap verkregen octrooien, voorzover zij geen verplichting of verbintenis jegens derden hebben om een uitsluitende of gedeeltelijk uitsluitende licentie op de rechten op deze octrooien te verlenen of aan te bieden.
 
@@ -6911,13 +6930,13 @@ Het verlenen van dergelijke uitsluitende of gedeeltelijk uitsluitende licenties 
 
 ### AFDELING 1. FINANCIËLE BEPALINGEN
 
-#### Artikel 27
+##### Artikel 27
 
 De eigen middelen afkomstig uit de belasting over de toegevoegde waarde worden berekend en gecontroleerd alsof de Canarische Eilanden en Ceuta en Melilla binnen de territoriale werkingssfeer vallen van de Zesde Richtlijn 77/388/EEG van de Raad van 17 mei 1977 betreffende de harmonisatie van de wetgevingen der lidstaten inzake omzetbelasting – Gemeenschappelijk stelsel van belasting over de toegevoegde waarde: uniforme grondslag.
 
 ### AFDELING 2. BEPALINGEN BETREFFENDE OCTROOIEN
 
-#### Artikel 28
+##### Artikel 28
 
 De Spaanse nationale wetgeving inzake bewijslast, vastgesteld overeenkomstig punt 2 van Protocol nr. 8 bij de Akte betreffende de toetredingsvoorwaarden voor het Koninkrijk Spanje en de Portugese Republiek, is niet van toepassing indien de rechtsvordering ter zake van inbreuk wordt ingesteld tegen de houder van een ander werkwijze-octrooi voor de vervaardiging van hetzelfde product als het product dat het resultaat is van de werkwijze waarop de eiser een octrooi heeft, indien dit andere octrooi vóór 1 januari 1986 is verleend.
 
@@ -6925,7 +6944,7 @@ In de gevallen waarin de omkering van de bewijslast niet van toepassing is, kan 
 
 Onder beschrijvend beslag wordt in het kader van de in de eerste en de tweede alinea bedoelde regeling een procedure verstaan volgens welke eenieder die gerechtigd is een rechtsvordering ter zake van inbreuk in te stellen, bij een op zijn verzoek gedane rechterlijke uitspraak, kan verkrijgen dat een deurwaarder, bijgestaan door deskundigen, op de plaats waar de vermoedelijke inbreukmaker is gevestigd, overgaat tot een gedetailleerde beschrijving van de betwiste werkwijzen, met name door het maken van fotokopieën van technische documenten, al dan niet met zakelijk beslag. In deze rechterlijke uitspraak kan het betalen van een borgsom worden gelast, die bestemd is om aan de vermoedelijke inbreukmaker schadevergoeding toe te kennen wanneer door het beschrijvend beslag schade is veroorzaakt.
 
-#### Artikel 29
+##### Artikel 29
 
 De Portugese nationale wetgeving inzake bewijslast, vastgesteld overeenkomstig punt 2 van Protocol nr. 19 bij de Akte betreffende de toetredingsvoorwaarden voor het Koninkrijk Spanje en de Portugese Republiek, is niet van toepassing indien de rechtsvordering ter zake van inbreuk wordt ingesteld tegen de houder van een ander werkwijze-octrooi voor de vervaardiging van hetzelfde product als het product dat het resultaat is van de werkwijze waarop de eiser een octrooi heeft, indien dit andere octrooi vóór 1 januari 1986 is verleend.
 
@@ -6935,7 +6954,7 @@ Onder beschrijvend beslag wordt in het kader van de in de eerste en de tweede al
 
 ### AFDELING 3. BEPALINGEN BETREFFENDE HET MECHANISME HOUDENDE AANVULLING VAN DE TEGENPRESTATIES IN HET KADER VAN DOOR DE UNIE MET DERDE LANDEN GESLOTEN VISSERIJOVEREENKOMSTEN
 
-#### Artikel 30
+##### Artikel 30
 
 1. Er wordt een specifieke regeling ingesteld voor het verrichten van activiteiten ter aanvulling van visserijactiviteiten die door vaartuigen onder de vlag van een lidstaat worden verricht in wateren die onder de soevereiniteit of de jurisdictie van een derde land vallen, in het kader van de bij een visserijovereenkomst tussen de Unie en de betrokken derde landen ingestelde tegenprestaties.
 
@@ -6955,7 +6974,7 @@ De wijze van toepassing van deze regeling alsmede de betrokken hoeveelheden word
 
 #### Onderafdeling 1. Algemene bepalingen
 
-#### Artikel 31
+##### Artikel 31
 
 1. De Grondwet en de handelingen van de instellingen zijn van toepassing op Ceuta en Melilla, onder voorbehoud van de in de leden 2 en 3 en in de andere bepalingen van deze afdeling genoemde afwijkingen.
 
@@ -6975,7 +6994,7 @@ De Raad besluit met eenparigheid van stemmen, na raadpleging van het Europees Pa
 
 #### Onderafdeling 2. Bepalingen betreffende het gemeenschappelijk visserijbeleid
 
-#### Artikel 32
+##### Artikel 32
 
 1. Behoudens lid 2 en onverminderd onderafdeling 3, is het gemeenschappelijk visserijbeleid niet van toepassing op Ceuta en Melilla.
 
@@ -6991,7 +7010,7 @@ De Raad besluit met eenparigheid van stemmen, na raadpleging van het Europees Pa
 
 #### Onderafdeling 3. Bepalingen betreffende het vrije verkeer van goederen, de douanewetgeving en de handelspolitiek
 
-#### Artikel 33
+##### Artikel 33
 
 1. De producten van oorsprong uit Ceuta of Melilla, alsmede de producten van herkomst uit derde landen die op Ceuta of Melilla worden ingevoerd in het kader van de regelingen die aldaar op die producten van toepassing zijn, worden bij het in het vrije verkeer brengen op het douanegebied van de Unie niet beschouwd als goederen die voldoen aan de voorwaarden van [artikel III-151, leden 1 tot en met 3, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=3&paragraaf=1&artikel=III-151&z=2004-10-29&g=2004-10-29).
 
@@ -7003,11 +7022,11 @@ De Raad besluit met eenparigheid van stemmen, na raadpleging van het Europees Pa
 
 5. Behoudens andersluidende bepalingen in deze titel, past de Unie in het handelsverkeer met Ceuta en Melilla in producten die onder [bijlage I van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&bijlage=I&z=2004-10-29&g=2004-10-29) vallen, de algemene regeling toe die zij toepast ten aanzien van derde landen.
 
-#### Artikel 34
+##### Artikel 34
 
 Onder voorbehoud van [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&titeldeel=IV&afdeling=4&paragraaf=3&artikel=35&z=2004-10-29&g=2004-10-29) worden de douanerechten bij invoer op het douanegebied van de Unie van producten van oorsprong uit Ceuta of Melilla afgeschaft.
 
-#### Artikel 35
+##### Artikel 35
 
 1. Voor visserijproducten van de posten 03.01, 03.02, 03.03, 05.11.91, 16.04, 16.05 en 23.01.20 van het gemeenschappelijk douanetarief, van oorsprong uit Ceuta of Melilla, geldt op het gehele douanegebied van de Unie een vrijstelling van douanerechten binnen de grenzen van tariefcontingenten die worden berekend per product en op basis van het gemiddelde van de in de jaren 1982, 1983 en 1984 werkelijk afgezette hoeveelheden.
 
@@ -7015,21 +7034,21 @@ De producten die in het kader van deze tariefcontingenten op het douanegebied va
 
 2. De Raad stelt, op voorstel van de Commissie, jaarlijks bij Europese verordening of Europees besluit de opening en de verdeling van de contingenten overeenkomstig het bepaalde in lid 1 vast.
 
-#### Artikel 36
+##### Artikel 36
 
 1. Indien de toepassing van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&titeldeel=IV&afdeling=4&paragraaf=3&artikel=34&z=2004-10-29&g=2004-10-29) zou leiden tot een aanmerkelijke groei van de invoer van bepaalde producten van oorsprong uit Ceuta of Melilla waardoor producenten in de Unie schade kunnen leiden, kan de Raad, op voorstel van de Commissie, bij Europese verordening of Europees besluit de toegang van deze producten tot het douanegebied van de Unie aan bijzondere voorwaarden onderwerpen.
 
 2. Indien, vanwege het niet toepassen van de gemeenschappelijke handelspolitiek en van het gemeenschappelijk douanetarief op de invoer van grondstoffen of gedeeltelijk veredelde producten in Ceuta of Melilla, de invoer van een product van oorsprong uit Ceuta of Melilla ernstig nadeel toebrengt of dreigt toe te brengen aan een productieactiviteit die in een of meer lidstaten wordt uitgeoefend, kan de Commissie, op verzoek van een lidstaat of op eigen initiatief, passende maatregelen nemen.
 
-#### Artikel 37
+##### Artikel 37
 
 De douanerechten bij invoer in Ceuta of Melilla van producten van oorsprong uit het douanegebied van de Unie, alsmede de heffingen van gelijke werking als deze rechten worden afgeschaft.
 
-#### Artikel 38
+##### Artikel 38
 
 De douanerechten en heffingen van gelijke werking als deze rechten alsmede de regeling voor het handelsverkeer die worden toegepast op de invoer in Ceuta of Melilla van goederen uit een derde land, mogen niet minder gunstig zijn dan die welke de Unie overeenkomstig haar internationale verbintenissen of haar preferentiële regelingen toepast jegens dit derde land, onder het voorbehoud dat dit derde land de invoer uit Ceuta en Melilla op dezelfde wijze behandelt als de invoer uit de Unie. De regeling die bij invoer in Ceuta of Melilla wordt toegepast ten aanzien van goederen uit dit derde land, mag evenwel niet gunstiger zijn dan de regeling die wordt toegepast ten aanzien van de invoer van producten van oorsprong uit het douanegebied van de Unie.
 
-#### Artikel 39
+##### Artikel 39
 
 Op voorstel van de Commissie stelt de Raad bij Europese verordening of Europees besluit de voorschriften voor de toepassing van deze onderafdeling vast, met name de oorsprongregels die van toepassing zijn in het handelsverkeer bedoeld in de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&titeldeel=IV&afdeling=4&paragraaf=3&artikel=34&z=2004-10-29&g=2004-10-29), [35](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&titeldeel=IV&afdeling=4&paragraaf=3&artikel=35&z=2004-10-29&g=2004-10-29) en [37](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&titeldeel=IV&afdeling=4&paragraaf=3&artikel=37&z=2004-10-29&g=2004-10-29), met inbegrip van de bepalingen betreffende de identificatie van de producten van oorsprong en de controle van de oorsprong.
 
@@ -7037,7 +7056,7 @@ Deze regels bevatten met name bepalingen inzake het merken en/of etiketteren van
 
 ### AFDELING 5. BEPALINGEN BETREFFENDE DE REGIONALE ONTWIKKELING VAN SPANJE
 
-#### Artikel 40
+##### Artikel 40
 
 De lidstaten nemen ervan kennis dat de Spaanse regering een aanvang heeft gemaakt met de uitvoering van een beleid inzake regionale ontwikkeling dat met name ten doel heeft de economische groei in de minst ontwikkelde gebieden en zones van Spanje te stimuleren.
 
@@ -7049,7 +7068,7 @@ De lidstaten erkennen in het bijzonder dat in geval van toepassing van de [artik
 
 ### AFDELING 6. BEPALINGEN BETREFFENDE DE ECONOMISCHE EN INDUSTRIËLE ONTWIKKELING VAN PORTUGAL
 
-#### Artikel 41
+##### Artikel 41
 
 De lidstaten nemen ervan kennis dat de Portugese regering een aanvang heeft gemaakt met de uitvoering van een beleid inzake industrialisatie en economische ontwikkeling dat ten doel heeft de levensstandaard in Portugal nader te brengen tot die van de andere lidstaten en het tekort aan werkgelegenheid op te heffen, en tegelijk de regionale verschillen in ontwikkeling geleidelijk weg te werken.
 
@@ -7061,7 +7080,7 @@ De lidstaten erkennen in het bijzonder dat in geval van toepassing van de [artik
 
 ### AFDELING 7. BEPALINGEN BETREFFENDE DE UITWISSELING VAN KENNIS OP NUCLEAIR GEBIED MET HET KONINKRIJK SPANJE
 
-#### Artikel 42
+##### Artikel 42
 
 1. Vanaf 1 januari 1986 wordt de kennis waarvan overeenkomstig [artikel 13 van het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie](https://wetten.overheid.nl/jci1.3:c:BWBV0004033&artikel=13) mededeling is gedaan aan de lidstaten en aan personen en ondernemingen, ter beschikking gesteld van het Koninkrijk Spanje, dat deze kennis onder de in genoemd artikel bedoelde voorwaarden op beperkte wijze op zijn grondgebied verspreidt.
 
@@ -7079,7 +7098,7 @@ De lidstaten erkennen in het bijzonder dat in geval van toepassing van de [artik
 
 - e. onderzoek op het gebied van de splijtstofcyclus (meer in het bijzonder: winning en bewerking van arme uraniumertsen; optimalisering van splijtstofelementen voor energiereactoren).
 
-#### Artikel 43
+##### Artikel 43
 
 1. In de sectoren waarin het Koninkrijk Spanje kennis ter beschikking stelt van de Europese Gemeenschap voor Atoomenergie, worden door de bevoegde instanties op verzoek licenties tegen commerciële voorwaarden verleend aan de lidstaten en aan personen en ondernemingen van de Gemeenschap die uitsluitende rechten bezitten op in de lidstaten verkregen octrooien, voorzover zij geen verplichting of verbintenis jegens derden hebben om een uitsluitende of gedeeltelijk uitsluitende licentie op de rechten op deze octrooien te verlenen of aan te bieden.
 
@@ -7089,7 +7108,7 @@ Het verlenen van dergelijke uitsluitende of gedeeltelijk uitsluitende licenties 
 
 ### AFDELING 8. BEPALINGEN BETREFFENDE DE UITWISSELING VAN KENNIS OP NUCLEAIR GEBIED MET DE PORTUGESE REPUBLIEK
 
-#### Artikel 44
+##### Artikel 44
 
 1. Vanaf 1 januari 1986 wordt de kennis waarvan overeenkomstig [artikel 13 van het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie](https://wetten.overheid.nl/jci1.3:c:BWBV0004033&artikel=13) mededeling is gedaan aan de lidstaten en aan personen en ondernemingen, ter beschikking gesteld van de Portugese Republiek, die deze kennis onder de in dit artikel genoemde voorwaarden op beperkte wijze op haar grondgebied verspreidt.
 
@@ -7107,7 +7126,7 @@ Het verlenen van dergelijke uitsluitende of gedeeltelijk uitsluitende licenties 
 
 - e. winningsmetallurgie van uranium.
 
-#### Artikel 45
+##### Artikel 45
 
 1. In de sectoren waarin de Portugese Republiek kennis ter beschikking stelt van de Europese Gemeenschap voor Atoomenergie, worden door de bevoegde instanties op verzoek licenties tegen commerciële voorwaarden verleend aan de lidstaten, en aan personen en ondernemingen van de Gemeenschap die uitsluitende rechten bezitten op in de lidstaten verkregen octrooien, voorzover zij jegens derden geen verplichting of verbintenis hebben om een uitsluitende of gedeeltelijk uitsluitende licentie op de rechten op deze octrooien te verlenen of aan te bieden.
 
@@ -7119,17 +7138,17 @@ Het verlenen van dergelijke uitsluitende of gedeeltelijk uitsluitende licenties 
 
 ### AFDELING 1. FINANCIËLE BEPALINGEN
 
-#### Artikel 46
+##### Artikel 46
 
 De eigen ontvangsten afkomstig uit de belasting over de toegevoegde waarde worden berekend en gecontroleerd alsof de Åland-eilanden onder het territoriale toepassingsgebied vielen van de Zesde Richtlijn van de Raad (77/388/EEG) van 17 mei 1977 betreffende de harmonisatie van de wetgevingen der lidstaten inzake omzetbelasting – Gemeenschappelijk stelsel van belasting over de toegevoegde waarde: uniforme grondslag.
 
 ### AFDELING 2. BEPALINGEN INZAKE DE LANDBOUW
 
-#### Artikel 47
+##### Artikel 47
 
 Indien ten gevolge van de toetreding ernstige moeilijkheden blijven bestaan ook nadat het bepaalde in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&titeldeel=V&afdeling=2&artikel=48&z=2004-10-29&g=2004-10-29) en in de andere maatregelen voortvloeiende uit in de Unie bestaande voorschriften volledig zijn toegepast, kan de Commissie bij Europees besluit Finland machtigen, nationale steun aan producenten toe te kennen ten einde hun integratie in het gemeenschappelijk landbouwbeleid te vergemakkelijken.
 
-#### Artikel 48
+##### Artikel 48
 
 1. De Commissie machtigt Finland en Zweden bij Europees besluit om nationale steun op lange termijn te verlenen met het oog op de handhaving van landbouwactiviteit in specifieke gebieden. Deze gebieden omvatten de landbouwarealen benoorden de 62e breedtegraad en bepaalde aangrenzende gebieden ten zuiden van deze breedtegraad die te kampen hebben met vergelijkbare klimatologische omstandigheden welke de landbouwactiviteit bijzonder moeilijk maken.
 
@@ -7159,7 +7178,7 @@ De steun kan met name worden verleend om:
 
 - d. het milieu te beschermen en de natuurlijke omgeving in stand te houden.
 
-#### Artikel 49
+##### Artikel 49
 
 1. Van de in de [artikelen 47](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&titeldeel=V&afdeling=2&artikel=47&z=2004-10-29&g=2004-10-29) en [48](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&titeldeel=V&afdeling=2&artikel=48&z=2004-10-29&g=2004-10-29) bedoelde steun, alsmede van elke andere nationale steun waarvoor in het kader van deze Akte machtiging van de Commissie is vereist, wordt kennis gegeven aan de Commissie. Steun kan niet worden verleend zolang deze machtiging niet is verleend.
 
@@ -7171,7 +7190,7 @@ De steun kan met name worden verleend om:
 
 Met het oog op de opstelling van dit verslag verstrekken de lidstaten waarvoor de machtigingen zijn bestemd, de Commissie tijdig gegevens over de gevolgen van de verleende steun, waarbij zij een beeld schetsen van de ontwikkeling die in de landbouweconomie van de betrokken gebieden is geconstateerd.
 
-#### Artikel 50
+##### Artikel 50
 
 Wat de in de [artikelen III-167](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=5&paragraaf=2&artikel=III-167&z=2004-10-29&g=2004-10-29) en [III-168 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=5&paragraaf=2&artikel=III-168&z=2004-10-29&g=2004-10-29) bedoelde steunmaatregelen betreft:
 
@@ -7179,25 +7198,25 @@ Wat de in de [artikelen III-167](https://wetten.overheid.nl/jci1.3:c:BWBV0005879
 
 - b. worden bestaande steunmaatregelen en plannen om steunmaatregelen in te voeren of te wijzigen die vóór 1 januari 1995 ter kennis van de Commissie zijn gebracht, beschouwd als steunmaatregelen en plannen waarvan op die datum kennis is gegeven.
 
-#### Artikel 51
+##### Artikel 51
 
 1. Behoudens andersluidende bepalingen voor specifieke gevallen, stelt de Raad op voorstel van de Commissie bij Europese verordening of bij Europees besluit de bepalingen ter uitvoering van deze afdeling vast.
 
 2. De Raad kan bij Europese wet in deze afdeling de aanpassingen aanbrengen die noodzakelijk kunnen blijken ingeval van wijzigingen van het recht van de Unie. De Raad besluit met eenparigheid van stemmen, na raadpleging van het Europees Parlement.
 
-#### Artikel 52
+##### Artikel 52
 
 1. Indien overgangsmaatregelen nodig zijn ten behoeve van de overgang van de in Oostenrijk, Finland en Zweden bestaande regeling naar die welke voortvloeit uit de toepassing van de gemeenschappelijke ordening der markten overeenkomstig de Akte betreffende de toetredingsvoorwaarden voor de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden, worden deze maatregelen vastgesteld volgens de procedure van artikel 38 van Verordening nr. 136/66/EEG of, naargelang van het geval, van de overeenkomstige artikelen van de andere verordeningen houdende een gemeenschappelijke ordening der landbouwmarkten. Deze maatregelen kunnen worden genomen gedurende een tijdvak dat verstrijkt op 31 december 1997; de toepassing ervan is beperkt tot die datum.
 
 2. De Raad kan bij Europese wet het in lid 1 bedoelde tijdvak verlengen. De Raad besluit met eenparigheid van stemmen, na raadpleging van het Europees Parlement.
 
-#### Artikel 53
+##### Artikel 53
 
 De [artikelen 51](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&titeldeel=V&afdeling=2&artikel=51&z=2004-10-29&g=2004-10-29) en [52](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&titeldeel=V&afdeling=2&artikel=52&z=2004-10-29&g=2004-10-29) zijn van toepassing op visserijproducten.
 
 ### AFDELING 3. BEPALINGEN BETREFFENDE OVERGANGSMAATREGELEN
 
-#### Artikel 54
+##### Artikel 54
 
 De besluiten die worden genoemd in de punten VII.B.I, VII.D.1, VII.D.2.c, IX.2.b, c, f, g, h, i, j, l, m, n, x, y, z en aa, X.a, b en c van bijlage XV1)PB C 241 van 29.8.1994, blz. 322. van de Akte betreffende de toetredingsvoorwaarden voor de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden zijn ten aanzien van Oostenrijk, Finland en Zweden van toepassing zoals in die bijlage is bepaald.
 
@@ -7205,7 +7224,7 @@ Ten aanzien van punt IX.2.x van de in de eerste alinea bedoelde bijlage XV geldt
 
 ### AFDELING 4. BEPALINGEN BETREFFENDE DE TOEPASBAARHEID VAN BEPAALDE HANDELINGEN
 
-#### Artikel 55
+##### Artikel 55
 
 1. De individuele vrijstellingsbeschikkingen en beschikkingen waarin geen vrijstelling wordt verleend, die vóór 1 januari 1995 krachtens [artikel 53 van de Overeenkomst betreffende de Europese Economische Ruimte](https://wetten.overheid.nl/jci1.3:c:BWBV0001070&artikel=53) (EER) of artikel 1 van Protocol nr. 25 bij die Overeenkomst zijn vastgesteld door de Toezichthoudende Autoriteit van de Europese Vrijhandelsassociatie (EVA) of door de Commissie en die betrekking hebben op gevallen die ingevolge de toetreding onder [artikel 81 van het Verdrag tot oprichting van de Europese Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=81) vallen, blijven ter fine van [artikel III-161 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=5&paragraaf=1&artikel=III-161&z=2004-10-29&g=2004-10-29) van kracht tot de in die beschikkingen vermelde datum of totdat de Commissie overeenkomstig het Unierecht een met redenen omkleed Europees besluit neemt.
 
@@ -7215,7 +7234,7 @@ Ten aanzien van punt IX.2.x van de in de eerste alinea bedoelde bijlage XV geldt
 
 ### AFDELING 5. BEPALINGEN INZAKE DE ÅLAND-EILANDEN
 
-#### Artikel 56
+##### Artikel 56
 
 De Grondwet belet niet de toepassing van de op 1 januari 1994 op de Åland-eilanden bestaande bepalingen inzake:
 
@@ -7223,7 +7242,7 @@ De Grondwet belet niet de toepassing van de op 1 januari 1994 op de Åland-eilan
 
 - b. beperkingen, op niet-discriminatoire basis, van het recht van natuurlijke personen die niet het regionale burgerschap „hembygdsrätt/kotiseutuoikeus” in Åland genieten, en van rechtspersonen, om zich op de Åland-eilanden te vestigen en er diensten te verlenen zonder de toestemming van de bevoegde autoriteiten van de Åland-eilanden.
 
-#### Artikel 57
+##### Artikel 57
 
 1. Het gebied van de Åland-eilanden, dat wordt beschouwd als een derde grondgebied in de zin van artikel 3, lid 1, derde streepje, van Richtlijn 77/388/EEG van de Raad en als een nationaal gebied dat buiten het toepassingsgebied valt van de richtlijnen inzake de harmonisatie van accijnzen, in de zin van artikel 2 van Richtlijn 92/12/EEG van de Raad, valt buiten de territoriale toepassing van het Unierecht op het gebied van de harmonisatie van de wetgevingen van de lidstaten inzake omzetbelastingen en accijnzen en andere vormen van indirecte belastingen.
 
@@ -7231,37 +7250,37 @@ Deze bepaling is niet van toepassing op het bepaalde in Richtlijn 69/335/EEG van
 
 2. De in lid 1 bepaalde uitzondering heeft ten doel, een leefbare lokale economie op de eilanden in stand te houden en mag geen negatieve gevolgen hebben voor de belangen van de Unie, noch voor haar gemeenschappelijke beleidsvormen. Indien de Commissie van oordeel is dat de in lid 1 bedoelde bepalingen niet langer gerechtvaardigd zijn, met name in verband met eerlijke concurrentie of de eigen middelen, legt zij passende voorstellen voor aan de Raad, die de nodige handelingen vaststelt overeenkomstig de desbetreffende artikelen van de Grondwet.
 
-#### Artikel 58
+##### Artikel 58
 
 Finland draagt er zorg voor dat alle natuurlijke en rechtspersonen van de lidstaten op de Åland-eilanden op eendere wijze worden behandeld.
 
-#### Artikel 59
+##### Artikel 59
 
 De bepalingen van deze afdeling worden toegepast in het licht van de verklaring betreffende de Åland-eilanden, waarin met behoud van de juridische strekking de bewoordingen zijn overgenomen van de preambule van Protocol nr. 2 van de Akte betreffende de toetredingsvoorwaarden voor de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden.
 
 ### AFDELING 6. BEPALINGEN INZAKE DE LAPSE BEVOLKING
 
-#### Artikel 60
+##### Artikel 60
 
 Niettegenstaande de bepalingen van de Grondwet, kunnen aan de Lapse bevolking exclusieve rechten inzake rendierhouderij binnen de traditionele Lapse gebieden worden toegekend.
 
-#### Artikel 61
+##### Artikel 61
 
 Deze afdeling kan worden uitgebreid om rekening te houden met eventuele toekomstige ontwikkelingen van de exclusieve rechten van de Lapse bevolking in verband met hun traditionele middelen van bestaan. De Raad kan bij Europese wet de nodige wijzigingen van deze afdeling vaststellen. De Raad besluit met eenparigheid van stemmen, na raadpleging van het Europees Parlement en van het Comité van de Regio's.
 
-#### Artikel 62
+##### Artikel 62
 
 De bepalingen van deze afdeling worden toegepast in het licht van de verklaring betreffende het Lapse volk, waarin met behoud van de juridische strekking de bewoordingen zijn overgenomen van de preambule van Protocol nr. 3 van de Akte betreffende de toetredingsvoorwaarden voor de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden.
 
 ### AFDELING 7. BIJZONDERE BEPALINGEN IN HET KADER VAN DE FONDSEN MET STRUCTURELE STREKKING MET BETREKKING TOT FINLAND EN ZWEDEN
 
-#### Artikel 63
+##### Artikel 63
 
 De regio's die vallen onder de doelstelling, de ontwikkeling en de structurele aanpassing van de regio's met een zeer lage bevolkingsdichtheid te bevorderen, komen overeen met of behoren in principe tot regio's van niveau II van NUTS met een bevolkingsdichtheid van ten hoogste acht personen per vierkante kilometer. De bijstandsverlening van de Unie kan, op voorwaarde dat zij daadwerkelijk wordt geconcentreerd, ook worden uitgebreid tot aangrenzende en kleinere gebieden die aan hetzelfde criterium inzake bevolkingsdichtheid voldoen. De in dit artikel bedoelde regio's en gebieden staan in de lijst van bijlage I1)PB C 241 van 29.8.1994, blz. 355. van Protocol nr. 6 bij de Akte betreffende de toetredingsvoorwaarden voor de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden.
 
 ### AFDELING 8. BEPALINGEN BETREFFENDE VERVOER PER SPOOR EN GECOMBINEERD VERVOER IN OOSTENRIJK
 
-#### Artikel 64
+##### Artikel 64
 
 1. In deze afdeling zijn de volgende definities van toepassing:
 
@@ -7271,35 +7290,35 @@ De regio's die vallen onder de doelstelling, de ontwikkeling en de structurele a
 
 2. De [artikelen 65 tot en met 71](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&titeldeel=V&afdeling=8&artikel=65&z=2004-10-29&g=2004-10-29) zijn van toepassing op maatregelen betreffende vervoer per spoor en gecombineerd vervoer over het grondgebied van Oostenrijk.
 
-#### Artikel 65
+##### Artikel 65
 
 De Unie en de betrokken lidstaten treffen, in het kader van hun onderscheiden bevoegdheden, maatregelen voor de ontwikkeling en de bevordering van het vervoer per spoor en het gecombineerd vervoer voor het vervoeren van goederen door de Alpen; zij stemmen deze maatregelen nauw op elkaar af.
 
-#### Artikel 66
+##### Artikel 66
 
 De Unie draagt er bij de vaststelling van de in [artikel III-247 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=III&afdeling=8&artikel=III-247&z=2004-10-29&g=2004-10-29) bedoelde richtsnoeren zorg voor dat de in bijlage 11)PB C 241 van 29.8.1994, blz. 364.van Protocol nr. 9 van de Akte betreffende de toetredingsvoorwaarden voor de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden vermelde hoofdroutes deel uitmaken van de trans-Europese netwerken voor vervoer per spoor en gecombineerd vervoer en dat deze bovendien worden aangemerkt als projecten van gemeenschappelijk belang.
 
-#### Artikel 67
+##### Artikel 67
 
 De Unie en de betrokken lidstaten voeren in het kader van hun onderscheiden bevoegdheden de in bijlage 22)PB C 241 van 29.8.1994, blz. 365. van Protocol nr. 9 van de Akte betreffende de toetredingsvoorwaarden voor de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden vermelde maatregelen uit.
 
-#### Artikel 68
+##### Artikel 68
 
 De Unie en de betrokken lidstaten stellen alles in het werk om de in bijlage 33)PB C 241 van 29.8.1994, blz. 367. van Protocol nr. 9 van de Akte betreffende de toetredingsvoorwaarden voor de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden bedoelde aanvullende spoorwegcapaciteit te ontwikkelen en te gebruiken.
 
-#### Artikel 69
+##### Artikel 69
 
 De Unie en de betrokken lidstaten nemen maatregelen ter bevordering van het vervoer per spoor en het gecombineerd vervoer. Indien passend, worden deze maatregelen, behoudens de bepalingen van de Grondwet, vastgesteld in nauwe samenwerking met spoorwegondernemingen en andere entiteiten die vervoer per spoor aanbieden. Er zal voorrang worden gegeven aan de in het Unierecht vervatte maatregelen betreffende vervoer per spoor en gecombineerd vervoer. Bij de uitvoering van deze maatregelen wordt bijzondere aandacht besteed aan het concurrentievermogen, de doeltreffendheid en de kostentransparantie van het vervoer per spoor en het gecombineerd vervoer. De betrokken lidstaten dienen deze maatregelen inzonderheid te nemen om ervoor te zorgen dat de prijzen voor gecombineerd vervoer concurrerend zijn met de prijzen van andere wijzen van vervoer. Eventuele steun in dit verband moet verenigbaar zijn met de voorschriften van het Unierecht.
 
-#### Artikel 70
+##### Artikel 70
 
 De Unie en de betrokken lidstaten treden in geval van een ernstige verstoring van het transitovervoer per spoor, bijvoorbeeld bij natuurrampen, zoveel mogelijk gezamenlijk op om de verkeersstroom in stand te houden. Daarbij moet voorrang worden gegeven aan gevoelige ladingen, zoals bederfelijke levensmiddelen.
 
-#### Artikel 71
+##### Artikel 71
 
 De Commissie evalueert de uitvoering van deze afdeling volgens de procedure van [artikel 73, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&titeldeel=V&afdeling=8&artikel=73&z=2004-10-29&g=2004-10-29).
 
-#### Artikel 72
+##### Artikel 72
 
 1. Dit artikel is van toepassing op het vervoer van goederen over de weg binnen het grondgebied van de Gemeenschap.
 
@@ -7327,7 +7346,7 @@ De Commissie evalueert de uitvoering van deze afdeling volgens de procedure van 
 
 De in de eerste alinea bedoelde maatregelen moeten ervoor zorgen dat de feitelijke situatie die voor de huidige lidstaten voortvloeit uit de toepassing van Verordening (EEG) nr. 3637/92 van de Raad en van de op 23 december 1992 ondertekende Administratieve Overeenkomst betreffende de datum van inwerkingtreding en de procedures voor de invoering van het ecopuntensysteem als bedoeld in de Transito-overeenkomst, gehandhaafd blijft. Daarbij zal alles in het werk worden gesteld om ervoor te zorgen dat bij de toekenning van ecopunten aan Griekenland in voldoende mate rekening wordt gehouden met de Griekse behoeften in dit verband.
 
-#### Artikel 73
+##### Artikel 73
 
 1. De Commissie wordt bijgestaan door een comité.
 
@@ -7337,7 +7356,7 @@ De in de eerste alinea bedoelde maatregelen moeten ervoor zorgen dat de feitelij
 
 ### AFDELING 9. BEPALINGEN INZAKE HET GEBRUIK VAN SPECIFIEKE OOSTENRIJKSE TERMEN BINNEN DE DUITSE TAAL IN HET KADER VAN DE EUROPESE UNIE
 
-#### Artikel 74
+##### Artikel 74
 
 1. De specifieke Oostenrijkse termen binnen de Duitse taal die voorkomen in het Oostenrijks rechtsstelsel en die in de bijlage1)PB C 241 van 29.08.1994, blz. 370.van Protocol nr. 10 van de Akte betreffende de toetredingsvoorwaarden voor de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden worden genoemd, hebben dezelfde status en dezelfde rechtsgevolgen als de daarmee overeenkomende, in Duitsland gebruikte termen welke in die bijlage worden genoemd. van Protocol nr. 10 van de Akte betreffende de toetredingsvoorwaarden voor de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden worden genoemd, hebben dezelfde status en dezelfde rechtsgevolgen als de daarmee overeenkomende, in Duitsland gebruikte termen welke in die bijlage worden genoemd.
 
@@ -7359,7 +7378,7 @@ Hebben overeenstemming bereikt omtrent de volgende bepalingen, die aan het Verdr
 
 ## TITEL I. BEGINSELEN
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit Protocol:
 
@@ -7375,11 +7394,11 @@ Voor de toepassing van dit Protocol:
 
 - f. worden met de uitdrukking „nieuwe lidstaten” bedoeld de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek.
 
-#### Artikel 2
+##### Artikel 2
 
 De rechten en verplichtingen die voortvloeien uit het in [artikel IV-437, lid 2, onder e, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=IV&artikel=IV-437&z=2004-10-29&g=2004-10-29) bedoelde Verdrag betreffende de toetreding van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek, zijn onder de in dat Verdrag gestelde voorwaarden op 1 mei 2004 van kracht geworden.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De bepalingen van het Schengenacquis die in het kader van de Unie zijn geïntegreerd door het Protocol dat is gehecht aan het Verdrag tot vaststelling van een Grondwet voor Europa (hierna het „Schengenprotocol” genoemd), en de daarop voortbouwende of op een andere wijze daaraan gerelateerde handelingen die zijn opgesomd in bijlage I bij de Akte van toetreding van 16 april 2003, en alle andere dergelijke handelingen die zijn vastgesteld vóór 1 mei 2004, zijn vanaf 1 mei 2004 verbindend voor en toepasselijk in de nieuwe lidstaten.
 
@@ -7395,17 +7414,17 @@ De Raad besluit, na raadpleging van het Europees Parlement, met eenparigheid van
 
 - b. bestuursrechtelijke en andere regelingen in te voeren in de trant van de regelingen die de huidige lidstaten of de Raad vóór 1 mei 2004 hebben aangenomen ter vergemakkelijking van de praktische samenwerking tussen de instellingen en organisaties van de lidstaten die actief zijn op het gebied van justitie en binnenlandse zaken.
 
-#### Artikel 4
+##### Artikel 4
 
 Vanaf 1 mei 2004 neemt iedere nieuwe lidstaat aan de economische en monetaire unie deel als lidstaat die onder een derogatie valt in de zin van [artikel III-197 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=5&artikel=III-197&z=2004-10-29&g=2004-10-29).
 
-#### Artikel 5
+##### Artikel 5
 
 1. De nieuwe lidstaten, die bij de Akte van toetreding van 16 april 2003 zijn toegetreden tot de door de Vertegenwoordigers van de Regeringen der lidstaten, in het kader van de Raad bijeen, genomen besluiten en gesloten overeenkomsten, zijn ertoe gehouden toe te treden tot elke andere door de huidige lidstaten gesloten overeenkomst die de werking van de Unie betreft of in nauw verband staat met het optreden van deze Unie.
 
 2. De nieuwe lidstaten zijn ertoe gehouden toe te treden tot de overeenkomsten bedoeld in [artikel 293 van het EG-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=293) en tot de overeenkomsten die niet te scheiden zijn van de verwezenlijking van de doelstellingen van het [EG-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506), voorzover deze nog van kracht zijn, alsmede tot de Protocollen betreffende de uitlegging door het Hof van Justitie van de Europese Gemeenschappen van deze overeenkomsten, die door de huidige lidstaten zijn ondertekend, en te dien einde onderhandelingen aan te knopen met deze lidstaten om daarin de vereiste aanpassingen aan te brengen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De nieuwe lidstaten zijn ertoe gehouden onder de in dit Protocol neergelegde voorwaarden toe te treden tot de door de huidige lidstaten en de Unie of de Europese Gemeenschap voor Atoomenergie gezamenlijk gesloten of voorlopig toegepaste overeenkomsten of akkoorden, alsmede tot de door deze staten gesloten overeenkomsten die verband houden met deze overeenkomsten of akkoorden.
 
@@ -7441,49 +7460,49 @@ Voorzover de overeenkomsten tussen één of meer nieuwe lidstaten enerzijds, en 
 
 Met name zeggen zij, op 1 mei 2004 of zo spoedig mogelijk daarna, de internationale visserijovereenkomsten en hun lidmaatschap van internationale visserijorganisaties op waarbij ook de Unie partij is, tenzij hun lidmaatschap geen verband houdt met visserijzaken.
 
-#### Artikel 7
+##### Artikel 7
 
 De door de instellingen vastgestelde handelingen waarop de in dit Protocol vastgestelde overgangsmaatregelen zijn gebaseerd, behouden hun eigen rechtskarakter; met name blijven de voor deze handelingen geldende wijzigingsprocedures van toepassing.
 
-#### Artikel 8
+##### Artikel 8
 
 Bepalingen van de Akte van toetreding van 16 april 2003, als uitgelegd door het Hof van Justitie van de Europese Gemeenschappen en het Gerecht van eerste aanleg, die tot doel of tot gevolg hebben de intrekking of de wijziging, anders dan bij wijze van overgangsmaatregel, van de handelingen die zijn vastgesteld door de instellingen, organen of instanties van de Gemeenschap of van de bij het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) ingestelde Europese Unie, blijven van kracht, behoudens toepassing van de tweede alinea.
 
 De in de eerste alinea bedoelde bepalingen hebben hetzelfde rechtskarakter als de handelingen die door deze bepalingen worden ingetrokken of gewijzigd, en zij zijn aan dezelfde regels onderworpen.
 
-#### Artikel 9
+##### Artikel 9
 
 De teksten van de handelingen van de instellingen, organen en instanties van de Gemeenschap en van de bij het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) ingestelde Europese Unie alsmede de teksten van de handelingen van de Europese Centrale Bank die vóór 1 mei 2004 zijn vastgesteld en die in de Tsjechische, de Estse, de Hongaarse, de Letse, de Litouwse, de Maltese, de Poolse, de Slowaakse en de Sloveense taal zijn opgesteld, zijn gelijkelijk authentiek vanaf die datum, onder dezelfde voorwaarden als de in de overige talen opgestelde en gelijkelijk authentieke teksten.
 
-#### Artikel 10
+##### Artikel 10
 
 De bij dit Protocol vastgestelde overgangsbepalingen kunnen bij Europese wet van de Raad worden ingetrokken indien zij niet meer van toepassing zijn. De Raad besluit met eenparigheid van stemmen, na raadpleging van het Europees Parlement.
 
-#### Artikel 11
+##### Artikel 11
 
 Ten aanzien van de toepassing van de Grondwet en van de door de instellingen vastgestelde handelingen gelden, bij wijze van overgang, de in dit Protocol neergelegde afwijkende bepalingen.
 
 ## TITEL II. PERMANENTE BEPALINGEN
 
-#### Artikel 12
+##### Artikel 12
 
 De ingevolge de toetreding noodzakelijke aanpassingen van de handelingen genoemd in de lijst in bijlage III van de Akte van toetreding van 16 april 2003 worden verricht overeenkomstig de in die bijlage vervatte richtsnoeren en volgens de procedure en op de wijze bepaald in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=EERSTE&titeldeel=IV&artikel=36&z=2004-10-29&g=2004-10-29).
 
-#### Artikel 13
+##### Artikel 13
 
 De in bijlage IV van de Akte van toetreding van 16 april 2003 opgesomde maatregelen worden toegepast op de in die bijlage bepaalde wijze.
 
-#### Artikel 14
+##### Artikel 14
 
 Bij Europese wet van de Raad kunnen in de bepalingen van dit Protocol de aanpassingen betreffende het gemeenschappelijk landbouwbeleid worden aangebracht die nodig kunnen blijken ten gevolge van een wijziging van het recht van de Unie. De Raad besluit met eenparigheid van stemmen, na raadpleging van het Europees Parlement.
 
 ## TITEL III. TIJDELIJKE BEPALINGEN
 
-#### Artikel 15
+##### Artikel 15
 
 De in de bijlagen V tot en met XIV van de Akte van toetreding van 16 april 2003 genoemde maatregelen zijn ten opzichte van de nieuwe lidstaten van toepassing op de wijze als bepaald in die bijlagen.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De „rechten van het Gemeenschappelijke Douanetarief en andere douanerechten” genoemde ontvangsten, bedoeld in artikel 2, lid 1, onder b, van Besluit 2000/597/EG, Euratom van de Raad van 29 september 2000 betreffende het stelsel van de eigen middelen van de Europese Gemeenschappen1)PB L 253 van 7.10.2000, blz. 42., of de overeenkomstige bepaling in enig besluit dat dit vervangt, omvatten de douanerechten die worden berekend op basis van de rechten die voortvloeien uit het gemeenschappelijk douanetarief en alle daarmee samenhangende tariefconcessies die de Unie in het handelsverkeer van de nieuwe lidstaten met derde landen toepast.
 
@@ -7491,13 +7510,13 @@ De in de bijlagen V tot en met XIV van de Akte van toetreding van 16 april 2003 
 
 3. Voor de bepaling van het in artikel 2, lid 4, onder b, van Besluit 2000/597/EG, Euratom bedoelde „bevroren percentage” voor 2004, worden de afgetopte BTW-grondslagen voor de nieuwe lidstaten berekend op basis van twee derde van de niet-afgetopte BTW-grondslag en twee derde van hun BNP.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Om rekening te houden met de toetreding van de nieuwe lidstaten, is de begroting van de Unie voor het begrotingsjaar 2004 aangepast door middel van een gewijzigde begroting die op 1 mei 2004 van kracht is geworden.
 
 2. De twaalf maandelijkse twaalfden van de op de BTW en op het BNP gebaseerde middelen die door de nieuwe lidstaten moeten worden betaald krachtens de in lid 1 bedoelde gewijzigde begroting, alsmede de aanpassing met terugwerkende kracht van de maandelijkse twaalfden voor het tijdvak januari-april 2004 die uitsluitend gelden voor de huidige lidstaten, worden omgezet in achtsten die tijdens de periode mei-december 2004 moeten worden afgedragen. De aanpassingen met terugwerkende kracht die voortvloeien uit een later in 2004 aangenomen gewijzigde begroting, worden op dezelfde wijze omgezet in gelijke delen die tijdens de rest van het jaar moeten worden afgedragen.
 
-#### Artikel 18
+##### Artikel 18
 
 De Unie stort op de eerste werkdag van elke maand aan de Tsjechische Republiek, Cyprus, Malta en Slovenië, uit hoofde van de uitgaven van de begroting van de Unie, één achtste in 2004 vanaf 1 mei 2004 en één twaalfde in 2005 en 2006 van de volgende bedragen bij wijze van tijdelijke begrotingscompensatie:
 
@@ -7509,7 +7528,7 @@ De Unie stort op de eerste werkdag van elke maand aan de Tsjechische Republiek, 
 | Malta | 37,8 | 65,6 | 62,9 |
 | Slovenië | 29,5 | 66,4 | 35,5. |
 
-#### Artikel 19
+##### Artikel 19
 
 De Unie stort op de eerste werkdag van elke maand aan de Tsjechische Republiek, Estland, Cyprus, Letland, Litouwen, Hongarije, Malta, Polen, Slovenië en Slowakije, uit hoofde van de uitgaven van de begroting van de Unie, één achtste in 2004 vanaf de datum van toetreding en één twaalfde in 2005 en 2006 van de volgende bedragen bij wijze van forfaitaire speciale cash flow-faciliteit:
 
@@ -7529,7 +7548,7 @@ De Unie stort op de eerste werkdag van elke maand aan de Tsjechische Republiek, 
 
 Een in de forfaitaire speciale cash flow-faciliteit opgenomen bedrag van 1 miljard euro voor Polen en van 100 miljoen euro voor de Tsjechische Republiek wordt in aanmerking genomen voor de berekeningen betreffende de verdeling van de fondsen met structurele strekking voor de jaren 2004, 2005 en 2006.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De hieronder vermelde nieuwe lidstaten betalen de volgende bijdragen aan het Fonds voor onderzoek inzake kolen en staal bedoeld in Besluit 2002/234/EGKS van de vertegenwoordigers van de regeringen der lidstaten, in het kader van de Raad bijeen, van 27 februari 2002 betreffende de financiële gevolgen van de beëindiging van het EGKS-Verdrag en betreffende het Fonds voor onderzoek inzake kolen en staal1)PB L 79 van 22.3.2002, blz. 42. :
 
@@ -7551,7 +7570,7 @@ Een in de forfaitaire speciale cash flow-faciliteit opgenomen bedrag van 1 milja
 | 2008: | 30% |
 | 2009: | 35%. |
 
-#### Artikel 21
+##### Artikel 21
 
 1. Voorzover in dit Protocol niet anders is bepaald, worden na 31 december 2003 geen financiële verbintenissen aangegaan ten behoeve van de nieuwe lidstaten uit hoofde van het Phare-programma2)Verordening (EEG) nr. 3906/89 (PB L 375 van 23.12.1989, blz. 11)., het programma voor grensoverschrijdende samenwerking in het kader van het Phare-programma3)Verordening (EG) nr. 2760/98 (PB L 345 van 19.12.1998, blz. 49)., de pretoetredingsinstrumenten voor Cyprus en Malta4)Verordening (EG) nr. 555/2000 (PB L 68 van 16.3.2000, blz. 3)., het ISPA-programma5)Verordening (EG) nr. 1267/1999 (PB L 161 van 26.6.1999, blz. 73). en het Sapard-programma6)Verordening (EG) nr. 1268/1999 (PB L 161 van 26.6.1999, blz. 87).. De nieuwe lidstaten krijgen met ingang van 1 januari 2004 dezelfde behandeling als de huidige lidstaten wat betreft uitgaven onder de eerste drie rubrieken van de financiële vooruitzichten, zoals die zijn bepaald in het Interinstitutioneel Akkoord van 6 mei 19991)Interinstitutioneel akkoord van 6 mei 1999 tussen het Europees Parlement, de Raad en de Commissie over de begrotingsdiscipline en de verbetering van de begrotingsprocedure (PB C 172 van 18.6.1999, blz. 1). , met inachtneming van de hieronder vermelde individuele specificaties en uitzonderingen of zoals anderszins is bepaald in dit Protocol. De maximum aanvullende vastleggingen voor de rubrieken 1, 2, 3 en 5 van de financiële vooruitzichten in verband met de toetreding staan in bijlage XV van de Akte van toetreding van 16 april 2003. Voor geen enkel programma of geen enkele orgaan mogen echter financiële verbintenissen worden aangegaan uit hoofde van de begroting voor 2004 voordat de betrokken nieuwe lidstaat is toegetreden.
 
@@ -7563,7 +7582,7 @@ Lid 1 van dit artikel is echter wel van toepassing op uitgaven voor uit hoofde v
 
 4. Indien er maatregelen moeten worden genomen om de overgang tussen de pretoetredingsregeling en die welke voortvloeit uit de toepassing van dit artikel te vergemakkelijken, neemt de Commissie de vereiste maatregelen.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Vanaf 1 mei 2004 worden de aanbestedingen, de gunningen, de uitvoering en de betaling van pretoetredingssteun uit hoofde van het Phare-programma, het programma voor grensoverschrijdende samenwerking in het kader van het Phare-programma en de pretoetredingsmiddelen voor Cyprus en Malta beheerd door een uitvoeringsinstantie in de nieuwe lidstaten.
 
@@ -7583,7 +7602,7 @@ Tijdens die periode genieten de ambtenaren die in de nieuwe lidstaten voor 1 mei
 
 5. Wanneer krachtens Verordening (EG) nr. 1258/1999 goedgekeurde projecten niet langer uit hoofde van dat instrument kunnen worden gefinancierd, kunnen zij worden geïntegreerd in de programmering inzake plattelandsontwikkeling en gefinancierd door het Europees Oriëntatie- en Garantiefonds voor de Landbouw. Indien in dit verband specifieke overgangsmaatregelen nodig zijn, worden deze door de Commissie vastgesteld volgens de procedure van artikel 50, lid 2, van Verordening (EG) nr. 1260/1999 van de Raad van 21 juni 1999 houdende algemene bepalingen inzake de fondsen met structurele strekking4)PB L 161 van 26.6.1999, blz. 1. .
 
-#### Artikel 23
+##### Artikel 23
 
 1. Tussen 1 mei 2004 en eind 2006 verstrekt de Unie aan de nieuwe lidstaten tijdelijke financiële steun (hierna de „overgangsfaciliteit” te noemen) voor de ontwikkeling en versterking van hun administratieve capaciteit om het recht van de Unie en van de Europese Gemeenschap voor atoomenergie uit te voeren en te handhaven, en de uitwisseling van beste praktijken tussen overeenkomstige instanties in verschillende landen te bevorderen.
 
@@ -7615,7 +7634,7 @@ Tijdens die periode genieten de ambtenaren die in de nieuwe lidstaten voor 1 mei
 
 De vastleggingen voor de overgangsfaciliteit bedragen, tegen de prijzen van 1999, 200 miljoen euro voor 2004, 120 miljoen euro voor 2005 en 60 miljoen euro voor 2006. De jaarlijkse kredieten worden door de begrotingsautoriteit toegekend binnen de grenzen van de financiële vooruitzichten, die zijn vastgelegd in het interinstitutioneel akkoord van 6 mei 1999.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Hierbij wordt een Schengenfaciliteit als tijdelijk instrument ingesteld om de begunstigde lidstaten vanaf 1 mei 2004 tot eind 2006 te helpen bij de financiering van acties aan de nieuwe buitengrenzen van de Unie met het oog op de uitvoering van het Schengenacquis en de controle aan de buitengrenzen.
 
@@ -7652,11 +7671,11 @@ De begunstigde lidstaat oefent deze verantwoordelijkheid uit onverminderd de bev
 
 5. De Commissie kan de voor de werking van de Schengenfaciliteit noodzakelijke technische bepalingen vaststellen.
 
-#### Artikel 25
+##### Artikel 25
 
 De in de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=EERSTE&titeldeel=III&artikel=18&z=2004-10-29&g=2004-10-29), [19](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=EERSTE&titeldeel=III&artikel=19&z=2004-10-29&g=2004-10-29), [23](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=EERSTE&titeldeel=III&artikel=23&z=2004-10-29&g=2004-10-29) en [24](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=EERSTE&titeldeel=III&artikel=24&z=2004-10-29&g=2004-10-29) genoemde bedragen worden jaarlijks aangepast in het kader van de technische aanpassing op grond van punt 15 van het Interinstitutioneel Akkoord van 6 mei 1999.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Indien zich voor het einde van een periode van ten hoogste drie jaar na 1 mei 2004 ernstige en mogelijk aanhoudende moeilijkheden voordoen in een sector van het economische leven, dan wel moeilijkheden die de economische toestand van een bepaalde streek ernstig kunnen verstoren, kan een nieuwe lidstaat machtiging vragen om beschermingsmaatregelen te nemen, zodat de toestand weer in evenwicht kan worden gebracht en de betrokken sector kan worden aangepast aan de economie van de interne markt.
 
@@ -7668,29 +7687,29 @@ In geval van ernstige economische moeilijkheden spreekt de Commissie zich op uit
 
 3. De overeenkomstig lid 2 toegestane maatregelen kunnen afwijkingen van de regels van de Grondwet en met name van dit Protocol inhouden, voorzover en voor zolang zij strikt noodzakelijk zijn om de in lid 1 genoemde doelstellingen te verwezenlijken. Bij voorrang moeten die maatregelen worden gekozen die de werking van de interne markt het minst verstoren.
 
-#### Artikel 27
+##### Artikel 27
 
 Wanneer een nieuwe lidstaat van in het kader van de toetredingsonderhandelingen aangegane verbintenissen, met inbegrip van verbintenissen inzake sectoraal beleid betreffende economische activiteiten met grensoverschrijdende gevolgen niet naleeft, zodat de werking van de interne markt ernstig wordt verstoord of op zeer korte termijn dreigt te worden verstoord, kan de Commissie tot aan het einde van een periode van ten hoogste drie jaar vanaf 1 mei 2004 op een met redenen omkleed verzoek van een lidstaat dan wel op eigen initiatief bij Europese verordening of besluit passende maatregelen vaststellen. Deze maatregelen moeten evenredig zijn aan de marktverstoring en er moet voorrang worden gegeven aan maatregelen die de werking van de interne markt het minst verstoren en, in voorkomend geval, aan de toepassing van de bestaande sectorale vrijwaringsmechanismen. Deze vrijwaringsmaatregelen mogen echter niet worden gebruikt als middel tot willekeurige discriminatie noch als verkapte beperking van de handel tussen de lidstaten. De maatregelen worden niet langer gehandhaafd dan strikt noodzakelijk is en zij worden in elk geval ingetrokken wanneer de betrokken verplichting is nagekomen. Zij kunnen evenwel tot na de in de eerste alinea bedoelde periode worden toegepast indien de betrokken verplichtingen niet zijn nagekomen. De Commissie kan de vastgestelde maatregelen aanpassen afhankelijk van de mate waarin de betrokken nieuwe lidstaat zijn verplichtingen nakomt. De Commissie stelt de Raad tijdig in kennis alvorens zij de Europese verordeningen of besluiten tot vaststelling van de vrijwaringsmaatregelen intrekt, en zij houdt terdege rekening met eventuele desbetreffende opmerkingen van de Raad.
 
-#### Artikel 28
+##### Artikel 28
 
 Indien er zich in een nieuwe lidstaat ernstige tekortkomingen of directe risico's op dergelijke tekortkomingen voordoen bij de omzetting, de stand van de uitvoering of de toepassing van de kaderbesluiten of andere ter zake doende verbintenissen, samenwerkingsinstrumenten en besluiten betreffende wederzijdse erkenning in strafzaken op grond van [titel VI van het EU-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&titeldeel=VI) en richtlijnen en verordeningen inzake wederzijdse erkenning in burgerlijke zaken op grond van [titel IV van het EG-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&titeldeel=IV), alsook van de Europese wetten en kaderwetten die op grond van [deel III, titel III, hoofdstuk IV, afdelingen 3 en 4, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=3&z=2004-10-29&g=2004-10-29) worden vastgesteld, kan de Commissie gedurende drie jaar vanaf 1 mei 2004 op een met redenen omkleed verzoek van een lidstaat dan wel op eigen initiatief en na overleg met de lidstaten bij Europese verordening of Europees besluit passende maatregelen vaststellen, waarbij zij de voorwaarden en praktische regels voor de toepassing ervan aangeeft.
 
 Deze maatregelen kunnen de vorm aannemen van een tijdelijke schorsing van de toepassing van de betrokken bepalingen en besluiten in de betrekkingen tussen een nieuwe lidstaat en een andere lidstaat of andere lidstaten, zonder afbreuk te doen aan de verdere nauwe justitiële samenwerking. De maatregelen worden niet langer gehandhaafd dan strikt noodzakelijk is en zij worden in elk geval ingetrokken wanneer de betrokken tekortkomingen zijn verholpen. Zij kunnen evenwel tot na de in de eerste alinea bedoelde periode worden toegepast zo lang de betrokken tekortkomingen blijven bestaan. De Commissie kan, na overleg met de lidstaten, de vastgestelde maatregelen aanpassen, afhankelijk van de mate waarin de nieuwe lidstaat de aangegeven tekortkomingen verhelpt. De Commissie stelt de Raad tijdig in kennis alvorens zij de vrijwaringsmaatregelen intrekt, en zij houdt terdege rekening met eventuele desbetreffende opmerkingen van de Raad.
 
-#### Artikel 29
+##### Artikel 29
 
 Teneinde de goede werking van de interne markt niet te verstoren mag de uitvoering van de nationale voorschriften van de nieuwe lidstaten gedurende de in de bijlagen V tot en met XIV van de Akte van toetreding van 16 april 2003 bedoelde overgangsperioden niet leiden tot grenscontroles tussen de lidstaten.
 
-#### Artikel 30
+##### Artikel 30
 
 Indien overgangsmaatregelen nodig zijn ter vergemakkelijking van de overgang van de in de nieuwe lidstaten bestaande regeling naar die welke voortvloeit uit de toepassing van het gemeenschappelijk landbouwbeleid overeenkomstig dit Protocol, worden deze maatregelen door de Commissie vastgesteld volgens de procedure van artikel 42, lid 2, van Verordening (EG) nr. 1260/2001 van de Raad van 19 juni 2001 houdende een gemeenschappelijke ordening der markten in de sector suiker1)PB L 178 van 30.6.2001, blz. 1. of, naargelang van het geval, van de desbetreffende artikelen van de andere verordeningen houdende een gemeenschappelijke ordening der landbouwmarkten of van de Europese wetten ter vervanging daarvan, of volgens de desbetreffende procedure van de toepasselijke wetgeving. De in dit artikel bedoelde overgangsmaatregelen kunnen worden vastgesteld gedurende een tijdvak dat drie jaar na 1 mei 2004 verstrijkt; de toepassing ervan is beperkt tot dat tijdvak. Bij Europese wet van de Raad kan dit tijdvak worden verlengd. De Raad besluit met eenparigheid van stemmen, na raadpleging van het Europees Parlement.
 
-#### Artikel 31
+##### Artikel 31
 
 Indien er overgangsmaatregelen nodig zijn om de overgang te vergemakkelijken van de in de nieuwe lidstaten bestaande regeling naar de regeling die voortvloeit uit de toepassing van de veterinaire en fytosanitaire wetgeving van de Unie, dienen deze maatregelen door de Commissie volgens de in de toepasselijke wetgeving vastgestelde procedure te worden aangenomen. Deze maatregelen worden vastgesteld gedurende een tijdvak dat drie jaar na 1 mei 2004 verstrijkt; de toepassing ervan is beperkt tot dat tijdvak.
 
-#### Artikel 32
+##### Artikel 32
 
 1. De ambtstermijn van de nieuwe leden van de in bijlage XVI van de Akte van toetreding van 16 april 2003 vermelde comités, groepen en andere instanties verstrijkt tegelijk met de ambtstermijn van de leden die op 1 mei 2004 in functie zijn.
 
@@ -7698,25 +7717,25 @@ Indien er overgangsmaatregelen nodig zijn om de overgang te vergemakkelijken van
 
 ## TITEL IV. TOEPASSING VAN DE HANDELINGEN VAN DE INSTELLINGEN
 
-#### Artikel 33
+##### Artikel 33
 
 Vanaf 1 mei 2004 wordt ervan uitgegaan dat de richtlijnen en beschikkingen in de zin van [artikel 249 van het EG-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=249) en [artikel 161 van het EGA-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004033&artikel=161), eveneens tot de nieuwe lidstaten zijn gericht, voorzover deze richtlijnen en beschikkingen tot alle huidige lidstaten zijn gericht. Behoudens wat betreft richtlijnen en beschikkingen die in werking treden overeenkomstig [artikel 254, leden 1 en 2, van het EG-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=254), wordt ervan uitgegaan dat van deze richtlijnen en beschikkingen op 1 mei 2004 kennis is gegeven aan de nieuwe lidstaten.
 
-#### Artikel 34
+##### Artikel 34
 
 De nieuwe lidstaten stellen de maatregelen in werking die nodig zijn om vanaf 1 mei 2004 uitvoering te geven aan de richtlijnen en beschikkingen in de zin van [artikel 249 van het EG-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=249) en van [artikel 161 van het EGA-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004033&artikel=161), tenzij in de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=EERSTE&titeldeel=III&artikel=15&z=2004-10-29&g=2004-10-29) bedoelde bijlagen of in andere bepalingen van dit Protocol een andere termijn is vastgesteld.
 
-#### Artikel 35
+##### Artikel 35
 
 Behoudens andersluidende bepalingen, stelt de Raad, op voorstel van de Commissie, de Europese verordeningen en besluiten vast ter uitvoering van het bepaalde in de bijlagen III en IV van de Akte van toetreding van 16 april 2003, waarnaar wordt verwezen in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=EERSTE&titeldeel=II&artikel=12&z=2004-10-29&g=2004-10-29) en [13](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=EERSTE&titeldeel=II&artikel=13&z=2004-10-29&g=2004-10-29) van dit Protocol.
 
-#### Artikel 36
+##### Artikel 36
 
 1. Indien handelingen van de instellingen van vóór 1 mei 2004 in verband met de toetreding moeten worden aangepast, en in dit Protocol niet in de noodzakelijke aanpassingen is voorzien, worden deze aanpassingen aangebracht volgens de procedure van lid 2. Deze aanpassingen treden op 1 mei 2004 in werking.
 
 2. De daartoe noodzakelijke handelingen worden, op voorstel van de Commissie, door de Raad of door de Commissie vastgesteld, naargelang de oorspronkelijke handeling door de ene dan wel door de andere instelling is aangenomen.
 
-#### Artikel 37
+##### Artikel 37
 
 De wettelijke en bestuursrechtelijke bepalingen voor de bescherming van de gezondheid van de bevolking en de werknemers op het grondgebied van de nieuwe lidstaten tegen de aan ioniserende straling verbonden gevaren worden overeenkomstig [artikel 33 van het EGA-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004033&artikel=33) door deze staten aan de Commissie medegedeeld binnen een termijn van drie maanden, te rekenen vanaf 1 mei 2004.
 
@@ -7724,13 +7743,13 @@ De wettelijke en bestuursrechtelijke bepalingen voor de bescherming van de gezon
 
 ## TITEL I. OVERGANGSBEPALINGEN BETREFFENDE DE EUROPESE INVESTERINGSBANK
 
-#### Artikel 38
+##### Artikel 38
 
 Het Koninkrijk Spanje stort het bedrag van 309 686 775 euro, als aandeel in het kapitaal gestort voor de verhoging van het geplaatste kapitaal. Deze bijdrage wordt gestort in acht gelijke termijnen die vervallen op 30 september 2004, 30 september 2005, 30 september 2006, 31 maart 2007, 30 september 2007, 31 maart 2008, 30 september 2008 en 31 maart 2009.
 
 Het Koninkrijk Spanje draagt in acht gelijke termijnen die vervallen op de bovengenoemde data bij tot de reserves en de met reserves gelijk te stellen voorzieningen, alsmede tot het nog naar de reserves en voorzieningen over te boeken bedrag, bevattende het saldo van de verlies- en winstrekening, zoals deze aan het einde van de maand april 2004 zijn vastgesteld en in de balans van de Bank voorkomen, door storting van bedragen die overeenkomen met 4,1292% van de reserves en voorzieningen.
 
-#### Artikel 39
+##### Artikel 39
 
 Vanaf 1 mei 2004 storten de nieuwe lidstaten de volgende bedragen overeenkomende met hun aandeel in het kapitaal gestort voor het geplaatste kapitaal als gedefinieerd in artikel 4 van het statuut van de Europese Investeringsbank:
 
@@ -7748,7 +7767,7 @@ Vanaf 1 mei 2004 storten de nieuwe lidstaten de volgende bedragen overeenkomende
 
 Deze bijdragen worden gestort in acht gelijke termijnen die vervallen op 30 september 2004, 30 september 2005, 30 september 2006, 31 maart 2007, 30 september 2007, 31 maart 2008, 30 september 2008 en 31 maart 2009.
 
-#### Artikel 40
+##### Artikel 40
 
 De nieuwe lidstaten dragen in acht gelijke termijnen die vervallen op de in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=TWEEDE&titeldeel=I&artikel=39&z=2004-10-29&g=2004-10-29) genoemde data bij tot de reserves, de met de reserves gelijk te stellen voorzieningen, alsmede tot het nog naar de reserves en voorzieningen over te boeken bedrag, bevattende het saldo van de verlies- en winstrekening, zoals deze aan het einde van de maand april 2004 zijn vastgesteld en in de balans van de Europese Investeringsbank voorkomen, door storting van bedragen die overeenkomen met de volgende percentages van de reserves en voorzieningen:
 
@@ -7764,13 +7783,13 @@ De nieuwe lidstaten dragen in acht gelijke termijnen die vervallen op de in [art
 | Estland | 0,0784% |
 | Malta | 0,0465%. |
 
-#### Artikel 41
+##### Artikel 41
 
 De in de [artikelen 38](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=TWEEDE&titeldeel=I&artikel=38&z=2004-10-29&g=2004-10-29), [39](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=TWEEDE&titeldeel=I&artikel=39&z=2004-10-29&g=2004-10-29) en [40](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=TWEEDE&titeldeel=I&artikel=40&z=2004-10-29&g=2004-10-29) bedoelde stortingen worden door het Koninkrijk Spanje en de nieuwe lidstaten verricht in contanten in euro, behoudens afwijkingen waartoe door de Raad van gouverneurs met eenparigheid van stemmen wordt besloten.
 
 ## TITEL II. BEPALINGEN BETREFFENDE DE HERSTRUCTURERING VAN DE TSJECHISCHE IJZER- EN STAALINDUSTRIE
 
-#### Artikel 42
+##### Artikel 42
 
 1. Onverminderd de [artikelen III-167](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=5&paragraaf=2&artikel=III-167&z=2004-10-29&g=2004-10-29) en [III-168 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=5&paragraaf=2&artikel=III-167&z=2004-10-29&g=2004-10-29) wordt de van 1997 tot en met 2003 door de Tsjechische Republiek verleende overheidssteun voor de herstructurering van bepaalde delen van de Tsjechische ijzer- en staalindustrie onder de volgende voorwaarden als verenigbaar met de interne markt beschouwd:
 
@@ -7882,7 +7901,7 @@ De Commissie neemt passende maatregelen om steun die is verleend zonder dat de i
 
 ## TITEL III. BEPALINGEN BETREFFENDE DE ZONES VAN CYPRUS DIE ONDER DE SOEVEREINITEIT VAN HET VERENIGD KONINKRIJK VAN GROOT-BRITTANNIË EN NOORD-IERLAND VALLEN
 
-#### Artikel 43
+##### Artikel 43
 
 1. De zones van Cyprus die onder de soevereiniteit van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland vallen, hierna „SBA's” genoemd (Sovereign Base Areas) behoren tot het douanegebied van de Unie en daarom zijn de in deel I van de bijlage bij Protocol nr. 3 bij de Akte van toetreding van 16 april 2003 opgesomde handelingen van de Unie op het gebied van douane en gemeenschappelijk handelsbeleid, met de in deze bijlage vermelde wijzigingen, van toepassing op de SBA's. In deze bijlage moet de verwijzing naar „dit Protocol” worden opgevat als een verwijzing naar deze titel.
 
@@ -7890,25 +7909,25 @@ De Commissie neemt passende maatregelen om steun die is verleend zonder dat de i
 
 3. De handelingen van de Unie in deel III van de bijlage bij Protocol nr. 3 bij de Akte van toetreding van 16 april 2003 worden overeenkomstig deze bijlage gewijzigd om het Verenigd Koninkrijk in staat te stellen de in het Verdrag betreffende oprichting van de Republiek Cyprus (hierna het „Oprichtingsverdrag” genoemd) vastgelegde verminderingen en vrijstellingen van rechten en heffingen op leveringen aan zijn strijdkrachten en daarmee geassocieerd personeel, te handhaven.
 
-#### Artikel 44
+##### Artikel 44
 
 De [artikelen III-225 tot en met III-232 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=III&afdeling=4&artikel=III-225&z=2004-10-29&g=2004-10-29) en de op grond daarvan aangenomen bepalingen, alsook de bepalingen die zijn aangenomen overeenkomstig [artikel III-278, lid 4, onder b, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=V&afdeling=1&artikel=III-278&z=2004-10-29&g=2004-10-29), zijn van toepassing op de SBA's.
 
-#### Artikel 45
+##### Artikel 45
 
 Personen die wonen of werken op het grondgebied van de SBA's en die krachtens de regelingen die zijn getroffen uit hoofde van het Oprichtingsverdrag en de daarmee verband houdende notawisseling van 16 augustus 1960 onderworpen zijn aan de socialezekerheidswetgeving van de Republiek Cyprus, worden voor Verordening (EEG) nr. 1408/71 van de Raad van 14 juni 1971 betreffende de toepassing van de socialezekerheidsregelingen op werknemers en zelfstandigen, alsmede op hun gezinsleden, die zich binnen de Gemeenschap verplaatsen1)PB L 149 van 5.7.1971, blz. 2.behandeld alsof zij op het grondgebied van de Republiek Cyprus wonen of werken.
 
-#### Artikel 46
+##### Artikel 46
 
 1. De Republiek Cyprus behoeft geen controle uit te oefenen op personen die haar land- en zeegrenzen met een SBA overschrijden; op dergelijke personen zijn eventuele beperkingen van de Unie op overschrijding van de buitengrenzen niet van toepassing.
 
 2. Het Verenigd Koninkrijk oefent conform de verbintenissen in deel IV van de bijlage bij Protocol nr. 3 bij de Akte van toetreding van 16 april 2003 controle uit op personen die de buitengrenzen van een SBA overschrijden.
 
-#### Artikel 47
+##### Artikel 47
 
 De Raad kan, in het belang van een doeltreffende uitvoering van de doelstellingen van deze titel, op voorstel van de Commissie, bij Europees besluit de [artikelen 43 tot en met 46](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=TWEEDE&titeldeel=III&artikel=43&z=2004-10-29&g=2004-10-29), alsook de bijlage bij Protocol nr. 3 bij de Akte van toetreding van 16 april 2003, wijzigen, dan wel andere bepalingen van de Grondwet, alsook handelingen van de Unie, onder de door hem bepaalde voorwaarden van toepassing verklaren op de SBA's. De Raad besluit met eenparigheid van stemmen. De Commissie raadpleegt het Verenigd Koninkrijk en de Republiek Cyprus alvorens een voorstel in te dienen.
 
-#### Artikel 48
+##### Artikel 48
 
 1. Onverminderd lid 2 is het Verenigd Koninkrijk verantwoordelijk voor de uitvoering van deze titel in de SBA's. In het bijzonder geldt het volgende:
 
@@ -7924,25 +7943,25 @@ De Raad kan, in het belang van een doeltreffende uitvoering van de doelstellinge
 
 4. Het Verenigd Koninkrijk en de Republiek Cyprus werken samen in het belang van de doeltreffende uitvoering van deze titel in de SBA's, en sluiten in voorkomend geval nadere akkoorden voor de overdracht van de uitvoering van bepalingen als bedoeld in de [artikelen 43 tot en met 46](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=TWEEDE&titeldeel=III&artikel=43&z=2004-10-29&g=2004-10-29). Van dergelijke akkoorden wordt een afschrift verstrekt aan de Commissie.
 
-#### Artikel 49
+##### Artikel 49
 
 De in deze titel vastgelegde regeling heeft uitsluitend betrekking op de speciale situatie van de SBA's en kan op geen enkel ander grondgebied van de Unie worden toegepast, noch geheel of gedeeltelijk als precedent dienen voor enige andere speciale regeling die reeds bestaat of kan worden ingevoerd op een ander Europees grondgebied als bedoeld in [artikel IV-440 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=IV&artikel=IV-440&z=2004-10-29&g=2004-10-29).
 
-#### Artikel 50
+##### Artikel 50
 
 De Commissie brengt vanaf 1 mei 2004, om de vijf jaar, verslag uit aan het Europees Parlement en de Raad over de uitvoering van deze titel.
 
-#### Artikel 51
+##### Artikel 51
 
 De bepalingen van deze titel worden toegepast in het licht van de verklaring betreffende de SBA's, waarin, met behoud van de juridische strekking, de voorwaarden zijn overgenomen van de preambule van Protocol nr. 3 bij de Akte van toetreding van 16 april 2003.
 
 ## TITEL IV. BEPALINGEN BETREFFENDE DE KERNCENTRALE VAN IGNALINA IN LITOUWEN
 
-#### Artikel 52
+##### Artikel 52
 
 Uit erkentelijkheid voor de bereidheid van de Unie om voldoende aanvullende steun te verlenen voor de ontmanteling van de kerncentrale van Ignalina door Litouwen en ter onderstreping van dit blijk van solidariteit, zegt Litouwen toe eenheid 1 en eenheid 2 van de kerncentrale van Ignalina respectievelijk vóór 2005 en uiterlijk 31 december 2009 te sluiten en vervolgens te ontmantelen.
 
-#### Artikel 53
+##### Artikel 53
 
 1. In de periode 2004-2006 verleent de Unie Litouwen aanvullende financiële steun voor zijn inspanningen om de kerncentrale van Ignalina te ontmantelen en voor het ondervangen van de gevolgen van de sluiting en ontmanteling van deze centrale (hierna „het Ignalina-programma” genoemd).
 
@@ -7968,7 +7987,7 @@ zijn verenigbaar met de interne markt als omschreven in de Grondwet.
 
 9. Staatssteun uit nationale en internationale bronnen, en bronnen van de Unie ter ondersteuning van de inspanningen van Litouwen om de gevolgen van de sluiting en ontmanteling van de kerncentrale van Ignalina te ondervangen, mag voor elk afzonderlijk geval geacht worden – in het kader van de Grondwet – verenigbaar te zijn met de interne markt, met name wanneer het gaat om staatssteun ter verbetering van de energievoorzieningszekerheid.
 
-#### Artikel 54
+##### Artikel 54
 
 1. De Unie geeft er zich rekenschap van dat de ontmanteling van de kerncentrale van Ignalina een langetermijnproject is en voor Litouwen uitzonderlijke financiële lasten met zich meebrengt die niet in verhouding staan tot de omvang en de economische draagkracht van het land, en bevestigt uit solidariteit met Litouwen bereid te zijn ook na 2006 voldoende aanvullende steun voor de ontmanteling te zullen blijven verlenen.
 
@@ -7978,37 +7997,37 @@ zijn verenigbaar met de interne markt als omschreven in de Grondwet.
 
 4. Voor de periode van de volgende financiële vooruitzichten moeten de totale vastleggingen in het kader van het verlengde Ignalina-programma gemiddeld toereikend zijn. De programmering van deze middelen zal gebaseerd zijn op de feitelijke betalingsbehoeften en opnamecapaciteit.
 
-#### Artikel 55
+##### Artikel 55
 
 Onverminderd [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=TWEEDE&titeldeel=IV&artikel=52&z=2004-10-29&g=2004-10-29) is tot en met 31 december 2012 de algemene vrijwaringsclausule bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=EERSTE&titeldeel=III&artikel=26&z=2004-10-29&g=2004-10-29) van toepassing indien de energievoorziening in Litouwen verstoord wordt.
 
-#### Artikel 56
+##### Artikel 56
 
 Deze titel is van toepassing in het licht van de verklaring betreffende de kerncentrale van Ignalina in Litouwen; waarin, met behoud van de juridische strekking, de voorwaarden zijn overgenomen van de preambule van Protocol nr. 4 bij de Akte van toetreding van 16 april 2003.
 
 ## TITEL V. BEPALINGEN BETREFFENDE DE DOORREIS VAN PERSONEN OVER LAND TUSSEN DE REGIO KALININGRAD EN DE ANDERE DELEN VAN DE RUSSISCHE FEDERATIE
 
-#### Artikel 57
+##### Artikel 57
 
 De voorschriften en regelingen van de Unie voor de doorreis van personen over land tussen de regio Kaliningrad en de andere delen van de Russische Federatie, met name Verordening (EG) nr. 693/2003 van de Raad van 14 april 2003 tot invoering van een specifiek Doorreisfaciliteringsdocument, een Doorreisfaciliteringsdocument voor treinreizigers en tot wijziging van de Gemeenschappelijke Visum-instructie en het Gemeenschappelijk Handboek1)PB L 99 van 17.4.2003, blz. 8., vormen als zodanig geen reden tot uitstel of belemmering voor de volledige deelneming van Litouwen aan het Schengenacquis, inclusief de opheffing van de binnengrenscontroles.
 
-#### Artikel 58
+##### Artikel 58
 
 De Unie verleent Litouwen assistentie bij de implementatie van de voorschriften en regelingen voor de doorreis van personen tussen de regio Kaliningrad en de andere delen van de Russische Federatie, opdat Litouwen zo spoedig mogelijk ten volle aan het Schengenacquis kan deelnemen.
 
 De Unie verleent Litouwen assistentie bij het beheer van de doorreis van personen tussen de regio Kaliningrad en de andere delen van de Russische Federatie en draagt met name de extra kosten voor de implementatie van de desbetreffende bijzondere voorschriften van het acquis.
 
-#### Artikel 59
+##### Artikel 59
 
 Onverminderd de soevereine rechten van Litouwen worden verdere handelingen inzake de doorreis van personen tussen de regio Kaliningrad en de andere delen van de Russische Federatie door de Raad op voorstel van de Commissie vastgesteld. De Raad besluit met eenparigheid van stemmen.
 
-#### Artikel 60
+##### Artikel 60
 
 Deze titel is van toepassing in het licht van de verklaring betreffende de doorreis van personen over land tussen de regio Kaliningrad en de andere delen van de Russische Federatie; waarin, met behoud van de juridische strekking, de voorwaarden zijn overgenomen van de preambule van Protocol nr. 5 bij de Akte van toetreding van 16 april 2003.
 
 ## TITEL VI. BEPALINGEN BETREFFENDE HET VERWERVEN VAN TWEEDE WONINGEN IN MALTA
 
-#### Artikel 61
+##### Artikel 61
 
 Gelet op het zeer beperkte aantal woningen op Malta en de zeer beperkt beschikbare bouwgrond, die ten gevolge van de demografische ontwikkeling slechts de basisbehoeften van de huidige bewoners kan dekken, mag Malta op niet-discriminerende basis de in de wet inzake eigendom van onroerend goed (verwerving door niet-ingezetenen (hoofdstuk 246) vastgestelde regels handhaven ten aanzien van het recht van onderdanen van de lidstaten die nog niet ten minste vijf jaar legaal ingezetene van Malta zijn om tweede woningen te verwerven en te bezitten.
 
@@ -8018,13 +8037,13 @@ Indien de waarde van het onroerend goed dat een onderdaan van de lidstaten wil k
 
 ## TITEL VII. BEPALINGEN BETREFFENDE ABORTUS IN MALTA
 
-#### Artikel 62
+##### Artikel 62
 
 Geen enkele bepaling in het Verdrag tot vaststelling van een Grondwet voor Europa of in de verdragen en akten tot wijziging of aanvulling daarvan, staat de toepassing van de nationale abortuswetgeving op Maltees grondgebied in de weg.
 
 ## TITEL VIII. BEPALINGEN BETREFFENDE DE HERSTRUCTURERING VAN DE POOLSE IJZER- EN STAALINDUSTRIE
 
-#### Artikel 63
+##### Artikel 63
 
 1. Onverminderd de [artikelen III-167](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=5&paragraaf=2&artikel=III-167&z=2004-10-29&g=2004-10-29) en [III-168 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=5&paragraaf=2&artikel=III-168&z=2004-10-29&g=2004-10-29) wordt door Polen verleende overheidssteun voor de herstructurering van bepaalde delen van de Poolse ijzer- en staalindustrie onder de volgende voorwaarden als verenigbaar met de interne markt beschouwd:
 
@@ -8152,11 +8171,11 @@ De Commissie neemt passende maatregelen om steun die is verleend zonder dat de i
 
 ## TITEL IX. BEPALINGEN BETREFFENDE EENHEID 1 EN EENHEID 2 VAN DE V 1-KERNCENTRALE VAN BOHUNICE IN SLOWAKIJE
 
-#### Artikel 64
+##### Artikel 64
 
 Slowakije zegt toe eenheid 1 en eenheid 2 van de V 1-kerncentrale van Bohunice uiterlijk op respectievelijk 31 december 2006 en 31 december 2008 te sluiten en vervolgens te ontmantelen.
 
-#### Artikel 65
+##### Artikel 65
 
 1. In de periode 2004-2006 verleent de Unie Slowakije financiële steun voor zijn inspanningen om de V 1-kerncentrale in Bohunice te ontmantelen en voor het ondervangen van de gevolgen van de sluiting en ontmanteling van eenheid 1 en eenheid 2 van deze centrale (hierna „de steun” genoemd).
 
@@ -8166,49 +8185,49 @@ Slowakije zegt toe eenheid 1 en eenheid 2 van de V 1-kerncentrale van Bohunice u
 
 4. De steun of delen daarvan kunnen beschikbaar worden gesteld als bijdrage van de Unie aan het Internationale steunfonds voor de ontmanteling van Bohunice, dat beheerd wordt door de Europese Bank voor Wederopbouw en Ontwikkeling.
 
-#### Artikel 66
+##### Artikel 66
 
 De Unie geeft er zich rekenschap van dat de ontmanteling van de V 1-kerncentrale van Bohunice moet doorgaan na het tijdvak van de financiële vooruitzichten als bepaald in het Interinstitutioneel Akkoord van 6 mei 1999 en dat deze inspanning een aanzienlijke financiële last vormt voor Slowakije. In besluiten over de voortzetting van steun van de Unie op dit gebied na 2006 zal met deze situatie rekening worden gehouden.
 
-#### Artikel 67
+##### Artikel 67
 
 Deze titel is van toepassing in het licht van de verklaring betreffende eenheid 1 en eenheid 2 van de V 1-kerncentrale van Bohunice in Slowakije; waarin, met behoud van de juridische strekking, de voorwaarden zijn overgenomen van de preambule van protocol nr. 9 bij de Akte van toetreding van 16 april 2003.
 
 ## TITEL X. BEPALINGEN BETREFFENDE CYPRUS
 
-#### Artikel 68
+##### Artikel 68
 
 1. De toepassing van het acquis communautaire en van het acquis van de Unie wordt opgeschort in de zones van de Republiek Cyprus waarover de regering van de Republiek Cyprus niet feitelijk het gezag uitoefent.
 
 2. De Raad besluit, op voorstel van de Commissie, over de intrekking van de in lid 1 bedoelde opschorting. Hij besluit met eenparigheid van stemmen.
 
-#### Artikel 69
+##### Artikel 69
 
 1. De Raad stelt, op voorstel van de Commissie, de voorwaarden vast waaronder het recht van de Unie geldt ten aanzien van de grens tussen de in [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=TWEEDE&titeldeel=X&artikel=68&z=2004-10-29&g=2004-10-29) bedoelde gebieden en de gebieden waarover de regering van de Republiek Cyprus feitelijk het gezag uitoefent. De Raad besluit met eenparigheid van stemmen.
 
 2. De grens tussen de oostelijke zone onder de soevereiniteit van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en de in [Artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=TWEEDE&titeldeel=X&artikel=68&z=2004-10-29&g=2004-10-29) bedoelde zones wordt, voor de toepassing van deel IV van de bijlage bij Protocol nr. 3 bij de Akte van toetreding van 16 april 2003 betreffende de zones van Cyprus die onder de soevereiniteit van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland vallen, beschouwd als een deel van de buitengrenzen van de zones die onder de soevereiniteit van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland vallen, zulks voor de duur van de opschorting van de toepassing van het acquis communautaire en van het acquis van de Unie uit hoofde van artikel 68.
 
-#### Artikel 70
+##### Artikel 70
 
 1. Deze titel vormt in geen enkel opzicht een beletsel voor maatregelen die worden getroffen ter bevordering van de economische ontwikkeling van de in [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=TWEEDE&titeldeel=X&artikel=68&z=2004-10-29&g=2004-10-29) bedoelde zones.
 
 2. Die maatregelen laten onverlet, de toepassing van het acquis communautaire en van het acquis van de Unie in alle andere gebiedsdelen van de Republiek Cyprus, volgens de voorwaarden van het onderhavige protocol.
 
-#### Artikel 71
+##### Artikel 71
 
 Indien een regeling voor de Cypriotische kwestie tot stand komt, besluit de Raad, op voorstel van de Commissie, over de aanpassingen die met betrekking tot de Turks-Cypriotische gemeenschap worden aangebracht in de voorwaarden betreffende de toetreding van Cyprus tot de Unie. De Raad besluit met eenparigheid van stemmen.
 
-#### Artikel 72
+##### Artikel 72
 
 Deze titel is van toepassing in het licht van de verklaring betreffende Cyprus, waarin, met behoud van de juridische strekking, de voorwaarden zijn overgenomen van de preambule van Protocol nr. 10 bij de Akte van toetreding van 16 april 2003.
 
 ## DEEL DERDE. BEPALINGEN BETREFFENDE DE BIJLAGEN BIJ DE AKTE VAN TOETREDING VAN 16 APRIL 2003
 
-#### Artikel 73
+##### Artikel 73
 
 De bijlagen I en III tot en met XVII bij de Akte van toetreding van 16 april 2003, de aanhangsels daarvan, alsook de bijlagen bij de Protocollen 2, 3 en 8 bij de Akte van toetreding van 16 april 20031)PB L 236 van 23.9.2003, blz. 33. maken een integrerend deel uit van dit Protocol.
 
-#### Artikel 74
+##### Artikel 74
 
 1. De verwijzingen in de in [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=DERDE&artikel=73&z=2004-10-29&g=2004-10-29) van dit Protocol bedoelde bijlagen naar het „[Toetredingsverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001642)” gelden als verwijzingen naar het verdrag bedoeld in [artikel IV-437, lid 2, onder e, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=IV&artikel=IV-437&z=2004-10-29&g=2004-10-29), de verwijzingen naar de datum of het ogenblik van ondertekening van dat verdrag gelden als verwijzingen naar 16 april 2003 en de verwijzingen naar de datum van toetreding gelden als verwijzingen naar 1 mei 2004.
 
@@ -8267,7 +8286,7 @@ Geleid door de wens nadere bepalingen vast te stellen voor de procedure bij de i
 
 Hebben overeenstemming bereikt omtrent de volgende bepalingen, die aan het Verdrag tot vaststelling van een Grondwet voor Europa worden gehecht:
 
-#### Artikel 1
+##### Artikel 1
 
 De in [artikel III-184, lid 2, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=1&artikel=III-184&z=2004-10-29&g=2004-10-29) bedoelde referentiewaarden zijn:
 
@@ -8275,7 +8294,7 @@ De in [artikel III-184, lid 2, van de Grondwet](https://wetten.overheid.nl/jci1.
 
 - b. 60 % voor de ratio tussen de overheidsschuld en het bruto binnenlands product tegen marktprijzen.
 
-#### Artikel 2
+##### Artikel 2
 
 Voor de toepassing van [artikel III-184 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=1&artikel=III-184&z=2004-10-29&g=2004-10-29) en van dit Protocol wordt verstaan onder:
 
@@ -8287,11 +8306,11 @@ Voor de toepassing van [artikel III-184 van de Grondwet](https://wetten.overheid
 
 - d. schuld: totale aan het eind van het jaar uitstaande brutoschuld tegen nominale waarde, geconsolideerd tussen en binnen de sectoren van de algemene overheid als omschreven onder a.
 
-#### Artikel 3
+##### Artikel 3
 
 Teneinde een doeltreffende werking van de procedure bij buitensporige tekorten te verzekeren, zijn de regeringen van de lidstaten in het kader van deze procedure aansprakelijk voor de tekorten van de algemene overheid als omschreven in artikel 2, onder a. De lidstaten zorgen ervoor dat de nationale procedures op begrotingsgebied hen in staat stellen hun uit de Grondwet voortvloeiende verplichtingen op dit gebied na te komen. De lidstaten stellen de Commissie onverwijld en regelmatig in kennis van hun voorziene en feitelijke tekorten en van de omvang van hun schuld.
 
-#### Artikel 4
+##### Artikel 4
 
 De voor de toepassing van dit Protocol benodigde statistische gegevens worden door de Commissie verstrekt.
 
@@ -8301,27 +8320,27 @@ Geleid door de wens nadere regels vast te stellen voor de convergentiecriteria d
 
 Hebben overeenstemming bereikt omtrent de volgende bepalingen, die aan het Verdrag tot vaststelling van een Grondwet voor Europa worden gehecht:
 
-#### Artikel 1
+##### Artikel 1
 
 Het in [artikel III-198, lid 1, onder a, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=5&artikel=III-198&z=2004-10-29&g=2004-10-29) bedoelde criterium inzake prijsstabiliteit betekent dat de betrokken lidstaat een houdbare prijsontwikkeling heeft en een gemiddeld inflatiepercentage dat, gemeten over een periode van één jaar vóór het onderzoek, niet meer dan 1,5 procentpunt hoger ligt dan dat van ten hoogste de drie lidstaten die op het gebied van prijsstabiliteit het best presteren. De inflatie wordt gemeten aan de hand van het indexcijfer van de consumptieprijzen op een vergelijkbare basis, rekening houdend met verschillen in de nationale definities.
 
-#### Artikel 2
+##### Artikel 2
 
 Het in [artikel III-198, lid 1, onder b, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=5&artikel=III-198&z=2004-10-29&g=2004-10-29) bedoelde criterium inzake de begrotingssituatie van de overheid, houdt in dat ten aanzien van de betrokken lidstaat op het tijdstip van het onderzoek geen Europees besluit van de Raad krachtens [artikel III-184, lid 6, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=1&artikel=III-184&z=2004-10-29&g=2004-10-29) is genomen, waarin wordt vastgesteld dat er in de betrokken lidstaat een buitensporig tekort bestaat.
 
-#### Artikel 3
+##### Artikel 3
 
 Het in [artikel III-198, lid 1, onder c, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=5&artikel=III-198&z=2004-10-29&g=2004-10-29) bedoelde criterium inzake deelneming aan het wisselkoersmechanisme van het Europees Monetair Stelsel betekent dat de betrokken lidstaat ten minste gedurende de laatste twee jaren vóór het onderzoek zonder grote spanningen de normale fluctuatiemarges van het wisselkoersmechanisme van het Europees Monetair Stelsel heeft kunnen aanhouden. Met name mag de betrokken lidstaat tijdens die periode de bilaterale spilkoers van zijn valuta tegenover de euro niet op eigen initiatief hebben gedevalueerd.
 
-#### Artikel 4
+##### Artikel 4
 
 Het in [artikel III-198, lid 1, onder d, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=5&artikel=III-198&z=2004-10-29&g=2004-10-29) genoemde criterium inzake de convergentie van het niveau van de rentevoet betekent dat de betrokken lidstaat, gemeten over een periode van één jaar vóór het onderzoek, een gemiddelde nominale langetermijnrente heeft gehad die niet meer dan 2 procentpunten hoger ligt dan die van ten hoogste de drie lidstaten die op het gebied van prijsstabiliteit het best presteren. De rentevoet wordt gemeten op basis van langlopende staatsobligaties of vergelijkbare waardepapieren, rekening houdend met verschillen in de nationale definities.
 
-#### Artikel 5
+##### Artikel 5
 
 De voor de toepassing van dit Protocol benodigde statistische gegevens worden door de Commissie verstrekt.
 
-#### Artikel 6
+##### Artikel 6
 
 De Raad stelt op voorstel van de Commissie en na raadpleging van het Europees Parlement, de Europese Centrale Bank, en het Economisch en Financieel Comité bedoeld in [artikel III-192 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=3&artikel=III-192&z=2004-10-29&g=2004-10-29), met eenparigheid van stemmen de passende bepalingen vast betreffende de nadere regels voor de in [artikel III-198 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=5&artikel=III-198&z=2004-10-29&g=2004-10-29) bedoelde convergentiecriteria, die dan in de plaats van dit Protocol komen.
 
@@ -8333,11 +8352,11 @@ Zich ervan bewust dat er bijzondere bepalingen voor een versterkte dialoog tusse
 
 Hebben overeenstemming bereikt omtrent de volgende bepalingen, die aan het Verdrag tot vaststelling van een Grondwet voor Europa worden gehecht:
 
-#### Artikel 1
+##### Artikel 1
 
 De ministers van de lidstaten die de euro als munt hebben vergaderen in informeel verband. De vergaderingen worden, voorzover nodig, gehouden om van gedachten te wisselen over aangelegenheden die verband houden met de specifieke bevoegdheden van de ministers inzake de ene munt. De Commissie neemt deel, en de Europese Centrale Bank wordt uitgenodigd deel te nemen, aan deze vergaderingen, die worden voorbereid door de vertegenwoordigers van de ministers van Financiën van de lidstaten die de euro als munt hebben en de Commissie.
 
-#### Artikel 2
+##### Artikel 2
 
 De ministers van de lidstaten die de euro als munt hebben, kiezen met een meerderheid van die lidstaten een voorzitter voor de duur van tweeëneenhalf jaar.
 
@@ -8351,37 +8370,37 @@ Kennis nemend van de praktijk van de regering van het Verenigd Koninkrijk om voo
 
 Hebben overeenstemming bereikt omtrent de volgende bepalingen, die aan het Verdrag tot vaststelling van een Grondwet voor Europa worden gehecht:
 
-#### Artikel 1
+##### Artikel 1
 
 Tenzij het Verenigd Koninkrijk de Raad ervan in kennis stelt dat het voornemens is de euro in te voeren, is het daartoe niet verplicht.
 
-#### Artikel 2
+##### Artikel 2
 
 De artikelen 3 tot en met 8 en artikel 10 zijn van toepassing op het Verenigd Koninkrijk, gezien de kennisgeving van de regering van het Verenigd Koninkrijk aan de Raad van 16 oktober 1996 en 30 oktober 1997.
 
-#### Artikel 3
+##### Artikel 3
 
 Het Verenigd Koninkrijk behoudt zijn bevoegdheden op het gebied van het monetaire beleid overeenkomstig de nationale wetgeving.
 
-#### Artikel 4
+##### Artikel 4
 
 [Artikel I-30, lid 2, uitgezonderd de eerste en de laatste zin, artikel I-30, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=IV&hoofdstuk=II&artikel=I-30&z=2004-10-29&g=2004-10-29), [artikel III-177, tweede alinea](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&artikel=III-177&z=2004-10-29&g=2004-10-29), [artikel III-184, leden 1, 9 en 10](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=1&artikel=III-184&z=2004-10-29&g=2004-10-29), [artikel III-185, leden 1 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=2&artikel=III-185&z=2004-10-29&g=2004-10-29), [artikel III-186](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=2&artikel=III-186&z=2004-10-29&g=2004-10-29), de [artikelen III-188](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=2&artikel=III-188&z=2004-10-29&g=2004-10-29), [III-189](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=2&artikel=III-189&z=2004-10-29&g=2004-10-29), [III-190](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=2&artikel=III-190&z=2004-10-29&g=2004-10-29) en [artikel III-191](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=2&artikel=III-191&z=2004-10-29&g=2004-10-29), [artikel III-196](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=4&artikel=III-196&z=2004-10-29&g=2004-10-29), [artikel III-198, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=5&artikel=III-198&z=2004-10-29&g=2004-10-29), [de artikelen III-326](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=V&hoofdstuk=VI&artikel=III-326&z=2004-10-29&g=2004-10-29) en [III-382 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=I&paragraaf=6&artikel=III-382&z=2004-10-29&g=2004-10-29) zijn niet van toepassing op het Verenigd Koninkrijk. Dat geldt ook voor [artikel III-179, lid 2, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=1&artikel=III-179&z=2004-10-29&g=2004-10-29) wat betreft de aanneming van de onderdelen van de globale richtsnoeren voor het economisch beleid die in algemene zin betrekking hebben op de eurozone.
 
 Verwijzingen in de in de eerste alinea genoemde bepalingen naar de Unie of de lidstaten betreffen niet het Verenigd Koninkrijk en verwijzingen naar de nationale centrale banken betreffen niet de Bank of England.
 
-#### Artikel 5
+##### Artikel 5
 
 Het Verenigd Koninkrijk streeft ernaar een buitensporig overheidstekort te voorkomen.
 
 [Artikel III-192, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=3&artikel=III-192&z=2004-10-29&g=2004-10-29), en [artikel III-200 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=5&artikel=III-200&z=2004-10-29&g=2004-10-29) zijn van toepassing op het Verenigd Koninkrijk alsof het Verenigd Koninkrijk onder derogatie viel. De [artikelen III-201](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=5&artikel=III-201&z=2004-10-29&g=2004-10-29) en [III-202 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=5&artikel=III-202&z=2004-10-29&g=2004-10-29) blijven van toepassing op het Verenigd Koninkrijk.
 
-#### Artikel 6
+##### Artikel 6
 
 Het stemrecht van het Verenigd Koninkrijk wordt geschorst wanneer de Raad maatregelen als bedoeld in de in artikel 4 genoemde artikelen vaststelt en in de in [artikel III-197, lid 4, eerste alinea, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=5&artikel=III-197&z=2004-10-29&g=2004-10-29) bedoelde gevallen. Daartoe is artikel III-197, lid 4, tweede en derde alinea, van de Grondwet van toepassing.
 
 Het Verenigd Koninkrijk heeft ook geen recht om deel te nemen aan de benoeming van de president, de vice-president en de overige leden van de directie van de Europese Centrale Bank overeenkomstig [artikel III-382, lid 2, tweede, derde en vierde alinea, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=I&paragraaf=6&artikel=III-382&z=2004-10-29&g=2004-10-29).
 
-#### Artikel 7
+##### Artikel 7
 
 De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=II&artikel=3&z=2004-10-29&g=2004-10-29), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=II&artikel=4&z=2004-10-29&g=2004-10-29), [6](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=II&artikel=6&z=2004-10-29&g=2004-10-29) en [7](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=III&artikel=7&z=2004-10-29&g=2004-10-29), [artikel 9, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=III&artikel=9&z=2004-10-29&g=2004-10-29), [artikel 10, leden 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=III&artikel=10&z=2004-10-29&g=2004-10-29), [artikel 11, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=III&artikel=11&z=2004-10-29&g=2004-10-29), [artikel 12, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=III&artikel=12&z=2004-10-29&g=2004-10-29), de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=III&artikel=14&z=2004-10-29&g=2004-10-29), [16](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=III&artikel=16&z=2004-10-29&g=2004-10-29), [18](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=IV&artikel=18&z=2004-10-29&g=2004-10-29), [19](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=IV&artikel=19&z=2004-10-29&g=2004-10-29), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=IV&artikel=20&z=2004-10-29&g=2004-10-29), [22](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=IV&artikel=22&z=2004-10-29&g=2004-10-29), [23](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=IV&artikel=23&z=2004-10-29&g=2004-10-29), [26](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=VI&artikel=26&z=2004-10-29&g=2004-10-29), [27](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=VI&artikel=27&z=2004-10-29&g=2004-10-29), [30](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=VI&artikel=30&z=2004-10-29&g=2004-10-29), [31](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=VI&artikel=31&z=2004-10-29&g=2004-10-29), [32](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=VI&artikel=32&z=2004-10-29&g=2004-10-29), [33](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=VI&artikel=33&z=2004-10-29&g=2004-10-29), [34](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=VII&artikel=34&z=2004-10-29&g=2004-10-29) en [50 van het Protocol tot vaststelling van het statuut van het Europees Stelsel van Centrale Banken en van de Europese Centrale Bank](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=IX&artikel=50&z=2004-10-29&g=2004-10-29) („het statuut”) zijn niet van toepassing op het Verenigd Koninkrijk.
 
@@ -8389,7 +8408,7 @@ Verwijzingen in die artikelen naar de Unie of de lidstaten betreffen niet het Ve
 
 De verwijzingen in [artikel 10, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=III&artikel=10&z=2004-10-29&g=2004-10-29), en [artikel 30, lid 2, van het statuut](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=VI&artikel=30&z=2004-10-29&g=2004-10-29) naar het geplaatste kapitaal van de Europese Centrale Bank omvatten niet het kapitaal waarop door de Bank of England is ingeschreven.
 
-#### Artikel 8
+##### Artikel 8
 
 [Artikel III-199 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=5&artikel=III-199&z=2004-10-29&g=2004-10-29) en de [artikelen 43 tot en met 47 van het statuut](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=IX&artikel=43&z=2004-10-29&g=2004-10-29) zijn van toepassing, ongeacht of een lidstaat onder een derogatie valt, behoudens de volgende wijzigingen:
 
@@ -8399,7 +8418,7 @@ De verwijzingen in [artikel 10, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0
 
 - c. de Bank of England stort haar aandeel in het kapitaal van de Europese Centrale Bank als bijdrage in de bedrijfskosten van de ECB op dezelfde basis als de nationale centrale banken van lidstaten die onder een derogatie vallen.
 
-#### Artikel 9
+##### Artikel 9
 
 Het Verenigd Koninkrijk kan te allen tijde de Raad ervan in kennis stellen dat het voornemens is de euro in te voeren. In dat geval:
 
@@ -8411,7 +8430,7 @@ Het Verenigd Koninkrijk kan te allen tijde de Raad ervan in kennis stellen dat h
 
 Indien het Verenigd Koninkrijk overeenkomstig onderhavig artikel de euro invoert, treden de artikelen 3 tot en met 8 buiten werking.
 
-#### Artikel 10
+##### Artikel 10
 
 In afwijking van [artikel III-181 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=1&artikel=III-181&z=2004-10-29&g=2004-10-29) en [artikel 21, lid 1, van het statuut](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=IV&artikel=21&z=2004-10-29&g=2004-10-29) kan de regering van het Verenigd Koninkrijk haar „Ways and Means”-faciliteit bij de Bank of England handhaven indien en zolang het Verenigd Koninkrijk de euro niet invoert.
 
@@ -8423,15 +8442,15 @@ Gezien het feit dat de Deense regering op 3 november 1993 de Raad ervan in kenni
 
 Hebben overeenstemming bereikt omtrent de volgende bepalingen, die aan het Verdrag tot vaststelling van een Grondwet voor Europa worden gehecht:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor Denemarken geldt een derogatie, gezien de kennisgeving van de Deense regering aan de Raad van 3 november 1993. Deze derogatie heeft ten gevolge dat alle artikelen en bepalingen van de Grondwet en het statuut van het Europees Stelsel van Centrale Banken en van de Europese Centrale Bank die betrekking hebben op een derogatie, op Denemarken van toepassing zijn.
 
-#### Artikel 2
+##### Artikel 2
 
 Wat de intrekking van de derogatie betreft, wordt de in [artikel III-198 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=5&artikel=III-198&z=2004-10-29&g=2004-10-29) bedoelde procedure alleen ingeleid op verzoek van Denemarken.
 
-#### Artikel 3
+##### Artikel 3
 
 In geval van intrekking van de derogatie, is dit Protocol niet langer van toepassing.
 
@@ -8441,7 +8460,7 @@ Geleid door de wens bepaalde bijzondere problemen betreffende Denemarken te rege
 
 Hebben overeenstemming bereikt omtrent de volgende bepalingen, die aan het Verdrag tot vaststelling van een Grondwet voor Europa worden gehecht:
 
-#### Artikel Enig
+##### Artikel Enig
 
 [Artikel 14 van het Protocol tot vaststelling van het statuut van het Europees Stelsel van Centrale Banken en van de Europese Centrale Bank](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&hoofdstuk=III&artikel=14&z=2004-10-29&g=2004-10-29) doet geen afbreuk aan het recht van de nationale bank van Denemarken om haar huidige taken betreffende de delen van het Koninkrijk Denemarken die niet tot de Unie behoren, uit te voeren.
 
@@ -8451,7 +8470,7 @@ Geleid door de wens rekening te houden met een bijzondere aangelegenheid betreff
 
 Hebben overeenstemming bereikt omtrent de volgende bepalingen, die aan het Verdrag tot vaststelling van een Grondwet voor Europa worden gehecht:
 
-#### Artikel Enig
+##### Artikel Enig
 
 Frankrijk mag het privilege van geldemissie in Nieuw-Caledonië, Frans-Polynesië en Wallis en Futuna behouden onder de in zijn nationale wetgeving vastgestelde voorwaarden, en is als enige gerechtigd om de pariteit van de frank van de Financiële Gemeenschap van de Stille Oceaan vast te stellen.
 
@@ -8471,37 +8490,37 @@ In aanmerking nemend dat het noodzakelijk is bevoorrechte betrekkingen in stand 
 
 Hebben overeenstemming bereikt omtrent de volgende bepalingen, die aan het Verdrag tot vaststelling van een Grondwet voor Europa worden gehecht:
 
-#### Artikel 1
+##### Artikel 1
 
 Het Koninkrijk België, de Tsjechische Republiek, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Republiek Estland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, de Republiek Hongarije, de Republiek Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Republiek Polen, de Portugese Republiek, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland en het Koninkrijk Zweden worden gemachtigd onderling een nauwere samenwerking aan te gaan op de gebieden die vallen onder de door de Raad aangegeven bepalingen die samen het Schengen-acquis vormen. Deze samenwerking vindt plaats binnen het institutionele en juridische kader van de Unie en met inachtneming van de toepasselijke bepalingen van de Grondwet.
 
-#### Artikel 2
+##### Artikel 2
 
 Het Schengenacquis is met onmiddellijke ingang van toepassing op de in artikel 1 genoemde lidstaten, onverminderd [artikel 3 van het Protocol betreffende het verdrag en de akte inzake de toetreding van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=EERSTE&titeldeel=I&artikel=3&z=2004-10-29&g=2004-10-29). De Raad treedt in de plaats van het bij de Overeenkomsten van Schengen ingestelde Uitvoerend Comité.
 
-#### Artikel 3
+##### Artikel 3
 
 De deelneming van Denemarken aan de vaststelling van maatregelen die een verdere ontwikkeling van het Schengenacquis inhouden en de uitvoering en toepassing van deze maatregelen in Denemarken vallen onder de toepasselijke bepalingen van het Protocol betreffende de positie van Denemarken.
 
-#### Artikel 4
+##### Artikel 4
 
 Ierland en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland kunnen te allen tijde verzoeken om aan alle of aan enkele van de bepalingen van het Schengenacquis deel te mogen nemen.
 
 De Raad stelt een Europees besluit over dit verzoek vast. Hij besluit met eenparigheid van stemmen van de in artikel 1 genoemde leden en van het lid dat de regering van de betrokken staat vertegenwoordigt.
 
-#### Artikel 5
+##### Artikel 5
 
 Voorstellen en initiatieven om voort te bouwen op het Schengen-acquis vallen onder de toepasselijke bepalingen van de Grondwet.
 
 Wanneer Ierland of het Verenigd Koninkrijk of beide de voorzitter van de Raad niet binnen een redelijke termijn schriftelijk hebben meegedeeld dat zij wensen deel te nemen, wordt de in [artikel III-419, lid 1, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=III&artikel=III-419&z=2004-10-29&g=2004-10-29) bedoelde machtiging in dit verband geacht te zijn verleend aan de in artikel 1 genoemde lidstaten, en aan Ierland of het Verenigd Koninkrijk indien een van beide aan de samenwerking op de gebieden in kwestie wenst deel te nemen.
 
-#### Artikel 6
+##### Artikel 6
 
 De Republiek IJsland en het Koninkrijk Noorwegen worden betrokken bij de uitvoering van het Schengen-acquis en de verdere ontwikkeling ervan. Te dien einde worden passende procedures overeengekomen in een overeenkomst die de Raad, met eenparigheid van stemmen van zijn in artikel 1 genoemde leden, met die staten sluit. In die overeenkomst worden bepalingen opgenomen inzake de bijdrage van IJsland en Noorwegen in de kosten die aan de uitvoering van dit Protocol zijn verbonden.
 
 De Raad sluit, met eenparigheid van stemmen, met IJsland en Noorwegen een afzonderlijke overeenkomst voor de vaststelling van de wederzijdse rechten en verplichtingen van Ierland en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland enerzijds en IJsland en Noorwegen anderzijds, op de gebieden van het Schengenacquis die op deze staten van toepassing zijn.
 
-#### Artikel 7
+##### Artikel 7
 
 Voor de onderhandelingen met het oog op de toetreding van nieuwe lidstaten tot de Unie worden het Schengen acquis en de verdere maatregelen die de Instellingen binnen de werkingssfeer van dat acquis vaststellen, beschouwd als een acquis dat door alle staten die kandidaat zijn voor toetreding volledig moet worden aanvaard.
 
@@ -8513,7 +8532,7 @@ Gelet op het feit dat tussen het Verenigd Koninkrijk en Ierland al sedert vele j
 
 Hebben overeenstemming bereikt omtrent de volgende bepalingen, die aan het Verdrag tot vaststelling van een Grondwet voor Europa worden gehecht:
 
-#### Artikel 1
+##### Artikel 1
 
 Niettegenstaande de [artikelen III-130](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=I&artikel=III-130&z=2004-10-29&g=2004-10-29) en [III-265 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=2&artikel=III-265&z=2004-10-29&g=2004-10-29), de andere bepalingen van de Grondwet, de uit hoofde daarvan vastgestelde maatregelen en de internationale overeenkomsten die door de Unie of door de Unie en haar lidstaten met één of meer derde landen zijn gesloten, heeft het Verenigd Koninkrijk het recht aan zijn grenzen met andere lidstaten ten aanzien van personen die het Verenigd Koninkrijk wensen binnen te komen de controles te verrichten die het nodig acht om:
 
@@ -8523,17 +8542,17 @@ Niettegenstaande de [artikelen III-130](https://wetten.overheid.nl/jci1.3:c:BWBV
 
 Niets in de [artikelen III-130](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=I&artikel=III-130&z=2004-10-29&g=2004-10-29)en [III-265 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=2&artikel=III-265&z=2004-10-29&g=2004-10-29), in een andere bepaling van de Grondwet of in een uit hoofde daarvan vastgestelde maatregel doet afbreuk aan het recht van het Verenigd Koninkrijk om dergelijke controles in te voeren of uit te oefenen. Onder het Verenigd Koninkrijk worden in dit artikel ook de grondgebieden verstaan waarvan de externe betrekkingen onder de verantwoordelijkheid van het Verenigd Koninkrijk vallen.
 
-#### Artikel 2
+##### Artikel 2
 
 Het Verenigd Koninkrijk en Ierland kunnen onderling regelingen blijven treffen betreffende het personenverkeer tussen hun grondgebieden („het gemeenschappelijk reisgebied” of „the Common Travel Area”), met volledige inachtneming van de rechten van de in artikel 1, eerste alinea, onder a, bedoelde personen. Zolang zij dergelijke regelingen handhaven, zijn de bepalingen van artikel 1 derhalve van toepassing op Ierland op dezelfde wijze en onder dezelfde voorwaarden als op het Verenigd Koninkrijk. Niets in de [artikelen III-130](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=I&artikel=III-130&z=2004-10-29&g=2004-10-29) en [III-265 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=2&artikel=III-265&z=2004-10-29&g=2004-10-29) of in een andere bepaling van deze Grondwet of in een uit hoofde daarvan vastgestelde maatregel doet afbreuk aan deze regelingen.
 
-#### Artikel 3
+##### Artikel 3
 
 De andere lidstaten hebben het recht aan hun grenzen of op enig punt van binnenkomst op hun grondgebied voor de in artikel 1 genoemde doeleinden dergelijke controles te verrichten op personen die hun grondgebied wensen binnen te komen vanuit het Verenigd Koninkrijk, of enig ander grondgebied waarvan de externe betrekkingen onder de verantwoordelijkheid van het Verenigd Koninkrijk vallen, dan wel vanuit Ierland, zolang de bepalingen van artikel 1 op Ierland van toepassing zijn.
 
 Niets in de [artikelen III-130](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=I&artikel=III-130&z=2004-10-29&g=2004-10-29) en [III-265 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=2&artikel=III-265&z=2004-10-29&g=2004-10-29) of in een andere bepaling van deze Grondwet of in een uit hoofde daarvan vastgestelde maatregel doet afbreuk aan het recht van de overige lidstaten om dergelijke controles in te voeren of te verrichten.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit Protocol is tevens van toepassing op akten die uit hoofde van [artikel IV-438 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=IV&artikel=IV-438&z=2004-10-29&g=2004-10-29) van kracht blijven.
 
@@ -8545,7 +8564,7 @@ Gelet op het Protocol betreffende de toepassing van bepaalde aspecten van artike
 
 Hebben overeenstemming bereikt omtrent de volgende bepalingen, die aan het Verdrag tot vaststelling van een Grondwet voor Europa worden gehecht:
 
-#### Artikel 1
+##### Artikel 1
 
 Onder voorbehoud van artikel 3 nemen het Verenigd Koninkrijk en Ierland niet deel aan de vaststelling door de Raad van maatregelen voorgesteld in het kader van [deel III, titel III, hoofdstuk IV, afdelingen 2 en 3 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=2&z=2004-10-29&g=2004-10-29), van [artikel III-260 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=1&artikel=III-260&z=2004-10-29&g=2004-10-29), voor zover dit artikel betrekking heeft op de door deze afdelingen bestreken onderwerpen, van [artikel III-263](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=1&artikel=III-263&z=2004-10-29&g=2004-10-29), en van [artikel III-275, lid 2, onder a, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=5&artikel=III-275&z=2004-10-29&g=2004-10-29). Voor handelingen van de Raad die met eenparigheid van stemmen moeten worden vastgesteld, is eenparigheid van de leden van de Raad vereist, met uitzondering van de vertegenwoordigers van de regeringen van het Verenigd Koninkrijk en van Ierland.
 
@@ -8555,11 +8574,11 @@ Een blokkerende minderheid moet ten minste uit het minimumaantal van de leden va
 
 In afwijking van de tweede en de derde alinea wordt, wanneer de Raad niet besluit op voorstel van de Commissie of van de minister van Buitenlandse Zaken van de Unie, onder de vereiste gekwalificeerde meerderheid van stemmen verstaan ten minste 72% van de leden van de Raad die de deelnemende lidstaten vertegenwoordigen waarvan de bevolking ten minste 65% uitmaakt van de bevolking van die staten.
 
-#### Artikel 2
+##### Artikel 2
 
 Ingevolge artikel 1 en onder voorbehoud van de artikelen 3, 4 en 6 zijn de bepalingen van [deel III, titel III, hoofdstuk IV, afdelingen 2 en 3 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=2&z=2004-10-29&g=2004-10-29), van [artikel III-260 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=1&artikel=III-260&z=2004-10-29&g=2004-10-29), voor zover dit artikel betrekking heeft op de door deze afdelingen bestreken onderwerpen, van [artikel III-263](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=1&artikel=III-263&z=2004-10-29&g=2004-10-29), en van [artikel III-275, lid 2, onder a, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=5&artikel=III-275&z=2004-10-29&g=2004-10-29), de overeenkomstig die afdelingen of artikelen vastgestelde maatregelen, de bepalingen in door de Unie overeenkomstig die afdelingen of artikelen gesloten internationale overeenkomsten en de beslissingen van het Hof van Justitie van de Unie ter uitlegging van die bepalingen of maatregelen niet verbindend voor, noch van toepassing op het Verenigd Koninkrijk en Ierland. Bedoelde bepalingen, maatregelen en beslissingen laten de bevoegdheden, rechten en verplichtingen van deze staten onverlet. Bedoelde bepalingen, maatregelen en beslissingen laten het acquis communautaire en het acquis van de Unie geheel onverlet en maken geen deel uit van recht van de Unie, zoals dat op het Verenigd Koninkrijk en Ierland van toepassing is.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Binnen een termijn van drie maanden na de indiening van een voorstel bij de Raad overeenkomstig [deel III, titel III, hoofdstuk IV, afdelingen 2 of 3 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=2&z=2004-10-29&g=2004-10-29) of van een voorstel of initiatief overeenkomstig [artikel III-263](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=1&artikel=III-263&z=2004-10-29&g=2004-10-29) of [artikel III-275, lid 2, onder a, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=5&artikel=III-275&z=2004-10-29&g=2004-10-29), kunnen het Verenigd Koninkrijk en Ierland de Raad er schriftelijk van in kennis stellen dat zij wensen deel te nemen aan de vaststelling en toepassing van de voorgestelde maatregel, waarna deze staten daartoe gerechtigd zijn. Voor handelingen van de Raad die met eenparigheid van stemmen moeten worden vastgesteld, is eenparigheid van de leden van de Raad vereist, met uitzondering van de leden die geen kennis–geving hebben gedaan. Een op grond van dit lid vastgestelde maatregel is verbindend voor alle lidstaten die aan de aanneming ervan hebben deelgenomen. In de uit hoofde van [artikel III-260 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=1&artikel=III-260&z=2004-10-29&g=2004-10-29) vastgestelde Europese verordeningen of Europese besluiten worden de voorwaarden bepaald voor de deelneming van het Verenigd Koninkrijk en Ierland aan de evaluaties betreffende de gebieden die worden bestreken door [deel III, titel III, hoofdstuk IV, afdelingen 2 en 3 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=3&z=2004-10-29&g=2004-10-29).
 
@@ -8571,25 +8590,25 @@ In afwijking van de tweede en de derde alinea wordt, wanneer de Raad niet beslui
 
 2. Indien een maatregel als bedoeld in lid 1 na een redelijke termijn niet met deelneming van het Verenigd Koninkrijk of Ierland kan worden vastgesteld, kan de Raad de in lid 1 bedoelde maatregel overeenkomstig artikel 1 vaststellen zonder deelneming van het Verenigd Koninkrijk of Ierland. In dat geval is artikel 2 van toepassing.
 
-#### Artikel 4
+##### Artikel 4
 
 Na de vaststelling van een maatregel overeenkomstig [deel III, titel III, hoofdstuk IV, afdelingen 2 en 3 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=2&z=2004-10-29&g=2004-10-29), [artikel III-263](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=1&artikel=III-263&z=2004-10-29&g=2004-10-29) of [artikel III-275, lid 2, onder a, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=5&artikel=III-275&z=2004-10-29&g=2004-10-29), kunnen het Verenigd Koninkrijk en Ierland de Raad en de Commissie te allen tijde in kennis stellen van hun voornemen die maatregel te aanvaarden. In dat geval is de procedure van [artikel III-420, lid 1, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=III&artikel=III-420&z=2004-10-29&g=2004-10-29) van overeenkomstige toepassing.
 
-#### Artikel 5
+##### Artikel 5
 
 Voor een lidstaat die niet gebonden is door een krachtens [deel III, titel III, hoofdstuk IV, afdelingen 2 en 3 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=2&z=2004-10-29&g=2004-10-29) of
 
 [artikel III-263](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=1&artikel=III-263&z=2004-10-29&g=2004-10-29) of [artikel III-275, lid 2, onder a, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=5&artikel=III-275&z=2004-10-29&g=2004-10-29), vastgestelde maatregel, mag deze maatregel geen andere financiële gevolgen hebben dan de ermee gepaard gaande administratieve kosten voor de Instellingen, tenzij de Raad met eenparigheid van stemmen van al zijn leden anders besluit, na raadpleging van het Europees Parlement.
 
-#### Artikel 6
+##### Artikel 6
 
 Indien het Verenigd Koninkrijk of Ierland in gevallen als bedoeld in dit Protocol gebonden is door een maatregel vastgesteld op grond van [deel III, titel III, hoofdstuk IV, afdelingen 2 en 3 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=2&z=2004-10-29&g=2004-10-29) of [artikel III-260 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=1&artikel=III-260&z=2004-10-29&g=2004-10-29), voor zover dit artikel betrekking heeft op de door deze afdelingen bestreken onderwerpen, of [artikel III-263](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=1&artikel=III-263&z=2004-10-29&g=2004-10-29) of [artikel III-275, lid 2, onder a, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=5&artikel=III-275&z=2004-10-29&g=2004-10-29), zijn de desbetreffende bepalingen van de Grondwet op die staat van toepassing wat betreft die maatregel.
 
-#### Artikel 7
+##### Artikel 7
 
 De artikelen 3 en 4 laten het Protocol betreffende het in het kader van de Europese Unie geïntegreerde Schengen-acquis onverlet.
 
-#### Artikel 8
+##### Artikel 8
 
 Ierland kan de Raad er schriftelijk van in kennis stellen dat het niet langer onder de bepalingen van dit Protocol wenst te vallen. In dat geval zijn deze bepalingen niet meer van toepassing op Ierland.
 
@@ -8611,7 +8630,7 @@ Hebben overeenstemming bereikt omtrent de volgende bepalingen, die aan het Verdr
 
 ## DEEL I
 
-#### Artikel 1
+##### Artikel 1
 
 Denemarken neemt niet deel aan de vaststelling door de Raad van overeenkomstig [deel III, titel III, hoofdstuk IV, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&z=2004-10-29&g=2004-10-29) voorgestelde handelingen. Voor handelingen van de Raad die met eenparigheid van stemmen moeten worden vastgesteld, is eenparigheid van de leden van de Raad vereist, met uitzondering van de vertegenwoordiger van de Deense regering.
 
@@ -8621,15 +8640,15 @@ Een blokkerende minderheid moet ten minste uit het minimumaantal van de leden va
 
 In afwijking van de tweede en de derde alinea wordt, wanneer de Raad niet besluit op voorstel van de Commissie of van de minister van Buitenlandse Zaken van de Unie, onder de vereiste gekwalificeerde meerderheid van stemmen verstaan ten minste 72% van de leden van de Raad die de deelnemende lidstaten vertegenwoordigen waarvan de bevolking ten minste 65% uitmaakt van de bevolking van die staten.
 
-#### Artikel 2
+##### Artikel 2
 
 [Deel III, titel III, hoofdstuk IV, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&z=2004-10-29&g=2004-10-29), de overeenkomstig dat hoofdstuk vastgestelde maatregelen, de door de Unie overeenkomstig dat hoofdstuk gesloten internationale overeenkomsten en de beslissingen van het Hof van Justitie van de Europese Unie ter uitlegging van deze bepalingen of maatregelen zijn niet verbindend voor, noch van toepassing op Denemarken. Bedoelde bepalingen, maatregelen en beslissingen laten de bevoegdheden, rechten en verplichtingen van Denemarken onverlet. Bedoelde bepalingen, maatregelen en beslissingen laten het acquis communautaire en het acquis van de Unie geheel onverlet en maken geen deel uit van het recht van de Unie, zoals dat op Denemarken van toepassing is.
 
-#### Artikel 3
+##### Artikel 3
 
 Voor Denemarken hebben de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&artikel=1&z=2004-10-29&g=2004-10-29) bedoelde maatregelen geen andere financiële gevolgen dan de ermee gepaard gaande administratieve kosten voor de Instellingen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Denemarken beslist binnen een termijn van zes maanden na de vaststelling van een maatregel van de Raad ter uitwerking van het Schengenacquis die onder deel I van dit Protocol valt, of het deze maatregel in nationaal recht omzet. Indien Denemarken daartoe beslist, schept deze maatregel een internationaalrechtelijke verplichting tussen Denemarken en de andere lidstaten die door de maatregel gebonden zijn.
 
@@ -8639,7 +8658,7 @@ Indien Denemarken beslist een dergelijke maatregel niet toe te passen, overwegen
 
 ## DEEL II
 
-#### Artikel 5
+##### Artikel 5
 
 Wat betreft de maatregelen die door de Raad worden vastgesteld op grond van [artikel I-41](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=V&hoofdstuk=II&artikel=I-41&z=2004-10-29&g=2004-10-29), [artikel III-295, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=V&hoofdstuk=II&afdeling=1&artikel=III-295&z=2004-10-29&g=2004-10-29), en de [artikelen III-309 tot en met III-313 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=V&hoofdstuk=II&afdeling=2&artikel=III-309&z=2004-10-29&g=2004-10-29), neemt Denemarken niet deel aan de uitwerking en de uitvoering van de besluiten en het optreden van de Unie welke gevolgen hebben op defensiegebied. Daarom neemt Denemarken niet deel aan de vaststelling van die besluiten en dat optreden. Denemarken belet de overige lidstaten niet hun samenwerking op dit gebied verder te ontwikkelen. Denemarken is niet verplicht bij te dragen aan de financiering van operationele uitgaven die voortvloeien uit dergelijke maatregelen, noch om militaire vermogens ter beschikking van de Unie te stellen.
 
@@ -8653,27 +8672,27 @@ In afwijking van de derde en de vierde alinea wordt, wanneer de Raad niet beslui
 
 ## DEEL III
 
-#### Artikel 6
+##### Artikel 6
 
 Dit Protocol is ook van toepassing op de maatregelen die van kracht blijven uit hoofde van [artikel IV-438 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=IV&artikel=IV-438&z=2004-10-29&g=2004-10-29) en die vóór de inwerkingtreding van het Verdrag tot vaststelling van een Grondwet voor Europa vielen onder het [Protocol betreffende de positie van Denemarken](onbekend), gehecht aan het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) en aan het [Verdrag tot oprichting van de Europese Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506).
 
-#### Artikel 7
+##### Artikel 7
 
 De [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&artikel=1&z=2004-10-29&g=2004-10-29), [2](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&artikel=2&z=2004-10-29&g=2004-10-29) en [3](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&artikel=3&z=2004-10-29&g=2004-10-29) zijn niet van toepassing op de maatregelen tot bepaling van de derde landen waarvan de onderdanen bij overschrijding van de buitengrenzen van de lidstaten in het bezit moeten zijn van een visum of op de maatregelen betreffende een uniform visummodel.
 
 ## DEEL IV
 
-#### Artikel 8
+##### Artikel 8
 
 Denemarken kan te allen tijde overeenkomstig zijn grondwettelijke bepalingen de andere lidstaten mededelen dat het niet langer een beroep wenst te doen op dit protocol in zijn geheel of op gedeelten ervan. In dat geval past Denemarken alle geldende desbetreffende maatregelen die in het kader van de Unie zijn genomen, volledig toe.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Denemarken kan te allen tijde, onverminderd [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=IV&artikel=8&z=2004-10-29&g=2004-10-29), overeenkomstig zijn grondwettelijke bepalingen de andere lidstaten ervan in kennis stellen dat deel I met ingang van de eerste dag van de maand volgend op de kennisgeving, bestaat uit de bepalingen van de bijlage. In dat geval worden de [artikelen 5 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=II&artikel=5&z=2004-10-29&g=2004-10-29) dienovereenkomstig hernummerd.
 
 2. Zes maanden nadat de in lid 1 bedoelde kennisgeving van kracht is geworden, worden het volledige Schengenacquis en alle maatregelen die genomen zijn om dat acquis te ontwikkelen, die tot dan ten aanzien van Denemarken verbindend waren als internationaalrechtelijke verplichtingen, voor Denemarken verbindend uit hoofde van het recht van de Unie.
 
-#### Artikel 1
+##### Artikel 1
 
 Onder voorbehoud van artikel 3 neemt Denemarken niet deel aan de vaststelling door de Raad van de overeenkomstig [deel III, titel III, hoofdstuk IV, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&z=2004-10-29&g=2004-10-29) voorgestelde handelingen. Voor handelingen van de Raad die met eenparigheid van stemmen moeten worden vastgesteld, is eenparigheid van de leden van de Raad vereist, met uitzondering van de vertegenwoordiger van de Deense regering.
 
@@ -8683,21 +8702,21 @@ Een blokkerende minderheid moet ten minste uit het minimumaantal van de leden va
 
 In afwijking van de tweede en de derde alinea wordt, wanneer de Raad niet besluit op voorstel van de Commissie of van de minister van Buitenlandse Zaken van de Unie, onder de vereiste gekwalificeerde meerderheid van stemmen verstaan ten minste 72% van de leden van de Raad die de deelnemende lidstaten vertegenwoordigen waarvan de bevolking ten minste 65% uitmaakt van de bevolking van die staten.
 
-#### Artikel 2
+##### Artikel 2
 
 Ingevolge artikel 1 en onder voorbehoud van de artikelen 3, 4 en 6 zijn [deel III, titel III, hoofdstuk IV, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&z=2004-10-29&g=2004-10-29), de overeenkomstig dat hoofdstuk vastgestelde maatregelen, de door de Unie overeenkomstig dat hoofdstuk gesloten internationale overeenkomsten en de beslissingen van het Hof van Justitie van de Europese Unie ter uitlegging van die bepalingen of maatregelen niet verbindend voor, noch van toepassing op Denemarken. Bedoelde bepalingen, maatregelen en beslissingen laten de bevoegdheden, rechten en verplichtingen van Denemarken onverlet. Bedoelde bepalingen, maatregelen en beslissingen laten het acquis communautaire en het acquis van de Unie geheel onverlet en maken geen deel uit van het recht van de Unie, zoals die op Denemarken van toepassing zijn.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Binnen een termijn van drie maanden na de indiening van een voorstel of een initiatief bij de Raad overeenkomstig [deel III, titel III, hoofdstuk IV, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&z=2004-10-29&g=2004-10-29) kan Denemarken de voorzitter van de Raad er schriftelijk van in kennis stellen dat het wenst deel te nemen aan de vaststelling en de toepassing van de voorgestelde maatregel, waarna deze staat daartoe gerechtigd is.
 
 2. Indien een maatregel als bedoeld in lid 1 na een redelijke termijn niet met deelneming van Denemarken kan worden vastgesteld, kan de Raad de in lid 1 bedoelde maatregel overeenkomstig artikel 1 vaststellen zonder deelneming van Denemarken. In dat geval is artikel 2 van toepassing.
 
-#### Artikel 4
+##### Artikel 4
 
 Na de vaststelling van een maatregel overeenkomstig [deel III, titel III, hoofdstuk IV, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&z=2004-10-29&g=2004-10-29) kan Denemarken de Raad en de Commissie er te allen tijde van in kennis stellen dat het voornemens is die maatregel te aanvaarden. In dat geval is de procedure van [artikel III-420, lid 1, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=III&afdeling=7&artikel=III-240&z=2004-10-29&g=2004-10-29) van overeenkomstige toepassing.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De in artikel 4 bedoelde kennisgeving vindt uiterlijk zes maanden na de definitieve vaststelling van een maatregel plaats, indien die maatregel een uitwerking van het Schengenacquis inhoudt.
 
@@ -8705,11 +8724,11 @@ Indien Denemarken aangaande die maatregelen de in de artikelen 3 en 4 bedoelde k
 
 2. Een kennisgeving overeenkomstig artikel 3 met betrekking tot maatregelen die een uitwerking van het Schengenacquis inhouden, wordt onherroepelijk geacht een kennisgeving overeenkomstig artikel 3 te zijn ten aanzien van voorstellen of initiatieven die een uitwerking van die maatregel inhouden, voorzover die voorstellen of initiatieven een uitwerking van het Schengenacquis inhouden.
 
-#### Artikel 6
+##### Artikel 6
 
 Indien Denemarken, in gevallen als bedoeld in dit deel, gebonden is door een door de Raad overeenkomstig [deel III, titel III, hoofdstuk IV, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&z=2004-10-29&g=2004-10-29) vastgestelde maatregel, zijn de desbetreffende bepalingen van de Grondwet van toepassing op Denemarken wat betreft die maatregel.
 
-#### Artikel 7
+##### Artikel 7
 
 Indien Denemarken niet gebonden is door een overeenkomstig [deel III, titel III, hoofdstuk IV, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&z=2004-10-29&g=2004-10-29) vastgestelde maatregel, mag deze maatregel voor Denemarken geen andere financiële gevolgen hebben dan de ermee gepaard gaande administratieve kosten voor de Instellingen, tenzij de Raad met eenparigheid van stemmen anders besluit, na raadpleging van het Europees Parlement.
 
@@ -8719,7 +8738,7 @@ in aanmerking nemend dat de lidstaten doeltreffende controles aan hun buitengren
 
 Hebben overeenstemming bereikt omtrent de volgende bepaling, die aan het Verdrag tot vaststelling van een Grondwet voor Europa wordt gehecht:
 
-#### Artikel Enig
+##### Artikel Enig
 
 De bepalingen betreffende de maatregelen inzake de overschrijding van de buitengrenzen in [artikel III-265, lid 2, onder b, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=2&artikel=III-265&z=2004-10-29&g=2004-10-29) laten de bevoegdheid van de lidstaten om met derde landen over overeenkomsten te onderhandelen of overeenkomsten te sluiten onverlet, mits daarbij het recht van de Unie en andere internationale overeenkomsten terzake worden geëerbiedigd.
 
@@ -8745,7 +8764,7 @@ Overwegende dat in dit protocol de uiteindelijke doelstellingen van het [Verdrag
 
 Hebben overeenstemming bereikt omtrent de volgende bepalingen, die aan het Verdrag tot vaststelling van een Grondwet voor Europa worden gehecht:
 
-#### Artikel Enig
+##### Artikel Enig
 
 Het niveau van bescherming van de fundamentele rechten en vrijheden in de lidstaten van de Europese Unie in aanmerking nemend, beschouwen de lidstaten elkaar als veilige landen van oorsprong voor alle juridische en praktische doeleinden in verband met asielzaken. Dienovereenkomstig kan een asielaanvraag van een onderdaan van een lidstaat door een andere lidstaat uitsluitend in aanmerking worden genomen of ontvankelijk worden verklaard in de volgende gevallen:
 
@@ -8783,7 +8802,7 @@ Memorerend hoezeer het van belang is dat de minister van Buitenlandse Zaken van 
 
 Hebben overeenstemming bereikt omtrent de volgende bepalingen, die aan het Verdrag tot vaststelling van een Grondwet voor Europa worden gehecht:
 
-#### Artikel 1
+##### Artikel 1
 
 De in [artikel I-41, lid 6, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=V&hoofdstuk=II&artikel=I-41&z=2004-10-29&g=2004-10-29) bedoelde permanente gestructureerde samenwerking staat open voor alle lidstaten die met ingang van de datum van inwerkingtreding van het Verdrag tot vaststelling van een Grondwet voor Europa zich ertoe verbinden:
 
@@ -8791,7 +8810,7 @@ De in [artikel I-41, lid 6, van de Grondwet](https://wetten.overheid.nl/jci1.3:c
 
 - b. uiterlijk in 2007 in staat te zijn tot levering, hetzij op nationale basis hetzij als component van gezamenlijke taakgroepen, van specifiek voor de voorgenomen missies bestemde gevechtseenheden, die in tactisch opzicht als snellereactiegevechtgroep geconfigureerd zijn en voorzien zijn van ondersteuningselementen, transport en logistiek inbegrepen, en die in staat zijn binnen een termijn van 5 tot 30 dagen missies als bedoeld in [artikel III-309](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=V&hoofdstuk=II&afdeling=2&artikel=III-309&z=2004-10-29&g=2004-10-29) te ondernemen, in het bijzonder om gevolg te geven aan verzoeken van de Verenigde Naties, en die missies kunnen volhouden gedurende een initiële periode van 30 dagen, te verlengen tot ten minste 120 dagen.
 
-#### Artikel 2
+##### Artikel 2
 
 Teneinde te voldoen aan de in artikel 1 genoemde doelstellingen verbinden de lidstaten die deelnemen aan de permanente gestructureerde samenwerking, zich ertoe:
 
@@ -8805,7 +8824,7 @@ Teneinde te voldoen aan de in artikel 1 genoemde doelstellingen verbinden de lid
 
 - e. in voorkomend geval samen te werken bij de ontwikkeling van gemeenschappelijke of Europese programma's voor belangrijke uitrusting in het kader van het Europees Defensieagentschap.
 
-#### Artikel 3
+##### Artikel 3
 
 Het Europees Defensieagentschap draagt bij tot een regelmatige evaluatie van de bijdragen van de deelnemende lidstaten op het gebied van vermogens, in het bijzonder de bijdragen die worden geleverd volgens de onder meer op basis van artikel 2 vast te stellen criteria, en brengt daarover ten minste eenmaal per jaar verslag uit. De evaluatie kan dienen als uitgangspunt voor de aanbevelingen en de Europese besluiten van de Raad die worden vastgesteld overeenkomstig [artikel III-312 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=V&hoofdstuk=II&afdeling=2&artikel=III-312&z=2004-10-29&g=2004-10-29).
 
@@ -8817,7 +8836,7 @@ Indachtig het feit dat het beleid van de Unie overeenkomstig [artikel I-41, lid 
 
 Hebben overeenstemming bereikt omtrent de volgende bepaling, die aan het Verdrag tot vaststelling van een Grondwet voor Europa wordt gehecht:
 
-#### Artikel Enig
+##### Artikel Enig
 
 De Unie ontwikkelt in samenwerking met de West-Europese Unie regelingen voor intensievere onderlinge samenwerking.
 
@@ -8827,15 +8846,15 @@ Verlangende nadere bijzonderheden vast te stellen over de regeling van het hande
 
 Hebben overeenstemming bereikt omtrent de volgende bepalingen, die aan het Verdrag tot vaststelling van een Grondwet voor Europa worden gehecht:
 
-#### Artikel 1
+##### Artikel 1
 
 Dit Protocol is van toepassing op aardolieproducten die vallen onder de posten 27.10, 27.11, 27.12 (paraffine, was uit aardoliën), ex 27.13 (paraffineachtige residuen) en 27.14 (leisteenoliën) van de gecombineerde nomenclatuur en die worden ingevoerd voor verbruik in de lidstaten.
 
-#### Artikel 2
+##### Artikel 2
 
 De lidstaten verbinden zich aan de in de Nederlands Antillen geraffineerde aardolieproducten, overeenkomstig dit Protocol, de tariefvoordelen toe te kennen die voortvloeien uit de associatie van dit land met de Unie. De bepalingen van dit Protocol gelden ongeacht de regels inzake oorsprong welke door de lidstaten worden toegepast.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Wanneer de Commissie op verzoek van een lidstaat of op eigen initiatief vaststelt dat de invoer in de Unie volgens artikel 2 van in de Nederlandse Antillen geraffineerde aardolieproducten reële moeilijkheden op de markt van één of meer lidstaten teweegbrengt, stelt zij een Europees besluit vast waarbij voor deze invoer door de betrokken lidstaten douanerechten worden ingesteld, verhoogd of weder toegepast, voor zover en voor zo lang als nodig is om aan deze situatie het hoofd te bieden. De aldus ingestelde, verhoogde of weder toegepaste douanerechten mogen niet hoger zijn dan de douanerechten die tegenover derde landen voor dezelfde producten van toepassing zijn.
 
@@ -8843,17 +8862,17 @@ De lidstaten verbinden zich aan de in de Nederlands Antillen geraffineerde aardo
 
 3. De door de Commissie krachtens de leden 1 en 2 vastgestelde Europese besluiten, met inbegrip van die welke strekken tot het afwijzen van een verzoek van een lidstaat, worden ter kennis van de Raad gebracht. Deze kan ze op verzoek van elke lidstaat in behandeling nemen en kan op elk ogenblik een Europees besluit vaststellen om ze te wijzigen of in te trekken.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien een lidstaat oordeelt dat invoer van in de Nederlandse Antillen geraffineerde aardolieproducten welke rechtstreeks of via een andere lidstaat overeenkomstig artikel 2 plaatsvindt, reële moeilijkheden op zijn markt veroorzaakt en dat onmiddellijk optreden noodzakelijk is om daaraan het hoofd te bieden, mag hij op eigen initiatief besluiten, op deze invoer douanerechten toe te passen die niet hoger zijn dan de douanerechten die tegenover derde landen voor dezelfde producten van toepassing zijn. Hij brengt dit besluit ter kennis van de Commissie, die binnen één maand een Europees besluit vaststelt waarin wordt bepaald of de door deze staat getroffen maatregelen mogen worden gehandhaafd, dan wel dienen te worden gewijzigd of opgeheven. artikel 3, lid 3, is op dit besluit van de Commissie van toepassing.
 
 2. Wanneer de invoer van in de Nederlandse Antillen geraffineerde aardolieproducten welke rechtstreeks of via een andere lidstaat overeenkomstig artikel 2 plaatsvindt in één of meer lidstaten, gedurende één kalenderjaar de in de bijlage bij dit protocol vastgestelde hoeveelheden overschrijdt, worden de eventueel krachtens lid 1 door deze lidstaat of lidstaten getroffen maatregelen voor het lopende kalenderjaar rechtmatig geacht. Na zich ervan te hebben overtuigd dat de vastgestelde hoeveelheid is bereikt, neemt de Commissie nota van de getroffen maatregelen. In dit geval zien de andere lidstaten ervan af zich tot de Raad te wenden.
 
-#### Artikel 5
+##### Artikel 5
 
 Indien de Unie besluit kwantitatieve beperkingen toe te passen op de invoer van aardolieproducten, ongeacht de herkomst daarvan, mogen deze ook worden toegepast op de invoer van die producten uit de Nederlandse Antillen. In dit geval wordt aan de Nederlandse Antillen een voorkeursbehandeling ten opzichte van derde landen gewaarborgd.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De artikelen 2 tot en met 5 kunnen door de Raad, met eenparigheid van stemmen na raadpleging van het Europees Parlement en de Commissie worden herzien bij de aanvaarding van een gemeenschappelijke definitie van de oorsprong voor aardolieproducten afkomstig uit derde en geassocieerde landen, bij het nemen van besluiten in het kader van een gemeenschappelijke handelspolitiek voor de betrokken producten, of bij de opstelling van een gemeenschappelijk energiebeleid.
 
@@ -8861,7 +8880,7 @@ Indien de Unie besluit kwantitatieve beperkingen toe te passen op de invoer van 
 
 3. De verplichtingen van de Unie betreffende de in lid 2 genoemde gelijkwaardige voordelen kunnen zo nodig over de lidstaten worden verdeeld, waarbij met de in de bijlage bij dit protocol vermelde hoeveelheden rekening wordt gehouden.
 
-#### Artikel 7
+##### Artikel 7
 
 In verband met de uitvoering van dit Protocol dient de Commissie het verloop van de invoer van in de Nederlandse Antillen geraffineerde aardolieproducten in de lidstaten te volgen. De lidstaten brengen de Commissie alle daartoe dienstige gegevens volgens de door haar aanbevolen administratieve voorschriften ter kennis; zij zorgt voor de verspreiding daarvan.
 
@@ -8871,7 +8890,7 @@ Geleid door de wens bepaalde bijzondere problemen te regelen die betrekking hebb
 
 Hebben overeenstemming bereikt omtrent de volgende bepaling, die aan het Verdrag tot vaststelling van een Grondwet voor Europa wordt gehecht:
 
-#### artikel Enig
+##### artikel Enig
 
 Niettegenstaande de Grondwet mag Denemarken zijn huidige wetgeving inzake de verwerving van tweede woningen handhaven.
 
@@ -8881,7 +8900,7 @@ Van oordeel dat het publiekeomroepstelsel in de lidstaten rechtstreeks verband h
 
 Hebben overeenstemming bereikt omtrent de volgende interpretatieve bepalingen, die aan het Verdrag tot vaststelling van een Grondwet voor Europa worden gehecht:
 
-#### artikel Enig
+##### artikel Enig
 
 De bepalingen van de Grondwet doen geen afbreuk aan de bevoegdheid van de lidstaten om te voorzien in de financiering van de publieke omroep, voorzover deze financiering wordt verleend aan omroeporganisaties voor het vervullen van de publieke opdracht zoals toegekend, bepaald en georganiseerd door iedere lidstaat, en voorzover deze financiering de voorwaarden inzake het handelsverkeer en de mededingingsvoorwaarden in de Unie niet zodanig verandert dat het gemeenschappelijk belang wordt geschaad, waarbij rekening wordt gehouden met de verwezenlijking van de opdracht van deze publieke dienst.
 
@@ -8889,7 +8908,7 @@ De Hoge Verdragsluitende Partijen,
 
 Hebben overeenstemming bereikt omtrent de volgende bepaling, die aan het Verdrag tot vaststelling van een Grondwet voor Europa wordt gehecht:
 
-#### artikel Enig
+##### artikel Enig
 
 Voor de toepassing van [artikel III-214 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=III&afdeling=2&artikel=III-214&z=2004-10-29&g=2004-10-29) worden uitkeringen uit hoofde van een ondernemings- of sectorale regeling inzake sociale zekerheid niet als beloning beschouwd indien en voorzover zij kunnen worden toegerekend aan tijdvakken van arbeid vóór 17 mei 1990, behalve in het geval van werknemers of hun rechtverkrijgenden die voor die datum een rechtsvordering of een naar geldend nationaal recht daarmee gelijk te stellen vordering hebben ingesteld.
 
@@ -8911,7 +8930,7 @@ Gelet op het voorstel om in het stelsel van eigen middelen meer rekening te houd
 
 Hebben overeenstemming bereikt omtrent de volgende bepalingen, die aan het Verdrag tot vaststelling van een Grondwet voor Europa worden gehecht:
 
-#### artikel Enig
+##### artikel Enig
 
 1. De lidstaten bevestigen dat de bevordering van de economische, sociale en territoriale samenhang van vitaal belang is voor de volledige ontwikkeling en een duurzaam welslagen van de Unie.
 
@@ -8933,7 +8952,7 @@ De Hoge Verdragsluitende Partijen,
 
 Hebben overeenstemming bereikt omtrent de volgende bepalingen, die aan het Verdrag tot vaststelling van een Grondwet voor Europa worden gehecht:
 
-#### artikel Enig
+##### artikel Enig
 
 1. De behandeling bij invoer in de Unie van onder de gemeenschappelijke ordening der markten in de sector visserijproducten vallende producten van oorsprong uit Groenland geschiedt, met inachtneming van de mechanismen van de gemeenschappelijke marktordening, met vrijstelling van douanerechten en heffingen van gelijke werking en zonder kwantitatieve beperkingen of maatregelen van gelijke werking, indien de mogelijkheden van toegang tot de Groenlandse visserijzones die voor de Unie zijn geopend krachtens een overeenkomst tussen de Unie en de voor Groenland bevoegde autoriteit bevredigend zijn voor de Unie.
 
@@ -8943,7 +8962,7 @@ De Hoge Verdragsluitende Partijen,
 
 Hebben overeenstemming bereikt omtrent de volgende bepaling, die aan het Verdrag tot vaststelling van een Grondwet voor Europa en aan het [Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie](https://wetten.overheid.nl/jci1.3:c:BWBV0004033) wordt gehecht:
 
-#### artikel Enig
+##### artikel Enig
 
 Geen enkele bepaling van het Verdrag tot vaststelling van de Grondwet voor Europa of van de verdragen of akten tot wijziging of aanvulling ervan, doet afbreuk aan de toepassing in Ierland van artikel 40.3.3 van de Grondwet van Ierland.
 
@@ -8951,7 +8970,7 @@ De Hoge Verdragsluitende Partijen,
 
 Hebben overeenstemming bereikt omtrent de volgende bepalingen, die aan het Verdrag tot vaststelling van een Grondwet voor Europa worden gehecht:
 
-#### Artikel 1
+##### Artikel 1
 
 Het in [artikel I-9, lid 2, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=II&artikel=I-9&z=2004-10-29&g=2004-10-29) bedoelde Akkoord betreffende de toetreding van de Unie tot het [Europees Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden](https://wetten.overheid.nl/jci1.3:c:BWBV0001000) (hierna „Europees Verdrag” genoemd) voorziet in de instandhouding van de specifieke kenmerken van de Unie en het recht van de Unie, met name wat betreft:
 
@@ -8959,11 +8978,11 @@ Het in [artikel I-9, lid 2, van de Grondwet](https://wetten.overheid.nl/jci1.3:c
 
 - b. de benodigde mechanismen om ervoor te zorgen dat door staten die geen lidstaat zijn ingeleide procedures en individuele beroepen correct tot de lidstaten en/of de Unie worden gericht, naargelang het geval.
 
-#### Artikel 2
+##### Artikel 2
 
 Het in artikel 1 bedoelde akkoord moet van dien aard zijn dat de toetreding de bevoegdheden van de Unie en die van haar instellingen onverlet laat. Het moet tevens waarborgen dat de situatie van de lidstaten ten aanzien van het [Europees Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001000), en met name ten aanzien van de bijbehorende Protocollen, de door de lidstaten overeenkomstig [artikel 15 van het Europees Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001000&artikel=15) genomen afwijkende maatregelen en de door de lidstaten overeenkomstig [artikel 57 van dat Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001000&artikel=57) gemaakte voorbehouden geheel onverlet blijft.
 
-#### Artikel 3
+##### Artikel 3
 
 Het in artikel 1 bedoelde akkoord laat [artikel III-375, lid 2, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=I&paragraaf=5&artikel=III-375&z=2004-10-29&g=2004-10-29) geheel onverlet.
 
@@ -8979,7 +8998,7 @@ Eraan herinnerend dat de Akte van 20 september 1976 betreffende de verkiezing va
 
 Hebben overeenstemming bereikt omtrent de volgende bepalingen, die aan het Verdrag tot vaststelling van een Grondwet voor Europa en aan het [Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie](https://wetten.overheid.nl/jci1.3:c:BWBV0004033) worden gehecht:
 
-#### Artikel 1
+##### Artikel 1
 
 1. De volgende akten en verdragen, waarbij het [Verdrag tot oprichting van de Europese Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) is aangevuld of gewijzigd, worden ingetrokken:
 
@@ -9003,7 +9022,7 @@ Hebben overeenstemming bereikt omtrent de volgende bepalingen, die aan het Verdr
 
 3. Het Verdrag van Nice van 26 februari 2001 houdende wijziging van het Verdrag betreffende de Europese Unie, de Verdragen tot oprichting van de Europese Gemeenschappen en sommige bijbehorende akten (PB C 80 van 10.3.2001, blz. 1) wordt ingetrokken.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Onverminderd de toepassing van [artikel III-432 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VII&artikel=III-432&z=2004-10-29&g=2004-10-29) en van [artikel 189 van het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie](https://wetten.overheid.nl/jci1.3:c:BWBV0004033&artikel=189), stellen de vertegenwoordigers van de regeringen van de lidstaten in onderling overleg de bepalingen vast die noodzakelijk zijn voor het regelen van bepaalde problemen die eigen zijn aan het Groothertogdom Luxemburg en die voortvloeien uit het instellen van één Raad en één Commissie die de Gemeenschappen gemeen hebben.
 
@@ -9017,7 +9036,7 @@ Hebben overeenstemming bereikt omtrent de volgende bepalingen, die aan het Verdr
 
 ## TITEL I. BEPALINGEN BETREFFENDE HET EUROPEES PARLEMENT
 
-#### Artikel 1
+##### Artikel 1
 
 1. Lang genoeg vóór de verkiezingen voor het Europees Parlement van 2009 stelt de Europese Raad, overeenkomstig [artikel I-20, lid 2, tweede alinea, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=IV&hoofdstuk=I&artikel=I-20&z=2004-10-29&g=2004-10-29), een Europees besluit vast inzake de samenstelling van het Europees Parlement.
 
@@ -9052,7 +9071,7 @@ Hebben overeenstemming bereikt omtrent de volgende bepalingen, die aan het Verdr
 
 ## TITEL II. BEPALINGEN BETREFFENDE DE EUROPESE RAAD EN DE RAAD
 
-#### Artikel 2
+##### Artikel 2
 
 1. De bepalingen van [artikel I-25, leden 1, 2 en 3, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=IV&hoofdstuk=I&artikel=I-25&z=2004-10-29&g=2004-10-29), betreffende de bepaling van de gekwalificeerde meerderheid van stemmen in de Europese Raad en de Raad, worden van kracht op 1 november 2009, nadat overeenkomstig [artikel I-20, lid 2, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=IV&hoofdstuk=I&artikel=I-20&z=2004-10-29&g=2004-10-29) de verkiezingen voor het Europees Parlement van 2009 hebben plaatsgevonden.
 
@@ -9123,25 +9142,25 @@ Een lid van de Europese Raad of van de Raad kan verlangen dat, in de gevallen wa
 
 Tot en met 31 oktober 2009 geldt, in gevallen waarin niet alle leden van de Raad aan de stemming deelnemen, namelijk in de gevallen bedoeld in de in de eerste alinea genoemde artikelen, gekwalificeerde meerderheid van stemmen als hetzelfde aantal gewogen stemmen en hetzelfde aantal leden van de Raad alsmede, in voorkomend geval, hetzelfde percentage van de bevolking van de betrokken lidstaten, als vastgesteld in lid 2.
 
-#### Artikel 3
+##### Artikel 3
 
 Tot aan de inwerkingtreding van het in [artikel I-24, lid 4, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=IV&hoofdstuk=I&artikel=I-24&z=2004-10-29&g=2004-10-29) bedoelde Europees besluit kan de Raad bijeenkomen in de in Artikel I-24, leden 2 en 3, genoemde formaties en in de formaties voorkomende op een lijst die de Raad Algemene Zaken bij Europees besluit vaststelt met gewone meerderheid van stemmen.
 
 ## TITEL III. BEPALINGEN BETREFFENDE DE COMMISSIE MET INBEGRIP VAN DE MINISTER VAN BUITENLANDSE ZAKEN VAN DE UNIE
 
-#### Artikel 4
+##### Artikel 4
 
 De leden van de Commissie die op de datum van inwerkingtreding van het Verdrag tot vaststelling van een Grondwet voor Europa in functie zijn, blijven in functie tot het eind van hun ambtstermijn. Op de dag waarop de minister van Buitenlandse Zaken van de Unie wordt benoemd, eindigt evenwel de ambtstermijn van het lid dat dezelfde nationaliteit heeft als de minister van Buitenlandse Zaken van de Unie.
 
 ## TITEL IV. BEPALINGEN BETREFFENDE DE SECRETARIS-GENERAAL VAN DE RAAD, HOGE VERTEGENWOORDIGER VOOR HET GEMEENSCHAPPELIJK BUITENLANDS EN VEILIGHEIDSBELEID, EN DE PLAATSVERVANGEND SECRETARIS-GENERAAL VAN DE RAAD
 
-#### Artikel 5
+##### Artikel 5
 
 De ambtstermijnen van de secretaris-generaal van de Raad, hoge vertegenwoordiger voor het gemeenschappelijk buitenlands en veiligheidsbeleid, en de plaatsvervangend secretaris-generaal van de Raad eindigen op de datum van inwerkingtreding van het Verdrag tot vaststelling van een Grondwet voor Europa. De Raad benoemt een secretaris-generaal overeenkomstig [artikel III-344, lid 2, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=I&paragraaf=3&artikel=III-344&z=2004-10-29&g=2004-10-29).
 
 ## TITEL V. BEPALINGEN BETREFFENDE DE ADVIESORGANEN
 
-#### Artikel 6
+##### Artikel 6
 
 Tot aan de inwerkingtreding van het in [artikel III-386 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=2&paragraaf=1&artikel=III-386&z=2004-10-29&g=2004-10-29) bedoelde Europees besluit is de zetelverdeling van de leden van het Comité van de Regio's als volgt:
 
@@ -9172,7 +9191,7 @@ Tot aan de inwerkingtreding van het in [artikel III-386 van de Grondwet](https:/
 | Zweden | 12 |
 | Verenigd Koninkrijk | 24 |
 
-#### Artikel 7
+##### Artikel 7
 
 Tot aan de inwerkingtreding van het in [artikel III-389 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=2&paragraaf=2&artikel=III-389&z=2004-10-29&g=2004-10-29) bedoelde Europees besluit is de zetelverdeling van de leden van het Economisch en Sociaal Comité als volgt:
 
@@ -9211,19 +9230,19 @@ Rekening houdend met het feit dat het wenselijk is die middelen te gebruiken voo
 
 Hebben overeenstemming bereikt omtrent de volgende bepalingen, die aan het Verdrag tot vaststelling van een Grondwet voor Europa worden gehecht:
 
-#### Artikel 1
+##### Artikel 1
 
 1. De nettowaarde van alle activa en passiva van de Europese Gemeenschap voor Kolen en Staal in de balans van de Europese Gemeenschap voor Kolen en Staal per 23 juli 2002 wordt, onder voorbehoud van eventuele toe- of afname als gevolg van de liquidatieverrichtingen, beschouwd als vermogen van de Unie dat, onder de benaming „Europese Gemeenschap voor Kolen en Staal in vereffening”, bestemd is voor onderzoek in sectoren die in verband staan met de kolen- en staalindustrie. Na afwikkeling van de liquidatie krijgt dat vermogen de benaming „vermogen van het Fonds voor onderzoek inzake kolen en staal”.
 
 2. De opbrengst van dat vermogen, die „Fonds voor onderzoek inzake kolen en staal” wordt genoemd, wordt overeenkomstig het onderhavige protocol en de op grond daarvan vastgestelde handelingen uitsluitend gebruikt voor onderzoek dat buiten het kaderprogramma voor onderzoek wordt verricht in sectoren die in verband staan met de kolen- en staalindustrie.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Bij Europese wet van de Raad worden alle voor de toepassing van dit protocol noodzakelijke maatregelen, inclusief de essentiële beginselen ervan, vastgesteld. De Raad besluit na goedkeuring van het Europees Parlement.
 
 2. De Raad stelt, op voorstel van de Commissie, de Europese verordeningen en besluiten vast houdende vaststelling van de financiële meerjarenrichtsnoeren voor het beheer van het vermogen van het Fonds voor onderzoek inzake kolen en staal, alsmede de technische richtsnoeren voor het onderzoeksprogramma van het Fonds voor onderzoek inzake kolen en staal. Hij besluit na raadpleging van het Europees Parlement.
 
-#### Artikel 3
+##### Artikel 3
 
 De Grondwet is van toepassing, tenzij in dit Protocol en de op grond daarvan vastgestelde besluiten anders is bepaald.
 
@@ -9235,69 +9254,69 @@ Verlangend om dat verdrag, met name op institutioneel en financieel gebied, aan 
 
 Hebben overeenstemming bereikt omtrent de volgende bepalingen, die aan het Verdrag tot vaststelling van een Grondwet voor Europa worden gehecht en die het [Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie](https://wetten.overheid.nl/jci1.3:c:BWBV0004033) als volgt wijzigen:
 
-#### Artikel 1
+##### Artikel 1
 
 Dit Protocol wijzigt het [Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie](https://wetten.overheid.nl/jci1.3:c:BWBV0004033) (hierna het „EGA-Verdrag” genoemd in de versie die van kracht is op de datum van inwerkingtreding van het Verdrag tot vaststelling van een Grondwet voor Europa.
 
 Niettegenstaande de bepalingen van [artikel IV-437 van het Verdrag tot vaststelling van een Grondwet voor Europa](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=IV&artikel=IV-437&z=2004-10-29&g=2004-10-29) en onverminderd andere bepalingen van het onderhavige Protocol, blijven de rechtsgevolgen van de wijzigingen die bij de krachtens artikel IV-437 van het Verdrag tot vaststelling van een Grondwet voor Europa ingetrokken verdragen en akten in het [EGA-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004033) zijn aangebracht, alsmede de rechtsgevolgen van de geldende handelingen die zijn vastgesteld op grond van het EGA-Verdrag, onverlet.
 
-#### Artikel 2
+##### Artikel 2
 
 Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie; Rome, 25 maart 1957.
 
-#### Artikel 3
+##### Artikel 3
 
 Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie; Rome, 25 maart 1957.
 
-#### Artikel 4
+##### Artikel 4
 
 Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie; Rome, 25 maart 1957.
 
-#### Artikel 5
+##### Artikel 5
 
 Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie; Rome, 25 maart 1957.
 
-#### Artikel 6
+##### Artikel 6
 
 Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie; Rome, 25 maart 1957.
 
-#### Artikel 7
+##### Artikel 7
 
 Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie; Rome, 25 maart 1957.
 
-#### Artikel 8
+##### Artikel 8
 
 Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie; Rome, 25 maart 1957.
 
-#### Artikel 9
+##### Artikel 9
 
 Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie; Rome, 25 maart 1957.
 
-#### Artikel 10
+##### Artikel 10
 
 Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie; Rome, 25 maart 1957.
 
-#### Artikel 11
+##### Artikel 11
 
 Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie; Rome, 25 maart 1957.
 
-#### Artikel 12
+##### Artikel 12
 
 De ontvangsten en uitgaven van de Europese Gemeenschap voor Atoomenergie worden, met uitzondering van die van het Voorzieningsagentschap en die van gemeenschappelijke ondernemingen, in de begroting van de Unie opgenomen.
 
-#### 1. Verklaring ad [artikel I-6](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=I&artikel=I-6&z=2004-10-29&g=2004-10-29)
+##### 1. Verklaring ad [artikel I-6](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=I&artikel=I-6&z=2004-10-29&g=2004-10-29)
 
 De Conferentie merkt op dat [artikel I-6](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=I&artikel=I-6&z=2004-10-29&g=2004-10-29) een afspiegeling is van de bestaande rechtspraak van het Hof van Justitie van de Europese Gemeenschappen en van het Gerecht van eerste aanleg.
 
-#### 2. Verklaring ad [artikel I-9, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=II&artikel=I-9&z=2004-10-29&g=2004-10-29)
+##### 2. Verklaring ad [artikel I-9, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=II&artikel=I-9&z=2004-10-29&g=2004-10-29)
 
 De Conferentie is het er over eens dat bij de toetreding van de Unie tot het [Europees Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden](https://wetten.overheid.nl/jci1.3:c:BWBV0001000), de specifieke kenmerken van het recht van de Unie in stand moeten worden gehouden. In dit verband neemt de Conferentie nota van het bestaan van een regelmatige dialoog tussen het Hof van Justitie van de Europese Unie en het Europese Hof voor de rechten van de mens; deze dialoog zou kunnen worden versterkt wanneer de Unie toetreedt tot dit verdrag.
 
-#### 3. Verklaring ad [artikelen I-22](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=IV&hoofdstuk=I&artikel=I-22&z=2004-10-29&g=2004-10-29), [I-27](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=IV&hoofdstuk=I&artikel=I-27&z=2004-10-29&g=2004-10-29) en [I-28](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=IV&hoofdstuk=I&artikel=I-28&z=2004-10-29&g=2004-10-29)
+##### 3. Verklaring ad [artikelen I-22](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=IV&hoofdstuk=I&artikel=I-22&z=2004-10-29&g=2004-10-29), [I-27](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=IV&hoofdstuk=I&artikel=I-27&z=2004-10-29&g=2004-10-29) en [I-28](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=IV&hoofdstuk=I&artikel=I-28&z=2004-10-29&g=2004-10-29)
 
 Bij de keuze van de personen voor de ambten van voorzitter van de Europese Raad, voorzitter van de Commissie en minister van Buitenlandse Zaken van de Unie moet naar behoren rekening worden gehouden met de noodzaak tot eerbiediging van de geografische en demografische verscheidenheid van de Unie en van de lidstaten.
 
-#### 4. Verklaring ad [artikel I-24, lid 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=IV&hoofdstuk=I&artikel=I-24&z=2004-10-29&g=2004-10-29), betreffende het besluit van de Europese Raad inzake de uitoefening van het voorzitterschap van de Raad
+##### 4. Verklaring ad [artikel I-24, lid 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=IV&hoofdstuk=I&artikel=I-24&z=2004-10-29&g=2004-10-29), betreffende het besluit van de Europese Raad inzake de uitoefening van het voorzitterschap van de Raad
 
 De Conferentie verklaart dat de Raad, zodra het Verdrag tot vaststelling van een Grondwet voor Europa is ondertekend, moet beginnen met de voorbereiding van het Europees besluit tot vaststelling van de maatregelen voor de toepassing van het Europese besluit van de Europese Raad inzake de uitoefening van het voorzitterschap van de Raad en daaraan binnen zes maanden zijn politieke goedkeuring moet hechten. Hieronder volgt een ontwerp van een Europees besluit van de Europese Raad dat zal worden aangenomen op de dag waarop voornoemd verdrag in werking treedt.
 
@@ -9315,7 +9334,7 @@ De Raad Algemene Zaken draagt in samenwerking met de Commissie in het kader van 
 
 De Raad stelt een Europees besluit houdende maatregelen tot uitvoering van dit besluit vast.
 
-#### 5. Verklaring ad [artikel I-25](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=IV&hoofdstuk=I&artikel=I-25&z=2004-10-29&g=2004-10-29)
+##### 5. Verklaring ad [artikel I-25](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=IV&hoofdstuk=I&artikel=I-25&z=2004-10-29&g=2004-10-29)
 
 De Conferentie verklaart dat het Europese besluit betreffende de uitvoering van [artikel I-25](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=IV&hoofdstuk=I&artikel=I-25&z=2004-10-29&g=2004-10-29) door de Raad zal worden vastgesteld op de dag waarop het Verdrag tot vaststelling van een Grondwet voor Europa in werking treedt. Hieronder volgt het ontwerp-besluit:
 
@@ -9345,33 +9364,33 @@ De voorzitter van de Raad neemt hiertoe, met de hulp van de Commissie en met ina
 
 Dit besluit treedt op 1 november 2009 in werking. Het blijft ten minste tot 2014 van kracht. Daarna kan de Raad een Europees besluit tot intrekking ervan vaststellen.
 
-#### 6. Verklaring ad [artikel I-26](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=IV&hoofdstuk=I&artikel=I-26&z=2004-10-29&g=2004-10-29)
+##### 6. Verklaring ad [artikel I-26](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=IV&hoofdstuk=I&artikel=I-26&z=2004-10-29&g=2004-10-29)
 
 De Conferentie is van mening dat, wanneer de Commissie niet langer uit onderdanen van alle lidstaten bestaat, zij bijzondere aandacht moet schenken aan de noodzaak om te zorgen voor volledige transparantie in haar betrekkingen met alle lidstaten. Bijgevolg moet de Commissie nauwe contacten onderhouden met alle lidstaten, ongeacht of een van hun onderdanen lid van de Commissie is, en dat zij in dit verband bijzondere aandacht moet schenken aan de noodzaak om met alle lidstaten informatie te delen en overleg te plegen.
 
 De Conferentie is ook van mening dat de Commissie alle nodige maatregelen moet nemen om ervoor te zorgen dat de politieke, sociale en economische realiteit in alle lidstaten, daaronder de lidstaten begrepen die geen onderdaan als lid van de Commissie hebben, volledig in aanmerking wordt genomen. Deze maatregelen zouden onder meer de waarborg moeten omvatten dat het standpunt van die lidstaten door de vaststelling van passende organisatorische regelingen in aanmerking wordt genomen.
 
-#### 7. Verklaring ad [artikel I-27](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=IV&hoofdstuk=I&artikel=I-27&z=2004-10-29&g=2004-10-29)
+##### 7. Verklaring ad [artikel I-27](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=IV&hoofdstuk=I&artikel=I-27&z=2004-10-29&g=2004-10-29)
 
 De Conferentie is van oordeel dat het Europees Parlement en de Europese Raad krachtens de bepalingen van de Grondwet gezamenlijk verantwoordelijk zijn voor het goede verloop van het proces dat tot de verkiezing van de voorzitter van de Commissie leidt. Daarom zullen vertegenwoordigers van het Europees Parlement en van de Europese Raad voorafgaand aan het besluit van de Europese Raad in het daartoe meest geschikt geachte kader de nodige raadplegingen verrichten. Deze raadplegingen zullen handelen over het profiel van de kandidaten voor het ambt van voorzitter van de Commissie, waarbij overeenkomstig [artikel I-27, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=IV&hoofdstuk=I&artikel=I-27&z=2004-10-29&g=2004-10-29), rekening zal worden gehouden met de uitslag van de verkiezingen voor het Europees Parlement. De wijze waarop deze raadplegingen plaatsvinden kan te gelegener tijd in onderlinge overeenstemming tussen het Europees Parlement en de Europese Raad geregeld worden.
 
-#### 8. Verklaring ad [artikel I-36](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=V&hoofdstuk=I&artikel=I-36&z=2004-10-29&g=2004-10-29)
+##### 8. Verklaring ad [artikel I-36](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=V&hoofdstuk=I&artikel=I-36&z=2004-10-29&g=2004-10-29)
 
 De Conferentie neemt er nota van dat de Commissie voornemens is de door de lidstaten aangewezen deskundigen te blijven raadplegen bij de voorbereiding van haar ontwerpen van gedelegeerde Europese verordeningen op het gebied van financiële diensten, overeenkomstig haar vaste praktijk.
 
-#### 9. Verklaring ad [artikelen I-43](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=V&hoofdstuk=II&artikel=I-43&z=2004-10-29&g=2004-10-29) en [III-329](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=V&hoofdstuk=VIII&artikel=III-329&z=2004-10-29&g=2004-10-29)
+##### 9. Verklaring ad [artikelen I-43](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=V&hoofdstuk=II&artikel=I-43&z=2004-10-29&g=2004-10-29) en [III-329](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=V&hoofdstuk=VIII&artikel=III-329&z=2004-10-29&g=2004-10-29)
 
 Onverminderd de maatregelen die de Unie vaststelt om te voldoen aan haar solidariteitsverplichting jegens een lidstaat die getroffen wordt door een terroristische aanval, een natuurramp of een door de mens veroorzaakte ramp, beoogt geen van de bepalingen van [artikel I-43](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=V&hoofdstuk=II&artikel=I-43&z=2004-10-29&g=2004-10-29) of [artikel III-329](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=V&hoofdstuk=VIII&artikel=III-329&z=2004-10-29&g=2004-10-29) afbreuk te doen aan het recht van een andere lidstaat de geschiktste middelen te kiezen om aan zijn solidariteitsverplichting jegens eerstgenoemde lidstaat te voldoen.
 
-#### 10. Verklaring ad [artikel I-51](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=VI&artikel=I-51&z=2004-10-29&g=2004-10-29)
+##### 10. Verklaring ad [artikel I-51](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=VI&artikel=I-51&z=2004-10-29&g=2004-10-29)
 
 De Conferentie verklaart dat in alle gevallen waarin op grond van [artikel I-51](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=VI&artikel=I-51&z=2004-10-29&g=2004-10-29) voorschriften inzake de bescherming van persoonsgegevens moeten worden vastgesteld die rechtstreekse gevolgen voor de nationale veiligheid zouden kunnen hebben, daarmee naar behoren rekening moet worden gehouden. Zij memoreert dat de geldende wetgeving (zie met name Richtlijn 95/46/EG) terzake specifieke afwijkingen bevat.
 
-#### 11. Verklaring ad [artikel I-57](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=VIII&artikel=I-57&z=2004-10-29&g=2004-10-29)
+##### 11. Verklaring ad [artikel I-57](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=VIII&artikel=I-57&z=2004-10-29&g=2004-10-29)
 
 De Unie houdt rekening met de bijzondere situatie van de landen met een klein grondgebied die specifieke nabuurschapsbetrekkingen met haar onderhouden.
 
-#### 12. Verklaring betreffende de toelichting bij het [Handvest van de grondrechten](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=II&z=2004-10-29&g=2004-10-29)
+##### 12. Verklaring betreffende de toelichting bij het [Handvest van de grondrechten](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=II&z=2004-10-29&g=2004-10-29)
 
 De Conferentie neemt nota van de onderstaande toelichtingen bij het [Handvest van de grondrechten](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=II&z=2004-10-29&g=2004-10-29), welke zijn opgesteld onder het gezag van het Præsidium van de Conventie die het Handvest heeft opgesteld en is bijgewerkt onder verantwoordelijkheid van het Præsidium van de Europese Conventie.
 
@@ -9395,7 +9414,7 @@ Derhalve erkent de Unie de hieronder genoemde rechten, vrijheden en beginselen.
 
 ## TITEL I. WAARDIGHEID
 
-#### Artikel 1. 1) Artikel II-61 van de Grondwet.Menselijke waardigheid
+##### Artikel 1. 1) Artikel II-61 van de Grondwet.Menselijke waardigheid
 
 De menselijke waardigheid is onschendbaar. Zij moet worden geëerbiedigd en beschermd.
 
@@ -9403,7 +9422,7 @@ De menselijke waardigheid is niet alleen een grondrecht op zich, maar ook de gro
 
 Hieruit vloeit onder meer voort dat geen van de in dit [Handvest](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=II&z=2004-10-29&g=2004-10-29) vastgelegde rechten mag worden gebruikt om de waardigheid van anderen te schenden en dat de menselijke waardigheid tot het wezen van de in dit Handvest vastgelegde rechten behoort. Er kan derhalve geen afbreuk aan worden gedaan, zelfs niet als een recht wordt beperkt.
 
-#### Artikel 2. 2) Artikel II-62 van de Grondwet.Recht op leven
+##### Artikel 2. 2) Artikel II-62 van de Grondwet.Recht op leven
 
 1. Eenieder heeft recht op leven.
 
@@ -9427,7 +9446,7 @@ Hieruit vloeit onder meer voort dat geen van de in dit [Handvest](https://wetten
 
 - b. [artikel 2 van het Zesde Protocol bij het EVRM](https://wetten.overheid.nl/jci1.3:c:BWBV0001037&artikel=2): „Een staat kan bepalingen in zijn wetgeving opnemen waarin is voorzien in de doodstraf voor feiten, begaan in tijd van oorlog of onmiddellijke oorlogsdreiging; een dergelijke straf wordt alleen ten uitvoer gelegd in de gevallen die zijn neergelegd in de wet, en in overeenstemming met de bepalingen daarvan ...”.
 
-#### Artikel 3. 3) Artikel II-63 van de Grondwet.Recht op menselijke integriteit
+##### Artikel 3. 3) Artikel II-63 van de Grondwet.Recht op menselijke integriteit
 
 1. Eenieder heeft recht op lichamelijke en geestelijke integriteit.
 
@@ -9449,13 +9468,13 @@ Hieruit vloeit onder meer voort dat geen van de in dit [Handvest](https://wetten
 
 - 3. De verwijzing naar eugenetische praktijken, met name die welke selectie van personen tot doel hebben, heeft betrekking op de gevallen waarin selectieprogramma's worden opgezet en uitgevoerd, bijvoorbeeld campagnes gericht op sterilisatie, gedwongen zwangerschappen, verplichte etnische huwelijken, enz. - handelingen die volgens het op 17 juli 1998 te [Rome aangenomen statuut van het Internationaal Strafhof](https://wetten.overheid.nl/jci1.3:c:BWBV0001489) als internationale misdrijven worden beschouwd (zie artikel 7, lid 1, onder g)).
 
-#### Artikel 4. 1) Artikel II-63 van de Grondwet. Verbod van folteringen en van onmenselijke of vernederende behandelingen of bestraffingen
+##### Artikel 4. 1) Artikel II-63 van de Grondwet. Verbod van folteringen en van onmenselijke of vernederende behandelingen of bestraffingen
 
 Niemand mag worden onderworpen aan folteringen of aan onmenselijke of vernederende behandelingen of bestraffingen.
 
 Het recht van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=II&titeldeel=I&artikel=II-64&z=2004-10-29&g=2004-10-29)2)Artikel II-64 van de Grondwet. correspondeert met het recht dat in het gelijkluidende [artikel 3 van het EVRM](https://wetten.overheid.nl/jci1.3:c:BWBV0001037&artikel=3) is gewaarborgd:„Niemand mag worden onderworpen aan folteringen of aan onmenselijke of vernederende behandelingen of bestraffingen.”. Overeenkomstig [artikel 52, lid 3, van het Handvest](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=II&titeldeel=VII&artikel=II-112&z=2004-10-29&g=2004-10-29)2)Artikel II-112, lid 3, van de Grondwet.heeft het derhalve dezelfde inhoud en reikwijdte als voornoemd artikel.
 
-#### Artikel 5. 2) Artikel II-65 van de Grondwet.Verbod van slavernij en dwangarbeid
+##### Artikel 5. 2) Artikel II-65 van de Grondwet.Verbod van slavernij en dwangarbeid
 
 1. Niemand mag in slavernij of dienstbaarheid worden gehouden.
 
@@ -9483,7 +9502,7 @@ Het recht van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I
 
 ## TITEL II. VRIJHEDEN
 
-#### Artikel 6. 1) Artikel II-66 van de Grondwet.Recht op vrijheid en veiligheid
+##### Artikel 6. 1) Artikel II-66 van de Grondwet.Recht op vrijheid en veiligheid
 
 Eenieder heeft recht op vrijheid en veiligheid van zijn persoon.
 
@@ -9513,7 +9532,7 @@ De rechten van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=
 
 De rechten van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=II&titeldeel=II&artikel=II-66&z=2004-10-29&g=2004-10-29)1)Artikel II-66 van de Grondwet. moeten in het bijzonder worden geëerbiedigd wanneer het Europees Parlement en de Raad op grond van de [artikelen III-270](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=4&artikel=III-270&z=2004-10-29&g=2004-10-29), [III-271](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=4&artikel=III-271&z=2004-10-29&g=2004-10-29) en [III-273 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=4&artikel=III-273&z=2004-10-29&g=2004-10-29) wetten en kaderwetten op het gebied van justitiële samenwerking in strafzaken vaststellen, onder andere met het oog op de opstelling van gemeenschappelijke minimumvoorschriften met betrekking tot de kwalificatie van strafbare feiten, met betrekking tot straffen en met betrekking tot bepaalde aspecten van het procesrecht.
 
-#### Artikel 7. 1) Artikel II-67 van de Grondwet.Eerbiediging van het privé-leven en het familie- en gezinsleven
+##### Artikel 7. 1) Artikel II-67 van de Grondwet.Eerbiediging van het privé-leven en het familie- en gezinsleven
 
 Eenieder heeft recht op eerbiediging van zijn privé-leven, zijn familie- en gezinsleven, zijn woning en zijn communicatie.
 
@@ -9525,7 +9544,7 @@ Conform [artikel 52, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&tite
 
 - 2. een inmenging van enig openbaar gezag is toegestaan in de uitoefening van dit recht, dan voorzover bij de wet is voorzien en in een democratische samenleving noodzakelijk is in het belang van de nationale veiligheid, de openbare veiligheid of het economisch welzijn van het land, het voorkomen van wanordelijkheden en strafbare feiten, de bescherming van de gezondheid of de goede zeden of voor de bescherming van de rechten en vrijheden van anderen.”.
 
-#### Artikel 8. 3) Artikel II-68 van de Grondwet.Bescherming van persoonsgegevens
+##### Artikel 8. 3) Artikel II-68 van de Grondwet.Bescherming van persoonsgegevens
 
 1. Eenieder heeft recht op bescherming van de hem betreffende persoonsgegevens.
 
@@ -9535,13 +9554,13 @@ Conform [artikel 52, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&tite
 
 Dit artikel was gebaseerd op [artikel 286 van het Verdrag tot oprichting van de Europese Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=286) en op Richtlijn 95/46/EG van het Europees Parlement en de Raad betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens (PB L 281 van 23.11.1995), alsmede op [artikel 8 van het EVRM](https://wetten.overheid.nl/jci1.3:c:BWBV0001000&artikel=8) en op het [Verdrag van de Raad van Europa van 28 januari 1981 tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBV0002783), dat door alle lidstaten is bekrachtigd. artikel 286 van het EG-Verdrag is nu vervangen door [artikel I-51 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=VI&artikel=I-51&z=2004-10-29&g=2004-10-29). Voorts wordt verwezen naar Verordening (EG) nr. 45/2001 van het Europees Parlement en de Raad betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens door de communautaire instellingen en organen en betreffende het vrije verkeer van die gegevens (PB L 8 van 12.1.2001). Bovengenoemde richtlijn en verordening bevatten voorwaarden en beperkingen voor de uitoefening van het recht op bescherming van persoonsgegevens.
 
-#### Artikel 9. 1) Artikel II-69 van de Grondwet.Recht te huwen en recht een gezin te stichten
+##### Artikel 9. 1) Artikel II-69 van de Grondwet.Recht te huwen en recht een gezin te stichten
 
 Het recht te huwen en het recht een gezin te stichten worden gewaarborgd volgens de nationale wetten die de uitoefening van deze rechten beheersen.
 
 Dit artikel is gebaseerd op artikel 12 van het EVRM, dat als volgt luidt: „Mannen en vrouwen van huwbare leeftijd hebben het recht te huwen en een gezin te stichten volgens de nationale wetten die de uitoefening van dit recht beheersen.”. De formulering van dit recht is aangepast aan de tijd om ook de gevallen te bestrijken waarin de nationale wetgevingen andere vormen dan het huwelijk erkennen om een gezin te stichten. Dit artikel verbiedt noch gebiedt dat aan verbintenissen tussen personen van hetzelfde geslacht de status van het huwelijk wordt verleend. Dit recht gelijkt dus naar het recht waarin het [EVRM](https://wetten.overheid.nl/jci1.3:c:BWBV0001000) voorziet, maar het kan een ruimere reikwijdte hebben wanneer de nationale wetgeving dat bepaalt.
 
-#### Artikel 10. 1) Artikel II-70 van de Grondwet.Vrijheid van gedachte, geweten en godsdienst
+##### Artikel 10. 1) Artikel II-70 van de Grondwet.Vrijheid van gedachte, geweten en godsdienst
 
 1. Eenieder heeft recht op vrijheid van gedachte, geweten en godsdienst. Dit recht omvat tevens de vrijheid om van godsdienst of overtuiging te veranderen, alsmede de vrijheid hetzij alleen, hetzij met anderen, zowel in het openbaar als privé, zijn godsdienst te belijden of overtuiging tot uitdrukking te brengen in erediensten, in onderricht, in praktische toepassing ervan en in het onderhouden van geboden en voorschriften.
 
@@ -9551,7 +9570,7 @@ Het in lid 1 gewaarborgde recht correspondeert met het recht dat wordt gewaarbor
 
 Het in lid 2 gewaarborgde recht beantwoordt aan de nationale constitutionele tradities en aan de ontwikkeling van de nationale wetgevingen terzake.
 
-#### Artikel 11. 2) Artikel II-71 van de Grondwet.Vrijheid van meningsuiting en van informatie
+##### Artikel 11. 2) Artikel II-71 van de Grondwet.Vrijheid van meningsuiting en van informatie
 
 1. Eenieder heeft recht op vrijheid van meningsuiting. Dit recht omvat de vrijheid een mening te koesteren en de vrijheid om inlichtingen of denkbeelden te ontvangen of te verstrekken, zonder inmenging van enig openbaar gezag en ongeacht grenzen.
 
@@ -9567,7 +9586,7 @@ Het in lid 2 gewaarborgde recht beantwoordt aan de nationale constitutionele tra
 
 - 2. Lid 2 van dit artikel is een nadere uitwerking van de consequenties van lid 1 wat betreft de mediavrijheid. Het is onder andere gebaseerd op de jurisprudentie van het Hof inzake televisie, met name zaak C-288/89 (arrest van 25 juli 1991, Stichting Collectieve Antennevoorziening Gouda e.a., Jurispr. 1991, blz. I-4007) en op het Protocol betreffende het openbareomroepstelsel in de lidstaten, gehecht aan het [EG-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506), en nu aan de Grondwet, en op Richtlijn 89/552/EG van de Raad (zie in het bijzonder de 17e overweging).
 
-#### Artikel 12. 1) Artikel II-72 van de Grondwet.Vrijheid van vergadering en vereniging
+##### Artikel 12. 1) Artikel II-72 van de Grondwet.Vrijheid van vergadering en vereniging
 
 1. Eenieder heeft recht op vrijheid van vreedzame vergadering en op vrijheid van vereniging op alle niveaus, met name op politiek, vakverenigings- en maatschappelijk gebied, hetgeen het recht van eenieder omvat om met anderen vakverenigingen op te richten en zich erbij aan te sluiten voor de bescherming van zijn belangen.
 
@@ -9585,13 +9604,13 @@ Het in lid 2 gewaarborgde recht beantwoordt aan de nationale constitutionele tra
 
 - 3. Lid 2 van dit artikel stemt overeen met [artikel I-46, lid 4, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=VI&artikel=I-46&z=2004-10-29&g=2004-10-29).
 
-#### Artikel 13. 1) Artikel II-73 van de Grondwet.Vrijheid van kunsten en wetenschappen
+##### Artikel 13. 1) Artikel II-73 van de Grondwet.Vrijheid van kunsten en wetenschappen
 
 De kunsten en het wetenschappelijk onderzoek zijn vrij. De academische vrijheid wordt geëerbiedigd.
 
 Dit recht vloeit op de eerste plaats voort uit de vrijheid van gedachte en de vrijheid van meningsuiting. Het wordt uitgeoefend met inachtneming van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=II&titeldeel=I&artikel=II-61&z=2004-10-29&g=2004-10-29)2)Artikel II-61 van de Grondwet. en kan worden onderworpen aan de beperkingen die krachtens [artikel 10 van het EVRM](https://wetten.overheid.nl/jci1.3:c:BWBV0001000&artikel=10) zijn toegestaan.
 
-#### Artikel 14. 3) Artikel II-74 van de Grondwet.Recht op onderwijs
+##### Artikel 14. 3) Artikel II-74 van de Grondwet.Recht op onderwijs
 
 1. Eenieder heeft recht op onderwijs, alsmede op toegang tot beroepsopleiding en bijscholing.
 
@@ -9605,7 +9624,7 @@ Dit recht vloeit op de eerste plaats voort uit de vrijheid van gedachte en de vr
 
 - 2. De vrijheid tot oprichting van - openbare of particuliere - instellingen voor onderwijs wordt gewaarborgd als een van de aspecten van de vrijheid van ondernemerschap, maar zij wordt beperkt door de eerbiediging van de democratische beginselen en uitgeoefend volgens de voorschriften waarin de nationale wetgevingen voorzien.
 
-#### Artikel 15. 2) Artikel II-75 van de Grondwet.Vrijheid van beroep en recht om te werken
+##### Artikel 15. 2) Artikel II-75 van de Grondwet.Vrijheid van beroep en recht om te werken
 
 1. Eenieder heeft het recht te werken en een vrijelijk gekozen of aanvaard beroep uit te oefenen.
 
@@ -9621,13 +9640,13 @@ Lid 2 noemt de drie vrijheden die in de [artikelen I-4](https://wetten.overheid.
 
 Lid 3 was gebaseerd op artikel 137, lid 3, vierde streepje, VEG, nu vervangen door [artikel III-210, lid 1, onder g), van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=III&afdeling=2&artikel=III-210&z=2004-10-29&g=2004-10-29), en op [artikel 19, punt 4, van het op 18 oktober 1961 ondertekende Europees Sociaal Handvest](https://wetten.overheid.nl/jci1.3:c:BWBV0001800&artikel=19), dat door alle lidstaten is bekrachtigd. [Artikel 52, lid 2, van het Handvest](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=II&titeldeel=VII&artikel=II-112&z=2004-10-29&g=2004-10-29)1)Artikel II-112, lid 2, van de Grondwet. is derhalve van toepassing. De kwestie van de aanwerving van zeelieden die onderdaan zijn van een derde land voor de bemanning van schepen die de vlag voeren van een lidstaat van de Unie, wordt geregeld in het recht van de Unie en de nationale wetgevingen en praktijken.
 
-#### Artikel 16. 2) Artikel II-76 van de Grondwet.Vrijheid van ondernemerschap
+##### Artikel 16. 2) Artikel II-76 van de Grondwet.Vrijheid van ondernemerschap
 
 De vrijheid van ondernemerschap wordt erkend overeenkomstig het recht van de Unie en de nationale wetgevingen en praktijken.
 
 Dit artikel is gebaseerd op de jurisprudentie van het Hof van Justitie, dat de vrijheid om een economische of een handelsactiviteit uit te oefenen heeft erkend (zie de arresten van 14 mei 1974, zaak 4/73, Nold, Jurispr. 1974, blz. 491, r.o. 14, en van 27 september 1979, zaak 230/78, SPA Eridania e.a., Jurispr. 1979, blz. 2749, r.o. 20 en 31) en de contractuele vrijheid (zie onder meer het arrest Sukkerfabriken Nyk⊘bing, zaak 151/78, Jurispr. 1979, blz. 1, r.o. 19, en het arrest van 5 oktober 1999, Spanje tegen Commissie, C-240/97, Jurispr. 1999, blz. I-6571, r.o. 99), en op [artikel I-3, lid 2, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=I&artikel=I-3&z=2004-10-29&g=2004-10-29) dat de vrije mededinging erkent. Dat recht wordt vanzelfsprekend uitgeoefend met inachtneming van het recht van de Unie en de nationale wetgevingen. Het kan worden onderworpen aan de beperkingen van [artikel 52, lid 1, van het Handvest](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=II&titeldeel=VII&artikel=II-112&z=2004-10-29&g=2004-10-29)3)Artikel II-112, lid 1, van de Grondwet..
 
-#### Artikel 17. 1) Artikel II-77 van de Grondwet.Recht op eigendom
+##### Artikel 17. 1) Artikel II-77 van de Grondwet.Recht op eigendom
 
 1. Eenieder heeft het recht de goederen die hij rechtmatig heeft verkregen in eigendom te bezitten, te gebruiken, erover te beschikken en te vermaken. Aan niemand mag zijn eigendom worden ontnomen, behalve in het algemeen belang in de gevallen en onder de voorwaarden waarin de wet voorziet en mits zijn verlies tijdig op billijke wijze wordt vergoed. Het gebruik van de goederen kan worden geregeld bij de wet voorzover het algemeen belang dit vereist.
 
@@ -9641,13 +9660,13 @@ Het gaat hier om een grondrecht dat alle nationale grondwetten gemeen hebben. He
 
 De bescherming van intellectuele eigendom, één van de aspecten van het eigendomsrecht, wordt in lid 2 uitdrukkelijk vermeld wegens het toenemend belang ervan en het afgeleid Gemeenschapsrecht. De intellectuele eigendom omvat naast de literaire en de artistieke eigendom, onder meer het octrooi- en merkenrecht alsmede de naburige rechten. De in lid 1 opgenomen waarborgen zijn op passende wijze van toepassing op intellectuele eigendom.
 
-#### Artikel 18. 1) Artikel II-78 van de Grondwet.Recht op asiel
+##### Artikel 18. 1) Artikel II-78 van de Grondwet.Recht op asiel
 
 Het recht op asiel is gegarandeerd met inachtneming van de voorschriften van het [Verdrag van Genève](https://wetten.overheid.nl/jci1.3:c:BWBV0001002) van 28 juli 1951 en het [Protocol van 31 januari 1967 betreffende de status van vluchtelingen](onbekend), en overeenkomstig de Grondwet.
 
 De tekst van het artikel is gebaseerd op artikel 63 VEG, nu vervangen door [artikel III-266 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=2&artikel=III-266&z=2004-10-29&g=2004-10-29), dat de Unie verplicht het [Vluchtelingenverdrag van Genève](https://wetten.overheid.nl/jci1.3:c:BWBV0001002) te eerbiedigen. Er dient te worden verwezen naar de bepalingen van het aan [het Verdrag van Amsterdam] de Grondwet gehechte Protocol betreffende de positie van het Verenigd Koninkrijk en Ierland, alsmede van het Protocol betreffende de positie van Denemarken, om te bepalen in hoeverre deze lidstaten het recht van de Unie terzake uitvoeren en in hoeverre dit artikel op hen van toepassing is. Dit artikel eerbiedigt het aan de Grondwet gehechte protocol inzake asiel.
 
-#### Artikel 19. 2) Artikel II-79 van de Grondwet.Bescherming bij verwijdering, uitzetting en uitlevering
+##### Artikel 19. 2) Artikel II-79 van de Grondwet.Bescherming bij verwijdering, uitzetting en uitlevering
 
 1. Collectieve uitzetting is verboden.
 
@@ -9659,13 +9678,13 @@ Lid 2 neemt de relevante jurisprudentie van het Europees Hof voor de rechten van
 
 ## TITEL III. GELIJKHEID
 
-#### Artikel 20. 1) Artikel II-80 van de Grondwet.Gelijkheid voor de wet
+##### Artikel 20. 1) Artikel II-80 van de Grondwet.Gelijkheid voor de wet
 
 Eenieder is gelijk voor de wet.
 
 Dit artikel komt overeen met een algemeen rechtsbeginsel dat in alle Europese grondwetten is opgenomen en dat door het Hof is aangemerkt als een fundamenteel beginsel van het Gemeenschapsrecht (arrest van 13 november 1984, Racke, zaak 283/83, Jurispr. 1984, blz. 3791, arrest van 17 april 1997, zaak C-15/95, EARL, Jurispr. 1997, blz. I-1961, en arrest van 13 april 2000, zaak 292/97, Karlsson, Jurispr. 2000, blz. 2737).
 
-#### Artikel 21. 2) Artikel II-81 van de Grondwet.Non-discriminatie
+##### Artikel 21. 2) Artikel II-81 van de Grondwet.Non-discriminatie
 
 1. Elke discriminatie, met name op grond van geslacht, ras, kleur, etnische of sociale afkomst, genetische kenmerken, taal, godsdienst of overtuigingen, politieke of andere denkbeelden, het behoren tot een nationale minderheid, vermogen, geboorte, een handicap, leeftijd of seksuele gerichtheid, is verboden.
 
@@ -9677,13 +9696,13 @@ Er is geen sprake van tegenstrijdigheid of onverenigbaarheid tussen lid 1 en [ar
 
 Lid 2 stemt overeen met [artikel I-4, lid 2, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=I&artikel=I-4&z=2004-10-29&g=2004-10-29) en moet in overeenstemming daarmee worden toegepast.
 
-#### Artikel 22. 2) Artikel II-82 van de Grondwet.Culturele, godsdienstige en taalkundige verscheidenheid
+##### Artikel 22. 2) Artikel II-82 van de Grondwet.Culturele, godsdienstige en taalkundige verscheidenheid
 
 De Unie eerbiedigt de culturele, godsdienstige en taalkundige verscheidenheid.
 
 Dit artikel was gebaseerd op [artikel 6 van het Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=6) en [artikel 151, leden 1 en 4, van het EG-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=151), nu vervangen door [artikel III-280, leden 1 en 4, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=V&afdeling=3&artikel=III-280&z=2004-10-29&g=2004-10-29), aangaande cultuur. Eerbied voor de verscheidenheid aan culturen en talen staat nu in [artikel I-3, lid 3, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=I&artikel=I-3&z=2004-10-29&g=2004-10-29). Het artikel is tevens geïnspireerd op verklaring nr. 11 bij de Slotakte van het Verdrag van Amsterdam betreffende de status van kerken en niet-confessionele organisaties, dat nu is overgenomen in [artikel I-52 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=VI&artikel=I-52&z=2004-10-29&g=2004-10-29).
 
-#### Artikel 23. 3) Artikel II-83 van de Grondwet.Gelijkheid van mannen en vrouwen
+##### Artikel 23. 3) Artikel II-83 van de Grondwet.Gelijkheid van mannen en vrouwen
 
 De gelijkheid van mannen en vrouwen moet worden gewaarborgd op alle gebieden, met inbegrip van werkgelegenheid, beroep en beloning. Het beginsel van gelijkheid belet niet dat maatregelen gehandhaafd of genomen worden waarbij specifieke voordelen worden ingesteld ten voordele van het ondervertegenwoordigde geslacht.
 
@@ -9693,7 +9712,7 @@ Zij is tevens gebaseerd op [artikel 141, lid 3, van het EG-Verdrag](https://wett
 
 In de tweede alinea is, in een bondiger formulering, [artikel III-214, lid 4, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=III&afdeling=2&artikel=III-214&z=2004-10-29&g=2004-10-29) opgenomen, waarin staat dat het beginsel van gelijke behandeling niet belet dat maatregelen gehandhaafd of genomen worden waarbij specifieke voordelen worden ingesteld om de uitoefening van een beroepsactiviteit door het ondervertegenwoordigde geslacht te vergemakkelijken of om nadelen in de beroepsloopbaan te voorkomen of te compenseren. Overeenkomstig [artikel 52, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=II&titeldeel=VII&artikel=II-112&z=2004-10-29&g=2004-10-29)1)Artikel II-112, lid 2, van de Grondwet., behelst deze alinea geen wijziging van artikel III-214, lid 4.
 
-#### Artikel 24. 2) Artikel II-84 van de Grondwet.Rechten van het kind
+##### Artikel 24. 2) Artikel II-84 van de Grondwet.Rechten van het kind
 
 1. Kinderen hebben recht op de bescherming en de zorg die nodig zijn voor hun welzijn. Zij mogen vrijelijk hun mening uiten. Aan hun mening in aangelegenheden die hen betreffen wordt passend belang gehecht in overeenstemming met hun leeftijd en rijpheid.
 
@@ -9705,13 +9724,13 @@ Dit artikel is gebaseerd op het [Verdrag van New York van 20 november 1989 inzak
 
 Lid 3 houdt rekening met het feit dat, als onderdeel van de totstandbrenging van een ruimte van vrijheid, veiligheid en rechtvaardigheid, de wetgeving van de Unie betreffende civiele zaken met grensoverschrijdende gevolgen, waarvoor [artikel III-269 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=3&artikel=III-269&z=2004-10-29&g=2004-10-29) bevoegdheid verleent, met name het bezoekrecht kan omvatten, zodat een kind regelmatig persoonlijke betrekkingen of rechtstreekse contacten met zijn beide ouders kan onderhouden.
 
-#### Artikel 25. 1) Artikel II-85 van de Grondwet.Rechten van ouderen
+##### Artikel 25. 1) Artikel II-85 van de Grondwet.Rechten van ouderen
 
 De Unie erkent en eerbiedigt het recht van ouderen om een waardig en zelfstandig leven te leiden en om aan het maatschappelijk en cultureel leven deel te nemen.
 
 Dit artikel is geïnspireerd op [artikel 23 van het herzien Europees Sociaal Handvest](https://wetten.overheid.nl/jci1.3:c:BWBV0001800&artikel=23) en op de artikelen 24 en 25 van het Gemeenschapshandvest van de sociale grondrechten van de werknemers. Onder deelneming aan het maatschappelijk en cultureel leven wordt vanzelfsprekend ook de deelneming aan het politiek leven verstaan.
 
-#### Artikel 26. 2) Artikel II-86 van de Grondwet.Integratie van personen met een handicap
+##### Artikel 26. 2) Artikel II-86 van de Grondwet.Integratie van personen met een handicap
 
 De Unie erkent en eerbiedigt het recht van personen met een handicap op maatregelen die beogen hun zelfstandigheid, hun maatschappelijke en beroepsintegratie en hun deelname aan het gemeenschapsleven te bewerkstelligen.
 
@@ -9719,31 +9738,31 @@ Het beginsel dat in dit artikel is neergelegd is gebaseerd op [artikel 15 van he
 
 ## TITEL IV. SOLIDARITEIT
 
-#### Artikel 27. 1) Artikel II-87 van de Grondwet.Recht op informatie en raadpleging van de werknemers binnen de onderneming
+##### Artikel 27. 1) Artikel II-87 van de Grondwet.Recht op informatie en raadpleging van de werknemers binnen de onderneming
 
 De werknemers of hun vertegenwoordigers moeten zekerheid krijgen dat zij op de passende niveaus tijdig worden geïnformeerd en geraadpleegd, in de gevallen en onder de voorwaarden waarin het recht van de Unie en de nationale wetgevingen en praktijken voorzien.
 
 Dit artikel staat in het [herzien Europees Sociaal Handvest (artikel 21)](https://wetten.overheid.nl/jci1.3:c:BWBV0001800&artikel=21) en het Gemeenschapshandvest van de sociale grondrechten van de werknemers (punten 17 en 18). Het is van toepassing onder de voorwaarden waarin het recht van de Unie en de nationale wetgevingen voorzien. De verwijzing naar de passende niveaus heeft betrekking op de niveaus waarin wordt voorzien door het recht van de Unie of door de nationale wetgevingen en praktijken. Het Europees niveau kan daaronder begrepen zijn wanneer het recht van de Unie daarin voorziet. Het „acquis van de Unie” op dit gebied is belangrijk: de [artikelen III-211](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=III&afdeling=2&artikel=III-211&z=2004-10-29&g=2004-10-29) en [III-212](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=III&afdeling=2&artikel=III-212&z=2004-10-29&g=2004-10-29) van de Grondwet en de Richtlijnen 2002/14/EG (algemeen kader betreffende de informatie en de raadpleging van de werknemers in de Europese Gemeenschap), 98/59/EG (collectief ontslag), 2001/23/EG (overgang van ondernemingen) en 94/45/EG (Europese ondernemingsraden).
 
-#### Artikel 28. 2) Artikel II-88 van de Grondwet.Recht op collectieve onderhandelingen en collectieve actie
+##### Artikel 28. 2) Artikel II-88 van de Grondwet.Recht op collectieve onderhandelingen en collectieve actie
 
 De werkgevers en werknemers of hun respectieve organisaties hebben, overeenkomstig het recht van de Unie en de nationale wetgevingen en praktijken, het recht om op de passende niveaus collectief te onderhandelen en collectieve arbeidsovereenkomsten te sluiten, alsmede om, in geval van belangenconflicten, collectieve acties te ondernemen ter verdediging van hun belangen, met inbegrip van staking.
 
 Dit artikel is gebaseerd op [artikel 6 van het Europees Sociaal Handvest](https://wetten.overheid.nl/jci1.3:c:BWBV0001800&artikel=6) en op het Gemeenschapshandvest van de sociale grondrechten van de werknemers (punten 12 tot 14). Het recht op collectieve actie is door het Europees Hof voor de rechten van de mens erkend als een onderdeel van het in [artikel 11 van het EVRM](https://wetten.overheid.nl/jci1.3:c:BWBV0001000&artikel=11) erkende vakverenigingsrecht. Voor de passende niveaus waarop collectief kan worden onderhandeld, wordt verwezen naar de toelichting bij het vorige artikel. De nadere voorschriften en de grenzen voor de uitoefening van collectieve acties, waaronder staking, vallen onder de nationale wetgevingen en praktijken, met inbegrip van de vraag of zij in verschillende lidstaten gelijktijdig kunnen worden ondernomen.
 
-#### Artikel 29. 1) Artikel II-89 van de Grondwet.Recht op toegang tot arbeidsbemiddeling
+##### Artikel 29. 1) Artikel II-89 van de Grondwet.Recht op toegang tot arbeidsbemiddeling
 
 Eenieder heeft recht op toegang tot gratis arbeidsbemiddeling.
 
 Dit artikel is gebaseerd op [artikel 1, lid 3, van het Europees Sociaal Handvest](https://wetten.overheid.nl/jci1.3:c:BWBV0001800&artikel=1) en op punt 13 van het Gemeenschapshandvest van de sociale grondrechten van de werknemers.
 
-#### Artikel 30. 2) Artikel II-90 van de Grondwet.Bescherming bij kennelijk onredelijk ontslag
+##### Artikel 30. 2) Artikel II-90 van de Grondwet.Bescherming bij kennelijk onredelijk ontslag
 
 Iedere werknemer heeft recht op bescherming tegen kennelijk onredelijk ontslag overeenkomstig het recht van de Unie en de nationale wetgevingen en praktijken.
 
 Dit artikel is geïnspireerd op [artikel 24 van het herzien Europees Sociaal Handvest](https://wetten.overheid.nl/jci1.3:c:BWBV0001800&artikel=24). Zie ook Richtlijn 2001/23/EG betreffende het behoud van de rechten van de werknemers bij overgang van ondernemingen en Richtlijn 80/987/EEG inzake de bescherming van de werknemers bij insolventie van de werkgever, als gewijzigd bij Richtlijn 2002/74/EG.
 
-#### Artikel 31. 3) Artikel II-91 van de Grondwet.Rechtvaardige en billijke arbeidsomstandigheden en -voorwaarden
+##### Artikel 31. 3) Artikel II-91 van de Grondwet.Rechtvaardige en billijke arbeidsomstandigheden en -voorwaarden
 
 1. Iedere werknemer heeft recht op gezonde, veilige en waardige arbeidsomstandigheden.
 
@@ -9755,7 +9774,7 @@ Dit artikel is geïnspireerd op [artikel 24 van het herzien Europees Sociaal Han
 
 - 2. Lid 2 is gebaseerd op Richtlijn 93/104/EG betreffende een aantal aspecten van de organisatie van de arbeidstijd en op artikel 2 van het Europees Sociaal Handvest en punt 8 van het Gemeenschapshandvest van de sociale grondrechten van de werknemers.
 
-#### Artikel 32. 1) Artikel II-92 van de Grondwet.Het verbod van kinderarbeid en de bescherming van jongeren op het werk
+##### Artikel 32. 1) Artikel II-92 van de Grondwet.Het verbod van kinderarbeid en de bescherming van jongeren op het werk
 
 Kinderarbeid is verboden. De minimumleeftijd voor toelating tot het arbeidsproces mag niet lager zijn dan de leeftijd waarop de leerplicht ophoudt, onverminderd voor jongeren gunstiger regels en behoudens beperkte afwijkingen.
 
@@ -9763,7 +9782,7 @@ Werkende jongeren moeten arbeidsvoorwaarden krijgen die aangepast zijn aan hun l
 
 Dit artikel is gebaseerd op Richtlijn 94/33/EG betreffende de bescherming van jongeren op het werk, alsmede op [artikel 7 van het Europees Sociaal Handvest](https://wetten.overheid.nl/jci1.3:c:BWBV0001021&artikel=7) en de punten 20 tot en met 23 van het Gemeenschapshandvest van de sociale grondrechten van de werknemers.
 
-#### Artikel 33. 1) Artikel II-93 van de Grondwet.Het gezins- en beroepsleven
+##### Artikel 33. 1) Artikel II-93 van de Grondwet.Het gezins- en beroepsleven
 
 1. Het gezin geniet bescherming op juridisch, economisch en sociaal vlak.
 
@@ -9771,7 +9790,7 @@ Dit artikel is gebaseerd op Richtlijn 94/33/EG betreffende de bescherming van jo
 
 Het eerste lid van [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=II&titeldeel=IV&artikel=II-93&z=2004-10-29&g=2004-10-29)2)Artikel II-93 van de Grondwet. is gebaseerd op [artikel 16 van het Europees Sociaal Handvest](https://wetten.overheid.nl/jci1.3:c:BWBV0001021&artikel=16). Het tweede lid is geïnspireerd op Richtlijn 92/85/EEG van de Raad inzake de tenuitvoerlegging van maatregelen ter bevordering van de verbetering van de veiligheid en de gezondheid op het werk van werkneemsters tijdens de zwangerschap, na de bevalling en tijdens de lactatie en van Richtlijn 96/34/EG betreffende de door de UNICE, het CEEP en het EVV gesloten raamovereenkomst inzake ouderschapsverlof. Het is ook gebaseerd op [artikel 8 (moederschapsbescherming) van het Europees Sociaal Handvest](https://wetten.overheid.nl/jci1.3:c:BWBV0001021&artikel=8) en geïnspireerd op [artikel 27 (recht van werknemers met een gezin op gelijke kansen en gelijke behandeling) van het herzien Europees Sociaal Handvest](https://wetten.overheid.nl/jci1.3:c:BWBV0001800&artikel=27). Onder „moederschap” wordt het tijdvak van conceptie tot en met borstvoeding begrepen.
 
-#### Artikel 34. 3) Artikel II-94 van de Grondwet.Sociale zekerheid en sociale bijstand
+##### Artikel 34. 3) Artikel II-94 van de Grondwet.Sociale zekerheid en sociale bijstand
 
 1. De Europese Unie erkent en eerbiedigt onder de door het recht van de Unie en de nationale wetgevingen en praktijken gestelde voorwaarden het recht op toegang tot socialezekerheidsvoorzieningen en sociale diensten die bescherming bieden in gevallen zoals moederschap, ziekte, arbeidsongevallen, afhankelijkheid of ouderdom, alsmede bij verlies van arbeid.
 
@@ -9785,19 +9804,19 @@ Lid 2 is gebaseerd op de [artikelen 12, lid 4](https://wetten.overheid.nl/jci1.3
 
 Lid 3 is geïnspireerd op [artikel 13 van het Europees Sociaal Handvest](https://wetten.overheid.nl/jci1.3:c:BWBV0001021&artikel=13) en de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBV0001800&artikel=30) en [31 van het herzien Europees Sociaal Handvest](https://wetten.overheid.nl/jci1.3:c:BWBV0001800&artikel=31) en op punt 10 van het Gemeenschapshandvest. Het moet door de Unie worden geëerbiedigd in het kader van het beleid dat gebaseerd is op [artikel III-210 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=III&afdeling=2&artikel=III-210&z=2004-10-29&g=2004-10-29).
 
-#### Artikel 35. 2) Artikel II-95 van de Grondwet.Gezondheidszorg
+##### Artikel 35. 2) Artikel II-95 van de Grondwet.Gezondheidszorg
 
 Eenieder heeft recht op toegang tot preventieve gezondheidszorg en op medische verzorging onder de door de nationale wetgevingen en praktijken gestelde voorwaarden. Bij de vaststelling en uitvoering van het beleid en de maatregelen van de Unie wordt een hoog niveau van bescherming van de menselijke gezondheid gewaarborgd.
 
 De in dit artikel neergelegde beginselen zijn gebaseerd op [artikel 152 van het EG-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=152), nu vervangen door [artikel III-278 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=V&afdeling=1&artikel=III-278&z=2004-10-29&g=2004-10-29), en op de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBV0001021&artikel=11) en [13 van het Europees Sociaal Handvest](https://wetten.overheid.nl/jci1.3:c:BWBV0001021&artikel=13). In de tweede zin van het artikel is artikel III-278, lid 1, weergegeven.
 
-#### Artikel 36. 1) Artikel II-96 van de Grondwet.De toegang tot diensten van algemeen economisch belang
+##### Artikel 36. 1) Artikel II-96 van de Grondwet.De toegang tot diensten van algemeen economisch belang
 
 De Europese Unie erkent en eerbiedigt overeenkomstig de Grondwet de toegang tot diensten van algemeen economisch belang die in de nationale wetgevingen en praktijken is geregeld, teneinde de sociale en territoriale samenhang van de Unie te bevorderen.
 
 Dit artikel is geheel in overeenstemming met [artikel III-122 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=I&artikel=III-122&z=2004-10-29&g=2004-10-29) en schept geen nieuw recht. Het stelt alleen het beginsel dat de Unie de toegang tot diensten van algemeen economisch belang zoals deze is geregeld in de nationale voorschriften, moet eerbiedigen wanneer deze voorschriften verenigbaar zijn met het recht van de Unie.
 
-#### Artikel 37. 2) Artikel II-97 van de Grondwet.Milieubescherming
+##### Artikel 37. 2) Artikel II-97 van de Grondwet.Milieubescherming
 
 Een hoog niveau van milieubescherming en verbetering van de kwaliteit van het milieu moeten in het beleid van de Europese Unie worden geïntegreerd en worden gewaarborgd overeenkomstig het beginsel van duurzame ontwikkeling.
 
@@ -9805,7 +9824,7 @@ De in dit artikel neergelegde beginselen zijn gebaseerd op de [artikelen 2](http
 
 Het is bovendien geïnspireerd op de bepalingen van een aantal nationale grondwetten.
 
-#### Artikel 38. 3) Artikel II-98 van de Grondwet.Consumentenbescherming
+##### Artikel 38. 3) Artikel II-98 van de Grondwet.Consumentenbescherming
 
 In het beleid van de Unie wordt zorg gedragen voor een hoog niveau van consumentenbescherming.
 
@@ -9813,7 +9832,7 @@ Het beginsel in dit artikel is gebaseerd op [artikel 153 van het EG-Verdrag](htt
 
 ## TITEL V. BURGERSCHAP
 
-#### Artikel 39. 1) Artikel II-99 van de Grondwet.Actief en passief kiesrecht bij de verkiezingen voor het Europees Parlement
+##### Artikel 39. 1) Artikel II-99 van de Grondwet.Actief en passief kiesrecht bij de verkiezingen voor het Europees Parlement
 
 1. Iedere burger van de Unie heeft het actief en passief kiesrecht bij de verkiezingen voor het Europees Parlement in de lidstaat waar hij verblijf houdt, onder dezelfde voorwaarden als de onderdanen van die staat.
 
@@ -9821,13 +9840,13 @@ Het beginsel in dit artikel is gebaseerd op [artikel 153 van het EG-Verdrag](htt
 
 [Artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=II&titeldeel=V&artikel=II-99&z=2004-10-29&g=2004-10-29) 2) Artikel II-99 van de Grondwet. vindt toepassing onder de in [deel I](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&z=2004-10-29&g=2004-10-29) en [deel III van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&z=2004-10-29&g=2004-10-29) gestelde voorwaarden, overeenkomstig [artikel 52, lid 2, van het Handvest](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=II&titeldeel=VII&artikel=II-112&z=2004-10-29&g=2004-10-29)3)Artikel II-112, lid 2, van de Grondwet.. Lid 1 van artikel 391)Artikel II-99 van de Grondwet. correspondeert immers met het recht dat wordt gewaarborgd door [artikel I-10, lid 2, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=II&artikel=I-10&z=2004-10-29&g=2004-10-29) (zie ook de rechtsgrondslag in [artikel III-126](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=II&artikel=III-126&z=2004-10-29&g=2004-10-29) voor de vaststelling van de nadere regelingen voor de uitoefening van dat recht) en lid 2 van dit artikel stemt overeen met [artikel I-20, lid 2, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=IV&hoofdstuk=I&artikel=I-20&z=2004-10-29&g=2004-10-29). In artikel 391)Artikel II-99 van de Grondwet., lid 2, zijn de basisbeginselen van het kiesstelsel in een democratisch bestel opgenomen.
 
-#### Artikel 40. 4) Artikel II-100 van de Grondwet.Actief en passief kiesrecht bij gemeenteraadsverkiezingen
+##### Artikel 40. 4) Artikel II-100 van de Grondwet.Actief en passief kiesrecht bij gemeenteraadsverkiezingen
 
 Iedere burger van de Unie heeft het actief en passief kiesrecht bij gemeenteraadsverkiezingen in de lidstaat waar hij verblijf houdt, onder dezelfde voorwaarden als de onderdanen van die staat.
 
 Dit artikel stemt overeen met het recht dat wordt gewaarborgd door [artikel I-10, lid 2, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=II&artikel=I-10&z=2004-10-29&g=2004-10-29) (zie ook de rechtsgrondslag in [artikel III-126](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=II&artikel=III-126&z=2004-10-29&g=2004-10-29) voor de vaststelling van de nadere regelingen voor de uitoefening van dat recht). Overeenkomstig [artikel 52, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=II&titeldeel=V&artikel=II-101&z=2004-10-29&g=2004-10-29)2)Artikel II-101 van de Grondwet. , van het Handvest vindt het toepassing onder de in die artikelen van [deel I](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&z=2004-10-29&g=2004-10-29) en [deel III van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&z=2004-10-29&g=2004-10-29) gestelde voorwaarden.
 
-#### Artikel 41. 1) Artikel II-101 van de Grondwet.Recht op behoorlijk bestuur
+##### Artikel 41. 1) Artikel II-101 van de Grondwet.Recht op behoorlijk bestuur
 
 1. Eenieder heeft er recht op dat zijn zaken onpartijdig, billijk en binnen een redelijke termijn door de instellingen, organen en instanties van de Unie worden behandeld.
 
@@ -9849,25 +9868,25 @@ Lid 3 behelst het recht dat nu door [artikel III-431 van de Grondwet](https://we
 
 Het recht op een doeltreffende voorziening in rechte, dat een belangrijk aspect van deze kwestie is, wordt gewaarborgd in [artikel 47 van het Handvest](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=II&titeldeel=VI&artikel=II-107&z=2004-10-29&g=2004-10-29)2)Artikel II-107 van de Grondwet..
 
-#### Artikel 42. 3) Artikel II-102 van de Grondwet.Recht van inzage in documenten
+##### Artikel 42. 3) Artikel II-102 van de Grondwet.Recht van inzage in documenten
 
 Iedere burger van de Unie en iedere natuurlijke of rechtspersoon met verblijfplaats of statutaire zetel in een lidstaat heeft recht op toegang tot documenten van de instellingen, organen en instanties van de Unie, ongeacht het medium waarop zij zijn vastgelegd.
 
 Het recht dat in dit artikel wordt gewaarborgd is overgenomen uit artikel 255 VEG op basis waarvan later Verordening nr. 1049/2001 is vastgesteld. De Europese Conventie heeft dit recht uitgebreid tot de documenten van de instellingen, organen en instanties in het algemeen, ongeacht de vorm ervan (zie [artikel I-50, lid 3, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=VI&artikel=I-50&z=2004-10-29&g=2004-10-29)). Overeenkomstig [artikel 52, lid 2, van het Handvest](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=II&titeldeel=VII&artikel=II-112&z=2004-10-29&g=2004-10-29)4)Artikel II-112, lid 2, van de Grondwet. wordt het recht op toegang tot documenten uitgeoefend onder de voorwaarden en binnen de grenzen waarin wordt voorzien door de artikelen I-50, lid 3, en [III-399 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=4&artikel=III-399&z=2004-10-29&g=2004-10-29).
 
-#### Artikel 43. 5) Artikel II-103 van de Grondwet.Ombudsman
+##### Artikel 43. 5) Artikel II-103 van de Grondwet.Ombudsman
 
 Iedere burger van de Unie en iedere natuurlijke of rechtspersoon met verblijfplaats of statutaire zetel in een lidstaat heeft het recht zich tot de Europese ombudsman te wenden over gevallen van wanbeheer bij het optreden van de instellingen, organen of instanties van de Unie, met uitzondering van het Europees Hof van Justitie bij de uitoefening van zijn gerechtelijke taak.
 
 Het in dit artikel gewaarborgde recht is het recht dat door de [artikelen I-10](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=II&artikel=I-10&z=2004-10-29&g=2004-10-29) en [III-335 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=I&paragraaf=1&artikel=III-335&z=2004-10-29&g=2004-10-29) wordt gewaarborgd. Overeenkomstig [artikel 52, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=II&titeldeel=VII&artikel=II-111&z=2004-10-29&g=2004-10-29)1)Artikel II-111, lid 2, van de Grondwet., van het Handvest vindt het toepassing onder de bij deze twee artikelen gestelde voorwaarden.
 
-#### Artikel 44. 2) Artikel II-104 van de Grondwet.Recht van petitie
+##### Artikel 44. 2) Artikel II-104 van de Grondwet.Recht van petitie
 
 Iedere burger van de Unie en iedere natuurlijke of rechtspersoon met verblijfplaats of statutaire zetel in een lidstaat heeft het recht een verzoekschrift tot het Europees Parlement te richten.
 
 Het in dit artikel gewaarborgde recht is het recht dat door de [artikelen I-10](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=II&artikel=I-10&z=2004-10-29&g=2004-10-29) en [III-334](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=I&afdeling=I&paragraaf=1&artikel=III-334&z=2004-10-29&g=2004-10-29) van de Grondwet gewaarborgd is. Overeenkomstig [artikel 52, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=II&titeldeel=VII&artikel=II-112&z=2004-10-29&g=2004-10-29)1)Artikel II-112, lid 2, van de Grondwet., van het Handvest vindt het toepassing onder de bij deze twee artikelen gestelde voorwaarden.
 
-#### Artikel 45. 3) Artikel II-105 van de Grondwet.Vrijheid van verkeer en van verblijf
+##### Artikel 45. 3) Artikel II-105 van de Grondwet.Vrijheid van verkeer en van verblijf
 
 1. Iedere burger van de Unie heeft het recht zich vrij op het grondgebied van de lidstaten te verplaatsen en er vrij te verblijven.
 
@@ -9877,7 +9896,7 @@ Het in lid 1 gewaarborgde recht is het recht dat door [artikel I-10, lid 2, onde
 
 Lid 2 memoreert de bevoegdheid die krachtens de [artikelen III-265 tot en met III-267 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=2&artikel=III-265&z=2004-10-29&g=2004-10-29) aan de Unie verleend is. Daaruit volgt dat de toekenning van dat recht afhankelijk is van de uitoefening van deze bevoegdheid door de instellingen.
 
-#### Artikel 46. 2) Artikel II-106 van de Grondwet.Diplomatieke en consulaire bescherming
+##### Artikel 46. 2) Artikel II-106 van de Grondwet.Diplomatieke en consulaire bescherming
 
 Iedere burger van de Unie geniet op het grondgebied van derde landen waar de lidstaat waarvan hij onderdaan is, niet vertegenwoordigd is, de bescherming van de diplomatieke en consulaire instanties van iedere andere lidstaat, onder dezelfde voorwaarden als de onderdanen van die lidstaat.
 
@@ -9885,7 +9904,7 @@ Het in dit artikel gewaarborgde recht is het recht dat door [artikel I-10 van de
 
 ## TITEL VI. RECHTSPLEGING
 
-#### Artikel 47. 4) Artikel II-107 van de Grondwet. Recht op een doeltreffende voorziening in rechte en op een onpartijdig gerecht
+##### Artikel 47. 4) Artikel II-107 van de Grondwet. Recht op een doeltreffende voorziening in rechte en op een onpartijdig gerecht
 
 Eenieder wiens door het recht van de Unie gewaarborgde rechten en vrijheden zijn geschonden, heeft recht op een doeltreffende voorziening in rechte, met inachtneming van de in dit artikel gestelde voorwaarden.
 
@@ -9907,7 +9926,7 @@ In het recht van de Unie is het recht op toegang tot de rechter niet alleen van 
 
 Met betrekking tot de derde alinea zij erop gewezen dat volgens de jurisprudentie van het Europees Hof voor de rechten van de mens in rechtsbijstand moet worden voorzien wanneer de garantie van een doeltreffende voorziening in rechte wegens het ontbreken van die bijstand ontwricht zou worden (Arrest EHRM van 9 oktober 1979, Airey, Série A, volume 32, 11). Er bestaat ook een rechtsbijstandregeling voor het Hof van Justitie van de Europese Unie.
 
-#### Artikel 48. 1) Artikel II-108 van de Grondwet.Vermoeden van onschuld en rechten van de verdediging
+##### Artikel 48. 1) Artikel II-108 van de Grondwet.Vermoeden van onschuld en rechten van de verdediging
 
 1. Eenieder tegen wie een vervolging is ingesteld, wordt voor onschuldig gehouden totdat zijn schuld in rechte is komen vast te staan.
 
@@ -9933,7 +9952,7 @@ Met betrekking tot de derde alinea zij erop gewezen dat volgens de jurisprudenti
 
 Overeenkomstig [artikel 52, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=II&titeldeel=VII&artikel=II-112&z=2004-10-29&g=2004-10-29)1)Artikel II-112, lid 3, van de Grondwet., heeft dit recht dezelfde inhoud en reikwijdte als het recht dat door het [EVRM](https://wetten.overheid.nl/jci1.3:c:BWBV0001000) wordt gewaarborgd.
 
-#### Artikel 49. 2) Artikel II-109 van de Grondwet.Legaliteitsbeginsel en evenredigheidsbeginsel inzake delicten en straffen
+##### Artikel 49. 2) Artikel II-109 van de Grondwet.Legaliteitsbeginsel en evenredigheidsbeginsel inzake delicten en straffen
 
 1. Niemand mag worden veroordeeld wegens een handelen of nalaten dat geen strafbaar feit naar nationaal of internationaal recht uitmaakte ten tijde dat het handelen of nalaten geschiedde. Evenmin mag een zwaardere straf worden opgelegd dan die welke ten tijde van het begaan van het strafbare feit van toepassing was. Indien de wet na het begaan van het strafbare feit in een lichtere straf voorziet, dan is die van toepassing.
 
@@ -9955,7 +9974,7 @@ In lid 2 is alleen het woord „beschaafde” geschrapt, waardoor de inhoud van 
 
 Lid 3 behelst het algemene beginsel van de evenredigheid van strafbare feiten en straffen, dat is vastgelegd in de constitutionele tradities die de lidstaten gemeen hebben en in de jurisprudentie van het Hof van Justitie van de Europese Gemeenschappen.
 
-#### Artikel 50. 2) Artikel II-110 van de Grondwet.Recht om niet tweemaal in een strafrechtelijke procedure voor hetzelfde delict te worden berecht of gestraft
+##### Artikel 50. 2) Artikel II-110 van de Grondwet.Recht om niet tweemaal in een strafrechtelijke procedure voor hetzelfde delict te worden berecht of gestraft
 
 Niemand wordt opnieuw berecht of gestraft in een strafrechtelijke procedure voor een strafbaar feit waarvoor hij in de Unie reeds onherroepelijk is vrijgesproken of veroordeeld overeenkomstig de wet.
 
@@ -9973,7 +9992,7 @@ Overeenkomstig [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel
 
 ## TITEL VII. ALGEMENE BEPALINGEN VOOR DE INTERPRETATIE EN DE TOEPASSING VAN HET HANDVEST
 
-#### Artikel 51. 3) Artikel II-111 van de Grondwet.Toepassingsgebied
+##### Artikel 51. 3) Artikel II-111 van de Grondwet.Toepassingsgebied
 
 1. De bepalingen van dit Handvest zijn gericht tot de instellingen, organen en instanties van de Unie met inachtneming van het subsidiariteitsbeginsel en tot de lidstaten, uitsluitend wanneer zij het recht van de Unie ten uitvoer brengen. Derhalve eerbiedigen zij de rechten, leven zij de beginselen na en bevorderen zij de toepassing ervan, overeenkomstig hun respectieve bevoegdheden en met inachtneming van de beperkingen van de bevoegdheden zoals deze in de andere delen van de Grondwet aan de Unie worden verleend.
 
@@ -9987,7 +10006,7 @@ Lid 2, samen met de tweede zin van lid 1, bevestigt dat het Handvest geen uitbre
 
 Lid 2 bevestigt voorts dat het Handvest niet tot gevolg mag hebben dat het toepassingsgebied van het recht van de Unie verder wordt uitgebreid dan de in de andere delen van de Grondwet vastgelegde bevoegdheden van de Unie reiken. Het Hof van Justitie heeft deze regel reeds vastgesteld met betrekking tot de grondrechten, waarvan wordt erkend dat zij tot het recht van de Unie behoren (arrest van 17 februari 1998, zaak C-249/96, Grant, Jurispr. 1998, blz. I-621, r.o 45). Overeenkomstig deze regel is het vanzelfsprekend dat de opneming van het Handvest in de Grondwet niet kan worden opgevat als een automatische uitbreiding van de mogelijke handelingen van de lidstaten die als „ uitvoering van het recht van de Unie” (in de zin van lid 1 en voornoemde jurisprudentie) kunnen worden beschouwd.
 
-#### Artikel 52. 1) Artikel II-112 van de Grondwet.Reikwijdte en uitlegging van de gewaarborgde rechten en beginselen
+##### Artikel 52. 1) Artikel II-112 van de Grondwet.Reikwijdte en uitlegging van de gewaarborgde rechten en beginselen
 
 1. Beperkingen op de uitoefening van de in dit Handvest erkende rechten en vrijheden moeten bij wet worden gesteld en de wezenlijke inhoud van die rechten en vrijheden eerbiedigen. Met inachtneming van het evenredigheidsbeginsel kunnen alleen beperkingen worden gesteld, indien zij noodzakelijk zijn en daadwerkelijk aan door de Unie erkende doelstellingen van algemeen belang of aan de eisen van de bescherming van de rechten en vrijheden van anderen beantwoorden.
 
@@ -10065,13 +10084,13 @@ In lid 5 wordt het onderscheid tussen in het Handvest bepaalde „rechten” en 
 
 Lid 6 verwijst naar de diverse artikelen in het Handvest die in de geest van de subsidiariteit verwijzen naar nationale wetgevingen en praktijken.
 
-#### Artikel 53. 3) Artikel II-113 van de Grondwet.Beschermingsniveau
+##### Artikel 53. 3) Artikel II-113 van de Grondwet.Beschermingsniveau
 
 Geen der bepalingen van dit Handvest mag worden uitgelegd als zou zij een beperking vormen van of afbreuk doen aan de rechten van de mens en de fundamentele vrijheden welke binnen hun respectieve werkingssferen worden erkend door het recht van de Unie, het internationaal recht en de internationale overeenkomsten waarbij de Unie of alle lidstaten partij zijn, met name het [Europees Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden](https://wetten.overheid.nl/jci1.3:c:BWBV0001000), alsmede door de grondwetten van de lidstaten.
 
 Deze bepaling beoogt de handhaving van het beschermingsniveau dat momenteel, binnen hun respectieve werkingssferen, wordt geboden door het recht van de Unie, het recht van de lidstaten en het internationale recht. Gezien het belang ervan wordt het [EVRM](https://wetten.overheid.nl/jci1.3:c:BWBV0001000) genoemd.
 
-#### Artikel 54. 4) Artikel II-114 van de Grondwet.Verbod van misbruik van recht
+##### Artikel 54. 4) Artikel II-114 van de Grondwet.Verbod van misbruik van recht
 
 Geen der bepalingen van dit Handvest mag worden uitgelegd als zou zij het recht inhouden enige activiteit aan de dag te leggen of enige daad te verrichten met als doel de rechten of vrijheden die in dit Handvest zijn erkend, teniet te doen of de rechten en vrijheden verdergaand te beperken dan door dit Handvest is toegestaan.
 
@@ -10079,23 +10098,23 @@ Dit artikel correspondeert met [artikel 17 van het EVRM](https://wetten.overheid
 
 „Geen der bepalingen van dit Verdrag mag worden uitgelegd als zou zij voor een staat, een groep of een persoon het recht inhouden enige activiteit aan de dag te leggen of enige daad te verrichten met als doel de rechten of vrijheden die in dit Verdrag zijn vermeld teniet te doen of deze verdergaand te beperken dan bij dit Verdrag is voorzien.”
 
-#### 13. Verklaring ad [artikel III-116](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=I&artikel=III-116&z=2004-10-29&g=2004-10-29)
+##### 13. Verklaring ad [artikel III-116](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=I&artikel=III-116&z=2004-10-29&g=2004-10-29)
 
 De Conferentie is het erover eens dat de Unie, in het kader van haar algemene streven de ongelijkheden tussen vrouwen en mannen op te heffen, in haar beleidsinitiatieven zal trachten alle vormen van huiselijk geweld te bestrijden. De lidstaten moeten alle maatregelen nemen om deze strafbare feiten te voorkomen en te bestraffen en om de slachtoffers te steunen en te beschermen.
 
-#### 14. Verklaring ad [artikelen III-136](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=2&paragraaf=1&artikel=III-136&z=2004-10-29&g=2004-10-29) en [III-267](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=2&artikel=III-267&z=2004-10-29&g=2004-10-29)
+##### 14. Verklaring ad [artikelen III-136](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=2&paragraaf=1&artikel=III-136&z=2004-10-29&g=2004-10-29) en [III-267](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=2&artikel=III-267&z=2004-10-29&g=2004-10-29)
 
 De Conferentie is van oordeel dat ingeval een op [artikel III-267, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=2&artikel=III-267&z=2004-10-29&g=2004-10-29), gebaseerd ontwerp van Europese wet of kaderwet afbreuk zou doen aan fundamentele aspecten van het socialezekerheidsstelsel van een lidstaat, met name het toepassingsgebied, de kosten en de financiële structuur ervan, of gevolgen zou hebben voor het financiële evenwicht van dat stelsel, zoals bepaald in [artikel III-136, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=2&paragraaf=1&artikel=III-136&z=2004-10-29&g=2004-10-29), er naar behoren rekening zal worden gehouden met de belangen van die lidstaat.
 
-#### 15. Verklaring ad [artikelen III-160](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=4&artikel=III-160&z=2004-10-29&g=2004-10-29) en [III-322](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=V&hoofdstuk=V&artikel=III-322&z=2004-10-29&g=2004-10-29)
+##### 15. Verklaring ad [artikelen III-160](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=4&artikel=III-160&z=2004-10-29&g=2004-10-29) en [III-322](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=V&hoofdstuk=V&artikel=III-322&z=2004-10-29&g=2004-10-29)
 
 De Conferentie memoreert dat de eerbiediging van de grondrechten en de fundamentele vrijheden met name inhoudt dat de nodige aandacht wordt geschonken aan de bescherming en de eerbiediging van het recht van de betrokken natuurlijke personen of entiteiten op het genot van de bij de wet bepaalde waarborgen. Daartoe, en om een grondige rechterlijke toetsing te waarborgen, moeten Europese besluiten waarbij een natuurlijke persoon of entiteit aan beperkende maatregelen wordt onderworpen, op duidelijke en onderscheiden criteria gebaseerd zijn. Deze criteria dienen te worden toegesneden op de specifieke kenmerken van de beperkende maatregel.
 
-#### 16. Verklaring ad [artikel III-167, lid 2, onder c](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=5&paragraaf=2&artikel=III-167&z=2004-10-29&g=2004-10-29)
+##### 16. Verklaring ad [artikel III-167, lid 2, onder c](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=5&paragraaf=2&artikel=III-167&z=2004-10-29&g=2004-10-29)
 
 De Conferentie merkt op dat [artikel III-167, lid 2, onder c](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=5&paragraaf=2&artikel=III-167&z=2004-10-29&g=2004-10-29), moet worden uitgelegd in overeenstemming met de bestaande rechtspraak van het Hof van Justitie van de Europese Gemeenschappen en van het Gerecht van eerste aanleg betreffende de toepasselijkheid van die bepaling op de steun die wordt toegekend aan bepaalde gebieden van de Bondsrepubliek Duitsland die gevolgen ondervinden van de vroegere deling van Duitsland.
 
-#### 17. Verklaring ad [artikel III-184](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=1&artikel=III-184&z=2004-10-29&g=2004-10-29)
+##### 17. Verklaring ad [artikel III-184](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=1&artikel=III-184&z=2004-10-29&g=2004-10-29)
 
 Met betrekking tot [artikel III-184](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=II&afdeling=1&artikel=III-184&z=2004-10-29&g=2004-10-29) bevestigt de Conferentie dat het versterken van het groeipotentieel en het zorgen voor een gezonde begrotingssituatie de twee pijlers zijn van het economisch en het begrotingsbeleid van de Unie en de lidstaten. Het stabiliteits- en groeipact is een belangrijk werktuig om deze doelstellingen te verwezenlijken.
 
@@ -10111,71 +10130,71 @@ De Conferentie is het erover eens dat de lidstaten perioden van economisch herst
 
 De lidstaten zien met belangstelling mogelijke voorstellen van de Commissie en verdere bijdragen van de lidstaten tegemoet, die de uitvoering van het stabiliteits- en groeipact krachtiger en transparanter moeten maken. De lidstaten zullen alle nodige maatregelen nemen om het groeipotentieel van hun economieën te verbeteren. Een verbeterde coördinatie van het economisch beleid zou deze doelstelling kracht kunnen bijzetten. Met deze verklaring wordt niet vooruitgelopen op het toekomstige debat over het stabiliteits- en groeipact.
 
-#### 18. Verklaring ad [artikel III-213](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=III&afdeling=2&artikel=III-213&z=2004-10-29&g=2004-10-29)
+##### 18. Verklaring ad [artikel III-213](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=III&afdeling=2&artikel=III-213&z=2004-10-29&g=2004-10-29)
 
 De Conferentie bevestigt dat de in [artikel III-213](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=III&afdeling=2&artikel=III-213&z=2004-10-29&g=2004-10-29) beschreven beleidsterreinen in essentie onder de bevoegdheid van de lidstaten vallen. De ondersteunende en coördinerende maatregelen die overeenkomstig dit artikel op het niveau van de Unie moeten worden genomen, zijn van aanvullende aard. Zij hebben niet ten doel de nationale stelsels te harmoniseren, maar de samenwerking tussen de lidstaten te versterken. Zij laten de in elke lidstaat bestaande waarborgen en gebruiken in verband met de verantwoordelijkheid van de sociale partners onverlet.
 
 Deze verklaring doet geen afbreuk aan de bepalingen van de Grondwet die de Unie bevoegdheid toedelen, daaronder begrepen op sociaal gebied.
 
-#### 19. Verklaring ad [artikel III-220](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=III&afdeling=3&artikel=III-220&z=2004-10-29&g=2004-10-29)
+##### 19. Verklaring ad [artikel III-220](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=III&afdeling=3&artikel=III-220&z=2004-10-29&g=2004-10-29)
 
 De Conferentie is van oordeel dat de woorden „insulaire gebieden” in [artikel III-220](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=III&afdeling=3&artikel=III-220&z=2004-10-29&g=2004-10-29) ook betrekking kunnen hebben op insulaire staten in hun geheel, mits aan de vereiste criteria wordt voldaan.
 
-#### 20. Verklaring ad [artikel III-243](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=III&afdeling=7&artikel=III-243&z=2004-10-29&g=2004-10-29)
+##### 20. Verklaring ad [artikel III-243](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=III&afdeling=7&artikel=III-243&z=2004-10-29&g=2004-10-29)
 
 De Conferentie merkt op dat de bepalingen van [artikel III-243](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=III&afdeling=7&artikel=III-243&z=2004-10-29&g=2004-10-29) moeten worden toegepast in overeenstemming met de gangbare praktijk. De zinsnede „de maatregelen (…) [die] noodzakelijk zijn om de economische nadelen welke door de deling van Duitsland zijn berokkend aan de economie van de door de deling getroffen streken in de Bondsrepubliek te compenseren” moet worden uitgelegd in overeenstemming met de bestaande rechtspraak van het Hof van Justitie van de Europese Gemeenschappen en van het Gerecht van eerste aanleg.
 
-#### 21. Verklaring ad [artikel III-248](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=III&afdeling=9&artikel=III-248&z=2004-10-29&g=2004-10-29)
+##### 21. Verklaring ad [artikel III-248](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=III&afdeling=9&artikel=III-248&z=2004-10-29&g=2004-10-29)
 
 De Conferentie is het erover eens dat in het optreden van de Unie op het gebied van onderzoek en technologische ontwikkeling naar behoren rekening zal worden gehouden met de fundamentele oriëntaties en keuzen van het onderzoeksbeleid van de lidstaten.
 
-#### 22. Verklaring ad [artikel III-256](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=III&afdeling=10&artikel=III-256&z=2004-10-29&g=2004-10-29)
+##### 22. Verklaring ad [artikel III-256](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=III&afdeling=10&artikel=III-256&z=2004-10-29&g=2004-10-29)
 
 De Conferentie is van oordeel dat [artikel III-256](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=III&afdeling=10&artikel=III-256&z=2004-10-29&g=2004-10-29) geen afbreuk doet aan het recht van de lidstaten om onder de in [artikel III-131](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=I&afdeling=I&artikel=III-131&z=2004-10-29&g=2004-10-29) bepaalde voorwaarden de nodige voorzieningen te treffen om hun energievoorziening te waarborgen.
 
-#### 23. Verklaring ad [artikel III-273, lid 1, tweede alinea](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=4&artikel=III-273&z=2004-10-29&g=2004-10-29)
+##### 23. Verklaring ad [artikel III-273, lid 1, tweede alinea](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=4&artikel=III-273&z=2004-10-29&g=2004-10-29)
 
 De Conferentie is van oordeel dat de in [artikel III-273, lid 1, tweede alinea](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=4&artikel=III-273&z=2004-10-29&g=2004-10-29), bedoelde Europese wetten rekening dienen te houden met de nationale voorschriften en gebruiken inzake het inleiden van strafrechtelijk onderzoek.
 
-#### 24. Verklaring ad [artikel III-296](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=V&hoofdstuk=II&afdeling=1&artikel=III-296&z=2004-10-29&g=2004-10-29)
+##### 24. Verklaring ad [artikel III-296](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=V&hoofdstuk=II&afdeling=1&artikel=III-296&z=2004-10-29&g=2004-10-29)
 
 De Conferentie verklaart dat, zodra het Verdrag tot vaststelling van een Grondwet voor Europa is ondertekend, de secretaris-generaal van de Raad, hoge vertegenwoordiger voor het gemeenschappelijk buitenlands en veiligheidsbeleid, de Commissie en de lidstaten, de voorbereidingen in verband met de Europese dienst voor extern optreden dienen aan te vangen.
 
-#### 25. Verklaring ad [artikel III-325](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=V&hoofdstuk=VI&artikel=III-325&z=2004-10-29&g=2004-10-29) betreffende de onderhandelingen over en sluiting van internationale overeenkomsten inzake de ruimte van vrijheid, veiligheid en recht door de lidstaten
+##### 25. Verklaring ad [artikel III-325](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=V&hoofdstuk=VI&artikel=III-325&z=2004-10-29&g=2004-10-29) betreffende de onderhandelingen over en sluiting van internationale overeenkomsten inzake de ruimte van vrijheid, veiligheid en recht door de lidstaten
 
 De Conferentie bevestigt dat de lidstaten op de door [deel III, titel III, hoofdstuk IV, afdelingen 3, 4 en 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=III&hoofdstuk=IV&afdeling=3&z=2004-10-29&g=2004-10-29) bestreken gebieden onderhandelingen kunnen aangaan over overeenkomsten met derde landen en internationale organisaties en zulke overeenkomsten kunnen sluiten, voorzover deze verenigbaar zijn met het recht van de Unie.
 
-#### 26. Verklaring ad [artikel III-402, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=II&afdeling=1&artikel=III-402&z=2004-10-29&g=2004-10-29)
+##### 26. Verklaring ad [artikel III-402, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=II&afdeling=1&artikel=III-402&z=2004-10-29&g=2004-10-29)
 
 In [artikel III-402, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=II&afdeling=1&artikel=III-402&z=2004-10-29&g=2004-10-29), is bepaald dat indien de Europese wet van de Raad tot bepaling van een nieuw financieel kader nog niet is vastgesteld wanneer het voorgaand financieel kader verstrijkt, de maximumbedragen en de overige bepalingen betreffende het laatste jaar van het voorgaand financieel kader van toepassing blijven totdat deze wet is vastgesteld.
 
 De Conferentie verklaart dat indien eind 2006 nog geen Europese wet van de Raad tot bepaling van een nieuw financieel kader is vastgesteld en in de gevallen waarin het Verdrag inzake de toetreding van 16 april 2003 voor de toewijzing van kredieten aan de nieuwe lidstaten voorziet in een periode van geleidelijke invoering die in 2006 afloopt, de toewijzing van kredieten vanaf 2007 wordt vastgesteld op basis van dezelfde criteria voor alle lidstaten.
 
-#### 27. Verklaring ad [artikel III-419](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=III&artikel=III-419&z=2004-10-29&g=2004-10-29)
+##### 27. Verklaring ad [artikel III-419](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=III&artikel=III-419&z=2004-10-29&g=2004-10-29)
 
 De Conferentie verklaart dat de lidstaten bij de indiening van hun verzoek om een nauwere samenwerking te mogen aangaan, kunnen aangeven of zij reeds in dat stadium voornemens zijn [artikel III-422](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VI&hoofdstuk=III&artikel=III-422&z=2004-10-29&g=2004-10-29) toe te passen, dat voorziet in uitbreiding van de stemming bij gekwalificeerde meerderheid, of gebruik te maken van de gewone wetgevingsprocedure.
 
-#### 28. Verklaring ad [artikel IV-440, lid 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=IV&artikel=IV-440&z=2004-10-29&g=2004-10-29)
+##### 28. Verklaring ad [artikel IV-440, lid 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=IV&artikel=IV-440&z=2004-10-29&g=2004-10-29)
 
 De Hoge Verdragsluitende Partijen komen overeen dat de Europese Raad krachtens [artikel IV-440, lid 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=IV&artikel=IV-440&z=2004-10-29&g=2004-10-29), een Europees besluit zal vaststellen om Mayotte ten aanzien van de Unie de status van ultraperifeer gebied in de zin van artikel IV-440, lid 2, en [artikel III-424](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=VII&artikel=III-424&z=2004-10-29&g=2004-10-29) te verlenen wanneer de Franse autoriteiten de Europese Raad en de Commissie mededelen dat de huidige evolutie in de interne status van het eiland daarvoor de ruimte biedt.
 
-#### 29. Verklaring ad [artikel IV-448, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=IV&artikel=IV-448&z=2004-10-29&g=2004-10-29)
+##### 29. Verklaring ad [artikel IV-448, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=IV&artikel=IV-448&z=2004-10-29&g=2004-10-29)
 
 De Conferentie is van mening dat de mogelijkheid om het Verdrag tot vaststelling van een Grondwet voor Europa in de in [artikel IV-448, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=IV&artikel=IV-448&z=2004-10-29&g=2004-10-29), bedoelde talen te vertalen bijdraagt tot de verwezenlijking van de doelstelling van eerbiediging van de rijke verscheidenheid van cultuur en taal van de Unie, waarvan sprake is in [artikel I-3, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=I&artikel=I-3&z=2004-10-29&g=2004-10-29), vierde alinea. In dit verband bevestigt de Conferentie dat de Unie gehecht is aan de culturele verscheidenheid van Europa en bijzondere aandacht zal blijven schenken aan deze en andere talen. De Conferentie beveelt aan dat lidstaten die van de in artikel IV-448, lid 2, geboden mogelijkheid gebruik wensen te maken, binnen zes maanden na de datum van ondertekening van het Verdrag aan de Raad meedelen in welke taal of talen dit Verdrag zal worden vertaald.
 
-#### 30. Verklaring betreffende de bekrachtiging van het Verdrag tot vaststelling van een Grondwet voor Europa
+##### 30. Verklaring betreffende de bekrachtiging van het Verdrag tot vaststelling van een Grondwet voor Europa
 
 De Conferentie neemt er nota van dat indien viervijfde van de lidstaten het Verdrag tot vaststelling van een Grondwet voor Europa twee jaar na de ondertekening ervan hebben bekrachtigd en een of meer lidstaten moeilijkheden bij de bekrachtiging hebben ondervonden, de Europese Raad de kwestie bespreekt.
 
 #### VERKLARINGEN INZAKE HET PROTOCOL BETREFFENDE DE VERDRAGEN EN AKTEN INZAKE DE TOETREDING VAN HET KONINKRIJK DENEMARKEN, IERLAND EN HET VERENIGD KONINKRIJK VAN GROOT-BRITTANNIË EN NOORD-IERLAND, DE HELLEENSE REPUBLIEK, HET KONINKRIJK SPANJE EN DE PORTUGESE REPUBLIEK, ALSMEDE DE REPUBLIEK OOSTENRIJK, DE REPUBLIEK FINLAND EN HET KONINKRIJK ZWEDEN
 
-#### 31. Verklaring betreffende de Åland-eilanden
+##### 31. Verklaring betreffende de Åland-eilanden
 
 De Conferentie erkent dat bij het opstellen van de in [artikel IV-440, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=IV&artikel=IV-440&z=2004-10-29&g=2004-10-29), bedoelde regeling voor de Åland-eilanden rekening wordt gehouden met het bijzondere statuut dat deze eilanden uit hoofde van het internationaal recht genieten.
 
 Te dien einde benadrukt de Conferentie dat specifieke bepalingen zijn opgenomen in titel V, afdeling 5, van het Protocol betreffende de verdragen en akten inzake de toetreding van het Koninkrijk Denemarken, Ierland en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, de Helleense Republiek, het Koninkrijk Spanje en de Portugese Republiek, alsmede de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden.
 
-#### 32. Verklaring betreffende het Lapse volk
+##### 32. Verklaring betreffende het Lapse volk
 
 Gezien de artikelen 60 en 61 van het Protocol betreffende de verdragen en akten inzake de toetreding van het Koninkrijk Denemarken, Ierland en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, de Helleense Republiek, het Koninkrijk Spanje en de Portugese Republiek, alsmede de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden, erkent de Conferentie de verplichtingen en verbintenissen van Zweden en Finland ten aanzien van het Lapse volk in het kader van het nationale en het internationale recht.
 
@@ -10185,7 +10204,7 @@ Te dien einde benadrukt de Conferentie dat specifieke bepalingen zijn opgenomen 
 
 #### VERKLARINGEN INZAKE HET PROTOCOL BETREFFENDE HET VERDRAG EN DE AKTE INZAKE DE TOETREDING VAN DE TSJECHISCHE REPUBLIEK, DE REPUBLIEK ESTLAND, DE REPUBLIEK CYPRUS, DE REPUBLIEK LETLAND, DE REPUBLIEK LITOUWEN, DE REPUBLIEK HONGARIJE, DE REPUBLIEK MALTA, DE REPUBLIEK POLEN, DE REPUBLIEK SLOVENIË EN DE SLOWAAKSE REPUBLIEK
 
-#### 33. Verklaring betreffende de zones van Cyprus die onder de soevereiniteit van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland vallen
+##### 33. Verklaring betreffende de zones van Cyprus die onder de soevereiniteit van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland vallen
 
 De Conferentie,
 
@@ -10205,7 +10224,7 @@ Erkennend derhalve dat sommige bepalingen van de Grondwet en van de handelingen 
 
 Benadrukt dat te dien einde specifieke bepalingen zijn opgenomen in deel twee, titel III, van het Protocol betreffende het verdrag en de akte inzake de toetreding van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek.
 
-#### 34. Verklaring van de Commissie betreffende de zones van Cyprus die onder de soevereiniteit van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland vallen
+##### 34. Verklaring van de Commissie betreffende de zones van Cyprus die onder de soevereiniteit van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland vallen
 
 De Commissie bevestigt haar interpretatie dat de bepalingen van het recht van de Unie dat van toepassing is op de SBA's, overeenkomstig deel twee, titel III, van het Protocol betreffende het verdrag en de akte inzake de toetreding van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek omvatten:
 
@@ -10213,7 +10232,7 @@ De Commissie bevestigt haar interpretatie dat de bepalingen van het recht van de
 
 - b. Verordening (EG) nr. 1260/1999 van de Raad van 21 juni 1999 houdende algemene bepalingen inzake de Structuurfondsen, voorzover vereist bij Verordening (EG) nr. 1257/1999 van de Raad van 17 mei 1999 inzake steun voor plattelandsontwikkeling uit het Europees Oriëntatie- en Garantiefonds voor de Landbouw (EOGFL) met het oog op de financiering van maatregelen voor plattelandsontwikkeling in de zones van Cyprus die onder de soevereiniteit van het Verenigd Koninkrijk vallen binnen de Afdeling Garantie van het EOGFL.
 
-#### 35. Verklaring betreffende de kerncentrale van Ignalina in Litouwen
+##### 35. Verklaring betreffende de kerncentrale van Ignalina in Litouwen
 
 De Conferentie,
 
@@ -10227,7 +10246,7 @@ Er nota van nemend dat Litouwen bij het gebruik van de steun van de Unie naar be
 
 Benadrukt dat te dien einde specifieke bepalingen zijn opgenomen in deel twee, titel IV, van het Protocol betreffende het verdrag en de akte inzake de toetreding van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek.
 
-#### 36. Verklaring betreffende de doorreis van personen over land tussen de regio Kaliningrad en andere delen van de Russische Federatie
+##### 36. Verklaring betreffende de doorreis van personen over land tussen de regio Kaliningrad en andere delen van de Russische Federatie
 
 De Conferentie,
 
@@ -10245,7 +10264,7 @@ Vastbesloten Litouwen te helpen zo spoedig mogelijk de voorwaarden te vervullen 
 
 Benadrukt dat te dien einde specifieke bepalingen zijn opgenomen in deel twee, titel V, van het Protocol betreffende het verdrag en de akte inzake de toetreding van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek.
 
-#### 37. Verklaring betreffende eenheid 1 en eenheid 2 van de V1-kerncentrale van Bohunice in Slowakije
+##### 37. Verklaring betreffende eenheid 1 en eenheid 2 van de V1-kerncentrale van Bohunice in Slowakije
 
 De Conferentie,
 
@@ -10255,7 +10274,7 @@ Nota nemend van de noodzaak om uitvoeringsbepalingen vast te stellen voor de voo
 
 Benadrukt dat te dien einde specifieke bepalingen zijn opgenomen in deel twee, titel IX, van het Protocol betreffende het verdrag en de akte inzake de toetreding van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek.
 
-#### 38. Verklaring betreffende Cyprus
+##### 38. Verklaring betreffende Cyprus
 
 De Conferentie,
 
@@ -10279,13 +10298,13 @@ Overwegende dat zulke maatregelen onverlet laten, de toepassing van het acquis i
 
 Benadrukt dat te dien einde specifieke bepalingen zijn opgenomen in deel 2, titel X, van het Protocol betreffende het verdrag en de akte inzake de toetreding van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek.
 
-#### 39. Verklaring inzake het Protocol betreffende de positie van Denemarken
+##### 39. Verklaring inzake het Protocol betreffende de positie van Denemarken
 
 De Conferentie neemt er nota van dat Denemarken, met betrekking tot rechtshandelingen die de Raad alleen of samen met het Europees Parlement moet vaststellen en die zowel bepalingen bevatten die op Denemarken van toepassing zijn als bepalingen die dat niet zijn omdat zij een rechtsgrondslag hebben waarop deel I van het Protocol betreffende de positie van Denemarken van toepassing is, verklaart dat het zijn stemrecht niet zal gebruiken om de vaststelling tegen te gaan van bepalingen die niet op Denemarken van toepassing zijn.
 
 Voorts neemt de Conferentie er nota van dat Denemarken, op basis van de verklaring over [artikel I-43](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=V&hoofdstuk=II&artikel=I-43&z=2004-10-29&g=2004-10-29) en [artikel III-329](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=III&titeldeel=V&hoofdstuk=VIII&artikel=III-329&z=2004-10-29&g=2004-10-29), verklaart dat de Deense deelneming aan een optreden of aan wetgevingshandelingen op grond van artikel I-43 en artikel III-329 zal geschieden overeenkomstig deel I en deel II van het Protocol betreffende de positie van Denemarken.
 
-#### 40. Verklaring inzake het Protocol betreffende de overgangsbepalingen inzake de instellingen en organen van de Unie
+##### 40. Verklaring inzake het Protocol betreffende de overgangsbepalingen inzake de instellingen en organen van de Unie
 
 Op de conferenties over de toetreding van Roemenië en/of Bulgarije tot de Unie zullen de lidstaten het volgende standpunt innemen met betrekking tot de verdeling van de zetels in het Europees Parlement en de stemmenweging in de Europese Raad en de Raad.
 
@@ -10326,7 +10345,7 @@ Op de conferenties over de toetreding van Roemenië en/of Bulgarije tot de Unie 
 
 - 3. Bij iedere toetreding wordt de in het Protocol betreffende de overgangsbepalingen inzake de instellingen en organen van de Unie bedoelde drempel berekend overeenkomstig [artikel 2, lid 3, van dat protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&titeldeel=II&artikel=2&z=2004-10-29&g=2004-10-29).
 
-#### 41. Verklaring inzake Italië
+##### 41. Verklaring inzake Italië
 
 De Conferentie neemt er akte van dat het Protocol betreffende Italië, dat in 1957 aan het Verdrag tot oprichting van de Europese Economische Gemeenschap is gehecht, zoals gewijzigd bij de goedkeuring van het Verdrag betreffende de Europese Unie, het volgende bepaalde:
 
@@ -10352,38 +10371,38 @@ Erkennen in het bijzonder dat er bij de toepassing van de artikelen 109 H en 109
 
 #### VERKLARINGEN VAN LIDSTATEN
 
-#### 42. Verklaring van het Koninkrijk der Nederlanden ad [artikel I-55](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=VII&artikel=I-55&z=2004-10-29&g=2004-10-29)
+##### 42. Verklaring van het Koninkrijk der Nederlanden ad [artikel I-55](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=VII&artikel=I-55&z=2004-10-29&g=2004-10-29)
 
 Het Koninkrijk der Nederlanden zal instemmen met een Europees besluit, bedoeld in [artikel I-55, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=VII&artikel=I-55&z=2004-10-29&g=2004-10-29), zodra een herziening van de in [artikel I-54, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=VII&artikel=I-54&z=2004-10-29&g=2004-10-29), bedoelde Europese wet Nederland een bevredigende oplossing heeft geboden voor zijn buitensporige negatieve nettobetalingspositie ten opzichte van de begroting van de Unie.
 
-#### 43. Verklaring van het Koninkrijk der Nederlanden ad [artikel IV-440](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=IV&artikel=IV-440&z=2004-10-29&g=2004-10-29)
+##### 43. Verklaring van het Koninkrijk der Nederlanden ad [artikel IV-440](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=IV&artikel=IV-440&z=2004-10-29&g=2004-10-29)
 
 Het Koninkrijk der Nederlanden verklaart dat een initiatief tot een Europees besluit, als bedoeld in [artikel IV-440, lid 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=IV&artikel=IV-440&z=2004-10-29&g=2004-10-29), strekkende tot wijziging van de status van de Nederlandse Antillen en/of Aruba ten aanzien van de Unie alleen zal worden ingediend op grond van een besluit dat genomen is in overeenstemming met het Statuut van het Koninkrijk der Nederlanden.
 
-#### 44. Verklaring van de Bondsrepubliek Duitsland, Ierland, de Republiek Hongarije, de Republiek Oostenrijk en het Koninkrijk Zweden
+##### 44. Verklaring van de Bondsrepubliek Duitsland, Ierland, de Republiek Hongarije, de Republiek Oostenrijk en het Koninkrijk Zweden
 
 Duitsland, Ierland, Hongarije, Oostenrijk en Zweden merken op dat de belangrijkste bepalingen van het [Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie](https://wetten.overheid.nl/jci1.3:c:BWBV0004033) sinds de inwerkingtreding van dat verdrag inhoudelijk niet zijn gewijzigd en moeten worden geactualiseerd. Daarom steunen zij het idee van een zo spoedig mogelijk bijeen te roepen Conferentie van de vertegenwoordigers van de regeringen der lidstaten.
 
-#### 45. Verklaring van het Koninkrijk Spanje en van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland
+##### 45. Verklaring van het Koninkrijk Spanje en van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland
 
 Het Verdrag tot vaststelling van een Grondwet voor Europa is van toepassing op Gibraltar als een Europees gebiedsdeel waarvan de buitenlandse betrekkingen door een lidstaat worden behartigd. Dit houdt geen wijziging van de respectieve standpunten van de betrokken lidstaten in.
 
-#### 46. Verklaring van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland betreffende de definitie van de term „onderdanen”
+##### 46. Verklaring van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland betreffende de definitie van de term „onderdanen”
 
 Wat betreft het Verdrag tot vaststelling van een Grondwet voor Europa en het [Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie](https://wetten.overheid.nl/jci1.3:c:BWBV0004033), en handelingen die voortvloeien uit die verdragen of van kracht blijven op grond van die verdragen, herinnert het Verenigd Koninkrijk aan de verklaring die het op 31 december 1982 heeft afgelegd over de definitie van de term „onderdanen”, met dien verstande dat het begrip „burgers van Britse afhankelijke gebieden” gelezen moet worden als „burgers van Britse overzeese gebieden”.
 
-#### 47. Verklaring van het Koninkrijk Spanje betreffende de definitie van de term „onderdanen”
+##### 47. Verklaring van het Koninkrijk Spanje betreffende de definitie van de term „onderdanen”
 
 Spanje constateert dat overeenkomstig [artikel I-10 van het Verdrag tot vaststelling van een Grondwet voor Europa](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=II&artikel=I-10&z=2004-10-29&g=2004-10-29) eenieder die de nationaliteit van een lidstaat bezit burger is van de Unie. Spanje neemt tevens nota van het feit dat, bij de huidige stand van de Europese integratie, waarvan het Verdrag de afspiegeling is, alleen de onderdanen van de lidstaten de specifieke rechten van het Europees burgerschap genieten, tenzij het recht van de Unie dit uitdrukkelijk anders bepaalt. In dit verband onderstreept Spanje tot slot dat volgens de [artikelen I-20](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=IV&hoofdstuk=I&artikel=I-20&z=2004-10-29&g=2004-10-29) en [I-46 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=VI&artikel=I-46&z=2004-10-29&g=2004-10-29) het Europees Parlement thans de burgers van de Unie vertegenwoordigt.
 
-#### 48. Verklaring van het Verenigd Koninkrijk van Groot-Britannië en Noord-Ierland betreffende het kiesrecht bij verkiezingen voor het Europees Parlement
+##### 48. Verklaring van het Verenigd Koninkrijk van Groot-Britannië en Noord-Ierland betreffende het kiesrecht bij verkiezingen voor het Europees Parlement
 
 Het Verenigd Koninkrijk merkt op dat [artikel I-20](https://wetten.overheid.nl/jci1.3:c:BWBV0005879&deel=I&titeldeel=IV&hoofdstuk=I&artikel=I-20&z=2004-10-29&g=2004-10-29) en andere bepalingen van de Grondwet niet bedoeld zijn om wijzigingen aan te brengen in de grondslagen voor het kiesrecht bij verkiezingen voor het Europees Parlement.
 
-#### 49. Verklaring van het Koninkrijk België inzake de nationale parlementen
+##### 49. Verklaring van het Koninkrijk België inzake de nationale parlementen
 
 Het Koninkrijk België verduidelijkt dat, overeenkomstig zijn grondwettelijk recht, zowel de kamer van Volksvertegenwoordigers en de Senaat van het federaal Parlement als de parlementaire vergaderingen van de Gemeenschappen en Gewesten, in functie van de bevoegdheden die de Unie uitoefent, optreden als componenten van het nationaal parlementair stelsel of als kamers van het nationaal Parlement.
 
-#### 50. Verklaring van de Republiek Letland en de Republiek Hongarije over de spelling van de naam van de enige munteenheid in het Verdrag tot vaststelling van een Grondwet voor Europa
+##### 50. Verklaring van de Republiek Letland en de Republiek Hongarije over de spelling van de naam van de enige munteenheid in het Verdrag tot vaststelling van een Grondwet voor Europa
 
 Onverminderd de uniforme spelling van de naam van de in het Verdrag tot vaststelling van een Grondwet voor Europa bedoelde enige munteenheid van de Europese Unie zoals die op de bankbiljetten en munten staat, verklaren Letland en Hongarije dat de spelling van de naam van de enige munteenheid en van de afgeleide vormen daarvan in de Letse en de Hongaarse tekst van het Verdrag tot vaststelling van een Grondwet voor Europa geen gevolgen heeft voor de bestaande regels voor de Letse en de Hongaarse taal.

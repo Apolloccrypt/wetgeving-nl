@@ -1,13 +1,39 @@
 ---
-title: "Besluit bescherming koopvaardij"
+title: "Besluit van 22 december 2021, houdende regels ter uitvoering van de Wet ter Bescherming Koopvaardij (Besluit bescherming koopvaardij) alsmede vaststelling van het tijdstip van inwerkingtreding van de Wet ter Bescherming Koopvaardij"
 identifier: "BWBR0046155"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046155"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046155"
+soort: "AMvB"
+stam_id: "16220503"
+version_id: "28322292"
+internal_id: "C39927341"
+label_id: "16148494"
+dtd_version: "2.0"
+original_entry_into_force: "2022-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046155/2025-07-01/0"
+intitule_bron: "Stb.2022-3"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-12-22"
+intitule_published: "2022-01-04"
+intitule_in_force: "2022-01-04"
+intitule_status: "goed"
+original_publication: "Stb.2022-3"
+original_signed_date: "2021-12-22"
+original_published_date: "2022-01-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2022-3"
+entry_into_force_date: "2022-02-01"
+jci_1_3: "jci1.3:c:BWBR0046155&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0046155&g=2025-07-01"
+citeertitel_status: "officieel"
+short_title: "Besluit bescherming koopvaardij"
+signed_date: "2021-12-22"
+entry_into_force: "2022-02-01"
 ---
-
 # Besluit van 22 december 2021, houdende regels ter uitvoering van de Wet ter Bescherming Koopvaardij (Besluit bescherming koopvaardij) alsmede vaststelling van het tijdstip van inwerkingtreding van de Wet ter Bescherming Koopvaardij
 
 Op de voordracht van Onze Minister van Justitie en Veiligheid van 24 november 2020, directie Wetgeving en Juridische Zaken, nr. 3098778;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1. (definities)
+##### Artikel 1.1. (definities)
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -44,7 +70,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - **wet:** [Wet ter Bescherming Koopvaardij](https://wetten.overheid.nl/jci1.3:c:BWBR0042278).
 
-#### Artikel 1.2. (aanwijzing risicogebied)
+##### Artikel 1.2. (aanwijzing risicogebied)
 
 1. Het zeegebied, bedoeld in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=2), is het gebied dat door de volgende coördinaten volgens het World Geodetic System (WGS1986) wordt begrensd:
 
@@ -70,11 +96,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 2. De toestemming voor de inzet van particulier maritiem beveiligingspersoneel
 
-#### Artikel 2.1. (uitgangspunt Nederlandse wet)
+##### Artikel 2.1. (uitgangspunt Nederlandse wet)
 
 De gewapende bescherming van op grond van voor Nederland geldende rechtsregels onder vlag van het Koninkrijk varende koopvaardijschepen is een overheidstaak, behoudens indien de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042278) en de daarop gebaseerde regels maritieme beveiligingswerkzaamheden toestaan.
 
-#### Artikel 2.2. (aanvraag bij Kustwachtcentrum)
+##### Artikel 2.2. (aanvraag bij Kustwachtcentrum)
 
 1. De scheepsbeheerder dient de aanvraag om toestemming in bij het Kustwachtcentrum.
 
@@ -112,13 +138,13 @@ De gewapende bescherming van op grond van voor Nederland geldende rechtsregels o
 
 6. Bij regeling van Onze Minister wordt een formulier vastgesteld met betrekking tot het tweede en derde lid.
 
-#### Artikel 2.3. (criteria)
+##### Artikel 2.3. (criteria)
 
 1. Het aantal zeemijlen, bedoeld in [artikel 4, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=4) bedraagt honderd of meer.
 
 2. Het percentage extra kosten, bedoeld in [artikel 4, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=4) bedraagt ten minste veertig procent.
 
-#### Artikel 2.4. (informatieplicht; verantwoordelijkheid kapitein)
+##### Artikel 2.4. (informatieplicht; verantwoordelijkheid kapitein)
 
 1. De kapitein en de teamleider ontvangen voorafgaand aan het aan boord gaan van het beveiligingsteam de juiste en volledige informatie van de scheepsbeheerder onderscheidenlijk de vergunninghouder omtrent:
 
@@ -150,7 +176,7 @@ De gewapende bescherming van op grond van voor Nederland geldende rechtsregels o
 
 ### Hoofdstuk 3. De geweldsmiddelen, uitrusting en de nadere geweldsinstructie
 
-#### Artikel 3.1. (vuurwapens, munitie, handboeien)
+##### Artikel 3.1. (vuurwapens, munitie, handboeien)
 
 1. Het geweldsmiddel van de particuliere maritieme beveiligers bestaat uit een niet-automatisch vuurwapen of een semi-automatisch schoudervuurwapen met een maximumkaliber van .50 (12,7 mm) met bijbehorende munitie van het type full metal jacket.
 
@@ -158,13 +184,13 @@ De gewapende bescherming van op grond van voor Nederland geldende rechtsregels o
 
 3. Een teamlid beschikt over ten minste een set handboeien.
 
-#### Artikel 3.2. (wapen- of munitiekluis)
+##### Artikel 3.2. (wapen- of munitiekluis)
 
 1. De vuurwapens en de bijbehorende munitie worden tijdens een transport op een veilige wijze op het schip opgeslagen in afzonderlijke, deugdelijk afgesloten wapen- of munitiekluizen.
 
 2. Bij regeling van Onze Minister worden nadere regels gesteld over de wapen- of munitiekluis.
 
-#### Artikel 3.3. (verantwoordelijkheid kapitein)
+##### Artikel 3.3. (verantwoordelijkheid kapitein)
 
 1. De kapitein is verantwoordelijk voor het beheer en de veilige opslag van de vuurwapens en de bijbehorende munitie aan boord van het schip en is in het bezit van de sleutels van de wapen- en munitiekluizen.
 
@@ -172,7 +198,7 @@ De gewapende bescherming van op grond van voor Nederland geldende rechtsregels o
 
 3. Schietoefeningen door particuliere maritieme beveiligers mogen in verband met de veiligheid op en rond het schip slechts plaatsvinden na door de teamleider verkregen instemming van de kapitein.
 
-#### Artikel 3.4. (nadere geweldsinstructie)
+##### Artikel 3.4. (nadere geweldsinstructie)
 
 1. In aanvulling op en met inachtneming van [artikel 9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=9) geldt dat een particuliere maritieme beveiliger, ter afwending van dreigend gevaar van piraterij, alvorens gericht te schieten, een of meer waarschuwingsschoten in de lucht afvuurt.
 
@@ -186,15 +212,15 @@ De gewapende bescherming van op grond van voor Nederland geldende rechtsregels o
 
 ### Hoofdstuk 4. De vergunning
 
-#### Artikel 4.1. (reikwijdte vergunning)
+##### Artikel 4.1. (reikwijdte vergunning)
 
 De vergunning wordt verleend voor het aanbieden of verrichten van gewapende maritieme beveiligingswerkzaamheden door een maritiem beveiligingsbedrijf aan boord van een schip dat op grond van voor Nederland geldende rechtsregels gerechtigd is de vlag van het Koninkrijk te voeren, binnen het risicogebied.
 
-#### Artikel 4.2. (aanvraag bij Inspectie Leefomgeving en Transport)
+##### Artikel 4.2. (aanvraag bij Inspectie Leefomgeving en Transport)
 
 De aanvraag voor de vergunning wordt ingediend bij de Inspectie Leefomgeving en Transport.
 
-#### Artikel 4.3. (duur en voorschriften per vergunning)
+##### Artikel 4.3. (duur en voorschriften per vergunning)
 
 1. De vergunning wordt verleend met een geldigheidsduur van ten hoogste drie jaar.
 
@@ -206,7 +232,7 @@ De aanvraag voor de vergunning wordt ingediend bij de Inspectie Leefomgeving en 
 
 - b. de samenwerking met andere staten in het kader van maritieme beveiligingswetgeving.
 
-#### Artikel 4.4. (beslistermijn)
+##### Artikel 4.4. (beslistermijn)
 
 1. De beschikking op de aanvraag omtrent een vergunning wordt gegeven binnen acht weken nadat de aanvraag is ontvangen.
 
@@ -214,11 +240,11 @@ De aanvraag voor de vergunning wordt ingediend bij de Inspectie Leefomgeving en 
 
 3. Indien de termijn, bedoeld in het eerste lid, wordt verlengd, stelt Onze Minister de aanvrager daarvan in kennis en geeft hij aan binnen welke termijn de beschikking op de aanvraag kan worden gegeven.
 
-#### Artikel 4.5. (overgang vergunning op een derde)
+##### Artikel 4.5. (overgang vergunning op een derde)
 
 De vergunning kan slechts met schriftelijke toestemming van Onze Minister overgaan op een derde. Het bepaalde bij en krachtens [artikel 14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=14) is van overeenkomstige toepassing bij de overgang van een vergunning.
 
-#### Artikel 4.6. (schorsing vergunning)
+##### Artikel 4.6. (schorsing vergunning)
 
 1. De schorsing van de vergunning op grond van [artikel 14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=14) eindigt op de dag na de dag waarop de beschikking omtrent de intrekking van de vergunning is bekendgemaakt of de dag waarop sedert de schorsing acht weken zijn verstreken.
 
@@ -232,23 +258,23 @@ De vergunning kan slechts met schriftelijke toestemming van Onze Minister overga
 
 #### Paragraaf 5.1. Algemene eisen
 
-#### Artikel 5.1. (ISO-certificaten)
+##### Artikel 5.1. (ISO-certificaten)
 
 1. Het maritiem beveiligingsbedrijf beschikt te allen tijde over geldige ISO-certificaten met betrekking tot de normdocumenten 9001:2015, 28000:2007 en 28007:2015 van de International Organization for Standardization.
 
 2. De ISO-certificaten hebben bij het indienen van een aanvraag voor een vergunning ten minste nog een geldigheidsduur van zes maanden, te rekenen vanaf de datum van indiening van de aanvraag.
 
-#### Artikel 5.2. (naleving internationale verplichtingen)
+##### Artikel 5.2. (naleving internationale verplichtingen)
 
 Het maritiem beveiligingsbedrijf beschikt te allen tijde over instructies aan het in te zetten particulier maritiem beveiligingspersoneel waarin het invulling geeft aan internationaalrechtelijke verplichtingen van Nederland, in het bijzonder die met betrekking tot het Europees Verdrag ter bescherming van de rechten van de mens.
 
-#### Artikel 5.3. (transparantie en zetel onderneming)
+##### Artikel 5.3. (transparantie en zetel onderneming)
 
 1. Het maritiem beveiligingsbedrijf verschaft inzicht in de eigenaars- en zeggenschapsstructuur van zijn onderneming, in die van het concern waartoe hij behoort en in de persoon van de uiteindelijke belanghebbende.
 
 2. Het maritiem beveiligingsbedrijf dat zijn statutaire zetel, zijn hoofdbestuur of zijn hoofdvestiging niet in een staat heeft die partij is bij het Verdrag betreffende de werking van de Europese Unie of de Overeenkomst betreffende de Europese Economische Ruimte, organiseert de maritieme beveiligingswerkzaamheden geheel of gedeeltelijk vanuit een nevenvestiging in Nederland, die is ingeschreven in het handelsregister, bedoeld in [artikel 2 van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=2).
 
-#### Artikel 5.4. (continuïteit onderneming)
+##### Artikel 5.4. (continuïteit onderneming)
 
 1. De continuïteit van het maritiem beveiligingsbedrijf is redelijkerwijs gewaarborgd.
 
@@ -262,7 +288,7 @@ Het maritiem beveiligingsbedrijf beschikt te allen tijde over instructies aan he
 
 3. Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot het eerste en tweede lid.
 
-#### Artikel 5.5. (betrouwbaarheid onderneming)
+##### Artikel 5.5. (betrouwbaarheid onderneming)
 
 1. De betrouwbaarheid van het maritiem beveiligingsbedrijf staat buiten twijfel.
 
@@ -280,13 +306,13 @@ Het maritiem beveiligingsbedrijf beschikt te allen tijde over instructies aan he
 
 4. Bij regeling van Onze Minister kunnen nadere regels worden gesteld over het eerste en tweede lid.
 
-#### Artikel 5.6. (organisatie onderneming)
+##### Artikel 5.6. (organisatie onderneming)
 
 1. Het maritiem beveiligingsbedrijf richt zijn bedrijfsvoering zodanig in dat een verantwoorde, betrouwbare en controleerbare organisatie van de gewapende maritieme beveiligingswerkzaamheden, alsmede het toezicht op de naleving van de bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042278) gestelde regels en voorschriften en de handhaving daarvan, zijn gewaarborgd.
 
 2. Bij regeling van Onze Minister kunnen nadere regels worden gesteld over het eerste lid.
 
-#### Artikel 5.7. (intern toezicht)
+##### Artikel 5.7. (intern toezicht)
 
 1. Het maritiem beveiligingsbedrijf draagt zorg voor een stelsel van intern toezicht, uitgeoefend door een of meer functionarissen die beschikken over de nodige deskundigheid, kennis en bevoegdheden om hun werkzaamheden goed en volledig uit te voeren en zijn bestuur met raad terzijde staan.
 
@@ -300,7 +326,7 @@ Het maritiem beveiligingsbedrijf beschikt te allen tijde over instructies aan he
 
 4. Bij regeling van Onze Minister kunnen nadere regels worden gesteld over het eerste, tweede en derde lid.
 
-#### Artikel 5.8. (administratie- en bewaarplicht gegevens)
+##### Artikel 5.8. (administratie- en bewaarplicht gegevens)
 
 1. Het maritiem beveiligingsbedrijf beschikt te allen tijde over ten minste de volgende gegevens:
 
@@ -326,7 +352,7 @@ Het maritiem beveiligingsbedrijf beschikt te allen tijde over instructies aan he
 
 #### Paragraaf 5.2. Eisen inzake verrichten van maritieme beveiligingswerkzaamheden
 
-#### Artikel 5.9. (eisen beveiligingsteam)
+##### Artikel 5.9. (eisen beveiligingsteam)
 
 1. Het maritiem beveiligingsbedrijf draagt er zorg voor dat elk lid van het beveiligingsteam:
 
@@ -352,7 +378,7 @@ Het maritiem beveiligingsbedrijf beschikt te allen tijde over instructies aan he
 
 - d. de wijze waarop de teamleider de operationele leiding voert.
 
-#### Artikel 5.10. (veilige opslag vuurwapens en munitie)
+##### Artikel 5.10. (veilige opslag vuurwapens en munitie)
 
 1. Het maritiem beveiligingsbedrijf draagt zorg voor de veilige opslag van vuurwapens en bijbehorende munitie:
 
@@ -364,7 +390,7 @@ Het maritiem beveiligingsbedrijf beschikt te allen tijde over instructies aan he
 
 3. Bij regeling van Onze Minister kunnen nadere regels worden gesteld over de veilige opslag, het beheer en het vervoer van vuurwapens en munitie.
 
-#### Artikel 5.11. (gebruik opslagplaats)
+##### Artikel 5.11. (gebruik opslagplaats)
 
 1. Het maritiem beveiligingsbedrijf maakt uitsluitend gebruik van een opslagplaats waarmee contractuele afspraken zijn gemaakt die inhouden dat de opslagplaats zich periodiek laat controleren door de betreffende kuststaat, de door Onze Minister met toezicht belaste ambtenaren en zo nodig door een door Onze Minister aan te wijzen persoon van een derde partij die daartoe als ambtenaar wordt aangesteld.
 
@@ -372,11 +398,11 @@ Het maritiem beveiligingsbedrijf beschikt te allen tijde over instructies aan he
 
 3. Het maritiem beveiligingsbedrijf is verplicht medewerking te verlenen aan de controle, bedoeld in het eerste en tweede lid.
 
-#### Artikel 5.12. (handboeien)
+##### Artikel 5.12. (handboeien)
 
 Het maritiem beveiligingsbedrijf draagt zorg voor voldoende beschikbaarheid van deugdelijke handboeien bij de uitvoering van maritieme beveiligingswerkzaamheden.
 
-#### Artikel 5.13. (camera’s en microfoons)
+##### Artikel 5.13. (camera’s en microfoons)
 
 1. Het maritiem beveiligingsbedrijf draagt zorg voor voldoende beschikbaarheid van deugdelijke camera’s en microfoons bij de uitvoering van maritieme beveiligingswerkzaamheden.
 
@@ -388,7 +414,7 @@ Het maritiem beveiligingsbedrijf draagt zorg voor voldoende beschikbaarheid van 
 
 - c. de termijn voor het bewaren en vernietigen van de beeld- en geluidsopnamen.
 
-#### Artikel 5.14. (beleid en instructies beveiligingsteam)
+##### Artikel 5.14. (beleid en instructies beveiligingsteam)
 
 1. Het maritiem beveiligingsbedrijf ontwikkelt en onderhoudt zijn beleid met betrekking tot het verrichten van de gewapende maritieme beveiligingswerkzaamheden, en de daaruit voor beveiligingsteam voortvloeiende instructies.
 
@@ -396,7 +422,7 @@ Het maritiem beveiligingsbedrijf draagt zorg voor voldoende beschikbaarheid van 
 
 ### Hoofdstuk 6. Bescherming persoonsgegevens
 
-#### Artikel 6.1. (waarborgen)
+##### Artikel 6.1. (waarborgen)
 
 1. De persoonsgegevens, bedoeld in [artikel 14a, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=14a), worden vernietigd zodra zij niet langer noodzakelijk zijn voor de taakuitoefening van Onze Minister, en worden in ieder geval uiterlijk vijf jaar na de datum van eerste verwerking verwijderd uit de systemen. Indien de verwerking noodzakelijk is voor de instelling, uitoefening of onderbouwing van een rechtsvordering kunnen de persoonsgegevens langer dan vijf jaar worden bewaard.
 
@@ -404,17 +430,17 @@ Het maritiem beveiligingsbedrijf draagt zorg voor voldoende beschikbaarheid van 
 
 ### Hoofdstuk 7. Wijziging ander besluit
 
-#### Artikel 7.1. (wijziging [Besluit justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0016544))
+##### Artikel 7.1. (wijziging [Besluit justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0016544))
 
 Wijzigt het Besluit justitiële en strafvorderlijke gegevens.
 
 ### Hoofdstuk 8. Slotbepalingen
 
-#### Artikel 8.1. (inwerkingtreding)
+##### Artikel 8.1. (inwerkingtreding)
 
 De [Wet ter Bescherming Koopvaardij](https://wetten.overheid.nl/jci1.3:c:BWBR0042278) en dit besluit treden in werking met ingang van 1 februari 2022.
 
-#### Artikel 8.2. (citeertitel)
+##### Artikel 8.2. (citeertitel)
 
 Dit besluit wordt aangehaald als: Besluit bescherming koopvaardij.
 

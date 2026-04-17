@@ -1,13 +1,38 @@
 ---
 title: "Omzetbelasting, fiscaal vertegenwoordiging"
 identifier: "BWBR0047673"
-categorie: "Belastingrecht"
-publicatiedatum: 2023-01-01
-laatste_update: 2023-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047673"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2023-01-01"
+last_updated: "2023-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047673"
+soort: "beleidsregel"
+stam_id: "16606773"
+version_id: "29126482"
+internal_id: "C41394571"
+label_id: "16525834"
+dtd_version: "2.0"
+original_entry_into_force: "2023-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047673/2023-01-01/0"
+intitule_bron: "Stcrt.2022-32161"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-12-19"
+intitule_published: "2022-12-21"
+intitule_in_force: "2022-12-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-32161"
+original_signed_date: "2022-12-19"
+original_published_date: "2022-12-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-32161"
+entry_into_force_date: "2023-01-01"
+jci_1_3: "jci1.3:c:BWBR0047673&z=2023-01-01&g=2023-01-01"
+jci_1_0: "1.0:c:BWBR0047673&g=2023-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "2022-12-19"
+entry_into_force: "2023-01-01"
 ---
-
 # Omzetbelasting, fiscaal vertegenwoordiging
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

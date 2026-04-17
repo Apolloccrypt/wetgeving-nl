@@ -1,13 +1,35 @@
 ---
-title: "Wegenleggerbesluit"
+title: "Besluit van 5 april 1932, tot uitvoering van de artikelen 33, 36 en 41, tweede lid, van de Wegenwet"
 identifier: "BWBR0001953"
-categorie: "Overig"
-publicatiedatum: 2005-07-01
-laatste_update: 2005-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0001953"
+country: "nl"
+rank: "kb"
+publication_date: "2005-07-01"
+last_updated: "2005-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0001953"
+soort: "KB"
+stam_id: "1453003"
+version_id: "2177452"
+internal_id: "C2177451"
+label_id: "1411824"
+dtd_version: "2.0"
+original_entry_into_force: "1932-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0001953/2005-07-01/0"
+intitule_bron: "Stb.1932-138"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1932-04-05"
+intitule_status: "goed"
+original_publication: "Stb.1932-138"
+original_signed_date: "1932-04-05"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1932-10-01"
+jci_1_3: "jci1.3:c:BWBR0001953&z=2005-07-01&g=2005-07-01"
+jci_1_0: "1.0:c:BWBR0001953&g=2005-07-01"
+citeertitel_status: "officieel"
+short_title: "Wegenleggerbesluit"
+signed_date: "1932-04-05"
+entry_into_force: "1932-10-01"
 ---
-
 # Besluit van 5 april 1932, tot uitvoering van de artikelen 33, 36 en 41, tweede lid, van de Wegenwet
 
 Op de voordracht van Onzen Minister van Waterstaat van 10 Februari 1932, La. H, Afdeeling Waterstaatsrecht;
@@ -20,7 +42,7 @@ Gezien het nader rapport van Onzen Minister van Waterstaat van 1 April 1932, La.
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 Onverminderd het bepaalde in de volgende artikelen wordt ter uitvoering van [art. 33 van de Wegenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&artikel=33), vastgesteld het volgende:
 
@@ -85,7 +107,7 @@ ingevolge de [Wegenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001948) opgemaa
 
 (Onderteekeningen)
 
-#### Artikel 2
+##### Artikel 2
 
 1. Tot den legger behoort een overzichtskaart op geen kleinere schaal dan van 1 op 25 000, waarop de wegen met hun nommers zijn aangewezen. Voor zoover de bruggen in den legger onder een afzonderlijk nommer zijn genoemd, worden ook die bruggen met hare nommers op de kaart aangegeven. Voor de overzichtskaart wordt gebruikt eene van Rijkswege uitgegeven topografische kaart, voor zoover deze op de voorgeschreven schaal bestaat.
 
@@ -99,43 +121,43 @@ ingevolge de [Wegenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001948) opgemaa
 
 (Onderteekeningen)"
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 1. Indien wijziging van den legger, in de gevallen bedoeld in de [artikelen 39](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&artikel=39), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&artikel=40) en [41 van de Wegenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&artikel=41), noodig is, worden de voorgenomen wijzigingen opgenomen in een Wijzigingslegger, ingericht overeenkomstig het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001953&artikel=1&z=2005-07-01&g=2005-07-01) vastgestelde model, met inachtneming van de volgende wijzigingen:
 
@@ -171,7 +193,7 @@ voorgeschreven in art. 41, eerste lid, van de [Wegenwet](https://wetten.overheid
 
 5. De wijzigingen worden in de wijzigingslegger aangegeven door daarin te vermelden de volledige nieuwe toestand van het desbetreffende nommer, zoals die na de wijziging wordt, of indien het desbetreffende nommer in welonderscheiden delen is gesplitst, door daarin te vermelden de volledige nieuwe toestand van het desbetreffende deel van het betrokken nommer, zoals die na de wijziging wordt. Wanneer de wijziging de invoeging van een nieuw nommer betreft, moet dit duidelijk worden aangegeven.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Indien wijziging van de tot den legger behoorende overzichtskaart noodig is, wordt bij den wijzigingslegger gevoegd een kaart op dezelfde schaal als de bij den legger behoorende overzichtskaart, waarvoor eene van Rijkswege uitgegeven topografische kaart wordt gebruikt, voor zoover deze op de voorgeschreven schaal bestaat, waarop de wijziging duidelijk is aangegeven. Deze kaart wordt op de achterzijde gewaarmerkt:
 
@@ -191,7 +213,7 @@ of indien het ontwerp door Gedeputeerde Staten is opgemaakt:
 
 (Onderteekeningen)"
 
-#### Artikel 14
+##### Artikel 14
 
 Voor het aanbrengen van wijzigingen van de legger ingevolge [artikel 41, tweede lid, van de Wegenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&artikel=41), wordt er rekening mee gehouden, dat:
 
@@ -199,11 +221,11 @@ Voor het aanbrengen van wijzigingen van de legger ingevolge [artikel 41, tweede 
 
 - b. voor de ondertekende verklaringen en mededelingen door burgemeester en wethouders en gedeputeerde staten op de stukken te stellen, in de plaats komen die, bedoeld in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0001953&artikel=12&z=2005-07-01&g=2005-07-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0001953&artikel=13&z=2005-07-01&g=2005-07-01).
 
-#### Artikel 15
+##### Artikel 15
 
 Zoodra en voor zoover de in een wijzigingslegger opgenomen wijzigingen bij eindbeslissing zijn vastgesteld of gehandhaafd, teekenen Gedeputeerde Staten die wijzigingen aan in den legger met verwijzing naar den wijzigingslegger. Aan ieder van de twee exemplaren van den legger wordt een exemplaar van den wijzigingslegger, die dan deel uitmaakt van den legger, gehecht, alsmede afschrift of uittreksel van de wet, het besluit, de overeenkomst of het vonnis, welke tot wijziging aanleiding gaven.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Indien ingevolge [artikel 41, tweede lid, van de Wegenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&artikel=41) voor het door Burgemeester en Wethouders of door Gedeputeerde Staten op te maken ontwerp in de plaats treedt een verzoek van een of meer belanghebbenden tot wijziging van den legger, dan vinden de bepalingen van [artikelen 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001953&artikel=12&z=2005-07-01&g=2005-07-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0001953&artikel=14&z=2005-07-01&g=2005-07-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0001953&artikel=15&z=2005-07-01&g=2005-07-01) overeenkomstige toepassing, met dien verstande, dat, indien het verzoek niet in tweevoud is ingezonden, Gedeputeerde Staten een door hen gewaarmerkt afschrift of afdruk van het verzoek bijvoegen, terwijl zij op beide stukken op de eerste bladzijde aanteekenen: "..........ste (de) Wijzigingslegger". Overigens wordt bij de toepassing van evenbedoelde bepalingen het verzoek gelijkgesteld met een door Burgemeester en Wethouders opgemaakt ontwerp-wijzigingslegger.
 
@@ -215,11 +237,11 @@ Zoodra en voor zoover de in een wijzigingslegger opgenomen wijzigingen bij eindb
 
 (Onderteekeningen)"
 
-#### Artikel 17
+##### Artikel 17
 
 Dit besluit treedt in werking op een nader door Ons te bepalen tijdstip.
 
-#### Artikel 18
+##### Artikel 18
 
 Dit besluit kan worden aangehaald onder den titel "Wegenleggerbesluit".
 

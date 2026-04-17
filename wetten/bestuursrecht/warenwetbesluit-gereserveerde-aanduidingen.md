@@ -1,13 +1,39 @@
 ---
-title: "Warenwetbesluit Gereserveerde aanduidingen"
+title: "Besluit van 24 maart 1998, houdende het Warenwetbesluit Gereserveerde aanduidingen"
 identifier: "BWBR0009499"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009499"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009499"
+soort: "AMvB"
+stam_id: "780973"
+version_id: "29695682"
+internal_id: "C42547841"
+label_id: "756914"
+dtd_version: "2.0"
+original_entry_into_force: "2023-10-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009499/2024-01-01/0"
+intitule_bron: "Stb.1998-177"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-03-24"
+intitule_published: "1998-03-31"
+intitule_in_force: "1998-03-31"
+intitule_status: "goed"
+original_publication: "Stb.2023-378"
+original_signed_date: "2023-10-24"
+original_published_date: "2023-10-30"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2023-378"
+entry_into_force_date: "2023-10-24"
+jci_1_3: "jci1.3:c:BWBR0009499&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0009499&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Warenwetbesluit Gereserveerde aanduidingen"
+signed_date: "2023-10-24"
+entry_into_force: "2023-10-24"
 ---
-
 # Besluit van 24 maart 1998, houdende het Warenwetbesluit Gereserveerde aanduidingen
 
 Op de voordracht van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 23 september 1997, nr. GZB/VVB/975144, gedaan in overeenstemming met Onze Ministers van Economische Zaken en van Landbouw, Natuurbeheer en Visserij;
@@ -20,7 +46,7 @@ Gezien het nader rapport van de Staatssecretaris van Volksgezondheid, Welzijn en
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -40,25 +66,25 @@ In dit besluit wordt verstaan onder:
 
 - h. **zwak gedistilleerde drank:** alcoholhoudend product met minder dan 15% vol, met uitzondering van eierlikeur en advocaat, behorend tot GN-code 2208 van verordening (EEG) 2658/87, waarvoor in geval van gebruik of verbruik hier te lande alcoholaccijns verschuldigd is.
 
-#### Artikel 2
+##### Artikel 2
 
 Het is verboden met gebruikmaking van de bij dit besluit aangegeven aanduidingen andere waren te verhandelen dan die waaraan die aanduidingen bij dit besluit zijn voorbehouden.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De aanduiding **azijn**mag uitsluitend worden gebezigd voor een vloeibare waar die azijnzuur als kenmerkend bestanddeel bevat, met dien verstande dat het gehalte aan azijnzuur van de waar ten minste 4 gram per 100 ml bedraagt.
 
 2. De aanduiding natuurazijn mag uitsluitend worden gebezigd voor een vloeibare waar als bedoeld in het eerste lid die wordt verkregen door een alcoholische en een azijnzure fermentatie van eet- of drinkwaren van agrarische oorsprong.
 
-#### Artikel 4
+##### Artikel 4
 
 De aanduiding **mayonaise**mag uitsluitend worden gebezigd voor een eetwaar bestaande uit een emulsie van het type olie in water, die ten minste 70% vet en ten minste 5% eigeel bevat.
 
-#### Artikel 5
+##### Artikel 5
 
 De aanduiding **vruchtenwijn**mag uitsluitend worden gebezigd voor een gegiste drank die is bereid uit het sap van ander fruit dan druiven, met een alcoholgehalte van ten minste 8,5 volumeprocenten bij 20°C.
 
-#### Artikel 6
+##### Artikel 6
 
 De aanduiding roomijs mag uitsluitend worden gebezigd voor consumptie-ijs dat bestemd is om in bevroren toestand te worden genuttigd, en dat:
 
@@ -68,11 +94,11 @@ De aanduiding roomijs mag uitsluitend worden gebezigd voor consumptie-ijs dat be
 
 - −. geen ander eiwit bevat dan melkeiwitten.
 
-#### Artikel 7
+##### Artikel 7
 
 De aanduiding **mosterd**mag uitsluitend worden gebezigd voor een eetwaar die ten minste is samengesteld uit mosterdzaad of mosterdmeel, en azijn of een azijnzuurhoudende vloeistof, voor zover het gehalte aan droge stof ten minste 20%, en het gehalte aan mosterdolie ten minste 20% van de keukenzoutvrije droge stof bedraagt.
 
-#### Artikel 7a
+##### Artikel 7a
 
 De aanduiding **limonade** of **frisdrank** mag uitsluitend worden gebezigd voor een drinkwaar die geen alcohol bevat, tenzij dit door een natuurlijk gistingsproces onbedoeld en onvermijdelijk aanwezig is tot een gehalte van ten hoogste 5 gram ethylalcohol per liter, en die bestaat uit:
 
@@ -94,21 +120,21 @@ De aanduiding **limonade** of **frisdrank** mag uitsluitend worden gebezigd voor
 
 - –. additieven die voldoen aan de voorschriften gesteld bij of krachtens Verordening (EG) nr. 1333/2008 van het Europees Parlement en de Raad van 16 december 2008 inzake levensmiddelenadditieven (PbEU 2008, L 354).
 
-#### Artikel 8
+##### Artikel 8
 
 Als methoden van onderzoek welke bij uitsluiting beslissend zijn voor de vaststelling of al dan niet is voldaan aan de bij dit besluit gestelde regels, worden aangewezen chromatografische en andere scheidingsmethoden, organoleptische bepalingsmethoden en detectiemethoden, alsmede de daartoe door een andere lid-staat van de Europese Unie aangewezen methoden.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit treedt in werking met ingang van 1 april 1998, met uitzondering van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0009499&artikel=6&z=2024-01-01&g=2024-01-01) en [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009499&artikel=7&z=2024-01-01&g=2024-01-01), die in werking treden met ingang van 1 mei 1998.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit wordt aangehaald als: Warenwetbesluit Gereserveerde aanduidingen.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 7b
+##### Artikel 7b
 
 De aanduiding **bier** mag uitsluitend worden gebezigd voor een drinkwaar verkregen na alcoholische gisting van wort, hoofdzakelijk bereid uit zetmeel- en suikerhoudende grondstoffen, hop en brouwwater, met dien verstande dat ten minste 60% van het extractgehalte van de wort, voor vergisting, afkomstig is van geste- of tarwemout, en die bestaat uit:
 
@@ -132,27 +158,27 @@ waaraan mogen zijn toegevoegd:
 
 - –. additieven die voldoen aan de voorschriften gesteld bij of krachtens Verordening (EG) nr. 1333/2008 van het Europees Parlement en de Raad van 16 december 2008 inzake levensmiddelenadditieven (PbEU 2008, L 354).
 
-#### Artikel 7c
+##### Artikel 7c
 
 De aanduiding **alcoholvrij bier** mag uitsluitend worden gebezigd voor bier dat ten hoogste 0,1 volumeprocent alcohol bevat en een extractgehalte van de stamwort heeft van ten minste 4%.
 
-#### Artikel 7d
+##### Artikel 7d
 
 De aanduiding **alcoholarm bier** mag uitsluitend worden gebezigd voor bier dat meer dan 0,1 en ten hoogste 1,2 volumeprocent alcohol bevat en een extractgehalte van de stamwort heeft van ten minste 4%.
 
-#### Artikel 7e
+##### Artikel 7e
 
 De aanduiding **oud bruin** of iedere aanduiding waarvan de woorden **oud bruin** een grondbestanddeel vormen, mag uitsluitend worden gebezigd voor gezoete donkergekleurde bieren met een extractgehalte van de stamwort van 7 tot 11%.
 
-#### Artikel 7f
+##### Artikel 7f
 
 De aanduiding **pils** of iedere andere aanduiding waarvan het woord **pils** een grondbestanddeel vormt, mag uitsluitend worden gebezigd voor lichtgekleurde bieren met een extractgehalte van de stamwort van 11 tot 13,5%.
 
-#### Artikel 7g
+##### Artikel 7g
 
 De aanduiding **bok**, **bock** of iedere andere aanduiding waarvan **bok** of **bock** een grondbestanddeel vormt, mag uitsluitend worden gebezigd voor bieren met een extractgehalte van de stamwort boven de 15%.
 
-#### Artikel 7h
+##### Artikel 7h
 
 De aanduiding **korenwijn** mag uitsluitend worden gebezigd voor een gedistilleerde drank, die:
 
@@ -168,7 +194,7 @@ De aanduiding **korenwijn** mag uitsluitend worden gebezigd voor een gedistillee
 
 - f. een alcoholgehalte heeft van ten minste 38% vol.
 
-#### Artikel 7i
+##### Artikel 7i
 
 De aanduiding **advocaat** mag uitsluitend worden gebezigd voor een gedistilleerde drank die voldoet aan categorie 39 van bijlage I van [verordening (EU) 2019/787](32687R2019) en die:
 
@@ -180,7 +206,7 @@ De aanduiding **advocaat** mag uitsluitend worden gebezigd voor een gedistilleer
 
 - d. als kenmerkende bestanddelen ethylalcohol of brandewijn, en suiker bevat, en waaraan aroma's, kleurstoffen en verdikkingsmiddelen kunnen zijn toegevoegd.
 
-#### Artikel 7j
+##### Artikel 7j
 
 De aanduiding **vieux** mag uitsluitend worden gebezigd voor een gedistilleerde drank, die:
 
@@ -196,7 +222,7 @@ De aanduiding **vieux** mag uitsluitend worden gebezigd voor een gedistilleerde 
 
 - f. een alcoholgehalte heeft van ten minste 35% vol.
 
-#### Artikel 7k
+##### Artikel 7k
 
 De aanduiding **brandewijn** mag uitsluitend worden gebezigd voor een gedistilleerde drank, die:
 
@@ -210,7 +236,7 @@ De aanduiding **brandewijn** mag uitsluitend worden gebezigd voor een gedistille
 
 - e. een alcoholgehalte heeft van ten minste 35% vol.
 
-#### Artikel 7l
+##### Artikel 7l
 
 De aanduiding **vruchtenbrandewijn** mag uitsluitend worden gebezigd voor een gedistilleerde drank, die:
 
@@ -222,7 +248,7 @@ De aanduiding **vruchtenbrandewijn** mag uitsluitend worden gebezigd voor een ge
 
 - d. een alcoholgehalte heeft van ten minste 20% vol.
 
-#### Artikel 7m
+##### Artikel 7m
 
 De aanduiding **likorette** mag uitsluitend worden gebezigd voor een zwak gedistilleerde drank, die:
 
@@ -236,7 +262,7 @@ De aanduiding **likorette** mag uitsluitend worden gebezigd voor een zwak gedist
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 7n
+##### Artikel 7n
 
 De aanduiding **kaviaar** mag uitsluitend worden gebezigd voor kuit van steurachtige vissen (chondrostei).
 

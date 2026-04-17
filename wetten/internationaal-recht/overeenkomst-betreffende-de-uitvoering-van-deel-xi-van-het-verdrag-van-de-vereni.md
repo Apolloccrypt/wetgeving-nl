@@ -1,13 +1,38 @@
 ---
 title: "Overeenkomst betreffende de uitvoering van Deel XI van het Verdrag van de Verenigde Naties inzake het recht van de zee van 10 december 1982"
 identifier: "BWBV0001149"
-categorie: "Internationaal recht"
-publicatiedatum: 1996-07-28
-laatste_update: 1996-07-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001149"
+country: "nl"
+rank: "verdrag"
+publication_date: "1996-07-28"
+last_updated: "1996-07-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001149"
+soort: "verdrag"
+stam_id: "10001934373"
+version_id: "10002023212"
+internal_id: "C10006986621"
+label_id: "10001935244"
+dtd_version: "2.0"
+original_entry_into_force: "1996-07-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001149/1996-07-28/0"
+intitule_bron: "Trb.1994-233"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-11-16"
+intitule_published: "1994-11-16"
+intitule_in_force: "1996-10-09"
+intitule_status: "goed"
+original_publication: "Trb.1994-233"
+original_signed_date: "1994-11-16"
+original_published_date: "1994-11-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1994-233"
+entry_into_force_date: "1996-07-28"
+jci_1_3: "jci1.3:c:BWBV0001149&z=1996-07-28&g=1996-07-28"
+jci_1_0: "1.0:c:BWBV0001149&g=1996-07-28"
+citeertitel_status: "redactioneel"
+signed_date: "1994-11-16"
+entry_into_force: "1996-07-28"
 ---
-
 # Overeenkomst betreffende de uitvoering van Deel XI van het Verdrag van de Verenigde Naties inzake het recht van de zee van 10 december 1982
 
 De Staten die Partij zijn bij deze Overeenkomst,
@@ -28,23 +53,23 @@ Overwegend dat een overeenkomst betreffende de uitvoering van [Deel XI](https://
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Uitvoering van [Deel XI](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&deel=XI)
+##### Artikel 1. Uitvoering van [Deel XI](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&deel=XI)
 
 1. De Staten die Partij zijn bij deze Overeenkomst nemen de verplichting op zich [Deel XI](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&deel=XI) uit te voeren in overeenstemming met deze Overeenkomst.
 
 2. De Bijlage vormt een integrerend deel van deze Overeenkomst.
 
-#### Artikel 2. Verhouding tussen deze Overeenkomst en [Deel XI](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&deel=XI)
+##### Artikel 2. Verhouding tussen deze Overeenkomst en [Deel XI](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&deel=XI)
 
 1. De bepalingen van deze Overeenkomst en [Deel XI](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&deel=XI) worden te zamen uitgelegd en toegepast als één akte. In geval van verschillen tussen deze Overeenkomst en Deel XI zijn de bepalingen van deze Overeenkomst doorslaggevend.
 
 2. De [artikelen 309 tot en met 319 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=309) zijn op deze Overeenkomst van toepassing op dezelfde wijze als op het [Verdrag](onbekend).
 
-#### Artikel 3. Ondertekening
+##### Artikel 3. Ondertekening
 
 Deze Overeenkomst blijft 12 maanden na de datum van aanneming ervan open staan voor ondertekening op de zetel van de Verenigde Naties door de Staten en lichamen bedoeld in [artikel 305, eerste lid, letters a, c, d, e en f, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=305).
 
-#### Artikel 4. Instemming om te worden gebonden
+##### Artikel 4. Instemming om te worden gebonden
 
 1. Na de aanneming van deze Overeenkomst houdt een akte van bekrachtiging of formele bevestiging van of van toetreding tot het [Verdrag](onbekend) tevens in instemming om door deze Overeenkomst te worden gebonden.
 
@@ -64,19 +89,19 @@ Deze Overeenkomst blijft 12 maanden na de datum van aanneming ervan open staan v
 
 5. De akten van bekrachtiging, formele bevestiging of toetreding worden nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
 
-#### Artikel 5. Vereenvoudigde procedure
+##### Artikel 5. Vereenvoudigde procedure
 
 1. Een Staat die of een lichaam dat voor de datum van aanneming van deze Overeenkomst een akte van bekrachtiging of formele bevestiging van of van toetreding tot het Verdrag heeft nedergelegd en die c.q. dat deze Overeenkomst heeft ondertekend in overeenstemming met artikel 4, derde lid, letter c, wordt geacht blijk te hebben gegeven van zijn instemming om door deze Overeenkomst te worden gebonden 12 maanden na de datum van aanneming ervan, tenzij die Staat of dat lichaam de depositaris voor die datum schriftelijk mededeelt dat hij c.q. het geen gebruik wenst te maken van de in dit artikel neergelegde vereenvoudigde procedure.
 
 2. Ingeval een zodanige mededeling wordt gedaan, wordt van instemming om door deze Overeenkomst te worden gebonden blijk gegeven in overeenstemming met artikel 4, derde lid, letter b.
 
-#### Artikel 6. Inwerkingtreding
+##### Artikel 6. Inwerkingtreding
 
 1. Deze Overeenkomst treedt in werking 30 dagen na de datum waarop 40 Staten in overeenstemming met de artikelen 4 en 5 blijk hebben gegeven van hun instemming om te worden gebonden, mits daartoe ten minste zeven Staten behoren van de Staten bedoeld in Resolutie II, paragraaf 1, letter a, van de Derde Conferentie van de Verenigde Naties inzake het recht van de zee (hierna te noemen „resolutie II”) en mits ten minste vijf van die Staten ontwikkelde Staten zijn. Indien voor 16 november 1994 aan deze voorwaarden voor inwerkingtreding is voldaan, treedt deze Overeenkomst in werking op 16 november 1994.
 
 2. Voor elke Staat die of elk lichaam dat blijk geeft van zijn instemming om door deze Overeenkomst te worden gebonden nadat aan de in het eerste lid genoemde voorwaarden is voldaan, treedt deze Overeenkomst in werking op de dertigste dag na de datum waarop is blijk gegeven van instemming om te worden gebonden.
 
-#### Artikel 7. Voorlopige toepassing
+##### Artikel 7. Voorlopige toepassing
 
 1. Indien deze Overeenkomst op 16 november 1994 niet in werking is getreden, wordt zij in afwachting van haar inwerkingtreding voorlopig toegepast door:
 
@@ -92,39 +117,39 @@ Deze Overeenkomst blijft 12 maanden na de datum van aanneming ervan open staan v
 
 3. De voorlopige toepassing eindigt op de datum van inwerkingtreding van deze Overeenkomst. In elk geval eindigt de voorlopige toepassing op 16 november 1998 indien op die datum niet is voldaan aan de in artikel 6, eerste lid, genoemde voorwaarde dat ten minste zeven van de Staten (waarvan ten minste vijf ontwikkelde Staten moeten zijn) bedoeld in paragraaf 1, letter a, van resolutie II, ermede hebben ingestemd door deze Overeenkomst te worden gebonden.
 
-#### Artikel 8. Staten die Partij zijn
+##### Artikel 8. Staten die Partij zijn
 
 1. Voor de toepassing van deze Overeenkomst wordt onder „Staten die Partij zijn” verstaan Staten die ermede hebben ingestemd door deze Overeenkomst te worden gebonden en waarvoor deze Overeenkomst in werking is getreden.
 
 2. Deze Overeenkomst is van overeenkomstige toepassing op de lichamen bedoeld in [artikel 305, eerste lid, letters c, d, e en f, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=305), die Partij bij deze Overeenkomst worden in overeenstemming met de voor elk van hen geldende voorwaarden en in dier voege worden met „Staten die Partij zijn” die lichamen bedoeld.
 
-#### Artikel 9. Depositaris
+##### Artikel 9. Depositaris
 
 De Secretaris-Generaal van de Verenigde Naties is depositaris van deze Overeenkomst.
 
-#### Artikel 10. Authentieke teksten
+##### Artikel 10. Authentieke teksten
 
 Het origineel van deze Overeenkomst, waarvan de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse tekst gelijkelijk authentiek zijn, wordt nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
 
 ### Titel 1. Kosten voor de Staten die partij zijn en institutionele regelingen
 
-#### 1
+##### 1
 
 De Internationale Zeebodemautoriteit (hierna te noemen „de Autoriteit”) is de organisatie door middel waarvan de Staten die Partij zijn bij het [Verdrag](onbekend), in overeenstemming met de in [Deel XI](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&deel=XI) en in deze Overeenkomst vastgestelde regeling voor het gebied, de werkzaamheden in het Gebied organiseren en er toezicht op uitoefenen, vooral ten einde de rijkdommen van het Gebied te beheren. De bevoegdheden en functies van de Autoriteit zijn die welke uitdrukkelijk aan haar zijn toegekend door het Verdrag. De Autoriteit bezit de nadere bevoegdheden, verenigbaar met het Verdrag, die haar stilzwijgend zijn toegekend en noodzakelijk zijn voor de uitoefening van deze bevoegdheden en functies ten aanzien van werkzaamheden in het Gebied.
 
-#### 2
+##### 2
 
 Ten einde de kosten voor de Staten die Partij zijn tot een minimum te beperken, moeten alle ingevolge het [Verdrag](onbekend) en deze Overeenkomst in te stellen organen en ondergeschikte lichamen kostenbesparend te werk gaan. Dit beginsel geldt ook voor de frequentie, de duur en het rooster van vergaderingen.
 
-#### 3
+##### 3
 
 De instelling en de functionering van de organen en ondergeschikte lichamen van de Autoriteit dienen te zijn gebaseerd op een geleidelijke verwezenlijking, waarbij rekening wordt gehouden met de functionele behoeften van de betrokken organen en ondergeschikte lichamen opdat deze zich doeltreffend kunnen kwijten van hun onderscheiden verantwoordelijkheden in de diverse ontwikkelingsfasen van de werkzaamheden in het Gebied.
 
-#### 4
+##### 4
 
 De eerste functies van de Autoriteit bij de inwerkingtreding van het [Verdrag](onbekend) worden verricht door de Vergadering, de Raad, het Secretariaat, de Juridische en Technische Commissie en de Financiële Commissie. De functies van de Commissie voor Economische Planning worden verricht door de Juridische en Technische Commissie totdat de Raad anders besluit of tot de goedkeuring van het eerste werkplan voor exploitatie.
 
-#### 5
+##### 5
 
 In de tijd tussen de inwerkingtreding van het [Verdrag](onbekend) en de goedkeuring van het eerste werkplan voor exploitatie richt de Autoriteit zich op:
 
@@ -150,7 +175,7 @@ In de tijd tussen de inwerkingtreding van het [Verdrag](onbekend) en de goedkeur
 
 - k. Het tijdig opstellen van regels, voorschriften en procedures voor exploitatie, met inbegrip van regels, voorschriften en procedures betreffende de bescherming en het behoud van het mariene milieu.
 
-#### 6
+##### 6
 
 a). Een aanvraag om goedkeuring van een werkplan voor exploratie wordt door de Raad bestudeerd na ontvangst van een aanbeveling inzake de aanvraag van de Juridische en Technische Commissie. De behandeling van een aanvraag om goedkeuring van een werkplan voor exploratie geschiedt in overeenstemming met de bepalingen van het [Verdrag](onbekend), met inbegrip van zijn [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&bijlage=III), en deze Overeenkomst en met inachtneming van het onderstaande:
 
@@ -166,27 +191,27 @@ a). Een aanvraag om goedkeuring van een werkplan voor exploratie wordt door de R
 
 b). De goedkeuring van een werkplan voor exploratie geschiedt in overeenstemming met [artikel 153, derde lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=153).
 
-#### 7
+##### 7
 
 Een aanvraag om goedkeuring van een werkplan dient vergezeld te gaan van een evaluatie van de potentiële milieu-effecten van de voorgestelde werkzaamheden en van een beschrijving van een programma voor oceanografisch en ecologisch onderzoek in overeenstemming met de regels, voorschriften en procedures aangenomen door de Autoriteit.
 
-#### 8
+##### 8
 
 Onder voorbehoud van paragraaf 6, letter a, onder i of ii, wordt een aanvraag om goedkeuring van een werkplan voor exploratie behandeld in overeenstemming met de procedures neergelegd in titel 3, paragraaf 11, van deze Bijlage.
 
-#### 9
+##### 9
 
 Een werkplan voor exploratie wordt goedgekeurd voor een tijdvak van 15 jaar. Na het verstrijken van de termijn van een werkplan voor exploratie vraagt de contractant een werkplan voor exploitatie aan, tenzij de contractant dat reeds heeft gedaan of een verlenging van het werkplan voor exploratie heeft verkregen. Contractanten kunnen zulke verlengingen aanvragen voor tijdvakken van niet langer dan telkens vijf jaar. Deze verlengingen worden goedgekeurd indien de contractant te goeder trouw heeft gepoogd om te voldoen aan de vereisten van het werkplan, maar om redenen buiten zijn macht niet in staat is geweest het noodzakelijke voorbereidende werk voor de overgang naar de exploitatiefase te voltooien, of indien de heersende economische situatie het overgaan tot de exploitatiefase niet rechtvaardigt.
 
-#### 10
+##### 10
 
 Aanwijzing van een voor de Autoriteit gereserveerd gebied in overeenstemming met [Bijlage III, artikel 8, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=8), vindt plaats bij de goedkeuring van een aanvraag van een werkplan voor exploratie of goedkeuring van een aanvraag voor een werkplan voor exploratie en exploitatie.
 
-#### 11
+##### 11
 
 Niettegenstaande de bepalingen van paragraaf 9 eindigt een goedgekeurd werkplan voor exploratie waarvoor ten minste een Staat die deze Overeenkomst voorlopig toepast, borg staat, indien deze Staat ophoudt deze Overeenkomst voorlopig toe te passen en geen voorlopig lid is geworden in overeenstemming met paragraaf 12 of indien deze Staat geen Partij is geworden.
 
-#### 12
+##### 12
 
 Bij inwerkingtreding van deze Overeenkomst kunnen Staten en de in artikel 3 van deze Overeenkomst bedoelde lichamen die in overeenstemming met artikel 7 de Overeenkomst voorlopig hebben toegepast en waarvoor zij niet in werking is getreden, voorlopig lid van de Autoriteit blijven, in afwachting van de inwerkingtreding van de Overeenkomst voor deze Staten en lichamen, en wel in overeenstemming met de onderstaande bepalingen:
 
@@ -204,15 +229,15 @@ Bij inwerkingtreding van deze Overeenkomst kunnen Staten en de in artikel 3 van 
 
 - e. Indien dit lid heeft nagelaten zijn bijdragen te voldoen of anderszins in gebreke is gebleven zijn verplichtingen na te komen in overeenstemming met deze paragraaf, wordt zijn voorlopig lidmaatschap beëindigd.
 
-#### 13
+##### 13
 
 De verwijzing in [Bijlage III, artikel 10, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=10) naar een prestatie die niet bevredigend is geweest, wordt zo uitgelegd dat hieronder wordt verstaan dat de contractant niet heeft voldaan aan de vereisten van een goedgekeurd werkplan ondanks een schriftelijke aanmaning of aanmaningen van de Autoriteit aan de contractant dienaangaande.
 
-#### 14
+##### 14
 
 De Autoriteit heeft haar eigen begroting. Tot het einde van het jaar volgend op het jaar waarin deze Overeenkomst in werking treedt, worden de administratieve uitgaven van de Autoriteit gedekt uit de begroting van de Verenigde Naties. Daarna worden de administratieve uitgaven van de Autoriteit gedekt uit de bijdragen van haar leden, met inbegrip van voorlopige leden, in overeenstemming met [artikel 171, letter a](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=171), en [artikel 173 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=173) en deze Overeenkomst, totdat de Autoriteit voldoende middelen uit andere bronnen heeft om deze uitgaven te dekken. De Autoriteit mag de in [artikel 174, eerste lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=174) bedoelde bevoegdheid om leningen aan te gaan ter financiering van haar administratieve begroting niet uitoefenen.
 
-#### 15
+##### 15
 
 In overeenstemming met [artikel 162, tweede lid, letter o, onder ii, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=162) gaat de Autoriteit over tot uitwerking en aanneming van regels, voorschriften en procedures, die zijn gebaseerd op de beginselen neergelegd in de titels 2, 5, 6, 7 en 8 van deze Bijlage, alsook van bijkomende regels, voorschriften en procedures nodig ter vergemakkelijking van de goedkeuring van werkplannen voor exploratie of exploitatie, en wel in overeenstemming met de onderstaande bepalingen:
 
@@ -222,17 +247,17 @@ In overeenstemming met [artikel 162, tweede lid, letter o, onder ii, van het Ver
 
 - c. Indien de Raad de uitwerking van de regels, voorschriften en procedures betreffende exploitatie niet binnen de voorgeschreven termijn heeft voltooid en een aanvraag om goedkeuring van een werkplan voor exploitatie aanhangig is, dient de Raad niettemin dit werkplan te bestuderen en voorlopig goed te keuren op basis van de bepalingen van het [Verdrag](onbekend) en van voorlopig door de Raad aangenomen regels, voorschriften en procedures, dan wel op basis van de in het Verdrag neergelegde normen en de in deze Bijlage neergelegde voorwaarden en beginselen, alsmede het beginsel van non-discriminatie tussen contractanten.
 
-#### 16
+##### 16
 
 Bij de aanneming van regels, voorschriften en procedures in overeenstemming met [Deel XI](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&deel=XI) en deze Overeenkomst houdt de Autoriteit rekening met de ontwerp-regels, -voorschriften en -procedures en de aanbevelingen betreffende de bepalingen van Deel XI, als neergelegd in de rapporten en aanbevelingen van de Voorbereidende Commissie.
 
-#### 17
+##### 17
 
 De desbetreffende bepalingen van [Deel XI, afdeling 4, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&afdeling=4) worden uitgelegd en toegepast in overeenstemming met deze Overeenkomst.
 
 ### Titel 2. De onderneming
 
-#### 1
+##### 1
 
 Het Secretariaat van de Autoriteit verricht de taken van de Onderneming totdat deze onafhankelijk van het Secretariaat begint te functioneren. De Secretaris-Generaal van de Autoriteit benoemt uit het personeel van de Autoriteit een Directeur-Generaal ad interim die toeziet op het verrichten van deze taken door het Secretariaat.
 
@@ -254,89 +279,89 @@ Deze taken zijn:
 
 - h. Het bestuderen van mogelijke beleidslijnen met betrekking tot het beheer van de Onderneming in de verschillende fasen van haar werkzaamheden.
 
-#### 2
+##### 2
 
 De Onderneming verricht haar aanvankelijke werkzaamheden in de diepzeemijnbouw door middel van joint ventures. Na goedkeuring van een werkplan voor exploitatie voor een ander lichaam dan de Onderneming, of na ontvangst door de Raad van een aanvraag voor het opzetten van een joint venture met de Onderneming, bespreekt de Raad de kwestie van het functioneren van de Onderneming onafhankelijk van het Secretariaat van de Autoriteit. Indien joint ventures met de Onderneming in overeenstemming zijn met deugdelijke commerciële beginselen, vaardigt de Raad een richtlijn uit ingevolge [artikel 170, tweede lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=170) die dit onafhankelijk functioneren mogelijk maakt.
 
-#### 3
+##### 3
 
 De verplichting van Staten die Partij zijn om de financiële middelen te verstrekken voor een mijngebied van de Onderneming, zoals bepaald in [Bijlage IV, artikel 11, derde lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=11), is niet van toepassing en de Staten die Partij zijn, zijn niet verplicht tot financiering van werkzaamheden in een mijngebied van de Onderneming of ingevolge haar joint-venture-regelingen.
 
-#### 4
+##### 4
 
 De voor contractanten geldende verplichtingen zijn van toepassing op de Onderneming. Onverminderd de bepalingen van [artikel 153, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=153), en [Bijlage III, artikel 3, vijfde lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=3) wordt een werkplan voor de Onderneming na goedkeuring gegoten in de vorm van een contract dat wordt gesloten tussen de Autoriteit en de Onderneming.
 
-#### 5
+##### 5
 
 Een contractant die een bepaald gebied aan de Autoriteit heeft overgedragen als gereserveerd gebied, heeft een voorkeursrecht om een joint venture aan te gaan met de Onderneming voor de exploratie en exploitatie van dat gebied. Indien de Onderneming niet binnen 15 jaar na de aanvang van haar taken onafhankelijk van het Secretariaat van de Autoriteit of binnen 15 jaar na de datum waarop dat gebied voor de Autoriteit wordt gereserveerd, al naar gelang welk tijdstip het laatst valt, een aanvraag voor een werkplan voor werkzaamheden met betrekking tot zulk een gereserveerd gebied indient, is de contractant die het gebied heeft bijgedragen gerechtigd een werkplan voor dat gebied aan te vragen, mits hij te goeder trouw aanbiedt de Onderneming als partner in de joint venture op te nemen.
 
-#### 6
+##### 6
 
 [Artikel 170, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=170), [Bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&bijlage=IV) en andere bepalingen van het Verdrag betreffende de Onderneming worden uitgelegd en toegepast in overeenstemming met deze titel.
 
 ### Titel 3. Besluitvorming
 
-#### 1
+##### 1
 
 Het algemene beleid van de Autoriteit wordt bepaald door de Vergadering in samenwerking met de Raad.
 
-#### 2
+##### 2
 
 Als algemene regel geldt dat de organen van de Autoriteit door middel van consensus hun besluiten nemen.
 
-#### 3
+##### 3
 
 Indien alle middelen om bij consensus tot een besluit te komen zijn uitgeput, worden in de Vergadering in stemming gebrachte besluiten omtrent procedurele aangelegenheden genomen met een meerderheid van de aanwezige leden die hun stem uitbrengen, en worden besluiten omtrent inhoudelijke zaken genomen met een meerderheid van tweederde van de aanwezige leden die hun stem uitbrengen, zoals bepaald in [artikel 159, achtste lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=159).
 
-#### 4
+##### 4
 
 Besluiten van de Vergadering omtrent aangelegenheden waarvoor de Raad ook bevoegd is of omtrent administratieve, budgettaire of financiële aangelegenheden dienen te zijn gebaseerd op de aanbevelingen van de Raad. Indien de Vergadering de aanbeveling van de Raad betreffende een aangelegenheid niet aanvaardt, verwijst zij de aangelegenheid terug naar de Raad voor nadere overweging. De Raad beziet de aangelegenheid opnieuw in het licht van de door de Vergadering naar voren gebrachte opvattingen.
 
-#### 5
+##### 5
 
 Indien alle pogingen om een besluit bij consensus te nemen zijn mislukt, worden in de Raad in stemming gebrachte besluiten omtrent procedurele aangelegenheden genomen met een meerderheid van de aanwezige leden die hun stem uitbrengen, en worden besluiten omtrent inhoudelijke zaken, behalve wanneer het [Verdrag](onbekend) voorziet in besluiten bij consensus in de Raad, genomen met een meerderheid van tweederde van de aanwezige leden die hun stem uitbrengen, mits tegen deze besluiten geen bezwaar wordt gemaakt door een meerderheid in een van de kamers bedoeld in paragraaf 9. Bij het nemen van besluiten streeft de Raad ernaar de belangen van alle leden van de Autoriteit te bevorderen.
 
-#### 6
+##### 6
 
 De Raad kan het nemen van een besluit uitstellen ten einde verdere onderhandelingen te vergemakkelijken, wanneer blijkt dat nog niet alle pogingen om consensus omtrent een aangelegenheid te bereiken, zijn mislukt.
 
-#### 7
+##### 7
 
 Besluiten van de Vergadering of de Raad die financiële of budgettaire gevolgen hebben, dienen te zijn gebaseerd op de aanbevelingen van de Financiële Commissie.
 
-#### 8
+##### 8
 
 De bepalingen van [artikel 161, achtste lid, letters b en c, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=161) zijn niet van toepassing.
 
-#### 9
+##### 9
 
 a). Elke ingevolge paragraaf 15, letters a tot en met c, gekozen groep Staten wordt voor het stemmen in de Raad als kamer beschouwd. De ingevolge paragraaf 15, letters d en e, gekozen ontwikkelingsstaten worden voor het stemmen in de Raad als één kamer beschouwd.
 
 b). Alvorens de leden van de Raad te kiezen, stelt de Vergadering lijsten op van landen die voldoen aan de criteria voor lidmaatschap van groepen Staten in paragraaf 15, letters a tot en met d. Indien een Staat voldoet aan de criteria voor lidmaatschap van meer dan een groep, kan deze slechts door een groep voor verkiezing in de Raad worden voorgedragen en vertegenwoordigt die Staat slechts die groep bij het stemmen in de Raad.
 
-#### 10
+##### 10
 
 Elke groep Staten bedoeld in paragraaf 15, letters a tot en met d, wordt in de Raad vertegenwoordigd door de door die groep voorgedragen leden. Elke groep draagt slechts zoveel kandidaten voor als er zetels zijn die door die groep moeten worden bezet. Wanneer het aantal potentiële kandidaten in elk van de in paragraaf 15, letters a tot en met e, bedoelde groep groter is dan het voor elk van die groepen beschikbare aantal zetels, geldt in het algemeen het roulatiebeginsel. De Staten die lid zijn van deze groepen bepalen hoe dit beginsel in die groepen wordt toegepast.
 
-#### 11
+##### 11
 
 a). De Raad keurt een aanbeveling van de Juridische en Technische Commissie tot goedkeuring van een werkplan goed, tenzij hij, met een meerderheid van tweederde van zijn aanwezige leden die hun stem uitbrengen, met inbegrip van een meerderheid van de aanwezige leden die hun stem uitbrengen in elk van de kamers van de Raad, besluit een werkplan af te keuren. Indien de Raad niet binnen een voorgeschreven termijn een besluit omtrent een aanbeveling tot goedkeuring van een werkplan neemt, wordt de aanbeveling geacht door de Raad te zijn goedgekeurd aan het einde van die termijn. De voorgeschreven termijn is gewoonlijk 60 dagen, tenzij de Raad een langere termijn bepaalt. Indien de Commissie de afkeuring van een werkplan aanbeveelt, of geen aanbeveling doet, kan de Raad het werkplan niettemin goedkeuren in overeenstemming met zijn reglement van orde betreffende de besluitvorming omtrent inhoudelijke zaken.
 
 b). De bepalingen van [artikel 162, tweede lid, letter j, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=162) zijn niet van toepassing.
 
-#### 12
+##### 12
 
 Wanneer er een geschil rijst met betrekking tot de afkeuring van een werkplan, wordt dit geregeld volgens de in het [Verdrag](onbekend) neergelegde procedures voor de regeling van geschillen.
 
-#### 13
+##### 13
 
 Besluiten die in de Juridische en Technische Commissie in stemming worden gebracht, worden genomen met een meerderheid van de aanwezige leden die hun stem uitbrengen.
 
-#### 14
+##### 14
 
 [Deel XI, afdeling 4, onderafdelingen B en C van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&afdeling=4) worden uitgelegd en toegepast in overeenstemming met deze titel.
 
-#### 15
+##### 15
 
 De Raad bestaat uit 36 leden van de Autoriteit, die door de Vergadering worden gekozen in de onderstaande volgorde:
 
@@ -350,7 +375,7 @@ De Raad bestaat uit 36 leden van de Autoriteit, die door de Vergadering worden g
 
 - e. Achttien leden, gekozen volgens het beginsel dat een billijke geografische verdeling van zetels in de Raad als geheel moet worden verzekerd, met dien verstande dat per geografische regio ten minste een lid wordt gekozen op grond van deze letter. Voor de toepassing van deze bepaling zijn de geografische regio's: Afrika, Azië, Oost-Europa, Latijns-Amerika en het Caribisch gebied, alsmede West-Europa en andere Staten.
 
-#### 16
+##### 16
 
 De bepalingen van [artikel 161, eerste lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=161) zijn niet van toepassing.
 
@@ -358,7 +383,7 @@ De bepalingen van [artikel 161, eerste lid, van het Verdrag](https://wetten.over
 
 ### Titel 5. Overdracht van technologie
 
-#### 1
+##### 1
 
 Voor de toepassing van [Deel XI](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&deel=XI) gelden voor de overdracht van technologie, naast de bepalingen van [artikel 144 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=144), de onderstaande beginselen:
 
@@ -368,13 +393,13 @@ Voor de toepassing van [Deel XI](https://wetten.overheid.nl/jci1.3:c:BWBV0003172
 
 - c. Als algemene regel bevorderen de Staten die Partij zijn de internationale technische en wetenschappelijke samenwerking met betrekking tot werkzaamheden in het Gebied, hetzij tussen de betrokken partijen hetzij door het opzetten van programma's voor opleiding, technische bijstand en wetenschappelijke samenwerking op het gebied van de mariene wetenschappen en technologie en de bescherming en het behoud van het mariene milieu.
 
-#### 2
+##### 2
 
 De bepalingen van [Bijlage III, artikel 5, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=5) zijn niet van toepassing.
 
 ### Titel 6. Produktiebeleid
 
-#### 1
+##### 1
 
 Het produktiebeleid van de Autoriteit is gebaseerd op de volgende beginselen:
 
@@ -400,33 +425,33 @@ Het produktiebeleid van de Autoriteit is gebaseerd op de volgende beginselen:
 
 - g. In omstandigheden waarin ingevolge de in letter b bedoelde verdragen wordt vastgesteld dat een Staat die Partij is zich heeft beziggehouden met subsidiëring die is verboden of heeft geleid tot nadelige gevolgen voor de belangen van een andere Staat die Partij is, en door de desbetreffende Staat die Partij is of Staten die Partij zijn geen passende stappen zijn ondernomen, kan een Staat die Partij is de Raad verzoeken passende maatregelen te nemen.
 
-#### 2
+##### 2
 
 De beginselen vervat in het eerste lid zijn niet van invloed op de rechten en verplichtingen krachtens een bepaling van de in het eerste lid, letter b, bedoelde verdragen, alsmede de desbetreffende vrijhandels- en douane-unie-verdragen, in de betrekkingen tussen Staten die Partij zijn, die partij bij zulke verdragen zijn.
 
-#### 3
+##### 3
 
 De aanvaarding door een contractant van andere subsidies dan die welke zijn toegestaan ingevolge de in het eerste lid, letter b, bedoelde verdragen, vormt een schending van de fundamentele voorwaarden van het contract dat een werkplan vormt voor het verrichten van werkzaamheden in het Gebied.
 
-#### 4
+##### 4
 
 Een Staat die Partij is die redenen heeft om aan te nemen dat er sprake is van schending van de in het eerste lid, letters b tot en met d, of het derde lid, genoemde voorwaarden, kan de procedures voor de regeling van geschillen beginnen in overeenstemming met het eerste lid, letter f of g.
 
-#### 5
+##### 5
 
 Een Staat die Partij is kan te allen tijde de aandacht van de Raad vestigen op activiteiten die naar zijn mening strijdig zijn met de vereisten van het eerste lid, letters b tot en met d.
 
-#### 6
+##### 6
 
 De Autoriteit stelt regels, voorschriften en procedures op die de toepassing van de bepalingen van deze titel waarborgen, met inbegrip van de desbetreffende regels, voorschriften en procedures voor de goedkeuring van werkplannen.
 
-#### 7
+##### 7
 
 De bepalingen van [artikel 151, eerste tot en met zevende lid en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=151), [artikel 162, tweede lid, letter q](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=162), [artikel 165, tweede lid, letter n](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=165), en [Bijlage III, artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=6), en [artikel 7, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=7) zijn niet van toepassing.
 
 ### Titel 7. Economische steun
 
-#### 1
+##### 1
 
 Het beleid van de Autoriteit om steun te verlenen aan ontwikkelingslanden die ernstige nadelige gevolgen voor hun inkomsten uit export of hun economie ondervinden door een verlaging van de prijs van een getroffen delfstof of vermindering van de omvang van de export van die delfstof, voor zover deze verlaging of vermindering wordt veroorzaakt door werkzaamheden in het Gebied, is gebaseerd op de volgende beginselen:
 
@@ -438,13 +463,13 @@ Het beleid van de Autoriteit om steun te verlenen aan ontwikkelingslanden die er
 
 - d. De omvang en looptijd van deze steun worden van geval tot geval bepaald. Hierbij wordt de nodige aandacht geschonken aan de aard en de omvang van de problemen die getroffen op het land producerende ontwikkelingsstaten ondervinden.
 
-#### 2
+##### 2
 
 [Artikel 151, tiende lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=151) wordt toegepast door middel van de maatregelen voor economische steun bedoeld in het eerste lid. [Artikel 160, tweede lid, letter l](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=160), [artikel 162, tweede lid, letter n](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=162), [artikel 164, tweede lid, letter d](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=164), [artikel 171, letter f](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=171), en [artikel 173, tweede lid, letter c](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=173), worden dienovereenkomstig uitgelegd.
 
 ### Titel 8. Financiële voorwaarden van contracten
 
-#### 1
+##### 1
 
 De volgende beginselen liggen ten grondslag aan het opstellen van regels, voorschriften en procedures voor de financiële voorwaarden van contracten:
 
@@ -460,41 +485,41 @@ De volgende beginselen liggen ten grondslag aan het opstellen van regels, voorsc
 
 - f. Geschillen betreffende de uitlegging of toepassing van de op deze beginselen gebaseerde regels en voorschriften zijn onderworpen aan de procedures voor de regeling van geschillen neergelegd in het [Verdrag](onbekend).
 
-#### 2
+##### 2
 
 De bepalingen van [Bijlage III, artikel 13, derde tot en met tiende lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=13) zijn niet van toepassing.
 
-#### 3
+##### 3
 
 Wat betreft de toepassing van [Bijlage III, artikel 13, tweede lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=13), is de heffing voor behandeling van een aanvrage om goedkeuring van een werkplan beperkt tot een fase, de exploratiefase dan wel de exploitatiefase; zij bedraagt US$250.000.
 
 ### Titel 9. De Financiële Commissie
 
-#### 1
+##### 1
 
 Hierbij wordt een Financiële Commissie ingesteld. De Commissie bestaat uit 15 leden met de vereiste bekwaamheden op financieel gebied. De Staten die Partij zijn, dragen kandidaten voor die voldoen aan de hoogste normen van bekwaamheid en integriteit.
 
-#### 2
+##### 2
 
 In de Financiële Commissie kan niet meer dan een onderdaan van dezelfde Staat die Partij is zitting hebben.
 
-#### 3
+##### 3
 
 De Leden van de Financiële Commissie worden gekozen door de Vergadering en hierbij wordt naar behoren rekening gehouden met de noodzaak van een billijke geografische verdeling en de vertegenwoordiging van bijzondere belangen. Elke groep Staten bedoeld in titel 3, paragraaf 15, letters a, b, c en d, van deze Bijlage wordt door ten minste een lid in de Commissie vertegenwoordigd. Totdat de Autoriteit beschikt over voldoende middelen, naast de opgelegde bijdragen, om haar administratieve uitgaven te dekken, omvat het lidmaatschap van de Commissie vertegenwoordigers van de vijf contribuanten die de grootste financiële bijdrage leveren aan de administratieve begroting van de Autoriteit. Daarna geschiedt de verkiezing van een lid uit elke groep op basis van een voordracht door de leden van die groep, onverminderd de mogelijkheid dat uit elke groep meer leden worden gekozen.
 
-#### 4
+##### 4
 
 De leden van de Financiële Commissie hebben zitting voor een termijn van vijf jaar. Zij kunnen worden herkozen voor een volgende termijn.
 
-#### 5
+##### 5
 
 In geval van overlijden, verlies van bevoegdheid of terugtrekking van een lid van de Financiële Commissie voor het verstrijken van de ambtstermijn, kiest de Vergadering voor het resterende deel van de termijn een lid uit dezelfde geografische regio of groep Staten.
 
-#### 6
+##### 6
 
 De leden van de Financiële Commissie mogen geen financieel belang hebben bij werkzaamheden op enigerlei wijze samenhangend met aangelegenheden ten aanzien waarvan de Commissie aanbevelingen moet doen. Zij mogen vertrouwelijke informatie waarvan zij kennis dragen op grond van hun taken voor de Autoriteit, niet openbaar maken, zelfs niet na beëindiging van hun functie.
 
-#### 7
+##### 7
 
 Bij besluiten van de Vergadering en de Raad omtrent de onderstaande kwesties moet rekening worden gehouden met de aanbevelingen van de Financiële Commissie:
 
@@ -510,11 +535,11 @@ Bij besluiten van de Vergadering en de Raad omtrent de onderstaande kwesties moe
 
 - f. Regels, voorschriften en procedures inzake de billijke verdeling van financiële en andere economische voordelen voortvloeiend uit werkzaamheden in het Gebied en de ter zake te nemen besluiten.
 
-#### 8
+##### 8
 
 Besluiten in de Financiële Commissie omtrent procedurele aangelegenheden worden genomen met een meerderheid van de aanwezige leden die hun stem uitbrengen. Besluiten omtrent inhoudelijke zaken worden genomen bij consensus.
 
-#### 9
+##### 9
 
 Aan het vereiste van [artikel 162, tweede lid, letter y, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=162) dat een onderschikt orgaan moet worden ingesteld om financiële aangelegenheden te behandelen, wordt geacht te zijn voldaan door de instelling van de Financiële Commissie in overeenstemming met deze titel.
 

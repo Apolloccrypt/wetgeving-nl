@@ -1,13 +1,37 @@
 ---
 title: "Handels- en scheepvaartverdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Zuidslavië"
 identifier: "BWBV0005996"
-categorie: "Verkeer"
-publicatiedatum: 1932-04-17
-laatste_update: 1932-04-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005996"
+country: "nl"
+rank: "verdrag"
+publication_date: "1932-04-17"
+last_updated: "1932-04-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005996"
+soort: "verdrag"
+stam_id: "10004976153"
+version_id: "10005294142"
+internal_id: "C10008144231"
+label_id: "10004959724"
+dtd_version: "2.0"
+original_entry_into_force: "1932-04-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005996/1932-04-17/0"
+intitule_bron: "Stb.1932-163"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1932-04-12"
+intitule_published: "1932-04-29"
+intitule_in_force: "1932-04-29"
+intitule_status: "goed"
+original_publication: "Stb.1932-163"
+original_signed_date: "1932-04-12"
+original_published_date: "1932-04-29"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1932-04-17"
+jci_1_3: "jci1.3:c:BWBV0005996&z=1932-04-17&g=1932-04-17"
+jci_1_0: "1.0:c:BWBV0005996&g=1932-04-17"
+citeertitel_status: "redactioneel"
+signed_date: "1932-04-12"
+entry_into_force: "1932-04-17"
 ---
-
 # Handels- en scheepvaartverdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Zuidslavië
 
 Hare Majesteit de Koningin der Nederlanden eenerzijds en Zijne Majesteit de Koning van Zuidslavië anderzijds, bezield met den wensch de handelsbetrekkingen te begunstigen en verder te ontwikkelen en de vriendschapsbanden, die beide landen vereenigen, nauwer aan te halen, hebben besloten een nieuw handels- en scheepvaartverdrag in de plaats te stellen van dat, hetwelk den 17den October 1881 tusschen Nederland en Servië is gesloten, en hebben te dien einde tot Hunne gevolmachtigden benoemd:
@@ -24,27 +48,27 @@ den heer YOURRAÏ DÉMÉTROVITCH, HoogstDeszelfs Minister van Handel en Nijverhe
 
 die, na elkander mededeeling te hebben gedaan van hunne volmachten, welke in goeden en behoorlijken vorm werden bevonden, omtrent het volgende zijn overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 1. De onderdanen van elk der beide Hooge Verdragsluitende Partijen zullen op het gebied van de andere voor al hetgeen betreft de vestiging en de uitoefening van den handel, de nijverheid en de scheepvaart op even gunstige wijze behandeld worden als de onderdanen van de meestbegunstigde natie.
 
 2. Eveneens zullen zij op denzelfden voet als de onderdanen van de meestbegunstigde natie het recht hebben roerende en onroerende goederen te verkrijgen, te bezitten en te vervreemden.
 
-#### Artikel 2
+##### Artikel 2
 
 Zij zullen recht hebben op de bescherming van hun persoon, van hun rechten en van hun belangen gelijk de eigen onderdanen of de onderdanen van de meestbegunstigde natie.
 
-#### Artikel 3
+##### Artikel 3
 
 De naamlooze en andere vennootschappen op het gebied van handel, nijverheid of financiën, met inbegrip van de scheepvaartmaatschappijen, die haar zetel hebben op het gebied van eene der Hooge Verdragsluitende Partijen, en die aldaar op rechtsgeldige wijze zijn opgericht, zullen in het gebied van de andere worden erkend en aldaar, eenmaal op rechtsgeldige wijze gevestigd, in elk opzicht de behandeling van de meestbegunstigde natie genieten.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De voortbrengselen van den bodem en van de nijverheid, herkomstig of komende uit een van beide landen, zullen bij hun invoer in het gebied van de andere aan geen andere of hoogere rechten of belastingen, alle coëfficiënten, surtaxen en toeslagen daaronder begrepen, worden onderworpen, dan die, welke worden of zullen worden geheven van de voortbrengselen van dezelfde soort van de meestbegunstigde natie.
 
 2. De verzekerde behandeling van de meestbegunstigde natie strekt zich eveneens uit tot de wijze van heffing van de in- en uitvoerrechten, tot den opslag van de goederen in de entrepôts, tot de douaneheffingen en -formaliteiten, tot de wijze van verificatie en onderzoek van de artikelen, tot de betalingsvoorwaarden bij de douanerechten en de belastingen, tot de classificatie en de uitlegging van de tarieven, tot de behandeling en de in- en uitklaring door de douane van de goederen, welke worden ingevoerd, uitgevoerd of doorgevoerd.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De Hooge Verdragsluitende Partijen verbinden zich hare wederzijdsche handelsbetrekkingen door geen in- noch uitvoerverboden of beperkingen te zullen belemmeren.
 
@@ -66,13 +90,13 @@ De naamlooze en andere vennootschappen op het gebied van handel, nijverheid of f
 
 3. Niets in dit artikel zal inbreuk maken op het recht van de Hooge Verdragsluitende Partijen om maatregelen tot verbod of beperking van in- of uitvoer te nemen, ten einde in buitengewone en abnormale omstandigheden de levensbelangen van het land te beschermen. De Hooge Verdragsluitende Partijen waarborgen elkander evenwel wederzijds de behandeling van de meestbegunstigde natie inzake de bovenvermelde materies en verbinden zich wederkeerig geen in-, uit-, of doorvoerverboden of -beperkingen in te stellen, die niet op alle andere landen, zonder eenig onderscheid, van toepassing zouden zijn.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De behandeling van de meestbegunstigde natie zal eveneens worden toegepast ten aanzien van goederen, die worden uitgevoerd uit of in doorvoer verzonden door een van beide landen. Het in het voorgaande artikel bepaalde regiem zal eveneens van toepassing zijn op de hierboven bedoelde goederen.
 
 2. De Hooge Verdragsluitende Partijen verbinden zich, elkander wederkeerig de vrijheid van doorvoer door hun gebied te verleenen, hetzij voor koopwaren, die in rechtstreekschen doorvoer zijn, hetzij voor goederen, die tijdens den doorvoer moeten worden overgeladen of opgeslagen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De zakenlieden van een der Hooge Verdragsluitende Partijen alsmede hun handelsreizigers, welke voorzien zijn van een legitimatiebewijs, afgegeven door de bevoegde autoriteiten van hun land in overeenstemming met het model, zooals dit is vastgesteld door het op 3 November 1923 te Genève gesloten internationale verdrag betreffende de vereenvoudiging van de douaneformaliteiten, zullen op het gebied van de andere Partij even gunstig behandeld worden als de eigen handelsreizigers of die van de meestbegunstigde natie voor al hetgeen betreft het plaatsen van hun artikelen.
 
@@ -84,17 +108,17 @@ De naamlooze en andere vennootschappen op het gebied van handel, nijverheid of f
 
 5. Het genot van dezen vrijdom kan worden ontnomen aan die handelsreizigers en handelshuizen, welke zich niet overeenkomstig de vastgestelde bepalingen gedragen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De in artikel 1 vermelde personen zullen voor de uitoefening van hunne werkzaamheden op het gebied van de andere Hooge Verdragsluitende Partij geen andere of hoogere belasting, heffing of rechten betalen dan die, welke van de eigen onderdanen of van die van de meestbegunstigde natie zullen worden geheven.
 
 2. De behandeling van de meestbegunstigde natie zal eveneens worden toegepast ten aanzien van de in artikel 3 vermelde vennootschappen, voor zooveel het de in de voorgaande alinea bedoelde materie betreft.
 
-#### Artikel 9
+##### Artikel 9
 
 De binnenlandsche rechten, met inbegrip van de omzetbelasting, welke ook hun benaming zij, die op het gebied van een der Hooge Verdragsluitende Partijen, hetzij voor rekening van den Staat, hetzij voor rekening van gemeenten of corporaties, worden of zullen worden geheven van de voortbrenging, de bereiding, het in omloop brengen, het vervoer of het verbruik van voortbrengselen, zullen onder geen beding de voortbrengselen van de andere Hooge Verdragsluitende Partij zwaarder of op meer hinderlijke wijze treffen dan de gelijksoortige nationale voortbrengselen of die van de meestbegunstigde natie.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Elk der Hooge Verdragsluitende Partijen zal de scheepvaart van de Andere in elk opzicht even gunstig behandelen als de nationale scheepvaart.
 
@@ -102,7 +126,7 @@ De binnenlandsche rechten, met inbegrip van de omzetbelasting, welke ook hun ben
 
 3. De bepalingen van dit artikel zijn slechts van toepassing op de zeescheepvaart.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Ingeval een schip van een der Hooge Verdragsluitende Partijen is gestrand of heeft schipbreuk geleden op de kust of in de wateren van de andere Partij, zal, in dezelfde mate als aan de nationale schepen, hulp en bijstand worden verleend aan den kapitein, de bemanning en de passagiers, zoowel ten behoeve van henzelf en van hun goed, als ten behoeve van het schip en van de lading.
 
@@ -114,23 +138,23 @@ De binnenlandsche rechten, met inbegrip van de omzetbelasting, welke ook hun ben
 
 5. De van een schip, dat gestrand is of schipbreuk heeft geleden, geborgen waren, zullen aan geen douanerecht onderhevig zijn tenzij zij ten gebruike in het binnenland worden toegelaten
 
-#### Artikel 12
+##### Artikel 12
 
 De Hooge Verdragsluitende Partijen komen overeen, dat voor al hetgeen betreft de consulaire vertegenwoordiging elk voorrecht, elke gunst of vrijdom, welke een van Haar ter zake reeds heeft verleend of in de toekomst mocht verleenen aan een derden staat, onmiddellijk tot de andere Hooge Verdragsluitende Partij zal worden uitgestrekt, onder voorwaarde van wederkeerigheid.
 
-#### Artikel 13
+##### Artikel 13
 
 Het is wel verstaan, dat de clausule van de meestbegunstigde natie niet van toepassing is op de concessies, die een der Hooge Verdragsluitende Partijen verleent of zal verleenen aan grensstaten ter vergemakkelijking van het grensverkeer in een strook gronds, welke de 15 kilometer aan beide zijden van den grens niet overschrijdt of aan een staat met wien Zij een tolverbond heeft gesloten of zal sluiten.
 
-#### Artikel 14
+##### Artikel 14
 
 De bepalingen van dit verdrag zijn eveneens van toepassing op Nederlandsch-Indië, Suriname en Curaçao met uitzondering van artikel 12 betreffende de toelating en de bevoegdheden van de consulaire ambtenaren van Zuidslavië in Nederlandsch-Indië, Suriname en Curaçao, welke materie van een bijzonder consulair verdrag afhankelijk is.
 
-#### Artikel 15
+##### Artikel 15
 
 Elk geschil over de uitlegging, de toepassing of de uitvoering van dit verdrag, dat tusschen de Hooge Verdragsluitende Partijen niet langs diplomatieken weg is kunnen worden opgelost, zal aan het Permanente Hof van Internationale Justitie worden onderworpen op verzoek van beide Hooge Verdragsluitende Partijen of van een Harer.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Dit verdrag zal worden bekrachtigd en de bekrachtigingsoorkonden zullen zoodra doenlijk te 's-Gravenhage worden uitgewisseld. Het zal in werking treden vijftien dagen na de uitwisseling der ratificatie-oorkonden, met dien verstande, dat het ten aanzien van Nederlandsch-Indië, Suriname en Curaçao drie maanden na de genoemde uitwisseling in werking zal treden.
 
@@ -140,27 +164,27 @@ Elk geschil over de uitlegging, de toepassing of de uitvoering van dit verdrag, 
 
 Op het oogenblik, dat tot de onderteekening van dit verdrag van handel en scheepvaart tusschen het Koninkrijk der Nederlanden en het Koninkrijk van Zuidslavië wordt overgegaan, zijn de ondergeteekende Gevolmachtigden omtrent de navolgende bepalingen, welke een integreerend bestanddeel van dit verdrag zullen uitmaken, overeengekomen:
 
-#### Ad artikel 2, 7, 8 en 9
+##### Ad artikel 2, 7, 8 en 9
 
 1. Het is wel verstaan, dat overal, waar in dit verdrag wordt bepaald, dat een der Hooge Verdragsluitende Partijen aan de Andere dezelfde behandeling zal verleenen als aan de eigen onderdanen of aan de onderdanen van de meestbegunstigde natie, de gunstigste behandeling zal worden verleend.
 
 2. Dit regiem zal van toepassing zijn op de binnenlandsche rechten, welke van de voortbrengselen van een der Hooge Verdragsluitende Partijen op het gebied van de Andere worden geheven (art. 9), met dien verstande evenwel, dat Nederland zal kunnen handhaven het verschil tusschen de ingevoerde en binnenlandsche voortbrengselen voor zooveel betreft den accijns op wijnen, bereid van versche vruchten, andere dan druiven, al dan niet gegist, den accijns op alcoholhoudende vloeistoffen, den accijns op melasse en op andere vloeistoffen, welke suiker bevatten, en de waarborgbelasting op gouden en zilveren werken, zonder de op het oogenblik van de onderteekening van dit verdrag bestaande verschillen te kunnen vergrooten en zonder onderscheid te maken tusschen de voortbrengselen van Zuidslavië en die van de meestbegunstigde natie.
 
-#### Ad artikel 5
+##### Ad artikel 5
 
 In het geval dat, ten gevolge van verboden, door een der Hooge Verdragsluitende Partijen krachtens alinea 3 van artikel 5 uitgevaardigd, de andere Partij van oordeel zou zijn, dat haar handel ernstig nadeel lijdt en dat het evenwicht van dit verdrag daardoor verbroken is, zal Zij de onmiddellijke opening van onderhandelingen kunnen eischen en, indien deze onderhandelingen niet binnen den tijd van een maand tot een goed einde zijn gevoerd, dit verdrag kunnen opzeggen, waarna het een maand later zal ophouden van kracht te zijn.
 
-#### Ad artikel 5 en 6
+##### Ad artikel 5 en 6
 
 1. Het is wel verstaan, dat de uitzonderingen op den regel van artikel 5, alinea 2, niet op zoodanige wijze mogen worden toegepast, dat zij eene verkapte beperking van het internationale ruilverkeer zouden opleveren.
 
 2. Zoolang als het internationaal verdrag betreffende de afschaffing van de in- en uitvoerverboden en beperkingen, gesloten te Genève den 8sten November 1927, niet is aanvaard voor Nederlandsch-Indië, Suriname en Curaçao, zullen de bepalingen van artikel 5 en van artikel 6, voorzoover die betrekking hebben op deze materie, niet van toepassing zijn op Nederlandsch-Indië, Suriname en Curaçao.
 
-#### Ad artikel 7
+##### Ad artikel 7
 
 Indien een der Hooge Verdragsluitende Partijen aan de handelsreizigers, onderdanen van de andere Partij, belastingen mocht opleggen, zal deze andere Partij de noodige maatregelen kunnen treffen ten einde de wederkeerigheid te herstellen.
 
-#### Ad artikel 10
+##### Ad artikel 10
 
 Als kustvaart zullen niet worden beschouwd:
 
@@ -168,7 +192,7 @@ Als kustvaart zullen niet worden beschouwd:
 
 - 2°. Het vervoer, van een vreemde haven naar een Zuidslavische haven, en wederkeerig, van passagiers voorzien van doorgaande, in het buitenland afgegeven, of voor het buitenland bestemde biljetten en evenzeer het vervoer van waren, ingescheept op doorcognossementen, welke zijn afgegeven in het buitenland of voor het buitenland zijn bestemd.
 
-#### Algemeene bepalingen.
+##### Algemeene bepalingen.
 
 1. Het is bovendien wel verstaan, dat de clausule van de meestbegunstigde natie geen recht verschaft ten aanzien van:
 

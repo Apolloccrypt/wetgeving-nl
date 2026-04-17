@@ -1,13 +1,38 @@
 ---
 title: "Inkomstenbelasting, vennootschapsbelasting, belastingschadevergoeding"
 identifier: "BWBR0048559"
-categorie: "Belastingrecht"
-publicatiedatum: 2023-08-18
-laatste_update: 2023-08-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048559"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2023-08-18"
+last_updated: "2023-08-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048559"
+soort: "beleidsregel"
+stam_id: "16839583"
+version_id: "29587262"
+internal_id: "C42298221"
+label_id: "16752224"
+dtd_version: "2.0"
+original_entry_into_force: "2023-08-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048559/2023-08-18/0"
+intitule_bron: "Stcrt.2023-22953"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-08-09"
+intitule_published: "2023-08-17"
+intitule_in_force: "2023-08-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-22953"
+original_signed_date: "2023-08-09"
+original_published_date: "2023-08-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-22953"
+entry_into_force_date: "2023-08-18"
+jci_1_3: "jci1.3:c:BWBR0048559&z=2023-08-18&g=2023-08-18"
+jci_1_0: "1.0:c:BWBR0048559&g=2023-08-18"
+citeertitel_status: "redactioneel"
+signed_date: "2023-08-09"
+entry_into_force: "2023-08-18"
 ---
-
 # Inkomstenbelasting, vennootschapsbelasting, belastingschadevergoeding
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

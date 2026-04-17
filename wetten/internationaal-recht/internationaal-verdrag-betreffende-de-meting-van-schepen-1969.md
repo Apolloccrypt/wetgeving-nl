@@ -1,13 +1,35 @@
 ---
 title: "Internationaal Verdrag betreffende de meting van schepen, 1969"
 identifier: "BWBV0003245"
-categorie: "Internationaal recht"
-publicatiedatum: 2017-02-28
-laatste_update: 2017-02-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003245"
+country: "nl"
+rank: "verdrag"
+publication_date: "2017-02-28"
+last_updated: "2017-02-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003245"
+soort: "verdrag"
+stam_id: "10003426023"
+version_id: "10003471552"
+internal_id: "C10006983581"
+label_id: "10003412174"
+dtd_version: "2.0"
+original_entry_into_force: "1982-07-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003245/2017-02-28/0"
+intitule_bron: "Trb.1970-122"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1970-07-31"
+intitule_in_force: "1981-07-10"
+intitule_status: "goed"
+original_publication: "Trb.1970-122"
+original_published_date: "1970-07-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1970-122"
+entry_into_force_date: "1982-07-18"
+jci_1_3: "jci1.3:c:BWBV0003245&z=2017-02-28&g=2017-02-28"
+jci_1_0: "1.0:c:BWBV0003245&g=2017-02-28"
+citeertitel_status: "redactioneel"
+entry_into_force: "1982-07-18"
 ---
-
 # Internationaal Verdrag betreffende de meting van schepen, 1969
 
 De Verdragsluitende Regeringen,
@@ -18,11 +40,11 @@ Overwegende dat dit doel het best kan worden bereikt door het sluiten van een Ve
 
 Zijn overeengekomen als volgt:
 
-#### Artikel 1. Algemene verplichting krachtens het Verdrag
+##### Artikel 1. Algemene verplichting krachtens het Verdrag
 
 De Verdragsluitende Regeringen verbinden zich uitvoering te geven aan de bepalingen van dit Verdrag en van de daarbij behorende Bijlagen die geacht worden een integrerend deel te vormen van dit Verdrag. Elke verwijzing naar dit Verdrag sluit een gelijktijdige verwijzing naar de Bijlagen in zich.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag wordt, tenzij uitdrukkelijk anders is bepaald, verstaan onder:
 
@@ -44,7 +66,7 @@ Voor de toepassing van dit Verdrag wordt, tenzij uitdrukkelijk anders is bepaald
 
 - (9). „Organisatie”: de Intergouvernementele Maritieme Consultatieve Organisatie.
 
-#### Artikel 3. Toepasselijkheid
+##### Artikel 3. Toepasselijkheid
 
 (1). Dit Verdrag is van toepassing op de volgende schepen, die internationale reizen maken:
 
@@ -66,7 +88,7 @@ Voor de toepassing van dit Verdrag wordt, tenzij uitdrukkelijk anders is bepaald
 
 (3). Van bestaande schepen waarop dit Verdrag overeenkomstig het bepaalde onder (c) van het tweede lid van dit artikel is toegepast, kunnen de tonnages vervolgens niet worden vastgesteld overeenkomstig de bepalingen die door de Administratie op schepen die internationale reizen maken, werden toegepast voor de datum van inwerkingtreding van dit Verdrag.
 
-#### Artikel 4. Uitzonderingen
+##### Artikel 4. Uitzonderingen
 
 (1). Dit Verdrag is niet van toepassing op:
 
@@ -82,23 +104,23 @@ Voor de toepassing van dit Verdrag wordt, tenzij uitdrukkelijk anders is bepaald
 
 - (c). de Rio de la Plata en de rivieren Parana en Uruguay niet verder oostelijk dan tot de loxodroom getrokken van Punta Rasa (Cabo San Antonio) in Argentinië naar Punta del Este in Uruguay.
 
-#### Artikel 5. Overmacht
+##### Artikel 5. Overmacht
 
 (1). Een schip dat op het ogenblik van het vertrek voor een reis niet is onderworpen aan de bepalingen van dit Verdrag, mag niet wegens afwijking van de voorgenomen reis ten gevolge van slecht weer of enige andere vorm van overmacht aan deze bepalingen worden onderworpen.
 
 (2). Bij toepassing van de bepalingen van dit Verdrag houden de Verdragsluitende Regeringen behoorlijk rekening met elke afwijking van de route of elke vertraging door een schip ondervonden ten gevolge van slecht weer of enige andere vorm van overmacht.
 
-#### Artikel 6. Vaststelling van de tonnages
+##### Artikel 6. Vaststelling van de tonnages
 
 De vaststelling van de bruto- en netto-tonnage wordt verricht door de Administratie die evenwel deze vaststelling kan opdragen hetzij aan personen hetzij aan organisaties die door haar zijn erkend. In ieder geval aanvaardt de Administratie de volle verantwoordelijkheid voor de vaststelling van de bruto- en netto-tonnage.
 
-#### Artikel 7. Afgifte van meetbrieven
+##### Artikel 7. Afgifte van meetbrieven
 
 (1). Ten behoeve van ieder schip waarvan de bruto- en netto-tonnage zijn vastgesteld overeenkomstig de bepalingen van dit Verdrag, wordt een Internationale Meetbrief (1969) afgegeven.
 
 (2). Deze meetbrief wordt afgegeven door de Administratie of een door haar behoorlijk gemachtigde persoon of organisatie. In ieder geval aanvaardt de Administratie de volle verantwoordelijkheid voor de meetbrief.
 
-#### Artikel 8. Afgifte van meetbrieven door een andere Regering
+##### Artikel 8. Afgifte van meetbrieven door een andere Regering
 
 (1). Een Verdragsluitende Regering kan op verzoek van een andere Verdragsluitende Regering de bruto- en netto-tonnage van een schip vaststellen en ten behoeve van dit schip overeenkomstig dit Verdrag een Internationale Meetbrief (1969) afgeven of machtiging tot deze afgifte verlenen.
 
@@ -108,13 +130,13 @@ De vaststelling van de bruto- en netto-tonnage wordt verricht door de Administra
 
 (4). Ten behoeve van een schip dat de vlag voert van een Staat waarvan de Regering geen Verdragsluitende Regering is, mag geen Internationale Meetbrief (1969) worden afgegeven.
 
-#### Artikel 9. Vorm van de meetbrief
+##### Artikel 9. Vorm van de meetbrief
 
 (1). De meetbrief wordt opgemaakt in de officiële taal of talen van het land waardoor hij wordt afgegeven. Indien de gebruikte taal noch Engels noch Frans is dient een vertaling in een van deze beide talen te worden bijgevoegd.
 
 (2). De meetbrief moet wat betreft de vorm in overeenstemming zijn met het in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&bijlage=II&z=2017-02-28&g=2017-02-28) opgenomen model.
 
-#### Artikel 10. Intrekking van de meetbrief
+##### Artikel 10. Intrekking van de meetbrief
 
 (1). Onverminderd de in de Voorschriften voorziene uitzonderingen verliest een Internationale Meetbrief (1969) zijn geldigheid en wordt hij door de Administratie ingetrokken indien zodanige wijzigingen hebben plaatsgevonden in de inrichting, de bouw, de capaciteit, het benutten van ruimten, het totale aantal passagiers dat het schip volgens zijn veiligheidscertificaat voor passagiersschepen mag vervoeren, het vastgestelde vrijboord of de toegestane diepgang, dat daaruit noodzakelijk een vermeerdering van de bruto- of netto-tonnage zou voortvloeien.
 
@@ -122,11 +144,11 @@ De vaststelling van de bruto- en netto-tonnage wordt verricht door de Administra
 
 (3). Bij overdracht van een schip onder de vlag van een andere Staat waarvan de Regering een Verdragsluitende Regering is, blijft de Internationale Meetbrief (1969) van kracht voor een periode van ten hoogste drie maanden ofwel tot het tijdstip waarop de Administratie een andere Internationale Meetbrief (1969) ter vervanging uitgeeft, al naar gelang welk tijdstip eerder valt. De Verdragsluitende Regering van de Staat wiens vlag het schip tot dan toe had gevoerd, dient zo spoedig mogelijk nadat de overdracht heeft plaatsgevonden aan de Administratie een afschrift van de op het tijdstip van overdracht op het schip gevoerde meetbrief en een afschrift van de hierop betrekking hebbende berekening van de tonnage te doen toekomen.
 
-#### Artikel 11. Erkenning van meetbrieven
+##### Artikel 11. Erkenning van meetbrieven
 
 De onder gezag van een Verdragsluitende Regering overeenkomstig de bepalingen van dit Verdrag afgegeven meetbrief wordt door de andere Verdragsluitende Regeringen erkend en voor alle doelstellingen waarop dit Verdrag betrekking heeft, beschouwd dezelfde geldigheid te bezitten als de door hen afgegeven meetbrieven.
 
-#### Artikel 12. Inspectie
+##### Artikel 12. Inspectie
 
 (1). Een schip dat de vlag voert van een Staat waarvan de Regering een Verdragsluitende Regering is, is, wanneer het zich in de havens van andere Verdragsluitende Regeringen bevindt, onderworpen aan inspectie van daartoe door deze Regeringen behoorlijk gemachtigde ambtenaren. Deze inspectie heeft enkel en alleen tot doel vast te stellen:
 
@@ -138,11 +160,11 @@ De onder gezag van een Verdragsluitende Regering overeenkomstig de bepalingen va
 
 (3). Indien uit de inspectie blijkt, dat de voornaamste kenmerken van het schip afwijken van die vermeld op de Internationale Meetbrief (1969), in dier voege dat dit tot een vermeerdering van de bruto- of de netto-tonnage leidt, wordt de Regering van de Staat wiens vlag het schip voert hiervan onmiddellijk in kennis gesteld.
 
-#### Artikel 13. Voorrechten
+##### Artikel 13. Voorrechten
 
 De voorrechten van dit Verdrag kunnen slechts worden ingeroepen ten behoeve van een schip indien het in het bezit is van een geldige meetbrief afgegeven krachtens dit Verdrag.
 
-#### Artikel 14. Vorige verdragen, overeenkomsten en afspraken
+##### Artikel 14. Vorige verdragen, overeenkomsten en afspraken
 
 (1). Alle andere op tonnage betrekking hebbende verdragen, overeenkomsten en afspraken, die op dit ogenblik van kracht zijn tussen Regeringen die Partij zijn bij dit Verdrag, blijven gedurende de tijd waarvoor zij zijn gesloten geheel en volledig van kracht ten aanzien van:
 
@@ -152,7 +174,7 @@ De voorrechten van dit Verdrag kunnen slechts worden ingeroepen ten behoeve van 
 
 (2). Voor zover deze verdragen, overeenkomsten of afspraken echter in strijd zijn met de bepalingen van dit Verdrag, hebben de bepalingen van dit Verdrag voorrang.
 
-#### Artikel 15. Verstrekking van inlichtingen
+##### Artikel 15. Verstrekking van inlichtingen
 
 De Verdragsluitende Partijen verbinden zich aan de Organisatie mede te delen en bij haar neder te leggen:
 
@@ -162,7 +184,7 @@ De Verdragsluitende Partijen verbinden zich aan de Organisatie mede te delen en 
 
 - (c). een lijst van niet-gouvernementele organisaties die gemachtigd zijn namens hen op te treden in aangelegenheden betreffende de tonnage voor kennisgeving aan de Verdragsluitende Regeringen.
 
-#### Artikel 16. Ondertekening, aanvaarding en toetreding
+##### Artikel 16. Ondertekening, aanvaarding en toetreding
 
 (1). Dit Verdrag staat te rekenen van 23 juni 1969 gedurende zes maanden open voor ondertekening en blijft daarna openstaan voor toetreding. Regeringen van Staten die lid zijn van de Verenigde Naties, van een der Gespecialiseerde Organisaties of van de Internationale Organisatie voor Atoomenergie, of die partij zijn bij het Statuut van het Internationale Gerechtshof, kunnen partij worden bij dit Verdrag door:
 
@@ -174,7 +196,7 @@ De Verdragsluitende Partijen verbinden zich aan de Organisatie mede te delen en 
 
 (2). Aanvaarding of toetreding geschiedt door middel van nederlegging van een akte van aanvaarding of toetreding bij de Organisatie. De Organisatie geeft alle Regeringen die dit Verdrag hebben ondertekend of daartoe zijn toegetreden, kennis van iedere nieuwe aanvaarding of toetreding alsmede van de datum van nederlegging daarvan. De Organisatie stelt eveneens alle Regeringen die het Verdrag reeds hebben ondertekend, in kennis van alle ondertekeningen verricht gedurende de periode van zes maanden te rekenen van 23 juni 1969.
 
-#### Artikel 17. Inwerkingtreding
+##### Artikel 17. Inwerkingtreding
 
 (1). Dit Verdrag treedt in werking vierentwintig maanden na de datum waarop ten minste vijfentwintig Regeringen van Staten waarvan de gezamenlijke koopvaardijvloten ten minste vijfenzestig procent van de bruto-inhoud van de wereldhandelsvloot uitmaken, het hebben ondertekend zonder voorbehoud van aanvaarding of overeenkomstig [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&artikel=16&z=2017-02-28&g=2017-02-28) akten van aanvaarding of toetreding hebben nedergelegd. De Organisatie stelt alle Regeringen die dit Verdrag hebben ondertekend of daartoe zijn toegetreden, in kennis van de datum van inwerkingtreding.
 
@@ -184,7 +206,7 @@ De Verdragsluitende Partijen verbinden zich aan de Organisatie mede te delen en 
 
 (4). Na de datum waarop alle maatregelen die nodig zijn om een wijziging van dit Verdrag in werking te doen treden voltooid zijn of na de datum waarop alle noodzakelijke aanvaardingen geacht worden te hebben plaatsgevonden krachtens het [tweede lid, letter b, van artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&artikel=18&z=2017-02-28&g=2017-02-28) in geval van wijziging door middel van eenstemmige aanvaarding, wordt elke akte van aanvaarding of toetreding die wordt nedergelegd, geacht te gelden voor het gewijzigde Verdrag.
 
-#### Artikel 18. Wijzigingen
+##### Artikel 18. Wijzigingen
 
 (1). Dit Verdrag kan op voorstel van een Verdragsluitende Regering gewijzigd worden door middel van de in dit artikel aangegeven procedures.
 
@@ -220,7 +242,7 @@ De Verdragsluitende Partijen verbinden zich aan de Organisatie mede te delen en 
 
 (6). Elke aanvaarding of verklaring krachtens dit artikel geschiedt door middel van schriftelijke mededeling aan de Organisatie die alle Verdragsluitende Regeringen in kennis stelt van de ontvangst van de aanvaarding of de verklaring.
 
-#### Artikel 19. Opzegging
+##### Artikel 19. Opzegging
 
 (1). Dit Verdrag kan te allen tijde door elke Verdragsluitende Regering worden opgezegd na afloop van een tijdvak van vijf jaar te rekenen van de datum waarop dit Verdrag voor die Regering in werking treedt.
 
@@ -228,7 +250,7 @@ De Verdragsluitende Partijen verbinden zich aan de Organisatie mede te delen en 
 
 (3). De opzegging wordt van kracht een jaar na ontvangst door de Organisatie van de akte van opzegging of na een langere daarin vastgestelde periode.
 
-#### Artikel 20. Afhankelijke gebieden
+##### Artikel 20. Afhankelijke gebieden
 
 - (a). De Verenigde Naties, in die gevallen waarin deze Organisatie het gezagsorgaan is dat het beheer over een gebied uitoefent, of Verdragsluitende Regeringen die verantwoordelijk zijn voor de internationale betrekkingen van een gebied, dienen zo spoedig mogelijk overleg te plegen met een zodanig gebied ten einde te bewerkstelligen dat dit Verdrag op dat gebied van toepassing wordt, en kunnen de Organisatie te allen tijde schriftelijk mededelen dat dit Verdrag ook op dat gebied van toepassing zal zijn.
 
@@ -240,17 +262,17 @@ De Verdragsluitende Partijen verbinden zich aan de Organisatie mede te delen en 
 
 (3). De Organisatie stelt alle Verdragsluitende Regeringen op de hoogte van het van toepassing worden van dit Verdrag op enigerlei gebied krachtens het eerste lid van dit artikel, alsmede van de beëindiging van een zodanige toepasselijkheid krachtens de bepalingen van het tweede lid, waarbij in ieder afzonderlijk geval melding dient te worden gemaakt van de datum waarop dit Verdrag aldus van toepassing is geworden of van de datum waarop de toepasselijkheid is beëindigd.
 
-#### Artikel 21. Nederlegging en registratie
+##### Artikel 21. Nederlegging en registratie
 
 (1). Dit Verdrag wordt nedergelegd bij de Organisatie en de Secretaris-Generaal van de Organisatie doet hiervan voor eensluidend gewaarmerkte afschriften toekomen aan alle ondertekenende Regeringen en aan alle Regeringen dit tot dit Verdrag toetreden.
 
 (2). Zodra dit Verdrag in werking treedt wordt de tekst daarvan door de Secretaris-Generaal van de Organisatie toegezonden aan het Secretariaat van de Verenigde Naties voor registratie en publikatie overeenkomstig [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-#### Artikel 22. Talen
+##### Artikel 22. Talen
 
 Dit Verdrag is een enkel exemplaar opgesteld in de Engelse en de Franse taal, zijnde beide teksten gelijkelijk authentiek. Officiële vertalingen in de Russische en de Spaanse taal worden opgesteld en te zamen met het ondertekende origineel nedergelegd.
 
-#### Voorschrift 1. Algemeen
+##### Voorschrift 1. Algemeen
 
 - (1). De tonnage van een schip wordt onderscheiden naar bruto-tonnage en netto-tonnage.
 
@@ -258,7 +280,7 @@ Dit Verdrag is een enkel exemplaar opgesteld in de Engelse en de Franse taal, zi
 
 - (3). De bruto- en de netto-tonnage van nieuwe typen schepen waarvan de bouwkenmerken zodanig zijn, dat zij de toepassing van de bepalingen van deze voorschriften onredelijk of onuitvoerbaar maken, worden vastgesteld door de Administratie. Indien een zodanige vaststelling heeft plaatsgevonden, dient de Administratie aan de Organisatie mededeling te doen van de bijzonderheden der voor dit doel gebruikte methode voor kennisgeving aan de Verdragsluitende Regeringen.
 
-#### Voorschrift 2. Definities van de in de Bijlagen gebruikte begrippen
+##### Voorschrift 2. Definities van de in de Bijlagen gebruikte begrippen
 
 - (1). **Bovendek** Het bovendek is het bovenste aan weer en wind blootgestelde volledige dek, voorzien van permanente middelen tot waterdichte afsluiting van alle openingen in de aan weer en wind blootgestelde gedeelten van het dek, en waarbeneden alle openingen in de zijden van het schip zijn voorzien van permanente middelen tot waterdichte afsluiting. Op een schip met een verspringend bovendek wordt het laagste gedeelte van het blootgestelde dek en de voortzetting van dat gedeelte evenwijdig aan het verhoogde gedeelte als bovendek beschouwd.
 
@@ -314,11 +336,11 @@ Dit Verdrag is een enkel exemplaar opgesteld in de Engelse en de Franse taal, zi
 
 - (12). **Auditnorm** betekent de Implementatiecode.
 
-#### Voorschrift 3. Bruto-tonnage
+##### Voorschrift 3. Bruto-tonnage
 
 De bruto-tonnage (GT) van een schip wordt bepaald door middel van de volgende formule:
 
-#### Voorschrift 4. Netto-tonnage
+##### Voorschrift 4. Netto-tonnage
 
 - (1). De netto-tonnage (NT) van een schip wordt vastgesteld door middel van de volgende formule:
 
@@ -334,7 +356,7 @@ De bruto-tonnage (GT) van een schip wordt bepaald door middel van de volgende fo
 
 - (e). voor andere schepen: 75 procent van de holte naar de mal midscheeps gemeten als omschreven in [Voorschrift 2, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&bijlage=I&artikel=2&z=2017-02-28&g=2017-02-28).
 
-#### Voorschrift 5. Wijziging van de netto-tonnage
+##### Voorschrift 5. Wijziging van de netto-tonnage
 
 - (1). Indien de kenmerken van een schip, met name de in de [Voorschriften 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&bijlage=I&artikel=3&z=2017-02-28&g=2017-02-28) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&bijlage=I&artikel=4&z=2017-02-28&g=2017-02-28) omschreven V, Vc, d, N1 of N2, worden gewijzigd en indien een zodanige wijziging een vermeerdering van de overeenkomstig de bepalingen van Voorschrift 4 vastgestelde netto-tonnage ten gevolge heeft, dient de met de nieuwe kenmerken overeenkomende netto-tonnage van het schip zonder verwijl te worden vastgesteld en toegepast.
 
@@ -348,7 +370,7 @@ De bruto-tonnage (GT) van een schip wordt bepaald door middel van de volgende fo
 
 - (c). voor passagiersschepen, die worden gebruikt voor het vervoer van grote aantallen dekpassagiers tijdens speciale vaarten, zoals bijvoorbeeld het vervoeren van pelgrims.
 
-#### Voorschrift 6. Berekening van volumes
+##### Voorschrift 6. Berekening van volumes
 
 - (1). Alle volumes begrepen in de berekening van bruto- en netto-tonnages dienen te worden gemeten, ongeacht aangebrachte isolatie of soortgelijk materiaal, tot de binnenzijde van de huid of tot de begrenzingswanden bij metalen schepen en tot de buitenzijde van de huid of tot de binnenzijde van de begrenzingswanden bij schepen gebouwd van ander materiaal.
 
@@ -356,7 +378,7 @@ De bruto-tonnage (GT) van een schip wordt bepaald door middel van de volgende fo
 
 - (3). Het volume der voor de zee openstaande ruimten mag van het totaal volume worden afgetrokken.
 
-#### Voorschrift 7. Meting en berekening
+##### Voorschrift 7. Meting en berekening
 
 - (1). Alle metingen, gebruikt bij de berekening van volumes, dienen te worden verricht tot op 1 centimeter of een twintigste voet nauwkeurig.
 
@@ -368,11 +390,11 @@ IN WITNESS WHEREOF the undersigned being duly authorized by their respective Gov
 
 DONE at London this twenty-third day of June 1969.
 
-#### Voorschrift 8. Toepassing
+##### Voorschrift 8. Toepassing
 
 De Verdragsluitende Regeringen gebruiken de bepalingen van de Implementatiecode bij de uitvoering van hun verplichtingen en verantwoordelijkheden zoals vervat in dit Verdrag.
 
-#### Voorschrift 9. Verificatie van de naleving
+##### Voorschrift 9. Verificatie van de naleving
 
 1. Elke Verdragsluitende Regering wordt onderworpen aan periodieke audits door de Organisatie in overeenstemming met de auditnorm teneinde de naleving en implementatie van dit Verdrag te verifiëren.
 

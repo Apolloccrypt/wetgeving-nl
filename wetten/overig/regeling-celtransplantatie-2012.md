@@ -1,40 +1,66 @@
 ---
-title: "Regeling celtransplantatie 2012"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 12 juni 2012, nr. CZ-3115695, houdende regels ten aanzien van het verlenen van vergunningen voor het toepassen van celtransplantatie (Regeling celtransplantatie 2012)"
 identifier: "BWBR0031689"
-categorie: "Overig"
-publicatiedatum: 2012-07-01
-laatste_update: 2012-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031689"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2012-07-01"
+last_updated: "2012-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031689"
+soort: "ministeriele-regeling"
+stam_id: "11763963"
+version_id: "19447062"
+internal_id: "C27262661"
+label_id: "11736314"
+dtd_version: "2.0"
+original_entry_into_force: "2012-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031689/2012-07-01/0"
+intitule_bron: "Stcrt.2012-12275"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-06-12"
+intitule_published: "2012-06-21"
+intitule_in_force: "2012-06-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-12275"
+original_signed_date: "2012-06-12"
+original_published_date: "2012-06-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-12275"
+entry_into_force_date: "2012-07-01"
+jci_1_3: "jci1.3:c:BWBR0031689&z=2012-07-01&g=2012-07-01"
+jci_1_0: "1.0:c:BWBR0031689&g=2012-07-01"
+citeertitel_status: "officieel"
+short_title: "Regeling celtransplantatie 2012"
+signed_date: "2012-06-12"
+entry_into_force: "2012-07-01"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 12 juni 2012, nr. CZ-3115695, houdende regels ten aanzien van het verlenen van vergunningen voor het toepassen van celtransplantatie (Regeling celtransplantatie 2012)
 
 Gelet op de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&artikel=5) en [6, tweede lid, van de Wet op bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&artikel=6);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt onder celtransplantatie verstaan hetgeen [artikel 1, eerste lid, onder d, van het Besluit aanwijzing bijzondere medische verrichtingen 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022191&artikel=1) daaronder verstaat.
 
-#### Artikel 2
+##### Artikel 2
 
 De wijze waarop in de behoefte aan celtransplantatie kan worden voorzien, is neergelegd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031689&bijlage=1&z=2012-07-01&g=2012-07-01).
 
-#### Artikel 3
+##### Artikel 3
 
 De voorwaarden waaraan een vergunningaanvraag dient te voldoen, zijn neergelegd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031689&bijlage=2&z=2012-07-01&g=2012-07-01).
 
-#### Artikel 4
+##### Artikel 4
 
 De [Regeling celtransplantatie 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0030112) wordt ingetrokken.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling treedt in werking met ingang van 1 juli 2012.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling wordt aangehaald als: Regeling celtransplantatie 2012.
 

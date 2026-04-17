@@ -1,13 +1,38 @@
 ---
 title: "Besluit bestuursrecht Toeslagen"
 identifier: "BWBR0050124"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-08-13
-laatste_update: 2024-08-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050124"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2024-08-13"
+last_updated: "2024-08-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050124"
+soort: "beleidsregel"
+stam_id: "17200553"
+version_id: "30285402"
+internal_id: "C43451621"
+label_id: "17106784"
+dtd_version: "2.0"
+original_entry_into_force: "2024-08-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050124/2024-08-13/0"
+intitule_bron: "Stcrt.2024-26380"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-08-01"
+intitule_published: "2024-08-12"
+intitule_in_force: "2024-08-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-26380"
+original_signed_date: "2024-08-01"
+original_published_date: "2024-08-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-26380"
+entry_into_force_date: "2024-08-13"
+jci_1_3: "jci1.3:c:BWBR0050124&z=2024-08-13&g=2024-08-13"
+jci_1_0: "1.0:c:BWBR0050124&g=2024-08-13"
+citeertitel_status: "officieel"
+signed_date: "2024-08-01"
+entry_into_force: "2024-08-13"
 ---
-
 # Besluit bestuursrecht Toeslagen
 
 ### 1. Inleiding

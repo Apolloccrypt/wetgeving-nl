@@ -1,20 +1,45 @@
 ---
-title: "Regeling op de consulaire tarieven"
+title: "Regeling van de Minister van Buitenlandse Zaken van 12 december 2003, nr. DJZ/BR-1003/2003 tot vaststelling van de tarieven voor consulaire dienstverlening (Regeling op de consulaire tarieven)"
 identifier: "BWBR0016097"
-categorie: "Overig"
-publicatiedatum: 2025-12-08
-laatste_update: 2025-12-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0016097"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-12-08"
+last_updated: "2025-12-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0016097"
+soort: "ministeriele-regeling"
+stam_id: "5544233"
+version_id: "12018122"
+internal_id: "C16118911"
+label_id: "5516254"
+original_entry_into_force: "2005-06-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0016097/2025-12-08/0"
+intitule_bron: "Stcrt.2003-245"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-12-12"
+intitule_published: "2003-12-18"
+intitule_in_force: "2003-12-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-124"
+original_signed_date: "2005-06-27"
+original_published_date: "2005-06-30"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2005-124-p16-SC70522"
+entry_into_force_date: "2005-06-27"
+jci_1_3: "jci1.3:c:BWBR0016097&z=2025-12-08&g=2025-12-08"
+jci_1_0: "1.0:c:BWBR0016097&g=2025-12-08"
+citeertitel_status: "officieel"
+short_title: "Regeling op de consulaire tarieven"
+signed_date: "2005-06-27"
+entry_into_force: "2005-06-27"
 ---
-
 # Regeling van de Minister van Buitenlandse Zaken van 12 december 2003, nr. DJZ/BR-1003/2003 tot vaststelling van de tarieven voor consulaire dienstverlening (Regeling op de consulaire tarieven)
 
 Gelet op [artikel 1, tweede en derde lid, en](https://wetten.overheid.nl/jci1.3:c:BWBR0015918&artikel=1)[artikel 4, tweede lid, van het Rijksbesluit op de consulaire tarieven](https://wetten.overheid.nl/jci1.3:c:BWBR0015918&artikel=4), alsmede op [artikel 3 van de Rijkswet op de consulaire tarieven](https://wetten.overheid.nl/jci1.3:c:BWBR0013618&artikel=3);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De vergoeding die ingevolge [artikel 2, eerste lid, van de Rijkswet op de consulaire tarieven](https://wetten.overheid.nl/jci1.3:c:BWBR0013618&artikel=2) is verschuldigd, bedraagt voor:
 
@@ -164,27 +189,27 @@ De vergoeding die ingevolge [artikel 2, eerste lid, van de Rijkswet op de consul
 
 - v. het behandelen van een aanvraag tot het afgeven van een EU-noodreisdocument als bedoeld in [artikel 5a van de Rijkswet consulaire bescherming EU-burgers](https://wetten.overheid.nl/jci1.3:c:BWBR0040520&artikel=5a): het tarief voor de verstrekking van een noodpaspoort of een laissez-passer, bedoeld in [artikel 12, tweede lid, onderdeel e, van het Besluit paspoortgelden](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&artikel=12).
 
-#### Artikel 2
+##### Artikel 2
 
 De vergoeding voor het uitvoeren van een bijzondere opdracht bedraagt het aantal uren dat aan de dienst is besteed vermenigvuldigd met het brutosalaris per uur van de ambtenaar die met de uitvoering van de opdracht is belast.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De vergoeding, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2025-12-08&g=2025-12-08) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=2&z=2025-12-08&g=2025-12-08), is in de Democratische Republiek Congo en in Zimbabwe verschuldigd in het equivalent aan US dollars. De vergoeding in Suriname en in Iran is verschuldigd in euro’s.
 
 2. De vergoeding, bedoeld in [artikel 1, onderdeel s, onder 2° en 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2025-12-08&g=2025-12-08), wordt voldaan door storting of overboeking van het verschuldigde bedrag op een daartoe bestemde rekening in Nederland.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling treedt in werking met ingang van 1 januari 2004.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling wordt aangehaald als: Regeling op de consulaire tarieven.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3a
+##### Artikel 3a
 
 1. De vergoeding, genoemd in [artikel 1, onderdeel s, onder 2° en 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2025-12-08&g=2025-12-08), is niet verschuldigd indien de aanvraag betrekking heeft op een machtiging tot voorlopig verblijf:
 
@@ -222,7 +247,7 @@ Het tweede lid is van toepassing met dien verstande dat voor ‘[artikel 1, onde
 
 4. In aanvulling op het tweede lid kan de Minister van Justitie en Veiligheid in overleg met de Minister van Buitenlandse Zaken bepalen dat de vastgestelde leges niet zijn verschuldigd in het belang van de internationale betrekkingen.
 
-#### Artikel 3b
+##### Artikel 3b
 
 Voor het behandelen van een aanvraag tot het verlenen van een machtiging tot voorlopig verblijf met het oog op gezinshereniging of gezinsvorming is de vergoeding, genoemd in [artikel 1, onderdeel s, onder 2° en 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2025-12-08&g=2025-12-08), niet verschuldigd indien de belanghebbende:
 

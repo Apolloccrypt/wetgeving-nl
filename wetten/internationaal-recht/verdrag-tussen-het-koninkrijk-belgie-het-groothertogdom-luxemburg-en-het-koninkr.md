@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden inzake politiesamenwerking"
 identifier: "BWBV0006758"
-categorie: "Internationaal recht"
-publicatiedatum: 2023-10-01
-laatste_update: 2023-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006758"
+country: "nl"
+rank: "verdrag"
+publication_date: "2023-10-01"
+last_updated: "2023-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006758"
+soort: "verdrag"
+stam_id: "10005448953"
+version_id: "10005909852"
+internal_id: "C10010019221"
+label_id: "10005432444"
+dtd_version: "2.0"
+original_entry_into_force: "2023-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006758/2023-10-01/0"
+intitule_bron: "Trb.2018-160"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2018-09-03"
+intitule_in_force: "2023-10-18"
+intitule_status: "goed"
+original_publication: "Trb.2018-160"
+original_published_date: "2018-09-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2018-160"
+entry_into_force_date: "2023-10-01"
+jci_1_3: "jci1.3:c:BWBV0006758&z=2023-10-01&g=2023-10-01"
+jci_1_0: "1.0:c:BWBV0006758&g=2023-10-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2023-10-01"
 ---
-
 # Verdrag tussen het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden inzake politiesamenwerking
 
 Het Koninkrijk België,
@@ -62,7 +84,7 @@ Zijn het volgende overeengekomen:
 
 ## TITEL 1. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Begrippen
+##### Artikel 1. Begrippen
 
 In dit Verdrag wordt verstaan onder:
 
@@ -110,7 +132,7 @@ In dit Verdrag wordt verstaan onder:
 
 - v. vasthouden: verhinderen dat een persoon de vlucht neemt.
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 Dit Verdrag heeft tot doel de grensoverschrijdende politiële samenwerking te intensiveren op het grondgebied van de Verdragsluitende Partijen in het kader van:
 
@@ -120,7 +142,7 @@ Dit Verdrag heeft tot doel de grensoverschrijdende politiële samenwerking te in
 
 Dit doel omvat mede de bescherming en begeleiding van personen en goederen.
 
-#### Artikel 3. Verhouding tot andere verdragen en het nationale recht
+##### Artikel 3. Verhouding tot andere verdragen en het nationale recht
 
 1. Dit Verdrag beoogt de juridische instrumenten tot grensoverschrijdende politiële samenwerking, als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=1&artikel=2&z=2023-10-01&g=2023-10-01) van dit Verdrag, aan te vullen ten opzichte van de bestaande internationale overeenkomsten en het recht van de Europese Unie. Dit betreft met name de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=3&artikel=21&z=2023-10-01&g=2023-10-01) en [22](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=3&artikel=22&z=2023-10-01&g=2023-10-01) van dit Verdrag die verdergaan dan het bepaalde in de artikelen 40 en 41 van de Schengen-Uitvoeringsovereenkomst.
 
@@ -130,7 +152,7 @@ Dit doel omvat mede de bescherming en begeleiding van personen en goederen.
 
 ## TITEL 2. UITWISSELING VAN PERSOONSGEGEVENS EN INFORMATIE
 
-#### Artikel 4. Doel van de uitwisseling
+##### Artikel 4. Doel van de uitwisseling
 
 1. De bevoegde diensten kunnen elkaar op verzoek persoonsgegevens en informatie verstrekken voor het doel van de voorkoming, het onderzoek of de opsporing van strafbare feiten of de handhaving van de openbare orde en veiligheid.
 
@@ -142,13 +164,13 @@ Dit doel omvat mede de bescherming en begeleiding van personen en goederen.
 
 5. De bevoegde diensten verzoeken en verstrekken niet meer persoonsgegevens en informatie dan noodzakelijk en evenredig voor het doel van het verzoek en de verstrekking. Een verzoek of verstrekking kan één of meer individuele personen of voorwerpen betreffen.
 
-#### Artikel 5. Databanken
+##### Artikel 5. Databanken
 
 1. De databanken waaruit op grond van[artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=2&artikel=4&z=2023-10-01&g=2023-10-01) van dit Verdrag persoonsgegevens en informatie kunnen worden uitgewisseld, worden gedefinieerd in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&bijlage=5&z=2023-10-01&g=2023-10-01) bij dit Verdrag.
 
 2. De in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=2&artikel=14&z=2023-10-01&g=2023-10-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=2&artikel=15&z=2023-10-01&g=2023-10-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=2&artikel=16&z=2023-10-01&g=2023-10-01) van dit Verdrag bedoelde databanken worden opgesomd in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&bijlage=6&z=2023-10-01&g=2023-10-01) bij dit Verdrag.
 
-#### Artikel 6. Kanalen voor de uitwisseling
+##### Artikel 6. Kanalen voor de uitwisseling
 
 1. De uitwisseling van persoonsgegevens en informatie als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=2&artikel=4&z=2023-10-01&g=2023-10-01) van dit Verdrag geschiedt via de nationale contactpunten van de bevoegde diensten.
 
@@ -170,7 +192,7 @@ De ambtenaren die rechtstreeks persoonsgegevens of informatie uitwisselen op bas
 
 5. De bevoegde diensten kunnen eveneens persoonsgegevens en informatie uitwisselen via verbindingsofficieren als bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=4&artikel=27&z=2023-10-01&g=2023-10-01), van dit Verdrag.
 
-#### Artikel 7. Bescherming van persoonsgegevens
+##### Artikel 7. Bescherming van persoonsgegevens
 
 1. Persoonsgegevens worden op grond van dit Verdrag uitsluitend verwerkt voor het doel van de voorkoming, het onderzoek en de opsporing van strafbare feiten of de handhaving van de openbare orde en veiligheid.
 
@@ -178,17 +200,17 @@ De ambtenaren die rechtstreeks persoonsgegevens of informatie uitwisselen op bas
 
 3. De ontvangende bevoegde dienst informeert de verstrekkende bevoegde dienst op diens verzoek zo spoedig mogelijk over de verwerking van de verstrekte persoonsgegevens en het resultaat hiervan.
 
-#### Artikel 8. Vertrouwelijkheid
+##### Artikel 8. Vertrouwelijkheid
 
 De ontvangende bevoegde dienst en, waar van toepassing, de verdere verwerkers en verwerkingsverantwoordelijken moeten de graad van vertrouwelijkheid die de verstrekkende bevoegde dienst aan de persoonsgegevens en informatie heeft toegekend, waarborgen zoals voorzien in hun nationale recht, in overeenstemming met de concordantietabel van rubriceringen vervat in aanhangsel B van Besluit 2013/488/EU van de Raad van 23 september 2013 betreffende de beveiligingsvoorschriften voor de bescherming van gerubriceerde EU-informatie.
 
-#### Artikel 9. Doorverstrekking aan andere overheidsinstanties
+##### Artikel 9. Doorverstrekking aan andere overheidsinstanties
 
 1. De persoonsgegevens en informatie die op basis van dit Verdrag door een bevoegde dienst van één van de Verdragsluitende Partijen worden verstrekt aan een bevoegde dienst van een andere Verdragsluitende Partij, kunnen door de ontvangende bevoegde dienst worden doorgezonden aan een andere overheidsinstantie van de Verdragsluitende Partij waartoe zij behoort die geen bevoegde dienst is in de zin van dit Verdrag, na voorafgaande schriftelijke toestemming daartoe, die in een concreet geval wordt verleend door de verstrekkende Verdragsluitende Partij.
 
 2. De doorverstrekking zoals bedoeld in dit artikel geschiedt met eerbiediging van Richtlijn (EU) 2016/680, en in het bijzonder de artikelen 4, 8 en 9 van deze richtlijn, of, in voorkomend geval, de algemene verordening gegevensbescherming, en de respectievelijke implementatiewetten en andere bepalingen ter uitvoering van deze instrumenten in het nationale recht van de Verdragsluitende Partijen.
 
-#### Artikel 10. Doelbinding en verdere verwerking voor andere doeleinden
+##### Artikel 10. Doelbinding en verdere verwerking voor andere doeleinden
 
 1. Persoonsgegevens en informatie die op basis van dit Verdrag door een bevoegde dienst van één van de Verdragsluitende Partijen worden verstrekt aan een bevoegde dienst van een andere Verdragsluitende Partij, kunnen door de bevoegde diensten van deze laatste en elke andere overheidsinstantie waaraan ze met inachtneming van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=2&artikel=9&z=2023-10-01&g=2023-10-01) van dit Verdrag werden doorverstrekt, gebruikt worden voor alle doeleinden bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=1&artikel=2&z=2023-10-01&g=2023-10-01) van dit Verdrag in de mate dat deze doeleinden tot de taken behoren van deze diensten of overheidsinstanties.
 
@@ -198,7 +220,7 @@ De ontvangende bevoegde dienst en, waar van toepassing, de verdere verwerkers en
 
 4. Het gebruik van de ontvangen persoonsgegevens en informatie op een manier die de bekendmaking van deze persoonsgegevens en informatie, of een deel ervan, aan de betrokkene of aan derden tot gevolg heeft, kan in elk geval slechts na voorafgaande schriftelijke toestemming daartoe, verleend door de verstrekkende Verdragsluitende Partij, onverminderd de rechten van de betrokkene zoals toegekend door de nationale en internationale regelgeving betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens.
 
-#### Artikel 11. Modaliteiten van de toestemming
+##### Artikel 11. Modaliteiten van de toestemming
 
 1. De voorafgaande schriftelijke toestemming zoals bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=2&artikel=9&z=2023-10-01&g=2023-10-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=2&artikel=10&z=2023-10-01&g=2023-10-01) van dit Verdrag kan zowel verleend worden op het moment van de verstrekking als op een later moment, maar gaat steeds vooraf aan het doorzenden aan de overheidsinstantie die geen bevoegde dienst is in de zin van dit Verdrag of aan het gebruik voor een ander doel.
 
@@ -206,7 +228,7 @@ De ontvangende bevoegde dienst en, waar van toepassing, de verdere verwerkers en
 
 3. Aan de toestemming zoals bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=2&artikel=9&z=2023-10-01&g=2023-10-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=2&artikel=10&z=2023-10-01&g=2023-10-01) van dit Verdrag kunnen specifieke verwerkingsvoorwaarden worden verbonden door de verstrekkende bevoegde dienst, al dan niet op basis van het nationale recht van de Verdragsluitende Partij waartoe deze behoort. De ontvangende Verdragsluitende Partij verzekert de naleving van deze voorwaarden.
 
-#### Artikel 12. Wijze van informatie-uitwisseling
+##### Artikel 12. Wijze van informatie-uitwisseling
 
 1. Het verzoek tot de verstrekking en de verstrekking van persoonsgegevens en informatie geschiedt schriftelijk of via elektronische weg.
 
@@ -216,7 +238,7 @@ De ontvangende bevoegde dienst en, waar van toepassing, de verdere verwerkers en
 
 4. De persoonsgegevens en informatie worden verstrekt in één van de officiële talen van de verstrekkende Verdragsluitende Partij of in het Engels.
 
-#### Artikel 13. Verstrekking van referentiegegevens inzake geautomatiseerde vergelijking van kentekengegevens
+##### Artikel 13. Verstrekking van referentiegegevens inzake geautomatiseerde vergelijking van kentekengegevens
 
 1. Indien de bevoegde diensten van een Verdragsluitende Partij op grond van het nationale recht beschikken over persoonsgegevens en informatie die worden gebruikt als referentie ten behoeve van geautomatiseerde vergelijking met gegevens die zijn verzameld door op of aan de openbare weg kentekengegevens van voertuigen vast te leggen, kunnen zij deze referentiegegevens onder de voorwaarden genoemd in het tweede lid van dit artikel verstrekken aan een bevoegde dienst van een andere Verdragsluitende Partij.
 
@@ -230,7 +252,7 @@ De ontvangende bevoegde dienst en, waar van toepassing, de verdere verwerkers en
 
 6. De Verdragsluitende Partijen stellen elkaar op de hoogte van de nationale wettelijke bepalingen en procedures die van toepassing zijn op de verwerking van persoonsgegevens en informatie als bedoeld in dit artikel en leggen de voorwaarden en procedure voor de verstrekking van de persoonsgegevens en informatie, bedoeld in dit artikel, vast in een uitvoeringsovereenkomst.
 
-#### Artikel 14. Hit/no hit bevraging van politiedatabanken
+##### Artikel 14. Hit/no hit bevraging van politiedatabanken
 
 1. De Verdragsluitende Partijen kunnen, voor zover hun nationale recht zich daar niet uitdrukkelijk tegen verzet, elkaars bevoegde diensten de mogelijkheid bieden tot rechtstreekse geautomatiseerde bevraging van politiedatabanken bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=2&artikel=5&z=2023-10-01&g=2023-10-01), tweede lid, van dit Verdrag, ten behoeve van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=1&artikel=2&z=2023-10-01&g=2023-10-01) van dit Verdrag bedoelde doeleinden.
 
@@ -242,7 +264,7 @@ De ontvangende bevoegde dienst en, waar van toepassing, de verdere verwerkers en
 
 5. Indien Verdragsluitende Partijen de mogelijkheid als bedoeld in het eerste lid toepassen, dan wordt dit vastgelegd in een uitvoeringsovereenkomst tussen die Verdragsluitende Partijen. In de uitvoeringsovereenkomst worden de operationele en technische voorwaarden, voorzieningen en modaliteiten opgenomen die benodigd zijn voor de bevraging. In deze uitvoeringsovereenkomst wordt opgenomen welke van de in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&bijlage=6&z=2023-10-01&g=2023-10-01) van dit Verdrag bedoelde databanken de bevraging betreft. De bevoegde diensten kunnen de in dit artikel bedoelde bevraging pas uitvoeren na sluiting en inwerkingtreding van de uitvoeringsovereenkomst.
 
-#### Artikel 15. Raadpleging van politiedatabanken door politieambtenaren in een gemeenschappelijke politiepost
+##### Artikel 15. Raadpleging van politiedatabanken door politieambtenaren in een gemeenschappelijke politiepost
 
 1. De Verdragsluitende Partijen die deelnemen aan een gemeenschappelijke politiepost kunnen elkaars ambtenaren die werkzaam zijn in deze post rechtstreeks toegang geven tot hun politiedatabanken ten behoeve van de uitvoering van de politietaken in hun territoriaal bevoegdheidsgebied waarmee ze binnen deze post belast zijn, voor zover deze passen binnen de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=1&artikel=2&z=2023-10-01&g=2023-10-01) van dit Verdrag bedoelde doeleinden en deze politiedatabanken opgenomen zijn in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&bijlage=6&z=2023-10-01&g=2023-10-01) bij dit Verdrag.
 
@@ -254,7 +276,7 @@ De ontvangende bevoegde dienst en, waar van toepassing, de verdere verwerkers en
 
 5. Indien Verdragsluitende Partijen de mogelijkheid als bedoeld in het eerste lid toepassen, dan wordt dit vastgelegd in een uitvoeringsovereenkomst tussen die Verdragsluitende Partijen. In de uitvoeringsovereenkomst worden de operationele en technische voorwaarden, voorzieningen en modaliteiten opgenomen die benodigd zijn voor de rechtstreekse raadpleging. In deze uitvoeringsovereenkomst wordt opgenomen welke van de in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=2&artikel=6&z=2023-10-01&g=2023-10-01) van dit Verdrag bedoelde databanken de raadpleging betreft. De bevoegde diensten kunnen de in dit artikel bedoelde raadpleging pas uitvoeren na sluiting en inwerkingtreding van de uitvoeringsovereenkomst.
 
-#### Artikel 16. Raadpleging van voor de politie toegankelijke databanken tijdens gemengde patrouilles en gemeenschappelijke controles
+##### Artikel 16. Raadpleging van voor de politie toegankelijke databanken tijdens gemengde patrouilles en gemeenschappelijke controles
 
 1. Ambtenaren van verschillende Verdragsluitende Partijen die gemengde patrouilles of gemeenschappelijke controles uitvoeren, als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=3&artikel=20&z=2023-10-01&g=2023-10-01) van dit Verdrag, kunnen tijdens deze patrouille of controle elkaars databanken raadplegen, indien deze databanken zijn opgenomen in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&bijlage=6&z=2023-10-01&g=2023-10-01) bij dit Verdrag en indien deze kunnen worden geraadpleegd in een voertuig dat ingezet wordt tijdens deze patrouille of controle. De raadpleging betreft uitsluitend de gegevens waartoe de politieambtenaren van de Verdragsluitende Partij waarvan de databanken geraadpleegd worden, toegang hebben tijdens de patrouille of controle.
 
@@ -266,7 +288,7 @@ De ontvangende bevoegde dienst en, waar van toepassing, de verdere verwerkers en
 
 5. Indien Verdragsluitende Partijen de mogelijkheid als bedoeld in het eerste lid toepassen, dan wordt dit vastgelegd in een uitvoeringsovereenkomst tussen die Verdragsluitende Partijen. In de uitvoeringsovereenkomst worden de operationele en technische voorwaarden, voorzieningen en modaliteiten opgenomen die benodigd zijn voor de rechtstreekse raadpleging. In deze uitvoeringsovereenkomst wordt opgenomen welke van de in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&bijlage=6&z=2023-10-01&g=2023-10-01) van dit Verdrag bedoelde databanken de raadpleging betreft. De bevoegde diensten kunnen de in dit artikel bedoelde raadpleging pas uitvoeren na sluiting en inwerkingtreding van de uitvoeringsovereenkomst.
 
-#### Artikel 17. Raadpleging van het bevolkingsregister en andere overheidsregisters
+##### Artikel 17. Raadpleging van het bevolkingsregister en andere overheidsregisters
 
 1. De Verdragsluitende Partijen kunnen besluiten elkaars bevoegde diensten, met inachtneming van hun nationale recht, de mogelijkheid te bieden tot rechtstreekse geautomatiseerde raadpleging van de gegevens opgenomen in hun bevolkingsregister of in andere overheidsregisters, mits dit noodzakelijk is in het kader van het doel van dit Verdrag.
 
@@ -276,7 +298,7 @@ De ontvangende bevoegde dienst en, waar van toepassing, de verdere verwerkers en
 
 ## TITEL 3. GRENSOVERSCHRIJDEND OPTREDEN
 
-#### Artikel 18. Bijstand in de vorm van personeel en materieel
+##### Artikel 18. Bijstand in de vorm van personeel en materieel
 
 1. De bevoegde diensten van de Verdragsluitende Partijen verlenen elkaar, in het kader van hun bevoegdheden en met inachtneming van hun nationale recht, op verzoek bijstand ten behoeve van de uitvoering van politietaken, voor zover het uitvoeren van een verzoek op grond van het nationale recht niet aan de justitiële autoriteiten is voorbehouden. De bijstand kan plaatsvinden door de terbeschikkingstelling van personeel en/of materieel.
 
@@ -292,7 +314,7 @@ Elke Verdragsluitende Partij duidt hiertoe één of meerdere nationale contactpu
 
 6. Bij het ter beschikking stellen van materieel gaat een verzamelstaat, overeenkomstig het door de bevoegde diensten vastgestelde model. Deze verzamelstaat wordt door de ambtenaren van de verstrekkende Verdragsluitende Partij desgevraagd voorgelegd aan de bevoegde diensten en autoriteiten van de ontvangende Verdragsluitende Partij. Bij het leveren van materieel staat de verstrekkende Verdragsluitende Partij in voor de noodzakelijke opleiding en toelichting ten behoeve van het gebruik van het materieel.
 
-#### Artikel 19. Optreden op eigen initiatief
+##### Artikel 19. Optreden op eigen initiatief
 
 1. Indien het vanwege de spoedeisendheid van de situatie noodzakelijk is om op te treden op het grondgebied van een andere Verdragsluitende Partij, kunnen de ambtenaren van de zendstaat dit optreden in de grensstreek aanvangen zonder voorafgaand verzoek.
 
@@ -304,7 +326,7 @@ Elke Verdragsluitende Partij duidt hiertoe één of meerdere nationale contactpu
 
 5. Indien er zich tijdens een grensoverschrijdend optreden of een grensoverschrijdende aanwezigheid een spoedeisende situatie als bedoeld in het tweede lid voordoet, kan de ambtenaar van de zendstaat overeenkomstig dit artikel optreden op het grondgebied van de gaststaat, ook buiten de grensstreek, op voorwaarde dat dit onmiddellijk gemeld wordt aan de bevoegde diensten van de gaststaat.
 
-#### Artikel 20. Gemengde patrouilles en gemeenschappelijke controles
+##### Artikel 20. Gemengde patrouilles en gemeenschappelijke controles
 
 1. De bevoegde diensten van de Verdragsluitende Partijen kunnen in het kader van hun bevoegdheden gemengde patrouilles en gemeenschappelijke controles instellen, waaraan ambtenaren van meerdere Verdragsluitende Partijen meewerken.
 
@@ -312,7 +334,7 @@ Elke Verdragsluitende Partij duidt hiertoe één of meerdere nationale contactpu
 
 3. De bevoegde diensten van de Verdragsluitende Partijen die zijn belast met de uitvoering van gemengde patrouilles en gemeenschappelijke controles maken praktische afspraken over de wijze van uitvoering daarvan.
 
-#### Artikel 21. Grensoverschrijdende achtervolging
+##### Artikel 21. Grensoverschrijdende achtervolging
 
 1. Ambtenaren van een Verdragsluitende Partij die in hun eigen land een persoon achtervolgen, kunnen de achtervolging op het grondgebied van een andere Verdragsluitende Partij zonder voorafgaande toestemming van laatstgenoemde Verdragsluitende Partij over de grens voortzetten zonder enige in afstand noch in tijd uitgedrukte beperking, wanneer de bevoegde diensten van de gaststaat wegens het spoedeisende karakter van het optreden niet vooraf kunnen worden gewaarschuwd of deze niet tijdig ter plaatse kunnen zijn om de achtervolging over te nemen.
 
@@ -334,7 +356,7 @@ Deze persoon wordt uiterlijk zes uren na het begin van deze vasthouding – de u
 
 4. De bevoegde autoriteiten en diensten van de Verdragsluitende Partijen stellen door middel van uitvoeringsafspraken nadere richtlijnen vast omtrent de wijze waarop grensoverschrijdende achtervolgingen op hun grondgebied dienen uitgevoerd te worden.
 
-#### Artikel 22. Grensoverschrijdende observatie
+##### Artikel 22. Grensoverschrijdende observatie
 
 1. Ambtenaren van een Verdragsluitende Partij die in hun eigen land een persoon observeren, kunnen de observatie voortzetten op het grondgebied van een andere Verdragsluitende Partij, indien laatstgenoemde Verdragsluitende Partij daartoe toestemming heeft gegeven op basis van een van tevoren ingediend met redenen omkleed rechtshulpverzoek, en indien de observatie:
 
@@ -368,7 +390,7 @@ Deze persoon wordt uiterlijk zes uren na het begin van deze vasthouding – de u
 
 9. De ambtenaren van de zendstaat mogen tijdens de grensoverschrijdende observatie technische hulpmiddelen gebruiken, voor zover zij daartoe van de gaststaat toestemming hebben gekregen.
 
-#### Artikel 23. Grensoverschrijdende opsporing
+##### Artikel 23. Grensoverschrijdende opsporing
 
 1. Indien zulks in het kader van de opsporing van strafbare feiten nodig wordt geacht door de zendstaat, kunnen ambtenaren van de zendstaat opsporingshandelingen verrichten op het grondgebied van een andere Verdragsluitende Partij. Het gaat daarbij enkel om opsporingshandelingen die de bevoegde ambtenaren van de gaststaat conform het daar van toepassing zijnde nationale recht zonder nadere opdracht of toestemming van justitiële autoriteiten kunnen uitoefenen.
 
@@ -380,7 +402,7 @@ Deze persoon wordt uiterlijk zes uren na het begin van deze vasthouding – de u
 
 5. De ambtenaren van de zendstaat maken van de verrichte opsporingshandelingen een verslag op in de door de wetgeving van de gaststaat vereiste taal. In voorkomend geval maakt de begeleidende ambtenaar van de gaststaat van zijn aanwezigheid bij de uitvoering van de opsporingshandelingen een afzonderlijk verslag op, ter attentie van de bevoegde diensten van de zendstaat.
 
-#### Artikel 24. Uitvoering van grensoverschrijdende opsporing
+##### Artikel 24. Uitvoering van grensoverschrijdende opsporing
 
 1. Een schriftelijk verzoek om op te treden overeenkomstig [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=3&artikel=23&z=2023-10-01&g=2023-10-01) van dit Verdrag wordt door de verzoekende Verdragsluitende Partij tijdig aan de aangezochte Verdragsluitende Partij gericht. De aangezochte Verdragsluitende Partij reageert binnen een termijn van 48 uur of, in geval van spoed, zo snel mogelijk.
 
@@ -392,7 +414,7 @@ Deze persoon wordt uiterlijk zes uren na het begin van deze vasthouding – de u
 
 5. De bevoegde dienst waartoe de ambtenaren van de zendstraat behoren, draagt er zorg voor dat zij in voldoende mate bekend zijn met het recht van de gaststaat.
 
-#### Artikel 25. Grensoverschrijdend vervoer en begeleiding van personen en goederen
+##### Artikel 25. Grensoverschrijdend vervoer en begeleiding van personen en goederen
 
 1. De ambtenaren van een Verdragsluitende Partij kunnen hun opdrachten met betrekking tot het vervoer en de begeleiding van personen of goederen, aanvangen of voortzetten op het grondgebied van een andere Verdragsluitende Partij, mits daarvoor voorafgaande toestemming van de bevoegde autoriteit of dienst van de gaststaat is verkregen.
 
@@ -406,7 +428,7 @@ Indien de bevoegde autoriteit of dienst van de gaststaat geen toestemming verlee
 
 5. Indien de bevoegde diensten van de Verdragsluitende Partijen van oordeel zijn dat een opdracht als bedoeld in het eerste lid, in een concreet geval een verhoogd risico inhoudt voor de veiligheid van personen of goederen op het grondgebied van de gaststaat, maken zij praktische afspraken over de voorwaarden waaronder dit vervoer en de begeleiding kunnen plaatsvinden en over de eventuele ondersteuning daarbij door de gaststaat.
 
-#### Artikel 26. Optreden op internationale treinen en schepen
+##### Artikel 26. Optreden op internationale treinen en schepen
 
 1. Voor de uitoefening van opdrachten die ambtenaren van een Verdragsluitende Partij op basis van hun nationale recht uitvoeren op de op het eigen grondgebied gelegen trajecten van internationale treinen of schepen, is het hen toegestaan op het grondgebied van een andere Verdragsluitende Partij in te stappen of er na het beëindigen van de opdracht uit te stappen, onder de voorwaarde dat de grensoverschrijding uiterlijk bij het overschrijden van de grens wordt gemeld aan de bevoegde dienst van de gaststaat.
 
@@ -418,7 +440,7 @@ Indien de bevoegde autoriteit of dienst van de gaststaat geen toestemming verlee
 
 ## TITEL 4. ANDERE VORMEN VAN SAMENWERKING
 
-#### Artikel 27. Verbindingsofficieren
+##### Artikel 27. Verbindingsofficieren
 
 1. De Verdragsluitende Partijen kunnen, in onderlinge overeenstemming, verbindingsofficieren bij elkaar plaatsen.
 
@@ -434,17 +456,17 @@ Indien de bevoegde autoriteit of dienst van de gaststaat geen toestemming verlee
 
 - e. de bescherming van personen en goederen.
 
-#### Artikel 28. Gemeenschappelijk gebruik van verbindingsofficieren
+##### Artikel 28. Gemeenschappelijk gebruik van verbindingsofficieren
 
 1. De Verdragsluitende Partijen verbinden zich tot het verstevigen van de samenwerking door het gemeenschappelijk gebruik van verbindingsofficieren die de Verdragsluitende Partijen vertegenwoordigen in derde landen of bij internationale organisaties.
 
 2. De modaliteiten van de in het eerste lid bedoelde samenwerking worden door de bevoegde autoriteiten of diensten geregeld door middel van uitvoeringsafspraken.
 
-#### Artikel 29. Gezamenlijke mechanismen voor analyse en evaluatie
+##### Artikel 29. Gezamenlijke mechanismen voor analyse en evaluatie
 
 De Verdragsluitende Partijen kunnen gezamenlijk mechanismen ontwikkelen om misdaadfenomenen, alsook andere bedreigingen voor de openbare orde en veiligheid, te analyseren en te evalueren.
 
-#### Artikel 30. Gemeenschappelijke politiecentra
+##### Artikel 30. Gemeenschappelijke politiecentra
 
 1. De Verdragsluitende Partijen kunnen, in voorkomend geval samen met één of meerdere buurlanden, gemeenschappelijke politiecentra inrichten.
 
@@ -452,7 +474,7 @@ De Verdragsluitende Partijen kunnen gezamenlijk mechanismen ontwikkelen om misda
 
 3. De modaliteiten van deze samenwerking worden tussen de Verdragsluitende Partijen door de bevoegde autoriteiten of diensten geregeld door middel van uitvoeringsafspraken.
 
-#### Artikel 31. Opleiding, middelen en materieel
+##### Artikel 31. Opleiding, middelen en materieel
 
 1. De bevoegde diensten van de Verdragsluitende Partijen kunnen elkaar ook ondersteunen door:
 
@@ -474,11 +496,11 @@ De Verdragsluitende Partijen kunnen gezamenlijk mechanismen ontwikkelen om misda
 
 2. De modaliteiten van deze samenwerking kunnen door de bevoegde diensten geregeld worden door middel van uitvoeringsafspraken.
 
-#### Artikel 32. Overpad en doortocht
+##### Artikel 32. Overpad en doortocht
 
 De ambtenaar is bevoegd om zich in de uitvoering van zijn politietaken of in het kader van een politieopleiding, met zijn vervoermiddelen en uitrusting, inclusief de overeenkomstig [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=5&artikel=39&z=2023-10-01&g=2023-10-01) van dit Verdrag toegestane bewapening en munitie, over het grondgebied van een Verdragsluitende Partij te bewegen om het eigen grondgebied of het grondgebied van een andere lidstaat van de Europese Unie langs de snelst mogelijke weg te bereiken.
 
-#### Artikel 33. Verzoeken om veiligstelling van sporen of bewijsmateriaal in spoedeisende zaken
+##### Artikel 33. Verzoeken om veiligstelling van sporen of bewijsmateriaal in spoedeisende zaken
 
 1. Indien de afname van bloed of ander materiaal aan of in het lichaam van een levende of overleden persoon noodzakelijk is om sporen of bewijsmateriaal van een strafbaar feit te verkrijgen, deze persoon zich op het grondgebied van een andere Verdragsluitende Partij bevindt, en er een reëel risico bestaat dat deze sporen of dit bewijsmateriaal verloren zouden gaan indien de onderzoeksmaatregel slechts na ontvangst van een Europees onderzoeksbevel of een verzoek om wederzijdse rechtshulp in strafzaken zou worden uitgevoerd, kunnen de bevoegde diensten van de Verdragsluitende Partij op wier grondgebied deze persoon zich bevindt, op verzoek van de bevoegde diensten van een andere Verdragsluitende Partij die het onderzoek naar het strafbare feit voeren, deze onderzoeksmaatregel uitvoeren of laten uitvoeren.
 
@@ -490,7 +512,7 @@ De ambtenaar is bevoegd om zich in de uitvoering van zijn politietaken of in het
 
 ## TITEL 5. BEVOEGDHEDEN
 
-#### Artikel 34. Gezag
+##### Artikel 34. Gezag
 
 1. De ambtenaar van de zendstaat staat tijdens een grensoverschrijdend optreden of een grensoverschrijdende aanwezigheid onder het gezag van de bevoegde autoriteiten van de gaststaat.
 
@@ -498,13 +520,13 @@ De ambtenaar is bevoegd om zich in de uitvoering van zijn politietaken of in het
 
 3. Onverminderd het bepaalde in het eerste en tweede lid, blijven tijdens een grensoverschrijdend optreden de hiërarchische relaties tussen de betrokken ambtenaren van de zendstaat onderling, en met hun leidinggevenden in de zendstaat, onverkort van kracht.
 
-#### Artikel 35. Verdragsgrondslag voor de bevoegdheden van de ambtenaren van de zendstaat
+##### Artikel 35. Verdragsgrondslag voor de bevoegdheden van de ambtenaren van de zendstaat
 
 1. Ambtenaren van een Verdragsluitende Partij die zich in het kader van de samenwerking uit hoofde van dit Verdrag op het grondgebied van een andere Verdragsluitende Partij bevinden, beschikken ter plaatse enkel over de bevoegdheden die hen door dit Verdrag of door het nationale recht van de gaststaat zijn toegekend, met dien verstande dat zij geen bevoegdheden uitoefenen die hen in het eigen nationale recht niet zijn toegekend. Deze bevoegdheden worden uitgeoefend overeenkomstig het nationale recht van de gaststaat.
 
 2. De Verdragsluitende Partijen brengen elkaar op de hoogte van de voorwaarden die het nationale recht aan het uitoefenen van de in dit Verdrag of het nationale recht toegekende bevoegdheden stelt.
 
-#### Artikel 36. Algemene bevoegdheden
+##### Artikel 36. Algemene bevoegdheden
 
 1. De ambtenaar van de zendstaat is bij zijn optreden op grond van de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=3&artikel=18&z=2023-10-01&g=2023-10-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=3&artikel=20&z=2023-10-01&g=2023-10-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=3&artikel=21&z=2023-10-01&g=2023-10-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=3&artikel=25&z=2023-10-01&g=2023-10-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=3&artikel=26&z=2023-10-01&g=2023-10-01) van dit Verdrag, voor zover dat noodzakelijk is voor de uitvoering van zijn taak, bevoegd om over te gaan tot:
 
@@ -518,7 +540,7 @@ De ambtenaar is bevoegd om zich in de uitvoering van zijn politietaken of in het
 
 2. Vastgehouden personen en veiliggestelde voorwerpen worden onverwijld overgedragen aan een bevoegde ambtenaar van de gaststaat, waarbij door de ambtenaar van de zendstaat mededeling wordt gedaan van de redenen en omstandigheden van de vasthouding of veiligstelling.
 
-#### Artikel 37. Bevoegdheden ter handhaving van de openbare orde en veiligheid
+##### Artikel 37. Bevoegdheden ter handhaving van de openbare orde en veiligheid
 
 De ambtenaar van de zendstaat is bij zijn optreden op grond van de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=3&artikel=18&z=2023-10-01&g=2023-10-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=3&artikel=20&z=2023-10-01&g=2023-10-01) van dit Verdrag, in aanvulling op het bepaalde in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=5&artikel=36&z=2023-10-01&g=2023-10-01), bevoegd om ter handhaving van de openbare orde en veiligheid:
 
@@ -536,11 +558,11 @@ De ambtenaar van de zendstaat is bij zijn optreden op grond van de [artikelen 18
 
 - g. begeleidingen uit te voeren van en ononderbroken toezicht te houden op een groep van personen, en de groep of leden daarvan zo nodig aan te spreken op hun gedragingen en te wijzen op hun verantwoordelijkheid en aansprakelijkheid voor de mogelijke gevolgen van die gedragingen.
 
-#### Artikel 38. Bevoegdheden in spoedeisende situaties
+##### Artikel 38. Bevoegdheden in spoedeisende situaties
 
 De ambtenaar van de zendstaat die optreedt op grond van [artikel 19, eerste of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=3&artikel=19&z=2023-10-01&g=2023-10-01), van dit Verdrag, is bevoegd om ter afwending van een acuut gevaar voor lijf, leden, goederen of gezondheid met inachtneming van het recht van de gaststaat, de nodige voorlopige maatregelen te treffen, die geen uitstel dulden, met dien verstande dat hij nooit maatregelen mag treffen die hij in vergelijkbare omstandigheden niet zou mogen treffen in de zendstaat.
 
-#### Artikel 39. Vervoeren en dragen van wapens en munitie
+##### Artikel 39. Vervoeren en dragen van wapens en munitie
 
 1. Tijdens een grensoverschrijdend optreden of een grensoverschrijdende aanwezigheid, mogen de ambtenaren van de zendstaat de tot hun uitrusting in de zendstaat behorende wapens en munitie vervoeren en dragen, mits deze vervoerd en gedragen mogen worden door de ambtenaren van de gaststaat.
 
@@ -550,7 +572,7 @@ De ambtenaar van de zendstaat die optreedt op grond van [artikel 19, eerste of v
 
 4. De Verdragsluitende Partijen brengen elkaar op de hoogte van de aard van de toegestane wapens en munitie en van de voorwaarden waaronder deze mogen worden vervoerd, gedragen en gebruikt.
 
-#### Artikel 40. Gebruik van dwang en geweld
+##### Artikel 40. Gebruik van dwang en geweld
 
 1. Het is de ambtenaar van de zendstaat toegestaan om bij het uitoefenen van de hem toegekende bevoegdheden, bedoeld in de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=5&artikel=36&z=2023-10-01&g=2023-10-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=5&artikel=37&z=2023-10-01&g=2023-10-01) en [38](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=5&artikel=38&z=2023-10-01&g=2023-10-01) van dit Verdrag, en met inachtneming van [artikel 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=5&artikel=34&z=2023-10-01&g=2023-10-01), en [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=5&artikel=35&z=2023-10-01&g=2023-10-01), dwang of geweld uit te oefenen, voor zover dat redelijkerwijs noodzakelijk is voor de uitvoering van zijn taak.
 
@@ -564,7 +586,7 @@ De ambtenaar van de zendstaat die optreedt op grond van [artikel 19, eerste of v
 
 6. De ambtenaar van de zendstaat die dwang of geweld heeft gebruikt, of diens operationele leidinggevende, meldt de feiten en omstandigheden dienaangaande, alsmede de gevolgen hiervan, onverwijld aan de bevoegde autoriteit van de gaststaat, indien en voor zover het recht van de gaststaat een dergelijke verplichting aan zijn eigen ambtenaren oplegt.
 
-#### Artikel 41. Bevoegdheid inzake vrijheidsberoving en inbeslagname bij begeleiding, transporten en overpad
+##### Artikel 41. Bevoegdheid inzake vrijheidsberoving en inbeslagname bij begeleiding, transporten en overpad
 
 1. De vrijheidsberoving van personen die vervoerd of begeleid worden op basis van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=5&artikel=35&z=2023-10-01&g=2023-10-01) van dit Verdrag mag door de ambtenaren van de zendstaat gedurende de volledige duur van het transport verdergezet worden op grond van de titel op basis waarvan deze personen van hun vrijheid werden beroofd in het land waar de begeleiding of het vervoer wordt aangevat. Indien de betrokken personen niet reeds van hun vrijheid werden beroofd, kunnen de ambtenaren van de zendstaat hen bij de aanvang van het optreden van hun vrijheid beroven en deze vrijheidsberoving gedurende de volledige duur van het transport verderzetten op grond van een in het land van bestemming geldige titel voor vrijheidsberoving.
 
@@ -576,19 +598,19 @@ De ambtenaar van de zendstaat die optreedt op grond van [artikel 19, eerste of v
 
 5. De in het eerste en tweede lid bedoelde vrijheidsberoving wordt uitgevoerd overeenkomstig het nationale recht van de Verdragsluitende Partij op wier nationale recht de vrijheidsberoving tijdens de begeleiding of het vervoer gebaseerd is.
 
-#### Artikel 42. Gebruik van voertuigen
+##### Artikel 42. Gebruik van voertuigen
 
 De ambtenaar kan tijdens een grensoverschrijdend optreden of een grensoverschrijdende aanwezigheid gebruik maken van vervoermiddelen.
 
 Tijdens een grensoverschrijdend optreden of een grensoverschrijdende aanwezigheid is het toegestaan om, indien noodzakelijk, gebruik te maken van optische en geluidssignalen, overeenkomstig het recht van de gaststaat.
 
-#### Artikel 43. Identificatie
+##### Artikel 43. Identificatie
 
 1. De ambtenaar van de zendstaat is te allen tijde in staat zijn officiële functie aan te tonen, door middel van het legitimatiebewijs dat aan hem is verstrekt in de zendstaat.
 
 2. Indien de identiteit van de ambtenaar in de zendstaat wordt afgeschermd in het kader van de uitvoering van zijn politietaken, zorgt de gaststaat ervoor dat zijn identiteit niet onthuld wordt als gevolg van zijn grensoverschrijdend optreden of zijn grensoverschrijdende aanwezigheid, onverminderd de regelgeving die in de gaststaat geldt in geval van strafrechtelijke vervolging.
 
-#### Artikel 44. Uiterlijke herkenbaarheid
+##### Artikel 44. Uiterlijke herkenbaarheid
 
 1. De ambtenaar van de zendstaat, die optreedt overeenkomstig dit Verdrag, is door het dragen van een uniform of armband als zodanig uiterlijk herkenbaar.
 
@@ -598,13 +620,13 @@ Tijdens een grensoverschrijdend optreden of een grensoverschrijdende aanwezighei
 
 4. In onderling overleg tussen de bevoegde diensten van de betrokken Verdragsluitende Partijen kan worden afgeweken van het eerste en tweede lid voor het vervoer en de begeleiding van personen en goederen in het kader van de toepassing van[artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=3&artikel=25&z=2023-10-01&g=2023-10-01) van dit Verdrag. Voor het vervoer en de begeleiding van personen in het kader van de toepassing van de vreemdelingenwetgeving wordt deze mogelijkheid nader bepaald in de uitvoeringsovereenkomst bedoeld in artikel 25, vierde lid.
 
-#### Artikel 45. Overname en beëindiging
+##### Artikel 45. Overname en beëindiging
 
 1. De bevoegde diensten van de gaststaat kunnen bepalen dat zij het grensoverschrijdend optreden overnemen of verderzetten samen met ambtenaren van de zendstaat.
 
 2. Het grensoverschrijdend optreden wordt beëindigd, zodra de bevoegde diensten van de gaststaat zulks te kennen geven.
 
-#### Artikel 46. Verslag
+##### Artikel 46. Verslag
 
 1. De bevoegde diensten van de zendstaat doen na elk grensoverschrijdend optreden verslag van dit optreden aan de bevoegde autoriteiten van de gaststaat via de bevoegde diensten van de gaststaat. De persoonlijke verschijning van de ambtenaren van de zendstaat kan door de gaststaat worden verlangd.
 
@@ -612,11 +634,11 @@ Tijdens een grensoverschrijdend optreden of een grensoverschrijdende aanwezighei
 
 3. De bevoegde diensten van de Verdragsluitende Partijen maken over de wijze van verslaglegging nadere praktische afspraken.
 
-#### Artikel 47. Hulpverleningsclausule
+##### Artikel 47. Hulpverleningsclausule
 
 Een Verdragsluitende Partij is jegens de ambtenaren van de andere Verdragsluitende Partij tijdens een grensoverschrijdend optreden of een grensoverschrijdende aanwezigheid verplicht tot dezelfde bescherming en hulpverlening als jegens de eigen ambtenaren.
 
-#### Artikel 48. Burgerrechtelijke aansprakelijkheid
+##### Artikel 48. Burgerrechtelijke aansprakelijkheid
 
 1. Bij een grensoverschrijdend optreden, met uitzondering van het in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=3&artikel=18&z=2023-10-01&g=2023-10-01) van dit Verdrag bedoelde geval, of een grensoverschrijdende aanwezigheid op het grondgebied van een andere Verdragsluitende Partij, is de zendstaat overeenkomstig het recht van de gaststaat aansprakelijk voor de schade die zijn ambtenaren aldaar tijdens hun optreden of hun aanwezigheid veroorzaken.
 
@@ -630,15 +652,15 @@ Een Verdragsluitende Partij is jegens de ambtenaren van de andere Verdragsluiten
 
 6. Onder voorbehoud van de uitoefening van hun rechten tegenover derden en met uitzondering van het bepaalde in het derde lid, zien de Verdragsluitende Partijen, in het geval bedoeld in het eerste lid, ervan af het bedrag van de door hen geleden schade op elkaar te verhalen.
 
-#### Artikel 49. Strafrechtelijke aansprakelijkheid
+##### Artikel 49. Strafrechtelijke aansprakelijkheid
 
 Tijdens een grensoverschrijdend optreden of een grensoverschrijdende aanwezigheid worden de ambtenaren van de zendstaat met ambtenaren van de gaststaat gelijkgesteld, voor wat betreft de strafbare feiten die tegen of door hen mochten worden begaan.
 
-#### Artikel 50. Arbeidsrelatie
+##### Artikel 50. Arbeidsrelatie
 
 De rechten en verplichtingen die voortvloeien uit de arbeidsrelatie van de ambtenaar in de zendstaat, blijven tijdens het grensoverschrijdend optreden of de grensoverschrijdende aanwezigheid onverkort van kracht. Hieronder worden mede verstaan de rechten en verplichtingen op het gebied van burgerrechtelijke aansprakelijkheid.
 
-#### Artikel 51. Kosten
+##### Artikel 51. Kosten
 
 Elke Verdragsluitende Partij draagt de kosten die voor haar overheden uit de toepassing van dit Verdrag voortvloeien.
 
@@ -646,11 +668,11 @@ In bijzondere gevallen kunnen de bevoegde diensten van de betrokken Verdragsluit
 
 ## TITEL 6. GRENSOVERSCHRIJDEND OPTREDEN VAN SPECIALE EENHEDEN
 
-#### Artikel 52. Toepassingsgebied
+##### Artikel 52. Toepassingsgebied
 
 Deze titel regelt het optreden van de speciale eenheden van de Verdragsluitende Partijen op elkaars grondgebied. De[titels 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=3&z=2023-10-01&g=2023-10-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=4&z=2023-10-01&g=2023-10-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=5&z=2023-10-01&g=2023-10-01) van dit Verdrag zijn niet van toepassing op dit optreden, tenzij de betreffende artikelen van deze titels van overeenkomstige toepassing zijn verklaard in onderhavige titel.
 
-#### Artikel 53. Bijstand in crisissituaties
+##### Artikel 53. Bijstand in crisissituaties
 
 1. De speciale eenheden van de Verdragsluitende Partijen kunnen elkaar, met instemming van de bevoegde autoriteiten van de verzoekende Verdragsluitende Partij, op verzoek bijstand verlenen in een crisissituatie, wanneer de middelen van de speciale eenheden van de verzoekende Verdragsluitende Partij ontoereikend of niet inzetbaar zijn of door de bijstand door speciale eenheden van de aangezochte Verdragsluitende Partij vertraging kan worden vermeden die het beëindigen van de crisissituatie zou bemoeilijken.
 
@@ -674,19 +696,19 @@ Deze titel regelt het optreden van de speciale eenheden van de Verdragsluitende 
 
 11. Bij het ter beschikking stellen van materieel gaat een verzamelstaat, overeenkomstig het door de speciale eenheden vastgestelde model. Deze verzamelstaat wordt door de leden van de speciale eenheden van de verstrekkende Verdragsluitende Partij desgevraagd voorgelegd aan de speciale eenheden, de bevoegde diensten en de bevoegde autoriteiten van de ontvangende Verdragsluitende Partij.
 
-#### Artikel 54. Bijstand buiten crisissituaties
+##### Artikel 54. Bijstand buiten crisissituaties
 
 1. De speciale eenheden van de Verdragsluitende Partijen kunnen elkaar op verzoek ook bijstand verlenen in andere dan de in het tweede lid van [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=6&artikel=53&z=2023-10-01&g=2023-10-01) van dit Verdrag bedoelde situaties, mits de voorwaarden en procedures bepaald in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=3&artikel=18&z=2023-10-01&g=2023-10-01) van dit Verdrag in acht worden genomen.
 
 2. De bepalingen van de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=5&artikel=34&z=2023-10-01&g=2023-10-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=5&artikel=35&z=2023-10-01&g=2023-10-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=5&artikel=36&z=2023-10-01&g=2023-10-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=5&artikel=37&z=2023-10-01&g=2023-10-01), [38](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=5&artikel=38&z=2023-10-01&g=2023-10-01), [42](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=5&artikel=42&z=2023-10-01&g=2023-10-01), [43](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=5&artikel=43&z=2023-10-01&g=2023-10-01), [44](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=5&artikel=44&z=2023-10-01&g=2023-10-01), [45](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=5&artikel=45&z=2023-10-01&g=2023-10-01), [46](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=5&artikel=46&z=2023-10-01&g=2023-10-01), [47](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=5&artikel=47&z=2023-10-01&g=2023-10-01), [49](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=5&artikel=49&z=2023-10-01&g=2023-10-01), [50](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=5&artikel=50&z=2023-10-01&g=2023-10-01) en [51](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=5&artikel=51&z=2023-10-01&g=2023-10-01) van dit Verdrag zijn van overeenkomstige toepassing op een grensoverschrijdend optreden als bedoeld in het eerste lid van onderhavig artikel.
 
-#### Artikel 55. Grensoverschrijdende achtervolging
+##### Artikel 55. Grensoverschrijdende achtervolging
 
 1. De speciale eenheden van de Verdragsluitende Partijen die in hun eigen land een persoon achtervolgen, kunnen de achtervolging op het grondgebied van een andere Verdragsluitende Partij zonder voorafgaande toestemming van laatstgenoemde Verdragsluitende Partij over de grens voortzetten, mits de voorwaarden en procedures bepaald in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=3&artikel=21&z=2023-10-01&g=2023-10-01) van dit Verdrag in acht worden genomen.
 
 2. De bepalingen van de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=5&artikel=34&z=2023-10-01&g=2023-10-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=5&artikel=35&z=2023-10-01&g=2023-10-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=5&artikel=36&z=2023-10-01&g=2023-10-01), [38](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=5&artikel=38&z=2023-10-01&g=2023-10-01), [42](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=5&artikel=42&z=2023-10-01&g=2023-10-01), [43](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=5&artikel=43&z=2023-10-01&g=2023-10-01), [44](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=5&artikel=44&z=2023-10-01&g=2023-10-01), [45](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=5&artikel=45&z=2023-10-01&g=2023-10-01), [46](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=5&artikel=46&z=2023-10-01&g=2023-10-01), [47](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=5&artikel=47&z=2023-10-01&g=2023-10-01), [49](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=5&artikel=49&z=2023-10-01&g=2023-10-01), [50](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=5&artikel=50&z=2023-10-01&g=2023-10-01) en [51](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=5&artikel=51&z=2023-10-01&g=2023-10-01) van dit Verdrag zijn van overeenkomstige toepassing op een grensoverschrijdend optreden als bedoeld in het eerste lid van onderhavig artikel.
 
-#### Artikel 56. Opleidingen en oefeningen
+##### Artikel 56. Opleidingen en oefeningen
 
 1. De bepalingen van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=4&artikel=31&z=2023-10-01&g=2023-10-01) van dit Verdrag zijn van overeenkomstige toepassing op de speciale eenheden van de Verdragsluitende Partijen.
 
@@ -694,7 +716,7 @@ Deze titel regelt het optreden van de speciale eenheden van de Verdragsluitende 
 
 3. De Verdragsluitende Partijen zien erop toe dat hun speciale eenheden gezamenlijke oefeningen organiseren met het oog op het verlenen van bijstand als bedoeld in de [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=6&artikel=53&z=2023-10-01&g=2023-10-01) en [54](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=6&artikel=54&z=2023-10-01&g=2023-10-01) van dit Verdrag.
 
-#### Artikel 57. Overige vormen van grensoverschrijdend optreden en grensoverschrijdende aanwezigheid
+##### Artikel 57. Overige vormen van grensoverschrijdend optreden en grensoverschrijdende aanwezigheid
 
 1. De bepalingen van de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=3&artikel=19&z=2023-10-01&g=2023-10-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=3&artikel=20&z=2023-10-01&g=2023-10-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=3&artikel=22&z=2023-10-01&g=2023-10-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=3&artikel=23&z=2023-10-01&g=2023-10-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=3&artikel=24&z=2023-10-01&g=2023-10-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=3&artikel=25&z=2023-10-01&g=2023-10-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=3&artikel=26&z=2023-10-01&g=2023-10-01) en [32](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=4&artikel=32&z=2023-10-01&g=2023-10-01) van dit Verdrag zijn eveneens van toepassing op de speciale eenheden, indien deze deel uitmaken van de bevoegde diensten genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&bijlage=1&z=2023-10-01&g=2023-10-01) van dit Verdrag of optreden onder het bevel van deze laatste.
 
@@ -702,19 +724,19 @@ Deze titel regelt het optreden van de speciale eenheden van de Verdragsluitende 
 
 3. De bepalingen van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=5&artikel=36&z=2023-10-01&g=2023-10-01) van dit Verdrag zijn van toepassing op de leden van de speciale eenheden die een grensoverschrijdende observatie als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=3&artikel=22&z=2023-10-01&g=2023-10-01) van dit Verdrag uitvoeren.
 
-#### Artikel 58. Vervoeren en dragen van wapens en munitie
+##### Artikel 58. Vervoeren en dragen van wapens en munitie
 
 1. Tijdens een optreden of een aanwezigheid als bedoeld in de artikelen 53 tot en met 57 van dit Verdrag, mogen de betrokken leden van de speciale eenheden de wapens en munitie die in hun eigen land tot hun uitrusting behoren, vervoeren en dragen, mits deze vervoerd en gedragen mogen worden door de leden van de speciale eenheden van de Verdragsluitende Partij op wier grondgebied ze optreden of aanwezig zijn.
 
 2. Tijdens een optreden of een aanwezigheid van leden van de speciale eenheden als bedoeld in de artikelen 53 tot en met 57 van dit Verdrag, zijn de bepalingen van [artikel 39, tweede](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=5&artikel=39&z=2023-10-01&g=2023-10-01) tot en met vierde lid, van overeenkomstige toepassing.
 
-#### Artikel 59. Gebruik van dwang en geweld
+##### Artikel 59. Gebruik van dwang en geweld
 
 1. De bepalingen van [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=5&artikel=40&z=2023-10-01&g=2023-10-01) van dit Verdrag zijn van overeenkomstige toepassing op een optreden of een aanwezigheid van leden van de speciale eenheden als bedoeld in de artikelen 53 tot en met 57 van dit Verdrag.
 
 2. In afwijking van [artikel 40, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=5&artikel=40&z=2023-10-01&g=2023-10-01), van dit Verdrag, mogen leden van de speciale eenheden die in hun eigen land bevoegd zijn om automatische wapens of afstandsprecisievuurwapens te gebruiken, deze wapens tijdens een optreden of een aanwezigheid als bedoeld in de artikelen 53 tot en met 57 van dit Verdrag afvuren onder dezelfde wettelijke voorwaarden als de leden van de speciale eenheden van de Verdragsluitende Partij op wier grondgebied zij zich bevinden.
 
-#### Artikel 60. Burgerrechtelijke en strafrechtelijke aansprakelijkheid
+##### Artikel 60. Burgerrechtelijke en strafrechtelijke aansprakelijkheid
 
 1. Wanneer leden van de speciale eenheden van de aangezochte Verdragsluitende Partij op verzoek optreden als bedoeld in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=6&artikel=53&z=2023-10-01&g=2023-10-01) of [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=6&artikel=54&z=2023-10-01&g=2023-10-01) van dit Verdrag, zijn de bepalingen van artikel 48, vierde en vijfde lid, van overeenkomstige toepassing op dit optreden.
 
@@ -726,13 +748,13 @@ Deze titel regelt het optreden van de speciale eenheden van de Verdragsluitende 
 
 ## TITEL 7. WIJZE VAN TOEPASSING EN SLOTBEPALINGEN
 
-#### Artikel 61. Uitzonderingsclausule
+##### Artikel 61. Uitzonderingsclausule
 
 1. Indien een Verdragsluitende Partij van mening is dat het voldoen aan een verzoek of het uitvoeren of toelaten van een maatregel op grond van dit Verdrag, er toe kan leiden dat de eigen soevereine rechten op zodanige wijze worden aangetast, dat de eigen veiligheid of andere aanzienlijke belangen worden bedreigd of dat inbreuk op het nationale recht wordt gemaakt, kan deze Verdragsluitende Partij de samenwerking op grond van dit Verdrag, met inachtneming van andere internationale samenwerkingsverplichtingen dienaangaande, geheel of gedeeltelijk weigeren of afhankelijk maken van bepaalde voorwaarden.
 
 2. Van een situatie als bedoeld in het eerste lid, wordt onverwijld mededeling gedaan aan de andere Verdragsluitende Partijen, die het aanbelangt, met vermelding van de redenen waarom de samenwerking werd geweigerd of afhankelijk werd gemaakt van voorwaarden. Deze mededeling gebeurt zo veel als mogelijk langs dezelfde weg als waarlangs het verzoek werd ontvangen.
 
-#### Artikel 62. Uitvoeringsovereenkomsten en -afspraken
+##### Artikel 62. Uitvoeringsovereenkomsten en -afspraken
 
 1. De Verdragsluitende Partijen treffen de maatregelen die nodig zijn voor de uitvoering van dit Verdrag.
 
@@ -742,21 +764,21 @@ Deze titel regelt het optreden van de speciale eenheden van de Verdragsluitende 
 
 4. Ten behoeve van de in het tweede lid bedoelde uitvoering van dit Verdrag, kan een ministeriële werkgroep zoals bedoeld in [artikel 10 van het Verdrag tot instelling van de Benelux Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&artikel=10), in voorkomend geval een beschikking vaststellen, zoals bedoeld in [artikel 6, tweede lid, onder a), van dat Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&artikel=6). Deze ministeriële werkgroep bestaat uit de ministers bevoegd voor de behandelde materies in ieder der Verdragsluitende Partijen en neemt besluiten met algemene stemmen.
 
-#### Artikel 63. Geschillenbeslechting
+##### Artikel 63. Geschillenbeslechting
 
 1. Elk geschil betreffende de interpretatie of toepassing van dit Verdrag, zal door een daartoe ingestelde raadgevende commissie worden behandeld. Deze commissie is samengesteld uit vertegenwoordigers van de Verdragsluitende Partijen, aangewezen door de bevoegde ministers. Zij komt bijeen op verzoek van een Verdragsluitende Partij, dan wel indien noodzakelijk, teneinde te proberen een geschil betreffende de interpretatie of de toepassing van dit Verdrag te beslechten.
 
 2. Elk geschil dat niet door de raadgevende commissie kon worden beslecht, wordt langs diplomatieke weg afgehandeld.
 
-#### Artikel 64. Benelux-Gerechtshof
+##### Artikel 64. Benelux-Gerechtshof
 
 Onverminderd het bepaalde in [artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=7&artikel=63&z=2023-10-01&g=2023-10-01) van dit Verdrag, worden de bepalingen van dit Verdrag en van de in het tweede en vierde lid van [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=7&artikel=62&z=2023-10-01&g=2023-10-01) bedoelde instrumenten aangewezen als rechtsregels ten aanzien waarvan het Benelux-Gerechtshof beschikt over de bevoegdheden bedoeld in [artikel 1, tweede lid, onder a) en c), van het Verdrag betreffende de instelling en het statuut van een Benelux-Gerechtshof](https://wetten.overheid.nl/jci1.3:c:BWBV0004117&artikel=1).
 
-#### Artikel 65. Evaluatie
+##### Artikel 65. Evaluatie
 
 Uiterlijk vijf jaren na de inwerkingtreding van dit Verdrag brengen de bevoegde ministers van de Verdragsluitende Partijen een verslag uit aan elkaar over de doeltreffendheid en de effecten van dit Verdrag in de praktijk.
 
-#### Artikel 66. Inwerkingtreding, geldigheidsduur, wijziging en opzegging
+##### Artikel 66. Inwerkingtreding, geldigheidsduur, wijziging en opzegging
 
 1. De secretaris-generaal van de Benelux Unie is depositaris van dit Verdrag, waarvan hij een eensluidend afschrift aan elke Verdragsluitende Partij doet toekomen.
 
@@ -772,7 +794,7 @@ Uiterlijk vijf jaren na de inwerkingtreding van dit Verdrag brengen de bevoegde 
 
 7. Een Verdragsluitende Partij kan, met betrekking tot de gegevens die deze Verdragsluitende Partij betreffen, aan de depositaris wijzigingen notificeren aan de inhoud van bijlagen 1 tot 6 van dit Verdrag. De depositaris geeft hiervan kennis aan de andere Verdragsluitende Partijen.
 
-#### Artikel 67. Territoriaal toepassingsgebied
+##### Artikel 67. Territoriaal toepassingsgebied
 
 Het territoriale toepassingsgebied van dit Verdrag is:
 

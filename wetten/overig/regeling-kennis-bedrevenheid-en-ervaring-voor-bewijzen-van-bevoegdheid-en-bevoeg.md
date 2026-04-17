@@ -1,28 +1,52 @@
 ---
 title: "Regeling kennis, bedrevenheid en ervaring voor bewijzen van bevoegdheid en bevoegdverklaringen"
 identifier: "BWBR0008246"
-categorie: "Overig"
-publicatiedatum: 1998-05-29
-laatste_update: 1998-05-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008246"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1998-05-29"
+last_updated: "1998-05-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008246"
+soort: "ministeriele-regeling"
+stam_id: "4931233"
+version_id: "7988472"
+internal_id: "C9912531"
+label_id: "4909094"
+dtd_version: "2.0"
+original_entry_into_force: "1996-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008246/1998-05-29/0"
+intitule_bron: "Stcrt.1996-187"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-09-23"
+intitule_published: "1996-09-27"
+intitule_in_force: "1996-09-27"
+intitule_status: "goed"
+original_publication: "Stcrt.1996-187"
+original_signed_date: "1996-09-23"
+original_published_date: "1996-09-27"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1996-10-01"
+jci_1_3: "jci1.3:c:BWBR0008246&z=1998-05-29&g=1998-05-29"
+jci_1_0: "1.0:c:BWBR0008246&g=1998-05-29"
+citeertitel_status: "officieel"
+signed_date: "1996-09-23"
+entry_into_force: "1996-10-01"
 ---
-
 # Regeling kennis, bedrevenheid en ervaring voor bewijzen van bevoegdheid en bevoegdverklaringen
 
 Gelet op [artikel 23, derde lid, van de Regeling Toezicht Luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&artikel=23);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling en in de bij deze regeling behorende bijlagen wordt verstaan onder:
 
-#### Artikel 2
+##### Artikel 2
 
 De eisen inzake kennis, bedrevenheid en ervaring voor verkrijging van bewijzen van bevoegdheid en bevoegdverklaringen zijn opgenomen in de bij deze regeling behorende bijlagen, genoemd in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008246&artikel=3&z=1998-05-29&g=1998-05-29), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008246&artikel=4&z=1998-05-29&g=1998-05-29) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0008246&artikel=5&z=1998-05-29&g=1998-05-29).
 
-#### Artikel 3
+##### Artikel 3
 
 Voor een bewijs van bevoegdheid voor stuurhutpersoneel gelden de op dat bewijs toepasselijke eisen inzake kennis, bedrevenheid en ervaring in de bijlage of bijlagen volgens onderstaand schema:
 
@@ -43,7 +67,7 @@ Voor een bewijs van bevoegdheid voor stuurhutpersoneel gelden de op dat bewijs t
 |   |   |   |   |
 | Bewijs van bevoegdheid als BOORDWERKTUIGKUNDIGE | 14 | 6/96 | 6/96 |
 
-#### Artikel 4
+##### Artikel 4
 
 Voor een bevoegdverklaring van stuurhutpersoneel gelden de op die bevoegdverklaring toepasselijke eisen inzake kennis, bedrevenheid en ervaring in de bijlage of bijlagen volgens onderstaand schema:
 
@@ -71,7 +95,7 @@ Voor een bevoegdverklaring van stuurhutpersoneel gelden de op die bevoegdverklar
 |   |   |   |   |
 | "TYPE VAN VLIEGTUIG" - vleugelvliegtuigen | 60 | 60 | - |
 
-#### Artikel 5
+##### Artikel 5
 
 Voor een bewijs van bevoegdheid voor grondpersoneel gelden de op dat bewijs van bevoegdheid toepasselijke eisen inzake kennis en ervaring in de bijlage volgens onderstaand schema:
 
@@ -97,7 +121,7 @@ Voor een bewijs van bevoegdheid voor grondpersoneel gelden de op dat bewijs van 
 | ZWEEFVLIEGTECHNICUS C | 77 |
 | - elektronische installaties in zweefvliegtuigen en elektronische installaties in (motor-) zweefvliegtuigen |   |
 
-#### Artikel 6
+##### Artikel 6
 
 1. De volgende besluiten van de directeur-generaal van de Rijksluchtvaartdienst worden ingetrokken:
 
@@ -135,11 +159,11 @@ Voor een bewijs van bevoegdheid voor grondpersoneel gelden de op dat bewijs van 
 
 - f. het besluit van 16 november 1995, nr. LI/95.200313 voor wat betreft de eisen inzake kennis in bijlage 5/1995.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling treedt in werking met ingang van 1 oktober 1996.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling wordt aangehaald als: Regeling kennis, bedrevenheid en ervaring voor bewijzen van bevoegdheid en bevoegdverklaringen.
 

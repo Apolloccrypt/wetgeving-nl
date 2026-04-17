@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst inzake gezamenlijke financiering van bepaalde diensten voor de luchtvaartnavigatie in IJsland"
 identifier: "BWBV0004940"
-categorie: "Milieu"
-publicatiedatum: 1989-11-17
-laatste_update: 1989-11-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004940"
+country: "nl"
+rank: "verdrag"
+publication_date: "1989-11-17"
+last_updated: "1989-11-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004940"
+soort: "verdrag"
+stam_id: "10004395603"
+version_id: "10004599742"
+internal_id: "C10008343331"
+label_id: "10004381224"
+dtd_version: "2.0"
+original_entry_into_force: "1958-06-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004940/1989-11-17/0"
+intitule_bron: "Trb.1957-113"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1957-08-08"
+intitule_in_force: "1958-07-26"
+intitule_status: "goed"
+original_publication: "Trb.1957-113"
+original_published_date: "1957-08-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1957-113"
+entry_into_force_date: "1958-06-06"
+jci_1_3: "jci1.3:c:BWBV0004940&z=1989-11-17&g=1989-11-17"
+jci_1_0: "1.0:c:BWBV0004940&g=1989-11-17"
+citeertitel_status: "redactioneel"
+entry_into_force: "1958-06-06"
 ---
-
 # Overeenkomst inzake gezamenlijke financiering van bepaalde diensten voor de luchtvaartnavigatie in IJsland
 
 De Regeringen van België, Canada, Denemarken, Frankrijk, de Bondsrepubliek Duitsland, IJsland, Israël, Italië, Nederland, Noorwegen, Zweden, Zwitserland, het Verenigd Koninkrijk van Groot-Britannië en Noord-Ierland en de Verenigde Staten van Amerika, welke lid zijn van de Internationale Burgerlijke Luchtvaart Organisatie,
@@ -16,7 +38,7 @@ VERLANGEND overeenkomstig de voorwaarden en met inachtneming van de bepalingen v
 
 ZIJN OVEREENGEKOMEN als volgt:
 
-#### Artikel I
+##### Artikel I
 
 In deze Overeenkomst wordt verstaan onder:
 
@@ -28,11 +50,11 @@ In deze Overeenkomst wordt verstaan onder:
 
 - (d). „Diensten”: de in Bijlage I van deze Overeenkomst omschreven diensten en alle bijkomende diensten die van tijd tot tijd ingevolge deze Overeenkomst verschaft kunnen worden.
 
-#### Artikel II
+##### Artikel II
 
 De Regering van IJsland verschaft, exploiteert en onderhoudt de Diensten en zal in verband met speciale voordelen, voortvloeiende uit de Diensten, vijf procent van de goedgekeurde werkelijke kosten daarvan dragen.
 
-#### Artikel III
+##### Artikel III
 
 1. De Regering van IJsland exploiteert en onderhoudt de Diensten zonder onderbreking, op doelmatige wijze en zo economisch mogelijk en, voor zover uitvoerbaar, overeenkomstig de van toepassing zijnde maatstaven, aanbevolen werkwijzen, procedures en specificaties van de Organisatie.
 
@@ -40,7 +62,7 @@ De Regering van IJsland verschaft, exploiteert en onderhoudt de Diensten en zal 
 
 3. De Regering van IJsland zal de Secretaris-Generaal onmiddellijk kennis geven van enige onvoorziene omstandigheid die enige tijdelijke wijziging of beperking van de Diensten noodzakelijk maakt en die Regering en de Secretaris-Generaal zullen daarop overleg plegen over de maatregelen die genomen moeten worden om enige nadelige invloed van een dergelijke wijziging of beperking tot het minimum te beperken.
 
-#### Artikel IV
+##### Artikel IV
 
 1. De Secretaris-Generaal heeft het algemeen toezicht op de exploitatie van de Diensten en kan te allen tijde maatregelen treffen voor de inspectie van de Diensten, met inbegrip van alle apparatuur of uitrusting die in verband hiermede wordt gebruikt.
 
@@ -50,17 +72,17 @@ De Regering van IJsland verschaft, exploiteert en onderhoudt de Diensten en zal 
 
 4. Ingeval de Regering van IJsland op enigerlei wijze in gebreke blijft enige van de Diensten op doelmatige wijze te exploiteren of te onderhouden, zal er overleg plaats hebben tussen die Regering en de Secretaris-Generaal teneinde tot overeenstemming te komen met betrekking tot de daartegen te nemen maatregelen.
 
-#### Artikel V
+##### Artikel V
 
 De totale kosten van de Diensten, berekend overeenkomstig de Bijlagen II en III van deze Overeenkomst, mogen voor een kalenderjaar een bedrag van 4.321.166 Amerikaanse dollar niet te boven gaan. Deze limiet mag door de Raad verhoogd worden hetzij met toestemming van alle Overeenkomstsluitende Regeringen, hetzij als resultaat van de toepassing van het bepaalde in artikel VI.
 
-#### Artikel VI
+##### Artikel VI
 
 1. Slechts voor het oprichten, exploiteren en onderhouden van diensten waarin overigens ingevolge deze Overeenkomst niet wordt voorzien kan de ingevolge de bepalingen van artikel V vastgestelde limiet worden verhoogd met een bepaald bedrag met toestemming van de Overeenkomstsluitende Regeringen die gezamenlijk verantwoordelijk zijn voor niet minder dan negentig procent van de totale aanslagen, vastgesteld met inachtneming van de bepalingen van de leden 3, 4, 5 en 6 van artikel VII met betrekking tot het laatste kalenderjaar waarvoor aanslagen zijn vastgesteld.
 
 2. Met inachtneming van de bepalingen van artikel II zullen alle uitgaven ingevolge de diensten, genoemd in lid 1 van dit artikel, of alle uitgaven, mogelijk gemaakt ingevolge de bepalingen van lid 2 (**a**) van artikel XIII als gevolg van het opnemen van die diensten in deze Overeenkomst, alleen worden gedragen door de Overeenkomstsluitende Regeringen die hiertoe hun toestemming hebben verleend, in aandelen die tot elkaar in dezelfde relatieve verhouding staan als de aandelen van die Regeringen in de genoemde totale aanslagen voor het betreffende jaar, en geen gedeelte van het Reserve Fonds, genoemd in artikel X, dat niet toewijsbaar is aan die diensten, zal worden gebruikt voor doeleinden voor welke slechts die Regeringen hun toestemming hebben gegeven.
 
-#### Artikel VII
+##### Artikel VII
 
 1. Met inachtneming van het bepaalde in artikel V en artikel VI, tweede lid, komen de Overeenkomstsluitende Regeringen overeen deel te nemen in vijfennegentig procent van de goedgekeurde werkelijke kosten van de Diensten, als bepaald overeenkomstig de bepalingen van artikel VIII, naar verhouding van het nut voor haar luchtvaart dat iedere Overeenkomstsluitende Regering daarvan heeft. Deze verhouding wordt voor elke Overeenkomstsluitende Regering voor elk kalenderjaar bepaald door het aantal vluchten tussen Europa en Noord-Amerika, waarvan een gedeelte ligt ten noorden van de 45ste Noordelijke breedtegraad tussen 15° en 50° Westerlengte, in dat jaar met haar burgerluchtvaartuigen verricht. Daarnaast:
 
@@ -92,7 +114,7 @@ De totale kosten van de Diensten, berekend overeenkomstig de Bijlagen II en III 
 
 10. De Overeenkomstsluitende Regeringen kunnen overeenkomen dat de in het negende lid van dit artikel bedoelde gegevens namens hen door een andere Regering aan de Secretaris-Generaal worden verstrekt.
 
-#### Artikel VIII
+##### Artikel VIII
 
 1. De Regering van IJsland legt op of vóór 15 september van elk jaar aan de Secretaris-Generaal begrotingen over, uitgedrukt in Amerikaanse dollars, van de kosten van de Diensten voor het volgende kalenderjaar. De begrotingen worden opgesteld overeenkomstig artikel III en de Bijlagen II en III van deze Overeenkomst.
 
@@ -104,7 +126,7 @@ De totale kosten van de Diensten, berekend overeenkomstig de Bijlagen II en III 
 
 5. De opgave van de werkelijke kosten, goedgekeurd door de Raad overeenkomstig de bepalingen van lid 4 van dit artikel, zal worden rondgezonden aan de Overeenkomstsluitende Regeringen.
 
-#### Artikel IX
+##### Artikel IX
 
 1. Vijf en negentig procent van de door de Raad goedgekeurde werkelijke kosten voor het verschaffen, exploiteren en onderhouden van de Diensten zal aan de Regering van IJsland worden terugbetaald.
 
@@ -116,13 +138,13 @@ De totale kosten van de Diensten, berekend overeenkomstig de Bijlagen II en III 
 
 5. De kostenramingen, goedgekeurd door de Raad overeenkomstig de bepalingen van lid 2 van dit artikel, zullen aan de Overeenkomstsluitende Regeringen worden rondgezonden.
 
-#### Artikel X
+##### Artikel X
 
 1. De door de Organisatie overeenkomstig de bepalingen van artikel VII van de Overeenkomstsluitende Regeringen ontvangen betalingen zullen, voor zover zij niet van tijd tot tijd ingevolge deze Overeenkomst nodig zijn voor lopende betalingen aan de Regering van IJsland, een Reserve Fonds vormen, dat door de Organisatie voor de doeleinden van deze Overeenkomst zal worden aangewend.
 
 2. De Secretaris-Generaal kan er voor zorgdragen dat het Reserve Fonds voor korte termijn geïnvesteerd wordt. De Organisatie zal recht hebben op de daaruit voortvloeiende interest. Indien deze interest onvoldoende is om de buitengewone uitgaven van de Organisatie te dekken, die uit deze Overeenkomst voortvloeien, zal het overblijvende verschil worden beschouwd als een bijkomend gedeelte van de werkelijke kosten van de Diensten en aan de Organisatie worden terugbetaald uit de door de Overeenkomstsluitende Regeringen gedane betalingen.
 
-#### Artikel XI
+##### Artikel XI
 
 1. De jaarlijkse aanslagen van de Overeenkomstsluitende Regeringen worden uitgedrukt in Amerikaanse dollars.
 
@@ -130,7 +152,7 @@ De totale kosten van de Diensten, berekend overeenkomstig de Bijlagen II en III 
 
 3. De Secretaris-Generaal zal, behoudens dat de buitengewone uitgaven van de Organisatie in Amerikaanse dollars aan deze worden terugbetaald, aan de Regering van IJsland, overeenkomstig de bepalingen, vervat in de artikelen IX en XII, betalingen doen in de valuta waarin de Overeenkomstsluitende Regeringen hun betalingen hebben gedaan aan de Organisatie, voor zover beschikbaar.
 
-#### Artikel XII
+##### Artikel XII
 
 1. De verplichting van de Secretaris-Generaal, ingevolge deze Overeenkomst aan de Regering van IJsland betalingen te doen, zal beperkt zijn tot de bedragen die werkelijk door de Organisatie zijn ontvangen en volgens de bepalingen van deze Overeenkomst beschikbaar zijn.
 
@@ -138,7 +160,7 @@ De totale kosten van de Diensten, berekend overeenkomstig de Bijlagen II en III 
 
 3. Geen Overeenkomstsluitende Regering zal de Organisatie aansprakelijk kunnen stellen wegens het feit dat enige andere Overeenkomstsluitende Regering haar betalingen met betrekking tot deze Overeenkomst niet verricht.
 
-#### Artikel XIII
+##### Artikel XIII
 
 1. De Raad kan, met inachtneming van de bepalingen van artikel V en lid 2 van artikel VI en in overeenstemming met de Regering van IJsland, in deze Overeenkomst nieuwe kapitaalsuitgaven opnemen, die noodzakelijk zijn voor de goede exploitatie van de Diensten.
 
@@ -158,19 +180,19 @@ De totale kosten van de Diensten, berekend overeenkomstig de Bijlagen II en III 
 
 6. Wanneer lid 1, 2 of 5 van dit artikel is toegepast, zal de Raad de Bijlagen van deze Overeenkomst dienovereenkomstig wijzigen.
 
-#### Artikel XIV
+##### Artikel XIV
 
 De Regering van IJsland hanteert een systeem van heffingen aan gebruikers voor de Diensten verschaft aan alle burgerluchtvaartuigen die vluchten maken zoals omschreven in artikel VII. Deze heffingen worden berekend overeenkomstig Bijlage III van deze Overeenkomst. De netto inkomsten uit deze heffingen worden in mindering gebracht op ingevolge de bepalingen van deze Overeenkomst aan de Regering van IJsland verschuldigde betalingen. Behalve met toestemming van de Raad heft de Regering van IJsland geen bijkomende heffingen voor de Diensten, van anderen dan haar eigen onderdanen.
 
-#### Artikel XV
+##### Artikel XV
 
 De Regering van IJsland zal geen enkele internationale regeling treffen voor het verschaffen, de exploitatie, het onderhouden, ontwikkelen of financieren van enige of alle van de Diensten zonder de goedkeuring van de Raad.
 
-#### Artikel XVI
+##### Artikel XVI
 
 De Regering van IJsland zal zoveel mogelijk samenwerken met de vertegenwoordigers van de Organisatie tot verwezenlijking van de doelstellingen van deze Overeenkomst en zal aan die vertegenwoordigers de voorrechten en immuniteiten toekennen waar zij recht op hebben volgens het Algemeen Verdrag nopens de Voorrechten en Immuniteiten van de Gespecialiseerde Organisaties van de Verenigde Naties, met inbegrip van Aanhangsel III (2) daarvan.
 
-#### Artikel XVII
+##### Artikel XVII
 
 De Raad zal een conferentie bijeenroepen van alle belanghebbende Overeenkomstsluitende Regeringen:
 
@@ -180,17 +202,17 @@ De Raad zal een conferentie bijeenroepen van alle belanghebbende Overeenkomstslu
 
 - (c). wanneer de Raad om enige andere reden een dergelijke conferentie noodzakelijk acht.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Elk geschil betreffende de uitlegging of toepassing van deze Overeenkomst of van de Bijlagen daarvan, dat niet door onderhandelingen is beslecht, zal op verzoek van een Overeenkomstsluitende Regering die partij is bij het geschil om advies naar de Raad worden verwezen.
 
-#### Artikel XIX
+##### Artikel XIX
 
 1. Deze Overeenkomst zal tot 1 december 1956 open blijven voor ondertekening door in de preambule genoemde Regeringen.
 
 2. Deze Overeenkomst zal onderworpen zijn aan aanvaarding door de ondertekenende Regeringen. De akten van aanvaarding zullen zo spoedig mogelijk bij de Secretaris-Generaal worden nedergelegd, die alle ondertekenende en toetredende Regeringen in kennis zal stellen van de datum van nederlegging van elke zodanige akte.
 
-#### Artikel XX
+##### Artikel XX
 
 1. Tot deze Overeenkomst kan toetreden de Regering van elke Staat die lid is van de Verenigde Naties of van een daarmede verbonden Gespecialiseerde Organisatie. Toetreding geschiedt door nederlegging van een formele akte bij de Secretaris-Generaal.
 
@@ -198,13 +220,13 @@ Elk geschil betreffende de uitlegging of toepassing van deze Overeenkomst of van
 
 3. Onverminderd de bepalingen van lid 2 van dit artikel kan de Raad overeenkomsten sluiten inzake bijdragen van enige Regering die geen partij wordt bij deze Overeenkomst. Alle ontvangen zodanige bijdragen zullen worden aangewend voor de doeleinden van deze Overeenkomst, als bepaald door de Raad.
 
-#### Artikel XXI
+##### Artikel XXI
 
 1. Deze Overeenkomst treedt — niet eerder dan 1 januari 1957 — in werking, wanneer akten van aanvaarding of toetreding zijn nedergelegd door Regeringen die gezamenlijk verantwoordelijk zijn voor eerste aanslagen tot een bedrag van niet minder dan negentig procent van het aanvankelijke maximum kostencijfer bepaald in artikel V. Wat die Regeringen betreft, wordt de nederlegging van een akte van aanvaarding of van toetreding geacht de toestemming te vormen tot het systeem van aanslagen, betalingen en verrekeningen ingevolge deze Overeenkomst voor de periode tussen 1 januari 1957 en de inwerkingtreding van deze Overeenkomst.
 
 2. Ten aanzien van iedere Regering welker akte van aanvaarding of van toetreding wordt nedergelegd na de inwerkingtreding van deze Overeenkomst wordt deze Overeenkomst van kracht op de datum van zodanige nederlegging. Elk van deze Regeringen stemt in met het systeem van aanslagen, betalingen en verrekeningen ingevolge deze Overeenkomst ingaande bij het begin van het kalenderjaar, waarin de akte van aanvaarding of van toetreding is nedergelegd. Elk van deze Regeringen kan desgewenst ermede instemmen, aangeslagen te worden voor haar deel van de goedgekeurde werkelijke kosten van alle diensten met betrekking tot welke de bepalingen van artikel VI zijn toegepast en tot welke op de datum van aanvaarding door zodanige Regering nog niet alle Overeenkomstsluitende Regeringen hebben toegestemd.
 
-#### Artikel XXII
+##### Artikel XXII
 
 - (a). Deze Overeenkomst kan worden beëindigd door de Regering van IJsland op 31 december van enig jaar door schriftelijke kennisgeving, gedaan aan de Secretaris-Generaal niet later dan 1 januari van dat jaar.
 
@@ -214,13 +236,13 @@ Elk geschil betreffende de uitlegging of toepassing van deze Overeenkomst of van
 
 2. Na ontvangst van de mededeling van enige Overeenkomstwens, deze Overeenkomst in overeenstemming met lid 1 van dit artikel te beëindigen, zal de Secretaris-Generaal de Overeenkomstsluitende Regeringen daarvan verwittigen.
 
-#### Artikel XXIII
+##### Artikel XXIII
 
 1. Onverminderd de bepalingen van artikel XXII kan elke andere Overeenkomstsluitende Regering dan de Regering van IJsland, waarvan de lopende aanslag minder bedraagt dan tien procent van de krachtens de bepalingen van artikel V bepaalde limiet, ophouden partij te zijn bij deze Overeenkomst op 31 december van enig jaar, door schriftelijke kennisgeving aan de Secretaris-Generaal, niet later dan 1 januari van dat jaar, van haar voornemen haar deelneming te beëindigen. Elke zodanige kennisgeving zal ook worden beschouwd als een kennisgeving van de wens deze Overeenkomst te beëindigen, voor de toepassing van artikel XXII, lid 1 (**c**).
 
 2. Na ontvangst van een kennisgeving of kennisgevingen van de sluitende Regering, dat zij haar deelneming beëindigt, zal de Secretaris-Generaal de andere Overeenkomstsluitende Regeringen daarvan verwittigen.
 
-#### Artikel XXIV
+##### Artikel XXIV
 
 1. Ingeval van beëindiging van deze Overeenkomst door de Regering van IJsland ingevolge de bepalingen van lid 1 van artikel XXII zal deze Regering aan de Organisatie betalen of kan de Organisatie van de aan die Regering krachtens deze Overeenkomst verschuldigde betalingen aftrekken een bedrag hetwelk een billijke vergoeding vormt voor voordelen, voortvloeiende uit het verkrijgen voor eigen doeleinden van roerende of onroerende goederen waarvan de kosten geheel of gedeeltelijk aan die Regering zijn terugbetaald ingevolge de bepalingen van deze Overeenkomst.
 
@@ -230,7 +252,7 @@ Elk geschil betreffende de uitlegging of toepassing van deze Overeenkomst of van
 
 4. Het bedrag van alle betalingen ingevolge dit artikel zal bij Overeenkomst tussen de Raad en de Regering van IJsland worden bepaald.
 
-#### Artikel XXV
+##### Artikel XXV
 
 1. Met inachtneming van de bepalingen van lid 2 van artikel X zullen alle saldi van het Reserve Fonds en van rente daarover, berustende onder de Organisatie op de datum dat deze Overeenkomst ophoudt van kracht te zijn, worden verdeeld onder en terugbetaald aan die Regeringen welke onmiddellijk vóór die datum nog partij waren bij deze Overeenkomst, op basis van hun meest recente jaarlijkse aanslagen.
 
@@ -238,7 +260,7 @@ Elk geschil betreffende de uitlegging of toepassing van deze Overeenkomst of van
 
 - (b). Elke Regering die aldus opgehouden heeft partij te zijn zal aan de Organisatie haar aandeel in kapitaalsuitgaven betalen, welke zijn gedaan door de Regering van IJsland en welke niet geheel zijn terugbetaald overeenkomstig deze Overeenkomst. Het te betalen bedrag zal berekend worden op basis van het meest recente aanslagcijfer met betrekking tot de Regering welke heeft opgehouden partij te zijn. De betaling zal verschuldigd zijn vanaf het tijdstip van het ophouden partij te zijn.
 
-#### Artikel XXVI
+##### Artikel XXVI
 
 1. Deze Overeenkomst kan worden gewijzigd bij wederzijdse overeenstemming tussen de Overeenkomstsluitende Regeringen.
 
@@ -258,27 +280,27 @@ Elk geschil betreffende de uitlegging of toepassing van deze Overeenkomst of van
 
 ## DEEL III. HEFFINGEN AAN GEBRUIKERS
 
-#### 1
+##### 1
 
 Ingevolge artikel XIV van deze Overeenkomst stelt de Raad op of vóór 20 november 1982 voor het kalenderjaar 1983 voor de gezamenlijk gefinancierde diensten één enkele heffing aan de gebruiker vast per burgerluchtvaartuig dat een vlucht maakt. De heffing wordt berekend door vijfennegentig procent van de goedgekeurde geraamde kosten, uitgedrukt in Amerikaanse dollars, te bestemmen voor de burgerluchtvaart voor 1983 (zoals omschreven in paragraaf 6 hieronder), plus een correctie voor te weinig ontvangen terugbetaling of minus een correctie voor te veel ontvangen terugbetaling in 1981 (berekend overeenkomstig de paragrafen 3, 4 en 5 hieronder) te delen door het totaal aantal vluchten in 1981, afgerond tot de naaste hele Amerikaanse dollar.
 
-#### 2
+##### 2
 
 De bepalingen in paragraaf 1 hierboven, met passende herziening van de daarin genoemde jaren, gelden voor de berekening van de heffing aan de gebruiker per vlucht van een burgerluchtvaartuig voor het kalenderjaar 1984 en de jaren daarna.
 
-#### 3
+##### 3
 
 De in paragraaf 1 hierboven bedoelde te veel of te weinig ontvangen terugbetaling is het verschil tussen het in een jaar te innen bedrag (paragraaf 4 hieronder) en de totale bedragen die gebruikers in dat jaar in rekening worden gebracht (paragraaf 5 hieronder).
 
-#### 4
+##### 4
 
 Het in 1981 te innen bedrag (voor de berekening van de heffing aan de gebruiker in 1983) is tachtig procent van vijfennegentig procent van de goedgekeurde kosten te bestemmen voorde burgerluchtvaart in 1981, vermeerderd met de te weinig ontvangen terugbetaling in 1979. In 1982 is het vijfennegentig procent van de goedgekeurde kosten te bestemmen voor de burgerluchtvaart in 1982, vermeerderd met de te weinig ontvangen terugbetaling in 1980. Voor 1983 en de jaren daarna is het te innen bedrag vijfennegentig procent van de goedgekeurde kosten te bestemmen voor de burgerluchtvaart in dat jaar, verminderd met de te veel ontvangen terugbetaling of vermeerderd met de te weinig ontvangen terugbetaling twee jaar tevoren.
 
-#### 5
+##### 5
 
 Bij de berekening van de heffing aan de gebruiker voor 1983 worden de aan gebruikers voor 1981 in rekening gebrachte bedragen (vereist om de te veel of te weinig ontvangen terugbetaling voor 1981 vast te stellen) berekend door dat deel van de heffing aan de gebruiker voor 1981 in ponden sterling dat onder deze Overeenkomst valt te vermenigvuldigen met het aantal vluchten in 1981, dit dan om te rekenen in Amerikaanse dollars volgens de voor 1981 overeengekomen wisselkoersen. In volgende jaren worden de aan de gebruikers in rekening gebrachte bedragen op dezelfde wijze berekend met passende wijzigingen wat het jaar betreft.
 
-#### 6
+##### 6
 
 Ten behoeve van de berekening van de heffingen aan gebruikers, zijn de onderstaande percentages van de gezamenlijk gefinancierde kosten (d.w.z. vijfennegentig procent van de totale kosten) die kunnen worden bestemd voor de internationale burgerluchtvaart:
 

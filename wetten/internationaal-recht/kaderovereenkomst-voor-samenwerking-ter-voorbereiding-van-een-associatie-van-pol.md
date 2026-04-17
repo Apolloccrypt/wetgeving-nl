@@ -1,13 +1,37 @@
 ---
 title: "Kaderovereenkomst voor samenwerking ter voorbereiding van een associatie van politieke en economische aard tussen de Europese Gemeenschap en haar Lid-Staten, enerzijds, en de Republiek Chili, anderzijds, als einddoel"
 identifier: "BWBV0001351"
-categorie: "Internationaal recht"
-publicatiedatum: 1999-02-01
-laatste_update: 1999-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001351"
+country: "nl"
+rank: "verdrag"
+publication_date: "1999-02-01"
+last_updated: "1999-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001351"
+soort: "verdrag"
+stam_id: "10000405303"
+version_id: "10000413892"
+internal_id: "C10006988021"
+label_id: "10000406004"
+original_entry_into_force: "1999-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001351/1999-02-01/0"
+intitule_bron: "Trb.1996-291"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-07-17"
+intitule_published: "1996-10-29"
+intitule_in_force: "1999-04-06"
+intitule_status: "goed"
+original_publication: "Trb.1996-291"
+original_signed_date: "1998-07-17"
+original_published_date: "1996-10-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1996-291"
+entry_into_force_date: "1999-02-01"
+jci_1_3: "jci1.3:c:BWBV0001351&z=1999-02-01&g=1999-02-01"
+jci_1_0: "1.0:c:BWBV0001351&g=1999-02-01"
+citeertitel_status: "officieel"
+signed_date: "1998-07-17"
+entry_into_force: "1999-02-01"
 ---
-
 # Kaderovereenkomst voor samenwerking ter voorbereiding van een associatie van politieke en economische aard tussen de Europese Gemeenschap en haar Lid-Staten, enerzijds, en de Republiek Chili, anderzijds, als einddoel
 
 Het Koninkrijk België,
@@ -76,11 +100,11 @@ Hebben besloten deze overeenkomst te sluiten:
 
 ## TITEL I. AARD EN TOEPASSINGSGEBIED
 
-#### Artikel 1. Grondslag van de overeenkomst
+##### Artikel 1. Grondslag van de overeenkomst
 
 De eerbiediging van de democratische beginselen en de fundamentele mensenrechten volgens de definitie van de [Universele Verklaring van de Rechten van de Mens](https://wetten.overheid.nl/jci1.3:c:BWBV0001008) vormt de grondslag voor het binnenlands en internationaal beleid van de Partijen en is een essentieel onderdeel van deze overeenkomst.
 
-#### Artikel 2. Doelstellingen en toepassingsgebied
+##### Artikel 2. Doelstellingen en toepassingsgebied
 
 1. Deze overeenkomst heeft ten doel de bestaande betrekkingen tussen de Partijen te versterken op basis van de beginselen van wederkerigheid en gemeenschappelijke belangen, in het bijzonder door de geleidelijke en wederkerige liberalisering van het gehele handelsverkeer voor te bereiden, ten einde de grondslagen te leggen voor een proces dat in de toekomst moet uitmonden in een associatie van politieke en economische aard tussen de Europese Gemeenschap en haar Lid-Staten en Chili, overeenkomstig de normen van de Wereldhandelsorganisatie (WHO) en rekening houdende met de gevoeligheid van bepaalde produkten.
 
@@ -88,7 +112,7 @@ De eerbiediging van de democratische beginselen en de fundamentele mensenrechten
 
 ## TITEL II. POLITIEKE DIALOOG
 
-#### Artikel 3
+##### Artikel 3
 
 1. De Partijen komen overeen een geregelde politieke dialoog in te stellen over bilaterale en internationale kwesties van gemeenschappelijk belang. Deze dialoog zal plaatsvinden volgens de regels die zijn vervat in de gezamenlijke verklaring die een integrerend deel van deze overeenkomst vormt.
 
@@ -96,11 +120,11 @@ De eerbiediging van de democratische beginselen en de fundamentele mensenrechten
 
 ## TITEL III. HANDELSGEBIED: HANDELSSAMENWERKING EN VOORBEREIDING VAN DE HANDELSLIBERALISERING
 
-#### Artikel 4. Oogmerken
+##### Artikel 4. Oogmerken
 
 De Partijen verbinden zich hun betrekkingen te intensiveren ten einde de uitbreiding en diversificatie van hun onderlinge handelsverkeer te bevorderen, de geleidelijke en wederkerige liberalisering daarvan voor te bereiden en gunstige voorwaarden te scheppen voor de totstandkoming van een toekomstige politieke en economische associatie, met inachtneming van de WHO-normen en de gevoeligheid van sommige produkten.
 
-#### Artikel 5. Economisch en handelsoverleg
+##### Artikel 5. Economisch en handelsoverleg
 
 1. De Partijen verbinden zich een geregelde economische en commerciële dialoog te onderhouden in het institutionele kader waarin Titel VII voorziet, ten einde hun handelsoogmerken te bereiken en de werkzaamheden die moeten uitmonden in de toekomstige liberalisering van het handelsverkeer voor te bereiden.
 
@@ -126,7 +150,7 @@ De Partijen verbinden zich hun betrekkingen te intensiveren ten einde de uitbrei
 
 - i. normen van oorsprong die bevorderlijk zijn voor het gebruik van grondstoffen uit de regio, ten einde de integratie te stimuleren.
 
-#### Artikel 6. Samenwerking inzake standaardisering, erkenning, certificatie, metrologie en beoordeling van conformiteit
+##### Artikel 6. Samenwerking inzake standaardisering, erkenning, certificatie, metrologie en beoordeling van conformiteit
 
 De Partijen komen overeen samen te werken op het gebied van normalisering, erkenning, certificatie, metrologie en beoordeling van conformiteit.
 
@@ -142,7 +166,7 @@ De samenwerking zal hoofdzakelijk bestaan uit:
 
 - c. samenwerking inzake technische normen om de toegang tot de markten te vergemakkelijken.
 
-#### Artikel 7. Samenwerking op douanegebied
+##### Artikel 7. Samenwerking op douanegebied
 
 1. De Partijen zullen, met inachtneming van hun respectieve bevoegdheden, streven naar samenwerking op douanegebied om het juridische kader van hun handelsbetrekkingen te verbeteren en te consolideren. In het kader van de interinstitutionele samenwerking zal de douanesamenwerking tevens gericht zijn op versterking en betere werking van de douanestructuren van de Partijen.
 
@@ -160,15 +184,15 @@ De samenwerking zal hoofdzakelijk bestaan uit:
 
 3. De Partijen verklaren zich bereid om binnen het institutionele kader waarin deze overeenkomst voorziet in de toekomst de sluiting van een protocol voor douanesamenwerking te overwegen.
 
-#### Artikel 8. Tijdelijke import van goederen
+##### Artikel 8. Tijdelijke import van goederen
 
 De Partijen bij het Verdrag verbinden zich vrijdom van rechten en heffingen toe te passen bij tijdelijke import van goederen waarvoor ter zake internationale overeenkomsten gelden op hun grondgebied.
 
-#### Artikel 9. Samenwerking op statistiekgebied
+##### Artikel 9. Samenwerking op statistiekgebied
 
 De Partijen komen overeen te streven naar meer overeenstemming in hun methoden op statistiekgebied, om statistiekgegevens betreffende het goederen- en dienstenverkeer en meer algemeen alle voor statistische verwerking vatbare sectoren, op wederzijds erkende grondslagen te kunnen benutten.
 
-#### Artikel 10. Samenwerking op het gebied van intellectuele eigendom
+##### Artikel 10. Samenwerking op het gebied van intellectuele eigendom
 
 1. De Partijen komen overeen samen te werken op het gebied van intellectuele eigendom met het oog op de bevordering van de onderlinge handel in goederen en diensten, investeringen, technologieoverdracht, verspreiding van informatie, culturele en creatieve activiteiten en daarmee samenhangende economische bedrijvigheid.
 
@@ -182,7 +206,7 @@ De Partijen komen overeen te streven naar meer overeenstemming in hun methoden o
 
 6. Bij onderzoek en andere gezamenlijke wetenschappelijke activiteiten op het gebied van de wetenschap en de technologie zullen de Partijen de criteria voor toekenning van de op de resultaten toe te passen intellectuele eigendomsrechten in overeenstemming brengen.
 
-#### Artikel 11. Samenwerking op het gebied van overheidscontracten
+##### Artikel 11. Samenwerking op het gebied van overheidscontracten
 
 1. De Partijen komen overeen samen te werken om op basis van wederkerigheid open, niet-discriminerende en overzichtelijke procedures te verzekeren bij de gunning van hun respectieve overheidscontracten en contracten van instanties in de sector overheidsdiensten, op centraal, federaal, regionaal, provinciaal en plaatselijk niveau.
 
@@ -194,7 +218,7 @@ De Partijen komen overeen te streven naar meer overeenstemming in hun methoden o
 
 ## TITEL IV. ECONOMISCHE SAMENWERKING
 
-#### Artikel 12. Oogmerken
+##### Artikel 12. Oogmerken
 
 1. Gezien de positieve resultaten die behaald zijn met de Kaderovereenkomst voor Samenwerking tussen de Gemeenschap en Chili van december 1990 verbinden beide Partijen zich in deze overeenkomst hun economische samenwerking in zijn geheel te versterken en uit te breiden om synergie in de produktie te stimuleren, nieuwe kansen te scheppen en hun economische concurrentiepositie te verbeteren.
 
@@ -210,7 +234,7 @@ De Partijen komen overeen te streven naar meer overeenstemming in hun methoden o
 
 7. De Partijen laten zich bij hun acties en maatregelen op dit gebied leiden door het streven naar sociale ontwikkeling en in het bijzonder de bevordering van de fundamentele sociale rechten.
 
-#### Artikel 13. Industriële samenwerking en samenwerking tussen bedrijven
+##### Artikel 13. Industriële samenwerking en samenwerking tussen bedrijven
 
 1. De Partijen zullen samenwerking tussen industrieën en bedrijven ondersteunen met het doel een gunstig kader te scheppen voor economische ontwikkeling in dienst van hun wederzijdse belangen.
 
@@ -236,7 +260,7 @@ De Partijen komen overeen te streven naar meer overeenstemming in hun methoden o
 
 - c. ontplooiing van initiatieven als aanvulling op de samenwerking tussen bedrijven, in het bijzonder met betrekking tot het kwaliteitsbeleid en vernieuwing in de industrie, scholing, toegepast onderzoek en de ontwikkeling en overdracht van technologie.
 
-#### Artikel 14. Samenwerking in de dienstensector
+##### Artikel 14. Samenwerking in de dienstensector
 
 1. De Partijen erkennen het groeiende belang van de diensten in de ontwikkeling van hun economieën. Met het oog daarop zullen zij de samenwerking in deze sector versterken en intensiveren, in het kader van hun bevoegdheden en overeenkomstig de normen van het [algemene akkoord over de handel in diensten](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&bijlage=1B) (GATS).
 
@@ -256,7 +280,7 @@ De uit te voeren acties zullen in de eerste plaats gericht zijn op de volgende o
 
 - f. ontwikkeling van de toerismesector, met het oog op betere informatie en uitwisseling van ervaringen die bevorderlijk zijn voor de duurzame en ordelijke ontwikkeling van het toerismeaanbod. Tevens zal getracht worden de opleiding van personeel in deze sector en gezamenlijke acties op het gebied van publiciteit en marketing te bevorderen.
 
-#### Artikel 15. Bevordering van investeringen
+##### Artikel 15. Bevordering van investeringen
 
 De Partijen zullen in het kader van hun bevoegdheden bijdragen tot de instandhouding van een aantrekkelijk, stabiel bedrijfsklimaat voor wederkerige investeringen.
 
@@ -270,7 +294,7 @@ Deze samenwerking zal onder meer de volgende vormen aannemen:
 
 - d. bevordering van joint ventures, in het bijzonder tussen kleine en middelgrote ondernemingen van beide Partijen.
 
-#### Artikel 16. Samenwerking op het gebied van wetenschap en technologie
+##### Artikel 16. Samenwerking op het gebied van wetenschap en technologie
 
 1. De Partijen komen overeen op het gebied van wetenschap en technologie samen te werken in het wederzijds belang en overeenkomstig hun beleidsvormen.
 
@@ -302,7 +326,7 @@ Deze samenwerking zal onder meer de volgende vormen aannemen:
 
 5. De Partijen zullen, zonder enig gebied van tevoren uit te sluiten, de toepassingsgebieden, de reikwijdte, de aard en de prioriteiten van deze samenwerking vaststellen door middel van een meerjarenprogramma dat aan de omstandigheden kan worden aangepast.
 
-#### Artikel 17. Samenwerking op energiegebied
+##### Artikel 17. Samenwerking op energiegebied
 
 De samenwerking tussen de Partijen zal beogen hun economieën dichter bij elkaar te brengen in de sectoren van vernieuwbare en niet-vernieuwbare, conventionele en niet-conventionele energie en technologieën voor verantwoord energiegebruik.
 
@@ -322,7 +346,7 @@ De samenwerking in deze sector zal hoofdzakelijk worden uitgevoerd door middel v
 
 - g. technische scholingsprogramma's.
 
-#### Artikel 18. Samenwerking op het gebied van vervoer
+##### Artikel 18. Samenwerking op het gebied van vervoer
 
 1. In deze sector is de samenwerking hoofdzakelijk bestemd om:
 
@@ -342,7 +366,7 @@ De samenwerking in deze sector zal hoofdzakelijk worden uitgevoerd door middel v
 
 3. In het kader van hun respectieve bevoegdheden, wetgevingen en internationale verbintenissen besteden de Partijen aandacht aan alle aspecten inzake de internationale zeevervoerdiensten, opdat die geen belemmering vormen voor de uitbreiding van de handel. Zij zien er in het bijzonder op toe dat onbeperkte toegang tot de markten op commerciële en niet-discriminerende grondslag gewaarborgd is.
 
-#### Artikel 19. Samenwerking op het gebied van telecommunicatie en de informatiemaatschappij
+##### Artikel 19. Samenwerking op het gebied van telecommunicatie en de informatiemaatschappij
 
 1. De Partijen erkennen dat informatie- en geavanceerde communicatietechnologie een sleutelsector van de moderne samenleving is en van levensbelang voor de economische en sociale ontwikkeling en de harmonische vestiging van de informatiemaatschappij.
 
@@ -360,7 +384,7 @@ De samenwerking in deze sector zal hoofdzakelijk worden uitgevoerd door middel v
 
 - f. onderlinge aansluiting en hanteerbaarheid van telematicanetwerken en -diensten van de Gemeenschap en Chili.
 
-#### Artikel 20. Samenwerking op het gebied van de bescherming van het milieu
+##### Artikel 20. Samenwerking op het gebied van de bescherming van het milieu
 
 1. De Partijen verbinden zich een vorm van samenwerking op te zetten voor de bescherming en verbetering van het milieu, voorkoming van milieubederf, bestrijding van vervuiling en bevordering van verantwoord gebruik van natuurlijke hulpbronnen, ten einde een duurzame ontwikkeling tot stand te brengen.
 
@@ -376,7 +400,7 @@ In dit kader zal bijzondere aandacht worden besteed aan behoud van de ecosysteme
 
 - d. technische bijstand en uitvoering van gezamenlijke onderzoeksprogramma's.
 
-#### Artikel 21. Samenwerking in de landbouw- en plattelandssector
+##### Artikel 21. Samenwerking in de landbouw- en plattelandssector
 
 1. De Partijen bevorderen wederzijdse samenwerking in de landbouw- en plattelandssector. Te dien einde onderzoeken zij:
 
@@ -388,11 +412,11 @@ In dit kader zal bijzondere aandacht worden besteed aan behoud van de ecosysteme
 
 ## TITEL V. ANDERE SAMENWERKINGSGEBIEDEN
 
-#### Artikel 22. Oogmerken en toepassingsgebieden
+##### Artikel 22. Oogmerken en toepassingsgebieden
 
 De Partijen besluiten hun samenwerking te handhaven op de gebieden sociale ontwikkeling, werking van het openbaar bestuur, informatie en communicatie, scholing en regionale integratie, en besteden daarbij allereerst aandacht aan de sectoren die het toenaderingsproces kunnen versterken ten einde een politieke en economische associatie tussen hen tot stand te brengen.
 
-#### Artikel 23. Financiële en technische samenwerking en samenwerking inzake sociale ontwikkeling
+##### Artikel 23. Financiële en technische samenwerking en samenwerking inzake sociale ontwikkeling
 
 1. De Partijen bevestigen opnieuw het belang van hun financiële en technische samenwerking, waarvan de strategie gericht moet zijn op bestrijding van de ergste armoede en meer algemeen voorrang moet verlenen aan de meest achtergestelde sociale groepen.
 
@@ -412,7 +436,7 @@ De Partijen besluiten hun samenwerking te handhaven op de gebieden sociale ontwi
 
 - g. programma's om de leefsituatie van vooral de meest kansarme sociale groepen te verbeteren.
 
-#### Artikel 24. Samenwerking op het gebied van overheidsadministratie en regionale integratie
+##### Artikel 24. Samenwerking op het gebied van overheidsadministratie en regionale integratie
 
 1. De Partijen ondersteunen de samenwerking op het gebied van openbare administratie die beoogt de bestuurlijke stelsels aan te passen aan de openstelling van hun onderlinge goederen- en dienstenverkeer.
 
@@ -432,7 +456,7 @@ De Partijen besluiten hun samenwerking te handhaven op de gebieden sociale ontwi
 
 - e. scholing en institutionele steun.
 
-#### Artikel 25. Interinstitutionele samenwerking
+##### Artikel 25. Interinstitutionele samenwerking
 
 1. De Partijen zijn het eens over de noodzaak van nauwere administratieve samenwerking tussen de betrokken instellingen.
 
@@ -444,7 +468,7 @@ De Partijen besluiten hun samenwerking te handhaven op de gebieden sociale ontwi
 
 - c. overdracht van ervaringen.
 
-#### Artikel 26. Samenwerking op het gebied van communicatie, voorlichting en cultuur
+##### Artikel 26. Samenwerking op het gebied van communicatie, voorlichting en cultuur
 
 1. Gezien de zeer nauwe culturele banden die tussen Chili en de Lid-Staten van de Europese Gemeenschap bestaan hebben de Partijen besloten de samenwerking in deze sfeer, alsook op het gebied van communicatie en voorlichting, te versterken.
 
@@ -460,7 +484,7 @@ De Partijen besluiten hun samenwerking te handhaven op de gebieden sociale ontwi
 
 3. De Partijen komen overeen een zo ruim mogelijke samenwerking te bevorderen onder meer in de sector audiovisuele technieken en de pers.
 
-#### Artikel 27. Samenwerking op het gebied van scholing en onderwijs
+##### Artikel 27. Samenwerking op het gebied van scholing en onderwijs
 
 1. De Partijen zullen in het kader van hun respectieve bevoegdheden de middelen vaststellen om de scholing en het onderwijs te verbeteren, zowel in het jeugd- en basisonderwijs als in de vakscholing of de samenwerking tussen universiteiten en bedrijven.
 
@@ -474,7 +498,7 @@ De Partijen besluiten hun samenwerking te handhaven op de gebieden sociale ontwi
 
 4. De samenwerking tussen de Partijen zal tevens gericht zijn op de totstandkoming van overeenkomsten in de sector onderwijs, scholing en jeugdzorg.
 
-#### Artikel 28. Samenwerking in de strijd tegen drugs en de handel in drugs
+##### Artikel 28. Samenwerking in de strijd tegen drugs en de handel in drugs
 
 1. De Partijen zullen, overeenkomstig hun respectieve bevoegdheden, hun acties coördineren en hun samenwerking intensiveren om drugsmisbruik te voorkomen, de onwettige handel in verdovende middelen en het oneigenlijke gebruik van chemische precursoren te bestrijden en het witwassen van uit de drugssmokkel afkomstige gelden te voorkomen. Te dien einde zullen de Partijen hun inspanningen en gebieden van samenwerking in bilateraal verband en binnen de internationale organisaties en fora coördineren.
 
@@ -492,7 +516,7 @@ De Partijen besluiten hun samenwerking te handhaven op de gebieden sociale ontwi
 
 3. De Partijen kunnen in gezamenlijke overeenstemming deze samenwerking tot nog andere actiegebieden uitbreiden.
 
-#### Artikel 29. Samenwerking voor bescherming van de consument
+##### Artikel 29. Samenwerking voor bescherming van de consument
 
 1. De Partijen komen overeen dat de samenwerking op dit gebied moet beogen hun systemen voor bescherming van de consument te vervolmaken en in het kader van hun respectieve wetgevingen meer met elkaar in overeenstemming te brengen.
 
@@ -502,17 +526,17 @@ De Partijen besluiten hun samenwerking te handhaven op de gebieden sociale ontwi
 
 - b. scholingsacties en technische bijstand.
 
-#### Artikel 30. Samenwerking op het gebied van de zeevisserij
+##### Artikel 30. Samenwerking op het gebied van de zeevisserij
 
 De Partijen komen overeen dat de samenwerking op dit gebied zal plaatsvinden met inachtneming van de internationale commerciële en ecologische verplichtingen, door middel van periodiek overleg, waarbij de mogelijkheid zal worden onderzocht in de visserijsector een vorm van nauwere samenwerking op te zetten die zou kunnen uitmonden in een visserijakkoord.
 
-#### Artikel 31. Driehoekssamenwerking
+##### Artikel 31. Driehoekssamenwerking
 
 De Partijen erkennen de waarde van internationale samenwerking voor het bevorderen van rechtvaardige en duurzame ontwikkelingsprocessen en komen overeen programma's voor samenwerking met derde landen op gebieden en sectoren van gemeenschappelijk belang aan te moedigen.
 
 ## TITEL VI. MIDDELEN VOOR DE TENUITVOERLEGGING VAN DE SAMENWERKING
 
-#### Artikel 32
+##### Artikel 32
 
 1. Om de verwezenlijking van de in deze overeenkomst vervatte samenwerkingsdoelstellingen te vergemakkelijken, wenden de Overeenkomstsluitende Partijen de passende middelen aan, met inbegrip van financiële middelen, al naar gelang van hun draagkracht en van hun respectieve mechanismen.
 
@@ -520,7 +544,7 @@ De Partijen erkennen de waarde van internationale samenwerking voor het bevorder
 
 ## TITEL VII. INSTITUTIONEEL KADER
 
-#### Artikel 33
+##### Artikel 33
 
 1. Er wordt een Gezamenlijke Raad voor de Kaderovereenkomst voor Samenwerking, hierna de Gezamenlijke Raad genoemd, opgericht, die toezicht zal houden op de toepassing van de overeenkomst. De Gezamenlijke Raad zal op ministerniveau bijeenkomen, op gezette tijden en telkens wanneer de omstandigheden dat vereisen.
 
@@ -528,7 +552,7 @@ De Partijen erkennen de waarde van internationale samenwerking voor het bevorder
 
 3. Tevens kan de Gezamenlijke Raad, met wederzijdse instemming van beide Partijen, passende voorstellen formuleren. Bij de uitoefening van deze taken belast de Raad zich in het bijzonder met het doen van aanbevelingen die bijdragen tot verwezenlijking van het uiteindelijke oogmerk van politieke en economische associatie.
 
-#### Artikel 34
+##### Artikel 34
 
 1. De Gezamenlijke Raad zal bestaan uit, enerzijds, leden van de Raad van de Europese Unie en van de Europese Commissie en, anderzijds, de vertegenwoordigers van Chili.
 
@@ -536,7 +560,7 @@ De Partijen erkennen de waarde van internationale samenwerking voor het bevorder
 
 3. Het voorzitterschap van de Gezamenlijke Raad zal bij toerbeurt worden uitgeoefend door een vertegenwoordiger van elke Partij.
 
-#### Artikel 35
+##### Artikel 35
 
 1. De Gezamenlijke Raad wordt in de vervulling van zijn taken bijgestaan door een Gemengde Commissie, die bestaat uit vertegenwoordigers van de Raad van de Europese Unie en van de Europese Commissie enerzijds en vertegenwoordigers van Chili anderzijds.
 
@@ -556,11 +580,11 @@ De Partijen erkennen de waarde van internationale samenwerking voor het bevorder
 
 - d. en, in het algemeen, de Gezamenlijke Raad aanbevelingen doen die bijdragen tot de verwezenlijking van het einddoel, namelijk de politieke en economische associatie tussen de Partijen.
 
-#### Artikel 36
+##### Artikel 36
 
 De Gezamenlijke Raad kan besluiten tot de oprichting van andere organen om hem bij de vervulling van zijn taken bij te staan en bepaalt tevens de samenstelling, oogmerken en werkwijze van die organen.
 
-#### Artikel 37
+##### Artikel 37
 
 1. De Partijen komen overeen een Gemengde Subcommissie voor Handelszaken op te richten die voor de verwezenlijking van de in artikel 5 vermelde commerciële oogmerken moet zorgen en de werkzaamheden voor de geleidelijke en wederkerige handelsliberalisering voorbereiden.
 
@@ -572,25 +596,25 @@ De Gezamenlijke Raad kan besluiten tot de oprichting van andere organen om hem b
 
 5. De Gemengde Subcommissie voor Handelszaken legt zijn huishoudelijk reglement ter goedkeuring aan de Gemengde Commissie voor.
 
-#### Artikel 38. Overlegclausule
+##### Artikel 38. Overlegclausule
 
 In het kader van hun bevoegdheden verbinden de Partijen zich overleg te plegen op alle in deze overeenkomst genoemde gebieden. De procedure voor het in de voorgaande alinea bedoelde overleg wordt vastgesteld in het huishoudelijk reglement van de Gemengde Commissie.
 
 ## TITEL VIII. SLOTBEPALINGEN
 
-#### Artikel 39. Definitie van de Partijen
+##### Artikel 39. Definitie van de Partijen
 
 Voor de toepassing van deze overeenkomst duidt de term „de Partijen” aan: enerzijds de Gemeenschap, of haar Lid-Staten, of de Gemeenschap en haar Lid-Staten overeenkomstig hun respectieve bevoegdheden, zoals vermeld in het [Verdrag tot oprichting van de Europese Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506), en anderzijds de Republiek Chili.
 
-#### Artikel 40. Aanpassingsclausule
+##### Artikel 40. Aanpassingsclausule
 
 De Partijen kunnen deze overeenkomst met wederzijdse instemming uitbreiden ten einde overeenkomstig hun respectieve wetgevingen zijn toepassingsgebieden te verdiepen en aan te vullen door het sluiten van akkoorden met betrekking tot specifieke sectoren of activiteiten, rekening houdend met de bij de uitvoering ervan opgedane ervaring.
 
-#### Artikel 41. Territoriale toepassing
+##### Artikel 41. Territoriale toepassing
 
 Deze overeenkomst is van toepassing op de gebieden waar het [Verdrag tot oprichting van de Europese Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) van toepassing is en onder de in dat Verdrag neergelegde voorwaarden, enerzijds, en op het grondgebied van de Republiek Chili, anderzijds.
 
-#### Artikel 42. Duur en inwerkingtreding
+##### Artikel 42. Duur en inwerkingtreding
 
 1. Deze overeenkomst is van onbeperkte duur.
 
@@ -602,7 +626,7 @@ Deze overeenkomst is van toepassing op de gebieden waar het [Verdrag tot opricht
 
 5. Vanaf zijn inwerkingtreding komt deze overeenkomst in de plaats van de Kaderovereenkomst voor Samenwerking tussen de Europese Economische Gemeenschap en de Republiek Chili die op 20 december 1990 is ondertekend.
 
-#### Artikel 43. Vervulling van de verplichtingen
+##### Artikel 43. Vervulling van de verplichtingen
 
 1. De Partijen nemen alle algemene of bijzondere maatregelen die vereist zijn voor het vervullen van hun verplichtingen krachtens deze overeenkomst en zien toe op de verwezenlijking van de daarin nedergelegde doelstellingen.
 
@@ -618,11 +642,11 @@ In eerste instantie moet de keuze vallen op maatregelen die de werking van deze 
 
 3. De Partijen komen overeen dat de in dat artikel genoemde „passende maatregelen” maatregelen zijn die in overeenstemming met het internationale recht zijn genomen. Indien één van de Partijen in geval van bijzondere urgentie een maatregel in toepassing van dit artikel zou nemen, dan kan de andere Partij verzoeken met spoed een vergadering tussen beide Partijen te beleggen binnen een termijn van vijftien dagen.
 
-#### Artikel 44. Authentieke teksten
+##### Artikel 44. Authentieke teksten
 
 Deze overeenkomst is opgesteld in twee exemplaren in de Duitse, de Deense, de Spaanse, de Franse, de Finse, de Griekse, de Nederlandse, de Engelse, de Italiaanse, de Portugese en de Zweedse taal, zijnde alle teksten gelijkelijk authentiek.
 
-#### 1. Inleiding
+##### 1. Inleiding
 
 De Europese Unie en Chili,
 
@@ -638,13 +662,13 @@ De Europese Unie en Chili,
 
 hebben besloten hun wederkerige betrekkingen in een lange-termijnperspectief te plaatsen.
 
-#### 2. Oogmerken
+##### 2. Oogmerken
 
 Rekening houdend met de conclusies die de Raad van de Europese Unie op basis van de mededeling „Naar een verdieping van de betrekkingen tussen de Europese Unie en Chili", op 17 juli 1995 heeft aangenomen, bevestigen de Partijen hun voornemen een overeenkomst te sluiten waarin zij uiting zouden geven aan hun politieke wil om als einddoel tot een associatie van politieke en economische aard te komen.
 
 Te dien einde zijn de Partijen overeengekomen een versterkte politieke dialoog in te stellen om nauwer overleg over kwesties van gemeenschappelijk belang mogelijk te maken, met name door middel van coördinatie van de respectieve standpunten in de bevoegde multilaterale fora. Deze dialoog zou samen met andere gesprekspartners uit de regio kunnen worden gehouden ofwel, indien mogelijk, als verlengstuk van andere reeds bestaande politieke dialogen.
 
-#### 3. Mechanismen voor de dialoog
+##### 3. Mechanismen voor de dialoog
 
 Ten einde deze politieke dialoog over bilaterale en internationale aangelegenheden van wederzijds belang te entameren en tot ontwikkeling te brengen, komen de Partijen het volgende overeen:
 
@@ -656,7 +680,7 @@ Ten einde deze politieke dialoog over bilaterale en internationale aangelegenhed
 
 - d. op gezette tijden worden vergaderingen belegd tussen hoge ambtenaren van beide Partijen.
 
-#### 4
+##### 4
 
 De Europese Unie en Chili komen overeen dat deze gezamenlijke verklaring het begin van een nauwere en diepere betrekking inluidt.
 

@@ -1,14 +1,41 @@
 ---
-title: "Wet Mobiliteitsfonds"
+title: "Wet van 16 december 2020, houdende regels inzake instelling van een Mobiliteitsfonds (Wet Mobiliteitsfonds) (Wet Mobiliteitsfonds)"
 identifier: "BWBR0044860"
-categorie: "Overig"
-publicatiedatum: 2021-07-01
-laatste_update: 2021-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044860"
+country: "nl"
+rank: "wet"
+publication_date: "2021-07-01"
+last_updated: "2021-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044860"
+soort: "wet"
+stam_id: "15860523"
+version_id: "27554852"
+internal_id: "C38878871"
+label_id: "15795494"
+dtd_version: "2.0"
+original_entry_into_force: "2021-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044860/2021-07-01/0"
+intitule_bron: "Stb.2021-96"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-12-16"
+intitule_published: "2021-02-26"
+intitule_in_force: "2021-02-26"
+intitule_status: "goed"
+original_publication: "Stb.2021-96"
+original_signed_date: "2020-12-16"
+original_published_date: "2021-02-26"
+original_effect: "nieuwe-regeling"
+original_dossier: "35426"
+original_url_id: "stb-2021-96"
+entry_into_force_date: "2021-07-01"
+jci_1_3: "jci1.3:c:BWBR0044860&z=2021-07-01&g=2021-07-01"
+jci_1_0: "1.0:c:BWBR0044860&g=2021-07-01"
+citeertitel_status: "officieel"
+short_title: "Wet Mobiliteitsfonds"
+signed_date: "2020-12-16"
+entry_into_force: "2021-07-01"
 ---
-
-# Wet Mobiliteitsfonds
+# Wet van 16 december 2020, houdende regels inzake instelling van een Mobiliteitsfonds (Wet Mobiliteitsfonds) (Wet Mobiliteitsfonds)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +43,7 @@ Alzo Wij in overweging genomen hebben dat het wenselijk is het Infrastructuurfon
 
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -30,7 +57,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **Onze Minister:** Onze Minister van Infrastructuur en Waterstaat.
 
-#### Artikel 2. Doelen van het fonds
+##### Artikel 2. Doelen van het fonds
 
 1. Er is een Mobiliteitsfonds.
 
@@ -44,13 +71,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. het inwinnen, bewerken en verspreiden van met onderdeel a samenhangende basisinformatie, onderzoek ter voorbereiding van maatregelen of voorzieningen als bedoeld in de onderdelen a, b en c, en proefprojecten en experimenten gericht op maatregelen of voorzieningen als bedoeld in de onderdelen a, b en c.
 
-#### Artikel 3. Beheer van het fonds
+##### Artikel 3. Beheer van het fonds
 
 1. Het fonds is een begrotingsfonds als bedoeld in [artikel 2.11, eerste lid, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=2.11).
 
 2. Onze Minister beheert het fonds.
 
-#### Artikel 4. Meerjarenprogramma Infrastructuur, Ruimte en Transport
+##### Artikel 4. Meerjarenprogramma Infrastructuur, Ruimte en Transport
 
 1. Jaarlijks biedt Onze Minister gelijktijdig met het voorstel van wet tot vaststelling van de begrotingsstaat van het fonds een Meerjarenprogramma Infrastructuur, Ruimte en Transport aan de Staten-Generaal aan.
 
@@ -60,7 +87,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Het meerjarenprogramma bevat een overzicht van de wijzigingen ten opzichte van het voorgaande jaar in de status van projecten en projectpakketten die bekostigd worden uit het fonds.
 
-#### Artikel 5. Ontvangsten van het fonds
+##### Artikel 5. Ontvangsten van het fonds
 
 De ontvangsten van het fonds zijn:
 
@@ -72,7 +99,7 @@ De ontvangsten van het fonds zijn:
 
 - d. andere ontvangsten in het kader van het bereiken van de doelen van het fonds.
 
-#### Artikel 6. Uitgaven en subsidies ten laste van het fonds
+##### Artikel 6. Uitgaven en subsidies ten laste van het fonds
 
 1. Ten laste van het fonds komen de uitgaven ten behoeve van:
 
@@ -110,7 +137,7 @@ De ontvangsten van het fonds zijn:
 
 - d. culturele doeleinden.
 
-#### Artikel 7. Subsidiekader
+##### Artikel 7. Subsidiekader
 
 1. Onverminderd [hoofdstuk 3 van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=3) is op subsidies die verstrekt worden ten laste van het fonds, de [Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789) van toepassing.
 
@@ -122,7 +149,7 @@ De ontvangsten van het fonds zijn:
 
 5. Indien binnen de in het vierde lid genoemde termijn van 30 dagen ten minste een vijfde van het grondwettelijk aantal leden van de Tweede Kamer der Staten-Generaal nadere inlichtingen vraagt, wordt de subsidieregeling, bedoeld in het vierde lid, niet eerder vastgesteld dan 14 dagen nadat de inlichtingen zijn verstrekt.
 
-#### Artikel 8. Intrekking [Wet Infrastructuurfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0006001) en [Besluit Infrastructuurfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0006264) en overgangsrecht
+##### Artikel 8. Intrekking [Wet Infrastructuurfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0006001) en [Besluit Infrastructuurfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0006264) en overgangsrecht
 
 1. Het wetsvoorstel tot vaststelling van de eerste begrotingsstaat van het fonds wordt aangeboden aan de Tweede Kamer der Staten-Generaal op de eerstvolgende derde dinsdag van september na het tijdstip van inwerkingtreding van deze wet.
 
@@ -134,15 +161,15 @@ De ontvangsten van het fonds zijn:
 
 - c. op subsidieverstrekkingen en -aanvragen die hebben plaatsgevonden voor het tijdstip van intrekking van de [Wet Infrastructuurfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0006001), het bij of krachtens die wet bepaalde van toepassing blijft, zoals dat luidde onmiddellijk voor dit tijdstip.
 
-#### Artikel 9. Evaluatiebepaling
+##### Artikel 9. Evaluatiebepaling
 
 Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Deze wet wordt aangehaald als: Wet Mobiliteitsfonds.
 

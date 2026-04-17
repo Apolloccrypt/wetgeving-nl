@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling instroom schoolleiders po van buiten"
+title: "Regeling van de Minister voor Primair en Voortgezet Onderwijs van 24 augustus 2022, nr. PO/32407496, houdende regels voor de subsidieverstrekking als tegemoetkoming in de opleidingskosten van instromende schoolleiders die de opleiding tot schoolleider gaan volgen (Subsidieregeling instroom schoolleiders po van buiten)"
 identifier: "BWBR0047089"
-categorie: "Onderwijs"
-publicatiedatum: 2025-01-22
-laatste_update: 2025-01-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047089"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-01-22"
+last_updated: "2025-01-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047089"
+soort: "ministeriele-regeling"
+stam_id: "16469273"
+version_id: "28855512"
+internal_id: "C40857501"
+label_id: "16391774"
+dtd_version: "2.0"
+original_entry_into_force: "2022-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047089/2025-01-22/0"
+intitule_bron: "Stcrt.2022-23004"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-08-24"
+intitule_published: "2022-08-31"
+intitule_in_force: "2022-08-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-23004"
+original_signed_date: "2022-08-24"
+original_published_date: "2022-08-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-23004"
+entry_into_force_date: "2022-09-01"
+jci_1_3: "jci1.3:c:BWBR0047089&z=2025-01-22&g=2025-01-22"
+jci_1_0: "1.0:c:BWBR0047089&g=2025-01-22"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling instroom schoolleiders po van buiten"
+signed_date: "2022-08-24"
+entry_into_force: "2022-09-01"
 ---
-
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 24 augustus 2022, nr. PO/32407496, houdende regels voor de subsidieverstrekking als tegemoetkoming in de opleidingskosten van instromende schoolleiders die de opleiding tot schoolleider gaan volgen (Subsidieregeling instroom schoolleiders po van buiten)
 
 Gelet op de [artikelen 71 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=71), [71 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=71) en [67 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=67);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -54,13 +80,13 @@ In deze regeling wordt verstaan onder:
 
 - **voortgezet onderwijs:** onderwijs dat gegeven wordt op een school als bedoeld in [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1).
 
-#### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 1. Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
 2. [Artikel 4.3, eerste lid, van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=4.3) is niet van toepassing.
 
-#### Artikel 3. Te subsidiëren activiteiten en weigeringsgronden
+##### Artikel 3. Te subsidiëren activiteiten en weigeringsgronden
 
 1. De minister kan aan een bevoegd gezag subsidie verstrekken als tegemoetkoming in de opleidingskosten van een bij het bevoegd gezag aangestelde instromer.
 
@@ -70,7 +96,7 @@ In deze regeling wordt verstaan onder:
 
 4. In afwijking van het derde lid wordt bij subsidieverstrekking in 2025 op grond van deze regeling geen subsidie verstrekt voor een instromer die in de twee jaar voorafgaand aan de aanvraag in het primair of voortgezet onderwijs heeft gewerkt als intern begeleider, leraar, schoolleider of adjunct-schoolleider. De eerste volzin is niet van toepassing ten aanzien van een instromer die in de twee jaar voorafgaand aan de aanvraag uitsluitend als stagiair, leraarondersteuner of onderwijsassistent werkzaam is geweest ter oriëntatie op de functie van schoolleider of adjunct-schoolleider.
 
-#### Artikel 4. Subsidieplafond
+##### Artikel 4. Subsidieplafond
 
 1. Voor subsidieverstrekking op grond van deze regeling is een bedrag beschikbaar van:
 
@@ -84,13 +110,13 @@ In deze regeling wordt verstaan onder:
 
 3. Voor subsidieontvangers op Bonaire, Sint Eustatius of Saba worden de subsidiebedragen omgerekend in dollars tegen de vastgestelde wisselkoers op het moment van de subsidievaststelling.
 
-#### Artikel 5. Wijze van verdeling beschikbare middelen
+##### Artikel 5. Wijze van verdeling beschikbare middelen
 
 1. De minister verdeelt het beschikbare bedrag in de volgorde van binnenkomst van de aanvragen.
 
 2. Indien een aanvraag voor subsidieverstrekking in het jaar 2022 of 2023 niet kan worden toegewezen omdat het subsidieplafond door toewijzing van de aanvraag zou worden bereikt, wordt zij aangemerkt als aanvraag voor subsidieverstrekking in het eerstvolgende kalenderjaar en behandeld als ware zij was ingediend op de eerste dag van het voor dat kalenderjaar geldende aanvraagtijdvak. Voor de toepassing van [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047089&artikel=3&z=2025-01-22&g=2025-01-22), en [artikel 6, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047089&artikel=6&z=2025-01-22&g=2025-01-22), wordt het moment van de oorspronkelijke aanvraag als uitgangspunt genomen.
 
-#### Artikel 6. Subsidieaanvraag
+##### Artikel 6. Subsidieaanvraag
 
 1. Een subsidieaanvraag per instromer kan worden ingediend:
 
@@ -148,7 +174,7 @@ In deze regeling wordt verstaan onder:
 
 - 3°. voor welk aantal fte de aanstelling is.
 
-#### Artikel 7. Subsidieverplichtingen
+##### Artikel 7. Subsidieverplichtingen
 
 Aan de subsidieontvanger worden, onverminderd [hoofdstuk 5 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=5), de volgende verplichtingen opgelegd:
 
@@ -158,31 +184,31 @@ Aan de subsidieontvanger worden, onverminderd [hoofdstuk 5 van de Kaderregeling]
 
 - c. het bevoegd gezag werkt mee aan evaluatie of monitoring van deze subsidie.
 
-#### Artikel 8. Vaststelling en besteding subsidie
+##### Artikel 8. Vaststelling en besteding subsidie
 
 De subsidie wordt direct vastgesteld binnen 13 weken na het sluiten van het desbetreffende aanvraagtijdvak, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047089&artikel=6&z=2025-01-22&g=2025-01-22).
 
-#### Artikel 9. Betaling
+##### Artikel 9. Betaling
 
 De minister betaalt het gehele subsidiebedrag ineens.
 
-#### Artikel 10. Verantwoording
+##### Artikel 10. Verantwoording
 
 1. De verantwoording van de subsidie geschiedt in de jaarverslaggeving overeenkomstig de Regeling jaarverslaggeving onderwijs onderscheidenlijk de [Regeling jaarverslaglegging onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0031801) met model G, onderdeel 1, zoals bedoeld in richtlijn 660 van de Raad voor de Jaarverslaggeving.
 
 2. De subsidieontvanger toont op verzoek van de minister aan dat de activiteiten waarvoor subsidie is verstrekt, zijn verricht en dat is voldaan aan de verplichtingen die aan de subsidie verbonden zijn.
 
-#### Artikel 11. Hardheidsclausule
+##### Artikel 11. Hardheidsclausule
 
 De minister kan deze regeling in bijzondere gevallen buiten toepassing verklaren of daarvan afwijken, voor zover de toepassing, gelet op het belang dat deze regeling beoogt te beschermen, tot een onbillijkheid van overwegende aard zal leiden.
 
-#### Artikel 12. Inwerkingtreding en vervaldatum
+##### Artikel 12. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 1 januari 2027.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling instroom schoolleiders po van buiten.
 

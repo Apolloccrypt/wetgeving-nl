@@ -1,14 +1,42 @@
 ---
-title: "Plantgezondheidswet"
+title: "Wet van 5 februari 2020, houdende regels betreffende beschermende maatregelen tegen schadelijke organismen bij planten (Plantgezondheidswet)"
 identifier: "BWBR0043194"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2021-03-01
-laatste_update: 2021-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043194"
+country: "nl"
+rank: "wet"
+publication_date: "2021-03-01"
+last_updated: "2021-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043194"
+soort: "wet"
+stam_id: "15346213"
+version_id: "26518412"
+internal_id: "C37646041"
+label_id: "15291914"
+dtd_version: "2.0"
+original_entry_into_force: "2020-02-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043194/2021-03-01/0"
+intitule_bron: "Stb.2020-65"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-02-05"
+intitule_published: "2020-02-19"
+intitule_in_force: "2020-02-19"
+intitule_status: "goed"
+original_publication: "Stb.2020-65"
+original_signed_date: "2020-02-05"
+original_published_date: "2020-02-19"
+original_effect: "nieuwe-regeling"
+original_dossier: "35083"
+original_url_id: "stb-2020-65"
+entry_into_force_date: "2020-02-20"
+entry_into_force_dossier: "35083"
+jci_1_3: "jci1.3:c:BWBR0043194&z=2021-03-01&g=2021-03-01"
+jci_1_0: "1.0:c:BWBR0043194&g=2021-03-01"
+citeertitel_status: "officieel"
+short_title: "Plantgezondheidswet"
+signed_date: "2020-02-05"
+entry_into_force: "2020-02-20"
 ---
-
-# Plantgezondheidswet
+# Wet van 5 februari 2020, houdende regels betreffende beschermende maatregelen tegen schadelijke organismen bij planten (Plantgezondheidswet)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -48,7 +76,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk 15a. Wijziging van de [Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054)
 
-#### Artikel 32a
+##### Artikel 32a
 
 Wijzigt de Meststoffenwet.
 
@@ -58,7 +86,7 @@ Wijzigt de Meststoffenwet.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -96,7 +124,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 2. Onder [verordening 2016/2031](32016R2031) wordt mede verstaan de door de Europese Commissie vastgestelde gedelegeerde handelingen en uitvoeringshandelingen op grond van deze verordening.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Onze Minister wordt aangewezen als bevoegde autoriteit, bedoeld in:
 
@@ -108,33 +136,33 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 3. Bij algemene maatregel van bestuur worden één of meer bevoegde autoriteiten als bedoeld in artikel 2, zesde lid, van [verordening 2016/2031](32016R2031) en artikel 3, derde lid, onderdeel b, van [verordening 2017/625](32017R0625) aangewezen voor artikelen van bindende onderdelen van EU-rechtshandelingen betreffende beschermende maatregelen tegen schadelijke organismen bij planten.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Onze Minister treft fytosanitaire maatregelen in een situatie als bedoeld in artikel 10, derde alinea en artikel 29, eerste lid, vierde alinea, van [verordening 2016/2031](32016R2031) met inachtneming van bijlage II, deel 2, van [verordening 2016/2031](32016R2031).
 
 2. Onze Minister treft fytosanitaire maatregelen als bedoeld in bijlage II van [verordening 2016/2031](32016R2031) in een situatie als bedoeld in artikel 29, eerste lid, eerste alinea, van [verordening 2016/2031](32016R2031).
 
-#### Artikel 4
+##### Artikel 4
 
 1. Onze Minister kan in situaties als bedoeld in artikel 31, eerste lid, van [verordening 2016/2031](32016R2031), strengere fytosanitaire maatregelen treffen dan de fytosanitaire maatregelen, bedoeld in artikel 28, eerste, tweede en derde lid, en artikel 30, eerste, derde en vierde lid, van [verordening 2016/2031](32016R2031).
 
 2. Onze Minister kan in situaties als bedoeld in artikel 37, negende lid, van [verordening 2016/2031](32016R2031), strengere fytosanitaire maatregelen treffen dan de fytosanitaire maatregelen, bedoeld in artikel 37, vierde lid, van [verordening 2016/2031](32016R2031).
 
-#### Artikel 5
+##### Artikel 5
 
 Bij ministeriële regeling kan vrijstelling worden verleend van de verplichting, bedoeld in artikel 14, eerste lid, of artikel 15, eerste lid, van [verordening 2016/2031](32016R2031) in situaties als bedoeld in artikel 14, tweede lid, of artikel 15, tweede lid, van [verordening 2016/2031](32016R2031).
 
-#### Artikel 6
+##### Artikel 6
 
 1. Bij ministeriële regeling kan een afgebakend gebied als bedoeld in artikel 18, eerste lid, van [verordening 2016/2031](32016R2031) worden ingesteld, gewijzigd of opgeheven en worden fytosanitaire maatregelen getroffen als bedoeld in bijlage II van [verordening 2016/2031](32016R2031).
 
 2. De burgemeester van een betrokken gemeente verleent medewerking aan Onze Minister bij het nemen van fytosanitaire maatregelen.
 
-#### Artikel 7
+##### Artikel 7
 
 Onze Minister kan tijdelijke fytosanitaire maatregelen treffen als bedoeld in artikel 52, tweede lid, van [verordening 2016/2031](32016R2031).
 
-#### Artikel 8
+##### Artikel 8
 
 1. De fytosanitaire maatregelen, bedoeld in de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&hoofdstuk=3&z=2021-03-01&g=2021-03-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&hoofdstuk=4&z=2021-03-01&g=2021-03-01), kunnen, indien zij een besluit zijn, voor één of meer afzonderlijke gevallen worden genomen.
 
@@ -142,11 +170,11 @@ Onze Minister kan tijdelijke fytosanitaire maatregelen treffen als bedoeld in ar
 
 3. Het is verboden te handelen in strijd met deze besluiten.
 
-#### Artikel 9
+##### Artikel 9
 
 Bij ministeriële regeling kunnen regels worden gesteld over de fytosanitaire maatregelen, bedoeld in de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&hoofdstuk=3&z=2021-03-01&g=2021-03-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&hoofdstuk=4&z=2021-03-01&g=2021-03-01).
 
-#### Artikel 10
+##### Artikel 10
 
 1. Onze Minister kan een ontheffing verlenen van artikel 5, eerste lid, van [verordening 2016/2031](32016R2031) in verband met de in artikel 8, eerste lid, van [verordening 2016/2031](32016R2031) genoemde situaties.
 
@@ -156,7 +184,7 @@ Bij ministeriële regeling kunnen regels worden gesteld over de fytosanitaire ma
 
 4. Een verzoek om ontheffing wordt bij Onze Minister ingediend met gebruikmaking van een middel dat door Onze Minister beschikbaar wordt gesteld.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Onze Minister kan een quarantainestation of een gesloten faciliteit als bedoeld in artikel 60, eerste lid, onder a, van [verordening 2016/2031](32016R2031) aanwijzen.
 
@@ -164,7 +192,7 @@ Bij ministeriële regeling kunnen regels worden gesteld over de fytosanitaire ma
 
 3. Een verzoek om aanwijzing wordt bij Onze Minister ingediend met gebruikmaking van een middel dat door Onze Minister beschikbaar wordt gesteld.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Onze Minister kan op verzoek een vergunning verlenen voor het gebruik van een aangewezen quarantainestation of een gesloten faciliteit in een andere lidstaat als bedoeld in artikel 60, eerste lid, onder b, van [verordening 2016/2031](32016R2031).
 
@@ -174,7 +202,7 @@ Bij ministeriële regeling kunnen regels worden gesteld over de fytosanitaire ma
 
 4. Een verzoek om een vergunning wordt bij Onze Minister ingediend met gebruikmaking van een middel dat door Onze Minister beschikbaar wordt gesteld.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Aan een besluit als bedoeld in de [hoofdstukken 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&hoofdstuk=6&z=2021-03-01&g=2021-03-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&hoofdstuk=8&z=2021-03-01&g=2021-03-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&hoofdstuk=9&z=2021-03-01&g=2021-03-01), kunnen voorschriften of beperkingen worden verbonden.
 
@@ -182,7 +210,7 @@ Bij ministeriële regeling kunnen regels worden gesteld over de fytosanitaire ma
 
 ### Hoofdstuk 7. Registratie en gegevensverstrekking
 
-#### Artikel 14
+##### Artikel 14
 
 1. Bij ministeriële regeling kunnen andere categorieën telers of professionele marktdeelnemers dan bedoeld in artikel 65, eerste lid, onderdeel a tot en met e, van [verordening 2016/2031](32016R2031), worden verplicht zich in te schrijven in het register.
 
@@ -190,7 +218,7 @@ Bij ministeriële regeling kunnen regels worden gesteld over de fytosanitaire ma
 
 3. Onze Minister stelt de in het register opgenomen gegevens ter beschikking overeenkomstig artikel 68 van [verordening 2016/2031](32016R2031).
 
-#### Artikel 15
+##### Artikel 15
 
 1. Een ieder verstrekt Onze Minister desgevraagd de gegevens en inlichtingen en verschaft hem desgevraagd inzage in de gegevens en bescheiden die redelijkerwijs nodig zijn voor de uitvoering van zijn taken.
 
@@ -206,15 +234,15 @@ Bij ministeriële regeling kunnen regels worden gesteld over de fytosanitaire ma
 
 ### Hoofdstuk 8. Plantenpaspoort, certificaten, merktekens
 
-#### Artikel 16
+##### Artikel 16
 
 Bij ministeriële regeling kan worden bepaald in welke gevallen er sprake is van de situatie, bedoeld in artikel 82, eerste alinea, van [verordening 2016/2031](32016R2031) en welke documenten in die situatie vereist zijn.
 
-#### Artikel 17
+##### Artikel 17
 
 Onze Minister kan in de situatie als bedoeld in artikel 94, tweede lid van [verordening 2016/2031](32016R2031) het fytosanitair certificaat vervangen door een gewaarmerkt afschrift hiervan.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Onze Minister kan op verzoek een erkenning verlenen tot het aanbrengen van een merkteken op houten verpakkingsmateriaal, hout of andere materialen als bedoeld in artikel 98, eerste en tweede lid, van [verordening 2016/2031](32016R2031) of tot het herstellen van houten verpakkingsmateriaal overeenkomstig artikel 97 van [verordening 2016/2031](32016R2031).
 
@@ -222,7 +250,7 @@ Onze Minister kan in de situatie als bedoeld in artikel 94, tweede lid van [vero
 
 ### Hoofdstuk 9. Aanwijzing laboratorium en grenscontroleposten
 
-#### Artikel 19
+##### Artikel 19
 
 1. Onze Minister wijst een nationaal referentielaboratorium aan als bedoeld in artikel 100 van [verordening 2017/625](32017R0625).
 
@@ -230,7 +258,7 @@ Onze Minister kan in de situatie als bedoeld in artikel 94, tweede lid van [vero
 
 ### Hoofdstuk 10. Preventie
 
-#### Artikel 20
+##### Artikel 20
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot:
 
@@ -242,7 +270,7 @@ Onze Minister kan in de situatie als bedoeld in artikel 94, tweede lid van [vero
 
 ### Hoofdstuk 11. Financiële bepalingen
 
-#### Artikel 21
+##### Artikel 21
 
 1. Een professionele marktdeelnemer is een retributie verschuldigd voor kosten van officiële controles, bedoeld in artikel 79 van [verordening 2017/625](32017R0625) en kosten van officiële controles en andere officiële activiteiten, bedoeld in artikel 80 van [verordening 2017/625](32017R0625).
 
@@ -266,19 +294,19 @@ Onze Minister kan in de situatie als bedoeld in artikel 94, tweede lid van [vero
 
 ### Hoofdstuk 12. Toezicht en handhaving
 
-#### Artikel 22
+##### Artikel 22
 
 1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet, van het bepaalde bij of krachtens [verordening 2016/2031](32016R2031) en het bepaalde bij of krachtens [verordening 2017/625](32017R0625) met betrekking tot beschermende maatregelen tegen schadelijke organismen bij planten zijn belast de bij besluit van Onze Minister aangewezen ambtenaren, alsmede de bij besluit van Onze Minister aangewezen personen, werkzaam bij een controle-instelling of een keuringsinstelling als bedoeld in [artikel 8 van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=8) onderscheidenlijk [artikel 19 van de Zaaizaad- en plantgoedwet 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=19).
 
 2. De door Onze Minister aangewezen ambtenaren en personen verstrekken elkaar ter uitvoering van hun taak uit eigen beweging of desgevraagd onderling de voor de uitvoering van hun taak noodzakelijke inlichtingen en gegevens.
 
-#### Artikel 23
+##### Artikel 23
 
 1. In aanvulling op [artikel 5:15, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15) zijn de in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&hoofdstuk=12&artikel=22&z=2021-03-01&g=2021-03-01), bedoelde ambtenaren en personen bevoegd, met medeneming van de benodigde apparatuur, een woning binnen te treden zonder toestemming van de bewoner.
 
 2. In het in [artikel 5:18, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) bedoelde geval verpakken en verzegelen de in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&hoofdstuk=12&artikel=22&z=2021-03-01&g=2021-03-01), bedoelde ambtenaren en personen de monsters ter plaatse.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Eenieder wie zulks aangaat handelt overeenkomstig dan wel verleent zijn medewerking aan de uitvoering van een krachtens deze wet genomen maatregel of verrichte handeling, en verleent de in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&hoofdstuk=12&artikel=22&z=2021-03-01&g=2021-03-01), bedoelde ambtenaren en personen alle medewerking die redelijkerwijs nodig is voor de fytosanitaire controle- en inspectiewerkzaamheden.
 
@@ -286,17 +314,17 @@ Onze Minister kan in de situatie als bedoeld in artikel 94, tweede lid van [vero
 
 3. Het is verboden te handelen in strijd met dit artikel.
 
-#### Artikel 25
+##### Artikel 25
 
 Het is verboden te handelen in strijd met bij ministeriële regeling aangewezen voorschriften van [verordening 2016/2031](32016R2031), van [verordening 2017/625](32017R0625) met betrekking tot beschermende maatregelen tegen schadelijke organismen bij planten en van EU gedelegeerde- en uitvoeringshandelingen van [verordening 2016/2031](32016R2031) en van [verordening 2017/625](32017R0625).
 
-#### Artikel 26
+##### Artikel 26
 
 1. Onze Minister kan een bestuurlijke boete opleggen in geval van overtreding van het bepaalde bij of krachtens de [artikelen 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&hoofdstuk=5&artikel=8&z=2021-03-01&g=2021-03-01), [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&hoofdstuk=6&artikel=13&z=2021-03-01&g=2021-03-01), [15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&hoofdstuk=7&artikel=15&z=2021-03-01&g=2021-03-01), [20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&hoofdstuk=10&artikel=20&z=2021-03-01&g=2021-03-01), [24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&hoofdstuk=12&artikel=24&z=2021-03-01&g=2021-03-01) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&hoofdstuk=12&artikel=25&z=2021-03-01&g=2021-03-01).
 
 2. Indien de ernst van de overtreding of de omstandigheden waaronder zij is begaan daartoe aanleiding geven, wordt zij aan het Openbaar Ministerie voorgelegd.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de hoogte van de bestuurlijke boete die voor een overtreding of voor categorieën van overtredingen ten hoogste kan worden opgelegd.
 
@@ -304,29 +332,29 @@ Het is verboden te handelen in strijd met bij ministeriële regeling aangewezen 
 
 3. De berekening van de jaaromzet geschiedt op voet van het bepaalde in [artikel 377, zesde lid, van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=377) voor de netto-omzet.
 
-#### Artikel 28
+##### Artikel 28
 
 Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van het bepaalde bij of krachtens deze wet en van het bepaalde bij of krachtens [verordening 2016/2031](32016R2031), [verordening 2017/625](32017R0625) met betrekking tot beschermende maatregelen tegen schadelijke organismen bij planten en EU gedelegeerde- en uitvoeringshandelingen van [verordening 2016/2031](32016R2031) en van [verordening 2017/625](32017R0625).
 
-#### Artikel 29
+##### Artikel 29
 
 Bij gebreke van volledige betaling binnen de gestelde termijn kan Onze Minister de bestuurlijke boete of dwangsom, verhoogd met de invorderingskosten, invorderen bij dwangbevel.
 
 ### Hoofdstuk 13. Wijziging van de [Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755)
 
-#### Artikel 30
+##### Artikel 30
 
 Wijzigt de Landbouwkwaliteitswet.
 
 ### Hoofdstuk 14. Wijziging van de [Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670)
 
-#### Artikel 31
+##### Artikel 31
 
 Wijzigt de Wet gewasbeschermingsmiddelen en biociden.
 
 ### Hoofdstuk 15. Wijziging van de [Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063)
 
-#### Artikel 32
+##### Artikel 32
 
 Wijzigt de Wet op de economische delicten.
 
@@ -334,47 +362,47 @@ Wijzigt de Wet op de economische delicten.
 
 ### Hoofdstuk 15b. Overgangsbepalingen
 
-#### Artikel 32b
+##### Artikel 32b
 
 Onze Minister is bevoegd in gevallen waarin de schade, welke het gevolg is van het toepassen van krachtens de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&hoofdstuk=3&z=2021-03-01&g=2021-03-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&hoofdstuk=4&z=2021-03-01&g=2021-03-01) getroffen fytosanitaire maatregelen, onevenredig zwaar op een of meer personen zou drukken, een tegemoetkoming te verlenen in de geleden schade.
 
-#### Artikel 32c
+##### Artikel 32c
 
 Verzoeken tot tegemoetkoming in de geleden schade, welke het gevolg is van toepassing van krachtens [artikel 3 van de Plantenziektenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002075&artikel=3) gegeven voorschriften, kunnen vanaf het tijdstip van inwerkingtreding van [artikel 32b](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&hoofdstuk=15b&artikel=32b&z=2021-03-01&g=2021-03-01) worden ingediend op grond van artikel 32b.
 
 ### Hoofdstuk 16. Slotbepalingen
 
-#### Artikel 32d
+##### Artikel 32d
 
 De voordracht voor een krachtens deze wet vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
-#### Artikel 33
+##### Artikel 33
 
 Op de betaling van retributies op grond van de [Plantenziektenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002075) die verschuldigd waren voor het tijdstip van inwerkingtreding van deze wet, blijven de regels van toepassing, geldende ten tijde van de dagtekening van de nota’s.
 
-#### Artikel 34
+##### Artikel 34
 
 De [Plantenziektenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002075) wordt ingetrokken.
 
-#### Artikel 35
+##### Artikel 35
 
 Wijzigt de Algemene douanewet.
 
-#### Artikel 36
+##### Artikel 36
 
 Wijzigt de Algemene wet bestuursrecht.
 
-#### Artikel 37
+##### Artikel 37
 
 Deze wet wordt aangehaald als: Plantgezondheidswet.
 
-#### Artikel 38
+##### Artikel 38
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Bij koninklijk besluit kan een ander tijdstip worden vastgesteld waarop de [hoofdstukken 13](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&hoofdstuk=13&z=2021-03-01&g=2021-03-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&hoofdstuk=14&z=2021-03-01&g=2021-03-01) in werking treden.
 
 2. [Hoofdstuk 15A](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&hoofdstuk=15a&z=2021-03-01&g=2021-03-01) treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin de wet wordt geplaatst.
 
-#### Artikel 39
+##### Artikel 39
 
 De [artikelen 32b](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&hoofdstuk=15b&artikel=32b&z=2021-03-01&g=2021-03-01) en [artikel 32c](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&hoofdstuk=15b&artikel=32c&z=2021-03-01&g=2021-03-01) vervallen op een bij koninklijk besluit te bepalen datum.
 

@@ -1,13 +1,35 @@
 ---
-title: "Besluit vaststelling amvb inzake instellen commissie ex artikel 7 Garantiewet Militairen K.N.I.L."
+title: "Besluit van 1 februari 1952, houdende vaststelling van een algemene maatregel van bestuur inzake het instellen van een commissie, alsmede van de mogelijkheid van beroep tegen beslissingen van de commissie, als bedoeld in artikel 7 van de Garantiewet Militairen K.N.I.L"
 identifier: "BWBR0002085"
-categorie: "Bestuursrecht"
-publicatiedatum: 1997-01-29
-laatste_update: 1997-01-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002085"
+country: "nl"
+rank: "amvb"
+publication_date: "1997-01-29"
+last_updated: "1997-01-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002085"
+soort: "AMvB"
+stam_id: "1163773"
+version_id: "1722272"
+internal_id: "C1722271"
+label_id: "1128064"
+dtd_version: "2.0"
+original_entry_into_force: "1952-02-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002085/1997-01-29/0"
+intitule_bron: "Stb.1952-51"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1952-02-01"
+intitule_status: "goed"
+original_publication: "Stb.1952-51"
+original_signed_date: "1952-02-01"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1952-02-21"
+jci_1_3: "jci1.3:c:BWBR0002085&z=1997-01-29&g=1997-01-29"
+jci_1_0: "1.0:c:BWBR0002085&g=1997-01-29"
+citeertitel_status: "officieel"
+short_title: "Besluit vaststelling amvb inzake instellen commissie ex artikel 7 Garantiewet Militairen K.N.I.L."
+signed_date: "1952-02-01"
+entry_into_force: "1952-02-21"
 ---
-
 # Besluit van 1 februari 1952, houdende vaststelling van een algemene maatregel van bestuur inzake het instellen van een commissie, alsmede van de mogelijkheid van beroep tegen beslissingen van de commissie, als bedoeld in artikel 7 van de Garantiewet Militairen K.N.I.L
 
 Op de voordracht van Onze Staatssecretaris voor Uniezaken en Overzeese Rijksdelen van 14 December 1951, Afdeling Mil. Pers. Zaken, No. 30;
@@ -20,7 +42,7 @@ Gezien het nader rapport van 24 Januari 1952, Afdeling Militaire Personeelszaken
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -30,11 +52,11 @@ hetgeen daaronder wordt verstaan in [artikel 1 van de Garantiewet Militairen K.N
 
 "Commissie": de Commissie bedoeld in [artikel 7 van de Garantiewet Militairen K.N.I.L.](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=7)
 
-#### Artikel 2
+##### Artikel 2
 
 Als Commissie treedt op de Garantiewetcommissie, bedoeld in artikel 2 van Ons besluit van 26 mei 1953 (**Stb.** 239), met dien verstande, dat voor de behandeling van zaken, de [Garantiewet Militairen K.N.I.L.](https://wetten.overheid.nl/jci1.3:c:BWBR0002077) betreffende, de leden en de plaatsvervangende leden door andere leden en plaatsvervangende leden kunnen worden vervangen.
 
-#### Artikel 3
+##### Artikel 3
 
 Voor zover daarvan bij dit besluit niet nadrukkelijk wordt afgeweken, zijn de volgende artikelen van Ons besluit van 26 mei 1953 (**Stb.** 239) van overeenkomstige toepassing:
 
@@ -44,7 +66,7 @@ Voor zover daarvan bij dit besluit niet nadrukkelijk wordt afgeweken, zijn de vo
 
 - c. op de Adviescommissie in Garantiewetzaken, bedoeld in artikel 19, lid 2 van Ons besluit van 26 mei 1953 (**Stb.** 239) juncto artikel 6, lid 2 van het onderwerpelijk besluit: artikel 20, lid 1.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Zaken tot welker beslissing de Commissie bevoegd is kunnen uitsluitend worden aanhangig gemaakt door:
 
@@ -62,21 +84,21 @@ Voor zover daarvan bij dit besluit niet nadrukkelijk wordt afgeweken, zijn de vo
 
 2. De Commissie kan ook ambtshalve zaken in behandeling nemen met inbegrip van zaken, waarbij een groep overheidsdienaren is betrokken.
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 1. Tegen de beslissingen van de commissie kan een belanghebbende als bedoeld in [artikel 4, onder c, d, e en g](https://wetten.overheid.nl/jci1.3:c:BWBR0002085&artikel=4&z=1997-01-29&g=1997-01-29), beroep instellen bij Onze Minister van Binnenlandse Zaken.
 
 2. Het bepaalde in artikel 19 van Ons besluit van 26 mei 1953 (**Stb.** 239) is van overeenkomstige toepassing.
 
-#### Artikel 7
+##### Artikel 7
 
 Alle stukken en geschriften, opgemaakt in verband met de naleving van de voorschriften van dit besluit, voor zover niet aan evenredig recht onderworpen, zijn vrij van zegel.
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 

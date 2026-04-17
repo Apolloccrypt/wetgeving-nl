@@ -1,13 +1,39 @@
 ---
-title: "Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Defensie"
+title: "Besluit van 8 juni 1999, houdende vaststelling van de regeling inzake de aanvullende voorzieningen bij werkloosheid van defensie personeel (Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Defensie)"
 identifier: "BWBR0010510"
-categorie: "Sociaal recht"
-publicatiedatum: 2025-01-17
-laatste_update: 2025-01-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010510"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-01-17"
+last_updated: "2025-01-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010510"
+soort: "AMvB"
+stam_id: "1117833"
+version_id: "1656762"
+internal_id: "C1656761"
+label_id: "1083994"
+dtd_version: "2.0"
+original_entry_into_force: "2001-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010510/2025-01-17/0"
+intitule_bron: "Stb.1999-282"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-06-08"
+intitule_published: "1999-07-13"
+intitule_in_force: "1999-08-24"
+intitule_status: "goed"
+original_publication: "Stb.1999-282"
+original_signed_date: "1999-06-08"
+original_published_date: "1999-07-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-1999-282"
+entry_into_force_date: "2001-01-01"
+jci_1_3: "jci1.3:c:BWBR0010510&z=2025-01-17&g=2025-01-17"
+jci_1_0: "1.0:c:BWBR0010510&g=2025-01-17"
+citeertitel_status: "officieel"
+short_title: "Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Defensie"
+signed_date: "1999-06-08"
+entry_into_force: "2001-01-01"
 ---
-
 # Besluit van 8 juni 1999, houdende vaststelling van de regeling inzake de aanvullende voorzieningen bij werkloosheid van defensie personeel (Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Defensie)
 
 Op de voordracht van de Staatssecretaris van Defensie van 12 januari 1999, nr. P/98008731;
@@ -24,7 +50,7 @@ Treedt volgens Stb. 2001/277 in werking als fase 2 van de Wet overheidspersoneel
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 In dit besluit wordt verstaan onder:
 
@@ -70,7 +96,7 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 2. Bovenwettelijke uitkeringen
 
-#### Artikel 2. Aansluitende uitkering
+##### Artikel 2. Aansluitende uitkering
 
 1. Betrokkene die recht heeft op een WW-uitkering en die op de dag voor het intreden van zijn werkloosheid een aangesloten dienstijd heeft van tenminste 6 jaar en 40 jaar of ouder is, heeft na het einde van de uitkeringsduur van de WW-uitkering recht op een aansluitende uitkering. De duur van de aansluitende uitkering is het verschil in uitkeringsduur tussen de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) en de uitkeringsduur van de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) zoals deze gold voor 1 oktober 2006.
 
@@ -86,19 +112,19 @@ In dit besluit wordt verstaan onder:
 
 6. Er bestaat geen recht op aansluitende uitkering als betrokkene zijn recht heeft afgekocht als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=5&artikel=15&z=2025-01-17&g=2025-01-17).
 
-#### Artikel 3. Aanvullende uitkering
+##### Artikel 3. Aanvullende uitkering
 
 1. Betrokkene, die recht heeft op een WW-uitkering, dan wel een aansluitende uitkering ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=2&artikel=2&z=2025-01-17&g=2025-01-17), heeft recht op een aanvullende uitkering.
 
 2. Er bestaat geen recht op aanvullende uitkering als betrokkene zijn recht heeft afgekocht als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=5&artikel=15&z=2025-01-17&g=2025-01-17).
 
-#### Artikel 4. Hoogte aanvullende uitkering
+##### Artikel 4. Hoogte aanvullende uitkering
 
 1. De WW-uitkering wordt gedurende de eerste zes maanden aangevuld tot 80%, gedurende de daarop volgende zes maanden tot 75% en gedurende de resterende periode tot 70% van het voor betrokkene geldende dagloon.
 
 2. Gedurende de duur van de aansluitende uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=2&artikel=2&z=2025-01-17&g=2025-01-17), bedraagt de uitkering 70% van het voor betrokkene geldende dagloon.
 
-#### Artikel 5. Aanvullende uitkering bij ziekte
+##### Artikel 5. Aanvullende uitkering bij ziekte
 
 1. Indien betrokkene gedurende de periode dat hij recht heeft op een loongerelateerde WW-uitkering of op een aansluitende uitkering, wegens ziekte verhinderd wordt arbeid te verrichten en daarom een uitkering krachtens de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) ontvangt, wordt de uitkering krachtens de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) aangevuld tot de percentages van het dagloon bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=2&artikel=4&z=2025-01-17&g=2025-01-17).
 
@@ -106,13 +132,13 @@ In dit besluit wordt verstaan onder:
 
 3. In afwijking van het tweede lid wordt indien de vrouwelijke betrokkene gedurende de periode dat zij recht heeft op een loongerelateerde WW-uitkering of op een aansluitende uitkering recht krijgt op een uitkering krachtens [artikel 29a van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29a), die uitkering aangevuld tot 100% van het voor betrokkene geldende dagloon.
 
-#### Artikel 6. Aanvullende overlijdensuitkering
+##### Artikel 6. Aanvullende overlijdensuitkering
 
 1. Zo spoedig mogelijk na het overlijden van betrokkene wordt de uitkering bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=35), dan wel [36 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=36) aangevuld tot 100% van het voor betrokkene geldende dagloon over een tijdvak van 3 maanden.
 
 2. Indien betrokkene overlijdt tijdens de duur van de uitkering op grond van dit besluit en er geen recht bestaat op een overlijdensuitkering op grond van [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=35) en [36 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=36), uitsluitend omdat betrokkene niet meer verzekerd is op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), wordt een overlijdensuitkering betaald onder overeenkomstige toepassing van [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=35) en [36 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=36). Deze uitkering wordt aangevuld overeenkomstig het eerste lid.
 
-#### Artikel 7. Voorwaarden aanvullende en aansluitende uitkeringen
+##### Artikel 7. Voorwaarden aanvullende en aansluitende uitkeringen
 
 1. Tijdens de duur van de aanvullende en aansluitende uitkeringen zijn de regels betreffende het recht op een WW-uitkering welke bij of krachtens de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) zijn vastgesteld van overeenkomstige toepassing.
 
@@ -120,13 +146,13 @@ In dit besluit wordt verstaan onder:
 
 3. In afwijking van het bepaalde in het eerste en tweede lid kan Onze Minister nadere regels stellen.
 
-#### Artikel 8. Aanvraag uitkering
+##### Artikel 8. Aanvraag uitkering
 
 Onze Minister beslist over de toekenning van de bovenwettelijke uitkering op aanvraag van betrokkene.
 
 ### Hoofdstuk 3. Loonaanvulling, aanspraken bij werkloosheid na werkhervatting en privatiseringsontslag
 
-#### Artikel 9. Loonaanvulling
+##### Artikel 9. Loonaanvulling
 
 1. Betrokkene, die aansluitend aan zijn ontslag een passende nieuwe betrekking aanvaardt, ontvangt op zijn aanvraag een loonaanvulling, indien het dagloon in de nieuwe betrekking minder bedraagt dan het dagloon dat voor hem zou gelden als hij werkloos zou zijn geworden.
 
@@ -154,7 +180,7 @@ Onze Minister beslist over de toekenning van de bovenwettelijke uitkering op aan
 
 - b. [artikel 53g van het Algemeen militair ambtenarenreglement](onbekend) van toepassing is.
 
-#### Artikel 10. Aanspraken bij werkloosheid na werkhervatting
+##### Artikel 10. Aanspraken bij werkloosheid na werkhervatting
 
 1. Het recht op de bovenwettelijke uitkering herleeft op aanvraag van betrokkene indien hij na aanvaarding van arbeid wederom werkloos is geworden en recht heeft op een uitkering krachtens de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045).
 
@@ -164,7 +190,7 @@ Onze Minister beslist over de toekenning van de bovenwettelijke uitkering op aan
 
 4. De duur en hoogte van de bovenwettelijke uitkering zijn gelijk aan de duur en hoogte van de bovenwettelijke uitkering waarop betrokkene nog recht zou hebben indien hij vanaf het tijdstip waarop het ontslag is ingegaan onafgebroken werkloos zou zijn geweest.
 
-#### Artikel 11. Privatiseringsontslag
+##### Artikel 11. Privatiseringsontslag
 
 1. Voor de toepassing van dit artikel wordt verstaan onder:
 
@@ -186,7 +212,7 @@ Onze Minister beslist over de toekenning van de bovenwettelijke uitkering op aan
 
 ### Hoofdstuk 4. Samenloop
 
-#### Artikel 12
+##### Artikel 12
 
 1. Betrokkene die ter zake van eenzelfde ontslag recht heeft op een suppletie als bedoeld in de Suppletieregeling gedeeltelijk arbeidsongeschikten sector defensie heeft gedurende de termijn dat hij recht heeft op die suppletie geen recht op een bovenwettelijke uitkering krachtens dit besluit.
 
@@ -196,17 +222,17 @@ Onze Minister beslist over de toekenning van de bovenwettelijke uitkering op aan
 
 4. Het recht op een uitkering krachtens dit besluit eindigt met ingang van de dag waarop betrokkene recht verkrijgt op een arbeidsongeschiktheidsuitkering, berekend naar een arbeidsongeschiktheid van 80% of meer.
 
-#### Artikel 13
+##### Artikel 13
 
 Indien betrokkene aansluitend aan het ontslag recht heeft op een arbeidsongeschiktheidsuitkering berekend naar een arbeidsongeschiktheid van 80% of meer, en nadien als gevolg van een vaststelling van de mate van arbeidsongeschiktheid op minder dan 80% recht krijgt op een bovenwettelijke uitkering op grond van dit besluit, worden duur en hoogte van de bovenwettelijke uitkering vastgesteld alsof de bovenwettelijke uitkering zou zijn ingegaan op de ingangsdatum van het ontslag.
 
 ### Hoofdstuk 5. Overige bepalingen
 
-#### Artikel 14. Tegemoetkoming verhuiskosten
+##### Artikel 14. Tegemoetkoming verhuiskosten
 
 Aan betrokkene, die elders arbeid of bedrijf ter hand gaat nemen, kan ter zake van de kosten, die voor hem aan een daartoe nodige verhuizing zijn verbonden, op zijn aanvraag door Onze Minister een tegemoetkoming worden toegekend tot ten hoogste het bedrag van een vergoeding volgens de normen van het [Verplaatsingskostenbesluit defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0032312), onder verrekening van een tegemoetkoming in verhuiskosten uit andere hoofde.
 
-#### Artikel 15. Afkoop
+##### Artikel 15. Afkoop
 
 1. Betrokkene kan Onze Minister verzoeken om afkoop van het recht op de aanvullende of aansluitende uitkeringen waarop hij recht zou hebben gehad indien hij aansluitend aan het einde van zijn ontslag voortdurend werkloos zou zijn gebleven.
 
@@ -216,17 +242,17 @@ Aan betrokkene, die elders arbeid of bedrijf ter hand gaat nemen, kan ter zake v
 
 4. Met de afkoop van bovenwettelijke uitkering doet betrokkene afstand van alle overige rechten in verband met zijn ontslag waarop hij tot de pensioengerechtigde leeftijd jegens Onze Minister aanspraak zou kunnen maken.
 
-#### Artikel 16
+##### Artikel 16
 
 Indien het niveau van de uitkering van de WW een algemene neerwaartse wijziging ondergaat, wordt deze neerwaartse wijziging, behoudens indien in het sector overleg Defensie sociale partners anders overeenkomen binnen 6 maanden na de datum van uitgifte van het Staatsblad waarin de maatregel is gepubliceerd, op overeenkomstige wijze ten aanzien van de bovenwettelijke uitkeringen doorgevoerd vanaf de in het Staatsblad vermelde datum van inwerkingtreding van bedoelde maatregel, doch niet eerder dan 6 maanden na de datum van uitgifte van het Staatsblad.
 
-#### Artikel 17
+##### Artikel 17
 
 Onze Minister kan ter uitvoering van de [artikelen 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=2&artikel=2&z=2025-01-17&g=2025-01-17), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=3&artikel=9&z=2025-01-17&g=2025-01-17), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=3&artikel=10&z=2025-01-17&g=2025-01-17), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=5&artikel=14&z=2025-01-17&g=2025-01-17) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=5&artikel=15&z=2025-01-17&g=2025-01-17) nadere regels van administratieve aard stellen.
 
 ### Hoofdstuk 6. Overgangsrecht en slotbepalingen
 
-#### Artikel 18
+##### Artikel 18
 
 1. Het [Werkloosheidsbesluit beroepsmilitairen bepaalde tijd](https://wetten.overheid.nl/jci1.3:c:BWBR0007212) en het [Werkloosheidsbesluit defensiepersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0008113) zijn ingetrokken met ingang van 1 januari 2003.
 
@@ -246,17 +272,17 @@ Onze Minister kan ter uitvoering van de [artikelen 2, vijfde lid](https://wetten
 
 - b. de noemer gelijk is aan de laatstgenoten bezoldiging.
 
-#### Artikel 19
+##### Artikel 19
 
 Dit besluit treedt in werking met ingang van een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 20
+##### Artikel 20
 
 Dit besluit wordt aangehaald als: Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Defensie.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 5a. Aanvullende uitkering in verband met adoptieverlof
+##### Artikel 5a. Aanvullende uitkering in verband met adoptieverlof
 
 1. De uitkering krachtens de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008) die betrokkene heeft in verband met adoptieverlof wordt gedurende ten hoogste vier aaneengesloten weken vanaf twee weken vóór de eerste dag dat de feitelijke opneming ter adoptie een aanvang heeft genomen of zal nemen, aangevuld tot 100% van het voor betrokkene geldende dagloon.
 
@@ -272,7 +298,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 17a. Loonaanvulling bij ontslag op aanvraag
+##### Artikel 17a. Loonaanvulling bij ontslag op aanvraag
 
 1. De militair die:
 
@@ -294,7 +320,7 @@ komt in aanmerking voor een loonaanvulling.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 14a. Tegemoetkoming inkomensafhankelijke bijdrage [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) (ZVW)
+##### Artikel 14a. Tegemoetkoming inkomensafhankelijke bijdrage [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) (ZVW)
 
 1. Aan de gewezen militair die met toepassing van het Sociaal Beleidskader overtolligheidsontslag is verleend en die in verband met dat ontslag recht heeft op een aanvullende of aansluitende uitkering, wordt een tegemoetkoming in de inkomensafhankelijke bijdrage [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) toegekend.
 
@@ -302,7 +328,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 3. De tegemoetkoming wordt eenmaal per kalenderjaar in januari verstrekt, zolang de aanvullende of aansluitende uitkering duurt.
 
-#### Artikel 17b. Gegarandeerd maandelijks inkomen
+##### Artikel 17b. Gegarandeerd maandelijks inkomen
 
 1. Degene aan wie ontslag op aanvraag wordt verleend en die ten tijde van dat ontslag een aaneengesloten diensttijd heeft van ten minste 24 jaar, kan op zijn verzoek in aanmerking komen voor een gegarandeerd maandelijks inkomen indien:
 
@@ -330,19 +356,19 @@ van het door degene genoten maandsalaris vermeerderd met de maandelijkse opbouw 
 
 ### Hoofdstuk 6. Overgangsrecht en slotbepalingen
 
-#### Artikel 18a. Bijzondere gevallen
+##### Artikel 18a. Bijzondere gevallen
 
 Onze Minister kan van de [artikelen 2 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=2&artikel=2&z=2025-01-17&g=2025-01-17) en [9 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=3&artikel=9&z=2025-01-17&g=2025-01-17) afwijken voor zover toepassing gelet op het belang van dat deze regelgeving beoogd te beschermen zal leiden tot een onbillijkheid van overwegende aard.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 18b. Overgangsbepaling begripsomschrijving pensioengerechtigde leeftijd
+##### Artikel 18b. Overgangsbepaling begripsomschrijving pensioengerechtigde leeftijd
 
 In afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=1&artikel=1&z=2025-01-17&g=2025-01-17) wordt verstaan onder pensioengerechtigde leeftijd: de leeftijd van 65 jaar, voor de militair aan wie voor 1 januari 2017 ontslag is verleend, of die een aanvraag heeft ingediend als bedoeld in [artikel 39a, eerste tot en met vierde lid, van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=39a), alsmede voor de ambtenaar aan wie voor 1 januari 2018 ontslag is verleend.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 18c
+##### Artikel 18c
 
 Na inwerkingtreding van de [Wet normalisering rechtspositie ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0039393) berust dit besluit op de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12) en [12o van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12o).
 

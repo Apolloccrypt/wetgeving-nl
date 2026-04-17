@@ -1,20 +1,46 @@
 ---
-title: "Regeling stimulering projecten PAGW"
+title: "Regeling van de Minister van Infrastructuur en Waterstaat, van 6 februari 2026, nr. IENW/BSK-2026/15802, houdende regels ter stimulering van het uitvoeren van projecten in het kader van de Programmatische Aanpak Grote Wateren (Regeling stimulering projecten PAGW) [KetenID WGK027450]"
 identifier: "BWBR0052358"
-categorie: "Overig"
-publicatiedatum: 2026-03-01
-laatste_update: 2026-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052358"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-03-01"
+last_updated: "2026-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052358"
+soort: "ministeriele-regeling"
+stam_id: "17779363"
+version_id: "31431122"
+internal_id: "C44899741"
+label_id: "17677384"
+dtd_version: "2.0"
+original_entry_into_force: "2026-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052358/2026-03-01/0"
+intitule_bron: "Stcrt.2026-3704"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2026-02-06"
+intitule_published: "2026-02-25"
+intitule_in_force: "2026-02-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-3704"
+original_signed_date: "2026-02-06"
+original_published_date: "2026-02-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-3704"
+entry_into_force_date: "2026-03-01"
+jci_1_3: "jci1.3:c:BWBR0052358&z=2026-03-01&g=2026-03-01"
+jci_1_0: "1.0:c:BWBR0052358&g=2026-03-01"
+citeertitel_status: "officieel"
+short_title: "Regeling stimulering projecten PAGW"
+signed_date: "2026-02-06"
+entry_into_force: "2026-03-01"
 ---
-
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 6 februari 2026, nr. IENW/BSK-2026/15802, houdende regels ter stimulering van het uitvoeren van projecten in het kader van de Programmatische Aanpak Grote Wateren (Regeling stimulering projecten PAGW) [KetenID WGK027450]
 
 Gelet op [artikel 7.22d, tweede en derde lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=7.22d), de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=2), [3, eerste lid, aanhef en onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=3), [4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=4), en [5 van de Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=5), en de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=2) en [4, eerste lid, van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=4) juncto [artikel 17, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17);
 
 BESLUIT:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -42,15 +68,15 @@ In deze regeling wordt verstaan onder:
 
 - **verkenningsfase:** fase waarin mogelijke ontwerpen van het project worden afgewogen om te komen tot een voorkeursalternatief.
 
-#### Artikel 2. Toepasselijkheid Kaderbesluit subsidies I en M
+##### Artikel 2. Toepasselijkheid Kaderbesluit subsidies I en M
 
 De [artikelen 6, eerste, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=6), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=11), [12, aanhef en onderdelen b, c, e, en i](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=12), [14, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=14), [17, eerste lid, aanhef en onderdelen a, b, c, e en f, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=17), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=18), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=21) en [23, eerste lid van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=23) zijn van overeenkomstige toepassing op een rijksbijdrage die op grond van deze regeling wordt verleend.
 
-#### Artikel 3. Doel
+##### Artikel 3. Doel
 
 Deze regeling heeft tot doel het stimuleren en faciliteren van de uitvoering van projecten als genoemd in de bijlage bij deze regeling met als oogmerk om de ecologische waterkwaliteit te verbeteren en de natuur in of bij de grote wateren te versterken.
 
-#### Artikel 4. Kosten die in aanmerking komen voor een rijksbijdrage en hoogte van de rijksbijdrage
+##### Artikel 4. Kosten die in aanmerking komen voor een rijksbijdrage en hoogte van de rijksbijdrage
 
 1. De minister kan, gelet op het doel in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052358&artikel=4&z=2026-03-01&g=2026-03-01), op aanvraag van een provincie, gemeente of waterschap een rijksbijdrage verlenen voor een project.
 
@@ -106,7 +132,7 @@ Deze regeling heeft tot doel het stimuleren en faciliteren van de uitvoering van
 
 8. De rijksbijdrage voor een project bedraagt maximaal het in de bijlage aangegeven bedrag voor dat project.
 
-#### Artikel 5. Kosten die niet in aanmerking komen voor een rijksbijdrage
+##### Artikel 5. Kosten die niet in aanmerking komen voor een rijksbijdrage
 
 Op grond van deze regeling wordt geen rijksbijdrage voor een project verleend voor:
 
@@ -118,11 +144,11 @@ Op grond van deze regeling wordt geen rijksbijdrage voor een project verleend vo
 
 - d. kosten die zijn gemaakt vóór de datum van bekendmaking van de selectie van het project als PAGW-project.
 
-#### Artikel 6. Rijksbijdrageplafond
+##### Artikel 6. Rijksbijdrageplafond
 
 Het rijksbijdrageplafond bedraagt in totaal € 149,8 miljoen, inclusief compensabele BTW.
 
-#### Artikel 7. Aanvraag verlenen rijksbijdrage
+##### Artikel 7. Aanvraag verlenen rijksbijdrage
 
 1. Een aanvraag voor een rijksbijdrage wordt ingediend met gebruikmaking van een daartoe door de minister beschikbaar gesteld aanvraagformulier.
 
@@ -258,7 +284,7 @@ Het rijksbijdrageplafond bedraagt in totaal € 149,8 miljoen, inclusief compens
 
 7. In afwijking van het derde tot en met zesde lid, kan de minister op de aanvraag voor een rijksbijdrage beslissen dat er voldoende informatie is om de rijksbijdrage te verlenen.
 
-#### Artikel 8. Verlenen rijksbijdrage
+##### Artikel 8. Verlenen rijksbijdrage
 
 Een beschikking tot verlening vermeldt in elk geval:
 
@@ -274,13 +300,13 @@ Een beschikking tot verlening vermeldt in elk geval:
 
 - f. indien het een provincie of gemeente betreft, het bedrag aan compensabele omzetbelasting dat wordt toegevoegd aan het BTW-compensatiefonds.
 
-#### Artikel 9. Voorschotverlening
+##### Artikel 9. Voorschotverlening
 
 1. De minister verleent een voorschot van 80% binnen zes weken na de beschikking tot verlening van een rijksbijdrage voor de verkenningsfase, planuitwerkingsfase of realisatiefase.
 
 2. De minister verleent een voorschot van 100% binnen zes weken na de beschikking tot verlening van een rijksbijdrage voor de fase na realisatie.
 
-#### Artikel 10. Verplichtingen van de ontvanger
+##### Artikel 10. Verplichtingen van de ontvanger
 
 1. De minister kan bij de beschikking tot verlening de verplichting opleggen om binnen twaalf maanden na de dagtekening van de beschikking tot verlening te beginnen met de uitvoering van de activiteiten waarvoor de rijksbijdrage is verleend.
 
@@ -294,7 +320,7 @@ Een beschikking tot verlening vermeldt in elk geval:
 
 6. Een ontvanger werkt mee aan een door de minister ingesteld evaluatieonderzoek ten behoeve van een verslag over de doeltreffendheid en de effecten van de rijksbijdrage in de praktijk als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0052358&artikel=14&z=2026-03-01&g=2026-03-01).
 
-#### Artikel 11. Financiële verantwoording
+##### Artikel 11. Financiële verantwoording
 
 1. Provincies en gemeenten leggen verantwoording af over de besteding van de rijksbijdrage op de wijze bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
@@ -302,29 +328,29 @@ Een beschikking tot verlening vermeldt in elk geval:
 
 3. In afwijking van het tweede lid, kan de minister bij de beschikking tot verlening voor een waterschap een andere wijze van het afleggen van verantwoording over de besteding van de rijksbijdrage opleggen.
 
-#### Artikel 12. Vaststelling en terugvordering
+##### Artikel 12. Vaststelling en terugvordering
 
 1. De minister stelt de rijksbijdrage vast, uiterlijk op 31 december van het jaar waarin de laatste verantwoording, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0052358&artikel=11&z=2026-03-01&g=2026-03-01), heeft plaatsgevonden.
 
 2. De minister kan een onverschuldigd betaalde rijksbijdrage terugvorderen.
 
-#### Artikel 13. Hardheidsclausule
+##### Artikel 13. Hardheidsclausule
 
 1. De minister kan bij het vaststellen van de rijksbijdrage afwijken van [artikel 4, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052358&artikel=4&z=2026-03-01&g=2026-03-01), voor zover toepassing daarvan, gelet op doel of strekking van deze bepalingen, voor de ontvanger zal leiden tot een onbillijkheid van overwegende aard.
 
 2. De minister kan bij het vaststellen van de rijksbijdrage afwijken van een of meer bepalingen van deze regeling, voor zover toepassing daarvan, gelet op schriftelijke afspraken van de minister met de ontvanger die dateren van voor de inwerkingtreding van de regeling, voor de ontvanger zal leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 14. Evaluatie
+##### Artikel 14. Evaluatie
 
 De minister publiceert uiterlijk op 1 maart 2031 en daarna ten minste eenmaal in de vijf jaren een verslag over de doeltreffendheid en de effecten van de rijksbijdrage in de praktijk als bedoeld in [artikel 4:24 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:24).
 
-#### Artikel 15. Inwerkingtreding
+##### Artikel 15. Inwerkingtreding
 
 1. Deze regeling treedt in werking op 1 maart 2026.
 
 2. Deze regeling vervalt met ingang van 1 januari 2060, met dien verstande dat zij van toepassing blijft op rijksbijdragen die voor die datum zijn aangevraagd.
 
-#### Artikel 16. Citeertitel
+##### Artikel 16. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling stimulering projecten PAGW.
 

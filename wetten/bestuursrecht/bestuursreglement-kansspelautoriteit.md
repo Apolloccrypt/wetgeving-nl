@@ -1,13 +1,36 @@
 ---
-title: "Bestuursreglement Kansspelautoriteit"
+title: "Besluit van de raad van bestuur van de Kansspelautoriteit tot vaststelling van een bestuursreglement (kenmerk 01.053.735)"
 identifier: "BWBR0042093"
-categorie: "Bestuursrecht"
-publicatiedatum: 2019-04-05
-laatste_update: 2019-04-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042093"
+country: "nl"
+rank: "zbo"
+publication_date: "2019-04-05"
+last_updated: "2019-04-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042093"
+soort: "zbo"
+stam_id: "15047943"
+version_id: "25784642"
+internal_id: "C36763781"
+label_id: "14997354"
+dtd_version: "2.0"
+original_entry_into_force: "2019-04-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042093/2019-04-05/0"
+intitule_bron: "Stcrt.2019-18124"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2019-04-04"
+intitule_in_force: "2019-04-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-18124"
+original_published_date: "2019-04-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-18124"
+entry_into_force_date: "2019-04-05"
+jci_1_3: "jci1.3:c:BWBR0042093&z=2019-04-05&g=2019-04-05"
+jci_1_0: "1.0:c:BWBR0042093&g=2019-04-05"
+citeertitel_status: "officieel"
+short_title: "Bestuursreglement Kansspelautoriteit"
+entry_into_force: "2019-04-05"
 ---
-
 # Besluit van de raad van bestuur van de Kansspelautoriteit tot vaststelling van een bestuursreglement (kenmerk 01.053.735)
 
 Gezien de goedkeuring van de Minister voor Rechtsbescherming van 18 maart 2019;
@@ -16,7 +39,7 @@ Gelet op [artikel 33d, eerste lid, van de Wet op de kansspelen](https://wetten.o
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit bestuursreglement wordt verstaan onder:
 
@@ -42,11 +65,11 @@ In dit bestuursreglement wordt verstaan onder:
 
 - k. **wet:** de [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469).
 
-#### Artikel 2. Vervanging
+##### Artikel 2. Vervanging
 
 De voorzitter wordt bij zijn afwezigheid of ontstentenis vervangen door de plaatsvervangend voorzitter.
 
-#### Artikel 3. Taken
+##### Artikel 3. Taken
 
 1. De raad verdeelt diens werkzaamheden in portefeuilles voor elk bestuurslid.
 
@@ -56,7 +79,7 @@ De voorzitter wordt bij zijn afwezigheid of ontstentenis vervangen door de plaat
 
 4. De bestuurssecretaris is belast met ondersteuning van de raad.
 
-#### Artikel 4. Vergaderingen
+##### Artikel 4. Vergaderingen
 
 1. De voorzitter:
 
@@ -78,7 +101,7 @@ De voorzitter wordt bij zijn afwezigheid of ontstentenis vervangen door de plaat
 
 7. De raad neemt zijn besluiten bij voorkeur in de vergadering van de raad. De raad is gerechtigd buiten de vergadering gedocumenteerd besluiten te nemen. De desbetreffende besluiten worden ter vastlegging opgenomen in het verslag van de daarop volgende vergadering van de raad.
 
-#### Artikel 5. Het verslag
+##### Artikel 5. Het verslag
 
 1. De bestuurssecretaris draagt zorg voor verslaglegging van de vergaderingen. Het verslag van een vergadering behoeft de goedkeuring van de raad.
 
@@ -96,7 +119,7 @@ De voorzitter wordt bij zijn afwezigheid of ontstentenis vervangen door de plaat
 
 3. Het verslag wordt de eerstvolgende vergadering vastgesteld.
 
-#### Artikel 6. Besluiten
+##### Artikel 6. Besluiten
 
 1. De conceptbesluiten die aan de raad ter besluitvorming worden voorgelegd worden door één van de leden of door één van de afdelingshoofden voorbereid, dan wel onder hun verantwoordelijkheid door een medewerker van de Kansspelautoriteit.
 
@@ -106,7 +129,7 @@ De voorzitter wordt bij zijn afwezigheid of ontstentenis vervangen door de plaat
 
 4. Bij het staken van de stemmen beslist de voorzitter.
 
-#### Artikel 7. Verschoning
+##### Artikel 7. Verschoning
 
 1. Een bestuurslid heeft het recht van verschoning indien hij van mening is dat zijn onpartijdigheid bij een bepaalde aangelegenheid in het geding zou kunnen zijn. Indien hij van het recht van verschoning gebruik maakt, doet hij hiervan mededeling aan het andere bestuurslid.
 
@@ -116,11 +139,11 @@ De voorzitter wordt bij zijn afwezigheid of ontstentenis vervangen door de plaat
 
 4. Indien de in het eerste of tweede lid beschreven situatie zich voordoet, neemt het desbetreffende bestuurslid geen deel aan de behandeling van en de besluitvorming overde desbetreffende aangelegenheid. Daarvan wordt mededeling gedaan in het in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042093&artikel=5&z=2019-04-05&g=2019-04-05) bedoelde verslag.
 
-#### Artikel 8. Overleg met de personeelsvertegenwoordiging
+##### Artikel 8. Overleg met de personeelsvertegenwoordiging
 
 De raad wijst uit zijn midden de bestuurder in de zin van de [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747) aan. Deze bestuurder voert overleg met de personeelsvertegenwoordiging.
 
-#### Artikel 9. Slotbepaling
+##### Artikel 9. Slotbepaling
 
 1. De voorzitter beslist in alle geschillen over de uitleg van dit reglement.
 
@@ -128,6 +151,6 @@ De raad wijst uit zijn midden de bestuurder in de zin van de [Wet op de ondernem
 
 3. Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin dit besluit wordt geplaatst en werkt terug tot 1 februari 2019.
 
-#### Artikel 10. Citeertitel
+##### Artikel 10. Citeertitel
 
 Dit reglement wordt aangehaald als: Bestuursreglement Kansspelautoriteit.

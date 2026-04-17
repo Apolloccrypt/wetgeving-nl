@@ -1,20 +1,46 @@
 ---
-title: "Benoemingsbesluit Adviescommissie VOG-Politiegegevens"
+title: "Besluit van de Minister voor Rechtsbescherming van 12 december 2022, nr. 4369109, tot benoeming van de voorzitter en de overige leden van de Adviescommissie VOG-Politiegegevens en houdende bepalingen inzake andere aangelegenheden die de adviescommissie aangaan (Benoemingsbesluit Adviescommissie VOG-Politiegegevens)"
 identifier: "BWBR0047624"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2025-02-01
-laatste_update: 2025-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047624"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-02-01"
+last_updated: "2025-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047624"
+soort: "ministeriele-regeling"
+stam_id: "16594703"
+version_id: "29104012"
+internal_id: "C41367691"
+label_id: "16513424"
+dtd_version: "2.0"
+original_entry_into_force: "2023-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047624/2025-02-01/0"
+intitule_bron: "Stcrt.2022-34039"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-12-12"
+intitule_published: "2022-12-19"
+intitule_in_force: "2022-12-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-34039"
+original_signed_date: "2022-12-12"
+original_published_date: "2022-12-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-34039"
+entry_into_force_date: "2023-01-01"
+jci_1_3: "jci1.3:c:BWBR0047624&z=2025-02-01&g=2025-02-01"
+jci_1_0: "1.0:c:BWBR0047624&g=2025-02-01"
+citeertitel_status: "officieel"
+short_title: "Benoemingsbesluit Adviescommissie VOG-Politiegegevens"
+signed_date: "2022-12-12"
+entry_into_force: "2023-01-01"
 ---
-
 # Besluit van de Minister voor Rechtsbescherming van 12 december 2022, nr. 4369109, tot benoeming van de voorzitter en de overige leden van de Adviescommissie VOG-Politiegegevens en houdende bepalingen inzake andere aangelegenheden die de adviescommissie aangaan (Benoemingsbesluit Adviescommissie VOG-Politiegegevens)
 
 Gelet, [artikel 2 van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -24,7 +50,7 @@ In dit besluit wordt verstaan onder:
 
 - c. **Justis:** Justis, als bedoeld in [artikel 2, derde lid, onder b, sub 2, van het Organisatiebesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=2).
 
-#### Artikel 2. Samenstelling
+##### Artikel 2. Samenstelling
 
 1. De commissie bestaat uit een voorzitter en ten hoogste vier andere leden.
 
@@ -48,7 +74,7 @@ In dit besluit wordt verstaan onder:
 
 7. Bij tussentijds vertrek van een lid kan de minister een ander lid benoemen.
 
-#### Artikel 3. De benoeming van een nieuwe voorzitter of overige leden
+##### Artikel 3. De benoeming van een nieuwe voorzitter of overige leden
 
 1. Voor de opvolging van de voorzitter of een ander lid van de commissie komen uitsluitend personen in aanmerking:
 
@@ -66,7 +92,7 @@ In dit besluit wordt verstaan onder:
 
 - d. personen wier nevenfuncties conflicteren met de taak van de commissie.
 
-#### Artikel 4. Schorsing en ontslag
+##### Artikel 4. Schorsing en ontslag
 
 1. De voorzitter en andere leden van de commissie kunnen op eigen verzoek door de minister tussentijds worden geschorst of ontslagen.
 
@@ -74,7 +100,7 @@ In dit besluit wordt verstaan onder:
 
 3. De andere leden van de commissie kunnen tevens geschorst of ontslagen worden door de minister wegens ongeschiktheid, onbekwaamheid of op andere zwaarwegende gronden, na overleg met de voorzitter.
 
-#### Artikel 5. Secretariaat
+##### Artikel 5. Secretariaat
 
 1. De commissie wordt ondersteund door een secretariaat. Justis voorziet in dat secretariaat.
 
@@ -86,7 +112,7 @@ In dit besluit wordt verstaan onder:
 
 5. De secretaris en medewerkers van het secretariaat zijn tegenover anderen dan de leden van de commissie verplicht tot geheimhouding van hetgeen hen in verband met de werkzaamheden van de commissie bekend is geworden.
 
-#### Artikel 6. Protocol
+##### Artikel 6. Protocol
 
 1. De commissie stelt haar werkwijze vast in een protocol.
 
@@ -110,7 +136,7 @@ In dit besluit wordt verstaan onder:
 
 6. Het protocol wordt gepubliceerd op de website van Justis.
 
-#### Artikel 7. Verslag
+##### Artikel 7. Verslag
 
 1. De commissie brengt jaarlijks een verslag uit aan de minister.
 
@@ -118,7 +144,7 @@ In dit besluit wordt verstaan onder:
 
 3. De commissie neemt in het verslag geen persoonsgegevens op.
 
-#### Artikel 8. Bevoegdheden en verplichtingen
+##### Artikel 8. Bevoegdheden en verplichtingen
 
 1. Aan de leden van de commissie worden desgevraagd door Justis verstrekt:
 
@@ -138,7 +164,7 @@ In dit besluit wordt verstaan onder:
 
 7. Leden van de commissie die verkeren in een omstandigheid die een goede taakvervulling van de commissie kan schaden, doen daarvan onverwijld mededeling aan de voorzitter. De voorzitter meldt dit vervolgens bij de minister.
 
-#### Artikel 9. Vergoeding
+##### Artikel 9. Vergoeding
 
 1. Aan de voorzitter en de andere leden van de commissie wordt een vergoeding per vergadering toegekend.
 
@@ -148,23 +174,23 @@ In dit besluit wordt verstaan onder:
 
 4. De commissie vergadert minimaal vier keer en maximaal tien keer per jaar.
 
-#### Artikel 10. Openbaarmaking
+##### Artikel 10. Openbaarmaking
 
 1. Rapporten, notities, verslagen, adviezen en andere producten die door of namens de commissie worden vervaardigd of vergaard, worden niet door de commissie openbaar gemaakt, maar uitsluitend aan de minister uitgebracht of overgedragen.
 
 2. De minister zendt het verslag, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047624&artikel=7&z=2025-02-01&g=2025-02-01), aan de Voorzitter van de Tweede Kamer der Staten-Generaal.
 
-#### Artikel 11. Archiefbescheiden
+##### Artikel 11. Archiefbescheiden
 
 1. Het archief van de commissie wordt bij opheffing van de commissie overgebracht naar het archief van het Ministerie van Justitie en Veiligheid.
 
 2. Het archief bevat tenminste de gespreksverslagen, verslagen van beraadslagingen en andere documenten die ten grondslag hebben gelegen aan de onderzoeksbevindingen van de commissie en andere documenten die inzicht geven in de totstandkoming van de door haar uitgebrachte rapporten, verslagen en adviezen.
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 januari 2023.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Benoemingsbesluit Adviescommissie VOG-Politiegegevens.
 

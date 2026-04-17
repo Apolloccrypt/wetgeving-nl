@@ -1,14 +1,41 @@
 ---
-title: "Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken"
+title: "Wet van 17 juni 2004, houdende regels ter vergroting van de kenbaarheid van publiekrechtelijke beperkingen ten aanzien van onroerende zaken (Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken)"
 identifier: "BWBR0016876"
-categorie: "Overig"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0016876"
+country: "nl"
+rank: "wet"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0016876"
+soort: "wet"
+stam_id: "5960133"
+version_id: "26514272"
+internal_id: "C37674561"
+label_id: "5949824"
+dtd_version: "2.0"
+original_entry_into_force: "2020-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0016876/2024-01-01/0"
+intitule_bron: "Stb.2004-331"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-06-17"
+intitule_published: "2004-07-15"
+intitule_in_force: "2007-06-26"
+intitule_status: "goed"
+original_publication: "Stb.2020-60"
+original_signed_date: "2020-02-05"
+original_published_date: "2020-02-18"
+original_effect: "structuurwijziging"
+original_dossier: "35284"
+original_url_id: "stb-2020-60"
+entry_into_force_date: "2020-04-01"
+jci_1_3: "jci1.3:c:BWBR0016876&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0016876&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken"
+signed_date: "2020-02-05"
+entry_into_force: "2020-04-01"
 ---
-
-# Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken
+# Wet van 17 juni 2004, houdende regels ter vergroting van de kenbaarheid van publiekrechtelijke beperkingen ten aanzien van onroerende zaken (Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -20,7 +47,7 @@ Treedt volgens Stb. 2007/115 in werking op het tijdstip waarop de Invoeringswet 
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -44,7 +71,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - e. Dienst: Dienst voor het kadaster en de openbare registers als bedoeld in [artikel 2 van de Organisatiewet Kadaster](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=2).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Bij algemene maatregel van bestuur worden in het belang van een doelmatige kenbaarheid van publiekrechtelijke beperkingen categorieën van beperkingenbesluiten als bedoeld in [artikel 1, onderdeel b, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0016876&paragraaf=1&artikel=1&z=2024-01-01&g=2024-01-01), aangewezen, waarop deze wet van toepassing is.
 
@@ -64,7 +91,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. de kring van personen jegens wie een beperkingenbesluit geldt.
 
-#### Artikel 3
+##### Artikel 3
 
 1. In de openbare registers worden ingeschreven een beperkingenbesluit van een bestuursorgaan alsmede een daarop betrekking hebbende beslissing in administratief beroep of rechterlijke uitspraak, indien daarbij het beperkingenbesluit wordt herroepen, vernietigd, ingetrokken of gewijzigd.
 
@@ -72,57 +99,57 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2. Inschrijving van publiekrechtelijke beperkingen
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 10a
+##### Artikel 10a
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
 #### § 3. Andere dan gemeentelijke publiekrechtelijke beperkingen
 
-#### Artikel 14
+##### Artikel 14
 
 Op de inschrijving in de openbare registers van een beperkingenbesluit, een daarop betrekking hebbende beslissing in administratief beroep of rechterlijke uitspraak als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016876&paragraaf=1&artikel=3&z=2024-01-01&g=2024-01-01), en een vervallenverklaring als bedoeld in [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016876&paragraaf=2&artikel=15&z=2024-01-01&g=2024-01-01), zijn de [artikelen 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=24), en [26 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=26) niet van toepassing.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Het bestuursorgaan dat een beperkingenbesluit als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016876&paragraaf=1&artikel=3&z=2024-01-01&g=2024-01-01), heeft vastgesteld dan wel Onze Minister die het aangaat, indien een beperkingenbesluit een algemeen verbindend voorschrift in een wet of algemene maatregel van bestuur is, draagt er zorg voor dat het beperkingenbesluit dan wel een daarop betrekking hebbende beslissing in administratief beroep of rechterlijke uitspraak wordt voorzien van de actuele kadastrale aanduidingen van het object waarop deze betrekking heeft of de actuele identificatie van dat object uit een basisregistratie dan wel de handmatig ingetekende geometrie en in elektronische vorm ter inschrijving in de openbare registers aan de Dienst wordt aangeboden.
 
@@ -152,41 +179,41 @@ Op de inschrijving in de openbare registers van een beperkingenbesluit, een daar
 
 6. Bij regeling van het bestuur van de Dienst kunnen nadere regels worden gegeven omtrent wijzigingen van de identificatie van het object of de geometrie, bedoeld in het eerste lid, en de manier waarop de beperkingenbesluiten en de gegevens, bedoeld in het vijfde lid, onderdeel b, worden aangeleverd.
 
-#### Artikel 15a
+##### Artikel 15a
 
 Vervallen
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
-#### Artikel 17
+##### Artikel 17
 
 De rechtspersoon waartoe het bestuursorgaan, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016876&paragraaf=2&artikel=15&z=2024-01-01&g=2024-01-01), behoort, is aansprakelijk voor schade die is veroorzaakt door vergissingen, verzuimen, vertragingen of andere onregelmatigheden, door hem of door personen voor wier gedragingen hij aansprakelijk is begaan bij de nakoming van de bij of krachtens artikel 15 aan dat bestuursorgaan opgedragen verplichtingen.
 
 #### § 4. Overgangsrecht en slotbepalingen
 
-#### Artikel 17a
+##### Artikel 17a
 
 Vervallen
 
-#### Artikel 17b
+##### Artikel 17b
 
 Vervallen
 
-#### Artikel 17c
+##### Artikel 17c
 
 Vervallen
 
-#### Artikel 17d
+##### Artikel 17d
 
 Vervallen
 
-#### Artikel 18
+##### Artikel 18
 
 Deze wet treedt in werking op een bij wet te bepalen tijdstip.
 
-#### Artikel 19
+##### Artikel 19
 
 Deze wet wordt aangehaald als: Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken.
 

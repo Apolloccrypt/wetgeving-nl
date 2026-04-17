@@ -1,20 +1,45 @@
 ---
 title: "Interne klokkenluidersregeling MIVD"
 identifier: "BWBR0040909"
-categorie: "Overig"
-publicatiedatum: 2018-10-01
-laatste_update: 2018-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040909"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2018-10-01"
+last_updated: "2018-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040909"
+soort: "ministeriele-regeling"
+stam_id: "14611163"
+version_id: "25017572"
+internal_id: "C35781451"
+label_id: "14564864"
+dtd_version: "2.0"
+original_entry_into_force: "2018-05-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040909/2018-10-01/0"
+intitule_bron: "Stcrt.2018-27792"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-05-09"
+intitule_published: "2018-05-18"
+intitule_in_force: "2018-05-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-27792"
+original_signed_date: "2018-05-09"
+original_published_date: "2018-05-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-27792"
+entry_into_force_date: "2018-05-19"
+jci_1_3: "jci1.3:c:BWBR0040909&z=2018-10-01&g=2018-10-01"
+jci_1_0: "1.0:c:BWBR0040909&g=2018-10-01"
+citeertitel_status: "officieel"
+signed_date: "2018-05-09"
+entry_into_force: "2018-05-19"
 ---
-
 # Interne klokkenluidersregeling MIVD
 
 Gelet op [hoofdstuk 9 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9) en [paragraaf 7.2.4. van de Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&sub-paragraaf=7.2.4);
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -52,7 +77,7 @@ In deze regeling wordt verstaan onder:
 
 - q. **Wvo:** [Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277).
 
-#### Artikel 2. Zorgplicht
+##### Artikel 2. Zorgplicht
 
 1. Het bevoegd gezag draagt er zorg voor dat een melder als gevolg van het te goeder trouw en naar behoren melden van een vermoeden van een misstand of een vertrouwenspersoon, de leidinggevende, een lid van de interne commissie misstandenbehandeling of de misstandencoördinator vanwege diens functie bij de uitoefening daarvan, geen nadelige gevolgen ondervindt tijdens en na de behandeling van de melding.
 
@@ -60,11 +85,11 @@ In deze regeling wordt verstaan onder:
 
 3. Ten aanzien van een vertrouwenspersoon, de leidinggevende, een lid van de interne commissie misstandenbehandeling of de misstandencoördinator wordt vanwege de uitoefening van zijn of haar taken op basis van dit besluit geen beslissing genomen of handeling verricht met nadelige gevolgen voor zijn rechtspositie.
 
-#### Artikel 3. Bevoegdheid
+##### Artikel 3. Bevoegdheid
 
 Namens de minister van Defensie is de secretaris-generaal bevoegd tot de behandeling van meldingen inzake vermoedens van misstanden, tenzij (het vermoeden van) de misstand naar aard of inhoud zodanig gewicht heeft dat de minister deze zelf behoort af te doen.
 
-#### Artikel 4. Vertrouwenspersoon
+##### Artikel 4. Vertrouwenspersoon
 
 1. De directeur belast één of meer vertrouwenspersonen binnen de MIVD met de volgende taken:
 
@@ -76,7 +101,7 @@ Namens de minister van Defensie is de secretaris-generaal bevoegd tot de behande
 
 2. De vertrouwenspersoon maakt de identiteit van de melder niet bekend zonder schriftelijke instemming van de melder.
 
-#### Artikel 5. Misstandencoördinator
+##### Artikel 5. Misstandencoördinator
 
 De misstandencoördinator is verantwoordelijk voor:
 
@@ -88,7 +113,7 @@ De misstandencoördinator is verantwoordelijk voor:
 
 - d. opvolging van hetgeen is bepaald in [artikel 131, zevende en achtste lid, van de Wiv 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=131).
 
-#### Artikel 6. Indienen van een melding
+##### Artikel 6. Indienen van een melding
 
 1. Een melder, werkzaam bij de MIVD, doet een melding bij zijn leidinggevende, bij een vertrouwenspersoon, de misstandencoördinator of het misstanden coördinatiepunt MIVD. Indien dit niet in redelijkheid van hem kan worden gevraagd, kan hij rechtstreeks een melding doen bij de afdeling klachtbehandeling.
 
@@ -98,15 +123,15 @@ De misstandencoördinator is verantwoordelijk voor:
 
 4. Voor zover een melder niet werkzaam is of is geweest bij de MIVD, maar wel betrokken is of is geweest bij de uitvoering van de [Wiv 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896) of de [Wvo](https://wetten.overheid.nl/jci1.3:c:BWBR0008277), doet de melder een melding bij het misstanden coördinatiepunt MIVD. Indien dit in redelijkheid niet van hem kan worden gevraagd, kan melder zich rechtstreeks wenden tot de afdeling klachtbehandeling.
 
-#### Artikel 7. Meldingsplicht
+##### Artikel 7. Meldingsplicht
 
 Degene bij wie een melding is gedaan, stelt de misstandencoördinator onverwijld in kennis van de melding en de datum waarop deze is ontvangen.
 
-#### Artikel 8. Geheimhouding
+##### Artikel 8. Geheimhouding
 
 Diegenen die betrokken zijn bij de behandeling van de melding gaan vertrouwelijk met de melding en de identiteit van de melder om.
 
-#### Artikel 9. Behandelen van een misstand
+##### Artikel 9. Behandelen van een misstand
 
 1. Het bevoegd gezag stelt onverwijld een onderzoek in naar het vermoeden van een misstand, tenzij:
 
@@ -128,13 +153,13 @@ Diegenen die betrokken zijn bij de behandeling van de melding gaan vertrouwelijk
 
 4. Het onderzoek wordt niet verricht door een persoon die mogelijk betrokken is of is geweest bij de vermoedelijke misstand of op onvoldoende afstand staat van de te onderzoeken kwestie of personen.
 
-#### Artikel 10. Ontvangstbevestiging
+##### Artikel 10. Ontvangstbevestiging
 
 1. Zo spoedig mogelijk, doch uiterlijk binnen twee weken na ontvangst van de klacht, bevestigt de misstandencoördinator ontvangst van de melding schriftelijk aan de melder. De misstandencoördinator vermeldt daarbij de te volgen procedure van misstandenbehandeling en informeert de persoon of personen op wie de melding betrekking heeft over de melding, tenzij daardoor een onderzoeksbelang of een belang van de melder onnodig of onevenredig kan worden geschaad.
 
 2. Indien de misstand niet voldoet aan de vereisten van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040909&artikel=9&z=2018-10-01&g=2018-10-01), wordt de melder in de gelegenheid gesteld dit verzuim te herstellen binnen een door de interne commissie misstandenbehandeling gestelde redelijke termijn. Pas na het herstel van het verzuim vangt de termijn van behandeling als bedoeld in artikel 9 aan.
 
-#### Artikel 11. Termijn van behandeling
+##### Artikel 11. Termijn van behandeling
 
 1. Het bevoegd gezag stelt de melder, al dan niet via de vertrouwenspersoon of de interne commissie misstandenbehandeling, binnen twaalf weken na de melding schriftelijk en gemotiveerd in kennis van de bevindingen van het onderzoek, het oordeel daarover en de eventuele consequenties die daaraan worden verbonden.
 
@@ -144,7 +169,7 @@ Diegenen die betrokken zijn bij de behandeling van de melding gaan vertrouwelijk
 
 4. Bij de kennisgeving, bedoeld in het eerste lid, wordt mededeling gedaan van de mogelijkheid het vermoeden van een misstand te melden bij de afdeling klachtbehandeling.
 
-#### Artikel 12. Melding gezamenlijk team
+##### Artikel 12. Melding gezamenlijk team
 
 1. Indien de melder een melding wil doen die betrekking heeft op één of meerdere gezamenlijke teams en/of units van de MIVD en de AIVD, kan de melder zich zowel tot de MIVD als de AIVD richten.
 
@@ -164,7 +189,7 @@ Diegenen die betrokken zijn bij de behandeling van de melding gaan vertrouwelijk
 
 9. De [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0040909&artikel=10&z=2018-10-01&g=2018-10-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0040909&artikel=11&z=2018-10-01&g=2018-10-01) zijn van overeenkomstige toepassing.
 
-#### Artikel 13. Rapport van de afdeling klachtbehandeling
+##### Artikel 13. Rapport van de afdeling klachtbehandeling
 
 1. Het bevoegd gezag stelt de afdeling klachtbehandeling binnen twee weken na ontvangst van het oordeel schriftelijk op de hoogte van de wijze waarop deze aan het oordeel van de afdeling klachtbehandeling gevolg zal geven en binnen welke termijn.
 
@@ -172,7 +197,7 @@ Diegenen die betrokken zijn bij de behandeling van de melding gaan vertrouwelijk
 
 3. Het bevoegd gezag stelt de melder en de persoon of personen op wie de melding betrekking heeft, al dan niet via de vertrouwenspersoon of de interne commissie misstandenbehandeling, uiterlijk binnen twee weken na ontvangst van het rapport van de afdeling klachtbehandeling schriftelijk in kennis van het standpunt van het bevoegd gezag dienaangaande en de eventuele consequenties die het daaraan verbindt.
 
-#### Artikel 14. Recht op financiële tegemoetkoming
+##### Artikel 14. Recht op financiële tegemoetkoming
 
 1. De melder, de vertrouwenspersoon, de leidinggevende, een lid van de interne commissie misstandenbehandeling of de misstandencoördinator die bezwaar maakt of een gerechtelijke procedure instelt, kan aanspraak maken op een tegemoetkoming in de kosten van die procedure, op voorwaarde dat:
 
@@ -190,23 +215,23 @@ Diegenen die betrokken zijn bij de behandeling van de melding gaan vertrouwelijk
 
 4. Aanspraak op een tegemoetkoming bestaat alleen voor zover in verband met de in het eerste en tweede lid bedoelde procedures daadwerkelijk kosten worden of zijn gemaakt met betrekking tot door een derde beroepsmatig verleende rechtsbijstand.
 
-#### Artikel 15. Bedrag financiële tegemoetkoming
+##### Artikel 15. Bedrag financiële tegemoetkoming
 
 1. De tegemoetkoming voor iedere afzonderlijke procedure, bedoeld in [artikel 14, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040909&artikel=14&z=2018-10-01&g=2018-10-01), is gelijk aan tweemaal het bedrag, genoemd in onderdeel B1 van de [bijlage bij het Besluit proceskosten bestuursrecht](onbekend).
 
 2. [Artikel 3 van het Besluit proceskosten bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0006358&artikel=3) is van overeenkomstige toepassing.
 
-#### Artikel 16. Termijn beslissing financiële tegemoetkoming
+##### Artikel 16. Termijn beslissing financiële tegemoetkoming
 
 1. Het bevoegd gezag beslist binnen zes weken op het verzoek.
 
 2. Het bevoegd gezag kan de beslissing voor ten hoogste vier weken verdagen. De verdaging wordt schriftelijk medegedeeld.
 
-#### Artikel 17. Terugbetaling financiële tegemoetkoming
+##### Artikel 17. Terugbetaling financiële tegemoetkoming
 
 Degene aan wie een tegemoetkoming is toegekend, kan worden verplicht tot terugbetaling, indien hij de procedure waarop de tegemoetkoming betrekking heeft voortijdig staakt. Deze verplichting geldt niet, indien het staken van de procedure direct voortvloeit uit de intrekking door de minister van de beslissing of het herzien van de handeling, waartegen de procedure is gericht.
 
-#### Artikel 18. Vergoeding
+##### Artikel 18. Vergoeding
 
 Als een beslissing of handeling of een voorgenomen beslissing of handeling waarvoor op grond van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0040909&artikel=14&z=2018-10-01&g=2018-10-01) aanspraak bestaat op een tegemoetkoming in de kosten van de procedures, in de bezwaarprocedure of zienswijzeprocedure wordt herroepen wegens een aan het bevoegd gezag te wijten onrechtmatigheid of de bestreden beslissing of handeling als gevolg van een uitspraak van de rechter die onherroepelijk is geworden wordt vernietigd, waarbij de rechtsgevolgen niet in stand worden gelaten, vergoedt het bevoegd gezag voor iedere afzonderlijke procedure aan de melder, de vertrouwenspersoon, de leidinggevende, het lid van de interne commissie misstandenbehandeling of de misstandencoördinator alle daadwerkelijk en in redelijkheid door hem gemaakte kosten als bedoeld in [artikel 1 van het Besluit proceskosten bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0006358&artikel=1), met dien verstande dat:
 
@@ -216,10 +241,10 @@ Als een beslissing of handeling of een voorgenomen beslissing of handeling waarv
 
 - c. aan de betrokkene toegekende bedragen waarop hij op grond van een ander wettelijk voorschrift of een uitspraak van een gerechtelijke instantie aanspraak heeft in verband met de vergoeding van kosten als bedoeld in dit artikel, in aftrek worden gebracht op de vergoeding.
 
-#### Artikel 19. Inwerkingtreding
+##### Artikel 19. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 mei 2018.
 
-#### Artikel 20. Citeertitel
+##### Artikel 20. Citeertitel
 
 Deze regeling wordt aangehaald als: Interne klokkenluidersregeling MIVD.

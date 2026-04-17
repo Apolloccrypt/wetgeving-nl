@@ -1,13 +1,37 @@
 ---
 title: "Instellingsbesluit begeleidingscommissie scheidingsbemiddeling"
 identifier: "BWBR0009802"
-categorie: "Overig"
-publicatiedatum: 1998-10-01
-laatste_update: 1998-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009802"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1998-10-01"
+last_updated: "1998-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009802"
+soort: "ministeriele-regeling"
+stam_id: "4257713"
+version_id: "6021152"
+internal_id: "C6224541"
+label_id: "4236294"
+dtd_version: "2.0"
+original_entry_into_force: "1998-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009802/1998-10-01/0"
+intitule_bron: "Stcrt.1998-152"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-07-23"
+intitule_published: "1998-08-13"
+intitule_in_force: "1998-08-13"
+intitule_status: "goed"
+original_publication: "Stcrt.1998-152"
+original_signed_date: "1998-07-23"
+original_published_date: "1998-08-13"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1998-10-01"
+jci_1_3: "jci1.3:c:BWBR0009802&z=1998-10-01&g=1998-10-01"
+jci_1_0: "1.0:c:BWBR0009802&g=1998-10-01"
+citeertitel_status: "officieel"
+signed_date: "1998-07-23"
+entry_into_force: "1998-10-01"
 ---
-
 # Instellingsbesluit begeleidingscommissie scheidingsbemiddeling
 
 Overwegende dat door de Commissie herziening scheidingsprocedure, hierna de commissie, op d.d. 2 oktober 1996 een rapport is uitgebracht;
@@ -34,11 +58,11 @@ Daartoe is voorzien in de instelling van een begeleidingscommissies voor de expe
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Er is een begeleidingscommissie scheidingsbemiddeling.
 
-#### Artikel 2
+##### Artikel 2
 
 De begeleidingscommissie heeft tot taak:
 
@@ -46,7 +70,7 @@ De begeleidingscommissie heeft tot taak:
 
 - de staatssecretaris over de voortgang van de experimenten te informeren.
 
-#### Artikel 3
+##### Artikel 3
 
 In de begeleidingscommissie experimenten scheidingsbemiddeling hebben zitting:
 
@@ -76,15 +100,15 @@ In de begeleidingscommissie experimenten scheidingsbemiddeling hebben zitting:
 
 - dr. P. Albers, projectbegeleider wetenschappelijk onderzoek- en documentatiecentrum van het ministerie van Justitie.
 
-#### Artikel 4
+##### Artikel 4
 
 De begeleidingscommissie kan zich laten bijstaan door externe deskundigen.
 
-#### Artikel 5
+##### Artikel 5
 
 Op de begeleidingscommissie is het [Vacatiegeldenbesluit 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004317) (Stb. 1988, 205) van toepassing.
 
-#### Artikel 6
+##### Artikel 6
 
 De begeleidingscommissie zal haar werkzaamheden uiterlijk op 1 juli 1999 beëindigen.
 

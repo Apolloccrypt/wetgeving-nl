@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst betreffende een eengemaakt octrooigerecht"
 identifier: "BWBV0006168"
-categorie: "Internationaal recht"
-publicatiedatum: 2023-06-26
-laatste_update: 2023-06-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006168"
+country: "nl"
+rank: "verdrag"
+publication_date: "2023-06-26"
+last_updated: "2023-06-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006168"
+soort: "verdrag"
+stam_id: "10005067223"
+version_id: "10005406022"
+internal_id: "C10010010571"
+label_id: "10005053234"
+dtd_version: "2.0"
+original_entry_into_force: "2023-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006168/2023-06-26/0"
+intitule_bron: "Trb.2013-92"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2013-05-30"
+intitule_in_force: "2023-08-16"
+intitule_status: "goed"
+original_publication: "Trb.2013-92"
+original_published_date: "2013-05-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2013-92"
+entry_into_force_date: "2023-06-01"
+jci_1_3: "jci1.3:c:BWBV0006168&z=2023-06-26&g=2023-06-26"
+jci_1_0: "1.0:c:BWBV0006168&g=2023-06-26"
+citeertitel_status: "redactioneel"
+entry_into_force: "2023-06-01"
 ---
-
 # Overeenkomst betreffende een eengemaakt octrooigerecht
 
 De overeenkomstsluitende lidstaten,
@@ -48,13 +70,13 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Eengemaakt Octrooigerecht
+##### Artikel 1. Eengemaakt Octrooigerecht
 
 Bij deze overeenkomst wordt een eengemaakt octrooigerecht voor de beslechting van geschillen over Europese octrooien en Europese octrooien met eenheidswerking ingesteld.
 
 Het Eengemaakt Octrooigerecht is een gerecht gemeenschappelijk aan de overeenkomstsluitende lidstaten en is derhalve aan dezelfde verplichtingen uit hoofde van het recht van de Unie onderworpen als elk nationaal gerecht van de overeenkomstsluitende lidstaten.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 In deze overeenkomst wordt verstaan onder:
 
@@ -78,7 +100,7 @@ In deze overeenkomst wordt verstaan onder:
 
 - j. „procesreglement”: het procesreglement van het Gerecht, zoals vastgesteld overeenkomstig [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=I&artikel=41&z=2023-06-26&g=2023-06-26).
 
-#### Artikel 3. Toepassingsgebied
+##### Artikel 3. Toepassingsgebied
 
 Deze overeenkomst is van toepassing op:
 
@@ -90,13 +112,13 @@ Deze overeenkomst is van toepassing op:
 
 - d. elke Europese octrooiaanvraag die op de datum van inwerkingtreding van deze overeenkomst nog in behandeling is of na die datum is ingediend, onverminderd [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=IV&artikel=83&z=2023-06-26&g=2023-06-26).
 
-#### Artikel 4. Rechtspositie
+##### Artikel 4. Rechtspositie
 
 1. In elke overeenkomstsluitende lidstaat bezit het Gerecht rechtspersoonlijkheid en de ruimste handelingsbevoegdheid die bij de wetgeving van die staat aan rechtspersonen wordt toegekend.
 
 2. Het Gerecht wordt vertegenwoordigd door de president van het Hof van Beroep, die overeenkomstig het statuut wordt gekozen.
 
-#### Artikel 5. Aansprakelijkheid
+##### Artikel 5. Aansprakelijkheid
 
 1. De contractuele aansprakelijkheid van het Gerecht wordt beheerst door het overeenkomstig Verordening (EG) nr. 593/20085)Verordening (EG) Nr. 593/2008 van het Europees Parlement en de Raad van 17 juni 2008 inzake het recht dat van toepassing is op verbintenissen uit overeenkomst (Rome I) (**PbEU** L 177 van 4 juli 2008, blz. 6), met inbegrip van latere wijzigingen. (Rome I) op het contract toepasselijke recht, indien van toepassing, of anders overeenkomstig het recht van de lidstaat van het gerecht waarbij de zaak aanhangig is gemaakt.
 
@@ -106,13 +128,13 @@ Deze overeenkomst is van toepassing op:
 
 ### HOOFDSTUK II. INSTITUTIONELE BEPALINGEN
 
-#### Artikel 6. Het Gerecht
+##### Artikel 6. Het Gerecht
 
 1. Het Gerecht bestaat uit een Gerecht van Eerste Aanleg, een Hof van Beroep en een Griffie.
 
 2. Het Gerecht vervult de hem bij deze overeenkomst toegekende taken.
 
-#### Artikel 7. Het Gerecht van Eerste Aanleg
+##### Artikel 7. Het Gerecht van Eerste Aanleg
 
 1. Het Gerecht van Eerste Aanleg bestaat uit een centrale divisie alsmede uit lokale en regionale divisies.
 
@@ -124,7 +146,7 @@ Deze overeenkomst is van toepassing op:
 
 5. Overeenkomstig het statuut wordt voor twee of meer overeenkomstsluitende lidstaten op hun verzoek een regionale divisie opgericht. Deze overeenkomstsluitende lidstaten wijzen de zetel van de desbetreffende regionale divisie aan. De regionale divisie kan op meerdere locaties zaken behandelen.
 
-#### Artikel 8. Samenstelling van de panels van het Gerecht van Eerste Aanleg
+##### Artikel 8. Samenstelling van de panels van het Gerecht van Eerste Aanleg
 
 1. Elk panel van het Gerecht van Eerste Aanleg heeft een multinationale samenstelling. Onverminderd het vijfde lid van dit artikel en [artikel 33, derde lid, onder a)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=33&z=2023-06-26&g=2023-06-26), bestaat zij uit drie rechters.
 
@@ -144,7 +166,7 @@ In geval van toewijzing van een dergelijke technisch geschoolde rechter mag niet
 
 8. Elk panel van het Gerecht van Eerste Aanleg wordt voorgezeten door een juridisch geschoolde rechter.
 
-#### Artikel 9. Het Hof van Beroep
+##### Artikel 9. Het Hof van Beroep
 
 1. Elk panel van het Hof van Beroep heeft een multinationale samenstelling en bestaat uit vijf rechters. Het panel telt drie juridisch geschoolde rechters die onderdaan zijn van verschillende overeenkomstsluitende lidstaten en twee technisch geschoolde rechters met kwalificaties en ervaring op het desbetreffende gebied van de technologie. Die technisch geschoolde rechters worden overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=III&artikel=18&z=2023-06-26&g=2023-06-26) door de president van het Hof van Beroep uit de pool van rechters aan het panel toegewezen.
 
@@ -156,7 +178,7 @@ In geval van toewijzing van een dergelijke technisch geschoolde rechter mag niet
 
 5. Het Hof van Beroep heeft zijn zetel in Luxemburg.
 
-#### Artikel 10. De Griffie
+##### Artikel 10. De Griffie
 
 1. Bij de zetel van het Hof van Beroep wordt een Griffie ingesteld. De Griffie staat onder leiding van de griffier en vervult de haar overeenkomstig het statuut toegewezen taken. Het door de Griffie bijgehouden register is voor het publiek toegankelijk onder de voorwaarden vervat in deze overeenkomst en het procesreglement.
 
@@ -166,11 +188,11 @@ In geval van toewijzing van een dergelijke technisch geschoolde rechter mag niet
 
 4. Het Gerecht benoemt overeenkomstig [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=IV&artikel=22&z=2023-06-26&g=2023-06-26) van het statuut de griffier en stelt de voorschriften voor zijn ambtsuitoefening vast.
 
-#### Artikel 11. Comités
+##### Artikel 11. Comités
 
 Teneinde toe te zien op de feitelijke invoering en toepassing van deze overeenkomst worden een Bestuurscomité, een Begrotingscomité en een Raadgevend Comité ingesteld. Zij verrichten met name de in deze overeenkomst en het statuut voorziene taken.
 
-#### Artikel 12. Het Bestuurscomité
+##### Artikel 12. Het Bestuurscomité
 
 1. Het Bestuurscomité bestaat uit één vertegenwoordiger van elke overeenkomstsluitende lidstaat. De Europese Commissie wordt tijdens de vergaderingen van het Bestuurscomité als waarnemer vertegenwoordigd.
 
@@ -182,7 +204,7 @@ Teneinde toe te zien op de feitelijke invoering en toepassing van deze overeenko
 
 5. Het Bestuurscomité kiest uit zijn midden de voorzitter voor een termijn van drie jaar. Deze termijn kan worden verlengd.
 
-#### Artikel 13. Het Begrotingscomité
+##### Artikel 13. Het Begrotingscomité
 
 1. Het Begrotingscomité bestaat uit één vertegenwoordiger van elke overeenkomstsluitende lidstaat.
 
@@ -194,7 +216,7 @@ Teneinde toe te zien op de feitelijke invoering en toepassing van deze overeenko
 
 5. Het Begrotingscomité kiest uit zijn midden de voorzitter voor een termijn van drie jaar. Deze termijn kan worden verlengd.
 
-#### Artikel 14. Het Raadgevend Comité
+##### Artikel 14. Het Raadgevend Comité
 
 1. Het Raadgevend Comité:
 
@@ -214,7 +236,7 @@ Teneinde toe te zien op de feitelijke invoering en toepassing van deze overeenko
 
 ### HOOFDSTUK III. RECHTERS VAN HET GERECHT
 
-#### Artikel 15. Selectiecriteria voor de benoeming van rechters
+##### Artikel 15. Selectiecriteria voor de benoeming van rechters
 
 1. Het Gerecht bestaat uit zowel juridisch als technisch geschoolde rechters. De rechters moeten aan de hoogste bekwaamheidsnormen voldoen en beschikken over bewezen ervaring op het gebied van de beslechting van octrooigeschillen.
 
@@ -222,7 +244,7 @@ Teneinde toe te zien op de feitelijke invoering en toepassing van deze overeenko
 
 3. De technisch geschoolde rechters bezitten een universitaire graad en beschikken over bewezen deskundigheid op een bepaald gebied van de technologie. Zij hebben tevens aantoonbare kennis van het voor octrooigeschillen relevante burgerlijk recht en burgerlijk procesrecht.
 
-#### Artikel 16. Benoemingsprocedure
+##### Artikel 16. Benoemingsprocedure
 
 1. Het Raadgevend Comité stelt een lijst op van de kandidaten die het meest geschikt zijn om overeenkomstig het statuut tot rechter van het Gerecht te worden benoemd.
 
@@ -230,7 +252,7 @@ Teneinde toe te zien op de feitelijke invoering en toepassing van deze overeenko
 
 3. De uitvoeringsbepalingen voor de benoeming van de rechters zijn vervat in het statuut.
 
-#### Artikel 17. Rechterlijke onafhankelijkheid en onpartijdigheid
+##### Artikel 17. Rechterlijke onafhankelijkheid en onpartijdigheid
 
 1. Het Gerecht, zijn zittende rechters en de griffier genieten rechterlijke onafhankelijkheid. Bij de uitoefening van hun taken zijn zij aan geen enkele aanwijzing gebonden.
 
@@ -242,7 +264,7 @@ Teneinde toe te zien op de feitelijke invoering en toepassing van deze overeenko
 
 5. In geval van een belangenconflict neemt de betrokken rechter niet deel aan de procedure. De regels inzake belangenconflicten zijn vervat in het statuut.
 
-#### Artikel 18. Pool van rechters
+##### Artikel 18. Pool van rechters
 
 1. Overeenkomstig het statuut wordt een pool van rechters gevormd.
 
@@ -250,7 +272,7 @@ Teneinde toe te zien op de feitelijke invoering en toepassing van deze overeenko
 
 3. In de gevallen waarin zulks in deze overeenkomst of het statuut is bepaald, worden de rechters door de president van het Gerecht van Eerste Aanleg uit de pool van rechters aan de desbetreffende divisie toegewezen. De toewijzing van rechters geschiedt op basis van hun juridische of technische deskundigheid, talenkennis en relevante ervaring. De toewijzing van rechters garandeert dat in alle panels van het Gerecht van Eerste Aanleg dezelfde hoge kwaliteit van werken en hetzelfde hoge niveau van juridische en technische deskundigheid bestaat.
 
-#### Artikel 19. Opleidingsprogramma
+##### Artikel 19. Opleidingsprogramma
 
 1. Een opleidingsprogramma voor rechters, waarvan de nadere gegevens zijn vervat in het statuut, wordt opgezet opdat de beschikbare deskundigheid op het gebied van octrooigeschillen wordt verbeterd en uitgebreid, en deze specifieke kennis en ervaring over een groot geografisch gebied worden verspreid. De voor het programma benodigde voorzieningen bevinden zich in Boedapest.
 
@@ -270,15 +292,15 @@ Teneinde toe te zien op de feitelijke invoering en toepassing van deze overeenko
 
 ### HOOFDSTUK IV. HET PRIMAAT VAN HET RECHT VAN DE UNIE, AANSPRAKELIJKHEID EN VERANTWOORDELIJKHEID VAN DE OVEREENKOMSTSLUITENDE LIDSTATEN
 
-#### Artikel 20. Het primaat van het recht van de Unie en de eerbiediging ervan
+##### Artikel 20. Het primaat van het recht van de Unie en de eerbiediging ervan
 
 Het Gerecht past het recht van de Unie in volle omvang toe en eerbiedigt het primaat ervan.
 
-#### Artikel 21. Verzoeken om prejudiciële beslissingen
+##### Artikel 21. Verzoeken om prejudiciële beslissingen
 
 Als gerecht gemeenschappelijk aan alle overeenkomstsluitende lidstaten en als onderdeel van hun rechtssysteem, werkt het Gerecht, zoals ieder nationaal gerecht, samen met het Hof van Justitie van de Europese Unie, in het bijzonder overeenkomstig [artikel 267 VWEU](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=267), om de correcte toepassing en uniforme uitlegging van het recht van de Unie te verzekeren. De beslissingen van het Hof van Justitie van de Europese Unie zijn bindend voor het Gerecht.
 
-#### Artikel 22. Aansprakelijkheid voor schade als gevolg van inbreuken op het recht van de Unie
+##### Artikel 22. Aansprakelijkheid voor schade als gevolg van inbreuken op het recht van de Unie
 
 1. De overeenkomstsluitende lidstaten zijn gezamenlijk en hoofdelijk aansprakelijk voor schade die door een inbreuk op het recht van de Unie door het Hof van Beroep is ontstaan, overeenkomstig het recht van de Unie inzake de niet-contractuele aansprakelijkheid van de lidstaten voor schade veroorzaakt door hun nationale gerechten die het recht van de Unie schenden.
 
@@ -288,13 +310,13 @@ De bevoegde instantie past de **lex fori**, met uitzondering van het internation
 
 3. De overeenkomstsluitende lidstaat die schadevergoeding heeft betaald, kan overeenkomstig het bepaalde in [artikel 37, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=II&artikel=37&z=2023-06-26&g=2023-06-26), aanspraak maken op een evenredige bijdrage van de andere overeenkomstsluitende lidstaten. Het Bestuurscomité stelt nadere regels vast voor de bijdragen van de overeenkomstsluitende lidstaten uit hoofde van dit lid.
 
-#### Artikel 23. Verantwoordelijkheid van de overeenkomstsluitende lidstaten
+##### Artikel 23. Verantwoordelijkheid van de overeenkomstsluitende lidstaten
 
 De handelingen van het Gerecht worden rechtstreeks toegerekend aan elk van de overeenkomstsluitende lidstaten afzonderlijk, ook voor de toepassing van de [artikelen 258](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=258), [259](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=259) en [260 VWEU](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=260), alsmede aan alle overeenkomstsluitende lidstaten gezamenlijk.
 
 ### HOOFDSTUK V. RECHTSBRONNEN EN MATERIEEL RECHT
 
-#### Artikel 24. Rechtsbronnen
+##### Artikel 24. Rechtsbronnen
 
 1. Geheel in overeenstemming met [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=IV&artikel=20&z=2023-06-26&g=2023-06-26) baseert het Gerecht zijn beslissingen in zaken die uit hoofde van deze overeenkomst aanhangig zijn gemaakt op:
 
@@ -318,7 +340,7 @@ De handelingen van het Gerecht worden rechtstreeks toegerekend aan elk van de ov
 
 3. Het recht van niet-overeenkomstsluitende staten is van toepassing indien het op grond van de in het tweede lid bedoelde regels is aangewezen, in het bijzonder met betrekking tot de artikelen 25 tot en met 28, [54](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=III&artikel=54&z=2023-06-26&g=2023-06-26), [55](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=III&artikel=55&z=2023-06-26&g=2023-06-26), [64](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=IV&artikel=64&z=2023-06-26&g=2023-06-26), [68](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=IV&artikel=68&z=2023-06-26&g=2023-06-26) en [72](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=IV&artikel=72&z=2023-06-26&g=2023-06-26).
 
-#### Artikel 25. Recht om de directe toepassing van de uitvinding te verhinderen
+##### Artikel 25. Recht om de directe toepassing van de uitvinding te verhinderen
 
 Een octrooi verleent de houder ervan het recht te verhinderen dat een derde zonder zijn toestemming:
 
@@ -328,7 +350,7 @@ Een octrooi verleent de houder ervan het recht te verhinderen dat een derde zond
 
 - c. een product dat rechtstreeks is verkregen volgens de werkwijze die onderwerp van het octrooi is, aanbiedt, in het verkeer brengt of gebruikt, dan wel met dat doel invoert of in voorraad heeft.
 
-#### Artikel 26. Recht om de indirecte toepassing van de uitvinding te verhinderen
+##### Artikel 26. Recht om de indirecte toepassing van de uitvinding te verhinderen
 
 1. Een octrooi verleent de houder ervan het recht te verhinderen dat een derde zonder zijn toestemming, op het grondgebied van de overeenkomstsluitende lidstaten waar het octrooi van kracht is, aan een ander dan degene die gerechtigd is de geoctrooieerde uitvinding te gebruiken, middelen die een wezenlijk bestanddeel van die uitvinding betreffen, voor de toepassing van die uitvinding op dat grondgebied, aanbiedt of levert, indien de derde weet of behoort te weten dat deze middelen geschikt en bestemd zijn voor toepassing van die uitvinding.
 
@@ -336,7 +358,7 @@ Een octrooi verleent de houder ervan het recht te verhinderen dat een derde zond
 
 3. Degene die de in [artikel 27, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=V&artikel=27&z=2023-06-26&g=2023-06-26), bedoelde handelingen verricht, wordt niet geacht in de zin van het eerste lid gerechtigd te zijn de uitvinding te gebruiken.
 
-#### Artikel 27. Beperkingen van de werking van een octrooi
+##### Artikel 27. Beperkingen van de werking van een octrooi
 
 De uit een octrooi voortvloeiende rechten zijn niet van toepassing op:
 
@@ -364,25 +386,25 @@ De uit een octrooi voortvloeiende rechten zijn niet van toepassing op:
 
 - l. de handelingen die overeenkomstig artikel 10 van Richtlijn 98/44/EG13)Richtlijn 98/44/EG van het Europees Parlement en de Raad van 6 juli 1998 betreffende de rechtsbescherming van biotechnologische uitvindingen (**PbEG** L 213 van 30 juli 1998, blz. 13), met inbegrip van latere wijzigingen. zijn toegestaan.
 
-#### Artikel 28. Recht van voorgebruik van de uitvinding
+##### Artikel 28. Recht van voorgebruik van de uitvinding
 
 Een ieder die, indien voor een uitvinding een nationaal octrooi zou zijn verleend, in een overeenkomstsluitende lidstaat een recht van voorgebruik of een recht van persoonlijk bezit van die uitvinding zou hebben gehad, geniet in die overeenkomstsluitende lidstaat dezelfde rechten met betrekking tot een octrooi voor diezelfde uitvinding.
 
-#### Artikel 29. Uitputting van de aan een Europees octrooi verbonden rechten
+##### Artikel 29. Uitputting van de aan een Europees octrooi verbonden rechten
 
 De aan een Europees octrooi verbonden rechten strekken zich niet uit tot handelingen, die een door dat octrooi beschermd product betreffen, nadat het product door de octrooihouder of met zijn toestemming in de Europese Unie in het verkeer is gebracht, tenzij de octrooihouder zich op legitieme gronden tegen verdere verkoop van het product kan verzetten.
 
-#### Artikel 30. Werking van aanvullende beschermingscertificaten
+##### Artikel 30. Werking van aanvullende beschermingscertificaten
 
 Een aanvullend beschermingscertificaat verleent dezelfde rechten als het octrooi en is aan dezelfde beperkingen en verplichtingen onderworpen.
 
 ### HOOFDSTUK VI. INTERNATIONALE RECHTSMACHT EN BEVOEGDHEID
 
-#### Artikel 31. Internationale rechtsmacht
+##### Artikel 31. Internationale rechtsmacht
 
 De internationale rechtsmacht van het Gerecht wordt vastgesteld overeenkomstig Verordening (EU) nr. 1215/2012 of, in voorkomend geval, op grond van het Verdrag betreffende de rechterlijke bevoegdheid, de erkenning en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken (Verdrag van Lugano)14)Verdrag van Lugano betreffende de rechterlijke bevoegdheid, de erkenning en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken van 30 oktober 2007, met inbegrip van latere wijzigingen..
 
-#### Artikel 32. Bevoegdheid van het Gerecht
+##### Artikel 32. Bevoegdheid van het Gerecht
 
 1. Het Gerecht is exclusief bevoegd kennis te nemen van:
 
@@ -406,7 +428,7 @@ De internationale rechtsmacht van het Gerecht wordt vastgesteld overeenkomstig V
 
 2. De nationale gerechten van de overeenkomstsluitende lidstaten blijven bevoegd ter zake van vorderingen betreffende octrooien en aanvullende beschermingscertificaten die buiten de exclusieve bevoegdheid van het Gerecht vallen.
 
-#### Artikel 33. Bevoegdheid van de divisies van het Gerecht van Eerste Aanleg
+##### Artikel 33. Bevoegdheid van de divisies van het Gerecht van Eerste Aanleg
 
 1. Onverminderd het zevende lid van dit artikel worden de in [artikel 32, eerste lid, onder a), c), f) en g)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2023-06-26&g=2023-06-26) bedoelde vorderingen ingesteld bij:
 
@@ -448,13 +470,13 @@ Indien een vordering tussen dezelfde partijen over hetzelfde octrooi bij versche
 
 10. Een partij stelt het Gerecht in kennis van elke herroepings-, beperkings- of oppositieprocedure die, en van elk verzoek om versnelde behandeling dat, bij het Europees Octrooibureau aanhangig is. Het Gerecht kan de procedure opschorten indien een spoedige beslissing van het Europees Octrooibureau te verwachten is.
 
-#### Artikel 34. Territoriale reikwijdte van beslissingen
+##### Artikel 34. Territoriale reikwijdte van beslissingen
 
 De beslissingen van het Gerecht hebben in het geval van een Europees octrooi gelding op het grondgebied van de overeenkomstsluitende lidstaten waar het Europees octrooi van kracht is.
 
 ### HOOFDSTUK VII. MEDIATION EN ARBITRAGE IN OCTROOIZAKEN
 
-#### Artikel 35. Centrum voor mediation en arbitrage in octrooizaken
+##### Artikel 35. Centrum voor mediation en arbitrage in octrooizaken
 
 1. Bij deze overeenkomst wordt een centrum voor mediation en arbitrage in octrooizaken (hierna genoemd „het Centrum”) opgericht. Het Centrum zetelt in Ljubljana en Lissabon.
 
@@ -466,7 +488,7 @@ De beslissingen van het Gerecht hebben in het geval van een Europees octrooi gel
 
 ## DEEL II. FINANCIËLE BEPALINGEN
 
-#### Artikel 36. Begroting van het Gerecht
+##### Artikel 36. Begroting van het Gerecht
 
 1. De begroting van het Gerecht wordt gefinancierd uit de eigen inkomsten van het Gerecht en, ten minste tijdens de in [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=IV&artikel=83&z=2023-06-26&g=2023-06-26) bedoelde overgangsperiode, voor zover nodig uit bijdragen van de overeenkomstsluitende lidstaten. De begroting dient sluitend te zijn.
 
@@ -476,7 +498,7 @@ De beslissingen van het Gerecht hebben in het geval van een Europees octrooi gel
 
 4. Indien het Gerecht er niet in slaagt de begroting met eigen inkomsten sluitend te maken, worden door de overeenkomstsluitende lidstaten bijzondere financiële bijdragen verstrekt.
 
-#### Artikel 37. Financiering van het Gerecht
+##### Artikel 37. Financiering van het Gerecht
 
 1. De operationele kosten van het Gerecht worden overeenkomstig het statuut gefinancierd uit de begroting. Overeenkomstsluitende lidstaten die een lokale divisie oprichten, stellen daartoe de noodzakelijke voorzieningen ter beschikking. Overeenkomstsluitende lidstaten die een regionale divisie delen, stellen daartoe gezamenlijk de noodzakelijke voorzieningen ter beschikking. De overeenkomstsluitende lidstaten waarin de centrale divisie, afdelingen daarvan of het Hof van Beroep gevestigd is, stellen daartoe de noodzakelijke voorzieningen ter beschikking. Gedurende een eerste overgangsperiode van zeven jaar, die ingaat op de datum waarop deze overeenkomst in werking treedt, leveren de betrokken overeenkomstsluitende lidstaten ook ondersteunend administratief personeel, onverminderd het statuut van dat personeel.
 
@@ -488,11 +510,11 @@ Tijdens dezelfde overgangsperiode van zeven jaar worden, ten aanzien van lidstat
 
 4. Na afloop van de eerste overgangsperiode van zeven jaar, wanneer het Gerecht geacht wordt zelf in zijn financiering te voorzien, worden de eventueel benodigde bijdragen van de overeenkomstsluitende lidstaten bepaald volgens de verdeelsleutel van de jaartaksen voor Europese octrooien met eenheidswerking die van toepassing is wanneer de bijdrage nodig is.
 
-#### Artikel 38. Financiering van het opleidingsprogramma voor rechters
+##### Artikel 38. Financiering van het opleidingsprogramma voor rechters
 
 Het opleidingsprogramma voor rechters wordt uit de begroting van het Gerecht gefinancierd.
 
-#### Artikel 39. Financiering van het Centrum
+##### Artikel 39. Financiering van het Centrum
 
 De operationele kosten van het Centrum worden uit de begroting van het Gerecht gefinancierd.
 
@@ -500,7 +522,7 @@ De operationele kosten van het Centrum worden uit de begroting van het Gerecht g
 
 ### HOOFDSTUK I. ALGEMENE BEPALINGEN
 
-#### Artikel 40. Statuut
+##### Artikel 40. Statuut
 
 1. In het statuut zijn de nadere voorschriften betreffende de organisatie en het functioneren van het Gerecht vastgelegd.
 
@@ -508,7 +530,7 @@ De operationele kosten van het Centrum worden uit de begroting van het Gerecht g
 
 3. Het statuut waarborgt dat de werkwijze van het Gerecht op de meest efficiënte en kosteneffectieve wijze wordt georganiseerd en dat de billijke toegang tot de rechter verzekerd is.
 
-#### Artikel 41. Procesreglement
+##### Artikel 41. Procesreglement
 
 1. In het procesreglement zijn de nadere voorschriften betreffende de procedure voor het Gerecht vastgelegd. De voorschriften zijn in overeenstemming met deze overeenkomst en met het statuut.
 
@@ -518,29 +540,29 @@ Het procesreglement kan, op voorstel van het Gerecht en na overleg met de Europe
 
 3. Het procesreglement waarborgt dat de beslissingen van het Gerecht aan de hoogste kwaliteitsnormen voldoen en dat de procedures zo efficiënt en kosteneffectief mogelijk worden georganiseerd. Het waarborgt een redelijk evenwicht tussen de gerechtvaardigde belangen van alle partijen. Het zorgt ervoor dat rechters beschikken over de nodige discretionaire bevoegdheid zonder dat de voorspelbaarheid van de procedure voor de partijen in het gedrang komt.
 
-#### Artikel 42. Evenredigheid en billijkheid
+##### Artikel 42. Evenredigheid en billijkheid
 
 1. Het Gerecht behandelt geschillen op een wijze die in verhouding staat tot het belang en de complexiteit ervan.
 
 2. Het Gerecht ziet erop toe dat de in deze overeenkomst en in het [statuut](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&z=2023-06-26&g=2023-06-26) opgenomen regels, procedures en rechtsmiddelen rechtvaardig en billijk worden toegepast en geen concurrentieverstoring veroorzaken.
 
-#### Artikel 43. Zaaksbehandeling
+##### Artikel 43. Zaaksbehandeling
 
 De aanhangige zaken worden door het Gerecht, overeenkomstig het procesreglement, voortvarend behandeld, zonder dat afbreuk wordt gedaan aan de vrijheid van de partijen zelf het voorwerp van het geding en het bewijsmateriaal te bepalen.
 
-#### Artikel 44. Elektronische procedures
+##### Artikel 44. Elektronische procedures
 
 Het Gerecht maakt, overeenkomstig het procesreglement, optimaal gebruik van elektronische procedures, zoals elektronische indiening van processtukken en bewijsmiddelen, en videoconferenties.
 
-#### Artikel 45. Openbaarheid van procedures
+##### Artikel 45. Openbaarheid van procedures
 
 De zittingen zijn openbaar, tenzij het Gerecht besluit, voor zover nodig, een zaak vertrouwelijk te behandelen in het belang van een van de partijen of van andere betrokkenen dan wel in het algemeen belang van behoorlijke rechtspleging of de openbare orde.
 
-#### Artikel 46. Handelingsbevoegdheid
+##### Artikel 46. Handelingsbevoegdheid
 
 Elke natuurlijke persoon, elke rechtspersoon of elke aan een rechtspersoon gelijkgestelde entiteit, die op grond van zijn nationale recht gerechtigd is een vordering in te stellen, is bevoegd om voor het Gerecht als partij op te treden.
 
-#### Artikel 47. Partijen
+##### Artikel 47. Partijen
 
 1. De octrooihouder is gerechtigd vorderingen bij het Gerecht in te stellen.
 
@@ -556,7 +578,7 @@ Elke natuurlijke persoon, elke rechtspersoon of elke aan een rechtspersoon gelij
 
 7. Elke natuurlijke persoon, rechtspersoon of elke entiteit met procesbevoegdheid overeenkomstig zijn nationale recht, die wordt geraakt door een besluit dat het Europees Octrooibureau bij het uitvoeren van de taken, omschreven in artikel 9 van Verordening (EU) nr. 1257/2012 heeft genomen, is gerechtigd overeenkomstig [artikel 32, eerste lid, onder i)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2023-06-26&g=2023-06-26), een vordering in te stellen.
 
-#### Artikel 48. Vertegenwoordiging
+##### Artikel 48. Vertegenwoordiging
 
 1. De partijen worden vertegenwoordigd door advocaten die voor een gerecht van een overeenkomstsluitende lidstaat toegelaten zijn.
 
@@ -574,7 +596,7 @@ Elke natuurlijke persoon, elke rechtspersoon of elke aan een rechtspersoon gelij
 
 ### HOOFDSTUK II. PROCESTAAL
 
-#### Artikel 49. Procestaal bij het Gerecht van Eerste Aanleg
+##### Artikel 49. Procestaal bij het Gerecht van Eerste Aanleg
 
 1. De procestaal van een lokale of regionale divisie is een officiële taal van de Europese Unie, die de officiële taal of een van de officiële talen is van de overeenkomstsluitende lidstaat waar de desbetreffende divisie gevestigd is, of de officiële taal of talen, aangewezen door de overeenkomstsluitende lidstaten die een regionale divisie delen.
 
@@ -588,7 +610,7 @@ Elke natuurlijke persoon, elke rechtspersoon of elke aan een rechtspersoon gelij
 
 6. De procestaal bij de centrale divisie is de taal waarin het desbetreffende octrooi is verleend.
 
-#### Artikel 50. Procestaal bij het Hof van Beroep
+##### Artikel 50. Procestaal bij het Hof van Beroep
 
 1. Bij het Hof van Beroep wordt dezelfde procestaal gebruikt als bij het Gerecht van Eerste Aanleg.
 
@@ -596,7 +618,7 @@ Elke natuurlijke persoon, elke rechtspersoon of elke aan een rechtspersoon gelij
 
 3. In uitzonderlijke gevallen en voor zover dat passend wordt geacht, kan het Hof van Beroep besluiten voor de gehele of een deel van de procedure, een andere officiële taal van een overeenkomstsluitende lidstaat als procestaal te gebruiken, mits de partijen daarmee instemmen.
 
-#### Artikel 51. Andere taalregelingen
+##### Artikel 51. Andere taalregelingen
 
 1. Elk panel van het Gerecht van Eerste Aanleg en het Hof van Beroep kan, voor zover passend, afzien van het vereiste van vertaling.
 
@@ -612,7 +634,7 @@ Elke natuurlijke persoon, elke rechtspersoon of elke aan een rechtspersoon gelij
 
 ### HOOFDSTUK III. PROCEDURE VOOR HET GERECHT
 
-#### Artikel 52. Schriftelijke, tussentijdse en mondelinge behandeling
+##### Artikel 52. Schriftelijke, tussentijdse en mondelinge behandeling
 
 1. De procedure voor het Gerecht omvat een schriftelijke, een tussentijdse en een mondelinge behandeling, overeenkomstig het procesreglement. Alle procedures worden op flexibele en evenwichtige wijze georganiseerd.
 
@@ -620,7 +642,7 @@ Elke natuurlijke persoon, elke rechtspersoon of elke aan een rechtspersoon gelij
 
 3. De mondelinge behandeling biedt de partijen de gelegenheid om naar behoren hun argumenten toe te lichten. Het Gerecht kan met instemming van partijen afzien van de hoorzitting.
 
-#### Artikel 53. Bewijsmiddelen
+##### Artikel 53. Bewijsmiddelen
 
 1. In de procedure voor het Gerecht zijn in het bijzonder de volgende bewijsmiddelen toegelaten:
 
@@ -642,11 +664,11 @@ Elke natuurlijke persoon, elke rechtspersoon of elke aan een rechtspersoon gelij
 
 2. De procedure voor het verkrijgen van bewijs wordt vastgesteld in het procesreglement. Het horen van getuigen en deskundigen geschiedt onder toezicht van het Gerecht en wordt tot het noodzakelijke beperkt.
 
-#### Artikel 54. Bewijslast
+##### Artikel 54. Bewijslast
 
 Onverminderd [artikel 24, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=V&artikel=24&z=2023-06-26&g=2023-06-26), rust de bewijslast van de feiten op de partij die zich erop beroept.
 
-#### Artikel 55. Omkering van de bewijslast
+##### Artikel 55. Omkering van de bewijslast
 
 1. Indien het voorwerp van een octrooi een werkwijze voor de vervaardiging van een nieuw product is, wordt, onverminderd [artikel 24, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=V&artikel=24&z=2023-06-26&g=2023-06-26), ieder identiek, zonder toestemming van de octrooihouder vervaardigd product, tot bewijs van het tegendeel, geacht met toepassing van die werkwijze te zijn vervaardigd.
 
@@ -656,13 +678,13 @@ Onverminderd [artikel 24, tweede en derde lid](https://wetten.overheid.nl/jci1.3
 
 ### HOOFDSTUK IV. BEVOEGDHEDEN VAN HET GERECHT
 
-#### Artikel 56. De algemene bevoegdheden van het Gerecht
+##### Artikel 56. De algemene bevoegdheden van het Gerecht
 
 1. Het Gerecht kan de in deze overeenkomst vervatte maatregelen, procedures en rechtsmiddelen gelasten en hieraan voorwaarden verbinden overeenkomstig het procesreglement.
 
 2. Het Gerecht houdt naar behoren rekening met de belangen van de partijen en stelt alvorens een uitspraak te doen elke partij in de gelegenheid te worden gehoord, tenzij dit onverenigbaar is met de effectieve tenuitvoerlegging van de uitspraak.
 
-#### Artikel 57. Gerechtsdeskundigen
+##### Artikel 57. Gerechtsdeskundigen
 
 1. Onverminderd de mogelijkheid voor de partijen om deskundigenbewijs te overleggen, kan het Gerecht te allen tijde gerechtsdeskundigen aanwijzen die adviseren over bepaalde aspecten van de zaak. Het Gerecht verstrekt de deskundige alle gegevens die hij nodig heeft voor het geven van zijn advies.
 
@@ -672,17 +694,17 @@ Onverminderd [artikel 24, tweede en derde lid](https://wetten.overheid.nl/jci1.3
 
 4. Het advies van de gerechtsdeskundigen aan het Gerecht wordt aan de partijen beschikbaar gesteld, die in de gelegenheid worden gesteld hun zienswijze kenbaar te maken.
 
-#### Artikel 58. Bescherming van vertrouwelijke informatie
+##### Artikel 58. Bescherming van vertrouwelijke informatie
 
 Ter bescherming van bedrijfsgeheimen, persoonsgegevens of andere vertrouwelijke informatie van een procespartij of een derde, of ter voorkoming van misbruik van bewijs, kan het Gerecht gelasten dat bewijs in de loop van de procedure niet of slechts in beperkte mate wordt verzameld en gebruikt of slechts voor bepaalde personen toegankelijk wordt gemaakt.
 
-#### Artikel 59. Bevel tot behoud van bewijsmateriaal
+##### Artikel 59. Bevel tot behoud van bewijsmateriaal
 
 1. Op verzoek van een partij die redelijkerwijs beschikbaar bewijsmateriaal heeft overgelegd, dat voldoet ter ondersteuning van haar vorderingen, en, ter onderbouwing van haar vorderingen, bewijsmateriaal heeft aangeduid dat zich binnen de macht van de wederpartij of een derde bevindt, kan het Gerecht de wederpartij of een derde gelasten dat bewijsmateriaal over te leggen, mits de bescherming van vertrouwelijke informatie is verzekerd. Een dergelijk bevel mag niet tot een verplichting tot zelfincriminatie leiden.
 
 2. Op verzoek van een partij kan het Gerecht, eveneens onder de in het eerste lid vermelde voorwaarden, de overlegging gelasten van bancaire, financiële of handelsdocumenten die zich binnen de macht van de wederpartij bevinden, mits de bescherming van vertrouwelijke informatie is verzekerd.
 
-#### Artikel 60. Bevel tot behoud van bewijsmateriaal en tot bezichtiging
+##### Artikel 60. Bevel tot behoud van bewijsmateriaal en tot bezichtiging
 
 1. Op verzoek van de eiser, die redelijkerwijs beschikbaar bewijsmateriaal heeft overgelegd ter ondersteuning van zijn stelling dat inbreuk op het octrooi is gemaakt of dreigt te worden gemaakt, kan het Gerecht, nog voordat de inhoudelijke behandeling van de zaak aanvangt, onmiddellijke en effectieve voorlopige maatregelen gelasten tot behoud van relevant bewijsmateriaal in verband met de vermeende inbreuk, mits de bescherming van vertrouwelijke informatie is verzekerd.
 
@@ -702,13 +724,13 @@ Ter bescherming van bedrijfsgeheimen, persoonsgegevens of andere vertrouwelijke 
 
 9. Indien de maatregelen ter bewaring van bewijsmateriaal worden herroepen, of wegens handelen of nalaten van de eiser vervallen, of indien later wordt vastgesteld dat geen inbreuk op het octrooi is gemaakt of dreigde te worden gemaakt, kan het Gerecht, op verzoek van de verweerder, de eiser gelasten de verweerder een passende vergoeding van de ten gevolge van deze maatregelen ontstane schade te betalen.
 
-#### Artikel 61. Bevel tot bevriezing
+##### Artikel 61. Bevel tot bevriezing
 
 1. Op verzoek van een eiser die redelijkerwijs beschikbaar bewijsmateriaal heeft overgelegd ter ondersteuning van de stelling dat er inbreuk op het octrooi is gemaakt of dreigt te worden gemaakt, kan het Gerecht, nog voordat de inhoudelijke behandeling is aangevangen, een partij verbieden vermogensbestanddelen uit zijn rechtsgebied af te voeren, of te handelen in vermogensbestanddelen, ongeacht of die zich al dan niet in zijn rechtsgebied bevinden.
 
 2. Het vijfde tot en met negende lid van [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=IV&artikel=60&z=2023-06-26&g=2023-06-26) zijn van overeenkomstige toepassing op de in dit artikel bedoelde maatregelen.
 
-#### Artikel 62. Voorlopige en conservatoire maatregelen
+##### Artikel 62. Voorlopige en conservatoire maatregelen
 
 1. Het Gerecht kan bij wege van een bevel, een verbod opleggen aan een vermeend inbreukmaker of een tussenpersoon van wiens diensten de inbreukmaker gebruik maakt, teneinde een dreigende inbreuk te voorkomen, voorlopig en waar passend op straffe van een dwangsom, de voortzetting van de vermeende inbreuk te verbieden of aan de voortzetting de voorwaarde te verbinden dat zekerheid wordt gesteld als waarborg voor de schadeloosstelling van de rechthebbende.
 
@@ -720,13 +742,13 @@ Ter bescherming van bedrijfsgeheimen, persoonsgegevens of andere vertrouwelijke 
 
 5. Het [vijfde tot en met negende lid van artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=IV&artikel=60&z=2023-06-26&g=2023-06-26) zijn van overeenkomstige toepassing op de in dit artikel bedoelde maatregelen.
 
-#### Artikel 63. Permanent verbod
+##### Artikel 63. Permanent verbod
 
 1. Indien inbreuk op een octrooi wordt vastgesteld, kan het Gerecht de inbreukmaker een verbod tot voortzetting van de inbreuk opleggen. Het Gerecht kan een dergelijk verbod tevens opleggen aan een tussenpersoon die door een derde is ingezet voor het plegen van de inbreuk.
 
 2. In voorkomend geval wordt op niet-naleving van het in het eerste lid bedoelde bevel een dwangsom gesteld, die aan het Gerecht dient te worden betaald.
 
-#### Artikel 64. Corrigerende maatregelen in een inbreukprocedure
+##### Artikel 64. Corrigerende maatregelen in een inbreukprocedure
 
 1. Onverminderd eventuele schadevergoeding die wegens de inbreuk aan de benadeelde partij is verschuldigd en zonder enige vorm van compensatie, kan het Gerecht, op verzoek van de eiser passende maatregelen gelasten met betrekking tot producten waarvan is vastgesteld dat daarmee inbreuk wordt gemaakt op een octrooi en, in voorkomende gevallen, met betrekking tot materialen en gereedschappen die hoofdzakelijk worden gebruikt bij het vervaardigen of fabriceren van die producten.
 
@@ -746,7 +768,7 @@ Ter bescherming van bedrijfsgeheimen, persoonsgegevens of andere vertrouwelijke 
 
 4. Bij de beoordeling van een verzoek om corrigerende maatregelen op grond van dit artikel, houdt het Gerecht rekening met het vereiste dat de maatregelen in verhouding dienen te staan tot de ernst van de inbreuk, met de bereidheid van de inbreukmaker het materiaal in een toestand te brengen waarin het geen inbreuk vormt, en met de belangen van derden.
 
-#### Artikel 65. Beslissing inzake de geldigheid van een octrooi
+##### Artikel 65. Beslissing inzake de geldigheid van een octrooi
 
 1. Het Gerecht beslist over de geldigheid van een octrooi op grond van een vordering tot nietigverklaring of een reconventionele vordering tot nietigverklaring.
 
@@ -758,13 +780,13 @@ Ter bescherming van bedrijfsgeheimen, persoonsgegevens of andere vertrouwelijke 
 
 5. Indien het Gerecht bij een eindbeslissing een octrooi geheel of gedeeltelijk nietig verklaart, zendt het een afschrift van de beslissing naar het Europees Octrooibureau en, in geval van een Europees octrooi, naar het nationaal octrooibureau van elke desbetreffende overeenkomstsluitende lidstaat.
 
-#### Artikel 66. Bevoegdheden van het Gerecht inzake beslissingen van het Europees Octrooibureau
+##### Artikel 66. Bevoegdheden van het Gerecht inzake beslissingen van het Europees Octrooibureau
 
 1. In geval van vorderingen op grond van [artikel 32, eerste lid, onder i)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2023-06-26&g=2023-06-26), kan het Gerecht elke bevoegdheid uitoefenen die aan het Europees Octrooibureau overeenkomstig artikel 9 van Verordening (EU) nr. 1257/2012 is toegekend, met inbegrip van rectificatie van het register voor eenheidsoctrooibescherming.
 
 2. In afwijking van het bepaalde in [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=IV&artikel=69&z=2023-06-26&g=2023-06-26) draagt elke partij bij een vordering op grond van [artikel 32, eerste lid, onder i)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2023-06-26&g=2023-06-26), haar eigen kosten.
 
-#### Artikel 67. Bevoegdheid de verstrekking van informatie te gelasten
+##### Artikel 67. Bevoegdheid de verstrekking van informatie te gelasten
 
 1. Het Gerecht kan, naar aanleiding van een gerechtvaardigd en proportioneel verzoek van de eiser, overeenkomstig het procesreglement, een inbreukmaker gelasten de eiser informatie te verstrekken over:
 
@@ -784,7 +806,7 @@ Ter bescherming van bedrijfsgeheimen, persoonsgegevens of andere vertrouwelijke 
 
 gelasten de eiser de in het eerste lid bedoelde informatie te verstrekken.
 
-#### Artikel 68. Toekenning van schadevergoeding
+##### Artikel 68. Toekenning van schadevergoeding
 
 1. Op verzoek van de benadeelde partij gelast het Gerecht degene die wist of redelijkerwijze had behoren te weten, dat hij inbreuk maakte op een octrooi, de benadeelde partij een passende schadevergoeding te betalen voor de schade die deze als gevolg van de inbreuk werkelijk heeft geleden.
 
@@ -798,7 +820,7 @@ gelasten de eiser de in het eerste lid bedoelde informatie te verstrekken.
 
 4. Indien de inbreukmaker zich er niet van bewust was, noch dat redelijkerwijs kon zijn, dat hij de inbreuk pleegde, kan het Gerecht gelasten dat de winst wordt afgedragen of dat een schadevergoeding wordt betaald.
 
-#### Artikel 69. Proceskosten
+##### Artikel 69. Proceskosten
 
 1. De proceskosten en andere kosten van de in het gelijk gestelde partij worden, als algemene regel, in een redelijke en evenredige mate, tot een overeenkomstig het procesreglement bepaald maximum, gedragen door de in het ongelijk gestelde partij, tenzij de billijkheid zich daartegen verzet.
 
@@ -808,13 +830,13 @@ gelasten de eiser de in het eerste lid bedoelde informatie te verstrekken.
 
 4. Op verzoek van de verweerder kan het Gerecht, met name in de gevallen bedoeld in de artikelen 59 tot en met 62, de eiser gelasten voldoende zekerheid te stellen voor de proceskosten en andere kosten van de verweerder die de eiser mogelijkerwijs moet dragen.
 
-#### Artikel 70. Griffierechten
+##### Artikel 70. Griffierechten
 
 1. De procespartijen dienen griffierechten te betalen.
 
 2. Tenzij in het procesreglement anders is bepaald, worden de griffierechten vooraf betaald. Een partij die de voorgeschreven griffierechten niet heeft betaald, kan worden uitgesloten van verdere deelname aan de procedure.
 
-#### Artikel 71. Rechtsbijstand
+##### Artikel 71. Rechtsbijstand
 
 1. Een partij die een natuurlijk persoon is en niet of slechts ten dele tot betaling van de proceskosten in staat is, kan te allen tijde om rechtsbijstand verzoeken. De voorwaarden voor de toekenning van rechtsbijstand worden vastgelegd in het procesreglement.
 
@@ -822,13 +844,13 @@ gelasten de eiser de in het eerste lid bedoelde informatie te verstrekken.
 
 3. Het Bestuurscomité bepaalt, op voorstel van het Gerecht, de hoogte van de rechtsbijstand en de regels voor het dragen van de kosten ervan.
 
-#### Artikel 72. Verjaring
+##### Artikel 72. Verjaring
 
 Onverminderd het [tweede en derde lid van artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=V&artikel=24&z=2023-06-26&g=2023-06-26) kunnen vorderingen met betrekking tot alle vormen van financiële schadeloosstelling niet later dan vijf jaar na de datum waarop de eiser kennis heeft genomen, of redelijkerwijs had kunnen nemen, van het laatste feit dat de vordering rechtvaardigt, worden ingesteld.
 
 ### HOOFDSTUK V. BEROEP
 
-#### Artikel 73. Beroep
+##### Artikel 73. Beroep
 
 1. Tegen een beslissing van het Gerecht van Eerste Aanleg kan, binnen twee maanden na de datum van de kennisgeving ervan, beroep bij het Hof van Beroep worden ingesteld door elke partij die geheel of gedeeltelijk in het ongelijk is gesteld.
 
@@ -846,7 +868,7 @@ Onverminderd het [tweede en derde lid van artikel 24](https://wetten.overheid.nl
 
 4. Nieuwe feiten en nieuw bewijsmateriaal kunnen uitsluitend overeenkomstig het procesreglement worden aangevoerd, en uitsluitend indien de betrokken partij dat redelijkerwijs niet tijdens de procedure voor het Gerecht van Eerste Aanleg heeft kunnen doen.
 
-#### Artikel 74. Gevolgen van het beroep
+##### Artikel 74. Gevolgen van het beroep
 
 1. Het beroep heeft geen schorsende werking, tenzij het Hof van Beroep op gemotiveerd verzoek van een van de partijen anders beslist. Het procesreglement waarborgt dat onverwijld een beslissing wordt genomen.
 
@@ -854,7 +876,7 @@ Onverminderd het [tweede en derde lid van artikel 24](https://wetten.overheid.nl
 
 3. Een beroep tegen een bevel in de zin van [artikel 49, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=II&artikel=49&z=2023-06-26&g=2023-06-26), de artikelen 59 tot en met 62 of [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=IV&artikel=67&z=2023-06-26&g=2023-06-26) verhindert niet de inhoudelijke behandeling. Het Gerecht van Eerste Aanleg geeft evenwel geen eindbeslissing voordat het Hof van Beroep zich over het beroep tegen het bestreden bevel heeft uitgelaten.
 
-#### Artikel 75. Beslissing op beroep en terugverwijzing
+##### Artikel 75. Beslissing op beroep en terugverwijzing
 
 1. Indien een beroep overeenkomstig [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=V&artikel=73&z=2023-06-26&g=2023-06-26) gegrond is, vernietigt het Hof van Beroep de beslissing van het Gerecht van Eerste Aanleg en geeft het een eindbeslissing. In uitzonderlijke gevallen kan het Hof van Beroep, overeenkomstig het procesreglement, de zaak ter afdoening naar het Gerecht van Eerste Aanleg terugverwijzen.
 
@@ -862,7 +884,7 @@ Onverminderd het [tweede en derde lid van artikel 24](https://wetten.overheid.nl
 
 ### HOOFDSTUK VI. BESLISSINGEN
 
-#### Artikel 76. Grondslag voor beslissingen en recht te worden gehoord
+##### Artikel 76. Grondslag voor beslissingen en recht te worden gehoord
 
 1. Het Gerecht beslist in overeenstemming met de door de partijen ingestelde vorderingen en wijst niet meer toe dan hetgeen is gevorderd.
 
@@ -870,27 +892,27 @@ Onverminderd het [tweede en derde lid van artikel 24](https://wetten.overheid.nl
 
 3. Het Gerecht beoordeelt de bewijzen vrij en onafhankelijk.
 
-#### Artikel 77. Vormvoorschriften
+##### Artikel 77. Vormvoorschriften
 
 1. De beslissingen en bevelen van het Gerecht zijn overeenkomstig het procesreglement met redenen omkleed en op schrift gesteld.
 
 2. De beslissingen en bevelen van het Gerecht worden in de procestaal gegeven.
 
-#### Artikel 78. Beslissingen van het Gerecht en afwijkende meningen
+##### Artikel 78. Beslissingen van het Gerecht en afwijkende meningen
 
 1. De beslissingen en bevelen van het Gerecht worden bij meerderheid van stemmen van het panel genomen, overeenkomstig het statuut. Indien de stemmen staken, geeft de stem van de voorzitter de doorslag.
 
 2. In uitzonderlijke omstandigheden kan elke rechter van het panel een afwijkende mening uitspreken gescheiden van de beslissing van het Gerecht.
 
-#### Artikel 79. Schikking
+##### Artikel 79. Schikking
 
 De partijen kunnen gedurende het geding op ieder moment hun zaak beëindigen door een schikking te treffen, die wordt bevestigd bij een beslissing van het Gerecht. Een octrooi kan bij wege van een schikking niet nietig worden verklaard of worden beperkt.
 
-#### Artikel 80. Openbaarmaking van beslissingen
+##### Artikel 80. Openbaarmaking van beslissingen
 
 Het Gerecht kan, op verzoek van de eiser en voor rekening van de inbreukmaker, gelasten dat passende maatregelen tot verspreiding van informatie over de beslissing van het Gerecht worden getroffen, met inbegrip van openbaarmaking en volledige of gedeeltelijke publicatie van de beslissing in de media.
 
-#### Artikel 81. Herziening
+##### Artikel 81. Herziening
 
 1. Het Hof van Beroep kan, nadat een eindbeslissing van het Gerecht is gegeven, bij uitzondering een verzoek om herziening inwilligen, indien:
 
@@ -904,7 +926,7 @@ Het Gerecht kan, op verzoek van de eiser en voor rekening van de inbreukmaker, g
 
 4. Personen die te goeder trouw octrooien gebruiken die het voorwerp zijn van een beslissing die wordt herzien, mogen die octrooien blijven gebruiken.
 
-#### Artikel 82. Tenuitvoerlegging van beslissingen en bevelen
+##### Artikel 82. Tenuitvoerlegging van beslissingen en bevelen
 
 1. De beslissingen en bevelen van het Gerecht zijn in elke overeenkomstsluitende lidstaat uitvoerbaar. Een bevel tot tenuitvoerlegging wordt aan de beslissing van het Gerecht gehecht.
 
@@ -916,7 +938,7 @@ Het Gerecht kan, op verzoek van de eiser en voor rekening van de inbreukmaker, g
 
 ## DEEL IV. OVERGANGSBEPALINGEN
 
-#### Artikel 83. Overgangsregeling
+##### Artikel 83. Overgangsregeling
 
 1. Gedurende een overgangsperiode van zeven jaar na de datum van inwerkingtreding van deze overeenkomst, kan een vordering inzake inbreuk op, of tot nietigverklaring van een Europees octrooi, dan wel een vordering inzake inbreuk op, of tot nietigverklaring van een aanvullend beschermingscertificaat dat is afgegeven voor een door een Europees octrooi beschermd product, nog bij nationale gerechten of andere bevoegde nationale autoriteiten worden ingesteld.
 
@@ -930,7 +952,7 @@ Het Gerecht kan, op verzoek van de eiser en voor rekening van de inbreukmaker, g
 
 ## DEEL V. SLOTBEPALINGEN
 
-#### Artikel 84. Ondertekening, bekrachtiging en toetreding
+##### Artikel 84. Ondertekening, bekrachtiging en toetreding
 
 1. Deze overeenkomst staat open voor ondertekening door alle lidstaten op 19 februari 2013.
 
@@ -940,7 +962,7 @@ Het Gerecht kan, op verzoek van de eiser en voor rekening van de inbreukmaker, g
 
 4. Deze overeenkomst staat open voor toetreding door alle lidstaten. De akten van toetreding worden bij de depositaris nedergelegd.
 
-#### Artikel 85. Taken van de depositaris
+##### Artikel 85. Taken van de depositaris
 
 1. De depositaris vervaardigt voor eensluidend gewaarmerkte afschriften van deze overeenkomst en doet deze aan de regeringen van alle ondertekenende of toetredende lidstaten toekomen.
 
@@ -954,11 +976,11 @@ Het Gerecht kan, op verzoek van de eiser en voor rekening van de inbreukmaker, g
 
 3. De depositaris laat deze overeenkomst registreren bij het secretariaat van de Verenigde Naties.
 
-#### Artikel 86. Duur van de overeenkomst
+##### Artikel 86. Duur van de overeenkomst
 
 Deze overeenkomst is voor onbeperkte tijd gesloten.
 
-#### Artikel 87. Herziening
+##### Artikel 87. Herziening
 
 1. Zeven jaar na de inwerkingtreding van deze overeenkomst of zodra het Gerecht 2000 inbreukzaken heeft behandeld, al naargelang welke datum het laatst valt, en zo nodig vervolgens met regelmatige tussenpozen, wordt door het Bestuurscomité een uitgebreide raadpleging van de gebruikers van het octrooisysteem gehouden over het functioneren, de doeltreffendheid en de kosteneffectiviteit van het Gerecht en over het vertrouwen van de gebruikers van het octrooisysteem in de kwaliteit van de beslissingen van het Gerecht. Op basis van deze raadpleging en een advies van het Gerecht kan het Bestuurscomité besluiten deze overeenkomst te herzien teneinde het functioneren van het Gerecht te verbeteren.
 
@@ -966,25 +988,25 @@ Deze overeenkomst is voor onbeperkte tijd gesloten.
 
 3. Een op grond van het eerste en tweede lid genomen besluit van het Bestuurscomité treedt niet in werking indien een overeenkomstsluitende lidstaat binnen twaalf maanden na de datum van het besluit volgens de toepasselijke interne besluitvormingsprocedures verklaart niet door het besluit gebonden te willen zijn. In dat geval wordt een herzieningsconferentie van de overeenkomstsluitende lidstaten bijeengeroepen.
 
-#### Artikel 88. Talen van de overeenkomst
+##### Artikel 88. Talen van de overeenkomst
 
 1. Deze overeenkomst wordt in één oorspronkelijk exemplaar in de Engelse, de Franse en de Duitse taal opgesteld, waarbij alle teksten gelijkelijk authentiek zijn.
 
 2. De teksten van deze overeenkomst in andere officiële talen van andere overeenkomstsluitende lidstaten dan genoemd in het eerste lid, worden, indien zij door het Bestuurscomité zijn goedgekeurd, beschouwd als officiële teksten. Bij verschillen tussen de diverse teksten zijn de in het eerste lid bedoelde teksten doorslaggevend.
 
-#### Artikel 89. Inwerkingtreding
+##### Artikel 89. Inwerkingtreding
 
 1. Deze overeenkomst treedt in werking op 1 januari 2014 of op de eerste dag van de vierde maand na de nederlegging van de dertiende akte van bekrachtiging of toetreding overeenkomstig [artikel 84](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=V&artikel=84&z=2023-06-26&g=2023-06-26), met inbegrip van de akten van de drie overeenkomstsluitende lidstaten waar het grootste aantal Europese octrooien van kracht was in het jaar voorafgaand aan het jaar waarin de overeenkomst wordt ondertekend, of op de eerste dag van de vierde maand na de datum van inwerkingtreding van de wijzigingen van Verordening (EU) nr. 1215/2012 inzake de verhouding van de verordening tot deze overeenkomst, al naargelang welke datum het laatst valt.
 
 2. Elke bekrachtiging of toetreding na de inwerkingtreding van deze overeenkomst wordt van kracht op de eerste dag van de vierde maand na de nederlegging van de akte van bekrachtiging of toetreding.
 
-#### Artikel 1. Toepassingsgebied van het statuut
+##### Artikel 1. Toepassingsgebied van het statuut
 
 Dit statuut bevat de institutionele en financiële regelingen voor het bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=I&artikel=1&z=2023-06-26&g=2023-06-26) van de overeenkomst ingestelde Eengemaakt Octrooigerecht.
 
 ### HOOFDSTUK 1. RECHTERS
 
-#### Artikel 2. Selectiecriteria voor rechters
+##### Artikel 2. Selectiecriteria voor rechters
 
 1. Een ieder die onderdaan is van een overeenkomstsluitende lidstaat en aan de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=III&artikel=15&z=2023-06-26&g=2023-06-26) van de overeenkomst en de in dit statuut vervatte selectiecriteria voldoet, kan tot rechter worden benoemd.
 
@@ -992,7 +1014,7 @@ Dit statuut bevat de institutionele en financiële regelingen voor het bij [arti
 
 3. De ervaring op het gebied van beslechting van octrooigeschillen, die voor de benoeming overeenkomstig [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=III&artikel=15&z=2023-06-26&g=2023-06-26), van de overeenkomst dient te worden aangetoond, kan worden verkregen door opleiding in de zin van [artikel 11, vierde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&hoofdstuk=1&artikel=11&z=2023-06-26&g=2023-06-26), van dit statuut.
 
-#### Artikel 3. Benoeming van rechters
+##### Artikel 3. Benoeming van rechters
 
 1. De rechters worden benoemd volgens de procedure vervat in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=III&artikel=16&z=2023-06-26&g=2023-06-26) van de overeenkomst.
 
@@ -1006,23 +1028,23 @@ Dit statuut bevat de institutionele en financiële regelingen voor het bij [arti
 
 6. De technisch geschoolde deeltijdrechters worden benoemd tot rechter bij het Gerecht en op basis van hun specifieke kwalificaties en ervaring opgenomen in de pool van rechters. Met de benoeming van deze rechters wordt gewaarborgd dat alle gebieden van de technologie worden bestreken.
 
-#### Artikel 4. Ambtstermijn van de rechters
+##### Artikel 4. Ambtstermijn van de rechters
 
 1. De rechters worden benoemd voor een ambtstermijn van zes jaar, die aanvangt op de in het benoemingsbesluit bepaalde datum. Zij kunnen worden herbenoemd.
 
 2. Indien geen datum is bepaald, vangt de termijn aan op de datum van het benoemingsbesluit.
 
-#### Artikel 5. Benoeming van de leden van het Raadgevend Comité
+##### Artikel 5. Benoeming van de leden van het Raadgevend Comité
 
 1. Elke overeenkomstsluitende lidstaat draagt een lid van het Raadgevend Comité voor dat voldoet aan de in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=II&artikel=14&z=2023-06-26&g=2023-06-26), van de overeenkomst genoemde vereisten.
 
 2. De leden van het Raadgevend Comité worden met algehele instemming benoemd door het Bestuurscomité.
 
-#### Artikel 6. Eed
+##### Artikel 6. Eed
 
 Alvorens hun ambt te aanvaarden, verklaren de rechters tijdens een openbare zitting onder ede dat zij hun taak onpartijdig en gewetensvol zullen uitoefenen en de geheimhouding van de beraadslagingen van het Gerecht zullen waarborgen.
 
-#### Artikel 7. Onpartijdigheid
+##### Artikel 7. Onpartijdigheid
 
 1. De rechters ondertekenen meteen na de eedaflegging een verklaring waarin zij plechtig beloven gedurende hun ambtstermijn en na afloop daarvan de uit hun taak voortvloeiende verplichtingen na te komen en in het bijzonder zich integer te gedragen en discretie te zullen betrachten bij het aanvaarden van bepaalde functies of voordelen na afloop van hun ambtstermijn.
 
@@ -1044,7 +1066,7 @@ Alvorens hun ambt te aanvaarden, verklaren de rechters tijdens een openbare zitt
 
 5. Alle geschillen die voortkomen uit de toepassing van dit artikel worden beslecht bij besluit van het presidium, overeenkomstig het procesreglement. De betrokken rechter wordt gehoord, maar neemt niet deel aan de beraadslagingen.
 
-#### Artikel 8. Immuniteit van de rechters
+##### Artikel 8. Immuniteit van de rechters
 
 1. De rechters worden gevrijwaard van rechtsvervolging. Na de nederlegging van hun ambt blijven zij immuniteit genieten met betrekking tot handelingen die zij in hun officiële hoedanigheid hebben verricht.
 
@@ -1054,7 +1076,7 @@ Alvorens hun ambt te aanvaarden, verklaren de rechters tijdens een openbare zitt
 
 4. Het Protocol betreffende de voorrechten en immuniteiten van de Europese Unie is op de rechters van het Gerecht van toepassing, onverminderd de in dit statuut vervatte bepalingen betreffende de vrijwaring van rechters van rechtsvervolging.
 
-#### Artikel 9. Beëindiging van de ambtsuitoefening
+##### Artikel 9. Beëindiging van de ambtsuitoefening
 
 1. Behalve door vervanging na het verstrijken van de ambtstermijn in de zin van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&hoofdstuk=1&artikel=4&z=2023-06-26&g=2023-06-26), of door overlijden, eindigt de ambtsuitoefening van een rechter wanneer hij ontslag neemt.
 
@@ -1064,7 +1086,7 @@ Alvorens hun ambt te aanvaarden, verklaren de rechters tijdens een openbare zitt
 
 4. Elke vacature wordt vervuld door benoeming van een nieuwe rechter voor de resterende ambtstermijn van zijn voorganger.
 
-#### Artikel 10. Ontheffing uit het ambt
+##### Artikel 10. Ontheffing uit het ambt
 
 1. Een rechter kan slechts uit zijn ambt worden ontheven of het recht op andere voordelen worden ontzegd, indien het presidium van oordeel is dat deze rechter niet langer aan de gestelde voorwaarden of aan de uit zijn ambt voortvloeiende verplichtingen voldoet. De betrokken rechter wordt gehoord, maar neemt geen deel aan de beraadslagingen.
 
@@ -1072,7 +1094,7 @@ Alvorens hun ambt te aanvaarden, verklaren de rechters tijdens een openbare zitt
 
 3. In geval van een beslissing waarbij een rechter van zijn ambt wordt ontheven, ontstaat bij die kennisgeving een vacature.
 
-#### Artikel 11. Opleiding
+##### Artikel 11. Opleiding
 
 1. Binnen het kader van het in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=III&artikel=19&z=2023-06-26&g=2023-06-26) van de overeenkomst bedoelde opleidingsprogramma, wordt een passende, periodieke opleiding van rechters verzorgd. Het presidium stelt de opleidingsvoorschriften vast waarmee de uitvoering en de algehele samenhang van het opleidingsprogramma worden gewaarborgd.
 
@@ -1092,7 +1114,7 @@ Alvorens hun ambt te aanvaarden, verklaren de rechters tijdens een openbare zitt
 
 - b. ondersteunende projecten ter vereenvoudiging van de samenwerking tussen partijvertegenwoordigers, octrooigemachtigden en het Gerecht.
 
-#### Artikel 12. Bezoldiging
+##### Artikel 12. Bezoldiging
 
 Het Bestuurscomité stelt de bezoldiging vast van de president van het Hof van Beroep, de president van het Gerecht van Eerste Aanleg, de rechters, de griffier, de plaatsvervangend griffier en het personeel.
 
@@ -1100,7 +1122,7 @@ Het Bestuurscomité stelt de bezoldiging vast van de president van het Hof van B
 
 ### AFDELING 1. GEMEENSCHAPPELIJKE BEPALINGEN
 
-#### Artikel 13. De president van het Hof van Beroep
+##### Artikel 13. De president van het Hof van Beroep
 
 1. De president van het Hof van Beroep wordt door alle rechters van het Hof van Beroep uit hun midden gekozen voor een ambtstermijn van drie jaar. De president van het Hof van Beroep is tweemaal herkiesbaar.
 
@@ -1110,7 +1132,7 @@ Het Bestuurscomité stelt de bezoldiging vast van de president van het Hof van B
 
 4. Indien het ambt van president van het Hof van Beroep vóór het verstrijken van de ambtstermijn vacant wordt, wordt voor het resterende gedeelte van de termijn een opvolger gekozen.
 
-#### Artikel 14. De president van het Gerecht van Eerste Aanleg
+##### Artikel 14. De president van het Gerecht van Eerste Aanleg
 
 1. De president van het Gerecht van Eerste Aanleg wordt door alle voltijdrechters van het Gerecht van Eerste Aanleg uit hun midden gekozen voor een ambtstermijn van drie jaar. De president van het Gerecht van Eerste Aanleg is tweemaal herkiesbaar.
 
@@ -1120,7 +1142,7 @@ Het Bestuurscomité stelt de bezoldiging vast van de president van het Hof van B
 
 4. [Artikel 13, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&hoofdstuk=II&afdeling=1&artikel=13&z=2023-06-26&g=2023-06-26), zijn van overeenkomstige toepassing op de president van het Gerecht van Eerste Aanleg.
 
-#### Artikel 15. Presidium
+##### Artikel 15. Presidium
 
 1. Het presidium bestaat uit de president van het Hof van Beroep, die als voorzitter optreedt, de president van het Gerecht van Eerste Aanleg, twee rechters van het Hof van Beroep die uit hun midden zijn gekozen, drie voltijdrechters van het Gerecht van Eerste Aanleg die uit hun midden zijn gekozen, en de griffier als niet-stemgerechtigd lid.
 
@@ -1144,13 +1166,13 @@ Het Bestuurscomité stelt de bezoldiging vast van de president van het Hof van B
 
 5. Het presidium kan slechts geldig beslissen, indien alle leden aanwezig zijn of naar behoren zijn vertegenwoordigd. Er wordt beslist bij meerderheid van stemmen.
 
-#### Artikel 16. Personeel
+##### Artikel 16. Personeel
 
 1. De ambtenaren en andere personeelsleden van het Gerecht hebben tot taak de president van het Hof van Beroep, de president van het Gerecht van Eerste Aanleg, de rechters en de griffier bij te staan. Zij leggen verantwoording af aan de griffier, onder het gezag van de president van het Hof van Beroep en de president van het Gerecht van Eerste Aanleg.
 
 2. Het Bestuurscomité stelt het reglement voor de ambtenaren en andere personeelsleden van het Gerecht vast.
 
-#### Artikel 17. Reces
+##### Artikel 17. Reces
 
 1. De president van het Hof van Beroep stelt na overleg met het presidium de duur van de recessen en de voorschriften met betrekking tot de naleving van de officiële feestdagen vast.
 
@@ -1160,7 +1182,7 @@ Het Bestuurscomité stelt de bezoldiging vast van de president van het Hof van B
 
 ### AFDELING 2. HET GERECHT VAN EERSTE AANLEG
 
-#### Artikel 18. Oprichting en opheffing van een lokale of regionale divisie
+##### Artikel 18. Oprichting en opheffing van een lokale of regionale divisie
 
 1. Een verzoek van een of meer overeenkomstsluitende lidstaten om oprichting van een lokale of regionale divisie wordt gericht aan de voorzitter van het Bestuurscomité. In dit verzoek wordt de zetel van de lokale of regionale divisie vermeld.
 
@@ -1170,7 +1192,7 @@ Het Bestuurscomité stelt de bezoldiging vast van de president van het Hof van B
 
 4. Vanaf de datum waarop een lokale of regionale divisie ophoudt te bestaan, worden de bij deze lokale of regionale divisie aangestelde rechters aangesteld bij de centrale divisie, en worden zaken die nog bij die lokale of regionale divisie aanhangig zijn, alsmede de subgriffie en alle stukken, aan de centrale divisie overgedragen.
 
-#### Artikel 19. Panels
+##### Artikel 19. Panels
 
 1. De toewijzing van rechters en de toewijzing van zaken aan de panels binnen een divisie wordt geregeld in het procesreglement. Een rechter van het panel wordt overeenkomstig het procesreglement als voorzitter aangewezen.
 
@@ -1182,7 +1204,7 @@ Het Bestuurscomité stelt de bezoldiging vast van de president van het Hof van B
 
 5. Eén rechter van het panel treedt op als rapporteur, overeenkomstig het procesreglement.
 
-#### Artikel 20. Pool van rechters
+##### Artikel 20. Pool van rechters
 
 1. De griffier stelt een lijst op met de namen van de rechters die deel uitmaken van de pool van rechters. De lijst vermeldt voor elke rechter ten minste de talenkennis, het gebied van de technologie en de ervaring daarmee, alsmede de reeds door hem behandelde zaken.
 
@@ -1190,7 +1212,7 @@ Het Bestuurscomité stelt de bezoldiging vast van de president van het Hof van B
 
 ### AFDELING 3. HET HOF VAN BEROEP
 
-#### Artikel 21. Panels
+##### Artikel 21. Panels
 
 1. De toewijzing van rechters en de toewijzing van zaken aan de panels worden geregeld in het procesreglement. Eén rechter van het panel wordt overeenkomstig het procesreglement benoemd tot voorzitter.
 
@@ -1202,7 +1224,7 @@ Het Bestuurscomité stelt de bezoldiging vast van de president van het Hof van B
 
 ### AFDELING 4. DE GRIFFIE
 
-#### Artikel 22. Benoeming en ontzetting uit het ambt van griffier
+##### Artikel 22. Benoeming en ontzetting uit het ambt van griffier
 
 1. Het presidium benoemt de griffier van het Gerecht voor een termijn van zes jaar. De griffier kan worden herbenoemd.
 
@@ -1216,7 +1238,7 @@ Het Bestuurscomité stelt de bezoldiging vast van de president van het Hof van B
 
 6. Bij afwezigheid of verhindering, of indien het ambt vacant is, wijst de president van het Hof van Beroep, na het presidium te hebben geraadpleegd, een personeelslid van het Hof aan dat de taken van de griffier zal verrichten.
 
-#### Artikel 23. Taken van de griffier
+##### Artikel 23. Taken van de griffier
 
 1. De griffier staat het Gerecht, de president van het Hof van Beroep, de president van het Gerecht van Eerste Aanleg en de rechters bij, in de uitoefening van hun taken. De griffier is verantwoordelijk voor de organisatie en de werkzaamheden van de Griffie onder het gezag van de president van het Hof van Beroep.
 
@@ -1234,13 +1256,13 @@ Het Bestuurscomité stelt de bezoldiging vast van de president van het Hof van B
 
 - f. het verzekeren dat het Europees Octrooibureau in kennis wordt gesteld van de informatie over onttrekking aan de exclusieve bevoegdheid in de zin van [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=IV&artikel=83&z=2023-06-26&g=2023-06-26) van de overeenkomst.
 
-#### Artikel 24. Bijhouden van het register
+##### Artikel 24. Bijhouden van het register
 
 1. In de door het presidium vastgestelde regels voor de Griffie worden gedetailleerde voorschriften voor het bijhouden van het register van het Gerecht vastgelegd.
 
 2. De voorschriften betreffende toegang tot stukken van de Griffie worden opgenomen in het procesreglement.
 
-#### Artikel 25. Subgriffies en plaatsvervangend griffier
+##### Artikel 25. Subgriffies en plaatsvervangend griffier
 
 1. Een plaatsvervangend griffier wordt door het presidium benoemd voor een termijn van zes jaar. De plaatsvervangend griffier kan worden herbenoemd.
 
@@ -1256,7 +1278,7 @@ Het Bestuurscomité stelt de bezoldiging vast van de president van het Hof van B
 
 ### HOOFDSTUK III. FINANCIËLE BEPALINGEN
 
-#### Artikel 26. Begroting
+##### Artikel 26. Begroting
 
 1. De begroting wordt op voorstel van het presidium door het Begrotingscomité vastgesteld. Zij wordt opgesteld overeenkomstig de algemeen aanvaarde boekhoudkundige grondslagen vastgelegd in het overeenkomstig [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&hoofdstuk=III&artikel=33&z=2023-06-26&g=2023-06-26) opgestelde financieel reglement.
 
@@ -1266,7 +1288,7 @@ Het Bestuurscomité stelt de bezoldiging vast van de president van het Hof van B
 
 4. De griffier stelt jaarlijks een jaarrekening op over de uitvoering van de begroting in het voorgaande begrotingsjaar. Deze jaarrekening wordt goedgekeurd door het presidium.
 
-#### Artikel 27. Machtiging tot uitgaven
+##### Artikel 27. Machtiging tot uitgaven
 
 1. Voor de in de begroting opgenomen uitgaven wordt machtiging verleend voor de duur van één begrotingsjaar, tenzij het financieel reglement anders bepaalt.
 
@@ -1274,27 +1296,27 @@ Het Bestuurscomité stelt de bezoldiging vast van de president van het Hof van B
 
 3. Reserveringen worden opgenomen in verschillende hoofdstukken naar aard en bestemming van de uitgaven en worden, voor zover nodig, verder onderverdeeld in overeenstemming met het financieel reglement.
 
-#### Artikel 28. Reserveringen voor onvoorziene uitgaven
+##### Artikel 28. Reserveringen voor onvoorziene uitgaven
 
 1. Op de begroting van het Gerecht kunnen gelden worden gereserveerd voor onvoorziene uitgaven.
 
 2. De besteding van deze gelden door het Gerecht is onderworpen aan voorafgaande toestemming van het Begrotingscomité.
 
-#### Artikel 29. Begrotingsjaar
+##### Artikel 29. Begrotingsjaar
 
 Het begrotingsjaar loopt van 1 januari tot en met 31 december.
 
-#### Artikel 30. Opstelling van de begroting
+##### Artikel 30. Opstelling van de begroting
 
 Het presidium legt aan het Begrotingscomité de ontwerpbegroting van het Gerecht voor uiterlijk op de in het financieel reglement voorgeschreven datum.
 
-#### Artikel 31. Voorlopige begroting
+##### Artikel 31. Voorlopige begroting
 
 1. Indien aan het begin van het begrotingsjaar de begroting niet door het Begrotingscomité is vastgesteld, kunnen de uitgaven maandelijks per hoofdstuk of volgens een andere onderverdeling van de begroting worden verricht in overeenstemming met het financieel reglement, tot ten hoogste een twaalfde van op de begroting van het voorafgaande begrotingsjaar toegestane gelden, mits de aldus aan het presidium beschikbaar gestelde gelden niet meer bedragen dan een twaalfde van de in de ontwerpbegroting voorziene gelden.
 
 2. Het Begrotingscomité kan, onder voorbehoud van de overige bepalingen van het eerste lid, machtiging verlenen voor uitgaven die een twaalfde van de begrotingsreserveringen voor het voorafgaande begrotingsjaar te boven gaan.
 
-#### Artikel 32. Accountantscontrole
+##### Artikel 32. Accountantscontrole
 
 1. De financiële jaarverslagen van het Gerecht worden door onafhankelijke accountants gecontroleerd. De accountants worden benoemd en, zo nodig, ontslagen door het Begrotingscomité.
 
@@ -1304,7 +1326,7 @@ Het presidium legt aan het Begrotingscomité de ontwerpbegroting van het Gerecht
 
 4. Het Begrotingscomité keurt de jaarrekening en het accountantsverslag goed en verleent kwijting aan het presidium voor de uitvoering van de begroting.
 
-#### Artikel 33. Financieel reglement
+##### Artikel 33. Financieel reglement
 
 1. Het financieel reglement wordt door het Bestuurscomité vastgesteld. Het wordt op voorstel van het Gerecht gewijzigd door het Bestuurscomité.
 
@@ -1320,11 +1342,11 @@ Het presidium legt aan het Begrotingscomité de ontwerpbegroting van het Gerecht
 
 ### HOOFDSTUK IV. PROCEDUREVOORSCHRIFTEN
 
-#### Artikel 34. Geheimhouding van de beraadslagingen
+##### Artikel 34. Geheimhouding van de beraadslagingen
 
 De beraadslagingen van het Gerecht zijn en blijven geheim.
 
-#### Artikel 35. Beslissingen
+##### Artikel 35. Beslissingen
 
 1. Wanneer een panel met een even aantal rechters zitting houdt, worden beslissingen van het Gerecht genomen door een meerderheid van het panel. Bij staking van de stemmen geeft de stem van de voorzitter de doorslag.
 
@@ -1336,17 +1358,17 @@ De beraadslagingen van het Gerecht zijn en blijven geheim.
 
 5. De beslissingen worden ondertekend door de rechters die bij de beslissing betrokken zijn geweest. De beslissingen van het Hof van Beroep worden ondertekend door de griffier en de beslissingen van het Gerecht van Eerste Aanleg door de plaatsvervangend griffier. Zij worden in openbare zitting uitgesproken.
 
-#### Artikel 36. Afwijkende meningen
+##### Artikel 36. Afwijkende meningen
 
 Een afwijkende mening dat door een rechter van een panel afzonderlijk wordt ingenomen overeenkomstig [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=VI&artikel=78&z=2023-06-26&g=2023-06-26) van de overeenkomst wordt door die rechter met redenen omkleed, schriftelijk ingediend en ondertekend.
 
-#### Artikel 37. Beslissing bij verstek
+##### Artikel 37. Beslissing bij verstek
 
 1. Op verzoek van een procespartij kan overeenkomstig het procesreglement een beslissing bij verstek worden genomen indien de andere partij, nadat haar een dagvaarding of gelijkwaardig document is betekend, nalaat schriftelijke conclusies in te dienen of niet verschijnt tijdens de mondelinge behandeling. Tegen deze beslissing bij verstek kan binnen een maand na de betekening ervan aan de partij waartegen deze is gedaan in verzet gekomen worden.
 
 2. Tenzij het Gerecht anders beslist, heeft het verzet geen schorsende werking ten aanzien van de tenuitvoerlegging van de beslissing bij verstek.
 
-#### Artikel 38. Prejudiciële vragen aan het Hof van Justitie van de Europese Unie
+##### Artikel 38. Prejudiciële vragen aan het Hof van Justitie van de Europese Unie
 
 1. De door het Hof van Justitie van de Europese Unie vastgestelde procedures voor verzoeken om een prejudiciële uitspraak binnen de Europese Unie zijn van toepassing.
 

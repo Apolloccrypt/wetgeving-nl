@@ -1,13 +1,38 @@
 ---
 title: "Protocol betreffende registers inzake de uitstoot en overbrenging van verontreinigende stoffen"
 identifier: "BWBV0002912"
-categorie: "Internationaal recht"
-publicatiedatum: 2009-10-08
-laatste_update: 2003-05-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002912"
+country: "nl"
+rank: "verdrag"
+publication_date: "2009-10-08"
+last_updated: "2003-05-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002912"
+soort: "verdrag"
+stam_id: "10003245373"
+version_id: "10003263552"
+internal_id: "C10006994321"
+label_id: "10003231564"
+dtd_version: "2.0"
+original_entry_into_force: "2009-10-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002912/2009-10-08/0"
+intitule_bron: "Trb.2003-153"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-02-11"
+intitule_published: "2003-09-22"
+intitule_in_force: "2009-09-21"
+intitule_status: "goed"
+original_publication: "Trb.2003-153"
+original_signed_date: "2008-02-11"
+original_published_date: "2003-09-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2003-153"
+entry_into_force_date: "2009-10-08"
+jci_1_3: "jci1.3:c:BWBV0002912&z=2009-10-08&g=2009-10-08"
+jci_1_0: "1.0:c:BWBV0002912&g=2009-10-08"
+citeertitel_status: "redactioneel"
+signed_date: "2008-02-11"
+entry_into_force: "2009-10-08"
 ---
-
 # Protocol betreffende registers inzake de uitstoot en overbrenging van verontreinigende stoffen
 
 De Partijen bij dit Protocol,
@@ -60,11 +85,11 @@ Tevens met klem verzoekend om het aanbrengen van koppelingen tussen nationale re
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Doelstelling
+##### Artikel 1. Doelstelling
 
 De doelstelling van dit Protocol is de toegang van het publiek tot informatie te bevorderen door landelijk samenhangende, geïntegreerde registers inzake de uitstoot en overbrenging van verontreinigende stoffen (PRTRs) in te stellen in overeenstemming met de bepalingen van dit Protocol, die inspraak van het publiek bij de besluitvorming op milieugebied zouden kunnen vergemakkelijken en zouden kunnen bijdragen aan de voorkoming en terugdringing van de milieuverontreiniging.
 
-#### Artikel 2. Begripsbepalingen
+##### Artikel 2. Begripsbepalingen
 
 Voor de toepassing van dit Protocol,
 
@@ -102,7 +127,7 @@ Voor de toepassing van dit Protocol,
 
 - 14. wordt onder „afvalwater’’ verstaan, gebruikt water dat stoffen of voorwerpen bevat waarop regelgeving uit hoofde van de nationale wetgeving van toepassing is.
 
-#### Artikel 3. Algemene bepalingen
+##### Artikel 3. Algemene bepalingen
 
 1. Elke Partij neemt de noodzakelijke wet- en regelgevende en andere maatregelen, en passende handhavingsmaatregelen, om de bepalingen van dit Protocol uit te voeren.
 
@@ -116,7 +141,7 @@ Voor de toepassing van dit Protocol,
 
 6. Partijen streven naar convergentie tussen hun nationale registers inzake de uitstoot en overbrenging van verontreinigende stoffen.
 
-#### Artikel 4. Kernelementen van een register inzake de uitstoot en overbrenging van verontreinigde stoffen
+##### Artikel 4. Kernelementen van een register inzake de uitstoot en overbrenging van verontreinigde stoffen
 
 In overeenstemming met dit Protocol stelt elke Partij een voor het publiek toegankelijk register inzake de uitstoot en overbrenging van verontreinigende stoffen in:
 
@@ -140,7 +165,7 @@ In overeenstemming met dit Protocol stelt elke Partij een voor het publiek toega
 
 - j. dat bestaat uit een gestructureerd, geautomatiseerd gegevensbestand, of verschillende aan elkaar gekoppelde gegevensbestanden, onderhouden door de bevoegde autoriteit en onderhoudt dit.
 
-#### Artikel 5. Ontwerp en structuur
+##### Artikel 5. Ontwerp en structuur
 
 1. Elke Partij waarborgt dat de gegevens in het register zoals bedoeld in artikel 4 zowel in samengevoegde als niet-samengevoegde vorm worden aangeboden, zodat uitstoten en overbrengingen kunnen worden opgezocht en geïdentificeerd aan de hand van:
 
@@ -166,7 +191,7 @@ In overeenstemming met dit Protocol stelt elke Partij een voor het publiek toega
 
 6. Elke Partij neemt in haar register koppelingen op naar de registers inzake de uitstoot en overbrenging van verontreinigende stoffen van andere Partijen bij het Protocol en, waar mogelijk, naar die van andere landen.
 
-#### Artikel 6. Reikwijdte van het register
+##### Artikel 6. Reikwijdte van het register
 
 1. Elke Partij waarborgt dat haar register informatie bevat over:
 
@@ -186,7 +211,7 @@ In overeenstemming met dit Protocol stelt elke Partij een voor het publiek toega
 
 - d. opname van andere relevante aspecten zoals informatie over overbrengingen op de locatie, opslag, de specificatie van rapportagevereisten voor diffuse bronnen of de ontwikkeling van criteria voor opname van verontreinigende stoffen uit hoofde van dit Protocol.
 
-#### Artikel 7. Rapportagevereisten
+##### Artikel 7. Rapportagevereisten
 
 1. Elke Partij:
 
@@ -232,7 +257,7 @@ In overeenstemming met dit Protocol stelt elke Partij een voor het publiek toega
 
 8. De informatie bedoeld in het zevende lid omvat informatie omtrent de methode die is toegepast om de informatie te verkrijgen.
 
-#### Artikel 8. Rapportagecyclus
+##### Artikel 8. Rapportagecyclus
 
 1. Elke Partij waarborgt dat de informatie die in haar register moet worden opgenomen, voor het publiek toegankelijk is, en per kalenderjaar in het register verzameld en vermeld wordt. Het rapportagejaar is het kalenderjaar waarop deze informatie betrekking heeft. Voor elke Partij is het eerste rapportagejaar het kalenderjaar dat volgt op de inwerkingtreding van het Protocol voor die Partij. De rapportage die ingevolge artikel 7 vereist is, dient jaarlijks te geschieden. Het tweede rapportagejaar kan echter het tweede kalenderjaar zijn dat volgt op het eerste rapportagejaar.
 
@@ -240,19 +265,19 @@ In overeenstemming met dit Protocol stelt elke Partij een voor het publiek toega
 
 3. Elke Partij die een regionale organisatie voor economische integratie is, waarborgt dat de informatie betreffende een bepaald rapportagejaar in haar register wordt opgenomen binnen zes maanden nadat Partijen die geen regionale organisatie voor economische integratie zijn, verplicht zijn dit te doen.
 
-#### Artikel 9. Verzamelen van gegevens en bijhouden van dossiers
+##### Artikel 9. Verzamelen van gegevens en bijhouden van dossiers
 
 1. Elke Partij verplicht de eigenaren of exploitanten van faciliteiten waarop de rapportagevereisten van artikel 7 van toepassing zijn, de gegevens te verzamelen die nodig zijn om, in overeenstemming met het onderstaande tweede lid en op gezette tijden, de uitstoten en overbrengingen naar buiten de locatie vast te stellen die ingevolge artikel 7 gerapporteerd moeten worden, en de dossiers met de gegevens waaruit de gerapporteerde informatie is verkregen gedurende een termijn van vijf jaar beschikbaar te houden voor de bevoegde autoriteiten, te rekenen vanaf het einde van het desbetreffende verslagjaar. In deze dossiers wordt tevens de methode beschreven die toegepast is om de gegevens te verzamelen.
 
 2. Elke Partij verplicht de eigenaren of exploitanten van faciliteiten die ingevolge artikel 7 gegevens moeten rapporteren, de beste informatie te gebruiken die beschikbaar is, waaronder bijvoorbeeld monitoringgegevens, emissiefactoren, massabalans-vergelijkingen, indirecte monitoring of andere berekeningen, technische beoordelingen en andere methoden. Waar van toepassing dient dit te geschieden in overeenstemming met internationaal goedgekeurde methoden.
 
-#### Artikel 10. Kwaliteitscontrole
+##### Artikel 10. Kwaliteitscontrole
 
 1. Elke Partij verplicht de eigenaren of exploitanten van de faciliteiten waarop de rapportagevereisten van artikel 7, eerste lid, van toepassing zijn, de kwaliteit te garanderen van de door hen gerapporteerde informatie.
 
 2. Elke Partij waarborgt dat de gegevens in haar register onderworpen worden aan een kwaliteitscontrole door de bevoegde autoriteit, met name ten aanzien van hun volledigheid, consistentie en geloofwaardigheid, waarbij rekening wordt gehouden met richtsnoeren die door de Vergadering van de Partijen ontwikkeld kunnen worden.
 
-#### Artikel 11. Toegang van het publiek tot informatie
+##### Artikel 11. Toegang van het publiek tot informatie
 
 1. Elke Partij waarborgt dat het publiek toegang krijgt tot de informatie vervat in haar register inzake de uitstoot en overbrenging van verontreinigende stoffen, zonder dat een bepaald belang behoeft te worden gesteld, en in overeenstemming met de bepalingen van dit Protocol, voornamelijk door te waarborgen dat het register langs elektronische weg middels openbare telecommunicatienetwerken rechtstreeks toegankelijk is.
 
@@ -264,7 +289,7 @@ In overeenstemming met dit Protocol stelt elke Partij een voor het publiek toega
 
 5. Wanneer het publiek de informatie vervat in haar register niet op eenvoudige wijze rechtstreeks kan inzien langs elektronische weg, zorgt elke Partij ervoor dat haar register langs elektronische weg geraadpleegd kan worden in openbare gelegenheden, bijvoorbeeld openbare bibliotheken, kantoren van plaatselijke autoriteiten of andere daarvoor in aanmerking komende plaatsen.
 
-#### Artikel 12. Vertrouwelijkheid
+##### Artikel 12. Vertrouwelijkheid
 
 1. Elke Partij kan de bevoegde autoriteit toestaan in het register opgeslagen informatie vertrouwelijk te houden indien de openbaarmaking van die informatie een negatieve invloed zou hebben op:
 
@@ -282,7 +307,7 @@ In overeenstemming met dit Protocol stelt elke Partij een voor het publiek toega
 
 3. Wanneer informatie ingevolge het eerste lid vertrouwelijk blijft, wordt in het register aangegeven welke soort informatie niet bekend wordt gemaakt, indien mogelijk bijvoorbeeld door het verstrekken van generieke informatie over de chemische stoffen, en waarom de informatie niet bekend wordt gemaakt.
 
-#### Artikel 13. Inspraak bij de ontwikkeling van nationale registers inzake de uitstoot en overbrenging van verontreinigende stoffen
+##### Artikel 13. Inspraak bij de ontwikkeling van nationale registers inzake de uitstoot en overbrenging van verontreinigende stoffen
 
 1. Elke Partij waarborgt dat er passende mogelijkheden zijn voor inspraak bij de ontwikkeling van haar nationale register inzake de uitstoot en overbrenging van verontreinigende stoffen, binnen het kader van haar nationale wetgeving.
 
@@ -290,19 +315,19 @@ In overeenstemming met dit Protocol stelt elke Partij een voor het publiek toega
 
 3. Elke Partij waarborgt dat, wanneer een besluit tot het instellen of wezenlijk veranderen van haar register is genomen, het publiek tijdig zal worden geïnformeerd over de beslissing en de overwegingen die daaraan ten grondslag liggen.
 
-#### Artikel 14. Toegang tot de rechter
+##### Artikel 14. Toegang tot de rechter
 
 1. Elke Partij waarborgt, binnen het kader van haar nationale wetgeving, dat eenieder die meent dat zijn of haar verzoek om informatie ingevolge artikel 11, tweede lid, veronachtzaamd, ten onrechte geheel of gedeeltelijk afgewezen, onvoldoende beantwoord of anderszins niet behandeld is in overeenstemming met de bepalingen van dat lid, toegang heeft tot een herzieningsprocedure voor een rechterlijke instantie of een ander bij wet ingesteld onafhankelijk en onpartijdig orgaan.
 
 2. De vereisten van het eerste lid laten de respectieve rechten en verplichtingen van Partijen uit hoofde van bestaande van toepassing zijnde verdragen tussen hen die betrekking hebben op het onderwerp van dit artikel, onverlet.
 
-#### Artikel 15. Capaciteitsopbouw
+##### Artikel 15. Capaciteitsopbouw
 
 1. Elke Partij bevordert de bewustwording van het publiek van haar register inzake de uitstoot en overbrenging van verontreinigende stoffen en waarborgt dat steun en begeleiding worden gegeven bij het verkrijgen van toegang tot het register en het begrijpen en gebruiken van de daarin vervatte informatie.
 
 2. Elke Partij moet voorzien in adequate capaciteitsopbouw bij en begeleiding van de verantwoordelijke autoriteiten en instanties teneinde hen te ondersteunen bij de uitvoering van hun taken uit hoofde van dit Protocol.
 
-#### Artikel 16. Internationale samenwerking
+##### Artikel 16. Internationale samenwerking
 
 1. De Partijen werken, indien van toepassing, samen en verlenen elkaar assistentie:
 
@@ -322,7 +347,7 @@ In overeenstemming met dit Protocol stelt elke Partij een voor het publiek toega
 
 - c. het verlenen van technische hulp aan Partijen die ontwikkelingslanden zijn en Partijen met een overgangseconomie bij zaken die betrekking hebben op dit Protocol.
 
-#### Artikel 17. Vergadering van de partijen
+##### Artikel 17. Vergadering van de partijen
 
 1. Hierbij wordt een Vergadering van de Partijen ingesteld. De eerste zitting wordt niet later bijeengeroepen dan twee jaar na de inwerkingtreding van dit Protocol. Daarna worden gewone zittingen van de Vergadering van de Partijen gehouden volgend op of gelijktijdig met gewone vergaderingen van de Partijen bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001700), tenzij anders besloten door de Partijen bij dit Protocol. De Vergadering van de Partijen kan een bijzondere zitting houden indien zij daartoe tijdens een gewone zitting besluit of op schriftelijk verzoek van een Partij, mits binnen zes maanden na het mededelen van het verzoek aan alle Partijen door de Uitvoerend Secretaris van de Economische Commissie voor Europa, het genoemde verzoek gesteund wordt door ten minste eenderde van de Partijen.
 
@@ -354,17 +379,17 @@ In overeenstemming met dit Protocol stelt elke Partij een voor het publiek toega
 
 5. Elke niet-gouvernementele organisatie die bevoegd is op de gebieden waarop dit Protocol betrekking heeft, die de Uitvoerend Secretaris van de Economische Commissie voor Europa op de hoogte heeft gesteld van haar wens vertegenwoordigd te zijn bij een vergadering van de Partijen heeft het recht deel te nemen als waarnemer tenzij ten minste eenderde van de ter vergadering aanwezige Partijen bezwaar maken. De toelating en de deelneming van waarnemers worden geregeld in het door de Vergadering van de Partijen aangenomen reglement van orde.
 
-#### Artikel 18. Stemrecht
+##### Artikel 18. Stemrecht
 
 1. Behoudens het bepaalde in het tweede lid, heeft elke Partij bij dit Protocol één stem.
 
 2. Regionale organisaties voor economische integratie oefenen, ten aanzien van aangelegenheden die onder hun bevoegdheid vallen, hun stemrecht uit met een aantal stemmen dat gelijk is aan het aantal van hun lidstaten die Partij zijn. Deze organisaties oefenen hun stemrecht niet uit indien hun lidstaten hun stemrecht uitoefenen en vice versa.
 
-#### Artikel 19. Bijlagen
+##### Artikel 19. Bijlagen
 
 Bijlagen bij dit Protocol maken daarvan een integrerend deel uit en, tenzij uitdrukkelijk anders bepaald, een verwijzing naar dit Protocol vormt tegelijkertijd een verwijzing naar de bijlagen daarbij.
 
-#### Artikel 20. Wijzigingen
+##### Artikel 20. Wijzigingen
 
 1. Elke Partij kan wijzigingen van dit Protocol voorstellen.
 
@@ -386,7 +411,7 @@ Bijlagen bij dit Protocol maken daarvan een integrerend deel uit en, tenzij uitd
 
 10. Indien een wijziging van een bijlage rechtstreeks verband houdt met een wijziging van dit Protocol, treedt zij pas in werking op het moment dat de wijziging van dit Protocol in werking treedt.
 
-#### Artikel 21. Secretariaat
+##### Artikel 21. Secretariaat
 
 De Uitvoerend Secretaris van de Economische Commissie voor Europa verricht de volgende secretariaatstaken ten behoeve van dit Protocol:
 
@@ -398,11 +423,11 @@ De Uitvoerend Secretaris van de Economische Commissie voor Europa verricht de vo
 
 - d. andere taken als door de Vergadering van de Partijen kan worden bepaald op grond van de beschikbare middelen.
 
-#### Artikel 22. Toezicht op naleving
+##### Artikel 22. Toezicht op naleving
 
 Tijdens haar eerste zitting stelt de Vergadering van de Partijen op basis van consensus samenwerkingsprocedures en institutionele regelingen van niet-judiciële, niet-contradictoire, en raadplegende aard vast voor de toetsing en bevordering van de naleving van de bepalingen van dit Protocol en ter bestrijding van gevallen van niet-naleving. Bij de vaststelling van deze procedures en regelingen neemt de Vergadering van Partijen onder andere in overweging of het toegestaan is informatie te ontvangen van leden van het publiek over aangelegenheden met betrekking tot dit Protocol.
 
-#### Artikel 23. Regeling van geschillen
+##### Artikel 23. Regeling van geschillen
 
 1. Indien tussen twee of meer Partijen een geschil ontstaat over de uitlegging of de toepassing van dit Protocol, trachten zij dit op te lossen door onderhandeling of volgens een andere voor de partijen bij het geschil aanvaardbare methode voor de regeling van geschillen.
 
@@ -414,15 +439,15 @@ Tijdens haar eerste zitting stelt de Vergadering van de Partijen op basis van co
 
 3. Indien de partijen bij het geschil beide in het voorgaande tweede lid genoemde methoden voor de regeling van geschillen hebben aanvaard, kan het geschil alleen aan het Internationaal Gerechtshof worden voorgelegd, tenzij de partijen bij het geschil anders overeenkomen.
 
-#### Artikel 24. Ondertekening
+##### Artikel 24. Ondertekening
 
 Dit Protocol staat van 21 tot en met 23 mei 2003 te Kiev (Oekraïne), ter gelegenheid van de vijfde ministeriële conferentie „Milieu voor Europa’’, en daarna tot 31 december 2003 op de Zetel van de Verenigde Naties te New York open voor ondertekening door alle staten die lid zijn van de Verenigde Naties, en door regionale organisaties voor economische integratie opgericht door soevereine staten die lid zijn van de Economische Commissie voor Europa waaraan de lidstaten bevoegdheden hebben overgedragen ten aanzien van aangelegenheden die onder dit Protocol vallen, met inbegrip van de bevoegdheid ten aanzien van die aangelegenheden verdragen aan te gaan.
 
-#### Artikel 25. Depositaris
+##### Artikel 25. Depositaris
 
 De Secretaris-Generaal van de Verenigde Naties treedt op als Depositaris van dit Protocol.
 
-#### Artikel 26. Bekrachtiging, aanvaarding, goedkeuring en toetreding
+##### Artikel 26. Bekrachtiging, aanvaarding, goedkeuring en toetreding
 
 1. Dit Protocol dient te worden bekrachtigd, aanvaard of goedgekeurd door de in artikel 24 bedoelde ondertekenende staten en regionale organisaties voor economische integratie.
 
@@ -432,7 +457,7 @@ De Secretaris-Generaal van de Verenigde Naties treedt op als Depositaris van dit
 
 4. In hun akten van bekrachtiging, aanvaarding, goedkeuring of toetreding geven de in artikel 24 bedoelde regionale organisaties voor economische integratie de reikwijdte van hun bevoegdheid ter zake van de aangelegenheden die onder dit Protocol vallen aan. Deze organisaties doen de Depositaris tevens mededeling van iedere aanmerkelijke verandering in de reikwijdte van hun bevoegdheden.
 
-#### Artikel 27. Inwerkingtreding
+##### Artikel 27. Inwerkingtreding
 
 1. Dit Protocol treedt in werking negentig dagen na de datum van nederlegging van de zestiende akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
 
@@ -440,15 +465,15 @@ De Secretaris-Generaal van de Verenigde Naties treedt op als Depositaris van dit
 
 3. Ten aanzien van elke staat of regionale organisatie voor economische integratie die dit Protocol bekrachtigt, aanvaardt of goedkeurt, danwel ertoe toetreedt na de nederlegging van de zestiende akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, treedt het Protocol in werking negentig dagen na de datum van nederlegging van de akte van bekrachtiging, aanvaarding, goedkeuring of toetreding door die staat of regionale organisatie voor economische integratie.
 
-#### Artikel 28. Voorbehouden
+##### Artikel 28. Voorbehouden
 
 Bij dit Protocol kan geen enkel voorbehoud worden gemaakt.
 
-#### Artikel 29. Opzegging
+##### Artikel 29. Opzegging
 
 Elke Partij kan, te allen tijde na drie jaar vanaf de datum waarop dit Protocol ten aanzien van die Partij in werking is getreden, het Protocol opzeggen door middel van een schriftelijke kennisgeving aan de Depositaris. De opzegging wordt van kracht negentig dagen na de datum van ontvangst van de kennisgeving door de Depositaris.
 
-#### Artikel 30. Authentieke teksten
+##### Artikel 30. Authentieke teksten
 
 Het oorspronkelijke exemplaar van dit Protocol, waarvan de Engelse, de Franse en de Russische teksten gelijkelijk authentiek zijn, wordt nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
 

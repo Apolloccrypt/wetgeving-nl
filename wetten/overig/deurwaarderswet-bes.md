@@ -1,16 +1,41 @@
 ---
 title: "Deurwaarderswet BES"
 identifier: "BWBR0028261"
-categorie: "Overig"
-publicatiedatum: 2015-01-01
-laatste_update: 2015-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028261"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2015-01-01"
+last_updated: "2015-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028261"
+soort: "wet-BES"
+stam_id: "10726193"
+version_id: "17696352"
+internal_id: "C24752271"
+label_id: "10700964"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028261/2015-01-01/0"
+intitule_bron: "Stb.2010-512"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-14"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-512"
+original_signed_date: "2010-09-14"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-512"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028261&z=2015-01-01&g=2015-01-01"
+jci_1_0: "1.0:c:BWBR0028261&g=2015-01-01"
+citeertitel_status: "officieel"
+signed_date: "2010-09-14"
+entry_into_force: "2010-10-10"
 ---
-
 # Deurwaarderswet BES
 
-#### Artikel 1
+##### Artikel 1
 
 1. De dienst van deurwaarder wordt, behoudens het bepaalde in de [artikelen l](https://wetten.overheid.nl/jci1.3:c:BWBR0028261&artikel=1&z=2015-01-01&g=2015-01-01), [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0028261&artikel=7a&z=2015-01-01&g=2015-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0028261&artikel=8&z=2015-01-01&g=2015-01-01) verricht door deurwaarders, adspirant-deurwaarders en toegevoegd-adspirant-deurwaarders.
 
@@ -18,11 +43,11 @@ bron: "https://wetten.overheid.nl/BWBR0028261"
 
 3. Onder deurwaarders worden in deze wet mede adspirant-deurwaarders en toegevoegd-adspirant-deurwaarders verstaan, tenzij het tegendeel uitdrukkelijk of uit de samenhang blijkt.
 
-#### Artikel 2
+##### Artikel 2
 
 De deurwaarders zijn openbare ambtenaren. Zij zijn bevoegd en gehouden tot het doen van alle gerechtelijke aanzeggingen, bekendmakingen, protesten en verdere exploiten, hetzij die al dan niet met een aanhangig rechtsgeding in verband staan, en het doen van dagvaardingen, insinuaties en betekeningen alsmede van exploiten ter uitvoering van rechterlijke bevelen en vonnissen, een en ander voor zover zulks niet bij uitsluiting aan anderen is opgedragen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Aan een deurwaarder wordt bij zijn benoemingsbesluit een bepaald openbaar lichaam respectievelijk openbare lichamen als standplaats aangewezen. Behoudens het geval bedoeld in het volgende lid is zijn bevoegdheid beperkt tot zijn standplaats.
 
@@ -32,11 +57,11 @@ De deurwaarders zijn openbare ambtenaren. Zij zijn bevoegd en gehouden tot het d
 
 4. De deurwaarder moet binnen zijn standplaats wonen en, tenzij hij strafdeurwaarder is, kantoor houden.
 
-#### Artikel 4
+##### Artikel 4
 
 Tot deurwaarder zijn benoembaar zij die de hoedanigheid van aspirant-deurwaarder bezitten en ten minste één jaar in die hoedanigheid werkzaam zijn geweest, en in het bezit zijn van een verklaring omtrent gedrag als bedoeld in [Titel II van de Wet op de justitiële documentatie en op de verklaring omtrent het gedrag BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028258&titeldeel=II)
 
-#### Artikel 5
+##### Artikel 5
 
 1. De deurwaarders leggen, elk naar de wijze zijner godsdienstige gezindheid, vóór hun indiensttreding de navolgende eed of belofte af:
 
@@ -48,7 +73,7 @@ Tot deurwaarder zijn benoembaar zij die de hoedanigheid van aspirant-deurwaarder
 
 4. In geval van verandering van standplaats behoeft de aflegging van de eden of belofte en verklaring niet te worden herhaald.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De deurwaarders zijn, onverminderd hun andere ambtsverrichtingen, belast met de dienst ter terechtzitting en bij de vergaderingen van het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba, het Gerecht in eerste aanleg en de bijzondere colleges en commissies. Zij zijn gehouden om de bevelen na te komen, welke hun te dien aanzien door de President van het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba of de rechter in eerste aanleg en, voor zover het de strafdeurwaarders betreft, door of vanwege de procureur-generaal bij het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba worden gegeven.
 
@@ -58,7 +83,7 @@ Tot deurwaarder zijn benoembaar zij die de hoedanigheid van aspirant-deurwaarder
 
 4. Indien bij het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba meer dan een deurwaarder is aangesteld, regelt de president elks dienst, voor zover zulks ten aanzien van de strafdeurwaarders niet door of vanwege de procureur-generaal geschiedt.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Bij afwezigheid of ontstentenis van een deurwaarder is de president van het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba of de rechter in het Gerecht in eerste aanleg bevoegd een of meer geschikte en vertrouwde personen tijdelijk als waarnemend deurwaarder aan te wijzen tot het verrichten van de vereiste werkzaamheden, daaronder begrepen die welke na elk eindvonnis nodig zijn.
 
@@ -66,11 +91,11 @@ Tot deurwaarder zijn benoembaar zij die de hoedanigheid van aspirant-deurwaarder
 
 3. Op de waarnemende deurwaarders zijn, zolang zij in functie zijn, de voor de deurwaarders ingevolge deze wet geldende bepalingen van toepassing, uitgezonderd die welke op de benoeming betrekking hebben.
 
-#### Artikel 7a
+##### Artikel 7a
 
 De President van het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba is bevoegd een of meer geschikte en vertrouwde personen als waarnemend deurwaarder aan te wijzen tot het verrichten van vereiste werkzaamheden, daaronder begrepen die welke na elk eindvonnis nodig zijn.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Ten dienste der strafrechtspleging kan de procureur-generaal aan een of meer ambtenaren van het politiekorps van Bonaire, Sint Eustatius en Saba, die bijzonder aan zijn parket of dat van de officier van justitie verbonden zijn, de functies opdragen van strafdeurwaarders, die als zodanig het openbaar ministerie meer bijzonder ten dienste staan, doch tevens evenals de andere deurwaarders en op gelijke wijze als dezen bevoegd en gehouden zijn, om elk in het openbaar lichaam waarvoor hij door de procureur-generaal is aangewezen, alle exploiten te doen, bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028261&artikel=2&z=2015-01-01&g=2015-01-01) van deze wet omschreven, en die voorts bij afwezigheid of ontstentenis van andere deurwaarders verplicht zijn om de diensten, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028261&artikel=6&z=2015-01-01&g=2015-01-01) van deze wet, op de wijze als in dat artikel bepaald te verrichten.
 
@@ -78,7 +103,7 @@ De President van het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sin
 
 3. De opdracht, in het eerste lid bedoeld, alsmede de intrekking van zodanige opdracht wordt door de procureur-generaal bekendgemaakt aan de President van het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba bij brief en in het algemeen bij aankondiging in de Curaçaosche Courant, de Staatscourant en in een of meer in de openbare lichamen Bonaire, Sint Eustatius en Saba verschijnende nieuwsbladen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Elke deurwaarder is verplicht om zijn dienst te verlenen te allen tijde, wanneer die wordt ingeroepen, binnen het openbaar lichaam of de openbare lichamen waarin hij bevoegd is.
 
@@ -94,17 +119,17 @@ De President van het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sin
 
 7. Is op het tijdstip waarop de deurwaarder een aanzegging ontvangt als bedoeld in het derde lid, de ambtshandeling reeds verricht en behelsde deze een beslagexploot, dan betekent hij deze aanzegging aanstonds aan degene aan wie het exploot is gedaan, heft het beslag op en maakt de gevolgen daarvan ongedaan. De kosten van de betekening van de aanzegging komen ten laste van de Staat.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De deurwaarders zijn verplicht om zich in de berekening van hun salaris en verschotten, zo zij daarop boven hun bezoldiging als ambtenaar aanspraak kunnen maken, te gedragen naar de bestaande of vast te stellen tarieven. Zij moeten aan de voet van hun exploiten het salaris en de verschotten afzonderlijk uitdrukken; zonder deze vermelding wordt de berekening van het salaris en de verschotten, indien de rechter daartoe termen aanwezig acht, niet in de begroting van kosten opgenomen en zijn de partijen alsdan niet gehouden ze te voldoen.
 
 2. De deurwaarders zijn bevoegd om de vereiste verschotten te vorderen alvorens een ambtsverrichting te doen.
 
-#### Artikel 11
+##### Artikel 11
 
 De deurwaarders zijn verplicht om op daartoe bekomen last van de President van het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba of de rechter in het Gerecht in eerste aanleg en in de gevallen bij of krachtens wet bepaald hun dienst gratis te verlenen zonder evenwel tot enige verschotten gehouden te zijn. In dat geval moeten zij aan de voet van het exploit het daarvoor toegekende salaris in debet te stellen, om later het bedrag in te vorderen daar waar recht daartoe zal bestaan.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De deurwaarders moeten een register of repertoire houden.
 
@@ -116,7 +141,7 @@ De deurwaarders zijn verplicht om op daartoe bekomen last van de President van h
 
 5. De deurwaarders zijn verplicht om hun repertoire, administratie en boekhouding ter controle aan de President van het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba of aan een of meer door deze aangewezen deskundigen open te stellen.
 
-#### Artikel 12a
+##### Artikel 12a
 
 1. De deurwaarder is verplicht bij een kredietinstelling in de zin van de [Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883) een of meer bijzondere rekeningen aan te houden op zijn naam met vermelding van zijn hoedanigheid, die uitsluitend bestemd zijn voor gelden, die hij in verband met zijn werkzaamheden als zodanig ten behoeve van derden onder zich neemt. Gelden die aan de deurwaarder in verband met zijn werkzaamheden als zodanig ten behoeve van derden worden toevertrouwd, moeten op die rekening worden gestort. De bovenbedoelde kredietinstelling voegt de over de gelden gekweekte rente toe aan het saldo van de bijzondere rekening. Indien deze gelden abusievelijk op een andere rekening van de deurwaarder zijn gestort of indien ten onrechte gelden op de bijzondere rekening zijn gestort, is de deurwaarder verplicht deze onverwijld op de juiste rekening te storten. Hetzelfde geldt indien de gelden rechtstreeks in handen van de deurwaarder zijn gesteld. Indien meer deurwaarders in een maatschap samenwerken, kan de bijzondere rekening ten name van die deurwaarders tezamen, de maatschap of de vennootschap worden gesteld. De deurwaarder vermeldt het nummer van de bijzondere rekening op zijn briefpapier.
 
@@ -134,7 +159,7 @@ De deurwaarders zijn verplicht om op daartoe bekomen last van de President van h
 
 8. Van de bepalingen van dit artikel en van de in het zevende lid bedoelde regels kan niet worden afgeweken.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Het is de deurwaarder verboden naar aanleiding van een rechtsgeding of buiten eigenlijk rechtsgeding en al dan niet tegen vergoeding:
 
@@ -154,11 +179,11 @@ De deurwaarders zijn verplicht om op daartoe bekomen last van de President van h
 
 4. Indien een deurwaarder in een rechtsgeding als in het tweede lid bedoeld optreedt, stelt de rechter de vergoeding vast welke hij als gemachtigde in de betreffende zaak mag berekenen.
 
-#### Artikel 14
+##### Artikel 14
 
 De bepalingen van het voorgaande artikel laten onverlet de rechten en verplichtingen van de deurwaarder, die bij rechterlijke uitspraak of beschikking benoemd is tot curator in een faillissement of van een onbeheerde boedel, alsmede tot bewindvoerder van de goederen van een afwezige, of tot onzijdig persoon.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Indien een deurwaarder zijn ambtsplichten verwaarloost, zich schuldig maakt aan enig handelen of nalaten in strijd met de zorg die hij behoort te betrachten jegens degenen te wier behoeve hij optreedt, of anderszins handelt in strijd met hetgeen hem in zijn ambt betaamt, kan hij door het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba, nadat dit hem gehoord of daartoe behoorlijk opgeroepen heeft, ambtshalve of naar aanleiding van een klacht bij een met redenen omklede beslissing berispt worden dan wel aan hem een geldboete van ten hoogste USD 560 worden opgelegd.
 
@@ -168,11 +193,11 @@ De bepalingen van het voorgaande artikel laten onverlet de rechten en verplichti
 
 4. Onverminderd de bepalingen van de voorgaande leden zijn die betreffende de disciplinaire straffen, vastgesteld krachtens [artikel 82 van de Ambtenarenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=82), op de deurwaarders van toepassing.
 
-#### Artikel 16
+##### Artikel 16
 
 De deurwaarders zijn bij de terechtzittingen voegzaam gekleed; zo zij dit wensen dragen zij daar, alsmede bij de uitoefening van hun andere ambtsverrichtingen, om de hals een zilveren penning met het wapen van het Koninkrijk, aan een oranje lint.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Onze Minister van Justitie kan regelen vaststellen betreffende de opleiding tot deurwaarder en de examens, af te leggen door degenen die voor een benoeming tot adspirant-deurwaarder of tot deurwaarder in aanmerking wensen te komen.
 
@@ -186,7 +211,7 @@ De deurwaarders zijn bij de terechtzittingen voegzaam gekleed; zo zij dit wensen
 
 4. [vervallen]
 
-#### Artikel 18
+##### Artikel 18
 
 1. De adspirant-deurwaarder dient werkzaam te zijn ten kantore van een deurwaarder.
 
@@ -200,7 +225,7 @@ De deurwaarders zijn bij de terechtzittingen voegzaam gekleed; zo zij dit wensen
 
 6. In afwijking in zoverre van de voorgaande leden dient de adspirant-strafdeurwaarder werkzaam te zijn ten parkette van het openbaar ministerie overeenkomstig de aanwijzingen hem door of vanwege de procureur-generaal bij het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba gegeven, en is hij bevoegd om alle ambtshandelingen en diensten van een strafdeurwaarder te verrichten voor zover en zoals deze hem door of vanwege de procureur-generaal opgedragen zijn. Het derde lid is niet van toepassing; in het vierde lid wordt in plaats van «het bepaalde in het tweede lid» gelezen: «het bepaalde in het zesde lid».
 
-#### Artikel 18a
+##### Artikel 18a
 
 1. De aanwijzing tot toegevoegd-adspirant-deurwaarder geschiedt door de deurwaarder, te wiens kantore de toegevoegd-adspirant-deurwaarder werkzaam zal zijn. De deurwaarder dient echter reeds vijf jaren als deurwaarder benoemd te zijn. De aanwijzing behoeft de goedkeuring van Onze Ministervan Justitie na advies van de President van het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba. De goedkeuring kan worden ingetrokken.
 
@@ -222,20 +247,20 @@ De deurwaarders zijn bij de terechtzittingen voegzaam gekleed; zo zij dit wensen
 
 5. De [leden drie en vier van artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028261&artikel=5&z=2015-01-01&g=2015-01-01) zijn van overeenkomstige toepassing.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Door de President van het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba of de rechter in het Gerecht in eerste aanleg kunnen ambtenaren, behorende tot het administratieve of overige bedienend personeel van de griffie, belast worden met het verrichten van een of meer van de in het volgende lid genoemde verrichtingen.
 
 2. Deze ambtenaren kunnen overeenkomstig de hun uitdrukkelijk verleende opdracht dienst doen bij het uitspreken in het openbaar van rechterlijke beslissingen, bij getuigenverhoren, comparities van partijen, verhoren op vraagpunten en andere verhoren of verrichtingen van een gerecht, en bij vergaderingen van het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba, het Gerecht in eerste aanleg en de bijzondere colleges en commissies.
 
-#### Artikel 20
+##### Artikel 20
 
 De deurwaarders en de waarnemende deurwaarders die op het tijdstip van inwerkingtreding van deze wet in functie zijn, worden geacht te zijn benoemd overeenkomstig en te voldoen aan de voorwaarden voor benoembaarheid gesteld in deze wet.
 
-#### Artikel 21
+##### Artikel 21
 
 De deurwaarders die op het tijdstip van inwerkingtreding van deze wet bevoegd zijn om hun functie in meer dan een openbaar lichaam uit te oefenen, behouden deze bevoegdheid.
 
-#### Artikel 22
+##### Artikel 22
 
 Deze wet wordt aangehaald als: Deurwaarderswet BES.

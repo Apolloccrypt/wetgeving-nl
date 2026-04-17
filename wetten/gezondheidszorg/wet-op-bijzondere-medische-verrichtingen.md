@@ -1,14 +1,41 @@
 ---
-title: "Wet op bijzondere medische verrichtingen"
+title: "Wet van 24 oktober 1997, houdende regels betreffende bijzondere verrichtingen op het gebied van de gezondheidszorg (Wet op bijzondere medische verrichtingen)"
 identifier: "BWBR0008974"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2025-07-05
-laatste_update: 2025-07-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008974"
+country: "nl"
+rank: "wet"
+publication_date: "2025-07-05"
+last_updated: "2025-07-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008974"
+soort: "wet"
+stam_id: "2765083"
+version_id: "21404482"
+internal_id: "C30952371"
+label_id: "2712094"
+dtd_version: "2.0"
+original_entry_into_force: "2014-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008974/2025-07-05/0"
+intitule_bron: "Stb.1997-515"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-10-24"
+intitule_published: "1997-11-13"
+intitule_in_force: "1997-11-13"
+intitule_status: "goed"
+original_publication: "Stb.2014-165"
+original_signed_date: "2014-04-16"
+original_published_date: "2014-05-13"
+original_effect: "structuurwijziging"
+original_dossier: "33438"
+original_url_id: "stb-2014-165"
+entry_into_force_date: "2014-08-01"
+jci_1_3: "jci1.3:c:BWBR0008974&z=2025-07-05&g=2025-07-05"
+jci_1_0: "1.0:c:BWBR0008974&g=2025-07-05"
+citeertitel_status: "officieel"
+short_title: "Wet op bijzondere medische verrichtingen"
+signed_date: "2014-04-16"
+entry_into_force: "2014-08-01"
 ---
-
-# Wet op bijzondere medische verrichtingen
+# Wet van 24 oktober 1997, houdende regels betreffende bijzondere verrichtingen op het gebied van de gezondheidszorg (Wet op bijzondere medische verrichtingen)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk I. Algemene bepaling
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -30,7 +57,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk II. Regulering door verboden
 
-#### Artikel 2
+##### Artikel 2
 
 1. Indien gewichtige belangen daartoe aanleiding geven, kan Onze Minister bij ministeriële regeling bepalen:
 
@@ -40,7 +67,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 2. De vaststelling krachtens het eerste lid van een ministeriële regeling houdende beëindiging van een verbod als in dat lid bedoeld, wordt niet eerder gedaan dan vier weken nadat een ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Indien een medische verrichting, gezien de maatschappelijke, ethische of juridische aspecten, ongewenst is en de omstandigheden van dien aard zijn dat de totstandkoming van een regeling van die verrichting bij wet niet kan worden afgewacht, kan bij algemene maatregel van bestuur worden bepaald dat het verboden is zodanige medische verrichting uit te voeren.
 
@@ -48,17 +75,17 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Een krachtens het eerste lid vastgestelde maatregel vervalt twee jaar na de inwerkingtreding. Indien binnen die termijn een wetsvoorstel tot regeling van het onderwerp is ingediend bij de Tweede Kamer der Staten-Generaal, vervalt de maatregel op het tijdstip waarop een van de beide kamers der Staten-Generaal besluit het wetsvoorstel niet aan te nemen of op het tijdstip waarop het wetsvoorstel kracht van wet krijgt.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Met betrekking tot medische verrichtingen waarvoor subsidie wordt verstrekt door Onze Minister in het kader van een project van ontwikkelingsgeneeskunde, kan Onze Minister, indien het belang van dat project of een belang als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=2&z=2025-07-05&g=2025-07-05) daartoe aanleiding geeft dan wel indien moet worden onderzocht of de verrichting, gezien de maatschappelijke, ethische of juridische aspecten, al dan niet gewenst is, bij ministeriële regeling bepalen dat het verboden is die medische verrichtingen uit te voeren elders dan in de bij dat project betrokken instelling.
 
 2. Een regeling als bedoeld in het eerste lid vervalt een jaar na het tijdstip waarop de subsidiëring van dat project wordt beëindigd.
 
-#### Artikel 5
+##### Artikel 5
 
 Onze Minister bepaalt bij ministeriële regeling de omvang van de behoefte aan verrichtingen en apparatuur, bedoeld in [artikel 2, eerste lid, onder a onderscheidenlijk b](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=2&z=2025-07-05&g=2025-07-05), alsmede de wijze waarop in die behoefte kan worden voorzien.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een vergunning als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=2&z=2025-07-05&g=2025-07-05), kan slechts worden geweigerd indien het verlenen daarvan in strijd zou zijn met het bepaalde krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=5&z=2025-07-05&g=2025-07-05).
 
@@ -72,11 +99,11 @@ Onze Minister bepaalt bij ministeriële regeling de omvang van de behoefte aan v
 
 ### Hoofdstuk III. Regulering door financiële ondersteuning
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 1. Onze Minister kan met betrekking tot medische verrichtingen waarop niet een regeling als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=2&z=2025-07-05&g=2025-07-05) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=3&z=2025-07-05&g=2025-07-05) van toepassing is en die niet behoren tot de ontwikkelingsgeneeskunde, zijn beleidsvisie bekend maken ten aanzien van bijzondere aspecten van die verrichtingen, welke aspecten die verrichtingen onderscheiden van andere medische verrichtingen, en de procedure met betrekking tot het verstrekken van een aanwijzing als bedoeld in het tweede lid.
 
@@ -90,7 +117,7 @@ Vervallen
 
 ### Hoofdstuk III. Regulering door financiële ondersteuning
 
-#### Artikel 9
+##### Artikel 9
 
 1. Degene die een medische verrichting uitvoert waarvoor niet langer ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=2&z=2025-07-05&g=2025-07-05) een vergunning is vereist, doet daarvan binnen drie maanden nadat hij met de uitvoering is begonnen mededeling aan de Inspectie gezondheidszorg en jeugd. Deze verplichting rust niet op degene die op de datum waarop de vergunningplicht eindigde, in het bezit was van een zodanige vergunning.
 
@@ -100,43 +127,43 @@ Vervallen
 
 4. Onze Minister zendt een jaar nadat voor een medische verrichting een verplichting tot het doen van een mededeling als bedoeld in het eerste lid is ontstaan, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van die verplichting in de praktijk.
 
-#### Artikel 10
+##### Artikel 10
 
 Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de ambtenaren van de Inspectie gezondheidszorg en jeugd.
 
-#### Artikel 11
+##### Artikel 11
 
 De toezichthouders zijn bevoegd, met medeneming van de benodigde apparatuur, een woning binnen te treden zonder toestemming van de bewoner voor zover deze woning deel uitmaakt van een instelling.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Onze Minister is bevoegd een bestuurlijke boete van ten hoogste € 33.500,– op te leggen ter zake van een gedraging die in strijd is met het bepaalde bij of krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=2&z=2025-07-05&g=2025-07-05) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=4&z=2025-07-05&g=2025-07-05).
 
 2. Onze Minister is bevoegd een bestuurlijke boete van ten hoogste € 13.400,– op te leggen ter zake van een gedraging die in strijd is met het bepaalde bij of krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=IV&artikel=9&z=2025-07-05&g=2025-07-05).
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
 ### Hoofdstuk IVa. Sancties
 
-#### Artikel 16
+##### Artikel 16
 
 Wijzigt de Wet op de economische delicten.
 
-#### Artikel 17
+##### Artikel 17
 
 Wijzigt de Wet ziekenhuisvoorzieningen.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Na de inwerkingtreding van deze wet berusten de Regeling harttransplantatie, de Regeling longtransplantatie, de Regeling levertransplantatie en de Regeling klinisch-genetisch onderzoek en erfelijkheidsadvisering op [de artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=2&z=2025-07-05&g=2025-07-05), en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=5&z=2025-07-05&g=2025-07-05) van deze wet, berusten het Planningsbesluit niertransplantatie, het Planningsbesluit radiotherapie, het Planningsbesluit in vitro fertilisatie, het Planningsbesluit neonatale intensive care, het Planningsbesluit neurochirurgie, het Planningsbesluit dialyse en het [Planningsbesluit bijzondere interventies aan het hart](https://wetten.overheid.nl/jci1.3:c:BWBR0008447) op [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=5&z=2025-07-05&g=2025-07-05) van deze wet, en berust het Besluit procedures voor bijzondere functies Wet ziekenhuisvoorzieningen op [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=6&z=2025-07-05&g=2025-07-05), van deze wet.
 
@@ -144,19 +171,19 @@ Wijzigt de Wet ziekenhuisvoorzieningen.
 
 3. Beroepen, ingesteld tegen beslissingen op grond van [artikel 18 van de Wet ziekenhuisvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0002753&artikel=18), worden afgewikkeld overeenkomstig de in die wet voorziene procedure, zoals die wet luidde tot de inwerkingtreding van deze wet.
 
-#### Artikel 19
+##### Artikel 19
 
 Wijzigt de Algemene bijstandswet.
 
-#### Artikel 20
+##### Artikel 20
 
 Onze Minister zendt binnen vier jaar na inwerkingtreding van deze wet, en vervolgens telkens na vier jaar, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-#### Artikel 21
+##### Artikel 21
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst.
 
-#### Artikel 22
+##### Artikel 22
 
 Deze wet wordt aangehaald als: Wet op bijzondere medische verrichtingen.
 
@@ -166,7 +193,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 #### Paragraaf 2. Specifieke verboden
 
-#### Artikel 6a
+##### Artikel 6a
 
 1. Het uitvoeren van medische verrichtingen met toepassing van xenotransplantatie is verboden. Onder xenotransplantatie wordt verstaan het in- of aanbrengen van levende bestanddelen van een dier of van een foetus of embryo van een dier, dan wel een menselijk bestanddeel dat daarmee doelgericht in aanraking is gebracht, in of aan het lichaam van een mens.
 
@@ -184,7 +211,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 11a
+##### Artikel 11a
 
 Vervallen
 

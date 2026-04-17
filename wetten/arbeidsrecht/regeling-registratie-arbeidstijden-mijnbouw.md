@@ -1,28 +1,52 @@
 ---
 title: "Regeling registratie arbeidstijden mijnbouw"
 identifier: "BWBR0012040"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2007-05-27
-laatste_update: 2007-05-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012040"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2007-05-27"
+last_updated: "2007-05-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012040"
+soort: "ministeriele-regeling"
+stam_id: "4551733"
+version_id: "6357892"
+internal_id: "C6602361"
+label_id: "4529964"
+dtd_version: "2.0"
+original_entry_into_force: "2000-12-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012040/2007-05-27/0"
+intitule_bron: "Stcrt.2000-251"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-12-19"
+intitule_published: "2000-12-28"
+intitule_in_force: "2000-12-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2000-251"
+original_signed_date: "2000-12-19"
+original_published_date: "2000-12-28"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2000-12-30"
+jci_1_3: "jci1.3:c:BWBR0012040&z=2007-05-27&g=2007-05-27"
+jci_1_0: "1.0:c:BWBR0012040&g=2007-05-27"
+citeertitel_status: "officieel"
+signed_date: "2000-12-19"
+entry_into_force: "2000-12-30"
 ---
-
 # Regeling registratie arbeidstijden mijnbouw
 
 Gelet op [artikel 3.1:2, eerste en vierde lid, van het Arbeidstijdenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&artikel=3.1:2),
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Als model van de registratie, bedoeld in [artikel 3.1:2, eerste lid, van het Arbeidstijdenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&artikel=3.1:2) wordt voor een werknemer die in een niet-bestendig en -regelmatig arbeidspatroon werkzaam is, het model vastgesteld dat als [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0012040&bijlage=1&z=2007-05-27&g=2007-05-27) bij deze regeling is gevoegd.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het toelichting wordt geplaatst.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling wordt aangehaald als: Regeling registratie arbeidstijden mijnbouw.
 

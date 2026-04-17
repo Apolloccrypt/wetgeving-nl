@@ -1,13 +1,32 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van Curaçao, en de Caribische Gemeenschap tot vaststelling van de voorwaarden voor het verlenen aan Curaçao van de status van geassocieerd lid van de Caribische Gemeenschap"
 identifier: "BWBV0007068"
-categorie: "Internationaal recht"
-publicatiedatum: 2024-07-28
-laatste_update: 2024-07-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0007068"
+country: "nl"
+rank: "verdrag"
+publication_date: "2024-07-28"
+last_updated: "2024-07-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0007068"
+soort: "verdrag"
+stam_id: "10005669613"
+version_id: "10006246802"
+internal_id: "C10010215831"
+label_id: "10005650984"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0007068/2024-07-28/0"
+intitule_bron: "Trb.2024-92"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2024-08-02"
+intitule_status: "nogniet"
+original_publication: "Trb.2024-92"
+original_published_date: "2024-08-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2024-92"
+jci_1_3: "jci1.3:c:BWBV0007068&z=2024-07-28&g=2024-07-28"
+jci_1_0: "1.0:c:BWBV0007068&g=2024-07-28"
+citeertitel_status: "redactioneel"
+entry_into_force: "2024-08-02"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van Curaçao, en de Caribische Gemeenschap tot vaststelling van de voorwaarden voor het verlenen aan Curaçao van de status van geassocieerd lid van de Caribische Gemeenschap
 
 Het Koninkrijk der Nederlanden, ten behoeve van Curaçao (hierna te noemen „Curaçao”) en de Caribische Gemeenschap (hierna te noemen „CARICOM”) (tezamen „de partijen” genoemd);
@@ -20,7 +39,7 @@ Erkennend dat artikel 28 van het Statuut voor het Koninkrijk der Nederlanden Cur
 
 Komen hierbij het volgende overeen:
 
-#### Artikel I. Voorwaarden
+##### Artikel I. Voorwaarden
 
 Aan Curaçao wordt, overeenkomstig het besluit van de Conferentie van Regeringsleiders van CARICOM, genomen tijdens haar achtendertigste intersessionele bijeenkomst in Caucus op 4 juni 2024, de status van geassocieerd lid van CARICOM verleend onder de volgende voorwaarden:
 
@@ -50,15 +69,15 @@ Aan Curaçao wordt, overeenkomstig het besluit van de Conferentie van Regeringsl
 
 - xiii. betere handelsbetrekkingen.
 
-#### Artikel II. Toepasselijkheid van het Verdrag
+##### Artikel II. Toepasselijkheid van het Verdrag
 
 Wat het Koninkrijk der Nederlanden betreft, is dit Verdrag uitsluitend van toepassing op Curaçao.
 
-#### Artikel III. Inwerkingtreding
+##### Artikel III. Inwerkingtreding
 
 Dit Verdrag treedt in werking op de eerste dag van de tweede maand na de datum van de schriftelijke kennisgeving langs diplomatieke weg waarin de partijen elkaar ervan in kennis hebben gesteld dat alle vereiste interne procedures voor de inwerkingtreding van dit Verdrag zijn voltooid.
 
-#### Artikel IV. Beëindiging
+##### Artikel IV. Beëindiging
 
 1. Het Koninkrijk der Nederlanden, ten behoeve van Curaçao, kan te allen tijde de Secretaris-Generaal van CARICOM zes (6) maanden van tevoren langs diplomatieke weg in kennis stellen van zijn voornemen het geassocieerd lidmaatschap te beëindigen.
 

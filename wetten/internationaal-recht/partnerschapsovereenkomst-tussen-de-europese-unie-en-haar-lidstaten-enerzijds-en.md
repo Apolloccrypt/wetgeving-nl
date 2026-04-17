@@ -1,13 +1,24 @@
 ---
 title: "Partnerschapsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de leden van de Organisatie van Staten in Afrika, het Caribisch Gebied en de Stille Oceaan, anderzijds"
 identifier: "BWBV0007046"
-categorie: "Internationaal recht"
-publicatiedatum: 2023-11-15
-laatste_update: 2023-11-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0007046"
+country: "nl"
+rank: "verdrag"
+publication_date: "2023-11-15"
+last_updated: "2023-11-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0007046"
+soort: "verdrag"
+stam_id: "10005656913"
+version_id: "10006235822"
+internal_id: "C10010086351"
+label_id: "10005642004"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0007046/2023-11-15/0"
+intitule_status: "nogniet"
+jci_1_3: "jci1.3:c:BWBV0007046&z=2023-11-15&g=2023-11-15"
+jci_1_0: "1.0:c:BWBV0007046&g=2023-11-15"
+citeertitel_status: "redactioneel"
 ---
-
 # Partnerschapsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de leden van de Organisatie van Staten in Afrika, het Caribisch Gebied en de Stille Oceaan, anderzijds
 
 de Europese Unie, hierna „de EU” genoemd,
@@ -288,7 +299,7 @@ Zijn het volgende overeengekomen:
 
 ## DEEL I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Doelstellingen
+##### Artikel 1. Doelstellingen
 
 1. De Europese Unie en haar lidstaten, hierna de „EU” genoemd, enerzijds, en de leden van de Organisatie van staten in Afrika, het Caribisch gebied en de Stille Oceaan (OACPS), anderzijds, hierna gezamenlijk de „Partijen” genoemd, komen hierbij overeen deze Overeenkomst te sluiten waarbij een versterkt politiek partnerschap tot stand wordt gebracht om gunstige resultaten te bereiken met betrekking tot gemeenschappelijke en onderling samenhangende belangen en in overeenstemming met hun gedeelde waarden.
 
@@ -312,7 +323,7 @@ Zijn het volgende overeengekomen:
 
 5. Deze Overeenkomst vergemakkelijkt de vaststelling van gemeenschappelijke standpunten door de Partijen op het internationale toneel en versterkt de partnerschappen ter bevordering van multilateralisme en de op regels gebaseerde internationale orde, met als doel wereldwijde actie vooruit te helpen.
 
-#### Artikel 2. Beginselen
+##### Artikel 2. Beginselen
 
 1. De Partijen streven de doelstellingen van deze Overeenkomst na in een geest van gedeelde verantwoordelijkheid, solidariteit, wederkerigheid, wederzijds respect en verantwoordingsplicht.
 
@@ -332,7 +343,7 @@ Zijn het volgende overeengekomen:
 
 9. De samenwerking binnen regionale formele en ad-hocoverlegstructuren kan worden voortgezet om de doelstellingen van het partnerschap in het kader van deze Overeenkomst op een meer doeltreffende en doelmatige manier te verwezenlijken. De Partijen kunnen tevens bepalingen en flexibele procedures overeenkomen aan de hand waarvan de belanghebbende Partijen de dialoog en samenwerking op het gebied van specifieke thematische en interregionale kwesties kunnen verdiepen.
 
-#### Artikel 3. Partnerschapsdialoog
+##### Artikel 3. Partnerschapsdialoog
 
 1. De Partijen voeren een regelmatige, evenwichtige, brede en inhoudelijke partnerschapsdialoog over alle terreinen waarop deze Overeenkomst betrekking heeft, met de bedoeling aan beide zijden tot verbintenissen en, in voorkomend geval, maatregelen te komen met het oog op de doeltreffende uitvoering van de Overeenkomst.
 
@@ -342,7 +353,7 @@ Zijn het volgende overeengekomen:
 
 4. De Partijen komen overeen dat de parlementen en, in voorkomend geval, vertegenwoordigers van maatschappelijke organisaties en de private sector naar behoren moeten worden geïnformeerd, geraadpleegd en in staat gesteld een bijdrage te leveren aan de partnerschapsdialoog. Regionale en continentale organisaties worden waar passend bij de partnerschapsdialoog betrokken.
 
-#### Artikel 4. Beleidscoherentie
+##### Artikel 4. Beleidscoherentie
 
 1. De Partijen streven ernaar samenhangende beleidsmaatregelen te nemen op nationaal, regionaal en internationaal niveau met het oog op de verwezenlijking van de doelstellingen van deze Overeenkomst, door middel van een gerichte, strategische en op partnerschap berustende aanpak.
 
@@ -350,7 +361,7 @@ Zijn het volgende overeengekomen:
 
 3. De Partijen bevestigen opnieuw hun gehechtheid aan beleidscoherentie voor ontwikkeling als een essentiële factor om de SDG’s te verwezenlijken.
 
-#### Artikel 5. Actoren
+##### Artikel 5. Actoren
 
 1. De Partijen erkennen dat de regeringen in de partnerlanden een centrale rol vervullen bij de vaststelling en uitvoering van de prioriteiten en strategieën voor hun land. Zij erkennen de essentiële rol van parlementen bij het opstellen en goedkeuren van wetgeving, het goedkeuren van begrotingen en het ter verantwoording roepen van regeringen. Zij erkennen de rol van lokale autoriteiten bij en hun bijdrage aan het versterken van de democratische verantwoordingsplicht en het aanvullen van overheidsmaatregelen.
 
@@ -358,7 +369,7 @@ Zijn het volgende overeengekomen:
 
 3. De Partijen erkennen de belangrijke rol en bijdrage van belanghebbenden, ongeacht in welke vorm of met welke nationale kenmerken, namelijk het maatschappelijk middenveld, de economische en sociale partners, waaronder vakbondsorganisaties, en de private sector, en komen overeen de effectieve deelname van deze belanghebbenden te bevorderen en te versterken met de bedoeling meer inclusieve beleidsprocessen tot stand te brengen op basis van een multistakeholderbenadering. Daartoe zorgen de Partijen ervoor dat al die belanghebbenden, waar passend, worden geïnformeerd en geraadpleegd over strategieën en sectoraal beleid, hun inbreng leveren voor het brede proces van de dialoog, capaciteitsopbouw ontvangen op kritieke gebieden en deelnemen aan de uitvoering van samenwerkingsprogramma’s op de gebieden die hen aangaan. Een dergelijke deelname aan samenwerkingsprogramma’s moet gebaseerd zijn op de mate waarin deze programma’s tegemoetkomen aan de behoeften van de bevolking en op hun specifieke bevoegdheden, en moet over verantwoordingsplichtige en transparante bestuursstructuren beschikken.
 
-#### Artikel 6. Structuur
+##### Artikel 6. Structuur
 
 1. Deze Overeenkomst bestaat uit het algemene deel (delen I tot en met VI), drie Regionale Protocollen („de Regionale Protocollen”) en bijlagen.
 
@@ -366,7 +377,7 @@ Zijn het volgende overeengekomen:
 
 3. De Regionale Protocollen zijn juridisch bindend voor de EU en respectievelijk de OACPS-leden in Afrika, het Caribisch gebied en de Stille Oceaan. Geen enkele bepaling van de Regionale Protocollen, noch de interpretatie en uitvoering daarvan kunnen van invloed zijn op of afwijken van de bepalingen van het algemene deel en van de besluiten van de OACPS-EU-Raad van Ministers.
 
-#### Artikel 7. Horizontale thema’s
+##### Artikel 7. Horizontale thema’s
 
 1. De Partijen komen overeen stelselmatig rekening te houden met de volgende horizontale thema’s als basis voor actie op alle samenwerkingsgebieden: mensenrechten, democratie, gendergelijkheid, vrede en veiligheid, milieubescherming, de strijd tegen de klimaatverandering, cultuur en jongerenzaken.
 
@@ -378,13 +389,13 @@ Zijn het volgende overeengekomen:
 
 ## TITEL I. MENSENRECHTEN, DEMOCRATIE EN GOED BESTUUR IN MENSGERICHTE EN OP RECHTEN GEBASEERDE SAMENLEVINGEN
 
-#### Artikel 8
+##### Artikel 8
 
 De Partijen herbevestigen hun vastberadenheid om de mensenrechten, de fundamentele vrijheden en de democratische beginselen te bevorderen, te beschermen en te behartigen en de rechtsstaat en goed bestuur te versterken, overeenkomstig het [VN-Handvest](onbekend), de [Universele Verklaring van de Rechten van de Mens](onbekend) en het internationaal recht, met name het internationaal recht inzake de mensenrechten en, indien toepasselijk, het internationaal humanitair recht.
 
 De Partijen bevorderen mensgerichte en op rechten gebaseerde beleidsmaatregelen waarin rekening wordt gehouden met alle mensenrechten en gelijke toegang tot kansen voor alle leden van de samenleving wordt gewaarborgd, gericht op duurzame ontwikkeling waarin de mens centraal staat. De Partijen erkennen dat de eerbiediging van de democratie, de mensenrechten, de fundamentele vrijheden, de rechtsstaat en goed bestuur een integraal onderdeel zijn van duurzame ontwikkeling.
 
-#### Artikel 9. Mensenrechten, de democratie en de rechtsstaat
+##### Artikel 9. Mensenrechten, de democratie en de rechtsstaat
 
 1. Erkennend dat de mensenrechten universeel, ondeelbaar, onderling afhankelijk en onderling verbonden zijn, bevorderen, beschermen en behartigen de Partijen alle mensenrechten, ongeacht of het burgerrechten, politieke, economische, sociale of culturele rechten betreft. Zij beschermen en waarborgen het volledige en gelijke genot van alle fundamentele vrijheden, zoals de vrijheid van mening en meningsuiting, de vrijheid van vergadering en vereniging en de vrijheid van gedachte, godsdienst en overtuiging.
 
@@ -400,7 +411,7 @@ De Partijen bevorderen mensgerichte en op rechten gebaseerde beleidsmaatregelen 
 
 7. De Partijen zijn het erover eens dat de eerbiediging van de mensenrechten, de democratische beginselen en de rechtsstaat ten grondslag moet liggen aan hun binnenlands en internationaal beleid, en een essentieel element van deze Overeenkomst moet zijn.
 
-#### Artikel 10. Gendergelijkheid
+##### Artikel 10. Gendergelijkheid
 
 1. De Partijen herbevestigen hun vaste voornemen om gendergelijkheid, het volledige genot van alle mensenrechten door iedereen, alsmede meer zelfredzaamheid voor iedereen te verwezenlijken als motoren voor duurzame ontwikkeling. Zij brengen het beginsel van gendergelijkheid tot uitdrukking in hun nationale grondwetten of andere toepasselijke wetgeving.
 
@@ -410,7 +421,7 @@ De Partijen bevorderen mensgerichte en op rechten gebaseerde beleidsmaatregelen 
 
 4. De Partijen verbinden zich ertoe alle vormen van seksueel en gendergerelateerd geweld en gendergerelateerde discriminatie in de publieke en private sfeer, met inbegrip van mensenhandel en seksuele uitbuiting en seksueel misbruik, te voorkomen, te bestrijden en te vervolgen. Zij nemen alle nodige maatregelen om diepgewortelde gendervooroordelen aan te pakken en alle schadelijke praktijken zoals kindhuwelijken, huwelijken op jonge leeftijd, gedwongen huwelijken en genitale verminking en besnijdenis van vrouwen uit te bannen.
 
-#### Artikel 11. Inclusieve en pluralistische samenlevingen
+##### Artikel 11. Inclusieve en pluralistische samenlevingen
 
 1. De Partijen verbinden zich ertoe ervoor te zorgen dat alle leden van de samenleving gelijke kansen krijgen op alle terreinen van het leven. Zij voorkomen en verbieden discriminerende praktijken en bannen die uit, en zij nemen doeltreffende maatregelen om het volledige en gelijke genot van alle mensenrechten te waarborgen.
 
@@ -422,7 +433,7 @@ De Partijen bevorderen mensgerichte en op rechten gebaseerde beleidsmaatregelen 
 
 5. De Partijen erkennen dat het internet een platform biedt voor het delen van kennis en ideeën en streven ernaar het potentieel van digitale oplossingen om gelijke toegang tot informatie op alle niveaus en op participatie berustende besluitvorming voor alle burgers te bevorderen, ten volle te benutten, alsook de digitale competentie te vergroten; daarbij streven zij ernaar ook het risico op misbruik in te perken en een open houding ten aanzien van, en respect voor, diversiteit te bevorderen.
 
-#### Artikel 12. Goed bestuur
+##### Artikel 12. Goed bestuur
 
 1. De Partijen verklaren opnieuw dat goed bestuur berust op transparante, verantwoordelijke, verantwoordingsplichtige en op participatie berustende regeringen en passende toezichtsmechanismen. De Partijen zijn het erover eens dat goed bestuur essentieel is voor de eerbiediging van alle mensenrechten, de democratische beginselen en de rechtsstaat. Zij verbinden zich ertoe te zorgen voor universele toegang tot openbare diensten, zonder enige vorm van discriminatie. Zij zetten tevens in op transparantie en verantwoordingsplicht als integrale onderdelen van goed bestuur en institutionele opbouw.
 
@@ -438,11 +449,11 @@ De Partijen bevorderen mensgerichte en op rechten gebaseerde beleidsmaatregelen 
 
 7. De Partijen zijn het erover eens dat goed bestuur ten grondslag moet liggen aan hun binnenlands en internationaal beleid en een fundamenteel element van deze Overeenkomst vormt. De Partijen zijn het erover eens dat ernstige gevallen van corruptie, met inbegrip van omkoping die tot dergelijke corruptie leidt, een schending van dat element inhouden.
 
-#### Artikel 13. Openbaar bestuur
+##### Artikel 13. Openbaar bestuur
 
 Zich bewust van het belang van goed toegeruste, efficiënte en doeltreffende systemen en procedures voor het overheidsapparaat, met een solide basis van personele middelen, verbinden de Partijen zich ertoe de samenwerking op dit gebied te bevorderen. Zij komen tevens overeen samen te werken met het oog op de modernisering van hun overheidsdiensten en de ontwikkeling van een verantwoordingsplichtig, efficiënt, transparant en professioneel overheidsapparaat. In dat verband zijn de inspanningen onder meer gericht op het verbeteren van de organisatorische efficiëntie, het vergroten van de doeltreffendheid bij de dienstverlening door instellingen, het versnellen van de uitrol van e-governance, digitale diensten en de digitalisering van openbare registers, en het versterken van de decentralisatieprocessen, in overeenstemming met hun respectieve strategieën op het gebied van economische en sociale ontwikkeling.
 
-#### Artikel 14. Statistiek
+##### Artikel 14. Statistiek
 
 1. De Partijen erkennen dat statistieken essentieel zijn voor de verwezenlijking van duurzame ontwikkeling en zij ontwikkelen en versterken hun statistische systemen, waaronder het verzamelen, verwerken, op kwaliteit controleren en verspreiden van statistieken, om bij te dragen tot de langetermijndoelstelling van kwaliteit, internationaal vergelijkbare, toegankelijke, tijdige en betrouwbare uitgesplitste gegevens, aangezien deze als belangrijke input dienen bij de besluitvorming ter ondersteuning van hun respectieve prioriteiten op het gebied van sociale en economische ontwikkeling, en om de vooruitgang te ondersteunen en te monitoren.
 
@@ -450,7 +461,7 @@ Zich bewust van het belang van goed toegeruste, efficiënte en doeltreffende sys
 
 3. De Partijen waarborgen de professionele onafhankelijkheid van hun bureaus voor de statistiek.
 
-#### Artikel 15. Persoonsgegevens
+##### Artikel 15. Persoonsgegevens
 
 1. De Partijen erkennen hun gemeenschappelijke belang bij de bescherming van ieders recht op een persoonlijke levenssfeer met betrekking tot de verwerking van persoonsgegevens, en het belang van het in stand houden van solide gegevensbeschermingsregelingen en het waarborgen van de doeltreffende handhaving ervan. Zij zorgen er onder meer voor dat persoonsgegevens op geoorloofde en transparante wijze worden verwerkt, voor welbepaalde, uitdrukkelijk omschreven en gerechtvaardigde doeleinden worden verzameld en niet op een met die doeleinden onverenigbare wijze worden verwerkt.
 
@@ -460,11 +471,11 @@ Voor de toepassing van dit artikel wordt onder „verwerking” verstaan: een be
 
 ## TITEL II. VREDE EN VEILIGHEID
 
-#### Artikel 16
+##### Artikel 16
 
 De Partijen erkennen dat vrede, stabiliteit en veiligheid, met inbegrip van menselijke veiligheid en veerkracht, essentieel zijn voor duurzame ontwikkeling en welvaart. Zonder vrede en veiligheid is geen duurzame ontwikkeling mogelijk, en zonder inclusieve ontwikkeling zijn duurzame vrede en veiligheid niet mogelijk. De Partijen streven een brede en geïntegreerde aanpak na van conflicten en crises, met inbegrip van situaties van instabiliteit, gaan de proliferatie van massavernietigingswapens tegen en pakken alle ernstige misdrijven aan die de internationale gemeenschap aangaan. De Partijen bestrijden nieuwe of toenemende bedreigingen voor de veiligheid, waaronder terrorisme en de financiering daarvan, gewelddadig extremisme, georganiseerde misdaad, de proliferatie van massavernietigingswapens, piraterij en mensenhandel, drugs, wapens en andere illegale goederen, en cybercriminaliteit en cyberdreigingen.
 
-#### Artikel 17. Conflicten en crises
+##### Artikel 17. Conflicten en crises
 
 1. De Partijen hanteren een geïntegreerde aanpak van conflicten en crises, die onder meer preventie, bemiddeling, oplossing en verzoening, alsook crisisbeheersing, vredeshandhaving en vredesondersteuning omvat. Zij ondersteunen overgangsjustitie aan de hand van contextspecifieke maatregelen voor de bevordering van waarheid, gerechtigheid, schadeloosstelling en waarborgen ter voorkoming van herhaling. Zij dragen bij tot institutionele en staatsopbouw en menselijke veiligheid, met bijzondere aandacht voor situaties van instabiliteit.
 
@@ -478,7 +489,7 @@ De Partijen erkennen dat vrede, stabiliteit en veiligheid, met inbegrip van mens
 
 6. De Partijen bevorderen de daadwerkelijke deelname van alle burgers, met inbegrip van vrouwen en jongeren, aan vredesopbouw, de preventie van, bemiddeling bij en oplossing van conflicten en aan de humanitaire respons, alsmede aan crisisbeheersing, vredeshandhaving en vredesondersteuning. De Partijen vinden het belangrijk om de situatie van vrouwen en meisjes die het slachtoffer zijn van gendergerelateerd geweld in conflicten, alsook het specifieke probleem van misdrijven en geweld tegen kwetsbare personen en personen met een handicap aan te pakken.
 
-#### Artikel 18. Non-proliferatie van massavernietigingswapens
+##### Artikel 18. Non-proliferatie van massavernietigingswapens
 
 1. De Partijen erkennen dat de proliferatie van massavernietigingswapens en de overbrengingsmiddelen daarvoor, onder zowel overheids- als niet-overheidsactoren, een van de ernstigste bedreigingen vormt voor de internationale stabiliteit en veiligheid. De Partijen komen daarom overeen samen te werken in, en bij te dragen tot, de strijd tegen de proliferatie van massavernietigingswapens en de overbrengingsmiddelen daarvoor, door hun bestaande verplichtingen op grond van de internationale ontwapenings- en non-proliferatieverdragen en -overeenkomsten en andere toepasselijke internationale verplichtingen op dit gebied ten volle na te leven en intern uit te voeren. De Partijen komen overeen dat deze bepaling een essentieel onderdeel van deze Overeenkomst vormt.
 
@@ -488,7 +499,7 @@ De Partijen erkennen dat vrede, stabiliteit en veiligheid, met inbegrip van mens
 
 4. Aangezien chemische, biologische, radiologische en nucleaire risico’s een sterk ontwrichtend effect kunnen hebben op samenlevingen en aangezien deze risico’s het gevolg kunnen zijn van criminele activiteiten, waaronder illegale proliferatie, smokkel, terrorisme, ongevallen of natuurrampen, zoals pandemieën, werken de Partijen samen om de institutionele capaciteit om deze risico’s te beperken, te versterken.
 
-#### Artikel 19. Ernstige misdrijven die de internationale gemeenschap aangaan
+##### Artikel 19. Ernstige misdrijven die de internationale gemeenschap aangaan
 
 1. De Partijen komen overeen samen op te treden om genocide, misdaden tegen de menselijkheid en oorlogsmisdaden te voorkomen door gebruik te maken van passende bilaterale en multilaterale kaders, overeenkomstig het beginsel van verantwoordelijkheid om te beschermen.
 
@@ -496,7 +507,7 @@ De Partijen erkennen dat vrede, stabiliteit en veiligheid, met inbegrip van mens
 
 3. De Partijen zijn van oordeel dat de oprichting en doeltreffende werking van het Internationaal Strafhof (ICC) een belangrijke ontwikkeling is voor de internationale vrede en gerechtigheid. Zij herhalen hun inzet wat betreft het verlenen van hun volledige medewerking aan de nationale, regionale en internationale strafrechtelijke mechanismen, waaronder het ICC, in overeenstemming met het beginsel van complementariteit. Zij worden aangemoedigd het [Statuut van Rome](onbekend) van het ICC en aanverwante instrumenten te ratificeren en uit te voeren, en de doeltreffendheid van het ICC verder te vergroten. Er wordt naar gestreefd de strafrechtmechanismen op alle niveaus te versterken.
 
-#### Artikel 20. Terrorisme en gewelddadig extremisme
+##### Artikel 20. Terrorisme en gewelddadig extremisme
 
 1. Herhalend dat zij alle daden van terrorisme en gewelddadig extremisme en radicalisering krachtig veroordelen, verbinden de Partijen zich ertoe dergelijke daden te bestrijden door middel van internationale samenwerking, overeenkomstig het [VN-Handvest](onbekend), het internationaal recht en de toepasselijke verdragen en instrumenten. Erkennend dat de strijd tegen terrorisme in al zijn vormen en uitingen een gedeelde prioriteit is, werken de Partijen op alle niveaus samen om terrorisme, gewelddadig extremisme en radicalisering te voorkomen en te bestrijden. Zich bewust van het belang om alle factoren aan te pakken die bijdragen tot gewelddadig extremisme in al zijn vormen, waaronder religieuze onverdraagzaamheid, haatzaaiende taal, vreemdelingenhaat, racisme en andere vormen van onverdraagzaamheid, verbinden de Partijen zich ertoe gewelddadig extremisme te bestrijden en religieuze verdraagzaamheid en de interreligieuze dialoog te bevorderen.
 
@@ -504,7 +515,7 @@ De Partijen erkennen dat vrede, stabiliteit en veiligheid, met inbegrip van mens
 
 3. De Partijen werken samen bij het beschermen van kritieke infrastructuur, het aanpakken van terrorismegerelateerde problemen die de grenzen betreffen, en het versterken van de beveiliging van de burgerluchtvaart.
 
-#### Artikel 21. Georganiseerde misdaad
+##### Artikel 21. Georganiseerde misdaad
 
 1. Zich bewust van de negatieve politieke, economische, culturele en sociale gevolgen van georganiseerde criminele activiteiten, versterken de Partijen de samenwerking om deze activiteiten doeltreffender te voorkomen en te bestrijden. Zij werken samen in het kader van een geïntegreerde aanpak om de onderliggende oorzaken aan te pakken en alternatieven voor criminaliteit te bieden. Zij pakken dienaangaande de verbanden aan tussen georganiseerde misdaad en mensenhandel en migrantensmokkel, de illegale handel in wapens, gevaarlijke stoffen, verdovende middelen en de precursoren ervan, in het wild levende dieren, hout en culturele goederen, en andere illegale economische en financiële activiteiten.
 
@@ -514,13 +525,13 @@ De Partijen erkennen dat vrede, stabiliteit en veiligheid, met inbegrip van mens
 
 4. De Partijen bevorderen de veiligheid van de burgers, met bijzondere aandacht voor de versterking van de instellingen en de rechtsstaat, de bescherming van de mensenrechten en de bevordering van hervormingen van justitie en van de veiligheidssector. Zij bevorderen multidisciplinaire programma’s die tot doel hebben kwetsbare groepen te bereiken en de slachtoffers van geweld, waaronder wapengeweld, te ondersteunen, en zij bevorderen tevens bemiddeling en andere op de gemeenschap gebaseerde preventie- en verzoeningsoplossingen.
 
-#### Artikel 22. Maritieme veiligheid
+##### Artikel 22. Maritieme veiligheid
 
 1. De Partijen komen overeen de maritieme veiligheid te versterken, en met name verschillende vormen van criminaliteit op zee en illegale handel aan te pakken, piraterij en gewapende overvallen op zee tegen te gaan, kritieke maritieme infrastructuur te beschermen en de vrijheid van scheepvaart en de rechtsstaat op zee te bevorderen, in overeenstemming met het [VN- Verdrag inzake het recht van de zee](onbekend), gedaan te Montego Bay op 10 december 1982 (Unclos).
 
 2. De Partijen komen overeen de inspanningen op het gebied van de handhaving van het zeerecht op te voeren om maritieme dreigingen aan te pakken in de landen die het zwaarst worden getroffen door misdrijven die op zee worden begaan. Zij komen overeen de onderzoeks- en vervolgingsprocedures te versterken als middel om op zee gepleegde misdrijven te bestrijden. Zij komen tevens overeen de toepassing van modellen voor de vervolging van piraterij binnen de nationale jurisdictie te bevorderen als een regionaal strafrechtelijk reactie- en afschrikkingsmechanisme tegen op zee gepleegde misdaden zoals piraterij, gewapende overvallen, mariene en waterverontreiniging, migrantensmokkel, drugshandel en wapenhandel en de overbrenging van kernafval. De Partijen komen overeen regionale initiatieven te bevorderen op het gebied van maritieme veiligheid, de bestrijding van piraterij en de bescherming tegen verontreiniging van de zee.
 
-#### Artikel 23. Handvuurwapens en lichte wapens en andere conventionele wapens
+##### Artikel 23. Handvuurwapens en lichte wapens en andere conventionele wapens
 
 1. De Partijen erkennen dat de verspreiding van illegale handvuurwapens en lichte wapens een ernstige bedreiging vormt voor de internationale vrede en veiligheid.
 
@@ -530,7 +541,7 @@ De Partijen erkennen dat vrede, stabiliteit en veiligheid, met inbegrip van mens
 
 4. De Partijen werken samen met het oog op het ruimen van mijnen en ontplofbare oorlogsresten, met inbegrip van geïmproviseerde explosieven.
 
-#### Artikel 24. Illegale drugs
+##### Artikel 24. Illegale drugs
 
 1. De Partijen streven ernaar een brede, evenwichtige, geïntegreerde en empirisch onderbouwde aanpak te hanteren ter voorkoming en bestrijding van de illegale handel in drugs en nieuwe psychoactieve stoffen, en de terugdringing van de vraag naar drugs te bevorderen. Daartoe pakken zij risicofactoren voor individuen, gemeenschappen en de samenleving aan, zoals gebrekkige dienstverlening, infrastructuurbehoeften, drugsgerelateerd geweld, uitsluiting, marginalisering en sociale desintegratie, om bij te dragen tot de bevordering van vreedzame en inclusieve samenlevingen.
 
@@ -540,13 +551,13 @@ De Partijen erkennen dat vrede, stabiliteit en veiligheid, met inbegrip van mens
 
 4. De Partijen werken nauw samen met elkaar en met betrokken internationale organisaties om de gecoördineerde inspanningen en acties tegen illegale drugshandel voort te zetten.
 
-#### Artikel 25. Cyberbeveiliging en cybercriminaliteit
+##### Artikel 25. Cyberbeveiliging en cybercriminaliteit
 
 1. De Partijen erkennen het belang van een open, veilige en stabiele, toegankelijke en vreedzame omgeving voor informatie- en communicatietechnologie (ICT), gestoeld op de normen, regels en beginselen voor verantwoordelijk gedrag van staten en de toepassing van het bestaande internationale recht. Daartoe verbinden de Partijen zich ertoe de samenwerking te versterken om cyberbeveiliging te bevorderen, hoogtechnologische cyber- en elektronische criminaliteit en misbruik van sociale media te voorkomen en te bestrijden, en de netwerkbeveiliging te verbeteren aan de hand van de uitwisseling van beste praktijken die de cyberveerkracht vergroten, onder meer in verband met de bescherming van kritieke infrastructuur.
 
 2. De Partijen erkennen de noodzaak om cybercriminaliteit, met inbegrip van seksuele uitbuiting en seksueel misbruik van kinderen, te voorkomen en aan te pakken door samen te werken en beste praktijken uit te wisselen bij de bestrijding van cybercriminaliteit, voortbouwend op bestaande internationale normen en standaarden, waaronder die van het [Verdrag van Boedapest inzake cybercriminaliteit](onbekend), gedaan te Boedapest op 23 november 2001, en het Verdrag van de Afrikaanse Unie inzake cyberbeveiliging en de bescherming van persoonsgegevens, gedaan te Malabo op 27 juni 2014.
 
-#### Artikel 26. Samenwerking inzake rechtshandhaving
+##### Artikel 26. Samenwerking inzake rechtshandhaving
 
 1. De Partijen bevorderen de samenwerking tussen regionale en internationale instanties, agentschappen en diensten op het gebied van rechtshandhaving met als doel de grensoverschrijdende criminaliteit en terroristische dreigingen die zij gemeenschappelijk hebben, te ontwrichten en te ontmantelen. Deze samenwerking draagt bij tot de voorkoming van criminaliteit en omvat onder meer gedachtewisselingen over regelgevingskaders, alsook administratieve en technische bijstand ter versterking van de institutionele en operationele mogelijkheden van rechtshandhavingsinstanties en de uitwisseling van informatie en maatregelen in verband met onderzoeken.
 
@@ -554,13 +565,13 @@ De Partijen erkennen dat vrede, stabiliteit en veiligheid, met inbegrip van mens
 
 ## TITEL III. MENSELIJKE EN SOCIALE ONTWIKKELING
 
-#### Artikel 27
+##### Artikel 27
 
 De Partijen herbevestigen hun vastberadenheid om samen te werken aan duurzame ontwikkeling en de uitbanning van armoede in al haar vormen, voor het wegwerken van ongelijkheden en het bevorderen van de sociale cohesie. Zij komen ook overeen samen te werken om ervoor te zorgen dat iedereen over de nodige middelen beschikt om een waardig leven te leiden met een adequate levensstandaard, onder meer via passende socialebeschermingsstelsels en sociale diensten. Zij besteden bijzondere aandacht aan vrouwen en meisjes, jongeren, kinderen en de meest kwetsbare en kansarme personen, in overeenstemming met de beginselen dat niemand aan zijn lot wordt overgelaten en dat degenen die het verst achterop liggen, het eerst moeten worden bereikt. Zij komen tevens overeen samen te werken om de problemen die de snelle bevolkingsgroei met zich meebrengt en de kansen die hij biedt, aan te pakken.
 
 ### HOOFDSTUK 1. TOEGANG TOT SOCIALE DIENSTEN
 
-#### Artikel 28. Onderwijs
+##### Artikel 28. Onderwijs
 
 1. De Partijen ondersteunen een leven lang leren voor iedereen en gelijke toegang tot kwaliteitsvol onderwijs op alle niveaus. Zij streven ernaar dat alle meisjes en jongens volwaardig, gratis, gelijkwaardig basis- en voortgezet onderwijs van hoge kwaliteit afronden en toegang hebben tot voor- en vroegschoolse ontwikkeling, zorg en kleuteronderwijs van hoge kwaliteit, en houden daarbij rekening met het bestaan van genderkloven. Zij zorgen ervoor dat alle vrouwen en mannen gelijke toegang hebben tot betaalbaar en hoogwaardig technisch, beroeps- en hoger onderwijs, met inbegrip van universiteiten. Bijzondere aandacht gaat uit naar investeringen in wetenschap, technologie, ingenieurswetenschap en wiskunde (STEM) en de bevordering van digitaal en kunstonderwijs voor iedereen.
 
@@ -568,7 +579,7 @@ De Partijen herbevestigen hun vastberadenheid om samen te werken aan duurzame on
 
 3. De Partijen bevorderen veilige scholen en goed functionerende onderwijsstelsels die over toereikende middelen beschikken voor het plannen en beheren van het onderwijs en de opleidingen die worden verstrekt, onder meer via online- en andere niet-conventionele middelen, en om de doeltreffendheid ervan te waarborgen. Zij werken samen om kwaliteitsborgingssystemen en de wederzijdse erkenning van kwalificaties in te stellen en te versterken. Zij vergemakkelijken de mobiliteit van studenten, personeel en academici tussen de landen in Afrika, het Caribisch gebied en de Stille Oceaan onderling en tussen deze landen en de Europese Unie.
 
-#### Artikel 29. Gezondheid
+##### Artikel 29. Gezondheid
 
 1. De Partijen erkennen dat gezondheid centraal staat in het leven van de mensen en een belangrijke indicator is van duurzame ontwikkeling. Zij bevestigen opnieuw dat zij zich inzetten voor de bescherming en bevordering van het hoogst haalbare niveau van lichamelijke en geestelijke gezondheid voor iedereen.
 
@@ -580,7 +591,7 @@ De Partijen herbevestigen hun vastberadenheid om samen te werken aan duurzame on
 
 5. De Partijen ondersteunen de universele toegang tot voorzieningen en diensten op het gebied van seksuele en reproductieve gezondheid en gezondheidszorg, onder meer in het kader van gezinsplanning, voorlichting en onderwijs, en de integratie van reproductieve gezondheid in nationale strategieën en programma’s.
 
-#### Artikel 30. Voedselzekerheid en betere voeding
+##### Artikel 30. Voedselzekerheid en betere voeding
 
 1. De Partijen erkennen dat het bereiken van voedselzekerheid en betere voeding een grote mondiale uitdaging vormt in de strijd tegen armoede en de toenemende ongelijkheid, en komen daarom overeen de structurele oorzaken daarvan aan te pakken, waaronder conflicten, crises, aantasting van natuurlijke hulpbronnen en de klimaatverandering.
 
@@ -592,7 +603,7 @@ De Partijen herbevestigen hun vastberadenheid om samen te werken aan duurzame on
 
 5. De Partijen versterken hun gecoördineerde, versnelde en sectoroverschrijdende inspanningen om honger uit te bannen, alle vormen van ondervoeding aan te pakken en hongersnood in alle omstandigheden te voorkomen.
 
-#### Artikel 31. Water, sanitaire voorzieningen en huisvesting
+##### Artikel 31. Water, sanitaire voorzieningen en huisvesting
 
 1. De Partijen bevorderen de universele toegang tot voldoende en veilig drinkwater, onder meer door de watervoorraden en -systemen op duurzame en geïntegreerde wijze te beheren en water efficiënter te gebruiken en te recyclen.
 
@@ -604,7 +615,7 @@ De Partijen herbevestigen hun vastberadenheid om samen te werken aan duurzame on
 
 ### HOOFDSTUK 2. ONGELIJKHEID EN SOCIALE COHESIE
 
-#### Artikel 32. Sociale cohesie en bescherming
+##### Artikel 32. Sociale cohesie en bescherming
 
 1. De Partijen streven ernaar de sociale cohesie te versterken door geleidelijk meer gelijkheid en sociale inclusiviteit te bereiken en door ervoor te zorgen dat de menselijke en sociale ontwikkeling gelijke tred houdt met de economische ontwikkeling, waarbij niemand aan zijn lot wordt overgelaten. Bijzondere aandacht gaat uit naar personen die zich in een kansarme, kwetsbare of gemarginaliseerde situatie bevinden, met inbegrip van ouderen en wezen, in overeenstemming met de beginselen van solidariteit en non-discriminatie. Zij bevorderen met name:
 
@@ -620,7 +631,7 @@ De Partijen herbevestigen hun vastberadenheid om samen te werken aan duurzame on
 
 3. De Partijen bevorderen de rechten van personen met een handicap om ervoor te zorgen dat zij volledig in de samenleving worden geïntegreerd en op voet van gelijkheid kunnen deelnemen aan de arbeidsmarkt, met inaanmerkingneming van hun specifieke behoeften. Zij nemen concrete maatregelen om het [VN-Verdrag inzake de rechten van personen met een handicap](onbekend), gedaan te New York op 13 december 2006, te ondertekenen, te ratificeren en volledig uit te voeren.
 
-#### Artikel 33. Waardig werk
+##### Artikel 33. Waardig werk
 
 1. De Partijen bevestigen opnieuw dat zij streven naar volledige en productieve werkgelegenheid en waardig werk voor alle vrouwen en mannen, ook voor jongeren en personen met een handicap. Daartoe bevorderen zij de Agenda voor waardig werk als uiteengezet in de Verklaring van de Internationale Arbeidsorganisatie (IAO) over sociale gerechtigheid voor een eerlijke mondialisering uit 2008.
 
@@ -630,7 +641,7 @@ De Partijen herbevestigen hun vastberadenheid om samen te werken aan duurzame on
 
 ### HOOFDSTUK 3. BEVOLKING EN ONTWIKKELING
 
-#### Artikel 34. Demografie
+##### Artikel 34. Demografie
 
 1. De Partijen erkennen dat bevolkingsgroei en demografische verschuivingen een aanzienlijke impact kunnen hebben op de vorderingen op het gebied van ontwikkeling en de economische vooruitgang, en zij werken samen aan een geïntegreerde benadering die de problemen zo veel mogelijk terugdringt en de voordelen van het demografische dividend maximaliseert. Daartoe streven zij ernaar structurele hervormingen en transformaties in economische en sociale stelsels tot stand te brengen, te ondersteunen, in stand te houden en te verstevigen om kansen op degelijk onderwijs, waardig werk en behoorlijke bestaansmiddelen te scheppen voor de jongeren van de toekomst.
 
@@ -638,7 +649,7 @@ De Partijen herbevestigen hun vastberadenheid om samen te werken aan duurzame on
 
 3. De Partijen bevorderen inclusieve en duurzame verstedelijking door middel van doeltreffend stedelijk bestuur en doeltreffende stadsplanning, om eventuele negatieve gevolgen voor het milieu tot een minimum te beperken en andere negatieve sociale en economische gevolgen van de snelle bevolkingsgroei in stedelijke gebieden aan te pakken. Zij streven ernaar de problemen die de snelle verstedelijking met zich meebrengt en de kansen die zij biedt, doeltreffend aan te pakken, onder meer door middel van nationaal stedelijk beleid, op participatie berustende geïntegreerde stadsplanning, het verlenen van gemeentelijke diensten, waaronder afvalbeheer, en de financiering van stedelijke ontwikkeling en infrastructuur, om veerkrachtige en leefbare steden tot stand te brengen.
 
-#### Artikel 35. Jongeren
+##### Artikel 35. Jongeren
 
 1. De Partijen komen overeen de actieve participatie van jongeren in de samenleving te bevorderen, onder meer bij de ontwikkeling, uitvoering en follow-up van beleid dat hen aangaat. Het gaat daarbij onder meer om:
 
@@ -650,7 +661,7 @@ De Partijen herbevestigen hun vastberadenheid om samen te werken aan duurzame on
 
 2. De Partijen komen overeen dat het bieden van een veilige en vruchtbare omgeving voor kinderen essentieel is om een gezonde jonge bevolking te doen opgroeien die in staat is haar volledige potentieel te bereiken vanuit fysiek, psychologisch, sociaal en economisch oogpunt. Zij zorgen ervoor dat de rechten en behoeften van meisjes en jongens worden erkend en vervuld vanaf de geboorte en vroege kindertijd tot en met de adolescentie en hun overgang naar volwassenheid. Zij streven ernaar de bescherming van kinderen en hun inspraak bij besluiten die hen aangaan te verbeteren.
 
-#### Artikel 36. Gendergelijkheid en versterking van de positie van vrouwen en meisjes
+##### Artikel 36. Gendergelijkheid en versterking van de positie van vrouwen en meisjes
 
 1. De Partijen erkennen dat gendergelijkheid en de economische emancipatie van vrouwen essentieel zijn voor het verwezenlijken van billijke duurzame ontwikkeling en inclusieve groei. Zij voeren hervormingen door, onder meer door te voorzien in rechtskaders en die te consolideren, om ervoor te zorgen dat vrouwen op gelijke voet recht hebben op economische en financiële middelen, evenals toegang tot, eigendom van en zeggenschap over land en natuurlijke hulpbronnen, erfenissen en andere vormen van eigendom. Zij nemen maatregelen om de volledige en daadwerkelijke deelname van vrouwen aan het politieke leven te vergroten.
 
@@ -662,13 +673,13 @@ Naast gelijke toegang tot werkgelegenheid en waardige arbeidsomstandigheden bevo
 
 ### HOOFDSTUK 4. CULTUUR
 
-#### Artikel 37. Cultuur en duurzame ontwikkeling
+##### Artikel 37. Cultuur en duurzame ontwikkeling
 
 1. De Partijen bevestigen opnieuw dat cultuur een essentieel onderdeel is van duurzame ontwikkeling en een integraal onderdeel is van de sociale, economische en ecologische dimensies ervan. Zij verbinden zich ertoe in hun beleid en strategieën op het gebied van ontwikkeling een cultureel perspectief te integreren door rekening te houden met culturele kenmerken en lokale en inheemse kennissystemen.
 
 2. De Partijen versterken de bijdrage van culturele actoren aan duurzame ontwikkeling door hen te laten deelnemen aan een versterkte dialoog, professionele netwerken en partnerschappen met meerdere belanghebbenden.
 
-#### Artikel 38. Culturele diversiteit en wederzijds begrip
+##### Artikel 38. Culturele diversiteit en wederzijds begrip
 
 1. De Partijen erkennen dat alle mensen het recht hebben om vrij deel te nemen aan het culturele leven van de gemeenschap, overeenkomstig de [Universele Verklaring van de Rechten van de Mens](onbekend), en zij verbinden zich ertoe de culturele rechten en de vrijheid van artistieke expressie te beschermen en in stand te houden.
 
@@ -676,7 +687,7 @@ Naast gelijke toegang tot werkgelegenheid en waardige arbeidsomstandigheden bevo
 
 3. De Partijen erkennen de rol die cultuur speelt bij het bewaren van vrede en de nationale cohesie. Zij bevestigen dat respect voor de verscheidenheid van culturen, verdraagzaamheid, dialoog en samenwerking, in een klimaat van wederzijds vertrouwen en begrip, essentieel zijn voor het tot stand brengen en bewaren van vrede en veiligheid en in het kader van verzoeningsprocessen, alsook voor het herstel van het collectieve geheugen en de sociale banden tussen gemeenschappen. Zij versterken de rol van cultuur bij het opbouwen van veerkracht en bij het bereiken van duurzaam herstel en duurzame wederopbouw na crises, met name in stedelijke ontwikkeling.
 
-#### Artikel 39. Cultureel erfgoed en de creatieve sector
+##### Artikel 39. Cultureel erfgoed en de creatieve sector
 
 1. De Partijen bevorderen de erkenning van erfgoed als een verenigende factor, die de uitdrukking kan zijn van verschillende identiteiten en nalatenschappen en tegelijkertijd het creëren van gedeelde waarden kan bevorderen. Zij streven ernaar zowel materieel als immaterieel cultureel erfgoed te beschermen, in stand te houden en te ontwikkelen, in overeenstemming met internationale normen en verdragen, als een instrument voor sociale cohesie, creativiteit en innovatie.
 
@@ -686,7 +697,7 @@ Naast gelijke toegang tot werkgelegenheid en waardige arbeidsomstandigheden bevo
 
 ## TITEL IV. INCLUSIEVE DUURZAME ECONOMISCHE GROEI EN ONTWIKKELING
 
-#### Artikel 40
+##### Artikel 40
 
 1. De Partijen erkennen het belang om in hun wederzijds belang en voor hun wederzijds voordeel hun economische betrekkingen te versterken, met het oog op het bereiken van een structurele economische transformatie door middel van inclusieve, duurzame economische groei en ontwikkeling in overeenstemming met de SDG’s, rekening houdend met hun respectieve ontwikkelingsniveaus. Zij streven naar geïntegreerde strategieën waarin de economische, sociale en milieudimensies van duurzame ontwikkeling opgenomen zijn. Zij nemen passende maatregelen om fatsoenlijke banen voor iedereen te creëren en de overgang naar emissiearme, hulpbronnenefficiënte economieën te ondersteunen. Zij ondersteunen de sociaal-economische emancipatie van gemarginaliseerde groepen, vrouwen en jongeren.
 
@@ -696,7 +707,7 @@ Naast gelijke toegang tot werkgelegenheid en waardige arbeidsomstandigheden bevo
 
 ### HOOFDSTUK 1. INVESTERINGEN
 
-#### Artikel 41. Mobiliseren van duurzame en verantwoorde investeringen
+##### Artikel 41. Mobiliseren van duurzame en verantwoorde investeringen
 
 1. De Partijen verbinden zich ertoe duurzame en verantwoorde investeringen te mobiliseren om inclusieve en duurzame economische groei en ontwikkeling te bevorderen. Daartoe scheppen zij een gunstig investeringsklimaat dat binnenlandse en buitenlandse investeringen, waaronder investeringen uit hun diaspora, aantrekt en waarbij het recht wordt behouden om regelgeving vast te stellen, door middel van transparante, voorspelbare en efficiënte regelgevings-, administratieve en beleidskaders.
 
@@ -708,7 +719,7 @@ Naast gelijke toegang tot werkgelegenheid en waardige arbeidsomstandigheden bevo
 
 5. De Partijen begrijpen en erkennen het belang van verantwoorde investeringen van de betrokken belanghebbenden, als middel om langdurige duurzame economische en sociale waarde en waarde voor het milieu te creëren. Ter ondersteuning van die doelstelling bevorderen zij praktijken op het gebied van maatschappelijk verantwoord ondernemerschap en verantwoorde bedrijfsvoering, waaronder internationaal erkende richtsnoeren, normen en toepasselijke instrumenten voor de uitvoering, die investeerders, overheden en andere actoren, als aanvulling op de nationale wetgeving en andere toepasselijke wetgeving, richtsnoeren bieden over de uitvoering van maatschappelijk verantwoord ondernemerschap en verantwoorde bedrijfsvoering.
 
-#### Artikel 42. Bevorderen en beschermen van investeringen
+##### Artikel 42. Bevorderen en beschermen van investeringen
 
 1. De Partijen komen overeen investeringen te bevorderen door middel van wetgeving, regelgeving en beleidsmaatregelen die erop gericht zijn regelgevende en administratieve belemmeringen te verminderen, de transparantie te vergroten en schadelijke concurrentie voor investeringen te voorkomen. Zij komen overeen dergelijke maatregelen op transparante wijze te ontwikkelen en openbaar te maken om de dialoog tussen de overheid en de private sector aan te moedigen en alle belanghebbenden de gelegenheid te bieden deel te nemen.
 
@@ -720,7 +731,7 @@ Naast gelijke toegang tot werkgelegenheid en waardige arbeidsomstandigheden bevo
 
 ### HOOFDSTUK 2. ECONOMISCHE GROEI, DIVERSIFICATIE EN INDUSTRIALISERING
 
-#### Artikel 43. Inclusieve en duurzame groei
+##### Artikel 43. Inclusieve en duurzame groei
 
 1. De Partijen zijn het eens over het belang van economische transformatie, de ontwikkeling van de private sector en industriële vooruitgang voor inclusieve en duurzame groei. Zij bevorderen volledige en productieve werkgelegenheid en waardig werk voor iedereen door middel van meer concurrentievermogen, diversificatie, digitalisering, innovatie, toegang tot financiering, toegevoegde waarde in de productie- en dienstensectoren en koppelingen tussen sectoren en bedrijfstakken. Zij besteden bijzondere aandacht aan lokale micro-, kleine en middelgrote ondernemingen en aan het formaliseren van informele economische activiteiten.
 
@@ -728,7 +739,7 @@ Naast gelijke toegang tot werkgelegenheid en waardige arbeidsomstandigheden bevo
 
 3. De Partijen komen overeen samen te werken op het gebied van werkgelegenheid en sociale zaken, met name ter ondersteuning van de economische en sociale inclusie en emancipatie van vrouwen, jongeren en de armste en meest kwetsbare groepen. Voorts komen zij overeen de eerbiediging te waarborgen van de in de verdragen en protocollen van de IAO neergelegde arbeids- en sociale normen, alsook de toegang tot de rechter met inachtneming van een eerlijke rechtsgang, waaronder passende en doeltreffende rechtsmiddelen.
 
-#### Artikel 44. Economische transformatie en industrialisering
+##### Artikel 44. Economische transformatie en industrialisering
 
 1. De Partijen versterken de samenwerking op het gebied van economische transformatie, waaronder industrialisering. Zij bevorderen de transitie van grondstoffenafhankelijkheid naar gediversifieerde economieën, alsook de opwaardering van natuurlijke hulpbronnen, het creëren van toegevoegde waarde en integratie in regionale en mondiale waardeketens. Zij zijn het eens over de belangrijke rol die de dienstensector speelt bij de economische transformatie en industrialisering.
 
@@ -744,7 +755,7 @@ Naast gelijke toegang tot werkgelegenheid en waardige arbeidsomstandigheden bevo
 
 7. De Partijen bevorderen de dialoog, stimuleren de overdracht van vaardigheden en technologie, werken aan de verbetering van waardeketens en versterken de samenwerking voor de uitwisseling van ervaringen en de verspreiding van beste praktijken in de landbouwsector. Zij werken ook samen bij de ondersteuning van mechanismen en kaders om duurzame en kwalitatief hoogwaardige landbouwproductie te verhogen.
 
-#### Artikel 45. Ontwikkeling van de private sector
+##### Artikel 45. Ontwikkeling van de private sector
 
 1. Zich bewust van het belang van de ontwikkeling van de private sector voor economische transformatie en banencreatie, streven de Partijen ernaar ondernemerschap te bevorderen en het concurrentievermogen van ondernemingen te ontwikkelen en te verbeteren. Zij besteden daarbij bijzondere aandacht aan micro-, kleine en middelgrote ondernemingen, met inbegrip van start-ups, met name door wettelijke, administratieve en institutionele kaders te bevorderen met het oog op succesvolle integratie van deze ondernemingen in duurzame toeleverings- en waardeketens. Daarbij wordt ook aandacht besteed aan de informele sector, aan de opwaardering van informele economische activiteiten naar formele activiteiten, en aan de bevordering van de integratie van duurzaamheidsgerelateerde doelstellingen in bedrijfsmodellen. De Partijen komen tevens overeen de ontwikkeling van ondernemerschap bij jongeren en vrouwen te ondersteunen in het kader van hun economische emancipatie en de bevordering van inclusieve ontwikkeling. Zij bevestigen het belang van de opbouw van regionale en nationale capaciteit om het concurrentievermogen in de medium- en hightechindustrie te verbeteren.
 
@@ -756,7 +767,7 @@ Naast gelijke toegang tot werkgelegenheid en waardige arbeidsomstandigheden bevo
 
 ### HOOFDSTUK 3. WETENSCHAP, TECHNOLOGIE, INNOVATIE EN ONDERZOEK
 
-#### Artikel 46. Wetenschap, technologie en innovatie
+##### Artikel 46. Wetenschap, technologie en innovatie
 
 1. De Partijen erkennen de rol van wetenschap, technologie en innovatie voor kennisuitbreiding, bij het versnellen van de geleidelijke en stapsgewijze overgang naar duurzame ontwikkeling door middel van economische transformatie, toevoeging van de waardeketen en contacten tussen bedrijven, bij het bevorderen van kennisontwikkeling en een grotere mondigheid van burgers, met name van vrouwen en jongeren, en bij het ondersteunen van besluitvormers en beleidsmakers bij het streven naar duurzame ontwikkeling.
 
@@ -770,7 +781,7 @@ Naast gelijke toegang tot werkgelegenheid en waardige arbeidsomstandigheden bevo
 
 6. De Partijen erkennen de rol van de ruimtevaart als katalysator voor sociale en economische voordelen, onder meer op het gebied van milieu, de klimaatverandering, oceaangovernance, vervoer, energie, landbouw, mijnbouw en bosbouw. Zij werken samen in verband met onderwerpen van gemeenschappelijk belang in civiele ruimteactiviteiten, zoals ruimteonderzoek, toepassingen van en diensten voor wereldwijde satellietnavigatiesystemen, de ontwikkeling van satellietaugmentatiesystemen, het gebruik van aardobservatietoepassingen en -diensten en aardwetenschappen.
 
-#### Artikel 47. Onderzoek en ontwikkeling
+##### Artikel 47. Onderzoek en ontwikkeling
 
 1. De Partijen zijn het erover eens dat onderzoek en ontwikkeling van cruciaal belang zijn bij het creëren van economische welvaart en kansen op waardig werk en dat deze een cruciale bijdrage kunnen leveren aan de verwezenlijking van de doelstellingen van deze Overeenkomst.
 
@@ -778,7 +789,7 @@ Naast gelijke toegang tot werkgelegenheid en waardige arbeidsomstandigheden bevo
 
 3. De Partijen bevorderen investeringen in onderzoek en ontwikkeling, met name in segmenten van waardeketens met een hoge toegevoegde waarde, en streven ernaar maatschappelijke uitdagingen aan te pakken, met name op het gebied van milieu, de klimaatverandering, energie, voedselveiligheid en -zekerheid, en gezondheid.
 
-#### Artikel 48. ICT en de digitale economie
+##### Artikel 48. ICT en de digitale economie
 
 1. De Partijen werken samen om de digitale kloof te verkleinen door de samenwerking op het gebied van de ontwikkeling van de digitale samenleving ten behoeve van burgers en bedrijven te bevorderen, via de toegankelijkheid van digitale technologieën, waaronder ICT die is afgestemd op lokale omstandigheden. De Partijen ondersteunen maatregelen die een vlotte toegang tot ICT mogelijk maken, onder meer door het gebruik van betaalbare en hernieuwbare energiebronnen en de ontwikkeling en heroriëntatie van goedkope draadloze netwerken. Zij streven tevens naar meer complementariteit en harmonisatie van de communicatiesystemen en de aanpassing ervan aan nieuwe technologieën.
 
@@ -790,7 +801,7 @@ Naast gelijke toegang tot werkgelegenheid en waardige arbeidsomstandigheden bevo
 
 ### HOOFDSTUK 4. HANDELSSAMENWERKING
 
-#### Artikel 49. Handel en duurzame ontwikkeling
+##### Artikel 49. Handel en duurzame ontwikkeling
 
 1. De Partijen erkennen dat sociale en economische ontwikkeling en milieubescherming onderling afhankelijk zijn en elkaar versterken. Zij bevestigen opnieuw dat zij zich, met inachtneming van hun respectieve ontwikkelingsniveaus, inzetten om de integratie van duurzame ontwikkeling, die bestaat uit economische ontwikkeling, sociale ontwikkeling en milieubescherming, in alle aspecten van hun handelsbetrekkingen te versterken, met als doel duurzame groei te bevorderen. Daartoe moedigen de Partijen in hun handelsbetrekkingen een hoog niveau van sociale, milieu- en arbeidsbescherming aan, met name overeenkomstig de verbintenissen die zijn gespecificeerd in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBV0007046&deel=II&titeldeel=V&artikel=54&z=2023-11-15&g=2023-11-15), de hoofdstukken 1 tot en met 3 van titel V en[hoofdstuk 2 van titel III van dit deel](https://wetten.overheid.nl/jci1.3:c:BWBV0007046&deel=II&titeldeel=III&hoofdstuk=2&z=2023-11-15&g=2023-11-15), om de overeengekomen mondiale SDG’s in het kader van de Agenda 2030 te verwezenlijken. De Partijen komen tevens overeen dat sociale en milieumaatregelen niet mogen worden gebruikt voor protectionistische doeleinden.
 
@@ -804,7 +815,7 @@ Naast gelijke toegang tot werkgelegenheid en waardige arbeidsomstandigheden bevo
 
 6. De Partijen komen overeen om, waar passend, in het kader van hun handelsbetrekkingen systemen te handhaven of in te voeren voor de ondersteuning van en het toezicht op de effectieve implementatie van de internationaal erkende sociale, arbeids- en milieunormen en de desbetreffende overeenkomsten, door onder meer de institutionele capaciteit voor de vaststelling en handhaving van de desbetreffende wetgeving te versterken.
 
-#### Artikel 50. Handelsregelingen
+##### Artikel 50. Handelsregelingen
 
 1. De Partijen zijn zich bewust van het belang om voort te bouwen op de verwezenlijkingen van de [Overeenkomst van Cotonou](https://wetten.overheid.nl/jci1.3:c:BWBV0005264) in het kader van hun handelsbetrekkingen. Zij onderstrepen het belang van handel in hun algemene betrekkingen en verbinden zich ertoe de intensivering en diversificatie van de handelsstromen tot wederzijds voordeel te bevorderen, met name met het oog op de integratie van de economieën van de OACPS-leden in de regionale en mondiale waardeketens.
 
@@ -826,7 +837,7 @@ Naast gelijke toegang tot werkgelegenheid en waardige arbeidsomstandigheden bevo
 
 10. De Partijen erkennen het belang van het intensiveren van de dialoog om handels- en handelsgerelateerde onderwerpen van gemeenschappelijk belang aan te pakken. Zij komen overeen de betrokkenheid van het maatschappelijk middenveld en de private sector bij die dialoog te bevorderen.
 
-#### Artikel 51. De handel in diensten
+##### Artikel 51. De handel in diensten
 
 1. De Partijen zijn het erover eens dat de handel in diensten een krachtige motor is voor de groei en ontwikkeling van hun economieën en herbevestigen hun respectieve rechten en verplichtingen uit hoofde van de Algemene Overeenkomst betreffende de handel in diensten van de WTO (GATS).
 
@@ -838,7 +849,7 @@ Naast gelijke toegang tot werkgelegenheid en waardige arbeidsomstandigheden bevo
 
 5. De Partijen erkennen het belang van kosteneffectieve en efficiënte zeevervoerdiensten als de belangrijkste vervoerswijze die de handel vergemakkelijkt. De Partijen verbeteren het concurrentievermogen van de zeevervoerdiensten door de connectiviteit te versterken, om de veilige circulatie van goederen en personen in de zeevervoerssector te verbeteren. Daartoe werken zij samen in de passende fora om het zeevervoer te liberaliseren als de belangrijkste vervoerswijze voor het vergemakkelijken van de handel. Zij maken de toegang, op niet-discriminerende en commerciële basis, mogelijk tot de markten voor internationaal zeevervoer en tot havens en havendiensten. De Partijen werken samen met het oog op de ontwikkeling en bevordering van kosteneffectieve en efficiënte zeevervoerdiensten in de OACPS-leden om de deelname van exploitanten uit de OACPS-leden aan internationale scheepvaartdiensten te vergroten.
 
-#### Artikel 52. Handelsgerelateerde gebieden
+##### Artikel 52. Handelsgerelateerde gebieden
 
 1. De Partijen erkennen het toenemende belang van niet-tarifaire maatregelen in de handel naarmate tarifaire belemmeringen wegvallen. Zij erkennen derhalve de noodzaak om samen te werken met het oog op het monitoren en wegnemen van onnodige handelsbelemmeringen, en bijgevolg de handel tussen de EU en de OACPS-leden en tussen de OACPS-leden onderling te vergemakkelijken en te doen toenemen. In dit verband komen de Partijen overeen waar passend regelingen te handhaven of vast te stellen voor de aanpak van niet-tarifaire maatregelen die negatieve gevolgen kunnen hebben voor de uitvoer naar de markt van de andere Partij.
 
@@ -854,13 +865,13 @@ Naast gelijke toegang tot werkgelegenheid en waardige arbeidsomstandigheden bevo
 
 7. De Partijen erkennen het belang van transparante overheidsopdrachten voor het bevorderen van economische ontwikkeling en de industrialisering. De Partijen zijn het eens over het belang van samenwerking voor het verbeteren van het wederzijdse begrip van hun respectieve regelingen voor overheidsopdrachten. De Partijen verbinden zich tot de beginselen en werken samen op het gebied van de transparantie, het concurrentievermogen en de voorspelbaarheid van aanbestedingssystemen.
 
-#### Artikel 53. Handelsfacilitatie
+##### Artikel 53. Handelsfacilitatie
 
 De Partijen erkennen het belang van het verlagen van de handelskosten om inclusieve en duurzame groei in hun economieën te bewerkstelligen. Zij werken daarom samen om invoer-, uitvoer-, doorvoer- en andere douaneprocedures te vereenvoudigen, onder meer aan de hand van de digitalisering van douane- en inklaringsprocedures, alsook om de transparantie van douane- en handelsvoorschriften te verbeteren en het legitieme handelsverkeer te faciliteren, voortbouwend op hun respectieve verbintenissen in het kader van de TF-overeenkomst. Overeenkomstig de TF-overeenkomst hebben de OACPS-leden adequate en voorspelbare technische bijstand nodig om hun capaciteit om deze Overeenkomst volledig uit te voeren, op te bouwen. De Partijen verbinden zich er tevens toe die bijstand te verlenen op basis van de in het kader van de TF-overeenkomst aangegeven behoeften van de OACPS-leden voor de uitvoering.
 
 ## TITEL V. MILIEUDUURZAAMHEID EN KLIMAATVERANDERING
 
-#### Artikel 54
+##### Artikel 54
 
 1. De Partijen zijn het erover eens dat milieuaantasting, niet-duurzaam gebruik van natuurlijke hulpbronnen en de klimaatverandering een ernstige bedreiging vormen voor de verwezenlijking van duurzame ontwikkeling en het leven, de levenskwaliteit en het levensonderhoud van de huidige en toekomstige generaties onder druk zetten. In dat verband bevestigen de Partijen opnieuw de noodzaak van een hoog niveau van milieubescherming en een doeltreffende instandhouding en duurzaam beheer van natuurlijke hulpbronnen, met inbegrip van de biologische diversiteit. Zij bevestigen ook opnieuw de noodzaak om overeenstemming te bereiken over ambitieuze maatregelen om de negatieve gevolgen van klimaatverandering te beheersen en te beperken, en om hun economieën te richten op duurzame, veerkrachtige koolstofarme groeitrajecten, en tegelijkertijd bij te dragen tot het scheppen van fatsoenlijke banen voor iedereen.
 
@@ -872,7 +883,7 @@ De Partijen erkennen het belang van het verlagen van de handelskosten om inclusi
 
 ### HOOFDSTUK 1. MILIEUDUURZAAMHEID
 
-#### Artikel 55. Milieu en natuurlijke hulpbronnen
+##### Artikel 55. Milieu en natuurlijke hulpbronnen
 
 1. De Partijen streven naar instandhouding, bescherming, verbetering en herstel van het milieu. Daartoe bevorderen zij maatregelen op nationaal, regionaal en mondiaal niveau, onder meer op het gebied van hoge biodiversiteitswaarde en de bescherming van natuurlijke ecosystemen, luchtkwaliteit, waterkwaliteit, waterschaarste en droogte, afvalbeheer, industriële verontreiniging en industriële gevaren en beheer van chemische stoffen.
 
@@ -890,7 +901,7 @@ De Partijen erkennen het belang van het verlagen van de handelskosten om inclusi
 
 ### HOOFDSTUK 2. OCEANEN, ZEEËN EN MARIENE HULPBRONNEN
 
-#### Artikel 56. Oceaangovernance
+##### Artikel 56. Oceaangovernance
 
 1. De Partijen erkennen de toenemende druk van door de mens veroorzaakte factoren op en de cumulatieve gevolgen daarvan voor zeeën en oceanen, en zij erkennen de aard van zeeën en oceanen als onderling verbonden gemeenschappelijke goederen, waarvan de instandhouding, bescherming en governance een gedeelde verantwoordelijkheid is die een collectief en gecoördineerd optreden van de belanghebbenden vereist. De Partijen herbevestigen het universele en geharmoniseerde karakter van [Unclos](onbekend) als basis voor nationale, regionale en wereldwijde maatregelen en samenwerking in de mariene en maritieme sectoren.
 
@@ -906,7 +917,7 @@ De Partijen erkennen het belang van het verlagen van de handelskosten om inclusi
 
 ### HOOFDSTUK 3. KLIMAATVERANDERING
 
-#### Artikel 57. Klimaatverbintenissen
+##### Artikel 57. Klimaatverbintenissen
 
 1. De Partijen erkennen dat de negatieve gevolgen van de klimaatverandering en de variabiliteit van het klimaat een bedreiging vormen voor het leven en de bestaansmiddelen van mensen. Zij bevestigen hun toezegging om dringend actie te ondernemen om klimaatverandering te voorkomen, de gevolgen ervan aan te pakken en dringend en op gecoördineerde wijze samen te werken op internationaal, regionaal, interregionaal en nationaal niveau, om het mondiale antwoord op de klimaatverandering te versterken.
 
@@ -914,7 +925,7 @@ De Partijen erkennen het belang van het verlagen van de handelskosten om inclusi
 
 3. De Partijen verbinden zich ertoe de algemene doelstelling te verwezenlijken om de stijging van de gemiddelde temperatuur wereldwijd ruim onder 2 °C te houden ten opzichte van het pre-industriële niveau en ernaar te streven de temperatuurstijging te beperken tot 1,5 °C ten opzichte van het pre-industriële niveau, het aanpassingsvermogen te vergroten, de kwetsbaarheden te verminderen en de veerkracht te vergroten, en alle investeringen en geldstromen in overeenstemming te brengen met de [Overeenkomst van Parijs](onbekend).
 
-#### Artikel 58. Klimaatactie
+##### Artikel 58. Klimaatactie
 
 1. De Partijen komen overeen klimaatmaatregelen te nemen om adaptatie en mitigatie aan te pakken en te zorgen voor de uitvoeringsmiddelen daarvoor, en zij komen overeen zich te richten op de meest kwetsbare landen, waaronder de kleine eilandstaten in ontwikkeling, laaggelegen kuststaten, de minst ontwikkelde landen en niet aan zee grenzende ontwikkelingslanden.
 
@@ -922,13 +933,13 @@ De Partijen erkennen het belang van het verlagen van de handelskosten om inclusi
 
 3. De Partijen komen overeen zich in te zetten voor de planning en uitvoering van de nationale adaptatieplannen en andere strategieën, en de voortgang van de uitvoering ervan te monitoren. Zij verbinden zich ertoe daartoe doeltreffende bestuursstructuren op te zetten en te versterken. Zij erkennen dat de integratie van de nationale adaptatieplannen en andere aanpassingsstrategieën in nationale strategieën en processen verder moet worden versterkt om klimaatveerkrachtige duurzame ontwikkeling tot stand te brengen.
 
-#### Artikel 59. Klimaatverandering en veiligheid
+##### Artikel 59. Klimaatverandering en veiligheid
 
 De Partijen pakken de bedreiging aan die de klimaatverandering en milieuaantasting vormen voor vrede en veiligheid, met name in situaties van kwetsbaarheid en de meest kwetsbare landen. De Partijen ontwikkelen strategieën voor veerkracht, rekening houdend met de veiligheidsdreiging.
 
 ### HOOFDSTUK 4. NATUURRAMPEN
 
-#### Artikel 60. Beperking en beheer van het risico op rampen
+##### Artikel 60. Beperking en beheer van het risico op rampen
 
 1. De Partijen zijn zich bewust van de negatieve gevolgen van natuurrampen, waaronder tsunami’s, aardbevingen en vulkaanuitbarstingen, voor duurzame ontwikkeling alsook van de toenemende frequentie en intensiteit van klimaatgerelateerde verschijnselen zoals cyclonen en orkanen, overstromingen en droogte.
 
@@ -940,7 +951,7 @@ De Partijen pakken de bedreiging aan die de klimaatverandering en milieuaantasti
 
 5. De Partijen ontwikkelen strategieën ter versterking van de veerkracht van steden en plattelandsgebieden met het oog op een verbetering van het rampenrisicobeheer, met bijzondere aandacht voor ongeordende uitbreidingen.
 
-#### Artikel 61. Respons bij rampen en herstel
+##### Artikel 61. Respons bij rampen en herstel
 
 1. De Partijen zijn het erover eens dat een vroegtijdige en gecoördineerde respons op natuurrampen van cruciaal belang is voor rehabilitatie en herstel na rampen. De Partijen zijn het eens over het belang van gecoördineerde behoeftenanalysen, een betere rampenparaatheid en betere capaciteit voor een lokale, vroegtijdige en doeltreffende respons die tegemoetkomt aan de behoeften van door crises getroffen mensen, onder meer door middel van doeltreffende communicatiestrategieën.
 
@@ -948,13 +959,13 @@ De Partijen pakken de bedreiging aan die de klimaatverandering en milieuaantasti
 
 ## TITEL VI. MIGRATIE EN MOBILITEIT
 
-#### Artikel 62
+##### Artikel 62
 
 De Partijen herbevestigen hun verbintenis om de samenwerking op het gebied van migratie en mobiliteit te versterken op basis van de beginselen van solidariteit, partnerschap en gedeelde verantwoordelijkheid. Zij hanteren een brede, coherente, pragmatische en evenwichtige benadering, met volledige inachtneming van het internationaal recht, waaronder het internationaal recht inzake de mensenrechten en, in voorkomend geval, het internationaal vluchtelingenrecht en het internationaal humanitair recht, alsook met het soevereiniteitsbeginsel, rekening houdend met hun respectieve bevoegdheden. Zij erkennen dat migratie en mobiliteit, wanneer zij goed worden beheerd, positieve gevolgen kunnen hebben voor duurzame ontwikkeling, en zijn zich bewust van de noodzaak de negatieve gevolgen van irreguliere migratie voor de landen van herkomst, doorreis en bestemming aan te pakken. De Partijen komen overeen te werken aan capaciteitsopbouw met het oog op een efficiënt en doeltreffend beheer van migratie in al haar aspecten. Zij herhalen hun inzet voor de eerbiediging van de waardigheid van alle vluchtelingen en migranten en voor de bescherming van hun mensenrechten. De Partijen behandelen alle relevante aspecten van migratie en mobiliteit, zoals bedoeld in deze titel in het kader van hun regelmatige partnerschapsdialoog.
 
 ### HOOFDSTUK 1. LEGALE MIGRATIE EN MOBILITEIT
 
-#### Artikel 63. Legale migratie en mobiliteit
+##### Artikel 63. Legale migratie en mobiliteit
 
 1. De Partijen streven ernaar de vruchten te plukken van veilige, ordelijke en reguliere migratie en mobiliteit, met volledige inachtneming van het internationaal recht en in overeenstemming met hun respectieve bevoegdheden. In dat verband werken zij aan de ontwikkeling en het gebruik van legale migratiemogelijkheden, waaronder arbeidsmigratie en andere mobiliteitsregelingen, rekening houdend met de nationale prioriteiten en de behoeften van de arbeidsmarkt.
 
@@ -970,7 +981,7 @@ De Partijen herbevestigen hun verbintenis om de samenwerking op het gebied van m
 
 7. De Partijen werken samen om de registers van de burgerlijke stand te verbeteren en te moderniseren teneinde de veiligheid van identiteitskaarten en paspoorten te verhogen en de afgifte ervan te verbeteren.
 
-#### Artikel 64. Integratie en non-discriminatie
+##### Artikel 64. Integratie en non-discriminatie
 
 1. De Partijen zetten hun inspanningen voort voor de vaststelling van een effectief integratiebeleid voor personen die legaal op hun grondgebied verblijven, dat tot doel heeft rechten te verlenen en plichten op te leggen die vergelijkbaar zijn met die van de eigen burgers, en de sociale samenhang te bevorderen. In dit verband ondersteunen de Partijen de ontwikkeling en uitvoering van strategieën voor de integratie van onderdanen van een lidstaat van de Europese Unie of van een OACPS-lid die legaal verblijven op, respectievelijk, het grondgebied van de OACPS-leden of het grondgebied van de lidstaten van de Europese Unie in de arbeidsmarkten en de gastsamenlevingen, ter ondersteuning en versterking van de samenwerking en coördinatie tussen verschillende actoren die zich bezighouden met integratie op nationaal, regionaal en lokaal niveau, met inbegrip van het lokale bestuur en het maatschappelijk middenveld.
 
@@ -980,27 +991,27 @@ De Partijen herbevestigen hun verbintenis om de samenwerking op het gebied van m
 
 ### HOOFDSTUK 2. MIGRATIE EN ONTWIKKELING
 
-#### Artikel 65. Migratie en ontwikkeling
+##### Artikel 65. Migratie en ontwikkeling
 
 De Partijen komen overeen dat goed beheerde migratie een bron kan zijn van welvaart, innovatie en duurzame ontwikkeling en komen tevens overeen samen te werken en landen van herkomst te steunen, onder meer door groei en werkgelegenheid te stimuleren en investeringen, de ontwikkeling van de private sector, handel en innovatie, onderwijs en beroepsopleiding, gezondheid, sociale bescherming en veiligheid, met name voor jongeren en vrouwen, te bevorderen. De Partijen werken samen om de voorwaarden te scheppen die de negatieve gevolgen van het verlies van vaardigheden voor de ontwikkeling van de landen van herkomst beperken.
 
-#### Artikel 66. Diaspora en ontwikkeling
+##### Artikel 66. Diaspora en ontwikkeling
 
 De Partijen erkennen de betekenisvolle rol van de diaspora’s en de verschillende vormen van bijdragen die de leden van de diaspora leveren aan de ontwikkeling van hun land van herkomst, onder meer via financiering, investeringen, overdracht van kennis, deskundigheid en technologie, culturele banden, netwerken en mechanismen, alsook in het kader van nationale verzoeningsprocessen.
 
-#### Artikel 67. Overmakingen
+##### Artikel 67. Overmakingen
 
 1. De Partijen streven ernaar goedkopere, veiligere, snellere en juridisch conforme overdrachten van overmakingen te bevorderen om productieve binnenlandse investeringen te stimuleren, onder meer door het gebruik van nieuwe technologieën en innovatieve instrumenten.
 
 2. De Partijen werken samen om de transactiekosten van overmakingen tot minder dan 3 % te beperken en de transactieroutes met kosten van meer dan 5 % te elimineren, overeenkomstig internationaal overeengekomen doelstellingen, en het regelgevingskader voor een grotere betrokkenheid van niet-traditionele spelers te verbeteren.
 
-#### Artikel 68. Zuid-Zuid-migratie
+##### Artikel 68. Zuid-Zuid-migratie
 
 1. De Partijen erkennen het belang van Zuid-Zuid-migratie, zowel wat betreft de problemen die zij met zich meebrengt als de kansen die zij biedt, waaronder de potentiële voordelen van goed beheerde Zuid-Zuid-migratie voor de duurzame ontwikkeling van landen van herkomst, doorreis en bestemming. Daartoe ondersteunen de Partijen beleid en acties ter bevordering van de economische en sociale ontwikkeling in de landen van herkomst, doorvoer en bestemming.
 
 2. De Partijen wisselen ervaringen en beste praktijken uit om de sociale en economische gevolgen van Zuid-Zuid-migratie voor de landen van herkomst, doorreis en bestemming te verzachten en zij versterken de samenwerking op nationaal en regionaal niveau.
 
-#### Artikel 69. Natuurrampen, klimaatverandering en milieuaantasting
+##### Artikel 69. Natuurrampen, klimaatverandering en milieuaantasting
 
 1. De Partijen houden rekening met het verband tussen migratie, waaronder ontheemding, en natuurrampen, klimaatverandering en milieuaantasting.
 
@@ -1008,29 +1019,29 @@ De Partijen erkennen de betekenisvolle rol van de diaspora’s en de verschillen
 
 ### HOOFDSTUK 3. IRREGULIERE MIGRATIE
 
-#### Artikel 70. Onderliggende oorzaken van irreguliere migratie
+##### Artikel 70. Onderliggende oorzaken van irreguliere migratie
 
 1. De Partijen bevestigen de gezamenlijke politieke wil om de onderliggende oorzaken van irreguliere migratie en gedwongen ontheemding aan te pakken en om hierop adequaat te reageren.
 
 2. De Partijen herbevestigen hun vastberadenheid om de irreguliere migratiestromen in te dammen, met volledige inachtneming van het internationaal recht en de mensenrechten. In dat verband erkennen zij de negatieve gevolgen van irreguliere migratie voor de landen van herkomst, doorreis en bestemming, waaronder de daarmee verband houdende problemen op humanitair gebied en op het gebied van veiligheid. De Partijen erkennen het toegenomen risico voor migranten om mensenrechtenschendingen te ervaren en het slachtoffer te worden van mensenhandel en misbruik, en zij komen overeen maatregelen te nemen om die migranten te beschermen tegen alle vormen van uitbuiting en misbruik.
 
-#### Artikel 71. Migrantensmokkel
+##### Artikel 71. Migrantensmokkel
 
 1. De Partijen intensiveren hun gezamenlijke inspanningen om grensoverschrijdende criminaliteit in verband met migrantensmokkel te voorkomen en zij versterken gezamenlijk hun inspanningen om een einde te maken aan de straffeloosheid van criminele organisaties, door middel van effectief onderzoek en effectieve vervolging.
 
 2. De Partijen zorgen ervoor dat er passende juridische en institutionele kaders komen, in overeenstemming met het [VN-Verdrag tegen grensoverschrijdende georganiseerde misdaad](onbekend), en met name het [Protocol tegen de smokkel van migranten over land, over zee en door de lucht](onbekend) daarbij. Zij verbinden zich er ook toe de uitwisseling van informatie te verbeteren en de operationele, politiële en justitiële samenwerking te bevorderen.
 
-#### Artikel 72. Mensenhandel
+##### Artikel 72. Mensenhandel
 
 De Partijen bestrijden mensenhandel overeenkomstig het [VN-Verdrag tegen grensoverschrijdende georganiseerde misdaad](onbekend) en het bijbehorende [Protocol inzake de voorkoming, bestrijding en bestraffing van mensenhandel, in het bijzonder vrouwenhandel en kinderhandel](onbekend). De Partijen verbeteren de preventie, onder meer door de straffeloosheid van alle daders tegen te gaan, en zorgen ervoor dat alle slachtoffers toegang hebben tot de rechten die hun toekomen, in het bijzonder rekening houdend met de kwetsbaarheid van vrouwen en kinderen.
 
-#### Artikel 73. Geïntegreerd grensbeheer
+##### Artikel 73. Geïntegreerd grensbeheer
 
 De Partijen bevorderen en ondersteunen geïntegreerd grensbeheer, met inbegrip van grenscontroles, het verzamelen en delen van informatie en inlichtingen, en het voorkomen van de productie en het gebruik van frauduleuze documenten, alsmede operationele, politiële en justitiële samenwerking op het gebied van onderzoek en strafrechtelijke vervolging.
 
 ### HOOFDSTUK 4. TERUGKEER, OVERNAME EN RE-INTEGRATIE
 
-#### Artikel 74. Terugkeer en overname
+##### Artikel 74. Terugkeer en overname
 
 1. De Partijen bevestigen opnieuw dat zij het recht hebben illegaal verblijvende migranten terug te sturen en herbevestigen de wettelijke verplichting van elke lidstaat van de Europese Unie en elk OACPS-lid om hun eigen onderdanen die illegaal verblijven op, respectievelijk, het grondgebied van de OACPS-leden of het grondgebied van de lidstaten van de Europese Unie, over te nemen, zonder voorwaarden en zonder andere formaliteiten dan de in lid 3 bedoelde verificatie. Daartoe werken de Partijen samen op het gebied van terugkeer en overname en zorgen zij ervoor dat de rechten en de waardigheid van het individu ten volle worden beschermd en geëerbiedigd, onder meer in het kader van procedures voor terugkeer van illegaal verblijvende migranten naar hun land van herkomst.
 
@@ -1046,13 +1057,13 @@ Wat de lidstaten van de Europese Unie betreft, zijn de in dit lid vastgestelde v
 
 5. De Partijen komen overeen toezicht te houden op de uitvoering van deze verplichtingen in het kader van de regelmatige partnerschapsdialoog tussen de Partijen.
 
-#### Artikel 75. Re-integratie
+##### Artikel 75. Re-integratie
 
 De Partijen onderzoeken manieren om samen te werken om vrijwillige terugkeer te bevorderen en de duurzame re-integratie van teruggekeerde personen te vergemakkelijken, in voorkomend geval door middel van duurzame re-integratieprogramma’s. Er wordt bijzondere aandacht besteed aan de behoeften van terugkerende personen in een kwetsbare situatie, zoals kinderen, ouderen, personen met een handicap en slachtoffers van mensenhandel.
 
 ### HOOFDSTUK 5. BESCHERMING EN ASIEL
 
-#### Artikel 76. Vluchtelingen en andere ontheemden
+##### Artikel 76. Vluchtelingen en andere ontheemden
 
 1. De Partijen verbinden zich ertoe de bescherming en waardigheid van vluchtelingen en andere ontheemden te versterken in overeenstemming met het internationaal recht en het internationaal recht inzake de mensenrechten, waaronder het beginsel van non-refoulement en, indien van toepassing, het internationaal vluchtelingenrecht en het internationaal humanitair recht.
 
@@ -1062,11 +1073,11 @@ De Partijen onderzoeken manieren om samen te werken om vrijwillige terugkeer te 
 
 ## DEEL III. MONDIALE ALLIANTIES EN INTERNATIONALE SAMENWERKING
 
-#### Artikel 77
+##### Artikel 77
 
 De Partijen bevestigen opnieuw het belang van samenwerking op internationaal niveau met het oog op de bevordering en verdediging van hun gemeenschappelijke belangen en de instandhouding en versterking van het multilateralisme. Zij verbinden zich ertoe de krachten te bundelen voor een vreedzamere, meer coöperatieve en rechtvaardige wereld, die stevig berust op de gemeenschappelijke waarden van vrede, democratie, de mensenrechten, de rechtsstaat, gendergelijkheid, duurzame ontwikkeling, behoud van het milieu en de strijd tegen de klimaatverandering. Zij zijn het erover eens dat het belangrijk is mondiale allianties op te bouwen en te versterken om een doeltreffend multilateraal systeem tot stand te brengen dat resultaten oplevert bij het aanpakken van mondiale uitdagingen voor een veiligere en betere wereld voor iedereen.
 
-#### Artikel 78. Multilateralisme en global governance
+##### Artikel 78. Multilateralisme en global governance
 
 1. De Partijen zetten zich in voor de op regels gebaseerde wereldorde, met multilateralisme als basisbeginsel en de VN als kern. Zij bevorderen de internationale dialoog en zoeken naar multilaterale oplossingen om wereldwijde actie vooruit te helpen.
 
@@ -1076,7 +1087,7 @@ De Partijen bevestigen opnieuw het belang van samenwerking op internationaal niv
 
 4. De Partijen verdiepen hun multistakeholderbenadering van multilateralisme door het maatschappelijk middenveld, de private sector en de sociale partners effectiever te betrekken bij de ontwikkeling van antwoorden op mondiale uitdagingen.
 
-#### Artikel 79. Samenwerking in internationale organisaties en fora
+##### Artikel 79. Samenwerking in internationale organisaties en fora
 
 1. De Partijen streven ernaar gezamenlijke resoluties, verklaringen en verklaringen aan te nemen, hun standpunten en, in voorkomend geval, hun stem op elkaar af te stemmen en gezamenlijk op te treden, op basis van gemeenschappelijke belangen, wederzijds respect en gelijkheid, om hun aanwezigheid in internationale en regionale organisaties en fora te vergroten en er hun stem luider te laten klinken.
 
@@ -1084,7 +1095,7 @@ De Partijen bevestigen opnieuw het belang van samenwerking op internationaal niv
 
 3. De Partijen kunnen er actief naar streven nauw samen te werken en strategische partnerschappen tot stand te brengen met derde landen en groepen die hun waarden en belangen delen, om zoveel mogelijk tot gezamenlijke oplossingen voor gemeenschappelijke uitdagingen te komen.
 
-#### Artikel 80. Gebieden voor internationale actie
+##### Artikel 80. Gebieden voor internationale actie
 
 1. De Partijen komen overeen samen te werken en gezamenlijke acties te ondernemen met betrekking tot kwesties die verband houden met de in [deel II](https://wetten.overheid.nl/jci1.3:c:BWBV0007046&deel=II&z=2023-11-15&g=2023-11-15) neergelegde strategische prioriteiten en op andere aandachtsgebieden die zij noodzakelijk achten.
 
@@ -1114,7 +1125,7 @@ Zij werken samen aan de versterking van de samenhang en consistentie van het int
 
 ## DEEL IV. MIDDELEN VOOR SAMENWERKING EN UITVOERING
 
-#### Artikel 81. Doeltreffende en gediversifieerde middelen voor samenwerking
+##### Artikel 81. Doeltreffende en gediversifieerde middelen voor samenwerking
 
 1. De Partijen komen overeen zowel financiële als niet-financiële middelen te mobiliseren om de doelstellingen van deze Overeenkomst te verwezenlijken op basis van wederzijdse belangen, in de geest van een echt partnerschap en in overeenstemming met het beginsel „leaving no one behind”. Zij onderstrepen het cruciale belang van de financiering van ontwikkeling die essentieel is voor de uitvoering van de Agenda 2030 en de [Overeenkomst van Parijs](onbekend).
 
@@ -1122,7 +1133,7 @@ Zij werken samen aan de versterking van de samenhang en consistentie van het int
 
 3. De Partijen herbevestigen hun gehechtheid aan de beginselen inzake doeltreffende ontwikkelingshulp, namelijk eigen verantwoordelijkheid van partnerlanden voor de ontwikkelingsprioriteiten, inclusieve partnerschappen, resultaatgerichtheid, transparantie en wederzijdse verantwoordingsplicht.
 
-#### Artikel 82. Internationale ontwikkelingssamenwerking
+##### Artikel 82. Internationale ontwikkelingssamenwerking
 
 1. De EU herbevestigt haar politieke wil om de middelen voor ontwikkelingssamenwerking te verhogen met het oog op de verwezenlijking van duurzame ontwikkeling, met name door armoede uit te bannen en aantasting van het milieu en de klimaatverandering te bestrijden. De EU verbindt zich ertoe het passende niveau van financiële middelen beschikbaar te stellen in overeenstemming met haar interne voorschriften en procedures.
 
@@ -1156,7 +1167,7 @@ Zij werken samen aan de versterking van de samenhang en consistentie van het int
 
 12. De Partijen versterken de dialoog en de samenwerking voor een goed gebruik van de financiële middelen, onder meer door middel van samenwerking met het Europees Bureau voor fraudebestrijding waar nodig.
 
-#### Artikel 83. Binnenlandse overheidsmiddelen
+##### Artikel 83. Binnenlandse overheidsmiddelen
 
 1. De OACPS-leden die Partij zijn bij deze Overeenkomst, bevestigen opnieuw dat zij zich inzetten om de mobilisatie van binnenlandse middelen te bevorderen. Zij bevorderen een klimaat dat meer binnenlandse private stromen genereert en stimuleren de handel als motor voor ontwikkeling.
 
@@ -1166,7 +1177,7 @@ Zij werken samen aan de versterking van de samenhang en consistentie van het int
 
 4. De Partijen bevorderen goed financieel en fiscaal bestuur, transparantie en verantwoordingsplicht en werken samen om deze te versterken. Zij verbinden zich ertoe de internationale samenwerking op belastinggebied op inclusieve, billijke en transparante wijze op te voeren en komen, in dat verband, overeen om in het kader van internationale fora samen te werken op het gebied van belastingaangelegenheden.
 
-#### Artikel 84. Binnenlandse en internationale private middelen
+##### Artikel 84. Binnenlandse en internationale private middelen
 
 1. De Partijen erkennen dat kapitaalstromen uit de private sector een cruciale aanvulling vormen op de nationale ontwikkelingsinspanningen. Zij ontwikkelen beleid en versterken, waar nodig, de regelgevingskaders en -instrumenten om stimulansen voor de private sector beter af te stemmen op de doelstellingen van algemeen belang. Zij werken samen om duurzame en verantwoorde investeringen te mobiliseren, de private sector aan te moedigen om als partner aan het ontwikkelingsproces deel te nemen, en te investeren in gebieden die van cruciaal belang zijn voor duurzame ontwikkeling.
 
@@ -1174,7 +1185,7 @@ Zij werken samen aan de versterking van de samenhang en consistentie van het int
 
 3. De Partijen erkennen dat geldovermakingen cruciaal zijn als private bronnen van financiering voor duurzame ontwikkeling. Zij voeren toepasselijke wetgeving en regelgevingskaders in om een concurrerende en transparante markt tot stand te brengen voor goedkopere, snellere en veiligere overmakingen van geld via legale en officiële kanalen in zowel de landen van herkomst als de ontvangende landen, en om te komen tot innovatieve en betaalbare oplossingen voor de overmakingen. Zij moedigen de productie van innovatieve financiële producten aan en creëren stimulansen om de bijdrage van hun diaspora’s aan ontwikkeling te versterken. Zij bevorderen de dialoog tussen alle betrokken publieke en private belanghebbenden om geldovermakingen te vergemakkelijken, met als doel de impact ervan op ontwikkeling te vergroten.
 
-#### Artikel 85. Schulden en schuldhoudbaarheid
+##### Artikel 85. Schulden en schuldhoudbaarheid
 
 1. De Partijen verbinden zich ertoe de schuld op lange termijn houdbaar te maken door een gecoördineerd beleid te voeren dat gericht is op de financiering, matiging, herstructurering of het beheer van de schuld, naargelang het geval. Zij komen overeen landen te helpen bij de opbouw van capaciteit op het gebied van schuldbeheer en de ontwikkeling van schuldstrategieën voor de middellange en lange termijn.
 
@@ -1186,17 +1197,17 @@ Zij werken samen aan de versterking van de samenhang en consistentie van het int
 
 ## DEEL V. INSTITUTIONEEL KADER
 
-#### Artikel 86. Gezamenlijke instellingen
+##### Artikel 86. Gezamenlijke instellingen
 
 1. De Partijen stellen de volgende gezamenlijke instellingen in op het niveau van de OACPS-leden en de EU: de OACPS-EU-Raad van Ministers, het OACPS-EU-Comité van hoge ambtenaren op ambassadeursniveau (OACPS-EU-Alsoc) en de Paritaire Parlementaire Vergadering OACPS-EU. De Partijen stellen ook een Raad van Ministers, een Gemengd Comité en een Parlementaire Vergadering in als gezamenlijke instellingen voor elk van de Regionale Protocollen.
 
 2. De Partijen streven naar coördinatie en complementariteit tussen de gezamenlijke instellingen en de gezamenlijke instellingen van andere kaders of overeenkomsten waarbij zij partij zijn, waaronder de EPO’s, onverminderd de desbetreffende bepalingen daarin.
 
-#### Artikel 87. Toppen van de staatshoofden en regeringsleiders
+##### Artikel 87. Toppen van de staatshoofden en regeringsleiders
 
 De Partijen kunnen gezamenlijk overeenkomen bijeen te komen op het niveau van staatshoofden en regeringsleiders, in een passende vorm, op basis van een onderling overeengekomen kalender en agenda.
 
-#### Artikel 88. OACPS-EU-Raad van Ministers
+##### Artikel 88. OACPS-EU-Raad van Ministers
 
 1. De OACPS-EU-Raad van Ministers bestaat uit een vertegenwoordiger van elk OACPS-lid op ministerieel niveau, enerzijds, en vertegenwoordigers van de Europese Unie en van haar lidstaten op ministerieel niveau, anderzijds. Hij wordt gezamenlijk voorgezeten door de voorzitter die door de OACPS-leden is benoemd, enerzijds, en de voorzitter die door de EU is benoemd, anderzijds.
 
@@ -1220,7 +1231,7 @@ De Partijen kunnen gezamenlijk overeenkomen bijeen te komen op het niveau van st
 
 7. De OACPS-EU-Raad van Ministers stelt tijdens zijn eerste bijeenkomst en uiterlijk zes maanden na de inwerkingtreding van de Overeenkomst zijn reglement van orde vast.
 
-#### Artikel 89. OACPS-EU-Comité op het niveau van ambassadeurs of hoge ambtenaren
+##### Artikel 89. OACPS-EU-Comité op het niveau van ambassadeurs of hoge ambtenaren
 
 1. Het OACPS-EU-Comité op het niveau van ambassadeurs of hoge ambtenaren (OCAPS-EU-Alsoc) bestaat uit een vertegenwoordiger van elk OACPS-lid op het niveau van ambassadeurs of hoge ambtenaren en de secretaris-generaal van de OACPS, ambtshalve, enerzijds, en vertegenwoordigers van de Europese Unie en van haar lidstaten op het niveau van ambassadeurs of hoge ambtenaren, anderzijds. Het OACPS-EU-Alsoc komt jaarlijks en in bijzondere zittingen bijeen op verzoek van de medevoorzitters, en met name ter voorbereiding van de zittingen van de OACPS-EU-Raad van Ministers. Het wordt gezamenlijk voorgezeten door dezelfde Partijen die het medevoorzitterschap bekleden van de OACPS-EU-Raad van Ministers. Het neemt zijn besluiten en doet aanbevelingen in onderlinge overeenstemming tussen de Partijen. Waarnemers kunnen in voorkomend geval aan bijeenkomsten deelnemen.
 
@@ -1228,7 +1239,7 @@ De Partijen kunnen gezamenlijk overeenkomen bijeen te komen op het niveau van st
 
 3. Het OACPS-EU-Alsoc stelt tijdens zijn eerste bijeenkomst en uiterlijk zes maanden na de inwerkingtreding van de Overeenkomst zijn reglement van orde vast.
 
-#### Artikel 90. Paritaire Parlementaire Vergadering OACPS-EU
+##### Artikel 90. Paritaire Parlementaire Vergadering OACPS-EU
 
 1. Elk lid van de drie Regionale Parlementaire Vergaderingen is lid van de Paritaire Parlementaire Vergadering OACPS-EU. De Paritaire Parlementaire Vergadering OACPS-EU komt eenmaal per jaar bijeen, zoals nader bepaald in haar in lid 3 bedoelde reglement van orde. Zij wordt gezamenlijk voorgezeten door een lid van het Europees Parlement en een parlementslid van de OACPS-leden, die volgens hun respectieve procedures worden benoemd.
 
@@ -1240,11 +1251,11 @@ De Partijen kunnen gezamenlijk overeenkomen bijeen te komen op het niveau van st
 
 3. De Paritaire Parlementaire Vergadering OACPS-EU stelt tijdens haar eerste bijeenkomst maar uiterlijk zes maanden na de inwerkingtreding van deze Overeenkomst haar reglement van orde vast.
 
-#### Artikel 91. Regionale top
+##### Artikel 91. Regionale top
 
 De Partijen bij elk Regionaal Protocol kunnen besluiten bijeen te komen op het niveau van staatshoofden en regeringsleiders, op door de respectieve Partijen overeengekomen tijdstippen, op basis van een onderling overeengekomen kalender en agenda.
 
-#### Artikel 92. Regionale Raden van Ministers
+##### Artikel 92. Regionale Raden van Ministers
 
 1. De Partijen stellen voor elk van de drie Regionale Protocollen een Raad van Ministers in:
 
@@ -1278,7 +1289,7 @@ Elke Regionale Raad van Ministers komt op door de respectieve Partijen overeen t
 
 - d. stelt tijdens zijn eerste bijeenkomst maar uiterlijk zes maanden na de inwerkingtreding van deze Overeenkomst zijn reglement van orde vast.
 
-#### Artikel 93. Regionale Gemengde Comités
+##### Artikel 93. Regionale Gemengde Comités
 
 1. Elk Regionaal Gemengd Comité bestaat uit een vertegenwoordiger van elk Afrikaans OACPS-lid voor het Protocol Afrika-EU, elk Caribisch OACPS-lid voor het Protocol Caribisch gebied-EU, en elk OACPS-lid uit de Stille Oceaan voor het Protocol Stille Oceaan-EU, op het niveau van ambassadeurs of hoge ambtenaren, enerzijds, en vertegenwoordigers van de Europese Unie en van haar lidstaten op het niveau van ambassadeurs of hoge ambtenaren, anderzijds.
 
@@ -1288,7 +1299,7 @@ Elke Regionale Raad van Ministers komt op door de respectieve Partijen overeen t
 
 4. Elk Regionaal Gemengd Comité stelt tijdens zijn eerste bijeenkomst maar uiterlijk zes maanden na de inwerkingtreding van deze Overeenkomst zijn reglement van orde vast.
 
-#### Artikel 94. Regionale Parlementaire Vergaderingen
+##### Artikel 94. Regionale Parlementaire Vergaderingen
 
 1. De Partijen richten voor elk van de drie Regionale Parlementaire Protocollen een Regionale Parlementaire Vergadering op, die gezamenlijk wordt voorgezeten door een lid van het Europees Parlement, enerzijds, en een lid van het Parlement van de respectieve Partijen in Afrika, het Caribisch gebied of de Stille Oceaan, anderzijds, die overeenkomstig hun eigen procedures tot voorzitter zijn benoemd:
 
@@ -1310,7 +1321,7 @@ Elke Regionale Raad van Ministers komt op door de respectieve Partijen overeen t
 
 - d. stelt tijdens haar eerste bijeenkomst maar uiterlijk zes maanden na de inwerkingtreding van deze Overeenkomst haar reglement van orde vast.
 
-#### Artikel 95. Betrekkingen met belanghebbenden
+##### Artikel 95. Betrekkingen met belanghebbenden
 
 1. De Partijen zijn het erover eens dat overleg met belanghebbenden, met name lokale autoriteiten, het maatschappelijk middenveld en vertegenwoordigers van de private sector, een wezenlijk onderdeel is van goed geïnformeerde besluitvorming en de verwezenlijking van de doelstellingen van dit partnerschap.
 
@@ -1322,15 +1333,15 @@ Elke Regionale Raad van Ministers komt op door de respectieve Partijen overeen t
 
 ## DEEL VI. SLOTBEPALINGEN
 
-#### Artikel 96. Territoriale toepassing
+##### Artikel 96. Territoriale toepassing
 
 Deze Overeenkomst is van toepassing op elk grondgebied waarop het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) en het [Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) van toepassing zijn, onder de in die verdragen neergelegde voorwaarden, enerzijds, en op het grondgebied van de OACPS-leden, anderzijds.
 
-#### Artikel 97. Andere overeenkomsten of regelingen
+##### Artikel 97. Andere overeenkomsten of regelingen
 
 Verdragen, overeenkomsten, akkoorden of regelingen van ongeacht welke vorm of aard tussen een of meer lidstaten van de Europese Unie en een of meer OACPS-leden mogen geen beletsel vormen voor de toepassing van deze Overeenkomst.
 
-#### Artikel 98. Instemming om door de Overeenkomst gebonden te zijn, inwerkingtreding en voorlopige toepassing
+##### Artikel 98. Instemming om door de Overeenkomst gebonden te zijn, inwerkingtreding en voorlopige toepassing
 
 1. De Partijen verklaren dat zij zich gebonden achten door de Overeenkomst overeenkomstig hun respectieve interne regels en procedures.
 
@@ -1340,7 +1351,7 @@ Verdragen, overeenkomsten, akkoorden of regelingen van ongeacht welke vorm of aa
 
 4. Onverminderd de leden 2 en 3 kunnen de Europese Unie en de OACPS-leden de Overeenkomst, in afwachting van de inwerkingtreding ervan en in overeenstemming met hun respectieve interne procedures, op voorlopige basis geheel of gedeeltelijk toepassen. Voorlopige toepassing vangt aan op de eerste dag van de tweede maand na de datum van ondertekening van deze Overeenkomst. Voor het begin van de voorlopige toepassing heeft de Europese Unie de OACPS-leden kennis van de delen van deze Overeenkomst die voorlopig worden toegepast.
 
-#### Artikel 99. Geldigheidsduur en herziening
+##### Artikel 99. Geldigheidsduur en herziening
 
 1. De Overeenkomst wordt gesloten voor een initiële periode van twintig jaar. Drie jaar voor het einde van die initiële periode beginnen de Partijen een dialoog met het oog op een herziening van de bepalingen waardoor hun betrekkingen nadien zullen worden geregeld. De Overeenkomst wordt stilzwijgend met een periode van vijf jaar verlengd, tenzij de Partijen vóór het einde van de initiële periode van twintig jaar een besluit tot opzegging of verlenging ervan overeenkomen.
 
@@ -1354,11 +1365,11 @@ Verdragen, overeenkomsten, akkoorden of regelingen van ongeacht welke vorm of aa
 
 6. De OACPS-EU-Raad van Ministers kan de overgangsmaatregelen die nodig zijn vaststellen indien een nieuwe overeenkomst tussen de Partijen wordt overwogen en totdat die overeenkomst in werking treedt of voorlopig wordt toegepast.
 
-#### Artikel 100. Opzegging
+##### Artikel 100. Opzegging
 
 De Overeenkomst kan door de EU worden opgezegd ten aanzien van elk OACPS-lid en door elk OACPS-lid ten aanzien van de EU. De opzegging gaat van kracht zes maanden na ontvangst door de depositaris van de schriftelijke kennisgeving daarvan, die hiervan een voor eensluidend gewaarmerkt afschrift doet toekomen aan het secretariaat van de OACPS.
 
-#### Artikel 101. Geschillenbeslechting en nakoming van verplichtingen
+##### Artikel 101. Geschillenbeslechting en nakoming van verplichtingen
 
 1. De Partijen treffen alle algemene en bijzondere maatregelen die vereist zijn om aan hun verplichtingen krachtens deze Overeenkomst te voldoen. Zij pakken meningsverschillen en geschillen over de toepassing van deze tussen hen gesloten Overeenkomst aan en behandelen vragen over de uitlegging van deze Overeenkomst overeenkomstig dit artikel.
 
@@ -1378,7 +1389,7 @@ De Overeenkomst kan door de EU worden opgezegd ten aanzien van elk OACPS-lid en 
 
 9. De Partijen komen overeen dat het overleg moet plaatsvinden op het niveau en in de vorm die het gunstigst worden geacht om tot een wederzijds aanvaardbare oplossing te komen. Zij komen overeen dat, zonder afbreuk te doen aan het bilaterale karakter van het overleg, relevante regionale en internationale actoren bij het overlegproces kunnen worden betrokken, met instemming van de betrokken Partijen.
 
-#### Artikel 102. Toetreding
+##### Artikel 102. Toetreding
 
 1. Elke nieuwe lidstaat van de Europese Unie wordt vanaf de datum van zijn toetreding tot de Europese Unie Partij bij deze Overeenkomst door middel van een daartoe strekkende clausule in de akte van toetreding. Indien de akte van toetreding tot de Unie niet voorziet in een dergelijke automatische toetreding van de lidstaat tot deze Overeenkomst, treedt de betrokken lidstaat toe tot deze Overeenkomst door nederlegging van een akte van toetreding bij de depositaris, dat hiervan een voor eensluidend gewaarmerkt afschrift doet toekomen aan het secretariaat van de ACS-staten.
 
@@ -1388,11 +1399,11 @@ De Overeenkomst kan door de EU worden opgezegd ten aanzien van elk OACPS-lid en 
 
 4. De OACPS-EU-Raad van Ministers kan de nodige overgangs- of wijzigingsmaatregelen vaststellen.
 
-#### Artikel 103. Waarnemerstatus
+##### Artikel 103. Waarnemerstatus
 
 Ter verwezenlijking van de doelstellingen van deze Overeenkomst kan aan derde actoren, waaronder regionale en continentale organisaties, bij besluit van de betrokken gemeenschappelijke instelling de status van waarnemer in de bij [deel V](https://wetten.overheid.nl/jci1.3:c:BWBV0007046&deel=V&z=2023-11-15&g=2023-11-15) van het algemeen deel van deze Overeenkomst opgerichte instellingen worden toegekend.
 
-#### Artikel 104. Authentieke teksten
+##### Artikel 104. Authentieke teksten
 
 Deze Overeenkomst is in tweevoud opgesteld in de Bulgaarse, de Deense, de Duitse, de Engelse, de Estse, de Finse, de Franse, de Griekse, de Hongaarse, de Ierse, de Italiaanse, de Kroatische, de Letse, de Litouwse, de Maltese, de Nederlandse, de Poolse, de Portugese, de Roemeense, de Sloveense, de Slowaakse, de Spaanse, de Tsjechische en de Zweedse taal, zijnde alle teksten gelijkelijk authentiek.
 
@@ -1400,7 +1411,7 @@ Deze Overeenkomst is in tweevoud opgesteld in de Bulgaarse, de Deense, de Duitse
 
 ### HOOFDSTUK 1. AARD EN TOEPASSINGSGEBIED
 
-#### Artikel 1. Een reëel partnerschap
+##### Artikel 1. Een reëel partnerschap
 
 1. Voor de toepassing van dit Protocol wordt onder „Partijen” verstaan de betrokken partijen die krachtens [artikel 6 van het algemene deel van deze Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0007046&deel=I&artikel=6&z=2023-11-15&g=2023-11-15) door dit Protocol gebonden zijn.
 
@@ -1408,7 +1419,7 @@ Deze Overeenkomst is in tweevoud opgesteld in de Bulgaarse, de Deense, de Duitse
 
 3. De Partijen voeren dit Protocol uit in een geest van gedeelde zeggenschap, wederkerigheid en wederzijdse verantwoordingsplicht, en transparantie, met aanvullende verantwoordelijkheden op nationaal, regionaal en internationaal niveau.
 
-#### Artikel 2. Strategische prioriteiten
+##### Artikel 2. Strategische prioriteiten
 
 1. De Partijen nemen specifieke maatregelen op de volgende in deel II van dit Protocol genoemde belangrijke gebieden:
 
@@ -1426,7 +1437,7 @@ Deze Overeenkomst is in tweevoud opgesteld in de Bulgaarse, de Deense, de Duitse
 
 2. De Partijen kunnen met wederzijdse instemming andere actieterreinen en samenwerkingsgebieden overeenkomen.
 
-#### Artikel 3. Regionale en continentale integratie en samenwerking
+##### Artikel 3. Regionale en continentale integratie en samenwerking
 
 1. De Partijen bevorderen de onderlinge verbindingen en strategische banden tussen Afrika en de Europese Unie.
 
@@ -1444,7 +1455,7 @@ Deze Overeenkomst is in tweevoud opgesteld in de Bulgaarse, de Deense, de Duitse
 
 ### HOOFDSTUK 2. ACTOREN EN PROCESSEN
 
-#### Artikel 4. Institutionele bepalingen
+##### Artikel 4. Institutionele bepalingen
 
 1. De gezamenlijke instellingen die bij dit Protocol worden opgericht, waarvan de samenstelling en de functie zijn omschreven in het [algemene deel van deze Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0007046&deel=I&z=2023-11-15&g=2023-11-15), zijn als volgt:
 
@@ -1456,11 +1467,11 @@ Deze Overeenkomst is in tweevoud opgesteld in de Bulgaarse, de Deense, de Duitse
 
 2. De Partijen houden in het kader van hun samenwerking en bij de uitvoering van dit Protocol rekening met de strategische en politieke sturing van de topontmoetingen van de AU en de EU.
 
-#### Artikel 5. Raadpleging van belanghebbenden
+##### Artikel 5. Raadpleging van belanghebbenden
 
 De Partijen zetten mechanismen op voor een open en transparant overleg met alle relevante belanghebbenden, met inbegrip van lokale autoriteiten, vertegenwoordigers van het maatschappelijk middenveld en de private sector, om hen op de hoogte te houden van en input te verzamelen voor de politieke processen en de uitvoering van dit Protocol, overeenkomstig [artikel 5, lid 3, van het algemene deel van deze Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0007046&deel=I&artikel=5&z=2023-11-15&g=2023-11-15).
 
-#### Artikel 6. Uitvoering en monitoring
+##### Artikel 6. Uitvoering en monitoring
 
 1. De Partijen bevorderen voor elk actieterrein doeltreffende samenwerkingsregelingen en voeren de daarmee verband houdende activiteiten uit op het meest geschikte nationaal, regionaal, multinationaal en continentaal niveau. Daartoe erkennen zij de rol van regionale en continentale organisaties bij de uitvoering van dit Protocol en streven zij ernaar de betrokkenheid van de belanghebbenden te versterken.
 
@@ -1470,19 +1481,19 @@ De Partijen zetten mechanismen op voor een open en transparant overleg met alle 
 
 ## TITEL I. INCLUSIEVE DUURZAME ECONOMISCHE GROEI EN ONTWIKKELING
 
-#### Artikel 7
+##### Artikel 7
 
 De Partijen bevorderen inclusieve en duurzame economische groei en ontwikkeling voor wederzijds belang en voordeel door in te zetten op een structurele economische transformatie en diversificatie waarbij gefocust wordt op het scheppen van hoogwaardige banen met fatsoenlijke arbeidsomstandigheden en het aanmoedigen van regionale economische integratie. Zij investeren in menselijk kapitaal en vaardigheden, bevorderen een gezond macro-economisch kader en scheppen een ondernemingsklimaat dat bevorderlijk is voor grotere investeringsstromen en de ontwikkeling van de private sector. Zij nemen maatregelen en werken samen om de capaciteit te versterken om de klimaatverandering tegen te gaan en andere milieurisico’s tot een minimum te beperken, ondersteunen een paradigmaverschuiving in productie en consumptie en bevorderen klimaatbestendige infrastructuur, hernieuwbare energie en schone technologieën, verantwoord beheer van afval- en chemische stoffen, en geïntegreerd waterbeheer, teneinde economische groei los te koppelen van milieuaantasting en een geleidelijke overgang naar een circulaire economie mogelijk te maken. Zij zetten in op sleutelsectoren met een hoge groei en een groot potentieel voor de creatie van fatsoenlijke banen, hetgeen leidt tot integratie in regionale en mondiale waardeketens met een hoge toegevoegde waarde. Zij streven ernaar dat iedereen kan profiteren van nieuwe zakelijke kansen, met bijzondere aandacht voor vrouwen en jongeren, en dat fundamentele arbeidsnormen worden bevorderd en toegepast, onder meer door middel van een doeltreffende sociale dialoog.
 
 ### HOOFDSTUK 1. ECONOMISCHE TRANSFORMATIE
 
-#### Artikel 8. Goed economisch bestuur
+##### Artikel 8. Goed economisch bestuur
 
 1. De Partijen verbeteren de macro-economische stabiliteit en bevorderen zowel structurele hervormingen als een passend economisch, budgettair en monetair beleid waarmee de broodnodige ruimte wordt gecreëerd voor zowel investeringsgroei, het scheppen van werkgelegenheid als de ontwikkeling van de private sector, en dat het vermogen verhoogt om economische schokken beter op te vangen. Zij vergemakkelijken het proces van economische hervormingen door het gedeelde inzicht in en de gegevensuitwisseling over hun respectieve fundamentele economische parameters en de opstelling en uitvoering van het economisch beleid te verbeteren.
 
 2. De Partijen komen overeen de beginselen van goed economisch bestuur te steunen, maatregelen te nemen om het beheer van de overheidsfinanciën te verbeteren, te werken aan de houdbaarheid van de overheidsschuld, de nationale en regionale statistische systemen en de regionale en multilaterale toezichtmechanismen te versterken, en een transparante begrotingsuitvoering te bevorderen met toegang van het publiek tot documenten, doeltreffende controlesystemen en een concurrerend, transparant en op verantwoordingsplicht gebaseerd systeem voor overheidsopdrachten.
 
-#### Artikel 9. Menselijk kapitaal en vaardigheden
+##### Artikel 9. Menselijk kapitaal en vaardigheden
 
 1. De Partijen versterken het menselijk kapitaal door te investeren in onderwijs, de verbetering van vaardigheden en capaciteitsopbouw, met als doel de behoeften van de arbeidsmarkt op elkaar af te stemmen en de arbeidsproductiviteit te verhogen, en besteden daarbij bijzondere aandacht aan de beginselen van gendergelijkheid en non-discriminatie. Zij zorgen ervoor dat de nationale onderwijsstelsels en curricula afgestemd zijn op toekomstige werkgelegenheidsbehoeften en voorzien in de nationale capaciteitsbehoeften.
 
@@ -1490,7 +1501,7 @@ De Partijen bevorderen inclusieve en duurzame economische groei en ontwikkeling 
 
 3. De Partijen werken samen om beleid te ontwikkelen en uit te voeren dat digitale vaardigheden en geletterdheid verbetert en deze in het onderwijsstelsel integreert.
 
-#### Artikel 10. Ondernemings- en investeringsklimaat
+##### Artikel 10. Ondernemings- en investeringsklimaat
 
 1. De Partijen verbeteren de nationale en regionale regelgevingskaders en vereenvoudigen de regelgeving en procedures voor het bedrijfsleven, verminderen en stroomlijnen de administratieve formaliteiten, versterken de samenwerking en bouwen capaciteit op om een doeltreffend mededingingsbeleid uit te voeren. Zij stellen open, transparante en duidelijke regelgevingskaders vast voor ondernemingen en investeringen, met bescherming van eigendomsrechten, landrechten en intellectuele-eigendomsrechten. Zij zorgen voor doeltreffende, transparante en voorspelbare belastingstelsels en verbeteren de rol van de douaneautoriteiten bij handelsfacilitatie en het handhaven van de geldende regels ter bestrijding van fraude en andere inbreuken. Zij bevorderen beleid dat de relevantie, efficiëntie en doeltreffendheid van de arbeidsmarktinstellingen vergroot, waarbij het juiste evenwicht wordt gevonden tussen flexibiliteit en werknemersbescherming.
 
@@ -1502,7 +1513,7 @@ De Partijen bevorderen inclusieve en duurzame economische groei en ontwikkeling 
 
 5. De Partijen komen overeen dat in hun dialoog terdege rekening moet worden gehouden met kwesties die verband houden met het ondernemings- en investeringsklimaat.
 
-#### Artikel 11. Infrastructuur
+##### Artikel 11. Infrastructuur
 
 1. De Partijen ondersteunen een duurzame en veerkrachtige ontwikkeling van belangrijke infrastructuren zoals energie, vervoer, informatie- en communicatietechnologie (ICT) en digitale connectiviteit om de transformatie van hun economieën te vergemakkelijken, rekening houdend met het Programma voor infrastructurele ontwikkeling in Afrika (PIDA).
 
@@ -1512,7 +1523,7 @@ De Partijen bevorderen inclusieve en duurzame economische groei en ontwikkeling 
 
 4. De Partijen komen overeen de ontwikkeling en het onderhoud van duurzame en veerkrachtige infrastructuur te bevorderen door middel van versterkte financiële, technologische en technische ondersteuning, met bijzondere aandacht voor de minst ontwikkelde landen, niet aan zee gelegen ontwikkelingslanden en kleine eilandstaten in ontwikkeling.
 
-#### Artikel 12. Intellectuele eigendom
+##### Artikel 12. Intellectuele eigendom
 
 1. De Partijen versterken de samenwerking op het gebied van intellectuele-eigendomsrechten, onder meer bij de formulering van het regelgevingskader voor de bevordering, bescherming en handhaving van intellectuele-eigendomsrechten, rekening houdend met de onderliggende beleidsdoelstellingen.
 
@@ -1522,7 +1533,7 @@ De Partijen bevorderen inclusieve en duurzame economische groei en ontwikkeling 
 
 4. De Partijen bouwen capaciteit op om de registratie en bescherming van geografische aanduidingen voor zowel Afrikaanse als Europese landbouw- en voedingsproducten te bevorderen. Zij ondernemen acties ter ondersteuning van de uitvoering van de continentale strategie van de AU voor geografische aanduidingen in Afrika, en ondersteunen lokale gemeenschappen om ten volle gebruik te maken van geografische aanduidingen om de regionale en mondiale waardeketens te versterken.
 
-#### Artikel 13. Investeringen
+##### Artikel 13. Investeringen
 
 1. De Partijen verbinden zich ertoe samen te werken om duurzame en verantwoorde investeringen uit binnenlandse en buitenlandse, publieke en private bronnen te ontsluiten. Zij besteden bijzondere aandacht aan sectoren die essentieel zijn voor economische ontwikkeling, een groot potentieel hebben voor het scheppen van duurzame banen, met name in sectoren die meerwaarde creëren, en ecologische duurzaamheid bevorderen.
 
@@ -1534,7 +1545,7 @@ De Partijen bevorderen inclusieve en duurzame economische groei en ontwikkeling 
 
 5. De Partijen bevorderen maatschappelijk verantwoord ondernemerschap en verantwoorde bedrijfsvoering in de gehele waardeketen, door te voorzien in ondersteunende beleidskaders die de toepassing van toepasselijke praktijken door ondernemingen aanmoedigen en door de naleving, uitvoering, opvolging en verspreiding van toepasselijke internationale normen te ondersteunen, zoals de leidende beginselen van de VN inzake bedrijfsleven en mensenrechten, de OESO- richtsnoeren voor multinationale ondernemingen en de tripartiete beginselverklaring betreffende multinationale ondernemingen en sociaal beleid van de IAO. Zij erkennen de bijdrage aan duurzaamheid en maatschappelijk verantwoord ondernemerschap van andere vrijwillige initiatieven, waaronder zelfregulering door de industrie.
 
-#### Artikel 14. Industrialisatie
+##### Artikel 14. Industrialisatie
 
 1. De Partijen bevorderen inclusieve en duurzame industrialisering in Afrika door middel van innovatie en technologische ontwikkeling, met bijzondere aandacht voor sectoren met een hoge toegevoegde waarde en arbeidsintensieve sectoren.
 
@@ -1546,7 +1557,7 @@ De Partijen bevorderen inclusieve en duurzame economische groei en ontwikkeling 
 
 5. De Partijen bevorderen de ontwikkeling van micro-, kleine en middelgrote ondernemingen in Afrika, onder meer door de ontwikkeling van koppelingen binnen Afrika en synergieën met ondernemingen uit de Europese Unie. Zij ondersteunen beleid voor de ontwikkeling van ondernemerschap bij jongeren en vrouwen in de context van hun economische emancipatie en de bevordering van inclusieve ontwikkeling.
 
-#### Artikel 15. Ontwikkeling van de private sector
+##### Artikel 15. Ontwikkeling van de private sector
 
 1. De Partijen bevorderen en versterken de rol van de private sector als doeltreffende aanjager van duurzame ontwikkeling op basis van maatschappelijk verantwoord ondernemerschap en verantwoorde bedrijfsvoering. Zij voorzien in een gunstig klimaat om het potentieel van een door kansen gedreven ondernemerschap te ontsluiten en de ondernemingsbasis van Afrika beter uit te rusten door middel van een combinatie van instrumenten zoals financiering, diensten en opleiding, bedrijfscultuur en regelgevingskaders, innovatie en de toepassing van moderne technologieën. Zij besteden bijzondere aandacht aan de informele sector en de formalisering van informele economische activiteiten.
 
@@ -1558,7 +1569,7 @@ De Partijen bevorderen inclusieve en duurzame economische groei en ontwikkeling 
 
 5. De Partijen stimuleren en vergemakkelijken een breder gebruik van hun respectieve valuta’s bij hun internationale transacties.
 
-#### Artikel 16. Handelssamenwerking
+##### Artikel 16. Handelssamenwerking
 
 1. De Partijen erkennen het belang van handel als een belangrijke factor voor economische groei en ontwikkeling en versterken de handelsmogelijkheden tot wederzijds voordeel. Zij werken samen met het oog op de opbouw van handelscapaciteit en de totstandbrenging van de randvoorwaarden en het beleid om de onderlinge handelsstromen te bevorderen.
 
@@ -1586,7 +1597,7 @@ De Partijen bevorderen inclusieve en duurzame economische groei en ontwikkeling 
 
 ### HOOFDSTUK 2. BELANGRIJKE SECTOREN
 
-#### Artikel 17. Landbouw
+##### Artikel 17. Landbouw
 
 1. De Partijen werken samen om een duurzame en kwaliteitsvolle landbouwproductie, -productiviteit en verwerking van landbouwproducten te verhogen teneinde de voedsel- en voedingszekerheid te vergroten, de bestaansmiddelen te verbeteren, fatsoenlijke banen te scheppen, waardeketens te verbeteren en de inkomens te verhogen. Zij versterken klimaatbestendige praktijken, bevorderen duurzaam beheer en gebruik van natuurlijke hulpbronnen en ecosysteemdiensten, nemen de prikkels weg die niet-duurzame productiepatronen genereren en maken gebruik van de meest duurzame, energie-efficiënte en koolstofarme technologieën. Zij zorgen voor de transitie naar duurzame voedselsystemen door aandacht te besteden aan alle dimensies van duurzaamheid en versterken de veerkracht van hun agrovoedingssystemen tegen klimaat- en milieurisico’s en exogene schokken.
 
@@ -1598,7 +1609,7 @@ De Partijen bevorderen inclusieve en duurzame economische groei en ontwikkeling 
 
 5. De Partijen werken samen op het gebied van de governance van de landbouwsector, met name via ondersteunende maatregelen voor systemen voor vroegtijdige waarschuwing en informatie om crises te voorkomen, door middel van inclusief beleid, en door de capaciteit van beroepsorganisaties op nationaal, regionaal en continentaal niveau op te bouwen. Zij vergemakkelijken de toegang tot landbouwgrond en erfrechten, ook voor familiebedrijven, jongeren en vrouwen.
 
-#### Artikel 18. Veestapel en leder
+##### Artikel 18. Veestapel en leder
 
 1. De Partijen werken samen om de duurzame veeteelt, de nomadische veeteelt en de grensoverschrijdende verweiding te verbeteren, om waardeketens voor de veestapel te ontwikkelen, onder meer door de capaciteit van beroepsorganisaties te vergroten, en om de verwerking, instandhouding, handel en ontwikkeling van dierlijke producten zoals leder, melk en vlees te ondersteunen, rekening houdend met ecologische duurzaamheid, klimaatbestendigheid, sociaal- economische ontwikkeling en inclusieve groei. Zij werken ook samen om de infrastructuur voor de verwerking en afzet van vee en dierlijke producten te moderniseren teneinde de toegang tot de markten te vergemakkelijken en de interregionale markten in Afrika te versterken.
 
@@ -1606,7 +1617,7 @@ De Partijen bevorderen inclusieve en duurzame economische groei en ontwikkeling 
 
 3. De Partijen werken samen om de diergezondheid te verbeteren, de veterinaire diensten te versterken en het duurzame beheer van de landbouw en veeteelt te waarborgen. Zij moedigen de totstandbrenging van passende nationale en regionale regelgevingskaders en de versterking van de veterinaire onderzoekscapaciteit aan. Zij werken samen om de risico’s van grensoverschrijdende dierziekten aan te pakken door de monitoringmechanismen en grensoverschrijdende epidemiologische samenwerking te versterken.
 
-#### Artikel 19. De blauwe economie en visserij
+##### Artikel 19. De blauwe economie en visserij
 
 1. De Partijen ondersteunen de blauwe economie door duurzame economische groei te verzoenen met een beter inkomen, sociale rechtvaardigheid, de instandhouding van ecosystemen op zee en op land en van de biodiversiteit en klimaatbestendigheid ervan, en door de voedselzekerheid en transparante, betrouwbare en veilige voedselsystemen te versterken.
 
@@ -1624,7 +1635,7 @@ De Partijen bevorderen inclusieve en duurzame economische groei en ontwikkeling 
 
 8. De Partijen ondersteunen de uitvoering van strategieën en actieplannen voor de blauwe economie. Zij vergemakkelijken de betrokkenheid van de private sector en andere belanghebbenden bij de ontwikkeling en uitvoering van een duurzame blauwe economie. Zij besteden de nodige aandacht aan de ontwikkeling van kleine eilandstaten in ontwikkeling, waarbij zij erkennen dat deze afhankelijk zijn van de oceaan.
 
-#### Artikel 20. Winningsindustrieën en verwerking
+##### Artikel 20. Winningsindustrieën en verwerking
 
 1. De Partijen bevorderen de winningsindustrie met het oog op inclusieve en duurzame groei en ontwikkeling en de transformatie van Afrikaanse economieën. De Partijen stimuleren investeringen in winningsindustrieën en verwerking, rekening houdend met het beginsel van de soevereiniteit van landen over natuurlijke hulpbronnen. Zij bevorderen een grotere integratie tussen de waardeketens van Afrika en de EU.
 
@@ -1636,7 +1647,7 @@ De Partijen bevorderen inclusieve en duurzame economische groei en ontwikkeling 
 
 5. De Partijen ondersteunen de ontwikkeling van passende wetgeving en mechanismen, rekening houdend met de behoeften van mijnwerkers in de ambachtelijke en kleinschalige ontginning, lokale gemeenschappen en het maatschappelijk middenveld, en bevorderen hun betrokkenheid bij het waarborgen van een inclusieve en duurzame exploitatie van bodemschatten. Zij bevorderen milieuduurzaamheid, klimaatslimme praktijken, fatsoenlijke arbeidsomstandigheden, de gezondheid en veiligheid van lokale gemeenschappen en de eerbiediging van de mensenrechten in overeenstemming met internationale verplichtingen en verbintenissen. Zij werken samen om de productiecapaciteit van lokale ondernemers in de waardeketens van de mijnbouwsector en van mijnwerkers in de ambachtelijke en kleinschalige ontginning op te bouwen, en bevorderen sociale partnerschappen tussen mijnbouwondernemingen, lokale gemeenschappen en andere belanghebbenden. Zij bevorderen nationale en regionale karterings- en exploratieactiviteiten om de kwaliteit van de systemen voor het beheer van geologische informatie en geodata in Afrika te verbeteren.
 
-#### Artikel 21. Maakindustrie
+##### Artikel 21. Maakindustrie
 
 1. De Partijen werken samen om een duurzame maakindustrie in Afrika te bevorderen door strategieën op maat te ontwikkelen die erop gericht zijn de afhankelijkheid van goedkope primaire productie te verminderen en toegevoegde waarde op lokaal en regionaal niveau tot stand te brengen.
 
@@ -1646,7 +1657,7 @@ De Partijen bevorderen inclusieve en duurzame economische groei en ontwikkeling 
 
 4. De Partijen ondersteunen inspanningen om de handel in industrieproducten te vergroten door middel van koppelingen met markten en handelsfacilitatie, onder meer met het oog op betere kwaliteitsnormen en infrastructuur. Zij versterken de regionale integratie om het productiepotentieel van Afrika te ontsluiten en het Afrikaans concurrentievermogen op de wereldmarkten te verbeteren.
 
-#### Artikel 22. Diensten
+##### Artikel 22. Diensten
 
 1. De Partijen nemen maatregelen die de ontwikkeling van een dynamische en robuuste dienstensector ondersteunen om de weg vrij te maken voor meer handel in diensten, uitvoer en investeringen en voor versterkte regionale integratie en interregionale samenwerking.
 
@@ -1656,7 +1667,7 @@ De Partijen bevorderen inclusieve en duurzame economische groei en ontwikkeling 
 
 4. De Partijen werken samen om de capaciteit voor het verlenen van diensten in verband met de culturele en de creatieve sector te versterken.
 
-#### Artikel 23. Vervoer
+##### Artikel 23. Vervoer
 
 1. De Partijen werken samen om moderne, veilige, zekere en duurzame vervoerssystemen tot stand te brengen die de interconnectiviteit binnen Afrika en tussen Afrika en de EU versterken.
 
@@ -1666,7 +1677,7 @@ De Partijen bevorderen inclusieve en duurzame economische groei en ontwikkeling 
 
 4. De Partijen werken samen in de luchtvaartsector, onder meer door de totstandbrenging en versterking van de eengemaakte Afrikaanse markt voor luchtvervoer te ondersteunen. Zij stimuleren investeringen, verbreden en verdiepen de samenwerking op regelgevingsgebied en verbeteren de veiligheid en beveiliging van en het toezicht op het luchtruim, met inbegrip van hun vermogen om te reageren op de hieraan gerelateerde dreigingen en risico’s.
 
-#### Artikel 24. Duurzame energie
+##### Artikel 24. Duurzame energie
 
 1. De Partijen streven ernaar de toegang tot duurzame en betaalbare energie te versnellen, veerkrachtige energie-infrastructuur te ontwikkelen, met name in plattelandsgebieden, en de ontwikkeling van hernieuwbare energie en efficiënt energiegebruik te bevorderen. Zij bevorderen het gebruik van de meest efficiënte energie- en koolstofarme technologieën in alle sectoren, met name in de landbouw, de maakindustrie, de winningsindustrieën en het toerisme.
 
@@ -1680,7 +1691,7 @@ De Partijen bevorderen inclusieve en duurzame economische groei en ontwikkeling 
 
 6. De Partijen ondersteunen sectorale hervormingen en de ontwikkeling van passende regelgevings- en beleidskaders om regionale interconnectiviteit en samenwerking op het gebied van energie te waarborgen. Zij versterken regionale energieconsortia als vehikel voor geïntegreerde grensoverschrijdende energiemarkten en handel.
 
-#### Artikel 25. ICT en de digitale economie
+##### Artikel 25. ICT en de digitale economie
 
 1. De Partijen verbeteren de toegang tot open, betaalbare en veilige ICT, onder meer door private en publieke investeringen te ondersteunen. Zij streven ernaar de nodige regelgevende instanties op te richten om vergunningen te verlenen aan dienstverleners, concurrerend handelen te bevorderen en te zorgen voor de eerlijke behandeling van consumenten en voor gegevens- en consumentenbescherming.
 
@@ -1690,7 +1701,7 @@ De Partijen bevorderen inclusieve en duurzame economische groei en ontwikkeling 
 
 4. De Partijen ondersteunen de transitie naar kenniseconomieën.
 
-#### Artikel 26. Toerisme
+##### Artikel 26. Toerisme
 
 1. De Partijen werken samen om een gunstig klimaat te scheppen voor een evenwichtige en duurzame ontwikkeling van het toerisme, dat de economische ontwikkeling bevordert, werkgelegenheid genereert en de integratie van ecologische, culturele en sociale overwegingen bevordert, onder meer door uitdagingen aan te pakken die specifiek zijn voor de toeristische sector.
 
@@ -1702,11 +1713,11 @@ De Partijen bevorderen inclusieve en duurzame economische groei en ontwikkeling 
 
 ### HOOFDSTUK 3. WETENSCHAP, TECHNOLOGISCHE ONTWIKKELING, ONDERZOEK EN INNOVATIE
 
-#### Artikel 27. Wetenschap en technologische ontwikkeling
+##### Artikel 27. Wetenschap en technologische ontwikkeling
 
 De Partijen versterken de samenwerking op het gebied van wetenschap en technologie tot wederzijds voordeel, met als doel de sociale en economische ontwikkeling te bevorderen, mondiale maatschappelijke uitdagingen aan te pakken en het regionale concurrentievermogen te verbeteren.
 
-#### Artikel 28. Onderzoek en innovatie
+##### Artikel 28. Onderzoek en innovatie
 
 1. De Partijen komen overeen middelen vrij te maken om onderzoeks- en innovatieactiviteiten ter ondersteuning van inclusieve economische groei en ontwikkeling en de overgang naar kennismaatschappijen en -economieën te bevorderen.
 
@@ -1714,7 +1725,7 @@ De Partijen versterken de samenwerking op het gebied van wetenschap en technolog
 
 3. De Partijen bevorderen en ondersteunen innovatieve mobiliteits- en opleidingsprogramma’s voor studenten, academici en onderzoekers en bouwen de capaciteit van instellingen voor hoger onderwijs op om doeltreffend samen te werken op het gebied van onderzoek en innovatie. Zij stimuleren dialoog, kennisuitwisseling en samenwerking tussen de academische gemeenschap, onderzoekers en innovators en de private sector teneinde de productiviteit en het concurrentievermogen te vergroten en de ecosystemen voor ondernemerschap te versterken.
 
-#### Artikel 29. Ruimte- en geospatiale technologie
+##### Artikel 29. Ruimte- en geospatiale technologie
 
 1. De Partijen benutten de potentiële voordelen van ruimtewetenschap, -technologie, -innovatie en -toepassingen met betrekking tot onderwerpen van gemeenschappelijk belang op het gebied van civiele ruimteactiviteiten, zoals ruimteonderzoek, toepassingen en diensten voor wereldwijde satellietnavigatiesystemen, de ontwikkeling van satellietaugmentatiesystemen, aardobservatie en aardwetenschap, met name het gebruik van vroegtijdige waarschuwing en surveillance. Zij werken samen aan de ontwikkeling van een verantwoorde en duurzame ruimtevaartmarkt en -industrie die hun respectieve behoeften bevordert en daarop inspeelt.
 
@@ -1722,13 +1733,13 @@ De Partijen versterken de samenwerking op het gebied van wetenschap en technolog
 
 ## TITEL II. MENSELIJKE EN SOCIALE ONTWIKKELING
 
-#### Artikel 30
+##### Artikel 30
 
 De Partijen streven ernaar armoede in al haar vormen uiterlijk tegen 2030 uit te bannen, ongelijkheid te bestrijden, gendergelijkheid te verwezenlijken en de voorwaarden te scheppen om iedereen in staat te stellen een waardig leven te leiden, deel te nemen aan het democratische bestel en een actieve bijdrage te leveren aan duurzame economische groei. Zij bevorderen de sociale bescherming met het oog op het uitbannen van armoede en het bestrijden van ongelijkheden en als middel om een zelfversterkende cyclus voor inclusieve, rechtvaardige en duurzame ontwikkeling tot stand te brengen. Zij investeren in menselijk kapitaal als integraal onderdeel van menselijke en sociale ontwikkeling en als een manier om de inzetbaarheid van jongeren te vergroten met het oog op een hogere productiviteit en meer ondernemerschap.
 
 ### HOOFDSTUK 1. MENSELIJKE ONTWIKKELING
 
-#### Artikel 31. Onderwijs
+##### Artikel 31. Onderwijs
 
 1. De Partijen streven naar universele, inclusieve en billijke toegang tot kwaliteitsonderwijs op alle niveaus, van kleuter- tot hoger onderwijs, met meer inschrijvingen en een geringere onderwijsuitval. Zij verbeteren de kwaliteit van formeel onderwijs en niet-formeel leren, werken samen bij de ontwikkeling van leerplannen en verbeteren de infrastructuur en uitrusting van onderwijscentra. Zij besteden bijzondere aandacht aan de specifieke behoeften van vrouwen en meisjes, alsook aan de meest kwetsbare en gemarginaliseerde groepen, waaronder personen met een handicap, en aan personen in een noodsituatie en kwetsbare groepen.
 
@@ -1738,7 +1749,7 @@ De Partijen streven ernaar armoede in al haar vormen uiterlijk tegen 2030 uit te
 
 4. De Partijen werken samen om de erkenning en transparantie van kwalificaties en een betere kwaliteitsborging en relevantie aan te moedigen. Zij verhogen de steun voor specifieke initiatieven voor de bevordering van de mobiliteit van studenten, personeel, universiteitsmedewerkers en onderzoekers tussen Afrika en de EU. Zij bevorderen partnerschappen tussen instellingen en bevorderen de ontwikkeling en de overdracht van kennis.
 
-#### Artikel 32. Gezondheid
+##### Artikel 32. Gezondheid
 
 1. De Partijen streven naar universele gezondheidszorgdekking en billijke toegang tot hoogwaardige essentiële gezondheidsdiensten, onder meer door versterking van de nationale gezondheidszorgstelsels en goed werkende moderne gezondheidszorgfaciliteiten.
 
@@ -1750,7 +1761,7 @@ De Partijen streven ernaar armoede in al haar vormen uiterlijk tegen 2030 uit te
 
 5. De Partijen werken samen aan de bevordering van lokale kennis en de regulering van de traditionele geneeskunde in het kader van activiteiten op het gebied van de volksgezondheid.
 
-#### Artikel 33. Water, sanitaire voorzieningen en huisvesting
+##### Artikel 33. Water, sanitaire voorzieningen en huisvesting
 
 1. De Partijen streven ernaar dat iedereen toegang heeft tot een moderne leefbare woonomgeving met hoogwaardige basisvoorzieningen.
 
@@ -1762,7 +1773,7 @@ De Partijen streven ernaar armoede in al haar vormen uiterlijk tegen 2030 uit te
 
 5. De Partijen verbeteren de toegang tot duurzame energiediensten voor iedereen en ondersteunen de efficiëntie van het energieverbruik van huishoudens.
 
-#### Artikel 34. Voedselzekerheid en betere voeding
+##### Artikel 34. Voedselzekerheid en betere voeding
 
 1. De Partijen verbeteren de toegang tot veilige en voedzame levensmiddelen om honger, hongersnoden en andere voedselcrises volledig uit te bannen. Zij ondersteunen de totstandbrenging van adequate systemen voor voedselvoorziening en -opslag.
 
@@ -1772,7 +1783,7 @@ De Partijen streven ernaar armoede in al haar vormen uiterlijk tegen 2030 uit te
 
 ### HOOFDSTUK 2. ONGELIJKHEID EN SOCIALE COHESIE
 
-#### Artikel 35. Ongelijkheid en sociale bescherming
+##### Artikel 35. Ongelijkheid en sociale bescherming
 
 1. De Partijen bevorderen de ontwikkeling en uitvoering van beleid en stelsels voor sociale bescherming en zekerheid om armoede uit te bannen, ongelijkheden te bestrijden en de sociale samenhang te versterken.
 
@@ -1786,7 +1797,7 @@ De Partijen streven ernaar armoede in al haar vormen uiterlijk tegen 2030 uit te
 
 6. De Partijen bevorderen en faciliteren de dialoog tussen werkgevers- en werknemersorganisaties in de formele en informele economie, en tussen maatschappelijke organisaties, onder meer door capaciteitsopbouw.
 
-#### Artikel 36. Waardig werk
+##### Artikel 36. Waardig werk
 
 1. De Partijen ondersteunen de ontwikkeling en uitvoering van macro-economisch, werkgelegenheids- en sociaal beleid dat gericht is op het scheppen van volledige en productieve werkgelegenheid en waardig werk voor iedereen, in het bijzonder voor jongeren en vrouwen en kwetsbare personen en groepen.
 
@@ -1796,7 +1807,7 @@ De Partijen streven ernaar armoede in al haar vormen uiterlijk tegen 2030 uit te
 
 4. De Partijen streven naar de uitbanning van kinderarbeid, waarbij voorrang wordt gegeven aan de ergste vormen van kinderarbeid.
 
-#### Artikel 37. Personen met een handicap
+##### Artikel 37. Personen met een handicap
 
 1. De Partijen bevorderen, beschermen en waarborgen het volledige en gelijke genot van alle mensenrechten door alle personen met een handicap, met het oog op de doeltreffende uitvoering van het [VN-Verdrag inzake de rechten van personen met een handicap](onbekend).
 
@@ -1806,7 +1817,7 @@ De Partijen streven ernaar armoede in al haar vormen uiterlijk tegen 2030 uit te
 
 4. De Partijen bevorderen gelijke toegang tot de arbeidsmarkt, waarbij elke discriminatie op grond van handicap met betrekking tot alle vormen en voorwaarden van arbeid wordt verboden. Zij ondersteunen de indienstneming van personen met een handicap in de publieke en private sector door middel van gericht beleid en gerichte stimuleringsmaatregelen, onder meer voor zelfstandige arbeid en ondernemerschap.
 
-#### Artikel 38. Cultuur, sport en interpersoonlijke contacten
+##### Artikel 38. Cultuur, sport en interpersoonlijke contacten
 
 1. De Partijen ondersteunen cultuur als motor voor duurzame economische ontwikkeling. Zij creëren een gunstig klimaat voor culturele innovatie, diversiteit en ontwikkeling, alsook voor de creatie, bescherming, productie en distributie van culturele werken. Zij moedigen het gebruik van nieuwe informatie- en communicatietechnologieën aan om hun cultuur te bevorderen.
 
@@ -1820,7 +1831,7 @@ De Partijen streven ernaar armoede in al haar vormen uiterlijk tegen 2030 uit te
 
 ### HOOFDSTUK 3. BEVOLKING EN ONTWIKKELING
 
-#### Artikel 39. Demografie
+##### Artikel 39. Demografie
 
 1. De Partijen erkennen de noodzaak om de kansen die demografische veranderingen bieden en de problemen die zij met zich meebrengen, te beheren om beter tegemoet te komen aan de aspiraties en verwachtingen van toekomstige generaties in Afrika en de EU.
 
@@ -1828,7 +1839,7 @@ De Partijen streven ernaar armoede in al haar vormen uiterlijk tegen 2030 uit te
 
 3. De Partijen versterken de positie van en investeren in jongeren en vrouwen, met erkenning van hun cruciale rol in demografische processen. Zij bevorderen de mensenrechten van vrouwen en jongeren en voorzien hen van het onderwijs en de vaardigheden die zij nodig hebben. Zij mobiliseren investeringen en ontsluiten economische kansen om het potentieel van grote jongerengroepen te benutten.
 
-#### Artikel 40. Gendergelijkheid en versterking van de positie van vrouwen
+##### Artikel 40. Gendergelijkheid en versterking van de positie van vrouwen
 
 1. De Partijen versterken de samenwerking met het oog op het verbeteren en uitbreiden van gelijke participatie en gelijke kansen voor iedereen in alle sectoren van het politieke, economische, sociale en culturele leven. Zij zorgen ervoor dat het genderperspectief systematisch wordt geïntegreerd in alle beleidsdomeinen en programma’s.
 
@@ -1842,7 +1853,7 @@ De Partijen streven ernaar armoede in al haar vormen uiterlijk tegen 2030 uit te
 
 6. De Partijen zetten zich in voor de volledige en doeltreffende uitvoering van de Verklaring en het Actieprogramma van Peking en het Actieprogramma van de Internationale Conferentie over Bevolking en Ontwikkeling en de resultaten van de toetsingsconferenties daarvan. Zij benadrukken voorts de noodzaak van universele toegang tot hoogwaardige, betaalbare en volledige informatie en voorlichting over seksuele en reproductieve gezondheid, rekening houdend met de internationale technische richtsnoeren van de Unesco inzake seksuele voorlichting en de noodzaak van de verstrekking van de desbetreffende gezondheidsdiensten. Zij bevorderen en stimuleren de ratificatie en daadwerkelijke uitvoering van het Protocol inzake de rechten van vrouwen in Afrika bij het Afrikaanse Handvest inzake de rechten van de mens en de volkeren, gedaan te Banjul op 26 juni 1981 (het „Protocol van Maputo”), en ondersteunen de daadwerkelijke uitvoering van het actieplan van Maputo 2016-2030, naargelang het geval.
 
-#### Artikel 41. Jongeren
+##### Artikel 41. Jongeren
 
 1. De Partijen ondersteunen ondernemerschap bij jongeren en verbinden zich ertoe te zorgen voor duurzame werkgelegenheid voor jongeren, onder meer door hen te ondersteunen bij de verwerving van voor de arbeidsmarkt relevante vaardigheden door middel van onderwijs, beroepsopleiding en technische opleiding, en betere toegang tot digitale technologieën, en door de toegang tot grond en krediet te vergemakkelijken. Zij richten op jongeren afgestemde diensten voor arbeidsvoorziening op om jongeren in contact te brengen met arbeidskansen.
 
@@ -1850,7 +1861,7 @@ De Partijen streven ernaar armoede in al haar vormen uiterlijk tegen 2030 uit te
 
 3. De Partijen steunen initiatieven die erop gericht zijn de toegang tot hoogwaardige basisdiensten voor alle kinderen te waarborgen, de rekrutering en inzet van kinderen in conflictsituaties te voorkomen en een einde te stellen aan alle vormen van geweld en schadelijke praktijken ten aanzien van kinderen, waaronder kindhuwelijken, huwelijken op jonge leeftijd en gedwongen huwelijken, kinderarbeid, kindermishandeling en lijfstraffen, met bijzondere aandacht voor kinderen in kwetsbare situaties.
 
-#### Artikel 42. Duurzame stedelijke en plattelandsontwikkeling
+##### Artikel 42. Duurzame stedelijke en plattelandsontwikkeling
 
 1. De Partijen stimuleren het potentieel van steden als hubs voor duurzame en inclusieve groei en innovatie.
 
@@ -1860,13 +1871,13 @@ De Partijen streven ernaar armoede in al haar vormen uiterlijk tegen 2030 uit te
 
 ## TITEL III. MILIEU, BEHEER VAN NATUURLIJKE HULPBRONNEN EN KLIMAATVERANDERING
 
-#### Artikel 43
+##### Artikel 43
 
 De Partijen nemen ambitieuze maatregelen om de klimaatverandering te matigen en zich eraan aan te passen, de kwaliteit van het milieu te beschermen en te verbeteren, en natuurlijke hulpbronnen duurzaam te beheren, teneinde de klimaatverandering en de aantasting van het milieu een halt toe te roepen en om te buigen, en duurzame ontwikkeling tot stand te brengen. Zij stellen specifieke maatregelen vast om het verlies aan biodiversiteit terug te dringen en te voorkomen, ecosystemen in stand te houden en te herstellen, in het wild levende planten en dieren te beschermen en illegale handel van in het wild levende planten en dieren te bestrijden, duurzaam beheer van water, land en andere natuurlijke hulpbronnen te bevorderen, de oceaangovernance te versterken, alle vormen van verontreiniging te bestrijden, een degelijk afvalbeheer te bevorderen en de weerbaarheid ten aanzien van natuurrampen te vergroten. Zij werken samen om te voorkomen dat de gevolgen van de klimaatverandering en milieuaantasting een dreigingsmultiplicator blijven met ernstige gevolgen voor vrede en veiligheid. Zij versnellen de overgang naar groenere ontwikkelingstrajecten in belangrijke economische sectoren, bevorderen circulaire economieën en hulpbronnenefficiëntie en ondersteunen schone en duurzame energie en koolstofarme technologieën, waarbij wordt gewaarborgd dat economische groei hand in hand gaat met de overgang naar emissiearme en ecologische duurzaamheid. Zij streven naar de totstandkoming van doeltreffende allianties in een internationaal kader om mondiale actie voort te stuwen. Zij bouwen capaciteit op voor de uitvoering van multilaterale milieuovereenkomsten waarbij zij partij zijn en integreren milieuduurzaamheid, klimaatveranderingsdoelstellingen en het streven naar ecologisch duurzame groei in nationaal en lokaal beleid, plannen en investeringen. Zij bevorderen de constructieve betrokkenheid van lokale autoriteiten, het maatschappelijk middenveld en de private sector en de eerbiediging van de rechten van iedereen, met inbegrip van inheemse volkeren, zoals vastgelegd in de VN-Verklaring over de rechten van inheemse volken en lokale gemeenschappen.
 
 ### HOOFDSTUK 1. MILIEUDUURZAAMHEID EN BEHEER VAN NATUURLIJKE HULPBRONNEN
 
-#### Artikel 44. Biodiversiteit en ecosystemen
+##### Artikel 44. Biodiversiteit en ecosystemen
 
 1. De Partijen werken samen om ervoor te zorgen dat de biodiversiteit en ecosystemen in stand worden gehouden, beschermd en hersteld, zodat de belangrijke economische, sociale en culturele diensten die zij leveren, het menselijk welzijn en de economische groei blijven ondersteunen. Zij ontwikkelen en implementeren nationale biodiversiteitsstrategieën en actieplannen in overeenstemming met het [Verdrag inzake biologische diversiteit](onbekend) en de bijbehorende Protocollen.
 
@@ -1878,7 +1889,7 @@ De Partijen nemen ambitieuze maatregelen om de klimaatverandering te matigen en 
 
 5. De Partijen versterken de betrokkenheid van lokale gemeenschappen en inheemse volkeren, zoals bepaald in de Verklaring van de Verenigde Naties over de rechten van inheemse volken, bij het behoud van ecosystemen, onder meer door het bevorderen van milieuvriendelijk en duurzaam toerisme en het creëren van werkgelegenheid en andere economische kansen.
 
-#### Artikel 45. Circulaire economie
+##### Artikel 45. Circulaire economie
 
 1. De Partijen voorkomen of beperken de productie van afval bij de bron. Zij verbeteren de herbruikbaarheid, recycleerbaarheid en hulpbronnenefficiëntie van producten om de productie en de consumptie ervan af te stemmen op de verwezenlijking van een circulaire economie, onder meer door adequate afvalinzameling en sortering en milieuvriendelijke recyclinginitiatieven en -faciliteiten. Zij verbinden zich ertoe beleid inzake de circulaire economie vast te stellen om het milieu en de menselijke gezondheid te beschermen, producten energie- en hulpbronnenefficiënter te maken, de keuze voor de consument te verruimen en het afvalbeheer te verbeteren.
 
@@ -1886,7 +1897,7 @@ De Partijen nemen ambitieuze maatregelen om de klimaatverandering te matigen en 
 
 3. De Partijen pakken alle vormen van verontreiniging doeltreffend aan. Zij nemen maatregelen met het oog op de opsporing, preventie en mededeling van verontreiniging. Zij intensiveren hun inspanningen om plasticverontreiniging te voorkomen en plastic en microplastics uit het milieu te verwijderen. Zij onderzoeken mogelijkheden voor nauwere samenwerking bij de bestrijding van luchtverontreiniging. Zij vergroten het bewustzijn met betrekking tot de risico’s van verontreiniging voor de volksgezondheid en het milieu en de vele voordelen van een betere luchtkwaliteit, onder meer door middel van voorlichtingscampagnes.
 
-#### Artikel 46. Oceaangovernance
+##### Artikel 46. Oceaangovernance
 
 1. De Partijen versterken de oceaangovernance in overeenstemming met het [VN-Verdrag inzake het recht van de zee](onbekend) (Unclos) om te zorgen voor veilige, zekere, schone en duurzaam beheerde oceanen, de druk op oceanen en zeeën te verminderen, de duurzame ontwikkeling van de blauwe economie te bevorderen en de kennis over oceanen te verbeteren.
 
@@ -1904,7 +1915,7 @@ De Partijen nemen ambitieuze maatregelen om de klimaatverandering te matigen en 
 
 8. De Partijen erkennen de algemene bezorgdheid over de impact van zeebodemmijnbouw op het mariene milieu en de biodiversiteit daarvan. Zij maken gebruik van de beste beschikbare wetenschappelijke kennis, passen het voorzorgsbeginsel en de ecosysteembenadering toe, bevorderen onderzoek en delen beste praktijken op gebieden van wederzijds belang die verband houden met de minerale rijkdommen van de zeebodem, teneinde een degelijk ecologisch beheer van activiteiten voor de bescherming en het behoud van het mariene milieu en de biodiversiteit ervan te waarborgen.
 
-#### Artikel 47. Landbeheer en bodemdegradatie
+##### Artikel 47. Landbeheer en bodemdegradatie
 
 1. De Partijen werken samen om bodemdegradatie te voorkomen en geïntegreerde langetermijnstrategieën voor het behoud en het duurzame beheer van land te ontwikkelen.
 
@@ -1912,7 +1923,7 @@ De Partijen nemen ambitieuze maatregelen om de klimaatverandering te matigen en 
 
 3. De Partijen nemen maatregelen met het oog op doeltreffende ruimtelijke ordening en infrastructuur die de weerbaarheid in risicogevoelige landen versterken en tegelijkertijd de responscapaciteit bij rampen vergroten. Zij plannen en implementeren mitigatie- en rehabilitatiemaatregelen op basis van beste praktijken, de beste wetenschappelijke kennis, en lokale kennis en ervaring in door bodemdegradatie getroffen gebieden.
 
-#### Artikel 48. Bossen
+##### Artikel 48. Bossen
 
 1. De Partijen bevorderen duurzaam bosbeheer en duurzaam gebruik van bosbestanden. Zij roepen ontbossing en bosdegradatie een halt toe en bestrijden illegale houtkap en de daarmee samenhangende handel.
 
@@ -1924,7 +1935,7 @@ De Partijen nemen ambitieuze maatregelen om de klimaatverandering te matigen en 
 
 5. De Partijen versterken de betrokkenheid van lokale autoriteiten en gemeenschappen bij bosbescherming. Zij maken het publiek op alle niveaus meer bewust van ontbossing en moedigen het verbruik aan van hulpbronnen- en energie-efficiënte producten afkomstig van duurzaam beheerde bossen. Zij bevorderen en ondersteunen het gebruik van alternatieve en duurzame kookbrandstof voor de plaatselijke bevolking.
 
-#### Artikel 49. In het wild levende dieren
+##### Artikel 49. In het wild levende dieren
 
 1. De Partijen ondersteunen het behoud in situ van de belangrijkste Afrikaanse landschappen voor de instandhouding van de biodiversiteit, in het bijzonder grensoverschrijdende beschermde gebieden die habitats zijn voor belangrijke in het wild levende soorten en die adequate connectiviteit mogelijk maken zodat in het wild levende dieren kunnen migreren en hun verspreidingsgebied aan de klimaatverandering kan worden aangepast. Zij versterken ook de agentschappen die verantwoordelijk zijn voor beschermde gebieden en bevorderen de betrokkenheid van plattelandsgemeenschappen bij het duurzame beheer van in het wild levende dieren en bosgebieden.
 
@@ -1932,7 +1943,7 @@ De Partijen nemen ambitieuze maatregelen om de klimaatverandering te matigen en 
 
 3. De Partijen ondersteunen inspanningen om de duurzame consumptie van bushmeat te bevorderen en tegelijkertijd betaalbare alternatieve eiwitbronnen te ontwikkelen en duurzame bestaansmiddelen te ontwikkelen.
 
-#### Artikel 50. Water- en zoetwaterbeheer
+##### Artikel 50. Water- en zoetwaterbeheer
 
 1. De Partijen beheren hun watervoorraden op duurzame wijze teneinde een hoog kwantitatief en kwalitatief niveau te handhaven. Zij bevorderen een geïntegreerd beheer van de watervoorraden en voeren beleid uit voor de planning, de instandhouding, het beheer, het gebruik en de ontwikkeling van grond- en oppervlaktewater en de opvang en het gebruik van regenwater. Zij beschermen en herstellen waterbronnen en ecosystemen, voorkomen waterverontreiniging, verzamelen en behandelen afvalwater en maken milieuvriendelijke stadsontwikkeling mogelijk. Zij optimaliseren de bijdrage van de watersector aan de beperking van en aanpassing aan de klimaatverandering.
 
@@ -1944,7 +1955,7 @@ De Partijen nemen ambitieuze maatregelen om de klimaatverandering te matigen en 
 
 ### HOOFDSTUK 2. KLIMAATVERANDERING EN NATUURRAMPEN
 
-#### Artikel 51. Klimaatactie
+##### Artikel 51. Klimaatactie
 
 1. De Partijen streven de doelstellingen na en laten zich leiden door de beginselen van het [Raamverdrag van de VN inzake klimaatverandering](onbekend). Zij stellen omvattende en inclusieve binnenlandse klimaatbeleidsmaatregelen en -programma’s vast om de uitvoering van de [Overeenkomst van Parijs](onbekend) te versnellen.
 
@@ -1964,13 +1975,13 @@ De Partijen nemen ambitieuze maatregelen om de klimaatverandering te matigen en 
 
 9. De Partijen versterken de coördinatie op alle bestuursniveaus om lokale autoriteiten aan te moedigen en in staat te stellen ambitieuze klimaat- en energieverbintenissen aan te gaan en uit te voeren. Zij bevorderen synergieën tussen overheidsdiensten, maatschappelijke organisaties en private ondernemingen en bevorderen de deelname van de private sector aan een klimaatveerkrachtige economie met lage broeikasgasemissies, onder meer door middel van gezamenlijk onderzoek. Zij bevorderen bestaande initiatieven zoals het mondiaal Burgemeestersconvenant voor klimaat en energie en ondersteunen de uitvoering van hun actieplannen.
 
-#### Artikel 52. Droogte en woestijnvorming
+##### Artikel 52. Droogte en woestijnvorming
 
 1. De Partijen bestrijden woestijnvorming door het landbeheer te verbeteren, de bestrijding van bodemaantasting tegen te gaan en land en water duurzaam te beheren. Zij versnellen de vooruitgang naar de uitvoering van de nationale actieplannen en de streefdoelen inzake neutraliteit van de bodemaantasting van het [VN-Verdrag ter bestrijding van woestijnvorming](onbekend), gedaan te Parijs op 17 juni 1994, alsmede andere relevante internationale en regionale initiatieven, met inbegrip van het Great Green Wall-initiatief.
 
 2. De Partijen werken samen om zich voor te bereiden en te reageren op noodsituaties als gevolg van droogte en streven ernaar de weerbaarheid ten aanzien van milieuaantasting, woestijnvorming, daarmee samenhangende bedreigingen voor de gezondheid en humanitaire crises te vergroten door de factoren die kwetsbaarheid veroorzaken aan te pakken.
 
-#### Artikel 53. Reactie op natuurrampen
+##### Artikel 53. Reactie op natuurrampen
 
 1. De Partijen werken samen om mensen, samenlevingen en infrastructuur beter bestand te maken tegen natuurrampen, rekening houdend met de gevolgen van klimaatverandering. Zij bevorderen de uitwisseling van informatie en goede praktijken inzake de uitvoering en monitoring van het kader van Sendai voor rampenrisicovermindering 2015-2030 door middel van nationale en lokale geïntegreerde strategieën.
 
@@ -1984,11 +1995,11 @@ De Partijen nemen ambitieuze maatregelen om de klimaatverandering te matigen en 
 
 ## TITEL IV. VREDE EN VEILIGHEID
 
-#### Artikel 54
+##### Artikel 54
 
 De Partijen bevorderen de samenwerking en coördinatie op regionaal, interregionaal, continentaal en mondiaal niveau bij de bevordering en handhaving van vrede en veiligheid in Afrika en Europa. Zij ondersteunen gezamenlijke inspanningen en mechanismen om vrede te waarborgen, terrorisme en gewelddadig extremisme te voorkomen en te bestrijden, alle vormen van georganiseerde misdaad en veiligheidsdreigingen aan te pakken en de maritieme veiligheid te verbeteren, rekening houdend met de complexiteit van al deze vraagstukken en de noodzaak om de onderliggende oorzaken ervan aan te pakken. Zij werken samen om te zorgen voor duurzame financiering van alle vredes- en veiligheidsactiviteiten.
 
-#### Artikel 55. Regionale en multilaterale samenwerking
+##### Artikel 55. Regionale en multilaterale samenwerking
 
 1. De Partijen versterken de dialoog en de institutionele samenwerking om uitdagingen op het gebied van vrede en veiligheid aan te pakken. Zij versterken de steun voor een efficiëntere operationalisering van APSA, zoals beoogd in de Agenda 2063. Zij bevorderen synergieën tussen APSA en AGA in overeenstemming met de hervormingsagenda van de AU.
 
@@ -1996,7 +2007,7 @@ De Partijen bevorderen de samenwerking en coördinatie op regionaal, interregion
 
 3. De Partijen bevorderen lokale verantwoordelijkheid, inclusiviteit, veerkracht en duurzaamheid van alle acties, in samenwerking met nationale en lokale autoriteiten, gemeenschappen en het maatschappelijk middenveld.
 
-#### Artikel 56. Conflicten en crises
+##### Artikel 56. Conflicten en crises
 
 1. De Partijen streven naar een vreedzame oplossing van alle conflicten tussen en binnen staten in Afrika. Zij passen een geïntegreerde aanpak van conflicten en crises toe die in overeenstemming is met het internationaal recht inzake de mensenrechten en het internationaal humanitair recht, waarbij zij hun strategische samenwerking verdiepen en hun gezamenlijke optreden in alle fasen van de conflictcyclus versterken, van preventie en vroegtijdige waarschuwing tot duurzame vredesopbouw, via bemiddeling, crisisbeheersing, stabilisatie en hervorming van de veiligheidssector.
 
@@ -2008,7 +2019,7 @@ De Partijen bevorderen de samenwerking en coördinatie op regionaal, interregion
 
 5. De Partijen bevorderen de agenda voor vrouwen, vrede en veiligheid en de agenda voor jongeren, vrede en veiligheid en versterken de actieve rol van vrouwen en jongeren in vrede en veiligheid, bij vroegtijdige waarschuwing, bemiddeling, conflictoplossing, vredesopbouw en vredeshandhaving, in overeenstemming met de desbetreffende resoluties van de VN-Veiligheidsraad, met name de Resoluties 1325 (2000) en 2250 (2015) van de VN-Veiligheidsraad, alsmede in het beleid en de besluiten van de AU en de EU.
 
-#### Artikel 57. Terrorisme, gewelddadig extremisme en radicalisering
+##### Artikel 57. Terrorisme, gewelddadig extremisme en radicalisering
 
 1. De Partijen voorkomen en bestrijden terrorisme in al zijn vormen, waarbij zij de factoren aanpakken die een gunstig klimaat kunnen scheppen voor gewelddadig extremisme en radicalisering, onder meer door bevordering van religieuze tolerantie en de interreligieuze dialoog, en zij reageren op de uitdagingen die voortvloeien uit de verbanden tussen terrorisme en transnationale georganiseerde misdaad, met volledige eerbiediging van de rechtsstaat en het internationaal recht, met inbegrip van het recht inzake de mensenrechten, het vluchtelingenrecht en het internationaal humanitair recht.
 
@@ -2020,7 +2031,7 @@ De Partijen bevorderen de samenwerking en coördinatie op regionaal, interregion
 
 5. De Partijen voorkomen dat plegers van terroristische daden, gewelddadig extremisme en radicalisering massavernietigingswapens verwerven.
 
-#### Artikel 58. Georganiseerde misdaad
+##### Artikel 58. Georganiseerde misdaad
 
 1. De Partijen pakken alle vormen van georganiseerde misdaad aan, met name mensenhandel, de smokkel in handvuurwapens en lichte wapens, illegale drugs, gevaarlijke materialen, cultuurgoederen en in het wild levende dieren, alsook milieucriminaliteit, door middel van beter grensbeheer, het verzamelen en delen van informatie en gegevens, en de uitwisseling van expertise en technische bijstand. Zij stellen wetgevings- en andere maatregelen vast in overeenstemming met het [Verdrag van de Verenigde Naties ter bestrijding van grensoverschrijdende georganiseerde misdaad](onbekend) en de aanvullende Protocollen daarbij.
 
@@ -2032,25 +2043,25 @@ De Partijen bevorderen de samenwerking en coördinatie op regionaal, interregion
 
 5. De Partijen stellen wetgeving vast en ontwikkelen initiatieven ter bestrijding van criminaliteit, met inbegrip van stedelijke criminaliteit en geweld. Zij bevorderen de controle op vuurwapens teneinde de negatieve gevolgen van gewapend geweld voor de samenleving en de bevolking te voorkomen en te beperken en een veilige omgeving voor duurzame ontwikkeling te creëren. Zij bestrijden alle vormen van geweld en ondersteunen slachtoffers van geweld.
 
-#### Artikel 59. Handvuurwapens en lichte wapens
+##### Artikel 59. Handvuurwapens en lichte wapens
 
 1. De Partijen bevorderen de doeltreffende uitvoering van het [Wapenhandelsverdrag](onbekend) en het [Protocol van de Verenigde Naties tegen de illegale vervaardiging van en handel in vuurwapens, hun onderdelen, componenten en munitie](onbekend). Zij ondersteunen het actieplan voor de uitvoering van de strategie van de Afrikaanse Unie inzake de beheersing van illegale proliferatie en illegaal verkeer van en illegale handel in handvuurwapens en lichte wapens en het VN-actieprogramma ter voorkoming, bestrijding en uitbanning van de illegale handel in handvuurwapens en lichte wapens in al zijn aspecten.
 
 2. De Partijen werken samen tegen de illegale verspreiding van en handel in handvuurwapens en lichte wapens die gewapende conflicten en terrorisme in stand houden en gewapende criminaliteit zoals veediefstal en stropen aanwakkeren, onder meer door middel van beter voorraadbeheer, de vernietiging van overtollige wapens en munitie, markering, registratie en tracering, en uitvoer- en invoercontroles.
 
-#### Artikel 60. Cyberbeveiliging en cybercriminaliteit
+##### Artikel 60. Cyberbeveiliging en cybercriminaliteit
 
 1. De Partijen streven ernaar wetgeving en maatregelen te ontwikkelen en uit te voeren om een open, vrije, veilige, stabiele, toegankelijke en vreedzame omgeving voor informatie- en communicatietechnologie te handhaven. Zij streven ernaar de ontwikkeling en uitvoering, binnen het kader van de VN, van internationaal aanvaarde normen voor verantwoord gedrag in cyberspace te bevorderen, met volledige inachtneming van de internationale verplichtingen op het gebied van de mensenrechten.
 
 2. De Partijen werken samen om cybercriminaliteit en de verspreiding van illegale online- inhoud te voorkomen en te bestrijden. Zij wisselen informatie uit op het gebied van onderwijs en opleiding van cybercriminaliteitsonderzoekers, het onderzoek naar cybercriminaliteit en digitale forensische wetenschap, waarbij een hoog niveau van gegevensbescherming wordt gewaarborgd. Zij bevorderen de cultuur van cyberbeveiliging en werken samen om cybercriminaliteit te voorkomen en te bestrijden, voortbouwend op bestaande internationale normen en standaarden, waaronder die van het [Verdrag van Boedapest inzake cybercriminaliteit](onbekend) en het Verdrag inzake cyberveiligheid en de bescherming van persoonsgegevens van de AU.
 
-#### Artikel 61. Illegale drugs
+##### Artikel 61. Illegale drugs
 
 1. De Partijen versterken de evenwichtige, geïntegreerde en empirisch onderbouwde aanpak van hun drugsbeleid. Zij streven ernaar de teelt en productie van en de handel in illegale drugs en psychoactieve stoffen te voorkomen en te bestrijden, onder meer door effectievere maatregelen ter preventie van drugsgerelateerde criminaliteit en rechtshandhavingsmaatregelen vast te stellen, in overeenstemming met de toepasselijke internationale verplichtingen op het gebied van de mensenrechten.
 
 2. De Partijen intensiveren en bespoedigen de inspanningen aan de vraagzijde, zetten preventie- en onderwijsprogramma’s op en nemen de nodige maatregelen om de gevolgen van drugs voor de gezondheid en de samenleving aan te pakken. Zij bevorderen de dialoog met de betrokken belanghebbenden, waaronder het maatschappelijk middenveld, de wetenschappelijke gemeenschap en de academische wereld, teneinde het gebruik van illegale drugs doeltreffend aan te pakken.
 
-#### Artikel 62. Maritieme veiligheid
+##### Artikel 62. Maritieme veiligheid
 
 1. De Partijen nemen initiatieven op nationaal, regionaal en continentaal niveau die bijdragen tot de verbetering van de maritieme veiligheid, met name in de Rode Zee, de Hoorn van Afrika, de Indische Oceaan en de Golf van Guinee. Zij bevorderen de samenwerking tussen de AU, de EU en de VN, en met regionale en subregionale organisaties, en moedigen de complementariteit van de inspanningen aan.
 
@@ -2062,7 +2073,7 @@ De Partijen bevorderen de samenwerking en coördinatie op regionaal, interregion
 
 5. De Partijen bevorderen en eerbiedigen de vrijheid van de volle zee, de vrijheid van scheepvaart en andere in het internationaal recht neergelegde beginselen, rechten en verplichtingen, en bevorderen de universele toepassing van [Unclos](onbekend) en andere relevante internationale rechtsinstrumenten.
 
-#### Artikel 63. Samenwerking inzake rechtshandhaving
+##### Artikel 63. Samenwerking inzake rechtshandhaving
 
 1. De Partijen versterken de dialoog en de samenwerking op het gebied van rechtshandhaving, onder meer via strategische samenwerking tussen organen van de AU zoals AFRIPOL en EU-organen zoals Europol, om het voorkomen, opsporen, onderzoeken en vervolgen van activiteiten van transnationale georganiseerde criminele en terroristische netwerken in Afrika en in de EU te faciliteren.
 
@@ -2074,11 +2085,11 @@ De Partijen bevorderen de samenwerking en coördinatie op regionaal, interregion
 
 ## TITEL V. MENSENRECHTEN, DEMOCRATIE EN GOED BESTUUR
 
-#### Artikel 64
+##### Artikel 64
 
 De Partijen bevorderen veerkrachtige, duurzame en inclusieve samenlevingen die verankerd zijn in verantwoordingsplichtige, doeltreffende en transparante instellingen en besluitvormingsprocessen op alle niveaus, waar mensenrechten, fundamentele vrijheden, de rechtsstaat en democratische beginselen worden geëerbiedigd, bevorderd en behartigd. Zij streven ernaar sneller vooruitgang te boeken op het gebied van gendergelijkheid. Zij zorgen voor een open en faciliterende ruimte voor personen en het maatschappelijk middenveld om uiting te geven aan hun verwachtingen en zorgen, hun mening kenbaar te maken en bijdragen te leveren aan alle politieke, economische, sociale en culturele aangelegenheden, en dragen zo bij tot het vergroten van het vertrouwen in de overheidsinstellingen.
 
-#### Artikel 65. Mensenrechten
+##### Artikel 65. Mensenrechten
 
 1. De Partijen zorgen voor de vaststelling en uitvoering van wetgeving die bijdraagt tot de bescherming, bevordering en verwezenlijking van de mensenrechten, ongeacht of het burgerrechten, politieke, economische, sociale of culturele rechten betreft. Zij ondersteunen de ratificatie, omzetting in nationale wetgeving en uitvoering van het Afrikaans Handvest van de rechten van de mens en de volkeren, alsmede de instrumenten van AGA.
 
@@ -2090,7 +2101,7 @@ De Partijen bevorderen veerkrachtige, duurzame en inclusieve samenlevingen die v
 
 5. De Partijen versterken de capaciteit van het maatschappelijk middenveld en beschermen mensenrechtenverdedigers die op nationaal, regionaal en continentaal niveau optreden. Zij werken samen om de mensenrechten onder de aandacht te brengen, onder meer door middel van samenwerking met nationale mensenrechteninstellingen, onderwijsstelsels en de media.
 
-#### Artikel 66. Gendergelijkheid
+##### Artikel 66. Gendergelijkheid
 
 1. De Partijen waarborgen gelijkheid voor de wet en gelijke toegang tot de rechter, met de wet ter bescherming en ten bate van iedereen. Zij nemen maatregelen met het oog op het garanderen, verbeteren en uitbreiden van gelijke participatie en gelijke kansen voor iedereen in alle sectoren van het politieke, economische, sociale en culturele leven. Zij zorgen ervoor dat het genderperspectief systematisch wordt geïntegreerd in alle beleidsdomeinen en programma’s.
 
@@ -2100,7 +2111,7 @@ De Partijen bevorderen veerkrachtige, duurzame en inclusieve samenlevingen die v
 
 4. De Partijen zorgen ervoor dat de geldende wetgeving het recht van vrouwen en meisjes erkent om volwaardig deel te nemen aan alle aspecten van het openbare leven en de voorwaarden en kansen schept voor vrouwen om gelijke functies te bekleden, onder meer op het gebied van politiek leiderschap en besluitvorming. Zij versterken de rol van vrouwen en bevorderen hun participatie op alle niveaus op het gebied van vrede en veiligheid en het voorkomen en oplossen van conflicten, geweld en extremisme.
 
-#### Artikel 67. Democratie
+##### Artikel 67. Democratie
 
 1. De Partijen bevorderen en versterken de universele waarden en beginselen van de democratie. Zij beschermen de scheiding der machten, bevorderen het politieke pluralisme en versterken de transparantie, de participatie en het vertrouwen in democratische processen, alsook het vertrouwen tussen politieke leiders en het volk, onder meer door de ratificatie en uitvoering van het Afrikaans Handvest inzake democratie, verkiezingen en bestuur te ondersteunen.
 
@@ -2112,7 +2123,7 @@ De Partijen bevorderen veerkrachtige, duurzame en inclusieve samenlevingen die v
 
 5. De Partijen bevorderen inclusieve en pluralistische samenlevingen. Zij heffen alle beperkingen van de vrijheid van vereniging, de vrijheid van meningsuiting en de vrijheid van vreedzame vergadering op. Zij vrijwaren en verbreden een faciliterende ruimte voor het maatschappelijk middenveld op het gebied van belangenbehartiging en beleidsvorming, en waarborgen vrije en onafhankelijke media, om ervoor te zorgen dat regeringen de hoogste normen inzake transparantie en verantwoordingsplicht bij het beheer van publieke aangelegenheden in acht nemen. De Partijen bevorderen een constructieve verhouding tussen overheid en burger en vergroten het bewustzijn van de democratische beginselen en mensenrechten, onder meer via de onderwijsstelsels en de media.
 
-#### Artikel 68. De rechtsstaat en justitie
+##### Artikel 68. De rechtsstaat en justitie
 
 1. De Partijen werken samen bij de consolidering van de rechtsstaat en de versterking van de instellingen op alle niveaus op het gebied van de rechtsbedeling. Zij handhaven de onafhankelijkheid van de rechterlijke macht en streven ernaar de onafhankelijke, onpartijdige en doeltreffende werking van het rechtsstelsel te waarborgen en de doeltreffende en billijke toegang van de burgers tot de rechter en tot rechtsbijstand te verbeteren.
 
@@ -2122,7 +2133,7 @@ De Partijen bevorderen veerkrachtige, duurzame en inclusieve samenlevingen die v
 
 4. De Partijen faciliteren justitiële hervormingen door te zorgen voor gemoderniseerde, transparante en efficiënte rechtsstelsels en -procedures, passende opleiding te bieden en de toegang tot wetgeving, jurisprudentie en andere juridische informatie te verbeteren, de penitentiaire stelsels te moderniseren, hun rehabilitatiefunctie te maximaliseren en schendingen van de mensenrechten door veiligheidstroepen aan te pakken.
 
-#### Artikel 69. Goed bestuur
+##### Artikel 69. Goed bestuur
 
 1. De Partijen ondersteunen inspanningen om goed bestuur te consolideren door een democratische cultuur en praktijk te bevorderen, verantwoordelijke, transparante en responsieve bestuursorganen op alle niveaus op te bouwen en te versterken, en politiek pluralisme, transparantie en verdraagzaamheid ingang te doen vinden. Zij ondersteunen de volledige uitvoering van de instrumenten van AGA en moedigen een doeltreffende coördinatie en harmonisatie van het bestuur tussen Afrikaanse staten aan.
 
@@ -2130,7 +2141,7 @@ De Partijen bevorderen veerkrachtige, duurzame en inclusieve samenlevingen die v
 
 3. De Partijen ondersteunen het gebruik van digitale technologieën en versnellen de uitrol van gebruikersvriendelijke en vereenvoudigde e-overheidoplossingen als middel om de toegang tot en de beschikbaarheid van openbare informatie en diensten te verbeteren en de transparantie en verantwoordingsplicht te versterken en tegelijkertijd misbruik te voorkomen en de mensenrechten en fundamentele vrijheden te bevorderen en te beschermen.
 
-#### Artikel 70. Overheidsdiensten, statistieken en persoonsgegevens
+##### Artikel 70. Overheidsdiensten, statistieken en persoonsgegevens
 
 1. De Partijen bouwen capaciteit op voor het ontwerpen en uitvoeren van beleid, zetten een professioneel en efficiënt ambtenarenapparaat op, verbeteren wetgevings- en bestuursmechanismen en versterken het vermogen van regeringen om openbare diensten van hoge kwaliteit te leveren.
 
@@ -2140,7 +2151,7 @@ De Partijen bevorderen veerkrachtige, duurzame en inclusieve samenlevingen die v
 
 4. De Partijen waarborgen een hoog niveau van bescherming van ieders recht op een persoonlijke levenssfeer met betrekking tot de verwerking van persoonsgegevens, in overeenstemming met de bestaande multilaterale normen en internationale rechtsinstrumenten en praktijken. Zij streven ernaar sterke gegevensbeschermingsregelingen in stand te houden en de effectieve handhaving ervan via onafhankelijke toezichthoudende autoriteiten te waarborgen.
 
-#### Artikel 71. Corruptie
+##### Artikel 71. Corruptie
 
 1. De Partijen ontwerpen wetgeving, instellingen en andere maatregelen en versterken deze ter voorkoming en bestrijding van corruptie in al haar vormen, fraude, financiële misdrijven en daarmee samenhangende misdrijven in de publieke en private sector, onder meer via de uitvoering en bevordering van relevante internationale normen en instrumenten, met name het [VN-Verdrag tegen corruptie](onbekend), gedaan te New York op 31 oktober 2003. Zij nemen wetgevende en andere maatregelen die nodig zijn om corruptie te voorkomen en ervoor te zorgen dat de wetgeving inzake corruptie doeltreffend wordt gehandhaafd, dat onpartijdige onderzoeken en vervolgingen worden uitgevoerd en dat doeltreffende, evenredige en afschrikkende sancties voor corruptie en corruptiegerelateerde misdrijven worden toegepast. Zij nemen wetgevende en andere maatregelen om doeltreffende bescherming te bieden tegen mogelijke represailles, ook in de werkgerelateerde context, en tegen intimidatie van klokkenluiders die melding maken van corruptie en daarmee verband houdende strafbare feiten, en van getuigen die verklaringen afleggen over dergelijke strafbare feiten, met inbegrip van de bescherming van hun identiteit.
 
@@ -2150,7 +2161,7 @@ De Partijen bevorderen veerkrachtige, duurzame en inclusieve samenlevingen die v
 
 4. De Partijen werken samen bij de onderzoeken naar corruptie en daarmee samenhangende strafbare feiten, ook wanneer deze worden gepleegd in het kader van internationale zakelijke transacties.
 
-#### Artikel 72. Goed financieel bestuur
+##### Artikel 72. Goed financieel bestuur
 
 1. De Partijen bevorderen gezonde overheidsfinanciën, met inbegrip van de effectieve en transparante mobilisering van binnenlandse inkomsten, begrotingsbeheer en het gebruik van overheidsinkomsten overeenkomstig de beginselen van het initiatief van Addis Abeba inzake belastingen. Zij bevorderen een duurzaam beheer van de overheidsschuld, duurzame aanbestedingssystemen en de ondersteuning van nationale toezichthoudende instanties.
 
@@ -2162,11 +2173,11 @@ De Partijen bevorderen veerkrachtige, duurzame en inclusieve samenlevingen die v
 
 ## TITEL VI. MIGRATIE EN MOBILITEIT
 
-#### Artikel 73
+##### Artikel 73
 
 De Partijen kiezen voor een brede en evenwichtige aanpak van migratie. Zij bevestigen hun gehechtheid aan de bescherming van de mensenrechten van alle vluchtelingen en migranten en zullen migratie aanpakken in een geest van solidariteit, oprecht partnerschap en gedeelde verantwoordelijkheid, en in overeenstemming met hun respectieve bevoegdheden, alsmede met volledige eerbiediging van het internationaal recht, met inbegrip van het internationaal recht inzake de mensenrechten. Zij erkennen dat de Afrikaanse en Europese belangen inzake migratie nauw met elkaar verweven zijn en dat goed beheerde migratie en mobiliteit een bron van welvaart, innovatie en duurzame ontwikkeling kunnen zijn. Zij zullen de dialoog aangaan en werken samen met betrekking tot alle aspecten die verband houden met legale en irreguliere migratie, onder meer door concrete maatregelen te nemen inzake legale migratie, irreguliere migratie tegen te gaan en de onderliggende oorzaken ervan aan te pakken, migrantensmokkel te voorkomen en te bestrijden, mensenhandel aan te pakken, levens te redden en bescherming te waarborgen, de betrokkenheid van de diaspora en de investeringen voor duurzame ontwikkeling te versterken, het effect van geldovermakingen te maximaliseren, de samenwerking op het gebied van terugkeer, overname en duurzame re-integratie van repatrianten te intensiveren, en bijzondere aandacht te besteden aan personen in een kwetsbare situatie, zoals vrouwen, kinderen en niet-begeleide minderjarigen, en aan hun specifieke behoeften. De Partijen komen overeen samen te werken bij het nastreven van een geïntegreerd grensbeheer om het legitieme verkeer van personen over de grenzen heen te vergemakkelijken en irreguliere migratie een halt toe te roepen. Zij verdiepen de samenwerking en de dialoog op basis van bestaande initiatieven, met name de follow-up van het gezamenlijk actieplan van Valletta, de processen van Rabat en Khartoem, en de intercontinentale dialoog over migratie en mobiliteit tussen de AU en de EU. De Partijen stimuleren trilaterale samenwerking tussen landen ten zuiden van de Sahara, mediterrane landen en Europese landen op het gebied van migratiegerelateerde kwesties. De Partijen bevorderen de dialoog over alle migratievraagstukken en werken samen om passende en relevante responsstrategieën te bevorderen.
 
-#### Artikel 74. Legale migratie en mobiliteit
+##### Artikel 74. Legale migratie en mobiliteit
 
 1. De Partijen streven ernaar de overdracht en uitwisseling van kennis te verbeteren en mobiliteitsregelingen te versterken die academische uitwisselingen voor studenten, onderzoekers, academici en instellingen faciliteren.
 
@@ -2186,13 +2197,13 @@ De Partijen kiezen voor een brede en evenwichtige aanpak van migratie. Zij beves
 
 9. De Partijen werken samen om registers van de burgerlijke stand te verbeteren en te moderniseren en biometrische reisdocumenten af te geven op basis van de specificaties van de Internationale Burgerluchtvaartorganisatie, onder meer door inspanningen te leveren om identiteitsfraude en documentvervalsing te bestrijden.
 
-#### Artikel 75. Intra-Afrikaanse mobiliteit
+##### Artikel 75. Intra-Afrikaanse mobiliteit
 
 1. De Partijen erkennen het belang van intra-Afrikaanse mobiliteit en de potentiële aanzienlijke voordelen ervan voor de regionale integratie en de duurzame ontwikkeling van gastlanden en landen van herkomst.
 
 2. De Partijen verbinden zich ertoe de intra-Afrikaanse samenwerking bij migratiebeheer verder te ondersteunen, rekening houdend met het beleidskader voor migratie van de AU voor Afrika.
 
-#### Artikel 76. Diaspora, geldovermakingen en duurzame ontwikkeling
+##### Artikel 76. Diaspora, geldovermakingen en duurzame ontwikkeling
 
 1. De Partijen stimuleren en ondersteunen de betrokkenheid van de diaspora bij de duurzame ontwikkeling van hun landen van herkomst. Zij werken samen om investeringen vanuit de diaspora en de oprichting van bedrijven te bevorderen en te faciliteren als middel om lokale ontwikkeling en ondernemerschap in de landen van herkomst te stimuleren, en kennis, ervaring en technologie over te dragen.
 
@@ -2200,7 +2211,7 @@ De Partijen kiezen voor een brede en evenwichtige aanpak van migratie. Zij beves
 
 3. De Partijen ondersteunen de werkzaamheden van instellingen die helpen bij de uitvoering van strategieën en instrumenten voor het gebruik van geldovermakingen door de diaspora en investeringen ten behoeve van duurzame ontwikkeling.
 
-#### Artikel 77. Irreguliere migratie, migrantensmokkel en mensenhandel
+##### Artikel 77. Irreguliere migratie, migrantensmokkel en mensenhandel
 
 1. De Partijen werken samen om de onderliggende oorzaken van irreguliere migratie en gedwongen ontheemding aan te pakken en hierop adequaat te reageren. Zij werken samen om de landen van herkomst te ondersteunen met passende strategieën, onder meer met het oog op het bevorderen van economische groei en duurzame ontwikkeling.
 
@@ -2212,7 +2223,7 @@ De Partijen kiezen voor een brede en evenwichtige aanpak van migratie. Zij beves
 
 5. De Partijen ondersteunen bewustmakingscampagnes over de risico’s in verband met irreguliere migratie, met gebruikmaking van alle beschikbare middelen op regionaal, nationaal en lokaal niveau, in overeenstemming met de desbetreffende strategieën en programma’s.
 
-#### Artikel 78. Terugkeer, overname en re-integratie
+##### Artikel 78. Terugkeer, overname en re-integratie
 
 1. De Partijen herbevestigen hun recht om illegaal verblijvende migranten te doen terugkeren alsook de wettelijke verplichting van elke lidstaat van de Europese Unie en elk OACPS-lid om hun eigen onderdanen die illegaal verblijven op, respectievelijk, het grondgebied van de OACPS-leden of het grondgebied van de lidstaten van de Europese Unie, zonder voorwaarden en zonder andere formaliteiten dan de in lid 3 bedoelde verificatie, over te nemen. Daartoe werken de Partijen samen op het gebied van terugkeer en overname en zorgen zij ervoor dat de rechten en de waardigheid van het individu ten volle worden beschermd en geëerbiedigd, onder meer in het kader van procedures voor terugkeer van illegaal verblijvende migranten naar hun land van herkomst.
 
@@ -2228,7 +2239,7 @@ Wat de Europese Unie betreft, zijn de verplichtingen van dit lid uitsluitend van
 
 5. De Partijen komen overeen toezicht te houden op de uitvoering van deze verbintenissen in het kader van de regelmatige partnerschapsdialoog.
 
-#### Artikel 79. Bescherming en asiel
+##### Artikel 79. Bescherming en asiel
 
 1. De Partijen verbinden zich ertoe een hoog niveau van bescherming en bijstand te waarborgen voor gedwongen ontheemden, met inbegrip van vluchtelingen, asielzoekers en intern ontheemden, met volledige inachtneming van het internationaal recht, het internationaal recht inzake de mensenrechten en, indien van toepassing, het internationaal vluchtelingenrecht en het internationaal humanitair recht, met inbegrip van het fundamentele beginsel van non-refoulement.
 
@@ -2242,7 +2253,7 @@ Wat de Europese Unie betreft, zijn de verplichtingen van dit lid uitsluitend van
 
 ### HOOFDSTUK 1. AARD EN TOEPASSINGSGEBIED
 
-#### Artikel 1. Een reëel partnerschap
+##### Artikel 1. Een reëel partnerschap
 
 1. Voor de toepassing van dit Protocol wordt onder „Partijen” verstaan de betrokken partijen die krachtens [artikel 6 van het algemene deel van deze Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0007046&deel=I&artikel=6&z=2023-11-15&g=2023-11-15) door dit Protocol gebonden zijn.
 
@@ -2252,7 +2263,7 @@ Wat de Europese Unie betreft, zijn de verplichtingen van dit lid uitsluitend van
 
 4. De Partijen ondersteunen regionale integratie en samenwerkingsprocessen, intensiveren hun inspanningen ter ondersteuning van multilateralisme en de op regels gebaseerde wereldorde, ontwikkelen en implementeren multidimensionale en samenhangende beleidslijnen en maatregelen met het oog op alle dimensies van duurzame ontwikkeling, rekening houdend met hun respectieve beleidskaders en relevante internationale overeenkomsten.
 
-#### Artikel 2. Strategische prioriteiten
+##### Artikel 2. Strategische prioriteiten
 
 1. De Partijen herbevestigen de brede en omvattende aard van het Caribisch regionaal partnerschap en komen overeen dat de strategische prioriteiten van dit Protocol onder meer zijn:
 
@@ -2268,7 +2279,7 @@ Wat de Europese Unie betreft, zijn de verplichtingen van dit lid uitsluitend van
 
 2. De Partijen besteden bijzondere aandacht aan Haïti, het enige minst ontwikkelde land in het Caribisch gebied, om de structurele zwakheden van het land aan te pakken en tegelijkertijd de consolidatie van zijn instellingen te ondersteunen, het bestuur te verbeteren en armoede en sociale ongelijkheid terug te dringen.
 
-#### Artikel 3. Multilateralisme en alliantievorming
+##### Artikel 3. Multilateralisme en alliantievorming
 
 1. De Partijen bevestigen opnieuw hun sterke gehechtheid aan multilateralisme. Zij versterken de samenwerking en stellen, waar passend, gemeenschappelijke standpunten vast in het kader van de Verenigde Naties (VN) en andere internationale en regionale organisaties en fora.
 
@@ -2276,7 +2287,7 @@ Wat de Europese Unie betreft, zijn de verplichtingen van dit lid uitsluitend van
 
 3. De Partijen verbinden zich tot de ondertekening of ratificatie van of de toetreding tot, naargelang het geval, en de uitvoering van belangrijke toepasselijke internationale verdragen en overeenkomsten ter zake.
 
-#### Artikel 4. Regionale integratie en samenwerking
+##### Artikel 4. Regionale integratie en samenwerking
 
 1. De Partijen bevorderen regionale integratie en samenwerking in het Caribisch gebied als een belangrijk middel om vrede en welvaart te bereiken, duurzame en veerkrachtige economieën en samenlevingen op te bouwen en het concurrentievermogen op de internationale markten te vergroten. Zij ondersteunen de totstandkoming en versterking van aanvullend intern beleid en aanvullende interne capaciteit, en dragen zo bij tot de bevordering van de regionale stabiliteit, cohesie en welvaart in het Caribisch gebied.
 
@@ -2286,7 +2297,7 @@ Wat de Europese Unie betreft, zijn de verplichtingen van dit lid uitsluitend van
 
 ### HOOFDSTUK 2. ACTOREN EN PROCESSEN
 
-#### Artikel 5. Institutionele bepalingen
+##### Artikel 5. Institutionele bepalingen
 
 1. De bij dit Protocol opgerichte instellingen, waarvan de samenstelling en de functie zijn omschreven in het algemene deel van deze Overeenkomst, zijn als volgt:
 
@@ -2298,17 +2309,17 @@ Wat de Europese Unie betreft, zijn de verplichtingen van dit lid uitsluitend van
 
 2. De Partijen kunnen besluiten op het niveau van de staatshoofden en regeringsleiders bijeen te komen om te zorgen voor strategische politieke sturing voor en strategisch toezicht op het partnerschap tussen het Caribisch gebied en de EU.
 
-#### Artikel 6. Landen en gebieden overzee en ultraperifere regio’s in het Caribisch gebied
+##### Artikel 6. Landen en gebieden overzee en ultraperifere regio’s in het Caribisch gebied
 
 1. De Partijen versterken de nauwe historische economische, culturele en persoonlijke banden tussen de Caribische OACPS-leden en de met de EU geassocieerde landen en gebieden overzee (LGO) en de ultraperifere gebieden van de EU. De Partijen faciliteren de deelname van de LGO en de ultraperifere gebieden van de EU aan processen voor regionale integratie en samenwerking, alsmede, in voorkomend geval, in regionale organisaties, met name op het gebied van handel, investeringen en economische samenwerking; de ontwikkeling van de private sector; energie; connectiviteit en digitalisering; menselijke en sociale ontwikkeling; en klimaatverandering, milieuduurzaamheid, duurzaam beheer van natuurlijke hulpbronnen en toerisme.
 
 2. De Partijen komen overeen de LGO in het Caribisch gebied de status van waarnemer te verlenen in de gezamenlijke bij dit Protocol opgerichte instellingen.
 
-#### Artikel 7. Raadpleging van belanghebbenden
+##### Artikel 7. Raadpleging van belanghebbenden
 
 De Partijen stellen overleg- en dialoogmechanismen in met alle relevante belanghebbenden, met inbegrip van lokale autoriteiten, vertegenwoordigers van het maatschappelijk middenveld en de private sector, met het oog op het verstrekken van informatie, het verlenen van advies, raadpleging en het verwerven van input voor politieke processen en de uitvoering van dit Protocol. Er vindt overleg en dialoog plaats om input te leveren voor de bijeenkomsten van de Raad van Ministers Caribisch gebied–EU.
 
-#### Artikel 8. Uitvoering en monitoring
+##### Artikel 8. Uitvoering en monitoring
 
 1. De Partijen voeren hun verbintenissen uit op het meest geschikte niveau, in overeenstemming met hun respectieve beleidskaders. Zij ontwikkelen en passen maatregelen toe om het effect van de uitvoering van dit Protocol te maximaliseren en de betrokkenheid van alle belanghebbenden te vergroten.
 
@@ -2318,13 +2329,13 @@ De Partijen stellen overleg- en dialoogmechanismen in met alle relevante belangh
 
 ## TITEL I. INCLUSIEVE DUURZAME ECONOMISCHE GROEI EN ONTWIKKELING
 
-#### Artikel 9
+##### Artikel 9
 
 De Partijen bevorderen duurzame en inclusieve economische groei en ontwikkeling door middel van economische transformatie en diversificatie, versterkte economische veerkracht, geavanceerde regionale integratie en samenwerking, versterkte economische en handelsbetrekkingen en een betere overgang naar volledige werkgelegenheid en waardig werk voor iedereen. Zij werken samen om grotere handels- en investeringsstromen te faciliteren door het verbeteren van de macro- economische en financiële stabiliteit en het ondernemingsklimaat, om de digitale transformatie te stimuleren, de ontwikkeling van de private sector en de industrialisering te vooruit te helpen en emissiearme en klimaatveerkrachtige economieën te bevorderen, zodat iedereen kan profiteren van nieuwe zakelijke kansen. Zij eerbiedigen en beschermen de mensenrechten en fundamentele arbeidsnormen, onder meer door middel van sociale dialoog, stimuleren ecologische duurzaamheid en bevorderen gedeelde welvaart. Zij komen overeen hun inspanningen te concentreren op belangrijke en opkomende economische sectoren, met een multiplicatoreffect voor duurzame groei, toegevoegde waarde, banencreatie en de uitbanning van armoede.
 
 ### HOOFDSTUK 1. ALGEMEEN ECONOMISCH KADER
 
-#### Artikel 10. Motoren van economische ontwikkeling
+##### Artikel 10. Motoren van economische ontwikkeling
 
 1. De Partijen verbeteren de macro-economische en financiële stabiliteit, versterken het beheer van de overheidsfinanciën en streven naar de houdbaarheid van de overheidsschuld. Zij ondersteunen de regionale economische integratie en samenwerking in het Caribisch gebied om landen in staat te stellen te profiteren van diepere integratie in regionale en mondiale waardeketens. Zij harmoniseren en vereenvoudigen de regelgeving voor ondernemingen en bedrijfsprocessen, voeren een degelijk mededingingsbeleid, met inbegrip van transparantie op het gebied van overheidssubsidies, en zorgen voor doeltreffende en voorspelbare belastingstelsels, ook op intraregionaal niveau.
 
@@ -2342,7 +2353,7 @@ De Partijen bevorderen duurzame en inclusieve economische groei en ontwikkeling 
 
 8. De Partijen bevorderen de registratie en bescherming van geografische aanduidingen en ondernemen actie om het toegenomen gebruik van technologie en innovaties te ondersteunen om meer waarde te creëren in regionale en mondiale waardeketens.
 
-#### Artikel 11. Investeringen
+##### Artikel 11. Investeringen
 
 1. De Partijen verbinden zich ertoe publieke en private investeringen te stimuleren, met name in sectoren die toegevoegde waarde creëren en een groot potentieel hebben voor duurzame werkgelegenheid en een hoge economische groei.
 
@@ -2352,7 +2363,7 @@ De Partijen bevorderen duurzame en inclusieve economische groei en ontwikkeling 
 
 4. De Partijen maken strategisch gebruik van overheidsfinanciering om investeringsmechanismen en -instrumenten te versterken en aanvullende publieke en private investeringen aan te trekken, onder meer door middel van gemengde financiering, garanties en andere innovatieve financieringsinstrumenten, terdege rekening houdend met de houdbaarheid van de schuld.
 
-#### Artikel 12. Ontwikkeling van de private sector en industrialisering
+##### Artikel 12. Ontwikkeling van de private sector en industrialisering
 
 1. De Partijen ondersteunen de ontwikkeling van de private sector en duurzame industrialisering, ontwikkelen beleid ter bevordering van ondernemerschap, diversificatie en productiviteit. Zij blijven het concurrentievermogen van ondernemingen ondersteunen, onder meer door middel van versterkte nalevingscapaciteit voor de toepassing van relevante internationale normen, versterkte innovatiemaatregelen en een betere toegang tot innovatieve financiering. Zij bevorderen de institutionele capaciteit om bij te dragen aan de ontwikkeling van het handels- en economisch beleid.
 
@@ -2374,7 +2385,7 @@ De Partijen bevorderen duurzame en inclusieve economische groei en ontwikkeling 
 
 10. De Partijen stimuleren een breder gebruik van hun respectieve valuta’s bij internationale transacties.
 
-#### Artikel 13. Handelssamenwerking
+##### Artikel 13. Handelssamenwerking
 
 1. De Partijen bevorderen regionale integratie en samenwerkingsprocessen in het Caribisch gebied, onder meer door versterkte handelsfacilitering en harmonisatie van de regelgeving, zodat landen en marktdeelnemers kunnen profiteren van de handel met hun buurlanden en hun integratie in belangrijke regionale en mondiale waardeketens kunnen bevorderen. Zij nemen concrete maatregelen ter ondersteuning van de ontwikkeling van zowel de gemeenschappelijke markt en economie van de CARICOM (CSME) als de economische unie van de Organisatie van Oost-Caribische Staten (OECS).
 
@@ -2388,7 +2399,7 @@ De Partijen bevorderen duurzame en inclusieve economische groei en ontwikkeling 
 
 ### HOOFDSTUK 2. PRIORITAIRE ECONOMISCHE SECTOREN
 
-#### Artikel 14. Diensten
+##### Artikel 14. Diensten
 
 1. De Partijen versterken de regelgevings- en productiecapaciteit van belangrijke subsectoren in de dienstverlening, onder meer door de ontwikkeling van sectoraal beleid, wetgevingskaders en nationale en regionale regelgevingscapaciteit om dienstverleners in staat te stellen gebruik te maken van de marktkansen die zich voordoen in het kader van de [Economische Partnerschapsovereenkomst tussen Cariforum en de EU](onbekend), de CSME, de OECS en andere regionale regelingen binnen het Caribisch gebied. Zij besteden bijzondere aandacht aan professionele diensten, diensten op het gebied van overeenkomsten, gegevensverwerking, de recreatieve, de culturele en de creatieve sector, sport en onderwijs, en financiële, communicatie-, audiovisuele, vervoers-, milieu- en toeristische diensten.
 
@@ -2398,7 +2409,7 @@ De Partijen bevorderen duurzame en inclusieve economische groei en ontwikkeling 
 
 4. De Partijen ondersteunen de versterking van de capaciteit van regionale beroepsorganisaties om bij te dragen aan de onderhandelingen over en de daadwerkelijke bevordering van overeenkomsten betreffende wederzijdse erkenning.
 
-#### Artikel 15. De blauwe economie
+##### Artikel 15. De blauwe economie
 
 1. De Partijen bevorderen de ontwikkeling van duurzame en innovatieve blauwe economieën. Daarbij streven zij ernaar economische groei en het scheppen van fatsoenlijke banen met meer voedsel- en voedingszekerheid, betere bestaansmiddelen, sociale rechtvaardigheid en versterkte oceaanecosystemen met elkaar in evenwicht te brengen en tegelijkertijd milieurisico’s en negatieve ecologische gevolgen te beperken. Zij ondersteunen de toepassing van voorzorgs- en wetenschappelijk onderbouwde benaderingen voor de instandhouding en bescherming van mariene ecosystemen en biodiversiteit en het duurzame gebruik van natuurlijke hulpbronnen. Zij bevorderen binnenlandse en buitenlandse investeringen en ontwikkelen het regelgevingskader en de infrastructuur die nodig zijn om activiteiten op het gebied van de blauwe economie te bevorderen. Zij bevorderen ook de samenwerking op bilateraal en multilateraal niveau ter ondersteuning van de ontwikkeling van duurzame en innovatieve blauwe economieën.
 
@@ -2408,7 +2419,7 @@ De Partijen bevorderen duurzame en inclusieve economische groei en ontwikkeling 
 
 4. De Partijen grijpen kansen aan op het gebied van mariene biotechnologie, onder meer door onderzoek te ondersteunen, de samenwerking tussen academici, economische actoren en beleidsmakers te bevorderen, technologieoverdracht te stimuleren en technische knelpunten om de toegang voor investeerders te faciliteren, te verminderen en tegelijkertijd risico’s voor het mariene milieu te vermijden.
 
-#### Artikel 16. Landbouw
+##### Artikel 16. Landbouw
 
 1. De Partijen werken samen om de duurzame landbouwproductie en -productiviteit te verhogen en te diversifiëren met het oog op het vergroten van de voedselzekerheid en voeding, het verbeteren van de bestaansmiddelen, het scheppen van fatsoenlijke banen en het uitbreiden van de inkomens door toegang tot regionale en internationale markten. Zij versterken klimaatveerkrachtige landbouwpraktijken, met name in kleine landbouwbedrijven, bevorderen duurzaam beheer en efficiënt gebruik van natuurlijke hulpbronnen en ecosysteemdiensten en nemen stimulansen weg die niet-duurzame productie genereren.
 
@@ -2418,7 +2429,7 @@ De Partijen bevorderen duurzame en inclusieve economische groei en ontwikkeling 
 
 4. De Partijen zorgen voor gelijke grond- en erfrechten voor vrouwen en verbeteren hun toegang tot financiering en markten en tot ondersteunende diensten en landbouwadvies. Zij ondersteunen ook ondernemerschap onder jongeren, onder meer door gerichte voorlichting, technologie en financiering aan te bieden.
 
-#### Artikel 17. Winningsindustrieën
+##### Artikel 17. Winningsindustrieën
 
 1. De Partijen bevorderen eerlijke en niet-discriminerende toegang tot duurzame winning van, en handel in, mineralen en grondstoffen, met volledige eerbiediging van de soevereiniteit van landen over hun natuurlijke hulpbronnen en eerbiediging van de rechten van de hierbij betrokken gemeenschappen. Zij bevorderen een billijke verdeling van de hulpbronnen en bestrijden de illegale exploitatie van delfstoffen met nationale, regionale en internationale wettelijke middelen.
 
@@ -2426,7 +2437,7 @@ De Partijen bevorderen duurzame en inclusieve economische groei en ontwikkeling 
 
 3. De Partijen versterken maatschappelijk verantwoord ondernemerschap en verantwoorde bedrijfsvoering in de gehele waardeketen, onder meer door de ontwikkeling en uitvoering van toepasselijke wetgeving, indien nodig, en daarbij rekening houdend met de internationale normen ter zake.
 
-#### Artikel 18. Duurzame energie
+##### Artikel 18. Duurzame energie
 
 1. De Partijen werken samen om de energiezekerheid te versterken, de toegang tot duurzame energie voor iedereen te waarborgen, met inbegrip van de meest kwetsbare consumenten en belangrijke economische sectoren, en de veerkracht van de energie-infrastructuur op te bouwen om de toegankelijkheid, duurzaamheid en betaalbaarheid van schone energie te verbeteren.
 
@@ -2438,7 +2449,7 @@ De Partijen bevorderen duurzame en inclusieve economische groei en ontwikkeling 
 
 5. De Partijen werken samen om doeltreffende energie-interconnecties tot stand te brengen en te versterken en de energietransitie van het Caribisch gebied te bevorderen door de ontwikkeling en het gebruik van schone, gediversifieerde, kosteneffectieve en duurzame energietechnologieën, met inbegrip van hernieuwbare en emissiearme energietechnologieën, om de overdracht van technologie te bevorderen en menselijke en technische capaciteit en onderzoek en innovatie te ontwikkelen.
 
-#### Artikel 19. Connectiviteit
+##### Artikel 19. Connectiviteit
 
 1. De Partijen versterken duurzame, uitgebreide en op regels gebaseerde intraregionale connectiviteit. Zij werken samen om vervoersverbindingen, informatie- en communicatietechnologieën (ICT) en digitale infrastructuur op een veerkrachtige en duurzame manier te verbeteren. Zij streven economische kansen na, onder meer door versterking van de technische en menselijke capaciteit van de belangrijkste actoren.
 
@@ -2452,7 +2463,7 @@ De Partijen bevorderen duurzame en inclusieve economische groei en ontwikkeling 
 
 6. De Partijen bevorderen de totstandkoming van een regionale digitale economie om fatsoenlijke banen en economische ontwikkeling te creëren, door de oprichting van een ondersteunend regelgevingskader ter bevordering van digitaal ondernemerschap, het mobiliseren van investeringen en het faciliteren van impulsen voor digitalisering in de private sector. Zij werken samen om onnodige belemmeringen weg te nemen, platforms voor e-vertrouwen en e-handtekeningen te ontwikkelen die extra handel ondersteunen, de opkomst van nieuwe producten te stimuleren, de ontwikkeling en toepassing van relevante internationale normen en open data te bevorderen en de bescherming van consumenten en persoonsgegevens te verbeteren.
 
-#### Artikel 20. Toerisme
+##### Artikel 20. Toerisme
 
 1. De Partijen werken samen om de evenwichtige en duurzame ontwikkeling van het toerisme te bevorderen teneinde inclusieve economische ontwikkelingen in de hand te werken. Zij zorgen voor de integratie van ecologische, culturele en sociale overwegingen en het duurzame gebruik en behoud van biodiversiteit en andere natuurlijke hulpbronnen in de planning en ontwikkeling van het toerismebeleid.
 
@@ -2462,7 +2473,7 @@ De Partijen bevorderen duurzame en inclusieve economische groei en ontwikkeling 
 
 4. De Partijen nemen maatregelen om de sociaal-economische voordelen van het toerisme optimaal te benutten. Zij versterken het behoud en de bevordering van het cultureel erfgoed en van natuurlijke hulpbronnen en bevorderen alle innovatieve vormen van toerisme, met inachtneming van de integriteit en de belangen van inheemse volkeren, zoals vastgelegd in de Verklaring van de Verenigde Naties over de rechten van inheemse volken en lokale gemeenschappen, en maximaliseren de betrokkenheid van deze belanghebbenden bij de ontwikkeling van het toerisme.
 
-#### Artikel 21. Onderzoek, innovatie en technologie
+##### Artikel 21. Onderzoek, innovatie en technologie
 
 1. De Partijen werken samen op het gebied van wetenschap, onderzoek, innovatie en technologische ontwikkeling, teneinde economische diversificatie te ondersteunen, sociale en economische ontwikkeling te bevorderen, het regionale concurrentievermogen te verbeteren en de opkomst van een inclusieve digitale economie te bevorderen. Zij ontwikkelen de interconnectie en interoperabiliteit van onderzoeksnetwerken, infrastructuur en diensten voor computergebruik en verwerking van wetenschappelijke gegevens, en bevorderen deze ontwikkeling binnen hun regionale context.
 
@@ -2472,7 +2483,7 @@ De Partijen bevorderen duurzame en inclusieve economische groei en ontwikkeling 
 
 4. De Partijen werken samen bij onderwerpen van gemeenschappelijk belang op het gebied van civiele ruimtevaartactiviteiten, zoals ruimteonderzoek, toepassingen en diensten voor wereldwijde satellietnavigatiesystemen, de ontwikkeling van satellietaugmentatiesystemen, aardobservatie en aardwetenschap, met name wat betreft het gebruik van mechanismen voor vroegtijdige waarschuwing en surveillance.
 
-#### Artikel 22. Culturele en creatieve sector
+##### Artikel 22. Culturele en creatieve sector
 
 1. De Partijen bevorderen de culturele en creatieve sector als aanjager van duurzame sociale en economische ontwikkeling en fatsoenlijke banen. Zij nemen onder meer maatregelen aan ter ondersteuning van creatieve ontwikkeling en de digitalisering van artistieke prestaties en producties. Zij wisselen beste praktijken uit ter bevordering van culturele ontwikkeling en ondernemerschap.
 
@@ -2480,7 +2491,7 @@ De Partijen bevorderen duurzame en inclusieve economische groei en ontwikkeling 
 
 3. De Partijen ondersteunen de interculturele dialoog tussen jongeren, maatschappelijke organisaties en personen uit de EU en het Caribisch gebied.
 
-#### Artikel 23. Maakindustrie
+##### Artikel 23. Maakindustrie
 
 1. De Partijen werken samen aan het bevorderen van een duurzame maakindustrie om meer toegevoegde waarde tot stand te brengen, met name bij de uitvoer van hoogtechnologische producten, het faciliteren van meer diversificatie en het optimaal benutten van het potentieel voor achterwaartse integratie met belangrijke economische sectoren zoals landbouw, de blauwe economie, winningsindustrieën en de dienstensector.
 
@@ -2490,17 +2501,17 @@ De Partijen bevorderen duurzame en inclusieve economische groei en ontwikkeling 
 
 4. De Partijen ondersteunen de bevordering van de handel in industrieproducten, onder meer door middel van betere koppelingen met de uitvoermarkten, een grotere regelgevingscapaciteit voor de handel, handelsfacilitatie en een versterkte nalevingscapaciteit om de desbetreffende internationale arbeids- en milieunormen toe te passen.
 
-#### Artikel 24. Internationale zakelijke en financiële diensten
+##### Artikel 24. Internationale zakelijke en financiële diensten
 
 De Partijen werken aan de ontwikkeling van een op regels gebaseerde internationale zakelijke en financiële dienstensector in het Caribisch gebied door onder meer gerichte samenwerking te ondersteunen om de Caribische regelgevingskaders te versterken om aan internationaal overeengekomen normen te voldoen, passend sectoraal beleid te ontwikkelen, de ontwikkeling van vaardigheden te verbeteren en het gebruik van technologieën en digitalisering te stimuleren. De Partijen stellen alles in het werk om ervoor te zorgen dat internationaal overeengekomen normen voor regelgeving en toezicht in de internationale zakelijke en financiële dienstensector op hun grondgebied worden toegepast en gehandhaafd.
 
 ## TITEL II. MILIEUDUURZAAMHEID, KLIMAATVERANDERING EN DUURZAAM BEHEER VAN NATUURLIJKE HULPBRONNEN
 
-#### Artikel 25
+##### Artikel 25
 
 De Partijen erkennen de existentiële bedreiging voor de getroffen landen en de gevolgen voor de bestaansmiddelen die het langetermijnkarakter van de uitdagingen op het gebied van klimaat en milieuduurzaamheid vormen. Zij nemen ambitieuze maatregelen om de klimaatverandering te matigen en zich eraan aan te passen, de kwaliteit van het milieu te beschermen en te verbeteren, en te streven naar duurzaam gebruik en beheer van natuurlijke hulpbronnen, klimaatveerkracht op te bouwen en de aantasting van het milieu om te buigen. Zij stellen concrete maatregelen vast om het verlies aan biodiversiteit aan te pakken, ecosystemen in stand te houden en te herstellen, oceaangovernance te bevorderen, ontbossing tegen te gaan, en natuurrampen en door menselijk handelen veroorzaakte risico’s te voorkomen en erop te reageren, onder meer door middel van klimaatfinanciering, de bevordering van technologieoverdracht en capaciteitsopbouw, naargelang het geval. Zij investeren in groene groei, bevorderen circulaire economieën en ondersteunen de transitie naar klimaatbestendige en emissiearme ontwikkeling, waarbij wordt gewaarborgd dat economische groei een volledige aanvulling vormt op ecologische duurzaamheid. Zij werken samen op het niveau van het ruimere Caribische gebied en streven naar Zuid-Zuid- en trilaterale samenwerking.
 
-#### Artikel 26. Klimaatactie
+##### Artikel 26. Klimaatactie
 
 1. De Partijen ontwikkelen omvattende en inclusieve interne klimaatbeleidsmaatregelen en -programma’s en ondernemen concrete actie om de volledige uitvoering van het [Raamverdrag van de VN inzake klimaatverandering](onbekend) en de in het kader van dat Raamverdrag aangenomen [Klimaatovereenkomst van Parijs](onbekend) te versnellen en multilaterale maatregelen tegen klimaatverandering te ondersteunen.
 
@@ -2526,7 +2537,7 @@ De Partijen erkennen de existentiële bedreiging voor de getroffen landen en de 
 
 12. De Partijen werken samen ter versterking van de wetenschappelijke en technische menselijke en institutionele capaciteit voor klimaatactie en milieubeheer en -monitoring, onder meer door het gebruik van ruimtetechnologieën en informatiesystemen en voor de verlening van omvattende klimaatdiensten, met name aan kwetsbare belanghebbenden.
 
-#### Artikel 27. Biodiversiteit, ecosystemen en natuurlijke hulpbronnen
+##### Artikel 27. Biodiversiteit, ecosystemen en natuurlijke hulpbronnen
 
 1. De Partijen ondersteunen de instandhouding, het duurzame gebruik en het herstel van ecosystemen, onder meer met het oog op het verbeteren van de bestaansmiddelen van inheemse volkeren, zoals bepaald in de Verklaring van de Verenigde Naties over de rechten van inheemse volken, en lokale gemeenschappen, en bevorderen daarbij de levering van ecosysteemdiensten en het mogelijk maken van de duurzame ontwikkeling van hun landen. Zij beschermen, herstellen en versterken de biodiversiteit en nemen maatregelen om de uitvoering van het [Verdrag inzake biologische diversiteit](onbekend) en het [Protocol van Nagoya inzake toegang tot genetische rijkdommen en de eerlijke en billijke verdeling van voordelen voortvloeiende uit hun gebruik bij het Verdrag inzake biologische diversiteit](onbekend), gedaan te Nagoya op 29 oktober 2010, te versnellen. Zij werken samen in het kader van multilaterale onderhandelingen over het behoud van natuurlijke hulpbronnen, ecosystemen en biodiversiteit. Zij erkennen dat de Caribische Zee kwetsbare ecosystemen en een unieke biodiversiteit omvat en werken derhalve samen om de bescherming ervan te ondersteunen. Zij nemen maatregelen om de impact van invasieve uitheemse soorten op lokale soorten en ecosystemen en op de bestaansmiddelen van de bevolking te voorkomen of te beperken.
 
@@ -2542,7 +2553,7 @@ De Partijen erkennen de existentiële bedreiging voor de getroffen landen en de 
 
 7. De Partijen werken aan de ontwikkeling van kaders voor de bescherming van kwetsbare ecosystemen en de biodiversiteit, onder meer via de ondersteuning van maatregelen ter bestrijding van milieucriminaliteit. Zij werken samen op het gebied van het onderzoek naar en de instandhouding en het duurzame gebruik van de biodiversiteit, onder meer door kenniscentra en onderzoekspartnerschappen op te zetten. Zij bevorderen het gebruik van internationaal erkende milieubeheersystemen als middel om eventuele negatieve gevolgen voor het milieu tot een minimum te beperken. Zij versterken de betrokkenheid van inheemse volkeren, zoals bepaald in de Verklaring van de Verenigde Naties over de rechten van inheemse volken, en lokale gemeenschappen, bij het behoud van ecosystemen, waarbij voorrang wordt gegeven aan het creëren van werkgelegenheid en andere economische kansen.
 
-#### Artikel 28. Bossen
+##### Artikel 28. Bossen
 
 1. De Partijen bevorderen het duurzaam bosbeheer en duurzaam gebruik van bosbestanden. Zij werken samen om ontbossing tegen te gaan, herbebossing te ondersteunen, de aantasting van bossen een halt toe te roepen en het vermogen van bossen te herstellen om in ecosysteemdiensten te voorzien.
 
@@ -2552,7 +2563,7 @@ De Partijen erkennen de existentiële bedreiging voor de getroffen landen en de 
 
 4. De Partijen versterken de betrokkenheid van lokale autoriteiten en gemeenschappen bij het duurzame beheer van bossen. Zij maken het publiek op alle niveaus meer bewust van ontbossing en moedigen de productie en het verbruik aan van hulpbronnen- en energie-efficiënte producten afkomstig van duurzaam beheerde bossen.
 
-#### Artikel 29. Oceaangovernance
+##### Artikel 29. Oceaangovernance
 
 1. De Partijen versterken de oceaangovernance in overeenstemming met het [VN-Verdrag inzake het recht van de zee](onbekend) (Unclos) om te zorgen voor veilige, zekere, schone en duurzaam beheerde oceanen, de druk op oceanen en zeeën te verminderen en de duurzame ontwikkeling van de blauwe economie te bevorderen. Zij werken samen om de nationale en regionale capaciteit te versterken voor een verantwoordelijk en verantwoordbaar beheer van de rijkdommen van de oceanen en de kustgebieden, maatregelen te ontwikkelen voor het duurzame gebruik en beheer en de instandhouding van de mariene biologische diversiteit van gebieden binnen en buiten de nationale jurisdictie, kennis en onderzoek te bevorderen en de overdracht van technologie op het gebied van oceaangovernance te faciliteren. In verband met de oceanen nemen zij maatregelen die bijdragen tot de beperking van en aanpassing aan de klimaatverandering.
 
@@ -2574,7 +2585,7 @@ De Partijen erkennen de existentiële bedreiging voor de getroffen landen en de 
 
 10. De Partijen erkennen de algemene bezorgdheid over de impact van zeebodemmijnbouw op het mariene milieu en de biodiversiteit daarvan. Zij maken gebruik van de beste beschikbare wetenschappelijke kennis, passen het voorzorgsbeginsel en de ecosysteembenadering toe, bevorderen onderzoek en delen beste praktijken op gebieden van wederzijds belang die verband houden met de minerale rijkdommen van de zeebodem, teneinde een degelijk ecologisch beheer van activiteiten voor de bescherming en het behoud van het mariene milieu en de biodiversiteit ervan te waarborgen.
 
-#### Artikel 30. Weerbaarheid ten aanzien van natuurrampen en integrale rampenbeheersing
+##### Artikel 30. Weerbaarheid ten aanzien van natuurrampen en integrale rampenbeheersing
 
 1. De Partijen werken samen om de weerbaarheid van mensen, samenlevingen en infrastructuur ten aanzien van natuurrampen te vergroten en de capaciteit voor monitoring, vroegtijdige waarschuwing en risicobeoordeling op te bouwen om de preventie-, mitigatie-, paraatheids-, reactie- en herstelmaatregelen te verbeteren overeenkomstig het kader van Sendai voor rampenrisicovermindering 2015-2030 (het „kader van Sendai”).
 
@@ -2590,13 +2601,13 @@ De Partijen erkennen de existentiële bedreiging voor de getroffen landen en de 
 
 ## TITEL III. MENSENRECHTEN, GOED BESTUUR, VREDE EN VEILIGHEID
 
-#### Artikel 31
+##### Artikel 31
 
 De Partijen bevorderen dialoog en samenwerking met als doel de veiligheid in al haar dimensies te versterken en vreedzame en veerkrachtige samenlevingen tot stand te brengen. Zij ijveren ervoor om de mensenrechten, de menselijke waardigheid, de fundamentele vrijheden en de democratische beginselen te bevorderen en volledig te beschermen, verantwoordingsplichtige en transparante instellingen op te bouwen, de bestuurs- en rechtsstelsels te versterken en te voorzien in een adequate en passende speelruimte voor personen en groepen om uiting te geven aan hun aspiraties en bij te dragen tot de beleidsvorming. Met het oog hierop besteden de Partijen bijzondere aandacht aan de bevordering van de rechten van jongeren, vrouwen en meisjes en inheemse volkeren, zoals vastgelegd in de Verklaring van de Verenigde Naties over de rechten van inheemse volken, ouderen en [personen met een handicap](onbekend). Zij intensiveren hun inspanningen ter bevordering van de burgerveiligheid en ter voorkoming en bestrijding van georganiseerde misdaad, in het bijzonder met betrekking tot illegale drugs, maritieme veiligheid, cyberbeveiliging, het witwassen van geld, grensbeheer, corruptie en alle vormen van illegale handel, alsook de illegale handel in handvuurwapens en lichte wapens en de munitie daarvoor.
 
 ### HOOFDSTUK 1. MENSENRECHTEN, JUSTITIE EN GOED BESTUUR
 
-#### Artikel 32. Mensenrechten
+##### Artikel 32. Mensenrechten
 
 1. De Partijen dragen bij tot de bescherming, bevordering en verwezenlijking van de mensenrechten overeenkomstig het internationaal recht. Zij bevorderen en dragen bij tot de universele ratificatie en uitvoering van de internationale mensenrechteninstrumenten, passen die instrumenten toe waarbij zij partij zijn en overwegen toetreding tot die instrumenten waarbij zij nog geen partij zijn. Zij passen het non-discriminatiebeginsel zoals neergelegd in [artikel 9 van het algemene deel van deze Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0007046&deel=II&titeldeel=I&artikel=9&z=2023-11-15&g=2023-11-15) volledig toe, waarbij prioriteit wordt gegeven aan de vaststelling en uitvoering van alomvattende gelijkheids- en antidiscriminatiewetgeving.
 
@@ -2612,7 +2623,7 @@ De Partijen bevorderen dialoog en samenwerking met als doel de veiligheid in al 
 
 7. De Partijen werken samen om de aandacht voor mensenrechten en democratie te vergroten, onder meer via onderwijsstelsels en de media.
 
-#### Artikel 33. De rechtsstaat en justitie
+##### Artikel 33. De rechtsstaat en justitie
 
 1. De Partijen werken samen om de daadwerkelijke en billijke toegang tot de rechter voor iedereen te verbeteren en werken samen bij de consolidering van de rechtsstaat en de versterking van de instellingen op alle niveaus op het gebied van rechtshandhaving en rechtsbedeling. Met het oog hierop verbeteren de Partijen de toegang tot juridische diensten voor personen in een kwetsbare situatie.
 
@@ -2622,7 +2633,7 @@ De Partijen bevorderen dialoog en samenwerking met als doel de veiligheid in al 
 
 4. De Partijen werken samen om hun penitentiaire stelsels te moderniseren en hun rehabilitatiefunctie te maximaliseren, onder meer door de eerbiediging van de rechten van gevangenen te verbeteren, rehabilitatie- en onderwijsprogramma’s uit te voeren, het percentage van de sociale re-integratie van gedetineerden te verhogen, de zorg voor gevangenen te ondersteunen, te werken aan de uitbanning van overbevolking in de gevangenissen, het gevangenisbeheer, het gevangeniswezen en de detentieomstandigheden te verbeteren overeenkomstig de internationale beste praktijken en normen, en alternatieven te bieden voor gevangenisstraffen voor minder ernstige strafbare feiten.
 
-#### Artikel 34. Goed bestuur
+##### Artikel 34. Goed bestuur
 
 1. De Partijen nemen concrete maatregelen om inclusieve, verantwoordelijke en transparante openbare instellingen op te bouwen. Zij versterken de capaciteit voor het ontwerpen en uitvoeren van beleid, ontwikkelen een verantwoordingsplichtig, efficiënt, transparant en professioneel ambtenarenapparaat, versterken de verlening van hoogwaardige openbare diensten, verbeteren wetgevings- en bestuursmechanismen en bevorderen de onpartijdigheid en doeltreffendheid van wetshandhavingsinstanties.
 
@@ -2634,7 +2645,7 @@ De Partijen bevorderen dialoog en samenwerking met als doel de veiligheid in al 
 
 5. De Partijen ontwikkelen en versterken instellingen, wetgeving en mechanismen ter voorkoming en bestrijding van corruptie, omkoping, fraude en bedrijfscriminaliteit, met inbegrip van de confiscatie en teruggave van teruggevorderde vermogensbestanddelen. Zij zorgen ervoor dat de anticorruptiewetgeving doeltreffend wordt gehandhaafd, dat onpartijdige onderzoeken en vervolgingen worden uitgevoerd en dat doeltreffende, evenredige sancties en straffen voor corruptie en corruptiegerelateerde misdrijven worden toegepast. Zij bevorderen en implementeren de relevante internationale normen en instrumenten, met name het [VN-Verdrag tegen corruptie](onbekend), gedaan te New York op 31 oktober 2003, en erkennen dat corruptie een transnationale kwestie is die verband houdt met andere vormen van transnationale en economische criminaliteit en die gezamenlijke en multidisciplinaire inspanningen vergen, ook op internationaal niveau.
 
-#### Artikel 35. Overheidsfinanciën en goed financieel bestuur
+##### Artikel 35. Overheidsfinanciën en goed financieel bestuur
 
 1. De Partijen bevorderen gezonde overheidsfinanciën, met inbegrip van een versterkt en doeltreffend gebruik van overheidsinkomsten, duurzaam beheer van de overheidsschuld, duurzame aanbestedingssystemen en steun voor nationale toezichthoudende instanties. Zij bevorderen een grotere verantwoordingsplicht, transparantie, billijkheid, wettigheid en integriteit bij het beheer van overheidsmiddelen. Zij ondersteunen maatregelen om doeltreffende, billijke en transparante stelsels voor overheidsuitgaven op te zetten. Zij werken samen om de mobilisering van binnenlandse middelen in de Caribische kleine eilandstaten in ontwikkeling te versterken ter ondersteuning van hun duurzame ontwikkeling en een grotere economische veerkracht.
 
@@ -2644,7 +2655,7 @@ De Partijen bevorderen dialoog en samenwerking met als doel de veiligheid in al 
 
 ### HOOFDSTUK 2. CRIMINALITEIT EN VEILIGHEID
 
-#### Artikel 36. Menselijke veiligheid en veiligheid van de burger
+##### Artikel 36. Menselijke veiligheid en veiligheid van de burger
 
 1. De Partijen streven naar een geïntegreerde aanpak die gericht is op het voorkomen en verminderen van criminaliteitsrisico’s en het bevorderen van initiatieven op het gebied van verzoening, rehabilitatie en re-integratie.
 
@@ -2654,7 +2665,7 @@ De Partijen bevorderen dialoog en samenwerking met als doel de veiligheid in al 
 
 4. De Partijen pakken de sociale en veiligheidsproblemen aan die het gevolg zijn van de uitzetting van buitenlandse criminelen en personen die hun straf hebben uitgezeten, en streven ernaar samen te werken om de rehabilitatie en re-integratie van die personen in de samenleving te faciliteren en het recidivepercentage tot een minimum te beperken. Zij zorgen voor de tijdige uitwisseling van relevante informatie over uitzetting via de passende kanalen, in overeenstemming met de toepasselijke administratieve of justitiële samenwerkingsovereenkomsten, en bevorderen de samenwerking tussen wetshandhavingsinstanties, zoals bepaald in dit Protocol.
 
-#### Artikel 37. Georganiseerde misdaad
+##### Artikel 37. Georganiseerde misdaad
 
 1. De Partijen pakken alle vormen van georganiseerde misdaad aan, onder meer door middel van samenwerking op nationaal, regionaal en internationaal niveau, en door wetgevende en andere maatregelen vast te stellen in overeenstemming met het [Verdrag van de Verenigde Naties tegen grensoverschrijdende georganiseerde misdaad](onbekend) en de aanvullende protocollen daarbij. Zij werken samen om hun vermogen om aan de internationale rapportageverplichtingen te voldoen, te vergroten. De Partijen bestrijden migrantensmokkel, mensenhandel en de handel in illegale drugs, bedreigde wilde dieren en planten en gevaarlijke stoffen en afvalstoffen. De Partijen pakken ook milieudelicten aan, met inbegrip van illegale houtkap en de daarmee samenhangende handel. De Partijen werken tevens samen bij de bestrijding van de handel in handvuurwapens en lichte wapens en de munitie daarvoor, en andere conventionele wapens en producten voor tweeërlei gebruik. Hierbij werken zij onder meer samen om illegale handvuurwapens en lichte wapens en munitie daarvoor beter op te sporen, de oorsprong ervan te traceren, de vernietiging ervan te ondersteunen, de capaciteit voor het doeltreffend onderzoeken en vervolgen van wapengerelateerde misdrijven te vergroten en beste praktijken uit te wisselen.
 
@@ -2666,7 +2677,7 @@ De Partijen bevorderen dialoog en samenwerking met als doel de veiligheid in al 
 
 5. De Partijen nemen maatregelen om personen en gemeenschappen beter bestand te maken tegen terrorisme en gewelddadig extremisme. Zij intensiveren hun inspanningen voor de uitwisseling van informatie en expertise over terroristische groeperingen en hun ondersteunende netwerken, met volledige inachtneming van de rechtsstaat, de mensenrechten en het recht op privacy. Zij werken samen om terroristen voor de rechter te brengen en nemen maatregelen om de rehabilitatie en re-integratie in de samenleving te faciliteren van geradicaliseerde onderdanen van respectievelijk elke lidstaat van de Europese Unie en elke Caribische staat die partij is bij de Overeenkomst.
 
-#### Artikel 38. Illegale drugs
+##### Artikel 38. Illegale drugs
 
 1. De Partijen werken samen om de uitdagingen op het gebied van veiligheid en gezondheid als gevolg van de teelt, productie en consumptie van illegale drugs en psychoactieve stoffen, en de handel en doorvoer van deze stoffen op hun grondgebied te beperken. Deze samenwerking vindt naargelang het geval plaats op bilateraal, regionaal, multilateraal of trilateraal niveau.
 
@@ -2682,13 +2693,13 @@ De Partijen bevorderen dialoog en samenwerking met als doel de veiligheid in al 
 
 7. De Partijen pakken nieuwe en opkomende bedreigingen aan in verband met de illegale productie, het illegale gebruik en misbruik van synthetische stoffen, met inbegrip van opioïden, en ontwikkelen en versterken programma’s en verbeteren de rapportagemechanismen om het illegale gebruik van chemische precursoren aan te pakken.
 
-#### Artikel 39. Samenwerking op het gebied van rechtshandhaving en geïntegreerd grensbeheer
+##### Artikel 39. Samenwerking op het gebied van rechtshandhaving en geïntegreerd grensbeheer
 
 1. De Partijen bevorderen de dialoog en de samenwerking op het gebied van rechtshandhaving, en strategische justitiële samenwerking. Zij bevorderen de samenwerking tussen rechtshandhavingsinstanties om informatie en criminele inlichtingen tijdig uit te wisselen, bevorderen de uitwisseling van beste praktijken en ontwikkelen capaciteit.
 
 2. De Partijen ondersteunen de regionale samenwerking op het gebied van veiligheid door het versterken van geïntegreerd grensbeheer, het delen van informatie en inlichtingen en het verzamelen en analyseren van gegevens, met inachtneming van de toepasselijke rechtskaders inzake de bescherming van persoonsgegevens. Zij bevorderen de vreedzame oplossing van grensconflicten en -geschillen in overeenstemming met het internationaal recht. Zij ondersteunen in voorkomend geval vertrouwenwekkende maatregelen en specifieke ontwikkelingsstrategieën om het vertrouwen te vergroten en eventuele spanningen over grensgeschillen te verminderen.
 
-#### Artikel 40. Veiligheid en beveiliging van de zee- en luchtvaart
+##### Artikel 40. Veiligheid en beveiliging van de zee- en luchtvaart
 
 1. De Partijen ontwikkelen de samenwerking op het gebied van zee- en luchtvaartaangelegenheden om de veiligheid en beveiliging te verhogen en onder meer de aanpak en het beheer van risicovracht te verbeteren, in overeenstemming met het internationaal recht en de desbetreffende resoluties van de VN.
 
@@ -2696,13 +2707,13 @@ De Partijen bevorderen dialoog en samenwerking met als doel de veiligheid in al 
 
 ## TITEL IV. MENSELIJKE ONTWIKKELING, SOCIALE COHESIE EN MOBILITEIT
 
-#### Artikel 41
+##### Artikel 41
 
 De Partijen zijn vastbesloten armoede in al haar vormen uit te bannen tegen 2030, ongelijkheid doeltreffend aan te pakken, gendergelijkheid te bewerkstelligen en de positie van vrouwen en jongeren te versterken om ervoor te zorgen dat iedereen over de nodige middelen beschikt om een waardig leven te leiden. Zij zijn ook vastbesloten de sociale cohesie te bevorderen en de voorwaarden te scheppen voor de effectieve deelname van mensen aan het democratische bestel en hun actieve bijdrage aan duurzame economische groei. Zij besteden bijzondere aandacht aan personen in een kwetsbare situatie, waaronder vrouwen, kinderen, ouderen en inheemse volkeren, zoals bepaald in de Verklaring van de Verenigde Naties over de rechten van inheemse volkeren en lokale gemeenschappen en [personen met een handicap](onbekend). Zij nemen concrete maatregelen om de sociale bescherming te bevorderen als een fundamentele investering voor het uitbannen van armoede en het bestrijden van ongelijkheid, en als een belangrijk instrument om een zelfversterkende cyclus naar inclusieve en duurzame economische ontwikkeling te creëren, door economische winst opnieuw breder te investeren in de samenleving en de bevolking en de sociale veerkracht te vergroten. De Partijen kiezen voor een brede en evenwichtige aanpak van migratie. Zij pakken migratie aan in een geest van solidariteit, partnerschap en gedeelde verantwoordelijkheid, en in overeenstemming met hun respectieve bevoegdheden. De Partijen benutten de voordelen van migratie, bevorderen de integratie van migranten, benutten de kennis, ondernemersvaardigheden en investeringen van de diaspora ten volle en maximaliseren het gebruik van geldovermakingen als financieringsbron voor inclusieve en duurzame ontwikkeling. Zij voeren ook een open dialoog over mobiliteit tussen de Europese Unie en het Caribisch gebied en werken samen om de negatieve gevolgen van het verlies van vaardigheden voor de ontwikkeling van landen te beperken.
 
 ### HOOFDSTUK 1. SOCIALE DIENSTEN
 
-#### Artikel 42. Onderwijs
+##### Artikel 42. Onderwijs
 
 1. De Partijen consolideren en bevorderen inclusieve, betaalbare en billijke toegang tot onderwijs en verbeteren de kwaliteit van het onderwijs op alle niveaus, onder meer door sterkere en inclusieve nationale onderwijsstelsels, en verbeterde infrastructuur en uitrusting, met bijzondere aandacht voor personen met een handicap. Zij ondersteunen de bevordering van gendergelijkheid om een gunstig klimaat te scheppen waarin zowel jongens als meisjes gelijke onderwijskansen en een vergelijkbaar onderwijsniveau hebben.
 
@@ -2716,7 +2727,7 @@ De Partijen zijn vastbesloten armoede in al haar vormen uit te bannen tegen 2030
 
 6. De Partijen werken samen om academisch onderzoek en academische ontwikkeling en innovatie te bevorderen, onder meer door de samenwerking tussen belangrijke instellingen te versterken en het gebruik van wetenschappelijk onderzoek en wetenschappelijke analyse te bevorderen met het oog op wederzijds voordelige academische excellentie.
 
-#### Artikel 43. Gezondheid
+##### Artikel 43. Gezondheid
 
 1. De Partijen bevorderen universele en betaalbare gezondheidszorg en billijke toegang tot gezondheidsdiensten, onder meer door middel van versterkte nationale gezondheidszorgstelsels, de ontwikkeling van duurzame, hoogwaardige infrastructuur en toegang tot veilige en betaalbare essentiële geneesmiddelen, vaccins en diagnosemiddelen.
 
@@ -2728,7 +2739,7 @@ De Partijen zijn vastbesloten armoede in al haar vormen uit te bannen tegen 2030
 
 5. De Partijen bevorderen onderzoek en uitwisseling van kennis, ervaringen en beste praktijken in de gezondheidssector.
 
-#### Artikel 44. Huisvesting, water en sanitaire voorzieningen
+##### Artikel 44. Huisvesting, water en sanitaire voorzieningen
 
 1. De Partijen ondersteunen de universele toegang tot fatsoenlijke, veilige en betaalbare huisvesting, met bijzondere nadruk op kwetsbare en gemarginaliseerde personen, met inbegrip van inheemse volkeren, zoals uiteengezet in de Verklaring van de Verenigde Naties over de rechten van inheemse volken en lokale gemeenschappen, teneinde een positief effect op de gezondheid van mensen te genereren, de sociaal-economische ontwikkeling van hun gemeenschappen te bevorderen en de ongelijkheden tussen stedelijke en landelijke huishoudens aan te pakken. Zij bevorderen klimaatslimme huisvesting en infrastructuur, onder meer door de uitwerking en handhaving van bouwvoorschriften.
 
@@ -2738,7 +2749,7 @@ De Partijen zijn vastbesloten armoede in al haar vormen uit te bannen tegen 2030
 
 4. De Partijen bevorderen universele en betere toegang tot betaalbare elektriciteit en efficiënt en duurzaam energiegebruik voor iedereen.
 
-#### Artikel 45. Duurzame stedelijke en plattelandsontwikkeling
+##### Artikel 45. Duurzame stedelijke en plattelandsontwikkeling
 
 1. De Partijen bevorderen een gunstig klimaat voor duurzame plattelands- en stedelijke ontwikkeling. Zij bevorderen duurzame ruimtelijke ordening, met bijzondere aandacht voor transparante en gereguleerde landaankoop en eigendomsrechten, duurzame stedelijke mobiliteit en slimme en veilige steden.
 
@@ -2746,7 +2757,7 @@ De Partijen zijn vastbesloten armoede in al haar vormen uit te bannen tegen 2030
 
 3. De Partijen bevorderen een inclusief, evenwichtig en geïntegreerd stedelijk en plattelandsbeleid, en meerlagige overheidscoördinatie, waarbij lokale autoriteiten en gemeenschappen actief worden betrokken en sterkere banden tot stand worden gebracht tussen plattelands- en stedelijke gebieden.
 
-#### Artikel 46. Voedselzekerheid en betere voeding
+##### Artikel 46. Voedselzekerheid en betere voeding
 
 1. De Partijen werken samen om ervoor te zorgen dat iedereen toegang heeft tot voldoende, betaalbare, veilige en voedzame levensmiddelen, teneinde een einde te maken aan alle vormen van ondervoeding en voedselcrises te voorkomen. Met het oog hierop besteden de Partijen bijzondere aandacht aan de meest kwetsbare landen, met inbegrip van landen die getroffen zijn door rampen, en personen in een kwetsbare situatie.
 
@@ -2756,7 +2767,7 @@ De Partijen zijn vastbesloten armoede in al haar vormen uit te bannen tegen 2030
 
 ### HOOFDSTUK 2. SOCIALE COHESIE
 
-#### Artikel 47. Gelijkheid, sociale bescherming en waardig werk
+##### Artikel 47. Gelijkheid, sociale bescherming en waardig werk
 
 1. De Partijen streven naar gelijkheid door beleidsmaatregelen te nemen ter ondersteuning van strategieën om het inkomen van de armsten in de samenleving sneller dan het nationale gemiddelde duurzaam te doen toenemen.
 
@@ -2772,7 +2783,7 @@ De Partijen zijn vastbesloten armoede in al haar vormen uit te bannen tegen 2030
 
 7. De Partijen bevorderen de sociale cohesie door onder meer het materiële en immateriële culturele erfgoed en de diversiteit van cultuuruitingen te beschermen en te versterken.
 
-#### Artikel 48. Gendergelijkheid en versterking van de positie van vrouwen en meisjes
+##### Artikel 48. Gendergelijkheid en versterking van de positie van vrouwen en meisjes
 
 1. De Partijen versterken beleidsmaatregelen, programma’s en mechanismen met het oog op het bevorderen van gendergelijkheid en het verzekeren en verbeteren van gelijke kansen voor de participatie in alle sectoren van het politieke, economische, sociale en culturele leven. Zij zorgen ervoor dat het genderperspectief systematisch wordt geïntegreerd in alle beleidsmaatregelen, onder meer door het creëren en consolideren van rechtskaders.
 
@@ -2788,7 +2799,7 @@ De Partijen zijn vastbesloten armoede in al haar vormen uit te bannen tegen 2030
 
 7. De Partijen zetten zich in voor de volledige en doeltreffende uitvoering van de Verklaring en het Actieprogramma van Peking en het Actieprogramma van de Internationale Conferentie over Bevolking en Ontwikkeling en de resultaten van de toetsingsconferenties daarvan. Zij benadrukken voorts de noodzaak van universele toegang tot hoogwaardige, betaalbare en uitgebreide informatie en voorlichting over seksuele en reproductieve gezondheid, rekening houdend met de internationale technische richtsnoeren van de Unesco inzake seksuele voorlichting en de noodzaak van seksuele en reproductieve gezondheidszorg. Zij streven in voorkomend geval naar de daadwerkelijke uitvoering van de consensus van Montevideo inzake Bevolking en Ontwikkeling.
 
-#### Artikel 49. Jongeren
+##### Artikel 49. Jongeren
 
 1. De Partijen ontwikkelen gericht beleid ter versterking van de positie van jongeren en faciliteren hun betrokkenheid bij het politieke, sociale, maatschappelijke en economische leven.
 
@@ -2800,13 +2811,13 @@ De Partijen zijn vastbesloten armoede in al haar vormen uit te bannen tegen 2030
 
 5. De Partijen bevorderen sociale en justitiële programma’s voor de preventie van jeugdcriminaliteit en de integratie van jongeren in het economische en sociale leven. Zij ondersteunen instellingen, zoals scholen, maatschappelijke en confessionele organisaties en jeugdverenigingen, die bijdragen tot het vergroten van de weerbaarheid van risicojongeren en kwetsbare gemeenschappen.
 
-#### Artikel 50. Sport
+##### Artikel 50. Sport
 
 De Partijen bevorderen sport en lichamelijke opvoeding als motor voor duurzame ontwikkeling, gezondheid en welzijn, sociale inclusie, non-discriminatie en bevordering van de mensenrechten. Zij werken samen om de economische, culturele en sociale kracht van sport ten volle te benutten, onder meer door adequate faciliteiten te ontwikkelen, deelname aan sportactiviteiten en andere vormen van lichaamsbeweging te bevorderen en beste praktijken uit te wisselen. Zij bevorderen de mobiliteit van sporters en aanverwante beroepsbeoefenaren als middel om de interculturele dialoog en samenwerking te versterken.
 
 ### HOOFDSTUK 3. MIGRATIE, MOBILITEIT EN ONTWIKKELING
 
-#### Artikel 51. Migratie, mobiliteit en ontwikkeling
+##### Artikel 51. Migratie, mobiliteit en ontwikkeling
 
 1. De Partijen erkennen de bijdrage van legaal verblijvende migranten en hun diaspora aan het economische, sociale, politieke en culturele leven van hun gastlanden. Zij ondersteunen hun integratie, onder meer door ondernemerschap, bedrijfsondersteuning en de ontwikkeling van vaardigheden te bevorderen overeenkomstig hun respectieve competenties. Zij bevestigen opnieuw dat zij groot belang hechten aan de eerbiediging van de mensenrechten van alle migranten en gedwongen ontheemden, met inbegrip van vluchtelingen en asielzoekers, met volledige inachtneming van het internationaal recht en met bijzondere aandacht voor personen in een kwetsbare situatie, met name vrouwen en kinderen.
 
@@ -2826,7 +2837,7 @@ De Partijen bevorderen sport en lichamelijke opvoeding als motor voor duurzame o
 
 ### HOOFDSTUK 1. AARD EN TOEPASSINGSGEBIED
 
-#### Artikel 1. Een reëel partnerschap
+##### Artikel 1. Een reëel partnerschap
 
 1. Voor de toepassing van dit Protocol wordt onder „Partijen” verstaan de betrokken partijen die krachtens [artikel 6 van het algemene deel van deze Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0007046&deel=I&artikel=6&z=2023-11-15&g=2023-11-15) door dit Protocol gebonden zijn.
 
@@ -2834,13 +2845,13 @@ De Partijen bevorderen sport en lichamelijke opvoeding als motor voor duurzame o
 
 3. De Partijen komen overeen hun betrekkingen en samenwerking te intensiveren met het oog op de bevordering van gedeelde waarden, gemeenschappelijke belangen, verantwoordelijkheden en verplichtingen. Dit reële partnerschap wordt uitgevoerd in een geest van wederzijds respect en wederzijdse verantwoordingsplicht, gelijkheid en gedeelde zeggenschap.
 
-#### Artikel 2. Multilateralisme
+##### Artikel 2. Multilateralisme
 
 1. De Partijen versterken de dialoog en de samenwerking en intensiveren hun inspanningen voor multilateralisme en een op regels gebaseerde wereldorde.
 
 2. De Partijen streven ernaar om, door een passende partnerschapsdialoog als bedoeld in [artikel 3 van het algemene deel](https://wetten.overheid.nl/jci1.3:c:BWBV0007046&deel=I&artikel=3&z=2023-11-15&g=2023-11-15), strategische coalities af te sluiten voor een aantal mondiale kwesties, meer bepaald wat betreft de klimaatverandering, oceaangovernance, biodiversiteit, inclusieve en duurzame economische ontwikkeling, de mensenrechten en kwesties in verband met vrede en veiligheid. Waar passend coördineren zij hun standpunten in het kader van de Verenigde Naties en andere internationale en regionale organisaties en fora. Zij treffen concrete maatregelen om belangrijke internationale verdragen en overeenkomsten te ondertekenen, te ratificeren of, naargelang het geval, ertoe toe te treden, en uit te voeren.
 
-#### Artikel 3. Doelstellingen
+##### Artikel 3. Doelstellingen
 
 De Partijen herbevestigen de brede en omvattende aard van dit Protocol en komen onder
 
@@ -2858,7 +2869,7 @@ meer de volgende doelstellingen overeen:
 
 - f. investeren in menselijke en sociale ontwikkeling, aanpakken van ongelijkheid en sociale uitsluiting, met bijzondere aandacht voor steun voor jongeren en de economische, sociale en politieke emancipatie van vrouwen en meisjes.
 
-#### Artikel 4. Regionale integratie en samenwerking
+##### Artikel 4. Regionale integratie en samenwerking
 
 1. De Partijen ondersteunen het proces van regionale integratie en samenwerking in de Stille Oceaan als een manier om landenoverschrijdende problemen aan te pakken en de uitvoering van dit Protocol te vergemakkelijken, en er aldus ten volle van te profiteren, rekening houdend met hun relevante beleidskaders, zoals het kader voor regionalisme in de Stille Oceaan („Framework for Pacific Regionalism”).
 
@@ -2868,7 +2879,7 @@ meer de volgende doelstellingen overeen:
 
 ### HOOFDSTUK 2. ACTOREN EN PROCESSEN
 
-#### Artikel 5. Institutionele bepalingen
+##### Artikel 5. Institutionele bepalingen
 
 1. De bij dit Protocol opgerichte gezamenlijke instellingen, als gedefinieerd in het algemene deel van deze Overeenkomst, met inbegrip van hun samenstelling en functies, zijn de volgende:
 
@@ -2880,7 +2891,7 @@ meer de volgende doelstellingen overeen:
 
 2. De Partijen kunnen besluiten te vergaderen op het niveau van de staatshoofden of regeringsleiders, naargelang van de behoefte, op basis van een onderling overeengekomen kalender en agenda.
 
-#### Artikel 6. Landen en gebieden overzee in de Stille Oceaan
+##### Artikel 6. Landen en gebieden overzee in de Stille Oceaan
 
 1. De Partijen komen overeen de banden aan te halen tussen de met de EU geassocieerde landen en gebieden overzee (LGO) en de OACPS-leden in de Stille Oceaan.
 
@@ -2888,11 +2899,11 @@ meer de volgende doelstellingen overeen:
 
 3. De Partijen komen overeen de LGO in de Stille Oceaan in het kader van de bij dit Protocol opgerichte gezamenlijke instellingen de status van waarnemer te verlenen.
 
-#### Artikel 7. Overlegmechanismen en betrekkingen met belanghebbenden
+##### Artikel 7. Overlegmechanismen en betrekkingen met belanghebbenden
 
 De Partijen zetten overleg- en dialoogmechanismen op met alle relevante belanghebbenden, met inbegrip van lokale autoriteiten, vertegenwoordigers van het maatschappelijk middenveld en de private sector, om hen op de hoogte te houden van en input te verzamelen voor de doeltreffende uitvoering van dit Protocol, onder meer met het oog op de Raad van Ministers Stille Oceaan-EU.
 
-#### Artikel 8. Uitvoering, monitoring en evaluatie
+##### Artikel 8. Uitvoering, monitoring en evaluatie
 
 1. Bij de uitvoering van acties voor elk samenwerkingsgebied houden de Partijen, overeenkomstig het wettelijke kader van deze Overeenkomst, rekening met hun respectieve strategische en beleidskaders, in voorkomend geval met inbegrip van de regionale strategieën die door de OACPS-leden van de Stille Oceaan zijn goedgekeurd.
 
@@ -2906,11 +2917,11 @@ De Partijen zetten overleg- en dialoogmechanismen op met alle relevante belanghe
 
 ## TITEL I. MILIEUDUURZAAMHEID EN KLIMAATVERANDERING
 
-#### Artikel 9
+##### Artikel 9
 
 Gezien de ernstige bedreiging van de klimaatverandering, de stijging van de zeespiegel en de milieuaantasting voor de verwezenlijking van duurzame ontwikkeling en voor mensenlevens, en met name het significante risico voor kleine eilandstaten in ontwikkeling, streven de Partijen ernaar klimaatveerkracht op te bouwen en de aantasting van het milieu om te buigen. Zij treffen ambitieuze maatregelen om de klimaatverandering te matigen en zich eraan aan te passen, het risico van verlies en schade te voorkomen, tot een minimum te beperken en aan te pakken, de kwaliteit van het milieu te beschermen en te verbeteren, en het duurzame beheer van natuurlijke hulpbronnen te ondersteunen. Zij treffen maatregelen om biodiversiteitsverlies tegen te gaan, ecosystemen in stand te houden en te herstellen, oceaangovernance te bevorderen, en rampen te voorkomen en erop te reageren. Zij investeren in groene groei, circulaire economieën en hernieuwbare energie, zodat economische groei hand in hand gaat met milieuduurzaamheid.
 
-#### Artikel 10. Klimaatactie
+##### Artikel 10. Klimaatactie
 
 1. De Partijen herinneren aan de doelstellingen, beginselen en bepalingen van het [Raamverdrag van de VN inzake klimaatverandering](onbekend) en de [Klimaatovereenkomst van Parijs](onbekend) en wijzen op de noodzaak om de mondiale inspanningen voor de aanpak van de klimaatverandering op te voeren in het licht van de bevindingen van het speciale verslag van de Intergouvernementele Werkgroep inzake klimaatverandering (IPCC) over de gevolgen van de opwarming van de aarde met 1,5 °C ten opzichte van de pre-industriële niveaus. In dat verband komen zij overeen bij te dragen tot een mondiale emissiereductie die consistent is met de beperking van de stijging van de gemiddelde temperatuur wereldwijd tot ruim onder de drempel van 2 °C boven het pre-industriële niveau en ernaar te streven de temperatuurstijging wereldwijd tot 1,5 °C te beperken. Zij erkennen het belang om zo spoedig mogelijk te komen tot netto nul wereldwijde door de mens veroorzaakte emissies. Daartoe verbinden zij zich tot opeenvolgende nationaal bepaalde bijdragen (NDC’s) die een vooruitgang zullen betekenen ten opzichte van de huidige nationaal bepaalde bijdragen, en een zo hoog mogelijk ambitieniveau weerspiegelen, in het licht van de diverse nationale omstandigheden, en bevestigen zij opnieuw hun doelstelling om tegen 2050 klimaatneutraliteit te verwezenlijken.
 
@@ -2930,7 +2941,7 @@ Gezien de ernstige bedreiging van de klimaatverandering, de stijging van de zees
 
 9. De Partijen werken samen aan de ontwikkeling van kennisnetwerken voor klimaatadaptatie en -respons, en aan de versterking van de wetenschappelijke, technische, menselijke en institutionele capaciteit voor klimaatactie en milieubeheer en -monitoring, onder meer met behulp van ruimtetechnologieën en informatiesystemen.
 
-#### Artikel 11. Milieu en duurzaam beheer van natuurlijke hulpbronnen
+##### Artikel 11. Milieu en duurzaam beheer van natuurlijke hulpbronnen
 
 1. De Partijen ondersteunen de instandhouding, het duurzame gebruik en het herstel van ecosystemen en de diensten waarin deze voorzien, door biodiversiteit te verbinden met bestaansmiddelen. Zij beschermen, herstellen en bevorderen de biodiversiteit overeenkomstig het [Verdrag inzake biologische diversiteit](onbekend) en het mondiale biodiversiteitskader voor de periode na 2020. Zij ondersteunen de ontwikkeling van langetermijnstrategieën die erop gericht zijn biodiversiteit in de nationale en regionale kaders in de Stille Oceaan te mainstreamen, coördinatie en samenhang tussen instellingen te garanderen en de besluitvorming met informatie te ondersteunen.
 
@@ -2944,7 +2955,7 @@ Gezien de ernstige bedreiging van de klimaatverandering, de stijging van de zees
 
 6. De Partijen pakken alle vormen van verontreiniging doeltreffend aan. De Partijen streven ernaar de nodige regelgevingskaders en handhavingsmechanismen vast te stellen voor een degelijk beheer van chemische stoffen en afval. Zij streven ernaar afvalproductie bij de bron te voorkomen of tot een minimum te beperken en de herbruikbaarheid, recycleerbaarheid en hulpbronnenefficiëntie van producten te verbeteren, om de productie en de consumptie af te stemmen op de verwezenlijking van een circulaire economie. Zij treffen maatregelen om gevaarlijke stoffen in materiaalcycli te voorkomen of tot een minimum te beperken en chemische stoffen in producten gedurende hun hele levenscyclus te beheren.
 
-#### Artikel 12. Weerbaarheid ten aanzien van rampen
+##### Artikel 12. Weerbaarheid ten aanzien van rampen
 
 1. De Partijen werken samen om mensen, samenlevingen, instellingen en infrastructuur weerbaarder te maken ten aanzien van rampen. Zij houden rekening met het nauwe verband tussen rampen en de klimaatverandering en de gevolgen van rampen voor de menselijke en sociale ontwikkeling, de inkomstenbronnen van bevolkingsgroepen, in het bijzonder van kwetsbare groepen en personen, het culturele erfgoed, de milieu-integriteit, de economische ontwikkeling en de menselijke veiligheid. Zij streven ernaar het kader van Sendai voor rampenrisicovermindering 2015-2030 uit te voeren en te monitoren, onder meer via de uitwisseling van informatie en optimale werkwijzen, waarbij rekening wordt gehouden met hun relevante beleidskaders, zoals het kader voor bestendige ontwikkeling in het Stille-Oceaangebied.
 
@@ -2958,7 +2969,7 @@ Gezien de ernstige bedreiging van de klimaatverandering, de stijging van de zees
 
 ## TITEL II. INCLUSIEVE EN DUURZAME ECONOMISCHE ONTWIKKELING
 
-#### Artikel 13
+##### Artikel 13
 
 1. De Partijen zetten geïntegreerde strategieën op en voeren hervormingen door om veerkrachtige en gediversifieerde economieën op te bouwen, economische groei en omvorming te bevorderen, het bedrijfsleven en de handelsbetrekkingen te versterken, en de overgang naar volledige en kwaliteitsvolle werkgelegenheid te steunen. Zij verbinden zich ertoe een bedrijfsklimaat te creëren dat bevorderlijk is voor grotere investeringsstromen en de ontwikkeling van de private sector. Zij versterken en verdiepen de intraregionale economische samenwerking, met inbegrip van de mobiliteit van goederen en diensten. Zij stimuleren en vergemakkelijken een breder gebruik van hun respectieve valuta’s bij internationale transacties.
 
@@ -2966,7 +2977,7 @@ Gezien de ernstige bedreiging van de klimaatverandering, de stijging van de zees
 
 ### HOOFDSTUK 1. ECONOMISCHE GROEI EN DIVERSIFICATIE
 
-#### Artikel 14. Motoren van economische ontwikkeling
+##### Artikel 14. Motoren van economische ontwikkeling
 
 1. De Partijen treffen maatregelen om een hogere economische productiviteit te helpen bereiken, prioritair door middel van diversificatie, technologische vernieuwing en innovatie, en maatregelen voor de verbetering van de macro-economische stabiliteit en de stabiliteit van de financiële sector, de vereenvoudiging en harmonisatie van de regelgeving voor ondernemingen en bedrijfsprocessen, de versterking van doeltreffende en betrouwbare belastingstelsels, en een grotere doeltreffendheid van de overheidsdiensten en het gerecht. Zij passen een gezond mededingingsbeleid toe en garanderen de bescherming van grond- en eigendomsrechten en intellectuele-eigendomsrechten.
 
@@ -2982,7 +2993,7 @@ Gezien de ernstige bedreiging van de klimaatverandering, de stijging van de zees
 
 7. De Partijen verlenen steun ter verbetering van de kwaliteit, beschikbaarheid en toegankelijkheid van verzekeringen en financiële en niet-financiële diensten ten behoeve van private ondernemingen, zowel in de formele als de informele sector. Zij verbeteren de toegang tot betaalbare financiering, onder meer door levensvatbare bancaire en non-bancaire systemen te ontwikkelen en de digitale financiële diensten die een meerwaarde toevoegen, te versterken, door middel van de integratie van bedrijven, vooral micro-, kleine en middelgrote bedrijven, in regionale en mondiale waardeketens, alsmede een verbetering van de productie, de regelgevingscapaciteit voor de handel, het ondernemerschap, de facilitering van bedrijfsactiviteiten, de diversificatie van producten en uitvoerbestemmingen, technologische verbeteringen en innovatie, waaronder platforms voor e-handel.
 
-#### Artikel 15. Investeringen
+##### Artikel 15. Investeringen
 
 1. De Partijen verbinden zich ertoe een gunstig klimaat te stimuleren, te creëren en in stand te houden voor verantwoordelijke investeringen tot hun wederzijds voordeel. Zij stroomlijnen en versnellen administratieve procedures en vereisten, en ondersteunen maatregelen die een voorspelbaar en veilig investeringsklimaat tot stand brengen, partnerschappen faciliteren en de dialoog tussen de publieke en de private sector bevorderen.
 
@@ -2990,7 +3001,7 @@ Gezien de ernstige bedreiging van de klimaatverandering, de stijging van de zees
 
 3. De Partijen verbinden zich ertoe samen te werken om investeringen te faciliteren aan de hand van een passende interventiemix, met bijzondere aandacht voor jongeren en vrouwen.
 
-#### Artikel 16. Ontwikkeling van de private sector
+##### Artikel 16. Ontwikkeling van de private sector
 
 1. De Partijen ondersteunen de ontwikkeling van een dynamische, concurrerende en verantwoordelijke private sector, onder meer door de goedkeuring van het noodzakelijke beleid en de noodzakelijke wetgevende economische en institutionele en wetgevende hervormingen op nationaal of regionaal niveau, of beide. Zij treffen maatregelen om de productiviteit en doeltreffendheid van de private sector te versterken en te verbeteren. Zij hebben bijzondere aandacht voor de groei en een verbetering van het concurrentievermogen van micro-, kleine en middelgrote ondernemingen, starterscentra voor bedrijven en de ontwikkeling van de huisnijverheid.
 
@@ -3000,7 +3011,7 @@ Gezien de ernstige bedreiging van de klimaatverandering, de stijging van de zees
 
 4. De Partijen ondersteunen een efficiënter gebruik van hulpbronnen en de invoering van schonere en milieuvriendelijkere technologieën en industriële processen. Zij pakken resoluut alle vormen van verontreiniging aan die voortkomt uit economische activiteiten, onder meer door middel van een duidelijke definitie en toewijzing van verantwoordelijkheden aan de industrie en de bedrijven in de toeleveringsketen, op basis van het beginsel van de uitgebreide producentenverantwoordelijkheid en van het beginsel „de vervuiler betaalt”.
 
-#### Artikel 17. Wetenschap, technologie, innovatie en onderzoek
+##### Artikel 17. Wetenschap, technologie, innovatie en onderzoek
 
 1. De Partijen werken samen op het gebied van wetenschappelijk onderzoek, technologische ontwikkeling en innovatie, met als doel de sociale en economische ontwikkeling te bevorderen, maatschappelijke uitdagingen aan te pakken en het regionale concurrentievermogen te verbeteren. Zij ontwikkelen de onderlinge koppeling en interoperabiliteit van onderzoeksnetwerken, computerinfrastructuur, en infrastructuur en diensten voor wetenschappelijke gegevens, en zij bevorderen dergelijke ontwikkeling in regionaal verband.
 
@@ -3008,13 +3019,13 @@ Gezien de ernstige bedreiging van de klimaatverandering, de stijging van de zees
 
 3. De Partijen werken samen met betrekking tot onderwerpen van gemeenschappelijk belang op het gebied van civiele ruimteactiviteiten, zoals ruimteonderzoek, toepassingen en diensten voor wereldwijde satellietnavigatiesystemen, de ontwikkeling van satellietaugmentatiesystemen, aardobservatie en aardwetenschap, met name wat betreft het gebruik van vroegtijdige waarschuwing en surveillance.
 
-#### Artikel 18. Overmakingen
+##### Artikel 18. Overmakingen
 
 De Partijen erkennen het belang van overmakingen als een belangrijke bron voor inclusieve en duurzame ontwikkeling, en streven ernaar tegen 2030 de transactiekosten bij overmakingen te verlagen tot minder dan 3 % en transactieroutes met kosten van meer dan 5 % te elimineren, de financiële geletterdheid en financiële inclusie te bevorderen via innovatieve financiële instrumenten, de regelgevende kaders voor een grotere betrokkenheid van niet-traditionele spelers te verbeteren, onder meer door het gebruik van nieuwe technologieën.
 
 ### HOOFDSTUK 2. HANDELSSAMENWERKING
 
-#### Artikel 19. Handelsintegratie
+##### Artikel 19. Handelsintegratie
 
 1. De Partijen verbinden zich ertoe commerciële kansen tot wederzijds voordeel alsook met de ruimere regio die de LGO omvat, te stimuleren. Zij streven ernaar de soepele en geleidelijke integratie van de OACPS-leden van de Stille Oceaan in de mondiale economie te bevorderen, met name door het potentieel van de regionale integratie en de handel met andere regio’s ten volle te benutten.
 
@@ -3022,7 +3033,7 @@ De Partijen erkennen het belang van overmakingen als een belangrijke bron voor i
 
 3. De Partijen ondersteunen de regionale economische integratieprocessen in de Stille Oceaan, met onder meer handelsfacilitering en harmonisatie van de regelgeving, om de landen in staat te stellen voordeel te halen uit de handel met hun buren en hun integratie in regionale en mondiale waardeketens te stimuleren.
 
-#### Artikel 20. Handelscapaciteit
+##### Artikel 20. Handelscapaciteit
 
 1. De Partijen werken samen aan de opbouw van handelscapaciteit, onder meer door de productie en het ondernemerschap te versterken en meer te investeren in waardetoevoegende sectoren. Zij garanderen dat de randvoorwaarden en het juiste binnenlandse beleid voorhanden zijn om grotere handelsstromen te faciliteren.
 
@@ -3036,7 +3047,7 @@ De Partijen erkennen het belang van overmakingen als een belangrijke bron voor i
 
 6. De Partijen erkennen de bijdrage van de digitale technologie aan handelsfacilitatie en komen overeen samen te werken aan passende regionale digitale platforms in de Stille Oceaan voor nationale en grensoverschrijdende handel.
 
-#### Artikel 21. Diensten
+##### Artikel 21. Diensten
 
 1. De Partijen ondersteunen de ontwikkeling van een sterke en gezonde dienstensector, waarbij rekening wordt gehouden met het belang ervan voor de economische groei en het creëren van werkgelegenheid, als stimulans voor alle economische activiteiten, transformatieve productie en uitvoerprocessen.
 
@@ -3046,7 +3057,7 @@ De Partijen erkennen het belang van overmakingen als een belangrijke bron voor i
 
 ### HOOFDSTUK 3. BELANGRIJKE SECTOREN
 
-#### Artikel 22. De blauwe economie
+##### Artikel 22. De blauwe economie
 
 1. De Partijen bevorderen een goed bestuurde, duurzame blauwe economie die ernaar streeft duurzame economische groei te verzoenen met het creëren van werkgelegenheid, betere inkomstenbronnen en sociale rechtvaardigheid, eerlijke economische baten en een versterkte voedselzekerheid, gebaseerd op de instandhouding van mariene ecosystemen en biodiversiteit en een duurzaam gebruik van hulpbronnen.
 
@@ -3060,7 +3071,7 @@ De Partijen erkennen het belang van overmakingen als een belangrijke bron voor i
 
 6. De Partijen bevorderen hernieuwbare mariene energie met het oog op een versnelde transitie naar schone energie op alle eilanden.
 
-#### Artikel 23. Landbouw
+##### Artikel 23. Landbouw
 
 1. De Partijen bevorderen duurzame landbouw en ondersteunen agro-ecologische praktijken en acties met het oog op een klimaatveerkrachtige landbouw en om te zorgen voor toegevoegde waarde en diversificatie, met als doel te voorzien in een verbetering van het levensonderhoud, hogere inkomens en de creatie van waardig werk.
 
@@ -3070,7 +3081,7 @@ De Partijen erkennen het belang van overmakingen als een belangrijke bron voor i
 
 4. De Partijen werken samen om schadelijke plaagorganismen, ziekten en invasieve soorten die hun landbouw aantasten, te bestrijden.
 
-#### Artikel 24. Toerisme
+##### Artikel 24. Toerisme
 
 1. De Partijen verbinden zich ertoe een evenwichtige en duurzame ontwikkeling van het toerisme te garanderen, waarbij het potentieel ervan voor economische groei, het creëren van fatsoenlijke banen en grotere overheidsinkomsten wordt gemaximaliseerd, en tegelijk de integratie van de ecologische, culturele en sociale dimensie wordt gegarandeerd.
 
@@ -3080,7 +3091,7 @@ De Partijen erkennen het belang van overmakingen als een belangrijke bron voor i
 
 4. De Partijen stimuleren investeringen in de bevordering en ontwikkeling van toeristische producten en diensten. Zij bevorderen de ontwikkeling van innovatieve partnerschappen met relevante luchtvaart- en cruisemaatschappijen en investeren in de ontwikkeling van menselijk kapitaal, opleiding en capaciteitsopbouw op het gebied van toerisme, marketing, met inbegrip van digitale marketing, en zij moedigen zakelijke contacten aan alsook uitwisselingen van gekwalificeerd personeel, met het oog op een sterker concurrentievermogen, betere dienstverlening en de verdere ontwikkeling van de toerismesector.
 
-#### Artikel 25. Duurzame energie
+##### Artikel 25. Duurzame energie
 
 1. De Partijen erkennen het belang van de energiesector voor de economische welvaart en voor de menselijke en sociale ontwikkeling en de menselijke veiligheid, en de noodzaak van een vlotte overgang naar een koolstofarme economie. Zij streven ernaar de energiezekerheid en de veerkracht van de energie-infrastructuur te versterken om de toegankelijkheid en betaalbaarheid van schone energie te verbeteren.
 
@@ -3092,7 +3103,7 @@ De Partijen erkennen het belang van overmakingen als een belangrijke bron voor i
 
 5. De Partijen bevorderen de energietransitie van de regio van de Stille Oceaan door de ontwikkeling en ingebruikstelling van schone, diverse, kosteneffectieve en duurzame energietechnologieën, waaronder hernieuwbare en emissiearme energietechnologieën.
 
-#### Artikel 26. Connectiviteit
+##### Artikel 26. Connectiviteit
 
 1. Zich bewust van de geografische beperkingen van de eilandstaten van de Stille Oceaan, versterken de Partijen de connectiviteit in de hele regio en zorgen zij ervoor dat dit op duurzame, omvattende en op regels gebaseerde wijze gebeurt, en dat investeringen en een gelijk speelveld voor bedrijven worden gestimuleerd. Zij streven ernaar veilige, zekere, veerkrachtige en duurzame transportverbindingen in de lucht, over land en op zee op te zetten, alsook digitale netwerken, zowel mobiel als vast, en gaande van de internet-backbone tot de laatste kilometer, en van kabels tot satellieten. Zij verbinden zich ertoe te streven naar energieconnectiviteit, met het oog op de bevordering van moderne, doeltreffende en schone oplossingen en contacten van persoon tot persoon.
 
@@ -3104,7 +3115,7 @@ De Partijen erkennen het belang van overmakingen als een belangrijke bron voor i
 
 5. De Partijen streven ernaar de toegang te bevorderen tot open, betaalbare en veilige breedbandconnectiviteit en digitale infrastructuren, onder meer door middel van verbeterde onderzeekabels. Zij treffen maatregelen om een gemakkelijke toegang te faciliteren tot ICT en het passende gebruik te ondersteunen van kunstmatige intelligentie, „het internet der dingen” en de toepassing van uitgebreide goedkope draadloze netwerken, aangepast aan de lokale omstandigheden. Zij streven ernaar de nodige regelgevende instanties op te zetten om vergunningen af te geven aan dienstenverleners, concurrerend gedrag te bevorderen, het welzijn en de bescherming van de consument te garanderen en de regionale samenwerking te versterken, rekening houdend met de relevante beleidskaders van de Partijen, zoals het regionale strategische ICT-actieplan voor de Stille Oceaan.
 
-#### Artikel 27. Winningsindustrieën
+##### Artikel 27. Winningsindustrieën
 
 1. De Partijen erkennen de bijdrage van de winningsindustrieën aan de economische ontwikkeling en faciliteren duurzame en verantwoordelijke investeringen door middel van passende wetgeving, beleidsmaatregelen en regelgevingskaders die conform zijn de internationale beste praktijken. Zij streven ernaar een eerlijke en onverstoorde toegang tot bodemschatten te garanderen, met volledige eerbiediging van de nationale wetgeving en de soevereiniteit van de landen over hun natuurlijke hulpbronnen, en zij eerbiedigen de rechten van de hierbij betrokken lokale gemeenschappen.
 
@@ -3112,7 +3123,7 @@ De Partijen erkennen het belang van overmakingen als een belangrijke bron voor i
 
 3. De Partijen bevorderen het gebruik van relevante technologieën om een duurzame en verantwoordelijke exploratie en winning van bodemschatten te faciliteren.
 
-#### Artikel 28. Bosbouw
+##### Artikel 28. Bosbouw
 
 1. De Partijen bevorderen duurzaam bosbeheer en het duurzame gebruik van bosbestanden, verminderen ontbossing en bosdegradatie en roepen deze een halt toe, houden de biodiversiteit en ecosystemen in bossen in stand, bestrijden illegale houtkap en de daarmee samenhangende handel, en bevorderen hulpbronnen- en energie-efficiënte producten die afkomstig zijn van duurzaam beheerde bossen.
 
@@ -3126,13 +3137,13 @@ De Partijen erkennen het belang van overmakingen als een belangrijke bron voor i
 
 ## TITEL III. OCEANEN, ZEEËN EN VISSERIJ
 
-#### Artikel 29
+##### Artikel 29
 
 De Partijen erkennen de essentiële rol van de oceanen voor het leven op aarde, duurzame ontwikkeling en de inkomstenbronnen van bevolkingsgroepen. Zij komen overeen hun inspanningen op te voeren om de oceanen en de zeeën te beschermen tegen de negatieve gevolgen van verschillende vormen van druk, zoals de klimaatverandering, de verzuring van de oceanen, koraalverbleking, overexploitatie, illegale, ongemelde en ongereglementeerde visserij en andere destructieve en niet-duurzame activiteiten. Zij bevorderen de duurzame ontwikkeling van de blauwe economie, beschermen mariene ecosystemen en biodiversiteit, bestrijden alle vormen van verontreiniging, en passen klimaatmitigatie- en adaptatiemaatregelen toe.
 
 ### HOOFDSTUK 1. OCEAANGOVERNANCE
 
-#### Artikel 30. Duurzame oceanen
+##### Artikel 30. Duurzame oceanen
 
 1. De Partijen erkennen elkaars inspanningen voor een verbeterde geïntegreerde oceaangovernance, strengere regionale en subregionale maatregelen voor de instandhouding van het visbestand en het beheer ervan, monitoring, controle en toezicht op visserij, andere regio-specifieke strategieën, en instrumenten voor een doeltreffend oceaanbeheer.
 
@@ -3154,7 +3165,7 @@ De Partijen erkennen de essentiële rol van de oceanen voor het leven op aarde, 
 
 10. De Partijen erkennen de algemene bezorgdheid over de impact van zeebodemmijnbouw op het mariene milieu en de biodiversiteit daarvan. Zij maken gebruik van de beste beschikbare wetenschappelijke kennis, passen het voorzorgsbeginsel en de ecosysteembenadering toe, bevorderen onderzoek en delen beste praktijken op gebieden van wederzijds belang die verband houden met de minerale rijkdommen van de zeebodem, teneinde een degelijk ecologisch beheer van activiteiten voor de bescherming en de instandhouding van het mariene milieu en de biodiversiteit ervan te waarborgen.
 
-#### Artikel 31. Biodiversiteit van gebieden voorbij de grenzen van de nationale rechtsmacht
+##### Artikel 31. Biodiversiteit van gebieden voorbij de grenzen van de nationale rechtsmacht
 
 1. De Partijen werken samen, onder meer via de bevoegde internationale en regionale organisaties en regelingen, aan de instandhouding en het duurzame gebruik van de mariene biodiversiteit van gebieden voorbij de grenzen van de nationale rechtsmacht, op basis van de beste beschikbare kennis.
 
@@ -3162,7 +3173,7 @@ De Partijen erkennen de essentiële rol van de oceanen voor het leven op aarde, 
 
 ### HOOFDSTUK 2. VISSERIJ
 
-#### Artikel 32. Duurzame instandhouding en duurzaam beheer van visbestanden
+##### Artikel 32. Duurzame instandhouding en duurzaam beheer van visbestanden
 
 1. De Partijen werken waar passend op bilateraal, subregionaal, regionaal en multilateraal niveau samen om de instandhouding en het duurzame beheer en gebruik van visbestanden te garanderen.
 
@@ -3172,7 +3183,7 @@ De Partijen erkennen de essentiële rol van de oceanen voor het leven op aarde, 
 
 4. De Partijen werken samen om de duurzame economische ontwikkeling van kustvisserij te garanderen aan de hand van efficiënte beleidsmaatregelen en wet- en regelgeving. Zij bevorderen de toegang tot visbestanden voor de lokale gemeenschappen en kleinschalige en ambachtelijke vissers, en zij bevorderen voedselzekerheid en billijkheid binnen en tussen generaties.
 
-#### Artikel 33. Illegale, ongemelde en ongereglementeerde visserij
+##### Artikel 33. Illegale, ongemelde en ongereglementeerde visserij
 
 1. In overeenstemming met de internationale verplichtingen handhaven de Partijen initiatieven, of keuren zij deze goed, voor de bestrijding van illegale, ongemelde en ongereglementeerde visserij in hun respectieve rechtsgebieden, in andere rechtsgebieden en op open zee, in de overtuiging dat dergelijke activiteiten een ernstige bedreiging vormen voor de doeltreffende instandhouding, het doeltreffende beheer en de duurzame exploitatie van visbestanden.
 
@@ -3182,19 +3193,19 @@ De Partijen erkennen de essentiële rol van de oceanen voor het leven op aarde, 
 
 4. De Partijen streven ernaar de relevante internationale overeenkomsten met betrekking tot illegale, ongemelde en ongereglementeerde visserij te ratificeren, met name de Overeenkomst inzake havenstaatmaatregelen om illegale, ongemelde en ongereglementeerde visserij te voorkomen, tegen te gaan en te beëindigen, gedaan te Rome op 22 november 2009, en zij bevorderen complementariteit en consistentie tussen de internationale en de regionale maatregelen en strategieën ter bestrijding van illegale, ongemelde en ongereglementeerde visserij.
 
-#### Artikel 34. Schadelijke visserijsubsidies
+##### Artikel 34. Schadelijke visserijsubsidies
 
 De Partijen komen overeen de nodige maatregelen te nemen om bepaalde vormen van visserijsubsidies die bijdragen tot overcapaciteit en overbevissing, te verbieden, subsidies die bijdragen tot illegale, ongemelde en ongereglementeerde visserij, af te schaffen en geen nieuwe subsidies van dien aard in te voeren, waarbij zij erkennen dat een passende en doeltreffende speciale en gedifferentieerde behandeling van de ontwikkelingslanden en minst ontwikkelde landen in de Stille Oceaan integraal deel moet uitmaken van de onderhandelingen over visserijsubsidies van de WTO.
 
 ## TITEL IV. VEILIGHEID, MENSENRECHTEN, DEMOCRATIE EN GOED BESTUUR
 
-#### Artikel 35
+##### Artikel 35
 
 De Partijen werken samen aan het opbouwen van een vreedzame en veerkrachtige maatschappij, zij beschermen, bevorderen en behartigen de mensenrechten, en zij versterken de democratische beginselen en goed bestuur. Zij ondersteunen verantwoordingsplichtige en transparante instellingen op alle niveaus en zetten concrete stappen inzake goed belastingbeheer, en de strijd tegen corruptie, fraude en witwassen. Zij pakken nieuwe of zich uitbreidende bedreigingen voor de veiligheid aan, waaronder terrorisme, bedreigingen voor de cyberveiligheid en alle vormen van grensoverschrijdende georganiseerde misdaad, met name in verband met maritieme veiligheid, cybermisdaad, menselijke veiligheid en milieuveiligheid, met handhaving van de mensenrechten, onder meer door middel van regionale samenwerking, en rekening houdend met hun relevante beleidskaders, zoals de beginselen die zijn uiteengezet in de verklaring van Boe inzake regionale veiligheid en de relevante strategieën voor het gezamenlijk buitenlands en veiligheidsbeleid van de EU. Zij streven ernaar om, waar het passend is overeenkomstig bestaande internationale verplichtingen, de werkzaamheden van mensenrechtenmechanismen in relevante kwesties te faciliteren, onder meer die van de Hoge Commissaris van de VN voor de mensenrechten.
 
 ### HOOFDSTUK 1. VEILIGHEID
 
-#### Artikel 36. Vrede en veiligheid
+##### Artikel 36. Vrede en veiligheid
 
 1. De Partijen werken samen om vrede, veiligheid en recht te garanderen door de bescherming, bevordering en behartiging van de mensenrechten, goed bestuur, versterkte menselijke veiligheid, milieuveiligheid, conflictpreventie en vredesopbouw.
 
@@ -3208,7 +3219,7 @@ De Partijen werken samen aan het opbouwen van een vreedzame en veerkrachtige maa
 
 6. De Partijen versterken de samenwerking ter bevordering van de cyberveiligheid, ter preventie en bestrijding van cybermisdrijven en gedigitaliseerde criminaliteit, zoals cyberdiefstal van intellectuele eigendom. Zij werken samen voor de uitwisseling van beste praktijken over de manier waarop nationale en regionale kritieke infrastructuur het best kan worden beveiligd tegen cyberaanvallen. Zij bevorderen multistakeholder-internetgovernance en pakken kwesties aan die verband houden met de online-verspreiding van ongeoorloofde of schadelijke inhoud. Zij wisselen informatie uit met betrekking tot opleiding en scholing van technisch deskundigen op het gebied van cyberveiligheid, onderzoekers naar cybermisdaden, onderzoek van cybercriminaliteit en digitale forensische wetenschap. Zij versterken de internationale samenwerking ter bevordering van veiligheid en stabiliteit in de cyberruimte. Zij erkennen dat cybercriminaliteit een mondiaal probleem is en erkennen de noodzaak om zich te baseren op de bestaande internationale normen en regels, onder meer het [Verdrag van Boedapest inzake cybercriminaliteit](onbekend).
 
-#### Artikel 37. Georganiseerde misdaad
+##### Artikel 37. Georganiseerde misdaad
 
 1. De Partijen versterken de wetgeving en strategieën ter bestrijding van grensoverschrijdende georganiseerde misdaad en passen deze toe, onder meer in verband met, maar niet beperkt tot, mensenhandel, illegale drugs, handvuurwapens en lichte wapens, illegale houtkap en de daarmee samenhangende handel, de illegale handel in bedreigde soorten, met inbegrip van bedreigde mariene soorten, wilde dieren en planten en daarvan afgeleide producten, en andere illegale economische en financiële activiteiten.
 
@@ -3218,7 +3229,7 @@ De Partijen werken samen aan het opbouwen van een vreedzame en veerkrachtige maa
 
 ### HOOFDSTUK 2. MENSENRECHTEN, DEMOCRATIE EN GOED BESTUUR
 
-#### Artikel 38. Mensenrechten
+##### Artikel 38. Mensenrechten
 
 1. De Partijen erkennen dat de mensenrechten universeel, ondeelbaar, onderling afhankelijk en onderling verbonden zijn, en zij komen overeen alle mensenrechten, ongeacht of het burgerrechten, politieke, economische, sociale of culturele rechten betreft, te eerbiedigen, te beschermen, te behartigen en te bevorderen. Zij treffen de noodzakelijke maatregelen overeenkomstig de relevante internationale verdragen om het volledige en gelijke genot te garanderen van alle mensenrechten en fundamentele vrijheden, met inbegrip van de vrijheid van mening en meningsuiting, de vrijheid van vergadering en vereniging, en de vrijheid van denken, godsdienst en overtuiging. Zij bestrijden en pakken alle vormen aan van racisme, discriminatie, gendergebaseerde discriminatie, ook als deze tot uiting komt in gendergerelateerd geweld, mensenhandel, specifiek van vrouwen en meisjes met het oog op seksuele uitbuiting, haatuitingen en haatmisdrijven, alsmede van vreemdelingenhaat en daarmee verband houdende onverdraagzaamheid.
 
@@ -3230,7 +3241,7 @@ De Partijen werken samen aan het opbouwen van een vreedzame en veerkrachtige maa
 
 5. De Partijen werken samen aan de verwezenlijking van de mensenrechten in de regio van de Stille Oceaan, onder meer door onafhankelijke nationale en regionale mensenrechtenmechanismen en instellingen op te zetten en te versterken en door een veilig klimaat te creëren voor actieve betrokkenheid van het maatschappelijk middenveld, mensenrechtenactivisten en andere relevante belanghebbenden, onder meer door hun capaciteit op te bouwen en toegang te verlenen tot regionale en internationale mensenrechtenmechanismen.
 
-#### Artikel 39. Democratie en goed bestuur
+##### Artikel 39. Democratie en goed bestuur
 
 1. De Partijen houden democratische processen en instellingen in stand overeenkomstig internationaal erkende beginselen en nationale wettelijke kaders, met inbegrip van verantwoordingsplichtige regeringen die worden verkozen via vreedzame, inclusieve, transparante en geloofwaardige verkiezingen, de aanvaarding van verkiezingsresultaten en de daaruit voortvloeiende regeringswissel, en het recht van individuele personen om deel te nemen aan de openbare aangelegenheden van de maatschappij waarin zij leven.
 
@@ -3244,7 +3255,7 @@ De Partijen werken samen aan het opbouwen van een vreedzame en veerkrachtige maa
 
 6. De Partijen versterken de bestuurssystemen om irreguliere migratie tegen te gaan en migrantensmokkel en de daarmee verband houdende criminele netwerken alsook mensenhandel, te bestrijden met speciale aandacht voor de bescherming van slachtoffers.
 
-#### Artikel 40. De rechtsstaat en justitie
+##### Artikel 40. De rechtsstaat en justitie
 
 1. De Partijen bevorderen de eerbiediging van de wet en werken samen aan de versterking van de rechtsstaat. Zij streven ernaar een onafhankelijk, onpartijdig en doeltreffend rechtsstelsel te waarborgen en de instellingen voor de rechtsbedeling te versterken. Zij zetten de noodzakelijke stappen om de toegang tot het gerecht en een eerlijke rechtsgang voor iedereen te garanderen.
 
@@ -3252,7 +3263,7 @@ De Partijen werken samen aan het opbouwen van een vreedzame en veerkrachtige maa
 
 3. De Partijen bevorderen de hervorming van het gerecht om efficiënte rechtssystemen en - procedures en moderne penitentiaire stelsels te garanderen. Zij werken samen om de capaciteit van de voornaamste actoren in het gerecht en de wetgevende organen te verbeteren.
 
-#### Artikel 41. Goed financieel bestuur
+##### Artikel 41. Goed financieel bestuur
 
 1. De Partijen bevorderen gezonde overheidsfinanciën, inclusief de doeltreffende mobilisering en het dito gebruik van overheidsinkomsten, een duurzaam beheer van de overheidsschuld, duurzame, transparante, concurrerende en voorspelbare systemen voor overheidsopdrachten en de ondersteuning van nationale toezichthoudende instanties.
 
@@ -3262,13 +3273,13 @@ De Partijen werken samen aan het opbouwen van een vreedzame en veerkrachtige maa
 
 ## TITEL V. MENSELIJKE EN SOCIALE ONTWIKKELING
 
-#### Artikel 42
+##### Artikel 42
 
 De Partijen zijn vastbesloten armoede in al haar vormen tegen 2030 uit te roeien, de menselijke en sociale ontwikkeling te stimuleren door middel van inclusieve en eerlijke toegang tot sociale diensten en betere voedselzekerheid, ongelijkheid doeltreffend te bestrijden, gendergelijkheid en de versterking van de positie van vrouwen en jongeren te bevorderen, ervoor te zorgen dat elkeen de noodzakelijke middelen heeft om een waardig leven te leiden, de voorwaarden te scheppen voor de doeltreffende participatie van mensen aan het democratische leven en hun actieve bijdrage tot duurzame economische groei. Zij treffen concrete maatregelen om de sociale samenhang en de sociale bescherming te bevorderen als een fundamentele investering in de uitbanning van armoede en de bestrijding van ongelijkheid, en als een belangrijk middel om economische baten opnieuw op bredere wijze in de maatschappij en de bevolking te investeren. Zij bevorderen cultuur en sport als motoren voor duurzame menselijke en sociale ontwikkeling en inclusieve economische groei, voor sociale inclusie en een vreedzame maatschappij.
 
 ### HOOFDSTUK 1. SOCIALE DIENSTEN
 
-#### Artikel 43. Onderwijs
+##### Artikel 43. Onderwijs
 
 1. De Partijen ondersteunen inclusieve en eerlijke toegang tot kwalitatief onderwijs op lager, middelbaar en hoger onderwijsniveau, kinderdagopvang en technisch en beroepsonderwijs en -opleiding, rekening houdend met hun relevante beleidskaders, waaronder het regionale onderwijskader voor de Stille Oceaan. Zij bevorderen de ontwikkeling van digitale geletterdheid en vaardigheden. Zij besteden in het bijzonder aandacht aan vrouwen en meisjes en gemarginaliseerde en kwetsbare groepen, waaronder personen met een handicap.
 
@@ -3278,7 +3289,7 @@ De Partijen zijn vastbesloten armoede in al haar vormen tegen 2030 uit te roeien
 
 4. De Partijen streven naar de verbetering van de infrastructuur en uitrusting van onderwijscentra. Zij verbeteren de kwaliteit van het onderwijs door middel van empirisch onderbouwde beleidsmaatregelen, curriculumontwikkeling en een betere kwaliteit van de lerarenopleiding en de professionele ontwikkeling.
 
-#### Artikel 44. Gezondheid
+##### Artikel 44. Gezondheid
 
 1. De Partijen streven naar universele gezondheidszorgdekking en billijke toegang tot gezondheidsdiensten, onder meer door versterkte nationale gezondheidsstelsels, gemoderniseerde faciliteiten en uitrusting en kwalitatief hoogstaande en betaalbare geneesmiddelen en vaccins.
 
@@ -3286,7 +3297,7 @@ De Partijen zijn vastbesloten armoede in al haar vormen tegen 2030 uit te roeien
 
 3. De Partijen versterken de nationale en regionale systemen voor toezicht en monitoring om besmettelijke ziekten en andere noodsituaties op gezondheidsgebied van nationale, regionale en internationale omvang te detecteren en er snel en doeltreffend op te reageren, met inbegrip van infecties die mogelijk tot een pandemie kunnen uitgroeien zoals griep. Zij werken samen om de „één gezondheid”-benadering te hanteren voor de aanpak van antimicrobiële resistentie en de gevolgen daarvan voor de gezondheid van mens en dier.
 
-#### Artikel 45. Water en sanitaire voorzieningen
+##### Artikel 45. Water en sanitaire voorzieningen
 
 1. De Partijen voeren hun inspanningen op om de toegang te bevorderen tot voldoende, veilig en betaalbaar water voor persoonlijk en huishoudelijk gebruik, met speciale aandacht voor mensen in een kwetsbare situatie. Zij bevorderen initiatieven om de waterzekerheid te vergroten ten aanzien van de gevolgen van de bevolkingsgroei, de variabiliteit van het klimaat en de klimaatverandering, onder meer door een doeltreffender gebruik van water, drinkwaterveiligheid, het duurzame gebruik van waterbestanden, en de ontwikkeling van nationale stroomgebieden en opslagsystemen.
 
@@ -3294,13 +3305,13 @@ De Partijen zijn vastbesloten armoede in al haar vormen tegen 2030 uit te roeien
 
 3. De Partijen erkennen het belang van gedeelde kennis en technologie, zoals capaciteitsopbouw die nodig is voor het plannen, uitvoeren en onderhouden van systemen en infrastructuur voor kwalitatief water en sanitair.
 
-#### Artikel 46. Huisvesting
+##### Artikel 46. Huisvesting
 
 1. De Partijen voeren hun inspanningen op om billijke toegang te garanderen tot passende, veilige en betaalbare huisvesting voor iedereen, met inbegrip van personen in een kwetsbare situatie. Zij pakken het probleem van ongelijkheid aan tussen stedelijke huishoudens en landelijke gebieden, alsook tussen afgelegen eilanden en grote eilanden. Zij bevorderen de uitwisseling van beste praktijken, bijvoorbeeld inzake bouwnormen, met het oog op meer ecologische veerkracht en klimaatslimme huisvesting.
 
 2. De Partijen streven naar universele toegang tot duurzame energiediensten voor iedereen en ondersteunen de toegang tot elektriciteit en de efficiëntie van het energieverbruik van huishoudens.
 
-#### Artikel 47. Voedselzekerheid en betere voeding
+##### Artikel 47. Voedselzekerheid en betere voeding
 
 1. De Partijen streven ernaar te garanderen dat iedereen toegang krijgt tot voldoende, betaalbare, veilige en voedzame levensmiddelen, onder meer door lokale voedzame levensmiddelen te bevorderen en te investeren in duurzame levensmiddelensystemen, met inbegrip van klimaatbestendig vervoer en dito opslag. Er wordt bijzonder op gelet dat voldoende noodvoedselhulp beschikbaar is tijdens het herstel na rampen.
 
@@ -3312,13 +3323,13 @@ De Partijen zijn vastbesloten armoede in al haar vormen tegen 2030 uit te roeien
 
 ### HOOFDSTUK 2. ONGELIJKHEID, SOCIALE SAMENHANG EN SOCIALE BESCHERMING
 
-#### Artikel 48. Sociale bescherming
+##### Artikel 48. Sociale bescherming
 
 1. De Partijen bevorderen de totstandkoming van meer inclusieve en goed functionerende arbeidsmarkten en een werkgelegenheidsbeleid dat is gericht op het garanderen van waardig werk voor iedereen, met inbegrip van betere gezondheids- en veiligheidsomstandigheden voor werknemers. Zij pakken problemen aan in verband met de informele economie, met inbegrip van toegang tot kredieten en microfinanciering en versterkte maatregelen voor sociale bescherming, met het oog op een vlotte overgang naar de formele economie. Zij bestrijden alle vormen van uitbuiting uit winstbejag, met inbegrip van seksuele uitbuiting en uitbuiting van werknemers, zowel in de formele als de informele economie.
 
 2. De Partijen werken aan de uitbreiding van de sociale bescherming, in het bijzonder voor mensen in een kwetsbare situatie of voor gemarginaliseerde groepen, alsmede voor personen die in de formele en informele economie werkzaam zijn, met als doel om geleidelijk aan universele dekking te bereiken door middel van elementaire inkomenszekerheid en adequate en schokbestendige sociale-beschermingssystemen.
 
-#### Artikel 49. Gendergelijkheid en de versterking van de positie van vrouwen en meisjes
+##### Artikel 49. Gendergelijkheid en de versterking van de positie van vrouwen en meisjes
 
 1. De Partijen versterken het beleid, de programma’s en de mechanismen met het oog op het verbeteren en uitbreiden van gelijke participatie en gelijke kansen voor mannen en vrouwen in alle sectoren van het politieke, economische, sociale en culturele leven. Zij bepleiten de ratificatie en ondersteunen de volledige uitvoering van het [Verdrag inzake de uitbanning van alle vormen van discriminatie van vrouwen](onbekend), gedaan te New York op 18 december 1979, en het facultatieve Protocol daarbij. Zij zorgen ervoor dat het genderperspectief systematisch wordt geïntegreerd in alle beleidsdomeinen. Zij houden rekening met hun relevante beleidskaders, zoals de regionale architectuur voor gendergelijkheid in de Stille Oceaan.
 
@@ -3332,7 +3343,7 @@ De Partijen zijn vastbesloten armoede in al haar vormen tegen 2030 uit te roeien
 
 6. De Partijen zetten zich in voor de volledige en doeltreffende uitvoering van de Verklaring en het Actieprogramma van Peking en het Actieprogramma van de Internationale Conferentie over Bevolking en Ontwikkeling en de resultaten van de toetsingsconferenties daarvan. Zij treffen beleidsmaatregelen en ontwerpen programma’s die streven naar universele toegang tot betaalbare, volledige en geïntegreerde kwaliteitsvolle diensten voor seksuele en reproductieve gezondheid met passende voorlichting, informatie en programma’s inzake seksuele opvoeding, zo nodig rekening houdend met de internationale technische richtsnoeren van de Unesco inzake seksuele voorlichting en de verstrekking van relevante diensten voor seksuele en reproductieve gezondheidszorg. De Partijen ondersteunen waar passend de doeltreffende uitvoering van de ministeriële verklaring inzake bevolking en ontwikkeling in Azië en de Stille Oceaan.
 
-#### Artikel 50. Jongeren
+##### Artikel 50. Jongeren
 
 1. De Partijen zetten bestuursstructuren op om het demografische dividend van jongeren te benutten, de positie van jongeren te versterken en hun invloed op besluitvormingsprocessen en hun actieve deelname aan het politieke leven en aan inspanningen voor vredesopbouw en verzoening te vergroten. Zij bevorderen een grotere participatie van jongeren in milieu-acties, meer bepaald in de monitoring van de klimaatverandering en adaptatieprogramma’s.
 
@@ -3342,13 +3353,13 @@ De Partijen zijn vastbesloten armoede in al haar vormen tegen 2030 uit te roeien
 
 4. De Partijen treffen maatregelen om de systemen en garanties voor kinderbescherming te verbeteren en te versterken. Zij ondersteunen maatregelen om een einde te stellen aan kinderarbeid en misbruik, huwelijken op jonge leeftijd en gedwongen huwelijken en lijfstraffen.
 
-#### Artikel 51. Personen met een handicap
+##### Artikel 51. Personen met een handicap
 
 1. De Partijen bevorderen, beschermen en behartigen de rechten van personen met een handicap zonder discriminatie van enige aard. Zij treffen concrete maatregelen om de volledige integratie van deze personen in de maatschappij te garanderen door gelijke toegang tot sociale diensten, zoals voor onderwijs en gezondheid, en hun doeltreffende participatie in de arbeidsmarkt en andere economische kansen.
 
 2. De Partijen moedigen de ratificatie aan en ondersteunen de doeltreffende uitvoering van het [VN-Verdrag inzake de rechten van personen met een handicap](onbekend), rekening houdend met hun relevante beleidskaders.
 
-#### Artikel 52. Cultuur, sport en interpersoonlijke contacten
+##### Artikel 52. Cultuur, sport en interpersoonlijke contacten
 
 1. De Partijen versterken de bescherming en bevordering van materieel en immaterieel cultureel erfgoed, alsmede van de diversiteit van cultuuruitingen, teneinde het wederzijds begrip te vergroten en een evenwichtige culturele uitwisseling te bevorderen. Zij werken samen aan en bevorderen investeringen ter ondersteuning van het behoud en de promotie van traditionele kunst en culturen, inheemse kennis en culturele verscheidenheid.
 
@@ -3360,17 +3371,17 @@ De Partijen zijn vastbesloten armoede in al haar vormen tegen 2030 uit te roeien
 
 5. De Partijen bevorderen sport als motor voor duurzame ontwikkeling, inclusieve economische groei, sociale inclusie, non-discriminatie en de bevordering van de mensenrechten. Zij streven ernaar capaciteit op te bouwen, adequate faciliteiten te ontwikkelen en mensen aan te moedig meer aan sport en andere vormen van lichaamsbeweging te gaan doen, met bijzondere aandacht voor jongeren en vrouwen. Daarnaast ondersteunen zij sport als middel voor interculturele dialoog en samenwerking tussen naties, de preventie van conflicten en geweld, en verzoening na conflicten.
 
-#### Artikel 1. Rechtspersoonlijkheid en status
+##### Artikel 1. Rechtspersoonlijkheid en status
 
 1. De Europese Investeringsbank (de „EIB”) en elke dochteronderneming van de EIB beschikken over rechtspersoonlijkheid op het grondgebied van de OACPS-leden, met inbegrip van met name de mogelijkheid om roerend en onroerend goed te huren, te verwerven en van de hand te doen, en in rechte op te treden.
 
 2. De EIB en elke dochteronderneming van de EIB krijgen op het grondgebied van elk OACPS-lid dezelfde behandeling inzake regelingen en status op het gebied van belastingen en douane die is toegekend aan die internationale instelling in het betrokken OACPS-lid met op dat punt de meest gunstige regelingen en status.
 
-#### Artikel 2. Regeling voor banken en de financiële sector
+##### Artikel 2. Regeling voor banken en de financiële sector
 
 De EIB en elke dochteronderneming van de EIB kunnen als internationale organisatie op het grondgebied van de OACPS-leden voor de oogmerken van deze Overeenkomst activiteiten verrichten waarin het statuut van de EIB of enige zulke dochteronderneming voorziet, zoals dat kan worden gewijzigd, met inbegrip van, maar niet beperkt tot, de verstrekking van financiering via leningen, obligaties, garanties, vermogen, quasi-eigen vermogen, of andere financieringsinstrumenten, de verstrekking of financiering van technische bijstand, investeringen op de geldmarkten, de aankoop of verkoop van effecten en de uitvoering van enige andere financiële operatie die met dergelijke activiteiten verband houdt, alsook het beheer van bankrekeningen in alle valuta.
 
-#### Artikel 3. Valuta
+##### Artikel 3. Valuta
 
 1. Voor alle operaties die door de EIB of een van haar dochterondernemingen worden verricht en die door de EU worden gefinancierd met het oog op de verwezenlijking van de doelstellingen van deze Overeenkomst, garanderen de OACPS-leden dat:
 
@@ -3386,7 +3397,7 @@ De EIB en elke dochteronderneming van de EIB kunnen als internationale organisat
 
 - c. alle bedragen in alle volledig converteerbare valuta tegen de dan geldende wisselkoers kan omzetten in de nationale valuta van het betrokken OACPS-lid.
 
-#### Artikel 4. Erkenning van arresten van rechtbanken
+##### Artikel 4. Erkenning van arresten van rechtbanken
 
 Elk OACPS-lid verbindt zich ertoe, ten aanzien van elke betwisting die ontstaat tussen de EIB of een van haar dochterondernemingen en een begunstigde of enige derde partij met betrekking tot de activiteiten van de EIB of een van haar dochterondernemingen voor de verwezenlijking van de doelstellingen van deze Overeenkomst:
 

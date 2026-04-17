@@ -1,13 +1,39 @@
 ---
-title: "Besluit beleidsregels representativiteit"
+title: "Besluit van de Sociaal-Economische Raad van 20 mei 2016, houdende beleidsregels over de bepaling van de representativiteit van organisaties van ondernemers en van werknemers, ten behoeve van de advisering over de samenstelling van de Sociaal-Economische Raad (Besluit beleidsregels representativiteit)"
 identifier: "BWBR0037997"
-categorie: "Overig"
-publicatiedatum: 2016-06-01
-laatste_update: 2016-06-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037997"
+country: "nl"
+rank: "pbo"
+publication_date: "2016-06-01"
+last_updated: "2016-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037997"
+soort: "pbo"
+stam_id: "13600603"
+version_id: "23274562"
+internal_id: "C33586871"
+label_id: "13567464"
+dtd_version: "2.0"
+original_entry_into_force: "2016-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037997/2016-06-01/0"
+intitule_bron: "Stcrt.2016-27589"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-05-20"
+intitule_published: "2016-05-31"
+intitule_in_force: "2016-05-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-27589"
+original_signed_date: "2016-05-20"
+original_published_date: "2016-05-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-27589"
+entry_into_force_date: "2016-06-01"
+jci_1_3: "jci1.3:c:BWBR0037997&z=2016-06-01&g=2016-06-01"
+jci_1_0: "1.0:c:BWBR0037997&g=2016-06-01"
+citeertitel_status: "officieel"
+short_title: "Besluit beleidsregels representativiteit"
+signed_date: "2016-05-20"
+entry_into_force: "2016-06-01"
 ---
-
 # Besluit van de Sociaal-Economische Raad van 20 mei 2016, houdende beleidsregels over de bepaling van de representativiteit van organisaties van ondernemers en van werknemers, ten behoeve van de advisering over de samenstelling van de Sociaal-Economische Raad (Besluit beleidsregels representativiteit)
 
 Gelet op de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=2), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=4) en [41 van de Wet op de Sociaal-Economische Raad](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=41);
@@ -16,11 +42,11 @@ Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overhei
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Deze beleidsregels zijn van toepassing bij het geven van advies over de aanwijzing van organisaties van ondernemers en van werknemers die gerechtigd zijn tot het benoemen van leden van de Sociaal-Economische Raad.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Voor aanwijzing als organisatie die gerechtigd is tot het benoemen van leden van de Sociaal-Economische Raad komen slechts in aanmerking organisaties die:
 
@@ -32,11 +58,11 @@ Deze beleidsregels zijn van toepassing bij het geven van advies over de aanwijzi
 
 3. In afwijking van het tweede lid kunnen ook andere organisaties van ondernemers voor een benoemingsrecht in aanmerking komen, indien door de aanwijzing van centrale organisaties van ondernemers niet een voldoende, alsmede een voldoende gespreide, vertegenwoordiging kan worden verkregen over de ondernemers in het gehele bedrijfsleven. Als voorwaarde daarbij geldt dat deze andere organisaties van ondernemers mede zijn toegerust om zich een oordeel te vormen over sociaal-economische vraagstukken op nationaal niveau.
 
-#### Artikel 3
+##### Artikel 3
 
 Als centrale organisatie van ondernemers of van werknemers wordt beschouwd de organisatie die een bundeling beoogt van ondernemers, respectievelijk werknemers, of van organisaties van ondernemers, respectievelijk organisaties van werknemers, in nagenoeg het gehele bedrijfsleven.
 
-#### Artikel 4
+##### Artikel 4
 
 De criteria, waaraan organisaties moeten voldoen om te kunnen worden aangewezen als organisatie die gerechtigd is tot het benoemen van leden van de Sociaal-Economische Raad, zijn:
 
@@ -50,17 +76,17 @@ De criteria, waaraan organisaties moeten voldoen om te kunnen worden aangewezen 
 
 - e. De individuele leden van de organisatie of van de daarbij aangesloten organisaties moeten voldoende gespreid zijn over het gehele land en over de bedrijfstakken van het bedrijfsleven.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een organisatie van werknemers kan slechts representatief zijn voor een bepaalde groep van werknemers die zij beoogt te organiseren, indien zij een niet onbetekenend aantal leden heeft die tot die groep behoren.
 
 2. Een organisatie van ondernemers kan slechts representatief zijn voor een bepaalde groep van ondernemers die zij beoogt te organiseren, indien haar leden tezamen een niet onbetekenend sociaal-economisch gewicht binnen die groep hebben en derhalve de organisatie qua sociaal-economische grootte niet onbetekenend is.
 
-#### Artikel 6
+##### Artikel 6
 
 Ingeval alle representatieve organisaties van ondernemers of van werknemers, die voor het benoemen van leden van de Sociaal-Economische Raad in aanmerking komen, in onderling overleg volledige overeenstemming bereiken over de verdeling van de ondernemers-, respectievelijk werknemerszetels, geschiedt de toewijzing van zetels dienovereenkomstig.
 
-#### Artikel 7
+##### Artikel 7
 
 Indien de zetelverdeling niet overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037997&artikel=6&z=2016-06-01&g=2016-06-01) kan plaatsvinden, worden de voor ondernemers onderscheidenlijk werknemers beschikbare zetels tussen de daarvoor in aanmerking komende organisaties verdeeld:
 
@@ -68,21 +94,21 @@ Indien de zetelverdeling niet overeenkomstig [artikel 6](https://wetten.overheid
 
 - b. bij de organisaties van ondernemers overeenkomstig de verhouding tussen deze organisaties wat betreft hun sociaal-economische grootte als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037997&artikel=5&z=2016-06-01&g=2016-06-01).
 
-#### Artikel 8
+##### Artikel 8
 
 1. Organisaties van ondernemers onderscheidenlijk van werknemers kunnen verzoeken gezamenlijk te worden aangewezen voor het benoemen van een of meer leden.
 
 2. Organisaties, als bedoeld in het eerste lid, worden voor de toepassing van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0037997&artikel=7&z=2016-06-01&g=2016-06-01) behandeld als waren zij één organisatie, met dien verstande dat bij de bepaling van het ledental of de sociaal-economische grootte dubbeltellingen als gevolg van het feit dat bepaalde ondernemers of werknemers bij meer dan een van de organisaties zijn aangesloten, zoveel mogelijk worden voorkomen.
 
-#### Artikel 9
+##### Artikel 9
 
 Het [Besluit beleidsregels representativiteit organisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0036383) wordt ingetrokken.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit treedt in werking met ingang van de dag na de dag van bekendmaking in de Staatscourant.
 
-#### Artikel 11
+##### Artikel 11
 
 Dit besluit wordt aangehaald als: Besluit beleidsregels representativiteit.
 

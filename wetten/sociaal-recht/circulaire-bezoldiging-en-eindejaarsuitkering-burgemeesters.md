@@ -1,13 +1,37 @@
 ---
 title: "Circulaire bezoldiging en eindejaarsuitkering burgemeesters"
 identifier: "BWBR0014367"
-categorie: "Sociaal recht"
-publicatiedatum: 2002-12-11
-laatste_update: 2002-12-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0014367"
+country: "nl"
+rank: "circulaire"
+publication_date: "2002-12-11"
+last_updated: "2002-12-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0014367"
+soort: "circulaire"
+stam_id: "6389443"
+version_id: "11049952"
+internal_id: "C14952701"
+label_id: "6378304"
+original_entry_into_force: "2002-12-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0014367/2002-12-11/0"
+intitule_bron: "Stcrt.2002-239"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-12-02"
+intitule_published: "2002-12-11"
+intitule_in_force: "2002-12-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2002-239"
+original_signed_date: "2002-12-02"
+original_published_date: "2002-12-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2002-239-p10-SC37496"
+entry_into_force_date: "2002-12-11"
+jci_1_3: "jci1.3:c:BWBR0014367&z=2002-12-11&g=2002-12-11"
+jci_1_0: "1.0:c:BWBR0014367&g=2002-12-11"
+citeertitel_status: "redactioneel"
+signed_date: "2002-12-02"
+entry_into_force: "2002-12-11"
 ---
-
 # Circulaire bezoldiging en eindejaarsuitkering burgemeesters
 
 ### 1. Structurele verhoging van de bezoldiging

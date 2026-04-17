@@ -1,13 +1,35 @@
 ---
 title: "Samenwerkingsovereenkomst inzake satellietnavigatie tussen de Europese Unie en haar lidstaten en het Koninkrijk Noorwegen"
 identifier: "BWBV0004735"
-categorie: "Internationaal recht"
-publicatiedatum: 2016-04-01
-laatste_update: 2010-09-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004735"
+country: "nl"
+rank: "verdrag"
+publication_date: "2016-04-01"
+last_updated: "2010-09-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004735"
+soort: "verdrag"
+stam_id: "10004285853"
+version_id: "10004483452"
+internal_id: "C10009061771"
+label_id: "10004270804"
+dtd_version: "2.0"
+original_entry_into_force: "2016-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004735/2016-04-01/0"
+intitule_bron: "Trb.2010-312"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2010-12-06"
+intitule_in_force: "2016-04-13"
+intitule_status: "goed"
+original_publication: "Trb.2010-312"
+original_published_date: "2010-12-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2010-312"
+entry_into_force_date: "2016-04-01"
+jci_1_3: "jci1.3:c:BWBV0004735&z=2016-04-01&g=2016-04-01"
+jci_1_0: "1.0:c:BWBV0004735&g=2016-04-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2016-04-01"
 ---
-
 # Samenwerkingsovereenkomst inzake satellietnavigatie tussen de Europese Unie en haar lidstaten en het Koninkrijk Noorwegen
 
 De Europese Unie, hierna „de Unie” of „de EU” genoemd,
@@ -100,11 +122,11 @@ wensende de bepalingen van de [EER-Overeenkomst](https://wetten.overheid.nl/jci1
 
 Hebben overeenstemming bereikt omtrent de volgende bepalingen:
 
-#### Artikel 1. Doel van de overeenkomst
+##### Artikel 1. Doel van de overeenkomst
 
 Het hoofddoel van deze overeenkomst is de samenwerking tussen de partijen verder te versterken door de op satellietnavigatie toepasselijke bepalingen van de [EER-Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001070) aan te vullen.
 
-#### Artikel 2. Definities
+##### Artikel 2. Definities
 
 In deze overeenkomst wordt verstaan onder:
 
@@ -118,7 +140,7 @@ In deze overeenkomst wordt verstaan onder:
 
 - e). „Gerubriceerde informatie”: informatie in welke vorm ook die bescherming vereist tegen onbevoegde openbaarmaking waardoor de wezenlijke belangen, waaronder de nationale veiligheid, van de partijen of van afzonderlijke lidstaten in verschillende mate zouden kunnen worden geschaad. De rubricering ervan wordt aangeduid met een rubriceringsmarkering. Dergelijke informatie wordt door de partijen gerubriceerd in overeenstemming met de van toepassing zijnde wet- en regelgeving en moet tegen elk verlies van vertrouwelijkheid, integriteit en beschikbaarheid worden beschermd.
 
-#### Artikel 3. Beginselen van de samenwerking
+##### Artikel 3. Beginselen van de samenwerking
 
 1. De partijen komen overeen de volgende beginselen op onder deze overeenkomst vallende samenwerkingsactiviteiten toe te passen:
 
@@ -134,7 +156,7 @@ In deze overeenkomst wordt verstaan onder:
 
 2. Deze overeenkomst is niet van invloed op de ten behoeve van de activiteiten van het Galileo-programma krachtens het recht van de Europese Unie ingestelde institutionele structuur. Deze overeenkomst is evenmin van invloed op de toepasselijke regulerende maatregelen ter uitvoering van non-proliferatieverbintenissen en exportcontrole, controles van immateriële overdrachten van technologie, noch op nationale veiligheidsmaatregelen.
 
-#### Artikel 4. Radiospectrum
+##### Artikel 4. Radiospectrum
 
 1. De partijen komen overeen in de Internationale Telecommunicatie-unie (ITU) samen te werken op het gebied van radiospectrumkwesties betreffende Europese satellietnavigatiesystemen, rekening houdend met het op 5 november 2004 ondertekende „Memorandum of Understanding on the Management of ITU filings of the Galileo radio-navigation satellite service system”.
 
@@ -144,7 +166,7 @@ In deze overeenkomst wordt verstaan onder:
 
 4. Niets in deze overeenkomst mag aldus worden geïnterpreteerd dat afbreuk wordt gedaan aan de toepasselijke bepalingen van de ITU, inclusief de ITU-radioreglementen.
 
-#### Artikel 5. Grondfaciliteiten van Europese GNSS
+##### Artikel 5. Grondfaciliteiten van Europese GNSS
 
 1. Noorwegen neemt alle praktisch uitvoerbare maatregelen om de ontplooiing, het onderhoud en de vervanging van grondfaciliteiten van Europese GNSS („grondfaciliteiten”) op de onder zijn jurisdictie vallende grondgebieden te vergemakkelijken.
 
@@ -160,7 +182,7 @@ In deze overeenkomst wordt verstaan onder:
 
 7. De partijen stellen in een afzonderlijke regeling nadere procedures vast betreffende de kwesties waarvan sprake in de leden 1 tot 6. Dergelijke procedures hebben onder meer betrekking op verduidelijkingen betreffende inspecties, taken van de aanspreekpunten, eisen voor koeriers en maatregelen tegen lokale radiofrequentie-interferentie en vijandige aanvallen.
 
-#### Artikel 6. Beveiliging
+##### Artikel 6. Beveiliging
 
 1. De partijen zijn overtuigd van de noodzaak om mondiale navigatiesatellietsystemen te beschermen tegen bedreigingen zoals misbruik, interferentie, verstoring en vijandige handelingen. Dientengevolge doen de partijen alle praktisch uitvoerbare stappen, inclusief in voorkomend geval het sluiten van afzonderlijke overeenkomsten, om de continuïteit, veiligheid en beveiliging van de satellietnavigatiediensten en gerelateerde infrastructuur en kritieke voorzieningen op hun grondgebieden te verzekeren.
 
@@ -172,7 +194,7 @@ Met het oog hierop behandelen de partijen GNSS-beveiligingskwesties inclusief ac
 
 3. Mocht zich een gebeurtenis voordoen waarbij een dergelijk gelijkwaardig niveau van beveiliging en veiligheid niet kan worden bereikt, dat voeren de partijen overleg om de situatie te verhelpen. In voorkomend geval kan de reikwijdte van de samenwerking in deze sector dienovereenkomstig worden aangepast.
 
-#### Artikel 7. Uitwisselingen van gerubriceerde informatie
+##### Artikel 7. Uitwisselingen van gerubriceerde informatie
 
 1. De uitwisseling en bescherming van gerubriceerde informatie van de Unie gebeurt overeenkomstig de op 22 november 2004 ondertekende Overeenkomst tussen de Europese Unie en het Koninkrijk Noorwegen inzake beveiligingsprocedures voor de uitwisseling van gerubriceerde gegevens3)PB L 362 van 9.12.2004, blz. 29.alsook de uitvoeringsregelingen van die overeenkomst.
 
@@ -180,27 +202,27 @@ Met het oog hierop behandelen de partijen GNSS-beveiligingskwesties inclusief ac
 
 3. De partijen streven ernaar een algemeen en coherent rechtskader in te stellen op grond waarvan uitwisselingen van gerubriceerde informatie betreffende het Galileo-programma tussen hen mogelijk zijn.
 
-#### Artikel 8. Exportcontrole
+##### Artikel 8. Exportcontrole
 
 1. Om de toepassing van een uniform beleid van exportcontroles en non-proliferatie betreffende Galileo tussen de partijen te verzekeren, bevestigt Noorwegen zijn voornemen om binnen zijn rechtsgebied tijdig maatregelen te nemen en te handhaven die een gelijkwaardig niveau van exportcontrole en niet-proliferatie van Galileo-technologieën, -data en -artikelen verzekeren als die welke in de Unie en haar lidstaten van toepassing zijn.
 
 2. Mocht zich een gebeurtenis voordoen waarbij een dergelijk gelijkwaardig niveau van exportcontrole en non-proliferatie niet kan worden bereikt, dan voeren de partijen overleg om de situatie te verhelpen. In voorkomend geval kan de reikwijdte van de samenwerking in deze sector dienovereenkomstig worden aangepast.
 
-#### Artikel 9. Publiek gereguleerde dienst (PRS)
+##### Artikel 9. Publiek gereguleerde dienst (PRS)
 
 Noorwegen heeft belangstelling getoond voor de PRS van Galileo en beschouwt deze als een belangrijk element van zijn deelname aan de Europese GNSS-programma's. De partijen komen overeen deze kwestie te behandelen zodra de beleidslijnen en operationele regelingen betreffende toegang tot de PRS zijn vastgesteld.
 
-#### Artikel 10. Internationale samenwerking
+##### Artikel 10. Internationale samenwerking
 
 1. De partijen erkennen de betekenis van het coördineren van de benaderingen in internationale normalisatie- en certificeringsforums betreffende mondiale satellietnavigatiediensten. Met name zullen de partijen gezamenlijk de ontwikkeling van Galileo-normen steunen en bevorderen zij gezamenlijk de toepassing ervan wereldwijd, waarbij zij de interoperabiliteit met andere GNSS benadrukken.
 
 2. Bijgevolg werken de partijen, ter bevordering en implementatie van de doelstellingen van deze overeenkomst, waar passend samen inzake alle GNSS-aangelegenheden die met name aan de orde komen in de Internationale Burgerluchtvaartorganisatie, de Internationale Maritieme Organisatie en de ITU.
 
-#### Artikel 11. Overleg en oplossing van geschillen
+##### Artikel 11. Overleg en oplossing van geschillen
 
 De partijen voeren, op verzoek van een van hen, onmiddellijk overleg over elk punt van discussie dat voortkomt uit de interpretatie of toepassing van deze overeenkomst. Alle geschillen betreffende de interpretatie of de toepassing van deze overeenkomst worden beslecht door middel van overleg tussen de partijen.
 
-#### Artikel 12. Inwerkingtreding en beëindiging
+##### Artikel 12. Inwerkingtreding en beëindiging
 
 1. Deze overeenkomst treedt in werking op de eerste dag van de maand na die waarin de partijen elkaar in kennis hebben gesteld van de voltooiing van de daartoe vereiste procedures.
 

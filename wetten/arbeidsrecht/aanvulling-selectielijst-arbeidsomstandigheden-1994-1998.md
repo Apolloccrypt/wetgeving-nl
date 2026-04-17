@@ -1,13 +1,37 @@
 ---
 title: "Aanvulling selectielijst arbeidsomstandigheden 1994-1998"
 identifier: "BWBR0011666"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2000-12-03
-laatste_update: 2000-12-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011666"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2000-12-03"
+last_updated: "2000-12-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011666"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "3640733"
+version_id: "5423762"
+internal_id: "C25308581"
+label_id: "3620644"
+dtd_version: "2.0"
+original_entry_into_force: "2000-12-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011666/2000-12-03/0"
+intitule_bron: "Stcrt.2000-234"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-09-27"
+intitule_published: "2000-12-01"
+intitule_in_force: "2000-12-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2000-234"
+original_signed_date: "2000-09-27"
+original_published_date: "2000-12-01"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2000-12-03"
+jci_1_3: "jci1.3:c:BWBR0011666&z=2000-12-03&g=2000-12-03"
+jci_1_0: "1.0:c:BWBR0011666&g=2000-12-03"
+citeertitel_status: "officieel"
+signed_date: "2000-09-27"
+entry_into_force: "2000-12-03"
 ---
-
 # Aanvulling selectielijst arbeidsomstandigheden 1994-1998
 
 Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
@@ -16,11 +40,11 @@ De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 17 december 19
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde aanvulling voor de periode 1994-1998 op de `selectielijst voor de neerslag van de Handelingen van de Minister van Sociale Zaken en Werkgelegenheid op het beleidsterrein arbeidsomstandigheden (vanaf 1940)' (vastgesteld bij beschikking van de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen en de Minister van Sociale Zaken en Werkgelegenheid, nrs. 96.755.RWS/EIB en DAZ/DA/96/3465 d.d. 4 december 1996 (gepubliceerd in de Staatscourant nr. 22 d.d. 31 januari 1997)) wordt vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 
@@ -28,7 +52,7 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 ### I. Actor: de Minister van Sociale Zaken en Werkgelegenheid/de directeuren van de directie Arbeidsomstandigheden en het Centraal Kantoor van de Arbeidsinspectie
 
-#### I.1. Algemeen
+##### I.1. Algemeen
 
 966
 
@@ -90,7 +114,7 @@ Termijn: 20 jaar
 
 Opmerking: De eindrapportages blijven bewaard. Deze zullen worden gebruikt voor bijvoorbeeld de evaluatie van het arbeidsomstandighedenbeleid.
 
-#### I.2 Organisatie
+##### I.2 Organisatie
 
 970
 
@@ -140,7 +164,7 @@ Grondslag: o.a.: Arbeidsomstandighedenwet (Stb. 1995, 598) artikel 42, tweede li
 
 Waardering: B (5)
 
-#### I.3. Wet- en regelgeving
+##### I.3. Wet- en regelgeving
 
 974
 

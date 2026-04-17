@@ -1,20 +1,42 @@
 ---
 title: "Overeenkomst inzake het beroepsvervoer en het eigen vervoer over de weg tussen Nederland en Oostenrijk"
 identifier: "BWBV0005220"
-categorie: "Internationaal recht"
-publicatiedatum: 1960-01-01
-laatste_update: 1960-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005220"
+country: "nl"
+rank: "verdrag"
+publication_date: "1960-01-01"
+last_updated: "1960-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005220"
+soort: "verdrag"
+stam_id: "10004519673"
+version_id: "10004736762"
+internal_id: "C10007273421"
+label_id: "10004504284"
+dtd_version: "2.0"
+original_entry_into_force: "1960-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005220/1960-01-01/0"
+intitule_bron: "Trb.1959-74"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1959-06-16"
+intitule_in_force: "1960-01-29"
+intitule_status: "goed"
+original_publication: "Trb.1959-74"
+original_published_date: "1959-06-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1959-74"
+entry_into_force_date: "1960-01-01"
+jci_1_3: "jci1.3:c:BWBV0005220&z=1960-01-01&g=1960-01-01"
+jci_1_0: "1.0:c:BWBV0005220&g=1960-01-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1960-01-01"
 ---
-
 # Overeenkomst inzake het beroepsvervoer en het eigen vervoer over de weg tussen Nederland en Oostenrijk
 
 Het Koninkrijk der Nederlanden en de Republiek Oostenrijk, geleid door de wens het beroepsvervoer en het eigen vervoer over de weg tussen Nederland en Oostenrijk te bevorderen en te verbeteren, zijn het volgende overeengekomen:
 
 ## I. Ongeregeld vervoer door middel van autobussen
 
-#### Artikel 1
+##### Artikel 1
 
 a. De ondernemers die in hun eigen Staat bevoegd zijn tot het verrichten van ongeregeld grensoverschrijdend vervoer met autobussen, behoeven voor ongeregeld vervoer naar en door het gebied van de andere Verdragsstaat geen verdere goedkeuring van die Staat. Nieuwe passagiers mogen in de andere Verdragsstaat niet worden opgenomen; voor uitzonderingen is de toestemming van die Staat vereist.
 
@@ -24,11 +46,11 @@ c. De lijst moet bevatten de naam (firmanaam) en de zetel van de ondernemer, aan
 
 ## II. Goederenvervoer
 
-#### Artikel 2
+##### Artikel 2
 
 Ondernemers die hun zetel hebben in een der beide Verdragsstaten en die bevoegd zijn tot het vervoeren van goederen, behoeven voor het grensoverschrijdend vervoer van goederen over de weg tussen de eigen Staat en de andere Verdragsstaat, alsmede voor het transitovervoer door de andere Verdragsstaat, in plaats van een in andere gevallen eventueel voorgeschreven vergunning van die Staat, een legitimatiebewijs van hun eigen Staat.
 
-#### Artikel 3
+##### Artikel 3
 
 Een legitimatiebewijs is niet vereist voor:
 
@@ -44,21 +66,21 @@ Een legitimatiebewijs is niet vereist voor:
 
 De onder **b** tot **e** opgesomde uitzonderingen gelden echter alleen indien de betreffende goederen ook weer worden teruggebracht.
 
-#### Artikel 4
+##### Artikel 4
 
 a. Een legitimatiebewijs wordt aan Nederlandse ondernemers slechts afgegeven, wanneer zij in het bezit zijn van een Nederlandse vergunning c.q. ontheffing voor het grensoverschrijdend vervoer van goederen met vrachtauto's.
 
 b. Een legitimatiebewijs wordt aan Oostenrijkse ondernemers slechts afgegeven, wanneer zij in het bezit zijn van een Oostenrijkse vergunning voor het vervoer van goederen met vrachtauto's.
 
-#### Artikel 5
+##### Artikel 5
 
 De in de voorgaande artikelen bedoelde vergunningsbewijzen c.q. ontheffingsbewijzen (Berechtigungsurkunden) of afschriften daarvan, gewaarmerkt door de autoriteiten die tot uitgifte bevoegd zijn, moeten tijdens iedere rit naar de andere Staat worden meegevoerd en op verlangen van de bevoegde controlerende ambtenaren aan hen worden getoond.
 
-#### Artikel 6
+##### Artikel 6
 
 De vervoerondernemers zijn verplicht de in de Verdragsstaat overigens van kracht zijnde bedrijfsrechtelijke voorschriften, alsmede de verkeersrechtelijke en vervoersrechtelijke bepalingen in acht te nemen.
 
-#### Artikel 7
+##### Artikel 7
 
 a. Voor iedere vrachtauto (met aanhangwagen) dient een afzonderlijk legitimatiebewijs te worden afgegeven.
 
@@ -90,11 +112,11 @@ e. Het legitimatiebewijs moet tijdens iedere rit naar het gebied van de andere V
 
 f. Het legitimatiebewijs geldt uitsluitend voor de ondernemer zelf en kan niet worden overgedragen.
 
-#### Artikel 8
+##### Artikel 8
 
 Het verrichten van vervoer in een bepaalde plaats of tussen twee bepaalde plaatsen in de andere Verdragsstaat is niet geoorloofd; voor uitzonderingen is de toestemming van die Staat vereist.
 
-#### Artikel 9
+##### Artikel 9
 
 a. Het is de ondernemer veroorloofd retourvrachten uit de andere Verdragsstaat mede te nemen.
 
@@ -102,11 +124,11 @@ b. Lege binnenkomst op het grondgebied van de Republiek Oostenrijk is slechts da
 
 c. Een dergelijk bewijs bevrijdt niet van de verplichting tot het meevoeren van het op dat ogenblik geldige legitimatiebewijs.
 
-#### Artikel 10
+##### Artikel 10
 
 De bijzonderheden over de afgifte van de legitimatiebewijzen worden van jaar tot jaar in onderlinge overeenstemming vastgesteld.
 
-#### Artikel 11
+##### Artikel 11
 
 a. De legitimatiebewijzen worden in tot Koninkrijk der Nederlanden afgegeven door het Ministerie van Verkeer en Waterstaat of door de door dit Ministerie daartoe gemachtigde instanties, en in de Republiek Oostenrijk door het Bundesministerium für Handel und Wiederaufbau. Het legitimatiebewijs wordt in beide Staten zo mogelijk in gelijke bewoordingen opgesteld.
 
@@ -116,21 +138,21 @@ Deze opgaven moeten bevatten:
 
 het nummer en de geldigheidsduur van de legitimatiebewijzen, de naam en het adres van de houder alsmede de kentekens van de voertuigen.
 
-#### Artikel 12
+##### Artikel 12
 
 Onverminderd de in de Verdragsstaten geldende wettelijke bepalingen kan het legitimatiebewijs, in geval van misbruik, door de bevoegde autoriteiten van de eigen Staat tijdelijk of definitief worden ingetrokken.
 
 ## III. Gemeenschappelijke bepalingen
 
-#### Artikel 13
+##### Artikel 13
 
 De Overeenkomstsluitende Partijen zullen voortdurend rechtstreeks contact met elkaar onderhouden over alle problemen die uit de uitvoering van deze Overeenkomst voortvloeien.
 
-#### Artikel 14
+##### Artikel 14
 
 Wat betreft het Koninkrijk der Nederlanden, geldt deze Overeenkomst slechts voor het Europese gebied van het Koninkrijk.
 
-#### Artikel 15
+##### Artikel 15
 
 a. Deze Overeenkomst treedt in werking op het tijdstip waarop de Overeenkomstsluitende Partijen elkaar ervan in kennis hebben gesteld, dat de Overeenkomst overeenkomstig de bepalingen van hun nationale recht kan worden toegepast.
 

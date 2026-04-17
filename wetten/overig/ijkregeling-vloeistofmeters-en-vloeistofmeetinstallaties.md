@@ -1,20 +1,44 @@
 ---
 title: "IJkregeling vloeistofmeters en vloeistofmeetinstallaties"
 identifier: "BWBR0009898"
-categorie: "Overig"
-publicatiedatum: 1998-10-01
-laatste_update: 1998-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009898"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1998-10-01"
+last_updated: "1998-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009898"
+soort: "ministeriele-regeling"
+stam_id: "4859943"
+version_id: "7790112"
+internal_id: "C9506401"
+label_id: "4838004"
+dtd_version: "2.0"
+original_entry_into_force: "1998-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009898/1998-10-01/0"
+intitule_bron: "Stcrt.1998-179"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-09-14"
+intitule_published: "1998-09-21"
+intitule_in_force: "1998-08-31"
+intitule_status: "goed"
+original_publication: "Stcrt.1998-179"
+original_signed_date: "1998-09-14"
+original_published_date: "1998-09-21"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1998-10-01"
+jci_1_3: "jci1.3:c:BWBR0009898&z=1998-10-01&g=1998-10-01"
+jci_1_0: "1.0:c:BWBR0009898&g=1998-10-01"
+citeertitel_status: "officieel"
+signed_date: "1998-09-14"
+entry_into_force: "1998-10-01"
 ---
-
 # IJkregeling vloeistofmeters en vloeistofmeetinstallaties
 
 Gelet op de [artikelen 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009069&artikel=2), en [14, derde lid, van het IJkreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0009069&artikel=14);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -34,13 +58,13 @@ In deze regeling wordt verstaan onder:
 
 - h. **EER-staat:** een lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Bij het onderzoek tot toelating van een model, de keuring, de herkeuring, het onderzoek, bedoeld in [artikel 16, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082&artikel=16) en het toezicht is op vloeistofmeters en vloeistofmeetinstallaties van toepassing de door de Internationale Conferentie voor wettelijke metrologie op 8 november 1996 vastgestelde ’International Recommendation, Measuring systems for liquids other than water, OIML R 117, Edition 1995’.
 
 2. In afwijking van het bepaalde in punt 1.1 en met uitzondering van de eerste volzin van punt 2.9.2 van de in het eerste lid genoemde aanbeveling geldt dat die aanbeveling mede van toepassing is op vloeistofmeters voor directe massameting en vloeistofmeetinstallaties die een meetwerktuig voor directe massameting omvatten. Bij de toepassing van de in het eerste lid genoemde aanbeveling op de in de vorige zin bedoelde vloeistofmeters of vloeistofmeetinstallaties worden de verwijzingen naar ’volume’ en de eenheid ’liter’ telkens vervangen door verwijzingen naar ’massa’ en de eenheid ’kilogram’.
 
-#### Artikel 3
+##### Artikel 3
 
 Een vloeistofmeetinstallatie, bestemd voor het afleveren van brandstoffen aan:
 
@@ -48,7 +72,7 @@ Een vloeistofmeetinstallatie, bestemd voor het afleveren van brandstoffen aan:
 
 - b. pleziervaartuigen of vliegtuigen, met uitzondering van vloeistofmeetinstallaties met een maximaal meetvermogen van meer dan 150 l/min, wijst het resultaat van de laatste meting aan tot het tijdstip waarop de volgende meting een aanvang neemt.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien een zelfbedieningsinrichting deel uitmaakt van een vloeistofmeetinstallatie zijn op een voor dat doel bestemde opschriftenplaat die is aangebracht op een belangrijk onderdeel van de zelfbedieningsinrichting vermeld:
 
@@ -72,7 +96,7 @@ Een vloeistofmeetinstallatie, bestemd voor het afleveren van brandstoffen aan:
 
 - d. bij zelfbedieningsinrichtingen met meerdere zelfbedieningsfuncties door middel van een combinatie van de onder a tot en met c genoemde aanduidingen of afkortingen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Bij zelfbedieningsinrichtingen die deel uitmaken van een vloeistofmeetinstallatie is op een van buitenaf zichtbare plaats een voorziening aangebracht voor het aanbrengen van een ijkmerk.
 
@@ -82,11 +106,11 @@ Een vloeistofmeetinstallatie, bestemd voor het afleveren van brandstoffen aan:
 
 4. Bij zelfbedieningsinrichtingen met meerdere zelfbedieningsfuncties wordt de voorziening voor elke zelfbedieningsfunctie aangebracht.
 
-#### Artikel 6
+##### Artikel 6
 
 [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009898&artikel=2&z=1998-10-01&g=1998-10-01) is op de daar genoemde vloeistofmeters en vloeistofmeetinstallaties niet van toepassing wat betreft het onderzoek tot toelating van een model en de keuring, indien die vloeistofmeters of vloeistofmeetinstallaties afkomstig zijn uit een andere EER-staat en zij gelijkwaardig zijn aan de op grond van de Nederlandse regelgeving toegelaten vloeistofmeters en vloeistofmeetinstallaties en in die andere EER-staat dan Nederland volgens de daar van toepassing zijnde voorschriften rechtmatig zijn vervaardigd of op de markt gebracht.
 
-#### Artikel 7
+##### Artikel 7
 
 De volgende regelingen worden ingetrokken:
 
@@ -96,7 +120,7 @@ De volgende regelingen worden ingetrokken:
 
 - c. de IJkregeling L.P.G.-meetinstallaties.
 
-#### Artikel 8
+##### Artikel 8
 
 In de IJkregeling meetwerktuigen worden de onderdelen e, f en g van de omschrijving van ’meetwerktuigen’ in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009898&artikel=1&z=1998-10-01&g=1998-10-01) vervangen door:
 
@@ -104,7 +128,7 @@ e. de vloeistofmeters en de vloeistofmeetinstallaties, bedoeld in [artikel 1 van
 
 f. de taxameters;.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Aanvragen tot toelating van een model van een vloeistofmeter of een vloeistofmeetinstallatie, die voor het tijdstip van inwerkingtreding van deze regeling zijn ingediend en ten aanzien waarvan het onderzoek tot toelating van het model op dat tijdstip niet is voltooid, worden behandeld overeenkomstig de bepalingen die voor de inwerkingtreding van toepassing waren, tenzij de aanvrager verzoekt dat de bepalingen van deze regeling worden toegepast.
 
@@ -112,11 +136,11 @@ f. de taxameters;.
 
 3. In afwijking van het bepaalde in deze regeling geldt, dat de vloeistofmeters en vloeistofmeetinstallaties, die zijn vervaardigd naar een model dat is toegelaten volgens de bepalingen die tot de inwerkingtreding van deze regeling van toepassing waren, bij de herkeuring, het onderzoek, bedoeld in [artikel 16, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082&artikel=16) en het toezicht moeten voldoen aan de bepalingen die voor de inwerkingtreding van deze regeling op de desbetreffende vloeistofmeters en vloeistofmeetinstallaties van toepassing waren.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling treedt in werking op het tijdstip waarop het koninklijk besluit van 27 juli 1998 tot wijziging van het IJkreglement (meetwerktuigen voor directe massameting; justeer- en correctie-inrichtingen; afschaffing periodieke herkeuring van gewichten) (Stb. 521) in werking treedt.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze regeling wordt aangehaald als: IJkregeling vloeistofmeters en vloeistofmeetinstallaties.
 

@@ -1,13 +1,39 @@
 ---
-title: "Alcoholregeling"
+title: "Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 8 juni 2021, kenmerk 2353779-1007921-WJZ, houdende regels ter uitvoering van de Alcoholwet (Alcoholregeling)"
 identifier: "BWBR0045237"
-categorie: "Overig"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045237"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045237"
+soort: "ministeriele-regeling"
+stam_id: "15983063"
+version_id: "27818282"
+internal_id: "C39309411"
+label_id: "15917044"
+dtd_version: "2.0"
+original_entry_into_force: "2021-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045237/2025-01-01/0"
+intitule_bron: "Stcrt.2021-30032"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-06-08"
+intitule_published: "2021-06-16"
+intitule_in_force: "2021-06-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-30032"
+original_signed_date: "2021-06-08"
+original_published_date: "2021-06-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-30032"
+entry_into_force_date: "2021-07-01"
+jci_1_3: "jci1.3:c:BWBR0045237&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0045237&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Alcoholregeling"
+signed_date: "2021-06-08"
+entry_into_force: "2021-07-01"
 ---
-
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 8 juni 2021, kenmerk 2353779-1007921-WJZ, houdende regels ter uitvoering van de Alcoholwet (Alcoholregeling)
 
 Gelet op de [artikelen 8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=8), [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=10), [11a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=11a), [11f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=11f), [26, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=26), [29, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=29), [30a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=30a), [35, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=35), en [41, eerste lid, onderdeel a, en tweede lid, van de Alcoholwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=41), [artikel 24, tweede lid, van de Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=24), [artikel 3.31, tweede lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.31), [artikel 7a, vijfde lid, van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=7a), [artikel 11 van het Reglement voor de binnenvisserij 1985](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=11) en [artikel 2, tweede lid, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=2);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Verbindingslokaliteit slijterij
 
-#### Artikel 1.1
+##### Artikel 1.1
 
 In deze regeling wordt verstaan onder:
 
@@ -24,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 - –. **verbindingslokaliteit:** een tot een inrichting waarin het slijtersbedrijf wordt uitgeoefend behorende lokaliteit in gebruik als passage tussen een neringruimte en een slijtlokaliteit.
 
-#### Artikel 1.2
+##### Artikel 1.2
 
 1. Een verbindingslokaliteit heeft aan alle zijden gesloten wanden met een hoogte van ten minste 2,40 m van de vloer af gemeten.
 
@@ -34,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Vergunning en ontheffing
 
-#### Artikel 2.1
+##### Artikel 2.1
 
 1. Een aanvraag tot het verlenen van een vergunning als bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=3) of een ontheffing als bedoeld in [artikel 35 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=35) geschiedt door het indienen van een volledig ingevuld formulier of elektronische informatiedrager dat in ieder geval de in dit artikel genoemde elementen bevat, zoals opgenomen in het corresponderende deel van de bijlage bij deze regeling.
 
@@ -44,7 +70,7 @@ In deze regeling wordt verstaan onder:
 
 4. De aanvraag van een ontheffing als bedoeld in [artikel 35 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=35) bevat de in [Model C](https://wetten.overheid.nl/jci1.3:c:BWBR0045237&bijlage=C&z=2025-01-01&g=2025-01-01) van de bijlage genoemde elementen.
 
-#### Artikel 2.2
+##### Artikel 2.2
 
 1. Een besluit tot het verlenen van een vergunning als bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=3) wordt gesteld op een formulier dat overeenkomt met het daartoe als [model D-1](https://wetten.overheid.nl/jci1.3:c:BWBR0045237&bijlage=D-1&z=2025-01-01&g=2025-01-01) van de bijlage opgenomen model indien het horecabedrijf of het slijtersbedrijf wordt uitgevoerd door natuurlijke personen of rechtspersonen, met uitzondering van paracommerciële rechtspersonen.
 
@@ -52,17 +78,17 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 3. Toezicht
 
-#### Artikel 3.1
+##### Artikel 3.1
 
 Met het toezicht op de naleving van het bij en krachtens de [Alcoholwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458) bepaalde zijn belast de ambtenaren van de Nederlandse Voedsel- en Warenautoriteit en de daartoe aangewezen andere personen die voor de Nederlandse Voedsel- en Warenautoriteit werkzaam zijn.
 
-#### Artikel 3.2
+##### Artikel 3.2
 
 1. De ambtenaren, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045237&hoofdstuk=3&artikel=3.1&z=2025-01-01&g=2025-01-01), zijn belast met het toezicht op de naleving van het bepaalde bij of krachtens de bepalingen, genoemd in [artikel 44aa van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=44aa) in vervoermiddelen, op legerplaatsen en lokaliteiten en op luchtvaartterreinen, bedoeld in [artikel 1, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=1).
 
 2. De ambtenaren, aangewezen door de burgemeester krachtens [artikel 41, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=41), zijn belast met het toezicht op de naleving van het bepaalde bij of krachtens de bepalingen, genoemd in [artikel 44a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=44a), en met het toezicht op de naleving van de [artikelen 25e](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=25e) en [25f van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=25f).
 
-#### Artikel 3.3
+##### Artikel 3.3
 
 De ambtenaren, bedoeld in [artikel 3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045237&hoofdstuk=3&artikel=3.2&z=2025-01-01&g=2025-01-01):
 
@@ -70,7 +96,7 @@ De ambtenaren, bedoeld in [artikel 3.2, tweede lid](https://wetten.overheid.nl/j
 
 - b. beschikken over een aanwijzing door de Minister van Justitie en Veiligheid als buitengewoon opsporingsambtenaar op grond van [artikel 142 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142).
 
-#### Artikel 3.4
+##### Artikel 3.4
 
 [Artikel 3.3, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045237&hoofdstuk=3&artikel=3.3&z=2025-01-01&g=2025-01-01), is niet van toepassing op:
 
@@ -82,33 +108,33 @@ De ambtenaren, bedoeld in [artikel 3.2, tweede lid](https://wetten.overheid.nl/j
 
 ### Hoofdstuk 4. Landelijke commissie sociale hygiëne
 
-#### Artikel 4.1
+##### Artikel 4.1
 
 De Landelijke commissie sociale hygiëne is gevestigd in de gemeente Den Haag.
 
-#### Artikel 4.2
+##### Artikel 4.2
 
 Het bedrag ter vergoeding van de kosten die samenhangen met het op grond van [artikel 11e, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=11e), inschrijven van een persoon in het Register sociale hygiëne en het afgeven van een Verklaring kennis en inzicht sociale hygiëne, bedoeld in [artikel 11f, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=11f), is € 93,29.
 
-#### Artikel 4.3
+##### Artikel 4.3
 
 Het bedrag ter vergoeding van de kosten die samenhangen met het op grond van [artikel 11e, eerste lid, onder b of c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=11e), inschrijven van een persoon in het Register sociale hygiëne en het afgeven van een Verklaring kennis en inzicht sociale hygiëne, bedoeld in [artikel 11f, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=11f), is € 253,50.
 
-#### Artikel 4.4
+##### Artikel 4.4
 
 Wijzigt de Regeling Bibob-formulieren.
 
-#### Artikel 4.5
+##### Artikel 4.5
 
 Wijzigt de Uitvoeringsregeling visserij.
 
-#### Artikel 4.6
+##### Artikel 4.6
 
 Wijzigt de Regeling indicatieve vaststelling reikwijdte Dienstenwet.
 
 ### Hoofdstuk 5. Slotartikelen
 
-#### Artikel 5.1
+##### Artikel 5.1
 
 De volgende regelingen worden ingetrokken:
 
@@ -118,11 +144,11 @@ De volgende regelingen worden ingetrokken:
 
 - c. de [Regeling toezichthoudende ambtenaren Drank- en Horecawet](https://wetten.overheid.nl/jci1.3:c:BWBR0032771).
 
-#### Artikel 5.2
+##### Artikel 5.2
 
 Deze regeling treedt in werking met ingang van 1 juli 2021.
 
-#### Artikel 5.3
+##### Artikel 5.3
 
 Deze regeling wordt aangehaald als: Alcoholregeling.
 

@@ -1,13 +1,40 @@
 ---
-title: "Rijkswet tot vaststelling zeegrens tussen Curaçao en Bonaire, en tussen Sint Maarten en Saba"
+title: "Rijkswet van 7 juli 2010 tot vaststelling van een zeegrens tussen Curaçao en Bonaire, en tussen Sint Maarten en Saba"
 identifier: "BWBR0028093"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2018-09-01
-laatste_update: 2018-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028093"
+country: "nl"
+rank: "rijkswet"
+publication_date: "2018-09-01"
+last_updated: "2018-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028093"
+soort: "rijkswet"
+stam_id: "10653443"
+version_id: "17598212"
+internal_id: "C24680001"
+label_id: "10628264"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028093/2018-09-01/0"
+intitule_bron: "Stb.2010-342"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-07-07"
+intitule_published: "2010-09-01"
+intitule_in_force: "2010-10-01"
+intitule_status: "goed"
+original_publication: "Stb.2010-342"
+original_signed_date: "2010-07-07"
+original_published_date: "2010-09-01"
+original_effect: "nieuwe-regeling"
+original_dossier: "32041"
+original_url_id: "stb-2010-342"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028093&z=2018-09-01&g=2018-09-01"
+jci_1_0: "1.0:c:BWBR0028093&g=2018-09-01"
+citeertitel_status: "redactioneel"
+short_title: "Rijkswet tot vaststelling zeegrens tussen Curaçao en Bonaire, en tussen Sint Maarten en Saba"
+signed_date: "2010-07-07"
+entry_into_force: "2010-10-10"
 ---
-
 # Rijkswet van 7 juli 2010 tot vaststelling van een zeegrens tussen Curaçao en Bonaire, en tussen Sint Maarten en Saba
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 Treedt in werking om 00:00 uur in Aruba, Curaçao, Sint Maarten, Bonaire, Sint Eustatius en Saba en om 06.00 uur in het Europese deel van het Koninkrijk.
 
-#### Artikel 1
+##### Artikel 1
 
 1. Met inachtneming van het bepaalde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028093&artikel=2&z=2018-09-01&g=2018-09-01), wordt de zeegrens tussen het land Curaçao en het openbaar lichaam Bonaire gevormd door de bogen van grootcirkels tussen de volgende punten in de volgorde zoals hieronder aangegeven:
 
@@ -51,11 +78,11 @@ Treedt in werking om 00:00 uur in Aruba, Curaçao, Sint Maarten, Bonaire, Sint E
 
 3. De grenslijn is bij wijze van illustratie ingetekend op de als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028093&bijlage=1&z=2018-09-01&g=2018-09-01) bij deze rijkswet gevoegde kaart.
 
-#### Artikel 2
+##### Artikel 2
 
 In noordelijke richting is het eindpunt van de grenslijn punt A, en in zuidelijke richting is het eindpunt van de grenslijn punt W, die de snijpunten vormen van de grenslijnen tussen de zeegebieden van het land Curaçao, het openbaar lichaam Bonaire, en de Republiek Venezuela.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Met inachtneming van het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028093&artikel=4&z=2018-09-01&g=2018-09-01) wordt de zeegrens tussen het land Sint Maarten en het openbaar lichaam Saba gevormd door de bogen van grootcirkels tussen de volgende punten in de volgorde zoals hieronder aangegeven:
 
@@ -76,11 +103,11 @@ In noordelijke richting is het eindpunt van de grenslijn punt A, en in zuidelijk
 
 3. De grenslijn is bij wijze van illustratie ingetekend op de als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028093&bijlage=2&z=2018-09-01&g=2018-09-01) bij deze rijkswet gevoegde kaart.
 
-#### Artikel 4
+##### Artikel 4
 
 In westelijke richting is het eindpunt van de grenslijn punt A, en in oostelijke richting is het eindpunt van de grenslijn punt K, die de snijpunten vormen van de grenslijnen tussen de zeegebieden van het land Sint Maarten, het openbaar lichaam Saba en de Franse Republiek.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze rijkswet treedt in werking met ingang van een bij koninklijk besluit te bepalen tijdstip.
 

@@ -1,13 +1,39 @@
 ---
-title: "Besluit adviescommissie gegevensverstrekking weigerende observandi"
+title: "Besluit van 19 november 2019, houdende vaststelling van het Besluit adviescommissie gegevensverstrekking weigerende observandi"
 identifier: "BWBR0042811"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2019-11-28
-laatste_update: 2019-11-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042811"
+country: "nl"
+rank: "amvb"
+publication_date: "2019-11-28"
+last_updated: "2019-11-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042811"
+soort: "AMvB"
+stam_id: "15257233"
+version_id: "26277742"
+internal_id: "C37344281"
+label_id: "15203724"
+dtd_version: "2.0"
+original_entry_into_force: "2019-11-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042811/2019-11-28/0"
+intitule_bron: "Stb.2019-435"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-11-19"
+intitule_published: "2019-11-27"
+intitule_in_force: "2019-11-27"
+intitule_status: "goed"
+original_publication: "Stb.2019-435"
+original_signed_date: "2019-11-19"
+original_published_date: "2019-11-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2019-435"
+entry_into_force_date: "2019-11-28"
+jci_1_3: "jci1.3:c:BWBR0042811&z=2019-11-28&g=2019-11-28"
+jci_1_0: "1.0:c:BWBR0042811&g=2019-11-28"
+citeertitel_status: "officieel"
+short_title: "Besluit adviescommissie gegevensverstrekking weigerende observandi"
+signed_date: "2019-11-19"
+entry_into_force: "2019-11-28"
 ---
-
 # Besluit van 19 november 2019, houdende vaststelling van het Besluit adviescommissie gegevensverstrekking weigerende observandi
 
 Op de voordracht van Onze Minister voor Rechtsbescherming van 16 oktober 2019, directie Wetgeving en Juridische Zaken, nr. 2727151;
@@ -22,7 +48,7 @@ Hebben goed gevonden en verstaan:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1.1
+##### Artikel 1.1
 
 In dit besluit wordt verstaan onder:
 
@@ -54,23 +80,23 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 2. Werkwijze en besluitvorming
 
-#### Artikel 2.1
+##### Artikel 2.1
 
 De commissie heeft tot taak te adviseren over de aanwezigheid en de bruikbaarheid van persoonsgegevens betreffende een mogelijke gebrekkige ontwikkeling of ziekelijke stoornis van de geestvermogens van een weigerende observandus tijdens het begaan van het feit.
 
-#### Artikel 2.2
+##### Artikel 2.2
 
 1. Na ontvangst van een last als bedoeld in [artikel 37a, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37a), brengt de commissie binnen dertig dagen gemotiveerd advies uit aan de officier van justitie.
 
 2. De termijn vangt aan met ingang van de dag na die waarop de last is ontvangen.
 
-#### Artikel 2.3
+##### Artikel 2.3
 
 1. Zo spoedig mogelijk na ontvangst van de last vraagt de voorzitter schriftelijk een afschrift van het dossier met betrekking tot de behandeling van de weigerende observandus op bij de in de last genoemde behandelaren. Indien een dossier met betrekking tot de behandeling namen bevat van overige behandelaren van de weigerende observandus, vraagt de voorzitter ook bij die behandelaren schriftelijk een afschrift op van het dossier met betrekking tot de behandeling van betrokkene.
 
 2. Bij dit verzoek stelt de voorzitter de behandelaar schriftelijk in kennis van de te volgen procedure en van de op hem rustende verplichting tot verstrekking van de gevraagde gegevens. Tevens voegt de voorzitter hierbij het als bijlage bij dit besluit opgenomen verstrekkingsformulier.
 
-#### Artikel 2.4
+##### Artikel 2.4
 
 1. De behandelaar doet de commissie binnen vijf werkdagen na ontvangst van het verzoek tot verstrekking een afschrift toekomen van het dossier met betrekking tot de behandeling van de weigerende observandus, alsmede het ingevulde en ondertekende verstrekkingsformulier bedoeld in [artikel 2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042811&hoofdstuk=2&artikel=2.3&z=2019-11-28&g=2019-11-28). Indien hij niet, of niet langer, beschikt over een dossier met betrekking tot de behandeling van de weigerende observandus, geeft de behandelaar dit onder opgave van redenen aan op het verstrekkingsformulier.
 
@@ -78,7 +104,7 @@ De commissie heeft tot taak te adviseren over de aanwezigheid en de bruikbaarhei
 
 3. De termijn bedoeld in het eerste lid vangt aan met ingang van de dag na die waarop het verzoek is ontvangen.
 
-#### Artikel 2.5
+##### Artikel 2.5
 
 1. Door de verstrekking van het afschrift van het dossier met betrekking tot de behandeling van de weigerende observandus langs elektronische weg wordt het ontvangen dossier in het informatiesysteem van de commissie geplaatst.
 
@@ -90,7 +116,7 @@ De commissie heeft tot taak te adviseren over de aanwezigheid en de bruikbaarhei
 
 5. De commissie legt voor elk advies een kenmerk vast aan de hand waarvan kan worden herleid door welke behandelaren gegevens zijn verstrekt.
 
-#### Artikel 2.6
+##### Artikel 2.6
 
 1. De commissie vergadert zo vaak als dat noodzakelijk is om haar taak goed te kunnen uitvoeren.
 
@@ -106,7 +132,7 @@ De commissie heeft tot taak te adviseren over de aanwezigheid en de bruikbaarhei
 
 7. De voorzitter zit de vergaderingen voor en de secretaris draagt zorg voor de verslaglegging.
 
-#### Artikel 2.7
+##### Artikel 2.7
 
 1. Rechtsgeldige besluiten kunnen slechts worden genomen in een vergadering die wordt bijgewoond door ten minste drie leden, die ieder een van de in [artikel 37a, negende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37a) genoemde disciplines vertegenwoordigen. Leden die niet aanwezig zijn, leveren hun bijdrage schriftelijk.
 
@@ -114,7 +140,7 @@ De commissie heeft tot taak te adviseren over de aanwezigheid en de bruikbaarhei
 
 3. Bij het ontbreken van eenstemmigheid worden besluiten genomen met gewone meerderheid van stemmen. Indien de stemmen staken, komt aan de stem van de voorzitter doorslaggevende betekenis toe.
 
-#### Artikel 2.8
+##### Artikel 2.8
 
 1. De secretaris stelt het advies op en legt dit in concept voor aan de leden.
 
@@ -124,7 +150,7 @@ De commissie heeft tot taak te adviseren over de aanwezigheid en de bruikbaarhei
 
 4. De secretaris zendt het advies aan de officier van justitie.
 
-#### Artikel 2.9
+##### Artikel 2.9
 
 1. Het advies van de commissie is gemotiveerd. De commissie benoemt in het advies de gegevens die zij bruikbaar acht voor het opstellen van een rapportage over de mogelijke aanwezigheid van een gebrekkige ontwikkeling of ziekelijke stoornis van de geestvermogens van de weigerende observandus tijdens het begaan van het feit, dan wel de mogelijke afwezigheid daarvan. De motivering bevat in ieder geval een aanduiding over het al dan niet aanwezig zijn van bruikbare gegevens betreffende:
 
@@ -136,13 +162,13 @@ De commissie heeft tot taak te adviseren over de aanwezigheid en de bruikbaarhei
 
 2. Indien de voorzitter het wenselijk acht het advies mondeling nader toe te lichten voor de penitentiaire kamer, vermeldt het advies dit. In dit hoofdstuk wordt onder penitentiaire kamer verstaan: de meervoudige kamer, bedoeld in [artikel 67 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=67), in de samenstelling, bedoeld in het derde lid van dat artikel.
 
-#### Artikel 2.10
+##### Artikel 2.10
 
 1. Na ontvangst van het bericht van de officier van justitie dat de door de penitentiaire kamer verleende machtiging voor het gebruik van de persoonsgegevens door de rapporteurs onherroepelijk is, verstrekt de voorzitter de door de commissie bruikbaar bevonden gegevens onverwijld aan de rapporteurs. Indien de onherroepelijke machtiging volgt op een advies van de commissie dat ertoe strekt dat er geen bruikbare persoonsgegevens aanwezig zijn, verstrekt de voorzitter het afschrift van het dossier met betrekking tot de behandeling onverwijld aan de rapporteurs.
 
 2. Terstond na het verstrekken van de gegevens aan de rapporteurs, stelt de voorzitter de behandelaar die deze gegevens heeft verstrekt daarvan op de hoogte.
 
-#### Artikel 2.11
+##### Artikel 2.11
 
 1. De commissie vernietigt het afschrift van het dossier met betrekking tot de behandeling van de weigerende observandus en het ingevulde verstrekkingsformulier zo spoedig mogelijk, doch uiterlijk binnen negentig dagen na:
 
@@ -154,17 +180,17 @@ De commissie heeft tot taak te adviseren over de aanwezigheid en de bruikbaarhei
 
 2. Terstond na het vernietigen van het afschrift van het dossier met betrekking tot de behandeling en het ingevulde verstrekkingsformulier stelt de voorzitter de behandelaar die deze gegevens heeft verstrekt daarvan op de hoogte.
 
-#### Artikel 2.12
+##### Artikel 2.12
 
 De commissie wordt vertegenwoordigd door de voorzitter.
 
 ### Hoofdstuk 3. Geheimhouding, onpartijdigheid en verschoning
 
-#### Artikel 3.1
+##### Artikel 3.1
 
 Voor zover de leden in het kader van de uitvoering van hun taak de beschikking krijgen over gegevens waarvan zij het vertrouwelijke karakter kennen of redelijkerwijs moeten vermoeden en op hen niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht rust, zijn zij verplicht tot geheimhouding van die gegevens, behoudens voor zover enig wettelijk voorschrift hen tot mededeling verplicht of uit hun taak de noodzaak tot mededeling voortvloeit.
 
-#### Artikel 3.2
+##### Artikel 3.2
 
 1. De commissie vervult haar taak zonder vooringenomenheid.
 
@@ -172,7 +198,7 @@ Voor zover de leden in het kader van de uitvoering van hun taak de beschikking k
 
 ### Hoofdstuk 4. Gegevensverwerking
 
-#### Artikel 4.1
+##### Artikel 4.1
 
 1. De geautomatiseerde gegevensverwerking, bedoeld in de [artikelen 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0042811&hoofdstuk=2&artikel=2.4&z=2019-11-28&g=2019-11-28), [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0042811&hoofdstuk=2&artikel=2.5&z=2019-11-28&g=2019-11-28), [2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0042811&hoofdstuk=2&artikel=2.10&z=2019-11-28&g=2019-11-28) en [2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0042811&hoofdstuk=2&artikel=2.11&z=2019-11-28&g=2019-11-28) geschiedt via een beveiligde netwerkverbinding.
 
@@ -180,17 +206,17 @@ Voor zover de leden in het kader van de uitvoering van hun taak de beschikking k
 
 ### Hoofdstuk 5. Wijzigingen in andere regelgeving
 
-#### Artikel 5.1
+##### Artikel 5.1
 
 Wijzigt het Besluit justitiële en strafvorderlijke gegevens.
 
 ### Hoofdstuk 6. Slotbepalingen
 
-#### Artikel 6.1
+##### Artikel 6.1
 
 Dit besluit en [artikel 7.1, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=7.1), en [artikel 7.3a van de Wet van 24 januari 2018 tot vaststelling van een Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=7.3a) en daarmee verband houdende wijzigingen in diverse andere wetten (Stb. 2018, 38) treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit Besluit wordt geplaatst.
 
-#### Artikel 6.2
+##### Artikel 6.2
 
 Dit besluit wordt aangehaald als: Besluit adviescommissie gegevensverstrekking weigerende observandi.
 

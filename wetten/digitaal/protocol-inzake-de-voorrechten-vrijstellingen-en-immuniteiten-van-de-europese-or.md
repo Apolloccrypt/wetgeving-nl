@@ -1,13 +1,38 @@
 ---
 title: "Protocol inzake de voorrechten, vrijstellingen en immuniteiten van de Europese Organisatie voor Telecommunicatiesatellieten (EUTELSAT)"
 identifier: "BWBV0002432"
-categorie: "Digitaal en privacy"
-publicatiedatum: 1988-08-17
-laatste_update: 1988-08-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002432"
+country: "nl"
+rank: "verdrag"
+publication_date: "1988-08-17"
+last_updated: "1988-08-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002432"
+soort: "verdrag"
+stam_id: "10002879613"
+version_id: "10002879872"
+internal_id: "C10006980731"
+label_id: "10002867134"
+dtd_version: "2.0"
+original_entry_into_force: "1988-08-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002432/1988-08-17/0"
+intitule_bron: "Trb.1987-193"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1987-12-10"
+intitule_published: "1987-12-24"
+intitule_in_force: "1988-07-29"
+intitule_status: "goed"
+original_publication: "Trb.1987-193"
+original_signed_date: "1987-12-10"
+original_published_date: "1987-12-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1987-193"
+entry_into_force_date: "1988-08-17"
+jci_1_3: "jci1.3:c:BWBV0002432&z=1988-08-17&g=1988-08-17"
+jci_1_0: "1.0:c:BWBV0002432&g=1988-08-17"
+citeertitel_status: "officieel"
+signed_date: "1987-12-10"
+entry_into_force: "1988-08-17"
 ---
-
 # Protocol inzake de voorrechten, vrijstellingen en immuniteiten van de Europese Organisatie voor Telecommunicatiesatellieten (EUTELSAT)
 
 The States Parties to this Protocol:
@@ -20,7 +45,7 @@ Considering that the aim of this Protocol is to facilitate the achievement of th
 
 Have agreed as follows:
 
-#### Article 1. Definitions
+##### Article 1. Definitions
 
 For the purposes of this Protocol:
 
@@ -52,11 +77,11 @@ For the purposes of this Protocol:
 
 - n). "Director General" means the Director General of EUTELSAT.
 
-#### Article 2. Inviolability of Archives
+##### Article 2. Inviolability of Archives
 
 The archives of EUTELSAT shall be inviolable wherever located and by whomsoever held.
 
-#### Article 3. Immunity of EUTELSAT from Jurisdiction and Execution
+##### Article 3. Immunity of EUTELSAT from Jurisdiction and Execution
 
 1). EUTELSAT shall, in the exercise of its official activities, have immunity from jurisdiction except in the following cases:
 
@@ -82,7 +107,7 @@ The archives of EUTELSAT shall be inviolable wherever located and by whomsoever 
 
 - iii). expropriation in respect of real property for public purposes and subject to prompt payment of fair compensation, provided that such expropriation does not prejudice the functions and operations of EUTELSAT.
 
-#### Article 4. Fiscal and Customs Provisions
+##### Article 4. Fiscal and Customs Provisions
 
 1). Within the scope of its official activities, EUTELSAT and its property and income shall be exempt from all direct taxes.
 
@@ -100,11 +125,11 @@ The archives of EUTELSAT shall be inviolable wherever located and by whomsoever 
 
 8). Payments from EUTELSAT to Signatories pursuant to the Operating Agreement shall be exempt from national taxes by any Party to the Protocol, other than the Party that has designated the Signatory concerned.
 
-#### Article 5. Funds, Currency and Securities
+##### Article 5. Funds, Currency and Securities
 
 EUTELSAT may receive and hold any kind of funds, currency or securities and dispose of them freely in connection with any of its official activities. It may hold accounts in any currency to the extent required for the performance of its official activities.
 
-#### Article 6. Official Communications and Publications
+##### Article 6. Official Communications and Publications
 
 1). With regard to its official communications and the distribution of all its documents, EUTELSAT shall enjoy in the territory of each Party to the Protocol treatment not less favourable than that generally accorded to equivalent intergovernmental organizations in the matter of priorities, rates and taxes on mails and all forms of telecommunications, as far as may be compatible with any international agreements to which that Party to the Protocol is a party.
 
@@ -112,7 +137,7 @@ EUTELSAT may receive and hold any kind of funds, currency or securities and disp
 
 3). Establishment and use by EUTELSAT of a radio station in the territory of any Party to the Protocol shall be permitted and shall be in accordance with the legislation in force in the territory concerned.
 
-#### Article 7. Representatives of Parties
+##### Article 7. Representatives of Parties
 
 1). Representatives of Parties to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002146) shall enjoy, while performing their official functions and in the course of their journeys to and from the place of performance of those functions, the following privileges and immunities:
 
@@ -130,7 +155,7 @@ EUTELSAT may receive and hold any kind of funds, currency or securities and disp
 
 2). The provisions of paragraph 1) shall not apply in relations between a Party to the Protocol and its representatives. Further, the provisions of sub-paragraphs a), d), e) and f) of paragraph 1) shall not apply in relations between a Party to the Protocol and its nationals or permanent residents.
 
-#### Article 8. Representatives of Signatories
+##### Article 8. Representatives of Signatories
 
 1). Representatives of Signatories shall enjoy, while performing their official functions in relation to the work of EUTELSAT and in the course of their journeys to and from their place of work, the following privileges, exemptions and immunities:
 
@@ -142,7 +167,7 @@ EUTELSAT may receive and hold any kind of funds, currency or securities and disp
 
 2). The provisions of paragraph 1) shall not apply in relations between a Party to the Protocol and the representative of the Signatory designated by it. Further, the provisions of sub-paragraph c) of paragraph 1) shall not apply in relations between a Party to the Protocol and its nationals or permanent residents.
 
-#### Article 9. Staff Members
+##### Article 9. Staff Members
 
 1). Staff members shall enjoy the following privileges and immunities:
 
@@ -166,7 +191,7 @@ EUTELSAT may receive and hold any kind of funds, currency or securities and disp
 
 4). The Parties to the Protocol are not obliged to accord to their nationals or permanent residents the privileges and immunities referred to in sub-paragraphs b), d), e), f) and g) of paragraph 1).
 
-#### Article 10. Director General
+##### Article 10. Director General
 
 1). In addition to the privileges and immunities provided for staff members under Article 9 of this Protocol, the Director General shall enjoy:
 
@@ -178,7 +203,7 @@ EUTELSAT may receive and hold any kind of funds, currency or securities and disp
 
 2). The Parties to the Protocol are not obliged to accord to their nationals or permanent residents the immunities and facilities referred to in this Article.
 
-#### Article 11. Experts
+##### Article 11. Experts
 
 1). Experts, while performing their functions in relation to the work of EUTELSAT, and in the course of their journeys to and from the place of their mission shall enjoy the following privileges, exemptions and immunities:
 
@@ -192,15 +217,15 @@ EUTELSAT may receive and hold any kind of funds, currency or securities and disp
 
 2). The Parties to the Protocol shall not be obliged to accord to their nationals or permanent residents the privileges and immunities referred to in sub-paragraphs c) and d) of paragraph 1).
 
-#### Article 12. Arbitrators and Other Persons Participating in Arbitration Proceedings
+##### Article 12. Arbitrators and Other Persons Participating in Arbitration Proceedings
 
 Whenever a dispute is submitted to arbitration in accordance with [Article XX of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002146&artikel=XX), the appropriate privileges and immunities for arbitrators and other persons participating in arbitration proceedings shall be established in a special agreement between the parties to the arbitration and the Party in whose territory the proceedings are to take place.
 
-#### Article 13. Notification of Staff Members and Experts
+##### Article 13. Notification of Staff Members and Experts
 
 The Director General shall inform a Party to the Protocol whenever a staff member or expert takes up or relinquishes his duties in the territory of that Party. Futhermore, the Director General shall regularly notify all Parties to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002146) of the names and nationalities of the staff members to whom the provisions of Article 9 of this Protocol apply.
 
-#### Article 14. Waiver
+##### Article 14. Waiver
 
 1). The privileges and immunities provided for in this Protocol are not granted for the personal benefit of individuals but for the efficient performance of their official functions.
 
@@ -214,27 +239,27 @@ The Director General shall inform a Party to the Protocol whenever a staff membe
 
 - d). the Director General in respect of staff members and experts.
 
-#### Article 15. Entry, Stay and Departure
+##### Article 15. Entry, Stay and Departure
 
 The Parties to the Protocol shall take all appropriate measures to facilitate entry, stay and departure of representatives, staff members and experts.
 
-#### Article 16. Observance of Laws and Regulations
+##### Article 16. Observance of Laws and Regulations
 
 EUTELSAT and all persons enjoying privileges and immunities under this Protocol shall respect the laws and regulations of the Parties to the Protocol concerned and cooperate at all times with the competent authorities of those Parties in order to ensure the observance of their laws and regulations and to prevent any abuse of the privileges and immunities provided for in this Protocol.
 
-#### Article 17. Security
+##### Article 17. Security
 
 Each Party to the Protocol reserves the right to take all measures it considers necessary in the interest of its security.
 
-#### Article 18. Settlement of Disputes
+##### Article 18. Settlement of Disputes
 
 Any dispute between EUTELSAT and a Party to the Protocol or between two or more such Parties concerning the interpretation or application of this Protocol that is not settled by negotiation shall, at the request of any party to the dispute, be submitted to arbitration in accordance with [Article XX](https://wetten.overheid.nl/jci1.3:c:BWBV0002146&artikel=XX) and Annex B of the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002146).
 
-#### Article 19. Arbitration Clause in Written Contracts
+##### Article 19. Arbitration Clause in Written Contracts
 
 When concluding written contracts, other than those concluded in accordance with the staff regulations or those in which the Director General has expressly waived the immunity of EUTELSAT from jurisdiction, EUTELSAT shall provide for arbitration. The arbitration clause shall provide a means of establishing the law and procedure applicable, the composition of the tribunal, the procedure for the appointment of the arbitrators and the seat of the tribunal. The execution of the arbitration award shall be governed by the rules in force in the State in whose territory the award is to be executed.
 
-#### Article 20. Settlement of Disputes concerning Damage, Non-contractual Liability, or concerning Staff Members or Experts
+##### Article 20. Settlement of Disputes concerning Damage, Non-contractual Liability, or concerning Staff Members or Experts
 
 Any Party to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002146) may submit to arbitration in accordance with [Article XX](https://wetten.overheid.nl/jci1.3:c:BWBV0002146&artikel=XX) and Annex B of the Convention any dispute:
 
@@ -244,11 +269,11 @@ Any Party to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002146) m
 
 - c). involving a staff member or an expert and in which the person concerned can claim immunity from jurisdiction, if this immunity is not waived.
 
-#### Article 21. Complementary Agreements
+##### Article 21. Complementary Agreements
 
 EUTELSAT may conclude with any Party to the Protocol complementary agreements or other arrangements to give effect to the provisions of this Protocol as regards such Party, or otherwise to ensure the efficient functioning of EUTELSAT.
 
-#### Article 22. Signature, Ratification, Accession and Reservations
+##### Article 22. Signature, Ratification, Accession and Reservations
 
 1). This Protocol shall be open for signature at Paris from 13 February 1987 to 31 December 1987.
 
@@ -264,13 +289,13 @@ EUTELSAT may conclude with any Party to the Protocol complementary agreements or
 
 4). Reservations to this Protocol may be made in accordance with international law and may withdrawn at any time by a statement to that effect addressed to the Depositary.
 
-#### Article 23. Entry into Force and Duration of the Protocol
+##### Article 23. Entry into Force and Duration of the Protocol
 
 1). This Protocol shall enter into force on the thirtieth day after the date on which five Parties to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002146) have fulfilled the requirements of paragraph 2) of Article 22 of this Protocol.
 
 2). This Protocol shall cease to be in force on the date on which the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002146) ceases to be in force.
 
-#### Article 24. Entry into Force and Duration for a State
+##### Article 24. Entry into Force and Duration for a State
 
 1). After the date of entry into force of this Protocol, this Protocol shall enter into force, for a State that has fulfilled the requirements of paragraph 2) of Article 22 of this Protocol, on the thirtieth day after the date of signature not subject to ratification, acceptance or approval, or of the deposit of an instrument of ratification, acceptance, approval or accession with the Depositary.
 
@@ -278,7 +303,7 @@ EUTELSAT may conclude with any Party to the Protocol complementary agreements or
 
 3). A Party to the Protocol shall cease to be a Party to the Protocol on the date on which it ceases to be a Party to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002146).
 
-#### Article 25. Depositary
+##### Article 25. Depositary
 
 1). The Director General shall be the Depositary for this Protocol.
 
@@ -296,7 +321,7 @@ EUTELSAT may conclude with any Party to the Protocol complementary agreements or
 
 3). Upon entry into force of this Protocol, the Depositary shall transmit a certified copy of the original to the Secretariat of the United Nations for registration and publication in accordance with [Article 102 of the Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-#### Article 26. Authentic Texts
+##### Article 26. Authentic Texts
 
 This Protocol is established in a single original in the English and French languages, both texts being equally authentic, and shall be deposited with the Depositary who shall send a certified copy to each Party to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002146).
 

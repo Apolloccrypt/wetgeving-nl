@@ -1,24 +1,49 @@
 ---
 title: "Beleidsregels WSW 2008"
 identifier: "BWBR0023914"
-categorie: "Overig"
-publicatiedatum: 2012-08-25
-laatste_update: 2012-08-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0023914"
+country: "nl"
+rank: "zbo"
+publication_date: "2012-08-25"
+last_updated: "2012-08-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023914"
+soort: "zbo"
+stam_id: "9514843"
+version_id: "15376602"
+internal_id: "C29407711"
+label_id: "9491954"
+dtd_version: "2.0"
+original_entry_into_force: "2008-06-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023914/2012-08-25/0"
+intitule_bron: "Stcrt.2008-103"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-03-18"
+intitule_published: "2008-06-02"
+intitule_in_force: "2008-06-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-103"
+original_signed_date: "2008-03-18"
+original_published_date: "2008-06-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-103-p20-SC85873"
+entry_into_force_date: "2008-06-04"
+jci_1_3: "jci1.3:c:BWBR0023914&z=2012-08-25&g=2012-08-25"
+jci_1_0: "1.0:c:BWBR0023914&g=2012-08-25"
+citeertitel_status: "officieel"
+signed_date: "2008-03-18"
+entry_into_force: "2008-06-04"
 ---
-
 # Beleidsregels WSW 2008
 
 Gelet op [artikel 21a Wet Structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=21a), en de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&artikel=3) en [4 van het Besluit uitvoering sociale werkvoorziening en begeleid werken](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&artikel=4);
 
 Besluit:
 
-#### Artikel 1. Aanvraag
+##### Artikel 1. Aanvraag
 
 In geval van een herindicatie bedoeld in artikel 11 lid 3 van de Wet Sociale Werkvoorziening, bevat de aanvraag het re-integratieverslag bedoeld in [artikel 6 van de Regeling procesgang eerste en tweede ziektejaar](https://wetten.overheid.nl/jci1.3:c:BWBR0013540&artikel=6), met uitzondering van het gestelde onder h daarvan.
 
-#### Artikel 2. Onderzoek
+##### Artikel 2. Onderzoek
 
 1. UWV maakt bij het onderzoek als bedoeld in [artikel 3 van het Besluit uitvoering sociale werkvoorziening en begeleid werken](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&artikel=3) gebruik van:
 
@@ -48,13 +73,13 @@ In geval van een herindicatie bedoeld in artikel 11 lid 3 van de Wet Sociale Wer
 
 6. Indien de aanvrager niet of onvoldoende medewerking verleent aan het onderzoek, kan UWV daaraan gevolgen verbinden bij de beslissing omtrent het verzoek tot (her)indicatie.
 
-#### Artikel 3. Geldigheidsduur (her)indicatie
+##### Artikel 3. Geldigheidsduur (her)indicatie
 
 1. UWV stelt een geldigheidsduur op maat vast, afhankelijk van de te verwachten veranderingen van de beperkingen van de aanvrager in de toekomst. De te verwachten veranderingen zijn mede gebaseerd op (eerder) relevant onderzoek van arts, psycholoog of arbeidsdeskundige.
 
 2. In afwijking van het eerste lid geldt een geldigheidsduur van drie jaar voor indicatiestellingen die op basis van een in de periode 15 mei 2011 tot en met 31 juli 2012 door UWV ontvangen aanvraag voor het eerst zijn of worden afgegeven.
 
-#### Artikel 4. Inwerkingtreding en citeertitel
+##### Artikel 4. Inwerkingtreding en citeertitel
 
 1. Dit besluit treedt in werking op de tweede dag na publicatie van dit besluit in de Staatscourant en werkt terug tot en met 1 januari 2008.
 

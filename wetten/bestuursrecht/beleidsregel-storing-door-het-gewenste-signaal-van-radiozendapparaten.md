@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel storing door het gewenste signaal van radiozendapparaten"
+title: "Besluit van de Staatssecretaris van Economische Zaken van 24 april 2009, nr. AT-EZ/6279718.JZ, houdende vaststelling van een beleidsregel met betrekking tot het voorkomen van ontoelaatbare belemmeringen door het gewenste signaal (Beleidsregel storing door het gewenste signaal van radiozendapparaten)"
 identifier: "BWBR0025800"
-categorie: "Bestuursrecht"
-publicatiedatum: 2009-05-15
-laatste_update: 2009-05-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0025800"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2009-05-15"
+last_updated: "2009-05-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0025800"
+soort: "beleidsregel"
+stam_id: "10019063"
+version_id: "16377042"
+internal_id: "C22477571"
+label_id: "9995504"
+dtd_version: "2.0"
+original_entry_into_force: "2009-05-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0025800/2009-05-15/0"
+intitule_bron: "Stcrt.2009-87"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-04-24"
+intitule_published: "2009-05-13"
+intitule_in_force: "2009-05-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-87"
+original_signed_date: "2009-04-24"
+original_published_date: "2009-05-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-6959"
+entry_into_force_date: "2009-05-15"
+jci_1_3: "jci1.3:c:BWBR0025800&z=2009-05-15&g=2009-05-15"
+jci_1_0: "1.0:c:BWBR0025800&g=2009-05-15"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel storing door het gewenste signaal van radiozendapparaten"
+signed_date: "2009-04-24"
+entry_into_force: "2009-05-15"
 ---
-
 # Besluit van de Staatssecretaris van Economische Zaken van 24 april 2009, nr. AT-EZ/6279718.JZ, houdende vaststelling van een beleidsregel met betrekking tot het voorkomen van ontoelaatbare belemmeringen door het gewenste signaal (Beleidsregel storing door het gewenste signaal van radiozendapparaten)
 
 Gelet op [artikel 3.6 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.6), de [artikelen 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009997&artikel=9), [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009997&artikel=13), [16, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0009997&artikel=16), en [17, onderdeel d, van het Frequentiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009997&artikel=17), [artikel 8, tweede lid, van de Regeling aanwijzing overheidsorganen, bedoeld in artikel 3.4 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010034&artikel=8) en [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 1. In deze beleidsregel wordt verstaan onder:
 
@@ -52,13 +78,13 @@ Besluit:
 
 #### § 2. Verlenen, wijzigen en weigeren van vergunningen voor het gebruik van frequentieruimte
 
-#### Artikel 2. Vergunningen die verleend worden na inwerkingtreding van deze beleidsregel
+##### Artikel 2. Vergunningen die verleend worden na inwerkingtreding van deze beleidsregel
 
 1. Aan een vergunning als bedoeld in [artikel 3.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.3) wordt op basis van [artikel 16, eerste lid, onderdeel e, van het Frequentiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009997&artikel=16) in elk geval het voorschrift verbonden dat de vergunninghouder bij het gebruik van frequentieruimte geen ontoelaatbare belemmeringen mag veroorzaken.
 
 2. Het eerste lid vindt geen toepassing, indien aan de vergunning het voorschrift is verbonden dat het maximaal uitgestraalde vermogen 17 Watt e.i.r.p. of minder dient te bedragen.
 
-#### Artikel 3. Weigeren van een vergunningsaanvraag
+##### Artikel 3. Weigeren van een vergunningsaanvraag
 
 Aan de in [artikel 3.6, tweede lid, onderdeel e, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.6) opgenomen voorwaarde is in elk geval voldaan, indien als gevolg van verlening van de desbetreffende vergunning de aanvrager eigenstandig ter plaatse van:
 
@@ -66,7 +92,7 @@ Aan de in [artikel 3.6, tweede lid, onderdeel e, van de Telecommunicatiewet](htt
 
 - b. een ziekenhuis een piekwaarde van de elektrische veldsterkte zou veroorzaken van meer dan 5,4 Volt per meter in het frequentiegebied van 100 kHz tot en met 2,5 GHz.
 
-#### Artikel 4. Bestaande vergunningen
+##### Artikel 4. Bestaande vergunningen
 
 1. Indien toepassing wordt gegeven aan [artikel 17, onderdeel d, van het Frequentiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009997&artikel=17), wordt aan die vergunning in elk geval het voorschrift verbonden dat de vergunninghouder bij het gebruik van frequentieruimte geen ontoelaatbare belemmeringen mag veroorzaken.
 
@@ -74,7 +100,7 @@ Aan de in [artikel 3.6, tweede lid, onderdeel e, van de Telecommunicatiewet](htt
 
 #### § 3. Vaststellen van ontoelaatbare belemmeringen na vergunningverlening
 
-#### Artikel 5. Reikwijdte van deze paragraaf
+##### Artikel 5. Reikwijdte van deze paragraaf
 
 1. In deze paragraaf wordt aangegeven hoe de minister, voor zover het belemmeringen betreft die kunnen worden veroorzaakt door het gewenste signaal, uitleg geeft aan:
 
@@ -86,7 +112,7 @@ Aan de in [artikel 3.6, tweede lid, onderdeel e, van de Telecommunicatiewet](htt
 
 3. Bij het bepalen van de hoogte van de cumulatieve piekwaarde van de elektrische veldsterkte wordt de invloed van bebouwing daarop niet meegerekend.
 
-#### Artikel 6. Geen ontoelaatbare belemmering vanwege geringe elektrische veldsterkte of spanning
+##### Artikel 6. Geen ontoelaatbare belemmering vanwege geringe elektrische veldsterkte of spanning
 
 1. Een vergunninghouder veroorzaakt in het frequentiegebied van 100 kHz tot en met 2,5 GHz geen ontoelaatbare belemmeringen op locaties waar:
 
@@ -96,13 +122,13 @@ Aan de in [artikel 3.6, tweede lid, onderdeel e, van de Telecommunicatiewet](htt
 
 2. Een vergunninghouder veroorzaakt in het frequentiegebied hoger dan 2,5 GHz en gelijk of lager dan 400 GHz geen ontoelaatbare belemmeringen op locaties waar de gewenste signalen van radiozendapparaten uitgezonden in dat frequentiegebied een cumulatieve piekwaarde van de elektrische veldsterkte opleveren die lager is dan of gelijk is aan 1,8 Volt per meter.
 
-#### Artikel 7. Geen ontoelaatbare belemmering wanneer een overeenkomst is gesloten met de desbetreffende vergunninghouder
+##### Artikel 7. Geen ontoelaatbare belemmering wanneer een overeenkomst is gesloten met de desbetreffende vergunninghouder
 
 1. In afwijking van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0025800&paragraaf=3&artikel=8&z=2009-05-15&g=2009-05-15) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0025800&paragraaf=3&artikel=10&z=2009-05-15&g=2009-05-15), veroorzaakt een vergunninghouder bij een derde geen ontoelaatbare belemmering, indien hierover een schriftelijke overeenkomst geldt tussen die vergunninghouder en die derde.
 
 2. Een vergunninghouder die op een perceel een radiozendapparaat heeft geplaatst met schriftelijke instemming van de gebruiker van dat perceel, veroorzaakt, in afwijking van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0025800&paragraaf=3&artikel=8&z=2009-05-15&g=2009-05-15) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0025800&paragraaf=3&artikel=10&z=2009-05-15&g=2009-05-15), geen ontoelaatbare belemmering op dat perceel.
 
-#### Artikel 8. Ontoelaatbare belemmeringen in gebouwen bij een elektrische veldsterkte of spanning die hoger is dan de waarden in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0025800&paragraaf=3&artikel=6&z=2009-05-15&g=2009-05-15)
+##### Artikel 8. Ontoelaatbare belemmeringen in gebouwen bij een elektrische veldsterkte of spanning die hoger is dan de waarden in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0025800&paragraaf=3&artikel=6&z=2009-05-15&g=2009-05-15)
 
 1. Van een ontoelaatbare belemmering is in elk geval sprake indien:
 
@@ -112,7 +138,7 @@ Aan de in [artikel 3.6, tweede lid, onderdeel e, van de Telecommunicatiewet](htt
 
 2. Het eerste lid is niet van toepassing, indien de storing zich voordoet in een gebouw dat is gebouwd op een locatie waar de cumulatieve piekwaarde van de elektrische veldsterkte ten tijde van de bouw hoger lag dan de desbetreffende waarde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0025800&paragraaf=3&artikel=6&z=2009-05-15&g=2009-05-15).
 
-#### Artikel 9. Beëindiging van een ontoelaatbare belemmering
+##### Artikel 9. Beëindiging van een ontoelaatbare belemmering
 
 1. Een ontoelaatbare belemmering als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0025800&paragraaf=3&artikel=8&z=2009-05-15&g=2009-05-15) is beëindigd, indien de cumulatieve piekwaarde van de elektrische veldsterkte of spanning daalt tot de desbetreffende maximumwaarde, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0025800&paragraaf=3&artikel=6&z=2009-05-15&g=2009-05-15), of lager.
 
@@ -126,7 +152,7 @@ Aan de in [artikel 3.6, tweede lid, onderdeel e, van de Telecommunicatiewet](htt
 
 4. Het tweede lid geldt niet indien de cumulatieve piekwaarde van de elektrische veldsterkte 18 Volt per meter of hoger is op of nabij de locatie waar de ontoelaatbare belemmering zich voordoet.
 
-#### Artikel 10. Bepaling van degene die een ontoelaatbare belemmering veroorzaakt
+##### Artikel 10. Bepaling van degene die een ontoelaatbare belemmering veroorzaakt
 
 1. Een ontoelaatbare belemmering als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0025800&paragraaf=3&artikel=8&z=2009-05-15&g=2009-05-15) wordt veroorzaakt door de vergunninghouder die:
 
@@ -144,15 +170,15 @@ Aan de in [artikel 3.6, tweede lid, onderdeel e, van de Telecommunicatiewet](htt
 
 #### § 4. Overgangsrecht en slotbepalingen
 
-#### Artikel 11. Bestaande middengolfzenders
+##### Artikel 11. Bestaande middengolfzenders
 
 [Artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025800&paragraaf=3&artikel=9&z=2009-05-15&g=2009-05-15), geldt niet indien een radiozendapparaat bestemd voor omroep gebruik maakt van de frequentieband van 526.5 KHz tot en met 1606.5 KHz en gebruikt wordt op een locatie waar voor inwerkingtreding van deze beleidsregel reeds radiozendapparaten voor omroep worden gebruikt in die frequentieband.
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel storing door het gewenste signaal van radiozendapparaten.
 

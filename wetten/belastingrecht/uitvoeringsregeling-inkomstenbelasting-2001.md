@@ -1,13 +1,38 @@
 ---
 title: "Uitvoeringsregeling inkomstenbelasting 2001"
 identifier: "BWBR0012031"
-categorie: "Belastingrecht"
-publicatiedatum: 2026-01-17
-laatste_update: 2026-01-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012031"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-17"
+last_updated: "2026-01-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012031"
+soort: "ministeriele-regeling"
+stam_id: "1578203"
+version_id: "19997102"
+internal_id: "C28094851"
+label_id: "1533684"
+dtd_version: "2.0"
+original_entry_into_force: "2012-12-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012031/2026-01-17/0"
+intitule_bron: "Stcrt.2000-250"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-12-19"
+intitule_published: "2000-12-27"
+intitule_in_force: "2000-12-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-26349"
+original_signed_date: "2012-12-21"
+original_published_date: "2012-12-28"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2012-26349"
+entry_into_force_date: "2012-12-21"
+jci_1_3: "jci1.3:c:BWBR0012031&z=2026-01-17&g=2026-01-17"
+jci_1_0: "1.0:c:BWBR0012031&g=2026-01-17"
+citeertitel_status: "officieel"
+signed_date: "2012-12-21"
+entry_into_force: "2012-12-21"
 ---
-
 # Uitvoeringsregeling inkomstenbelasting 2001
 
 Handelende na overleg met de Minister van Landbouw, Natuurbeheer en Visserij;
@@ -20,7 +45,7 @@ Uitvoeringsregeling inkomstenbelasting 2001
 
 ### Hoofdstuk 1. Algemene bepalingen ([hoofdstuk 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=1))
 
-#### Artikel 1. Reikwijdte en definitie
+##### Artikel 1. Reikwijdte en definitie
 
 1. Deze regeling geeft uitvoering aan de [artikelen 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.5), [1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.7), [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.2), [2.14a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.14a), [3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.10), [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.13), [3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.16), [3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.17), [3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.20), [3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.22), [3.55](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.55), [3.56](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.56), [3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.57), [3.63](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.63), [3.83](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.83), [3.87](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.87), [3.104](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.104), [3.119aa](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119aa), [3.119c](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119c), [3.119e](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119e), [3.119g](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119g), [3.133](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.133), [3.138](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.138), [3.152](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.152), [4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.14), [4.17a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17a), [4.17b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17b), [4.17c](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17c), [4.41](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.41), [4.51](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.51), [5.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14), [6.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.17), [6.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.18), [6.26](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.26), [6.38](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.38), [6.39](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.39), [7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=7.2), [9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.2), [9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.4), [9.5a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.5a), [9.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.6), [10bis.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.1), [10bis.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.5) en [10a.9 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10a.9) en de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&artikel=14) en [14a van het Uitvoeringsbesluit inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&artikel=14a).
 
@@ -32,17 +57,17 @@ Uitvoeringsregeling inkomstenbelasting 2001
 
 - c. openbaar vervoer: voor een ieder openstaand personenvervoer volgens een dienstregeling met een auto, bus, trein, tram, metro, veerpont of een via een geleidesysteem voortbewogen voertuig.
 
-#### Artikel 2. In belangrijke mate onderhouden van kinderen
+##### Artikel 2. In belangrijke mate onderhouden van kinderen
 
 Een kind wordt in belangrijke mate op kosten van de ouder onderhouden indien de op de ouder drukkende bijdrage in de kosten van het onderhoud van het kind ten minste € 547 per kwartaal beloopt. De ouder wordt geacht een kind in belangrijke mate op zijn kosten te onderhouden indien hij voor het kind recht heeft op kinderbijslag ingevolge de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) of op een tegemoetkoming volgens een naar aard en strekking met de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) overeenkomende buitenlandse regeling.
 
 ### Hoofdstuk 2. Raamwerk (hoofdstuk 2 van de wet)
 
-#### Artikel 3. Woonplaatsfictie; aanwijzing mogendheid
+##### Artikel 3. Woonplaatsfictie; aanwijzing mogendheid
 
 Voor de toepassing van [artikel 2.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.2), worden, voorzover het niet gaat om lidstaten van de Europese Unie, als de in die bepaling bedoelde mogendheden aangewezen alle mogendheden waarmee Nederland een regeling ter voorkoming van dubbele belasting is overeengekomen, waarvan de bepalingen van toepassing zijn.
 
-#### Artikel 4. Tijdsevenredige vermindering heffingskorting
+##### Artikel 4. Tijdsevenredige vermindering heffingskorting
 
 Bij de tijdsevenredige vermindering, bedoeld in [artikel 2.7, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.7), van de heffingskorting voor de inkomstenbelasting wordt:
 
@@ -56,7 +81,7 @@ Bij de tijdsevenredige vermindering, bedoeld in [artikel 2.7, tweede lid, van de
 
 ### Hoofdstuk 3. Heffingsgrondslag bij werk en woning (hoofdstuk 3 van de wet)
 
-#### Artikel 5. Belastbare winst uit onderneming; verliezen uit de aanloopfase van een onderneming
+##### Artikel 5. Belastbare winst uit onderneming; verliezen uit de aanloopfase van een onderneming
 
 Bij het bepalen van de winst van het eerste kalenderjaar als ondernemer komt mede in aftrek het totale bedrag van de kosten en lasten die zijn gemaakt in de vijf daaraan voorafgaande kalenderjaren en die verband houden met het starten van de onderneming, voorzover:
 
@@ -64,7 +89,7 @@ Bij het bepalen van de winst van het eerste kalenderjaar als ondernemer komt med
 
 - b. zij niet ten laste van het belastbaar inkomen uit werk en woning kunnen of konden worden gebracht.
 
-#### Artikel 6. Belastbare winst uit onderneming; overige vrijstellingen; gedeeltelijke vrijstelling van bos en natuur
+##### Artikel 6. Belastbare winst uit onderneming; overige vrijstellingen; gedeeltelijke vrijstelling van bos en natuur
 
 1. Als regelingen ten behoeve van de ontwikkeling en instandhouding van bos en natuur of overeenkomsten die op die regelingen vooruitlopen als bedoeld in [artikel 3.13, eerste lid, onderdeel g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.13) worden aangewezen:
 
@@ -94,17 +119,17 @@ Bij het bepalen van de winst van het eerste kalenderjaar als ondernemer komt med
 
 2. Van de voordelen die worden genoten op grond van de in het eerste lid, onderdelen a, g en h, bedoelde regelingen en overeenkomsten behoort 90% niet tot de winst. Van de voordelen die worden genoten op grond van de in het eerste lid, onderdelen b tot en met f, bedoelde regelingen en overeenkomsten behoort 100% niet tot de winst.
 
-#### Artikel 7. Belastbare winst uit onderneming; van aftrek uitgesloten kosten ten behoeve van de belastingplichtige; werkkleding
+##### Artikel 7. Belastbare winst uit onderneming; van aftrek uitgesloten kosten ten behoeve van de belastingplichtige; werkkleding
 
 Voor de toepassing van [artikel 3.16, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.16) wordt kleding die niet uitsluitend of nagenoeg uitsluitend geschikt is om bij het behalen van de winst te dragen, slechts als werkkleding aangemerkt indien zij is voorzien van een of meer duidelijk zichtbare, aan de onderneming gebonden beeldmerken met een oppervlakte van tezamen ten minste 70 cm2.
 
-#### Artikel 8. Belastbare winst uit onderneming; in aftrek beperkte kosten ten behoeve van de belastingplichtige; verhuizing in kader van onderneming
+##### Artikel 8. Belastbare winst uit onderneming; in aftrek beperkte kosten ten behoeve van de belastingplichtige; verhuizing in kader van onderneming
 
 1. Voor de toepassing van [artikel 3.17, eerste lid, onderdeel a, onder 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.17) verhuist de ondernemer in ieder geval in het kader van de onderneming ingeval hij binnen twee jaar na de verplaatsing van de onderneming door verhuizing de afstand tussen zijn woning en de vestigingsplaats van de onderneming met ten minste 60% verkleint terwijl tot die verhuizing de afstand tussen zijn woning en de vestigingsplaats van de onderneming ten minste 25 kilometer bedroeg.
 
 2. Onder afstand als bedoeld in het eerste lid wordt verstaan de afstand gemeten langs de meest gebruikelijke weg.
 
-#### Artikel 9. Belastbare winst uit onderneming; bijtelling privégebruik auto
+##### Artikel 9. Belastbare winst uit onderneming; bijtelling privégebruik auto
 
 De rittenregistratie, bedoeld in [artikel 3.20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.20), bevat ten minste de volgende gegevens:
 
@@ -114,23 +139,23 @@ De rittenregistratie, bedoeld in [artikel 3.20 van de wet](https://wetten.overhe
 
 - c. per rit: 1°. datum; 2°. beginstand en eindstand van de kilometerteller; 3°. beginadres en eindadres; 4°. de gereden route indien deze afwijkt van de meest gebruikelijke; 5°. het karakter van de rit.
 
-#### Artikel 10. Belastbare winst uit onderneming; loon- en prijswijzigingen na afloop jaar en betaling
+##### Artikel 10. Belastbare winst uit onderneming; loon- en prijswijzigingen na afloop jaar en betaling
 
 Vervallen
 
-#### Artikel 11. Aangewezen staten bij de Overeenkomst betreffende de Europese Economische Ruimte
+##### Artikel 11. Aangewezen staten bij de Overeenkomst betreffende de Europese Economische Ruimte
 
 Voor de toepassing van de [artikelen 3.55, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.55), [3.56, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.56), [3.57, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.57), en [4.41, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.41) en de [artikelen 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&artikel=14), en [14a, tweede lid, van het Uitvoeringsbesluit inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&artikel=14a) worden van de staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte aangewezen: IJsland, Noorwegen en Liechtenstein.
 
-#### Artikel 12. Belastbare winst uit onderneming; scholingsaftrek; bijdragen aan een scholingsfonds
+##### Artikel 12. Belastbare winst uit onderneming; scholingsaftrek; bijdragen aan een scholingsfonds
 
 Vervallen
 
-#### Artikel 13. Belastbare winst uit onderneming; delegatiebepaling scholingsaftrek; door ondernemer zelf verzorgde scholing
+##### Artikel 13. Belastbare winst uit onderneming; delegatiebepaling scholingsaftrek; door ondernemer zelf verzorgde scholing
 
 Vervallen
 
-#### Artikel 13a. Belastbare winst uit onderneming; verkorting driejaarstermijn bij doorschuiving naar ondernemers of werknemers
+##### Artikel 13a. Belastbare winst uit onderneming; verkorting driejaarstermijn bij doorschuiving naar ondernemers of werknemers
 
 1. Aan de in [artikel 3.63, vierde lid en vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.63) bedoelde termijn van 36 maanden wordt geacht te zijn voldaan indien zich na het aangaan van het samenwerkingsverband respectievelijk de dienstbetrekking een omstandigheid voordoet als bedoeld in het tweede lid.
 
@@ -148,15 +173,15 @@ Vervallen
 
 - f. overlijdt en de onderneming spoedig daarna aan de in [artikel 3.63, vierde lid respectievelijk vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.63), bedoelde voortzetter wordt overgedragen.
 
-#### Artikel 14. Belastbaar loon; pensioen in grensoverschrijdende situaties
+##### Artikel 14. Belastbaar loon; pensioen in grensoverschrijdende situaties
 
 (GERESERVEERD)
 
-#### Artikel 15. Belastbaar loon; fietsaftrek
+##### Artikel 15. Belastbaar loon; fietsaftrek
 
 Vervallen
 
-#### Artikel 16. Belastbaar loon; reisaftrek
+##### Artikel 16. Belastbaar loon; reisaftrek
 
 1. De openbaar-vervoerverklaring, bedoeld in [artikel 3.87, negende lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.87), is gedagtekend en bevat ten minste de volgende gegevens:
 
@@ -174,7 +199,7 @@ Vervallen
 
 - c. een door de inhoudingsplichtige ondertekende verklaring, die vermeldt het aantal dagen per week dat de belastingplichtige met het openbaar vervoer naar de plaats of plaatsen van werkzaamheden heeft gereisd.
 
-#### Artikel 17. Belastbare periodieke uitkeringen en verstrekkingen; vrijstellingen publiekrechtelijke uitkeringen
+##### Artikel 17. Belastbare periodieke uitkeringen en verstrekkingen; vrijstellingen publiekrechtelijke uitkeringen
 
 1. Als uitkeringen welke niet tot de inkomsten in de vorm van bepaalde periodieke uitkeringen en verstrekkingen behoren, bedoeld in [artikel 3.104, onderdeel h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.104) worden aangewezen:
 
@@ -210,11 +235,11 @@ Vervallen
 
 - f. vervoersvoorzieningen als bedoeld in [artikel 19a, tweede lid, onderdeel b, van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=19a).
 
-#### Artikel 17a. Aanvullende bepalingen met betrekking tot de eigenwoningreserve
+##### Artikel 17a. Aanvullende bepalingen met betrekking tot de eigenwoningreserve
 
 Indien in de overeenkomst ter zake van de verwerving van een eigen woning, ten behoeve van de uitvoering van het woonbeleid van de rijksoverheid of een gemeente, een clausule is opgenomen op grond waarvan bij niet-nakoming van die clausule een bedrag verschuldigd is, kan bij de vervreemding van die woning het bedrag dat ter zake van het niet nakomen van de clausule is betaald in mindering worden gebracht op het vervreemdingssaldo eigen woning, bedoeld in [artikel 3.119aa, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119aa).
 
-#### Artikel 18. Negatieve uitgaven voor inkomensvoorzieningen; voorwaarden arbeidsongeschiktheid
+##### Artikel 18. Negatieve uitgaven voor inkomensvoorzieningen; voorwaarden arbeidsongeschiktheid
 
 Van langdurige arbeidsongeschiktheid als bedoeld in [artikel 3.133, negende lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.133) is sprake indien:
 
@@ -222,51 +247,51 @@ Van langdurige arbeidsongeschiktheid als bedoeld in [artikel 3.133, negende lid,
 
 - b. aannemelijk is dat de belastingplichtige periodieke uitkeringen van privaat- of publiekrechtelijke aard wegens arbeidsongeschiktheid ontvangt of gaat ontvangen.
 
-#### Artikel 19. Uitgaven voor kinderopvang
+##### Artikel 19. Uitgaven voor kinderopvang
 
 Vervallen
 
-#### Artikel 20. Uitgaven voor kinderopvang; voorwaarden
+##### Artikel 20. Uitgaven voor kinderopvang; voorwaarden
 
 Vervallen
 
-#### Artikel 21. Uitgaven voor kinderopvang; in aanmerking te nemen uitgaven
+##### Artikel 21. Uitgaven voor kinderopvang; in aanmerking te nemen uitgaven
 
 Vervallen
 
-#### Artikel 22. Waardering niet in geld genoten inkomen; privé-gebruik auto
+##### Artikel 22. Waardering niet in geld genoten inkomen; privé-gebruik auto
 
 Vervallen
 
-#### Artikel 23. Verliesverrekening; formalisering achterwaartse verliesverrekening
+##### Artikel 23. Verliesverrekening; formalisering achterwaartse verliesverrekening
 
 1. Een voorlopige verliesverrekening als bedoeld in [artikel 3.152, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.152) kan worden verleend indien het verlies over een kalenderjaar wordt aangegeven door de in de uitnodiging tot het doen van aangifte gevraagde gegevens en bescheiden en andere gegevensdragers of de inhoud daarvan duidelijk, stellig en zonder voorbehoud in te vullen en te ondertekenen en de gevraagde bescheiden of andere gegevensdragers in te leveren of toe te zenden.
 
 2. Bij de berekening van de voorlopige verliesverrekening wordt het vermoedelijke verlies voor 80 percent in aanmerking genomen.
 
-#### Artikel 24. Middeling
+##### Artikel 24. Middeling
 
 Vervallen
 
-#### Artikel 24a. Beperking geldingsduur verklaring arbeidsrelatie
+##### Artikel 24a. Beperking geldingsduur verklaring arbeidsrelatie
 
 Vervallen
 
-#### Artikel 24b. Beperking geldingsduur verklaring arbeidsrelatie
+##### Artikel 24b. Beperking geldingsduur verklaring arbeidsrelatie
 
 Vervallen
 
 ### Hoofdstuk 4. Heffingsgrondslag bij aanmerkelijk belang (hoofdstuk 4 van de wet)
 
-#### Artikel 25. Aanmerkelijk belang; soortbenadering; aandelen verkregen in het kader van een premiespaarregeling of spaarloonregeling
+##### Artikel 25. Aanmerkelijk belang; soortbenadering; aandelen verkregen in het kader van een premiespaarregeling of spaarloonregeling
 
 Vervallen
 
-#### Artikel 26. Reguliere voordelen; forfaitair voordeel uit buitenlandse beleggingslichamen; aanwijzing effectenbeurzen
+##### Artikel 26. Reguliere voordelen; forfaitair voordeel uit buitenlandse beleggingslichamen; aanwijzing effectenbeurzen
 
 De ingevolge [artikel 4.14, achtste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.14) aan te wijzen effectenbeurzen zijn de effectenbeurzen in de lidstaten van de Europese Gemeenschappen, alsmede de effectenbeurzen te Zürich, New York en Tokio.
 
-#### Artikel 27. Verliesverrekening; formalisering achterwaartse verliesverrekening
+##### Artikel 27. Verliesverrekening; formalisering achterwaartse verliesverrekening
 
 1. Een voorlopige verliesverrekening als bedoeld in [artikel 4.51, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.51) kan worden verleend indien het verlies over een kalenderjaar wordt aangegeven door de in de uitnodiging tot het doen van aangifte gevraagde gegevens en bescheiden en andere gegevensdragers of de inhoud daarvan duidelijk, stellig en zonder voorbehoud in te vullen en te ondertekenen en de gevraagde bescheiden of andere gegevensdragers in te leveren of toe te zenden.
 
@@ -274,7 +299,7 @@ De ingevolge [artikel 4.14, achtste lid, onderdeel a, van de wet](https://wetten
 
 ### Hoofdstuk 4. Heffingsgrondslag bij aanmerkelijk belang (hoofdstuk 4 van de wet)
 
-#### Artikel 28. Reikwijdte en definities
+##### Artikel 28. Reikwijdte en definities
 
 1. Voor de toepassing van dit hoofdstuk wordt verstaan onder:
 
@@ -294,7 +319,7 @@ De ingevolge [artikel 4.14, achtste lid, onderdeel a, van de wet](https://wetten
 
 - b. indien het fonds een beleggingsinstelling is: zolang ten minste 70% van de groene beleggingen, bedoeld in [artikel 5.14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14), van het fonds is aangewend voor het direct of indirect beleggen van vermogen ten behoeve van projecten in het belang van de bescherming van het milieu, waaronder natuur en bos, en de accountant van het fonds jaarlijks een goedkeurende verklaring afgeeft dat aan het hoofzakelijkheidscriterium is voldaan.
 
-#### Artikel 29. Inhoud verzoek om aanwijzing als groenfonds en afhandeling verzoek
+##### Artikel 29. Inhoud verzoek om aanwijzing als groenfonds en afhandeling verzoek
 
 1. Een verzoek om aanwijzing als fonds wordt schriftelijk gedaan bij de inspecteur onder overlegging van:
 
@@ -316,7 +341,7 @@ De ingevolge [artikel 4.14, achtste lid, onderdeel a, van de wet](https://wetten
 
 5. De inspecteur maakt het aanwijzen als een fonds op een daartoe geschikte wijze publiek bekend. Indien de inspecteur een aanwijzing intrekt, maakt hij die intrekking ook op een daartoe geschikte wijze publiek bekend.
 
-#### Artikel 30. Nettopensioen; in aanmerking te nemen dienstjaren en pensioengevend loon
+##### Artikel 30. Nettopensioen; in aanmerking te nemen dienstjaren en pensioengevend loon
 
 1. Voor de bepaling van de perioden die voor de toepassing van [afdeling 5.3B van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=5.3B) en de daarop berustende bepalingen in aanmerking komen als dienstjaren is [artikel 10a van het Uitvoeringsbesluit loonbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&artikel=10a) van overeenkomstige toepassing.
 
@@ -324,41 +349,41 @@ De ingevolge [artikel 4.14, achtste lid, onderdeel a, van de wet](https://wetten
 
 3. In afwijking in zoverre van het eerste en tweede lid zijn de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&artikel=1a) en [11c tot en met 11f van het Uitvoeringsbesluit inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&artikel=11c) van overeenkomstige toepassing voor de toepassing van [afdeling 5.3B van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=5.3B) en de daarop berustende bepalingen ingeval sprake is van een pensioenregeling als bedoeld in [artikel 1.7, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.7), waaraan een belastingplichtige deelneemt of heeft deelgenomen anders dan als werknemer als bedoeld in de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471).
 
-#### Artikel 31. Beleggingen in durfkapitaal; vrijstelling directe beleggingen in durfkapitaal; beginnende ondernemer-rechtspersoon
+##### Artikel 31. Beleggingen in durfkapitaal; vrijstelling directe beleggingen in durfkapitaal; beginnende ondernemer-rechtspersoon
 
 Vervallen
 
-#### Artikel 32. Beleggingen in durfkapitaal; vrijstelling directe beleggingen in durfkapitaal; voorwaarden geldlening
+##### Artikel 32. Beleggingen in durfkapitaal; vrijstelling directe beleggingen in durfkapitaal; voorwaarden geldlening
 
 Vervallen
 
-#### Artikel 33. Participatiemaatschappij; omvang en karakter van het vermogen, alsmede aanwijzing van de participatiemaatschappij en intrekking van de aanwijzing
+##### Artikel 33. Participatiemaatschappij; omvang en karakter van het vermogen, alsmede aanwijzing van de participatiemaatschappij en intrekking van de aanwijzing
 
 Vervallen
 
-#### Artikel 33a. Beleggingen in durfkapitaal; vrijstelling culturele beleggingen
+##### Artikel 33a. Beleggingen in durfkapitaal; vrijstelling culturele beleggingen
 
 Vervallen
 
-#### Artikel 33b. Aanwijzing prijscourant
+##### Artikel 33b. Aanwijzing prijscourant
 
 Als prijscourant als bedoeld in [artikel 5.21 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.21) wordt aangewezen de Officiële Prijscourant uitgegeven door Euronext Amsterdam N.V.
 
 ### Hoofdstuk 6. Persoonsgebonden aftrek
 
-#### Artikel 34. Verliezen op geldleningen aan beginnende ondernemers; verliezen op beleggingen in durfkapitaal
+##### Artikel 34. Verliezen op geldleningen aan beginnende ondernemers; verliezen op beleggingen in durfkapitaal
 
 Vervallen
 
-#### Artikel 35. Uitgaven voor levensonderhoud van kinderen; beperkingen
+##### Artikel 35. Uitgaven voor levensonderhoud van kinderen; beperkingen
 
 Vervallen
 
-#### Artikel 36. Uitgaven voor levensonderhoud van kinderen; omvang in aanmerking te nemen uitgaven
+##### Artikel 36. Uitgaven voor levensonderhoud van kinderen; omvang in aanmerking te nemen uitgaven
 
 Vervallen
 
-#### Artikel 37. Uitgaven voor specifieke zorgkosten; dieetkosten
+##### Artikel 37. Uitgaven voor specifieke zorgkosten; dieetkosten
 
 1. De extra kosten van een op voorschrift van een arts of een diëtist gehouden dieet als bedoeld in [artikel 6.17, eerste lid, onderdeel g, en achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.17), worden bepaald aan de hand van de navolgende tabel:
 
@@ -482,7 +507,7 @@ Voor overige diëten worden de extra kosten gesteld op nihil.
 
 - e. de dagtekening van het voorschrift, de ingangsdatum van het te volgen dieet en indien van toepassing de einddatum van het te volgen dieet.
 
-#### Artikel 38. Uitgaven voor specifieke zorgkosten; extra kleding en beddengoed alsmede daarmee samenhangende extra uitgaven
+##### Artikel 38. Uitgaven voor specifieke zorgkosten; extra kleding en beddengoed alsmede daarmee samenhangende extra uitgaven
 
 1. Uitgaven voor extra kleding en beddengoed alsmede daarmee samenhangende extra uitgaven als bedoeld in [artikel 6.17, eerste lid, onderdeel h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.17) worden in aanmerking genomen voor een bedrag van € 330 dan wel, indien blijkt dat die uitgaven € 660 te boven gaan, voor een bedrag van € 825, indien:
 
@@ -492,7 +517,7 @@ Voor overige diëten worden de extra kosten gesteld op nihil.
 
 2. Ingeval aan de in het eerste lid gestelde voorwaarden niet gedurende het gehele kalenderjaar is voldaan, wordt dat lid naar tijdsgelang toegepast.
 
-#### Artikel 39. Uitgaven voor specifieke zorgkosten; paramedici met directe toegang
+##### Artikel 39. Uitgaven voor specifieke zorgkosten; paramedici met directe toegang
 
 1. Als paramedicus als bedoeld in [artikel 6.17, tiende lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.17) wordt aangewezen de persoon die bevoegd is tot het voeren van de titel:
 
@@ -528,7 +553,7 @@ Voor overige diëten worden de extra kosten gesteld op nihil.
 
 - f. de dagtekening van de verklaring.
 
-#### Artikel 40. Weekenduitgaven voor gehandicapten; het in aanmerking te nemen bedrag
+##### Artikel 40. Weekenduitgaven voor gehandicapten; het in aanmerking te nemen bedrag
 
 1. De ingevolge [artikel 6.26 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.26) bedoelde weekenduitgaven voor gehandicapten worden gesteld op:
 
@@ -540,7 +565,7 @@ Dagen van verzorging van de gehandicapte door de belastingplichtige zijn de dage
 
 2. Indien zowel de belastingplichtige als zijn partner weekenduitgaven voor een gehandicapte in aanmerking nemen, wordt het voor die gehandicapte in aanmerking te nemen bedrag gesteld op de helft van het volgens het eerste lid, onderdelen a en b, berekende bedrag, zonodig naar boven af te ronden op een geheel getal.
 
-#### Artikel 41. Aftrekbare giften; voorwaarden akte van schenking
+##### Artikel 41. Aftrekbare giften; voorwaarden akte van schenking
 
 In de akte van schenking, bedoeld in [artikel 6.38 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.38), worden ten minste de volgende gegevens vermeld:
 
@@ -556,37 +581,37 @@ In de akte van schenking, bedoeld in [artikel 6.38 van de wet](https://wetten.ov
 
 ### Hoofdstuk 7. Belastingheffing van buitenlandse belastingplichtigen ([hoofdstuk 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=7))
 
-#### Artikel 42. Belastbaar inkomen uit werk en woning
+##### Artikel 42. Belastbaar inkomen uit werk en woning
 
 (GERESERVEERD)
 
-#### Artikel 43. Belastbaar inkomen uit werk en woning
+##### Artikel 43. Belastbaar inkomen uit werk en woning
 
 (GERESERVEERD)
 
-#### Artikel 44. Belastbaar inkomen uit werk en woning
+##### Artikel 44. Belastbaar inkomen uit werk en woning
 
 (GERESERVEERD)
 
 ### Hoofdstuk 6. Persoonsgebonden aftrek
 
-#### Artikel 44a. Bijzondere verhoging heffingskorting voor niet inwoners; aanwijzing mogendheid
+##### Artikel 44a. Bijzondere verhoging heffingskorting voor niet inwoners; aanwijzing mogendheid
 
 Vervallen
 
-#### Artikel 44b. Inkomensafhankelijke combinatiekorting voor co-ouders
+##### Artikel 44b. Inkomensafhankelijke combinatiekorting voor co-ouders
 
 Vervallen
 
 ### Hoofdstuk 7. Belastingheffing van buitenlandse belastingplichtigen ([hoofdstuk 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=7))
 
-#### Artikel 45. Termijn voor het doen van niet-verplichte aangifte
+##### Artikel 45. Termijn voor het doen van niet-verplichte aangifte
 
 1. De aangifte, bedoeld in [artikel 9.4, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.4), wordt gedaan binnen vijf jaren na afloop van het kalenderjaar.
 
 2. Indien binnen de in het eerste lid bedoelde termijn een uitnodiging tot het doen van aangifte is uitgereikt of toegezonden, hetzij de inspecteur is verzocht om een uitnodiging tot het doen van aangifte, wordt die termijn verlengd tot het einde van de door de inspecteur ingevolge [artikel 9, eerste tot en met derde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=9) gestelde of verleende termijn.
 
-#### Artikel 45a. Voorheffingen; vaststelling hoogte van bedrag aan te verrekenen loonbelasting ingevolge compensatieregeling uit verdragen met België en Duitsland
+##### Artikel 45a. Voorheffingen; vaststelling hoogte van bedrag aan te verrekenen loonbelasting ingevolge compensatieregeling uit verdragen met België en Duitsland
 
 1. Indien de belastingplichtige een partner heeft ten aanzien van wie in het kalenderjaar de in [artikel 8.8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.8) bedoelde maximering van de gecombineerde heffingskorting toepassing vindt, wordt bij de berekening van hetgeen ingevolge artikel 27, paragraaf 1, van het in [artikel 9.2, negende lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.2) genoemde verdrag wordt aangemerkt als ingehouden Nederlandse loonbelasting, het bedrag aan Nederlandse inkomstenbelasting en premie voor de volksverzekeringen als bedoeld in de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745) dat de belastingplichtige verschuldigd zou zijn geweest indien hij de in artikel 27, paragraaf 1, van dat verdrag bedoelde beloningen uit Nederland zou hebben verkregen, verminderd met de verhoging, bedoeld in artikel [8.9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.9), van de gecombineerde heffingskorting waarop zijn partner recht zou hebben gehad, indien hij bedoelde beloningen daadwerkelijk uit Nederland zou hebben verkregen en Nederland daarover belasting en premie zou hebben geheven.
 
@@ -602,21 +627,21 @@ Vervallen
 
 ### Hoofdstuk 8. Heffingskorting
 
-#### Artikel 46. Guldensbedragen
+##### Artikel 46. Guldensbedragen
 
 Wijzigt deze regeling.
 
-#### Artikel 47. Inwerkingtreding
+##### Artikel 47. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2001.
 
-#### Artikel 48. Citeertitel
+##### Artikel 48. Citeertitel
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling inkomstenbelasting 2001.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
-#### Artikel 2a. Ingegane lijfrenten waarvan de termijnen niet in geldeenheden, maar in units zijn vastgesteld
+##### Artikel 2a. Ingegane lijfrenten waarvan de termijnen niet in geldeenheden, maar in units zijn vastgesteld
 
 1. Een aanspraak op periodieke uitkeringen waarvan de uitkeringen zijn ingegaan en waarvan de hoogte van de uitkeringen niet voor de gehele uitkeringsperiode in geldeenheden is vastgesteld, wordt op grond van [artikel 1.7, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) gelijkgesteld met een aanspraak op vaste en gelijkmatige periodieke uitkeringen indien wordt voldaan aan de hierna opgenomen regels.
 
@@ -668,7 +693,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 ### Hoofdstuk 7. Belastingheffing van buitenlandse belastingplichtigen ([hoofdstuk 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=7))
 
-#### Artikel 45b
+##### Artikel 45b
 
 Vóór 1 januari 2005 vastgestelde lijfrenten die niet in geldeenheden luiden:
 
@@ -682,7 +707,7 @@ Vóór 1 januari 2005 vastgestelde lijfrenten die niet in geldeenheden luiden:
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
-#### Artikel 9a. Constatering van het niet afgenomen zijn van de netto-tonnage van bepaalde schepen
+##### Artikel 9a. Constatering van het niet afgenomen zijn van de netto-tonnage van bepaalde schepen
 
 Met betrekking tot het kalenderjaar 2026 wordt voor de toepassing van [artikel 3.22, zesde lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.22) in samenhang met artikel 3.22, tiende lid, van de wet vastgesteld dat op landelijk niveau de netto-tonnage van kwalificerende schepen die de vlag voeren van een van de lidstaten van de Europese Unie of van een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte als percentage van de netto-tonnage van kwalificerende schepen in de periode 2022 tot en met 2024 ten opzichte van de periode 2021 tot en met 2023 niet is afgenomen.
 
@@ -696,11 +721,11 @@ Met betrekking tot het kalenderjaar 2026 wordt voor de toepassing van [artikel 3
 
 ### Hoofdstuk 7. Belastingheffing van buitenlandse belastingplichtigen ([hoofdstuk 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=7))
 
-#### Artikel 44c. Bedrag ouderschapsverlofkorting
+##### Artikel 44c. Bedrag ouderschapsverlofkorting
 
 Vervallen
 
-#### Artikel 44d. Verklaring ouderschapsverlof
+##### Artikel 44d. Verklaring ouderschapsverlof
 
 Vervallen
 
@@ -710,7 +735,7 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
-#### Artikel 40a. Scholingsuitgaven; afgifte EVC-verklaringen
+##### Artikel 40a. Scholingsuitgaven; afgifte EVC-verklaringen
 
 De verklaring, bedoeld in [artikel 6.27, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.27), wordt afgegeven door de door de Stichting van de Arbeid in dat kader benoemde uitvoeringsorganisatie.
 
@@ -724,7 +749,7 @@ De verklaring, bedoeld in [artikel 6.27, tweede lid, van de wet](https://wetten.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
-#### Artikel 41a. Aftrekbare giften in natura; voorwaarden taxatierapport
+##### Artikel 41a. Aftrekbare giften in natura; voorwaarden taxatierapport
 
 1. Het taxatierapport, bedoeld in de [artikelen 6.38, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.38), en [6.39, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.39), bevat de uitkomsten van een taxatie die is uitgevoerd door een onafhankelijke taxateur die is ingeschreven in een register dat tot doel heeft zijn deskundigheid te waarborgen.
 
@@ -748,7 +773,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 - h. indien van toepassing: een motivering van de individuele afwijking ten opzichte van de relevante marktgegevens.
 
-#### Artikel 41b. Aftrekbare giften in natura; voorwaarden factuur
+##### Artikel 41b. Aftrekbare giften in natura; voorwaarden factuur
 
 1. De factuur, bedoeld in de [artikelen 6.38, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.38), en [6.39, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.39), is niet meer dan drie maanden voorafgaand aan het moment van schenking uitgereikt.
 
@@ -762,7 +787,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 - c. het type en de omvang van het object of het belang en de aard van het gebruik.
 
-#### Artikel 41c. Bij één beschikking meer instellingen aanmerken
+##### Artikel 41c. Bij één beschikking meer instellingen aanmerken
 
 Vervallen
 
@@ -772,7 +797,7 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
-#### Artikel 41d. Aangewezen mogendheden buiten de EU, Aruba, Curaçao, Sint Maarten en de BES eilanden
+##### Artikel 41d. Aangewezen mogendheden buiten de EU, Aruba, Curaçao, Sint Maarten en de BES eilanden
 
 Vervallen
 
@@ -782,7 +807,7 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
-#### Artikel 2b. Ingegane lijfrenterekeningtermijnen of lijfrentebeleggingsrechttermijnen waarvan de omvang niet in geldeenheden, maar in units is vastgesteld
+##### Artikel 2b. Ingegane lijfrenterekeningtermijnen of lijfrentebeleggingsrechttermijnen waarvan de omvang niet in geldeenheden, maar in units is vastgesteld
 
 1. Een aanspraak op termijnen als bedoeld in [artikel 3.126a, vierde en zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.126a) waarvan de termijnen zijn ingegaan en waarvan de hoogte van de termijnen niet voor de gehele uitkeringsperiode in geldeenheden is vastgesteld, wordt op grond van artikel 3.126a, zevende lid, in verbinding met [artikel 1.7, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.7) gelijkgesteld met een aanspraak op vaste en gelijkmatige termijnen indien wordt voldaan aan de hierna opgenomen regels.
 
@@ -808,13 +833,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 ### Hoofdstuk 3. Heffingsgrondslag bij werk en woning (hoofdstuk 3 van de wet)
 
-#### Artikel 17bis. Verdeling spaarrekening eigen woning en beleggingsrecht eigen woning bij meer dan één gerechtigde
+##### Artikel 17bis. Verdeling spaarrekening eigen woning en beleggingsrecht eigen woning bij meer dan één gerechtigde
 
 Vervallen
 
 ### Hoofdstuk 4. Heffingsgrondslag bij aanmerkelijk belang ([hoofdstuk 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4))
 
-#### Artikel 29a. Informatievoorziening en administratieplicht
+##### Artikel 29a. Informatievoorziening en administratieplicht
 
 1. Een aangewezen fonds overlegt binnen vier maanden na afloop van ieder boekjaar aan de inspecteur een overzicht van zijn bezittingen en schulden naar de waarde in het economische verkeer aan het einde van het boekjaar.
 
@@ -828,7 +853,7 @@ Vervallen
 
 6. Indien een aangewezen fonds niet meer voldoet aan de voorwaarden voor aanwijzing, doet het fonds daarvan onverwijld schriftelijk mededeling aan de inspecteur.
 
-#### Artikel 29b. Intrekking aanwijzing
+##### Artikel 29b. Intrekking aanwijzing
 
 1. De inspecteur trekt de aanwijzing in:
 
@@ -856,7 +881,7 @@ Vervallen
 
 ### Hoofdstuk 8. Heffingskorting
 
-#### Artikel 45c. Continuering na 1 januari 2008 van aanwijzingen als fonds van vóór die datum
+##### Artikel 45c. Continuering na 1 januari 2008 van aanwijzingen als fonds van vóór die datum
 
 Een fonds dat voor 1 januari 2008 is aangewezen als fonds als bedoeld in [artikel 5.14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14), zoals de wet toen luidde, wordt geacht met ingang van 1 januari 2008 door de inspecteur bij beschikking te zijn aangewezen op de voet van de wet zoals die thans luidt.
 
@@ -864,7 +889,7 @@ Een fonds dat voor 1 januari 2008 is aangewezen als fonds als bedoeld in [artike
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
-#### Artikel 4a. Toerekening afgezonderd particulier vermogen
+##### Artikel 4a. Toerekening afgezonderd particulier vermogen
 
 1. Degene die als begunstigde een juridisch afdwingbaar recht heeft ten laste van een afgezonderd particulier vermogen, wordt in zoverre in de belastingheffing betrokken.
 
@@ -896,7 +921,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 ### Hoofdstuk 3. Heffingsgrondslag bij werk en woning ([hoofdstuk 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3))
 
-#### Artikel 6a. Belastbare winst uit ondernemingen; overige vrijstellingen; vrijstelling voor projecten gericht op hinderbeperking tijdens grootschalige wegwerkzaamheden
+##### Artikel 6a. Belastbare winst uit ondernemingen; overige vrijstellingen; vrijstelling voor projecten gericht op hinderbeperking tijdens grootschalige wegwerkzaamheden
 
 De voorwaarden, bedoeld in [artikel 3.13, eerste lid, onderdeel i, onder 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.13), zijn dat:
 
@@ -904,13 +929,13 @@ De voorwaarden, bedoeld in [artikel 3.13, eerste lid, onderdeel i, onder 2°, va
 
 - b. de beloningen die een deelnemer kan krijgen uit het project een gezamenlijke waarde hebben van ten hoogste € 200 per maand en € 1.200 per deelnameperiode.
 
-#### Artikel 26a. Verzoek om toepassing doorschuifregelingen bij vererving, bij verdeling van de nalatenschap binnen twee jaar of bij schenking
+##### Artikel 26a. Verzoek om toepassing doorschuifregelingen bij vererving, bij verdeling van de nalatenschap binnen twee jaar of bij schenking
 
 1. Een verzoek als bedoeld in [artikel 4.17a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17a), [artikel 4.17b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17b), of artikel 4.17b, derde lid, van de wet wordt schriftelijk gedaan bij de inspecteur die is belast met de aanslagregeling van de erflater.
 
 2. Een verzoek als bedoeld in [artikel 4.17b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17b), of [artikel 4.17c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17c) wordt schriftelijk gedaan bij de inspecteur die is belast met de aanslagregeling van de vervreemder.
 
-#### Artikel 26b. In het kader van een bedrijfsoverdracht uitgegeven preferente aandelen
+##### Artikel 26b. In het kader van een bedrijfsoverdracht uitgegeven preferente aandelen
 
 1. Onder een omzetting van gewone aandelen in preferente aandelen als bedoeld in [artikel 4.17a, derde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17a) wordt ook begrepen een uitgifte van preferente aandelen in het kader van een aandelenfusie als bedoeld in [artikel 3.55 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.55), een juridische splitsing als bedoeld in [artikel 3.56 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.56) of een juridische fusie als bedoeld in [artikel 3.57 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.57).
 
@@ -932,15 +957,15 @@ Voor de toepassing van dit lid wordt onder een omzetting van gewone aandelen in 
 
 5. Voor de bepaling of de verkrijger van de preferente aandelen voldoet aan de voorwaarde van [artikel 4.17a, derde lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17a) worden de preferente aandelen niet gerekend tot het geplaatste kapitaal. De eerste volzin is van overeenkomstige toepassing voor de toepassing van het derde lid, eerste volzin, onderdeel d.
 
-#### Artikel 26c. Verkorting termijn 36 maanden uit de doorschuifregeling bij schenking
+##### Artikel 26c. Verkorting termijn 36 maanden uit de doorschuifregeling bij schenking
 
 Vervallen
 
-#### Artikel 26d. Werknemer bij een werkmaatschappij in geval van schenking van aandelen in een holding
+##### Artikel 26d. Werknemer bij een werkmaatschappij in geval van schenking van aandelen in een holding
 
 Vervallen
 
-#### Artikel 45aa. Bijzondere regels voor ambtshalve verminderingen
+##### Artikel 45aa. Bijzondere regels voor ambtshalve verminderingen
 
 De inspecteur vermindert ambtshalve een belastingaanslag die op een te hoog bedrag is vastgesteld zodra hem dat is gebleken, tenzij:
 
@@ -956,7 +981,7 @@ De inspecteur vermindert ambtshalve een belastingaanslag die op een te hoog bedr
 
 ### Hoofdstuk 10. Overgangsrecht
 
-#### Artikel 45d. Overgangsrecht eigenwoningregeling en leegstaande woning
+##### Artikel 45d. Overgangsrecht eigenwoningregeling en leegstaande woning
 
 Vervallen
 
@@ -964,7 +989,7 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
-#### Artikel 45e. Overgangsrecht verliezen op geldleningen aan beginnende ondernemers; verliezen op beleggingen in durfkapitaal
+##### Artikel 45e. Overgangsrecht verliezen op geldleningen aan beginnende ondernemers; verliezen op beleggingen in durfkapitaal
 
 [Artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=6&artikel=34&z=2026-01-17&g=2026-01-17), zoals dat artikel op 31 december 2010 luidde, blijft van toepassing op verliezen op vóór 1 januari 2011 verstrekte geldleningen als bedoeld in [artikel 6.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.8), van de wet, zoals dat lid op 31 december 2010 luidde.
 
@@ -972,7 +997,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
-#### Artikel 17b. Informatieplicht bij schulden bij anderen dan aangewezen administratieplichtigen; te verstrekken gegevens
+##### Artikel 17b. Informatieplicht bij schulden bij anderen dan aangewezen administratieplichtigen; te verstrekken gegevens
 
 1. Als gegevens als bedoeld in [artikel 3.119g van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119g) worden aangewezen:
 
@@ -994,7 +1019,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 ### Hoofdstuk 4. Heffingsgrondslag bij aanmerkelijk belang ([hoofdstuk 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4))
 
-#### Artikel 39a. Uitgaven voor specifieke zorgkosten; van aftrek uitgesloten aangewezen uitgaven
+##### Artikel 39a. Uitgaven voor specifieke zorgkosten; van aftrek uitgesloten aangewezen uitgaven
 
 Als uitgaven als bedoeld in [artikel 6.18, eerste lid, onderdeel h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.18) worden aangewezen:
 
@@ -1016,7 +1041,7 @@ Als uitgaven als bedoeld in [artikel 6.18, eerste lid, onderdeel h, van de wet](
 
 ### Hoofdstuk 10bis. Overgangsrecht ten gevolge van [Wet herziening fiscale behandeling eigen woning](https://wetten.overheid.nl/jci1.3:c:BWBR0032676)
 
-#### Artikel 10bis.1. Verdeling spaarrekening eigen woning en beleggingsrecht eigen woning bij meer dan één gerechtigde
+##### Artikel 10bis.1. Verdeling spaarrekening eigen woning en beleggingsrecht eigen woning bij meer dan één gerechtigde
 
 1. Ingeval een spaarrekening eigen woning meer dan één rekeninghouder heeft, wordt het tegoed van de rekening in gelijke delen toegerekend aan die rekeninghouders.
 
@@ -1026,7 +1051,7 @@ Als uitgaven als bedoeld in [artikel 6.18, eerste lid, onderdeel h, van de wet](
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
-#### Artikel 17aa. Nadere regeling aflossingsmoment eigenwoningschuld
+##### Artikel 17aa. Nadere regeling aflossingsmoment eigenwoningschuld
 
 1. Indien de over een kalendermaand verschuldigde aflossing van een tot de eigenwoningschuld behorende schuld in de eerste vijf werkdagen van de daaropvolgende kalendermaand wordt gedaan, wordt voor de toepassing van de [artikelen 3.119c](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119c) en [3.119e van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119e) het bedrag van deze schuld op de laatste dag van de kalendermaand waarover de aflossing verschuldigd was, verminderd met die aflossing.
 
@@ -1042,7 +1067,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 ### Hoofdstuk 10bis. Overgangsrecht ten gevolge van [Wet herziening fiscale behandeling eigen woning](https://wetten.overheid.nl/jci1.3:c:BWBR0032676)
 
-#### Artikel 45f. Definitie starterslening
+##### Artikel 45f. Definitie starterslening
 
 Onder een starterslening als bedoeld in [artikel 10bis.1, tweede lid, onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.1) wordt verstaan een lening ter verwerving van een eigen woning als bedoeld in [artikel 3.111 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111), mits aan de volgende voorwaarden wordt voldaan:
 
@@ -1062,7 +1087,7 @@ Onder een starterslening als bedoeld in [artikel 10bis.1, tweede lid, onderdeel 
 
 - h. de hertoetsing, bedoeld in onderdeel g, vindt volgens het contract in ieder geval plaats na drie, zes, tien en vijftien jaar na het moment van aangaan van de lening voor zover niet reeds is gebleken dat de leningnemer de bij de lening behorende rente- en aflossingslasten kan dragen.
 
-#### Artikel 45g. Verdeling spaarrekening eigen woning en beleggingsrecht eigen woning bij meer dan één gerechtigde
+##### Artikel 45g. Verdeling spaarrekening eigen woning en beleggingsrecht eigen woning bij meer dan één gerechtigde
 
 1. Ingeval een spaarrekening eigen woning meer dan één rekeninghouder heeft, wordt het tegoed van de rekening in gelijke delen toegerekend aan die rekeninghouders.
 
@@ -1076,7 +1101,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
-#### Artikel 45abis. Bijzondere regels voor voorlopige aanslagen ter zake van belastbaar inkomen uit sparen en beleggen
+##### Artikel 45abis. Bijzondere regels voor voorlopige aanslagen ter zake van belastbaar inkomen uit sparen en beleggen
 
 Voor de toepassing van [artikel 9.5a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.5a) wordt voor het kalenderjaar 2026:
 

@@ -1,13 +1,37 @@
 ---
 title: "Interregionale Kaderovereenkomst voor samenwerking tussen de Europese Gemeenschap en haar Lid-Staten, enerzijds, en de Mercado Común del Sur en zijn deelnemende Staten, anderzijds"
 identifier: "BWBV0001332"
-categorie: "Internationaal recht"
-publicatiedatum: 1999-07-01
-laatste_update: 1999-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001332"
+country: "nl"
+rank: "verdrag"
+publication_date: "1999-07-01"
+last_updated: "1999-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001332"
+soort: "verdrag"
+stam_id: "10000384513"
+version_id: "10000393032"
+internal_id: "C10006988011"
+label_id: "10000385084"
+original_entry_into_force: "1999-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001332/1999-07-01/0"
+intitule_bron: "Trb.1996-120"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-05-05"
+intitule_published: "1996-04-25"
+intitule_in_force: "1999-10-20"
+intitule_status: "goed"
+original_publication: "Trb.1996-120"
+original_signed_date: "1998-05-05"
+original_published_date: "1996-04-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1996-120"
+entry_into_force_date: "1999-07-01"
+jci_1_3: "jci1.3:c:BWBV0001332&z=1999-07-01&g=1999-07-01"
+jci_1_0: "1.0:c:BWBV0001332&g=1999-07-01"
+citeertitel_status: "officieel"
+signed_date: "1998-05-05"
+entry_into_force: "1999-07-01"
 ---
-
 # Interregionale Kaderovereenkomst voor samenwerking tussen de Europese Gemeenschap en haar Lid-Staten, enerzijds, en de Mercado Común del Sur en zijn deelnemende Staten, anderzijds
 
 Het Koninkrijk België,
@@ -226,17 +250,17 @@ Overeenstemming hebben bereikt omtrent de volgende bepalingen:
 
 ## TITEL I. DOELSTELLINGEN, BEGINSELEN EN TOEPASSINGSGEBIED
 
-#### Artikel 1. Grondslag van de samenwerking
+##### Artikel 1. Grondslag van de samenwerking
 
 De eerbiediging van de democratische beginselen en de fundamentele mensenrechten volgens de definitie van de Universele Verklaring van de Rechten van de Mens vormt de grondslag voor het binnenlands en internationaal beleid van de partijen en is een essentieel onderdeel van deze Overeenkomst.
 
-#### Artikel 2. Doelstellingen en toepassingsgebieden
+##### Artikel 2. Doelstellingen en toepassingsgebieden
 
 1. Deze Overeenkomst heeft ten doel de bestaande betrekkingen tussen de partijen te versterken en de voorwaarden te scheppen voor de oprichting van een interregionale associatie.
 
 2. Met het oog op de verwezenlijking van dit doel bestrijkt deze Overeenkomst de gebieden handel, economie en samenwerking voor integratie, alsmede andere gebieden van wederzijds belang, ten einde de betrekkingen tussen de partijen en hun respectieve instellingen te intensiveren.
 
-#### Artikel 3. Politieke dialoog
+##### Artikel 3. Politieke dialoog
 
 1. De partijen gaan over tot de instelling van een geregelde politieke dialoog die de toenadering tussen de Europese Unie en de Mercosur begeleidt en consolideert. Deze dialoog zal plaatsvinden volgens de regels die in de aan de overeenkomst gehechte gemeenschappelijke verklaring zijn vastgesteld.
 
@@ -244,11 +268,11 @@ De eerbiediging van de democratische beginselen en de fundamentele mensenrechten
 
 ## TITEL II. HANDELSGEBIED
 
-#### Artikel 4. Oogmerken
+##### Artikel 4. Oogmerken
 
 De partijen verbinden zich hun betrekkingen te intensiveren ten einde de uitbreiding en diversificatie van hun onderlinge handelsverkeer te bevorderen, voor later de geleidelijke en wederkerige liberalisering daarvan voor te bereiden en te werken aan het scheppen van voorwaarden die bevorderlijk zijn voor de totstandkoming van de interregionale associatie, met inachtneming van de gevoeligheid van produkten, in overeenstemming met de WHO.
 
-#### Artikel 5. Economisch en handelsoverleg
+##### Artikel 5. Economisch en handelsoverleg
 
 1. Zonder enige sector uit te sluiten stellen de partijen in gezamenlijke overeenstemming de gebieden van handelssamenwerking vast.
 
@@ -266,7 +290,7 @@ De partijen verbinden zich hun betrekkingen te intensiveren ten einde de uitbrei
 
 - e. samenwerking en uitwisseling van informatie inzake diensten, in het kader van hun respectievelijke bevoegdheden.
 
-#### Artikel 6. Samenwerking op het gebied van agro-alimentaire en industriële normen en erkenning van conformiteit
+##### Artikel 6. Samenwerking op het gebied van agro-alimentaire en industriële normen en erkenning van conformiteit
 
 1. De partijen komen overeen samen te werken om hun beleidsvormen op het gebied van kwaliteitsnormen voor voedings- en industrieprodukten en conformiteitsverklaringen meer op één lijn brengen, in overeenstemming met de internationale normen.
 
@@ -274,7 +298,7 @@ De partijen verbinden zich hun betrekkingen te intensiveren ten einde de uitbrei
 
 3. De samenwerking krijgt voornamelijk gestalte door de bevordering van allerlei maatregelen die bijdragen tot verhoging van het kwaliteitspeil van produkten en bedrijven van de partijen.
 
-#### Artikel 7. Samenwerking op douanegebied
+##### Artikel 7. Samenwerking op douanegebied
 
 1. De partijen zullen streven naar samenwerking op douanegebied om het juridische kader van hun handelsbetrekkingen te verbeteren en te consolideren.
 
@@ -294,11 +318,11 @@ In het kader van de interinstitutionele samenwerking kan de douanesamenwerking t
 
 3. De partijen verklaren zich bereid om binnen het institutionele kader waarin deze Overeenkomst voorziet in de toekomst de sluiting van een protocol voor douanesamenwerking te overwegen.
 
-#### Artikel 8. Samenwerking op statistiekgebied
+##### Artikel 8. Samenwerking op statistiekgebied
 
 De partijen komen overeen te streven naar meer overeenstemming in hun methoden op statistiekgebied om de statistiekgegevens betreffende het goederen- en dienstenverkeer en meer algemeen alle voor statistische verwerking vatbare gebieden op wederzijds erkende grondslagen te kunnen benutten.
 
-#### Artikel 9. Samenwerking op het gebied van intellectuele eigendom
+##### Artikel 9. Samenwerking op het gebied van intellectuele eigendom
 
 1. De partijen komen overeen samen te werken op het gebied van intellectuele eigendom om investeringen, technologieoverdracht, handelsbedrijvigheid en alle daarmee samenhangende economische activiteiten te bevorderen en distorsies te voorkomen.
 
@@ -308,7 +332,7 @@ De partijen komen overeen te streven naar meer overeenstemming in hun methoden o
 
 ## TITEL III. ECONOMISCHE SAMENWERKING
 
-#### Artikel 10. Oogmerken en beginselen
+##### Artikel 10. Oogmerken en beginselen
 
 1. De partijen zullen, met inachtneming van hun wederzijds belang en hun economische doelstellingen op middellange en lange termijn, streven naar economische samenwerking op een wijze die bijdraagt tot groei van hun economieën, versterking van hun internationale concurrentiepositie, bespoediging van de technologische en wetenschappelijke vooruitgang, verhoging van hun respectieve levensstandaard, totstandkoming van gunstige omstandigheden voor het scheppen van goede werkgelegenheid en, kortom, bevorderlijk is voor diversificatie en nauwere onderlinge economische banden.
 
@@ -324,7 +348,7 @@ De partijen komen overeen te streven naar meer overeenstemming in hun methoden o
 
 7. De partijen laten zich bij hun acties en maatregelen op dit gebied leiden door het streven naar sociale ontwikkeling en in het bijzonder de bevordering van de fundamentele sociale rechten.
 
-#### Artikel 11. Samenwerking tussen bedrijven
+##### Artikel 11. Samenwerking tussen bedrijven
 
 1. De partijen zullen samenwerking tussen bedrijven stimuleren met het doel een gunstig kader te scheppen voor economische ontwikkeling in dienst van hun wederzijdse belangen.
 
@@ -352,7 +376,7 @@ De partijen komen overeen te streven naar meer overeenstemming in hun methoden o
 
 - d. scholingsacties, bijstand aan netwerken en steun voor onderzoek.
 
-#### Artikel 12. Bevordering van investeringen
+##### Artikel 12. Bevordering van investeringen
 
 1. De partijen zullen in het kader van hun bevoegdheden werken aan de totstandkoming van een aantrekkelijk, stabiel bedrijfsklimaat om de toename van tot wederzijds voordeel strekkende investeringen te bevorderen.
 
@@ -364,7 +388,7 @@ De partijen komen overeen te streven naar meer overeenstemming in hun methoden o
 
 - c. bevordering van joint ventures, in het bijzonder tussen kleine en middelgrote ondernemingen.
 
-#### Artikel 13. Samenwerking op energiegebied
+##### Artikel 13. Samenwerking op energiegebied
 
 1. De samenwerking tussen de partijen zal beogen hun economieën dichter bij elkaar te brengen in de energiesectoren, daarbij strevende naar verantwoord en milieuvriendelijk gebruik van energie.
 
@@ -382,7 +406,7 @@ De partijen komen overeen te streven naar meer overeenstemming in hun methoden o
 
 3. In voorkomend geval kunnen de partijen overgaan tot het sluiten van specifieke akkoorden van gemeenschappelijk belang.
 
-#### Artikel 14. Samenwerking op het gebied van vervoer
+##### Artikel 14. Samenwerking op het gebied van vervoer
 
 1. Via samenwerking op vervoergebied beogen de partijen de herstructurering en modernisering van de vervoersystemen te ondersteunen en voor beide zijden bevredigende oplossingen te zoeken voor het personen- en goederenverkeer in alle vervoertakken.
 
@@ -394,7 +418,7 @@ De partijen komen overeen te streven naar meer overeenstemming in hun methoden o
 
 3. In het kader van de in artikel 5 bedoelde economische en handelsdialoog en met het oog op de toekomstige interregionale associatie zullen beide partijen aandacht besteden aan alle aspecten betreffende de internationale vervoerdiensten die een belemmering zouden kunnen vormen voor de wederkerige uitbreiding van de handel.
 
-#### Artikel 15. Samenwerking op het gebied van wetenschap en technologie
+##### Artikel 15. Samenwerking op het gebied van wetenschap en technologie
 
 1. De partijen komen overeen op het gebied van wetenschap en technologie samen te werken met het doel een duurzame werkrelatie tussen hun wetenschappers tot stand te brengen en informatie en regionale ervaringen uit te wisselen op het gebied van wetenschap en technologie.
 
@@ -412,7 +436,7 @@ De partijen komen overeen te streven naar meer overeenstemming in hun methoden o
 
 4. De partijen zullen in gezamenlijke overeenstemming de reikwijdte, de aard en de prioriteiten van deze samenwerking vaststellen door middel van een meerjarenprogramma dat aan de omstandigheden kan worden aangepast.
 
-#### Artikel 16. Samenwerking op het gebied van telecommunicatie en informatietechnologie
+##### Artikel 16. Samenwerking op het gebied van telecommunicatie en informatietechnologie
 
 1. De partijen komen overeen een gemeenschappelijke samenwerking op te zetten op het gebied van telecommunicatie en informatietechnologie, ten einde hun economische en sociale ontwikkeling te bevorderen, de informatiemaatschappij op gang te brengen en de weg te banen voor de modernisering van de samenleving.
 
@@ -424,7 +448,7 @@ De partijen komen overeen te streven naar meer overeenstemming in hun methoden o
 
 - c. het stimuleren van gezamenlijke projecten op de gebieden onderzoek, technologische en industriële ontwikkeling, nieuwe communicatietechnologieën, telematica en de informatiemaatschappij.
 
-#### Artikel 17. Samenwerking op het gebied van de bescherming van het milieu
+##### Artikel 17. Samenwerking op het gebied van de bescherming van het milieu
 
 1. Conform het oogmerk van duurzame ontwikkeling zullen de partijen bevorderen dat bescherming van het milieu en verantwoorde benutting van de natuurlijke hulpbronnen in de verschillende gebieden van de interregionale samenwerking worden opgenomen.
 
@@ -440,7 +464,7 @@ De partijen komen overeen te streven naar meer overeenstemming in hun methoden o
 
 ## TITEL IV. VERSTERKING VAN DE INTEGRATIE
 
-#### Artikel 18. Oogmerken en toepassingsgebieden
+##### Artikel 18. Oogmerken en toepassingsgebieden
 
 1. De samenwerking tussen de partijen beoogt de doelstellingen van het integratieproces van de Mercosur te ondersteunen en zal alle toepassingsgebieden van deze overeenkomst omvatten.
 
@@ -460,7 +484,7 @@ De partijen komen overeen te streven naar meer overeenstemming in hun methoden o
 
 ## TITEL V. SAMENWERKING TUSSEN INSTELLINGEN
 
-#### Artikel 19. Oogmerken en toepassingsgebied
+##### Artikel 19. Oogmerken en toepassingsgebied
 
 1. De partijen zullen een nauwere samenwerking tussen hun respectieve instellingen bevorderen, in het bijzonder door het organiseren van geregelde onderlinge contacten.
 
@@ -474,7 +498,7 @@ De partijen komen overeen te streven naar meer overeenstemming in hun methoden o
 
 ## TITEL VI. ANDERE SAMENWERKINGSGEBIEDEN
 
-#### Artikel 20. Samenwerking op het gebied van scholing en onderwijs
+##### Artikel 20. Samenwerking op het gebied van scholing en onderwijs
 
 1. De partijen zullen in het kader van hun respectieve bevoegdheden bepalen welke middelen vereist zijn om de voorlichting en het onderwijs over regionale integratie te verbeteren, zowel in het jeugdonderwijs en de vakscholing als in de samenwerking tussen universiteiten en bedrijven.
 
@@ -482,7 +506,7 @@ De partijen komen overeen te streven naar meer overeenstemming in hun methoden o
 
 3. De partijen zullen overeenkomsten tussen scholingscentra en ontmoetingen tussen organen voor onderwijs en scholing op het gebied van regionale integratie aanmoedigen.
 
-#### Artikel 21. Samenwerking op het gebied van communicatie, voorlichting en cultuur
+##### Artikel 21. Samenwerking op het gebied van communicatie, voorlichting en cultuur
 
 1. Om de kennis van hun politieke, economische en sociale realiteiten te bevorderen komen de partijen in het kader van hun respectieve bevoegdheden overeen hun culturele banden te versterken en bekendheid te geven aan de aard, de oogmerken en de reikwijdte van hun beider integratieprocessen ten einde deze voor de burgers begrijpelijk te maken.
 
@@ -492,13 +516,13 @@ Tevens komen de partijen overeen meer informatie uit te wisselen over kwesties v
 
 Deze samenwerking kan de organisatie van culturele activiteiten omvatten wanneer deze van regionale aard zijn.
 
-#### Artikel 22. Samenwerking op het gebied van de bestrijding van de drugshandel
+##### Artikel 22. Samenwerking op het gebied van de bestrijding van de drugshandel
 
 1. De partijen zullen, overeenkomstig hun respectieve bevoegdheden, streven naar de coördinatie en intensivering van hun inspanningen in de strijd tegen de handel in verdovende middelen en de talrijke gevolgen daarvan, met inbegrip van de financiële consequenties.
 
 2. Bij deze samenwerking zal overleg en betere coördinatie tussen de partijen in regionaal verband en eventueel tussen de bevoegde regionale instanties worden bevorderd.
 
-#### Artikel 23. Aanpassingsclausule
+##### Artikel 23. Aanpassingsclausule
 
 1. De Overeenkomstsluitende partijen kunnen deze Overeenkomst met wederzijdse instemmming uitbreiden ten einde het niveau van de samenwerking te verhogen en overeenkomstig hun respectieve wetgevingen aan te vullen door middel van overeenkomsten met betrekking tot specifieke sectoren of activiteiten.
 
@@ -506,7 +530,7 @@ Deze samenwerking kan de organisatie van culturele activiteiten omvatten wanneer
 
 ## TITEL VII. MIDDELEN VOOR DE TENUITVOERLEGGING VAN DE SAMENWERKING
 
-#### Artikel 24
+##### Artikel 24
 
 1. Om de verwezenlijking van de in deze Overeenkomst vervatte samenwerkingsdoelstellingen te vergemakkelijken, wenden de Overeenkomstsluitende partijen de passende middelen aan, met inbegrip van financiële middelen, al naar gelang van hun draagkracht en van hun respectieve mechanismen.
 
@@ -516,7 +540,7 @@ Deze samenwerking kan de organisatie van culturele activiteiten omvatten wanneer
 
 ## TITEL VIII. INSTITUTIONEEL KADER
 
-#### Artikel 25
+##### Artikel 25
 
 1. Er zal een samenwerkingsraad worden opgericht die toezicht zal houden op de uitvoering van deze Overeenkomst. De Samenwerkingsraad zal op ministerniveau bijeenkomen, op gezette tijden en telkens wanneer de omstandigheden dat vereisen.
 
@@ -524,7 +548,7 @@ Deze samenwerking kan de organisatie van culturele activiteiten omvatten wanneer
 
 3. Tevens kan de Samenwerkingsraad, met wederzijdse instemming van beide partijen, passende voorstellen formuleren. Bij de uitoefening van deze taken belast de Raad zich in het bijzonder met het doen van aanbevelingen die bijdragen tot verwezenlijking van het uiteindelijke oogmerk van interregionale associatie.
 
-#### Artikel 26
+##### Artikel 26
 
 1. De Samenwerkingsraad zal bestaan uit, enerzijds, leden van de Raad van de Europese Unie en leden van de Europese Commissie en, anderzijds, leden van de Raad van de Gemeenschappelijke markt en leden van de Groep Gemeenschappelijke markt.
 
@@ -532,7 +556,7 @@ Deze samenwerking kan de organisatie van culturele activiteiten omvatten wanneer
 
 3. Het voorzitterschap van de Samenwerkingsraad zal bij toerbeurt worden uitgeoefend door een vertegenwoordiger van de Gemeenschap en een vertegenwoordiger van de Mercosur.
 
-#### Artikel 27
+##### Artikel 27
 
 1. De Samenwerkingsraad wordt in de vervulling van zijn taken bijgestaan door een gemengde samenwerkingscommissie die bestaat uit leden van de Raad van de Europese Unie en uit leden van de Commissie van de Europese Gemeenschappen enerzijds en vertegenwoordigers van de Mercosur anderzijds.
 
@@ -552,11 +576,11 @@ Deze samenwerking kan de organisatie van culturele activiteiten omvatten wanneer
 
 - d. in het algemeen, de Samenwerkingsraad aanbevelingen doen die bijdragen tot de verwezenlijking van het einddoel, namelijk de interregionale associatie EU-Mercosur.
 
-#### Artikel 28
+##### Artikel 28
 
 De Samenwerkingsraad kan besluiten tot de oprichting van andere organen om hem bij de vervulling van zijn taken bij te staan en stelt de samenstelling, oogmerken en werkwijze van die organen vast.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Overeenkomstig de in artikel 5 van deze Overeenkomst vermelde bepalingen richten de partijen een subcommissie voor handelszaken op die moet zorgen voor de verwezenlijking van de in deze Overeenkomst vermelde commerciële oogmerken en de werkzaamheden voor de latere liberalisering van het handelsverkeer moet voorbereiden.
 
@@ -568,7 +592,7 @@ De gemengde subcommissie voor handelszaken kan alle studies en technische analys
 
 4. De gemengde subcommissie voor handelszaken leest haar huishoudelijk reglement ter goedkeuring aan de gemengde commissie voor.
 
-#### Artikel 30. Overlegclausule
+##### Artikel 30. Overlegclausule
 
 In het kader van hun bevoegdheden verbinden de partijen zich overleg te plegen op alle in deze overeenkomst genoemde gebieden.
 
@@ -576,19 +600,19 @@ De procedure voor het in de voorgaande alinea bedoelde overleg wordt vastgesteld
 
 ## TITEL IX. SLOTBEPALINGEN
 
-#### Artikel 31. Andere overeenkomsten
+##### Artikel 31. Andere overeenkomsten
 
 Onverminderd de bepalingen van de Verdragen tot oprichting van de Europese Gemeenschappen en van de Mercosur laten onderhavige Overeenkomst alsmede elke maatregel die in het kader daarvan wordt genomen de bevoegdheid van de Lid-Staten van de Gemeenschappen en van de deelnemende Staten van de Mercosur om in het kader van hun respectieve bevoegdheden bilaterale acties te ondernemen en eventueel nieuwe overeenkomsten te sluiten, volledig onverlet.
 
-#### Artikel 32. Definitie van de partijen
+##### Artikel 32. Definitie van de partijen
 
 Voor de toepassing van deze Overeenkomst duidt de term „de partijen” aan: enerzijds de Gemeenschap, of haar Lid-Staten, of de Gemeenschap en haar Lid-Staten overeenkomstig hun respectieve bevoegdheden, zoals vermeld in het Verdrag tot oprichting van de Europese Gemeenschap, en anderzijds de Mercosur of zijn deelnemende Staten, overeenkomstig het Verdrag tot oprichting van de Mercado Común del Sur.
 
-#### Artikel 33. Territoriale toepassing
+##### Artikel 33. Territoriale toepassing
 
 Deze Overeenkomst is van toepassing op de gebieden waar het Verdrag tot oprichting van de Europese Gemeenschap van toepassing is en onder de in dat Verdrag neergelegde voorwaarden, enerzijds, en op de gebieden waar het Verdrag tot oprichting van de Mercado Común del Sur van toepassing is en onder de in dat Verdrag en de bijkomende protocollen neergelegde voorwaarden, anderzijds.
 
-#### Artikel 34. Duur en inwerkingtreding
+##### Artikel 34. Duur en inwerkingtreding
 
 1. Deze Overeenkomst is van onbeperkte duur.
 
@@ -600,7 +624,7 @@ Deze Overeenkomst is van toepassing op de gebieden waar het Verdrag tot oprichti
 
 5. De depositaris van deze Overeenkomst bij de Gemeenschap zal zijn de Secretaris-generaal van de Raad, en bij Mercosur de regering van de Republiek Paraguay.
 
-#### Artikel 35. Vervulling van de verplichtingen
+##### Artikel 35. Vervulling van de verplichtingen
 
 1. De partijen nemen alle algemene of bijzondere maatregelen die vereist zijn voor het vervullen van hun verplichtingen krachtens deze Overeenkomst en zien toe op de verwezenlijking van de daarin neergelegde doelstellingen.
 
@@ -616,11 +640,11 @@ Daarom moet de keuze in eerste instantie vallen op maatregelen die de werking va
 
 3. De partijen komen overeen dat de in dat artikel genoemde „passende maatregelen” maatregelen zijn, die in overeenstemming met het internationale recht zijn genomen. Indien één van de partijen ingeval van bijzondere urgentie een maatregel in toepassing van dit artikel zou nemen, dan kan de andere partij verzoeken met spoed een vergadering te beleggen, zodat binnen een termijn van vijftien dagen een bijeenkomst tussen beide partijen wordt gehouden.
 
-#### Artikel 36. Authentieke teksten
+##### Artikel 36. Authentieke teksten
 
 Deze tekst is opgesteld in twee exemplaren in de Duitse, de Deense, de Spaanse, de Franse, de Finse, de Griekse, de Nederlandse, de Engelse, de Italiaanse, de Portugese en de Zweedse taal, zijnde alle teksten gelijkelijk authentiek.
 
-#### Artikel 37. Ondertekening
+##### Artikel 37. Ondertekening
 
 Deze Overeenkomst zal van 15 tot 31 december 1995 voor ondertekening openstaan te Madrid.
 

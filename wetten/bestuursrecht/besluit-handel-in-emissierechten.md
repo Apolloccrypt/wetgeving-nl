@@ -1,13 +1,39 @@
 ---
-title: "Besluit handel in emissierechten"
+title: "Besluit van 17 december 2004, houdende regels ten behoeve van de implementatie van richtlijn nr. 2003/87/EG van het Europees Parlement en de Raad van de Europese Unie van 13 oktober 2003 tot vaststelling van een regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap en tot wijziging van Richtlijn 96/61/EG van de Raad (PbEU L 275) (Besluit handel in emissierechten)"
 identifier: "BWBR0017779"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0017779"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0017779"
+soort: "AMvB"
+stam_id: "6583973"
+version_id: "30023142"
+internal_id: "C43035621"
+label_id: "6572474"
+dtd_version: "2.0"
+original_entry_into_force: "2024-03-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0017779/2026-01-01/0"
+intitule_bron: "Stb.2004-737"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-12-17"
+intitule_published: "2004-12-30"
+intitule_in_force: "2004-12-30"
+intitule_status: "goed"
+original_publication: "Stb.2024-75"
+original_signed_date: "2024-03-26"
+original_published_date: "2024-03-29"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2024-75"
+entry_into_force_date: "2024-03-30"
+jci_1_3: "jci1.3:c:BWBR0017779&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0017779&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit handel in emissierechten"
+signed_date: "2024-03-26"
+entry_into_force: "2024-03-30"
 ---
-
 # Besluit van 17 december 2004, houdende regels ten behoeve van de implementatie van richtlijn nr. 2003/87/EG van het Europees Parlement en de Raad van de Europese Unie van 13 oktober 2003 tot vaststelling van een regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap en tot wijziging van Richtlijn 96/61/EG van de Raad (PbEU L 275) (Besluit handel in emissierechten)
 
 Op de voordracht van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 30 juni 2004, nr. MJZ2004065798, Centrale Directie Juridische Zaken, Afdeling Wetgeving;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -42,7 +68,7 @@ wet: [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245).
 
 ### Hoofdstuk 2. Broeikasgasemissies
 
-#### Artikel 2
+##### Artikel 2
 
 1. Als categorieën van activiteiten als bedoeld in [artikel 16.1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.1) worden aangewezen:
 
@@ -90,15 +116,15 @@ wet: [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245).
 
 7. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wijze waarop het verzoek, bedoeld in het zesde lid, kan worden gedaan.
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 1. Bij ministeriële regeling worden regels gesteld met betrekking tot de wijze waarop de aanvraag om een vergunning krachtens [artikel 16.5](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.5), en de aanvraag krachtens [artikel 16.20a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.20a) moeten geschieden, de gegevens en de bescheiden die door de aanvrager moeten worden verstrekt met het oog op de beslissing op de aanvraag, en de wijze waarop die gegevens moeten worden verkregen. Bij de aanvraag om een vergunning wordt een monitoringsplan ingediend.
 
@@ -108,41 +134,41 @@ Vervallen
 
 - b. bij het bepalen van de jaarvracht van een broeikasgasinstallatie geen rekening wordt gehouden met emissies van een met betrekking tot die activiteit aangeduid broeikasgas, die worden veroorzaakt door activiteiten die in de broeikasgasinstallatie worden verricht en die behoren tot een categorie van activiteiten die in de bij dit besluit behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=I&z=2026-01-01&g=2026-01-01) is genoemd, indien de bron van die emissies zich buiten de broeikasgasinstallatie bevindt;
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
 ### Hoofdstuk 3. Slotbepalingen
 
-#### Artikel 13
+##### Artikel 13
 
 Als gereglementeerde activiteit als bedoeld in [artikel 16.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.1) wordt aangewezen de activiteit die in de bij dit besluit behorende [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=II&z=2026-01-01&g=2026-01-01) is genoemd.
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
@@ -182,43 +208,43 @@ Categorieën van activiteiten als bedoeld in [artikel 2, eerste lid](https://wet
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 12a
+##### Artikel 12a
 
 Vervallen
 
 ### Hoofdstuk 3. Emissies van stikstofoxiden en NOx-emissierechten
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
-#### Artikel 17
+##### Artikel 17
 
 Vervallen
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
-#### Artikel 19
+##### Artikel 19
 
 Vervallen
 
-#### Artikel 20
+##### Artikel 20
 
 Vervallen
 
 ### Hoofdstuk 3. Emissies van stikstofoxiden en NOx-emissierechten
 
-#### Artikel 21
+##### Artikel 21
 
 Dit besluit treedt in werking met ingang van 1 januari 2005.
 
-#### Artikel 22
+##### Artikel 22
 
 Dit besluit wordt aangehaald als: Besluit handel in emissierechten.
 
@@ -361,19 +387,19 @@ Het aantal NOx-emissierechten, bedoeld in [artikel 18, aanhef en onder c](https:
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 13a
+##### Artikel 13a
 
 Vervallen
 
-#### Artikel 13b
+##### Artikel 13b
 
 Vervallen
 
-#### Artikel 14a
+##### Artikel 14a
 
 Vervallen
 
-#### Artikel 14b
+##### Artikel 14b
 
 Vervallen
 
@@ -458,33 +484,33 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### Paragraaf 2.1. Broeikasgasinstallaties
 
-#### Artikel 1a
+##### Artikel 1a
 
 Deze paragraaf heeft het toepassingsgebied van [afdeling 16.2.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&afdeling=16.2.1).
 
 #### Paragraaf 2.2. Luchtvaartactiviteiten en maritiem vervoer
 
-#### Artikel 12b
+##### Artikel 12b
 
 Deze paragraaf heeft het toepassingsgebied van [afdeling 16.2.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&afdeling=16.2.2).
 
-#### Artikel 12c
+##### Artikel 12c
 
 Als broeikasgas, veroorzaakt door luchtvaartactiviteiten, als bedoeld in [artikel 16.39a, eerste lid, onder d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.39a), wordt CO2 aangewezen.
 
-#### Artikel 12d
+##### Artikel 12d
 
 Vervallen
 
-#### Artikel 12e
+##### Artikel 12e
 
 Vervallen
 
-#### Artikel 12f
+##### Artikel 12f
 
 Vervallen
 
-#### Artikel 12g
+##### Artikel 12g
 
 Vervallen
 
@@ -672,7 +698,7 @@ Voor het bepalen of het totaal nominaal thermisch ingangsvermogen van een broeik
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 12h
+##### Artikel 12h
 
 1. Als broeikasgas veroorzaakt door maritiem vervoer als bedoeld in [artikel 16.39a, eerste lid, onder d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.39a), wordt CO2 aangewezen.
 
@@ -682,7 +708,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Hoofdstuk 3. Emissies van stikstofoxiden en NOx-emissierechten
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 

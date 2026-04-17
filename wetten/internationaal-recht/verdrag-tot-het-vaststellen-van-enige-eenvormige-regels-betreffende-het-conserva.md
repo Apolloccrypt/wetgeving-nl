@@ -1,20 +1,42 @@
 ---
 title: "Verdrag tot het vaststellen van enige eenvormige regels betreffende het conservatoir beslag op zeeschepen"
 identifier: "BWBV0004856"
-categorie: "Internationaal recht"
-publicatiedatum: 1983-07-20
-laatste_update: 1983-07-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004856"
+country: "nl"
+rank: "verdrag"
+publication_date: "1983-07-20"
+last_updated: "1983-07-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004856"
+soort: "verdrag"
+stam_id: "10004353533"
+version_id: "10004555542"
+internal_id: "C10006711131"
+label_id: "10004338764"
+dtd_version: "2.0"
+original_entry_into_force: "1983-07-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004856/1983-07-20/0"
+intitule_bron: "Trb.1981-165"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1981-07-27"
+intitule_in_force: "1983-02-10"
+intitule_status: "goed"
+original_publication: "Trb.1981-165"
+original_published_date: "1981-07-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1981-165"
+entry_into_force_date: "1983-07-20"
+jci_1_3: "jci1.3:c:BWBV0004856&z=1983-07-20&g=1983-07-20"
+jci_1_0: "1.0:c:BWBV0004856&g=1983-07-20"
+citeertitel_status: "redactioneel"
+entry_into_force: "1983-07-20"
 ---
-
 # Verdrag tot het vaststellen van enige eenvormige regels betreffende het conservatoir beslag op zeeschepen
 
 De Hoge Verdragsluitende Partijen,
 
 De wenselijkheid erkennende om in gemeen overleg enige eenvormige regels vast te stellen betreffende het conservatoir beslag op zeeschepen, hebben besloten te dien einde een verdrag te sluiten en zijn overeengekomen als volgt:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit Verdrag worden de volgende uitdrukkingen gebezigd in de hierna weergegeven betekenis:
 
@@ -60,11 +82,11 @@ In dit Verdrag worden de volgende uitdrukkingen gebezigd in de hierna weergegeve
 
 - 4. „Schuldeiser” betekent een persoon die het bestaan van een zeerechtelijke vordering te zijnen gunste inroept.
 
-#### Artikel 2
+##### Artikel 2
 
 Op een schip dat de vlag voert van een Verdragsluitende Staat kan binnen het rechtsgebied van een Verdragsluitende Staat slechts beslag worden gelegd terzake van een zeerechtelijke vordering; geen bepaling in dit Verdrag kan evenwel geacht worden een uitbreiding of beperking in te houden van de rechten en bevoegdheden die Staten, openbare besturen of havenautoriteiten op grond van hun interne wet of van hun verordeningen bezitten om op een schip beslag te leggen, een schip vast te houden of het op andere wijze te beletten binnen hun rechtsgebied uit te varen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Onverminderd het bepaalde in het vierde lid van dit artikel en in artikel 10, kan een schuldeiser beslag leggen op het schip waarop de zeerechtelijke vordering betrekking heeft of op elk ander schip dat toebehoort aan degene die op het tijdstip van het ontstaan van de zeerechtelijke vordering eigenaar was van het schip waarop deze vordering betrekking heeft, zelfs wanneer het schip waarop beslag is gelegd gereed is om uit te varen; terzake van een vordering, bedoeld in artikel 1, eerste lid, letter o, p of q, mag evenwel op geen ander schip beslag gelegd worden dan op dat, waarop de vordering betrekking heeft.
 
@@ -76,11 +98,11 @@ Op een schip dat de vlag voert van een Verdragsluitende Staat kan binnen het rec
 
 De voorgaande alinea is eveneens van toepassing op alle gevallen waarin een ander dan de eigenaar aansprakelijk is voor een zeerechtelijke vordering.
 
-#### Artikel 4
+##### Artikel 4
 
 Op een schip kan slechts beslag worden gelegd met verlof van een gerecht of een andere bevoegde rechterlijke autoriteit van de Verdragsluitende Staat waar het beslag wordt gelegd.
 
-#### Artikel 5
+##### Artikel 5
 
 Het gerecht of de andere bevoegde rechterlijke autoriteit, binnen wiens rechtsgebied op het schip beslag is gelegd, zal de opheffing van het beslag toestaan wanneer voldoende borgtocht of zekerheid is gesteld, behalve in het geval dat het beslag werd gelegd terzake van een zeerechtelijke vordering, genoemd in artikel 1, eerste lid, letters o en p; in dat geval kan de rechter de persoon die in het bezit van het schip is, wanneer deze voldoende borgtocht of andere zekerheid stelt, toestaan de exploitatie van het schip voort te zetten of kan hij op andere wijze voorzien in de exploitatie van het schip gedurende het beslag.
 
@@ -88,13 +110,13 @@ Bij gebreke van overeenstemming tussen partijen over de genoegzaamheid van de bo
 
 Het verzoek tot opheffing van het beslag tegen een zodanige zekerheidsstelling kan niet worden uitgelegd als een erkenning van aansprakelijkheid en evenmin als het doen van afstand van het voorrecht van de wettelijke beperking van aansprakelijkheid van de eigenaar van het schip.
 
-#### Artikel 6
+##### Artikel 6
 
 Alle geschillen met betrekking tot de aansprakelijkheid van de schuldeiser voor schade die door het beslag op het schip is veroorzaakt of voor kosten van het verschaffen van zekerheid ten einde het beslag op het schip op te heffen of te voorkomen, worden beheerst door de wet van de Verdragsluitende Staat, binnen welks rechtsgebied het beslag is gelegd of daartoe verlof is gevraagd.
 
 De procedureregels betreffende het scheepsbeslag, het verkrijgen van het in artikel 4 bedoelde verlof en alle andere processuele incidenten die een beslag tot gevolg kan hebben, worden beheerst door de wet van de Verdragsluitende Staat waar het beslag is gelegd of daartoe verlof is gevraagd.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De gerechten van de Staat, waar het beslag is gelegd, hebben rechtsmacht een uitspraak te doen in het bodemgeschil, indien deze gerechten bevoegd zijn krachtens de interne wet van de Staat waar het beslag is gelegd, of in de volgende gevallen, te weten:
 
@@ -118,7 +140,7 @@ De procedureregels betreffende het scheepsbeslag, het verkrijgen van het in arti
 
 5. Dit artikel is niet van toepassing op de gevallen waarop de [Herziene Rijnvaartakte](https://wetten.overheid.nl/jci1.3:c:BWBV0003363) van 17 oktober 1968 van toepassing is.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De bepalingen van dit Verdrag zijn in iedere Verdragsluitende Staat van toepassing op elk schip dat de vlag van een Verdragsluitende Staat voert.
 
@@ -130,13 +152,13 @@ De procedureregels betreffende het scheepsbeslag, het verkrijgen van het in arti
 
 5. Een derde die niet is de oorspronkelijke schuldeiser en die een zeerechtelijke vordering geldend maakt op grond van subrogatie, cessie of anderszins, wordt voor de toepassing van dit Verdraggeacht dezelfde gewone verblijfplaats of voornaamste vestiging te hebben als de oorspronkelijke schuldeiser.
 
-#### Artikel 9
+##### Artikel 9
 
 Niets in dit Verdrag mag geacht worden een vorderingsrecht te scheppen dat, afgezien van de bepalingen van dit Verdrag, niet zou bestaan volgens de wet die het gerecht, bij hetwelk het geding aanhangig is, moet toepassen.
 
 Dit Verdrag mag niet worden uitgelegd als zou het zakelijke rechten scheppen die niet hun bestaan ontlenen aan de hierboven bedoelde wet of aan het Verdrag betreffende de voorrechten op schepen en de scheepshypotheken, indien dit van toepassing is.
 
-#### Artikel 10
+##### Artikel 10
 
 De Hoge Verdragsluitende Partijen kunnen bij de ondertekening, de nederlegging van de akten van bekrachtiging of bij hun toetreding tot dit Verdrag zich voorbehouden
 
@@ -144,25 +166,25 @@ De Hoge Verdragsluitende Partijen kunnen bij de ondertekening, de nederlegging v
 
 - b. het recht om het eerste lid van artikel 3 niet toe te passen op het beslag dat binnen hun rechtsgebied is gelegd voor zeerechtelijke vorderingen, bedoeld in letter q van artikel 1.
 
-#### Artikel 11
+##### Artikel 11
 
 De Hoge Verdragsluitende Partijen verbinden zich om alle geschillen die uit de uitlegging of de toepassing van dit Verdrag kunnen voortvloeien aan arbitrage te onderwerpen, onverminderd de verplichtingen van de Hoge Verdragsluitende Partijen die zijn overeengekomen hun geschillen te onderwerpen aan het Internationale Hof van Justitie.
 
-#### Artikel 12
+##### Artikel 12
 
 Dit Verdrag staat ter ondertekening open voor de Staten, vertegenwoordigd op de negende Diplomatieke Zeerechtconferentie. Het proces-verbaal van ondertekening zal worden opgesteld door de zorg van de Minister van Buitenlandse Zaken van België.
 
-#### Artikel 13
+##### Artikel 13
 
 Dit Verdrag dient te worden bekrachtigd en de akten van bekrachtiging zullen worden nedergelegd bij het Ministerie van Buitenlandse Zaken van België, dat van de nederlegging kennis zal geven aan alle ondertekenende en toetredende Staten.
 
-#### Artikel 14
+##### Artikel 14
 
 a. Dit Verdrag treedt in werking tussen de twee eerste Staten die het hebben bekrachtigd, zes maanden na de datum van de nederlegging van de tweede akte van bekrachtiging.
 
 b. Voor iedere ondertekenende Staat die het Verdrag bekrachtigt na de nederlegging van de tweede akte van bekrachtiging zal het in werking treden zes maanden na de datum van nederlegging van zijn akte van bekrachtiging.
 
-#### Artikel 15
+##### Artikel 15
 
 Elke Staat die niet was vertegenwoordigd op de negende Diplomatieke Zeerechtconferentie kan tot dit Verdrag toetreden.
 
@@ -170,17 +192,17 @@ De toetredingen worden medegedeeld aan het Ministerie van Buitenlandse Zaken van
 
 Het Verdrag zal voor de toetredende Staat in werking treden zes maanden na de datum van ontvangst van die kennisgeving, maar niet vóór de datum van zijn inwerkingtreding, zoals deze is bepaald in artikel 14 letter a.
 
-#### Artikel 16
+##### Artikel 16
 
 Elke Hoge Verdragsluitende Partij kan na verloop van drie jaar, nadat dit Verdrag voor haar in werking is getreden, de bijeenroeping vragen van een conferentie ten einde een herziening van dit Verdrag in overweging te nemen.
 
 De Hoge Verdragsluitende Partij die van deze bevoegdheid gebruik wenst te maken, doet daarvan mededeling aan de Belgische Regering, die zich belast met het bijeenroepen van de conferentie binnen zes maanden.
 
-#### Artikel 17
+##### Artikel 17
 
 Iedere Hoge Verdragsluitende Partij heeft het recht dit Verdrag, op elk tijdstip nadat het voor die Hoge Verdragsluitende Partij in werking is getreden, op te zeggen. Deze opzegging wordt echter pas van kracht een jaar na de datum van ontvangst van de kennisgeving van opzegging door de Belgische Regering, die daarvan langs diplomatieke weg aan alle andere Hoge Verdragsluitende Partijen mededeling zal doen.
 
-#### Artikel 18
+##### Artikel 18
 
 a. Iedere Hoge Verdragsluitende Partij kan op het tijdstip van bekrachtiging of toetreding of op elk later tijdstip, schriftelijk de Belgische Regering in kennis stellen dat dit Verdrag van toepassing is op de gebieden of op sommige gebieden voor welker internationale betrekkingen zij verantwoordelijk is. Het Verdrag zal op de genoemde gebieden van toepassing zijn zes maanden na de datum van ontvangst van deze kennisgeving door de Belgische Regering, maar niet voor de datum van inwerkingtreding van het Verdrag ten opzichte van die Hoge Verdragsluitende Partij.
 

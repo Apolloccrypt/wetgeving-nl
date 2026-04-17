@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregel ontheffing vergunningsplicht IJsselmeer voor cultuurhistorische visserij"
+title: "Beleidsregel van de Minister van Landbouw, Natuur en Voedselkwaliteit van 16 maart 2022, nr. WJZ/ 22101854, tot vaststelling van de gronden waarop ontheffing verleend wordt van de verboden, opgenomen in artikel 8, eerste lid, van het Reglement voor de Binnenvisserij 1985 en artikel 29, eerste lid, onderdeel g, en tweede en derde lid, van de Uitvoeringsregeling visserij, ten behoeve van cultuurhistorische visserij (Beleidsregel ontheffing vergunningsplicht IJsselmeer voor cultuurhistorische visserij)"
 identifier: "BWBR0046447"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-03-23
-laatste_update: 2022-03-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046447"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2022-03-23"
+last_updated: "2022-03-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046447"
+soort: "beleidsregel"
+stam_id: "16302983"
+version_id: "28488592"
+internal_id: "C40198931"
+label_id: "16228474"
+dtd_version: "2.0"
+original_entry_into_force: "2022-03-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046447/2022-03-23/0"
+intitule_bron: "Stcrt.2022-8125"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-03-16"
+intitule_published: "2022-03-22"
+intitule_in_force: "2022-03-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-8125"
+original_signed_date: "2022-03-16"
+original_published_date: "2022-03-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-8125"
+entry_into_force_date: "2022-03-23"
+jci_1_3: "jci1.3:c:BWBR0046447&z=2022-03-23&g=2022-03-23"
+jci_1_0: "1.0:c:BWBR0046447&g=2022-03-23"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel ontheffing vergunningsplicht IJsselmeer voor cultuurhistorische visserij"
+signed_date: "2022-03-16"
+entry_into_force: "2022-03-23"
 ---
-
 # Beleidsregel van de Minister van Landbouw, Natuur en Voedselkwaliteit van 16 maart 2022, nr. WJZ/ 22101854, tot vaststelling van de gronden waarop ontheffing verleend wordt van de verboden, opgenomen in artikel 8, eerste lid, van het Reglement voor de Binnenvisserij 1985 en artikel 29, eerste lid, onderdeel g, en tweede en derde lid, van de Uitvoeringsregeling visserij, ten behoeve van cultuurhistorische visserij (Beleidsregel ontheffing vergunningsplicht IJsselmeer voor cultuurhistorische visserij)
 
 Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81), [artikel 11 van het Reglement voor de binnenvisserij 1985](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=11) en [artikel 33, tweede lid, van de Uitvoeringsregeling visserij](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&artikel=33);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -44,11 +70,11 @@ In deze beleidsregel wordt verstaan onder:
 
 - **verbod IJsselmeer:** verbod als bedoeld in [artikel 8, eerste lid, van het Reglement voor de binnenvisserij 1985](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=8) of [artikel 29, eerste lid, onderdeel g, en tweede en derde lid, van de Uitvoeringsregeling visserij](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&artikel=29).
 
-#### Artikel 2. Ontheffing cultuurhistorische visserij
+##### Artikel 2. Ontheffing cultuurhistorische visserij
 
 De minister verleent, overeenkomstig de in deze beleidsregel opgenomen voorwaarden, uitsluitend een ontheffing cultuurhistorische visserij voor cultuurhistorische visserij met de vistuigen fuik, kub, staand net, aaskuil en aalhoekwant.
 
-#### Artikel 3. Aanvraag ontheffing cultuurhistorische visserij
+##### Artikel 3. Aanvraag ontheffing cultuurhistorische visserij
 
 1. Een aanvraag voor een ontheffing cultuurhistorische visserij wordt uiterlijk ingediend op 1 januari van het jaar waarop de aanvraag betrekking heeft.
 
@@ -68,7 +94,7 @@ De minister verleent, overeenkomstig de in deze beleidsregel opgenomen voorwaard
 
 3. Bij de aanvraag voor een ontheffing cultuurhistorische visserij stuurt de aanvrager een kopie mee van de inschrijving van het traditionele vaartuig in het Register Varend Erfgoed Nederland, onderscheidenlijk een bewijsstuk waaruit blijkt dat het een traditioneel vaartuig is.
 
-#### Artikel 4. Verlening en voorwaarden ontheffing cultuurhistorische visserij
+##### Artikel 4. Verlening en voorwaarden ontheffing cultuurhistorische visserij
 
 1. De minister beslist binnen acht weken op de aanvraag.
 
@@ -102,7 +128,7 @@ De minister verleent, overeenkomstig de in deze beleidsregel opgenomen voorwaard
 
 5. De minister kan ter bescherming van visbestanden aanvullende voorwaarden verbinden aan de ontheffing cultuurhistorische visserij.
 
-#### Artikel 5. Totale omvang ontheffingen cultuurhistorische visserij
+##### Artikel 5. Totale omvang ontheffingen cultuurhistorische visserij
 
 1. Het aantal vistuigen waarvoor ontheffingen cultuurhistorische visserij worden verleend, bedraagt per type vistuig voor alle ontheffingen cultuurhistorische visserij tezamen ten hoogste het maximum, bedoeld in het tweede lid.
 
@@ -126,15 +152,15 @@ De minister verleent, overeenkomstig de in deze beleidsregel opgenomen voorwaard
 
 - b. de aaskuil wordt zodanig gebruikt dat gevangen vis daaruit kan ontsnappen.
 
-#### Artikel 6. Verdelingssystematiek
+##### Artikel 6. Verdelingssystematiek
 
 Indien het aantal vistuigen, opgenomen in de aanvragen voor een ontheffing cultuurhistorische visserij die voldoen aan de voorwaarden van deze beleidsregel voor eenzelfde jaar, een maximum als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046447&artikel=5&z=2022-03-23&g=2022-03-23), overschrijdt, wordt het maximum voor het betreffende type vistuig evenredig verdeeld over de betreffende aanvragen.
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van de dag na datum van uitgifte van de Staatscourant waarin hij wordt geplaatst.
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel ontheffing vergunningsplicht IJsselmeer voor cultuurhistorische visserij.
 

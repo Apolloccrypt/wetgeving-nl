@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Vorstendom Monaco inzake de uitwisseling van informatie betreffende belastingen"
 identifier: "BWBV0004055"
-categorie: "Belastingrecht"
-publicatiedatum: 2010-12-01
-laatste_update: 2010-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004055"
+country: "nl"
+rank: "verdrag"
+publication_date: "2010-12-01"
+last_updated: "2010-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004055"
+soort: "verdrag"
+stam_id: "10003870453"
+version_id: "10003945012"
+internal_id: "C10009635731"
+label_id: "10003855234"
+dtd_version: "2.0"
+original_entry_into_force: "2010-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004055/2010-12-01/0"
+intitule_bron: "Trb.2010-37"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2010-02-05"
+intitule_in_force: "2011-01-27"
+intitule_status: "goed"
+original_publication: "Trb.2010-37"
+original_published_date: "2010-02-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2010-37"
+entry_into_force_date: "2010-12-01"
+jci_1_3: "jci1.3:c:BWBV0004055&z=2010-12-01&g=2010-12-01"
+jci_1_0: "1.0:c:BWBV0004055&g=2010-12-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2010-12-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en het Vorstendom Monaco inzake de uitwisseling van informatie betreffende belastingen
 
 De Regering van het Koninkrijk der Nederlanden,
@@ -22,7 +44,7 @@ Erkennend dat het uitwisselen van informatie met betrekking tot bepaalde belasti
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Reikwijdte van het Verdrag
+##### Artikel 1. Reikwijdte van het Verdrag
 
 De bevoegde autoriteiten van de Verdragsluitende Staten verlenen elkaar bijstand door middel van de uitwisseling van informatie die naar verwachting van belang zal zijn voor de toepassing en handhaving van de nationale wetten van de Verdragsluitende Staten die betrekking hebben op de belastingen waarop dit Verdrag van toepassing is.
 
@@ -30,11 +52,11 @@ Deze informatie omvat informatie die naar verwachting van belang zal zijn voor d
 
 De uit hoofde van de wetgeving of bestuursrechtelijke praktijk van de aangezochte Staat aan personen toegekende rechten en waarborgen blijven van toepassing voor zover zij de doeltreffende uitwisseling van informatie niet onnodig verhinderen of vertragen.
 
-#### Artikel 2. Rechtsmacht
+##### Artikel 2. Rechtsmacht
 
 Een aangezochte Staat is niet verplicht informatie te verstrekken die noch in het bezit is van zijn autoriteiten, noch in het bezit of onder de macht van personen onder zijn territoriale rechtsmacht.
 
-#### Artikel 3. Belastingen waarop het Verdrag van toepassing is
+##### Artikel 3. Belastingen waarop het Verdrag van toepassing is
 
 1. De belastingen waarop dit Verdrag van toepassing is betreffen:
 
@@ -56,7 +78,7 @@ Een aangezochte Staat is niet verplicht informatie te verstrekken die noch in he
 
 2. Dit Verdrag is ook van toepassing op alle gelijke belastingen die na de datum van ondertekening van het Verdrag naast of in de plaats van de bestaande belastingen worden geheven. Indien de bevoegde autoriteiten van de Verdragsluitende Staten zulks overeenkomen, is dit Verdrag ook van toepassing op alle in wezen gelijksoortige belastingen die na de datum van ondertekening van het Verdrag naast of in de plaats van de bestaande belastingen worden geheven. Voorts kunnen de belastingen waarop dit Verdrag van toepassing is, in onderling overleg tussen de Verdragsluitende Staten in de vorm van een briefwisseling worden uitgebreid of aangepast. De bevoegde autoriteiten van de Verdragsluitende Staten doen elkaar mededeling van alle wezenlijke wijzigingen die zijn aangebracht in de belastingheffing en daarmee samenhangende maatregelen inzake het verzamelen van informatie waarop het Verdrag van toepassing is.
 
-#### Artikel 4. Begripsomschrijvingen
+##### Artikel 4. Begripsomschrijvingen
 
 1. Voor de toepassing van dit Verdrag, tenzij anders is bepaald:
 
@@ -100,7 +122,7 @@ Een aangezochte Staat is niet verplicht informatie te verstrekken die noch in he
 
 2. Voor de toepassing van dit Verdrag door een Verdragsluitende Staat op enig ogenblik heeft, tenzij de context anders vereist, elke daarin niet omschreven uitdrukking de betekenis welke die uitdrukking heeft volgens de wetgeving van die Staat, waarbij elke betekenis volgens de toepasselijke belastingwetgeving van die Staat de voorkeur heeft boven een betekenis die volgens andere wetgeving van die Staat aan die uitdrukking wordt gegeven.
 
-#### Artikel 5. Uitwisseling van informatie op verzoek
+##### Artikel 5. Uitwisseling van informatie op verzoek
 
 1. De bevoegde autoriteit van de aangezochte Staat verstrekt op verzoek informatie ten behoeve van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004055&artikel=1&z=2010-12-01&g=2010-12-01) bedoelde doeleinden. Dergelijke informatie wordt uitgewisseld ongeacht of de onderzochte gedragingen, indien deze in de aangezochte Staat zouden plaatsvinden, uit hoofde van de wetgeving van de aangezochte Staat als misdrijf zouden worden aangemerkt.
 
@@ -138,7 +160,7 @@ Dit Verdrag schept daarnaast geen verplichting voor de Verdragsluitende Staten i
 
 - b. Indien de bevoegde autoriteit van de aangezochte Staat niet in staat is geweest de informatie binnen 90 dagen na ontvangst van het verzoek te verkrijgen en te verstrekken, daaronder begrepen het feit dat zij belemmeringen ondervindt bij het verstrekken van informatie of weigert de informatie te verstrekken, stelt zij de verzoekende Staat daarvan onmiddellijk op de hoogte, onder vermelding van de redenen van het onvermogen, de aard van de belemmeringen of de redenen voor de weigering.
 
-#### Artikel 6. Belastingcontrole in het buitenland
+##### Artikel 6. Belastingcontrole in het buitenland
 
 1. Een Verdragsluitende Staat kan vertegenwoordigers van de bevoegde autoriteit van de andere Verdragsluitende Staat toestaan het grondgebied van de eerstgenoemde Staat te betreden om, met schriftelijke toestemming van de betrokkenen, personen te ondervragen en stukken te onderzoeken. De bevoegde autoriteit van de als tweede genoemde Staat stelt de bevoegde autoriteit van de eerstgenoemde Staat in kennis van het tijdstip en de plaats van de ontmoeting met de betrokken personen.
 
@@ -146,7 +168,7 @@ Dit Verdrag schept daarnaast geen verplichting voor de Verdragsluitende Staten i
 
 3. Indien het in het tweede lid bedoelde verzoek wordt ingewilligd, stelt de bevoegde autoriteit van de Verdragsluitende Staat die de controle uitvoert, de bevoegde autoriteit van de andere Staat zo spoedig mogelijk in kennis van het tijdstip en de plaats van de controle, de autoriteit of functionaris die de controle zal uitvoeren en de door de eerstgenoemde Staat ten behoeve van de controle vereiste procedures en voorwaarden. Alle beslissingen met betrekking tot het uitvoeren van de belastingcontrole worden genomen door de Staat die het onderzoek uitvoert.
 
-#### Artikel 7. Mogelijkheid een verzoek af te wijzen
+##### Artikel 7. Mogelijkheid een verzoek af te wijzen
 
 1. Van de aangezochte Staat kan niet worden verlangd dat hij informatie verkrijgt of verstrekt die de verzoekende Staat krachtens zijn eigen wetgeving niet zou kunnen verkrijgen ten behoeve van de toepassing of handhaving van zijn eigen belastingwetten. De bevoegde autoriteit van de aangezochte Staat kan verzoeken om bijstand afwijzen die niet zijn gedaan in overeenstemming met dit Verdrag of met een ander instrument waarbij de Verdragsluitende Staten partij zijn.
 
@@ -164,27 +186,27 @@ Dit Verdrag schept daarnaast geen verplichting voor de Verdragsluitende Staten i
 
 6. De aangezochte Staat kan een verzoek om informatie afwijzen indien de informatie die door de verzoekende Staat wordt gevraagd om een bepaling van de belastingwetgeving van de verzoekende Staat ten uitvoer te leggen of te handhaven, of een daarmee verband houdend vereiste, discriminatie inhoudt van een onderdaan van de aangezochte Staat ten opzichte van een onderdaan van de verzoekende Staat die zich in dezelfde omstandigheden bevindt.
 
-#### Artikel 8. Vertrouwelijkheid
+##### Artikel 8. Vertrouwelijkheid
 
 Alle uit hoofde van dit Verdrag door een Verdragsluitende Staat ontvangen informatie wordt vertrouwelijk behandeld en wordt uitsluitend ter kennis gebracht van personen of autoriteiten (met inbegrip van rechterlijke instanties en administratieve lichamen) die onder de rechtsmacht van de desbetreffende Verdragsluitende Staat vallen en betrokken zijn bij de vaststelling of inning van, de tenuitvoerlegging of vervolging ter zake van, of de beslissing in beroepszaken betrekking hebbende op de belastingen waarop dit Verdrag van toepassing is. Deze personen of autoriteiten mogen uitsluitend voor deze doeleinden van deze informatie gebruikmaken. Zij mogen de informatie bekendmaken in openbare rechtszittingen of in gerechtelijke beslissingen. De informatie mag niet ter kennis worden gebracht van enige andere persoon, instelling, autoriteit of rechterlijke instantie zonder de uitdrukkelijke schriftelijke toestemming van de bevoegde autoriteit van de aangezochte Staat.
 
-#### Artikel 9. Kosten
+##### Artikel 9. Kosten
 
 De bevoegde autoriteiten bereiken overeenstemming over kosten die voortvloeien uit het verlenen van bijstand.
 
-#### Artikel 10. Uitvoeringswetgeving
+##### Artikel 10. Uitvoeringswetgeving
 
 De Verdragsluitende Staten stellen alle wetgeving vast die noodzakelijk is om te voldoen aan en ter uitvoering van de bepalingen van het Verdrag.
 
-#### Artikel 11. Taal
+##### Artikel 11. Taal
 
 Verzoeken om bijstand en antwoorden daarop worden gesteld in de Engelse of de Franse taal.
 
-#### Artikel 12. Andere internationale verdragen of regelingen
+##### Artikel 12. Andere internationale verdragen of regelingen
 
 De mogelijkheden voor bijstand waarin dit Verdrag voorziet, vormen geen beperking voor, noch worden zij beperkt door, de mogelijkheden vervat in bestaande internationale verdragen of andere regelingen tussen de Verdragsluitende Staten die betrekking hebben op samenwerking ter zake van belastingzaken.
 
-#### Artikel 13. Regeling voor onderling overleg
+##### Artikel 13. Regeling voor onderling overleg
 
 1. De bevoegde autoriteiten trachten moeilijkheden of twijfelpunten, die mochten rijzen tussen de Verdragsluitende Staten met betrekking tot de toepassing of de uitlegging van dit Verdrag, in onderling overleg op te lossen.
 
@@ -196,7 +218,7 @@ De mogelijkheden voor bijstand waarin dit Verdrag voorziet, vormen geen beperkin
 
 De beslissing van de arbitragecommissie in een bepaald geval is voor dat geval bindend voor beide Verdragsluitende Staten en de betrokken belastingplichtigen.
 
-#### Artikel 14. Inwerkingtreding
+##### Artikel 14. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking op de eerste dag van de tweede maand na de laatste kennisgeving waarin de Partijen elkaar schriftelijk ervan in kennis hebben gesteld dat is voldaan aan de vereiste interne procedures voor de inwerkingtreding ervan.
 
@@ -206,7 +228,7 @@ De beslissing van de arbitragecommissie in een bepaald geval is voor dat geval b
 
 - b. alle overige aangelegenheden vanaf die datum waarop [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004055&artikel=1&z=2010-12-01&g=2010-12-01) van toepassing is, zij het uitsluitend met betrekking tot belastingtijdvakken beginnend op of na die datum, of bij ontbreken van een belastingtijdvak, met betrekking tot alle belastingvorderingen ontstaan op of na die datum.
 
-#### Artikel 15. Beëindiging
+##### Artikel 15. Beëindiging
 
 1. Dit Verdrag blijft van kracht totdat het door een van de Verdragsluitende Staten wordt beëindigd. Elk van de Staten kan het Verdrag langs diplomatieke weg beëindigen door de andere Verdragsluitende Staat ten minste zes maanden voor het einde van enig kalenderjaar na het verstrijken van een periode van drie jaar na de datum van inwerkingtreding van het Verdrag kennis te geven van beëindiging. In dat geval houdt het Verdrag op van toepassing te zijn voor belastingjaren en -tijdvakken die aanvangen na het einde van het kalenderjaar waarin de kennisgeving van de beëindiging is gedaan.
 

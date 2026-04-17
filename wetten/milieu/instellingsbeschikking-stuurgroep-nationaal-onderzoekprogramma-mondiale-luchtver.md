@@ -1,13 +1,37 @@
 ---
 title: "Instellingsbeschikking stuurgroep Nationaal Onderzoekprogramma Mondiale Luchtverontreiniging en Klimaatverandering"
 identifier: "BWBR0008988"
-categorie: "Milieu"
-publicatiedatum: 1997-11-01
-laatste_update: 1997-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008988"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1997-11-01"
+last_updated: "1997-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008988"
+soort: "ministeriele-regeling"
+stam_id: "3541823"
+version_id: "5324982"
+internal_id: "C5518071"
+label_id: "3521854"
+dtd_version: "2.0"
+original_entry_into_force: "1997-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008988/1997-11-01/0"
+intitule_bron: "Stcrt.1997-216"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-10-31"
+intitule_published: "1997-11-10"
+intitule_in_force: "1997-11-10"
+intitule_status: "goed"
+original_publication: "Stcrt.1997-216"
+original_signed_date: "1997-10-31"
+original_published_date: "1997-11-10"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1997-11-01"
+jci_1_3: "jci1.3:c:BWBR0008988&z=1997-11-01&g=1997-11-01"
+jci_1_0: "1.0:c:BWBR0008988&g=1997-11-01"
+citeertitel_status: "officieel"
+signed_date: "1997-10-31"
+entry_into_force: "1997-11-01"
 ---
-
 # Instellingsbeschikking stuurgroep Nationaal Onderzoekprogramma Mondiale Luchtverontreiniging en Klimaatverandering
 
 Handelende in overeenstemming met de Ministers van Verkeer en Waterstaat (verder te noemen VW), Economische Zaken (verder te noemen EZ), Landbouw, Natuurbeheer en Visserij (verder te noemen LNV), Buitenlandse Zaken en Ontwikkelingssamenwerking (verder te noemen BuZa en OS), Onderwijs, Cultuur en Wetenschappen (verder te noemen OCW), en in overeenstemming met de Voorzitter van het Algemeen Bestuur van de Nederlandse Organisatie van Wetenschappelijk Onderzoek (verder te noemen NWO),
@@ -18,19 +42,19 @@ Overwegende dat het wenselijk is het Nationaal Onderzoekprogramma Mondiale Lucht
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder de stuurgroep: de stuurgroep bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008988&artikel=2&z=1997-11-01&g=1997-11-01).
 
-#### Artikel 2
+##### Artikel 2
 
 Er is een stuurgroep Nationaal Onderzoekprogramma Mondiale Luchtverontreiniging en Klimaatverandering (NOP-MLK).
 
-#### Artikel 3
+##### Artikel 3
 
 De stuurgroep heeft als taak het dragen van de algehele verantwoordelijkheid voor het NOP-MLK.
 
-#### Artikel 4
+##### Artikel 4
 
 De stuurgroep bestaat uit:
 
@@ -60,7 +84,7 @@ De stuurgroep bestaat uit:
 
 De stuurgroep kan besluiten aan de stuurgroep leden toe te voegen uit maximaal twee andere maatschappelijke organisaties, die ieder één lid benoemen.
 
-#### Artikel 5
+##### Artikel 5
 
 De stuurgroep laat zich bij zijn werkzaamheden bijstaan door:
 
@@ -70,19 +94,19 @@ De stuurgroep laat zich bij zijn werkzaamheden bijstaan door:
 
 - c. De Programmacommissie NOP-MLK (verder te noemen de Programmacommissie). De Programmacommissie is het inhoudelijke adviesorgaan van de stuurgroep. De hoofdtaak van de Programmacommissie is het zorgdragen voor de inhoudelijke kwaliteitsbewaking, de onderzoeksprogrammering, de globale inhoudelijke projectformulering en de inhoudelijke beoordeling der onderzoeksresultaten. Voorzitter en leden van de Programmacommissie worden benoemd door de voorzitter van de stuurgroep na raadpleging van de leden van de stuurgroep. De Programmacommissie wordt bijgestaan door vier Programmeringsgroepen. De voorzitters van deze Programmeringsgroepen zijn lid van de Programma-commissie. Het Programmabureau verzorgt de secretariaten van Programma-commissie en Programmeringsgroepen.
 
-#### Artikel 6
+##### Artikel 6
 
 De verdeling van de taken en bevoegdheden, de wijze van benoeming, de werkwijze, de besluitvorming, het afleggen van verantwoording door de Programmacommissie, de Programmeringsgroepen en het Programmabureau, en de financiële relaties tussen DGM/VROM, NWO en RIVM worden, voor zover niet geregeld in dit instellingsbesluit, neergelegd in een door de stuurgroep vast te stellen of te wijzigen reglement genaamd ’Structuur en Beheer van NOP-2’ in goed overleg met de betrokken partijen.
 
-#### Artikel 7
+##### Artikel 7
 
 De stuurgroep is bevoegd, met inachtneming van dit besluit, nadere regels te stellen met betrekking tot zijn eigen werkwijze.
 
-#### Artikel 8
+##### Artikel 8
 
 De stuurgroep stelt aan het begin van de programmaperiode van fase 2 van het programma NOP-MLK, welke loopt van 1995 tot en met 2001, een meerjaren-onderzoekprogramma op met de daarbij behorende doelstellingen. Aan het einde van de programmaperiode brengt de stuurgroep rapport uit over de behaalde resultaten aan de betrokken ministers. Daarbij wordt het onderzoekprogramma geëvalueerd en getoetst aan de doelstellingen van het NOP-MLK. De stuurgroep kan hierover advies vragen aan derden.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Dit besluit treedt in werking op 1 november 1997.
 

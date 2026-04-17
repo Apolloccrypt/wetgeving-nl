@@ -1,13 +1,38 @@
 ---
 title: "Belastingstelsel Caribisch Nederland; nadere invulling"
 identifier: "BWBR0030464"
-categorie: "Belastingrecht"
-publicatiedatum: 2011-10-01
-laatste_update: 2011-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030464"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2011-10-01"
+last_updated: "2011-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030464"
+soort: "beleidsregel"
+stam_id: "11450043"
+version_id: "18813042"
+internal_id: "C26259321"
+label_id: "11423584"
+dtd_version: "2.0"
+original_entry_into_force: "2011-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030464/2011-10-01/0"
+intitule_bron: "Stcrt.2011-17540"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-09-23"
+intitule_published: "2011-09-27"
+intitule_in_force: "2011-09-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-17540"
+original_signed_date: "2011-09-23"
+original_published_date: "2011-09-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-17540"
+entry_into_force_date: "2011-10-01"
+jci_1_3: "jci1.3:c:BWBR0030464&z=2011-10-01&g=2011-10-01"
+jci_1_0: "1.0:c:BWBR0030464&g=2011-10-01"
+citeertitel_status: "redactioneel"
+signed_date: "2011-09-23"
+entry_into_force: "2011-10-01"
 ---
-
 # Belastingstelsel Caribisch Nederland; nadere invulling
 
 De staatssecretaris van Financiën heeft het volgende besloten.

@@ -1,13 +1,39 @@
 ---
-title: "Inschrijvingsvoorwaarden advocatuur 2019"
+title: "Inschrijvingsvoorwaarden advocatuur 2019 (Besluit van het bestuur van de Raad voor Rechtsbijstand van 10 oktober 2018 krachtens artikel 15 van de Wet op de Rechtsbijstand, goedgekeurd bij besluit van het Ministerie van Justitie en Veiligheid van 2 november 2018)"
 identifier: "BWBR0041711"
-categorie: "Overig"
-publicatiedatum: 2018-12-20
-laatste_update: 2018-12-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041711"
+country: "nl"
+rank: "zbo"
+publication_date: "2018-12-20"
+last_updated: "2018-12-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041711"
+soort: "zbo"
+stam_id: "14912433"
+version_id: "25515462"
+internal_id: "C36429881"
+label_id: "14863864"
+dtd_version: "2.0"
+original_entry_into_force: "2018-12-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041711/2018-12-20/0"
+intitule_bron: "Stcrt.2018-71508"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-11-10"
+intitule_published: "2018-12-20"
+intitule_in_force: "2018-12-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-71508"
+original_signed_date: "2018-11-10"
+original_published_date: "2018-12-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-71508"
+entry_into_force_date: "2018-12-20"
+jci_1_3: "jci1.3:c:BWBR0041711&z=2018-12-20&g=2018-12-20"
+jci_1_0: "1.0:c:BWBR0041711&g=2018-12-20"
+citeertitel_status: "redactioneel"
+short_title: "Inschrijvingsvoorwaarden advocatuur 2019"
+signed_date: "2018-11-10"
+entry_into_force: "2018-12-20"
 ---
-
 # Inschrijvingsvoorwaarden advocatuur 2019 (Besluit van het bestuur van de Raad voor Rechtsbijstand van 10 oktober 2018 krachtens artikel 15 van de Wet op de Rechtsbijstand, goedgekeurd bij besluit van het Ministerie van Justitie en Veiligheid van 2 november 2018)
 
 ### Inleiding
@@ -36,7 +62,7 @@ Uitgangspunt is dat gesubsidieerde rechtsbijstand alleen wordt verleend door adv
 
 In ieder geval zal aan een niet-ingeschreven advocaat geen toevoeging worden verleend indien hij toevoeging verzoekt op een terrein waarop in de door de Raad vastgestelde inschrijvingsvoorwaarden deskundigheidseisen worden gesteld.
 
-#### Artikel 1. Kantoororganisatie, verhouding met de Raad ([artikel 15 lid 1 sub c Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=15))
+##### Artikel 1. Kantoororganisatie, verhouding met de Raad ([artikel 15 lid 1 sub c Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=15))
 
 - a. Ten behoeve van de gegevens met betrekking tot het aanvragen en declareren van toevoegingen en piketten voorziet de advocaat in de naar het oordeel van de Raad noodzakelijke inrichting. Met het webportaal Mijn RvR kunnen advocaten een aanvraag voor diverse toevoegingen en declaraties digitaal bij de Raad indienen. De gebruikmaking van Mijn RvR is voor alle advocaten verplicht. De advocaat geeft de Raad een persoonlijk e-mailadres op. Voor gebruik van het webportaal is een info@adres of een gezamenlijk kantooradres niet toegestaan. De advocaat legt ten behoeve van het aanvragen van toevoegingen de persoonsgegevens van zijn cliënt en diens partner conform het identiteitsbewijs vast. Dit betreft de achternaam, voorletters, geboortedatum, GBA-adres, postadres en burgerservicenummer en het vreemdelingennummer. Dit voorschrift staat beredeneerbare uitzonderingen toe, waarin deze vastlegging onmogelijk is. Bijvoorbeeld daklozen en vreemdelingen die ongedocumenteerd zijn en gevallen van ruzie met de partner.
 
@@ -88,13 +114,13 @@ In ieder geval zal aan een niet-ingeschreven advocaat geen toevoeging worden ver
 
 - r. De advocaat verwijst zijn cliënt ook bij een toevoegwaardig rechtsbelang, als dat noodzakelijk is in het kader van doelmatig en passend gebruik van de voorziening voor toevoegingen naar voorliggende voorzieningen, zoals het Juridisch Loket en de Sociaal Raadslieden.
 
-#### Artikel 2. Opgave Nieuw kantoor en verklaring kantoororganisatie ([artikel 15 lid 1 sub c Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=15))
+##### Artikel 2. Opgave Nieuw kantoor en verklaring kantoororganisatie ([artikel 15 lid 1 sub c Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=15))
 
 - a. De bij de Raad voor Rechtsbijstand ingeschreven advocaat die werkzaam is bij een kantoor waaraan de NOvA een nieuw kantoornummer heeft toegekend, dient tot genoegen van de deken in het betreffende arrondissement aan de Opgave Nieuw Kantoor te voldoen.
 
 - b. De Raad kan in specifieke gevallen de advocaat verzoeken om een verklaring kantoororganisatie in te vullen en retour te zenden. Indien de verstrekte gegevens akkoord worden bevonden, volgt registratie voor het gehele kantoor. De Raad kan inschrijving weigeren als de ingevulde verklaring kantoororganisatie daartoe reden geeft.
 
-#### Artikel 3. Naleven overeengekomen kwaliteitssystemen ([art. 15 lid 1 sub b Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=15))9Naar verwachting zal in 2019 het gewijzigde artikel 26 Advocatenwet inzake het verrichten van kwaliteitstoetsen in werking treden. Vanaf het moment van inwerkingtreding is het gestelde in dat artikel ook van toepassing op de bepalingen in dit artikel.
+##### Artikel 3. Naleven overeengekomen kwaliteitssystemen ([art. 15 lid 1 sub b Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=15))9Naar verwachting zal in 2019 het gewijzigde artikel 26 Advocatenwet inzake het verrichten van kwaliteitstoetsen in werking treden. Vanaf het moment van inwerkingtreding is het gestelde in dat artikel ook van toepassing op de bepalingen in dit artikel.
 
 - a. De advocaat dient bereid te zijn om de door de NOvA en de Raad overeengekomen kwaliteitssystemen na te leven.
 
@@ -104,11 +130,11 @@ In ieder geval zal aan een niet-ingeschreven advocaat geen toevoeging worden ver
 
 - d. Indien de advocaat niet meewerkt aan intercollegiale toetsing, peer review of aan door de Raad geëntameerd ambtshalve onderzoek naar de kwaliteit van de door hem verleende rechtsbijstand kan zijn inschrijving voor het rechtsgebied in kwestie worden doorgehaald. Dit laat de toetsing door de dekens op de naleving van de Gedragsregels en overige regelgeving van de NOvA geheel onverlet.
 
-#### Artikel 4. Verslaglegging ([artikel 15 lid 1 sub d Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=15))
+##### Artikel 4. Verslaglegging ([artikel 15 lid 1 sub d Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=15))
 
 De advocaat dient desgevraagd aan de Raad en aan door de Raad ingestelde commissies, tenzij zijn beroepsgeheim11Artikel 11a Advocatenwet hem dat verbiedt, informatie te verstrekken en verantwoording af te leggen over de afhandeling van zaken. Deze informatieplicht kan ook worden aangewend met betrekking tot de evaluatie van door de Raad gevoerd beleid. Desgevraagd dient de advocaat verslaglegging te doen over de wijze waarop aan de inschrijvingsvoorwaarden is voldaan.
 
-#### Artikel 5. Minimum/maximum ([artikel 15 lid 1 sub a Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=15))
+##### Artikel 5. Minimum/maximum ([artikel 15 lid 1 sub a Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=15))
 
 - a. Om te voorkomen dat de kwaliteit van de rechtsbijstand in het gedrang komt, door onder meer het te snel en te veel aanvragen van toevoegingen of door het onvoldoende tijd en aandacht besteden aan zaken, worden aan een advocaat jaarlijks niet meer toevoegingen afgegeven dan het equivalent van 250 ‘eenheden’. Hieronder worden mede begrepen de ambtshalve toevoegingen. De Raad zal bij het beoordelen van het maximum aantal toevoegingen op de volgende manier rekenen in ‘eenheden’ teneinde rekening te kunnen houden met de specifieke opbouw van de praktijk. Indien een lichte adviestoevoeging wordt omgezet in een reguliere toevoeging zal deze laatste bij de berekening van het maximum worden meegeteld op basis van het aantal punten waarmee de zaak volgens het [Bvr 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018) wordt gewaardeerd. Indien een advocaat het maximum aantal toevoegingen heeft bereikt, zullen in het betreffende kalenderjaar geen toevoegingen meer aan hem worden afgegeven, ook niet meer op last van de rechtbank. De Raad verwacht in dat geval ook van de advocaat dat deze gedurende het resterende kalenderjaar geen nieuwe toevoegingsaanvragen indient. Ook wordt de advocaat gedurende het resterende kalenderjaar van de piketplanningen verwijderd. In het geval dat gebleken is dat de Raad toch toevoegingen boven het maximum heeft verstrekt, dan stemt de advocaat met intrekking van deze toevoegingen in. De deken in het arrondissement waar de betreffende advocaat kantoor houdt, wordt geïnformeerd over het bereiken van de grens van het maximum aantal af te geven toevoegingen. De advocaat kan in het volgend kalenderjaar opnieuw om inschrijving verzoeken. Als hij in het jaar daarop opnieuw toevoeging verzoekt in zaken waarin het vorig jaar vanwege het bereiken van het maximum aan hem toevoegingen zijn geweigerd, zal – indien de toevoeging alsnog wordt verleend – de ingangsdatum in het jaar van de nieuwe aanvraag liggen.
 
@@ -128,7 +154,7 @@ De advocaat dient desgevraagd aan de Raad en aan door de Raad ingestelde commiss
 
 - e. In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041711&artikel=5&z=2018-12-20&g=2018-12-20) onder a geldt een afwijkend en lager maximum aantal toevoegingseenheden voor advocaten die in de twee jaren voorafgaand aan het huidig jaar van inschrijving gemiddeld meer dan 2000 punten hebben gedeclareerd. Dit lagere aantal eenheden wordt bepaald volgens de volgende formule: (2.000 punten: het gemiddeld aantal gedeclareerde punten in twee voorafgaande jaren) x 250. Voor de berekening van dit lager maximum voor 2019 wordt het gemiddeld aantal gedeclareerde punten in twee voorafgaande jaren berekend over de periode 1 januari 2017 tot 1 januari 2019. Voor de berekening van het aantal punten tellen ook de punten voor toeslagen en extra uren mee. Indien een lager aantal eenheden geldt, wordt dit lagere aantal aan het begin van het kalenderjaar aan de advocaat meegedeeld. De deken in het arrondissement waar de betreffende advocaat kantoor houdt, wordt geïnformeerd over het bereiken van de grens van 2000 gedeclareerde punten.
 
-#### Artikel 6. Deskundigheid op bepaalde rechtsgebieden ([art. 15 lid 1 sub b Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=15))
+##### Artikel 6. Deskundigheid op bepaalde rechtsgebieden ([art. 15 lid 1 sub b Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=15))
 
 De Raad hanteert ten aanzien van een zevental rechtsgebieden bijzondere deskundigheidsvereisten. Het betreft hier rechtsgebieden die ofwel specialistische kennis vereisen, ofwel vereisen dat de advocaat zich verdiept in en beperkt tot een aantal samenhangende rechtsgebieden. De inschrijving op deze rechtsgebieden moet worden aangevraagd door middel van een afzonderlijk formulier. De gestelde vereisten gelden voor de toelating en de voortzetting van de inschrijving.
 
@@ -150,7 +176,7 @@ De Raad heeft met de NOvA afgesproken dat advocaat-stagiaires bij een High Trust
 
 - e. Een advocaat die niet (meer) ingeschreven staat voor een rechtsgebied verbindt zich ertoe om, indien de rechterlijke instantie toch een last in een zaak op dat rechtsgebied afgeeft, aan de rechterlijke instantie te verzoeken om de last in te trekken of te laten muteren op naam van een andere advocaat. De Raad geeft geen uitvoering aan de last.
 
-#### Artikel 6a. Deskundigheidsvereisten voor de rechtsbijstandverlening in strafzaken
+##### Artikel 6a. Deskundigheidsvereisten voor de rechtsbijstandverlening in strafzaken
 
 **De vereisten voor het verstrekken van toevoegingen in strafzaken zijn:**
 
@@ -208,13 +234,13 @@ Voor de toelating gelden de bovengenoemde voorwaarden voor strafpiket alsmede:
 
 In verband met het noodzakelijke onderhouden van de ervaring wordt waar nodig per territoriale piketplanning een wachtlijst voor deelname aan de piketplanning gehanteerd. Belangstellenden voor toelating tot piketplanning worden op datum van aanmelding geregistreerd. Nieuwe toelating vindt pas plaats als het aantal zaken per deelnemende rechtsbijstandverlener in een jaar gemiddeld niet onder 5 toevoegingen daalt. Mogelijke toelating wordt door de Raad aangekondigd als het volgen van een cursus, die vereist is voor toelating, mogelijk is.
 
-#### Artikel 6b. deskundigheidsvereisten voor de rechtsbijstandverlening in jeugdstrafzaken en bij verzoeken voor een machtiging tot uithuisplaatsing in een accommodatie voor gesloten jeugdzorg
+##### Artikel 6b. deskundigheidsvereisten voor de rechtsbijstandverlening in jeugdstrafzaken en bij verzoeken voor een machtiging tot uithuisplaatsing in een accommodatie voor gesloten jeugdzorg
 
 **De vereisten voor de verstrekking van toevoegingen voor jeugdstrafzaken en voor verzoeken voor een machtiging tot uithuisplaatsing in een accommodatie voor gesloten jeugdzorg zijn:**
 
 - –. toelating op grond van de inschrijvingsvoorwaarden die zijn opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041711&bijlage=5&z=2018-12-20&g=2018-12-20).
 
-#### Artikel 6c. deskundigheidsvereisten voor de rechtsbijstandverlening aan psychiatrische patiënten
+##### Artikel 6c. deskundigheidsvereisten voor de rechtsbijstandverlening aan psychiatrische patiënten
 
 **De vereisten voor toevoegingen op het rechtsgebied psychiatrisch patiëntenrecht en het psychiatrisch patiëntenpiket zijn:**
 
@@ -244,7 +270,7 @@ In verband met het noodzakelijke onderhouden van de ervaring wordt waar nodig pe
 
 Teneinde een evenredigere verdeling van het aantal BOPZ zaken aan de advocaten op de BOPZ piketplanning te bevorderen, zal de Raad advocaten waaraan binnen één kalenderjaar meer dan 70 toevoegingen op het terrein van het psychiatrisch patiëntenrecht worden afgegeven niet langer inplannen in de daarop volgende planningsperiode voor psychiatriezaken. De advocaat kan gedurende de periode dat deze niet op de planning is ingedeeld wel in aanmerking komen voor het ontvangen van piketmeldingen voor stamcliënten en kan gedurende deze periode stamcliënten op basis van een last tot toevoeging blijven bijstaan.
 
-#### Artikel 6d. deskundigheidsvereisten voor de verstrekking van toevoegingen in vreemdelingenzaken
+##### Artikel 6d. deskundigheidsvereisten voor de verstrekking van toevoegingen in vreemdelingenzaken
 
 **De vereisten voor de verstrekking van toevoegingen in vreemdelingenzaken zijn:**
 
@@ -254,7 +280,7 @@ Teneinde een evenredigere verdeling van het aantal BOPZ zaken aan de advocaten o
 
 In [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041711&bijlage=1&z=2018-12-20&g=2018-12-20) zijn de Inschrijvingsvoorwaarden voor vreemdelingenrecht, vreemdelingenpiket en vreemdelingenbewaringszaken opgenomen.
 
-#### Artikel 6e. deskundigheidsvereisten voor de verstrekking van toevoegingen in asiel- en vluchtelingenzaken
+##### Artikel 6e. deskundigheidsvereisten voor de verstrekking van toevoegingen in asiel- en vluchtelingenzaken
 
 **De vereisten voor de verstrekking van toevoegingen in asiel- en vluchtelingenzaken zijn:**
 
@@ -262,7 +288,7 @@ In [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041711&bijlage=1&z=2018-
 
 In [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041711&bijlage=2&z=2018-12-20&g=2018-12-20) zijn de Inschrijvingsvoorwaarden voor het Asiel- en vluchtelingenrecht opgenomen.
 
-#### Artikel 6f. deskundigheidsvereisten voor de verstrekking van toevoegingen in zaken betreffende internationale kinderontvoering
+##### Artikel 6f. deskundigheidsvereisten voor de verstrekking van toevoegingen in zaken betreffende internationale kinderontvoering
 
 De vereisten voor de verstrekking van toevoegingen in kinderontvoeringszaken zijn:
 
@@ -274,7 +300,7 @@ De vereisten voor de verstrekking van toevoegingen in kinderontvoeringszaken zij
 
 Het behalen van vier opleidingspunten op het terrein van internationale kinderontvoeringzaken, te behalen door het bijwonen van tenminste twee bijeenkomsten per jaar op het gebied van internationale kinderontvoering waarbij rechtsontwikkelingen en jurisprudentie op het gebied van internationale kinderontvoering worden besproken, georganiseerd door een door de Raad goedgekeurde instelling.26Goedgekeurd zijn in ieder geval de bijeenkomsten van of in samenwerking met Centrum IKO en Dutch International Abduction Lawyers (D.I.A.L.)/Vereniging IKO.
 
-#### Artikel 6g. deskundigheidsvereisten voor de verstrekking van toevoegingen in zaken betreffende het Personen- en familierecht
+##### Artikel 6g. deskundigheidsvereisten voor de verstrekking van toevoegingen in zaken betreffende het Personen- en familierecht
 
 **De vereisten voor verstrekking van toevoegingen op het terrein van het personen- en familierecht zijn:**
 
@@ -282,7 +308,7 @@ Het behalen van vier opleidingspunten op het terrein van internationale kinderon
 
 In [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041711&bijlage=3&z=2018-12-20&g=2018-12-20) zijn de Inschrijvingsvoorwaarden voor het Personen- en Familierecht opgenomen.
 
-#### Artikel 6h. deskundigheidsvereisten voor de rechtsbijstandverlening aan slachtoffers (zaakcodes Civiel O 013, gewelds- en zedenmisdrijven en Straf Z 110, voeging benadeelde partij in het strafproces):
+##### Artikel 6h. deskundigheidsvereisten voor de rechtsbijstandverlening aan slachtoffers (zaakcodes Civiel O 013, gewelds- en zedenmisdrijven en Straf Z 110, voeging benadeelde partij in het strafproces):
 
 **De vereisten voor de verstrekking van toevoegingen op het terrein van rechtsbijstandverlening aan slachtoffers zijn:**
 
@@ -306,11 +332,11 @@ Voor advocaten die geen lid zijn van een van deze verenigingen/netwerk gelden de
 
 - 2. Het jaarlijks behalen van vijf opleidingspunten op het terrein van het voegen van een civiele vordering van het slachtoffer van een ernstig gewelds- of zedenmisdrijf in het strafproces te behalen. Zowel civielrechtelijke als strafrechtelijke aspecten dienen daarbij aan bod te komen. Opleidingsactiviteiten vanuit de vereniging/het netwerk tellen daarbij mee.
 
-#### Artikel 7. Voorschotten ([art. 35](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=35) en [36 Bvr 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=36))
+##### Artikel 7. Voorschotten ([art. 35](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=35) en [36 Bvr 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=36))
 
 De advocaat ontvangt het op basis van het [Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018) verstrekte voorschot persoonlijk en is persoonlijk aansprakelijk voor de onverwijlde terugbetaling c.q. verrekening met de vergoedingen in zaken op basis waarvan het voorschot is berekend, in geval de inschrijving wordt doorgehaald. De advocaat die in loondienst heeft gewerkt, kan zich er niet op beroepen dat voorschotten aan zijn patroon/kantoor zijn uitbetaald.
 
-#### Artikel 8. Doorhaling inschrijving ([art. 17 Wrb)](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=17)
+##### Artikel 8. Doorhaling inschrijving ([art. 17 Wrb)](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=17)
 
 - 1. De inschrijving van de advocaat kan door de Raad worden doorgehaald:
 
@@ -338,7 +364,7 @@ De advocaat ontvangt het op basis van het [Besluit vergoedingen rechtsbijstand 2
 
 - 5. De Raad kan herinschrijving weigeren indien de inschrijving van een advocaat is doorgehaald in de gevallen beschreven in het eerste lid onder e, f, g en h.
 
-#### Artikel 9. Algemene bepaling
+##### Artikel 9. Algemene bepaling
 
 De advocaat onthoudt zich van gedragingen die met de doelstelling van deze voorwaarden in strijd komen. Zo is het niet toegestaan om toevoegingen aan te vragen ten behoeve van een andere advocaat of rechtsbijstandverlener, bijvoorbeeld voor een niet ingeschreven advocaat of voor een advocaat die niet aan specifieke deskundigheidseisen voldoet of het maximum aantal toevoegingen heeft bereikt. Het is evenmin toegestaan de gevolgen van algehele uitschrijving of uitschrijving van een specifiek rechtsgebied te ontgaan door andere advocaten toevoegingen te laten aanvragen.
 

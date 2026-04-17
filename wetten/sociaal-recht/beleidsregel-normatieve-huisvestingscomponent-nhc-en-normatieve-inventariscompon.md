@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregel normatieve huisvestingscomponent (nhc) en normatieve inventariscomponent (nic) geestelijke gezondheidszorg, forensische zorg en langdurige zorg"
 identifier: "BWBR0051622"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051622"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051622"
+soort: "zbo"
+stam_id: "17554383"
+version_id: "30975322"
+internal_id: "C44361461"
+label_id: "17455584"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051622/2026-01-01/0"
+intitule_bron: "Stcrt.2025-34787"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-10-07"
+intitule_published: "2025-10-15"
+intitule_in_force: "2025-10-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-34787"
+original_signed_date: "2025-10-07"
+original_published_date: "2025-10-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-34787"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051622&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051622&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2025-10-07"
+entry_into_force: "2026-01-01"
 ---
-
 # Beleidsregel normatieve huisvestingscomponent (nhc) en normatieve inventariscomponent (nic) geestelijke gezondheidszorg, forensische zorg en langdurige zorg
 
 **Grondslag**
@@ -16,7 +41,7 @@ Gelet op [artikel 57, eerste lid, onderdelen b en c, van de Wet marktordening ge
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
@@ -38,17 +63,17 @@ In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
 Voor overige Wlz-gerelateerde begrippen die in deze beleidsregel gebruikt worden, maar niet hierboven vermeld staan, wordt verwezen naar de Beleidsregel definities Wlz.
 
-#### Artikel 2. Doel van de beleidsregel
+##### Artikel 2. Doel van de beleidsregel
 
 Het doel van deze beleidsregel is om vast te leggen op welke wijze de NZa de normatieve huisvestingscomponent (nhc) en normatieve inventariscomponent (nic) bepaalt als onderdeel van de integrale tarieven voor zorg geleverd door zorgaanbieders van geneeskundige ggz, fz en/of zorg binnen de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917).
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze beleidsregel is van toepassing op de zorg of dienst als omschreven bij of krachtens de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) (Wlz) die wordt geleverd door zorgaanbieders voor zover het gaat om zorg met verblijf en om het gedeelte dagbesteding in een volledig pakket thuis (vpt).
 
 Deze beleidsregel is tevens van toepassing op de geneeskundige geestelijke gezondheidszorg (ggz) als omschreven bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) (Zvw) en de [Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634) (Wfz) voor zover het gaat om verblijfsdagen en om het gedeelte dagbesteding in een volledig pakket thuis.
 
-#### Artikel 4. Uitgangspunten nhc
+##### Artikel 4. Uitgangspunten nhc
 
 De in de integrale tarieven opgenomen nhc is berekend op basis van de door TNO opgestelde investeringsbedragen, waarbij is uitgegaan van de onderstaande uitgangspunten:
 
@@ -96,7 +121,7 @@ De in de integrale tarieven opgenomen nhc is berekend op basis van de door TNO o
 
 - 10. Verduurzaming vastgoed en brandveiligheid De investeringsbedragen zijn vanaf 1 januari 2019 verhoogd vanwege aangescherpte eisen in het kadervan duurzaamheid. Voor de geneeskundige ggz en de forensische zorg bedraagt de verhoging eenmalig 4,1% over het investeringsbedrag exclusief grond. Voor de langdurige zorg is eerder besloten deze extra investeringsmiddelen (€ 120 miljoen) gespreid over een periode van 30 jaar (2019 tot 2049) toe te voegen aan de nhc. Daarom worden de investeringsbedragen, exclusief grond, vanaf 2019 jaarlijks verhoogd met 0,18%. Dit resulteerde in een jaarlijkse verhoging van de nhc met 0,16% vanaf 2019 tot en met 2023. In 2024 is de resterende geplande verhoging van € 100 miljoen (voor 2024 tot 2049) naar voren gehaald en toegevoegd aan de nhc, conform de Meerjarige voorlopige Kaderbrief Wlz (2023–2028) met kenmerk 3609771-1049564-LZ. Dit resulteerde in een eenmalige structurele verhoging van de nhc per 2024 met 3,25%. Vanaf 2026 worden voor de ggz, fz en langdurige zorg per prestatie de investeringsbedragen (exclusief grondkosten) verhoogd met 15% wegens wijzigingen in wet- en regelgeving met betrekking tot duurzaamheid en brandveiligheid.
 
-#### Artikel 5. Uitgangspunten nic
+##### Artikel 5. Uitgangspunten nic
 
 De nic is alleen van toepassing op de zzp-prestaties en op de vpt-prestaties met dagbesteding. Bij de bepaling van de hoogte van de nic hanteert de NZa de volgende uitgangspunten:
 
@@ -110,7 +135,7 @@ De nic is alleen van toepassing op de zzp-prestaties en op de vpt-prestaties met
 
 - –. een 100% voorcalculatie van het voorlopige CEP-indexcijfer voor het jaar t.
 
-#### Artikel 6. Integraal tarief
+##### Artikel 6. Integraal tarief
 
 De nhc en nic zijn een onlosmakelijke deel van het gehele integrale tarief.
 
@@ -120,13 +145,13 @@ De nhc geldt in de ggz ([Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450)) 
 
 Het integrale tarief kan worden gedeclareerd op basis van de (tarief)beschikking en de regelgeving die geldt voor de betrokken sector.
 
-#### Artikel 7. Intrekken oude beleidsregel
+##### Artikel 7. Intrekken oude beleidsregel
 
 Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt de [Beleidsregel normatieve huisvestingscomponent (nhc) en normatieve inventariscomponent (nic) geestelijke gezondheidszorg, forensische zorg en langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0050027), met kenmerk BR/REG-25125, ingetrokken.
 
 Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt de al wel gepubliceerde maar nog niet in werking getreden [Beleidsregel normatieve huisvestingscomponent (nhc) en normatieve inventariscomponent (nic) geestelijke gezondheidszorg, forensische zorg en langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0051254), met kenmerk BR/REG-26126, ingetrokken.
 
-#### Artikel 8. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding en citeertitel
+##### Artikel 8. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding en citeertitel
 
 De [Beleidsregel normatieve huisvestingscomponent (nhc) en normatieve inventariscomponent (nic) geestelijke gezondheidszorg ggz, forensische zorg en langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0050027), met kenmerk BR/REG-25125 blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die beleidsregel en die betrekking hebben op de periode waarvoor die beleidsregel gold.
 

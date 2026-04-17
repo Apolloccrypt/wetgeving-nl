@@ -1,13 +1,39 @@
 ---
-title: "Arbeidstijdenbesluit"
+title: "Besluit van 4 december 1995, houdende nadere regels inzake de arbeids- en rusttijden"
 identifier: "BWBR0007687"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007687"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007687"
+soort: "AMvB"
+stam_id: "2553703"
+version_id: "3863182"
+internal_id: "C13578391"
+label_id: "2501614"
+dtd_version: "2.0"
+original_entry_into_force: "2001-04-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007687/2024-01-01/0"
+intitule_bron: "Stb.1995-599"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-12-04"
+intitule_published: "1995-12-19"
+intitule_in_force: "1995-12-19"
+intitule_status: "goed"
+original_publication: "Stb.2001-169"
+original_signed_date: "2001-03-23"
+original_published_date: "2001-04-10"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2001-169"
+entry_into_force_date: "2001-04-11"
+jci_1_3: "jci1.3:c:BWBR0007687&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0007687&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Arbeidstijdenbesluit"
+signed_date: "2001-03-23"
+entry_into_force: "2001-04-11"
 ---
-
 # Besluit van 4 december 1995, houdende nadere regels inzake de arbeids- en rusttijden
 
 Op voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 11 juli 1995, AV/RV/95/1620;
@@ -26,7 +52,7 @@ Hebben goedgevonden en verstaan:
 
 #### Begrip alternatieve sanctie
 
-#### Artikel 1:1. Begrippen
+##### Artikel 1:1. Begrippen
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -46,13 +72,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Overige begrippen
 
-#### Artikel 1:2
+##### Artikel 1:2
 
 Vervallen
 
 #### Gelijkstelling rusttijd
 
-#### Artikel 1:3
+##### Artikel 1:3
 
 Vervallen
 
@@ -62,7 +88,7 @@ Vervallen
 
 #### Leidinggevenden en hoger personeel
 
-#### Artikel 2.1:1
+##### Artikel 2.1:1
 
 1. De [artikelen 4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=4:2) en [4:3](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=4:3) en de [hoofdstukken 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5) en [6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=6) en de daarop berustende bepalingen zijn niet van toepassing op arbeid verricht door de werknemer van 18 jaar of ouder:
 
@@ -92,7 +118,7 @@ Bij een werknemer die in deeltijd werkt wordt het bedrag naar rato van zijn deel
 
 #### Vrijwilligers, vrijwillige brandweer, sport, wetenschappelijk onderzoek, gezinshuisouder, podiumkunstenaars, medisch specialisten en school- en vakantiekampen
 
-#### Artikel 2.1:2
+##### Artikel 2.1:2
 
 1. De [artikelen 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=4:1), [4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=4:2) en [4:3](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=4:3), [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5) en [hoofdstuk 6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=6) en de daarop berustende bepalingen zijn niet van toepassing op arbeid verricht door de werknemer van 16 jaar of ouder, die vrijwilliger is als bedoeld in [artikel 2, zesde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=2). Voor zover de werknemer, bedoeld in de eerste zin, een jeugdige werknemer is, verricht hij geen arbeid tussen 23.00 uur en 06.00 uur.
 
@@ -118,13 +144,13 @@ Bij een werknemer die in deeltijd werkt wordt het bedrag naar rato van zijn deel
 
 #### Dienst Koninklijk Huis
 
-#### Artikel 2.1:3
+##### Artikel 2.1:3
 
 [Paragraaf 5.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&paragraaf=5.2) en de daarop berustende bepalingen zijn van toepassing op arbeid verricht door een werknemer van 18 jaar of ouder in dienst van de Dienst Koninklijk Huis, tenzij bijzondere omstandigheden om redenen van veiligheid en privacy samenhangend met de leden van het Koninklijk Huis de toepassing van die paragraaf en de daarop berustende bepalingen belemmeren.
 
 #### Handelsondernemingen en kantoren
 
-#### Artikel 2.1:4
+##### Artikel 2.1:4
 
 1. [Artikel 5:5, tweede lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:5), is niet van toepassing op arbeid verricht door werknemers in handelsondernemingen en kantoren.
 
@@ -134,13 +160,13 @@ Bij een werknemer die in deeltijd werkt wordt het bedrag naar rato van zijn deel
 
 #### Geestelijk ambt
 
-#### Artikel 2.1:5
+##### Artikel 2.1:5
 
 [Artikel 5:6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:6) is niet van toepassing op arbeid verricht door de werknemer in verband met het vervullen van een geestelijk ambt alsmede op arbeid verricht door de werknemer die hem in de uitoefening van dat ambt bijstaat.
 
 #### Loonbepaling
 
-#### Artikel 2.1:6
+##### Artikel 2.1:6
 
 De hoogte van het bedrag, bedoeld in [artikel 2.1:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=2&paragraaf=2.1&artikel=2.1:5&z=2006-06-01&g=2006-06-01), bedraagt:
 
@@ -152,25 +178,25 @@ De hoogte van het bedrag, bedoeld in [artikel 2.1:5, eerste lid](https://wetten.
 
 #### Podiumkunstenaars
 
-#### Artikel 2.1:7
+##### Artikel 2.1:7
 
 De[artikelen 4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=4:2) en [4:3](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=4:3) en de[hoofdstukken 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=6) van de wet en de daarop berustende bepalingen zijn niet van toepassing op arbeid verricht door de werknemer van 18 jaar of ouder, die uitsluitend of in hoofdzaak als acteur, artiest of musicus in zijn levensonderhoud voorziet.
 
 #### School- en vakantiekampen
 
-#### Artikel 2.1:8
+##### Artikel 2.1:8
 
 De[artikelen 4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=4:2) en [4:3](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=4:3) en de[hoofdstukken 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5) en [6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=6) en de daarop berustende bepalingen zijn op ten hoogste 14 dagen in elke periode van 26 achtereenvolgende weken niet van toepassing op werknemers van 18 jaar of ouder die arbeid verrichten welke bestaat uit het leiden of begeleiden van leerlingen onderscheidenlijk personen tijdens schoolkampen of -reizen onderscheidenlijk vakantiedagen of -kampen, welke in het kader van de onderwijsinstelling, een accommodatie waarin verblijf als bedoeld in [artikel 4 van het Uitvoeringsbesluit Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0017751&artikel=4) wordt geboden, of een inrichting voor verpleging of verzorging worden georganiseerd en welke arbeid buiten die instelling, accommodatie, onderscheidenlijk inrichting wordt verricht, mits die werknemer na het verrichten van deze arbeid een onafgebroken rusttijd heeft van ten minste 36 uren, welke rusttijd dient in te gaan uiterlijk op de derde dag na terugkeer van de bedoelde schoolkampen of -reizen onderscheidenlijk vakantiedagen of -kampen.
 
 #### Sport
 
-#### Artikel 2.1:9
+##### Artikel 2.1:9
 
 De[artikelen 4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=4:2) en [4:3](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=4:3) en de[hoofdstukken 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=6) van de wet en de daarop berustende bepalingen zijn niet van toepassing op arbeid verricht door de werknemer van 18 jaar of ouder, die uitsluitend of in hoofdzaak door middel van het beoefenen van sport in zijn levensonderhoud voorziet.
 
 #### Vrijwillige brandweer en politie
 
-#### Artikel 2.1:10
+##### Artikel 2.1:10
 
 1. De[artikelen 5:9, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:9), [5:11, derde lid, onderdeel **d**, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:11), en [5:15, met uitzondering van het vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:15), van de wet zijn niet van toepassing op arbeid verricht door de werknemer van 18 jaar of ouder die zich als vrijwilliger beschikbaar heeft gesteld voor de gemeentelijke brandweer en als zodanig door burgemeester en wethouders is aangesteld en werkzaam is.
 
@@ -178,19 +204,19 @@ De[artikelen 4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=4:2) e
 
 #### Wetenschappelijk onderzoek
 
-#### Artikel 2.1:11
+##### Artikel 2.1:11
 
 De[artikelen 4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=4:2) en [4:3](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=4:3) en de[hoofdstukken 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=6) van de wet en de daarop berustende bepalingen zijn niet van toepassing op arbeid verricht door de werknemer van 18 jaar of ouder, die wetenschappelijk onderzoek verricht, voor zover de aard van dit onderzoek of de in het onderzoek toe te passen processen dit noodzakelijk maken.
 
 #### Specialisten
 
-#### Artikel 2.1:12
+##### Artikel 2.1:12
 
 De[artikelen 4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=4:2) en [4:3](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=4:3) en de[hoofdstukken 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=6) van de wet en de daarop berustende bepalingen zijn niet van toepassing op arbeid verricht door de werknemer van 18 jaar of ouder, die werkzaam is als medisch specialist, als huisarts, als verpleeghuisarts of als sociaal geneeskundige en als zodanig staat geregistreerd in één van de registers van de Koninklijke Nederlandsche Maatschappij tot bevordering der Geneeskunst, dan wel als tandheelkundig specialist en als zodanig staat ingeschreven in het specialistenregister van de Nederlandse Maatschappij tot bevordering der Tandheelkunde.
 
 #### Dienst Koninklijk Huis
 
-#### Artikel 2.1:13
+##### Artikel 2.1:13
 
 [Paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&paragraaf=5.2) van de wet en de daarop berustende bepalingen zijn van toepassing op arbeid verricht door een werknemer van 18 jaar of ouder in dienst van de Dienst Koninklijk Huis, tenzij bijzondere omstandigheden om redenen van veiligheid en privacy samenhangend met de leden van het Koninklijk Huis de toepassing van die paragraaf en de daarop berustende bepalingen belemmeren.
 
@@ -198,7 +224,7 @@ De[artikelen 4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=4:2) e
 
 #### Toepasselijkheid van de paragraaf en definitie
 
-#### Artikel 2.2:1
+##### Artikel 2.2:1
 
 [Paragraaf 5.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&paragraaf=5.1) en - voor zover aangeduid als overtredingen - de [paragrafen 5.2 tot en met 5.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&paragraaf=5.2) en de daarop berustende bepalingen zijn van overeenkomstige toepassing op de persoon, die zonder werkgever of werknemer te zijn in de zin van de wet, arbeid verricht op of vanaf of ten behoeve van een mijnbouwwerk of een windpark.
 
@@ -208,11 +234,11 @@ De[artikelen 4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=4:2) e
 
 #### Samenloop en mededelingsverplichting
 
-#### Artikel 3.1:1
+##### Artikel 3.1:1
 
 De werkgever zorgt er voor, dat op een bemand mijnbouwwerk of windpark de op dat mijnbouwwerk of windpark betrekking hebbende deugdelijke registratie, bedoeld in [artikel 4:3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=4:3) aanwezig is. Een afschrift van deze registratie dient na ten hoogste 6 weken, gerekend vanaf de datum waarop de desbetreffende gegevens en bescheiden betrekking hebben, aanwezig te zijn in het hoofdkantoor van de werkgever in Nederland.
 
-#### Artikel 3.1:2
+##### Artikel 3.1:2
 
 1. Indien [artikel 5.14:4](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:4&z=2024-01-01&g=2024-01-01) of [5.14:4a](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:4a&z=2024-01-01&g=2024-01-01) van toepassing of van overeenkomstige toepassing is, zorgt de werkgever er voor dat de registratie van de arbeids- en rusttijden van de werknemer plaatsvindt volgens een door Onze Minister vastgesteld model.
 
@@ -224,7 +250,7 @@ De werkgever zorgt er voor, dat op een bemand mijnbouwwerk of windpark de op dat
 
 #### § 3.1. Registratieverplichtingen
 
-#### Artikel 3.2:1
+##### Artikel 3.2:1
 
 De werkgever en de persoon als bedoeld in [artikel 2:7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=2:7), van de wet bewaart de gegevens en bescheiden met betrekking tot de in [artikel 4:3](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=4:3) van de wet neergelegde registratieverplichting ten minste 52 weken, gerekend vanaf de datum waarop de desbetreffende gegevens en bescheiden betrekking hebben.
 
@@ -234,7 +260,7 @@ De werkgever en de persoon als bedoeld in [artikel 2:7, eerste lid](https://wett
 
 #### Arbeid op de feestdag
 
-#### Artikel 4.1:1
+##### Artikel 4.1:1
 
 1. Deze paragraaf is uitsluitend van toepassing op arbeid verricht in het kader van een alternatieve sanctie.
 
@@ -250,7 +276,7 @@ De werkgever en de persoon als bedoeld in [artikel 2:7, eerste lid](https://wett
 
 #### Toepasselijkheid van de paragraaf
 
-#### Artikel 4.1:2
+##### Artikel 4.1:2
 
 1. In afwijking van [artikel 5:7, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:7) kan dit artikel worden toegepast.
 
@@ -258,7 +284,7 @@ De werkgever en de persoon als bedoeld in [artikel 2:7, eerste lid](https://wett
 
 #### Toepasselijkheid van de paragraaf
 
-#### Artikel 4.1:3
+##### Artikel 4.1:3
 
 1. [Artikel 5:15, eerste tot en met vierde lid en zesde en zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:15) is niet van toepassing op arbeid verricht in het kader van een alternatieve sanctie.
 
@@ -266,7 +292,7 @@ De werkgever en de persoon als bedoeld in [artikel 2:7, eerste lid](https://wett
 
 #### Rusttijd en arbeidstijd
 
-#### Artikel 4.1:4
+##### Artikel 4.1:4
 
 De werknemer die bij een werkgever arbeid verricht in het kader van een alternatieve sanctie, verstrekt aan die werkgever uit eigen beweging tijdig de voor de naleving van de wet en de daarop berustende bepalingen nodige inlichtingen betreffende zijn arbeid.
 
@@ -274,7 +300,7 @@ De werknemer die bij een werkgever arbeid verricht in het kader van een alternat
 
 #### Toepasselijkheid van de paragraaf
 
-#### Artikel 4.2:1
+##### Artikel 4.2:1
 
 1. In afwijking van de [artikelen 5:7, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:7), en [5:8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:8) kan dit artikel worden toegepast.
 
@@ -284,13 +310,13 @@ De werknemer die bij een werkgever arbeid verricht in het kader van een alternat
 
 #### 7/5-regeling
 
-#### Artikel 4.2:2
+##### Artikel 4.2:2
 
 Vervallen
 
 #### Arbeid op zondag
 
-#### Artikel 4.2:3
+##### Artikel 4.2:3
 
 Vervallen
 
@@ -298,7 +324,7 @@ Vervallen
 
 #### Begrip feestdag
 
-#### Artikel 4.3:1
+##### Artikel 4.3:1
 
 1. In afwijking van de [artikelen 5:7, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:7), en [artikel 5:8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:8) kan dit artikel worden toegepast.
 
@@ -308,7 +334,7 @@ Vervallen
 
 #### Rusttijd en arbeidstijd
 
-#### Artikel 4.4:1
+##### Artikel 4.4:1
 
 1. Ten aanzien van de arbeidstijd per dienst onderscheidenlijk per nachtdienst en de onafgebroken rusttijd kan, in afwijking van [paragraaf 5.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&paragraaf=5.2) alsmede de [paragrafen 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.2&z=2024-01-01&g=2024-01-01) en [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.7&z=2024-01-01&g=2024-01-01) en [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&z=2024-01-01&g=2024-01-01), dit artikel worden toegepast.
 
@@ -320,31 +346,31 @@ Vervallen
 
 #### Afwijking consignatie bij pauze
 
-#### Artikel 4.5:1
+##### Artikel 4.5:1
 
 Vervallen
 
 #### Rusttijd en arbeidstijd
 
-#### Artikel 4.5:2
+##### Artikel 4.5:2
 
 Vervallen
 
 #### Rusttijd en arbeidstijd
 
-#### Artikel 4.5:3
+##### Artikel 4.5:3
 
 Vervallen
 
 #### 7/5-regeling
 
-#### Artikel 4.5:4
+##### Artikel 4.5:4
 
 Vervallen
 
 #### Aanwezigheidsdienst
 
-#### Artikel 4.5:5
+##### Artikel 4.5:5
 
 Vervallen
 
@@ -352,7 +378,7 @@ Vervallen
 
 #### Arbeid op zondag
 
-#### Artikel 4.6:1
+##### Artikel 4.6:1
 
 1. [Artikel 5:4, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:4) is niet van toepassing, indien:
 
@@ -370,7 +396,7 @@ Vervallen
 
 #### Pauze
 
-#### Artikel 4.6:2
+##### Artikel 4.6:2
 
 1. [Artikel 5:9, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:9) is niet van toepassing, indien de aard van de arbeid het noodzakelijk maakt dat de werknemer tijdens een pauze op oproep zo spoedig mogelijk de bedongen arbeid verricht en dit door het op een andere wijze organiseren van de arbeid redelijkerwijs niet is te voorkomen.
 
@@ -380,7 +406,7 @@ Vervallen
 
 #### § 4.9. Referentieperiode
 
-#### Artikel 4.7:1
+##### Artikel 4.7:1
 
 1. [Artikel 5:8, eerste, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:8) is niet van toepassing, indien dit artikel wordt toegepast.
 
@@ -398,7 +424,7 @@ Vervallen
 
 #### Referentieperiode nachtarbeid
 
-#### Artikel 4.8:1
+##### Artikel 4.8:1
 
 1. De [artikelen 5:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:3), [5:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:5), [5:7, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:7), en [5:8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:8) zijn niet van toepassing, indien de aard van de arbeid het noodzakelijk maakt dat de arbeid regelmatig of voor een aanzienlijk deel in een aanwezigheidsdienst wordt verricht en dit door het op een andere wijze organiseren van de arbeid redelijkerwijs niet is te voorkomen.
 
@@ -424,7 +450,7 @@ Vervallen
 
 #### Afwijking consignatie
 
-#### Artikel 4.8:2
+##### Artikel 4.8:2
 
 1. Het tweede lid kan uitsluitend bij een aanwezigheidsdienst worden toegepast, indien de werknemer daarmee uitdrukkelijk schriftelijk instemt. Deze schriftelijke instemming geldt voor een periode van 26 achtereenvolgende weken en wordt telkens stilzwijgend voor eenzelfde periode verlengd, tenzij de werknemer uitdrukkelijk te kennen geeft met een dergelijke verlenging niet in te stemmen. Het door de werknemer niet instemmen met de stilzwijgende verlenging maakt hij tijdig aan de werkgever kenbaar.
 
@@ -432,17 +458,17 @@ Vervallen
 
 #### Begrip baggerwerkzaamheden
 
-#### Artikel 4.8:3
+##### Artikel 4.8:3
 
 Vervallen
 
-#### Artikel 4.8:4
+##### Artikel 4.8:4
 
 Vervallen
 
 #### § 4.9. Referentieperiode
 
-#### Artikel 4.9:1
+##### Artikel 4.9:1
 
 1. [Artikel 5:7, tweede lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:7) is niet van toepassing, indien:
 
@@ -460,19 +486,19 @@ Vervallen
 
 #### Afwijking consignatie
 
-#### Artikel 5.1:1
+##### Artikel 5.1:1
 
 Voor de toepassing van deze paragraaf wordt verstaan onder baggerwerkzaamheden: werkzaamheden die bestaan uit het baggeren, zuigen, opspuiten, verplaatsen of winnen van materialen voor industriële, bouwkundige of andere doeleinden en de direct daarmee samenhangende werkzaamheden.
 
 #### Begrip baggerwerkzaamheden
 
-#### Artikel 5.1:2
+##### Artikel 5.1:2
 
 Deze paragraaf is uitsluitend van toepassing op baggerwerkzaamheden op het Nederlands territoir, verricht door een werknemer van 18 jaar of ouder die geen zeevarende als bedoeld in [artikel 6.1:2 van het Arbeidstijdenbesluit vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&artikel=6.1:2) of bemanningslid als bedoeld in [artikel 1, eerste lid, van de Binnenvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=1) is.
 
 #### Toepasselijkheid van de paragraaf
 
-#### Artikel 5.1:3
+##### Artikel 5.1:3
 
 1. De [artikelen 5:7, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:7), en [5:8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:8) zijn niet van toepassing, indien dit artikel wordt toegepast.
 
@@ -494,13 +520,13 @@ Deze paragraaf is uitsluitend van toepassing op baggerwerkzaamheden op het Neder
 
 #### Consignatie
 
-#### Artikel 5.1:4
+##### Artikel 5.1:4
 
 Vervallen
 
 #### Arbeid in nachtdienst
 
-#### Artikel 5.1:5
+##### Artikel 5.1:5
 
 Vervallen
 
@@ -508,25 +534,25 @@ Vervallen
 
 #### Consignatie vrijwillige brandweer en samenloop
 
-#### Artikel 5.2:1
+##### Artikel 5.2:1
 
 Deze paragraaf is uitsluitend van toepassing op arbeid van werknemers, die als lid van de operationele teams onder verantwoordelijkheid van Rijkswaterstaat, in de periode van 1 oktober tot en met 15 april zijn belast met de bediening van beweegbare stormvloedkeringen.
 
 #### Consignatie commandant of ondercommandant vrijwillige brandweer
 
-#### Artikel 5.2:2
+##### Artikel 5.2:2
 
 [Artikel 5:9, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:9) is niet van toepassing in de periode van 1 oktober tot en met 15 april.
 
 #### Aanwezigheidsdienst brandweer
 
-#### Artikel 5.2:3
+##### Artikel 5.2:3
 
 Vervallen
 
 #### Aanwezigheidsdienst vrijwillige brandweer
 
-#### Artikel 5.2:4
+##### Artikel 5.2:4
 
 Vervallen
 
@@ -534,7 +560,7 @@ Vervallen
 
 #### Toepasselijkheid van de paragraaf
 
-#### Artikel 5.3:1
+##### Artikel 5.3:1
 
 Deze paragraaf is uitsluitend van toepassing op arbeid verricht door de werknemer van 18 jaar of ouder:
 
@@ -544,7 +570,7 @@ Deze paragraaf is uitsluitend van toepassing op arbeid verricht door de werkneme
 
 #### Arbeid in nachtdienst
 
-#### Artikel 5.3:2
+##### Artikel 5.3:2
 
 1. [Artikel 5:9, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:9) is niet van toepassing, indien het tweede lid wordt toegepast.
 
@@ -554,7 +580,7 @@ Deze paragraaf is uitsluitend van toepassing op arbeid verricht door de werkneme
 
 #### Jeugdige werknemers in opleiding
 
-#### Artikel 5.3:3
+##### Artikel 5.3:3
 
 1. Dit artikel is uitsluitend van toepassing op een werknemer die in de functie van commandant of ondercommandant als vrijwillige brandweer consignatie is opgelegd.
 
@@ -564,7 +590,7 @@ Deze paragraaf is uitsluitend van toepassing op arbeid verricht door de werkneme
 
 4. [Artikel 5:9, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:9) is niet van toepassing op een werknemer als bedoeld in het eerste lid.
 
-#### Artikel 5.3:4
+##### Artikel 5.3:4
 
 1. Dit artikel is niet van toepassing op de werknemer die als vrijwillige brandweer arbeid verricht.
 
@@ -576,13 +602,13 @@ Deze paragraaf is uitsluitend van toepassing op arbeid verricht door de werkneme
 
 #### Jeugdige werknemers in opleiding
 
-#### Artikel 5.4:1
+##### Artikel 5.4:1
 
 Deze paragraaf is uitsluitend van toepassing op arbeid“arbeid” moet zijn “arbeid, die” de werknemer verricht en die die“die die” moet zijn “die” bestaat uit het bakken van brood en banket en de direct daarmee samenhangende werkzaamheden.
 
 #### Permanente nachtarbeid
 
-#### Artikel 5.4:2
+##### Artikel 5.4:2
 
 1. [Artikel 5:8, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:8) is niet van toepassing, indien dit artikel wordt toegepast.
 
@@ -590,7 +616,7 @@ Deze paragraaf is uitsluitend van toepassing op arbeid“arbeid” moet zijn “
 
 3. Toepassing van dit artikel is uitsluitend mogelijk bij collectieve regeling. Elk beding waarbij wordt afgeweken van de vorige zin of het tweede lid, is nietig.
 
-#### Artikel 5.4:3
+##### Artikel 5.4:3
 
 1. Dit artikel is uitsluitend van toepassing op arbeid verricht in nachtdienst door een jeugdige werknemer die een opleiding volgt tot brood- en banketbakker, tot broodbakker of tot leidinggevende in de bakkerij door middel van hetzij een beroepsbegeleidende hetzij een beroepsopleidende leerweg in het kader van de [Wet Educatie en Beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625), voorzover die arbeid noodzakelijk is in het kader van die opleiding.
 
@@ -614,13 +640,13 @@ Deze paragraaf is uitsluitend van toepassing op arbeid“arbeid” moet zijn “
 
 #### Toepasselijkheid van de paragraaf
 
-#### Artikel 5.5:1
+##### Artikel 5.5:1
 
 Deze paragraaf is uitsluitend van toepassing op werkzaamheden, verricht door een werknemer van 18 jaar of ouder, in het kader van sneeuw- en gladheidsbestrijding in verband met de veiligheid op verkeerswegen of de vliegveiligheid van het luchtverkeer in de periode van 1 november tot 1 april.
 
 #### Jeugdige werknemers
 
-#### Artikel 5.5:2
+##### Artikel 5.5:2
 
 1. [Artikel 5:9, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:9) is niet van toepassing, indien dit artikel wordt toegepast.
 
@@ -632,13 +658,13 @@ Deze paragraaf is uitsluitend van toepassing op werkzaamheden, verricht door een
 
 #### Toepasselijkheid van de paragraaf
 
-#### Artikel 5.6:1
+##### Artikel 5.6:1
 
 Deze paragraaf is uitsluitend van toepassing op arbeid verricht door defensiepersoneel dat als zodanig werkzaam is.
 
 #### Toepasselijkheid van de paragraaf
 
-#### Artikel 5.6:2
+##### Artikel 5.6:2
 
 1. Dit artikel is uitsluitend van toepassing op arbeid verricht door defensiepersoneel als bedoeld in [artikel 1:7, onderdeel b, onder 1° en 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=1:7).
 
@@ -648,29 +674,29 @@ Deze paragraaf is uitsluitend van toepassing op arbeid verricht door defensieper
 
 #### Arbeid in nachtdienst
 
-#### Artikel 5.6:3
+##### Artikel 5.6:3
 
 Vervallen
 
 #### Jeugdige werknemers
 
-#### Artikel 5.6:4
+##### Artikel 5.6:4
 
 Vervallen
 
 #### Arbeid op zaterdag en zondag
 
-#### Artikel 5.6:5
+##### Artikel 5.6:5
 
 Vervallen
 
 #### Aanwezigheidsdienst
 
-#### Artikel 5.6:6
+##### Artikel 5.6:6
 
 Vervallen
 
-#### Artikel 5.6:7
+##### Artikel 5.6:7
 
 Vervallen
 
@@ -678,7 +704,7 @@ Vervallen
 
 #### Militaire luchtvaart
 
-#### Artikel 5.7:1. Toepasselijkheid van de paragraaf en definitie
+##### Artikel 5.7:1. Toepasselijkheid van de paragraaf en definitie
 
 1. Deze paragraaf is uitsluitend van toepassing op arbeid verricht door personenchauffeurs.
 
@@ -686,7 +712,7 @@ Vervallen
 
 #### Toepasselijkheid van de paragraaf
 
-#### Artikel 5.7:2. Arbeids- en rusttijden
+##### Artikel 5.7:2. Arbeids- en rusttijden
 
 1. De [artikelen 5:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:3), [5:7, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:7), [5:8, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:8), en [5:9, derde tot en met zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:9) zijn niet van toepassing, indien dit artikel wordt toegepast.
 
@@ -704,7 +730,7 @@ Vervallen
 
 #### Toepasselijkheid van de paragraaf
 
-#### Artikel 5.8:1
+##### Artikel 5.8:1
 
 1. Dit artikel is uitsluitend van toepassing op uitgaansgelegenheden zoals cafés, casino’s en discotheken waar uitsluitend of in hoofdzaak werkzaamheden worden verricht in een nachtdienst.
 
@@ -716,13 +742,13 @@ Vervallen
 
 #### Arbeid in nachtdienst
 
-#### Artikel 5.8:2
+##### Artikel 5.8:2
 
 Vervallen
 
 #### Arbeid in nachtdienst
 
-#### Artikel 5.8:3
+##### Artikel 5.8:3
 
 Vervallen
 
@@ -730,19 +756,19 @@ Vervallen
 
 #### Toepasselijkheid van de paragraaf
 
-#### Artikel 5.9:1
+##### Artikel 5.9:1
 
 Vervallen
 
 #### Piket
 
-#### Artikel 5.9:2
+##### Artikel 5.9:2
 
 Vervallen
 
 #### Arbeid in nachtdienst
 
-#### Artikel 5.9:3
+##### Artikel 5.9:3
 
 Vervallen
 
@@ -750,7 +776,7 @@ Vervallen
 
 #### Arbeids- en rusttijden
 
-#### Artikel 5.10:1
+##### Artikel 5.10:1
 
 1. Deze paragraaf is uitsluitend van toepassing op arbeid verricht door een werknemer van 18 jaar of ouder, die arbeid van huishoudelijke aard verricht in of ten behoeve van een particuliere huishouding, waarbij die werknemer in de particuliere huishouding inwoont.
 
@@ -758,7 +784,7 @@ Vervallen
 
 #### Toepasselijkheid van de paragraaf
 
-#### Artikel 5.10:2
+##### Artikel 5.10:2
 
 1. De [paragrafen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.1&z=2024-01-01&g=2024-01-01) en [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.2&z=2024-01-01&g=2024-01-01) en de daarop berustende bepalingen en [hoofdstuk 6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=6) alsmede [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&z=2024-01-01&g=2024-01-01), met uitzondering van deze paragraaf, zijn niet van toepassing.
 
@@ -780,13 +806,13 @@ Vervallen
 
 #### Toepasselijkheid van de paragraaf
 
-#### Artikel 5.10:3
+##### Artikel 5.10:3
 
 De werknemer verricht op ten minste 4 zondagen in elke periode van 13 achtereenvolgende weken geen arbeid.
 
 #### Toepasselijkheid van de paragraaf
 
-#### Artikel 5.10:4
+##### Artikel 5.10:4
 
 1. De werknemer heeft een onafgebroken rusttijd van ten minste 9 uren in elke aaneengesloten tijdruimte van 24 uren.
 
@@ -794,19 +820,19 @@ De werknemer verricht op ten minste 4 zondagen in elke periode van 13 achtereenv
 
 #### Dagelijkse onafgebroken rusttijd
 
-#### Artikel 5.10:5
+##### Artikel 5.10:5
 
 De werknemer verricht ten hoogste in elke periode van 4 achtereenvolgende weken gemiddeld 50 uren per week en in elke periode van 13 achtereenvolgende weken gemiddeld 45 uren per week arbeid.
 
 #### Toepasselijkheid van de paragraaf
 
-#### Artikel 5.10:6
+##### Artikel 5.10:6
 
 De arbeid van de werknemer wordt na ten hoogste 4 uren aaneengesloten arbeid in een dienst onderbroken door een pauze.
 
 #### Dagelijkse onafgebroken rusttijd
 
-#### Artikel 5.10:7
+##### Artikel 5.10:7
 
 Elk beding waarbij ten nadele van de werknemer wordt afgeweken van deze paragraaf is nietig.
 
@@ -814,19 +840,19 @@ Elk beding waarbij ten nadele van de werknemer wordt afgeweken van deze paragraa
 
 #### Toepasselijkheid van de paragraaf
 
-#### Artikel 5.11:1
+##### Artikel 5.11:1
 
 Deze paragraaf is uitsluitend van toepassing op arbeid verricht door een werknemer van 18 jaar of ouder als bedoeld in [artikel 2, onderdeel c, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2).
 
 #### Nachtarbeid
 
-#### Artikel 5.11:2
+##### Artikel 5.11:2
 
 [Artikel 5:15, eerste tot en met vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:15) is niet van toepassing.
 
 #### Nietigheid
 
-#### Artikel 5.11:3
+##### Artikel 5.11:3
 
 1. De [artikelen 5:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:3), [5:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:5), en [5:8, eerste en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:8) zijn ten hoogste eenmaal in elke aaneengesloten periode van 7 maal 24 uren niet van toepassing, indien de werkgever de arbeid zodanig organiseert, dat de werknemer in elke aaneengesloten periode van 7 maal 24 uren:
 
@@ -844,13 +870,13 @@ Deze paragraaf is uitsluitend van toepassing op arbeid verricht door een werknem
 
 #### Arbeids- en rusttijden in een niet-bestendig en -regelmatig arbeidstijdpatroon
 
-#### Artikel 5.12:1
+##### Artikel 5.12:1
 
 Met uitsluiting van hetgeen in de [paragrafen 5.15](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.15&z=2024-01-01&g=2024-01-01) en [5.16](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.16&z=2024-01-01&g=2024-01-01) is bepaald, is deze paragraaf uitsluitend van toepassing op arbeid, die bestaat uit werkzaamheden met betrekking tot het totstandkomen en het uitzenden van audio-, visuele of audio-visuele producties alsmede de direct daarmee samenhangende werkzaamheden, verricht door werknemers van 18 jaar of ouder.
 
 #### Aansluiting bestendig en regelmatig arbeidspatroon met niet-bestendig en regelmatig arbeidstijdpatroon
 
-#### Artikel 5.12:2
+##### Artikel 5.12:2
 
 1. [Artikel 5:3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:3) is niet van toepassing, indien dit artikel wordt toegepast.
 
@@ -868,13 +894,13 @@ Met uitsluiting van hetgeen in de [paragrafen 5.15](https://wetten.overheid.nl/j
 
 #### Arbeids- en rusttijden in een niet-bestendig en -regelmatig arbeidstijdpatroon
 
-#### Artikel 5.13:1
+##### Artikel 5.13:1
 
 Deze paragraaf is uitsluitend van toepassing op een werknemer van 18 jaar of ouder die arbeid verricht in of op een spoorvoertuig, gebezigd voor vervoer van personen over lokale spoorwegen, aangewezen krachtens [artikel 2, eerste lid, van de Wet lokaal spoor](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=2).
 
 #### Pauze
 
-#### Artikel 5.13:2
+##### Artikel 5.13:2
 
 1. [Artikel 5:8, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:8) is niet van toepassing, indien dit artikel wordt toegepast.
 
@@ -892,7 +918,7 @@ Deze paragraaf is uitsluitend van toepassing op een werknemer van 18 jaar of oud
 
 #### Consignatie
 
-#### Artikel 5.13:3
+##### Artikel 5.13:3
 
 In afwijking van [paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&paragraaf=5.2) van de wet geldt voor de in die paragraaf aangegeven referentieperiode voor de arbeidstijd van 13 achtereenvolgende weken een referentieperiode van 52 achtereenvolgende weken.
 
@@ -900,7 +926,7 @@ In afwijking van [paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0007671
 
 #### Duikwerkzaamheden
 
-#### Artikel 5.14:1
+##### Artikel 5.14:1
 
 1. Deze paragraaf is van toepassing op werknemers van 18 jaar of ouder die arbeid verrichten:
 
@@ -912,7 +938,7 @@ In afwijking van [paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0007671
 
 #### Saturatieduiken
 
-#### Artikel 5.14:2
+##### Artikel 5.14:2
 
 1. Dit artikel is uitsluitend van toepassing op een werknemer die arbeid verricht op of vanaf een mijnbouwinstallatie.
 
@@ -938,7 +964,7 @@ In afwijking van [paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0007671
 
 8. Indien het zevende lid, eerste zin, van toepassing is, organiseert de werkgever de arbeid zodanig, dat de werknemer die in een bestendig en regelmatig arbeidstijdpatroon werkzaam is, in een periode van 52 aaneengesloten weken ten hoogste gemiddeld 40 uren per week arbeid verricht.
 
-#### Artikel 5.14:3
+##### Artikel 5.14:3
 
 1. Dit artikel is uitsluitend van toepassing op een werknemer die werkzaamheden in een bestendig en regelmatig arbeidspatroon verricht op een mijnbouwwerk, niet zijnde een mijnbouwinstallatie.
 
@@ -950,7 +976,7 @@ In afwijking van [paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0007671
 
 #### Toepasselijkheid van de paragraaf
 
-#### Artikel 5.14:4
+##### Artikel 5.14:4
 
 1. Voor de toepassing van dit artikel wordt verstaan onder een niet-bestendig of -regelmatig arbeidstijdpatroon een arbeidstijdpatroon waarin een werknemer gedurende ten hoogste 6 weken werkzaam is op dezelfde arbeidsplaats.
 
@@ -972,7 +998,7 @@ In afwijking van [paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0007671
 
 #### Arbeids- en rusttijden
 
-#### Artikel 5.14:5
+##### Artikel 5.14:5
 
 1. [Artikel 5:4, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:4) is niet van toepassing, indien de [artikelen 5.14:2 tot en met 5.14:4](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:2&z=2024-01-01&g=2024-01-01) worden toegepast.
 
@@ -980,7 +1006,7 @@ In afwijking van [paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0007671
 
 #### Toepasselijkheid van de paragraaf
 
-#### Artikel 5.14:6
+##### Artikel 5.14:6
 
 1. [Artikel 5:9, tweede tot en met zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:9) is niet van toepassing, indien dit artikel wordt toegepast.
 
@@ -992,7 +1018,7 @@ In afwijking van [paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0007671
 
 #### Arbeids- en rusttijden
 
-#### Artikel 5.14:7
+##### Artikel 5.14:7
 
 1. Dit artikel is uitsluitend van toepassing op de werknemer die duikwerkzaamheden en de direct daarmee samenhangende werkzaamheden verricht op of vanaf of ten behoeve van een mijnbouwinstallatie.
 
@@ -1014,7 +1040,7 @@ In afwijking van [paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0007671
 
 #### Toepasselijkheid van de paragraaf
 
-#### Artikel 5.14:8
+##### Artikel 5.14:8
 
 1. Dit artikel is uitsluitend van toepassing op arbeid die bestaat uit saturatieduiken en de direct daarmee samenhangende werkzaamheden, verricht ten behoeve van een mijnbouwinstallatie.
 
@@ -1032,7 +1058,7 @@ In afwijking van [paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0007671
 
 #### Arbeids- en rusttijden windpark
 
-#### Artikel 5.14:9
+##### Artikel 5.14:9
 
 1. Dit artikel is uitsluitend van toepassing op arbeid die bestaat uit saturatieduiken en de direct daarmee samenhangende werkzaamheden, verricht ten behoeve van een mijnbouwinstallatie door een werknemer van 18 jaar of ouder.
 
@@ -1050,7 +1076,7 @@ In afwijking van [paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0007671
 
 #### Begrip schoonmaakbedrijf
 
-#### Artikel 5.15:1
+##### Artikel 5.15:1
 
 Deze paragraaf is van toepassing op arbeid, verricht in een bioscoop door een werknemer van 18 jaar of ouder en die bestaat uit het uitsluitend of in hoofdzaak:
 
@@ -1060,7 +1086,7 @@ Deze paragraaf is van toepassing op arbeid, verricht in een bioscoop door een we
 
 #### Toepasselijkheid van de paragraaf
 
-#### Artikel 5.15:2
+##### Artikel 5.15:2
 
 1. De [artikelen 5:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:3), [5:7, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:7), en [5:8, eerste, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:8) zijn niet van toepassing, indien dit artikel wordt toegepast.
 
@@ -1082,7 +1108,7 @@ Deze paragraaf is van toepassing op arbeid, verricht in een bioscoop door een we
 
 #### Dagelijkse onafgebroken rusttijd
 
-#### Artikel 5.15:3
+##### Artikel 5.15:3
 
 1. In afwijking van [artikel 5:8, derde lid, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:8), van de wet ten aanzien van de arbeidstijd per nachtdienst kan dit artikel worden toegepast.
 
@@ -1090,7 +1116,7 @@ Deze paragraaf is van toepassing op arbeid, verricht in een bioscoop door een we
 
 #### Arbeid in nachtdienst
 
-#### Artikel 5.15:4
+##### Artikel 5.15:4
 
 1. In afwijking van [artikel 5:9, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:9), van de wet ten aanzien van de arbeidstijd per nachtdienst kan dit artikel worden toegepast.
 
@@ -1100,13 +1126,13 @@ Deze paragraaf is van toepassing op arbeid, verricht in een bioscoop door een we
 
 #### Toepasselijkheid van de paragraaf
 
-#### Artikel 5.16:1
+##### Artikel 5.16:1
 
 Deze paragraaf is van toepassing op arbeid, die bestaat uit werkzaamheden met betrekking tot uitvoeringen van culturele of artistieke aard of uitvoeringen die daarmee gelijkenis vertonen alsmede de direct daarmee samenhangende werkzaamheden, verricht door een werknemer van 18 jaar of ouder.
 
 #### Dagelijkse onafgebroken rusttijd
 
-#### Artikel 5.16:2
+##### Artikel 5.16:2
 
 1. De [artikelen 5:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:3), [5:7, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:7), en [5:8, eerste, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:8) zijn niet van toepassing, indien dit artikel wordt toegepast.
 
@@ -1128,7 +1154,7 @@ Deze paragraaf is van toepassing op arbeid, die bestaat uit werkzaamheden met be
 
 #### Bereikbaarheidsdienst
 
-#### Artikel 5.16:3
+##### Artikel 5.16:3
 
 1. De [artikelen 5:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:3), en [5:8, eerste, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:8) zijn niet van toepassing, indien dit artikel wordt toegepast.
 
@@ -1150,7 +1176,7 @@ Deze paragraaf is van toepassing op arbeid, die bestaat uit werkzaamheden met be
 
 #### Cumulatie bijzondere diensten
 
-#### Artikel 5.16:4
+##### Artikel 5.16:4
 
 1. In afwijking van de[artikelen 5:7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:7), [5:8, derde lid, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:8), en [5:9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:9), van de wet ten aanzien van de arbeidstijd kan dit artikel worden toegepast.
 
@@ -1158,7 +1184,7 @@ Deze paragraaf is van toepassing op arbeid, die bestaat uit werkzaamheden met be
 
 #### Bereikbaarheidsdienst
 
-#### Artikel 5.16:5
+##### Artikel 5.16:5
 
 1. In afwijking van de[artikelen 5:7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:7), [5:8, derde lid, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:8), en [5:9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:9), van de wet ten aanzien van de arbeidstijd kan het tweede lid, onderdeel **a**, worden toegepast. Uitsluitend bij collectieve regeling kan, met inachtneming van het tweede lid, onderdeel **b**, worden afgeweken van [artikel 5:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:5), van de wet. Elk beding waarbij op andere wijze dan in de vorige volzin is bepaald, wordt afgeweken van [artikel 5:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:5), van de wet is nietig.
 
@@ -1178,19 +1204,19 @@ Deze paragraaf is van toepassing op arbeid, die bestaat uit werkzaamheden met be
 
 #### Toepasselijkheid van de paragraaf
 
-#### Artikel 5.17:1
+##### Artikel 5.17:1
 
 Deze paragraaf is van toepassing op werknemers van 18 jaar of ouder die arbeid verrichten op, vanaf of ten behoeve van een windpark.
 
 #### Arbeidstijd
 
-#### Artikel 5.17:2
+##### Artikel 5.17:2
 
 1. De [artikelen 5.14:2](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:2&z=2024-01-01&g=2024-01-01), [5.14:4](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:4&z=2024-01-01&g=2024-01-01), [5.14:4a](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:4a&z=2024-01-01&g=2024-01-01), [5.14:5](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:5&z=2024-01-01&g=2024-01-01), [5.14:6](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:6&z=2024-01-01&g=2024-01-01), [5.14:7](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:7&z=2024-01-01&g=2024-01-01) en [5.14:8](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:8&z=2024-01-01&g=2024-01-01), voor zover betrekking hebbend op arbeid verricht op, vanaf of ten behoeve van een mijnbouwinstallatie, zijn van overeenkomstige toepassing op werknemers van 18 jaar of ouder die arbeid verrichten op zee, op, vanaf of ten behoeve van een windpark, voor zover dit noodzakelijk is voor de opbouw ervan of het uitvoeren van onderhoudswerkzaamheden.
 
 2. Het eerste lid is van overeenkomstige toepassing op arbeid verricht op het land ten behoeve van een windpark, mits deze arbeid in elke periode van 28 dagen wordt afgewisseld met arbeid ten behoeve van een windpark welke verricht wordt op zee.
 
-#### Artikel 5.17:3
+##### Artikel 5.17:3
 
 Vervallen
 
@@ -1198,19 +1224,19 @@ Vervallen
 
 #### Bereikbaarheidsdienst
 
-#### Artikel 5.18:1
+##### Artikel 5.18:1
 
 Voor de toepassing van deze paragraaf wordt verstaan onder schoonmaakbedrijf: een onderneming die uitsluitend of in hoofdzaak haar beroep maakt van het periodiek dan wel telkens voor eenmaal schoonmaken in, op of aan gebouwen, terreinen en verkeersmiddelen, gebezigd voor het openbaar vervoer van personen of goederen, alsmede de direct daarmee samenhangende werkzaamheden.
 
 #### Cumulatie bijzondere diensten
 
-#### Artikel 5.18:2
+##### Artikel 5.18:2
 
 Deze paragraaf is uitsluitend van toepassing op arbeid verricht door een werknemer van 18 jaar of ouder in een schoonmaakbedrijf.
 
 #### Bereikbaarheidsdienst
 
-#### Artikel 5.18:3
+##### Artikel 5.18:3
 
 1. Dit artikel is uitsluitend van toepassing op arbeid, die bestaat uit het schoonmaken in, op of aan gebouwen en terreinen.
 
@@ -1224,7 +1250,7 @@ Deze paragraaf is uitsluitend van toepassing op arbeid verricht door een werknem
 
 #### Cumulatie bijzondere diensten
 
-#### Artikel 5.18:4
+##### Artikel 5.18:4
 
 Vervallen
 
@@ -1232,13 +1258,13 @@ Vervallen
 
 #### Bereikbaarheidsdienst verloskundige in opleiding
 
-#### Artikel 5.19:1
+##### Artikel 5.19:1
 
 Deze paragraaf is uitsluitend van toepassing op arbeid die bestaat uit verpleging of verzorging, verricht door de werknemer van 18 jaar of ouder.
 
 #### Bereikbaarheidsdienst
 
-#### Artikel 5.19:2
+##### Artikel 5.19:2
 
 1. [Artikel 5:3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:3) is niet van toepassing, indien dit artikel wordt toegepast.
 
@@ -1250,7 +1276,7 @@ Deze paragraaf is uitsluitend van toepassing op arbeid die bestaat uit verplegin
 
 #### Bereikbaarheidsdienst verloskundige in opleiding
 
-#### Artikel 5.19:3
+##### Artikel 5.19:3
 
 1. Uitsluitend bij collectieve regeling kan, met inachtneming van het tweede en derde lid, aan een werknemer een bereikbaarheidsdienst worden opgelegd. Elk beding waarin op andere wijze dan in de eerste zin is bepaald, gebruik wordt gemaakt van het tweede of derde lid, is nietig.
 
@@ -1260,15 +1286,15 @@ Deze paragraaf is uitsluitend van toepassing op arbeid die bestaat uit verplegin
 
 #### Rusttijden
 
-#### Artikel 5.19:4
+##### Artikel 5.19:4
 
 Indien aan een werknemer zowel consignatie, aanwezigheidsdiensten of bereikbaarheidsdiensten worden opgelegd, organiseert de werkgever de arbeid zodanig dat de werknemer ten hoogste 3 maal in elke aaneengesloten periode van 7 maal 24 uren en 32 maal in elke periode van 16 aaneengesloten weken consignatie, een aanwezigheidsdienst of een bereikbaarheidsdiensten wordt opgelegd.
 
-#### Artikel 5.19:5
+##### Artikel 5.19:5
 
 Vervallen
 
-#### Artikel 5.19:6
+##### Artikel 5.19:6
 
 Vervallen
 
@@ -1276,13 +1302,13 @@ Vervallen
 
 #### Arbeids- en rusttijden
 
-#### Artikel 5.20:1
+##### Artikel 5.20:1
 
 Deze paragraaf is uitsluitend van toepassing op de werknemer van 18 jaar of ouder die arbeid verricht als arts, of als arts in opleiding, of als tandarts in opleiding tot tandheelkundig specialist, of die als verloskundige werkzaam is in de intramurale gezondheidszorg.
 
 #### Dagelijkse onafgebroken rusttijd
 
-#### Artikel 5.20:2
+##### Artikel 5.20:2
 
 1. De [artikelen 5:7, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:7), [5:8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:8), en [5:9, vijfde en zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:9) zijn niet van toepassing, indien dit artikel wordt toegepast.
 
@@ -1290,7 +1316,7 @@ Deze paragraaf is uitsluitend van toepassing op de werknemer van 18 jaar of oude
 
 #### Arbeidstijd inclusief overwerk
 
-#### Artikel 5.20:3
+##### Artikel 5.20:3
 
 1. Dit artikel is uitsluitend van toepassing op de arts in opleiding tot specialist of de tandarts in opleiding tot tandheelkundig specialist.
 
@@ -1302,7 +1328,7 @@ Deze paragraaf is uitsluitend van toepassing op de werknemer van 18 jaar of oude
 
 #### Dagelijkse onafgebroken rusttijd
 
-#### Artikel 5.20:4
+##### Artikel 5.20:4
 
 1. Uitsluitend bij collectieve regeling kan, met inachtneming van het tweede en derde lid, aan een werknemer een bereikbaarheidsdienst worden opgelegd. Elk beding waarin op andere wijze dan in de eerste zin is bepaald, gebruik wordt gemaakt van het tweede of derde lid, is nietig.
 
@@ -1312,7 +1338,7 @@ Deze paragraaf is uitsluitend van toepassing op de werknemer van 18 jaar of oude
 
 #### Arbeidstijd inclusief overwerk
 
-#### Artikel 5.20:5
+##### Artikel 5.20:5
 
 Indien aan een werknemer zowel consignatie, aanwezigheidsdiensten of bereikbaarheidsdiensten worden opgelegd, organiseert de werkgever de arbeid zodanig dat de werknemer ten hoogste 5 maal in elke aaneengesloten periode van 7 maal 24 uren en 32 maal in elke periode van 16 aaneengesloten weken consignatie, een aanwezigheidsdienst of een bereikbaarheidsdienst wordt opgelegd.
 
@@ -1320,13 +1346,13 @@ Indien aan een werknemer zowel consignatie, aanwezigheidsdiensten of bereikbaarh
 
 #### Toepasselijkheid van de paragraaf
 
-#### Artikel 5.21:1
+##### Artikel 5.21:1
 
 Deze paragraaf is uitsluitend van toepassing op de werknemer van 18 jaar of ouder die arbeid verricht als verloskundige werkzaam in de extramurale gezondheidszorg, alsmede de werknemer van 18 jaar of ouder die hiertoe in opleiding is.
 
 #### Wekelijkse onafgebroken rusttijd
 
-#### Artikel 5.21:2
+##### Artikel 5.21:2
 
 1. Uitsluitend indien de werkgever dit heeft bedongen kan, met inachtneming van het tweede en derde lid, aan een werknemer een bereikbaarheidsdienst worden opgelegd. Elk beding waarin op andere wijze dan in de eerste zin is bepaald, gebruik wordt gemaakt van het tweede en derde lid, is nietig.
 
@@ -1340,7 +1366,7 @@ Deze paragraaf is uitsluitend van toepassing op de werknemer van 18 jaar of oude
 
 #### Cumulatie bijzondere diensten
 
-#### Artikel 5.21:3
+##### Artikel 5.21:3
 
 1. Dit artikel is uitsluitend van toepassing op arbeid verricht door de werknemer in opleiding tot verloskundige.
 
@@ -1358,17 +1384,17 @@ Deze paragraaf is uitsluitend van toepassing op de werknemer van 18 jaar of oude
 
 #### Toepasselijkheid van de paragraaf
 
-#### Artikel 5.22:1
+##### Artikel 5.22:1
 
 Vervallen
 
 #### Arbeid in nachtdienst
 
-#### Artikel 5.22:2
+##### Artikel 5.22:2
 
 Vervallen
 
-#### Artikel 5.22:3
+##### Artikel 5.22:3
 
 Vervallen
 
@@ -1376,7 +1402,7 @@ Vervallen
 
 #### Begrip binnenwateren
 
-#### Artikel 5.23:1
+##### Artikel 5.23:1
 
 Deze paragraaf is van toepassing op arbeid, verricht door een werknemer van 18 jaar of ouder, die bestaat uit:
 
@@ -1386,7 +1412,7 @@ Deze paragraaf is van toepassing op arbeid, verricht door een werknemer van 18 j
 
 #### Toepasselijkheid van de paragraaf
 
-#### Artikel 5.23:2
+##### Artikel 5.23:2
 
 1. De [artikelen 5:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:3), [5:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:5), en [5:7, tweede lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:7) zijn niet van toepassing, indien dit artikel wordt toegepast.
 
@@ -1406,13 +1432,13 @@ Deze paragraaf is van toepassing op arbeid, verricht door een werknemer van 18 j
 
 #### Toepasselijkheid van de paragraaf
 
-#### Artikel 5.23:3
+##### Artikel 5.23:3
 
 Vervallen
 
 #### Bereikbaarheidsdienst
 
-#### Artikel 5.23:4
+##### Artikel 5.23:4
 
 Vervallen
 
@@ -1420,13 +1446,13 @@ Vervallen
 
 #### Toepasselijkheid van de paragraaf
 
-#### Artikel 5.24:1
+##### Artikel 5.24:1
 
 Vervallen
 
 #### Begrip schippersinternaat
 
-#### Artikel 5.24:2
+##### Artikel 5.24:2
 
 Vervallen
 
@@ -1434,19 +1460,19 @@ Vervallen
 
 #### Toepasselijkheid van de paragraaf
 
-#### Artikel 5.25:1
+##### Artikel 5.25:1
 
 Vervallen
 
 #### Begrip schippersinternaat
 
-#### Artikel 5.25:2
+##### Artikel 5.25:2
 
 Vervallen
 
 #### Toepasselijkheid van de paragraaf
 
-#### Artikel 5.25:3
+##### Artikel 5.25:3
 
 Vervallen
 
@@ -1454,37 +1480,37 @@ Vervallen
 
 #### Het begrip maatschappelijke opvang
 
-#### Artikel 5.26:1
+##### Artikel 5.26:1
 
 Vervallen
 
 #### Toepasselijkheid van de paragraaf
 
-#### Artikel 5.26:2
+##### Artikel 5.26:2
 
 Vervallen
 
 #### Arbeid in nachtdienst
 
-#### Artikel 5.26:3
+##### Artikel 5.26:3
 
 Vervallen
 
 #### Permanente nachtarbeid
 
-#### Artikel 5.26:4
+##### Artikel 5.26:4
 
 Vervallen
 
 #### § 8.1. Overgangsbepalingen
 
-#### Artikel 5.27:1
+##### Artikel 5.27:1
 
 Met uitsluiting van hetgeen in [paragraaf 5.19](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.19&z=2024-01-01&g=2024-01-01) is bepaald, is deze paragraaf van toepassing op arbeid die bestaat uit ambulancezorg en de direct daarmee samenhangende werkzaamheden, verricht door de werknemer van 18 jaar of ouder.
 
 #### Permanente nachtarbeid
 
-#### Artikel 5.27:2
+##### Artikel 5.27:2
 
 1. Uitsluitend bij collectieve regeling kan, met inachtneming van het tweede en derde lid, aan een werknemer een bereikbaarheidsdienst worden opgelegd. Elk beding waarin op andere wijze dan in de eerste zin is bepaald, gebruik wordt gemaakt van het tweede of derde lid, is nietig.
 
@@ -1494,13 +1520,13 @@ Met uitsluiting van hetgeen in [paragraaf 5.19](https://wetten.overheid.nl/jci1.
 
 #### Citeertitel
 
-#### Artikel 5.27:3
+##### Artikel 5.27:3
 
 Indien aan een werknemer zowel consignatie, aanwezigheidsdiensten of bereikbaarheidsdiensten worden opgelegd, organiseert de werkgever de arbeid zodanig dat de werknemer ten hoogste 3 maal in elke aaneengesloten periode van 7 maal 24 uren en 32 maal in elke periode van 16 aaneengesloten weken consignatie, een aanwezigheidsdienst of een bereikbaarheidsdienst wordt opgelegd.
 
 #### Inwerkingtreding
 
-#### Artikel 5.27:4
+##### Artikel 5.27:4
 
 Indien consignatie, aanwezigheidsdiensten en bereikbaarheidsdiensten worden opgelegd, organiseert de werkgever de arbeid zodanig, dat de werknemer ten hoogste 3 maal in elke aaneengesloten tijdruimte van 7 maal 24 uren en 26 maal in elke periode van 13 achtereenvolgende weken consignatie, een aanwezigheidsdienst of een bereikbaarheidsdienst wordt opgelegd.
 
@@ -1508,7 +1534,7 @@ Indien consignatie, aanwezigheidsdiensten en bereikbaarheidsdiensten worden opge
 
 #### Strafbaarstelling
 
-#### Artikel 7:1
+##### Artikel 7:1
 
 Het niet naleven van de [artikelen 3.1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=3&paragraaf=3.1&artikel=3.1:1&z=2024-01-01&g=2024-01-01), [3.1:2, eerste tot en met derde lid, en het bepaalde krachtens het vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=3&paragraaf=3.1&artikel=3.1:2&z=2024-01-01&g=2024-01-01), [3.2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=3&paragraaf=3.2&artikel=3.2:1&z=2024-01-01&g=2024-01-01), [3.3:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=3&paragraaf=3.3&artikel=3.3:1&z=2024-01-01&g=2024-01-01), [4.1:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.1&artikel=4.1:2&z=2024-01-01&g=2024-01-01), [4.2:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.2&artikel=4.2:1&z=2024-01-01&g=2024-01-01), [4.3:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.3&artikel=4.3:1&z=2024-01-01&g=2024-01-01), [4.4:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.4&artikel=4.4:1&z=2024-01-01&g=2024-01-01), [4.6:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.6&artikel=4.6:1&z=2024-01-01&g=2024-01-01), [4.7:1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.7&artikel=4.7:1&z=2024-01-01&g=2024-01-01), [4.7:2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.7&artikel=4.7:2&z=2024-01-01&g=2024-01-01), [4.8:1, derde lid, onder a en b, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.8&artikel=4.8:1&z=2024-01-01&g=2024-01-01), [4.8:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.8&artikel=4.8:2&z=2024-01-01&g=2024-01-01), [4.9:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.9&artikel=4.9:1&z=2024-01-01&g=2024-01-01), [4.9:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.9&artikel=4.9:2&z=2024-01-01&g=2024-01-01), [5.1:3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.1&artikel=5.1:3&z=2024-01-01&g=2024-01-01), [5.2:2](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.2&artikel=5.2:2&z=2024-01-01&g=2024-01-01), [5.3:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.3&artikel=5.3:2&z=2024-01-01&g=2024-01-01), [5.3:3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.3&artikel=5.3:3&z=2024-01-01&g=2024-01-01), [5.3:4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.3&artikel=5.3:4&z=2024-01-01&g=2024-01-01), [5.3:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.3&artikel=5.3:5&z=2024-01-01&g=2024-01-01), [5.4:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.4&artikel=5.4:2&z=2024-01-01&g=2024-01-01), [5.4:3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.4&artikel=5.4:3&z=2024-01-01&g=2024-01-01), [5.4:4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.4&artikel=5.4:4&z=2024-01-01&g=2024-01-01), [5.5:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.5&artikel=5.5:2&z=2024-01-01&g=2024-01-01), [5.6:2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.6&artikel=5.6:2&z=2024-01-01&g=2024-01-01), [5.7:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.7&artikel=5.7:2&z=2024-01-01&g=2024-01-01), [5.7:3](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.7&artikel=5.7:3&z=2024-01-01&g=2024-01-01), [5.8:1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.8&artikel=5.8:1&z=2024-01-01&g=2024-01-01), [5.11:3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.11&artikel=5.11:3&z=2024-01-01&g=2024-01-01), [5.12:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.12&artikel=5.12:2&z=2024-01-01&g=2024-01-01), [5.13:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.13&artikel=5.13:2&z=2024-01-01&g=2024-01-01), [5.14:2, derde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:2&z=2024-01-01&g=2024-01-01), [5.14:3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:3&z=2024-01-01&g=2024-01-01), [5.14:4, derde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:4&z=2024-01-01&g=2024-01-01)[5.14.4a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:4a&z=2024-01-01&g=2024-01-01), [5.14:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:5&z=2024-01-01&g=2024-01-01), [5.14:6, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:6&z=2024-01-01&g=2024-01-01), [5.14:7, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:7&z=2024-01-01&g=2024-01-01), [5.14:8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:8&z=2024-01-01&g=2024-01-01), [5.15:2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.15&artikel=5.15:2&z=2024-01-01&g=2024-01-01), [5.16:2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.16&artikel=5.16:2&z=2024-01-01&g=2024-01-01), [5.16:3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.16&artikel=5.16:3&z=2024-01-01&g=2024-01-01), [5.17:2](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.17&artikel=5.17:2&z=2024-01-01&g=2024-01-01), voor zover dat artikel betrekking heeft op de van overeenkomstige toepassing verklaarde artikelen [5.14:2, derde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:2&z=2024-01-01&g=2024-01-01), [5.14:4, derde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:4&z=2024-01-01&g=2024-01-01), [5.14.4a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:4a&z=2024-01-01&g=2024-01-01), [5.14:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:5&z=2024-01-01&g=2024-01-01), [5.14:6, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:6&z=2024-01-01&g=2024-01-01), [5.14:7, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:7&z=2024-01-01&g=2024-01-01) of [5.14:8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:8&z=2024-01-01&g=2024-01-01), [5.18:3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.18&artikel=5.18:3&z=2024-01-01&g=2024-01-01), [5.19:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.19&artikel=5.19:2&z=2024-01-01&g=2024-01-01), [5.19:3, tweede lid, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.19&artikel=5.19:3&z=2024-01-01&g=2024-01-01), voor zover dit lid betrekking heeft op [artikel 5:9, derde tot en met zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:9), [5.19:4](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.19&artikel=5.19:4&z=2024-01-01&g=2024-01-01), [5.20:3, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.20&artikel=5.20:3&z=2024-01-01&g=2024-01-01), [5.20:4, tweede lid, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.20&artikel=5.20:4&z=2024-01-01&g=2024-01-01), voor zover dit lid betrekking heeft op [artikel 5:9, derde, vierde en zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:9), [5.20:5](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.20&artikel=5.20:5&z=2024-01-01&g=2024-01-01), [5.21:2, tweede lid, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.21&artikel=5.21:2&z=2024-01-01&g=2024-01-01), voor zover dit lid betrekking heeft op [artikel 5:9, derde lid en zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:9), [5.21:3, derde lid, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.21&artikel=5.21:3&z=2024-01-01&g=2024-01-01), voor zover dit lid betrekking heeft op [artikel 5:9, derde lid en zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:9), [5.23:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.23&artikel=5.23:2&z=2024-01-01&g=2024-01-01), [5.26:3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.26&artikel=5.26:3&z=2024-01-01&g=2024-01-01), [5.26:4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.26&artikel=5.26:4&z=2024-01-01&g=2024-01-01), [5.27:2, tweede lid, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.27&artikel=5.27:2&z=2024-01-01&g=2024-01-01), voor zover dit lid betrekking heeft op [artikel 5:9, derde tot en met zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:9), [5.27:3](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.27&artikel=5.27:3&z=2024-01-01&g=2024-01-01), [5.28:3](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.28&artikel=5.28:3&z=2024-01-01&g=2024-01-01), en [8.1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=8&paragraaf=8.1&artikel=8.1:1&z=2024-01-01&g=2024-01-01), levert een overtreding op.
 
@@ -1518,7 +1544,7 @@ Het niet naleven van de [artikelen 3.1:1](https://wetten.overheid.nl/jci1.3:c:BW
 
 #### Citeertitel
 
-#### Artikel 8.1:1
+##### Artikel 8.1:1
 
 1. In afwijking van [artikel 5:8, achtste en negende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:8) organiseert de werkgever de arbeid zodanig, dat de werknemer in elke periode van 4 aaneengesloten weken ten hoogste 20 malen arbeid verricht in een nachtdienst die eindigt na 02.00 uur, indien:
 
@@ -1530,7 +1556,7 @@ Het niet naleven van de [artikelen 3.1:1](https://wetten.overheid.nl/jci1.3:c:BW
 
 2. Zolang het eerste lid van toepassing is, bewaart de werkgever de gegevens en bescheiden die betrekking hebben op dat artikellid, onderdeel a.
 
-#### Artikel 8.1:2
+##### Artikel 8.1:2
 
 Vervallen
 
@@ -1538,25 +1564,25 @@ Vervallen
 
 #### Toepasselijkheid van de paragraaf
 
-#### Artikel 8.2:1
+##### Artikel 8.2:1
 
 Bevat wijzigingen in andere regelgeving.
 
 #### Aanwezigheidsdienst
 
-#### Artikel 8.2:2
+##### Artikel 8.2:2
 
 Bevat wijzigingen in andere regelgeving.
 
 #### [Mijnreglement 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002474)
 
-#### Artikel 8.2:3
+##### Artikel 8.2:3
 
 Vervallen
 
 #### Inwerkingtreding
 
-#### Artikel 8.2:4
+##### Artikel 8.2:4
 
 Vervallen
 
@@ -1564,13 +1590,13 @@ Vervallen
 
 #### Permanente nachtarbeid
 
-#### Artikel 8.3:1
+##### Artikel 8.3:1
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 #### [Werktijdenbesluit voor geneeskundigen en verloskundigen](onbekend)
 
-#### Artikel 8.3:2
+##### Artikel 8.3:2
 
 Dit besluit wordt aangehaald als: Arbeidstijdenbesluit.
 
@@ -1578,7 +1604,7 @@ Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting
 
 #### Arbeidstijd van de jeugdige werknemer
 
-#### Artikel 2.2:2
+##### Artikel 2.2:2
 
 [Paragraaf 5.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&paragraaf=5.1) en – voor zover aangeduid als overtredingen – de [paragrafen 5.2 tot en met 5.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&paragraaf=5.2) en de daarop berustende bepalingen zijn van overeenkomstige toepassing op de persoon, die zonder werknemer of werkgever te zijn in de zin van de wet duikwerkzaamheden en de direct daarmee samenhangende werkzaamheden verricht in de civiele onderwaterbouw.
 
@@ -1648,7 +1674,7 @@ Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting
 
 #### Piket
 
-#### Artikel 5.6:7
+##### Artikel 5.6:7
 
 Vervallen
 
@@ -1706,11 +1732,11 @@ Vervallen
 
 #### Toepasselijkheid van de paragraaf
 
-#### Artikel 5.19:5
+##### Artikel 5.19:5
 
 Vervallen
 
-#### Artikel 5.19:6
+##### Artikel 5.19:6
 
 Vervallen
 
@@ -1768,7 +1794,7 @@ Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting
 
 #### Handelsondernemingen en kantoren
 
-#### Artikel 2.1:14
+##### Artikel 2.1:14
 
 1. [Artikel 5:3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:3), uitsluitend voor zover betrekking hebbend op een onafgebroken rusttijd van ten minste 60 uren in elke aaneengesloten tijdruimte van 9 maal 24 uren welke rusttijd éénmaal in elke periode van 5 achtereenvolgende weken mag worden bekort tot 32 uren, is niet van toepassing op arbeid verricht door werknemers in handelsondernemingen en kantoren.
 
@@ -1836,7 +1862,7 @@ Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting
 
 #### § 5.6. Defensie
 
-#### Artikel 5.6:7
+##### Artikel 5.6:7
 
 Vervallen
 
@@ -1892,11 +1918,11 @@ Vervallen
 
 #### Arbeid in nachtdienst
 
-#### Artikel 5.19:5
+##### Artikel 5.19:5
 
 Vervallen
 
-#### Artikel 5.19:5
+##### Artikel 5.19:5
 
 Vervallen
 
@@ -2052,7 +2078,7 @@ Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting
 
 #### Toepasselijkheid van de paragraaf
 
-#### Artikel 5.6:7
+##### Artikel 5.6:7
 
 Vervallen
 
@@ -2128,7 +2154,7 @@ Vervallen
 
 #### Toepasselijkheid van de paragraaf
 
-#### Artikel 5.19:6
+##### Artikel 5.19:6
 
 Vervallen
 
@@ -2186,7 +2212,7 @@ Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting
 
 #### Arbeidstijd en noodzakelijke werkzaamheden
 
-#### Artikel 3.3:1
+##### Artikel 3.3:1
 
 De werkgever houdt een register bij van alle werknemers die instemming hebben verleend als bedoeld in [artikel 4.8:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.8&artikel=4.8:2&z=2024-01-01&g=2024-01-01).
 
@@ -2216,7 +2242,7 @@ De werkgever houdt een register bij van alle werknemers die instemming hebben ve
 
 #### Arbeid in nachtdienst
 
-#### Artikel 5.6:7
+##### Artikel 5.6:7
 
 Vervallen
 
@@ -2236,11 +2262,11 @@ Vervallen
 
 #### § 5.22. Werkzaamheden die samenhangen met railvervoer
 
-#### Artikel 5.19:5
+##### Artikel 5.19:5
 
 Vervallen
 
-#### Artikel 5.19:6
+##### Artikel 5.19:6
 
 Vervallen
 
@@ -2256,15 +2282,15 @@ Vervallen
 
 #### § 5.27. Ambulancezorg
 
-#### Artikel 5.28:1
+##### Artikel 5.28:1
 
 Voor de toepassing van deze paragraaf wordt verstaan onder schippersinternaat: een in Nederland gevestigde privaatrechtelijke instelling met rechtspersoonlijkheid die een internaat beheert waarin specifiek huisvesting, verzorging en opvoeding geboden wordt aan kinderen van binnenschippers, kermisexploitanten of circusartiesten.
 
-#### Artikel 5.28:2
+##### Artikel 5.28:2
 
 Deze paragraaf is van toepassing op arbeid verricht in een schippersinternaat door een hoofdgroepsleider, groepsleider of assistent-groepsleider, wier arbeid uitsluitend of in hoofdzaak bestaat uit het verrichten van werkzaamheden van opvoedkundige aard.
 
-#### Artikel 5.28:3
+##### Artikel 5.28:3
 
 De werkgever organiseert in afwijking van [artikel 4:8:1, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.8&artikel=4.8:1&z=2024-01-01&g=2024-01-01), de arbeid zodanig dat de werknemer ten hoogste 62 maal in elke periode van 26 achtereenvolgende weken een aanwezigheiddienst wordt opgelegd.
 
@@ -2304,7 +2330,7 @@ De werkgever organiseert in afwijking van [artikel 4:8:1, derde lid, onderdeel a
 
 #### Nachtarbeid in het weekend
 
-#### Artikel 4.7:2
+##### Artikel 4.7:2
 
 1. [Artikel 5:8, eerste, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:8) is niet van toepassing, indien dit artikel wordt toegepast.
 
@@ -2322,7 +2348,7 @@ De werkgever organiseert in afwijking van [artikel 4:8:1, derde lid, onderdeel a
 
 #### § 4.8. Aanwezigheidsdiensten
 
-#### Artikel 4.9:2
+##### Artikel 4.9:2
 
 1. [Artikel 5:8, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:8) is niet van toepassing, indien:
 
@@ -2340,7 +2366,7 @@ De werkgever organiseert in afwijking van [artikel 4:8:1, derde lid, onderdeel a
 
 #### Pauze
 
-#### Artikel 5.3:5
+##### Artikel 5.3:5
 
 1. Dit artikel is uitsluitend van toepassing op de werknemer die als vrijwillige brandweer arbeid verricht.
 
@@ -2348,7 +2374,7 @@ De werkgever organiseert in afwijking van [artikel 4:8:1, derde lid, onderdeel a
 
 3. [Artikel 4.8:1, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.8&artikel=4.8:1&z=2024-01-01&g=2024-01-01), kan eenmaal in elke aaneengesloten tijdruimte van 7 maal 24 uren buiten toepassing worden gelaten.
 
-#### Artikel 5.4:4
+##### Artikel 5.4:4
 
 1. Dit artikel is uitsluitend van toepassing op brood- en banketbakkerijen waar op ambachtelijke wijze werkzaamheden worden verricht en waar uitsluitend of in hoofdzaak wordt geproduceerd voor een of meer eigen brood- en banketwinkels.
 
@@ -2360,7 +2386,7 @@ De werkgever organiseert in afwijking van [artikel 4:8:1, derde lid, onderdeel a
 
 #### Piket
 
-#### Artikel 5.6:7
+##### Artikel 5.6:7
 
 Vervallen
 
@@ -2388,11 +2414,11 @@ Vervallen
 
 #### § 5.17. Uitvaartverzorging
 
-#### Artikel 5.19:5
+##### Artikel 5.19:5
 
 Vervallen
 
-#### Artikel 5.19:5
+##### Artikel 5.19:5
 
 Vervallen
 
@@ -2410,7 +2436,7 @@ Vervallen
 
 Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-#### Artikel 5.7:3. Rijtijden
+##### Artikel 5.7:3. Rijtijden
 
 1. De dagelijkse rijtijd van een personenchauffeur bedraagt niet meer dan 9 uren per dag, welke rijtijd 2 maal in elke periode van 7 dagen mag worden verlengd tot 10 uren per dag.
 
@@ -2426,7 +2452,7 @@ Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting
 
 #### § 5.12. Audio-visuele producties
 
-#### Artikel 5.14:4a
+##### Artikel 5.14:4a
 
 1. Dit artikel is uitsluitend van toepassing op een werknemer die vanuit een bestendig en regelmatig arbeidspatroon, bedoeld in de [artikelen 5.14:2](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:2&z=2024-01-01&g=2024-01-01) of [5.14:3](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:3&z=2024-01-01&g=2024-01-01), werkzaamheden gaat verrichten in een niet-bestendig en regelmatig arbeidspatroon, bedoeld in [artikel 5.14:4](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:4&z=2024-01-01&g=2024-01-01).
 
@@ -2440,7 +2466,7 @@ Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting
 
 #### § 5.17. Uitvaartverzorging
 
-#### Artikel 5.19:6
+##### Artikel 5.19:6
 
 Vervallen
 
@@ -2474,7 +2500,7 @@ Vervallen
 
 Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-#### Artikel 7:2. Staken van de arbeid in verband met recidive
+##### Artikel 7:2. Staken van de arbeid in verband met recidive
 
 1. Na een herhaling van een overtreding of soortgelijke overtreding wordt een waarschuwing gegeven als bedoeld in [artikel 8:3a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=8:3a) en indien een herhaling van die of een soortgelijke overtreding is geconstateerd als bedoeld in dat artikel van de wet, wordt een bevel opgelegd door de daartoe aangewezen ambtenaar dat de door hem aangewezen werkzaamheden voor een daarbij aangegeven periode worden gestaakt dan wel niet mogen aanvangen.
 
@@ -2492,11 +2518,11 @@ Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting
 
 5. Een waarschuwing als bedoeld in het eerste en tweede lid wordt niet gegeven en een bevel als bedoeld in het eerste en tweede lid wordt niet opgelegd indien de bestuurlijke boete voor de overtreding, bedoeld in het eerste en tweede lid, op grond van de beleidsregels, bedoeld in [artikel 10:7, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=10:7) lager is dan een bij ministeriële regeling vast te stellen hoogte van het boetebedrag.
 
-#### Artikel 7:3. Aanduiding ernstige overtredingen
+##### Artikel 7:3. Aanduiding ernstige overtredingen
 
 Ernstige overtredingen in de zin van [artikel 10:7, derde en vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=10:7) zijn de overtredingen, genoemd in [artikel 7:2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=7&artikel=7:2&z=2024-01-01&g=2024-01-01).
 
-#### Artikel 7:4. Aanduiding soortgelijke overtreding
+##### Artikel 7:4. Aanduiding soortgelijke overtreding
 
 De soortgelijke verplichtingen en verboden, bedoeld in [artikel 10:7, tweede en vierde lid, van de we](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=10:7)t, en de soortgelijke overtredingen, bedoeld in [artikel 7:2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=7&artikel=7:2&z=2024-01-01&g=2024-01-01), worden bij ministeriële regeling aangewezen.
 
@@ -2504,27 +2530,27 @@ De soortgelijke verplichtingen en verboden, bedoeld in [artikel 10:7, tweede en 
 
 Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-#### Artikel 7:5. Plaats en duur openbaarmaking
+##### Artikel 7:5. Plaats en duur openbaarmaking
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel 7:6. Inhoud openbare inspectiegegevens
+##### Artikel 7:6. Inhoud openbare inspectiegegevens
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel 7:7. Openbare gegevens omtrent opgelegde boetes en stilleggingen
+##### Artikel 7:7. Openbare gegevens omtrent opgelegde boetes en stilleggingen
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel 7:8. Termijn waarbinnen openbaarmaking geschiedt
+##### Artikel 7:8. Termijn waarbinnen openbaarmaking geschiedt
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel 7:9. Reactie van belanghebbende
+##### Artikel 7:9. Reactie van belanghebbende
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel 7:10. Rectificatie
+##### Artikel 7:10. Rectificatie
 
 Dit onderdeel is nog niet inwerking getreden
 
@@ -2540,7 +2566,7 @@ Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting
 
 #### § 5.5. Sneeuw- en gladheidsbestrijding
 
-#### Artikel 5.6:7
+##### Artikel 5.6:7
 
 Vervallen
 
@@ -2562,11 +2588,11 @@ Vervallen
 
 #### § 5.17. Windparken
 
-#### Artikel 5.19:5
+##### Artikel 5.19:5
 
 Vervallen
 
-#### Artikel 5.19:6
+##### Artikel 5.19:6
 
 Vervallen
 

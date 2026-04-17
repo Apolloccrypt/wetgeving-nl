@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregels Toelating en gebruik C2000 door derden"
+title: "Beleidsregels van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 2 december 2009, nr. DGV/DVB/VIT, over de toelating en het gebruik van het radiocommunicatienetwerk C2000 door derden"
 identifier: "BWBR0026900"
-categorie: "Bestuursrecht"
-publicatiedatum: 2009-12-21
-laatste_update: 2009-12-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026900"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2009-12-21"
+last_updated: "2009-12-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026900"
+soort: "beleidsregel"
+stam_id: "10332963"
+version_id: "16960132"
+internal_id: "C23385351"
+label_id: "10308184"
+dtd_version: "2.0"
+original_entry_into_force: "2009-12-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026900/2009-12-21/0"
+intitule_bron: "Stcrt.2009-19742"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-12-02"
+intitule_published: "2009-12-21"
+intitule_in_force: "2009-12-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-19742"
+original_signed_date: "2009-12-02"
+original_published_date: "2009-12-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-19742"
+entry_into_force_date: "2009-12-21"
+jci_1_3: "jci1.3:c:BWBR0026900&z=2009-12-21&g=2009-12-21"
+jci_1_0: "1.0:c:BWBR0026900&g=2009-12-21"
+citeertitel_status: "officieel"
+short_title: "Beleidsregels Toelating en gebruik C2000 door derden"
+signed_date: "2009-12-02"
+entry_into_force: "2009-12-21"
 ---
-
 # Beleidsregels van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 2 december 2009, nr. DGV/DVB/VIT, over de toelating en het gebruik van het radiocommunicatienetwerk C2000 door derden
 
 Gehoord het advies van het adviesorgaan C2000;
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -34,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 - h). **een bijzondere gebruiker:** een organisatie die naar het oordeel van de Minister van Binnenlandse Zaken en Koninkrijksrelaties uit oogpunt van openbare orde, veiligheid of hulpverlening onder reguliere omstandigheden en/of bij crises of rampen in contact moeten kunnen treden met een of meer aangewezen gebruikers en daartoe gebruik maakt van C2000.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een aangewezen gebruiker kan bij de strategisch beheerder van C2000 een aanvraag indienen om een organisatie aan te wijzen als gelieerde. Hiertoe wordt gebruik gemaakt van een door de strategisch beheerder opgesteld aanvraagformulier. Een aanvraag bevat in ieder geval de volgende gegevens:
 
@@ -90,7 +116,7 @@ In deze regeling wordt verstaan onder:
 
 7. Na een positief besluit van de strategisch beheerder van C2000 op een aanvraag als bedoeld onder het derde lid, sluit de strategisch beheerder met de bijzondere gebruiker een gebruiksovereenkomst af. Hierin worden aard en omvang van het gebruik vastgelegd.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Aangewezen gebruikers en bijzondere gebruikers houden zich aan het beveiligingsbeleid C2000 en het Landelijk Kader Fleetmap;
 
@@ -126,7 +152,7 @@ In deze regeling wordt verstaan onder:
 
 - •. melding van gestolen en vermiste randapparaten bij de tactisch en operationeel beheerder van het netwerk.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De exploitatielasten van het C2000 netwerk worden door de aangewezen en bijzondere gebruikers gezamenlijk opgebracht overeenkomstig een door de strategisch beheerder vastgestelde verdeelsleutel, gehoord het adviesorgaan C2000.
 
@@ -136,11 +162,11 @@ In deze regeling wordt verstaan onder:
 
 4. Tijdelijk gelieerden zijn geen vergoeding verschuldigd voor het gebruik van randapparaten.
 
-#### Artikel 5
+##### Artikel 5
 
 Met de inwerkingtreding van onderhavige Beleidsregels Toelating en gebruik C2000 door derden vervallen de Beleidsregels Gelieerdenbeleid C2000 d.d. 11 december 2003.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze beleidsregels worden aangehaald als: Beleidsregels Toelating en gebruik C2000 door derden.
 

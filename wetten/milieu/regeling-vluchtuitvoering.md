@@ -1,13 +1,39 @@
 ---
-title: "Regeling vluchtuitvoering"
+title: "Regeling van de Minister van Verkeer en Waterstaat, houdende regels ter uitvoering van het Besluit vluchtuitvoering (Regeling vluchtuitvoering)"
 identifier: "BWBR0024167"
-categorie: "Milieu"
-publicatiedatum: 2025-02-13
-laatste_update: 2025-02-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024167"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-02-13"
+last_updated: "2025-02-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024167"
+soort: "ministeriele-regeling"
+stam_id: "9649273"
+version_id: "30612812"
+internal_id: "C43876211"
+label_id: "9626464"
+dtd_version: "2.0"
+original_entry_into_force: "2025-01-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024167/2025-02-13/0"
+intitule_bron: "Stcrt.2008-133"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-07-09"
+intitule_published: "2008-07-14"
+intitule_in_force: "2008-07-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-2568"
+original_signed_date: "2025-01-14"
+original_published_date: "2025-02-12"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2025-2568"
+entry_into_force_date: "2025-01-14"
+jci_1_3: "jci1.3:c:BWBR0024167&z=2025-02-13&g=2025-02-13"
+jci_1_0: "1.0:c:BWBR0024167&g=2025-02-13"
+citeertitel_status: "officieel"
+short_title: "Regeling vluchtuitvoering"
+signed_date: "2025-01-14"
+entry_into_force: "2025-01-14"
 ---
-
 # Regeling van de Minister van Verkeer en Waterstaat, houdende regels ter uitvoering van het Besluit vluchtuitvoering (Regeling vluchtuitvoering)
 
 Gelet op:
@@ -26,7 +52,7 @@ Treedt in werking op het tijdstip waarop het Besluit vluchtuitvoering in werking
 
 #### § 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -46,7 +72,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Luchtwerk tegen vergoeding en een vlucht niet tegen vergoeding
 
-#### Artikel 2
+##### Artikel 2
 
 Deze paragraaf is van toepassing op luchtwerk tegen vergoeding en op een vlucht niet tegen vergoeding met uitzondering van:
 
@@ -56,7 +82,7 @@ Deze paragraaf is van toepassing op luchtwerk tegen vergoeding en op een vlucht 
 
 - c. luchtwerk als bedoeld in [paragraaf 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0024167&paragraaf=2a&z=2025-02-13&g=2025-02-13).
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een vlucht met een vliegtuig of een helikopter wordt uitgevoerd met inachtneming van de volgende onderdelen van bijlage 6 bij het verdrag:
 
@@ -68,7 +94,7 @@ Deze paragraaf is van toepassing op luchtwerk tegen vergoeding en op een vlucht 
 
 3. Een vlucht met een vliegtuig of een helikopter wordt slechts uitgevoerd indien voor iedere persoon van zes jaar of ouder een zit- of ligplaats aanwezig is.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De gezagvoerder van een vliegtuig of helikopter zorgt ervoor dat tijdens of dadelijk na afloop van de vlucht een journaal wordt gehouden.
 
@@ -86,7 +112,7 @@ Deze paragraaf is van toepassing op luchtwerk tegen vergoeding en op een vlucht 
 
 - f. ongevallen, bijzondere voorvallen en overschrijding van de gestelde gebruiksgrenzen die zich hebben voorgedaan.
 
-#### Artikel 5
+##### Artikel 5
 
 De door de gezagvoerder mee te voeren documenten, bedoeld in [artikel 4.8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=4.8), zijn:
 
@@ -112,13 +138,13 @@ De door de gezagvoerder mee te voeren documenten, bedoeld in [artikel 4.8 van de
 
 - 3°. indien het luchtvaartuig gevaarlijke stoffen vervoert: de NOTOC, bedoeld in de Regeling meldings- en informatieplicht vervoer gevaarlijke stoffen door de lucht.
 
-#### Artikel 6
+##### Artikel 6
 
 Een vlucht met een vliegtuig waarvan de maximale startmassa meer dan 5700 kg bedraagt, wordt slechts uitgevoerd indien het cockpitpersoneel bestaat uit ten minste een eerste en een tweede bestuurder.
 
 #### § 2a. Luchtwerk met een vliegtuig of helikopter ten behoeve van de taakuitvoering in de Kustwacht
 
-#### Artikel 7
+##### Artikel 7
 
 Een vlucht met een vrije ballon tegen vergoeding wordt uitgevoerd met inachtneming van een vaarthandboek, dat de aanwijzingen en informatie bevat die de bij de vluchtuitvoering betrokken personen nodig hebben om hun taken te kunnen uitvoeren. Het vaarthandboek bevat ten minste:
 
@@ -140,7 +166,7 @@ Een vlucht met een vrije ballon tegen vergoeding wordt uitgevoerd met inachtnemi
 
 - i. de beschrijving van een controlesysteem dat voor de start, tijdens de vlucht, bij de landing en in noodgevallen wordt gebruikt om te waarborgen dat de aanwijzingen van het vaarthandboek en van de fabrikant van de ballon worden opgevolgd.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De gezagvoerder zorgt ervoor dat tijdens of dadelijk na afloop van een vlucht met een vrije ballon tegen vergoeding een journaal wordt gehouden.
 
@@ -152,21 +178,21 @@ Een vlucht met een vrije ballon tegen vergoeding wordt uitgevoerd met inachtnemi
 
 3. Het journaal wordt ten minste drie maanden bewaard.
 
-#### Artikel 9
+##### Artikel 9
 
 [Artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024167&paragraaf=2&artikel=5&z=2025-02-13&g=2025-02-13) is van overeenkomstige toepassing op een vlucht met een vrije ballon tegen vergoeding.
 
 #### § 4. Slotbepalingen
 
-#### Artikel 10
+##### Artikel 10
 
 Wijzigt de Regeling logboeken.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze regeling gaat voor de vluchtuitvoering met Nederlandse luchtvaartuigen buiten het vluchtinformatiegebied Amsterdam ten behoeve van de taakuitvoering in de Kustwacht gelden per 1 juli 2025.
 
-#### Artikel 12
+##### Artikel 12
 
 De volgende regelingen worden ingetrokken:
 
@@ -174,11 +200,11 @@ De volgende regelingen worden ingetrokken:
 
 - b. [Tarievenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0005818).
 
-#### Artikel 13
+##### Artikel 13
 
 Deze regeling treedt in werking op het tijdstip waarop het [Besluit vluchtuitvoering](https://wetten.overheid.nl/jci1.3:c:BWBR0020111) in werking treedt.
 
-#### Artikel 14
+##### Artikel 14
 
 Deze regeling wordt aangehaald als: Regeling vluchtuitvoering.
 
@@ -188,7 +214,7 @@ Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlage, die ter inzage wordt gelegd bij het Ministerie van Verkeer en Waterstaat.
 
-#### Artikel 6a
+##### Artikel 6a
 
 1. Deze paragraaf is van toepassing op de taakuitvoering in de Kustwacht voor zover uitgevoerd binnen het relevante geografische werkgebied als bedoeld in artikel 5 Regeling organisatie Kustwacht Nederland, artikel 3 Regeling inzake de SAR-dienst 1994 en artikel 3 van de Rijkswet Kustwacht voor Aruba, Curaçao en Sint Maarten alsmede voor de openbare lichamen Bonaire, Sint Eustatius en Saba.
 

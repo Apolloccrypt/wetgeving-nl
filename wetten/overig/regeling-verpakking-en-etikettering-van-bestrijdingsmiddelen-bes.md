@@ -1,16 +1,41 @@
 ---
 title: "Regeling verpakking en etikettering van bestrijdingsmiddelen BES"
 identifier: "BWBR0028829"
-categorie: "Overig"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028829"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028829"
+soort: "ministeriele-regeling-BES"
+stam_id: "11036703"
+version_id: "18030312"
+internal_id: "C25069131"
+label_id: "11011154"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028829/2010-10-10/0"
+intitule_bron: "Stcrt.2010-15965"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-10-08"
+intitule_published: "2010-10-12"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-15965"
+original_signed_date: "2010-10-08"
+original_published_date: "2010-10-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-15965"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028829&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028829&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-10-08"
+entry_into_force: "2010-10-10"
 ---
-
 # Regeling verpakking en etikettering van bestrijdingsmiddelen BES
 
-#### Artikel 1
+##### Artikel 1
 
 1. De verpakking van een bestrijdingsmiddel en de sluiting daarvan moeten deugdelijk en veilig zijn en aan de volgende eisen voldoen:
 
@@ -30,7 +55,7 @@ bron: "https://wetten.overheid.nl/BWBR0028829"
 
 2. De Minister bedoeld in [artikel 1 van de Wet voorschriften bestrijdingsmiddelen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028176&artikel=1), kan bepalen dat in het belang van de volksgezondheid in die gevallen waar bijzondere veiligheid is geëist, een kinderveilige sluiting is vereist.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Op de verpakking van een bestrijdingsmiddel moet worden vermeld:
 
@@ -54,7 +79,7 @@ bron: "https://wetten.overheid.nl/BWBR0028829"
 
 3. De voorschriften en aanwijzingen omtrent het gebruik worden gesteld in het Nederlands, alsmede in het Engels in de openbare lichamen van Sint Eustatius en Saba en in het Papiaments in het openbaar lichaam Bonaire.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Bovendien moeten op de verpakking worden vermeld;.
 
@@ -68,7 +93,7 @@ bron: "https://wetten.overheid.nl/BWBR0028829"
 
 3. In het belang van de volksgezondheid en het milieu kan worden afgeweken van de in de [bijlagen I tot en met III](https://wetten.overheid.nl/jci1.3:c:BWBR0028829&bijlage=I&z=2010-10-10&g=2010-10-10) gegeven aanduidingen en kunnen door de Minister, bedoeld in [artikel 1 van de Wet voorschriften bestrijdingsmiddelen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028176&artikel=1), nadere aanduidingen worden vereist.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De voorgeschreven aanduidingen en vermeldingen dienen op de verpakking te worden aangebracht door middel van een etiket of rechtstreeks door een van een omlijsting voorziene opdruk op de verpakking.
 
@@ -76,15 +101,15 @@ bron: "https://wetten.overheid.nl/BWBR0028829"
 
 3. Het etiket of opdruk, als bedoeld in het eerste lid, dient zodanig te zijn aangebracht, dat, indien de verpakking op de voor die verpakking gangbare wijze is opgesteld, dat etiket of die opdruk goed zichtbaar is en gemakkelijk kan worden gelezen, ook na de opening van de verpakking.
 
-#### Artikel 5
+##### Artikel 5
 
 Indien de verpakking zo klein is dat redelijkerwijs niet alle voorgeschreven aanduidingen en vermeldingen daarop kunnen worden gesteld, bepaalt de Minister, bedoeld in [artikel 1 van de Wet voorschriften bestrijdingsmiddelen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028176&artikel=1), op welke wijze aan het in het [eerste lid van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028829&artikel=4&z=2010-10-10&g=2010-10-10) gestelde, zal worden voldaan.
 
-#### Artikel 6
+##### Artikel 6
 
 Op, aan of bij de verpakking mogen geen aanduidingen en vermeldingen voorkomen, welke een onjuiste of misleidende indruk kunnen wekken omtrent de aard, de samenstelling, de toepassingsmogelijkheden of de schadelijkheid van het bestrijdingsmiddel.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling wordt aangehaald als: Regeling verpakking en etikettering van bestrijdingsmiddelen BES.
 

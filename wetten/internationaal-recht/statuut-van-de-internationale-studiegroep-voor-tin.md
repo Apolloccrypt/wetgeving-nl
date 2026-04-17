@@ -1,24 +1,46 @@
 ---
 title: "Statuut van de Internationale Studiegroep voor Tin"
 identifier: "BWBV0002884"
-categorie: "Internationaal recht"
-publicatiedatum: 1989-04-07
-laatste_update: 1989-04-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002884"
+country: "nl"
+rank: "verdrag"
+publication_date: "1989-04-07"
+last_updated: "1989-04-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002884"
+soort: "verdrag"
+stam_id: "10003202543"
+version_id: "10003216362"
+internal_id: "C10006985251"
+label_id: "10003188584"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002884/1989-04-07/0"
+intitule_bron: "Trb.1990-76"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1991-11-06"
+intitule_published: "1990-05-15"
+intitule_status: "nogniet"
+original_publication: "Trb.1990-76"
+original_signed_date: "1991-11-06"
+original_published_date: "1990-05-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1990-76"
+jci_1_3: "jci1.3:c:BWBV0002884&z=1989-04-07&g=1989-04-07"
+jci_1_0: "1.0:c:BWBV0002884&g=1989-04-07"
+citeertitel_status: "officieel"
+signed_date: "1991-11-06"
+entry_into_force: "1990-05-15"
 ---
-
 # Statuut van de Internationale Studiegroep voor Tin
 
-#### Oprichting
+##### Oprichting
 
 - 1. De Internationale Studiegroep voor Tin wordt hierbij opgericht ten einde de bepalingen van dit Statuut uit te voeren en toezicht te houden op de uitvoering ervan.
 
-#### Doelstelling
+##### Doelstelling
 
 - 2. De doelstelling van de Groep is het verzekeren van een sterkere internationale samenwerking inzake aangelegenheden betreffende tin door de beschikbare informatie betreffende de internationale tinhuishouding te verbeteren en een kader te bieden voor intergouvernementeel overleg over tin.
 
-#### Definities
+##### Definities
 
 - 3.
 
@@ -28,7 +50,7 @@ bron: "https://wetten.overheid.nl/BWBV0002884"
 
 - c). „Leden” betekent: alle Staten en intergouvernementele organisaties, zoals bepaald in paragraaf 5, die kennis hebben gegeven van hun aanvaarding overeenkomstig paragraaf 21.
 
-#### Taken
+##### Taken
 
 - 4. De Groep heeft de volgende taken:
 
@@ -38,11 +60,11 @@ bron: "https://wetten.overheid.nl/BWBV0002884"
 
 - c). het ondernemen van de nodige studies over een breed scala van belangrijke tinkwesties, overeenkomstig de besluiten van de Groep.
 
-#### Lidmaatschap
+##### Lidmaatschap
 
 - 5. Het lidmaatschap van de Groep staat open voor alle Staten die belang hebben bij de produktie of het verbruik van, of de internationale handel in tin, en voor elke intergouvernementele organisatie met verantwoordelijkheden met betrekking tot onderhandelingen, sluiting en toepassing van internationale overeenkomsten, in het bijzonder van grondstoffenovereenkomsten.
 
-#### Bevoegdheden van de Groep
+##### Bevoegdheden van de Groep
 
 - 6.
 
@@ -54,11 +76,11 @@ bron: "https://wetten.overheid.nl/BWBV0002884"
 
 - d). De Groep heeft niet de bevoegdheid en wordt niet geacht door zijn leden te zijn gemachtigd om enige verplichting aan te gaan buiten het raamwerk van dit Statuut of van het interne reglement.
 
-#### Zetel
+##### Zetel
 
 - 7. De zetel van de Groep zal worden gevestigd op een door de Groep te kiezen plaats op het grondgebied van een Lidstaat, tenzij de Groep anders beslist. De Groep onderhandelt met de Regering van het land van vestiging over een Zetelovereenkomst welke zo vlug mogelijk gesloten dient te worden na inwerkingtreding van dit Statuut.
 
-#### Besluitvorming
+##### Besluitvorming
 
 - 8.
 
@@ -68,7 +90,7 @@ bron: "https://wetten.overheid.nl/BWBV0002884"
 
 - c). Elke Lid-Staat heeft recht op één stem.
 
-#### Permanente Commissie
+##### Permanente Commissie
 
 - 9.
 
@@ -76,11 +98,11 @@ bron: "https://wetten.overheid.nl/BWBV0002884"
 
 - b). De Permanente Commissie neemt taken op zich die haar door de Groep worden toegekend, en zal over beëindiging of voortgang van haar werkzaamheden verslag uitbrengen aan de Groep.
 
-#### Commissies en hulporganen
+##### Commissies en hulporganen
 
 - 10. De Groep mag een Raadgevende Commissie voor de Industrie oprichten ten einde toezicht te houden op de ontwikkeling van de tinindustrie. De Groep mag naast de Permanente Commissie, ook andere commissies of hulporganen oprichten op door de Groep vast te stellen voorwaarden.
 
-#### Secretariaat
+##### Secretariaat
 
 - 11.
 
@@ -88,7 +110,7 @@ bron: "https://wetten.overheid.nl/BWBV0002884"
 
 - b). De Secretaris-Generaal is de hoogste administratieve ambtenaar van de Groep en is verantwoordelijk tegenover de Groep voor de tenuitvoerlegging en de toepassing van dit Statuut in overeenstemming met de besluiten van de Groep.
 
-#### Samenwerking met anderen
+##### Samenwerking met anderen
 
 - 12.
 
@@ -100,11 +122,11 @@ bron: "https://wetten.overheid.nl/BWBV0002884"
 
 - d). De voorzitter mag waarnemers uitnodigen om deel te nemen aan de besprekingen van de Groep, maar zij hebben niet het recht te stemmen of voorstellen in te dienen.
 
-#### Betrekkingen met het Gemeenschappelijk Fonds
+##### Betrekkingen met het Gemeenschappelijk Fonds
 
 - 13. De Groep kan verzoeken te worden aangewezen als een internationaal grondstoffenorgaan (ICB) in de zin van artikel 7, negende lid, van de Overeenkomst tot oprichting van het Gemeenschappelijk Fonds voor Grondstoffen, ten einde op voorwaarden die door de Groep alleen bij consensus kunnen worden vastgesteld, als sponsor op te treden van tinprojecten die door het Fonds via zijn Tweede Loket worden gefinancierd. De Groep mag evenwel ten aanzien van dergelijke projecten geen financiële verplichtingen aangaan, noch mag hij optreden als uitvoerend orgaan voor enig dergelijk project.
 
-#### Rechtspositie
+##### Rechtspositie
 
 - 14.
 
@@ -114,7 +136,7 @@ bron: "https://wetten.overheid.nl/BWBV0002884"
 
 - c). De Groep heeft de rechtsbevoegdheid om haar functies uit te oefenen en bezit, met inachtneming van het gestelde in paragraaf 6, letter b) hierboven, in het bijzonder de bevoegdheid overeenkomsten aan te gaan, roerende en onroerende goederen te verwerven en vervreemden, en in rechte op te treden.
 
-#### Begrotingsbijdragen
+##### Begrotingsbijdragen
 
 - 15.
 
@@ -122,7 +144,7 @@ bron: "https://wetten.overheid.nl/BWBV0002884"
 
 - b). De Groep bepaalt de bijdrage van elk lid voor elk financieel jaar in een door de Groep te bepalen valuta en overeenkomstig de bepalingen met betrekking tot de bijdragen zoals gespecificeerd in het interne reglement. De betaling van de bijdrage vindt door elk lid plaats in overeenstemming met zijn grondwettelijke procedures.
 
-#### Statistieken en informatie
+##### Statistieken en informatie
 
 - 16.
 
@@ -132,7 +154,7 @@ bron: "https://wetten.overheid.nl/BWBV0002884"
 
 - c). De Groep tracht te verzekeren dat de door hem gepubliceerde informatie geen inbreuk maakt op de vertrouwelijkheid van de werkzaamheden van Regeringen of van personen of ondernemingen die tin produceren, bewerken, op de markt brengen of verbruiken.
 
-#### Jaarlijkse evaluatie en verslagen
+##### Jaarlijkse evaluatie en verslagen
 
 - 17.
 
@@ -140,7 +162,7 @@ bron: "https://wetten.overheid.nl/BWBV0002884"
 
 - b). De Groep bereidt een rapport voor waarin de resultaten van de jaarlijkse evaluatie zijn opgenomen en verspreidt dit onder zijn leden. Indien de Groep het wenselijk acht, kan dit rapport, zowel als andere rapporten en studies die onder de leden worden verspreid, in overeenstemming met het interne reglement ter beschikking worden gesteld aan andere belangstellende partijen.
 
-#### Studies
+##### Studies
 
 - 18.
 
@@ -148,15 +170,15 @@ bron: "https://wetten.overheid.nl/BWBV0002884"
 
 - b). De studies kunnen algemene aanbevelingen of suggesties bevatten, maar dergelijke aanbevelingen of suggesties mogen geen afbreuk doen aan het recht van ieder lid om alle aspecten van zijn eigen binnenlandse tinhuishouding te beheren, en mogen geen inbreuk maken op de bevoegdheid van andere internationale organisaties in aangelegenheden die binnen hun rechtsmacht vallen.
 
-#### Verplichtingen van de leden
+##### Verplichtingen van de leden
 
 - 19. De leden stellen alles in het werk om samen te werken en de doelstelling van de Groep te verwezenlijken, in het bijzonder door het verschaffen van de in paragraaf 16, letter a) vermelde gegevens betreffende de tinhuishouding.
 
-#### Wijzigingen
+##### Wijzigingen
 
 - 20. Dit Statuut kan slechts bij consensus van de Groep worden gewijzigd.
 
-#### Inwerkingtreding
+##### Inwerkingtreding
 
 - 21.
 
@@ -168,7 +190,7 @@ bron: "https://wetten.overheid.nl/BWBV0002884"
 
 - d). Wanneer dit Statuut in werking treedt, dient de depositaris zo spoedig mogelijk daarna een oprichtingsvergadering van de Groep bijeen te roepen. De leden zullen zo mogelijk ten minste één maand vóór die vergadering daarvan op de hoogte worden gebracht.
 
-#### Opzegging
+##### Opzegging
 
 - 22.
 
@@ -180,7 +202,7 @@ bron: "https://wetten.overheid.nl/BWBV0002884"
 
 - d). De Secretaris-Generaal van de Groep stelt elk lid onverwijld in kennis van elke kennisgeving die overeenkomstig deze paragraaf is ontvangen.
 
-#### Beëindiging
+##### Beëindiging
 
 - 23.
 
@@ -188,6 +210,6 @@ bron: "https://wetten.overheid.nl/BWBV0002884"
 
 - b). Ongeacht de beëindiging van dit Statuut zal de Groep blijven bestaan zolang dit nodig is voor zijn liquidatie, met inbegrip van de vereffening van de rekening.
 
-#### Voorbehouden
+##### Voorbehouden
 
 - 24. Op geen van de bepalingen van dit Statuut kunnen voorbehouden worden gemaakt.

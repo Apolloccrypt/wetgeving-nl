@@ -1,20 +1,46 @@
 ---
-title: "Besluit gedifferentieerde premie Whk 2021"
+title: "Besluit gedifferentieerde premie Werkhervattingskas 2021"
 identifier: "BWBR0044036"
-categorie: "Overig"
-publicatiedatum: 2021-01-01
-laatste_update: 2021-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044036"
+country: "nl"
+rank: "zbo"
+publication_date: "2021-01-01"
+last_updated: "2021-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044036"
+soort: "zbo"
+stam_id: "15614923"
+version_id: "26994172"
+internal_id: "C38201631"
+label_id: "15555464"
+dtd_version: "2.0"
+original_entry_into_force: "2021-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044036/2021-01-01/0"
+intitule_bron: "Stcrt.2020-44785"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-08-18"
+intitule_published: "2020-09-01"
+intitule_in_force: "2020-09-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-44785"
+original_signed_date: "2020-08-18"
+original_published_date: "2020-09-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-44785"
+entry_into_force_date: "2021-01-01"
+jci_1_3: "jci1.3:c:BWBR0044036&z=2021-01-01&g=2021-01-01"
+jci_1_0: "1.0:c:BWBR0044036&g=2021-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit gedifferentieerde premie Whk 2021"
+signed_date: "2020-08-18"
+entry_into_force: "2021-01-01"
 ---
-
 # Besluit gedifferentieerde premie Werkhervattingskas 2021
 
 Gelet op [artikel 38 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38) (Wfsv) en [artikel 2.10 lid 3 van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=2.10);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de berekening van de gedifferentieerde premie op grond [artikel 38 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38) over het jaar 2021 worden voor alle takken van bedrijf en beroep de navolgende algemeen geldende parameters vastgesteld:
 
@@ -23,7 +49,7 @@ Voor de berekening van de gedifferentieerde premie op grond [artikel 38 van de W
 | Grens kleine/middelgrote werkgever | € 346.000 |
 | Grens middelgrote/grote werkgever | € 3.460.000 |
 
-#### Artikel 2
+##### Artikel 2
 
 Voor de berekening van de gedifferentieerde premie Werkhervattingskas op grond van [artikel 38 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38) over het jaar 2021 worden voor de premiecomponent WGA voor alle takken van bedrijf en beroep de volgende premies en parameters vastgesteld:
 
@@ -36,7 +62,7 @@ Voor de berekening van de gedifferentieerde premie Werkhervattingskas op grond v
 | Correctiefactoren bij onvolledige periode werkgever 1 jaar bekend 2 jaar bekend 3 jaar bekend 4 jaar bekend | 5,00 2,50 1,66 1,25 |
 | Sectorale premies | Bijlage |
 
-#### Artikel 3
+##### Artikel 3
 
 Voor de berekening van de gedifferentieerde premie Werkhervattingskas op grond van [artikel 38 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38) over het jaar 2021 worden voor de premiecomponent ZW voor alle takken van bedrijf en beroep de volgende premies en parameters vastgesteld:
 
@@ -51,11 +77,11 @@ Voor de berekening van de gedifferentieerde premie Werkhervattingskas op grond v
 
 Voor werkgevers in sector 52 ‘Uitzendbedrijven’ geldt een afwijkende maximumpremie van 9,31%.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit wordt aangehaald als: Besluit gedifferentieerde premie Whk 2021.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang van 1 januari 2021.
 

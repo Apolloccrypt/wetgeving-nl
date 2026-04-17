@@ -1,13 +1,32 @@
 ---
 title: "Overeenkomst betreffende de toepassing van het Europees Verdrag tot bestrijding van terrorisme tussen de Lid-Staten van de Europese Gemeenschappen"
 identifier: "BWBV0004779"
-categorie: "Internationaal recht"
-publicatiedatum: 1979-12-04
-laatste_update: 1979-12-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004779"
+country: "nl"
+rank: "verdrag"
+publication_date: "1979-12-04"
+last_updated: "1979-12-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004779"
+soort: "verdrag"
+stam_id: "10004311573"
+version_id: "10004510712"
+internal_id: "C10008384171"
+label_id: "10004296484"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004779/1979-12-04/0"
+intitule_bron: "Trb.1980-14"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1980-01-30"
+intitule_status: "nogniet"
+original_publication: "Trb.1980-14"
+original_published_date: "1980-01-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1980-14"
+jci_1_3: "jci1.3:c:BWBV0004779&z=1979-12-04&g=1979-12-04"
+jci_1_0: "1.0:c:BWBV0004779&g=1979-12-04"
+citeertitel_status: "redactioneel"
+entry_into_force: "1980-01-30"
 ---
-
 # Overeenkomst betreffende de toepassing van het Europees Verdrag tot bestrijding van terrorisme tussen de Lid-Staten van de Europese Gemeenschappen
 
 De Lid-Staten van de Europese Gemeenschappen,
@@ -18,17 +37,17 @@ in afwachting van de bekrachtiging zonder voorbehoud van het Europees Verdrag to
 
 zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 Deze Overeenkomst is van toepassing op de betrekkingen tussen twee Lid-Staten waarvan ten minste één geen partij is bij het Europees Verdrag of wel partij is bij dat Verdrag, maar een voorbehoud heeft gemaakt.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Op de betrekkingen tussen twee Lid-Staten die partij zijn bij het Europees Verdrag, maar waarvan ten minste één een voorbehoud heeft gemaakt ten aanzien van dat Verdrag, wordt het Verdrag toegepast met inachtneming van de bepalingen van deze Overeenkomst.
 
 2. Op de betrekkingen tussen twee Lid-Staten waarvan ten minste één geen partij is bij het Europees Verdrag, zijn de artikelen l tot en met 8 en artikel 13 van het Europees Verdrag van toepassing, behoudens de bepalingen van deze Overeenkomst.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Elke Lid-Staat die van het bij artikel 13 van het Europees Verdrag toegestane voorbehoud gebruik heeft gemaakt, verklaart of hij voor de toepassing van deze Overeenkomst gebruik wenst te maken van dit voorbehoud.
 
@@ -40,7 +59,7 @@ Deze Overeenkomst is van toepassing op de betrekkingen tussen twee Lid-Staten wa
 
 5. Een Lid-Staat die een voorbehoud heeft gemaakt, kan de toepassing van deze Overeenkomst door een andere Staat slechts in zoverre verlangen als de Overeenkomst zelf op de eerstgenoemde Staat van toepassing is.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De in artikel 3 bedoelde verklaringen kunnen door een Lid-Staat worden afgelegd bij ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding of goedkeuring.
 
@@ -48,17 +67,17 @@ Deze Overeenkomst is van toepassing op de betrekkingen tussen twee Lid-Staten wa
 
 3. Het Ministerie van Buitenlandse Zaken van Ierland geeft van deze verklaringen aan de andere Lid-Staten kennis.
 
-#### Artikel 5
+##### Artikel 5
 
 Elk geschil tussen de Lid-Staten inzake de uitlegging of toepassing van deze Overeenkomst, dat niet door onderhandelingen is beslecht, wordt op verzoek van een bij het geschil betrokken partij onderworpen aan de in artikel 10 van het Europees Verdrag bedoelde scheidsrechterlijke procedure.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Deze Overeenkomst staat voor de Lid-Staten van de Europese Gemeenschappen ter ondertekening open. Zij moet worden bekrachtigd, aanvaard of goedgekeurd. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij het Ministerie van Buitenlandse Zaken van Ierland.
 
 2. Deze Overeenkomst treedt in werking drie maanden na de nederlegging van de akten van bekrachtiging, aanvaarding of goedkeuring, door alle Staten die lid zijn van de Europese Gemeenschappen op de dag waarop deze Overeenkomst voor ondertekening wordt opengesteld.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Elke Lid-Staat kan, op het tijdstip van ondertekening of van de nederlegging van zijn akte van bekrachtiging, aanvaarding of goedkeuring, het grondgebied of de grondgebieden aanwijzen waarop deze Overeenkomst van toepassing is.
 
@@ -68,7 +87,7 @@ Elk geschil tussen de Lid-Staten inzake de uitlegging of toepassing van deze Ove
 
 4. Het Ministerie van Buitenlandse Zaken van Ierland geeft van deze verklaringen of kennisgevingen aan de andere Lid-Staten kennis.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze Overeenkomst houdt op te werken op de dag waarop alle Lid-Staten zonder voorbehoud partij worden bij het Europees Verdrag.
 

@@ -1,20 +1,45 @@
 ---
 title: "Regeling werkgeverstegemoetkoming langdurige inzet reservisten 2021"
 identifier: "BWBR0045932"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2021-12-01
-laatste_update: 2021-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045932"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-12-01"
+last_updated: "2021-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045932"
+soort: "ministeriele-regeling"
+stam_id: "16161033"
+version_id: "28197372"
+internal_id: "C39752021"
+label_id: "16089484"
+dtd_version: "2.0"
+original_entry_into_force: "2021-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045932/2021-12-01/0"
+intitule_bron: "Stcrt.2021-47810"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-10-28"
+intitule_published: "2021-11-30"
+intitule_in_force: "2021-11-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-47810"
+original_signed_date: "2021-10-28"
+original_published_date: "2021-11-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-47810"
+entry_into_force_date: "2021-12-01"
+jci_1_3: "jci1.3:c:BWBR0045932&z=2021-12-01&g=2021-12-01"
+jci_1_0: "1.0:c:BWBR0045932&g=2021-12-01"
+citeertitel_status: "officieel"
+signed_date: "2021-10-28"
+entry_into_force: "2021-12-01"
 ---
-
 # Regeling werkgeverstegemoetkoming langdurige inzet reservisten 2021
 
 Gelet op [artikel 12l van de Wet Ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12l);
 
 Besluit:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 In deze regeling wordt verstaan onder:
 
@@ -30,7 +55,7 @@ In deze regeling wordt verstaan onder:
 
 - **Werkdag:** een aaneengesloten tijdruimte waarin werkzaamheden of diensten worden verricht en die is gelegen tussen twee voorgeschreven opeenvolgende onafgebroken rusttijden.
 
-#### Artikel 2. Werkgeverstegemoetkoming bij langdurige inzet
+##### Artikel 2. Werkgeverstegemoetkoming bij langdurige inzet
 
 1. Bij langdurige inzet van de reservist maakt de civiele werkgever van de reservist op aanvraag aanspraak op een tegemoetkoming van € 55,00 per werkdag, met een maximum van vijf dagen per week voor de duur van maximaal een jaar, als bijdrage in de kosten verband houdende met de afwezigheid van de werknemer.
 
@@ -42,7 +67,7 @@ In deze regeling wordt verstaan onder:
 
 5. Na beëindiging van de inzet van de reservist op basis waarvan de civiele werkgever de tegemoetkoming heeft ontvangen, geldt een wachttijd van zes maanden waarin geen langdurige inzet plaats vindt, voordat er opnieuw een werkgeverstegemoetkoming voor inzet van de betreffende reservist kan worden aangevraagd.
 
-#### Artikel 3. Aanvragen van de tegemoetkoming
+##### Artikel 3. Aanvragen van de tegemoetkoming
 
 1. De civiele werkgever van de reservist kan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045932&artikel=2&z=2021-12-01&g=2021-12-01) bedoelde tegemoetkoming aanvragen bij het ServiceCentrum Employer Support Reservisten.
 
@@ -58,25 +83,25 @@ In deze regeling wordt verstaan onder:
 
 3. De aanvraag voor toepassing van de Regeling kan worden ingediend uiterlijk één jaar na de aanvang van de langdurige inzet, waarvoor deze wordt aangevraagd.
 
-#### Artikel 4. Betaling en tussentijdse beëindiging
+##### Artikel 4. Betaling en tussentijdse beëindiging
 
 1. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045932&artikel=2&z=2021-12-01&g=2021-12-01) bedoelde tegemoetkoming wordt maandelijks achteraf aan de civiele werkgever of aan de zelfstandige ondernemer betaald.
 
 2. Wanneer de inzet van de reservist tussentijds wordt beëindigd door omstandigheden die niet voor rekening of risico van de reservist zijn, waardoor de reservist korter dan een periode van drie maanden is ingezet, ontvangt de civiele werkgever de tegemoetkoming tot het moment dat de reservist zijn werkzaamheden hervat bij zijn civiele werkgever.
 
-#### Artikel 5. Hardheidsclausule
+##### Artikel 5. Hardheidsclausule
 
 De commandant DPOD is bevoegd om van het bepaalde in [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045932&artikel=2&z=2021-12-01&g=2021-12-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0045932&artikel=4&z=2021-12-01&g=2021-12-01) af te wijken indien toepassing daarvan zou leiden tot onbillijkheid van overwegende aard.
 
-#### Artikel 6. Citeertitel
+##### Artikel 6. Citeertitel
 
 Deze regeling wordt aangehaald als: ‘Regeling werkgeverstegemoetkoming langdurige inzet reservisten 2021’.
 
-#### Artikel 7. Intrekking bestaande regeling
+##### Artikel 7. Intrekking bestaande regeling
 
 De [regeling werkgeverstegemoetkoming langdurig inzet reservisten](https://wetten.overheid.nl/jci1.3:c:BWBR0041345) wordt ingetrokken.
 
-#### Artikel 8. Inwerkingtreding
+##### Artikel 8. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 

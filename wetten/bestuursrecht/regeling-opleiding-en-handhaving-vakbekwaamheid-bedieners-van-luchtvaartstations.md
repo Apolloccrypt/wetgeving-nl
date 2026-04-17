@@ -1,13 +1,39 @@
 ---
-title: "Regeling opleiding en handhaving vakbekwaamheid bedieners van luchtvaartstations en vluchtinformatieverstrekkers"
+title: "Regeling van de Minister van Infrastructuur en Waterstaat, van 6 december 2017, nr. IENM/BSK-2017/267441, houdende vaststelling van de vereiste kennis, bedrevenheid en ervaring van bedieners van luchtvaartstations en vluchtinformatieverstrekkers, de goedkeuring van de desbetreffende opleidingenplannen, alsmede de certificering van opleidingsinstellingen voor vluchtinformatieverstrekkers (Regeling opleiding en handhaving vakbekwaamheid bedieners van luchtvaartstations en vluchtinformatieverstrekkers)"
 identifier: "BWBR0040324"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-09
-laatste_update: 2026-01-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040324"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-09"
+last_updated: "2026-01-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040324"
+soort: "ministeriele-regeling"
+stam_id: "14440843"
+version_id: "31294622"
+internal_id: "C44741451"
+label_id: "14401984"
+dtd_version: "2.0"
+original_entry_into_force: "2025-12-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040324/2026-01-09/0"
+intitule_bron: "Stcrt.2017-69883"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-12-06"
+intitule_published: "2017-12-07"
+intitule_in_force: "2017-12-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-44291"
+original_signed_date: "2025-12-08"
+original_published_date: "2025-12-23"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2025-44291"
+entry_into_force_date: "2025-12-08"
+jci_1_3: "jci1.3:c:BWBR0040324&z=2026-01-09&g=2026-01-09"
+jci_1_0: "1.0:c:BWBR0040324&g=2026-01-09"
+citeertitel_status: "officieel"
+short_title: "Regeling opleiding en handhaving vakbekwaamheid bedieners van luchtvaartstations en vluchtinformatieverstrekkers"
+signed_date: "2025-12-08"
+entry_into_force: "2025-12-08"
 ---
-
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 6 december 2017, nr. IENM/BSK-2017/267441, houdende vaststelling van de vereiste kennis, bedrevenheid en ervaring van bedieners van luchtvaartstations en vluchtinformatieverstrekkers, de goedkeuring van de desbetreffende opleidingenplannen, alsmede de certificering van opleidingsinstellingen voor vluchtinformatieverstrekkers (Regeling opleiding en handhaving vakbekwaamheid bedieners van luchtvaartstations en vluchtinformatieverstrekkers)
 
 Gelet op de [artikelen 20, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=20), [21, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=21), [22c](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=22c), [22d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=22d), [24a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=24a), en [24d van het Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=24d);
@@ -16,7 +42,7 @@ BESLUIT:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -58,7 +84,7 @@ In deze regeling wordt verstaan onder:
 
 - **voortgezette opleiding:** training gericht op het handhaven van de geldigheid van de bevoegdverklaringen en aantekeningen, bestaande uit herhalingsopleidingen en conversieopleidingen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Opleidingen voor een ASO of een FISO bestaan uit de volgende typen:
 
@@ -80,7 +106,7 @@ In deze regeling wordt verstaan onder:
 
 Op de onder a en b bedoelde opleidingen is het tweede lid van overeenkomstige toepassing.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De basisopleiding bevat de theorie- en praktijkopleiding die basiskennis en praktische vaardigheden in verband met elementaire operationele procedures bijbrengt.
 
@@ -122,7 +148,7 @@ Op de onder a en b bedoelde opleidingen is het tweede lid van overeenkomstige to
 
 #### § 2. Afgifte, verlenging en vernieuwing
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een ASO onderscheidenlijk een FISO wordt verstrekt aan een ieder die blijkens een door een assessor afgenomen en schriftelijk vastgelegd assessment met goed gevolg een opleiding heeft gevolgd overeenkomstig een door de minister goedgekeurd opleidingenplan en die voldoet aan de eisen, bedoeld in [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=3&z=2026-01-09&g=2026-01-09) onderscheidenlijk [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=4&z=2026-01-09&g=2026-01-09).
 
@@ -148,7 +174,7 @@ Op de onder a en b bedoelde opleidingen is het tweede lid van overeenkomstige to
 
 #### § 3. Goedkeuring van opleidingenplannen voor het ASO
 
-#### Artikel 5
+##### Artikel 5
 
 In het opleidingenplan onderscheidenlijk de opleidingenplannen, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=1&artikel=2&z=2026-01-09&g=2026-01-09), worden de volgende gegevens opgenomen:
 
@@ -160,7 +186,7 @@ In het opleidingenplan onderscheidenlijk de opleidingenplannen, bedoeld in [arti
 
 - d. de methode voor het vastleggen van de resultaten van de opleiding.
 
-#### Artikel 6
+##### Artikel 6
 
 Een opleidingenplan ten behoeve van de basisopleiding voor een ASO bevat in elk geval:
 
@@ -168,7 +194,7 @@ Een opleidingenplan ten behoeve van de basisopleiding voor een ASO bevat in elk 
 
 - b. een syllabus en de prestatiedoelstellingen.
 
-#### Artikel 7
+##### Artikel 7
 
 Een opleidingenplan ten behoeve van de opleiding voor een bevoegdverklaring voor een ASO bevat in elk geval:
 
@@ -186,7 +212,7 @@ Een opleidingenplan ten behoeve van de opleiding voor een bevoegdverklaring voor
 
 - b. de praktijkopleiding die de praktische vaardigheden in verband met de operationele procedures bijbrengt.
 
-#### Artikel 8
+##### Artikel 8
 
 Een opleidingenplan ten behoeve van de opleiding voor de eenheid voor een ASO bevat in elk geval:
 
@@ -196,7 +222,7 @@ Een opleidingenplan ten behoeve van de opleiding voor de eenheid voor een ASO be
 
 - c. een training in operationele procedures en taakspecifieke aspecten.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Een voortgezette opleiding voor een ASO bestaat uit een herhalings- en, indien overeenkomstig het derde lid vereist, conversiecursussen, en wordt gegeven volgens de vereisten van het bekwaamhedenprogramma voor de eenheid.
 
@@ -220,7 +246,7 @@ Een opleidingenplan ten behoeve van de opleiding voor de eenheid voor een ASO be
 
 6. De totstandkomingsprocedure en de uitvoering van een voortgezette opleiding worden beschreven in een bekwaamhedenprogramma voor de eenheid.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De aanbieder van een opleiding voor een ASO legt het opleidingenplan of het bekwaamhedenprogramma uiterlijk 3 maanden voordat dat plan in werking moet treden ter goedkeuring voor aan de minister.
 
@@ -230,13 +256,13 @@ Een opleidingenplan ten behoeve van de opleiding voor de eenheid voor een ASO be
 
 #### § 4. Goedkeuring van opleidingenplannen voor het FISO
 
-#### Artikel 11
+##### Artikel 11
 
 1. Een opleidingenplan ten behoeve van de basisopleiding voor een FISO bevat in elk geval een theorie- en praktijkopleiding die basiskennis en praktische vaardigheden in verband met elementaire operationele procedures bijbrengt.
 
 2. De in het eerste lid bedoelde theorieopleiding bevat de onderwerpen bedoeld in aanhangsel 2 van bijlage I van verordening (EU) nr. 2015/340
 
-#### Artikel 12
+##### Artikel 12
 
 Een opleidingenplan ten behoeve van de opleiding voor een bevoegdverklaring voor een FISO bevat in elk geval:
 
@@ -248,7 +274,7 @@ Een opleidingenplan ten behoeve van de opleiding voor een bevoegdverklaring voor
 
 - b. praktijkopleiding die de praktische vaardigheden in verband met de operationele procedures bijbrengt.
 
-#### Artikel 13
+##### Artikel 13
 
 Een opleidingenplan ten behoeve van de opleiding voor de eenheid voor een FISO bevat in elk geval:
 
@@ -258,7 +284,7 @@ Een opleidingenplan ten behoeve van de opleiding voor de eenheid voor een FISO b
 
 - c. training in operationele procedures en taak specifieke aspecten.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Een voortgezette opleiding voor een FISO bestaat uit herhalings- en conversiecursussen en wordt gegeven volgens de vereisten van het bekwaamhedenprogramma voor de eenheid.
 
@@ -286,13 +312,13 @@ Een opleidingenplan ten behoeve van de opleiding voor de eenheid voor een FISO b
 
 8. De totstandkomingsprocedure en de uitvoering van een voortgezette opleiding worden beschreven in een bekwaamhedenprogramma voor de eenheid.
 
-#### Artikel 15
+##### Artikel 15
 
 Op de goedkeuring van opleidingsplannen voor het FISO zijn de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=3&artikel=5&z=2026-01-09&g=2026-01-09) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=3&artikel=10&z=2026-01-09&g=2026-01-09) van overeenkomstige toepassing.
 
 #### § 5. Goedkeuring van opleidingenplannen voor praktijkinstructeurs en assessors
 
-#### Artikel 16
+##### Artikel 16
 
 1. De opleiding van praktijkinstructeur bevat in elk geval de volgende onderdelen:
 
@@ -310,7 +336,7 @@ Op de goedkeuring van opleidingsplannen voor het FISO zijn de [artikelen 5](http
 
 - c. een of meer methoden voor het beoordelen van de bekwaamheid van assessors.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De aanbieder van de opleiding van praktijkinstructeur of assessor legt het opleidingenplan uiterlijk 3 maanden voordat dat plan in werking moet treden ter goedkeuring voor aan de minister.
 
@@ -320,7 +346,7 @@ Op de goedkeuring van opleidingsplannen voor het FISO zijn de [artikelen 5](http
 
 #### § 6. Certificering van opleidingsinstellingen voor het FISO
 
-#### Artikel 18
+##### Artikel 18
 
 De minister kan op aanvraag een opleidingsinstelling voor de opleiding tot vluchtinformatieverstrekker, die een opleiding als bedoeld in de [artikelen 11 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=4&artikel=11&z=2026-01-09&g=2026-01-09) en [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=5&artikel=16&z=2026-01-09&g=2026-01-09) aanbiedt, certificeren indien de aanvrager:
 
@@ -328,13 +354,13 @@ De minister kan op aanvraag een opleidingsinstelling voor de opleiding tot vluch
 
 - b. voldoet aan de eisen overeenkomstig bijlage III, subdelen A tot en met D, bij verordening (EU) nr. 2015/340.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Een aanvraag tot certificering wordt schriftelijk ingediend bij de minister overeenkomstig bijlage III, subdeel B, bij verordening (EU) nr. 2015/340.
 
 2. De minister kan om nadere gegevens verzoeken.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De minister beslist binnen 3 maanden op een aanvraag tot certificering.
 
@@ -342,7 +368,7 @@ De minister kan op aanvraag een opleidingsinstelling voor de opleiding tot vluch
 
 3. Een certificaat voor organisaties voor de opleiding tot vluchtinformatieverstrekker voldoet aan de eisen overeenkomstig aanhangsel 2 van bijlage II bij verordening (EU) nr. 2015/340.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Wanneer de opleidingsinstelling gedurende de geldigheidstermijn van de certificering niet meer aan de eisen, bedoeld in [artikel 18, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=6&artikel=18&z=2026-01-09&g=2026-01-09), kan voldoen, stelt zij de minister hier onmiddellijk van in kennis.
 
@@ -350,7 +376,7 @@ De minister kan op aanvraag een opleidingsinstelling voor de opleiding tot vluch
 
 #### § 7. Goedkeuring beoordelingsprocedures taalvaardigheid
 
-#### Artikel 22
+##### Artikel 22
 
 1. De minister kan op aanvraag goedkeuring verlenen aan de beoordelingsprocedures waarmee de taalvaardigheid bedoeld in [artikel 20, eerste lid, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=20) kan worden aangetoond, indien de instelling die deze beoordeling aanbiedt:
 
@@ -364,7 +390,7 @@ De minister kan op aanvraag een opleidingsinstelling voor de opleiding tot vluch
 
 #### § 7. Goedkeuring beoordelingsprocedures taalvaardigheid
 
-#### Artikel 23
+##### Artikel 23
 
 1. De geldigheidsduur van een taalvaardigheidsaantekening bij eerste afgifte en verlenging begint uiterlijk dertig dagen na de datum waarop de beoordeling van de taalvaardigheid met succes is voltooid.
 
@@ -376,7 +402,7 @@ De minister kan op aanvraag een opleidingsinstelling voor de opleiding tot vluch
 
 #### § 8. Afgifte en verlenging aantekening betreffende de taalvaardigheid
 
-#### Artikel 24
+##### Artikel 24
 
 1. Een theorieopleiding wordt uitsluitend gegeven door instructeurs met de vereiste kwalificaties.
 
@@ -386,11 +412,11 @@ De minister kan op aanvraag een opleidingsinstelling voor de opleiding tot vluch
 
 - b. tegenover de opleidingsorganisatie hebben aangetoond te beschikken over instructievaardigheden.
 
-#### Artikel 25
+##### Artikel 25
 
 Een praktijkopleiding worden uitsluitend gegeven door houders van een ASO of FISO met een aantekening voor instructeur voor opleidingen op de werkplek of een aantekening voor synthetische opleidingstoestellen.
 
-#### Artikel 26
+##### Artikel 26
 
 1. De houder van een aantekening OJTI is bevoegd tot het geven van praktijkopleiding en het uitoefenen van de supervisie over operationele werkplekken waarvoor hij of zij een geldige aantekening betreffende de eenheid heeft, en op synthetische opleidingstoestellen voor bevoegdverklaringen die hij of zij zelf heeft.
 
@@ -404,7 +430,7 @@ Een praktijkopleiding worden uitsluitend gegeven door houders van een ASO of FIS
 
 3. De minister kan op verzoek van de opleidingsorganisatie de in het tweede lid, onderdeel a, bedoelde periode inkorten tot niet minder dan een jaar.
 
-#### Artikel 27
+##### Artikel 27
 
 1. De houder van een aantekening STDI is bevoegd praktijkopleidingen te geven op synthetische opleidingstoestellen voor:
 
@@ -428,7 +454,7 @@ Een praktijkopleiding worden uitsluitend gegeven door houders van een ASO of FIS
 
 5. De minister kan op verzoek van de opleidingsorganisatie de in het derde lid, onderdeel a, bedoelde periode inkorten tot niet minder dan een jaar.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Een assessment wordt uitsluitend uitgevoerd door een houder van de aantekening assessor.
 
@@ -460,7 +486,7 @@ Een praktijkopleiding worden uitsluitend gegeven door houders van een ASO of FIS
 
 #### § 10. Aanvraag voor een aantekening voor instructeur en assessor
 
-#### Artikel 29
+##### Artikel 29
 
 De aanvrager van een aantekening OJTI heeft:
 
@@ -470,7 +496,7 @@ De aanvrager van een aantekening OJTI heeft:
 
 - c. in het jaar onmiddellijk voorafgaand aan de aanvraag met succes een cursus praktische instructietechnieken voltooid, waarbij de vereiste kennis en pedagogische vaardigheden zijn aangeleerd en deze adequaat zijn beoordeeld.
 
-#### Artikel 30
+##### Artikel 30
 
 De aanvrager van een aantekening STDI heeft:
 
@@ -478,7 +504,7 @@ De aanvrager van een aantekening STDI heeft:
 
 - b. in het jaar onmiddellijk voorafgaand aan de aanvraag met succes een cursus praktische instructietechnieken voltooid waarbij de vereiste kennis en pedagogische vaardigheden zijn aangeleerd, met gebruik van theoretische en praktische methoden, en deze adequaat zijn beoordeeld.
 
-#### Artikel 31
+##### Artikel 31
 
 De aanvrager van een aantekening assessor heeft:
 
@@ -488,7 +514,7 @@ De aanvrager van een aantekening assessor heeft:
 
 #### § 11. Verlenging van een aantekening voor instructeur of assessor
 
-#### Artikel 32
+##### Artikel 32
 
 1. De houder van de aantekening OJTI kan deze laten verlengen door met succes de herhalingscursus praktische instructievaardigheden te voltooien tijdens de geldigheidsperiode van de aantekening, mits wordt voldaan aan de vereisten van [artikel 29, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=10&artikel=29&z=2026-01-09&g=2026-01-09).
 
@@ -504,7 +530,7 @@ in het jaar voorafgaand aan de aanvraag voor vernieuwing, mits wordt voldaan aan
 
 4. Indien niet wordt voldaan aan de vereisten van [artikel 29, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=10&artikel=29&z=2026-01-09&g=2026-01-09), kan de aantekening voor instructeur voor opleidingen op de werkplek worden ingewisseld voor een aantekening voor synthetische opleidingstoestellen, mits naleving van de vereisten bedoeld in [artikel 33, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=11&artikel=33&z=2026-01-09&g=2026-01-09), is gewaarborgd.
 
-#### Artikel 33
+##### Artikel 33
 
 1. De houder van de aantekening STDI kan deze laten verlengen door met succes de herhalingscursus praktische instructievaardigheden en actuele operationele praktijken te voltooien te tijdens de geldigheidsperiode van de aantekening.
 
@@ -516,7 +542,7 @@ in het jaar voorafgaand aan de aanvraag voor vernieuwing, mits wordt voldaan aan
 
 3. Bij de eerste afgifte en bij de vernieuwing begint de geldigheidsperiode van de aantekening STDI uiterlijk dertig dagen na de datum waarop de beoordeling met succes is voltooid.
 
-#### Artikel 34
+##### Artikel 34
 
 1. De aantekening assessor kan worden verlengd door met succes de herhalingsopleiding beoordelingsvaardigheden en actuele operationele praktijken te voltooien tijdens de geldigheidsperiode van de aantekening.
 
@@ -530,7 +556,7 @@ in het jaar voorafgaand aan de aanvraag voor vernieuwing, mits wordt voldaan aan
 
 #### § 12. Tijdelijke machtiging voor instructeur of assessor
 
-#### Artikel 35
+##### Artikel 35
 
 1. De minister kan, indien naleving van de vereisten bedoeld in [artikel 26, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=9&artikel=26&z=2026-01-09&g=2026-01-09), niet mogelijk is, een tijdelijke machtiging als instructeur voor opleidingen op de werkplek verlenen.
 
@@ -538,7 +564,7 @@ in het jaar voorafgaand aan de aanvraag voor vernieuwing, mits wordt voldaan aan
 
 3. De in het eerste lid bedoelde tijdelijke bevoegdheid als instructeur voor opleidingen op de werkplek is beperkt tot de opleiding die nodig is in verband met een uitzonderlijke situatie en is geldig gedurende maximaal één jaar of, indien dit korter is, tot de vervaldatum van de aantekening OJTI die is afgegeven overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=10&artikel=29&z=2026-01-09&g=2026-01-09).
 
-#### Artikel 36
+##### Artikel 36
 
 1. De minister kan, indien niet aan het vereiste bedoeld in [artikel 28, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=9&artikel=28&z=2026-01-09&g=2026-01-09), kan worden voldaan, toestaan dat de houder van een aantekening assessor, die is afgegeven overeenkomstig [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=10&artikel=31&z=2026-01-09&g=2026-01-09), de in artikel 28, tweede lid, onderdeel b, genoemde beoordelingen uitvoert in het geval van buitengewone omstandigheden of om de onafhankelijkheid van de beoordeling te garanderen, op voorwaarde dat voldaan is aan de vereisten in het tweede en derde lid.
 
@@ -548,7 +574,7 @@ in het jaar voorafgaand aan de aanvraag voor vernieuwing, mits wordt voldaan aan
 
 #### § 13. Handhaven vakbekwaamheid
 
-#### Artikel 37
+##### Artikel 37
 
 De methode waarmee de vakbekwaamheden van de houders van bewijzen van bevoegdheid per eenheid op peil wordt gehouden wordt vastgesteld in een door de minister goed te keuren bekwaamhedenprogramma voor de eenheid, dat in elk geval de volgende elementen bevat:
 
@@ -576,23 +602,23 @@ De methode waarmee de vakbekwaamheden van de houders van bewijzen van bevoegdhei
 
 #### § 13. Handhaven vakbekwaamheid
 
-#### Artikel 38
+##### Artikel 38
 
 Een goedkeuring van een opleidingenplan of een certificering van een opleidingsinstelling die voor de inwerkingtreding van deze regeling is verleend op basis van de [Regeling certificering opleidingsinstellingen en goedkeuring opleidingenplannen luchtverkeersdienstverlening en luchtvaartterreininformatieverstrekking](https://wetten.overheid.nl/jci1.3:c:BWBR0023882) behoudt haar geldigheid voor de termijn waarvoor zij is verleend.
 
-#### Artikel 39
+##### Artikel 39
 
 Een ieder die betrokken is bij de uitvoering van deze regeling en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijk karakter kent of redelijkerwijs moet vermoeden, en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding daarvan, behoudens voor zover enig wettelijk voorschrift hem tot bekendmaking verplicht of uit zijn taak bij de uitvoering van deze regeling de noodzaak tot bekendmaking voortvloeit.
 
-#### Artikel 40
+##### Artikel 40
 
 De [Regeling examens en opleidingenplannen luchtverkeersdienstverlening en luchtvaartterreininformatieverstrekking](https://wetten.overheid.nl/jci1.3:c:BWBR0022264) en de [Regeling certificering opleidingsinstellingen en goedkeuring opleidingsplannen luchtverkeersdienst-verlening en luchtvaartterreininformatieverstrekking](https://wetten.overheid.nl/jci1.3:c:BWBR0023882) worden ingetrokken.
 
-#### Artikel 41
+##### Artikel 41
 
 Deze regeling treedt in werking met ingang van 1 januari 2018.
 
-#### Artikel 42
+##### Artikel 42
 
 Deze regeling wordt aangehaald als: Regeling opleiding en handhaving vakbekwaamheid bedieners van luchtvaartstations en vluchtinformatieverstrekkers.
 
@@ -1198,7 +1224,7 @@ Subthema COM 1.3 – Radiotelefonie
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3a
+##### Artikel 3a
 
 De aanvrager voor de aantekening betreffende de taalvaardigheid bedoeld in [artikel 18, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=6&artikel=18&z=2026-01-09&g=2026-01-09), en artikel 18a, derde lid, onderdeel e, van het besluit toont ten overstaande van een instelling die een op grond van [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040324&paragraaf=7&artikel=22&z=2026-01-09&g=2026-01-09), een taalvaardigheidsbeoordeling aanbiedt aan dat hij:
 
@@ -1214,7 +1240,7 @@ De aanvrager voor de aantekening betreffende de taalvaardigheid bedoeld in [arti
 
 #### § 2. Afgifte, verlenging en vernieuwing
 
-#### Artikel 4a
+##### Artikel 4a
 
 1. De geldigheidsduur van taalvaardigheidsaantekeningen voor eerste afgifte en vernieuwing begint uiterlijk dertig dagen na de datum waarop de beoordeling van de taalvaardigheid met succes is voltooid.
 

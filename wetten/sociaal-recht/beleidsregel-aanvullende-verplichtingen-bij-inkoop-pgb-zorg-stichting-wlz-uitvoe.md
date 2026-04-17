@@ -1,32 +1,58 @@
 ---
-title: "Beleidsregel aanvullende verplichtingen bij inkoop pgb zorg Stichting Wlz-uitvoerder Zorg en Zekerheid"
+title: "Beleidsregel aanvullende verplichtingen bij inkoop pgb-zorg Stichting Wlz-uitvoerder Zorg en Zekerheid"
 identifier: "BWBR0051879"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051879"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051879"
+soort: "zbo"
+stam_id: "17625463"
+version_id: "31114612"
+internal_id: "C44536941"
+label_id: "17525724"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051879/2026-01-01/0"
+intitule_bron: "Stcrt.2025-40680"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-11-20"
+intitule_published: "2025-11-28"
+intitule_in_force: "2025-11-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-40680"
+original_signed_date: "2025-11-20"
+original_published_date: "2025-11-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-40680"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051879&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051879&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel aanvullende verplichtingen bij inkoop pgb zorg Stichting Wlz-uitvoerder Zorg en Zekerheid"
+signed_date: "2025-11-20"
+entry_into_force: "2026-01-01"
 ---
-
 # Beleidsregel aanvullende verplichtingen bij inkoop pgb-zorg Stichting Wlz-uitvoerder Zorg en Zekerheid
 
 Gelet op [artikel 5.18](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&artikel=5.18) en de daarin besloten bevoegdheid om, bij de verlening van een persoonsgebonden budget aan de verzekerde, verplichtingen op te leggen die betrekking hebben op de kwaliteit en doelmatigheid van de in te kopen zorg.
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Stichting Wlz-uitvoerder Zorg en Zekerheid hanteert beleidsregels bij het opleggen van verplichtingen bij de verlening van een persoonsgebonden budget. Deze verplichtingen hebben betrekking op de kwaliteit en doelmatigheid van de in te kopen zorg. Deze beleidsregel is opgenomen in hoofdstuk 1 en 2 bij dit besluit.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van 1 januari 2026.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit wordt aangehaald als: Beleidsregel aanvullende verplichtingen bij inkoop pgb zorg Stichting Wlz-uitvoerder Zorg en Zekerheid.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit wordt met de toelichting in de Staatscourant geplaatst.
 

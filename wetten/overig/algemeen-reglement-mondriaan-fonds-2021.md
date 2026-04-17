@@ -1,13 +1,35 @@
 ---
 title: "Algemeen Reglement Mondriaan Fonds 2021"
 identifier: "BWBR0044527"
-categorie: "Overig"
-publicatiedatum: 2024-06-28
-laatste_update: 2024-06-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044527"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-06-28"
+last_updated: "2024-06-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044527"
+soort: "zbo"
+stam_id: "15764073"
+version_id: "27317872"
+internal_id: "C38585131"
+label_id: "15702474"
+dtd_version: "2.0"
+original_entry_into_force: "2021-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044527/2024-06-28/0"
+intitule_bron: "Stcrt.2020-62360"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2020-12-14"
+intitule_in_force: "2020-12-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-62360"
+original_published_date: "2020-12-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-62360"
+entry_into_force_date: "2021-01-01"
+jci_1_3: "jci1.3:c:BWBR0044527&z=2024-06-28&g=2024-06-28"
+jci_1_0: "1.0:c:BWBR0044527&g=2024-06-28"
+citeertitel_status: "officieel"
+entry_into_force: "2021-01-01"
 ---
-
 # Algemeen Reglement Mondriaan Fonds 2021
 
 Gelet op [artikel 10, lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
@@ -16,7 +38,7 @@ Besluit:
 
 ### Hoofdstuk I. Definities
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling en de hierop te baseren deelregelingen wordt verstaan onder:
 
@@ -68,7 +90,7 @@ In deze regeling en de hierop te baseren deelregelingen wordt verstaan onder:
 
 ### Hoofdstuk II. Doel
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het bestuur van het fonds kan subsidies verstrekken met als doel de betekenisvolle ontwikkeling en zichtbaarheid van beeldende kunst en cultureel erfgoed in Nederland te stimuleren daar waar de markt dit niet of nog niet mogelijk maakt.
 
@@ -78,7 +100,7 @@ In deze regeling en de hierop te baseren deelregelingen wordt verstaan onder:
 
 ### Hoofdstuk III. Algemeen
 
-#### Artikel 3
+##### Artikel 3
 
 1. Met inachtneming van de doelstelling van het fonds, in overeenstemming met de statuten en volgens de bepalingen in dit reglement en de van toepassing zijnde deelregeling kan het bestuur op aanvraag subsidies verlenen aan instellingen, beeldend kunstenaars, opdrachtgevers en bemiddelaars.
 
@@ -90,7 +112,7 @@ In deze regeling en de hierop te baseren deelregelingen wordt verstaan onder:
 
 5. Een subsidie wordt uitsluitend verstrekt indien de aanvraag naar het oordeel van het bestuur, gehoord het bevoegd adviesorgaan, voldoet aan de in de betreffende deelregeling vastgestelde criteria.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het bestuur kan een subsidieplafond instellen voor één of meerdere deelregelingen.
 
@@ -104,7 +126,7 @@ In deze regeling en de hierop te baseren deelregelingen wordt verstaan onder:
 
 6. Het bestuur kan voor iedere aanvraagronde, als bedoeld in het vorige lid, het budget per deelregeling vaststellen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Bij de beslissing over het verstrekken van een subsidie is kwaliteit en context altijd een criterium.
 
@@ -120,7 +142,7 @@ In deze regeling en de hierop te baseren deelregelingen wordt verstaan onder:
 
 - •. samenwerking: de allianties die de aanvrager aangaat om verbinding te leggen met (andere) instellingen, opdrachtgevers en/of kunstenaars om een betekenisrijk project tot stand te brengen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een subsidie aan of ten behoeve van een natuurlijke persoon wordt slechts verstrekt als deze persoon artistiek inhoudelijk actief is in de beeldende kunsten en/of in het cultureel erfgoed en in die hoedanigheid ingebed is in de professionele beeldende kunst en/of cultureel erfgoed-praktijk in Nederland.
 
@@ -128,7 +150,7 @@ In deze regeling en de hierop te baseren deelregelingen wordt verstaan onder:
 
 3. In afwijking van het tweede lid van dit artikel kan aan een niet in Nederland gevestigde instelling of opdrachtgever een subsidie worden verstrekt indien de activiteit betrekking heeft op hedendaagse beeldende kunst uit Nederland.
 
-#### Artikel 7
+##### Artikel 7
 
 1. In de gevallen dat een deelregeling de mogelijkheid kent om vaste bedragen toe te kennen worden de hoogten daarvan door het bestuur vastgesteld.
 
@@ -138,7 +160,7 @@ In deze regeling en de hierop te baseren deelregelingen wordt verstaan onder:
 
 4. De vast te stellen bedragen, percentages of voordrachten bedoeld in het eerste, tweede en derde lid worden aan de aanvragers bekend gemaakt bij het ter beschikking stellen van de aanvraagformulieren, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0044527&hoofdstuk=IV&artikel=10&z=2024-06-28&g=2024-06-28).
 
-#### Artikel 8
+##### Artikel 8
 
 1. Bij de verlening van de subsidie wordt de periode waarover de subsidie zich uitstrekt bepaald.
 
@@ -146,7 +168,7 @@ In deze regeling en de hierop te baseren deelregelingen wordt verstaan onder:
 
 3. Het recht op een subsidie vervalt bij overlijden, faillissement of schuldsanering van de persoon, of faillissement van de instelling waaraan een subsidie is toegekend.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Subsidie wordt in ieder geval geweigerd:
 
@@ -198,7 +220,7 @@ De in dit lid bedoelde subsidie kan niet worden verstrekt voor het volgen van de
 
 ### Hoofdstuk IV. Aanvraagprocedure
 
-#### Artikel 10
+##### Artikel 10
 
 1. Een aanvrager die voor een subsidie in aanmerking wenst te komen, dient bij het fonds een aanvraag daartoe in met gebruikmaking van een voor dit doel door het bestuur te verstrekken aanvraagformulier.
 
@@ -208,7 +230,7 @@ De in dit lid bedoelde subsidie kan niet worden verstrekt voor het volgen van de
 
 ### Hoofdstuk V. Beslissing
 
-#### Artikel 11
+##### Artikel 11
 
 1. Indien de aanvraag in behandeling wordt genomen, legt het bestuur de aanvraag ter advisering voor aan het hiertoe ingestelde adviesorgaan.
 
@@ -220,7 +242,7 @@ De in dit lid bedoelde subsidie kan niet worden verstrekt voor het volgen van de
 
 ### Hoofdstuk VI. Aan de subsidie verbonden verplichtingen
 
-#### Artikel 12
+##### Artikel 12
 
 1. De subsidie wordt door de ontvanger besteed aan de totstandkoming van de in de aanvraag beschreven activiteiten.
 
@@ -242,7 +264,7 @@ De in dit lid bedoelde subsidie kan niet worden verstrekt voor het volgen van de
 
 5. Aan de verstrekking van de subsidie kan het bestuur andere dan de in dit artikel genoemde verplichtingen verbinden ter zake van de uitvoering van het plan, de presentatie van de resultaten, de verslaglegging en de afrekening van de subsidie.
 
-#### Artikel 13. Beslissing en vaststelling subsidies lager dan € 25.000
+##### Artikel 13. Beslissing en vaststelling subsidies lager dan € 25.000
 
 1. In de beschikking voor een subsidie tot een bedrag van € 25.000 wordt de looptijd van de subsidie vermeld en de datum waarop de eventuele activiteiten uiterlijk moeten zijn verricht.
 
@@ -258,7 +280,7 @@ De in dit lid bedoelde subsidie kan niet worden verstrekt voor het volgen van de
 
 7. Indien aannemelijk is dat gesubsidieerde activiteiten niet geheel, niet tijdig of niet volgens alle daaraan verbonden verplichtingen zullen worden of zijn verricht of dat de daadwerkelijke subsidiabele kosten lager zijn dan begroot, kan het bestuur de subsidie verlagen dan wel de toekenning intrekken. Reeds betaalde bedragen inclusief wettelijke rente kunnen worden verrekend dan wel worden teruggevorderd.
 
-#### Artikel 14. Beslissing en vaststelling subsidies van € 25.000 tot € 125.000
+##### Artikel 14. Beslissing en vaststelling subsidies van € 25.000 tot € 125.000
 
 1. Subsidies van € 25.000 tot € 125.000 worden als voorschot uitgekeerd binnen zes weken na de positieve beslissing. In de beschikking tot subsidieverlening wordt de datum vermeld waarop de activiteiten uiterlijk moeten zijn verricht.
 
@@ -276,7 +298,7 @@ De in dit lid bedoelde subsidie kan niet worden verstrekt voor het volgen van de
 
 8. Indien aannemelijk is dat gesubsidieerde activiteiten niet geheel, niet tijdig of niet volgens alle daaraan verbonden verplichtingen zullen worden of zijn verricht of dat de daadwerkelijke subsidiabele kosten lager zijn dan begroot, kan het bestuur de subsidie verlagen dan wel de toekenning intrekken. Reeds betaalde bedragen inclusief wettelijke rente kunnen worden verrekend dan wel worden teruggevorderd.
 
-#### Artikel 15. Beslissing en vaststelling subsidies hoger dan € 125.000
+##### Artikel 15. Beslissing en vaststelling subsidies hoger dan € 125.000
 
 1. Subsidies van € 125.000 en meer worden als voorschot uitgekeerd binnen zes weken na de positieve beslissing als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0044527&hoofdstuk=V&artikel=11&z=2024-06-28&g=2024-06-28). In de beschikking tot subsidieverlening wordt de datum vermeld waarop de activiteiten uiterlijk moeten zijn verricht.
 
@@ -296,7 +318,7 @@ De in dit lid bedoelde subsidie kan niet worden verstrekt voor het volgen van de
 
 ### Hoofdstuk VII. Bezwaarprocedure
 
-#### Artikel 16
+##### Artikel 16
 
 1. Een belanghebbende maakt bezwaar door binnen zes weken na de dag waarop de beslissing schriftelijk is een bezwaarschrift in te dienen bij het bestuur.
 
@@ -316,23 +338,23 @@ De in dit lid bedoelde subsidie kan niet worden verstrekt voor het volgen van de
 
 ### Hoofdstuk VIII. Slotbepalingen
 
-#### Artikel 17. Bescherming persoonsgegevens
+##### Artikel 17. Bescherming persoonsgegevens
 
 Het bestuur verstrekt geen vertrouwelijke informatie over een aanvraag aan derden. Het gaat hier om bedrijfs- en fabricagegegevens die door een aanvrager vertrouwelijk aan het fonds zijn medegedeeld of om persoonsgegevens als bedoeld in artikel 4 eerste lid van de Algemene verordening gegevensbescherming, tenzij de verstrekking kennelijk geen inbreuk op de persoonlijke levenssfeer maakt.
 
-#### Artikel 18. Discretionaire bevoegdheid
+##### Artikel 18. Discretionaire bevoegdheid
 
 In gevallen waarin de wet, de statuten, dit reglement of de betreffende deelregelingen niet voorzien, beslist het bestuur.
 
-#### Artikel 19. Overgangsbepaling
+##### Artikel 19. Overgangsbepaling
 
 Het [Algemeen Reglement Mondriaan Fonds 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038798) wordt met ingang van 1 januari 2021 ingetrokken. Op aanvragen die op grond van de [Deelregeling Beschermd cultuurgoed of beschermde verzamelingen 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038820), [Deelregeling Collectieprogramma's 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038832), [Deelregeling Gastateliers](https://wetten.overheid.nl/jci1.3:c:BWBR0038827), [Deelregeling Internationale samenwerking erfgoedinstellingen 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038825), [Deelregeling Kunstbeurzen 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038833), [Deelregeling Mobiel erfgoed](https://wetten.overheid.nl/jci1.3:c:BWBR0039359), [Deelregeling Opdrachtgeverschap 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038803), [Deelregeling Presentaties buitenland 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038805), [Deelregeling Projectinvestering kunst- en erfgoedinstellingen 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038804), [Deelregeling Projectinvestering kunstenaar en bemiddelaar](https://wetten.overheid.nl/jci1.3:c:BWBR0038799), [Deelregeling Publicaties 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038794), [Deelregeling Samenwerking Musea 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038791), [Deelregeling Werkbijdrage Bewezen Talent 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038807), [Deelregeling Werkbijdrage Jong Talent 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038802), [Deelregeling Incidentele aankopen 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038824), [Deelregeling Collectiemobiliteit 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038823), [Deelregeling Experimenteerreglement kunstenaarshonorarium](https://wetten.overheid.nl/jci1.3:c:BWBR0039125), [Deelregeling Herdenking slavernijverleden 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039441), [Deelregeling Kunstkoopregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0013322), en [Deelregeling Restauratie mobiel erfgoed](https://wetten.overheid.nl/jci1.3:c:BWBR0041448) voor 1 januari 2021 zijn ingediend blijft het Algemeen Reglement Mondriaan Fonds 2017 van toepassing.
 
-#### Artikel 20. Inwerkingtreding
+##### Artikel 20. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2021. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 31 december 2020, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2021.
 
-#### Artikel 21. Citeertitel
+##### Artikel 21. Citeertitel
 
 Deze regeling wordt aangehaald als: Algemeen Reglement Mondriaan Fonds 2021.
 

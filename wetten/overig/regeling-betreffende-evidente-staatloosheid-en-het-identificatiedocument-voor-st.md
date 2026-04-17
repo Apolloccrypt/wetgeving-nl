@@ -1,28 +1,54 @@
 ---
-title: "Regeling betreffende evidente staatloosheid en het identificatiedocument voor staatlozen"
+title: "Regeling van de Staatssecretaris van Justitie en Veiligheid van 20 september 2023, nummer 4880013, houdende nadere regels met betrekking tot evidente staatloosheid en het identificatiedocument voor staatlozen (Regeling betreffende evidente staatloosheid en het identificatiedocument voor staatlozen)"
 identifier: "BWBR0048651"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048651"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048651"
+soort: "ministeriele-regeling"
+stam_id: "16862693"
+version_id: "29635682"
+internal_id: "C42402781"
+label_id: "16774884"
+dtd_version: "2.0"
+original_entry_into_force: "2023-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048651/2026-01-01/0"
+intitule_bron: "Stcrt.2023-26513"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-09-20"
+intitule_published: "2023-09-27"
+intitule_in_force: "2023-09-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-26513"
+original_signed_date: "2023-09-20"
+original_published_date: "2023-09-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-26513"
+entry_into_force_date: "2023-10-01"
+jci_1_3: "jci1.3:c:BWBR0048651&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0048651&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling betreffende evidente staatloosheid en het identificatiedocument voor staatlozen"
+signed_date: "2023-09-20"
+entry_into_force: "2023-10-01"
 ---
-
 # Regeling van de Staatssecretaris van Justitie en Veiligheid van 20 september 2023, nummer 4880013, houdende nadere regels met betrekking tot evidente staatloosheid en het identificatiedocument voor staatlozen (Regeling betreffende evidente staatloosheid en het identificatiedocument voor staatlozen)
 
 Gelet op [artikel 6 van de Wet vaststellingsprocedure staatloosheid](https://wetten.overheid.nl/jci1.3:c:BWBR0048458&artikel=6) en [artikel 1, eerste lid, onder a, c en d, van het Besluit evidente staatloosheid](https://wetten.overheid.nl/jci1.3:c:BWBR0048471&artikel=1);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De landen bedoeld in [artikel 1, eerste lid, onder a, van het Besluit evidente staatloosheid](https://wetten.overheid.nl/jci1.3:c:BWBR0048471&artikel=1) zijn opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048651&bijlage=1&z=2026-01-01&g=2026-01-01) bij deze regeling.
 
-#### Artikel 2
+##### Artikel 2
 
 De landen bedoeld in [artikel 1, eerste lid, onder c en d, van het Besluit evidente staatloosheid](https://wetten.overheid.nl/jci1.3:c:BWBR0048471&artikel=1) zijn opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048651&bijlage=2&z=2026-01-01&g=2026-01-01) bij deze regeling.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het identificatiedocument bedoeld in [artikel 6 van de Wet vaststellingsprocedure staatloosheid](https://wetten.overheid.nl/jci1.3:c:BWBR0048458&artikel=6) is het document S, waarvan het vastgestelde model is opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048651&bijlage=3&z=2026-01-01&g=2026-01-01) van deze regeling.
 
@@ -32,7 +58,7 @@ De landen bedoeld in [artikel 1, eerste lid, onder c en d, van het Besluit evide
 
 4. De staatloze haalt het identificatiedocument in persoon af bij het loket van de Immigratie- en Naturalisatiedienst.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De staatloze levert het identificatiedocument, bedoeld in [artikel 6 van de Wet vaststellingsprocedure staatloosheid](https://wetten.overheid.nl/jci1.3:c:BWBR0048458&artikel=6), in bij Onze Minister:
 
@@ -52,7 +78,7 @@ De landen bedoeld in [artikel 1, eerste lid, onder c en d, van het Besluit evide
 
 3. Indien de vreemdeling een document of schriftelijke verklaring, waaruit het rechtmatig verblijf als bedoeld in [artikel 8 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) blijkt, of een nieuw identificatiedocument in persoon komt afhalen bij het loket van de Immigratie- en Naturalisatiedienst, kan aan de verplichting om het identificatiedocument in te leveren uitsluitend worden voldaan door inlevering in persoon door de vreemdeling bij dat loket.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het document, bedoeld in [artikel 6 van de Wet vaststellingsprocedure staatloosheid](https://wetten.overheid.nl/jci1.3:c:BWBR0048458&artikel=6), wordt op verzoek van de vreemdeling door Onze Minister vervangen, indien:
 
@@ -62,11 +88,11 @@ De landen bedoeld in [artikel 1, eerste lid, onder c en d, van het Besluit evide
 
 2. Onverminderd het eerste lid wordt het document, bedoeld in [artikel 6 van de Wet vaststellingsprocedure staatloosheid](https://wetten.overheid.nl/jci1.3:c:BWBR0048458&artikel=6) telkens vijf jaren na de afgifte ervan, vervangen.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling wordt aangehaald als: Regeling betreffende evidente staatloosheid en het identificatiedocument voor staatlozen.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling treedt in werking met ingang van 1 oktober 2023.
 

@@ -1,20 +1,46 @@
 ---
-title: "Rooster voor de centrale examens voortgezet onderwijs in 2026"
+title: "Besluit van het College voor toetsen en examens van 24 juni 2024, met nummer CvTE-24.00932 houdende het vaststellen van het tijdstip van de toetsen van de centrale examens voor 2026 (Rooster voor de centrale examens voortgezet onderwijs in 2026)"
 identifier: "BWBR0049954"
-categorie: "Onderwijs"
-publicatiedatum: 2026-03-14
-laatste_update: 2026-03-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049954"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-03-14"
+last_updated: "2026-03-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049954"
+soort: "zbo"
+stam_id: "17163813"
+version_id: "30212332"
+internal_id: "C43280371"
+label_id: "17071864"
+dtd_version: "2.0"
+original_entry_into_force: "2025-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049954/2026-03-14/0"
+intitule_bron: "Stcrt.2024-21295"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-06-24"
+intitule_published: "2024-07-04"
+intitule_in_force: "2024-07-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-21295"
+original_signed_date: "2024-06-24"
+original_published_date: "2024-07-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-21295"
+entry_into_force_date: "2025-08-01"
+jci_1_3: "jci1.3:c:BWBR0049954&z=2026-03-14&g=2026-03-14"
+jci_1_0: "1.0:c:BWBR0049954&g=2026-03-14"
+citeertitel_status: "officieel"
+short_title: "Rooster voor de centrale examens voortgezet onderwijs in 2026"
+signed_date: "2024-06-24"
+entry_into_force: "2025-08-01"
 ---
-
 # Besluit van het College voor toetsen en examens van 24 juni 2024, met nummer CvTE-24.00932 houdende het vaststellen van het tijdstip van de toetsen van de centrale examens voor 2026 (Rooster voor de centrale examens voortgezet onderwijs in 2026)
 
 Gelet op [artikel 2, tweede lid, aanhef en onderdeel b, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2);
 
 Besluit:
 
-#### Artikel 1. Tijdvakken en examenrooster centrale examens 2026
+##### Artikel 1. Tijdvakken en examenrooster centrale examens 2026
 
 1. Het eerste tijdvak voor de schriftelijke centrale examens begint op vrijdag 8 mei 2026 en eindigt op woensdag 27 mei 2026. De dagen en uren waarop de toetsen worden afgenomen, zijn vastgesteld zoals vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049954&bijlage=1&z=2026-03-14&g=2026-03-14).
 
@@ -26,15 +52,15 @@ Besluit:
 
 5. Het derde tijdvak vindt plaats in augustus. De dagen en uren waarop de toetsen van het centraal examen in het derde tijdvak worden afgenomen, worden na aanmelding aan de kandidaat door het College voor toetsen en examens meegedeeld.
 
-#### Artikel 2. Onderdelen met een vroege start
+##### Artikel 2. Onderdelen met een vroege start
 
 In afwijking van [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049954&artikel=1&z=2026-03-14&g=2026-03-14), vangt de afname van het centraal praktische examen van tekenen, handvaardigheid, textiele vormgeving vwo aan op donderdag 1 januari 2026 en het centraal praktisch examen van de beeldende vakken vmbo gemengde en theoretische leerweg op maandag 9 maart 2026.
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 augustus 2025.
 
-#### Artikel 4. Citeertitel
+##### Artikel 4. Citeertitel
 
 Dit besluit wordt aangehaald als: Rooster voor de centrale examens voortgezet onderwijs in 2026.
 

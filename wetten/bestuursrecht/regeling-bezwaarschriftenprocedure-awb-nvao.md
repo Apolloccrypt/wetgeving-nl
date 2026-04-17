@@ -1,13 +1,35 @@
 ---
 title: "Regeling bezwaarschriftenprocedure Awb NVAO"
 identifier: "BWBR0047857"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-01-01
-laatste_update: 2023-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047857"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-01-01"
+last_updated: "2023-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047857"
+soort: "zbo"
+stam_id: "16667723"
+version_id: "29234932"
+internal_id: "C41533151"
+label_id: "16585724"
+dtd_version: "2.0"
+original_entry_into_force: "2023-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047857/2023-01-01/0"
+intitule_bron: "Stcrt.2023-4630"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2023-02-07"
+intitule_in_force: "2023-02-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-4630"
+original_published_date: "2023-02-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-4630"
+entry_into_force_date: "2023-01-01"
+jci_1_3: "jci1.3:c:BWBR0047857&z=2023-01-01&g=2023-01-01"
+jci_1_0: "1.0:c:BWBR0047857&g=2023-01-01"
+citeertitel_status: "officieel"
+entry_into_force: "2023-01-01"
 ---
-
 # Regeling bezwaarschriftenprocedure Awb NVAO
 
 Gelet op [artikel 7:13 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:13);
@@ -20,7 +42,7 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 #### Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -46,13 +68,13 @@ In deze regeling wordt verstaan onder:
 
 #### De commissie voor de bezwaarschriften
 
-#### Artikel 2
+##### Artikel 2
 
 De commissie heeft tot taak het horen van bezwaarde, het bestuur van de NVAO en eventuele andere belanghebbenden alsmede het adviseren van het bestuur van de NVAO over de te nemen beslissingen op bezwaarschriften.
 
 #### Samenstelling commissie
 
-#### Artikel 3
+##### Artikel 3
 
 1. De commissie bestaat uit:
 
@@ -76,7 +98,7 @@ De commissie heeft tot taak het horen van bezwaarde, het bestuur van de NVAO en 
 
 #### Secretariaat
 
-#### Artikel 4
+##### Artikel 4
 
 1. De commissie wordt bijgestaan door een secretaris dan wel adjunct-secretaris die geen deel uitmaakt van de commissie.
 
@@ -88,7 +110,7 @@ De commissie heeft tot taak het horen van bezwaarde, het bestuur van de NVAO en 
 
 #### Adressering aan en in behandeling nemen van een bezwaarschrift door de NVAO
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een bezwaarschrift dient te worden geadresseerd aan de NVAO te Den Haag.
 
@@ -108,7 +130,7 @@ De commissie heeft tot taak het horen van bezwaarde, het bestuur van de NVAO en 
 
 #### Voorbereiding hoorzitting, terinzagelegging en oproeping
 
-#### Artikel 6
+##### Artikel 6
 
 1. De behandeling van het bezwaarschrift vindt plaats door de (tijdelijke) voorzitter en twee leden. De (tijdelijke) voorzitter bepaalt de samenstelling van de commissie die het bezwaar behandelt.
 
@@ -116,7 +138,7 @@ De commissie heeft tot taak het horen van bezwaarde, het bestuur van de NVAO en 
 
 Indien de commissie van mening is dat het bezwaar kennelijk niet-ontvankelijk dan wel kennelijk ongegrond is of de belanghebbenden hebben verklaard geen gebruik te willen maken van het recht te worden gehoord of aan het bezwaar volledig tegemoet wordt gekomen en andere belanghebbenden daardoor niet in hun belangen kunnen worden geschaad, oefent de commissie de bevoegdheid uit, bedoeld in [artikel 7:3 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:3) en brengt de commissie advies uit.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De secretaris draagt na overleg met de (tijdelijke) voorzitter zorg voor de tijdige oproeping van de bezwaarde, eventuele andere belanghebbenden en de vertegenwoordiger van de NVAO. In de oproeping wordt de plaats, de datum en het tijdstip van de hoorzitting vermeld alsmede de samenstelling van de commissie tijdens de zitting. Tevens wordt melding gemaakt van de mogelijkheid om tot tien dagen voor de hoorzitting nadere stukken in te dienen, van de periode en plaats van terinzagelegging van de ingediende stukken en van de rechten van belanghebbenden overeenkomstig [artikel 7:4 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:4), waaronder in voorkomend geval de gemotiveerde mededeling dat er reden is om de terinzagelegging te beperken.
 
@@ -146,13 +168,13 @@ Bij toepassing van het gestelde onder b. wordt bezwaarde zo spoedig mogelijk na 
 
 #### Hoorzitting
 
-#### Artikel 8
+##### Artikel 8
 
 1. De voorzitter leidt de hoorzitting.
 
 2. De voorzitter sluit de behandeling, indien hij na rondvraag van de leden, het advies door de verklaringen van de partijen en de door hem uitgenodigde andere personen genoegzaam voorbereid acht.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De hoorzitting van de commissie is openbaar.
 
@@ -164,7 +186,7 @@ Indien de commissie vervolgens beslist dat gewichtige redenen aanwezig zijn die 
 
 4. Van iedere hoorzitting stelt de secretaris een verslag op.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Indien na afloop van de hoorzitting van de commissie maar voordat het advies wordt opgesteld, nader onderzoek wenselijk blijkt, kan de voorzitter uit eigen beweging of op verlangen van een lid van de commissie dit onderzoek verrichten of doen verrichten.
 
@@ -176,7 +198,7 @@ Ieder van hen kan binnen tien dagen na het verkrijgen van de bedoelde nadere inf
 
 #### Beraadslaging en besluitvorming
 
-#### Artikel 11
+##### Artikel 11
 
 1. De commissie beraadslaagt en beslist achter gesloten deuren over het door haar uit te brengen advies.
 
@@ -186,7 +208,7 @@ Ieder van hen kan binnen tien dagen na het verkrijgen van de bedoelde nadere inf
 
 4. Het advies wordt door de voorzitter ondertekend dan wel bij ontstentenis van de voorzitter door een der leden, en door de secretaris dan wel bij ontstentenis van de secretaris, door de adjunct-secretaris.
 
-#### Artikel 12
+##### Artikel 12
 
 Het advies wordt, onder meezending van het verslag als bedoeld in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047857&artikel=9&z=2023-01-01&g=2023-01-01), van deze regeling en eventueel door de commissie ontvangen nadere informatie, behoudens bijzondere gevallen binnen vier weken na de hoorzitting door de commissie aan de NVAO uitgebracht.
 
@@ -196,18 +218,18 @@ Het bestuur van de NVAO (kan) tot verdagen besluit(en). Van een besluit tot verd
 
 #### Slotbepalingen
 
-#### Artikel 13
+##### Artikel 13
 
 Voor situaties waarin deze regeling niet voorziet, beslist de voorzitter, de leden gehoord, over de door de commissie te volgen werkwijze.
 
-#### Artikel 14
+##### Artikel 14
 
 Deze regeling is op 1 februari 2005 in werking getreden. Daarvan is mededeling gedaan in de Staatscourant. Op 1 januari 2023 treedt de voorliggende, gewijzigde regeling in werking; deze vervangt de eerdergenoemde regeling.
 
-#### Artikel 15
+##### Artikel 15
 
 De regeling ligt ter inzage bij het secretariaat van de commissie, is beschikbaar via de website van de NVAO [www.nvao.net](onbekend) en zal door de Minister van Onderwijs, Cultuur en Wetenschap worden geplaatst in de Nederlandse Staatscourant.
 
-#### Artikel 16
+##### Artikel 16
 
 Deze regeling kan worden aangehaald als: Regeling bezwaarschriftenprocedure Awb NVAO.

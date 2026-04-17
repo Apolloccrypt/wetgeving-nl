@@ -1,24 +1,52 @@
 ---
-title: "Wijzigingswet Algemene wet inzake rijksbelastingen, enz. (Versterking fiscale rechtshandhaving)"
+title: "Wet van 27 september 2007, houdende wijziging van de Algemene wet inzake rijksbelastingen en van enige andere wetten, in het kader van het versterken van de fiscale rechtshandhaving en het verkorten van beslistermijnen (Versterking fiscale rechtshandhaving)"
 identifier: "BWBR0022636"
-categorie: "Belastingrecht"
-publicatiedatum: 2009-11-01
-laatste_update: 2009-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0022636"
+country: "nl"
+rank: "wet"
+publication_date: "2009-11-01"
+last_updated: "2009-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0022636"
+soort: "wet"
+stam_id: "9236963"
+version_id: "14811122"
+internal_id: "C20501261"
+label_id: "9215734"
+dtd_version: "2.0"
+original_entry_into_force: "2008-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0022636/2009-11-01/0"
+intitule_bron: "Stb.2007-376"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-09-27"
+intitule_published: "2007-10-16"
+intitule_in_force: "2007-10-16"
+intitule_status: "goed"
+original_publication: "Stb.2007-376"
+original_signed_date: "2007-09-27"
+original_published_date: "2007-10-16"
+original_effect: "nieuwe-regeling"
+original_dossier: "30322"
+original_url_id: "stb-2007-376"
+entry_into_force_date: "2008-01-01"
+entry_into_force_dossier: "30322"
+jci_1_3: "jci1.3:c:BWBR0022636&z=2009-11-01&g=2009-11-01"
+jci_1_0: "1.0:c:BWBR0022636&g=2009-11-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingswet Algemene wet inzake rijksbelastingen, enz. (Versterking fiscale rechtshandhaving)"
+signed_date: "2007-09-27"
+entry_into_force: "2008-01-01"
 ---
+# Wet van 27 september 2007, houdende wijziging van de Algemene wet inzake rijksbelastingen en van enige andere wetten, in het kader van het versterken van de fiscale rechtshandhaving en het verkorten van beslistermijnen (Versterking fiscale rechtshandhaving)
 
-# Wijzigingswet Algemene wet inzake rijksbelastingen, enz. (Versterking fiscale rechtshandhaving)
-
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Algemene wet inzake rijksbelastingen.
 
-#### Artikel Ia
+##### Artikel Ia
 
 Wijzigt de Successiewet 1956.
 
-#### Artikel II
+##### Artikel II
 
 A. Wijzigt de Wet op de loonbelasting 1964.
 
@@ -40,89 +68,89 @@ F. Wijzigt de Wet op de loonbelasting 1964.
 
 G. Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Wet op de dividendbelasting 1965.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Registratiewet 1970.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Invorderingswet 1990.
 
-#### Artikel VIa
+##### Artikel VIa
 
 Wijzigt de Waterschapswet.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Gemeentewet.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Wet op de motorrijtuigenbelasting 1994.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Wet waardering onroerende zaken.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt de Wet financiering sociale verzekeringen.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt de Zorgverzekeringswet.
 
-#### Artikel XIIa
+##### Artikel XIIa
 
 Wijzigt de Algemene wet inkomensafhankelijke regelingen.
 
-#### Artikel XIII
+##### Artikel XIII
 
 A. Met betrekking tot een aanvraag of bezwaarschrift dat op of voor het tijdstip van inwerkingtreding van deze wet is ingediend, blijft wat betreft de wettelijke termijnen het recht gelden zoals dat luidde onmiddellijk voorafgaande aan dat tijdstip.
 
 B. Maanden die zijn gelegen voor de inwerkingtreding van deze wet kunnen geen deel uitmaken van de periode van zes maanden bedoeld in [artikel 30a van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=30a).
 
-#### Artikel XIIIa
+##### Artikel XIIIa
 
 De ingevolge [artikel IA, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=Ia&z=2009-11-01&g=2009-11-01), gewijzigde artikelen van de [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226) vinden voor het eerst toepassing met betrekking tot belastbare feiten in de zin van de [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226) die zich hebben voorgedaan op of na 1 januari 2006.
 
-#### Artikel XIIIb
+##### Artikel XIIIb
 
 Het ingevolge [artikel IA, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=Ia&z=2009-11-01&g=2009-11-01), gewijzigde artikel van de [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226) vindt voor het eerst toepassing met betrekking tot belastbare feiten in de zin van de [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226) die zich hebben voorgedaan op of na de dag van de inwerkingtreding van de wijziging.
 
-#### Artikel XIIIc
+##### Artikel XIIIc
 
 [Artikel 28, aanhef en onderdeel d, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=28), zoals dat onderdeel luidde op 31 december 2005, blijft van toepassing met betrekking tot de aldaar bedoelde opgave over kalenderjaren die zijn geëindigd voor 1 januari 2006.
 
-#### Artikel XIIId
+##### Artikel XIIId
 
 Wijzigt de Invoeringswet Wet financiering sociale verzekeringen en de Verzamelwet sociale verzekeringen 2006.
 
-#### Artikel XIIIe
+##### Artikel XIIIe
 
 [Artikel 36b van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36b) vindt geen toepassing voorzover het lichaam bij een voor het tijdstip van inwerkingtreding van deze wet bekendgemaakte beschikking als bedoeld in [artikel 49 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=49) aansprakelijk is gesteld.
 
-#### Artikel XIIIf
+##### Artikel XIIIf
 
 Vervallen
 
-#### Artikel XIIIg
+##### Artikel XIIIg
 
 Wijzigt het Belastingplan 2006.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Deze wet treedt in werking op 1 januari 2008, met dien verstande dat:
 

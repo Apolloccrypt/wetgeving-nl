@@ -1,68 +1,96 @@
 ---
-title: "Wijzigingswet belastingwetten c.a. (Vervolgwijzigingen in samenhang met de Belastingherziening 2001)"
+title: "Wet van 11 december 2002, houdende wijziging van belastingwetten c.a. (Vervolgwijzigingen in samenhang met de Belastingherziening 2001)"
 identifier: "BWBR0014440"
-categorie: "Belastingrecht"
-publicatiedatum: 2006-05-01
-laatste_update: 2006-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0014440"
+country: "nl"
+rank: "wet"
+publication_date: "2006-05-01"
+last_updated: "2006-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0014440"
+soort: "wet"
+stam_id: "3261813"
+version_id: "5030672"
+internal_id: "C5109461"
+label_id: "3241944"
+dtd_version: "2.0"
+original_entry_into_force: "2003-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0014440/2006-05-01/0"
+intitule_bron: "Stb.2002-613"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-12-11"
+intitule_published: "2002-12-19"
+intitule_in_force: "2002-12-19"
+intitule_status: "goed"
+original_publication: "Stb.2002-613"
+original_signed_date: "2002-12-11"
+original_published_date: "2002-12-19"
+original_effect: "nieuwe-regeling"
+original_dossier: "28487"
+original_url_id: "stb-2002-613"
+entry_into_force_date: "2003-01-01"
+entry_into_force_dossier: "28487"
+jci_1_3: "jci1.3:c:BWBR0014440&z=2006-05-01&g=2006-05-01"
+jci_1_0: "1.0:c:BWBR0014440&g=2006-05-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingswet belastingwetten c.a. (Vervolgwijzigingen in samenhang met de Belastingherziening 2001)"
+signed_date: "2002-12-11"
+entry_into_force: "2003-01-01"
 ---
+# Wet van 11 december 2002, houdende wijziging van belastingwetten c.a. (Vervolgwijzigingen in samenhang met de Belastingherziening 2001)
 
-# Wijzigingswet belastingwetten c.a. (Vervolgwijzigingen in samenhang met de Belastingherziening 2001)
-
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Invoeringswet Wet inkomstenbelasting 2001.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Algemene wet inzake rijksbelastingen.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Invorderingswet 1990.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Wet op de dividendbelasting 1965.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Wet op belastingen van rechtsverkeer.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Wet financiering volksverzekeringen.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt de Algemene wet inzake rijksbelastingen.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt de Wijzigingswet Wet inkomstenbelasting 2001, enz. (Belastingplan 2002 I - Arbeidsmarkt en inkomensbeleid), de Wet op de inkomstenbelasting 2001 en de Wet op de loonbelasting 1964.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt de Wijzigingswet Wet inkomstenbelasting 2001, enz. (Belastingplan 2002 II - Economische infrastructuur), de Wet op de vennootschapsbelasting1969 en de Wijzigingswet Wet op de vennootschapsbelasting 1969 c.a. (herziening regime fiscale eenheid).
 
-#### Artikel XIV
+##### Artikel XIV
 
 De wijzigingen ingevolge de [Wet van 14 december 2001 tot wijziging van belastingwetten c.a. (Belastingplan 2002 II Economische infrastructuur)](https://wetten.overheid.nl/jci1.3:c:BWBR0013187) (Stb. 641) in de [Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515) en de [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672) zijn, in afwijking van [artikel VIII, vijfde lid, van de Wet van 14 december 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=VIII) (Stb. 641), tevens van toepassing op geldleningen die zijn aangegaan voor 1 januari 2002 , indien op of na het tijdstip van inwerkingtreding van deze wet:
 
@@ -74,23 +102,23 @@ De wijzigingen ingevolge de [Wet van 14 december 2001 tot wijziging van belastin
 
 - 20. een andere rechtspersoon in de plaats treedt van de schuldenaar, tenzij dit geschiedt in het kader van een fusie of splitsing waarbij de daarbij behaalde winst op de voet van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14), [14a](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14a) of [14b van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14b) buiten aanmerking blijft.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt de Invoeringswet Arbeid en Zorg en de Wet op de inkomstenbelasting 2001.
 
-#### Artikel XVA
+##### Artikel XVA
 
 Wijzigt de Wet op de inkomstenbelasting 2001.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt de Wijzigingswet Wet op de vennootschapsbelasting 1969 c.a. (herziening regime fiscale eenheid) en de Wet op de vennootschapsbelasting 1969.
 
-#### Artikel XVIA
+##### Artikel XVIA
 
 Wijzigt het Belastingplan 2003 deel II – overig fiscaal pakket en de Invoeringswet Wet inkomstenbelasting 2001.
 
-#### Artikel XVII
+##### Artikel XVII
 
 1. Onder toepassing van [artikel 16 van de Tijdelijke Referendumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=16) treedt deze wet in werking met ingang van 1 januari 2003.
 

@@ -1,13 +1,39 @@
 ---
-title: "Besluit beperking van het aantal verleners van grondafhandelingsdiensten luchthaven Schiphol"
+title: "Besluit van de Minister van Infrastructuur en Waterstaat, van 30 april 2024, nr. IENW/BSK-2024/69679, houdende beperking van het aantal verleners van grondafhandelingsdiensten op de luchthaven Schiphol"
 identifier: "BWBR0049695"
-categorie: "Milieu"
-publicatiedatum: 2024-05-11
-laatste_update: 2024-05-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049695"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-05-11"
+last_updated: "2024-05-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049695"
+soort: "ministeriele-regeling"
+stam_id: "17101133"
+version_id: "30096332"
+internal_id: "C43171491"
+label_id: "17009774"
+dtd_version: "2.0"
+original_entry_into_force: "2024-05-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049695/2024-05-11/0"
+intitule_bron: "Stcrt.2024-13983"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-04-30"
+intitule_published: "2024-05-10"
+intitule_in_force: "2024-05-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-13983"
+original_signed_date: "2024-04-30"
+original_published_date: "2024-05-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-13983"
+entry_into_force_date: "2024-05-11"
+jci_1_3: "jci1.3:c:BWBR0049695&z=2024-05-11&g=2024-05-11"
+jci_1_0: "1.0:c:BWBR0049695&g=2024-05-11"
+citeertitel_status: "redactioneel"
+short_title: "Besluit beperking van het aantal verleners van grondafhandelingsdiensten luchthaven Schiphol"
+signed_date: "2024-04-30"
+entry_into_force: "2024-05-11"
 ---
-
 # Besluit van de Minister van Infrastructuur en Waterstaat, van 30 april 2024, nr. IENW/BSK-2024/69679, houdende beperking van het aantal verleners van grondafhandelingsdiensten op de luchthaven Schiphol
 
 Gelet op [artikel 5, tweede lid, van de Regeling grondafhandeling luchtvaartterreinen](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=5);
@@ -16,7 +42,7 @@ BESLUIT:
 
 Besluit ook gepubliceerd in Stcrt. 2024/14862.
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -30,7 +56,7 @@ In dit besluit wordt verstaan onder:
 
 - **Regeling:** [Regeling grondafhandeling luchtvaartterreinen](https://wetten.overheid.nl/jci1.3:c:BWBR0009365).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het aantal verleners van grondafhandelingsdiensten ten behoeve van handelsverkeer met passagiers op de luchthaven is beperkt tot drie in ieder van de volgende categorieën grondafhandelingsdiensten:
 
@@ -60,11 +86,11 @@ In dit besluit wordt verstaan onder:
 
 - b. elke gebruiker, ongeacht het deel van de luchthaven dat aan hem is toegewezen, heeft de keuze tussen niet minder dan twee verleners per genoemde categorie grondafhandelingsdiensten.
 
-#### Artikel 3
+##### Artikel 3
 
 Het is uitsluitend de overeenkomstig [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049695&artikel=2&z=2024-05-11&g=2024-05-11), geselecteerde verleners van grondafhandelingsdiensten toegestaan om de in artikel 2, eerste lid, genoemde categorieën grondafhandelingsdiensten aan te bieden ten behoeve van handelsverkeer met passagiers op de op de luchthaven.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na de uitgifte van de Staatscourant waarin het wordt geplaatst, met dien verstande dat de overeenkomstig [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049695&artikel=2&z=2024-05-11&g=2024-05-11), vastgestelde beperking en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049695&artikel=3&z=2024-05-11&g=2024-05-11) gaan gelden vanaf de eerstvolgende dienstregelingsperiode te rekenen vanaf het moment waarop er zes kalendermaanden zijn verstreken na definitieve gunning van de opdrachten als gevolg van de aanbesteding als bedoeld in artikel 2, tweede lid.
 

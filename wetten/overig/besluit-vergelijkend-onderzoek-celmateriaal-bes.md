@@ -1,18 +1,43 @@
 ---
 title: "Besluit vergelijkend onderzoek celmateriaal BES"
 identifier: "BWBR0028458"
-categorie: "Overig"
-publicatiedatum: 2018-02-01
-laatste_update: 2018-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028458"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2018-02-01"
+last_updated: "2018-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028458"
+soort: "AMvB-BES"
+stam_id: "10792503"
+version_id: "17770922"
+internal_id: "C24825171"
+label_id: "10767484"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028458/2018-02-01/0"
+intitule_bron: "Stb.2010-554"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-22"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-554"
+original_signed_date: "2010-09-22"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-554"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028458&z=2018-02-01&g=2018-02-01"
+jci_1_0: "1.0:c:BWBR0028458&g=2018-02-01"
+citeertitel_status: "officieel"
+signed_date: "2010-09-22"
+entry_into_force: "2010-10-10"
 ---
-
 # Besluit vergelijkend onderzoek celmateriaal BES
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit wordt verstaan onder:
 
@@ -42,7 +67,7 @@ bron: "https://wetten.overheid.nl/BWBR0028458"
 
 ### Hoofdstuk 2. Sporenmateriaal
 
-#### Artikel 2
+##### Artikel 2
 
 1. Van het verzamelen van sporenmateriaal wordt door de opsporingsambtenaar proces-verbaal opgemaakt.
 
@@ -56,7 +81,7 @@ bron: "https://wetten.overheid.nl/BWBR0028458"
 
 - c. de datum waarop het sporenmateriaal wordt verzonden, alsmede de plaats waar het wordt bewaard.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De bewaring van monsters, bevattende sporenmateriaal, geschiedt door het politiekorps voor Bonaire, Sint Eustatius en Saba.
 
@@ -80,7 +105,7 @@ bron: "https://wetten.overheid.nl/BWBR0028458"
 
 4. Indien de in het eerste lid genoemde politiekorps onvoldoende toegerust is om het sporenmateriaal te bewaren, geschiedt de bewaring bij een door Onze Minister in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport aangewezen rechtspersoon die tot taak heeft laboratoriumonderzoeken te verrichten ten behoeve van de volksgezondheid en justitie. Het tweede en derde lid zijn van overeenkomstige toepassing.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De rechter-commissaris draagt zorg voor de registratie van ieder op grond van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028458&hoofdstuk=2&artikel=2&z=2018-02-01&g=2018-02-01), aan hem toegezonden proces-verbaal, alsmede van de gegevens op het identiteitszegel dat daarop is aangebracht.
 
@@ -92,31 +117,31 @@ bron: "https://wetten.overheid.nl/BWBR0028458"
 
 - c. de naam van het laboratorium waar het onderzoek op het monster wordt verricht.
 
-#### Artikel 5
+##### Artikel 5
 
 Nadat de registratie, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028458&hoofdstuk=2&artikel=4&z=2018-02-01&g=2018-02-01), heeft plaatsgevonden, wordt bij alle verdere handelingen met het sporenmateriaal ter aanduiding daarvan uitsluitend gebruik gemaakt van het nummer van het identiteitszegel, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028458&hoofdstuk=2&artikel=2&z=2018-02-01&g=2018-02-01).
 
 ### Hoofdstuk 3. Referentiemateriaal
 
-#### Artikel 6
+##### Artikel 6
 
 1. Bloedafname geschiedt door middel van een door een arts te verrichten venapunctie.
 
 2. Afgenomen wordt een hoeveelheid bloed van ten hoogste tien milliliter.
 
-#### Artikel 7
+##### Artikel 7
 
 Indien bloedafname naar het oordeel van de arts om bijzondere geneeskundige redenen onwenselijk is, doet de opsporingsambtenaar, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028458&hoofdstuk=3&artikel=10&z=2018-02-01&g=2018-02-01), van het achterwege blijven daarvan onverwijld mededeling aan de rechter-commissaris, die het bevel tot bloedafname heeft gegeven.
 
-#### Artikel 8
+##### Artikel 8
 
 De afname van wangslijmvlies geschiedt door een arts, die daartoe de binnenzijde van ieder der beide wangen door middel van drie wattenstokjes met enige kracht bemonstert.
 
-#### Artikel 9
+##### Artikel 9
 
 De afname van haarwortels geschiedt door een arts die daartoe ten minste tien haren uittrekt.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De bloedafname, de afname van wangslijmvlies en de afname van haarwortels hebben plaats in de aanwezigheid van een opsporingsambtenaar, die daarvan proces-verbaal opmaakt.
 
@@ -138,17 +163,17 @@ De afname van haarwortels geschiedt door een arts die daartoe ten minste tien ha
 
 ### Hoofdstuk 4. Het onderzoek naar de kenmerken van celmateriaal
 
-#### Artikel 11
+##### Artikel 11
 
 Na opdracht van de rechter-commissaris tot een vergelijkend onderzoek zendt het politiekorps, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028458&hoofdstuk=2&artikel=3&z=2018-02-01&g=2018-02-01), of de door Onze Minister in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport aangewezen rechtspersoon die tot taak heeft laboratoriumonderzoeken te verrichten ten behoeve van de volksgezondheid en justitie de te onderzoeken monsters, vergezeld van alle voor het vergelijkend onderzoek noodzakelijke gegevens, onverwijld en op de snelst mogelijke wijze naar het laboratorium waar het onderzoek zal worden verricht.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Het vergelijkend onderzoek wordt verricht in opdracht van de rechter-commissaris. Deze opdracht kan worden verleend aan een deskundige verbonden aan een bij ministeriële regeling aangewezen laboratorium. Bij ministeriële regeling kan een formulier worden vastgesteld voor het geven van de opdracht tot een vergelijkend onderzoek.
 
 2. Een laboratorium als bedoeld in het eerste lid, dient te zijn gecertificeerd door een nationaal of internationaal erkende instantie voor de accreditatie van laboratoria. Het certificaat mag niet ouder zijn dan twee jaar.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Van de krachtens [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028458&hoofdstuk=4&artikel=11&z=2018-02-01&g=2018-02-01) ontvangen monsters houdt het laboratorium een registratie.
 
@@ -170,7 +195,7 @@ Na opdracht van de rechter-commissaris tot een vergelijkend onderzoek zendt het 
 
 - h. de vernietiging van het profiel krachtens de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028458&hoofdstuk=6&paragraaf=3&artikel=26&z=2018-02-01&g=2018-02-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0028458&hoofdstuk=6&paragraaf=3&artikel=27&z=2018-02-01&g=2018-02-01).
 
-#### Artikel 14
+##### Artikel 14
 
 1. Het vergelijkend onderzoek vindt niet plaats, dan nadat is onderzocht, of voldoende celmateriaal beschikbaar is voor een tegenonderzoek.
 
@@ -180,7 +205,7 @@ Na opdracht van de rechter-commissaris tot een vergelijkend onderzoek zendt het 
 
 4. Indien onvoldoende celmateriaal beschikbaar is voor een tegenonderzoek, geeft de rechter-commissaris hiervan de verdachte, indien deze bekend is, zo spoedig mogelijk kennis.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De rechter-commissaris die de opdracht tot het vergelijkend onderzoek heeft verleend, ontvangt bericht wanneer dat onderzoek kan aanvangen en wanneer de uitslag daarvan kan zijn vastgesteld.
 
@@ -188,7 +213,7 @@ Na opdracht van de rechter-commissaris tot een vergelijkend onderzoek zendt het 
 
 3. Voor een vergelijkend onderzoek wordt zo min mogelijk celmateriaal gebruikt.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Het vergelijkend onderzoek wordt op zodanige wijze verricht, dat is gewaarborgd dat de uitkomsten van het onderzoek onderling vergelijkbaar zijn.
 
@@ -196,7 +221,7 @@ Na opdracht van de rechter-commissaris tot een vergelijkend onderzoek zendt het 
 
 3. Met betrekking tot het onderzoek in laboratoria kunnen bij ministeriële regeling nadere regels worden gesteld.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Van het vergelijkend onderzoek wordt een verslag van bevindingen opgesteld. Uit het verslag blijkt dat het bij of krachtens de [artikelen 12 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028458&hoofdstuk=4&artikel=12&z=2018-02-01&g=2018-02-01) bepaalde is nageleefd. Het verslag bevat de naam van de deskundige aan wie het onderzoek werd opgedragen, en wordt door deze gedateerd en ondertekend.
 
@@ -204,13 +229,13 @@ Na opdracht van de rechter-commissaris tot een vergelijkend onderzoek zendt het 
 
 3. Het verslag wordt toegezonden aan de rechter-commissaris die de opdracht tot het vergelijkend onderzoek heeft verleend.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Onmiddellijk na afsluiting van het vergelijkend onderzoek wordt het overblijvende sporen- en referentiemateriaal door het laboratorium verpakt, verzegeld en deugdelijk bewaard tot de verzending.
 
 2. Indien een tegenonderzoek is gelast, zendt het laboratorium het sporen- en referentiemateriaal onverwijld naar het laboratorium waar het tegenonderzoek zal worden verricht.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Op het tegenonderzoek zijn de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028458&hoofdstuk=4&artikel=12&z=2018-02-01&g=2018-02-01), [13, eerste en tweede lid, onderdelen a tot en met d en g](https://wetten.overheid.nl/jci1.3:c:BWBR0028458&hoofdstuk=4&artikel=13&z=2018-02-01&g=2018-02-01), [15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028458&hoofdstuk=4&artikel=15&z=2018-02-01&g=2018-02-01), en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0028458&hoofdstuk=4&artikel=16&z=2018-02-01&g=2018-02-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0028458&hoofdstuk=4&artikel=17&z=2018-02-01&g=2018-02-01) en [18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028458&hoofdstuk=4&artikel=18&z=2018-02-01&g=2018-02-01), van overeenkomstige toepassing.
 
@@ -226,7 +251,7 @@ Na opdracht van de rechter-commissaris tot een vergelijkend onderzoek zendt het 
 
 5. De in [artikel 79b, tweede lid, van het wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=79b) bedoelde bijdrage aan de kosten van het tegenonderzoek worden bij ministeriële regeling vastgesteld.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De dienst, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028458&hoofdstuk=2&artikel=3&z=2018-02-01&g=2018-02-01), of de door Onze Minister in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport aangewezen rechtspersoon die tot taak heeft laboratoriumonderzoeken te verrichten ten behoeve van de volksgezondheid en justitie, die het celmateriaal ingevolge [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028458&hoofdstuk=4&artikel=11&z=2018-02-01&g=2018-02-01) heeft verzonden, ontvangt het na het vergelijkend onderzoek overgebleven celmateriaal in opdracht van de rechter-commissaris terug:
 
@@ -240,11 +265,11 @@ Na opdracht van de rechter-commissaris tot een vergelijkend onderzoek zendt het 
 
 ### Hoofdstuk 5. De vernietiging van celmateriaal
 
-#### Artikel 21
+##### Artikel 21
 
 [vervallen]
 
-#### Artikel 22
+##### Artikel 22
 
 1. Uiterlijk achttien jaar na het verzamelen ervan, gelast de rechter-commissaris dat het sporenmateriaal wordt vernietigd in aanwezigheid van een opsporingsambtenaar.
 
@@ -258,7 +283,7 @@ Na opdracht van de rechter-commissaris tot een vergelijkend onderzoek zendt het 
 
 #### § 1. Registratie en vergelijking
 
-#### Artikel 23
+##### Artikel 23
 
 1. In een bij ministeriële regeling aangewezen laboratorium wordt een centrale registratie van profielen gehouden.
 
@@ -290,19 +315,19 @@ Na opdracht van de rechter-commissaris tot een vergelijkend onderzoek zendt het 
 
 - e. de directeur van het laboratorium, bedoeld in artikel 23, eerste lid, van het Landsbesluit vergelijkend onderzoek celmateriaal (AB 2013, 169 ), voor zover hij deze nodig heeft ten behoeve van het verrichten van een onderzoek als bedoeld in artikel 79, eerste lid, van het Wetboek van Strafvordering (P.B. 1996, 164).
 
-#### Artikel 24
+##### Artikel 24
 
 1. De directeur van het laboratorium, bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028458&hoofdstuk=6&paragraaf=1&artikel=23&z=2018-02-01&g=2018-02-01), kan de profielen onderling vergelijken met het oog op het doel, bedoeld in [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028458&hoofdstuk=6&paragraaf=1&artikel=23&z=2018-02-01&g=2018-02-01), en leden van het openbaar ministerie en met rechtspraak belaste leden van de rechterlijke macht van de resultaten daarvan in kennis stellen. Tevens kunnen de leden van het openbaar ministerie en met rechtspraak belaste leden van de rechterlijke macht in het Europese deel van Nederland daarvan in kennis worden gesteld.
 
 2. Tot een persoon herleidbare gegevens worden door de rechter-commissaris uitsluitend verstrekt aan de verzoeker, bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0028458&hoofdstuk=7&artikel=28&z=2018-02-01&g=2018-02-01).
 
-#### Artikel 25
+##### Artikel 25
 
 Profielen, verkregen door het onderzoek van sporenmateriaal in zaken waarin geen verdachte bekend is, kunnen, na toestemming van de rechter-commissaris, opgenomen worden in de registratie, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028458&hoofdstuk=6&paragraaf=1&artikel=23&z=2018-02-01&g=2018-02-01). De [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028458&hoofdstuk=6&paragraaf=1&artikel=23&z=2018-02-01&g=2018-02-01) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0028458&hoofdstuk=6&paragraaf=1&artikel=24&z=2018-02-01&g=2018-02-01) zijn van overeenkomstige toepassing.
 
 #### § 3. Vernietiging
 
-#### Artikel 26
+##### Artikel 26
 
 1. De rechter-commissaris beveelt dat een profiel, verkregen door het onderzoek van referentiemateriaal, alsmede de gegevens, opgenomen in de registratie van de rechter-commissaris op grond van [artikel 10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028458&hoofdstuk=3&artikel=10&z=2018-02-01&g=2018-02-01), terstond worden vernietigd, indien blijkt dat het afkomstig is van een verdachte die ter zake van het feit in verband waarmee onderzoek is verricht, ten onrechte als verdachte is aangemerkt.
 
@@ -310,7 +335,7 @@ Profielen, verkregen door het onderzoek van sporenmateriaal in zaken waarin geen
 
 3. De rechter-commissaris ontvangt onverwijld een kennisgeving van de vernietiging van een profiel.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Buiten het geval van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028458&hoofdstuk=6&paragraaf=3&artikel=26&z=2018-02-01&g=2018-02-01) beveelt de rechter-commissaris:
 
@@ -322,7 +347,7 @@ Profielen, verkregen door het onderzoek van sporenmateriaal in zaken waarin geen
 
 ### Hoofdstuk 7. Inzagerecht
 
-#### Artikel 28
+##### Artikel 28
 
 1. De rechter-commissaris deelt een ieder op diens verzoek schriftelijk binnen vier weken mee, of in de registraties, gevoerd op grond van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028458&hoofdstuk=2&artikel=4&z=2018-02-01&g=2018-02-01), [10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028458&hoofdstuk=3&artikel=10&z=2018-02-01&g=2018-02-01) en [23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028458&hoofdstuk=6&paragraaf=1&artikel=23&z=2018-02-01&g=2018-02-01), tot hem herleidbare gegevens zijn opgenomen.
 
@@ -334,7 +359,7 @@ Profielen, verkregen door het onderzoek van sporenmateriaal in zaken waarin geen
 
 5. De verzoeken, bedoeld in het eerste en tweede lid, worden ten aanzien van personen die minderjarig zijn en de leeftijd van eenentwintig jaren nog niet hebben bereikt, en van onder curatele gestelden gedaan door hun wettelijke vertegenwoordigers. De betrokken mededeling geschiedt eveneens aan de wettelijke vertegenwoordigers.
 
-#### Artikel 29
+##### Artikel 29
 
 De rechter-commissaris kan weigeren aan een in [artikel 28, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028458&hoofdstuk=7&artikel=28&z=2018-02-01&g=2018-02-01), bedoeld verzoek te voldoen, indien dit noodzakelijk is in het belang van:
 
@@ -342,7 +367,7 @@ De rechter-commissaris kan weigeren aan een in [artikel 28, eerste of tweede lid
 
 - b. gewichtige belangen van anderen dan de verzoeker.
 
-#### Artikel 30
+##### Artikel 30
 
 1. Degene aan wie op grond van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0028458&hoofdstuk=7&artikel=28&z=2018-02-01&g=2018-02-01) kennis is gegeven van tot hem herleidbare gegevens, kan de rechter-commissaris schriftelijk verzoeken deze te verbeteren, aan te vullen, te verwijderen of te doen vernietigen, indien zij:
 
@@ -356,7 +381,7 @@ De rechter-commissaris kan weigeren aan een in [artikel 28, eerste of tweede lid
 
 3. De rechter-commissaris draagt zorg dat een beslissing tot verbetering, aanvulling of verwijdering zo spoedig mogelijk wordt uitgevoerd.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Indien de rechter-commissaris niet heeft voldaan aan een verzoek als bedoeld in de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0028458&hoofdstuk=7&artikel=28&z=2018-02-01&g=2018-02-01) en [30](https://wetten.overheid.nl/jci1.3:c:BWBR0028458&hoofdstuk=7&artikel=30&z=2018-02-01&g=2018-02-01), dan wel niet in schriftelijke vorm daaraan heeft voldaan, kan de verzoeker zich tot het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba wenden met het schriftelijk verzoek de rechter-commissaris te bevelen alsnog aan dat verzoek te voldoen, dan wel in schriftelijke vorm daaraan te voldoen.
 
@@ -366,18 +391,18 @@ De rechter-commissaris kan weigeren aan een in [artikel 28, eerste of tweede lid
 
 ### Hoofdstuk 8. Overgangs- en slotbepalingen
 
-#### Artikel 32
+##### Artikel 32
 
 1. Met betrekking tot het verzamelen, afnemen, verpakken, bewaren, registreren, verzenden en vernietigen van celmateriaal kunnen bij ministeriële regeling nadere regels worden gesteld.
 
 2. De vorm van identiteits- en sluitzegels wordt bij ministeriële regeling vastgesteld.
 
-#### Artikel 32a
+##### Artikel 32a
 
 1. Het celmateriaal dat voor inwerkingtreding van dit besluit is verzameld, afgenomen, verpakt, bewaard, geregistreerd of verzonden en nog niet is vernietigd wordt geacht te zijn verzameld, afgenomen, verpakt, bewaard, geregistreerd of verzonden op grond van dit besluit.
 
 2. Profielen die voor inwerkingtreding van dit besluit zijn geregistreerd worden geacht te zijn geregistreerd op grond van dit besluit.
 
-#### Artikel 33
+##### Artikel 33
 
 Dit besluit wordt aangehaald als: Besluit vergelijkend onderzoek celmateriaal BES.

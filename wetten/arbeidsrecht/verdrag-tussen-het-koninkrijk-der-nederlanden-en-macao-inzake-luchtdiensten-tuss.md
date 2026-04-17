@@ -1,13 +1,38 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en Macao inzake luchtdiensten tussen en via hun onderscheiden grondgebieden"
 identifier: "BWBV0001172"
-categorie: "Arbeidsrecht"
-publicatiedatum: 1995-09-25
-laatste_update: 1995-09-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001172"
+country: "nl"
+rank: "verdrag"
+publication_date: "1995-09-25"
+last_updated: "1995-09-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001172"
+soort: "verdrag"
+stam_id: "10001600373"
+version_id: "10001678612"
+internal_id: "C10006986331"
+label_id: "10001600654"
+dtd_version: "2.0"
+original_entry_into_force: "1995-09-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001172/1995-09-25/0"
+intitule_bron: "Trb.1994-282"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-03-02"
+intitule_published: "1994-12-30"
+intitule_in_force: "1995-10-27"
+intitule_status: "goed"
+original_publication: "Trb.1994-282"
+original_signed_date: "1995-03-02"
+original_published_date: "1994-12-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1994-282"
+entry_into_force_date: "1995-09-25"
+jci_1_3: "jci1.3:c:BWBV0001172&z=1995-09-25&g=1995-09-25"
+jci_1_0: "1.0:c:BWBV0001172&g=1995-09-25"
+citeertitel_status: "redactioneel"
+signed_date: "1995-03-02"
+entry_into_force: "1995-09-25"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en Macao inzake luchtdiensten tussen en via hun onderscheiden grondgebieden
 
 The Government of the Kingdom of the Netherlands,
@@ -20,7 +45,7 @@ desiring to contribute to the progress of international civil aviation;
 
 desiring to conclude an Agreement for the purpose of establishing air services between and beyond Macau and the Netherlands, have agreed as follows:
 
-#### Article 1. Definitions
+##### Article 1. Definitions
 
 For the purpose of this Agreement and its Annex, unless the context otherwise requires:
 
@@ -44,11 +69,11 @@ For the purpose of this Agreement and its Annex, unless the context otherwise re
 
 - II. the charges and conditions for any services ancillary to such carriage which are offered by airlines.
 
-#### Article 2. Provisions of the Chicago Convention Applicable to International Air Services
+##### Article 2. Provisions of the Chicago Convention Applicable to International Air Services
 
 In implementing this Agreement, the Contracting Parties shall act in conformity with the provisions of the Convention on International Civil Aviation, opened for signature at Chicago on 7 December 1944, including the Annexes and any amendments to the Convention or to its Annexes, insofar as these provisions are applicable to international air services.
 
-#### Article 3. Grant of Rights
+##### Article 3. Grant of Rights
 
 1. Each Contracting Party grants to the other Contracting Party except as otherwise specified in the Annex the following rights for the conduct of international air services by the designated airline of the other Contracting Party:
 
@@ -60,7 +85,7 @@ In implementing this Agreement, the Contracting Parties shall act in conformity 
 
 2. Nothing in paragraph 1 of this Article shall be deemed to confer to the designated airline of one Contracting Party the right to provide air services between points in the area of the other Contracting Party.
 
-#### Article 4. Designation and Authorization
+##### Article 4. Designation and Authorization
 
 1. Each Contracting Party shall have the right to designate by written notification to the other Contracting Party an airline to operate air services on the routes specified in the Annex and to substitute another airline for an airline previously designated.
 
@@ -68,7 +93,7 @@ In implementing this Agreement, the Contracting Parties shall act in conformity 
 
 3. Upon receipt of the operating authorization referred to in paragraph 2 of this Article the designated airline may at any time begin to operate the agreed services, in part or in whole, provided that it complies with the provisions of this Agreement and that tariffs for such services have been established in accordance with the provisions of Article 6 of this Agreement.
 
-#### Article 5. Revocation and Suspension of Authorisation
+##### Article 5. Revocation and Suspension of Authorisation
 
 1. Each Contracting Party shall have the right to withhold the authorizations referred to in Article 4 with respect to an airline designated by the other Contracting Party, to revoke or suspend such authorizations or impose conditions:
 
@@ -86,7 +111,7 @@ In implementing this Agreement, the Contracting Parties shall act in conformity 
 
 2. Unless immediate action is essential to prevent further infringement of the laws and regulations referred to above, the rights enumerated in paragraph 1 of this Article shall be exercised only after consultations with the other Contracting Party. Unless otherwise agreed by the Contracting Parties, such consultations shall begin within a period of sixty (60) days from the date of receipt of the request.
 
-#### Article 6. Tariffs
+##### Article 6. Tariffs
 
 1. The tariffs to be charged by the designated airlines of the Contracting Parties for carriage between their areas shall be those approved by the aeronautical authorities of both Contracting Parties and shall be established at reasonable levels, due regard being paid to all relevant factors, including cost of operation, reasonable profit and the tariffs of other airlines for any part of the specified route.
 
@@ -106,7 +131,7 @@ In the event of the period for submission being reduced, as provided for in para
 
 8. The designated airlines of both Contracting Parties may not charge tariffs different from those which have been approved in conformity with the provisions of this Article.
 
-#### Article 7. Commercial Activities
+##### Article 7. Commercial Activities
 
 1. The designated airlines of both Contracting Parties shall be allowed:
 
@@ -120,19 +145,19 @@ In the event of the period for submission being reduced, as provided for in para
 
 4. The above activities shall be carried out in compliance with the laws and regulations of the other Contracting Party.
 
-#### Article 8. Fair Competition
+##### Article 8. Fair Competition
 
 1. There shall be fair and equal opportunity for the designated airlines of both Parties to participate in the international air services covered by this Agreement.
 
 2. Each Contracting Party shall take all appropriate action within its jurisdiction to eliminate all forms of discrimination or unfair competitive practices adversely affecting the competitive position of the airline of the other Contracting Party.
 
-#### Article 9. Timetable
+##### Article 9. Timetable
 
 1. The airline designated by each Contracting Party shall present to the aeronautical authorities of the other Contracting Party, forty five (45) days in advance the timetable for its intended services, specifying the frequency, type of aircraft, configuration and number of seats to be made available to the public.
 
 2. Requests for permission to operate additional flights may be submitted for approval by the designated airline directly to the aeronautical authorities of the other Contracting Party.
 
-#### Article 10. Taxes, Customs and Charges
+##### Article 10. Taxes, Customs and Charges
 
 1. Aircraft operating on international air services by the designated airline of either Contracting Party, as well as any regular equipment, spare parts, supplies of fuels and lubricants, aircraft stores (including food, beverages and tobacco) on board as well as advertising and promotional material kept on board such aircraft shall be exempt from all customs duties, inspection fees and similar duties and charges, on arrival in the territory of the other Contracting Party, provided such equipment and supplies remain on board the aircraft until such time as they are re-exported.
 
@@ -142,7 +167,7 @@ The provisions of this paragraph may not be interpreted in such a way that a Con
 
 3. Regular airborne equipment, spare parts, supplies of fuels and lubricants and aircraft stores kept on board the aircraft of either Contracting Party may be unloaded on the area of the other Contracting Party only with the approval of the customs authorities of that Party, who may require that these items be placed under their supervision up to such time as they are re-exported or otherwise disposed of in accordance with customs regulations.
 
-#### Article 11. Double Taxation
+##### Article 11. Double Taxation
 
 1. Income and profits from the operation of aircraft in international traffic shall be taxable only in the area in which the place of effective management of the enterprise is situated.
 
@@ -152,7 +177,7 @@ The provisions of this paragraph may not be interpreted in such a way that a Con
 
 4. The provisions of paragraph 1 of this Article shall also apply to income and profits from the participation in a pool, a joint business or an international operating agency.
 
-#### Article 12. Transfer of Funds
+##### Article 12. Transfer of Funds
 
 1. The designated airlines of the Contracting Parties shall be free to sell air transport services in the areas of both the Contracting Parties, either directly or through an agent, in any currency.
 
@@ -162,7 +187,7 @@ The provisions of this paragraph may not be interpreted in such a way that a Con
 
 The designated airlines of the Contracting Parties shall be free to effect the actual transfer on receipt of approval.
 
-#### Article 13. Application of Laws, Regulations and Procedures
+##### Article 13. Application of Laws, Regulations and Procedures
 
 1. The laws, regulations and procedures of either Contracting Party relating to the admission to or departure from its area of aircraft engaged in international air services, or to the operation and navigation of such aircraft shall be complied with by the designated airline of the other Contracting Party upon its entry into, and until and including its departure from the said area.
 
@@ -174,13 +199,13 @@ The designated airlines of the Contracting Parties shall be free to effect the a
 
 5. Neither of the Contracting Parties shall give preference to any other airline over the designated airline of the other Contracting Party in the application of its customs, immigration, quarantine and similar regulations or in the use of airports, airways and air traffic services and associated facilities under its control.
 
-#### Article 14. Recognition of Certificates and Licences
+##### Article 14. Recognition of Certificates and Licences
 
 Certificates of airworthiness, certificates of competency and licences issued or validated, by one Contracting Party which have not expired shall be recognized as valid by the other Contracting Party for the purpose of operating the agreed services on the specified routes, provided always that such certificates or licences were issued or validated in conformity with the standards established under the Convention referred to in Article 2 of this Agreement.
 
 Each Contracting Party, however, reserves the right to refuse to recognize, for flights above its own area certificates of competency and licences granted to, in the case of the Kingdom of the Netherlands its own nationals or, in the case of Macau its residents, by the other Contracting Party.
 
-#### Article 15. Security
+##### Article 15. Security
 
 1. The Contracting Parties agree to provide aid to each other as necessary with a view to preventing unlawful seizure of aircraft and other unlawful acts against the safety of aircraft, airports and air navigation facilities and any other threat to aviation security.
 
@@ -192,7 +217,7 @@ Each Contracting Party, however, reserves the right to refuse to recognize, for 
 
 5. When an incident, or threat of an incident, of unlawful seizure of aircraft or other unlawful acts against the safety of aircraft, airports and air navigation facilities occurs, the Contracting Parties shall assist each other by facilitating communications intended to terminate rapidly and safely such incident or threat thereof.
 
-#### Article 16. Consultation and Amendment
+##### Article 16. Consultation and Amendment
 
 1. In a spirit of close cooperation the aeronautical authorities of the Contracting Parties shall consult each other from time to time with a view to ensuring the implementation of, and satisfactory compliance with, the provisions of this Agreement.
 
@@ -204,7 +229,7 @@ Such consultations may be conducted through discussion or by correspondence.
 
 4. Any modification of the Annex to the present Agreement shall be agreed upon in writing between the aeronautical authorities and shall take effect on a date to be determined by the said authorities.
 
-#### Article 17. Settlement of Disputes
+##### Article 17. Settlement of Disputes
 
 1. If any dispute arises between the Contracting Parties relating to the interpretation or application of the present Agreement, the Contracting Parties shall in the first place endeavour to settle it by negotiation between themselves.
 
@@ -212,29 +237,29 @@ Such consultations may be conducted through discussion or by correspondence.
 
 3. The Contracting Parties undertake to comply with any decision made under paragraph 2 of this Article.
 
-#### Article 18. Termination
+##### Article 18. Termination
 
 Either Contracting Party may at any time give notice in writing to the other Contracting Party of its decision to terminate this Agreement. Such notice shall be simultaneously communicated to the International Civil Aviation Organization. In such case this Agreement shall terminate twelve (12) months after the date on which the notice was received by the other Contracting Party unless the notice to terminate is withdrawn by agreement before the expiry of this period. If the receipt is not acknowledged by the other Contracting Party, notice shall be deemed to have been received fourteen (14) days after the receipt of the notice by the International Civil Aviation Organization.
 
-#### Article 19. Registration with ICAO
+##### Article 19. Registration with ICAO
 
 This Agreement and any amendment thereto shall be registered with the International Civil Aviation Organization.
 
-#### Article 20. Applicability
+##### Article 20. Applicability
 
 As regards the Kingdom of the Netherlands, this Agreement shall apply to the Kingdom in Europe only.
 
-#### Article 21. Entry into Force
+##### Article 21. Entry into Force
 
 This Agreement shall enter into force as soon as the Contracting Parties have informed each other in writing that any necessary procedures have been completed.
 
-#### A. Route Schedule
+##### A. Route Schedule
 
 Each designated airline shall have the right to operate the following routes:
 
 All points in the area of its Contracting Party - all intermediate points - all points in the area of the other Contracting Party - all beyond points v.v.
 
-#### B. Conditions
+##### B. Conditions
 
 1. Intermediate and beyond points may be served in any order and/or may be omitted at the choice of the designated airline.
 

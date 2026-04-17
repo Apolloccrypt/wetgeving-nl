@@ -1,44 +1,70 @@
 ---
-title: "Wijzigingsbesluit Inrichtingsbesluit WVO enz. (deeleindexamens vmbo)"
+title: "Besluit van 9 juni 2017, houdende wijziging van diverse uitvoeringsbesluiten voor het voortgezet onderwijs in verband met onder meer deeleindexamens vmbo"
 identifier: "BWBR0039713"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-08-01
-laatste_update: 2022-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039713"
+country: "nl"
+rank: "amvb"
+publication_date: "2022-08-01"
+last_updated: "2022-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039713"
+soort: "AMvB"
+stam_id: "14033663"
+version_id: "24170562"
+internal_id: "C34732471"
+label_id: "13994894"
+dtd_version: "2.0"
+original_entry_into_force: "2018-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039713/2022-08-01/0"
+intitule_bron: "Stb.2017-288"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-06-09"
+intitule_published: "2017-07-03"
+intitule_in_force: "2017-07-03"
+intitule_status: "goed"
+original_publication: "Stb.2017-288"
+original_signed_date: "2017-06-09"
+original_published_date: "2017-07-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2017-288"
+entry_into_force_date: "2018-01-01"
+jci_1_3: "jci1.3:c:BWBR0039713&z=2022-08-01&g=2022-08-01"
+jci_1_0: "1.0:c:BWBR0039713&g=2022-08-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsbesluit Inrichtingsbesluit WVO enz. (deeleindexamens vmbo)"
+signed_date: "2017-06-09"
+entry_into_force: "2018-01-01"
 ---
-
 # Besluit van 9 juni 2017, houdende wijziging van diverse uitvoeringsbesluiten voor het voortgezet onderwijs in verband met onder meer deeleindexamens vmbo
 
-#### Artikel I. Wijziging [Inrichtingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005946)
+##### Artikel I. Wijziging [Inrichtingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005946)
 
 Wijzigt het Inrichtingsbesluit WVO.
 
-#### Artikel II. Wijziging [Inrichtingsbesluit WVO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029589)
+##### Artikel II. Wijziging [Inrichtingsbesluit WVO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029589)
 
 Wijzigt het Inrichtingsbesluit VWO BES.
 
-#### Artikel III. Wijziging [Eindexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0004593)
+##### Artikel III. Wijziging [Eindexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0004593)
 
 Wijzigt het Eindexamenbesluit VO.
 
-#### Artikel IV. Wijziging [Eindexamenbesluit VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029990)
+##### Artikel IV. Wijziging [Eindexamenbesluit VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029990)
 
 Wijzigt het Eindexamenbesluit VO BES.
 
-#### Artikel V. Wijziging [Staatsexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0011538)
+##### Artikel V. Wijziging [Staatsexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0011538)
 
 Wijzigt het Staatsexamenbesluit VO.
 
-#### Artikel VI. Wijziging [Staatsexamenbesluit VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029981)
+##### Artikel VI. Wijziging [Staatsexamenbesluit VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029981)
 
 Wijzigt het Staatsexamenbesluit VO BES.
 
-#### Artikel VII. Overgangsrecht vakbenaming bedrijfseconomie, afsluiten vak culturele en kunstzinnige vorming, en vak algemene natuurwetenschappen
+##### Artikel VII. Overgangsrecht vakbenaming bedrijfseconomie, afsluiten vak culturele en kunstzinnige vorming, en vak algemene natuurwetenschappen
 
 Een voldoende eindcijfer voor het examen in het vak management en organisatie in het vwo of havo geldt voor de toepassing van het [Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787) als hetzelfde eindcijfer voor het examen in het vak bedrijfseconomie in het vwo onderscheidenlijk havo, indien dit eindcijfer voor het vak management en organisatie niet langer dan 10 jaar geleden is behaald.
 
-#### Artikel VIII. Inwerkingtreding
+##### Artikel VIII. Inwerkingtreding
 
 1. De [artikelen I tot en met IV](https://wetten.overheid.nl/jci1.3:c:BWBR0039713&artikel=I&z=2022-08-01&g=2022-08-01) en [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0039713&artikel=VII&z=2022-08-01&g=2022-08-01) treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. [Artikel III, onderdeel OO](https://wetten.overheid.nl/jci1.3:c:BWBR0039713&artikel=III&z=2022-08-01&g=2022-08-01), en [artikel VII, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039713&artikel=VII&z=2022-08-01&g=2022-08-01), kunnen terugwerken tot en met een in dat besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 

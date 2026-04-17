@@ -1,13 +1,35 @@
 ---
 title: "Protocol inzake de voorrechten en immuniteiten van de Internationale Organisatie voor Telecommunicatiesatellieten “INTELSAT”"
 identifier: "BWBV0004951"
-categorie: "Digitaal en privacy"
-publicatiedatum: 1983-07-15
-laatste_update: 1983-07-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004951"
+country: "nl"
+rank: "verdrag"
+publication_date: "1983-07-15"
+last_updated: "1983-07-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004951"
+soort: "verdrag"
+stam_id: "10004403923"
+version_id: "10004607632"
+internal_id: "C10008343351"
+label_id: "10004388794"
+dtd_version: "2.0"
+original_entry_into_force: "1983-07-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004951/1983-07-15/0"
+intitule_bron: "Trb.1983-115"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1983-09-07"
+intitule_in_force: "1983-09-07"
+intitule_status: "goed"
+original_publication: "Trb.1983-115"
+original_published_date: "1983-09-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1983-115"
+entry_into_force_date: "1983-07-15"
+jci_1_3: "jci1.3:c:BWBV0004951&z=1983-07-15&g=1983-07-15"
+jci_1_0: "1.0:c:BWBV0004951&g=1983-07-15"
+citeertitel_status: "redactioneel"
+entry_into_force: "1983-07-15"
 ---
-
 # Protocol inzake de voorrechten en immuniteiten van de Internationale Organisatie voor Telecommunicatiesatellieten “INTELSAT”
 
 Preamble
@@ -24,7 +46,7 @@ Affirming that the purpose of the privileges, exemptions and immunities covered 
 
 Have agreed as follows:
 
-#### Article 1. Use of Terms
+##### Article 1. Use of Terms
 
 For the purposes of this Protocol:
 
@@ -52,11 +74,11 @@ For the purposes of this Protocol:
 
 ### CHAPTER I. : INTELSAT'S PROPERTY AND OPERATIONS
 
-#### Article 2. Inviolability of Archives
+##### Article 2. Inviolability of Archives
 
 The archives of INTELSAT shall be inviolable wherever located.
 
-#### Article 3. Immunity from Jurisdiction and Execution
+##### Article 3. Immunity from Jurisdiction and Execution
 
 1. Within the scope of its activities authorized by the INTELSAT Agreements, INTELSAT shall have immunity from jurisdiction and immunity from execution except:
 
@@ -80,7 +102,7 @@ The archives of INTELSAT shall be inviolable wherever located.
 
 - (c). from any form of administrative or provisional judicial constraint, except insofar as may be temporarily necessary in connection with the prevention and investigation of accidents involving motor vehicles or other means of transport belonging to, or operated on behalf of, INTELSAT.
 
-#### Article 4. Fiscal and Customs Provisions
+##### Article 4. Fiscal and Customs Provisions
 
 1. Within the scope of its activities authorized by the INTELSAT Agreements, INTELSAT and its property shall be exempt from all national income and direct national property taxation.
 
@@ -92,17 +114,17 @@ The archives of INTELSAT shall be inviolable wherever located.
 
 5. Goods belonging to INTELSAT which have been exempted under paragraphs 2 or 3 shall not be transferred, hired out or lent, permanently or temporarily, except in accordance with the domestic laws of the Contracting Party which granted the exemption.
 
-#### Article 5. Communications
+##### Article 5. Communications
 
 With regard to its official communications and the transfer of all its documents, INTELSAT shall enjoy in the territory of each Contracting Party treatment not less favourable than that accorded to other intergovernmental non-regional organizations in the matter of priorities, rates and taxes on mails and all forms of telecommunications, as far as may be compatible with any international conventions, regulations and arrangements to which that Contracting Party is a party. No censorship shall be applied to official communications of INTELSAT by whatever means of communication.
 
-#### Article 6. Restrictions
+##### Article 6. Restrictions
 
 Within the scope of its activities authorized by the INTELSAT Agreements, the funds held by INTELSAT shall not be restricted by controls, restrictions, regulations or moratoria of any kind, provided that operations involving those funds comply with the laws of the Contracting Party.
 
 ### CHAPTER II. : STAFF MEMBERS OF INTELSAT
 
-#### Article 7
+##### Article 7
 
 1. The staff members of INTELSAT shall enjoy the following privileges, exemptions and immunities:
 
@@ -132,7 +154,7 @@ Within the scope of its activities authorized by the INTELSAT Agreements, the fu
 
 ### CHAPTER III. : REPRESENTATIVES OF INTELSAT PARTIES AND SIGNATORIES AND PERSONS PARTICIPATING IN ARBITRATION PROCEEDINGS
 
-#### Article 8
+##### Article 8
 
 1. Representatives of INTELSAT Parties at meetings called by or held under the auspices of INTELSAT shall, in the exercise of their functions, and during their journeys to and from the place of meeting, enjoy the following privileges and immunities:
 
@@ -154,7 +176,7 @@ Within the scope of its activities authorized by the INTELSAT Agreements, the fu
 
 ### CHAPTER IV. : WAIVER
 
-#### Article 9
+##### Article 9
 
 The privileges, exemptions and immunities provided for in this Protocol are not granted for the personal benefit of individuals. If such privileges, exemptions and immunities are likely to impede the course of justice, and in all cases where they may be waived without prejudice to the efficient performance of the functions of INTELSAT, the authorities set forth below shall agree to waive such privileges, exemptions and immunities:
 
@@ -168,25 +190,25 @@ The privileges, exemptions and immunities provided for in this Protocol are not 
 
 ### CHAPTER V. : GENERAL PROVISIONS
 
-#### Article 10. Precautionary Measures
+##### Article 10. Precautionary Measures
 
 Each Contracting Party reserves the right to take all necessary measures in the interests of its security.
 
-#### Article 11. Co-operation with the Contracting Parties
+##### Article 11. Co-operation with the Contracting Parties
 
 INTELSAT and its staff members shall co-operate at all times with the competent authorities of the Contracting Parties concerned, in order to facilitate the proper administration of justice, to ensure the observance of the laws and regulations of the Contracting Parties concerned and to prevent any abuse of the privileges, exemptions and immunities provided for in this Protocol.
 
-#### Article 12. Complementary Arrangements
+##### Article 12. Complementary Arrangements
 
 INTELSAT may conclude with one or more Contracting Parties complementary arrangements to give effect to the provisions of this Protocol as regards such Contracting Party or Contracting Parties, and other arrangements to ensure the efficient functioning of INTELSAT.
 
-#### Article 13. Settlement of Disputes
+##### Article 13. Settlement of Disputes
 
 Any dispute between INTELSAT and a Contracting Party or between Contracting Parties concerning the interpretation or application of this Protocol which is not settled by negotiation or by some other agreed method shall be referred for final decision to a tribunal of three arbitrators. One of these arbitrators shall be chosen by each of the parties to the dispute within sixty (60) days of the notification by one party to the other of its intention to refer the dispute to arbitration. The third arbitrator, who shall be the chairman of the tribunal, shall be chosen by the first two arbitrators. Should the first two arbitrators fail to agree upon the third within sixty (60) days of the date of the appointment of the second arbitrator, the third arbitrator shall be chosen by the Secretary General of the United Nations.
 
 ### CHAPTER VI. : FINAL PROVISIONS
 
-#### Article 14
+##### Article 14
 
 1. This Protocol shall be open for signature until 20 November 1978 by INTELSAT Parties other than the Party in whose territory the headquarters is located.
 
@@ -194,17 +216,17 @@ Any dispute between INTELSAT and a Contracting Party or between Contracting Part
 
 3. This Protocol shall be open for accession by the INTELSAT Parties referred to in paragraph 1 of this Article. Instruments of accession shall be deposited with the Director General of INTELSAT.
 
-#### Article 15
+##### Article 15
 
 Any INTELSAT Party may, at the time of depositing its instrument of ratification, acceptance, approval or accession, make reservations to any provision of this Protocol. Reservations may be withdrawn at any time by a statement to that effect addressed to the Director General of INTELSAT. Unless the statement indicates otherwise, a withdrawal shall take effect upon its receipt by the Director General.
 
-#### Article 16
+##### Article 16
 
 1. This Protocol shall enter into force on the thirtieth day after the date of deposit of the twelfth instrument of ratification, acceptance, approval or accession.
 
 2. For each State ratifying, accepting, approving or acceding to this Protocol after the deposit of the twelfth instrument of ratification, acceptance, approval or accession, this Protocol shall enter into force on the thirtieth day after that State shall have deposited its instrument of ratification, acceptance, approval or accession.
 
-#### Article 17
+##### Article 17
 
 1. This Protocol shall remain in force until the expiry of the [Agreement](https://wetten.overheid.nl/jci1.3:c:BWBV0004067).
 
@@ -212,7 +234,7 @@ Any INTELSAT Party may, at the time of depositing its instrument of ratification
 
 3. Withdrawal from the Agreement by any INTELSAT Party, in accordance with the provisions of [Article XVI of the Agreement](https://wetten.overheid.nl/jci1.3:c:BWBV0004067&artikel=XVI), shall imply denunciation by that State of this Protocol.
 
-#### Article 18
+##### Article 18
 
 1. The Director General of INTELSAT shall notify all States which have signed, or acceded to, this Protocol of the deposit of each instrument of ratification, acceptance, approval or accession, of the entry into force of this Protocol and of any other communications relating to this Protocol.
 

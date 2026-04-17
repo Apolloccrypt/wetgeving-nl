@@ -1,104 +1,130 @@
 ---
-title: "Wijzigingsregeling Uitvoeringsregeling inkomstenbelasting 2001, enz. (2015)"
+title: "Regeling van de Staatssecretaris van Financiën van 30 december 2014, nr. IZV 2014/715M, tot wijziging van enige uitvoeringsregelingen inzake de fiscaliteit en douane alsmede van de Wet op de accijns"
 identifier: "BWBR0036087"
-categorie: "Belastingrecht"
-publicatiedatum: 2016-01-01
-laatste_update: 2016-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036087"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2016-01-01"
+last_updated: "2016-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036087"
+soort: "ministeriele-regeling"
+stam_id: "12929473"
+version_id: "22017252"
+internal_id: "C31571881"
+label_id: "12898884"
+dtd_version: "2.0"
+original_entry_into_force: "2015-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036087/2016-01-01/0"
+intitule_bron: "Stcrt.2014-36880"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-12-30"
+intitule_published: "2014-12-30"
+intitule_in_force: "2014-12-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-36880"
+original_signed_date: "2014-12-30"
+original_published_date: "2014-12-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-36880"
+entry_into_force_date: "2015-01-01"
+jci_1_3: "jci1.3:c:BWBR0036087&z=2016-01-01&g=2016-01-01"
+jci_1_0: "1.0:c:BWBR0036087&g=2016-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsregeling Uitvoeringsregeling inkomstenbelasting 2001, enz. (2015)"
+signed_date: "2014-12-30"
+entry_into_force: "2015-01-01"
 ---
-
 # Regeling van de Staatssecretaris van Financiën van 30 december 2014, nr. IZV 2014/715M, tot wijziging van enige uitvoeringsregelingen inzake de fiscaliteit en douane alsmede van de Wet op de accijns
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Uitvoeringsregeling inkomstenbelasting 2001.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Uitvoeringsregeling loonbelasting 2011.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Regeling gegevensuitvraag loonaangifte.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Uitvoeringsbeschikking vennootschapsbelasting 1971.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Uitvoeringsregeling schenk- en erfbelasting.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Uitvoeringsbeschikking omzetbelasting 1968.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Wet op de accijns.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Uitvoeringsregeling accijns.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Uitvoeringsregeling verbruiksbelasting van alcoholvrije dranken.
 
-#### Artikel IXa
+##### Artikel IXa
 
 Wijzigt het Algemeen douanebesluit.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Algemene douaneregeling.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt de Uitvoeringsregeling belasting van personenauto's en motorrijwielen 1992.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt de Uitvoeringsregeling belastingen op milieugrondslag.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt de Uitvoeringsregeling Belastingdienst 2003.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt de Uitvoeringsregeling Invorderingswet 1990.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt de Uitvoeringsregeling Belastingwet BES.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Voor overeenkomsten tot het verlenen van diensten inzake het adviseren en ondersteunen van paritaire organisaties die zijn gesloten voor 1 januari 2015, blijft [artikel 9a van de Uitvoeringsbeschikking omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&artikel=9a), zoals dat op 31 december 2014 luidde, van toepassing tot en met 31 december 2017.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 [Artikel 20, vierde lid, van de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&artikel=20) is van overeenkomstige toepassing met betrekking tot een pseudo-eindheffing als bedoeld in [artikel 32bc van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=32bc), zoals dat op 31 december 2014 luidde, over een tijdvak dat vóór 1 januari 2015 is geëindigd.
 
-#### Artikel XIX
+##### Artikel XIX
 
 Tot 1 januari 2016 wordt de maximale aanspraak op het kindgebonden budget, bedoeld in [artikel 15, eerste lid, onderdeel g, van de Uitvoeringsregeling Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=15), voor de alleenstaande ouder op wie het overgangsrecht, bedoeld in [artikel XII, tweede lid, van de Wet hervorming kindregelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0035259&artikel=XII), van toepassing is, vermeerderd met de verhoging van het kindgebonden budget, bedoeld in [artikel 2, zesde lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2).
 
-#### Artikel XX
+##### Artikel XX
 
 In afwijking van [artikel 4.1, eerste lid, van de Uitvoeringsregeling Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029332&artikel=4.1) wordt een melding als bedoeld in dat lid met betrekking tot wijzigingen van een onroerende zaak die zich in 2013 hebben voorgedaan geacht binnen de termijn, bedoeld in de tweede volzin van dat lid, te zijn gedaan indien de melding in 2015 wordt gedaan.
 
-#### Artikel XXI
+##### Artikel XXI
 
 Met betrekking tot een belastingaanslag inkomstenbelasting over het kalenderjaar 2014 waarvan het aanslagbiljet een dagtekening heeft die ligt in de periode die aanvangt op 1 mei 2015 en eindigt op 30 juni 2016 wordt geen invorderingsrente in rekening gebracht voor zover de betaling plaatsvindt uiterlijk 4 maanden na het verstrijken van de voor deze belastingaanslag geldende betalingstermijn.
 
-#### Artikel XXII
+##### Artikel XXII
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2015, met dien verstande dat:
 

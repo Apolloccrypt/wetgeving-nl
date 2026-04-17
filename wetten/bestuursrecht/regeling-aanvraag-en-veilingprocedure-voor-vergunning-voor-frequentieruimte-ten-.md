@@ -1,13 +1,39 @@
 ---
-title: "Regeling aanvraag- en veilingprocedure voor vergunning voor frequentieruimte ten behoeve van digitale omroep (digitale ethertelevisie)"
+title: "Regeling van de Minister van Economische Zaken van 15 april 2016, nr. WJZ/16056990, houdende vaststelling van de aanvraag- en veilingprocedure voor vergunning voor frequentieruimte ten behoeve van digitale omroep (digitale ethertelevisie)"
 identifier: "BWBR0037844"
-categorie: "Bestuursrecht"
-publicatiedatum: 2016-04-21
-laatste_update: 2016-04-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037844"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2016-04-21"
+last_updated: "2016-04-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037844"
+soort: "ministeriele-regeling"
+stam_id: "13477063"
+version_id: "23126612"
+internal_id: "C33426661"
+label_id: "13444354"
+dtd_version: "2.0"
+original_entry_into_force: "2016-04-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037844/2016-04-21/0"
+intitule_bron: "Stcrt.2016-20201"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-04-15"
+intitule_published: "2016-04-20"
+intitule_in_force: "2016-04-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-20201"
+original_signed_date: "2016-04-15"
+original_published_date: "2016-04-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-20201"
+entry_into_force_date: "2016-04-21"
+jci_1_3: "jci1.3:c:BWBR0037844&z=2016-04-21&g=2016-04-21"
+jci_1_0: "1.0:c:BWBR0037844&g=2016-04-21"
+citeertitel_status: "officieel"
+short_title: "Regeling aanvraag- en veilingprocedure voor vergunning voor frequentieruimte ten behoeve van digitale omroep (digitale ethertelevisie)"
+signed_date: "2016-04-15"
+entry_into_force: "2016-04-21"
 ---
-
 # Regeling van de Minister van Economische Zaken van 15 april 2016, nr. WJZ/16056990, houdende vaststelling van de aanvraag- en veilingprocedure voor vergunning voor frequentieruimte ten behoeve van digitale omroep (digitale ethertelevisie)
 
 Gelet op de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=9) en [10 van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=10);
@@ -16,7 +42,7 @@ Besluit:
 
 #### Paragraaf 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -38,13 +64,13 @@ In deze regeling wordt verstaan onder:
 
 #### Paragraaf 2. Vergunning voor digitale ethertelevisie
 
-#### Artikel 2
+##### Artikel 2
 
 Ingevolge het [besluit van de minister van 15 april 2016, nr. 7188783](onbekend), inzake het besluit om de vergunning voor digitale omroep (digitale ethertelevisie) te veilen en de voorschriften en beperkingen vast te stellen die aan de vergunning zullen worden verbonden is er één vergunning voor digitale ethertelevisie beschikbaar om door middel van een veiling te worden verdeeld.
 
 #### Paragraaf 3. Vergunningaanvraag en zekerheidsstelling
 
-#### Artikel 3
+##### Artikel 3
 
 1. Degene die voor een vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037844&paragraaf=2&artikel=2&z=2016-04-21&g=2016-04-21) in aanmerking wil komen, dient een aanvraag in.
 
@@ -70,11 +96,11 @@ Ingevolge het [besluit van de minister van 15 april 2016, nr. 7188783](onbekend)
 
 8. De gegevens en bescheiden, bedoeld in het zevende lid, mogen in afwijking van het zesde lid, in een van de officiële talen van de Europese Unie of Europese Economische Ruimte worden gesteld. In dat geval worden die gegevens en bescheiden vergezeld van een Nederlandse vertaling van die gegevens en bescheiden.
 
-#### Artikel 4
+##### Artikel 4
 
 Indien niet voldaan is aan [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037844&paragraaf=3&artikel=3&z=2016-04-21&g=2016-04-21), wijst de minister de aanvraag af.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Indien de aanvraag niet is afgewezen op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037844&paragraaf=3&artikel=4&z=2016-04-21&g=2016-04-21) en de aanvrager niet heeft voldaan aan een van de in [artikel 3, vierde tot en met zesde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037844&paragraaf=3&artikel=3&z=2016-04-21&g=2016-04-21), en [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037844&paragraaf=3&artikel=7&z=2016-04-21&g=2016-04-21), gestelde eisen, deelt de minister dit de aanvrager mee en stelt de minister de aanvrager in de gelegenheid het verzuim te herstellen.
 
@@ -86,7 +112,7 @@ Indien niet voldaan is aan [artikel 3, tweede lid](https://wetten.overheid.nl/jc
 
 5. Indien het verzuim niet binnen de termijn, bedoeld in het tweede en het derde lid, en op de wijze, vermeld in het derde lid, is hersteld of indien na herstel niet wordt voldaan aan de in [artikel 3, vierde tot en met zesde, en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037844&paragraaf=3&artikel=3&z=2016-04-21&g=2016-04-21), en [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037844&paragraaf=3&artikel=7&z=2016-04-21&g=2016-04-21), gestelde eisen, kan de minister besluiten de aanvraag overeenkomstig [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) niet te behandelen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De aanvrager is een privaatrechtelijke rechtspersoon naar Nederlands recht of het equivalent daarvan naar het recht van een van de overige lidstaten van de Europese Unie of een van de overige staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte, en heeft zijn statutaire zetel, zijn hoofdbestuur of zijn hoofdvestiging binnen de Europese Economische Ruimte.
 
@@ -102,7 +128,7 @@ Indien niet voldaan is aan [artikel 3, tweede lid](https://wetten.overheid.nl/jc
 
 5. Indien uit de aanvraag niet blijkt dat aan de eisen, bedoeld in het eerste en tweede lid, is voldaan, wijst de minister de aanvraag af.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Een aanvrager verstrekt als zekerheid voor de betaling van het bod en teneinde te borgen dat de vergunning wordt verleend aan een financieel bestendige vergunninghouder een waarborgsom of een bankgarantie ter grootte van € 1.000.000.
 
@@ -120,7 +146,7 @@ Indien niet voldaan is aan [artikel 3, tweede lid](https://wetten.overheid.nl/jc
 
 - b. de bankgarantie, verstrekt volgens het model, bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0037844&bijlage=II&z=2016-04-21&g=2016-04-21), is ontvangen op het in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037844&paragraaf=3&artikel=3&z=2016-04-21&g=2016-04-21), genoemde adres.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Een aanvrager verklaart door middel van een door hem ondertekende verklaring overeenkomstig [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0037844&bijlage=III&z=2016-04-21&g=2016-04-21) bij deze regeling dat hij zich voorafgaand aan de indiening van de aanvraag heeft onthouden van afspraken of onderling afgestemde feitelijke gedragingen die afbreuk doen of kunnen doen aan de mededinging in het kader van de veilingprocedure en zich na het indienen van de aanvraag zal onthouden van het maken van dergelijke afspraken of het verrichten van dergelijke gedragingen.
 
@@ -128,13 +154,13 @@ Indien niet voldaan is aan [artikel 3, tweede lid](https://wetten.overheid.nl/jc
 
 #### Paragraaf 4. Vaststelling eventuele schaarste
 
-#### Artikel 9
+##### Artikel 9
 
 1. Indien de minister op grond van [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037844&paragraaf=3&artikel=6&z=2016-04-21&g=2016-04-21), vaststelt dat, uitgezonderd de aanvragers waarvan de aanvraag is geweigerd op grond van artikel 6, vijfde lid, dan wel is afgewezen op grond van [artikel 3.18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.18), slechts één aanvrager voldoet aan de eisen, gesteld in artikel 6, vindt de veiling niet plaats en wordt de vergunning aan de betreffende aanvrager verleend.
 
 2. Indien de minister op grond van [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037844&paragraaf=3&artikel=6&z=2016-04-21&g=2016-04-21), vaststelt dat, uitgezonderd de aanvragers waarvan de aanvraag is geweigerd op grond van artikel 6, vijfde lid, dan wel is afgewezen op grond van [artikel 3.18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.18), meerdere aanvragers voldoen aan de eisen, gesteld in artikel 6, wordt de vergunning geveild.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Indien na toepassing van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037844&paragraaf=4&artikel=9&z=2016-04-21&g=2016-04-21) de noodzaak van veilen is komen vast te staan, deelt de minister de desbetreffende aanvragers dit schriftelijk mede.
 
@@ -142,7 +168,7 @@ Indien niet voldaan is aan [artikel 3, tweede lid](https://wetten.overheid.nl/jc
 
 #### Paragraaf 5. De veiling
 
-#### Artikel 11
+##### Artikel 11
 
 1. De veiling vindt plaats via internet, met behulp van een elektronisch veilingsysteem, en geschiedt door middel van een klokveiling, waarbij de minister de rondeprijzen bepaalt en de deelnemer de keuze heeft om voor de door de minister vastgestelde rondeprijs een bod uit te brengen op de vergunning.
 
@@ -154,7 +180,7 @@ Indien niet voldaan is aan [artikel 3, tweede lid](https://wetten.overheid.nl/jc
 
 5. De minister leidt de veiling en draagt zorg voor een goed verloop van de veiling.
 
-#### Artikel 12
+##### Artikel 12
 
 De minister deelt een deelnemer uiterlijk twee weken voor de aanvang van de veiling schriftelijk mee:
 
@@ -170,7 +196,7 @@ De minister deelt een deelnemer uiterlijk twee weken voor de aanvang van de veil
 
 - f. het internetadres waarop de deelnemer inlogt teneinde aan de veiling deel te nemen.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Een deelnemer, inbegrepen diegene die een deelnemer ten behoeve van de veiling bijstaat, onthoudt zich van afspraken of onderling afgestemde feitelijke gedragingen die afbreuk doen of kunnen doen aan de mededinging in het kader van de veilingprocedure.
 
@@ -184,13 +210,13 @@ De minister deelt een deelnemer uiterlijk twee weken voor de aanvang van de veil
 
 - b. besluiten dat een of meer biedronden opnieuw moeten worden gehouden.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De minister bepaalt wanneer de biedronden van de veiling plaatsvinden en de duur van die biedronden.
 
 2. Een deelnemer is onvoorwaardelijk en onherroepelijk aan zijn bod gebonden.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Indien een deelnemer in een biedronde of verlengde biedronde, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037844&paragraaf=5&artikel=17&z=2016-04-21&g=2016-04-21), geen bod uitbrengt, is de betreffende deelnemer, onverminderd [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0037844&paragraaf=5&artikel=21&z=2016-04-21&g=2016-04-21), niet gerechtigd in de volgende biedronden een bod uit te brengen.
 
@@ -200,11 +226,11 @@ De minister deelt een deelnemer uiterlijk twee weken voor de aanvang van de veil
 
 - b. de laatste biedronde opnieuw wordt gehouden.
 
-#### Artikel 16
+##### Artikel 16
 
 Een deelnemer brengt per biedronde maximaal één bod uit.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Indien een deelnemer een biedronde laat verstrijken zonder dat hij een bod uitbrengt wordt die biedronde voor die deelnemer eenmalig van rechtswege verlengd met een termijn van 30 minuten.
 
@@ -222,7 +248,7 @@ Een deelnemer brengt per biedronde maximaal één bod uit.
 
 6. Indien er technische problemen optreden bij een deelnemer, kan de minister verlangen dat biedingen worden uitgebracht door middel van een computer die de minister ter beschikking stelt op een door hem te bepalen locatie.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De minister deelt elke deelnemer zo spoedig mogelijk na het einde van een biedronde mee:
 
@@ -238,7 +264,7 @@ Een deelnemer brengt per biedronde maximaal één bod uit.
 
 2. In afwijking van het eerste lid, onder b, c, d, en e, wordt geen informatie over een volgende biedronde gegeven indien de biedronde op grond van [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037844&paragraaf=5&artikel=20&z=2016-04-21&g=2016-04-21), definitief eindigt.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De prijs in de eerste biedronde is € 0,–.
 
@@ -248,7 +274,7 @@ Een deelnemer brengt per biedronde maximaal één bod uit.
 
 4. Indien dit naar het oordeel van de minister nodig is voor een evenwichtige vraagontwikkeling of een efficiënt verloop van de veiling kan hij afwijken van het derde lid.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De laatste biedronde is de eerste biedronde waarin één geldig bod is uitgebracht.
 
@@ -256,7 +282,7 @@ Een deelnemer brengt per biedronde maximaal één bod uit.
 
 3. Het in het eerste lid bedoeld bod is het winnende bod.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Indien in een biedronde geen bod is uitgebracht, komt deze laatste biedronde te vervallen.
 
@@ -268,7 +294,7 @@ Een deelnemer brengt per biedronde maximaal één bod uit.
 
 #### Paragraaf 6. Vergunningverlening
 
-#### Artikel 22
+##### Artikel 22
 
 1. Met toepassing van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0037844&paragraaf=5&artikel=20&z=2016-04-21&g=2016-04-21) wordt de vergunning verleend aan de deelnemer met het winnende bod. Het door de betreffende deelnemer voor de vergunning verschuldigde bedrag is gelijk aan de van toepassing zijnde rondeprijs die gold in de ronde waarin zijn winnende bod is uitgebracht. De minister deelt alle deelnemers mee aan wie de vergunning wordt verleend.
 
@@ -302,11 +328,11 @@ Een deelnemer brengt per biedronde maximaal één bod uit.
 
 #### Paragraaf 7. Slotbepalingen
 
-#### Artikel 23
+##### Artikel 23
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 24
+##### Artikel 24
 
 Deze regeling wordt aangehaald als: Regeling aanvraag- en veilingprocedure voor vergunning voor frequentieruimte ten behoeve van digitale omroep (digitale ethertelevisie).
 

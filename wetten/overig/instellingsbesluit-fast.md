@@ -1,13 +1,39 @@
 ---
-title: "Instellingsbesluit FAST"
+title: "Besluit van het bestuur van ZonMw tot instelling van Bijzondere Programmacommissie FAST (Centre for Future Affordable SustainableTherapy development)"
 identifier: "BWBR0048842"
-categorie: "Overig"
-publicatiedatum: 2023-10-02
-laatste_update: 2023-10-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048842"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-10-02"
+last_updated: "2023-10-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048842"
+soort: "zbo"
+stam_id: "16905473"
+version_id: "29710492"
+internal_id: "C42569311"
+label_id: "16817124"
+dtd_version: "2.0"
+original_entry_into_force: "2023-10-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048842/2023-10-02/0"
+intitule_bron: "Stcrt.2023-30042"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-09-13"
+intitule_published: "2023-11-03"
+intitule_in_force: "2023-11-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-30042"
+original_signed_date: "2023-09-13"
+original_published_date: "2023-11-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-30042"
+entry_into_force_date: "2023-10-02"
+jci_1_3: "jci1.3:c:BWBR0048842&z=2023-10-02&g=2023-10-02"
+jci_1_0: "1.0:c:BWBR0048842&g=2023-10-02"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit FAST"
+signed_date: "2023-09-13"
+entry_into_force: "2023-10-02"
 ---
-
 # Besluit van het bestuur van ZonMw tot instelling van Bijzondere Programmacommissie FAST (Centre for Future Affordable SustainableTherapy development)
 
 gelet op [artikel 9, tweede lid, van de Wet op de organisatie ZorgOnderzoek Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0009385&artikel=9) (Wet ZON), [artikel 4, eerste en zesde lid, van het Bestuursreglement ZonMw 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042194&artikel=4.1)
@@ -40,7 +66,7 @@ Besluit als volgt:
 
 De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 - 1. **Wet ZON:** [Wet op de organisatie ZorgOnderzoek Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0009385).
 
@@ -56,7 +82,7 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 - 7. **Uitvoeringsafspraken:** Afspraken tussen ZonMw en FAST over de praktische uitvoering
 
-#### Artikel 2. Instelling
+##### Artikel 2. Instelling
 
 1. Er is een bijzondere programmacommissie FAST, dat functioneert als bestuur van FAST.
 
@@ -64,7 +90,7 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 3. FAST opereert, gelet op hetgeen in [artikel 4, vierde lid, van de Wet ZON](https://wetten.overheid.nl/jci1.3:c:BWBR0009385&artikel=4) is bepaald omtrent de bevoegdheden van de voorzitter en de secretaris van het bestuur van ZonMw, zo zelfstandig mogelijk van het bestuur van ZonMw en voorts overeenkomstig de afspraken als overeengekomen in het Convenant en de tussen ZonMw en FAST afgesloten Uitvoeringsafspraken. Daarbij blijft ZonMw het zelfstandig functioneren van FAST waarborgen en bevorderen.
 
-#### Artikel 3. Taak FAST
+##### Artikel 3. Taak FAST
 
 1. FAST heeft tot taak:
 
@@ -74,7 +100,7 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 2. Het bestuur van ZonMw verleent aan de FAST board, mandaat voor het namens het bestuur nemen van besluiten ter uitvoering van taken van FAST. Voor zover daarbij wordt afgeweken van [artikel 4.2 van het Bestuursreglement ZonMw 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042194&artikel=4.2), wordt gebruik gemaakt van de mogelijkheid om af te wijken indien dit noodzakelijk is voor de uitvoering van de taak van de commissie, zoals beschreven in [artikel 4.1, zesde lid, van het Bestuursreglement ZonMw 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042194&artikel=4.1).
 
-#### Artikel 4. Werkwijze FAST in relatie tot ZonMw
+##### Artikel 4. Werkwijze FAST in relatie tot ZonMw
 
 1. De FAST board bepaalt als bijzondere programmacommissie binnen ZonMw haar eigen werkwijze overeenkomstig het bepaalde in het Convenant. Deze werkwijze zal worden neergelegd in een Bestuursreglement FAST. Indien en voor zover een bepaling uit dit bestuursreglement in strijd is met de wet of het [Bestuursreglement ZonMw 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042194) blijft de betreffende bepaling buiten werking.
 
@@ -86,7 +112,7 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 5. Gelet op het gestelde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048842&artikel=2&z=2023-10-02&g=2023-10-02) verleent de directeur van ZonMw, met inachtneming van [artikel 3.2, zesde lid, van het Bestuursreglement ZonMw 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042194&artikel=3.2), ondermandaat aan de directeur van FAST, zulks met goedkeuring van het bestuur.
 
-#### Artikel 5. Instellingsduur
+##### Artikel 5. Instellingsduur
 
 1. De FAST board wordt ingesteld voor de duur zoals bepaald in artikel 4 van het Convenant.
 
@@ -94,7 +120,7 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 3. Bij opzegging van het Convenant vervalt dit Instellingsbesluit per de datum als bepaald op grond van artikel 11 van het Convenant.
 
-#### Artikel 6. Samenstelling en benoeming leden FAST board
+##### Artikel 6. Samenstelling en benoeming leden FAST board
 
 1. De samenstelling van de FAST board vindt plaats zoals beschreven in het convenant.
 
@@ -106,15 +132,15 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 5. De benoeming van de leden van werkgroepen ter ondersteuning van de taken van FAST vindt plaats door de FAST board.
 
-#### Artikel 7. Convenant
+##### Artikel 7. Convenant
 
 Het Convenant vormt integraal onderdeel van dit Instellingsbesluit.
 
-#### Artikel 8. Inwerkingtreding
+##### Artikel 8. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 2 oktober 2023.
 
-#### Artikel 9. Citeertitel
+##### Artikel 9. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit FAST
 
@@ -128,7 +154,7 @@ Overwegen het volgende:
 
 **Spreken het volgende af,**
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 - 1. Wet ZON: [Wet op de organisatie ZorgOnderzoek Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0009385).
 
@@ -144,7 +170,7 @@ Overwegen het volgende:
 
 ### II. Doel
 
-#### Artikel 2. Doelstellingen van het convenant
+##### Artikel 2. Doelstellingen van het convenant
 
 Het convenant wordt afgesloten met de volgende doelstellingen:
 
@@ -156,11 +182,11 @@ Het convenant wordt afgesloten met de volgende doelstellingen:
 
 ### III. Afspraken
 
-#### Artikel 3. Oprichting FAST
+##### Artikel 3. Oprichting FAST
 
 Partijen komen overeen dat ZonMw zal overgaan tot het instellen van FAST conform het Instellingsbesluit welke is afgestemd met VWS waarbij FAST zal worden gehuisvest en operationeel gefaciliteerd binnen de organisatie van ZonMw. Dit zal geschieden conform de [Wet op de organisatie Zorg Onderzoek Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0009385) (Wet Zon)3https://wetten.overheid.nl/jci1.3:c:BWBR0009385&g=2023-03-20&z=2023-03-20 en het daarbij behorende [Bestuursreglement ZonMw 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042194).
 
-#### Artikel 4. Inrichting FAST
+##### Artikel 4. Inrichting FAST
 
 - 1. ZonMw faciliteert de oprichting van FAST als bijzondere programmacommissie binnen ZonMw, op de wijze als beschreven in het Instellingsbesluit.
 
@@ -182,7 +208,7 @@ Partijen komen overeen dat ZonMw zal overgaan tot het instellen van FAST conform
 
 - 8. De benoeming van de directeur vindt plaats door de FAST board, met instemming van de bij dit convenant betrokken ministeries.
 
-#### Artikel 5. Waarborgen voor zelfstandige positie van FAST binnen ZonMw
+##### Artikel 5. Waarborgen voor zelfstandige positie van FAST binnen ZonMw
 
 - 1. FAST wordt organisatorisch gehuisvest als bijzondere programmacommissie bij ZonMw en heeft een zelfstandige positie binnen ZonMw conform het Instellingsbesluit FAST.
 
@@ -194,13 +220,13 @@ Partijen komen overeen dat ZonMw zal overgaan tot het instellen van FAST conform
 
 - 5. ZonMw draagt zorg voor (onder)volmacht aan de FAST directeur ten behoeve van het verrichten van privaatrechtelijke rechtshandelingen.
 
-#### Artikel 6. Tijdshorizon
+##### Artikel 6. Tijdshorizon
 
 FAST wordt ingericht als een langlopend initiatief. FAST wordt in eerste instantie ingesteld voor een periode van 2 jaar. Op basis van een evaluatie wordt bekeken of kan worden overgegaan tot verlenging voor een volgende periode. De eerste tussentijdse evaluatie van de juridische positionering bij ZonMw wordt uitgevoerd binnen 1 jaar. Partijen komen nader overeen op welke wijze deze evaluatie plaats zal vinden.
 
 ### IV. Financiën
 
-#### Artikel 7. Financiën
+##### Artikel 7. Financiën
 
 - 1. Voor het onderhouden van de coördinerende en ondersteunende functie van FAST, en waar mogelijk het initiëren van projecten zoals pilots, stelt VWS jaarlijks een budget beschikbaar voor FAST.
 
@@ -210,15 +236,15 @@ FAST wordt ingericht als een langlopend initiatief. FAST wordt in eerste instant
 
 ### V. Slotbepalingen
 
-#### Artikel 8. Toepasselijk recht
+##### Artikel 8. Toepasselijk recht
 
 De uitvoering van dit convenant vindt plaats in overeenstemming met het Unierecht en het Nederlands Recht
 
-#### Artikel 9. Gegevensverwerking
+##### Artikel 9. Gegevensverwerking
 
 FAST als bijzondere programmacommissie binnen ZonMw is zelf verwerkingsverantwoordelijk en gehouden aan de relevante wetgeving rondom gegevensverwerking.
 
-#### Artikel 10. Wijziging
+##### Artikel 10. Wijziging
 
 - 1. Elke partij kan de andere partij(en) schriftelijk verzoeken het convenant te wijzigen. De wijziging behoeft de schriftelijke instemming van alle Partijen.
 
@@ -226,7 +252,7 @@ FAST als bijzondere programmacommissie binnen ZonMw is zelf verwerkingsverantwoo
 
 - 3. De wijziging en de verklaring(en) tot instemming worden als bijlage aan het convenant gehecht.
 
-#### Artikel 11. Opzegging
+##### Artikel 11. Opzegging
 
 - 1. Elke Partij kan het convenant met inachtneming van een opzegtermijn van 1 jaar schriftelijk opzeggen, indien een zodanige verandering van omstandigheden is opgetreden dat dit convenant billijkheidshalve op korte termijn behoort te eindigen. Onder een zodanige verandering van omstandigheden wordt onder andere begrepen door het kabinet vastgestelde bezuinigingen. De opzegging moet de verandering in omstandigheden vermelden.
 
@@ -234,17 +260,17 @@ FAST als bijzondere programmacommissie binnen ZonMw is zelf verwerkingsverantwoo
 
 - 3. In geval van beëindiging van het convenant krachtens opzegging zal ZonMw ook het instellingsbesluit FAST beëindigen.
 
-#### Artikel 12. Nakoming en geschillenbeslechting
+##### Artikel 12. Nakoming en geschillenbeslechting
 
 - 1. Partijen erkennen dat de bepalingen van het onderhavige convenant bindend zijn.
 
 - 2. Indien partijen van mening zijn dat geschillen in verband met dit convenant of met afspraken die daarmee samenhangen niet in onderling overleg kunnen worden beslecht, dan wordt de volgende procedure gevolgd. Elk der partijen wijst één adviseur aan waarna beide adviseurs gezamenlijk een derde adviseur aanwijzen die tevens optreedt als voorzitter. Aan de adviseurs wordt de opdracht gegeven een voor beide partijen bindend advies uit te brengen waarbij het oordeel van de voorzitter bepalend is in het geval de door partijen aangewezen adviseurs niet tot een gelijkluidend oordeel kunnen komen.
 
-#### Artikel 13. Onvoorziene omstandigheden
+##### Artikel 13. Onvoorziene omstandigheden
 
 Indien zich onvoorziene omstandigheden voordoen die van dien aard zijn dat dit convenant billijkheidshalve behoort te worden gewijzigd, treden partijen over een eventuele wijziging van dit convenant in overleg.
 
-#### Artikel 14. Inwerkingtreding en looptijd
+##### Artikel 14. Inwerkingtreding en looptijd
 
 - 1. Dit convenant treedt in werking met ingang van de dag na ondertekening en eindigt uiterlijk 2 jaar na deze datum.
 
@@ -254,7 +280,7 @@ Indien zich onvoorziene omstandigheden voordoen die van dien aard zijn dat dit c
 
 - 4. Op basis van een evaluatie kan telkens worden besloten om de looptijd van het convenant voor een volgende periode van 4 jaar te verlengen.
 
-#### Artikel 15. Publicatie Staatscourant
+##### Artikel 15. Publicatie Staatscourant
 
 - 1. Binnen 2 maanden na ondertekening van dit convenant wordt de tekst daarvan gepubliceerd in de Staatscourant.
 

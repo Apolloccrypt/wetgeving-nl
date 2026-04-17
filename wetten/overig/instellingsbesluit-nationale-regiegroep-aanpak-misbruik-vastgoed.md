@@ -1,22 +1,47 @@
 ---
 title: "Instellingsbesluit Nationale Regiegroep Aanpak Misbruik Vastgoed"
 identifier: "BWBR0031600"
-categorie: "Overig"
-publicatiedatum: 2012-07-01
-laatste_update: 2012-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031600"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2012-07-01"
+last_updated: "2012-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031600"
+soort: "ministeriele-regeling"
+stam_id: "11742093"
+version_id: "19404852"
+internal_id: "C27185901"
+label_id: "11714504"
+dtd_version: "2.0"
+original_entry_into_force: "2012-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031600/2012-07-01/0"
+intitule_bron: "Stcrt.2012-10502"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-04-25"
+intitule_published: "2012-05-31"
+intitule_in_force: "2012-05-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-10502"
+original_signed_date: "2012-04-25"
+original_published_date: "2012-05-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-10502"
+entry_into_force_date: "2012-07-01"
+jci_1_3: "jci1.3:c:BWBR0031600&z=2012-07-01&g=2012-07-01"
+jci_1_0: "1.0:c:BWBR0031600&g=2012-07-01"
+citeertitel_status: "redactioneel"
+signed_date: "2012-04-25"
+entry_into_force: "2012-07-01"
 ---
-
 # Instellingsbesluit Nationale Regiegroep Aanpak Misbruik Vastgoed
 
 Besluiten als volgt:
 
-#### Artikel 1
+##### Artikel 1
 
 Er is een Nationale Regiegroep Aanpak Misbruik Vastgoed (hierna te noemen: de Regiegroep). Het [instellingsbesluit van de Regiegroep van 25 maart 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025670) (Staatscourant 14 april 2009 nr 70) wordt gewijzigd en vervangen door het onderhavige instellingsbesluit.
 
-#### Artikel 2
+##### Artikel 2
 
 De Regiegroep heeft als taken:
 
@@ -38,11 +63,11 @@ De Regiegroep heeft als taken:
 
 - −. Het vóór eind 2014 opstellen van een eindevaluatie van de werkzaamheden over de periode 2009–2015, waarin in ieder geval inzichtelijk wordt gemaakt welke resultaten zijn bereikt, in welk stadium eventuele nog lopende initiatieven zich bevinden en welke eventuele resterende of nieuwe knelpunten zijn geconstateerd. Op basis van deze eindevaluatie adviseert de Regiegroep de minister van Veiligheid en Justitie en de staatssecretaris van Financiën over eventuele vervolgstappen.
 
-#### Artikel 3
+##### Artikel 3
 
 Het mandaat van de Regiegroep wordt verlengd tot 1 januari 2015. Op dat moment zal worden besloten of en in welke vorm het voortbestaan van de Regiegroep gewenst is. Dit besluit zal worden gebaseerd op de eindevaluatie en het bijbehorende advies van de Regiegroep, als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031600&artikel=2&z=2012-07-01&g=2012-07-01).
 
-#### Artikel 4
+##### Artikel 4
 
 De Regiegroep zal onder gezamenlijk voorzitterschap staan van de ministeries van Veiligheid en Justitie en van Financiën. Co-voorzitters, tevens leden van de Regiegroep zijn:
 
@@ -74,22 +99,22 @@ Van de volgende organisaties zal een vertegenwoordiger met voldoende mandaat en 
 
 - −. Openbaar Ministerie, Functioneel Parket
 
-#### Artikel 5
+##### Artikel 5
 
 Het secretariaat van de Regiegroep wordt vervuld door ambtenaren van de ministeries van veiligheid en Justitie en van Financiën gezamenlijk.
 
-#### Artikel 6
+##### Artikel 6
 
 De werkzaamheden van de Regiegroep worden voorbereid door de ‘werkgroep Aanpak Misbruik Vastgoed’, onder gezamenlijk voorzitterschap van de ministeries van Veiligheid en Justitie en van Financiën.
 
-#### Artikel 7
+##### Artikel 7
 
 De Regiegroep komt drie maal per jaar bijeen, of zoveel vaker als nodig wordt geacht.
 
-#### Artikel 8
+##### Artikel 8
 
 De Regiegroep onderhoudt nauw contact met andere relevante partijen, organisaties en gremia die een bijdrage kunnen leveren aan het voorkomen en bestrijden van misbruik en criminaliteit rond vastgoedtransacties. Daartoe behoren in ieder geval het Financieel Expertise Centrum (FEC), de landelijk coördinator financieel-economische en georganiseerde criminaliteit van het Openbaar Ministerie en het Integriteits Overleg Vastgoedmarkt (IOV). Indien de agenda daar aanleiding toe geeft kunnen vertegenwoordigers van dergelijke partijen worden uitgenodigd in de vergadering van de Regiegroep.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit wordt geplaatst in de Staatscourant.

@@ -1,13 +1,39 @@
 ---
-title: "Regeling routerings- en meldingssystemen voor schepen in volle zee voor de Nederlandse kust"
+title: "Regeling van de Minister van Infrastructuur en Milieu, van 3 juli 2013, nr. IENM/BSK-2013/40752, houdende vaststelling van een regeling met betrekking tot routeringssystemen voor schepen op volle zee voor de Nederlands kust (Regeling routerings- en meldingssystemen voor schepen in volle zee voor de Nederlandse kust)"
 identifier: "BWBR0033648"
-categorie: "Overig"
-publicatiedatum: 2022-07-06
-laatste_update: 2022-07-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033648"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-07-06"
+last_updated: "2022-07-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033648"
+soort: "ministeriele-regeling"
+stam_id: "12310463"
+version_id: "20634182"
+internal_id: "C29534681"
+label_id: "12281764"
+dtd_version: "2.0"
+original_entry_into_force: "2013-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033648/2022-07-06/0"
+intitule_bron: "Stcrt.2013-19233"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-07-03"
+intitule_published: "2013-07-11"
+intitule_in_force: "2013-07-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-19233"
+original_signed_date: "2013-07-03"
+original_published_date: "2013-07-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-19233"
+entry_into_force_date: "2013-08-01"
+jci_1_3: "jci1.3:c:BWBR0033648&z=2022-07-06&g=2022-07-06"
+jci_1_0: "1.0:c:BWBR0033648&g=2022-07-06"
+citeertitel_status: "officieel"
+short_title: "Regeling routerings- en meldingssystemen voor schepen in volle zee voor de Nederlandse kust"
+signed_date: "2013-07-03"
+entry_into_force: "2013-08-01"
 ---
-
 # Regeling van de Minister van Infrastructuur en Milieu, van 3 juli 2013, nr. IENM/BSK-2013/40752, houdende vaststelling van een regeling met betrekking tot routeringssystemen voor schepen op volle zee voor de Nederlands kust (Regeling routerings- en meldingssystemen voor schepen in volle zee voor de Nederlandse kust)
 
 Gelet op [artikel 2 van het Besluit routerings- en meldingssystemen voor schepen in volle zee voor de Nederlandse kust](https://wetten.overheid.nl/jci1.3:c:BWBR0008956&artikel=2);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Algemeen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -38,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Routeringssysteem Noord Hinder – Duitse Bocht
 
-#### Artikel 2. Reikwijdte
+##### Artikel 2. Reikwijdte
 
 Deze paragraaf is van toepassing op kapiteins van de volgende schepen:
 
@@ -50,7 +76,7 @@ Deze paragraaf is van toepassing op kapiteins van de volgende schepen:
 
 - d. gastankschepen van 10.000 GT of groter die vloeibare gassen in bulk vervoeren.
 
-#### Artikel 3. Gebruik van het routeringssysteem Noord Hinder – Duitse Bocht
+##### Artikel 3. Gebruik van het routeringssysteem Noord Hinder – Duitse Bocht
 
 1. Het routeringssysteem zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033648&bijlage=1&z=2022-07-06&g=2022-07-06) bij deze regeling of een deel daarvan wordt gevolgd indien wordt gevaren:
 
@@ -64,7 +90,7 @@ Deze paragraaf is van toepassing op kapiteins van de volgende schepen:
 
 2. Het eerste lid, onderdeel d, is niet van toepassing indien wordt gevaren tussen havens aan de oostelijke kust van het Verenigd Koninkrijk, inclusief de Orkney en Shetland eilanden.
 
-#### Artikel 4. Gedragsregels bij het gebruik van het routeringssysteem
+##### Artikel 4. Gedragsregels bij het gebruik van het routeringssysteem
 
 Bij gebruikmaking van het routeringssysteem:
 
@@ -74,15 +100,15 @@ Bij gebruikmaking van het routeringssysteem:
 
 - c. wordt de stuurboordzijde van de diepwaterroutes die onderdeel zijn van het routeringssysteem, voor zover dit naar het oordeel van de kapitein uitvoerbaar is, gevolgd.
 
-#### Artikel 5. Binnenvaren of verlaten van het routeringssysteem
+##### Artikel 5. Binnenvaren of verlaten van het routeringssysteem
 
 Het binnenvaren of verlaten van het routeringssysteem geschiedt op het punt dat het dichtst bij de vertrek- of bestemmingshaven ligt en dat tevens zodanig is gelegen dat een veilige vaart van of naar die haven mogelijk is.
 
-#### Artikel 6. Niet te bevaren zeegebied
+##### Artikel 6. Niet te bevaren zeegebied
 
 Het zeegebied tussen het routerings-systeem en de aangrenzende kust van de Waddeneilanden wordt niet bevaren, tenzij het routeringssysteem wordt binnengevaren of verlaten.
 
-#### Artikel 7. Vrijstelling
+##### Artikel 7. Vrijstelling
 
 1. De schepen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033648&paragraaf=2&artikel=2&z=2022-07-06&g=2022-07-06), die vanwege hun diepgang het zuidelijk deel van het routeringssysteem, omschreven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033648&bijlage=1&z=2022-07-06&g=2022-07-06), onderdeel A en B, onder a en b, niet op veilige wijze kunnen bevaren, zijn vrijgesteld van het verplichting om dit deel van het routeringssysteem te gebruiken.
 
@@ -92,21 +118,21 @@ Het zeegebied tussen het routerings-systeem en de aangrenzende kust van de Wadde
 
 #### § 3. Gebieden die dienen te worden gemeden
 
-#### Artikel 8
+##### Artikel 8
 
 Het is kapiteins van alle schepen verboden zich te bevinden in de gebieden zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033648&bijlage=2&z=2022-07-06&g=2022-07-06) bij deze regeling.
 
 #### § 4. Overige bepalingen
 
-#### Artikel 9. Intrekkingsbepaling
+##### Artikel 9. Intrekkingsbepaling
 
 De [Regeling routeringssysteem Noord Hinder- Duitse Bocht](https://wetten.overheid.nl/jci1.3:c:BWBR0008991) wordt ingetrokken.
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 augustus 2013.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling routerings- en meldingssystemen voor schepen in volle zee voor de Nederlandse kust.
 

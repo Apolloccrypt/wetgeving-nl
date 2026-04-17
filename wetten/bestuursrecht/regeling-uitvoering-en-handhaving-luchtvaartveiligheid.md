@@ -1,13 +1,39 @@
 ---
-title: "Regeling uitvoering en handhaving luchtvaartveiligheid"
+title: "Regeling van de Staatssecretaris van Infrastructuur en Milieu van 14 oktober 2013, nr. IENM/BSK-2013/176947, houdende regels in verband met de uitvoering en de handhaving van verordening (EG) nr. 216/2008 van het Europees Parlement en de Raad van 20 februari 2008 tot vaststelling van gemeenschappelijke regels op het gebied van burgerluchtvaart en tot oprichting van een Europees Agentschap voor de veiligheid van de luchtvaart, houdende intrekking van Richtlijn 91/670/EEG, Verordening (EG) nr. 1592/2002 en Richtlijn 2004/36/EG (PbEU L 79) en diverse uitvoeringsverordeningen omtrent luchtvaartveiligheid (Regeling uitvoering en handhaving luchtvaartveiligheid)"
 identifier: "BWBR0034054"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-03-11
-laatste_update: 2022-03-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034054"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-03-11"
+last_updated: "2022-03-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034054"
+soort: "ministeriele-regeling"
+stam_id: "12403603"
+version_id: "20816832"
+internal_id: "C29895451"
+label_id: "12374574"
+dtd_version: "2.0"
+original_entry_into_force: "2013-10-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034054/2022-03-11/0"
+intitule_bron: "Stcrt.2013-29222"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-10-14"
+intitule_published: "2013-10-23"
+intitule_in_force: "2013-10-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-29222"
+original_signed_date: "2013-10-14"
+original_published_date: "2013-10-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-29222"
+entry_into_force_date: "2013-10-24"
+jci_1_3: "jci1.3:c:BWBR0034054&z=2022-03-11&g=2022-03-11"
+jci_1_0: "1.0:c:BWBR0034054&g=2022-03-11"
+citeertitel_status: "officieel"
+short_title: "Regeling uitvoering en handhaving luchtvaartveiligheid"
+signed_date: "2013-10-14"
+entry_into_force: "2013-10-24"
 ---
-
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu van 14 oktober 2013, nr. IENM/BSK-2013/176947, houdende regels in verband met de uitvoering en de handhaving van verordening (EG) nr. 216/2008 van het Europees Parlement en de Raad van 20 februari 2008 tot vaststelling van gemeenschappelijke regels op het gebied van burgerluchtvaart en tot oprichting van een Europees Agentschap voor de veiligheid van de luchtvaart, houdende intrekking van Richtlijn 91/670/EEG, Verordening (EG) nr. 1592/2002 en Richtlijn 2004/36/EG (PbEU L 79) en diverse uitvoeringsverordeningen omtrent luchtvaartveiligheid (Regeling uitvoering en handhaving luchtvaartveiligheid)
 
 Gelet op [artikel 1.5 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.5);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1.1. (definities)
+##### Artikel 1.1. (definities)
 
 In deze regeling wordt verstaan onder:
 
@@ -40,13 +66,13 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Uitvoering
 
-#### Artikel 2.1. (aanvraag attest cabinebemanning)
+##### Artikel 2.1. (aanvraag attest cabinebemanning)
 
 1. Een aanvraag voor een attest voor cabinebemanning als bedoeld in onderdelen CC.GEN.015 en ARA.CC.100 van verordening (EU) nr. 1178/2011 wordt ingediend bij een organisatie die toestemming van de bevoegde autoriteit heeft gekregen voor de afgifte van die attesten.
 
 2. Bij de aanvraag, bedoeld in het eerste lid, worden door de desbetreffende organisatie gestelde voorschriften inzake de aanvraag in acht genomen.
 
-#### Artikel 2.2. (codering attest cabinebemanning)
+##### Artikel 2.2. (codering attest cabinebemanning)
 
 De code voor de individuele referentie, onderdeel van het referentienummer van een attest voor cabinebemanning, bedoeld in vermelding 2 bij Aanhangsel II van BIJLAGE VI DEEL-ARA van verordening (EU) nr. 1178/2011, wordt als volgt samengesteld:
 
@@ -58,17 +84,17 @@ De code voor de individuele referentie, onderdeel van het referentienummer van e
 
 #### § 3. Handhaving
 
-#### Artikel 4.1. (inwerkingtreding)
+##### Artikel 4.1. (inwerkingtreding)
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 4.2. (citeertitel)
+##### Artikel 4.2. (citeertitel)
 
 Deze regeling wordt aangehaald als: Regeling uitvoering en handhaving luchtvaartveiligheid.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3.1. (aanwijzing overtredingen)
+##### Artikel 3.1. (aanwijzing overtredingen)
 
 1. Voorschriften als bedoeld in [artikel 1.6 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.6) zijn:
 
@@ -90,7 +116,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 2. Overtreding van de voorschriften, bedoeld in het eerste lid, wordt aangemerkt als een overtreding.
 
-#### Artikel 3.2. (aanwijzing misdrijven)
+##### Artikel 3.2. (aanwijzing misdrijven)
 
 1. Voorschriften als bedoeld in [artikel 1.6 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.6) zijn:
 
@@ -106,7 +132,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 2.3. (aanvraag AOC)
+##### Artikel 2.3. (aanvraag AOC)
 
 Een aanvraag voor een certificaat als bedoeld in ORO.GEN.115 van verordening (EU) nr. 965/2012 wordt ingediend bij de bevoegde autoriteit door middel van een volledig ingevuld en ondertekend aanvraagformulier waarvan exemplaren bij de bevoegde autoriteit te verkrijgen zijn.
 
@@ -114,7 +140,7 @@ Een aanvraag voor een certificaat als bedoeld in ORO.GEN.115 van verordening (EU
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1.1.a
+##### Artikel 1.1.a
 
 Deze regeling berust op de [artikelen 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.5) en [1.6 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.6).
 

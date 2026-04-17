@@ -1,13 +1,39 @@
 ---
-title: "Aanpassingsbesluit veiligheidsregio’s"
+title: "Besluit van 24 juni 2010, houdende wijziging van diverse besluiten vanwege de invoering van de Wet veiligheidsregio's (Aanpassingsbesluit veiligheidsregio's)"
 identifier: "BWBR0027846"
-categorie: "Bestuursrecht"
-publicatiedatum: 2010-10-01
-laatste_update: 2010-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027846"
+country: "nl"
+rank: "amvb"
+publication_date: "2010-10-01"
+last_updated: "2010-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027846"
+soort: "AMvB"
+stam_id: "10594773"
+version_id: "17496142"
+internal_id: "C24224431"
+label_id: "10569834"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027846/2010-10-01/0"
+intitule_bron: "Stb.2010-256"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-06-24"
+intitule_published: "2010-07-01"
+intitule_in_force: "2010-07-01"
+intitule_status: "goed"
+original_publication: "Stb.2010-256"
+original_signed_date: "2010-06-24"
+original_published_date: "2010-07-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-256"
+entry_into_force_date: "2010-10-01"
+jci_1_3: "jci1.3:c:BWBR0027846&z=2010-10-01&g=2010-10-01"
+jci_1_0: "1.0:c:BWBR0027846&g=2010-10-01"
+citeertitel_status: "officieel"
+short_title: "Aanpassingsbesluit veiligheidsregio’s"
+signed_date: "2010-06-24"
+entry_into_force: "2010-10-01"
 ---
-
 # Besluit van 24 juni 2010, houdende wijziging van diverse besluiten vanwege de invoering van de Wet veiligheidsregio's (Aanpassingsbesluit veiligheidsregio's)
 
 Op de voordracht van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 25 maart 2010, nr. 2010-0000193021, CZW/WVOB;
@@ -20,87 +46,87 @@ Gezien het nader rapport van de Staatssecretaris van Binnenlandse Zaken en Konin
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Arbeidsomstandighedenbesluit.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Arbeidstijdenbesluit.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het Besluit algemene regels voor inrichtingen milieubeheer.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Besluit BIBOB.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt het Besluit draagbare blustoestellen 1997.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt het Besluit externe veiligheid inrichtingen.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt het Besluit genetisch gemodificeerde organismen milieubeheer.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt het Besluit informatie inzake rampen en zware ongevallen.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt het Besluit Nederlands bureau brandweerexamens.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt het Besluit Nederlands instituut voor brandweer en rampenbestrijding.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt het Besluit publieke gezondheid.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt het Besluit risico’s zware ongevallen 1999.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt het Besluit tegemoetkoming schade bij rampen en zware ongevallen.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt het Besluit rijksbijdragen bijstands- en bestrijdingskosten.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt het Inrichtingen- en vergunningenbesluit milieubeheer.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Wijzigt het Reglement verkeersregels en verkeerstekens 1990 (RVV 1990).
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Wijzigt het Warenwetbesluit drukapparatuur.
 
-#### Artikel XIX
+##### Artikel XIX
 
 Wijzigt het Besluit omgevingsrecht.
 
-#### Artikel XX
+##### Artikel XX
 
 Dit besluit treedt in werking op het tijdstip waarop de [Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466) in werking treedt.
 
-#### Artikel XXI
+##### Artikel XXI
 
 Dit besluit wordt aangehaald als: Aanpassingsbesluit veiligheidsregio’s.
 

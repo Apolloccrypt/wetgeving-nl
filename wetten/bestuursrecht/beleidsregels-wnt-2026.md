@@ -1,28 +1,54 @@
 ---
-title: "Beleidsregels WNT 2026"
+title: "Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 4 november 2025, nr. 2025-0000614908 houdende vaststelling van beleidsregels inzake de toepassing van de Wet normering topinkomens met ingang van 1 januari 2026 (Beleidsregels WNT 2026)"
 identifier: "BWBR0051741"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051741"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051741"
+soort: "beleidsregel"
+stam_id: "17592383"
+version_id: "31042392"
+internal_id: "C44450081"
+label_id: "17493024"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051741/2026-01-01/0"
+intitule_bron: "Stcrt.2025-38130"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-11-04"
+intitule_published: "2025-11-12"
+intitule_in_force: "2025-11-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-38130"
+original_signed_date: "2025-11-04"
+original_published_date: "2025-11-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-38130"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051741&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051741&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregels WNT 2026"
+signed_date: "2025-11-04"
+entry_into_force: "2026-01-01"
 ---
-
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 4 november 2025, nr. 2025-0000614908 houdende vaststelling van beleidsregels inzake de toepassing van de Wet normering topinkomens met ingang van 1 januari 2026 (Beleidsregels WNT 2026)
 
 Gelet op [artikel 1.10 van de Wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=1.10);
 
 Besluit:
 
-#### Artikel I
+##### Artikel I
 
 De als bijlage bij dit besluit gevoegde beleidsregels zijn voor het jaar 2026 van toepassing op de uitvoering van de [Wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) berustende bepalingen, daaronder begrepen de uitvoering en handhaving door of namens de Ministers van die wet en de daartoe door hen aangewezen ambtenaren.
 
-#### Artikel II
+##### Artikel II
 
 Dit besluit wordt aangehaald als: Beleidsregels WNT 2026.
 
-#### Artikel III
+##### Artikel III
 
 Dit besluit treedt in werking met ingang van 1 januari 2026.
 

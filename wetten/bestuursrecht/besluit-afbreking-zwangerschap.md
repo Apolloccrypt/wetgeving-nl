@@ -1,13 +1,38 @@
 ---
-title: "Besluit afbreking zwangerschap"
+title: "Besluit van 17 mei 1984, houdende vaststelling van een algemene maatregel van bestuur ter uitvoering van de Wet afbreking zwangerschap"
 identifier: "BWBR0003677"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-10-25
-laatste_update: 2025-10-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003677"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-10-25"
+last_updated: "2025-10-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003677"
+soort: "AMvB"
+stam_id: "82223"
+version_id: "30098692"
+internal_id: "C43125371"
+label_id: "83294"
+dtd_version: "2.0"
+original_entry_into_force: "2024-04-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003677/2025-10-25/0"
+intitule_bron: "Stb.1984-218"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1984-05-17"
+intitule_published: "1984-05-25"
+intitule_status: "goed"
+original_publication: "Stb.2024-125"
+original_signed_date: "2024-04-24"
+original_published_date: "2024-05-14"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2024-125"
+entry_into_force_date: "2024-04-24"
+jci_1_3: "jci1.3:c:BWBR0003677&z=2025-10-25&g=2025-10-25"
+jci_1_0: "1.0:c:BWBR0003677&g=2025-10-25"
+citeertitel_status: "officieel"
+short_title: "Besluit afbreking zwangerschap"
+signed_date: "2024-04-24"
+entry_into_force: "2024-04-24"
 ---
-
 # Besluit van 17 mei 1984, houdende vaststelling van een algemene maatregel van bestuur ter uitvoering van de Wet afbreking zwangerschap
 
 Op de voordracht van Onze Minister van Welzijn, Volksgezondheid en Cultuur van 3 augustus 1983, nr. 184458, DG/Vgz/GBO/MBO;
@@ -24,7 +49,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -34,75 +59,75 @@ behandeling: een behandeling, gericht op het afbreken van zwangerschap.
 
 #### § 2. Algemene voorschriften met betrekking tot het afbreken van zwangerschappen in ziekenhuizen en klinieken
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het ziekenhuis dat behandelingen verricht en de abortuskliniek dragen ervoor zorg dat medewerking van deskundigen op psychologisch en maatschappelijk gebied in voldoende mate beschikbaar is.
 
 2. Aan deze deskundigen wordt voldoende tijd en ruimte in het ziekenhuis of de kliniek ter beschikking gesteld.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het ziekenhuis en de kliniek dragen ervoor zorg dat de arts één of meer gesprekken met de vrouw voert om te komen tot een zorgvuldige besluitvorming overeenkomstig [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=5).
 
 2. Aan de arts wordt voldoende tijd en ruimte in het ziekenhuis of de kliniek ter beschikking gesteld.
 
-#### Artikel 4
+##### Artikel 4
 
 Door het bestuur van het ziekenhuis en de kliniek worden, na overleg met de artsen die behandelingen verrichten en de deskundigen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=2&artikel=2&z=2025-10-25&g=2025-10-25), regels gesteld omtrent hun onderlinge samenwerking en omtrent het toezicht van de geneesheer-directeur op de juiste uitvoering daarvan.
 
-#### Artikel 5
+##### Artikel 5
 
 Het ziekenhuis en de kliniek dragen ervoor zorg dat er voldoende gelegenheid is voor verantwoorde voorlichting aan de vrouw over de voorkoming van ongewenste zwangerschap.
 
-#### Artikel 6
+##### Artikel 6
 
 Het ziekenhuis en de kliniek dragen ervoor zorg dat, indien de vrouw uitdrukkelijk daarin toestemt, aan haar huisarts of de andere arts die haar heeft verwezen, een verslag betreffende haar behandeling wordt gezonden, zonodig vergezeld van een advies over de haar te verlenen nazorg.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het ziekenhuis en de kliniek dragen ervoor zorg dat aan de vrouw het advies wordt gegeven zich na de behandeling onder controle van haar huisarts of van de arts die haar heeft verwezen, te stellen.
 
 2. Indien de vrouw geen huisarts heeft en niet door een andere arts is verwezen, of indien zij ernstige bezwaren ertegen heeft om zich onder controle van haar huisarts of van de arts die haar heeft verwezen, te stellen, wordt zij in de gelegenheid gesteld, die controle in het ziekenhuis of de kliniek te doen verrichten.
 
-#### Artikel 8
+##### Artikel 8
 
 Het ziekenhuis en de kliniek dragen zorg voor zodanige afspraken met daarvoor in aanmerking komende andere instellingen of personen werkzaam op het terrein van de gezondheids- en welzijnszorg, dat een goede nazorg voor de vrouw en de haren kan worden verwezenlijkt.
 
 #### § 3. Voorschriften met betrekking tot klinieken
 
-#### Artikel 9
+##### Artikel 9
 
 Bestuursleden van de rechtspersoon die de abortuskliniek beheert, mogen geen financieel belang hebben bij de oprichting of de exploitatie van de kliniek. Tussen de afzonderlijke leden van het bestuur enerzijds en de leden van de directie of andere aan de kliniek verbonden medewerkers anderzijds dient geen arbeidsverhouding te bestaan.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het bestuur draagt de dagelijkse leiding van de kliniek op aan een directie; voorzover het de medische aspecten van de werkzaamheden betreft: aan een geneesheer-directeur.
 
 2. Het bestuur verstrekt de directie een schriftelijke instructie, gericht op het functioneren van de kliniek overeenkomstig de doelstelling en overeenkomstig het in de wet en dit besluit bepaalde. Deze instructie dient onder meer richtlijnen te bevatten voor de zorg voor de patiënten, het personeelsbeleid, de administratie, met inbegrip van de medische administratie, de verslaglegging en de bescherming van de persoonlijke levenssfeer.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De personele voorzieningen dienen zowel kwantitatief als kwalitatief afgestemd te zijn op het goed functioneren van de kliniek overeenkomstig de doelstelling.
 
 2. De communicatie tussen de directie en de medewerkers van de kliniek dient door geformaliseerde besprekingen verzekerd te zijn.
 
-#### Artikel 12
+##### Artikel 12
 
 De kliniek draagt ervoor zorg dat een vrouw die in de kliniek een behandeling heeft ondergaan, zich te allen tijde voor een spoedeisende nabehandeling kan wenden tot een arts.
 
-#### Artikel 13
+##### Artikel 13
 
 De administratie dient op dusdanige wijze te zijn ingericht dat te allen tijde een inzicht kan worden verkregen in het functioneren van de kliniek.
 
-#### Artikel 14
+##### Artikel 14
 
 De materiële voorzieningen dienen zowel kwantitatief als kwalitatief afgestemd te zijn op het goed functioneren van de kliniek overeenkomstig de doelstelling.
 
-#### Artikel 15
+##### Artikel 15
 
 De kliniek draagt ervoor zorg dat met betrekking tot iedere behandeling in de kliniek een overzichtelijk verslag wordt gemaakt, dat alle gegevens bevat, die van belang zijn voor een goede hulpverlening.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De kliniek draagt ervoor zorg dat de medische en verpleegkundige hulpverlening aan de vrouw gewaarborgd is voor de duur van haar verblijf in de kliniek.
 
@@ -112,7 +137,7 @@ De kliniek draagt ervoor zorg dat met betrekking tot iedere behandeling in de kl
 
 4. De kliniek draagt ervoor zorg dat een regeling voor een onafhankelijke klachtenbemiddeling tot stand komt.
 
-#### Artikel 17
+##### Artikel 17
 
 De kliniek treft maatregelen met betrekking tot:
 
@@ -122,7 +147,7 @@ De kliniek treft maatregelen met betrekking tot:
 
 - -. een deugdelijke sterilisatie en bewaking van het sterilisatieproces.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Tussen het bestuur van de kliniek en het bestuur van een ziekenhuis in de omgeving van de kliniek, dient een samenwerkingsovereenkomst te zijn gesloten.
 
@@ -130,37 +155,37 @@ De kliniek treft maatregelen met betrekking tot:
 
 3. De overeenkomst wordt ter kennis gebracht van de inspecteur.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De kliniek dient te voldoen aan de algemeen geldende wettelijke regelingen en voorschriften onder meer ten aanzien van het gebouw, de arbeidsomstandigheden en de geneesmiddelenvoorziening.
 
 2. De kliniek treft de nodige maatregelen met betrekking tot de brandveiligheid.
 
-#### Artikel 20
+##### Artikel 20
 
 De kliniek draagt ervoor zorg dat de instelling zelf, het personeel en de overige voor de kliniek werkzame personen op passende wijze verzekerd zijn tegen de gevolgen van wettelijke aansprakelijkheid.
 
 #### § 4. Bijzondere voorschriften met betrekking tot klinieken waar zwangerschappen worden afgebroken die langer dan dertien weken hebben geduurd
 
-#### Artikel 21
+##### Artikel 21
 
 Met betrekking tot een kliniek waar behandelingen worden verricht, gericht op het afbreken van zwangerschappen die langer dan dertien weken hebben geduurd, moet tevens worden voldaan aan de in deze paragraaf gestelde eisen.
 
-#### Artikel 22
+##### Artikel 22
 
 Tijdens een behandeling als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=4&artikel=21&z=2025-10-25&g=2025-10-25) dienen ten minste twee artsen in de kliniek aanwezig te zijn.
 
-#### Artikel 23
+##### Artikel 23
 
 Zodanige voorzieningen moeten worden getroffen dat een vrouw die in de kliniek een behandeling heeft ondergaan, te allen tijde een daarmee samenhangende nabehandeling in de kliniek kan ondergaan.
 
-#### Artikel 24
+##### Artikel 24
 
 Een overeenkomst als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=3&artikel=18&z=2025-10-25&g=2025-10-25) dient in ieder geval te worden gesloten met een ziekenhuis waar eveneens behandelingen als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=4&artikel=21&z=2025-10-25&g=2025-10-25) worden verricht.
 
 #### § 4a. Voorschriften met betrekking tot de medicamenteuze afbreking van de zwangerschap via de huisarts
 
-#### Artikel 25
+##### Artikel 25
 
 1. Het ziekenhuis of de kliniek verstrekt bij de aanvraag om een vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=2) van de wet de gegevens waaruit blijkt dat aan de in de[artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=2&artikel=2&z=2025-10-25&g=2025-10-25), en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=2&artikel=8&z=2025-10-25&g=2025-10-25) gestelde voorschriften wordt voldaan.
 
@@ -178,19 +203,19 @@ Een overeenkomst als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c
 
 #### § 6. Gegevens met betrekking tot het afbreken van zwangerschappen
 
-#### Artikel 26
+##### Artikel 26
 
 1. De arts bedoeld in [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=11) doet de in het eerste lid van dat artikel bedoelde gegevens aan de geneesheer-directeur toekomen binnen een maand na het verstrijken van het kalenderjaar waarop ze betrekking hebben.
 
 2. Hij vermeldt die gegevens op een formulier, waarvan het model door Onze Minister wordt vastgesteld.
 
-#### Artikel 27
+##### Artikel 27
 
 1. De geneesheer-directeur doet de in [artikel 11, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=11) bedoelde opgave aan de inspecteur toekomen binnen drie maanden na het verstrijken van het kalenderjaar waarop zij betrekking heeft.
 
 2. Hij doet die opgave op een formulier, waarvan het model door Onze Minister wordt vastgesteld.
 
-#### Artikel 28
+##### Artikel 28
 
 1. De arts, bedoeld in [artikel 11, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=11) dan wel de huisarts, bedoeld in [artikel 11a, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=11a) draagt ervoor zorg dat vóór of zo spoedig mogelijk na de behandeling aantekening wordt gemaakt van de bevindingen, op grond waarvan de behandeling overeenkomstig [artikel 5, eerste en tweede lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=5), onderscheidenlijk [artikel 6a, derde lid, aanhef en onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=6a) verantwoord is te achten.
 
@@ -198,17 +223,17 @@ Een overeenkomst als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c
 
 #### § 7. Slotbepalingen
 
-#### Artikel 29
+##### Artikel 29
 
 Dit besluit kan worden aangehaald als: Besluit afbreking zwangerschap.
 
-#### Artikel 30
+##### Artikel 30
 
 De [Wet afbreking zwangerschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003396) en dit besluit treden in werking met ingang van 1 november 1984.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 24a
+##### Artikel 24a
 
 1. De huisarts, bedoeld in [artikel 2, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=2), heeft een scholing gevolgd die in overleg met relevante beroepsorganisaties tot stand is gekomen en door de wetenschappelijke beroepsorganisatie van huisartsen is geaccrediteerd.
 
@@ -226,7 +251,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - f. de registratieplicht, bedoeld in [artikel 11a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=11a).
 
-#### Artikel 24b
+##### Artikel 24b
 
 De algemene voorschriften met betrekking tot het afbreken van zwangerschappen, bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=2&artikel=2&z=2025-10-25&g=2025-10-25), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=2&artikel=3&z=2025-10-25&g=2025-10-25), en [5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=2&artikel=5&z=2025-10-25&g=2025-10-25), zijn van overeenkomstige toepassing op de huisarts, bedoeld in [artikel 2, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=2), met dien verstande dat:
 
@@ -240,7 +265,7 @@ De algemene voorschriften met betrekking tot het afbreken van zwangerschappen, b
 
 #### § 6. Gegevens met betrekking tot het afbreken van zwangerschappen
 
-#### Artikel 27a
+##### Artikel 27a
 
 1. De huisarts, bedoeld in [artikel 2, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=2), doet de in [artikel 11a, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=11a) bedoelde gegevens aan de door Onze Minister aangewezen rechtspersoon toekomen binnen drie maanden na het verstrijken van het kalenderjaar waarop ze betrekking hebben.
 

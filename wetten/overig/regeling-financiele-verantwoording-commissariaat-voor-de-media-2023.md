@@ -1,32 +1,58 @@
 ---
-title: "Regeling financiële verantwoording Commissariaat voor de Media 2023"
+title: "Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap Staatssecretaris van 7 juli 2023, nr. WJZ/39418351, houdende vaststelling van een nieuw financieel handboek voor het Commissariaat voor de Media (Regeling financiële verantwoording Commissariaat voor de Media 2023)"
 identifier: "BWBR0048426"
-categorie: "Overig"
-publicatiedatum: 2023-07-20
-laatste_update: 2023-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048426"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-07-20"
+last_updated: "2023-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048426"
+soort: "ministeriele-regeling"
+stam_id: "16809753"
+version_id: "29531462"
+internal_id: "C42219381"
+label_id: "16723394"
+dtd_version: "2.0"
+original_entry_into_force: "2023-07-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048426/2023-07-20/0"
+intitule_bron: "Stcrt.2023-20125"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-07-07"
+intitule_published: "2023-07-19"
+intitule_in_force: "2023-07-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-20125"
+original_signed_date: "2023-07-07"
+original_published_date: "2023-07-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-20125"
+entry_into_force_date: "2023-07-20"
+jci_1_3: "jci1.3:c:BWBR0048426&z=2023-07-20&g=2023-07-20"
+jci_1_0: "1.0:c:BWBR0048426&g=2023-07-20"
+citeertitel_status: "officieel"
+short_title: "Regeling financiële verantwoording Commissariaat voor de Media 2023"
+signed_date: "2023-07-07"
+entry_into_force: "2023-07-20"
 ---
-
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap Staatssecretaris van 7 juli 2023, nr. WJZ/39418351, houdende vaststelling van een nieuw financieel handboek voor het Commissariaat voor de Media (Regeling financiële verantwoording Commissariaat voor de Media 2023)
 
 Gelet op [artikel 7.8 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=7.8);
 
 Besluit:
 
-#### Artikel 1. Vaststelling handboek
+##### Artikel 1. Vaststelling handboek
 
 Op het financieel verslag van het Commissariaat voor de Media zijn de inrichtingseisen en het accountantsprotocol als opgenomen in de bij deze regeling gevoegde bijlage van toepassing.
 
-#### Artikel 2. Intrekking oude verantwoordingsregeling
+##### Artikel 2. Intrekking oude verantwoordingsregeling
 
 De [Regeling financiële verantwoording Commissariaat voor de Media 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043740) wordt ingetrokken, met dien verstande dat die regeling van toepassing blijft op de verantwoording over het jaar 2022.
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2023.
 
-#### Artikel 4. Citeertitel
+##### Artikel 4. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling financiële verantwoording Commissariaat voor de Media 2023.
 

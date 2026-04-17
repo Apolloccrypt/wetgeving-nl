@@ -1,13 +1,24 @@
 ---
 title: "Tweede aanvullend protocol bij het Verdrag inzake de bestrijding van strafbare feiten verbonden met elektronische netwerken, inzake nauwere samenwerking en verstrekking van elektronisch bewijsmateriaal"
 identifier: "BWBV0006966"
-categorie: "Internationaal recht"
-publicatiedatum: 2022-05-12
-laatste_update: 2022-05-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006966"
+country: "nl"
+rank: "verdrag"
+publication_date: "2022-05-12"
+last_updated: "2022-05-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006966"
+soort: "verdrag"
+stam_id: "10005613013"
+version_id: "10006166132"
+internal_id: "C10009905161"
+label_id: "10005595464"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006966/2022-05-12/0"
+intitule_status: "nogniet"
+jci_1_3: "jci1.3:c:BWBV0006966&z=2022-05-12&g=2022-05-12"
+jci_1_0: "1.0:c:BWBV0006966&g=2022-05-12"
+citeertitel_status: "redactioneel"
 ---
-
 # Tweede aanvullend protocol bij het Verdrag inzake de bestrijding van strafbare feiten verbonden met elektronische netwerken, inzake nauwere samenwerking en verstrekking van elektronisch bewijsmateriaal
 
 Preambule
@@ -44,7 +55,7 @@ Zijn als volgt overeengekomen:
 
 ### HOOFDSTUK I. – GEMEENSCHAPPELIJKE BEPALINGEN
 
-#### Artikel 1. – Doel
+##### Artikel 1. – Doel
 
 Dit protocol strekt tot aanvulling van:
 
@@ -52,7 +63,7 @@ Dit protocol strekt tot aanvulling van:
 
 - b. [het eerste protocol](onbekend) zoals dat van toepassing is tussen de partijen bij dit protocol die ook partij zijn bij het eerste protocol.
 
-#### Artikel 2. – Toepassingsgebied
+##### Artikel 2. – Toepassingsgebied
 
 1. Tenzij anders bepaald, zijn de in dit protocol omschreven maatregelen van toepassing:
 
@@ -62,7 +73,7 @@ Dit protocol strekt tot aanvulling van:
 
 2. Iedere partij neemt de wetgevende en andere maatregelen die nodig zijn om de in dit protocol genoemde verplichtingen na te komen.
 
-#### Artikel 3. – Definities
+##### Artikel 3. – Definities
 
 1. De definities in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001839&artikel=1) en [artikel 18, lid 3, van het verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001839&artikel=18) zijn op dit protocol van toepassing.
 
@@ -78,7 +89,7 @@ Dit protocol strekt tot aanvulling van:
 
 - e. „doorgevende partij”: de partij die de gegevens doorzendt naar aanleiding van een verzoek of in het kader van een gemeenschappelijk onderzoeksteam of, voor de toepassing van [hoofdstuk II, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=II&afdeling=2&z=2022-05-12&g=2022-05-12), een partij op het grondgebied waarvan zich een serviceprovider die doorgiftediensten aanbiedt of een entiteit die domeinnaamregistratiediensten aanbiedt, bevindt.
 
-#### Artikel 4. – Taal
+##### Artikel 4. – Taal
 
 1. Verzoeken, bevelen en begeleidende informatie die bij een partij worden ingediend, worden gesteld in een taal die aanvaardbaar is voor de aangezochte partij of de partij waaraan overeenkomstig [artikel 7, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=II&afdeling=2&artikel=7&z=2022-05-12&g=2022-05-12), kennisgeving wordt gedaan, of gaan vergezeld van een vertaling in een dergelijke taal.
 
@@ -94,7 +105,7 @@ Dit protocol strekt tot aanvulling van:
 
 #### AFDELING 1. – ALGEMENE BEGINSELEN VAN TOEPASSING OP HOOFDSTUK II
 
-#### Artikel 5. – Algemene beginselen van toepassing op hoofdstuk II
+##### Artikel 5. – Algemene beginselen van toepassing op hoofdstuk II
 
 1. De partijen werken zoveel mogelijk samen overeenkomstig de bepalingen van dit hoofdstuk.
 
@@ -112,7 +123,7 @@ Dit protocol strekt tot aanvulling van:
 
 #### AFDELING 2. – PROCEDURES TER VERSTERKING VAN DE RECHTSTREEKSE SAMENWERKING MET SERVICEPROVIDERS EN ENTITEITEN OP HET GRONDGEBIED VAN EEN ANDERE PARTIJ
 
-#### Artikel 6. – Verzoek om domeinnaamregistratie-informatie
+##### Artikel 6. – Verzoek om domeinnaamregistratie-informatie
 
 1. Iedere partij stelt de nodige wetgevende en andere maatregelen vast om haar bevoegde autoriteiten in het kader van specifieke strafrechtelijke onderzoeken of procedures de bevoegdheid te verlenen een entiteit die op het grondgebied van een andere partij domeinnaamregistratiediensten aanbiedt, te verzoeken informatie te verstrekken die in haar bezit is of tot toegang waartoe zij gerechtigd is, teneinde de registrant van een domeinnaam te identificeren of met die registrant contact op te nemen.
 
@@ -136,7 +147,7 @@ Dit protocol strekt tot aanvulling van:
 
 7. De secretaris-generaal van de Raad van Europa stelt een register op van de uit hoofde van lid 6 door de partijen aangewezen autoriteiten en houdt dit bij. Iedere partij zorgt ervoor dat de in het register vermelde gegevens te allen tijde juist zijn.
 
-#### Artikel 7. – Verstrekking van abonnee-informatie
+##### Artikel 7. – Verstrekking van abonnee-informatie
 
 1. Iedere partij stelt de nodige wetgevende en andere maatregelen vast om haar bevoegde autoriteiten de bevoegdheid te verlenen een bevel uit te vaardigen dat rechtstreeks gericht is tot een serviceprovider op het grondgebied van een andere partij, teneinde die serviceprovider gespecificeerde door hem opgeslagen abonnee-informatie te doen verstrekken die in zijn bezit is of tot toegang waartoe hij gerechtigd is, indien die abonnee-informatie nodig is voor specifieke strafrechtelijke onderzoeken of strafprocedures van de uitvaardigende partij.
 
@@ -210,7 +221,7 @@ Dit protocol strekt tot aanvulling van:
 
 #### AFDELING 3. – PROCEDURES TER VERSTERKING VAN DE INTERNATIONALE SAMENWERKING TUSSEN AUTORITEITEN BIJ DE VERSTREKKING VAN OPGESLAGEN COMPUTERGEGEVENS
 
-#### Artikel 8. – Uitvoering geven aan bevelen van een andere partij om abonnee-informatie en verkeersgegevens met spoed te verstrekken
+##### Artikel 8. – Uitvoering geven aan bevelen van een andere partij om abonnee-informatie en verkeersgegevens met spoed te verstrekken
 
 1. Iedere partij stelt de nodige wetgevende en andere maatregelen vast om haar bevoegde autoriteiten de bevoegdheid te verlenen een bevel uit te vaardigen dat in het kader van een verzoek bij een andere partij wordt ingediend teneinde een serviceprovider op het grondgebied van de aangezochte partij te verplichten tot verstrekking van gespecificeerde opgeslagen
 
@@ -290,7 +301,7 @@ die in het bezit zijn van die serviceprovider of tot toegang waartoe die service
 
 13. Bij de ondertekening van dit protocol of bij de nederlegging van haar akte van ratificatie, aanvaarding of goedkeuring kan een partij zich het recht voorbehouden dit artikel niet toe te passen op verkeersgegevens.
 
-#### Artikel 9. – Spoedverstrekking van opgeslagen computergegevens in een noodsituatie
+##### Artikel 9. – Spoedverstrekking van opgeslagen computergegevens in een noodsituatie
 
 - a. Iedere partij stelt de wetgevende en andere maatregelen vast die in een noodsituatie nodig kunnen zijn om haar contactpunt voor het 24/7 netwerk als bedoeld in [artikel 35 van het verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001839&artikel=35) (hierna „contactpunt”) in staat te stellen om, zonder een verzoek om wederzijdse bijstand, een verzoek door te zenden naar en te ontvangen van een contactpunt in een andere partij dat onmiddellijke bijstand vraagt om van een serviceprovider op het grondgebied van die partij spoedverstrekking te verkrijgen van gespecificeerde opgeslagen computergegevens die in het bezit zijn van die serviceprovider of tot toegang waartoe die serviceprovider gerechtigd is.
 
@@ -334,7 +345,7 @@ die in het bezit zijn van die serviceprovider of tot toegang waartoe die service
 
 #### AFDELING 4. – PROCEDURES VOOR WEDERZIJDSE BIJSTAND IN NOODSITUATIES
 
-#### Artikel 10. – Wederzijdse bijstand in noodsituaties
+##### Artikel 10. – Wederzijdse bijstand in noodsituaties
 
 1. Iedere partij kan om snelle wederzijdse bijstand verzoeken wanneer zij van mening is dat er sprake is van een noodsituatie. Een verzoek uit hoofde van dit artikel vermeldt, naast de andere vereiste inhoud, een beschrijving van de feiten die aantonen dat er sprake is van een noodsituatie en wat het verband is met de gevraagde bijstand.
 
@@ -356,7 +367,7 @@ die in het bezit zijn van die serviceprovider of tot toegang waartoe die service
 
 #### AFDELING 5. – PROCEDURES INZAKE INTERNATIONALE SAMENWERKING BIJ GEBREKE VAN TOEPASSELIJKE INTERNATIONALE OVEREENKOMSTEN
 
-#### Artikel 11. – Videoconferentie
+##### Artikel 11. – Videoconferentie
 
 1. Een verzoekende partij kan erom vragen dat getuigenverklaringen en verklaringen van deskundigen door middel van een videoconferentie worden afgenomen, en de aangezochte partij kan dat toestaan. De verzoekende partij en de aangezochte partij plegen overleg om een oplossing voor eventuele problemen in verband met de uitvoering van het verzoek te faciliteren, bijvoorbeeld met betrekking tot: de vraag welke partij als voorzitter optreedt; de autoriteiten en personen die aanwezig zullen zijn; de vraag of een of beide partijen een bepaalde eed afleggen, waarschuwingen uitspreken of instructies geven aan een getuige of deskundige; de wijze waarop de getuige of deskundige wordt gehoord; de wijze waarop de rechten van de getuige of deskundige worden verzekerd; de behandeling van aanspraken op voorrechten of immuniteiten; de behandeling van bezwaren tegen vragen of antwoorden; en de vraag of een van de partijen dan wel beide partijen diensten op het gebied van vertaling, vertolking en transcriptie aanbieden.
 
@@ -394,7 +405,7 @@ die in het bezit zijn van die serviceprovider of tot toegang waartoe die service
 
 8. Indien een aangezochte partij ervoor kiest het horen van een verdachte of beklaagde toe te staan, kan zij bijzondere voorwaarden en waarborgen vereisen met betrekking tot het afnemen van een getuigenis of verklaring van die persoon, het verstrekken van kennisgevingen aan die persoon of het toepassen van procedurele maatregelen ten aanzien van die persoon.
 
-#### Artikel 12. – Gemeenschappelijke onderzoeksteams en gezamenlijke onderzoeken
+##### Artikel 12. – Gemeenschappelijke onderzoeksteams en gezamenlijke onderzoeken
 
 1. In onderlinge overeenstemming kunnen de bevoegde autoriteiten van twee of meer partijen, wanneer versterkte coördinatie van bijzonder nut wordt geacht, op hun grondgebied gemeenschappelijke onderzoeksteams instellen en beheren, teneinde strafrechtelijke onderzoeken en strafprocedures te faciliteren. De respectieve betrokken partijen bepalen welke de bevoegde autoriteiten zijn.
 
@@ -418,11 +429,11 @@ die in het bezit zijn van die serviceprovider of tot toegang waartoe die service
 
 ### HOOFDSTUK III. – VOORWAARDEN EN WAARBORGEN
 
-#### Artikel 13. – Voorwaarden en waarborgen
+##### Artikel 13. – Voorwaarden en waarborgen
 
 Overeenkomstig [artikel 15 van het verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001839&artikel=15) ziet iedere partij erop toe dat de invoering, uitwerking en toepassing van de in dit protocol bedoelde bevoegdheden en procedures onderworpen zijn aan de voorwaarden en waarborgen vervat in haar nationale recht, dat een passende bescherming moet bieden aan de rechten en vrijheden van de mens.
 
-#### Artikel 14. – Bescherming van persoonsgegevens
+##### Artikel 14. – Bescherming van persoonsgegevens
 
 1. Toepassingsgebied
 
@@ -524,7 +535,7 @@ Een partij kan de doorgifte van persoonsgegevens aan een andere partij opschorte
 
 ### HOOFDSTUK IV. – SLOTBEPALINGEN
 
-#### Artikel 15. – Effecten van dit protocol
+##### Artikel 15. – Effecten van dit protocol
 
 - a. [Artikel 39, lid 2, van het verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001839&artikel=39) is van toepassing op dit protocol.
 
@@ -534,7 +545,7 @@ Een partij kan de doorgifte van persoonsgegevens aan een andere partij opschorte
 
 2. [Artikel 39, lid 3, van het verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001839&artikel=39) is van toepassing op dit protocol.
 
-#### Artikel 16. – Ondertekening en inwerkingtreding
+##### Artikel 16. – Ondertekening en inwerkingtreding
 
 1. Dit protocol staat open voor ondertekening door partijen bij het [verdrag](onbekend), die kunnen verklaren dat zij ermee instemmen erdoor gebonden te zijn, door:
 
@@ -548,7 +559,7 @@ Een partij kan de doorgifte van persoonsgegevens aan een andere partij opschorte
 
 4. Ten aanzien van iedere ondertekenende partij bij het [verdrag](onbekend) die later zijn instemming door dit protocol te worden gebonden tot uitdrukking brengt, treedt het protocol in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum waarop de partij haar instemming door het protocol te worden gebonden tot uitdrukking heeft gebracht overeenkomstig de leden 1 en 2 van dit artikel.
 
-#### Artikel 17. – Federale clausule
+##### Artikel 17. – Federale clausule
 
 1. Een federale staat kan zich het recht voorbehouden de verplichtingen ingevolge dit protocol aan te gaan voor zover deze in overeenstemming zijn met zijn fundamentele beginselen die ten grondslag liggen aan de betrekkingen tussen zijn centrale regering en de constituerende staten of andere vergelijkbare territoriale entiteiten, mits:
 
@@ -564,7 +575,7 @@ Een partij kan de doorgifte van persoonsgegevens aan een andere partij opschorte
 
 4. Ten aanzien van de bepalingen van dit protocol waarvan de toepassing onder de rechtsbevoegdheid valt van elk van de constituerende staten of andere vergelijkbare territoriale entiteiten die, ingevolge het constitutionele stelsel van de federatie, niet verplicht zijn wetgevende maatregelen te nemen, brengt de centrale regering de bevoegde autoriteiten van deze staten op de hoogte van de genoemde bepalingen, vergezeld van een gunstig advies, hen aanmoedigende om passende maatregelen te nemen ter effectuering hiervan.
 
-#### Artikel 18. – Territoriale toepasselijkheid
+##### Artikel 18. – Territoriale toepasselijkheid
 
 1. Dit protocol is van toepassing op het grondgebied of de grondgebieden vermeld in een verklaring van een partij uit hoofde van [artikel 38, lid 1 of lid 2, van het verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001839&artikel=38), voor zover die verklaring niet is ingetrokken uit hoofde van artikel 38, lid 3.
 
@@ -572,7 +583,7 @@ Een partij kan de doorgifte van persoonsgegevens aan een andere partij opschorte
 
 3. Iedere uit hoofde van lid 2 van dit artikel afgelegde verklaring kan met betrekking tot elk in die verklaring aangegeven grondgebied worden ingetrokken door een aan de secretaris- generaal van de Raad van Europa gerichte kennisgeving. De intrekking wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van die kennisgeving door de secretaris-generaal.
 
-#### Artikel 19. – Voorbehouden en verklaringen
+##### Artikel 19. – Voorbehouden en verklaringen
 
 1. Door middel van een schriftelijke kennisgeving aan de secretaris-generaal van de Raad van Europa kan iedere partij bij het [verdrag](onbekend), bij de ondertekening van dit protocol of bij de nederlegging van haar akte van ratificatie, aanvaarding of goedkeuring, verklaren dat zij een of meer van de voorbehouden als bedoeld in [artikel 7, lid 9, punten a) en b)](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=II&afdeling=2&artikel=7&z=2022-05-12&g=2022-05-12), [artikel 8, lid 13](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=II&afdeling=3&artikel=8&z=2022-05-12&g=2022-05-12), en [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=IV&artikel=17&z=2022-05-12&g=2022-05-12) van dit protocol maakt. Andere voorbehouden zijn niet toegestaan.
 
@@ -580,13 +591,13 @@ Een partij kan de doorgifte van persoonsgegevens aan een andere partij opschorte
 
 3. Door elke partij bij het [verdrag](onbekend) worden de verklaringen, kennisgevingen of mededelingen als bedoeld in [artikel 7, lid 5, punten a) en e)](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=II&afdeling=2&artikel=7&z=2022-05-12&g=2022-05-12), [artikel 8, lid 4, en lid 10, punten a) en b)](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=II&afdeling=3&artikel=8&z=2022-05-12&g=2022-05-12), [artikel 14, lid 7, punt c), en lid 10, punt b)](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=III&artikel=14&z=2022-05-12&g=2022-05-12), en [artikel 17, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=IV&artikel=17&z=2022-05-12&g=2022-05-12), van dit protocol, overeenkomstig de daarin bepaalde voorwaarden, afgelegd door middel van een schriftelijke kennisgeving aan de secretaris-generaal van de Raad van Europa.
 
-#### Artikel 20. – Status en intrekking van voorbehouden
+##### Artikel 20. – Status en intrekking van voorbehouden
 
 1. Een partij die overeenkomstig [artikel 19. lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=IV&artikel=19&z=2022-05-12&g=2022-05-12), een voorbehoud heeft gemaakt, trekt dit voorbehoud geheel of ten dele in zodra de omstandigheden dit toelaten. Deze intrekking wordt van kracht op de datum van ontvangst van een aan de secretaris-generaal van de Raad van Europa gerichte kennisgeving. Indien in de kennisgeving wordt vermeld dat de intrekking van een voorbehoud van kracht moet worden op een daarin nader aangeduide datum, en deze datum later valt dan de datum waarop de kennisgeving door de secretaris-generaal wordt ontvangen, wordt de intrekking op deze latere datum van kracht.
 
 2. De secretaris-generaal van de Raad van Europa kan met regelmatige tussenpozen bij de partijen die een of meer voorbehouden overeenkomstig [artikel 19, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=IV&artikel=19&z=2022-05-12&g=2022-05-12), hebben gemaakt, informeren naar het mogelijke vooruitzicht op intrekking daarvan.
 
-#### Artikel 21. – Wijzigingen
+##### Artikel 21. – Wijzigingen
 
 1. Wijzigingen van dit protocol kunnen worden voorgesteld door iedere partij bij dit protocol en worden door de secretaris-generaal van de Raad van Europa meegedeeld aan de lidstaten van de Raad van Europa, aan de partijen bij en ondertekenaars van het [verdrag](onbekend), alsmede aan iedere staat die uitgenodigd is toe te treden tot het verdrag.
 
@@ -598,11 +609,11 @@ Een partij kan de doorgifte van persoonsgegevens aan een andere partij opschorte
 
 5. Iedere overeenkomstig lid 3 aangenomen wijziging treedt in werking dertig dagen nadat alle partijen de secretaris-generaal hebben meegedeeld dat zij de wijziging hebben aanvaard.
 
-#### Artikel 22. – Beslechting van geschillen
+##### Artikel 22. – Beslechting van geschillen
 
 [Artikel 45 van het verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001839&artikel=45) is van toepassing op dit protocol.
 
-#### Artikel 23. – Beraadslagingen tussen de partijen en beoordeling van de tenuitvoerlegging
+##### Artikel 23. – Beraadslagingen tussen de partijen en beoordeling van de tenuitvoerlegging
 
 1. [Artikel 46 van het verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001839&artikel=46) is van toepassing op dit protocol.
 
@@ -610,7 +621,7 @@ Een partij kan de doorgifte van persoonsgegevens aan een andere partij opschorte
 
 3. De evaluatie van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=III&artikel=14&z=2022-05-12&g=2022-05-12) vangt aan zodra tien partijen bij het [verdrag](onbekend) hebben verklaard ermee in te stemmen door dit protocol gebonden te zijn.
 
-#### Artikel 24. – Opzegging
+##### Artikel 24. – Opzegging
 
 1. Iedere partij kan dit protocol te allen tijde opzeggen door middel van een kennisgeving aan de secretaris-generaal van de Raad van Europa.
 
@@ -620,7 +631,7 @@ Een partij kan de doorgifte van persoonsgegevens aan een andere partij opschorte
 
 4. Informatie die of bewijsmateriaal dat is doorgegeven voorafgaand aan de datum waarop de opzegging van kracht wordt, wordt ook nadien overeenkomstig dit protocol behandeld.
 
-#### Artikel 25. – Kennisgeving
+##### Artikel 25. – Kennisgeving
 
 De secretaris-generaal van de Raad van Europa stelt de lidstaten van de Raad van Europa, de partijen bij en ondertekenaars van het [verdrag](onbekend) en iedere staat die is uitgenodigd om tot het verdrag toe te treden, in kennis van:
 

@@ -1,20 +1,46 @@
 ---
-title: "Instellingsbesluit Adviescommissie Verdeling 3,5 GHz-band en NSV-communicatie"
+title: "Besluit van de Minister van Economische Zaken en Klimaat van 17 december 2021, nr. WJZ/21207879, tot instelling van de Adviescommissie verdeling 3,5 GHz-band en waarborging nood-, spoed- en veiligheidscommunicatie (Instellingsbesluit Adviescommissie Verdeling 3,5 GHz-band en NSV-communicatie)"
 identifier: "BWBR0046053"
-categorie: "Overig"
-publicatiedatum: 2021-12-22
-laatste_update: 2021-12-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046053"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-12-22"
+last_updated: "2021-12-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046053"
+soort: "ministeriele-regeling"
+stam_id: "16191733"
+version_id: "28256952"
+internal_id: "C39842051"
+label_id: "16119964"
+dtd_version: "2.0"
+original_entry_into_force: "2021-12-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046053/2021-12-22/0"
+intitule_bron: "Stcrt.2021-49880"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-12-17"
+intitule_published: "2021-12-21"
+intitule_in_force: "2021-12-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-49880"
+original_signed_date: "2021-12-17"
+original_published_date: "2021-12-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-49880"
+entry_into_force_date: "2021-12-22"
+jci_1_3: "jci1.3:c:BWBR0046053&z=2021-12-22&g=2021-12-22"
+jci_1_0: "1.0:c:BWBR0046053&g=2021-12-22"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Adviescommissie Verdeling 3,5 GHz-band en NSV-communicatie"
+signed_date: "2021-12-17"
+entry_into_force: "2021-12-22"
 ---
-
 # Besluit van de Minister van Economische Zaken en Klimaat van 17 december 2021, nr. WJZ/21207879, tot instelling van de Adviescommissie verdeling 3,5 GHz-band en waarborging nood-, spoed- en veiligheidscommunicatie (Instellingsbesluit Adviescommissie Verdeling 3,5 GHz-band en NSV-communicatie)
 
 Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -28,7 +54,7 @@ In dit besluit wordt verstaan onder:
 
 - **NSV-communicatie:** communicatie die Inmarsat thans met behulp van het grondstation in Burum verzorgt in opdracht van de Internationale Organisatie voor Mobiele Satellieten ten behoeve van het Wereldomvattend Maritieme Systeem voor Noodgevallen en Veiligheid, bedoeld in artikel 1, onderdeel b, van het Verdrag inzake de Internationale Organisatie voor Mobiele Satellieten.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een Adviescommissie Verdeling 3,5 GHz-band en NSV-communicatie.
 
@@ -66,11 +92,11 @@ In dit besluit wordt verstaan onder:
 
 - c. houders van een vergunning in de 3,5 GHz-band wier vergunningen aflopen in 2026.
 
-#### Artikel 3
+##### Artikel 3
 
 De adviescommissie brengt uiterlijk 1 mei 2022 haar schriftelijke eindrapport uit aan de Minister en wordt vier weken nadat het eindrapport is uitgebracht opgeheven.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De adviescommissie bestaat uit een voorzitter en drie andere leden.
 
@@ -78,7 +104,7 @@ De adviescommissie brengt uiterlijk 1 mei 2022 haar schriftelijke eindrapport ui
 
 3. De leden brengen op persoonlijke titel hun kennis en ervaring in en treden niet op als vertegenwoordiger van een specifieke belangengroep.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De adviescommissie stelt haar eigen werkwijze schriftelijk vast.
 
@@ -88,7 +114,7 @@ De adviescommissie brengt uiterlijk 1 mei 2022 haar schriftelijke eindrapport ui
 
 4. De adviescommissie verstrekt desgevraagd aan de Minister de voor de uitoefening van zijn taak benodigde inlichtingen. De Minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Aan de voorzitter wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18, trede 10, van paragraaf 6.3, van de CAO Rijk, en de arbeidsduurfactor op 0,222.
 
@@ -98,7 +124,7 @@ De adviescommissie brengt uiterlijk 1 mei 2022 haar schriftelijke eindrapport ui
 
 4. De gastdeskundigen ontvangen een vergoeding per vergadering van € 299.
 
-#### Artikel 7
+##### Artikel 7
 
 Ter gelegenheid van de instelling van de adviescommissie worden voor een periode van 17 december 2021 tot en met het tijdstip waarop de adviescommissie wordt opgeheven, tot lid van de adviescommissie benoemd:
 
@@ -110,11 +136,11 @@ Ter gelegenheid van de instelling van de adviescommissie worden voor een periode
 
 - d. de heer prof. mr. dr. Johan Wolswinkel.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 17 december 2021.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Adviescommissie Verdeling 3,5 GHz-band en NSV-communicatie.
 

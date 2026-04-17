@@ -1,13 +1,35 @@
 ---
-title: "Besluit sociaal beleidskader reorganisatie politiebestel"
+title: "Besluit van 28 juli 1992, tot de vaststelling van het sociaal beleidskader reorganisatie politiebestel"
 identifier: "BWBR0005607"
-categorie: "Bestuursrecht"
-publicatiedatum: 1994-12-21
-laatste_update: 1994-12-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005607"
+country: "nl"
+rank: "amvb"
+publication_date: "1994-12-21"
+last_updated: "1994-12-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005607"
+soort: "AMvB"
+stam_id: "956253"
+version_id: "1400182"
+internal_id: "C1400181"
+label_id: "927204"
+dtd_version: "2.0"
+original_entry_into_force: "1992-09-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005607/1994-12-21/0"
+intitule_bron: "Stb.1992-440"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-07-28"
+intitule_status: "goed"
+original_publication: "Stb.1992-440"
+original_signed_date: "1992-07-28"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1992-09-09"
+jci_1_3: "jci1.3:c:BWBR0005607&z=1994-12-21&g=1994-12-21"
+jci_1_0: "1.0:c:BWBR0005607&g=1994-12-21"
+citeertitel_status: "officieel"
+short_title: "Besluit sociaal beleidskader reorganisatie politiebestel"
+signed_date: "1992-07-28"
+entry_into_force: "1992-09-09"
 ---
-
 # Besluit van 28 juli 1992, tot de vaststelling van het sociaal beleidskader reorganisatie politiebestel
 
 Op de voordracht van Onze Ministers van Justitie en van Binnenlandse Zaken van 4 oktober 1991, nr. PRP91/U319;
@@ -22,7 +44,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk I. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -70,7 +92,7 @@ In dit besluit wordt verstaan onder:
 
 - m. Commissie Korps landelijke politiediensten: de Commissie Korps landelijke diensten, bedoeld in artikel 1 van het Besluit overleg en medezeggenschap reorganisatie politiebestel;
 
-#### Artikel 2
+##### Artikel 2
 
 1. Ten behoeve van de reorganisatie van het politiebestel wordt per politieregio en voor het Korps landelijke politiediensten door de burgemeester, na overleg met het regionaal overlegorgaan, bedoeld in artikel 12 van de Wet tijdelijke voorzieningen reorganisatie politiebestel, respectievelijk Onze Ministers van Justitie een personeelsplan vastgesteld inzake de inrichting en formatie van de politieregio respectievelijk het Korps landelijke politiediensten. In verband met boventalligheid van een politieregio, respectievelijk het Korps landelijke politiediensten kan een voorziening van tijdelijke aard worden getroffen, inhoudende dat in het desbetreffende formatieplan tot uiterlijk 1 januari 1996 functies van tijdelijke aard kunnen worden gecreëerd. In het personeelsplan zijn tevens opgenomen de plaatsing van ambtenaren in een vaste of tijdelijke functie, alsmede het al of niet van toepassing zijn van om-, her- of bijscholing of van voorwaarden bij de plaatsing. Het personeelsplan wordt aan de ambtenaren bekendgemaakt.
 
@@ -78,7 +100,7 @@ In dit besluit wordt verstaan onder:
 
 3. Het personeelsplan van het Korps landelijke politiediensten treedt niet eerder in werking dan nadat dit door Onze Minister van Binnenlandse Zaken is goedgekeurd.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Ambtenaren worden, voor zover zij niet direct in een politieregio zijn ingedeeld, voor het opstellen van een personeelsplan door Onze Minister van Justitie ingedeeld bij een politieregio of het Korps landelijke politiediensten. Voor zover het betreft indeling bij een politieregio geschiedt dit in overeenstemming met de desbetreffende burgemeester.
 
@@ -88,7 +110,7 @@ In dit besluit wordt verstaan onder:
 
 4. Door Onze Minister kunnen nadere regels gesteld worden ter zake van de plaatsing van ambtenaren en de daarbij behorende procedure.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De ambtenaar wordt als gevolg van de reorganisatie, behoudens de uitzondering bedoeld in het derde lid, geen ontslag verleend of de met hem bestaande arbeidsovereenkomst wordt niet beëindigd, anders dan met zijn instemming.
 
@@ -98,21 +120,21 @@ In dit besluit wordt verstaan onder:
 
 4. De bevoegdheid, bedoeld in het derde lid, komt toe aan het gezag dat bevoegd is tot ontslag.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De ambtenaar kan, behoudens de uitzondering bedoeld in het tweede lid, niet anders dan met zijn instemming worden verplaatst van de ene politieregio naar de andere politieregio of naar het Korps landelijke politiediensten.
 
 2. Een ambtenaar die niet, als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005607&hoofdstuk=I&artikel=3&z=1994-12-21&g=1994-12-21), in het Korps landelijke politiediensten kan worden ingedeeld, kan anders dan met zijn instemming worden verplaatst naar een politieregio. Een ambtenaar die niet, als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005607&hoofdstuk=I&artikel=3&z=1994-12-21&g=1994-12-21), in een politieregio kan worden ingedeeld, kan anders dan met zijn instemming worden verplaatst naar het Korps landelijke politiediensten.
 
-#### Artikel 6
+##### Artikel 6
 
 Ten behoeve van de reorganisatie kunnen door de desbetreffende burgemeester of Onze Minister van Justitie voor de eigen politieregio respectievelijk het Korps landelijke politiediensten nadere regels worden vastgesteld ter uitvoering van de in dit besluit opgenomen voorzieningen.
 
-#### Artikel 7
+##### Artikel 7
 
 De gelden voor om-, her- en bijscholing ten behoeve van individuele ambtenaren worden toegekend overeenkomstig de door de desbetreffende burgemeester in overeenstemming met de Regionale Commissie respectievelijk Onze Minister van Justitie in overeenstemming met de Commissie Korps landelijke politiediensten vast te stellen regels.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De ambtenaar die blijkens het personeelsplan in een tijdelijke functie is geplaatst binnen de politieregio of het Korps landelijke politiediensten en die slechts in een voor hem passend te achten vaste functie kan worden geplaatst na om-, her- en bijscholing, kan worden verplicht zich om-, her- en bij te scholen mits dit hem in verband met zijn persoonlijkheid en zijn omstandigheden redelijkerwijs kan worden opgedragen.
 
@@ -122,7 +144,7 @@ De gelden voor om-, her- en bijscholing ten behoeve van individuele ambtenaren w
 
 4. De bevoegdheid, bedoeld in het derde lid, komt toe aan het gezag dat bevoegd is tot ontslag.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Eervol ontslag kan worden verleend aan de ambtenaar die zulks wenst, indien in diens functie een ambtenaar wordt geplaatst die blijkens het personeelsplan in een tijdelijke functie is geplaatst.
 
@@ -130,7 +152,7 @@ De gelden voor om-, her- en bijscholing ten behoeve van individuele ambtenaren w
 
 3. De op de voet van het eerste lid ontslagen ambtenaar, heeft recht op wachtgeld op de voet van het [Rijkswachtgeldbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002326), dan wel op een uitkering op de voet van de [Uitkeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002537) indien overigens is voldaan aan de in genoemde regelingen gestelde voorwaarden.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De ambtenaar aan wie in verband met de reorganisatie ontslag is verleend met recht op wachtgeld, heeft recht op wachtgeld ingevolge dan wel op de voet van het [Rijkswachtgeldbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002326) zoals dat luidde op 1 januari 1991.
 
@@ -138,19 +160,19 @@ De gelden voor om-, her- en bijscholing ten behoeve van individuele ambtenaren w
 
 3. Terstond na ontslagverlening als bedoeld in het eerste lid, dan wel na beëindiging als bedoeld in het tweede lid doet de burgemeester of Onze Minister van Justitie hiervan mededeling aan Onze Minister van Binnenlandse Zaken.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Aan de ambtenaar aan wie in verband met de reorganisatie eervol ontslag is verleend dan wel wiens arbeidsovereenkomst in verband met de reorganisatie is beëindigd, kan een diensttijd-gratificatie worden toegekend ter grootte van een in verhouding tot de doorgebrachte diensttijd evenredig gedeelte van de voor hem geldende ambtsjubileumgratificatie.
 
 2. Het eerste lid vindt geen toepassing indien de aanspraak op de ambtsjubileumgratificatie niet binnen een termijn van vijf jaren na de datum van ingang van het ontslag dan wel de beëindiging van de arbeidsovereenkomst zou zijn ontstaan.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De ambtenaar aan wie in de periode 1 januari 1993 tot en met 31 december 1994 met recht op wachtgeld in verband met de reorganisatie eervol ontslag is verleend en die uiterlijk op 31 december 1993 de leeftijd van 55 jaar heeft bereikt, ontvangt een uitkering ingevolge de Regeling uitkering wegens functioneel leeftijdsontslag vanaf het moment dat hij de leeftijd bereikt waarop hij hiervoor in aanmerking zou zijn gekomen.
 
 2. Het recht op wachtgeld eindigt met ingang van de eerste dag van de maand waarin de ambtenaar een uitkering ontvangt ingevolge de Regeling uitkering wegens functioneel leeftijdsontslag.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De ambtenaar aan wie in de periode 1 januari 1993 tot en met 31 december 1994 met recht op wachtgeld in verband met de reorganisatie eervol ontslag is verleend en die uiterlijk op 31 december 1993 de leeftijd van 55 jaar heeft bereikt ontvangt een uitkering ingevolge de Wet uitkering wegens vrijwillig vervroegd uittreden 1984, voor zover hij op grond van bij of krachtens de [Wet uitkering wegens vrijwillig vervroegd uittreden 1984](onbekend) gestelde voorwaarden hiervoor in aanmerking zou zijn gekomen.
 
@@ -160,13 +182,13 @@ De gelden voor om-, her- en bijscholing ten behoeve van individuele ambtenaren w
 
 Vanaf het moment dat de ambtenaar de leeftijd heeft bereikt waarop hij, krachtens [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005607&hoofdstuk=I&artikel=12&z=1994-12-21&g=1994-12-21), in aanmerking zou zijn gekomen voor een uitkering ingevolge de Regeling uitkering wegens functioneel leeftijdsontslag indien hij niet reeds een uitkering zou ontvangen ingevolge de [Wet uitkering wegens vrijwillig vervroegd uittreden 1984](onbekend), wordt het uitkeringspercentage waarop hij ingevolge laatstgenoemde wet recht heeft, verhoogd tot het percentage waarop hij recht zou hebben gehad indien de Regeling uitkering wegens functioneel leeftijdsontslag van toepassing zou zijn geweest.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Ten aanzien van de ambtenaar, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005607&hoofdstuk=I&artikel=10&z=1994-12-21&g=1994-12-21), die op het tijdstip van ingang van zijn ontslag de leeftijd van 55 jaar heeft bereikt, wordt in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002326&artikel=5), en [artikel 9, vijfde lid, van het Rijkswachtgeldbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002326&artikel=9) in plaats van "60 jaar" gelezen: 55 jaar.
 
 2. Ten aanzien van de ambtenaar, bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005607&hoofdstuk=I&artikel=10&z=1994-12-21&g=1994-12-21), die op het tijdstip van ingang van beëindiging van zijn arbeidsovereenkomst de leeftijd van 55 jaar heeft bereikt, wordt in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002537&artikel=6), en [artikel 17, vijfde lid, van de Uitkeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002537&artikel=17) in plaats van "60 jaar" gelezen: 55 jaar.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Door Onze Minister van Binnenlandse Zaken wordt een landelijke vacaturebank ingesteld.
 
@@ -178,17 +200,17 @@ Vanaf het moment dat de ambtenaar de leeftijd heeft bereikt waarop hij, krachten
 
 5. Onze Minister van Binnenlandse Zaken kan nadere regels ter uitvoering van dit artikel geven.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Aan de vereniging van ambtenaren die vertegenwoordigd zijn in de Commissie, bedoeld in artikel 3 van het Besluit overleg en medezeggenschap reorganisatie politiebestel, wordt door Onze Ministers gezamenlijk voor een termijn van drie jaren per vereniging per jaar een bedrag van f 15,- per lid toegekend naar de stand van zaken aan het begin van elk kalenderjaar.
 
 2. Met inachtneming van het eerste lid wordt aan elke vereniging van ambtenaren ten minste f 74.000,- toegekend.
 
-#### Artikel 17
+##### Artikel 17
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst.
 
-#### Artikel 18
+##### Artikel 18
 
 Dit besluit kan worden aangehaald als Besluit sociaal beleidskader reorganisatie politiebestel.
 

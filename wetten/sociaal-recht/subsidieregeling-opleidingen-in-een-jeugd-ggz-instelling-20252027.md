@@ -1,16 +1,42 @@
 ---
-title: "Subsidieregeling Opleidingen in een Jeugd ggz-instelling 2025–2027"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 6 oktober 2014, kenmerk 663853-125983-MEVA, houdende regels voor de verstrekking van subsidie voor de financiering van opleidingsplaatsen voor de opleiding tot gezondheidszorg psycholoog, psychiater, psychotherapeut en klinisch psycholoog in een kinder- en jeugd ggz-instelling (Subsidieregeling Opleidingen in een jeugd ggz-instelling 2015–2017)"
 identifier: "BWBR0035636"
-categorie: "Sociaal recht"
-publicatiedatum: 2025-12-10
-laatste_update: 2025-12-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035636"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-12-10"
+last_updated: "2025-12-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035636"
+soort: "ministeriele-regeling"
+stam_id: "12814803"
+version_id: "26865902"
+internal_id: "C38052831"
+label_id: "12784584"
+dtd_version: "2.0"
+original_entry_into_force: "2020-06-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035636/2025-12-10/0"
+intitule_bron: "Stcrt.2014-28775"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-10-06"
+intitule_published: "2014-10-15"
+intitule_in_force: "2014-10-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-35686"
+original_signed_date: "2020-06-29"
+original_published_date: "2020-07-07"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2020-35686"
+entry_into_force_date: "2020-06-29"
+jci_1_3: "jci1.3:c:BWBR0035636&z=2025-12-10&g=2025-12-10"
+jci_1_0: "1.0:c:BWBR0035636&g=2025-12-10"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling Opleidingen in een Jeugd ggz-instelling 2025–2027"
+signed_date: "2020-06-29"
+entry_into_force: "2020-06-29"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 6 oktober 2014, kenmerk 663853-125983-MEVA, houdende regels voor de verstrekking van subsidie voor de financiering van opleidingsplaatsen voor de opleiding tot gezondheidszorg psycholoog, psychiater, psychotherapeut en klinisch psycholoog in een kinder- en jeugd ggz-instelling (Subsidieregeling Opleidingen in een jeugd ggz-instelling 2015–2017)
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -38,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 - l. **subsidiejaar:** jaar ten behoeve waarvan de subsidie aan de instelling wordt verstrekt.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De minister kan ten behoeve van de subsidiejaren 2025 en 2027 op aanvraag een subsidie voor het verzorgen van een zorgopleiding verstrekken aan een opleidingsinrichting of een praktijkopleidingsinrichting die uitsluitend zorg levert aan jeugdigen tot 18 jaar.
 
@@ -48,7 +74,7 @@ In deze regeling wordt verstaan onder:
 
 4. De subsidie wordt uitsluitend verstrekt aan een opleidingsinrichting die voor het verzorgen van (een deel van) de opleiding tot psychiater is erkend door de RGS of aan een praktijkopleidinginstelling die voor de desbetreffende zorgopleiding is erkend door de CRT of de RSV.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Bij het verstrekken van de subsidie wordt onderscheid gemaakt naar instroom en doorstroom.
 
@@ -56,7 +82,7 @@ In deze regeling wordt verstaan onder:
 
 3. In het plan wordt onderscheid gemaakt naar zorgopleiding en opleidende zorginstelling.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De aanvraag van een subsidie wordt uiterlijk dertien weken voor aanvang van het subsidiejaar ontvangen. De minister kan tot een daarbij aan te geven datum vrijstelling of ontheffing verlenen van de aanvraagtermijn.
 
@@ -78,11 +104,11 @@ In deze regeling wordt verstaan onder:
 
 - b. voor wat betreft de doorstroom: het aantal opleidingsplaatsen voor het subsidiejaar zoals opgenomen in de opleidingsschema’s per 31 oktober van het jaar voorafgaand aan het subsidiejaar vermenigvuldigd met het subsidiebedrag per opleidingsplaats in fte voor de desbetreffende zorgopleiding.
 
-#### Artikel 5
+##### Artikel 5
 
 De subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verleend onder de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:34).
 
-#### Artikel 6
+##### Artikel 6
 
 1. De subsidieontvanger meldt meteen aan de minister als:
 
@@ -94,7 +120,7 @@ De subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verle
 
 2. De melding wordt schriftelijk gedaan. De melding wordt voorzien van een toelichting. Bij de melding worden de relevante stukken overgelegd.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De subsidieontvanger draagt er zorg voor dat de opleidelingen of artsen in opleiding de registratiecommissies juist, tijdig en volledig informeren om de registratiecommissies in staat te stellen te registreren welke opleidelingen of artsen in opleiding gedurende welke periode welke zorgopleidingen bij welke opleidende zorginstellingen gaan volgen en daadwerkelijk hebben gevolgd in het kader van instroom dan wel doorstroom.
 
@@ -104,13 +130,13 @@ De subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verle
 
 - b. voor de ontwikkeling van het beleid van de minister.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Binnen tweeëntwintig weken na afloop van het subsidiejaar geeft de minister ambtshalve een beschikking tot vaststelling van de verleende subsidie.
 
 2. De verleende subsidie wordt vastgesteld op het aantal gerealiseerde opleidingsplaatsen, opgenomen in de opleidingsschema’s van 15 februari na afloop het subsidiejaar, vermenigvuldigd met het subsidiebedrag per opleidingsplaats in fte voor de desbetreffende zorgopleiding, met dien verstande dat de subsidie voor wat betreft de instroom ten hoogste wordt vastgesteld op het aantal personen en opleidingsplaatsen waarvoor de subsidie is verleend.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Een aanvraag van een subsidie van minder dan € 25.000 wordt uiterlijk tweeëntwintig weken na afloop van het subsidiejaar ingediend.
 
@@ -118,11 +144,11 @@ De subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verle
 
 3. Het aanvraagformulier wordt ondertekend door de aanvrager, door een persoon die bevoegd is de aanvrager te vertegenwoordigen of door de personen die gezamenlijk bevoegd zijn de aanvrager te vertegenwoordigen.
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 januari 2028, met dien verstande dat deze regeling van toepassing blijft op subsidies die op grond van deze regeling zijn verstrekt.
 
@@ -205,7 +231,7 @@ Directie MEVA
 
 **Met het aanvragen van de subsidie machtigt het bestuur, dan wel een namens het bestuur gevolmachtigde, de minister om de opleidingsschema's bij de registratiecommissie op te vragen.**
 
-#### Artikel 1a
+##### Artikel 1a
 
 Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) niet van toepassing.
 
@@ -221,6 +247,6 @@ Directie MEVA
 
 **Bevoegd conform KvK JA/NEE (Indien NEE:voeg volmacht toe)**
 
-#### Artikel 10a
+##### Artikel 10a
 
 De minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat de desbetreffende bepaling beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.

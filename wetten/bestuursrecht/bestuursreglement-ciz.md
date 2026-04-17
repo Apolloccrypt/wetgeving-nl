@@ -1,13 +1,38 @@
 ---
 title: "Bestuursreglement CIZ"
 identifier: "BWBR0040777"
-categorie: "Bestuursrecht"
-publicatiedatum: 2021-05-18
-laatste_update: 2021-05-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040777"
+country: "nl"
+rank: "zbo"
+publication_date: "2021-05-18"
+last_updated: "2021-05-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040777"
+soort: "zbo"
+stam_id: "14582053"
+version_id: "24960692"
+internal_id: "C35692251"
+label_id: "14536074"
+dtd_version: "2.0"
+original_entry_into_force: "2018-03-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040777/2021-05-18/0"
+intitule_bron: "Stcrt.2021-24318"
+intitule_effect: "wijziging"
+intitule_signed: "2021-03-25"
+intitule_published: "2021-05-17"
+intitule_in_force: "2021-05-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-17936"
+original_signed_date: "2017-12-13"
+original_published_date: "2018-03-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-17936"
+entry_into_force_date: "2018-03-31"
+jci_1_3: "jci1.3:c:BWBR0040777&z=2021-05-18&g=2021-05-18"
+jci_1_0: "1.0:c:BWBR0040777&g=2021-05-18"
+citeertitel_status: "officieel"
+signed_date: "2017-12-13"
+entry_into_force: "2018-03-31"
 ---
-
 # Bestuursreglement CIZ
 
 Het zelfstandig bestuursorgaan CIZ, vertegenwoordigd door de Voorzitter van de Raad van Bestuur, heeft – gelet op [artikel 7.1.3. van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=7.1.3) (Wlz) en [artikel 11 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=11) – besloten tot wijziging van het Bestuursreglement CIZ zoals vastgesteld op 13 december 2017. Aanleiding voor de wijziging is de wijziging in voorzitterschap van de Raad van Bestuur per 1 februari 2021. Na wijziging luidt de tekst van het Bestuursreglement als volgt:

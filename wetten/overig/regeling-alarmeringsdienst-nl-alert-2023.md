@@ -1,13 +1,39 @@
 ---
-title: "Regeling alarmeringsdienst NL-Alert 2023"
+title: "Regeling van de Minister van Economische Zaken en Klimaat van 19 december 2022, nr. WJZ/ 22099861, houdende regels voor aanbieders van openbare mobiele communicatienetwerken inzake de alarmeringsdienst NL-Alert (Regeling alarmeringsdienst NL-Alert 2023)"
 identifier: "BWBR0047721"
-categorie: "Overig"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047721"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047721"
+soort: "ministeriele-regeling"
+stam_id: "16628353"
+version_id: "29159902"
+internal_id: "C41430291"
+label_id: "16547084"
+dtd_version: "2.0"
+original_entry_into_force: "2023-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047721/2024-01-01/0"
+intitule_bron: "Stcrt.2022-34404"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-12-19"
+intitule_published: "2022-12-28"
+intitule_in_force: "2022-12-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-34404"
+original_signed_date: "2022-12-19"
+original_published_date: "2022-12-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-34404"
+entry_into_force_date: "2023-01-01"
+jci_1_3: "jci1.3:c:BWBR0047721&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0047721&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling alarmeringsdienst NL-Alert 2023"
+signed_date: "2022-12-19"
+entry_into_force: "2023-01-01"
 ---
-
 # Regeling van de Minister van Economische Zaken en Klimaat van 19 december 2022, nr. WJZ/ 22099861, houdende regels voor aanbieders van openbare mobiele communicatienetwerken inzake de alarmeringsdienst NL-Alert (Regeling alarmeringsdienst NL-Alert 2023)
 
 handelende in overeenstemming met de Minister van Justitie en Veiligheid;
@@ -16,7 +42,7 @@ Gelet op [artikel 14.1, tweede lid, onderdeel a, van de Telecommunicatiewet](htt
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -54,13 +80,13 @@ In deze regeling wordt verstaan onder:
 
 - **uitzendgebied:** geografisch gebied, dat met coördinaten wordt vastgesteld, waarbinnen een NL-Alert dient te worden gedistribueerd door de aanbieder via de cellen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een aanbieder is verplicht medewerking te verlenen aan de distributie van NL-Alerts overeenkomstig deze regeling.
 
 2. Op verzoek van de aanbieder kan de Minister, in overeenstemming met de Minister van Justitie en Veiligheid, tijdelijk ontheffing verlenen van een of meer verplichtingen die voortvloeien uit deze regeling.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Zodra de aanbieder, met tussenkomst van de broker, een opdracht ontvangt om een NL-Alert uit te zenden, distribueert deze aanbieder het NL-Alert onverwijld en ongewijzigd, voor zover in dat gebied via zijn netwerk mobiele elektronische communicatiediensten worden aangeboden.
 
@@ -80,17 +106,17 @@ In deze regeling wordt verstaan onder:
 
 9. De verplichting, bedoeld in het achtste lid, geldt niet voor 2G en 3G netwerken.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De aanbieder treft de voorzieningen die noodzakelijk zijn om de onverwijlde en kosteloze ontvangst van NL-Alerts door alle op zijn netwerk aangesloten eindapparaten, te waarborgen.
 
 2. De voorzieningen, bedoeld in het eerste lid, stellen de aanbieder in staat om minimaal twintig NL-Alerts gelijktijdig te distribueren.
 
-#### Artikel 5
+##### Artikel 5
 
 De aanbieder verwerkt wijzigingen in de configuratie van cellen die impact hebben op het uitzendgebied minimaal eenmaal per 24 uur.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De voorzieningen, bedoeld in [artikel 7.7, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=7.7), borgen ten minste dat de voor de alarmeringsdienst NL-Alert gebruikte infrastructuur bestand is tegen de volgende risico’s:
 
@@ -104,29 +130,29 @@ De aanbieder verwerkt wijzigingen in de configuratie van cellen die impact hebbe
 
 4. Op verzoek van de Minister van Justitie en Veiligheid verlenen aanbieders hun medewerking aan het testen van uit te voeren wijzigingen.
 
-#### Artikel 7
+##### Artikel 7
 
 De aanbieder verleent zijn medewerking aan het monitoren van de keten, waarbij door de broker een testbericht, of repeterend testbericht, over de beschikbare netwerken van de aanbieder wordt verstuurd zonder dat dit bericht op eindapparaten wordt getoond. De aanbieder maakt hierover werkafspraken als bedoeld in [artikel 15, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0047721&artikel=15&z=2024-01-01&g=2024-01-01).
 
-#### Artikel 8
+##### Artikel 8
 
 De aanbieder monitort de op grond van deze regeling aangebrachte voorzieningen. Door de aanbieder geconstateerde storingen, waaronder begrepen de situatie dat ten minste een significant deel van de eindapparaten op de netwerken van de aanbieder niet langer met de alarmeringsdienst NL-Alert bereikt kunnen worden, worden onverwijld gemeld aan de Minister van Justitie en Veiligheid.
 
-#### Artikel 9
+##### Artikel 9
 
 De aanbieder geeft binnen tien werkdagen gehoor aan een serviceverzoek.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De aanbieder bewaart de relevante technische en procesmatige communicatie die betrekking heeft op het uitzenden van een NL-Alert gedurende ten minste een jaar.
 
 2. De in het eerste lid bedoelde gegevens worden op verzoek verstrekt aan de Minister van Justitie en Veiligheid.
 
-#### Artikel 11
+##### Artikel 11
 
 De aanbieder verstrekt op verzoek een actuele beschrijving van zijn brokerinterface aan de Minister van Justitie en Veiligheid.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De aanbieder verstrekt gedurende het uitzenden van elk NL-Alert, met tussenkomst van de broker, aan de Minister van Justitie en Veiligheid:
 
@@ -138,7 +164,7 @@ De aanbieder verstrekt op verzoek een actuele beschrijving van zijn brokerinterf
 
 2. Het door de aanbieder gerealiseerde prestatiepercentage, bedoeld in het eerste lid, onderdeel c, bedraagt ten minste 95 procent.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De Minister van Justitie en Veiligheid kan ten hoogste tien keer per jaar bij de aanbieder over een uitgezonden NL-Alert een ad-hoc rapportage opvragen. De rapportage bevat ten minste:
 
@@ -150,7 +176,7 @@ De aanbieder verstrekt op verzoek een actuele beschrijving van zijn brokerinterf
 
 3. De in het eerste lid bedoelde rapportage kan tot vijf werkdagen na het uitzenden van een NL-Alert worden opgevraagd en wordt vervolgens door de aanbieder ten hoogste vijf werkdagen na de ontvangst van dit verzoek beschikbaar gesteld.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De aanbieder stelt per kalenderjaar een rapportage op over de dienstverlening en verstrekt deze aan de Minister en de Minister van Justitie en Veiligheid.
 
@@ -164,7 +190,7 @@ De aanbieder verstrekt op verzoek een actuele beschrijving van zijn brokerinterf
 
 - d. eventuele aanbevelingen.
 
-#### Artikel 15
+##### Artikel 15
 
 De Minister van Justitie en Veiligheid en een aanbieder maken nadere werkafspraken ten aanzien van ten minste de volgende onderwerpen:
 
@@ -176,15 +202,15 @@ De Minister van Justitie en Veiligheid en een aanbieder maken nadere werkafsprak
 
 - d. het melden van geconstateerde storingen, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0047721&artikel=8&z=2024-01-01&g=2024-01-01).
 
-#### Artikel 16
+##### Artikel 16
 
 De [Regeling alarmeringsdienst NL-Alert](https://wetten.overheid.nl/jci1.3:c:BWBR0041486) wordt ingetrokken.
 
-#### Artikel 17
+##### Artikel 17
 
 Deze regeling treedt in werking met ingang van 01-01-2023, met uitzondering van [artikel 3, achtste lid en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047721&artikel=3&z=2024-01-01&g=2024-01-01), dat in werking treedt op 01-01-2024.
 
-#### Artikel 18
+##### Artikel 18
 
 Deze regeling wordt aangehaald als: Regeling alarmeringsdienst NL-Alert 2023.
 

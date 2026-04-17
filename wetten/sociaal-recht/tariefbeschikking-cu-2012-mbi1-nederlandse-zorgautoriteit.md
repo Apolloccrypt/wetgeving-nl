@@ -1,13 +1,38 @@
 ---
 title: "Tariefbeschikking CU-2012-MBI1 Nederlandse Zorgautoriteit"
 identifier: "BWBR0030893"
-categorie: "Sociaal recht"
-publicatiedatum: 2011-12-22
-laatste_update: 2011-12-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030893"
+country: "nl"
+rank: "zbo"
+publication_date: "2011-12-22"
+last_updated: "2011-12-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030893"
+soort: "zbo"
+stam_id: "11565163"
+version_id: "19060952"
+internal_id: "C26583671"
+label_id: "11538314"
+dtd_version: "2.0"
+original_entry_into_force: "2011-12-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030893/2011-12-22/0"
+intitule_bron: "Stcrt.2011-23429"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-12-13"
+intitule_published: "2011-12-22"
+intitule_in_force: "2011-12-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-23429"
+original_signed_date: "2011-12-13"
+original_published_date: "2011-12-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-23429"
+entry_into_force_date: "2011-12-22"
+jci_1_3: "jci1.3:c:BWBR0030893&z=2011-12-22&g=2011-12-22"
+jci_1_0: "1.0:c:BWBR0030893&g=2011-12-22"
+citeertitel_status: "redactioneel"
+signed_date: "2011-12-13"
+entry_into_force: "2011-12-22"
 ---
-
 # Tariefbeschikking CU-2012-MBI1 Nederlandse Zorgautoriteit
 
 De Nederlandse Zorgautoriteit heeft krachtens de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&paragraaf=4.2) en [4 van hoofdstuk 4 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&paragraaf=4.4) (Wmg), gelet op [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=35) en [artikel 50 lid 2 onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50), [artikel 52 aanhef en onder e van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=52) en met inachtneming van het bepaalde in de beleidsregel en de regeling ‘Macrobeheersmodel’ en van de onderstaande definities voor de gezamenlijke

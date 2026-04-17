@@ -1,13 +1,39 @@
 ---
-title: "Uitvoeringsregeling plaatsgebonden consignatie landelijke eenheden"
+title: "Uitvoeringsregeling plaatsgebonden consignatie KLPD"
 identifier: "BWBR0021671"
-categorie: "Overig"
-publicatiedatum: 2025-09-04
-laatste_update: 2025-09-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0021671"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-09-04"
+last_updated: "2025-09-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0021671"
+soort: "ministeriele-regeling"
+stam_id: "9038283"
+version_id: "14402242"
+internal_id: "C29335471"
+label_id: "9017274"
+dtd_version: "2.0"
+original_entry_into_force: "2007-04-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0021671/2025-09-04/0"
+intitule_bron: "Stcrt.2007-70"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-03-28"
+intitule_published: "2007-04-11"
+intitule_in_force: "2007-04-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-70"
+original_signed_date: "2007-03-28"
+original_published_date: "2007-04-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2007-70-p8-SC79998"
+entry_into_force_date: "2007-04-13"
+jci_1_3: "jci1.3:c:BWBR0021671&z=2025-09-04&g=2025-09-04"
+jci_1_0: "1.0:c:BWBR0021671&g=2025-09-04"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsregeling plaatsgebonden consignatie landelijke eenheden"
+signed_date: "2007-03-28"
+entry_into_force: "2007-04-13"
 ---
-
 # Uitvoeringsregeling plaatsgebonden consignatie KLPD
 
 Gelet op:
@@ -24,7 +50,7 @@ Gelet op:
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 Tenzij anders is vermeld, wordt voor de toepassing van de Uitvoeringsregeling plaatsgebonden consignatie landelijke eenheden verstaan onder:
 
@@ -34,7 +60,7 @@ Tenzij anders is vermeld, wordt voor de toepassing van de Uitvoeringsregeling pl
 
 - 3. bevoegd gezag: de korpschef.
 
-#### Artikel 2. Toepassing
+##### Artikel 2. Toepassing
 
 1. Het bevoegd gezag kan plaatsgebonden consignatie opdragen.
 
@@ -52,7 +78,7 @@ Tenzij anders is vermeld, wordt voor de toepassing van de Uitvoeringsregeling pl
 
 - b. in het buitenland vindt planning plaats in dienst of plaatsgebonden consignatie.
 
-#### Artikel 3. Vergoeding
+##### Artikel 3. Vergoeding
 
 1. Voor de toepassing van de in het tweede artikel bedoelde plaatsgebonden consignatie is [artikel 18 van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=18) van analoge toepassing met dien verstande dat de in het [eerste lid van artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=18) vermelde definitie wordt vervangen door de definitie vermeld in het eerste artikel van deze uitvoeringsregeling. Voorts zijn van toepassing uitgezonderd het [vierde tot en met het zesde lid van voormeld artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=18).
 
@@ -60,7 +86,7 @@ Tenzij anders is vermeld, wordt voor de toepassing van de Uitvoeringsregeling pl
 
 3. De in het tweede lid genoemde toelage wordt zo spoedig mogelijk uitbetaald, doch uiterlijk bij gelegenheid van de tweede salarisbetaling volgende op de periode van vier weken waarin consignatie is verricht. Van deze termijn kan worden afgeweken indien het dienstbelang dat vereist, of indien het dienstbelang zich daartegen niet verzet, op verzoek van de medewerker. Voor deze gevallen wordt een nieuwe uiterste termijn vastgesteld.
 
-#### Artikel 4. Slotbepalingen
+##### Artikel 4. Slotbepalingen
 
 1. Deze regeling kan worden aangehaald als: ‘Uitvoeringsregeling plaatsgebonden consignatie landelijke eenheden’.
 
@@ -68,7 +94,7 @@ Tenzij anders is vermeld, wordt voor de toepassing van de Uitvoeringsregeling pl
 
 Het ‘Besluit beëindiging en afbouw vergoedingregelingen extra diensten groepschefs en beveiligers KDB’ van 19 december 1994 met kenmerk 472700/594/HY en de ‘[Regeling bevoegdheid toekenning toelage functionarissen KDB KLPD](https://wetten.overheid.nl/jci1.3:c:BWBR0007388)’ van 8 mei 1995 met kenmerk EA95/929a zijn met dit besluit ingetrokken.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 22 december 2006.
 

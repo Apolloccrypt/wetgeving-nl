@@ -1,13 +1,36 @@
 ---
-title: "Aanwijzing Wet justitiële en strafvorderlijke gegevens"
+title: "Aanwijzing verstrekking van strafvorderlijke gegevens voor buiten de strafrechtspleging gelegen doeleinden (Aanwijzing wet justitiële en strafvorderlijke gegevens)"
 identifier: "BWBR0041090"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2018-07-01
-laatste_update: 2018-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041090"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2018-07-01"
+last_updated: "2018-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041090"
+soort: "beleidsregel"
+stam_id: "14660053"
+version_id: "25099592"
+internal_id: "C35894541"
+label_id: "14613234"
+dtd_version: "2.0"
+original_entry_into_force: "2018-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041090/2018-07-01/0"
+intitule_bron: "Stcrt.2018-36059"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2018-06-29"
+intitule_in_force: "2018-06-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-36059"
+original_published_date: "2018-06-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-36059"
+entry_into_force_date: "2018-07-01"
+jci_1_3: "jci1.3:c:BWBR0041090&z=2018-07-01&g=2018-07-01"
+jci_1_0: "1.0:c:BWBR0041090&g=2018-07-01"
+citeertitel_status: "redactioneel"
+short_title: "Aanwijzing Wet justitiële en strafvorderlijke gegevens"
+entry_into_force: "2018-07-01"
 ---
-
 # Aanwijzing verstrekking van strafvorderlijke gegevens voor buiten de strafrechtspleging gelegen doeleinden (Aanwijzing wet justitiële en strafvorderlijke gegevens)
 
 ### I. Samenvatting

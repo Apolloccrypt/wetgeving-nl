@@ -1,13 +1,38 @@
 ---
 title: "Fytosanitaire Overeenkomst tussen het Koninkrijk der Nederlanden en de Regering van de Volksrepubliek China"
 identifier: "BWBV0002436"
-categorie: "Internationaal recht"
-publicatiedatum: 1987-05-07
-laatste_update: 1987-05-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002436"
+country: "nl"
+rank: "verdrag"
+publication_date: "1987-05-07"
+last_updated: "1987-05-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002436"
+soort: "verdrag"
+stam_id: "10002880943"
+version_id: "10002881072"
+internal_id: "C10006979321"
+label_id: "10002868334"
+dtd_version: "2.0"
+original_entry_into_force: "1987-05-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002436/1987-05-07/0"
+intitule_bron: "Trb.1986-118"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1987-02-04"
+intitule_published: "1986-10-01"
+intitule_in_force: "1987-05-18"
+intitule_status: "goed"
+original_publication: "Trb.1986-118"
+original_signed_date: "1987-02-04"
+original_published_date: "1986-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1986-118"
+entry_into_force_date: "1987-05-07"
+jci_1_3: "jci1.3:c:BWBV0002436&z=1987-05-07&g=1987-05-07"
+jci_1_0: "1.0:c:BWBV0002436&g=1987-05-07"
+citeertitel_status: "officieel"
+signed_date: "1987-02-04"
+entry_into_force: "1987-05-07"
 ---
-
 # Fytosanitaire Overeenkomst tussen het Koninkrijk der Nederlanden en de Regering van de Volksrepubliek China
 
 De Regering van het Koninkrijk der Nederlanden en de Regering van de Volksrepubliek China (hierna te noemen: „de Overeenkomstsluitende Partijen”),
@@ -16,7 +41,7 @@ Ten einde het brengen van schadelijke organismen binnen respectievelijk buiten h
 
 Zijn als volgt overeengekomen:
 
-#### Artikel I
+##### Artikel I
 
 Voor de toepassing van deze Overeenkomst wordt verstaan onder de term:
 
@@ -26,7 +51,7 @@ Voor de toepassing van deze Overeenkomst wordt verstaan onder de term:
 
 - 3. „schadelijke organismen”: die insekten ,aaltjes, schimmels, bacteriën, virussen en viroïden, mycoplasma's, onkruiden en hun zaden die zeer schadelijk zijn voor planten en plantaardige produkten.
 
-#### Artikel II
+##### Artikel II
 
 De Overeenkomstsluitende Partijen komen overeen:
 
@@ -38,7 +63,7 @@ De Overeenkomstsluitende Partijen komen overeen:
 
 - 4. elkaar in te lichten over de verspreiding en de bestrijding van nieuw ontdekte schadelijke organismen.
 
-#### Artikel III
+##### Artikel III
 
 De Overeenkomstsluitende Partijen komen overeen:
 
@@ -46,21 +71,21 @@ De Overeenkomstsluitende Partijen komen overeen:
 
 - 2. dat fytosanitair onderzoek wordt toegepast ten aanzien van zendingen planten of plantaardige produkten, verpakkingsmaterialen en vervoermiddelen van deze zendingen voor invoer, uitvoer en doorvoer.
 
-#### Artikel IV
+##### Artikel IV
 
 1. Elke zending planten of plantaardige produkten dient vergezeld te zijn van een gezondheidscertificaat, afgegeven door de autoriteiten voor de quarantaine van planten in het land van uitvoer, waarin wordt verklaard dat de zending planten of plantaardige produkten voldoet aan de eisen die het land van invoer heeft gesteld in de wettelijke fytosanitaire voorschriften, handelsovereenkomsten en invoervergunningen.
 
 2. Het certificaat dient gesteld te zijn in de Engelse taal en er mogen geen wijzigingen of doorhalingen in voorkomen.
 
-#### Artikel V
+##### Artikel V
 
 Het gezondheidscertificaat laat het recht van het land van invoer onverlet met betrekking tot het onderzoeken van zendingen planten of plantaardige produkten en het treffen van de noodzakelijke maatregelen op het gebied van de quarantaine van planten. Indien aantasting door schadelijke organismen wordt geconstateerd in een ingevoerde zending planten of plantaardige produkten, worden de noodzakelijke quarantainemaatregelen genomen en wordt de voor quarantaine van planten bevoegde autoriteit van het land van uitvoer daarvan onmiddellijk in kennis gesteld.
 
-#### Artikel VI
+##### Artikel VI
 
 Planten of plantaardige produkten die voor niet-commerciële doeleinden worden verzonden, dienen eveneens aan de bepalingen van deze Overeenkomst te voldoen.
 
-#### Artikel VII
+##### Artikel VII
 
 De Overeenkomstsluitende Partijen nemen de verplichting op zich:
 
@@ -68,27 +93,27 @@ De Overeenkomstsluitende Partijen nemen de verplichting op zich:
 
 - b. de samenwerking op het gebied van het onderzoek betreffende schadelijke organismen en bestrijdingsmethoden, alsmede de uitwisseling van gegevens over de verkregen resultaten, te bevorderen.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Ten behoeve van de uitvoering van deze Overeenkomst kunnen beide Overeenkomstsluitende Partijen na overleg besluiten vertegenwoordigers naar de andere Overeenkomstsluitende Partij te zenden. In dit geval zijn de internationale reiskosten voor rekening van de zendende Partij. De kosten van verblijf, vervoer en medische verzorging in noodgevallen tijdens het bezoek zijn voor rekening van de ontvangende Partij.
 
-#### Artikel IX
+##### Artikel IX
 
 Indien een Overeenkomstsluitende Partij het wenselijk acht enige bepaling in deze Overeenkomst te wijzigen, kan zij de andere Overeenkomstsluitende Partij verzoeken om overleg. Dit overleg kan zowel mondeling als schriftelijk geschieden en begint binnen een tijdvak van twee maanden, te rekenen van de dag waarop het verzoek is gedaan. De aldus overeengekomen wijzigingen worden van kracht dertig dagen na de datum waarop de Overeenkomstsluitende Partijen elkaar schriftelijk hebben medegedeeld dat de wijzigingen in hun onderscheiden landen zijn goedgekeurd in overeenstemming met de constitutionele bepalingen.
 
-#### Artikel X
+##### Artikel X
 
 De autoriteiten voor de quarantaine van planten van de Overeenkomstsluitende Partijen treden rechtstreeks met elkaar in verbinding ten behoeve van de uitvoering van de bepalingen van deze Overeenkomst.
 
-#### Artikel XI
+##### Artikel XI
 
 Deze Overeenkomst maakt geen inbreuk op de rechten en verplichtingen die de Overeenkomstsluitende Partijen hebben verkregen of op zich hebben genomen, dan wel alsnog zullen verkrijgen of op zich zullen nemen op grond van andere internationale overeenkomsten.
 
-#### Artikel XII
+##### Artikel XII
 
 Wat het Koninkrijk der Nederlanden betreft, is deze Overeenkomst alleen van toepassing op het Rijk in Europa.
 
-#### Artikel XIII
+##### Artikel XIII
 
 1. Deze Overeenkomst treedt in werking 30 dagen na de datum waarop de Overeenkomstsluitende Partijen elkaar schriftelijk hebben medegedeeld dat aan de constitutionele bepalingen in hun onderscheiden landen is voldaan.
 

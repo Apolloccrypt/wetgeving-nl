@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en Bermuda (zoals gemachtigd door de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland) tot het vermijden van dubbele belasting met betrekking tot natuurlijke personen"
 identifier: "BWBV0003224"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2010-02-01
-laatste_update: 2010-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003224"
+country: "nl"
+rank: "verdrag"
+publication_date: "2010-02-01"
+last_updated: "2010-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003224"
+soort: "verdrag"
+stam_id: "10003413253"
+version_id: "10003457952"
+internal_id: "C10008429691"
+label_id: "10003399174"
+dtd_version: "2.0"
+original_entry_into_force: "2010-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003224/2010-02-01/0"
+intitule_bron: "Trb.2009-109"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2009-07-20"
+intitule_in_force: "2010-01-29"
+intitule_status: "goed"
+original_publication: "Trb.2009-109"
+original_published_date: "2009-07-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2009-109"
+entry_into_force_date: "2010-02-01"
+jci_1_3: "jci1.3:c:BWBV0003224&z=2010-02-01&g=2010-02-01"
+jci_1_0: "1.0:c:BWBV0003224&g=2010-02-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2010-02-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en Bermuda (zoals gemachtigd door de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland) tot het vermijden van dubbele belasting met betrekking tot natuurlijke personen
 
 De Regering van het Koninkrijk der Nederlanden,
@@ -22,11 +44,11 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. REIKWIJDTE VAN HET VERDRAG
 
-#### Artikel 1. Natuurlijke personen op wie het Verdrag van toepassing is
+##### Artikel 1. Natuurlijke personen op wie het Verdrag van toepassing is
 
 Dit Verdrag is van toepassing op natuurlijke personen die inwoner zijn van een of van beide verdragsluitende partijen.
 
-#### Artikel 2. Belastingen waarop het Verdrag van toepassing is
+##### Artikel 2. Belastingen waarop het Verdrag van toepassing is
 
 1. Dit Verdrag is van toepassing op belastingen naar het inkomen die, ongeacht de wijze van heffing, worden geheven ten behoeve van een partij of van de staatkundige onderdelen of plaatselijke publiekrechtelijke lichamen daarvan.
 
@@ -46,7 +68,7 @@ Dit Verdrag is van toepassing op natuurlijke personen die inwoner zijn van een o
 
 ### HOOFDSTUK II. BEGRIPSOMSCHRIJVINGEN
 
-#### Artikel 3. Algemene begripsbepalingen
+##### Artikel 3. Algemene begripsbepalingen
 
 1. Voor de toepassing van dit Verdrag, tenzij de context anders vereist:
 
@@ -68,7 +90,7 @@ Dit Verdrag is van toepassing op natuurlijke personen die inwoner zijn van een o
 
 2. Wat betreft de toepassing van het Verdrag op enig moment door een partij heeft, tenzij de context anders vereist, elke daarin niet omschreven uitdrukking de betekenis welke die uitdrukking op dat moment heeft volgens de wetgeving van die partij met betrekking tot de belastingen waarop het Verdrag van toepassing is, waarbij elke betekenis volgens de toepasselijke belastingwetgeving van die partij prevaleert boven een betekenis die volgens andere wetgeving van die partij aan die uitdrukking wordt gegeven.
 
-#### Artikel 4. Inwoner
+##### Artikel 4. Inwoner
 
 1. Voor de toepassing van dit Verdrag betekent de uitdrukking „inwoner van een partij”:
 
@@ -86,7 +108,7 @@ Dit Verdrag is van toepassing op natuurlijke personen die inwoner zijn van een o
 
 - d. indien hij onderdaan is van beide partijen of van geen van beide, regelen de bevoegde autoriteiten van de verdragsluitende partijen de aangelegenheid in onderlinge overeenstemming.
 
-#### Artikel 5. Inkomsten uit dienstbetrekking
+##### Artikel 5. Inkomsten uit dienstbetrekking
 
 1. Onder voorbehoud van de bepalingen van de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003224&hoofdstuk=II&artikel=6&z=2010-02-01&g=2010-02-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBV0003224&hoofdstuk=II&artikel=7&z=2010-02-01&g=2010-02-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBV0003224&hoofdstuk=II&artikel=8&z=2010-02-01&g=2010-02-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBV0003224&hoofdstuk=II&artikel=9&z=2010-02-01&g=2010-02-01), zijn salarissen, lonen en andere soortgelijke beloningen verkregen door een inwoner van een verdragsluitende partij ter zake van een dienstbetrekking slechts in die partij belastbaar, tenzij de dienstbetrekking in de andere verdragsluitende partij wordt uitgeoefend. Indien de dienstbetrekking aldaar wordt uitgeoefend, mag de ter zake daarvan verkregen beloning in die andere partij worden belast.
 
@@ -108,13 +130,13 @@ Dit Verdrag is van toepassing op natuurlijke personen die inwoner zijn van een o
 
 5. Voor de toepassing van dit artikel wordt de plaats van de werkelijke leiding van de huidige Koninklijke Luchtvaartmaatschappij N.V. (KLM N.V.) geacht in Nederland te zijn gelegen, zolang Nederland de uitsluitende heffingsbevoegdheid heeft ter zake van KLM N.V. uit hoofde van het tussen Nederland en de Franse Republiek gesloten belastingverdrag.
 
-#### Artikel 6. Directeursbeloningen
+##### Artikel 6. Directeursbeloningen
 
 1. Directeursbeloningen en andere beloningen verkregen door een inwoner van een verdragsluitende partij in zijn hoedanigheid van lid van de raad van beheer van een lichaam dat inwoner is van de andere verdragsluitende partij, mogen in die andere partij worden belast.
 
 2. Indien een lichaam inwoner is van Nederland, omvat de uitdrukking „lid van de raad van beheer” zowel een bestuurder als een commissaris. Onder de termen „bestuurder” en „commissaris” worden respectievelijk verstaan personen die zijn belast met de algemene leiding van het lichaam onderscheidenlijk met het toezicht daarop.
 
-#### Artikel 7. Artiesten en sportbeoefenaars
+##### Artikel 7. Artiesten en sportbeoefenaars
 
 1. Niettegenstaande de bepalingen van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003224&hoofdstuk=II&artikel=5&z=2010-02-01&g=2010-02-01), mogen voordelen of inkomsten verkregen door een inwoner van een verdragsluitende partij als artiest, zoals een toneelspeler, een film-, radio- of televisie-artiest of een musicus, of als sportbeoefenaar, uit zijn persoonlijke werkzaamheden als zodanig die worden verricht in de andere verdragsluitende partij, worden belast in die andere partij.
 
@@ -122,7 +144,7 @@ Dit Verdrag is van toepassing op natuurlijke personen die inwoner zijn van een o
 
 3. Het bepaalde in het eerste en tweede lid is niet van toepassing op voordelen of inkomsten die worden verkregen door een inwoner van een verdragsluitende partij uit werkzaamheden die worden verricht in de andere verdragsluitende partij, indien het bezoek aan die andere partij geheel of grotendeels wordt bekostigd uit de openbare middelen van een of beide partijen, een staatkundig of een plaatselijk publiekrechtelijk lichaam daarvan, of plaatsvindt in het kader van een culturele overeenkomst tussen de regeringen van de verdragsluitende partijen. In een zodanig geval zijn de voordelen of inkomsten slechts belastbaar in de partij waarvan de artiest of sportbeoefenaar inwoner is.
 
-#### Artikel 8. Pensioenen, lijfrenten en socialezekerheidsuitkeringen
+##### Artikel 8. Pensioenen, lijfrenten en socialezekerheidsuitkeringen
 
 1. Onder voorbehoud van de bepalingen van [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003224&hoofdstuk=II&artikel=9&z=2010-02-01&g=2010-02-01), zijn pensioenen en andere soortgelijke beloningen betaald aan een inwoner van een verdragsluitende partij alsmede lijfrenten betaald aan een inwoner van een verdragsluitende partij slechts in die partij belastbaar. Pensioenen en andere uitkeringen betaald krachtens de bepalingen van een socialezekerheidsstelsel van een verdragsluitende partij aan een inwoner van de andere verdragsluitende partij zijn slechts in die andere partij belastbaar.
 
@@ -146,7 +168,7 @@ Zij beslissen tevens welke gegevens de inwoner van een verdragsluitende partij t
 
 7. Of en in hoeverre een pensioen of soortgelijke beloning onder dit artikel of onder artikel 18 valt, wordt bepaald door het karakter van de verleende diensten, zijnde particulier of overheid, gedurende welke de aanspraak op dat gedeelte van het pensioen of soortgelijke beloning werd opgebouwd.
 
-#### Artikel 9. Overheidsfuncties
+##### Artikel 9. Overheidsfuncties
 
 - a. Salarissen, lonen en andere soortgelijke beloningen, betaald door een verdragsluitende partij of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan, aan een natuurlijke persoon ter zake van diensten bewezen aan die partij of dat onderdeel of dat publiekrechtelijke lichaam, mogen in die partij worden belast.
 
@@ -162,13 +184,13 @@ Zij beslissen tevens welke gegevens de inwoner van een verdragsluitende partij t
 
 3. De bepalingen van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003224&hoofdstuk=II&artikel=5&z=2010-02-01&g=2010-02-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBV0003224&hoofdstuk=II&artikel=6&z=2010-02-01&g=2010-02-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBV0003224&hoofdstuk=II&artikel=7&z=2010-02-01&g=2010-02-01) zijn van toepassing op salarissen, lonen, pensioenen en andere soortgelijke beloningen ter zake van diensten verleend in het kader van een op winst gericht bedrijf, uitgeoefend door een verdragsluitende partij of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan.
 
-#### Artikel 10. Studenten
+##### Artikel 10. Studenten
 
 Vergoedingen die een student of een voor een beroep of bedrijf in opleiding zijnde persoon die inwoner is of onmiddellijk voorafgaande aan zijn bezoek aan een verdragsluitende partij inwoner was van de andere verdragsluitende partij en die uitsluitend voor zijn studie of opleiding in de eerstbedoelde partij verblijft, ontvangt ten behoeve van zijn onderhoud, studie of opleiding, zijn in die partij niet belastbaar, mits deze betalingen aan hem worden gedaan uit bronnen buiten die partij.
 
 ### HOOFDSTUK IV. VERMIJDING VAN DUBBELE BELASTING
 
-#### Artikel 11. Vermijding van dubbele belasting
+##### Artikel 11. Vermijding van dubbele belasting
 
 1. Nederland is bevoegd bij het heffen van belasting van zijn inwoners in de grondslag waarnaar de belasting wordt geheven, de bestanddelen van het inkomen te begrijpen die overeenkomstig de bepalingen van dit Verdrag in Bermuda mogen worden belast.
 
@@ -182,7 +204,7 @@ Dit lid zal een tegemoetkoming nu of in de toekomst verleend uit hoofde van de b
 
 ### HOOFDSTUK V. BIJZONDERE BEPALINGEN
 
-#### Artikel 12. Regeling voor onderling overleg
+##### Artikel 12. Regeling voor onderling overleg
 
 1. Indien een natuurlijke persoon van oordeel is dat de maatregelen van een of van beide verdragsluitende partijen voor hem leiden of zullen leiden tot een belastingheffing die niet in overeenstemming is met de bepalingen van dit Verdrag, kan hij, ongeacht de rechtsmiddelen waarin de nationale wetgeving van die partijen voorziet, zijn geval voorleggen aan de bevoegde autoriteit van de verdragsluitende partij waarvan hij inwoner is. Het geval moet worden voorgelegd binnen drie jaar nadat de maatregel die leidt tot een belastingheffing die niet in overeenstemming is met de bepalingen van het Verdrag, voor het eerst te zijner kennis is gebracht.
 
@@ -194,19 +216,19 @@ Dit lid zal een tegemoetkoming nu of in de toekomst verleend uit hoofde van de b
 
 5. Wanneer moeilijkheden of twijfelpunten die zijn gerezen met betrekking tot de uitlegging of toepassing van het Verdrag niet binnen een periode van twee jaar nadat de vraag is gerezen opgelost kunnen worden door de bevoegde autoriteiten van de verdragsluitende partijen in een procedure voor onderling overleg ingevolge de voorgaande leden van dit artikel, kan het geval op verzoek van een van de partijen, worden voorgelegd voor arbitrage, echter slechts nadat de procedures die beschikbaar zijn op grond van het eerste tot en met vierde lid van dit artikel volledig zijn uitgeput en mits de betrokken belastingplichtige of belastingplichtigen er schriftelijk mee instemt of instemmen te zijn gebonden door de beslissing van de arbitragecommissie. De beslissing van de arbitragecommissie in een bepaald geval is voor dat geval bindend voor beide partijen en de betrokken belastingplichtige of belastingplichtigen.
 
-#### Artikel 13. Uitbreiding tot andere gebieden
+##### Artikel 13. Uitbreiding tot andere gebieden
 
 1. Dit Verdrag kan, hetzij in zijn geheel, hetzij met de noodzakelijke wijzigingen, worden uitgebreid tot de Nederlandse Antillen en Aruba, of tot de Nederlandse Antillen of Aruba afzonderlijk, indien het desbetreffende land belastingen heft die in wezen gelijksoortig zijn aan de belastingen waarop het Verdrag van toepassing is. Een dergelijke uitbreiding wordt van kracht met ingang van een datum en met inachtneming van wijzigingen en voorwaarden, daaronder begrepen voorwaarden ten aanzien van de beëindiging, nader vast te stellen en overeen te komen bij diplomatieke notawisseling.
 
 2. Tenzij anders overeengekomen, brengt de beëindiging van het Verdrag niet met zich mede, dat tevens de uitbreiding van het Verdrag tot enig land waartoe het ingevolge dit artikel is uitgebreid, wordt beëindigd.
 
-#### Artikel 14. Inwerkingtreding
+##### Artikel 14. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking op de dertigste dag na de laatste dag waarop beide verdragsluitende partijen elkaar schriftelijk hebben medegedeeld dat aan de in hun onderscheiden partijen grondwettelijk vereiste formaliteiten is voldaan.
 
 2. Onverminderd het eerste lid van dit artikel, treedt het Verdrag uitsluitend in werking indien het Verdrag tussen het Koninkrijk der Nederlanden en Bermuda inzake de uitwisseling van informatie betreffende belastingzaken van kracht is voor zowel strafrechtelijke als civiele belastingzaken.
 
-#### Artikel 15. Beëindiging
+##### Artikel 15. Beëindiging
 
 1. Dit Verdrag blijft van kracht totdat het door een van beide partijen wordt beëindigd. Elk van de partijen kan het Verdrag langs diplomatieke weg beëindigen door ten minste zes maanden voor het einde van enig kalenderjaar na het verstrijken van een periode van drie jaar na de datum van inwerkingtreding van het Verdrag kennis te geven van de beëindiging. In dat geval houdt het Verdrag op van toepassing te zijn voor belastingjaren en -tijdvakken die aanvangen na het einde van het kalenderjaar waarin de kennisgeving van de beëindiging is gedaan.
 

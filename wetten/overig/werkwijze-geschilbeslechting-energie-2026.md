@@ -1,13 +1,38 @@
 ---
 title: "Werkwijze geschilbeslechting energie 2026"
 identifier: "BWBR0052180"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052180"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052180"
+soort: "zbo"
+stam_id: "17732743"
+version_id: "31292862"
+internal_id: "C44739681"
+label_id: "17631404"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052180/2026-01-01/0"
+intitule_bron: "Stcrt.2026-293"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-10-30"
+intitule_published: "2026-01-02"
+intitule_in_force: "2026-01-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-293"
+original_signed_date: "2025-10-30"
+original_published_date: "2026-01-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-293"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0052180&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0052180&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2025-10-30"
+entry_into_force: "2026-01-01"
 ---
-
 # Werkwijze geschilbeslechting energie 2026
 
 Gelet op [artikel 5.4 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=5.4) en [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=7) en [12w van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=12w);
@@ -18,7 +43,7 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ### afdeling Eerste. – algemeen
 
-#### Artikel 1. – Definities
+##### Artikel 1. – Definities
 
 In deze werkwijze wordt verstaan onder:
 
@@ -36,7 +61,7 @@ In deze werkwijze wordt verstaan onder:
 
 - g. **derde:** een natuurlijk persoon of rechtspersoon, niet zijnde de klager of systeembeheerder.
 
-#### Artikel 2. – Algemene bepaling
+##### Artikel 2. – Algemene bepaling
 
 1. De [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) is van toepassing op de termijnen die in deze werkwijze worden genoemd.
 
@@ -44,7 +69,7 @@ In deze werkwijze wordt verstaan onder:
 
 ### afdeling Tweede. – de klacht
 
-#### Artikel 3. – De klacht
+##### Artikel 3. – De klacht
 
 1. Voor het indienen van een klacht maakt de klager gebruik van het daarvoor door de ACM vastgestelde formulier.
 
@@ -60,11 +85,11 @@ In deze werkwijze wordt verstaan onder:
 
 5. De klager geeft bij het indienen van de klacht gemotiveerd aan of en zo ja, welke gegevens vertrouwelijk zijn jegens de systeembeheerder.
 
-#### Artikel 4. – Ontvangst van de klacht
+##### Artikel 4. – Ontvangst van de klacht
 
 De ACM zendt binnen vijf dagen na ontvangst van de klacht een ontvangstbevestiging aan de klager, onder vermelding van de dag van ontvangst.
 
-#### Artikel 5. – Herstel van verzuimen
+##### Artikel 5. – Herstel van verzuimen
 
 1. Indien de klager niet heeft voldaan aan een voorschrift voor het in behandeling nemen van de klacht of indien de door de klager verstrekte gegevens onvoldoende zijn voor de beoordeling van een klacht, stelt de ACM de aanvrager daarvan schriftelijk op de hoogte.
 
@@ -74,7 +99,7 @@ De ACM zendt binnen vijf dagen na ontvangst van de klacht een ontvangstbevestigi
 
 ### afdeling Derde. – de wijze van behandeling van de klacht
 
-#### Artikel 6. – Voegen en splitsen van klachten
+##### Artikel 6. – Voegen en splitsen van klachten
 
 1. De ACM kan een nieuwe klacht die betrekking heeft op een geschil dat reeds aanhangig is, voegen met de reeds ingediende klacht.
 
@@ -82,7 +107,7 @@ De ACM zendt binnen vijf dagen na ontvangst van de klacht een ontvangstbevestigi
 
 3. De ACM kan een klacht splitsen.
 
-#### Artikel 7. – Termijnen
+##### Artikel 7. – Termijnen
 
 1. De ACM beslist conform [artikel 5.4, tweede lid, van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=5.4) binnen twee dan wel vier maanden na ontvangst van de klacht, met dien verstande dat deze beslistermijn wordt verlengd met de periode dat de behandeling van de klacht is opgeschort voor het herstel van verzuimen.
 
@@ -92,7 +117,7 @@ De ACM zendt binnen vijf dagen na ontvangst van de klacht een ontvangstbevestigi
 
 4. Indien partijen aan de ACM meedelen dat zij zullen proberen onderling of via bemiddeling hun geschil op te lossen, wordt de beslistermijn met schriftelijke toestemming van de klager opgeschort vanaf het moment van deze mededeling aan de ACM tot het moment waarop één van de partijen aangeeft dat zij er niet in geslaagd zijn hun geschil onderling of via bemiddeling hun geschil op te lossen.
 
-#### Artikel 8. – Verschillende wijzen van behandelen van de klacht
+##### Artikel 8. – Verschillende wijzen van behandelen van de klacht
 
 1. De ACM behandelt een klacht in beginsel via de reguliere procedure als bedoeld in de [vierde afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0052180&afdeling=Vierde&z=2026-01-01&g=2026-01-01) van deze werkwijze.
 
@@ -102,7 +127,7 @@ De ACM zendt binnen vijf dagen na ontvangst van de klacht een ontvangstbevestigi
 
 4. Indien de ACM concludeert dat de klacht zich bij nader inzien niet leent voor verkorte behandeling of schriftelijke behandeling, dan kan zij bepalen dat de klacht verder wordt behandeld volgens de reguliere procedure. De ACM stelt partijen hiervan schriftelijk op de hoogte. Hierbij vermeldt de ACM ook wat de gevolgen zijn voor de procedure.
 
-#### Artikel 9. – Bekendmaking besluit
+##### Artikel 9. – Bekendmaking besluit
 
 1. De beslissing op de klacht wordt bekendgemaakt door toezending aan de klager.
 
@@ -110,7 +135,7 @@ De ACM zendt binnen vijf dagen na ontvangst van de klacht een ontvangstbevestigi
 
 ### afdeling Vierde. – de reguliere procedure
 
-#### Artikel 10. – Zienswijze systeembeheerder en medewerkingsplicht systeembeheerder
+##### Artikel 10. – Zienswijze systeembeheerder en medewerkingsplicht systeembeheerder
 
 1. Na ontvangst van de klacht zendt de ACM een afschrift van de klacht en van daarbij ingediende gegevens en bescheiden aan de systeembeheerder, voor zover er geen gegevens vertrouwelijk zijn jegens de systeembeheerder.
 
@@ -128,7 +153,7 @@ De ACM zendt binnen vijf dagen na ontvangst van de klacht een ontvangstbevestigi
 
 6. De systeembeheerder geeft gemotiveerd aan of en zo ja, welke gegevens vertrouwelijk zijn jegens de klager.
 
-#### Artikel 11. – Hoorzitting
+##### Artikel 11. – Hoorzitting
 
 1. De ACM stelt partijen in de gelegenheid hun standpunten mondeling nader toe te lichten tijdens een hoorzitting. Indien partijen willen afzien van de mogelijkheid om hun standpunten mondeling nader toe te lichten tijdens een hoorzitting, melden zij dit zo spoedig mogelijk aan de ACM.
 
@@ -154,7 +179,7 @@ De ACM zendt binnen vijf dagen na ontvangst van de klacht een ontvangstbevestigi
 
 - b. tijdens de hoorzitting anders is bepaald.
 
-#### Artikel 12. – Informatievergaring door de ACM
+##### Artikel 12. – Informatievergaring door de ACM
 
 1. Indien dit naar het oordeel van de ACM noodzakelijk is, kan de ACM deskundigen als derden betrekken bij de behandeling van een geschil. De ACM informeert partijen hieromtrent.
 
@@ -164,7 +189,7 @@ De ACM zendt binnen vijf dagen na ontvangst van de klacht een ontvangstbevestigi
 
 ### afdeling Vijfde. – bijzondere procedures
 
-#### Artikel 13. – Verkorte behandeling
+##### Artikel 13. – Verkorte behandeling
 
 1. De ACM kan op de klacht beslissen zonder dat de klager en/of de systeembeheerder in de gelegenheid zijn gesteld een zienswijze te geven, indien naar het oordeel van de ACM:
 
@@ -192,7 +217,7 @@ beslist de ACM zo spoedig mogelijk dienovereenkomstig.
 
 4. Indien de ACM op basis van de klacht en de zienswijze van de systeembeheerder concludeert dat de klacht gegrond moet worden verklaard, beslist de ACM dienovereenkomstig. In dat geval wordt niet nogmaals de klager benaderd zijn zienswijze te geven op de nader ingediende gegevens en bescheiden.
 
-#### Artikel 14. – Schriftelijke behandeling
+##### Artikel 14. – Schriftelijke behandeling
 
 1. Indien naar het oordeel van de ACM de rechtsvraag op grond van de klacht en de zienswijze van de systeembeheerder voldoende duidelijk is en naar de feiten geen of slechts beperkt onderzoek nodig is, kan de ACM besluiten tot een schriftelijke behandeling.
 
@@ -204,7 +229,7 @@ beslist de ACM zo spoedig mogelijk dienovereenkomstig.
 
 ### afdeling Zesde. – uitwisseling van informatie
 
-#### Artikel 15. – Schriftelijke uitwisseling
+##### Artikel 15. – Schriftelijke uitwisseling
 
 1. In correspondentie richten partijen zich tot de ACM, t.a.v. de Geschilcoördinator energie onder vermelding van het zaaknummer.
 
@@ -220,7 +245,7 @@ Dit is uitsluitend mogelijk per:
 
 - –. [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052180&afdeling=Vierde&artikel=11&z=2026-01-01&g=2026-01-01), van toepassing is.
 
-#### Artikel 16. – Vertrouwelijkheid
+##### Artikel 16. – Vertrouwelijkheid
 
 1. De klager, de systeembeheerder of een derde die gegevens of bescheiden indient, geeft bij indiening hiervan concreet en per document gemotiveerd aan welke onderdelen hij als (i) vertrouwelijk jegens een ieder en (ii) als vertrouwelijk jegens de andere partij of partijen beschouwt. De partij dient gemotiveerd de reden voor vertrouwelijke behandeling aan te geven.
 
@@ -232,7 +257,7 @@ Dit is uitsluitend mogelijk per:
 
 Indien deze voor de partijen bestemde versie niet tevens geschikt is voor openbaarmaking, dient dit te worden vermeld.
 
-#### Artikel 17. – Beoordeling vertrouwelijkheid
+##### Artikel 17. – Beoordeling vertrouwelijkheid
 
 1. De beoordeling door de ACM of gegevens en bescheiden vertrouwelijk zijn, geschiedt op basis van de Wet open overheid.
 
@@ -242,16 +267,16 @@ Indien deze voor de partijen bestemde versie niet tevens geschikt is voor openba
 
 ### afdeling Zevende. – slotbepalingen
 
-#### Artikel 18. – Citeertitel
+##### Artikel 18. – Citeertitel
 
 Dit besluit wordt aangehaald als: Werkwijze geschilbeslechting energie 2026.
 
-#### Artikel 19. – Inwerkingtreding en intrekking
+##### Artikel 19. – Inwerkingtreding en intrekking
 
 1. De Werkwijze geschilbeslechting energie 2026 treedt in werking met ingang van 1 januari 2026.
 
 2. Op de datum van inwerkingtreding wordt de ‘[Werkwijze geschilbeslechting energie](https://wetten.overheid.nl/jci1.3:c:BWBR0033415)’ van 1 april 2013 ingetrokken.
 
-#### Artikel 20. – Overgangsrecht
+##### Artikel 20. – Overgangsrecht
 
 Op de klachten ingediend vóór inwerkingtreding van de Werkwijze geschilbeslechting energie 2026 blijft de voorheen geldende [Werkwijze geschilbeslechting energie](https://wetten.overheid.nl/jci1.3:c:BWBR0033415) van toepassing.

@@ -1,18 +1,44 @@
 ---
-title: "Regeling beoordelingscommissie late zwangerschapsafbreking en levensbeëindiging bij pasgeborenen en kinderen 1–12 jaar"
+title: "Regeling van de Minister van Veiligheid en Justitie en de Minister van Volksgezondheid, Welzijn en Sport van 11 december 2015, kenmerk 885614-145412-PG, houdende instelling van een commissie voor de beoordeling van gemelde gevallen van late zwangerschapsafbreking en levensbeëindiging bij pasgeborenen (Regeling beoordelingscommissie late zwangerschapsafbreking en levensbeëindiging bij pasgeborenen)"
 identifier: "BWBR0037570"
-categorie: "Overig"
-publicatiedatum: 2024-02-01
-laatste_update: 2024-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037570"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-02-01"
+last_updated: "2024-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037570"
+soort: "ministeriele-regeling"
+stam_id: "13403803"
+version_id: "22996262"
+internal_id: "C33242521"
+label_id: "13371474"
+dtd_version: "2.0"
+original_entry_into_force: "2016-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037570/2024-02-01/0"
+intitule_bron: "Stcrt.2016-3145"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-12-11"
+intitule_published: "2016-01-26"
+intitule_in_force: "2016-01-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-3145"
+original_signed_date: "2015-12-11"
+original_published_date: "2016-01-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-3145"
+entry_into_force_date: "2016-02-01"
+jci_1_3: "jci1.3:c:BWBR0037570&z=2024-02-01&g=2024-02-01"
+jci_1_0: "1.0:c:BWBR0037570&g=2024-02-01"
+citeertitel_status: "officieel"
+short_title: "Regeling beoordelingscommissie late zwangerschapsafbreking en levensbeëindiging bij pasgeborenen en kinderen 1–12 jaar"
+signed_date: "2015-12-11"
+entry_into_force: "2016-02-01"
 ---
-
 # Regeling van de Minister van Veiligheid en Justitie en de Minister van Volksgezondheid, Welzijn en Sport van 11 december 2015, kenmerk 885614-145412-PG, houdende instelling van een commissie voor de beoordeling van gemelde gevallen van late zwangerschapsafbreking en levensbeëindiging bij pasgeborenen (Regeling beoordelingscommissie late zwangerschapsafbreking en levensbeëindiging bij pasgeborenen)
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -36,7 +62,7 @@ In deze regeling wordt verstaan onder:
 
 - j. **de Ministers:** de Minister van Volksgezondheid, Welzijn en Sport in overeenstemming met de Minister van Justitie en Veiligheid.
 
-#### Artikel 2
+##### Artikel 2
 
 Er is een beoordelingscommissie die tot taak heeft:
 
@@ -44,7 +70,7 @@ Er is een beoordelingscommissie die tot taak heeft:
 
 - b. het op verzoek van het College beoordelen van de zorgvuldigheid van het handelen van de arts die een levensbeëindiging bij een kind heeft uitgevoerd, en het ter kennis brengen van haar oordeel aan het College en, indien het oordeel luidt dat onzorgvuldig is gehandeld, aan het College en de inspectie.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De beoordelingscommissie bestaat uit vier artsen, afkomstig uit ter zake doende disciplines, één strafrechtjurist, tevens voorzitter en één deskundige inzake ethische of zingevingvraagstukken. Van de beoordelingscommissie maken tevens deel uit de plaatsvervangende leden van elk van de in de eerste volzin bedoelde leden.
 
@@ -54,7 +80,7 @@ Er is een beoordelingscommissie die tot taak heeft:
 
 4. De beoordelingscommissie heeft een secretaris en een of meer plaatsvervangend secretarissen, allen rechtsgeleerden, die door de Ministers worden aangewezen. De aanwijzing eindigt van rechtswege met ingang van de datum dat de uitoefening van de functie van secretaris of plaatsvervangend secretaris geen onderdeel meer uitmaakt van de werkzaamheden van de betreffende ambtenaar.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De beoordelingscommissie stelt een reglement vast, waarin in ieder geval wordt geregeld:
 
@@ -80,11 +106,11 @@ Er is een beoordelingscommissie die tot taak heeft:
 
 2. Het reglement wordt ter goedkeuring overgelegd aan de Ministers.
 
-#### Artikel 5
+##### Artikel 5
 
 Binnen drie maanden nadat de late zwangerschapsafbreking of levensbeëindiging bij een pasgeborene of een kind heeft plaatsgevonden, meldt de arts dit bij de beoordelingscommissie.
 
-#### Artikel 6
+##### Artikel 6
 
 In het geval van late zwangerschapsafbreking heeft de arts zorgvuldig gehandeld, indien:
 
@@ -100,7 +126,7 @@ In het geval van late zwangerschapsafbreking heeft de arts zorgvuldig gehandeld,
 
 - f. de afbreking van de zwangerschap medisch zorgvuldig is uitgevoerd.
 
-#### Artikel 7
+##### Artikel 7
 
 In het geval van levensbeëindiging bij een pasgeborene heeft de arts zorgvuldig gehandeld, indien:
 
@@ -114,19 +140,19 @@ In het geval van levensbeëindiging bij een pasgeborene heeft de arts zorgvuldig
 
 - e. de levensbeëindiging medisch zorgvuldig is uitgevoerd.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling wordt tenminste elke vijf jaar geëvalueerd. De Ministers zenden de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze regeling in de praktijk.
 
-#### Artikel 9
+##### Artikel 9
 
 De [Regeling centrale deskundigencommissie late zwangerschapsafbreking in een categorie 2-geval en levensbeëindiging bij pasgeborenen](https://wetten.overheid.nl/jci1.3:c:BWBR0021481) (**Stcrt**. 2007, 51) wordt ingetrokken.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling treedt in werking met ingang van 1 februari 2016.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze regeling wordt aangehaald als: Regeling beoordelingscommissie late zwangerschapsafbreking en levensbeëindiging bij pasgeborenen en kinderen 1–12 jaar.
 

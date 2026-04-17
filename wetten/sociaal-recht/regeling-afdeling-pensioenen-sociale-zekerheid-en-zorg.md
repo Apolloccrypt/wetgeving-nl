@@ -1,13 +1,39 @@
 ---
-title: "Regeling Afdeling Pensioenen, Sociale Zekerheid en Zorg"
+title: "Ministeriële regeling van 27 juni 2008, Afdeling Pensioenen, Sociale Zekerheid en Zorg, nr. P/2008011730"
 identifier: "BWBR0026218"
-categorie: "Sociaal recht"
-publicatiedatum: 2012-02-10
-laatste_update: 2012-02-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026218"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2012-02-10"
+last_updated: "2012-02-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026218"
+soort: "ministeriele-regeling"
+stam_id: "10148963"
+version_id: "19260202"
+internal_id: "C26871961"
+label_id: "10125094"
+dtd_version: "2.0"
+original_entry_into_force: "2012-02-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026218/2012-02-10/0"
+intitule_bron: "Stcrt.2009-11661"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-06-27"
+intitule_published: "2009-08-05"
+intitule_in_force: "2009-08-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-3183"
+original_signed_date: "2012-02-10"
+original_published_date: "2012-02-21"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2012-3183"
+entry_into_force_date: "2012-02-10"
+jci_1_3: "jci1.3:c:BWBR0026218&z=2012-02-10&g=2012-02-10"
+jci_1_0: "1.0:c:BWBR0026218&g=2012-02-10"
+citeertitel_status: "redactioneel"
+short_title: "Regeling Afdeling Pensioenen, Sociale Zekerheid en Zorg"
+signed_date: "2012-02-10"
+entry_into_force: "2012-02-10"
 ---
-
 # Ministeriële regeling van 27 juni 2008, Afdeling Pensioenen, Sociale Zekerheid en Zorg, nr. P/2008011730
 
 Gelet op [artikel 2, zesde lid, van de Kaderwet militaire pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0011955&artikel=2) en op [artikel 13, tweede lid van het Besluit procedure geneeskundig onderzoek blijvende dienstongeschiktheid en pensioenkeuring militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0008475&artikel=13);
@@ -16,7 +42,7 @@ Besluit:
 
 De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
-#### Artikel 1
+##### Artikel 1
 
 Bij de vaststelling van de mate van invaliditeit met dienstverband als bedoeld in de bij of krachtens de [Kaderwet militaire pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0011955) vastgestelde bepalingen worden ter nadere invulling van de War Pensions Committee-schaal (WPC-schaal) de volgende protocollen en richtlijn gehanteerd:
 
@@ -28,7 +54,7 @@ Bij de vaststelling van de mate van invaliditeit met dienstverband als bedoeld i
 
 - d. de richtlijn Medische eindtoestand / Duurzame functionele invaliditeit, gevoegd als [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026218&bijlage=4&z=2012-02-10&g=2012-02-10).
 
-#### Artikel 2
+##### Artikel 2
 
 1. De vaststelling van de mate van invaliditeit bij verzoeken ingediend voor de inwerkingtreding van deze regeling geschiedt aan de hand van de WPC-schaal.
 
@@ -38,7 +64,7 @@ Bij de vaststelling van de mate van invaliditeit met dienstverband als bedoeld i
 
 4. Het gestelde in het derde lid blijft buiten toepassing indien sprake is van een eerste keuring en een of meerdere herkeuringen voor 1 juli 2008 en na die datum nog sprake is van een voorlopig vastgesteld invaliditeitspercentage en het invaliditeitspercentage binnen een relatieve bandbreedte van 20 procent stabiel is. In die situatie wordt op het moment van herkeuring na 1 juli 2008 het voorlopig vastgesteld invaliditeitspercentage omgezet in een definitief invaliditeitspercentage.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling treedt op 1 juli 2008 in werking.
 

@@ -1,13 +1,37 @@
 ---
 title: "Regeling openbaarheid van bestuur, Landbouw, Natuurbeheer en Visserij"
 identifier: "BWBR0005754"
-categorie: "Bestuursrecht"
-publicatiedatum: 1992-12-12
-laatste_update: 1992-12-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005754"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1992-12-12"
+last_updated: "1992-12-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005754"
+soort: "ministeriele-regeling"
+stam_id: "4015253"
+version_id: "5778412"
+internal_id: "C5981151"
+label_id: "3995344"
+dtd_version: "2.0"
+original_entry_into_force: "1992-12-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005754/1992-12-12/0"
+intitule_bron: "Stcrt.1992-241"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-12-09"
+intitule_published: "1992-12-11"
+intitule_in_force: "1992-12-11"
+intitule_status: "goed"
+original_publication: "Stcrt.1992-241"
+original_signed_date: "1992-12-09"
+original_published_date: "1992-12-11"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1992-12-12"
+jci_1_3: "jci1.3:c:BWBR0005754&z=1992-12-12&g=1992-12-12"
+jci_1_0: "1.0:c:BWBR0005754&g=1992-12-12"
+citeertitel_status: "officieel"
+signed_date: "1992-12-09"
+entry_into_force: "1992-12-12"
 ---
-
 # Regeling openbaarheid van bestuur, Landbouw, Natuurbeheer en Visserij
 
 Overwegende dat de toepassing van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252) (Stb. 1991, 703) aanleiding geeft tot het vaststellen van een regeling ter uitvoering van die wet met betrekking tot het beleidsterrein van de Minister van Landbouw, Natuurbeheer en Visserij;
@@ -18,11 +42,11 @@ Besluit:
 
 #### Hoofdstuk I. Definities
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een register waarin worden opgenomen:
 
@@ -36,11 +60,11 @@ In deze regeling wordt verstaan onder
 
 4. Met het bijhouden van het register is belast de Directie Voorlichting en Externe Betrekkingen.
 
-#### Artikel 3
+##### Artikel 3
 
 Als gemachtigd ambtenaar wordt aangewezen de secretaris-generaal.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De informatiepunten voor de in het register vermelde instellingen, diensten en bedrijven worden aangewezen door de leiding daarvan.
 
@@ -48,13 +72,13 @@ Als gemachtigd ambtenaar wordt aangewezen de secretaris-generaal.
 
 #### Hoofdstuk II. Informatie op verzoek
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het behandelen van verzoeken om informatie en vragen daaromtrent geschiedt door de dienstonderdelen die met de voorlichting zijn belast, voor zover het niet door de minister zelf geschiedt, of door hen in bepaalde gevallen aan anderen is opgedragen.
 
 2. Het in het eerste lid gestelde doet geen afbreuk aan de uit de normale taakuitoefening voortvloeiende plicht van de ambtenaar om aan particuliere personen en instanties met wie hij door zijn functie in contact komt, informatie op verzoek te verschaffen over de daarbij aan de orde zijnde aangelegenheden.
 
-#### Artikel 6
+##### Artikel 6
 
 De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005754&hoofdstuk=II&artikel=5&z=1992-12-12&g=1992-12-12) bedoelde dienstonderdelen en ambtenaren leiden een verzoek om informatie ter beslissing door naar de gemachtigd ambtenaar indien zij:
 
@@ -64,11 +88,11 @@ De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005754&hoofdstuk=II&a
 
 - c. weten of redelijkerwijs kunnen vermoeden dat inwilliging of weigering van een verzoek om informatie belangrijke maatschappelijke of politieke gevolgen kan hebben.
 
-#### Artikel 7
+##### Artikel 7
 
 De gemachtigd ambtenaar legt een verzoek om informatie aan de minister voor indien inwilliging of afwijzing daarvan belangrijke maatschappelijke of politieke gevolgen kan hebben.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Als het document waarin de gevraagde gegevens zijn neergelegd berust onder de minister, maar het betrokken document tot stand is gekomen onder (eerste) verantwoordelijkheid van een andere minister, wordt de beslissing op het verzoek om informatie niet genomen nadat met de andere minister is overlegt.
 
@@ -76,30 +100,30 @@ De gemachtigd ambtenaar legt een verzoek om informatie aan de minister voor indi
 
 #### Hoofdstuk III. Informatie uit eigener beweging
 
-#### Artikel 9
+##### Artikel 9
 
 Over openbaarmaking van adviezen van ambtelijke dan wel gemengd samengestelde adviescommissies werkzaam onder verantwoordelijkheid van de minister, beslist de minister onverminderd het bepaalde in artikel 4, tweede lid, onder g, van het Reglement van Orde voor de Raad van Ministers (Stb. 1979, 246).
 
-#### Artikel 10
+##### Artikel 10
 
 De openbaarmaking van adviezen van niet-ambtelijke adviescommissies en het doen van mededeling daarvan in de Staatscourant geschieden door de zorg van de minister.
 
-#### Artikel 11
+##### Artikel 11
 
 Adviezen, nota's en rapporten die gezien hun omvang daarvoor in aanmerking komen, worden eventueel voorzien van een tevens voor openbaarmaking bestemde samenvatting.
 
 #### Hoofdstuk IV. Slotbepalingen
 
-#### Artikel 12
+##### Artikel 12
 
 De Beschikking Openbaarheid Bestuur, Landbouw en Visserij, van 11 april 1980, No. J. 1497 (Stcrt. 1980, 79), wordt ingetrokken.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Deze regeling treedt in werking met ingang van de dag na die van haar bekendmaking in de Staatscourant.
 
 2. Van de bekendmaking in de Staatscourant zal afschrift worden gezonden aan de Minister-President.
 
-#### Artikel 14
+##### Artikel 14
 
 Deze regeling kan worden aangehaald als: Regeling openbaarheid van bestuur, Landbouw, Natuurbeheer en Visserij.

@@ -1,24 +1,50 @@
 ---
-title: "Regeling instelling adviescommissie Toekomst zorg thuiswonende ouderen"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport en de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 14 november 2018, kenmerk 1437102-183156-WJZ, houdende de instelling van de adviescommissie Toekomst zorg thuiswonende ouderen (Regeling instelling adviescommissie Toekomst zorg thuiswonende ouderen)"
 identifier: "BWBR0041565"
-categorie: "Sociaal recht"
-publicatiedatum: 2018-11-23
-laatste_update: 2018-11-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041565"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2018-11-23"
+last_updated: "2018-11-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041565"
+soort: "ministeriele-regeling"
+stam_id: "14861893"
+version_id: "25426142"
+internal_id: "C36296621"
+label_id: "14813304"
+dtd_version: "2.0"
+original_entry_into_force: "2018-11-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041565/2018-11-23/0"
+intitule_bron: "Stcrt.2018-65546"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-11-14"
+intitule_published: "2018-11-22"
+intitule_in_force: "2018-11-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-65546"
+original_signed_date: "2018-11-14"
+original_published_date: "2018-11-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-65546"
+entry_into_force_date: "2018-11-23"
+jci_1_3: "jci1.3:c:BWBR0041565&z=2018-11-23&g=2018-11-23"
+jci_1_0: "1.0:c:BWBR0041565&g=2018-11-23"
+citeertitel_status: "officieel"
+short_title: "Regeling instelling adviescommissie Toekomst zorg thuiswonende ouderen"
+signed_date: "2018-11-14"
+entry_into_force: "2018-11-23"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport en de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 14 november 2018, kenmerk 1437102-183156-WJZ, houdende de instelling van de adviescommissie Toekomst zorg thuiswonende ouderen (Regeling instelling adviescommissie Toekomst zorg thuiswonende ouderen)
 
 Gelet op [artikel 6 van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=6);
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 Er is een adviescommissie Toekomst zorg thuiswonende ouderen, hierna te noemen de commissie.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De commissie heeft tot taak onderzoek te doen naar en een advies uit te brengen over wat er nodig is om de zorg voor thuiswonende ouderen ook in de toekomst op peil te houden, rekening houdend met de demografische, maatschappelijke en technologische ontwikkelingen en de betaalbaarheid van de zorg.
 
@@ -36,7 +62,7 @@ Er is een adviescommissie Toekomst zorg thuiswonende ouderen, hierna te noemen d
 
 - f. Wat is een langetermijnoplossing voor de zorgval van mensen bij de overgang van de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) en [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) naar de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917)?
 
-#### Artikel 3
+##### Artikel 3
 
 1. De commissie bestaat uit maximaal 9 leden en een voorzitter.
 
@@ -44,13 +70,13 @@ Er is een adviescommissie Toekomst zorg thuiswonende ouderen, hierna te noemen d
 
 3. De voorzitter en overige leden kunnen worden geschorst en ontslagen door de Minister van Volksgezondheid, Welzijn en Sport.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De commissie brengt haar advies uit vóór 31 december 2019 aan de Minister van Volksgezondheid, Welzijn en Sport. Deze minister kan deze termijn verlengen.
 
 2. Na het uitbrengen van het advies is de commissie opgeheven.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De kosten van de commissie komen, voor zover goedgekeurd, voor rekening van de Minister van Volksgezondheid, Welzijn en Sport. Onder kosten worden in ieder geval verstaan:
 
@@ -64,11 +90,11 @@ Er is een adviescommissie Toekomst zorg thuiswonende ouderen, hierna te noemen d
 
 3. Het beheer van de bescheiden betreffende de werkzaamheden van de commissie geschiedt op overeenkomstige wijze als bij het ministerie van Volksgezondheid, Welzijn en Sport. De archiefbescheiden van de adviescommissie worden na haar opheffing of, zo de omstandigheden daartoe eerder aanleiding geven, zoveel eerder, overgebracht naar het archief van het ministerie van Volksgezondheid, Welzijn en Sport.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 juli 2020.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling wordt aangehaald als: Regeling instelling adviescommissie Toekomst zorg thuiswonende ouderen.
 

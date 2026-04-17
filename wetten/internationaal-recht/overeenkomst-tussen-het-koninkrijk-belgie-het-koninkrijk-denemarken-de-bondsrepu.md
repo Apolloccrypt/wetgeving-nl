@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, Ierland, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, de Europese Gemeenschap voor Atoomenergie en de Internationale Organisatie voor Atoomenergie ter uitvoering van artikel III, eerste en vierde lid, van het Verdrag inzake de niet-verspreiding van kernwapens"
 identifier: "BWBV0003673"
-categorie: "Internationaal recht"
-publicatiedatum: 1977-02-21
-laatste_update: 1977-02-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003673"
+country: "nl"
+rank: "verdrag"
+publication_date: "1977-02-21"
+last_updated: "1977-02-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003673"
+soort: "verdrag"
+stam_id: "10003639973"
+version_id: "10003703252"
+internal_id: "C10006999941"
+label_id: "10003628444"
+dtd_version: "2.0"
+original_entry_into_force: "1977-02-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003673/1977-02-21/0"
+intitule_bron: "Trb.1973-97"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1973-07-19"
+intitule_in_force: "1977-08-11"
+intitule_status: "goed"
+original_publication: "Trb.1973-97"
+original_published_date: "1973-07-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1973-97"
+entry_into_force_date: "1977-02-21"
+jci_1_3: "jci1.3:c:BWBV0003673&z=1977-02-21&g=1977-02-21"
+jci_1_0: "1.0:c:BWBV0003673&g=1977-02-21"
+citeertitel_status: "redactioneel"
+entry_into_force: "1977-02-21"
 ---
-
 # Overeenkomst tussen het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, Ierland, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, de Europese Gemeenschap voor Atoomenergie en de Internationale Organisatie voor Atoomenergie ter uitvoering van artikel III, eerste en vierde lid, van het Verdrag inzake de niet-verspreiding van kernwapens
 
 Overwegende dat het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, Ierland, de Italiaanse Republiek, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, hierna te noemen „de Staten”, het Verdrag inzake de niet-verspreiding van kernwapens, hierna te noemen „het Verdrag”, dat op 1 juli 1968 te Londen, Moskou en Washington voor ondertekening is opengesteld en op 5 maart 1970 van kracht is geworden, hebben ondertekend;
@@ -48,17 +70,17 @@ Zijn de Organisatie, de Gemeenschap en de Staten als volgt overeengekomen:
 
 #### Fundamentele verplichtingen
 
-#### Artikel 1
+##### Artikel 1
 
 Op grond van artikel III, eerste lid, van het Verdrag verbinden de Staten zich tot aanvaarding van waarborgen overeenkomstig het gestelde in deze Overeenkomst, ten aanzien van alle basismaterialen en bijzondere splijtstoffen bij alle vreedzame nucleaire activiteiten op hun grondgebied, onder hun jurisdictie of te eniger plaatse onder hun beschikkingsmacht verricht, met het uitsluitend doel om na te gaan of dergelijk materiaal niet wordt gebruikt voor de vervaardiging van kernwapens of andere nucleaire explosiemiddelen.
 
 #### Toepassing van waarborgen
 
-#### Artikel 2
+##### Artikel 2
 
 De Organisatie heeft het recht en de plicht om te verzekeren dat waarborgen worden toegepast overeenkomstig het bepaalde in deze Overeenkomst ten aanzien van alle basismaterialen of bijzondere splijtstoffen bij alle vreedzame nucleaire activiteiten op de grondgebieden van de Staten, onder hun jurisdictie of te eniger plaatse onder hun beschikkingsmacht verricht, met het uitsluitend doel om na te gaan of dergelijk materiaal niet wordt gebruikt voor de vervaardiging van kernwapens of andere nucleaire explosiemiddelen.
 
-#### Artikel 3
+##### Artikel 3
 
 a). Bij de toepassing van haar waarborgen op basismaterialen en bijzondere splijtstoffen voor alle vreedzame nucleaire activiteiten op de grondgebieden van de Staten verbindt de Gemeenschap zich ertoe, overeenkomstig het bepaalde in deze Overeenkomst, met de Organisatie samen te werken ten einde zich er van te vergewissen, dat dergelijke basismaterialen en bijzondere splijtstoffen niet worden gebruikt voor de vervaardiging van kernwapens of andere nucleaire explosiemiddelen.
 
@@ -66,13 +88,13 @@ b). De Organisatie past haar waarborgen overeenkomstig het bepaalde in deze Over
 
 #### Samenwerking tussen de Organisatie, de Gemeenschap en de Staten
 
-#### Artikel 4
+##### Artikel 4
 
 De Organisatie, de Gemeenschap en de Staten werken, voor zover het een der Partijen betreft, samen om de toepassing van de in deze Overeenkomst neergelegde waarborgen te vergemakkelijken; zij vermijden onnodige doublures bij het toepassen van de waarborgen.
 
 #### Toepassing van waarborgen
 
-#### Artikel 5
+##### Artikel 5
 
 De in deze Overeenkomst neergelegde waarborgen worden op zodanige wijze toegepast dat:
 
@@ -82,7 +104,7 @@ De in deze Overeenkomst neergelegde waarborgen worden op zodanige wijze toegepas
 
 - c). wordt beantwoord aan een oordeelkundige bedrijfsvoering, vereist voor een economisch verantwoorde en veilige uitvoering van nucleaire activiteiten.
 
-#### Artikel 6
+##### Artikel 6
 
 a). De Organisatie treft alle voorzorgsmaatregelen ter bescherming van commerciële en industriële geheimen en andere vertrouwelijke gegevens, waarvan zij in het kader van de uitvoering van deze Overeenkomst kennis verkrijgt.
 
@@ -90,7 +112,7 @@ a). De Organisatie treft alle voorzorgsmaatregelen ter bescherming van commerci�
 
 - ii). Beknopte gegevens over kernmateriaal dat aan de waarborgen van deze Overeenkomst is onderworpen, mogen ingevolge een besluit van de Raad worden gepubliceerd, indien de rechtstreeks betrokken Staten of de Gemeenschap, voor zover het een der Partijen afzonderlijk betreft, hiermede instemmen.
 
-#### Artikel 7
+##### Artikel 7
 
 a). Bij de toepassing van waarborgen krachtens deze Overeenkomst wordt volledig rekening gehouden met de technologische ontwikkeling op het gebied van waarborgen en worden alle maatregelen getroffen voor het bereiken van een optimale verhouding tussen kosten en doeltreffendheid en voor de toepassing van het principe dat de stroom kernmateriaal dat aan waarborgen van deze Overeenkomst is onderworpen, op doeltreffende wijze wordt gewaarborgd door op bepaalde strategische punten instrumenten en andere technieken te gebruiken naar gelang de huidige of toekomstige technologie zulks mogelijk maakt.
 
@@ -104,7 +126,7 @@ b). Ter bereiking van een optimale verhouding tussen kosten en doeltreffendheid 
 
 #### Verstrekking van gegevens aan de Organisatie
 
-#### Artikel 8
+##### Artikel 8
 
 a). Ten einde een doeltreffende toepassing van de waarborgen krachtens deze Overeenkomst te verzekeren, verstrekt de Gemeenschap, overeenkomstig het bepaalde in deze Overeenkomst, de Organisatie gegevens over kernmateriaal dat aan waarborgen krachtens deze Overeenkomst is onderworpen, en over die kenmerken van de installaties die van belang zijn voor het toepassen van waarborgen op dergelijk materiaal.
 
@@ -116,7 +138,7 @@ c). Indien de Gemeenschap zulks verzoekt, is de Organisatie bereid in gebouwen v
 
 #### Inspecteurs van de Organisatie
 
-#### Artikel 9
+##### Artikel 9
 
 - i). Bij de aanwijzing van haar inspecteurs voor de Staten verzekert de Organisatie zich van de goedkeuring van de Gemeenschap en de Staten.
 
@@ -134,31 +156,31 @@ c). De bezoeken en werkzaamheden van de inspecteurs van de Organisatie worden zo
 
 #### Voorrechten en immuniteiten
 
-#### Artikel 10
+##### Artikel 10
 
 Elke Staat past ten aanzien van de Organisatie (met inbegrip van haar eigendommen, fondsen en bezittingen) alsmede haar inspecteurs en andere ambtenaren die krachtens deze Overeenkomst functies uitoefenen, de desbetreffende bepalingen uit de Overeenkomst inzake de voorrechten en immuniteiten van de Internationale Organisatie voor Atoomenergie toe.
 
 #### Verbruik of verdunning van kernmateriaal
 
-#### Artikel 11
+##### Artikel 11
 
 De waarborgen krachtens deze Overeenkomst worden niet langer toegepast op kernmateriaal, zodra de Gemeenschap en de Organisatie hebben vastgesteld, dat het materiaal is verbruikt, zodanig is verdund dat het niet meer kan worden gebruikt voor enige nucleaire activiteit die in verband met de toepassing van waarborgen van belang is, dan wel praktisch niet meer terug te winnen is.
 
 #### Uitvoer van kernmateriaal uit de Staten
 
-#### Artikel 12
+##### Artikel 12
 
 Overeenkomstig het bepaalde in deze Overeenkomst doet de Gemeenschap de Organisatie mededeling van uitvoer uit de Staten van kernmateriaal dat aan waarborgen krachtens deze Overeenkomst is onderworpen. De waarborgen krachtens deze Overeenkomst worden niet langer toegepast op kernmateriaal zodra de ontvangende Staat de verantwoordelijkheid daarvoor heeft aanvaard, zoals voorzien in deze Overeenkomst. De Organisatie houdt lijsten bij waarop iedere uitvoer wordt vermeld, en, in voorkomend geval, de hernieuwde toepassing van waarborgen op het uitgevoerde kernmateriaal.
 
 #### Bepalingen betreffende kernmateriaal dat voor niet-nucleaire activiteiten wordt gebruikt
 
-#### Artikel 13
+##### Artikel 13
 
 Indien kernmateriaal dat aan waarborgen krachtens deze Overeenkomst is onderworpen, bestemd is voor gebruik in niet-nucleaire activiteiten, zoals de vervaardiging van legeringen of keramiek, komt de Gemeenschap, alvorens dit materiaal voor dit doel wordt gebruikt, met de Organisatie overeen onder welke voorwaarden de toepassing van waarborgen krachtens deze Overeenkomst voor dergelijk materiaal kan worden beëindigd.
 
 #### Niet-toepassing van waarborgen op kernmateriaal dat voor niet-vreedzame activiteiten wordt aangewend
 
-#### Artikel 14
+##### Artikel 14
 
 Indien een Staat van zijn recht gebruik wenst te maken kernmateriaal dat aan waarborgen krachtens deze Overeenkomst onderworpen dient te zijn, te gebruiken voor nucleaire activiteiten waarvoor de toepassing van waarborgen krachtens deze Overeenkomst niet is vereist, worden de volgende procedures gevolgd:
 
@@ -174,49 +196,49 @@ Indien een Staat van zijn recht gebruik wenst te maken kernmateriaal dat aan waa
 
 #### Financiën
 
-#### Artikel 15
+##### Artikel 15
 
 De Organisatie, de Gemeenschap en de Staten dragen elk de kosten die zij zelf bij de uitvoering van hun respectieve taken krachtens deze Overeenkomst hebben gemaakt. Indien echter de Gemeenschap, de Staten of personen onder hun rechtsmacht voor buitengewone kosten komen te staan ingevolge een speciaal verzoek van de Organisatie, vergoedt deze laatste dergelijke kosten op voorwaarde dat zij zich daartoe tevoren bereid heeft verklaard. In ieder geval draagt de Organisatie de kosten van aanvullende metingen of monsternemingen, verricht op verzoek van inspecteurs van de Organisatie.
 
 #### Wettelijke aansprakelijkheid voor nucleaire schade
 
-#### Artikel 16
+##### Artikel 16
 
 De Gemeenschap en de Staten dragen er zorg voor dat de Organisatie en haar ambtenaren bij de uitvoering van deze Overeenkomst op dezelfde wijze als de onderdanen van de Staten worden beschermd tegen wettelijke aansprakelijkheid voor nucleaire schade, met inbegrip van enige vorm van verzekering of andere financiële zekerheid zoals in hun wettelijke of bestuursrechtelijke voorschriften mocht zijn bepaald.
 
 #### Internationale aansprakelijkheid
 
-#### Artikel 17
+##### Artikel 17
 
 Elke eis tot schadevergoeding van de Gemeenschap of een Staat jegens de Organisatie of van de Organisatie jegens de Gemeenschap of een Staat wegens enige schade die voortvloeit uit de uitvoering van waarborgen krachtens deze Overeenkomst, met uitzondering van schade die voortvloeit uit een kernongeval, wordt volgens het internationale recht afgewikkeld.
 
 #### Maatregelen ter verificatie dat kernmateriaal niet wordt aangewend voor kernwapens of andere nucleaire explosiemiddelen
 
-#### Artikel 18
+##### Artikel 18
 
 Indien de Raad op grond van een rapport van de Directeur-Generaal besluit dat handelend optreden door de Gemeenschap of een Staat, voorzover een der Partijen afzonderlijk is betrokken, absoluut noodzakelijk en dringend is ten einde vast te stellen of kernmateriaal dat aan waarborgen krachtens deze Overeenkomst is onderworpen, niet wordt aangewend voor de vervaardiging van kernwapens of andere nucleaire explosiemiddelen, kan de Raad een beroep doen op de Gemeenschap of die Staat om onverwijld de nodige stappen te doen, zulks ongeacht het feit of ter zake een procedure tot bijlegging van het geschil, als bedoeld in artikel 22, aanhangig is gemaakt.
 
-#### Artikel 19
+##### Artikel 19
 
 Indien de Raad, na bestudering van de desbetreffende gegevens welke hem door de Directeur-Generaal zijn voorgelegd, concludeert dat de Organisatie niet in staat is om na te gaan of geen kernmateriaal dat aan waarborgen krachtens deze Overeenkomst is onderworpen, is aangewend voor de vervaardiging van kernwapens of andere nucleaire explosiemiddelen, kan hij de rapporten, bedoeld in Artikel XII, C, van het Statuut opstellen en, in voorkomend geval, de overige maatregelen bedoeld in genoemd lid C treffen. Hierbij houdt de Raad rekening met de mate van zekerheid die uit de toegepaste waarborgen kan worden afgeleid, en biedt de Gemeenschap of de Staat, voor zover één der Partijen afzonderlijk is betrokken, elke redelijke gelegenheid om hem de nodige verdere zekerheid te verschaffen.
 
 #### Uitlegging en toepassing van de Overeenkomst en regeling van geschillen
 
-#### Artikel 20
+##### Artikel 20
 
 Op verzoek van de Organisatie, de Gemeenschap of een Staat wordt overleg gepleegd over elk vraagstuk voortvloeiende uit de uitlegging of de toepassing van deze Overeenkomst.
 
-#### Artikel 21
+##### Artikel 21
 
 De Gemeenschap en de Staten zijn gerechtigd te verlangen dat elk vraagstuk voortvloeiende uit de uitlegging of de toepassing van deze Overeenkomst door de Raad wordt behandeld. De Raad nodigt de Gemeenschap en de betrokken Staat uit aan de behandeling van dergelijke vraagstukken door de Raad deel te nemen.
 
-#### Artikel 22
+##### Artikel 22
 
 Elk geschil voortvloeiende uit de uitlegging of de toepassing van deze Overeenkomst, met uitzondering van een geschil over een bevinding van de Raad krachtens artikel 19 of een door de Raad verrichte handeling naar aanleiding van een dergelijke bevinding, dat niet door onderhandeling of enige andere door de Organisatie, de Gemeenschap en de Staten overeengekomen procedure is geregeld, wordt op verzoek van een der Partijen voorgelegd aan een scheidsgerecht dat bestaat uit vijf arbiters. De Gemeenschap en de Staten wijzen twee arbiters aan en de Organisatie wijst eveneens twee arbiters aan, en de aldus aangewezen vier arbiters kiezen gezamenlijk een vijfde, die het scheidsgerecht voorzit. Indien binnen een termijn van dertig dagen na indiening van het verzoek om arbitrage de Gemeenschap en de Staten of de Organisatie niet elk twee arbiters hebben aangewezen, kan de Gemeenschap of de Organisatie de President van het Internationale Gerechtshof verzoeken deze arbiters te benoemen. Dezelfde procedure wordt gevolgd, indien binnen dertig dagen na aanwijzing of benoeming van de vierde arbiter, de vijfde nog niet is gekozen. De meerderheid van de leden van het scheidsgerecht vormt het quorum en alle beslissingen vereisen de instemming van ten minste drie arbiters. De arbitrageprocedure wordt door het scheidsgerecht vastgesteld. De beslissingen van het scheidsgerecht zijn bindend voor de Organisatie, de Gemeenschap en de betrokken Staten.
 
 #### Toetreding
 
-#### Artikel 23
+##### Artikel 23
 
 a). Deze Overeenkomst wordt van kracht voor niet-kernwapenstaten die Partij zijn bij het Verdrag en die Lid-Staat worden van de Gemeenschap, zodra:
 
@@ -228,7 +250,7 @@ b). Indien de betrokken Staat andere Overeenkomsten met de Organisatie heeft ges
 
 #### Wijziging van de Overeenkomst
 
-#### Artikel 24
+##### Artikel 24
 
 a). De Organisatie, de Gemeenschap en de Staten plegen op verzoek van een van hen overleg over wijzigingen in deze Overeenkomst.
 
@@ -238,7 +260,7 @@ c). De Directeur-Generaal stelt alle Staten die lid zijn van de Organisatie, onv
 
 #### Inwerkingtreding en duur
 
-#### Artikel 25
+##### Artikel 25
 
 a). Deze Overeenkomst treedt in werking op de dag waarop de Organisatie van de Gemeenschap en de Staten een schriftelijke kennisgeving heeft ontvangen dat de interne procedures betreffende de inwerkingtreding van deze Overeenkomst zijn voltooid. De Directeur-Generaal stelt alle Staten die lid zijn van de Organisatie, onverwijld op de hoogte van de inwerkingtreding van deze Overeenkomst.
 
@@ -246,7 +268,7 @@ b). Deze Overeenkomst blijft van kracht zolang de Staten Partij zijn bij het Ver
 
 #### Protocol
 
-#### Artikel 26
+##### Artikel 26
 
 Het aan deze Overeenkomst gehechte Protocol vormt een integrerend deel daarvan. Met de term „Overeenkomst” als gebruikt in dit document wordt de Overeenkomst alsmede het Protocol bedoeld.
 
@@ -254,31 +276,31 @@ Het aan deze Overeenkomst gehechte Protocol vormt een integrerend deel daarvan. 
 
 #### Inleiding
 
-#### Artikel 27
+##### Artikel 27
 
 Dit deel van de Overeenkomst heeft tot doel de vereiste uitwerking te geven van de procedures die bij de uitvoering van de in deel I opgenomen bepalingen betreffende de waarborgen dienen te worden toegepast.
 
 #### Doel van de waarborgen
 
-#### Artikel 28
+##### Artikel 28
 
 Het doel van de in deze Overeenkomst vermelde procedures bij de toepassing van waarborgen is het tijdig ontdekken van de aanwending van noemenswaardige hoeveelheden kernmateriaal voor de vervaardiging van kernwapens of andere nucleaire explosiemiddelen dan wel voor onbekende doeleinden in plaats van voor vreedzame nucleaire activiteiten, alsmede de afschrikking van pogingen daartoe door het risico van vroegtijdige ontdekking.
 
-#### Artikel 29
+##### Artikel 29
 
 Voor het bereiken van het in artikel 28 geformuleerde doel wordt als voornaamste waarborgmaatregel gebruik gemaakt van materiaalboekhouding met als belangrijkste aanvullende maatregelen insluiting en toezicht.
 
-#### Artikel 30
+##### Artikel 30
 
 De technische conclusie van de verificatiewerkzaamheden van de Organisatie krijgt de vorm van een verklaring waarin voor elk materiaalbalansgebied voor een bepaalde periode de hoeveelheid niet-verantwoord materiaal wordt vermeld, alsmede de grenzen van de nauwkeurigheid van de opgegeven hoeveelheden.
 
 #### Het stelsel van waarborgen van de Gemeenschap
 
-#### Artikel 31
+##### Artikel 31
 
 Krachtens artikel 3 maakt de Organisatie bij de toepassing van haar verificatiewerkzaamheden volledig gebruik van het waarborgenstelsel van de Gemeenschap.
 
-#### Artikel 32
+##### Artikel 32
 
 Het stelsel van de Gemeenschap voor de boekhouding van en de controle op kernmateriaal krachtens deze Overeenkomst wordt gebaseerd op een structuur van materiaalbalansgebieden. In voorkomend geval en zoals nader aangegeven in de Aanvullende Regelingen, zal de Gemeenschap bij de toepassing van haar waarborgen gebruik maken van en, voor zover noodzakelijk, voorzieningen treffen voor maatregelen als:
 
@@ -298,11 +320,11 @@ Het stelsel van de Gemeenschap voor de boekhouding van en de controle op kernmat
 
 - h). procedures voor het opstellen van rapporten voor de Organisatie overeenkomstig de artikelen 59 tot en met 65 en 67 tot en met 69.
 
-#### Artikel 33
+##### Artikel 33
 
 De waarborgen krachtens deze Overeenkomst zijn niet van toepassing op materiaal in ertswinning of -verwerking.
 
-#### Artikel 34
+##### Artikel 34
 
 a). Indien enig uranium- of thoriumhoudend materiaal dat het stadium van de splijtstofcyclus als beschreven onder c) nog niet heeft bereikt, direct of indirect wordt uitgevoerd naar een niet-kernwapenstaat die geen Partij is bij deze Overeenkomst, stelt de Gemeenschap de Organisatie van de hoeveelheid, samenstelling en bestemming van dit materiaal op de hoogte, tenzij het voor specifiek niet-nucleaire doeleinden wordt uitgevoerd.
 
@@ -312,7 +334,7 @@ c). Indien enig kernmateriaal van een samenstelling en zuiverheidsgraad die het 
 
 #### Beëindiging van waarborgen
 
-#### Artikel 35
+##### Artikel 35
 
 a). Waarborgen krachtens deze Overeenkomst op kernmateriaal worden onder de in artikel 11 vermelde voorwaarden beëindigd. Wanneer aan de in dat artikel gestelde voorwaarden niet is voldaan, maar de Gemeenschap meent dat het terugwinnen van kernmateriaal dat aan waarborgen krachtens deze Overeenkomst is onderworpen, uit restmateriaal vooralsnog onuitvoerbaar of onwenselijk is, plegen de Organisatie en de Gemeenschap overleg over de in dat geval toe te passen geëigende waarborgen.
 
@@ -320,7 +342,7 @@ b). Waarborgen krachtens deze Overeenkomst op kernmateriaal worden onder de in a
 
 #### Vrijstelling van waarborgen
 
-#### Artikel 36
+##### Artikel 36
 
 Op verzoek van de Gemeenschap stelt de Organisatie de volgende kernmaterialen vrij van waarborgen krachtens deze Overeenkomst:
 
@@ -330,7 +352,7 @@ Op verzoek van de Gemeenschap stelt de Organisatie de volgende kernmaterialen vr
 
 - c). plutonium dat meer dan 80 % plutonium-238 bevat.
 
-#### Artikel 37
+##### Artikel 37
 
 Op verzoek van de Gemeenschap stelt de Organisatie kernmateriaal dat anders aan de waarborgen krachtens deze Overeenkomst zou zijn onderworpen, van deze waarborgen vrij, mits de totale hoeveelheid kernmateriaal dat in de Staten volgens dit artikel wordt vrijgesteld, nooit meer bedraagt dan:
 
@@ -350,17 +372,17 @@ Op verzoek van de Gemeenschap stelt de Organisatie kernmateriaal dat anders aan 
 
 of grotere hoeveelheden welke door de Raad voor een uniforme toepassing nader kunnen worden vastgesteld.
 
-#### Artikel 38
+##### Artikel 38
 
 Indien vrijgesteld kernmateriaal tezamen met kernmateriaal dat aan waarborgen krachtens deze Overeenkomst is onderworpen, moet worden verwerkt of opgeslagen, worden voorzieningen getroffen voor het opnieuw toepassen van deze waarborgen hierop.
 
 #### Aanvullende Regelingen
 
-#### Artikel 39
+##### Artikel 39
 
 De Gemeenschap stelt met de Organisatie Aanvullende Regelingen op, die op zodanig gedetailleerde wijze omschrijven hoe de in deze Overeenkomst neergelegde procedures moeten worden toegepast, als nodig is om de Organisatie in staat te stellen haar taken krachtens deze Overeenkomst op doeltreffende en doelmatige wijze te verrichten. De Aanvullende Regelingen kunnen in onderlinge overeenstemming tussen de Organisatie en de Gemeenschap worden uitgebreid of gewijzigd, zonder dat zulks tot wijziging van deze Overeenkomst leidt.
 
-#### Artikel 40
+##### Artikel 40
 
 De Aanvullende Regelingen worden gelijktijdig met, of zo spoedig mogelijk na, de inwerkingtreding van deze Overeenkomst van kracht. De Organisatie, de Gemeenschap en de Staten doen al het mogelijke om te bewerkstelligen dat deze Regelingen negentig dagen na de inwerkingtreding van deze Overeenkomst van kracht worden; deze termijn kan alleen in onderlinge overeenstemming tussen de Organisatie, de Gemeenschap en de Staten worden verlengd.
 
@@ -368,17 +390,17 @@ De Gemeenschap verstrekt de Organisatie onverwijld de gegevens die vereist zijn 
 
 #### Inventaris
 
-#### Artikel 41
+##### Artikel 41
 
 Op basis van het in artikel 62 bedoelde aanvangsrapport stelt de Organisatie een totaalinventaris op van alle kernmaterialen in de Staten die aan waarborgen krachtens deze Overeenkomst onderworpen zijn, ongeacht de herkomst van dit materiaal, en houdt deze inventaris op basis van latere rapporten en van de resultaten van haar eigen verificatiewerkzaamheden bij. Afschriften van de inventaris worden met nader overeen te komen tussenpozen ter beschikking van de Gemeenschap gesteld.
 
 #### Constructiegegevens
 
-#### Artikel 42
+##### Artikel 42
 
 Krachtens artikel 8 worden, bij de bespreking van de Aanvullende Regelingen, door de Gemeenschap constructiegegevens van bestaande installaties aan de Organisatie verstrekt. De termijnen voor de verstrekking van constructiegegevens van nieuwe installaties worden vastgesteld in de Aanvullende Regelingen en deze gegevens worden zo spoedig mogelijk verstrekt, voordat kernmateriaal in een nieuwe installatie wordt gebracht.
 
-#### Artikel 43
+##### Artikel 43
 
 De constructiegegevens die aan de Organisatie dienen te worden verstrekt, omvatten voor elke installatie, voor zover toepasselijk:
 
@@ -390,15 +412,15 @@ De constructiegegevens die aan de Organisatie dienen te worden verstrekt, omvatt
 
 - d). een beschrijving van de bestaande en voorgestelde procedures in de installatie voor de boekhouding van en de controle op het kernmateriaal, met in het bijzonder vermelding van de materiaalbalansgebieden zoals deze door de exploitant zijn vastgesteld, metingen van de materiaalstroom en procedures voor het opmaken van de feitelijke inventaris.
 
-#### Artikel 44
+##### Artikel 44
 
 Voor elke installatie worden ook andere gegevens die van belang zijn voor de toepassing van de waarborgen krachtens deze Overeenkomst aan de Organisatie verstrekt, indien dit in de Aanvullende Regelingen is vastgelegd. De Gemeenschap verstrekt de Organisatie aanvullende gegevens betreffende de gezondheids- en veiligheidsprocedures die de Organisatie in acht dient te nemen en waaraan haar inspecteurs zich in de installaties dienen te houden.
 
-#### Artikel 45
+##### Artikel 45
 
 De Organisatie ontvangt van de Gemeenschap ter bestudering constructiegegevens met betrekking tot een wijziging die van belang is in verband met de waarborgen krachtens deze Overeenkomst, en wordt op de hoogte gesteld van elke wijziging in de gegevens die haar krachtens artikel 44 zijn verstrekt, en wel een zodanige tijd van tevoren dat de procedures voor de toepassing van de waarborgen, die krachtens deze Overeenkomst moeten worden gevolgd, indien nodig kunnen worden aangepast.
 
-#### Artikel 46. Doel van de bestudering van de constructiegegevens
+##### Artikel 46. Doel van de bestudering van de constructiegegevens
 
 De constructiegegevens die aan de Organisatie zijn verstrekt, worden voor de volgende doeleinden gebruikt:
 
@@ -422,17 +444,17 @@ De constructiegegevens die aan de Organisatie zijn verstrekt, worden voor de vol
 
 De resultaten van de bestudering van de constructiegegevens, zoals overeengekomen tussen de Organisatie en de Gemeenschap, worden in de Aanvullende Regelingen opgenomen.
 
-#### Artikel 47. Hernieuwde bestudering van constructiegegevens
+##### Artikel 47. Hernieuwde bestudering van constructiegegevens
 
 Met het oog op wijziging van de werkzaamheden die krachtens artikel 46 worden uitgevoerd, worden constructiegegevens opnieuw in studie genomen in het licht van wijzigingen in de bedrijfsomstandigheden, van technologische ontwikkelingen op het gebied van waarborgen of van ervaring opgedaan bij de toepassing van verificatieprocedures.
 
-#### Artikel 48. Verificatie van constructiegegevens
+##### Artikel 48. Verificatie van constructiegegevens
 
 In samenwerking met de Gemeenschap en de betrokken Staat kan de Organisatie inspecteurs zenden naar installaties ter verificatie van de constructiegegevens die aan de Organisatie krachtens de artikelen 42 tot en met 45 voor de in artikel 46 vermelde doeleinden zijn verstrekt.
 
 #### Gegevens betreffende kernmateriaal buiten installaties
 
-#### Artikel 49
+##### Artikel 49
 
 Wanneer kernmateriaal regelmatig buiten installaties wordt gebruikt, ontvangt de Organisatie van de Gemeenschap, in voorkomend geval, de volgende gegevens:
 
@@ -442,25 +464,25 @@ Wanneer kernmateriaal regelmatig buiten installaties wordt gebruikt, ontvangt de
 
 De Organisatie wordt te rechter tijd door de Gemeenschap op de hoogte gesteld van elke wijziging in de gegevens die haar krachtens dit artikel zijn verstrekt.
 
-#### Artikel 50
+##### Artikel 50
 
 De gegevens die aan de Organisatie op grond van artikel 49 zijn verstrekt, kunnen, voor zover van belang, worden gebruikt voor de in artikel 46, onder b) tot en met f), vermelde doeleinden.
 
 #### Boekingssysteem
 
-#### Artikel 51
+##### Artikel 51
 
 De Gemeenschap draagt er zorg voor dat boeken worden bijgehouden voor elk materiaalbalansgebied. De bij te houden boeken worden beschreven in de Aanvullende Regelingen.
 
-#### Artikel 52
+##### Artikel 52
 
 De Gemeenschap treft de nodige maatregelen om bestudering van de boeken door inspecteurs van de Organisatie te vergemakkelijken, vooral indien deze niet in het Engels, Frans, Russisch of Spaans zijn gesteld.
 
-#### Artikel 53
+##### Artikel 53
 
 De boeken worden ten minste vijf jaar bewaard.
 
-#### Artikel 54
+##### Artikel 54
 
 De boeken bestaan, voor zover toepasselijk, uit:
 
@@ -468,13 +490,13 @@ De boeken bestaan, voor zover toepasselijk, uit:
 
 - b). werkstaten van de installaties waarin dergelijk kernmateriaal aanwezig is.
 
-#### Artikel 55
+##### Artikel 55
 
 Het meetsysteem dat de grondslag vormt voor de boeken aan de hand waarvan de rapporten worden opgesteld, dient te beantwoorden aan de nieuwste internationale normen of hieraan kwalitatief gelijkwaardig te zijn.
 
 #### Boekhoudkundige bescheiden
 
-#### Artikel 56
+##### Artikel 56
 
 In de boekhoudkundige bescheiden wordt voor elk materiaalbalansgebied het volgende vermeld:
 
@@ -484,11 +506,11 @@ In de boekhoudkundige bescheiden wordt voor elk materiaalbalansgebied het volgen
 
 - c). alle aanpassingen en correcties die zijn aangebracht met betrekking tot inventariswijzigingen, boekhoudkundige en feitelijke inventarissen.
 
-#### Artikel 57
+##### Artikel 57
 
 Ten aanzien van alle inventariswijzigingen en feitelijke inventarissen bevatten de boeken voor elke partij kernmateriaal de volgende gegevens: de aanduiding van het materiaal, de gegevens betreffende de partij en de basisgegevens. De boeken vermelden voor elke partij kernmateriaal de gegevens betreffende uranium, thorium en plutonium afzonderlijk. Ten aanzien van elke inventaris wijziging wordt het tijdstip vermeld van de wijziging, alsmede, in voorkomend geval, het materiaalbalansgebied waaruit het materiaal wordt afgevoerd en het materiaalbalansgebied waar het materiaal wordt bijgeschreven of de ontvanger.
 
-#### Artikel 58. Werkstaten
+##### Artikel 58. Werkstaten
 
 In de werkstaten wordt, in voorkomend geval, voor elk materiaalbalansgebied het volgende vermeld:
 
@@ -502,25 +524,25 @@ In de werkstaten wordt, in voorkomend geval, voor elk materiaalbalansgebied het 
 
 #### Rapportagesysteem
 
-#### Artikel 59
+##### Artikel 59
 
 De Gemeenschap legt de Organisatie de in de artikelen 60 tot en met 65 en 67 tot en met 69 nader omschreven rapporten voor over kernmateriaal dat aan de waarborgen krachtens deze Overeenkomst is onderworpen.
 
-#### Artikel 60
+##### Artikel 60
 
 De rapporten worden opgesteld in het Engels, Frans, Russisch of Spaans, tenzij in de Aanvullende Regelingen anders is bepaald.
 
-#### Artikel 61
+##### Artikel 61
 
 De rapporten zijn gebaseerd op de boeken die worden bijgehouden overeenkomstig de artikelen 51 tot en met 58 en bestaan in voorkomend geval uit boekhoudrapporten en bijzondere rapporten.
 
 #### Boekhoudrapporten
 
-#### Artikel 62
+##### Artikel 62
 
 De Organisatie ontvangt van de Gemeenschap een aanvangsrapport inzake al het kernmateriaal dat aan waarborgen krachtens deze Overeenkomst is onderworpen. Het aanvangsrapport wordt binnen dertig dagen na de laatste dag van de maand waarin deze Overeenkomst van kracht wordt, verzonden en geeft de situatie op de laatste dag van die maand weer.
 
-#### Artikel 63
+##### Artikel 63
 
 De Gemeenschap verstrekt de Organisatie voor elk materiaalbalansgebied de volgende boekhoudrapporten:
 
@@ -530,7 +552,7 @@ De Gemeenschap verstrekt de Organisatie voor elk materiaalbalansgebied de volgen
 
 De rapporten zijn gebaseerd op gegevens die op het tijdstip van de rapportage beschikbaar zijn en kunnen zo nodig later worden gecorrigeerd.
 
-#### Artikel 64
+##### Artikel 64
 
 In de rapporten over inventariswijzigingen worden de aanduiding en de gegevens betreffende de partij voor elke partij kernmateriaal vermeld, alsmede het tijdstip van de inventariswijziging en, in voorkomend geval, het materiaalbalansgebied waaruit het materiaal wordt afgevoerd en het materiaalbalansgebied waar het materiaal wordt bijgeschreven of de ontvanger. Deze rapporten gaan vergezeld van beknopte nota's,
 
@@ -538,15 +560,15 @@ In de rapporten over inventariswijzigingen worden de aanduiding en de gegevens b
 
 - b). waarin, zoals nader aangegeven in de Aanvullende Regelingen het voorgenomen bedrijfsprogramma, met name het opmaken van de feitelijke inventaris, wordt beschreven.
 
-#### Artikel 65
+##### Artikel 65
 
 De Gemeenschap rapporteert elke inventariswijziging, aanpassing en correctie hetzij periodiek in de vorm van een geconsolideerde lijst, hetzij afzonderlijk. Inventariswijzigingen worden in partijen uitgedrukt gerapporteerd. Zoals nader aangegeven in de Aanvullende Regelingen kunnen kleine wijzigingen in de inventaris van kernmateriaal, zoals de overbrenging van analysemonsters, in één partij worden samengevoegd, en als één inventariswijziging worden gerapporteerd.
 
-#### Artikel 66
+##### Artikel 66
 
 De Organisatie verstrekt de Gemeenschap ten behoeve van belanghebbende partijen halfjaarlijkse verklaringen over de boekhoudkundige inventaris van kernmateriaal dat aan waarborgen krachtens deze Overeenkomst is onderworpen, met betrekking tot ieder materiaalbalansgebied en op basis van de rapporten over inventaris wijzigingen betreffende de periode die voor elk van deze verklaringen geldt.
 
-#### Artikel 67
+##### Artikel 67
 
 Tenzij door de Organisatie en de Gemeenschap anders wordt overeengekomen, bevatten de rapporten over de materiaalbalans de volgende gegevens:
 
@@ -566,7 +588,7 @@ Tenzij door de Organisatie en de Gemeenschap anders wordt overeengekomen, bevatt
 
 Een verklaring inzake de feitelijke inventaris, waarin alle partijen afzonderlijk zijn opgenomen en voor elke partij de aanduiding van het materiaal en de gegevens betreffende de partij zijn vermeld, wordt aan elk rapport over de materiaalbalans toegevoegd.
 
-#### Artikel 68. Bijzondere rapporten
+##### Artikel 68. Bijzondere rapporten
 
 De Gemeenschap stelt onverwijld bijzondere rapporten op:
 
@@ -574,19 +596,19 @@ De Gemeenschap stelt onverwijld bijzondere rapporten op:
 
 - b). indien de insluiting onverwacht zodanig is gewijzigd ten opzichte van die welke in de Aanvullende Regelingen nader is omschreven, dat ongemachtigd wegnemen van kernmateriaal mogelijk is geworden.
 
-#### Artikel 69. Aanvulling en toelichting van rapporten
+##### Artikel 69. Aanvulling en toelichting van rapporten
 
 Indien de Organisatie zulks verzoekt, geeft de Gemeenschap, voor zover van belang in verband met de waarborgen krachtens deze Overeenkomst, aanvullingen of toelichtingen op elk rapport.
 
 #### Inspecties
 
-#### Artikel 70. Algemene bepalingen
+##### Artikel 70. Algemene bepalingen
 
 De Organisatie heeft het recht inspecties uit te voeren zoals bepaald in deze Overeenkomst.
 
 #### Doel van inspecties
 
-#### Artikel 71
+##### Artikel 71
 
 De Organisatie kan inspecties ad hoc uitvoeren ten einde:
 
@@ -594,7 +616,7 @@ De Organisatie kan inspecties ad hoc uitvoeren ten einde:
 
 - b). overeenkomstig de artikelen 93 en 96 de hoeveelheid en de samenstelling van kernmateriaal dat aan waarborgen krachtens deze Overeenkomst is onderworpen, vast te stellen en zo mogelijk te verifiëren alvorens het wordt uitgevoerd uit of zodra het wordt ingevoerd in de Staten, met uitzondering van verzendingen binnen de Gemeenschap.
 
-#### Artikel 72
+##### Artikel 72
 
 De Organisatie kan routine-inspecties uitvoeren ten einde:
 
@@ -604,7 +626,7 @@ De Organisatie kan routine-inspecties uitvoeren ten einde:
 
 - c). gegevens over de mogelijke oorzaken voor het bestaan van niet-verantwoord materiaal, verschillen tussen verzender en ontvanger, alsmede onzekerheden in de boekhoudkundige inventaris te verifiëren.
 
-#### Artikel 73
+##### Artikel 73
 
 Met inachtneming van de in artikel 77 vermelde procedures kan de Organisatie bijzondere inspecties uitvoeren:
 
@@ -616,7 +638,7 @@ Een inspectie wordt geacht een bijzondere inspectie te zijn, wanneer het gaat om
 
 #### Draagwijdte van inspecties
 
-#### Artikel 74
+##### Artikel 74
 
 Voor de in de artikelen 71 tot en met 73 vermelde doeleinden kan de Organisatie:
 
@@ -630,7 +652,7 @@ Voor de in de artikelen 71 tot en met 73 vermelde doeleinden kan de Organisatie:
 
 - e). andere objectieve methoden waarvan de technische uitvoerbaarheid is gebleken, toepassen.
 
-#### Artikel 75
+##### Artikel 75
 
 In het kader van artikel 74 wordt de Organisatie in staat gesteld:
 
@@ -656,7 +678,7 @@ In het kader van artikel 74 wordt de Organisatie in staat gesteld:
 
 #### Toegang voor inspecties
 
-#### Artikel 76
+##### Artikel 76
 
 a). Voor de in artikel 71 onder a) vermelde doeleinden en tot het tijdstip waarop de strategische punten in de Aanvullende Regelingen nader zijn aangegeven, hebben inspecteurs van de Organisatie toegang tot elke plaats waar volgens het aanvangsrapport of volgens enige inspectie die in verband daarmede is uitgevoerd, kernmateriaal dat aan waarborgen krachtens deze Overeenkomst is onderworpen, aanwezig is.
 
@@ -666,7 +688,7 @@ c). Voor de in artikel 72 vermelde doeleinden hebben de inspecteurs alleen toega
 
 d). Mocht de Gemeenschap concluderen dat ingevolge bijzondere omstandigheden de toegang door de Organisatie verder moet worden beperkt, dan treffen de Gemeenschap en de Organisatie onverwijld regelingen ten einde de Organisatie in staat te stellen zich van haar verantwoordelijkheden voor de toepassing van waarborgen in het licht van deze beperkingen te kwijten. De Directeur-Generaal rapporteert al deze regelingen aan de Raad.
 
-#### Artikel 77
+##### Artikel 77
 
 In de omstandigheden die kunnen leiden tot bijzondere inspecties voor de in artikel 73 omschreven doeleinden, plegen de Gemeenschap en de Organisatie onmiddellijk overleg. Als resultaat van dit overleg kan de Organisatie:
 
@@ -676,15 +698,15 @@ In de omstandigheden die kunnen leiden tot bijzondere inspecties voor de in arti
 
 #### Frequentie en intensiteit van routine-inspecties
 
-#### Artikel 78
+##### Artikel 78
 
 Aantal, intensiteit en duur van routine-inspecties worden, onder inachtneming van een zo goed mogelijk tijdschema, beperkt tot het minimum dat verenigbaar is met een doeltreffende toepassing van de in deze Overeenkomst bedoelde procedures betreffende waarborgen, terwijl een optimaal en zo economisch mogelijk gebruik moet worden gemaakt van de beschikbare inspectiemogelijkheden krachtens deze Overeenkomst.
 
-#### Artikel 79
+##### Artikel 79
 
 De Organisatie kan één routine-inspectie per jaar uitvoeren bij installaties en materiaalbalansgebieden buiten installaties, waarvan de inhoud of de jaarlijks verwerkte hoeveelheid aan kernmateriaal, afhankelijk van welke de grootste is, vijf kilogram effectief niet te boven gaat.
 
-#### Artikel 80
+##### Artikel 80
 
 Aantal, intensiteit, duur, tijdschema en wijze van routine-inspecties bij installaties met een inhoud of een jaarlijks verwerkte hoeveelheid aan kernmateriaal die vijf kilogram effectief te boven gaat, worden bepaald ervan uitgaande dat in het maximale of uiterste geval de inspectie niet intensiever is dan noodzakelijk en voldoende om de continuïteit van de kennis inzake de stroom en inventaris van kernmateriaal te handhaven, en waarbij het maximum aan routine-inspecties bij dergelijke installaties als volgt wordt bepaald:
 
@@ -696,7 +718,7 @@ Aantal, intensiteit, duur, tijdschema en wijze van routine-inspecties bij instal
 
 De Partijen bij deze Overeenkomst kunnen overeenkomen, de getallen voor het maximum aan inspecties als vastgelegd in dit artikel, te wijzigen indien de Raad heeft vastgesteld dat een dergelijke wijziging redelijk is.
 
-#### Artikel 81
+##### Artikel 81
 
 Met inachtneming van de artikelen 78 tot en met 80, houden de criteria die gehanteerd moeten worden bij de bepaling van het daadwerkelijk aantal, de intensiteit, de duur, het tijdschema en de wijze van routine-inspecties van elke installatie, het volgende in:
 
@@ -710,13 +732,13 @@ Met inachtneming van de artikelen 78 tot en met 80, houden de criteria die gehan
 
 - e). **technische ontwikkeling op het gebied van waarborgen,** met inbegrip van de toepassing van statistische technieken en willekeurige steekproeven met het oog op de beoordeling van de stroom van kernmateriaal.
 
-#### Artikel 82
+##### Artikel 82
 
 De Organisatie en de Gemeenschap plegen overleg indien laatstgenoemde van mening is dat de inspecties zich overmatig richten op bepaalde installaties.
 
 #### Aankondiging van inspecties
 
-#### Artikel 83
+##### Artikel 83
 
 De Organisatie doet de Gemeenschap en de betrokken Staten tevoren als volgt mededeling van de komst van inspecteurs van de Organisatie in installaties of materiaalbalansgebieden buiten installaties:
 
@@ -728,13 +750,13 @@ De Organisatie doet de Gemeenschap en de betrokken Staten tevoren als volgt mede
 
 In de aankondiging van inspecties worden de namen van de inspecteurs van de Organisatie, de te bezoeken installaties en materiaalbalansgebieden buiten installaties, alsmede de periode tijdens welke deze zullen worden bezocht, aangegeven. Indien de inspecteurs van de Organisatie van buiten de Staten moeten komen, kondigt de Organisatie van tevoren eveneens plaats en tijd waarop zij in de Staten aankomen, aan.
 
-#### Artikel 84
+##### Artikel 84
 
 Ongeacht het bepaalde in artikel 83, kan de Organisatie als een aanvullende maatregel, zonder voorafgaande mededeling, een deel van de routine-inspecties krachtens artikel 80 volgens het beginsel van de willekeurige steekproeven uitvoeren. Bij de uitvoering van onaangekondigde inspecties houdt de Organisatie volledig rekening met alle bedrijfsprogramma's die haar ingevolge artikel 64 onder b) zijn verstrekt. Voorts houdt de Organisatie, steeds wanneer mogelijk en op basis van het bedrijfsprogramma, de Gemeenschap en de betrokken Staat op gezette tijden van haar algemeen programma voor aangekondigde en onaangekondigde inspecties op de hoogte, waarbij de globale termijnen waarin inspecties zijn gepland, worden aangegeven. Bij de uitvoering van elke onaangekondigde inspectie doet de Organisatie al het mogelijke om alle praktische moeilijkheden voor de Gemeenschap en de betrokken Staat alsmede voor de exploitanten van de installaties tot een minimum te beperken, waarbij tevens rekening wordt gehouden met de desbetreffende bepalingen van de artikelen 44 en 89. De Gemeenschap en de betrokken Staat doen evenzo al het mogelijke om de taak van de inspecteurs van de Organisatie te vergemakkelijken.
 
 #### Aanwijzing van inspecteurs van de Organisatie
 
-#### Artikel 85
+##### Artikel 85
 
 Bij de aanwijzing van inspecteurs van de Organisatie worden de volgende procedures toegepast:
 
@@ -748,27 +770,27 @@ Bij de aanwijzing van inspecteurs van de Organisatie worden de volgende procedur
 
 Voor inspecteurs van de Organisatie die benodigd zijn voor de werkzaamheden bedoeld in artikel 48, en voor inspecties ad hoc krachtens artikel 71 onder a) wordt de aanwijzingsprocedure echter zo mogelijk binnen dertig dagen na inwerkingtreding van deze Overeenkomst voltooid. Indien een dergelijke aanwijzing binnen deze termijn onmogelijk blijkt, worden inspecteurs van de Organisatie die met deze werkzaamheden worden belast, op tijdelijke basis aangewezen.
 
-#### Artikel 86
+##### Artikel 86
 
 De Staten verlenen of verlengen zo snel mogelijk de vereiste visa voor elke inspecteur van de Organisatie, aangewezen overeenkomstig artikel 85.
 
 #### Gedragingen en bezoeken van inspecteurs van de Organisatie
 
-#### Artikel 87
+##### Artikel 87
 
 Inspecteurs van de Organisatie voeren bij de uitoefening van hun taken krachtens de artikelen 48 en 71 tot en met 75 hun werkzaamheden op zodanige wijze uit, dat belemmering of vertraging van de bouw, inbedrijfstelling of exploitatie van installaties of een aantasting van de veiligheid daarvan wordt vermeden. In het bijzonder bedienen inspecteurs van de Organisatie zelf geen enkele installatie noch geven zij het personeel van een installatie opdrachten daartoe. Indien inspecteurs van de Organisatie van mening zijn, dat op grond van de artikelen 74 en 75 bepaalde handelingen in een installatie door de exploitant moeten worden uitgevoerd, dienen zij een daartoe strekkend verzoek in.
 
-#### Artikel 88
+##### Artikel 88
 
 Indien inspecteurs van de Organisatie vragen om diensten die in een Staat kunnen worden verleend, met inbegrip van het gebruik van uitrusting, in verband met de uitvoering van inspecties, vergemakkelijken de betrokken Staat en de Gemeenschap het verlenen van dergelijke diensten en het gebruik van dergelijke uitrusting door inspecteurs van de Organisatie.
 
-#### Artikel 89
+##### Artikel 89
 
 De Gemeenschap en de betrokken Staten hebben het recht inspecteurs van de Organisatie te laten vergezellen door haar eigen inspecteurs, respectievelijk hun vertegenwoordigers, mits de inspecteurs van de Organisatie hierbij niet worden opgehouden of anderszins belemmerd in de uitvoering van hun taken.
 
 #### Verklaring over door de Organisatie uitgevoerde verificatiewerkzaamheden
 
-#### Artikel 90
+##### Artikel 90
 
 De Organisatie stelt de Gemeenschap ten behoeve van belanghebbende Partijen in kennis van:
 
@@ -778,7 +800,7 @@ De Organisatie stelt de Gemeenschap ten behoeve van belanghebbende Partijen in k
 
 #### Invoer in of uitvoer uit de Staten
 
-#### Artikel 91. Algemene bepalingen
+##### Artikel 91. Algemene bepalingen
 
 Kernmateriaal dat aan waarborgen krachtens deze Overeenkomst is of dient te zijn onderworpen en dat wordt ingevoerd in of uitgevoerd uit de Staten, wordt in het kader van deze Overeenkomst onder de verantwoordelijkheden van de Gemeenschap en de betrokken Staat geacht te vallen, in geval van:
 
@@ -790,7 +812,7 @@ Het punt waarop de verantwoordelijkheid overgaat, wordt vastgelegd in overeenste
 
 #### Uitvoer uit de Staten
 
-#### Artikel 92
+##### Artikel 92
 
 a). De Gemeenschap licht de Organisatie van tevoren in over enige voorgenomen uitvoer van kernmateriaal dat aan waarborgen krachtens deze Overeenkomst is onderworpen, indien de zending één kilogram effectief te boven gaat, dan wel, waar het gaat om installaties die gewoonlijk belangrijke hoeveelheden naar dezelfde Staat uitvoeren in zendingen die elk één kilogram effectief niet te boven gaan, indien zulks in de Aanvullende Regelingen nader is aangegeven.
 
@@ -810,17 +832,17 @@ d). In de mededeling wordt het volgende vermeld:
 
 - v). op welk punt tijdens het transport de ontvangende Staat in het kader van deze Overeenkomst de verantwoordelijkheid overneemt voor het kernmateriaal en de vermoedelijke datum waarop dit punt zal worden bereikt.
 
-#### Artikel 93
+##### Artikel 93
 
 De in artikel 92 bedoelde mededeling is zodanig dat de Organisatie, zo nodig, een inspectie ad hoc kan uitvoeren ten einde de hoeveelheid en samenstelling van het kernmateriaal te identificeren en zo mogelijk te verifiëren, alvorens het uit de Staten wordt uitgevoerd, met uitzondering van verzendingen binnen de Gemeenschap en ten einde het kernmateriaal dat gereed is voor verzending, te verzegelen, indien de Organisatie zulks wenst of de Gemeenschap zulks verzoekt. De uitvoer van het kernmateriaal mag echter in geen opzicht worden vertraagd door enige handeling die de Organisatie ingevolge een dergelijke mededeling verricht of overweegt.
 
-#### Artikel 94
+##### Artikel 94
 
 Indien kernmateriaal in de ontvangende Staat niet aan waarborgen van de Organisatie zal zijn onderworpen, draagt de Gemeenschap er zorg voor dat de Organisatie binnen drie maanden na het tijdstip waarop de ontvangende Staat de verantwoordelijkheid hiervoor aanvaardt, van de ontvangende Staat een bevestiging van de verzending ontvangt.
 
 #### Invoer in de Staten
 
-#### Artikel 95
+##### Artikel 95
 
 a). De Gemeenschap licht de Organisatie in over enige te verwachten invoer van kernmateriaal in de Staten, dat aan waarborgen krachtens deze Overeenkomst dient te worden onderworpen, indien de zending één kilogram effectief te boven gaat, dan wel, waar het gaat om installaties waarheen gewoonlijk belangrijke hoeveelheden vanuit dezelfde Staat worden verzonden in zendingen die elk één kilogram effectief niet te boven gaan, indien zulks in de Aanvullende Regelingen nader is aangegeven.
 
@@ -836,17 +858,17 @@ d). In de mededeling wordt het volgende vermeld:
 
 - iii). de te verwachten datum van aankomst, de plaats waar en de datum waarop het in de bedoeling ligt het kernmateriaal uit te pakken.
 
-#### Artikel 96
+##### Artikel 96
 
 De mededeling bedoeld in artikel 95 is zodanig, dat de Organisatie, zo nodig, een inspectie ad hoc kan uitvoeren ten einde de hoeveelheid en samenstelling van het in de Staten ingevoerd kernmateriaal te identificeren en, zo mogelijk, te verifiëren op het moment waarop de zending wordt uitgepakt, zulks met uitzondering van verzendingen binnen de Gemeenschap. Het uitpakken mag echter niet worden vertraagd door enige handeling die de Organisatie ingevolge een dergelijke mededeling onderneemt of overweegt.
 
-#### Artikel 97. Bijzondere rapporten
+##### Artikel 97. Bijzondere rapporten
 
 De Gemeenschap stelt een bijzonder rapport als bedoeld in artikel 68 op, indien zij op grond van enig ongebruikelijk voorval of omstandigheid in de mening komt te verkeren, dat er tijdens de invoer in of de uitvoer uit de Staten verlies aan kernmateriaal is of kan zijn geweest, met inbegrip van het optreden van een aanzienlijke vertraging.
 
 #### Definities
 
-#### Artikel 98
+##### Artikel 98
 
 In het kader van deze Overeenkomst gelden de volgende definities:
 
@@ -948,55 +970,55 @@ In het kader van deze Overeenkomst gelden de volgende definities:
 
 - S. **Strategisch punt** betekent een bij de bestudering van constructiegegevens gekozen plaats waar, onder normale omstandigheden en in combinatie met de gegevens van alle strategische punten te zamen, de gegevens, nodig en voldoende voor de toepassing van de waarborgen, worden verkregen en geverifieerd; onder een strategisch punt kan elke plaats vallen waar hoofdmetingen voor de boekhouding van de materiaalbalans worden verricht en waar maatregelen in het kader van de insluiting en het toezicht worden uitgevoerd.
 
-#### Artikel 1
+##### Artikel 1
 
 Dit Protocol werkt een aantal bepalingen van de Overeenkomst uit en geeft in het bijzonder nader de voorwaarden en middelen aan volgens welke de samenwerking bij de toepassing van de in de Overeenkomst neergelegde waarborgen op zodanige wijze geschiedt, dat wordt vermeden dat de toepassing van waarborgen door de Gemeenschap onnodig wordt gedoubleerd.
 
-#### Artikel 2
+##### Artikel 2
 
 De Gemeenschap verzamelt op basis van de overeengekomen, aan de Aanvullende Regelingen gehechte, indicatieve vragenlijst de gegevens over installaties en kernmateriaal buiten de installaties die krachtens de Overeenkomst aan de Organisatie moeten worden verstrekt.
 
-#### Artikel 3
+##### Artikel 3
 
 De Organisatie en de Gemeenschap bestuderen gezamenlijk de in artikel 46 onder a) tot en met f) van de Overeenkomst bedoelde constructiegegevens en nemen de resultaten daarvan, voor zover daarover overeenstemming bestaat, in de Aanvullende Regelingen op. De verificatie van de in artikel 48 van de Overeenkomst bedoelde constructiegegevens wordt door de Organisatie in samenwerking met de Gemeenschap uitgevoerd.
 
-#### Artikel 4
+##### Artikel 4
 
 Wanneer de Gemeenschap aan de Organisatie de in artikel 2 van dit Protocol bedoelde gegevens verstrekt, verschaft zij haar tevens gegevens over de inspectiemethodes die zij denkt toe te passen en de volledige voorstellen, met inbegrip van ramingen van de inspectie-inspanning voor routine inspectie-activiteiten, voor opneming in de aam de Aanvullende Regelingen te hechten Aanhangsels voor installaties, en materiaalbalansgebieden buiten installaties.
 
-#### Artikel 5
+##### Artikel 5
 
 De opstelling van de Aanhangsels bij de Aanvullende Regelingen geschiedt gezamenlijk door de Gemeenschap en de Organisatie.
 
-#### Artikel 6
+##### Artikel 6
 
 De Gemeenschap verzamelt de rapporten van de exploitanten, houdt een centrale boekhouding bij op basis van deze rapporten en gaat over tot de technische en boekhoudkundige controle en analyse van de ontvangen gegevens.
 
-#### Artikel 7
+##### Artikel 7
 
 Na voltooiing van de in artikel 6 van dit Protocol bedoelde taken stelt de Gemeenschap maandelijks rapporten over de inventariswijzigingen op en verstrekt zij deze binnen de in de Aanvullende Regelingen vastgestelde termijnen aan de Organisatie.
 
-#### Artikel 8
+##### Artikel 8
 
 Voorts verstrekt de Gemeenschap aan de Organisatie de materiaalbalansrapporten en de feitelijke inventarislijsten, zulks met een frequentie die afhangt van de in de Aanvullende Regelingen vastgestelde frequentie waarmee de feitelijke inventarissen worden opgemaakt
 
-#### Artikel 9
+##### Artikel 9
 
 Vorm en formaat van de in de artikelen 7 en 8 van dit Protocol bedoelde rapporten, zoals deze in onderling overleg tussen de Organisatie en de Gemeenschap worden vastgesteld, worden in de Aanvullende Regelingen neergelegd.
 
-#### Artikel 10
+##### Artikel 10
 
 De voor het doel van de Overeenkomst uitgevoerde activiteiten van de Gemeenschap en de Organisatie met betrekking tot routine-inspecties, met inbegrip van de in artikel 84 van de Overeenkomst bedoelde inspecties, worden gecoördineerd overeenkomstig het bepaalde in de artikelen 11 tot en met 23 van dit Protocol.
 
-#### Artikel 11
+##### Artikel 11
 
 Onder voorbehoud van de artikelen 79 en 80 van de Overeenkomst wordt bij de vaststelling van het werkelijke aantal, de intensiteit, de duur, het tijdschema en de wijze van de door de Organisatie bij elke installatie uit te voeren inspecties overeenkomstig het bepaalde in dit Protocol rekening gehouden met de inspectie-inspanning die door de Gemeenschap in het kader van haar multinationaal waarborgensysteem wordt verricht.
 
-#### Artikel 12
+##### Artikel 12
 
 De inspectie-inspanning krachtens de Overeenkomst wordt voor elke installatie vastgesteld op basis van de in artikel 81 van de Overeenkomst neergelegde criteria. Deze criteria worden toegepast door gebruik te maken van de in de Aanvullende Regelingen neergelegde regels en methoden, die zijn gebruikt voor de berekening van de inspectie-inspanning ten aanzien van bepaalde aan de Aanvullende Regelingen gehechte voorbeelden. Deze regels en methoden worden van tijd tot tijd overeenkomstig artikel 7 van de Overeenkomst opnieuw bezien ten einde rekening te houden met eventuele nieuwe technologische ontwikkelingen op het gebied van waarborgen en met de opgedane ervaring.
 
-#### Artikel 13
+##### Artikel 13
 
 De inspectie-inspanning, krachtens de Overeenkomst, uitgedrukt in overeengekomen ramingen van de daadwerkelijk uit te voeren inspectie-inspanningen, wordt in de Aanvullende Regelingen neergelegd te zamen met de nodige beschrijvingen van de wijze waarop de verificatie wordt verricht en de doeleinden van inspecties die door de Gemeenschap en de Organisatie dienen te worden uitgevoerd. Deze inspectie-inspanning vormt onder normale bedrijfsomstandigheden en onder de hieronder vermelde voorwaarden de daadwerkelijke maximale inspectie-inspanning krachtens de Overeenkomst bij de installatie:
 
@@ -1010,7 +1032,7 @@ De inspectie-inspanning, krachtens de Overeenkomst, uitgedrukt in overeengekomen
 
 - e). zolang de Gemeenschap haar inspectiewerkzaamheden overeenkomstig dit artikel en zoals nader is vastgesteld in de Aanvullende Regelingen bij de installatie verricht.
 
-#### Artikel 14
+##### Artikel 14
 
 a). Onder voorbehoud van de in artikel 13 van dit Protocol neergelegde voorwaarden worden de inspecties van de Organisatie gelijktijdig met de inspectiewerkzaamheden van de Gemeenschap verricht. Inspecteurs van de Organisatie zijn bij de uitvoering van sommige inspecties van de Gemeenschap aanwezig.
 
@@ -1020,19 +1042,19 @@ b). Onder voorbehoud van het bepaalde onder a) komen de inspecteurs van de Organ
 
 - ii). inspecteurs van de Organisatie, wanneer zij zulks noodzakelijk en dringend achten, tijdens een inspectie, inspectiewerkzaamheden kunnen uitvoeren op andere wijze dan door observatie van de inspectiewerkzaamheden van de inspecteurs van de Gemeenschap, indien de Organisatie niet op andere wijze de doelstellingen van haar routine-inspecties zou kunnen verwezenlijken en dit niet was te voorzien.
 
-#### Artikel 15
+##### Artikel 15
 
 Het algemene tijdschema en de planning van de door de Gemeenschap uit te voeren inspecties krachtens de Overeenkomst worden door de Gemeenschap in samenwerking met de Organisatie vastgesteld.
 
-#### Artikel 16
+##### Artikel 16
 
 Regelingen met betrekking tot de aanwezigheid van inspecteurs van de Organisatie bij de uitvoering van sommige inspecties van de Gemeenschap worden tevoren door de Organisatie en de Gemeenschap overeengekomen voor elk type installatie en, voor zover noodzakelijk, voor elke installatie.
 
-#### Artikel 17
+##### Artikel 17
 
 Ten einde de Organisatie in staat te stellen om op grond van eisen voor monsterneming voor statistische doeleinden te besluiten of zij bij een bepaalde inspectie van de Gemeenschap aanwezig zal zijn, verstrekt de Gemeenschap de Organisatie tevoren een verklaring betreffende de aantallen, typen en inhoud van de te inspecteren objecten overeenkomstig de gegevens die door de exploitant van de installatie aan de Gemeenschap zijn verstrekt.
 
-#### Artikel 18
+##### Artikel 18
 
 Technische procedures voor elk type installatie in het algemeen en, voor zover noodzakelijk, voor elke installatie afzonderlijk, worden tevoren door de Organisatie en de Gemeenschap overeengekomen, in het bijzonder voor wat betreft:
 
@@ -1040,31 +1062,31 @@ Technische procedures voor elk type installatie in het algemeen en, voor zover n
 
 - b). het controleren en identificeren van standaarden.
 
-#### Artikel 19
+##### Artikel 19
 
 De coördinatieregelingen voor elk type installatie, vermeld in de Aanvullende Regelingen dienen als basis voor de coördinatieregelingen die in elk Aanhangsel betreffende een installatie nader worden vastgesteld.
 
-#### Artikel 20
+##### Artikel 20
 
 De afzonderlijke coördinatiemaatregelen voor onderwerpen die in de Aanhangsels betreffende installaties krachtens artikel 19 van dit Protocol zijn vermeld, worden in onderling overleg tussen de voor dat doel door de Gemeenschap en de Organisatie aangewezen ambtenaren vastgesteld.
 
-#### Artikel 21
+##### Artikel 21
 
 De Gemeenschap legt de Organisatie haar werkdocumenten over van die inspecties waarbij inspecteurs van de Organisatie aanwezig waren, alsmede inspectierapporten van alle andere door de Gemeenschap in het kader van de Overeenkomst uitgevoerde inspecties.
 
-#### Artikel 22
+##### Artikel 22
 
 De voor de Organisatie bestemde monsters van kernmateriaal worden genomen uit dezelfde willekeurig gekozen partijen of objecten als die voor de Gemeenschap en worden gelijktijdig met die voor de Gemeenschap genomen, tenzij het in stand houden van of verlagen tot de laagste in de praktijk mogelijke inspectie-inspanning van de Organisatie het nodig maakt dat de Organisatie zelfstandig monsters neemt zoals van tevoren overeengekomen en nader uitgewerkt in de Aanvullende Regelingen.
 
-#### Artikel 23
+##### Artikel 23
 
 De frequenties waarmede exploitanten van installaties de feitelijke inventarissen dienen op te maken die voor de toepassing van waarborgen dienen te worden geverifieerd, zullen in overeenstemming zijn met die welke als richtlijnen in de Aanvullende Regelingen zijn neergelegd. Indien aanvullende activiteiten krachtens de Overeenkomst met betrekking tot feitelijke inventarissen van wezenlijk belang worden geacht, zullen deze in het krachtens artikel 25 van dit Protocol ingestelde Liaisoncomité worden besproken en overeengekomen alvorens zij ten uitvoer worden gelegd.
 
-#### Artikel 24
+##### Artikel 24
 
 Steeds wanneer de Organisatie de doeleinden van haar inspecties ad hoc, zoals neergelegd in de Overeenkomst, kan verwezenlijken door observatie van de inspectiewerkzaamheden van inspecteurs van de Gemeenschap, doet zij zulks.
 
-#### Artikel 25
+##### Artikel 25
 
 a). Ter vereenvoudiging van de toepassing van de Overeenkomst en van dit Protocol wordt een Liaisoncomité opgericht, dat is samengesteld uit Vertegenwoordigers van de Gemeenschap en van de Organisatie.
 

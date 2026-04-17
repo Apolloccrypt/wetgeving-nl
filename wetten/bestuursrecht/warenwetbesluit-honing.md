@@ -1,13 +1,38 @@
 ---
-title: "Warenwetbesluit honing"
+title: "Besluit van 20 november 2003, houdende regels voor honing (Warenwetbesluit honing)"
 identifier: "BWBR0015923"
-categorie: "Bestuursrecht"
-publicatiedatum: 2016-10-06
-laatste_update: 2016-10-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015923"
+country: "nl"
+rank: "amvb"
+publication_date: "2016-10-06"
+last_updated: "2016-10-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015923"
+soort: "AMvB"
+stam_id: "5483843"
+version_id: "9870522"
+internal_id: "C13341461"
+label_id: "5458344"
+original_entry_into_force: "2003-12-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015923/2016-10-06/0"
+intitule_bron: "Stb.2003-492"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-11-20"
+intitule_published: "2003-12-04"
+intitule_in_force: "2003-12-04"
+intitule_status: "goed"
+original_publication: "Stb.2003-492"
+original_signed_date: "2003-11-20"
+original_published_date: "2003-12-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2003-492"
+entry_into_force_date: "2003-12-05"
+jci_1_3: "jci1.3:c:BWBR0015923&z=2016-10-06&g=2016-10-06"
+jci_1_0: "1.0:c:BWBR0015923&g=2016-10-06"
+citeertitel_status: "officieel"
+short_title: "Warenwetbesluit honing"
+signed_date: "2003-11-20"
+entry_into_force: "2003-12-05"
 ---
-
 # Besluit van 20 november 2003, houdende regels voor honing (Warenwetbesluit honing)
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 5 september 2003, VGB/VL 2405520, gedaan in overeenstemming met Onze Ministers van Landbouw, Natuur en Voedselkwaliteit, van Economische Zaken, en van Justitie;
@@ -22,7 +47,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -30,7 +55,7 @@ In dit besluit wordt verstaan onder:
 
 - b. **verordening (EU) nr. 1169/2011:** Verordening (EU) nr. 1169/2011 van het Europees Parlement en de Raad van 25 oktober 2011 betreffende de verstrekking van voedselinformatie aan consumenten, tot wijziging van Verordeningen (EG) nr. 1924/2006 en (EG) nr. 1925/2006 van het Europees Parlement en de Raad en tot intrekking van Richtlijn 87/250/EEG van de Commissie, Richtlijn 90/496/EEG van de Raad, Richtlijn 1999/10/EG van de Commissie, Richtlijn 2000/13/EG van het Europees Parlement en de Raad, Richtlijnen 2002/67/EG en 2008/5/EG van de Commissie, en Verordening (EG) nr. 608/2004 van de Commissie (PbEU 2011, L 304).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het is verboden de bij dit besluit bedoelde waren te verhandelen anders dan met inachtneming van de bij dit besluit gestelde voorschriften met betrekking tot hun kenmerken en samenstelling.
 
@@ -42,7 +67,7 @@ In dit besluit wordt verstaan onder:
 
 #### § 2. Kenmerken en samenstelling
 
-#### Artikel 3
+##### Artikel 3
 
 1. De waren, krachtens [§ 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015923&paragraaf=3&z=2016-10-06&g=2016-10-06) aangeduid als honing, bloemenhoning, nectarhoning, honingdauwhoning, raathoning, raatbrokken in honing, brokhoning, lekhoning, slingerhoning, pershoning of gefilterde honing voldoen aan de volgende vereisten:
 
@@ -66,7 +91,7 @@ In dit besluit wordt verstaan onder:
 
 - b. de zuurtegraad van de waar is niet kunstmatig gewijzigd.
 
-#### Artikel 4
+##### Artikel 4
 
 De krachtens [§ 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015923&paragraaf=3&z=2016-10-06&g=2016-10-06) als honing, bloemenhoning, nectarhoning, honingdauwhoning, raathoning, brokhoning, raatbrokken in honing, lekhoning, slingerhoning, pershoning, gefilterde honing of bakkershoning aangeduide waar:
 
@@ -78,7 +103,7 @@ De krachtens [§ 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015923&paragraaf=3&
 
 - d. heeft een kleur die varieert van bijna kleurloos tot donkerbruin.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De soortelijke elektrische geleiding van de krachtens [§ 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015923&paragraaf=3&z=2016-10-06&g=2016-10-06) als honing, bloemenhoning, nectarhoning, raathoning, brokhoning, raatbrokken in honing, lekhoning, slingerhoning, pershoning, gefilterde honing of bakkershoning aangeduide waar, bedraagt ten hoogste 0,8 mS/cm.
 
@@ -86,7 +111,7 @@ De krachtens [§ 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015923&paragraaf=3&
 
 3. Het tweede lid is niet van toepassing voorzover een daar bedoeld mengsel is verkregen uit de aardbeiboom (Arbutus unedo), dopheide (Erica), eucalyptys, lindebloesem (Tilia spp.), struikheide (Calluna vulgaris), Leptospermum of Melaleuca spp..
 
-#### Artikel 6
+##### Artikel 6
 
 1. De diastase-index van de krachtens [§ 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015923&paragraaf=3&z=2016-10-06&g=2016-10-06) als honing, bloemenhoning, nectarhoning, honingdauwhoning, raathoning, brokhoning, raatbrokken in honing, lekhoning, slingerhoning, pershoning of gefilterde honing aangeduide waar bedraagt ten minste 8.
 
@@ -98,7 +123,7 @@ De krachtens [§ 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015923&paragraaf=3&
 
 5. De diastase-index en het gehalte aan hydroxymehylfurfural worden vastgesteld na bereiding en vermenging van de in dit artikel bedoelde waren.
 
-#### Artikel 7
+##### Artikel 7
 
 Aan de krachtens [§ 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015923&paragraaf=3&z=2016-10-06&g=2016-10-06) als honing, bloemenhoning, nectarhoning honingdauwhoning, raathoning, brokhoning, raatbrokken in honing, lekhoning, slingerhoning, pershoning, gefilterde of bakkershoning aangeduide waar worden niet toegevoegd:
 
@@ -110,7 +135,7 @@ Aan de krachtens [§ 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015923&paragraa
 
 #### § 3. Etikettering
 
-#### Artikel 8
+##### Artikel 8
 
 - a. De aanduiding **honing** wordt gebezigd voor honing.
 
@@ -124,7 +149,7 @@ Aan de krachtens [§ 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015923&paragraa
 
 - f. De aanduiding **gefilterde honing** wordt gebezigd voor honing die is verkregen door zodanige verwijdering van vreemde anorganische of organische stoffen dat een aanzienlijk deel van de pollen is verwijderd.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0015923&paragraaf=3&artikel=8&z=2016-10-06&g=2016-10-06) genoemde aanduidingen worden voorts slechts gebezigd indien de als honing, raathoning, brokhoning, raatbrokken in honing, lekhoning, slingerhoning of gefilterde honing aangeduide waar tevens een gehalte heeft aan:
 
@@ -138,7 +163,7 @@ Aan de krachtens [§ 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015923&paragraa
 
 2. De aanduiding gefilterde honing wordt gebezigd op de desbetreffende bulkcontainers, verpakkingen en handelsdocumenten.
 
-#### Artikel 10
+##### Artikel 10
 
 De aanduiding **bloemenhoning** of **nectarhoning** wordt gebezigd voor honing die uit plantennectar is verkregen, met:
 
@@ -162,7 +187,7 @@ De aanduiding **bloemenhoning** of **nectarhoning** wordt gebezigd voor honing d
 
 - e. een gehalte aan vrije zuren van ten hoogste 50 milli-equivalenten zuur per 1000 gram.
 
-#### Artikel 11
+##### Artikel 11
 
 De aanduiding **honingdauwhoning** wordt gebezigd voor honing, al dan niet met nectarhoning vermengd, die voornamelijk is verkregen uit uitscheidingsproducten van plantensapzuigende insecten (Hemiptera) op de levende plantendelen of uit afscheidingsproducten van levende plantendelen, met een gehalte aan:
 
@@ -176,7 +201,7 @@ De aanduiding **honingdauwhoning** wordt gebezigd voor honing, al dan niet met n
 
 - e. vrije zuren van ten hoogste 50 milli-equivalenten zuur per 1000 gram.
 
-#### Artikel 12
+##### Artikel 12
 
 De aanduiding **pershoning** wordt gebezigd voor honing, verkregen door het samenpersen van raten zonder broed en zonder verwarming of bij matige verwarming van maximaal 45°C, met een gehalte aan:
 
@@ -188,7 +213,7 @@ De aanduiding **pershoning** wordt gebezigd voor honing, verkregen door het same
 
 - d. aan vrije zuren van ten hoogste 50 milli-equivalenten zuur per 1000 gram.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De aanduiding **bakkershoning** wordt gebezigd voor honing die geschikt is voor industrieel gebruik of als ingrediënt in andere, vervolgens verwerkte levensmiddelen.
 
@@ -214,13 +239,13 @@ De aanduiding **pershoning** wordt gebezigd voor honing, verkregen door het same
 
 6. Onverminderd Verordening (EU) nr. 1169/2011 van het Europees Parlement en de Raad van 25 oktober 2011 betreffende de verstrekking van voedselinformatie aan consumenten (PbEU 2011, L 304) mag, voor zover de waar als ingrediënt in een samengesteld levensmiddel is verwerkt, in de aanduiding de term «bakkershoning» worden vervangen door de term «honing». In de lijst met ingrediënten wordt de volledige term «bakkershoning» vermeld.
 
-#### Artikel 14
+##### Artikel 14
 
 1. In afwijking van de [artikelen 8 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0015923&paragraaf=3&artikel=8&z=2016-10-06&g=2016-10-06) mag wat betreft bloemenhoning of nectarhoning, honingdauwhoning, lekhoning, slingerhoning of pershoning worden volstaan met het bezigen van de aanduiding **honing**.
 
 2. Bij een op de voet van deze paragraaf aangeduide waar mag de term honing in de aanduiding worden vervangen door de term **honig**.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Onverminderd verordening (EU) nr. 1169/2011:
 
@@ -246,7 +271,7 @@ De aanduiding **pershoning** wordt gebezigd voor honing, verkregen door het same
 
 #### § 4. Slotbepalingen
 
-#### Artikel 16
+##### Artikel 16
 
 1. Als methoden van onderzoek die bij uitsluiting beslissend zijn voor de vaststelling of al dan niet is voldaan aan de bij dit besluit gestelde regels, worden aangewezen internationaal erkende gevalideerde methoden.
 
@@ -254,29 +279,29 @@ De aanduiding **pershoning** wordt gebezigd voor honing, verkregen door het same
 
 3. Onze Minister kan omtrent de in het tweede lid bedoelde methoden nadere regels stellen.
 
-#### Artikel 17
+##### Artikel 17
 
 Wijzigt het Warenwetbesluit bestuurlijke boeten.
 
-#### Artikel 18
+##### Artikel 18
 
 Waren die voor 1 augustus 2004 rechtmatig zijn geëtiketteerd overeenkomstig het [Honingbesluit (Warenwet)](https://wetten.overheid.nl/jci1.3:c:BWBR0003204) mogen verhandeld worden totdat de voorraden daarvan zijn opgebruikt.
 
-#### Artikel 19
+##### Artikel 19
 
 Het [Honingbesluit (Warenwet)](https://wetten.overheid.nl/jci1.3:c:BWBR0003204) wordt ingetrokken.
 
-#### Artikel 20
+##### Artikel 20
 
 Eet- en drinkwaren die voor 1 augustus 2004 zijn geëtiketteerd en voldoen aan het [Honingbesluit (Warenwet)](https://wetten.overheid.nl/jci1.3:c:BWBR0003204) mogen nog verhandeld worden totdat de voorraden daarvan zijn uitverkocht.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
 2. In afwijking van het eerste lid treedt [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0015923&paragraaf=4&artikel=17&z=2016-10-06&g=2016-10-06) twee maanden na de inwerkingtreding van dit besluit in werking.
 
-#### Artikel 22
+##### Artikel 22
 
 Dit besluit wordt aangehaald als: Warenwetbesluit honing.
 

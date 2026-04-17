@@ -1,13 +1,36 @@
 ---
-title: "Belastingregeling voor het Koninkrijk"
+title: "Rijkswet van 28 oktober 1964, houdende Belastingregeling voor het Koninkrijk"
 identifier: "BWBR0002464"
-categorie: "Belastingrecht"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002464"
+country: "nl"
+rank: "rijkswet"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002464"
+soort: "rijkswet"
+stam_id: "155183"
+version_id: "211842"
+internal_id: "C211841"
+label_id: "154234"
+dtd_version: "2.0"
+original_entry_into_force: "1965-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002464/2010-10-10/0"
+intitule_bron: "Stb.1964-425"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1964-10-28"
+intitule_status: "goed"
+original_publication: "Stb.1964-425"
+original_signed_date: "1964-10-28"
+original_effect: "nieuwe-regeling"
+original_dossier: "7181"
+entry_into_force_date: "1965-01-01"
+jci_1_3: "jci1.3:c:BWBR0002464&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0002464&g=2010-10-10"
+citeertitel_status: "officieel"
+short_title: "Belastingregeling voor het Koninkrijk"
+signed_date: "1964-10-28"
+entry_into_force: "1965-01-01"
 ---
-
 # Rijkswet van 28 oktober 1964, houdende Belastingregeling voor het Koninkrijk
 
 Allen die deze zullen zien of horen lezen, saluut! doen te weten:
@@ -20,7 +43,7 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 ### Algemene bepaling
 
-#### Artikel 1
+##### Artikel 1
 
 1. In Nederland, Aruba, Curaçao en Sint Maarten worden vreemdelingen niet onderworpen aan enige belasting of daarmede verband houdende verplichting welke drukkender is dan die, waaraan Nederlanders onder overigens gelijke omstandigheden worden onderworpen.
 
@@ -30,7 +53,7 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 ### Hoofdstuk I. Begripsbepalingen
 
-#### Artikel 2
+##### Artikel 2
 
 1. Deze Rijkswet verstaat onder:
 
@@ -102,7 +125,7 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 ### Afdeling 1. Belastingen naar inkomen en vermogen
 
-#### Artikel 3
+##### Artikel 3
 
 1. Deze afdeling is van toepassing op belastingen naar het inkomen en naar het vermogen, geheven ten behoeve van een van de landen of een staatkundig onderdeel daarvan.
 
@@ -138,7 +161,7 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 - 3°. de dividendbelasting.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Inkomsten genoten door een inwoner van een van de landen uit onroerende goederen gelegen of gevestigd binnen een van de andere landen, mogen in dat andere land worden belast, ook ingeval deze inkomsten deel uitmaken van de winst van een onderneming.
 
@@ -152,7 +175,7 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 4. Bij het bepalen van de inkomsten uit onroerende goederen welke deel uitmaken van de winst van een onderneming, vindt [artikel 5, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=II&afdeling=1&artikel=5&z=2010-10-10&g=2010-10-10), overeenkomstige toepassing.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Winst uit onderneming - voor zover niet bestaande uit inkomsten uit onroerende goederen - genoten door een inwoner van een van de landen, mag in een van de andere landen worden belast indien en voor zover die winst is toe te rekenen aan een binnen dat andere land aangehouden vaste inrichting.
 
@@ -162,31 +185,31 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 4. De Ministers van Financiën van de betrokken landen kunnen gezamenlijk met betrekking tot bepaalde ondernemingen of groepen van ondernemingen bepalen dat de aan een vaste inrichting toe te rekenen winst wordt vastgesteld door uit te gaan van het bedrag van de totale winst van de onderneming, dan wel andere van het tweede en derde lid afwijkende regelingen treffen.
 
-#### Artikel 6
+##### Artikel 6
 
 Winst uit onderneming genoten door een inwoner van een van de landen uit het optreden als verzekeraar binnen een van de andere landen wordt geacht te zijn behaald met behulp van een vaste inrichting binnen dat andere land.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Winst uit onderneming genoten door een inwoner van een van de landen uit het uitvoeren van bouw-, constructie-, montage-, graaf-, ontginnings-, bagger- of opruimingswerken of dergelijke werkzaamheden binnen een van de andere landen gedurende meer dan 183 dagen binnen een tijdvak van twaalf maanden, wordt geacht te zijn behaald met behulp van een vaste inrichting binnen dat andere land, voorzover die winst aan de werkzaamheden binnen dat land kan worden toegerekend.
 
 2. Onverminderd het eerste lid wordt de winst uit onderneming genoten door een inwoner van een van de landen uit het uitvoeren van een werk in de zin van het eerste lid binnen een van de andere landen, geacht te zijn behaald met behulp van een vaste inrichting in laatstbedoeld land, voor zover die winst aan de werkzaamheden binnen dat land kan worden toegerekend, ook indien het werk achtereenvolgens door verschillende ondernemers binnen dat land wordt uitgevoerd en de totale duur van de uitvoering van het werk 183 dagen binnen een tijdvak van twaalf maanden overschrijdt.
 
-#### Artikel 8
+##### Artikel 8
 
 Winst uit onderneming genoten door een inwoner van een van de landen uit het verrichten van luchtkarteringswerkzaamheden en andere werkzaamheden vanuit de lucht, gericht op de inventarisatie van natuurlijke hulpbronnen binnen een van de andere landen, wordt geacht te zijn behaald met behulp van een vaste inrichting binnen dat andere land, voor zover die winst aan de werkzaamheden binnen laatstbedoeld land kan worden toegerekend.
 
-#### Artikel 9
+##### Artikel 9
 
 Winst uit onderneming genoten door een inwoner van een van de landen uit het optreden als musicus, als artist of als beoefenaar van een tak van sport binnen een van de andere landen, wordt geacht te zijn behaald met behulp van een vaste inrichting binnen dat andere land.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Ingeval in de handels- of financiële betrekkingen tussen twee van elkaar afhankelijke ondernemingen, waarvan de ene is gevestigd in een van de landen en de andere in een van de andere landen, voorwaarden bestaan welke afwijken van die welke zouden zijn gemaakt tussen onafhankelijke ondernemingen, mogen alle voordelen, welke zonder deze voorwaarden zouden zijn opgekomen aan een van de ondernemingen, maar tengevolge van die voorwaarden haar niet zijn opgekomen, worden begrepen in de voordelen van die onderneming en dienovereenkomstig worden belast.
 
 2. Als van elkaar afhankelijke ondernemingen worden aangemerkt ondernemingen welker kapitaal - geheel of ten dele, middellijk of onmiddellijk - is verschaft door dezelfde personen of welke - geheel of ten dele, middellijk of onmiddellijk - staan onder leiding of toezicht van dezelfde personen.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Dividend genoten door een inwoner van een van de landen en verschuldigd door een lichaam dat inwoner is van een van de andere landen, mag worden belast in eerstbedoeld land.
 
@@ -208,19 +231,19 @@ indien blijkt dat bij de definitieve aanslagregeling in Curaçao onderscheidenli
 
 - c. indien de bedoelde Ministers zulks overeenkomen: met ingang van de datum van inwerkingtreding.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Voordelen genoten door een natuurlijke persoon die inwoner is van een van de landen, uit vervreemding van aandelen in of winstbewijzen van een lichaam dat inwoner is van een van de andere landen, mogen worden belast in eerstbedoeld land.
 
 2. Het bepaalde in het eerste lid tast niet aan het recht van elk van de landen overeenkomstig zijn eigen wetgeving belasting te heffen op voordelen die voortvloeien uit de vervreemding van aandelen in of winstbewijzen van een lichaam dat inwoner is van dat land, welke zijn genoten door een natuurlijke persoon die inwoner is van een van de andere landen en in de loop van de laatste vijf jaren, al dan niet te zamen met zijn echtgenoot en zijn bloed- en aanverwanten in de rechte linie en in de tweede graad der zijlinie, voor meer dan een vierde gedeelte, en, al dan niet te zamen met zijn echtgenoot, voor meer dan een twintigste gedeelte van het nominaal gestorte kapitaal van het lichaam onmiddellijk of middellijk aandeelhouder is geweest.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Rente - ook in de vorm van disconto - genoten door een inwoner van een van de landen en verschuldigd door een van de andere landen, een staatkundig onderdeel van een van de andere landen of een inwoner van een van de andere landen, mag worden belast in eerstbedoeld land.
 
 2. Indien in het land waarvan de persoon die de rente verschuldigd is, inwoner is, bij wege van inhouding een belasting van rente wordt geheven, laat het eerste lid een zodanige belasting onverlet met dien verstande, dat het tarief 10 percent niet te boven gaat. De vorige volzin vindt geen toepassing met betrekking tot rente verschuldigd door een land of een staatkundig onderdeel van een land.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Royalty’s genoten door een inwoner van een van de landen en verschuldigd door een inwoner van een van de andere landen, mogen worden belast in eerstbedoeld land.
 
@@ -228,7 +251,7 @@ indien blijkt dat bij de definitieve aanslagregeling in Curaçao onderscheidenli
 
 3. Voordelen uit de vervreemding van de in de eerste volzin van het tweede lid vermelde zaken, door een inwoner van een van de landen genoten uit een van de andere landen, mogen worden belast in het land van inwoning.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Inkomsten genoten door een inwoner van een van de landen uit het verrichten van niet-zelfstandige arbeid binnen een van de andere landen mogen worden belast in dat andere land.
 
@@ -246,11 +269,11 @@ indien blijkt dat bij de definitieve aanslagregeling in Curaçao onderscheidenli
 
 6. Indien de in het vierde lid bedoelde inkomsten worden genoten door een inwoner van een van de landen en die inkomsten geen periodiek karakter dragen, mogen die inkomsten voor zover zij worden genoten ter zake van een in een van de andere landen vroeger uitgeoefende dienstbetrekking, tevens in dat andere land worden belast. Van genieten in vorenbedoelde zin is mede sprake indien de aanspraak op die inkomsten wordt afgekocht, vervreemd, overgedragen, of wanneer op andere wijze over die aanspraak wordt beschikt.
 
-#### Artikel 16
+##### Artikel 16
 
 Voor zoveel nodig in afwijking van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=II&afdeling=1&artikel=15&z=2010-10-10&g=2010-10-10) mogen inkomsten genoten door een inwoner van een van de landen uit niet-zelfstandige arbeid verricht aan boord van vervoermiddelen welke het verkeer onderhouden tussen plaatsen binnen een van de landen en plaatsen buiten dat land, dan wel tussen plaatsen buiten de landen, worden belast in het land van inwoning. Indien het land van inwoning die inkomsten niet belast, mogen zij belast worden in het land waarbinnen de werkelijke leiding van de onderneming is gevestigd. De aan boord van een schip of luchtvaartuig gevestigde leiding wordt beschouwd als te zijn gevestigd binnen het land van de thuishaven.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Voor zoveel nodig in afwijking van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=II&afdeling=1&artikel=15&z=2010-10-10&g=2010-10-10) mogen inkomsten genoten uit het verrichten van niet-zelfstandige arbeid, welke worden betaald ten laste van een van de landen, worden belast in dat land.
 
@@ -264,7 +287,7 @@ Voor zoveel nodig in afwijking van [artikel 15](https://wetten.overheid.nl/jci1.
 
 4. Voor de toepassing van dit artikel worden onder "inkomsten genoten uit het verrichten van niet-zelfstandige arbeid" mede begrepen pensioenen en soortgelijke inkomsten genoten ter zake van vroeger verrichte niet-zelfstandige arbeid.
 
-#### Artikel 18
+##### Artikel 18
 
 1. In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=II&afdeling=1&artikel=5&z=2010-10-10&g=2010-10-10) mag winst uit onderneming behaald met het vervoer te water of door de lucht van personen of goederen tussen plaatsen binnen een van de landen en plaatsen buiten dat land, dan wel tussen plaatsen buiten de landen, worden belast in het land waarbinnen de werkelijke leiding van de onderneming is gevestigd. Waar de werkelijke leiding is gevestigd wordt naar de omstandigheden beoordeeld. De aan boord van een schip of luchtvaartuig gevestigde leiding wordt beschouwd als te zijn gevestigd binnen het land van de thuishaven.
 
@@ -274,19 +297,19 @@ Voor zoveel nodig in afwijking van [artikel 15](https://wetten.overheid.nl/jci1.
 
 4. Een wettelijke regeling van een van de landen welke op grond van het tweede lid is getroffen, wordt bekend gemaakt in de andere landen op de in [artikel 48, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=IV&artikel=48&z=2010-10-10&g=2010-10-10), voorgeschreven wijze.
 
-#### Artikel 19
+##### Artikel 19
 
 Inkomsten, welke worden genoten door een inwoner van een van de landen in de vorm van een aandeel in de winst van een onderneming waarvan de werkelijke leiding in een van de andere landen is gevestigd, en welke niet behoren tot de winsten en inkomsten waarvoor in de voorgaande artikelen van deze afdeling een regeling is getroffen, mogen worden belast in dat andere land.
 
-#### Artikel 20
+##### Artikel 20
 
 Andere dan de in de voorgaande artikelen van deze afdeling bedoelde winsten en inkomsten welke worden genoten door een inwoner van een van de landen mogen worden belast in het land van inwoning, behoudens ingeval [artikel 34, tweede lid, tweede zinsnede van de tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=II&afdeling=5&artikel=34&z=2010-10-10&g=2010-10-10), of [artikel 35**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=II&afdeling=6&artikel=35b&z=2010-10-10&g=2010-10-10) van toepassing is.
 
-#### Artikel 21
+##### Artikel 21
 
 Niettegenstaande de overige bepalingen van deze afdeling mogen periodieke uitkeringen, welke ertoe strekken een persoon uit een van de landen die in een van de andere landen woont of verblijft voor studie - het verkrijgen van bedrijfs- of beroepservaring daaronder begrepen - in staat te stellen de kosten van onderhoud en studie te bestrijden, in dat andere land niet worden belast, indien zij niet worden betaald ten laste van dat land, van een inwoner van dat land of ten laste van de winst welke is toe te rekenen aan een binnen dat land aangehouden vaste inrichting.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Vermogen van een inwoner van een van de landen mag worden belast in een van de andere landen voor zover het bestaat uit:
 
@@ -296,11 +319,11 @@ Niettegenstaande de overige bepalingen van deze afdeling mogen periodieke uitker
 
 2. Andere dan de in het eerste lid bedoelde vermogensbestanddelen van een inwoner van een van de landen mogen worden belast in het land van inwoning.
 
-#### Artikel 23
+##### Artikel 23
 
 Schulden - andere dan obligatieschulden - van een inwoner van een van de landen, welke verzekerd zijn door hypotheek op onroerende goederen gelegen of gevestigd binnen een van de andere landen, alsmede rente van zodanige schulden worden in dat andere land in aanmerking genomen als negatieve bestanddelen van het vermogen, onderscheidenlijk inkomen.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Het land van inwoning kan in het inkomen of vermogen begrijpen de bestanddelen welke ingevolge de voorgaande artikelen van deze afdeling mogen worden belast in een van de andere landen met dien verstande, dat op de berekende belasting een vermindering wordt toegepast welke gelijk is aan het bedrag dat tot die belasting in dezelfde verhouding staat als het totaal van de bestanddelen, welke in laatstbedoeld land - anders dan uitsluitend ingevolge [artikel 11, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=II&afdeling=1&artikel=11&z=2010-10-10&g=2010-10-10), [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=II&afdeling=1&artikel=12&z=2010-10-10&g=2010-10-10), en [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=II&afdeling=1&artikel=13&z=2010-10-10&g=2010-10-10) - mogen worden belast, staat tot het totale belastbare inkomen of vermogen. [Artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=II&afdeling=1&artikel=23&z=2010-10-10&g=2010-10-10) wordt daarbij in aanmerking genomen.
 
@@ -322,13 +345,13 @@ Schulden - andere dan obligatieschulden - van een inwoner van een van de landen,
 
 10. Nederland zorgt ervoor dat het heffen van bronbelasting als bedoeld in [artikel 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=II&afdeling=1&artikel=13a&z=2010-10-10&g=2010-10-10) niet leidt tot dubbele belasting, overeenkomstig het bepaalde in artikel 14, tweede en derde lid, van de [Richtlijn 2003/48/EG](32003L0048) of zorgt voor restitutie van de bronbelasting.
 
-#### Artikel 25
+##### Artikel 25
 
 Indien een houdstermaatschappij, welke is opgericht naar het recht van een van de landen, ingevolge [artikel 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=II&afdeling=5&artikel=34&z=2010-10-10&g=2010-10-10), geacht wordt inwoner te zijn van een van de andere landen, mag - onverminderd het recht van dat andere land tot belastingheffing als ware dit artikel niet van toepassing - de winst van deze maatschappij in eerstbedoeld land worden belast naar een percentage dat 4 niet te boven gaat.
 
 ### Afdeling 2. Belastingen ter zake van successie en schenking
 
-#### Artikel 26
+##### Artikel 26
 
 1. Deze afdeling is van toepassing op belastingen naar verkrijgingen krachtens erfrecht of schenking, geheven ten behoeve van een van de landen of een staatkundig onderdeel daarvan.
 
@@ -354,7 +377,7 @@ Indien een houdstermaatschappij, welke is opgericht naar het recht van een van d
 
 - 2°. de overgangsbelasting.
 
-#### Artikel 27
+##### Artikel 27
 
 1. De verkrijging krachtens erfrecht door het overlijden van of krachtens schenking door een inwoner van een van de landen, mag worden belast in een van de andere landen voor zover zij bestaat uit:
 
@@ -366,17 +389,17 @@ Indien een houdstermaatschappij, welke is opgericht naar het recht van een van d
 
 3. Andere dan de in het eerste lid bedoelde bestanddelen van een verkrijging mogen worden belast in het land waarvan de overledene of de schenker ten tijde van het overlijden of het doen van de schenking inwoner was.
 
-#### Artikel 28
+##### Artikel 28
 
 Het land van inwoning van de overledene of de schenker kan in een verkrijging krachtens erfrecht of krachtens schenking begrijpen de bestanddelen welke ingevolge [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=II&afdeling=2&artikel=27&z=2010-10-10&g=2010-10-10) mogen worden belast in een van de andere landen met dien verstande, dat op de verschuldigde belasting een vermindering wordt toegepast welke gelijk is aan het bedrag dat tot de ter zake van de verkrijging verschuldigde belasting in dezelfde verhouding staat als het totaal van die bestanddelen staat tot de verkrijging. De vermindering bedraagt niet meer dan het bedrag van de in dat andere land over die bestanddelen verschuldigde belasting.
 
-#### Artikel 29
+##### Artikel 29
 
 Ingeval een inwoner van een van de landen binnen een periode van twaalf maanden voorafgaande aan het doen van een schenking inwoner is geweest van een van de andere landen, kan in dat andere land ter zake van die schenking een aanvullend bedrag aan belasting worden geheven. Dit aanvullend belastingbedrag overschrijdt niet het bedrag dat, zo de schenker ten tijde van de schenking nog inwoner van dat andere land was, in de beide landen te zamen meer zou zijn geheven ter zake van de schenking.
 
 ### Afdeling 3. Zegelbelastingen
 
-#### Artikel 30
+##### Artikel 30
 
 Deze afdeling is van toepassing op:
 
@@ -388,7 +411,7 @@ Deze afdeling is van toepassing op:
 
 en op elke gelijksoortige belasting geheven ten behoeve van een van de landen of een staatkundig onderdeel daarvan.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Stukken welke in een van de landen zijn opgemaakt en voor welke hetzij de aldaar verschuldigde belasting is voldaan, hetzij enige vrijstellingsbepaling toepassing heeft gevonden, zijn in de andere landen niet aan een belasting onderworpen.
 
@@ -396,7 +419,7 @@ en op elke gelijksoortige belasting geheven ten behoeve van een van de landen of
 
 ### Afdeling 4. Belastingen op motorrijtuigen
 
-#### Artikel 32
+##### Artikel 32
 
 Deze afdeling is van toepassing op:
 
@@ -408,13 +431,13 @@ Deze afdeling is van toepassing op:
 
 en op elke gelijksoortige belasting geheven ten behoeve van een van de landen of een staatkundig onderdeel daarvan.
 
-#### Artikel 33
+##### Artikel 33
 
 Het in een van de landen rijden met een in een van de andere landen ingeschreven motorrijtuig, waarvan de houder een inwoner van dat andere land is, is in eerstbedoeld land vrijgesteld van belasting.
 
 ### Afdeling 5. Bijzondere bepalingen
 
-#### Artikel 34
+##### Artikel 34
 
 1. Voor de toepassing van dit hoofdstuk:
 
@@ -430,7 +453,7 @@ Het in een van de landen rijden met een in een van de andere landen ingeschreven
 
 4. Voor zoveel nodig in afwijking van het eerste lid wordt voor de toepassing van dit hoofdstuk een natuurlijke persoon, jonger dan 27 jaar, die herkomstig is uit een van de landen en uitsluitend voor opvoeding of voor studie - het verkrijgen van bedrijfs- of beroepservaring daaronder begrepen - verblijft in een van de andere landen, geacht inwoner te zijn van het land van herkomst, indien hij ingevolge de desbetreffende belastingregelingen van dat land daarvan inwoner is.
 
-#### Artikel 35
+##### Artikel 35
 
 1. Indien een persoon van oordeel is dat de maatregelen van een of van beide landen voor hem leiden of zullen leiden tot een belastingheffing die niet in overeenstemming is met de bepalingen van deze Rijkswet kan hij, ongeacht de rechtsmiddelen waarin de wetgeving van die landen voorziet, zijn geval voorleggen aan de bevoegde autoriteit van het land waarvan hij inwoner is, of, indien het geval valt onder [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&artikel=1&z=2010-10-10&g=2010-10-10), aan die van het land naar welks recht het lichaam is opgericht. Het geval moet worden voorgelegd binnen drie jaren nadat de maatregel die leidt tot een belastingheffing die niet in overeenstemming is met de bepalingen van deze Rijkswet, voor het eerst te zijner kennis is gebracht.
 
@@ -444,11 +467,11 @@ Zij kunnen ook met elkaar overleg plegen teneinde dubbele belasting ongedaan te 
 
 ### Afdeling 6. Anti-misbruikbepalingen
 
-#### Artikel 35a
+##### Artikel 35a
 
 De bepalingen van deze rijkswet vormen geen beletsel voor de toepassing van de in het belastingrecht van elk van de landen besloten liggende instrumenten ter bestrijding van fraude, misbruik en oneigenlijk gebruik.
 
-#### Artikel 35b
+##### Artikel 35b
 
 1. Met betrekking tot een persoon die in een jaar inwoner is van een van de landen en in een van de daaraan voorafgaande 5 jaren naar de omstandigheden beoordeeld inwoner was van een van de andere landen, vinden de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=II&afdeling=1&artikel=11&z=2010-10-10&g=2010-10-10), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=II&afdeling=1&artikel=12&z=2010-10-10&g=2010-10-10), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=II&afdeling=1&artikel=13&z=2010-10-10&g=2010-10-10), [15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=II&afdeling=1&artikel=15&z=2010-10-10&g=2010-10-10), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=II&afdeling=1&artikel=20&z=2010-10-10&g=2010-10-10), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=II&afdeling=1&artikel=24&z=2010-10-10&g=2010-10-10) en [34, tweede lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=II&afdeling=5&artikel=34&z=2010-10-10&g=2010-10-10), geen toepassing indien die persoon in het eerstbedoelde land op grond van een regeling – daaronder begrepen beleid ter uitvoering van de wet – wordt onderworpen aan een tarief dat, of een grondslag die, aanzienlijk afwijkt van het tarief dat, of de grondslag die, in het algemeen geldt voor inwoners van dat land.
 
@@ -472,7 +495,7 @@ De bepalingen van deze rijkswet vormen geen beletsel voor de toepassing van de i
 
 ### Hoofdstuk III. Wederzijdse bijstand
 
-#### Artikel 36
+##### Artikel 36
 
 1. Elk van de landen verleent - op verzoek - aan elk van de andere landen bijstand bij de invordering van belastingen geheven ten behoeve van laatstbedoeld land of een staatkundig onderdeel daarvan, daaronder begrepen de daarmede in verband staande rente, kosten en niet door de strafrechter opgelegde boeten en verhogingen.
 
@@ -500,13 +523,13 @@ Het verzoek dient vergezeld te gaan van:
 
 6. De niet-verhaalbare kosten van invordering worden vergoed door het land dat het verzoek heeft gedaan.
 
-#### Artikel 37
+##### Artikel 37
 
 1. De landen van het Koninkrijk wisselen zodanige inlichtingen uit als nodig zijn om uitvoering te geven aan deze Rijkswet of aan de wetgeving van elk van de landen met betrekking tot de belastingen waarop deze Rijkswet van toepassing is, voor zover de heffing van die belastingen niet in strijd is met deze Rijkswet.
 
 2. Voor bijzondere gevallen kunnen de bevoegde autoriteiten van de landen overeenkomen dat ambtenaren van de belastingdienst van een van de landen op het grondgebied van het andere land aanwezig mogen zijn in verband met een onderzoek dat wordt ingesteld door ambtenaren van het aangezochte land ten behoeve van de in het eerste lid van dit artikel genoemde doeleinden. De wijze waarop deze bepaling wordt toegepast, alsmede de bevoegdheden en verplichtingen van de betrokken ambtenaar, worden in onderling overleg door de bevoegde autoriteiten vastgesteld.
 
-#### Artikel 38
+##### Artikel 38
 
 1. Alle stukken, gegevens en inlichtingen welke een van de landen ingevolge [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=III&artikel=36&z=2010-10-10&g=2010-10-10) of [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=III&artikel=37&z=2010-10-10&g=2010-10-10) ontvangt, worden op dezelfde wijze geheim gehouden als onder de wetgeving van dat land verkregen stukken, gegevens en inlichtingen en worden alleen ter kennis gebracht van personen of autoriteiten (daaronder begrepen rechterlijke instanties en administratiefrechtelijke lichamen) die betrokken zijn bij de vaststelling of invordering van, de tenuitvoerlegging of vervolging ter zake van, of de beslissing in beroepszaken betrekking hebbende op de belastingen die het onderwerp van deze Rijkswet uitmaken. Deze personen of autoriteiten mogen van de inlichtingen alleen voor deze doeleinden gebruik maken. Zij mogen de stukken, gegevens en inlichtingen bekend maken in openbare rechtszittingen of in rechterlijke beslissingen.
 
@@ -520,63 +543,63 @@ Het verzoek dient vergezeld te gaan van:
 
 ### Hoofdstuk IV. Slotbepalingen
 
-#### Artikel 39
+##### Artikel 39
 
 Een natuurlijke persoon die inwoner is van een van de landen, zal in elk van de andere landen aanspraak hebben op dezelfde tegemoetkomingen als die, welke aan natuurlijke personen die inwoners zijn van laatstbedoeld land toekomen ter zake van burgerlijke staat en kinderaftrek.
 
-#### Artikel 40
+##### Artikel 40
 
 De in een van de landen voor enige belasting bestaande tegemoetkomingen ten behoeve van in dat land gevestigde of voor het grondgebied van dat land werkzame instellingen welke een kerkelijk, charitatief, cultureel, wetenschappelijk of algemeen maatschappelijk belang beogen - daaronder begrepen tegemoetkomingen ter zake van giften aan zodanige instellingen - vinden overeenkomstige toepassing ten behoeve van in een van de andere landen gevestigde of voor het grondgebied van een van de andere landen werkzame instellingen welke een zodanig belang beogen.
 
-#### Artikel 41
+##### Artikel 41
 
 1. De belasting welke een van de landen mag heffen ingevolge [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=II&afdeling=1&artikel=11&z=2010-10-10&g=2010-10-10), onderscheidenlijk [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=II&afdeling=1&artikel=13&z=2010-10-10&g=2010-10-10), is niet verschuldigd van dividend, onderscheidenlijk rente, genoten door een van de andere landen of een staatkundig onderdeel daarvan.
 
 2. De Minister van Financiën van het land van inwoning van de schuldenaar van een dividend of van rente genoten door een publiekrechtelijk lichaam van een van de andere landen, dat zich uitsluitend bezig houdt met het vervullen van een deel van de overheidstaak van dat andere land, kan bepalen, dat het eerste lid ten aanzien van dat dividend of die rente wordt toegepast.
 
-#### Artikel 42
+##### Artikel 42
 
 De Minister van Financiën van elk van de landen kan voorschriften geven ter uitvoering van deze Rijkswet in dat land.
 
-#### Artikel 43
+##### Artikel 43
 
 1. Ingeval in een van de landen een belasting voor eenmaal naar het inkomen of naar het vermogen mocht worden ingevoerd, kan de wetgever van dat land bepalen dat [hoofdstuk II, afdeling 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=II&afdeling=1&z=2010-10-10&g=2010-10-10), daarop niet van toepassing is.
 
 2. Een wettelijke regeling van een van de landen welke op grond van het eerste lid is getroffen, wordt bekend gemaakt in de andere landen op de in [artikel 48, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=IV&artikel=48&z=2010-10-10&g=2010-10-10), voorgeschreven wijze.
 
-#### Artikel 44
+##### Artikel 44
 
 De [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=III&artikel=36&z=2010-10-10&g=2010-10-10), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=III&artikel=37&z=2010-10-10&g=2010-10-10) en [38](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=III&artikel=38&z=2010-10-10&g=2010-10-10) vinden overeenkomstige toepassing met betrekking tot schoolgelden en premies ingevolge sociale verzekeringswetten, waarvan de invordering geschiedt bij dwangbevel.
 
-#### Artikel 45
+##### Artikel 45
 
 1. Voor de heffing van belastingen naar het inkomen en naar het vermogen in de zin van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=II&afdeling=1&artikel=3&z=2010-10-10&g=2010-10-10), voor de heffing van belastingen ter zake van successie en schenking in de zin van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=II&afdeling=2&artikel=26&z=2010-10-10&g=2010-10-10), alsmede voor de toepassing van deze Rijkswet voor zover zij op die belastingen betrekking heeft, worden, voor zoveel nodig in afwijking van de overige bepalingen van deze Rijkswet omtrent de woonplaats, de Gevolmachtigde Ministers van Aruba, Curaçao en Sint Maarten geacht inwoner te zijn van het land waarvoor zij zijn uitgezonden.
 
 2. De Ministers van Financiën van de betrokken landen kunnen gezamenlijk bepalen dat het eerste lid mede wordt toegepast ten aanzien van de plaatsvervangers van de Gevolmachtigde Ministers en met hen gelijk te stellen functionarissen.
 
-#### Artikel 46
+##### Artikel 46
 
 1. Artikel 19 van de wet van 26 april 1940 (**Stb.** 200), houdende bijzondere voorzieningen met betrekking tot de in gebiedsdelen van het Koninkrijk der Nederlanden gevestigde naamlooze vennootschappen en andere rechtspersonen, alsmede met betrekking tot zeeschepen, die gerechtigd zijn tot het voeren van de Nederlandsche vlag wordt ingetrokken, indien het op het tijdstip van inwerkingtreden van deze Rijkswet nog van kracht is.
 
 2. De wet van 4 augustus 1917 (**Stb.** 507), houdende bepalingen betreffende de beteekening en tenuitvoerlegging in de koloniën, van in Nederland uitgevaardigde dwangbevelen en in Nederland alsmede in Nederlandsch-Indië, Suriname en Curaçao onderling, van in de koloniën uitgevaardigde dwangbevelen, wordt ingetrokken.
 
-#### Artikel 47
+##### Artikel 47
 
 Het inwerkingtreden van deze Rijkswet wordt door Ons geregeld bij algemene maatregel van Rijksbestuur.
 
-#### Artikel 48
+##### Artikel 48
 
 1. Onverminderd [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=II&afdeling=1&artikel=18&z=2010-10-10&g=2010-10-10), kan de wetgever van elk van de landen ten aanzien van één of meer van de andere landen bepalen dat gezamenlijk buiten werking treden de [hoofdstukken II](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=II&z=2010-10-10&g=2010-10-10) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=III&z=2010-10-10&g=2010-10-10), en de [artikelen 39](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=IV&artikel=39&z=2010-10-10&g=2010-10-10), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=IV&artikel=40&z=2010-10-10&g=2010-10-10), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=IV&artikel=41&z=2010-10-10&g=2010-10-10), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=IV&artikel=44&z=2010-10-10&g=2010-10-10) en [45](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=IV&artikel=45&z=2010-10-10&g=2010-10-10). De daartoe strekkende wettelijke regeling treedt niet in werking voor de aanvang van het tweede kalenderjaar volgend op dat waarin de regeling is afgekondigd. Onder het voorbehoud van belangrijke wijzigingen in de wetgeving, de heffing, alsmede in de administratieve praktijk als bedoeld in [artikel 38, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=III&artikel=38&z=2010-10-10&g=2010-10-10), met betrekking tot de belastingen welke het onderwerp uitmaken van deze Rijkswet kan binnen een periode van acht jaar na 1 januari 1986 van de in dit lid gegeven bevoegdheid geen gebruik worden gemaakt.
 
 2. Een wettelijke regeling van een van de landen welke op grond van het eerste lid is getroffen, wordt bekend gemaakt in het andere land door plaatsing van de tekst in, voor zover Nederland betreft het **Staatsblad** en voor zover het Aruba, Curaçao en Sint Maarten betreft in de officiële publicatiebladen.
 
-#### Artikel 49
+##### Artikel 49
 
 Deze Rijkswet kan worden aangehaald als: Belastingregeling voor het Koninkrijk.
 
 Lasten en bevelen, dat deze in het **Staatsblad**, het **Gouvernementsblad** van Suriname en het **Publicatieblad** van de Nederlandse Antillen zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 13a
+##### Artikel 13a
 
 1. Indien de uiteindelijk gerechtigde van rente woonachtig is in Nederland en de uitbetalende instantie in Curaçao of Sint Maarten is gevestigd, heft Curaçao onderscheidenlijk Sint Maarten gedurende de in artikel 10 van de [Richtlijn 2003/48/EG](32003L0048) bedoelde overgangsperiode bronbelasting, gedurende de eerste drie jaar van de overgangsperiode tegen een tarief van 15%, gedurende de volgende drie jaar tegen een tarief van 20% en daarna tegen een tarief van 35%. De uitbetalende instantie houdt de bronbelasting in op een wijze als omschreven in artikel 11, tweede en derde lid, van de [Richtlijn 2003/48/EG](32003L0048).
 

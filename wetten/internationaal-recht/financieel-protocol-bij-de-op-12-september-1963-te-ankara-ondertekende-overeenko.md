@@ -1,13 +1,35 @@
 ---
 title: "Financieel Protocol bij de op 12 september 1963 te Ankara ondertekende Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschap en Turkije"
 identifier: "BWBV0004702"
-categorie: "Internationaal recht"
-publicatiedatum: 1986-03-01
-laatste_update: 1986-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004702"
+country: "nl"
+rank: "verdrag"
+publication_date: "1986-03-01"
+last_updated: "1986-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004702"
+soort: "verdrag"
+stam_id: "10004274273"
+version_id: "10004462222"
+internal_id: "C10006996161"
+label_id: "10004259234"
+dtd_version: "2.0"
+original_entry_into_force: "1973-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004702/1986-03-01/0"
+intitule_bron: "Trb.1971-70"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1971-04-21"
+intitule_in_force: "1973-03-16"
+intitule_status: "goed"
+original_publication: "Trb.1971-70"
+original_published_date: "1971-04-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1971-70"
+entry_into_force_date: "1973-01-01"
+jci_1_3: "jci1.3:c:BWBV0004702&z=1986-03-01&g=1986-03-01"
+jci_1_0: "1.0:c:BWBV0004702&g=1986-03-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1973-01-01"
 ---
-
 # Financieel Protocol bij de op 12 september 1963 te Ankara ondertekende Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschap en Turkije
 
 Zijne Majesteit de Koning der Belgen,
@@ -86,11 +108,11 @@ Die, na overlegging van hun in goede en behoorlijke vorm bevonden volmachten,
 
 Overeenstemming hebben bereikt omtrent de volgende bepalingen, die aan de [Associatieovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0004316) worden gehecht,
 
-#### Artikel 1
+##### Artikel 1
 
 In het kader van de Associatie tussen de Europese Economische Gemeenschap en Turkije neemt de Gemeenschap op de wijze, vermeld in dit Protocol, deel aan de maatregelen ter bevordering van de ontwikkeling van Turkije, in aanvulling op hetgeen door dit land zelf wordt verricht.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Turkse Staat, overheids- of particuliere lichamen of ondernemingen die hun zetel of een vestiging in Turkije hebben, kunnen verzoeken om financiering indienen bij de Europese Investeringsbank, die hen in kennis stelt van het aan hun verzoeken gegeven gevolg.
 
@@ -110,7 +132,7 @@ In het kader van de Associatie tussen de Europese Economische Gemeenschap en Tur
 
 4. Bijzondere aandacht wordt besteed aan projecten die kunnen bijdragen tot verbetering van de toestand der Turkse betalingsbalans.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Met betrekking tot de verzoeken waarop gunstig is beschikt, geschiedt de financiering door middel van leningen van de Europese Investeringsbank, handelend in opdracht van de Lid-Staten der Gemeenschap.
 
@@ -120,7 +142,7 @@ In het kader van de Associatie tussen de Europese Economische Gemeenschap en Tur
 
 4. Het in lid 2 hierboven bedoelde bedrag wordt vermeerderd met het niet gestorte gedeelte van de uit hoofde van het eerste Financiële Protocol vastgelegde kredieten, welke waren komen te vervallen voordat de desbetreffende stortingen geheel of ten dele waren verricht.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Op de verzoeken om financiering die niet ingediend worden door de Turkse Regering, kan slechts gunstig worden beschikt met toestemming van deze Regering.
 
@@ -128,7 +150,7 @@ In het kader van de Associatie tussen de Europese Economische Gemeenschap en Tur
 
 3. De ondernemingen waarvan het risicodragend kapitaal geheel of gedeeltelijk afkomstig is uit landen van de Gemeenschap, hebben op gelijke voorwaarden als de ondernemingen welker kapitaal van binnenlandse oorsprong is, toegang tot de in dit Protocol bedoelde financieringen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De leningen worden verstrekt op de grondslag van de economische kenmerken van de projecten tot financiering waarvan zij dienen.
 
@@ -146,7 +168,7 @@ Voor de keuze van de door tussenkomst van deze instellingen te financieren proje
 
 5. De door de begunstigde ondernemingen terugbetaalde bedragen welke door de bemiddelende instellingen niet onmiddellijk voor de aflossing van de leningen van de Bank behoeven te worden gebruikt, worden op een bijzondere rekening samengebracht; zij kunnen slechts met toestemming van de Bank worden aangewend.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Voor de toekenning der leningen staat de deelneming aan aanbestedingen, inschrijvingen, koop- en aannemingscontracten en andere overeenkomsten onder gelijke voorwaarden open voor alle natuurlijke of rechtspersonen van Turkije en van de Lid-Staten der Gemeenschap.
 
@@ -154,15 +176,15 @@ Voor de keuze van de door tussenkomst van deze instellingen te financieren proje
 
 3. De Bank ziet erop toe dat de fondsen op de meest rationele wijze en overeenkomstig de doelstellingen van de [Associatieovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0004316) worden gebruikt.
 
-#### Artikel 7
+##### Artikel 7
 
 Gedurende de gehele looptijd van de leningen verplicht Turkije zich ertoe om de nodige deviezen voor rentebetaling, commissieloon en aflossing op de leningen ter beschikking te stellen van de debiteuren aan wie deze leningen worden verstrekt.
 
-#### Artikel 8
+##### Artikel 8
 
 De in het kader van dit Protocol verleende bijstand voor de tenuitvoerlegging van bepaalde projecten kan de vorm aannemen van deelneming in financieringen waaraan met name derde Staten, internationale financiële instellingen dan wel autoriteiten en instellingen op het gebied van kredietverlening en ontwikkeling van Turkije of van de Lid-Staten der Gemeenschap, deelnemen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Gedurende de periode van toepassing van dit Protocol gaat de Gemeenschap de mogelijkheid na om het in artikel 3 bedoelde bedrag der leningen aan te vullen met door de Europese Investeringsbank ten laste van haar eigen middelen en tegen marktvoorwaarden verstrekte leningen, welke in totaal 25 miljoen rekeneenheden kunnen belopen.
 
@@ -170,15 +192,15 @@ De in het kader van dit Protocol verleende bijstand voor de tenuitvoerlegging va
 
 3. Op deze leningen zijn dan de bepalingen van de Statuten van de Europese Investeringsbank, alsmede de artikelen 4, 7 en 8 van dit Protocol van toepassing.
 
-#### Artikel 10
+##### Artikel 10
 
 Een jaar voor het verstrijken van dit Protocol, onderwerpen de Overeenkomstsluitende Partijen de bepalingen die op het gebied van de financiële bijstand voor een nieuwe periode eventueel kunnen worden vastgesteld, aan een onderzoek.
 
-#### Artikel 11
+##### Artikel 11
 
 Dit Protocol wordt gehecht aan de [Overeenkomst waarbij een Associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije](https://wetten.overheid.nl/jci1.3:c:BWBV0004316).
 
-#### Artikel 12
+##### Artikel 12
 
 1. Dit Protocol dient door de ondertekenende Staten te worden bekrachtigd overeenkomstig hun onderscheiden grondwettelijke voorschriften en, wat de Gemeenschap betreft, te worden gesloten bij een besluit van de Raad, dat overeenkomstig de bepalingen van het [Verdrag tot oprichting van de Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) is genomen en dat ter kennis wordt gebracht van de Partijen bij de [Overeenkomst waarbij een Associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije](https://wetten.overheid.nl/jci1.3:c:BWBV0004316).
 
@@ -186,7 +208,7 @@ De bovenbedoelde akten van bekrachtiging en akte van kennisgeving van sluiting w
 
 2. Dit Protocol treedt in werking op de eerste dag van de maand volgend op de datum van uitwisseling van de akten van bekrachtiging en van de akte van kennisgeving van sluiting, genoemd in lid 1.
 
-#### Artikel 13
+##### Artikel 13
 
 Dit Protocol is opgesteld in twee exemplaren, in de Duitse, de Franse, de Italiaanse, de Nederlandse en de Turkse taal, zijnde alle teksten gelijkelijk authentiek.
 

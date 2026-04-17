@@ -1,13 +1,35 @@
 ---
 title: "Protocol bij de Overeenkomst inzake Partnerschap en Samenwerking waarbij een partnerschap tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de Russische Federatie, anderzijds, om rekening te houden met de toetreding van de Republiek Kroatië tot de Europese Unie"
 identifier: "BWBV0006435"
-categorie: "Internationaal recht"
-publicatiedatum: 2016-04-01
-laatste_update: 2014-12-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006435"
+country: "nl"
+rank: "verdrag"
+publication_date: "2016-04-01"
+last_updated: "2014-12-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006435"
+soort: "verdrag"
+stam_id: "10005264183"
+version_id: "10005654042"
+internal_id: "C10009115411"
+label_id: "10005246964"
+dtd_version: "2.0"
+original_entry_into_force: "2016-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006435/2016-04-01/0"
+intitule_bron: "Trb.2015-10"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2015-01-23"
+intitule_in_force: "2016-06-29"
+intitule_status: "goed"
+original_publication: "Trb.2015-10"
+original_published_date: "2015-01-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2015-10"
+entry_into_force_date: "2016-04-01"
+jci_1_3: "jci1.3:c:BWBV0006435&z=2016-04-01&g=2016-04-01"
+jci_1_0: "1.0:c:BWBV0006435&g=2016-04-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2016-04-01"
 ---
-
 # Protocol bij de Overeenkomst inzake Partnerschap en Samenwerking waarbij een partnerschap tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de Russische Federatie, anderzijds, om rekening te houden met de toetreding van de Republiek Kroatië tot de Europese Unie
 
 Het Koninkrijk België,
@@ -86,19 +108,19 @@ Rekening houdende met de toetreding van de Republiek Kroatië tot de Europese Un
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 De Republiek Kroatië treedt toe tot de overeenkomst. De Republiek Kroatië keurt op dezelfde wijze als de andere lidstaten de teksten goed van de [overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001261) en van de [gemeenschappelijke verklaringen](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&artikel=2), [briefwisselingen en verklaringen](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&paragraaf=1) die aan de op dezelfde datum ondertekende [Slotakte](onbekend) zijn gehecht, het [protocol bij de overeenkomst van 21 mei 1997](https://wetten.overheid.nl/jci1.3:c:BWBV0002978), dat op 1 december 2000 in werking is getreden, het [protocol bij de overeenkomst van 27 april 2004](https://wetten.overheid.nl/jci1.3:c:BWBV0001654), dat op 1 maart 2005 in werking is getreden, en het [protocol bij de overeenkomst van 23 april 2007](https://wetten.overheid.nl/jci1.3:c:BWBV0002642), dat op 1 mei 2008 in werking is getreden, en neemt van deze teksten nota.
 
-#### Artikel 2
+##### Artikel 2
 
 Na de ondertekening van dit protocol doet de Unie de tekst van de [overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001261), de [Slotakte en alle daaraan gehechte documenten](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&paragraaf=1), alsook de [protocollen bij de overeenkomst van 21 mei 1997](https://wetten.overheid.nl/jci1.3:c:BWBV0002978), [27 april 2004](https://wetten.overheid.nl/jci1.3:c:BWBV0001654) en [23 april 2007](https://wetten.overheid.nl/jci1.3:c:BWBV0002642) in de Kroatische taal toekomen aan de lidstaten en aan de Russische Federatie. Met ingang van de datum waarop dit protocol voorlopig wordt toegepast, wordt de tekst in de Kroatische taal authentiek op dezelfde voorwaarden als de teksten van de overeenkomst in de Bulgaarse, de Deense, de Duitse, de Engelse, de Estse, de Finse, de Franse, de Griekse, de Hongaarse, de Italiaanse, de Letse, de Litouwse, de Maltese, de Nederlandse, de Poolse, de Portugese, de Roemeense, de Sloveense, de Slowaakse, de Spaanse, de Tsjechische, de Zweedse en de Russische taal.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit protocol maakt een integrerend deel uit van de [overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001261).
 
-#### Artikel 4
+##### Artikel 4
 
 1. Dit protocol wordt door de partijen volgens hun eigen procedures goedgekeurd. De partijen stellen elkaar in kennis van de voltooiing van de daartoe vereiste procedures. De akten van goedkeuring worden neergelegd bij het secretariaat-generaal van de Raad van de Europese Unie.
 
@@ -108,7 +130,7 @@ Dit protocol maakt een integrerend deel uit van de [overeenkomst](https://wetten
 
 4. Met ingang van de datum waarop de Republiek Kroatië tot de Europese Unie toetreedt, is dit protocol van toepassing op de betrekkingen tussen de partijen in het kader van de [overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001261).
 
-#### Artikel 5
+##### Artikel 5
 
 Dit protocol is opgesteld in twee exemplaren in de Bulgaarse, de Deense, de Duitse, de Engelse, de Estse, de Finse, de Franse, de Griekse, de Hongaarse, de Italiaanse, de Kroatische, de Letse, de Litouwse, de Maltese, de Nederlandse, de Poolse, de Portugese, de Roemeense, de Sloveense, de Slowaakse, de Spaanse, de Tsjechische, de Zweedse en de Russische taal, zijnde alle teksten gelijkelijk authentiek.
 

@@ -1,13 +1,35 @@
 ---
 title: "Kaderovereenkomst inzake partnerschap en samenwerking tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek der Filipijnen, anderzijds"
 identifier: "BWBV0005873"
-categorie: "Internationaal recht"
-publicatiedatum: 2018-03-01
-laatste_update: 2018-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005873"
+country: "nl"
+rank: "verdrag"
+publication_date: "2018-03-01"
+last_updated: "2018-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005873"
+soort: "verdrag"
+stam_id: "10004907603"
+version_id: "10005221392"
+internal_id: "C10009390771"
+label_id: "10004891514"
+dtd_version: "2.0"
+original_entry_into_force: "2018-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005873/2018-03-01/0"
+intitule_bron: "Trb.2012-152"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2012-08-23"
+intitule_in_force: "2018-04-04"
+intitule_status: "goed"
+original_publication: "Trb.2012-152"
+original_published_date: "2012-08-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2012-152"
+entry_into_force_date: "2018-03-01"
+jci_1_3: "jci1.3:c:BWBV0005873&z=2018-03-01&g=2018-03-01"
+jci_1_0: "1.0:c:BWBV0005873&g=2018-03-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2018-03-01"
 ---
-
 # Kaderovereenkomst inzake partnerschap en samenwerking tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek der Filipijnen, anderzijds
 
 de Europese Unie, hierna „de Unie” genoemd,
@@ -126,7 +148,7 @@ Zijn als volgt overeengekomen:
 
 ## TITEL I. AARD EN TOEPASSINGSGEBIED
 
-#### Artikel 1. Algemene beginselen
+##### Artikel 1. Algemene beginselen
 
 1. De eerbiediging van de democratische beginselen en de rechten van de mens, zoals vastgelegd in de [Universele Verklaring van de rechten van de mens](https://wetten.overheid.nl/jci1.3:c:BWBV0001008) en andere internationale mensenrechteninstrumenten waarbij de partijen partij zijn, en van het beginsel van de rechtsstaat, ligt ten grondslag aan het binnenlandse en het buitenlandse beleid van de partijen en is een essentieel element van deze overeenkomst.
 
@@ -138,7 +160,7 @@ Zijn als volgt overeengekomen:
 
 5. De partijen komen overeen dat de samenwerking in het kader van deze overeenkomst zal geschieden volgens hun eigen wet- en regelgeving.
 
-#### Artikel 2. Doel van de samenwerking
+##### Artikel 2. Doel van de samenwerking
 
 Met het oog op de versterking van hun bilaterale betrekkingen voeren de partijen een brede dialoog en stimuleren ze verdere samenwerking in alle sectoren van gezamenlijk belang zoals bepaald in deze overeenkomst. Hun inspanningen zijn met name gericht op:
 
@@ -164,21 +186,21 @@ Met het oog op de versterking van hun bilaterale betrekkingen voeren de partijen
 
 - k. het bevorderen van het begrip tussen mensen en effectieve dialoog en interactie met organisaties van het maatschappelijk middenveld.
 
-#### Artikel 3. Samenwerking in regionale en internationale organisaties
+##### Artikel 3. Samenwerking in regionale en internationale organisaties
 
 De partijen blijven standpunten uitwisselen en samenwerken in regionale en internationale fora en organisaties als de Verenigde Naties en relevante VN-organen en -agentschappen, zoals de Conferentie van de Verenigde Naties voor Handel en Ontwikkeling (UNCTAD), de dialoog tussen de ASEAN en de EU, het regionale forum van de ASEAN (ARF), de Asia-Europe Meeting (ASEM), de WTO, de Internationale Organisatie voor Migratie (IOM) en de Wereldorganisatie voor de Intellectuele Eigendom (WIPO).
 
-#### Artikel 4. Regionale en bilaterale samenwerking
+##### Artikel 4. Regionale en bilaterale samenwerking
 
 Voor elke sector waarbinnen in het kader van deze overeenkomst dialoog en samenwerking worden ontwikkeld, en met nadruk op de terreinen die binnen het kader van de samenwerking tussen de EU en de Filipijnen vallen, kunnen de partijen in overleg ook op regionaal niveau samenwerken of beide kaders combineren, waarbij rekening wordt gehouden met de besluitvormingsprocessen van de betrokken regionale organisatie. De partijen streven ernaar het beste kader te kiezen om het effect te maximaliseren en de betrokkenheid van alle belanghebbenden te vergroten; hierbij moeten de beschikbare middelen optimaal worden benut en moet de samenhang met andere activiteiten worden gewaarborgd.
 
 ## TITEL II. POLITIEKE DIALOOG EN SAMENWERKING
 
-#### Artikel 5. Vredesprocessen en conflictpreventie
+##### Artikel 5. Vredesprocessen en conflictpreventie
 
 De partijen komen overeen verder samen te werken om conflicten te voorkomen en een vredescultuur te bevorderen, onder meer door sensibiliseringsprogramma’s en voorlichtingscampagnes.
 
-#### Artikel 6. Samenwerking op het gebied van de mensenrechten
+##### Artikel 6. Samenwerking op het gebied van de mensenrechten
 
 1. De partijen komen overeen samen te werken bij de bevordering en doeltreffende bescherming van de mensenrechten, onder andere via de internationale mensenrechteninstrumenten waarbij zij partij zijn.
 
@@ -196,13 +218,13 @@ De partijen komen overeen verder samen te werken om conflicten te voorkomen en e
 
 - f. samenwerking binnen de mensenrechteninstellingen van de Verenigde Naties.
 
-#### Artikel 7. Ernstige misdrijven waarmee de internationale gemeenschap wordt geconfronteerd
+##### Artikel 7. Ernstige misdrijven waarmee de internationale gemeenschap wordt geconfronteerd
 
 1. De partijen erkennen dat de ernstigste misdrijven op het gebied van het internationale humanitaire recht, genocide en andere misdaden tegen de menselijkheid waarmee de internationale gemeenschap wordt geconfronteerd, niet ongestraft mogen blijven en dat deze misdrijven moeten worden vervolgd door op nationaal of internationaal niveau de nodige maatregelen te treffen, inclusief via het internationale strafhof, overeenkomstig de binnenlandse wetgeving van de partijen.
 
 2. De partijen komen overeen een vruchtbare dialoog te voeren over universele onderschrijving van het [Statuut van Rome van het Internationaal Strafhof](https://wetten.overheid.nl/jci1.3:c:BWBV0001489), overeenkomstig hun respectieve wetgeving, waaronder steun voor capaciteitsopbouw.
 
-#### Artikel 8. Bestrijding van de verspreiding van massavernietigingswapens en overbrengingsmiddelen daarvoor
+##### Artikel 8. Bestrijding van de verspreiding van massavernietigingswapens en overbrengingsmiddelen daarvoor
 
 1. De partijen zijn van oordeel dat de verspreiding van massavernietigingswapens en overbrengingsmiddelen daarvoor, zowel door als onder staten en niet-overheidsactoren, een van de ernstigste bedreigingen voor de internationale stabiliteit en veiligheid vormt.
 
@@ -218,7 +240,7 @@ De partijen erkennen dat de toepassing van exportcontroles geen belemmering mag 
 
 4. De partijen komen overeen een regelmatige politieke dialoog in te stellen ter begeleiding en consolidatie van deze elementen. De partijen kunnen er tevens naar streven deze dialoog op regionaal niveau te voeren.
 
-#### Artikel 9. Handvuurwapens en lichte wapens
+##### Artikel 9. Handvuurwapens en lichte wapens
 
 1. De partijen erkennen dat de illegale handel in handvuurwapens en lichte wapens (SALW) en munitie daarvoor, alsmede buitensporige accumulatie, slecht beheer, inadequaat beveiligde voorraden en ongecontroleerde verspreiding ervan een ernstige bedreiging voor de vrede en de internationale veiligheid blijven vormen.
 
@@ -226,7 +248,7 @@ De partijen erkennen dat de toepassing van exportcontroles geen belemmering mag 
 
 3. De partijen stellen een regelmatige politieke dialoog in om inzichten en informatie uit te wisselen, ontwikkelen een gemeenschappelijke visie op de vraagstukken en problemen met betrekking tot de illegale handel in SALW en ontwikkelen capaciteit om dergelijke handel te voorkomen, te bestrijden en uit te bannen.
 
-#### Artikel 10. Samenwerking bij terrorismebestrijding
+##### Artikel 10. Samenwerking bij terrorismebestrijding
 
 1. De partijen herhalen dat terrorisme moet worden voorkomen en bestreden overeenkomstig hun eigen wet- en regelgeving en met eerbiediging van de rechtsstaat, het internationale recht, met name het [VN-Handvest](https://wetten.overheid.nl/jci1.3:c:BWBV0004143) en de relevante resoluties van de VN-Veiligheidsraad, de wetgeving inzake mensenrechten en vluchtelingen, het internationale humanitaire recht en internationale verdragen waarbij zij partij zijn, de mondiale strategie voor terrorismebestrijding van de VN, zoals beschreven in Resolutie 60/28 van de Algemene Vergadering van de VN van 8 september 2006, en de Gezamenlijke verklaring van de EU en de ASEAN over samenwerking ter bestrijding van terrorisme van 28 januari 2003.
 
@@ -248,13 +270,13 @@ De partijen erkennen dat de toepassing van exportcontroles geen belemmering mag 
 
 - h. betere implementatie en samenwerking op het gebied van terrorismebestrijding binnen de ASEM en in EU-ASEAN-verband.
 
-#### Artikel 11. Samenwerking op het gebied van openbaar bestuur
+##### Artikel 11. Samenwerking op het gebied van openbaar bestuur
 
 De partijen komen overeen samen te werken met het oog op bevordering van de capaciteitsopbouw op het gebied van openbaar bestuur. Deze samenwerking kan het uitwisselen van goede praktijken op het gebied van managementmethoden, dienstverlening, uitbreiding van de institutionele capaciteit en transparantievraagstukken omvatten.
 
 ## TITEL III. HANDEL EN INVESTERINGEN
 
-#### Artikel 12. Algemene beginselen
+##### Artikel 12. Algemene beginselen
 
 1. De partijen voeren een dialoog over de bilaterale en multilaterale handel en handelsgerelateerde kwesties met het oog op de versterking van de bilaterale handelsbetrekkingen en de bevordering van het multilaterale handelssysteem ter bevordering van groei en ontwikkeling.
 
@@ -266,7 +288,7 @@ De partijen komen overeen samen te werken met het oog op bevordering van de capa
 
 5. De partijen sporen aan tot dialoog en samenwerking om hun handels- en investeringsbetrekkingen te ontwikkelen, hun handelsproblemen op te lossen en andere handelsgerelateerde vraagstukken aan te pakken, op de in de artikelen 13 tot en met 19 beschreven terreinen.
 
-#### Artikel 13. Sanitaire en fytosanitaire vraagstukken
+##### Artikel 13. Sanitaire en fytosanitaire vraagstukken
 
 1. De partijen werken samen op het gebied van voedselveiligheid en sanitaire en fytosanitaire vraagstukken, ter bescherming van het leven en de gezondheid van mensen, dieren en planten op hun grondgebied.
 
@@ -278,7 +300,7 @@ De partijen komen overeen samen te werken met het oog op bevordering van de capa
 
 5. De partijen wijzen contactpunten aan voor communicatie over vraagstukken in verband met dit artikel.
 
-#### Artikel 14. Technische handelsbelemmeringen
+##### Artikel 14. Technische handelsbelemmeringen
 
 1. De partijen zijn het erover eens dat samenwerking op het gebied van normalisatie, technische regelgeving en conformiteitsbeoordeling een belangrijke voorwaarde is voor de ontwikkeling van de handel.
 
@@ -286,7 +308,7 @@ De partijen komen overeen samen te werken met het oog op bevordering van de capa
 
 3. De samenwerking op dit gebied kan onder meer plaatsvinden via dialoog, gezamenlijke projecten, technische bijstand en programma’s voor capaciteitsopbouw.
 
-#### Artikel 15. Douane en vereenvoudiging van het handelsverkeer
+##### Artikel 15. Douane en vereenvoudiging van het handelsverkeer
 
 1. De partijen wisselen ervaringen uit en gaan na in hoeverre het mogelijk is invoer-, uitvoer- en andere douaneprocedures te vereenvoudigen, de transparantie van de regelgeving met betrekking tot douane en handel te vergroten en samenwerking op het gebied van douane en doeltreffende mechanismen voor wederzijdse administratieve bijstand te ontwikkelen; zij streven er tevens naar hun standpunten op elkaar af te stemmen en gezamenlijke activiteiten te ontplooien in de context van internationale initiatieven, waaronder vereenvoudiging van het handelsverkeer. De partijen besteden bijzondere aandacht aan de vergroting van de veiligheid en de beveiliging van de internationale handel, doeltreffende en efficiënte handhaving door de douane van intellectuele-eigendomsrechten en evenwicht tussen vereenvoudiging van het handelsverkeer en de bestrijding van fraude en onregelmatigheden.
 
@@ -294,23 +316,23 @@ De partijen komen overeen samen te werken met het oog op bevordering van de capa
 
 3. De partijen blijven in overleg middelen inzetten voor technische bijstand ter ondersteuning van de samenwerking inzake douane en vereenvoudiging van het handelsverkeer in het kader van deze overeenkomst.
 
-#### Artikel 16. Investeringen
+##### Artikel 16. Investeringen
 
 Met inachtneming van hun wet- en regelgeving sporen de partijen aan tot sterkere investeringsstromen door een aantrekkelijk en stabiel wederzijds investeringsklimaat te creëren door middel van een consistente dialoog die gericht is op stabiele, transparante, open en niet-discriminerende regels voor investeerders, waarbij wordt nagegaan met welke administratieve mechanismen de investeringsstromen kunnen worden vergemakkelijkt.
 
-#### Artikel 17. Mededingingsbeleid
+##### Artikel 17. Mededingingsbeleid
 
 1. De partijen bevorderen het invoeren en toepassen van mededingingsregels en de instelling van mededingingsautoriteiten om deze regels te implementeren. De partijen streven ernaar de regels op doeltreffende, niet-discriminerende en transparante wijze toe te passen teneinde de rechtszekerheid op hun grondgebied te garanderen.
 
 2. Daartoe ontwikkelen de partijen activiteiten voor capaciteitsopbouw op het gebied van het mededingingsbeleid, afhankelijk van de financiële middelen die daarvoor beschikbaar zijn in het kader van de samenwerkingsinstrumenten en -programma’s van de partijen.
 
-#### Artikel 18. Diensten
+##### Artikel 18. Diensten
 
 1. De partijen gaan een consistente dialoog aan die met name gericht is op het uitwisselen van informatie over hun respectieve regelgeving, het stimuleren van toegang tot elkaars markt, met inbegrip van e-commerce, het bevorderen van toegang tot bronnen van kapitaal en technologie, en het stimuleren van de handel in diensten tussen beide regio’s en op de markten van derde landen.
 
 2. De partijen erkennen het concurrentievermogen van hun respectieve dienstensectoren en overleggen over de manier waarop kansen voor de handel in diensten op elkaars markt kunnen worden benut.
 
-#### Artikel 19. Intellectuele-eigendomsrechten
+##### Artikel 19. Intellectuele-eigendomsrechten
 
 1. De partijen bevestigen het grote belang dat zij hechten aan de bescherming van intellectuele-eigendomsrechten en verbinden zich ertoe passende maatregelen te nemen om deze rechten adequaat en doeltreffend te beschermen en te handhaven, waarbij zij erop toezien dat deze maatregelen in overeenstemming zijn met de beste praktijken en de internationale normen waaraan de partijen zijn gebonden.
 
@@ -322,13 +344,13 @@ Met inachtneming van hun wet- en regelgeving sporen de partijen aan tot sterkere
 
 ## TITEL IV. SAMENWERKING OP HET GEBIED VAN JUSTITIE EN VEILIGHEID
 
-#### Artikel 20. Juridische samenwerking
+##### Artikel 20. Juridische samenwerking
 
 1. De partijen erkennen het cruciale belang van de rechtsstaat en de versterking van alle daarmee samenhangende instellingen.
 
 2. De partijen kunnen ook informatie uitwisselen over de beste praktijken met betrekking tot rechtsstelsels en wetgeving.
 
-#### Artikel 21. Samenwerking op het gebied van drugsbestrijding
+##### Artikel 21. Samenwerking op het gebied van drugsbestrijding
 
 1. De partijen zorgen bij hun samenwerking voor een evenwichtige aanpak door middel van doeltreffende coördinatie tussen de bevoegde autoriteiten, te weten de belangrijkste narcoticadienst en de instanties op het gebied van volksgezondheid, justitie, onderwijs, jongeren, sociale voorzieningen, douane en binnenlandse zaken, en andere relevante sectoren en belanghebbenden, om het aanbod van en de vraag naar drugs terug te dringen, het effect daarvan op druggebruikers, hun familie en de samenleving in het algemeen te verkleinen en precursoren beter te controleren.
 
@@ -352,7 +374,7 @@ Met inachtneming van hun wet- en regelgeving sporen de partijen aan tot sterkere
 
 - h. andere door de partijen onderling overeengekomen terreinen.
 
-#### Artikel 22. Samenwerking bij de bestrijding van het witwassen van geld en de financiering van terrorisme
+##### Artikel 22. Samenwerking bij de bestrijding van het witwassen van geld en de financiering van terrorisme
 
 1. De partijen zijn het erover eens dat zij moeten samenwerken om te voorkomen dat de opbrengsten van criminele activiteiten zoals drugshandel en corruptie worden witgewassen.
 
@@ -360,7 +382,7 @@ Met inachtneming van hun wet- en regelgeving sporen de partijen aan tot sterkere
 
 3. De partijen stimuleren de samenwerking op het gebied van de bestrijding van het witwassen van geld en de financiering van terrorisme, onder meer door projecten voor capaciteitsopbouw.
 
-#### Artikel 23. Bestrijding van georganiseerde misdaad en corruptie
+##### Artikel 23. Bestrijding van georganiseerde misdaad en corruptie
 
 1. De partijen komen overeen samen te werken om georganiseerde misdaad en corruptie te bestrijden, zoals bepaald in het [VN-Verdrag tegen grensoverschrijdende georganiseerde misdaad](https://wetten.overheid.nl/jci1.3:c:BWBV0001668) en de bijbehorende protocollen en het [VN-Verdrag tegen corruptie](https://wetten.overheid.nl/jci1.3:c:BWBV0001830). In het kader van de samenwerking stimuleren de partijen de implementatie van deze verdragen en andere relevante instrumenten waarbij zij partij zijn.
 
@@ -368,7 +390,7 @@ Met inachtneming van hun wet- en regelgeving sporen de partijen aan tot sterkere
 
 3. De partijen komen overeen samenwerking tot stand te brengen tussen autoriteiten, instanties en diensten op het gebied van wetshandhaving en bij te dragen tot het verstoren en neutraliseren van grensoverschrijdende misdaaddreigingen voor beide partijen, binnen hun respectieve wetgeving. De samenwerking tussen deze autoriteiten, instanties en diensten op het gebied van wetshandhaving kan geschieden in de vorm van wederzijdse bijstand bij onderzoeken, uitwisseling van onderzoekstechnieken, gezamenlijke opleidingsprogramma’s voor personeel van wetshandhavingsinstanties en andere gezamenlijke activiteiten en bijstand, waaronder de bestaande nationale centrale bureaus van Interpol, via het mondiale politiecommunicatiesysteem van Interpol (I-24/7) of een vergelijkbaar systeem voor de uitwisseling van informatie, zoals overeen te komen door de partijen.
 
-#### Artikel 24. Bescherming van persoonsgegevens
+##### Artikel 24. Bescherming van persoonsgegevens
 
 1. De partijen komen overeen samen te werken om het niveau van bescherming van persoonsgegevens te verbeteren overeenkomstig de strengste internationale normen, zoals onder andere vervat in de Guidelines for the Regulation of Computerized Personal Data Files die werden vastgesteld bij Resolutie 45/95 van de Algemene Vergadering van de VN van 14 december 1990.
 
@@ -380,13 +402,13 @@ Met inachtneming van hun wet- en regelgeving sporen de partijen aan tot sterkere
 
 - c. de uitwisseling van professionals en deskundigen om het gegevensbeschermingsbeleid te bestuderen.
 
-#### Artikel 25. Vluchtelingen en binnenlands ontheemden
+##### Artikel 25. Vluchtelingen en binnenlands ontheemden
 
 De partijen blijven waar nodig samenwerken met betrekking tot vraagstukken in verband met het welzijn van vluchtelingen en binnenlands ontheemden, waarbij rekening wordt gehouden met de reeds verstrekte hulp, en zoeken naar duurzame oplossingen.
 
 ## TITEL V. SAMENWERKING INZAKE MIGRATIE EN MARITIEME ARBEID
 
-#### Artikel 26. Samenwerking op het gebied van migratie en ontwikkeling
+##### Artikel 26. Samenwerking op het gebied van migratie en ontwikkeling
 
 1. De partijen bevestigen opnieuw dat het van belang is de migratiestromen tussen hun grondgebieden gezamenlijk te beheersen. Om de samenwerking te versterken, stellen de partijen een mechanisme in voor een brede dialoog en overleg over alle migratiegerelateerde vraagstukken. Het thema migratie moet worden geïntegreerd in de nationale strategieën en ontwikkelingskaders voor de economische en sociale ontwikkeling van de landen van herkomst, doorreis of bestemming van de migranten.
 
@@ -420,7 +442,7 @@ Als de betrokken persoon niet in het bezit is van passende identiteitsdocumenten
 
 4. De partijen komen overeen zo spoedig mogelijk een overeenkomst te sluiten inzake de toelating en overname van hun onderdanen, inclusief een bepaling over de overname van onderdanen van andere landen en staatloze personen.
 
-#### Artikel 27. Maritieme arbeid, opleiding en scholing
+##### Artikel 27. Maritieme arbeid, opleiding en scholing
 
 1. De partijen komen overeen samen te werken op het gebied van maritieme arbeid om fatsoenlijke leef- en werkomstandigheden voor zeelieden en hun persoonlijke veiligheid en bescherming te stimuleren en te handhaven, evenals beleid en programma’s voor gezondheid en veiligheid op het werk.
 
@@ -442,7 +464,7 @@ Als de betrokken persoon niet in het bezit is van passende identiteitsdocumenten
 
 ## TITEL VI. ECONOMISCHE SAMENWERKING, ONTWIKKELINGSSAMENWERKING, EN ANDERE SECTOREN
 
-#### Artikel 28. Werkgelegenheid en sociale zaken
+##### Artikel 28. Werkgelegenheid en sociale zaken
 
 1. De partijen komen overeen de samenwerking op het gebied van werkgelegenheid en sociale zaken te intensiveren, met inbegrip van onder meer de samenwerking inzake regionale en sociale cohesie, de in [artikel 26, lid 2, onder b)](https://wetten.overheid.nl/jci1.3:c:BWBV0005873&titeldeel=V&artikel=26&z=2018-03-01&g=2018-03-01), bedoelde samenwerking, samenwerking inzake gezondheid en veiligheid op het werk, ontwikkeling van vaardigheden, gelijke kansen voor mannen en vrouwen en fatsoenlijk werk, teneinde de sociale dimensie van de mondialisering te versterken.
 
@@ -450,7 +472,7 @@ Als de betrokken persoon niet in het bezit is van passende identiteitsdocumenten
 
 3. De partijen bevestigen hun verbintenis om de internationaal erkende arbeidsnormen en sociale normen, zoals die zijn vastgelegd in met name de verklaring over de fundamentele principes en rechten met betrekking tot werk van de Internationale Arbeidsorganisatie (IAO) en de IAO-verdragen waarbij zij partij zijn, te eerbiedigen, te bevorderen en te verwezenlijken; zij komen overeen daartoe samen te werken aan in overleg vast te stellen programma’s en projecten voor specifieke technische bijstand. De partijen komen voorts overeen een dialoog, samenwerking en initiatieven te ontwikkelen met betrekking tot thema’s die van wederzijds belang zijn op bilateraal of multilateraal niveau, zoals op het niveau van de VN, de IOM, de IAO en de ASEM en in EU-ASEAN-verband.
 
-#### Artikel 29. Ontwikkelingssamenwerking
+##### Artikel 29. Ontwikkelingssamenwerking
 
 1. Het primaire doel van ontwikkelingssamenwerking is om duurzame ontwikkeling aan te moedigen, waarmee wordt bijgedragen aan de bestrijding van armoede en de verwezenlijking van internationaal overeengekomen ontwikkelingsdoelen, zoals de millenniumdoelstellingen voor ontwikkeling. De partijen onderhouden een regelmatige dialoog over ontwikkelingssamenwerking, overeenkomstig hun respectieve prioriteiten en gebieden van wederzijds belang.
 
@@ -470,17 +492,17 @@ Als de betrokken persoon niet in het bezit is van passende identiteitsdocumenten
 
 - g. totstandbrenging van processen in verband met de beginselen van de Verklaring van Parijs over de doeltreffendheid van hulp, de Actieagenda van Accra en andere internationale verbintenissen met betrekking tot de tenuitvoerlegging en de doeltreffendheid van hulp.
 
-#### Artikel 30. Dialoog inzake het economisch beleid
+##### Artikel 30. Dialoog inzake het economisch beleid
 
 1. De partijen komen overeen samen te werken ter bevordering van de uitwisseling van informatie over hun economische ontwikkelingen en beleidslijnen en het delen van ervaringen inzake de coördinatie van het economisch beleid in het kader van regionale economische samenwerking en integratie.
 
 2. De partijen streven naar intensivering van de dialoog tussen hun autoriteiten over door de partijen overeengekomen economische aangelegenheden, zoals het monetair en fiscaal beleid, met inbegrip van vennootschapsbelasting, de overheidsfinanciën, macro-economische stabilisatie en de buitenlandse schuld.
 
-#### Artikel 31. Maatschappelijk middenveld
+##### Artikel 31. Maatschappelijk middenveld
 
 De partijen erkennen de rol en de potentiële bijdrage van organisaties van het maatschappelijk middenveld voor het democratisch bestel en komen overeen om, overeenkomstig hun binnenlandse wetgeving, een doeltreffende dialoog en interactie met het maatschappelijk middenveld te stimuleren.
 
-#### Artikel 32. Risicobeheersing in verband met rampen
+##### Artikel 32. Risicobeheersing in verband met rampen
 
 1. De partijen komen overeen de samenwerking met betrekking tot risicobeheer in verband met rampen te intensiveren door verder te gaan met het ontwikkelen en uitvoeren van maatregelen om de risico’s van natuurrampen voor gemeenschappen te beperken en de gevolgen voor alle segmenten van de samenleving te beheersen. Hierbij moet de nadruk worden gelegd op preventiemaatregelen en een proactieve aanpak van de gevaren en risico’s om deze risico’s en de kwetsbaarheid voor natuurrampen te verminderen.
 
@@ -504,7 +526,7 @@ De partijen erkennen de rol en de potentiële bijdrage van organisaties van het 
 
 - h. aanpassing aan en matiging van klimaatverandering.
 
-#### Artikel 33. Energie
+##### Artikel 33. Energie
 
 1. De partijen streven naar meer samenwerking in de energiesector teneinde:
 
@@ -524,7 +546,7 @@ De partijen erkennen de rol en de potentiële bijdrage van organisaties van het 
 
 3. Overeenkomstig hun verbintenissen als partijen bij het [VN-kaderverdrag inzake klimaatverandering](https://wetten.overheid.nl/jci1.3:c:BWBV0001115) komen de partijen overeen technische samenwerking en private partnerschappen te bevorderen op het gebied van duurzame en hernieuwbare energie, alsook projecten met betrekking tot energie-efficiëntie en de overschakeling op schone brandstoffen door middel van flexibele marktmechanismen, zoals het koolstofmarktmechanisme.
 
-#### Artikel 34. Milieu en natuurlijke hulpbronnen
+##### Artikel 34. Milieu en natuurlijke hulpbronnen
 
 1. De partijen komen overeen dat met de samenwerking op dit terrein het behoud en de verbetering van het milieu met het oog op duurzame ontwikkeling moeten worden bevorderd. Bij alle activiteiten die de partijen in het kader van deze overeenkomst ondernemen, wordt rekening gehouden met de resultaten van de wereldtop over duurzame ontwikkeling en met relevante multilaterale milieuverdragen waarbij beide partijen zijn aangesloten.
 
@@ -558,7 +580,7 @@ De partijen erkennen de rol en de potentiële bijdrage van organisaties van het 
 
 5. De partijen moedigen wederzijdse toegang tot elkaars programma’s op dit terrein aan, overeenkomstig de specifieke voorwaarden van deze programma’s.
 
-#### Artikel 35. Landbouw, visserij en plattelandsontwikkeling
+##### Artikel 35. Landbouw, visserij en plattelandsontwikkeling
 
 De partijen komen overeen de dialoog en de samenwerking te intensiveren met het oog op duurzame ontwikkeling op het gebied van landbouw, visserij en plattelandsontwikkeling. Deze dialoog kan worden gevoerd op de volgende terreinen:
 
@@ -588,7 +610,7 @@ De partijen komen overeen de dialoog en de samenwerking te intensiveren met het 
 
 - m. versterking van producentenorganisaties en handelspromotieactiviteiten.
 
-#### Artikel 36. Regionale ontwikkeling en samenwerking
+##### Artikel 36. Regionale ontwikkeling en samenwerking
 
 1. De partijen bevorderen wederzijds begrip en bilaterale samenwerking met betrekking tot regionaal beleid.
 
@@ -606,7 +628,7 @@ De partijen komen overeen de dialoog en de samenwerking te intensiveren met het 
 
 - e. statistiek.
 
-#### Artikel 37. Industriebeleid en midden- en kleinbedrijf
+##### Artikel 37. Industriebeleid en midden- en kleinbedrijf
 
 Rekening houdend met hun respectieve economische beleidsmaatregelen en doelstellingen komen de partijen overeen de samenwerking inzake het industriebeleid op alle terreinen te bevorderen die zij passend achten met het oog op het scheppen van een gunstig klimaat voor economische ontwikkeling en de verbetering van het concurrentievermogen van de industrie, met name het midden- en kleinbedrijf, door middel van onder meer:
 
@@ -624,7 +646,7 @@ Rekening houdend met hun respectieve economische beleidsmaatregelen en doelstell
 
 - g. ontwikkeling van gezamenlijke industriële onderzoeksprojecten en samenwerking bij projecten voor capaciteitsopbouw, onder meer met betrekking tot normen, conformiteitsbeoordelingsprocedures en technische regelgeving, in overleg vast te stellen.
 
-#### Artikel 38. Vervoer
+##### Artikel 38. Vervoer
 
 1. De partijen komen overeen samen te werken op relevante terreinen van het vervoersbeleid met het oog op verbetering van de investeringsmogelijkheden en het verkeer van goederen en personen, bevordering van de veiligheid van de zee- en luchtvaart, aanpak van de milieueffecten van vervoer en vergroting van de efficiëntie van hun vervoerssystemen.
 
@@ -650,7 +672,7 @@ Rekening houdend met hun respectieve economische beleidsmaatregelen en doelstell
 
 - f. een dialoog over de doeltreffende tenuitvoerlegging van normen voor veiligheid en beveiliging en ter voorkoming van vervuiling in de vervoerssector, met name wat betreft het zeevervoer, waaronder in het bijzonder de bestrijding van piraterij, en de luchtvaart, overeenkomstig de relevante internationale verdragen waarbij beide partijen zijn aangesloten, alsmede normen, met inbegrip van samenwerking binnen de desbetreffende internationale fora met het oog op betere naleving van de internationale regelgeving. Daartoe stimuleren de partijen technische samenwerking en bijstand inzake vraagstukken met betrekking tot vervoersveiligheid, beveiliging en milieu, onder andere met betrekking tot onderwijs en opleiding inzake zee- en luchtvaart, zoek- en reddingsoperaties en onderzoeken bij ongevallen en incidenten. De partijen richten zich ook op de bevordering van milieuvriendelijke vormen van vervoer.
 
-#### Artikel 39. Wetenschappelijke en technologische samenwerking
+##### Artikel 39. Wetenschappelijke en technologische samenwerking
 
 1. De partijen komen overeen om, overeenkomstig hun beleidsdoelstellingen, samen te werken op het gebied van wetenschap en technologie.
 
@@ -670,7 +692,7 @@ Rekening houdend met hun respectieve economische beleidsmaatregelen en doelstell
 
 6. De partijen stellen alles in het werk om het publiek beter bewust te maken van de mogelijkheden die de programma’s voor wetenschappelijke en technologische samenwerking bieden.
 
-#### Artikel 40. Samenwerking op het gebied van informatie- en communicatietechnologie
+##### Artikel 40. Samenwerking op het gebied van informatie- en communicatietechnologie
 
 1. De partijen erkennen dat informatie- en communicatietechnologieën (ICT) een centraal element van het moderne leven en essentieel voor de economische en sociale ontwikkeling zijn, en wisselen inzichten uit over hun beleid op dit gebied teneinde de economische ontwikkeling te bevorderen.
 
@@ -692,11 +714,11 @@ Rekening houdend met hun respectieve economische beleidsmaatregelen en doelstell
 
 - h. de bevordering van inspanningen en de uitwisseling van ervaringen met de ontwikkeling van ICT-personeel.
 
-#### Artikel 41. Audiovisuele sector, media en multimedia
+##### Artikel 41. Audiovisuele sector, media en multimedia
 
 De partijen stimuleren, ondersteunen en vergemakkelijken uitwisselingen, samenwerking en dialoog tussen hun relevante instellingen en actoren op het gebied van audiovisuele aangelegenheden, media en multimedia. Zij komen overeen een regelmatige beleidsdialoog over deze onderwerpen tot stand te brengen.
 
-#### Artikel 42. Samenwerking op het gebied van toerisme
+##### Artikel 42. Samenwerking op het gebied van toerisme
 
 1. De partijen zetten zich in voor de verbetering van de informatie-uitwisseling en de vaststelling van beste praktijken voor een evenwichtige en duurzame ontwikkeling van het toerisme, waarbij zij zich laten leiden door de mondiale gedragscode voor toerisme van de Wereldorganisatie voor Toerisme en de duurzaamheidsbeginselen die de grondslag vormen voor het Local Agenda 21-proces.
 
@@ -704,19 +726,19 @@ De partijen stimuleren, ondersteunen en vergemakkelijken uitwisselingen, samenwe
 
 3. De partijen komen overeen samenwerking te ontwikkelen met betrekking tot het beschermen en optimaal benutten van het natuurlijke en culturele erfgoed, het matigen van negatieve gevolgen van het toerisme en het vergroten van de positieve bijdrage van de toeristische industrie tot de duurzame ontwikkeling van plaatselijke gemeenschappen, onder meer door ecotoerisme te ontwikkelen, waarbij de integriteit en de belangen van plaatselijke en inheemse gemeenschappen worden gerespecteerd, en opleidingen op toeristisch gebied te verbeteren.
 
-#### Artikel 43. Samenwerking op het gebied van financiële dienstverlening
+##### Artikel 43. Samenwerking op het gebied van financiële dienstverlening
 
 1. De partijen komen overeen de samenwerking te versterken met het oog op sterkere convergentie van de gemeenschappelijke regels en normen en verbetering van de systemen voor boekhouding, financiële controle, toezicht en regelgeving voor het bank- en verzekeringswezen en andere onderdelen van de financiële sector.
 
 2. De partijen erkennen het belang van technische bijstand en capaciteitsopbouw in dit verband.
 
-#### Artikel 44. Goed bestuur op fiscaal gebied
+##### Artikel 44. Goed bestuur op fiscaal gebied
 
 1. Om de economische activiteit te versterken en te ontwikkelen, met inachtneming van de noodzaak een passend regelgevingskader te ontwikkelen, erkennen de partijen de beginselen van goed fiscaal bestuur en passen deze toe. Zij streven daartoe, overeenkomstig hun respectieve bevoegdheden, naar betere internationale samenwerking op fiscaal gebied, vergemakkelijking van het innen van legitieme belastingen en het opzetten van maatregelen voor de doelmatige uitvoering van deze beginselen.
 
 2. De partijen komen overeen dat de tenuitvoerlegging van deze beginselen met name zal plaatsvinden in het kader van bestaande of toekomstige bilaterale belastingverdragen tussen de Filipijnen en lidstaten.
 
-#### Artikel 45. Gezondheid
+##### Artikel 45. Gezondheid
 
 1. De partijen erkennen en bevestigen dat gezondheid van het grootste belang is. Daarom komen zij overeen samen te werken aan onder meer de hervorming van de gezondheidszorg, de belangrijkste overdraagbare ziekten en andere bedreigingen voor de gezondheid, niet-overdraagbare ziekten en internationale gezondheidsverdragen waarmee wordt gestreefd naar een betere gezondheid en duurzame ontwikkeling van de gezondheidssector op basis van wederzijds voordeel.
 
@@ -732,7 +754,7 @@ De partijen stimuleren, ondersteunen en vergemakkelijken uitwisselingen, samenwe
 
 - e. andere programma’s en projecten om de gezondheidsdiensten te verbeteren en de personele middelen in de gezondheidszorg en betreffende gezondheidsomstandigheden te versterken, zoals vastgesteld in overleg.
 
-#### Artikel 46. Onderwijs, cultuur, dialoog tussen culturen en religies
+##### Artikel 46. Onderwijs, cultuur, dialoog tussen culturen en religies
 
 1. De partijen komen overeen de samenwerking op het gebied van onderwijs, sport, cultuur en religie te stimuleren, rekening houdend met hun diversiteit, teneinde het wederzijds begrip en de kennis van elkaars cultuur te vergroten. De partijen ondersteunen en stimuleren daartoe de activiteiten van hun culturele instellingen.
 
@@ -744,13 +766,13 @@ De partijen stimuleren, ondersteunen en vergemakkelijken uitwisselingen, samenwe
 
 5. De partijen leggen voorts de nadruk op maatregelen om de betrekkingen tussen hun bevoegde instanties op dit terrein te versterken door de uitwisseling van informatie en kennis tussen deskundigen, jongeren en jongerenwerkers (op school en daarbuiten) te bevorderen; hierbij wordt gebruik gemaakt van programma’s zoals Erasmus Mundus op het gebied van onderwijs en cultuur en van de ervaringen die de partijen op dit terrein hebben opgedaan.
 
-#### Artikel 47. Statistiek
+##### Artikel 47. Statistiek
 
 De partijen komen overeen om, in overeenstemming met de bestaande activiteiten op het gebied van statistische samenwerking tussen de Europese Unie en de ASEAN, de statistische capaciteitsopbouw en de harmonisatie van statistische methoden en praktijken, bijvoorbeeld wat betreft het verzamelen en verspreiden van statistieken, te bevorderen zodat de partijen op onderling overeengekomen wijze gebruik kunnen maken van statistische gegevens over onder andere de nationale rekeningen, buitenlandse directe investeringen, informatie- en communicatietechnologie, de handel in goederen en diensten en, meer in het algemeen, alle andere gebieden die onder deze overeenkomst vallen en die zich lenen voor statistische verwerking, zoals het verzamelen, analyseren en verspreiden van gegevens.
 
 ## TITEL VII. INSTITUTIONEEL KADER
 
-#### Artikel 48. Gemengd Comité
+##### Artikel 48. Gemengd Comité
 
 1. De partijen komen overeen een Gemengd Comité in te stellen, waarin vertegenwoordigers van beide partijen op het niveau van hoge ambtenaren zitting hebben en dat de volgende taken heeft:
 
@@ -770,13 +792,13 @@ De partijen komen overeen om, in overeenstemming met de bestaande activiteiten o
 
 ## TITEL VIII. SLOTBEPALINGEN
 
-#### Artikel 49. Aanpassingsclausule
+##### Artikel 49. Aanpassingsclausule
 
 1. De partijen kunnen deze overeenkomst met wederzijdse goedkeuring en op aanbeveling van het Gemengd Comité uitbreiden, met het oog op intensivering van het samenwerkingsniveau, onder andere door de overeenkomst aan te vullen met overeenkomsten of protocollen voor specifieke sectoren en activiteiten.
 
 2. Wat de uitvoering van deze overeenkomst betreft, kan elke partij voorstellen formuleren met het oog op de uitbreiding van de wederzijdse samenwerking, rekening houdend met de bij de toepassing van de overeenkomst opgedane ervaring.
 
-#### Artikel 50. Middelen voor samenwerking
+##### Artikel 50. Middelen voor samenwerking
 
 1. De partijen komen overeen de nodige middelen, waaronder financiële middelen, beschikbaar te stellen om de samenwerkingsdoelstellingen van deze overeenkomst te realiseren, voor zover hun respectieve middelen en regelgeving hiertoe de mogelijkheid bieden.
 
@@ -786,17 +808,17 @@ De partijen komen overeen om, in overeenstemming met de bestaande activiteiten o
 
 4. De partijen kunnen besluiten de financiële steun uit te breiden tot samenwerkingsactiviteiten op de terreinen die in deze overeenkomst genoemd worden of hiermee verband houden, overeenkomstig hun respectieve financiële procedures en middelen. Onder deze samenwerkingsactiviteiten kunnen vallen: initiatieven voor capaciteitsopbouw en technische samenwerking, uitwisseling van deskundigen, studies, het opzetten van juridische, handhavings- en regelgevingskaders waarmee transparantie en verantwoordingsplicht worden gestimuleerd, en andere activiteiten die de partijen overeenkomen.
 
-#### Artikel 51. Faciliteiten
+##### Artikel 51. Faciliteiten
 
 Om de samenwerking in het kader van deze overeenkomst te vergemakkelijken, komen beide partijen overeen de ambtenaren en deskundigen die betrokken zijn bij de uitvoering van de samenwerking de nodige faciliteiten voor de uitoefening van hun taak te verlenen, overeenkomstig de nationale/binnenlandse wetgeving en de interne regels en voorschriften van de partijen.
 
-#### Artikel 52. Andere overeenkomsten
+##### Artikel 52. Andere overeenkomsten
 
 1. Onverminderd de desbetreffende bepalingen van het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) en het [Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) doet deze overeenkomst of in het kader daarvan ondernomen actie afbreuk aan de bevoegdheden van partijen om bilaterale samenwerkingsactiviteiten te ontplooien of desgewenst nieuwe partnerschaps- en samenwerkingsovereenkomsten te sluiten, ook tussen de Filipijnen en individuele lidstaten.
 
 2. Deze overeenkomst doet geen afbreuk aan de toepassing of de uitvoering van verbintenissen die de partijen zijn aangegaan of nog zullen aangaan in betrekkingen met derden.
 
-#### Artikel 53. Naleving van verplichtingen
+##### Artikel 53. Naleving van verplichtingen
 
 1. De partijen treffen alle algemene en bijzondere maatregelen die vereist zijn om aan hun verplichtingen krachtens deze overeenkomst te voldoen. Zij zien erop toe dat de in de overeenkomst aangegeven doelstellingen worden bereikt.
 
@@ -814,19 +836,19 @@ Om de samenwerking in het kader van deze overeenkomst te vergemakkelijken, komen
 
 Voordat in bijzonder dringende gevallen maatregelen worden getroffen, kan een partij verzoeken om een spoedvergadering tussen de partijen. Een dergelijke spoedvergadering wordt gehouden binnen vijftien dagen, tenzij de partijen tot een andere termijn besluiten, die echter ten hoogste 21 dagen mag bedragen, om de situatie grondig te onderzoeken en een voor beide partijen aanvaardbare oplossing te vinden.
 
-#### Artikel 54. Definitie van de partijen
+##### Artikel 54. Definitie van de partijen
 
 Voor de toepassing van deze overeenkomst wordt met de term „partijen” bedoeld de Unie, of haar lidstaten, of de Unie en haar lidstaten, overeenkomstig hun respectieve bevoegdheden, enerzijds, en de Republiek der Filipijnen, anderzijds.
 
-#### Artikel 55. Territoriale toepassing
+##### Artikel 55. Territoriale toepassing
 
 Deze overeenkomst is van toepassing op het grondgebied waar het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) van toepassing is, op de in dat Verdrag neergelegde voorwaarden, enerzijds, en het grondgebied van de Filipijnen, anderzijds.
 
-#### Artikel 56. Kennisgevingen
+##### Artikel 56. Kennisgevingen
 
 De in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBV0005873&titeldeel=VIII&artikel=57&z=2018-03-01&g=2018-03-01) bedoelde kennisgevingen worden langs diplomatieke weg toegezonden aan het secretariaat-generaal van de Raad van de Europese Unie respectievelijk het ministerie van Buitenlandse Zaken van de Filipijnen.
 
-#### Artikel 57. Inwerkingtreding en looptijd
+##### Artikel 57. Inwerkingtreding en looptijd
 
 1. Deze overeenkomst treedt in werking op de eerste dag van de maand volgende op de datum waarop de laatste partij de andere partij in kennis heeft gesteld van de voltooiing van de daartoe vereiste juridische procedures.
 
@@ -836,7 +858,7 @@ De in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBV0005873&titeldeel=VII
 
 4. Deze overeenkomst kan door een partij worden beëindigd door middel van een schriftelijke kennisgeving van opzegging aan de andere partij. De beëindiging gaat in zes maanden na ontvangst van de kennisgeving door de andere partij. Het beëindigen van de overeenkomst is niet van invloed op projecten die voordien zijn overeengekomen of van start zijn gegaan.
 
-#### Artikel 58. Authentieke teksten
+##### Artikel 58. Authentieke teksten
 
 1. Deze overeenkomst wordt opgesteld in tweevoud in de Bulgaarse, de Deense, de Duitse, de Engelse, de Estse, de Finse, de Franse, de Griekse, de Hongaarse, de Italiaanse, de Letse, de Litouwse, de Maltese, de Nederlandse, de Poolse, de Portugese, de Roemeense, de Sloveense, de Slowaakse, de Spaanse, de Tsjechische en de Zweedse taal, zijnde alle teksten gelijkelijk authentiek.
 

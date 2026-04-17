@@ -1,13 +1,38 @@
 ---
 title: "Circulaire wijzigingen in de financiële arbeidsvoorwaarden per 1 januari 2019 voor de ambtenaren werkzaam in de sector Rijk"
 identifier: "BWBR0041760"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2019-01-01
-laatste_update: 2019-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041760"
+country: "nl"
+rank: "circulaire"
+publication_date: "2019-01-01"
+last_updated: "2019-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041760"
+soort: "circulaire"
+stam_id: "14929063"
+version_id: "25556842"
+internal_id: "C36482341"
+label_id: "14880274"
+dtd_version: "2.0"
+original_entry_into_force: "2019-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041760/2019-01-01/0"
+intitule_bron: "Stcrt.2018-72807"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-12-20"
+intitule_published: "2018-12-27"
+intitule_in_force: "2018-12-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-72807"
+original_signed_date: "2018-12-20"
+original_published_date: "2018-12-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-72807"
+entry_into_force_date: "2019-01-01"
+jci_1_3: "jci1.3:c:BWBR0041760&z=2019-01-01&g=2019-01-01"
+jci_1_0: "1.0:c:BWBR0041760&g=2019-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "2018-12-20"
+entry_into_force: "2019-01-01"
 ---
-
 # Circulaire wijzigingen in de financiële arbeidsvoorwaarden per 1 januari 2019 voor de ambtenaren werkzaam in de sector Rijk
 
 ### Inleiding

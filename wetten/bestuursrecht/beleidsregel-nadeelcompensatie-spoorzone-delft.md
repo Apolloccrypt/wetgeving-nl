@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregel nadeelcompensatie Spoorzone Delft"
+title: "Beleidsregel houdende bepalingen met betrekking tot het aanvragen en behandelen van aanvragen voor nadeelcompensatie in verband met de uitvoering van het ‘spoorse deel’ van de uitvoering van het project Spoorzone Delft (Beleidsregel nadeelcompensatie Spoorzone Delft)"
 identifier: "BWBR0027049"
-categorie: "Bestuursrecht"
-publicatiedatum: 2010-01-09
-laatste_update: 2009-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027049"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2010-01-09"
+last_updated: "2009-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027049"
+soort: "beleidsregel"
+stam_id: "10382293"
+version_id: "17069612"
+internal_id: "C23540491"
+label_id: "10357684"
+dtd_version: "2.0"
+original_entry_into_force: "2010-01-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027049/2010-01-09/0"
+intitule_bron: "Stcrt.2010-355"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-12-18"
+intitule_published: "2010-01-08"
+intitule_in_force: "2010-01-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-355"
+original_signed_date: "2009-12-18"
+original_published_date: "2010-01-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-355"
+entry_into_force_date: "2010-01-09"
+jci_1_3: "jci1.3:c:BWBR0027049&z=2010-01-09&g=2010-01-09"
+jci_1_0: "1.0:c:BWBR0027049&g=2010-01-09"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel nadeelcompensatie Spoorzone Delft"
+signed_date: "2009-12-18"
+entry_into_force: "2010-01-09"
 ---
-
 # Beleidsregel houdende bepalingen met betrekking tot het aanvragen en behandelen van aanvragen voor nadeelcompensatie in verband met de uitvoering van het ‘spoorse deel’ van de uitvoering van het project Spoorzone Delft (Beleidsregel nadeelcompensatie Spoorzone Delft)
 
 Gelet op [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
 
 Besluit:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -36,7 +62,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - f. **ProRail B.V.:** de besloten vennootschap ProRail B.V., statutair gevestigd te Utrecht, aan welke vennootschap met ingang van 1 januari 2005 een concessie als bedoeld in [artikel 16, lid 1 van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=16) voor het beheer van de hoofdspoorweginfrastructuur is verleend (de Beheersconcessie hoofdspoorweginfrastructuur).
 
-#### Artikel 2. Het recht op schadevergoeding
+##### Artikel 2. Het recht op schadevergoeding
 
 1. De minister kent op aanvraag van degene die schade lijdt of zal lijden als gevolg van:
 
@@ -52,11 +78,11 @@ een vergoeding toe van de schade, overeenkomstig de [Regeling nadeelcompensatie 
 
 3. Indien de schade beweerdelijk is veroorzaakt door een besluit, is de datum waarop het beweerdelijk schadeveroorzakende besluit rechtskracht verkrijgt beslissend voor het antwoord op de vraag of tengevolge van dit besluit schade is geleden.
 
-#### Artikel 3. Citeertitel
+##### Artikel 3. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel nadeelcompensatie Spoorzone Delft.
 
-#### Artikel 4. Inwerkingtreding
+##### Artikel 4. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 september 2009.
 

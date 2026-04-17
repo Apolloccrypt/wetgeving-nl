@@ -1,20 +1,45 @@
 ---
 title: "Bestuursreglement Nederlandse Emissieautoriteit"
 identifier: "BWBR0046022"
-categorie: "Bestuursrecht"
-publicatiedatum: 2021-12-16
-laatste_update: 2021-12-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046022"
+country: "nl"
+rank: "zbo"
+publication_date: "2021-12-16"
+last_updated: "2021-12-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046022"
+soort: "zbo"
+stam_id: "16181923"
+version_id: "28237612"
+internal_id: "C39813711"
+label_id: "16110304"
+dtd_version: "2.0"
+original_entry_into_force: "2021-12-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046022/2021-12-16/0"
+intitule_bron: "Stcrt.2021-49382"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-08-17"
+intitule_published: "2021-12-15"
+intitule_in_force: "2021-12-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-49382"
+original_signed_date: "2021-08-17"
+original_published_date: "2021-12-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-49382"
+entry_into_force_date: "2021-12-16"
+jci_1_3: "jci1.3:c:BWBR0046022&z=2021-12-16&g=2021-12-16"
+jci_1_0: "1.0:c:BWBR0046022&g=2021-12-16"
+citeertitel_status: "redactioneel"
+signed_date: "2021-08-17"
+entry_into_force: "2021-12-16"
 ---
-
 # Bestuursreglement Nederlandse Emissieautoriteit
 
 Het bestuur van de Nederlandse Emissieautoriteit heeft op grond van [artikel 2.8 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=2.8) in zijn vergadering van 17 augustus 2021 het navolgende reglement vastgesteld. Het reglement is bij brief van28 september 2021, met kenmerk FEZ / 21199011, goedgekeurd door de Staatssecretaris van Economische Zaken en Klimaat - Klimaat en Energie op grond van [artikel 11, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=11).
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 1. In dit bestuursreglement wordt verstaan onder:
 
@@ -40,7 +65,7 @@ Het bestuur van de Nederlandse Emissieautoriteit heeft op grond van [artikel 2.8
 
 ### Hoofdstuk 2. Uitoefening van taken en bevoegdheden
 
-#### Artikel 2. Algemeen
+##### Artikel 2. Algemeen
 
 1. Het Bestuur bestaat uit drie leden, waaronder een Directeur-bestuurder. Het Bestuur kent een collegiaal karakter.
 
@@ -54,19 +79,19 @@ Het bestuur van de Nederlandse Emissieautoriteit heeft op grond van [artikel 2.8
 
 6. Indien de Directeur-bestuurder in voorkomend geval tevens voorzitter is, dan ondertekent in zijn afwezigheid deplaatsvervangend voorzitter de besluiten die het Bestuur genomen heeft.
 
-#### Artikel 3. (Onder)mandaatbesluit, optreden in rechte en woordvoering
+##### Artikel 3. (Onder)mandaatbesluit, optreden in rechte en woordvoering
 
 1. Het Bestuur stelt in samenwerking met de afdelingshoofden een (onder)mandaatbesluit inzake de wettelijke taken van het Bestuur alsmede de gemandateerde taken van de Minister vast.
 
 2. De Directeur-bestuurder is verantwoordelijk voor de woordvoering over taken en bevoegdheden die het Bestuur en de Dienst NEa zijn opgedragen.
 
-#### Artikel 4. Gedragscode en klachtenregeling
+##### Artikel 4. Gedragscode en klachtenregeling
 
 Het Bestuur bewerkstelligt dat op de taken en bevoegdheden die onder zijn verantwoordelijkheid worden uitgevoerd, een gedragscode en een klachtenregeling van toepassing is.
 
 ### Hoofdstuk 3. Vergaderingen
 
-#### Artikel 5. Algemeen
+##### Artikel 5. Algemeen
 
 1. Het Bestuur vergadert in beginsel een keer per maand.
 
@@ -74,7 +99,7 @@ Het Bestuur bewerkstelligt dat op de taken en bevoegdheden die onder zijn verant
 
 3. Het Bestuur kan derden vragen om de vergadering geheel of gedeeltelijk bij te wonen.
 
-#### Artikel 6. Voorzitterschap
+##### Artikel 6. Voorzitterschap
 
 1. De functie van voorzitter en plaatsvervangend voorzitter van het bestuur van de NEa rouleert. Hiervoor wordt voor schema opgesteld waarin is aangegeven welke bestuurslid in welke periode de functie van voorzitter heeft. De functie van voorzitter wordt in beginsel voor een periode van 1,5 jaar toegekend. De functie van plaatsvervangend voorzitter zal worden toegekend aan het bestuurslid dat de eerstvolgende is om de functie van voorzitter op zich te nemen.
 
@@ -86,7 +111,7 @@ Het Bestuur bewerkstelligt dat op de taken en bevoegdheden die onder zijn verant
 
 5. In afwezigheid van de voorzitter neemt de plaatsvervangend voorzitter zijn of haar taken over.
 
-#### Artikel 7. Besluitvorming
+##### Artikel 7. Besluitvorming
 
 1. De vergadering wordt geopend indien twee bestuursleden aanwezig zijn.
 
@@ -110,7 +135,7 @@ een lijst van de genomen besluiten en actiepunten.
 
 7. Het verslag wordt binnen vijf werkdagen na de vergadering aan de bestuursleden verzonden. Het wordt de eerstvolgende vergadering na verzending, al dan niet gewijzigd, vastgesteld door het bestuur.
 
-#### Artikel 8. Belangenverstrengeling en verschoning
+##### Artikel 8. Belangenverstrengeling en verschoning
 
 1. Elke vorm en schijn van belangenverstrengeling of schijn van vooringenomenheid van leden van het Bestuur bij het uitoefenen van hun publiekrechtelijke bevoegdheden, wordt vermeden.
 
@@ -122,7 +147,7 @@ een lijst van de genomen besluiten en actiepunten.
 
 5. De mededeling of het besluit tot gebruik van het recht van verschoning wordt opgenomen in het verslag.
 
-#### Artikel 9. Vertrouwelijkheid
+##### Artikel 9. Vertrouwelijkheid
 
 1. De bestuursleden nemen omtrent alle informatie die zij in het kader van hun functie verkrijgen en die als vertrouwelijk is aangemerkt, dan wel waarvan de vertrouwelijkheid uit de aard der informatie voortvloeit, strikte geheimhouding in acht, ook na hun aftreden.
 
@@ -130,17 +155,17 @@ een lijst van de genomen besluiten en actiepunten.
 
 ### Hoofdstuk 4. Overige zaken
 
-#### Artikel 10. Aftreding bestuursleden
+##### Artikel 10. Aftreding bestuursleden
 
 Het Bestuur bewaakt de ononderbroken samenhang van zijn beleid door te streven naar een getrapt aftreedschema van de bestuursleden.
 
-#### Artikel 11. Evaluatie bestuur
+##### Artikel 11. Evaluatie bestuur
 
 1. Het Bestuur evalueert jaarlijks zijn optreden.
 
 2. Het Bestuur laat vierjaarlijks zijn optreden evalueren door een externe partij.
 
-#### Artikel 12. Bestuursreglement
+##### Artikel 12. Bestuursreglement
 
 1. Het Bestuursreglement kan door een besluit van het Bestuur aangevuld of gewijzigd worden. Het Bestuur geeft zich rekenschap van het bepaalde hieromtrent in de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495).
 
@@ -148,7 +173,7 @@ Het Bestuur bewaakt de ononderbroken samenhang van zijn beleid door te streven n
 
 ### Hoofdstuk 5. Slotbepaling
 
-#### Artikel 13. Publicatie en inwerkingtreding
+##### Artikel 13. Publicatie en inwerkingtreding
 
 1. Dit reglement wordt na goedkeuring door de Minister gepubliceerd in de Staatscourant.
 

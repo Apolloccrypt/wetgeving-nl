@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst inzake gecentraliseerde vrijmaking, betreffende de toewijzing van de nationale inningskosten die worden ingehouden wanneer de traditionele eigen middelen ter beschikking van de EU-begroting worden gesteld"
 identifier: "BWBV0003169"
-categorie: "Internationaal recht"
-publicatiedatum: 2019-01-16
-laatste_update: 2019-01-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003169"
+country: "nl"
+rank: "verdrag"
+publication_date: "2019-01-16"
+last_updated: "2019-01-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003169"
+soort: "verdrag"
+stam_id: "10003365303"
+version_id: "10003404152"
+internal_id: "C10009506401"
+label_id: "10003350974"
+dtd_version: "2.0"
+original_entry_into_force: "2019-01-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003169/2019-01-16/0"
+intitule_bron: "Trb.2009-74"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2009-05-08"
+intitule_in_force: "2019-01-11"
+intitule_status: "goed"
+original_publication: "Trb.2009-74"
+original_published_date: "2009-05-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2009-74"
+entry_into_force_date: "2019-01-16"
+jci_1_3: "jci1.3:c:BWBV0003169&z=2019-01-16&g=2019-01-16"
+jci_1_0: "1.0:c:BWBV0003169&g=2019-01-16"
+citeertitel_status: "redactioneel"
+entry_into_force: "2019-01-16"
 ---
-
 # Overeenkomst inzake gecentraliseerde vrijmaking, betreffende de toewijzing van de nationale inningskosten die worden ingehouden wanneer de traditionele eigen middelen ter beschikking van de EU-begroting worden gesteld
 
 De overeenkomstsluitende partijen, lidstaten van de Europese Unie:
@@ -38,7 +60,7 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. TOEPASSINGSGEBIED EN DEFINITIES
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze overeenkomst worden de procedures vastgesteld die, in geval van gecentraliseerde vrijmaking in de zin van artikel 106 van het gemoderniseerde douanewetboek, waarbij goederen in een lidstaat voor het vrije verkeer worden aangegeven, maar in een andere lidstaat bij de douane worden aangebracht, door de overeenkomstsluitende partijen worden gevolgd bij het herverdelen van de inningskosten die worden ingehouden wanneer de eigen middelen ter beschikking van de EU-begroting worden gesteld.
 
@@ -46,7 +68,7 @@ Zijn het volgende overeengekomen:
 
 3. De in lid 1 bedoelde procedures zijn tevens van toepassing op de in artikel 1, punt 13, van [Verordening (EG) nr. 2454/93](31993R2454) van de Commissie omschreven grensoverschrijdende vergunning voor het in het vrije verkeer brengen.
 
-#### Artikel 2
+##### Artikel 2
 
 In deze overeenkomst wordt verstaan onder
 
@@ -62,7 +84,7 @@ In deze overeenkomst wordt verstaan onder
 
 ### HOOFDSTUK II. VASTSTELLING EN VERDELING VAN DE INNINGSKOSTEN
 
-#### Artikel 3
+##### Artikel 3
 
 1. De lidstaat van de vergunningverlenende douaneautoriteiten deelt de lidstaat van de assistentieverlenende douaneautoriteiten langs elektronische weg of, indien dit niet mogelijk is, anderszins in kennis van de relevante gegevens betreffende het bedrag van de inningskosten die moeten worden herverdeeld.
 
@@ -82,11 +104,11 @@ In deze overeenkomst wordt verstaan onder
 
 - d. het bedrag van de ingehouden inningskosten.
 
-#### Artikel 4
+##### Artikel 4
 
 Het bedrag aan inningskosten dat door de lidstaat van de vergunningverlenende douaneautoriteiten aan de lidstaat van de assistentieverlenende douaneautoriteiten bij wijze van herverdeling moet worden betaald, is gelijk aan vijftig procent (50%) van de ingehouden inningskosten.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003169&hoofdstuk=II&artikel=4&z=2019-01-16&g=2019-01-16) bedoelde bedrag wordt betaald in de maand waarin het bedrag van de vastgestelde eigen middelen overeenkomstig de artikelen 9 en 10 van de verordening wordt gecrediteerd.
 
@@ -98,13 +120,13 @@ In het geval van een lidstaat van de vergunningverlenende douaneautoriteiten die
 
 ### HOOFDSTUK III. REGELING VAN GESCHILLEN
 
-#### Artikel 6
+##### Artikel 6
 
 Elk geschil dat tussen de overeenkomstsluitende partijen ontstaat in verband met de interpretatie of de werking van deze overeenkomst wordt voor zover mogelijk door onderhandeling opgelost. Indien binnen drie maanden geen oplossing is gevonden, kunnen de betrokken overeenkomstsluitende partijen in onderling overleg een bemiddelaar aanwijzen om het geschil op te lossen.
 
 ### HOOFDSTUK IV. TOEPASSING EN SLOTBEPALINGEN
 
-#### Artikel 7
+##### Artikel 7
 
 1. De secretaris-generaal van de Raad van de Europese Unie treedt op in de hoedanigheid van depositaris van deze overeenkomst.
 
@@ -114,7 +136,7 @@ Elk geschil dat tussen de overeenkomstsluitende partijen ontstaat in verband met
 
 4. Alle administratieve regelingen tussen de lidstaten betreffende de herverdeling van inningskosten in de in deze overeenkomst bedoelde gevallen, worden vervangen door de bepalingen van deze overeenkomst met ingang van de datum waarop zij tussen de betrokken lidstaten van toepassing wordt.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Elke partij kan, met name indien zij door de toepassing van de overeenkomst grote budgettaire verliezen lijdt, wijzigingen voorstellen. Elke voorgestelde wijziging wordt toegezonden aan de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003169&hoofdstuk=IV&artikel=7&z=2019-01-16&g=2019-01-16) bedoelde depositaris, die ze aan de overeenkomstsluitende partijen doet toekomen.
 
@@ -122,11 +144,11 @@ Elk geschil dat tussen de overeenkomstsluitende partijen ontstaat in verband met
 
 3. De overeenkomstig lid 2 aangenomen wijzigingen treden in werking overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003169&hoofdstuk=IV&artikel=7&z=2019-01-16&g=2019-01-16).
 
-#### Artikel 9
+##### Artikel 9
 
 Deze overeenkomst wordt uiterlijk drie jaar na de datum waarop het gemoderniseerde douanewetboek van toepassing wordt aan herziening onderworpen, en kan indien nodig ingevolge die herziening overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003169&hoofdstuk=IV&artikel=8&z=2019-01-16&g=2019-01-16) worden gewijzigd.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Iedere overeenkomstsluitende partij kan deze overeenkomst opzeggen door middel van een aan de secretaris-generaal van de Raad van de Europese Unie gerichte kennisgeving.
 

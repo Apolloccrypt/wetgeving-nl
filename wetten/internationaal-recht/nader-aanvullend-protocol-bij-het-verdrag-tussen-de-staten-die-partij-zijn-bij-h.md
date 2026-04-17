@@ -1,13 +1,37 @@
 ---
 title: "Nader Aanvullend Protocol bij het Verdrag tussen de Staten die Partij zijn bij het Noord-Atlantisch Verdrag en de overige Staten die deelnemen aan het Partnerschap voor de Vrede nopens de rechtspositie van hun krijgsmachten"
 identifier: "BWBV0001373"
-categorie: "Internationaal recht"
-publicatiedatum: 1999-04-15
-laatste_update: 1999-04-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001373"
+country: "nl"
+rank: "verdrag"
+publication_date: "1999-04-15"
+last_updated: "1999-04-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001373"
+soort: "verdrag"
+stam_id: "10000011543"
+version_id: "10000015612"
+internal_id: "C10006989311"
+label_id: "10000011664"
+original_entry_into_force: "1999-04-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001373/1999-04-15/0"
+intitule_bron: "Trb.1998-188"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-02-24"
+intitule_published: "1998-07-23"
+intitule_in_force: "2002-01-17"
+intitule_status: "goed"
+original_publication: "Trb.1998-188"
+original_signed_date: "1999-02-24"
+original_published_date: "1998-07-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1998-188"
+entry_into_force_date: "1999-04-15"
+jci_1_3: "jci1.3:c:BWBV0001373&z=1999-04-15&g=1999-04-15"
+jci_1_0: "1.0:c:BWBV0001373&g=1999-04-15"
+citeertitel_status: "officieel"
+signed_date: "1999-02-24"
+entry_into_force: "1999-04-15"
 ---
-
 # Nader Aanvullend Protocol bij het Verdrag tussen de Staten die Partij zijn bij het Noord-Atlantisch Verdrag en de overige Staten die deelnemen aan het Partnerschap voor de Vrede nopens de rechtspositie van hun krijgsmachten
 
 Gezien het „[Verdrag tussen de Staten die Partij zijn bij het Noord-Atlantisch Verdrag en de overige Staten die deelnemen aan het Partnerschap voor de Vrede nopens de rechtspositie van hun krijgsmachten](https://wetten.overheid.nl/jci1.3:c:BWBV0001297)” en het Aanvullend Protocol daarbij, beide ondertekend te Brussel op negentien juni 1995;
@@ -20,7 +44,7 @@ Gezien het feit dat de omstandigheden in bepaalde NAVO-lidstaten of Partnerschap
 
 Zijn de Partijen bij dit Protocol het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit Protocol wordt aan de onderstaande uitdrukkingen de volgende betekenis toegekend:
 
@@ -38,21 +62,21 @@ Voor de toepassing van dit Protocol wordt aan de onderstaande uitdrukkingen de v
 
 - 4. „Militaire hoofdkwartieren van de NAVO”: geallieerde hoofdkwartieren of andere internationale militaire hoofdkwartieren of organisaties die onder artikel 1 en artikel 14 van het Protocol van Parijs vallen.
 
-#### Artikel II
+##### Artikel II
 
 Onverminderd de rechten van NAVO-lidstaten of Partnerschapsstaten die geen Partij zijn bij dit Protocol, passen de Partijen bij dit Protocol op de werkzaamheden van de militaire hoofdkwartieren van de NAVO en het militaire en burgerpersoneel daarvan die op het grondgebied van een Partij bij dit Protocol worden uitgevoerd, bepalingen toe die identiek zijn aan de in het [Protocol van Parijs](https://wetten.overheid.nl/jci1.3:c:BWBV0005255) vastgelegde bepalingen, tenzij zij zijn gewijzigd bij het onderhavige Protocol.
 
-#### Artikel III
+##### Artikel III
 
 1). Dit Protocol is, behalve op het gebied waarop het [Protocol van Parijs](https://wetten.overheid.nl/jci1.3:c:BWBV0005255) van toepassing is, tevens van toepassing op het grondgebied van alle Staten die Partij zijn bij dit Protocol, zoals omschreven in [artikel II, eerste lid, van het PfP SOFA](https://wetten.overheid.nl/jci1.3:c:BWBV0001297&artikel=II).
 
 2). Voor de toepassing van dit Protocol worden verwijzingen in het [Protocol van Parijs](https://wetten.overheid.nl/jci1.3:c:BWBV0005255) naar het [Noord-Atlantisch Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005760) geacht de grondgebieden te omvatten waarnaar wordt verwezen in het eerste lid van dit artikel.
 
-#### Artikel IV
+##### Artikel IV
 
 Voor de uitvoering van dit Protocol ten aanzien van aangelegenheden waarbij Partnerschapsstaten zijn betrokken, worden de bepalingen van het [Protocol van Parijs](https://wetten.overheid.nl/jci1.3:c:BWBV0005255) waarin wordt bepaald dat geschillen moeten worden voorgelegd aan de Noordatlantische Raad, zodanig uitgelegd dat van de betrokken Partijen wordt verlangd dat zij onderling of met elkaar onderhandelingen voeren zonder zich tot een externe rechterlijke instantie te wenden.
 
-#### Artikel V
+##### Artikel V
 
 1). Dit Protocol staat ter ondertekening open voor alle Staten die het [PfP SOFA](https://wetten.overheid.nl/jci1.3:c:BWBV0001297) hebben ondertekend.
 
@@ -60,7 +84,7 @@ Voor de uitvoering van dit Protocol ten aanzien van aangelegenheden waarbij Part
 
 3). Zodra twee of meer ondertekenende Staten hun akten van bekrachtiging, aanvaarding of goedkeuring hebben nedergelegd, treedt dit Protocol voor die Staten in werking. Voor elke andere ondertekenende Staat treedt het in werking op de datum van nederlegging van de desbetreffende akte.
 
-#### Artikel VI
+##### Artikel VI
 
 Dit Protocol kan door elke Partij daarbij worden opgezegd door een schriftelijke kennisgeving van opzegging aan de Regering van de Verenigde Staten van Amerika, die alle ondertekenende Staten van elke opzegging mededeling zal doen.
 

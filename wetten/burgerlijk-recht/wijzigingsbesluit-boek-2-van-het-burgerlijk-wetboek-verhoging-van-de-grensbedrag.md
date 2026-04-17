@@ -1,13 +1,39 @@
 ---
-title: "Wijzigingsbesluit boek 2 van het Burgerlijk Wetboek (verhoging van de grensbedragen)"
+title: "Besluit van 1 december 1999 tot verhoging van de grensbedragen, genoemd in de artikelen 396 lid 1 en 397 lid 1 van boek 2 van het Burgerlijk Wetboek"
 identifier: "BWBR0010914"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2015-11-01
-laatste_update: 2015-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010914"
+country: "nl"
+rank: "amvb"
+publication_date: "2015-11-01"
+last_updated: "2015-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010914"
+soort: "AMvB"
+stam_id: "1182703"
+version_id: "1745592"
+internal_id: "C1745591"
+label_id: "1145654"
+dtd_version: "2.0"
+original_entry_into_force: "1999-12-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010914/2015-11-01/0"
+intitule_bron: "Stb.1999-515"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-12-01"
+intitule_published: "1999-12-14"
+intitule_in_force: "1999-12-14"
+intitule_status: "goed"
+original_publication: "Stb.1999-515"
+original_signed_date: "1999-12-01"
+original_published_date: "1999-12-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-1999-515"
+entry_into_force_date: "1999-12-15"
+jci_1_3: "jci1.3:c:BWBR0010914&z=2015-11-01&g=2015-11-01"
+jci_1_0: "1.0:c:BWBR0010914&g=2015-11-01"
+citeertitel_status: "officieel"
+short_title: "Wijzigingsbesluit boek 2 van het Burgerlijk Wetboek (verhoging van de grensbedragen)"
+signed_date: "1999-12-01"
+entry_into_force: "1999-12-15"
 ---
-
 # Besluit van 1 december 1999 tot verhoging van de grensbedragen, genoemd in de artikelen 396 lid 1 en 397 lid 1 van boek 2 van het Burgerlijk Wetboek
 
 Op de voordracht van Onze Minister van Justitie van 14 oktober 1999, no. 793681/99/6
@@ -22,19 +48,19 @@ Gezien het nader rapport van Onze Minister van Justitie van 23 november 1999, nr
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 Wijzigt boek 2 van het Burgerlijk Wetboek.
 
-#### Artikel 2
+##### Artikel 2
 
 Wijzigt boek 2 van het Burgerlijk Wetboek.
 
-#### Artikel 3
+##### Artikel 3
 
 De bepalingen van dit besluit zijn voor het eerst van toepassing op de jaarrekening, het bestuursverslag en de daaraan toe te voegen overige gegevens over het boekjaar dat aanvangt op of na 1 januari 2000.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 

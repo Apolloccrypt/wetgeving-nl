@@ -1,13 +1,39 @@
 ---
-title: "Regeling Archief- en Informatiebeheer TK 2020"
+title: "Besluit van het Presidium van de Tweede Kamer der Staten-Generaal van 23 september 2020 tot vaststelling van regels voor het archief- en informatiebeheer van de Tweede Kamer der Staten-Generaal (Regeling Archief- en Informatiebeheer TK 2020)"
 identifier: "BWBR0044276"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2020-11-03
-laatste_update: 2020-11-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044276"
+country: "nl"
+rank: "reglement"
+publication_date: "2020-11-03"
+last_updated: "2020-11-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044276"
+soort: "reglement"
+stam_id: "15682063"
+version_id: "27170532"
+internal_id: "C38399401"
+label_id: "15621384"
+dtd_version: "2.0"
+original_entry_into_force: "2020-11-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044276/2020-11-03/0"
+intitule_bron: "Stcrt.2020-56381"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-09-23"
+intitule_published: "2020-11-02"
+intitule_in_force: "2020-11-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-56381"
+original_signed_date: "2020-09-23"
+original_published_date: "2020-11-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-56381"
+entry_into_force_date: "2020-11-03"
+jci_1_3: "jci1.3:c:BWBR0044276&z=2020-11-03&g=2020-11-03"
+jci_1_0: "1.0:c:BWBR0044276&g=2020-11-03"
+citeertitel_status: "officieel"
+short_title: "Regeling Archief- en Informatiebeheer TK 2020"
+signed_date: "2020-09-23"
+entry_into_force: "2020-11-03"
 ---
-
 # Besluit van het Presidium van de Tweede Kamer der Staten-Generaal van 23 september 2020 tot vaststelling van regels voor het archief- en informatiebeheer van de Tweede Kamer der Staten-Generaal (Regeling Archief- en Informatiebeheer TK 2020)
 
 Gelet op [artikel 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14)
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt begrepen onder:
 
@@ -66,7 +92,7 @@ In deze regeling wordt begrepen onder:
 
 - **Zorgdrager:** degene die bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) belast is met de zorg voor de informatieobjecten.
 
-#### Artikel 2. Reikwijdte en positionering
+##### Artikel 2. Reikwijdte en positionering
 
 1. Deze regeling is van toepassing op alle informatieobjecten die de Tweede Kamer creëert of ontvangt bij het uitvoeren van haar processen.
 
@@ -76,23 +102,23 @@ In deze regeling wordt begrepen onder:
 
 ### Hoofdstuk 2. Verantwoordelijkheden en bevoegdheden
 
-#### Artikel 3. Wettelijk kader Tweede Kamer
+##### Artikel 3. Wettelijk kader Tweede Kamer
 
 De Tweede Kamer is op grond van [artikel 23, eerste lid, van de Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=23) zorgdrager in de zin van [artikel 1, onder d, van de Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1), voor alle informatieobjecten van de organisatie. De zorg van de Tweede Kamer eindigt door overbrenging of vernietiging van informatieobjecten.
 
-#### Artikel 4. Griffier
+##### Artikel 4. Griffier
 
 1. De Griffier is, namens de Tweede Kamer, op grond van [artikel 14, tweede lid van het Reglement van Orde](https://wetten.overheid.nl/jci1.3:c:BWBR0006023&artikel=14) belast met het beheer van de archieven van de Tweede Kamer.
 
 2. De Griffier heeft mandaat verleend aan het hoofd van de Dienst Informatie en Archief tot het uitoefenen van zijn bevoegdheden op het gebied van archiefbeheer.
 
-#### Artikel 5. Diensthoofd belast met het archiefbeheer
+##### Artikel 5. Diensthoofd belast met het archiefbeheer
 
 1. Het hoofd van de Dienst Informatie en Archief is door de Griffier gemandateerd tot het uitoefenen van zijn bevoegdheden op het gebied van archiefbeheer.
 
 2. Het hoofd van de Dienst Informatie en Archief heeft bevoegdheden op het gebied van archiefbeheer door gemandateerd aan de archivaris.
 
-#### Artikel 6. Archivaris
+##### Artikel 6. Archivaris
 
 1. De archivaris is kaderstellend, toezichthoudend en adviserend over de inrichting en uitvoering van het integrale archiefbeheer van de Tweede Kamer, waaronder het:
 
@@ -106,7 +132,7 @@ De Tweede Kamer is op grond van [artikel 23, eerste lid, van de Archiefwet](http
 
 2. De archivaris is verantwoordelijk voor de uitvoering van het fysieke en digitale archiefbeheer conform deze regeling, interne procedures en relevante wet- en regelgeving.
 
-#### Artikel 7. Archiefbeheerder
+##### Artikel 7. Archiefbeheerder
 
 1. De archiefbeheerder zorgt voor:
 
@@ -118,7 +144,7 @@ De Tweede Kamer is op grond van [artikel 23, eerste lid, van de Archiefwet](http
 
 - d). voldoende en geschikte archiefruimte, een digitaal archiefsysteem en is verantwoordelijk voor deze voorzieningen.
 
-#### Artikel 8. Archiefvormende organisatieonderdelen
+##### Artikel 8. Archiefvormende organisatieonderdelen
 
 1. Het hoofd van een archiefvormend organisatieonderdeel draagt zorg voor de informatieobjecten die voortkomen uit de processen waar hij voor verantwoordelijk is, conform deze regeling, interne procedures en relevante wet- en regelgeving. Hieronder worden mede begrepen informatieobjecten die opgeslagen zijn in legacysystemen of die voortkomen uit processen die zijn uitbesteed.
 
@@ -130,7 +156,7 @@ De Tweede Kamer is op grond van [artikel 23, eerste lid, van de Archiefwet](http
 
 ### Hoofdstuk 3. Archief- en dossiervorming
 
-#### Artikel 9. Registratie
+##### Artikel 9. Registratie
 
 1. De verantwoordelijkheid voor het identificeren en registreren van informatieobjecten berust bij het archiefvormend organisatieonderdeel. Informatieobjecten dienen direct na ontvangst, creatie of verzending te worden geregistreerd en voorzien van metagegevens, gekoppeld aan de bijbehorende informatieobjecten en opgeslagen in het informatiesysteem of het analoge dossier behorende bij het proces.
 
@@ -138,7 +164,7 @@ De Tweede Kamer is op grond van [artikel 23, eerste lid, van de Archiefwet](http
 
 3. De in het eerste en tweede lid vermelde metagegevens zijn conform het vastgestelde metagegevensschema, dat is gebaseerd op de metadatastandaard ‘Metagegevens Duurzaam Toegankelijke Overheidsinformatie’ (Nationaal Archief).
 
-#### Artikel 10. Context en authenticiteit
+##### Artikel 10. Context en authenticiteit
 
 De archiefvormende organisatieonderdelen zorgen ervoor dat van elk van de informatieobjecten te allen tijde kan worden vastgesteld:
 
@@ -152,7 +178,7 @@ De archiefvormende organisatieonderdelen zorgen ervoor dat van elk van de inform
 
 - e). de besturingsprogrammatuur of toepassingsprogrammatuur waarmee de informatieobjecten worden bewaard of beheerd.
 
-#### Artikel 11. Ordening, toegankelijkheid en informatieverstrekking
+##### Artikel 11. Ordening, toegankelijkheid en informatieverstrekking
 
 1. De archiefbeheerder stelt een ordeningsstructuur op in overleg met het archiefvormend organisatieonderdeel, waarmee de toegankelijkheid van de informatieobjecten wordt geborgd.
 
@@ -174,7 +200,7 @@ De archiefvormende organisatieonderdelen zorgen ervoor dat van elk van de inform
 
 ### Hoofdstuk 4. Archiefbeheer
 
-#### Artikel 12. Duurzaamheid
+##### Artikel 12. Duurzaamheid
 
 1. Informatieobjecten worden tot het tijdstip van vernietiging dan wel het tijdstip van overbrenging naar het Nationaal Archief in goede materiële en toegankelijke staat gehouden.
 
@@ -198,13 +224,13 @@ De archiefvormende organisatieonderdelen zorgen ervoor dat van elk van de inform
 
 9. Indien bij wijziging, vervanging of in onbruik raken van apparatuur of programmatuur, de informatieobjecten niet worden gemigreerd naar een nieuwe applicatie, dan is het archiefvormend organisatieonderdeel er verantwoordelijk voor dat de informatieobjecten in goede en geordende staat worden overgedragen aan de archiefbeheerder.
 
-#### Artikel 13. Opslagformaten
+##### Artikel 13. Opslagformaten
 
 1. De archiefvormende organisatieonderdelen zijn er verantwoordelijk voor dat informatieobjecten bij uitwisseling van informatie, opgeslagen worden in een duurzaam, te valideren en volledig gedocumenteerd bestandsformaat dat voldoet aan een open standaard die is opgenomen op de lijst open standaarden van het Forum Standaardisatie.
 
 2. Als aan het eerste lid redelijkerwijs niet kan worden voldaan, overlegt de archiefbeheerder op het moment van overbrenging met het Nationaal Archief over een alternatief bestandsformaat.
 
-#### Artikel 14. Overdracht informatieobjecten aan de archiefbeheerder
+##### Artikel 14. Overdracht informatieobjecten aan de archiefbeheerder
 
 1. De archiefvormende organisatieonderdelen dragen afgehandelde informatieobjecten uit een proces periodiek over aan de archiefbeheerder.
 
@@ -220,7 +246,7 @@ De archiefvormende organisatieonderdelen zorgen ervoor dat van elk van de inform
 
 7. De archiefbeheerder is ervoor verantwoordelijk dat de overgedragen informatieobjecten in goede, geordende en toegankelijke staat blijven tot het moment van vernietiging of overbrenging naar het Nationaal Archief.
 
-#### Artikel 15. Selectielijst
+##### Artikel 15. Selectielijst
 
 1. De archivaris is verantwoordelijk voor het opstellen, actualiseren en implementeren van selectielijsten. Een selectielijst bevat een beschrijving van de organisatie, de bedrijfsprocessen, de informatieobjecten en de daarbij behorende bewaar- en vernietigingstermijnen.
 
@@ -228,7 +254,7 @@ De archiefvormende organisatieonderdelen zorgen ervoor dat van elk van de inform
 
 3. Gebeurtenissen worden als hotspot voor de Tweede Kamer aangewezen door de Griffier. De Griffier brengt de lijst met hotspots ter vaststelling in op het Strategisch Informatie Overleg. De archivaris is verantwoordelijk voor het opstellen en implementeren van de hotspotlijst.
 
-#### Artikel 16. Vernietiging
+##### Artikel 16. Vernietiging
 
 1. Vernietiging van informatieobjecten, inclusief bijbehorende metagegevens, vindt slechts plaats:
 
@@ -250,7 +276,7 @@ De archiefvormende organisatieonderdelen zorgen ervoor dat van elk van de inform
 
 7. De vernietiging van digitale informatieobjecten wordt gelogd in het archiefsysteem, waarin het was opgeslagen of wordt anderszins traceerbaar gearchiveerd.
 
-#### Artikel 17. Overbrenging
+##### Artikel 17. Overbrenging
 
 1. De archiefbeheerder is verantwoordelijk voor de overbrenging van de daarvoor in aanmerking komende informatieobjecten naar het Nationaal Archief. De selectielijst, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0044276&hoofdstuk=4&artikel=15&z=2020-11-03&g=2020-11-03), is in dit proces leidend. Overbrenging vindt plaats conform de termijn genoemd in de [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376). De informatieobjecten worden in goede, geordende en toegankelijke staat overgebracht.
 
@@ -276,7 +302,7 @@ De archiefvormende organisatieonderdelen zorgen ervoor dat van elk van de inform
 
 8. Gebruikmaking van compressietechniek is alleen toegestaan, als het eventuele verlies aan informatie geen bedreiging vormt voor het voldoen aan de eisen ten aanzien van de goede, geordende en toegankelijke staat van digitale informatieobjecten.
 
-#### Artikel 18. Vervanging
+##### Artikel 18. Vervanging
 
 1. Voor het vervangen van informatieobjecten neemt de Griffier een besluit tot vervanging. Vereist is dat de reproductie een juiste en volledige weergave is van de originele informatieobjecten. De vernietiging van de vervangen originelen is onderdeel van het vervangingsproces.
 
@@ -284,17 +310,17 @@ De archiefvormende organisatieonderdelen zorgen ervoor dat van elk van de inform
 
 3. De archivaris stelt van de vervanging van de informatieobjecten een verklaring van vervanging op die ten minste een specificatie van de vervangen informatieobjecten bevat en aangeeft op grond waarvan en op welke wijze de vervanging is geschied.
 
-#### Artikel 19. Uitbesteding
+##### Artikel 19. Uitbesteding
 
 Een overeenkomst waarbij taken en bevoegdheden namens de Griffier worden uitgevoerd door een externe organisatie, bevat een voorziening over het beheer van de informatieobjecten behorende bij de uitvoering van deze taken en bevoegdheden in overeenstemming met deze regeling en het [Reglement van Orde](https://wetten.overheid.nl/jci1.3:c:BWBR0006023). De voorziening voor het beheer van de informatieobjecten wordt opgesteld door het archiefvormend organisatieonderdeel dat de taken uitbesteedt.
 
-#### Artikel 20. Organisatieverandering
+##### Artikel 20. Organisatieverandering
 
 1. Bij een organisatieverandering wordt door het archiefvormend organisatieonderdeel en de archiefbeheerder een voorziening getroffen voor de bestemming en het beheer van de informatieobjecten.
 
 2. Indien een voorziening bestaat uit het uitlenen van informatieobjecten, dan wordt door de archivaris een verklaring van terbeschikkingstelling opgemaakt en ondertekend door het hoofd van het archiefvormend organisatieonderdeel.
 
-#### Artikel 21. Informatiebescherming en -beveiliging
+##### Artikel 21. Informatiebescherming en -beveiliging
 
 1. Er vindt afstemming plaats tussen de archivaris en andere verantwoordelijken op het gebied van de bescherming en beveiliging van informatieobjecten over zaken die elkaar raken of overlappen.
 
@@ -304,7 +330,7 @@ Een overeenkomst waarbij taken en bevoegdheden namens de Griffier worden uitgevo
 
 ### Hoofdstuk 5. Toezicht en kwaliteitszorg
 
-#### Artikel 22. Kwaliteitszorg en toezicht
+##### Artikel 22. Kwaliteitszorg en toezicht
 
 1. De archivaris houdt intern toezicht op het naleven van de wet- en regelgeving op het gebied van archief- en informatiebeheer, waaronder de [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376). Om dit te kunnen doen, kan de archivaris:
 
@@ -328,14 +354,14 @@ Een overeenkomst waarbij taken en bevoegdheden namens de Griffier worden uitgevo
 
 ### Hoofdstuk 6. Slotbepalingen
 
-#### Artikel 23. Citeertitel
+##### Artikel 23. Citeertitel
 
 Deze regeling wordt aangehaald als Regeling Archief- en Informatiebeheer TK 2020.
 
-#### Artikel 24. Intrekking
+##### Artikel 24. Intrekking
 
 De regeling Archiefbeheer Tweede Kamer 2005 wordt ingetrokken.
 
-#### Artikel 25. Inwerkingtreding
+##### Artikel 25. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.

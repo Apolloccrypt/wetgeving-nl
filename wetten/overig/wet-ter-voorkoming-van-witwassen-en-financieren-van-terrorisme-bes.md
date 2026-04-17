@@ -1,14 +1,41 @@
 ---
-title: "Wet ter voorkoming van witwassen en financieren van terrorisme BES"
+title: "Wet van 1 december 2011, houdende regels ter voorkoming van witwassen en financieren van terrorisme in de openbare lichamen Bonaire, Sint Eustatius en Saba (Wet ter voorkoming van witwassen en financieren van terrorisme BES)"
 identifier: "BWBR0030824"
-categorie: "Overig"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030824"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030824"
+soort: "wet-BES"
+stam_id: "11539233"
+version_id: "19000482"
+internal_id: "C27234121"
+label_id: "11513294"
+dtd_version: "2.0"
+original_entry_into_force: "2012-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030824/2025-01-01/0"
+intitule_bron: "Stb.2011-613"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-12-01"
+intitule_published: "2011-12-20"
+intitule_in_force: "2012-06-12"
+intitule_status: "goed"
+original_publication: "Stb.2011-613"
+original_signed_date: "2011-12-01"
+original_published_date: "2011-12-20"
+original_effect: "nieuwe-regeling"
+original_dossier: "32785"
+original_url_id: "stb-2011-613"
+entry_into_force_date: "2012-07-01"
+jci_1_3: "jci1.3:c:BWBR0030824&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0030824&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet ter voorkoming van witwassen en financieren van terrorisme BES"
+signed_date: "2011-12-01"
+entry_into_force: "2012-07-01"
 ---
-
-# Wet ter voorkoming van witwassen en financieren van terrorisme BES
+# Wet van 1 december 2011, houdende regels ter voorkoming van witwassen en financieren van terrorisme in de openbare lichamen Bonaire, Sint Eustatius en Saba (Wet ter voorkoming van witwassen en financieren van terrorisme BES)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1
+##### Artikel 1.1
 
 1. In deze wet en de daarop berustende bepalingen wordt, tenzij anders bepaald, verstaan onder:
 
@@ -82,7 +109,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 5. Een algemene maatregel van bestuur als bedoeld in het derde of vierde lid wordt vastgesteld op voordracht van Onze Minister en Onze Minister van Justitie en Veiligheid.
 
-#### Artikel 1.2
+##### Artikel 1.2
 
 1. Als directe familieleden van politiek prominente personen worden aangemerkt:
 
@@ -100,15 +127,15 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 - b. een natuurlijke persoon die de enige begunstigde is van een juridische entiteit of juridische constructie waarvan bekend is, dat deze is opgezet ten behoeve van de feitelijke begunstiging van een persoon die een prominente publieke functie bekleedt of heeft bekleed.
 
-#### Artikel 1.3
+##### Artikel 1.3
 
 Deze wet is van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 1.4
+##### Artikel 1.4
 
 Deze wet is niet van toepassing op de personen, bedoeld in [bijlage A bij deze wet, deel I, onderdelen n en o](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A&z=2025-01-01&g=2025-01-01), voor zover zij voor een cliënt werkzaamheden verrichten betreffende de bepaling van diens rechtspositie, diens vertegenwoordiging en verdediging in rechte, het geven van advies voor, tijdens en na een rechtsgeding of het geven van advies over het instellen of vermijden van een rechtsgeding.
 
-#### Artikel 1.5
+##### Artikel 1.5
 
 1. Het is aan een ieder die uit hoofde van de toepassing van deze wet of van krachtens deze wet genomen besluiten enige taak vervult of heeft vervuld verboden van gegevens of inlichtingen, die ingevolge deze wet zijn verstrekt of ontvangen, of van een buitenlandse toezichthoudende instantie zijn ontvangen, verder of anders gebruik te maken of daaraan verder of anders bekendheid te geven dan voor de uitoefening van zijn taak of door deze wet wordt geëist.
 
@@ -150,13 +177,13 @@ Deze wet is niet van toepassing op de personen, bedoeld in [bijlage A bij deze w
 
 9. Onze Minister van Justitie en Veiligheid kan ontheffing verlenen van het in het eerste lid vervatte verbod aan de ambtenaren bevoegd inzake paspoortcontrole.
 
-#### Artikel 1.6
+##### Artikel 1.6
 
 1. Een dienstverlener, zijnde een financiële onderneming anders dan een geldtransactiekantoor of een trustkantoor, die een bijkantoor of een dochtermaatschappij heeft in het buitenland, draagt er zorg voor dat het bijkantoor onderscheidenlijk de dochtermaatschappij cliëntenonderzoek verricht dat gelijkwaardig is aan dat, geregeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2025-01-01&g=2025-01-01) en gegevens met betrekking tot het cliëntenonderzoek vastlegt en bewaart op een wijze die gelijkwaardig is aan hetgeen is geregeld ingevolge [artikel 2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=2&paragraaf=4&artikel=2.13&z=2025-01-01&g=2025-01-01).
 
 2. Indien het recht van het betrokken buitenland toepassing van het eerste lid niet toelaat, stelt de dienstverlener de toezichtautoriteit daarvan in kennis en neemt hij maatregelen om het risico van witwassen en financieren van terrorisme te voorkomen.
 
-#### Artikel 1.7
+##### Artikel 1.7
 
 De rechtsgeldigheid van een privaatrechtelijke rechtshandeling van een dienstverlener welke is verricht in strijd met de bij of krachtens deze wet gestelde regels is niet uit dien hoofde aantastbaar.
 
@@ -164,11 +191,11 @@ De rechtsgeldigheid van een privaatrechtelijke rechtshandeling van een dienstver
 
 #### § 1. Cliëntenonderzoek
 
-#### Artikel 2.1
+##### Artikel 2.1
 
 In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onderdoelvennootschap: een rechtspersoon of vennootschap waaraan een trustkantoor trustdiensten verleent.
 
-#### Artikel 2.2
+##### Artikel 2.2
 
 1. Een dienstverlener verricht ter voorkoming van witwassen en financieren van terrorisme cliëntenonderzoek.
 
@@ -194,7 +221,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onderdoelvenn
 
 6. Een dienstverlener neemt redelijke maatregelen om ervoor te zorgen dat de gegevens die ingevolge het tweede lid zijn verzameld over daar bedoelde personen juist en volledig zijn en actueel gehouden worden.
 
-#### Artikel 2.3
+##### Artikel 2.3
 
 Een dienstverlener verricht het cliëntenonderzoek in de volgende gevallen:
 
@@ -208,7 +235,7 @@ Een dienstverlener verricht het cliëntenonderzoek in de volgende gevallen:
 
 - e. indien het risico van betrokkenheid van een bestaande cliënt bij witwassen of financieren van terrorisme daartoe aanleiding geeft.
 
-#### Artikel 2.4
+##### Artikel 2.4
 
 1. Een dienstverlener voldoet aan [artikel 2.2, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2025-01-01&g=2025-01-01), voordat de zakelijke relatie wordt aangegaan of een incidentele transactie als bedoeld in [artikel 2.3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=2&paragraaf=1&artikel=2.3&z=2025-01-01&g=2025-01-01), wordt uitgevoerd.
 
@@ -216,7 +243,7 @@ Een dienstverlener verricht het cliëntenonderzoek in de volgende gevallen:
 
 3. Indien de dienstverlener reeds een zakelijke relatie met de cliënt heeft en de dienstverlener niet kan voldoen aan [artikel 2.2, eerste en tweede lid, aanhef en onderdelen a, b, c, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2025-01-01&g=2025-01-01), beëindigt de dienstverlener die zakelijke relatie.
 
-#### Artikel 2.5
+##### Artikel 2.5
 
 1. Een dienstverlener stelt van elke cliënt met wie hij een zakelijke relatie onderhoudt een risicoprofiel op. Hij voert een voortdurende controle uit op de zakelijke relatie en de tijdens de duur van die relatie uit te voeren transacties, ten einde te verzekeren dat deze overeenkomen met de kennis die de dienstverlener heeft van de cliënt en van het risicoprofiel, met in voorkomend geval een onderzoek naar de bron van de middelen die bij de zakelijke relatie of de transactie gebruikt worden.
 
@@ -224,7 +251,7 @@ Een dienstverlener verricht het cliëntenonderzoek in de volgende gevallen:
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot het op te stellen risicoprofiel en de uit te voeren controle.
 
-#### Artikel 2.6
+##### Artikel 2.6
 
 [Artikel 2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2025-01-01&g=2025-01-01), is niet van toepassing ten aanzien van een cliënt die bij een dienstverlener wordt geïntroduceerd indien:
 
@@ -238,7 +265,7 @@ Een dienstverlener verricht het cliëntenonderzoek in de volgende gevallen:
 
 - b. de dienstverlener waarbij de cliënt wordt geïntroduceerd beschikt over de identificatie- en verificatiegegevens en overige gegevens en bescheiden inzake de identiteit van de cliënt en, indien van toepassing, de uiteindelijk belanghebbende.
 
-#### Artikel 2.7
+##### Artikel 2.7
 
 1. In afwijking van [artikel 2.4, eerste en tweede lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2025-01-01&g=2025-01-01) is het een dienstverlener toegestaan de identiteit van de cliënt en, indien van toepassing, de identiteit van de uiteindelijk belanghebbende te verifiëren tijdens het aangaan van de zakelijke relatie, indien dit noodzakelijk is om de dienstverlening niet te verstoren en er weinig risico op witwassen of financieren van terrorisme bestaat. In dat geval verifieert de dienstverlener de identiteit zo spoedig mogelijk na het eerste contact met de cliënt.
 
@@ -248,7 +275,7 @@ Een dienstverlener verricht het cliëntenonderzoek in de volgende gevallen:
 
 #### § 2. Vereenvoudigd cliëntenonderzoek
 
-#### Artikel 2.8
+##### Artikel 2.8
 
 1. In afwijking van [artikel 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2025-01-01&g=2025-01-01), kan een dienstverlener een vereenvoudigd cliëntenonderzoek verrichten indien een zakelijke relatie, transactie of cliënt naar zijn aard een laag risico op witwassen of financieren van terrorisme met zich brengt. De instelling houdt daarbij ten minste rekening met bij regeling van Onze Minister aan te wijzen risicofactoren.
 
@@ -260,13 +287,13 @@ Een dienstverlener verricht het cliëntenonderzoek in de volgende gevallen:
 
 5. Bij algemene maatregel van bestuur kunnen producten, transacties en categorieën dienstverleners worden aangewezen waarop het eerste lid in ieder geval van toepassing is.
 
-#### Artikel 2.9
+##### Artikel 2.9
 
 Vervallen
 
 #### § 3. Verscherpt cliëntenonderzoek
 
-#### Artikel 2.10
+##### Artikel 2.10
 
 1. Een dienstverlener verricht in aanvulling op het cliëntenonderzoek, bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2025-01-01&g=2025-01-01), nader onderzoek indien en naar gelang een zakelijke relatie of transactie naar haar aard of in verband met de staat waar de cliënt woonachtig of gevestigd is of zijn zetel heeft een hoger risico op witwassen of financieren van terrorisme met zich brengt. Bij ministeriële regeling kunnen categorieën zakelijke relaties en transacties worden aangewezen die naar hun aard een hoger risico op witwassen of financieren van terrorisme met zich brengen.
 
@@ -286,7 +313,7 @@ Vervallen
 
 - c. hij doorlopend controle uitoefent op de zakelijke relatie.
 
-#### Artikel 2.11
+##### Artikel 2.11
 
 Onverminderd [artikel 2.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=2&paragraaf=3&artikel=2.10&z=2025-01-01&g=2025-01-01), draagt een kredietinstelling die een correspondentbankrelatie aangaat of is aangegaan er zorg voor dat:
 
@@ -302,7 +329,7 @@ Onverminderd [artikel 2.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 #### § 4. Documenten voor de verificatie van de identiteit en bewaren van bewijsstukken
 
-#### Artikel 2.12
+##### Artikel 2.12
 
 1. Indien de cliënt een natuurlijke persoon is, een rechtspersoon opgericht naar het recht van de openbare lichamen die in de openbare lichamen zijn zetel heeft of een buitenlandse rechtspersoon die in de openbare lichamen is gevestigd, wordt diens identiteit geverifieerd aan de hand van documenten, gegevens of inlichtingen uit betrouwbare en onafhankelijke bron.
 
@@ -310,7 +337,7 @@ Onverminderd [artikel 2.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 3. Bij regeling van Onze Minister kunnen documenten, gegevens of inlichtingen worden aangewezen op basis waarvan kan worden voldaan aan het in het eerste of tweede lid bepaalde. Bij die regeling kunnen tevens regels worden vastgesteld met betrekking tot het verifiëren van de identiteit van cliënten of uiteindelijk belanghebbenden die niet onder het eerste of tweede lid vallen.
 
-#### Artikel 2.13
+##### Artikel 2.13
 
 1. Een dienstverlener die het cliëntenonderzoek, bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2025-01-01&g=2025-01-01), heeft uitgevoerd, legt op toegankelijke wijze de gegevens bedoeld in [bijlage B bij deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=B&z=2025-01-01&g=2025-01-01) vast.
 
@@ -322,7 +349,7 @@ Onverminderd [artikel 2.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 #### § 5. Bepalingen met betrekking tot trustkantoren
 
-#### Artikel 2.14
+##### Artikel 2.14
 
 1. Een trustkantoor identificeert de uiteindelijk belanghebbende van een doelvennootschap en neemt adequate maatregelen om zijn identiteit te verifiëren.
 
@@ -330,17 +357,17 @@ Onverminderd [artikel 2.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 3. Het trustkantoor verleent geen trustdienst voordat aan het eerste of tweede lid is voldaan.
 
-#### Artikel 2.15
+##### Artikel 2.15
 
 1. Een trustkantoor heeft bij het verlenen van een trustdienst aan een doelvennootschap kennis van de herkomst van het vermogen van de doelvennootschap en legt de gegevens omtrent het onderzoek naar de herkomst van het vermogen vast.
 
 2. Een trustkantoor beschikt over gegevens die ten grondslag liggen aan de herkomst en bestemming van middelen van de doelvennootschap en beoordeelt of hieraan integriteitsrisico’s zijn verbonden.
 
-#### Artikel 2.16
+##### Artikel 2.16
 
 Een trustkantoor heeft kennis van de relevante delen van de structuur van de groep waartoe de doelvennootschap behoort en het doel waarmee de structuur is opgezet en beschikt over gegevens waaruit deze relevante delen en het doel van de structuur blijken.
 
-#### Artikel 2.17
+##### Artikel 2.17
 
 Een trustkantoor:
 
@@ -352,7 +379,7 @@ Een trustkantoor:
 
 - d. oefent doorlopende controle uit op de zakelijke relatie.
 
-#### Artikel 2.18
+##### Artikel 2.18
 
 1. Indien een trustkantoor optreedt als trustee van een trust, kent het trustkantoor de identiteit van de insteller van de trust en van de uiteindelijk belanghebbende bij de trust en beschikt het trustkantoor over gegevens aan de hand waarvan is bepaald wie de insteller is en welke natuurlijke persoon als uiteindelijk belanghebbende kwalificeert. Ook beschikt het trustkantoor over gegevens aan de hand waarvan de identiteit van de insteller en van de uiteindelijk belanghebbende is vastgesteld.
 
@@ -364,7 +391,7 @@ Een trustkantoor:
 
 #### § 5. Bepalingen met betrekking tot trustkantoren
 
-#### Artikel 3.1
+##### Artikel 3.1
 
 1. Er is een Meldpunt ongebruikelijke transacties.
 
@@ -374,7 +401,7 @@ Een trustkantoor:
 
 4. Onze Minister van Justitie en Veiligheid bepaalt in overeenstemming met Onze Minister de begroting van het meldpunt.
 
-#### Artikel 3.2
+##### Artikel 3.2
 
 Het meldpunt heeft met het oog op het voorkomen en opsporen van witwassen en financieren van terrorisme tot taak:
 
@@ -404,7 +431,7 @@ Het meldpunt heeft met het oog op het voorkomen en opsporen van witwassen en fin
 
 - i. het jaarlijks uitbrengen van een verslag met betrekking tot de taakuitoefening en zijn werkzaamheden in het voorafgaande jaar en van zijn voornemens voor het komende jaar, dat wordt aangeboden aan Onze Minister van Justitie en Veiligheid en ter kennis gebracht van Onze Minister.
 
-#### Artikel 3.3
+##### Artikel 3.3
 
 1. Bij het meldpunt kunnen persoonsgegevens worden verwerkt ten behoeve van de taak, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2025-01-01&g=2025-01-01).
 
@@ -416,11 +443,11 @@ Het meldpunt heeft met het oog op het voorkomen en opsporen van witwassen en fin
 
 #### § 2. De meldingsplicht ongebruikelijke transacties
 
-#### Artikel 3.4
+##### Artikel 3.4
 
 Bij regeling van Onze Minister worden, zo nodig per daarbij te onderscheiden categorieën transacties, indicatoren vastgesteld aan de hand waarvan wordt beoordeeld of een transactie wordt aangemerkt als een ongebruikelijke transactie.
 
-#### Artikel 3.5
+##### Artikel 3.5
 
 1. Een dienstverlener meldt een verrichte of voorgenomen ongebruikelijke transactie onverwijld nadat het ongebruikelijke karakter van de transactie bekend is geworden, aan het meldpunt.
 
@@ -450,19 +477,19 @@ Bij regeling van Onze Minister worden, zo nodig per daarbij te onderscheiden cat
 
 5. Bij een melding ingevolge het vierde lid verstrekt een dienstverlener naast de gegevens, bedoeld in het tweede lid, een beschrijving van de redenen waarom het vierde lid van toepassing is.
 
-#### Artikel 3.6
+##### Artikel 3.6
 
 1. Het meldpunt kan ten behoeve van de uitvoering van zijn taak, bedoeld in [artikel 3.2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2025-01-01&g=2025-01-01), gegevens of inlichtingen opvragen bij een dienstverlener die een melding heeft gedaan of bij een dienstverlener die naar het oordeel van het meldpunt beschikt over gegevens of inlichtingen die relevant zijn voor het analyseren door het meldpunt van een transactie of voorgenomen transactie of van een zakelijke relatie.
 
 2. De dienstverlener waaraan overeenkomstig het eerste lid gegevens of inlichtingen zijn gevraagd, verstrekt deze onverwijld en in schriftelijke vorm, alsmede in spoedeisende gevallen mondeling, aan het meldpunt.
 
-#### Artikel 3.7
+##### Artikel 3.7
 
 Het meldpunt bepaalt de wijze waarop een melding moet worden gedaan, of gegevens of inlichtingen als bedoeld in [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=3&paragraaf=2&artikel=3.6&z=2025-01-01&g=2025-01-01), moeten worden verstrekt.
 
 #### § 3. Vrijwaring
 
-#### Artikel 3.8
+##### Artikel 3.8
 
 1. Gegevens of inlichtingen die in overeenstemming met de [artikelen 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=3&paragraaf=2&artikel=3.5&z=2025-01-01&g=2025-01-01) of [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=3&paragraaf=2&artikel=3.6&z=2025-01-01&g=2025-01-01) zijn verstrekt, kunnen niet dienen als grondslag voor of ten behoeve van een opsporingsonderzoek of een vervolging wegens verdenking van, of als bewijs ter zake van een tenlastelegging wegens witwassen of financieren van terrorisme door de dienstverlener die deze gegevens of inlichtingen heeft verstrekt.
 
@@ -470,19 +497,19 @@ Het meldpunt bepaalt de wijze waarop een melding moet worden gedaan, of gegevens
 
 3. Het eerste en tweede lid zijn van overeenkomstige toepassing ten aanzien van personen die bestuurder zijn van of werkzaam zijn voor een dienstverlener die gegevens of inlichtingen heeft verstrekt als omschreven in het eerste of tweede lid en die daaraan hebben meegewerkt.
 
-#### Artikel 3.9
+##### Artikel 3.9
 
 De dienstverlener die tot een melding op de voet van [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=3&paragraaf=2&artikel=3.5&z=2025-01-01&g=2025-01-01) is overgegaan, is niet aansprakelijk voor schade die een derde dientengevolge lijdt, tenzij aannemelijk wordt gemaakt dat gelet op alle feiten en omstandigheden in redelijkheid niet tot melding had mogen worden overgegaan.
 
 #### § 2. De meldingsplicht ongebruikelijke transacties
 
-#### Artikel 3.10
+##### Artikel 3.10
 
 1. Een dienstverlener die ingevolge [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=3&paragraaf=2&artikel=3.5&z=2025-01-01&g=2025-01-01) een melding heeft gedaan of die ingevolge [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=3&paragraaf=2&artikel=3.6&z=2025-01-01&g=2025-01-01) nadere informatie heeft verstrekt, is verplicht tot geheimhouding hiervan, alsmede van het gegeven dat deze melding of verstrekking aanleiding kan geven tot nader onderzoek, behoudens voor zover uit deze wet de noodzaak tot bekendmaking voortvloeit.
 
 2. De dienstverlener die ingevolge [artikel 3.2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2025-01-01&g=2025-01-01), gegevens of inlichtingen verkrijgt, is verplicht tot geheimhouding daarvan.
 
-#### Artikel 3.11
+##### Artikel 3.11
 
 1. Een dienstverlener kan, in afwijking van [artikel 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=3&paragraaf=4&artikel=3.10&z=2025-01-01&g=2025-01-01), mededelingen doen aan:
 
@@ -498,13 +525,13 @@ De dienstverlener die tot een melding op de voet van [artikel 3.5](https://wette
 
 #### § 5. Opleiding
 
-#### Artikel 3.12
+##### Artikel 3.12
 
 Een dienstverlener draagt er zorg voor dat zijn werknemers, alsmede de dagelijks beleidsbepalers voor zover relevant voor de uitoefening van hun taken en rekening houdend met de risico’s, aard en omvang van de instelling, bekend zijn met de bepalingen van deze wet en periodiek opleidingen genieten die hen in staat stellen een ongebruikelijke transactie te herkennen en een cliëntenonderzoek goed en volledig uit te voeren.
 
 #### § 3. Vrijwaring
 
-#### Artikel 3.13
+##### Artikel 3.13
 
 1. Indien een dienstverlener, zijnde een financiële onderneming, constateert dat de identiteit van een relatie overeenkomt met een natuurlijke persoon, rechtspersoon of entiteit als bedoeld in de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296) en de op grond van die wet vastgestelde regelingen en besluiten met betrekking tot het financieel verkeer, meldt de dienstverlener dit onverwijld aan de Nederlandsche Bank. Bij de melding legt de dienstverlener tevens de gegevens over van de identiteit van die relatie.
 
@@ -518,7 +545,7 @@ Een dienstverlener draagt er zorg voor dat zijn werknemers, alsmede de dagelijks
 
 ### Hoofdstuk 4. Grensoverschrijdende geldtransporten
 
-#### Artikel 4.1
+##### Artikel 4.1
 
 In dit hoofdstuk en de daarop berustende bepalingen wordt, voor zover niet anders is bepaald, verstaan onder:
 
@@ -532,7 +559,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt, voor zover niet ander
 
 - **inspecteur van douane:** inspecteur als bedoeld in [artikel 1:1, onderdeel h, van de Douane- en Accijnswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=1.1).
 
-#### Artikel 4.2
+##### Artikel 4.2
 
 1. Personen die de openbare lichamen binnenkomen of verlaten en liquide middelen met een gezamenlijke waarde van USD 10.000 of meer met zich meevoeren, moeten die liquide middelen aangeven bij de douaneambtenaren en hen deze voor controle ter beschikking stellen. De eerste volzin is ook van toepassing indien het gaat om binnenkomende of uitgaande personen, die aantoonbaar samen reizen en gezamenlijk liquide middelen ter waarde van USD 10.000 of meer met zich meevoeren, waarbij de bij of krachtens deze wet gestelde verplichtingen op alle bedoelde personen afzonderlijk rusten.
 
@@ -544,7 +571,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt, voor zover niet ander
 
 5. De gegevens in het vierde lid worden schriftelijk verstrekt met behulp van het bij regeling van Onze minister vastgestelde formulier.
 
-#### Artikel 4.3
+##### Artikel 4.3
 
 1. Wanneer onbegeleide liquide middelen met een gezamenlijke waarde van USD 10.000 of meer het openbare lichaam binnenkomen of verlaten, dient de afzender, of de ontvanger, of zijn vertegenwoordiger, op verzoek van douaneambtenaren een kennisgeving te doen en hen deze liquide middelen of goederen desgevraagd voor controle ter beschikking te stellen.
 
@@ -556,7 +583,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt, voor zover niet ander
 
 5. De gegevens in het vierde lid worden schriftelijk verstrekt met behulp van het bij regeling van Onze minister vastgestelde formulier.
 
-#### Artikel 4.4
+##### Artikel 4.4
 
 1. Het meldpunt beheert de gegevens die op grond van [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=4&artikel=4.2&z=2025-01-01&g=2025-01-01) worden verkregen.
 
@@ -568,7 +595,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt, voor zover niet ander
 
 - c. afschriften van processen-verbaal van inbeslagneming van geld.
 
-#### Artikel 4.5
+##### Artikel 4.5
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de aangifte of kennisgeving van geldtransporten waarvan het vervoer op andere wijze plaatsvindt dan in deze wet voorzien.
 
@@ -578,7 +605,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt, voor zover niet ander
 
 #### § 6. De meldingsplicht Sanctiewetgeving
 
-#### Artikel 5.1
+##### Artikel 5.1
 
 In dit hoofdstuk wordt verstaan onder:
 
@@ -602,11 +629,11 @@ In dit hoofdstuk wordt verstaan onder:
 
 - **overtreding:** gedraging in strijd met het bij of krachtens deze wet bepaalde.
 
-#### Artikel 5.2
+##### Artikel 5.2
 
 Overtredingen kunnen worden begaan door natuurlijke personen en rechtspersonen. [Artikel 53, tweede en derde lid, van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=53) is van overeenkomstige toepassing.
 
-#### Artikel 5.3
+##### Artikel 5.3
 
 1. De toezichtautoriteit legt geen bestuurlijke sanctie op, voor zover voor de overtreding een rechtvaardigingsgrond bestond.
 
@@ -614,7 +641,7 @@ Overtredingen kunnen worden begaan door natuurlijke personen en rechtspersonen. 
 
 #### § 2. Toezicht op de naleving
 
-#### Artikel 5.4
+##### Artikel 5.4
 
 1. Met het toezicht op de naleving van het bij of krachtens de [hoofdstukken 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=1&z=2025-01-01&g=2025-01-01) bepaalde zijn belast de daartoe bij besluit van de toezichtautoriteit aangewezen personen.
 
@@ -626,7 +653,7 @@ Overtredingen kunnen worden begaan door natuurlijke personen en rechtspersonen. 
 
 5. Bij regeling van Onze Minister kunnen regels worden gesteld met betrekking tot de wijze van taakuitoefening door toezichthouders, met uitzondering van de deken, bedoeld in het derde lid.
 
-#### Artikel 5.5
+##### Artikel 5.5
 
 1. Een toezichthouder beschikt over de bevoegdheden, bedoeld in de [artikelen 7:7 tot en met 7:10 van de Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=7:10).
 
@@ -634,11 +661,11 @@ Overtredingen kunnen worden begaan door natuurlijke personen en rechtspersonen. 
 
 3. De [artikelen 7:5](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=7:5) en [7:6 van de Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=7:6) zijn van overeenkomstige toepassing.
 
-#### Artikel 5.6
+##### Artikel 5.6
 
 Van de inbewaringneming, bedoeld in [artikel 5.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=5&paragraaf=2&artikel=5.5&z=2025-01-01&g=2025-01-01), maken de douaneambtenaren onverwijld proces-verbaal op. De inbewaringneming kan geschieden voor maximaal dertig dagen. Deze termijn kan door de inspecteur van douane eenmaal met maximaal dertig dagen worden verlengd. Na afloop van deze termijn wordt het geld onverwijld teruggegeven aan de aanmelder, tenzij het in beslag wordt genomen.
 
-#### Artikel 5.7
+##### Artikel 5.7
 
 1. Een ieder is verplicht aan een toezichthouder binnen de door hem gestelde redelijke termijn alle medewerking te verlenen die deze redelijkerwijs kan vorderen bij de uitoefening van zijn bevoegdheden.
 
@@ -646,19 +673,19 @@ Van de inbewaringneming, bedoeld in [artikel 5.5, tweede lid](https://wetten.ove
 
 3. Ten behoeve van het toezicht op de naleving van deze wet zijn notarissen, kandidaat-notarissen en advocaten en de onder hun verantwoordelijkheid werkzame personen ten opzichte van de aangewezen personen en de deken niet gehouden aan de geheimhoudingsplicht die geldt uit hoofde van hun beroep.
 
-#### Artikel 5.8
+##### Artikel 5.8
 
 De toezichtautoriteit kan het toezicht voor zover betrekking hebbend op de diensten, bedoeld in [bijlage A, deel I, onderdelen k tot en met o](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A&z=2025-01-01&g=2025-01-01), op een risicogeoriënteerde wijze uitoefenen.
 
 #### § 3. Aanwijzing en bestuurlijke sancties
 
-#### Artikel 5.9
+##### Artikel 5.9
 
 1. De toezichtautoriteit kan een dienstverlener die niet voldoet aan het bij of krachtens de [hoofdstukken 1 tot en met 3 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=1&z=2025-01-01&g=2025-01-01) bepaalde, een aanwijzing geven.
 
 2. De beslissing tot het geven van een aanwijzing is met redenen omkleed en wordt schriftelijk bekendgemaakt aan degene tot wie de aanwijzing is gericht.
 
-#### Artikel 5.10
+##### Artikel 5.10
 
 1. De toezichtautoriteit kan een last onder dwangsom opleggen ter zake van overtreding van de [artikelen 1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=1&artikel=1.6&z=2025-01-01&g=2025-01-01), [1.9, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=1&artikel=1.9&z=2025-01-01&g=2025-01-01), [1.10 tot en met 1.12](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=1&artikel=1.10&z=2025-01-01&g=2025-01-01), [2.2, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2025-01-01&g=2025-01-01), [2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=2&paragraaf=1&artikel=2.3&z=2025-01-01&g=2025-01-01), [2.4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2025-01-01&g=2025-01-01), [2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=2&paragraaf=1&artikel=2.5&z=2025-01-01&g=2025-01-01), [2.7, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=2&paragraaf=1&artikel=2.7&z=2025-01-01&g=2025-01-01), 2.7, tweede lid, tweede volzin, 2.7, derde lid, [2.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2025-01-01&g=2025-01-01), [2.9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=2&paragraaf=2&artikel=2.9&z=2025-01-01&g=2025-01-01), [2.10 tot en met 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=2&paragraaf=3&artikel=2.10&z=2025-01-01&g=2025-01-01), [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=3&paragraaf=2&artikel=3.5&z=2025-01-01&g=2025-01-01), [3.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=3&paragraaf=2&artikel=3.6&z=2025-01-01&g=2025-01-01), [3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=3&paragraaf=4&artikel=3.10&z=2025-01-01&g=2025-01-01), [3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=3&paragraaf=5&artikel=3.12&z=2025-01-01&g=2025-01-01), [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=3&paragraaf=6&artikel=3.13&z=2025-01-01&g=2025-01-01), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=4&artikel=4.2&z=2025-01-01&g=2025-01-01), [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=4&artikel=4.3&z=2025-01-01&g=2025-01-01) en [5.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=5&paragraaf=2&artikel=5.7&z=2025-01-01&g=2025-01-01), alsmede ter zake van het geen gevolg geven dan wel niet tijdig of onvolledig gevolg geven aan een krachtens [artikel 5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=5&paragraaf=3&artikel=5.9&z=2025-01-01&g=2025-01-01) gegeven aanwijzing.
 
@@ -670,7 +697,7 @@ De toezichtautoriteit kan het toezicht voor zover betrekking hebbend op de diens
 
 5. De [artikelen 7:22 tot en met 7:29 van de Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=7:22) zijn van overeenkomstige toepassing.
 
-#### Artikel 5.11
+##### Artikel 5.11
 
 1. De toezichtautoriteit kan een boete opleggen ter zake van overtreding van de [artikelen 1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=1&artikel=1.6&z=2025-01-01&g=2025-01-01), [1.9, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=1&artikel=1.9&z=2025-01-01&g=2025-01-01), [1.10 tot en met 1.12](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=1&artikel=1.10&z=2025-01-01&g=2025-01-01), [2.2, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2025-01-01&g=2025-01-01), [2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=2&paragraaf=1&artikel=2.3&z=2025-01-01&g=2025-01-01), [2.4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2025-01-01&g=2025-01-01), [2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=2&paragraaf=1&artikel=2.5&z=2025-01-01&g=2025-01-01), [2.7, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=2&paragraaf=1&artikel=2.7&z=2025-01-01&g=2025-01-01), 2.7, tweede lid, tweede volzin, 2.7, derde lid, [2.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2025-01-01&g=2025-01-01), [2.9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=2&paragraaf=2&artikel=2.9&z=2025-01-01&g=2025-01-01), [2.10 tot en met 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=2&paragraaf=3&artikel=2.10&z=2025-01-01&g=2025-01-01), [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=3&paragraaf=2&artikel=3.5&z=2025-01-01&g=2025-01-01), [3.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=3&paragraaf=2&artikel=3.6&z=2025-01-01&g=2025-01-01), [3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=3&paragraaf=4&artikel=3.10&z=2025-01-01&g=2025-01-01), [3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=3&paragraaf=5&artikel=3.12&z=2025-01-01&g=2025-01-01), [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=3&paragraaf=6&artikel=3.13&z=2025-01-01&g=2025-01-01), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=4&artikel=4.2&z=2025-01-01&g=2025-01-01), [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=4&artikel=4.3&z=2025-01-01&g=2025-01-01) en [5.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=5&paragraaf=2&artikel=5.7&z=2025-01-01&g=2025-01-01), alsmede ter zake van het geen gevolg geven dan wel niet tijdig of onvolledig gevolg geven aan een krachtens [artikel 5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=5&paragraaf=3&artikel=5.9&z=2025-01-01&g=2025-01-01) gegeven aanwijzing.
 
@@ -678,7 +705,7 @@ De toezichtautoriteit kan het toezicht voor zover betrekking hebbend op de diens
 
 3. De [artikelen 7:32 tot en met 7:38 van de Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=7:32) zijn van overeenkomstige toepassing.
 
-#### Artikel 5.12
+##### Artikel 5.12
 
 1. Het bedrag van de bestuurlijke boete wordt bepaald bij algemene maatregel van bestuur. Het bedrag van de bestuurlijke boete voor een afzonderlijke overtreding bedraagt ten hoogste USD 250 000, tenzij ten tijde van het plegen van de overtreding nog geen vijf jaren zijn verstreken sinds het opleggen aan de overtreder van een bestuurlijke boete ter zake van eenzelfde overtreding, in welk geval het bedrag van de bestuurlijke boete voor een afzonderlijke overtreding ten hoogste USD 500 000 bedraagt.
 
@@ -688,11 +715,11 @@ De toezichtautoriteit kan het toezicht voor zover betrekking hebbend op de diens
 
 4. [Artikel 1, tweede lid, van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=1) is van overeenkomstige toepassing.
 
-#### Artikel 5.13
+##### Artikel 5.13
 
 Voor zover een bestuurlijke sanctie verplicht tot betaling van een geldsom, komt deze geldsom toe aan het bestuursorgaan dat de sanctie heeft opgelegd.
 
-#### Artikel 5.14
+##### Artikel 5.14
 
 1. Betaling van een verbeurde dwangsom of een bestuurlijke boete geschiedt aan een door de toezichtautoriteit te bepalen kantoor dan wel door bijschrijving op een daartoe door de toezichtautoriteit bestemde bankrekening.
 
@@ -704,7 +731,7 @@ Voor zover een bestuurlijke sanctie verplicht tot betaling van een geldsom, komt
 
 5. [Artikel 7:41 van de Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=7:41) is van overeenkomstige toepassing.
 
-#### Artikel 5.15
+##### Artikel 5.15
 
 1. De bevoegdheid tot invordering van een verbeurde dwangsom verjaart door verloop van één jaar na de dag waarop de dwangsom is verbeurd.
 
@@ -714,7 +741,7 @@ Voor zover een bestuurlijke sanctie verplicht tot betaling van een geldsom, komt
 
 ### Hoofdstuk 6. Strafbepalingen
 
-#### Artikel 6.1
+##### Artikel 6.1
 
 1. Overtreding van de [artikelen 1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=1&artikel=1.6&z=2025-01-01&g=2025-01-01), [2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2025-01-01&g=2025-01-01),[2.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2025-01-01&g=2025-01-01), 2.4, tweede lid, [2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=2&paragraaf=3&artikel=2.10&z=2025-01-01&g=2025-01-01), [2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=2&paragraaf=3&artikel=2.11&z=2025-01-01&g=2025-01-01), [2.13 tot en met 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=2&paragraaf=4&artikel=2.13&z=2025-01-01&g=2025-01-01), [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=3&paragraaf=2&artikel=3.5&z=2025-01-01&g=2025-01-01), [3.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=3&paragraaf=2&artikel=3.6&z=2025-01-01&g=2025-01-01), 3.5, derde lid, [3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=3&paragraaf=4&artikel=3.10&z=2025-01-01&g=2025-01-01), [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=3&paragraaf=6&artikel=3.13&z=2025-01-01&g=2025-01-01), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=4&artikel=4.2&z=2025-01-01&g=2025-01-01), [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=4&artikel=4.3&z=2025-01-01&g=2025-01-01) en [5.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=5&paragraaf=2&artikel=5.7&z=2025-01-01&g=2025-01-01), wordt, voor zover opzettelijk begaan, gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
 
@@ -722,7 +749,7 @@ Voor zover een bestuurlijke sanctie verplicht tot betaling van een geldsom, komt
 
 3. De in het eerste lid strafbaar gestelde feiten zijn misdrijven. De in het tweede lid strafbaar gestelde feiten zijn overtredingen.
 
-#### Artikel 6.2
+##### Artikel 6.2
 
 1. Met de opsporing van de in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=6&artikel=6.1&z=2025-01-01&g=2025-01-01) strafbaar gestelde feiten zijn, naast de in [artikel 184 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184) bedoelde ambtenaren, belast de daartoe bij besluit van Onze Minister van Justitie en Veiligheid in overeenstemming met Onze Minister aangewezen ambtenaren.
 
@@ -732,45 +759,45 @@ Voor zover een bestuurlijke sanctie verplicht tot betaling van een geldsom, komt
 
 #### § 1. Overgangsbepalingen
 
-#### Artikel 7.1
+##### Artikel 7.1
 
 Een ontheffing, verleend op grond van [artikel 2, vijfde lid, van de Wet identificatie bij dienstverlening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028490&artikel=2), berust vanaf het tijdstip van inwerkingtreding van deze wet op[artikel 2.2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 7.2
+##### Artikel 7.2
 
 1. Onverminderd [artikel 2.3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=2&paragraaf=1&artikel=2.3&z=2025-01-01&g=2025-01-01), is [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2025-01-01&g=2025-01-01), niet van toepassing ten aanzien van cliënten die reeds op grond van de [Wet identificatie bij dienstverlening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028490) zijn geïdentificeerd of ten aanzien van wie geen verplichting tot identificatie op grond van die wet was vereist.
 
 2. Gegevens van de in het eerste lid bedoelde personen die reeds op grond van de [Wet identificatie bij dienstverlening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028490) zijn vastgelegd, worden geacht te zijn vastgelegd ingevolge deze wet.
 
-#### Artikel 7.3
+##### Artikel 7.3
 
 Een bestuurlijke boete, opgelegd ter zake van overtreding van een voorschrift, gesteld bij of krachtens de [Wet identificatie bij dienstverlening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028490) of de [Wet melding ongebruikelijke transacties BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028598), wordt vanaf het tijdstip van inwerkingtreding van deze wet gelijkgesteld met een op grond van [artikel 5.11](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=5&paragraaf=3&artikel=5.11&z=2025-01-01&g=2025-01-01) opgelegde bestuurlijke boete.
 
-#### Artikel 7.4
+##### Artikel 7.4
 
 1. De toezichtautoriteit kan na inwerkingtreding van deze wet tot drie jaren na de dag waarop de overtreding is begaan een bestuurlijke boete opleggen ter zake van overtreding van een voorschrift gesteld bij of krachtens de [Wet identificatie bij dienstverlening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028490)of de [Wet melding ongebruikelijke transacties BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028598).
 
 2. Op een bestuurlijke boete als bedoeld in het eerste lid blijft het recht van toepassing dat gold voor het tijdstip van inwerkingtreding van deze wet.
 
-#### Artikel 7.5
+##### Artikel 7.5
 
 Op bezwaar of beroep, ingesteld vóór het tijdstip van inwerkingtreding van deze wet tegen een besluit op grond van de [Wet identificatie bij dienstverlening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028490) of de [Wet melding ongebruikelijke transacties BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028598), blijft het recht van toepassing dat gold voor het tijdstip van inwerkingtreding van deze wet.
 
-#### Artikel 7.6
+##### Artikel 7.6
 
 Een op grond van [artikel 23 van de Wet melding ongebruikelijke transacties BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028598&artikel=23)gegeven aanwijzing wordt vanaf het tijdstip van inwerkingtreding van deze wet aangemerkt als een aanwijzing als bedoeld in [artikel 5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=5&paragraaf=3&artikel=5.9&z=2025-01-01&g=2025-01-01).
 
 #### § 2. Slotbepalingen
 
-#### Artikel 7.7
+##### Artikel 7.7
 
 De [Wet identificatie bij dienstverlening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028490), de[Wet melding ongebruikelijke transacties BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028598) en de [Wet grensoverschrijdende geldtransporten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028165) worden ingetrokken.
 
-#### Artikel 7.8
+##### Artikel 7.8
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 7.9
+##### Artikel 7.9
 
 Deze wet wordt aangehaald als: Wet ter voorkoming van witwassen en financieren van terrorisme BES.
 
@@ -890,7 +917,7 @@ Als gegevens die op grond van [artikel 2.13](https://wetten.overheid.nl/jci1.3:c
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 1.8
+##### Artikel 1.8
 
 1. Ter voorkoming van witwassen en financieren van terrorisme verricht een dienstverlener cliëntenonderzoek en meldt hij verrichte of voorgenomen ongebruikelijke transacties overeenkomstig de bij of krachtens de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=2&z=2025-01-01&g=2025-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=3&z=2025-01-01&g=2025-01-01) gestelde regels. Daarbij besteedt een dienstverlener bijzondere aandacht aan ongebruikelijke transactiepatronen en aan transacties die naar hun aard een hoger risico op witwassen of financieren van terrorisme met zich brengen.
 
@@ -908,7 +935,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 #### § 3. Verscherpt cliëntenonderzoek
 
-#### Artikel 2.19
+##### Artikel 2.19
 
 Een trustkantoor bewaart de in deze paragraaf bedoelde gegevens op toegankelijke wijze gedurende vijf jaar na het tijdstip van het beëindigen van de zakelijke relatie of tot vijf jaar na het uitvoeren van de desbetreffende transactie.
 
@@ -1058,7 +1085,7 @@ Als gegevens die op grond van [artikel 2.13](https://wetten.overheid.nl/jci1.3:c
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 1.9
+##### Artikel 1.9
 
 1. Een dienstverlener neemt maatregelen om zijn risico’s op witwassen en financieren van terrorisme vast te stellen en te beoordelen, waarbij de maatregelen in verhouding staan tot de aard en de omvang van de dienstverlener.
 
@@ -1068,7 +1095,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 4. De toezichthoudende autoriteit kan ontheffing verlenen van het eerste tot en met derde lid, indien de dienstverlener behoort tot een sector waarvan de inherente specifieke risico’s op witwassen en financieren van terrorisme duidelijk en inzichtelijk zijn.
 
-#### Artikel 1.10
+##### Artikel 1.10
 
 1. Een dienstverlener beschikt over gedragslijnen, procedures en maatregelen om de risico’s op witwassen en financieren van terrorisme en de risico’s die zijn geïdentificeerd in de nationale risicobeoordeling te beperken en effectief te beheersen.
 
@@ -1078,7 +1105,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 4. Een dienstverlener draagt zorg voor een systematische toetsing van de gedragslijnen, procedures en maatregelen en draagt waar nodig zorg voor een bijstelling hiervan.
 
-#### Artikel 1.11
+##### Artikel 1.11
 
 1. Indien het dagelijks beleid van een dienstverlener wordt bepaald door twee of meer personen, wijst een dienstverlener één van de personen die het dagelijks beleid van de dienstverlener bepalen aan die is belast met de verantwoordelijkheid voor de naleving door de dienstverlener van het bij of krachtens deze wet bepaalde.
 
@@ -1088,7 +1115,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 4. Indien van toepassing en voor zover passend bij de aard en de omvang van de dienstverlener, draagt een dienstverlener er zorg voor dat op onafhankelijke wijze een auditfunctie wordt uitgeoefend ten aanzien van zijn werkzaamheden. De auditfunctie controleert de naleving door een dienstverlener van de bij of krachtens deze wet gestelde regels en de uitoefening van de compliancefunctie.
 
-#### Artikel 1.12
+##### Artikel 1.12
 
 1. Een dienstverlener die deel uitmaakt van een groep past de op het niveau van de groep geldende gedragslijnen en procedures op effectieve wijze toe, voor zover die voldoen aan de bij of krachtens deze wet gestelde regels.
 
@@ -1100,11 +1127,11 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 5. Indien de aanvullende maatregelen, bedoeld in het vierde lid, onvoldoende zijn, neemt de toezichthoudende autoriteit aanvullende toezichtmaatregelen, waarbij onder meer wordt verlangd dat de groep geen zakelijke relaties aangaat of die relaties beëindigt en geen transacties uitvoert, dan wel waarbij de groep, indien nodig, wordt verzocht haar bedrijfsactiviteiten in de betrokken staat te beëindigen.
 
-#### Artikel 1.13
+##### Artikel 1.13
 
 De [artikelen 1.9 tot en met 1.12](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=1&artikel=1.9&z=2025-01-01&g=2025-01-01) zijn niet van toepassing op de dienstverleners, bedoeld in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A&z=2025-01-01&g=2025-01-01), onder I, aanhef, onder j., l., m., n. en o.
 
-#### Artikel 1.14
+##### Artikel 1.14
 
 Onze Minister van Financiën en Onze Minister van Justitie en Veiligheid gezamenlijk publiceren periodiek een verslag van de geïdentificeerde, geanalyseerde en beoordeelde risico’s op witwassen en financieren van terrorisme.
 
@@ -1118,7 +1145,7 @@ Onze Minister van Financiën en Onze Minister van Justitie en Veiligheid gezamen
 
 #### § 1. Het meldpunt
 
-#### Artikel 3.9a
+##### Artikel 3.9a
 
 Ten behoeve van de naleving van de in de [artikelen 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=3&paragraaf=2&artikel=3.5&z=2025-01-01&g=2025-01-01) en [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=3&paragraaf=2&artikel=3.6&z=2025-01-01&g=2025-01-01) opgenomen verplichtingen, zijn notarissen, kandidaat-notarissen en advocaten die diensten verlenen, bedoeld in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A&z=2025-01-01&g=2025-01-01), onderdeel i, subonderdelen n en o, niet gehouden aan de geheimhoudingsplicht die geldt uit hoofde van hun beroep.
 
@@ -1134,13 +1161,13 @@ Ten behoeve van de naleving van de in de [artikelen 3.5](https://wetten.overheid
 
 #### § 2. Toezicht op de naleving
 
-#### Artikel 5.4a
+##### Artikel 5.4a
 
 Ten behoeve van het houden van het toezicht, bedoeld in [artikel 5.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=5&paragraaf=2&artikel=5.4&z=2025-01-01&g=2025-01-01), geldt voor de deken alsmede voor de door hem ten behoeve van de uitoefening van het toezicht ingeschakelde medewerkers, personeel en andere personen een geheimhoudingsplicht, gelijk aan die van de advocaat.
 
 #### § 3. Aanwijzing en bestuurlijke sancties
 
-#### Artikel 5.16
+##### Artikel 5.16
 
 1. De toezichtautoriteit kan, met het oog op de belangen die deze wet beoogt te beschermen, bij overtreding van de in [artikel 5.11](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=5&paragraaf=3&artikel=5.11&z=2025-01-01&g=2025-01-01) bedoelde bepalingen een openbare waarschuwing uitvaardigen.
 
@@ -1148,7 +1175,7 @@ Ten behoeve van het houden van het toezicht, bedoeld in [artikel 5.4, derde lid]
 
 3. De [artikelen 7:47](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=7:47), [7:48](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=7:48) en [7:49 van de Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=7:49) zijn van overeenkomstige toepassing.
 
-#### Artikel 5.17
+##### Artikel 5.17
 
 1. De toezichtautoriteit maakt een beslissing tot het opleggen van een bestuurlijke boete op grond van deze wet na bekendmaking van die beslissing openbaar, indien de boete is opgelegd ter zake van overtreding van de in [artikel 6.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=6&artikel=6.1&z=2025-01-01&g=2025-01-01), bedoelde bepalingen.
 
@@ -1156,11 +1183,11 @@ Ten behoeve van het houden van het toezicht, bedoeld in [artikel 5.4, derde lid]
 
 3. De toezichtautoriteit kan beslissen niet tot openbaarmaking van een beslissing tot het opleggen van een bestuurlijke boete over te gaan, indien openbaarmaking van die beslissing in strijd is of in strijd zou kunnen komen met het doel van het door de toezichtautoriteit uit te oefenen toezicht op de naleving van deze wet.
 
-#### Artikel 5.18
+##### Artikel 5.18
 
 De toezichtautoriteit maakt, onverminderd [artikel 5.17](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=5&paragraaf=3&artikel=5.17&z=2025-01-01&g=2025-01-01), een beslissing tot het opleggen van een bestuurlijke boete op grond van deze wet openbaar, nadat die beslissing onherroepelijk is geworden. Artikel 5.17, derde lid, is van overeenkomstige toepassing.
 
-#### Artikel 5.19
+##### Artikel 5.19
 
 De toezichtautoriteit maakt een beslissing tot het opleggen van een last onder dwangsom op grond van deze wet openbaar, wanneer een dwangsom is verbeurd. [Artikel 5.17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=5&paragraaf=3&artikel=5.17&z=2025-01-01&g=2025-01-01), en de [artikelen 7:47 tot en met 7:49 van de Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=7:47) zijn van overeenkomstige toepassing.
 

@@ -1,13 +1,39 @@
 ---
-title: "Besluit gezondheidszorgpsycholoog"
+title: "Besluit van 17 maart 1998, houdende regels inzake de opleiding tot en de deskundigheid van de gezondheidszorgpsycholoog (Besluit gezondheidszorgpsycholoog)"
 identifier: "BWBR0009467"
-categorie: "Sociaal recht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009467"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009467"
+soort: "AMvB"
+stam_id: "779303"
+version_id: "1131222"
+internal_id: "C1131221"
+label_id: "755094"
+dtd_version: "2.0"
+original_entry_into_force: "1998-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009467/2024-01-01/0"
+intitule_bron: "Stb.1998-156"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-03-17"
+intitule_published: "1998-03-24"
+intitule_in_force: "1998-03-24"
+intitule_status: "goed"
+original_publication: "Stb.1998-156"
+original_signed_date: "1998-03-17"
+original_published_date: "1998-03-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-1998-156"
+entry_into_force_date: "1998-04-01"
+jci_1_3: "jci1.3:c:BWBR0009467&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0009467&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit gezondheidszorgpsycholoog"
+signed_date: "1998-03-17"
+entry_into_force: "1998-04-01"
 ---
-
 # Besluit van 17 maart 1998, houdende regels inzake de opleiding tot en de deskundigheid van de gezondheidszorgpsycholoog (Besluit gezondheidszorgpsycholoog)
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 30 juni 1997, CSZ/BenO-979473;
@@ -24,7 +50,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -42,13 +68,13 @@ In dit besluit wordt verstaan onder:
 
 - g. CRT: de Commissie Registratie en Toezicht van de Federatie van Gezondheidszorgpsychologen en Psychotherapeuten.
 
-#### Artikel 2
+##### Artikel 2
 
 Om in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) ingestelde register van gezondheidszorgpsychologen te kunnen worden ingeschreven, is vereist het bezit van een getuigschrift waaruit blijkt dat de betrokkene met goed gevolg het examen ter afsluiting van een opleiding tot gezondheidszorgpsycholoog heeft afgelegd, uitgereikt door een krachtens [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009467&paragraaf=3&artikel=6&z=2024-01-01&g=2024-01-01), aangewezen opleidingsinstelling.
 
 #### § 2. Opleidingseisen
 
-#### Artikel 3
+##### Artikel 3
 
 1. De opleiding tot gezondheidszorgpsycholoog bestaat uit ten minste 3600 uren, die als volgt zijn verdeeld:
 
@@ -64,7 +90,7 @@ Om in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:B
 
 3. De werkervaring, bedoeld in het eerste lid, onder b, is gespreid over ten minste twee jaren en wordt in elk geval opgedaan met het uitvoeren van psychodiagnostisch onderzoek, het stellen van indicaties en het toepassen van psychologische, pedagogische en psychotherapeutische behandelingsmethoden.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het onderwijs, bedoeld in [artikel 3, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009467&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01), omvat ten minste:
 
@@ -136,7 +162,7 @@ Om in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:B
 
 - 6°. betrekken van beschikbaar wetenschappelijk bewijs bij beslissingen en handelingen in de praktijk.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Tot de opleiding tot gezondheidszorgpsycholoog worden slechts toegelaten degenen die in het bezit zijn van een getuigschrift waaruit blijkt dat zij het doctoraalexamen of een masteropleiding psychologie, pedagogische wetenschappen of gezondheidswetenschappen met als afstudeerrichting geestelijke gezondheidskunde aan een instelling voor wetenschappelijk onderwijs met goed gevolg hebben afgerond.
 
@@ -170,7 +196,7 @@ Om in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:B
 
 #### § 3. Aanwijzing opleidingsinstellingen
 
-#### Artikel 6
+##### Artikel 6
 
 1. Onze Minister kan, op hun daartoe strekkende verzoek, opleidingsinstellingen aanwijzen die een opleiding tot gezondheidszorgpsycholoog verzorgen die naar zijn oordeel voldoet aan de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009467&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009467&paragraaf=2&artikel=4&z=2024-01-01&g=2024-01-01).
 
@@ -182,7 +208,7 @@ Om in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:B
 
 5. Van een aanwijzing of een intrekking van een aanwijzing wordt kennis gegeven in de Staatscourant.
 
-#### Artikel 7
+##### Artikel 7
 
 Voor aanwijzing komen in aanmerking opleidingsinstellingen waarvan in redelijkheid verwacht mag worden dat zij:
 
@@ -202,19 +228,19 @@ Voor aanwijzing komen in aanmerking opleidingsinstellingen waarvan in redelijkhe
 
 - 4°. zorg te dragen voor een veilig leer- en werkklimaat.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De opleidingsinstelling stelt jaarlijks een plan vast waarin de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009467&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009467&paragraaf=2&artikel=4&z=2024-01-01&g=2024-01-01) omschreven opleidingsonderdelen nader zijn uitgewerkt.
 
 2. Belanghebbenden kunnen het opleidingsplan, desgevraagd, inzien en daarvan afschrift verlangen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De opleidingsinstelling organiseert het onderwijs overeenkomstig de [artikelen 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.2), [7.3, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3), [7.6, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.6), [7.10, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.10), [7.11, eerste lid, tweede lid, onderdelen a en b, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.11), [7.12](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.12), [7.12a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.12a), [7.12b, eerste lid, onderdelen a, b, d en e, en tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.12b), [7.12c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.12c), [7.13, eerste lid, en tweede lid, onderdelen a tot en met d, j tot en met u en x](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.13), [7.14](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.14), [7.15, eerste lid, onderdelen a tot en met e, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.15), [7.42a, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.42a), [7.57h](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.57h), [7.59 tot en met 7.60](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.59), [7.61, eerste lid, onderdelen c en e, en tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.61), [7.62](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.62) en [7.63 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.63).
 
 2. In aanvulling op het eerste lid legt de opleidingsinstelling in het opleidings- en examenreglement een procedure vast in geval van een verschil van mening tussen de hoofdopleider en de aspirant-gezondheidszorgpsycholoog over de begeleiding tijdens de opleiding.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De opleidingsinstelling wijst een hoofdopleider aan die verantwoordelijk is voor de opleiding van een persoon die tot de opleiding is toegelaten.
 
@@ -228,7 +254,7 @@ Voor aanwijzing komen in aanmerking opleidingsinstellingen waarvan in redelijkhe
 
 #### § 4. Behandelingsmethoden
 
-#### Artikel 11
+##### Artikel 11
 
 1. De psychologische behandelingsmethoden, bedoeld in [artikel 25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=25), houden in:
 
@@ -246,11 +272,11 @@ Voor aanwijzing komen in aanmerking opleidingsinstellingen waarvan in redelijkhe
 
 #### § 5. Slotbepalingen
 
-#### Artikel 12
+##### Artikel 12
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 13
+##### Artikel 13
 
 Dit besluit wordt aangehaald als: Besluit gezondheidszorgpsycholoog.
 

@@ -1,13 +1,39 @@
 ---
-title: "Regeling tegemoetkoming herplaatsing flexwoningen 2024–2029"
+title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 7 december 2023, houdende de aanwijzing van de DAEB flexwoningen en regels over het verlenen van subsidie in de vorm van een garantie en het vaststellen van subsidie aan investeerders bij herplaatsing van flexwoningen (Regeling tegemoetkoming herplaatsing flexwoningen 2024–2029)"
 identifier: "BWBR0049080"
-categorie: "Overig"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049080"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049080"
+soort: "ministeriele-regeling"
+stam_id: "16962863"
+version_id: "29818342"
+internal_id: "C42734831"
+label_id: "16873544"
+dtd_version: "2.0"
+original_entry_into_force: "2024-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049080/2024-01-01/0"
+intitule_bron: "Stcrt.2023-33446"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-12-07"
+intitule_published: "2023-12-13"
+intitule_in_force: "2023-12-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-33446"
+original_signed_date: "2023-12-07"
+original_published_date: "2023-12-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-33446"
+entry_into_force_date: "2024-01-01"
+jci_1_3: "jci1.3:c:BWBR0049080&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0049080&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling tegemoetkoming herplaatsing flexwoningen 2024–2029"
+signed_date: "2023-12-07"
+entry_into_force: "2024-01-01"
 ---
-
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 7 december 2023, houdende de aanwijzing van de DAEB flexwoningen en regels over het verlenen van subsidie in de vorm van een garantie en het vaststellen van subsidie aan investeerders bij herplaatsing van flexwoningen (Regeling tegemoetkoming herplaatsing flexwoningen 2024–2029)
 
 Gelet op de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=6), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=8) en [14 van het Kaderbesluit BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=14);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -38,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 - –. **vrijstellingsbesluit DAEB:** het Besluit van de Europese Commissie van 20 december 2011 betreffende de toepassing van artikel 106, tweede lid, van het Verdrag betreffende de werking van de Europese Unie op staatssteun in de vorm van compensatie voor de openbare dienst, verleend aan bepaalde met het beheer van diensten van algemeen economisch belang belaste ondernemingen.
 
-#### Artikel 2. Doel en activiteiten
+##### Artikel 2. Doel en activiteiten
 
 1. Met deze regeling wordt door de Staat een dienst van algemeen economisch belang opgedragen conform het Vrijstellingsbesluit DAEB, aangeduid als de DAEB flexwoningen.
 
@@ -46,7 +72,7 @@ In deze regeling wordt verstaan onder:
 
 3. Met de DAEB flexwoningen wordt beoogd om te zorgen voor financieel acceptabele risico’s voor een investeerder bij de realisering van een flexwoning in Nederland, zodat een flexibele schil in de woningvoorraad ontstaat ten behoeve van de versnelde huisvesting van de doelgroep.
 
-#### Artikel 3. Dienst van algemeen economisch belang
+##### Artikel 3. Dienst van algemeen economisch belang
 
 1. Ter compensatie van de DAEB flexwoningen wordt aan de investeerder een subsidie in de vorm van een garantie verleend, indien wordt voldaan aan de voorwaarden, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049080&hoofdstuk=2&artikel=5&z=2024-01-01&g=2024-01-01).
 
@@ -64,7 +90,7 @@ In deze regeling wordt verstaan onder:
 
 8. De investeerder administreert de netto kosten, bedoeld in artikel 5, tweede lid, van het Vrijstellingsbesluit DAEB, verbonden met de gerealiseerde investeringen op een zodanige wijze dat inzicht kan worden verkregen in de hoogte van deze kosten, zulks afgescheiden van de reguliere bedrijfsvoering, in relatie tot de subsidie.
 
-#### Artikel 4. Plafond
+##### Artikel 4. Plafond
 
 1. Het plafond voor het totaalbedrag aan subsidieverleningen bedraagt € 783 miljoen.
 
@@ -72,7 +98,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Subsidieverlening
 
-#### Artikel 5. Voorwaarden
+##### Artikel 5. Voorwaarden
 
 1. Voor een subsidie in de vorm van een garantie komt alleen een grondgebonden of een gestapelde flexwoning in aanmerking:
 
@@ -108,7 +134,7 @@ In deze regeling wordt verstaan onder:
 
 6. In afwijking van het tweede tot en met het vierde lid voldoet een flexwoning aan de technische voorschriften, indien door de investeerder een gelijkwaardig kwaliteitsniveau kan worden aangetoond.
 
-#### Artikel 6. Aanvraag subsidieverlening
+##### Artikel 6. Aanvraag subsidieverlening
 
 1. Een aanvraag tot een subsidie in de vorm van een garantie wordt door de investeerder ingediend.
 
@@ -138,11 +164,11 @@ In deze regeling wordt verstaan onder:
 
 5. Een aanvraag wordt ingediend door middel van een aanvraagmodule die door de Minister digitaal ter beschikking wordt gesteld.
 
-#### Artikel 7. Rangschikking van de aanvragen
+##### Artikel 7. Rangschikking van de aanvragen
 
 De Minister behandelt de ontvangen aanvragen op volgorde van binnenkomst.
 
-#### Artikel 8. Verlening
+##### Artikel 8. Verlening
 
 De beschikking tot subsidieverlening bevat in ieder geval:
 
@@ -154,7 +180,7 @@ De beschikking tot subsidieverlening bevat in ieder geval:
 
 - d. de wijze van verantwoording door de investeerder.
 
-#### Artikel 9. Weigeringsgronden
+##### Artikel 9. Weigeringsgronden
 
 De Minister wijst een aanvraag voor een subsidieverlening geheel of gedeeltelijk af, indien:
 
@@ -166,7 +192,7 @@ De Minister wijst een aanvraag voor een subsidieverlening geheel of gedeeltelijk
 
 - d. een gebruikte flexwoning beschikbaar en geschikt is om voor een nieuw project te worden gebruikt.
 
-#### Artikel 10. Verplichtingen
+##### Artikel 10. Verplichtingen
 
 1. Indien een subsidie wordt verleend, dient de investeerder:
 
@@ -196,19 +222,19 @@ De Minister wijst een aanvraag voor een subsidieverlening geheel of gedeeltelijk
 
 4. Onverminderd het tweede lid, dient de flexwoning gedurende de gehele periode waarvoor de subsidie is verleend te worden verhuurd overeenkomstig [artikelen 47 tot en met 49 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=47), indien de subsidie wordt verleend aan een toegelaten instelling.
 
-#### Artikel 11. Verantwoording
+##### Artikel 11. Verantwoording
 
 1. De investeerder informeert de Minister op zijn of haar verzoek over de voortgang van het project waarvoor de subsidie is verleend.
 
 2. Op verzoek van de Minister verleent de investeerder medewerking en verstrekt informatie ten behoeve van de voortgang en evaluatie van de doelmatigheid en doeltreffendheid van deze regeling.
 
-#### Artikel 12. Intrekking
+##### Artikel 12. Intrekking
 
 1. De subsidieverlening wordt geheel of gedeeltelijk ingetrokken, indien de investeerder niet voldoet aan de verplichtingen, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0049080&hoofdstuk=2&artikel=10&z=2024-01-01&g=2024-01-01).
 
 2. Indien de subsidieverlening wordt ingetrokken, heeft de investeerder geen recht op restitutie van de eigen bijdrage.
 
-#### Artikel 13. Overdraagbaarheid
+##### Artikel 13. Overdraagbaarheid
 
 1. Indien een flexwoning waarvoor een subsidie is verleend wordt verkocht, kan de subsidieverlening aan de nieuwe eigenaar worden overgedragen, indien:
 
@@ -220,13 +246,13 @@ De Minister wijst een aanvraag voor een subsidieverlening geheel of gedeeltelijk
 
 2. Ook in elk geval een flexwoning wordt overgedragen aan een nieuwe eigenaar, blijven de termijn en data uit de oorspronkelijke subsidieverlening gelden.
 
-#### Artikel 14. Terugwerkende kracht
+##### Artikel 14. Terugwerkende kracht
 
 Overeenkomstig [artikel 4:23, derde lid, onderdeel a, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:23), voorziet deze regeling in het wettelijke voorschrift op al verleende subsidiebeschikkingen.
 
 ### Hoofdstuk 3. Subsidievaststelling
 
-#### Artikel 15. Voorwaarden
+##### Artikel 15. Voorwaarden
 
 1. Een investeerder kan de aanvraag tot subsidievaststelling voor een flexwoning die voldoet aan de technische voorschriften, bedoeld in [artikel 5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049080&hoofdstuk=2&artikel=5&z=2024-01-01&g=2024-01-01), bij de Minister indienen nadat minimaal 10 jaar en maximaal 20 jaar zijn verstreken, gerekend vanaf de dag na de verzenddatum van de subsidieverlening.
 
@@ -244,7 +270,7 @@ Overeenkomstig [artikel 4:23, derde lid, onderdeel a, van de Algemene wet bestuu
 
 - e. is voldaan aan de verplichtingen, bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049080&hoofdstuk=2&artikel=10&z=2024-01-01&g=2024-01-01).
 
-#### Artikel 16. Herplaatsingsladder
+##### Artikel 16. Herplaatsingsladder
 
 De herplaatsingsladder bestaat uit de volgende stappen:
 
@@ -254,7 +280,7 @@ De herplaatsingsladder bestaat uit de volgende stappen:
 
 - c. indien de inspanningsverplichting, bedoeld in onderdeel b, geen nieuwe locatie heeft opgeleverd, heeft de investeerder een inspanningsverplichting om, onder begeleiding van de Minister, te zoeken naar een nieuwe locatie voor de flexwoning in het regionale werkgebied in de zin van de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181), de woningmarktregio, bedoeld in [artikel 1 van de Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=1), de eigen provincie of andere locaties in het land.
 
-#### Artikel 17. Aanvraag subsidievaststelling
+##### Artikel 17. Aanvraag subsidievaststelling
 
 1. Een aanvraag tot subsidievaststelling bevat in ieder geval:
 
@@ -270,13 +296,13 @@ De herplaatsingsladder bestaat uit de volgende stappen:
 
 2. Een aanvraag tot subsidievaststelling wordt ingediend door middel van een aanvraagmodule die door de Minister digitaal ter beschikking wordt gesteld.
 
-#### Artikel 18. Hoogte van de compensatie
+##### Artikel 18. Hoogte van de compensatie
 
 1. De subsidievaststelling wordt gebaseerd op het verschil tussen de fictieve boekwaarde van de flexwoning en de transactieprijs van de flexwoning na verloop van de termijn, bedoeld in [artikel 15, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049080&hoofdstuk=3&artikel=15&z=2024-01-01&g=2024-01-01).
 
 2. De Minister keert 60% uit van de uitkomst van de berekening, bedoeld in het eerste lid.
 
-#### Artikel 19. Fictieve boekwaarde
+##### Artikel 19. Fictieve boekwaarde
 
 1. De fictieve boekwaarde, bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049080&hoofdstuk=3&artikel=18&z=2024-01-01&g=2024-01-01), wordt vastgesteld aan de hand van een lineaire afschrijving van de periode tussen de termijn, bedoeld in [artikel 15, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049080&hoofdstuk=3&artikel=15&z=2024-01-01&g=2024-01-01), en wordt gebaseerd op de bouwkosten van de flexwoning, vermeerderd met 21%.
 
@@ -320,7 +346,7 @@ De herplaatsingsladder bestaat uit de volgende stappen:
 
 - i. overige stichtingskosten, namelijk advies, ontwerp, leges en rente.
 
-#### Artikel 20. Vaststelling
+##### Artikel 20. Vaststelling
 
 1. De beschikking tot subsidievaststelling vermeldt in ieder geval de hoogte en de specificatie van de subsidievaststelling.
 
@@ -328,15 +354,15 @@ De herplaatsingsladder bestaat uit de volgende stappen:
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 21. Inwerkingtreding
+##### Artikel 21. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2024.
 
-#### Artikel 22. Vervaltermijn
+##### Artikel 22. Vervaltermijn
 
 Deze regeling vervalt met ingang van 1 januari 2029 met dien verstande dat deze van toepassing blijft op subsidies die voor deze datum zijn verleend.
 
-#### Artikel 23. Citeertitel
+##### Artikel 23. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling tegemoetkoming herplaatsing flexwoningen 2024–2029.
 

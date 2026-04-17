@@ -1,13 +1,38 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en het Groothertogdom Luxemburg inzake het wederzijds meerekenen van voorraden ruwe aardolie, halffabrikaten van aardolie en aardolieprodukten"
 identifier: "BWBV0002593"
-categorie: "Internationaal recht"
-publicatiedatum: 1983-12-04
-laatste_update: 1983-12-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002593"
+country: "nl"
+rank: "verdrag"
+publication_date: "1983-12-04"
+last_updated: "1983-12-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002593"
+soort: "verdrag"
+stam_id: "10002941673"
+version_id: "10002944312"
+internal_id: "C10006978611"
+label_id: "10002928564"
+dtd_version: "2.0"
+original_entry_into_force: "1983-12-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002593/1983-12-04/0"
+intitule_bron: "Trb.1983-41"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1983-01-27"
+intitule_published: "1983-03-08"
+intitule_in_force: "1983-11-17"
+intitule_status: "goed"
+original_publication: "Trb.1983-41"
+original_signed_date: "1983-01-27"
+original_published_date: "1983-03-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1983-41"
+entry_into_force_date: "1983-12-04"
+jci_1_3: "jci1.3:c:BWBV0002593&z=1983-12-04&g=1983-12-04"
+jci_1_0: "1.0:c:BWBV0002593&g=1983-12-04"
+citeertitel_status: "officieel"
+signed_date: "1983-01-27"
+entry_into_force: "1983-12-04"
 ---
-
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Groothertogdom Luxemburg inzake het wederzijds meerekenen van voorraden ruwe aardolie, halffabrikaten van aardolie en aardolieprodukten
 
 De Regering van het Koninkrijk der Nederlanden en de Regering van het Groothertogdom Luxemburg
@@ -20,7 +45,7 @@ de richtlijn 72/425/EEG van 19 december 1972 van de Raad der Europese Gemeenscha
 
 Zijn het volgende overeengekomen:
 
-#### Artikel I
+##### Artikel I
 
 Voor de toepassing van het bij of krachtens deze Overeenkomst bepaalde wordt verstaan onder:
 
@@ -34,11 +59,11 @@ Voor de toepassing van het bij of krachtens deze Overeenkomst bepaalde wordt ver
 
 „Nederlandse, onderscheidenlijk Luxemburgse voorraadplichtige”: hij, die onderworpen is aan de Nederlandse, onderscheidenlijk Luxemburgse voorraadplicht.
 
-#### Artikel II
+##### Artikel II
 
 In Nederland opgeslagen voorraden kunnen in het raam der navolgende bepalingen worden meegerekend door Luxemburgse voorraadplichtigen.
 
-#### Artikel III
+##### Artikel III
 
 Meerekenbaar zijn:
 
@@ -46,7 +71,7 @@ Meerekenbaar zijn:
 
 - b). Voorraden, gelegen in Nederland in opslagruimten die toebehoren aan, gehuurd zijn door, of uit andere titel in gebruik zijn bij Nederlandse voorraadplichtigen of ondernemingen die met Nederlandse voorraadplichtigen in een groep verbonden zijn dan wel ondernemingen waarin Nederlandse voorraadplichtigen een belangrijke zeggenschap hebben. Toestemming tot het aanhouden van deze voorraden door Nederlandse voorraadplichtigen en tot het meerekenen ervan door Luxemburgse voorraadplichtigen dient vooraf te worden gevraagd bij de Nederlandse Minister van Economische Zaken.
 
-#### Artikel IV
+##### Artikel IV
 
 § 1. De aanvrage tot het meerekenen van voorraden, vallende onder Artikel III, sub a), dient door de Luxemburgse voorraadplichtige ten laatste 15 werkdagen voor de aanvang van ieder kalenderkwartaal te worden gericht aan de Luxemburgse Minister welke verantwoordelijk is voor de aardolieprodukten. De aanvrage dient de volgende gegevens te bevatten:
 
@@ -92,13 +117,13 @@ Indien de Luxemburgse Minister welke verantwoordelijk is voor de aardolieprodukt
 
 Bij afwijking van de hoeveelheid tot meerekenen waarvan toestemming wordt verleend, ten opzichte van de hoeveelheid tot aanhouden waarvan de Nederlandse Minister van Economische Zaken toestemming heeft verleend doet hij daarvan onverwijld mededeling aan deze laatste. In dat geval wordt de hoeveelheid tot aanhouden waarvan toestemming is verleend in gelijke mate verminderd.
 
-#### Artikel V
+##### Artikel V
 
 § 1. De voorraden, vallende onder Artikel III, sub b) van deze Overenkomst kunnen door Nederlandse voorraadplichtigen niet worden meegerekend om te voldoen aan de op hen rustende voorraadplicht. Deze voorraden mogen ook niet worden opgenomen in de Nederlandse voorraadplicht. Deze voorraden mogen ook niet worden opgenomen in de Nederlandse voorraadopgaven, bestemd voor de Organisatie voor Economische Samenwerking en Ontwikkeling, het Internationaal Energie Agentschap en voor de Europese Gemeenschappen.
 
 § 2. Deze Overeenkomst laat de bepalingen, voortvloeiend uit de Overeenkomst inzake een Internationaal Energie-programma, opgesteld en ondertekend te Parijs op 18 november 1974, onverlet.
 
-#### Artikel VI
+##### Artikel VI
 
 § 1. De Luxemburgse Minister welke verantwoordelijk is voor de aardolieprodukten zendt aan de Nederlandse Minister van Economische Zaken zo spoedig mogelijk een afschrift van het document waarin toestemming wordt verleend tot het meerekenen van de voorraden, vallende onder Artikel III, sub a), waarbij tevens de gegevens omschreven in Artikel IV, § 1, worden vermeld.
 
@@ -112,33 +137,33 @@ Bij afwijking van de hoeveelheid tot meerekenen waarvan toestemming wordt verlee
 
 wordt de Luxemburgse Minister daarvan onverwijld in kennis gesteld. Het tekort zal evenredig worden verdeeld over de betrokken voorraadplichtigen.
 
-#### Artikel VII
+##### Artikel VII
 
 De voorraden, welke mogen worden meegerekend voor de Luxemburgse voorraadplicht, kunnen onder alle om omstandigheden vrij naar het Groothertogdom Luxemburg worden afgevoerd. In geval van een voorzieningscrisis kunnen de voorraden die gedurende het kwartaal waarin de voorzieningscrisis is uitgebroken mogen worden meegerekend, ook na dat kwartaal onbeperkt vrij naar het Groothertogdom Luxemburg worden afgevoerd. De afvoer van de voorraden dient tijdens een voorzieningscrisis zo spoedig mogelijk te worden gemeld aan de Nederlandse Minister van Economische Zaken die bevoegd is ter identificatie van de betrokken voorraden nadere regelen te stellen, zonder daarbij afbreuk te doen aan de vrije afvoer.
 
-#### Artikel VIII
+##### Artikel VIII
 
 De bepalingen van de artikelen I tot en met VII zijn van overeenkomstige toepassing voor in het Groothertogdom Luxemburg opgeslagen voorraden die Nederlandse voorraadplichtigen wensen mee te rekenen voor de op hen rustende voorraadplicht.
 
-#### Artikel IX
+##### Artikel IX
 
 Op voorstel van een der Contracterende Partijen kan nopens al wat de interpretatie en de toepassing van dit Akkoord betreft, overleg worden gepleegd. In geval van voorzieningscrisis vindt dergelijk overleg zo spoedig mogelijk plaats.
 
-#### Artikel X
+##### Artikel X
 
 Indien een van de Overeenkomstsluitende Partijen het wenselijk acht een bepaling van deze Overeenkomst te wijzigen, kan zij de andere Overeenkomstsluitende Partij om overleg verzoeken. Dit overleg vangt aan binnen zestig (60) dagen, te rekenen van de datum van ontvangst van het verzoek.
 
 De Overeenkomstsluitende Partijen stemmen schriftelijk in met elke wijziging van de Overeenkomst en die wijziging wordt van kracht zodra de beide Overeenkomstsluitende Partijen elkander hebben medegedeeld dat de voor de inwerkingtreding vereiste grondwettelijke procedures zijn voltooid.
 
-#### Artikel XI
+##### Artikel XI
 
 Wat het Koninkrijk der Nederlanden betreft, is deze Overeenkomst alleen van toepassing op het Rijk in Europa.
 
-#### Artikel XII
+##### Artikel XII
 
 Deze Overeenkomst treedt in werking een maand nadat de Regeringen van de Overeenkomstsluitende Partijen elkaar hebben medegedeeld, dat in hun onderscheiden landen de grondwettelijke procedures voor de inwerkingtreding der Overeenkomst hebben plaatsgevonden.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Deze Overeenkomst geldt voor onbepaalde tijd. Elk der beide Overeenkomstsluitende Partijen kan haar uiterlijk drie maanden voor het einde van enig kalenderjaar opzeggen, in welk geval de Overeenkomst met ingang van het eerstvolgende kalenderjaar ophoudt van kracht te zijn. Van de mogelijkheid tot opzegging mag geen gebruik worden gemaakt in geval van een crisis in de voorziening De Commissie der Europese Gemeenschappen dient, in ieder geval, vooraf van de opzegging op de hoogte te worden gesteld.
 

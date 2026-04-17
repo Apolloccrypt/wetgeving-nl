@@ -1,13 +1,37 @@
 ---
 title: "Regeling erkenning scholings- en trainingsprogramma"
 identifier: "BWBR0012746"
-categorie: "Overig"
-publicatiedatum: 2015-10-01
-laatste_update: 2015-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012746"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2015-10-01"
+last_updated: "2015-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012746"
+soort: "ministeriele-regeling"
+stam_id: "3566153"
+version_id: "5349282"
+internal_id: "C5542371"
+label_id: "3546164"
+dtd_version: "2.0"
+original_entry_into_force: "2001-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012746/2015-10-01/0"
+intitule_bron: "Stcrt.2001-156"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-08-14"
+intitule_published: "2001-08-15"
+intitule_in_force: "2001-08-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2001-156"
+original_signed_date: "2001-08-14"
+original_published_date: "2001-08-15"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2001-09-01"
+jci_1_3: "jci1.3:c:BWBR0012746&z=2015-10-01&g=2015-10-01"
+jci_1_0: "1.0:c:BWBR0012746&g=2015-10-01"
+citeertitel_status: "officieel"
+signed_date: "2001-08-14"
+entry_into_force: "2001-09-01"
 ---
-
 # Regeling erkenning scholings- en trainingsprogramma
 
 Gelet op [artikel 3, tweede lid, van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=3) en [artikel 2, vierde lid, van het Reglement justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&artikel=2);
@@ -16,7 +40,7 @@ Gezien het advies van het College van advies voor de justitiële kinderbeschermi
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -24,13 +48,13 @@ In deze regeling wordt verstaan onder:
 
 - b. **werkgever:** het bedrijf waar de deelnemer arbeid verricht.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Minister kan een scholings- en trainingsprogramma erkennen.
 
 2. De directeur, de reclassering, de gezinsvoogdij-instelling of een derde-organisatie kan een voordracht voor erkenning van een scholings- en trainingsprogramma doen aan de Minister.
 
-#### Artikel 3
+##### Artikel 3
 
 Voor erkenning kan worden voorgedragen:
 
@@ -38,7 +62,7 @@ Voor erkenning kan worden voorgedragen:
 
 - b. modules, die onderdeel uit maken van een scholings- en trainingsprogramma.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De erkenning geschiedt voor de periode van maximaal drie jaren.
 
@@ -54,7 +78,7 @@ Voor erkenning kan worden voorgedragen:
 
 3. Indien de erkenning niet is ingetrokken wordt deze geacht, na ommekomst van drie jaar, stilzwijgend verlengd te zijn voor de periode van drie jaar.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het standaard programma of de module van een scholings- en trainingsprogramma dient een beschrijving te bevatten van de wijze waarop het programma een bijdrage levert aan een geslaagde terugkeer van de jeugdige in de samenleving.
 
@@ -86,7 +110,7 @@ Voor erkenning kan worden voorgedragen:
 
 - h. de wijze van toezicht, begeleiding en evaluatie.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De activiteiten in het kader van een scholing- en trainingsprogramma kunnen aangeboden worden door de reclassering, de gecertificeerde instelling, bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1), een werkgever of een derde organisatie.
 
@@ -100,11 +124,11 @@ Voor erkenning kan worden voorgedragen:
 
 3. Indien het scholing- en trainingsprogramma of een substantieel gedeelte daarvan uitgevoerd wordt door een derde-organisatie, die niet door een in het tweede lid genoemd Ministerie of krachtens een daar genoemde wet erkend of toegelaten is, wordt bij de aanvraag om erkenning van het scholings- en trainingsprogramma de betrouwbaarheid van de derde-organisatie getoetst.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling treedt in werking op 1 september 2001.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling wordt aangehaald als: Regeling erkenning scholings- en trainingsprogramma.
 

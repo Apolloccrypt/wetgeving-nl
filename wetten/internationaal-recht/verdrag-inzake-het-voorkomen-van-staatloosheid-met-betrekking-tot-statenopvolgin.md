@@ -1,13 +1,35 @@
 ---
 title: "Verdrag inzake het voorkomen van staatloosheid met betrekking tot statenopvolging"
 identifier: "BWBV0004054"
-categorie: "Internationaal recht"
-publicatiedatum: 2011-10-01
-laatste_update: 2011-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004054"
+country: "nl"
+rank: "verdrag"
+publication_date: "2011-10-01"
+last_updated: "2011-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004054"
+soort: "verdrag"
+stam_id: "10003870103"
+version_id: "10003944642"
+internal_id: "C10007286721"
+label_id: "10003854954"
+dtd_version: "2.0"
+original_entry_into_force: "2011-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004054/2011-10-01/0"
+intitule_bron: "Trb.2010-38"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2010-02-05"
+intitule_in_force: "2011-08-18"
+intitule_status: "goed"
+original_publication: "Trb.2010-38"
+original_published_date: "2010-02-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2010-38"
+entry_into_force_date: "2011-10-01"
+jci_1_3: "jci1.3:c:BWBV0004054&z=2011-10-01&g=2011-10-01"
+jci_1_0: "1.0:c:BWBV0004054&g=2011-10-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2011-10-01"
 ---
-
 # Verdrag inzake het voorkomen van staatloosheid met betrekking tot statenopvolging
 
 Preambule
@@ -36,7 +58,7 @@ Ter verwezenlijking van de in het [Europees Verdrag inzake nationaliteit](https:
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag:
 
@@ -50,19 +72,19 @@ Voor de toepassing van dit Verdrag:
 
 - e. wordt verstaan onder „betrokken persoon” iedere natuurlijke persoon die op het tijdstip van statenopvolging de nationaliteit heeft van de voorgangerstaat en staatloos is of zou worden ten gevolge van deze statenopvolging.
 
-#### Artikel 2. Recht op een nationaliteit
+##### Artikel 2. Recht op een nationaliteit
 
 Iedere natuurlijke persoon die op het tijdstip van de statenopvolging de nationaliteit van de voorgangerstaat heeft en ten gevolge van de statenopvolging staatloos is of zou worden, heeft in overeenstemming met de volgende artikelen recht op de nationaliteit van een van de betrokken staten.
 
-#### Artikel 3. Voorkomen van staatloosheid
+##### Artikel 3. Voorkomen van staatloosheid
 
 De betrokken staat neemt alle passende maatregelen teneinde te voorkomen dat personen die op het tijdstip van de statenopvolging de nationaliteit van de voorgangerstaat hebben ten gevolge van de statenopvolging staatloos worden.
 
-#### Artikel 4. Non-discriminatie
+##### Artikel 4. Non-discriminatie
 
 Bij de toepassing van dit Verdrag maken de betrokken staten geen onderscheid tussen de betrokken personen op welke grond dan ook, zoals geslacht, ras, kleur, taal, godsdienst, politieke of andere mening, nationale of maatschappelijke afkomst, het behoren tot een nationale minderheid, vermogen, geboorte of andere status.
 
-#### Artikel 5. Verantwoordelijkheid van de opvolgerstaat
+##### Artikel 5. Verantwoordelijkheid van de opvolgerstaat
 
 1. Een opvolgerstaat verleent zijn nationaliteit aan personen die op het tijdstip van de statenopvolging de nationaliteit hadden van de voorgangerstaat en die ten gevolge van de statenopvolging staatloos zijn geworden of zouden worden, indien zij op dat tijdstip:
 
@@ -78,33 +100,33 @@ Bij de toepassing van dit Verdrag maken de betrokken staten geen onderscheid tus
 
 - c. laatste gewone verblijfplaats op het grondgebied van de voorgangerstaat dat grondgebied van de opvolgerstaat is geworden.
 
-#### Artikel 6. Verantwoordelijkheid van de voorgangerstaat
+##### Artikel 6. Verantwoordelijkheid van de voorgangerstaat
 
 Een voorgangerstaat kan onderdanen die niet de nationaliteit van een opvolgerstaat hebben verkregen en ten gevolge van de statenopvolging staatloos zouden worden niet hun nationaliteit ontnemen.
 
-#### Artikel 7. Eerbiediging van de wil zoals kenbaar gemaakt door de betrokken persoon
+##### Artikel 7. Eerbiediging van de wil zoals kenbaar gemaakt door de betrokken persoon
 
 Een opvolgerstaat weigert niet zijn nationaliteit te verlenen ingevolge [artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0004054&artikel=5&z=2011-10-01&g=2011-10-01), wanneer deze nationaliteit overeenkomt met de wil zoals kenbaar gemaakt door de betrokken persoon op grond van het feit dat deze persoon de nationaliteit van een andere betrokken staat kan verwerven vanwege voldoende band met die staat.
 
-#### Artikel 8. Regels betreffende bewijzen
+##### Artikel 8. Regels betreffende bewijzen
 
 1. In het geval van personen die ten gevolge van statenopvolging staatloos worden of zouden worden past de opvolgerstaat zijn standaardregels betreffende bewijzen voor het verlenen van zijn nationaliteit niet toe, indien van deze personen redelijkerwijs niet verlangd kan worden dat zij voldoen aan de standaardregels.
 
 2. Een opvolgerstaat verlangt geen bewijs omtrent het niet-verkrijgen van een andere nationaliteit alvorens personen zijn nationaliteit te verlenen die op het tijdstip van de statenopvolging op zijn grondgebied hun gewone verblijf hadden en ten gevolge van deze statenopvolging staatloos worden of zouden worden.
 
-#### Artikel 9. Vergemakkelijken van het verkrijgen van een nationaliteit door staatloze personen
+##### Artikel 9. Vergemakkelijken van het verkrijgen van een nationaliteit door staatloze personen
 
 Een betrokken staat vergemakkelijkt het verkrijgen van zijn nationaliteit door personen die hun wettige en gewone verblijf hebben op zijn grondgebied en in weerwil van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004054&artikel=5&z=2011-10-01&g=2011-10-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBV0004054&artikel=6&z=2011-10-01&g=2011-10-01) ten gevolge van de statenopvolging staatloos zijn geworden.
 
-#### Artikel 10. Voorkomen van staatloosheid bij de geboorte
+##### Artikel 10. Voorkomen van staatloosheid bij de geboorte
 
 Een betrokken staat verleent zijn nationaliteit bij de geboorte aan een kind dat na de statenopvolging op zijn grondgebied wordt geboren uit een ouder, die op het tijdstip van de statenopvolging de nationaliteit van de voorgangerstaat had, indien dit kind anders staatloos zou worden.
 
-#### Artikel 11. Informatie aan betrokken personen
+##### Artikel 11. Informatie aan betrokken personen
 
 De betrokken staten nemen alle noodzakelijke maatregelen teneinde te waarborgen dat de betrokken personen beschikken over voldoende informatie over de regels en procedures omtrent de verkrijging van hun nationaliteit.
 
-#### Artikel 12. Procedurele waarborgen
+##### Artikel 12. Procedurele waarborgen
 
 Bij de toepassing van dit Verdrag waarborgt de betrokken staat dat in het kader van de procedures met betrekking tot nationaliteit:
 
@@ -114,11 +136,11 @@ Bij de toepassing van dit Verdrag waarborgt de betrokken staat dat in het kader 
 
 - c. de tarieven redelijk zijn en geen beletsel vormen voor de aanvragers.
 
-#### Artikel 13. Regeling bij internationaal verdrag
+##### Artikel 13. Regeling bij internationaal verdrag
 
 De betrokken staten streven ernaar kwesties op het gebied van nationaliteit, in het bijzonder teneinde staatloosheid te vermijden, waar nodig via internationale verdragen te regelen.
 
-#### Artikel 14. Internationale samenwerking
+##### Artikel 14. Internationale samenwerking
 
 1. Voor het aannemen van passende maatregelen om staatloosheid ten gevolge van statenopvolging te voorkomen, werken de betrokken staten met elkaar samen, onder andere door informatie te verschaffen met betrekking tot het functioneren van hun desbetreffende interne recht.
 
@@ -128,7 +150,7 @@ De betrokken staten streven ernaar kwesties op het gebied van nationaliteit, in 
 
 - b. in voorkomend geval met andere staten en internationale organisaties.
 
-#### Artikel 15. Toepassing van dit Verdrag
+##### Artikel 15. Toepassing van dit Verdrag
 
 1. Dit Verdrag is van toepassing op een statenopvolging die plaatsvindt na de inwerkingtreding ervan.
 
@@ -136,7 +158,7 @@ De betrokken staten streven ernaar kwesties op het gebied van nationaliteit, in 
 
 3. Indien meerdere betrokken staten een verklaring als bedoeld in het tweede lid afleggen ter zake van dezelfde statenopvolging, is dit Verdrag van toepassing tussen de staten die deze verklaring afleggen.
 
-#### Artikel 16. Gevolgen van dit Verdrag
+##### Artikel 16. Gevolgen van dit Verdrag
 
 1. De bepalingen van dit Verdrag doen geen afbreuk aan de bepalingen van intern recht en bindende internationale instrumenten die reeds van kracht zijn of van kracht kunnen worden en krachtens welke aan natuurlijke personen gunstiger rechten ter voorkoming van staatloosheid zijn of zouden worden toegekend.
 
@@ -148,11 +170,11 @@ De betrokken staten streven ernaar kwesties op het gebied van nationaliteit, in 
 
 in de betrekkingen tussen de staten die partij zijn en door deze instrumenten zijn gebonden.
 
-#### Artikel 17. Regeling van geschillen
+##### Artikel 17. Regeling van geschillen
 
 Elk geschil met betrekking tot de uitlegging of toepassing van dit Verdrag wordt primair door onderhandeling geregeld.
 
-#### Artikel 18. Ondertekening en inwerkingtreding
+##### Artikel 18. Ondertekening en inwerkingtreding
 
 1. Dit Verdrag staat open voor ondertekening door de lidstaten van de Raad van Europa en de niet-lidstaten die hebben deelgenomen aan de opstelling ervan. Deze staten kunnen hun instemming te worden gebonden tot uitdrukking brengen door:
 
@@ -166,13 +188,13 @@ De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de
 
 3. Met betrekking tot iedere staat die later zijn instemming door dit Verdrag te worden gebonden tot uitdrukking brengt, treedt het Verdrag in werking op de eerste dag van de maand die volgt op het verstrijken van een periode van drie maanden na de datum van ondertekening of van de nederlegging van zijn akte van bekrachtiging, aanvaarding of goedkeuring.
 
-#### Artikel 19. Toetreding
+##### Artikel 19. Toetreding
 
 1. Na de inwerkingtreding van dit Verdrag, kan het Comité van Ministers van de Raad van Europa iedere staat die geen lid is van de Raad van Europa en die niet heeft deelgenomen aan de opstelling van dit Verdrag, uitnodigen tot dit Verdrag toe te treden.
 
 2. Met betrekking tot iedere toetredende staat treedt dit Verdrag in werking op de eerste dag van de maand die volgt op het verstrijken van een periode van drie maanden na de datum van nederlegging van de akte van toetreding bij de Secretaris-Generaal van de Raad van Europa.
 
-#### Artikel 20. Voorbehouden
+##### Artikel 20. Voorbehouden
 
 1. Voorbehouden op dit Verdrag zijn niet toegestaan, behalve ter zake van de bepalingen van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004054&artikel=7&z=2011-10-01&g=2011-10-01), [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004054&artikel=8&z=2011-10-01&g=2011-10-01), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0004054&artikel=12&z=2011-10-01&g=2011-10-01) en [artikel 14, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0004054&artikel=14&z=2011-10-01&g=2011-10-01).
 
@@ -180,13 +202,13 @@ De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de
 
 3. Elke staat kan een krachtens het eerste lid gemaakt voorbehoud geheel of gedeeltelijk intrekken door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte verklaring, die van kracht wordt op de datum van ontvangst ervan.
 
-#### Artikel 21. Opzegging
+##### Artikel 21. Opzegging
 
 1. Iedere staat die partij is kan dit Verdrag te allen tijde opzeggen door middel van een kennisgeving gericht aan de Secretaris-Generaal van de Raad van Europa.
 
 2. Deze opzegging wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een periode van drie maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 22. Kennisgevingen
+##### Artikel 22. Kennisgevingen
 
 De Secretaris-Generaal van de Raad van Europa stelt de lidstaten van de Raad van Europa, elke ondertekenaar, elke partij en elke andere staat die is toegetreden tot dit Verdrag in kennis van:
 

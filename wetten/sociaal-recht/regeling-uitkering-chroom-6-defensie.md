@@ -1,16 +1,41 @@
 ---
 title: "Regeling uitkering chroom-6 Defensie"
 identifier: "BWBR0040982"
-categorie: "Sociaal recht"
-publicatiedatum: 2021-06-08
-laatste_update: 2021-06-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040982"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-06-08"
+last_updated: "2021-06-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040982"
+soort: "ministeriele-regeling"
+stam_id: "14626633"
+version_id: "27802222"
+internal_id: "C39217141"
+label_id: "14579824"
+dtd_version: "2.0"
+original_entry_into_force: "2021-06-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040982/2021-06-08/0"
+intitule_bron: "Stcrt.2018-31510"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-05-31"
+intitule_published: "2018-06-05"
+intitule_in_force: "2018-06-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-28073"
+original_signed_date: "2021-05-28"
+original_published_date: "2021-06-07"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2021-28073"
+entry_into_force_date: "2021-06-08"
+jci_1_3: "jci1.3:c:BWBR0040982&z=2021-06-08&g=2021-06-08"
+jci_1_0: "1.0:c:BWBR0040982&g=2021-06-08"
+citeertitel_status: "officieel"
+signed_date: "2021-05-28"
+entry_into_force: "2021-06-08"
 ---
-
 # Regeling uitkering chroom-6 Defensie
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -38,7 +63,7 @@ In deze regeling wordt verstaan onder:
 
 - 3°. de dienstplichtige of ingehuurde arbeidskracht die tijdelijk voor Defensie werkzaamheden heeft verricht en voor wie Defensie de werkgeversplicht heeft gehad ten aanzien van de gezondheid, veiligheid en arbeidsomstandigheden.
 
-#### Artikel 2. Verhouding tot aansprakelijkheid
+##### Artikel 2. Verhouding tot aansprakelijkheid
 
 1. Door het aanvaarden van een uitkering op grond van deze regeling doet de werknemer geen afstand van een lopende of een toekomstige aansprakelijkstelling.
 
@@ -46,7 +71,7 @@ In deze regeling wordt verstaan onder:
 
 3. Een aanvraag voor de uitkering of de [coulanceregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036374) geldt niet als aansprakelijkstelling of als stuiting van de verjaring.
 
-#### Artikel 3. Recht op immaterieel deel uitkering werknemer
+##### Artikel 3. Recht op immaterieel deel uitkering werknemer
 
 1. De werknemer komt op zijn aanvraag in aanmerking voor de uitkering als aannemelijk is dat hij:
 
@@ -62,13 +87,13 @@ In deze regeling wordt verstaan onder:
 
 5. Voor de toepassing van het eerste lid, onder a, en het tweede lid, geldt dat de functie of werkzaamheden moeten hebben plaatsgevonden tussen 31 december 1969 en 1 januari 2015.
 
-#### Artikel 4. Recht op uitkering na overlijden werknemer
+##### Artikel 4. Recht op uitkering na overlijden werknemer
 
 1. Indien de werknemer overlijdt na het indienen van een aanvraag als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&artikel=3&z=2021-06-08&g=2021-06-08), maar voordat op de aanvraag is beslist, wordt de uitkering, voor zover hij daarvoor in aanmerking zou zijn gekomen, uitgekeerd aan de erfgenamen, op voorwaarde dat een verklaring van erfrecht wordt overgelegd.
 
 2. Voor de toepassing van dit artikel wordt onder aanvraag, bedoeld in het eerste lid, ook begrepen de door de werknemer ingediende aanvraag van de coulancetegemoetkoming.
 
-#### Artikel 5. Hoogte van immaterieel deel uitkering
+##### Artikel 5. Hoogte van immaterieel deel uitkering
 
 1. Het immaterieel deel van de uitkering, genoemd in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&artikel=3&z=2021-06-08&g=2021-06-08) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&artikel=4&z=2021-06-08&g=2021-06-08), wordt berekend aan de hand van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&bijlage=3&z=2021-06-08&g=2021-06-08).
 
@@ -80,13 +105,13 @@ In deze regeling wordt verstaan onder:
 
 5. Bij verergering van de aandoening, waarbij op basis van deze regeling een hogere uitkering wordt toegekend, vindt verrekening plaats met een eerdere uitkering die in verband met deze aandoening is toegekend.
 
-#### Artikel 6. Recht op materieel deel uitkering werknemer
+##### Artikel 6. Recht op materieel deel uitkering werknemer
 
 1. Ongeacht het aantal aandoeningen wordt bij recht op een uitkering, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&artikel=3&z=2021-06-08&g=2021-06-08) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&artikel=4&z=2021-06-08&g=2021-06-08), eenmalig een bedrag betaald ter hoogte van € 4.110,59.
 
 2. Het eerste lid is van overeenkomstige toepassing indien eerder een uitkering op grond van deze regeling is toegekend.
 
-#### Artikel 7. Recht op uitkering nabestaande
+##### Artikel 7. Recht op uitkering nabestaande
 
 1. De nabestaande heeft recht op een nabestaandenuitkering ter hoogte van € 4.110,59 als aannemelijk is dat de werknemer is overleden aan long-, neus-, neusbijholte-, maag- of strottenhoofdkanker of aan een chronische longziekte met AMA-klasse 4, en in verband met deze aandoening:
 
@@ -100,13 +125,13 @@ In deze regeling wordt verstaan onder:
 
 2. Als de nabestaande reeds is overleden wordt voor de toepassing van het eerste lid, het bedrag van € 4.110,59 toegekend aan het kind van de werknemer, of bij meerdere kinderen aan hen gezamenlijk, op voorwaarde dat een verklaring van erfrecht wordt overgelegd.
 
-#### Artikel 8. Gevolmachtigde nabestaanden of erfgenamen
+##### Artikel 8. Gevolmachtigde nabestaanden of erfgenamen
 
 1. Voor zover er meer dan één nabestaande of erfgenaam is, dragen zij er zorg voor dat aan één van hen een volmacht wordt verleend tot vertegenwoordiging ten behoeve van de uitvoering van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&artikel=4&z=2021-06-08&g=2021-06-08), [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&artikel=7&z=2021-06-08&g=2021-06-08) en [7a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&artikel=7a&z=2021-06-08&g=2021-06-08).
 
 2. De volmacht is schriftelijk, ondubbelzinnig en door alle betrokkenen ondertekend.
 
-#### Artikel 9. Indienen aanvraag
+##### Artikel 9. Indienen aanvraag
 
 1. De werknemer dient de aanvraag voor de uitkering in bij de uitvoerder.
 
@@ -120,7 +145,7 @@ In deze regeling wordt verstaan onder:
 
 6. Dit artikel is van overeenkomstige toepassing op de uitkeringen, bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&artikel=7&z=2021-06-08&g=2021-06-08) en [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&artikel=7a&z=2021-06-08&g=2021-06-08).
 
-#### Artikel 10. Aanvullend medisch onderzoek
+##### Artikel 10. Aanvullend medisch onderzoek
 
 1. Als een aandoening nog onvoldoende is vastgesteld, kan de uitvoerder aanvullend medisch onderzoek laten uitvoeren.
 
@@ -128,7 +153,7 @@ In deze regeling wordt verstaan onder:
 
 3. De redelijke kosten die de werknemer in verband met het aanvullend medisch onderzoek heeft gemaakt, worden hem vergoed voor zover deze niet uit anderen hoofde worden vergoed. Het betreft reis- en verblijfskosten en medische kosten.
 
-#### Artikel 11. Uitbetaling uitkering
+##### Artikel 11. Uitbetaling uitkering
 
 1. De uitkering wordt in één keer uitbetaald.
 
@@ -142,7 +167,7 @@ In deze regeling wordt verstaan onder:
 
 6. Op de uitkeringen, bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&artikel=7&z=2021-06-08&g=2021-06-08) en [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&artikel=7a&z=2021-06-08&g=2021-06-08), zijn het tweede en vijfde lid van dit artikel niet van toepassing.
 
-#### Artikel 12. Ondersteuning en voorziening
+##### Artikel 12. Ondersteuning en voorziening
 
 1. De werknemer die recht heeft op de uitkering, krijgt op zijn redelijk verzoek van of namens het Ministerie van Defensie advies of ondersteuning inzake het verkrijgen van een uitkering of voorziening op grond van een andere regeling.
 
@@ -150,23 +175,23 @@ In deze regeling wordt verstaan onder:
 
 3. Van een bijzonder geval, bedoeld in het tweede lid, is sprake indien het niet toekennen van de voorziening voor de werknemer zou leiden tot kosten die redelijkerwijs niet ten laste van hem dienen te komen en bovendien zou leiden tot ernstige bestaansverschraling.
 
-#### Artikel 13. Indexering
+##### Artikel 13. Indexering
 
 De in deze regeling genoemde bedragen worden jaarlijks met ingang van 1 januari gewijzigd overeenkomstig het percentage van de autonome wijziging van het wettelijk minimumloon van het voorgaande jaar. De wijziging wordt door of namens de Minister van Defensie bekend gemaakt.
 
-#### Artikel 14. Terugvordering
+##### Artikel 14. Terugvordering
 
 De uitkering wordt teruggevorderd indien als gevolg van verwijtbaar handelen of nalaten van de werknemer, de nabestaande of erfgenaam onjuiste informatie is verstrekt waardoor de tegemoetkoming ten onrechte of tot een te hoog bedrag is verleend.
 
-#### Artikel 15. Hardheidsclausule
+##### Artikel 15. Hardheidsclausule
 
 De Minister van Defensie is bevoegd af te wijken van deze regeling indien de toepassing leidt tot onbillijkheid van overwegende aard.
 
-#### Artikel 16. Intrekking Regeling
+##### Artikel 16. Intrekking Regeling
 
 De [Tijdelijke regeling tegemoetkoming en ondersteuning slachtoffers blootstelling chroom VI houdende stoffen defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0036374) wordt ingetrokken.
 
-#### Artikel 17. Overgangsbepaling
+##### Artikel 17. Overgangsbepaling
 
 1. De werknemer die voor long-, neus-, neusbijholte-, maag-, strottenhoofdkanker, COPD, longfibrose of niet-immunologisch (irritatief) beroepsastma een immaterieel deel van de uitkering heeft ontvangen waarbij de hoogte is gebaseerd op de ten tijde in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&bijlage=3&z=2021-06-08&g=2021-06-08) opgenomen indeling in groep 1 categorie B of C, ontvangt een nabetaling tot het bedrag dat thans voor de betreffende aandoening staat opgenomen bij groep 1.
 
@@ -241,7 +266,7 @@ Besluit:
 
 De regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 7a. Recht op materieel deel uitkering nabestaande
+##### Artikel 7a. Recht op materieel deel uitkering nabestaande
 
 1. De nabestaande heeft eenmalig recht op het materieel deel van de uitkering ter hoogte van € 4.110,59 als is voldaan aan de voorwaarden, genoemd in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&artikel=7&z=2021-06-08&g=2021-06-08).
 
@@ -285,7 +310,7 @@ De regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 De regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 10a. Advies beoordelingspanel
+##### Artikel 10a. Advies beoordelingspanel
 
 1. Er is een beoordelingspanel ter advisering over de blootstelling van de medewerker aan chroom-6 tijdens zijn werkzaamheden voor Defensie.
 
@@ -297,11 +322,11 @@ De regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 5. De redelijke kosten die de werknemer in verband met de adviesaanvraag maakt, worden vergoed voor zover deze niet uit anderen hoofde worden vergoed.
 
-#### Artikel 18. Inwerkingtreding
+##### Artikel 18. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 4 juni 2018. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na 4 juni 2018 treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt zij terug tot en met 4 juni 2018.
 
-#### Artikel 19. Citeertitel
+##### Artikel 19. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling uitkering chroom-6 Defensie.
 

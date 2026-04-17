@@ -1,13 +1,39 @@
 ---
-title: "Vervangingsbesluit personele archiefbescheiden Ministerie van Landbouw, Natuur en Voedselkwaliteit"
+title: "Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 12 december 2018, nr. DB/18201628, inzake de routinematige digitale vervanging van archiefbescheiden personeelsdossiers van het Ministerie van Landbouw, Natuur en Voedselkwaliteit (Vervangingsbesluit personele archiefbescheiden Ministerie van Landbouw, Natuur en Voedselkwaliteit)"
 identifier: "BWBR0041743"
-categorie: "Milieu"
-publicatiedatum: 2019-01-01
-laatste_update: 2019-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041743"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2019-01-01"
+last_updated: "2019-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041743"
+soort: "ministeriele-regeling"
+stam_id: "14925213"
+version_id: "25537342"
+internal_id: "C36456511"
+label_id: "14876284"
+dtd_version: "2.0"
+original_entry_into_force: "2019-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041743/2019-01-01/0"
+intitule_bron: "Stcrt.2018-72034"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-12-12"
+intitule_published: "2018-12-21"
+intitule_in_force: "2018-12-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-72034"
+original_signed_date: "2018-12-12"
+original_published_date: "2018-12-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-72034"
+entry_into_force_date: "2019-01-01"
+jci_1_3: "jci1.3:c:BWBR0041743&z=2019-01-01&g=2019-01-01"
+jci_1_0: "1.0:c:BWBR0041743&g=2019-01-01"
+citeertitel_status: "officieel"
+short_title: "Vervangingsbesluit personele archiefbescheiden Ministerie van Landbouw, Natuur en Voedselkwaliteit"
+signed_date: "2018-12-12"
+entry_into_force: "2019-01-01"
 ---
-
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 12 december 2018, nr. DB/18201628, inzake de routinematige digitale vervanging van archiefbescheiden personeelsdossiers van het Ministerie van Landbouw, Natuur en Voedselkwaliteit (Vervangingsbesluit personele archiefbescheiden Ministerie van Landbouw, Natuur en Voedselkwaliteit)
 
 Gelet op [artikel 7 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=7), de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=2) en [6, eerste lid, van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=6) en [artikel 26b van de Archiefregeling 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&artikel=26b);
@@ -16,19 +42,19 @@ Gelet op het [Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit v
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Dit besluit heeft betrekking op archiefbescheiden op papier die behoren of zullen gaan behoren tot het personeelsdossier van de medewerkers van het Ministerie van Landbouw, Natuur en Voedselkwaliteit. Deze archiefbescheiden worden vervangen door digitale reproducties. Deze vervanging betreft alle papieren archiefbescheiden die betrekking hebben op personeelsgegevens en salarisgegevens zoals beschreven in het ‘Basisselectiedocument P-dossier is Mens-en-werk’.
 
-#### Artikel 2
+##### Artikel 2
 
 De digitale reproductie geschiedt ten minste overeenkomstig de specificaties en instellingen zoals deze zijn opgenomen in de bijlage het Handboek Digitale Vervanging Personeelsdossiers P-Direkt van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking te rekenen vanaf 1 januari 2019.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit wordt aangehaald als: Vervangingsbesluit personele archiefbescheiden Ministerie van Landbouw, Natuur en Voedselkwaliteit.
 

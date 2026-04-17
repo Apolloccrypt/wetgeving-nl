@@ -1,13 +1,39 @@
 ---
-title: "Wpg-machtigingsbesluit meldpunten niet-acute zorg"
+title: "Besluit ingevolge artikel 18, tweede lid, Wet politiegegevens van de Minister van Justitie en Veiligheid, kenmerk 3575871 van 22 november 2021 houdende toestemming aan de korpschef tot het verstrekken van politiegegevens aan de burgemeester en aan het college van burgemeester en wethouders voor hun taak als bedoeld in artikel 2.1.1 van de Wmo 2015 (Wpg-machtigingsbesluit meldpunten niet-acute zorg)"
 identifier: "BWBR0045999"
-categorie: "Sociaal recht"
-publicatiedatum: 2021-12-11
-laatste_update: 2021-12-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045999"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-12-11"
+last_updated: "2021-12-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045999"
+soort: "ministeriele-regeling"
+stam_id: "16173353"
+version_id: "28222242"
+internal_id: "C39785501"
+label_id: "16101684"
+dtd_version: "2.0"
+original_entry_into_force: "2021-12-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045999/2021-12-11/0"
+intitule_bron: "Stcrt.2021-48897"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-11-22"
+intitule_published: "2021-12-10"
+intitule_in_force: "2021-12-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-48897"
+original_signed_date: "2021-11-22"
+original_published_date: "2021-12-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-48897"
+entry_into_force_date: "2021-12-11"
+jci_1_3: "jci1.3:c:BWBR0045999&z=2021-12-11&g=2021-12-11"
+jci_1_0: "1.0:c:BWBR0045999&g=2021-12-11"
+citeertitel_status: "officieel"
+short_title: "Wpg-machtigingsbesluit meldpunten niet-acute zorg"
+signed_date: "2021-11-22"
+entry_into_force: "2021-12-11"
 ---
-
 # Besluit ingevolge artikel 18, tweede lid, Wet politiegegevens van de Minister van Justitie en Veiligheid, kenmerk 3575871 van 22 november 2021 houdende toestemming aan de korpschef tot het verstrekken van politiegegevens aan de burgemeester en aan het college van burgemeester en wethouders voor hun taak als bedoeld in artikel 2.1.1 van de Wmo 2015 (Wpg-machtigingsbesluit meldpunten niet-acute zorg)
 
 Overwegende als volgt:
@@ -64,7 +90,7 @@ Gelet op [artikel 18, tweede lid, van de Wet politiegegevens](https://wetten.ove
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Aan de korpschef wordt toestemming gegeven politiegegevens te verstrekken aan een meldpunt dat is ingesteld door één of meerdere colleges van burgemeester en wethouders en de burgemeester(s) van gemeente(n) gezamenlijk met het oog op de zorg voor maatschappelijke ondersteuning, bedoeld in [artikel 2.1.1 van de Wet maatschappelijk ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.1.1), en/of met het oog op de handhaving van de openbare orde, bedoeld in [artikel 172 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=172).
 
@@ -80,14 +106,14 @@ Besluit:
 
 4. De verstrekking van de in het eerste lid bedoelde gegevens vindt slechts plaats als het opsporingsbelang zich hier niet tegen verzet.
 
-#### Artikel 2
+##### Artikel 2
 
 De politiegegevens, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045999&artikel=1&z=2021-12-11&g=2021-12-11), worden slechts verstrekt indien het meldpunt maatregelen heeft getroffen die waarborgen dat de gegevens uitsluitend worden gebruikt voor het doel waarvoor zij zijn verstrekt en dat de gegevens worden vernietigd zodra deze niet langer noodzakelijk zijn voor het doel waarvoor zij zijn verstrekt.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit wordt in de Staatscourant geplaatst en treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, en vervalt op de dag dat bij of krachtens de [Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) in deze verstrekking van politiegegevens is voorzien.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit wordt aangehaald als: Wpg-machtigingsbesluit meldpunten niet-acute zorg.

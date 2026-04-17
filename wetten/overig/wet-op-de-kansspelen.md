@@ -1,14 +1,39 @@
 ---
-title: "Wet op de kansspelen"
+title: "Wet van 10 december 1964, houdende nadere regelen met betrekking tot kansspelen"
 identifier: "BWBR0002469"
-categorie: "Overig"
-publicatiedatum: 2025-02-12
-laatste_update: 2025-02-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002469"
+country: "nl"
+rank: "wet"
+publication_date: "2025-02-12"
+last_updated: "2025-02-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002469"
+soort: "wet"
+stam_id: "1275153"
+version_id: "25766542"
+internal_id: "C38802781"
+label_id: "1235954"
+dtd_version: "2.0"
+original_entry_into_force: "2021-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002469/2025-02-12/0"
+intitule_bron: "Stb.1964-483"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1964-12-10"
+intitule_status: "goed"
+original_publication: "Stb.2019-127"
+original_signed_date: "2019-02-20"
+original_published_date: "2019-03-27"
+original_effect: "structuurwijziging"
+original_dossier: "33996"
+original_url_id: "stb-2019-127"
+entry_into_force_date: "2021-04-01"
+jci_1_3: "jci1.3:c:BWBR0002469&z=2025-02-12&g=2025-02-12"
+jci_1_0: "1.0:c:BWBR0002469&g=2025-02-12"
+citeertitel_status: "officieel"
+short_title: "Wet op de kansspelen"
+signed_date: "2019-02-20"
+entry_into_force: "2021-04-01"
 ---
-
-# Wet op de kansspelen
+# Wet van 10 december 1964, houdende nadere regelen met betrekking tot kansspelen
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +43,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ## Titel I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. Behoudens het in [Titel Va](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&z=2025-02-12&g=2025-02-12) van deze wet bepaalde is het verboden:
 
@@ -34,13 +59,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 3. Het verbod, bedoeld in het eerste lid, onder c, is niet van toepassing ten aanzien van de ambtenaren en personen, bedoeld in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VIa&paragraaf=1&artikel=34&z=2025-02-12&g=2025-02-12), bij de rechtmatige uitoefening van de bevoegdheid, bedoeld in [artikel 34c](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VIa&paragraaf=2&artikel=34c&z=2025-02-12&g=2025-02-12).
 
-#### Artikel 1a
+##### Artikel 1a
 
 1. Onder een gelegenheid als bedoeld in [artikel 1, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=1&z=2025-02-12&g=2025-02-12), wordt tevens begrepen het piramidespel en poker.
 
 2. Onder het piramidespel wordt verstaan een gelegenheid waarbij deelnemers een goed afgeven of een verplichting aangaan teneinde daaruit een voordeel te verwerven dat geheel of ten dele afhankelijk is van de afgifte van een goed of het aangaan van een verplichting door latere deelnemers.
 
-#### Artikel 2
+##### Artikel 2
 
 [Artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=1&z=2025-02-12&g=2025-02-12) is niet van toepassing op:
 
@@ -50,7 +75,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - c. door een publiekrechtelijk lichaam tegen een niet hogere dan de parikoers voor het publiek opengestelde werkelijke geldleningen, die een jaarlijkse en jaarlijks ter beschikking te stellen rente geven, niet lager dan een door Onze Minister van Financiën vast te stellen percentage, terwijl aan de schuldbewijzen van die leningen bijkomstig een kans op het winnen van premies is verbonden.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Tenzij deze wet anders bepaalt kan voor een gelegenheid als in [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=1&z=2025-02-12&g=2025-02-12), bedoeld vergunning worden verleend, indien deze gelegenheid wordt opengesteld uitsluitend ten einde met de opbrengst daarvan enig algemeen belang te dienen. De vergunning wordt verleend door burgemeester en wethouders van de gemeente waar de aanwijzing van de winnaars zal geschieden, indien de prijzen en premies gezamenlijk geen grotere waarde hebben dan € 4500 en bij een grotere waarde door de raad van bestuur, bedoeld in [artikel 33a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VI&afdeling=1&artikel=33a&z=2025-02-12&g=2025-02-12).
 
@@ -60,13 +85,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 4. [Paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) is van toepassing op de vergunning, bedoeld in het eerste lid en, voorzover de vergunning door de raad van bestuur, bedoeld in [artikel 33a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VI&afdeling=1&artikel=33a&z=2025-02-12&g=2025-02-12) wordt verleend, deze betrekking heeft op een incidenteel kansspel.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Onze Ministers van Veiligheid en Justitie en van Financiën kunnen aan een rechtspersoon met volledige rechtsbevoegdheid vergunning verlenen tot het openstellen van een tegen een niet hogere dan de parikoers uit te geven werkelijke geldlening, die een jaarlijkse en jaarlijks ter beschikking te stellen rente geeft, niet lager dan een door Onze Minister van Financiën vast te stellen percentage, terwijl aan de schuldbewijzen van die lening bijkomstig de kans op het winnen van premies is verbonden.
 
 2. Een vergunning als in lid 1 bedoeld kan alleen worden verleend voor geldleningen, uit te geven teneinde met het geplaatste geld enig algemeen belang te dienen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de gronden waarop een aanvraag tot het verlenen of wijzigen van een vergunning als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=3&z=2025-02-12&g=2025-02-12) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=4&z=2025-02-12&g=2025-02-12) kan worden afgewezen.
 
@@ -102,21 +127,21 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - f. de verplichtingen van de vergunninghouder.
 
-#### Artikel 6
+##### Artikel 6
 
 Voor de behandeling van een aanvraag omtrent een vergunning als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=3&z=2025-02-12&g=2025-02-12), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=4&z=2025-02-12&g=2025-02-12), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=II&artikel=9&z=2025-02-12&g=2025-02-12), [14b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IIa&artikel=14b&z=2025-02-12&g=2025-02-12), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=III&artikel=16&z=2025-02-12&g=2025-02-12), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IV&artikel=24&z=2025-02-12&g=2025-02-12), [27b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IVa&artikel=27b&z=2025-02-12&g=2025-02-12) en [27h](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IVb&artikel=27h&z=2025-02-12&g=2025-02-12) is overeenkomstig door Onze Minister van Veiligheid en Justitie gestelde regels een vergoeding verschuldigd. Als betaling achterwege blijft, wordt de aanvraag niet in behandeling genomen. [Artikel 4:5, vierde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) is niet van toepassing.
 
-#### Artikel 7
+##### Artikel 7
 
 Het is de vergunninghouder verboden, enig voorschrift van een krachtens deze wet uitgevaardigde algemene maatregel van bestuur niet in acht te nemen.
 
 ## Titel Ia. Enige bijzondere vormen van kansspel
 
-#### Artikel 7a
+##### Artikel 7a
 
 Het in [Titel I](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&z=2025-02-12&g=2025-02-12) bepaalde is niet van toepassing op het houden van winkelweekacties en het organiseren van kleine kansspelen, indien wordt voldaan aan de bepalingen van deze Titel.
 
-#### Artikel 7b
+##### Artikel 7b
 
 1. Onder winkelweekacties worden verstaan die kansspelen, welke voor bijzondere gelegenheden en ten hoogste tweemaal per jaar voor een beperkte periode van ten hoogste vier weken worden georganiseerd door een groepering van tien of meer ondernemers of filiaalhouders in de detailhandel, het ambacht of het horecabedrijf, die in een of aan elkaar grenzende gemeenten hun bedrijf uitoefenen.
 
@@ -130,7 +155,7 @@ Het in [Titel I](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&z=2
 
 6. Voor de behandeling van een aanvraag om een vergunning moet een bij algemene maatregel van bestuur vast te stellen bedrag worden betaald. De voordracht tot vaststelling of wijziging van deze algemene maatregel van bestuur wordt Ons gedaan door Onze Ministers van Veiligheid en Justitie en van Economische Zaken, Landbouw en Innovatie.
 
-#### Artikel 7c
+##### Artikel 7c
 
 1. Onder het organiseren van het kleine kansspel wordt verstaan het door een ten minste drie jaar bestaande Nederlandse vereniging, die krachtens zijn statuten een duidelijk omschreven doel - niet zijnde de beoefening van enigerlei vorm van kansspel - beoogt te dienen, ten bate van een genoemd, niet met het algemeen belang in strijd zijnd doel beleggen van een bijeenkomst, waar gelegenheid tot het deelnemen aan het kleine kansspel wordt gegeven, waarbij de prijzen of premies in geld of goederen, die door de deelnemers aan het spel kunnen worden verkregen, geen hogere waarde hebben dan € 400,- per serie of set en de gezamenlijke waarde daarvan niet meer bedraagt dan € 1.550,- per bijeenkomst.
 
@@ -142,11 +167,11 @@ Het in [Titel I](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&z=2
 
 3. Burgemeester en wethouders verbieden zodanige bijeenkomst, indien op de, in de in het voorgaande lid bedoelde mededeling aangegeven dag in de mede daarin aangemelde lokaliteit reeds een soortgelijke bijeenkomst zal plaatsvinden, of indien aannemelijk is dat een of meerdere leden van de vereniging die de bijeenkomst organiseert, persoonlijk voordeel daaruit verwerven dan wel dat bij de wet of door hen gestelde voorschriften niet zullen worden nageleefd of zodanige voorschriften niet zijn nageleefd.
 
-#### Artikel 7d
+##### Artikel 7d
 
 Als klein kansspel in de zin van deze Titel worden aangemerkt het kienspel, vogelpiekspel, rad van avontuur en vergelijkbare, bij algemene maatregel van bestuur aan te wijzen vormen van kansspel.
 
-#### Artikel 7e
+##### Artikel 7e
 
 1. De in [artikel 7b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=Ia&artikel=7b&z=2025-02-12&g=2025-02-12) en [artikel 7c](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=Ia&artikel=7c&z=2025-02-12&g=2025-02-12) vastgestelde bedragen worden van rechtswege gewijzigd met een door Onze Minister van Veiligheid en Justitie vast te stellen percentage, telkens wanneer de consumentenprijsindex per 30 september van enig jaar ten minste tien procent afwijkt van het overeenkomstige indexcijfer in het jaar, dat die bedragen werden vastgesteld.
 
@@ -156,19 +181,19 @@ Als klein kansspel in de zin van deze Titel worden aangemerkt het kienspel, voge
 
 ## Titel II. De staatsloterij
 
-#### Artikel 8
+##### Artikel 8
 
 1. Tot het organiseren van de staatsloterij kan uitsluitend vergunning worden verleend overeenkomstig de bepalingen van deze titel.
 
 2. Onder een staatsloterij wordt verstaan een loterij waarbij door trekking de nummers van de deelnamebewijzen worden aangewezen waarop de prijzen vallen en waarbij ten minste 60% van de door de deelnemers betaalde inleg aan prijzen wordt uitgeloofd.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De raad van bestuur, bedoeld in [artikel 33a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VI&afdeling=1&artikel=33a&z=2025-02-12&g=2025-02-12), kan aan één rechtspersoon met volledige rechtsbevoegdheid voor een door hem te bepalen duur vergunning verlenen tot het organiseren van de staatsloterij.
 
 2. De opbrengst van de staatsloterij - na aftrek van de prijzen en kosten - wordt jaarlijks aan de Staat afgedragen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De raad van bestuur, bedoeld in [artikel 33a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VI&afdeling=1&artikel=33a&z=2025-02-12&g=2025-02-12), verbindt voorschriften aan de vergunning tot het organiseren van de staatsloterij.
 
@@ -192,33 +217,33 @@ Als klein kansspel in de zin van deze Titel worden aangemerkt het kienspel, voge
 
 3. De voorschriften kunnen worden gewijzigd en aangevuld.
 
-#### Artikel 11
+##### Artikel 11
 
 De ingevolge [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=II&artikel=9&z=2025-02-12&g=2025-02-12) verleende vergunning kan tussentijds door de raad van bestuur, bedoeld in [artikel 33a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VI&afdeling=1&artikel=33a&z=2025-02-12&g=2025-02-12), worden ingetrokken, indien de ingevolge [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=II&artikel=10&z=2025-02-12&g=2025-02-12) vastgestelde voorschriften worden overtreden.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De Algemene Rekenkamer kan het financiële beheer dat door de krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=II&artikel=9&z=2025-02-12&g=2025-02-12) aangewezen rechtspersoon gevoerd is en de jaarlijkse financiële verantwoording daarover onderzoeken.
 
 2. De [artikelen 7.16](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=7.16) en [7.18, eerste tot en met derde lid en het vijfde en zesde lid, van de Comptabiliteitwet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=7.18) zijn van overeenkomstige toepassing.
 
-#### Artikel 13
+##### Artikel 13
 
 Behoudens ingevolge een door de krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=II&artikel=9&z=2025-02-12&g=2025-02-12) aangewezen rechtspersoon verleende uitdrukkelijke toestemming is het verboden, onverschillig voor welk doel en onverschillig op welke wijze, gebruik te maken van of invloed toe te kennen aan de uitslag van de trekkingen in de staatsloterij.
 
-#### Artikel 14
+##### Artikel 14
 
 Behoudens aan degenen die daartoe door de krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=II&artikel=9&z=2025-02-12&g=2025-02-12) aangewezen rechtspersoon gemachtigd zijn, is het aan een ieder verboden bij wijze van beroep of gewoonte loten of gedeelten van loten in de staatsloterij of onder deze naam te verkopen, te koop aan te bieden, af te leveren, uit te delen of ten verkoop of ter uitdeling in voorraad te hebben, af te lossen of op enige andere wijze de middellijke of onmiddellijke deelneming in voormelde loterij open te stellen of te bevorderen.
 
 ## Titel IIa. De instantloterij
 
-#### Artikel 14a
+##### Artikel 14a
 
 1. Tot het organiseren van een instantloterij kan uitsluitend vergunning worden verleend overeenkomstig de bepalingen van deze titel.
 
 2. Onder instantloterij wordt verstaan een loterij waarbij de prijsbepaling van de winnende loten geschiedt voordat een aanvang wordt gemaakt met de uitgifte van de deelnamebewijzen.
 
-#### Artikel 14b
+##### Artikel 14b
 
 1. De raad van bestuur, bedoeld in [artikel 33a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VI&afdeling=1&artikel=33a&z=2025-02-12&g=2025-02-12), kan met het oog op de belangen van instellingen werkzaam ten algemene nutte, in het bijzonder op het gebied van sport en lichamelijke vorming, van de cultuur, het maatschappelijk welzijn en de volksgezondheid, aan één rechtspersoon met volledige rechtsbevoegdheid voor een door hem te bepalen duur vergunning verlenen tot het organiseren van een instantloterij.
 
@@ -226,7 +251,7 @@ Behoudens aan degenen die daartoe door de krachtens [artikel 9](https://wetten.o
 
 3. Van de opbrengst van de instantloterij wordt ten minste 47,5% bestemd voor uitkering aan prijzen.
 
-#### Artikel 14c
+##### Artikel 14c
 
 1. De raad van bestuur, bedoeld in [artikel 33a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VI&afdeling=1&artikel=33a&z=2025-02-12&g=2025-02-12), verbindt voorschriften aan de vergunning tot het organiseren van een instantloterij.
 
@@ -252,19 +277,19 @@ Behoudens aan degenen die daartoe door de krachtens [artikel 9](https://wetten.o
 
 3. Van de voorschriften wordt mededeling gedaan door plaatsing in de **Staatscourant**. Zij kunnen worden gewijzigd en aangevuld.
 
-#### Artikel 14d
+##### Artikel 14d
 
 1. Als deelnemers mogen niet worden toegelaten personen die nog niet de leeftijd van achttien jaren hebben bereikt.
 
 2. Indien als winnaar van een prijs wordt aangewezen een persoon die ingevolge het eerste lid niet als deelnemer mocht worden toegelaten of een persoon die bij de deelneming gehandeld heeft in strijd met de door de rechtspersoon gestelde voorwaarden, wordt deze deelneming buiten aanmerking gelaten.
 
-#### Artikel 14e
+##### Artikel 14e
 
 De ingevolge [artikel 14b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IIa&artikel=14b&z=2025-02-12&g=2025-02-12) verleende vergunning kan tussentijds door de raad van bestuur, bedoeld in [artikel 33a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VI&afdeling=1&artikel=33a&z=2025-02-12&g=2025-02-12), worden ingetrokken, indien de bij of krachtens deze titel vastgestelde voorschriften worden overtreden.
 
 ## Titel III. Sportprijsvragen
 
-#### Artikel 15
+##### Artikel 15
 
 1. Tot het organiseren van sportweddenschappen kan uitsluitend vergunning worden verleend overeenkomstig de bepalingen van deze titel.
 
@@ -274,7 +299,7 @@ De ingevolge [artikel 14b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titel
 
 4. Aan de deelnemers aan een sportweddenschap kan tevens gelegenheid worden gegeven tot deelneming aan een kansspel waarbij de volgnummers van de deelnamebewijzen aan de sportweddenschap de lotnummers vormen.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De raad van bestuur, bedoeld in [artikel 33a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VI&afdeling=1&artikel=33a&z=2025-02-12&g=2025-02-12), kan met het oog op de belangen van instellingen werkzaam ten algemenen nutte, in het bijzonder op het gebied van sport en lichamelijke vorming, van de cultuur, het maatschappelijk welzijn en de volksgezondheid, aan één rechtspersoon met volledige rechtsbevoegdheid voor een door hem te bepalen duur vergunning verlenen tot het organiseren van sportweddenschappen.
 
@@ -282,25 +307,25 @@ De ingevolge [artikel 14b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titel
 
 3. Van de gezamenlijke opbrengst van de ingevolge deze titel en [titel IVa](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IVa&z=2025-02-12&g=2025-02-12) georganiseerde kansspelen wordt, gerekend over een kalenderjaar, ten minste 47,5% bestemd voor uitkering aan prijzen.
 
-#### Artikel 17
+##### Artikel 17
 
 Vervallen
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
-#### Artikel 19
+##### Artikel 19
 
 Vervallen
 
-#### Artikel 20
+##### Artikel 20
 
 1. Als deelnemers mogen niet worden toegelaten personen, die nog niet de leeftijd van achttien jaren hebben bereikt.
 
 2. Indien als winnaar van een prijs wordt aangewezen een persoon die ingevolge het eerste lid niet als deelnemer mocht worden toegelaten of indien als winnaar wordt aangewezen een deelnemer die bij de deelneming gehandeld heeft in strijd met de door de rechtspersoon voor deelneming gestelde voorwaarden, wordt de inzending buiten aanmerking gelaten.
 
-#### Artikel 21
+##### Artikel 21
 
 1. De raad van bestuur, bedoeld in [artikel 33a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VI&afdeling=1&artikel=33a&z=2025-02-12&g=2025-02-12), verbindt voorschriften aan de vergunning tot het organiseren van sportweddenschappen.
 
@@ -332,23 +357,23 @@ Vervallen
 
 5. De regels en criteria, bedoeld in het vierde lid, worden in beginsel vastgesteld na overleg met de kansspelautoriteit, sportbonden en vergunninghouders die sportweddenschappen aanbieden. Tot de regels, bedoeld in het vierde lid, onder b, kan een lijst behoren met kansspelen, spelregels en andere kenmerken van die spelen die door een vergunninghouder voor het organiseren van sportweddenschappen niet mogen worden aangeboden.
 
-#### Artikel 22
+##### Artikel 22
 
 De ingevolge [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=III&artikel=16&z=2025-02-12&g=2025-02-12) verleende vergunning kan tussentijds door de raad van bestuur, bedoeld in [artikel 33a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VI&afdeling=1&artikel=33a&z=2025-02-12&g=2025-02-12), worden ingetrokken, indien de bepalingen van deze titel of de ingevolge [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=III&artikel=21&z=2025-02-12&g=2025-02-12) vastgestelde voorschriften worden overtreden.
 
 ## Titel IV. De totalisator
 
-#### Artikel 23
+##### Artikel 23
 
 1. Tot het organiseren van een totalisator kan uitsluitend vergunning worden verleend overeenkomstig de bepalingen van deze titel.
 
 2. Onder totalisator wordt verstaan elke gelegenheid, opengesteld om op de uitslag van harddraverijen en paardenrennen te wedden, met dien verstande dat het totaal van de inleg, behoudens bij of krachtens de wet toegestane aftrek, verdeeld zal worden onder degenen die op de winnaar of op een der prijswinnaars hebben gewed.
 
-#### Artikel 24
+##### Artikel 24
 
 De raad van bestuur, bedoeld in [artikel 33a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VI&afdeling=1&artikel=33a&z=2025-02-12&g=2025-02-12), kan aan één rechtspersoon met volledige rechtsbevoegdheid voor een door hem te bepalen duur vergunning verlenen tot het organiseren van een totalisator.
 
-#### Artikel 25
+##### Artikel 25
 
 1. De raad van bestuur, bedoeld in [artikel 33a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VI&afdeling=1&artikel=33a&z=2025-02-12&g=2025-02-12), verbindt voorschriften aan de vergunning tot het organiseren van een totalisator.
 
@@ -378,17 +403,17 @@ De raad van bestuur, bedoeld in [artikel 33a](https://wetten.overheid.nl/jci1.3:
 
 6. De regels en criteria, bedoeld in het vijfde lid, worden in beginsel vastgesteld na overleg met de kansspelautoriteit en vergunninghouders die totalisators aanbieden. Tot de regels, bedoeld in het vijfde lid, onder b, kan een lijst behoren met kansspelen, spelregels en andere kenmerken van die spelen die door een vergunninghouder voor het organiseren van totalisators niet mogen worden aangeboden.
 
-#### Artikel 26
+##### Artikel 26
 
 De ingevolge [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IV&artikel=24&z=2025-02-12&g=2025-02-12) verleende vergunning kan tussentijds door de raad van bestuur, bedoeld in [artikel 33a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VI&afdeling=1&artikel=33a&z=2025-02-12&g=2025-02-12), worden ingetrokken, indien de ingevolge [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IV&artikel=25&z=2025-02-12&g=2025-02-12) vastgestelde voorschriften worden overtreden.
 
-#### Artikel 27
+##### Artikel 27
 
 Het is verboden aan het publiek bemiddeling aan te bieden of te verlenen bij het afsluiten van weddenschappen bij een totalisator.
 
 ## Titel IVa. De lotto
 
-#### Artikel 27a
+##### Artikel 27a
 
 1. Tot het organiseren van een lotto kan uitsluitend vergunning verleend worden overeenkomstig de bepalingen van deze titel.
 
@@ -396,7 +421,7 @@ Het is verboden aan het publiek bemiddeling aan te bieden of te verlenen bij het
 
 3. Aan de deelnemers aan een lotto kan tevens gelegenheid worden gegeven tot deelneming aan een kansspel, waarbij de volgnummers van de deelnamebewijzen aan de lotto de lotnummers vormen.
 
-#### Artikel 27b
+##### Artikel 27b
 
 1. De raad van bestuur, bedoeld in [artikel 33a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VI&afdeling=1&artikel=33a&z=2025-02-12&g=2025-02-12), kan met het oog op de belangen van instellingen werkzaam ten algemenen nutte, in het bijzonder op het gebied van sport en lichamelijke vorming, van de cultuur, het maatschappelijk welzijn en de volksgezondheid, aan de krachtens [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=III&artikel=16&z=2025-02-12&g=2025-02-12) aangewezen rechtspersoon voor een door hem te bepalen duur vergunning verlenen tot het organiseren van lotto's.
 
@@ -404,7 +429,7 @@ Het is verboden aan het publiek bemiddeling aan te bieden of te verlenen bij het
 
 3. Van de gezamenlijke opbrengst van de ingevolge deze titel en [titel III](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=III&z=2025-02-12&g=2025-02-12) georganiseerde kansspelen wordt, gerekend over een kalenderjaar, ten minste 47,5% bestemd voor uitkering aan prijzen.
 
-#### Artikel 27c
+##### Artikel 27c
 
 1. De raad van bestuur, bedoeld in [artikel 33a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VI&afdeling=1&artikel=33a&z=2025-02-12&g=2025-02-12), verbindt voorschriften aan de vergunning tot het organiseren van een lotto.
 
@@ -424,29 +449,29 @@ Het is verboden aan het publiek bemiddeling aan te bieden of te verlenen bij het
 
 3. De voorschriften kunnen worden gewijzigd en aangevuld.
 
-#### Artikel 27d
+##### Artikel 27d
 
 Vervallen
 
-#### Artikel 27e
+##### Artikel 27e
 
 1. Als deelnemers mogen niet worden toegelaten personen die nog niet de leeftijd van achttien jaren hebben bereikt.
 
 2. Indien als winnaar van een prijs wordt aangewezen een persoon die ingevolge het eerste lid niet als deelnemer mocht worden toegelaten of indien als winnaar wordt aangewezen een deelnemer die bij de deelneming gehandeld heeft in strijd met de door de rechtspersoon voor deelneming gestelde voorwaarden, wordt de inzending buiten aanmerking gelaten.
 
-#### Artikel 27f
+##### Artikel 27f
 
 De ingevolge [artikel 27b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IVa&artikel=27b&z=2025-02-12&g=2025-02-12) verleende vergunning kan tussentijds door de raad van bestuur, bedoeld in [artikel 33a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VI&afdeling=1&artikel=33a&z=2025-02-12&g=2025-02-12), worden ingetrokken, indien de bij of krachtens deze Titel vastgestelde voorschriften worden overtreden.
 
 ## Titel IVb. Casinospelen
 
-#### Artikel 27g
+##### Artikel 27g
 
 1. Tot het organiseren van een speelcasino kan uitsluitend vergunning verleend worden overeenkomstig de bepalingen van deze titel.
 
 2. Onder speelcasino wordt verstaan de voor het publiek opengestelde of bedrijfsmatig gedreven inrichting, waar door middel van gemeenschappelijk beoefende kansspelen aan de deelnemers de gelegenheid wordt gegeven om mede te dingen naar prijzen of premies, indien de aanwijzing der winnaars geschiedt door enige kansbepaling, waarop de deelnemers in het algemeen geen overwegende invloed kunnen uitoefenen.
 
-#### Artikel 27h
+##### Artikel 27h
 
 1. De raad van bestuur, bedoeld in [artikel 33a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VI&afdeling=1&artikel=33a&z=2025-02-12&g=2025-02-12), kan aan één rechtspersoon met volledige rechtsbevoegdheid voor een door hem te bepalen duur vergunning verlenen tot het organiseren van speelcasino's.
 
@@ -454,7 +479,7 @@ De ingevolge [artikel 27b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titel
 
 3. De vestiging van een speelcasino behoeft de voorafgaande instemming van de raad van de betrokken gemeente.
 
-#### Artikel 27i
+##### Artikel 27i
 
 1. De raad van bestuur, bedoeld in [artikel 33a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VI&afdeling=1&artikel=33a&z=2025-02-12&g=2025-02-12), verbindt voorschriften aan de vergunning tot het organiseren van speelcasino's.
 
@@ -482,7 +507,7 @@ De ingevolge [artikel 27b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titel
 
 3. Van de voorschriften wordt mededeling gedaan door plaatsing in de **Staatscourant**. Zij kunnen worden gewijzigd en aangevuld.
 
-#### Artikel 27j
+##### Artikel 27j
 
 1. Onverminderd het bepaalde bij of krachtens [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=4a&z=2025-02-12&g=2025-02-12), biedt de houder van een vergunning tot het organiseren van een speelcasino geen toegang tot het speelcasino aan een persoon:
 
@@ -496,79 +521,79 @@ De ingevolge [artikel 27b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titel
 
 3. Indien als winnaar van een prijs wordt aangewezen een persoon die ingevolge het eerste lid niet tot een speelcasino mocht worden toegelaten of een persoon die bij de deelneming gehandeld heeft in strijd met de door de vergunninghouder gestelde voorwaarden, wordt deze deelneming buiten aanmerking gelaten.
 
-#### Artikel 27k
+##### Artikel 27k
 
 De ingevolge [artikel 27h](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IVb&artikel=27h&z=2025-02-12&g=2025-02-12) verleende vergunning kan door de raad van bestuur, bedoeld in [artikel 33a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VI&afdeling=1&artikel=33a&z=2025-02-12&g=2025-02-12), worden ingetrokken, indien de bij of krachtens deze Titel vastgestelde voorschriften worden overtreden.
 
-#### Artikel 27l
+##### Artikel 27l
 
 1. De Algemene Rekenkamer kan het financiële beheer dat door de krachtens [artikel 27**h**](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IVb&artikel=27h&z=2025-02-12&g=2025-02-12) aangewezen rechtspersoon gevoerd is en de jaarlijkse financiële verantwoording daarover onderzoeken.
 
 2. De [artikelen 7.16](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=7.16) en [7.18, eerste tot en met derde lid en het vijfde en zesde lid, van de Comptabiliteitwet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=7.18) zijn van overeenkomstige toepassing.
 
-#### Artikel 27m
+##### Artikel 27m
 
 Vervallen
 
-#### Artikel 27n
+##### Artikel 27n
 
 Vervallen
 
-#### Artikel 27o
+##### Artikel 27o
 
 Vervallen
 
-#### Artikel 27p
+##### Artikel 27p
 
 Vervallen
 
-#### Artikel 27q
+##### Artikel 27q
 
 Vervallen
 
-#### Artikel 27r
+##### Artikel 27r
 
 Vervallen
 
-#### Artikel 27s
+##### Artikel 27s
 
 Vervallen
 
-#### Artikel 27t
+##### Artikel 27t
 
 Vervallen
 
-#### Artikel 27u
+##### Artikel 27u
 
 Vervallen
 
-#### Artikel 27v
+##### Artikel 27v
 
 Vervallen
 
-#### Artikel 27w
+##### Artikel 27w
 
 Vervallen
 
-#### Artikel 27x
+##### Artikel 27x
 
 Vervallen
 
-#### Artikel 27y
+##### Artikel 27y
 
 Vervallen
 
-#### Artikel 27z
+##### Artikel 27z
 
 Vervallen
 
 ## Titel V. Prijsvragen
 
-#### Artikel 28
+##### Artikel 28
 
 Vervallen
 
-#### Artikel 29
+##### Artikel 29
 
 Vervallen
 
@@ -576,7 +601,7 @@ Vervallen
 
 #### § 1. Inleidende bepalingen
 
-#### Artikel 30
+##### Artikel 30
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -594,7 +619,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - e. laagdrempelige inrichting: een inrichting als bedoeld in [artikel 1, eerste lid, van de Alcoholwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=1), waarin rechtmatig het horecabedrijf als bedoeld in dat artikellid wordt uitgeoefend, die geen hoogdrempelige inrichting is.
 
-#### Artikel 30a
+##### Artikel 30a
 
 1. Deze Titel is niet van toepassing op behendigheidsautomaten die zonder middellijke of onmiddellijke betaling of inworp door de speler of een derde in werking kunnen worden gesteld en waarvan het spelresultaat niet kan leiden tot de onmiddellijke uitkering van prijzen of premies.
 
@@ -602,7 +627,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 1. Inleidende bepalingen
 
-#### Artikel 30b
+##### Artikel 30b
 
 1. Het is verboden, behoudens het in deze Titel bepaalde, zonder vergunning van de burgemeester een of meer kansspelautomaten aanwezig te hebben
 
@@ -620,7 +645,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 3. [Paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) is van toepassing op de vergunning, bedoeld in [artikel 30c, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&artikel=30c&z=2025-02-12&g=2025-02-12).
 
-#### Artikel 30c
+##### Artikel 30c
 
 1. De vergunning kan slechts worden verleend, indien zij betreft het aanwezig hebben van een of meer kansspelautomaten:
 
@@ -640,7 +665,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 5. Indien met toepassing van het vierde lid meerdere ruimten binnen een laagdrempelige inrichting als hoogdrempelige inrichting kunnen worden aangemerkt, wordt, in afwijking van het vierde lid, met behulp van de omschrijving als bedoeld in [artikel 30, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=1&artikel=30&z=2025-02-12&g=2025-02-12), bepaald of er sprake is van een of van meerdere hoogdrempelige inrichtingen.
 
-#### Artikel 30d
+##### Artikel 30d
 
 1. Aan de vergunning kunnen voorschriften en beperkingen verbonden worden, die zo nodig kunnen worden gewijzigd, aangevuld of ingetrokken. Aan de vergunning wordt in ieder geval het voorschrift verbonden dat alleen kansspelautomaten mogen worden opgesteld, welke in eigendom toebehoren aan personen die in het bezit zijn van de in [artikel 30h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=3&artikel=30h&z=2025-02-12&g=2025-02-12), bedoelde vergunning en dat de vergunninghouder zorgdraagt voor een beleid ter voorkoming van kansspelverslaving. Indien de omstandigheden ter plaatse daartoe aanleiding geven, worden aan de vergunning voorts voorschriften verbonden ten aanzien van de wijze van werving en reclame, gericht tot de speler.
 
@@ -656,7 +681,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. het in het eerste lid gestelde voorschrift over het beleid ter voorkoming van kansspelverslaving.
 
-#### Artikel 30e
+##### Artikel 30e
 
 1. De vergunning wordt geweigerd indien:
 
@@ -674,7 +699,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Voordat toepassing wordt gegeven aan het derde lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=8), om een advies als bedoeld in [artikel 9 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=9) worden gevraagd.
 
-#### Artikel 30f
+##### Artikel 30f
 
 1. De vergunning wordt ingetrokken:
 
@@ -698,7 +723,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 6. Intrekking van de vergunning geschiedt niet voordat de burgemeester van zijn voornemen daartoe de vergunninghouder bij aangetekende brief, onder opgave van redenen, mededeling heeft gedaan en hem in de gelegenheid heeft gesteld zich in persoon of bij gemachtigde door hem of een door hem aangewezen ambtenaar te doen horen. In het geval bedoeld in het tweede lid, onder b, kan, indien dringende omstandigheden zulks vorderen, de vergunning onmiddellijk worden ingetrokken.
 
-#### Artikel 30g
+##### Artikel 30g
 
 1. Het is de vergunninghouder verboden personen beneden de leeftijd van achttien jaar een kansspelautomaat te laten bespelen.
 
@@ -706,13 +731,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 3. Vergunning tot het exploiteren van speelautomaten
 
-#### Artikel 30h
+##### Artikel 30h
 
 1. Het is verboden zonder vergunning van de raad van bestuur, bedoeld in [artikel 33a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VI&afdeling=1&artikel=33a&z=2025-02-12&g=2025-02-12), een of meer speelautomaten te exploiteren.
 
 2. Onder exploiteren wordt verstaan het bedrijfsmatig en als eigenaar gebruiken of aan een ander in gebruik geven van een of meer speelautomaten.
 
-#### Artikel 30i
+##### Artikel 30i
 
 1. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot:
 
@@ -728,13 +753,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 3. De kosten, bedoeld in het tweede lid, onder a, kunnen bij dwangbevel worden ingevorderd.
 
-#### Artikel 30j
+##### Artikel 30j
 
 1. Aan de vergunning kunnen uit een oogpunt van toezicht op de naleving van het bij of krachtens deze Titel bepaalde voorschriften en beperkingen worden verbonden, die zo nodig kunnen worden gewijzigd, aangevuld of ingetrokken, overeenkomstig bij regeling van Onze Minister van Veiligheid en Justitie te stellen regels. Aan de vergunning wordt in ieder geval het voorschrift verbonden dat alleen speelautomaten mogen worden opgesteld, indien tot het aanwezig hebben daarvan een vergunning is verleend als bedoeld in [artikel 30c](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&artikel=30c&z=2025-02-12&g=2025-02-12). Indien de omstandigheden daartoe aanleiding geven, worden aan de vergunning voorts voorschriften verbonden ten aanzien van de wijze van werving en reclame, gericht tot de speler.
 
 2. De vergunning wordt voor bepaalde of onbepaalde tijd verleend.
 
-#### Artikel 30k
+##### Artikel 30k
 
 1. De vergunning wordt geweigerd indien niet wordt voldaan aan de krachtens [artikel 30i, eerste lid, onder a en b, en tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=3&artikel=30i&z=2025-02-12&g=2025-02-12), geldende eisen.
 
@@ -744,7 +769,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Voordat toepassing wordt gegeven aan het derde lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=8), om een advies als bedoeld in [artikel 9 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=9) worden gevraagd.
 
-#### Artikel 30l
+##### Artikel 30l
 
 1. De vergunning wordt ingetrokken:
 
@@ -766,7 +791,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 3. Vergunning tot het exploiteren van speelautomaten
 
-#### Artikel 30m
+##### Artikel 30m
 
 1. Het vervaardigen of invoeren van speelautomaten is verboden, tenzij het speelautomaten betreft die overeenstemmen met een door de raad van bestuur, bedoeld in [artikel 33a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VI&afdeling=1&artikel=33a&z=2025-02-12&g=2025-02-12), toegelaten model en
 
@@ -784,7 +809,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. die zijn bestemd om als model voor toelating te worden aangeboden.
 
-#### Artikel 30n
+##### Artikel 30n
 
 1. Bij of krachtens algemene maatregel van bestuur worden regels gegeven welke gelden als voorwaarden voor de toelating van een model speelautomaat. De regels hebben betrekking op:
 
@@ -826,7 +851,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Voor de toelating van het model van kansspelautomaten bestemd om te worden opgesteld in een inrichting als bedoeld in [artikel 30c, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&artikel=30c&z=2025-02-12&g=2025-02-12), kunnen bij of krachtens algemene maatregel van bestuur regels worden gesteld ten aanzien van de onderwerpen genoemd in het tweede lid, die afwijken van het bij of krachtens het tweede lid bepaalde.
 
-#### Artikel 30o
+##### Artikel 30o
 
 1. De toelating van een model wordt door de raad van bestuur, bedoeld in [artikel 33a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VI&afdeling=1&artikel=33a&z=2025-02-12&g=2025-02-12), op aanvraag verleend.
 
@@ -844,7 +869,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 6. [Paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) is van toepassing op de toelating, bedoeld in het eerste lid.
 
-#### Artikel 30p
+##### Artikel 30p
 
 1. De toelating van een model wordt geweigerd indien niet wordt voldaan aan de krachtens [artikel 30n](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=4&artikel=30n&z=2025-02-12&g=2025-02-12) gegeven voorschriften of niet de redelijke verwachting bestaat, dat overeenkomstig het model vervaardigde speelautomaten aan die voorschriften zullen voldoen.
 
@@ -854,7 +879,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. indien er naar het oordeel van de raad van bestuur, bedoeld in [artikel 33a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VI&afdeling=1&artikel=33a&z=2025-02-12&g=2025-02-12), sprake is van een uit maatschappelijk oogpunt onaanvaardbaar spelconcept.
 
-#### Artikel 30q
+##### Artikel 30q
 
 1. Indien een model wordt toegelaten, wordt een op naam van de aanvrager gestelde, ondertekende en gedagtekende verklaring, houdende de toelating, afgegeven met gebruikmaking van een door de raad van bestuur, bedoeld in [artikel 33a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VI&afdeling=1&artikel=33a&z=2025-02-12&g=2025-02-12), vast te stellen formulier.
 
@@ -866,7 +891,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 5. Van een verklaring, houdende de toelating, wordt mededeling gedaan in de Staatscourant. Daarbij worden in elk geval opgenomen de voorschriften, bedoeld in het tweede en derde lid. Van een wijziging, aanvulling of intrekking van de in de verklaring opgenomen voorschriften wordt mededeling gedaan in de Staatscourant.
 
-#### Artikel 30r
+##### Artikel 30r
 
 1. De raad van bestuur, bedoeld in [artikel 33a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VI&afdeling=1&artikel=33a&z=2025-02-12&g=2025-02-12), stelt met betrekking tot iedere toelating van een model de merktekens vast die ingevolge die toelating op speelautomaten mogen worden aangebracht. Onze Minister van Veiligheid en Justitie geeft regels omtrent de afgifte van merktekens en afschriften van de verklaring, houdende de toelating.
 
@@ -876,7 +901,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Het met betrekking tot een toegelaten model vastgestelde merkteken moet op naar dat model vervaardigde speelautomaten zodanig worden aangebracht, dat het voor een speler zichtbaar is en niet verwijderd kan worden zonder de speelautomaat te beschadigen of het merkteken te vernietigen of te beschadigen.
 
-#### Artikel 30s
+##### Artikel 30s
 
 1. De toelating van een model wordt ingetrokken:
 
@@ -896,7 +921,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 5. Overige verbodsbepalingen
 
-#### Artikel 30t
+##### Artikel 30t
 
 1. Het is verboden een of meer speelautomaten, die niet overeenstemmen met het door de raad van bestuur, bedoeld in [artikel 33a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VI&afdeling=1&artikel=33a&z=2025-02-12&g=2025-02-12), toegelaten model daarvan en die niet ten bewijze daarvan zijn voorzien van het ingevolge [artikel 30r, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=4&artikel=30r&z=2025-02-12&g=2025-02-12), met betrekking tot die toelating vastgestelde merkteken:
 
@@ -914,7 +939,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 5. Het is verboden om op grond van het behaalde spelresultaat op een behendigheidsautomaat middellijk of onmiddellijk prijzen of premies uit te keren, met uitzondering van een verlengde speelduur of het recht op gratis spellen.
 
-#### Artikel 30u
+##### Artikel 30u
 
 1. Onverminderd het bepaalde bij of krachtens [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=4a&z=2025-02-12&g=2025-02-12), biedt de houder van een vergunning tot het aanwezig hebben van een of meer kansspelautomaten in een inrichting als bedoeld in [artikel 30c, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&artikel=30c&z=2025-02-12&g=2025-02-12), geen toegang tot die inrichting aan een persoon:
 
@@ -936,7 +961,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 5. Overige verbodsbepalingen
 
-#### Artikel 30v
+##### Artikel 30v
 
 1. Onverminderd het bepaalde bij of krachtens [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=4a&z=2025-02-12&g=2025-02-12), registreert en analyseert de houder van een vergunning tot het aanwezig hebben van een of meer kansspelautomaten in een inrichting als bedoeld in [artikel 30c, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&artikel=30c&z=2025-02-12&g=2025-02-12), op consequente en eenduidige wijze gegevens met betrekking tot het speelgedrag van de speler. Hij kan hierbij gegevens over gezondheid als bedoeld in artikel 4, onderdeel 15 van de Algemene verordening gegevensbescherming van de speler verwerken voor zover dit noodzakelijk is voor het voorkomen van onmatige deelname aan kansspelen of van kansspelverslaving.
 
@@ -958,21 +983,21 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 7. Toezicht
 
-#### Artikel 30w
+##### Artikel 30w
 
 Vervallen
 
-#### Artikel 30x
+##### Artikel 30x
 
 Vervallen
 
-#### Artikel 30y
+##### Artikel 30y
 
 Vervallen
 
 #### § 8. Speelautomaten in een speelcasino
 
-#### Artikel 30z
+##### Artikel 30z
 
 1. Tot het aanwezig hebben en het exploiteren van een of meer speelautomaten in een speelcasino kan uitsluitend door de raad van bestuur, bedoeld in [artikel 33a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VI&afdeling=1&artikel=33a&z=2025-02-12&g=2025-02-12) vergunning worden verleend. De [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&z=2025-02-12&g=2025-02-12) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=3&z=2025-02-12&g=2025-02-12) van deze Titel zijn niet van toepassing op het aanwezig hebben en het exploiteren van een of meer speelautomaten in een speelcasino.
 
@@ -984,7 +1009,7 @@ Vervallen
 
 #### § 9. Slotbepalingen
 
-#### Artikel 30aa
+##### Artikel 30aa
 
 1. De voordracht tot vaststelling, wijziging of intrekking van een algemene maatregel van bestuur, als voorzien in deze Titel, wordt Ons gedaan door Onze Minister van Veiligheid en Justitie.
 
@@ -994,19 +1019,19 @@ Een voordracht tot vaststelling, wijziging of intrekking van een algemene maatre
 
 ## Titel VI. Strafbepalingen
 
-#### Artikel 31
+##### Artikel 31
 
 1. Onder een kansspel op afstand wordt verstaan: een gelegenheid als bedoeld in [artikel 1, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=1&z=2025-02-12&g=2025-02-12), die op afstand met elektronische communicatiemiddelen wordt gegeven en waaraan wordt deelgenomen zonder fysiek contact met degene die die gelegenheid geeft of die voor deelname aan die kansspelen ruimte en middelen ter beschikking stelt.
 
 2. Tot het organiseren van kansspelen op afstand, anders dan aanbieden van deelnamebewijzen aan de bij of krachtens algemene maatregel van bestuur aangewezen kansspelen waarvoor op grond van een andere dan deze titel vergunning is verleend, kan uitsluitend vergunning worden verleend overeenkomstig de bepalingen van deze titel.
 
-#### Artikel 32
+##### Artikel 32
 
 Vervallen
 
 ## Titel VI. De kansspelautoriteit
 
-#### Artikel 33
+##### Artikel 33
 
 1. Er is een kansspelautoriteit.
 
@@ -1014,7 +1039,7 @@ Vervallen
 
 3. De kansspelautoriteit heeft rechtspersoonlijkheid.
 
-#### Artikel 34
+##### Artikel 34
 
 1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet, met uitzondering van [titel VA., paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&z=2025-02-12&g=2025-02-12), zijn belast de bij besluit van de raad van bestuur van de kansspelautoriteit aangewezen ambtenaren en personen.
 
@@ -1022,13 +1047,13 @@ Vervallen
 
 3. Van een besluit als bedoeld in het eerste of tweede lid wordt mededeling gedaan door plaatsing in de Staatscourant, onderscheidenlijk het gemeenteblad.
 
-#### Artikel 35
+##### Artikel 35
 
 1. De raad van bestuur kan een last onder bestuursdwang opleggen wegens overtreding van de voorschriften vastgesteld bij of krachtens deze wet, met uitzondering van [titel VA., paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&z=2025-02-12&g=2025-02-12).
 
 2. Ingeval de in [artikel 35a, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VIb&paragraaf=2&artikel=35a&z=2025-02-12&g=2025-02-12), bedoelde overtreding een weigering inhoudt medewerking als bedoeld in [artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) te verlenen, kan de raad van bestuur een last onder dwangsom opleggen om inzage te verlenen in de in die last aangegeven zakelijke gegevens en bescheiden.
 
-#### Artikel 36
+##### Artikel 36
 
 1. Gedragingen in strijd met de voorschriften vastgesteld bij of krachtens de [artikelen 1, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=1&z=2025-02-12&g=2025-02-12), [30b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&artikel=30b&z=2025-02-12&g=2025-02-12), [30h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=3&artikel=30h&z=2025-02-12&g=2025-02-12), [30m, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=4&artikel=30m&z=2025-02-12&g=2025-02-12), en [30t, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=5&artikel=30t&z=2025-02-12&g=2025-02-12), zijn misdrijven, voorzover zij opzettelijk zijn begaan, en overigens overtredingen.
 
@@ -1036,53 +1061,53 @@ Vervallen
 
 3. Gedragingen, die in dit artikel als misdrijf of als overtreding zijn aangemerkt, zijn economische delicten in de zin van [artikel 1, aanhef en onder 3°, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1).
 
-#### Artikel 37
+##### Artikel 37
 
 Vervallen
 
 ## Titel VII. Slotbepalingen
 
-#### Artikel 38
+##### Artikel 38
 
 Alle aanspraken, voortvloeiende uit de uitslag van kansbepalingen in een gelegenheid, gegeven met vergunning ingevolge deze wet verleend, vervallen na verloop van een jaar na de dag waarop zij zijn ontstaan.
 
-#### Artikel 39
+##### Artikel 39
 
 Artikel 1825 van het Burgerlijk Wetboek is niet van toepassing op prijzen en premies, behaald in gelegenheden, gegeven met vergunning ingevolge deze wet verleend.
 
-#### Artikel 40
+##### Artikel 40
 
 Vervallen
 
-#### Artikel 41
+##### Artikel 41
 
 Vervallen
 
-#### Artikel 41a
+##### Artikel 41a
 
 Vervallen
 
-#### Artikel 42
+##### Artikel 42
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 43
+##### Artikel 43
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 44
+##### Artikel 44
 
 1. Op loterijen, die vóór 1 juli 1905 reeds wettiglijk zijn aangelegd, is deze wet niet van toepassing.
 
 2. Loterijen en prijsvragen waarvoor vóór de datum van inwerkingtreding van deze wet vergunning is verleend, worden afgewikkeld overeenkomstig de vóór die datum geldende voorschriften.
 
-#### Artikel 45
+##### Artikel 45
 
 Deze wet treedt in werking op een nader door Ons te bepalen tijdstip. Zij kan worden aangehaald als: "Wet op de kansspelen".
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 4a
+##### Artikel 4a
 
 1. De houders van vergunningen op grond van deze wet treffen de maatregelen en voorzieningen die nodig zijn om verslaving aan de door hen georganiseerde spelen zoveel mogelijk te voorkomen.
 
@@ -1162,21 +1187,21 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ### Afdeling 1. Inleidende bepalingen
 
-#### Artikel 33a
+##### Artikel 33a
 
 Aan het hoofd van de kansspelautoriteit staat de raad van bestuur.
 
-#### Artikel 33b
+##### Artikel 33b
 
 De raad van bestuur heeft, tenzij bij of krachtens deze wet anders is bepaald, tot taak het verlenen, wijzigen, schorsen en intrekken van vergunningen voor de diverse vormen van kansspelen, exploitatievergunningen en modeltoelatingen voor speelautomaten, het beheer van het register, bedoeld in [artikel 33h](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VI&afdeling=3&artikel=33h&z=2025-02-12&g=2025-02-12), het bevorderen van het voorkomen en het beperken van kansspelverslaving, het geven van voorlichting en informatie, het bestrijden van niet toegestaan kansspelaanbod, het toezicht op de naleving van de toepasselijke wet- en regelgeving en de vergunningen, de handhaving daarvan, alsmede het tegengaan en beperken van manipulatie met sportwedstrijden, voor zover deze betrekking heeft op sportwedstrijden waarvoor op grond van [titel III](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=III&z=2025-02-12&g=2025-02-12), [titel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IV&z=2025-02-12&g=2025-02-12) dan wel [titel Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=Vb&z=2025-02-12&g=2025-02-12) van deze wet vergunning is verleend tot het organiseren van kansspelen.
 
-#### Artikel 33c
+##### Artikel 33c
 
 1. De raad van bestuur bestaat uit ten hoogste drie leden, waaronder een voorzitter.
 
 2. De leden worden benoemd voor een periode van ten hoogste zes jaar. De leden kunnen eenmaal worden herbenoemd voor een periode van ten hoogste zes jaar.
 
-#### Artikel 33d
+##### Artikel 33d
 
 1. De raad stelt een bestuursreglement vast, waarin in ieder geval regels over de werkwijze en procedures zijn opgenomen.
 
@@ -1184,7 +1209,7 @@ De raad van bestuur heeft, tenzij bij of krachtens deze wet anders is bepaald, t
 
 ### Afdeling 2. De vergunning tot het organiseren van kansspelen op afstand
 
-#### Artikel 33e
+##### Artikel 33e
 
 1. Onder de naam kansspelheffing legt de kansspelautoriteit een bestemmingsheffing op:
 
@@ -1206,7 +1231,7 @@ De raad van bestuur heeft, tenzij bij of krachtens deze wet anders is bepaald, t
 
 3. Voor zover de kansspelautoriteit op grond van [artikel 1d, eerste lid, onderdeel f, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1d) is belast met de uitvoering en handhaving van de bij of krachtens die wet gestelde regels door de instellingen, bedoeld in [artikel 1a, vierde lid, onderdeel j, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1a), wordt de kansspelheffing tevens geheven ter bestrijding en ten hoogste ten bedrage van de geraamde kosten van de kansspelautoriteit in één kalenderjaar van de uitoefening van dat toezicht. Deze aanvullende kansspelheffing wordt geheven van genoemde instellingen, voor zover deze houder van een vergunning op grond van deze wet zijn. Daarbij wordt de grondslag, bedoeld in het tweede lid, voor de desbetreffende categorie vergunninghouder aangehouden.
 
-#### Artikel 33f
+##### Artikel 33f
 
 1. Het tarief van de heffing bedoeld in [artikel 33e, tweede lid, onder a,](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VI&afdeling=2&artikel=33e&z=2025-02-12&g=2025-02-12)bedraagt:
 
@@ -1246,15 +1271,15 @@ De raad van bestuur heeft, tenzij bij of krachtens deze wet anders is bepaald, t
 
 ## Titel VIa. Toezicht op de naleving
 
-#### Artikel 34a
+##### Artikel 34a
 
 Onder zaak in de zin van [5:18 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) wordt mede begrepen de software die gebruikt wordt bij de deelname, de trekking en uitbetaling van een kansspel en de software die de uitkomst van een spel bepaalt.
 
-#### Artikel 34b
+##### Artikel 34b
 
 De op grond van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VIa&paragraaf=1&artikel=34&z=2025-02-12&g=2025-02-12) aangewezen ambtenaren en personen hebben bij de uitoefening van hun taak toegang tot de elektronische apparatuur, met inbegrip van netwerken, die naar vermoeden gebruikt wordt bij kansspelen.
 
-#### Artikel 34c
+##### Artikel 34c
 
 1. De ambtenaren en personen, bedoeld in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VIa&paragraaf=1&artikel=34&z=2025-02-12&g=2025-02-12), zijn bevoegd tot deelname aan kansspelen op afstand als bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=Vb&afdeling=1&artikel=31&z=2025-02-12&g=2025-02-12), onder verstrekking van onjuiste of onvolledige gegevens met betrekking tot hun identiteit, voor zover dat voor de vervulling van hun taken redelijkerwijs noodzakelijk is. Zij brengen de organisator van die kansspelen daarbij niet tot andere overtredingen dan waarop diens opzet reeds was gericht.
 
@@ -1280,7 +1305,7 @@ De op grond van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&tit
 
 #### § 1. Last onder bestuursdwang
 
-#### Artikel 35a
+##### Artikel 35a
 
 1. De raad van bestuur kan een bestuurlijke boete opleggen wegens overtreding van de voorschriften vastgesteld bij of krachtens de [artikelen 1, eerste lid, onder a, b en d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=1&z=2025-02-12&g=2025-02-12), [1b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=1b&z=2025-02-12&g=2025-02-12), [4a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=4a&z=2025-02-12&g=2025-02-12), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=7&z=2025-02-12&g=2025-02-12), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=II&artikel=10&z=2025-02-12&g=2025-02-12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=II&artikel=13&z=2025-02-12&g=2025-02-12), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=II&artikel=14&z=2025-02-12&g=2025-02-12), [14c](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IIa&artikel=14c&z=2025-02-12&g=2025-02-12), [14d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IIa&artikel=14d&z=2025-02-12&g=2025-02-12), [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=III&artikel=20&z=2025-02-12&g=2025-02-12), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=III&artikel=21&z=2025-02-12&g=2025-02-12), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IV&artikel=25&z=2025-02-12&g=2025-02-12), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IV&artikel=27&z=2025-02-12&g=2025-02-12), [27c](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IVa&artikel=27c&z=2025-02-12&g=2025-02-12), [27e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IVa&artikel=27e&z=2025-02-12&g=2025-02-12), [27i](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IVb&artikel=27i&z=2025-02-12&g=2025-02-12), [27j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IVb&artikel=27j&z=2025-02-12&g=2025-02-12), [27ja](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IVb&artikel=27ja&z=2025-02-12&g=2025-02-12), [30h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=3&artikel=30h&z=2025-02-12&g=2025-02-12), [30j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=3&artikel=30j&z=2025-02-12&g=2025-02-12), [30m, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=4&artikel=30m&z=2025-02-12&g=2025-02-12), [30q, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=4&artikel=30q&z=2025-02-12&g=2025-02-12), [30r, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=4&artikel=30r&z=2025-02-12&g=2025-02-12), [30t, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=5&artikel=30t&z=2025-02-12&g=2025-02-12), [30u, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=5&artikel=30u&z=2025-02-12&g=2025-02-12), [30v](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=5&artikel=30v&z=2025-02-12&g=2025-02-12 jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=6&artikel=30v&z=2025-02-12&g=2025-02-12), [30z](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=8&artikel=30z&z=2025-02-12&g=2025-02-12), [31h](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=Vb&afdeling=3&artikel=31h&z=2025-02-12&g=2025-02-12), [31i, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=Vb&afdeling=3&artikel=31i&z=2025-02-12&g=2025-02-12), [31j](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=Vb&afdeling=3&artikel=31j&z=2025-02-12&g=2025-02-12), [31k](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=Vb&afdeling=4&artikel=31k&z=2025-02-12&g=2025-02-12), [31l](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=Vb&afdeling=4&artikel=31l&z=2025-02-12&g=2025-02-12), [31m](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=Vb&afdeling=4&artikel=31m&z=2025-02-12&g=2025-02-12), [34k](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VIa&paragraaf=3&artikel=34k&z=2025-02-12&g=2025-02-12) en [34l](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VIa&paragraaf=3&artikel=34l&z=2025-02-12&g=2025-02-12), en [34n, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VIb&paragraaf=1&artikel=34n&z=2025-02-12&g=2025-02-12). De raad van bestuur kan voorts een bestuurlijke boete opleggen wegens handelen in strijd met [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) en wegens het verbreken, opheffen of beschadigen van een verzegeling als bedoeld in [artikel 34d](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VIa&paragraaf=2&artikel=34d&z=2025-02-12&g=2025-02-12) of wegens het op andere wijze verijdelen van de door de verzegeling bedoelde afsluiting.
 
@@ -1290,7 +1315,7 @@ De op grond van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&tit
 
 4. De bestuurlijke boete komt toe aan de staat.
 
-#### Artikel 35b
+##### Artikel 35b
 
 1. De raad van bestuur kan een bestuurlijke boete van ten hoogste het bedrag van de eerste categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23) opleggen wegens overtreding van de voorschriften vastgesteld bij of krachtens [artikel 30u, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=5&artikel=30u&z=2025-02-12&g=2025-02-12).
 
@@ -1300,7 +1325,7 @@ De op grond van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&tit
 
 4. Bij een overtreding als bedoeld in het eerste lid is [artikel 5:53 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:53) niet van toepassing.
 
-#### Artikel 35c
+##### Artikel 35c
 
 1. De burgemeester kan een bestuurlijke boete van ten hoogste het bedrag van de eerste categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23) opleggen wegens overtreding van het voorschrift vastgesteld bij [artikel 30g, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&artikel=30g&z=2025-02-12&g=2025-02-12).
 
@@ -1314,7 +1339,7 @@ De op grond van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&tit
 
 ## Titel VIc. Strafbepalingen
 
-#### Artikel 36a
+##### Artikel 36a
 
 1. Overtreding van de verbodsbepaling van [artikel 1, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=1&z=2025-02-12&g=2025-02-12) , wordt gestraft met geldboete van de derde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
 
@@ -1322,7 +1347,7 @@ De op grond van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&tit
 
 3. De feiten, strafbaar gesteld in het eerste en tweede lid, zijn overtredingen.
 
-#### Artikel 36b
+##### Artikel 36b
 
 1. Met de opsporing van de bij [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VIc&artikel=36&z=2025-02-12&g=2025-02-12) strafbaar gestelde feiten zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), belast de door Onze Minister van Veiligheid en Justitie aangewezen ambtenaren en personen. Deze ambtenaren en personen zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de [artikelen 179 tot en met 182](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=179) en [184 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=184), voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.
 
@@ -1334,7 +1359,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ### Afdeling 3. Gegevensverwerking
 
-#### Artikel 33g
+##### Artikel 33g
 
 1. De raad van bestuur, bedoeld in [artikel 33a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VI&afdeling=1&artikel=33a&z=2025-02-12&g=2025-02-12), kan persoonsgegevens, daaronder begrepen persoonsgegevens van strafrechtelijke aard als bedoeld in [paragraaf 3.2 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&paragraaf=3.2) en gegevens over gezondheid als bedoeld in artikel 4, onderdeel 15 van de Algemene verordening gegevensbescherming, verwerken, voor zover die verwerking noodzakelijk is voor:
 
@@ -1378,7 +1403,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 4b
+##### Artikel 4b
 
 1. In verband met het voorkomen van witwassen en het financieren van terrorisme staan de betrouwbaarheid en de geschiktheid van de houder van een vergunning op grond van deze wet, van de personen die zijn beleid bepalen of mede bepalen en van zijn uiteindelijke belanghebbende buiten twijfel.
 
@@ -1390,7 +1415,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 - b. bij of krachtens deze wet vergelijkbare eisen in verband met het voorkomen van witwassen en financieren van terrorisme worden gesteld.
 
-#### Artikel 4c
+##### Artikel 4c
 
 1. Een vergunning die ingevolge deze wet door de raad van bestuur, bedoeld in [artikel 33a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VI&afdeling=1&artikel=33a&z=2025-02-12&g=2025-02-12), is verleend voor een gelegenheid als bedoeld in [artikel 1, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=1&z=2025-02-12&g=2025-02-12), of voor het verrichten van activiteiten als bedoeld in [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=Ia&artikel=7a&z=2025-02-12&g=2025-02-12), [30b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&artikel=30b&z=2025-02-12&g=2025-02-12) of [30h](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=3&artikel=30h&z=2025-02-12&g=2025-02-12) en waarop de [Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282) van toepassing is, kan worden ingetrokken indien de vergunninghouder niet of niet meer voldoet aan de bij of krachtens die wet gestelde regels.
 
@@ -1442,13 +1467,13 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 1b
+##### Artikel 1b
 
 1. Het is verboden om op een open televisieprogrammakanaal als bedoeld in [artikel 1.1, eerste lid, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=1.1), programma’s aan te laten bieden waarin gelegenheid wordt geboden om deel te nemen aan een kansspel als bedoeld in [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=1&z=2025-02-12&g=2025-02-12), van deze wet.
 
 2. Het is een publieke media-instelling of een commerciële media-instelling als bedoeld in [artikel 1.1, eerste lid, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=1.1), verboden televisieprogramma’s uit te zenden waarin gelegenheid wordt geboden om deel te nemen aan een kansspel als bedoeld in [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=1&z=2025-02-12&g=2025-02-12), van deze wet.
 
-#### Artikel 6a
+##### Artikel 6a
 
 1. Bij regeling van Onze Minister van Veiligheid en Justitie kan worden bepaald dat de houder van een vergunning als bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=II&artikel=9&z=2025-02-12&g=2025-02-12), [14b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IIa&artikel=14b&z=2025-02-12&g=2025-02-12), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=III&artikel=16&z=2025-02-12&g=2025-02-12), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IV&artikel=24&z=2025-02-12&g=2025-02-12), [27b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IVa&artikel=27b&z=2025-02-12&g=2025-02-12) en [27h](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IVb&artikel=27h&z=2025-02-12&g=2025-02-12) aan Onze Minister van Veiligheid en Justitie overeenkomstig bij die regeling te stellen regels voor het gebruik van die vergunning eenmalig of periodiek een bedrag is verschuldigd.
 
@@ -1470,7 +1495,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ## Titel IVb. Casinospelen
 
-#### Artikel 27ja
+##### Artikel 27ja
 
 1. Onverminderd het bepaalde bij of krachtens [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=4a&z=2025-02-12&g=2025-02-12), registreert en analyseert de houder van een vergunning tot het organiseren van een speelcasino op consequente en eenduidige wijze gegevens met betrekking tot het speelgedrag van de speler. Hij kan hierbij gegevens over gezondheid als bedoeld in artikel 4, onderdeel 15 van de Algemene verordening gegevensbescherming van de speler verwerken voor zover dit noodzakelijk is voor het voorkomen van onmatige deelname aan kansspelen of van kansspelverslaving.
 
@@ -1496,7 +1521,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 #### § 4. Toelating van speelautomaten
 
-#### Artikel 30v
+##### Artikel 30v
 
 Vervallen
 
@@ -1508,7 +1533,7 @@ Vervallen
 
 ### Afdeling 1. Inleidende bepalingen
 
-#### Artikel 31a
+##### Artikel 31a
 
 1. De raad van bestuur, bedoeld in [artikel 33a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VI&afdeling=1&artikel=33a&z=2025-02-12&g=2025-02-12), kan vergunning verlenen tot het organiseren van kansspelen op afstand.
 
@@ -1528,11 +1553,11 @@ Vervallen
 
 5. De regels en criteria, bedoeld in het vierde lid, onder a en b, worden in beginsel vastgesteld na overleg met de kansspelautoriteit, sportbonden en vergunninghouders van kansspelen op afstand die sportweddenschappen of een totalisator aanbieden. Tot de regels als bedoeld in het vierde lid, onder b, kan een lijst behoren met kansspelen, spelregels en andere kenmerken van die spelen die door de houder van een vergunning tot het organiseren van kansspelen op afstand niet mogen worden aangeboden.
 
-#### Artikel 31b
+##### Artikel 31b
 
 Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de termijn waarbinnen een beschikking op de aanvraag omtrent de vergunning tot het organiseren van kansspelen op afstand wordt gegeven, en kunnen regels worden gesteld met betrekking tot de indiening en behandeling van de aanvraag.
 
-#### Artikel 31c
+##### Artikel 31c
 
 1. De aanvraag tot het verlenen en wijzigen van een vergunning tot het organiseren van kansspelen op afstand wordt afgewezen indien onvoldoende is gewaarborgd dat:
 
@@ -1544,7 +1569,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrek
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de toepassing van het eerste lid.
 
-#### Artikel 31d
+##### Artikel 31d
 
 1. De vergunning tot het organiseren van kansspelen op afstand kan worden ingetrokken, indien:
 
@@ -1560,17 +1585,17 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrek
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de voorgaande leden.
 
-#### Artikel 31e
+##### Artikel 31e
 
 Voor de behandeling van een aanvraag omtrent een vergunning tot het organiseren van kansspelen op afstand is overeenkomstig door Onze Minister van Veiligheid en Justitie gestelde regels een vergoeding verschuldigd. Als betaling achterwege blijft, wordt de aanvraag niet in behandeling genomen. [Artikel 4:5, vierde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) is niet van toepassing.
 
-#### Artikel 31f
+##### Artikel 31f
 
 Bij regeling van Onze Minister van Veiligheid en Justitie kan worden bepaald dat de houder van een vergunning tot het organiseren van kansspelen op afstand overeenkomstig bij die regeling te stellen regels periodiek een bedrag afdraagt aan een of meer instellingen die een algemeen belang dienen, werkzaam op het gebied van sport en lichamelijke vorming, cultuur, maatschappelijk welzijn of volksgezondheid. Daarbij kan onderscheid worden gemaakt naar de aard van de door die vergunninghouder georganiseerde kansspelen.
 
 ### Afdeling 3. De houder van de vergunning tot het organiseren van kansspelen op afstand
 
-#### Artikel 31g
+##### Artikel 31g
 
 1. De houder van de vergunning tot het organiseren van kansspelen op afstand heeft zijn statutaire zetel, zijn hoofdbestuur of zijn hoofdvestiging in een staat die partij is bij het Verdrag betreffende de werking van de Europese Unie of de Overeenkomst betreffende de Europese Economische Ruimte.
 
@@ -1590,7 +1615,7 @@ een belemmering kan vormen voor het doelmatig en doeltreffend uitoefenen van toe
 
 6. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot de vergunninghouder. Deze regels hebben in ieder geval betrekking op de ontheffing, bedoeld in het vijfde lid, en de continuïteit van de vergunninghouder.
 
-#### Artikel 31h
+##### Artikel 31h
 
 1. De houder van een vergunning tot het organiseren van kansspelen op afstand richt zijn bedrijfsvoering zodanig in dat een verantwoorde, betrouwbare en controleerbare organisatie van de kansspelen op afstand, alsmede het toezicht op naleving van de bij of krachtens deze wet en de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296) gestelde voorschriften en de handhaving daarvan, zijn gewaarborgd.
 
@@ -1622,7 +1647,7 @@ een belemmering kan vormen voor het doelmatig en doeltreffend uitoefenen van toe
 
 - h. de administratie van de krachtens de vergunning georganiseerde kansspelen.
 
-#### Artikel 31i
+##### Artikel 31i
 
 1. De betrouwbaarheid van de houder van de vergunning tot het organiseren van kansspelen op afstand, van de personen die zijn beleid bepalen of mede bepalen en van zijn uiteindelijke belanghebbende staat buiten twijfel.
 
@@ -1634,7 +1659,7 @@ een belemmering kan vormen voor het doelmatig en doeltreffend uitoefenen van toe
 
 5. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot het eerste en tweede lid. Deze regels hebben in ieder geval betrekking op de wijze waarop wordt vastgesteld of de betrouwbaarheid van de vergunninghouder en een persoon als bedoeld in het eerste lid buiten twijfel staat en welke feiten en omstandigheden daarbij worden betrokken.
 
-#### Artikel 31j
+##### Artikel 31j
 
 1. Het beleid van de houder van de vergunning tot het organiseren van kansspelen op afstand wordt bepaald door personen die deskundig zijn in verband met de verantwoorde, betrouwbare en controleerbare organisatie van kansspelen op afstand.
 
@@ -1644,7 +1669,7 @@ een belemmering kan vormen voor het doelmatig en doeltreffend uitoefenen van toe
 
 ### Afdeling 4. Het organiseren van kansspelen op afstand
 
-#### Artikel 31k
+##### Artikel 31k
 
 1. De houder van een vergunning tot het organiseren van kansspelen op afstand biedt een persoon die niet bij hem als speler is ingeschreven en aangemeld geen kansspelen op afstand aan.
 
@@ -1674,7 +1699,7 @@ een belemmering kan vormen voor het doelmatig en doeltreffend uitoefenen van toe
 
 6. De houder van een ingevolge [artikel 31a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=Vb&afdeling=2&artikel=31a&z=2025-02-12&g=2025-02-12) verleende vergunning is verplicht informatie over verdachte gokpatronen bij de kansspelautoriteit te melden. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over hetgeen onder informatie over verdachte gokpatronen wordt verstaan en over de wijze waarop de melding aan de kansspelautoriteit moet plaatsvinden.
 
-#### Artikel 31l
+##### Artikel 31l
 
 1. Betalingen tussen de houder van de vergunning tot het organiseren van kansspelen op afstand en de speler verlopen overeenkomstig bij of krachtens algemene maatregel van bestuur gestelde regels.
 
@@ -1694,7 +1719,7 @@ een belemmering kan vormen voor het doelmatig en doeltreffend uitoefenen van toe
 
 4. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot het tweede en derde lid.
 
-#### Artikel 31m
+##### Artikel 31m
 
 1. Onverminderd het bepaalde bij of krachtens [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=I&artikel=4a&z=2025-02-12&g=2025-02-12), registreert en analyseert de houder van een vergunning tot het organiseren van kansspelen op afstand systematisch gegevens met betrekking tot het speelgedrag van de speler. Hij kan hierbij gegevens over gezondheid als bedoeld in artikel 4, onderdeel 15 van de Algemene verordening gegevensbescherming van de speler verwerken voor zover dit noodzakelijk is voor het voorkomen van onmatige deelname aan kansspelen of van kansspelverslaving.
 
@@ -1718,7 +1743,7 @@ een belemmering kan vormen voor het doelmatig en doeltreffend uitoefenen van toe
 
 ### Afdeling 1. Inleidende bepalingen
 
-#### Artikel 33da
+##### Artikel 33da
 
 1. De raad van bestuur, bedoeld in [artikel 33a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VI&afdeling=1&artikel=33a&z=2025-02-12&g=2025-02-12), kan een persoon bij een redelijk vermoeden dat deze door onmatige deelname aan kansspelen of door kansspelverslaving zichzelf of zijn naasten schade kan berokkenen, door inschrijving in het register, bedoeld in [artikel 33h](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VI&afdeling=3&artikel=33h&z=2025-02-12&g=2025-02-12), voor de duur van zes maanden uitsluiten van deelname aan kansspelen, georganiseerd in speelcasino’s als bedoeld in [artikel 27g, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IVb&artikel=27g&z=2025-02-12&g=2025-02-12), in inrichtingen als bedoeld in [artikel 30c, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&artikel=30c&z=2025-02-12&g=2025-02-12), en op afstand als bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=Vb&afdeling=1&artikel=31&z=2025-02-12&g=2025-02-12).
 
@@ -1732,7 +1757,7 @@ een belemmering kan vormen voor het doelmatig en doeltreffend uitoefenen van toe
 
 ### Afdeling 3. Gegevensverwerking
 
-#### Artikel 33h
+##### Artikel 33h
 
 1. De raad van bestuur, bedoeld in [artikel 33a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VI&afdeling=1&artikel=33a&z=2025-02-12&g=2025-02-12), houdt een register van personen die tijdelijk zijn uitgesloten van deelname aan kansspelen, georganiseerd in een inrichting als bedoeld in [artikel 30c, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA&paragraaf=2&artikel=30c&z=2025-02-12&g=2025-02-12), in een speelcasino als bedoeld in [artikel 27g, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=IVb&artikel=27g&z=2025-02-12&g=2025-02-12), en op afstand als bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=Vb&afdeling=1&artikel=31&z=2025-02-12&g=2025-02-12).
 
@@ -1788,15 +1813,15 @@ De inschrijving wordt niet doorgehaald, indien sedert de inschrijving nog geen z
 
 #### § 2. Bevoegdheden
 
-#### Artikel 34d
+##### Artikel 34d
 
 De ambtenaren en personen, bedoeld in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VIa&paragraaf=1&artikel=34&z=2025-02-12&g=2025-02-12), zijn bevoegd om bedrijfsruimten en voorwerpen te verzegelen, voor zover dat voor de uitoefening van de in [artikel 5:17 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) bedoelde bevoegdheden redelijkerwijs noodzakelijk is.
 
-#### Artikel 34e
+##### Artikel 34e
 
 De ambtenaren en personen, bedoeld in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VIa&paragraaf=1&artikel=34&z=2025-02-12&g=2025-02-12), zijn bevoegd een woning zonder toestemming van de bewoner te betreden en te doorzoeken, voor zover dat voor de uitoefening van de in [artikel 5:17 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) bedoelde bevoegdheden redelijkerwijs noodzakelijk is.
 
-#### Artikel 34f
+##### Artikel 34f
 
 1. Voor het betreden of het doorzoeken, bedoeld in [artikel 34e](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VIa&paragraaf=2&artikel=34e&z=2025-02-12&g=2025-02-12), is een voorafgaande machtiging vereist van de rechter-commissaris, belast met de behandeling van strafzaken, bij de rechtbank te Rotterdam. De machtiging kan bij wijze van voorzorgsmaatregel worden gevraagd. De machtiging wordt zo mogelijk getoond.
 
@@ -1808,7 +1833,7 @@ De ambtenaren en personen, bedoeld in [artikel 34, eerste lid](https://wetten.ov
 
 5. De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=2) en [3 van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=3) zijn niet van toepassing.
 
-#### Artikel 34g
+##### Artikel 34g
 
 1. Een machtiging als bedoeld in [artikel 34f](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VIa&paragraaf=2&artikel=34f&z=2025-02-12&g=2025-02-12) is met redenen omkleed en ondertekend en vermeldt:
 
@@ -1828,7 +1853,7 @@ De ambtenaren en personen, bedoeld in [artikel 34, eerste lid](https://wetten.ov
 
 4. [Artikel 6 van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=6) is niet van toepassing.
 
-#### Artikel 34h
+##### Artikel 34h
 
 1. De ambtenaar of persoon die is binnengetreden of een doorzoeking als bedoeld in [artikel 34e](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VIa&paragraaf=2&artikel=34e&z=2025-02-12&g=2025-02-12) heeft verricht, maakt op zijn ambtseed of ambtsbelofte een schriftelijk verslag op omtrent het binnentreden of de doorzoeking.
 
@@ -1854,7 +1879,7 @@ De ambtenaren en personen, bedoeld in [artikel 34, eerste lid](https://wetten.ov
 
 5. De [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=10) en [11 van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=11) zijn niet van toepassing.
 
-#### Artikel 34i
+##### Artikel 34i
 
 1. De ambtenaren en personen, bedoeld in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VIa&paragraaf=1&artikel=34&z=2025-02-12&g=2025-02-12), zijn bevoegd tot inbeslagneming van daarvoor vatbare voorwerpen. Zij kunnen daartoe hun uitlevering vorderen.
 
@@ -1874,13 +1899,13 @@ De ambtenaren en personen, bedoeld in [artikel 34, eerste lid](https://wetten.ov
 
 9. De kosten verbonden aan de opslag en de vernietiging, bedoeld in het achtste lid, zijn voor rekening van de overtreder. De raad van bestuur, bedoeld in [artikel 33a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VI&afdeling=1&artikel=33a&z=2025-02-12&g=2025-02-12), kan deze kosten invorderen bij dwangbevel.
 
-#### Artikel 34j
+##### Artikel 34j
 
 De ambtenaren en personen, bedoeld in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VIa&paragraaf=1&artikel=34&z=2025-02-12&g=2025-02-12), oefenen de bevoegdheden, bedoeld in de [artikelen 5:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17), [5:18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) en [5:19 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19), de bevoegdheid tot verzegeling, bedoeld in [artikel 34d](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VIa&paragraaf=2&artikel=34d&z=2025-02-12&g=2025-02-12), de bevoegdheid tot binnentreden en doorzoeken, bedoeld in [artikel 34e](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VIa&paragraaf=2&artikel=34e&z=2025-02-12&g=2025-02-12), en de bevoegdheid tot inbeslagneming, bedoeld in [artikel 34i](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VIa&paragraaf=2&artikel=34i&z=2025-02-12&g=2025-02-12), zo nodig uit met behulp van de sterke arm.
 
 #### § 3. Maatregelen van toezicht
 
-#### Artikel 34k
+##### Artikel 34k
 
 1. Bij of krachtens algemene maatregel van bestuur kan ten aanzien van houders van een vergunning op grond van deze wet worden voorzien in een verplichting tot:
 
@@ -1892,7 +1917,7 @@ De ambtenaren en personen, bedoeld in [artikel 34, eerste lid](https://wetten.ov
 
 3. Bij of krachtens de algemene maatregel van bestuur, bedoeld in het eerste lid, kunnen regels worden gesteld met betrekking tot de administratie, het beheer en de verstrekking van de gegevens, bedoeld in het eerste en tweede lid.
 
-#### Artikel 34l
+##### Artikel 34l
 
 Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de elektronische toegang van:
 
@@ -1910,7 +1935,7 @@ tot elektronische middelen die bij het organiseren van kansspelen worden gebruik
 
 #### § 4. Internationale samenwerking met andere toezichthoudende instanties
 
-#### Artikel 34m
+##### Artikel 34m
 
 1. De raad van bestuur, bedoeld in [artikel 33a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VI&afdeling=1&artikel=33a&z=2025-02-12&g=2025-02-12), en de ambtenaren en personen, bedoeld in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VIa&paragraaf=1&artikel=34&z=2025-02-12&g=2025-02-12), werken samen met de instanties die in andere staten zijn belast met het toezicht op naleving van de kansspelregelgeving, voor zover dat voor het vervullen van hun taak op grond van deze wet of voor de vervulling van de taak van die toezichthoudende instantie nodig is.
 
@@ -1924,7 +1949,7 @@ tot elektronische middelen die bij het organiseren van kansspelen worden gebruik
 
 #### § 1. Bindende aanwijzing en last onder bestuursdwang
 
-#### Artikel 34n
+##### Artikel 34n
 
 1. De raad van bestuur, bedoeld in [artikel 33a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VI&afdeling=1&artikel=33a&z=2025-02-12&g=2025-02-12), kan degene die kansspelen organiseert of die de deelname aan zonder vergunning krachtens deze wet georganiseerde kansspelen bevordert of daartoe middelen verschaft, een bindende aanwijzing geven met betrekking tot de naleving van de bij of krachtens deze wet gestelde voorschriften binnen een in die aanwijzing gegeven redelijke termijn.
 
@@ -1944,7 +1969,7 @@ tot elektronische middelen die bij het organiseren van kansspelen worden gebruik
 
 #### § 2. Bestuurlijke boete
 
-#### Artikel 35d
+##### Artikel 35d
 
 Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot het stellen van financiële zekerheid door de houder van een vergunning op grond van deze wet voor het nakomen van de financiële verplichtingen uit:
 
@@ -1954,7 +1979,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrek
 
 #### § 3. Openbare waarschuwing
 
-#### Artikel 35e
+##### Artikel 35e
 
 1. De raad van bestuur kan in het kader van zijn taken genoemd in deze wet, een openbare waarschuwing uitvaardigen voordat hij een overtreding van de voorschriften vastgesteld bij of krachtens deze wet, heeft vastgesteld, indien dat redelijkerwijs noodzakelijk is om spelers snel en effectief te informeren over mogelijk schadeveroorzakend kansspelaanbod.
 
@@ -1966,7 +1991,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrek
 
 5. Het besluit van de raad van bestuur tot het uitvaardigen van een openbare waarschuwing als bedoeld in het derde lid vermeldt behalve de naam van de vergunninghouder in ieder geval het mogelijk schadeveroorzakend kansspelaanbod, de inhoud van de openbaarmaking, de gronden waarop het besluit berust alsmede de wijze waarop en de termijn waarna de openbare waarschuwing zal worden uitgevaardigd.
 
-#### Artikel 35f
+##### Artikel 35f
 
 Gegevens die de kansspelautoriteit verkrijgt van andere toezichthoudende instanties en andere overheidsdiensten maakt de raad van bestuur alleen openbaar met toestemming van de desbetreffende instantie of dienst.
 

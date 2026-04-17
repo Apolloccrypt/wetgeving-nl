@@ -1,13 +1,39 @@
 ---
-title: "Dienst- en werktijdenregeling brandweerkorps BES"
+title: "Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 6 oktober 2010, nr. 2010-0000641889, houdende nadere regels met betrekking tot de dienst- en werktijden van de ambtenaren van het brandweerkorps BES en daarmee samenhangende toelagen (Dienst- en werktijdenregeling brandweerkorps BES)"
 identifier: "BWBR0028824"
-categorie: "Overig"
-publicatiedatum: 2010-10-14
-laatste_update: 2010-10-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028824"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2010-10-14"
+last_updated: "2010-10-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028824"
+soort: "ministeriele-regeling-BES"
+stam_id: "11035733"
+version_id: "18029432"
+internal_id: "C25059001"
+label_id: "11010344"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028824/2010-10-14/0"
+intitule_bron: "Stcrt.2010-15872"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-10-06"
+intitule_published: "2010-10-12"
+intitule_in_force: "2010-10-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-15872"
+original_signed_date: "2010-10-06"
+original_published_date: "2010-10-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-15872"
+entry_into_force_date: "2010-10-14"
+jci_1_3: "jci1.3:c:BWBR0028824&z=2010-10-14&g=2010-10-14"
+jci_1_0: "1.0:c:BWBR0028824&g=2010-10-14"
+citeertitel_status: "officieel"
+short_title: "Dienst- en werktijdenregeling brandweerkorps BES"
+signed_date: "2010-10-06"
+entry_into_force: "2010-10-14"
 ---
-
 # Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 6 oktober 2010, nr. 2010-0000641889, houdende nadere regels met betrekking tot de dienst- en werktijden van de ambtenaren van het brandweerkorps BES en daarmee samenhangende toelagen (Dienst- en werktijdenregeling brandweerkorps BES)
 
 Gelet op [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028723&artikel=4), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0028723&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0028723&artikel=9), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0028723&artikel=10) en [12 van het Dienst- en werktijdenbesluit brandweerkorps BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028723&artikel=12) en [artikel 13 van het Besluit rechtspositie vrijwillige brandweerambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028587&artikel=13);
@@ -16,7 +42,7 @@ Besluit:
 
 #### **Algemene bepalingen**
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -26,11 +52,11 @@ In deze regeling wordt verstaan onder:
 
 #### **Dienstrooster**
 
-#### Artikel 2
+##### Artikel 2
 
 Wijziging van een voor de ambtenaar geldend dienstrooster kan, behoudens het bepaalde in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028824&artikel=6&z=2010-10-14&g=2010-10-14) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0028824&artikel=7&z=2010-10-14&g=2010-10-14) van deze regeling en de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028723&artikel=5) en [6 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028723&artikel=6) slechts geschieden op verzoek van de ambtenaar of om dringende redenen van dienstbelang waarbij zoveel mogelijk rekening wordt gehouden met de wensen van de ambtenaar. Een wijziging uit dienstbelang dient behoudens bijzondere omstandigheden, uiterlijk tweemaal 12 uren vóór de aanvang van de te verrichten dienst ter kennis van de ambtenaar te zijn gebracht.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Voor de ambtenaar die niet in wachtdienst werkzaam is, geldt dat de dienst nadat maximaal vijf uren werk is verricht, door een pauze van een uur wordt onderbroken, gedurende welke de ambtenaar in de gelegenheid wordt gesteld naar behoren zijn maaltijd te nuttigen. Indien om dringende redenen van dienstbelang de werktijd niet door een pauze zoals voornoemd kan worden onderbroken, wordt in ieder geval aan de ambtenaar gelegenheid gegeven zijn maaltijd te nuttigen gedurende maximaal 10 minuten. De werktijd van de ambtenaar wordt in het laatstbedoelde geval op die dag verminderd met een aaneengesloten tijd van 1 uur.
 
@@ -38,21 +64,21 @@ Wijziging van een voor de ambtenaar geldend dienstrooster kan, behoudens het bep
 
 #### **Rustdagen**
 
-#### Artikel 4
+##### Artikel 4
 
 Indien voor de ambtenaar, die niet in wachtdienst werkzaam is, het dienstbelang zich verzet tegen toekenning van een rustdag, dan mag deze worden verschoven; in de regel zal het voornemen daartoe tenminste tweemaal 24 uren vóór de aanvang daarvan aan de ambtenaar worden bekend gemaakt. In dit geval wordt de rustdag zo spoedig mogelijk daarna toegekend, waarbij zoveel mogelijk rekening wordt gehouden met de wensen van de ambtenaar.
 
-#### Artikel 5
+##### Artikel 5
 
 Een rustdag voor de ambtenaar in wachtdienst is een roostervrije dag van 24 aaneengesloten uren.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een extra rustdag, als bedoeld in [artikel 5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028723&artikel=5), is gelijk aan acht arbeidsuren.
 
 2. Voor de ambtenaar die niet het gehele jaar dienst heeft verricht, wegens onder meer vrijstelling van dienst wegens ziekte, worden de extra rustdagen als bedoeld in [artikel 5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028723&artikel=5) verminderd met een gelijk aantal extra rustdagen die aan deze ambtenaar zou worden toegekend, indien hij in voornoemde periode dienst had verricht.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Op de ambtenaar die overgeplaatst wordt naar een functie waar hij in wachtdienst werkzaam zal zijn, wordt vanaf de dag der overplaatsing een tegoed aan extra rustdagen toegekend gelijk aan het aantal in dat jaar nog komende feestdagen waarbij rekening wordt gehouden met het bepaalde in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028824&artikel=6&z=2010-10-14&g=2010-10-14), dat hierop van toepassing is.
 
@@ -70,7 +96,7 @@ Een rustdag voor de ambtenaar in wachtdienst is een roostervrije dag van 24 aane
 
 #### **Paraatheidstoelage**
 
-#### Artikel 8
+##### Artikel 8
 
 1. In beginsel wordt het ter beschikking zijn, als bedoeld in [artikel 7 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028723&artikel=7), vergoed door toekenning door de lokaal commandant van vrije tijd, mits deze vrije tijd kan worden genoten in de maand waarin de ambtenaar paraat was of in de daaropvolgende maand. De paraatheidstoelage bedoeld in de vorige zin wordt maandelijks vergoed naar reden van het bedrag, genoemd in de bijlage, omgerekend in uren. Voornoemde uren worden genoten ongeacht het aantal dagen waarop de ambtenaar paraat was.
 
@@ -96,7 +122,7 @@ Een rustdag voor de ambtenaar in wachtdienst is een roostervrije dag van 24 aane
 
 8. Onze Minister kan bepalen dat de paraatheidstoelage zal worden toegekend naar ratio van de daadwerkelijke uren waarop de ambtenaar paraat is geweest, met dien verstande dat dit de overheid niet meer mag kosten dan de huidige regeling opgenomen in het eerste en tweede lid.
 
-#### Artikel 9
+##### Artikel 9
 
 1. In geval van buitengewone omstandigheden kan door de lokaal commandant aan de ambtenaren worden opgedragen dat zij zich gedurende een bepaalde tijd boven de voor hen vastgestelde werktijd ter beschikking van het brandweerkorps dienen te houden in hun woning dan wel in een dienstgebouw of een andere daartoe aangewezen lokaliteit of plaats.
 
@@ -106,7 +132,7 @@ Een rustdag voor de ambtenaar in wachtdienst is een roostervrije dag van 24 aane
 
 #### **Continudiensttoelage**
 
-#### Artikel 10
+##### Artikel 10
 
 1. De ambtenaar die niet in vol- dan wel halfcontinudienst werkzaam is, wordt, ingeval hij tijdelijk in een werkrooster als bedoeld in [artikel 8 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028723&artikel=8) wordt ingedeeld, voor de duur van die indeling geacht in vol- dan wel halfcontinudienst werkzaam te zijn.
 
@@ -116,7 +142,7 @@ Een rustdag voor de ambtenaar in wachtdienst is een roostervrije dag van 24 aane
 
 4. [Artikel 8, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028824&artikel=8&z=2010-10-14&g=2010-10-14), is van overeenkomstige toepassing op de ambtenaar die in aanmerking komt voor een continudiensttoelage.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De hoogte van de meerurentoelage is vastgesteld in de bijlage.
 
@@ -128,7 +154,7 @@ Een rustdag voor de ambtenaar in wachtdienst is een roostervrije dag van 24 aane
 
 #### **Vakantie en snipperdagen en vrijstelling van dienst in verband met bijzondere omstandigheden ambtenaar in wachtdienst**
 
-#### Artikel 12
+##### Artikel 12
 
 1. Aan de ambtenaar wordt een gelijk aantal arbeidsuren vakantie verleend als het aantal vakantie-uren waarop hij ingevolge het [Besluit vakantie en vrijstelling van dienst ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028606), aanspraak heeft.
 
@@ -136,7 +162,7 @@ Een rustdag voor de ambtenaar in wachtdienst is een roostervrije dag van 24 aane
 
 3. Vakantie- en snipperdagen worden schriftelijk verleend, waarbij zoveel mogelijk rekening wordt gehouden met de belangen van de ambtenaar.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Ter uitvoering van [artikel 26, eerste lid, van het Besluit vakantie en vrijstelling van dienst ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&artikel=26), wordt voor de ambtenaar in wachtdienst voor onderstaande gelegenheden op onderstaande wijze vrijstelling van dienst verleend. De vrijstelling van dienst wordt verleend indien de onderstaande gelegenheden plaatsvinden op de dag dat de betrokken ambtenaar zijn dienst zou aanvangen tenzij anders bepaald in dit artikel:
 
@@ -170,7 +196,7 @@ Een rustdag voor de ambtenaar in wachtdienst is een roostervrije dag van 24 aane
 
 #### **Administratieve bepalingen**
 
-#### Artikel 14
+##### Artikel 14
 
 1. Na afloop van elke kalendermaand worden bij de lokaal commandant of de door hem aangewezen functionaris de op naam gestelde opgaven ingediend van de ambtenaren, die in aanmerking komen voor overwerk, vergoeding of toelagen als bedoeld in dit besluit, alsmede de inhoudingen.
 
@@ -184,11 +210,11 @@ Een rustdag voor de ambtenaar in wachtdienst is een roostervrije dag van 24 aane
 
 #### **Slotbepalingen**
 
-#### Artikel 15
+##### Artikel 15
 
 Deze regeling treedt in werking met ingang van de dag waarop het Wijzigingsbesluit Dienst- en werktijdenbesluit brandweerkorps BES in werking treedt. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgeven na dat tijdstip, treedt deze regeling in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt zij terug tot het in de eerste volzin bedoelde tijdstip.
 
-#### Artikel 16
+##### Artikel 16
 
 Deze regeling kan worden aangehaald als: Dienst- en werktijdenregeling brandweerkorps BES.
 

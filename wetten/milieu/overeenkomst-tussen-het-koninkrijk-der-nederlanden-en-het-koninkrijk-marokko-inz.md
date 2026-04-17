@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Marokko inzake luchtvervoer"
 identifier: "BWBV0005033"
-categorie: "Milieu"
-publicatiedatum: 1961-01-01
-laatste_update: 1961-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005033"
+country: "nl"
+rank: "verdrag"
+publication_date: "1961-01-01"
+last_updated: "1961-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005033"
+soort: "verdrag"
+stam_id: "10004440253"
+version_id: "10004647142"
+internal_id: "C10007179461"
+label_id: "10004425424"
+dtd_version: "2.0"
+original_entry_into_force: "1961-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005033/1961-01-01/0"
+intitule_bron: "Trb.1959-143"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1959-10-10"
+intitule_in_force: "1961-01-13"
+intitule_status: "goed"
+original_publication: "Trb.1959-143"
+original_published_date: "1959-10-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1959-143"
+entry_into_force_date: "1961-01-01"
+jci_1_3: "jci1.3:c:BWBV0005033&z=1961-01-01&g=1961-01-01"
+jci_1_0: "1.0:c:BWBV0005033&g=1961-01-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1961-01-01"
 ---
-
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Marokko inzake luchtvervoer
 
 De Regering van Hare Majesteit de Koningin der Nederlanden,
@@ -36,7 +58,7 @@ het volgende zijn overeengekomen.
 
 ### HOOFDSTUK I. Algemene Bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van deze Overeenkomst:
 
@@ -56,15 +78,15 @@ Voor de toepassing van deze Overeenkomst:
 
 - d). zullen de uitdrukkingen „Boorduitrusting”, „proviand” en „reserveonderdelen” worden verstaan in de zin van de definities welke in Bijlage 9 bij het Verdrag voorkomen.
 
-#### Artikel 2
+##### Artikel 2
 
 De Overeenkomstsluitende Partijen verlenen elkaar wederkerig de in deze Overeenkomst omschreven rechten met het oog op de vestiging van de internationale luchtverbindingen, vermeld in de hierbijgevoegde Bijlage.
 
-#### Artikel 3
+##### Artikel 3
 
 De bewijzen van luchtwaardigheid en de bewijzen van bevoegdheid, uitgereikt of geldig verklaard door een Overeenkomstsluitende Partij en welke nog geldig zijn, zullen door de andere Overeenkomstsluitende Partij als geldig worden erkend voor de exploitatie van de overeengekomen diensten. Elke Overeenkomstsluitende Partij behoudt zich evenwel het recht voor, voor vluchten boven haar grondgebied de erkenning van de bewijzen van bevoegdheid welke aan haar eigen onderdanen zijn uitgereikt door de andere Overeenkomstsluitende Partij, te weigeren.
 
-#### Artikel 4
+##### Artikel 4
 
 1). Elke Overeenkomstsluitende Partij behoudt zich de bevoegdheid voor een exploitatievergunning aan een door de andere Overeenkomstsluitende Partij aangewezen maatschappij te weigeren of deze in te trekken, wanneer zij er niet van overtuigd is, dat een overwegend deel van de eigendom en het daadwerkelijk toezicht op die maatschappij berusten bij die andere Overeenkomstsluitende Partij of haar onderdanen.
 
@@ -72,13 +94,13 @@ De bewijzen van luchtwaardigheid en de bewijzen van bevoegdheid, uitgereikt of g
 
 Zodanige bevoegdheden zullen evenwel niet uitgeoefend mogen worden dan na overleg met de andere Overeenkomstsluitende Partij, tenzij het schorsen of het stellen van voorwaarden, zoals hierboven voorzien, noodzakelijk is om nieuwe inbreuken op de wetten en voorschriften te voorkomen.
 
-#### Artikel 5
+##### Artikel 5
 
 1). De wetten en voorschriften welke op het grondgebied van een Overeenkomstsluitende Partij de binnenkomst, het verblijf en het vertrek van de in internationale luchtvaart gebruikte vliegtuigen of de vluchten van die vliegtuigen boven dat grondgebied regelen, zullen van toepassing zijn op de vliegtuigen van de door de andere Overeenkomstsluitende Partij aangewezen maatschappijen.
 
 2). De wetten en voorschriften welke op het grondgebied van een Overeenkomstsluitende Partij de binnenkomst, het verblijf en het vertrek regelen van passagiers, bemanningsleden, postzendingen en goederen, zoals die welke betrekking hebben op de toelatings-, vestigings- en uitreisformaliteiten, de paspoorten, de douane en de quarantaine, zullen van toepassing zijn op de passagiers, bemanningsleden, postzendingen en goederen, welke door de vliegtuigen van de door de andere Overeenkomstsluitende Partij aangewezen maatschappijen worden vervoerd zolang deze zich op dat grondgebied zullen bevinden.
 
-#### Artikel 6
+##### Artikel 6
 
 Teneinde elke bevoorrechting te voorkomen en een volkomen gelijkheid van behandeling te verzekeren verbindt elk der Overeenkomstsluitende Partijen zich tot het volgende:
 
@@ -92,7 +114,7 @@ Teneinde elke bevoorrechting te voorkomen en een volkomen gelijkheid van behande
 
 - c). de aldus vrijgestelde voorraden zullen niet gelost mogen worden dan met toestemming van de douaneautoriteiten van de belanghebbende Overeenkomstsluitende Partij. Zij zullen, onder douanetoezicht, ter beschikking blijven van de aangewezen maatschappijen totdat ze weer worden uitgevoerd.
 
-#### Artikel 7
+##### Artikel 7
 
 Indien een Overeenkomstsluitende Partij het wenselijk acht enige bepaling van deze Overeenkomst of haar Bijlage te wijzigen, zullen de Luchtvaartautoriteiten van de Overeenkomstsluitende Partijen daartoe overleg plegen; dit overleg zal moeten plaats hebben binnen dertig (30) dagen na de datum van het verzoek daartoe.
 
@@ -100,11 +122,11 @@ Indien genoemde autoriteiten tot overeenstemming komen inzake de in de Overeenko
 
 Voor de wijzigingen van de Bijlagen is geen diplomatieke notawisseling vereist; de datum waarop zij van kracht worden zal in gemeenschappelijk overleg tussen de Luchtvaartautoriteiten van beide Overeenkomstsluitende Partijen worden vastgesteld.
 
-#### Artikel 8
+##### Artikel 8
 
 In een geest van nauwe samenwerking zullen de Luchtvaartautoriteiten van de Overeenkomstsluitende Partijen op verzoek van een van hen overleg plegen, teneinde zich er van te verzekeren, dat de in deze Overeenkomst omschreven beginselen worden toegepast en dat de doelstellingen ervan op een bevredigende wijze worden verwezenlijkt.
 
-#### Artikel 9
+##### Artikel 9
 
 1). De Overeenkomstsluitende Partijen zullen ieder geschil inzake de uitlegging of de toepassing van deze Overeenkomst door middel van directe onderhandelingen tussen de Luchtvaartautoriteiten regelen.
 
@@ -122,27 +144,27 @@ Indien binnen twee maanden nadat een van beide Overeenkomstsluitende Partijen de
 
 6). Elke Overeenkomstsluitende Partij zal de vergoeding voor de werkzaamheden van haar scheidsrechter op zich nemen en de helft van de vergoeding van de aangewezen voorzitter.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze Overeenkomst en haar Bijlagen zullen aangepast moeten worden aan iedere multilaterale overeenkomst, welke beide Overeenkomstsluitende Partijen eventueel zal binden.
 
-#### Artikel 11
+##### Artikel 11
 
 Elke Overeenkomstsluitende Partij zal te allen tijde aan de andere Overeenkomstsluitende Partij kennis kunnen geven van haar wens om deze Overeenkomst te beëindigen. Een zodanige kennisgeving zal tegelijkertijd worden gedaan aan de Internationale Burgerluchtvaartorganisatie.
 
 De Overeenkomst zal een einde nemen twaalf (12) maanden na de datum van ontvangst van de kennisgeving door de andere Overeenkomstsluitende Partij, tenzij deze kennisgeving in gemeenschappelijk overleg voor het einde van die termijn wordt ingetrokken. In geval de Overeenkomstsluitende Partij welke een dergelijke kennisgeving ontvangt, de ontvangst daarvan niet bevestigt, zal die kennisgeving geacht worden te zijn ontvangen veertien (14) dagen na ontvangst daarvan door de Internationale Burgerluchtvaartorganisatie.
 
-#### Artikel 12
+##### Artikel 12
 
 Deze Overeenkomst en haar Bijlage zullen worden medegedeeld aan de Internationale Burgerluchtvaartorganisatie.
 
 ### HOOFDSTUK II. Overeengekomen Diensten
 
-#### Artikel 13
+##### Artikel 13
 
 De Regering van het Koninkrijk der Nederlanden verleent aan de Regering van het Koninkrijk Marokko en wederkerig verleent de Regering van het Koninkrijk Marokko aan de Regering van het Koninkrijk der Nederlanden het recht om door een of meer door hun onderscheiden Regeringen aangewezen maatschappijen de luchtdiensten te doen exploiteren, welke zijn omschreven in de routetabellen voorkomende in de Bijlage bij deze Overeenkomst. Deze diensten zullen verder worden aangeduid met de uitdrukking „overeengekomen diensten”.
 
-#### Artikel 14
+##### Artikel 14
 
 De door de Regering van het Koninkrijk der Nederlanden overeenkomstig deze Overeenkomst aangewezen maatschappij of maatschappijen zal of zullen op het grondgebied van Marokko het recht genieten om in internationaal verkeer passagiers, post en goederen op te nemen of af te zetten bij de landingen en op de Nederlandse routes, vermeld in de hierbijgevoegde Bijlage.
 
@@ -150,7 +172,7 @@ De door de Regering van het Koninkrijk van Marokko overeenkomstig deze Overeenko
 
 De door een Overeenkomstsluitende Partij aangewezen maatschappij of maatschappijen zal of zullen op het grondgebied van de andere Overeenkomstsluitende Partij bovendien het recht genieten om over te vliegen en er technische landingen te maken; zij zullen ook van de luchthavens en andere faciliteiten voor internationaal verkeer gebruik kunnen maken.
 
-#### Artikel 15
+##### Artikel 15
 
 1). De door elk van beide Overeenkomstsluitende Partijen aangewezen maatschappijen zullen verzekerd moeten zijn van een billijke en rechtvaardige behandeling teneinde gelijke mogelijkheden te hebben bij de exploitatie van de overeengekomen diensten.
 
@@ -164,13 +186,13 @@ De door een Overeenkomstsluitende Partij aangewezen maatschappij of maatschappij
 
 4). Wat betreft de overeengekomen diensten welke tussen de grondgebieden van beide Overeenkomstsluitende Partijen worden geëxploiteerd, zal besloten moeten worden tot een verdeling van de in te zetten capaciteit tussen de aangewezen maatschappijen van beide landen.
 
-#### Artikel 16
+##### Artikel 16
 
 De tussen de aangewezen maatschappijen overeengekomen exploitatieregelingen zullen de goedkeuring behoeven van de beide luchtvaartautoriteiten, die zich in het bijzonder zullen baseren op de statistieken welke zij op zich nemen geregeld aan elkaar mede te delen.
 
 De aangewezen maatschappijen zullen tenminste een maand voor de aanvang van elke exploitatieperiode de typen vliegtuigen, de frequenties en de voorgenomen dienstregelingen kenbaar moeten maken. Latere wijzigingen zullen twee weken voor zij ingaan moeten worden ingediend.
 
-#### Artikel 17
+##### Artikel 17
 
 1). De overeengekomen diensten zullen in exploitatie genomen kunnen worden op voorwaarde dat:
 
@@ -180,7 +202,7 @@ De aangewezen maatschappijen zullen tenminste een maand voor de aanvang van elke
 
 2). Alvorens gemachtigd te worden om de overeengekomen diensten te openen zal van de aangewezen maatschappijen evenwel verlangd kunnen worden, dat zij ten overstaan van de luchtvaartautoriteiten van de Overeenkomstsluitende Partij welke de rechten verleent aantonen, dat zij in staat zijn te voldoen aan de voorwaarden welke zijn voorgeschreven door de wetten en voorschriften die gewoonlijk door die autoriteiten worden toegepast ten aanzien van de exploitatie van internationale luchtdiensten.
 
-#### Artikel 18
+##### Artikel 18
 
 1). De vaststelling van de tarieven welke toegepast zullen worden op de overeengekomen diensten voorkomende in deze Overeenkomst, zal in eerste instantie geschieden in gemeenschappelijk overleg tussen de aangewezen maatschappijen, rekening houdende met alle in aanmerking komende factoren, daaronder begrepen de economische exploitatie, een normale winst en de verschillen in de hoedanigheden van de dienst.
 
@@ -196,15 +218,15 @@ Die maatschappijen zullen tot een tarief komen:
 
 ### SLOTBEPALING
 
-#### Artikel 19
+##### Artikel 19
 
 Deze Overeenkomst zal voorlopig worden toegepast van de datum van ondertekening af; zij zal in werking treden op een datum welke zal worden vastgelegd in een diplomatieke notawisseling waarin wordt vermeld, dat aan de door de nationale wetgeving van elk der Overeenkomstsluitende Partijen vereiste formaliteiten is voldaan.
 
-#### I. **Nederlandse Routes:**
+##### I. **Nederlandse Routes:**
 
 Punten in Nederland, Brussel of Luxemburg, Duitsland of Zwitserland, Casablanca of Tanger, naar Liberia, Nigeria, Frans Equatoriaal Afrika, Belgisch Congo, Portugees West-Afrika.
 
-#### II. **Marokkaanse Routes:**
+##### II. **Marokkaanse Routes:**
 
 Punten in Marokko, Parijs, Brussel, Duitsland of Zwitserland, Amsterdam naar Denemarken, Zweden, Noorwegen, Finland.
 

@@ -1,13 +1,35 @@
 ---
 title: "Langlopende Overeenkomst inzake economische, industriële en technische samenwerking tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Socialistische Republiek Roemenië"
 identifier: "BWBV0003867"
-categorie: "Internationaal recht"
-publicatiedatum: 1976-04-01
-laatste_update: 1976-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003867"
+country: "nl"
+rank: "verdrag"
+publication_date: "1976-04-01"
+last_updated: "1976-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003867"
+soort: "verdrag"
+stam_id: "10003754093"
+version_id: "10003817142"
+internal_id: "C10006983071"
+label_id: "10003739104"
+dtd_version: "2.0"
+original_entry_into_force: "1976-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003867/1976-04-01/0"
+intitule_bron: "Trb.1975-59"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1975-06-11"
+intitule_in_force: "1976-04-13"
+intitule_status: "goed"
+original_publication: "Trb.1975-59"
+original_published_date: "1975-06-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1975-59"
+entry_into_force_date: "1976-04-01"
+jci_1_3: "jci1.3:c:BWBV0003867&z=1976-04-01&g=1976-04-01"
+jci_1_0: "1.0:c:BWBV0003867&g=1976-04-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1976-04-01"
 ---
-
 # Langlopende Overeenkomst inzake economische, industriële en technische samenwerking tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Socialistische Republiek Roemenië
 
 De Regering van het Koninkrijk der Nederlanden en de Regering van de Socialistische Republiek Roemenië:
@@ -22,23 +44,23 @@ erkennende het nut van langlopende overeenkomsten die de grondslagen kunnen legg
 
 Zijn overeengekomen als volgt:
 
-#### Artikel 1
+##### Artikel 1
 
 De Overeenkomstsluitende Partijen verbinden zich ertoe de ontwikkeling van de economische, industriële en technische samenwerking tussen de beide landen te bevorderen ten einde te zamen bij te dragen tot de vooruitgang van hun economische betrekkingen.
 
 In dit verband zijn de Overeenkomstsluitende Partijen het erover eens dat het van belang is het de ondernemingen en economische organisaties van hun landen te vergemakkelijken zoveel mogelijk gebruik te maken van de mogelijkheden tot samenwerking in het kader van alle bestaande of voorgenomen plannen of projecten in hun landen.
 
-#### Artikel 2
+##### Artikel 2
 
 De Overeenkomstsluitende Partijen streven ernaar binnen de grenzen van hun mogelijkheden en met inachtneming van de rechten en plichten die zij als leden van de GATT hebben, met inbegrip van de clausule inzake de wederzijdse toekenning van de status van meestbegunstigde natie, mogelijkheden te scheppen voor de uitwerking en de verwezenlijking van projecten voor samenwerking en om beiderzijds de toegang tot de markt voor de ondernemingen, organisaties en instellingen te vergemakkelijken.
 
-#### Artikel 3
+##### Artikel 3
 
 De Overeenkomstsluitende Partijen verbinden zich ertoe de ontwikkeling van de economische, industriële en technische samenwerking op alle terreinen van het economische leven van hun landen en in het bijzonder op dat van de industrie, de landbouw, de dienstverlening en de handel, op basis van wederzijds voordeel te bevorderen. De gebieden waarop met name kan worden samengewerkt, worden in de bijlage bij deze Overeenkomst vermeld.
 
 Bij het overeenkomen en het uitvoeren van het streven naar samenwerking worden in overweging genomen het economisch potentieel van beide Partijen, de hulpbronnen en noodzakelijke behoeften aan uitrustingen, machines, consumptiegoederen, technische werkwijzen en grondstoffen alsmede de afzetmogelijkheden voor de uit de samenwerking voortgekomen produkten.
 
-#### Artikel 4
+##### Artikel 4
 
 De samenwerking kan met name de volgende vormen aannemen:
 
@@ -54,37 +76,37 @@ De samenwerking kan met name de volgende vormen aannemen:
 
 - -. uitwisseling op het gebied van normalisering, metrologie, onderzoek en beproeving van materialen.
 
-#### Artikel 5
+##### Artikel 5
 
 Beide Partijen moedigen initiatieven aan tot het sluiten van contracten en overeenkomsten, in het kader van deze Overeenkomst, tussen Nederlandse ondernemingen en organisaties enerzijds en Roemeense ondernemingen en organisaties anderzijds en vergemakkelijken de uitvoering daarvan op grond van wederzijds belang.
 
 Met het oog op een betere kennis van elkaar, achten de Overeenkomstsluitende Partijen het nuttig de rechtstreekse contacten tussen de ondernemingen en de bevoegde economische organisaties van hun landen, die verantwoordelijk zijn voor de praktische verwezenlijking van de economische, industriële en technische samenwerking, te vergemakkelijken.
 
-#### Artikel 6
+##### Artikel 6
 
 De Overeenkomstsluitende Partijen steunen de samenwerking van de ondernemingen en organisaties van hun landen op markten van derde landen, zulks met inbegrip van de oprichting van gemengde ondernemingen.
 
-#### Artikel 7
+##### Artikel 7
 
 In hun wederzijds belang kunnen de Overeenkomstsluitende Partijen eventueel bijzondere overeenkomsten sluiten die de economische, industriële en technische samenwerking zouden kunnen bevorderen.
 
-#### Artikel 8
+##### Artikel 8
 
 Ten einde aan beide zijden een beter inzicht te geven in de mogelijkheden om de economische, industriële en technische samenwerking te ontwikkelen, stimuleren en vergemakkelijken de Overeenkomstsluitende Partijen binnen de grenzen van hun mogelijkheden de deelname van ondernemingen en organisaties van hun onderscheiden landen aan jaarbeurzen en tentoonstellingen die op hun grondgebied worden georganiseerd.
 
-#### Artikel 9
+##### Artikel 9
 
 Gezien het belang van de financiering, waaronder begrepen het toekennen van kredieten voor de ontwikkeling van de economische, industriële en technische samenwerking, streven de Overeenkomstsluitende Partijen ernaar, dat deze financieringen en kredieten op de gunstigste voorwaarden worden toegekend, binnen het kader van de in hun landen geldende voorschriften.
 
-#### Artikel 10
+##### Artikel 10
 
 De betalingen betreffende de goederen en diensten die vallen onder de voorwaarden van deze Overeenkomst, worden verricht in inwisselbare valuta overeenkomstig de Betalingsovereenkomst ondertekend te Boekarest op 30 september 1960.
 
-#### Artikel 11
+##### Artikel 11
 
 Contracten tussen de op de onderscheiden grondgebieden van de Overeenkomstsluitende Partijen gevestigde organisaties en ondernemingen, die ten doel hebben de verwezenlijking van de economische, industriële en technische samenwerking te verzekeren, worden gesloten overeenkomstig de in de onderscheiden landen van kracht zijnde wetten en voorschriften.
 
-#### Artikel 12
+##### Artikel 12
 
 Ten einde de uitvoering van deze Overeenkomst te bevorderen besluiten de Overeenkomstsluitende Partijen een Gemengde Regeringscommissie in te stellen.
 
@@ -104,11 +126,11 @@ De Commissie is bevoegd:
 
 - -. aan de Overeenkomstsluitende Partijen alle voorstellen te doen ter bevordering van de doelstellingen van deze Overeenkomst. De Commissie kan groepen voor de verschillende sectoren instellen waaraan specifieke problemen van de economische, industriële en technische samenwerking worden toevertrouwd.
 
-#### Artikel 13
+##### Artikel 13
 
 Wat het Koninkrijk der Nederlanden betreft, is deze Overeenkomst van toepassing op het in Europa gelegen grondgebied van het Koninkrijk, op Suriname en de Nederlandse Antillen, behoudens een tegengestelde kennisgeving van de Regering van het Koninkrijk der Nederlanden namens de Regering van Suriname en/of de Nederlandse Antillen, aan de Regering van de Socialistische Republiek Roemenië een maand na de inwerkingtreding van deze Overeenkomst.
 
-#### Artikel 14
+##### Artikel 14
 
 Deze Overeenkomst wordt gesloten voor een tijdvak van 10 jaren en treedt in werking vanaf het tijdstip van wederzijdse kennisgeving door de Overeenkomstsluitende Partijen van de vervulling der formaliteiten die door hun onderscheiden wetgevingen worden vereist.
 
@@ -120,11 +142,11 @@ Wanneer een zodanige kennisgeving niet is gedaan, wordt deze Overeenkomst verlen
 
 Met inachtneming van de in de derde en vierde alinea van dit artikel bepaalde termijn, kan de toepassing van deze Overeenkomst door de Regering van het Koninkrijk der Nederlanden worden beperkt tot een of meer van de in artikel 13 bedoelde delen van het Koninkrijk der Nederlanden.
 
-#### Artikel 15
+##### Artikel 15
 
 Indien de Overeenkomst zou worden beëindigd, laat dit de verbintenissen en contracten die tussen de ondernemingen en de organisaties van de beide Overeenkomstsluitende Partijen zijn gesloten of worden uitgevoerd, onverlet.
 
-#### Artikel 16
+##### Artikel 16
 
 Deze Overeenkomst heeft geen gevolgen voor de bilaterale en multilaterale overeenkomsten en verdragen die tevoren zijn gesloten door het Koninkrijk der Nederlanden en door de Socialistische Republiek Roemenië.
 

@@ -1,13 +1,36 @@
 ---
 title: "Aanpassing vergoeding materiële instandhouding (MI) basisscholen als gevolg van groei (2004)"
 identifier: "BWBR0016276"
-categorie: "Bestuursrecht"
-publicatiedatum: 2004-01-28
-laatste_update: 2004-01-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0016276"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2004-01-28"
+last_updated: "2004-01-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0016276"
+soort: "beleidsregel"
+stam_id: "6469223"
+version_id: "11146622"
+internal_id: "C15066161"
+label_id: "6457974"
+original_entry_into_force: "2004-01-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0016276/2004-01-28/0"
+intitule_bron: "Uitleg.2004-2"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-01-12"
+intitule_published: "2004-01-28"
+intitule_in_force: "2004-01-28"
+intitule_status: "goed"
+original_publication: "Uitleg.2004-2"
+original_signed_date: "2004-01-12"
+original_published_date: "2004-01-28"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2004-01-28"
+jci_1_3: "jci1.3:c:BWBR0016276&z=2004-01-28&g=2004-01-28"
+jci_1_0: "1.0:c:BWBR0016276&g=2004-01-28"
+citeertitel_status: "redactioneel"
+signed_date: "2004-01-12"
+entry_into_force: "2004-01-28"
 ---
-
 # Aanpassing vergoeding materiële instandhouding (MI) basisscholen als gevolg van groei (2004)
 
 ### 1. Inleiding

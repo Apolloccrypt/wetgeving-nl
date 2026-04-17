@@ -1,24 +1,49 @@
 ---
-title: "Regeling jaarlijkse bijdrage DVB-T"
+title: "Regeling van de Staatssecretaris van Verkeer en Waterstaat, houdende bepalingen met betrekking tot het jaarlijks verschuldigd zijn van een bedrag door de houder van de vergunning voor het gebruik van frequentieruimte voor DVB-T"
 identifier: "BWBR0012704"
-categorie: "Overig"
-publicatiedatum: 2009-07-01
-laatste_update: 2009-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012704"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2009-07-01"
+last_updated: "2009-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012704"
+soort: "ministeriele-regeling"
+stam_id: "4537713"
+version_id: "6344052"
+internal_id: "C6588521"
+label_id: "4516124"
+dtd_version: "2.0"
+original_entry_into_force: "2001-07-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012704/2009-07-01/0"
+intitule_bron: "Stcrt.2001-141"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-07-17"
+intitule_published: "2001-07-25"
+intitule_in_force: "2001-07-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2001-141"
+original_signed_date: "2001-07-17"
+original_published_date: "2001-07-25"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2001-07-27"
+jci_1_3: "jci1.3:c:BWBR0012704&z=2009-07-01&g=2009-07-01"
+jci_1_0: "1.0:c:BWBR0012704&g=2009-07-01"
+citeertitel_status: "officieel"
+short_title: "Regeling jaarlijkse bijdrage DVB-T"
+signed_date: "2001-07-17"
+entry_into_force: "2001-07-27"
 ---
-
 # Regeling van de Staatssecretaris van Verkeer en Waterstaat, houdende bepalingen met betrekking tot het jaarlijks verschuldigd zijn van een bedrag door de houder van de vergunning voor het gebruik van frequentieruimte voor DVB-T
 
 Gelet op [artikel 3.3a, eerste en derde lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.3a);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-#### Artikel 2
+##### Artikel 2
 
 1. De vergunninghouder is met ingang van het zevende jaar na het jaar van vergunningverlening jaarlijks een bedrag verschuldigd als bedoeld in [artikel 3.3a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.3a).
 
@@ -26,7 +51,7 @@ In deze regeling wordt verstaan onder:
 
 3. De netto-omzet, bedoeld in het tweede lid, is gelijk aan de opbrengsten uit levering van goederen en diensten die valt toe te rekenen aan de exploitatie van de vergunning, onder aftrek van kortingen en van over de omzet geheven belastingen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De vergunninghouder verstrekt de minister met ingang van het zesde jaar na het jaar waarin de vergunning is verleend jaarlijks voor 1 juli een financieel overzicht volgens het in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0012704&bijlage=II&z=2009-07-01&g=2009-07-01) bij deze regeling opgenomen model.
 
@@ -36,33 +61,33 @@ In deze regeling wordt verstaan onder:
 
 4. De verklaring wordt opgesteld met inachtneming van het in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0012704&bijlage=III&z=2009-07-01&g=2009-07-01) bij deze regeling opgenomen protocol en overeenkomstig het in die bijlage opgenomen model.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Met ingang van het achtste jaar na het jaar van vergunningverlening stelt de minister binnen twaalf weken na ontvangst van het financiële overzicht het verschuldigde bedrag vast. Indien toepassing is gegeven aan [artikel 18.7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=18.7), wordt deze termijn opgeschort met ingang van de datum waarop de minister nadere inlichtingen vordert, tot de datum van ontvangst van die inlichtingen.
 
 2. De vaststelling geschiedt onder toepassing van [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012704&artikel=2&z=2009-07-01&g=2009-07-01), en op basis van de op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012704&artikel=3&z=2009-07-01&g=2009-07-01) en, voor zover daar toepassing aan is gegeven, [artikel 18.7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=18.7) verstrekte gegevens.
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Tot en met 31 december 2001 wordt in bijlage I het bedrag `€ 45.000.000,-' gelezen als `f 99.166950,-'.
 
-#### Artikel 8
+##### Artikel 8
 
 Na het vervallen van de vergunning zijn de bepalingen van deze regeling ten aanzien van het verstrekken van gegevens en het betalen van het verschuldigde bedrag nog gedurende een jaar van toepassing op de vergunninghouder.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling jaarlijkse bijdrage DVB-T.
 
@@ -104,7 +129,7 @@ het afdrachtvrije bedrag wordt met ingang van het jaar volgend op jaar B, jaarli
 
 ## Bijlage III
 
-#### 1. Inleiding
+##### 1. Inleiding
 
 1.1. Dit controleprotocol heeft betrekking op het aan de Minister van Verkeer en Waterstaat (V&W) te verstrekken financieel overzicht over de exploitatie van de vergunning. Het financieel overzicht wordt gehanteerd bij het bepalen van de door de vergunninghouder behaalde omzet die valt toe te rekenen aan de exploitatie van de vergunning.
 
@@ -114,13 +139,13 @@ het afdrachtvrije bedrag wordt met ingang van het jaar volgend op jaar B, jaarli
 
 a. **minister:** de Minister van Verkeer en Waterstaat; b. **exploitatie van de vergunning:** elk economisch gebruik van de vergunning door de vergunninghouder of door hem toegelaten anderen; c. **financieel overzicht:** het door de vergunninghouder aan de minister te verstrekken financieel overzicht inzake de exploitatie van de vergunning, opgesteld overeenkomstig het in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0012704&bijlage=II&z=2009-07-01&g=2009-07-01) van deze regeling opgenomen model; d. **derde-accountant:** een accountant die bij het financieel overzicht als bedoeld onder c een accountantsverklaring verstrekt.
 
-#### 2. Algemene uitgangspunten voor de controle
+##### 2. Algemene uitgangspunten voor de controle
 
 2.1. De controle van het financieel overzicht betreft enerzijds de getrouwe weergave van de exploitatie van de vergunning in het betreffende boekjaar, en anderzijds de rechtmatigheid; hierbij wordt van de derde-accountant verwacht dat hij de naleving van de relevante regelgeving toetst. Deze regelgeving bestaat uit de Telecommunicatiewet, deze regeling en het frequentieplan voor zover dat betrekking heeft op DVB-T.
 
 2.2. Ten aanzien van de uitvoering van de controle van het financieel overzicht geldt een tolerantie van 1% van de in het financieel overzicht opgenomen opbrengsten, met een maximum tolerantie van € 45.378,02.
 
-#### 3. Specifieke vereisten
+##### 3. Specifieke vereisten
 
 Bij de uitvoering van de controle van het financieel overzicht dient - met inachtneming van de onder punt 2 genoemde uitgangspunten - door de derde-accountant te worden vastgesteld dat aan de volgende specifieke vereisten is voldaan:
 
@@ -132,7 +157,7 @@ Bij de uitvoering van de controle van het financieel overzicht dient - met inach
 
 - 4. Het financieel overzicht waarin de netto-omzet is verantwoord is opgesteld overeenkomstig het model, zoals opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0012704&bijlage=II&z=2009-07-01&g=2009-07-01) in de Regeling jaarlijkse bijdrage DVB-T.
 
-#### Accountantsverklaring
+##### Accountantsverklaring
 
 In het kader van de controle, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012704&artikel=3&z=2009-07-01&g=2009-07-01), van de Regeling jaarlijkse bijdrage DVB-T hebben we het in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012704&artikel=3&z=2009-07-01&g=2009-07-01), van die regeling bedoelde financiële overzicht over het boekjaar...... gecontroleerd met inachtneming van het protocol, opgenomen in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0012704&bijlage=III&z=2009-07-01&g=2009-07-01) bij bedoelde regeling.
 

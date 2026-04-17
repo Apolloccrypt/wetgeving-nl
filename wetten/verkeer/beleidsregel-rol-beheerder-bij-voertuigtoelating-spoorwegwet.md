@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregel rol beheerder bij voertuigtoelating Spoorwegwet"
+title: "Beleidsregel van de Staatssecretaris van Infrastructuur en Waterstaat, van 30 juli 2019, nr. ILT- 2019/41462 over de rol van de beheerder bij de beoordeling van de infrastructuurcompatibiliteit in het kader van de toelating van spoorvoertuigen (Beleidsregel rol beheerder bij voertuigtoelating Spoorwegwet)"
 identifier: "BWBR0042483"
-categorie: "Verkeer"
-publicatiedatum: 2019-08-07
-laatste_update: 2019-08-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042483"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2019-08-07"
+last_updated: "2019-08-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042483"
+soort: "beleidsregel"
+stam_id: "15137133"
+version_id: "25958432"
+internal_id: "C36975621"
+label_id: "15084824"
+dtd_version: "2.0"
+original_entry_into_force: "2019-08-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042483/2019-08-07/0"
+intitule_bron: "Stcrt.2019-44502"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-07-30"
+intitule_published: "2019-08-06"
+intitule_in_force: "2019-08-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-44502"
+original_signed_date: "2019-07-30"
+original_published_date: "2019-08-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-44502"
+entry_into_force_date: "2019-08-07"
+jci_1_3: "jci1.3:c:BWBR0042483&z=2019-08-07&g=2019-08-07"
+jci_1_0: "1.0:c:BWBR0042483&g=2019-08-07"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel rol beheerder bij voertuigtoelating Spoorwegwet"
+signed_date: "2019-07-30"
+entry_into_force: "2019-08-07"
 ---
-
 # Beleidsregel van de Staatssecretaris van Infrastructuur en Waterstaat, van 30 juli 2019, nr. ILT- 2019/41462 over de rol van de beheerder bij de beoordeling van de infrastructuurcompatibiliteit in het kader van de toelating van spoorvoertuigen (Beleidsregel rol beheerder bij voertuigtoelating Spoorwegwet)
 
 Gelet op de [artikelen 26f](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26f), [26h](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26h), [26i](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26i) en [26k tot en met 26n van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26k),
 
 Besluit
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 - **eenloketsysteem:** informatie- en communicatiesysteem bedoeld in artikel 12 van Verordening (EU) 2016/796;
 
@@ -38,7 +64,7 @@ Besluit
 
 - **vooroverlegdossier:** dossier als bedoeld in artikel 23 van Uitvoeringsverordening (EU) 2018/ 545;
 
-#### Artikel 2. Aanvraag tot vooroverleg
+##### Artikel 2. Aanvraag tot vooroverleg
 
 1. Een aanvraag tot vooroverleg gaat vergezeld van:
 
@@ -58,7 +84,7 @@ Besluit
 
 - b. binnen 15 dagen na het toesturen van de documenten, bedoeld in het derde lid.
 
-#### Artikel 3. Aanvraag voertuigtoelating
+##### Artikel 3. Aanvraag voertuigtoelating
 
 1. Een aanvraag tot voertuigtoelating wordt vergezeld van:
 
@@ -76,7 +102,7 @@ Besluit
 
 - b. binnen 15 dagen na het toesturen van de documenten, bedoeld in het derde lid.
 
-#### Artikel 4. Inhoud infracompatibiliteitsverklaring en visie
+##### Artikel 4. Inhoud infracompatibiliteitsverklaring en visie
 
 1. Een infracompatibiliteitsverklaring betreft in elk geval de volgende onderwerpen: ATB, ERTMS, detectie, stoorstromen en EMC, voor zover deze onderwerpen een relevantie hebben voor de aanvraag.
 
@@ -84,14 +110,14 @@ Besluit
 
 3. Een visie betreft de onderwerpen bedoeld in het eerste lid, voor zover dit mogelijk is gezien de op het moment van verstrekken van de visie beschikbare informatie.
 
-#### Artikel 5. Vertrouwelijkheid
+##### Artikel 5. Vertrouwelijkheid
 
 De ILT verstrekt slechts die gegevens aan de beheerder die zij noodzakelijk acht voor de door de beheerder te verstrekken visie of infracompatibiliteitsverklaring.
 
-#### Artikel 6. Inwerkingtreding
+##### Artikel 6. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze wordt geplaatst.
 
-#### Artikel 7. Citeertitel
+##### Artikel 7. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel rol beheerder bij voertuigtoelating Spoorwegwet.

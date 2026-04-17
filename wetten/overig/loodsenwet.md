@@ -1,14 +1,39 @@
 ---
-title: "Loodsenwet"
+title: "Wet van 7 juli 1988, houdende regels betreffende loodsen"
 identifier: "BWBR0004365"
-categorie: "Overig"
-publicatiedatum: 2022-01-01
-laatste_update: 2022-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004365"
+country: "nl"
+rank: "wet"
+publication_date: "2022-01-01"
+last_updated: "2022-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004365"
+soort: "wet"
+stam_id: "1609503"
+version_id: "28264002"
+internal_id: "C39850791"
+label_id: "1564514"
+dtd_version: "2.0"
+original_entry_into_force: "2022-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004365/2022-01-01/0"
+intitule_bron: "Stb.1988-353"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1988-07-07"
+intitule_status: "goed"
+original_publication: "Stb.2021-617"
+original_signed_date: "2021-12-01"
+original_published_date: "2021-12-17"
+original_effect: "structuurwijziging"
+original_dossier: "35720"
+original_url_id: "stb-2021-617"
+entry_into_force_date: "2022-01-01"
+jci_1_3: "jci1.3:c:BWBR0004365&z=2022-01-01&g=2022-01-01"
+jci_1_0: "1.0:c:BWBR0004365&g=2022-01-01"
+citeertitel_status: "officieel"
+short_title: "Loodsenwet"
+signed_date: "2021-12-01"
+entry_into_force: "2022-01-01"
 ---
-
-# Loodsenwet
+# Wet van 7 juli 1988, houdende regels betreffende loodsen
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -20,7 +45,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -62,7 +87,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### § 1. Algemeen
 
-#### Artikel 2
+##### Artikel 2
 
 1. De loods adviseert aan boord de kapitein of verkeersdeelnemer over de door deze te voeren navigatie.
 
@@ -76,13 +101,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 6. Ter bescherming van de belangen, genoemd in [artikel 3, eerste lid, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=3), worden bij of krachtens algemene maatregel van bestuur voorschriften vastgesteld die de loodsen voor en bij de uitoefening van hun beroep in acht dienen te nemen.
 
-#### Artikel 3
+##### Artikel 3
 
 De loods is, voor zover hij handelt in de uitoefening van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=II&paragraaf=1&artikel=2&z=2022-01-01&g=2022-01-01) genoemde taken en bevoegdheden, slechts aansprakelijk voor schade door hem veroorzaakt door opzet of grove schuld.
 
 #### § 2. Registerloodsen
 
-#### Artikel 4
+##### Artikel 4
 
 1. Bij of krachtens verordening worden regels gesteld met betrekking tot de bevoegdheid van de registerloods ten aanzien van loodsplichtige scheepvaartwegen en categorieën van schepen en met betrekking tot het op peil houden van de in verband met het uitoefenen van het beroep van registerloods benodigde kennis en vaardigheden. Deze verordening en de krachtens die verordening te geven regels behoeven de goedkeuring van Onze Minister. De goedkeuring kan worden onthouden wegens strijd met de belangen, genoemd in [artikel 3, eerste lid, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=3).
 
@@ -98,7 +123,7 @@ De loods is, voor zover hij handelt in de uitoefening van de in [artikel 2](http
 
 #### § 3. Niet-registerloodsen
 
-#### Artikel 5
+##### Artikel 5
 
 1. Onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=II&paragraaf=2&artikel=4&z=2022-01-01&g=2022-01-01), worden bij of krachtens algemene maatregel van bestuur eisen gesteld met betrekking tot de opleiding, kundigheid, ervaring en geschiktheid voor het loodsen van schepen op bij algemene maatregel van bestuur aan te wijzen wateren en ten aanzien van het in verband met de beroepsuitoefening af te geven document.
 
@@ -112,17 +137,17 @@ De loods is, voor zover hij handelt in de uitoefening van de in [artikel 2](http
 
 #### § 1. De Nederlandse loodsencorporatie
 
-#### Artikel 6
+##### Artikel 6
 
 1. De gezamenlijke registerloodsen vormen de Nederlandse loodsencorporatie. De corporatie is een openbaar lichaam in de zin van [artikel 134 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=134). Zij is gevestigd te Rotterdam.
 
 2. De corporatie heeft een voorzitter, een algemene raad en een ledenvergadering.
 
-#### Artikel 7
+##### Artikel 7
 
 De voorzitter vertegenwoordigt de corporatie in en buiten rechte.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De algemene raad voert het geldelijk beheer en het overig bestuur. Deze raad bestaat uit de voorzitter en de voorzitters van de regionale corporaties of hun plaatsvervangers.
 
@@ -130,7 +155,7 @@ De voorzitter vertegenwoordigt de corporatie in en buiten rechte.
 
 3. De voorzitter wordt bij verhindering vervangen door een lid van de algemene raad, daartoe door die raad aangewezen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De algemene raad heeft in het bijzonder tot taak:
 
@@ -158,7 +183,7 @@ De voorzitter vertegenwoordigt de corporatie in en buiten rechte.
 
 #### § 2. De regionale loodsencorporaties
 
-#### Artikel 10
+##### Artikel 10
 
 1. De gezamenlijke registerloodsen van eenzelfde regio vormen de regionale loodsencorporatie in die regio.
 
@@ -178,11 +203,11 @@ De voorzitter vertegenwoordigt de corporatie in en buiten rechte.
 
 5. Een regionale corporatie heeft een voorzitter, een bestuur en een ledenvergadering.
 
-#### Artikel 11
+##### Artikel 11
 
 De voorzitter van een regionale corporatie vertegenwoordigt de regionale corporatie in en buiten rechte.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Het bestuur voert het geldelijke beheer en het overige bestuur van de regionale corporatie.
 
@@ -196,7 +221,7 @@ De voorzitter van een regionale corporatie vertegenwoordigt de regionale corpora
 
 4. De voorzitter van de regionale corporatie en de andere leden van het bestuur worden bij verhindering vervangen door hun plaatsvervangers.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Het bestuur van de regionale corporatie heeft in het bijzonder tot taak:
 
@@ -216,7 +241,7 @@ De voorzitter van een regionale corporatie vertegenwoordigt de regionale corpora
 
 #### § 3. De vergaderingen
 
-#### Artikel 14
+##### Artikel 14
 
 1. De voorzitter van de corporatie of van een regionale corporatie, roept een vergadering bijeen zo vaak hij zulks nodig acht of indien zulks schriftelijk, onder opgave van de te behandelen onderwerpen, wordt verzocht:
 
@@ -232,7 +257,7 @@ De voorzitter van een regionale corporatie vertegenwoordigt de regionale corpora
 
 #### § 4. Verordeningen
 
-#### Artikel 15
+##### Artikel 15
 
 1. De ledenvergadering van de corporatie stelt de verordeningen, bedoeld in deze wet en de daarop berustende bepalingen, vast, alsmede andere verordeningen, waaronder die in het belang van:
 
@@ -252,7 +277,7 @@ De voorzitter van een regionale corporatie vertegenwoordigt de regionale corpora
 
 2. In een verordening kan aan de algemene raad of aan het bestuur van een regionale corporatie de bevoegdheid worden verleend tot het geven van nadere voorschriften omtrent bij die verordening geregelde onderwerpen.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De ontwerpen van verordeningen worden door de algemene raad opgesteld, hetzij op last van de ledenvergadering hetzij uit eigen beweging.
 
@@ -266,13 +291,13 @@ De voorzitter van een regionale corporatie vertegenwoordigt de regionale corpora
 
 6. Het vierde en vijfde lid zijn eveneens van toepassing op de nadere voorschriften, bedoeld in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=III&paragraaf=4&artikel=15&z=2022-01-01&g=2022-01-01).
 
-#### Artikel 17
+##### Artikel 17
 
 1. De verordeningen zijn slechts verbindend voor de leden, de corporatie, de algemene raad, de regionale corporaties en hun besturen alsmede, voor zover zij betrekking hebben op personen die worden opgeleid voor het beroep van registerloods, voor deze personen.
 
 2. Bepalingen gesteld bij of krachtens een verordening die strijdig zijn met het bepaalde bij of krachtens de wet zijn onverbindend.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Besluiten van de algemene raad of van de ledenvergadering van de corporatie kunnen op de voordracht van Onze Minister bij koninklijk besluit worden vernietigd.
 
@@ -280,17 +305,17 @@ De voorzitter van een regionale corporatie vertegenwoordigt de regionale corpora
 
 ### Hoofdstuk IV. Adspirant-registerloodsen
 
-#### Artikel 19
+##### Artikel 19
 
 Vervallen
 
-#### Artikel 20
+##### Artikel 20
 
 Vervallen
 
 ### Hoofdstuk V. Het loodsenregister
 
-#### Artikel 21
+##### Artikel 21
 
 1. Er is een openbaar loodsenregister. Ten behoeve van dit register worden persoonsgegevens verwerkt met betrekking tot ingeschreven registerloodsen. De verwerking van deze gegevens vindt plaats ten behoeve van de waarborging van de kwaliteit, de continuïteit en de rechtszekerheid van de loodsdienstverlening, alsmede van de uitvoering van de bij of krachtens deze wet vastgestelde regels. De algemene raad is verwerkingsverantwoordelijke voor deze verwerking.
 
@@ -304,7 +329,7 @@ Vervallen
 
 6. De algemene raad is belast met het beheer van het register.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Degene die met goed gevolg de examens, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=III&paragraaf=1&artikel=9&z=2022-01-01&g=2022-01-01), heeft afgelegd, of beschikt over een ten aanzien van het beroep van registerloods verleende erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5)" wordt op zijn aanvraag in het register ingeschreven, indien hij:
 
@@ -316,7 +341,7 @@ Vervallen
 
 3. De aanvrager ontvangt van de inschrijving in het register een verklaring volgens een bij verordening vast te stellen model.
 
-#### Artikel 23
+##### Artikel 23
 
 1. De inschrijving in het register wordt geweigerd, indien:
 
@@ -326,7 +351,7 @@ Vervallen
 
 2. De algemene raad doet van een beschikking tot weigering van de inschrijving in het register mededeling door toezending van een afschrift daarvan aan het bestuur van de regionale corporatie.
 
-#### Artikel 24
+##### Artikel 24
 
 1. De inschrijving in het register wordt doorgehaald:
 
@@ -352,13 +377,13 @@ Vervallen
 
 4. Bij een doorhaling krachtens het gestelde in het eerste lid, onderdeel g, eindigt de doorhaling van rechtswege na het verstrijken van de in dat onderdeel bedoelde termijn.
 
-#### Artikel 25
+##### Artikel 25
 
 Degene die in het register ingeschreven is geweest, wordt, indien de vorige inschrijving is doorgehaald op de grond, bedoeld in [artikel 24, eerste lid, onderdeel **e**](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=V&artikel=24&z=2022-01-01&g=2022-01-01), op zijn verzoek opnieuw in het register ingeschreven als bij de aanvraag daarvoor het bewijs wordt overgelegd dat deze grond heeft opgehouden te bestaan.
 
 ### Hoofdstuk VI. Financiën
 
-#### Artikel 26
+##### Artikel 26
 
 1. Bij verordening worden regels vastgesteld ten aanzien van de bedragen, de verschuldigdheid daarvan, de maatstaven voor de vaststelling, alsmede de betaling met betrekking tot:
 
@@ -374,7 +399,7 @@ Degene die in het register ingeschreven is geweest, wordt, indien de vorige insc
 
 - b. een waarborg voor het kunnen verzorgen van de taken van de algemene raad en de besturen van de regionale corporaties.
 
-#### Artikel 27
+##### Artikel 27
 
 Vaststelling van een verordening tot wijziging van de verordening, bedoeld in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=VI&artikel=26&z=2022-01-01&g=2022-01-01), voor zover deze betrekking heeft op een wijziging van de bedragen of de maatstaven voor de vaststelling daarvan, vindt slechts plaats door een besluit van de ledenvergadering met een meerderheid van twee derden van de in die ledenvergadering uitgebrachte geldige stemmen.
 
@@ -382,7 +407,7 @@ Vaststelling van een verordening tot wijziging van de verordening, bedoeld in [a
 
 #### § 1. Algemene bepaling
 
-#### Artikel 28
+##### Artikel 28
 
 1. De registerloods is onderworpen aan tuchtrechtspraak ter zake van enig handelen of nalaten dat een behoorlijk registerloods niet betaamt, ter zake van enige overtreding van een verordening of van een krachtens een verordening gegeven nader voorschrift als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=III&paragraaf=4&artikel=15&z=2022-01-01&g=2022-01-01).
 
@@ -392,7 +417,7 @@ Vaststelling van een verordening tot wijziging van de verordening, bedoeld in [a
 
 #### § 2. Systeem van kostentoerekening
 
-#### Artikel 29
+##### Artikel 29
 
 1. Het tuchtcollege loodsen bestaat uit een voorzitter en vier leden. Er kunnen een of meer plaatsvervangende voorzitters en leden zijn.
 
@@ -414,7 +439,7 @@ Vaststelling van een verordening tot wijziging van de verordening, bedoeld in [a
 
 8. Het lidmaatschap van leden van het tuchtcollege vervalt van rechtswege indien een lid benoemd wordt in het bestuur van een regionale loodsencorporatie of bij het verlies van de hoedanigheid van registerloods.
 
-#### Artikel 30
+##### Artikel 30
 
 1. De [artikelen 46c, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46c), [46ca, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46ca), [46d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46d), [46f](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46f), [46g](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46g), [46i, eerste lid, aanhef en onderdelen a en b, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46i), [46l, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46l), [46m](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46m), [46o](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46o) en [46p, eerste tot en met vijfde lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46p) zijn van overeenkomstige toepassing ten aanzien van de voorzitter, de leden en hun plaatsvervangers.
 
@@ -424,7 +449,7 @@ Vaststelling van een verordening tot wijziging van de verordening, bedoeld in [a
 
 - b. de procureur-generaal niet verplicht is aan het verzoek, bedoeld in artikel 13a, te voldoen, indien de verzoeker redelijkerwijs onvoldoende belang heeft bij een onderzoek als bedoeld in datzelfde artikel.
 
-#### Artikel 31
+##### Artikel 31
 
 1. De secretaris en plaatsvervangend secretaris zijn voor de uitoefening van hun taken uitsluitend verantwoording verschuldigd aan de voorzitter.
 
@@ -432,13 +457,13 @@ Vaststelling van een verordening tot wijziging van de verordening, bedoeld in [a
 
 3. [Artikel 29, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=VII&paragraaf=2&artikel=29&z=2022-01-01&g=2022-01-01), is op de secretaris en plaatsvervangend secretaris van overeenkomstige toepassing.
 
-#### Artikel 32
+##### Artikel 32
 
 1. De voorzitter, de secretaris, de leden en hun plaatsvervangers ontvangen vacatiegeld, alsmede een vergoeding van reis- en verblijfkosten en van andere verschotten.
 
 2. Het in het eerste lid bedoeld vacatiegeld, de reis- en verblijfskosten en andere verschotten worden overeenkomstig [Hoofdstuk VIA](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=VIA&z=2022-01-01&g=2022-01-01), bij ministeriële regeling vastgesteld.
 
-#### Artikel 33
+##### Artikel 33
 
 1. De voorzitter, de leden en de secretaris, alsmede hun plaatsvervangers, mogen zich niet op enige wijze inlaten met partijen of hun raadslieden of gemachtigden over enige zaak die bij het tuchtcollege loodsen aanhangig is, of waarvan zij weten of kunnen vermoeden dat deze bij het tuchtcollege loodsen aanhangig zal worden gemaakt.
 
@@ -446,7 +471,7 @@ Vaststelling van een verordening tot wijziging van de verordening, bedoeld in [a
 
 3. De voorzitter, de leden en de secretaris, alsmede hun plaatsvervangers zijn verplicht tot geheimhouding van hetgeen in de raadkamer over aanhangige zaken is geuit.
 
-#### Artikel 34
+##### Artikel 34
 
 1. Een zaak wordt in eerste aanleg bij het tuchtcollege loodsen aanhangig gemaakt door een schriftelijke klacht van de algemene raad, het bestuur van een regionale loodsencorporatie of van degene die rechtstreeks in zijn belang is getroffen.
 
@@ -462,7 +487,7 @@ Vaststelling van een verordening tot wijziging van de verordening, bedoeld in [a
 
 4. Indien de klacht wordt ingediend na verloop van drie jaar na de dag waarop de klager heeft kennisgenomen of redelijkerwijs kennis heeft kunnen nemen van de gedraging waarop de klacht betrekking heeft, wordt de klacht niet-ontvankelijk verklaard. De beslissing tot niet-ontvankelijkverklaring blijft achterwege indien de gevolgen van de gedraging pas nadien bekend zijn geworden. In dat geval verloopt de termijn voor het indienen van een klacht een jaar na de datum waarop de gevolgen redelijkerwijs als bekend geworden zijn aan te merken.
 
-#### Artikel 35
+##### Artikel 35
 
 1. De voorzitter kan een klacht na een summier onderzoek terstond afwijzen bij een met redenen omklede schriftelijke beslissing indien hij van oordeel is dat de klager kennelijk niet-ontvankelijk is, dan wel de klacht kennelijk ongegrond of het tuchtcollege loodsen onbevoegd is.
 
@@ -476,7 +501,7 @@ Vaststelling van een verordening tot wijziging van de verordening, bedoeld in [a
 
 #### § 5. Vaststelling van de tarieven en voorwaarden
 
-#### Artikel 36
+##### Artikel 36
 
 1. Aan de behandeling van een zaak door het tuchtcollege loodsen nemen deel de voorzitter of zijn plaatsvervanger en vier leden of hun plaatsvervanger, waarvan een uit elke regionale loodsencorporatie.
 
@@ -484,7 +509,7 @@ Vaststelling van een verordening tot wijziging van de verordening, bedoeld in [a
 
 3. Het tuchtcollege loodsen beslist zo spoedig mogelijk over een verzoek tot verschoning of wraking. Aan de besluitvorming wordt niet deelgenomen door de voorzitter of het lid waarop het verzoek betrekking heeft. Indien het verzoek betrekking heeft op de voorzitter, neemt een plaatsvervangend voorzitter deel aan de besluitvorming. Bij staking van stemmen wordt het verzoek tot verschoning of wraking toegewezen.
 
-#### Artikel 37
+##### Artikel 37
 
 1. Zodra het tuchtcollege loodsen een klacht in behandeling heeft genomen, zendt de secretaris een afschrift van de klacht aan de registerloods waartegen de klacht zich richt.
 
@@ -492,7 +517,7 @@ Vaststelling van een verordening tot wijziging van de verordening, bedoeld in [a
 
 3. De secretaris zendt een afschrift van het verweerschrift aan de klager.
 
-#### Artikel 38
+##### Artikel 38
 
 1. De voorzitter bepaalt het tijdstip en de locatie voor de mondelinge behandeling van de zaak ter zitting. De secretaris draagt zorg voor de tijdige publicatie van deze informatie op de door de algemene raad ter beschikking gestelde internetsite.
 
@@ -514,7 +539,7 @@ Vaststelling van een verordening tot wijziging van de verordening, bedoeld in [a
 
 10. De kosten die samenhangen met de mondelinge behandeling van de zaak ter zitting komen ten laste van de algemene raad.
 
-#### Artikel 39
+##### Artikel 39
 
 1. Het tuchtcollege loodsen kan, hetzij op verzoek van de registerloods waartegen de klacht zich richt, hetzij op verzoek van de klager, hetzij ambtshalve, getuigen en deskundigen voor de zitting oproepen en horen.
 
@@ -532,7 +557,7 @@ Vaststelling van een verordening tot wijziging van de verordening, bedoeld in [a
 
 8. De getuigen en deskundigen ontvangen desgevraagd op vertoon van hun oproep of dagvaarding een door de voorzitter vast te stellen schadeloosstelling overeenkomstig het bepaalde bij of krachtens de [Wet tarieven in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0002406). Deze schadeloosstelling komt ten laste van de corporatie.
 
-#### Artikel 40
+##### Artikel 40
 
 1. Het tuchtcollege loodsen kan, indien het van oordeel is dat een tegen een registerloods ingediende klacht geheel of gedeeltelijk gegrond is, een of meer van de volgende tuchtmaatregelen opleggen:
 
@@ -558,7 +583,7 @@ Vaststelling van een verordening tot wijziging van de verordening, bedoeld in [a
 
 5. De tuchtmaatregelen, genoemd in het eerste lid onder c, d, e, f en g, kunnen eerst ten uitvoer worden gelegd nadat de beslissing van het tuchtcollege loodsen onherroepelijk is geworden.
 
-#### Artikel 41
+##### Artikel 41
 
 1. De beslissing van het tuchtcollege loodsen berust op een deugdelijke motivering.
 
@@ -576,7 +601,7 @@ Vaststelling van een verordening tot wijziging van de verordening, bedoeld in [a
 
 5. De secretaris publiceert een geanonimiseerd afschrift van de schriftelijke beslissing van het tuchtcollege loodsen op een daartoe ter beschikking gestelde internetsite.
 
-#### Artikel 42
+##### Artikel 42
 
 Tegen een beslissing van het tuchtcollege loodsen kan binnen zes weken na de dag van de verzending van de in [artikel 41, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=VII&paragraaf=3&artikel=41&z=2022-01-01&g=2022-01-01), bedoelde brief hoger beroep worden ingesteld bij het College van Beroep voor het bedrijfsleven:
 
@@ -586,7 +611,7 @@ Tegen een beslissing van het tuchtcollege loodsen kan binnen zes weken na de dag
 
 - c. door de algemene raad.
 
-#### Artikel 43
+##### Artikel 43
 
 1. Het hoger beroep wordt ingesteld bij beroepschrift. Bij het beroepschrift wordt overgelegd een afschrift van de schriftelijke beslissing van het tuchtcollege loodsen, waartegen het hoger beroep is gericht.
 
@@ -596,7 +621,7 @@ Tegen een beslissing van het tuchtcollege loodsen kan binnen zes weken na de dag
 
 4. Het College van Beroep voor het bedrijfsleven behandelt de zaak opnieuw in volle omvang. Op de behandeling in hoger beroep zijn de [artikelen 35, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=VII&paragraaf=3&artikel=35&z=2022-01-01&g=2022-01-01), [36, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=VII&paragraaf=3&artikel=36&z=2022-01-01&g=2022-01-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=VII&paragraaf=3&artikel=37&z=2022-01-01&g=2022-01-01), [38, met uitzondering van de tweede volzin van het eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=VII&paragraaf=3&artikel=38&z=2022-01-01&g=2022-01-01), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=VII&paragraaf=3&artikel=39&z=2022-01-01&g=2022-01-01), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=VII&paragraaf=3&artikel=40&z=2022-01-01&g=2022-01-01) en [41](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=VII&paragraaf=3&artikel=41&z=2022-01-01&g=2022-01-01) van overeenkomstige toepassing.
 
-#### Artikel 44
+##### Artikel 44
 
 1. Het College van Beroep voor het bedrijfsleven kan op verzoek van een registerloods aan wie een tuchtmaatregel is opgelegd een onherroepelijk geworden beslissing van het tuchtcollege loodsen of van het College van Beroep voor het bedrijfsleven herzien op grond van feiten of omstandigheden die:
 
@@ -610,7 +635,7 @@ Tegen een beslissing van het tuchtcollege loodsen kan binnen zes weken na de dag
 
 #### § 1. Tuchtvergrijpen en maatregelen
 
-#### Artikel 45
+##### Artikel 45
 
 1. Tegen een beslissing op grond van [artikel 44a, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=VII&paragraaf=6&artikel=44a&z=2022-01-01&g=2022-01-01), kunnen de betrokken registerloods, de algemene raad en het bestuur van de regionale loodsencorporatie waartoe de registerloods behoort binnen zes weken na verzending van een afschrift van de beslissing hoger beroep instellen bij het College van Beroep voor het bedrijfsleven. [Artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=VII&paragraaf=4&artikel=43&z=2022-01-01&g=2022-01-01) is van overeenkomstige toepassing.
 
@@ -618,19 +643,19 @@ Tegen een beslissing van het tuchtcollege loodsen kan binnen zes weken na de dag
 
 ### Hoofdstuk VIII. Dwang-, straf- en opsporingsbepalingen
 
-#### Artikel 46
+##### Artikel 46
 
 1. Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van het bepaalde bij of krachtens [artikel 9, eerste lid, onder a, onder 1° en 2°, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=III&paragraaf=1&artikel=9&z=2022-01-01&g=2022-01-01), [artikel 13, eerste lid, onder a, onder 1°, en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=III&paragraaf=2&artikel=13&z=2022-01-01&g=2022-01-01), [artikel 15, eerste lid, onder b, 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=III&paragraaf=4&artikel=15&z=2022-01-01&g=2022-01-01), [21, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=V&artikel=21&z=2022-01-01&g=2022-01-01), en [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=VI&artikel=26&z=2022-01-01&g=2022-01-01). Van het besluit wordt mededeling gedaan aan de corporatie onderscheidenlijk de regionale corporatie.
 
 2. Van de krachtens het eerste lid genomen maatregelen wordt binnen tweemaal vierentwintig uur een schriftelijk verslag opgemaakt dat onverwijld in afschrift wordt gezonden aan de belanghebbenden alsmede aan de algemene raad onderscheidenlijk het bestuur van de regionale corporatie.
 
-#### Artikel 47
+##### Artikel 47
 
 1. Overtreding van de bepalingen, gesteld krachtens [artikel 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=II&paragraaf=1&artikel=2&z=2022-01-01&g=2022-01-01), voor zover daarbij uitdrukkelijk als strafbaar feit aangewezen, of overtreding van [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=II&paragraaf=2&artikel=4&z=2022-01-01&g=2022-01-01), wordt gestraft met hechtenis van ten hoogste twee maanden of geldboete van de derde categorie.
 
 2. De in het eerste lid strafbaar gestelde feiten zijn overtredingen.
 
-#### Artikel 48
+##### Artikel 48
 
 1. Bij veroordeling wegens een overtreding genoemd in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=VIII&artikel=47&z=2022-01-01&g=2022-01-01), kan het vonnis tevens inhouden:
 
@@ -640,7 +665,7 @@ Tegen een beslissing van het tuchtcollege loodsen kan binnen zes weken na de dag
 
 2. Het in het eerste lid gestelde geldt ook bij veroordeling van de loods wegens een overtreding, genoemd in de [Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364), indien de loods die overtreding heeft begaan bij de uitoefening van zijn beroep.
 
-#### Artikel 49
+##### Artikel 49
 
 1. Met de opsporing van de in deze wet strafbaar gestelde feiten zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), belast de daartoe aangewezen buitengewone opsporingsambtenaren. Deze ambtenaren zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de [artikelen 179 tot en met 182](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=179) en [184 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=184), voor zover deze feiten betrekking hebben op een bevel, een vordering of een handeling, gedaan of ondernomen door henzelf.
 
@@ -650,13 +675,13 @@ Tegen een beslissing van het tuchtcollege loodsen kan binnen zes weken na de dag
 
 4. De in het eerste lid bedoelde ambtenaren zijn bevoegd, met medeneming van de benodigde apparatuur, een woning te betreden zonder toestemming van de bewoner.
 
-#### Artikel 49a
+##### Artikel 49a
 
 Vervallen
 
 ### Hoofdstuk IX. Bijzondere bepalingen
 
-#### Artikel 50
+##### Artikel 50
 
 1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kan, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=IX&artikel=52&z=2022-01-01&g=2022-01-01) in werking worden gesteld.
 
@@ -670,11 +695,11 @@ Vervallen
 
 6. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt in ieder geval geplaatst in het **Staatsblad**.
 
-#### Artikel 51
+##### Artikel 51
 
 Vervallen
 
-#### Artikel 52
+##### Artikel 52
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
@@ -682,17 +707,17 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 2. De bepalingen gesteld krachtens [artikel 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=II&paragraaf=1&artikel=2&z=2022-01-01&g=2022-01-01), en de bepalingen gesteld bij of krachtens verordeningen als bedoeld in [artikel 15, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=III&paragraaf=4&artikel=15&z=2022-01-01&g=2022-01-01), vinden geen toepassing, voor zover zij onverenigbaar zijn met krachtens het eerste lid gegeven aanwijzingen.
 
-#### Artikel 53
+##### Artikel 53
 
 Het bij of krachtens de [Oorlogswet voor Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0007983) aangewezen militair gezag is bevoegd om indien de beperkte of de algemene noodtoestand is afgekondigd, in afwijking van de bepalingen gesteld bij of krachtens deze wet, regels te stellen met betrekking tot de beschikbaarheid van registerloodsen voor het verrichten van diensten als bedoeld in [artikel 2, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=II&paragraaf=1&artikel=2&z=2022-01-01&g=2022-01-01) en het door registerloodsen verrichten van die diensten, alsmede met betrekking tot het door de organen van de corporatie en de regionale corporaties verzorgen van de hun bij of krachtens deze wet opgedragen taken ten aanzien van de door de registerloodsen te verlenen diensten, voor zover zulks met het oog op de uitvoering van de militaire taak ter handhaving van de uitwendige of inwendige veiligheid noodzakelijk is.
 
-#### Artikel 54
+##### Artikel 54
 
 1. Een registerloods die als gevolg van een aanwijzing als bedoeld in [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=IX&artikel=52&z=2022-01-01&g=2022-01-01), wordt beperkt in zijn mogelijkheden tot het verrichten van diensten als bedoeld in [artikel 2, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=II&paragraaf=1&artikel=2&z=2022-01-01&g=2022-01-01) en daardoor onevenredig financieel nadeel ondervindt, wordt door Onze Minister een naar billijkheid te bepalen vergoeding toegekend, die wordt berekend volgens bij algemene maatregel van bestuur te stellen regels.
 
 2. Ingeval [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=IX&artikel=53&z=2022-01-01&g=2022-01-01) toepassing vindt, kan aan de corporatie een vergoeding worden toegekend die wordt berekend volgens bij algemene maatregel van bestuur te stellen regels. Deze regels kunnen afwijken van het bepaalde bij of krachtens [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=VI&artikel=26&z=2022-01-01&g=2022-01-01).
 
-#### Artikel 55
+##### Artikel 55
 
 1. Overtreding van de krachtens [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=IX&artikel=52&z=2022-01-01&g=2022-01-01) gegeven aanwijzingen en van het bepaalde bij of krachtens de op grond van [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=IX&artikel=53&z=2022-01-01&g=2022-01-01) gestelde regels wordt gestraft met hechtenis van ten hoogste twee maanden of geldboete van de derde categorie.
 
@@ -700,13 +725,13 @@ Het bij of krachtens de [Oorlogswet voor Nederland](https://wetten.overheid.nl/j
 
 ### Hoofdstuk X. Overige bepalingen
 
-#### Artikel 56
+##### Artikel 56
 
 1. Het stellen van regels krachtens de [artikelen 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=II&paragraaf=1&artikel=2&z=2022-01-01&g=2022-01-01), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=II&paragraaf=3&artikel=5&z=2022-01-01&g=2022-01-01), en [9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=III&paragraaf=1&artikel=9&z=2022-01-01&g=2022-01-01), kan dienen ter uitvoering van een verdrag of van een besluit van een volkenrechtelijke organisatie.
 
 2. Daarbij wordt afgeweken van het bepaalde in deze wet, voor zover de bepalingen van een verdrag of een besluit van een volkenrechtelijke organisatie daartoe nopen.
 
-#### Artikel 57
+##### Artikel 57
 
 1. De verordeningsbevoegdheid van andere openbare lichamen dan genoemd in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=III&paragraaf=1&artikel=6&z=2022-01-01&g=2022-01-01), blijft ten aanzien van het onderwerp waarin bij of krachtens deze wet is voorzien, gehandhaafd.
 
@@ -716,11 +741,11 @@ Het bij of krachtens de [Oorlogswet voor Nederland](https://wetten.overheid.nl/j
 
 4. De vaststelling van een algemene maatregel van bestuur als bedoeld in het tweede lid, geschiedt op voordracht van Onze Minister en van Onze Minister van Binnenlandse Zaken.
 
-#### Artikel 58
+##### Artikel 58
 
 Vervallen
 
-#### Artikel 59
+##### Artikel 59
 
 1. De algemene raad en het bestuur van een regionale corporatie, alsmede degene op wie een verplichting rust als bedoeld in [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=VIII&artikel=46&z=2022-01-01&g=2022-01-01), zijn verplicht Onze Minister de inlichtingen te verstrekken die hij nodig acht om te kunnen beoordelen of aanleiding bestaat tot toepassing van artikel 46, eerste lid.
 
@@ -728,43 +753,43 @@ Vervallen
 
 3. De algemene raad en het bestuur van een regionale corporatie, alsmede degene op wie een verplichting rust als bedoeld in [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=VIII&artikel=46&z=2022-01-01&g=2022-01-01), zijn verplicht om aan dat onderzoek alle medewerking te verlenen die redelijkerwijs kan worden gevorderd.
 
-#### Artikel 60
+##### Artikel 60
 
 Vervallen
 
 ## Artikel II
 
-#### Artikel 61
+##### Artikel 61
 
 Vervallen
 
 ## Artikel III
 
-#### Artikel 62
+##### Artikel 62
 
 Vervallen
 
-#### Artikel 63
+##### Artikel 63
 
 Vervallen
 
-#### Artikel 64
+##### Artikel 64
 
 Vervallen
 
-#### Artikel 65
+##### Artikel 65
 
 Vervallen
 
-#### Artikel 66
+##### Artikel 66
 
 Vervallen
 
-#### Artikel 67
+##### Artikel 67
 
 Onze Minister kan verordeningen als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=III&paragraaf=4&artikel=15&z=2022-01-01&g=2022-01-01), voor de eerste maal als ministeriële regeling vaststellen, voor zover deze, naar het oordeel van Onze Minister, op de datum waarop artikel 3, van de Loodswet 1957 wordt ingetrokken, in werking dienen te treden. Zij blijven, behoudens eerdere intrekking door Onze Minister, van kracht totdat zij bij verordening zijn ingetrokken en vervangen.
 
-#### Artikel 68
+##### Artikel 68
 
 1. Wanneer de algemene raad voor de eerste maal na inwerkingtreding van de Wet actualisatie markttoezicht registerloodsen een voorstel als bedoeld in [artikel 27c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=VIA&paragraaf=3&artikel=27c&z=2022-01-01&g=2022-01-01), doet, is de raming, bedoeld in artikel 27c, zevende lid, onderdeel c, gebaseerd op de voor het jaar 2015 geldende hoogte, vermeerderd met de indexering vastgesteld krachtens [artikel 27d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=VIA&paragraaf=4&artikel=27d&z=2022-01-01&g=2022-01-01).
 
@@ -772,21 +797,21 @@ Onze Minister kan verordeningen als bedoeld in [artikel 15, eerste lid](https://
 
 ## Artikel IV
 
-#### Artikel 69
+##### Artikel 69
 
 De op het tijdstip van inwerkingtreding van de [Wet actualisatie markttoezicht registerloodsen](onbekend) geldende loodsgeldtarieven, vastgesteld krachtens [artikel 27f](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=VIA&paragraaf=5&artikel=27f&z=2022-01-01&g=2022-01-01)van de Loodsenwet, zoals dat artikel luidde voorafgaand aan het tijdstip van inwerkingtreding van de Wet actualisatie markttoezicht registerloodsen, blijven van kracht tot het tijdstip waarop het besluit in werking treedt, waarbij het desbetreffende tarief voor de eerste maal met toepassing van de door eerdergenoemde wet gewijzigde artikelen is vastgesteld.
 
-#### Artikel 70
+##### Artikel 70
 
 Deze wet wordt aangehaald als: Loodsenwet.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 27a
+##### Artikel 27a
 
 De loodsgeldtarieven en de tarieven voor het verrichten van andere diensten die bij of krachtens de wet bij uitsluiting aan registerloodsen zijn opgedragen, onderscheidenlijk de vergoedingen voor de taken die bij of krachtens de wet aan de algemene raad of een regionale loodsencorporatie zijn opgedragen, worden vastgesteld overeenkomstig de bepalingen van dit hoofdstuk.
 
-#### Artikel 27b
+##### Artikel 27b
 
 1. De ledenvergadering van de corporatie stelt in het belang van een op de kosten gebaseerde tariefstelling een toerekeningssysteem vast voor de kosten van de diensten en taken, bedoeld in [artikel 27a](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=VIA&paragraaf=1&artikel=27a&z=2022-01-01&g=2022-01-01).
 
@@ -806,7 +831,7 @@ De loodsgeldtarieven en de tarieven voor het verrichten van andere diensten die 
 
 #### § 3. Voorstel tot vaststelling tarieven
 
-#### Artikel 27c
+##### Artikel 27c
 
 1. De algemene raad doet de Autoriteit Consument en Markt een voorstel voor de tarieven en vergoedingen voor de diensten en taken, bedoeld in [artikel 27a](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=VIA&paragraaf=1&artikel=27a&z=2022-01-01&g=2022-01-01). In op grond van bij of krachtens algemene maatregel van bestuur te bepalen gevallen stelt de algemene raad een ingediend voorstel bij. Indien het ingediende voorstel niet wordt bijgesteld, geeft de algemene raad de redenen daarvoor aan
 
@@ -852,7 +877,7 @@ De loodsgeldtarieven en de tarieven voor het verrichten van andere diensten die 
 
 #### § 4. Enige bij de vaststelling van de tarieven in aanmerking te nemen bijzondere factoren
 
-#### Artikel 27d
+##### Artikel 27d
 
 1. Bij algemene maatregel van bestuur worden in het belang van de vaststelling van kostengeoriënteerde loodsgeldtarieven zeehavengebieden aangewezen, worden nadere regels gesteld met betrekking tot de redelijkheid, bedoeld in [artikel 27c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=VIA&paragraaf=3&artikel=27c&z=2022-01-01&g=2022-01-01), de kostenoriëntatie, bedoeld in artikel 27c, derde lid, en kunnen overige maatstaven voor de structuur van deze tarieven worden geregeld. Bij deze maatregel kunnen taken en bevoegdheden aan de Autoriteit Consument en Markt worden opgedragen.
 
@@ -864,13 +889,13 @@ De loodsgeldtarieven en de tarieven voor het verrichten van andere diensten die 
 
 4. Bij ministeriële regeling worden nadere regels gesteld met betrekking tot de samenstelling van de regionale overlegcommissies, bedoeld in [artikel 27c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=VIA&paragraaf=3&artikel=27c&z=2022-01-01&g=2022-01-01).
 
-#### Artikel 27e
+##### Artikel 27e
 
 Vervallen
 
 #### § 5. Vaststelling van de tarieven en voorwaarden
 
-#### Artikel 27f
+##### Artikel 27f
 
 1. De Autoriteit Consument en Markt stelt voor elk kalenderjaar bij besluit de loodsgeldtarieven vast en gaat daarbij uit van het voorstel op basis van [artikel 27c](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=VIA&paragraaf=3&artikel=27c&z=2022-01-01&g=2022-01-01), dan wel [artikel 27ca](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=VIA&paragraaf=3&artikel=27ca&z=2022-01-01&g=2022-01-01) dat resulteert in de laagste loodsgeldtarieven.
 
@@ -880,7 +905,7 @@ Vervallen
 
 4. Besluiten als bedoeld in het eerste en tweede lid worden bekendgemaakt door plaatsing in de Staatscourant.
 
-#### Artikel 27g
+##### Artikel 27g
 
 1. De Autoriteit Consument en Markt stelt een besluit als bedoeld in [artikel 27f, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=VIA&paragraaf=5&artikel=27f&z=2022-01-01&g=2022-01-01), vast in afwijking van het desbetreffende voorstel, indien het voorstel naar het oordeel van de Autoriteit Consument en Markt:
 
@@ -898,7 +923,7 @@ Vervallen
 
 - b. zijn vastgesteld met inachtneming van onjuiste of onvolledige gegevens en de Autoriteit Consument en Markt, indien zij de beschikking had over juiste en volledige gegevens, tarieven of vergoedingen zou hebben vastgesteld die in aanmerkelijk mate zouden afwijken van de vastgestelde tarieven of vergoedingen.
 
-#### Artikel 27h
+##### Artikel 27h
 
 1. De Autoriteit Consument en Markt kan, onverminderd het bepaalde bij of krachtens de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=II&paragraaf=1&artikel=2&z=2022-01-01&g=2022-01-01), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=II&paragraaf=2&artikel=4&z=2022-01-01&g=2022-01-01), [9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=III&paragraaf=1&artikel=9&z=2022-01-01&g=2022-01-01), [15 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=III&paragraaf=4&artikel=15&z=2022-01-01&g=2022-01-01), [24, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=V&artikel=24&z=2022-01-01&g=2022-01-01), en [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=VI&artikel=26&z=2022-01-01&g=2022-01-01), van deze wet en [artikel 12 van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=12), voorwaarden vaststellen waaronder registerloodsen de diensten verlenen die zij bij of krachtens de wet bij uitsluiting verrichten.
 
@@ -906,7 +931,7 @@ Vervallen
 
 3. Voorafgaand aan de vaststelling van deze voorwaarden nodigt de Autoriteit Consument en Markt de algemene raad uit haar een voorstel daarvoor te doen. [Artikel 27c, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=VIA&paragraaf=3&artikel=27c&z=2022-01-01&g=2022-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 27i
+##### Artikel 27i
 
 1. De registerloods en de krachtens de [artikelen 15a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=15a), en [15b, eerste lid, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=15b) aangewezen organisaties zijn verplicht de overeenkomstig [artikel 27f](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=VIA&paragraaf=5&artikel=27f&z=2022-01-01&g=2022-01-01) en [27g](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=VIA&paragraaf=5&artikel=27g&z=2022-01-01&g=2022-01-01) vastgestelde tarieven te hanteren.
 
@@ -914,7 +939,7 @@ Vervallen
 
 #### § 6. Financiële verantwoording en vergelijkend onderzoek
 
-#### Artikel 27j
+##### Artikel 27j
 
 1. De algemene raad stelt jaarlijks een financiële verantwoording op over het voorafgaande kalenderjaar die bestaat uit:
 
@@ -936,13 +961,13 @@ Vervallen
 
 4. De algemene raad nodigt de bij ministeriële regeling aan te wijzen rechtspersonen, betrokken bij het bestuur van een of meer zeehavens, bestuursorganen belast met het nautisch beheer van een of meer zeehavens en representatieve organisaties van ondernemers in het scheepvaart- en havenbedrijf uit om gezamenlijk te bepalen op welke wijze afspraken gemaakt worden ten aanzien van in ieder geval de te leveren kwaliteit van de loodsdienstverrichting door registerloodsen.
 
-#### Artikel 27k
+##### Artikel 27k
 
 Vervallen
 
 #### § 7. Nadere regelgeving
 
-#### Artikel 27l
+##### Artikel 27l
 
 1. Bij algemene maatregel van bestuur worden nadere regels gesteld omtrent:
 
@@ -974,7 +999,7 @@ Vervallen
 
 #### § 1. Algemene bepaling
 
-#### Artikel 45a
+##### Artikel 45a
 
 1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet, met uitzondering van hoofdstuk VIA, zijn belast de ambtenaren aangewezen bij het besluit, bedoeld in [artikel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=VIII&artikel=49&z=2022-01-01&g=2022-01-01), alsmede de bij besluit van Onze Minister aangewezen andere ambtenaren.
 
@@ -984,21 +1009,21 @@ Vervallen
 
 #### § 2. De Autoriteit Consument en Markt
 
-#### Artikel 45b
+##### Artikel 45b
 
 1. De Autoriteit Consument en Markt is belast met het toezicht op de naleving van het bepaalde bij of krachtens hoofdstuk VIA.
 
 2. De krachtens [artikel 12a, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=12a) aanwezen ambtenaren beschikken voor het toezicht, bedoeld in het eerste lid, niet over de bevoegdheden, genoemd in de [artikelen 5:18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) en [5:19 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19).
 
-#### Artikel 45c
+##### Artikel 45c
 
 Vervallen
 
-#### Artikel 45d
+##### Artikel 45d
 
 Vervallen
 
-#### Artikel 45e
+##### Artikel 45e
 
 Indien door Onze Minister vast te stellen beleidsregels betrekking hebben op de interpretatie van mededingingsbegrippen stelt Onze Minister die beleidsregels vast in overeenstemming met Onze Minister van Economische Zaken.
 
@@ -1006,7 +1031,7 @@ Indien door Onze Minister vast te stellen beleidsregels betrekking hebben op de 
 
 #### § 1. Overtredingen markttoezicht
 
-#### Artikel 45f
+##### Artikel 45f
 
 1. In geval van overtreding van het bepaalde bij of krachtens de [artikelen 27b, eerste en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=VIA&paragraaf=2&artikel=27b&z=2022-01-01&g=2022-01-01), [27c](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=VIA&paragraaf=3&artikel=27c&z=2022-01-01&g=2022-01-01), [27ca](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=VIA&paragraaf=3&artikel=27ca&z=2022-01-01&g=2022-01-01), [27i](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=VIA&paragraaf=5&artikel=27i&z=2022-01-01&g=2022-01-01), [27j](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=VIA&paragraaf=6&artikel=27j&z=2022-01-01&g=2022-01-01) en [27l, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=VIA&paragraaf=7&artikel=27l&z=2022-01-01&g=2022-01-01), kan de Autoriteit Consument en Markt de overtreder:
 
@@ -1020,31 +1045,31 @@ Indien door Onze Minister vast te stellen beleidsregels betrekking hebben op de 
 
 #### § 2. Overtredingen medewerkingsplicht
 
-#### Artikel 45g
+##### Artikel 45g
 
 Vervallen
 
 #### § 3. Overtreding verzegeling
 
-#### Artikel 45h
+##### Artikel 45h
 
 Vervallen
 
 #### § 4. Onderzoek
 
-#### Artikel 45i
+##### Artikel 45i
 
 Vervallen
 
 #### § 5. Coördinatie begrippen [Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691)
 
-#### Artikel 45j
+##### Artikel 45j
 
 Vervallen
 
 #### § 6. Bijzondere bepaling inzake bestuurlijke boetes
 
-#### Artikel 45k
+##### Artikel 45k
 
 1. Indien krachtens [artikel 45f](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=VIIB&paragraaf=1&artikel=45f&z=2022-01-01&g=2022-01-01) of [artikel 12m van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=12m) een bestuurlijke boete of een last onder dwangsom wordt opgelegd aan de corporatie is deze bevoegd de verbeurde boete of dwangsom te voldoen ten laste van het geïnde loodsgeld.
 
@@ -1060,7 +1085,7 @@ Vervallen
 
 ### Hoofdstuk X. Overige bepalingen
 
-#### Artikel 60
+##### Artikel 60
 
 Vervallen
 
@@ -1072,7 +1097,7 @@ Vervallen
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 68a
+##### Artikel 68a
 
 1. De voorzitter van de corporatie of een regionale corporatie kan bepalen dat leden in bijzondere gevallen geen toegang hebben tot de ledenvergadering, bedoeld in [artikel 14, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=III&paragraaf=3&artikel=14&z=2022-01-01&g=2022-01-01), respectievelijk b. In dat geval draagt de voorzitter er zorg voor dat de leden in een digitale omgeving door middel van een tweezijdig elektronisch communicatiemiddel aan de opgeroepen ledenvergadering kunnen deelnemen, daarin het woord kunnen voeren en het stemrecht kunnen uitoefenen. Daartoe is vereist dat de leden via het elektronisch communicatiemiddel kunnen worden geïdentificeerd.
 
@@ -1080,11 +1105,11 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 3. In een geval als bedoeld in het eerste lid wordt ten aanzien van het vereiste dat een lid aanwezig is op de vergadering, gelezen dat een lid deelneemt aan de vergadering.
 
-#### Artikel 68b
+##### Artikel 68b
 
 Een samenwerkingsverband van registerloodsen, opgericht ter uitvoering van [artikel 15, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=III&paragraaf=4&artikel=15&z=2022-01-01&g=2022-01-01), dat berust op een maatschap als bedoeld in [artikel 1655 van Boek 7a van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&artikel=1655), kan in bijzondere gevallen bijeenkomen in een digitale omgeving door middel van een tweezijdig elektronisch communicatiemiddel, onder de voorwaarden dat alle in de maatschap verbonden personen aan de vergadering kunnen deelnemen, daarin het woord kunnen voeren en het stemrecht kunnen uitoefenen.
 
-#### Artikel 68c
+##### Artikel 68c
 
 De [artikelen 68a](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=XI&artikel=68a&z=2022-01-01&g=2022-01-01) en [68b](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=XI&artikel=68b&z=2022-01-01&g=2022-01-01) vervallen op een bij koninklijk besluit te bepalen tijdstip.
 
@@ -1098,7 +1123,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 #### § 1. Algemeen
 
-#### Artikel 2a
+##### Artikel 2a
 
 1. Bij algemene maatregel van bestuur kan worden bepaald dat onder bij in die maatregel te bepalen voorwaarden, bij wijze van experiment tijdelijk kan worden afgeweken van [artikel 2, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=II&paragraaf=1&artikel=2&z=2022-01-01&g=2022-01-01).
 
@@ -1118,7 +1143,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 4. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=II&paragraaf=1&artikel=3&z=2022-01-01&g=2022-01-01) is van overeenkomstige toepassing.
 
-#### Artikel 27ca
+##### Artikel 27ca
 
 1. Indien het geraamde aantal te loodsen scheepsreizen, bedoeld in [artikel 27c, zevende lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=VIA&paragraaf=3&artikel=27c&z=2022-01-01&g=2022-01-01), hoger is dan het geraamde aantal te loodsen scheepsreizen waarop het geldende tariefbesluit is gebaseerd, bevat een voorstel of bijstelling van een voorstel als bedoeld in artikel 27c, eerste lid, tevens een alternatieve berekening met inachtneming van de efficiencykorting.
 
@@ -1128,7 +1153,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 #### § 6. Verantwoording
 
-#### Artikel 27ja
+##### Artikel 27ja
 
 1. De algemene raad en het bestuur van een regionale corporatie verstrekt desgevraagd aan Onze Minister alle voor de uitoefening van zijn taak benodigde inlichtingen. Onze Minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.
 
@@ -1146,7 +1171,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 #### § 6. De procedure inzake het spoedshalve schorsen
 
-#### Artikel 44a
+##### Artikel 44a
 
 1. Op verzoek van de algemene raad of het bestuur van een regionale loodsencorporatie kan het tuchtcollege loodsen de registerloods jegens wie een ernstig vermoeden is gerezen van een handelen of nalaten waardoor enig krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=III&paragraaf=4&artikel=15&z=2022-01-01&g=2022-01-01) beschermd belang ernstig is geschaad of dreigt te worden geschaad, met onmiddellijke ingang schorsen voor een periode van ten hoogste een jaar in de uitoefening van zijn bevoegdheid indien het door artikel 15 beschermde belang dit vergt. Het tuchtcollege loodsen beslist niet dan na verhoor of behoorlijke oproeping van de registerloods en de voorzitter van de regionale loodsencorporatie waartoe de registerloods behoort.
 
@@ -1186,7 +1211,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ### Hoofdstuk XI. Overgangsrecht en evaluatie
 
-#### Artikel 69a
+##### Artikel 69a
 
 [Hoofdstuk VIA](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=VIA&z=2022-01-01&g=2022-01-01) van de Loodsenwet, zoals deze luidde voor het tijdstip van inwerkingtreding van de [Wet actualisatie markttoezicht registerloodsen](onbekend), blijft van kracht ten aanzien van:
 
@@ -1200,11 +1225,11 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 - e. een na het tijdstip van inwerkingtreding van de [Wet actualisatie markttoezicht registerloodsen](onbekend) als gevolg van een onherroepelijk geworden rechterlijke uitspraak genomen besluit als bedoeld in [artikel 27f, eerste lid of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=VIA&paragraaf=5&artikel=27f&z=2022-01-01&g=2022-01-01), dat betrekking heeft op enig jaar gelegen voor het tijdstip van inwerkingtreding van eerdergenoemde wet.
 
-#### Artikel 69b
+##### Artikel 69b
 
 [Artikelen 28 tot en met 44](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=VII&paragraaf=1&artikel=28&z=2022-01-01&g=2022-01-01) van de Loodsenwet, zoals deze luidde voor het tijdstip van inwerkingtreding van de [artikelen 28 tot en met 45 (nieuw)](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=VII&paragraaf=1&artikel=28&z=2022-01-01&g=2022-01-01) bij de [Wet actualisatie markttoezicht registerloodsen](onbekend), blijven van kracht ten aanzien van klachten die voor inwerkingtreding van de artikelen 28 tot en met 45 (nieuw) bij het tuchtcollege loodsen aanhangig zijn gemaakt en beroepen tegen uitspraken van het tuchtcollege loodsen die voor de inwerkingtreding van de genoemde artikelen bij het College van beroep voor het bedrijfsleven aanhangig zijn gemaakt.
 
-#### Artikel 69c
+##### Artikel 69c
 
 1. Onze Minister zendt binnen vijf jaar na de inwerkingtreding van de [Wet actualisatie markttoezicht registerloodsen](onbekend) en vervolgens telkens na vijf jaar aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 

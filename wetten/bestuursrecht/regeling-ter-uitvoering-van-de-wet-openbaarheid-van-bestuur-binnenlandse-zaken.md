@@ -1,13 +1,37 @@
 ---
 title: "Regeling ter uitvoering van de Wet openbaarheid van bestuur (Binnenlandse Zaken)"
 identifier: "BWBR0003524"
-categorie: "Bestuursrecht"
-publicatiedatum: 1983-01-01
-laatste_update: 1983-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003524"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1983-01-01"
+last_updated: "1983-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003524"
+soort: "ministeriele-regeling"
+stam_id: "3683973"
+version_id: "5467152"
+internal_id: "C5660241"
+label_id: "3664034"
+dtd_version: "2.0"
+original_entry_into_force: "1983-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003524/1983-01-01/0"
+intitule_bron: "Stcrt.1982-207"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1982-10-18"
+intitule_published: "1982-10-27"
+intitule_in_force: "1982-10-27"
+intitule_status: "goed"
+original_publication: "Stcrt.1982-207"
+original_signed_date: "1982-10-18"
+original_published_date: "1982-10-27"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1983-01-01"
+jci_1_3: "jci1.3:c:BWBR0003524&z=1983-01-01&g=1983-01-01"
+jci_1_0: "1.0:c:BWBR0003524&g=1983-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "1982-10-18"
+entry_into_force: "1983-01-01"
 ---
-
 # Regeling ter uitvoering van de Wet openbaarheid van bestuur (Binnenlandse Zaken)
 
 Overwegende, dat de interim-rapportage van de Evaluatiecommissie Wet openbaarheid van bestuur van 26 oktober 1981 aanleiding geeft tot wijziging van de bij de beschikking van 29 april 1980, nr. SG80/U347 vastgestelde Regeling ter uitvoering van de Wet openbaarheid van bestuur,
@@ -18,7 +42,7 @@ Voor het departement van Binnenlandse Zaken vast te stellen de navolgende Regeli
 
 #### Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze beschikking wordt verstaan onder:
 
@@ -34,7 +58,7 @@ In deze beschikking wordt verstaan onder:
 
 #### Registers
 
-#### Artikel 2
+##### Artikel 2
 
 2.1. Er is voor het departement een register van instellingen, diensten en bedrijven, als bedoeld in artikel 1, tweede lid van het besluit.
 
@@ -44,7 +68,7 @@ In deze beschikking wordt verstaan onder:
 
 2.4. Het hoofd van de stafafdeling Voorlichting is belast met het bijhouden van dit register.
 
-#### Artikel 3
+##### Artikel 3
 
 3.1. Er is voor het departement een register van niet-ambtelijke adviescommissies, als bedoeld in artikel 3 van de wet.
 
@@ -54,7 +78,7 @@ In deze beschikking wordt verstaan onder:
 
 #### Gemachtigd ambtenaar
 
-#### Artikel 4
+##### Artikel 4
 
 4.1. Als gemachtigd ambtenaar voor het departement, als bedoeld in aanwijzing 6, wordt aangewezen de secretaris-generaal en bij zijn afwezigheid of ontstentenis de plaatsvervangend secretaris-generaal.
 
@@ -68,7 +92,7 @@ In deze beschikking wordt verstaan onder:
 
 #### Informatiepunten
 
-#### Artikel 5
+##### Artikel 5
 
 5.1. Als centraal informatiepunt voor het departement wordt aangewezen de stafafdeling Voorlichting van het ministerie, in het bijzonder de ambtenaar genoemd in artikel 4.5.
 
@@ -78,7 +102,7 @@ In deze beschikking wordt verstaan onder:
 
 5.4. Als informatiepunten voor de instellingen, diensten en bedrijven, genoemd in het desbetreffende register, worden aangewezen zij die door de leiding van zodanige instelling, dienst of bedrijf daartoe zijn aangewezen.
 
-#### Artikel 6
+##### Artikel 6
 
 6.1. In de gevallen, genoemd in aanwijzing 6, handelt het centraal informatiepunt overeenkomstig het bepaalde in de aanwijzingen 6 en 7.
 
@@ -90,7 +114,7 @@ In deze beschikking wordt verstaan onder:
 
 #### Informatietermijn
 
-#### Artikel 7
+##### Artikel 7
 
 7.1. Bij het beantwoorden binnen redelijke termijn van verzoeken om informatie dient zowel de aard van het verzoek als het belang van de verzoeker daarbij in aanmerking te worden genomen.
 
@@ -104,7 +128,7 @@ In deze beschikking wordt verstaan onder:
 
 #### Publikatie van adviezen
 
-#### Artikel 8
+##### Artikel 8
 
 8.1. De openbaarmaking van adviezen van niet-ambtelijke adviescommissies en het doen van mededeling omtrent zodanige adviezen in de Staatscourant, als voorgeschreven in artikel 3, eerste respectievelijk derde lid van de wet, geschieden door de zorg van het hoofd van de stafafdeling Voorlichting.
 
@@ -118,7 +142,7 @@ In deze beschikking wordt verstaan onder:
 
 #### Indeling en stijl
 
-#### Artikel 9
+##### Artikel 9
 
 9.1. Extern gerichte ambtelijke adviezen, nota's en rapporten die, gezien hun omvang daarvoor in aanmerking komen, worden voorzien van een voor eventuele openbaarmaking bestemde samenvatting.
 
@@ -132,13 +156,13 @@ In deze beschikking wordt verstaan onder:
 
 #### Behandeling van beroep
 
-#### Artikel 10
+##### Artikel 10
 
 Voor de behandeling namens de minister van administratief beroep in het kader van de uitvoering van de wet wordt aangewezen de juridisch adviseur of diens plaatsvervanger, daarbij terzijde gestaan door een vertegenwoordiger van het departementsonderdeel waar de informatieweigering op betrekking heeft en de ambtenaar, genoemd in artikel 4.5.
 
 #### Verslag
 
-#### Artikel 11
+##### Artikel 11
 
 11.1. Het hoofd van de stafafdeling Voorlichting is belast met het samenstellen voor wat het departement betreft van het verslag, als bedoeld in artikel 5 van de wet.
 
@@ -146,7 +170,7 @@ Voor de behandeling namens de minister van administratief beroep in het kader va
 
 #### Tarieven
 
-#### Artikel 12
+##### Artikel 12
 
 12.1. Met de inning der gelden voor het verstrekken van fotocopieën volgens de tarieven, genoemd in Aanwijzing 51, is belast het hoofd van het bureau Post- en Archiefzaken van het ministerie, voor zover het afschriften betreft door de zorg van dit bureau vervaardigd.
 
@@ -156,7 +180,7 @@ Voor de behandeling namens de minister van administratief beroep in het kader va
 
 #### Overige werkzaamheden
 
-#### Artikel 13
+##### Artikel 13
 
 Waar in de wet, het besluit of de aanwijzingen wordt gesproken van:
 
@@ -168,11 +192,11 @@ Waar in de wet, het besluit of de aanwijzingen wordt gesproken van:
 
 #### Slotartikelen
 
-#### Artikel 14
+##### Artikel 14
 
 De beschikking van 29 april 1980, nr. SG 80/U347 wordt ingetrokken.
 
-#### Artikel 15
+##### Artikel 15
 
 Deze beschikking treedt in werking met ingang van 1 januari 1983.
 

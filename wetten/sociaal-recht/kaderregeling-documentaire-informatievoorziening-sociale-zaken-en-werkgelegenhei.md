@@ -1,13 +1,39 @@
 ---
-title: "Kaderregeling documentaire informatievoorziening Sociale Zaken en Werkgelegenheid 2014"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 6 maart 2014, 2014-0000007640, houdende regels voor de documentaire informatievoorziening van het Ministerie van Sociale Zaken en Werkgelegenheid (Kaderregeling DIV SZW 2014)"
 identifier: "BWBR0034937"
-categorie: "Sociaal recht"
-publicatiedatum: 2022-01-01
-laatste_update: 2022-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034937"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-01-01"
+last_updated: "2022-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034937"
+soort: "ministeriele-regeling"
+stam_id: "12611233"
+version_id: "21296192"
+internal_id: "C30577871"
+label_id: "12581944"
+dtd_version: "2.0"
+original_entry_into_force: "2014-03-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034937/2022-01-01/0"
+intitule_bron: "Stcrt.2014-7398"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-03-06"
+intitule_published: "2014-03-18"
+intitule_in_force: "2014-03-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-7398"
+original_signed_date: "2014-03-06"
+original_published_date: "2014-03-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-7398"
+entry_into_force_date: "2014-03-19"
+jci_1_3: "jci1.3:c:BWBR0034937&z=2022-01-01&g=2022-01-01"
+jci_1_0: "1.0:c:BWBR0034937&g=2022-01-01"
+citeertitel_status: "officieel"
+short_title: "Kaderregeling documentaire informatievoorziening Sociale Zaken en Werkgelegenheid 2014"
+signed_date: "2014-03-06"
+entry_into_force: "2014-03-19"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 6 maart 2014, 2014-0000007640, houdende regels voor de documentaire informatievoorziening van het Ministerie van Sociale Zaken en Werkgelegenheid (Kaderregeling DIV SZW 2014)
 
 Gelet op [artikel 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Begrippenkader
 
-#### Artikel 1. Begrippen
+##### Artikel 1. Begrippen
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -52,13 +78,13 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 2. Reikwijdte en verantwoordelijkheden
 
-#### Artikel 2. Reikwijdte
+##### Artikel 2. Reikwijdte
 
 1. Deze regeling is van toepassing op het beheer van alle archiefbescheiden van het ministerie, met uitzondering van de personeelsdossiers van ambtenaren werkzaam bij het ministerie. Daarop is de **Instructie beheer en inrichting personeelsdossiers SZW 2012** van toepassing.
 
 2. Deze regeling is geldig voor alle archiefbescheiden van het ministerie, dus zowel voor de digitale als voor de papieren archiefbescheiden. Bij het archiveren van nieuwe documenten is het digitale archief echter leidend: de documentaire informatievoorziening dient hoofdzakelijk digitaal te verlopen, tenzij een bijzondere omstandigheid of de wet noodzaakt om papieren documenten te gebruiken.
 
-#### Artikel 3. Verantwoordelijkheden
+##### Artikel 3. Verantwoordelijkheden
 
 1. Minister
 
@@ -132,7 +158,7 @@ De Minister van Sociale Zaken en Werkgelegenheid is de zorgdrager voor de archie
 
 ### Hoofdstuk 3. Archiefvorming
 
-#### Artikel 4. Registratie en afdoening archiefbescheiden
+##### Artikel 4. Registratie en afdoening archiefbescheiden
 
 1. De verantwoordelijkheid voor het identificeren en registreren van nieuwe archiefbescheiden berust bij de behandelend medewerker. Direct bij binnenkomst of bij creatie van documenten beoordeelt de behandelend medewerker, op grond van de geldende registratiecriteria, of het archiefbescheiden betreft. Vervolgens registreert hij nieuwe archiefbescheiden door ze in het juiste dossier op te slaan.
 
@@ -144,7 +170,7 @@ De Minister van Sociale Zaken en Werkgelegenheid is de zorgdrager voor de archie
 
 5. De directeur van een archiefvormend orgaan is verantwoordelijk voor het afdoen van de archiefbescheiden binnen de vastgestelde termijn.
 
-#### Artikel 5. Archiefordening en dossiervorming
+##### Artikel 5. Archiefordening en dossiervorming
 
 1. De directeur Organisatie, Bedrijfsvoering en Personeel stelt op advies van de beheerder de ordeningsstructuur vast voor het lopende archief, gebaseerd op de taken en werkprocessen van de betreffende directie.
 
@@ -158,7 +184,7 @@ De Minister van Sociale Zaken en Werkgelegenheid is de zorgdrager voor de archie
 
 6. De apparatuur, besturingsprogrammatuur of toepassingsapparatuur waarmee ordening en toegankelijkheid van digitale archiefbescheiden is gerealiseerd, vormt een onverbrekelijke eenheid met de archiefbescheiden waarop ze zijn toegepast.
 
-#### Artikel 6. Afsluiten van een dossier
+##### Artikel 6. Afsluiten van een dossier
 
 1. Binnen een jaar na de laatste wijziging in een dossier treedt de beheerder van een dossier in overleg met het archiefvormende orgaan over het afsluiten van het dossier.
 
@@ -172,7 +198,7 @@ De Minister van Sociale Zaken en Werkgelegenheid is de zorgdrager voor de archie
 
 6. Als een dossier eenmaal is afgesloten, blijft het in principe onveranderlijk. Alleen op grond van zwaarwegende argumenten kan de verantwoordelijke directeur besluiten om een afgesloten dossier tijdelijk te heropenen, met name om een geconstateerd mankement te verhelpen dat de volledigheid, authenticiteit of integriteit van het afgesloten dossier in het geding brengt.
 
-#### Artikel 7. Documentenmanagementsystemen
+##### Artikel 7. Documentenmanagementsystemen
 
 1. Het ministerie maakt gebruik van documentmanagementsystemen voor het dagelijks beheer van digitale archiefbescheiden. Medewerkers slaan hierin hun archiefbescheiden op.
 
@@ -184,7 +210,7 @@ De Minister van Sociale Zaken en Werkgelegenheid is de zorgdrager voor de archie
 
 5. Nieuwe documentmanagementsystemen moeten voldoen aan de richtlijnen uit de **Informatiseringstrategie (I-strategie) Rijk.**
 
-#### Artikel 8. Metagegevensschema
+##### Artikel 8. Metagegevensschema
 
 1. Voor ieder binnen het ministerie gebruikt documentmanagementsysteem moet een metagegevensschema beschikbaar zijn, dat duidelijk omschrijft welke metagegevens ten minste aan documenten of dossiers gekoppeld moeten zijn.
 
@@ -194,7 +220,7 @@ De Minister van Sociale Zaken en Werkgelegenheid is de zorgdrager voor de archie
 
 4. De op grond van een metagegevensschema toegekende metagegevens maken het te allen tijde mogelijk om van digitale archiefbescheiden het gedrag vast te stellen.
 
-#### Artikel 9. Bestandsoverzicht
+##### Artikel 9. Bestandsoverzicht
 
 1. De directeur van een archiefvormend orgaan laat een actueel, compleet en logisch samenhangend overzicht aanleggen en bijhouden van archiefbescheiden die onder zijn verantwoordelijkheid vallen. Het overzicht is geordend volgens het voor de betreffende archief geldende ordeningsstructuur.
 
@@ -202,7 +228,7 @@ De Minister van Sociale Zaken en Werkgelegenheid is de zorgdrager voor de archie
 
 ### Hoofdstuk 4. Archiefbeheer
 
-#### Artikel 10. Duurzaamheid van archiefbescheiden in het algemeen
+##### Artikel 10. Duurzaamheid van archiefbescheiden in het algemeen
 
 1. Om de archieven in goede, geordende en toegankelijke staat te houden, maakt het ministerie bij het vormen en bewaren van permanent te bewaren archiefbescheiden gebruik van standaarden en procedures die voldoen aan de eisen gesteld in de [Archiefregeling 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027041).
 
@@ -210,7 +236,7 @@ De Minister van Sociale Zaken en Werkgelegenheid is de zorgdrager voor de archie
 
 3. De directie Organisatie, Bedrijfsvoering en Personeel voert onder verantwoordelijkheid van de betreffende directeuren kwaliteitscontroles uit op de archieven binnen het ministerie, om de duurzame toegankelijkheid van de archieven te garanderen. Hierbij dienen de [Archiefregeling 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027041) en de **Baseline Informatiehuishouding Rijksoverheid** als richtlijn voor goed archiefbeheer.
 
-#### Artikel 11. Duurzaamheid van digitale archiefbescheiden
+##### Artikel 11. Duurzaamheid van digitale archiefbescheiden
 
 1. De beheerder draagt zorg voor het technische onderhoud van de digitale archiefbescheiden onder zijn beheer, om de blijvende toegankelijkheid en leesbaarheid te borgen met inachtneming van de authenticiteit en betrouwbaarheid van de archiefbescheiden.
 
@@ -234,13 +260,13 @@ De Minister van Sociale Zaken en Werkgelegenheid is de zorgdrager voor de archie
 
 7. Van de conversie of migratie van bestanden laat de beheerder in samenspraak met de directeur Organisatie, Bedrijfsvoering en Personeel volgens een model een verklaring opmaken, die een specificatie bevat van de betreffende digitale archiefbescheiden en die aangeeft op welke wijze en met welk resultaat getoetst is, of de toegankelijke staat en authenticiteit van de digitale archiefbescheiden zijn gewaarborgd na de overzetting. De beheerder ondertekent de verklaring van conversie of migratie. De directie Organisatie, Bedrijfsvoering en Personeel en het archiefvormende orgaan bewaren de verklaring van conversie of migratie blijvend in hun archief.
 
-#### Artikel 12. Duurzaamheid van papieren archiefbescheiden
+##### Artikel 12. Duurzaamheid van papieren archiefbescheiden
 
 1. Indien papieren archiefbescheiden door de aard van de gebruikte materialen niet (langer) voldoen aan het in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034937&hoofdstuk=4&artikel=10&z=2022-01-01&g=2022-01-01) bepaalde, gaat de beheerder over tot vervanging van de archiefbescheiden door reproducties, als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0034937&hoofdstuk=4&artikel=14&z=2022-01-01&g=2022-01-01), tenzij het archiefbescheiden betreft die zijn uitgesloten van vervanging.
 
 2. De directeur Organisatie, Bedrijfsvoering en Personeel kan door middel van een overeenkomst afgesloten papieren archiefbestanden op laten slaan bij derden in speciaal daarvoor bestemde archiefruimten die voldoen aan de voorschriften archiefruimten in de [Archiefregeling 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027041).
 
-#### Artikel 13. Selectielijst
+##### Artikel 13. Selectielijst
 
 1. De directeur Organisatie, Bedrijfsvoering en Personeel is verantwoordelijk voor het beschikbaar stellen van een toepasbare vastgestelde selectielijst.
 
@@ -256,7 +282,7 @@ De Minister van Sociale Zaken en Werkgelegenheid is de zorgdrager voor de archie
 
 4. Het vaststellen van nieuwe selectielijsten verloopt conform de [artikelen 2 tot en met 5 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=2). De plaatsvervangend secretaris-generaal tekent nieuwe selectielijsten.
 
-#### Artikel 14. Vervanging
+##### Artikel 14. Vervanging
 
 1. De plaatsvervangend secretaris-generaal of de directeur van een archiefvormend orgaan kan, na advies van de directie Organisatie, Bedrijfsvoering en Personeel, besluiten om over te gaan tot vervanging van archiefbescheiden door reproducties, tenzij het archiefbescheiden betreft die zijn uitgesloten van vervanging. Vereist is dat de vervanging geschiedt met de juiste en volledige weergave van de in de te vervangen archiefbestanden voorkomende gegevens. De vernietiging van de vervangen originelen is onverbrekelijk onderdeel van het vervangingsproces.
 
@@ -266,7 +292,7 @@ De Minister van Sociale Zaken en Werkgelegenheid is de zorgdrager voor de archie
 
 4. Van de vervanging van archiefbescheiden laat de directeur Organisatie, Bedrijfsvoering en Personeel volgens een model een verklaring opmaken, die ten minste een specificatie van de vervangen archiefbescheiden behelst. Onder verantwoordelijkheid van de directeur Organisatie, Bedrijfsvoering en Personeel ondertekent het hoofd van de afdeling FDW de verklaring van vervanging. De directeur Organisatie, Bedrijfsvoering en Personeel bewaart de verklaring van vervanging blijvend in zijn archief.
 
-#### Artikel 15. Vernietiging
+##### Artikel 15. Vernietiging
 
 1. Vernietiging van archiefbescheiden vindt uitsluitend plaats op grond van een selectielijst als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0034937&hoofdstuk=4&artikel=13&z=2022-01-01&g=2022-01-01), of na vervanging van de betreffende archiefbescheiden door reproducties volgens de procedure beschreven in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0034937&hoofdstuk=4&artikel=14&z=2022-01-01&g=2022-01-01).
 
@@ -278,7 +304,7 @@ De Minister van Sociale Zaken en Werkgelegenheid is de zorgdrager voor de archie
 
 5. Van de vernietiging van archiefbescheiden in het kader van de vervangingsprocedure laat de directeur Organisatie, Bedrijfsvoering en Personeel volgens een model een verklaring opmaken, die ten minste een specificatie van de vernietigde archiefbescheiden behelst. Onder verantwoordelijkheid van de directeur Organisatie, Bedrijfsvoering en Personeel ondertekent het hoofd van de afdeling FDW de verklaring van vernietiging. De directeur Organisatie, Bedrijfsvoering en Personeel bewaart de verklaring van vernietiging blijvend in zijn archief.
 
-#### Artikel 16. Overbrenging naar een archiefbewaarplaats
+##### Artikel 16. Overbrenging naar een archiefbewaarplaats
 
 1. De directeur Organisatie, Bedrijfsvoering en Personeel is verantwoordelijk voor de overbrenging van de daarvoor in aanmerking komende archiefbescheiden naar een archiefbewaarplaats. De selectielijst, zoals beschreven in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0034937&hoofdstuk=4&artikel=13&z=2022-01-01&g=2022-01-01), is in dit procesleidend. De directeur Organisatie, Bedrijfsvoering en Personeel brengt de daarvoor in aanmerking komende archiefbescheiden in principe twintig jaar na het afsluiten van het dossier over naar een archiefbewaarplaats.
 
@@ -302,13 +328,13 @@ De Minister van Sociale Zaken en Werkgelegenheid is de zorgdrager voor de archie
 
 11. De directeur Organisatie, Bedrijfsvoering en Personeel kan beslissen dat het wenselijk is om de overbrenging van bepaalde dossiers op te schorten, indien medewerkers van het ministerie die dossiers nog regelmatig gebruiken of raadplegen. In dat geval dient hij een verzoek tot opschorting van overbrenging in te dienen bij de Minister van Onderwijs, Cultuur en Wetenschap, waarin hij specificeert om welke archiefbescheiden het gaat en uitlegt waarom de opschorting wenselijk is. Voor de opschorting van overbrenging is namelijk een machtiging van de Minister van Onderwijs, Cultuur en Wetenschap vereist.
 
-#### Artikel 17. Overdracht
+##### Artikel 17. Overdracht
 
 1. Indien een directie de verantwoordelijkheid voor archiefbescheiden overdraagt aan een andere directie, laat de overdragende directeur volgens een model een verklaring opmaken, die een specificatie van de overgedragen archiefbescheiden bevat. Zowel de overdragende als de ontvangende directeur ondertekenen de verklaring van overdracht. Zowel de ontvangende directie als de directie Organisatie, Bedrijfsvoering en Personeel bewaren de verklaring van overdracht in hun archief.
 
 2. Er is geen verklaring van overdracht nodig, indien een archiefvormende directie afgesloten archiefbescheiden formeel overdraagt aan de directie Organisatie, Bedrijfsvoering en Personeel en de directeur Organisatie, Bedrijfsvoering en Personeel door een dienstverleningsovereenkomst al de beheerder van de betreffende archiefbescheiden is. In dat geval is de formele overdracht geregeld in de dienstverleningsovereenkomst en bezegelt het afsluiten van het dossier volgens de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034937&hoofdstuk=4&artikel=10&z=2022-01-01&g=2022-01-01) beschreven procedure formeel de overdracht.
 
-#### Artikel 18. Vervreemding
+##### Artikel 18. Vervreemding
 
 1. De directeur van een archiefvormend orgaan en de directeur Organisatie, Bedrijfsvoering en Personeel kunnen besluiten tot vervreemding van archiefbescheiden die onder hun verantwoordelijkheid vallen. Indien de vervreemding niet plaatsvindt ter uitvoering van een in enige wet neergelegd voorschrift, is voor de vervreemding een machtiging vereist van de Minister van Onderwijs, Cultuur en Wetenschap.
 
@@ -322,7 +348,7 @@ De Minister van Sociale Zaken en Werkgelegenheid is de zorgdrager voor de archie
 
 ### Hoofdstuk 5. Informatieverstrekking
 
-#### Artikel 19. Interne beschikbaarstelling van archiefbescheiden
+##### Artikel 19. Interne beschikbaarstelling van archiefbescheiden
 
 1. Dossiers zijn voor iedere medewerker van het ministerie in te zien, tenzij er beperkende voorschriften van toepassing zijn.
 
@@ -332,13 +358,13 @@ De Minister van Sociale Zaken en Werkgelegenheid is de zorgdrager voor de archie
 
 4. De beheerder ziet toe op de tijdige terugbezorging van uitgeleende papieren dossiers.
 
-#### Artikel 20. Externe beschikbaarstelling van archiefbescheiden
+##### Artikel 20. Externe beschikbaarstelling van archiefbescheiden
 
 Verzoeken van derden om beschikbaarstelling van archiefbescheiden behandelt het ministerie in overeenstemming met de van toepassing zijnde artikelen uit de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537), [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252), de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) en de Algemene verordening gegevensbescherming.
 
 ### Hoofdstuk 6. Organisatiewijzigingen
 
-#### Artikel 21. Organisatiewijzigingen in het algemeen
+##### Artikel 21. Organisatiewijzigingen in het algemeen
 
 1. Bij een organisatiewijziging treft de plaatsvervangend secretaris-generaal een voorziening omtrent het archiefbeheer.
 
@@ -346,7 +372,7 @@ Verzoeken van derden om beschikbaarstelling van archiefbescheiden behandelt het 
 
 3. De overdracht of vervreemding van archiefbescheiden in het kader van een organisatiewijziging binnen de rijksoverheid vindt plaats overeenkomstig het [Besluit archiefoverdrachten rijksadministratie](https://wetten.overheid.nl/jci1.3:c:BWBR0004427).
 
-#### Artikel 22. Reorganisatie
+##### Artikel 22. Reorganisatie
 
 - 1). Bij reorganisatie zorgt de beheerder voor het afsluiten van het archief van het betreffende archiefvormende orgaan. De nieuwe organisatie begint met een nieuw archief.
 
@@ -358,7 +384,7 @@ Verzoeken van derden om beschikbaarstelling van archiefbescheiden behandelt het 
 
 - 5). In geval van reorganisatie draagt de verantwoordelijke directeur zorg voor de overdracht aan de directeur Organisatie, Bedrijfsvoering en Personeel van de archiefbescheiden betreffende zaken die op het moment van de reorganisatie reeds zijn afgesloten en niet meer noodzakelijk zijn voor de uitvoering van de taken.
 
-#### Artikel 23. Opheffing
+##### Artikel 23. Opheffing
 
 - 1). In geval van opheffing van een archiefvormend orgaan, waarbij geen overdracht van taken plaatsvindt, draagt de verantwoordelijke directeur het betreffende orgaan zorg voor de overdracht aan de directeur Organisatie, Bedrijfsvoering en Personeel van de archiefbescheiden.
 
@@ -368,7 +394,7 @@ Verzoeken van derden om beschikbaarstelling van archiefbescheiden behandelt het 
 
 - 4). In geval van opheffing van het gehele ministerie draagt de minister zorg voor de overdracht van alle archiefbescheiden van het ministerie aan het overheidsorgaan dat de taken van het ministerie zal gaan uitvoeren.
 
-#### Artikel 24. Privatisering
+##### Artikel 24. Privatisering
 
 - 1). Bij privatisering sluit de verantwoordelijke directeur het archief van zijn directie af. De private rechtspersoon begint met een nieuw archief.
 
@@ -384,7 +410,7 @@ Verzoeken van derden om beschikbaarstelling van archiefbescheiden behandelt het 
 
 ### Hoofdstuk 7. Toezicht en beveiliging
 
-#### Artikel 25. Toezicht
+##### Artikel 25. Toezicht
 
 1. De beheerder is namens een archiefvormend orgaan belast met het toezicht op de uitvoering van de dagelijkse werkzaamheden met betrekking tot het lopende archiefbeheer.
 
@@ -398,7 +424,7 @@ Verzoeken van derden om beschikbaarstelling van archiefbescheiden behandelt het 
 
 6. De directie Organisatie, Bedrijfsvoering en Personeel en de verantwoordelijke beheerder verlenen medewerking aan de Erfgoedinspectie bij het uitvoeren van kwaliteitsonderzoek en kwaliteitscontroles op het archiefbeheer.
 
-#### Artikel 26. Beveiliging
+##### Artikel 26. Beveiliging
 
 1. Het [Voorschrift Informatiebeveiliging Rijksdienst 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022141) (VIR 2007) en het [Voorschrift Informatiebeveiliging Rijksdienst – Bijzondere Informatie](https://wetten.overheid.nl/jci1.3:c:BWBR0033507) (VIR-BI) vormen de kaders voor de beveiliging van het informatiebeheer.
 
@@ -420,15 +446,15 @@ Verzoeken van derden om beschikbaarstelling van archiefbescheiden behandelt het 
 
 ### Hoofdstuk 8. : Aanhaling en slotbepalingen
 
-#### Artikel 27. Intrekking
+##### Artikel 27. Intrekking
 
 De [Kaderregeling documentaire informatievoorziening Sociale Zaken en Werkgelegenheid 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0026991) wordt ingetrokken.
 
-#### Artikel 28. Inwerkingtreding
+##### Artikel 28. Inwerkingtreding
 
 De regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 29. Citeertitel
+##### Artikel 29. Citeertitel
 
 Deze regeling wordt aangehaald als: Kaderregeling documentaire informatievoorziening Sociale Zaken en Werkgelegenheid 2014.
 

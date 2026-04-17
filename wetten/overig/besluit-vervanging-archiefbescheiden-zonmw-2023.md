@@ -1,13 +1,38 @@
 ---
 title: "Besluit vervanging archiefbescheiden ZonMw 2023"
 identifier: "BWBR0048711"
-categorie: "Overig"
-publicatiedatum: 2023-10-10
-laatste_update: 2023-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048711"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-10-10"
+last_updated: "2023-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048711"
+soort: "zbo"
+stam_id: "16875323"
+version_id: "29659342"
+internal_id: "C42446441"
+label_id: "16787424"
+dtd_version: "2.0"
+original_entry_into_force: "2023-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048711/2023-10-10/0"
+intitule_bron: "Stcrt.2023-27887"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-10-03"
+intitule_published: "2023-10-06"
+intitule_in_force: "2023-10-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-27887"
+original_signed_date: "2023-10-03"
+original_published_date: "2023-10-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-27887"
+entry_into_force_date: "2023-10-10"
+jci_1_3: "jci1.3:c:BWBR0048711&z=2023-10-10&g=2023-10-10"
+jci_1_0: "1.0:c:BWBR0048711&g=2023-10-10"
+citeertitel_status: "officieel"
+signed_date: "2023-10-03"
+entry_into_force: "2023-10-10"
 ---
-
 # Besluit vervanging archiefbescheiden ZonMw 2023
 
 Gelet op:
@@ -18,17 +43,17 @@ De regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 6 december 
 
 Besluit(en):
 
-#### Artikel 1
+##### Artikel 1
 
 1. Over te gaan tot vervanging door digitale reproducties van de analoge archiefbescheiden die voor bewaring of vernietiging in aanmerking komen en vanaf 10 oktober 2023 worden ontvangen, waarna deze analoge archiefbescheiden worden vernietigd.
 
 2. Reproductie geschiedt op de wijze zoals omschreven in het vastgestelde Handboek vervanging ZonMw;
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit (na bekendmaking van dit besluit in de Staatscourant) treedt in werking op 10 oktober 2023
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit kan worden aangehaald als: Besluit vervanging archiefbescheiden ZonMw 2023.
 

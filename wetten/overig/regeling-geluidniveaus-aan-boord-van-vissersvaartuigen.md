@@ -1,13 +1,38 @@
 ---
 title: "Regeling geluidniveaus aan boord van vissersvaartuigen"
 identifier: "BWBR0027070"
-categorie: "Overig"
-publicatiedatum: 2017-01-01
-laatste_update: 2017-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027070"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-01-01"
+last_updated: "2017-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027070"
+soort: "ministeriele-regeling"
+stam_id: "10386513"
+version_id: "17088312"
+internal_id: "C23575291"
+label_id: "10362184"
+dtd_version: "2.0"
+original_entry_into_force: "2000-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027070/2017-01-01/0"
+intitule_bron: "Stcrt.2000-169"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-08-17"
+intitule_published: "2000-09-01"
+intitule_in_force: "2000-09-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2000-169"
+original_signed_date: "2000-08-17"
+original_published_date: "2000-09-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2000-169-p8-SC25400"
+entry_into_force_date: "2000-11-01"
+jci_1_3: "jci1.3:c:BWBR0027070&z=2017-01-01&g=2017-01-01"
+jci_1_0: "1.0:c:BWBR0027070&g=2017-01-01"
+citeertitel_status: "officieel"
+signed_date: "2000-08-17"
+entry_into_force: "2000-11-01"
 ---
-
 # Regeling geluidniveaus aan boord van vissersvaartuigen
 
 Gelet op [artikel 193b, vierde lid, van het Vissersvaartuigenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004607&artikel=193b);
@@ -16,7 +41,7 @@ Besluit:
 
 #### § 1. Omschrijvingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -44,7 +69,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Maximaal toelaatbare grenswaarden
 
-#### Artikel 2
+##### Artikel 2
 
 In de navolgende ruimten worden de volgende grenswaarden voor geluidniveaus- A niet overschreden:
 
@@ -66,7 +91,7 @@ In de navolgende ruimten worden de volgende grenswaarden voor geluidniveaus- A n
 
 #### § 3. Gehoorbescherming en waarschuwingen
 
-#### Artikel 3
+##### Artikel 3
 
 1. In ruimten waarin het geluidniveau- A hoger is dan 85 dB(A) worden gehoorbeschermingsmiddelen gedragen.
 
@@ -76,13 +101,13 @@ In de navolgende ruimten worden de volgende grenswaarden voor geluidniveaus- A n
 
 4. Personen worden niet blootgesteld aan een geluidniveau-A hoger dan 110 dB(A).
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien de toepassing van maatregelen ter bestrijding van geluid bij de bron het geluidniveau-A in een ruimte niet vermindert tot maximaal 85 dB(A), worden aan de personen die deze ruimten betreden doeltreffende aan hun persoonlijke behoeften aangepaste gehoorbeschermingsmiddelen verstrekt.
 
 2. De verstrekking van gehoorbeschermingsmiddelen mag niet worden beschouwd als een vervangende maatregel voor de doeltreffende bestrijding van geluidhinder aan de bron.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Met gehoorbeschermingsmiddelen als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027070&paragraaf=3&artikel=3&z=2017-01-01&g=2017-01-01) worden ten minste de in onderstaande tabel vermelde niveauverlagingen verkregen. De niveauverlaging, die getoetst wordt aan de waarde in de tabel, wordt verkregen door de gemiddelde waarde van de met de gehoorbeschermingsmiddelen verkregen niveauverlaging te verminderen met de standaardafwijking, gemeten volgens de ISO-Norm 4969.
 
@@ -98,19 +123,19 @@ In de navolgende ruimten worden de volgende grenswaarden voor geluidniveaus- A n
 
 - b. oorkappen: -30 dB(A).
 
-#### Artikel 6
+##### Artikel 6
 
 1. In ruimten waar het geluidniveau-A hoger is dan 85 dB(A), worden bij de toegangen tot die ruimten waarschuwingsborden aangebracht waarop duidelijk is aangegeven dat in de te betreden ruimte het dragen van gehoorbescherming verplicht is. Indien in een vrij klein gedeelte van een ruimte een dergelijk geluidniveau-A aanwezig is, wordt op de desbetreffende plaats of plaatsen op ooghoogte een waarschuwing aangebracht, zichtbaar vanuit elke toegangsrichting.
 
 2. Aan het eerste lid wordt in ieder geval voldaan indien op het waarschuwingsbod een pictogram betreffende gehoorbescherming als bedoeld in NEN 3011:2015: Nederlandse norm voor Veiligheidskleuren en -tekens in de werkomgeving en in de openbare ruimte, is aangebracht.
 
-#### Artikel 7
+##### Artikel 7
 
 Indien handgereedschappen en andere draagbare apparatuur bij normaal bedrijf geluidniveaus-A veroorzaken hoger dan 85 dB(A), worden op deze gereedschappen of op de daarbij behorende verpakkingen waarschuwingen aangebracht.
 
 #### § 4. Geluidisolatie in ruimten voor accommodatie
 
-#### Artikel 8
+##### Artikel 8
 
 1. In schotten en dekken in de ruimten voor accommodatie wordt luchtgeluidisolatie aangebracht die ten minste voldoet aan de geluidisolatieindex (Rw) overeenkomstig de ISONorm R717/1-1982:
 
@@ -120,13 +145,13 @@ Indien handgereedschappen en andere draagbare apparatuur bij normaal bedrijf gel
 
 2. De montage van materialen en de constructie van ruimten voor accommodatie geschieden zorgvuldig teneinde zoveel mogelijk te voorkomen dat de in het eerste lid genoemde isolatiewaarden ongunstig worden beïnvloed.
 
-#### Artikel 9
+##### Artikel 9
 
 De luchtgeluidisolatie wordt ten genoegen van het Hoofd van de Scheepvaartinspectie bepaald met behulp van laboratoriumproeven volgens de ISO-Norm R 140/III.
 
 #### § 5. Meting
 
-#### Artikel 10
+##### Artikel 10
 
 1. De vaststelling of aan de voor een werkruimte voorgeschreven grenswaarde is voldaan, geschiedt door meting van het constante, het fluctuerende, of het equivalente continue geluidniveau-A in deze ruimte. In de gevallen waarin het equivalente continue geluidniveau-A wordt gebruikt, zijn alle in de [artikelen 13 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0027070&paragraaf=5&artikel=13&z=2017-01-01&g=2017-01-01) vereiste meetplaatsen daarin begrepen.
 
@@ -134,7 +159,7 @@ De luchtgeluidisolatie wordt ten genoegen van het Hoofd van de Scheepvaartinspec
 
 3. In ruimten voor accommodatie waarin de dB(A)-grenswaarden worden overschreden en waarin een waarneembaar hinderlijk geluid van lage frequentie aanwezig is of duidelijk waarneembare tonen aanwezig zijn, wordt de ISO-NR-waarde bepaald. De ISO-NR-waarde bedraagt niet meer dan de voorgeschreven waarde volgens de A-schaal, verminderd met 5.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Het Hoofd van de Scheepvaartinspectie of een door hem aangewezen akoestisch bureau stelt voor elk vissersvaartuig een onderzoeksrapport inzake geluidniveaus-A op. In het rapport wordt de afgelezen waarde op elk voorgeschreven meetpunt vermeld. De meetpunten zijn aangegeven op een algemeen plan of zijn anderszins kenbaar gemaakt.
 
@@ -168,11 +193,11 @@ De luchtgeluidisolatie wordt ten genoegen van het Hoofd van de Scheepvaartinspec
 
 3. Een kopie van het onderzoeksrapport wordt aan boord van het vissersvaartuig bewaard.
 
-#### Artikel 12
+##### Artikel 12
 
 Zo spoedig mogelijk na de bouw of verbouw van het vissersvaartuig worden de geluidniveaus-A in de ruimten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027070&paragraaf=2&artikel=2&z=2017-01-01&g=2017-01-01), onder de bedrijfsomstandigheden, bedoeld in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0027070&paragraaf=5&artikel=13&z=2017-01-01&g=2017-01-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0027070&paragraaf=5&artikel=14&z=2017-01-01&g=2017-01-01), gemeten en overeenkomstig [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0027070&paragraaf=5&artikel=11&z=2017-01-01&g=2017-01-01) op passende wijze geregistreerd.
 
-#### Artikel 13
+##### Artikel 13
 
 Metingen op zee worden verricht onder de navolgende bedrijfsomstandigheden:
 
@@ -188,7 +213,7 @@ Metingen op zee worden verricht onder de navolgende bedrijfsomstandigheden:
 
 - f. ruimten zijn volledig ingericht.
 
-#### Artikel 14
+##### Artikel 14
 
 Metingen in de haven worden verricht onder de navolgende bedrijfsomstandigheden:
 
@@ -196,7 +221,7 @@ Metingen in de haven worden verricht onder de navolgende bedrijfsomstandigheden:
 
 - b. de metingen in ruimten waarin de invloed van laad- of losinstallaties merkbaar kan zijn, worden verricht als deze installaties in bedrijf zijn.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Tijdens het meten is de toestand van de omgeving zodanig dat:
 
@@ -206,11 +231,11 @@ Metingen in de haven worden verricht onder de navolgende bedrijfsomstandigheden:
 
 2. De waterdiepte onder de kiel van het vissersvaartuig en de aanwezigheid van grote reflecterende oppervlakken in de nabijheid van het vissersvaartuig, worden vermeld in het onderzoeksrapport, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0027070&paragraaf=5&artikel=11&z=2017-01-01&g=2017-01-01).
 
-#### Artikel 16
+##### Artikel 16
 
 Op plaatsen met een hoog geluidniveau- A worden steekproeven genomen, waarbij de precisiegeluidniveaumeter wordt ingesteld op de stand «snel».
 
-#### Artikel 17
+##### Artikel 17
 
 De meetprocedures voldoen aan de volgende voorschriften:
 
@@ -224,11 +249,11 @@ De meetprocedures voldoen aan de volgende voorschriften:
 
 - e. bij meting van de geluidbelasting kan behalve het constante en variërende geluidniveaus-A, ook de geluidbelasting van personen worden gemeten, zoals voorzien in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027070&paragraaf=3&artikel=4&z=2017-01-01&g=2017-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0027070&paragraaf=3&artikel=5&z=2017-01-01&g=2017-01-01).
 
-#### Artikel 18
+##### Artikel 18
 
 De geluidniveaumeter wordt geijkt met behulp van het ijkinstrument, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0027070&paragraaf=6&artikel=21&z=2017-01-01&g=2017-01-01), direct voor en na afloop van de metingen.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Op de volgende plaatsen worden op de aangegeven wijzen metingen uitgevoerd:
 
@@ -248,7 +273,7 @@ De geluidniveaumeter wordt geijkt met behulp van het ijkinstrument, bedoeld in [
 
 #### § 6. Meetapparatuur
 
-#### Artikel 20
+##### Artikel 20
 
 Ten aanzien van de meetapparatuur gelden de volgende voorschriften:
 
@@ -258,7 +283,7 @@ Ten aanzien van de meetapparatuur gelden de volgende voorschriften:
 
 - c. microfoons zijn van een type dat rondom gevoelig is. Zij voldoen aan het bepaalde in de IEC publikatie 179 (1973), of in de IEC publikatie 651 (1979), klasse 1 of 2.
 
-#### Artikel 21
+##### Artikel 21
 
 Ten aanzien van het gebruik van apparatuur gelden de volgende voorschriften:
 
@@ -274,17 +299,17 @@ Ten aanzien van het gebruik van apparatuur gelden de volgende voorschriften:
 
 #### § 7. Prognose
 
-#### Artikel 22
+##### Artikel 22
 
 1. Voor de ruimten, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027070&paragraaf=2&artikel=2&z=2017-01-01&g=2017-01-01), wordt voorafgaand aan de bouw dan wel verbouw van een vissersvaartuig een prognose van de geluidniveaus-A opgesteld.
 
 2. De prognose, bedoeld in het eerste lid, met de bijbehorende berekeningen en een overzicht van de te nemen akoestische maatregelen, wordt tijdig aan het Hoofd van de Scheepvaartinspectie overgelegd, doch uiterlijk in een zodanig stadium van de bouw dan wel verbouw, dat nog ingrijpende akoestische maatregelen kunnen worden getroffen.
 
-#### Artikel 23
+##### Artikel 23
 
 Deze regeling treedt voor Nederland en Aruba in werking met ingang van de eerste dag van de tweede kalendermaand na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en voor Curaçao, onderscheidenlijk Sint Maarten op een nader te bepalen tijdstip.
 
-#### Artikel 24
+##### Artikel 24
 
 Deze regeling wordt aangehaald als: Regeling geluidniveaus aan boord van vissersvaartuigen.
 

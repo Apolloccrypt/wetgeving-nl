@@ -1,13 +1,35 @@
 ---
 title: "Gastlandverdrag tussen het Koninkrijk der Nederlanden en de Verenigde Naties betreffende het Centre for Artificial Intelligence and Robotics in '-s Gravenhage van het United Nations Interregional Crime and Justice Research Institute"
 identifier: "BWBV0006698"
-categorie: "Internationaal recht"
-publicatiedatum: 2017-09-07
-laatste_update: 2017-09-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006698"
+country: "nl"
+rank: "verdrag"
+publication_date: "2017-09-07"
+last_updated: "2017-09-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006698"
+soort: "verdrag"
+stam_id: "10005414773"
+version_id: "10005857082"
+internal_id: "C10009281611"
+label_id: "10005397754"
+dtd_version: "2.0"
+original_entry_into_force: "2017-09-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006698/2017-09-07/0"
+intitule_bron: "Trb.2017-161"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2017-09-13"
+intitule_in_force: "2017-09-13"
+intitule_status: "goed"
+original_publication: "Trb.2017-161"
+original_published_date: "2017-09-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2017-161"
+entry_into_force_date: "2017-09-07"
+jci_1_3: "jci1.3:c:BWBV0006698&z=2017-09-07&g=2017-09-07"
+jci_1_0: "1.0:c:BWBV0006698&g=2017-09-07"
+citeertitel_status: "redactioneel"
+entry_into_force: "2017-09-07"
 ---
-
 # Gastlandverdrag tussen het Koninkrijk der Nederlanden en de Verenigde Naties betreffende het Centre for Artificial Intelligence and Robotics in '-s Gravenhage van het United Nations Interregional Crime and Justice Research Institute
 
 Whereas UNICRI was established as a part of the United Nations by the Economic and Social Council (ECOSOC) and is presently ruled by the Statute adopted by ECOSOC with Resolution No. 1989/56 of 24 May 1989;
@@ -22,7 +44,7 @@ The Kingdom of the Netherlands and the United Nations have agreed as follows:
 
 ## PART 1. GENERAL PROVISIONS
 
-#### Article 1. Use of terms
+##### Article 1. Use of terms
 
 For the purpose of this Agreement:
 
@@ -68,19 +90,19 @@ For the purpose of this Agreement:
 
 - q). “Secretary-General” means the Secretary-General of the United Nations.
 
-#### Article 2. Establishment of the Centre
+##### Article 2. Establishment of the Centre
 
 1. UNICRI shall establish a Centre in the host State, to carry out the functions in accordance with the mandate of UNICRI set out in the Statute adopted by ECOSOC with Resolution No. 1989/56 of 24 May 1989 and any subsequent decision or resolution of the United Nations relevant to, and relating specifically to, UNICRI.
 
 2. The seat of the Centre shall be located in The Hague, the Netherlands.
 
-#### Article 3. Purpose and scope of this Agreement
+##### Article 3. Purpose and scope of this Agreement
 
 This Agreement shall regulate matters relating to or arising out of the establishment and the proper functioning of the Centre in the host State. It shall, **inter alia**, create conditions conducive to the stability and independence of the Centre and facilitate its smooth and efficient functioning.
 
 ## PART II. STATUS OF THE CENTRE
 
-#### Article 4. Juridical personality
+##### Article 4. Juridical personality
 
 1. The Centre shall possess full juridical personality in the host State. This shall, in particular, include the capacity:
 
@@ -92,13 +114,13 @@ This Agreement shall regulate matters relating to or arising out of the establis
 
 2. For the purpose of this Article, the Centre shall be represented by the Head of the Centre.
 
-#### Article 5. Privileges, immunities and facilities
+##### Article 5. Privileges, immunities and facilities
 
 1. The Centre shall enjoy, in the territory of the host State, such privileges, immunities and facilities as are necessary for the fulfilment of its purposes.
 
 2. The [General Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005561) shall apply to the Centre and the archives of the Centre. Furthermore, the Centre shall enjoy the privileges, immunities, and facilities set out in this Agreement.
 
-#### Article 6. Inviolability of the premises
+##### Article 6. Inviolability of the premises
 
 1. The premises shall be inviolable. The competent authorities shall ensure that the Centre is not dispossessed and/or deprived of all or any part of its premises without its express consent.
 
@@ -110,7 +132,7 @@ This Agreement shall regulate matters relating to or arising out of the establis
 
 5. The Centre shall prevent its premises from being used as a refuge by persons who are avoiding arrest or the proper administration of justice under any law of the host State.
 
-#### Article 7. Protection of the premises and their vicinity
+##### Article 7. Protection of the premises and their vicinity
 
 1. The competent authorities of the host State shall exercise due diligence to ensure that the security and tranquility of the premises are not impaired by any person or group(s) of persons attempting unauthorized entry into or onto the premises or creating disturbances in the immediate vicinity. As may be required for this purpose, the host State shall provide adequate police protection on the boundaries and in the vicinity of the premises.
 
@@ -118,7 +140,7 @@ This Agreement shall regulate matters relating to or arising out of the establis
 
 3. The Centre shall provide the competent authorities with all information relevant to the security and protection of the premises.
 
-#### Article 8. Law and authority on the premises
+##### Article 8. Law and authority on the premises
 
 1. The premises of the Centre shall be under the control and authority of the Centre, as provided for in this Agreement.
 
@@ -128,7 +150,7 @@ This Agreement shall regulate matters relating to or arising out of the establis
 
 4. Any dispute between the Centre and the host State as to whether a rule or regulation of the United Nations comes within the ambit of this Article or as to whether a law or regulation of the host State is inconsistent with a rule or regulation of the United Nations under this Article shall promptly be settled by the procedure under [Article 34](https://wetten.overheid.nl/jci1.3:c:BWBV0006698&deel=VI&artikel=34&z=2017-09-07&g=2017-09-07) of this Agreement. Pending such settlement, the rule or regulation that is the subject of the dispute shall apply and the law or regulation of the host State shall be inapplicable on the premises to the extent that the Centre claims it to be inconsistent with the rule or regulation in question.
 
-#### Article 9. Public services for the premises
+##### Article 9. Public services for the premises
 
 1. The competent authorities shall secure, upon the request of the Head of the Centre, or an official designated by him or her, on fair and equitable conditions, the public services needed by the Centre such as, but not limited to, postal, telephone, telegraphic services, any means of communication, electricity, water, gas, sewage, collection of waste, fire protection, local transportation and cleaning of public streets, including snow removal.
 
@@ -138,11 +160,11 @@ This Agreement shall regulate matters relating to or arising out of the establis
 
 4. Upon request of the competent authorities, the Head of the Centre, or an official designated by him or her, shall make suitable arrangements to enable duly authorized representatives of the appropriate public services to inspect, repair, maintain, reconstruct and relocate utilities, conduits, mains and sewers on the premises under conditions which shall not unreasonably disturb the carrying out of the functions of the Centre.
 
-#### Article 10. Flags, emblems and markings
+##### Article 10. Flags, emblems and markings
 
 The Centre shall be entitled to display the United Nations’ flags, emblems and markings on its premises and to display its flag on vehicles used for official purposes.
 
-#### Article 11. Funds, assets and other property
+##### Article 11. Funds, assets and other property
 
 1. The Centre, its funds, assets and other property, wherever located and by whomsoever held, shall enjoy immunity from every form of legal process, except insofar as in any particular case the Secretary-General has expressly waived its immunity. It is understood, however, that no waiver of immunity shall extend to any measure of execution.
 
@@ -150,11 +172,11 @@ The Centre shall be entitled to display the United Nations’ flags, emblems and
 
 3. To the extent necessary to carry out the functions of the Centre, funds, assets and other property of the Centre, wherever located and by whomsoever held, shall be exempt from restrictions, regulations, controls or moratoria of any nature.
 
-#### Article 12. Inviolability of archives, documents and materials
+##### Article 12. Inviolability of archives, documents and materials
 
 The archives of the Centre, and all papers and documents in whatever form, and materials being sent to or from the Centre, held by the Centre or belonging to it, wherever located and by whomsoever held, shall be inviolable.
 
-#### Article 13. Facilities and immunities in respect of communications
+##### Article 13. Facilities and immunities in respect of communications
 
 1. The Centre shall have the right to operate all appropriate means of communication, including electronic means of communication, and shall have the right to use codes or ciphers for its official communications and correspondence. The official communications and correspondence of the Centre shall be inviolable.
 
@@ -162,7 +184,7 @@ The archives of the Centre, and all papers and documents in whatever form, and m
 
 3. No censorship shall be applied to the official communications or correspondence of the Centre. Such immunity from censorship shall extend to printed matter, photographic and electronic data communications and other forms of communication as may be used by the Centre. The Centre shall have the right to operate radio, satellite and other telecommunication equipment on the United Nations registered frequencies or frequencies allocated to it by the host State in accordance with its national procedures. The host State shall endeavour to allocate to the Centre, to the extent possible, frequencies for which it has applied.
 
-#### Article 14. Freedom of financial assets from restrictions
+##### Article 14. Freedom of financial assets from restrictions
 
 Without being restricted by financial controls, regulations, notification requirements in respect of financial transactions, or moratoria of any kind, the Centre:
 
@@ -172,7 +194,7 @@ Without being restricted by financial controls, regulations, notification requir
 
 - c). may raise funds in any manner which it deems desirable, except that with respect to the raising of funds within the host State, the Centre shall obtain the concurrence of the competent authorities.
 
-#### Article 15. Exemption from taxes and duties for the Centre and its property
+##### Article 15. Exemption from taxes and duties for the Centre and its property
 
 1. Within the scope of its official activities, the Centre, its assets, income and other property shall be exempt from:
 
@@ -204,13 +226,13 @@ Without being restricted by financial controls, regulations, notification requir
 
 4. The Centre shall not claim exemption from taxes which are, in fact, no more than charges for public utility services provided at a fixed rate according to the amount of services rendered and which can be specifically identified, described and itemized.
 
-#### Article 16. Exemption from import and export restrictions
+##### Article 16. Exemption from import and export restrictions
 
 The Centre shall be exempt from all restrictions on imports and exports in respect of articles imported or exported by the Centre for its official use and in respect of its publications.
 
 ## PART III. PRIVILEGES, IMMUNITIES AND FACILITIES ACCORDED TO PERSONS UNDER THIS AGREEMENT
 
-#### Article 17. Privileges, immunities and facilities of the Head of the Centre
+##### Article 17. Privileges, immunities and facilities of the Head of the Centre
 
 1. The Head of the Centre, together with members of his or her family forming part of the household who are not nationals or permanent residents of the host State, shall enjoy the privileges, immunities, exemptions and facilities accorded to heads of diplomatic missions in accordance with international law and in particular under the [General Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005561) and the provisions of the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345). He or she shall, **inter alia**, enjoy:
 
@@ -256,7 +278,7 @@ The Centre shall be exempt from all restrictions on imports and exports in respe
 
 6. Persons referred to in paragraph 5 of this Article shall not be subjected by the host State to any measure which may affect the free and independent performance of their functions for the Centre.
 
-#### Article 18. Privileges, immunities and facilities of the other officials of the Centre
+##### Article 18. Privileges, immunities and facilities of the other officials of the Centre
 
 1. Officials of the Centre shall enjoy such privileges, immunities and facilities as are necessary for the independent performance of their functions. They shall enjoy privileges and immunities accorded to officials of the United Nations under [Articles V](https://wetten.overheid.nl/jci1.3:c:BWBV0005561&artikel=V) and [VII of the General Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005561&artikel=VII), including as modified and supplemented below:
 
@@ -300,13 +322,13 @@ The Centre shall be exempt from all restrictions on imports and exports in respe
 
 7. Persons referred to in paragraph 6 under this Article shall not be subjected by the host State to any measure which may affect the free and independent performance of their functions for the Centre.
 
-#### Article 19. Experts on mission for the Centre
+##### Article 19. Experts on mission for the Centre
 
 1. Experts on mission for the Centre shall enjoy the privileges and immunities, exemptions and facilities as are necessary for the independent performance of their functions for the Centre, and in particular, shall enjoy the privileges and immunities, exemptions and facilities under [Articles VI](https://wetten.overheid.nl/jci1.3:c:BWBV0005561&artikel=VI) and [VII of the General Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005561&artikel=VII).
 
 2. Experts on mission for the Centre shall be provided by the Head of the Centre with a document certifying that they are performing functions for the Centre and specifying a time period for which their functions will last. This certificate shall be withdrawn prior to its expiry if the expert on mission for the Centre is no longer performing functions for the Centre.
 
-#### Article 20. Employment of family members of officials of the Centre
+##### Article 20. Employment of family members of officials of the Centre
 
 1. Members of the family forming part of the household of an official of the Centre shall be authorized to engage in gainful employment in the host State for the duration of the term of office of the official concerned.
 
@@ -316,7 +338,7 @@ The Centre shall be exempt from all restrictions on imports and exports in respe
 
 4. The employment referred to in paragraph 1 of this Article shall be in accordance with the legislation of the host State, including fiscal and social security legislation.
 
-#### Article 21. Interns
+##### Article 21. Interns
 
 1. Within eight (8) days after the commencement of an internship in the host State, the Centre shall request the Ministry of Foreign Affairs to register any intern in accordance with paragraph 2 of this Article.
 
@@ -338,13 +360,13 @@ The Centre shall be exempt from all restrictions on imports and exports in respe
 
 5. Under this Agreement, interns shall not enjoy privileges, immunities and facilities within the host State.
 
-#### Article 22. Personnel recruited locally and not otherwise covered by this Agreement, including such personnel assigned to hourly rates
+##### Article 22. Personnel recruited locally and not otherwise covered by this Agreement, including such personnel assigned to hourly rates
 
 Personnel recruited locally and assigned to hourly rates by UNICRI and not otherwise covered by this Agreement shall be accorded immunity from legal process in respect of words spoken or written and all acts performed by them in their official capacity for the Centre. The terms and conditions of employment of such individuals shall be in accordance with the relevant Regulations of UNICRI.
 
 ## PART IV. WAIVER OF PRIVILEGES, IMMUNITIES, AND FACILITIES
 
-#### Article 23. Waiver of immunities
+##### Article 23. Waiver of immunities
 
 1. The privileges, immunities and facilities provided for in [Articles 17](https://wetten.overheid.nl/jci1.3:c:BWBV0006698&deel=III&artikel=17&z=2017-09-07&g=2017-09-07), [18](https://wetten.overheid.nl/jci1.3:c:BWBV0006698&deel=III&artikel=18&z=2017-09-07&g=2017-09-07) and [19](https://wetten.overheid.nl/jci1.3:c:BWBV0006698&deel=III&artikel=19&z=2017-09-07&g=2017-09-07) of this Agreement are granted in the interests of the Centre and not for the personal benefit of the persons themselves.
 
@@ -354,7 +376,7 @@ Personnel recruited locally and assigned to hourly rates by UNICRI and not other
 
 ### SECTION 1. GENERAL
 
-#### Article 24. General cooperation between the Centre and the host State
+##### Article 24. General cooperation between the Centre and the host State
 
 1. Whenever this Agreement imposes obligations on the competent authorities, the ultimate responsibility for the fulfilment of such obligations shall rest with the Government of the host State.
 
@@ -362,7 +384,7 @@ Personnel recruited locally and assigned to hourly rates by UNICRI and not other
 
 3. The Head of the Centre, or an official designated by him or her, shall serve as the official contact point for the host State and shall be primarily responsible for all matters in relation to this Agreement. The host State shall be informed promptly about this designation and of any subsequent changes in this regard.
 
-#### Article 25. Cooperation with the competent authorities
+##### Article 25. Cooperation with the competent authorities
 
 1. The Centre shall cooperate at all times with the competent authorities to facilitate the proper administration of justice and the enforcement of the laws of the host State, to secure the observance of police regulations and to prevent the occurrence of any abuse in connection with the privileges, immunities and facilities accorded under this Agreement.
 
@@ -374,7 +396,7 @@ Personnel recruited locally and assigned to hourly rates by UNICRI and not other
 
 5. The Centre shall observe all security directives as agreed with the host State, as well as all directives of the competent authorities responsible for fire prevention regulations.
 
-#### Article 26. Notification and Identification Cards
+##### Article 26. Notification and Identification Cards
 
 1. With respect to officials, the Centre shall promptly, but within eight (8) days, notify the host State of their date of appointment. With respect to interns, the Centre shall promptly, but within eight (8) days, notify the host State of the date of acceptation of such persons into the internship programme of UNICRI.
 
@@ -416,13 +438,13 @@ Personnel recruited locally and assigned to hourly rates by UNICRI and not other
 
 9. At the final departure of the persons referred to in paragraphs 2 and 3 of this Article or when these persons have ceased to perform their functions, the identity card referred to in paragraph 7 and 8 of this article shall be promptly, and not later than within fifteen (15) days, be returned by the Centre to the Ministry of Foreign Affairs. In case persons who have ceased to perform their functions are not able to return the identity card referred to in paragraph 7 and 8 of this Article within the specified time period, the Ministry of Foreign Affairs shall be consulted immediately.
 
-#### Article 27. Social security regime
+##### Article 27. Social security regime
 
 The social security systems of the United Nations offer coverage comparable to the coverage under the legislation of the host State. Accordingly, officials of the Centre to whom the aforementioned scheme applies shall be exempt from the social security provisions of the host State. Consequently, officials of the Centre shall not be covered against the risks described in the social security provisions of the host State.
 
 ### SECTION 2. VISAS, PERMITS AND OTHER DOCUMENTS
 
-#### Article 28. Entry, stay and departure
+##### Article 28. Entry, stay and departure
 
 1. For purposes of official business of the persons listed below and the family members forming part of their household, the host State shall facilitate their entry into its territory, their departure from its territory and their transit to or from the premises of the Centre:
 
@@ -440,7 +462,7 @@ The social security systems of the United Nations offer coverage comparable to t
 
 4. Without prejudice to the provisions of the [General Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005561), all the aforementioned persons who are entitled to the privileges and immunities under this Agreement, shall enjoy these privileges and immunities from the moment they enter the territory of the host State to take up their posts or to undertake official Centre-related duties and shall come to an end within a reasonable period after the expiry or termination of their contracts of employment or completion of their Centre-related duties.
 
-#### Article 29. Laissez-passer and United Nations Certificate
+##### Article 29. Laissez-passer and United Nations Certificate
 
 1. The host State shall recognize and accept the United Nations laissez-passer as a valid travel document. Where applicable, the host State further agrees to issue any required visas in the United Nations laissez-passer.
 
@@ -448,7 +470,7 @@ The social security systems of the United Nations offer coverage comparable to t
 
 3. Holders of a laissez-passer or a certificate indicating that they are travelling on the business of the Centre shall be granted facilities for speedy travel.
 
-#### Article 30. Driving licence
+##### Article 30. Driving licence
 
 1. During their period of employment with the Centre, officials of the Centre, as well as members of their family forming part of the household and persons in the personal employ of those referred to in [Article 26 paragraph 3(a)](https://wetten.overheid.nl/jci1.3:c:BWBV0006698&deel=V&deel=1&artikel=26&z=2017-09-07&g=2017-09-07) of this Agreement, shall be allowed to obtain from the host State a driving licence on presentation of their valid foreign driving licence or to continue to drive using their own valid foreign driving licence, provided they are in possession of an identity card issued by the host State in accordance with Article 26 of this Agreement.
 
@@ -456,7 +478,7 @@ The social security systems of the United Nations offer coverage comparable to t
 
 ### SECTION 3. SECURITY, SAFETY AND PROTECTION OF PERSONS REFERRED TO IN THIS AGREEMENT
 
-#### Article 31. Security, safety and protection of persons referred to in this Agreement
+##### Article 31. Security, safety and protection of persons referred to in this Agreement
 
 1. Without prejudice to the privileges, immunities and facilities granted under this Agreement, the competent authorities shall take effective and adequate action which may be required to ensure the security, safety and protection of persons referred to in this Agreement, indispensable for the proper functioning of the Centre, free from interference of any kind.
 
@@ -466,11 +488,11 @@ The social security systems of the United Nations offer coverage comparable to t
 
 ## PART VI. FINAL PROVISIONS
 
-#### Article 32. Supplementary arrangements and agreements
+##### Article 32. Supplementary arrangements and agreements
 
 The Centre and the host State may, for the purpose of implementing this Agreement or of addressing matters not foreseen in this Agreement, make supplementary arrangements and agreements as appropriate.
 
-#### Article 33. Settlement of disputes with third parties
+##### Article 33. Settlement of disputes with third parties
 
 UNICRI shall make provisions for appropriate modes of settlement of:
 
@@ -478,29 +500,29 @@ UNICRI shall make provisions for appropriate modes of settlement of:
 
 - b). disputes involving any person referred to in this Agreement who, by reason of his or her official position or function in connection with the Centre, enjoys immunity, if such immunity has not been waived by the Secretary-General.
 
-#### Article 34. Settlement of differences on the interpretation or application of this Agreement or supplementary arrangements or agreements
+##### Article 34. Settlement of differences on the interpretation or application of this Agreement or supplementary arrangements or agreements
 
 1. All differences arising out of the interpretation or application of this Agreement or supplementary arrangements or agreements between the Parties shall be settled by consultation, negotiation or other agreed mode of settlement.
 
 2. If the difference is not settled in accordance with paragraph 1 of this Article within three months following a written request by one of the Parties to the difference, it shall, at the request of either Party, be referred to a Tribunal of three arbitrators. Each Party shall appoint one arbitrator, and the two arbitrators so appointed shall appoint a third, who shall be the chairperson of the Tribunal. If, within thirty days of the request for arbitration, a Party has not appointed an arbitrator, or if, within fifteen (15) days of the appointment of two arbitrators, the third arbitrator has not been appointed, either Party may request the President of the International Court of Justice to appoint the arbitrator referred to. The Tribunal shall determine its own procedures, provided that any two arbitrators shall constitute a quorum for all purposes, and all decisions shall require the agreement of any two arbitrators. The expenses of the Tribunal shall be borne by the Parties as assessed by the Tribunal. The arbitral award shall contain a statement of the reasons on which it is based and shall be final and binding on the Parties.
 
-#### Article 35. Application
+##### Article 35. Application
 
 This Agreement shall apply to the part of the Kingdom of the Netherlands in Europe only.
 
-#### Article 36. Amendments and review
+##### Article 36. Amendments and review
 
 1. This Agreement may be amended by mutual written consent of the Parties.
 
 2. This Agreement shall be reviewed at the request of either Party.
 
-#### Article 37. Interpretation of the Agreement, the [General Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005561) and the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345)
+##### Article 37. Interpretation of the Agreement, the [General Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005561) and the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345)
 
 1. This Agreement shall be interpreted in light of its primary purpose of enabling UNICRI through opening and maintaining its Centre in the host State to fully and efficiently discharge its responsibilities and fulfil its purposes.
 
 2. The provisions of this Agreement shall be complementary to the provisions of the [General Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005561) and the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345), the latter Convention only insofar as it is relevant for the diplomatic privileges, immunities and facilities accorded to the appropriate categories of persons referred to in this Agreement. Insofar as any provision of this Agreement and any provisions of the General Convention and the Vienna Convention relate to the same subject matter, each of these provisions shall be applicable and neither shall narrow the effect of the other.
 
-#### Article 38. Entry into force and termination
+##### Article 38. Entry into force and termination
 
 1. This Agreement shall enter into force on the day of its signature.
 

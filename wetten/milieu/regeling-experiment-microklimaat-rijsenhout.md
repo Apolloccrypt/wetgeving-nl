@@ -1,13 +1,38 @@
 ---
 title: "Regeling experiment microklimaat Rijsenhout"
 identifier: "BWBR0023612"
-categorie: "Milieu"
-publicatiedatum: 2009-11-01
-laatste_update: 2009-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0023612"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2009-11-01"
+last_updated: "2009-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023612"
+soort: "ministeriele-regeling"
+stam_id: "9447723"
+version_id: "15213682"
+internal_id: "C20731461"
+label_id: "9425244"
+dtd_version: "2.0"
+original_entry_into_force: "2008-03-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023612/2009-11-01/0"
+intitule_bron: "Stcrt.2008-50"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-03-09"
+intitule_published: "2008-03-11"
+intitule_in_force: "2008-03-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-50"
+original_signed_date: "2008-03-09"
+original_published_date: "2008-03-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-50-p19-SC84880"
+entry_into_force_date: "2008-03-13"
+jci_1_3: "jci1.3:c:BWBR0023612&z=2009-11-01&g=2009-11-01"
+jci_1_0: "1.0:c:BWBR0023612&g=2009-11-01"
+citeertitel_status: "redactioneel"
+signed_date: "2008-03-09"
+entry_into_force: "2008-03-13"
 ---
-
 # Regeling experiment microklimaat Rijsenhout
 
 Handelende in overeenstemming met de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
@@ -16,7 +41,7 @@ Gelet op [artikel 8.23a, eerste lid, van de Wet luchtvaart](https://wetten.overh
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -46,11 +71,11 @@ In deze regeling wordt verstaan onder:
 
 - m. gebruiksjaar 2010: de periode van 1 november 2009 tot en met 31 oktober 2010.
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 Het experiment beoogt een gunstig effect op de hinderbeleving te bewerkstelligen door gedurende de gebruiksjaren 2008, 2009 en 2010 te onderzoeken of met het nauwkeuriger vliegen van de bocht bij Rijsenhout door startende vliegtuigen van de Kaagbaan de geluidhinder voor bewoners van Rijsenhout afneemt en te beoordelen of dit leidt tot toename van de geluidhinder elders.
 
-#### Artikel 3. Grenswaarden
+##### Artikel 3. Grenswaarden
 
 1. In plaats van de grenswaarden, genoemd in [bijlage 2 van het LVB](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&bijlage=2) gelden tijdens dit experiment voor het gedeelte van het gebruiksjaar 2008 vanaf 13 maart 2008 voor de in de onderstaande tabel genoemde handhavingspunten de volgende grenswaarden:
 
@@ -262,15 +287,15 @@ Het experiment beoogt een gunstig effect op de hinderbeleving te bewerkstelligen
 | 24 | 106.000 | 471.050 | 46,15 | (47,15) |
 | 25 | 100.475 | 472.525 | 48,84 | (49,84) |
 
-#### Artikel 4. Uitvoering
+##### Artikel 4. Uitvoering
 
 Het experiment houdt in dat alle straalvliegtuigen die starten vanaf de Kaagbaan (naar het zuidwesten) op de vertrekroutes naar het zuiden en het oosten (SID’s LOPIK, LEKKO, ARNEM en ANDIK) nauwkeuriger zullen vliegen door gebruik te maken van een andere codering van deze routes in het FMS.
 
-#### Artikel 5. Gevolgen
+##### Artikel 5. Gevolgen
 
 Als gevolg van het experiment zal naar verwachting het aantal slaapverstoorden en het aantal ernstig gehinderden in het onderzoeksgebied afnemen. Gedurende het experiment zullen de effecten regelmatig worden gemonitord.
 
-#### Artikel 6. Criteria
+##### Artikel 6. Criteria
 
 De criteria die onderdeel vormen van de afweging en de beoordeling of het experiment wordt omgezet in een wijziging van het [LVB](https://wetten.overheid.nl/jci1.3:c:BWBR0014330) zijn:
 
@@ -286,15 +311,15 @@ De criteria die onderdeel vormen van de afweging en de beoordeling of het experi
 
 - –. het effect op de ruimtelijke contouren zoals vastgelegd in het [Luchthavenindelingbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014329) en op bestaande verstedelijking en nieuwbouwplannen.
 
-#### Artikel 7. Onvoorziene gevallen
+##### Artikel 7. Onvoorziene gevallen
 
 In onvoorziene gevallen kunnen op advies van de belanghebbenden de minister van Verkeer en Waterstaat en de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer overgaan tot het bijsturen, opschorten of vroegtijdig stopzetten van het experiment.
 
-#### Artikel 8. Termijn experiment
+##### Artikel 8. Termijn experiment
 
 De termijn van het experiment betreft de periode van 13 maart 2008 tot en met 31 oktober 2008. De termijn van het verlengde experiment betreft het gebruiksjaar 2009. De termijn van het op grond van [artikel 8.23a, zesde lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.23a) verlengde experiment betreft de periode vanaf 1 november 2009 tot het tijdstip waarop het besluit tot wijziging van het [LVB](https://wetten.overheid.nl/jci1.3:c:BWBR0014330) waarmee het experiment onderdeel wordt van dat besluit in werking treedt.
 
-#### Artikel 9. Inwerkingtreding
+##### Artikel 9. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 13 maart 2008.
 

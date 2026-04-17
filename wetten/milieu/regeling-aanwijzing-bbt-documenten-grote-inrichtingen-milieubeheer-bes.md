@@ -1,13 +1,39 @@
 ---
-title: "Regeling aanwijzing BBT-documenten grote inrichtingen milieubeheer BES"
+title: "Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 5 maart 2015, nr. IENM/BSK-2014/265864, houdende nadere regels met betrekking tot het bepalen van beste beschikbare technieken voor grote inrichtingen op Bonaire, St. Eustatius en Saba (Regeling aanwijzing BBT-documenten grote inrichtingen milieubeheer BES)"
 identifier: "BWBR0036456"
-categorie: "Milieu"
-publicatiedatum: 2015-04-01
-laatste_update: 2015-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036456"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2015-04-01"
+last_updated: "2015-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036456"
+soort: "ministeriele-regeling-BES"
+stam_id: "13121303"
+version_id: "22355622"
+internal_id: "C32028081"
+label_id: "13090004"
+dtd_version: "2.0"
+original_entry_into_force: "2015-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036456/2015-04-01/0"
+intitule_bron: "Stcrt.2015-6432"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-03-05"
+intitule_published: "2015-03-31"
+intitule_in_force: "2015-03-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-6432"
+original_signed_date: "2015-03-05"
+original_published_date: "2015-03-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-6432"
+entry_into_force_date: "2015-04-01"
+jci_1_3: "jci1.3:c:BWBR0036456&z=2015-04-01&g=2015-04-01"
+jci_1_0: "1.0:c:BWBR0036456&g=2015-04-01"
+citeertitel_status: "officieel"
+short_title: "Regeling aanwijzing BBT-documenten grote inrichtingen milieubeheer BES"
+signed_date: "2015-03-05"
+entry_into_force: "2015-04-01"
 ---
-
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 5 maart 2015, nr. IENM/BSK-2014/265864, houdende nadere regels met betrekking tot het bepalen van beste beschikbare technieken voor grote inrichtingen op Bonaire, St. Eustatius en Saba (Regeling aanwijzing BBT-documenten grote inrichtingen milieubeheer BES)
 
 Gelet op [artikel 11, derde lid, van het Besluit grote inrichtingen milieubeheer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0036481&artikel=11);
@@ -16,15 +42,15 @@ BESLUIT:
 
 Treedt in werking op het tijdstip waarop het Besluit grote inrichtingen milieubeheer BES in werking treedt.
 
-#### Artikel 1
+##### Artikel 1
 
 Onze Minister houdt bij de bepaling van de voor een inrichting in aanmerking komende beste beschikbare technieken in ieder geval rekening met de informatiedocumenten over beste beschikbare technieken, die zijn opgenomen in de bij deze regeling behorende [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0036456&bijlage=1&z=2015-04-01&g=2015-04-01).
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling treedt in werking met ingang van de dag waarop het [Besluit grote inrichtingen milieubeheer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0036481) in werking treedt.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling wordt aangehaald als: Regeling aanwijzing BBT-documenten grote inrichtingen milieubeheer BES.
 

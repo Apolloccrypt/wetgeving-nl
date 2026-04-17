@@ -1,13 +1,39 @@
 ---
-title: "Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal Nederlandse Arbeidsinspectie 2017"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 31 augustus 2017, 2017-0000141181, houdende de toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan onder de inspecteur-generaal Sociale Zaken en Werkgelegenheid ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal SZW 2017)"
 identifier: "BWBR0039965"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2024-11-21
-laatste_update: 2024-11-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039965"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-11-21"
+last_updated: "2024-11-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039965"
+soort: "ministeriele-regeling"
+stam_id: "14164363"
+version_id: "24360632"
+internal_id: "C34957751"
+label_id: "14125274"
+dtd_version: "2.0"
+original_entry_into_force: "2017-09-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039965/2024-11-21/0"
+intitule_bron: "Stcrt.2017-50920"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-08-31"
+intitule_published: "2017-09-11"
+intitule_in_force: "2017-09-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-50920"
+original_signed_date: "2017-08-31"
+original_published_date: "2017-09-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-50920"
+entry_into_force_date: "2017-09-12"
+jci_1_3: "jci1.3:c:BWBR0039965&z=2024-11-21&g=2024-11-21"
+jci_1_0: "1.0:c:BWBR0039965&g=2024-11-21"
+citeertitel_status: "officieel"
+short_title: "Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal Nederlandse Arbeidsinspectie 2017"
+signed_date: "2017-08-31"
+entry_into_force: "2017-09-12"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 31 augustus 2017, 2017-0000141181, houdende de toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan onder de inspecteur-generaal Sociale Zaken en Werkgelegenheid ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal SZW 2017)
 
 Gelet op de [artikelen 2, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&artikel=2), [8, derde lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&artikel=8), en [23, eerste lid, van het Organisatie-, mandaat- en volmachtbesluit SZW 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&artikel=23);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Begripsbepaling
 
-#### Artikel 1. Begrippen
+##### Artikel 1. Begrippen
 
 In deze regeling en daarop berustende bepalingen wordt verstaan onder:
 
@@ -42,7 +68,7 @@ In deze regeling en daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2. Organisatie
 
-#### Artikel 2. Organisatie Nederlandse Arbeidsinspectie
+##### Artikel 2. Organisatie Nederlandse Arbeidsinspectie
 
 Onder de inspecteur-generaal ressorteren:
 
@@ -56,13 +82,13 @@ Onder de inspecteur-generaal ressorteren:
 
 - e. de directie Opsporing.
 
-#### Artikel 3. Het Directieteam
+##### Artikel 3. Het Directieteam
 
 1. De inspecteur-generaal en de directeuren voeren regelmatig collegiaal overleg over de strategische sturing van de Nederlandse Arbeidsinspectie en over de vervulling van de portefeuilles. Dit overleg staat onder voorzitterschap van de inspecteur-generaal. Beslissingen worden genomen door de inspecteur-generaal, gehoord de overige leden van het Directieteam.
 
 2. De inspecteur-generaal kan elk van de directeuren schriftelijk belasten met taken en verantwoordelijkheden, de inspectie betreffende, naast de verantwoordelijkheden voor de eigen directie. Over dergelijke taken en verantwoordelijkheden verantwoordt de desbetreffende directeur zich op de wijze, aangegeven door de inspecteur-generaal.
 
-#### Artikel 4. Sturing organisatie
+##### Artikel 4. Sturing organisatie
 
 1. Het uitvoerende werk van de Nederlandse Arbeidsinspectie vindt zowel plaats in de reguliere lijnstructuur als in programma’s en projecten.
 
@@ -72,7 +98,7 @@ Onder de inspecteur-generaal ressorteren:
 
 #### § 3. Verantwoordelijkheden
 
-#### Artikel 5. Verantwoordelijkheden directeuren
+##### Artikel 5. Verantwoordelijkheden directeuren
 
 Elk van de directeuren is verantwoordelijk voor:
 
@@ -100,7 +126,7 @@ Elk van de directeuren is verantwoordelijk voor:
 
 - l. het behandelen van klachten als bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:1) voor zover deze betrekking hebben op de gedragingen van de onder hen ressorterende functionarissen.
 
-#### Artikel 6. Verantwoordelijkheden directeur Analyse, Programmering en Strategie
+##### Artikel 6. Verantwoordelijkheden directeur Analyse, Programmering en Strategie
 
 1. De directeur Analyse, Programmering en Strategie is verantwoordelijk voor:
 
@@ -152,7 +178,7 @@ Elk van de directeuren is verantwoordelijk voor:
 
 2. Bij de in het eerste lid, onderdeel a, genoemde verantwoordelijkheid ten aanzien van de directie Opsporing wordt rekening gehouden met de [Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919), met name waar het betreft de taken en bevoegdheden van de Minister van Justitie en Veiligheid en het College van procureurs-generaal.
 
-#### Artikel 7. Verantwoordelijkheden directeur Toezicht
+##### Artikel 7. Verantwoordelijkheden directeur Toezicht
 
 1. De directie Toezicht staat onder verantwoordelijkheid van twee directeuren.
 
@@ -200,7 +226,7 @@ Elk van de directeuren is verantwoordelijk voor:
 
 - p. het vervullen van de rol van verwerkingsverantwoordelijke, bedoeld in artikel 1, aanhef en onderdeel c, van het Besluit politiegegevens buitengewoon opsporingsambtenaren.
 
-#### Artikel 8. Verantwoordelijkheden directeur Meldingen en Verzoeken
+##### Artikel 8. Verantwoordelijkheden directeur Meldingen en Verzoeken
 
 De directeur Meldingen en Verzoeken is verantwoordelijk voor:
 
@@ -242,7 +268,7 @@ De directeur Meldingen en Verzoeken is verantwoordelijk voor:
 
 - p. het opstellen van bestuursdwangbeschikkingen ter handhaving van de medewerkingsplicht als bedoeld in [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), voor zover dit niet is voorbehouden aan de directeur Toezicht.
 
-#### Artikel 9. Verantwoordelijkheden directeur Opsporing
+##### Artikel 9. Verantwoordelijkheden directeur Opsporing
 
 1. De directeur Opsporing is verantwoordelijk voor:
 
@@ -256,7 +282,7 @@ De directeur Meldingen en Verzoeken is verantwoordelijk voor:
 
 #### § 4. Bevoegdheden
 
-#### Artikel 10. Bevoegdheden directeuren
+##### Artikel 10. Bevoegdheden directeuren
 
 1. Elk van de directeuren is bevoegd om namens een bewindspersoon besluiten te nemen, overeenkomsten aan te gaan en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, voor zover zij verband houden met de taken en verantwoordelijkheden van het onder hem ressorterende dienstonderdeel, tenzij deze zijn voorbehouden aan een bewindspersoon, de secretaris-generaal, de plaatsvervangend secretaris-generaal of de inspecteur-generaal.
 
@@ -290,7 +316,7 @@ De directeur Meldingen en Verzoeken is verantwoordelijk voor:
 
 6. Het mandaat, bedoeld in het eerste lid, omvat niet het nemen van besluiten in bezwaar- en beroepsprocedures, welke bevoegdheid is voorbehouden aan de inspecteur-generaal, onverminderd mandatering daarvan aan een andere functionaris.
 
-#### Artikel 11. Bevoegdheden voorbehouden aan de inspecteur-generaal
+##### Artikel 11. Bevoegdheden voorbehouden aan de inspecteur-generaal
 
 De volgende bevoegdheden zijn voorbehouden aan de inspecteur-generaal:
 
@@ -300,7 +326,7 @@ De volgende bevoegdheden zijn voorbehouden aan de inspecteur-generaal:
 
 - c. het ondertekenen van beschikkingen tot stillegging van werkzaamheden in verband met recidive.
 
-#### Artikel 12. Doorverlening bevoegdheden
+##### Artikel 12. Doorverlening bevoegdheden
 
 1. De directeuren kunnen hun vertegenwoordigingsbevoegdheden in een door hen te bepalen omvang doorverlenen aan onder hen ressorterende functionarissen, met dien verstande dat bevoegdheden met betrekking tot personeelsaangelegenheden slechts kunnen worden doorverleend aan rechtstreeks onder hen ressorterende functionarissen en slechts voor zover het betreft:
 
@@ -320,23 +346,23 @@ De volgende bevoegdheden zijn voorbehouden aan de inspecteur-generaal:
 
 #### § 5. Slotbepalingen
 
-#### Artikel 13. Intrekking en wijziging grondslag regeling
+##### Artikel 13. Intrekking en wijziging grondslag regeling
 
 1. Het [Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal SZW 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030867) wordt ingetrokken.
 
 2. Na de inwerkingtreding van dit besluit berust het [Organisatie-, mandaat- en volmachtbesluit directie Opsporing 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031933) op de [artikelen 5, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&paragraaf=3&artikel=5&z=2024-11-21&g=2024-11-21), en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&paragraaf=4&artikel=12&z=2024-11-21&g=2024-11-21) van deze regeling.
 
-#### Artikel 14. Inwerkingtreding
+##### Artikel 14. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 juli 2017.
 
-#### Artikel 15. Citeertitel
+##### Artikel 15. Citeertitel
 
 Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal Nederlandse Arbeidsinspectie 2017.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 8a. Verantwoordelijkheden directeur Informatievoorziening
+##### Artikel 8a. Verantwoordelijkheden directeur Informatievoorziening
 
 De directeur Informatievoorziening is verantwoordelijk voor:
 
@@ -362,7 +388,7 @@ De directeur Informatievoorziening is verantwoordelijk voor:
 
 #### § 4. Bevoegdheden
 
-#### Artikel 12a. Plaatsvervanging
+##### Artikel 12a. Plaatsvervanging
 
 1. Bij afwezigheid of verhindering van de inspecteur-generaal worden, voor de duur van de afwezigheid of verhindering, de taken en bevoegdheden van de inspecteur-generaal geheel of gedeeltelijk waargenomen door een daartoe aan te wijzen plaatsvervanger.
 

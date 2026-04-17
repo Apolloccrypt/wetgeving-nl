@@ -1,13 +1,35 @@
 ---
 title: "Richtlijn voor strafvordering Telecommunicatiewet"
 identifier: "BWBR0041661"
-categorie: "Strafrecht"
-publicatiedatum: 2019-01-01
-laatste_update: 2019-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041661"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2019-01-01"
+last_updated: "2019-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041661"
+soort: "beleidsregel"
+stam_id: "14900343"
+version_id: "25489402"
+internal_id: "C36374461"
+label_id: "14851564"
+dtd_version: "2.0"
+original_entry_into_force: "2019-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041661/2019-01-01/0"
+intitule_bron: "Stcrt.2018-67906"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2018-12-13"
+intitule_in_force: "2018-12-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-67906"
+original_published_date: "2018-12-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-67906"
+entry_into_force_date: "2019-01-01"
+jci_1_3: "jci1.3:c:BWBR0041661&z=2019-01-01&g=2019-01-01"
+jci_1_0: "1.0:c:BWBR0041661&g=2019-01-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2019-01-01"
 ---
-
 # Richtlijn voor strafvordering Telecommunicatiewet
 
 Deze richtlijn ziet op de strafrechtelijke handhaving van de meest voorkomende delicten begaan door het overtreden van de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) (Tw) (misdrijven en/of overtredingen).

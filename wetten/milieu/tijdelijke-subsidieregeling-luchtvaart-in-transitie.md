@@ -1,13 +1,39 @@
 ---
-title: "Tijdelijke subsidieregeling Luchtvaart in Transitie"
+title: "Regeling van de Minister van Infrastructuur en Waterstaat, van 22 april 2024, nr. IENW/BSK-2024/124323, houdende vaststelling van de Tijdelijke subsidieregeling Luchtvaart in Transitie"
 identifier: "BWBR0049662"
-categorie: "Milieu"
-publicatiedatum: 2026-03-24
-laatste_update: 2026-03-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049662"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-03-24"
+last_updated: "2026-03-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049662"
+soort: "ministeriele-regeling"
+stam_id: "17093603"
+version_id: "30084462"
+internal_id: "C43110291"
+label_id: "17002724"
+dtd_version: "2.0"
+original_entry_into_force: "2024-05-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049662/2026-03-24/0"
+intitule_bron: "Stcrt.2024-14437"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-04-22"
+intitule_published: "2024-05-06"
+intitule_in_force: "2024-05-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-14437"
+original_signed_date: "2024-04-22"
+original_published_date: "2024-05-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-14437"
+entry_into_force_date: "2024-05-07"
+jci_1_3: "jci1.3:c:BWBR0049662&z=2026-03-24&g=2026-03-24"
+jci_1_0: "1.0:c:BWBR0049662&g=2026-03-24"
+citeertitel_status: "officieel"
+short_title: "Tijdelijke subsidieregeling Luchtvaart in Transitie"
+signed_date: "2024-04-22"
+entry_into_force: "2024-05-07"
 ---
-
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 22 april 2024, nr. IENW/BSK-2024/124323, houdende vaststelling van de Tijdelijke subsidieregeling Luchtvaart in Transitie
 
 Gelet op de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=2), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=4), [8, eerste lid en tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=9), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=22) en [23, vijfde lid, van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=23) en artikel 36 van [verordening (EU) Nr. 651/2014](32014R0651) van de Commissie van 17 juni 2014;
@@ -16,7 +42,7 @@ BESLUIT:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -152,7 +178,7 @@ In deze regeling wordt verstaan onder:
 
 - e. Snelle, veilige tank- en ontlaadtechnologieën voor waterstoftanks en brandstofcellen inclusief standaarden en processen.
 
-#### Artikel 2. Doel en toepassingsbereik van de regeling
+##### Artikel 2. Doel en toepassingsbereik van de regeling
 
 Deze regeling heeft als doel:
 
@@ -160,13 +186,13 @@ Deze regeling heeft als doel:
 
 - b. het borgen van een sterke Nederlandse kennispositie en het versterken van het MKB-ecosysteem door het stimuleren van ondersteunend onderzoek, kennisopbouw en samenwerking tussen ondernemers onderling en tussen ondernemers en kennisinstellingen.
 
-#### Artikel 3. Aanvraag
+##### Artikel 3. Aanvraag
 
 1. Een aanvraag wordt ingediend met gebruikmaking van een door de minister beschikbaar gesteld formulier.
 
 2. Onverminderd [artikel 10, vierde lid, van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=10) bevat een aanvraag de gegevens bedoeld in artikel 6, tweede lid, van de AGVV.
 
-#### Artikel 4. Specifieke afwijzingsgronden
+##### Artikel 4. Specifieke afwijzingsgronden
 
 Onverminderd de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=11) en [12 van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=12) vermelde afwijzingsgronden, wordt de subsidie in ieder geval afgewezen indien:
 
@@ -182,7 +208,7 @@ Onverminderd de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&
 
 - f. er ten aanzien van de aanvrager reeds een bevel tot terugvordering uitstaat ingevolge een eerder besluit van de Europese Commissie waarbij steun onrechtmatig en onverenigbaar met de interne markt is verklaard.
 
-#### Artikel 5. Voorschot
+##### Artikel 5. Voorschot
 
 Bij de beschikking tot subsidieverlening wordt een voorschot verleend van:
 
@@ -190,17 +216,17 @@ Bij de beschikking tot subsidieverlening wordt een voorschot verleend van:
 
 - b. 80% indien de subsidie € 25.000 of meer bedraagt.
 
-#### Artikel 6. Algemene verplichtingen van de subsidieontvanger
+##### Artikel 6. Algemene verplichtingen van de subsidieontvanger
 
 De subsidieontvanger doet gedurende de uitvoering van het project, onverminderd het bepaalde in [hoofdstuk 8 van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&hoofdstuk=8), middels een jaarrapport voor de modules Ondersteunend onderzoek en R&D samenwerkingsprojecten verslag van de voortgang van het project.
 
-#### Artikel 7. Subsidievaststelling
+##### Artikel 7. Subsidievaststelling
 
 Onverminderd het bepaalde in [artikel 24 van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=24) wordt een aanvraag tot subsidievaststelling ingediend met gebruikmaking van een door de minister beschikbaar gesteld digitaal formulier dat wordt geplaatst op de website van RVO.
 
 ### Hoofdstuk 2. Module Ondersteunend Onderzoek (OO)
 
-#### Artikel 8. Openstelling
+##### Artikel 8. Openstelling
 
 Een aanvraag tot subsidieverlening voor een project voor de module Ondersteunend Onderzoek kan worden ingediend bij RVO:
 
@@ -208,7 +234,7 @@ Een aanvraag tot subsidieverlening voor een project voor de module Ondersteunend
 
 - b. in de tweede ronde die loopt vanaf 1 april 2026 tot en met 1 juni 2026.
 
-#### Artikel 9. Subsidiabele activiteiten
+##### Artikel 9. Subsidiabele activiteiten
 
 In aanmerking voor subsidie komen onderzoeks- en ontwikkelingsprojecten, als bedoeld in artikel 25, tweede lid, a tot en met d, van de AGVV, waarbij de activiteiten gericht zijn op:
 
@@ -216,7 +242,7 @@ In aanmerking voor subsidie komen onderzoeks- en ontwikkelingsprojecten, als bed
 
 - b. vliegen op waterstof.
 
-#### Artikel 10. Subsidieplafond en hoogte van de subsidie
+##### Artikel 10. Subsidieplafond en hoogte van de subsidie
 
 1. Voor de periode tot en met 31 december 2026 is voor de activiteiten als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0049662&hoofdstuk=2&artikel=9&z=2026-03-24&g=2026-03-24), ten hoogste € 6.250.000,– beschikbaar.
 
@@ -234,7 +260,7 @@ tot een maximum van € 1.250.000,– per onderzoeksproject.
 
 4. In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049662&hoofdstuk=1&artikel=5&z=2026-03-24&g=2026-03-24) wordt gelijktijdig met de beschikking tot subsidieverlening in het eerste en in het tweede jaar een voorschot verleend van telkens 40% indien wordt voldaan aan de in de voorschotbeschikking opgenomen voorwaarden.
 
-#### Artikel 11. Verdeling van het subsidieplafond
+##### Artikel 11. Verdeling van het subsidieplafond
 
 1. De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aanvragen.
 
@@ -264,7 +290,7 @@ tot een maximum van € 1.250.000,– per onderzoeksproject.
 
 6. Indien onder het desbetreffende subsidieplafond aan twee of meer aanvragen in totaal een gelijk aantal punten is toegekend, wordt er door de minister geloot.
 
-#### Artikel 12. Verplichtingen van de subsidieontvanger
+##### Artikel 12. Verplichtingen van de subsidieontvanger
 
 1. Met de uitvoering van het project binnen de Module Ondersteunend Onderzoek wordt gestart binnen dertien weken na goedkeuring van de subsidieaanvraag.
 
@@ -276,7 +302,7 @@ tot een maximum van € 1.250.000,– per onderzoeksproject.
 
 #### 3.1.1. Verstrekking van een kennis- of testvoucher
 
-#### Artikel 13. Aanvraag
+##### Artikel 13. Aanvraag
 
 Een aanvraag voor een kennis- of testvoucher voor de module Versterken Innovatievermogen MKB kan door een MKB-ondernemer worden ingediend bij de RVO:
 
@@ -284,7 +310,7 @@ Een aanvraag voor een kennis- of testvoucher voor de module Versterken Innovatie
 
 - b. in de tweede ronde die loopt vanaf 2 april 2026, 9.00 uur, tot en met 1 december 2026, 17.00 uur.
 
-#### Artikel 14. Verstrekking voucher voor kennisvragen of testen
+##### Artikel 14. Verstrekking voucher voor kennisvragen of testen
 
 De kennis- of testvoucher wordt aan een MKB-ondernemer verstrekt voor het beantwoorden van kennisvragen of het testen en valideren van technologie of innovaties die gericht zijn op:
 
@@ -298,7 +324,7 @@ De kennis- of testvoucher wordt aan een MKB-ondernemer verstrekt voor het beantw
 
 - e. kosteneffectieve fabricagetechnologieën voor nieuwe vliegtuigconfiguraties na 2030.
 
-#### Artikel 15. Subsidieplafond en hoogte van de subsidie
+##### Artikel 15. Subsidieplafond en hoogte van de subsidie
 
 1. Voor de periode tot en met 31 december 2026 is voor het verstrekken van vouchers, als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0049662&hoofdstuk=3&titeldeel=3.1&paragraaf=3.1.1&artikel=14&z=2026-03-24&g=2026-03-24) ten hoogste € 600.000,– beschikbaar:
 
@@ -312,11 +338,11 @@ De kennis- of testvoucher wordt aan een MKB-ondernemer verstrekt voor het beantw
 
 - b. € 150.000,– ten behoeve van testvouchers waarvan de waarde per voucher maximaal € 15.000,– bedraagt.
 
-#### Artikel 16. Verdeling van vouchers binnen het subsidieplafond
+##### Artikel 16. Verdeling van vouchers binnen het subsidieplafond
 
 De minister verdeelt de vouchers op volgorde van binnenkomst van de aanvragen.
 
-#### Artikel 17. Afwijzingsgronden vouchers
+##### Artikel 17. Afwijzingsgronden vouchers
 
 Onverminderd hetgeen bepaald in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049662&hoofdstuk=1&artikel=4&z=2026-03-24&g=2026-03-24) wordt de aanvraag van een kennis- of testvoucher afgewezen indien:
 
@@ -326,7 +352,7 @@ Onverminderd hetgeen bepaald in [artikel 4](https://wetten.overheid.nl/jci1.3:c:
 
 - c. er reeds een aanvraag is gedaan voor een soortgelijke activiteit per aanvrager.
 
-#### Artikel 18. Besteding van de voucher
+##### Artikel 18. Besteding van de voucher
 
 1. Een kennis- of testvoucher overgedragen aan een kennisinstelling.
 
@@ -334,7 +360,7 @@ Onverminderd hetgeen bepaald in [artikel 4](https://wetten.overheid.nl/jci1.3:c:
 
 #### 3.1.2. Verstrekking van subsidie aan de kennisinstellingen
 
-#### Artikel 19. Verzilvering kennis- en testvoucher door kennisinstellingen
+##### Artikel 19. Verzilvering kennis- en testvoucher door kennisinstellingen
 
 1. Een aanvraag om vaststelling van subsidie kan worden ingediend bij de RVO.
 
@@ -344,7 +370,7 @@ Onverminderd hetgeen bepaald in [artikel 4](https://wetten.overheid.nl/jci1.3:c:
 
 4. Indien de aanvraag niet door de RVO is ontvangen binnen de termijn, bedoeld in het derde lid, vervalt de voucher van rechtswege.
 
-#### Artikel 20. Hoogte van de subsidie
+##### Artikel 20. Hoogte van de subsidie
 
 1. De subsidie bedraagt ten hoogste:
 
@@ -354,13 +380,13 @@ Onverminderd hetgeen bepaald in [artikel 4](https://wetten.overheid.nl/jci1.3:c:
 
 2. De subsidieverlening wordt ten aanzien van de kennisvoucher gerechtvaardigd op grond van artikel 18 van de AGVV en ten aanzien van de testvoucher op grond van artikel 28 van de AGVV.
 
-#### Artikel 21. Afwijzingsgronden
+##### Artikel 21. Afwijzingsgronden
 
 Onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049662&hoofdstuk=1&artikel=4&z=2026-03-24&g=2026-03-24) wordt de subsidieaanvraag afgewezen indien het beantwoorden van kennisvragen of het testen en valideren van technologie of innovaties niet hoofdzakelijk was gericht op het in de aanvraag vermelde onderwerp.
 
 ## Titel 3.2. Haalbaarheidsprojecten
 
-#### Artikel 22. Openstelling
+##### Artikel 22. Openstelling
 
 Een aanvraag voor haalbaarheidsprojecten voor de module Versterken Innovatievermogen MKB kan worden ingediend bij RVO:
 
@@ -368,7 +394,7 @@ Een aanvraag voor haalbaarheidsprojecten voor de module Versterken Innovatieverm
 
 - b. in de tweede ronde die loopt vanaf 2 april 2026, 9.00 uur, tot en met 9 december 2026, 17.00 uur.
 
-#### Artikel 23. Subsidiabele activiteiten
+##### Artikel 23. Subsidiabele activiteiten
 
 In aanmerking voor subsidie komen haalbaarheidsprojecten, waarbij de activiteiten gericht zijn op:
 
@@ -382,7 +408,7 @@ In aanmerking voor subsidie komen haalbaarheidsprojecten, waarbij de activiteite
 
 - e. kosteneffectieve fabricagetechnologieën voor nieuwe vliegtuigconfiguraties na 2030.
 
-#### Artikel 24. Subsidieplafond en hoogte van de subsidie
+##### Artikel 24. Subsidieplafond en hoogte van de subsidie
 
 1. Voor de periode tot en met 31 december 2026 is voor de activiteiten, als bedoeld in artikel 23, ten hoogste € 3.888.262,– beschikbaar.
 
@@ -390,7 +416,7 @@ In aanmerking voor subsidie komen haalbaarheidsprojecten, waarbij de activiteite
 
 3. De subsidie bedraagt ten hoogste 50% van de in aanmerking komende kosten tot een maximum van € 100.000,–.
 
-#### Artikel 25. Verdeling van het subsidieplafond
+##### Artikel 25. Verdeling van het subsidieplafond
 
 1. De minister verdeelt het subsidieplafond op volgorde van binnenkomst van de aanvragen.
 
@@ -400,7 +426,7 @@ In aanmerking voor subsidie komen haalbaarheidsprojecten, waarbij de activiteite
 
 - b. het haalbaarheidsproject onvoldoende inzicht geeft in het economisch perspectief en de uitvoerbaarheid van de voorgenomen activiteiten waarop de haalbaarheidsstudie betrekking heeft.
 
-#### Artikel 26. Verplichtingen van de subsidieontvanger
+##### Artikel 26. Verplichtingen van de subsidieontvanger
 
 1. Met de uitvoering van het haalbaarheidsproject wordt gestart binnen vier maanden na indiening van de subsidieaanvraag.
 
@@ -408,7 +434,7 @@ In aanmerking voor subsidie komen haalbaarheidsprojecten, waarbij de activiteite
 
 ## Titel 3.3. Research en development(R&D)-samenwerkingsprojecten
 
-#### Artikel 27. Aanvraag
+##### Artikel 27. Aanvraag
 
 Een aanvraag voor R&D-samenwerkingsprojecten voor de module Versterken Innovatievermogen MKB kan door een samenwerkingsverband, als bedoeld in [artikel 26 van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=26), worden ingediend bij RVO:
 
@@ -416,7 +442,7 @@ Een aanvraag voor R&D-samenwerkingsprojecten voor de module Versterken Innovatie
 
 - b. in de tweede ronde die loopt vanaf 2 april 2027 tot en met 3 mei 2027.
 
-#### Artikel 28. Subsidiabele activiteiten
+##### Artikel 28. Subsidiabele activiteiten
 
 In aanmerking voor subsidie komen R&D-samenwerkingsprojecten, waarbij de activiteiten gericht zijn op:
 
@@ -430,7 +456,7 @@ In aanmerking voor subsidie komen R&D-samenwerkingsprojecten, waarbij de activit
 
 - e. kosteneffectieve fabricagetechnologieën voor nieuwe vliegtuigconfiguraties na 2030.
 
-#### Artikel 29. Subsidieplafond en hoogte van de subsidie
+##### Artikel 29. Subsidieplafond en hoogte van de subsidie
 
 1. Voor de periode tot en met 31 december 2027 is voor de activiteiten, bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0049662&hoofdstuk=3&titeldeel=3.3&artikel=28&z=2026-03-24&g=2026-03-24), ten hoogste € 7.600.000,– beschikbaar:
 
@@ -444,7 +470,7 @@ In aanmerking voor subsidie komen R&D-samenwerkingsprojecten, waarbij de activit
 
 4. In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049662&hoofdstuk=1&artikel=5&z=2026-03-24&g=2026-03-24) wordt gelijktijdig met de beschikking tot subsidieverlening in het eerste en in het tweede jaar een voorschot verleend van 40% indien wordt voldaan aan de in de voorschotbeschikking opgenomen voorwaarden.
 
-#### Artikel 30. Verdeling van het subsidieplafond
+##### Artikel 30. Verdeling van het subsidieplafond
 
 1. De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aanvragen.
 
@@ -466,13 +492,13 @@ In aanmerking voor subsidie komen R&D-samenwerkingsprojecten, waarbij de activit
 
 6. Indien onder het desbetreffende subsidieplafond aan twee of meer aanvragen in totaal een gelijk aantal punten is toegekend, wordt er door de minister geloot.
 
-#### Artikel 31. Verplichtingen van de subsidieontvanger
+##### Artikel 31. Verplichtingen van de subsidieontvanger
 
 1. Met de uitvoering van een R&D-samenwerkingsproject wordt gestart binnen zes maanden na indiening van de subsidieaanvraag.
 
 2. R&D-samenwerkingsproject wordt uitgevoerd binnen vier jaren na de start van het project.
 
-#### Artikel 32. Afwijzingsgronden
+##### Artikel 32. Afwijzingsgronden
 
 Onverminderd hetgeen is bepaald in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049662&hoofdstuk=1&artikel=4&z=2026-03-24&g=2026-03-24) beslist de minister afwijzend op een aanvraag voor een R&D-samenwerkingsproject indien:
 
@@ -488,7 +514,7 @@ Onverminderd hetgeen is bepaald in [artikel 4](https://wetten.overheid.nl/jci1.3
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 33. Evaluatie
+##### Artikel 33. Evaluatie
 
 1. De subsidieontvanger verleent medewerking aan een evaluatie van de effecten van de door hem op grond van deze titel uitgevoerde activiteiten, voor zover medewerking redelijkerwijs van hem kan worden verlangd.
 
@@ -498,17 +524,17 @@ Onverminderd hetgeen is bepaald in [artikel 4](https://wetten.overheid.nl/jci1.3
 
 4. De minister publiceert voor 31 december 2030 een verslag over de doeltreffendheid en de effecten van de uitkering in de praktijk.
 
-#### Artikel 34. Inwerkingtreding
+##### Artikel 34. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin hij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 31 december 2029 met dien verstande dat zij van toepassing blijft op de voor die datum aangevraagde subsidies.
 
-#### Artikel 35. Citeertitel
+##### Artikel 35. Citeertitel
 
 Deze regeling wordt aangehaald als: Tijdelijke subsidieregeling Luchtvaart in Transitie.
 
-#### Artikel 6a. Standaardberekeningswijze kostensoorten
+##### Artikel 6a. Standaardberekeningswijze kostensoorten
 
 Indien in het kader van de berekening van de hoogte van de te verstrekken subsidie uurtarieven worden gehanteerd, wordt hierbij gebruik gemaakt van één van de volgende standaardberekeningswijzen:
 
@@ -536,7 +562,7 @@ Indien in het kader van de berekening van de hoogte van de te verstrekken subsid
 
 #### 3.4.1. Verstrekking van Venture Booster kennisvouchers
 
-#### Artikel 32a. Aanvraag
+##### Artikel 32a. Aanvraag
 
 Een aanvraag voor een Venture Booster kennisvoucher voor de module LiT Venture Lab kan door een startup worden ingediend bij RVO:
 
@@ -548,7 +574,7 @@ Een aanvraag voor een Venture Booster kennisvoucher voor de module LiT Venture L
 
 - d. in de vierde ronde die loopt vanaf 3 april 2029, 09.00 uur, tot en met 1 december 2029, 17.00 uur.
 
-#### Artikel 32b. Verstrekking Venture Booster kennisvoucher
+##### Artikel 32b. Verstrekking Venture Booster kennisvoucher
 
 De Venture Booster kennisvoucher wordt aan een startup verstrekt ter beantwoording van één of meerdere kennisvragen ten behoeve van het aantrekken van financiering en het bereiken van product-markt fit door een kennisinstelling of onderneming die aantoonbare kennis en ervaring heeft met beantwoorden van kennisvragen. Een kennisvraag heeft betrekking op tenminste één van de volgende onderdelen:
 
@@ -560,7 +586,7 @@ De Venture Booster kennisvoucher wordt aan een startup verstrekt ter beantwoordi
 
 - d. founder coaching.
 
-#### Artikel 32c. Subsidieplafond en hoogte van de subsidie
+##### Artikel 32c. Subsidieplafond en hoogte van de subsidie
 
 Voor de periode tot en met 31 december 2029 is voor het verstrekken van de Venture Booster kennisvouchers, als bedoel in [artikel 32b](https://wetten.overheid.nl/jci1.3:c:BWBR0049662&hoofdstuk=3&titeldeel=3.4&paragraaf=3.4.1&artikel=32b&z=2026-03-24&g=2026-03-24), ten hoogste € 400.000,– beschikbaar:
 
@@ -572,11 +598,11 @@ Voor de periode tot en met 31 december 2029 is voor het verstrekken van de Ventu
 
 - d. € 100.000,– voor het jaar 2029.
 
-#### Artikel 32d. Verdeling van de Venture Booster kennisvouchers binnen het subsidieplafond
+##### Artikel 32d. Verdeling van de Venture Booster kennisvouchers binnen het subsidieplafond
 
 De minister verdeelt de Venture Booster kennisvouchers op volgorde van binnenkomst van de aanvragen.
 
-#### Artikel 32e. Afwijzingsgronden
+##### Artikel 32e. Afwijzingsgronden
 
 1. Onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049662&hoofdstuk=1&artikel=4&z=2026-03-24&g=2026-03-24) wordt de subsidieaanvraag afgewezen indien de activiteit niet aantoonbaar bijdraagt aan de transitie naar een duurzame luchtvaart of valt buiten de focus op product-market fit of investor readiness.
 
@@ -584,7 +610,7 @@ De minister verdeelt de Venture Booster kennisvouchers op volgorde van binnenkom
 
 #### 3.4.2. Verstrekking van subsidie
 
-#### Artikel 32f. Verzilvering Venture Booster kennisvouchers
+##### Artikel 32f. Verzilvering Venture Booster kennisvouchers
 
 1. Een aanvraag om verzilvering van voucher kan worden ingediend bij de RVO en bevat in ieder geval een door een startup en kennisinstelling of onderneming ondertekende overeenkomst.
 
@@ -596,7 +622,7 @@ De minister verdeelt de Venture Booster kennisvouchers op volgorde van binnenkom
 
 5. De periode voor verzilvering van een Venture Booster kennisvoucher kan niet worden verlengd.
 
-#### Artikel 32g. Hoogte van de subsidie
+##### Artikel 32g. Hoogte van de subsidie
 
 1. De subsidie bedraagt ten hoogste 50% van de kosten.
 

@@ -1,20 +1,46 @@
 ---
-title: "Instellingsbesluit Regiegroep Sociale Veiligheid in Hoger Onderwijs en Wetenschap"
+title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 30 mei 2024, nr. 46204814, houdende instelling van de Regiegroep Sociale Veiligheid in Hoger Onderwijs en Wetenschap (Instellingsbesluit Regiegroep Sociale Veiligheid Hoger Onderwijs en Wetenschap)"
 identifier: "BWBR0049755"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-04-04
-laatste_update: 2026-04-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049755"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-04-04"
+last_updated: "2026-04-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049755"
+soort: "ministeriele-regeling"
+stam_id: "17115753"
+version_id: "31511892"
+internal_id: "C44997411"
+label_id: "17024304"
+dtd_version: "2.0"
+original_entry_into_force: "2026-03-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049755/2026-04-04/0"
+intitule_bron: "Stcrt.2024-18015"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-05-30"
+intitule_published: "2024-06-03"
+intitule_in_force: "2024-06-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-12791"
+original_signed_date: "2026-03-23"
+original_published_date: "2026-04-03"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2026-12791"
+entry_into_force_date: "2026-03-23"
+jci_1_3: "jci1.3:c:BWBR0049755&z=2026-04-04&g=2026-04-04"
+jci_1_0: "1.0:c:BWBR0049755&g=2026-04-04"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Regiegroep Sociale Veiligheid in Hoger Onderwijs en Wetenschap"
+signed_date: "2026-03-23"
+entry_into_force: "2026-03-23"
 ---
-
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 30 mei 2024, nr. 46204814, houdende instelling van de Regiegroep Sociale Veiligheid in Hoger Onderwijs en Wetenschap (Instellingsbesluit Regiegroep Sociale Veiligheid Hoger Onderwijs en Wetenschap)
 
 Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -52,11 +78,11 @@ In dit besluit wordt verstaan onder:
 
 - i. **regiegroep:** Regiegroep Sociale Veiligheid in Hoger Onderwijs en Wetenschap.
 
-#### Artikel 2. Instelling regiegroep
+##### Artikel 2. Instelling regiegroep
 
 Er is een Regiegroep Sociale Veiligheid in Hoger Onderwijs en Wetenschap.
 
-#### Artikel 3. Taak
+##### Artikel 3. Taak
 
 De regiegroep heeft tot taak:
 
@@ -74,11 +100,11 @@ De regiegroep heeft tot taak:
 
 - 4. In het kader van een lerende aanpak en om beleidsleren optimaal te stimuleren, kan de regiegroep de minister gevraagd en ongevraagd adviseren over het beleid van de minister voor zover dit relevant is voor het landelijk programma.
 
-#### Artikel 4. Instellingsduur
+##### Artikel 4. Instellingsduur
 
 1. De regiegroep wordt ingesteld met ingang van 1 april 2024 en wordt pas opgeheven nadat de werkzaamheden van de regiegroep zijn afgerond, met dien verstande dat, indien de werkzaamheden op 31 december 2027 nog niet zijn afgerond, de minister met de regiegroep zal bezien welke acties noodzakelijk zijn om de afronding van de werkzaamheden te bevorderen.
 
-#### Artikel 5. Benoeming van de leden van de regiegroep
+##### Artikel 5. Benoeming van de leden van de regiegroep
 
 1. De regiegroep bestaat uit:
 
@@ -134,7 +160,7 @@ De regiegroep heeft tot taak:
 
 - –. Mevrouw drs. W. T. M. (Willy) van Berlo.
 
-#### Artikel 6. Ondersteuning van de regiegroep
+##### Artikel 6. Ondersteuning van de regiegroep
 
 1. Gedurende de periode 2024 tot en met 2027 wordt de regiegroep ondersteund door een programmamanager en een programmasecretaris die fulltime beschikbaar zijn en die door de minister worden aangesteld.
 
@@ -142,7 +168,7 @@ De regiegroep heeft tot taak:
 
 3. De programmamanager en de programmasecretaris zijn geen lid van de regiegroep en zijn voor hun inhoudelijke werkzaamheden uitsluitend verantwoording schuldig aan de voorzitter van de regiegroep.
 
-#### Artikel 7. Werkwijze van de regiegroep
+##### Artikel 7. Werkwijze van de regiegroep
 
 1. De regiegroep bepaalt haar eigen werkwijze en legt deze vast in een reglement.
 
@@ -168,7 +194,7 @@ De regiegroep heeft tot taak:
 
 7. De regiegroep rapporteert in jaarlijkse voortgangsrapportages over haar voortgang. De regiegroep zal, in zoverre dat mogelijk is, in haar laatste rapportage reflecteren op de gehele periode 2024 tot en met 2027.
 
-#### Artikel 8. Programmaplan
+##### Artikel 8. Programmaplan
 
 1. De regiegroep is verantwoordelijk voor het tijdig opstellen van een vierjarig programmaplan, passend bij de taken zoals benoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049755&artikel=3&z=2026-04-04&g=2026-04-04), waarin de regiegroep haar aanpak voor de periode van 2024 tot en met 2027 beschrijft.
 
@@ -190,13 +216,13 @@ De regiegroep heeft tot taak:
 
 - f. specifieke kenmerken van verschillende vormen van sociale onveiligheid.
 
-#### Artikel 9. Uitvoeringsplannen
+##### Artikel 9. Uitvoeringsplannen
 
 1. De regiegroep is verantwoordelijk voor het tijdig opstellen van jaarlijkse uitvoeringsplannen, die passen bij het programmaplan.
 
 2. In deze uitvoeringsplannen beschrijft de regiegroep haar activiteiten die de ontwikkeling van kennis, kunde en vaardigheden, of de uitwisseling hiervan, over sociale veiligheid binnen hogeronderwijsinstellingen of studentenorganisaties stimuleren met het oog op het faciliteren van hogeronderwijsinstellingen of studentenorganisaties.
 
-#### Artikel 10. Subsidies
+##### Artikel 10. Subsidies
 
 1. De volgende leden zijn van toepassing indien de minister besluit subsidie te verstrekken aan:
 
@@ -212,23 +238,23 @@ De regiegroep heeft tot taak:
 
 4. De regiegroep baseert zich bij de in lid 3 genoemde rangschikking en prioritering op een door haar te formuleren beoordelingskader, dat inhoudelijk gerelateerd is aan de doelen uit het programmaplan.
 
-#### Artikel 11. Vergoeding
+##### Artikel 11. Vergoeding
 
 1. De voorzitter en de onafhankelijke experts ontvangen vanaf het moment van hun benoeming een vaste vergoeding per maand conform [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049755&bijlage=1&z=2026-04-04&g=2026-04-04). De toepasselijke salarisschaal is de hoogste trede van salarisschaal 18 conform de vigerende cao Rijk.
 
 2. De door de convenantpartners voorgedragen leden ontvangen geen vaste vergoeding.
 
-#### Artikel 12. Archiefbescheiden
+##### Artikel 12. Archiefbescheiden
 
 1. De regiegroep draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden of, zo de omstandigheden daartoe aanleiding geven, zoveel eerder, de bescheiden betreffende die werkzaamheden over aan het archief van de Directie Onderzoek en Wetenschapsbeleid van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
-#### Artikel 13. Inwerkingtreding
+##### Artikel 13. Inwerkingtreding
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt daarbij terug tot en met 1 april 2024.
 
 2. Dit besluit vervalt op 1 januari 2030.
 
-#### Artikel 14. Citeertitel
+##### Artikel 14. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Regiegroep Sociale Veiligheid in Hoger Onderwijs en Wetenschap.
 
@@ -246,7 +272,7 @@ Onderstaande tabel geeft het aantal uren per week weer, verdeeld naar jaartal.
 
 Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.
 
-#### Artikel 5a. Tijdelijke vervanging lid regiegroep
+##### Artikel 5a. Tijdelijke vervanging lid regiegroep
 
 1. Een lid als bedoeld in [artikel 5, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0049755&artikel=5&z=2026-04-04&g=2026-04-04), kan bij tijdelijke afwezigheid worden vervangen.
 

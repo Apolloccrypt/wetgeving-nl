@@ -1,13 +1,35 @@
 ---
 title: "Europese Overeenkomst betreffende de douanebehandeling van laadborden gebruikt bij internationaal vervoer"
 identifier: "BWBV0005179"
-categorie: "Internationaal recht"
-publicatiedatum: 1963-01-20
-laatste_update: 1963-01-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005179"
+country: "nl"
+rank: "verdrag"
+publication_date: "1963-01-20"
+last_updated: "1963-01-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005179"
+soort: "verdrag"
+stam_id: "10004497133"
+version_id: "10004712462"
+internal_id: "C10007004451"
+label_id: "10004482064"
+dtd_version: "2.0"
+original_entry_into_force: "1963-01-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005179/1963-01-20/0"
+intitule_bron: "Trb.1961-140"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1961-12-11"
+intitule_in_force: "1962-12-28"
+intitule_status: "goed"
+original_publication: "Trb.1961-140"
+original_published_date: "1961-12-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1961-140"
+entry_into_force_date: "1963-01-20"
+jci_1_3: "jci1.3:c:BWBV0005179&z=1963-01-20&g=1963-01-20"
+jci_1_0: "1.0:c:BWBV0005179&g=1963-01-20"
+citeertitel_status: "redactioneel"
+entry_into_force: "1963-01-20"
 ---
-
 # Europese Overeenkomst betreffende de douanebehandeling van laadborden gebruikt bij internationaal vervoer
 
 De Overeenkomstsluitende Partijen,
@@ -20,7 +42,7 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. Voor de toepassing van deze Overeenkomst wordt verstaan:
 
@@ -32,7 +54,7 @@ Zijn het volgende overeengekomen:
 
 2. Deze Overeenkomst is van toepassing op laadborden die in het grondgebied van een Overeenkomstsluitende Partij worden ingevoerd vanuit het grondgebied van een andere Overeenkomstsluitende Partij.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Iedere Overeenkomstsluitende Partij laat laadborden met vrijstelling van rechten en heffingen terzake van de invoer toe, zonder toepassing van invoerverboden of -beperkingen, op voorwaarde:
 
@@ -44,7 +66,7 @@ Zijn het volgende overeengekomen:
 
 3. Iedere Overeenkomstsluitende Partij streeft er naar de formaliteiten zoveel mogelijk te vereenvoudigen en, inzonderheid, geen zekerheidstelling te eisen voor de rechten en heffingen terzake van de invoer.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Iedere Overeenkomstsluitende Partij zal de bepalingen van artikel 2, lid 1, van deze Overeenkomst toepassen zonder bij de invoer en de uitvoer een douanedocument te doen overleggen of een zekerheidstelling te eisen voor de rechten en heffingen terzake van de invoer, voor laadborden die gemeenschappelijk worden gebruikt op grond van een contract krachtens hetwelk de belanghebbenden:
 
@@ -60,17 +82,17 @@ Zijn het volgende overeengekomen:
 
 - b. het contract tot gemeenschappelijk gebruik is medegedeeld aan de douane-administraties van de betrokken Overeenkomstsluitende Partijen en die administraties voornoemd contract aanvaardbaar hebben geacht op grond van het feit dat zij van oordeel zijn dat de soorten laadborden voldoende nauwkeurig omschreven zijn en dat de juiste uitvoering van het contract voldoende is gewaarborgd.
 
-#### Artikel 4
+##### Artikel 4
 
 Iedere Overeenkomstsluitende Partij behoudt zich het recht voor, binnenlandse rechten en belastingen te heffen, evenals, in voorkomende gevallen, rechten en heffingen terzake van de invoer die in haar land verschuldigd zijn voor laadborden die het onderwerp uitmaken van een aankoop of van een soortgelijke transactie door personen wonende of gevestigd op haar grondgebied. Iedere Overeenkomstsluitende Partij behoudt zich eveneens het recht voor, met betrekking tot laadborden die met toepassing van deze Overeenkomst worden uitgevoerd teruggaaf van rechten en belastingen te weigeren, alsook het geheel of gedeeltelijk verlenen van andere voordelen welke bij de uitvoer zijn voorzien.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze Overeenkomst verhindert voor de uitvoer en de uitvoer van laadborden niet de toekenning van verdergaande faciliteiten dan hierin voorzien.
 
 ### HOOFDSTUK II. Slotbepalingen
 
-#### Artikel 6
+##### Artikel 6
 
 1. De landen die lid zijn van de Economische Commissie voor Europa, alsmede de landen die overeenkomstig paragraaf 8 van het mandaat dezer Commissie met adviserende bevoegdheid tot de Commissie zijn toegelaten, kunnen Partij bij deze Overeenkomst worden:
 
@@ -86,29 +108,29 @@ Deze Overeenkomst verhindert voor de uitvoer en de uitvoer van laadborden niet d
 
 4. De bekrachtiging of de toetreding geschiedt door nederlegging van een akte bij de Secretaris-Generaal van de Verenigde Naties.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Deze Overeenkomst treedt in werking op de negentigste dag nadat vijf van de in het eerste lid van artikel 6 bedoelde landen haar hebben ondertekend zonder voorbehoud van bekrachtiging of hun akte van bekrachtiging of van toetreding hebben nedergelegd.
 
 2. Met betrekking tot elk land dat deze Overeenkomst heeft bekrachtigd of tot de Overeenkomst is toegetreden nadat vijf landen haar hebben ondertekend zonder voorbehoud van bekrachtiging of hun akte van bekrachtiging of van toetreding hebben nedergelegd, treedt de Overeenkomst in werking op de negentigste dag na de datum van nederlegging van zijn akte van bekrachtiging of van toetreding.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Deze Overeenkomst kan door elke Overeenkomstsluitende Partij worden opgezegd door een daartoe strekkende kennisgeving aan de Secretaris-Generaal van de Verenigde Naties.
 
 2. De opzegging wordt van kracht vijftien maanden na de datum van ontvangst van de kennisgeving van opzegging door de Secretaris-Generaal.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze Overeenkomst houdt op van kracht te zijn, indien na haar inwerkingtreding het aantal Overeenkomstsluitende Partijen gedurende een tijdvak van twaalf opeenvolgende maanden minder dan vijf bedraagt.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Elk land kan, ten tijde van de ondertekening van deze Overeenkomst zonder voorbehoud van bekrachtiging of bij de nederlegging van zijn akte van bekrachtiging of van toetreding of te eniger tijd daarna, door middel van een kennisgeving aan de Secretaris-Generaal van de Verenigde Naties verklaren, dat deze Overeenkomst van toepassing zal zijn ten aanzien van alle of een deel van de gebieden, wier internationale betrekkingen het behartigt. Deze Overeenkomst is ten aanzien van het gebied of de gebieden in de kennisgeving vermeld van toepassing met ingang van de negentigste dag na ontvangst van deze kennisgeving door de Secretaris-Generaal of wel, indien de Overeenkomst op die dag nog niet in werking is getreden, met ingang van de datum van haar inwerkingtreding.
 
 2. Elk land dat overeenkomstig het voorgaande lid een verklaring heeft afgelegd waardoor deze Overeenkomst van toepassing wordt ten aanzien van een gebied welks internationale betrekkingen het behartigt, kan de Overeenkomst met betrekking tot dit gebied afzonderlijk opzeggen, overeenkomstig de bepalingen van artikel 8.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Elk geschil tussen twee of meer Overeenkomstsluitende Partijen betreffende de uitlegging of de toepassing van deze Overeenkomst wordt zoveel mogelijk beslecht door middel van onderhandelingen tussen de Partijen waartussen het geschil is gerezen.
 
@@ -116,7 +138,7 @@ Deze Overeenkomst houdt op van kracht te zijn, indien na haar inwerkingtreding h
 
 3. De uitspraak van de overeenkomstig het tweede lid van dit artikel aangewezen scheidsrechter of scheidsrechters is bindend voor de betrokken Overeenkomstsluitende Partijen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Elk land kan op het ogenblik waarop het deze Overeenkomst ondertekent of bekrachtigt of tot deze Overeenkomst toetreedt, verklaren dat het zich niet gebonden acht aan de leden 2 en 3 van artikel 11 van de Overeenkomst. De andere Overeenkomstsluitende Partijen zijn niet gebonden aan deze leden tegenover elke Overeenkomstsluitende Partij die een zodanig voorbehoud heeft gemaakt.
 
@@ -124,7 +146,7 @@ Deze Overeenkomst houdt op van kracht te zijn, indien na haar inwerkingtreding h
 
 3. Behoudens de voorbehouden bedoeld in lid 1 van dit artikel, is geen enkel voorbehoud op deze Overeenkomst toegelaten.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Nadat deze Overeenkomst gedurende drie jaren van kracht is geweest, kan elke Overeenkomstsluitende Partij door een kennisgeving aan de Secretaris-Generaal van de Verenigde Naties de bijeenroeping van een conferentie verzoeken, teneinde deze Overeenkomst te herzien. De Secretaris-Generaal doet van dit verzoek mededeling aan alle Overeenkomstsluitende Partijen en zal een herzieningsconferentie bijeenroepen, indien binnen een termijn van vier maanden, te rekenen van de door hem verzonden mededeling af, ten minste een derde van de Overeenkomstsluitende Partijen hem hun instemming met dit verzoek hebben kenbaar gemaakt.
 
@@ -132,7 +154,7 @@ Deze Overeenkomst houdt op van kracht te zijn, indien na haar inwerkingtreding h
 
 3. De Secretaris-Generaal nodigt alle in het eerste lid van artikel 6 bedoelde landen, alsmede de landen die krachtens artikel 6, lid 2, Overeenkomstsluitende Partij zijn geworden, uit tot bijwoning van elke conferentie die overeenkomstig dit artikel wordt bijeengeroepen.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Elke Overeenkomstsluitende Partij kan een of meer wijzigingen van deze Overeenkomst voorstellen. De tekst van elke voorgestelde wijziging van deze Overeenkomst wordt ingediend bij de Secretaris-Generaal van de Verenigde Naties, die deze tekst ter kennis brengt van alle Overeenkomstsluitende Partijen, alsmede van de overige in het eerste lid van artikel 6 bedoelde landen.
 
@@ -160,7 +182,7 @@ Deze Overeenkomst houdt op van kracht te zijn, indien na haar inwerkingtreding h
 
 7. De Secretaris-Generaal deelt alle Overeenkomstsluitende Partijen zo spoedig mogelijk mede of er bezwaar tegen de voorgestelde wijziging is ingediend overeenkomstig lid 2 sub **a**) van dit artikel en of een of meer Overeenkomstsluitende Partijen een mededeling overeenkomstig **b**) van dat lid tot hem hebben gericht. In het geval dat een of meer Overeenkomstsluitende Partijen een zodanige mededeling hebben gedaan, doet hij vervolgens aan alle Overeenkomstsluitende Partijen weten of de Overeenkomstsluitende Partijen die een zodanige mededeling hebben gedaan een bezwaar tegen de ontworpen wijziging inbrengen dan wel de wijziging aanvaarden.
 
-#### Artikel 15
+##### Artikel 15
 
 Behalve van de in de artikelen 13 en 14 van deze Overeenkomst bedoelde kennisgevingen doet de Secretaris-Generaal van de Verenigde Naties aan alle in het eerste lid van artikel 6 bedoelde landen, alsmede aan de landen welke krachtens artikel 6, lid 2, Overeenkomstsluitende Partij zijn geworden mededeling van:
 
@@ -178,7 +200,7 @@ Behalve van de in de artikelen 13 en 14 van deze Overeenkomst bedoelde kennisgev
 
 - g. de inwerkingtreding van elke wijziging overeenkomstig artikel 14.
 
-#### Artikel 16
+##### Artikel 16
 
 Na 15 maart 1961 wordt het originele exemplaar van deze Overeenkomst nedergelegd bij de Secretaris-Generaal van de Verenigde Naties, die daarvan aan alle in artikel 6, leden 1 en 2, bedoelde landen voor eensluidend gewaarmerkte afschriften doet toekomen.
 

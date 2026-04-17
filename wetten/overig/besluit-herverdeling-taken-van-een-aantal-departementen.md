@@ -1,13 +1,35 @@
 ---
-title: "Besluit herverdeling taken van een aantal departementen"
+title: "Besluit van 29 december 1982, houdende herverdeling taken van een aantal departementen"
 identifier: "BWBR0003563"
-categorie: "Overig"
-publicatiedatum: 1983-01-01
-laatste_update: 1983-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003563"
+country: "nl"
+rank: "kb"
+publication_date: "1983-01-01"
+last_updated: "1983-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003563"
+soort: "KB"
+stam_id: "568953"
+version_id: "827142"
+internal_id: "C827141"
+label_id: "552044"
+dtd_version: "2.0"
+original_entry_into_force: "1983-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003563/1983-01-01/0"
+intitule_bron: "Stb.1982-780"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1982-12-29"
+intitule_status: "goed"
+original_publication: "Stb.1982-780"
+original_signed_date: "1982-12-29"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1983-01-01"
+jci_1_3: "jci1.3:c:BWBR0003563&z=1983-01-01&g=1983-01-01"
+jci_1_0: "1.0:c:BWBR0003563&g=1983-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit herverdeling taken van een aantal departementen"
+signed_date: "1982-12-29"
+entry_into_force: "1983-01-01"
 ---
-
 # Besluit van 29 december 1982, houdende herverdeling taken van een aantal departementen
 
 Op de voordracht van Onze Minister-President, Minister van Algemene Zaken d.d. 24 december 1982, nr. 327202, mede namens Onze Ministers van Binnenlandse Zaken, van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Welzijn, Volksgezondheid en Cultuur, in overeenstemming met het gevoelen van de Raad van Ministers;
@@ -18,7 +40,7 @@ Gelet op artikel 86 van de Grondwet;
 
 Hebben goedgevonden en verstaan:
 
-#### Enig artikel
+##### Enig artikel
 
 Met ingang van 1 januari 1983 gaan over op het departement van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer:
 

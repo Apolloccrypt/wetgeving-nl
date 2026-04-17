@@ -1,20 +1,45 @@
 ---
 title: "Beleidsregel orthodontische zorg"
 identifier: "BWBR0051212"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051212"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051212"
+soort: "zbo"
+stam_id: "17466613"
+version_id: "30805362"
+internal_id: "C44151171"
+label_id: "17368924"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051212/2026-01-01/0"
+intitule_bron: "Stcrt.2025-23456"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-07-02"
+intitule_published: "2025-07-10"
+intitule_in_force: "2025-07-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-23456"
+original_signed_date: "2025-07-02"
+original_published_date: "2025-07-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-23456"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051212&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051212&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2025-07-02"
+entry_into_force: "2026-01-01"
 ---
-
 # Beleidsregel orthodontische zorg
 
 Gelet op [artikel 57, eerste lid, onderdelen b en c, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot het uitoefenen van de bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen.
 
 Gelet op [artikel 59, aanhef en onderdeel b, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=59), heeft de Minister van Volksgezondheid, Welzijn en Sport (VWS) met de brief van 12 juli 2012, met [kenmerk MC-U-3122855](https://wetten.overheid.nl/jci1.3:c:BWBR0031816), ten behoeve van de voorliggende beleidsregel een aanwijzing op grond van [artikel 7 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7), aan de NZa gegeven.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
@@ -46,11 +71,11 @@ De daadwerkelijke levering van materiaal of techniek aan de zorgaanbieder kan ec
 
 De regel brengt met zich mee dat het plaatsen van een op enigerlei wijze aan de zorgaanbieder gelieerde rechtspersoon tussen de ‘zorgaanbieder’ en de ‘oorspronkelijke vervaardiger’ of een ‘niet-gelieerde leverancier’, waarvan het effect is dat de inkoopprijs (voor de zorgaanbieder) wordt verhoogd en daarmee financieel voordeel wordt behaald door deze zorgaanbieder, er niet toe kan leiden dat de door deze gelieerde rechtspersoon in rekening gebrachte kosten mogen worden doorberekend door de zorgaanbieder aan de consument. De extra kosten van die rechtspersoon (bovenop diens kosten voor inkoop) vertegenwoordigen dan immers geen reële economische waarde en dat betekent dat de prijs voor de consument hoger wordt dan redelijkerwijs nodig is.
 
-#### Artikel 2. Doel van de beleidsregel
+##### Artikel 2. Doel van de beleidsregel
 
 Het doel van deze beleidsregel is om vast te leggen op welke wijze de NZa gebruik maakt van haar bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen op het gebied van orthodontische zorg.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze beleidsregel is van toepassing op orthodontische zorg als omschreven bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) (Zvw).
 
@@ -58,7 +83,7 @@ Voor zover geen sprake is van zorg als omschreven in de vorige zin, is deze bele
 
 Deze beleidsregel is tevens van toepassing op orthodontische zorg als omschreven bij of krachtens de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) (Wlz), die wordt geleverd door zorgaanbieders die orthodontische zorg als omschreven bij of krachtens de Wlz leveren aan patiënten die verblijven en behandeld worden in een Wlz-instelling.
 
-#### Artikel 4. Hoofdstukken orthodontische zorg
+##### Artikel 4. Hoofdstukken orthodontische zorg
 
 In het kader van deze beleidsregel worden een reeks van prestatiebeschrijvingen onderscheiden die in navolgende hoofdstukken zijn verdeeld.
 
@@ -77,7 +102,7 @@ De lijst van orthodontische prestaties is gesplitst naar de behandeling van het 
 
 - (C). patiënten met functionele problemen veroorzaakt door een cheilo-/gnatho-/palatoschisis
 
-#### Artikel 5. Onderdelen ter vaststelling van de tariefopbouw
+##### Artikel 5. Onderdelen ter vaststelling van de tariefopbouw
 
 1. Bij de tariefvaststelling wordt gebruik gemaakt van twee puntwaarden: een puntwaarde voor de tarieven in de A-categorie en een puntwaarde voor de tarieven in de B- en C-categorie.
 
@@ -104,7 +129,7 @@ De lijst van orthodontische prestaties is gesplitst naar de behandeling van het 
 | De structurele puntwaarde van de prestaties in de A-categorie bedraagt | € 0,463097372 | (voorcalculatorisch niveau 2026) |
 | De puntwaarde van de prestaties in de B- en C-categorie bedraagt: Deze puntwaarde muteert jaarlijks met het hierna in [artikel 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0051212&artikel=6&z=2026-01-01&g=2026-01-01) genoemde mutatiepercentage. | € 0,814405649 | (voorcalculatorisch niveau 2026) |
 
-#### Artikel 6. Totstandkoming maximumtarieven
+##### Artikel 6. Totstandkoming maximumtarieven
 
 De totstandkoming van de tarieven voor de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0051212&artikel=7&z=2026-01-01&g=2026-01-01) beschreven prestaties wordt hieronder toegelicht. Een nadere onderbouwing is te vinden in het ‘verantwoordingsdocumenttarieven tandheelkundige en orthodontische zorg 2026’.
 
@@ -139,7 +164,7 @@ De totstandkoming van de tarieven voor de in [artikel 7](https://wetten.overheid
 
 - 5. Een tarief dat niet hoger is dan berekend op basis van artikel 6.1, 6.2 en 6.3 kan aan eenieder in rekening worden gebracht. Een tarief dat tot stand komt met toepassing van 6.4 kan uitsluitend in rekening worden gebracht aan (a) de ziektekostenverzekeraar met wie het verhoogde maximumtarief is overeengekomen of (b) de verzekerde ten behoeve van wie een ziektekostenverzekering met betrekking tot orthodontische zorg is gesloten bij een ziektekostenverzekeraar met wie een zodanig verhoogd maximumtarief schriftelijk is overeengekomen. Een tarief dat tot stand komt met toepassing van artikel 6.4 kan uitsluitend in rekening worden gebracht voor zover een ziektekostenverzekering met betrekking tot orthodontische zorg tussen de ziektekostenverzekeraar en verzekerde is overeengekomen die de betreffende prestatie omvat.
 
-#### Artikel 7. Prestaties orthodontische zorg en puntenaantallen
+##### Artikel 7. Prestaties orthodontische zorg en puntenaantallen
 
 Onder de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0051212&artikel=4&z=2026-01-01&g=2026-01-01) genoemde hoofdstukken zijn de in dit artikel genoemde prestaties te onderscheiden. Bij de prestaties is – indien van toepassing – het geldende puntenaantal weergegeven. Op de prestaties zijn ‘algemene bepalingen’ van toepassing. Deze zijn weergegeven in bijlage 1 van de Prestatie- en tariefbeschikking orthodontische zorg.
 
@@ -221,11 +246,11 @@ Onder de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0051212&artikel=
 | F900 A/B/C | Informatieverstrekking, per vijf minuten | A: € 17,09 B: € 17,09 C: € 17,09 |
 | F901 A/B/C | Onderlinge dienstverlening | A: Maximum B: Maximum C: Maximum |
 
-#### Artikel 8. Intrekking oude beleidsregel
+##### Artikel 8. Intrekking oude beleidsregel
 
 Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt de [Beleidsregel orthodontische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0050010) met kenmerk BR/REG-25113 ingetrokken.
 
-#### Artikel 9. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding en citeertitel
+##### Artikel 9. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding en citeertitel
 
 De [Beleidsregel orthodontische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0050010), met kenmerk BR/REG-25113, blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die beleidsregel en die betrekking hebben op de periode waarvoor die beleidsregel gold.
 

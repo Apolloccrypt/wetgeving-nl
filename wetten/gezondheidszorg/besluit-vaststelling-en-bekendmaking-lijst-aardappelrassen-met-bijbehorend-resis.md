@@ -1,28 +1,54 @@
 ---
-title: "Besluit vaststelling en bekendmaking lijst aardappelrassen met bijbehorend resistentieniveau bedoeld in artikel 36, eerste lid, Regeling plantgezondheid"
+title: "Besluit van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur van 13 maart 2026, nr. nvwa/2026/010018635, houdende vaststelling en bekendmaking van de lijst aardappelrassen met bijbehorend resistentieniveau, bedoeld in artikel 36, eerste lid, van de Regeling plantgezondheid"
 identifier: "BWBR0052458"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2026-03-27
-laatste_update: 2026-03-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052458"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2026-03-27"
+last_updated: "2026-03-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052458"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "17820353"
+version_id: "31498922"
+internal_id: "C44982761"
+label_id: "17717504"
+dtd_version: "2.0"
+original_entry_into_force: "2026-03-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052458/2026-03-27/0"
+intitule_bron: "Stcrt.2026-11177"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2026-03-13"
+intitule_published: "2026-03-26"
+intitule_in_force: "2026-03-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-11177"
+original_signed_date: "2026-03-13"
+original_published_date: "2026-03-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-11177"
+entry_into_force_date: "2026-03-27"
+jci_1_3: "jci1.3:c:BWBR0052458&z=2026-03-27&g=2026-03-27"
+jci_1_0: "1.0:c:BWBR0052458&g=2026-03-27"
+citeertitel_status: "redactioneel"
+short_title: "Besluit vaststelling en bekendmaking lijst aardappelrassen met bijbehorend resistentieniveau bedoeld in artikel 36, eerste lid, Regeling plantgezondheid"
+signed_date: "2026-03-13"
+entry_into_force: "2026-03-27"
 ---
-
 # Besluit van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur van 13 maart 2026, nr. nvwa/2026/010018635, houdende vaststelling en bekendmaking van de lijst aardappelrassen met bijbehorend resistentieniveau, bedoeld in artikel 36, eerste lid, van de Regeling plantgezondheid
 
 Gelet op [artikel 36, eerste lid, van de Regeling plantgezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&artikel=36);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Als lijst aardappelrassen met bijbehorend resistentieniveau tegen aardappelmoeheid als bedoeld in [artikel 36, eerste lid, van de Regeling plantgezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&artikel=36) wordt vastgesteld de lijst in de bijlage bij dit besluit.
 
-#### Artikel 2
+##### Artikel 2
 
 Het [Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 15 april 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0050991), nr. nvwa/2025/010028268, houdende vaststelling en bekendmaking van de lijst aardappelrassen met bijbehorend resistentieniveau, bedoeld in [artikel 36, eerste lid, van de Regeling plantgezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&artikel=36) wordt ingetrokken.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 

@@ -1,13 +1,39 @@
 ---
-title: "Regeling alcohol, drugs en geneesmiddelen in het verkeer"
+title: "Regeling van de Minister van Veiligheid en Justitie van 15 juni 2017, nr. 2086428, houdende bepalingen met betrekking tot onderzoek ter vaststelling van het gebruik van alcohol, drugs en geneesmiddelen in het verkeer (Regeling alcohol, drugs en geneesmiddelen in het verkeer)"
 identifier: "BWBR0039687"
-categorie: "Verkeer"
-publicatiedatum: 2024-09-20
-laatste_update: 2024-09-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039687"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-09-20"
+last_updated: "2024-09-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039687"
+soort: "ministeriele-regeling"
+stam_id: "14028023"
+version_id: "25178402"
+internal_id: "C35995811"
+label_id: "13989444"
+dtd_version: "2.0"
+original_entry_into_force: "2018-07-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039687/2024-09-20/0"
+intitule_bron: "Stcrt.2017-35121"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-06-15"
+intitule_published: "2017-06-26"
+intitule_in_force: "2017-06-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-44300"
+original_signed_date: "2018-07-24"
+original_published_date: "2018-08-07"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2018-44300"
+entry_into_force_date: "2018-07-24"
+jci_1_3: "jci1.3:c:BWBR0039687&z=2024-09-20&g=2024-09-20"
+jci_1_0: "1.0:c:BWBR0039687&g=2024-09-20"
+citeertitel_status: "officieel"
+short_title: "Regeling alcohol, drugs en geneesmiddelen in het verkeer"
+signed_date: "2018-07-24"
+entry_into_force: "2018-07-24"
 ---
-
 # Regeling van de Minister van Veiligheid en Justitie van 15 juni 2017, nr. 2086428, houdende bepalingen met betrekking tot onderzoek ter vaststelling van het gebruik van alcohol, drugs en geneesmiddelen in het verkeer (Regeling alcohol, drugs en geneesmiddelen in het verkeer)
 
 Gelet op de [artikelen 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=4), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=6), [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=8), [10, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=10), [11, derde lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=11), [12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=12), [13, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=13), [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=16), [19, derde lid, van het Besluit alcohol, drugs en geneesmiddelen in het verkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=19);
@@ -16,11 +42,11 @@ Besluit:
 
 Treedt in werking op het tijdstip waarop de Wijzigingswet Wegenverkeerswet 1994 (verbeteren aanpak rijden onder invloed van drugs) (Stb. 2014/353) in werking treedt.
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder het Besluit: het [Besluit alcohol, drugs en geneesmiddelen in het verkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0038936).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Als uiterlijke kenmerken als bedoeld in [artikel 4, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=4) waarop een onderzoek van de psychomotorische functies en de oog- en spraakfuncties is gericht voor het verkrijgen van een vermoeden van het gebruik van alcohol, worden aangewezen:
 
@@ -40,15 +66,15 @@ In deze regeling wordt verstaan onder het Besluit: het [Besluit alcohol, drugs e
 
 - d. de motoriek: onvast ter been, trillen, zich veelvuldig krabben, wrijven of plukken aan de kleding of bewegingsdrang.
 
-#### Artikel 3
+##### Artikel 3
 
 Voor het verrichten van een voorlopig ademonderzoek als bedoeld in [artikel 6, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=6) wordt de Dräger Alcotest 7510 ademtester aangewezen.
 
-#### Artikel 4
+##### Artikel 4
 
 Voor het verrichten van een onderzoek van speeksel als bedoeld in [artikel 8, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=8), worden het type Securetec DrugWipe 5S en tot 1 maart 2023 tevens het type Dräger DrugCheck® 3000 als speekseltesters aangewezen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Voor het verrichten van een ademonderzoek als bedoeld in [artikel 10, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=10) worden de ademanalyseapparaten van Dräger Alcotest 9510 NL aangewezen die zijn voorzien van het goedkeuringsteken T7802.
 
@@ -60,7 +86,7 @@ Voor het verrichten van een onderzoek van speeksel als bedoeld in [artikel 8, ee
 
 3. Het resultaat van het ademonderzoek mag niet worden aangewezen of afgedrukt indien het verschil tussen de beide meetresultaten groter is dan 10% van het kleinste meetresultaat.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De hoeveelheid bloed die wordt afgenomen ten behoeve van een bloedonderzoek als bedoeld in [artikel 1, onder b, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=1) en een aanvullend bloedonderzoek als bedoeld in artikel 1, onder c, van het Besluit, bedraagt bij voorkeur 8 milliliter, maar ten minste 3 milliliter.
 
@@ -86,27 +112,27 @@ Voor het verrichten van een onderzoek van speeksel als bedoeld in [artikel 8, ee
 
 - d. drie fraudebestendige sluitzegels.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De methode voor de uitvoering van een bloedonderzoek als bedoeld in [artikel 1, onder b, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=1) voldoet aan de eisen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&bijlage=1&z=2024-09-20&g=2024-09-20) bij deze regeling.
 
 2. De methode voor de uitvoering van een aanvullend bloedonderzoek als bedoeld in [artikel 1, onder c, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=1) voldoet aan de eisen, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&bijlage=2&z=2024-09-20&g=2024-09-20) bij deze regeling.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het verschuldigde bedrag voor de bloedafname, bedoeld in [artikel 11, derde lid, onder b, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=11), ten behoeve van een tegenonderzoek bedraagt € 78 indien het afnemen van het bloed door een arts of verpleegkundige geschiedt in de periode van 8.00 uur tot 18.00 uur en € 102 indien het afnemen geschiedt in de periode van 18.00 uur tot 8.00 uur of in de periode van 18.00 uur vrijdagavond tot 8.00 uur maandagochtend.
 
 2. Voor de verzending van het buisje met bloed bestemd voor het tegenonderzoek naar het gehalte van alcohol en naar het gehalte van een of meer van de in [artikel 2 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=2) aangewezen stoffen of een andere stof als bedoeld in [artikel 8, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=8) zijn de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&bijlage=3&z=2024-09-20&g=2024-09-20) opgenomen kosten verschuldigd.
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling treedt in werking op het tijdstip waarop de wet van 26 september 2014 tot wijziging van de [Wegenverkeerswet 1994](onbekend) in verband met het verbeteren van de aanpak van het rijden onder invloed van drugs (Stb. 2014, 353) in werking treedt.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze regeling wordt aangehaald als: Regeling alcohol, drugs en geneesmiddelen in het verkeer.
 
@@ -290,7 +316,7 @@ Indien de verdachte een laboratorium buiten Nederland aanwijst voor tegenonderzo
 
 De regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Als ambtenaren als bedoeld in [artikel 163, vijfde en zevende lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=163), [artikel 28a, zesde, negende en tiende lid, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=28a), [artikel 89, vijfde, achtste en negende lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=89), [artikel 48, vijfde, achtste en negende lid, van de Wet lokaal spoor](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=48) en [artikel 11.6, vijfde, achtste en negende lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=11.6) worden aangewezen de ambtenaren van politie die in schaal 8 of hoger zijn benoemd.
 

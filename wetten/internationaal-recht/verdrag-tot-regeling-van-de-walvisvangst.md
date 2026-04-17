@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tot regeling van de walvisvangst"
 identifier: "BWBV0005482"
-categorie: "Internationaal recht"
-publicatiedatum: 2018-12-29
-laatste_update: 1994-12-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005482"
+country: "nl"
+rank: "verdrag"
+publication_date: "2018-12-29"
+last_updated: "1994-12-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005482"
+soort: "verdrag"
+stam_id: "10004645273"
+version_id: "10005038882"
+internal_id: "C10008336271"
+label_id: "10004629484"
+dtd_version: "2.0"
+original_entry_into_force: "1977-06-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005482/2018-12-29/0"
+intitule_bron: "Trb.1977-102"
+intitule_effect: "wijziging"
+intitule_published: "1977-07-27"
+intitule_in_force: "1977-07-27"
+intitule_status: "goed"
+original_publication: "Trb.1977-102"
+original_published_date: "1977-07-27"
+original_effect: "structuurwijziging"
+original_url_id: "trb-1977-102"
+entry_into_force_date: "1977-06-14"
+jci_1_3: "jci1.3:c:BWBV0005482&z=2018-12-29&g=2018-12-29"
+jci_1_0: "1.0:c:BWBV0005482&g=2018-12-29"
+citeertitel_status: "redactioneel"
+entry_into_force: "1977-06-14"
 ---
-
 # Verdrag tot regeling van de walvisvangst
 
 De regeringen wier gemachtigde vertegenwoordigers hun instemming hiermede hebben betuigd;
@@ -28,13 +50,13 @@ Besloten hebbend een Verdrag te sluiten om te voorzien in een behoorlijke instan
 
 Zijn het volgende overeengekomen:
 
-#### Artikel I
+##### Artikel I
 
 1. Tot dit Verdrag behoort het hieraan toegevoegde Reglement. Alle verwijzingen naar het Verdrag zullen tevens als verwijzing naar het Reglement worden beschouwd, hetzij in zijn tegenwoordige bewoordingen of zoals gewijzigd in overeenstemming met de bepalingen van artikel V.
 
 2. Dit Verdrag is van toepassing op fabrieksschepen, landstations en jagers, die onder de rechtsbevoegdheid van de Verdragsluitende Regeringen vallen, alsmede op alle wateren, waar de walvisvangst wordt uitgeoefend door zulke fabrieksschepen, landstations en jagers.
 
-#### Artikel II
+##### Artikel II
 
 In dit Verdrag wordt verstaan onder:
 
@@ -46,7 +68,7 @@ In dit Verdrag wordt verstaan onder:
 
 - 4. „verdragsluitende Regering”: elke regering, die haar acte van ratificatie heeft neergelegd of van haar toetreding tot dit Verdrag heeft kennis gegeven.
 
-#### Artikel III
+##### Artikel III
 
 1. De verdragsluitende Regeringen komen overeen een Internationale Walvis Commissie in te stellen, hierna te noemen de Commissie, die zal zijn samengesteld uit een lid van iedere verdragsluitende Regering. Elk lid heeft een stem en mag vergezeld worden door één of meer deskundigen en adviseurs.
 
@@ -64,7 +86,7 @@ In dit Verdrag wordt verstaan onder:
 
 8. Daarna volgende vergaderingen van de Commissie worden bijeengeroepen, wanneer de Commissie zulks bepaalt.
 
-#### Artikel IV
+##### Artikel IV
 
 1. De Commissie kan in samenwerking met of door middel van onafhankelijke instanties van de verdragsluitende Regeringen of andere publieke of particuliere instanties, instellingen of organisaties, dan wel zelfstandig:
 
@@ -76,7 +98,7 @@ In dit Verdrag wordt verstaan onder:
 
 2. De Commissie treft regelingen voor de publicatie van rapporten over haar werkzaamheden en kan zelfstandig of in samenwerking met het „International Bureau for Whaling Statistics” te Sandefjord in Noorwegen en andere organisaties en bureaux rapporten publiceren, die verband houden met walvissen en de walvisvangst.
 
-#### Artikel V
+##### Artikel V
 
 1. De Commissie kan van tijd tot tijd de bepalingen van het Reglement wijzigen door regelingen te treffen met betrekking tot de instandhouding en exploitatie van de walvisvoorraden, waarbij zij vaststelt:
 
@@ -118,15 +140,15 @@ In dit Verdrag wordt verstaan onder:
 
 4. Geen wijzigingen worden van kracht vóór 1 Juli 1949.
 
-#### Artikel VI
+##### Artikel VI
 
 De Commissie kan van tijd tot tijd aan alle of een der verdragsluitende Regeringen aanbevelingen zenden betreffende alle aangelegenheden, die in verband staan met walvissen of de walvisvangst en met de doelstellingen van dit Verdrag.
 
-#### Artikel VII
+##### Artikel VII
 
 De verdragsluitende Regeringen zorgen voor prompte toezending aan het International Bureau for Whaling Statistics te Sandefjord in Noorwegen, of aan die instelling die de Commissie zal aanwijzen, van kennisgevingen alsmede van statistische en andere gegevens, die op grond van dit Verdrag vereist worden en wel in zodanige vorm en op zodanige wijze als de Commissie voorschrijft.
 
-#### Artikel VIII
+##### Artikel VIII
 
 1. In afwijking van de bepalingen vervat in dit Verdrag, kan iedere verdragsluitende Regering aan haar landgenoten een speciale vergunning verlenen, op grond waarvan zij walvissen voor wetenschappelijke doeleinden mogen doden, vangen en verwerken met inachtneming van de beperkingen betreffende het aantal en van de overige voorwaarden, die de verdragsluitende Regering noodzakelijk acht, terwijl de voorschriften van dit Verdrag niet van toepassing zijn op het doden, vangen en verwerken van walvissen in overeenstemming met de bepalingen van dit artikel. Iedere verdragsluitende Regering is gehouden de Commissie van een zodanige door haar verleende machtiging onverwijld in kennis te stellen. Iedere verdragsluitende Regering is bevoegd te allen tijde een door haar op grond van dit artikel verleende speciale vergunning in te trekken.
 
@@ -136,7 +158,7 @@ De verdragsluitende Regeringen zorgen voor prompte toezending aan het Internatio
 
 4. In aanmerking nemende, dat het geregeld verzamelen en analyseren van biologische gegevens, in verband met de werkzaamheden der fabrieksschepen en landstations, onontbeerlijk is voor een goede en verstandige uitoefening der walvisvangst, nemen de verdragsluitende Regeringen alle mogelijke maatregelen ter verkrijging van die gegevens.
 
-#### Artikel IX
+##### Artikel IX
 
 1. Iedere verdragsluitende Regering neemt de geëigende maatregelen om de toepassing van de bepalingen van dit Verdrag en de bestraffing van overtredingen van genoemde bepalingen te waarborgen gedurende de werkzaamheden, verricht door personen of schepen, die onder haar rechtsbevoegdheid vallen.
 
@@ -146,7 +168,7 @@ De verdragsluitende Regeringen zorgen voor prompte toezending aan het Internatio
 
 4. Elke verdragsluitende Regering verstrekt aan de Commissie volledige bijzonderheden overeenkomstig de rapporten van haar inspecteurs omtrent iedere inbreuk op de bepalingen van dit Verdrag, gepleegd door personen of schepen, die onder de rechtsbevoegdheid van de betrokken Regering vallen. Deze gegevens moeten een verklaring inhouden betreffende de ten aanzien van de gepleegde inbreuk genomen maatregelen, alsmede de opgelegde straffen.
 
-#### Artikel X
+##### Artikel X
 
 1. Dit Verdrag wordt bekrachtigd en de bekrachtigingsoorkonden worden gedeponeerd bij de Regering van de Verenigde Staten van Amerika.
 
@@ -158,7 +180,7 @@ De verdragsluitende Regeringen zorgen voor prompte toezending aan het Internatio
 
 5. De bepalingen van het Reglement zijn niet vóór 1 Juli 1948 van toepassing. De wijzigingen van het Reglement, die op grond van artikel V zijn aangenomen, zijn niet vóór 1 Juli 1949 van toepassing.
 
-#### Artikel XI
+##### Artikel XI
 
 Elke verdragsluitende Regering kan elk jaar op 30 Juni het Verdrag opzeggen, door op of vóór 1 Januari van datzelfde jaar aan de Regering van de Verenigde Staten van Amerika haar opzegging mede te delen, die op haar beurt, na ontvangst van deze opzegging, hiervan onverwijld aan de andere verdragsluitende Regeringen kennis geeft. Elke andere verdragsluitende Regering kan eveneens binnen één maand na ontvangst van een afschrift van een zodanige door de Regering van de Verenigde Staten van Amerika verzonden mededeling, opzeggen, zodat het Verdrag voor de betreffende Regering op 30 Juni van hetzelfde jaar ophoudt van kracht te zijn. Het Verdrag draagt als datum de dag, waarop het ter ondertekening wordt neergelegd en wordt gedurende een periode van 14 dagen daarna ter ondertekening neergelegd.
 

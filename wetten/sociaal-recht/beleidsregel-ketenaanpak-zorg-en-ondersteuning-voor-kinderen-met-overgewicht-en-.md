@@ -1,20 +1,42 @@
 ---
 title: "Beleidsregel ketenaanpak zorg en ondersteuning voor kinderen met overgewicht en obesitas"
 identifier: "BWBR0050033"
-categorie: "Sociaal recht"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050033"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050033"
+soort: "zbo"
+stam_id: "17182633"
+version_id: "30289252"
+internal_id: "C43457381"
+label_id: "17090574"
+dtd_version: "2.0"
+original_entry_into_force: "2025-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050033/2025-01-01/0"
+intitule_bron: "Stcrt.2024-21670-n1"
+intitule_effect: "wijziging"
+intitule_published: "2024-07-12"
+intitule_in_force: "2024-07-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-21670-n1"
+original_published_date: "2024-07-12"
+original_effect: "wijziging"
+original_url_id: "stcrt-2024-21670-n1"
+entry_into_force_date: "2025-01-01"
+jci_1_3: "jci1.3:c:BWBR0050033&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0050033&g=2025-01-01"
+citeertitel_status: "officieel"
+entry_into_force: "2025-01-01"
 ---
-
 # Beleidsregel ketenaanpak zorg en ondersteuning voor kinderen met overgewicht en obesitas
 
 Gelet op [artikel 57, eerste lid, onderdelen b en c, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot het uitoefenen van de bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen.
 
 Gelet op [artikel 59, aanhef en onder a, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=59), heeft de Minister van VWS met brief van 26 juni 2018, met kenmerk 1342565-176534-PZO, ten behoeve van de voorliggende beleidsregel een aanwijzing op grond van [artikel 7 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7), aan de NZa gegeven.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -32,11 +54,11 @@ In deze beleidsregel wordt verstaan onder:
 
 - **Zorgprogramma:** Een gecombineerde leefstijlinterventie kinderen wordt in de vorm van een zorgprogramma aangeboden (hetzij individueel, hetzij in een groep). Het zorgprogramma bestaat uit een behandelfase en een onderhoudsfase. De totale doorlooptijd van het zorgprogramma is 24 aaneengesloten maanden. De startdatum van het zorgprogramma is de datum waarop het eerste contact na de intake tussen het kind en de zorgverlener plaatsvindt. Dit kan fysiek face-to-face contact zijn maar ook contact via een beeldverbinding indien de zorgverlening zowel zorginhoudelijk als qua tijdsbesteding vergelijkbaar is met het fysiek face-to-face contact.
 
-#### Artikel 2. Doel van de beleidsregel
+##### Artikel 2. Doel van de beleidsregel
 
 Het doel van deze beleidsregel is om vast te leggen op welke wijze de NZa gebruik maakt van haar bevoegdheid om prestatiebeschrijvingen en tarieven vast te stellen op het gebied van de ketenaanpak zorg en ondersteuning voor kinderen met overgewicht en obesitas.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze beleidsregel is van toepassing op de ketenaanpak zorg en ondersteuning voor kinderen met overgewicht en obesitas als omschreven bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) (Zvw). Hierbij gaat het om de volgende bij of krachtens de Zvw omschreven soorten zorg:
 
@@ -44,7 +66,7 @@ Deze beleidsregel is van toepassing op de ketenaanpak zorg en ondersteuning voor
 
 - •. zorg zoals huisartsen en verpleegkundigen die plegen te bieden als omschreven bij of krachtens [artikel 2.4 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.4) en [artikel 2.10 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.10) voor zover het de werkzaamheden van de centrale zorgverlener betreft.
 
-#### Artikel 4. Prestatiebeschrijvingen
+##### Artikel 4. Prestatiebeschrijvingen
 
 Deze beleidsregel heeft betrekking op de ketenaanpak zorg en ondersteuning voor kinderen met overgewicht en obesitas tot 18 jaar. Bij het bereiken van de leeftijd van 18 jaar dienen de prestaties uit deze beleidsregel tot het einde van het zorgprogramma in rekening te worden gebracht.
 
@@ -90,7 +112,7 @@ De volgende prestatiebeschrijvingen worden onderscheiden:
 
 - 10. Tijdelijke toeslag stimuleren landelijke uitrol ketenaanpak Deze tijdelijke toeslag kan in combinatie met de prestaties voor de ketenaanpak zorg en ondersteuning voor kinderen met overgewicht en obesitas, met uitzondering van de prestatie onderlinge dienstverlening, in rekening worden gebracht. Deze toeslag is bedoeld voor het maken van lokale maatwerkafspraken die juist voor de regionale ketenaanpak relevant kunnen zijn. De maximumtarieven kunnen ten hoogste met 10% worden verhoogd indien hieraan een schriftelijke overeenkomst tussen de betreffende zorgaanbieder en zorgverzekeraar ten grondslag ligt. Dit verhoogde maximumtarief kan uitsluitend in rekening worden gebracht aan (a) de zorgverzekeraar met wie het verhoogde maximumtarief schriftelijk is overeengekomen of (b) de verzekerde ten behoeve van wie een zorgverzekering met betrekking tot de centrale zorgverlener en gecombineerde leefstijlinterventie kinderen is gesloten bij een zorgverzekeraar met wie een zodanig verhoogd maximumtarief schriftelijk is overeengekomen.
 
-#### Artikel 5. Tarieven
+##### Artikel 5. Tarieven
 
 1. Tariefsoort
 
@@ -112,11 +134,11 @@ Voor de prestaties, met uitzondering van de prestatie onderlinge dienstverlening
 
 De maximumtarieven worden jaarlijks trendmatig aangepast met een index voor personele kosten en materiële kosten. De personele kosten worden geïndexeerd op basis van de door het Ministerie van VWS aangegeven Overheidsbijdrage in de Arbeidskostenontwikkeling (OVA). Voor de materiële kosten wordt aangesloten bij het prijsindexcijfer particuliere consumptie uit het Centraal Economisch Plan (CEP) van het Centraal Planbureau. De toe te passen index is het gewogen gemiddelde van de indices voor personele kosten (aandeel: 80,4%) en materiële kosten (aandeel: 19,6%).
 
-#### Artikel 6. Intrekken oude beleidsregel
+##### Artikel 6. Intrekken oude beleidsregel
 
 Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt de [Beleidsregel ketenaanpak zorg en ondersteuning voor kinderen met overgewicht en obesitas](https://wetten.overheid.nl/jci1.3:c:BWBR0048232), met kenmerk BR/REG-24100, ingetrokken.
 
-#### Artikel 7. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding en citeertitel
+##### Artikel 7. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding en citeertitel
 
 De [Beleidsregel ketenaanpak zorg en ondersteuning voor kinderen met overgewicht en obesitas](https://wetten.overheid.nl/jci1.3:c:BWBR0048232) met kenmerk BR/REG-24100, blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die beleidsregel en die betrekking hebben op de periode waarvoor die beleidsregel gold.
 

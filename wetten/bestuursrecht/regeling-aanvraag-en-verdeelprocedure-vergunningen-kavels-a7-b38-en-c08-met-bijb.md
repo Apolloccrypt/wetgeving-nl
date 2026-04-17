@@ -1,13 +1,39 @@
 ---
-title: "Regeling aanvraag- en verdeelprocedure vergunningen kavels A7, B38 en C08 met bijbehorende vergunningen voor digitale radio-omroep"
+title: "Regeling van de Minister van Economische Zaken van 19 april 2013, nr. WJZ/13071131, houdende vaststelling van de aanvraag- en verdeelprocedure voor enkele vergunningen voor het gebruik van frequentieruimte in de FM-band, de middengolfband en band III (Regeling aanvraag- en verdeelprocedure vergunningen kavels A7, B38 en C08 met bijbehorende vergunningen voor digitale radio-omroep)"
 identifier: "BWBR0033308"
-categorie: "Bestuursrecht"
-publicatiedatum: 2013-04-24
-laatste_update: 2013-04-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033308"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2013-04-24"
+last_updated: "2013-04-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033308"
+soort: "ministeriele-regeling"
+stam_id: "12225603"
+version_id: "20446832"
+internal_id: "C28738661"
+label_id: "12197214"
+dtd_version: "2.0"
+original_entry_into_force: "2013-04-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033308/2013-04-24/0"
+intitule_bron: "Stcrt.2013-11065"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-04-19"
+intitule_published: "2013-04-23"
+intitule_in_force: "2013-04-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-11065"
+original_signed_date: "2013-04-19"
+original_published_date: "2013-04-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-11065"
+entry_into_force_date: "2013-04-24"
+jci_1_3: "jci1.3:c:BWBR0033308&z=2013-04-24&g=2013-04-24"
+jci_1_0: "1.0:c:BWBR0033308&g=2013-04-24"
+citeertitel_status: "officieel"
+short_title: "Regeling aanvraag- en verdeelprocedure vergunningen kavels A7, B38 en C08 met bijbehorende vergunningen voor digitale radio-omroep"
+signed_date: "2013-04-19"
+entry_into_force: "2013-04-24"
 ---
-
 # Regeling van de Minister van Economische Zaken van 19 april 2013, nr. WJZ/13071131, houdende vaststelling van de aanvraag- en verdeelprocedure voor enkele vergunningen voor het gebruik van frequentieruimte in de FM-band, de middengolfband en band III (Regeling aanvraag- en verdeelprocedure vergunningen kavels A7, B38 en C08 met bijbehorende vergunningen voor digitale radio-omroep)
 
 Gelet op [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=8), [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=9), [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=10), [11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=11), en [12 van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=12);
@@ -16,7 +42,7 @@ Besluit:
 
 #### Paragraaf 1. Algemeen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 1. In deze regeling wordt verstaan onder:
 
@@ -44,7 +70,7 @@ Besluit:
 
 #### Paragraaf 2. Vergunningen voor frequentieruimte in de FM-band en de middengolfband
 
-#### Artikel 2. Beschikbare vergunningen
+##### Artikel 2. Beschikbare vergunningen
 
 1. Ingevolge het [bekendmakingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033305) zijn de volgende vergunningen beschikbaar om door middel van een veiling te worden verdeeld:
 
@@ -62,7 +88,7 @@ Besluit:
 
 - c. vergunning B38 en vergunning C08.
 
-#### Artikel 3. Aanvraag
+##### Artikel 3. Aanvraag
 
 1. Een aanvraag wordt uiterlijk op 22 mei 2013 om 14.00 uur per post ontvangen op dan wel door middel van persoonlijke overhandiging ingediend op het volgende adres en met de volgende adressering:
 
@@ -106,7 +132,7 @@ Indien de aanvrager zowel vergunning kavel B38 als vergunning kavel C08 aanvraag
 
 - b. de aanvrager van vergunning kavel C08 die reeds houder is van een vergunning voor ten minste een achttiende deel van de capaciteit van de frequentieruimte binnen het frequentiebereik 188,160 MHz – 189,696 MHz (allotment 7A) of van een vergunning voor ten minste een negende deel van de capaciteit van de frequentieruimte binnen het frequentiebereik 219,584 MHz – 221,120 MHz (kavel 11C).
 
-#### Artikel 4. Zekerheidstelling
+##### Artikel 4. Zekerheidstelling
 
 1. Een aanvrager verstrekt als zekerheid voor de betaling van het bod voor elk van de aangevraagde vergunningen een waarborgsom of een bankgarantie waarvan de hoogte gelijk is aan een vierde deel van zijn eerste bod voor die vergunning onder vermelding van de desbetreffende vergunning.
 
@@ -122,13 +148,13 @@ Indien de aanvrager zowel vergunning kavel B38 als vergunning kavel C08 aanvraag
 
 - b. de bankgarantie, verstrekt volgens het model, bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033308&bijlage=3&z=2013-04-24&g=2013-04-24), is ontvangen op het in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033308&paragraaf=2&artikel=3&z=2013-04-24&g=2013-04-24), genoemde adres.
 
-#### Artikel 5. Onjuiste indiening vergunningaanvraag
+##### Artikel 5. Onjuiste indiening vergunningaanvraag
 
 1. Indien niet is voldaan aan [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033308&paragraaf=2&artikel=3&z=2013-04-24&g=2013-04-24), wijst de minister de aanvraag af.
 
 2. Voor zover niet is voldaan aan [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033308&paragraaf=2&artikel=3&z=2013-04-24&g=2013-04-24), wijst de minister de aanvraag af.
 
-#### Artikel 6. Verzuimherstel
+##### Artikel 6. Verzuimherstel
 
 1. Indien de aanvraag niet is geweigerd op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033308&paragraaf=2&artikel=5&z=2013-04-24&g=2013-04-24) en er is niet voldaan aan de in [artikel 3, vierde, vijfde, zesde, zevende en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033308&paragraaf=2&artikel=3&z=2013-04-24&g=2013-04-24), en [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033308&paragraaf=2&artikel=4&z=2013-04-24&g=2013-04-24) gestelde eisen, deelt de minister dit de aanvrager mee en stelt de minister de aanvrager overeenkomstig [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) in de gelegenheid het verzuim te herstellen.
 
@@ -138,7 +164,7 @@ Indien de aanvrager zowel vergunning kavel B38 als vergunning kavel C08 aanvraag
 
 4. Indien het verzuim niet binnen de termijn vermeld in het tweede lid en op de wijze vermeld in het derde lid, is hersteld of na herstel niet wordt voldaan aan de in [artikel 3, vierde, vijfde, zesde, zevende en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033308&paragraaf=2&artikel=3&z=2013-04-24&g=2013-04-24), en [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033308&paragraaf=2&artikel=4&z=2013-04-24&g=2013-04-24) gestelde eisen, kan de aanvraag overeenkomstig [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) buiten behandeling worden gelaten.
 
-#### Artikel 7. Rechtsvorm en financiële positie
+##### Artikel 7. Rechtsvorm en financiële positie
 
 1. Een aanvrager is een privaatrechtelijke rechtspersoon naar Nederlands recht of het equivalent daarvan naar het recht van een van de overige lidstaten van de Europese Unie of een van de overige staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte, en heeft zijn statutaire zetel, zijn hoofdbestuur of zijn hoofdvestiging binnen de Europese Economische Ruimte.
 
@@ -154,11 +180,11 @@ Indien de aanvrager zowel vergunning kavel B38 als vergunning kavel C08 aanvraag
 
 4. De aanvrager verstrekt een verklaring als bedoeld in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033308&bijlage=6&z=2013-04-24&g=2013-04-24) inzake de financiële draagkracht. Dit vereiste geldt niet voor de aanvrager die de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033308&paragraaf=2&artikel=4&z=2013-04-24&g=2013-04-24), bedoelde zekerheid verstrekt ter hoogte van de helft van zijn eerste bod voor elke aangevraagde vergunning.
 
-#### Artikel 8. Hoedanigheid van commerciële omroep
+##### Artikel 8. Hoedanigheid van commerciële omroep
 
 Een aanvrager beschikt over de vereiste toestemming van het Commissariaat voor de Media, bedoeld in [artikel 3.1 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.1).
 
-#### Artikel 9. Eisen ten aanzien van democratische, sociale, taalkundige en culturele belangen
+##### Artikel 9. Eisen ten aanzien van democratische, sociale, taalkundige en culturele belangen
 
 1. Een aanvrager van vergunning kavel A7 heeft zich blijkens een door hem ondertekende verklaring overeenkomstig [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033308&bijlage=4&z=2013-04-24&g=2013-04-24), punt 1, bij deze regeling ertoe verplicht dat een krachtens deze regeling aan hem verleende vergunning zal worden gebruikt voor het uitzenden van een radioprogramma van een commerciële omroepinstelling:
 
@@ -168,13 +194,13 @@ Een aanvrager beschikt over de vereiste toestemming van het Commissariaat voor d
 
 2. Een aanvrager van vergunning kavel B38 heeft zich blijkens een door hem ondertekende verklaring overeenkomstig [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033308&bijlage=4&z=2013-04-24&g=2013-04-24), punt 2, bij deze regeling ertoe verplicht dat een krachtens deze regeling aan hem verleende vergunning zal worden gebruikt voor het uitzenden van een radioprogramma van een commerciële omroepinstelling dat, voor zover het gepresenteerde programmaonderdelen tussen 07.00 uur en 19.00 uur betreft, voor ten minste 50 procent in de Nederlandse of Friese taal wordt gepresenteerd.
 
-#### Artikel 10. Voorkomen van collusie
+##### Artikel 10. Voorkomen van collusie
 
 1. Een aanvrager verklaart door middel van een door hem ondertekende verklaring overeenkomstig [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033308&bijlage=5&z=2013-04-24&g=2013-04-24) bij deze regeling dat hij en, indien hij behoort tot een groep, de andere leden van de groep waartoe hij behoort, zich voorafgaand aan de indiening van de aanvraag hebben onthouden van afspraken of onderling afgestemde feitelijke gedragingen die afbreuk doen of kunnen doen aan de mededinging in het kader van de veilingprocedure en zich voor de datum, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033308&paragraaf=2&artikel=3&z=2013-04-24&g=2013-04-24), zullen onthouden van het maken van dergelijke afspraken of het verrichten van dergelijke gedragingen.
 
 2. De minister kan een aanvraag afwijzen als naar zijn oordeel aannemelijk is dat de aanvrager of, indien hij behoort tot een groep, andere leden van de groep waartoe hij behoort, afspraken hebben gemaakt of onderling afgestemde feitelijke gedragingen hebben verricht die afbreuk doen of kunnen doen of gedaan hebben of gedaan kunnen hebben aan de mededinging in het kader van de veilingprocedure.
 
-#### Artikel 11. Bepaling hoogste toewijsbare bod en vergunningverlening
+##### Artikel 11. Bepaling hoogste toewijsbare bod en vergunningverlening
 
 1. De minister stelt aan de hand van de door de aanvragers ingediende aanvragen vast welke aanvragers het hoogste toewijsbare bod hebben uitgebracht voor vergunning kavel A7, voor vergunning kavel B38 en voor vergunning kavel C08.
 
@@ -190,7 +216,7 @@ Een aanvrager beschikt over de vereiste toestemming van het Commissariaat voor d
 
 5. Voor zover aanvragen niet op grond van het vierde lid voor toewijzing in aanmerking komen, worden ze afgewezen.
 
-#### Artikel 12. Betalingsregime
+##### Artikel 12. Betalingsregime
 
 1. Een aanvrager die vergunning kavel A7, vergunning B38 of vergunning kavel C08 verkrijgt, betaalt het door hem voor de vergunning uitgebrachte bod dat op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0033308&paragraaf=2&artikel=11&z=2013-04-24&g=2013-04-24) is aangemerkt als hoogste toewijsbare bod, uiterlijk zes weken na het tijdstip van de vergunningverlening.
 
@@ -200,7 +226,7 @@ Een aanvrager beschikt over de vereiste toestemming van het Commissariaat voor d
 
 4. De minister kan een geldschuld jegens de aanvrager die verband houdt met een bij of krachtens [hoofdstuk 3 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3) genomen besluit, verrekenen met een vordering op grond van het eerste of het tweede lid.
 
-#### Artikel 13. Afwikkeling zekerheidstelling
+##### Artikel 13. Afwikkeling zekerheidstelling
 
 1. Indien de aanvraag voor een vergunning wordt toegewezen, vergoedt de minister de rente over de voor die vergunning gestorte waarborgsom vanaf de dag waarop hij de waarborgsom heeft ontvangen op het bankrekeningnummer, genoemd in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033308&paragraaf=2&artikel=4&z=2013-04-24&g=2013-04-24), tot en met de dag waarop de vergunning wordt verleend.
 
@@ -210,7 +236,7 @@ Een aanvrager beschikt over de vereiste toestemming van het Commissariaat voor d
 
 #### Paragraaf 3. Vergunningen voor frequentieruimte in band III
 
-#### Artikel 14. Beschikbare vergunningen
+##### Artikel 14. Beschikbare vergunningen
 
 1. Ingevolge het [bekendmakingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033305) zijn de volgende vergunningen beschikbaar om te worden verleend:
 
@@ -220,13 +246,13 @@ Een aanvrager beschikt over de vereiste toestemming van het Commissariaat voor d
 
 2. Voor de beschikbaarheid van vergunning allotment 7A gelden de beperkingen die voortvloeien uit [artikel 3, tiende en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033308&paragraaf=2&artikel=3&z=2013-04-24&g=2013-04-24).
 
-#### Artikel 15. Aanvraag
+##### Artikel 15. Aanvraag
 
 1. Een aanvraag voor vergunning kavel 11 C of vergunning allotment 7A wordt ingediend met overeenkomstige toepassing van [artikel 3, eerste lid, derde tot en met vijfde lid en zevende tot en met negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033308&paragraaf=2&artikel=3&z=2013-04-24&g=2013-04-24).
 
 2. De [artikelen 6 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0033308&paragraaf=2&artikel=6&z=2013-04-24&g=2013-04-24) zijn van overeenkomstige toepassing met dien verstande dat ook in het geval dat bij de aanvraag voor een vergunning voor digitale radio-omroep niet is voldaan aan [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033308&paragraaf=2&artikel=3&z=2013-04-24&g=2013-04-24), de aanvrager in de gelegenheid wordt gesteld het verzuim te herstellen overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033308&paragraaf=2&artikel=6&z=2013-04-24&g=2013-04-24).
 
-#### Artikel 16. Gekoppelde verlening
+##### Artikel 16. Gekoppelde verlening
 
 1. Indien vergunning kavel A7 wordt verleend aan een aanvrager, verleent de minister gelijktijdig aan deze aanvrager vergunning kavel 11C.
 
@@ -234,19 +260,19 @@ Een aanvrager beschikt over de vereiste toestemming van het Commissariaat voor d
 
 #### Paragraaf 4. Slotbepalingen
 
-#### Artikel 17. Wijziging [Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014740)
+##### Artikel 17. Wijziging [Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014740)
 
 Wijzigt de Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003.
 
-#### Artikel 18
+##### Artikel 18
 
 De [Beleidsregel optimalisatie commerciële FM-vergunningen](https://wetten.overheid.nl/jci1.3:c:BWBR0019813) en de [Beleidsregel sancties frequentiegebruik radio-omroep](https://wetten.overheid.nl/jci1.3:c:BWBR0023623) worden ingetrokken.
 
-#### Artikel 19. Inwerkingtreding
+##### Artikel 19. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 20. Citeertitel
+##### Artikel 20. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling aanvraag- en verdeelprocedure vergunningen kavels A7, B38 en C08 met bijbehorende vergunningen voor digitale radio-omroep.
 

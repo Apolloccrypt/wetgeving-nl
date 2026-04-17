@@ -1,13 +1,35 @@
 ---
 title: "Beleidsregel boetetoemetingsbeleid BFT 2025"
 identifier: "BWBR0051284"
-categorie: "Strafrecht"
-publicatiedatum: 2025-07-18
-laatste_update: 2025-07-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051284"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-07-18"
+last_updated: "2025-07-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051284"
+soort: "zbo"
+stam_id: "17478443"
+version_id: "30825312"
+internal_id: "C44175591"
+label_id: "17380664"
+dtd_version: "2.0"
+original_entry_into_force: "2025-07-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051284/2025-07-18/0"
+intitule_bron: "Stcrt.2025-24508"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2025-07-18"
+intitule_in_force: "2025-07-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-24508"
+original_published_date: "2025-07-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-24508"
+entry_into_force_date: "2025-07-18"
+jci_1_3: "jci1.3:c:BWBR0051284&z=2025-07-18&g=2025-07-18"
+jci_1_0: "1.0:c:BWBR0051284&g=2025-07-18"
+citeertitel_status: "redactioneel"
+entry_into_force: "2025-07-18"
 ---
-
 # Beleidsregel boetetoemetingsbeleid BFT 2025
 
 Het BFT, Autoriteit voor financieel-juridisch toezicht, heeft besloten om het boetetoemetingsbeleid te actualiseren en hierbij vast te stellen met betrekking tot het bepalen van de hoogte van bestuurlijke boetes die worden opgelegd wegens overtreding van bepalingen uit de [Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282) (Wwft).

@@ -1,13 +1,38 @@
 ---
 title: "Verdrag inzake de erkenning van getuigschriften betreffende hoger onderwijs in de Europese regio"
 identifier: "BWBV0002946"
-categorie: "Onderwijs"
-publicatiedatum: 2008-05-01
-laatste_update: 1997-04-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002946"
+country: "nl"
+rank: "verdrag"
+publication_date: "2008-05-01"
+last_updated: "1997-04-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002946"
+soort: "verdrag"
+stam_id: "10003264563"
+version_id: "10003286482"
+internal_id: "C10006990651"
+label_id: "10003250864"
+dtd_version: "2.0"
+original_entry_into_force: "2008-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002946/2008-05-01/0"
+intitule_bron: "Trb.2002-113"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-03-19"
+intitule_published: "2002-07-01"
+intitule_in_force: "2008-04-21"
+intitule_status: "goed"
+original_publication: "Trb.2002-113"
+original_signed_date: "2008-03-19"
+original_published_date: "2002-07-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2002-113"
+entry_into_force_date: "2008-05-01"
+jci_1_3: "jci1.3:c:BWBV0002946&z=2008-05-01&g=2008-05-01"
+jci_1_0: "1.0:c:BWBV0002946&g=2008-05-01"
+citeertitel_status: "redactioneel"
+signed_date: "2008-03-19"
+entry_into_force: "2008-05-01"
 ---
-
 # Verdrag inzake de erkenning van getuigschriften betreffende hoger onderwijs in de Europese regio
 
 De Partijen bij dit Verdrag,
@@ -56,7 +81,7 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. DEFINITIES
 
-#### Artikel I
+##### Artikel I
 
 Voor de toepassing van dit Verdrag wordt onder de volgende begrippen het volgende verstaan:
 
@@ -94,7 +119,7 @@ Voor de toepassing van dit Verdrag wordt onder de volgende begrippen het volgend
 
 ### HOOFDSTUK II. BEVOEGDHEDEN VAN DE AUTORITEITEN
 
-#### Artikel II.1
+##### Artikel II.1
 
 1. Wanneer de centrale autoriteiten van een Partij bevoegd zijn tot het nemen van beslissingen op het gebied van erkenning, is deze Partij onmiddellijk gebonden door de bepalingen van dit Verdrag en treft zij de noodzakelijke maatregelen ten einde de uitvoering van de bepalingen ervan op haar grondgebied te verzekeren.
 
@@ -104,27 +129,27 @@ Wanneer de bevoegdheid tot het nemen van beslissingen op het gebied van erkennin
 
 3. Het bepaalde in het eerste en tweede lid van dit artikel zijnmutatis mutandis van toepassing op de verplichtingen van de Partijen uit hoofde van verdere artikelen van dit Verdrag.**mutatis mutandis** van toepassing op de verplichtingen van de Partijen uit hoofde van verdere artikelen van dit Verdrag.
 
-#### Artikel II.2
+##### Artikel II.2
 
 Ten tijde van de ondertekening of bij de nederlegging van zijn of haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, of op een tijdstip daarna, deelt iedere Staat, Vaticaanstad of de Europese Gemeenschap één der depositarissen van dit Verdrag mede welke autoriteiten bevoegd zijn tot het nemen van de verschillende categorieën beslissingen op het gebied van erkenning.
 
-#### Artikel II.3
+##### Artikel II.3
 
 Niets in dit Verdrag kan afbreuk doen aan bepalingen van een gunstigere strekking inzake de erkenning van kwalificaties, afgegeven op het grondgebied van één der Partijen, in of voortvloeiende uit een bestaand of toekomstig verdrag waarbij een Partij bij dit Verdrag mogelijkerwijs partij is of wordt.
 
 ### HOOFDSTUK III. GRONDBEGINSELEN BETREFFENDE DE BEOORDELING VAN KWALIFICATIES
 
-#### Artikel III.1
+##### Artikel III.1
 
 1. Bezitters van kwalificaties afgegeven op het grondgebied van één der Partijen hebben, op verzoek ingediend bij de juiste instantie, passende toegang tot een beoordeling van deze kwalificaties.
 
 2. Ten aanzien van de aanvrager mag geen enkel onderscheid worden gemaakt, op welke grond ook, zoals geslacht, ras, kleur, handicap, taal, godsdienst, politieke of andere mening, nationale, etnische of maatschappelijke afkomst, het behoren tot een nationale minderheid, vermogen, geboorte of andere status, of op grond van enige andere omstandigheid die geen betrekking heeft op de waarde van de kwalificatie waarvoor erkenning wordt gevraagd. Ten einde dit recht te waarborgen, verplicht iedere Partij zich ertoe, passende maatregelen te treffen dat een aanvraag voor de erkenning van kwalificaties uitsluitend wordt beoordeeld op grond van verworven kennis en vaardigheden.
 
-#### Artikel III.2
+##### Artikel III.2
 
 Iedere Partij zorgt ervoor dat de procedures en criteria die bij de beoordeling en erkenning van kwalificaties worden toegepast, doorzichtig, samenhangend en betrouwbaar zijn.
 
-#### Artikel III.3
+##### Artikel III.3
 
 1. Beslissingen op het gebied van erkenning worden genomen op grond van relevante informatie over de kwalificaties waarvoor erkenning wordt gevraagd.
 
@@ -136,63 +161,63 @@ Iedere Partij zorgt ervoor dat de procedures en criteria die bij de beoordeling 
 
 5. De verantwoordelijkheid, aan te tonen dat een verzoek niet voldoet aan de ter zake doende eisen, ligt bij de instantie die de beoordeling uitvoert.
 
-#### Artikel III.4
+##### Artikel III.4
 
 Teneinde de erkenning van kwalificaties te vergemakkelijken, zorgt iedere Partij ervoor dat juiste en duidelijke informatie wordt verstrekt over haar onderwijsstelsel.
 
-#### Artikel III.5
+##### Artikel III.5
 
 Beslissingen inzake erkenning dienen te worden genomen binnen een redelijke termijn welke vooraf door de bevoegde erkenningsautoriteit is aangegeven en wordt gerekend vanaf het tijdstip dat alle noodzakelijke informatie omtrent het verzoek is verstrekt. Wanneer geen erkenning wordt verleend, worden de redenen van de weigering van de erkenning aangegeven en wordt informatie verstrekt over mogelijke stappen die de aanvrager zou kunnen nemen ten einde op een later tijdstip alsnog erkenning te verkrijgen. Wanneer geen erkenning wordt verleend of wanneer geen beslissing wordt genomen, heeft de aanvrager de mogelijkheid, binnen een redelijke termijn beroep aan te tekenen.
 
 ### HOOFDSTUK IV. ERKENNING VAN KWALIFICATIES DIE TOEGANG GEVEN TOT HOGER ONDERWIJS
 
-#### Artikel IV.1
+##### Artikel IV.1
 
 Met het doel toegang te verkrijgen tot programma's welke deel uitmaken van haar stelsel van hoger onderwijs, erkent iedere Partij de door de andere Partijen afgegeven kwalificaties die voldoen aan de algemene eisen betreffende de toegang tot hoger onderwijs op het grondgebied van die Partijen, tenzij een aanzienlijk verschil kan worden aangetoond tussen de algemene eisen betreffende de toegang op het grondgebied van de Partij waar de kwalificatie werd behaald en die op het grondgebied van de Partij waar erkenning van de kwalificatie wordt gevraagd.
 
-#### Artikel IV.2
+##### Artikel IV.2
 
 In het andere geval is het voldoende als een Partij de bezitter van een kwalificatie dat werd verleend op het grondgebied van één der andere Partijen, op verzoek van de bezitter in staat stelt een beoordeling van die kwalificatie te verkrijgen; in dit geval is**mutatis mutandis** het bepaalde in artikel IV.1 van toepassing.
 
-#### Artikel IV.3
+##### Artikel IV.3
 
 Wanneer een kwalificatie slechts toegang geeft tot specifieke typen instellingen of programma's op het gebied van hoger onderwijs op het grondgebied van de Partij waar de kwalificatie werd behaald, verleent iedere andere Partij aan de bezitters van zodanige kwalificaties toegang tot vergelijkbare specifieke programma's aan instellingen die deel uitmaken van haar stelsel van hoger onderwijs, tenzij een aanzienlijk verschil kan worden aangetoond tussen de toegangseisen op het grondgebied van de Partij waar de kwalificatie werd behaald en die op het grondgebied van de Partij waar erkenning van de kwalificatie wordt gevraagd.
 
-#### Artikel IV.4
+##### Artikel IV.4
 
 Wanneer de toelating tot specifieke programma's op het gebied van hoger onderwijs afhankelijk is van de vervulling van specifieke voorwaarden in aanvulling op de algemene toegangseisen, kunnen de bevoegde autoriteiten van de betrokken Partij de aanvullende eisen op gelijke wijze opleggen aan bezitters van op het grondgebied van de andere Partijen behaalde kwalificaties, of beoordelen of de aanvragers met op het grondgebied van de andere Partijen behaalde kwalificaties voldoen aan gelijkwaardige eisen.
 
-#### Artikel IV.5
+##### Artikel IV.5
 
 Wanneer einddiploma's van middelbaar onderwijs die op het grondgebied van de Partij waar zij zijn behaald, slechts in combinatie met aanvullende toelatingsexamens toegang geven tot hoger onderwijs, kunnen de andere Partijen de toegang afhankelijk maken van deze eisen of een alternatief aanbieden ten einde binnen hun eigen onderwijsstelsel te voldoen aan deze aanvullende eisen. Ten tijde van de ondertekening of bij de nederlegging van zijn of haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, of op enig tijdstip daarna, kan iedere Staat, Vaticaanstad of de Europese Gemeenschap één der depositarissen ervan in kennis stellen dat hij of zij gebruik maakt van de bepalingen van dit artikel, waarbij hij of zij aangeeft ten opzichte van welke Partijen hij of zij voornemens is dit artikel toe te passen, alsmede de redenen hiervoor.
 
-#### Artikel IV.6
+##### Artikel IV.6
 
 Onverminderd het bepaalde in de artikelen IV.1, IV.2, IV.3, IV.4 en IV.5 kan toelating tot een bepaalde instelling voor hoger onderwijs of tot een gegeven programma binnen een zodanige instelling beperkt of selectief zijn. In de gevallen waarin toelating tot een instelling en/of programma op het gebied van hoger onderwijs selectief is, zouden toelatingsprocedures dienen te worden opgesteld met de bedoeling ervoor te zorgen dat buitenlandse kwalificaties worden beoordeeld volgens de beginselen van billijkheid en non-discriminatie, beschreven in hoofdstuk III.
 
-#### Artikel IV.7
+##### Artikel IV.7
 
 Onverminderd het bepaalde in de artikelen IV.1, IV.2, IV.3, IV.4 en IV.5 kan toelating tot een bepaalde instelling op het gebied van hoger onderwijs afhankelijk worden gesteld van een door de aanvrager af te leggen proeve van voldoende kennis van de voor het onderwijs aan de betrokken instelling gebruikte voertaal of voertalen, of in andere aangegeven talen.
 
-#### Artikel IV.8
+##### Artikel IV.8
 
 Op het grondgebied van Partijen waar toegang tot hoger onderwijs kan worden verkregen op grond van niet-traditionele kwalificaties, worden vergelijkbare kwalificaties die zijn behaald op het grondgebied van andere Partijen op dezelfde wijze beoordeeld als niet-traditionele kwalificaties die zijn behaald op het grondgebied van de Partij waar erkenning wordt gevraagd.
 
-#### Artikel IV.9
+##### Artikel IV.9
 
 Ten behoeve van toelating tot programma's op het gebied van hoger onderwijs kan iedere Partij de erkenning van kwalificaties afgegeven door buitenlandse onderwijsinstellingen die op haar grondgebied werkzaam zijn, afhankelijk stellen van specifieke eisen van de nationale wetgeving of van specifieke overeenkomsten die zijn aangegaan met de Partij van herkomst van deze instellingen.
 
 ### HOOFDSTUK V. ERKENNING VAN TIJDVAKKEN VAN STUDIE
 
-#### Artikel V.1
+##### Artikel V.1
 
 Iedere Partij erkent tijdvakken van studie die zijn voltooid in het kader van een programma op het gebied van hoger onderwijs op het grondgebied van een andere Partij. Deze erkenning omvat zodanige tijdvakken van studie gericht op de voltooiing van een programma op het gebied van hoger onderwijs op het grondgebied van de Partij waar erkenning wordt gevraagd, tenzij een aanzienlijk verschil kan worden aangetoond tussen de tijdvakken van studie voltooid op het grondgebied van een andere Partij en het deel van het programma op het gebied van hoger onderwijs waarvoor deze in de plaats zouden komen op het grondgebied van de Partij waar erkenning wordt gevraagd.
 
-#### Artikel V.2
+##### Artikel V.2
 
 In het andere geval is het voldoende als een Partij een persoon die in het kader van een programma op het gebied van hoger onderwijs een studieperiode op het grondgebied van een andere Partij heeft voltooid, op verzoek van betrokkene in staat stelt, een beoordeling te verkrijgen van die studieperiode; in dit geval is **mutatis mutandis** het bepaalde in artikel V.1 van toepassing.
 
-#### Artikel V.3
+##### Artikel V.3
 
 In het bijzonder geldt dat iedere Partij de erkenning van tijdvakken van studie vergemakkelijkt wanneer:
 
@@ -202,15 +227,15 @@ In het bijzonder geldt dat iedere Partij de erkenning van tijdvakken van studie 
 
 ### HOOFDSTUK VI. ERKENNING VAN KWALIFICATIES VOOR HOGER ONDERWIJS
 
-#### Artikel VI.1
+##### Artikel VI.1
 
 Voor zover de beslissing betreffende een erkenning is gebaseerd op de kennis en vaardigheden die blijken uit de kwalificaties voor hoger onderwijs, erkent iedere Partij de kwalificaties voor hoger onderwijs die zijn afgegeven op het grondgebied van een andere Partij, tenzij een aanzienlijk verschil kan worden aangetoond tussen de kwalificatie waarvoor erkenning wordt gevraagd en de overeenkomstige kwalificatie op het grondgebied van de Partij waar erkenning wordt gevraagd.
 
-#### Artikel VI.2
+##### Artikel VI.2
 
 In het andere geval is het voldoende als een Partij de bezitter van een kwalificatie voor hoger onderwijs die werd verleend op het grondgebied van één der andere Partijen, op verzoek van de bezitter in staat stelt, een beoordeling van die kwalificatie te verkrijgen; in dit geval is **mutatis mutandis** het bepaalde in artikel VI.1 van toepassing.
 
-#### Artikel VI.3
+##### Artikel VI.3
 
 Erkenning op het grondgebied van een Partij van een op het grondgebied van een andere Partij afgegeven kwalificatie voor hoger onderwijs heeft één der volgende consequenties, of beide:
 
@@ -218,7 +243,7 @@ Erkenning op het grondgebied van een Partij van een op het grondgebied van een a
 
 - b. het gebruik van een academische titel, met inachtneming van de wet- en regelgeving van de Partij of van een gebied dat valt onder het rechtsgebied van de Partij waar erkenning wordt gevraagd. Bovendien kan erkenning de toegang tot de arbeidsmarkt vergemakkelijken, met inachtneming van de wet- en regelgeving van de Partij of van het gebied dat valt onder het rechtsgebied van de Partij waar erkenning wordt gevraagd.
 
-#### Artikel VI.4
+##### Artikel VI.4
 
 Een beoordeling door een Partij van een kwalificatie voor hoger onderwijs dat is afgegeven door een andere Partij, kan de vorm hebben van:
 
@@ -228,19 +253,19 @@ Een beoordeling door een Partij van een kwalificatie voor hoger onderwijs dat is
 
 - c. advies aan enig andere bevoegde erkenningsautoriteit.
 
-#### Artikel VI.5
+##### Artikel VI.5
 
 Iedere Partij kan de erkenning van kwalificaties voor hoger onderwijs die zijn afgegeven door buitenlandse onderwijsinstellingen die werkzaam zijn op haar grondgebied, afhankelijk stellen van specifieke eisen van de nationale wetgeving of van specifieke overeenkomsten die zijn aangegaan met de Partij van herkomst van deze instellingen.
 
 ### HOOFDSTUK VII. ERKENNING VAN KWALIFICATIES IN HET BEZIT VAN VLUCHTELINGEN, ONTHEEMDEN EN PERSONEN IN EEN SITUATIE VERGELIJKBAAR MET DIE VAN VLUCHTELINGEN
 
-#### Artikel VII
+##### Artikel VII
 
 Iedere Partij neemt alle praktisch uitvoerbare en redelijke maatregelen in het kader van haar onderwijsstelsel en in overeenstemming met haar constitutionele, wettelijke en bestuursrechtelijke bepalingen ten einde procedures op te stellen die zijn gericht op een billijke en doeltreffende beoordeling van de vraag of vluchtelingen, ontheemden en personen die in een situatie vergelijkbaar met die van vluchtelingen verkeren, voldoen aan de ter zake doende eisen gesteld voor toegang tot hoger onderwijs, tot verdere programma's voor hoger onderwijs of tot de arbeidsmarkt, zelfs in de gevallen waarin de op het grondgebied van één der Partijen verkregen kwalificaties niet door documenten kunnen worden aangetoond.
 
 ### HOOFDSTUK VIII. INFORMATIE OVER DE BEOORDELING VAN INSTELLINGEN EN PROGRAMMA'S VOOR HOGER ONDERWIJS
 
-#### Artikel VIII.1
+##### Artikel VIII.1
 
 Iedere Partij verstrekt adequate informatie over elke instelling die deel uitmaakt van haar stelsel van hoger onderwijs en over elk programma dat door deze instellingen wordt gegeven, ten einde de bevoegde autoriteiten van de andere Partijen in staat te stellen, na te gaan of de kwaliteit van de door deze instellingen afgegeven kwalificaties erkenning door de Partij waar erkenning wordt gevraagd, rechtvaardigt. Het gaat hierbij om de hieronder uiteengezette informatie:
 
@@ -248,7 +273,7 @@ Iedere Partij verstrekt adequate informatie over elke instelling die deel uitmaa
 
 - b. voor Partijen die geen stelsel van officiële beoordeling van instellingen en programma's voor hoger onderwijs hebben opgezet: informatie over de erkenning van de onderscheiden kwalificaties die worden behaald bij iedere instelling voor hoger onderwijs, of binnen elk programma voor hoger onderwijs dat deel uitmaakt van hun stelsel van hoger onderwijs.
 
-#### Artikel VIII.2
+##### Artikel VIII.2
 
 Iedere Partij treft passende maatregelen voor het opstellen, bijhouden en verschaffen van:
 
@@ -262,11 +287,11 @@ Iedere Partij treft passende maatregelen voor het opstellen, bijhouden en versch
 
 ### HOOFDSTUK IX. INFORMATIE OVER ZAKEN BETREFFENDE DE ERKENNING
 
-#### Artikel IX.1
+##### Artikel IX.1
 
 Teneinde de erkenning van kwalificaties voor hoger onderwijs te vergemakkelijken, verplichten de Partijen zich ertoe, doorzichtige stelsels op te zetten voor een volledige beschrijving van de behaalde kwalificaties.
 
-#### Artikel IX.2
+##### Artikel IX.2
 
 1. Vanuit de erkenning dat ter zake doende, juiste en actuele informatie noodzakelijk is, vestigt iedere Partij een nationaal informatiecentrum of houdt dit in stand en stelt zij één der depositarissen in kennis van de vestiging, alsmede van wijzigingen die deze betreffen.
 
@@ -280,13 +305,13 @@ Teneinde de erkenning van kwalificaties voor hoger onderwijs te vergemakkelijken
 
 3. Elk nationaal informatiecentrum beschikt over de noodzakelijke middelen die het in staat stellen zijn functies te vervullen.
 
-#### Artikel IX.3
+##### Artikel IX.3
 
 Door middel van de nationale informatiecentra of anderszins stimuleren de Partijen dat de instellingen voor hoger onderwijs van de Partijen het "diploma-supplement" van de UNESCO en de Raad van Europa of elk ander vergelijkbaar document toepassen.
 
 ### HOOFDSTUK X. UITVOERINGSMECHANISMEN
 
-#### Artikel X.1
+##### Artikel X.1
 
 De volgende organen houden toezicht op, bevorderen en vergemakkelijken de uitvoering van het Verdrag:
 
@@ -294,7 +319,7 @@ De volgende organen houden toezicht op, bevorderen en vergemakkelijken de uitvoe
 
 - b. het Europese Netwerk van nationale informatiecentra voor academische mobiliteit en erkenning (het ENIC-Netwerk), opgericht bij besluit van het Comité van Ministers van de Raad van Europa op 9 juni 1994 en het Regionale Comité voor Europa van de UNESCO op 18 juni 1994.
 
-#### Artikel X.2
+##### Artikel X.2
 
 1. Hierbij wordt het Comité van het Verdrag inzake de erkenning van kwalificaties van instellingen voor hoger onderwijs in de Europese Regio (hierna te noemen „het Comité") ingesteld. Het is samengesteld uit één afgevaardigde van elke Partij.
 
@@ -316,7 +341,7 @@ De volgende organen houden toezicht op, bevorderen en vergemakkelijken de uitvoe
 
 10. Het Secretariaat van het Comité wordt opgedragen aan de Secretaris-Generaal van de Raad van Europa en de Directeur-Generaal van de UNESCO gezamenlijk.
 
-#### Artikel X.3
+##### Artikel X.3
 
 1. Iedere Partij benoemt het nationale informatiecentrum dat is gevestigd of wordt in stand gehouden volgens artikel IX.2. als lid van het Europese Netwerk van nationale informatiecentra voor academische mobiliteit en erkenning (het ENIC-Netwerk). Indien op het grondgebied van een Partij meer dan één nationaal informatiecentrum volgens artikel IX.2 is gevestigd of wordt in stand gehouden, zijn deze alle lid van het Netwerk, maar de desbetreffende nationale informatiecentra in kwestie beschikken slechts over één stem.
 
@@ -328,7 +353,7 @@ De volgende organen houden toezicht op, bevorderen en vergemakkelijken de uitvoe
 
 ### HOOFDSTUK XI. SLOTBEPALINGEN
 
-#### Artikel XI.1
+##### Artikel XI.1
 
 1. Dit Verdrag is opengesteld voor ondertekening door:
 
@@ -350,11 +375,11 @@ die zijn uitgenodigd de diplomatieke conferentie, belast met de aanneming van di
 
 3. De ondertekening vindt plaats bij één van de depositarissen. De akten van bekrachtiging, aanvaarding, goedkeuring of toetreding dienen te worden nedergelegd bij één van de depositarissen.
 
-#### Artikel XI.2
+##### Artikel XI.2
 
 Dit Verdrag treedt in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van een maand na de datum waarop vijf Staten, waaronder ten minste drie Lidstaten van de Raad van Europa, en/of van de Europese Regio van de UNESCO, het feit dat zij ermee instemmen door het Verdrag te worden gebonden, tot uiting hebben gebracht. Ten aanzien van iedere andere Staat treedt het in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van een maand na de datum waarop hij het feit dat hij ermee instemt door het Verdrag te worden gebonden, tot uiting heeft gebracht.
 
-#### Artikel XI.3
+##### Artikel XI.3
 
 1. Na de inwerkingtreding van dit Verdrag kan iedere Staat anders dan die welke vallen binnen één van de in artikel XI.1 genoemde categorieën, verzoeken om toetreding tot dit Verdrag. Een verzoek hiertoe moet worden gericht aan één van de depositarissen, die dit ten minste drie maanden voor de bijeenkomst van het Comité voor het Verdrag inzake de erkenning van kwalificaties van instellingen voor hoger onderwijs in de Europese Regio doet toekomen aan de Verdragsluitende Staten. De depositaris stelt tevens het Comité van Ministers van de Raad van Europa en de Uitvoerende Raad van de UNESCO in kennis.
 
@@ -364,7 +389,7 @@ Dit Verdrag treedt in werking op de eerste dag van de maand die volgt op het ver
 
 4. Ten aanzien van een toetredende Staat of de Europese Gemeenschap treedt het Verdrag in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van een maand na de nederlegging van de akte van toetreding bij één van de depositarissen.
 
-#### Artikel XI.4
+##### Artikel XI.4
 
 1. De Partijen bij dit Verdrag die tegelijkertijd partij zijn bij één of meer van de volgende Verdragen:
 
@@ -386,7 +411,7 @@ Dit Verdrag treedt in werking op de eerste dag van de maand die volgt op het ver
 
 2. De Partijen bij dit Verdrag verplichten zich ertoe geen partij te worden bij één van de in het eerste lid genoemde verdragen bij welke zij nog geen partij zijn, met uitzondering van het Internationale Verdrag betreffende de erkenning van studies aan, en diploma's en graden van hoger onderwijs in de Arabische en Europese Staten die grenzen aan de Middellandse Zee.
 
-#### Artikel XI.5
+##### Artikel XI.5
 
 1. Iedere Staat kan ten tijde van de ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, het grondgebied of de grondgebieden aanwijzen waarop dit Verdrag van toepassing is.
 
@@ -394,7 +419,7 @@ Dit Verdrag treedt in werking op de eerste dag van de maand die volgt op het ver
 
 3. Iedere krachtens de twee voorgaande leden afgelegde verklaring kan ten aanzien van elk in die verklaring genoemd grondgebied worden ingetrokken door middel van een aan één van de depositarissen gerichte kennisgeving. De intrekking wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van een maand na de datum van ontvangst van deze kennisgeving door de depositaris.
 
-#### Artikel XI.6
+##### Artikel XI.6
 
 1. Iedere Partij kan dit Verdrag te allen tijde opzeggen door middel van een aan één van de depositarissen gerichte kennisgeving.
 
@@ -402,7 +427,7 @@ Dit Verdrag treedt in werking op de eerste dag van de maand die volgt op het ver
 
 3. Beëindiging van dit Verdrag of opschorting van de toepassing ervan als gevolg van het feit dat een Partij een bepaling heeft geschonden die van wezenlijk belang is voor de verwezenlijking van het doel of oogmerk van dit Verdrag, geschiedt in overeenstemming met het internationale recht.
 
-#### Artikel XI.7
+##### Artikel XI.7
 
 1. Iedere Staat, Vaticaanstad of de Europese Gemeenschap kan ten tijde van de ondertekening of bij de nederlegging van zijn of haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, verklaren dat hij of zij zich het recht voorbehoudt één of meer van de volgende artikelen van dit Verdrag geheel of gedeeltelijk niet toe te passen:
 
@@ -422,7 +447,7 @@ Andere voorbehouden kunnen niet worden gemaakt.
 
 3. Een Partij die een voorbehoud heeft gemaakt ten aanzien van een bepaling van dit Verdrag, kan geen toepassing eisen van die bepaling door een andere Partij; indien haar voorbehoud gedeeltelijk of voorwaardelijk is, kan zij echter wel toepassing eisen van die bepaling voor zover zij deze zelf heeft aanvaard.
 
-#### Artikel XI.8
+##### Artikel XI.8
 
 1. Het Comité voor het Verdrag inzake de erkenning van kwalificaties van instellingen voor hoger onderwijs in de Europese Regio kan ontwerp-wijzigingen van dit Verdrag aannemen met een tweederde meerderheid van de Partijen. Iedere ontwerp-wijziging die op deze wijze wordt aangenomen, wordt opgenomen in een Protocol bij dit Verdrag. Het Protocol geeft de modaliteiten aan voor de inwerkingtreding ervan, waarvoor in elk geval is vereist dat de Partijen het feit dat zij ermee instemmen hierdoor te worden gebonden, tot uiting hebben gebracht.
 
@@ -430,7 +455,7 @@ Andere voorbehouden kunnen niet worden gemaakt.
 
 3. Iedere ontwerp-wijziging dient ter kennis van één van de depositarissen te worden gebracht, die dit ten minste drie maanden voor de vergadering van het Comité doet toekomen aan de Partijen. De depositaris stelt tevens het Comité van Ministers van de Raad van Europa en de Uitvoerende Raad van de UNESCO in kennis.
 
-#### Artikel XI.9
+##### Artikel XI.9
 
 1. De Secretaris-Generaal van de Raad van Europa en de Directeur-Generaal van de Organisatie van de Verenigde Naties voor Onderwijs, Wetenschap en Cultuur zijn de depositarissen van dit Verdrag.
 

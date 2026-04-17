@@ -1,14 +1,37 @@
 ---
-title: "Wijzigingswet Wet op de Open Universiteit"
+title: "Wet van 15 april 1992, tot wijziging van de Wet op de Open Universiteit met betrekking tot de bestuursorganisatie"
 identifier: "BWBR0005485"
-categorie: "Onderwijs"
-publicatiedatum: 1992-06-15
-laatste_update: 1992-06-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005485"
+country: "nl"
+rank: "wet"
+publication_date: "1992-06-15"
+last_updated: "1992-06-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005485"
+soort: "wet"
+stam_id: "540073"
+version_id: "791412"
+internal_id: "C791411"
+label_id: "524214"
+dtd_version: "2.0"
+original_entry_into_force: "1992-06-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005485/1992-06-15/0"
+intitule_bron: "Stb.1992-223"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-04-15"
+intitule_status: "goed"
+original_publication: "Stb.1992-223"
+original_signed_date: "1992-04-15"
+original_effect: "nieuwe-regeling"
+original_dossier: "21862"
+entry_into_force_date: "1992-06-15"
+jci_1_3: "jci1.3:c:BWBR0005485&z=1992-06-15&g=1992-06-15"
+jci_1_0: "1.0:c:BWBR0005485&g=1992-06-15"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet Wet op de Open Universiteit"
+signed_date: "1992-04-15"
+entry_into_force: "1992-06-15"
 ---
-
-# Wijzigingswet Wet op de Open Universiteit
+# Wet van 15 april 1992, tot wijziging van de Wet op de Open Universiteit met betrekking tot de bestuursorganisatie
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,15 +39,15 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is dat enkele knelpunte
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel II
+##### Artikel II
 
 Besluiten genomen door organen die daartoe ingevolge de Wet op de Open Universiteit zoals deze luidde voor inwerkingtreding van deze wet bevoegd waren, gelden als besluiten genomen door organen die daartoe ingevolge de Wet op de Open Universiteit, zoals gewijzigd door deze wet bevoegd zijn.
 
-#### Artikel III
+##### Artikel III
 
 1. Onze minister van Onderwijs en Wetenschappen draagt zorg dat binnen twee maanden na inwerkingtreding van deze wet een bestuursraad tot stand komt overeenkomstig de artikelen 22 en 23 van de Wet op de Open Universiteit. Totdat de nieuwe bestuursraad tot stand is gekomen treden de voorzitter en de door de Kroon benoemde leden van de bij inwerkingtreding van deze wet bestaande bestuursraad op als bestuursraad.
 
@@ -32,11 +55,11 @@ Besluiten genomen door organen die daartoe ingevolge de Wet op de Open Universit
 
 3. Totdat overeenkomstig het tweede lid het bestuursreglement tot stand is gekomen blijft het bestuursreglement dat voor inwerkingtreding van deze wet van kracht was voor zover nodig van toepassing.
 
-#### Artikel IV
+##### Artikel IV
 
 Binnen drie maanden nadat overeenkomstig [artikel III, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005485&artikel=III&z=1992-06-15&g=1992-06-15), het bestuursreglement tot stand is gekomen stelt het college van bestuur, bedoeld in artikel 21 van de Wet op de Open Universiteit, het beheersreglement, bedoeld in artikel 33 van de Wet op de Open Universiteit, vast. Indien binnen deze termijn het beheersreglement niet of niet volledig is vastgesteld, kan de bestuursraad het reglement of het ontbrekende gedeelte daarvan vaststellen.
 
-#### Artikel V
+##### Artikel V
 
 1. Het college van bestuur draagt zorg dat binnen zes maanden na inwerkingtreding van deze wet verkiezingen voor de personeelsraad, bedoeld in artikel 39 van de Wet op de Open Universiteit, plaatsvinden. Deze verkiezingen vinden voor de eerste keer plaats overeenkomstig de regels die in het bij inwerkingtreding van deze wet geldende medezeggenschapsreglement zijn neergelegd voor de verkiezing van de leden van de medezeggenschapsraad door en uit de categorie personeel en personen werkzaam ten behoeve van de Open Universiteit.
 
@@ -46,7 +69,7 @@ Binnen drie maanden nadat overeenkomstig [artikel III, tweede lid](https://wette
 
 4. Totdat overeenkomstig het derde lid een reglement voor de personeelsraad tot stand is gekomen blijft voor zover nodig het bij inwerkingtreding van deze wet geldende medezeggenschapsreglement van toepassing.
 
-#### Artikel VI
+##### Artikel VI
 
 1. Het college van bestuur draagt zorg dat binnen zes maanden na inwerkingtreding van deze wet verkiezingen voor de studentenraad, bedoeld in artikel 42, eerste lid, van de Wet op de Open Universiteit, plaatsvinden. Deze verkiezingen vinden voor de eerste keer plaats overeenkomstig de regels die in het bij inwerkingtreding van deze wet geldende medezeggenschapsreglement zijn neergelegd voor de verkiezing van de leden van de medezeggenschapsraad door en uit de categorie studenten.
 
@@ -56,7 +79,7 @@ Binnen drie maanden nadat overeenkomstig [artikel III, tweede lid](https://wette
 
 4. Totdat overeenkomstig het tweede lid een reglement voor de studentenraad tot stand is gekomen blijft voor zover nodig het bij inwerkingtreding van deze wet geldende medezeggenschapsreglement van overeenkomstige toepassing, met dien verstande dat besluiten ten aanzien waarvan de instemming van de medezeggenschapsraad is vereist worden aangemerkt als aangelegenheden ten aanzien waarvan de studentenraad in de gelegenheid wordt gesteld advies uit te brengen.
 
-#### Artikel VII
+##### Artikel VII
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 

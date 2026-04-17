@@ -1,18 +1,43 @@
 ---
 title: "Regeling erkenning leerbedrijven SBB"
 identifier: "BWBR0051839"
-categorie: "Overig"
-publicatiedatum: 2025-12-01
-laatste_update: 2025-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051839"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-12-01"
+last_updated: "2025-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051839"
+soort: "zbo"
+stam_id: "17616253"
+version_id: "31099592"
+internal_id: "C44519931"
+label_id: "17516644"
+dtd_version: "2.0"
+original_entry_into_force: "2025-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051839/2025-12-01/0"
+intitule_bron: "Stcrt.2025-40621"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-11-12"
+intitule_published: "2025-11-25"
+intitule_in_force: "2025-11-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-40621"
+original_signed_date: "2025-11-12"
+original_published_date: "2025-11-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-40621"
+entry_into_force_date: "2025-12-01"
+jci_1_3: "jci1.3:c:BWBR0051839&z=2025-12-01&g=2025-12-01"
+jci_1_0: "1.0:c:BWBR0051839&g=2025-12-01"
+citeertitel_status: "officieel"
+signed_date: "2025-11-12"
+entry_into_force: "2025-12-01"
 ---
-
 # Regeling erkenning leerbedrijven SBB
 
 Vastgesteld door het Algemeen Bestuur van SBB op 26 juni 2025 en conform [lid 6 van artikel 1.5.3 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.5.3) (WEB) goedgekeurd door de Minister van OCW op 12 november 2025.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -28,11 +53,11 @@ In deze regeling wordt verstaan onder:
 
 - 6. **Onderwijsinstelling:** school voor mbo, vmbo, pro of vso.
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 Uitsluitend bedrijven en organisaties in binnen- en buitenland die voldoen aan de bepalingen in deze regeling en die door SBB als zodanig zijn erkend, zijn bevoegd om op te treden als leerbedrijf1SBB kan de toetsing van buitenlandse bedrijven op de geschiktheid als leerbedrijf overlaten aan buitenlandse partnerorganisaties. Deze partnerorganisaties dienen te beschikken over een goede systematiek voor het erkennen van leerbedrijven en SBB kan aantonen dat deze systematiek dekkend is voor de wettelijke erkenningseisen..
 
-#### Artikel 3. Verzoek tot erkenning
+##### Artikel 3. Verzoek tot erkenning
 
 1. Met inachtneming van de bepalingen in deze regeling wordt een erkenning afgegeven op verzoek van het bedrijf of de organisatie die de beroepspraktijkvorming wil verzorgen. Onderwijsinstellingen, studenten of andere betrokkenen kunnen met instemming van het leerbedrijf een voordracht voor erkenning indienen.
 
@@ -40,7 +65,7 @@ Uitsluitend bedrijven en organisaties in binnen- en buitenland die voldoen aan d
 
 3. Een aanvraag wordt in behandeling genomen indien dit een eerste aanvraag betreft of indien er na ongunstige beoordeling van een eerdere aanvraag sprake is van nieuw gebleken feiten of veranderde omstandigheden. Wanneer er geen sprake is van nieuw gebleken feiten of omstandigheden dan wordt de herhaalde aanvraag afgewezen onder verwijzing naar het eerdere besluit.
 
-#### Artikel 4. Beoordeling van het verzoek
+##### Artikel 4. Beoordeling van het verzoek
 
 1. SBB verleent de erkenning indien naar haar oordeel aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0051839&artikel=5&z=2025-12-01&g=2025-12-01), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0051839&artikel=5a&z=2025-12-01&g=2025-12-01), [5b](https://wetten.overheid.nl/jci1.3:c:BWBR0051839&artikel=5b&z=2025-12-01&g=2025-12-01) of [5c](https://wetten.overheid.nl/jci1.3:c:BWBR0051839&artikel=5c&z=2025-12-01&g=2025-12-01) genoemde voorwaarden is voldaan.
 
@@ -48,7 +73,7 @@ Uitsluitend bedrijven en organisaties in binnen- en buitenland die voldoen aan d
 
 3. Aan de beoordeling van de aanvraag is het bedrijf of de organisatie verplicht zijn medewerking te verlenen.
 
-#### Artikel 5. Voorwaarden voor erkenning
+##### Artikel 5. Voorwaarden voor erkenning
 
 Het bedrijf of de organisatie wordt geacht:
 
@@ -62,7 +87,7 @@ Het bedrijf of de organisatie wordt geacht:
 
 - 5. akkoord te gaan met de vermelding van de bedrijfs- en contactgegevens in het openbaar register leerbedrijven. Er kan sprake zijn van een onderbouwd verzoek tot uitzondering van vermelding in het openbaar register in het kader van de veiligheid van medewerkers van het leerbedrijf en/of de student. Hierbij worden de adresgegevens niet vermeld. De beoordeling om deze uitzondering toe te passen ligt bij SBB. De eisen die aan een leerplaats en aan de begeleiding worden gesteld, kunnen afhankelijk zijn van de bijzondere eisen per kwalificatie waarvoor de erkenning wordt verleend ([bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051839&bijlage=2.2&z=2025-12-01&g=2025-12-01)).
 
-#### Artikel 5a. Aanvullende voorwaarden collectieve leerbedrijven
+##### Artikel 5a. Aanvullende voorwaarden collectieve leerbedrijven
 
 1. Een collectief leerbedrijf is een samenwerking in het kader van opleiden van individuele leerbedrijven.
 
@@ -74,7 +99,7 @@ Het bedrijf of de organisatie wordt geacht:
 
 5. De leerbedrijven die gebruik maken van een collectief leerbedrijf hebben in alle gevallen de status van erkend leerbedrijf op basis van de regeling erkenning leerbedrijven.
 
-#### Artikel 5b. Aanvullende voorwaarden vmbo
+##### Artikel 5b. Aanvullende voorwaarden vmbo
 
 1. Een erkend leerbedrijf voor het vmbo moet voldoen aan de voorwaarden voor erkenning als leerbedrijf zoals vermeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0051839&artikel=5&z=2025-12-01&g=2025-12-01) van de regeling erkenning leerbedrijven.
 
@@ -86,7 +111,7 @@ Het bedrijf of de organisatie wordt geacht:
 
 - c. het bedrijf of de organisatie is geschikt voor de betrokken leeftijdsgroep, onder meer waar het gaat om de ruimte om te leren of fouten te maken, en de praktijkopleider kan de vmbo-leerling zowel werkinhoudelijk als pedagogisch-didactisch begeleiden.
 
-#### Artikel 5c. Aanvullende voorwaarden pro/vso
+##### Artikel 5c. Aanvullende voorwaarden pro/vso
 
 1. Een erkend leerbedrijf voor het pro en/of vso moet voldoen aan de voorwaarden voor erkenning als leerbedrijf zoals vermeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0051839&artikel=5&z=2025-12-01&g=2025-12-01) van de regeling erkenning leerbedrijven.
 
@@ -96,7 +121,7 @@ Het bedrijf of de organisatie wordt geacht:
 
 - b. op de leerplaats is de mogelijkheid om afspraken op maat te maken zoals arbeidstijden, verwachtingen, zelfstandigheid en werkdruk.
 
-#### Artikel 6. Verlenen van de erkenning
+##### Artikel 6. Verlenen van de erkenning
 
 1. Uiterlijk tien werkdagen na dagtekening van het verzoek als bedoeld in [artikel 3 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051839&artikel=3&z=2025-12-01&g=2025-12-01) beslist SBB over de verlening van de erkenning en maakt dit aan het bedrijf of de organisatie bekend. Overschrijding van deze termijn is in uitzonderlijke gevallen toegestaan en dient in de beslissing te worden gemotiveerd.
 
@@ -108,13 +133,13 @@ Het bedrijf of de organisatie wordt geacht:
 
 5. De erkenning vervalt van rechtswege als het leerbedrijf gedurende een aaneengesloten periode van vier jaar geen beroepspraktijkvorming heeft verzorgd.
 
-#### Artikel 7. Herbeoordelen van de erkenning
+##### Artikel 7. Herbeoordelen van de erkenning
 
 1. SBB zorgt ervoor dat bedrijven en organisaties die de beroepspraktijkvorming verzorgen eenmaal in de vier jaar worden beoordeeld aan de hand van de voorwaarden zoals genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051839&artikel=3&z=2025-12-01&g=2025-12-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0051839&artikel=5&z=2025-12-01&g=2025-12-01), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0051839&artikel=5a&z=2025-12-01&g=2025-12-01), [5b](https://wetten.overheid.nl/jci1.3:c:BWBR0051839&artikel=5b&z=2025-12-01&g=2025-12-01) en [5c](https://wetten.overheid.nl/jci1.3:c:BWBR0051839&artikel=5c&z=2025-12-01&g=2025-12-01). Indien daartoe door bijzondere omstandigheden aanleiding bestaat, kan controle frequenter plaats vinden.
 
 2. SBB handhaaft de erkenning bij een gunstige beoordeling op grond van het eerste lid.
 
-#### Artikel 8. Intrekken van de erkenning
+##### Artikel 8. Intrekken van de erkenning
 
 1. SBB kan besluiten tot intrekking van de erkenning, indien naar haar oordeel:
 
@@ -128,19 +153,19 @@ Het bedrijf of de organisatie wordt geacht:
 
 3. SBB heeft het recht om, wanneer zij het voornemen heeft om een besluit te nemen tot intrekking van de erkenning, in afwachting van de beoordeling en het definitieve besluit over de intrekking van de erkenning, de erkenning bij schriftelijk gemotiveerd besluit te schorsen.
 
-#### Artikel 9. Dienstverlening
+##### Artikel 9. Dienstverlening
 
 Het leerbedrijf ontvangt ondersteuning van SBB bij het vervullen van de rol als leerbedrijf. Ondersteuning is gericht op het verhogen van de kwaliteit van de leeromgeving en van het praktijkleren.
 
-#### Artikel 10. Bezwaar
+##### Artikel 10. Bezwaar
 
 Indien de erkenning geweigerd, geschorst of ingetrokken wordt kan het bedrijf of de organisatie tegen de beslissing als bedoeld in de [artikelen 6 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051839&artikel=6&z=2025-12-01&g=2025-12-01) en [8 lid 1 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051839&artikel=8&z=2025-12-01&g=2025-12-01) binnen 6 weken na dagtekening van de beslissing bezwaar maken bij SBB. Op de bezwaarprocedure is de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) van toepassing.
 
-#### Artikel 11. Onvoorziene omstandigheden
+##### Artikel 11. Onvoorziene omstandigheden
 
 In alle gevallen waarin deze regeling niet voorziet beslist SBB.
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van 1 december 2025.
 
@@ -148,7 +173,7 @@ In alle gevallen waarin deze regeling niet voorziet beslist SBB.
 
 3. Deze regeling kan worden aangehaald als ‘Regeling erkenning leerbedrijven SBB’.
 
-#### Artikel 13. Wijzigingen
+##### Artikel 13. Wijzigingen
 
 Wijzigingen in de regeling worden vastgesteld door het bestuur van SBB en ter goedkeuring aangeboden aan de Minister van OCW.
 

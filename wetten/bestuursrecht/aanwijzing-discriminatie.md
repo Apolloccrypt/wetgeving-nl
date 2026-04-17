@@ -1,13 +1,35 @@
 ---
 title: "Aanwijzing discriminatie"
 identifier: "BWBR0051259"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-07-21
-laatste_update: 2025-07-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051259"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2025-07-21"
+last_updated: "2025-07-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051259"
+soort: "beleidsregel"
+stam_id: "17472973"
+version_id: "30816752"
+internal_id: "C44165551"
+label_id: "17375574"
+dtd_version: "2.0"
+original_entry_into_force: "2025-07-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051259/2025-07-21/0"
+intitule_bron: "Stcrt.2025-23274"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2025-07-21"
+intitule_in_force: "2025-07-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-23274"
+original_published_date: "2025-07-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-23274"
+entry_into_force_date: "2025-07-21"
+jci_1_3: "jci1.3:c:BWBR0051259&z=2025-07-21&g=2025-07-21"
+jci_1_0: "1.0:c:BWBR0051259&g=2025-07-21"
+citeertitel_status: "redactioneel"
+entry_into_force: "2025-07-21"
 ---
-
 # Aanwijzing discriminatie
 
 ### Samenvatting

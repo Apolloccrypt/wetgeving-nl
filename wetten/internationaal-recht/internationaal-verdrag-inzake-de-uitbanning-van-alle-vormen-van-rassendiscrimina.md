@@ -1,13 +1,38 @@
 ---
 title: "Internationaal Verdrag inzake de uitbanning van alle vormen van rassendiscriminatie"
 identifier: "BWBV0002911"
-categorie: "Internationaal recht"
-publicatiedatum: 1972-01-09
-laatste_update: 1972-01-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002911"
+country: "nl"
+rank: "verdrag"
+publication_date: "1972-01-09"
+last_updated: "1972-01-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002911"
+soort: "verdrag"
+stam_id: "10003244383"
+version_id: "10003262412"
+internal_id: "C10006985301"
+label_id: "10003230434"
+dtd_version: "2.0"
+original_entry_into_force: "1972-01-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002911/1972-01-09/0"
+intitule_bron: "Trb.1966-237"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1971-12-10"
+intitule_published: "1966-11-17"
+intitule_in_force: "1972-03-20"
+intitule_status: "goed"
+original_publication: "Trb.1966-237"
+original_signed_date: "1971-12-10"
+original_published_date: "1966-11-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1966-237"
+entry_into_force_date: "1972-01-09"
+jci_1_3: "jci1.3:c:BWBV0002911&z=1972-01-09&g=1972-01-09"
+jci_1_0: "1.0:c:BWBV0002911&g=1972-01-09"
+citeertitel_status: "officieel"
+signed_date: "1971-12-10"
+entry_into_force: "1972-01-09"
 ---
-
 # Internationaal Verdrag inzake de uitbanning van alle vormen van rassendiscriminatie
 
 De Staten die partij zijn bij dit Verdrag,
@@ -40,7 +65,7 @@ Zijn overeengekomen als volgt:
 
 ## DEEL I
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit Verdrag wordt onder „rassendiscriminatie” verstaan elke vorm van onderscheid, uitsluiting, beperking of voorkeur op grond van ras, huidskleur, afkomst of nationale of etnische afstamming die ten doel heeft de erkenning, het genot of de uitoefening, op voet van gelijkheid, van de rechten van de mens en de fundamentele vrijheden op politiek, economisch, sociaal of cultureel gebied, of op andere terreinen van het openbare leven, teniet te doen of aan te tasten, dan wel de tenietdoening of aantasting daarvan ten gevolge heeft.
 
@@ -50,7 +75,7 @@ Zijn overeengekomen als volgt:
 
 4. Bijzondere maatregelen die uitsluitend zijn genomen voor de behoorlijke ontwikkeling van bepaalde rasgemeenschappen, etnische groepen of personen die bescherming behoeven om hun een gelijk genot of de gelijke uitoefening van de rechten van de mens en de fundamentele vrijheden te verzekeren, worden niet als rassendiscriminatie aangemerkt, mits deze maatregelen niet tot gevolg hebben dat voor verschillende rasgemeenschappen afzonderlijke rechten in stand worden gehouden en zij niet van kracht blijven nadat de oogmerken waarmede zij zijn genomen, zijn bereikt.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Staten die partij zijn bij dit Verdrag veroordelen rassendiscriminatie en nemen de verplichting op zich onverwijld en met alle daarvoor in aanmerking komende middelen een beleid te zullen voeren dat erop is gericht alle vormen van rassendiscriminatie uit te bannen en een goede verstandhouding tussen alle rassen te bevorderen en, met het oog daarop:
 
@@ -66,11 +91,11 @@ Zijn overeengekomen als volgt:
 
 2. De Staten die partij zijn bij dit Verdrag nemen, indien de omstandigheden dit vereisen, op sociaal, economisch, cultureel en ander gebied, bijzondere en concrete maatregelen ter verzekering van de behoorlijke ontwikkeling of bescherming van bepaalde rasgemeenschappen of daartoe behorende personen, ten einde hen de rechten van de mens en de fundamentele vrijheden volledig en gelijkelijk te doen genieten. Deze maatregelen mogen, nadat de oogmerken waarmede zij waren genomen, zijn bereikt, in geen geval de instandhouding van ongelijke of afzonderlijke rechten voor verschillende rasgemeenschappen tot gevolg hebben.
 
-#### Artikel 3
+##### Artikel 3
 
 De Staten die partij zijn bij dit Verdrag veroordelen in het bijzonder rassenscheiding en apartheid en nemen de verplichting op zich op onder hun rechtsmacht vallende grondgebieden alle uitingen van dien aard te voorkomen, te verbieden en uit te bannen.
 
-#### Artikel 4
+##### Artikel 4
 
 De Staten die partij zijn bij dit Verdrag veroordelen alle propaganda en alle organisaties die berusten op denkbeelden of theorieën die uitgaan van de superioriteit van een bepaald ras of een groep personen van een bepaalde huidskleur of etnische afstamming, of die trachten rassenhaat en rassendiscriminatie in enige vorm te rechtvaardigen of te bevorderen, en nemen de verplichting op zich onverwijld positieve maatregelen te nemen die erop zijn gericht aan elke vorm van aanzetting tot of aan elke uiting van een zodanige discriminatie een einde te maken en met het oog daarop, met inachtneming van de beginselen vervat in de [Universele Verklaring van de Rechten van de Mens](https://wetten.overheid.nl/jci1.3:c:BWBV0001008) en van de rechten die uitdrukkelijk worden genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0002911&deel=I&artikel=5&z=1972-01-09&g=1972-01-09) van dit Verdrag, onder andere:
 
@@ -80,7 +105,7 @@ De Staten die partij zijn bij dit Verdrag veroordelen alle propaganda en alle or
 
 - (c). niet toe te staan dat overheidsorganen of overheidsinstellingen, hetzij op nationaal, hetzij op plaatselijk niveau, rassendiscriminatie bevorderen of daartoe aanzetten.
 
-#### Artikel 5
+##### Artikel 5
 
 Overeenkomstig de fundamentele verplichtingen vervat in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002911&deel=I&artikel=2&z=1972-01-09&g=1972-01-09) van dit Verdrag nemen de Staten die partij zijn bij dit Verdrag de verplichting op zich rassendiscriminatie in al haar vormen te verbieden en uit te bannen en het recht van een ieder, zonder onderscheid naar ras, huidskleur of nationale of etnische afstamming, op gelijkheid voor de wet te verzekeren, in het bijzonder wat het genot van de navolgende rechten betreft:
 
@@ -126,17 +151,17 @@ Overeenkomstig de fundamentele verplichtingen vervat in [artikel 2](https://wett
 
 - (f). het recht van toegang tot elke plaats of dienst bestemd voor gebruik door het publiek, zoals vervoermiddelen, hotels, restaurants, café's, theaters en parken.
 
-#### Artikel 6
+##### Artikel 6
 
 De Staten die partij zijn bij dit Verdrag verzekeren een ieder binnen hun rechtsgebied doeltreffende bescherming en rechtsmiddelen, door tussenkomst van de bevoegde nationale rechterlijke instanties en andere overheidsinstellingen, tegen elke uiting van rassendiscriminatie waardoor hij, in strijd met dit Verdrag, wordt aangetast in zijn rechten als mens en zijn fundamentele vrijheden, zomede in zijn recht zich tot deze rechterlijke instanties te wenden ter verkrijging van een billijke en afdoende schadeloosstelling of genoegdoening voor alle door hem geleden schade die het gevolg is van een zodanige discriminatie.
 
-#### Artikel 7
+##### Artikel 7
 
 De Staten die partij zijn bij dit Verdrag nemen de verplichting op zich onverwijld doeltreffende maatregelen te nemen, met name op het gebied van onderwijs, opvoeding, cultuur en voorlichting, met het oog op de bestrijding van vooroordelen die tot rassendiscriminatie leiden, en het bevorderen van begrip, verdraagzaamheid en vriendschap tussen volken en ras gemeenschappen of etnische groepen, alsook met het oog op het uitdragen van de doelstellingen en beginselen van het [Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143), de [Universele Verklaring van de Rechten van de Mens](https://wetten.overheid.nl/jci1.3:c:BWBV0001008), de Verklaring van de Verenigde Naties inzake de uitbanning van alle vormen van rassendiscriminatie en van dit Verdrag.
 
 ## DEEL II
 
-#### Artikel 8
+##### Artikel 8
 
 1. Er wordt een Commissie voor de uitbanning van rassendiscriminatie ingesteld (hierna te noemen de Commissie), die zal bestaan uit achttien deskundigen van hoog zedelijk aanzien en erkende onpartijdigheid, die door de Staten die partij zijn bij dit Verdrag uit hun onderdanen worden gekozen; zij treden op in hun persoonlijke hoedanigheid, terwijl rekening wordt gehouden met een billijke geografische verdeling en met de vertegenwoordiging van de verschillende beschavingsvormen en de belangrijkste rechtsstelsels.
 
@@ -152,13 +177,13 @@ De Staten die partij zijn bij dit Verdrag nemen de verplichting op zich onverwij
 
 6. De onkosten die de leden van de Commissie maken in de uitoefening van hun functie als lid van de Commissie, zijn voor rekening van de Staten die partij zijn bij dit Verdrag.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De Staten die partij zijn bij dit Verdrag nemen de verplichting op zich aan de Secretaris-Generaal van de Verenigde Naties, ter bestudering door de Commissie, een verslag over te leggen betreffende de wetgevende, gerechtelijke, bestuurlijke of andere maatregelen die zij hebben genomen ter uitvoering van de bepalingen van dit Verdrag, en wel (a) binnen een jaar nadat het Verdrag voor de desbetreffende Staat in werking is getreden; en (b) vervolgens eenmaal in de twee jaar en telkens wanneer de Commissie dit verzoekt. De Commissie kan de Staten die partij zijn bij dit Verdrag nadere inlichtingen vragen.
 
 2. De Commissie brengt jaarlijks, door tussenkomst van de Secretaris-Generaal, aan de Algemene Vergadering van de Verenigde Naties verslag uit over haar werkzaamheden en kan voorstellen en algemene aanbevelingen doen, gebaseerd op de bestudering der van de Staten die partij zijn bij dit Verdrag ontvangen verslagen en inlichtingen. Deze voorstellen en algemene aanbevelingen worden, te zamen met eventueel commentaar daarop van de Staten die partij zijn bij dit Verdrag, aan de Algemene Vergadering voorgelegd.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De Commissie stelt haar eigen huishoudelijk reglement vast.
 
@@ -168,7 +193,7 @@ De Staten die partij zijn bij dit Verdrag nemen de verplichting op zich onverwij
 
 4. De vergaderingen van de Commissie worden gewoonlijk op het Hoofdkwartier van de Verenigde Naties gehouden.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Indien een der Staten die partij zijn bij dit Verdrag van oordeel is dat een andere Staat die partij is bij dit Verdrag de bepalingen van dit Verdrag niet uitvoert, kan hij de aandacht van de Commissie daarop vestigen. De Commissie brengt deze mededeling vervolgens ter kennis van de betrokken Staat die partij is bij dit Verdrag. De ontvangende Staat legt de Commissie binnen drie maanden een schriftelijke uiteenzetting of verklaring voor, ter toelichting van de zaak, en deelt haar mede welke maatregelen eventueel door die Staat bij wijze van correctie zijn genomen.
 
@@ -180,7 +205,7 @@ De Staten die partij zijn bij dit Verdrag nemen de verplichting op zich onverwij
 
 5. Wanneer een zaak uit hoofde van dit artikel bij de Commissie in onderzoek is, hebben de belanghebbende Staten die partij zijn bij dit Verdrag het recht een vertegenwoordiger te zenden, die, zonder dat hij stemrecht heeft, voor de duur van het onderzoek deelneemt aan de behandeling van deze zaak door de Commissie.
 
-#### Artikel 12
+##### Artikel 12
 
 - (a). Nadat de Commissie alle inlichtingen die ze nodig oordeelt heeft bijeengebracht en geverifieerd, benoemt de voorzitter een Conciliatiecommissie ad hoc, bestaande uit vijf personen die lid van de Commissie kunnen zijn. De leden van de Conciliatiecommissie worden benoemd met unanieme instemming van de partijen bij het geschil; de betrokken Staten kunnen van haar goede diensten gebruik maken om, op basis van eerbiediging van de bepalingen van dit Verdrag, tot een minnelijke schikking van de zaak te komen.
 
@@ -200,7 +225,7 @@ De Staten die partij zijn bij dit Verdrag nemen de verplichting op zich onverwij
 
 8. De door de Commissie bijeengebrachte en geverifieerde inlichtingen worden ter kennis gebracht van de Conciliatiecommissie; deze kan de betrokken Staten verzoeken nadere op de zaak betrekking hebbende inlichtingen te verstrekken.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Wanneer de Conciliatiecommissie de zaak volledig heeft bestudeerd, legt zij haar bevindingen inzake alle feiten die betrekking hebben op het geschil tussen de partijen neer in een verslag dat tevens de aanbevelingen bevat die zij nuttig oordeelt met het oog op een minnelijke schikking van het geschil; dit verslag legt zij voor aan de voorzitter van de Commissie.
 
@@ -208,7 +233,7 @@ De Staten die partij zijn bij dit Verdrag nemen de verplichting op zich onverwij
 
 3. Na het verstrijken van het in het tweede lid van dit artikel genoemde tijdvak brengt de voorzitter van de Commissie het verslag van de Conciliatiecommissie en de verklaringen van de betrokken Staten die partij zijn bij dit Verdrag ter kennis van de andere Staten die partij zijn bij dit Verdrag.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Een Staat die partij is bij dit Verdrag kan te allen tijde verklaren dat hij de bevoegdheid erkent van de Commissie mededelingen te ontvangen en te bestuderen die afkomstig zijn van onder zijn rechtsmacht staande personen of groepen personen, die beweren het slachtoffer te zijn van een schending door die Staat die partij is bij dit Verdrag van een of meer der in dit Verdrag genoemde rechten. De Commissie neemt geen mededeling in ontvangst die betrekking heeft op een Staat die partij is bij dit Verdrag die een zodanige verklaring niet heeft afgelegd.
 
@@ -232,7 +257,7 @@ De Staten die partij zijn bij dit Verdrag nemen de verplichting op zich onverwij
 
 9. De Commissie is uitsluitend bevoegd de in dit artikel bedoelde functies uit te oefenen wanneer ten minste tien Staten die partij zijn bij dit Verdrag zijn gebonden door verklaringen overeenkomstig het eerste lid van dit artikel.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Zolang de doelstellingen van de Verklaring inzake het verlenen van onafhankelijkheid aan koloniale landen en volken, vervat in resolutie 1514 (XV) van 14 december 1960 van de Algemene Vergadering nog niet zijn verwezenlijkt, laten de bepalingen van dit Verdrag onverlet het aan deze volken bij andere internationale akten of door de Verenigde Naties en hun gespecialiseerde organisaties verleende recht tot het indienen van verzoekschriften.
 
@@ -244,31 +269,31 @@ De Staten die partij zijn bij dit Verdrag nemen de verplichting op zich onverwij
 
 4. De Commissie verzoekt de Secretaris-Generaal van de Verenigde Naties om alle hem ten aanzien van de in het tweede lid, onder (a) van dit artikel genoemde gebieden ter beschikking staande gegevens die betrekking hebben op de doelstellingen van dit Verdrag.
 
-#### Artikel 16
+##### Artikel 16
 
 De bepalingen van dit Verdrag, de regeling van geschillen of klachten betreffende, worden toegepast zonder aantasting van andere procedures voor de beslechting van geschillen of klachten ter zake van discriminatie, als nedergelegd in de oprichtingsakten van, of in verdragen aanvaard door de Verenigde Naties en de Gespecialiseerde Organisaties, en vormen voor de Staten die partij zijn bij dit Verdrag geen beletsel andere procedures te volgen ter regeling van een geschil overeenkomstig tussen hen van kracht zijnde algemene of bijzondere internationale overeenkomsten.
 
 ## DEEL III
 
-#### Artikel 17
+##### Artikel 17
 
 1. Dit Verdrag staat open voor ondertekening door alle Lid-Staten van de Verenigde Naties of leden van een der Gespecialiseerde Organisaties, door elke Staat die partij is bij het [Statuut van het Internationale Gerechtshof](https://wetten.overheid.nl/jci1.3:c:BWBV0005509) en door elke andere Staat die door de Algemene Vergadering van de Verenigde Naties is uitgenodigd partij te worden bij dit Verdrag.
 
 2. Dit Verdrag dient te worden bekrachtigd. De akten van bekrachtiging worden nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Dit Verdrag staat open voor toetreding door alle in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002911&deel=III&artikel=17&z=1972-01-09&g=1972-01-09), van dit Verdrag bedoelde Staten.
 
 2. Toetreding geschiedt door nederlegging van een akte van toetreding bij de Secretaris-Generaal van de Verenigde Naties.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Dit Verdrag treedt in werking op de dertigste dag na de datum van nederlegging bij de Secretaris-Generaal van de Verenigde Naties van de zevenentwintigste akte van bekrachtiging of akte van toetreding.
 
 2. Voor elke Staat die dit Verdrag bekrachtigt of ertoe toetreedt nadat de zevenentwintigste akte van bekrachtiging of akte van toetreding is nedergelegd, treedt het Verdrag in werking op de dertigste dag na de datum waarop deze Staat zijn eigen akte van bekrachtiging of akte van toetreding heeft nedergelegd.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De Secretaris-Generaal der Verenigde Naties ontvangt de ten tijde van de bekrachtiging of toetreding door Staten gemaakte voorbehouden en brengt deze ter kennis van alle Staten die partij zijn of partij kunnen worden bij dit Verdrag. Elke Staat die bezwaar maakt tegen een voorbehoud deelt, binnen een tijdvak van negentig dagen te rekenen van de datum van genoemde kennisgeving, de Secretaris-Generaal mede dat hij het niet aanvaardt.
 
@@ -276,21 +301,21 @@ De bepalingen van dit Verdrag, de regeling van geschillen of klachten betreffend
 
 3. Voorbehouden kunnen te allen tijde worden ingetrokken door middel van een daartoe strekkende aan de Secretaris-Generaal gerichte kennisgeving. Een zodanige kennisgeving wordt van kracht op de datum waarop zij wordt ontvangen.
 
-#### Artikel 21
+##### Artikel 21
 
 Een Staat die partij is bij dit Verdrag kan dit Verdrag opzeggen door middel van een schriftelijke kennisgeving aan de Secretaris-Generaal der Verenigde Naties. Deze opzegging wordt van kracht een jaar na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 22
+##### Artikel 22
 
 Elk geschil tussen twee of meer Staten die partij zijn bij dit Verdrag ter zake van de uitlegging of toepassing van dit Verdrag, dat niet door onderhandelingen of door procedures waarin dit Verdrag speciaal voorziet, wordt geregeld, wordt op verzoek van een of meer partijen bij het geschil ter beslissing voorgelegd aan het Internationale Gerechtshof, tenzij de bij het geschil betrokken partijen overeenstemming bereiken ten aanzien van een andere wijze van beslechting van het geschil.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Een Staat die partij is bij dit Verdrag kan te allen tijde om herziening van dit Verdrag verzoeken door middel van een aan de Secretaris-Generaal van de Verenigde Naties gerichte schriftelijke kennisgeving.
 
 2. De Algemene Vergadering van de Verenigde Naties beslist welke stappen eventueel dienen te worden genomen naar aanleiding van een zodanig verzoek.
 
-#### Artikel 24
+##### Artikel 24
 
 De Secretaris-Generaal van de Verenigde Naties geeft alle in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002911&deel=III&artikel=17&z=1972-01-09&g=1972-01-09), van dit Verdrag bedoelde Staten kennis van:
 
@@ -302,7 +327,7 @@ De Secretaris-Generaal van de Verenigde Naties geeft alle in [artikel 17, eerste
 
 - (d). opzeggingen krachtens [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0002911&deel=III&artikel=21&z=1972-01-09&g=1972-01-09).
 
-#### Artikel 25
+##### Artikel 25
 
 1. Dit Verdrag, waarvan de teksten in de Chinese, de Engelse, de Franse, de Russische en de Spaanse taal gelijkelijk authentiek zijn, wordt nedergelegd in het archief van de Verenigde Naties.
 

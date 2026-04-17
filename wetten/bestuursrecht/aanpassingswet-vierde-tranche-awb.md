@@ -1,14 +1,41 @@
 ---
-title: "Aanpassingswet vierde tranche Awb"
+title: "Wet van 25 juni 2009 tot aanpassing van bijzondere wetten aan de vierde tranche van de Algemene wet bestuursrecht (Aanpassingswet vierde tranche Awb)"
 identifier: "BWBR0026055"
-categorie: "Bestuursrecht"
-publicatiedatum: 2009-07-01
-laatste_update: 2009-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026055"
+country: "nl"
+rank: "wet"
+publication_date: "2009-07-01"
+last_updated: "2009-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026055"
+soort: "wet"
+stam_id: "10115943"
+version_id: "16537252"
+internal_id: "C22753651"
+label_id: "10094374"
+dtd_version: "2.0"
+original_entry_into_force: "2009-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026055/2009-07-01/0"
+intitule_bron: "Stb.2009-265"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-06-25"
+intitule_published: "2009-06-30"
+intitule_in_force: "2009-06-30"
+intitule_status: "goed"
+original_publication: "Stb.2009-265"
+original_signed_date: "2009-06-25"
+original_published_date: "2009-06-30"
+original_effect: "nieuwe-regeling"
+original_dossier: "31124"
+original_url_id: "stb-2009-265"
+entry_into_force_date: "2009-07-01"
+jci_1_3: "jci1.3:c:BWBR0026055&z=2009-07-01&g=2009-07-01"
+jci_1_0: "1.0:c:BWBR0026055&g=2009-07-01"
+citeertitel_status: "officieel"
+short_title: "Aanpassingswet vierde tranche Awb"
+signed_date: "2009-06-25"
+entry_into_force: "2009-07-01"
 ---
-
-# Aanpassingswet vierde tranche Awb
+# Wet van 25 juni 2009 tot aanpassing van bijzondere wetten aan de vierde tranche van de Algemene wet bestuursrecht (Aanpassingswet vierde tranche Awb)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,831 +45,831 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk 1. Wijziging van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
 
-#### Artikel 1
+##### Artikel 1
 
 Wijzigt de Algemene wet bestuursrecht.
 
-#### Artikel 2
+##### Artikel 2
 
 Wijzigt de Vierde tranche Algemene wet bestuursrecht.
 
-#### Artikel 3
+##### Artikel 3
 
 Wijzigt de Algemene wet bestuursrecht.
 
 ### Hoofdstuk 2. Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
 
-#### Artikel 1
+##### Artikel 1
 
 Wijzigt de Ambtenarenwet.
 
-#### Artikel 2
+##### Artikel 2
 
 Wijzigt de Gemeentewet.
 
-#### Artikel 3
+##### Artikel 3
 
 Wijzigt de Wet overige BZK-subsidies.
 
-#### Artikel 4
+##### Artikel 4
 
 Wijzigt de Provinciewet.
 
-#### Artikel 4a
+##### Artikel 4a
 
 Wijzigt de Wet op de Raad van State.
 
-#### Artikel 4b
+##### Artikel 4b
 
 Wijzigt de Wet op de Raad van State.
 
-#### Artikel 5
+##### Artikel 5
 
 Wijzigt de Wet rampen en zware ongevallen.
 
 ### Hoofdstuk 3. Ministerie van Buitenlandse Zaken
 
-#### Artikel 1
+##### Artikel 1
 
 Wijzigt de Kaderwet subsidies Ministerie van Buitenlandse Zaken.
 
-#### Artikel 2
+##### Artikel 2
 
 Wijzigt de Sanctiewet 1977.
 
 ### Hoofdstuk 4. Ministerie van Defensie
 
-#### artikel Enig
+##### artikel Enig
 
 Wijzigt de Inkwartieringswet.
 
 ### Hoofdstuk 5. Ministerie van Economische Zaken
 
-#### Artikel 1
+##### Artikel 1
 
 Wijzigt de Distributiewet.
 
-#### Artikel 2
+##### Artikel 2
 
 Wijzigt de Elektriciteitswet 1998.
 
-#### Artikel 3
+##### Artikel 3
 
 Wijzigt de Gaswet.
 
-#### Artikel 4
+##### Artikel 4
 
 Wijzigt de Hamsterwet.
 
-#### Artikel 5
+##### Artikel 5
 
 Wijzigt de Kaderwet EZ-subsidies.
 
-#### Artikel 6
+##### Artikel 6
 
 Wijzigt de Mededingingswet.
 
-#### Artikel 7
+##### Artikel 7
 
 Wijzigt de Metrologiewet.
 
-#### Artikel 8
+##### Artikel 8
 
 Wijzigt de Mijnbouwwet.
 
-#### Artikel 9
+##### Artikel 9
 
 Wijzigt de Postwet.
 
-#### Artikel 10
+##### Artikel 10
 
 Wijzigt de Prijzennoodwet.
 
-#### Artikel 11
+##### Artikel 11
 
 Wijzigt de Telecommunicatiewet.
 
-#### Artikel 12
+##### Artikel 12
 
 Wijzigt de Vorderingswet.
 
-#### Artikel 13
+##### Artikel 13
 
 Wijzigt de Wet aardgasprijzen.
 
-#### Artikel 14
+##### Artikel 14
 
 Wijzigt de Wet beschikbaarheid goederen.
 
-#### Artikel 15
+##### Artikel 15
 
 Wijzigt de Wet goedkeuring en uitvoering Markham-overeenkomst.
 
-#### Artikel 16
+##### Artikel 16
 
 Wijzigt de Wet handhaving consumentenbescherming.
 
-#### Artikel 17
+##### Artikel 17
 
 [Vervallen].
 
-#### Artikel 18
+##### Artikel 18
 
 Wijzigt de Wet op het Centraal bureau voor de statistiek.
 
-#### Artikel 19
+##### Artikel 19
 
 Wijzigt de Wijzigingswet Elektriciteitswet 1998 en Gaswet (nadere regels omtrent een onafhankelijk netbeheer).
 
 ### Hoofdstuk 6. Ministerie van Financiën
 
-#### Artikel 1
+##### Artikel 1
 
 Wijzigt de Algemene wet inkomensafhankelijke regelingen.
 
-#### Artikel 2
+##### Artikel 2
 
 Wijzigt de Algemene wet inzake rijksbelastingen.
 
-#### Artikel 3
+##### Artikel 3
 
 Wijzigt de Invorderingswet 1990.
 
-#### Artikel 4
+##### Artikel 4
 
 Wijzigt de Kostenwet invordering rijksbelastingen.
 
-#### Artikel 5
+##### Artikel 5
 
 Wijzigt de Wet belasting zware motorrijtuigen.
 
-#### Artikel 6
+##### Artikel 6
 
 Wijzigt de Wet financiële betrekkingen buitenland 1994.
 
-#### Artikel 7
+##### Artikel 7
 
 Wijzigt de Wet ter voorkoming van witwassen en financieren van terrorisme.
 
-#### Artikel 8
+##### Artikel 8
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel 9
+##### Artikel 9
 
 Wijzigt de Wet inzake de geldtransactiekantoren.
 
-#### Artikel 10
+##### Artikel 10
 
 Wijzigt de Wet melding ongebruikelijke transacties.
 
-#### Artikel 11
+##### Artikel 11
 
 Wijzigt de Wet op de belasting van personenauto’s en motorrijwielen 1992.
 
-#### Artikel 12
+##### Artikel 12
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel 13
+##### Artikel 13
 
 Wijzigt de Wet op de motorrijtuigenbelasting 1994.
 
-#### Artikel 14
+##### Artikel 14
 
 Wijzigt de Wet op de omzetbelasting 1968.
 
-#### Artikel 15
+##### Artikel 15
 
 Wijzigt de Wet op het financieel toezicht.
 
-#### Artikel 16
+##### Artikel 16
 
 Wijzigt de Wet toezicht accountantsorganisaties.
 
-#### Artikel 17
+##### Artikel 17
 
 Wijzigt de Wet toezicht trustkantoren.
 
-#### Artikel 18
+##### Artikel 18
 
 Wijzigt de Algemene douanewet.
 
 ### Hoofdstuk 7. Ministerie van Justitie
 
-#### Artikel 0
+##### Artikel 0
 
 Wijzigt de Aanpassingswet burgerservicenummer, de Algemene wet inkomensafhankelijke regelingen en de Wet kinderopvang.
 
-#### Artikel 1
+##### Artikel 1
 
 Wijzigt de Gerechtsdeurwaarderswet.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Wijzigt de Onteigeningswet.
 
-#### Artikel 1b
+##### Artikel 1b
 
 [Vervallen].
 
-#### Artikel 2
+##### Artikel 2
 
 Wijzigt de Wet aansprakelijkheid olietankschepen.
 
-#### Artikel 3
+##### Artikel 3
 
 Wijzigt de Wet administratiefrechtelijke handhaving verkeersvoorschriften.
 
-#### Artikel 4
+##### Artikel 4
 
 Wijzigt de Wet bescherming persoonsgegevens.
 
-#### Artikel 5
+##### Artikel 5
 
 Wijzigt de Wet bestuursrechtspraak bedrijfsorganisatie.
 
-#### Artikel 5a
+##### Artikel 5a
 
 Wijzigt de Wet Justitie-subsidies.
 
-#### Artikel 6
+##### Artikel 6
 
 Wijzigt de Wet op het notarisambt.
 
-#### Artikel 7
+##### Artikel 7
 
 Wijzigt de Wet particuliere beveiligingsorganisaties en recherchebureaus.
 
-#### Artikel 8
+##### Artikel 8
 
 Wijzigt de Wet wapens en munitie.
 
-#### Artikel 9
+##### Artikel 9
 
 Wijzigt de Invoeringswet titel 7.13 Burgerlijk Wetboek (Kst. 31065).
 
 ### Hoofdstuk 8. Ministerie van Landbouw, Natuur en Voedselkwaliteit
 
-#### Artikel 1
+##### Artikel 1
 
 Wijzigt de Bodemproductiewet 1939.
 
-#### Artikel 2
+##### Artikel 2
 
 Wijzigt de Diergeneesmiddelenwet.
 
-#### Artikel 3
+##### Artikel 3
 
 Wijzigt de Flora- en faunawet.
 
-#### Artikel 4
+##### Artikel 4
 
 Wijzigt de Gezondheids- en welzijnswet voor dieren.
 
-#### Artikel 5
+##### Artikel 5
 
 Wijzigt de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën.
 
-#### Artikel 6
+##### Artikel 6
 
 Wijzigt de Kaderwet diervoeders.
 
-#### Artikel 7
+##### Artikel 7
 
 Wijzigt de Kaderwet LNV-subsidies.
 
-#### Artikel 8
+##### Artikel 8
 
 Wijzigt de Landbouwwet.
 
-#### Artikel 9
+##### Artikel 9
 
 Wijzigt de Meststoffenwet.
 
-#### Artikel 10
+##### Artikel 10
 
 Wijzigt de Natuurbeschermingswet 1998.
 
-#### Artikel 11
+##### Artikel 11
 
 Wijzigt de Noodwet voedselvoorziening.
 
-#### Artikel 12
+##### Artikel 12
 
 Wijzigt de Plantenziektenwet.
 
-#### Artikel 13
+##### Artikel 13
 
 Wijzigt de Reconstructiewet concentratiegebieden.
 
-#### Artikel 14
+##### Artikel 14
 
 Wijzigt de Visserijwet 1963.
 
-#### Artikel 15
+##### Artikel 15
 
 Wijzigt de Wet op de uitoefening van de diergeneeskunde 1990.
 
-#### Artikel 16
+##### Artikel 16
 
 Wijzigt de Zaaizaad- en plantgoedwet 2005.
 
-#### Artikel 16a. [Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755)
+##### Artikel 16a. [Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755)
 
 Wijzigt de Landbouwkwaliteitswet.
 
-#### Artikel 17
+##### Artikel 17
 
 Wijzigt de Wet gewasbeschermingsmiddelen en biociden.
 
-#### Artikel 18
+##### Artikel 18
 
 Wijzigt de Natuurbeschermingswet 1998.
 
 ### Hoofdstuk 9. Ministerie van Onderwijs, Cultuur en Wetenschap
 
-#### Artikel 1
+##### Artikel 1
 
 Wijzigt de Archiefwet 1995.
 
-#### Artikel 2
+##### Artikel 2
 
 Wijzigt de Les- en cursusgeldwet.
 
-#### Artikel 3
+##### Artikel 3
 
 Wijzigt de Mediawet.
 
-#### Artikel 4
+##### Artikel 4
 
 Wijzigt de Monumentenwet 1988.
 
-#### Artikel 5
+##### Artikel 5
 
 Wijzigt de Wet educatie en beroepsonderwijs.
 
-#### Artikel 6
+##### Artikel 6
 
 Wijzigt de Wet kinderopvang.
 
-#### Artikel 7
+##### Artikel 7
 
 Wijzigt de Wet op de expertisecentra.
 
-#### Artikel 8
+##### Artikel 8
 
 Wijzigt de Wet op de vaste boekenprijs.
 
-#### Artikel 9
+##### Artikel 9
 
 Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
 
-#### Artikel 10
+##### Artikel 10
 
 Wijzigt de Wet op het primair onderwijs.
 
-#### Artikel 11
+##### Artikel 11
 
 Wijzigt de Wet op het voortgezet onderwijs.
 
-#### Artikel 12
+##### Artikel 12
 
 Wijzigt de Wet overige OCenW-subsidies.
 
-#### Artikel 13
+##### Artikel 13
 
 Wijzigt de Wet studiefinanciering 2000.
 
-#### Artikel 14
+##### Artikel 14
 
 Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.
 
 ### Hoofdstuk 10. Ministerie van Sociale Zaken en Werkgelegenheid
 
-#### Artikel 1
+##### Artikel 1
 
 Wijzigt de Algemene bijstandswet.
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel 2
+##### Artikel 2
 
 Wijzigt de Algemene Kinderbijslagwet.
 
-#### Artikel 3
+##### Artikel 3
 
 Wijzigt de Algemene nabestaandenwet.
 
-#### Artikel 4
+##### Artikel 4
 
 Wijzigt de Algemene Ouderdomswet.
 
-#### Artikel 5
+##### Artikel 5
 
 Wijzigt de Arbeidsomstandighedenwet.
 
-#### Artikel 6
+##### Artikel 6
 
 Wijzigt de Arbeidstijdenwet.
 
-#### Artikel 7
+##### Artikel 7
 
 Wijzigt de Kaderwet SZW-subsidies.
 
-#### Artikel 8
+##### Artikel 8
 
 Wijzigt de Noodwet Arbeidsvoorziening.
 
-#### Artikel 9
+##### Artikel 9
 
 Wijzigt de Pensioenwet.
 
-#### Artikel 10
+##### Artikel 10
 
 Wijzigt de Toeslagenwet.
 
-#### Artikel 11
+##### Artikel 11
 
 Wijzigt de Werkloosheidswet.
 
-#### Artikel 11a
+##### Artikel 11a
 
 Wijzigt de Wet arbeid en zorg.
 
-#### Artikel 12
+##### Artikel 12
 
 Wijzigt de Wet arbeid vreemdelingen.
 
-#### Artikel 13
+##### Artikel 13
 
 Wijzigt de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.
 
-#### Artikel 14
+##### Artikel 14
 
 Wijzigt de Wet arbeidsongeschiktheidsverzekering zelfstandigen.
 
-#### Artikel 15
+##### Artikel 15
 
 Wijzigt de Wet financiering sociale verzekeringen.
 
-#### Artikel 16
+##### Artikel 16
 
 Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers.
 
-#### Artikel 17
+##### Artikel 17
 
 Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.
 
-#### Artikel 18
+##### Artikel 18
 
 Wijzigt de Wet minimumloon en minimumvakantiebijslag.
 
-#### Artikel 19
+##### Artikel 19
 
 Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
 
-#### Artikel 20
+##### Artikel 20
 
 Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.
 
-#### Artikel 21
+##### Artikel 21
 
 Wijzigt de Wet verplichte beroepspensioenregeling.
 
-#### Artikel 22
+##### Artikel 22
 
 Wijzigt de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000.
 
-#### Artikel 23
+##### Artikel 23
 
 Wijzigt de Wet werk en bijstand.
 
-#### Artikel 24
+##### Artikel 24
 
 Wijzigt de Wet werk en inkomen kunstenaars.
 
-#### Artikel 25
+##### Artikel 25
 
 Wijzigt de Wet werk en inkomen naar arbeidsvermogen.
 
-#### Artikel 26
+##### Artikel 26
 
 Wijzigt de Ziektewet.
 
-#### Artikel 27
+##### Artikel 27
 
 Wijzigt de Ziektewet.
 
-#### Artikel 28
+##### Artikel 28
 
 Wijzigt deze wet.
 
-#### Artikel 29
+##### Artikel 29
 
 Wijzigt deze wet.
 
 ### Hoofdstuk 11. Ministerie van Verkeer en Waterstaat
 
-#### Artikel 1
+##### Artikel 1
 
 Wijzigt de Binnenschepenwet.
 
-#### Artikel 2
+##### Artikel 2
 
 Wijzigt de Havenbeveiligingswet.
 
-#### Artikel 3
+##### Artikel 3
 
 Wijzigt de Havennoodwet.
 
-#### Artikel 4
+##### Artikel 4
 
 Wijzigt de Kaderwet subsidies Verkeer en Waterstaat.
 
-#### Artikel 5
+##### Artikel 5
 
 Wijzigt de Loodsenwet.
 
-#### Artikel 6
+##### Artikel 6
 
 Wijzigt de Luchtvaartwet.
 
-#### Artikel 7
+##### Artikel 7
 
 Wijzigt de Scheepvaartverkeerswet.
 
-#### Artikel 8
+##### Artikel 8
 
 Wijzigt de Spoorwegwet.
 
-#### Artikel 9
+##### Artikel 9
 
 Wijzigt de Spoorwegwet 1875.
 
-#### Artikel 10
+##### Artikel 10
 
 Wijzigt de Waterschapswet.
 
-#### Artikel 11
+##### Artikel 11
 
 Wijzigt de Waterstaatswet 1900.
 
-#### Artikel 12
+##### Artikel 12
 
 Wijzigt de Wegenverkeerswet 1994.
 
-#### Artikel 13
+##### Artikel 13
 
 Wijzigt de Wet beheer rijkswaterstaatswerken.
 
-#### Artikel 14
+##### Artikel 14
 
 Wijzigt de Wet buitenlandse schepen.
 
-#### Artikel 15
+##### Artikel 15
 
 Wijzigt de Wet capaciteitsbeheersing binnenvaartvloot.
 
-#### Artikel 16
+##### Artikel 16
 
 (Vervallen).
 
-#### Artikel 17
+##### Artikel 17
 
 Wijzigt de Wet havenstaatcontrole.
 
-#### Artikel 18
+##### Artikel 18
 
 Wijzigt de Wet kabelbaaninstallaties.
 
-#### Artikel 19
+##### Artikel 19
 
 Wijzigt de Wet laden en lossen zeeschepen.
 
-#### Artikel 20
+##### Artikel 20
 
 Wijzigt de Wet luchtvaart.
 
-#### Artikel 20a
+##### Artikel 20a
 
 Wijzigt de Wet luchtvaart.
 
-#### Artikel 21
+##### Artikel 21
 
 Wijzigt de Wet op de waterhuishouding.
 
-#### Artikel 22
+##### Artikel 22
 
 Wijzigt de Wet personenvervoer 2000.
 
-#### Artikel 23
+##### Artikel 23
 
 Wijzigt de Locaalspoor- en Tramwegwet.
 
-#### Artikel 24
+##### Artikel 24
 
 Wijzigt de Wet aanleg locaalspoor- en tramwegen.
 
-#### Artikel 25
+##### Artikel 25
 
 Wijzigt de Wet zwerfstromen.
 
-#### Artikel 26
+##### Artikel 26
 
 Wijzigt de Wet vervoer binnenvaart.
 
-#### Artikel 27
+##### Artikel 27
 
 Wijzigt de Wet vervoer gevaarlijke stoffen.
 
-#### Artikel 28
+##### Artikel 28
 
 Wijzigt de Wet voorkoming verontreiniging door schepen.
 
-#### Artikel 29
+##### Artikel 29
 
 Wijzigt de Zeevaartbemanningswet.
 
 ### Hoofdstuk 12. Ministerie van Volksgezondheid, Welzijn en Sport
 
-#### Artikel 1
+##### Artikel 1
 
 Wijzigt de Algemene Wet Bijzondere Ziektekosten.
 
-#### Artikel 2
+##### Artikel 2
 
 Wijzigt de Drank- en Horecawet.
 
-#### Artikel 2a
+##### Artikel 2a
 
 Wijzigt de Wet gebruik burgerservicenummer in de zorg.
 
-#### Artikel 3
+##### Artikel 3
 
 Wijzigt de Geneesmiddelenwet.
 
-#### Artikel 4
+##### Artikel 4
 
 Wijzigt de Gezondheidswet.
 
-#### Artikel 5
+##### Artikel 5
 
 (Vervallen).
 
-#### Artikel 6
+##### Artikel 6
 
 Wijzigt de Kaderwet VWS-subsidies.
 
-#### Artikel 7
+##### Artikel 7
 
 Wijzigt de Kwaliteitswet zorginstellingen.
 
-#### Artikel 8
+##### Artikel 8
 
 Wijzigt de Noodwet Geneeskundigen.
 
-#### Artikel 9
+##### Artikel 9
 
 Wijzigt de Opiumwet.
 
-#### Artikel 10
+##### Artikel 10
 
 Wijzigt de Tabakswet.
 
-#### Artikel 11
+##### Artikel 11
 
 Wijzigt de Warenwet.
 
-#### Artikel 12
+##### Artikel 12
 
 Wijzigt de Wet ambulancezorg.
 
-#### Artikel 13
+##### Artikel 13
 
 Wijzigt de Wet buitengewoon pensioen 1940–1945.
 
-#### Artikel 14
+##### Artikel 14
 
 Wijzigt de Wet buitengewoon pensioen Indisch verzet.
 
-#### Artikel 15
+##### Artikel 15
 
 Wijzigt de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers.
 
-#### Artikel 16
+##### Artikel 16
 
 Wijzigt de Wet geneesmiddelenprijzen.
 
-#### Artikel 17
+##### Artikel 17
 
 Wijzigt de Wet klachtrecht cliënten zorgsector.
 
-#### Artikel 18
+##### Artikel 18
 
 Wijzigt de Wet marktordening gezondheidszorg.
 
-#### Artikel 19
+##### Artikel 19
 
 Wijzigt de Wet op de beroepen in de individuele gezondheidszorg.
 
-#### Artikel 20
+##### Artikel 20
 
 Wijzigt de Wet op de dierproeven.
 
-#### Artikel 21
+##### Artikel 21
 
 Wijzigt de Wet op de jeugdzorg.
 
-#### Artikel 22
+##### Artikel 22
 
 Wijzigt de Wet toelating zorginstellingen.
 
-#### Artikel 23
+##### Artikel 23
 
 Wijzigt de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945.
 
-#### Artikel 24
+##### Artikel 24
 
 Wijzigt de Wet uitkeringen vervolgingsslachtoffers 1940–1945.
 
-#### Artikel 25
+##### Artikel 25
 
 Wijzigt de Wijzigingswet Wet op de jeugdzorg, enz. (gesloten jeugdzorg).
 
-#### Artikel 26
+##### Artikel 26
 
 Wijzigt de Zorgverzekeringswet.
 
 ### Hoofdstuk 13. Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
 
-#### Artikel 1
+##### Artikel 1
 
 Wijzigt de Kadasterwet.
 
-#### Artikel 2
+##### Artikel 2
 
 Wijzigt de Kernenergiewet.
 
-#### Artikel 3
+##### Artikel 3
 
 Wijzigt de Reconstructiewet Midden-Delfland.
 
-#### Artikel 4
+##### Artikel 4
 
 Wijzigt de Waterleidingwet.
 
-#### Artikel 5
+##### Artikel 5
 
 Wijzigt de Wet bescherming Antarctica.
 
-#### Artikel 6
+##### Artikel 6
 
 Wijzigt de Wet bevordering eigenwoningbezit.
 
-#### Artikel 7
+##### Artikel 7
 
 Wijzigt de Wet bodembescherming.
 
-#### Artikel 8
+##### Artikel 8
 
 Wijzigt de Wet explosieven voor civiel gebruik.
 
-#### Artikel 9
+##### Artikel 9
 
 Wijzigt de Wet hygiëne en veiligheid badinrichtingen en zwemgelegenheden.
 
-#### Artikel 10
+##### Artikel 10
 
 Wijzigt de Wet inburgering.
 
-#### Artikel 11
+##### Artikel 11
 
 Wijzigt de Wet milieubeheer.
 
-#### Artikel 12
+##### Artikel 12
 
 Wijzigt de Wet op de architectentitel.
 
-#### Artikel 13
+##### Artikel 13
 
 Wijzigt de Wet op de huurtoeslag.
 
-#### Artikel 14
+##### Artikel 14
 
 Wijzigt de Wet ruimtelijke ordening.
 
-#### Artikel 15
+##### Artikel 15
 
 Wijzigt de Wet stedelijke vernieuwing.
 
-#### Artikel 16
+##### Artikel 16
 
 Wijzigt de Woningwet.
 
 ### Hoofdstuk 14. Slotbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. Indien ingevolge enig wettelijk voorschrift:
 
@@ -860,15 +887,15 @@ Wijzigt de Woningwet.
 
 2. Het eerste lid, onderdeel a, is niet van toepassing op het horen van de Raad van State.
 
-#### Artikel 2
+##### Artikel 2
 
 Voor de plaatsing in het Staatsblad brengt Onze Minister van Justitie de in deze wet voorkomende aanhalingen van artikelen van de [titels 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.4), [5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.1) en [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.4) en [afdeling 10.1.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.1.3) in overeenstemming met de op grond van [artikel V van de Vierde tranche Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0026016&artikel=V) vastgestelde nummering.
 
-#### Artikel 3
+##### Artikel 3
 
 De artikelen in deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen en onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze wet wordt aangehaald als: Aanpassingswet vierde tranche Awb.
 

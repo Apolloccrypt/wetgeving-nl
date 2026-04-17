@@ -1,13 +1,37 @@
 ---
 title: "Toepassing van de wet op de omzetbelasting 1968 ten aanzien van het bankbedrijf"
 identifier: "BWBR0003581"
-categorie: "Belastingrecht"
-publicatiedatum: 1983-03-14
-laatste_update: 1983-03-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003581"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "1983-03-14"
+last_updated: "1983-03-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003581"
+soort: "beleidsregel"
+stam_id: "8448833"
+version_id: "13328242"
+internal_id: "C24193051"
+label_id: "8429404"
+dtd_version: "2.0"
+original_entry_into_force: "1983-03-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003581/1983-03-14/0"
+intitule_bron: "Infob.1979-7"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1983-03-14"
+intitule_published: "1979-01-01"
+intitule_in_force: "1979-01-01"
+intitule_status: "goed"
+original_publication: "Infob.1979-7"
+original_signed_date: "1983-03-14"
+original_published_date: "1979-01-01"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1983-03-14"
+jci_1_3: "jci1.3:c:BWBR0003581&z=1983-03-14&g=1983-03-14"
+jci_1_0: "1.0:c:BWBR0003581&g=1983-03-14"
+citeertitel_status: "redactioneel"
+signed_date: "1983-03-14"
+entry_into_force: "1983-03-14"
 ---
-
 # Toepassing van de wet op de omzetbelasting 1968 ten aanzien van het bankbedrijf
 
 De Directeur-Generaal Belastingdienst heeft namens de Staatssecretaris van Financiën het volgende besloten.

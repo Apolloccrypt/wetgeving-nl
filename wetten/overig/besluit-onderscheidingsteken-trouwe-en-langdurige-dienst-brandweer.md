@@ -1,13 +1,39 @@
 ---
-title: "Besluit onderscheidingsteken trouwe en langdurige dienst brandweer"
+title: "Besluit van 28 oktober 2021, houdende instelling van het onderscheidingsteken voor trouwe en langdurige dienst brandweer"
 identifier: "BWBR0045853"
-categorie: "Overig"
-publicatiedatum: 2021-12-01
-laatste_update: 2021-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045853"
+country: "nl"
+rank: "kb"
+publication_date: "2021-12-01"
+last_updated: "2021-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045853"
+soort: "KB"
+stam_id: "16142453"
+version_id: "28166602"
+internal_id: "C39711541"
+label_id: "16071694"
+dtd_version: "2.0"
+original_entry_into_force: "2021-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045853/2021-12-01/0"
+intitule_bron: "Stb.2021-550"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-10-28"
+intitule_published: "2021-11-18"
+intitule_in_force: "2021-11-18"
+intitule_status: "goed"
+original_publication: "Stb.2021-550"
+original_signed_date: "2021-10-28"
+original_published_date: "2021-11-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2021-550"
+entry_into_force_date: "2021-12-01"
+jci_1_3: "jci1.3:c:BWBR0045853&z=2021-12-01&g=2021-12-01"
+jci_1_0: "1.0:c:BWBR0045853&g=2021-12-01"
+citeertitel_status: "officieel"
+short_title: "Besluit onderscheidingsteken trouwe en langdurige dienst brandweer"
+signed_date: "2021-10-28"
+entry_into_force: "2021-12-01"
 ---
-
 # Besluit van 28 oktober 2021, houdende instelling van het onderscheidingsteken voor trouwe en langdurige dienst brandweer
 
 Op de voordracht van Onze Minister van Justitie en Veiligheid van 5 oktober 2021, nr. 3545656;
@@ -16,7 +42,7 @@ Overwegende dat het uitreiken van een onderscheidingsteken voor trouwe en langdu
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -42,15 +68,15 @@ In dit besluit wordt verstaan onder:
 
 - –. een inrichting als bedoeld in het Besluit van 8 maart 2016, houdende regels inzake de informatieverschaffing bij en ten behoeve van rampenbestrijding en crisisbeheersing, inzake de bedrijfsbrandweerplicht van inrichtingen, alsmede inzake rampbestrijdingsplannen voor inrichtingen en luchtvaartterreinen in de openbare lichamen Bonaire, Sint-Eustatius en Saba, die door het bestuurscollege is aangewezen om over een bedrijfsbrandweer te beschikken.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit is van toepassing binnen Europees en Caribisch Nederland.
 
-#### Artikel 3
+##### Artikel 3
 
 Er is een Onderscheidingsteken voor trouwe en langdurige dienst brandweer.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Degene die gedurende 12½, 20, 25, 30, 35, 40, 45 of 50 dienstjaren werkzaam is geweest als brandweermedewerker, ontvangt het onderscheidingsteken.
 
@@ -58,7 +84,7 @@ Er is een Onderscheidingsteken voor trouwe en langdurige dienst brandweer.
 
 3. De brandweermedewerker die gelijktijdig meerdere aanstellingen of betrekkingen heeft, ontvangt het onderscheidingsteken bij de organisatie waar het merendeel van de werkzaamheden als brandweermedewerker worden verricht.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het onderscheidingsteken wordt, door het bevoegd gezag toegekend en door of namens het bevoegd gezag uitgereikt aan de brandweermedewerker.
 
@@ -66,7 +92,7 @@ Er is een Onderscheidingsteken voor trouwe en langdurige dienst brandweer.
 
 3. De kosten voor het onderscheidingsteken komen ten laste van de organisatie waar de brandweermedewerker het merendeel van de werkzaamheden als brandweermedewerker verricht.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Voor medewerkers van een bedrijfsbrandweer verzoekt het hoofd van de inrichting waar de brandweermedewerker die in aanmerking komt voor een onderscheidingsteken werkzaam is, aan het bevoegd gezag van de brandweer ten behoeve waarvan de bedrijfsbrandweer taken vervult, het onderscheidingsteken toe te kennen.
 
@@ -74,7 +100,7 @@ Er is een Onderscheidingsteken voor trouwe en langdurige dienst brandweer.
 
 3. Het bevoegd gezag kan het hoofd binnen de inrichting verzoeken de uitreiking te verzorgen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het onderscheidingsteken bestaat uit een Maltezer kruis met een diameter van 45 mm, met in het hart een rond schild met een diameter van 15 mm. De achterzijde van het kruis is vlak. Het onderscheidingsteken hangt aan een lint.
 
@@ -100,7 +126,7 @@ Er is een Onderscheidingsteken voor trouwe en langdurige dienst brandweer.
 
 4. Het onderscheidingsteken wordt gedragen op borsthoogte op de linkerzijde.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Degene aan wie het onderscheidingsteken is toegekend, is gerechtigd tot het dragen van een baton op het uniform. De baton is voor de onderscheiden dienstjaren verschillend vormgegeven:
 
@@ -122,15 +148,15 @@ Er is een Onderscheidingsteken voor trouwe en langdurige dienst brandweer.
 
 2. De miniatuur van het onderscheidingsteken bestaat uit een kleinere versie van het onderscheidingsteken en hangt aan een lint. De diameter van het onderscheidingsteken is 16 mm en van het schild 6 mm. Het lint is 16 mm breed en de vijf banen zijn respectievelijk 5, 2, 2, 2 en 5 mm breed.
 
-#### Artikel 9
+##### Artikel 9
 
 Onderscheidingen voor trouwe en langdurige dienst bij de brandweer die zijn verleend voorafgaand aan de inwerkingtreding van dit besluit, worden voor de toepassing van het Besluit draagvolgorde onderscheidingen gelijkgesteld aan het onderscheidingsteken.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit treedt in werking met ingang van de eerste dag van de eerste kalendermaand na de datum van uitgifte van het Staatsblad, waarin het wordt geplaatst.
 
-#### Artikel 11
+##### Artikel 11
 
 Dit besluit wordt aangehaald als: Besluit onderscheidingsteken trouwe en langdurige dienst brandweer.
 

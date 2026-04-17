@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Socialistische Federatieve Republiek Joegoslavië tot het vermijden van dubbele belasting met betrekking tot belastingen naar het inkomen en naar het vermogen"
 identifier: "BWBV0006315"
-categorie: "Belastingrecht"
-publicatiedatum: 2005-12-31
-laatste_update: 2005-12-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006315"
+country: "nl"
+rank: "verdrag"
+publication_date: "2005-12-31"
+last_updated: "2005-12-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006315"
+soort: "verdrag"
+stam_id: "10005160413"
+version_id: "10005577922"
+internal_id: "C10008619461"
+label_id: "10005143904"
+dtd_version: "2.0"
+original_entry_into_force: "2005-12-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006315/2005-12-31/0"
+intitule_bron: "Trb.2009-34"
+intitule_effect: "intrekking-regeling"
+intitule_published: "2009-03-13"
+intitule_in_force: "2009-03-13"
+intitule_status: "vervallen"
+original_publication: "Trb.2009-34"
+original_published_date: "2009-03-13"
+original_effect: "intrekking-regeling"
+original_url_id: "trb-2009-34"
+entry_into_force_date: "2005-12-31"
+jci_1_3: "jci1.3:c:BWBV0006315&z=2005-12-31&g=2005-12-31"
+jci_1_0: "1.0:c:BWBV0006315&g=2005-12-31"
+citeertitel_status: "redactioneel"
+entry_into_force: "2005-12-31"
 ---
-
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Socialistische Federatieve Republiek Joegoslavië tot het vermijden van dubbele belasting met betrekking tot belastingen naar het inkomen en naar het vermogen
 
 Het Koninkrijk der Nederlanden
@@ -20,157 +42,157 @@ De wens koesterende een overeenkomst te sluiten tot het vermijden van dubbele be
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Personen op wie de Overeenkomst van toepassing is
+##### Artikel 1. Personen op wie de Overeenkomst van toepassing is
 
 Vervallen
 
-#### Artikel 2. Belastingen waarop de Overeenkomst van toepassing is
+##### Artikel 2. Belastingen waarop de Overeenkomst van toepassing is
 
 Vervallen
 
-#### Artikel 3. Algemene begripsbepalingen
+##### Artikel 3. Algemene begripsbepalingen
 
 Vervallen
 
-#### Artikel 4. Fiscale woonplaats
+##### Artikel 4. Fiscale woonplaats
 
 Vervallen
 
-#### Artikel 5. Vaste inrichting
+##### Artikel 5. Vaste inrichting
 
 Vervallen
 
-#### Artikel 6. Inkomsten uit onroerende goederen
+##### Artikel 6. Inkomsten uit onroerende goederen
 
 Vervallen
 
-#### Artikel 7. Winst uit onderneming
+##### Artikel 7. Winst uit onderneming
 
 Vervallen
 
-#### Artikel 8. Zeevaart, binnenvaart en luchtvaart
+##### Artikel 8. Zeevaart, binnenvaart en luchtvaart
 
 Vervallen
 
-#### Artikel 9. Gelieerde ondernemingen
+##### Artikel 9. Gelieerde ondernemingen
 
 Vervallen
 
-#### Artikel 10. Dividenden
+##### Artikel 10. Dividenden
 
 Vervallen
 
-#### Artikel 11. Interest
+##### Artikel 11. Interest
 
 Vervallen
 
-#### Artikel 12. Royalty 's
+##### Artikel 12. Royalty 's
 
 Vervallen
 
-#### Artikel 13. Vermogenswinsten
+##### Artikel 13. Vermogenswinsten
 
 Vervallen
 
-#### Artikel 14. Zelfstandige arbeid
+##### Artikel 14. Zelfstandige arbeid
 
 Vervallen
 
-#### Artikel 15. Niet-zelfstandige arbeid
+##### Artikel 15. Niet-zelfstandige arbeid
 
 Vervallen
 
-#### Artikel 16. Bestuurders- en commissarissenbeloningen en beloningen verkregen ter zake van bestuurderswerkzaamheden in een gemeenschappelijke onderneming
+##### Artikel 16. Bestuurders- en commissarissenbeloningen en beloningen verkregen ter zake van bestuurderswerkzaamheden in een gemeenschappelijke onderneming
 
 Vervallen
 
-#### Artikel 17. Artiesten en sportbeoefenaars
+##### Artikel 17. Artiesten en sportbeoefenaars
 
 Vervallen
 
-#### Artikel 18. Pensioenen
+##### Artikel 18. Pensioenen
 
 Vervallen
 
-#### Artikel 19. Hoogleraren, andere docenten en onderzoekers
+##### Artikel 19. Hoogleraren, andere docenten en onderzoekers
 
 Vervallen
 
-#### Artikel 20. Studenten
+##### Artikel 20. Studenten
 
 Vervallen
 
-#### Artikel 21. Overige inkomsten
+##### Artikel 21. Overige inkomsten
 
 Vervallen
 
-#### Artikel 22. Vermogen
+##### Artikel 22. Vermogen
 
 Vervallen
 
-#### Artikel 23. Vermijding van dubbele belasting
+##### Artikel 23. Vermijding van dubbele belasting
 
 Vervallen
 
-#### Artikel 24. Non-discriminatie
+##### Artikel 24. Non-discriminatie
 
 Vervallen
 
-#### Artikel 25. Regeling voor onderling overleg
+##### Artikel 25. Regeling voor onderling overleg
 
 Vervallen
 
-#### Artikel 26. Uitwisseling van inlichtingen
+##### Artikel 26. Uitwisseling van inlichtingen
 
 Vervallen
 
-#### Artikel 27. Diplomatieke en consulaire ambtenaren
+##### Artikel 27. Diplomatieke en consulaire ambtenaren
 
 Vervallen
 
-#### Artikel 28. Inwerkingtreding
+##### Artikel 28. Inwerkingtreding
 
 Vervallen
 
-#### Artikel 29. Beëindiging
+##### Artikel 29. Beëindiging
 
 Vervallen
 
 Bij de ondertekening van de Overeenkomst tot het vermijden van dubbele belasting met betrekking tot belastingen naar het inkomen en naar het vermogen, heden tussen het Koninkrijk der Nederlanden en de Socialistische Federatieve Republiek Joegoslavië gesloten, zijn de ondergetekenden overeengekomen dat de volgende bepalingen een integrerend deel van de Overeenkomst vormen.
 
-#### I. Ad Artikel 4
+##### I. Ad Artikel 4
 
 Vervallen
 
-#### II. Ad Artikel 4
+##### II. Ad Artikel 4
 
 Vervallen
 
-#### III. Ad Artikel 6
+##### III. Ad Artikel 6
 
 Vervallen
 
-#### IV. Ad Artikel 8
+##### IV. Ad Artikel 8
 
 Vervallen
 
-#### V. Ad Artikelen 10 en 12
+##### V. Ad Artikelen 10 en 12
 
 Vervallen
 
-#### VI. Ad Artikel 11
+##### VI. Ad Artikel 11
 
 Vervallen
 
-#### VII. Ad Artikel 15
+##### VII. Ad Artikel 15
 
 Vervallen
 
-#### VIII. Ad Artikel 16
+##### VIII. Ad Artikel 16
 
 Vervallen
 
-#### IX. Ad Artikel 18
+##### IX. Ad Artikel 18
 
 Vervallen
 

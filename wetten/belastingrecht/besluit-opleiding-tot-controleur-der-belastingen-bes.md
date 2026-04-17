@@ -1,22 +1,47 @@
 ---
 title: "Besluit opleiding tot controleur der Belastingen BES"
 identifier: "BWBR0028492"
-categorie: "Belastingrecht"
-publicatiedatum: 2011-10-09
-laatste_update: 2011-10-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028492"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2011-10-09"
+last_updated: "2011-10-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028492"
+soort: "AMvB-BES"
+stam_id: "10815183"
+version_id: "17793672"
+internal_id: "C24754121"
+label_id: "10789924"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028492/2011-10-09/0"
+intitule_bron: "Stb.2010-492"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-23"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-492"
+original_signed_date: "2010-09-23"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-492"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028492&z=2011-10-09&g=2011-10-09"
+jci_1_0: "1.0:c:BWBR0028492&g=2011-10-09"
+citeertitel_status: "officieel"
+signed_date: "2010-09-23"
+entry_into_force: "2010-10-10"
 ---
-
 # Besluit opleiding tot controleur der Belastingen BES
 
-#### Artikel 1
+##### Artikel 1
 
 1. Bij ministeriële regeling kan in elk van de openbare lichamen voor de opleiding, vorming en training van ambtenaren bij de Belastingdienst een cursus worden ingesteld voor benoembaarheid tot controleur der Belastingen.
 
 2. Bij die regeling kan tevens de vergoeding van de docenten voor de vakken genoemd in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028492&artikel=9&z=2011-10-09&g=2011-10-09), en de met de dagelijkse leiding van de cursus belaste cursusleider worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De cursus duurt drie jaren en bestaat uit twee gedeelten:
 
@@ -26,7 +51,7 @@ bron: "https://wetten.overheid.nl/BWBR0028492"
 
 2. De cursusleider bepaalt jaarlijks de tijdvakken waarin de theoretische en de praktische vorming plaatsvindt, met dien verstande, dat de praktische vorming moet zijn voltooid op het tijdstip waarop de theoretische vorming een einde neemt.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Er is een Commissie van Toezicht van drie leden welke belast is met de organisatie van en het toezicht op de cursus. Bij ministeriële regeling kunnen functionarissen worden aangewezen die ambtshalve lid zijn van de commissie, waarbij kan worden bepaald dat een van die functionarissen als voorzitter van de commissie optreedt. De bedoelde functionarissen kunnen een plaatsvervanger aanwijzen.
 
@@ -34,17 +59,17 @@ bron: "https://wetten.overheid.nl/BWBR0028492"
 
 3. De cursusleider treedt op als secretaris van de Commissie van Toezicht.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het aantal lesuren voor de vakken, genoemd in [artikel 9l eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028492&artikel=9&z=2011-10-09&g=2011-10-09), alsmede de duur van de lesuren, wordt bij ministeriële regeling vastgesteld.
 
 2. Het rooster van lesuren wordt door Commissie van Toezicht na overleg met de docenten en de cursusleider vastgesteld of gewijzigd en tijdig bekend gemaakt aan de cursisten.
 
-#### Artikel 5
+##### Artikel 5
 
 De docenten en de cursusleider houden aantekening van de vorderingen en verzuim van de cursisten. De cursusleider doet hiervan tenminste eenmaal per kwartaal mededeling van de voorzitter van de Commissie van Toezicht.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Tot de cursus kunnen worden toegelaten zij die:
 
@@ -58,7 +83,7 @@ De docenten en de cursusleider houden aantekening van de vorderingen en verzuim 
 
 3. In afwijking van het in het eerste lid bepaalde, kunnen zij, die niet voldoen aan de in dat lid gestelde toelatingseisen, niettemin in bijzondere gevallen door de Commissie van Toezicht tot de cursus worden toegelaten.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De cursisten zijn geen lesgeld verschuldigd.
 
@@ -70,13 +95,13 @@ De docenten en de cursusleider houden aantekening van de vorderingen en verzuim 
 
 5. Geen schadevergoeding is verschuldigd indien de voortijdige verbreking van het dienstverband het gevolg is van welbewezen ziels- en of lichaamsgebreken, buiten eikgen toedoen ontstaan, ter beoordeling van de Gouverneur.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De cursisten die zonder geldige reden niet geregeld de lessen bijwonen of door slecht gedrag het onderwijs verstoren of belemmeren of niet voldoende presteren, of zich aan enig bedrog aan een examen schuldig maken, kunnen op schriftelijk voorstel van de cursusleider door de Commissie van Toezicht van de verdere deelname aan de cursus worden uitgesloten.
 
 2. Uitsluiting vindt in ieder geval plaats op het moment dat, naar het oordeel van de Commissie van Toezicht, onvoldoende kansen resteren op het succesvol beëindigen van de opleiding.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Gedurende de cursus wordt onderwijs gegeven in de volgende vakken:
 
@@ -102,7 +127,7 @@ De docenten en de cursusleider houden aantekening van de vorderingen en verzuim 
 
 2. De vakken a t/m i worden afgesloten met een schriftelijk examen. de vakken d, e en i worden tevens mondeling geëxamineerd. De Commissie van Toezicht kan bepalen dat tussentijdse (vrijstellende) tentamens worden afgenomen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. tot het afleggen van de examens worden slechts toegelaten de cursisten die zich hiervoor hebben aangemeld.
 
@@ -116,13 +141,13 @@ De examens worden tevens afgenomen onder toezicht van de voor ieder vak door de 
 
 5. Het zich niet aanmelden voor c.q. het niet deelnemen aan een aangemeld examen of herexamen wordt gelijkgesteld met een afwijzing met het cijfer 1 (één) als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028492&artikel=15&z=2011-10-09&g=2011-10-09).
 
-#### Artikel 11
+##### Artikel 11
 
 In het openbaar lichaam waar ingevolge [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028492&artikel=1&z=2011-10-09&g=2011-10-09), een cursus is ingesteld, vormen de betrokken docenten, de cursusleider, de leden van de Commissie van Toezicht de examencommissie voor dat openbaar lichaam.
 
 Een daartoe bij ministeriële regeling aangewezen functionaris of diens plaatsvervanger is ambtshalve voorzitter van de examencommissie. De secretaris van de Commissie van Toezicht is tevens secretaris van de examencommissie.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De examencommissie stelt een examenreglement vast waarin in ieder geval voorschriften worden opgenomen ten aanzien van:
 
@@ -142,7 +167,7 @@ In het examenreglement worden in elk geval de voorschriften ter zake in de bijla
 
 4. De leden van de examencommissie nemen de nodige maatregelen opdat ten opzichte van alles wat op d examens betrekking heeft geheimhouding in acht wordt genomen.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Het schriftelijk werk wordt door alle kandidaten die deelnemen aan eenzelfde examen, gelijktijdig gemaakt.
 
@@ -154,7 +179,7 @@ In het examenreglement worden in elk geval de voorschriften ter zake in de bijla
 
 5. De uitslag van het examen wordt op een door de voorzitter van de examencommissie belegde vergadering vastgesteld en zo spoedige mogelijk aan de kandidaten medegedeeld.
 
-#### Artikel 14
+##### Artikel 14
 
 Het oordeel over de kennis van de kandidaten wordt voor ieder vak uitgedrukt door een van de cijfer 1 t/m 10 – met eventueel de daartussen liggende decimalen – aan welke de volgende betekenis is te hechten:
 
@@ -165,7 +190,7 @@ Het oordeel over de kennis van de kandidaten wordt voor ieder vak uitgedrukt doo
 | 7. | ruim voldoende | 2. | slecht |
 | 6. | voldoende | 1. | zeer slecht |
 
-#### Artikel 15
+##### Artikel 15
 
 1. De eindcijferlijst wordt in een door de voorzitter van de examencommissie belegde vergadering vastgesteld.
 
@@ -173,23 +198,23 @@ Het oordeel over de kennis van de kandidaten wordt voor ieder vak uitgedrukt doo
 
 3. Op verzoek kan aan de niet-geslaagden een eindcijferlijst worden uitgereikt.
 
-#### Artikel 16
+##### Artikel 16
 
 Bij ministeriële regeling kan een vergoeding worden bepaald die de gecommitteerden en examinatoren genieten voor het afnemen van de examens.
 
-#### Artikel 17
+##### Artikel 17
 
 Het in de voorgaande artikelen ten aanzien van examens bepaalde is eveneens van toepassing op tentamens.
 
-#### Artikel 18
+##### Artikel 18
 
 Bij ministeriële regeling kunnen nadere voorschriften worden gegeven ten aanzien van onderwerpen waarin dit besluit niet voorziet.
 
-#### Artikel 19
+##### Artikel 19
 
 Dit besluit berust op [artikel 10, onder a, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=10).
 
-#### Artikel 20
+##### Artikel 20
 
 Dit besluit wordt aangehaald als: Besluit opleiding tot controleur der Belastingen BES.
 

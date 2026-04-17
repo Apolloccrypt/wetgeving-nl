@@ -1,14 +1,41 @@
 ---
-title: "Wet medisch-wetenschappelijk onderzoek met mensen"
+title: "Wet van 26 februari 1998, houdende regelen inzake medisch-wetenschappelijk onderzoek met mensen (Wet medisch-wetenschappelijk onderzoek met mensen)"
 identifier: "BWBR0009408"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009408"
+country: "nl"
+rank: "wet"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009408"
+soort: "wet"
+stam_id: "3028983"
+version_id: "24046812"
+internal_id: "C40009981"
+label_id: "2979694"
+dtd_version: "2.0"
+original_entry_into_force: "2022-01-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009408/2025-01-01/0"
+intitule_bron: "Stb.1998-161"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-02-26"
+intitule_published: "1998-03-26"
+intitule_in_force: "1999-03-30"
+intitule_status: "goed"
+original_publication: "Stb.2017-147"
+original_signed_date: "2017-03-22"
+original_published_date: "2017-04-10"
+original_effect: "structuurwijziging"
+original_dossier: "34429"
+original_url_id: "stb-2017-147"
+entry_into_force_date: "2022-01-31"
+jci_1_3: "jci1.3:c:BWBR0009408&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0009408&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet medisch-wetenschappelijk onderzoek met mensen"
+signed_date: "2017-03-22"
+entry_into_force: "2022-01-31"
 ---
-
-# Wet medisch-wetenschappelijk onderzoek met mensen
+# Wet van 26 februari 1998, houdende regelen inzake medisch-wetenschappelijk onderzoek met mensen (Wet medisch-wetenschappelijk onderzoek met mensen)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -66,7 +93,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 5. In afwijking van het vierde lid, is het bepaalde in de [artikelen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=1&artikel=2a&z=2025-01-01&g=2025-01-01), [3, eerste lid, onderdelen b, c, e, f, g, h en l](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=2&artikel=3&z=2025-01-01&g=2025-01-01), [3a, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=2&artikel=3a&z=2025-01-01&g=2025-01-01), [6, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=2&artikel=6&z=2025-01-01&g=2025-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=4&artikel=10&z=2025-01-01&g=2025-01-01) en [10a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=4&artikel=10a&z=2025-01-01&g=2025-01-01), van toepassing op ander klinisch onderzoek als bedoeld in artikel 82 van Verordening (EU) 2017/745.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Wetenschappelijk onderzoek wordt verricht overeenkomstig een daartoe opgesteld onderzoeksprotocol.
 
@@ -88,7 +115,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### Paragraaf 2. Regels voor wetenschappelijk onderzoek met proefpersonen
 
-#### Artikel 3
+##### Artikel 3
 
 1. De ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=1&artikel=2&z=2025-01-01&g=2025-01-01), bevoegde commissie kan slechts een positief oordeel over een onderzoeksprotocol geven, indien:
 
@@ -120,15 +147,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2. Indien geen sprake is van een standaardbehandeling als bedoeld in het eerste lid, onderdeel d, kan de bevoegde commissie, onverminderd het eerste lid, een positief oordeel over een onderzoeksprotocol geven indien het onderzoek slechts een minimaal risico en een minimale belasting inhoudt gezien de aard en ernst van de aandoening van de proefpersoon in het geval van wetenschappelijk onderzoek dat niet aan de betrokken proefpersoon zelf ten goede kan komen, met proefpersonen die de leeftijd van zestien jaar nog niet hebben bereikt of die niet in staat zijn tot een redelijke waardering van hun belangen ter zake.
 
-#### Artikel 4
+##### Artikel 4
 
 Het is verboden wetenschappelijk onderzoek te verrichten met proefpersonen die de leeftijd van zestien jaar nog niet hebben bereikt of die niet in staat zijn tot een redelijke waardering van hun belangen ter zake. Dit verbod is niet van toepassing op wetenschappelijk onderzoek dat mede aan de betrokken proefpersonen zelf ten goede kan komen en op wetenschappelijk onderzoek dat niet dan met medewerking van proefpersonen uit de categorie waartoe de proefpersoon behoort, kan worden verricht.
 
-#### Artikel 5
+##### Artikel 5
 
 Het is verboden wetenschappelijk onderzoek te verrichten met proefpersonen van wie redelijkerwijs moet worden aangenomen dat zij gezien de feitelijke of juridische verhouding tot degene die het onderzoek verricht of uitvoert of degene die de proefpersonen werft, niet in vrijheid over deelneming daaraan kunnen beslissen. Dit verbod is niet van toepassing op wetenschappelijk onderzoek dat mede aan de betrokken proefpersonen zelf ten goede kan komen en op wetenschappelijk onderzoek dat niet dan met medewerking van proefpersonen uit de categorie waartoe de proefpersoon behoort, kan worden verricht.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het is verboden wetenschappelijk onderzoek te verrichten:
 
@@ -168,7 +195,7 @@ Het is verboden wetenschappelijk onderzoek te verrichten met proefpersonen van w
 
 #### Paragraaf 3. Aansprakelijkheid en verzekering
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het wetenschappelijk onderzoek wordt slechts verricht indien op het tijdstip waarop het onderzoek aanvangt, een verzekering is gesloten die de bij algemene maatregel van bestuur aangewezen door het onderzoek veroorzaakte schade door dood of letsel van de proefpersoon dekt. De verzekering behoeft niet te dekken de schade waarvan op grond van de aard van het onderzoek zeker of nagenoeg zeker was dat deze zich zou voordoen.
 
@@ -194,19 +221,19 @@ Het is verboden wetenschappelijk onderzoek te verrichten met proefpersonen van w
 
 #### Paragraaf 3. Aansprakelijkheid en verzekering
 
-#### Artikel 8
+##### Artikel 8
 
 1. De verplichting zorg te dragen voor de nakoming van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=3&artikel=7&z=2025-01-01&g=2025-01-01) rust op degene die het wetenschappelijk onderzoek verricht.
 
 2. De verplichting zorg te dragen voor de nakoming van [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=1&artikel=2&z=2025-01-01&g=2025-01-01), rust op degene die het wetenschappelijk onderzoek verricht en in het geval bedoeld in [artikel 7, achtste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=3&artikel=7&z=2025-01-01&g=2025-01-01), mede op de facilitaire instelling.
 
-#### Artikel 9
+##### Artikel 9
 
 Degene die het wetenschappelijk onderzoek verricht, draagt er zorg voor dat de proefpersoon zich voor inlichtingen en advies betreffende het onderzoek kan wenden tot een in het onderzoeksprotocol aan te wijzen arts die niet bij de uitvoering van het onderzoek is betrokken of een andere deskundige die in staat moet worden geacht de proefpersoon adequaat van inlichtingen en advies betreffende het onderzoek te voorzien en die niet bij de uitvoering van het onderzoek is betrokken.
 
 #### Paragraaf 5. Verdere verplichtingen van degene die het wetenschappelijk onderzoek uitvoert
 
-#### Artikel 10
+##### Artikel 10
 
 1. Degene die het wetenschappelijk onderzoek uitvoert, rapporteert alle ernstige ongewenste voorvallen, met uitzondering van de ernstige ongewenste voorvallen waarover volgens het onderzoeksprotocol geen onmiddellijke rapportage door degene die het wetenschappelijk onderzoek uitvoert, is vereist, onmiddellijk aan degene die het wetenschappelijk onderzoek verricht. De onmiddellijke rapportage wordt gevolgd door gedetailleerde schriftelijke rapporten, waarin de proefpersonen met codenummer worden aangeduid.
 
@@ -230,7 +257,7 @@ Degene die het wetenschappelijk onderzoek verricht, draagt er zorg voor dat de p
 
 7. De centrale commissie brengt ieder kalenderjaar verslag uit van het aantal ernstige ongewenste voorvallen in het voorafgaande kalenderjaar, met uitzondering van die ernstige ongewenste voorvallen waarover volgens het onderzoeksprotocol geen rapportage is vereist.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Degene die het wetenschappelijk onderzoek uitvoert, draagt er zorg voor dat de proefpersoon tijdig wordt ingelicht over:
 
@@ -242,17 +269,17 @@ Degene die het wetenschappelijk onderzoek verricht, draagt er zorg voor dat de p
 
 3. De verplichtingen, bedoeld in het eerste en tweede lid, gelden tevens ten opzichte van de andere personen van wie op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=2&artikel=6&z=2025-01-01&g=2025-01-01) de toestemming is vereist.
 
-#### Artikel 12
+##### Artikel 12
 
 Degene die het wetenschappelijk onderzoek uitvoert draagt er zorg voor dat de persoonlijke levenssfeer van de proefpersoon zoveel mogelijk wordt beschermd.
 
-#### Artikel 13
+##### Artikel 13
 
 Degene die het wetenschappelijk onderzoek uitvoert draagt er zorg voor dat, alvorens de uitvoering van een onderzoek een aanvang neemt, degenen wier beroepsmatige medewerking nodig is bij de uitvoering van het onderzoek, over de aard en het doel van het onderzoek zijn ingelicht.
 
 #### Paragraaf 6. De commissies
 
-#### Artikel 14
+##### Artikel 14
 
 1. Er is een centrale commissie voor medisch-wetenschappelijk onderzoek. Zij heeft ten hoogste tweeëndertig leden. De [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) is op de centrale commissie van toepassing, met uitzondering van [artikel 22 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=22), voor zover het besluiten betreft die de centrale commissie neemt ter uitvoering van deze wet en de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&artikel=10), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&artikel=16) en [19 van de Embryowet](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&artikel=19).
 
@@ -266,11 +293,11 @@ Degene die het wetenschappelijk onderzoek uitvoert draagt er zorg voor dat, alvo
 
 6. De centrale commissie regelt haar werkwijze bij een reglement. Het reglement bevat een voorziening op grond waarvan een lid of een plaatsvervangend lid van de centrale commissie niet deelneemt aan de beoordeling van een onderzoeksprotocol indien het betrokken is bij het verrichten dan wel uitvoeren van het te beoordelen wetenschappelijk onderzoek. In van toepassing zijnde gevallen bevat het reglement een voorziening op grond waarvan de beoordeling van onderzoeksprotocollen plaatsvindt in overeenstemming met het bepaalde in artikel 71, eerste en tweede lid, van Verordening (EU) 2017/745, artikel 67, eerste en tweede lid, van Verordening (EU) 2017/746 en artikel 9, eerste lid, van Verordening (EU) 536/2014.
 
-#### Artikel 15
+##### Artikel 15
 
 De centrale commissie heeft een secretariaat, ten behoeve waarvan Onze Minister namens de Staat, gehoord de centrale commissie, arbeidsovereenkomsten aangaat, wijzigt en beëindigt.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De centrale commissie kan commissies erkennen, die belast zijn met de toetsing van onderzoeksprotocollen overeenkomstig het bepaalde bij of krachtens deze wet of de [Embryowet](https://wetten.overheid.nl/jci1.3:c:BWBR0013797).
 
@@ -294,23 +321,23 @@ De centrale commissie heeft een secretariaat, ten behoeve waarvan Onze Minister 
 
 3. Bij de toepassing van de voorwaarden voor erkenning, bedoeld in het tweede lid, onderdelen a, b en d, kan de centrale commissie de aard van de aan de commissie voor te leggen onderzoeksprotocollen in ogenschouw nemen.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De centrale commissie brengt een erkenning als bedoeld in artikel 16, eerste lid, terstond ter kennis van Onze Minister.
 
 2. Van een erkenning als bedoeld in artikel 16, eerste lid, wordt door de zorg van Onze Minister mededeling gedaan in de Staatscourant.
 
-#### Artikel 18
+##### Artikel 18
 
 Een commissie doet van een wijziging van haar reglement en van haar opheffing schriftelijk mededeling aan de centrale commissie.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Binnen zes weken na de indiening van een protocol betreffende een wetenschappelijk onderzoek als bedoeld in de [tweede volzin van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=2&artikel=4&z=2025-01-01&g=2025-01-01), waarbij de toestand van de proefpersoon niet opzettelijk wordt gewijzigd, kan de commissie besluiten de beoordeling daarvan over te dragen aan de centrale commissie. De commissie doet degene die het protocol heeft ingediend, mededeling van de overdracht.
 
 2. De centrale commissie kan bepalen dat de beoordeling van protocollen betreffende een door haar aangewezen vorm van wetenschappelijk onderzoek als bedoeld in het eerste lid door haar geschiedt.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Als vergoeding voor de met de beoordeling van een onderzoeksprotocol samenhangende kosten kan de ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=1&artikel=2&z=2025-01-01&g=2025-01-01), bevoegde commissie bij degene die het onderzoeksprotocol ter beoordeling bij haar indient, een bedrag in rekening brengen.
 
@@ -320,7 +347,7 @@ Een commissie doet van een wijziging van haar reglement en van haar opheffing sc
 
 4. Bij ministeriële regeling kunnen maximale tarieven worden vastgesteld voor de bedragen, bedoeld in het tweede en derde lid, die in rekening worden gebracht.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Bij algemene maatregel van bestuur kan worden bepaald dat de op grond van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5&artikel=16&z=2025-01-01&g=2025-01-01) erkende commissies nagaan of er bij de maatregel aan te wijzen vormen van wetenschappelijk onderzoek waarover de desbetreffende commissie ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=1&artikel=2&z=2025-01-01&g=2025-01-01) haar oordeel heeft gegeven, gegronde redenen zijn om aan te nemen dat voortzetting van het wetenschappelijk onderzoek zou leiden tot onaanvaardbare risico’s voor de proefpersoon. In dat geval kan de commissie een nader oordeel over het onderzoeksprotocol geven. [Artikel 10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=4&artikel=10&z=2025-01-01&g=2025-01-01), is van toepassing.
 
@@ -328,7 +355,7 @@ Een commissie doet van een wijziging van haar reglement en van haar opheffing sc
 
 3. Het eerste en tweede lid zijn van overeenkomstige toepassing ten aanzien van de centrale commissie, voor zover deze ingevolge [artikel 2, tweede lid, onderdeel b, onder 2°, 3° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=1&artikel=2&z=2025-01-01&g=2025-01-01), is belast met de beoordeling van onderzoeksprotocollen.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De commissie zendt aan de centrale commissie afschrift van elk ingevolge deze wet gegeven oordeel alsmede van het desbetreffende onderzoeksprotocol of de hoofdzaken daarvan binnen zeven dagen na de dag waarop het oordeel gegeven is. Voorts doet de commissie van de in [artikel 10, vijfde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=4&artikel=10&z=2025-01-01&g=2025-01-01), bedoelde mededelingen binnen zeven dagen na ontvangst ervan melding bij de centrale commissie.
 
@@ -336,7 +363,7 @@ Een commissie doet van een wijziging van haar reglement en van haar opheffing sc
 
 3. De commissie verleent aan de centrale commissie alle medewerking die voor de vervulling van haar taak redelijkerwijs nodig is.
 
-#### Artikel 23
+##### Artikel 23
 
 Een belanghebbende kan administratief beroep instellen bij de centrale commissie tegen een door een commissie:
 
@@ -344,7 +371,7 @@ Een belanghebbende kan administratief beroep instellen bij de centrale commissie
 
 - b. op grond van de verordening genomen besluit.
 
-#### Artikel 24
+##### Artikel 24
 
 1. De centrale commissie houdt toezicht op de werkzaamheden van de commissies. Zij kan richtlijnen vaststellen ter zake van de door hen overeenkomstig deze wet te verrichten werkzaamheden. Zodanige richtlijnen worden door de zorg van Onze Minister bekend gemaakt in de Staatscourant.
 
@@ -352,7 +379,7 @@ Een belanghebbende kan administratief beroep instellen bij de centrale commissie
 
 3. De voordracht voor een krachtens het tweede lid vast te stellen algemene maatregel van bestuur wordt niet gedaan dan vier weken nadat het ontwerp aan de beide kamers der Staten-Generaal is overgelegd.
 
-#### Artikel 25
+##### Artikel 25
 
 1. De centrale commissie trekt een aan een commissie verleende erkenning in indien:
 
@@ -368,17 +395,17 @@ Een belanghebbende kan administratief beroep instellen bij de centrale commissie
 
 4. Van de intrekking wordt schriftelijk mededeling gedaan aan de commissie. [Artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5&artikel=17&z=2025-01-01&g=2025-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 26
+##### Artikel 26
 
 Vervallen
 
-#### Artikel 27
+##### Artikel 27
 
 Elke vijf jaar brengt de centrale commissie een rapport uit aan Onze Minister, waarin de taakvervulling van de centrale commissie aan een onderzoek wordt onderworpen en voorstellen kunnen worden gedaan voor gewenste veranderingen.
 
 #### Paragraaf 7. Verdere bepalingen
 
-#### Artikel 28
+##### Artikel 28
 
 1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet en van het bepaalde bij of krachtens de verordening en van het bepaalde bij of krachtens Verordening (EU) 2017/745, Verordening (EU) 2017/746 en Verordening (EU) 536/2014 zijn belast de ambtenaren van de inspectie.
 
@@ -386,7 +413,7 @@ Elke vijf jaar brengt de centrale commissie een rapport uit aan Onze Minister, w
 
 3. Voor zover de desbetreffende beroepsbeoefenaar uit hoofde van ambt, beroep of wettelijk voorschrift tot geheimhouding van het dossier en de daarin opgenomen persoonsgegevens verplicht is, kan diegene deze verplichting, in afwijking van [artikel 5:20, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), niet inroepen tegenover de toezichthouder. Op de toezichthouder rust dezelfde geheimhoudingsplicht als op de desbetreffende beroepsbeoefenaar.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Degene die het wetenschappelijk onderzoek verricht, kan voor wetenschappelijk onderzoek met medische hulpmiddelen een in Nederland gevestigde contactpersoon aanwijzen als bedoeld in artikel 62, tweede lid, tweede alinea, van [Verordening (EU) 2017/745](32645R2017) en in artikel 58, vierde lid, tweede alinea, van [Verordening (EU) 2017/746](32646R2017). Artikel 62, tweede lid, eerste alinea, van [Verordening (EU) 2017/745](32645R2017) en artikel 58, vierde lid, eerste alinea, van [Verordening (EU) 2017/746](32646R2017) zijn in dat geval niet van toepassing.
 
@@ -394,11 +421,11 @@ Elke vijf jaar brengt de centrale commissie een rapport uit aan Onze Minister, w
 
 3. Degene die het wetenschappelijk onderzoek verricht, kan voor wetenschappelijk onderzoek met geneesmiddelen een in de Europese Unie gevestigde contactpersoon aanwijzen als bedoeld in artikel 74, derde lid, van [Verordening (EU) 536/2014](32014R0536). Artikel 74, eerste lid, van [Verordening (EU) 536/2014](32014R0536) is in dat geval niet van toepassing.
 
-#### Artikel 30
+##### Artikel 30
 
 De toepassing van deze wet door de commissies geschiedt met inachtneming van de voor de rijksdienst geldende nationale en internationale voorschriften ter beveiliging van gegevens waarvan geheimhouding door het belang van de Staat of van zijn bondgenoten is geboden.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kan, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, artikel 32 in werking worden gesteld.
 
@@ -412,7 +439,7 @@ De toepassing van deze wet door de commissies geschiedt met inachtneming van de 
 
 6. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt in ieder geval geplaatst in het Staatsblad.
 
-#### Artikel 32
+##### Artikel 32
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
@@ -420,7 +447,7 @@ Onze Minister kan, in overeenstemming met Onze Minister van Defensie, de artikel
 
 #### Paragraaf 6. De commissies
 
-#### Artikel 33
+##### Artikel 33
 
 1. Overtreding van artikel 62, vierde lid, onderdeel f, van [Verordening (EU) 2017/745](32645R2017), artikel 58, vijfde lid, onderdeel f, van [Verordening (EU) 2017/746](32646R2017), artikel 28, eerste lid, aanhef en onderdeel c, van [Verordening (EU) 536/2014](32014R0536), en van artikel 6, eerste lid, van deze wet, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie.
 
@@ -428,15 +455,15 @@ Onze Minister kan, in overeenstemming met Onze Minister van Defensie, de artikel
 
 #### Paragraaf 9. Slotbepalingen
 
-#### Artikel 34
+##### Artikel 34
 
 Wijzigt de Coördinatiewet uitzonderingstoestanden.
 
-#### Artikel 35
+##### Artikel 35
 
 Onze Minister wijst het nationale aanspreekpunt aan, bedoeld in artikel 83 van Verordening (EU) 536/2014.
 
-#### Artikel 36
+##### Artikel 36
 
 1. Voor de toepassing van dit artikel wordt verstaan onder:
 
@@ -450,29 +477,29 @@ Onze Minister wijst het nationale aanspreekpunt aan, bedoeld in artikel 83 van V
 
 4. Indien de aanvraag om een beoordeling van een onderzoeksprotocol voor een wetenschappelijk onderzoek met geneesmiddelen is gedaan tussen 28 mei 2016 en 28 mei 2017 en de bekendmaking van de mededeling heeft plaatsgevonden voor 28 november 2015, kan met de uitvoering van die klinische proef worden aangevangen indien is voldaan aan het bepaalde in de artikelen 2, tweede lid, 2a, 3, 4, 6, eerste tot en met achtste lid, 7, 13c, 13g en 13i, van deze wet, zoals deze luidde op dag voorafgaand aan de dag met ingang waarvan Verordening (EU) 536/2014 van toepassing is. Dit overgangsregime geldt tot 28 mei 2019.
 
-#### Artikel 37
+##### Artikel 37
 
 1. Onze Minister zendt binnen vier jaar na de inwerkingtreding van deze wet, en vervolgens elke vijf jaar, aan de Staten-Generaal een verslag over de doeltreffendheid en effecten van deze wet in de praktijk.
 
 2. De opvattingen van Onze Minister over het in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5&artikel=27&z=2025-01-01&g=2025-01-01) bedoelde rapport en het verslag, bedoeld in [artikel 39, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=39), zijn onderdeel van het in het eerste lid bedoelde verslag.
 
-#### Artikel 38
+##### Artikel 38
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden gesteld.
 
-#### Artikel 39
+##### Artikel 39
 
 Deze wet wordt aangehaald als: Wet medisch-wetenschappelijk onderzoek met mensen.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 2a
+##### Artikel 2a
 
 Wetenschappelijk onderzoek, met inbegrip van wetenschappelijk onderzoek dat volgens één bepaald onderzoeksprotocol wordt uitgevoerd op verschillende locaties, wordt beoordeeld door één bevoegde commissie daartoe aangewezen door degene die het onderzoek verricht.
 
 #### Paragraaf 2. Regels voor wetenschappelijk onderzoek met proefpersonen
 
-#### Artikel 3a
+##### Artikel 3a
 
 1. Een commissie kan een door haar gegeven positief oordeel over een onderzoeksprotocol opschorten of intrekken indien er gegronde redenen zijn om aan te nemen dat voortzetting van het wetenschappelijk onderzoek zou leiden tot onaanvaardbare risico’s voor de proefpersoon.
 
@@ -498,21 +525,21 @@ Wetenschappelijk onderzoek, met inbegrip van wetenschappelijk onderzoek dat volg
 
 #### Paragraaf 5. De commissies
 
-#### Artikel 13a
+##### Artikel 13a
 
 Op wetenschappelijk onderzoek met geneesmiddelen is naast het bepaalde in de [paragrafen 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=1&z=2021-07-01&g=2021-07-01) het bepaalde in deze paragraaf van toepassing.
 
-#### Artikel 13b
+##### Artikel 13b
 
 1. Wetenschappelijk onderzoek met geneesmiddelen, met inbegrip van onderzoek naar de biologische beschikbaarheid en de biologische equivalentie, is wat betreft opzet, uitvoering en rapportage in overeenstemming met de beginselen van goede klinische praktijken.
 
 2. Bij of krachtens algemene maatregel van bestuur worden regels betreffende goede klinische praktijken vastgesteld.
 
-#### Artikel 13c
+##### Artikel 13c
 
 Het is verboden in het kader van gentherapie wetenschappelijk onderzoek met geneesmiddelen te verrichten dat gericht is op modificatie van de kiembaan en de daarin vastgelegde genetische identiteit van de proefpersoon.
 
-#### Artikel 13d
+##### Artikel 13d
 
 Onverminderd het bepaalde in[paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=2&z=2021-07-01&g=2021-07-01) kan de ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=1&artikel=2&z=2021-07-01&g=2021-07-01), bevoegde commissie slechts een positief oordeel geven over een onderzoeksprotocol dat betrekking heeft op wetenschappelijk onderzoek met geneesmiddelen indien:
 
@@ -522,7 +549,7 @@ Onverminderd het bepaalde in[paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BW
 
 - c. een op grond van de [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251) geregistreerde arts of tandarts, werkzaam in de gezondheidszorg, verantwoordelijk is voor de medische verzorging en de medische beslissingen over de proefpersoon.
 
-#### Artikel 13e
+##### Artikel 13e
 
 Onverminderd het bepaalde in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=2&z=2021-07-01&g=2021-07-01) mag wetenschappelijk onderzoek met geneesmiddelen bij proefpersonen die de leeftijd van zestien jaar nog niet hebben bereikt slechts worden verricht indien:
 
@@ -532,7 +559,7 @@ Onverminderd het bepaalde in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:B
 
 - c. de belangen van de patiënt altijd prevaleren boven die van de wetenschap en de samenleving.
 
-#### Artikel 13f
+##### Artikel 13f
 
 Onverminderd het bepaalde in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=2&z=2021-07-01&g=2021-07-01) mag wetenschappelijk onderzoek met geneesmiddelen bij proefpersonen die de leeftijd van zestien jaar hebben bereikt en die niet in staat zijn tot een redelijke waardering van hun belangen ter zake, slechts worden uitgevoerd indien:
 
@@ -544,7 +571,7 @@ Onverminderd het bepaalde in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:B
 
 - d. de redelijke verwachting bestaat dat de voordelen van toediening van het geneesmiddel voor onderzoek voor de patiënt in kwestie opwegen tegen de risico’s of dat aan de toediening in het geheel geen risico verbonden is.
 
-#### Artikel 13g
+##### Artikel 13g
 
 1. De ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=1&artikel=2&z=2021-07-01&g=2021-07-01), bevoegde commissie geeft haar oordeel mede gelet op het onderzoekersdossier en beslist op een aanvraag tot het verkrijgen van een positief oordeel over een onderzoeksprotocol met betrekking tot wetenschappelijk onderzoek met geneesmiddelen binnen zestig dagen na ontvangst van de aanvraag.
 
@@ -554,13 +581,13 @@ Onverminderd het bepaalde in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:B
 
 4. De in het eerste en derde lid genoemde termijnen gelden niet voor de beoordeling van wetenschappelijk onderzoek met geneesmiddelen voor xenogene celtherapie.
 
-#### Artikel 13h
+##### Artikel 13h
 
 1. Een aanvraag om een oordeel van een daartoe ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=1&artikel=2&z=2021-07-01&g=2021-07-01), bevoegde commissie over een wetenschappelijk onderzoek met geneesmiddelen moet voldoen aan bij ministeriële regeling gestelde regels. Deze regels betreffen de vorm van het verzoek en de bescheiden die daarbij moeten worden overgelegd, met name ten aanzien van de informatie die aan proefpersonen wordt verstrekt, en de adequate waarborgen ter bescherming van persoonlijke gegevens.
 
 2. Indien de in het eerste lid bedoelde aanvraag betrekking heeft op wetenschappelijk onderzoek met geregistreerde geneesmiddelen, behoeft bij de aanvraag slechts de samenvatting van de productinformatie zoals die bij de registratie is vastgesteld te worden verstrekt. Indien sprake is van een ten opzichte van de registratie afwijkende toedieningsvorm, indicatie, patiëntengroep of dosering wordt de samenvatting van de productinformatie aangevuld met de voor het desbetreffende onderzoek relevante aanvullende informatie.
 
-#### Artikel 13i
+##### Artikel 13i
 
 1. Wetenschappelijk onderzoek met geneesmiddelen mag slechts worden uitgevoerd voor zover de centrale commissie daartegen niet binnen de in het derde lid bedoelde termijn gemotiveerde bezwaren kenbaar heeft gemaakt.
 
@@ -576,13 +603,13 @@ Onverminderd het bepaalde in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:B
 
 7. Bij ministeriële regeling kunnen regels worden gesteld betreffende de bedragen die voor de met de uitvoering van dit artikel gemoeide kosten door de centrale commissie of Onze Minister, ingeval het vijfde lid van artikel 13i van toepassing is, in rekening kunnen worden gebracht aan degene die de in het tweede lid bedoelde kennisgeving heeft gedaan.
 
-#### Artikel 13j
+##### Artikel 13j
 
 1. De centrale commissie of Onze Minister, ingeval het [vijfde lid van artikel 13i](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13i&z=2021-07-01&g=2021-07-01) van toepassing is, maakt gemotiveerd bezwaar indien in de Europese databank reeds bijwerkingen van het geneesmiddel voor onderzoek zijn opgenomen die leiden tot onaanvaardbare risico’s voor de proefpersoon of indien er anderszins aanwijzingen zijn dat het wetenschappelijk onderzoek leidt tot onaanvaardbare risico’s voor de proefpersoon.
 
 2. De inspectie controleert op verzoek van de centrale commissie of van Onze Minister, ingeval het [vijfde lid van artikel 13i](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13i&z=2021-07-01&g=2021-07-01) van toepassing is, of het wetenschappelijk onderzoek met geneesmiddelen naar verwachting kan plaats vinden overeenkomstig deze wet. Het bepaalde in [artikel 5:12](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12), [5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13) en [5:15 tot en met 5:20, eerste en tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15) is van overeenkomstige toepassing.
 
-#### Artikel 13k
+##### Artikel 13k
 
 1. Na aanvang van het onderzoek kan degene die het wetenschappelijk onderzoek verricht, het onderzoeksprotocol betreffende het wetenschappelijk onderzoek met geneesmiddelen wijzigen.
 
@@ -600,13 +627,13 @@ Onverminderd het bepaalde in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:B
 
 5. De in [artikel 13i, eerste of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13i&z=2021-07-01&g=2021-07-01), bedoelde instantie maakt uiterlijk binnen vijfendertig dagen na ontvangst van het voorstel tot wijziging van het protocol daartegen gemotiveerde bezwaren.
 
-#### Artikel 13l
+##### Artikel 13l
 
 1. Degene die het onderzoek verricht stelt de ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=1&artikel=2&z=2021-07-01&g=2021-07-01), bevoegde commissie, de in [artikel 13i, eerste of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13i&z=2021-07-01&g=2021-07-01), bedoelde instantie en in voorkomend geval de bevoegde instantie van een andere lidstaat binnen negentig dagen na het einde van een wetenschappelijk onderzoek met geneesmiddelen ervan op de hoogte dat het onderzoek beëindigd is.
 
 2. Wanneer het onderzoek voortijdig moet worden stopgezet, stelt degene die het onderzoek verricht de in [artikel 13i, eerste of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13i&z=2021-07-01&g=2021-07-01), bedoelde instantie en in voorkomend geval de bevoegde instantie van een andere lidstaat binnen vijftien dagen na de stopzetting onder opgaaf van redenen op de hoogte.
 
-#### Artikel 13m
+##### Artikel 13m
 
 1. De in [artikel 13i, eerste lid en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13i&z=2021-07-01&g=2021-07-01), bedoelde instantie stelt de bij of krachtens algemene maatregel van bestuur aangewezen gegevens betreffende wetenschappelijk onderzoek met geneesmiddelen, dat plaatsvindt in Nederland, ter beschikking van het College.
 
@@ -616,11 +643,11 @@ Onverminderd het bepaalde in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:B
 
 4. Bij ministeriële regeling kunnen nadere regels worden gesteld aangaande de methoden van elektronische gegevensuitwisseling.
 
-#### Artikel 13n
+##### Artikel 13n
 
 Indien de centrale commissie of Onze Minister, ingeval [artikel 13i, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13i&z=2021-07-01&g=2021-07-01) van toepassing is, objectieve redenen heeft om aan te nemen dat degene die het wetenschappelijk onderzoek met geneesmiddelen verricht of uitvoert of enige andere bij de proef betrokken persoon zijn verplichtingen niet langer nakomt, stelt de centrale commissie of Onze Minister deze daarvan onmiddellijk op de hoogte en geeft daarbij te kennen welke gedragslijn genoemde persoon moet volgen om de genoemde situatie te corrigeren. De centrale commissie of Onze Minister, ingeval [artikel 13i, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13i&z=2021-07-01&g=2021-07-01), van toepassing is, stelt onmiddellijk de ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=1&artikel=2&z=2021-07-01&g=2021-07-01), bevoegde commissie die als laatste haar oordeel heeft gegeven over het betreffende wetenschappelijke onderzoek met geneesmiddelen, de bevoegde instanties van andere lidstaten en de Europese Commissie van genoemde gedragslijn op de hoogte.
 
-#### Artikel 13o
+##### Artikel 13o
 
 1. Ongewenste voorvallen of abnormale laboratoriumwaarden die volgens het protocol voor de veiligheidsbeoordeling van cruciaal belang zijn, worden binnen de in het protocol vermelde termijn aan degene die het wetenschappelijk onderzoek verricht, gerapporteerd.
 
@@ -628,7 +655,7 @@ Indien de centrale commissie of Onze Minister, ingeval [artikel 13i, vijfde lid]
 
 3. Degene die het wetenschappelijk onderzoek verricht, houdt gedetailleerde registers bij van alle ongewenste voorvallen die hem door degene die het wetenschappelijk onderzoek uitvoert, worden gerapporteerd. Deze informatie wordt op verzoek overgedragen aan de inspectie en de centrale commissie of Onze Minister indien [artikel 13i, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13i&z=2021-07-01&g=2021-07-01), van toepassing is en de bevoegde instanties van de lidstaten op het grondgebied waarvan het wetenschappelijk onderzoek wordt verricht.
 
-#### Artikel 13p
+##### Artikel 13p
 
 1. Degene die wetenschappelijk onderzoek met geneesmiddelen verricht, draagt er zorg voor dat alle relevante informatie over vermoedens van onverwachte ernstige bijwerkingen van geneesmiddelen voor onderzoek die tot de dood van een proefpersoon hebben geleid of kunnen leiden, wordt geregistreerd en zo spoedig mogelijk doch uiterlijk binnen zeven dagen nadat hij daarvan kennis heeft genomen, wordt gerapporteerd aan het College, de centrale commissie, de betrokken bevoegde instanties van andere lidstaten en de ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=1&artikel=2&z=2021-07-01&g=2021-07-01), bevoegde commissie en dat relevante informatie over de nasleep daarvan binnen nog eens acht dagen wordt medegedeeld aan genoemde instanties.
 
@@ -638,7 +665,7 @@ Indien de centrale commissie of Onze Minister, ingeval [artikel 13i, vijfde lid]
 
 4. Het College draagt zorg voor de invoering van alle gemelde vermoedens van onverwachte ernstige bijwerkingen van een geneesmiddel voor onderzoek in een Europese databank, als bedoeld in [artikel 13m, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13m&z=2021-07-01&g=2021-07-01).
 
-#### Artikel 13q
+##### Artikel 13q
 
 Tijdens de gehele duur van het wetenschappelijk onderzoek met geneesmiddelen verstrekt degene die het onderzoek verricht, eenmaal per jaar een lijst van alle vermoedens van ernstige bijwerkingen van geneesmiddelen voor onderzoek, die zich in dat jaar hebben voorgedaan en een rapport betreffende de veiligheid van de proefpersonen aan:
 
@@ -648,7 +675,7 @@ Tijdens de gehele duur van het wetenschappelijk onderzoek met geneesmiddelen ver
 
 - c. de ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=1&artikel=2&z=2021-07-01&g=2021-07-01), bevoegde commissie.
 
-#### Artikel 13r
+##### Artikel 13r
 
 Bij ministeriële regeling kunnen eisen worden gesteld aan de rapportage, bedoeld in de [artikelen 13o](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13o&z=2021-07-01&g=2021-07-01), [13p](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13p&z=2021-07-01&g=2021-07-01) en [13q](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5a&artikel=13q&z=2021-07-01&g=2021-07-01).
 
@@ -660,7 +687,7 @@ Bij ministeriële regeling kunnen eisen worden gesteld aan de rapportage, bedoel
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 27a
+##### Artikel 27a
 
 1. Bij ministeriële regeling kan worden bepaald dat toezending van informatie, die op grond van deze wet moet worden verstrekt aan de centrale commissie, de commissie of de inspectie, elektronisch geschiedt. Daarbij kunnen regels worden gesteld inzake de vorm waarin dit dient te geschieden.
 
@@ -674,7 +701,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 10a
+##### Artikel 10a
 
 1. Indien de betrokken proefpersoon zich bij een in de [artikelen 4, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=2&artikel=4&z=2025-01-01&g=2025-01-01), of [5, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=2&artikel=5&z=2025-01-01&g=2025-01-01), bedoeld wetenschappelijk onderzoek verzet tegen een handeling waaraan hij wordt onderworpen of tegen een aan hem opgelegde gedragswijze, vindt het onderzoek niet plaats met die proefpersoon.
 
@@ -690,7 +717,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 28a
+##### Artikel 28a
 
 Vervallen
 
@@ -698,7 +725,7 @@ Vervallen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 17a
+##### Artikel 17a
 
 1. Onverminderd het elders in deze wet bepaalde is de centrale commissie belast met:
 
@@ -718,7 +745,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 4. Indien de centrale commissie een aanvraagdossier beoordeelt als bedoeld in artikel 70, eerste lid, van Verordening (EU) 2017/745, artikel 66, eerste lid, van Verordening (EU) 2017/746 of in artikel 5, eerste lid, van Verordening (EU) 536/2014, neemt zij daarbij het bepaalde bij of krachtens die verordeningen in acht.
 
-#### Artikel 24a
+##### Artikel 24a
 
 1. De centrale commissie kan richtlijnen vaststellen over de taal waarin een aanvraag als bedoeld in artikel 70, eerste lid, van Verordening (EU) 2017/745, of een aanvraagdossier als bedoeld in artikel 5, eerste lid, van Verordening (EU) 536/2014 wordt gesteld.
 
@@ -736,7 +763,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 #### Paragraaf 7. Handhavingsbepalingen
 
-#### Artikel 33a
+##### Artikel 33a
 
 De ambtenaren van de inspectie zijn bevoegd tot oplegging van een last onder dwangsom:
 
@@ -768,7 +795,7 @@ De ambtenaren van de inspectie zijn bevoegd tot oplegging van een last onder dwa
 
 - 3°. aan degene die wetenschappelijk onderzoek uitvoert terwijl de commissie een door haar gegeven positief oordeel over het onderzoeksprotocol heeft opgeschort of ingetrokken, of de centrale commissie de uitvoering van het onderzoek heeft opgeschort.
 
-#### Artikel 33b
+##### Artikel 33b
 
 1. Onze Minister is bevoegd tot oplegging van een bestuurlijke boete van ten hoogste € 150.000,–:
 

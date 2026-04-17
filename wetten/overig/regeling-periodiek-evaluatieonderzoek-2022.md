@@ -1,13 +1,39 @@
 ---
-title: "Regeling periodiek evaluatieonderzoek 2022"
+title: "Regeling van de Minister van Financiën van 11 juli 2022, houdende regels voor periodiek evaluatieonderzoek 2022 (Regeling periodiek evaluatieonderzoek 2022)"
 identifier: "BWBR0046970"
-categorie: "Overig"
-publicatiedatum: 2022-07-27
-laatste_update: 2022-07-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046970"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-07-27"
+last_updated: "2022-07-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046970"
+soort: "ministeriele-regeling"
+stam_id: "16436853"
+version_id: "28795562"
+internal_id: "C40773751"
+label_id: "16361114"
+dtd_version: "2.0"
+original_entry_into_force: "2022-07-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046970/2022-07-27/0"
+intitule_bron: "Stcrt.2022-19587"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-07-11"
+intitule_published: "2022-07-26"
+intitule_in_force: "2022-07-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-19587"
+original_signed_date: "2022-07-11"
+original_published_date: "2022-07-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-19587"
+entry_into_force_date: "2022-07-27"
+jci_1_3: "jci1.3:c:BWBR0046970&z=2022-07-27&g=2022-07-27"
+jci_1_0: "1.0:c:BWBR0046970&g=2022-07-27"
+citeertitel_status: "officieel"
+short_title: "Regeling periodiek evaluatieonderzoek 2022"
+signed_date: "2022-07-11"
+entry_into_force: "2022-07-27"
 ---
-
 # Regeling van de Minister van Financiën van 11 juli 2022, houdende regels voor periodiek evaluatieonderzoek 2022 (Regeling periodiek evaluatieonderzoek 2022)
 
 Gelet op [artikel 4.20, tweede lid, aanhef en onderdeel f, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=4.20);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1. Begrippen
+##### Artikel 1. Begrippen
 
 1. In deze regeling wordt verstaan onder:
 
@@ -44,7 +70,7 @@ Besluit:
 
 #### § 2. Strategische Evaluatie Agenda
 
-#### Artikel 2. Strategische Evaluatie Agenda
+##### Artikel 2. Strategische Evaluatie Agenda
 
 De begroting van een departement bevat een SEA die voldoet aan de volgende eisen:
 
@@ -66,7 +92,7 @@ De begroting van een departement bevat een SEA die voldoet aan de volgende eisen
 
 #### § 3. Kwaliteitseisen evaluatieonderzoek
 
-#### Artikel 3. Kwaliteitseisen evaluatieonderzoek
+##### Artikel 3. Kwaliteitseisen evaluatieonderzoek
 
 Evaluatieonderzoek voldoet aan de volgende kwaliteitseisen:
 
@@ -88,7 +114,7 @@ Evaluatieonderzoek voldoet aan de volgende kwaliteitseisen:
 
 #### § 4. Periodieke rapportage over doeltreffendheid en doelmatigheid
 
-#### Artikel 4. Periodieke rapportage per (beleids)thema
+##### Artikel 4. Periodieke rapportage per (beleids)thema
 
 1. De met het evaluatieonderzoek verkregen inzichten op een (beleids)thema worden, overeenkomstig de looptijd van de agendering van het (beleids)thema op de SEA bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046970&paragraaf=2&artikel=2&z=2022-07-27&g=2022-07-27), ten minste eens in de vier tot zeven jaar samengebracht in een periodieke rapportage. De periodieke rapportage wordt uiterlijk in het laatste jaar van de vooraf vastgestelde periode voor het thema afgerond.
 
@@ -126,13 +152,13 @@ Evaluatieonderzoek voldoet aan de volgende kwaliteitseisen:
 
 #### § 5. Evaluatieparagraaf
 
-#### Artikel 5. Evaluatieparagraaf
+##### Artikel 5. Evaluatieparagraaf
 
 Voorstellen aan de Tweede Kamer der Staten-Generaal die leiden tot een substantiële beleidswijziging (met financiële gevolgen van ten minste € 20 miljoen in enig jaar) bevatten een evaluatieparagraaf.
 
 #### § 6. Evaluatie van subsidieregelingen en fiscale regelingen
 
-#### Artikel 6. Evaluatie van subsidieregelingen
+##### Artikel 6. Evaluatie van subsidieregelingen
 
 Onverminderd het bepaalde in [artikel 4:24 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:24) geldt voor de evaluatie van subsidieregelingen die op een wettelijk voorschrift berusten aanvullend het volgende:
 
@@ -146,7 +172,7 @@ Onverminderd het bepaalde in [artikel 4:24 van de Algemene wet bestuursrecht](ht
 
 - e). evaluaties van subsidieregelingen kunnen worden opgenomen op de SEA bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046970&paragraaf=2&artikel=2&z=2022-07-27&g=2022-07-27). De bevindingen van subsidie-evaluaties kunnen worden meegenomen in periodieke rapportages.
 
-#### Artikel 7. Evaluatie van fiscale regelingen
+##### Artikel 7. Evaluatie van fiscale regelingen
 
 1. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046970&paragraaf=3&artikel=3&z=2022-07-27&g=2022-07-27) is van overeenkomstige toepassing op evaluaties van fiscale regelingen.
 
@@ -156,25 +182,25 @@ Onverminderd het bepaalde in [artikel 4:24 van de Algemene wet bestuursrecht](ht
 
 #### § 7. Evaluatie van wetgeving
 
-#### Artikel 8. Evaluatie van wetgeving
+##### Artikel 8. Evaluatie van wetgeving
 
 Evaluaties van wetgeving worden, onverminderd het bij of krachtens de wet bepaalde, opgenomen op de SEA, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046970&paragraaf=2&artikel=2&z=2022-07-27&g=2022-07-27). De bevindingen van wetsevaluaties worden meegenomen in periodieke rapportages.
 
 #### § 8. Evaluatie van zelfstandige bestuursorganen
 
-#### Artikel 9. Evaluatie van zelfstandige bestuursorganen
+##### Artikel 9. Evaluatie van zelfstandige bestuursorganen
 
 De periodieke verslagen, bedoeld in [artikel 39, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=39), worden opgenomen op de SEA bij de betreffende thema’s, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046970&paragraaf=2&artikel=2&z=2022-07-27&g=2022-07-27). De bevindingen van evaluaties van zelfstandige bestuursorganen worden meegenomen in periodieke rapportages.
 
 #### § 9. Evaluatie van agentschappen
 
-#### Artikel 10. Evaluatie van agentschappen
+##### Artikel 10. Evaluatie van agentschappen
 
 Doorlichtingen van de agentschappen, bedoeld in [artikel 7 van de Regeling agentschappen](https://wetten.overheid.nl/jci1.3:c:BWBR0040286&artikel=7), worden opgenomen op de SEA, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046970&paragraaf=2&artikel=2&z=2022-07-27&g=2022-07-27). De bevindingen van evaluaties van agentschappen kunnen worden meegenomen in periodieke rapportages.
 
 #### § 11. Slotbepalingen
 
-#### Artikel 11. Overgangsbepaling
+##### Artikel 11. Overgangsbepaling
 
 1. De [Regeling periodiek evaluatieonderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0040754&artikel=3) wordt ingetrokken met dien verstande dat reeds gestarte en geplande beleidsdoorlichtingen tot en met het uitvoeringsjaar 2023 (zoals opgenomen in de meerjarenplanning van beleidsdoorlichtingen in de begrotingen 2021 en 2022), in de evaluatieplanning van de SEA worden opgenomen en uitgevoerd.
 
@@ -182,15 +208,15 @@ Doorlichtingen van de agentschappen, bedoeld in [artikel 7 van de Regeling agent
 
 3. De eisen aan de SEA bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046970&paragraaf=2&artikel=2&z=2022-07-27&g=2022-07-27) van deze regeling, zijn met ingang van het begrotingsjaar 2024 van kracht. De ministers hebben een inspanningsverplichting om bij de begrotingen over 2022 en 2023 al zo veel als mogelijk te voldoen aan de eisen van artikel 2 van de regeling.
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 13. Evaluatiebepaling
+##### Artikel 13. Evaluatiebepaling
 
 De Minister van Financiën zendt binnen vijf jaar na de inwerkingtreding van deze regeling aan de Staten-Generaal een verslag over de werking van deze regeling in de praktijk.
 
-#### Artikel 14. Citeertitel
+##### Artikel 14. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling periodiek evaluatieonderzoek 2022.
 

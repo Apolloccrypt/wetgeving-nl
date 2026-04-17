@@ -1,20 +1,44 @@
 ---
 title: "Beleidsregel veiligheid zeeschepen"
 identifier: "BWBR0027556"
-categorie: "Bestuursrecht"
-publicatiedatum: 2010-07-30
-laatste_update: 2010-07-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027556"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2010-07-30"
+last_updated: "2010-07-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027556"
+soort: "beleidsregel"
+stam_id: "10507833"
+version_id: "17556772"
+internal_id: "C24297711"
+label_id: "10482954"
+dtd_version: "2.0"
+original_entry_into_force: "2010-07-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027556/2010-07-30/0"
+intitule_bron: "Stcrt.2008-158"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2008-08-18"
+intitule_in_force: "2008-08-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-11871"
+original_signed_date: "2010-04-22"
+original_published_date: "2010-07-28"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2010-11871"
+entry_into_force_date: "2010-07-29"
+jci_1_3: "jci1.3:c:BWBR0027556&z=2010-07-30&g=2010-07-30"
+jci_1_0: "1.0:c:BWBR0027556&g=2010-07-30"
+citeertitel_status: "officieel"
+signed_date: "2010-04-22"
+entry_into_force: "2010-07-29"
 ---
-
 # Beleidsregel veiligheid zeeschepen
 
 Gelet op [artikel 4:81, eerste lid van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
 
 Besluit:
 
-#### Artikel 1. Toepassing van resoluties en circulaires uitgegeven door de Internationale Maritieme organisatie (IMO)
+##### Artikel 1. Toepassing van resoluties en circulaires uitgegeven door de Internationale Maritieme organisatie (IMO)
 
 Bij de toepassing van de bij of krachtens de [Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876) geldende voorschriften uit het SOLAS-verdrag1Het op 1 november 1974 te Londen totstandgekomen verdrag voor de beveiliging van mensenlevens op zee (Trb. 1976, 157) en de bij dat verdrag behorende bindende protocollen, aanhangsels en bijlagen.en de daarbij behorende Codes en verplichte resoluties, zullen de nadere invullingen, interpretaties en aanbevelingen worden gehanteerd zoals vervat in de in onderstaande tabellen 1 tot en met 3 genoemde resoluties en circulaires van de Internationale Maritieme Organisatie van de Verenigde Naties.
 
@@ -99,7 +123,7 @@ Bij de toepassing van de bij of krachtens de [Schepenwet](https://wetten.overhei
 | MSC.1/Circ.1318 | MSC.1/Circ.1318 | Guidelines for the maintenance and inspections of fixed carbon dioxide fire-extinguishing systems | SOLAS hoofdstuk II-2 voorschrift 14.2.1.2 | [Artikelen 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=40) en [41, eerste en tweede lid, van het Schepenbesluit 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=41) |
 | MSC.1/Circ.1329 | MSC.1/Circ.1329 | Guidelines for uniform operating limitations of High-Speed Craft | HSC-code 2000 paragraaf 1.9 | [Artikel 42, van het Schepenbesluit 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=42) |
 
-#### Artikel 2. Beveiliging van schepen
+##### Artikel 2. Beveiliging van schepen
 
 In dit artikel worden de volgende, op de originele Engelse tekst van de ISPS-code gebaseerde, afkortingen gebruikt:
 
@@ -115,7 +139,7 @@ In dit artikel worden de volgende, op de originele Engelse tekst van de ISPS-cod
 
 In aanvulling op hetgeen in tabel 1.10 is aangegeven, wordt ten aanzien van de beveiliging van schepen tegen terrorisme, piraterij, criminaliteit en vandalisme de volgende nationale beleidsregel toegepast.
 
-#### Art. 2.1. Certificering bij registratie van bestaande schepen in Nederland
+##### Art. 2.1. Certificering bij registratie van bestaande schepen in Nederland
 
 Grondslag: EU-verordening 725/2004, art 3, eerste, tweede en derde lid
 
@@ -125,13 +149,13 @@ Bij registratie van bestaande schepen in Nederland als bedoeld in ISPS Code deel
 
 - 2. Indien er een nieuwe beheerder komt: De reguliere ISSC-procedure wordt doorlopen op grond waarvan een langlopend certificaat kan worden afgegeven. Daarbij kunnen delen van het oude SSP worden hergebruikt, voorzover deze geschikt zijn voor de nieuwe situatie. Zij worden door de RSO opnieuw in de nieuwe context beoordeeld Eventueel kan, mits voldaan is aan de voorwaarden van artikel 19.4.2 van deel A van de ISPS Code, de RSO op grond van art 19.4.1 van deel A van de ISPS code, eerst een interim certificaat afgeven.
 
-#### Art. 2.2. Certificering bij Nieuwbouw
+##### Art. 2.2. Certificering bij Nieuwbouw
 
 Grondslag: EU-verordening 725/2004, art 3, eerste, tweede en derde lid
 
 Bij nieuwbouw wordt de gehele reguliere ISSC procedure doorlopen, op grond waarvan een langlopend certificaat kan worden afgegeven. Eventueel kan, mits voldaan is aan de voorwaarden van artikel 19.4.2 van deel A van de ISPS Code, de RSO op grond van art 19.4.1 van deel A van de ISPS code, eerst een interim certificaat afgeven.
 
-#### Art. 2.3. Veranderingen aan reeds goedgekeurde SSP’s en security uitrusting
+##### Art. 2.3. Veranderingen aan reeds goedgekeurde SSP’s en security uitrusting
 
 Grondslag: EU-verordening 725/2004, art 3 eerste, tweede, derde en vijfde lid
 
@@ -151,25 +175,25 @@ Veranderingen die niet de goedkeuring van de RSO behoeven, worden door de kapite
 
 - 2*. Evaluatie op basis van documentatie en, voorzover praktisch uitvoerbaar, verificatie aan boord
 
-#### Art. 2.4. Training en opleiding van de CSO
+##### Art. 2.4. Training en opleiding van de CSO
 
 Grondslag: EU-verordening 725/2004, art 3, eerste, tweede, derde en vierde lid
 
 De CSO moet beschikken over de kennis en vaardigheden die nodig zijn om de uit ISPS Code deel A art. 11 voortvloeiende taken naar behoren te verrichten (ISPS Code deel A art. 13.1). Daartoe dient de CSO tenminste te kunnen aantonen dat een training is gevolgd conform ISPS code deel B art. 13.1.
 
-#### Art. 2.5. Interne beoordelingen (reviews/audits) van het SSP
+##### Art. 2.5. Interne beoordelingen (reviews/audits) van het SSP
 
 Grondslag: EU-verordening 725/2004, art 3, vijfde lid
 
 Ter voldoening aan ISPS-code, deel B art. 1.12 en 9.2.6 wordt het SSP tussen twee opeenvolgende keuringen of herkeuringen in het kader van de vernieuwing van het certificaat tenminste één keer onderworpen aan een interne beoordeling (**review/audit**).
 
-#### Art. 2.6. Toegangscontrole
+##### Art. 2.6. Toegangscontrole
 
 Grondslag: EU-verordening 725/2004, art 3, eerste, tweede en derde lid
 
 De volgens ISPS Code deel A, artikel 7.2.2 verplichte toegangscontrole behoeft niet noodzakelijkerwijs te worden uitgevoerd door een permanente **gangway watch**. Ook andere methoden zijn toegestaan, bijvoorbeeld een uitkijk op de brug, personeel aan dek of beveiligingscamera’s. Kernpunt is dat er te allen tijde zicht is op wie er aan boord komt en dat personen die toegang tot het schip willen verkrijgen direct benaderd worden met het verzoek hun identiteit en de reden van hun komst bekend te maken.
 
-#### Art. 2.7. Doorzoeken van personen die toegang tot het schip willen verkrijgen
+##### Art. 2.7. Doorzoeken van personen die toegang tot het schip willen verkrijgen
 
 Grondslag: EU-verordening 725/2004, art 3, eerste, tweede, derde en vierde lid
 
@@ -183,7 +207,7 @@ Bij veiligheidsniveau (**security level**):
 
 - 3:. iedereen.
 
-#### Art. 2.8. Contactpunt voor navraag SSAS alarm indien de CSO aan boord is
+##### Art. 2.8. Contactpunt voor navraag SSAS alarm indien de CSO aan boord is
 
 Grondslag: EU-verordening 725/2004, art 3, eerste, tweede en derde lid
 
@@ -195,7 +219,7 @@ Er dient een overeenkomst te zijn tussen de reder en de betrokken partij, waarin
 
 De bereikbaarheidsgegevens van het contactpunt worden bij de Inspectie Verkeer en Waterstaat aangemeld. Deze zorgt voor doorgeleiding van de informatie naar het Kustwachtcentrum.
 
-#### Art. 2.9. Oefeningen (drills and exercises)
+##### Art. 2.9. Oefeningen (drills and exercises)
 
 Grondslag: EU-verordening 725/2004, art 3, eerste, tweede, derde en vijfde lid
 
@@ -205,7 +229,7 @@ Oefeningen (**exercises**) volgens ISPS deel A art. 13.5 testen het securitysyst
 
 Indien een maatschappij participeert in een oefening (**exercise**) die door binnenlandse of buitenlandse overheidsinstantie(s) wordt georganiseerd, telt deze mee als de jaarlijks verplichte oefening volgens ISPS deel B, art. 13.7. Ook dan worden de rapportage en de leerpunten over de gehele in Nederland geregistreerde vloot van de maatschappij verspreid en toegepast.
 
-#### Artikel. 3. Inspectie van sloepslopers met inbegrip van de eindverbindingen
+##### Artikel. 3. Inspectie van sloepslopers met inbegrip van de eindverbindingen
 
 Grondslag: SOLAS hoofdstuk III, voorschrift 20.4
 
@@ -229,7 +253,7 @@ Overigens voldoet de sloepsloper met inbegrip van de eindverbinding aan de voors
 
 De kapitein of de eigenaar van het schip kan bepaalde, door de bevoegde autoriteiten aan te wijzen, delen van de draad/sloepsloper aan een trekproef laten onderwerpen. Indien deze delen de trekproef doorstaan, behoeft de draad/sloepsloper niet te worden vervangen.
 
-#### Artikel. 4. Vaststelling van het aantal overlevingspakken aan boord van vrachtschepen
+##### Artikel. 4. Vaststelling van het aantal overlevingspakken aan boord van vrachtschepen
 
 Grondslag: SOLAS hoofdstuk III, voorschrift 32.3.3
 
@@ -261,27 +285,27 @@ Voor de **watch or workstations** als hierboven genoemd wordt toegepast:
 
 Op non-conventieschepen zonder Engine Control Room (b.v. kleine sleepboten) waar normaal gesproken op zee niet gewerkt of wachtgelopen wordt in de machinekamer, kan doorgaans worden volstaan met overlevingspakken voor het maximaal aantal opvarenden (uitrustingsgetal) plus twee extra overlevingspakken op de brug.
 
-#### Artikel. 5
+##### Artikel. 5
 
 De [Beleidsregel betreffende de inspectie van sloepslopers](https://wetten.overheid.nl/jci1.3:c:BWBR0014723) (Stcrt. 2003, nr. 37) wordt ingetrokken.
 
-#### Artikel. 6
+##### Artikel. 6
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel veiligheid zeeschepen
 
-#### Artikel. 7
+##### Artikel. 7
 
 Deze beleidsregel zal met toelichting in de Staatscourant worden geplaatst en treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij worden geplaatst.
 
-#### Artikel 5.1. Toezicht op de uitvoering van [artikel 23, zesde, zevende en achtste lid, van de Regeling veiligheid zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&artikel=23)
+##### Artikel 5.1. Toezicht op de uitvoering van [artikel 23, zesde, zevende en achtste lid, van de Regeling veiligheid zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&artikel=23)
 
 Bij het toezicht op de uitvoering van [artikel 23, zesde, zevende lid en achtste lid, van de Regeling veiligheid zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&artikel=23) passen de ambtenaren van de Scheepvaartinspectie de [artikelen 5.2 tot en met 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0027556&artikel=5.2&z=2010-07-30&g=2010-07-30) toe.
 
-#### Artikel 5.2. Keuring en onderhoud van acetyleen las- en snij-installaties en elektrische lastoestellen
+##### Artikel 5.2. Keuring en onderhoud van acetyleen las- en snij-installaties en elektrische lastoestellen
 
 Ten aanzien van de keuring en het onderhoud van acetyleen las- en snij-installaties en elektrische lastoestellen die deel uitmaken van de uitrusting van een schip is aan de bepalingen van [artikel 23, zesde en zevende lid, van de Regeling veiligheid zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&artikel=23) voldaan indien de kapitein er zorg voor draagt dat de acetyleen las- en snij-installaties en de elektrische lastoestellen periodiek worden gekeurd en goed worden onderhouden door een deskundige persoon of instelling conform de instructies van de leverancier of het klassenbureau.
 
-#### Artikel 5.3. Opstelling en inrichting van acetyleen las- en snij-installaties
+##### Artikel 5.3. Opstelling en inrichting van acetyleen las- en snij-installaties
 
 1. Ten aanzien van de opstelling en de inrichting van acetyleen las- en snij-installaties is aan [artikel 23, zesde lid, van de Regeling veiligheid zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&artikel=23) voldaan indien:
 
@@ -327,7 +351,7 @@ Ten aanzien van de keuring en het onderhoud van acetyleen las- en snij-installat
 | NEN-ISO 9090:1992 | Gasdichtheid van apparatuur voor autogeenlassen en aanverwante processen |
 | NEN-ISO 9539:1992 | Materialen voor apparatuur voor autogeenlassen, snijden en aanverwante processen |
 
-#### Artikel 5.4. Inrichting van elektrische lastoestellen
+##### Artikel 5.4. Inrichting van elektrische lastoestellen
 
 Ten aanzien van de inrichting van elektrische lastoestellen is aan [artikel 23, zevende lid, van de Regeling veiligheid zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&artikel=23) voldaan indien:
 
@@ -343,7 +367,7 @@ Ten aanzien van de inrichting van elektrische lastoestellen is aan [artikel 23, 
 
 - f. het elektrische lastoestel, de lastangen, laskabels en aansluitverbindingen verkeren in een goede staat van onderhoud.
 
-#### Artikel 5.5. Werkzaamheden met acetyleen las- en snij-installaties en elektrische lastoestellen
+##### Artikel 5.5. Werkzaamheden met acetyleen las- en snij-installaties en elektrische lastoestellen
 
 Ten aanzien van het uitvoeren van laswerkzaamheden aan boord van schepen is aan de verplichting van [artikel 23, achtste lid, van de Regeling veiligheid zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&artikel=23) voldaan indien:
 

@@ -1,13 +1,39 @@
 ---
-title: "Uitvoeringsregeling WEB 2007"
+title: "Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 8 november 2008, nr. BVE/Stelsel/73928, houdende uitvoeringsregels voor het bekostigen van het middelbaar beroepsonderwijs en de educatie (Uitvoeringsregeling WEB 2007)"
 identifier: "BWBR0024795"
-categorie: "Overig"
-publicatiedatum: 2025-10-15
-laatste_update: 2025-10-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024795"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-10-15"
+last_updated: "2025-10-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024795"
+soort: "ministeriele-regeling"
+stam_id: "9785023"
+version_id: "15873202"
+internal_id: "C29437911"
+label_id: "9761994"
+dtd_version: "2.0"
+original_entry_into_force: "2008-12-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024795/2025-10-15/0"
+intitule_bron: "Stcrt.2008-236"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-11-08"
+intitule_published: "2008-12-04"
+intitule_in_force: "2008-12-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-236"
+original_signed_date: "2008-11-08"
+original_published_date: "2008-12-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-1342"
+entry_into_force_date: "2008-12-06"
+jci_1_3: "jci1.3:c:BWBR0024795&z=2025-10-15&g=2025-10-15"
+jci_1_0: "1.0:c:BWBR0024795&g=2025-10-15"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsregeling WEB 2007"
+signed_date: "2008-11-08"
+entry_into_force: "2008-12-06"
 ---
-
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 8 november 2008, nr. BVE/Stelsel/73928, houdende uitvoeringsregels voor het bekostigen van het middelbaar beroepsonderwijs en de educatie (Uitvoeringsregeling WEB 2007)
 
 Handelende in overeenstemming met de Minister van Landbouw, Natuur en Voedselkwaliteit,
@@ -18,7 +44,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1. Begripsbepalingen
+##### Artikel 1.1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -32,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 1. Voorschriften beroepsopleidingen Instituten voor doven
 
-#### Artikel 2.1.1. Voorschriften bekostiging beroepsopleidingen Instituten voor doven
+##### Artikel 2.1.1. Voorschriften bekostiging beroepsopleidingen Instituten voor doven
 
 1. In overeenstemming met het desbetreffende onderdeel van de rijksbegroting die is vastgesteld voor het desbetreffende begrotingsjaar, stelt de minister jaarlijks de omvang van het beschikbare budget voor de exploitatiekosten respectievelijk voor de huisvestingskosten voor het Christelijk Instituut voor Doven ‘Effatha’ en het Instituut voor Doven ‘Sint-Michielsgestel’ vast, ten behoeve van het verzorgen van beroepsopleidingen als bedoeld in [artikel 12.3.8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=12.3.8).
 
@@ -44,13 +70,13 @@ Deze budgetten worden jaarlijks toegevoegd aan de landelijk beschikbare budgette
 
 4. [Artikel 2.6.1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=2.6.1) is van toepassing.
 
-#### Artikel 2.1.2. Begroting, verslaglegging, informatie en toezicht
+##### Artikel 2.1.2. Begroting, verslaglegging, informatie en toezicht
 
 1. Het bepaalde bij of krachtens [paragraaf 1 van titel 5 van hoofdstuk 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&paragraaf=1) is van overeenkomstige toepassing op de instituten, bedoeld in [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&artikel=2.1.1&z=2025-10-15&g=2025-10-15).
 
 2. Het bepaalde bij of krachtens [hoofdstuk 5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=5), alsmede de [Bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=1), [1c](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=1C) en [4 behorende bij het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=4), is van overeenkomstige toepassing op de instituten, bedoeld in [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&artikel=2.1.1&z=2025-10-15&g=2025-10-15).
 
-#### Artikel 2.1.3. Voorschriften [WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) die van toepassing zijn op de Instituten voor doven
+##### Artikel 2.1.3. Voorschriften [WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) die van toepassing zijn op de Instituten voor doven
 
 De instituten, bedoeld in [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&artikel=2.1.1&z=2025-10-15&g=2025-10-15), nemen voor de beroepsopleidingen verzorgd aan die instituten in acht hetgeen bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) is bepaald ten aanzien van:
 
@@ -88,19 +114,19 @@ De instituten, bedoeld in [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BW
 
 #### § 2. Voorschriften beroepsopleidingen verbonden aan hogeschool Haarlem dan wel diens rechtsopvolgers
 
-#### Artikel 2.2.1. Voorschriften bekostiging beroepsopleidingen verbonden aan hogeschool Haarlem dan wel diens rechtsopvolgers
+##### Artikel 2.2.1. Voorschriften bekostiging beroepsopleidingen verbonden aan hogeschool Haarlem dan wel diens rechtsopvolgers
 
 1. In overeenstemming met het desbetreffende onderdeel van de rijksbegroting die is vastgesteld voor het desbetreffende begrotingsjaar, stelt de minister jaarlijks de omvang van het beschikbare budget voor de exploitatiekosten respectievelijk voor de huisvestingskosten ten behoeve van het verzorgen van beroepsopleidingen als bedoeld in [artikel 12.3.9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=12.3.9), verbonden aan de Hogeschool Haarlem, dan wel diens rechtsopvolgers voor wat betreft de opleidingen in de beroepsopleidende leerweg, vast. Deze budgetten worden jaarlijks toegevoegd aan de landelijk beschikbare budgetten voor de exploitatiekosten respectievelijk de huisvestingskosten voor het beroepsonderwijs als bedoeld in [artikel 2.1.3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=2.1.3).
 
 2. De [artikelen 12.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=12.4.1) en [12.4.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=12.4.2) en de [artikelen 2.2.1 tot en met 2.2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=2.2.1) en [2.4.1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=2.4.1) zijn van toepassing ten aanzien van de hogeschool, bedoeld in het eerste lid.
 
-#### Artikel 2.2.2. Begroting, verslaglegging, informatie en toezicht
+##### Artikel 2.2.2. Begroting, verslaglegging, informatie en toezicht
 
 1. Het bepaalde bij of krachtens [paragraaf 1 van titel 5 van hoofdstuk 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&paragraaf=1) is van overeenkomstige toepassing op de hogeschool, bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2021-10-15&g=2021-10-15).
 
 2. Het bepaalde bij of krachtens [hoofdstuk 5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=5), alsmede de [Bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=1), [1c](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=1C) en [4 behorende bij het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=4) is van overeenkomstige toepassing op de hogeschool, bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2021-10-15&g=2021-10-15).
 
-#### Artikel 2.2.3. Voorschriften [WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) die van toepassing zijn op hogeschool Haarlem dan wel diens rechtsopvolgers
+##### Artikel 2.2.3. Voorschriften [WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) die van toepassing zijn op hogeschool Haarlem dan wel diens rechtsopvolgers
 
 De hogeschool, bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2021-10-15&g=2021-10-15), neemt voor de beroepsopleidingen verzorgd door die hogeschool, in acht hetgeen bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) is bepaald ten aanzien van:
 
@@ -138,23 +164,23 @@ De hogeschool, bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BW
 
 #### § 1. Voorschriften bekostiging
 
-#### Artikel 3.1.1. Bedrag huisvestingskosten school voor voortgezet onderwijs in verticale scholengemeenschap
+##### Artikel 3.1.1. Bedrag huisvestingskosten school voor voortgezet onderwijs in verticale scholengemeenschap
 
 1. Het bedrag ten behoeve van de huisvestingskosten, bedoeld in [artikel 4.2.1, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=4.2.1), bedraagt € 690,– per leerling ingeschreven bij een school voor voortgezet onderwijs als bedoeld in [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1).
 
 2. Het bedrag, bedoeld in het eerste lid, kan worden aangepast in verband met uit de rijksbegroting voortvloeiende maatregelen.
 
-#### Artikel 3.1.2. Vaststelling vaste voet en prijs per leerling voorbereidend beroepsonderwijs
+##### Artikel 3.1.2. Vaststelling vaste voet en prijs per leerling voorbereidend beroepsonderwijs
 
 Vervallen
 
-#### Artikel 3.1.3. Bekostiging gehandicapten
+##### Artikel 3.1.3. Bekostiging gehandicapten
 
 Vervallen
 
 #### § 2. Overgangsvoorschriften bekostiging
 
-#### Artikel 3.2.1. Vervangende gegevens VOA
+##### Artikel 3.2.1. Vervangende gegevens VOA
 
 Vervallen
 
@@ -162,17 +188,17 @@ Vervallen
 
 #### § 2. Overgangsvoorschriften bekostiging
 
-#### Artikel 4.1.1. Voorwaarde toekennen rijksbijdrage educatie aan gemeente
+##### Artikel 4.1.1. Voorwaarde toekennen rijksbijdrage educatie aan gemeente
 
 Vervallen
 
-#### Artikel 4.1.2. Vermindering door de gemeente van de bedragen educatie aan instellingen
+##### Artikel 4.1.2. Vermindering door de gemeente van de bedragen educatie aan instellingen
 
 Vervallen
 
 ### Hoofdstuk 5. Overgangs- en slotbepalingen
 
-#### Artikel 5.1. Overgangsvoorschriften inzake hardheidsclausule huisvesting
+##### Artikel 5.1. Overgangsvoorschriften inzake hardheidsclausule huisvesting
 
 1. In aanvulling op [artikel 6.1.3, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=6.1.3) wordt artikel 8 van de Regeling bekostiging huisvesting bve-sector, zoals die luidde op 31 december 1999, uitsluitend betrokken bij de berekening van het bedrag voor de huisvestingskosten voor het betreffende kalenderjaar, indien:
 
@@ -218,13 +244,13 @@ In deze formule wordt verstaan onder:
 
 5. Indien de uitkomst van het onderdeel (Ht – Nt) van de formule, bedoeld in het vierde lid, negatief is, wordt het verzoek om een aanvullende vergoeding afgewezen.
 
-#### Artikel 5.2. Overgangsbepaling voor voormalige agrarische opleidingscentra
+##### Artikel 5.2. Overgangsbepaling voor voormalige agrarische opleidingscentra
 
 1. Voor de berekening van de rijksbijdrage van de scholen voor praktijkonderwijs en vbo binnen verticale scholengemeenschappen die van rechtswege zijn ontstaan na de omzetting op grond van [artikel 12.2.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=12.2.4), wordt voor wat betreft het kalenderjaar waarin die omzetting plaatsvindt, gebruik gemaakt van de berekeningswijze op grond van de [artikelen 3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=3&paragraaf=1&artikel=3.1.1&z=2025-10-15&g=2025-10-15) en [3.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=3&paragraaf=1&artikel=3.1.2&z=2025-10-15&g=2025-10-15).
 
 2. Een besluit tot de berekening van de bekostiging van een school die van rechtswege is ontstaan na de omzetting op grond van [artikel 12.2.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=12.2.4), vindt voor het eerst toepassing op grond van de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212) en [artikel 2.6.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.6.3) over het kalenderjaar volgend op die omzetting.
 
-#### Artikel 5.3. Intrekking regelingen
+##### Artikel 5.3. Intrekking regelingen
 
 1. De [Uitvoeringsregeling WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0010930) wordt, met in achtneming van het tweede lid, ingetrokken.
 
@@ -232,17 +258,17 @@ In deze formule wordt verstaan onder:
 
 3. De [Regeling aanwijzing bewijzen van voldoende didactische bekwaamheid in de bve-sector](https://wetten.overheid.nl/jci1.3:c:BWBR0009539) wordt ingetrokken.
 
-#### Artikel 5.4. Inwerkingtreding
+##### Artikel 5.4. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de tweede dag na de datum van uitgifte van de Staatscourant waarin deze is geplaatst en werkt terug tot en met 1 oktober 2007.
 
-#### Artikel 5.5. Citeertitel
+##### Artikel 5.5. Citeertitel
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling WEB 2007.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3.1.4. Diploma’s waarvoor een vast bedrag wordt toegekend
+##### Artikel 3.1.4. Diploma’s waarvoor een vast bedrag wordt toegekend
 
 Vervallen
 
@@ -256,7 +282,7 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3.1.2a
+##### Artikel 3.1.2a
 
 Vervallen
 
@@ -270,7 +296,7 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1.2. Reikwijdte
+##### Artikel 1.2. Reikwijdte
 
 Deze regeling berust mede op [artikel 4.2.1, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=4.2.1).
 

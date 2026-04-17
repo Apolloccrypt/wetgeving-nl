@@ -1,13 +1,39 @@
 ---
-title: "Tijdelijke vrijstelling ter bescherming van de teelt van witlofpennen tegen witlofmineervlieg 2014"
+title: "Besluit van de Staatssecretaris van Economische Zaken, van 26 juni 2014, nr. 14101915, houdende tijdelijke vrijstelling op grond van artikel 38 van de Wet gewasbeschermingsmiddelen en biociden ter bestrijding van de witlofmineervlieg in de teelt van witlofpennen (Tijdelijke vrijstelling ter bescherming van de teelt van witlofpennen tegen witlofmineervlieg 2014)"
 identifier: "BWBR0035304"
-categorie: "Overig"
-publicatiedatum: 2014-07-10
-laatste_update: 2014-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035304"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2014-07-10"
+last_updated: "2014-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035304"
+soort: "ministeriele-regeling"
+stam_id: "12721373"
+version_id: "21525412"
+internal_id: "C30901301"
+label_id: "12691264"
+dtd_version: "2.0"
+original_entry_into_force: "2014-07-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035304/2014-07-10/0"
+intitule_bron: "Stcrt.2014-19036"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-06-26"
+intitule_published: "2014-07-09"
+intitule_in_force: "2014-07-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-19036"
+original_signed_date: "2014-06-26"
+original_published_date: "2014-07-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-19036"
+entry_into_force_date: "2014-07-10"
+jci_1_3: "jci1.3:c:BWBR0035304&z=2014-07-10&g=2014-07-10"
+jci_1_0: "1.0:c:BWBR0035304&g=2014-07-10"
+citeertitel_status: "officieel"
+short_title: "Tijdelijke vrijstelling ter bescherming van de teelt van witlofpennen tegen witlofmineervlieg 2014"
+signed_date: "2014-06-26"
+entry_into_force: "2014-07-10"
 ---
-
 # Besluit van de Staatssecretaris van Economische Zaken, van 26 juni 2014, nr. 14101915, houdende tijdelijke vrijstelling op grond van artikel 38 van de Wet gewasbeschermingsmiddelen en biociden ter bestrijding van de witlofmineervlieg in de teelt van witlofpennen (Tijdelijke vrijstelling ter bescherming van de teelt van witlofpennen tegen witlofmineervlieg 2014)
 
 Handelende in overeenstemming met de Staatssecretaris van Infrastructuur en Milieu;
@@ -16,19 +42,19 @@ Gelet op artikel 38 van de Wet gewasbeschermingsmiddelen en biociden en artikel 
 
 BESLUIT:
 
-#### Artikel 1
+##### Artikel 1
 
 Tijdelijke vrijstelling als bedoeld in [artikel 38 van de Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=38) en artikel 53 van [Verordening (EG) 1107/2009](32009R1107) wordt verleend voor het gebruik van het gewasbeschermingsmiddel Vertimec Gold (toelatingsnummer 13087) ter bescherming van de teelt van witlofpennen tegen witlofmineervlieg.
 
-#### Artikel 2
+##### Artikel 2
 
 De vrijstelling is slechts van toepassing indien de gebruiksvoorschriften in de bijlage bij dit besluit worden nageleefd.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van 1 juli 2014. Indien de Staatscourant waarin dit besluit wordt geplaatst, wordt uitgegeven na 1 juli 2014, treedt zij in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 juli 2014. De vrijstelling vervalt met ingang van 30 oktober 2014.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit wordt aangehaald als: Tijdelijke vrijstelling ter bescherming van de teelt van witlofpennen tegen witlofmineervlieg 2014.
 

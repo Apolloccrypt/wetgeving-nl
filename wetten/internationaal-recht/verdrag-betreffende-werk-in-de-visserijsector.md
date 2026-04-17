@@ -1,13 +1,35 @@
 ---
 title: "Verdrag betreffende werk in de visserijsector"
 identifier: "BWBV0005397"
-categorie: "Internationaal recht"
-publicatiedatum: 2020-12-19
-laatste_update: 2020-12-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005397"
+country: "nl"
+rank: "verdrag"
+publication_date: "2020-12-19"
+last_updated: "2020-12-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005397"
+soort: "verdrag"
+stam_id: "10004613823"
+version_id: "10004867532"
+internal_id: "C10009674031"
+label_id: "10004599034"
+dtd_version: "2.0"
+original_entry_into_force: "2020-12-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005397/2020-12-19/0"
+intitule_bron: "Trb.2011-152"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2011-08-24"
+intitule_in_force: "2020-02-04"
+intitule_status: "goed"
+original_publication: "Trb.2011-152"
+original_published_date: "2011-08-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2011-152"
+entry_into_force_date: "2020-12-19"
+jci_1_3: "jci1.3:c:BWBV0005397&z=2020-12-19&g=2020-12-19"
+jci_1_0: "1.0:c:BWBV0005397&g=2020-12-19"
+citeertitel_status: "redactioneel"
+entry_into_force: "2020-12-19"
 ---
-
 # Verdrag betreffende werk in de visserijsector
 
 De Algemene Conferentie van de Internationale Arbeidsorganisatie,
@@ -46,7 +68,7 @@ Neemt heden, 14 juni 2007, het volgende verdrag aan, dat kan worden aangehaald a
 
 ## DEEL I. BEGRIPSOMSCHRIJVINGEN EN REIKWIJDTE
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -74,7 +96,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - l. **„schipper”,** de visser die het gezag voert over een vissersvaartuig.
 
-#### Artikel 2. Reikwijdte
+##### Artikel 2. Reikwijdte
 
 1. Tenzij hierin anders wordt bepaald, is dit Verdrag van toepassing op alle vissers en alle vissersvaartuigen die betrokken zijn bij commerciële visserijactiviteiten.
 
@@ -82,7 +104,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 3. Elk Lid kan de bescherming in dit Verdrag voorzien voor vissers werkzaam op vaartuigen met een lengte van 24 meter of meer na overleg geheel of gedeeltelijk uitbreiden tot vissers werkzaam op kleinere vaartuigen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Indien de toepassing van het Verdrag leidt tot wezenlijke problemen vanwege de specifieke voorwaarden waaronder werk van de vissers wordt verricht of de activiteiten van de desbetreffende vissersvaartuigen, kan een Lid na overleg de vereisten van dit Verdrag dan wel een of meer bepalingen daarvan uitsluiten:
 
@@ -104,7 +126,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - b. in volgende rapporten over de toepassing van het Verdrag de maatregelen beschrijven die eventueel zijn genomen in overeenstemming met het tweede lid.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien een Lid niet onmiddellijk in staat is alle in dit Verdrag voorziene maatregelen te implementeren vanwege wezenlijke, bijzondere problemen ten gevolge van onvoldoende ontwikkelde infrastructuur of instellingen, kan het Lid, in overeenstemming met een in overleg opgesteld plan, een deel of alle van de volgende bepalingen geleidelijk implementeren:
 
@@ -142,7 +164,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - b. zal in de volgende rapporten over de toepassing van dit Verdrag de maatregelen beschrijven die zijn genomen teneinde gevolg te geven aan alle bepalingen van het Verdrag.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Voor de toepassing van dit Verdrag kan de bevoegde autoriteit na overleg beslissen de lengte over alles (LOA) in plaats van de lengte (L) te hanteren als basis voor de meting in overeenstemming met de gelijkwaardigheid bij meting, vervat in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&bijlage=I&z=2020-12-19&g=2020-12-19). Voor de toepassing van de in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&bijlage=III&z=2020-12-19&g=2020-12-19) bij dit Verdrag genoemde paragrafen kan de bevoegde autoriteit na overleg beslissen als basis voor de meting de brutotonnage met inachtneming van de gelijkwaardigheid bij meting vervat in Bijlage III te hanteren in plaats van de lengte (L) of de lengte over alles (LOA).
 
@@ -150,13 +172,13 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 ## DEEL II. ALGEMENE BEGINSELEN
 
-#### Artikel 6. Implementatie
+##### Artikel 6. Implementatie
 
 1. Elk Lid implementeert en handhaaft wet- en regelgeving of andere maatregelen die het heeft aangenomen ter nakoming van de verplichtingen op grond van dit Verdrag ten aanzien van vissers en vissersvaartuigen die onder zijn rechtsbevoegdheid vallen. Andere maatregelen kunnen bestaan uit collectieve overeenkomsten, gerechtelijke beslissingen, scheidsrechterlijke uitspraken of andere maatregelen die verenigbaar zijn met de nationale wetgeving en praktijk.
 
 2. Niets in dit Verdrag tast wetten, uitspraken, gewoonten of overeenkomsten tussen scheepsbeheerders van vissersvaartuigen en vissers aan die gunstiger voorwaarden waarborgen dan de voorwaarden voorzien in dit Verdrag.
 
-#### Artikel 7. Bevoegde autoriteit en coördinatie
+##### Artikel 7. Bevoegde autoriteit en coördinatie
 
 Elk Lid:
 
@@ -164,7 +186,7 @@ Elk Lid:
 
 - b. stelt naargelang het geval regelingen vast voor de coördinatie tussen de desbetreffende autoriteiten voor de visserijsector op nationaal en lokaal niveau en omschrijft hun taken en verantwoordelijkheden, daarbij rekening houdend met hun complementariteit, nationale omstandigheden en praktijk.
 
-#### Artikel 8. Verantwoordelijkheden van scheepsbeheerders van vissersvaartuigen, schippers en vissers
+##### Artikel 8. Verantwoordelijkheden van scheepsbeheerders van vissersvaartuigen, schippers en vissers
 
 1. De scheepsbeheerder van vissersvaartuigen draagt de algehele verantwoordelijkheid om te waarborgen dat de schipper beschikt over de nodige middelen en voorzieningen om te voldoen aan de verplichtingen uit dit Verdrag.
 
@@ -184,7 +206,7 @@ Elk Lid:
 
 ## DEEL III. MINIMUMEISEN VOOR HET WERKEN AAN BOORD VAN VISSERSVAARTUIGEN
 
-#### Artikel 9. Minimumleeftijd
+##### Artikel 9. Minimumleeftijd
 
 1. De minimumleeftijd voor werk aan boord van vissersvaartuigen is 16 jaar. De bevoegde autoriteit kan evenwel een minimumleeftijd van 15 jaar toestaan voor personen die niet langer leerplichtig zijn zoals voorzien in de nationale wetgeving en die een beroepsopleiding volgen in de visserij.
 
@@ -204,7 +226,7 @@ Elk Lid:
 
 7. Niets in dit artikel tast de verplichtingen aan die Leden hebben aanvaard bij het bekrachtigen van een ander internationaal arbeidsverdrag.
 
-#### Artikel 10. Geneeskundig onderzoek
+##### Artikel 10. Geneeskundig onderzoek
 
 1. Vissers werken niet aan boord van vissersvaartuigen zonder een geldige geneeskundige verklaring waaruit blijkt dat zij medisch gezien in staat zijn hun taken te verrichten.
 
@@ -212,7 +234,7 @@ Elk Lid:
 
 3. De vrijstellingen, bedoeld in het tweede lid van dit artikel, zijn niet van toepassing op vissers die werkzaam zijn op vissersvaartuigen met een lengte van 24 meter of meer of die gewoonlijk langer dan drie dagen op zee blijven. In urgente gevallen kan de bevoegde autoriteit toestaan dat een visser op een dergelijk vaartuig werkt gedurende een omschreven beperkte periode totdat een geneeskundige verklaring kan worden verkregen, op voorwaarde dat de visser beschikt over een verlopen geneeskundige verklaring van recente datum.
 
-#### Artikel 11
+##### Artikel 11
 
 Elk Lid neemt wet- en regelgeving of andere maatregelen aan inzake:
 
@@ -228,7 +250,7 @@ Elk Lid neemt wet- en regelgeving of andere maatregelen aan inzake:
 
 - f. andere relevante vereisten.
 
-#### Artikel 12
+##### Artikel 12
 
 In aanvulling op de vereisten vervat in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=III&artikel=10&z=2020-12-19&g=2020-12-19) en [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=III&artikel=11&z=2020-12-19&g=2020-12-19) geldt voor vissersvaartuigen met een lengte van 24 meter of meer of vissersvaartuigen die gewoonlijk langer dan drie dagen op zee blijven het volgende:
 
@@ -244,7 +266,7 @@ In aanvulling op de vereisten vervat in [artikel 10](https://wetten.overheid.nl/
 
 ## DEEL IV. VOORWAARDEN WAARONDER WERK WORDT VERRICHT
 
-#### Artikel 13. Bemanning en rusttijden
+##### Artikel 13. Bemanning en rusttijden
 
 Elk Lid neemt wet- en regelgeving of andere maatregelen aan die scheepsbeheerders van vissersvaartuigen die onder zijn vlag varen verplichten om te waarborgen dat:
 
@@ -252,7 +274,7 @@ Elk Lid neemt wet- en regelgeving of andere maatregelen aan die scheepsbeheerder
 
 - b. vissers regelmatig voldoende lange rustperioden krijgen om hun veiligheid en gezondheid te waarborgen.
 
-#### Artikel 14
+##### Artikel 14
 
 1. In aanvulling op de vereisten vervat in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=IV&artikel=13&z=2020-12-19&g=2020-12-19) moet de bevoegde autoriteit:
 
@@ -270,11 +292,11 @@ Elk Lid neemt wet- en regelgeving of andere maatregelen aan die scheepsbeheerder
 
 4. Niets in dit artikel wordt geacht het recht van de schipper van een vaartuig aan te tasten van een visser te verlangen dat hij de nodige uren werk verricht ten behoeve van de onmiddellijke veiligheid van het vaartuig, van de opvarenden of van de vangst, of voor het verlenen van hulp aan op zee in nood verkerende schepen of personen. Dienovereenkomstig kan de schipper het normale schema van rusttijden opschorten en van een visser verlangen dat hij de nodige uren werk verricht totdat de normale situatie is hersteld. Zodra de normale situatie is hersteld, draagt de schipper er zorg voor dat de vissers die tijdens een ingeroosterde rustperiode werk hebben verricht een toereikende rustperiode krijgen.
 
-#### Artikel 15. Bemanningslijst
+##### Artikel 15. Bemanningslijst
 
 Elk vissersvaartuig heeft een bemanningslijst aan boord waarvan een afschrift hetzij voor vertrek van het vaartuig wordt verstrekt aan bevoegde personen aan de wal, hetzij onmiddellijk na vertrek van het vaartuig naar de wal wordt gestuurd. De bevoegde autoriteit bepaalt aan wie en wanneer dergelijke informatie wordt verschaft en voor welk doel, dan wel welke doelen.
 
-#### Artikel 16. Overeenkomst tot het verrichten van werk door vissers
+##### Artikel 16. Overeenkomst tot het verrichten van werk door vissers
 
 Elk Lid neemt wet- en regelgeving of andere maatregelen aan:
 
@@ -282,7 +304,7 @@ Elk Lid neemt wet- en regelgeving of andere maatregelen aan:
 
 - b. die omschrijven welke bijzonderheden minimaal in de overeenkomsten tot het verrichten van werk door vissers moeten worden opgenomen in overeenstemming met de bepalingen vervat in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&bijlage=II&z=2020-12-19&g=2020-12-19).
 
-#### Artikel 17
+##### Artikel 17
 
 Elk Lid neemt wet- en regelgeving of andere maatregelen aan betreffende:
 
@@ -292,19 +314,19 @@ Elk Lid neemt wet- en regelgeving of andere maatregelen aan betreffende:
 
 - c. de middelen voor de beslechting van geschillen ter zake van een overeenkomst tot het verrichten van werk door vissers.
 
-#### Artikel 18
+##### Artikel 18
 
 De overeenkomst tot het verrichten van werk door vissers, waarvan een afschrift aan de visser wordt verstrekt, blijft aan boord en moet voor inzage beschikbaar zijn voor de visser en in overeenstemming met de nationale wetgeving en praktijk op verzoek voor andere belanghebbenden.
 
-#### Artikel 19
+##### Artikel 19
 
 De artikelen 16 tot en met 18 en [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&bijlage=II&z=2020-12-19&g=2020-12-19) zijn niet van toepassing op een scheepsbeheerder van een vissersvaartuig die zijn vaartuig zelf en alleen vaart.
 
-#### Artikel 20
+##### Artikel 20
 
 De scheepsbeheerder van een vissersvaartuig is ervoor verantwoordelijk dat elke visser beschikt over een schriftelijke overeenkomst tot het verrichten van werk door vissers die is ondertekend door zowel de visser als de scheepsbeheerder van het vissersvaartuig of door een bevoegde vertegenwoordiger van de scheepsbeheerder van het vissersvaartuig (of, indien de vissers niet zijn tewerkgesteld of gecontracteerd door de scheepsbeheerder van het vissersvaartuig, moet de scheepsbeheerder van het vissersvaartuig bewijs kunnen overleggen van contractuele of soortgelijke regelingen) die voorzien in fatsoenlijke werk- en leefomstandigheden aan boord van het vaartuig zoals vereist uit hoofde van dit Verdrag.
 
-#### Artikel 21. Repatriëring
+##### Artikel 21. Repatriëring
 
 1. De Leden moeten waarborgen dat de vissers op vissersvaartuigen die onder hun vlag varen en buitenlandse havens aandoen recht hebben op repatriëring indien hun overeenkomst tot het verrichten van werk door vissers is verstreken of op geldige gronden is beëindigd door de visser of de scheepsbeheerder van het vissersvaartuig, of indien de visser niet langer in staat is de taken te verrichten krachtens de overeenkomst tot het verrichten van werk door vissers of indien niet van hem verlangd kan worden die onder de desbetreffende omstandigheden te verrichten. Dit geldt ook voor vissers van dat vaartuig die op dezelfde gronden van het vaartuig naar de buitenlandse haven worden overgebracht.
 
@@ -316,7 +338,7 @@ De scheepsbeheerder van een vissersvaartuig is ervoor verantwoordelijk dat elke 
 
 5. De nationale wet- en regelgeving laat onverlet het recht van de scheepsbeheerder van het vissersvaartuig de kosten van repatriëring op grond van contractuele regelingen te verhalen op derden.
 
-#### Artikel 22. Werving en arbeidsbemiddeling
+##### Artikel 22. Werving en arbeidsbemiddeling
 
 1. Elk Lid dat een publieke wervings- en arbeidsbemiddelingsdienst voor vissers exploiteert, waarborgt dat de dienstverlening deel uitmaakt van of wordt afgestemd met een publieke werkgelegenheidsinstantie voor alle werknemers en werkgevers.
 
@@ -336,21 +358,21 @@ De scheepsbeheerder van een vissersvaartuig is ervoor verantwoordelijk dat elke 
 
 6. Niets in dit Verdrag wordt geacht een Lid de verplichting op te leggen de exploitatie van particuliere uitzendbureaus, als bedoeld in het vierde lid van dit artikel, voor zijn visserij toe te staan.
 
-#### Artikel 23. Betaling aan vissers
+##### Artikel 23. Betaling aan vissers
 
 Elk Lid neemt na overleg wet- en regelgeving of andere maatregelen aan waarin bepaald wordt dat vissers die loon ontvangen verzekerd moeten zijn van een maandelijkse of andere periodieke betaling.
 
-#### Artikel 24
+##### Artikel 24
 
 Elk Lid vereist dat aan alle vissers werkzaam aan boord van vissersvaartuigen de mogelijkheid moet worden geboden om de ontvangen betalingen, met inbegrip van voorschotten, zonder kosten geheel of gedeeltelijk naar hun familie over te maken.
 
 ## DEEL V. ACCOMMODATIE EN VOEDING
 
-#### Artikel 25
+##### Artikel 25
 
 Elk Lid neemt wet- en regelgeving of andere maatregelen aan voor vissersvaartuigen die onder zijn vlag varen ter zake van accommodatie, voeding en drinkwater aan boord.
 
-#### Artikel 26
+##### Artikel 26
 
 Elk Lid neemt wet- en regelgeving of andere maatregelen aan die voorschrijven dat de accommodatie aan boord van vissersvaartuigen die onder zijn vlag varen van voldoende afmeting en kwaliteit moet zijn en voldoende zijn toegerust voor de activiteiten van het vaartuig en de tijd die vissers aan boord verblijven. Dergelijke maatregelen betreffen, indien toepasselijk, de volgende kwesties:
 
@@ -368,7 +390,7 @@ Elk Lid neemt wet- en regelgeving of andere maatregelen aan die voorschrijven da
 
 - g. procedures voor reacties op klachten over accommodatie die niet voldoet aan de vereisten van dit Verdrag.
 
-#### Artikel 27
+##### Artikel 27
 
 Elk Lid neemt wet- en regelgeving of andere maatregelen aan die voorschrijven dat:
 
@@ -378,7 +400,7 @@ Elk Lid neemt wet- en regelgeving of andere maatregelen aan die voorschrijven da
 
 - c. de scheepsbeheerder van het vissersvaartuig voeding en water kosteloos aan de vissers moet verstrekken. In overeenstemming met de nationale wet- en regelgeving kunnen de kosten evenwel als exploitatiekosten worden ingehouden, indien de collectieve overeenkomst die op een deelloonsysteem van toepassing is of de overeenkomst tot het verrichten van werk door vissers daarin voorziet.
 
-#### Artikel 28
+##### Artikel 28
 
 1. De wet- en regelgeving of andere door het Lid in overeenstemming met de artikelen 25 tot en met 27 aan te nemen maatregelen moeten volledig uitvoering geven aan [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&bijlage=III&z=2020-12-19&g=2020-12-19) betreffende de accommodatie op vissersvaartuigen. Bijlage III kan worden gewijzigd op de wijze voorzien in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=VIII&artikel=45&z=2020-12-19&g=2020-12-19).
 
@@ -386,7 +408,7 @@ Elk Lid neemt wet- en regelgeving of andere maatregelen aan die voorschrijven da
 
 ## DEEL VI. MEDISCHE ZORG, BESCHERMING VAN DE GEZONDHEID EN SOCIALE ZEKERHEID
 
-#### Artikel 29. Medische zorg
+##### Artikel 29. Medische zorg
 
 Elk Lid neemt wet- en regelgeving of andere maatregelen aan die voorschrijven dat:
 
@@ -400,7 +422,7 @@ Elk Lid neemt wet- en regelgeving of andere maatregelen aan die voorschrijven da
 
 - e. vissers recht hebben op medische verzorging aan de wal en het recht hebben bij ernstige verwondingen of ziekte tijdig naar de wal te worden gebracht voor behandeling.
 
-#### Artikel 30
+##### Artikel 30
 
 Voor vissersvaartuigen met een lengte van 24 meter of meer, rekening houdend met het aantal vissers aan boord, het vaargebied en de duur van de reis, neemt elk Lid wet- en regelgeving of andere maatregelen aan, die voorschrijven dat:
 
@@ -416,7 +438,7 @@ Voor vissersvaartuigen met een lengte van 24 meter of meer, rekening houdend met
 
 - f. voor zover in overeenstemming met de nationale wetgeving en praktijk van het Lid, kosteloos medische zorg aan de visser wordt verleend terwijl deze zich aan boord van het vaartuig of in een buitenlandse haven bevindt.
 
-#### Artikel 31. Arbeidsomstandigheden en ongevallenpreventie aan boord
+##### Artikel 31. Arbeidsomstandigheden en ongevallenpreventie aan boord
 
 Elk Lid neemt wet- en regelgeving of andere maatregelen aan met betrekking tot:
 
@@ -430,7 +452,7 @@ Elk Lid neemt wet- en regelgeving of andere maatregelen aan met betrekking tot:
 
 - e. het opzetten van gezamenlijke comités inzake arbeidsomstandigheden, of na overleg, van andere geschikte gremia.
 
-#### Artikel 32
+##### Artikel 32
 
 1. De vereisten van dit artikel zijn van toepassing op vissersvaartuigen met een lengte van 24 meter of meer die gewoonlijk langer dan drie dagen op zee blijven en na overleg op andere vaartuigen, rekening houdend met het aantal vissers aan boord, het vaargebied en de duur van de reis.
 
@@ -448,19 +470,19 @@ Elk Lid neemt wet- en regelgeving of andere maatregelen aan met betrekking tot:
 
 - c. waarborgen dat vissers voldoende en redelijk bekend zijn gemaakt met de uitrusting en de bediening ervan, met inbegrip van de relevante veiligheidsmaatregelen voordat zij de uitrusting gaan gebruiken of deelnemen aan de desbetreffende activiteiten.
 
-#### Artikel 33
+##### Artikel 33
 
 De risico’s in verband met de visserij moeten worden beoordeeld, afhankelijk van het geval, met medewerking van de vissers of hun vertegenwoordigers.
 
-#### Artikel 34. Sociale zekerheid
+##### Artikel 34. Sociale zekerheid
 
 Elk Lid waarborgt dat vissers die gewoonlijk op zijn grondgebied wonen en, voor zover voorzien in zijn nationale wetgeving, hun gezinsleden recht hebben op socialezekerheidsbescherming onder voorwaarden die niet minder gunstig zijn dan de voorwaarden die van toepassing zijn op andere werkenden, met inbegrip van werknemers en zelfstandigen die gewoonlijk wonen op zijn grondgebied.
 
-#### Artikel 35
+##### Artikel 35
 
 Elk Lid verplicht zich overeenkomstig zijn nationale omstandigheden maatregelen te nemen om geleidelijk volledige socialezekerheidsbescherming te bewerkstelligen voor alle vissers die gewoonlijk wonen op zijn grondgebied.
 
-#### Artikel 36
+##### Artikel 36
 
 De Leden werken door middel van bilaterale of multilaterale overeenkomsten of andere regelingen in overeenstemming met hun nationale wet- en regelgeving of praktijk samen:
 
@@ -468,11 +490,11 @@ De Leden werken door middel van bilaterale of multilaterale overeenkomsten of an
 
 - b. om de instandhouding van socialezekerheidsrechten te waarborgen die door alle vissers zijn of worden verworven, ongeacht hun woonplaats.
 
-#### Artikel 37
+##### Artikel 37
 
 Onverminderd de toewijzing van verantwoordelijkheden in de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=VI&artikel=34&z=2020-12-19&g=2020-12-19), [35](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=VI&artikel=35&z=2020-12-19&g=2020-12-19) en [36](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=VI&artikel=36&z=2020-12-19&g=2020-12-19), mogen Leden, door middel van bilaterale en multilaterale overeenkomsten en door middel van bepalingen, aangenomen in het kader van regionale organisaties voor economische integratie, andere regels aannemen inzake de socialezekerheidswetgeving die op vissers van toepassing is.
 
-#### Artikel 38. Bescherming in geval van werkgerelateerd(e) ziekte, letsel of overlijden
+##### Artikel 38. Bescherming in geval van werkgerelateerd(e) ziekte, letsel of overlijden
 
 1. Elk Lid treft in overeenstemming met zijn nationale wet- en regelgeving of praktijk maatregelen voor dekking van vissers in geval van werkgerelateerd(e) ziekte, letsel of overlijden.
 
@@ -488,7 +510,7 @@ Onverminderd de toewijzing van verantwoordelijkheden in de [artikelen 34](https:
 
 - b. verplichte verzekering, regelingen voor schadeloosstelling van werknemers of andere regelingen.
 
-#### Artikel 39
+##### Artikel 39
 
 1. Bij het ontbreken van nationale regelingen voor vissers neemt elk Lid wet- en regelgeving aan of andere maatregelen ter waarborging van de verantwoordelijkheid van scheepsbeheerders van vissersvaartuigen om te voorzien in de bescherming van de gezondheid van en de medische zorg aan vissers op vissersvaartuigen die onder zijn vlag varen terwijl zij op grond van een overeenkomst tot het verrichten van werk door vissers werkzaam zijn aan boord van een vaartuig op zee of in een buitenlandse haven. Met deze wet- en regelgeving of andere maatregelen wordt gewaarborgd dat scheepsbeheerders van vissersvaartuigen de kosten van medische zorg, met inbegrip van de bijbehorende materiële hulp en ondersteuning, moeten dragen gedurende de medische behandeling in het buitenland tot de visser is gerepatrieerd.
 
@@ -496,11 +518,11 @@ Onverminderd de toewijzing van verantwoordelijkheden in de [artikelen 34](https:
 
 ## DEEL VII. NALEVING EN HANDHAVING
 
-#### Artikel 40
+##### Artikel 40
 
 Elk Lid oefent daadwerkelijk zijn rechtsmacht en toezicht uit ten aanzien van vaartuigen die onder zijn vlag varen door instelling van een systeem ter waarborging van de naleving van de vereisten van dit Verdrag, met inbegrip van, afhankelijk van het geval, inspecties, verslaglegging, toezicht houden, klachtenprocedures, passende sancties en corrigerende maatregelen in overeenstemming met zijn nationale wet- of regelgeving.
 
-#### Artikel 41
+##### Artikel 41
 
 1. De Leden moeten verlangen dat vissersvaartuigen die langer dan drie dagen op zee blijven en die:
 
@@ -512,13 +534,13 @@ een geldig document aan boord hebben afgegeven door de bevoegde autoriteit waari
 
 2. De geldigheidsduur van een dergelijk document kan samenvallen met de geldigheid van een nationaal of een internationaal veiligheidscertificaat voor vissersvaartuigen, maar de geldigheidsduur mag in geen geval langer zijn dan vijf jaar.
 
-#### Artikel 42
+##### Artikel 42
 
 1. De bevoegde autoriteit moet een toereikend aantal gekwalificeerde inspecteurs aanwijzen ter nakoming van haar verantwoordelijkheden uit hoofde van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=VII&artikel=41&z=2020-12-19&g=2020-12-19).
 
 2. Bij het opzetten van een effectief inspectiesysteem voor leef- en werkomstandigheden aan boord van vissersvaartuigen kan een Lid, indien van toepassing, openbare instellingen of andere door hem als bevoegd en onafhankelijk erkende organisaties machtigen inspecties uit te voeren en documenten af te geven. In alle gevallen blijft het Lid volledig verantwoordelijk voor de inspectie en afgifte van de desbetreffende documenten inzake de leef- en werkomstandigheden van de vissers op vissersvaartuigen die onder zijn vlag varen.
 
-#### Artikel 43
+##### Artikel 43
 
 1. Een Lid dat een klacht ontvangt of het bewijs verkrijgt dat een vissersvaartuig dat onder zijn vlag vaart niet voldoet aan de vereisten van dit Verdrag neemt de noodzakelijke maatregelen om de zaak te onderzoeken en ervoor zorg te dragen dat maatregelen worden genomen om de eventueel geconstateerde tekortkomingen weg te nemen.
 
@@ -530,13 +552,13 @@ een geldig document aan boord hebben afgegeven door de bevoegde autoriteit waari
 
 5. Dit artikel is niet van toepassing op klachten die een Lid kennelijk ongegrond acht.
 
-#### Artikel 44
+##### Artikel 44
 
 Elk Lid past dit Verdrag op zodanige wijze toe dat gewaarborgd wordt dat de vissersvaartuigen die onder de vlag varen van een Staat die dit Verdrag niet heeft bekrachtigd geen gunstiger behandeling ontvangen dan de vissersvaartuigen die onder de vlag varen van een Lid dat het wel heeft bekrachtigd.
 
 ## DEEL VIII. WIJZIGING VAN DE [BIJLAGEN I](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&bijlage=I&z=2020-12-19&g=2020-12-19), [II](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&bijlage=II&z=2020-12-19&g=2020-12-19) EN [III](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&bijlage=III&z=2020-12-19&g=2020-12-19)
 
-#### Artikel 45
+##### Artikel 45
 
 1. De Conferentie van de Internationale Arbeidsorganisatie kan de [Bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&bijlage=I&z=2020-12-19&g=2020-12-19), [II](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&bijlage=II&z=2020-12-19&g=2020-12-19) en [III](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&bijlage=III&z=2020-12-19&g=2020-12-19) in overeenstemming met de desbetreffende bepalingen van dit Verdrag wijzigen. De Raad van Beheer van het Internationaal Arbeidsbureau kan een punt op de agenda van de Conferentie zetten betreffende voorstellen voor wijzigingen die door een tripartiete vergadering van deskundigen zijn vastgesteld. Voor de beslissing de voorstellen aan te nemen is een meerderheid vereist van twee derde van de stemmen die door de bij de Conferentie aanwezige afgevaardigden zijn uitgebracht, met inbegrip van ten minste de helft van de Leden die dit Verdrag hebben bekrachtigd.
 
@@ -544,15 +566,15 @@ Elk Lid past dit Verdrag op zodanige wijze toe dat gewaarborgd wordt dat de viss
 
 ## DEEL IX. SLOTBEPALINGEN
 
-#### Artikel 46
+##### Artikel 46
 
 Dit Verdrag herziet het Verdrag betreffende de minimumleeftijd voor toelating tot de tewerkstelling als visser, 1959 (nr. 112), het [Verdrag betreffende het geneeskundig onderzoek van vissers](https://wetten.overheid.nl/jci1.3:c:BWBV0004948), 1959 (nr. 113), het [Verdrag betreffende de arbeidsovereenkomst van vissers](https://wetten.overheid.nl/jci1.3:c:BWBV0004949), 1959 (nr. 114) en het [Verdrag betreffende de accommodatie aan boord van vissersschepen](https://wetten.overheid.nl/jci1.3:c:BWBV0004669), 1966 (nr. 126).
 
-#### Artikel 47
+##### Artikel 47
 
 De formele bekrachtigingen van dit Verdrag worden medegedeeld aan de Directeur-Generaal van het Internationaal Arbeidsbureau ten behoeve van registratie.
 
-#### Artikel 48
+##### Artikel 48
 
 1. Dit Verdrag is slechts verbindend voor de Leden van de Internationale Arbeidsorganisatie die hun bekrachtigingen door de Directeur-Generaal van het Internationaal Arbeidsbureau hebben doen registreren.
 
@@ -560,27 +582,27 @@ De formele bekrachtigingen van dit Verdrag worden medegedeeld aan de Directeur-G
 
 3. Vervolgens treedt dit Verdrag voor elk Lid in werking 12 maanden na de datum waarop zijn bekrachtiging is geregistreerd.
 
-#### Artikel 49
+##### Artikel 49
 
 1. Een Lid dat dit Verdrag heeft bekrachtigd, kan het opzeggen na afloop van een termijn van tien jaar na de datum waarop het Verdrag voor het eerst in werking is getreden, door middel van een aan de Directeur-Generaal van het Internationaal Arbeidsbureau gerichte en door deze geregistreerde verklaring. De opzegging wordt eerst van kracht een jaar na de datum waarop zij is geregistreerd.
 
 2. Elk Lid dat dit Verdrag heeft bekrachtigd en niet binnen een jaar na afloop van de termijn van tien jaar bedoeld in het vorige lid, gebruik maakt van de bevoegdheid tot opzegging voorzien in dit artikel, is voor een nieuwe termijn van tien jaar gebonden en kan daarna dit Verdrag opzeggen binnen het eerste jaar van elke nieuwe termijn van tien jaar op de voorwaarden voorzien in dit artikel.
 
-#### Artikel 50
+##### Artikel 50
 
 1. De Directeur-Generaal van het Internationaal Arbeidsbureau stelt alle Leden van de Internationale Arbeidsorganisatie in kennis van de registratie van alle bekrachtigingen, verklaringen en opzeggingen die hem door de Leden van de Organisatie zijn medegedeeld.
 
 2. Bij kennisgeving aan de Leden van de Organisatie van de registratie van de laatste bekrachtiging die vereist is om het Verdrag in werking te doen treden, vestigt de Directeur-Generaal de aandacht van de Leden van de Organisatie op de datum waarop het Verdrag in werking zal treden.
 
-#### Artikel 51
+##### Artikel 51
 
 De Directeur-Generaal van het Internationaal Arbeidsbureau doet aan de Secretaris-Generaal van de Verenigde Naties mededeling, ter registratie in overeenstemming met [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102), van alle bijzonderheden omtrent alle bekrachtigingen, verklaringen en opzeggingen die door de Directeur-Generaal zijn geregistreerd.
 
-#### Artikel 52
+##### Artikel 52
 
 De Raad van Beheer van het Internationaal Arbeidsbureau brengt, telkens wanneer hij dit noodzakelijk acht, aan de Algemene Conferentie verslag uit over de toepassing van dit Verdrag en onderzoekt of het wenselijk is de gehele of gedeeltelijke herziening ervan op de agenda van de Conferentie te plaatsen, tevens rekening houdend met de bepalingen van [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=VIII&artikel=45&z=2020-12-19&g=2020-12-19).
 
-#### Artikel 53
+##### Artikel 53
 
 1. Indien de Conferentie een nieuw verdrag aanneemt, houdende herziening van dit Verdrag, zal, tenzij het nieuwe verdrag anders bepaalt:
 
@@ -590,7 +612,7 @@ De Raad van Beheer van het Internationaal Arbeidsbureau brengt, telkens wanneer 
 
 2. Dit Verdrag blijft in elk geval naar huidige vorm en inhoud van kracht voor de Leden die het hebben bekrachtigd en die het nieuwe verdrag, houdende herziening, niet hebben bekrachtigd.
 
-#### Artikel 54
+##### Artikel 54
 
 De Engelse en de Franse tekst van dit Verdrag zijn gelijkelijk authentiek.
 

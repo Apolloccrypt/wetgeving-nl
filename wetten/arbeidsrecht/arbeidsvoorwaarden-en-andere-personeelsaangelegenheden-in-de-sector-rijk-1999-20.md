@@ -1,13 +1,37 @@
 ---
 title: "Arbeidsvoorwaarden en andere personeelsaangelegenheden in de sector Rijk 1999-2000"
 identifier: "BWBR0010508"
-categorie: "Arbeidsrecht"
-publicatiedatum: 1999-06-28
-laatste_update: 1999-06-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010508"
+country: "nl"
+rank: "circulaire"
+publication_date: "1999-06-28"
+last_updated: "1999-06-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010508"
+soort: "circulaire"
+stam_id: "6369873"
+version_id: "11032942"
+internal_id: "C15928301"
+label_id: "6359604"
+original_entry_into_force: "1999-06-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010508/1999-06-28/0"
+intitule_bron: "Stcrt.1999-120"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-06-08"
+intitule_published: "1999-06-28"
+intitule_in_force: "1999-06-28"
+intitule_status: "goed"
+original_publication: "Stcrt.1999-120"
+original_signed_date: "1999-06-08"
+original_published_date: "1999-06-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1999-120-p10-SC19453"
+entry_into_force_date: "1999-06-28"
+jci_1_3: "jci1.3:c:BWBR0010508&z=1999-06-28&g=1999-06-28"
+jci_1_0: "1.0:c:BWBR0010508&g=1999-06-28"
+citeertitel_status: "redactioneel"
+signed_date: "1999-06-08"
+entry_into_force: "1999-06-28"
 ---
-
 # Arbeidsvoorwaarden en andere personeelsaangelegenheden in de sector Rijk 1999-2000
 
 Circulaire aan de ministers

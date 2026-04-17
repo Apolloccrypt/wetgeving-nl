@@ -1,13 +1,32 @@
 ---
 title: "Verdrag tot bescherming van de rechten van de mens en de waardigheid van het menselijk wezen met betrekking tot de toepassing van de biologie en de geneeskunde: Verdrag inzake de rechten van de mens en de biogeneeskunde"
 identifier: "BWBV0005627"
-categorie: "Internationaal recht"
-publicatiedatum: 1997-04-04
-laatste_update: 1997-04-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005627"
+country: "nl"
+rank: "verdrag"
+publication_date: "1997-04-04"
+last_updated: "1997-04-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005627"
+soort: "verdrag"
+stam_id: "10004792063"
+version_id: "10005090052"
+internal_id: "C10007717221"
+label_id: "10004776204"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005627/1997-04-04/0"
+intitule_bron: "Trb.1997-113"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1997-06-06"
+intitule_status: "nogniet"
+original_publication: "Trb.1997-113"
+original_published_date: "1997-06-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1997-113"
+jci_1_3: "jci1.3:c:BWBV0005627&z=1997-04-04&g=1997-04-04"
+jci_1_0: "1.0:c:BWBV0005627&g=1997-04-04"
+citeertitel_status: "redactioneel"
+entry_into_force: "1997-06-06"
 ---
-
 # Verdrag tot bescherming van de rechten van de mens en de waardigheid van het menselijk wezen met betrekking tot de toepassing van de biologie en de geneeskunde: Verdrag inzake de rechten van de mens en de biogeneeskunde
 
 Preambule
@@ -50,27 +69,27 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Doel en onderwerp
+##### Artikel 1. Doel en onderwerp
 
 De Partijen bij dit Verdrag beschermen de waardigheid en identiteit van het menselijk wezen en waarborgen iedereen, zonder onderscheid, dat zijn integriteit en andere rechten en fundamentele vrijheden met betrekking tot de toepassing van de biologie en de geneeskunde worden geëerbiedigd.
 
 Iedere Partij neemt in zijn nationale recht de maatregelen die nodig zijn om uitvoering te geven aan de bepalingen van dit Verdrag.
 
-#### Artikel 2. Het primaat van het menselijk wezen
+##### Artikel 2. Het primaat van het menselijk wezen
 
 De belangen en het welzijn van het menselijk wezen gaan boven het uitsluitende belang van de samenleving en de wetenschap.
 
-#### Artikel 3. Gelijke toegangsmogelijkheden tot de gezondheidszorg
+##### Artikel 3. Gelijke toegangsmogelijkheden tot de gezondheidszorg
 
 De Partijen nemen, rekening houdend met de behoefte aan gezondheidszorg en met de beschikbare middelen, de nodige maatregelen teneinde, binnen hun jurisdictie, zorg te dragen voor gelijke toegangsmogelijkheden tot gezondheidszorg van passende kwaliteit.
 
-#### Artikel 4. Professionele standaarden
+##### Artikel 4. Professionele standaarden
 
 Elke handeling op het gebied van de gezondheidszorg, met inbegrip van onderzoek, dient te worden verricht overeenkomstig de desbetreffende professionele verplichtingen en standaarden.
 
 ### HOOFDSTUK II. TOESTEMMING
 
-#### Artikel 5. Algemene regel
+##### Artikel 5. Algemene regel
 
 Handelingen op het gebied van de gezondheidszorg mogen alleen worden verricht nadat de betrokken persoon vrijwillig, op basis van verkregen informatie, zijn toestemming heeft gegeven.
 
@@ -78,7 +97,7 @@ De desbetreffende persoon behoort vooraf de benodigde informatie te krijgen omtr
 
 Het staat de betrokkene vrij te allen tijde zijn toestemming in te trekken.
 
-#### Artikel 6. Bescherming van personen die niet in staat zijn toestemming te geven
+##### Artikel 6. Bescherming van personen die niet in staat zijn toestemming te geven
 
 1. Onverminderd de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBV0005627&hoofdstuk=V&artikel=17&z=1997-04-04&g=1997-04-04) en [20](https://wetten.overheid.nl/jci1.3:c:BWBV0005627&hoofdstuk=VI&artikel=20&z=1997-04-04&g=1997-04-04) mag een handeling ten aanzien van een persoon die niet in staat is zijn toestemming te geven alleen worden verricht wanneer deze hem of haar rechtstreeks ten goede komt.
 
@@ -94,21 +113,21 @@ De desbetreffende persoon wordt voor zover mogelijk betrokken bij de machtigings
 
 5. De in het tweede en derde lid bedoelde machtiging kan in het belang van de betrokkene te allen tijde worden ingetrokken.
 
-#### Artikel 7. Bescherming van personen met een geestelijke stoornis
+##### Artikel 7. Bescherming van personen met een geestelijke stoornis
 
 Onverminderd de bij wet voorgeschreven beschermende voorwaarden, met inbegrip van toezicht-, controle- en beroepsprocedures, mag een persoon met een ernstige geestelijke stoornis alleen dan zonder zijn of haar toestemming aan handelingen ter behandeling van zijn of haar geestelijke stoornis worden onderworpen wanneer, zonder een dergelijke behandeling, ernstige schade voor zijn of haar gezondheid te duchten is.
 
-#### Artikel 8. Noodsituatie
+##### Artikel 8. Noodsituatie
 
 Wanneer vanwege een noodsituatie de vereiste toestemming niet kan worden verkregen, mogen medisch gezien direct noodzakelijke handelingen worden verricht indien zulks voor de gezondheid van de betrokkene nodig is.
 
-#### Artikel 9. Eerder geuite wensen
+##### Artikel 9. Eerder geuite wensen
 
 Met de wensen eerder geuit met betrekking tot een medische behandeling door een patiënt, die ten tijde van de handeling niet in staat is zijn of haar wensen te uiten, wordt rekening gehouden.
 
 ### HOOFDSTUK III. PRIVÉ-LEVEN EN RECHT OP INFORMATIE
 
-#### Artikel 10. Privé-leven en recht op informatie
+##### Artikel 10. Privé-leven en recht op informatie
 
 1. Een ieder heeft met betrekking tot informatie over zijn of haar gezondheid recht op eerbiediging van het privé-leven.
 
@@ -118,29 +137,29 @@ Met de wensen eerder geuit met betrekking tot een medische behandeling door een 
 
 ### HOOFDSTUK IV. MENSELIJK GENOOM
 
-#### Artikel 11. Non-discriminatie
+##### Artikel 11. Non-discriminatie
 
 Elke vorm van discriminatie van een persoon op grond van zijn of haar genetisch erfgoed is verboden.
 
-#### Artikel 12. Voorspellend genetisch onderzoek
+##### Artikel 12. Voorspellend genetisch onderzoek
 
 Onderzoek waarmee een genetische ziekte kan worden voorspeld of dat dient om vast te stellen of betrokkene drager is van een gen dat verantwoordelijk is voor een ziekte of om een genetische aanleg of vatbaarheid voor een ziekte op te sporen, mag alleen worden uitgevoerd voor gezondheidsdoeleinden of voor met gezondheidsdoeleinden verband houdend wetenschappelijk onderzoek, en moet vergezeld gaan van passende advisering op genetisch gebied.
 
-#### Artikel 13. Ingrepen in het menselijk genoom
+##### Artikel 13. Ingrepen in het menselijk genoom
 
 Een ingreep die ten doel heeft verandering te brengen in het menselijk genoom mag alleen worden verricht voor preventieve, diagnostische of therapeutische doeleinden en uitsluitend wanneer hiermee niet wordt beoogd een verandering aan te brengen in het genoom van nakomelingen.
 
-#### Artikel 14. Geen selectie op geslacht
+##### Artikel 14. Geen selectie op geslacht
 
 Het gebruik van kunstmatige voortplantingstechnieken om daarmee het geslacht van het toekomstige kind te kiezen, is niet toegestaan, behalve ter voorkoming van een ernstige geslachtsgebonden erfelijke aandoening.
 
 ### HOOFDSTUK V. WETENSCHAPPELIJK ONDERZOEK
 
-#### Artikel 15. Algemene regel
+##### Artikel 15. Algemene regel
 
 Wetenschappelijk onderzoek op het terrein van de biologie en de geneeskunde kan vrijelijk worden uitgevoerd, met inachtneming van de bepalingen van dit Verdrag en de overige wettelijke bepalingen ter bescherming van het menselijk wezen.
 
-#### Artikel 16. Bescherming van proefpersonen
+##### Artikel 16. Bescherming van proefpersonen
 
 Wetenschappelijk onderzoek met mensen mag alleen worden verricht als aan alle volgende voorwaarden wordt voldaan:
 
@@ -154,7 +173,7 @@ Wetenschappelijk onderzoek met mensen mag alleen worden verricht als aan alle vo
 
 - v. de vereiste toestemming bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005627&hoofdstuk=II&artikel=5&z=1997-04-04&g=1997-04-04) is uitdrukkelijk en specifiek gegeven, en wordt schriftelijk vastgelegd. De toestemming kan te allen tijde vrijelijk worden ingetrokken.
 
-#### Artikel 17. Bescherming van personen die niet in staat zijn toestemming te geven voor wetenschappelijk onderzoek
+##### Artikel 17. Bescherming van personen die niet in staat zijn toestemming te geven voor wetenschappelijk onderzoek
 
 1. Onderzoek op een persoon die niet in staat is de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005627&hoofdstuk=II&artikel=5&z=1997-04-04&g=1997-04-04) bedoelde toestemming te geven, mag alleen worden verricht als aan alle volgende voorwaarden wordt voldaan:
 
@@ -174,7 +193,7 @@ Wetenschappelijk onderzoek met mensen mag alleen worden verricht als aan alle vo
 
 - ii. het onderzoek brengt voor de betrokkene slechts een minimaal risico en een minimale belasting met zich mee.
 
-#### Artikel 18. Wetenschappelijk onderzoek met embryo's in vitro
+##### Artikel 18. Wetenschappelijk onderzoek met embryo's in vitro
 
 1. Indien onderzoek met embryo's in vitro bij wet is toegestaan, dient de wet voldoende bescherming aan het embryo te bieden.
 
@@ -182,13 +201,13 @@ Wetenschappelijk onderzoek met mensen mag alleen worden verricht als aan alle vo
 
 ### HOOFDSTUK VI. HET VERWIJDEREN VAN ORGANEN EN WEEFSEL BIJ LEVENDE DONORS VOOR TRANSPLANTATIEDOELEINDEN
 
-#### Artikel 19. Algemene regel
+##### Artikel 19. Algemene regel
 
 1. De verwijdering van organen of weefsel bij een levende persoon voor transplantatiedoeleinden mag alleen geschieden in het therapeutische belang van de ontvanger en wanneer er geen geschikt orgaan of weefsel beschikbaar is van een overleden persoon en er geen andere therapeutische methode is die qua doeltreffendheid vergelijkbaar is.
 
 2. De vereiste instemming bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005627&hoofdstuk=II&artikel=5&z=1997-04-04&g=1997-04-04) moet uitdrukkelijk en specifiek zijn gegeven, hetzij schriftelijk, hetzij ten overstaan van een officiële instantie.
 
-#### Artikel 20. Bescherming van personen die niet in staat zijn toestemming te geven voor de verwijdering van organen
+##### Artikel 20. Bescherming van personen die niet in staat zijn toestemming te geven voor de verwijdering van organen
 
 1. Bij personen die niet in staat zijn hun toestemming te geven overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005627&hoofdstuk=II&artikel=5&z=1997-04-04&g=1997-04-04), mag geen orgaan of weefsel worden verwijderd.
 
@@ -206,49 +225,49 @@ Wetenschappelijk onderzoek met mensen mag alleen worden verricht als aan alle vo
 
 ### HOOFDSTUK VII. VERBOD VAN FINANCIEEL VOORDEEL EN BESCHIKKING OVER BESTANDDELEN VAN HET MENSELIJK LICHAAM
 
-#### Artikel 21. Verbod van financieel voordeel
+##### Artikel 21. Verbod van financieel voordeel
 
 Het menselijk lichaam en zijn bestanddelen mogen, als zodanig, niet dienen tot verkrijging van financieel voordeel.
 
-#### Artikel 22. Beschikking over verwijderde bestanddelen van het menselijk lichaam
+##### Artikel 22. Beschikking over verwijderde bestanddelen van het menselijk lichaam
 
 Wanneer tijdens een medische verrichting een deel van het menselijk lichaam is verwijderd, kan dit alleen worden opgeslagen en gebruikt voor een ander doel dan waarvoor het is verwijderd, indien zulks geschiedt overeenkomstig de passende informatie- en instemmingsprocedures.
 
 ### HOOFDSTUK VIII. SCHENDINGEN VAN DE BEPALINGEN VAN HET VERDRAG
 
-#### Artikel 23. Schendingen van de rechten of beginselen
+##### Artikel 23. Schendingen van de rechten of beginselen
 
 De Partijen bieden een passende juridische bescherming om schendingen van de in dit Verdrag genoemde rechten en beginselen te voorkomen of op korte termijn een halt toe te roepen.
 
-#### Artikel 24. Vergoeding voor niet te rechtvaardigen schade
+##### Artikel 24. Vergoeding voor niet te rechtvaardigen schade
 
 Degene die niet te rechtvaardigen schade heeft geleden als gevolg van een verrichting heeft recht op een billijke schadevergoeding overeenkomstig de wettelijke voorwaarden en procedures.
 
-#### Artikel 25. Sancties
+##### Artikel 25. Sancties
 
 Partijen voorzien in de nodige sancties die moeten worden toegepast in geval van schending van de bepalingen van dit Verdrag.
 
 ### HOOFDSTUK IX. VERHOUDING TUSSEN DIT VERDRAG EN ANDERE BEPALINGEN
 
-#### Artikel 26. Beperkingen van de uitoefening van rechten
+##### Artikel 26. Beperkingen van de uitoefening van rechten
 
 1. De uitoefening van de in dit Verdrag vervatte rechten en beschermende bepalingen kan aan geen andere beperkingen worden onderworpen dan die welke bij wet zijn voorzien en die in een democratische samenleving nodig zijn in het belang van de openbare veiligheid, ter voorkoming van strafbare feiten, voor de bescherming van de volksgezondheid of ter bescherming van de rechten en vrijheden van anderen.
 
 2. De in het eerste lid bedoelde beperkingen mogen niet worden toegepast op de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBV0005627&hoofdstuk=IV&artikel=11&z=1997-04-04&g=1997-04-04), [13](https://wetten.overheid.nl/jci1.3:c:BWBV0005627&hoofdstuk=IV&artikel=13&z=1997-04-04&g=1997-04-04), [14](https://wetten.overheid.nl/jci1.3:c:BWBV0005627&hoofdstuk=IV&artikel=14&z=1997-04-04&g=1997-04-04), [16](https://wetten.overheid.nl/jci1.3:c:BWBV0005627&hoofdstuk=V&artikel=16&z=1997-04-04&g=1997-04-04), [17](https://wetten.overheid.nl/jci1.3:c:BWBV0005627&hoofdstuk=V&artikel=17&z=1997-04-04&g=1997-04-04), [19](https://wetten.overheid.nl/jci1.3:c:BWBV0005627&hoofdstuk=VI&artikel=19&z=1997-04-04&g=1997-04-04), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0005627&hoofdstuk=VI&artikel=20&z=1997-04-04&g=1997-04-04) en [21](https://wetten.overheid.nl/jci1.3:c:BWBV0005627&hoofdstuk=VII&artikel=21&z=1997-04-04&g=1997-04-04).
 
-#### Artikel 27. Ruimere bescherming
+##### Artikel 27. Ruimere bescherming
 
 Geen enkele bepaling van dit Verdrag mag zodanig worden uitgelegd dat hierdoor de mogelijkheid van een Partij om een ruimere bescherming te bieden met betrekking tot de toepassing van de biologie en de geneeskunde dan die waarin dit Verdrag voorziet, wordt beperkt of op andere wijze wordt aangetast.
 
 ### HOOFDSTUK X. OPENBAAR DEBAT
 
-#### Artikel 28. Openbaar debat
+##### Artikel 28. Openbaar debat
 
 De Partijen bij dit Verdrag zien erop toe dat de fundamentele vraagstukken die worden opgeroepen door de ontwikkelingen op het gebied van de biologie en de geneeskunde het onderwerp vormen van een passende openbare discussie, in het bijzonder wat betreft de relevante medische, sociale, economische, ethische en juridische implicaties, en dat de mogelijke toepassingen onderwerp vormen van behoorlijke overlegprocedures.
 
 ### HOOFDSTUK XI. INTERPRETATIE EN FOLLOW-UP VAN HET VERDRAG
 
-#### Artikel 29. Interpretatie van het Verdrag
+##### Artikel 29. Interpretatie van het Verdrag
 
 Het Europese Hof voor de rechten van de mens kan, los van enig concreet bij een gerecht aanhangig geschil, een adviserend oordeel uitbrengen ten aanzien van juridische vragen betreffende de interpretatie van dit Verdrag op verzoek van:
 
@@ -256,13 +275,13 @@ Het Europese Hof voor de rechten van de mens kan, los van enig concreet bij een 
 
 - –. de ingevolge [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBV0005627&hoofdstuk=XIII&artikel=32&z=1997-04-04&g=1997-04-04) ingestelde Commissie, waarvan het lidmaatschap beperkt is tot de Vertegenwoordigers van de Partijen bij dit Verdrag, na een besluit hiertoe, aangenomen met tweederde meerderheid van de uitgebrachte stemmen.
 
-#### Artikel 30. Verslaglegging betreffende de toepassing van het Verdrag
+##### Artikel 30. Verslaglegging betreffende de toepassing van het Verdrag
 
 Op verzoek van de Secretaris-Generaal van de Raad van Europa geeft elke Partij een verklaring omtrent de wijze waarop in haar nationale recht wordt zorg gedragen voor de doeltreffende uitvoering van de bepalingen van het Verdrag.
 
 ### HOOFDSTUK XII. PROTOCOLLEN
 
-#### Artikel 31. Protocollen
+##### Artikel 31. Protocollen
 
 Overeenkomstig de bepalingen van [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBV0005627&hoofdstuk=XIII&artikel=32&z=1997-04-04&g=1997-04-04) kunnen Protocollen worden opgesteld om op specifieke terreinen de in dit Verdrag vervatte beginselen verder uit te werken.
 
@@ -270,7 +289,7 @@ De Protocollen worden opengesteld voor ondertekening door de Ondertekenaars van 
 
 ### HOOFDSTUK XIII. WIJZIGING VAN HET VERDRAG
 
-#### Artikel 32. Wijziging van het Verdrag
+##### Artikel 32. Wijziging van het Verdrag
 
 1. De in dit artikel en in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0005627&hoofdstuk=XI&artikel=29&z=1997-04-04&g=1997-04-04) aan “de Commissie” opgedragen taken worden uitgevoerd door de Stuurgroep inzake bio-ethiek (CDBI) (hierna te noemen “de Commissie”), of door een andere daartoe door het Comité van Ministers aangewezen commissie.
 
@@ -290,7 +309,7 @@ Ten aanzien van iedere Partij die de wijziging op een later tijdstip aanvaardt, 
 
 ### HOOFDSTUK XIV. SLOTBEPALINGEN
 
-#### Artikel 33. Ondertekening, bekrachtiging en inwerkingtreding
+##### Artikel 33. Ondertekening, bekrachtiging en inwerkingtreding
 
 1. Dit Verdrag is opengesteld voor ondertekening door de Lidstaten van de Raad van Europa, door de niet-Lidstaten die aan de opstelling ervan hebben meegewerkt en door de Europese Gemeenschap.
 
@@ -300,13 +319,13 @@ Ten aanzien van iedere Partij die de wijziging op een later tijdstip aanvaardt, 
 
 4. Ten aanzien van iedere Ondertekenaar die nadien te kennen geeft dat hij ermee instemt door het Verdrag te worden gebonden, treedt het in werking op de eerste dag van de maand volgend op het verstrijken van een tijdvak van drie maanden na de datum van nederlegging van de akte van bekrachtiging, aanvaarding of goedkeuring.
 
-#### Artikel 34. Niet-Lidstaten
+##### Artikel 34. Niet-Lidstaten
 
 1. Na de inwerkingtreding van dit Verdrag kan het Comité van Ministers van de Raad van Europa, na overleg met de Partijen, iedere Staat die geen lid is van de Raad van Europa uitnodigen tot dit Verdrag toe te treden ingevolge een bij meerderheid van stemmen genomen besluit, zoals voorzien in [artikel 20, letter d, van het Statuut van de Raad van Europa](https://wetten.overheid.nl/jci1.3:c:BWBV0005506&artikel=20) en met eenparigheid van stemmen van de vertegenwoordigers der Verdragsluitende Staten die zijn gerechtigd zitting te hebben in het Comité van Ministers.
 
 2. Ten aanzien van iedere Staat die toetreedt, treedt het Verdrag in werking op de eerste dag van de maand volgend op het verstrijken van een tijdvak van drie maanden na de datum van nederlegging van de akte van toetreding bij de Secretaris-Generaal van de Raad van Europa.
 
-#### Artikel 35. Territoriale toepassing
+##### Artikel 35. Territoriale toepassing
 
 1. Iedere Ondertekenaar kan bij de ondertekening of de nederlegging van zijn akte van bekrachtiging, aanvaarding of goedkeuring het gebied of de gebieden aanwijzen waarop dit Verdrag van toepassing is. Iedere andere Staat kan een dergelijke verklaring afleggen bij de nederlegging van zijn akte van toetreding.
 
@@ -314,7 +333,7 @@ Ten aanzien van iedere Partij die de wijziging op een later tijdstip aanvaardt, 
 
 3. Iedere verklaring afgelegd krachtens beide voorgaande leden kan wat betreft elk daarin aangewezen gebied worden ingetrokken door middel van een kennisgeving gericht aan de Secretaris-Generaal. De intrekking wordt van kracht op de eerste dag van de maand volgend op het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 36. Voorbehouden
+##### Artikel 36. Voorbehouden
 
 1. Iedere Staat en de Europese Gemeenschap kunnen bij de ondertekening van dit Verdrag of bij de nederlegging van de akte van bekrachtiging een voorbehoud maken met betrekking tot een specifieke bepaling van het Verdrag voor zover een op zijn/haar grondgebied op dat moment geldende wet niet in overeenstemming is met de betrokken bepaling. Voorbehouden van algemene aard zijn niet toegestaan op grond van dit artikel.
 
@@ -324,13 +343,13 @@ Ten aanzien van iedere Partij die de wijziging op een later tijdstip aanvaardt, 
 
 4. Iedere Partij die het in dit artikel bedoelde voorbehoud heeft gemaakt, kan dit intrekken door middel van een verklaring gericht aan de Secretaris-Generaal van de Raad van Europa. De intrekking wordt van kracht op de eerste dag van de maand volgend op het verstrijken van een tijdvak van een maand na de datum van ontvangst van de verklaring door de Secretaris-Generaal.
 
-#### Artikel 37. Opzegging
+##### Artikel 37. Opzegging
 
 1. Iedere Partij kan te allen tijde dit Verdrag opzeggen door middel van een kennisgeving gericht aan de Secretaris-Generaal van de Raad van Europa.
 
 2. De opzegging wordt van kracht op de eerste dag van de maand volgend op het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 38. Kennisgevingen
+##### Artikel 38. Kennisgevingen
 
 De Secretaris-Generaal van de Raad van Europa geeft de Lidstaten van de Raad van Europa, de Europese Gemeenschap, iedere Ondertekenaar, iedere Partij en iedere andere Staat die is uitgenodigd tot dit Verdrag toe te treden, kennis van:
 

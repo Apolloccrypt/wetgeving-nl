@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst van Wenen tot instelling van een internationale classificatie van beeldbestanddelen van merken"
 identifier: "BWBV0003767"
-categorie: "Internationaal recht"
-publicatiedatum: 2007-01-31
-laatste_update: 1985-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003767"
+country: "nl"
+rank: "verdrag"
+publication_date: "2007-01-31"
+last_updated: "1985-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003767"
+soort: "verdrag"
+stam_id: "10003702793"
+version_id: "10003763742"
+internal_id: "C10006982851"
+label_id: "10003688104"
+dtd_version: "2.0"
+original_entry_into_force: "1985-08-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003767/2007-01-31/0"
+intitule_bron: "Trb.1974-208"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1974-11-20"
+intitule_in_force: "1985-07-05"
+intitule_status: "goed"
+original_publication: "Trb.1974-208"
+original_published_date: "1974-11-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1974-208"
+entry_into_force_date: "1985-08-09"
+jci_1_3: "jci1.3:c:BWBV0003767&z=2007-01-31&g=2007-01-31"
+jci_1_0: "1.0:c:BWBV0003767&g=2007-01-31"
+citeertitel_status: "redactioneel"
+entry_into_force: "1985-08-09"
 ---
-
 # Overeenkomst van Wenen tot instelling van een internationale classificatie van beeldbestanddelen van merken
 
 De Overeenkomstsluitende Partijen,
@@ -16,11 +38,11 @@ Gelet op [artikel 19 van het Verdrag van Parijs tot bescherming van de industri�
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Oprichting van een bijzondere Unie; vaststelling van een internationale classificatie
+##### Artikel 1. Oprichting van een bijzondere Unie; vaststelling van een internationale classificatie
 
 De landen waarvoor deze Overeenkomst geldt vormen een bijzondere Unie en aanvaarden een gemeenschappelijke classificatie van beeldbestanddelen van merken (hierna te noemen „classificatie van beeldbestanddelen”).
 
-#### Artikel 2. Omschrijving en nederlegging van de classificatie van beeldbestanddelen
+##### Artikel 2. Omschrijving en nederlegging van de classificatie van beeldbestanddelen
 
 1. De classificatie van beeldbestanddelen omvat een lijst van categorieën, afdelingen en onderafdelingen waarin de beeldbestanddelen van merken worden gerangschikt, eventueel vergezeld van toelichtingen.
 
@@ -28,13 +50,13 @@ De landen waarvoor deze Overeenkomst geldt vormen een bijzondere Unie en aanvaar
 
 3. De wijzigingen en aanvullingen bedoeld in artikel 5, derde lid, onder i, zijn eveneens vervat in een authentiek exemplaar in de Engelse en de Franse taal, dat wordt ondertekend door de Directeur-Generaal en dat bij hem wordt nedergelegd.
 
-#### Artikel 3. Talen van de classificatie van beeldbestanddelen
+##### Artikel 3. Talen van de classificatie van beeldbestanddelen
 
 1. De classificatie van beeldbestanddelen wordt opgesteld in de Engelse en de Franse taal, waarbij beide teksten gelijkelijk authentiek zijn.
 
 2. Het Internationale Bureau van de Organisatie (hierna te noemen „Internationaal Bureau”) stelt in overleg met de betrokken regeringen de officiële teksten van de classificatie van beeldbestanddelen op in de talen die de in artikel 7 bedoelde Algemene Vergadering kan aanwijzen krachtens het bepaalde in het tweede lid, letter a (vi), van genoemd artikel.
 
-#### Artikel 4. Toepassing van de classificatie van beeldbestanddelen
+##### Artikel 4. Toepassing van de classificatie van beeldbestanddelen
 
 1. Onverminderd de door deze Overeenkomst opgelegde verplichtingen, heeft de classificatie van beeldbestanddelen die draagwijdte die eraan wordt toegekend door ieder land van de bijzondere Unie. De classificatie van beeldbestanddelen bindt met name de landen van de bijzondere Unie niet wat betreft de omvang van de bescherming van het merk.
 
@@ -48,7 +70,7 @@ De landen waarvoor deze Overeenkomst geldt vormen een bijzondere Unie en aanvaar
 
 6. Indien een land van de bijzondere Unie de inschrijving van merken aan een intergouvernementele organisatie toevertrouwt, neemt het alle mogelijke maatregelen om te bereiken dat bedoelde organisatie de classificatie van beeldbestanddelen overeenkomstig dit artikel toepast.
 
-#### Artikel 5. Commissie van deskundigen
+##### Artikel 5. Commissie van deskundigen
 
 1. Er wordt een Commissie van deskundigen ingesteld waarin elk land van de bijzondere Unie is vertegenwoordigd.
 
@@ -80,13 +102,13 @@ De landen waarvoor deze Overeenkomst geldt vormen een bijzondere Unie en aanvaar
 
 - d). Onthouding geldt niet als stem.
 
-#### Artikel 6. Kennisgeving, inwerkingtreding en bekendmaking van de wijzigingen en aanvullingen en van andere besluiten
+##### Artikel 6. Kennisgeving, inwerkingtreding en bekendmaking van de wijzigingen en aanvullingen en van andere besluiten
 
 1. Alle besluiten van de Commissie van deskundigen betreffende wijzigingen of aanvullingen van de classificatie van beeldbestanddelen alsmede de aanbevelingen van de Commissie van deskundigen worden door het Internationale Bureau ter kennis gebracht van de bevoegde instanties van de landen van de bijzondere Unie. De wijzigingen en aanvullingen treden in werking zes maanden na de verzending van de kennisgevingen.
 
 2. Het Internationale Bureau brengt in de classificatie van beeldbestanddelen de in werking getreden wijzigingen en aanvullingen aan. De wijzigingen en aanvullingen worden bekendgemaakt in de periodieken welke worden aangewezen door de Algemene Vergadering bedoeld in artikel 7.
 
-#### Artikel 7. Algemene Vergadering van de bijzondere Unie
+##### Artikel 7. Algemene Vergadering van de bijzondere Unie
 
 - a). De bijzondere Unie kent een Algemene Vergadering, samengesteld uit de landen van de bijzondere Unie.
 
@@ -140,7 +162,7 @@ De landen waarvoor deze Overeenkomst geldt vormen een bijzondere Unie en aanvaar
 
 5. De Algemene Vergadering stelt haar eigen reglement van orde vast.
 
-#### Artikel 8. Internationaal Bureau
+##### Artikel 8. Internationaal Bureau
 
 - a). De aan de bijzondere Unie toevallende administratieve taken worden verricht door het Internationale Bureau.
 
@@ -158,7 +180,7 @@ De landen waarvoor deze Overeenkomst geldt vormen een bijzondere Unie en aanvaar
 
 4. Het Internationale Bureau voert alle overige aan hem opgedragen taken uit.
 
-#### Artikel 9. Financiën
+##### Artikel 9. Financiën
 
 - a). De bijzondere Unie heeft een begroting.
 
@@ -204,7 +226,7 @@ De landen waarvoor deze Overeenkomst geldt vormen een bijzondere Unie en aanvaar
 
 8. Het nazien der rekeningen wordt, op de wijze als voorzien in het financiële reglement, verricht door een of meer landen van de bijzondere Unie of door onafhankelijke controleurs die, met hun instemming, worden aangewezen door de Algemene Vergadering.
 
-#### Artikel 10. Herziening van de Overeenkomst
+##### Artikel 10. Herziening van de Overeenkomst
 
 1. Deze Overeenkomst kan regelmatig worden herzien door speciale conferenties van de landen van de bijzondere Unie.
 
@@ -212,7 +234,7 @@ De landen waarvoor deze Overeenkomst geldt vormen een bijzondere Unie en aanvaar
 
 3. Het bepaalde in de artikelen 7, 8, 9 en 11 kan worden gewijzigd, hetzij door herzieningsconferenties hetzij volgens het bepaalde in artikel 11.
 
-#### Artikel 11. Wijziging van enkele bepalingen van de Overeenkomst
+##### Artikel 11. Wijziging van enkele bepalingen van de Overeenkomst
 
 1. Voorstellen tot wijziging van de artikelen 7, 8 en 9 en van dit artikel kunnen worden ingediend door ieder land van de bijzondere Unie of door de Directeur-Generaal. Deze voorstellen worden door laatstgenoemde ten minste zes maanden voor zij aan de behandeling door de Algemene Vergadering worden onderworpen medegedeeld aan de landen van de bijzondere Unie.
 
@@ -224,7 +246,7 @@ De landen waarvoor deze Overeenkomst geldt vormen een bijzondere Unie en aanvaar
 
 - c). Iedere wijziging die is aanvaard overeenkomstig het bepaalde onder a) bindt alle landen die lid worden van de bijzondere Unie na het tijdstip waarop de wijziging van kracht wordt krachtens het bepaalde onder a).
 
-#### Artikel 12. Wijze waarop de landen partij kunnen worden bij de Overeenkomst
+##### Artikel 12. Wijze waarop de landen partij kunnen worden bij de Overeenkomst
 
 1. Ieder land, dat partij is bij het [Verdrag van Parijs tot bescherming van de industriële eigendom](https://wetten.overheid.nl/jci1.3:c:BWBV0004120), kan partij worden bij deze Overeenkomst door:
 
@@ -238,7 +260,7 @@ De landen waarvoor deze Overeenkomst geldt vormen een bijzondere Unie en aanvaar
 
 4. Het bepaalde in het derde lid mag in geen geval worden uitgelegd als een erkenning of stilzwijgende aanvaarding door een van de landen van de bijzondere Unie van de feitelijke situatie van een grondgebied waarop deze Overeenkomst van toepassing is verklaard door een ander land krachtens het bepaalde in het genoemde lid.
 
-#### Artikel 13. Inwerkingtreding van de Overeenkomst
+##### Artikel 13. Inwerkingtreding van de Overeenkomst
 
 1. Voor de eerste vijf landen die een akte van bekrachtiging of van toetreding hebben nedergelegd, treedt deze Overeenkomst in werking drie maanden na de nederlegging van de vijfde akte van bekrachtiging of van toetreding.
 
@@ -246,11 +268,11 @@ De landen waarvoor deze Overeenkomst geldt vormen een bijzondere Unie en aanvaar
 
 3. Bekrachtiging of toetreding houdt van rechtswege in aanvaarding van alle bepalingen en toelating tot alle voordelen in deze Overeenkomst vastgelegd.
 
-#### Artikel 14. Looptijd van de Overeenkomst
+##### Artikel 14. Looptijd van de Overeenkomst
 
 Deze Overeenkomst heeft dezelfde looptijd als het [Verdrag van Parijs voor de bescherming van de industriële eigendom](https://wetten.overheid.nl/jci1.3:c:BWBV0004120).
 
-#### Artikel 15. Opzegging
+##### Artikel 15. Opzegging
 
 1. Elk land van de bijzondere Unie kan deze Overeenkomst opzeggen door een kennisgeving gericht aan de Directeur-Generaal.
 
@@ -258,7 +280,7 @@ Deze Overeenkomst heeft dezelfde looptijd als het [Verdrag van Parijs voor de be
 
 3. De bevoegdheid tot opzegging bedoeld in dit artikel kan door een land slechts worden uitgeoefend na afloop van een termijn van vijf jaren te rekenen van de datum waarop dit land lid is geworden van de bijzondere Unie.
 
-#### Artikel 16. Geschillen
+##### Artikel 16. Geschillen
 
 1. Elk geschil tussen twee of meer landen van de bijzondere Unie betreffende de uitlegging of de toepassing van deze Overeenkomst dat niet door onderhandelingen kan worden beslecht, kan door een der betrokken landen worden voorgelegd aan het Internationale Gerechtshof door middel van een verzoek overeenkomstig het [statuut van het Hof](https://wetten.overheid.nl/jci1.3:c:BWBV0005509), tenzij de betrokken landen een andere wijze ter beslechting van het geschil overeenkomen. Het Internationale Bureau dient door het verzoekende land in kennis te worden gesteld van het aan het Hof voorgelegde geschil; het Bureau stelt de andere landen van de bijzondere Unie hiervan in kennis.
 
@@ -266,7 +288,7 @@ Deze Overeenkomst heeft dezelfde looptijd als het [Verdrag van Parijs voor de be
 
 3. Elk land dat overeenkomstig het bepaalde in het tweede lid een verklaring heeft afgelegd, kan deze te allen tijde intrekken door een aan de Directeur-Generaal gerichte kennisgeving.
 
-#### Artikel 17. Ondertekening, talen, functies van de depositaris, kennisgevingen
+##### Artikel 17. Ondertekening, talen, functies van de depositaris, kennisgevingen
 
 - a). Deze Overeenkomst wordt ondertekend in een enkel origineel exemplaar, in de Engelse en de Franse taal, waarbij beide teksten gelijkelijk authentiek zijn.
 

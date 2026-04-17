@@ -1,13 +1,37 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Vlaamse Gemeenschap van België inzake de accreditatie van opleidingen binnen het Nederlandse en Vlaamse hoger onderwijs"
 identifier: "BWBV0001698"
-categorie: "Onderwijs"
-publicatiedatum: 2014-04-01
-laatste_update: 2014-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001698"
+country: "nl"
+rank: "verdrag"
+publication_date: "2014-04-01"
+last_updated: "2014-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001698"
+soort: "verdrag"
+stam_id: "10001088543"
+version_id: "10001116822"
+internal_id: "C10006994961"
+label_id: "10001088884"
+original_entry_into_force: "2005-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001698/2014-04-01/0"
+intitule_bron: "Trb.2003-167"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-12-24"
+intitule_published: "2003-10-20"
+intitule_in_force: "2005-02-23"
+intitule_status: "goed"
+original_publication: "Trb.2003-167"
+original_signed_date: "2004-12-24"
+original_published_date: "2003-10-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2003-167"
+entry_into_force_date: "2005-02-01"
+jci_1_3: "jci1.3:c:BWBV0001698&z=2014-04-01&g=2014-04-01"
+jci_1_0: "1.0:c:BWBV0001698&g=2014-04-01"
+citeertitel_status: "officieel"
+signed_date: "2004-12-24"
+entry_into_force: "2005-02-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Vlaamse Gemeenschap van België inzake de accreditatie van opleidingen binnen het Nederlandse en Vlaamse hoger onderwijs
 
 Het Koninkrijk der Nederlanden en
@@ -32,7 +56,7 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK 1. ACCREDITATIEORGANISATIE EN OPDRACHT
 
-#### Artikel 1
+##### Artikel 1
 
 1. De Verdragsluitende Partijen belasten de Nederlands-Vlaamse Accreditatieorganisatie, hierna te noemen de Accreditatieorganisatie, met de taak opleidingen binnen het hoger onderwijs, verzorgd door in Nederland of in Vlaanderen gevestigde instellingen, een toets nieuwe opleiding te laten ondergaan of te accrediteren of deze instellingen een instellingstoets kwaliteitszorg, respectievelijk instellingsreview, af te nemen overeenkomstig de regels die bij of krachtens Nederlandse wet respectievelijk Vlaams decreet zijn gesteld.
 
@@ -42,13 +66,13 @@ Zijn het volgende overeengekomen:
 
 4. De zetel van de Accreditatieorganisatie is gelegen in Den Haag.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Accreditatieorganisatie heeft rechtspersoonlijkheid naar Nederlands recht.
 
 2. De Accreditatieorganisatie kan overeenkomstig Nederlandse wetgeving besluiten nemen naar Nederlands recht en overeenkomstig Vlaamse wetgeving administratieve rechtshandelingen stellen naar Belgisch recht.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De Nederlandse Minister bevoegd voor hoger onderwijs, hierna te noemen „de Nederlandse Minister” en de Vlaamse Minister bevoegd voor hoger onderwijs, hierna te noemen „de Vlaamse Minister” vormen samen het Comité van Ministers.
 
@@ -56,11 +80,11 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK 2. INRICHTING ACCREDITATIEORGANISATIE
 
-#### Artikel 4
+##### Artikel 4
 
 De Accreditatieorganisatie bestaat in ieder geval uit een Bestuur en een Adviesraad.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het Bestuur bestaat uit ten hoogste vijftien leden, waaronder een voorzitter en een vice-voorzitter.
 
@@ -76,13 +100,13 @@ De Accreditatieorganisatie bestaat in ieder geval uit een Bestuur en een Adviesr
 
 7. Voor de bestuursleden van de Accreditatieorganisatie die op het moment van inwerkingtreding van dit Verdrag door de Nederlandse Minister zijn benoemd, gelden de benoemingsperiode en overige rechtspositionele voorwaarden zoals die bij hun benoeming zijn vastgesteld. Voor de verhouding in de voordracht van nieuwe bestuursleden na de datum van inwerkingtreding van het Verdrag gelden de bestuursleden, bedoeld in de eerste volzin, als leden die door de Nederlandse Minister zijn voorgedragen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De bestuursleden zijn deskundig op het gebied van het hoger onderwijs, de beroepspraktijk van het hoger onderwijs, wetenschappelijk onderzoek of op het gebied van de kwaliteitszorg.
 
 2. Een bestuurslid vervult geen andere functies die ongewenst zijn met het oog op een goede vervulling van zijn functie of de handhaving van zijn onafhankelijkheid of van het vertrouwen daarin.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het Bestuur wordt geregeld door een Bestuursreglement. Het Bestuursreglement treft ten minste op de volgende punten een regeling:
 
@@ -100,17 +124,17 @@ De Accreditatieorganisatie bestaat in ieder geval uit een Bestuur en een Adviesr
 
 3. Het eerste Bestuursreglement zoals zal gelden bij de inwerkingtreding van dit Verdrag, wordt toegevoegd aan dit Verdrag, zonder dat het een onderdeel uitmaakt van dit Verdrag.
 
-#### Artikel 8
+##### Artikel 8
 
 De Adviesraad heeft tot taak de Accreditatieorganisatie gevraagd of ongevraagd te adviseren over het algemene beleid van de Accreditatieorganisatie.
 
 ### HOOFDSTUK 3. UITVOERING TAAK ACCREDITATIEORGANISATIE
 
-#### Artikel 9
+##### Artikel 9
 
 De Accreditatieorganisatie oordeelt binnen de termijnen en met inachtneming van de vormen en procedures zoals omschreven bij of krachtens Nederlandse wet of Vlaams decreet.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De Accreditatieorganisatie wordt gemachtigd om ten behoeve van de accreditatie van opleidingen van Vlaamse instellingen een beoordelingskader te ontwikkelen, desgevallend per opleiding of per groep van opleidingen. Dit beoordelingskader toetst wat het Vlaamse hoger onderwijs betreft de aanwezigheid van voldoende generieke kwaliteitswaarborgen in de zin van het decreet.
 
@@ -118,7 +142,7 @@ De Accreditatieorganisatie oordeelt binnen de termijnen en met inachtneming van 
 
 3. Voordat de beoordelings- en toetsingskaders van toepassing worden in de Vlaamse Gemeenschap worden zij door de Vlaamse regering bekrachtigd.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Afgestudeerden van een door de Accreditatieorganisatie geaccrediteerde Nederlandse, respectievelijk Vlaamse opleiding in het hoger onderwijs worden geacht over een gelijkwaardig getuigschrift te beschikken als de afgestudeerden van een overeenkomstige Vlaamse, respectievelijk Nederlandse geaccrediteerde opleiding in het hoger onderwijs, met dien verstande dat:
 
@@ -138,7 +162,7 @@ De Accreditatieorganisatie oordeelt binnen de termijnen en met inachtneming van 
 
 5. De Nederlandse Minister en de Vlaamse Minister zijn belast met de uitvoering van de bovengenoemde gelijkstelling van opleidingen en informeren elkaar binnen het Comité van Ministers. Zij zorgen ook voor een grensoverschrijdende bekendmaking van de Nederlandse respectievelijk Vlaamse lijst van de geaccrediteerde bachelor- en masteropleidingen in Vlaanderen respectievelijk in Nederland.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Indien naar het oordeel van het Comité van Ministers de Accreditatieorganisatie zijn taak ernstig verwaarloost, kan het Comité de noodzakelijke voorzieningen treffen.
 
@@ -146,7 +170,7 @@ De Accreditatieorganisatie oordeelt binnen de termijnen en met inachtneming van 
 
 ### HOOFDSTUK 4. FINANCIËLE BEPALINGEN
 
-#### Artikel 13
+##### Artikel 13
 
 1. De vaststelling en wijziging van de onderstaande documenten behoeven de goedkeuring van het Comité van Ministers:
 
@@ -162,11 +186,11 @@ De Accreditatieorganisatie oordeelt binnen de termijnen en met inachtneming van 
 
 3. In geval van een geschil over een besluit als bedoeld in het tweede lid kunnen het Comité van Ministers en de Accreditatieorganisatie op grond van een arbitrageovereenkomst het geschil laten beslechten.
 
-#### Artikel 14
+##### Artikel 14
 
 De Verdragsluitende Partijen stellen aan de Accreditatieorganisatie voor uitvoering van haar opdracht de benodigde financiële middelen ter beschikking in een zodanige regeling dat het Koninkrijk der Nederlanden 60% en de Vlaamse Gemeenschap van België 40% van de kosten draagt.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Na overleg met de Accreditatieorganisatie, bepaalt elke Minister de tarieven die de Accreditatieorganisatie hanteert voor het verlenen van de accreditatie en voor het uitvoeren van de toets nieuwe opleiding en de instellingstoets kwaliteitszorg, respectievelijk de instellingsreview.
 
@@ -176,35 +200,35 @@ De Verdragsluitende Partijen stellen aan de Accreditatieorganisatie voor uitvoer
 
 ### HOOFDSTUK 5. SLOTBEPALINGEN
 
-#### Artikel 16
+##### Artikel 16
 
 Elk geschil tussen de Verdragsluitende Partijen over de uitleg en de toepassing van het Verdrag, dat niet door onderhandelingen kan worden opgelost, kan op verzoek van één der Verdragsluitende Partijen ter beslissing worden voorgelegd aan een gerecht van drie arbiters. De bepalingen over de samenstelling en procedure van het gerecht zijn opgenomen in de Bijlage bij dit Verdrag, die een geïntegreerd onderdeel vormt van dit Verdrag.
 
-#### Artikel 17
+##### Artikel 17
 
 Het Comité van Ministers stelt binnen vijf jaar na de inwerkingtreding van dit Verdrag en vervolgens telkens na vier jaar een verslag op over de werking en het functioneren van de Accreditatieorganisatie. De Nederlandse Minister zendt deze verslagen naar het Nederlandse parlement en de Vlaamse Minister naar het Vlaamse parlement.
 
-#### Artikel 18
+##### Artikel 18
 
 Dit Verdrag treedt in werking met ingang van de eerste dag van de tweede maand, volgend op de datum waarop de Verdragsluitende Partijen elkaar schriftelijk hebben medegedeeld dat aan de constitutionele eisen is voldaan.
 
-#### Artikel 19
+##### Artikel 19
 
 Voor zover het het Koninkrijk der Nederlanden betreft, is dit Verdrag alleen van toepassing op het land Nederland.
 
-#### 1
+##### 1
 
 Het gerecht, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0001698&hoofdstuk=5&artikel=16&z=2014-04-01&g=2014-04-01) van dit Verdrag, bestaat uit drie arbiters, van wie elke Verdragsluitende Partij er één benoemt. De twee aldus gekozen arbiters bereiken overeenstemming over de derde arbiter. Deze derde arbiter mag geen onderdaan zijn of in dienst zijn van het Koninkrijk der Nederlanden of het Koninkrijk België. Elk van de Verdragsluitende Partijen wijst een arbiter aan binnen een termijn van dertig dagen vanaf de datum waarop één van de Verdragsluitende Partijen van de andere Partij een diplomatieke nota heeft ontvangen waarin om een scheidsrechtelijke beslissing wordt verzocht. Over de derde arbiter wordt binnen een volgende termijn van dertig dagen overeenstemming bereikt. Indien één van de Verdragsluitende Partijen haar eigen arbiter niet aanwijst binnen de termijn van dertig dagen of indien over de derde arbiter niet binnen de genoemde termijn overeenstemming is bereikt, kan de Secretaris-Generaal van het Permanente Hof van Arbitrage door één van de Partijen worden verzocht een arbiter of arbiters te benoemen.
 
-#### 2
+##### 2
 
 Het gerecht regelt zijn eigen werkwijze.
 
-#### 3
+##### 3
 
 Het gerecht beslist bij meerderheid van stemmen.
 
-#### 4
+##### 4
 
 De kosten van het gerecht worden door beide Verdragsluitende Partijen, elk voor de helft, gedragen. Elke Verdragsluitende Partij draagt de kosten van zijn vertegenwoordiging in het geding.
 

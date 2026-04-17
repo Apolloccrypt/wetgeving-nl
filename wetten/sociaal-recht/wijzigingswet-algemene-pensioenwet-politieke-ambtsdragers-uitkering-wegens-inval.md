@@ -1,14 +1,37 @@
 ---
-title: "Wijzigingswet Algemene pensioenwet politieke ambtsdragers (uitkering wegens invaliditeit)"
+title: "Wet van 16 mei 1994, tot wijziging van de Algemene pensioenwet politieke ambtsdragers ter zake van de uitkering wegens invaliditeit alsmede regeling van de zogenoemde stimuleringsuitkering"
 identifier: "BWBR0006673"
-categorie: "Sociaal recht"
-publicatiedatum: 1995-01-01
-laatste_update: 1995-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006673"
+country: "nl"
+rank: "wet"
+publication_date: "1995-01-01"
+last_updated: "1995-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006673"
+soort: "wet"
+stam_id: "488983"
+version_id: "725182"
+internal_id: "C725181"
+label_id: "475054"
+dtd_version: "2.0"
+original_entry_into_force: "1995-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006673/1995-01-01/0"
+intitule_bron: "Stb.1994-417"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-05-16"
+intitule_status: "goed"
+original_publication: "Stb.1994-417"
+original_signed_date: "1994-05-16"
+original_effect: "nieuwe-regeling"
+original_dossier: "23416"
+entry_into_force_date: "1995-01-01"
+jci_1_3: "jci1.3:c:BWBR0006673&z=1995-01-01&g=1995-01-01"
+jci_1_0: "1.0:c:BWBR0006673&g=1995-01-01"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet Algemene pensioenwet politieke ambtsdragers (uitkering wegens invaliditeit)"
+signed_date: "1994-05-16"
+entry_into_force: "1995-01-01"
 ---
-
-# Wijzigingswet Algemene pensioenwet politieke ambtsdragers (uitkering wegens invaliditeit)
+# Wet van 16 mei 1994, tot wijziging van de Algemene pensioenwet politieke ambtsdragers ter zake van de uitkering wegens invaliditeit alsmede regeling van de zogenoemde stimuleringsuitkering
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,11 +39,11 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is de bepalingen in de 
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel II
+##### Artikel II
 
 1. De artikelen IX tot en met XV van de [Wet terugdringing beroep op de arbeidsongeschiktheidsregelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0006072) en de krachtens artikel XV van die wet gestelde regels zijn van overeenkomstige toepassing op degene op wie [artikel III, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006673&artikel=III&z=1995-01-01&g=1995-01-01), van deze wet van toepassing is en die op 31 januari 1992 en sinds 1 januari 1990 recht heeft op uitkering als bedoeld in dat artikel.
 
@@ -34,7 +57,7 @@ Bevat wijzigingen in andere regelgeving.
 
 4. De [artikelen 121](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=121) tot en met [123 van de Algemene pensioenwet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=123) zijn van overeenkomstige toepassing.
 
-#### Artikel III
+##### Artikel III
 
 1. De bij deze wet in de [Algemene pensioenwet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691) ingevoegde artikelen 8**a**, 53**a** en 133**a**, telkens tweede lid, 8**c**, 53**c** en 133 **c**, 8**d**, 53**d** en 133**d**, telkens het eerste en het tweede lid, vinden geen toepassing ten aanzien van degene die op de dag, voorafgaande aan die waarop deze wet in werking treedt, recht heeft op wegens algemene invaliditeit voortgezette uitkering en op de dag van inwerkingtreding van deze wet 50 jaar of ouder is.
 
@@ -48,7 +71,7 @@ Bevat wijzigingen in andere regelgeving.
 
 6. De bij deze wet in de [Algemene pensioenwet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691) ingevoegde artikelen 8**d**, 53**d** en 133**d**, telkens eerste lid, vinden geen toepassing ten aanzien van degene wiens uitkering wegens algemene invaliditeit is voortgezet met ingang van een dag gelegen vóór de inwerkingtreding van deze wet.
 
-#### Artikel IV
+##### Artikel IV
 
 1. De bij deze wet vervallen artikelen 7**a** , 52**a** en 132**a** , telkens eerste en derde lid, van de [Algemene pensioenwet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691) blijven van toepassing op degene die:
 
@@ -58,19 +81,19 @@ Bevat wijzigingen in andere regelgeving.
 
 2. Van de bij deze wet in de [Algemene pensioenwet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691) ingevoegde artikelen zijn telkens het eerste lid van de artikelen 8**a**, 53**a** en 133**a**, en de artikelen 8**b**, 53**b** en 133**b** niet van toepassing op degene, bedoeld in het eerste lid.
 
-#### Artikel V
+##### Artikel V
 
 1. De periode van toekenning van een wegens algemene invaliditeit voortgezette uitkering, bedoeld in de artikelen 8**c**, 53**c** en 133**c** wordt in afwijking van die artikelen, tot een nader bij algemene maatregel van bestuur te bepalen tijdstip, gesteld op vijf jaar. Bij algemene maatregel van bestuur kan voorts worden bepaald dat na het in de eerste volzin bedoelde tijdstip, tot nog een later tijdstip, een termijn van vier jaar in aanmerking wordt genomen.
 
 2. De wijziging van de termijn, bedoeld in het eerste lid, brengt geen wijziging in de termijnen, zoals die gelden ter zake van wegens algemene invaliditeit voortgezette uitkeringen die zijn toegekend voor het tijdstip van wijziging van de termijn.
 
-#### Artikel VI
+##### Artikel VI
 
 1. Indien vanaf de datum van inwerkingtreding van deze wet de artikelen 8**d**, 53**d** of 133**d**, telkens zesde lid, worden toegepast ten aanzien van degene, bedoeld in [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0006673&artikel=III&z=1995-01-01&g=1995-01-01), wordt ten aanzien van diegene onder de in artikel 8**a**, 53**a** of 133**a**, telkens tweede lid, bedoelde arbeid verstaan de arbeid, bedoeld in de bij deze wet vervallen [artikelen 7**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=7a), [52**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=52a) en [132**a** van de Algemene pensioenwet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=132a).
 
 2. Het eerste lid geldt voor degene, bedoeld in [artikel III, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006673&artikel=III&z=1995-01-01&g=1995-01-01), tot aan het daarbedoelde tijdstip.
 
-#### Artikel VII
+##### Artikel VII
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 

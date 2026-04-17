@@ -1,30 +1,55 @@
 ---
 title: "Uitvoeringsregeling fiscale eenheid en voorkoming dubbele belasting 2003"
 identifier: "BWBR0016980"
-categorie: "Belastingrecht"
-publicatiedatum: 2012-01-01
-laatste_update: 2012-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0016980"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2012-01-01"
+last_updated: "2012-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0016980"
+soort: "ministeriele-regeling"
+stam_id: "5962143"
+version_id: "15041942"
+internal_id: "C20499821"
+label_id: "5951664"
+dtd_version: "2.0"
+original_entry_into_force: "2007-12-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0016980/2012-01-01/0"
+intitule_bron: "Stcrt.2004-133"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-07-06"
+intitule_published: "2004-07-15"
+intitule_in_force: "2004-07-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-251"
+original_signed_date: "2007-12-20"
+original_published_date: "2007-12-28"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2007-251-p14-SC83649"
+entry_into_force_date: "2007-12-20"
+jci_1_3: "jci1.3:c:BWBR0016980&z=2012-01-01&g=2012-01-01"
+jci_1_0: "1.0:c:BWBR0016980&g=2012-01-01"
+citeertitel_status: "officieel"
+signed_date: "2007-12-20"
+entry_into_force: "2007-12-20"
 ---
-
 # Uitvoeringsregeling fiscale eenheid en voorkoming dubbele belasting 2003
 
 Gelet op [artikel 42 van het Besluit fiscale eenheid 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&artikel=42);
 
 Besluit:
 
-#### Artikel 1. Algemeen en definities
+##### Artikel 1. Algemeen en definities
 
 1. Deze regeling geeft uitvoering aan de [artikelen, 42](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&artikel=42), [48a](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&artikel=48a) en [48d van het Besluit fiscale eenheid 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&artikel=48d).
 
 2. [Artikel 1, tweede lid van het Besluit fiscale eenheid 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&artikel=1) is van overeenkomstige toepassing.
 
-#### Artikel 2. Volgorde vermindering bij buitenlandse winst
+##### Artikel 2. Volgorde vermindering bij buitenlandse winst
 
 Vervallen
 
-#### Artikel 3. Volgorde vermindering bij buitenlandse bronbelasting
+##### Artikel 3. Volgorde vermindering bij buitenlandse bronbelasting
 
 1. De toepassing van [artikel 44 van het Besluit fiscale eenheid 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&artikel=44) vindt plaats met inachtneming van het tweede tot en met zevende lid.
 
@@ -52,11 +77,11 @@ Vervallen
 
 - d. de verrekeningsruimte van de fiscale eenheid: het bedrag dat tot de belasting die over de winst van de fiscale eenheid in dat jaar zonder de vermindering ter voorkoming van dubbele belasting volgens de wet verschuldigd zou zijn, in dezelfde verhouding staat als het bedrag van de netto-inkomsten van de fiscale eenheid staat tot de winst van de fiscale eenheid na verrekening volgens de daarvoor geldende regels met verliezen uit andere jaren.
 
-#### Artikel 4. Volgorde vermindering bij passieve winst uit buitenlandse onderneming
+##### Artikel 4. Volgorde vermindering bij passieve winst uit buitenlandse onderneming
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 1. Deze regeling treedt in werking met ingang van de tweede dag na de publicatie in de Staatscourant.
 
@@ -64,10 +89,10 @@ Vervallen
 
 3. In afwijking van het tweede lid vindt deze regeling ten aanzien van belastingplichtigen waarvan het verzoek bedoeld in [artikel IV, tweede lid, eerste volzin, van de Wet van 11 december 2002 tot wijziging van de Wet op de vennootschapsbelasting 1969 c.a.](https://wetten.overheid.nl/jci1.3:c:BWBR0014441&artikel=IV) (herziening regime fiscale eenheid) (Stb. 2002, 618) is ingewilligd, toepassing met ingang van het tweede boekjaar volgend op het boekjaar dat is aangevangen op of na 1 januari 2003.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling fiscale eenheid en voorkoming dubbele belasting 2003.
 
-#### Artikel 4a. Volgorde vermindering van voordelen uit laagbelaste beleggingsdeelnemingen en deelnemingsverrekening
+##### Artikel 4a. Volgorde vermindering van voordelen uit laagbelaste beleggingsdeelnemingen en deelnemingsverrekening
 
 Voor de berekening van het in aanmerking te nemen bedrag van deelnemingsverrekening of verrekening bij buitenlandse ondernemingswinsten, bedoeld in [artikel 48b](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&artikel=48b), onderscheidenlijk [artikel 48d, van het Besluit fiscale eenheid 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&artikel=48d), is [artikel 3, tweede tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016980&artikel=3&z=2012-01-01&g=2012-01-01), van overeenkomstige toepassing.

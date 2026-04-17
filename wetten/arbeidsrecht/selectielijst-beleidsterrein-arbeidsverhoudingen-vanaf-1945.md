@@ -1,13 +1,37 @@
 ---
 title: "Selectielijst beleidsterrein Arbeidsverhoudingen vanaf 1945"
 identifier: "BWBR0014813"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2003-04-11
-laatste_update: 2003-04-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0014813"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2003-04-11"
+last_updated: "2003-04-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0014813"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "4355003"
+version_id: "6111542"
+internal_id: "C25308871"
+label_id: "4333624"
+dtd_version: "2.0"
+original_entry_into_force: "2003-04-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0014813/2003-04-11/0"
+intitule_bron: "Stcrt.2003-70"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-03-14"
+intitule_published: "2003-04-09"
+intitule_in_force: "2003-04-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2003-70"
+original_signed_date: "2003-03-14"
+original_published_date: "2003-04-09"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2003-04-11"
+jci_1_3: "jci1.3:c:BWBR0014813&z=2003-04-11&g=2003-04-11"
+jci_1_0: "1.0:c:BWBR0014813&g=2003-04-11"
+citeertitel_status: "redactioneel"
+signed_date: "2003-03-14"
+entry_into_force: "2003-04-11"
 ---
-
 # Selectielijst beleidsterrein Arbeidsverhoudingen vanaf 1945
 
 Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
@@ -16,23 +40,23 @@ De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 14 januari 200
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde `selectielijst voor de neerslag van de handelingen van de Bedrijfscommissies en de onder hen ressorterende actoren op het beleidsterrein Arbeidsverhoudingen over de periode vanaf 1945' en de daarbij behorende toelichting worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 
 ## Selectielijst. voor de archiefbescheiden van de actor bedrijfscommissies op het beleidsterrein Arbeidsverhoudingen vanaf 1945
 
-#### 1. Verslag vaststelling van de selectielijst
+##### 1. Verslag vaststelling van de selectielijst
 
 Op 7 juni 2001 is het ontwerp-BSD door de Algemene Bedrijfscommissie namens de bedrijfscommissies aan de Staatssecretaris van OC&W aangeboden, waarna deze het ter advisering heeft ingediend bij de Raad voor Cultuur (RvC). Van het gevoerde driehoeksoverleg over de waarderingen van de handelingen is een verslag gemaakt, dat tegelijk met het BSD naar de RvC is verstuurd. Vanaf 2 juli 2001 lag de selectielijst gedurende acht weken ter publieke inzage bij de registratiebalie van het Nationaal Archief evenals in de bibliotheken van de Algemene Bedrijfscommissie, het Ministerie van OC&W en de rijksarchieven in de provincie / regionaal historische centra, hetgeen was aangekondigd in de Staatscourant en in het Archievenblad.
 
 Op 14 januari 2002 bracht de RvC advies uit (arc-2002.3245/2) hetwelk geen aanleiding heeft gegeven tot wijziging van de ontwerp-selectielijst.
 
-#### 2. Inleiding
+##### 2. Inleiding
 
 Deze ontwerp-selectielijst is een selectielijst als bedoeld in artikel 2, eerste lid van het Archiefbesluit 1995 (Stb. 671) ter uitvoering van de Archiefwet 1995 (Stb. 276). De hierna volgende ontwerp-selectielijst maakt deel uit van het Basisselectiedocument op het beleidsterrein arbeidsverhoudingen vanaf 1945 en deze inleiding moet dan ook worden gelezen als onderdeel van de inleiding op dat document. Het BSD op het beleidsterrein arbeidsverhoudingen is gebaseerd op de handelingen, zoals beschreven in drs. E. Burger, Werkende arbeidsverhoudingen. Een institutioneel onderzoek in het kader van PIVOT op het terrein van rijksoverheid en arbeidsverhoudingen, (1940) 1945-1994. De ontwerp-selectielijst voor de minister van Sociale Zaken en Werkgelegenheid is op 29 maart 2001 ter inzage gelegd. Ten behoeve van de hiernavolgende ontwerp-selectielijst voor de actor bedrijfscommissie zijn er nieuwe handelingen geformuleerd. Deze zullen uiteindelijk bij het basis-selectiedocument worden gevoegd.
 
@@ -48,7 +72,7 @@ In een BSD wordt op grond van een aantal selectiecriteria aan elke handeling een
 
 Deze criteria zijn:
 
-#### Algemene selectiecriteria
+##### Algemene selectiecriteria
 
 **Handelingen die worden gewaardeerd met B (ewaren)**
 
@@ -78,7 +102,7 @@ Deze criteria zijn:
 
 Het BSD fungeert deels als vervanging van bestaande vernietigingslijsten de bedrijfscommissies en deels als een nieuw selectie-instrument.
 
-#### 3. De actor bedrijfscommissies op het beleidsterrein arbeidsverhoudingen
+##### 3. De actor bedrijfscommissies op het beleidsterrein arbeidsverhoudingen
 
 Dit ontwerp heeft betrekking op het onderdeel bedrijfscommissies en meer in het bijzonder op de Algemene Bedrijfscommissie, waarvan het secretariaat wordt gevoerd bij dat van de Sociaal-Economische Raad (SER).
 
@@ -90,7 +114,7 @@ Bij de wijziging van de WOR in 1990 (Stb. 91) zijn de discretionaire bevoegdhede
 
 Slaagt de bemiddelingspoging niet dan brengt de bedrijfscommissie een verslag van haar bevindingen uit met een advies.
 
-#### 4. Leeswijzer bij de handelingen
+##### 4. Leeswijzer bij de handelingen
 
 In het Rapport Institutioneel Onderzoek (RIO) worden de handelingen op het beleidsterrein arbeidsverhoudingen beschreven. Iedere handeling is vastgelegd in een gegevensblok met zes of zeven velden. Zo:
 
@@ -120,7 +144,7 @@ Soms was het noodzakelijk bepaalde velden in de gegevensblokken te verduidelijke
 
 Onderaan het handelingenblok is de waardering voorgesteld.
 
-#### 5. De handelingen
+##### 5. De handelingen
 
 98
 

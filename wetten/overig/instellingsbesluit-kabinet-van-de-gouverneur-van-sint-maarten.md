@@ -1,13 +1,39 @@
 ---
-title: "Instellingsbesluit Kabinet van de Gouverneur van Sint Maarten"
+title: "Besluit van 29 september 2010 tot instelling van het Kabinet van de Gouverneur van Sint Maarten (Instellingsbesluit Kabinet van de Gouverneur van Sint Maarten)"
 identifier: "BWBR0028707"
-categorie: "Overig"
-publicatiedatum: 2020-01-01
-laatste_update: 2020-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028707"
+country: "nl"
+rank: "rijks_kb"
+publication_date: "2020-01-01"
+last_updated: "2020-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028707"
+soort: "rijksKB"
+stam_id: "10937853"
+version_id: "17923392"
+internal_id: "C24737961"
+label_id: "10912374"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028707/2020-01-01/0"
+intitule_bron: "Stb.2010-709"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-29"
+intitule_published: "2010-10-05"
+intitule_in_force: "2010-10-01"
+intitule_status: "goed"
+original_publication: "Stb.2010-709"
+original_signed_date: "2010-09-29"
+original_published_date: "2010-10-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-709"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028707&z=2020-01-01&g=2020-01-01"
+jci_1_0: "1.0:c:BWBR0028707&g=2020-01-01"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Kabinet van de Gouverneur van Sint Maarten"
+signed_date: "2010-09-29"
+entry_into_force: "2010-10-10"
 ---
-
 # Besluit van 29 september 2010 tot instelling van het Kabinet van de Gouverneur van Sint Maarten (Instellingsbesluit Kabinet van de Gouverneur van Sint Maarten)
 
 Op de voordracht van Onze Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 22 september 2010, 2010-0000620878, Directie Constitutionele Zaken en Wetgeving;
@@ -20,15 +46,15 @@ Hebben goedgevonden en verstaan:
 
 Treedt in werking op het tijdstip waarop artikel I, eerste lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen in werking treedt.
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder Onze Minister: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
-#### Artikel 2
+##### Artikel 2
 
 Er is een Kabinet van de Gouverneur van Sint Maarten.
 
-#### Artikel 3
+##### Artikel 3
 
 Het Kabinet van de Gouverneur van Sint Maarten heeft tot taak:
 
@@ -40,7 +66,7 @@ Het Kabinet van de Gouverneur van Sint Maarten heeft tot taak:
 
 - d. het behandelen van aan de Gouverneur gerichte brieven en verzoekschriften.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het namens de Staat aangaan, wijzigen en beëindigen van de arbeidsovereenkomst met de directeur van het Kabinet geschiedt door Onze Minister in overeenstemming met de Gouverneur.
 
@@ -50,11 +76,11 @@ Het Kabinet van de Gouverneur van Sint Maarten heeft tot taak:
 
 4. De directeur en de medewerkers van het Kabinet van de Gouverneur zijn voor de uitoefening van hun functie uitsluitend verantwoording verschuldigd aan de Gouverneur.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de dag waarop [artikel I, eerste lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=I) in werking treedt.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Kabinet van de Gouverneur van Sint Maarten.
 

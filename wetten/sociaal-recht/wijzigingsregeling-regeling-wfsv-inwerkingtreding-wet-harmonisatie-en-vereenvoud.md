@@ -1,24 +1,50 @@
 ---
-title: "Wijzigingsregeling Regeling Wfsv (inwerkingtreding Wet harmonisatie en vereenvoudiging socialezekerheidswetgeving)"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 13 december 2010, nr. IVV/FB/2010/23821, tot wijziging van de Regeling Wfsv in verband met de inwerkingtreding van de Wet harmonisatie en vereenvoudiging socialezekerheidswetgeving en enige andere wijzigingen"
 identifier: "BWBR0029215"
-categorie: "Sociaal recht"
-publicatiedatum: 2011-01-01
-laatste_update: 2011-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029215"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2011-01-01"
+last_updated: "2011-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029215"
+soort: "ministeriele-regeling"
+stam_id: "11141543"
+version_id: "18222932"
+internal_id: "C25356401"
+label_id: "11115834"
+dtd_version: "2.0"
+original_entry_into_force: "2010-12-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029215/2011-01-01/0"
+intitule_bron: "Stcrt.2010-20395"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-12-13"
+intitule_published: "2010-12-23"
+intitule_in_force: "2010-12-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-20395"
+original_signed_date: "2010-12-13"
+original_published_date: "2010-12-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-20395"
+entry_into_force_date: "2010-12-24"
+jci_1_3: "jci1.3:c:BWBR0029215&z=2011-01-01&g=2011-01-01"
+jci_1_0: "1.0:c:BWBR0029215&g=2011-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsregeling Regeling Wfsv (inwerkingtreding Wet harmonisatie en vereenvoudiging socialezekerheidswetgeving)"
+signed_date: "2010-12-13"
+entry_into_force: "2010-12-24"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 13 december 2010, nr. IVV/FB/2010/23821, tot wijziging van de Regeling Wfsv in verband met de inwerkingtreding van de Wet harmonisatie en vereenvoudiging socialezekerheidswetgeving en enige andere wijzigingen
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Regeling Wfsv.
 
-#### Artikel II. Premievrijstelling arbeid in kleine banen
+##### Artikel II. Premievrijstelling arbeid in kleine banen
 
 De maximumloon bedragen, bedoeld in [artikel 52a, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=52a), worden met toepassing van het vierde lid van dat artikel voor het kalenderjaar 2011 ongewijzigd vastgesteld.
 
-#### Artikel III
+##### Artikel III
 
 1. Indien het bij koninklijke boodschap van 17 juni 2010 ingediende voorstel van wet tot wijziging van verschillende wetten in verband met harmonisatie en vereenvoudiging van deze wetten ten behoeve van de uitvoering van die wetten door het Uitvoeringsinstituut werknemersverzekeringen (Wet harmonisatie en vereenvoudiging sociale zekerheidswetten) (32 421) tot wet is verheven en artikel IV van die wet in werking treedt, treedt artikel I van deze regeling op hetzelfde tijdstip in werking, met uitzondering van:
 

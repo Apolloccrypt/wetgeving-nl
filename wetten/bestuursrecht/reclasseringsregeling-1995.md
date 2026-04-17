@@ -1,13 +1,35 @@
 ---
-title: "Reclasseringsregeling 1995"
+title: "Besluit van 15 december 1994, houdende nieuwe regels inzake de reclassering"
 identifier: "BWBR0007120"
-categorie: "Bestuursrecht"
-publicatiedatum: 2019-06-26
-laatste_update: 2019-06-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007120"
+country: "nl"
+rank: "amvb"
+publication_date: "2019-06-26"
+last_updated: "2019-06-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007120"
+soort: "AMvB"
+stam_id: "732503"
+version_id: "1068622"
+internal_id: "C1068621"
+label_id: "710114"
+dtd_version: "2.0"
+original_entry_into_force: "1995-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007120/2019-06-26/0"
+intitule_bron: "Stb.1994-875"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-12-15"
+intitule_status: "goed"
+original_publication: "Stb.1994-875"
+original_signed_date: "1994-12-15"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1995-01-01"
+jci_1_3: "jci1.3:c:BWBR0007120&z=2019-06-26&g=2019-06-26"
+jci_1_0: "1.0:c:BWBR0007120&g=2019-06-26"
+citeertitel_status: "officieel"
+short_title: "Reclasseringsregeling 1995"
+signed_date: "1994-12-15"
+entry_into_force: "1995-01-01"
 ---
-
 # Besluit van 15 december 1994, houdende nieuwe regels inzake de reclassering
 
 Op de voordracht van Onze Minister van Justitie a.i. van 7 september 1994, Stafafdeling Wetgeving Publiekrecht, nr. 455985/94/6;
@@ -24,7 +46,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -38,7 +60,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - e. klachtencommissie: de commissie, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&hoofdstuk=5&artikel=29&z=2019-06-26&g=2019-06-26).
 
-#### Artikel 2
+##### Artikel 2
 
 1. De verantwoordelijkheid voor de uitvoering van reclasseringswerkzaamheden berust bij één of meer door Onze Minister erkende reclasseringsinstellingen.
 
@@ -54,7 +76,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. ter bevordering van een goede uitvoering van reclasseringswerkzaamheden.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een reclasseringsinstelling stelt voor haar personeelsleden een meldcode huiselijk geweld en kindermishandeling vast.
 
@@ -68,7 +90,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 2. Degenen die reclasseringswerkzaamheden kunnen verrichten
 
-#### Artikel 4
+##### Artikel 4
 
 1. Reclasseringswerkzaamheden worden uitsluitend verricht door instellingen die zich blijkens hun statuten of reglementen ten doel of mede ten doel stellen, op bijzondere wijze of ten behoeve van één of meer bijzondere categorieën van personen, reclasseringswerkzaamheden te verrichten en die daartoe door Onze Minister zijn erkend als reclasseringsinstelling.
 
@@ -78,7 +100,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 4. De erkenning kan worden geschorst of ingetrokken. Intrekking van de erkenning geschiedt niet eerder dan nadat dertien weken zijn verstreken na een waarschuwing, waarbij is vermeld welke maatregelen moeten worden genomen om de intrekking te voorkomen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&hoofdstuk=2&artikel=4&z=2019-06-26&g=2019-06-26) kunnen onder verantwoordelijkheid van een reclasseringsinstelling bepaalde, door het bestuur van de reclasseringsinstelling vast te stellen, reclasseringswerkzaamheden worden verricht door:
 
@@ -88,7 +110,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 2. De vaststelling van reclasseringswerkzaamheden die door een instelling van maatschappelijke dienstverlening kunnen worden verricht, behoeft de instemming van Onze Minister.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Reclasseringswerkers zijn de door het bestuur van een reclasseringsinstelling als zodanig aangewezen personeelsleden van de reclasseringsinstelling.
 
@@ -96,7 +118,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Bij ministeriële regeling worden regels gesteld over de eisen voor aanwijzing als reclasseringswerker en ter uitvoering van het tweede lid.
 
-#### Artikel 7
+##### Artikel 7
 
 Reclasseringswerkers hebben voor de uitoefening van hun werkzaamheden vrije toegang:
 
@@ -106,7 +128,7 @@ Reclasseringswerkers hebben voor de uitoefening van hun werkzaamheden vrije toeg
 
 ### Hoofdstuk 3. De reclasseringswerkzaamheden
 
-#### Artikel 8
+##### Artikel 8
 
 1. Onze Minister draagt er zorg voor dat in ieder arrondissement in ieder geval en zoveel mogelijk in onderlinge samenhang, in opdracht van de bevoegde autoriteiten de volgende reclasseringswerkzaamheden worden uitgevoerd:
 
@@ -120,11 +142,11 @@ Reclasseringswerkers hebben voor de uitoefening van hun werkzaamheden vrije toeg
 
 2. Een reclasseringsinstelling dient op verzoek of uit eigen beweging autoriteiten van advies omtrent onderwerpen die voor de reclassering van belang zijn.
 
-#### Artikel 9
+##### Artikel 9
 
 Een reclasseringsinstelling kan uit eigen beweging of op verzoek van anderen, onder wie de betrokkene, voorlichting en advies als bedoeld in [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&hoofdstuk=3&artikel=8&z=2019-06-26&g=2019-06-26), geven of doen geven.
 
-#### Artikel 10
+##### Artikel 10
 
 Nadat overeenkomstig [artikel 59, vijfde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=59) bericht is ontvangen van het bevel tot inverzekeringstelling van een verdachte beslist een reclasseringsinstelling zo spoedig mogelijk:
 
@@ -132,13 +154,13 @@ Nadat overeenkomstig [artikel 59, vijfde lid, van het Wetboek van Strafvordering
 
 - b. of een rapport wordt uitgebracht als bedoeld in [artikel 62, vierde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=62), mede met het oog op alternatieven voor een eventuele voorlopige hechtenis.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De directeur van een penitentiaire inrichting bericht een reclasseringsinstelling zo spoedig mogelijk omtrent de binnenkomst van een gedetineerde in de inrichting.
 
 2. De directeur van een penitentiaire inrichting bericht een reclasseringsinstelling zo spoedig mogelijk maar tenminste vier weken van te voren omtrent de datum van ontslag van een gedetineerde, die bij zijn ontslag een werkelijke straftijd zal hebben ondergaan van meer dan drie maanden en die gehouden is medewerking te verlenen aan reclasseringstoezicht. Gelijke verplichting geldt indien de voorwaardelijke invrijheidstelling wordt uitgesteld of achterwege blijft krachtens rechterlijke beslissing.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Een reclasseringsinstelling brengt, indien opdracht is gegeven toezicht te houden op de naleving van bij of krachtens de wet opgelegde voorwaarden, een rapport over de daarmee verband houdende bemoeiingen uit aan Onze Minister, de rechter of de officier van justitie. Het rapport bevat een advies over de maatregelen waartoe het aanleiding zou kunnen geven.
 
@@ -150,11 +172,11 @@ Nadat overeenkomstig [artikel 59, vijfde lid, van het Wetboek van Strafvordering
 
 - c. het intrekken van een voorwaardelijke beslissing door een vreemde staat, van welke de uitoefening van het toezicht op de naleving van voorwaarden is overgenomen.
 
-#### Artikel 13
+##### Artikel 13
 
 De in de [hoofdstukken 14](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=14), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=16) en [17 van het Reglement verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&hoofdstuk=17) aan de reclassering opgedragen werkzaamheden worden door een reclasseringsinstelling verricht.
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
@@ -162,7 +184,7 @@ Vervallen
 
 #### § 4.1. Algemeen
 
-#### Artikel 15
+##### Artikel 15
 
 1. Een reclasseringsinstelling ontvangt jaarlijks ten laste van de begroting van het Ministerie van Veiligheid en Justitie een subsidie voor de reclasseringswerkzaamheden die door haar of onder haar verantwoordelijkheid worden verricht.
 
@@ -174,15 +196,15 @@ Vervallen
 
 #### § 4.2. Subsidieverlening
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
-#### Artikel 17
+##### Artikel 17
 
 Vervallen
 
-#### Artikel 18
+##### Artikel 18
 
 1. Voor 1 juli van het jaar voorafgaand aan het subsidiejaar nodigt Onze Minister de reclasseringsinstellingen uit tot het indienen van een subsidieaanvraag.
 
@@ -190,7 +212,7 @@ Vervallen
 
 3. Onze Minister informeert de reclasseringsinstellingen zoveel mogelijk over wijzigingen als bedoeld in het tweede lid die zich daarna voordoen.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Voor 1 oktober van het jaar voorafgaand aan het subsidiejaar dient de reclasseringsinstelling bij Onze Minister een subsidieaanvraag in.
 
@@ -204,29 +226,29 @@ Vervallen
 
 4. Het activiteitenplan, bedoeld in het derde lid, wordt afgestemd op de behoefte aan reclasseringswerkzaamheden binnen de diverse arrondissementen en van opdrachtgevers.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Voor de aanvang van het subsidiejaar neemt Onze Minister het besluit waarbij de subsidie voor het subsidiejaar wordt verleend, zo nodig onder de voorwaarde dat door de wetgever voldoende gelden ter beschikking worden gesteld.
 
 2. In het besluit wordt in ieder geval aangegeven welke categorieën van activiteiten in welke omvang en volgens welke berekeningswijze ten hoogste voor subsidiëring in aanmerking zullen komen.
 
-#### Artikel 21
+##### Artikel 21
 
 1. De reclasseringsinstelling voert een zodanig ingerichte administratie, dat daaruit te allen tijde de voor de vaststelling van de subsidie van belang zijnde rechten en verplichtingen alsmede de betalingen en ontvangsten kunnen worden nagegaan.
 
 2. De administratie en de daartoe behorende bescheiden worden gedurende tien jaren bewaard.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Indien gedurende het subsidiejaar aanmerkelijke verschillen ontstaan of dreigen te ontstaan tussen de werkelijke uitgaven en inkomsten en de begrote uitgaven en inkomsten doet de reclasseringsinstelling daarvan onverwijld mededeling aan Onze Minister, onder vermelding van de oorzaak van de verschillen.
 
 2. De reclasseringsinstelling geeft Onze Minister zo spoedig mogelijk tevens kennis van omstandigheden die hetzij van belang kunnen zijn voor de vaststelling van de subsidie, hetzij aanleiding kunnen geven tot een wijziging van de subsidieverlening.
 
-#### Artikel 23
+##### Artikel 23
 
 De reclasseringsinstelling kan Onze Minister verzoeken de subsidieverlening te wijzigen.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Zolang de subsidie niet overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&hoofdstuk=4&paragraaf=4.3&artikel=27&z=2019-06-26&g=2019-06-26) is vastgesteld, kan Onze Minister de subsidieverlening intrekken of ten nadele van de reclasseringsinstelling wijzigen indien:
 
@@ -242,7 +264,7 @@ De reclasseringsinstelling kan Onze Minister verzoeken de subsidieverlening te w
 
 2. De intrekking of wijziging werkt terug tot en met het tijdstip waarop de subsidie is verleend, tenzij bij de intrekking of wijziging anders is bepaald.
 
-#### Artikel 25
+##### Artikel 25
 
 Zolang de subsidie niet overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&hoofdstuk=4&paragraaf=4.3&artikel=27&z=2019-06-26&g=2019-06-26) is vastgesteld, kan Onze Minister de subsidieverlening met inachtneming van een redelijke termijn intrekken of ten nadele van de reclasseringsinstelling wijzigen:
 
@@ -252,7 +274,7 @@ Zolang de subsidie niet overeenkomstig [artikel 27](https://wetten.overheid.nl/j
 
 #### § 4.3. Subsidievaststelling
 
-#### Artikel 26
+##### Artikel 26
 
 1. Voor 1 juni van het op het subsidiejaar volgende jaar dient de reclasseringsinstelling bij Onze Minister de aanvraag in voor de vaststelling van het subsidiebedrag.
 
@@ -264,11 +286,11 @@ Zolang de subsidie niet overeenkomstig [artikel 27](https://wetten.overheid.nl/j
 
 - c. een verklaring omtrent de getrouwheid en rechtmatigheid van de jaarrekening en het verslag, afgegeven door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
 
-#### Artikel 27
+##### Artikel 27
 
 Voor 1 oktober van het op het subsidiejaar volgende jaar stelt Onze Minister het definitieve subsidiebedrag vast.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Onze Minister kan de subsidievaststelling intrekken of ten nadele van de reclasseringsinstelling wijzigen:
 
@@ -284,7 +306,7 @@ Voor 1 oktober van het op het subsidiejaar volgende jaar stelt Onze Minister het
 
 ### Hoofdstuk 5. Klachtenregeling
 
-#### Artikel 29
+##### Artikel 29
 
 1. Er is een commissie, belast met de behandeling van klachten over het uitvoeren of nalaten van reclasseringswerkzaamheden.
 
@@ -294,7 +316,7 @@ Voor 1 oktober van het op het subsidiejaar volgende jaar stelt Onze Minister het
 
 4. Onze Minister voorziet in het secretariaat van de klachtencommissie.
 
-#### Artikel 30
+##### Artikel 30
 
 1. Degene ten aanzien van wie reclasseringswerkzaamheden zijn verricht of ten onrechte zijn nagelaten, kan bij de klachtencommissie een klacht indienen over het uitvoeren of nalaten van reclasseringswerkzaamheden.
 
@@ -306,7 +328,7 @@ Voor 1 oktober van het op het subsidiejaar volgende jaar stelt Onze Minister het
 
 5. Een na afloop van de termijn ingediende klacht wordt toch in behandeling genomen, indien redelijkerwijs niet kan worden geoordeeld dat de klager in verzuim is geweest.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Door of namens de klachtencommissie worden de klager en degene tegen wie de klacht zich richt, gehoord.
 
@@ -314,7 +336,7 @@ Voor 1 oktober van het op het subsidiejaar volgende jaar stelt Onze Minister het
 
 3. Door of namens de klachtencommissie kunnen inlichtingen worden ingewonnen bij instellingen en personen die reclasseringswerkzaamheden verrichten.
 
-#### Artikel 32
+##### Artikel 32
 
 1. De klachtencommissie kan trachten te bemiddelen tussen de klager en degene tegen wie de klacht zich richt.
 
@@ -326,13 +348,13 @@ Voor 1 oktober van het op het subsidiejaar volgende jaar stelt Onze Minister het
 
 ### Hoofdstuk 6. Toezicht
 
-#### Artikel 33
+##### Artikel 33
 
 1. Onze Minister wijst de ambtenaren aan die zijn belast met het toezicht op de naleving van het bij of krachtens dit besluit bepaalde.
 
 2. Bij de uitoefening van hun taak dragen de toezichthoudende ambtenaren een door Onze Minister uitgegeven legitimatiebewijs bij zich, dat zij desgevraagd aanstonds tonen.
 
-#### Artikel 34
+##### Artikel 34
 
 1. De toezichthoudende ambtenaren hebben voor de uitoefening van hun taak vrije toegang tot de vestigingsplaatsen van de reclasseringsinstellingen. Een woning betreden zij niet zonder toestemming van de bewoner.
 
@@ -340,41 +362,41 @@ Voor 1 oktober van het op het subsidiejaar volgende jaar stelt Onze Minister het
 
 3. De toezichthoudende ambtenaren zijn bevoegd inzage te vorderen van zakelijke gegevens en bescheiden en van de gegevens en bescheiden kopieën te maken en deze voor dat doel voor korte tijd mee te nemen tegen een schriftelijk bewijs.
 
-#### Artikel 35
+##### Artikel 35
 
 De reclasseringsinstellingen en de daarbij werkzame medewerkers zijn verplicht aan de toezichthoudende ambtenaren de inlichtingen en de medewerking te verschaffen die deze redelijkerwijs kunnen vorderen bij de uitoefening van hun bevoegdheden. Zij die uit hoofde van ambt, beroep of wettelijk voorschrift verplicht zijn tot geheimhouding, kunnen het verlenen van medewerking weigeren, voor zover dit uit hun geheimhoudingsplicht voortvloeit.
 
-#### Artikel 36
+##### Artikel 36
 
 De toezichthouders maken van hun bevoegdheden slechts gebruik voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is.
 
 ### Hoofdstuk 7. Overgangs- en slotbepalingen
 
-#### Artikel 37
+##### Artikel 37
 
 Een ieder die betrokken is bij de uitvoering van dit besluit en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding daarvan, behoudens voor zover enig wettelijk voorschrift hem tot bekendmaking verplicht of uit zijn taak bij de uitvoering van dit besluit de noodzaak tot bekendmaking voortvloeit.
 
-#### Artikel 38
+##### Artikel 38
 
 Indien een instelling erkend is op grond van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&hoofdstuk=2&artikel=4&z=2019-06-26&g=2019-06-26), van dit besluit, zoals dit luidde voordat het ingevolge het besluit van 4 december 2003 tot wijziging van de Reclasseringsregeling 1995 in verband met de reorganisatie van de reclassering (Stb. 511) werd gewijzigd, geldt deze erkenning als erkenning op grond van artikel 4, eerste lid.
 
-#### Artikel 39
+##### Artikel 39
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 40
+##### Artikel 40
 
 Bij regeling van Onze Minister kunnen nadere regels worden gesteld ter uitvoering van dit besluit.
 
-#### Artikel 41
+##### Artikel 41
 
 De Reclasseringsregeling 1986 wordt ingetrokken.
 
-#### Artikel 42
+##### Artikel 42
 
 Dit besluit treedt in werking met ingang van 1 januari 1995.
 
-#### Artikel 43
+##### Artikel 43
 
 Dit besluit wordt aangehaald als Reclasseringsregeling 1995.
 

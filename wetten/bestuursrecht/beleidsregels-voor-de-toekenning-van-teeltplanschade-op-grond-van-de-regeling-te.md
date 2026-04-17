@@ -1,13 +1,37 @@
 ---
 title: "Beleidsregels voor de toekenning van teeltplanschade op grond van de Regeling tegemoetkoming schade bij extreem zware regenval 1998"
 identifier: "BWBR0009970"
-categorie: "Bestuursrecht"
-publicatiedatum: 1998-10-30
-laatste_update: 1998-10-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009970"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "1998-10-30"
+last_updated: "1998-10-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009970"
+soort: "beleidsregel"
+stam_id: "6182483"
+version_id: "10863502"
+internal_id: "C14716681"
+label_id: "6171554"
+original_entry_into_force: "1998-10-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009970/1998-10-30/0"
+intitule_bron: "Stcrt.1998-208"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-10-29"
+intitule_published: "1998-10-30"
+intitule_in_force: "1998-10-30"
+intitule_status: "goed"
+original_publication: "Stcrt.1998-208"
+original_signed_date: "1998-10-29"
+original_published_date: "1998-10-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1998-208-p9-SC16010"
+entry_into_force_date: "1998-10-30"
+jci_1_3: "jci1.3:c:BWBR0009970&z=1998-10-30&g=1998-10-30"
+jci_1_0: "1.0:c:BWBR0009970&g=1998-10-30"
+citeertitel_status: "redactioneel"
+signed_date: "1998-10-29"
+entry_into_force: "1998-10-30"
 ---
-
 # Beleidsregels voor de toekenning van teeltplanschade op grond van de Regeling tegemoetkoming schade bij extreem zware regenval 1998
 
 De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties maakt bekend dat bij de vaststelling van de tegemoetkoming in teeltplanschade ([art. 4, eerste lid, onderdeel e van de Wet tegemoetkoming schade bij rampen en zware ongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=4)) de volgende grondslagen zullen worden gehanteerd voor de berekening van de voor vergoeding in aanmerking komende teeltplanschade.

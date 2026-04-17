@@ -1,13 +1,35 @@
 ---
-title: "Besluit georganiseerd overleg sector Defensie"
+title: "Besluit van 25 juni 1993, houdende regels voor het georganiseerd overleg in de sector Defensie"
 identifier: "BWBR0006042"
-categorie: "Bestuursrecht"
-publicatiedatum: 2020-01-01
-laatste_update: 2020-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006042"
+country: "nl"
+rank: "amvb"
+publication_date: "2020-01-01"
+last_updated: "2020-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006042"
+soort: "AMvB"
+stam_id: "532703"
+version_id: "783462"
+internal_id: "C783461"
+label_id: "518534"
+dtd_version: "2.0"
+original_entry_into_force: "1993-07-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006042/2020-01-01/0"
+intitule_bron: "Stb.1993-353"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1993-06-25"
+intitule_status: "goed"
+original_publication: "Stb.1993-353"
+original_signed_date: "1993-06-25"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1993-07-14"
+jci_1_3: "jci1.3:c:BWBR0006042&z=2020-01-01&g=2020-01-01"
+jci_1_0: "1.0:c:BWBR0006042&g=2020-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit georganiseerd overleg sector Defensie"
+signed_date: "1993-06-25"
+entry_into_force: "1993-07-14"
 ---
-
 # Besluit van 25 juni 1993, houdende regels voor het georganiseerd overleg in de sector Defensie
 
 Op de voordracht van Onze minister van Defensie van 1 februari 1993, nr. PAV2210/93002671;
@@ -22,7 +44,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -40,11 +62,11 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 2. Het overleg met de sectorcommissie Defensie
 
-#### Artikel 2
+##### Artikel 2
 
 Er is een sectorcommissie Defensie voor het georganiseerd overleg over aangelegenheden van algemeen belang voor de rechtstoestand van militaire ambtenaren en ambtenaren.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Over aangelegenheden van algemeen belang voor de rechtstoestand, met inbegrip van de algemene regels volgens welke het personeelsbeleid zal worden gevoerd, betreffende de militaire ambtenaren en de ambtenaren wordt niet beslist alvorens daarover door of namens Onze Minister overleg is gevoerd met de sectorcommissie.
 
@@ -66,7 +88,7 @@ Er is een sectorcommissie Defensie voor het georganiseerd overleg over aangelege
 
 5. Indien in het overleg een geschil ontstaat over de vraag of bij een voorstel als bedoeld in het vierde lid onder d, voldaan wordt aan de voorwaarde dat het totaal van rechten en verplichtingen van militaire ambtenaren of ambtenaren over het geheel beoordeeld niet ongunstiger wordt, wordt dat geschil onderworpen aan arbitrage door de advies- en arbitragecommissie, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=18&z=2020-01-01&g=2020-01-01).
 
-#### Artikel 4
+##### Artikel 4
 
 1. De sectorcommissie bestaat uit vertegenwoordigers van:
 
@@ -88,11 +110,11 @@ Er is een sectorcommissie Defensie voor het georganiseerd overleg over aangelege
 
 6. De schorsing wordt opgeheven met ingang van de dag waarop de reden is vervallen die tot de schorsing aanleiding gaf.
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een centrale, die tot het overleg in de sectorcommissie is toegelaten, is bevoegd tot het aanwijzen van twee leden en twee plaatsvervangende leden. Van deze aanwijzing geeft de centrale kennis aan Onze Minister.
 
@@ -102,7 +124,7 @@ Vervallen
 
 4. Na de uitsluiting wijst het bestuur van de centrale een ander lid of plaatsvervangend lid aan als zijn vertegenwoordiger in de sectorcommissie.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het overleg met de sectorcommissie staat onder leiding van Onze Minister. Onze Minister is bevoegd de leiding van het overleg op te dragen aan de hoofddirecteur personeel van het ministerie, indien de aard van de te bespreken aangelegenheden dit toelaat.
 
@@ -112,19 +134,19 @@ Vervallen
 
 4. De voorzitter van het overleg kan aan de leden van de sectorcommissie toestemming verlenen zich bij de behandeling van een bepaald onderwerp ter vergadering door deskundigen te laten bijstaan.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De centrale die van de in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=6&z=2020-01-01&g=2020-01-01), genoemde bevoegdheid gebruik maakt, doet aan Onze Minister mededeling van de statuten, het huishoudelijk reglement en van de daarin aangebrachte wijzigingen, alsmede van de statuten en de daarin aangebrachte wijzigingen van de bij die centrale aangesloten verenigingen die militaire ambtenaren of ambtenaren als leden hebben.
 
 2. Bij de aanvang van elk kalenderjaar verstrekt iedere centrale aan Onze Minister een opgave van het aantal militaire ambtenaren en het aantal ambtenaren dat lid is van de bij die centrale aangesloten verenigingen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Aangelegenheden, die ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=3&z=2020-01-01&g=2020-01-01) in het overleg met de sectorcommissie worden behandeld, of waarover deze commissie moet worden gehoord, worden door Onze Minister voorgelegd aan de sectorcommissie.
 
 2. Elke centrale die in de sectorcommissie is vertegenwoordigd, kan Onze Minister verzoeken een aangelegenheid als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=3&z=2020-01-01&g=2020-01-01) in een vergadering van het overleg te behandelen. Aan het verzoek wordt voldaan, tenzij het onderwerp naar het oordeel van Onze Minister niet of nog niet voor behandeling in het overleg geschikt is. De betrokken centrale wordt daarvan in dat geval schriftelijk mededeling gedaan, onder vermelding van de redenen die aan deze beslissing ten grondslag liggen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Plaats, dag en aanvangsuur, alsmede de agenda van de vergadering van het overleg met de sectorcommissie worden door de voorzitter van het overleg vastgesteld.
 
@@ -132,7 +154,7 @@ Vervallen
 
 3. Indien de sectorcommissie voor een door haar te houden vergadering daartoe een verzoek doet, stelt Onze Minister zo mogelijk een vergaderruimte ter beschikking.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Indien het gewenst is over aangelegenheden als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=3&z=2020-01-01&g=2020-01-01) voorbereidende besprekingen te voeren of in het overleg naar voren gekomen standpunten uit te werken, wordt die voorbereiding of uitwerking verricht door werkgroepen, bestaande uit leden of plaatsvervangende leden van de sectorcommissie, aangewezen door deze commissie en uit functionarissen, aangewezen door Onze Minister.
 
@@ -142,11 +164,11 @@ Vervallen
 
 4. Op het deelnemen aan een vergadering van een werkgroep of kamer is [artikel 7, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=7&z=2020-01-01&g=2020-01-01), van overeenkomstige toepassing.
 
-#### Artikel 12
+##### Artikel 12
 
 Het standpunt van de sectorcommissie wordt bepaald bij eenvoudige meerderheid van stemmen. Elke centrale brengt één stem uit.
 
-#### Artikel 13
+##### Artikel 13
 
 In de [artikelen 14 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=14&z=2020-01-01&g=2020-01-01) wordt verstaan onder:
 
@@ -154,15 +176,15 @@ In de [artikelen 14 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR00060
 
 - b. advies- en arbitragecommissie: de Advies- en Arbitragecommissie genoemd in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=18&z=2020-01-01&g=2020-01-01).
 
-#### Artikel 14
+##### Artikel 14
 
 De [artikelen 15 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=15&z=2020-01-01&g=2020-01-01) zijn slechts van toepassing op geschillen inzake aangelegenheden als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=3&z=2020-01-01&g=2020-01-01), voorzover die aangelegenheden uitsluitend de rechtstoestand van militaire ambtenaren of ambtenaren, met inbegrip van de algemene regels volgens welke het personeelsbeleid zal worden gevoerd, betreffen.
 
-#### Artikel 15
+##### Artikel 15
 
 Indien de voorzitter dan wel één of meer van de centrales, in het overleg tot het oordeel komen dat dit overleg niet tot een uitkomst zal leiden die de instemming van alle deelnemers aan dat overleg zal hebben, brengen zij dat oordeel binnen drie dagen nadat zij daarvan in het overleg blijk hebben gegeven schriftelijk ter kennis van de overige deelnemers aan het overleg.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Binnen vijf dagen na de kennisgeving, genoemd in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=15&z=2020-01-01&g=2020-01-01), schrijft de voorzitter een overlegvergadering uit. De vergadering moet worden gehouden binnen één week, nadat deze is uitgeschreven.
 
@@ -172,7 +194,7 @@ Indien de voorzitter dan wel één of meer van de centrales, in het overleg tot 
 
 4. Voor onderwerping van het geschil aan arbitrage is overeenstemming vereist tussen alle deelnemers aan het overleg.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Binnen drie dagen na de vergadering, genoemd in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=16&z=2020-01-01&g=2020-01-01), wordt het verzoek om advies ter kennis gebracht van de voorzitter van de advies- en arbitragecommissie. Het verzoek wordt ondertekend door de deelnemers aan het overleg die zich voor inwinning van advies hebben uitgesproken, en bevat tenminste het onderwerp en de inhoud van het geschil. Indien in de vergadering, genoemd in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=16&z=2020-01-01&g=2020-01-01), geen overeenstemming is bereikt tussen alle deelnemers aan het overleg over de vraag wat het onderwerp en de inhoud van het geschil is, brengen de overige deelnemers aan het overleg hun visie op het onderwerp en de inhoud van het geschil eveneens binnen drie dagen ter kennis van de voorzitter van de advies- en arbitragecommissie.
 
@@ -182,7 +204,7 @@ Indien de voorzitter dan wel één of meer van de centrales, in het overleg tot 
 
 - b. de standpunten van alle deelnemers aan het overleg omtrent het onderwerp en de inhoud van het geschil.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Er is een advies- en arbitragecommissie defensieambtenaren die tot taak heeft te adviseren of een bindende uitspraak te doen, in de geschillen die haar ingevolge de [artikelen 15 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=15&z=2020-01-01&g=2020-01-01) worden voorgelegd. Zij is gevestigd te ’s-Gravenhage. Zij bestaat uit vijf leden, onder wie de voorzitter, en vijf plaatsvervangende leden. De leden worden bij Koninklijk besluit benoemd voor een tijdvak van ten hoogste vier jaar. Herbenoeming kan tweemaal en telkens voor ten hoogste vier jaar plaatsvinden.
 
@@ -198,7 +220,7 @@ Indien de voorzitter dan wel één of meer van de centrales, in het overleg tot 
 
 4. Aan de leden en plaatsvervangende leden wordt vergoeding voor reis- en verblijfkosten verleend op grond van het [Besluit dienstreizen defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0007956).
 
-#### Artikel 19
+##### Artikel 19
 
 1. De advies- en arbitragecommissie treedt in geval van advies op in een samenstelling van drie leden, onder wie de voorzitter, één van de twee leden, genoemd in [artikel 110**g**, derde lid, onder **a**, van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=110g) en één van de twee leden, genoemd in het derde lid, onder **b**, van dat artikel. De overige twee leden treden te zamen met de voorzitter op in geval van arbitrage. Bij verhindering van één van de leden treedt diens plaatsvervanger op.
 
@@ -208,7 +230,7 @@ Indien de voorzitter dan wel één of meer van de centrales, in het overleg tot 
 
 4. De advies- en arbitragecommissie stelt nadere regels vast met betrekking tot haar werkwijze.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De advies- en arbitragecommissie neemt een beslissing bij meerderheid van stemmen.
 
@@ -222,29 +244,29 @@ Indien de voorzitter dan wel één of meer van de centrales, in het overleg tot 
 
 3. Het advies, respectievelijk de uitspraak, wordt gedagtekend en door ieder van de optredende leden van de advies- en arbitragecommissie ondertekend.
 
-#### Artikel 21
+##### Artikel 21
 
 Binnen twee weken na ontvangst van het advies wordt het overleg over het geschil voortgezet.
 
-#### Artikel 22
+##### Artikel 22
 
 De uitspraak van de advies- en arbitragecommissie heeft bindende kracht.
 
-#### Artikel 23
+##### Artikel 23
 
 Het standpunt van de sectorcommissie over de in het overleg besproken aangelegenheden wordt schriftelijk aan Onze Minister bevestigd, waarbij desverlangd een samenvatting van de aan dit standpunt ten grondslag liggende argumenten wordt gegeven. Indien in de sectorcommissie een minderheidsstandpunt is, wordt daarvan desverlangd melding gemaakt.
 
-#### Artikel 24
+##### Artikel 24
 
 Indien over een aangelegenheid in afwijking van het standpunt van de sectorcommissie wordt beslist, brengt Onze minister de redenen van die afwijking zo spoedig mogelijk ter kennis van de sectorcommissie.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Het secretariaat van het overleg wordt gevoerd door een door Onze Minister aangewezen secretaris. Over de aanwijzing van de secretaris wordt de sectorcommissie gehoord. Onze Minister kan adjunct-secretarissen aanwijzen.
 
 2. De secretaris staat, onder leiding van de voorzitter van het overleg, ter beschikking van de voorzitter en van de in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=7&z=2020-01-01&g=2020-01-01), bedoelde functionarissen, alsmede van de sectorcommissie.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Van het in de vergaderingen van het overleg met de sectorcommissie en de werkgroepen en kamers behandelde, maakt de secretaris notulen. De voorzitter legt deze notulen aan de commissie, onderscheidenlijk de betrokken werkgroep of kamer, ter goedkeuring voor.
 
@@ -254,75 +276,75 @@ Indien over een aangelegenheid in afwijking van het standpunt van de sectorcommi
 
 ### Hoofdstuk 3. Het overleg met de bijzondere commissies
 
-#### Artikel 27
+##### Artikel 27
 
 Vervallen
 
-#### Artikel 28
+##### Artikel 28
 
 Vervallen
 
-#### Artikel 29
+##### Artikel 29
 
 Vervallen
 
-#### Artikel 30
+##### Artikel 30
 
 Vervallen
 
-#### Artikel 31
+##### Artikel 31
 
 Vervallen
 
-#### Artikel 32
+##### Artikel 32
 
 Vervallen
 
-#### Artikel 33
+##### Artikel 33
 
 Vervallen
 
-#### Artikel 34
+##### Artikel 34
 
 Vervallen
 
-#### Artikel 35
+##### Artikel 35
 
 Vervallen
 
-#### Artikel 36
+##### Artikel 36
 
 Vervallen
 
-#### Artikel 37
+##### Artikel 37
 
 Vervallen
 
 ### Hoofdstuk 4. Overgangs- en slotbepalingen
 
-#### Artikel 38
+##### Artikel 38
 
 Onze Minister kan in afwijking van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=6&z=2020-01-01&g=2020-01-01), bepalen dat het aantal vertegenwoordigers van de centrales in de sectorcommissie tijdelijk wordt verhoogd.
 
-#### Artikel 39
+##### Artikel 39
 
 1. Onze Minister kan in geval van buitengewone omstandigheden, tijdelijk afwijken van hetgeen bij of krachtens dit besluit is bepaald, voor zover en voor zolang dit met het oog op de goede uitvoering van de operationele taken van de krijgsmacht noodzakelijk wordt geacht.
 
 2. Onze Minister kan bepalen of doen bepalen, dat hetgeen bij of krachtens dit besluit is bepaald buiten toepassing blijft, voor zover en voor zolang zulks naar zijn oordeel, in overeenstemming met het gevoelen van de Raad van Ministers, door het landsbelang wordt gevorderd.
 
-#### Artikel 40
+##### Artikel 40
 
 Na inwerkingtreding van de [Wet normalisering rechtspositie ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0039393) berust dit besluit op de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12) en [12o van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12o).
 
-#### Artikel 41
+##### Artikel 41
 
 Vervallen
 
-#### Artikel 42
+##### Artikel 42
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst en werkt terug tot en met 1 april 1993.
 
-#### Artikel 43
+##### Artikel 43
 
 Dit besluit wordt aangehaald als: Besluit georganiseerd overleg sector Defensie.
 

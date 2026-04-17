@@ -1,20 +1,46 @@
 ---
-title: "Regeling vaststelling definitieve correcties duurzame energieproductie 2012"
+title: "Regeling van de Minister van Economische Zaken van 22 maart 2013, nr. WJZ / 13037575, houdende vaststelling van de definitieve correcties voor de stimulering van duurzame energieproductie in het jaar 2012 (Regeling vaststelling definitieve correcties duurzame energieproductie 2012)"
 identifier: "BWBR0033076"
-categorie: "Overig"
-publicatiedatum: 2013-04-23
-laatste_update: 2013-04-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033076"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2013-04-23"
+last_updated: "2013-04-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033076"
+soort: "ministeriele-regeling"
+stam_id: "12151313"
+version_id: "20295602"
+internal_id: "C28554841"
+label_id: "12122904"
+dtd_version: "2.0"
+original_entry_into_force: "2013-03-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033076/2013-04-23/0"
+intitule_bron: "Stcrt.2013-8253"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-03-22"
+intitule_published: "2013-03-27"
+intitule_in_force: "2013-03-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-8253"
+original_signed_date: "2013-03-22"
+original_published_date: "2013-03-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-8253"
+entry_into_force_date: "2013-03-28"
+jci_1_3: "jci1.3:c:BWBR0033076&z=2013-04-23&g=2013-04-23"
+jci_1_0: "1.0:c:BWBR0033076&g=2013-04-23"
+citeertitel_status: "officieel"
+short_title: "Regeling vaststelling definitieve correcties duurzame energieproductie 2012"
+signed_date: "2013-03-22"
+entry_into_force: "2013-03-28"
 ---
-
 # Regeling van de Minister van Economische Zaken van 22 maart 2013, nr. WJZ / 13037575, houdende vaststelling van de definitieve correcties voor de stimulering van duurzame energieproductie in het jaar 2012 (Regeling vaststelling definitieve correcties duurzame energieproductie 2012)
 
 #### § 1. Begripsbepaling
 
 #### § 1. Begripsbepaling
 
-#### Artikel 2
+##### Artikel 2
 
 De correcties op het basisbedrag voor subsidie voor een productie-installatie als bedoeld in het in de eerste kolom genoemde artikel, worden voor 2012 vastgesteld voor wat betreft de elektriciteitsprijs, bedoeld in [artikel 14, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=14), het in de derde kolom genoemde bedrag en voor wat betreft de correcties, bedoeld in artikel 14, eerste lid, onderdelen b en c van het besluit, het in de vierde kolom genoemde bedrag.
 
@@ -82,7 +108,7 @@ De correcties op het basisbedrag voor subsidie voor een productie-installatie al
 | [Artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&artikel=32) | Osmose | € 0,048 per kWh | € 0 per kWh |
 | [Artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&artikel=36) | Vrije stroming | € 0,048 per kWh | € 0 per kWh |
 
-#### Artikel 3
+##### Artikel 3
 
 De correcties op het tenderbedrag voor subsidie voor een productie-installatie als bedoeld in het in de eerste kolom genoemde artikel, worden voor 2012 vastgesteld voor wat betreft de elektriciteitsprijs, bedoeld in [artikel 22, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=22), het in de derde kolom genoemde bedrag en voor wat betreft de correcties, bedoeld in artikel 22, eerste lid, onderdelen b en c van het besluit, het in de vierde kolom genoemde bedrag.
 
@@ -101,7 +127,7 @@ Gelet op de [artikelen 14, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -123,7 +149,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Correctiebedragen hernieuwbare elektriciteit
 
-#### Artikel 4
+##### Artikel 4
 
 De correcties op het basisbedrag voor subsidie voor een productie-installatie als bedoeld in het in de eerste kolom genoemde artikel, worden voor 2012 vastgesteld voor wat betreft de gasprijs, bedoeld in [artikel 31, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=31), het in de derde kolom genoemde bedrag en voor wat betreft de correcties, bedoeld in artikel 31, eerste lid, onderdeel b, van het besluit, het in de vierde kolom genoemde bedrag.
 
@@ -162,7 +188,7 @@ De correcties op het basisbedrag voor subsidie voor een productie-installatie al
 
 #### § 4. Correctiebedragen hernieuwbare warmte en gecombineerde opwekking van hernieuwbare elektriciteit en hernieuwbare warmte
 
-#### Artikel 5
+##### Artikel 5
 
 De correcties op het basisbedrag voor subsidie voor een productie-installatie als bedoeld in het in de eerste kolom genoemde artikel, worden voor 2012 vastgesteld voor wat betreft de energieprijs, bedoeld in [artikel 47, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=47) het in de derde kolom genoemde bedrag en voor wat betreft de correcties, bedoeld in artikel 47, eerste lid, onderdelen b en c, van het besluit, het in de vierde kolom genoemde bedrag.
 
@@ -187,11 +213,11 @@ De correcties op het basisbedrag voor subsidie voor een productie-installatie al
 
 #### § 5. Slotbepalingen
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling wordt aangehaald als: Regeling vaststelling definitieve correcties duurzame energieproductie 2012.
 

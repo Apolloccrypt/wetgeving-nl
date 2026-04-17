@@ -1,13 +1,39 @@
 ---
-title: "Besluit Tijdelijke wet Groningen"
+title: "Besluit van 11 juni 2020, houdende regels ter uitvoering van de Tijdelijke wet Groningen (Besluit Tijdelijke wet Groningen)"
 identifier: "BWBR0043726"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043726"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043726"
+soort: "AMvB"
+stam_id: "15516193"
+version_id: "29711152"
+internal_id: "C42571631"
+label_id: "15458714"
+dtd_version: "2.0"
+original_entry_into_force: "2023-10-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043726/2024-01-01/0"
+intitule_bron: "Stb.2020-198"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-06-11"
+intitule_published: "2020-06-24"
+intitule_in_force: "2020-06-24"
+intitule_status: "goed"
+original_publication: "Stb.2023-389"
+original_signed_date: "2023-10-26"
+original_published_date: "2023-11-06"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2023-389"
+entry_into_force_date: "2023-10-26"
+jci_1_3: "jci1.3:c:BWBR0043726&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0043726&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit Tijdelijke wet Groningen"
+signed_date: "2023-10-26"
+entry_into_force: "2023-10-26"
 ---
-
 # Besluit van 11 juni 2020, houdende regels ter uitvoering van de Tijdelijke wet Groningen (Besluit Tijdelijke wet Groningen)
 
 Op de voordracht van Onze Minister van Economische Zaken en Klimaat van 26 maart 2020, nr. WJZ / 20082968, gedaan in overeenstemming met Onze Minister van Financiën, Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister voor Rechtsbescherming;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -50,7 +76,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 1a. Andere taken en bevoegdheden van het Instituut
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een voordracht als bedoeld in [artikel 4, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=4) geschiedt op basis van een enkelvoudig advies aan de hand van een door het Instituut opgesteld functieprofiel van een door het Instituut ingestelde benoemingsadviescommissie.
 
@@ -68,13 +94,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 5. Een vacature voor een lid van het Instituut en de te volgen selectieprocedure worden door het Instituut openbaar gemaakt.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een voordracht voor schorsing of ontslag als bedoeld in [artikel 4, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=4) bevat de gronden voor ontslag en wordt niet gedaan dan nadat de voorzitter van het Instituut daarover is gehoord.
 
 2. In afwijking van het eerste lid wordt de plaatsvervangend voorzitter van het Instituut gehoord indien de voordracht voor schorsing of ontslag de voorzitter betreft.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een lid van het Instituut legt voorafgaand aan de datum van indiensttreding de eed of belofte af volgens het formulier zoals dat is vastgesteld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&bijlage=1&z=2024-01-01&g=2024-01-01) bij dit besluit.
 
@@ -82,11 +108,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Het formulier, bedoeld in het eerste lid, wordt na het afleggen van de eed of belofte ondertekend door het lid van het Instituut en degene te wiens overstaan de eed of belofte is afgelegd.
 
-#### Artikel 5
+##### Artikel 5
 
 Onze Minister voor Rechtsbescherming verstrekt aan een lid van het Instituut een afschrift van het koninklijk besluit waarbij hij is benoemd. Voorts doet Onze Minister voor Rechtsbescherming aan een lid van het Instituut schriftelijk mededeling van de standplaats, het salaris en de arbeidsduur waarvoor hij wordt aangesteld.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Aan de voorzitter en de leden wordt een vaste vergoeding per maand toegekend, waarbij het maximum van de salarisschaal bij een arbeidsduur van gemiddeld 36 uren per week gelijk is aan het maximum van salarisschaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
@@ -100,21 +126,21 @@ Onze Minister voor Rechtsbescherming verstrekt aan een lid van het Instituut een
 
 6. Het vijfde lid is niet van toepassing voorzover het de aanstelling van de voorzitter van het Instituut betreft.
 
-#### Artikel 7
+##### Artikel 7
 
 De leden van het Instituut hebben aanspraak op vakantie en verlof overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren. De bevoegdheden die op grond van de eerste volzin van toepassing zijn worden uitgeoefend door de voorzitter van het Instituut.
 
-#### Artikel 8
+##### Artikel 8
 
 Ten aanzien van de leden van het Instituut is hetgeen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren is bepaald met betrekking tot bedrijfsgeneeskundige begeleiding alsmede rechten en verplichtingen bij ziekte en arbeidsongeschiktheid van overeenkomstige toepassing. Deze bevoegdheden worden uitgeoefend door de voorzitter van het Instituut.
 
-#### Artikel 9
+##### Artikel 9
 
 Zo spoedig mogelijk na het overlijden van een lid van het Instituut wordt door Onze Minister voor Rechtsbescherming een overlijdensuitkering vastgelegd overeenkomstig hetgeen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren is overeengekomen.
 
 #### § 3. Jaarverslag
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het jaarverslag, bedoeld in [artikel 18 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18), bevat over het verstreken boekjaar een rapportage en verantwoording over de volgende onderdelen:
 
@@ -130,15 +156,15 @@ Zo spoedig mogelijk na het overlijden van een lid van het Instituut wordt door O
 
 #### § 4. Overige bepalingen
 
-#### Artikel 11
+##### Artikel 11
 
 Wijzigt het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken.
 
-#### Artikel 12
+##### Artikel 12
 
 Dit besluit wordt aangehaald als: Besluit Tijdelijke wet Groningen.
 
-#### Artikel 13
+##### Artikel 13
 
 Dit besluit treedt in werking op 1 juli 2020.
 
@@ -255,7 +281,7 @@ De Auditdienst Rijk stelt een rapport van bevindingen op als uitkomst van een op
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 1. Het Instituut heeft tot taak en is bevoegd aan een gedupeerde een tegemoetkoming toe te kennen ten bedrage van het verschil tussen de vergoeding voor schade door waardedaling van zijn woning die is toegekend door de exploitant en de vergoeding voor deze schade die zou zijn toegekend door het Instituut indien hij recht zou hebben op deze vergoeding, indien:
 
@@ -265,7 +291,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 2. [Artikel 2, vierde lid, aanhef en onderdelen c tot en met e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=2) zijn op de uitoefening van deze bevoegdheid van overeenkomstige toepassing.
 
-#### Artikel 1b
+##### Artikel 1b
 
 1. Het Instituut kent een tegemoetkoming toe aan de gedupeerde die een aanvraag heeft ingediend.
 
@@ -392,7 +418,7 @@ De Auditdienst Rijk stelt een rapport van bevindingen op als uitkomst van een op
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 1c
+##### Artikel 1c
 
 De vergoeding voor overlast, bedoeld in [artikel 2, derde lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=2) wordt vastgesteld op een bedrag van ten hoogste € 1.000,–.
 
@@ -400,7 +426,7 @@ De vergoeding voor overlast, bedoeld in [artikel 2, derde lid, onderdeel c, van 
 
 #### § 3a. Versterking van gebouwen in de provincie Groningen
 
-#### Artikel 10a
+##### Artikel 10a
 
 1. [Hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=5), met uitzondering van [artikel 13ba van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13ba), is niet van toepassing op:
 
@@ -426,7 +452,7 @@ De vergoeding voor overlast, bedoeld in [artikel 2, derde lid, onderdeel c, van 
 
 2. [Hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=5), met uitzondering van de [artikelen 13ba](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13ba) en [13n, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13n) is niet van toepassing op gebouwen behorend tot Zandplatenbuurt Zuid te Delfzijl.
 
-#### Artikel 10b
+##### Artikel 10b
 
 1. Bij de vaststelling van de risicoprofielen van gebouwen, bedoeld in [artikel 13e, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13e), hanteert Onze Minister de volgende categorieën risicoprofielen:
 
@@ -442,7 +468,7 @@ De vergoeding voor overlast, bedoeld in [artikel 2, derde lid, onderdeel c, van 
 
 4. Bij ministeriële regeling kunnen nadere regels worden gesteld over de bijstelling, bedoeld in het derde lid.
 
-#### Artikel 10c
+##### Artikel 10c
 
 1. De meerjarige planning voor het opnemen en beoordelen van gebouwen, bedoeld in [artikel 13g, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13g), wordt bepaald op basis van de overeenkomstig [artikel 10b](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&paragraaf=3a&artikel=10b&z=2024-01-01&g=2024-01-01) vastgestelde risicoprofielen.
 
@@ -456,7 +482,7 @@ De vergoeding voor overlast, bedoeld in [artikel 2, derde lid, onderdeel c, van 
 
 4. Onder de voorwaarden, genoemd in het derde lid, kunnen ook gebouwen met een normaal risico worden opgenomen in de meerjarige planning en kan aan die gebouwen voorrang worden gegeven.
 
-#### Artikel 10d
+##### Artikel 10d
 
 In het kader van zijn advies over het ontwerp van het programma van aanpak, bedoeld in [artikel 13g, derde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13g), beoordeelt de inspecteur-generaal der mijnen, met inachtneming van de veiligheid van de versterkingsoperatie, of het programma:
 
@@ -464,7 +490,7 @@ In het kader van zijn advies over het ontwerp van het programma van aanpak, bedo
 
 - b. voldoet aan [artikel 10c, tweede, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&paragraaf=3a&artikel=10c&z=2024-01-01&g=2024-01-01).
 
-#### Artikel 10e
+##### Artikel 10e
 
 1. Een verzoek om te onderzoeken of een gebouw mogelijk versterking behoeft als bedoeld in [artikel 13g, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13g), kan worden ingediend door de eigenaar van een gebouw dat niet is opgenomen in een programma van aanpak als bedoeld in artikel 13g, eerste lid, van de wet.
 
@@ -472,7 +498,7 @@ In het kader van zijn advies over het ontwerp van het programma van aanpak, bedo
 
 3. Bij ministeriële regeling kunnen nadere regels worden gesteld over het aantal verzoeken per jaar dat Onze Minister ten hoogste in behandeling neemt.
 
-#### Artikel 10f
+##### Artikel 10f
 
 1. De vaststelling of een gebouw aan de veiligheidsnorm voldoet vindt plaats:
 
@@ -498,7 +524,7 @@ In het kader van zijn advies over het ontwerp van het programma van aanpak, bedo
 
 6. Bij de vaststelling of het gebouw voldoet aan de veiligheidsnorm, bedoeld in het eerste lid, en de bepaling welke soort maatregelen nodig is indien is vastgesteld dat het gebouw niet voldoet, bedoeld in het tweede, derde en vierde lid, vindt een opname op locatie plaats.
 
-#### Artikel 10g
+##### Artikel 10g
 
 1. De aanspraak van de eigenaar, bedoeld in [artikel 13j, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13j), bestaat voor zover van toepassing uit:
 
@@ -530,7 +556,7 @@ In het kader van zijn advies over het ontwerp van het programma van aanpak, bedo
 
 #### § 3b. Onderlinge afstemming bij mogelijke samenloop
 
-#### Artikel 10h
+##### Artikel 10h
 
 1. Voor gebouwen in de gemeenten Eemsdelta, Groningen, Het Hogeland, Midden-Groningen en Oldambt verstrekken Onze Minister en het Instituut elkaar desgevraagd of eigener beweging de gegevens die nodig zijn voor het vaststellen van samenloop, de gecoördineerde behandeling bij samenloop, bedoeld in [paragraaf 3c](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&paragraaf=3c&z=2024-01-01&g=2024-01-01), of het meenemen van schadeherstel bij het treffen van versterkingsmaatregelen, bedoeld in [paragraaf 3e](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&paragraaf=3e&z=2024-01-01&g=2024-01-01).
 
@@ -556,7 +582,7 @@ In het kader van zijn advies over het ontwerp van het programma van aanpak, bedo
 
 - c. door deskundigen uitgebrachte adviezen als bedoeld in [artikel 12, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=12).
 
-#### Artikel 10i
+##### Artikel 10i
 
 Onze Minister en het Instituut voorzien in elk van de gemeenten Eemsdelta, Groningen, Het Hogeland, Midden-Groningen en Oldambt in één gezamenlijke locatie waar in ieder geval:
 
@@ -564,7 +590,7 @@ Onze Minister en het Instituut voorzien in elk van de gemeenten Eemsdelta, Groni
 
 - b. een eigenaar op verzoek informatie krijgt over de afhandeling van zijn aanvraag om schadevergoeding en de versterking van zijn gebouw en de samenhang daartussen.
 
-#### Artikel 10j
+##### Artikel 10j
 
 1. Indien het Instituut een aanvraag om schadevergoeding ontvangt van een eigenaar van een gebouw dat in een programma is opgenomen, en een opname van het gebouw als bedoeld in [artikel 10f, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&paragraaf=3a&artikel=10f&z=2024-01-01&g=2024-01-01), heeft plaatsgevonden:
 
@@ -576,7 +602,7 @@ Onze Minister en het Instituut voorzien in elk van de gemeenten Eemsdelta, Groni
 
 3. In een geval als bedoeld in het tweede lid worden voor de toepassing van de [artikelen 10l, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&paragraaf=3c&artikel=10l&z=2024-01-01&g=2024-01-01), [10m](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&paragraaf=3d&artikel=10m&z=2024-01-01&g=2024-01-01) en [10o](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&paragraaf=3e&artikel=10o&z=2024-01-01&g=2024-01-01), de in het tweede lid bedoelde aanvraag om schadevergoeding betrokken, indien dit redelijkerwijs mogelijk is.
 
-#### Artikel 10k
+##### Artikel 10k
 
 Indien het Instituut een aanvraag om schadevergoeding ontvangt van een eigenaar van een gebouw dat in een programma is opgenomen, en nog geen opname van het gebouw als bedoeld in [artikel 10f, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&paragraaf=3a&artikel=10f&z=2024-01-01&g=2024-01-01), heeft plaatsgevonden:
 
@@ -586,7 +612,7 @@ Indien het Instituut een aanvraag om schadevergoeding ontvangt van een eigenaar 
 
 #### § 3c. Gecoördineerde behandeling bij samenloop
 
-#### Artikel 10l
+##### Artikel 10l
 
 1. Indien een eigenaar van een gebouw de keuze heeft gemaakt voor gecoördineerde behandeling, wijzen Onze Minister en het Instituut gezamenlijk een coördinator aan, die ressorteert onder Onze Minister of het Instituut.
 
@@ -604,7 +630,7 @@ Indien het Instituut een aanvraag om schadevergoeding ontvangt van een eigenaar 
 
 #### § 3d. Totaalopname en gelijktijdige opname van schade
 
-#### Artikel 10m
+##### Artikel 10m
 
 1. Onze Minister voert op verzoek van de eigenaar van een gebouw waarbij sprake is van samenloop een totaalopname uit, door bij de opname van het gebouw op locatie, bedoeld in [artikel 10f, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&paragraaf=3a&artikel=10f&z=2024-01-01&g=2024-01-01), gelijktijdig ook schade aan het gebouw op te nemen, indien dit redelijkerwijs mogelijk is.
 
@@ -612,11 +638,11 @@ Indien het Instituut een aanvraag om schadevergoeding ontvangt van een eigenaar 
 
 #### § 3e. Schadeherstel meenemen bij treffen van versterkingsmaatregelen
 
-#### Artikel 10n
+##### Artikel 10n
 
 De coördinator of Onze Minister, indien er geen coördinator is aangewezen, informeert de eigenaar over de mogelijkheid dat Onze Minister tijdens het treffen van versterkingsmaatregelen ook schade aan het gebouw herstelt als bedoeld in [artikel 10o](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&paragraaf=3e&artikel=10o&z=2024-01-01&g=2024-01-01).
 
-#### Artikel 10o
+##### Artikel 10o
 
 1. Op verzoek van de eigenaar van een gebouw herstelt Onze Minister gelijktijdig met het treffen van de versterkingsmaatregelen ook die schade aan het gebouw waarvoor het Instituut een schadevergoeding in de vorm van het treffen van maatregelen in natura heeft vastgesteld, indien:
 
@@ -634,7 +660,7 @@ De coördinator of Onze Minister, indien er geen coördinator is aangewezen, inf
 
 #### § 3f. Effectgebied bewijsvermoeden
 
-#### Artikel 10p
+##### Artikel 10p
 
 Wijzigt dit besluit.
 
@@ -856,7 +882,7 @@ De Auditdienst Rijk stelt een rapport van bevindingen op als uitkomst van een op
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 10oa
+##### Artikel 10oa
 
 Het vermoeden, bedoeld in [artikel 177a, eerste lid, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=177a) geldt in ieder geval in het gebied dat valt:
 

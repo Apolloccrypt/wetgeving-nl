@@ -1,13 +1,35 @@
 ---
 title: "Reglement Vervangingsfonds en Bedrijfsgezondheidszorg voor het onderwijs"
 identifier: "BWBR0041534"
-categorie: "Sociaal recht"
-publicatiedatum: 2019-06-21
-laatste_update: 2019-06-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041534"
+country: "nl"
+rank: "zbo"
+publication_date: "2019-06-21"
+last_updated: "2019-06-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041534"
+soort: "zbo"
+stam_id: "14854033"
+version_id: "25405892"
+internal_id: "C36270651"
+label_id: "14805934"
+dtd_version: "2.0"
+original_entry_into_force: "2019-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041534/2019-06-21/0"
+intitule_bron: "Stcrt.2018-62898"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2018-11-09"
+intitule_in_force: "2018-11-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-62898"
+original_published_date: "2018-11-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-62898"
+entry_into_force_date: "2019-01-01"
+jci_1_3: "jci1.3:c:BWBR0041534&z=2019-06-21&g=2019-06-21"
+jci_1_0: "1.0:c:BWBR0041534&g=2019-06-21"
+citeertitel_status: "officieel"
+entry_into_force: "2019-01-01"
 ---
-
 # Reglement Vervangingsfonds en Bedrijfsgezondheidszorg voor het onderwijs
 
 In 1992 richtten de sociale partners in het onderwijs de Stichting Vervangingsfonds en Bedrijfsgezondheidszorg voor het Onderwijs op. Het doel van het Vervangingsfonds is het bieden van waarborgen aan aangeslotenen voor de kosten van vervanging bij afwezigheid van gewezen personeel en het invoeren en in stand houden van bedrijfsgezondheidszorg in het primair onderwijs, alsmede het bevorderen en bewaken van die zorg.
@@ -18,7 +40,7 @@ Dit reglement treedt in werking op 1 januari 2019.
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 - 1. **Bedrijfsgezondheidszorg:** de dienstverlening van het Vervangingsfonds ter voorkoming en terugdringing van ziekteverzuim en de verbetering van arbeidsomstandigheden.
 
@@ -76,13 +98,13 @@ Dit reglement treedt in werking op 1 januari 2019.
 
 ### § 2.1. Vrijwillige en verplichte aansluiting
 
-#### Artikel 2. Verplichte aansluiting bij het Vervangingsfonds
+##### Artikel 2. Verplichte aansluiting bij het Vervangingsfonds
 
 1. Op grond van [artikel 183 van de Wpo](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=183) en [artikel 169 van de Wec](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=169), is ieder bevoegd gezag aangesloten bij het Vervangingsfonds.
 
 2. Een bevoegd gezag, dat een ontheffing heeft gekregen op grond van [artikel 183, derde lid van de Wpo](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=183) of [artikel 169, derde lid van de Wec](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=169), is niet aangesloten bij het Vervangingsfonds.
 
-#### Artikel 3. Vervanging die niet voor bekostiging in aanmerking komt
+##### Artikel 3. Vervanging die niet voor bekostiging in aanmerking komt
 
 Personeelsleden:
 
@@ -94,7 +116,7 @@ Personeelsleden:
 
 zijn niet verplicht aangesloten bij het Vervangingsfonds. Vervanging van deze personeelsleden wordt niet bekostigd door het Vervangingsfonds.
 
-#### Artikel 4. Vrijwillige aanmelding van personeel
+##### Artikel 4. Vrijwillige aanmelding van personeel
 
 1. Personeel genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041534&hoofdstuk=2&artikel=3&z=2019-06-21&g=2019-06-21) kan vrijwillig worden aangemeld door het bevoegd gezag waar dit personeel een dienstverband heeft.
 
@@ -110,7 +132,7 @@ zijn niet verplicht aangesloten bij het Vervangingsfonds. Vervanging van deze pe
 
 ### § 2.2. Eigenrisicodragerschap
 
-#### Artikel 5. Eigenrisicodragerschap
+##### Artikel 5. Eigenrisicodragerschap
 
 1. Een bevoegd gezag kan eigenrisicodrager worden, indien is voldaan aan de volgende voorwaarden:
 
@@ -126,7 +148,7 @@ zijn niet verplicht aangesloten bij het Vervangingsfonds. Vervanging van deze pe
 
 5. Indien er bij een eigenrisicodrager wijzigingen optreden als gevolg van fusie of splitsing, informeert deze eigenrisicodrager het Vervangingsfonds uiterlijk 8 weken voordat deze wijzigingen zullen plaatsvinden.
 
-#### Artikel 6. Lopende vervangingen
+##### Artikel 6. Lopende vervangingen
 
 1. Indien aan een bevoegd gezag het eigenrisicodragerschap wordt verleend, worden lopende vervangingen wegens ziekte en schorsing per de ingangsdatum van het eigenrisicodragerschap niet meer door het Vervangingsfonds bekostigd.
 
@@ -136,7 +158,7 @@ zijn niet verplicht aangesloten bij het Vervangingsfonds. Vervanging van deze pe
 
 ### § 3.1. Premie
 
-#### Artikel 7. Premie
+##### Artikel 7. Premie
 
 1. Een bij het Vervangingsfonds aangesloten bevoegd gezag voldoet maandelijks de premie aan het Vervangingsfonds. De verschuldigde premie is gelijk aan de premiegrondslag vermenigvuldigd met het premiepercentage.
 
@@ -144,7 +166,7 @@ zijn niet verplicht aangesloten bij het Vervangingsfonds. Vervanging van deze pe
 
 3. Het personeel waarvoor premie is verschuldigd als bedoeld in het eerste lid, staat omschreven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041534&bijlage=1&z=2019-06-21&g=2019-06-21), ‘Premie’, van dit reglement.
 
-#### Artikel 8. Premiepercentages
+##### Artikel 8. Premiepercentages
 
 1. Het bestuur stelt jaarlijks uiterlijk op 15 oktober de hoogte van de premiepercentages voor het volgende kalenderjaar vast.
 
@@ -154,7 +176,7 @@ zijn niet verplicht aangesloten bij het Vervangingsfonds. Vervanging van deze pe
 
 ### § 3.2. Bonus-malus regeling
 
-#### Artikel 9. Bonus-malus regeling
+##### Artikel 9. Bonus-malus regeling
 
 1. Een bevoegd gezag ontvangt na afloop van het kalenderjaar een beslissing van het Vervangingsfonds over het al dan niet toekennen van een bonus of het verschuldigd zijn van een malus.
 
@@ -166,7 +188,7 @@ zijn niet verplicht aangesloten bij het Vervangingsfonds. Vervanging van deze pe
 
 5. Het Vervangingsfonds maakt de beslissing over de bonus-malus afrekening over het voorgaande kalenderjaar jaarlijks bekend voor 15 oktober. Deze termijn kan met uiterlijk 6 weken worden verlengd, mits dit door het Vervangingsfonds voor 8 oktober bekend wordt gemaakt.
 
-#### Artikel 10. Toepassingsbereik
+##### Artikel 10. Toepassingsbereik
 
 1. De bonus-malus regeling is van toepassing op een kalenderjaar.
 
@@ -174,7 +196,7 @@ zijn niet verplicht aangesloten bij het Vervangingsfonds. Vervanging van deze pe
 
 3. Indien een bevoegd gezag als gevolg van fusie gedurende het kalenderjaar eigenrisicodrager is geworden, dan geldt de bonus-malus regeling alleen voor het tijdvak voorafgaand aan de dag dat dit bevoegd gezag eigenrisicodrager is geworden.
 
-#### Artikel 11. Maximering malus
+##### Artikel 11. Maximering malus
 
 1. Indien een bevoegd gezag met een personele bekostiging regulier lager dan 2,5 miljoen euro een bonus-malus verhouding heeft van meer dan 1,5 is voor het deel daarboven geen malus verschuldigd. De berekening en werking van de bonus-malus verhouding is opgenomen in ‘Werkwijze bonus-malus regeling’, opgenomen als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041534&bijlage=2&z=2019-06-21&g=2019-06-21) in dit reglement.
 
@@ -182,7 +204,7 @@ zijn niet verplicht aangesloten bij het Vervangingsfonds. Vervanging van deze pe
 
 ### Hoofdstuk 4. Bekostiging
 
-#### Artikel 12. Voorwaarden voor bekostiging
+##### Artikel 12. Voorwaarden voor bekostiging
 
 Een bevoegd gezag dat valt onder de reguliere bekostiging dan wel een eigenrisicodrager die gebruik maakt van een financiële variant, komt in aanmerking voor bekostiging van vervanging, indien is voldaan aan de voorwaarden van dit artikel.
 
@@ -228,7 +250,7 @@ Een bevoegd gezag dat valt onder de reguliere bekostiging dan wel een eigenrisic
 
 - 14. Indien het Vervangingsfonds ten aanzien van ingediende vervangingsdeclaraties bij een bevoegd gezag aanvullende gegevens heeft opgevraagd, dan moet het Vervangingsfonds deze gegevens binnen 8 weken, te rekenen vanaf de dag dat het Vervangingsfonds de gegevens heeft opgevraagd, hebben ontvangen.
 
-#### Artikel 13. Wijze van vervanging
+##### Artikel 13. Wijze van vervanging
 
 Vervanging kan plaatsvinden op basis van:
 
@@ -244,7 +266,7 @@ Vervanging kan plaatsvinden op basis van:
 
 - f. arbeid door extern personeel, uitzendarbeid of payrolling.
 
-#### Artikel 14. Bekostiging
+##### Artikel 14. Bekostiging
 
 Indien is voldaan aan [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0041534&hoofdstuk=4&artikel=12&z=2019-06-21&g=2019-06-21) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0041534&hoofdstuk=4&artikel=13&z=2019-06-21&g=2019-06-21), dan vindt bekostiging plaats met inachtneming van dit artikel.
 
@@ -262,7 +284,7 @@ Indien is voldaan aan [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR00415
 
 ### Hoofdstuk 5. Vervangingspools
 
-#### Artikel 15. Aanvraag en duur vervangingspools
+##### Artikel 15. Aanvraag en duur vervangingspools
 
 1. Een bevoegd gezag dat valt onder de reguliere bekostiging, kan bij het Vervangingsfonds schriftelijk een aanvraag indienen, om al dan niet samen met andere bevoegde gezagsorganen een vervangingspool op te richten.
 
@@ -276,7 +298,7 @@ Indien is voldaan aan [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR00415
 
 6. Een aanvraag voor een bovenbestuurlijke vervangingspool kan gedurende het hele kalenderjaar worden ingediend en start niet eerder dan de eerste van de maand volgend op de maand waarin deze is aangevraagd.
 
-#### Artikel 16. Bekostiging en inzetpercentage vervangingspool
+##### Artikel 16. Bekostiging en inzetpercentage vervangingspool
 
 1. De bekostiging en berekening van het inzetpercentage van de in de vervangingspool geplaatste personeelsleden vindt plaats volgens [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041534&bijlage=4&z=2019-06-21&g=2019-06-21), ‘Werkwijze vervangingspools’, van dit reglement.
 
@@ -292,7 +314,7 @@ Indien is voldaan aan [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR00415
 
 7. Na het tijdig indienen van de inzetverantwoording, kan een bevoegd deze binnen 3 maanden en 5 werkdagen corrigeren, te rekenen vanaf de dag dat de inzetverantwoording is ingediend.
 
-#### Artikel 17. Plaatsing uit de vervangingspool
+##### Artikel 17. Plaatsing uit de vervangingspool
 
 1. In de verlofsituaties onder a tot en met c, wordt personeel dat geplaatst is in een vervangingspool voor de duur en omvang van dit verlof uit de vervangingspool geplaatst. Het bevoegd gezag kan gedurende deze verlofsituaties een ander personeelslid in de vervangingspool plaatsen.
 
@@ -304,7 +326,7 @@ Indien is voldaan aan [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR00415
 
 2. Personeel dat afwezig is wegens ziekte, kan niet in een vervangingspool worden geplaatst.
 
-#### Artikel 18. Bovenbestuurlijke vervangingspools
+##### Artikel 18. Bovenbestuurlijke vervangingspools
 
 1. Bij een bovenbestuurlijke vervangingspool, komt vervanging door personeel in dienst van een aan deze pool deelnemende eigenrisicodrager niet voor bekostiging in aanmerking, tenzij sprake is van de situatie onder a en b.
 
@@ -318,7 +340,7 @@ Indien is voldaan aan [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR00415
 
 ### Hoofdstuk 6. Financiële varianten
 
-#### Artikel 19. Aanmelding financiële varianten
+##### Artikel 19. Aanmelding financiële varianten
 
 1. Een eigen risicodrager of een bevoegd gezag waaraan eigenrisicodragerschap wordt verleend, kan zich aanmelden voor één van de volgende financiële varianten:
 
@@ -338,7 +360,7 @@ Indien is voldaan aan [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR00415
 
 5. De bekostiging van de financiële varianten vindt plaats conform [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041534&bijlage=5&z=2019-06-21&g=2019-06-21), ‘Werkwijze financiële varianten’, van dit reglement.
 
-#### Artikel 20. Algemene voorwaarden voor bekostiging financiële varianten
+##### Artikel 20. Algemene voorwaarden voor bekostiging financiële varianten
 
 Een bevoegd gezag dat gebruik maakt van een financiële variant, komt voor bekostiging in aanmerking indien is voldaan aan [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0041534&hoofdstuk=4&artikel=12&z=2019-06-21&g=2019-06-21), met uitzondering van lid 7, onder a, [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0041534&hoofdstuk=4&artikel=13&z=2019-06-21&g=2019-06-21) en aan de voorwaarden van dit artikel.
 
@@ -348,7 +370,7 @@ Een bevoegd gezag dat gebruik maakt van een financiële variant, komt voor bekos
 
 - 3. [Artikel 12, lid 8, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0041534&hoofdstuk=4&artikel=12&z=2019-06-21&g=2019-06-21), is niet van toepassing op financiële varianten.
 
-#### Artikel 21. Wijziging of opzegging
+##### Artikel 21. Wijziging of opzegging
 
 1. Het gebruik van een financiële variant geldt voor onbepaalde tijd.
 
@@ -358,23 +380,23 @@ Een bevoegd gezag dat gebruik maakt van een financiële variant, komt voor bekos
 
 ### Hoofdstuk 7. Slotbepalingen
 
-#### Artikel 22. Arbo, ziekteverzuim- en personeelsbeleid
+##### Artikel 22. Arbo, ziekteverzuim- en personeelsbeleid
 
 1. Een bevoegd gezag kan gebruik maken van de faciliteiten die het Vervangingsfonds beschikbaar stelt op het gebied van arbo, ziekteverzuim- en personeelsbeleid.
 
 2. Het Vervangingsfonds kan voor het inzetten en verdelen van de faciliteiten, genoemd in het eerste lid, nadere regels stellen.
 
-#### Artikel 23. Subsidies
+##### Artikel 23. Subsidies
 
 Een bevoegd gezag kan bij het Vervangingsfonds een aanvraag indienen voor een door het Vervangingsfonds te verstrekken subsidie. Op deze aanvragen is de Kaderregeling Subsidieverstrekking Vervangingsfonds en Participatiefonds 2007 van toepassing.
 
-#### Artikel 24. Administratie- en bewaarplicht
+##### Artikel 24. Administratie- en bewaarplicht
 
 1. Het bevoegd gezag voert of laat een administratie voeren met betrekking tot de op grond van dit reglement benodigde gegevens en documenten.
 
 2. Het bevoegd gezag bewaart de in het eerste lid genoemde administratie voor een periode van minimaal 7 jaar en stelt deze ter beschikking aan de controleurs die het bestuur daartoe heeft aangewezen.
 
-#### Artikel 25. Toepassing reglement
+##### Artikel 25. Toepassing reglement
 
 1. In het geval er ten onrechte bekostiging door het Vervangingsfonds heeft plaatsgevonden, vordert het Vervangingsfonds het ten onrechte uitgekeerde bedrag terug als onverschuldigde betaling.
 
@@ -386,21 +408,21 @@ Een bevoegd gezag kan bij het Vervangingsfonds een aanvraag indienen voor een do
 
 5. Voordat het Vervangingsfonds een administratieve heffing als bedoeld in het vierde lid oplegt, geeft het een eenmalige schriftelijke waarschuwing aan het bevoegd gezag.
 
-#### Artikel 26. Onvoorziene omstandigheden
+##### Artikel 26. Onvoorziene omstandigheden
 
 In gevallen waarin het reglement niet voorziet, beslist het bestuur.
 
-#### Artikel 27. Citeertitel
+##### Artikel 27. Citeertitel
 
 Dit reglement wordt aangehaald als ‘Reglement Vervangingsfonds en Bedrijfsgezondheidszorg voor het onderwijs’.
 
-#### Artikel 28. Bekendmaking
+##### Artikel 28. Bekendmaking
 
 1. Dit reglement wordt bekendgemaakt middels publicatie in de Staatscourant.
 
 2. Dit reglement treedt in werking op 1 januari 2019 en is van toepassing op het kalenderjaar 2019. Voor vervanging die in 2019 heeft plaatsgevonden, is dit reglement voor onbepaalde tijd van toepassing.
 
-#### Artikel 29. Hardheidsclausule
+##### Artikel 29. Hardheidsclausule
 
 1. Om zwaarwegende redenen kan het bestuur, op eigen initiatief dan wel op schriftelijk verzoek van een bevoegd gezag, afwijken van de bepalingen in dit reglement. Bij de belangenafweging die in het kader van een beroep op de hardheidsclausule plaatsvindt, wordt alleen gekeken naar de omstandigheden van het bevoegd gezag.
 

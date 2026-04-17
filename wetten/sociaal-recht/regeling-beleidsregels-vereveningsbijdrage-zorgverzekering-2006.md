@@ -1,13 +1,35 @@
 ---
 title: "Regeling beleidsregels vereveningsbijdrage zorgverzekering 2006"
 identifier: "BWBR0017869"
-categorie: "Sociaal recht"
-publicatiedatum: 2009-10-23
-laatste_update: 2009-10-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0017869"
+country: "nl"
+rank: "zbo"
+publication_date: "2009-10-23"
+last_updated: "2009-10-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0017869"
+soort: "zbo"
+stam_id: "7354813"
+version_id: "16751472"
+internal_id: "C23046261"
+label_id: "7342944"
+dtd_version: "2.0"
+original_entry_into_force: "2009-10-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0017869/2009-10-23/0"
+intitule_bron: "Stcrt.2005-184"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2005-09-22"
+intitule_in_force: "2005-09-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-15719"
+original_published_date: "2009-10-21"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2009-15719"
+entry_into_force_date: "2009-10-23"
+jci_1_3: "jci1.3:c:BWBR0017869&z=2009-10-23&g=2009-10-23"
+jci_1_0: "1.0:c:BWBR0017869&g=2009-10-23"
+citeertitel_status: "officieel"
+entry_into_force: "2009-10-23"
 ---
-
 # Regeling beleidsregels vereveningsbijdrage zorgverzekering 2006
 
 Gelet op de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=32), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=33) en [34 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=34) en [Hoofdstuk 3 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3) en [Hoofdstuk 3 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=3);
@@ -18,7 +40,7 @@ Heeft in zijn vergadering van 8 september 2005 besloten:
 
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 Deze regeling verstaat onder:
 
@@ -36,13 +58,13 @@ Deze regeling verstaat onder:
 
 - g. voormalig particulier verzekerde: Een verzekerde die op 1 december 2005 niet verzekerd was op grond van de [Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het college gaat bij de verdeling van de macro-deelbedragen 2006 en de berekening van de normatieve bedragen en de bijdragen ervan uit dat alle ziekenfondsen en alle privaatrechtelijke en publiekrechtelijke ziektekostenverzekeraars die gedurende 2005 actief zijn geweest ook in 2006 als zorgverzekeraar actief zullen zijn, tenzij zij voor 1 augustus 2005 aan het college hebben aangegeven dat zulks niet het geval zal zijn.
 
 2. Wanneer in deze regeling sprake is van zorgverzekeraars in de periode voor inwerkingtreding van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), wordt onder zorgverzekeraars verstaan de ziekenfondsen en de privaatrechtelijke en publiekrechtelijke ziektekostenverzekeraars.
 
-#### Artikel 3. Samenloop van criteria aard van het inkomen
+##### Artikel 3. Samenloop van criteria aard van het inkomen
 
 Voor de indeling in de aard van het inkomenklasse deelt het college een verzekerde die onder meerdere criteria valt in te delen, in op basis van de hierna genoemde volgorde:
 
@@ -58,7 +80,7 @@ Voor de indeling in de aard van het inkomenklasse deelt het college een verzeker
 
 - 6. referentiegroep aard van het inkomen, exclusief de verzekerden van 0 t/m 14 jaar en de verzekerden van 65 en ouder.
 
-#### Artikel 4. Indeling in FKG’s 2006 en DKG’s 2006
+##### Artikel 4. Indeling in FKG’s 2006 en DKG’s 2006
 
 1. Het college baseert de indeling in FKG’s 2006 op bijlage 5 bij de brief van de Minister van Volksgezondheid, Welzijn en Sport van 6 september 2005 (kenmerk Z/F-2614466).
 
@@ -66,13 +88,13 @@ Voor de indeling in de aard van het inkomenklasse deelt het college een verzeker
 
 3. Bij de herberekening van de normatieve bedragen baseert het college de indeling in DKG’s 2006 op bijlage 6, DBC-diagnosecodes en DBC-behandelcodes de brief van de Minister van Volksgezondheid, Welzijn en Sport van 6 september 2005 (kenmerk Z/⁠F-2614466).
 
-#### Artikel 5
+##### Artikel 5
 
 Het college past de regels die in het [Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492) en de [Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715) zijn gesteld met betrekking tot de toekenning en vaststelling van de bijdragen aan de zorgverzekeraars voor het jaar 2006 toe met inachtneming van het bepaalde in deze regeling.
 
 ### Hoofdstuk II. Toekenning van de bijdrage 2006
 
-#### Artikel 6. Verzekerdenraming 2006
+##### Artikel 6. Verzekerdenraming 2006
 
 1. Het college baseert zich bij de raming van de verzekerdenaantallen 2006 naar risicoklasse en naar regioklasse 2006 en van de verzekerden aantallen van 18 jaar en ouder 2006 op de opgaven van de zorgverzekeraars van de verzekerdenaantallen op 1 juni 2005 naar geslacht, leeftijd en viercijferige postcode.
 
@@ -116,7 +138,7 @@ Het college past de regels die in het [Besluit zorgverzekering](https://wetten.o
 
 - g. Tot slot worden de aantallen verzekerden 2006 per morbiditeitsrisicoklasse per DKG 2006 over de morbiditeitsrisicoklassen gesommeerd en afgerond op vier decimalen.
 
-#### Artikel 7. De verdeling van het macro-deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp en de berekening van de normatieve bedragen variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp ten behoeve van de zorgverzekeraars
+##### Artikel 7. De verdeling van het macro-deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp en de berekening van de normatieve bedragen variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp ten behoeve van de zorgverzekeraars
 
 1. Voor de verdeling van het macro-deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp hanteert het college als uitgangspunten:
 
@@ -225,7 +247,7 @@ Het college past de regels die in het [Besluit zorgverzekering](https://wetten.o
 
 7. Het resultaat van het zesde lid wordt aangeduid als het normatieve bedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2006.
 
-#### Artikel 8. De verdeling van het macro-deelbedrag vaste kosten van ziekenhuisverpleging en de berekening van de normatieve bedragen vaste kosten van ziekenhuisverpleging ten behoeve van de zorgverzekeraars
+##### Artikel 8. De verdeling van het macro-deelbedrag vaste kosten van ziekenhuisverpleging en de berekening van de normatieve bedragen vaste kosten van ziekenhuisverpleging ten behoeve van de zorgverzekeraars
 
 1. Het college bepaalt het deelbedrag vaste kosten van ziekenhuisverpleging als volgt:
 
@@ -247,7 +269,7 @@ Het college past de regels die in het [Besluit zorgverzekering](https://wetten.o
 
 5. De som van het resultaat van het derde en van het resultaat van het vierde lid wordt aangeduid als deelbedrag vaste kosten van ziekenhuisverpleging 2006.
 
-#### Artikel 9. De verdeling van het macro-deelbedrag kosten van overige prestaties en de berekening van de normatieve bedragen kosten van overige prestaties ten behoeve van de zorgverzekeraars
+##### Artikel 9. De verdeling van het macro-deelbedrag kosten van overige prestaties en de berekening van de normatieve bedragen kosten van overige prestaties ten behoeve van de zorgverzekeraars
 
 1. Voor de verdeling van het macro-deelbedrag kosten van overige prestaties hanteert het college als uitgangspunten:
 
@@ -560,7 +582,7 @@ Het college past de regels die in het [Besluit zorgverzekering](https://wetten.o
 
 8. Ter informatie kunnen ook deelbedragen per afzonderlijke overige prestatie worden berekend overeenkomstig lid 2 tot en met lid 7.
 
-#### Artikel 10. De raming van de normatieve no-claimteruggave
+##### Artikel 10. De raming van de normatieve no-claimteruggave
 
 1. Voor de raming van de normatieve no-claimteruggaven hanteert het college als uitgangspunten:
 
@@ -620,7 +642,7 @@ Het college past de regels die in het [Besluit zorgverzekering](https://wetten.o
 
 5. Het resultaat van het vierde lid wordt aangeduid als de geraamde normatieve no-claimteruggave 2006.
 
-#### Artikel 11. De berekening van het normatieve bedrag ten behoeve van een zorgverzekeraar, en de berekening en toekenning van de bijdrage aan een zorgverzekeraar
+##### Artikel 11. De berekening van het normatieve bedrag ten behoeve van een zorgverzekeraar, en de berekening en toekenning van de bijdrage aan een zorgverzekeraar
 
 1. Het college stelt het normatieve bedrag 2006 van een zorgverzekeraar vast als de som van het volgens dit hoofdstuk berekende deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2006, het deelbedrag vaste kosten van ziekenhuisverpleging 2006 en het deelbedrag kosten van overige prestaties 2006.
 
@@ -632,11 +654,11 @@ Het college past de regels die in het [Besluit zorgverzekering](https://wetten.o
 
 5. Het college kent de bijdrage 2006 ter hoogte van de bijdrage berekend in het derde lid, aangevuld met het bedrag berekend in het vierde lid, aan de zorgverzekeraar toe.
 
-#### Artikel 12. Herberekeningen als gevolg van splitsingen
+##### Artikel 12. Herberekeningen als gevolg van splitsingen
 
 Indien een zorgverzekeraar na de toekenning van de bijdrage 2006 besluit zich te splitsen, dient de zorgverzekeraar aan het college mee te delen hoe naar zijn verwachting de geraamde verzekerdenaantallen 2006 verdeeld zullen worden, over nieuwe dan wel bestaande zorgverzekeraars. Het college kan de toegekende bijdrage herzien en de bijdragen aan nieuwe dan wel bestaande zorgverzekeraars toekennen, een en ander rekening houdend met de meegedeelde geraamde verzekerdenaantallen en het tijdstip waarop de splitsing wordt gerealiseerd.
 
-#### Artikel 13. De uitkering van de normatieve no-claim-teruggave
+##### Artikel 13. De uitkering van de normatieve no-claim-teruggave
 
 1. Het college herberekent in maart 2007 de gewichten no-claimteruggave op basis van de verzekerdenaantallen 2006, voor zover die op 1 maart 2007 bij het college beschikbaar zijn, en de door de zorgverzekeraars verwachte no-claimteruggave 2006 op de volgende wijze:
 
@@ -660,13 +682,13 @@ Indien een zorgverzekeraar na de toekenning van de bijdrage 2006 besluit zich te
 
 - e. Het college kent de normatieve no-claimteruggave 2006 voor 1 april 2007 aan de zorgverzekeraar toe.
 
-#### Artikel 14. Herverdeling van de macro-deelbedragen als gevolg van onverwacht grote marktverschuivingen
+##### Artikel 14. Herverdeling van de macro-deelbedragen als gevolg van onverwacht grote marktverschuivingen
 
 Indien naar het oordeel van het college op grond van de opgave van de verzekerdenaantallen per 1 juni 2006 blijkt dat de verdeling van de verzekerden over de zorgverzekeraars sterk afwijkt van de verzekerdenraming van het college en daardoor ernstige liquiditeitsproblemen bij meerdere zorgverzekeraars dreigen te ontstaan, kan het college een nieuwe verzekerdenraming opstellen, mede op basis van de opgave van de verzekerdenaantallen per 1 juni 2006. Daarbij zal het college zoveel mogelijk de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=II&artikel=6&z=2009-10-23&g=2009-10-23) bepaalde berekeningswijze volgen. Met behulp van de nieuwe verzekerdenraming zal het college de macro-deelbedragen 2006 opnieuw verdelen en eveneens de normatieve bedragen 2006 ten behoeve van, en de bijdragen 2006 aan de zorgverzekeraars opnieuw berekenen en aan de zorgverzekeraars toekennen. Het college stelt de zorgverzekeraars zo spoedig mogelijk op de hoogte of en wanneer het tot een nieuwe berekening en herziening van de toekenning van de bijdragen voor alle zorgverzekeraars overgaat.
 
 ### Hoofdstuk III. De voorlopige vaststelling van de bijdrage aan een zorgverzekeraar
 
-#### Artikel 15. Algemene bepaling
+##### Artikel 15. Algemene bepaling
 
 1. Het college herberekent het normatieve bedrag voorlopig op basis van het financieel verslag 2006 en de jaarstaat 2006 van de zorgverzekeraars. Voor de verzekeringsduur van de verzekerden baseert het college zich op het Referentiebestand verzekerden Zorgverzekeringswet van SA-Z. Wanneer een verzekerde gedurende een bepaalde periode bij meerdere zorgverzekeraars is ingeschreven, wordt de periode verdeeld naar rato van het aantal zorgverzekeraars waar de verzekerde gedurende die periode ingeschreven is geweest.
 
@@ -694,7 +716,7 @@ Indien naar het oordeel van het college op grond van de opgave van de verzekerde
 
 5. Het college bepaalt met behulp van het referentiebestand SA-Zorg (ziekenfondsen) per 1 december 2005 en het referentiebestand van SA-Zorg over 2006, en de opgave van de zorgverzekeraars over de verzekerden naar viercijferige postcode van het adres waar de verzekerde woonachtig is, de aantallen verzekerden naar regioklasse 2006.
 
-#### Artikel 16. De voorlopige herberekening van het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2006
+##### Artikel 16. De voorlopige herberekening van het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2006
 
 1. Het college bepaalt per zorgverzekeraar en voor het totaal van de zorgverzekeraars de variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2006 met inachtneming van de [artikelen 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.7) en [3.8 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.8).
 
@@ -732,7 +754,7 @@ Indien naar het oordeel van het college op grond van de opgave van de verzekerde
 
 15. Het resultaat van het veertiende lid wordt aangeduid als het voorlopige herberekende deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2006.
 
-#### Artikel 17. De voorlopige herberekening van het deelbedrag vaste kosten van ziekenhuisverpleging 2006
+##### Artikel 17. De voorlopige herberekening van het deelbedrag vaste kosten van ziekenhuisverpleging 2006
 
 1. Het college bepaalt per zorgverzekeraar overeenkomstig de [artikelen 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.7) en [3.9 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.9), de vaste kosten van ziekenhuisverpleging 2006.
 
@@ -748,7 +770,7 @@ Indien naar het oordeel van het college op grond van de opgave van de verzekerde
 
 5. Het resultaat van het vierde lid na de nacalculatie wordt aangeduid als het voorlopige herberekende deelbedrag vaste kosten van ziekenhuisverpleging 2006.
 
-#### Artikel 18. De voorlopige herberekening van het deelbedrag kosten van overige prestaties 2006
+##### Artikel 18. De voorlopige herberekening van het deelbedrag kosten van overige prestaties 2006
 
 1. Het college bepaalt de kosten van overige prestaties 2006 met inachtneming van [artikel 3.7 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.7).
 
@@ -776,7 +798,7 @@ Indien naar het oordeel van het college op grond van de opgave van de verzekerde
 
 13. Het resultaat van het twaalfde lid wordt aangeduid als het voorlopige herberekende deelbedrag kosten van overige prestaties 2006.
 
-#### Artikel 19. De voorlopige herberekening van de normatieve no-claimteruggave 2006
+##### Artikel 19. De voorlopige herberekening van de normatieve no-claimteruggave 2006
 
 1. Het college herberekent de gewichten no-claimteruggave op basis van de verzekerden aantallen 2006 en de door de zorgverzekeraars verantwoorde no-claimteruggave 2006 uit het financieel verslag 2006 op de volgende wijze:
 
@@ -798,7 +820,7 @@ Indien naar het oordeel van het college op grond van de opgave van de verzekerde
 
 - d. Het resultaat onder c wordt aangeduid als de voorlopig herberekende normatieve no-claimteruggave 2006.
 
-#### Artikel 20. De voorlopige herberekening van het normatieve bedrag 2006 en de voorlopige herberekening en voorlopige vaststelling van de bijdrage 2006
+##### Artikel 20. De voorlopige herberekening van het normatieve bedrag 2006 en de voorlopige herberekening en voorlopige vaststelling van de bijdrage 2006
 
 1. Het college herberekent het normatieve bedrag 2006 voorlopig als de som van het voorlopige herberekende deelbedrag 2006 variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2006, het voorlopige herberekende deelbedrag vaste kosten van ziekenhuisverpleging 2006 en het voorlopig herberekende deelbedrag kosten van overige prestaties 2006.
 
@@ -818,27 +840,27 @@ Indien naar het oordeel van het college op grond van de opgave van de verzekerde
 
 ### Hoofdstuk IV. De vaststelling van de bijdrage 2006 aan een zorgverzekeraar
 
-#### Artikel 21. Algemene bepaling
+##### Artikel 21. Algemene bepaling
 
 Het college herberekent het normatieve bedrag definitief op basis van de correcties die de Nederlandse Zorgautoriteit heeft toegepast op de opgave herziene jaarstaat 2006, de opgave no-claimteruggave 2006 in de jaarstaat 2007, de opgave hoge kosten compensatie 2006 en de opbrengstverrekening 2006.
 
-#### Artikel 22
+##### Artikel 22
 
 Het college herberekent definitief het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2006 overeenkomstig [artikel 20c](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=IIIa&artikel=20c&z=2009-10-23&g=2009-10-23), met inachtneming van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=IV&artikel=21&z=2009-10-23&g=2009-10-23).
 
-#### Artikel 23
+##### Artikel 23
 
 Het college herberekent definitief het deelbedrag vaste kosten van ziekenhuisverpleging 2006 overeenkomstig [artikel 20d](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=IIIa&artikel=20d&z=2009-10-23&g=2009-10-23), met inachtneming van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=IV&artikel=21&z=2009-10-23&g=2009-10-23).
 
-#### Artikel 24
+##### Artikel 24
 
 Het college herberekent definitief het deelbedrag kosten van overige prestaties 2006 overeenkomstig [artikel 20e](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=IIIa&artikel=20e&z=2009-10-23&g=2009-10-23), met inachtneming van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=IV&artikel=21&z=2009-10-23&g=2009-10-23).
 
-#### Artikel 25
+##### Artikel 25
 
 Het college herberekent definitief de normatieve no-claimteruggave 2006, overeenkomstig [artikel 20f](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=IIIa&artikel=20f&z=2009-10-23&g=2009-10-23), met inachtneming van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=IV&artikel=21&z=2009-10-23&g=2009-10-23).
 
-#### Artikel 26. De definitieve herberekening van het normatieve bedrag 2006 en de definitieve herberekening en de vaststelling van de bijdrage 2006
+##### Artikel 26. De definitieve herberekening van het normatieve bedrag 2006 en de definitieve herberekening en de vaststelling van de bijdrage 2006
 
 1. Het college herberekent het normatieve bedrag 2006 definitief als de som van het definitieve deelbedrag 2006 variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2006, het definitieve deelbedrag vaste kosten van ziekenhuisverpleging 2006 en het definitieve deelbedrag kosten van overige prestaties 2006.
 
@@ -858,7 +880,7 @@ Het college herberekent definitief de normatieve no-claimteruggave 2006, overeen
 
 ### Hoofdstuk V. De uitkering voor de kosten van prestaties die door het college naar het werkelijk bedrag worden vergoed
 
-#### Artikel 27
+##### Artikel 27
 
 1. Bij gelegenheid van de vaststelling van de bijdrage 2006 als bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=IV&artikel=26&z=2009-10-23&g=2009-10-23) stelt het college per zorgverzekeraar ook de uitkering 2006 vast voor de kosten die op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) naar het werkelijke bedrag door het college worden vergoed.
 
@@ -866,7 +888,7 @@ Het college herberekent definitief de normatieve no-claimteruggave 2006, overeen
 
 ### Hoofdstuk VI. De Betalingen aan de zorgverzekeraars
 
-#### Artikel 28
+##### Artikel 28
 
 1. Het college betaalt de zorgverzekeraars de bijdrage, bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=II&artikel=11&z=2009-10-23&g=2009-10-23), uit, verminderd met het bedrag voor de geraamde normatieve no-claimteruggave. Het college maakt bij de betalingen onderscheid naar de volgende bestanddelen:
 
@@ -886,7 +908,7 @@ Het college herberekent definitief de normatieve no-claimteruggave 2006, overeen
 
 5. Indien toepassing van het eerste, tweede dan wel vierde lid leidt tot een negatief saldo, verrekent het college het negatieve saldo, voor zover mogelijk, met de betalingen bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=VI&artikel=29&z=2009-10-23&g=2009-10-23). Het college verrekent het negatieve saldo totdat de vordering volledig is voldaan.
 
-#### Artikel 29
+##### Artikel 29
 
 1. De bestanddelen genoemd in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=VI&artikel=28&z=2009-10-23&g=2009-10-23), alsmede de uitkering bedoeld in [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=VI&artikel=28&z=2009-10-23&g=2009-10-23), betaalt het college in termijnen op de eerste werkdag van de maand, overeenkomstig onderstaand betalingsschema:
 
@@ -918,7 +940,7 @@ Het college herberekent definitief de normatieve no-claimteruggave 2006, overeen
 
 4. In bijzondere omstandigheden, wanneer de betalingen voor een zorgverzekeraar kennelijk ontoereikend zijn, kan het college op verzoek van die zorgverzekeraar de betalingen verhogen. Indien de betalingen kennelijk ontoereikend zijn wegens toename van het aantal verzekerden dat bij de zorgverzekeraar is ingeschreven, voldoet het college aan een verzoek van de zorgverzekeraar om verhoging van de betalingen, wanneer die toename tenminste 5 procent bedraagt, met een minimum van 3.000 verzekerden, ten opzichte van het verzekerdenaantal dat aan de berekening van de bijdrage ten grondslag heeft gelegen. Het minimum van 3.000 verzekerden geldt niet als de toename 25 procent of meer bedraagt.
 
-#### Artikel 30
+##### Artikel 30
 
 1. Indien het college de bijdragen voor de zorgverzekeraars herziet, op grond van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=II&artikel=14&z=2009-10-23&g=2009-10-23), herziet het college ook de te betalen termijnen overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=VI&artikel=29&z=2009-10-23&g=2009-10-23). Het college verrekent het verschil tussen de reeds betaalde termijnen en de herziene termijnen op de eerste werkdag van de maand juli 2006.
 
@@ -932,13 +954,13 @@ Het college herberekent definitief de normatieve no-claimteruggave 2006, overeen
 
 6. Indien toepassing van onderscheidenlijk het eerste, tweede en derde lid resulteert in een negatief saldo voor de zorgverzekeraar, wordt dat saldo ineens door de desbetreffende zorgverzekeraar aan het college terugbetaald, behoudens voor zover het college het bedrag heeft verrekend met enige vordering op de zorgverzekeraar op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) dan wel de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614).
 
-#### Artikel 31
+##### Artikel 31
 
 1. De zorgverzekeraar en het college zijn over en weer rente verschuldigd en hebben over en weer aanspraak op rente over de verschillen, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=VI&artikel=30&z=2009-10-23&g=2009-10-23).
 
 2. De rente, bedoeld in het eerste lid, wordt bij de voorlopige en definitieve vaststelling van de uitkering door het college verwerkt en zo mogelijk verrekend met andere betalingen die uit deze vaststellingen voortvloeien.
 
-#### Artikel 32
+##### Artikel 32
 
 1. Bij de verrekening van verschillen, bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=VI&artikel=30&z=2009-10-23&g=2009-10-23), berekent het college rente over het verschil vanaf de datum waarop het verschil is ontstaan tot de datum waarop de verschillen worden verrekend.
 
@@ -960,11 +982,11 @@ Bij de berekening wordt een maand op 30 en een jaar op 360 dagen gesteld.
 
 ### Hoofdstuk VII. Slotbepalingen
 
-#### Artikel 33
+##### Artikel 33
 
 Deze regeling treedt in werking met ingang van 1 januari 2006.
 
-#### Artikel 34
+##### Artikel 34
 
 Deze regeling wordt aangehaald als: Regeling beleidsregels vereveningsbijdrage zorgverzekering 2006.
 
@@ -1052,7 +1074,7 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 Goedgekeurd door de Minister van Volksgezondheid, Welzijn en Sport bij brief van 13 september 2005, onder nummer Z/F-2617684.
 
-#### Artikel 28a
+##### Artikel 28a
 
 1. Bij gelegenheid van de voorlopige vaststelling van de bijdrage, bedoeld in [artikel 20, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=III&artikel=20&z=2009-10-23&g=2009-10-23), stelt het college het volgende vast:
 
@@ -1072,7 +1094,7 @@ Goedgekeurd door de Minister van Volksgezondheid, Welzijn en Sport bij brief van
 
 5. Het college verrekent zo mogelijk, na toepassing van het vierde lid en overeenkomstig het tweede lid, de som van de onderdelen c en d uit het eerste lid met de op grond van [artikel 20f, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=IIIa&artikel=20f&z=2009-10-23&g=2009-10-23), voor de tweede maal voorlopig vastgestelde bijdrage.
 
-#### Artikel 28b
+##### Artikel 28b
 
 1. Bij gelegenheid van de voorlopige vaststelling van de bijdrage, bedoeld in [artikel 20, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=III&artikel=20&z=2009-10-23&g=2009-10-23), stelt het college het bedrag aan compensatie vast volgens [artikel 3.15a van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.15a), voor iedere verzekerde ten aanzien van wie niet aan de premieplicht, bedoeld in [artikel 16 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=16), is of wordt voldaan. De zorgverzekeraar ontvangt de compensatie onder de voorwaarde dat is voldaan aan het bepaalde in [artikel 3.18 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.18). Bij de voorlopige vaststelling baseert het college zich voor de vaststelling van de compensatie op de voorlopige opgave van de zorgverzekeraars per 1 juni 2007 over het aantal wanbetalers in 2006.
 
@@ -1172,11 +1194,11 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 Goedgekeurd door de Minister van Volksgezondheid, Welzijn en Sport bij brief van 13 september 2005, onder nummer Z/F-2617684.
 
-#### Artikel 20a. Algemene bepaling
+##### Artikel 20a. Algemene bepaling
 
 Het college herberekent het normatieve bedrag voor de tweede maal op basis van correcties die de Nederlandse Zorgautoriteit heeft toegepast op de dbc-declaraties 2006, de HKC opgave 2006, de opgave no-claim teruggave 2006 in de jaarstaat 2007 en de te verrekenen opbrengstresultaten 2006, zoals vastgesteld door de NZa overeenkomstig de [artikelen 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.8) en [3.9 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.9).
 
-#### Artikel 20b. Bepaling van de verzekerdenaantallen 2006 voor de zorgverzekeraars
+##### Artikel 20b. Bepaling van de verzekerdenaantallen 2006 voor de zorgverzekeraars
 
 1. Het persoonskenmerkenbestand 2006 bestaat uit de gepseudonimiseerde opgaven van de zorgverzekeraars van de verzekerdenaantallen op 1 juni 2006 naar geslacht, geboortedatum en viercijferige postcode.
 
@@ -1220,7 +1242,7 @@ Het college herberekent het normatieve bedrag voor de tweede maal op basis van c
 
 10. Het college bepaalt met behulp van het Referentiebestand verzekerden [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) van SA-Zorg en de opgave van de zorgverzekeraars over de verzekerden naar viercijferige postcode van het adres waar de verzekerde woonachtig is, de aantallen verzekerden naar regioklasse 2006.
 
-#### Artikel 20c. De tweede voorlopige herberekening van het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2006
+##### Artikel 20c. De tweede voorlopige herberekening van het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2006
 
 1. Het college hanteert bij de tweede voorlopige herberekening van het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2006 als uitgangspunten:
 
@@ -1353,11 +1375,11 @@ Het college herberekent het normatieve bedrag voor de tweede maal op basis van c
 
 14. Het resultaat van het dertiende lid wordt aangeduid als het tweede voorlopige herberekende deelbedrag variabele kosten van ziekenhuisverpleging en kosten specialistische hulp 2006.
 
-#### Artikel 20d. De tweede voorlopige herberekening van het deelbedrag vaste kosten van ziekenhuisverpleging 2006
+##### Artikel 20d. De tweede voorlopige herberekening van het deelbedrag vaste kosten van ziekenhuisverpleging 2006
 
 Het college herberekent op basis van de opgave herziene jaarstaat 2006 per 1 juli 2009 en het opbrengstresultaat 2006 zoals vastgesteld door de Nederlandse Zorgautoriteit, het deelbedrag vaste kosten van ziekenhuisverpleging 2006 overeenkomstig [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=III&artikel=17&z=2009-10-23&g=2009-10-23). Het resultaat wordt aangeduid als het tweede voorlopige herberekende deelbedrag vaste kosten van ziekenhuisverpleging 2006.
 
-#### Artikel 20e. De tweede voorlopige herberekening van het deelbedrag kosten van overige prestaties 2006
+##### Artikel 20e. De tweede voorlopige herberekening van het deelbedrag kosten van overige prestaties 2006
 
 1. Voor de tweede voorlopige herberekening van het deelbedrag kosten van overige prestaties hanteert het college als uitgangspunten:
 
@@ -1479,7 +1501,7 @@ Het college herberekent op basis van de opgave herziene jaarstaat 2006 per 1 jul
 
 12. Het resultaat van het elfde lid wordt aangeduid als het tweede voorlopige herberekende deelbedrag kosten van overige prestaties 2006.
 
-#### Artikel 20f. De tweede voorlopige herberekening van de normatieve no-claimteruggave 2006
+##### Artikel 20f. De tweede voorlopige herberekening van de normatieve no-claimteruggave 2006
 
 1. Het college herberekent de gewichten no-claimteruggave voor de tweede maal op basis van de verzekerden aantallen 2006 en de door de zorgverzekeraars uitgekeerde no-claimteruggave 2006 op 1 april 2007 inclusief de correctie op 1 april 2008, zoals verantwoord in de opgave jaarstaat 2007 per 1 juni 2008, op de volgende wijze:
 
@@ -1501,7 +1523,7 @@ Het college herberekent op basis van de opgave herziene jaarstaat 2006 per 1 jul
 
 - d. Het resultaat van onderdeel c wordt aangeduid als de tweede voorlopig herberekende normatieve no-claimteruggave 2006.
 
-#### Artikel 20g. De tweede voorlopige herberekening van het normatieve bedrag 2006 en de tweede voorlopige herberekening en tweede voorlopige vaststelling van de bijdrage 2006
+##### Artikel 20g. De tweede voorlopige herberekening van het normatieve bedrag 2006 en de tweede voorlopige herberekening en tweede voorlopige vaststelling van de bijdrage 2006
 
 1. Het college herberekent het normatieve bedrag 2006 voor de tweede maal voorlopig als de som van het tweede voorlopige herberekende deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2006, het tweede voorlopige herberekende deelbedrag vaste kosten van ziekenhuisverpleging 2006 en het tweede voorlopig herberekende deelbedrag kosten van overige prestaties 2006.
 
@@ -1519,7 +1541,7 @@ Het college herberekent op basis van de opgave herziene jaarstaat 2006 per 1 jul
 
 8. Het college stelt de bijdrage 2006 voor de tweede maal voorlopig vast ter hoogte van de in het vorige lid berekende bijdrage.
 
-#### Artikel 20h
+##### Artikel 20h
 
 1. Naast de bijdrage 2006 zoals vastgesteld op grond van [artikel 20g, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=IIIa&artikel=20g&z=2009-10-23&g=2009-10-23), keert het college de extra middelen, bedoeld in [artikel 3.1, eerste en tweede lid, van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.1) zoals van toepassing in 2006, uit.
 
@@ -1537,7 +1559,7 @@ Het college herberekent op basis van de opgave herziene jaarstaat 2006 per 1 jul
 
 4. Het college stelt per zorgverzekeraar de extra bijdrage, bedoeld in het eerste lid, vast als de som van het resultaat van het tweede lid onder b en het resultaat van het derde lid onder b.
 
-#### Artikel 26a
+##### Artikel 26a
 
 Naast de bijdrage zoals vastgesteld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=IV&artikel=26&z=2009-10-23&g=2009-10-23) keert het college de extra middelen uit overeenkomstig [artikel 20h](https://wetten.overheid.nl/jci1.3:c:BWBR0017869&hoofdstuk=IIIa&artikel=20h&z=2009-10-23&g=2009-10-23).
 

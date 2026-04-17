@@ -1,13 +1,39 @@
 ---
-title: "Besluit participatiebudget"
+title: "Besluit van 29 december 2008, houdende regels ter uitvoering van de Wet participatiebudget (Besluit participatiebudget)"
 identifier: "BWBR0025044"
-categorie: "Bestuursrecht"
-publicatiedatum: 2015-01-01
-laatste_update: 2015-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0025044"
+country: "nl"
+rank: "amvb"
+publication_date: "2015-01-01"
+last_updated: "2015-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0025044"
+soort: "AMvB"
+stam_id: "9852733"
+version_id: "16271802"
+internal_id: "C22302271"
+label_id: "9829494"
+dtd_version: "2.0"
+original_entry_into_force: "2009-03-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0025044/2015-01-01/0"
+intitule_bron: "Stb.2008-589"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-12-29"
+intitule_published: "2008-12-30"
+intitule_in_force: "2008-12-30"
+intitule_status: "goed"
+original_publication: "Stb.2009-159"
+original_signed_date: "2009-03-10"
+original_published_date: "2009-04-02"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2009-159"
+entry_into_force_date: "2009-03-10"
+jci_1_3: "jci1.3:c:BWBR0025044&z=2015-01-01&g=2015-01-01"
+jci_1_0: "1.0:c:BWBR0025044&g=2015-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit participatiebudget"
+signed_date: "2009-03-10"
+entry_into_force: "2009-03-10"
 ---
-
 # Besluit van 29 december 2008, houdende regels ter uitvoering van de Wet participatiebudget (Besluit participatiebudget)
 
 Op de voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 12 september 2008, nr. W&B/SFI/08/22818, gedaan mede namens Onze Minister voor Wonen, Wijken en Integratie en de Staatssecretaris van Onderwijs, Cultuur en Wetenschap;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -36,7 +62,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 1. Verdeelsleutel Minister van Sociale Zaken en Werkgelegenheid
 
-#### Artikel 2. Verdeelsleutel Minister van Sociale Zaken en Werkgelegenheid
+##### Artikel 2. Verdeelsleutel Minister van Sociale Zaken en Werkgelegenheid
 
 1. Het deel van het participatiebudget dat een college ontvangt uit het totale bedrag dat beschikbaar is gesteld door Onze Minister van Sociale Zaken en Werkgelegenheid voor een participatiebudget voor alle colleges wordt berekend op grond van de formule:
 
@@ -64,49 +90,49 @@ waarbij:
 
 #### Paragraaf 2. Verdeelsleutel Minister van Onderwijs, Cultuur en Wetenschap
 
-#### Artikel 3. Verdeelsleutel Minister van Onderwijs, Cultuur en Wetenschap 2009 tot en met 2012
+##### Artikel 3. Verdeelsleutel Minister van Onderwijs, Cultuur en Wetenschap 2009 tot en met 2012
 
 Vervallen
 
-#### Artikel 4. Verdeelsleutel Minister van Onderwijs, Cultuur en Wetenschap 2013 en 2014
+##### Artikel 4. Verdeelsleutel Minister van Onderwijs, Cultuur en Wetenschap 2013 en 2014
 
 Vervallen
 
-#### Artikel 5. Verdeelsleutel Minister van Onderwijs, Cultuur en Wetenschap 2015 en verder
+##### Artikel 5. Verdeelsleutel Minister van Onderwijs, Cultuur en Wetenschap 2015 en verder
 
 Vervallen
 
-#### Artikel 6. Op nihil stellen onderdelen verdeelsleutel Minister van Onderwijs, Cultuur en Wetenschap
+##### Artikel 6. Op nihil stellen onderdelen verdeelsleutel Minister van Onderwijs, Cultuur en Wetenschap
 
 Vervallen
 
 #### Paragraaf 3. Verdeelsleutel Minister voor Wonen, Wijken en Integratie
 
-#### Artikel 7. Verdeelsleutel Minister voor Wonen, Wijken en Integratie 2009
+##### Artikel 7. Verdeelsleutel Minister voor Wonen, Wijken en Integratie 2009
 
 Vervallen
 
-#### Artikel 8. Verdeelsleutel Minister voor Wonen, Wijken en Integratie 2010 en 2011
+##### Artikel 8. Verdeelsleutel Minister voor Wonen, Wijken en Integratie 2010 en 2011
 
 Vervallen
 
-#### Artikel 9. Verdeelsleutel Minister voor Wonen, Wijken en Integratie 2012 en verder
+##### Artikel 9. Verdeelsleutel Minister voor Wonen, Wijken en Integratie 2012 en verder
 
 Vervallen
 
-#### Artikel 10. Lager stellen onderdelen verdeelsleutel Minister voor Wonen, Wijken en Integratie
+##### Artikel 10. Lager stellen onderdelen verdeelsleutel Minister voor Wonen, Wijken en Integratie
 
 Vervallen
 
 #### Paragraaf 3a. Gemeenschappelijke regelingen
 
-#### Artikel 11. Aanpassing verdeelmaatstaven bij gemeentelijke herindeling
+##### Artikel 11. Aanpassing verdeelmaatstaven bij gemeentelijke herindeling
 
 Bij een wijziging van de gemeentelijke indeling of een grenscorrectie als bedoeld in de [Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718) worden de gegevens waarmee de berekeningen op grond van dit hoofdstuk worden uitgevoerd, vastgesteld op basis van een redelijke schatting van de toestand van die gegevens zoals die zou zijn geweest als de wijziging op de datum waarop die gegevens betrekking hebben reeds was ingegaan.
 
 ### Hoofdstuk 3. Overige bepalingen
 
-#### Artikel 12. Reserveringsregeling
+##### Artikel 12. Reserveringsregeling
 
 1. Indien in een kalenderjaar het participatiebudget niet volledig is besteed aan participatievoorzieningen, kan het college het niet bestede bedrag tot maximaal 25% van het voor dat jaar toegekende participatiebudget reserveren voor besteding aan participatievoorzieningen in het daaropvolgende kalenderjaar.
 
@@ -114,35 +140,35 @@ Bij een wijziging van de gemeentelijke indeling of een grenscorrectie als bedoel
 
 3. Voor het jaar 2009 bedragen de in het eerste en tweede lid genoemde percentages voor een college als bedoeld in [artikel 13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025039&artikel=13) 31,25.
 
-#### Artikel 13. Betaling
+##### Artikel 13. Betaling
 
 Iedere maand wordt op of omstreeks de vijftiende dag van die maand een twaalfde deel van het voor dat kalenderjaar vastgestelde participatiebudget betaald.
 
 ### Hoofdstuk 4. Wijziging van andere besluiten
 
-#### Artikel 14. Wijziging van het [Besluit WWB 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0020183)
+##### Artikel 14. Wijziging van het [Besluit WWB 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0020183)
 
 Wijzigt het Besluit WWB 2007.
 
-#### Artikel 15. Wijziging van het [Uitvoeringsbesluit WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0010646)
+##### Artikel 15. Wijziging van het [Uitvoeringsbesluit WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0010646)
 
 Wijzigt het Uitvoeringsbesluit WEB.
 
-#### Artikel 16. Wijziging van het [Besluit brede doeluitkering sociaal, integratie en veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0018238)
+##### Artikel 16. Wijziging van het [Besluit brede doeluitkering sociaal, integratie en veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0018238)
 
 Wijzigt het Besluit brede doeluitkering sociaal, integratie en veiligheid.
 
-#### Artikel 17. Wijziging van het [Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674)
+##### Artikel 17. Wijziging van het [Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674)
 
 Wijzigt het Besluit inburgering.
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 18. Inwerkingtreding
+##### Artikel 18. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 januari 2009.
 
-#### Artikel 19. Citeertitel
+##### Artikel 19. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit participatiebudget.
 
@@ -292,15 +318,15 @@ Zweden
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 11a. Participatie inactieven
+##### Artikel 11a. Participatie inactieven
 
 Vervallen
 
-#### Artikel 11b. Extra bestedingsruimte 2009
+##### Artikel 11b. Extra bestedingsruimte 2009
 
 Vervallen
 
-#### Artikel 11c. Vervaldatum
+##### Artikel 11c. Vervaldatum
 
 Vervallen
 
@@ -364,7 +390,7 @@ De volgende twee stappen worden onderscheiden in het bepalen van het gewicht Ow 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 10a. Aanpassing verdeelmaatstaven bij gemeenschappelijke regelingen
+##### Artikel 10a. Aanpassing verdeelmaatstaven bij gemeenschappelijke regelingen
 
 Vervallen
 

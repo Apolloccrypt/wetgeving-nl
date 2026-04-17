@@ -1,20 +1,45 @@
 ---
-title: "Duitse uitvoeringsvoorschriften belastingovereenkomst Nederland-Bondsrepubliek Duitsland"
+title: "Regeling inzake vermindering of vrijstelling van Duitse bronbelasting op dividenden, interest uit converteerbare obligaties en winstdelende obligaties, royalty's en soortgelijke vergoedingen, genoten door inwoners van Nederland"
 identifier: "BWBR0004831"
-categorie: "Belastingrecht"
-publicatiedatum: 1997-06-18
-laatste_update: 1997-06-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004831"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1997-06-18"
+last_updated: "1997-06-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004831"
+soort: "ministeriele-regeling"
+stam_id: "4306523"
+version_id: "6069162"
+internal_id: "C6272771"
+label_id: "4284994"
+dtd_version: "2.0"
+original_entry_into_force: "1991-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004831/1997-06-18/0"
+intitule_bron: "Stcrt.1990-146"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1990-07-31"
+intitule_published: "1990-07-31"
+intitule_in_force: "1990-07-31"
+intitule_status: "goed"
+original_publication: "Stcrt.1990-146"
+original_signed_date: "1990-07-31"
+original_published_date: "1990-07-31"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1991-01-01"
+jci_1_3: "jci1.3:c:BWBR0004831&z=1997-06-18&g=1997-06-18"
+jci_1_0: "1.0:c:BWBR0004831&g=1997-06-18"
+citeertitel_status: "officieel"
+short_title: "Duitse uitvoeringsvoorschriften belastingovereenkomst Nederland-Bondsrepubliek Duitsland"
+signed_date: "1990-07-31"
+entry_into_force: "1991-01-01"
 ---
-
 # Regeling inzake vermindering of vrijstelling van Duitse bronbelasting op dividenden, interest uit converteerbare obligaties en winstdelende obligaties, royalty's en soortgelijke vergoedingen, genoten door inwoners van Nederland
 
 Besluit:
 
 Door plaatsing in de Staatscourant het navolgende ter kennis van belanghebbende inwoners van Nederland te brengen:
 
-#### Artikel 1. Aanspraken van inwoners van Nederland
+##### Artikel 1. Aanspraken van inwoners van Nederland
 
 Aan de op 16 juni 1959 tussen Nederland en de Bondsrepubliek Duitsland gesloten Overeenkomst tot het vermijden van dubbele belasting op het gebied van belastingen van het inkomen en van het vermogen alsmede van verscheidene andere belastingen en tot het regelen van andere aangelegenheden op belastinggebied (Trb. 1959, 85), en het Slotprotocol bij die Overeenkomst, kunnen inwoners van Nederland onder meer de volgende aanspraken ontlenen, geregeld in de hieronder tussen haakjes vermelde artikelen van de Overeenkomst en het Slotprotocol:
 
@@ -24,7 +49,7 @@ Aan de op 16 juni 1959 tussen Nederland en de Bondsrepubliek Duitsland gesloten 
 
 - c. Algehele vrijstelling van de Duitse bronbelasting op royalty's of andere vergoedingen voor het gebruik maken van of voor het recht tot het gebruik maken van uitvindersrechten, octrooien, modellen, procédes, handelsmerken of soortgelijke rechten (behalve rechten met betrekking tot de exploitatie van natuurlijke hulpbronnen), verkregen uit de Bondsrepubliek Duitsland (artikel 15, eerste lid). Als royalty's worden ook beschouwd huren en soortgelijke vergoedingen voor het ter beschikking stellen van films (daaronder begrepen films bestemd voor televisie-uitzendingen), voor het gebruik van nijverheids-, handels- of wetenschappelijke uitrustingen of voor het ter beschikking stellen van bedrijfservaring (artikel 15, derde lid). De onder a tot en met c bedoelde vermindering en vrijstellingen zijn niet van toepassing indien de genieter van de dividenden, de interest of de royalty's in de Bondsrepubliek een vaste inrichting heeft en de dividenden, de interest of de royalty's door middel van deze vaste inrichting verkrijgt (artikel 13, vijfde lid, resp. artikel 14, tweede lid en artikel 15, vierde lid).
 
-#### Artikel 2. Duitse regeling
+##### Artikel 2. Duitse regeling
 
 Ter uitvoering van artikel 1 is van Duitse zijde de volgende regeling getroffen:
 
@@ -40,11 +65,11 @@ Ter uitvoering van artikel 1 is van Duitse zijde de volgende regeling getroffen:
 
 - f. **Inlichtingen** Voor nadere inlichtingen over de Duitse bronheffingen op dividenden, interest uit converteerbare obligaties en winstdelende obligaties en royalty's kan men zich wenden tot het Bundesamt für Finanzen’, D-53221 Bonn.
 
-#### Artikel 3. Intrekking
+##### Artikel 3. Intrekking
 
 De beschikking van de staatssecretaris van Financiën van 3 mei 1989, nr. IFZ89/533 (Stcrt. van 3 mei 1989, nr. 86), wordt ingetrokken.
 
-#### Artikel 4. Inwerkingtreding
+##### Artikel 4. Inwerkingtreding
 
 1. Deze regeling kan worden aangehaald als: Duitse uitvoeringsvoorschriften belastingovereenkomst Nederland-Bondsrepubliek Duitsland.
 

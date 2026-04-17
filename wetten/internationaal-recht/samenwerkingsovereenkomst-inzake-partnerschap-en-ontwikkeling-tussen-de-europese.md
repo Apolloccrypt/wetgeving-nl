@@ -1,13 +1,32 @@
 ---
 title: "Samenwerkingsovereenkomst inzake partnerschap en ontwikkeling tussen de Europese Unie en haar lidstaten, enerzijds, en de Islamitische Republiek Afghanistan, anderzijds"
 identifier: "BWBV0006667"
-categorie: "Internationaal recht"
-publicatiedatum: 2017-02-18
-laatste_update: 2017-02-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006667"
+country: "nl"
+rank: "verdrag"
+publication_date: "2017-02-18"
+last_updated: "2017-02-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006667"
+soort: "verdrag"
+stam_id: "10005401693"
+version_id: "10005837232"
+internal_id: "C10009224871"
+label_id: "10005384934"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006667/2017-02-18/0"
+intitule_bron: "Trb.2017-45"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2017-03-21"
+intitule_status: "nogniet"
+original_publication: "Trb.2017-45"
+original_published_date: "2017-03-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2017-45"
+jci_1_3: "jci1.3:c:BWBV0006667&z=2017-02-18&g=2017-02-18"
+jci_1_0: "1.0:c:BWBV0006667&g=2017-02-18"
+citeertitel_status: "redactioneel"
+entry_into_force: "2017-03-21"
 ---
-
 # Samenwerkingsovereenkomst inzake partnerschap en ontwikkeling tussen de Europese Unie en haar lidstaten, enerzijds, en de Islamitische Republiek Afghanistan, anderzijds
 
 het Koninkrijk België,
@@ -136,7 +155,7 @@ Zijn het volgende overeengekomen:
 
 ## TITEL I. AARD EN TOEPASSINGSGEBIED
 
-#### Artikel 1. Toepassingsgebied en doelstellingen
+##### Artikel 1. Toepassingsgebied en doelstellingen
 
 1. Er wordt tussen de partijen een partnerschap ingesteld, binnen de grenzen van hun respectieve bevoegdheden, overeenkomstig hun respectieve regelgeving, procedures en middelen, en met volledige eerbiediging van de internationale regels en normen.
 
@@ -162,7 +181,7 @@ Zijn het volgende overeengekomen:
 
 5. De partijen streven naar beter wederzijds begrip, onder meer door middel van samenwerking tussen entiteiten, zoals denktanks, de academische wereld, bedrijven en de media, in de vorm van seminars, conferenties, contacten tussen jongeren en andere activiteiten.
 
-#### Artikel 2. Algemene beginselen
+##### Artikel 2. Algemene beginselen
 
 1. De partijen bevestigen dat zij de waarden delen die zijn vastgelegd in het [Handvest van de Verenigde Naties](onbekend).
 
@@ -178,13 +197,13 @@ Zijn het volgende overeengekomen:
 
 ## TITEL II. POLITIEKE SAMENWERKING
 
-#### Artikel 3. Politieke dialoog
+##### Artikel 3. Politieke dialoog
 
 Er wordt tussen de partijen een regelmatige politieke dialoog ingesteld die indien passend op ministerieel niveau kan plaatsvinden. Deze dialoog versterkt de betrekkingen tussen de partijen, vormt een bijdrage tot de ontwikkeling van een partnerschap en versterkt het wederzijdse begrip en de solidariteit. De partijen versterken hun politieke dialoog ter ondersteuning van hun gezamenlijke belangen, met inbegrip van hun respectieve standpunten binnen regionale en internationale fora.
 
 ### A. SAMENWERKING TEN BEHOEVE VAN DE MENSENRECHTEN, GELIJKHEID TUSSEN MANNEN EN VROUWEN EN MAATSCHAPPELIJKE ORGANISATIES
 
-#### Artikel 4. Mensenrechten
+##### Artikel 4. Mensenrechten
 
 1. Overeenkomstig [artikel 1, lid 2, onder c)](https://wetten.overheid.nl/jci1.3:c:BWBV0006667&titeldeel=I&artikel=1&z=2017-02-18&g=2017-02-18), en [artikel 2, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006667&titeldeel=I&artikel=2&z=2017-02-18&g=2017-02-18), komen de partijen overeen samen te werken aan de bevordering en effectieve bescherming van de mensenrechten, ook, waar passend, met betrekking tot de ratificering en tenuitvoerlegging van internationale mensenrechteninstrumenten. In de loop van hun politieke dialoog evalueren de partijen de uitvoering van dit artikel.
 
@@ -200,7 +219,7 @@ Er wordt tussen de partijen een regelmatige politieke dialoog ingesteld die indi
 
 - e. versterkte samenwerking met de mensenrechteninstellingen van de Verenigde Naties.
 
-#### Artikel 5. Gelijkheid van mannen en vrouwen
+##### Artikel 5. Gelijkheid van mannen en vrouwen
 
 1. De partijen werken samen aan versterking van beleidsmaatregelen en programma's inzake gelijkheid van mannen en vrouwen, alsook aan institutionele en bestuurlijke capaciteitsopbouw en steun voor de uitvoering van strategieën inzake de gelijkheid van mannen en vrouwen, met inbegrip van de rechten en de emancipatie van vrouwen, met het oog op een evenwaardige deelname van mannen en vrouwen in alle sectoren van het economische, culturele, politieke en sociale leven. Meer bepaald richt zich de samenwerking op een betere toegang voor vrouwen tot de middelen die nodig zijn om hun grondrechten ten volle uit te oefenen, meer bepaald onderwijs.
 
@@ -210,7 +229,7 @@ Er wordt tussen de partijen een regelmatige politieke dialoog ingesteld die indi
 
 - b. ervaringen en optimale werkwijzen voor de bevordering van gelijkheid tussen mannen en vrouwen uit te wisselen en positieve maatregelen voor vrouwen te bevorderen.
 
-#### Artikel 6. Maatschappelijk middenveld
+##### Artikel 6. Maatschappelijk middenveld
 
 1. De partijen erkennen de rol en mogelijke bijdrage van organisaties uit het maatschappelijk middenveld, met name academici, aan de dialoog en het samenwerkingsproces uit hoofde van deze overeenkomst en komen overeen een effectieve dialoog met maatschappelijke organisaties en hun actieve deelname te stimuleren.
 
@@ -226,7 +245,7 @@ Er wordt tussen de partijen een regelmatige politieke dialoog ingesteld die indi
 
 ### B. VREDESOPBOUW
 
-#### Artikel 7. Vredesopbouw, conflictpreventie en conflictoplossing
+##### Artikel 7. Vredesopbouw, conflictpreventie en conflictoplossing
 
 1. De partijen onderstrepen hun engagement om te streven naar vrede en verzoening, onder de leiding van Afghanistan. Zij wijzen op het belang van een inclusief vredesproces op basis van een consensus van alle Afghanen, zoals uitgedrukt op de Jirga voor de vrede van juli 2010 en de traditionele Loya Jirga van november 2011. Zij zijn het erover eens dat de eigen betrokkenheid van het Afghaanse volk en de Afghaanse instellingen bij het vredesproces een voorwaarde voor het succes ervan is, met sterke ondersteuning van de internationale gemeenschap.
 
@@ -238,7 +257,7 @@ Er wordt tussen de partijen een regelmatige politieke dialoog ingesteld die indi
 
 ### C. STEUN VOOR INTERNATIONALE VEILIGHEID
 
-#### Artikel 8. Samenwerking met betrekking tot het Statuut van Rome
+##### Artikel 8. Samenwerking met betrekking tot het Statuut van Rome
 
 De partijen zijn van oordeel dat de doeltreffende werking van het Internationaal Strafhof een belangrijke ontwikkeling is voor de internationale vrede en gerechtigheid. Zij bevestigen opnieuw dat de ernstigste misdrijven waarmee de gehele internationale gemeenschap wordt geconfronteerd in de eerste plaats door nationale maatregelen moeten worden aangepakt in samenwerking met het Internationaal Strafhof. De partijen komen overeen samen te werken aan de bevordering van de universele onderschrijving van het [Statuut van Rome](onbekend) door:
 
@@ -248,7 +267,7 @@ De partijen zijn van oordeel dat de doeltreffende werking van het Internationaal
 
 - c. maatregelen te treffen om de integriteit van het [Statuut van Rome](onbekend) te waarborgen.
 
-#### Artikel 9. Bestrijding van de verspreiding van massavernietigingswapens en van chemische, biologische, radiologische en nucleaire risico's
+##### Artikel 9. Bestrijding van de verspreiding van massavernietigingswapens en van chemische, biologische, radiologische en nucleaire risico's
 
 1. De partijen zijn van oordeel dat de verspreiding van massavernietigingswapens en overbrengingsmiddelen daarvoor, onder zowel overheids- als niet-overheidsactoren, een van de ernstigste bedreigingen voor de internationale stabiliteit en veiligheid vormt.
 
@@ -264,7 +283,7 @@ De partijen zijn van oordeel dat de doeltreffende werking van het Internationaal
 
 7. De Unie steunt waar passend deze inspanningen, met bijzondere aandacht voor capaciteitsopbouw en technische bijstand.
 
-#### Artikel 10. Handvuurwapens en lichte wapens en andere conventionele wapens
+##### Artikel 10. Handvuurwapens en lichte wapens en andere conventionele wapens
 
 1. De partijen erkennen dat de illegale productie en overdracht van en de illegale handel in handvuurwapens en lichte wapens en munitie daarvoor, alsmede de buitensporige accumulatie, het slechte beheer, inadequaat beveiligde voorraden en de ongecontroleerde verspreiding ervan een ernstige bedreiging voor de vrede en de internationale veiligheid blijven vormen.
 
@@ -274,7 +293,7 @@ De partijen zijn van oordeel dat de doeltreffende werking van het Internationaal
 
 4. De partijen verplichten zich er daarom toe met elkaar samen te werken en te zorgen voor coördinatie, complementariteit en synergie bij het opstellen of verbeteren van de regelgeving voor de internationale handel in conventionele wapens, en bij het voorkomen, bestrijden en uitroeien van de illegale wapenhandel. Zij komen overeen een reguliere politieke dialoog in te stellen om deze verbintenis te begeleiden en te consolideren.
 
-#### Artikel 11. Terrorismebestrijding
+##### Artikel 11. Terrorismebestrijding
 
 1. De partijen zijn vastbesloten terrorisme in al zijn vormen te bestrijden, ook in regionale context, met volledige eerbiediging van de rechtsstaat en het internationaal recht, en samen te werken om de verspreiding van extreme ideologieën, en meer bepaald de radicalisering van jongeren, tegen te gaan. De partijen verbinden zich ertoe samen te werken met hun internationale partners voor de omvattende uitvoering van de mondiale strategie voor terrorismebestrijding van de VN.
 
@@ -282,7 +301,7 @@ De partijen zijn van oordeel dat de doeltreffende werking van het Internationaal
 
 ## TITEL III. ONTWIKKELINGSSAMENWERKING
 
-#### Artikel 12. Ontwikkelingssamenwerking
+##### Artikel 12. Ontwikkelingssamenwerking
 
 1. De centrale doelstellingen van de ontwikkelingssamenwerking zijn de verwezenlijking van de millenniumdoelstellingen voor ontwikkeling, en eventuele daarop volgende ontwikkelingsijkpunten, de uitbanning van de armoede, duurzame ontwikkeling en de integratie in de wereldeconomie, met bijzondere aandacht voor de meest kwetsbare elementen in de samenleving. De partijen erkennen dat hun samenwerking van essentieel belang is om de ontwikkelingsproblemen van Afghanistan aan te pakken en dat de institutionele opbouw daarvan een fundamenteel onderdeel moet zijn.
 
@@ -314,7 +333,7 @@ De partijen zijn van oordeel dat de doeltreffende werking van het Internationaal
 
 ## TITEL IV. SAMENWERKING INZAKE HANDEL EN INVESTERINGEN
 
-#### Artikel 13. Commerciële samenwerking
+##### Artikel 13. Commerciële samenwerking
 
 1. De partijen voeren een dialoog over bilaterale en multilaterale handel en handelsgerelateerde kwesties met het oog op de versterking van de bilaterale handelsbetrekkingen en de bevordering van het multilaterale handelssysteem, met inbegrip van steun voor het lidmaatschap van Afghanistan van de WTO.
 
@@ -330,13 +349,13 @@ De partijen zijn van oordeel dat de doeltreffende werking van het Internationaal
 
 7. De partijen plegen onverwijld overleg overeenkomstig [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBV0006667&titeldeel=IX&artikel=54&z=2017-02-18&g=2017-02-18) over mogelijke meningsverschillen inzake de toepassing van deze titel.
 
-#### Artikel 14. Meestbegunstigingsbehandeling
+##### Artikel 14. Meestbegunstigingsbehandeling
 
 1. De partijen behandelen elkaar in hun handelsbetrekkingen als meestbegunstigde natie overeenkomstig de bepalingen van de [Algemene Overeenkomst inzake Tarieven en Handel](onbekend) (GATT) van 1994.
 
 2. De in lid 1 bedoelde behandeling als meestbegunstigde natie heeft geen betrekking op preferenties die door een van beide partijen zijn toegekend krachtens een regeling uit hoofde van overeenkomsten tot oprichting van een douane-unie, en vrijhandelsgebied of een equivalent gebied met voorkeursbehandeling.
 
-#### Artikel 15. Sanitaire en fytosanitaire vraagstukken
+##### Artikel 15. Sanitaire en fytosanitaire vraagstukken
 
 1. De partijen werken samen op het gebied van voedselveiligheid en sanitaire en fytosanitaire vraagstukken, ter bescherming van het leven en de gezondheid van mensen, dieren en planten op hun respectieve grondgebied.
 
@@ -348,11 +367,11 @@ De partijen zijn van oordeel dat de doeltreffende werking van het Internationaal
 
 5. De partijen wijzen contactpunten aan voor communicatie over vraagstukken in verband met dit artikel.
 
-#### Artikel 16. Technische handelsbelemmeringen
+##### Artikel 16. Technische handelsbelemmeringen
 
 De partijen bevorderen het gebruik door Afghanistan van internationale en Europese normen als basis voor technische regelingen en conformiteitsbeoordelingsprocedures. De partijen werken samen en wisselen informatie uit inzake normen, technische regelingen en conformiteitsbeoordelingsprocedures, om aldus te verzekeren dat deze op een transparante en doeltreffende manier worden voorbereid, aangenomen en toegepast en geen onnodige belemmeringen opleveren voor de bilaterale handel.
 
-#### Artikel 17. Douane
+##### Artikel 17. Douane
 
 1. De partijen streven naar meer samenwerking tussen de douane-autoriteiten met het oog op een transparante handelsomgeving en om bij te dragen tot meer handel, meer continuïteit van de toeleveringsketen, betere consumentenveiligheid, de afremming van de instroom van goederen die een inbreuk vormen op de intellectuele-eigendomsrechten en de bestrijding van smokkel en fraude.
 
@@ -362,13 +381,13 @@ De partijen bevorderen het gebruik door Afghanistan van internationale en Europe
 
 4. De partijen werken samen om de douane-administratie van Afghanistan te moderniseren overeenkomstig de relevante internationale verdragen, met het oog op grotere organisatorische efficiëntie en doeltreffendheid voor de verlening van diensten, en onder garandering van het transparante beheer van overheidsmiddelen en van de verantwoordingsplicht. Capaciteitsopbouw maakt een belangrijk onderdeel uit van deze samenwerking.
 
-#### Artikel 18. Investeringen
+##### Artikel 18. Investeringen
 
 1. De partijen moedigen directe buitenlandse investeringen aan door een aantrekkelijk en stabiel investeringsklimaat te creëren. Tot dit doel kunnen zij, indien nodig, een consistente dialoog opzetten om het begrip en de samenwerking over investeringskwesties te vergroten, bestuurlijke mechanismen te onderzoeken om investeringsstromen te vergemakkelijken en stabiele, transparante en stimulerende regels voor investeerders te bevorderen.
 
 2. Om directe buitenlandse investeringen in Afghanistan uit de Unie te bevorderen wijzen de partijen met klem op de rol van de particuliere sector en erkennen zij in dit verband de noodzaak aan maatregelen en stimulansen van de overheid, zoals toegang tot krediet en investeringsgaranties.
 
-#### Artikel 19. Diensten
+##### Artikel 19. Diensten
 
 De partijen stellen een constructieve dialoog in die onder meer is gericht op:
 
@@ -380,19 +399,19 @@ De partijen stellen een constructieve dialoog in die onder meer is gericht op:
 
 - d. de bevordering van de handel in diensten tussen de partijen en op markten in derde landen.
 
-#### Artikel 20. Kapitaalverkeer
+##### Artikel 20. Kapitaalverkeer
 
 De partijen streven naar een versoepeling van het kapitaalverkeer om de doelstellingen van deze overeenkomst te bevorderen.
 
-#### Artikel 21. Overheidsopdrachten
+##### Artikel 21. Overheidsopdrachten
 
 De partijen werken samen om een doeltreffend en modern systeem voor overheidsopdrachten in Afghanistan in te stellen, overeenkomstig internationaal overeengekomen beginselen met betrekking tot transparantie en aanbestedingsprocedures en met betrekking tot de bevordering van een eerlijke en optimale kostenefficiëntie bij overheidsaankopen.
 
-#### Artikel 22. Transparantie
+##### Artikel 22. Transparantie
 
 De partijen erkennen het belang van transparantie en van een behoorlijke rechtsgang in het beheer van hun handelsgerelateerde wet- en regelgeving. Tot dit doel passen zij [artikel X van de Algemene Overeenkomst inzake Tarieven en Handel](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=X) (GATT) van 1994 en [artikel III van de Algemene Overeenkomst inzake de handel in diensten](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=III) toe.
 
-#### Artikel 23. Intellectuele-eigendomsrechten
+##### Artikel 23. Intellectuele-eigendomsrechten
 
 1. De partijen komen overeen intellectuele-eigendomsrechten te beschermen en te handhaven, inclusief geografische aanduidingen, overeenkomstig de bepalingen van de internationale overeenkomsten waarbij zij partij zijn.
 
@@ -400,7 +419,7 @@ De partijen erkennen het belang van transparantie en van een behoorlijke rechtsg
 
 ## TITEL V. SAMENWERKING OP HET GEBIED VAN JUSTITIE EN BINNENLANDSE ZAKEN
 
-#### Artikel 24. Rechtsstaat, juridische samenwerking en politie
+##### Artikel 24. Rechtsstaat, juridische samenwerking en politie
 
 1. Bij de samenwerking op het gebied van justitie en binnenlandse zaken schenken de partijen bijzondere aandacht aan de consolidering van de rechtsstaat en versterking van de instellingen op alle niveaus op het vlak van de rechtshandhaving en rechtsbedeling, met inbegrip van het gevangeniswezen.
 
@@ -418,11 +437,11 @@ De partijen erkennen het belang van transparantie en van een behoorlijke rechtsg
 
 - d. capaciteitsopbouw voor beleidsvorming en beleidsuitvoering in de sector justitie en veiligheid in Afghanistan.
 
-#### Artikel 25. Samenwerking bij de bestrijding van georganiseerde misdaad en corruptie
+##### Artikel 25. Samenwerking bij de bestrijding van georganiseerde misdaad en corruptie
 
 De partijen komen overeen samen te werken bij de bestrijding van georganiseerde, economische en financiële misdaad, met inbegrip van corruptie. Die samenwerking is meer in het bijzonder gericht op de toepassing en bevordering van de desbetreffende internationale normen en instrumenten, zoals het [VN-Verdrag ter bestrijding van grensoverschrijdende georganiseerde misdaad](onbekend) en de aanvullende protocollen en het [VN-Verdrag inzake bestrijding van corruptie](onbekend). De partijen hebben bijzondere aandacht voor het verband tussen de georganiseerde misdaad en de handel in drugs, precursoren, gevaarlijke materialen en wapens, mensenhandel en migrantensmokkel. Zij wisselen informatie uit over alle aspecten die relevant zijn voor de bestrijding van criminele activiteiten.
 
-#### Artikel 26. Drugsbestrijding
+##### Artikel 26. Drugsbestrijding
 
 1. De partijen werken samen met het oog op een evenwichtige, omvattende en geïntegreerde aanpak van drugsvraagstukken.
 
@@ -452,13 +471,13 @@ De partijen kunnen overeenkomen de samenwerking tot andere terreinen uit te brei
 
 7. De partijen bereiken overeenstemming over de wijze van samenwerking om deze doelstellingen te verwezenlijken. De actie wordt gebaseerd op gezamenlijk overeengekomen beginselen overeenkomstig de relevante internationale verdragen, de politieke verklaring en de verklaring inzake richtsnoeren om de vraag naar drugs te verminderen, zoals aangenomen tijdens de twintigste speciale zitting inzake drugs van de Algemene Vergadering van de VN van juni 1998, de politieke verklaring en het actieplan over internationale samenwerking met het oog op een geïntegreerde en evenwichtige strategie om het drugsprobleem in de wereld aan te pakken, zoals aangenomen op de bijeenkomst op hoog niveau van de 52e zitting van de VN-Commissie voor verdovende middelen van maart 2009, en de verklaring van de derde ministeriële conferentie van de partners van het pact van Parijs over het bestrijden van de illegale handel in opiaten uit Afghanistan.
 
-#### Artikel 27. Bestrijding van witwaspraktijken en de financiering van terrorisme
+##### Artikel 27. Bestrijding van witwaspraktijken en de financiering van terrorisme
 
 1. De partijen komen overeen samen te werken om te voorkomen dat hun financiële systemen en aangewezen niet-financiële ondernemingen en beroepen worden gebruikt voor het witwassen van de inkomsten van criminele activiteiten en voor het financieren van terrorisme.
 
 2. De partijen komen overeen technische en administratieve bijstand te bevorderen voor de ontwikkeling en uitvoering van voorschriften en de efficiënte werking van mechanismen ter bestrijding van het witwassen van geld en de financiering van terrorisme. Door de samenwerking moet het met name mogelijk worden relevante informatie uit te wisselen in het kader van de respectieve wetgeving en passende en internationaal aanvaarde normen vast te stellen voor de bestrijding van het witwassen van geld en de financiering van terrorisme, die vergelijkbaar zijn met die van de Unie en de internationale instanties op dit gebied, zoals de Financial Action Task Force (FATF).
 
-#### Artikel 28. Samenwerking inzake migratie
+##### Artikel 28. Samenwerking inzake migratie
 
 1. De partijen komen overeen samen te werken om irreguliere migratiestromen uit hun grondgebied naar het grondgebied van de andere partij te voorkomen.
 
@@ -468,11 +487,11 @@ De partijen kunnen overeenkomen de samenwerking tot andere terreinen uit te brei
 
 4. De partijen komen overeen om op verzoek van de andere partij een overeenkomst te sluiten met specifieke verplichtingen voor overname, met inbegrip van voorzieningen in verband met onderdanen van andere landen en van staatlozen.
 
-#### Artikel 29. Consulaire bescherming
+##### Artikel 29. Consulaire bescherming
 
 Afghanistan stemt ermee in dat de consulaire en diplomatieke autoriteiten van alle vertegenwoordigde lidstaten van de Europese Unie bescherming bieden aan alle onderdanen van een lidstaat van de Europese Unie die niet over een permanente vertegenwoordiging in Afghanistan beschikt die effectief in staat is in een concreet geval consulaire bescherming te bieden, op dezelfde voorwaarden als aan de onderdanen van de betrokken lidstaat van de Europese Unie.
 
-#### Artikel 30. Bescherming van persoonsgegevens
+##### Artikel 30. Bescherming van persoonsgegevens
 
 1. De partijen komen overeen samen te werken om het niveau van bescherming van persoonsgegevens te verbeteren overeenkomstig de strengste internationale normen, zoals onder andere vervat in de „Guidelines for the Regulation of Computerised Personal Data Files” van de Verenigde Naties, aangenomen bij Resolutie 45/95 van de Algemene Vergadering van de VN van 14 december 1990.
 
@@ -480,7 +499,7 @@ Afghanistan stemt ermee in dat de consulaire en diplomatieke autoriteiten van al
 
 ## TITEL VI. SECTORALE SAMENWERKING
 
-#### Artikel 31. Modernisering van de overheidsdiensten
+##### Artikel 31. Modernisering van de overheidsdiensten
 
 De partijen komen overeen samen te werken met het oog op het opzetten van een professionele, onafhankelijke en doeltreffende overheidsdienst in Afghanistan op nationaal en subnationaal niveau. De samenwerking op dit gebied richt zich op opleiding en capaciteitsopbouw, met als doel:
 
@@ -494,7 +513,7 @@ De partijen komen overeen samen te werken met het oog op het opzetten van een pr
 
 - e. de verbetering van de opzet en uitvoering van het beleid.
 
-#### Artikel 32. Beheer van de overheidsfinanciën
+##### Artikel 32. Beheer van de overheidsfinanciën
 
 Zoals bepaald in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBV0006667&titeldeel=VI&artikel=31&z=2017-02-18&g=2017-02-18) voeren de partijen hun samenwerking op inzake kwesties die verband houden met het beheer van de overheidsfinanciën in Afghanistan. De samenwerking is vooral gericht op:
 
@@ -508,23 +527,23 @@ Zoals bepaald in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBV0006667&ti
 
 De Unie verstrekt op die terreinen naar behoefte steun, met bijzondere aandacht voor capaciteitsontwikkeling en technische bijstand.
 
-#### Artikel 33. Goed bestuur op belastinggebied
+##### Artikel 33. Goed bestuur op belastinggebied
 
 Om de economische activiteit te versterken en te ontwikkelen, met inachtneming van de noodzaak een passend regelgevingskader te ontwikkelen, erkennen de partijen de beginselen van goed bestuur op belastinggebied en verbinden zich ertoe deze toe te passen. De partijen streven naar samenwerking tot dit doel, meer bepaald om de inning van belastinggelden in Afghanistan te faciliteren en Afghanistan bij te staan om maatregelen te treffen voor de doeltreffende toepassing van deze beginselen.
 
-#### Artikel 34. Financiële diensten
+##### Artikel 34. Financiële diensten
 
 1. De partijen komen overeen nauwer samen te werken ter verbetering van de systemen op het vlak van boekhouding, toezicht en regelgeving voor het bank- en verzekeringswezen en andere onderdelen van de financiële sector.
 
 2. De partijen werken samen om het juridische en regelgevingskader, de infrastructuur en de menselijke hulpbronnen in Afghanistan te ontwikkelen, en op de kapitaalmarkt in Afghanistan goed ondernemingsbestuur en internationale boekhoudnormen in te voeren.
 
-#### Artikel 35. Statistieken
+##### Artikel 35. Statistieken
 
 1. De partijen komen overeen de statistische capaciteit verder op te bouwen en te ontwikkelen door de harmonisering van de statistische methoden en het gebruik van optimale werkwijzen volgens de ervaringen in de Unie te bevorderen, met inbegrip van het vergaren en verspreiden van statistische informatie. Op die manier kunnen statistieken, op wederzijds overeengekomen wijze, door de partijen worden gebruikt op enigerlei gebied dat door deze overeenkomst wordt bestreken en dat zich leent tot het verzamelen, verwerken, analyseren en verspreiden van statistische gegevens.
 
 2. De samenwerking op het gebied van statistiek richt zich met name op de uitwisseling van kennis, de bevordering van optimale werkwijzen, en de eerbiediging van de grondbeginselen van de officiële statistiek van de Verenigde Naties en van de Europese praktijkcode voor statistieken, met het oog op een betere kwaliteit van de statistieken.
 
-#### Artikel 36. Risicobeheersing in verband met rampen
+##### Artikel 36. Risicobeheersing in verband met rampen
 
 1. De partijen komen overeen hun samenwerking op te voeren inzake risicobeheersing bij rampen. De nadruk wordt gelegd op preventiemaatregelen en een proactieve aanpak van de gevaren en risico's om deze risico's en de kwetsbaarheid voor natuurrampen te verminderen.
 
@@ -538,7 +557,7 @@ Om de economische activiteit te versterken en te ontwikkelen, met inachtneming v
 
 - d. steun voor de ontwikkeling van risicobeheersing in verband met rampen.
 
-#### Artikel 37. Natuurlijke hulpbronnen
+##### Artikel 37. Natuurlijke hulpbronnen
 
 1. De partijen komen overeen hun samenwerking en capaciteitsopbouw te verbeteren in verband met de winning, ontwikkeling, verwerking en het op de markt brengen van natuurlijke hulpbronnen.
 
@@ -550,7 +569,7 @@ Om de economische activiteit te versterken en te ontwikkelen, met inachtneming v
 
 5. Op verzoek van een van beide partijen kan elke kwestie in verband met de handel in grondstoffen worden besproken en behandeld in de vergaderingen van het Gemengd Comité, als bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBV0006667&titeldeel=VIII&artikel=49&z=2017-02-18&g=2017-02-18).
 
-#### Artikel 38. Onderwijs, onderzoek, jeugd en beroepsonderwijs
+##### Artikel 38. Onderwijs, onderzoek, jeugd en beroepsonderwijs
 
 1. De partijen komen overeen de samenwerking te bevorderen inzake onderwijs, onderzoek, jeugd en beroepsonderwijs. Zij komen overeen de kennis over opleidingsmogelijkheden in de Unie en Afghanistan te stimuleren.
 
@@ -566,7 +585,7 @@ Om de economische activiteit te versterken en te ontwikkelen, met inachtneming v
 
 4. Onderzoekssamenwerking wordt bevorderd, onder meer door Horizon 2020 – Het kaderprogramma van de Unie voor onderzoek en innovatie (2014–2020).
 
-#### Artikel 39. Energie
+##### Artikel 39. Energie
 
 1. De partijen streven naar meer samenwerking in de energiesector met het oog op een verbetering van energieproductie, -voorziening en -gebruik in Afghanistan, onder meer door:
 
@@ -578,7 +597,7 @@ Om de economische activiteit te versterken en te ontwikkelen, met inachtneming v
 
 2. De partijen erkennen dat een transparant, niet-discriminatoir, niet-verstorend, op regels gebaseerd kader de beste manier is om een klimaat te creëren dat gunstig is voor buitenlandse directe investeringen in de energiesector.
 
-#### Artikel 40. Vervoer
+##### Artikel 40. Vervoer
 
 De partijen komen overeen actief samen te werken op gebieden van wederzijds belang met betrekking tot alle vervoersmiddelen, meer bepaald de luchtvaart en intermodale verbindingen, met het oog op onder meer:
 
@@ -590,13 +609,13 @@ De partijen komen overeen actief samen te werken op gebieden van wederzijds bela
 
 - d. meer investeringsmogelijkheden, ter bevordering van de economische ontwikkeling door betere transportverbindingen in de regio.
 
-#### Artikel 41. Werkgelegenheid en sociale ontwikkeling
+##### Artikel 41. Werkgelegenheid en sociale ontwikkeling
 
 1. In de context van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0006667&titeldeel=III&artikel=12&z=2017-02-18&g=2017-02-18) komen de partijen overeen samen te werken op het gebied van de werkgelegenheid en sociale ontwikkeling, zoals de arbeidsmarktontwikkeling en de werkgelegenheid voor de jeugd, veiligheid en gezondheid op het werk, gelijkheid van mannen en vrouwen en fatsoenlijk werk.
 
 2. De samenwerking kan onder meer de vorm aannemen van gezamenlijk overeen te komen specifieke programma's en projecten, alsmede dialoog, samenwerking en initiatieven op gebieden van wederzijds belang op bilateraal of multilateraal niveau, zoals de IAO.
 
-#### Artikel 42. Landbouw, plattelandsontwikkeling, veehouderij en irrigatie
+##### Artikel 42. Landbouw, plattelandsontwikkeling, veehouderij en irrigatie
 
 De partijen komen overeen samen te werken aan de ontwikkeling van de capaciteit van Afghanistan op het gebied van de landbouw, veehouderij en rurale middelen van bestaan. Deze samenwerking omvat onder andere:
 
@@ -622,7 +641,7 @@ De partijen komen overeen samen te werken aan de ontwikkeling van de capaciteit 
 
 - k. opleiding over de landbouw en in de veterinaire sector.
 
-#### Artikel 43. Milieu en klimaatverandering
+##### Artikel 43. Milieu en klimaatverandering
 
 1. De partijen werken samen om Afghanistan bij te staan met de invoering van een hoogstaande milieubescherming en de bevordering van de conservatie en het beheer van natuurlijke hulpbronnen en biodiversiteit, met inbegrip van bossen, in het belang van duurzame ontwikkeling, aanpassing aan en vermindering van klimaatverandering.
 
@@ -630,11 +649,11 @@ De partijen komen overeen samen te werken aan de ontwikkeling van de capaciteit 
 
 3. De partijen streven ernaar hun samenwerking te versterken inzake aanpassing aan en vermindering van klimaatverandering, met speciale aandacht voor watervoorraden.
 
-#### Artikel 44. Volksgezondheid
+##### Artikel 44. Volksgezondheid
 
 De partijen komen overeen dat hun samenwerking zich met name richt op de hervorming van de gezondheidssector en de preventie en controle van belangrijke ziekten, inclusief de bevordering van de tenuitvoerlegging van internationale gezondheidsovereenkomsten. Dit omvat ook inspanningen om de toegang tot fundamentele gezondheidszorg in Afghanistan uit te breiden, de kwaliteit van de gezondheidszorg voor kwetsbare groepen, met name vrouwen en kinderen, te verbeteren, de toegang tot schoon water en sanitaire voorzieningen te verhogen en hygiëne te bevorderen.
 
-#### Artikel 45. Cultuur
+##### Artikel 45. Cultuur
 
 1. De partijen komen overeen om samenwerking te stimuleren inzake culturele aangelegenheden teneinde het wederzijds begrip en de kennis van elkaars cultuur te vergroten. Daartoe wordt steun verleend aan relevante activiteiten van maatschappelijke organisaties, en worden deze bevorderd. Daarbij wordt de culturele verscheidenheid gerespecteerd.
 
@@ -642,17 +661,17 @@ De partijen komen overeen dat hun samenwerking zich met name richt op de hervorm
 
 3. De partijen komen overeen elkaar te raadplegen en samen te werken binnen relevante internationale fora, zoals de Unesco, om gezamenlijke doelen na te streven, zoals het bevorderen van culturele verscheidenheid en het beschermen van het culturele erfgoed. In verband met culturele verscheidenheid pleiten de partijen ook voor de tenuitvoerlegging van het [Unesco-verdrag betreffende de bescherming en de bevordering van de diversiteit van cultuuruitingen](onbekend) van 2005.
 
-#### Artikel 46. Informatiemaatschappij
+##### Artikel 46. Informatiemaatschappij
 
 De partijen erkennen dat informatie- en communicatietechnologieën (ICT) een centraal element van het moderne leven en essentieel voor de economische en sociale ontwikkeling zijn, en komen overeen inzichten uit te wisselen over hun beleid op dit gebied teneinde de economische ontwikkeling te bevorderen, met inbegrip van de interconnectiviteit voor onderwijs en onderzoek. De partijen onderzoeken, waar passend, hoe zij het best op dit gebied kunnen samenwerken, meer bepaald inzake de handel in ICT-producten, regelgevende aspecten van elektronische communicatie en andere kwesties die verband houden met de informatiemaatschappij.
 
-#### Artikel 47. Beleid inzake de audiovisuele sector en de media
+##### Artikel 47. Beleid inzake de audiovisuele sector en de media
 
 De partijen stimuleren, ondersteunen en vergemakkelijken uitwisselingen, samenwerking en dialoog tussen hun relevante instellingen en actoren op het gebied van audiovisuele aangelegenheden en media. Zij komen overeen een regelmatige dialoog over deze onderwerpen tot stand te brengen.
 
 ## TITEL VII. REGIONALE SAMENWERKING
 
-#### Artikel 48. Regionale samenwerking
+##### Artikel 48. Regionale samenwerking
 
 1. De partijen erkennen dat initiatieven voor regionale samenwerking vereist zijn om de status van Afghanistan als landbrug tussen Centraal-Azië, Zuid-Azië en het Midden-Oosten te herstellen en economische groei en politieke stabiliteit in de regio te bevorderen. In dit verband komen zij overeen samen te werken om de regionale samenwerking te bevorderen met maatregelen ter ondersteuning van de inspanningen voor capaciteitsopbouw van de Afghaanse regering, meer bepaald van het ministerie van Buitenlandse Zaken. Met meer capaciteit kan de regering een grotere rol spelen in de diverse regionale organisaties, processen en fora. Deze samenwerking kan met name capaciteitsopbouw en vertrouwenwekkende maatregelen omvatten zoals de organisatie van opleidingen, workshops en seminars, uitwisseling van deskundigen, onderzoeken en andere activiteiten waarover de partijen overeenstemming bereiken.
 
@@ -662,7 +681,7 @@ De partijen stimuleren, ondersteunen en vergemakkelijken uitwisselingen, samenwe
 
 ## TITEL VIII. INSTITUTIONEEL KADER
 
-#### Artikel 49. Gemengd Comité
+##### Artikel 49. Gemengd Comité
 
 1. Er wordt een Gemengd Comité opgericht dat is samengesteld uit vertegenwoordigers van de partijen op het hoogst mogelijke niveau, en dat de volgende taken heeft:
 
@@ -690,11 +709,11 @@ De partijen stimuleren, ondersteunen en vergemakkelijken uitwisselingen, samenwe
 
 ## TITEL IX. SLOTBEPALINGEN
 
-#### Artikel 50. Middelen voor samenwerking
+##### Artikel 50. Middelen voor samenwerking
 
 Voor zover mogelijk binnen hun respectieve regelgeving, procedures en middelen verstrekt de Unie Afghanistan technische en financiële bijstand om de samenwerking zoals bedoeld in deze overeenkomst ten uitvoer te leggen, en Afghanistan stelt de noodzakelijke middelen ter beschikking, met inbegrip van financiële middelen, om te garanderen dat de overeengekomen doelstellingen worden bereikt.
 
-#### Artikel 51. Samenwerking ter bestrijding van fraude
+##### Artikel 51. Samenwerking ter bestrijding van fraude
 
 1. De partijen voeren de financiële steun uit volgens de beginselen van goed financieel beheer en werken samen om hun financiële belangen te beschermen. Zij treffen doeltreffende maatregelen om fraude, corruptie en andere illegale activiteiten die schade berokkenen aan hun financiële belangen, te voorkomen en te bestrijden.
 
@@ -712,17 +731,17 @@ Voor zover mogelijk binnen hun respectieve regelgeving, procedures en middelen v
 
 8. Het Europees Bureau voor fraudebestrijding en de bevoegde Afghaanse autoriteiten kunnen verdere samenwerking overeenkomen op het gebied van fraudebestrijding, met inbegrip van operationele afspraken.
 
-#### Artikel 52. Toekomstige ontwikkeling van de overeenkomst
+##### Artikel 52. Toekomstige ontwikkeling van de overeenkomst
 
 Elke partij kan voorstellen formuleren met het oog op de uitbreiding van het toepassingsgebied van de samenwerking krachtens deze overeenkomst, rekening houdend met de bij de uitvoering van de overeenkomst opgedane ervaring.
 
-#### Artikel 53. Andere overeenkomsten
+##### Artikel 53. Andere overeenkomsten
 
 1. Onverminderd de desbetreffende bepalingen van het [Verdrag betreffende de Europese Unie](onbekend) en het [Verdrag betreffende de werking van de Europese Unie](onbekend), doet deze overeenkomst noch in het kader daarvan ondernomen actie afbreuk aan de bevoegdheden van de lidstaten van de Europese Unie om bilaterale samenwerkingsbanden met Afghanistan aan te knopen of, indien wenselijk, bilaterale en samenwerkingsovereenkomsten met Afghanistan te sluiten. Deze overeenkomst doet geen afbreuk aan de toepassing of de uitvoering van verbintenissen die een van beide partijen zijn aangegaan in betrekkingen met derde partijen.
 
 2. De partijen kunnen deze overeenkomst aanvullen door sluiting van specifieke overeenkomsten op elk samenwerkingsgebied dat binnen het toepassingsgebied van deze overeenkomst valt. Dergelijke specifieke overeenkomsten vormen een integrerend onderdeel van de algemene bilaterale betrekkingen zoals die worden geregeld bij deze overeenkomst en maken deel uit van een gemeenschappelijk institutioneel kader.
 
-#### Artikel 54. Voldoen aan verplichtingen
+##### Artikel 54. Voldoen aan verplichtingen
 
 1. Elke partij kan een geschil dat verband houdt met de toepassing of de interpretatie van deze overeenkomst, aan het Gemengd Comité voorleggen.
 
@@ -738,11 +757,11 @@ Elke partij kan voorstellen formuleren met het oog op de uitbreiding van het toe
 
 - b. schending van een van de essentiële elementen van deze overeenkomst als bedoeld in [artikel 2, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006667&titeldeel=I&artikel=2&z=2017-02-18&g=2017-02-18), en [artikel 9, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006667&titeldeel=II&hoofdstuk=C&artikel=9&z=2017-02-18&g=2017-02-18).
 
-#### Artikel 55. Faciliteiten
+##### Artikel 55. Faciliteiten
 
 Om de samenwerking in het kader van deze overeenkomst te faciliteren, komen de partijen overeen om ambtenaren en deskundigen die zijn betrokken bij de uitvoering van de samenwerking, te voorzien van de nodige faciliteiten om hun taken te vervullen, overeenkomstig de respectieve interne regelgeving van de partijen.
 
-#### Artikel 56. Veiligheidsbelangen en openbaarmaking van informatie
+##### Artikel 56. Veiligheidsbelangen en openbaarmaking van informatie
 
 1. De bepalingen van deze overeenkomst gelden onverminderd de respectieve wet- en regelgeving van de partijen over de toegang van het publiek tot officiële documenten.
 
@@ -750,15 +769,15 @@ Om de samenwerking in het kader van deze overeenkomst te faciliteren, komen de p
 
 3. De partijen bevestigen opnieuw hun engagement om alle gerubriceerde informatie die zij in de loop van hun samenwerking ontvangen, te beschermen.
 
-#### Artikel 57. Definitie van de partijen
+##### Artikel 57. Definitie van de partijen
 
 Voor de toepassing van deze overeenkomst wordt met de term „partijen” bedoeld de Unie of haar lidstaten, of de Unie en haar lidstaten, overeenkomstig hun respectieve bevoegdheden, enerzijds, en Afghanistan, anderzijds.
 
-#### Artikel 58. Territoriale toepassing
+##### Artikel 58. Territoriale toepassing
 
 Deze overeenkomst is van toepassing op het grondgebied waarop het [Verdrag betreffende de Europese Unie](onbekend) en het [Verdrag betreffende de werking van de Europese Unie](onbekend) van toepassing zijn, onder de in die verdragen neergelegde voorwaarden, en op het grondgebied van Afghanistan.
 
-#### Artikel 59. Inwerkingtreding, voorlopige toepassing, looptijd en beëindiging
+##### Artikel 59. Inwerkingtreding, voorlopige toepassing, looptijd en beëindiging
 
 1. Deze overeenkomst treedt in werking op de eerste dag van de tweede maand volgende op de datum waarop de partijen elkaar in kennis stellen van de voltooiing van de daartoe vereiste wettelijke procedures.
 
@@ -778,6 +797,6 @@ Deze overeenkomst is van toepassing op het grondgebied waarop het [Verdrag betre
 
 7. De kennisgevingen overeenkomstig dit artikel worden toegezonden aan het secretariaat-generaal van de Raad van de Europese Unie respectievelijk het ministerie van Buitenlandse Zaken van Afghanistan.
 
-#### Artikel 60. Authentieke teksten
+##### Artikel 60. Authentieke teksten
 
 Deze overeenkomst is opgesteld in tweevoud in de Bulgaarse, de Deense, de Duitse, de Engelse, de Estse, de Finse, de Franse, de Griekse, de Hongaarse, de Italiaanse, de Kroatische, de Letse, de Litouwse, de Maltese, de Nederlandse, de Poolse, de Portugese, de Roemeense, de Sloveense, de Slowaakse, de Spaanse, de Tsjechische, de Zweedse taal, alsook in het Pasjtoe en Dari-Perzisch, zijnde alle teksten gelijkelijk authentiek.

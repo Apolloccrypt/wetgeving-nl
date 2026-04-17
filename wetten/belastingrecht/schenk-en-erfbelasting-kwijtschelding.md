@@ -1,13 +1,38 @@
 ---
 title: "Schenk- en erfbelasting, kwijtschelding"
 identifier: "BWBR0044099"
-categorie: "Belastingrecht"
-publicatiedatum: 2020-09-19
-laatste_update: 2020-09-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044099"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2020-09-19"
+last_updated: "2020-09-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044099"
+soort: "beleidsregel"
+stam_id: "15632503"
+version_id: "27023642"
+internal_id: "C38235641"
+label_id: "15572694"
+dtd_version: "2.0"
+original_entry_into_force: "2020-09-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044099/2020-09-19/0"
+intitule_bron: "Stcrt.2020-48127"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-09-04"
+intitule_published: "2020-09-18"
+intitule_in_force: "2020-09-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-48127"
+original_signed_date: "2020-09-04"
+original_published_date: "2020-09-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-48127"
+entry_into_force_date: "2020-09-19"
+jci_1_3: "jci1.3:c:BWBR0044099&z=2020-09-19&g=2020-09-19"
+jci_1_0: "1.0:c:BWBR0044099&g=2020-09-19"
+citeertitel_status: "redactioneel"
+signed_date: "2020-09-04"
+entry_into_force: "2020-09-19"
 ---
-
 # Schenk- en erfbelasting, kwijtschelding
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

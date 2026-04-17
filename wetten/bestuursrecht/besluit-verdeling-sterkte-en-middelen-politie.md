@@ -1,13 +1,39 @@
 ---
-title: "Besluit verdeling sterkte en middelen politie"
+title: "Besluit van 28 november 2012, houdende regels ter uitvoering van artikel 36 van de Politiewet 2012 (Besluit verdeling sterkte en middelen politie)"
 identifier: "BWBR0032333"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-04-01
-laatste_update: 2025-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032333"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-04-01"
+last_updated: "2025-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032333"
+soort: "AMvB"
+stam_id: "11927823"
+version_id: "29105952"
+internal_id: "C41371001"
+label_id: "11899824"
+dtd_version: "2.0"
+original_entry_into_force: "2022-12-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032333/2025-04-01/0"
+intitule_bron: "Stb.2012-610"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-11-28"
+intitule_published: "2012-12-05"
+intitule_in_force: "2012-12-14"
+intitule_status: "goed"
+original_publication: "Stb.2022-515"
+original_signed_date: "2022-12-13"
+original_published_date: "2022-12-16"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2022-515"
+entry_into_force_date: "2022-12-13"
+jci_1_3: "jci1.3:c:BWBR0032333&z=2025-04-01&g=2025-04-01"
+jci_1_0: "1.0:c:BWBR0032333&g=2025-04-01"
+citeertitel_status: "officieel"
+short_title: "Besluit verdeling sterkte en middelen politie"
+signed_date: "2022-12-13"
+entry_into_force: "2022-12-13"
 ---
-
 # Besluit van 28 november 2012, houdende regels ter uitvoering van artikel 36 van de Politiewet 2012 (Besluit verdeling sterkte en middelen politie)
 
 Op voordracht van Onze Minister van Veiligheid en Justitie van 18 oktober 2012, nummer 312645;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister van Veiligheid en Justitie van 22 nov
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -32,11 +58,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. **begrotingsjaar:** het kalenderjaar waarvoor de begroting dient.
 
-#### Artikel 2
+##### Artikel 2
 
 Bij ministeriële regeling worden de krachtens [artikel 6, tweede lid, van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=6) vastgestelde functies bij de politie aangewezen die onderdeel uitmaken van de operationele sterkte.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Onze Minister bepaalt jaarlijks de door de korpschef in het begrotingsjaar te realiseren operationele sterkte van de politie.
 
@@ -46,37 +72,37 @@ Bij ministeriële regeling worden de krachtens [artikel 6, tweede lid, van het B
 
 4. Het aandeel van een regionale eenheid in de in het derde lid bedoelde operationele sterkte bedraagt het in de bij dit besluit behorende bijlage bedoelde percentage.
 
-#### Artikel 4
+##### Artikel 4
 
 Onze Minister geeft jaarlijks een raming van de door de korpschef te realiseren operationele sterkte voor de vier op het begrotingsjaar volgende jaren en, met inachtneming van het in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032333&artikel=3&z=2025-04-01&g=2025-04-01), bedoelde aandeel, een raming van de verdeling van deze sterkte over de eenheden en ondersteunende diensten en een raming van het in artikel 3, vijfde lid, bedoelde percentage.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Indien de begroting tijdens het begrotingsjaar wordt gewijzigd, kan Onze Minister de door de korpschef te realiseren operationele sterkte, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032333&artikel=3&z=2025-04-01&g=2025-04-01), wijzigen.
 
 2. Indien de meerjarenraming, bedoeld in [artikel 34 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=34), wordt gewijzigd, is het eerste lid van overeenkomstige toepassing op de raming van de operationele sterkte, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032333&artikel=4&z=2025-04-01&g=2025-04-01).
 
-#### Artikel 6
+##### Artikel 6
 
 1. Indien werkzaamheden worden overgeheveld van een eenheid of ondersteunende dienst naar een andere eenheid of ondersteunende dienst, als bedoeld in [artikel 25, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25) wordt de op die werkzaamheden betrekking hebbende operationele sterkte eveneens overgeheveld.
 
 2. In afwijking van [artikel 3, tweede of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032333&artikel=3&z=2025-04-01&g=2025-04-01), kan een eenheid of ondersteunende dienst over extra operationele sterkte beschikken indien deze voor een specifiek onderdeel van de politietaak aan de eenheid of ondersteunende dienst is toegekend.
 
-#### Artikel 7
+##### Artikel 7
 
 1. In de begroting worden de middelen over de onderdelen van de politie verdeeld, waarbij wordt aangegeven welk deel daarvan ter beschikking wordt gesteld aan de Politieacademie.
 
 2. In het beheersplan, bedoeld in [artikel 37, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=37), wordt een verdeling gemaakt van de niet-operationele sterkte over de onderdelen van de politie, waarbij wordt aangegeven welk deel daarvan ter beschikking wordt gesteld aan de Politieacademie en aan de Politieonderwijsraad.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit verdeling sterkte en middelen politie.
 
-#### Artikel 10
+##### Artikel 10
 
 Wijzigt dit besluit.
 
@@ -97,7 +123,7 @@ Wijzigt dit besluit.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 4a
+##### Artikel 4a
 
 1. In afwijking van de [artikelen 3, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032333&artikel=3&z=2025-04-01&g=2025-04-01), en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0032333&artikel=4&z=2025-04-01&g=2025-04-01) kan de korpschef bepalen dat een percentage van de te realiseren operationele sterkte van een eenheid in een begrotingsjaar en maximaal twee daaropvolgende jaren niet wordt gerealiseerd. Ten aanzien van een regionale eenheid geschiedt deze beslissing in overeenstemming met de burgemeesters van de gemeenten in het gebied waarin de regionale eenheid de politietaak uitvoert en de hoofdofficier van justitie.
 

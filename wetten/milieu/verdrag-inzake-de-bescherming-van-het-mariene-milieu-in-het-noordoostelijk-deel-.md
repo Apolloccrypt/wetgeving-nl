@@ -1,13 +1,38 @@
 ---
 title: "Verdrag inzake de bescherming van het mariene milieu in het noordoostelijk deel van de Atlantische Oceaan"
 identifier: "BWBV0001119"
-categorie: "Milieu"
-publicatiedatum: 2011-10-28
-laatste_update: 2011-10-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001119"
+country: "nl"
+rank: "verdrag"
+publication_date: "2011-10-28"
+last_updated: "2011-10-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001119"
+soort: "verdrag"
+stam_id: "10002371103"
+version_id: "10002376182"
+internal_id: "C10006976431"
+label_id: "10002361514"
+dtd_version: "2.0"
+original_entry_into_force: "1998-03-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001119/2011-10-28/0"
+intitule_bron: "Trb.1993-16"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-01-07"
+intitule_published: "1993-02-03"
+intitule_in_force: "1998-06-30"
+intitule_status: "goed"
+original_publication: "Trb.1993-16"
+original_signed_date: "1994-01-07"
+original_published_date: "1993-02-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1993-16"
+entry_into_force_date: "1998-03-25"
+jci_1_3: "jci1.3:c:BWBV0001119&z=2011-10-28&g=2011-10-28"
+jci_1_0: "1.0:c:BWBV0001119&g=2011-10-28"
+citeertitel_status: "redactioneel"
+signed_date: "1994-01-07"
+entry_into_force: "1998-03-25"
 ---
-
 # Verdrag inzake de bescherming van het mariene milieu in het noordoostelijk deel van de Atlantische Oceaan
 
 De Verdragsluitende Partijen,
@@ -40,7 +65,7 @@ Overwegende dat in de huidige Verdragen van Oslo en Parijs enkele van de vele br
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag:
 
@@ -116,7 +141,7 @@ Voor de toepassing van dit Verdrag:
 
 - s. wordt onder „regionale organisatie voor economische integratie” verstaan een door soevereine Staten in een bepaalde regio opgerichte organisatie die bevoegdheid heeft ten aanzien van in het Verdrag geregelde aangelegenheden en die naar behoren gemachtigd is, in overeenstemming met haar interne procedures, om het Verdrag te ondertekenen, te bekrachtigen, te aanvaarden of goed te keuren dan wel hiertoe toe te treden.
 
-#### Artikel 2. Algemene verplichtingen
+##### Artikel 2. Algemene verplichtingen
 
 - a. De Verdragsluitende Partijen nemen, in overeenstemming met de bepalingen van het Verdrag, alle mogelijke maatregelen om de verontreiniging te voorkomen en te beëindigen en nemen alle noodzakelijke maatregelen om het zeegebied te beschermen tegen de nadelige gevolgen van menselijke activiteiten, ten einde de gezondheid van de mens te beschermen en mariene ecosystemen in stand te houden en, wanneer uitvoerbaar, aangetaste zeegebieden te herstellen.
 
@@ -144,19 +169,19 @@ Voor de toepassing van dit Verdrag:
 
 5. Geen enkele bepaling van het Verdrag mag zodanig worden uitgelegd dat deze de Verdragsluitende Partijen zou beletten, afzonderlijk of gezamenlijk, strengere maatregelen te nemen ter voorkoming of beëindiging van de verontreiniging van het zeegebied of ter bescherming van het zeegebied tegen de nadelige gevolgen van menselijke activiteiten.
 
-#### Artikel 3. Verontreiniging uit landbronnen
+##### Artikel 3. Verontreiniging uit landbronnen
 
 De Verdragsluitende Partijen ondernemen, afzonderlijk of gezamenlijk, alle mogelijke stappen om de verontreiniging uit landbronnen te voorkomen en te beëindigen in overeenstemming met de bepalingen van het Verdrag, in het bijzonder op de in Bijlage I voorgeschreven wijze.
 
-#### Artikel 4. Verontreiniging ten gevolge van storting of verbranding
+##### Artikel 4. Verontreiniging ten gevolge van storting of verbranding
 
 De Verdragsluitende Partijen ondernemen, afzonderlijk of gezamenlijk, alle mogelijke stappen om de verontreiniging ten gevolge van het storten of verbranden van afval of andere stoffen te voorkomen en te beëindigen in overeenstemming met de bepalingen van het Verdrag, in het bijzonder op de in Bijlage II voorgeschreven wijze.
 
-#### Artikel 5. Verontreiniging uit offshore-bronnen
+##### Artikel 5. Verontreiniging uit offshore-bronnen
 
 De Verdragsluitende Partijen ondernemen, afzonderlijk of gezamenlijk, alle mogelijke stappen om de verontreiniging uit offshorebronnen te voorkomen en te beëindigen in overeenstemming met de bepalingen van het Verdrag, in het bijzonder op de in Bijlage III voorgeschreven wijze.
 
-#### Artikel 6. Beoordeling van de kwaliteit van het mariene milieu
+##### Artikel 6. Beoordeling van de kwaliteit van het mariene milieu
 
 In overeenstemming met de bepalingen van het Verdrag, in het bijzonder op de in Bijlage IV voorgeschreven wijze:
 
@@ -164,11 +189,11 @@ In overeenstemming met de bepalingen van het Verdrag, in het bijzonder op de in 
 
 - b. nemen de Verdragsluitende Partijen in die beoordeling een evaluatie op van de doeltreffendheid van de genomen en voorgenomen maatregelen ter bescherming van het mariene milieu, en stellen zij daarin prioriteiten voor de te ondernemen acties.
 
-#### Artikel 7. Verontreiniging uit andere bronnen
+##### Artikel 7. Verontreiniging uit andere bronnen
 
 De Verdragsluitende Partijen werken samen met het oog op de aanneming van Bijlagen, naast de in de artikelen 3, 4, 5 en 6 hierboven genoemde Bijlagen, waarin maatregelen, procedures en normen worden voorgeschreven om het zeegebied te beschermen tegen verontreiniging uit andere bronnen, voor zover die verontreiniging niet reeds het voorwerp vormt van doeltreffende maatregelen, overeengekomen door andere internationale organisaties of voorgeschreven door andere internationale verdragen.
 
-#### Artikel 8. Wetenschappelijk en technisch onderzoek
+##### Artikel 8. Wetenschappelijk en technisch onderzoek
 
 1. Ter verwezenlijking van de doelstellingen van het Verdrag stellen de Verdragsluitende Partijen aanvullende of gezamenlijke programma's op voor wetenschappelijk of technisch onderzoek en doen zij, in overeenstemming met een standaardprocedure, aan de Commissie toekomen:
 
@@ -178,7 +203,7 @@ De Verdragsluitende Partijen werken samen met het oog op de aanneming van Bijlag
 
 2. De Verdragsluitende Partijen houden hierbij rekening met de werkzaamheden die op deze gebieden worden verricht door de desbetreffende internationale organisaties en instellingen.
 
-#### Artikel 9. Toegang tot informatie
+##### Artikel 9. Toegang tot informatie
 
 1. De Verdragsluitende Partijen dragen er zorg voor dat hun bevoegde autoriteiten worden verplicht de in het tweede lid van dit artikel omschreven informatie beschikbaar te stellen aan iedere natuurlijke persoon of rechtspersoon, in reactie op elk redelijk verzoek, zulks zonder dat die persoon enig belang hoeft aan te tonen, en zonder onredelijke kosten, zo spoedig mogelijk en binnen ten hoogste twee maanden.
 
@@ -202,7 +227,7 @@ De Verdragsluitende Partijen werken samen met het oog op de aanneming van Bijlag
 
 4. De weigering de informatie te verstrekken dient met redenen te zijn omkleed.
 
-#### Artikel 10. De Commissie
+##### Artikel 10. De Commissie
 
 1. Hierbij wordt een Commissie ingesteld, bestaande uit vertegenwoordigers van elk der Verdragsluitende Partijen. De Commissie komt regelmatig bijeen en op elk tijdstip waarop, in verband met bijzondere omstandigheden, daartoe wordt besloten in overeenstemming met het reglement van orde.
 
@@ -228,7 +253,7 @@ De Verdragsluitende Partijen werken samen met het oog op de aanneming van Bijlag
 
 5. De Commissie stelt haar financieel reglement op, dat met eenparigheid van stemmen door de Verdragsluitende Partijen wordt aangenomen.
 
-#### Artikel 11. Waarnemers
+##### Artikel 11. Waarnemers
 
 1. De Commissie kan, met eenparigheid van stemmen van de Verdragsluitende Partijen, besluiten als waarnemer toe te laten:
 
@@ -240,7 +265,7 @@ De Verdragsluitende Partijen werken samen met het oog op de aanneming van Bijlag
 
 3. De voorwaarden voor de toelating en deelneming van de waarnemers worden vastgelegd in het reglement van orde van de Commissie.
 
-#### Artikel 12. Secretariaat
+##### Artikel 12. Secretariaat
 
 1. Hierbij wordt een permanent secretariaat ingesteld.
 
@@ -248,7 +273,7 @@ De Verdragsluitende Partijen werken samen met het oog op de aanneming van Bijlag
 
 3. De Uitvoerend Secretaris verricht de taken die noodzakelijk zijn voor het beheer van het Verdrag en voor de werkzaamheden van de Commissie, alsmede de andere taken die aan de Uitvoerend Secretaris worden opgedragen door de Commissie in overeenstemming met haar reglement van orde en haar financieel reglement.
 
-#### Artikel 13. Besluiten en aanbevelingen
+##### Artikel 13. Besluiten en aanbevelingen
 
 1. Besluiten en aanbevelingen worden aangenomen met eenparigheid van stemmen van de Verdragsluitende Partijen. Indien geen eenparigheid van stemmen wordt bereikt, en indien in het Verdrag niet anders is bepaald, kan de Commissie niettemin besluiten of aanbevelingen aannemen met een meerderheid van drievierde van de stemmen van de Verdragsluitende Partijen.
 
@@ -262,13 +287,13 @@ De Verdragsluitende Partijen werken samen met het oog op de aanneming van Bijlag
 
 6. Besluiten betreffende Bijlagen of Aanhangsels worden slechts genomen door de Verdragsluitende Partijen die door de desbetreffende Bijlage of het desbetreffende Aanhangsel zijn gebonden.
 
-#### Artikel 14. Status van de Bijlagen en Aanhangsels
+##### Artikel 14. Status van de Bijlagen en Aanhangsels
 
 1. De Bijlagen en de Aanhangsels maken een integrerend deel uit van het Verdrag.
 
 2. Aanhangsels zijn wetenschappelijk, technisch of administratief van aard.
 
-#### Artikel 15. Wijziging van het Verdrag
+##### Artikel 15. Wijziging van het Verdrag
 
 1. Onverminderd de bepalingen van het tweede lid van artikel 27 en specifieke bepalingen die gelden voor de aanneming of wijziging van Bijlagen of Aanhangsels, is op een wijziging van het Verdrag dit artikel van toepassing.
 
@@ -280,23 +305,23 @@ De Verdragsluitende Partijen werken samen met het oog op de aanneming van Bijlag
 
 5. De wijziging wordt voor de Verdragsluitende Partijen die deze hebben bekrachtigd, aanvaard of goedgekeurd van kracht op de dertigste dag na de ontvangst door de depot-Regering van de kennisgeving van bekrachtiging, aanvaarding of goedkeuring van de wijziging door ten minste zeven Verdragsluitende Partijen. Daarna wordt de wijziging voor elke andere Verdragsluitende Partij van kracht op de dertigste dag nadat die Verdragsluitende Partij haar akte van bekrachtiging, aanvaarding of goedkeuring van de wijziging heeft nedergelegd.
 
-#### Artikel 16. Aanneming van Bijlagen
+##### Artikel 16. Aanneming van Bijlagen
 
 De bepalingen van artikel 15 betreffende wijziging van het Verdrag zijn ook van toepassing op het voorstellen, aanvaarden en in werking treden van een Bijlage bij het Verdrag, met dien verstande dat de Commissie elke in artikel 7 bedoelde Bijlage moet aannemen met een meerderheid van drievierde van de stemmen van de Verdragsluitende Partijen.
 
-#### Artikel 17. Wijziging van Bijlagen
+##### Artikel 17. Wijziging van Bijlagen
 
 1. De bepalingen van artikel 15 betreffende wijziging van het Verdrag zijn ook van toepassing op het wijzigen van een Bijlage bij het Verdrag, met dien verstande dat de Commissie wijzigingen op de in de artikelen 3, 4, 5, 6 en 7 bedoelde Bijlagen moet aannemen met een meerderheid van drievierde van de Verdragsluitende Partijen die door die Bijlage zijn gebonden.
 
 2. Indien de wijziging van een Bijlage verband houdt met een wijziging op het Verdrag, zijn op de wijziging van de Bijlage dezelfde bepalingen van toepassing als op de wijziging op het Verdrag.
 
-#### Artikel 18. Aanneming van Aanhangsels
+##### Artikel 18. Aanneming van Aanhangsels
 
 1. Indien een voorgesteld Aanhangsel verband houdt met een wijziging op het Verdrag of een Bijlage, die ter aanneming is voorgelegd in overeenstemming met artikel 15 of artikel 17, zijn op het voorstellen, aannemen en in werking treden van dat Aanhangsel dezelfde bepalingen van toepassing als op het voorstellen, aannemen en van kracht worden van die wijziging.
 
 2. Indien een voorgesteld Aanhangsel verband houdt met een Bijlage bij het Verdrag, die ter aanneming is voorgelegd in overeenstemming met artikel 16, zijn op het voorstellen, aannemen en in werking treden van dat Aanhangsel dezelfde bepalingen van toepassing als op het voorstellen, aannemen en in werking treden van die Bijlage.
 
-#### Artikel 19. Wijziging van Aanhangsels
+##### Artikel 19. Wijziging van Aanhangsels
 
 1. Iedere Verdragsluitende Partij die is gebonden door een Aanhangsel kan een wijziging op dat Aanhangsel voorstellen. De tekst van de voorgestelde wijziging wordt door de Uitvoerend Secretaris van de Commissie toegezonden aan alle Partijen bij het Verdrag op de in artikel 15, tweede lid, bepaalde wijze.
 
@@ -312,13 +337,13 @@ De bepalingen van artikel 15 betreffende wijziging van het Verdrag zijn ook van 
 
 7. Indien de wijziging van een Aanhangsel verband houdt met een wijziging op het Verdrag of een Bijlage, zijn op de wijziging van het Aanhangsel dezelfde bepalingen van toepassing als op de wijziging van het Verdrag of die Bijlage.
 
-#### Artikel 20. Stemrecht
+##### Artikel 20. Stemrecht
 
 1. Elke Verdragsluitende Partij heeft één stem in de Commissie.
 
 2. Onverminderd de bepalingen van het eerste lid van dit artikel oefenen de Europese Economische Gemeenschap en andere regionale organisaties voor economische integratie, op de gebieden die binnen hun bevoegdheid vallen, hun stemrecht uit met een aantal stemmen dat gelijk is aan het aantal Lidstaten dat Partij is bij het Verdrag. Bedoelde organisaties oefenen geen stemrecht uit in de gevallen waarin hun Lidstaten hun stemrecht uitoefenen, en omgekeerd.
 
-#### Artikel 21. Grensoverschrijdende verontreiniging
+##### Artikel 21. Grensoverschrijdende verontreiniging
 
 1. Wanneer verontreiniging afkomstig van een Verdragsluitende Partij de belangen van één of meer van de andere Partijen bij het Verdrag zou kunnen schaden, treden de betrokken Verdragsluitende Partijen, op verzoek van één van hen, in overleg ten einde te onderhandelen over een samenwerkingsovereenkomst.
 
@@ -328,7 +353,7 @@ De bepalingen van artikel 15 betreffende wijziging van het Verdrag zijn ook van 
 
 4. De Verdragsluitende Partijen die een zodanige overeenkomst ondertekenen, stellen de andere Verdragsluitende Partijen door tussenkomst van de Commissie op de hoogte van de strekking van de overeenkomst en van de geboekte vooruitgang in de uitvoering daarvan.
 
-#### Artikel 22. Verslaglegging aan de Commissie
+##### Artikel 22. Verslaglegging aan de Commissie
 
 De Verdragsluitende Partijen brengen aan de Commissie regelmatig verslag uit over:
 
@@ -338,7 +363,7 @@ De Verdragsluitende Partijen brengen aan de Commissie regelmatig verslag uit ove
 
 - c. problemen waarop zij stuiten bij de uitvoering van de in letter a van dit artikel bedoelde bepalingen.
 
-#### Artikel 23. Naleving
+##### Artikel 23. Naleving
 
 De Commissie:
 
@@ -346,11 +371,11 @@ De Commissie:
 
 - b. besluit en roept op, indien van toepassing, tot het ondernemen van stappen ten einde te bewerkstelligen dat het Verdrag en de op grond daarvan aangenomen besluiten volledig worden nageleefd, en te bevorderen dat de aanbevelingen worden uitgevoerd, met inbegrip van maatregelen om een Verdragsluitende Partij bij te staan om haar verplichtingen na te komen.
 
-#### Artikel 24. Regionalisering
+##### Artikel 24. Regionalisering
 
 De Commissie kan besluiten dat een door haar aangenomen besluit of aanbeveling geldt voor het gehele zeegebied dan wel een bepaald gedeelte daarvan, en kan verschillende tijdschema's voorschrijven, rekening houdend met de verschillen in de ecologische en economische situatie in de diverse regio's en subregio's die onder het Verdrag vallen.
 
-#### Artikel 25. Ondertekening
+##### Artikel 25. Ondertekening
 
 Het Verdrag staat open voor ondertekening te Parijs van 22 september 1992 tot 30 juni 1993 door:
 
@@ -362,11 +387,11 @@ Het Verdrag staat open voor ondertekening te Parijs van 22 september 1992 tot 30
 
 - d. elke regionale organisatie voor economische integratie die onder haar leden ten minste één Staat heeft waarop de letters a tot en met c van dit artikel van toepassing zijn.
 
-#### Artikel 26. Bekrachtiging, aanvaarding of goedkeuring
+##### Artikel 26. Bekrachtiging, aanvaarding of goedkeuring
 
 Het Verdrag dient te worden bekrachtigd, aanvaard of goedgekeurd. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Regering van de Franse Republiek.
 
-#### Artikel 27. Toetreding
+##### Artikel 27. Toetreding
 
 1. Na 30 juni 1993 staat het Verdrag open voor toetreding door de in artikel 25 bedoelde Staten en regionale organisaties voor economische integratie.
 
@@ -376,17 +401,17 @@ Het Verdrag dient te worden bekrachtigd, aanvaard of goedgekeurd. De akten van b
 
 4. De akten van toetreding worden nedergelegd bij de Regering van de Franse Republiek.
 
-#### Artikel 28. Voorbehouden
+##### Artikel 28. Voorbehouden
 
 Ten aanzien van het Verdrag kan geen enkel voorbehoud worden gemaakt.
 
-#### Artikel 29. Inwerkingtreding
+##### Artikel 29. Inwerkingtreding
 
 1. Het Verdrag treedt in werking op de dertigste dag na de datum waarop alle Partijen bij het Verdrag van Oslo en alle Partijen bij het Verdrag van Parijs hun akte van bekrachtiging, aanvaarding, goedkeuring of toetreding hebben nedergelegd.
 
 2. Voor elke niet in het eerste lid van dit artikel bedoelde Staat of regionale organisatie voor economische integratie treedt het Verdrag in werking overeenkomstig het eerste lid van dit artikel, dan wel op de dertigste dag volgende op de datum van nederlegging van de akte van bekrachtiging, aanvaarding, goedkeuring of toetreding van die Staat of regionale organisatie voor economische integratie, al naar gelang welke datum het laatst valt.
 
-#### Artikel 30. Opzegging
+##### Artikel 30. Opzegging
 
 1. Na een termijn van twee jaar, te rekenen vanaf de datum van inwerkingtreding van het Verdrag voor een Verdragsluitende Partij, kan die Verdragsluitende Partij te allen tijde het Verdrag opzeggen door middel van een schriftelijke kennisgeving aan de depot-Regering.
 
@@ -394,13 +419,13 @@ Ten aanzien van het Verdrag kan geen enkel voorbehoud worden gemaakt.
 
 3. Een in het eerste en tweede lid van dit artikel bedoelde opzegging wordt van kracht een jaar na de datum waarop de kennisgeving van opzegging werd ontvangen door de depot-Regering.
 
-#### Artikel 31. Vervanging van de Verdragen van Oslo en Parijs
+##### Artikel 31. Vervanging van de Verdragen van Oslo en Parijs
 
 1. Na zijn inwerkingtreding vervangt het Verdrag de Verdragen van Oslo en Parijs tussen de Verdragsluitende Partijen.
 
 2. Onverminderd het eerste lid van dit artikel blijven krachtens het Verdrag van Oslo of het Verdrag van Parijs aangenomen besluiten, aanbevelingen of andere akkoorden van toepassing en behouden deze dezelfde rechtskracht, voor zover zij verenigbaar zijn met of niet uitdrukkelijk vervallen verklaard zijn door het Verdrag of enig besluit dat of - in het geval van bestaande aanbevelingen - enige aanbeveling die is aangenomen op grond van het Verdrag.
 
-#### Artikel 32. Regeling van geschillen
+##### Artikel 32. Regeling van geschillen
 
 1. Elk geschil tussen de Verdragsluitende Partijen met betrekking tot de uitlegging of toepassing van het Verdrag dat niet op enige andere wijze kan worden geregeld door de betrokken Verdragsluitende Partijen, bijvoorbeeld door middel van een onderzoek of bemiddeling binnen de Commissie, wordt op verzoek van één van die Verdragsluitende Partijen onderworpen aan arbitrage onder de in dit artikel vastgelegde voorwaarden.
 
@@ -440,7 +465,7 @@ Ten aanzien van het Verdrag kan geen enkel voorbehoud worden gemaakt.
 
 - b. Alle geschillen die zich tussen de partijen mochten voordoen met betrekking tot de uitlegging of tenuitvoerlegging van de uitspraak kunnen door één van beide partijen worden voorgelegd aan het scheidsgerecht dat de uitspraak heeft gedaan of, indien dit niet beschikbaar is, aan een ander voor dit doel ingesteld scheidsgerecht, dat is samengesteld op dezelfde wijze als het eerste scheidsgerecht.
 
-#### Artikel 33. Taken van de depot-Regering
+##### Artikel 33. Taken van de depot-Regering
 
 De depot-Regering stelt de Verdragsluitende Partijen en zij die het Verdrag ondertekenen in kennis van:
 
@@ -450,11 +475,11 @@ De depot-Regering stelt de Verdragsluitende Partijen en zij die het Verdrag onde
 
 - c. de ontvangst van kennisgevingen van aanvaarding, de nederlegging van de akten van bekrachtiging, aanvaarding, goedkeuring of toetreding en de inwerkingtreding van wijzigingen op het Verdrag en de aanneming en wijziging van Bijlagen of Aanhangsels, overeenkomstig de artikelen 15, 16, 17, 18 en 19.
 
-#### Artikel 34. Oorspronkelijke tekst
+##### Artikel 34. Oorspronkelijke tekst
 
 Het origineel van het Verdrag, waarvan de Franse en de Engelse tekst gelijkelijk authentiek zijn, wordt nedergelegd bij de Regering van de Franse Republiek, die daarvan voor eensluidend gewaarmerkte afschriften doet toekomen aan de Verdragsluitende Partijen en aan hen die het Verdrag hebben ondertekend, en die een voor eensluidend gewaarmerkt afschrift zal nederleggen bij de Secretaris-Generaal van de Verenigde Naties ter registratie en publikatie ingevolge artikel 102 van het Handvest van de Verenigde Naties.
 
-#### Artikel 1
+##### Artikel 1
 
 1. Bij het aannemen van programma's en maatregelen ter toepassing van deze Bijlage, verlangen de Verdragsluitende Partijen, afzonderlijk of gezamenlijk, dat gebruik wordt gemaakt van:
 
@@ -474,13 +499,13 @@ hierbij inbegrepen, indien van toepassing, schone technologie.
 
 - b. de door deze internationale organisaties en instellingen aanbevolen controleprocedures.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Lozingen vanuit puntbronnen in het zeegebied en lozingen in water of emissies in de lucht die terechtkomen in het zeegebied of die dit kunnen aantasten, dienen strikt te worden onderworpen aan vergunningen of voorschriften door de bevoegde autoriteiten van de Verdragsluitende Partijen. Deze vergunningen of voorschriften dienen in het bijzonder uitvoering te geven aan de desbetreffende besluiten van de Commissie die de betrokken Verdragsluitende Partij binden.
 
 2. De Verdragsluitende Partijen dienen een stelsel van regelmatige controle en inspectie door hun bevoegde autoriteiten in te stellen, ten einde de naleving van de vergunningen en voorschriften betreffende lozingen in water en emissies in de lucht te kunnen beoordelen.
 
-#### Artikel 3
+##### Artikel 3
 
 Voor de toepassing van deze Bijlage heeft de Commissie, onder andere, tot taak:
 
@@ -488,7 +513,7 @@ Voor de toepassing van deze Bijlage heeft de Commissie, onder andere, tot taak:
 
 - b. indien van toepassing, programma's en maatregelen op te stellen ter beperking van het inbrengen van nutriënten uit stedelijke, gemeentelijke, industriële, agrarische en andere bronnen.
 
-#### Artikel 1
+##### Artikel 1
 
 Deze Bijlage is niet van toepassing op het zich opzettelijk ontdoen in het zeegebied van:
 
@@ -496,11 +521,11 @@ Deze Bijlage is niet van toepassing op het zich opzettelijk ontdoen in het zeege
 
 - b. offshore-installaties en offshore-pijpleidingen.
 
-#### Artikel 2
+##### Artikel 2
 
 Verbranding is verboden.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het storten van afval en andere stoffen is verboden, met uitzondering van de in het tweede en derde lid van dit artikel vermelde afvalstoffen of andere stoffen.
 
@@ -532,7 +557,7 @@ Verbranding is verboden.
 
 - c. Tenzij de Commissie vóór of bij het verstrijken van dit tijdvak van 15 jaar bij eenparigheid van stemmen besluit de in letter b van het derde lid bedoelde uitzondering niet te handhaven, neemt zij een besluit op grond van artikel 13 van het Verdrag inzake de verlenging van het verbod met een tijdvak van tien jaar beginnende op 1 januari 2008, waarna een andere vergadering van de Commissie op ministerieel niveau zal worden belegd. De in letter b van het derde lid bedoelde Verdragsluitende Partijen die de in letter b van het derde lid bedoelde uitzonderingsmogelijkheid wensen te behouden, dienen vanaf 1999 om de twee jaar aan de vergaderingen van de Commissie op ministerieel niveau verslag uit te brengen over de geboekte vooruitgang bij het vinden van andere mogelijkheden op het land en over de resultaten van de wetenschappelijke onderzoeken waaruit blijkt dat eventuele storting er niet toe leidt dat de gezondheid van de mens in gevaar wordt gebracht, het leven in zee en de mariene ecosystemen worden geschaad, de mogelijkheden tot recreatie worden aangetast en ander rechtmatig gebruik van de zee wordt gehinderd.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De Verdragsluitende Partijen zien erop toe dat:
 
@@ -546,27 +571,27 @@ Verbranding is verboden.
 
 3. Elke Verdragsluitende Partij houdt overzichten bij van de aard en de hoeveelheden van afval en andere stoffen die worden gestort in overeenstemming met het eerste lid van dit artikel, alsmede van de datum, plaats en wijze van storting en brengt hierover verslag uit aan de Commissie.
 
-#### Artikel 5
+##### Artikel 5
 
 Een stof mag niet in het zeegebied worden gebracht voor andere doeleinden dan die waarvoor deze oorspronkelijk was bedoeld of vervaardigd zonder vergunning of ontheffingsregeling van de bevoegde autoriteit van de desbetreffende Verdragsluitende Partij. Deze vergunning of ontheffingsregeling dient in overeenstemming te zijn met de desbetreffende toepasselijke criteria, richtlijnen en procedures die door de Commissie zijn aangenomen overeenkomstig artikel 6 van deze Bijlage. Deze bepaling mag niet zodanig worden uitgelegd, dat hiermede de storting van afval of andere stoffen wordt toegestaan die anderszins in deze Bijlage is verboden.
 
-#### Artikel 6
+##### Artikel 6
 
 Voor de toepassing van deze Bijlage heeft de Commissie, onder andere, tot taak criteria, richtlijnen en procedures op te stellen en aan te nemen betreffende de storting van afval of andere stoffen, genoemd in het tweede lid van artikel 3, en het in het zeegebied brengen van stoffen als bedoeld in artikel 5 van deze Bijlage, ten einde de verontreiniging te voorkomen en te beëindigen.
 
-#### Artikel 7
+##### Artikel 7
 
 De bepalingen van deze Bijlage inzake storting zijn niet van toepassing in geval van overmacht, wegens zwaar weer of door enige andere oorzaak, wanneer de veiligheid van mensenlevens of van een schip of luchtvaartuig wordt bedreigd. Een dergelijke storting dient zodanig te geschieden dat het risico van schade voor de mens of het leven in zee tot een minimum wordt beperkt, en dient onmiddellijk te worden gemeld aan de Commissie, te zamen met de volledige gegevens betreffende de omstandigheden alsook de aard en de hoeveelheden van het gestorte afval of de gestorte andere stoffen.
 
-#### Artikel 8
+##### Artikel 8
 
 De Verdragsluitende Partijen nemen passende maatregelen, zowel afzonderlijk als binnen de daarvoor in aanmerking komende internationale organisaties, ter voorkoming en beëindiging van de verontreiniging ten gevolge van het verlaten van schepen of luchtvaartuigen in het zeegebied na een ongeval. Bij ontstentenis van advies ter zake van de kant van bedoelde internationale organisaties, dienen de door de afzonderlijke Verdragsluitende Partijen te nemen maatregelen te zijn gebaseerd op eventueel door de Commissie aan te nemen richtlijnen.
 
-#### Artikel 9
+##### Artikel 9
 
 In een noodsituatie, indien een Verdragsluitende Partij van mening is dat afval of andere stoffen waarvan het storten verboden is op grond van deze Bijlage, niet zonder onaanvaardbaar gevaar of schade kan worden verwijderd op het land, treedt zij onmiddellijk in overleg met andere Verdragsluitende Partijen ten einde de meest bevredigende wijze van opslag, vernietiging of verwijdering te vinden, naar gelang de omstandigheden. De Verdragsluitende Partij stelt de Commissie op de hoogte van de naar aanleiding van dit overleg ondernomen stappen. De Verdragsluitende Partijen verplichten zich ertoe elkander in dergelijke situaties bij te staan.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Elke Verdragsluitende Partij ziet toe op de naleving van de bepalingen van deze Bijlage:
 
@@ -580,7 +605,7 @@ In een noodsituatie, indien een Verdragsluitende Partij van mening is dat afval 
 
 3. Geen van de bepalingen van deze Bijlage doet afbreuk aan de soevereine immuniteit waarop bepaalde schepen aanspraak kunnen maken op grond van het internationale recht.
 
-#### Artikel 1
+##### Artikel 1
 
 Deze Bijlage is niet van toepassing op het zich opzettelijk ontdoen in het zeegebied van:
 
@@ -588,7 +613,7 @@ Deze Bijlage is niet van toepassing op het zich opzettelijk ontdoen in het zeege
 
 - b. schepen of luchtvaartuigen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Wanneer de Verdragsluitende Partijen programma's en maatregelen aannemen ter toepassing van deze Bijlage, verlangen zij, afzonderlijk of gezamenlijk, dat gebruik wordt gemaakt van:
 
@@ -600,7 +625,7 @@ hierbij inbegrepen, indien van toepassing, schone technologie.
 
 2. Bij het stellen van prioriteiten en het beoordelen van de aard en de reikwijdte van de programma's en maatregelen en de tijdschema's daarvoor hanteren de Verdragsluitende Partijen de in Aanhangsel 2 genoemde criteria.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het storten van afval of andere stoffen vanaf offshore-installaties is verboden.
 
@@ -618,13 +643,13 @@ hierbij inbegrepen, indien van toepassing, schone technologie.
 
 4. De Verdragsluitende Partijen zien er op toe dat het zich ontdoen van de in het derde lid bedoelde stromen in ondergrondse geologische formaties niet plaatsvindt zonder vergunning of ontheffingsregeling van hun bevoegde autoriteiten. Bedoelde vergunning of ontheffingsregeling dient, in het bijzonder, uitvoering te geven aan de desbetreffende toepasselijke besluiten, aanbevelingen en alle overige akkoorden die ingevolge het Verdrag zijn aangenomen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het gebruik op, dan wel de lozing of emissie uit, offshore-bronnen van stoffen die in het zeegebied terecht kunnen komen en dit kunnen aantasten dient strikt te worden onderworpen aan een vergunning of ontheffingsregeling door de bevoegde autoriteiten van de Verdragsluitende Partijen. Bedoelde vergunning of ontheffingsregeling dient in het bijzonder uitvoering te geven aan de desbetreffende toepasselijke besluiten, aanbevelingen en alle andere akkoorden die ingevolge het Verdrag zijn aangenomen.
 
 2. De bevoegde autoriteiten van de Verdragsluitende Partijen dienen te voorzien in een controle- en inspectiestelsel ten einde de naleving van de in het eerste lid van artikel 4 van deze Bijlage bedoelde vergunning of ontheffingsregeling te kunnen beoordelen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een buiten gebruik gestelde offshore-installatie of -pijpleiding mag niet worden gestort en een buiten gebruik gestelde offshore-installatie mag niet geheel of gedeeltelijk ter plaatse in het zeegebied worden achtergelaten zonder een vergunning, die per geval wordt verleend door de bevoegde autoriteiten van de desbetreffende Verdragsluitende Partij. De Verdragsluitende Partijen zien erop toe dat hun autoriteiten bij de verlening van bedoelde vergunningen uitvoering geven aan de desbetreffende toepasselijke besluiten, aanbevelingen en alle andere akkoorden die ingevolge het Verdrag zijn aangenomen.
 
@@ -634,25 +659,25 @@ hierbij inbegrepen, indien van toepassing, schone technologie.
 
 4. Elke Verdragsluitende Partij houdt overzichten bij van buiten gebruik gestelde offshore-instaliaties en -pijpleidingen die zijn gestort en van buiten gebruik gestelde offshore-installaties die ter plaatse zijn achtergelaten in overeenstemming met de bepalingen van dit artikel, alsook van de datum, plaats en wijze van storting, en brengt hierover verslag uit aan de Commissie.
 
-#### Artikel 6
+##### Artikel 6
 
 De artikelen 3 en 5 van deze Bijlage zijn niet van toepassing in geval van overmacht, wegens zwaar weer of door enige andere oorzaak, wanneer de veiligheid van mensenlevens of van een offshore-installatie wordt bedreigd. Een dergelijke storting dient zodanig te geschieden dat het risico van schade voor de mens of het leven in zee tot een minimum wordt beperkt, en dient onmiddellijk te worden gemeld aan de Commissie, te zamen met de volledige gegevens betreffende de omstandigheden alsook de aard en de hoeveelheden van de gestorte stoffen.
 
-#### Artikel 7
+##### Artikel 7
 
 De Verdragsluitende Partijen nemen passende maatregelen, zowel afzonderlijk als binnen de daarvoor in aanmerking komende internationale organisaties, ter voorkoming en beëindiging van de verontreiniging ten gevolge van het verlaten van offshore-installaties in het zeegebied na een ongeval. Bij ontstentenis van advies ter zake van de kant van bedoelde internationale organisaties, dienen de door de afzonderlijke Verdragsluitende Partijen te nemen maatregelen te zijn gebaseerd op eventueel door de Commissie aan te nemen richtlijnen.
 
-#### Artikel 8
+##### Artikel 8
 
 Een buiten gebruik gestelde offshore-installatie of -pijpleiding mag niet in het zeegebied worden geplaatst voor andere doeleinden dan die waarvoor deze oorspronkelijk was bedoeld of gebouwd zonder vergunning of ontheffingsregeling van de bevoegde autoriteit van de desbetreffende Verdragsluitende Partij. Deze vergunning of ontheffingsregeling dient in overeenstemming te zijn met de desbetreffende toepasselijke criteria, richtlijnen en procedures die door de Commissie zijn aangenomen overeenkomstig artikel 10, letter d, van deze Bijlage. Deze bepaling mag niet zodanig worden uitgelegd, dat hiermede de storting van buiten gebruik gestelde offshore-installaties of -pijpleidingen in strijd met de bepalingen van deze Bijlage wordt toegestaan.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Elke Verdragsluitende Partij geeft aan haar schepen en luchtvaartuigen voor inspectie ter zee en aan andere daarvoor in aanmerking komende diensten instructies om aan haar autoriteiten alle voorvallen en omstandigheden in het zeegebied te melden die aanleiding geven tot het vermoeden dat een overtreding van de bepalingen van deze Bijlage heeft plaatsgevonden of op het punt staat te gebeuren. Elke Verdragsluitende Partij waarvan de autoriteiten een dergelijke melding ontvangen, stelt, indien zij zulks passend acht, elke andere betrokken Verdragsluitende Partij daarvan in kennis.
 
 2. Geen van de bepalingen van deze Bijlage doet afbreuk aan de soevereine immuniteit waarop bepaalde schepen aanspraak kunnen maken op grond van het internationale recht.
 
-#### Artikel 10
+##### Artikel 10
 
 Voor de toepassing van deze Bijlage heeft de Commissie, onder andere, tot taak:
 
@@ -664,7 +689,7 @@ Voor de toepassing van deze Bijlage heeft de Commissie, onder andere, tot taak:
 
 - d. criteria, richtlijnen en procedures vast te stellen met betrekking tot het in het zeegebied plaatsen van buiten gebruik gestelde offshoreinstallaties en -pijpleidingen als bedoeld in artikel 8 van deze Bijlage, ten einde de verontreiniging te voorkomen en te beëindigen.
 
-#### 1
+##### 1
 
 1. Voor de toepassing van deze Bijlage wordt onder „controle" verstaan het herhaaldelijk meten van:
 
@@ -676,7 +701,7 @@ Voor de toepassing van deze Bijlage heeft de Commissie, onder andere, tot taak:
 
 2. Controle kan geschieden hetzij met het doel de naleving van het Verdrag te waarborgen, hetzij met het doel patronen en tendensen aan het licht te brengen, dan wel voor onderzoeksdoeleinden.
 
-#### Artikel 2
+##### Artikel 2
 
 Voor de toepassing van deze Bijlage dienen de Verdragsluitende Partijen:
 
@@ -690,7 +715,7 @@ Voor de toepassing van deze Bijlage dienen de Verdragsluitende Partijen:
 
 - e. rekening te houden met de wetenschappelijke vooruitgang die nuttig wordt geacht voor deze beoordeling en die elders wordt geboekt, hetzij op eigen initiatief van onderzoekers en onderzoeksinstellingen, hetzij uit hoofde van nationale en internationale onderzoeksprogramma's dan wel onder auspiciën van de Europese Economische Gemeenschap of andere regionale organisaties voor economische integratie.
 
-#### Artikel 3
+##### Artikel 3
 
 Voor de toepassing van deze Bijlage heeft de Commissie, onder andere, tot taak:
 
@@ -702,11 +727,11 @@ Voor de toepassing van deze Bijlage heeft de Commissie, onder andere, tot taak:
 
 - d. samen te werken met bevoegde regionale organisaties en andere bevoegde internationale organisaties bij de uitvoering van beoordelingen van de kwaliteit.
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van deze Bijlage en van Aanhangsel 3 zijn de begripsomschrijvingen van „biologische diversiteit", „ecosysteem" en „habitat" dezelfde als die welke zijn vervat in het Verdrag inzake biologische diversiteit van 5 juni 1992.
 
-#### Artikel 2
+##### Artikel 2
 
 Bij het nakomen van hun verplichting uit hoofde van het Verdrag om, afzonderlijk en gezamenlijk, de noodzakelijke maatregelen te treffen ter bescherming van het zeegebied tegen de nadelige gevolgen van menselijke activiteiten teneinde de gezondheid van de mens te beschermen en mariene ecosystemen te behouden en, wanneer uitvoerbaar, aangetaste zeegebieden te herstellen, alsmede hun verplichting uit hoofde van het Verdrag inzake biologische diversiteit van 5 juni 1992 om strategieën, plannen of programma's te ontwikkelen ten behoeve van het behoud en het duurzaam gebruik van biologische diversiteit:
 
@@ -714,7 +739,7 @@ Bij het nakomen van hun verplichting uit hoofde van het Verdrag om, afzonderlijk
 
 - b. werken de Verdragsluitende Partijen samen bij het aannemen van programma's en maatregelen ten behoeve van het regelen van de menselijke activiteiten die worden vastgesteld door middel van toepassing van de in Aanhangsel 3 genoemde criteria.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Voor de toepassing van deze Bijlage behoort onder andere tot de taken van de Commissie:
 
@@ -734,7 +759,7 @@ Bij het nakomen van hun verplichting uit hoofde van het Verdrag om, afzonderlijk
 
 2. Bij de aanneming van dergelijke programma's of maatregelen dient voldoende rekening te worden gehouden met de vraag of een specifiek programma of specifieke maatregel van toepassing zou moeten zijn op het gehele zeegebied of een gespecificeerd deel ervan.
 
-#### Artikel 4
+##### Artikel 4
 
 1. In overeenstemming met de voorlaatste considerans van het Verdrag worden uit hoofde van deze Bijlage geen programma's of maatregelen aangenomen betreffende aangelegenheden met betrekking tot het beheer van de visserij. Echter, wanneer de Commissie van mening is dat actie wenselijk is met betrekking tot een dergelijke aangelegenheid, brengt zij deze onder de aandacht van de autoriteit of internationale instantie die voor die aangelegenheid bevoegd is. Wanneer ter aanvulling op of ondersteuning van acties van dergelijke autoriteiten of instanties actie wenselijk is die binnen de bevoegdheden van de Commissie ligt, streeft de Commissie naar samenwerking met hen.
 
@@ -742,11 +767,11 @@ Bij het nakomen van hun verplichting uit hoofde van het Verdrag om, afzonderlijk
 
 ## BESTE BESCHIKBARE TECHNIEKEN
 
-#### 1
+##### 1
 
 Bij de toepassing van de beste beschikbare technieken dient de nadruk te liggen op de toepassing van technieken die geen afval produceren, indien deze beschikbaar zijn.
 
-#### 2
+##### 2
 
 Onder „de beste beschikbare technieken" wordt verstaan de laatste ontwikkelingen („stand van de techniek") in procédés, installaties of bedrijfsvoering aan de hand waarvan kan worden vastgesteld of een bepaalde maatregel ter beperking van lozingen, emissies en afval vanuit praktisch oogpunt geschikt is. Bij de vaststelling of een reeks van procédés, installaties en bedrijfsvoering in het algemeen of in een bepaald geval de beste beschikbare technieken vormen, dient bijzondere aandacht te worden besteed aan:
 
@@ -760,21 +785,21 @@ Onder „de beste beschikbare technieken" wordt verstaan de laatste ontwikkeling
 
 - e. de aard en de omvang van de lozingen en emissies in kwestie.
 
-#### 3
+##### 3
 
 Hieruit volgt derhalve dat datgene wat in een bepaald procédé „de beste beschikbare techniek" is, in de loop van de tijd zal evolueren, naar gelang de technologische vooruitgang, economische en sociale factoren, alsook veranderingen in wetenschappelijke kennis en inzicht.
 
-#### 4
+##### 4
 
 Indien de vermindering van lozingen en emissies ten gevolge van de toepassing van de beste beschikbare technieken niet leidt tot voor het milieu aanvaardbare resulaten, dienen aanvullende maatregelen te worden toegepast.
 
-#### 5
+##### 5
 
 Onder „technieken" wordt mede verstaan zowel de toegepaste techniek, als de wijze waarop de inrichting wordt ontworpen, gebouwd, onderhouden, geëxploiteerd en ontmanteld.
 
 ## BESTE MILIEUPRAKTIJK
 
-#### 6
+##### 6
 
 Onder „beste milieupraktijk" wordt verstaan de toepassing van de meest geschikte combinatie van milieumaatregelen en -strategieën. Bij het maken van een keuze in afzonderlijke gevallen dient ten minste de onderstaande reeks steeds verder gaande maatregelen in aanmerking te worden genomen:
 
@@ -796,7 +821,7 @@ Onder „beste milieupraktijk" wordt verstaan de toepassing van de meest geschik
 
 - i. het invoeren van een vergunningenstelsel, dat mede een reeks beperkingen of een totaal verbod omvat.
 
-#### 7
+##### 7
 
 Bij de vaststelling welke combinatie van maatregelen in het algemeen of in een bepaald geval de beste milieupraktijk vormt, dient in het bijzonder aandacht te worden besteed aan:
 
@@ -814,15 +839,15 @@ Bij de vaststelling welke combinatie van maatregelen in het algemeen of in een b
 
 - g. sociale en economische gevolgen.
 
-#### 8
+##### 8
 
 Hieruit volgt derhalve dat datgene wat voor een bepaalde bron „de beste milieupraktijk" is, in de loop van de tijd zal evolueren, naar gelang de technologische vooruitgang, economische en sociale factoren, alsook veranderingen in wetenschappelijke kennis en inzicht.
 
-#### 9
+##### 9
 
 Indien de vermindering van het inbrengen van stoffen ten gevolge van de toepassing van de beste milieupraktijk niet leidt tot voor het milieu aanvaardbare resultaten, dienen aanvullende maatregelen te worden toegepast en dient de beste milieupraktijk opnieuw te worden gedefinieerd.
 
-#### 1
+##### 1
 
 Bij het stellen van prioriteiten en het beoordelen van de aard en de reikwijdte van programma's en maatregelen, en de termijnen daarvoor, dienen de Verdragsluitende Partijen de onderstaande criteria te hanteren:
 
@@ -850,11 +875,11 @@ Bij het stellen van prioriteiten en het beoordelen van de aard en de reikwijdte 
 
 - l. het niet verwezenlijken van de doelstellingen betreffende de kwaliteit van het milieu.
 
-#### 2
+##### 2
 
 Deze criteria zijn niet noodzakelijkerwijs alle van even groot belang bij de bestudering van een bepaalde stof of groep stoffen.
 
-#### 3
+##### 3
 
 Bovenstaande criteria geven aan dat tot de stoffen waarvoor programma's en maatregelen moeten worden opgesteld, behoren:
 
@@ -876,7 +901,7 @@ Bovenstaande criteria geven aan dat tot de stoffen waarvoor programma's en maatr
 
 ## Criteria voor de vaststelling van menselijke activiteiten voor de toepassing van Bijlage V
 
-#### 1
+##### 1
 
 De te hanteren criteria, rekening houdend met regionale verschillen, voor de vaststelling van menselijke activiteiten voor de toepassing van Bijlage V zijn:
 
@@ -888,7 +913,7 @@ De te hanteren criteria, rekening houdend met regionale verschillen, voor de vas
 
 - d. onomkeerbaarheid of duurzaamheid van deze gevolgen.
 
-#### 2
+##### 2
 
 Deze criteria zijn niet noodzakelijkerwijs uitputtend of alle van even groot belang bij de bestudering van een specifieke activiteit.
 

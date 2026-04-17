@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregels meldplicht geweld tussen cliënten"
+title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport en de Minister van Veiligheid en Justitie van 2 augustus 2017, kenmerk MC-U-165460, houdende de vaststelling van beleidsregels inzake de meldplicht geweld tussen cliënten"
 identifier: "BWBR0039884"
-categorie: "Bestuursrecht"
-publicatiedatum: 2017-08-16
-laatste_update: 2017-08-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039884"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2017-08-16"
+last_updated: "2017-08-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039884"
+soort: "beleidsregel"
+stam_id: "14130453"
+version_id: "24300742"
+internal_id: "C34884311"
+label_id: "14091464"
+dtd_version: "2.0"
+original_entry_into_force: "2017-08-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039884/2017-08-16/0"
+intitule_bron: "Stcrt.2017-46305"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-08-02"
+intitule_published: "2017-08-15"
+intitule_in_force: "2017-08-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-46305"
+original_signed_date: "2017-08-02"
+original_published_date: "2017-08-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-46305"
+entry_into_force_date: "2017-08-16"
+jci_1_3: "jci1.3:c:BWBR0039884&z=2017-08-16&g=2017-08-16"
+jci_1_0: "1.0:c:BWBR0039884&g=2017-08-16"
+citeertitel_status: "officieel"
+short_title: "Beleidsregels meldplicht geweld tussen cliënten"
+signed_date: "2017-08-02"
+entry_into_force: "2017-08-16"
 ---
-
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport en de Minister van Veiligheid en Justitie van 2 augustus 2017, kenmerk MC-U-165460, houdende de vaststelling van beleidsregels inzake de meldplicht geweld tussen cliënten
 
 Gelet op [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81), [artikel 24, vijfde lid, van de Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=24) en [artikel 9.2, vierde lid, van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=9.2);

@@ -1,24 +1,50 @@
 ---
-title: "Instellingsbesluit Taskforce internationale misdrijven"
+title: "Besluit van de Staatssecretaris van Veiligheid en Justitie van 9 december 2011, nr. 5719823/11 houdende instelling van de Taskforce internationale misdrijven (Instellingsbesluit Taskforce internationale misdrijven)"
 identifier: "BWBR0030861"
-categorie: "Overig"
-publicatiedatum: 2011-12-21
-laatste_update: 2011-12-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030861"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2011-12-21"
+last_updated: "2011-12-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030861"
+soort: "ministeriele-regeling"
+stam_id: "11549883"
+version_id: "19034952"
+internal_id: "C26550921"
+label_id: "11523074"
+dtd_version: "2.0"
+original_entry_into_force: "2011-12-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030861/2011-12-21/0"
+intitule_bron: "Stcrt.2011-22964"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-12-09"
+intitule_published: "2011-12-20"
+intitule_in_force: "2011-12-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-22964"
+original_signed_date: "2011-12-09"
+original_published_date: "2011-12-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-22964"
+entry_into_force_date: "2011-12-21"
+jci_1_3: "jci1.3:c:BWBR0030861&z=2011-12-21&g=2011-12-21"
+jci_1_0: "1.0:c:BWBR0030861&g=2011-12-21"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Taskforce internationale misdrijven"
+signed_date: "2011-12-09"
+entry_into_force: "2011-12-21"
 ---
-
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 9 december 2011, nr. 5719823/11 houdende instelling van de Taskforce internationale misdrijven (Instellingsbesluit Taskforce internationale misdrijven)
 
 Handelende in overeenstemming met de ministers van Buitenlandse Zaken en voor Immigratie en Asiel;
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Er is een Taskforce internationale misdrijven, hierna te noemen: de Taskforce.
 
-#### Artikel 2
+##### Artikel 2
 
 De Taskforce levert een bijdrage aan het bereiken van de volgende doelstellingen:
 
@@ -36,7 +62,7 @@ De Taskforce levert een bijdrage aan het bereiken van de volgende doelstellingen
 
 - 7. identificeren en activeren van overige (rechts)middelen die dienstbaar kunnen zijn voor het verwezenlijken van de missie dat Nederland geen veilige haven mag zijn voor verdachten van deze misdrijven.
 
-#### Artikel 3
+##### Artikel 3
 
 De Taskforce heeft tot taak:
 
@@ -54,7 +80,7 @@ De Taskforce heeft tot taak:
 
 - •. het informeren van de Staatssecretaris van Veiligheid en Justitie, de Minister van Buitenlandse Zaken en de Minister voor Immigratie en Asiel over de voortgang van de werkzaamheden van de Taskforce, eenmaal per jaar, voorafgaand aan het opstellen van de jaarlijkse rapportagebrief internationale misdrijven.
 
-#### Artikel 4
+##### Artikel 4
 
 De Taskforce bestaat uit de volgende leden:
 
@@ -74,27 +100,27 @@ De Taskforce bestaat uit de volgende leden:
 
 - −. mr. H.P. Heida, directeur Migratiebeleid en Besturing Vreemdelingenketen van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, agendalid.
 
-#### Artikel 5
+##### Artikel 5
 
 De Taskforce wordt bijgestaan door eenambtelijk secretaris, werkzaam bij het Openbaar Ministerie, die onder toezicht van de voorzitter de dagelijkse coördinatie, de agendasamenstelling en de logistiek verzorgt.
 
-#### Artikel 6
+##### Artikel 6
 
 Voor zover dat voor de verwezenlijking van zijn taak noodzakelijk is, kan de Taskforce een beroep doen op deskundigen van binnen en buiten de organisaties.
 
-#### Artikel 7
+##### Artikel 7
 
 De Taskforce wordt ingesteld voor de duur van twee jaren gerekend vanaf 1 januari 2012.
 
-#### Artikel 8
+##### Artikel 8
 
 De archiefbescheiden van de Taskforce worden na haar opheffing of, zo de omstandigheden daartoe eerder aanleiding geven, zoveel eerder, overgebracht naar het archief van het ministerie van Veiligheid en Justitie.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Taskforce internationale misdrijven.
 

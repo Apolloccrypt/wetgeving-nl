@@ -1,20 +1,42 @@
 ---
 title: "Overeenkomst inzake het onderhoud van de Worm en de daartoe behorende kunstwerken in het Nederlands-Duitse grensgebied"
 identifier: "BWBV0006105"
-categorie: "Internationaal recht"
-publicatiedatum: 1994-01-06
-laatste_update: 1994-01-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006105"
+country: "nl"
+rank: "verdrag"
+publication_date: "1994-01-06"
+last_updated: "1994-01-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006105"
+soort: "verdrag"
+stam_id: "10005035433"
+version_id: "10005362432"
+internal_id: "C10008255751"
+label_id: "10005018434"
+dtd_version: "2.0"
+original_entry_into_force: "1994-01-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006105/1994-01-06/0"
+intitule_bron: "Trb.1993-165"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1993-11-16"
+intitule_in_force: "2013-02-06"
+intitule_status: "goed"
+original_publication: "Trb.1993-165"
+original_published_date: "1993-11-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1993-165"
+entry_into_force_date: "1994-01-06"
+jci_1_3: "jci1.3:c:BWBV0006105&z=1994-01-06&g=1994-01-06"
+jci_1_0: "1.0:c:BWBV0006105&g=1994-01-06"
+citeertitel_status: "redactioneel"
+entry_into_force: "1994-01-06"
 ---
-
 # Overeenkomst inzake het onderhoud van de Worm en de daartoe behorende kunstwerken in het Nederlands-Duitse grensgebied
 
 Het Wasserverband Obere Wurm, gevestigd te Aken, vertegenwoordigd door de voorzitter Dr. Berger en het Wasserverband Mittlere Wurm, gevestigd te Geilenkirchen, vertegenwoordigd door de voorzitter de Heer Houben, enerzijds, en het Waterschap Roer en Overmaas, gevestigd te Sittard, vertegenwoordigd door de plaatsvervangende voorzitter W. Bos, anderzijds, verder Partijen genoemd,
 
 sluiten, gelet op [Hoofdstuk 4, artikel 59, lid 2, van het op 8 april 1960 tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland gesloten Grensverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005042&artikel=59), de volgende Overeenkomst:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Partijen verbinden zich - onverlet de plichten van derden - de Worm te onderhouden voor wat betreft de op de bijgevoegde overzichtskaart aangeduide beekgedeelten. Daarbij dient in de niet verbeterde beekgedeelten de natuurlijke staat van de watergang in de toekomst te worden behouden voor zover zij geen bedreiging vormt voor infrastructuur, leidingen en gebouwen. Het hydraulisch afvoerprofiel dient vrijgehouden te worden.
 
@@ -22,7 +44,7 @@ sluiten, gelet op [Hoofdstuk 4, artikel 59, lid 2, van het op 8 april 1960 tusse
 
 De overzichtskaart - schaal 1 : 10.000 - maakt deel uit van deze Overeenkomst ([Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006105&bijlage=1&z=1994-01-06&g=1994-01-06)).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het onderhoud omvat:
 
@@ -34,11 +56,11 @@ De overzichtskaart - schaal 1 : 10.000 - maakt deel uit van deze Overeenkomst ([
 
 3. Afvoerobstakels, welke tot schade aan de waterbodem, de taluds en de kunstwerken, dan wel tot ongewenste wijzigingen van het beekverloop, kunnen leiden, dienen onverwijld door de onderhoudsplichtigen te worden opgeruimd.
 
-#### Artikel 3
+##### Artikel 3
 
 Het tijdstip van het uitvoeren van de vastgelegde onderhoudswerkzaamheden dient met de bevoegde instanties te worden afgestemd.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Voor de op de overzichtskaart aangegeven grensvormende beekgedeelten en kunstwerken is onderhoudsplichtig:
 
@@ -58,7 +80,7 @@ Het tijdstip van het uitvoeren van de vastgelegde onderhoudswerkzaamheden dient 
 
 2. Partijen verplichten zich, in haar gebied bij de bevoegde instanties te bewerkstelligen dat de niet door haar te onderhouden werken in en aan de watergang door daartoe verplichte derden worden onderhouden.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Voor het toezicht op het onderhoud wordt een schouwcommissie van vier leden gevormd. Zij bestaat uit twee vertegenwoordigers van het Waterschap Roer en Overmaas en één vertegenwoordiger van het Wasserverband Obere Wurm en één van het Wasserverband Mittlere Wurm.
 
@@ -88,17 +110,17 @@ De partijen, de toezichthoudende organen, alsmede het Staatliches Amt für Wasse
 
 Dit geldt ook voor de uitvoering van de onderhoudswerkzaamheden.
 
-#### Artikel 6
+##### Artikel 6
 
 Wijzigingen in de Overeenkomst behoeven de goedkeuring van de Regeringen van het Koninkrijk der Nederlanden en van de Bondsrepubliek Duitsland.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De Overeenkomst wordt gesloten voor de tijdsduur van tien jaren. Wordt zij niet drie jaren voor de expiratiedatum opgezegd, dan wordt zij geacht stilzwijgend te zijn verlengd met telkens tien jaren.
 
 2. De opzegging dient te geschieden bij aangetekend schrijven.
 
-#### Artikel 8
+##### Artikel 8
 
 De Overeenkomst behoeft de goedkeuring van de regeringen van het Koninkrijk der Nederlanden en van de Bondsrepubliek Duitsland. Beide partijen berichten elkaar wederzijds schriftelijk over de vereiste goedkeuring.
 

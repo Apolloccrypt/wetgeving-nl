@@ -1,13 +1,35 @@
 ---
 title: "Beleidsregel criteria verduurzamingsloket gewasbeschermingsmiddelen Ctgb"
 identifier: "BWBR0049140"
-categorie: "Overig"
-publicatiedatum: 2023-12-30
-laatste_update: 2023-12-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049140"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-12-30"
+last_updated: "2023-12-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049140"
+soort: "zbo"
+stam_id: "16980013"
+version_id: "29852402"
+internal_id: "C42794541"
+label_id: "16890414"
+dtd_version: "2.0"
+original_entry_into_force: "2023-12-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049140/2023-12-30/0"
+intitule_bron: "Stcrt.2023-35056"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2023-12-29"
+intitule_in_force: "2023-12-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-35056"
+original_published_date: "2023-12-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-35056"
+entry_into_force_date: "2023-12-30"
+jci_1_3: "jci1.3:c:BWBR0049140&z=2023-12-30&g=2023-12-30"
+jci_1_0: "1.0:c:BWBR0049140&g=2023-12-30"
+citeertitel_status: "redactioneel"
+entry_into_force: "2023-12-30"
 ---
-
 # Beleidsregel criteria verduurzamingsloket gewasbeschermingsmiddelen Ctgb
 
 ### Beleidsregel van het College voor de toelating van gewasbeschermingsmiddelen en biociden van 1 januari 2024, inzake de inrichting van een verduurzamingsloket
@@ -18,7 +40,7 @@ Gelet op de [beleidsregel toelatingsprocedure gewasbeschermingsmiddelen en bioci
 
 Besluit:
 
-#### Artikel 1. Begrippen
+##### Artikel 1. Begrippen
 
 Voor de toepassing van deze beleidsregel wordt verstaan onder:
 
@@ -48,7 +70,7 @@ Voor de toepassing van deze beleidsregel wordt verstaan onder:
 
 - m. **Werkzame stof:** werkzame stof als bedoeld in artikel 2, tweede lid, van [Verordening (EG) Nr. 1107/2009](32009R1107).
 
-#### Artikel 2. Criteria voor afhandeling via het verduurzamingsloket
+##### Artikel 2. Criteria voor afhandeling via het verduurzamingsloket
 
 1. Deze beleidsregel geeft invulling aan de wijze waarop het Ctgb bepaalt of een aanvraag voor toelating van een gewasbeschermingsmiddel versneld in behandeling wordt genomen, zoals bedoeld in de [beleidsregel toelatingsprocedure gewasbeschermingsmiddelen en biociden Ctgb 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049176).
 
@@ -74,7 +96,7 @@ Voor de toepassing van deze beleidsregel wordt verstaan onder:
 
 - b. op de werkzame stof geen enkele van de classificaties van toepassing is die genoemd worden in Bijlage II, punt 5.1.1, aanhef en onder a van [Verordening (EG) nr. 1107/2009](32009R1107). Hierbij leidt zowel een classificatie als acuut toxisch voor in het water levende organismen, als een classificatie als chronisch toxisch voor in het water levende organismen tot uitsluiting van behandeling via het verduurzamingsloket.
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 1. Deze beleidsregel wordt met toelichting in de Staatscourant geplaatst.
 

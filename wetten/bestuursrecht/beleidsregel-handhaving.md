@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel handhaving"
+title: "Besluit van het college van toezicht van de Nederlandse orde van advocaten van 29 september 2025 tot vaststelling van de beleidsregel handhaving"
 identifier: "BWBR0051823"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051823"
+country: "nl"
+rank: "pbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051823"
+soort: "pbo"
+stam_id: "17614303"
+version_id: "31096192"
+internal_id: "C44516231"
+label_id: "17514644"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051823/2026-01-01/0"
+intitule_bron: "Stcrt.2025-38893"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-09-29"
+intitule_published: "2025-11-25"
+intitule_in_force: "2025-11-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-38893"
+original_signed_date: "2025-09-29"
+original_published_date: "2025-11-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-38893"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051823&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051823&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel handhaving"
+signed_date: "2025-09-29"
+entry_into_force: "2026-01-01"
 ---
-
 # Besluit van het college van toezicht van de Nederlandse orde van advocaten van 29 september 2025 tot vaststelling van de beleidsregel handhaving
 
 gelet op [artikel 45h van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=45h);
@@ -22,11 +48,11 @@ het college van toezicht op grond van [artikel 45h van de Advocatenwet](https://
 
 besluit:
 
-#### Artikel I. Beleidsregel handhaving
+##### Artikel I. Beleidsregel handhaving
 
 De beleidsregel handhaving, zoals opgenomen in de bijlage behorende bij dit artikel, wordt vastgesteld.
 
-#### Artikel II. Inwerkingtreding
+##### Artikel II. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van 1 januari 2026 en wordt aangehaald als ‘beleidsregel handhaving’.
 

@@ -1,24 +1,50 @@
 ---
-title: "Begrippencode elektriciteit 2026"
+title: "Besluit van de Autoriteit Consument en Markt van 5 februari 2026, kenmerk ACM/UIT/666112 op grond van artikel 3.121 van de Energiewet en artikel 36 van de Elektriciteitswet 1998 juncto artikel 7.42, tweede lid, van de Energiewet tot goedkeuring en vaststelling van de methoden en voorwaarden over de elektriciteitsbegrippen in de codes (Begrippencode elektriciteit 2026)"
 identifier: "BWBR0052320"
-categorie: "Overig"
-publicatiedatum: 2026-02-21
-laatste_update: 2026-02-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052320"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-02-21"
+last_updated: "2026-02-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052320"
+soort: "zbo"
+stam_id: "17763833"
+version_id: "31398982"
+internal_id: "C44866531"
+label_id: "17661734"
+dtd_version: "2.0"
+original_entry_into_force: "2026-02-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052320/2026-02-21/0"
+intitule_bron: "Stcrt.2026-4088"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2026-02-05"
+intitule_published: "2026-02-20"
+intitule_in_force: "2026-02-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-4088"
+original_signed_date: "2026-02-05"
+original_published_date: "2026-02-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-4088"
+entry_into_force_date: "2026-02-21"
+jci_1_3: "jci1.3:c:BWBR0052320&z=2026-02-21&g=2026-02-21"
+jci_1_0: "1.0:c:BWBR0052320&g=2026-02-21"
+citeertitel_status: "officieel"
+short_title: "Begrippencode elektriciteit 2026"
+signed_date: "2026-02-05"
+entry_into_force: "2026-02-21"
 ---
-
 # Besluit van de Autoriteit Consument en Markt van 5 februari 2026, kenmerk ACM/UIT/666112 op grond van artikel 3.121 van de Energiewet en artikel 36 van de Elektriciteitswet 1998 juncto artikel 7.42, tweede lid, van de Energiewet tot goedkeuring en vaststelling van de methoden en voorwaarden over de elektriciteitsbegrippen in de codes (Begrippencode elektriciteit 2026)
 
 Gelet op [artikel 3.121 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.121);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze code wordt onder balanceringsverantwoordelijke, congestie, distributiesysteembeheerder of transmissiesysteembeheerder telkens verstaan balanceringsverantwoordelijke, congestie, distributiesysteembeheerder, of transmissiesysteembeheerder voor elektriciteit, tenzij anders vermeld.
 
-#### Artikel 2
+##### Artikel 2
 
 In de methoden of voorwaarden, bedoeld in [artikel 3.119 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.119), voor zover deze betrekking hebben op elektriciteit, wordt verstaan onder:
 
@@ -270,15 +296,15 @@ In de methoden of voorwaarden, bedoeld in [artikel 3.119 van de Energiewet](http
 
 - **werkdag:** dag, niet zijnde een zaterdag of een zondag en niet zijnde een algemeen erkende feestdag als bedoeld in [artikel 3, eerste lid, van de Algemene Termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448&artikel=3), noch een in het tweede of krachtens het derde lid van genoemd artikel met een algemeen erkende feestdag gelijkgestelde dag;
 
-#### Artikel 3
+##### Artikel 3
 
 De [Begrippencode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037938) wordt ingetrokken.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit wordt aangehaald als: Begrippencode elektriciteit 2026.
 

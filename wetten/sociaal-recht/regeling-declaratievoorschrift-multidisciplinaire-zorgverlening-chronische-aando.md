@@ -1,26 +1,48 @@
 ---
 title: "Regeling declaratievoorschrift multidisciplinaire zorgverlening chronische aandoeningen (DM type 2, CVR, COPD)"
 identifier: "BWBR0027943"
-categorie: "Sociaal recht"
-publicatiedatum: 2010-07-22
-laatste_update: 2010-07-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027943"
+country: "nl"
+rank: "zbo"
+publication_date: "2010-07-22"
+last_updated: "2010-07-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027943"
+soort: "zbo"
+stam_id: "10615673"
+version_id: "17536092"
+internal_id: "C24264461"
+label_id: "10590584"
+dtd_version: "2.0"
+original_entry_into_force: "2010-07-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027943/2010-07-22/0"
+intitule_bron: "Stcrt.2010-11291"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2010-07-20"
+intitule_in_force: "2010-07-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-11291"
+original_published_date: "2010-07-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-11291"
+entry_into_force_date: "2010-07-22"
+jci_1_3: "jci1.3:c:BWBR0027943&z=2010-07-22&g=2010-07-22"
+jci_1_0: "1.0:c:BWBR0027943&g=2010-07-22"
+citeertitel_status: "redactioneel"
+entry_into_force: "2010-07-22"
 ---
-
 # Regeling declaratievoorschrift multidisciplinaire zorgverlening chronische aandoeningen (DM type 2, CVR, COPD)
 
 Gelet op [artikel 37 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=37) (Wmg);
 
 Heeft de volgende regeling vastgesteld:
 
-#### Artikel 1. Algemeen
+##### Artikel 1. Algemeen
 
 Deze regeling is van toepassing op zorgaanbieders voor zover ze de prestatie Multidisciplinaire zorgverlening voor Diabetes Mellitus type 2 voor personen ≥ 18 jaar (DM type 2), de prestatie Multidisciplinaire zorgverlening voor Cardiovasculair Risicomanagement (CVR) en/of de prestatie Multidisciplinaire zorgverlening voor Chronic Obstructive Pulmonary Disease (COPD) leveren.
 
 Vanaf de datum van inwerkingtreding van deze regeling, eindigt de tot aan die datum geldende regeling Declaratievoorschrift multidisciplinaire zorgverlening chronische aandoeningen (DM type 2, CVR) (regeling CV/NR-100.106).
 
-#### Artikel 2. Begripsbepalingen
+##### Artikel 2. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -58,7 +80,7 @@ De patiënt is ‘in zorg’ indien hij, voor de bij hem/haar bestaande chronisc
 
 De beleidsregel ‘Prestatiebekostiging multidisciplinaire zorgverlening chronische zorgverlening (DM type 2, CVR, COPD)’.
 
-#### Artikel 3. Declaratie
+##### Artikel 3. Declaratie
 
 De declaratie van het tarief omvat twee vergoedingscomponenten:
 
@@ -104,10 +126,10 @@ De zorg die geleverd wordt ten behoeve van de prestaties (de in de overeenkomst 
 
 - •. Het tarief per kwartaal kan door de hoofdcontractant in rekening worden gebracht voor die patiënten die op de eerste dag van dat kwartaal in zorg zijn.
 
-#### Artikel 4. Verplichting
+##### Artikel 4. Verplichting
 
 De verplichting als genoemd in deze regeling is van toepassing op het moment dat sprake is van levering van de prestatie.
 
-#### Artikel 5. Inwerkingtreding
+##### Artikel 5. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij is geplaatst.

@@ -1,20 +1,42 @@
 ---
 title: "Regeling Digitale cultuur 2025–2028"
 identifier: "BWBR0050559"
-categorie: "Overig"
-publicatiedatum: 2026-02-01
-laatste_update: 2026-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050559"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-02-01"
+last_updated: "2026-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050559"
+soort: "zbo"
+stam_id: "17308403"
+version_id: "30484632"
+internal_id: "C43707261"
+label_id: "17212654"
+dtd_version: "2.0"
+original_entry_into_force: "2025-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050559/2026-02-01/0"
+intitule_bron: "Stcrt.2024-40379"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2024-12-10"
+intitule_in_force: "2024-12-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-40379"
+original_published_date: "2024-12-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-40379"
+entry_into_force_date: "2025-01-01"
+jci_1_3: "jci1.3:c:BWBR0050559&z=2026-02-01&g=2026-02-01"
+jci_1_0: "1.0:c:BWBR0050559&g=2026-02-01"
+citeertitel_status: "officieel"
+entry_into_force: "2025-01-01"
 ---
-
 # Regeling Digitale cultuur 2025–2028
 
 Het bestuur van de stichting Stimuleringsfonds Creatieve Industrie, gelet op [artikel 10, vierde lid van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10), besluit vast te stellen de navolgende regeling, houdende regels voor het verstrekken van subsidies aan makers en partijen voor de uitvoering van projecten ter bevordering van de kwaliteit van de creatieve industrie.
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1. Begrippen
+##### Artikel 1. Begrippen
 
 De in deze regeling gebruikte begrippen hebben dezelfde betekenis als in de [Regeling op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597). Specifiek binnen deze regeling wordt verstaan onder:
 
@@ -64,7 +86,7 @@ De in deze regeling gebruikte begrippen hebben dezelfde betekenis als in de [Reg
 
 - 23. **vervolgaanvraag:** een subsidieaanvraag voor een project dat direct voortkomt uit een vooronderzoek of startfase, waarvoor een subsidie is verleend door het Stimuleringsfonds op grond van de [Startregeling creatieve industrie](https://wetten.overheid.nl/jci1.3:c:BWBR0050543) of op grond van een verleende startsubsidie in de jaren 2023 of 2024.
 
-#### Artikel 2. Taakopvatting Stimuleringsfonds
+##### Artikel 2. Taakopvatting Stimuleringsfonds
 
 1. De taak van het Stimuleringsfonds is om, vanuit het culturele perspectief, de rijke ontwerptraditie die Nederland heeft te continueren en te vernieuwen door het proces van experimenteren, onderzoeken en maken te stimuleren en goed opdrachtgeverschap te bevorderen.
 
@@ -72,7 +94,7 @@ De in deze regeling gebruikte begrippen hebben dezelfde betekenis als in de [Reg
 
 ### Hoofdstuk 2. Algemene bepalingen
 
-#### Artikel 3. Reikwijdte en doelstellingen Regeling Digitale cultuur
+##### Artikel 3. Reikwijdte en doelstellingen Regeling Digitale cultuur
 
 1. Op grond van deze regeling kan het Stimuleringsfonds projecten van ontwerpers, beschouwers, ontwerpbureaus of culturele instellingen subsidiëren met een subsidiebehoefte vanaf € 10.000 tot maximaal € 50.000. Hierbij geldt:
 
@@ -88,13 +110,13 @@ De in deze regeling gebruikte begrippen hebben dezelfde betekenis als in de [Reg
 
 - b. Stimuleren van experiment, onderzoek, reflectie en debat.
 
-#### Artikel 4. Subsidieplafond
+##### Artikel 4. Subsidieplafond
 
 1. Een subsidie wordt altijd verleend onder de voorwaarde dat door het Ministerie van Onderwijs, Cultuur en Wetenschap voldoende gelden aan het Stimuleringsfonds ter beschikking worden gesteld.
 
 2. Het subsidieplafond wordt per subsidietijdvak bekendgemaakt op [www.stimuleringsfonds.nl](http://www.stimuleringsfonds.nl/) en in de Staatscourant.
 
-#### Artikel 5. Procedure indienen en toetsing van aanvragen
+##### Artikel 5. Procedure indienen en toetsing van aanvragen
 
 Het proces van indienen van een aanvraag op grond van deze regeling kent twee fases, met elk een eigen toetsingsmoment.
 
@@ -134,7 +156,7 @@ Het proces van indienen van een aanvraag op grond van deze regeling kent twee fa
 
 - e. De onafhankelijke adviescommissie adviseert het bestuur aan welke aanvragers subsidie wordt toegekend op basis van de beoordelingscriteria omschreven in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0050559&hoofdstuk=4&artikel=10&z=2026-02-01&g=2026-02-01).
 
-#### Artikel 6. Ingangseisen
+##### Artikel 6. Ingangseisen
 
 Aanvragen die op grond van deze regeling worden ingediend, worden getoetst aan de volgende ingangseisen.
 
@@ -178,7 +200,7 @@ Aanvragen die op grond van deze regeling worden ingediend, worden getoetst aan d
 
 - 4. Een aanvrager kan per kalenderjaar niet meer dan één keer subsidie ontvangen op grond van deze regeling. Hierbij geldt een uitzondering voor uitgevers en producenten.
 
-#### Artikel 7. Voorwaarden
+##### Artikel 7. Voorwaarden
 
 De op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0050559&hoofdstuk=2&artikel=5&z=2026-02-01&g=2026-02-01) tweede lid aangevulde aanvragen worden getoetst aan onderstaande voorwaarden.
 
@@ -256,7 +278,7 @@ De op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0050559&hoof
 
 ### Hoofdstuk 3. Subsidieaanvraag
 
-#### Artikel 8. Inhoud van de aanvraag
+##### Artikel 8. Inhoud van de aanvraag
 
 1. Voor fase I wordt een beknopte aanvraag ingediend. Vormvereisten en richtlijnen staan beschreven in de Handleiding voorbereiding subsidieaanvraag Digitale cultuur, hierbij geldt de versie zoals gepubliceerd op de website van het Stimuleringsfonds op de datum waarop het subsidietijdvak wordt opengesteld.
 
@@ -302,7 +324,7 @@ Een aanvraag voor fase II bestaat uit:
 
 ### Hoofdstuk 4. Subsidieverlening
 
-#### Artikel 9. Procedure inhoudelijke behandeling aanvragen
+##### Artikel 9. Procedure inhoudelijke behandeling aanvragen
 
 1. Aanvragen die zijn ingediend in fase II, compleet zijn en voldoen aan de ingangseisen en voorwaarden, worden ter advisering voorgelegd aan een adviescommissie.
 
@@ -316,7 +338,7 @@ Een aanvraag voor fase II bestaat uit:
 
 6. Het bestuur besluit op basis van het advies van de adviescommissie over het al dan niet toekennen van de subsidie.
 
-#### Artikel 10. Beoordeling
+##### Artikel 10. Beoordeling
 
 1. De adviescommissie hanteert bij de beoordeling van een aanvraag voor een projectsubsidie de onderstaande criteria, die in gelijke mate worden gewogen.
 
@@ -344,7 +366,7 @@ Een aanvraag voor fase II bestaat uit:
 
 4. Als aanvragen op basis van de gemiddelde eindscore gelijk eindigen op de ranglijst en het subsidieplafond wordt met deze aanvragen overschreden, dan wordt tussen deze aanvragen onderling prioriteit gegeven aan het voorstel dat het hoogst wordt gewaardeerd op criterium a, zoals genoemd in het eerste lid, als deze score gelijk is wordt er gekeken naar de score op criterium b, vervolgens naar c, d en e.
 
-#### Artikel 11. Verlening van een subsidie
+##### Artikel 11. Verlening van een subsidie
 
 1. Het bestuur informeert de aanvrager binnen elf weken na de uiterlijke indiendatum van fase II schriftelijk over zijn besluit.
 
@@ -354,13 +376,13 @@ Een aanvraag voor fase II bestaat uit:
 
 4. Aan het verlenen van een subsidie kunnen door de ontvanger geen rechten worden ontleend met betrekking tot een volgende aanvraag.
 
-#### Artikel 12. Voorschotten
+##### Artikel 12. Voorschotten
 
 Het Stimuleringsfonds betaalt in het geval van een toekenning bij wijze van voorschot 80% van het toegekende bedrag uit. Het resterende deel wordt uitbetaald na het besluit tot vaststelling van de subsidie.
 
 ### Hoofdstuk 5. Verplichtingen van de subsidieontvanger
 
-#### Artikel 13. Administratie
+##### Artikel 13. Administratie
 
 1. De subsidieontvanger voert een zodanig ingerichte administratie dat daaruit te allen tijde de voor de vaststelling van de subsidie van belang zijnde rechten en verplichtingen evenals de baten en lasten kunnen worden nagegaan.
 
@@ -368,11 +390,11 @@ Het Stimuleringsfonds betaalt in het geval van een toekenning bij wijze van voor
 
 3. De subsidieontvanger bewaart de administratie en de bijbehorende documenten gedurende zeven jaren na het vaststellen van de subsidie.
 
-#### Artikel 14. Vermelding Stimuleringsfonds
+##### Artikel 14. Vermelding Stimuleringsfonds
 
 In alle publieke uitingen over de gesubsidieerde activiteiten vermeldt de subsidieontvanger het Stimuleringsfonds Creatieve Industrie als subsidieverstrekker. Het logo van het Stimuleringsfonds wordt opgenomen in publicaties en verslagen die betrekking hebben op de gesubsidieerde activiteiten, net als op uitnodigingen, aankondigingen, websites en audiovisuele producties die hierop betrekking hebben. Als een subsidieontvanger logo’s opneemt van andere partijen, dan wordt in verhouding tot de bijdrage het logo van het Stimuleringsfonds in een vergelijkbare grootte en opmaak weergegeven.
 
-#### Artikel 15. Melding bij het Stimuleringsfonds
+##### Artikel 15. Melding bij het Stimuleringsfonds
 
 Als een van de onderstaande situaties zich voordoet, brengt de subsidieontvanger het bestuur daarvan direct op de hoogte:
 
@@ -386,7 +408,7 @@ Als een van de onderstaande situaties zich voordoet, brengt de subsidieontvanger
 
 ### Hoofdstuk 6. Subsidievaststelling
 
-#### Artikel 16. Vaststelling
+##### Artikel 16. Vaststelling
 
 1. Uiterlijk zestien weken na de looptijd van het project wordt een aanvraag tot vaststelling ingediend door de subsidieontvanger via de aanvraagomgeving van het Stimuleringsfonds. Hiervoor wordt het verantwoordingsformulier gebruikt.
 
@@ -398,7 +420,7 @@ Als een van de onderstaande situaties zich voordoet, brengt de subsidieontvanger
 
 5. Specifiek voor onderzoeksprojecten geldt dat de subsidieontvanger kan worden gevraagd om in het kader van kennisdeling en -opbouw een publieksversie van het onderzoeksrapport op te stellen. Hierin worden de belangrijkste resultaten en inzichten gedeeld, zodat deze met vakgenoten en andere belanghebbende en belangstellende partijen kunnen worden uitgewisseld.
 
-#### Artikel 17. Verantwoording bij subsidies tussen de € 10.000 en € 25.000
+##### Artikel 17. Verantwoording bij subsidies tussen de € 10.000 en € 25.000
 
 1. De subsidieontvanger toont aan de hand van het verantwoordingsformulier aan dat de activiteiten waarvoor de subsidie is verleend zijn verricht en dat is voldaan aan de aan de subsidie verbonden verplichtingen.
 
@@ -410,7 +432,7 @@ Als een van de onderstaande situaties zich voordoet, brengt de subsidieontvanger
 
 - c. indien van toepassing, wat het totale bedrag van de gerealiseerde eigen bijdrage is.
 
-#### Artikel 18. Verantwoording bij subsidies tussen de € 25.000 en € 50.000
+##### Artikel 18. Verantwoording bij subsidies tussen de € 25.000 en € 50.000
 
 1. De subsidieontvanger toont aan de hand van het verantwoordingsformulier aan dat de activiteiten waarvoor de subsidie is verleend zijn verricht en dat is voldaan aan de aan de subsidie verbonden verplichtingen.
 
@@ -424,11 +446,11 @@ Als een van de onderstaande situaties zich voordoet, brengt de subsidieontvanger
 
 ### Hoofdstuk 7. Slotbepalingen
 
-#### Artikel 19. Bezwaar
+##### Artikel 19. Bezwaar
 
 Een belanghebbende kan bezwaar maken tegen een besluit van het bestuur dat wordt genomen op grond van deze regeling door een bezwaarschrift in te dienen bij het bestuur. De termijn voor het indienen van een bezwaarschrift bedraagt zes weken. De termijn vangt aan op de dag nadat het besluit is bekendgemaakt. De procedure voor bezwaren is gepubliceerd op [www.stimuleringsfonds.nl](http://www.stimuleringsfonds.nl).
 
-#### Artikel 20. Bescherming persoonsgegevens en [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376)
+##### Artikel 20. Bescherming persoonsgegevens en [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376)
 
 1. Het Stimuleringsfonds verstrekt geen vertrouwelijke informatie omtrent onder meer bedrijfs- en fabricagegegevens aan derden.
 
@@ -436,11 +458,11 @@ Een belanghebbende kan bezwaar maken tegen een besluit van het bestuur dat wordt
 
 3. Als Zelfstandig Bestuursorgaan (zbo) valt het Stimuleringsfonds onder de [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376). Aanvraagdossiers worden na het verstrijken van de daarvoor bepaalde termijn overgedragen aan het Nationaal Archief. Aanvraagdossiers worden in dat geval gekwalificeerd als ‘beperkt openbare’ documenten.
 
-#### Artikel 21. Hardheidsclausule
+##### Artikel 21. Hardheidsclausule
 
 Het bestuur kan in uitzonderlijke gevallen ten gunste van de belanghebbende van bepalingen in deze regeling afwijken, als toepassing daarvan leidt tot onbillijkheid van overwegende aard.
 
-#### Artikel 22. Inwerkingtreding en expiratie
+##### Artikel 22. Inwerkingtreding en expiratie
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2025.
 
@@ -448,7 +470,7 @@ Het bestuur kan in uitzonderlijke gevallen ten gunste van de belanghebbende van 
 
 3. Deze regeling vervalt met ingang van 1 januari 2029 met dien verstande dat zij van toepassing blijft op de afwikkeling van de op basis van deze regeling verleende subsidies.
 
-#### Artikel 23. Citeertitel
+##### Artikel 23. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling Digitale cultuur 2025–2028
 

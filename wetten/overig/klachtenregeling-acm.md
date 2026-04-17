@@ -1,20 +1,46 @@
 ---
-title: "Klachtenregeling ACM"
+title: "Besluit van de Autoriteit Consument en Markt van 2 mei 2013, ACM/DJZ/2013/200952, tot vaststelling van nadere regels voor de behandeling van klachten (Klachtenregeling ACM)"
 identifier: "BWBR0033506"
-categorie: "Overig"
-publicatiedatum: 2013-06-13
-laatste_update: 2013-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033506"
+country: "nl"
+rank: "zbo"
+publication_date: "2013-06-13"
+last_updated: "2013-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033506"
+soort: "zbo"
+stam_id: "12279433"
+version_id: "20562592"
+internal_id: "C28914051"
+label_id: "12250814"
+dtd_version: "2.0"
+original_entry_into_force: "2013-06-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033506/2013-06-13/0"
+intitule_bron: "Stcrt.2013-15565"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-05-02"
+intitule_published: "2013-06-12"
+intitule_in_force: "2013-06-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-15565"
+original_signed_date: "2013-05-02"
+original_published_date: "2013-06-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-15565"
+entry_into_force_date: "2013-06-13"
+jci_1_3: "jci1.3:c:BWBR0033506&z=2013-06-13&g=2013-06-13"
+jci_1_0: "1.0:c:BWBR0033506&g=2013-06-13"
+citeertitel_status: "officieel"
+short_title: "Klachtenregeling ACM"
+signed_date: "2013-05-02"
+entry_into_force: "2013-06-13"
 ---
-
 # Besluit van de Autoriteit Consument en Markt van 2 mei 2013, ACM/DJZ/2013/200952, tot vaststelling van nadere regels voor de behandeling van klachten (Klachtenregeling ACM)
 
 Gelet op [artikel 4:4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:4) en [Titel 9.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=9.1);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -24,11 +50,11 @@ In dit besluit wordt verstaan onder:
 
 - c. **klachtenfunctionaris:** de klachtenfunctionaris, als bedoeld in artikel 4.11 van het Besluit organisatie, mandaat, volmacht en machtiging ACM 2013.
 
-#### Artikel 2
+##### Artikel 2
 
 De klachtenfunctionaris is belast met het behandelen van klachten en het adviseren van ACM over de te nemen beslissingen op die klachten.
 
-#### Artikel 3
+##### Artikel 3
 
 1. ACM benoemt en ontslaat de klachtenfunctionaris.
 
@@ -38,7 +64,7 @@ De klachtenfunctionaris is belast met het behandelen van klachten en het adviser
 
 4. De voorgaande leden zijn van overeenkomstige toepassing op de plaatsvervanger van klachtenfunctionaris.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Schriftelijke klachten kunnen rechtstreeks worden ingediend bij:
 
@@ -54,7 +80,7 @@ Postbus 16326
 
 4. De klachtenfunctionaris bevordert zo nodig dat een mondelinge klacht op schrift wordt gesteld.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Zo spoedig mogelijk na ontvangst van een klacht start de klachtenfunctionaris een onderzoek.
 
@@ -62,13 +88,13 @@ Postbus 16326
 
 3. Medewerkers van de ACM-organisatie zijn verplicht desgevraagd aan het onderzoek hun medewerking te verlenen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De klachtenfunctionaris kan bepalen dat een klacht in aanmerking komt voor een informele afhandeling.
 
 2. Bij een informele afhandeling tracht de klachtenfunctionaris door overleg of bemiddeling dan wel op andere wijze tot een oplossing te komen. De klachtenfunctionaris neemt daartoe contact op met de klager.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De klachtenfunctionaris gaat vertrouwelijk om met informatie die hij verneemt tijdens de behandeling van een klacht.
 
@@ -76,15 +102,15 @@ Postbus 16326
 
 3. Cijfermatige informatie over en een zakelijke weergave van schriftelijke klachten worden in geanonimiseerde vorm opgenomen in het jaarverslag van ACM onder vermelding van de wijze van afdoening.
 
-#### Artikel 8
+##### Artikel 8
 
 Het [Besluit klachtenfunctionaris NMa](https://wetten.overheid.nl/jci1.3:c:BWBR0033273) (Stcrt. 2001, nr. 173, laatst gewijzigd in Stcrt. 2011, nr. 88), de [Klachtregeling OPTA](https://wetten.overheid.nl/jci1.3:c:BWBR0033143) (Stcrt. 2006, nr. 25) en het [Besluit klachtenfunctionaris Consumentenautoriteit](https://wetten.overheid.nl/jci1.3:c:BWBR0033505) (Stcrt. 2007, nr. 3, laatst gewijzigd in Stcrt. 2011, nr. 4790) worden ingetrokken.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 april 2013.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit wordt aangehaald als: Klachtenregeling ACM.
 

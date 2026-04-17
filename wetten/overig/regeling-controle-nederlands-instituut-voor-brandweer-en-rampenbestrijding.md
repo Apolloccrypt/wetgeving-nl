@@ -1,34 +1,58 @@
 ---
 title: "Regeling controle Nederlands instituut voor brandweer en rampenbestrijding"
 identifier: "BWBR0007968"
-categorie: "Overig"
-publicatiedatum: 1996-04-13
-laatste_update: 1996-04-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007968"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1996-04-13"
+last_updated: "1996-04-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007968"
+soort: "ministeriele-regeling"
+stam_id: "3560213"
+version_id: "5343312"
+internal_id: "C5536401"
+label_id: "3540194"
+dtd_version: "2.0"
+original_entry_into_force: "1996-04-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007968/1996-04-13/0"
+intitule_bron: "Stcrt.1996-71"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-03-27"
+intitule_published: "1996-04-11"
+intitule_in_force: "1996-04-11"
+intitule_status: "goed"
+original_publication: "Stcrt.1996-71"
+original_signed_date: "1996-03-27"
+original_published_date: "1996-04-11"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1996-04-13"
+jci_1_3: "jci1.3:c:BWBR0007968&z=1996-04-13&g=1996-04-13"
+jci_1_0: "1.0:c:BWBR0007968&g=1996-04-13"
+citeertitel_status: "officieel"
+signed_date: "1996-03-27"
+entry_into_force: "1996-04-13"
 ---
-
 # Regeling controle Nederlands instituut voor brandweer en rampenbestrijding
 
 Gelet op [artikel 10, derde lid, van het Besluit Nederlands instituut voor brandweer en rampenbestrijding](https://wetten.overheid.nl/jci1.3:c:BWBR0007897&artikel=10);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder de accountant: de accountant die het bestuur van het Nederlands instituut voor brandweer en rampenbestrijding krachtens [artikel 5, tweede lid, van het Besluit Nederlands instituut voor brandweer en rampenbestrijding](https://wetten.overheid.nl/jci1.3:c:BWBR0007897&artikel=5) heeft aangewezen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De accountant verricht zijn controle van de rekening en verantwoording van de inkomsten en uitgaven, bedoeld in [artikel 9, eerste lid, van het Besluit Nederlands instituut voor brandweer en rampenbestrijding](https://wetten.overheid.nl/jci1.3:c:BWBR0007897&artikel=9), met inachtneming van de aandachtspunten, genoemd in het controleprotocol dat als bijlage bij deze regeling is opgenomen.
 
 2. De accountant geeft in zijn verklaring omtrent de getrouwheid en de rechtmatigheid, bedoeld in [artikel 10, eerste lid, van het Besluit Nederlands instituut voor brandweer en rampenbestrijding](https://wetten.overheid.nl/jci1.3:c:BWBR0007897&artikel=10), aan dat hij zijn controle op de wijze, bedoeld in het eerste lid, heeft verricht.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 1996.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling wordt aangehaald als: Regeling controle Nederlands instituut voor brandweer en rampenbestrijding.
 
@@ -38,15 +62,15 @@ Deze regeling wordt aangehaald als: Regeling controle Nederlands instituut voor 
 
 ### 1.1. Reikwijdte van de controle
 
-#### 1.1.1. Getrouwheid
+##### 1.1.1. Getrouwheid
 
 De rekening en verantwoording van de inkomsten en uitgaven is getrouw indien deze is opgesteld overeenkomstig hetgeen maatschappelijk en in het accountantsberoep gebruikelijk is. Dit betekent dat de normen en beginselen die op het gebied van de externe financiële verslaggeving in het maatschappelijk verkeer als aanvaardbaar worden beschouwd, van overeenkomstige toepassing zijn op de financiële informatievoorziening van het Nederlands instituut voor brandweer en rampenbestrijding.
 
-#### 1.1.2. Rechtmatigheid
+##### 1.1.2. Rechtmatigheid
 
 In het kader van de controle op de rechtmatigheid van het verantwoorde beheer beziet de accountant of het beheer en de verantwoording daarover tot stand zijn gekomen overeenkomstig de relevante regelgeving en voorts of het beheer ordelijk en controleerbaar is. Dat houdt in dat de inkomsten en uitgaven in overeenstemming moeten zijn met de goedgekeurde begroting (begrotingsrechtmatigheid), met de interne regelingen, bevoegdheden en voorschriften (beheersrechtmatigheid) en met de overige regelingen, waaronder met name de relevante bepalingen in de [Brandweerwet 1985](https://wetten.overheid.nl/jci1.3:c:BWBR0003764) en het [Besluit Nederlands instituut voor brandweer en rampenbestrijding](https://wetten.overheid.nl/jci1.3:c:BWBR0007897) die de bestedingsrichting van en de voorwaarden met betrekking tot de bijdragen bepalen (bestuursrechtmatigheid).
 
-#### 1.1.3. Doelmatigheid
+##### 1.1.3. Doelmatigheid
 
 Het doelmatigheidsonderzoek wordt ingedeeld in onderzoek naar de doelmatigheid van de organisatie (structuren, procedures en werkmethoden) en het beheer (economisch verantwoorde middelenverwerving en financiële beheersdaden van het bestuur). Het richt zich met name op de maatregelen die het bestuur heeft getroffen ter bevordering van een efficiënt beheer.
 
@@ -56,11 +80,11 @@ Bij zijn oordeelsvorming streeft de accountant naar een ’hoge mate van zekerhe
 
 ### 1.3. Mate van aandacht van de controle
 
-#### 1.3.1. Algemeen
+##### 1.3.1. Algemeen
 
 Met uitzondering van de hieronder opgenomen onderwerpen die bijzondere en procedurele aandacht vereisen, dient de rekening en verantwoording van de inkomsten en uitgaven, zoals gebruikelijk is, met normale aandacht te worden gecontroleerd. Dat wil zeggen dat de controle wordt verricht in overeenstemming met algemeen aanvaarde controlegrondslagen.
 
-#### 1.3.2. Bijzondere aandacht
+##### 1.3.2. Bijzondere aandacht
 
 Onder bijzondere aandacht wordt verstaan: de controle die verder strekt dan de controle die normaal bij de rekening en verantwoording van de inkomsten en uitgaven wordt uitgeoefend.
 
@@ -82,7 +106,7 @@ De accountant schenkt bij de controle bijzondere aandacht aan de hiernavolgende 
 
 - h. Hij beoordeelt de volledigheid en de juistheid van de in de administratie en verantwoording opgenomen baten anders dan voortvloeiend uit de bijdragen.
 
-#### 1.3.3. Procedurele aandacht
+##### 1.3.3. Procedurele aandacht
 
 Onder procedurele aandacht wordt verstaan: het erop toezien dat procedures zijn ontwikkeld die waarborgen dat aan de desbetreffende administratieve en organisatorische voorschriften wordt voldaan en dat de werking van deze procedures en voorschriften is verzekerd. Een inhoudelijke toetsing kan achterwege blijven.
 

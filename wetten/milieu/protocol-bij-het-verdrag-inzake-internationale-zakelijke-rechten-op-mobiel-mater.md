@@ -1,13 +1,35 @@
 ---
 title: "Protocol bij het Verdrag inzake internationale zakelijke rechten op mobiel materieel betreffende voor luchtvaartuigmaterieel specifieke aangelegenheden"
 identifier: "BWBV0003190"
-categorie: "Milieu"
-publicatiedatum: 2010-09-01
-laatste_update: 2010-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003190"
+country: "nl"
+rank: "verdrag"
+publication_date: "2010-09-01"
+last_updated: "2010-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003190"
+soort: "verdrag"
+stam_id: "10003393183"
+version_id: "10003434232"
+internal_id: "C10008429591"
+label_id: "10003379854"
+dtd_version: "2.0"
+original_entry_into_force: "2010-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003190/2010-09-01/0"
+intitule_bron: "Trb.2009-86"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2009-06-03"
+intitule_in_force: "2010-07-05"
+intitule_status: "goed"
+original_publication: "Trb.2009-86"
+original_published_date: "2009-06-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2009-86"
+entry_into_force_date: "2010-09-01"
+jci_1_3: "jci1.3:c:BWBV0003190&z=2010-09-01&g=2010-09-01"
+jci_1_0: "1.0:c:BWBV0003190&g=2010-09-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2010-09-01"
 ---
-
 # Protocol bij het Verdrag inzake internationale zakelijke rechten op mobiel materieel betreffende voor luchtvaartuigmaterieel specifieke aangelegenheden
 
 De Partijen bij dit Protocol,
@@ -22,7 +44,7 @@ Zijn de volgende bepalingen met betrekking tot luchtvaartuigmaterieel overeengek
 
 ### HOOFDSTUK I. TOEPASSINGSBEREIK EN ALGEMENE BEPALINGEN
 
-#### Artikel I. Begripsomschrijvingen
+##### Artikel I. Begripsomschrijvingen
 
 1. De in dit Protocol gebruikte termen hebben, behoudens indien de context anders vereist, de betekenis die daaraan in het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) wordt gegeven.
 
@@ -76,13 +98,13 @@ Zijn de volgende bepalingen met betrekking tot luchtvaartuigmaterieel overeengek
 
 - p. „Staat van inschrijving”: ten aanzien van een luchtvaartuig, de Staat in wiens nationale register een luchtvaartuig is ingeschreven of de Staat waar de gemeenschappelijke registratieautoriteit die het luchtvaartuigregister houdt, is gelegen.
 
-#### Artikel II. Toepassing van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) ten aanzien van luchtvaartuigzaken
+##### Artikel II. Toepassing van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) ten aanzien van luchtvaartuigzaken
 
 1. Het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) is van toepassing op luchtvaartuigzaken zoals voorzien door de bepalingen van dit Protocol.
 
 2. Het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) en dit Protocol zijn bekend als het Verdrag inzake internationale zakelijke rechten op mobiel materieel zoals toegepast op luchtvaartuigzaken.
 
-#### Artikel III. Toepassing van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) op verkopen
+##### Artikel III. Toepassing van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) op verkopen
 
 De volgende bepalingen van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) zijn van toepassing alsof verwijzingen naar een overeenkomst waarbij een internationaal zakelijk recht wordt gevestigd of in zo’n zakelijk recht wordt voorzien verwijzingen waren naar een verkoopcontract en alsof verwijzingen naar een internationaal zakelijk recht, een toekomstig internationaal zakelijk recht, de schuldenaar en de schuldeiser verwijzingen waren naar respectievelijk een verkoop, een toekomstige verkoop, de verkoper en de koper:
 
@@ -100,7 +122,7 @@ de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=3) en [
 
 Bovendien zijn de algemene bepalingen van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=1), [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=5), de [Hoofdstukken IV tot en met VII](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=IV), [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=29) (anders dan [artikel 29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=29), dat is vervangen door [artikel XIV, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=II&artikel=XIV&z=2010-09-01&g=2010-09-01)), [Hoofdstuk X](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=X), [Hoofdstuk XII](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XII) (anders dan [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=43)), [Hoofdstuk XIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XIII) en [Hoofdstuk XIV](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XIV) (anders dan [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=60)) van toepassing op verkoopcontracten en toekomstige verkopen.
 
-#### Artikel IV. Toepassingsbereik
+##### Artikel IV. Toepassingsbereik
 
 1. Onverminderd [artikel 3, eerste lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=3), is het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) eveneens van toepassing met betrekking tot een helikopter, of tot een bij een luchtvaartuig behorend luchtvaartuigcasco, die zijn ingeschreven in een luchtvaartuigregister van een Verdragsluitende Staat die de Staat van inschrijving is, en wordt deze inschrijving, indien deze is gedaan uit hoofde van een overeenkomst tot inschrijving van het luchtvaartuig, geacht te zijn gedaan op het tijdstip van de overeenkomst.
 
@@ -116,7 +138,7 @@ op het tijdstip van het sluiten van de overeenkomst waarbij het zakelijk recht w
 
 3. De partijen kunnen, door middel van een schriftelijke overeenkomst, de toepassing van [artikel XI](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=II&artikel=XI&z=2010-09-01&g=2010-09-01) uitsluiten en, in hun onderlinge betrekkingen, van de bepalingen van dit Protocol afwijken of de rechtsgevolgen ervan wijzigen, met uitzondering van [artikel IX, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=II&artikel=IX&z=2010-09-01&g=2010-09-01).
 
-#### Artikel V. Formaliteiten, rechtsgevolgen en inschrijving van verkoopcontracten
+##### Artikel V. Formaliteiten, rechtsgevolgen en inschrijving van verkoopcontracten
 
 1. Voor de toepassing van dit Protocol is een verkoopcontract een contract dat:
 
@@ -130,15 +152,15 @@ op het tijdstip van het sluiten van de overeenkomst waarbij het zakelijk recht w
 
 3. De inschrijving van een verkoopcontract blijft voor onbepaalde duur van kracht. De inschrijving van een toekomstige verkoop blijft van kracht totdat deze wordt doorgehaald of totdat het eventueel in de inschrijving vermelde tijdvak is verstreken.
 
-#### Artikel VI. Vertegenwoordigingsbevoegdheid
+##### Artikel VI. Vertegenwoordigingsbevoegdheid
 
 Een persoon kan in het kader van een agentschap, trust of in een andere vertegenwoordigende hoedanigheid een overeenkomst of verkoop sluiten en een internationaal zakelijk recht op of verkoop van een luchtvaartuigzaak inschrijven. In een dergelijk geval is die persoon bevoegd rechten en zakelijke rechten ingevolge het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) te doen gelden.
 
-#### Artikel VII. Beschrijving van luchtvaartuigzaken
+##### Artikel VII. Beschrijving van luchtvaartuigzaken
 
 Een beschrijving van een luchtvaartuigzaak die het serienummer van de fabrikant, de naam van de fabrikant en de aanduiding van het model bevat is noodzakelijk en voldoende om het voorwerp te identificeren voor de toepassing van [artikel 7, onderdeel c, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=7) en [artikel V, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=I&artikel=V&z=2010-09-01&g=2010-09-01), van dit Protocol.
 
-#### Artikel VIII. Rechtskeuze
+##### Artikel VIII. Rechtskeuze
 
 1. Dit artikel is uitsluitend van toepassing indien een Verdragsluitende Staat een verklaring ingevolge [artikel XXX, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=VI&artikel=XXX&z=2010-09-01&g=2010-09-01), heeft afgelegd.
 
@@ -148,7 +170,7 @@ Een beschrijving van een luchtvaartuigzaak die het serienummer van de fabrikant,
 
 ### HOOFDSTUK II. RECHTSMIDDELEN BIJ VERZUIM, RANGORDE EN CESSIE
 
-#### Artikel IX. Wijziging van de bepalingen inzake rechtsmiddelen bij verzuim
+##### Artikel IX. Wijziging van de bepalingen inzake rechtsmiddelen bij verzuim
 
 1. Naast de in [Hoofdstuk III van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III) bedoelde rechtsmiddelen kan de schuldeiser, voorzover de schuldenaar daar op enig tijdstip mee heeft ingestemd en onder de in [dat Hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III) genoemde omstandigheden:
 
@@ -174,7 +196,7 @@ Een beschrijving van een luchtvaartuigzaak die het serienummer van de fabrikant,
 
 - b. de in [artikel 1, onderdeel m, onder iii, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=1) bedoelde belanghebbenden die binnen een redelijke tijd voorafgaand aan de doorhaling van de inschrijving en uitvoer aan de nemer van een zakelijk recht kennisgeving van hun rechten hebben gedaan.
 
-#### Artikel X. Wijziging van bepalingen met betrekking tot redres hangende definitieve vaststelling
+##### Artikel X. Wijziging van bepalingen met betrekking tot redres hangende definitieve vaststelling
 
 1. Dit artikel is uitsluitend van toepassing indien een Verdragsluitende Staat een verklaring ingevolge [artikel XXX, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=VI&artikel=XXX&z=2010-09-01&g=2010-09-01), heeft afgelegd en in de in die verklaring aangegeven mate.
 
@@ -198,7 +220,7 @@ en [artikel 43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&arti
 
 7. Het tweede en zesde lid doen geen afbreuk aan de toepasselijke wetten en voorschriften inzake de veiligheid van de luchtvaart.
 
-#### Artikel XI. Rechtsmiddelen bij insolventie
+##### Artikel XI. Rechtsmiddelen bij insolventie
 
 1. Dit artikel is uitsluitend van toepassing indien een Verdragsluitende Staat die de primaire rechtsmacht bij insolventie heeft, een verklaring ingevolge [artikel XXX, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=VI&artikel=XXX&z=2010-09-01&g=2010-09-01), heeft afgelegd.
 
@@ -252,13 +274,13 @@ en [artikel 43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&arti
 
 6. Hangende een beslissing door een gerecht ter zake van de vordering en het internationale zakelijk recht, wordt de luchtvaartuigzaak niet verkocht.
 
-#### Artikel XII. Bijstand bij insolventie
+##### Artikel XII. Bijstand bij insolventie
 
 1. Dit artikel is uitsluitend van toepassing indien een Verdragsluitende Staat een verklaring ingevolge [artikel XXX, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=VI&artikel=XXX&z=2010-09-01&g=2010-09-01), heeft afgelegd.
 
 2. De gerechten van een Verdragsluitende Staat waarin zich een luchtvaartuigzaak bevindt, werken bij de uitvoering van de bepalingen van [artikel XI](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=II&artikel=XI&z=2010-09-01&g=2010-09-01), in overeenstemming met het recht van de Verdragsluitende Staat, in de ruimst mogelijke mate samen met buitenlandse gerechten en buitenlandse curatoren.
 
-#### Artikel XIII. Machtiging voor een doorhaling van de inschrijving en een uitvoerverzoek
+##### Artikel XIII. Machtiging voor een doorhaling van de inschrijving en een uitvoerverzoek
 
 1. Dit artikel is uitsluitend van toepassing indien een Verdragsluitende Staat een verklaring ingevolge [artikel XXX, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=VI&artikel=XXX&z=2010-09-01&g=2010-09-01), heeft afgelegd.
 
@@ -268,7 +290,7 @@ en [artikel 43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&arti
 
 4. De registratieautoriteit en andere administratieve autoriteiten in Verdragsluitende Staten werken met spoed samen met de gemachtigde partij en verlenen haar bijstand bij de toepassing van de in [artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=II&artikel=IX&z=2010-09-01&g=2010-09-01) bedoelde rechtsmiddelen.
 
-#### Artikel XIV. Wijziging van bepalingen inzake voorrang
+##### Artikel XIV. Wijziging van bepalingen inzake voorrang
 
 1. Een koper van een luchtvaartuigzaak krachtens een ingeschreven verkoop verwerft zijn recht op die zaak vrij van een later ingeschreven recht en vrij van een niet ingeschreven recht, zelfs wanneer de koper feitelijk op de hoogte is van het niet ingeschreven recht.
 
@@ -278,13 +300,13 @@ en [artikel 43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&arti
 
 4. [Artikel 29, zevende lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=29) is van toepassing op een onderdeel, anders dan een zaak, die op een luchtvaartuigcasco, luchtvaartuigmotor of helikopter zijn geïnstalleerd.
 
-#### Artikel XV. Wijziging van bepalingen inzake cessie
+##### Artikel XV. Wijziging van bepalingen inzake cessie
 
 [Artikel 33, eerste lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=33) is van toepassing alsof het volgende onmiddellijk na onderdeel b was toegevoegd:
 
 - „en c. de schuldenaar schriftelijk heeft ingestemd, ongeacht het feit of de instemming al dan niet voorafgaand aan de cessie is gegeven of daarin de cessionaris wordt genoemd.”
 
-#### Artikel XVI. Bepalingen inzake schuldenaars
+##### Artikel XVI. Bepalingen inzake schuldenaars
 
 1. Bij afwezigheid van een verzuim in de zin van [artikel 11 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=11), heeft de schuldenaar recht op het rustige bezit en gebruik van de zaak in overeenstemming met de overeenkomst tegenover:
 
@@ -296,7 +318,7 @@ en [artikel 43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&arti
 
 ### HOOFDSTUK III. BEPALINGEN INZAKE DE INSCHRIJVING VAN INTERNATIONALE ZAKELIJKE RECHTEN OP LUCHTVAARTUIGZAKEN
 
-#### Artikel XVII. De Toezichthoudende Autoriteit en de Bewaarder
+##### Artikel XVII. De Toezichthoudende Autoriteit en de Bewaarder
 
 1. De Toezichthoudende Autoriteit is de internationale entiteit die wordt aangewezen door een Resolutie aangenomen door de Diplomatieke Conferentie voor de aanneming van een Verdrag inzake mobiel materieel en een luchtvaartuig-Protocol.
 
@@ -308,17 +330,17 @@ en [artikel 43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&arti
 
 5. De eerste Bewaarder beheert het Internationaal Register voor een tijdvak van vijf jaren, te rekenen vanaf de datum van inwerkingtreding van dit Protocol. Daarna wordt de Bewaarder met regelmatige tussenpozen van vijf jaren door de Toezichthoudende Autoriteit benoemd of herbenoemd.
 
-#### Artikel XVIII. Eerste reglement
+##### Artikel XVIII. Eerste reglement
 
 Het eerste reglement wordt door de Toezichthoudende Autoriteit opgesteld opdat dit van kracht wordt bij de inwerkingtreding van dit Protocol.
 
-#### Artikel XIX. Aangewezen punten van invoer
+##### Artikel XIX. Aangewezen punten van invoer
 
 1. Onverminderd het tweede lid kan een Verdragsluitende Staat te allen tijde een of meer organen op zijn grondgebied aanwijzen als punt of punten van invoer via welke informatie aan het Internationaal Register moet of kan worden verzonden die vereist is voor de inschrijving, anders dan de inschrijving van een kennisgeving van een nationaal zakelijk recht of een recht of zakelijk recht ingevolge [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=40) die in beide gevallen ontstaan ingevolge het recht van een andere Staat.
 
 2. Een aanwijzing ingevolge het voorgaande lid kan het gebruik van een aangewezen punt of punten van invoer toestaan, doch niet opleggen, voor informatie vereist voor inschrijvingen ten aanzien van luchtvaartuigmotoren.
 
-#### Artikel XX. Aanvullende wijzigingen van bepalingen inzake inschrijving
+##### Artikel XX. Aanvullende wijzigingen van bepalingen inzake inschrijving
 
 1. Voor de toepassing van [artikel 19, zesde lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=19) zijn de raadpleegcriteria voor een luchtvaartuigzaak de naam van de fabrikant, het serienummer van de fabrikant en de naam van het model, met de aanvullingen die vereist zijn voor haar individualisering. Deze aanvullende informatie wordt in het reglement nader omschreven.
 
@@ -334,11 +356,11 @@ Het eerste reglement wordt door de Toezichthoudende Autoriteit opgesteld opdat d
 
 ### HOOFDSTUK IV. RECHTSMACHT
 
-#### Artikel XXI. Wijziging van bepalingen inzake rechtsmacht
+##### Artikel XXI. Wijziging van bepalingen inzake rechtsmacht
 
 Voor de toepassing van [artikel 43 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=43) en onder voorbehoud van [artikel 42 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=42), is een gerecht van een Verdragsluitende Staat eveneens bevoegd indien de zaak een helikopter, of een bij een luchtvaartuig behorend luchtvaartuigcasco is, ten aanzien waarvan die Staat de Staat van inschrijving is.
 
-#### Artikel XXII. Afstand van soevereine immuniteit
+##### Artikel XXII. Afstand van soevereine immuniteit
 
 1. Onverminderd het tweede lid is afstand van soevereine immuniteit van rechtsmacht van de in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=42) of [artikel 43 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=43) bedoelde gerechten of met betrekking tot de handhaving van rechten en zakelijke rechten die ingevolge het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) betrekking hebben op een luchtvaartuigzaak, bindend, en, indien aan de andere voorwaarden voor deze rechtsmacht of handhaving is voldaan, ontstaat hierdoor, naargelang van het geval, bevoegdheid en wordt hierdoor handhaving mogelijk.
 
@@ -346,23 +368,23 @@ Voor de toepassing van [artikel 43 van het Verdrag](https://wetten.overheid.nl/j
 
 ### HOOFDSTUK V. VERHOUDING TOT ANDERE VERDRAGEN
 
-#### Artikel XXIII. Verhouding tot het Verdrag betreffende de internationale erkenning van rechten op luchtvaartuigen
+##### Artikel XXIII. Verhouding tot het Verdrag betreffende de internationale erkenning van rechten op luchtvaartuigen
 
 Ten aanzien van een Verdragsluitende Staat die Partij is bij het **Verdrag betreffende de internationale erkenning van rechten op luchtvaartuigen**, ondertekend te Genève op 19 juni 1948, heeft het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) voorrang boven dat Verdrag voorzover het betrekking heeft op luchtvaartuigen, zoals nader aangeduid in dit Protocol, en op luchtvaartuigzaken. Ten aanzien van door dit [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) niet bestreken of geraakte rechten of zakelijke rechten heeft dit [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) geen voorrang boven het Verdrag van Genève.
 
-#### Artikel XXIV. Verhouding tot het Verdrag tot het vaststellen van enige eenvormige bepalingen inzake conservatoir beslag op luchtvaartuigen
+##### Artikel XXIV. Verhouding tot het Verdrag tot het vaststellen van enige eenvormige bepalingen inzake conservatoir beslag op luchtvaartuigen
 
 1. Ten aanzien van een Verdragsluitende Staat die Partij is bij het **Verdrag tot het vaststellen van enige eenvormige bepalingen inzake conservatoir beslag op luchtvaartuigen,** ondertekend te Rome op 29 mei 1933, heeft het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) voorrang boven dat Verdrag voorzover het betrekking heeft op luchtvaartuigen, zoals nader aangeduid in dit Protocol.
 
 2. Een Verdragsluitende Staat die Partij is bij het bovengenoemde Verdrag kan, op het tijdstip van bekrachtiging, aanvaarding of goedkeuring van, of toetreding tot dit Protocol, verklaren dat hij dit artikel niet toepast.
 
-#### Artikel XXV. Verhouding tot het Unidroit-verdrag inzake internationale financiële leasing
+##### Artikel XXV. Verhouding tot het Unidroit-verdrag inzake internationale financiële leasing
 
 Het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) heeft voorrang boven het **Unidroit-verdrag inzake internationale financiële leasing**, ondertekend te Ottawa op 28 mei 1988, voorzover dit betrekking heeft op luchtvaartuigzaken.
 
 ### HOOFDSTUK VI. SLOTBEPALINGEN
 
-#### Artikel XXVI. Ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding
+##### Artikel XXVI. Ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding
 
 1. Dit Protocol staat open voor ondertekening te Kaapstad op 16 november 2001 door Staten die deelnemen aan de Diplomatieke Conferentie voor de aanneming van een Verdrag inzake mobiel materieel en een luchtvaartuig-Protocol, gehouden te Kaapstad van 29 oktober tot en met 16 november 2001. Na 16 november 2001 staat dit Protocol voor alle Staten open voor ondertekening op de Zetel van het Internationaal Instituut voor de Eenmaking van het Privaatrecht (Unidroit) te Rome, totdat het in werking treedt in overeenstemming met [artikel XXVIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=VI&artikel=XXVIII&z=2010-09-01&g=2010-09-01).
 
@@ -374,7 +396,7 @@ Het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) heeft voorrang bo
 
 5. Een Staat kan uitsluitend Partij bij dit Protocol worden indien hij tevens Partij bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) is of wordt.
 
-#### Artikel XXVII. Regionale organisaties voor economische integratie
+##### Artikel XXVII. Regionale organisaties voor economische integratie
 
 1. Een regionale organisatie voor economische integratie die door soevereine Staten is ingesteld en bevoegdheid heeft over bepaalde door dit Protocol beheerste kwesties, kan dit Protocol eveneens ondertekenen, aanvaarden, goedkeuren of ertoe toetreden. De regionale organisatie voor economische integratie heeft in dat geval de rechten en verplichtingen van een Verdragsluitende Staat, voorzover die organisatie bevoegdheid heeft over zaken die door dit Protocol worden beheerst. Indien het aantal Verdragsluitende Staten in dit Protocol van belang is, telt de regionale organisatie voor economische integratie niet als een extra Verdragsluitende Staat naast haar lidstaten die Verdragsluitende Staat zijn.
 
@@ -382,13 +404,13 @@ Het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) heeft voorrang bo
 
 3. Elke verwijzing in dit Protocol naar „Verdragsluitende Staat” of „Verdragsluitende Staten” of „Staat die Partij is” of „Staten die Partij zijn” is, indien de context zulks vereist, eveneens van toepassing op een regionale organisatie voor economische integratie.
 
-#### Artikel XXVIII. Inwerkingtreding
+##### Artikel XXVIII. Inwerkingtreding
 
 1. Dit Protocol treedt in werking op de eerste dag van de maand volgend op het verstrijken van drie maanden na de datum van nederlegging van de achtste akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, tussen de Staten die dergelijke akten hebben nedergelegd.
 
 2. Ten aanzien van andere Staten treedt dit Protocol in werking op de eerste dag van de maand volgend op het verstrijken van drie maanden na de datum van nederlegging van hun akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
 
-#### Artikel XXIX. Territoriale eenheden
+##### Artikel XXIX. Territoriale eenheden
 
 1. Indien een Verdragsluitende Staat territoriale eenheden heeft waarin verschillende rechtsstelsels van toepassing zijn op de in dit Protocol geregelde aangelegenheden kan deze Staat, op het tijdstip van bekrachtiging, aanvaarding, goedkeuring of toetreding, verklaren dat dit Protocol zich uitstrekt tot al zijn territoriale eenheden of slechts een of meer daarvan en kan hij zijn verklaring te allen tijde wijzigen door indiening van een andere verklaring.
 
@@ -406,7 +428,7 @@ Het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) heeft voorrang bo
 
 - c. wordt elke verwijzing naar de administratieve autoriteiten in die Verdragsluitende Staat uitgelegd als een verwijzing naar de administratieve autoriteiten die bevoegd zijn in een territoriale eenheid waarop het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) en dit Protocol van toepassing zijn en wordt elke verwijzing naar het nationale register of naar de registratieautoriteit in die Verdragsluitende Staat uitgelegd als een verwijzing naar het luchtvaartuigregister dat van kracht is of naar de registratieautoriteit die bevoegd is in de territoriale eenheid of eenheden waarop het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) en dit Protocol van toepassing zijn.
 
-#### Artikel XXX. Verklaringen met betrekking tot sommige bepalingen
+##### Artikel XXX. Verklaringen met betrekking tot sommige bepalingen
 
 1. Een Verdragsluitende Staat kan, op het tijdstip van bekrachtiging, aanvaarding of goedkeuring van, of toetreding tot dit Protocol, verklaren dat hij een of meer van de [artikelen VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=I&artikel=VIII&z=2010-09-01&g=2010-09-01), [XII](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=II&artikel=XII&z=2010-09-01&g=2010-09-01) en [XIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=II&artikel=XIII&z=2010-09-01&g=2010-09-01) van dit Protocol zal toepassen.
 
@@ -418,17 +440,17 @@ Het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) heeft voorrang bo
 
 5. Een Verdragsluitende Staat kan, op het tijdstip van bekrachtiging, aanvaarding of goedkeuring van, of toetreding tot dit Protocol, verklaren dat hij de bepalingen van [artikel XXI](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=IV&artikel=XXI&z=2010-09-01&g=2010-09-01), geheel of gedeeltelijk, niet zal toepassen. In de verklaring moet worden vermeld onder welke voorwaarden het desbetreffende artikel zal worden toegepast, indien het gedeeltelijk zal worden toegepast, of anders welke andere vormen van voorlopig redres zullen worden toegepast.
 
-#### Artikel XXXI. Verklaringen ingevolge het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189)
+##### Artikel XXXI. Verklaringen ingevolge het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189)
 
 Verklaringen afgelegd ingevolge het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189), met inbegrip van verklaringen krachtens de [artikelen 39](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=39), [40](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=40), [50](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=50), [53](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=53), [54](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=54), [55](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=55), [57](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=57), [58](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=58) en [60 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=60), worden geacht eveneens te zijn afgelegd ingevolge dit Protocol, behoudens andersluidende verklaring.
 
-#### Artikel XXXII. Voorbehouden en verklaringen
+##### Artikel XXXII. Voorbehouden en verklaringen
 
 1. Ten aanzien van dit Protocol kunnen geen voorbehouden worden gemaakt, maar uit hoofde van de [artikelen XXIV](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=V&artikel=XXIV&z=2010-09-01&g=2010-09-01), [XXIX](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=VI&artikel=XXIX&z=2010-09-01&g=2010-09-01), [XXX](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=VI&artikel=XXX&z=2010-09-01&g=2010-09-01), [XXXI](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=VI&artikel=XXXI&z=2010-09-01&g=2010-09-01), [XXXIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=VI&artikel=XXXIII&z=2010-09-01&g=2010-09-01) en [XXXIV](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=VI&artikel=XXXIV&z=2010-09-01&g=2010-09-01) toegestane verklaringen kunnen in overeenstemming met deze artikelen worden afgelegd.
 
 2. Van elke verklaring of latere verklaring of elke intrekking van een verklaring ingevolge dit Protocol wordt schriftelijke kennisgeving aan de Depositaris gedaan.
 
-#### Artikel XXXIII. Latere verklaringen
+##### Artikel XXXIII. Latere verklaringen
 
 1. Een Staat die Partij is kan te allen tijde na de datum waarop dit Protocol voor hem in werking is getreden door middel van een daartoe aan de Depositaris gerichte kennisgeving een latere verklaring afleggen, anders dan een in overeenstemming met [artikel XXXI](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=VI&artikel=XXXI&z=2010-09-01&g=2010-09-01) uit hoofde van [artikel 60 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=60) afgelegde verklaring.
 
@@ -436,13 +458,13 @@ Verklaringen afgelegd ingevolge het [Verdrag](https://wetten.overheid.nl/jci1.3:
 
 3. Niettegenstaande de voorgaande leden blijft dit Protocol ten aanzien van alle rechten en zakelijke rechten die voor de datum van het van kracht worden van die latere verklaring zijn ontstaan, van toepassing alsof geen latere verklaring was afgelegd.
 
-#### Artikel XXXIV. Intrekking van verklaringen
+##### Artikel XXXIV. Intrekking van verklaringen
 
 1. Elke Staat die Partij is en die een verklaring uit hoofde van dit Protocol heeft afgelegd, anders dan een in overeenstemming met [artikel XXXI](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=VI&artikel=XXXI&z=2010-09-01&g=2010-09-01) uit hoofde van [artikel 60 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=60) afgelegde verklaring, kan deze verklaring te allen tijde intrekken door middel van een kennisgeving aan de Depositaris. Deze intrekking wordt van kracht op de eerste dag van de maand volgend op het verstrijken van zes maanden na de datum van ontvangst van de kennisgeving door de Depositaris.
 
 2. Niettegenstaande het voorgaande lid blijft dit Protocol ten aanzien van alle rechten en zakelijke rechten die voor de datum van het van kracht worden van die intrekking zijn ontstaan, van toepassing alsof de verklaring niet was ingetrokken.
 
-#### Artikel XXXV. Opzeggingen
+##### Artikel XXXV. Opzeggingen
 
 1. Elke Staat die Partij is kan dit Protocol opzeggen door middel van een schriftelijke kennisgeving aan de Depositaris.
 
@@ -450,7 +472,7 @@ Verklaringen afgelegd ingevolge het [Verdrag](https://wetten.overheid.nl/jci1.3:
 
 3. Niettegenstaande de voorgaande leden blijft dit Protocol ten aanzien van alle rechten en zakelijke rechten die voor de datum van het van kracht worden van een opzegging zijn ontstaan, van toepassing alsof geen opzegging had plaatsgevonden.
 
-#### Artikel XXXVI. Herzieningsconferenties, wijzigingen en daaraan gerelateerde aangelegenheden
+##### Artikel XXXVI. Herzieningsconferenties, wijzigingen en daaraan gerelateerde aangelegenheden
 
 1. De Depositaris stelt jaarlijks, of op een zodanig ander tijdstip als de omstandigheden vereisen, in overleg met de Toezichthoudende Autoriteit, verslagen op voor de Staten die Partij zijn met betrekking tot de wijze waarop het bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189), zoals gewijzigd door dit Protocol, ingestelde internationale stelsel in de praktijk heeft gefunctioneerd. Bij de opstelling van deze verslagen neemt de Depositaris de verslagen van de Toezichthoudende Autoriteit betreffende de werking van het internationale registratiesysteem in aanmerking.
 
@@ -466,7 +488,7 @@ Verklaringen afgelegd ingevolge het [Verdrag](https://wetten.overheid.nl/jci1.3:
 
 3. Een wijziging van dit Protocol wordt goedgekeurd met een meerderheid van ten minste tweederde van de Staten die Partij zijn en die aan de in het voorgaande lid bedoelde Conferentie deelnemen, en treedt vervolgens in werking ten aanzien van de Staten die de wijziging hebben bekrachtigd, aanvaard of goedgekeurd indien deze, in overeenstemming met de bepalingen van [artikel XXVIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=VI&artikel=XXVIII&z=2010-09-01&g=2010-09-01) inzake zijn inwerkingtreding, door acht Staten is bekrachtigd, aanvaard of goedgekeurd.
 
-#### Artikel XXXVII. Depositaris en taken van de Depositaris
+##### Artikel XXXVII. Depositaris en taken van de Depositaris
 
 1. De akten van bekrachtiging, aanvaarding, goedkeuring of toetreding worden nedergelegd bij het Internationaal Instituut voor de Eenmaking van het Privaatrecht (Unidroit), dat hierbij tot Depositaris wordt benoemd.
 

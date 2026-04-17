@@ -1,13 +1,36 @@
 ---
-title: "Rijkswet vrijwillige zetelverplaatsing van rechtspersonen"
+title: "Rijkswet van 9 maart 1967, houdende bijzondere voorzieningen aangaande de plaats van vestiging van naamloze vennootschappen en andere rechtspersonen"
 identifier: "BWBR0002561"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002561"
+country: "nl"
+rank: "rijkswet"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002561"
+soort: "rijkswet"
+stam_id: "1907003"
+version_id: "2828312"
+internal_id: "C2828311"
+label_id: "1857414"
+dtd_version: "2.0"
+original_entry_into_force: "1967-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002561/2010-10-10/0"
+intitule_bron: "Stb.1967-161"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1967-03-09"
+intitule_status: "goed"
+original_publication: "Stb.1967-161"
+original_signed_date: "1967-03-09"
+original_effect: "nieuwe-regeling"
+original_dossier: "8022"
+entry_into_force_date: "1967-06-01"
+jci_1_3: "jci1.3:c:BWBR0002561&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0002561&g=2010-10-10"
+citeertitel_status: "officieel"
+short_title: "Rijkswet vrijwillige zetelverplaatsing van rechtspersonen"
+signed_date: "1967-03-09"
+entry_into_force: "1967-06-01"
 ---
-
 # Rijkswet van 9 maart 1967, houdende bijzondere voorzieningen aangaande de plaats van vestiging van naamloze vennootschappen en andere rechtspersonen
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
@@ -18,7 +41,7 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 ### Algemene bepaling
 
-#### Algemene bepaling
+##### Algemene bepaling
 
 1. Onder «vennootschap» wordt in deze Rijkswet verstaan de naamloze vennootschap alsmede, voor wat Nederland betreft, de besloten vennootschap met beperkte aansprakelijkheid en, voor wat Nederland, Curaçao en Sint Maarten betreft, de besloten vennootschap.
 
@@ -26,7 +49,7 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 ### Afdeling 1. Overplaatsing van vennootschappen naar een ander deel van het Koninkrijk
 
-#### Artikel 1
+##### Artikel 1
 
 1. Door desbetreffende wijziging van de akte van oprichting kan de plaats van vestiging van een in Nederland, Aruba, Curaçao of Sint Maarten gevestigde vennootschap worden overgebracht naar een ander deel van het Koninkrijk der Nederlanden.
 
@@ -50,7 +73,7 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 9. Bij een aanwijzing, als bedoeld in het derde lid, kunnen de bevoegdheden, omschreven in het zevende en achtste lid, voor de aangewezen personen worden uitgesloten of beperkt.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De wijziging en de benoemingen, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002561&afdeling=1&artikel=1&z=2010-10-10&g=2010-10-10), geschieden op straffe van nietigheid bij notariële akte. De akte wordt verleden in de Nederlandse taal.
 
@@ -58,13 +81,13 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 3. De benoemingen treden gelijktijdig met de wijziging in werking.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Elke wijziging van de akte van oprichting van een vennootschap als in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002561&afdeling=1&artikel=1&z=2010-10-10&g=2010-10-10) bedoeld, behoeft de toestemming of de bekrachtiging van Onze Minister van Justitie in Nederland, respectievelijk Onze Minister van Justitie in Aruba, in Curaçao of in Sint Maarten.
 
 2. Ieder die op het ogenblik van het tot stand brengen van een wijziging van de akte van oprichting, als in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002561&afdeling=1&artikel=1&z=2010-10-10&g=2010-10-10) bedoeld, bevoegd was zulk een wijziging aan te brengen, is bevoegd de veranderingen aan te brengen welke nodig mochten blijken om de in het vorige lid bedoelde bekrachtiging te verkrijgen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De toestemming wordt uitsluitend op een ontwerp van de wijziging verleend, en wel door Onze Minister van Justitie van het deel van het Koninkrijk, waar de vennootschap gevestigd is.
 
@@ -80,7 +103,7 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 - d. indien de wijziging met toepassing van [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002561&afdeling=1&artikel=1&z=2010-10-10&g=2010-10-10), is verricht: een authentiek afschrift van de aldaar bedoelde akte.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Indien de wijziging tot stand is gebracht en in werking is getreden zonder toepassing van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002561&afdeling=1&artikel=4&z=2010-10-10&g=2010-10-10), zendt de vennootschap of een dergenen die krachtens [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002561&afdeling=1&artikel=1&z=2010-10-10&g=2010-10-10) tot wijziging bevoegd zijn, dan wel een daartoe in de akte, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002561&afdeling=1&artikel=2&z=2010-10-10&g=2010-10-10), aangewezen persoon, een verzoek om bekrachtiging van de wijziging tot Onze Minister van Justitie van het deel van het Koninkrijk, waarheen de plaats van vestiging der vennootschap is overgebracht. Het verzoekschrift moet binnen vier weken na de inwerkingtreding der wijziging worden ingediend bij een Onzer Ministers van Justitie of bij een Onzer diplomatieke vertegenwoordigingen in het buitenland. Bij het verzoek worden de in [artikel 4, derde lid, onder **a, c** en **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0002561&afdeling=1&artikel=4&z=2010-10-10&g=2010-10-10), bedoelde stukken overgelegd.
 
@@ -88,7 +111,7 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 3. Indien de bekrachtiging van de wijziging in haar geheel wordt geweigerd, eindigt de bevoegdheid der bestuurders, die overeenkomstig [artikel 1, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002561&afdeling=1&artikel=1&z=2010-10-10&g=2010-10-10), zijn benoemd, met ingang van het tijdstip, waarop de weigering van de bekrachtiging is bekendgemaakt.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De toestemming of de bekrachtiging wordt slechts geweigerd, voor zover naar het oordeel van de autoriteit die bevoegd is haar te verlenen:
 
@@ -102,7 +125,7 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 3. Indien toestemming of bekrachtiging geheel of gedeeltelijk is geweigerd, deelt Onze betrokken Minister van Justitie de weigering onverwijld mede aan Onzer Ministers van Justitie van de andere delen van het Koninkrijk. In een mededeling als bedoeld in de eerste volzin worden de redenen voor de weigering genoemd.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Onze Minister van Justitie van het deel van het Koninkrijk, waar de vennootschap - hetzij voor, hetzij na de inwerkingtreding der overplaatsing - gevestigd is, kan met Onze machtiging de toestemming of de bekrachtiging van de wijziging van de akte van oprichting geheel of gedeeltelijk intrekken, indien later blijkt van omstandigheden, welke de weigering van deze toestemming of bekrachtiging in zoverre gewettigd zouden hebben.
 
@@ -110,7 +133,7 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 3. Indien de toestemming of bekrachtiging van de wijziging in haar geheel wordt ingetrokken, eindigt de bevoegdheid der bestuurders, die overeenkomstig [artikel 1, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002561&afdeling=1&artikel=1&z=2010-10-10&g=2010-10-10), zijn benoemd, met ingang van het tijdstip, waarop de intrekking van de toestemming of de bekrachtiging is bekendgemaakt.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Zo spoedig mogelijk worden in het deel van het Koninkrijk, waarheen de plaats van vestiging der vennootschap is overgebracht, openbaar gemaakt:
 
@@ -130,7 +153,7 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 ### Afdeling 2. Terugplaatsing van vennootschappen uit een ander deel van het Koninkrijk
 
-#### Artikel 9
+##### Artikel 9
 
 1. Onverminderd het bepaalde in de [artikelen 1-8](https://wetten.overheid.nl/jci1.3:c:BWBR0002561&afdeling=1&artikel=1&z=2010-10-10&g=2010-10-10) kan door desbetreffende wijziging van de akte van oprichting de plaats van vestiging van een vennootschap, welke overeenkomstig [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002561&afdeling=1&artikel=1&z=2010-10-10&g=2010-10-10) is overgebracht naar een ander deel van het Koninkrijk, worden teruggebracht naar het deel van het Koninkrijk, waar de vennootschap het eerst gevestigd was.
 
@@ -138,13 +161,13 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 3. [Artikel 1, vierde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002561&afdeling=1&artikel=1&z=2010-10-10&g=2010-10-10), is van overeenkomstige toepassing.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De wijziging, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002561&afdeling=2&artikel=9&z=2010-10-10&g=2010-10-10), geschiedt op straffe van nietigheid bij notariële akte. De akte wordt verleden in de Nederlandse taal.
 
 2. De wijziging treedt in werking met ingang van de dag, waarop de akte is verleden, tenzij daarvoor in de akte een later tijdstip is bepaald.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Elke wijziging van de akte van oprichting van een vennootschap, als in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002561&afdeling=2&artikel=9&z=2010-10-10&g=2010-10-10) bedoeld, behoeft de toestemming van Onze Minister van Justitie van het deel van het Koninkrijk, waarheen de plaats van vestiging der vennootschap wordt teruggebracht.
 
@@ -156,7 +179,7 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 ### Afdeling 3. Overplaatsing van vennootschappen binnen een deel van het Koninkrijk
 
-#### Artikel 12
+##### Artikel 12
 
 1. Door desbetreffende wijziging van de akte van oprichting kan de plaats van vestiging van een vennootschap, welke gevestigd is in een der delen van het Koninkrijk, worden overgebracht naar een andere plaats in hetzelfde deel met overeenkomstige toepassing van het bepaalde in [artikel 1, tweede tot en met negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002561&afdeling=1&artikel=1&z=2010-10-10&g=2010-10-10).
 
@@ -164,7 +187,7 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 3. Ten aanzien van de inwerkingtreding is [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002561&afdeling=1&artikel=2&z=2010-10-10&g=2010-10-10), van overeenkomstige toepassing.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Elke wijziging van de akte van oprichting, als in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0002561&afdeling=3&artikel=12&z=2010-10-10&g=2010-10-10) bedoeld, behoeft de toestemming of de bekrachtiging van Onze Minister van Justitie van het betrokken deel van het Koninkrijk.
 
@@ -178,7 +201,7 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 ### Afdeling 4. Terugplaatsing van vennootschappen binnen een deel van het Koninkrijk
 
-#### Artikel 14
+##### Artikel 14
 
 1. Onverminderd het bepaalde in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0002561&afdeling=3&artikel=12&z=2010-10-10&g=2010-10-10) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002561&afdeling=3&artikel=13&z=2010-10-10&g=2010-10-10) kan door desbetreffende wijziging van de akte van oprichting de plaats van vestiging van een vennootschap, welke overeenkomstig [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0002561&afdeling=3&artikel=12&z=2010-10-10&g=2010-10-10) is overgebracht naar een andere plaats in hetzelfde deel van het Koninkrijk, worden teruggebracht naar de plaats, waar de vennootschap het eerst was gevestigd, met overeenkomstige toepassing van het bepaalde in [artikel 9, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002561&afdeling=2&artikel=9&z=2010-10-10&g=2010-10-10), en [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002561&afdeling=2&artikel=10&z=2010-10-10&g=2010-10-10).
 
@@ -190,7 +213,7 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 ### Afdeling 5. Overplaatsing van andere rechtspersonen
 
-#### Artikel 15
+##### Artikel 15
 
 1. De plaats van vestiging van een in enig deel van het Koninkrijk der Nederlanden gevestigde rechtspersoon die geen vennootschap in de zin van het eerste lid van de algemene bepaling is, kan worden overgebracht naar een ander deel van het Koninkrijk of naar een andere plaats in hetzelfde deel.
 
@@ -212,7 +235,7 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 8. Bij een aanwijzing, als bedoeld in het derde lid, kunnen de bevoegdheden, omschreven in het zesde en zevende lid, voor de aangewezen personen worden uitgesloten of beperkt.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Wordt de plaats van vestiging naar een ander deel van het Koninkrijk overgebracht, dan is met betrekking tot de beslissing tot overbrenging, met inbegrip van de andere veranderingen in de statuten en reglementen van de rechtspersoon, en de benoemingen van toepassing hetgeen in de [artikelen 2 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002561&afdeling=1&artikel=2&z=2010-10-10&g=2010-10-10) met betrekking tot de wijziging van de akte van oprichting van een vennootschap en de benoemingen is bepaald.
 
@@ -222,7 +245,7 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 ### Afdeling 6. Terugplaatsing van andere rechtspersonen
 
-#### Artikel 17
+##### Artikel 17
 
 1. De overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002561&afdeling=5&artikel=15&z=2010-10-10&g=2010-10-10) overgebrachte plaats van vestiging van een rechtspersoon die geen vennootschap in de zin van het eerste lid van de algemene bepaling is, kan, onverminderd het bepaalde in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002561&afdeling=5&artikel=15&z=2010-10-10&g=2010-10-10) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002561&afdeling=5&artikel=16&z=2010-10-10&g=2010-10-10), worden teruggebracht naar het deel van het Koninkrijk of naar de plaats in hetzelfde deel van het Koninkrijk, waar de rechtspersoon het eerst gevestigd was.
 
@@ -238,19 +261,19 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 ### Afdeling 7. Algemene bepalingen
 
-#### Artikel 18
+##### Artikel 18
 
 1. Van het tijdstip af, waarop de plaats van vestiging van een rechtspersoon overeenkomstig deze rijkswet naar een ander deel van het Koninkrijk is overgebracht of teruggebracht, bezit hij de staat van een volgens het recht van dat deel van het Koninkrijk opgerichte rechtspersoon en wordt hij door het aldaar geldende recht beheerst.
 
 2. De bevoegde organen van het deel van het Koninkrijk, waarheen overeenkomstig deze rijkswet de plaats van vestiging van een of meer rechtspersonen is overgebracht, kunnen echter met betrekking tot deze rechtspersonen afwijkende deviezenrechtelijke voorschriften treffen.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Heeft een rechtspersoon een recht of bevoegdheid verkregen, voor het behoud waarvan het gevestigd zijn in, of het opgericht zijn volgens het recht van een bepaald deel van het Koninkrijk een vereiste of voorwaarde is, dan wordt dit vereiste of deze voorwaarde voor vervuld gehouden, zolang de rechtspersoon ingevolge toepassing van deze rijkswet in een ander deel van het Koninkrijk gevestigd is.
 
 2. Heeft een rechtspersoon een recht of bevoegdheid verkregen, voor het behoud waarvan een vereiste of voorwaarde is, dat een of meer van zijn bestuurders, commissarissen of vertegenwoordigers ingezetene zijn van, dan wel woonachtig of geboren zijn in een bepaald deel van het Koninkrijk, dan wordt, zolang de rechtspersoon ingevolge toepassing van deze rijkswet in een ander deel van het Koninkrijk gevestigd is, dit vereiste of deze voorwaarde voor vervuld gehouden, indien even zovele van zijn bestuurders, commissarissen of vertegenwoordigers ingezetene zijn van, dan wel woonachtig of geboren zijn in enig deel van het Koninkrijk.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Zolang de verplaatsing van de zetel van een rechtspersoon overeenkomstig deze rijkswet nog niet in werking is getreden, kan zij, zelfs indien daarvoor reeds toestemming was verleend, worden ingetrokken door het bestuur van de rechtspersoon, door een daartoe door het bestuur bij notariële akte in de Nederlandse taal aangewezen persoon of door degene die de verplaatsing van de zetel tot stand heeft gebracht. Indien het betreft een vennootschap als bedoeld in het eerste lid van de algemene bepaling, kan de intrekking of de aanwijzing van een tot intrekking bevoegde persoon ook geschieden door de algemene vergadering. [Artikel 1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002561&afdeling=1&artikel=1&z=2010-10-10&g=2010-10-10), is van overeenkomstige toepassing. Door de intrekking vervallen alle overeenkomstig deze rijkswet gedane benoemingen en in de akte van oprichting of in de statuten en reglementen aangebrachte andere veranderingen.
 
@@ -258,43 +281,43 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 3. De intrekking en de nadere wijziging, vermeld in de vorige leden, geschieden op straffe van nietigheid bij notariële akte. De akte wordt verleden in de Nederlandse taal.
 
-#### Artikel 21
+##### Artikel 21
 
 1. De notariële akten, voorgeschreven in deze rijkswet, kunnen bestaan in een notarieel proces-verbaal van de bestuursvergadering of van de algemene vergadering, waarin het desbetreffende besluit is genomen.
 
 2. Voor de toepassing van [artikel 1, vierde lid der Consulaire wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001847&artikel=1) worden met Nederlanders gelijkgesteld de personen en de organen van de rechtspersoon, die een handeling verrichten waarvoor de onderhavige rijkswet een notariële akte voorschrijft.
 
-#### Artikel 22
+##### Artikel 22
 
 Voor zover bepalingen in de akte van oprichting of de statuten en reglementen van een rechtspersoon niet in overeenstemming zijn met het bij of krachtens deze rijkswet bepaalde, blijven zij buiten toepassing.
 
-#### Artikel 23
+##### Artikel 23
 
 De overheid is, buiten gevallen van opzet of grove schuld, niet aansprakelijk op grond dat zij een bekrachtiging, als bedoeld in deze rijkswet, ten onrechte heeft verleend.
 
-#### Artikel 24
+##### Artikel 24
 
 Wij behouden Ons voor bij algemene maatregel van rijksbestuur te regelen, wat verder nodig is voor de uitvoering van deze rijkswet.
 
 ### Afdeling 8. Overgangs- en slotbepalingen
 
-#### Artikel 25
+##### Artikel 25
 
 De wet van 26 april 1940 (**Stb.** 200) wordt ingetrokken.
 
-#### Artikel 26
+##### Artikel 26
 
 Het Deviezenbesluit 1943 (**Stb.** D 20) wordt ingetrokken.
 
-#### Artikel 27
+##### Artikel 27
 
 Het Koninklijk besluit van 23 december 1943 (**Stb.** D 57) wordt ingetrokken.
 
-#### Artikel 28
+##### Artikel 28
 
 De geldigheid van wijzigingen van de akte van oprichting en van andere handelingen, goedgekeurd of bekrachtigd op grond van de wet van 26 april 1940 (**Stb.** 200), kan niet worden aangevochten op grond dat het vereiste van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002561&afdeling=1&artikel=5&z=2010-10-10&g=2010-10-10), dan wel van [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002561&afdeling=3&artikel=12&z=2010-10-10&g=2010-10-10), of [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002561&afdeling=6&artikel=17&z=2010-10-10&g=2010-10-10), in verband met artikel 5, van die wet niet in acht zou zijn genomen.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Besluiten en beslissingen, strekkende tot het overbrengen van de plaats van vestiging en tot het aanbrengen van andere veranderingen in de akte van oprichting, statuten of reglementen, als bedoeld in de wet van 26 april 1940 (**Stb.** 200), waarop bij de inwerkingtreding van deze rijkswet nog niet de goedkeuring of bekrachtiging is verkregen, worden aangemerkt als te zijn genomen met het oog op het in deze rijkswet bepaalde en behouden hun kracht zolang zij niet zijn ingetrokken door een orgaan dat krachtens deze rijkswet tot het nemen van zodanige besluiten of beslissingen bevoegd is.
 
@@ -304,11 +327,11 @@ De geldigheid van wijzigingen van de akte van oprichting en van andere handeling
 
 4. Voor de toepassing van de Rijkswet vrijwillige zetelverplaatsing van rechtspersonen en de daarop rustende bepalingen worden naamloze en besloten vennootschappen die bij de inwerkingtreding van de Rijkswet aanpassing rijkswetten aan de oprichting van de nieuwe landen de staat hebben van een vennootschap opgericht naar Nederlands-Antilliaans recht beschouwd als vennootschap in de zin van de algemene bepaling, eerste lid, naar gelang hun plaats van vestiging.
 
-#### Artikel 30
+##### Artikel 30
 
 Deze rijkswet kan worden aangehaald onder de titel: Rijkswet vrijwillige zetelverplaatsing van rechtspersonen.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Deze rijkswet is verbindend voor het gehele Koninkrijk.
 

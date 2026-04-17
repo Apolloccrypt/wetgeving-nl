@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Italiaanse Republiek betreffende de erkenning en de tenuitvoerlegging van rechterlijke beslissingen in burgerlijke en handelszaken"
 identifier: "BWBV0005370"
-categorie: "Burgerlijk recht"
-publicatiedatum: 1963-05-18
-laatste_update: 1963-05-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005370"
+country: "nl"
+rank: "verdrag"
+publication_date: "1963-05-18"
+last_updated: "1963-05-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005370"
+soort: "verdrag"
+stam_id: "10004589343"
+version_id: "10004830242"
+internal_id: "C10008335651"
+label_id: "10004574124"
+dtd_version: "2.0"
+original_entry_into_force: "1963-05-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005370/1963-05-18/0"
+intitule_bron: "Trb.1959-137"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1959-10-09"
+intitule_in_force: "1963-05-08"
+intitule_status: "goed"
+original_publication: "Trb.1959-137"
+original_published_date: "1959-10-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1959-137"
+entry_into_force_date: "1963-05-18"
+jci_1_3: "jci1.3:c:BWBV0005370&z=1963-05-18&g=1963-05-18"
+jci_1_0: "1.0:c:BWBV0005370&g=1963-05-18"
+citeertitel_status: "redactioneel"
+entry_into_force: "1963-05-18"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Italiaanse Republiek betreffende de erkenning en de tenuitvoerlegging van rechterlijke beslissingen in burgerlijke en handelszaken
 
 Hare Majesteit de Koningin der Nederlanden en de President van de Italiaanse Republiek, verlangend de betrekkingen tussen de beide Landen te regelen ten aanzien van de erkenning en de tenuitvoerlegging van rechterlijke beslissingen in burgerlijke en handelszaken, hebben besloten te dien einde een Verdrag te sluiten en hebben tot hun Gevolmachtigden benoemd:
@@ -22,7 +44,7 @@ de Heer Giuseppe Pella, Minister van Buitenlandse Zaken,
 
 die, na hun volmachten in goede en behoorlijke vorm te hebben bevonden, de volgende bepalingen zijn overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 De beslissingen, in burgerlijke en handelszaken gegeven door de gerechten van een der beide Staten, hebben op het gebied van de andere Staat het gezag van gewijsde zaak, indien zij aan de volgende voorwaarden voldoen:
 
@@ -38,7 +60,7 @@ De beslissingen, in burgerlijke en handelszaken gegeven door de gerechten van ee
 
 Op het gezag van gewijsde zaak kan een beroep worden gedaan door iedere belanghebbende partij volgens de regelen van procesrecht, welke in de aangezochte Staat van kracht zijn.
 
-#### Artikel 2
+##### Artikel 2
 
 De gerechten van de Staat, waar de beslissing is gegeven, zijn bevoegd in de zin van artikel 1, sub 1, indien de bevoegdheid is neergelegd in een ander Verdrag tussen de Hoge Verdragsluitende Partijen, of in de na te noemen gevallen:
 
@@ -66,7 +88,7 @@ De gerechten van de Staat, waar de beslissing is gegeven, zijn bevoegd in de zin
 
 De voorgaande bepalingen zijn niet van toepassing op geschillen, waarvoor het recht van de aangezochte Staat de eigen gerechten of die van een derde Staat bij uitsluiting bevoegd verklaart.
 
-#### Artikel 3
+##### Artikel 3
 
 De beslissingen, gegeven door de gerechten van een der beide Staten, welke voldoen aan de in artikel 1 opgesomde voorwaarden, kunnen, na uitvoerbaar te zijn verklaard op aanvraag van iedere belanghebbende partij, aanleiding geven tot gedwongen tenuitvoerlegging in de andere Staat, zowel op roerende als onroerende goederen, of daar het voorwerp zijn van formaliteiten als inschrijving of overschrijving in de openbare registers.
 
@@ -78,13 +100,13 @@ De uitvoerbaarverklaring kan gedeeltelijk, voor slechts een of meer van de in de
 
 De procedure betreffende de aanvraag tot uitvoerbaarverklaring wordt beheerst door de wet van de Staat, waar de tenuitvoerlegging wordt gevraagd.
 
-#### Artikel 4
+##### Artikel 4
 
 De gerechten van de Staat, waar een beroep op de beslissing wordt, gedaan, zijn bij het onderzoek naar de feiten die de bevoegdheid van de gerechten van de andere Staat bepalen, niet gebonden aan hetgeen te dien aanzien in de beslissing is vastgesteld.
 
 Zij gaan niet over tot een nieuw onderzoek van de zaak zelf.
 
-#### Artikel 5
+##### Artikel 5
 
 De partij, die een beroep op de beslissing doet, moet overleggen:
 
@@ -98,15 +120,15 @@ De partij, die een beroep op de beslissing doet, moet overleggen:
 
 Indien deze documenten zijn opgesteld, afgegeven of gelegaliseerd door een gerecht van een der Hoge Verdragsluitende Partijen, kan men zich zonder enige legalisatie daarvan bedienen op het gebied van de andere Partij, mits zij zijn voorzien van het zegel of het stempel van het genoemde gerecht.
 
-#### Artikel 6
+##### Artikel 6
 
 De partij, welke in een van beide Staten is toegelaten tot het voorrecht van kosteloze rechtsbijstand, geniet dit eveneens van rechtswege in de procedure tot erkenning of uitvoerbaarverklaring op het gebied van de andere Staat van de beslissing, te haren gunste gegeven.
 
-#### Artikel 7
+##### Artikel 7
 
 Wat betreft de erkenning en de tenuitvoerlegging van scheidsrechterlijke uitspraken, worden de verhoudingen tussen beide Staten geregeld door het op 26 september 1927 te Genève ter ondertekening neergelegde Verdrag nopens de tenuitvoerlegging van in het buitenland gewezen scheidsrechterlijke uitspraken, in dier voege dat het toepasselijk is op alle in een van beide Staten gedane scheidsrechterlijke uitspraken, zonder dat rekening wordt gehouden met de in artikel 1, lid 1, van genoemd Verdrag bedoelde beperkingen.
 
-#### Artikel 8
+##### Artikel 8
 
 Authentieke akten, uitvoerbaar in een der beide Staten, kunnen in de andere uitvoerbaar worden verklaard door de autoriteit die daartoe volgens de wet van laatstbedoelde Staat bevoegd is.
 
@@ -114,17 +136,17 @@ Deze autoriteit gaat alleen na, of de akten voldoen aan de vereiste voorwaarden 
 
 De voorgaande bepalingen zijn toepasselijk op dadingen en op schikkingen, welke ten overstaan van rechterlijke autoriteiten tot stand komen en door deze worden gewaarmerkt of bevestigd.
 
-#### Artikel 9
+##### Artikel 9
 
 De gerechten van een van beide Staten onthouden zich, op vordering van een der partijen, van de kennisneming van bij hen aanhangig gemaakte geschillen, indien deze reeds aanhangig zijn bij een gerecht van de andere Staat, mits het laatstgenoemde gerecht bevoegd is overeenkomstig de regels van dit Verdrag.
 
 De voorgaande bepaling is niet van toepassing, wanneer een eis tot vanwaardeverklaring of tot opheffing van een conservatoir beslag, dat in een van beide Staten is gelegd, gebracht wordt voor de gerechten van deze Staat. In dit geval blijft de bevoegdheid dezer gerechten om, krachtens hun interne wetgeving, te beslissen op het bodemgeschil, onverkort, ondanks het feit dat dit reeds voor een gerecht van de andere Staat aanhangig is.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit Verdrag is niet toepasselijk op beslissingen die een sequestratie of enige andere voorlopige maatregel bevelen, noch op beslissingen, gegeven in een strafproces op de vordering van de beledigde partij, noch op beslissingen, gegeven inzake surséance van betaling of faillissement.
 
-#### Artikel 11
+##### Artikel 11
 
 Voor de toepassing van dit Verdrag wordt onder het woord „woonplaats” verstaan:
 
@@ -136,23 +158,23 @@ Voor de toepassing van dit Verdrag wordt onder het woord „woonplaats” versta
 
 - 4). voor vennootschappen en voor rechtspersonen, andere dan vennootschappen, ook gedurende de vereffening hunner zaken, de plaats waar de statutaire zetel is gevestigd.
 
-#### Artikel 12
+##### Artikel 12
 
 Dit Verdrag laat de bepalingen van internationale overeenkomsten die de rechterlijke bevoegdheid, de erkenning en de tenuitvoerlegging van vonnissen voor bijzondere onderwerpen regelen, onverlet.
 
-#### Artikel 13
+##### Artikel 13
 
 De beslissingen betreffende de kosten van het geding, bedoeld in artikel 18, lid 1 en 2, van het op 1 maart 1954 te 's-Gravenhage gesloten Verdrag betreffende de burgerlijke rechtsvordering, welke in een der beide Staten zijn gegeven, worden op het gebied van de andere Staat uitvoerbaar verklaard niet alleen op een verzoek, gedaan langs diplomatieke weg, maar ook op rechtstreekse aanvrage van de belanghebbende partij.
 
-#### Artikel 14
+##### Artikel 14
 
 De bepalingen van dit Verdrag zijn toepasselijk onverschillig welke de nationaliteit van de partijen is, behoudens de uit internationale overeenkomsten voortvloeiende uitzonderingen.
 
-#### Artikel 15
+##### Artikel 15
 
 Dit Verdrag is slechts van toepassing op de in Europa gelegen gebieden der beide Hoge Verdragsluitende Partijen.
 
-#### Artikel 16
+##### Artikel 16
 
 Dit Verdrag zal worden bekrachtigd. De akten van bekrachtiging worden zo spoedig mogelijk te 's-Gravenhage uitgewisseld.
 

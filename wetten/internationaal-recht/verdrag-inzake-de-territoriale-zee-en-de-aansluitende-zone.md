@@ -1,13 +1,35 @@
 ---
 title: "Verdrag inzake de territoriale zee en de aansluitende zone"
 identifier: "BWBV0005376"
-categorie: "Internationaal recht"
-publicatiedatum: 1966-03-20
-laatste_update: 1966-03-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005376"
+country: "nl"
+rank: "verdrag"
+publication_date: "1966-03-20"
+last_updated: "1966-03-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005376"
+soort: "verdrag"
+stam_id: "10004591743"
+version_id: "10004833552"
+internal_id: "C10008335691"
+label_id: "10004577164"
+dtd_version: "2.0"
+original_entry_into_force: "1966-03-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005376/1966-03-20/0"
+intitule_bron: "Trb.1959-123"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1959-10-06"
+intitule_in_force: "1966-04-07"
+intitule_status: "goed"
+original_publication: "Trb.1959-123"
+original_published_date: "1959-10-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1959-123"
+entry_into_force_date: "1966-03-20"
+jci_1_3: "jci1.3:c:BWBV0005376&z=1966-03-20&g=1966-03-20"
+jci_1_0: "1.0:c:BWBV0005376&g=1966-03-20"
+citeertitel_status: "redactioneel"
+entry_into_force: "1966-03-20"
 ---
-
 # Verdrag inzake de territoriale zee en de aansluitende zone
 
 De staten die partij zijn bij dit Verdrag
@@ -18,23 +40,23 @@ Zijn het volgende overeengekomen:
 
 ### Afdeling I. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 1. De soevereiniteit van een staat strekt zich buiten zijn landgebied en zijn binnenwateren uit over een zeestrook grenzende aan zijn kust en omschreven als de territoriale zee.
 
 2. Deze soevereiniteit wordt uitgeoefend met inachtneming van de bepalingen van deze artikelen en van de andere regels van het volkenrecht.
 
-#### Artikel 2
+##### Artikel 2
 
 De soevereiniteit van een kuststaat strekt zich uit over het luchtruim boven de territoriale zee en over de bedding en ondergrond van die zee.
 
 ### Afdeling II. Begrenzing van de territoriale zee
 
-#### Artikel 3
+##### Artikel 3
 
 Behalve voorzover anders in deze artikelen bepaald, is de normale basislijn vanwaar de breedte van de territoriale zee gemeten wordt de laagwaterlijn langs de kust, zoals die is aangegeven op officieel door de kuststaat erkende, op grote schaal uitgevoerde zeekaarten.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Op plaatsen waar de kustlijn diepe uithollingen en insnijdingen vertoont, of indien er een eilandenreeks langs en in de onmiddellijke nabijheid van de kust ligt, kan de methode van rechte basislijnen die daarvoor in aanmerking komende punten verbinden, worden toegepast voor het vaststellen van de basislijn vanwaar de breedte van de territoriale zee wordt gemeten.
 
@@ -48,17 +70,17 @@ Behalve voorzover anders in deze artikelen bepaald, is de normale basislijn vanw
 
 6. De kuststaat dient rechte basislijnen duidelijk aan te geven op zeekaarten, waaraan voldoende bekendheid dient te worden gegeven.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Wateren gelegen aan de landzijde van de basislijn van de territoriale zee maken deel uit van de binnenwateren van de staat.
 
 2. Wanneer het vaststellen van een rechte basislijn overeenkomstig artikel 4 tot gevolg heeft, dat wateren die vroeger beschouwd werden als deel van de territoriale zee of de volle zee, als binnenwateren worden ingesloten, zal in die wateren het in de artikelen 14 tot en met 23 omschreven recht van onschuldige doorvaart bestaan.
 
-#### Artikel 6
+##### Artikel 6
 
 De buitengrens van de territoriale zee wordt aangegeven door de lijn waarvan elk punt op een afstand gelijk aan de breedte van de territoriale zee is gelegen van het dichtstbijgelegen punt van de basislijn.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Dit artikel heeft uitsluitend betrekking op baaien waaraan een enkele staat ligt.
 
@@ -72,33 +94,33 @@ De buitengrens van de territoriale zee wordt aangegeven door de lijn waarvan elk
 
 6. De voorgaande bepalingen zijn niet van toepassing op zogenaamde „historische” baaien, noch in de gevallen waarin het systeem van rechte basislijnen als bedoeld in artikel 4 wordt toegepast.
 
-#### Artikel 8
+##### Artikel 8
 
 Voor het vaststellen van de begrenzing van de territoriale zee worden de permanente havenwerken die het verst uit de kust zijn gelegen en die een integrerend onderdeel vormen van het havensysteem, beschouwd een onderdeel van de kust te vormen.
 
-#### Artikel 9
+##### Artikel 9
 
 Reden die normaal gebruikt worden voor het laden, lossen en voor anker gaan van schepen en die anders geheel of gedeeltelijk buiten de buitengrens van de territoriale zee zouden zijn gelegen, worden tot de territoriale zee gerekend. De kuststaat moet dergelijke reden duidelijk afbakenen en ze op zeekaarten aangeven met hun grenzen, aan welke zeekaarten voldoende bekendheid dient te worden gegeven.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Een eiland is een op natuurlijke wijze ontstane landoppervlakte die door water is omgeven en die ook bij hoog tij boven water uitsteekt.
 
 2. De territoriale zee van een eiland wordt gemeten overeenkomstig de bepalingen van deze artikelen.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Een bij eb droogvallende bodemverheffing is een op natuurlijke wijze ontstane landoppervlakte die bij laag tij door water is omgeven en boven water uitsteekt doch bij hoog tij onder water komt. Indien een bij eb droogvallende bodemverheffing geheel of gedeeltelijk op een afstand tot het vasteland of een eiland ligt, die niet groter is dan de breedte van de territoriale zee, dan kan de laagwaterlijn van die bodemverheffing gebruikt worden als basislijn voor het meten van de breedte van de territoriale zee.
 
 2. Indien een bij eb droogvallende bodem verheffing in haar geheel op een afstand van het vasteland of een eiland ligt, die groter is dan de breedte van de territoriale zee, heeft zij geen eigen territoriale zee.
 
-#### Artikel 12
+##### Artikel 12
 
 1. In gevallen waarin de kusten van twee staten tegenover elkaar zijn gelegen of aan elkaar grenzen, is, indien er geen overeenkomst tussen hen bestaat waarin anders wordt bepaald, geen van beide staten gerechtigd zijn territoriale zee uit te strekken tot voorbij de middellijn waarvan elk punt even ver is verwijderd van de dichtstbijgelegen punten van de basislijnen vanwaar de breedte van de territoriale zee van elk der twee staten wordt gemeten. De bepalingen van dit lid zijn echter niet van toepassing in gevallen, waarin het op grond van een historische titel of van andere bijzondere omstandigheden noodzakelijk is de territoriale zeeën van de twee staten af te bakenen op een wijze welke afwijkt van deze bepaling.
 
 2. De afbakeningslijn tussen de territoriale zeeën van twee staten die tegenover elkaar zijn gelegen of aan elkaar grenzen, dient te worden aangegeven op officieel door de kuststaten erkende, op grote schaal uitgevoerde zeekaarten.
 
-#### Artikel 13
+##### Artikel 13
 
 Indien een rivier rechtstreeks in zee uitmondt, is de basislijn een rechte lijn getrokken over de monding van de rivier tussen de uiterste punten op de laagwaterlijn van de oevers van die rivier.
 
@@ -106,7 +128,7 @@ Indien een rivier rechtstreeks in zee uitmondt, is de basislijn een rechte lijn 
 
 #### ONDERAFDELING A. REGELS WELKE VAN TOEPASSING ZIJN OP ALLE SCHEPEN
 
-#### Artikel 14
+##### Artikel 14
 
 1. Onder voorbehoud van de bepalingen van deze artikelen genieten schepen van alle staten, ongeacht of zij kuststaten zijn of niet, het recht van onschuldige doorvaart door de territoriale zee.
 
@@ -120,13 +142,13 @@ Indien een rivier rechtstreeks in zee uitmondt, is de basislijn een rechte lijn 
 
 6. Onderzeeboten zijn verplicht aan de oppervlakte te varen en hun vlag te tonen.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De kuststaat mag de onschuldige doorvaart door de territoriale zee niet belemmeren.
 
 2. De kuststaat is verplicht voldoende bekendheid te geven aan alle hem bekende gevaren voor de navigatie in zijn territoriale zee.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De kuststaat kan binnen zijn territoriale zee de maatregelen nemen welke nodig zijn om een doorvaart die niet onschuldig is, te voorkomen.
 
@@ -136,19 +158,19 @@ Indien een rivier rechtstreeks in zee uitmondt, is de basislijn een rechte lijn 
 
 4. Het recht van onschuldige doorvaart van vreemde schepen mag niet worden opgeschort in zeestraten die gebruikt worden voor de internationale scheepvaart tussen een bepaald deel van de volle zee en een ander deel van de volle zee dan wel de territoriale zee van een vreemde staat.
 
-#### Artikel 17
+##### Artikel 17
 
 Vreemde schepen die gebruik maken van het recht van onschuldige doorvaart, dienen zich te houden aan de wetten en voorschriften welke door de kuststaat zijn of worden uitgevaardigd in overeenstemming met deze artikelen en de andere regelen van het volkenrecht, en, in het bijzonder, aan de wetten en voorschriften die betrekking hebben op vervoer en scheepvaart.
 
 #### ONDERAFDELING B. REGELS DIE VAN TOEPASSING ZIJN OP KOOPVAARDIJSCHEPEN
 
-#### Artikel 18
+##### Artikel 18
 
 1. Aan vreemde schepen mag niets in rekening worden gebracht louter op grond van het feit, dat zij door de territoriale zee varen.
 
 2. Aan een vreemd schip dat door de territoriale zee vaart, mogen alleen kosten in rekening worden gebracht voor bepaalde ten behoeve van het schip verrichte diensten. Deze kosten worden in rekening gebracht zonder enige discriminatie.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De rechtsmacht in strafrechtelijke aangelegenheden van de kuststaat dient niet te worden uitgeoefend aan boord van een door de territoriale wateren varend vreemd schip met het oogmerk een persoon te arresteren of een onderzoek in te stellen in verband met een aan boord van het schip tijdens de doorvaart bedreven strafbaar feit, behalve in de volgende gevallen:
 
@@ -168,7 +190,7 @@ Vreemde schepen die gebruik maken van het recht van onschuldige doorvaart, diene
 
 5. De kuststaat mag aan boord van een door de territoriale zee varend schip geen maatregelen treffen met het oogmerk iemand te arresteren of een onderzoek in te stellen in verband met een strafbaar feit dat aan boord werd bedreven voor het schip de territoriale zee binnenvoer, indien het schip, komende van een buitenlandse haven, slechts door de territoriale zee vaart zonder de binnenwateren binnen te varen.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De kuststaat mag een vreemd schip dat door zijn territoriale zee vaart niet dwingen te stoppen of een andere koers te volgen met met het oogmerk zijn rechtsmacht in burgerrechtelijke aangelegenheden uit te oefenen ten aanzien van een persoon aan boord van dat schip.
 
@@ -178,11 +200,11 @@ Vreemde schepen die gebruik maken van het recht van onschuldige doorvaart, diene
 
 #### ONDERAFDELING C. REGELS WELKE VAN TOEPASSING ZIJN OP STAATSSCHEPEN, MET UITZONDERING VAN OORLOGSSCHEPEN
 
-#### Artikel 21
+##### Artikel 21
 
 De in de onderafdelingen A en B vervatte regelen zijn eveneens van toepassing op staatsschepen welke worden gebruikt voor commerciële doeleinden.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De regels vervat in onderafdeling A en in artikel 18 zijn van toepassing op staatsschepen welke worden gebruikt voor andere dan commerciële doeleinden.
 
@@ -190,13 +212,13 @@ De in de onderafdelingen A en B vervatte regelen zijn eveneens van toepassing op
 
 #### ONDERAFDELING D. REGEL WELKE VAN TOEPASSING IS OP OORLOGSSCHEPEN
 
-#### Artikel 23
+##### Artikel 23
 
 Indien een oorlogsschip de voorschriften van de kuststaat ten aanzien van de Vaart door de territoriale zee niet in acht neemt en verzoeken om deze voorschriften in acht te nemen negeert, kan de kuststaat van het oorlogsschip eisen, dat het de territoriale zee verlaat.
 
 ### Hoofdstuk II. DE AANSLUITENDE ZONE
 
-#### Artikel 24
+##### Artikel 24
 
 1. In een zone van de volle zee die grenst aan zijn territoriale zee, mag de kuststaat toezicht uitoefenen ten einde
 
@@ -210,35 +232,35 @@ Indien een oorlogsschip de voorschriften van de kuststaat ten aanzien van de Vaa
 
 ### Hoofdstuk III. SLOTARTIKELEN
 
-#### Artikel 25
+##### Artikel 25
 
 Aan reeds van kracht zijnde verdragen of andere internationale overeenkomsten wordt, voor zover betreft de staten die daarbij partij zijn, geen afbreuk gedaan door de bepalingen van dit Verdrag
 
-#### Artikel 26
+##### Artikel 26
 
 Dit Verdrag staat tot 31 oktober 1958 open ter ondertekening door alle staten die Lid zijn van de Verenigde Naties of van een der Gespecialiseerde Organisaties, en door iedere andere staat die door de Algemene Vergadering der Verenigde Naties wordt uitgenodigd partij te worden bij dit Verdrag.
 
-#### Artikel 27
+##### Artikel 27
 
 Dit Verdrag dient te worden bekrachtigd. De akten van bekrachtiging zullen worden nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
 
-#### Artikel 28
+##### Artikel 28
 
 Dit Verdrag staat open voor toetreding door iedere staat die tot een der in artikel 26 genoemde categorieën behoort. De akten van toetreding zullen worden nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Dit Verdrag treedt in werking op de dertigste dag volgend op de datum van nederlegging van de tweeëntwintigste akte van bekrachtiging of toetreding bij de Secretaris-Generaal van de Verenigde Naties.
 
 2. Ten aanzien van iedere staat die het Verdrag bekrachtigt of ertoe toetreedt na de nederlegging van de tweeëntwintigste akte van bekrachtiging of toetreding, treedt het Verdrag in werking op de dertigste dag na de nederlegging van de akte van bekrachtiging of toetreding door die staat.
 
-#### Artikel 30
+##### Artikel 30
 
 1. Na het verstrijken van een tijdvak van vijf jaar te rekenen van de datum waarop dit Verdrag in werking treedt af, kan iedere Verdragsluitende Partij te allen tijde door middel van een schriftelijke, tot de Secretaris-Generaal der Verenigde Naties gerichte mededeling om een herziening van dit Verdrag verzoeken.
 
 2. De Algemene Vergadering van de Verenigde Naties beslist over de eventueel te nemen stappen naar aanleiding van een dergelijk verzoek.
 
-#### Artikel 31
+##### Artikel 31
 
 De Secretaris-Generaal van de Verenigde Naties doet aan alle staten die Lid zijn van de Verenigde Naties en aan de andere in artikel 26 bedoelde staten mededeling van:
 
@@ -248,7 +270,7 @@ De Secretaris-Generaal van de Verenigde Naties doet aan alle staten die Lid zijn
 
 - c. verzoeken om herziening overeenkomstig artikel 30.
 
-#### Artikel 32
+##### Artikel 32
 
 Het origineel van dit Verdrag, waarvan de Chinese, Engelse, Franse, Russische en Spaanse teksten gelijkelijk authentiek zijn, zal worden nedergelegd bij de Secretaris-Generaal van de Verenigde Naties, die gewaarmerkte afschriften ervan zal doen toekomen aan alle in artikel 26 bedoelde staten.
 

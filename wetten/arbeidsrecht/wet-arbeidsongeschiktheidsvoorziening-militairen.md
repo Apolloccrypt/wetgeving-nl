@@ -1,14 +1,38 @@
 ---
-title: "Wet arbeidsongeschiktheidsvoorziening militairen"
+title: "Wet van 7 juni 1972, houdende regelen met betrekking tot voorzieningen ten behoeve van dienstplichtige militairen en daarmede gelijkgestelden tegen geldelijke gevolgen van arbeidsongeschiktheid"
 identifier: "BWBR0002822"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2015-01-01
-laatste_update: 2015-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002822"
+country: "nl"
+rank: "wet"
+publication_date: "2015-01-01"
+last_updated: "2015-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002822"
+soort: "wet"
+stam_id: "1839753"
+version_id: "2745632"
+internal_id: "C2745631"
+label_id: "1794434"
+dtd_version: "2.0"
+original_entry_into_force: "1966-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002822/2015-01-01/0"
+intitule_bron: "Stb.1972-313"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1972-06-07"
+intitule_status: "goed"
+original_publication: "Stb.1972-313"
+original_signed_date: "1972-06-07"
+original_effect: "nieuwe-regeling"
+original_dossier: "10732"
+entry_into_force_date: "1966-07-01"
+entry_into_force_dossier: "10732"
+jci_1_3: "jci1.3:c:BWBR0002822&z=2015-01-01&g=2015-01-01"
+jci_1_0: "1.0:c:BWBR0002822&g=2015-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet arbeidsongeschiktheidsvoorziening militairen"
+signed_date: "1972-06-07"
+entry_into_force: "1966-07-01"
 ---
-
-# Wet arbeidsongeschiktheidsvoorziening militairen
+# Wet van 7 juni 1972, houdende regelen met betrekking tot voorzieningen ten behoeve van dienstplichtige militairen en daarmede gelijkgestelden tegen geldelijke gevolgen van arbeidsongeschiktheid
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +42,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk I. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. Voor de toepassing van hetgeen bij of krachtens deze wet is bepaald wordt verstaan onder:
 
@@ -66,7 +90,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 4. Geen belanghebbende in de zin van deze wet is de persoon die op of na 29 december 2005 arbeidsongeschikt wordt.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Waar in deze wet of in de tot haar uitvoering genomen besluiten, wordt gesproken van "aanspraken krachtens een andere wettelijke regeling",
 
@@ -90,25 +114,25 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk II. Het ziekengeld
 
-#### Artikel 3
+##### Artikel 3
 
 1. De belanghebbende, die op de dag, waarop zijn verblijf in werkelijke dienst eindigt, arbeidsongeschikt is of binnen een maand na die dag arbeidsongeschikt wordt, heeft, overeenkomstig hetgeen bij of krachtens deze wet is bepaald, met betrekking tot zijn arbeidsongeschiktheid recht op dezelfde ziekengelduitkering als die, waarop krachtens de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) aanspraak zou bestaan, indien hij onmiddellijk voorafgaande aan zijn arbeidsongeschiktheid verzekerde in de zin van die wet zou zijn geweest, evenwel slechts indien en voor zover hij ter zake van die arbeidsongeschiktheid geen aanspraken krachtens een andere wettelijke regeling kan doen gelden.
 
 2. Het in het vorige lid omschreven recht heeft eveneens de belanghebbende, die arbeidsongeschikt wordt nadat sedert de dag, waarop zijn verblijf in werkelijke dienst eindigde, meer dan een maand is verstreken, evenwel slechts indien en voor zover hij ter zake van die arbeidsongeschiktheid geen aanspraken krachtens een andere wettelijke regeling kan doen gelden en dit, naar het oordeel van Onze Minister van Defensie, zijn oorzaak vindt in het verblijf in werkelijke dienst.
 
-#### Artikel 4
+##### Artikel 4
 
 De ziekengelduitkering gaat in op de dag, waarop de arbeidsongeschiktheid is aangevangen.
 
 ### Hoofdstuk III. De arbeidsongeschiktheidsuitkering
 
-#### Artikel 5
+##### Artikel 5
 
 1. De belanghebbende, die op de dag, waarop zijn verblijf in werkelijke dienst eindigt, arbeidsongeschikt is of binnen een maand na die dag arbeidsongeschikt wordt, heeft, overeenkomstig hetgeen bij of krachtens deze wet is bepaald, met betrekking tot zijn arbeidsongeschiktheid of de toeneming van de arbeidsongeschiktheid recht op dezelfde uitkeringen als die, waarop krachtens de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) aanspraak zou bestaan, indien hij onmiddellijk voorafgaande aan zijn arbeidsongeschiktheid verzekerde in de zin van die wet zou zijn geweest, evenwel slechts indien en voor zover hij ter zake van die arbeidsongeschiktheid onderscheidenlijk die toeneming van de arbeidsongeschiktheid geen aanspraken krachtens een andere wettelijke regeling kan doen gelden. [Hoofdstuk IIA van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&hoofdstuk=IIA) is van overeenkomstige toepassing.
 
 2. Het in het vorige lid omschreven recht heeft eveneens de belanghebbende, die arbeidsongeschikt wordt nadat sedert de dag, waarop zijn verblijf in werkelijke dienst eindigde, meer dan een maand is verstreken, evenwel slechts indien en voor zover hij ter zake van zijn arbeidsongeschiktheid of de toeneming van zijn arbeidsongeschiktheid geen aanspraken krachtens een andere wettelijke regeling kan doen gelden en dit, naar het oordeel van Onze Minister van Defensie, zijn oorzaak vindt in het verblijf in werkelijke dienst.
 
-#### Artikel 5a
+##### Artikel 5a
 
 1. De [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=21), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=22), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=40), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=48), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=53) en [59**b**, vierde lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=59b), zoals die artikelen luidden op de dag voorafgaande aan die waarop de [Wet terugdringing beroep op de arbeidsongeschiktheidsregelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0006072) in werking is getreden, blijven van toepassing op de belanghebbende, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002822&hoofdstuk=III&artikel=5&z=2015-01-01&g=2015-01-01). De artikelen 21**a** en 21**b** zijn niet van toepassing op de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002822&hoofdstuk=III&artikel=5&z=2015-01-01&g=2015-01-01) bedoelde belanghebbende.
 
@@ -116,7 +140,7 @@ De ziekengelduitkering gaat in op de dag, waarop de arbeidsongeschiktheid is aan
 
 ### Hoofdstuk IV. De vereveningsbijdrage
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het uitvoeringsorgaan houdt op de uitkering ingevolge deze wet en de toeslag op deze uitkering ingevolge de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) een bedrag in, dat gelijk is aan het bedrag van de premie die een werkgever op grond van [afdeling 2 van hoofdstuk 3 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&afdeling=2), op het overeenkomstige loon van een werknemer die verzekerd is op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), inhoudt.
 
@@ -126,35 +150,35 @@ De ziekengelduitkering gaat in op de dag, waarop de arbeidsongeschiktheid is aan
 
 ### Hoofdstuk V. De uitvoering
 
-#### Artikel 7
+##### Artikel 7
 
 Het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5), is belast met de uitvoering van deze wet, voorzover die uitvoering niet krachtens deze wet aan anderen is opgedragen.
 
 ### Hoofdstuk VI. Algemene bepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 De bepalingen betreffende de verplichte verzekering ingevolge de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) en de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de bepalingen van de [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060) en van de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745) alsmede van de [afdelingen II](https://wetten.overheid.nl/jci1.3:c:BWBR0004046&afdeling=II) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0004046&afdeling=III) van [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0004046&hoofdstuk=III) en van [afdeling II van hoofdstuk IV van de Invoeringswet stelselherziening sociale zekerheid](https://wetten.overheid.nl/jci1.3:c:BWBR0004046&afdeling=II) en de uitvoeringsbesluiten van genoemde wetten zijn, met inachtneming van de wijzigingen, die de aard van het onderwerp vordert, voor zoveel nodig van overeenkomstige toepassing, voor zover daarvan in hetgeen bij of krachtens deze wet is bepaald, niet is afgeweken.
 
-#### Artikel 8a
+##### Artikel 8a
 
 De [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=8) en [8a van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=8a) en [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=7a) en [16, onderdeel c van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=16) zijn op degene, die een uitkering ingevolge deze wet ontvangt, niet van overeenkomstige toepassing.
 
-#### Artikel 9
+##### Artikel 9
 
 [Artikel 33**a** van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=33a) is van overeenkomstige toepassing met betrekking tot uitkeringen anders dan bedoeld in dat artikel, die worden ontleend aan een andere wettelijke regeling.
 
-#### Artikel 10
+##### Artikel 10
 
 Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ten aanzien van het dagloon.
 
-#### Artikel 11
+##### Artikel 11
 
 De uitgaven en de kosten verbonden aan de uitvoering van deze wet alsmede de ingevolge enige wet over de uitkeringen krachtens deze wet door het uitvoeringsorgaan verschuldigde premies, die niet op deze uitkeringen in mindering kunnen worden gebracht, komen ten laste van het Rijk.
 
 ### Hoofdstuk VII. Slot- en overgangsbepalingen
 
-#### Artikel 12
+##### Artikel 12
 
 De bepalingen van deze wet zijn met uitzondering van [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0002822&hoofdstuk=II&z=2015-01-01&g=2015-01-01) mede van toepassing ten aanzien van degene die arbeidsongeschikt is geworden op een tijdstip gelegen vóór 1 juli 1966 en wiens arbeidsongeschiktheid sedertdien onafgebroken heeft voortgeduurd, indien hij:
 
@@ -164,7 +188,7 @@ De bepalingen van deze wet zijn met uitzondering van [hoofdstuk II](https://wett
 
 met dien verstande, dat [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0002822&hoofdstuk=III&z=2015-01-01&g=2015-01-01) geen toepassing vindt vóór de datum van inwerkingtreding van deze wet.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De Militaire Ziekengeldregeling (**Stcrt.** 1966, 157) vervalt.
 
@@ -174,31 +198,31 @@ met dien verstande, dat [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 - b. op de dag van inwerkingtreding van deze wet lopende ziektegevallen, met dien verstande dat ten aanzien van deze gevallen van bedoelde dag af artikel 4, eerste lid, tweede volzin, van de Militaire Ziekengeldregeling buiten toepassing blijft.
 
-#### Artikel 14
+##### Artikel 14
 
 Indien een belanghebbende in aansluiting op de maximumuitkeringstermijn, bedoeld in artikel 4, eerste lid, eerste volzin, van de Militaire Ziekengeldregeling, zoals dat artikel luidde op de dag voorafgaande aan die, waarop deze wet in werking treedt, een uitkering ten laste van het Ministerie van Defensie heeft genoten en hij over datzelfde tijdvak of een gedeelte daarvan tevens recht heeft op een arbeidsongeschiktheidsuitkering krachtens deze wet, wordt deze arbeidsongeschiktheidsuitkering slechts uitbetaald, voor zoveel zij eerstbedoelde uitkering over dat tijdvak of dat gedeelte daarvan overtreft, evenwel voor zover Onze Minister van Defensie niet anders bepaalt.
 
-#### Artikel 15
+##### Artikel 15
 
 De [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) is niet van toepassing op de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002822&hoofdstuk=II&artikel=3&z=2015-01-01&g=2015-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002822&hoofdstuk=III&artikel=5&z=2015-01-01&g=2015-01-01) gestelde termijnen.
 
-#### Artikel 16
+##### Artikel 16
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 17
+##### Artikel 17
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 18
+##### Artikel 18
 
 Onze Ministers van Defensie en van Sociale Zaken en Werkgelegenheid kunnen nadere regelen stellen ter uitvoering van deze wet.
 
-#### Artikel 19
+##### Artikel 19
 
 Deze wet kan worden aangehaald als "Wet arbeidsongeschiktheidsvoorziening militairen".
 
-#### Artikel 20
+##### Artikel 20
 
 Deze wet treedt in werking met ingang van de tweede kalendermaand na de datum van uitgifte van het **Staatsblad**, waarin zij wordt geplaatst en werkt terug voor wat betreft:
 
@@ -208,7 +232,7 @@ Deze wet treedt in werking met ingang van de tweede kalendermaand na de datum va
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 12a
+##### Artikel 12a
 
 Artikel 10 en de daarop berustende bepalingen, zoals die luidden op de dag voorafgaand aan de inwerkingtreding van artikel XXI van de Wet administratieve lastenverlichting en vereenvoudiging in socialeverzekeringswetten, blijven van toepassing op de persoon wiens recht op uitkering is ontstaan voor de datum van inwerkingtreding van dat artikel, met betrekking tot die uitkering.
 

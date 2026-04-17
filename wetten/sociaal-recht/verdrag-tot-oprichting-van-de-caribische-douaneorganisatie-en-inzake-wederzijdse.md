@@ -1,13 +1,32 @@
 ---
 title: "Verdrag tot oprichting van de Caribische Douaneorganisatie en inzake wederzijdse administratieve bijstand in douanezaken"
 identifier: "BWBV0006825"
-categorie: "Sociaal recht"
-publicatiedatum: 2019-05-22
-laatste_update: 2019-05-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006825"
+country: "nl"
+rank: "verdrag"
+publication_date: "2019-05-22"
+last_updated: "2019-05-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006825"
+soort: "verdrag"
+stam_id: "10005498513"
+version_id: "10005981752"
+internal_id: "C10009575581"
+label_id: "10005482844"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006825/2019-05-22/0"
+intitule_bron: "Trb.2019-108"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2019-07-17"
+intitule_status: "nogniet"
+original_publication: "Trb.2019-108"
+original_published_date: "2019-07-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2019-108"
+jci_1_3: "jci1.3:c:BWBV0006825&z=2019-05-22&g=2019-05-22"
+jci_1_0: "1.0:c:BWBV0006825&g=2019-05-22"
+citeertitel_status: "redactioneel"
+entry_into_force: "2019-07-17"
 ---
-
 # Verdrag tot oprichting van de Caribische Douaneorganisatie en inzake wederzijdse administratieve bijstand in douanezaken
 
 De Staten bij dit Verdrag,
@@ -60,7 +79,7 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. BEGRIPSOMSCHRIJVINGEN
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag:
 
@@ -98,13 +117,13 @@ Voor de toepassing van dit Verdrag:
 
 ### HOOFDSTUK II. OPRICHTING VAN DE CARIBISCHE DOUANEORGANISATIE EN HAAR DOEL EN TAKEN
 
-#### Artikel 2. Oprichting van de Organisatie
+##### Artikel 2. Oprichting van de Organisatie
 
 1. Hierbij wordt opgericht de Caribische Douaneorganisatie (hierna „de Organisatie”) zijnde een internationale organisatie met rechtspersoonlijkheid. De Organisatie beschikt over de bevoegdheid die nodig is voor het verrichten van haar taken en het verwezenlijken van haar doelstellingen.
 
 2. De Organisatie kan haar Leden binden door middel van resoluties die worden aangenomen in overeenstemming met [artikel 8, tweede lid, onderdeel xvi](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=II&artikel=8&z=2019-05-22&g=2019-05-22), van dit Verdrag.
 
-#### Artikel 3. Doel en taken van de Organisatie
+##### Artikel 3. Doel en taken van de Organisatie
 
 Het doel van de Organisatie is zich bezig te houden met douanesamenwerking en alle daarmee verband houdende kwesties van gemeenschappelijk belang voor de douaneadministraties van Leden alsmede, in nauwe samenwerking met de Werelddouaneorganisatie, met douanekwesties die van belang zijn voor de Organisatie op mondiaal niveau.
 
@@ -130,11 +149,11 @@ De taken van de Organisatie omvatten:
 
 - x. het verlenen van bijstand bij programma's voor capaciteitsopbouw en technische samenwerking.
 
-#### Artikel 4. De Raad
+##### Artikel 4. De Raad
 
 Het bestuursorgaan van de Organisatie is de Raad van de Caribische Douaneorganisatie (hierna „de Raad”).
 
-#### Artikel 5. Lidmaatschap
+##### Artikel 5. Lidmaatschap
 
 1. Het lidmaatschap van de Caribische Douaneorganisatie staat open voor:
 
@@ -148,7 +167,7 @@ Het bestuursorgaan van de Organisatie is de Raad van de Caribische Douaneorganis
 
 2. De grondgebieden die in aanmerking komen voor lidmaatschap van de Organisatie worden Lid bij het voor hen in werking treden van het Verdrag in overeenstemming met [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=VI&artikel=64&z=2019-05-22&g=2019-05-22) van dit Verdrag.
 
-#### Artikel 6. Samenwerkingspartner
+##### Artikel 6. Samenwerkingspartner
 
 1. Elke staat, of elk grondgebied dat over autonomie beschikt bij het uitvoeren van douanezaken, die in aanmerking komt voor lidmaatschap van de Organisatie in overeenstemming met [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=II&artikel=5&z=2019-05-22&g=2019-05-22) van dit Verdrag kan, na een bij de Raad daartoe ingediend verzoek, worden toegelaten tot de Organisatie als Samenwerkingspartner. De voorwaarden voor toelating zijn vastgelegd in een samenwerkingsovereenkomst tussen de verzoekende Staat of het verzoekende grondgebied en de Organisatie.
 
@@ -156,11 +175,11 @@ Het bestuursorgaan van de Organisatie is de Raad van de Caribische Douaneorganis
 
 3. Samenwerkingspartners kunnen te allen tijde na aldus te zijn toegelaten tot de Organisatie Lid worden in overeenstemming met [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=II&artikel=5&z=2019-05-22&g=2019-05-22) van dit Verdrag en met [artikel 8, tweede lid, onderdeel iv](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=II&artikel=8&z=2019-05-22&g=2019-05-22), van dit Verdrag.
 
-#### Artikel 7. Algemene toezegging
+##### Artikel 7. Algemene toezegging
 
 Leden treffen alle passende algemene of bijzondere maatregelen om te waarborgen dat verplichtingen uit hoofde van dit Verdrag of die resulteren uit door de Raad van de Organisatie genomen beslissingen worden uitgevoerd. Zij faciliteren het verwezenlijken van de doelstellingen van de Organisatie. Zij onthouden zich van maatregelen die het bereiken van de doelstellingen van dit Verdrag in gevaar brengen.
 
-#### Artikel 8. De Raad en zijn taken
+##### Artikel 8. De Raad en zijn taken
 
 1. De Raad is het hoogste orgaan van de Organisatie en is samengesteld uit Leden. De Raad stelt zijn eigen reglement van orde vast.
 
@@ -200,7 +219,7 @@ Leden treffen alle passende algemene of bijzondere maatregelen om te waarborgen 
 
 3. Een buitengewone zitting van de Raad kan op verzoek van ten minste twee derden van de Leden worden bijeengeroepen.
 
-#### Artikel 9. Zittingen en procedures van de Raad
+##### Artikel 9. Zittingen en procedures van de Raad
 
 1. Zittingen van de Raad vinden in principe beurtelings plaats op het grondgebied van de Leden en een vergelijkbaar principe dient, in voorkomend geval, te worden gevolgd met betrekking tot alle overige activiteiten van de Organisatie.
 
@@ -208,7 +227,7 @@ Leden treffen alle passende algemene of bijzondere maatregelen om te waarborgen 
 
 3. De eerste Voorzitter wordt tijdens de eerste zitting verkozen en blijft in functie tot de volgende zitting van de Raad. Hierna rouleert het Voorzitterschap in overeenstemming met het door de Raad goedgekeurde reglement van orde.
 
-#### Artikel 10. Zittingen van de Raad
+##### Artikel 10. Zittingen van de Raad
 
 1. De Raad bepaalt de locatie en de datum van de zitting afhankelijk van de omstandigheden van het gastland.
 
@@ -220,7 +239,7 @@ Leden treffen alle passende algemene of bijzondere maatregelen om te waarborgen 
 
 5. Beslissingen van de Raad worden aangenomen door een meerderheid van twee derde van de uitgebrachte stemmen.
 
-#### Artikel 11. De Uitvoerende Commissie
+##### Artikel 11. De Uitvoerende Commissie
 
 1. De Uitvoerende Commissie bestaat uit ten minste vijf leden, waaronder een Voorzitter en stelt haar eigen reglement van orde vast, afhankelijk van goedkeuring door de Raad. De Uitvoerende Commissie dient bij voorkeur een evenwichtige afspiegeling te zijn van de Leden. Elk lid van de Uitvoerende Commissie heeft een stem en de stem van de Voorzitter geeft de doorslag.
 
@@ -262,7 +281,7 @@ Leden treffen alle passende algemene of bijzondere maatregelen om te waarborgen 
 
 9. De Uitvoerende Commissie is verantwoordelijk voor de ontwikkeling, het onderhoud en beheer van de Algemene Procedures betreffende de Organisatie.
 
-#### Artikel 12. De Financiële Commissie
+##### Artikel 12. De Financiële Commissie
 
 1. De Financiële Commissie bestaat uit ten minste vijf leden, waaronder een Voorzitter en stelt haar eigen reglement van orde vast, afhankelijk van goedkeuring door de Raad. De Financiële Commissie dient bij voorkeur een evenwichtige afspiegeling te zijn van de Leden. Elk lid van de Financiële Commissie heeft een stem en de stem van de Voorzitter geeft de doorslag.
 
@@ -292,7 +311,7 @@ Leden treffen alle passende algemene of bijzondere maatregelen om te waarborgen 
 
 - vii. het onderzoeken en, naargelang van toepassing, het doen van aanbevelingen aan de Raad over de financiële investeringen en inkomsten en alternatieve financieringsbronnen voor de Organisatie.
 
-#### Artikel 13. De Handhavingscommissie
+##### Artikel 13. De Handhavingscommissie
 
 1. De Handhavingscommissie bestaat uit ten minste vijf leden, waaronder een Voorzitter en stelt haar eigen reglement van orde vast, afhankelijk van goedkeuring door de Raad. De Handhavingscommissie dient een evenwichtige afspiegeling te zijn van de Leden. Elk lid van de Handhavingscommissie heeft een stem en de stem van de Voorzitter geeft de doorslag.
 
@@ -324,7 +343,7 @@ Leden treffen alle passende algemene of bijzondere maatregelen om te waarborgen 
 
 - viii. het rapporteren aan de Uitvoerende Commissie en de Raad over bereikte resultaten.
 
-#### Artikel 14. De Auditcommissie
+##### Artikel 14. De Auditcommissie
 
 1. De Auditcommissie bestaat uit ten minste vijf leden, waaronder een Voorzitter en stelt haar eigen reglement van orde vast, afhankelijk van goedkeuring door de Raad. De Auditcommissie dient een evenwichtige afspiegeling te zijn van de Leden. Elk lid van de Auditcommissie heeft een stem en de stem van de Voorzitter geeft de doorslag.
 
@@ -354,7 +373,7 @@ Leden treffen alle passende algemene of bijzondere maatregelen om te waarborgen 
 
 - viii. het toetsen en beoordelen van de prestaties van de interne en externe accountants.
 
-#### Artikel 15. De Secretaris-Generaal
+##### Artikel 15. De Secretaris-Generaal
 
 1. De Secretaris-Generaal:
 
@@ -388,7 +407,7 @@ Leden treffen alle passende algemene of bijzondere maatregelen om te waarborgen 
 
 3. Indien de Raad in overeenstemming met [artikel 8, tweede lid, onderdeel xii](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=II&artikel=8&z=2019-05-22&g=2019-05-22), besluit om een plaatsvervangend Secretaris-Generaal te benoemen, dan zijn het eerste en tweede lid van dit artikel van overeenkomstige toepassing en zijn deze onderworpen aan nadere regelingen omtrent de toewijzing van de verantwoordelijkheden beschreven in het tweede lid van dit artikel.
 
-#### Artikel 16. Financiering
+##### Artikel 16. Financiering
 
 1. De door de Raad in de jaarlijkse zitting vastgestelde bijdrage wordt door elk Lid en elke Samenwerkingspartner zo spoedig mogelijk na ontvangst van een brief van de Secretaris-Generaal waarin het verschuldigde bedrag wordt vermeld, betaald. De betaling dient uiterlijk een maand voor de volgende gewone jaarlijkse zitting te geschieden.
 
@@ -396,21 +415,21 @@ Leden treffen alle passende algemene of bijzondere maatregelen om te waarborgen 
 
 3. Fondsen voor de financiering en werking van de Organisatie, anders dan de jaarlijkse bijdrage die door de Leden en Samenwerkingspartners worden betaald als vermeld in het eerste lid van dit artikel, mogen van elke rechtmatige bron afkomstig zijn. Deze mogen in de vorm zijn van schenkingen of bijdragen in geld of in natura van andere landen, regionale en internationale organisaties, zonder afbreuk te doen aan de belangen van de Organisatie en haar Leden.
 
-#### Artikel 17. Controle van de rekeningen
+##### Artikel 17. Controle van de rekeningen
 
 De Secretaris-Generaal benoemt, in overleg met de Uitvoerende Commissie, een onafhankelijke accountant voor de controle van de balans en het kasboek van de Organisatie op het einde van het boekjaar in overeenstemming met de algemeen gangbare normen voor accountantscontrole.
 
-#### Artikel 18. Begrotingsjaar
+##### Artikel 18. Begrotingsjaar
 
 Het begrotingsjaar van de Organisatie loopt van 1 april tot en met 31 maart.
 
-#### Artikel 19. Financieel overzicht
+##### Artikel 19. Financieel overzicht
 
 De Secretaris-Generaal bereidt de staat van activa, passiva en nettowaarde en van de ontvangsten en uitgaven tot en met 31 maart van elk jaar voor. Deze staten dienen te worden aanvaard en goedgekeurd door de interne accountant en ter overweging te worden voorgelegd aan de Financiële Commissie en de Uitvoerende Commissie en vervolgens te worden voorgelegd aan de Raad voorafgaand aan de jaarlijkse zitting.
 
 ### HOOFDSTUK III. WEDERZIJDSE ADMINISTRATIEVE BIJSTAND IN DOUANEZAKEN
 
-#### Artikel 20. Reikwijdte van de wederzijdse administratieve bijstand
+##### Artikel 20. Reikwijdte van de wederzijdse administratieve bijstand
 
 1. Leden verlenen elkaar door tussenkomst van hun douaneadministraties administratieve bijstand onder de in dit Verdrag genoemde voorwaarden ten behoeve van de juiste toepassing van de douanewetgeving, met het oog op het voorkomen, onderzoeken en bestrijden van inbreuken op die wetgeving, alsmede om de veiligheid en facilitatie van de internationale logistieke keten te waarborgen.
 
@@ -428,7 +447,7 @@ De Secretaris-Generaal bereidt de staat van activa, passiva en nettowaarde en va
 
 6. Personen kunnen aan de bepalingen van dit Verdrag niet het recht ontlenen de uitvoering van een verzoek om bijstand te doen beletten.
 
-#### Artikel 21. Toezending van verzoeken
+##### Artikel 21. Toezending van verzoeken
 
 1. Verzoeken om bijstand uit hoofde van dit Verdrag worden direct gecommuniceerd tussen de betrokken douaneadministraties. Elke douaneadministratie wijst hiertoe een officieel aanspreekpunt aan en verstrekt de gegevens hiervan aan de Secretaris-Generaal. De Secretaris-Generaal deelt deze informatie en eventuele updates daarvan aan de andere Leden mee.
 
@@ -450,11 +469,11 @@ De Secretaris-Generaal bereidt de staat van activa, passiva en nettowaarde en va
 
 5. Wanneer de verzoekende administratie verlangt dat een bepaalde procedure of methode gevolgd wordt, voldoet de aangezochte administratie aan een dergelijk verzoek met inachtneming van haar nationale wettelijke en administratieve bepalingen.
 
-#### Artikel 22. Spontane bijstand in noodgevallen
+##### Artikel 22. Spontane bijstand in noodgevallen
 
 In gevallen die aanzienlijke schade voor de economie, begroting, volksgezondheid, openbare orde, met inbegrip van de veiligheid van de internationale logistieke keten, of voor andere vitale belangen van een verdragsluitende partij met zich kunnen meebrengen, verstrekt de douaneadministratie van de andere verdragsluitende partij, waar mogelijk, uit eigen beweging en onverwijld zulke informatie.
 
-#### Artikel 23. Informatie voor de toepassing en handhaving van de douanewetgeving
+##### Artikel 23. Informatie voor de toepassing en handhaving van de douanewetgeving
 
 De douaneadministraties verstrekken elkaar, op verzoek of uit eigen beweging, informatie ten behoeve van de juiste toepassing van de douanewetgeving met het oog op het voorkomen, onderzoeken en bestrijden van inbreuken op die wetgeving, alsmede om de veiligheid van de internationale logistieke keten te waarborgen. Dergelijke informatie kan bestaan uit:
 
@@ -468,17 +487,17 @@ De douaneadministraties verstrekken elkaar, op verzoek of uit eigen beweging, in
 
 - v. alle andere gegevens die de douaneadministraties van nut kunnen zijn bij de risicobeoordeling voor controle- en facilitatiedoeleinden.
 
-#### Artikel 24. Informatie met betrekking tot inbreuken op de douanewetgeving
+##### Artikel 24. Informatie met betrekking tot inbreuken op de douanewetgeving
 
 De douaneadministratie van een Lid verstrekt, op verzoek of uit eigen beweging, informatie aan de douaneadministratie van een ander betrokken Lid over voorgenomen, lopende of voltooide activiteiten ten aanzien waarvan er redelijke gronden lijken te bestaan om aan te nemen dat er een inbreuk op de douanewetgeving op het grondgebied van het andere Lid is gemaakt of zal worden gemaakt.
 
-#### Artikel 25. Informatie voor de juiste vaststelling van douanerechten
+##### Artikel 25. Informatie voor de juiste vaststelling van douanerechten
 
 1. Op verzoek verstrekt de aangezochte douaneadministratie, onverminderd [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=III&artikel=43&z=2019-05-22&g=2019-05-22) van dit Verdrag, ten behoeve van een juiste toepassing van de douanewetgeving of ter voorkoming van inbreuken op de douanewetgeving, informatie aan de verzoekende douaneadministratie die redenen heeft om te twijfelen aan de juistheid of echtheid van een aangifte.
 
 2. In het verzoek staan de verificatieprocedures die de verzoekende douaneadministratie heeft uitgevoerd of getracht heeft uit te voeren alsmede de specifieke informatie waarom wordt verzocht vermeld.
 
-#### Artikel 26. Specifieke soorten informatie
+##### Artikel 26. Specifieke soorten informatie
 
 Op verzoek verstrekt de aangezochte administratie de verzoekende administratie die reden heeft te twijfelen aan de juistheid van aan haar in een douanezaak verstrekte informatie, informatie over:
 
@@ -486,17 +505,17 @@ Op verzoek verstrekt de aangezochte administratie de verzoekende administratie d
 
 - ii. het feit of goederen die werden uitgevoerd uit het grondgebied van het verzoekende Lid op rechtmatige wijze zijn ingevoerd in het grondgebied van het aangezochte Lid en onder welke douaneregeling de goederen eventueel zijn geplaatst.
 
-#### Artikel 27. Automatische uitwisseling van informatie
+##### Artikel 27. Automatische uitwisseling van informatie
 
 Leden kunnen, door middel van een wederzijdse regeling overeenkomstig [artikel 61, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=VI&artikel=61&z=2019-05-22&g=2019-05-22), automatisch informatie uitwisselen die onder dit Verdrag valt.
 
-#### Artikel 28. Voorafgaande uitwisseling van informatie
+##### Artikel 28. Voorafgaande uitwisseling van informatie
 
 1. Leden kunnen, door middel van een wederzijdse regeling overeenkomstig [artikel 61, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=VI&artikel=61&z=2019-05-22&g=2019-05-22), van dit Verdrag, specifieke informatie uitwisselen voorafgaand aan de aankomst van goederen op hun onderscheiden grondgebieden om met name de veiligheid van de internationale logistieke keten te waarborgen.
 
 2. De Uitvoerende Commissie is bevoegd om een lijst van gegevens op te stellen die mogen worden uitgewisseld in het kader van de voorafgaande automatische uitwisseling zoals bepaald in het eerste lid van dit artikel.
 
-#### Artikel 29. Toezicht
+##### Artikel 29. Toezicht
 
 1. Op verzoek houdt de aangezochte administratie, voor zover mogelijk, toezicht op en verstrekt zij de verzoekende administratie informatie over:
 
@@ -510,7 +529,7 @@ Leden kunnen, door middel van een wederzijdse regeling overeenkomstig [artikel 6
 
 2. De douaneadministratie van een Lid kan uit eigen beweging dergelijk toezicht houden indien zij redenen heeft om aan te nemen dat voorgenomen, lopende of voltooide activiteiten een inbreuk op de douanewetgeving op het grondgebied van een ander Lid lijken te vormen.
 
-#### Artikel 30. Gebruik van informatie
+##### Artikel 30. Gebruik van informatie
 
 1. Onverminderd [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=IV&artikel=50&z=2019-05-22&g=2019-05-22) van dit Verdrag mag uit hoofde van dit Verdrag ontvangen informatie slechts worden gebruikt door de douaneadministratie waarvoor deze bestemd was en uitsluitend ten behoeve van administratieve bijstand die wordt verleend onder de in dit Verdrag vervatte voorwaarden.
 
@@ -518,7 +537,7 @@ Leden kunnen, door middel van een wederzijdse regeling overeenkomstig [artikel 6
 
 3. Om de bescherming te waarborgen van personen die asiel of bescherming in geval van verwijdering zoeken of krijgen, mag een Lid de uit hoofde van dit Verdrag verkregen informatie niet gebruiken of bekend maken op een manier waarop deze informatie bekend zou worden bij een overheidsautoriteit of persoon waartegen deze persoon bescherming vraagt of krijgt ingevolge het [Verdrag betreffende de status van vluchtelingen](onbekend) van 1951, het [Protocol](onbekend) hierbij van 1967, het [Verdrag tegen foltering en andere wrede, onmenselijke of onterende behandeling of bestraffing](onbekend) van 1984 of ingevolge de nationale wettelijke en administratieve bepalingen van de Leden ter uitvoering van deze Verdragen of het Protocol.
 
-#### Artikel 31. Vertrouwelijkheid en bescherming van informatie
+##### Artikel 31. Vertrouwelijkheid en bescherming van informatie
 
 1. Alle uit hoofde van dit Verdrag medegedeelde informatie wordt vertrouwelijk behandeld en daarvoor gelden ten minste dezelfde bescherming en vertrouwelijkheid als die welke voor soortgelijke informatie gelden krachtens de nationale wettelijke en administratieve bepalingen van het Lid waar deze wordt ontvangen.
 
@@ -532,7 +551,7 @@ Leden kunnen, door middel van een wederzijdse regeling overeenkomstig [artikel 6
 
 6. Indien het Lid dat aansprakelijk is voor schade uit hoofde van het vijfde lid van dit artikel niet het Lid is dat de persoonsgegevens heeft verstrekt, bereiken de betrokken Leden overeenstemming over de voorwaarden en bepalingen van de vergoeding aan het aansprakelijke Lid van de bedragen die deze bij wijze van schadeloosstelling heeft betaald.
 
-#### Artikel 32. Kosten
+##### Artikel 32. Kosten
 
 1. Met inachtneming van het tweede en derde lid van dit artikel, worden de kosten gemaakt bij het inwilligen van een verzoek om bijstand uit hoofde van dit Verdrag gedragen door het aangezochte Lid.
 
@@ -540,7 +559,7 @@ Leden kunnen, door middel van een wederzijdse regeling overeenkomstig [artikel 6
 
 3. Indien met de uitvoering van een verzoek aanmerkelijke kosten of kosten van buitengewone aard zullen zijn gemoeid, plegen de Leden overleg om de voorwaarden te bepalen waaronder het verzoek zal worden uitgevoerd, alsmede de wijze waarop de kosten worden gedragen. Het aangezochte Lid is niet verplicht om aan het verzoek te voldoen voordat dit overleg is afgerond.
 
-#### Artikel 33. Technische samenwerking
+##### Artikel 33. Technische samenwerking
 
 De douaneadministraties kunnen elkaar bijstand verlenen door het uitvoeren van benchmarks, uitwisselen van kennis, ervaring en beste praktijken met betrekking tot zaken als:
 
@@ -554,23 +573,23 @@ De douaneadministraties kunnen elkaar bijstand verlenen door het uitvoeren van b
 
 - v. verbetering van management- en administratieve organisatie.
 
-#### Artikel 34. Kennisgeving
+##### Artikel 34. Kennisgeving
 
 1. Op verzoek kan de aangezochte administratie, indien toegestaan door haar nationale wetgeving, alle noodzakelijke maatregelen treffen om een persoon die op haar grondgebied verblijft of is gevestigd in kennis te stellen van alle beslissingen genomen door de verzoekende administratie bij de toepassing van de douanewetgeving betreffende die persoon, die binnen de reikwijdte van dit Verdrag vallen.
 
 2. Een dergelijke kennisgeving wordt verricht overeenkomstig de procedures die van toepassing zijn op het grondgebied van het aangezochte Lid voor soortgelijke nationale beslissingen.
 
-#### Artikel 35. Bijstand bij het invorderen van douanevorderingen
+##### Artikel 35. Bijstand bij het invorderen van douanevorderingen
 
 1. Op verzoek verstrekken douaneadministraties elkaar bijstand bij het invorderen van douanevorderingen.
 
 2. De betrokken Leden treffen nadere regelingen voor bijstand bij het invorderen van douanevorderingen, overeenkomstig [artikel 61, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=VI&artikel=61&z=2019-05-22&g=2019-05-22), van dit Verdrag.
 
-#### Artikel 36. Deskundigen en getuigen
+##### Artikel 36. Deskundigen en getuigen
 
 De aangezochte administratie kan, op verzoek, haar ambtenaren machtigen ter zake van de uitvoering van de douanewetgeving als deskundige of getuige te verschijnen voor een rechtscollege op het grondgebied van het verzoekende Lid.
 
-#### Artikel 37. Aanwezigheid van ambtenaren op het grondgebied van een ander Lid
+##### Artikel 37. Aanwezigheid van ambtenaren op het grondgebied van een ander Lid
 
 Door de verzoekende administratie speciaal hiertoe aangewezen ambtenaren kunnen, met instemming van de aangezochte administratie en onder de door laatstgenoemde hieraan verbonden voorwaarden, ten behoeve van de opsporing van een inbreuk op de douanewetgeving, of het deelnemen aan technische samenwerkingsactiviteiten op verzoek:
 
@@ -582,31 +601,31 @@ Door de verzoekende administratie speciaal hiertoe aangewezen ambtenaren kunnen,
 
 Deze ambtenaren hebben uitsluitend een adviserende rol.
 
-#### Artikel 38. Aanwezigheid van ambtenaren van de verzoekende administratie op uitnodiging van de aangezochte administratie
+##### Artikel 38. Aanwezigheid van ambtenaren van de verzoekende administratie op uitnodiging van de aangezochte administratie
 
 1. Indien de aangezochte administratie het wenselijk acht dat ambtenaren van de verzoekende administratie aanwezig zijn wanneer, overeenkomstig een verzoek, bijstandsmaatregelen worden uitgevoerd, kan zij om medewerking vragen van de verzoekende administratie met inachtneming van alle door haar daaraan verbonden voorwaarden.
 
 2. De betrokken douaneadministraties kunnen, door middel van een wederzijdse regeling overeenkomstig [artikel 61, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=VI&artikel=61&z=2019-05-22&g=2019-05-22), de rol van de bezoekende ambtenaren uitbreiden naast de adviserende rol die zij hebben.
 
-#### Artikel 39. Grensoverschrijdende observatie
+##### Artikel 39. Grensoverschrijdende observatie
 
 1. Ambtenaren van een Lid, die op het grondgebied van dat Lid een persoon onder observatie houden ten aanzien van wie er gegronde redenen bestaan om aan te nemen dat deze persoon betrokken is bij een inbreuk op de douanewetgeving mogen de observatie voortzetten op het grondgebied van een ander Lid na voorafgaand verzoek, toestemming en alle voorwaarden die het aangezochte Lid hieraan kan verbinden.
 
 2. Indien het om bijzonder dringende redenen niet mogelijk is om voorafgaande toestemming te vragen, kan de observatie overeenkomstig het eerste lid van dit artikel worden voortgezet indien de bevoegde autoriteiten van het Lid op het grondgebied waarvan de observatie wordt voortgezet onverwijld in kennis worden gebracht van het overschrijden van de grens en er zo spoedig mogelijk een formeel verzoek om toestemming, onder vermelding van de redenen voor het overschrijden van de grens zonder voorafgaande toestemming, wordt ingediend.
 
-#### Artikel 40. Gezamenlijke controle- en onderzoeksteams
+##### Artikel 40. Gezamenlijke controle- en onderzoeksteams
 
 1. Leden mogen gezamenlijke controle- en onderzoeksteams oprichten ter opsporing en bestrijding van bepaalde typen inbreuken op de douanewetgeving die gelijktijdige en gecoördineerde activiteiten vereisen.
 
 2. Deze teams opereren in overeenstemming met de wettelijke en administratieve bepalingen van het Lid op wiens grondgebied de activiteiten worden uitgevoerd.
 
-#### Artikel 41. Regelingen voor bezoeken van ambtenaren
+##### Artikel 41. Regelingen voor bezoeken van ambtenaren
 
 1. Indien ambtenaren van een Lid aanwezig zijn op het grondgebied van een ander Lid uit hoofde van de bepalingen van dit Verdrag, dienen zij te allen tijde in staat te zijn hun identiteit en ambtelijke hoedanigheid binnen hun douaneadministratie en hun officiële status zoals toegekend op het grondgebied van de aangezochte administratie aan te tonen in een voor de aangezochte administratie aanvaardbare taal.
 
 2. Ambtenaren zijn, terwijl ze zich op het grondgebied van een ander Lid bevinden uit hoofde van de bepalingen van dit Verdrag, verantwoordelijk voor de strafbare feiten die zij eventueel begaan en genieten, voor zover voorzien in de nationale wettelijke en administratieve bepalingen van die Partij, dezelfde bescherming als die wordt toegekend aan de eigen douaneambtenaren.
 
-#### Artikel 42. Uitsluitingsgronden
+##### Artikel 42. Uitsluitingsgronden
 
 1. Indien de bijstand waar uit hoofde van dit Verdrag om wordt verzocht een inbreuk zou kunnen vormen op de soevereiniteit, de wetten en de verplichtingen krachtens verdragen, veiligheid, de openbare orde of een ander wezenlijk nationaal belang van een aangezocht Lid, of rechtmatige handels- of beroepsbelangen zou kunnen schaden, kan deze bijstand door dat Lid worden geweigerd of worden verstrekt met inachtneming van alle door hem daaraan verbonden voorwaarden.
 
@@ -618,7 +637,7 @@ Deze ambtenaren hebben uitsluitend een adviserende rol.
 
 5. Indien de bijstand wordt geweigerd of uitgesteld, worden de redenen hiervoor medegedeeld.
 
-#### Artikel 43. Voorbehouden
+##### Artikel 43. Voorbehouden
 
 1. Leden mogen voorbehouden maken met betrekking tot de artikelen 34 tot en met 41 van dit Verdrag of mogen afzien (opt-out) van een of een aantal van deze artikelen.
 
@@ -628,11 +647,11 @@ Deze ambtenaren hebben uitsluitend een adviserende rol.
 
 ### HOOFDSTUK IV. ALGEMENE BEPALINGEN VOOR DE CENTRALE GEAUTOMATISEERDE INFORMATIESYSTEMEN VAN DE ORGANISATIE
 
-#### Artikel 44. Doelstellingen van centralisatie
+##### Artikel 44. Doelstellingen van centralisatie
 
 Indien de Raad besluit dat specifieke informatie moet worden gecentraliseerd wordt de te centraliseren informatie opgeslagen in een veilig centraal geautomatiseerd informatiesysteem voor risicobeoordeling ten behoeve van de juiste toepassing van de douanewetgeving met het oog op het voorkomen, onderzoeken en bestrijden van inbreuken op die wetgeving en grensoverschrijdende criminaliteit alsmede om de veiligheid en facilitatie van de internationale logistieke keten te waarborgen.
 
-#### Artikel 45. Centrale geautomatiseerde informatiesystemen
+##### Artikel 45. Centrale geautomatiseerde informatiesystemen
 
 1. In alle gevallen waarin informatie dient te worden gecentraliseerd, dient deze te worden opgeslagen in een veilig centraal geautomatiseerd informatiesysteem voor douanedoeleinden. Dit systeem wordt beheerd door de Organisatie en is toegankelijk onder de in [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=IV&artikel=52&z=2019-05-22&g=2019-05-22) van dit Verdrag vastgestelde voorwaarden.
 
@@ -644,7 +663,7 @@ Indien de Raad besluit dat specifieke informatie moet worden gecentraliseerd wor
 
 5. Elk Lid stelt de Secretaris-Generaal op de hoogte van de bevoegde autoriteit die is aangesteld uit hoofde van het derde lid van dit artikel. De Secretaris-Generaal stelt deze informatie ter beschikking aan de andere Leden, samen met alle relevante informatie over ambtenaren van de Organisatie die zijn aangewezen uit hoofde van het vierde lid van dit artikel. De informatie bedoeld in dit lid wordt opgenomen in het centrale geautomatiseerde informatiesysteem.
 
-#### Artikel 46. Beheer van het centrale geautomatiseerde informatiesysteem
+##### Artikel 46. Beheer van het centrale geautomatiseerde informatiesysteem
 
 1. Er wordt een team opgericht om de technische, operationele en procedurele aspecten van het centrale geautomatiseerde informatiesysteem te beheren. Dit team bestaat uit vertegenwoordigers van de douaneadministraties van de Leden en ambtenaren van de Organisatie.
 
@@ -660,7 +679,7 @@ Indien de Raad besluit dat specifieke informatie moet worden gecentraliseerd wor
 
 4. Het managementteam zal ten minste eenmaal per jaar verslag uitbrengen aan de Uitvoerende Commissie over het beheer van het centrale geautomatiseerde informatiesysteem uit hoofde van het eerste, tweede en derde lid van dit artikel en doet daarbij indien noodzakelijk aanbevelingen. De Uitvoerende Commissie brengt de Raad op de hoogte van aspecten die evaluatie en besluitvorming door dat orgaan vereisen.
 
-#### Artikel 47. Verantwoordelijkheid voor veiligheidsmaatregelen
+##### Artikel 47. Verantwoordelijkheid voor veiligheidsmaatregelen
 
 1. De Leden en de Secretaris-Generaal zijn verantwoordelijk voor het implementeren van alle noodzakelijke maatregelen voor de veiligheid van het centrale geautomatiseerde informatiesysteem. De doelstellingen van deze maatregelen omvatten onder meer:
 
@@ -678,7 +697,7 @@ Indien de Raad besluit dat specifieke informatie moet worden gecentraliseerd wor
 
 2. Onafhankelijke vertegenwoordigers benoemd door het managementteam voeren verificaties uit van toegang tot en bevragingen met betrekking tot persoonsgegevens om te waarborgen dat deze toegang en bevragingen toelaatbaar waren en door bevoegde gebruikers werden uitgevoerd. Alle verificaties worden geregistreerd in het systeem voor rapportage aan het managementteam en na verloop van twaalf maanden gewist.
 
-#### Artikel 48. Toepassen van veiligheidsmaatregelen
+##### Artikel 48. Toepassen van veiligheidsmaatregelen
 
 1. Elk Lid benoemt een bevoegde autoriteit binnen zijn douaneadministratie om op nationaal niveau de veiligheidsmaatregelen bedoeld in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=IV&artikel=47&z=2019-05-22&g=2019-05-22), van dit Verdrag toe te passen.
 
@@ -686,11 +705,11 @@ Indien de Raad besluit dat specifieke informatie moet worden gecentraliseerd wor
 
 3. Elk Lid stelt de Secretaris-Generaal op de hoogte van de bevoegde autoriteit die het heeft benoemd uit hoofde van het eerste lid van dit artikel. De Secretaris-Generaal stelt deze informatie ter beschikking aan de andere Leden, samen met alle relevante informatie over ambtenaren van de Organisatie die zijn benoemd uit hoofde van het tweede lid van dit artikel. De informatie bedoeld in dit lid wordt opgenomen in het centrale geautomatiseerde informatiesysteem.
 
-#### Artikel 49. Opnemen van informatie
+##### Artikel 49. Opnemen van informatie
 
 Voor het opnemen van informatie in het centrale geautomatiseerde informatiesysteem zijn de wettelijke en administratieve bepalingen van het Lid dat de informatie verstrekt van toepassing tenzij de bepalingen in dit Verdrag stringenter zijn.
 
-#### Artikel 50. Gebruik van informatie
+##### Artikel 50. Gebruik van informatie
 
 1. Voor het gebruik van informatie in het centrale geautomatiseerde informatiesysteem zijn de wettelijke en administratieve bepalingen van het Lid dat de informatie gebruikt van toepassing tenzij de bepalingen in dit Verdrag stringenter zijn.
 
@@ -700,7 +719,7 @@ Voor het opnemen van informatie in het centrale geautomatiseerde informatiesyste
 
 4. Persoonsgegevens mogen uitsluitend worden gebruikt indien deze zijn verkregen uit het centrale geautomatiseerde informatiesysteem in overeenstemming met bepalingen die zijn vastgelegd overeenkomstig [artikel 52, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=IV&artikel=52&z=2019-05-22&g=2019-05-22), van dit Verdrag.
 
-#### Artikel 51. Bewaring van persoonsgegevens
+##### Artikel 51. Bewaring van persoonsgegevens
 
 1. Persoonsgegevens die zijn opgenomen in het centrale geautomatiseerde informatiesysteem worden niet langer bewaard dan nodig is voor het doel waarvoor zij zijn verstrekt. Leden mogen aangeven hoe lang de door hen verstrekte persoonsgegevens mogen worden bewaard.
 
@@ -710,7 +729,7 @@ Voor het opnemen van informatie in het centrale geautomatiseerde informatiesyste
 
 4. Onafhankelijke vertegenwoordigers die benoemd worden door het managementteam voeren verificaties uit om ervoor te zorgen dat de bewaarperiode voor persoonsgegevens in het centrale geautomatiseerde informatiesysteem wordt nageleefd. Alle verificaties worden geregistreerd in het systeem voor rapportage aan het managementteam en na verloop van twaalf maanden gewist.
 
-#### Artikel 52. Toegang
+##### Artikel 52. Toegang
 
 1. De bevoegde autoriteiten en ambtenaren van de Organisatie die zijn aangewezen in overeenstemming met [artikel 45, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=IV&artikel=45&z=2019-05-22&g=2019-05-22), van dit Verdrag hebben toegang tot het centrale geautomatiseerde informatiesysteem.
 
@@ -728,7 +747,7 @@ Voor het opnemen van informatie in het centrale geautomatiseerde informatiesyste
 
 8. De rechten van natuurlijke personen met betrekking tot de persoonsgegevens in het centrale geautomatiseerde informatiesysteem, met name hun recht van toegang, worden uitgeoefend in overeenstemming met de wettelijke en administratieve bepalingen van het Lid op wiens grondgebied deze rechten worden ingeroepen.
 
-#### Artikel 53. Wijziging
+##### Artikel 53. Wijziging
 
 1. Persoonsgegevens in het centrale geautomatiseerde informatiesysteem worden slechts gewijzigd, aangevuld, gecorrigeerd of gewist op initiatief van het Lid dat deze heeft geleverd.
 
@@ -740,7 +759,7 @@ Voor het opnemen van informatie in het centrale geautomatiseerde informatiesyste
 
 5. Indien een rechter of andere bevoegde autoriteit op het grondgebied van een Lid een definitieve beslissing neemt over een wijziging, aanvulling, correctie of verwijdering van persoonsgegevens in het centrale geautomatiseerde informatiesysteem, regelt het Lid op wiens grondgebied de beslissing is genomen, indien het de gegevens heeft geleverd, onverwijld de wijziging, aanvulling, correctie of verwijdering van deze gegevens, of, indien de gegevens werden geleverd door een ander Lid, brengt het Lid dat de gegevens heeft geleverd op de hoogte van de beslissing. Het Lid dat de gegevens heeft geleverd treft dan onverwijld de regelingen voor het wijzigen, aanvullen, corrigeren of verwijderen van de gegevens.
 
-#### Artikel 54. Aansprakelijkheden en verantwoordelijkheden
+##### Artikel 54. Aansprakelijkheden en verantwoordelijkheden
 
 1. Een Lid is, voor zover mogelijk, verantwoordelijk voor de accuratesse, actualiteit en rechtmatigheid van de informatie die het heeft opgenomen in het centrale geautomatiseerde informatiesysteem.
 
@@ -756,29 +775,29 @@ Voor het opnemen van informatie in het centrale geautomatiseerde informatiesyste
 
 ### HOOFDSTUK V. OVERGANGSBEPALINGEN
 
-#### Artikel 55. Overdracht van activa en middelen
+##### Artikel 55. Overdracht van activa en middelen
 
 Activa en middelen, waaronder geautomatiseerde systemen, van de Caribische Raad voor de handhaving van de douanewetgeving worden overgedragen aan de Organisatie, afhankelijk van een beslissing in die zin van de meest recente conferentie van de Caribische Raad voor de handhaving van de douanewetgeving.
 
-#### Artikel 56. Oudere Memoranda van Overeenstemming
+##### Artikel 56. Oudere Memoranda van Overeenstemming
 
 Memoranda van Overeenstemming die gesloten zijn door de Caribische Raad voor de handhaving van de douanewetgeving blijven onverkort geldig en worden overgedragen aan de Organisatie. De partnerorganisaties van deze samenwerkingsregelingen worden daarvan in kennis gesteld.
 
-#### Artikel 57. Overdracht van oudere gegevens
+##### Artikel 57. Overdracht van oudere gegevens
 
 Alle gegevens verkregen ingevolge een Memorandum van Overeenstemming gesloten door de Caribische Raad voor de handhaving van de douanewetgeving kunnen worden overgedragen aan de centrale geautomatiseerde informatiesystemen van de Organisatie, indien de partnerorganisatie dit goedkeurt.
 
-#### Artikel 58. Beleggen van de eerste zitting van de Raad
+##### Artikel 58. Beleggen van de eerste zitting van de Raad
 
 De laatste vergadering van de Uitvoerende Commissie van de Caribische Raad voor de handhaving van de douanewetgeving voor de eerste zitting van de Raad van de Organisatie belegt de zitting en zorgt ervoor dat de nodige regelingen voor deze eerste zitting worden getroffen.
 
-#### Artikel 59. Afronden van lopende onderzoeken
+##### Artikel 59. Afronden van lopende onderzoeken
 
 Lopende onderzoeken op het tijdstip van de opzegging van het Verdrag door een Lid worden niettemin voltooid in overeenstemming met de bepalingen van dit Verdrag.
 
 ### HOOFDSTUK VI. SLOTBEPALINGEN
 
-#### Artikel 60. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
+##### Artikel 60. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
 
 1. Tot 1 januari 2020 staat dit Verdrag open voor ondertekening op het hoofdkwartier van de Organisatie door de Staten en, indien toegestaan door de constitutionele relatie met de Staat waarmee zij verbonden zijn, de grondgebieden bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=II&artikel=5&z=2019-05-22&g=2019-05-22) van dit Verdrag.
 
@@ -796,13 +815,13 @@ Lopende onderzoeken op het tijdstip van de opzegging van het Verdrag door een Li
 
 6. Elke Staat of elk grondgebied bedoeld in het tweede of derde lid van dit artikel die of dat dit Verdrag bekrachtigt, aanvaardt, goedkeurt of ertoe toetreedt, wordt gebonden door elke wijziging van dit Verdrag die van kracht is geworden op de datum van nederlegging van de akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
 
-#### Artikel 61. Uitvoering en toepassing van het Verdrag
+##### Artikel 61. Uitvoering en toepassing van het Verdrag
 
 1. Voor de toepassing van dit Verdrag nemen de Leden de noodzakelijke maatregelen om, voor zover mogelijk, te waarborgen dat hun met het onderzoek of de bestrijding van inbreuken op de douanewetgeving belaste ambtenaren persoonlijke en rechtstreekse betrekkingen met elkaar kunnen onderhouden.
 
 2. Twee of meer Leden kunnen beslissen over de wederzijdse regelingen ter vergemakkelijking van de uitvoering en toepassing van dit Verdrag onderling.
 
-#### Artikel 62. Wijzigingen van het Verdrag
+##### Artikel 62. Wijzigingen van het Verdrag
 
 1. Elk Lid kan aan de Secretaris-Generaal voorstellen doen tot wijziging van dit Verdrag.
 
@@ -812,7 +831,7 @@ Lopende onderzoeken op het tijdstip van de opzegging van het Verdrag door een Li
 
 4. Een wijziging die is aanvaard in overeenstemming met het derde lid van dit artikel treedt drie maanden na de datum van aanvaarding in werking. De Secretaris-Generaal stelt de Staten in kennis van deze datum van inwerkingtreding.
 
-#### Artikel 63. Regeling van geschillen
+##### Artikel 63. Regeling van geschillen
 
 1. Elk geschil tussen Leden of Leden en Samenwerkingspartners betreffende de uitlegging of toepassing van dit Verdrag wordt zoveel mogelijk geregeld door middel van onderlinge onderhandelingen.
 
@@ -824,13 +843,13 @@ Lopende onderzoeken op het tijdstip van de opzegging van het Verdrag door een Li
 
 5. Geschillen waarvoor geen oplossing wordt gevonden, worden langs diplomatieke weg geregeld.
 
-#### Artikel 64. Inwerkingtreding
+##### Artikel 64. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking drie maanden na de datum van de nederlegging van de akte van bekrachtiging, aanvaarding of goedkeuring in overeenstemming met [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=VI&artikel=60&z=2019-05-22&g=2019-05-22) van dit Verdrag, waarbij de tiende Staat of grondgebied bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=II&artikel=5&z=2019-05-22&g=2019-05-22) van dit Verdrag als Lid van de Organisatie wordt gemeld.
 
 2. Voor elke Staat die zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding nederlegt na die datum, treedt dit Verdrag in werking drie maanden na de datum van nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding in overeenstemming met de bepalingen van [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=VI&artikel=60&z=2019-05-22&g=2019-05-22) van dit Verdrag.
 
-#### Artikel 65. Opzegging
+##### Artikel 65. Opzegging
 
 1. Elke Staat of elk grondgebied bedoeld in het tweede of derde lid van [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=VI&artikel=60&z=2019-05-22&g=2019-05-22) van dit Verdrag kan zich terugtrekken uit de Organisatie door middel van een schriftelijke kennisgeving aan de depositaris die onmiddellijk alle Leden van de Organisatie in kennis stelt van deze opzegging. De opzegging wordt van kracht zes maanden nadat de depositaris de kennisgeving van opzegging heeft ontvangen.
 
@@ -840,7 +859,7 @@ Lopende onderzoeken op het tijdstip van de opzegging van het Verdrag door een Li
 
 4. De Organisatie kan de status van samenwerkingspartner intrekken van een samenwerkingspartner na een beslissing van de Raad. Voor een beslissing om de status van samenwerkingspartner in te trekken dient er een meerderheid te zijn van minimaal driekwart van de Leden.
 
-#### Artikel 66. Depositaris van het Verdrag
+##### Artikel 66. Depositaris van het Verdrag
 
 1. De Secretaris-Generaal is depositaris van dit Verdrag.
 
@@ -872,7 +891,7 @@ Lopende onderzoeken op het tijdstip van de opzegging van het Verdrag door een Li
 
 3. Indien er een verschil van mening ontstaat tussen een Lid en de depositaris omtrent de verrichting van de taken van laatstgenoemde, brengt de depositaris of het desbetreffende Lid het vraagstuk onder de aandacht van de andere Leden en de ondertekenaars en, indien van toepassing, van de Uitvoerende Commissie.
 
-#### Artikel 67. Registratie van de tekst
+##### Artikel 67. Registratie van de tekst
 
 Dit Verdrag wordt door de Secretaris-Generaal in overeenstemming met [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102) geregistreerd en wordt ter kennis van de Secretaris-Generaal van de Werelddouaneorganisatie gebracht.
 

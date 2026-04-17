@@ -1,20 +1,46 @@
 ---
-title: "Regeling aanvullende eisen toelating middelbaar beroepsonderwijs"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 27 november 2017, nr. MBO/1163583, houdende regels over aanvullende eisen voor toelating tot opleidingen in het middelbaar beroepsonderwijs (Regeling aanvullende eisen toelating middelbaar beroepsonderwijs)"
 identifier: "BWBR0040310"
-categorie: "Onderwijs"
-publicatiedatum: 2025-08-01
-laatste_update: 2025-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040310"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-08-01"
+last_updated: "2025-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040310"
+soort: "ministeriele-regeling"
+stam_id: "14437723"
+version_id: "24688672"
+internal_id: "C35322051"
+label_id: "14398304"
+dtd_version: "2.0"
+original_entry_into_force: "2017-12-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040310/2025-08-01/0"
+intitule_bron: "Stcrt.2017-69336"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-11-27"
+intitule_published: "2017-12-05"
+intitule_in_force: "2017-12-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-69336"
+original_signed_date: "2017-11-27"
+original_published_date: "2017-12-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-69336"
+entry_into_force_date: "2017-12-06"
+jci_1_3: "jci1.3:c:BWBR0040310&z=2025-08-01&g=2025-08-01"
+jci_1_0: "1.0:c:BWBR0040310&g=2025-08-01"
+citeertitel_status: "officieel"
+short_title: "Regeling aanvullende eisen toelating middelbaar beroepsonderwijs"
+signed_date: "2017-11-27"
+entry_into_force: "2017-12-06"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 27 november 2017, nr. MBO/1163583, houdende regels over aanvullende eisen voor toelating tot opleidingen in het middelbaar beroepsonderwijs (Regeling aanvullende eisen toelating middelbaar beroepsonderwijs)
 
 Gelet op [artikel 8.2.2a, eerste en derde lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8.2.2a);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -24,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 - **wet:** [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625).
 
-#### Artikel 2. Aanvullende eisen in verband met de toekomstige beroepsuitoefening of de organisatie en de inrichting van het onderwijs
+##### Artikel 2. Aanvullende eisen in verband met de toekomstige beroepsuitoefening of de organisatie en de inrichting van het onderwijs
 
 1. De beroepsopleidingen waarvoor aanvullende eisen mogen worden gesteld zijn opgenomen in de bijlage.
 
@@ -36,7 +62,7 @@ In deze regeling wordt verstaan onder:
 
 3. De gronden op basis waarvan het bevoegd gezag aanvullende eisen, bedoeld in het eerste lid, kan stellen, worden in de bijlage bij de betreffende beroepsopleiding vermeld.
 
-#### Artikel 3. Toevoeging van een beroepsopleiding of grond aan de bijlage
+##### Artikel 3. Toevoeging van een beroepsopleiding of grond aan de bijlage
 
 1. De Minister kan al dan niet op aanvraag, een grond toevoegen bij een beroepsopleiding genoemd in de bijlage of een andere beroepsopleiding met een of meer gronden toevoegen aan de bijlage indien:
 
@@ -60,17 +86,17 @@ In deze regeling wordt verstaan onder:
 
 5. In de aanvraag wordt gemotiveerd waarom voor de betreffende beroepsopleiding of grond is voldaan aan de in het eerste lid genoemde voorwaarden.
 
-#### Artikel 4. Verwijdering van de bijlage en informatieplicht
+##### Artikel 4. Verwijdering van de bijlage en informatieplicht
 
 1. De Minister kan een opleiding of een bij een opleiding genoemde grond van de bijlage verwijderen als de omstandigheden op grond waarvan is besloten de opleiding of een bij die opleiding genoemde gronden in de bijlage op te nemen, zijn komen te vervallen.
 
 2. Het bevoegd gezag stelt de Minister onverwijld op de hoogte van een wijziging in de omstandigheden, die aanleiding kan zijn voor toepassing van het eerste lid.
 
-#### Artikel 5. Inwerkingtreding
+##### Artikel 5. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 6. Citeertitel
+##### Artikel 6. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling aanvullende eisen toelating middelbaar beroepsonderwijs.
 

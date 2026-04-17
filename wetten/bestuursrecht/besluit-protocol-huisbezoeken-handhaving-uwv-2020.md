@@ -1,30 +1,55 @@
 ---
 title: "Besluit Protocol Huisbezoeken Handhaving UWV 2020"
 identifier: "BWBR0044788"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-02-24
-laatste_update: 2023-02-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044788"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-02-24"
+last_updated: "2023-02-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044788"
+soort: "zbo"
+stam_id: "15836893"
+version_id: "27497962"
+internal_id: "C38808931"
+label_id: "15773484"
+dtd_version: "2.0"
+original_entry_into_force: "2021-02-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044788/2023-02-24/0"
+intitule_bron: "Stcrt.2021-5841"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-12-08"
+intitule_published: "2021-02-09"
+intitule_in_force: "2021-02-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-5841"
+original_signed_date: "2020-12-08"
+original_published_date: "2021-02-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-5841"
+entry_into_force_date: "2021-02-10"
+jci_1_3: "jci1.3:c:BWBR0044788&z=2023-02-24&g=2023-02-24"
+jci_1_0: "1.0:c:BWBR0044788&g=2023-02-24"
+citeertitel_status: "officieel"
+signed_date: "2020-12-08"
+entry_into_force: "2021-02-10"
 ---
-
 # Besluit Protocol Huisbezoeken Handhaving UWV 2020
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Het Uitvoeringsinstituut werknemersverzekeringen hanteert bij het controleren van klanten met een uitkering van het Uitvoeringsinstituut werknemersverzekeringen door middel van het afleggen van huisbezoeken, het protocol als weergegeven in de bijlage bij dit besluit.
 
-#### Artikel 2
+##### Artikel 2
 
 Het [Besluit Protocol Huisbezoeken Handhaving UWV](https://wetten.overheid.nl/jci1.3:c:BWBR0035450) (besluit van 22 juli 2014, Staatscourant 13 augustus 2014, nr. 22911) wordt ingetrokken.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit wordt aangehaald als: Besluit Protocol Huisbezoeken Handhaving UWV 2020.
 

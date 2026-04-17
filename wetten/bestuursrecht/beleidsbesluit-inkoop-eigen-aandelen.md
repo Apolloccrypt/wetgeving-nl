@@ -1,13 +1,38 @@
 ---
 title: "Beleidsbesluit inkoop eigen aandelen"
 identifier: "BWBR0038075"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-11-05
-laatste_update: 2026-04-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038075"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2025-11-05"
+last_updated: "2026-04-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038075"
+soort: "beleidsregel"
+stam_id: "13654373"
+version_id: "31019442"
+internal_id: "C45030201"
+label_id: "13621164"
+dtd_version: "2.0"
+original_entry_into_force: "2025-10-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038075/2025-11-05/0"
+intitule_bron: "Stcrt.2025-36969"
+intitule_effect: "wijziging"
+intitule_signed: "2025-10-03"
+intitule_published: "2025-11-04"
+intitule_in_force: "2025-11-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-36969"
+original_signed_date: "2025-10-03"
+original_published_date: "2025-11-04"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2025-36969"
+entry_into_force_date: "2025-10-03"
+jci_1_3: "jci1.3:c:BWBR0038075&z=2025-11-05&g=2025-11-05"
+jci_1_0: "1.0:c:BWBR0038075&g=2025-11-05"
+citeertitel_status: "officieel"
+signed_date: "2025-10-03"
+entry_into_force: "2025-10-03"
 ---
-
 # Beleidsbesluit inkoop eigen aandelen
 
 De Staatssecretaris van Financiën heeft het volgende besloten.

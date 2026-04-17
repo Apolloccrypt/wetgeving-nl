@@ -1,13 +1,35 @@
 ---
-title: "Besluit instelling departement van Cultuur, Recreatie en Maatschappelijk Werk"
+title: "Besluit van 14 april 1965, houdende instelling van een departement van Cultuur, Recreatie en Maatschappelijk Werk, opheffing van het departement van Maatschappelijk Werk en naamsverandering van departementen"
 identifier: "BWBR0002486"
-categorie: "Overig"
-publicatiedatum: 1965-05-13
-laatste_update: 1965-05-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002486"
+country: "nl"
+rank: "kb"
+publication_date: "1965-05-13"
+last_updated: "1965-05-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002486"
+soort: "KB"
+stam_id: "626263"
+version_id: "910072"
+internal_id: "C910071"
+label_id: "607514"
+dtd_version: "2.0"
+original_entry_into_force: "1965-05-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002486/1965-05-13/0"
+intitule_bron: "Stb.1965-146"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1965-04-14"
+intitule_status: "goed"
+original_publication: "Stb.1965-146"
+original_signed_date: "1965-04-14"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1965-05-13"
+jci_1_3: "jci1.3:c:BWBR0002486&z=1965-05-13&g=1965-05-13"
+jci_1_0: "1.0:c:BWBR0002486&g=1965-05-13"
+citeertitel_status: "officieel"
+short_title: "Besluit instelling departement van Cultuur, Recreatie en Maatschappelijk Werk"
+signed_date: "1965-04-14"
+entry_into_force: "1965-05-13"
 ---
-
 # Besluit van 14 april 1965, houdende instelling van een departement van Cultuur, Recreatie en Maatschappelijk Werk, opheffing van het departement van Maatschappelijk Werk en naamsverandering van departementen
 
 Op de voordracht van Onze Minister-President, Minister van Algemene Zaken, dd. 14 april 1965, nr. 162268;
@@ -16,7 +38,7 @@ Gelet op artikel 86 van de Grondwet,
 
 Hebben goedgevonden en verstaan:
 
-#### Enig artikel
+##### Enig artikel
 
 1. in te stellen een departement van Cultuur, Recreatie en Maatschappelijk Werk;
 

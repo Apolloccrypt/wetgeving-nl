@@ -1,13 +1,35 @@
 ---
 title: "Douaneovereenkomst inzake faciliteiten voor de invoer van goederen bestemd om op tentoonstellingen, beurzen, congressen of soortgelijke manifestaties te worden getoond of gebruikt"
 identifier: "BWBV0004360"
-categorie: "Internationaal recht"
-publicatiedatum: 1964-04-18
-laatste_update: 1964-04-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004360"
+country: "nl"
+rank: "verdrag"
+publication_date: "1964-04-18"
+last_updated: "1964-04-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004360"
+soort: "verdrag"
+stam_id: "10004080993"
+version_id: "10004249232"
+internal_id: "C10006999841"
+label_id: "10004065634"
+dtd_version: "2.0"
+original_entry_into_force: "1964-04-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004360/1964-04-18/0"
+intitule_bron: "Trb.1962-109"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1962-10-09"
+intitule_in_force: "1964-03-06"
+intitule_status: "goed"
+original_publication: "Trb.1962-109"
+original_published_date: "1962-10-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1962-109"
+entry_into_force_date: "1964-04-18"
+jci_1_3: "jci1.3:c:BWBV0004360&z=1964-04-18&g=1964-04-18"
+jci_1_0: "1.0:c:BWBV0004360&g=1964-04-18"
+citeertitel_status: "redactioneel"
+entry_into_force: "1964-04-18"
 ---
-
 # Douaneovereenkomst inzake faciliteiten voor de invoer van goederen bestemd om op tentoonstellingen, beurzen, congressen of soortgelijke manifestaties te worden getoond of gebruikt
 
 PREAMBULE
@@ -26,7 +48,7 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. Begripsomschrijvingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze Overeenkomst wordt verstaan onder:
 
@@ -52,7 +74,7 @@ In deze Overeenkomst wordt verstaan onder:
 
 ### HOOFDSTUK II. Tijdelijke invoer
 
-#### Artikel 2
+##### Artikel 2
 
 1. Tijdelijke invoer wordt toegestaan voor:
 
@@ -76,7 +98,7 @@ In deze Overeenkomst wordt verstaan onder:
 
 - c. de douaneautoriteiten van het land van tijdelijke invoer ervan overtuigd zijn dat de in deze Overeenkomst gestelde voorwaarden zullen worden nagekomen.
 
-#### Artikel 3
+##### Artikel 3
 
 Zolang de goederen waarvoor tijdelijke invoer is toegestaan de faciliteiten genieten voorzien in deze Overeenkomst worden zij, tenzij de wetten en voorschriften van het land van tijdelijke invoer dit toestaan:
 
@@ -84,7 +106,7 @@ Zolang de goederen waarvoor tijdelijke invoer is toegestaan de faciliteiten geni
 
 - b. niet buiten de plaats gebracht waar de manifestatie wordt gehouden.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Goederen waarvoor tijdelijke invoer is toegestaan moeten weder worden uitgevoerd binnen zes maanden na de datum van invoer. De douaneautoriteiten van het land van tijdelijke invoer kunnen evenwel, gelet op de omstandigheden en in het bijzonder op de duur en de aard van de manifestatie, eisen dat de goederen weder worden uitgevoerd binnen een kortere termijn, die echter ten minste een periode van een maand na de afloop van de manifestatie moet omvatten.
 
@@ -94,7 +116,7 @@ Zolang de goederen waarvoor tijdelijke invoer is toegestaan de faciliteiten geni
 
 4. Indien goederen waarvoor tijdelijke invoer is toegestaan niet kunnen worden wederuitgevoerd als gevolg van een inbeslagneming of beslaglegging, anders dan op vordering van particulieren, wordt de verplichting tot wederuitvoer voorzien in dit artikel opgeschort voor de duur van het beslag.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Niettegenstaande de in deze Overeenkomst neergelegde verplichting tot wederuitvoer wordt geen wederuitvoer geëist van ernstig beschadigde goederen, goederen van geringe waarde en aan bederf onderhevige goederen, mits, al naar gelang de douaneautoriteiten zulks vorderen, de goederen:
 
@@ -108,7 +130,7 @@ Zolang de goederen waarvoor tijdelijke invoer is toegestaan de faciliteiten geni
 
 ### HOOFDSTUK III. Vrijstelling van rechten bij invoer
 
-#### Artikel 6
+##### Artikel 6
 
 1. Tenzij op grond van artikel 23 van de Overeenkomst voor bepaalde goederen een voorbehoud is gemaakt, worden de rechten bij invoer niet geheven en de invoerverboden en -beperkingen niet toegepast, en wordt, wanneer tijdelijke invoer is toegestaan, de wederuitvoer niet geëist voor de volgende goederen:
 
@@ -136,23 +158,23 @@ Zolang de goederen waarvoor tijdelijke invoer is toegestaan de faciliteiten geni
 
 2. De bepalingen van het eerste lid van dit artikel zijn niet van toepassing op alcoholhoudende dranken, tabaksfabrikaten en brandstoffen.
 
-#### Artikel 7
+##### Artikel 7
 
 De invoer van dossiers, registers, formulieren en andere documenten, bestemd om op of in verband met internationale bijeenkomsten, conferenties of congressen te worden gebezigd, is vrijgesteld van rechten bij invoer en van invoerverboden of -beperkingen.
 
 ### HOOFDSTUK IV. Vereenvoudiging van formaliteiten
 
-#### Artikel 8
+##### Artikel 8
 
 Elke Overeenkomstsluitende Partij brengt de douaneformaliteiten vereist in verband met de faciliteiten van deze Overeenkomst tot een minimum terug. Alle voorschriften dienaangaande worden zo spoedig mogelijk bekendgemaakt.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Indien een Overeenkomstsluitende Partij tot nakoming van de voorwaarden verbonden aan de toekenning van de faciliteiten van deze Overeenkomst zekerheidstelling eist, mag deze zekerheid het bedrag van de te heffen rechten bij invoer met niet meer dan 10% te boven gaan.
 
 2. Deze Overeenkomstsluitende Partij zal evenwel ernstig overwegen, om in alle gevallen waar dit mogelijk is, een algemene zekerheidstelling door de organisatoren van de manifestatie of door een andere door de douaneautoriteiten erkende persoon te aanvaarden in plaats van de individuele zekerheidstelling die volgens het eerste lid van dit artikel kan worden geëist.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Verificatie en vrijmaking bij invoer of bij wederuitvoer van goederen die zullen worden of zijn tentoongesteld of gebruikt op een manifestatie, worden waar mogelijk en wenselijk, verricht ter plaatse van die manifestatie.
 
@@ -162,19 +184,19 @@ Elke Overeenkomstsluitende Partij brengt de douaneformaliteiten vereist in verba
 
 ### HOOFDSTUK V. Algemene bepalingen
 
-#### Artikel 11
+##### Artikel 11
 
 Produkten die tijdens de manifestatie uit tijdelijk ingevoerde goederen verkregen worden uitsluitend als gevolg van de demonstratie van tentoongestelde machines en apparaten, zijn onderworpen aan de bepalingen van deze Overeenkomst.
 
-#### Artikel 12
+##### Artikel 12
 
 De bepalingen van deze Overeenkomst bevatten minimumfaciliteiten en beletten niet de toepassing van ruimere faciliteiten die bepaalde Overeenkomstsluitende Partijen toestaan of in de toekomst eventueel zullen toestaan, hetzij unilateraal, hetzij krachtens bilaterale of multilaterale overeenkomsten.
 
-#### Artikel 13
+##### Artikel 13
 
 Voor de toepassing van deze Overeenkomst kunnen de gebieden van de Overeenkomstsluitende Partijen die een douane-unie of een economische unie vormen worden beschouwd als één gebied.
 
-#### Artikel 14
+##### Artikel 14
 
 De bepalingen van deze Overeenkomst beletten niet de toepassing van:
 
@@ -182,13 +204,13 @@ De bepalingen van deze Overeenkomst beletten niet de toepassing van:
 
 - b. verboden en beperkingen opgelegd in nationale regelingen op grond van overwegingen van openbare zedelijkheid of orde, openbare veiligheid, hygiëne of volksgezondheid, diergeneeskundige of planteziektekundige overwegingen of wel om redenen van bescherming van octrooien, fabrieks- en handelsmerken, auteursrechten en kopijrechten.
 
-#### Artikel 15
+##### Artikel 15
 
 Elke inbreuk op de bepalingen van deze Overeenkomst, elke verwisseling, valse verklaring of handeling, die tot gevolg heeft dat een persoon of een voorwerp ten onrechte de voordelen geniet van de in deze Overeenkomst neergelegde regelen stelt de overtreder in het land waar het strafbare feit is begaan bloot aan de straffen voorzien in de wetgeving van dat land en aan de betaling van de verschuldigde rechten bij invoer.
 
 ### HOOFDSTUK VI. Slotbepalingen
 
-#### Artikel 16
+##### Artikel 16
 
 1. De Overeenkomstsluitende Partijen komen, indien nodig, in vergadering bijeen ten einde de werking van deze Overeenkomst te onderzoeken en, in het bijzonder, om te onderzoeken welke maatregelen moeten worden genomen ter verzekering van een eenvormige uitlegging en toepassing van deze Overeenkomst.
 
@@ -198,7 +220,7 @@ Elke inbreuk op de bepalingen van deze Overeenkomst, elke verwisseling, valse ve
 
 4. De Overeenkomstsluitende Partijen nemen geen besluiten tenzij meer dan de helft van hen aanwezig is.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Elk geschil tussen de Overeenkomstsluitende Partijen betreffende de uitlegging of de toepassing van deze Overeenkomst wordt zoveel mogelijk bijgelegd door middel van rechtstreekse onderhandelingen tussen de desbetreffende partijen.
 
@@ -206,7 +228,7 @@ Elke inbreuk op de bepalingen van deze Overeenkomst, elke verwisseling, valse ve
 
 3. De Overeenkomstsluitende Partijen tussen wie het geschil is gerezen kunnen van tevoren overeenkomen dat zij de aanbevelingen van de Overeenkomstsluitende Partijen als bindend zullen aanvaarden.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Elke staat die lid is van de Raad en elke staat die lid is van de Verenigde Naties of van gespecialiseerde organisaties daarvan kan Partij bij deze Overeenkomst worden door:
 
@@ -224,13 +246,13 @@ Elke inbreuk op de bepalingen van deze Overeenkomst, elke verwisseling, valse ve
 
 5. De akten van bekrachtiging of toetreding worden nedergelegd bij de Secretaris-Generaal van de Raad.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Deze Overeenkomst treedt in werking drie maanden nadat vijf van de in het eerste lid van artikel 18 van deze Overeenkomst bedoelde staten haar hebben ondertekend zonder voorbehoud van bekrachtiging of hun akten van bekrachtiging of toetreding hebben nedergelegd.
 
 2. Voor elke staat die deze Overeenkomst bekrachtigt of ertoe toetreedt nadat vijf Staten haar hebben ondertekend zonder voorbehoud van bekrachtiging of hun akten van bekrachtiging of toetreding hebben nedergelegd, treedt deze Overeenkomst in werking drie maanden nadat die Staat zijn akte van bekrachtiging of toetreding heeft nedergelegd.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Deze Overeenkomst wordt voor onbepaalde tijd gesloten, doch kan door elke Overeenkomstsluitende Partij worden opgezegd op elk willekeurig tijdstip na de datum van haar inwerkingtreding als is vastgesteld in artikel 19 van deze Overeenkomst.
 
@@ -238,7 +260,7 @@ Elke inbreuk op de bepalingen van deze Overeenkomst, elke verwisseling, valse ve
 
 3. De opzegging wordt van kracht zes maanden na de datum waarop de Secretaris-Generaal van de Raad de kennisgeving van opzegging heeft ontvangen.
 
-#### Artikel 21
+##### Artikel 21
 
 1. De Overeenkomstsluitende Partijen in vergadering bijeen overeenkomstig artikel 16 van deze Overeenkomst kunnen wijzigingen van deze Overeenkomst aanbevelen.
 
@@ -270,13 +292,13 @@ Elke inbreuk op de bepalingen van deze Overeenkomst, elke verwisseling, valse ve
 
 9. Elke staat die deze Overeenkomst bekrachtigt of ertoe toetreedt, wordt geacht de wijzigingen te hebben aanvaard, die van kracht zijn ten tijde van de nederlegging van zijn akte van bekrachtiging of van toetreding.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Elke staat kan, hetzij ten tijde van de ondertekening zonder voorbehoud van bekrachtiging of van de nederlegging van zijn akte van bekrachtiging of toetreding, hetzij daarna, door middel van een aan de Secretaris-Generaal van de Raad gerichte kennisgeving verklaren dat deze Overeenkomst mede van toepassing zal zijn op alle of op bepaalde gebieden voor welker buitenlandse betrekkingen hij verantwoordelijk is; de Overeenkomst is drie maanden na ontvangst van deze kennisgeving door de Secretaris-Generaal van de Raad van toepassing ten aanzien van de in de kennisgeving genoemde gebieden, doch niet voor het tijdstip van inwerkingtreding van deze Overeenkomst ten aanzien van die staat.
 
 2. Elke staat die met toepassing van het eerste lid van dit artikel heeft medegedeeld, dat deze Overeenkomst mede wordt toegepast in een gebied voor welks buitenlandse betrekkingen hij verantwoordelijk is, kan overeenkomstig de bepalingen van artikel 20 van deze Overeenkomst aan de Secretaris-Generaal van de Raad mededelen, dat dit gebied de Overeenkomst niet langer zal toepassen.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Elke staat kan op het tijdstip waarop hij deze Overeenkomst ondertekent of bekrachtigt of ertoe toetreedt verklaren dan wel, nadat hij Partij geworden is bij deze Overeenkomst, aan de Secretaris-Generaal mededelen dat hij zich niet gebonden acht aan de bepalingen van het eerste lid, onder **a**, van artikel 6 van deze Overeenkomst. Zodanige verklaringen of mededelingen vermelden uitdrukkelijk ten aanzien van welke goederen het voorbehoud wordt gemaakt. De aan de Secretaris-Generaal gerichte mededelingen treden in werking op de negentigste dag nadat zij door de Secretaris-Generaal zijn ontvangen.
 
@@ -286,7 +308,7 @@ Elke inbreuk op de bepalingen van deze Overeenkomst, elke verwisseling, valse ve
 
 4. Ten aanzien van deze Overeenkomst is geen ander voorbehoud toegelaten.
 
-#### Artikel 24
+##### Artikel 24
 
 De Secretaris-Generaal van de Raad doet aan alle Overeenkomstsluitende Partijen, aan de andere staten die deze Overeenkomst hebben ondertekend of ertoe zijn toegetreden, aan de Secretaris-Generaal van de Verenigde Naties en aan de Organisatie van de Verenigde Naties voor Onderwijs, Wetenschap en Cultuur mededeling van:
 
@@ -302,7 +324,7 @@ De Secretaris-Generaal van de Raad doet aan alle Overeenkomstsluitende Partijen,
 
 - f. verklaringen en mededelingen ontvangen overeenkomstig het eerste en derde lid van artikel 23 en de datum waarop voorbehouden of intrekkingen daarvan van kracht worden.
 
-#### Artikel 25
+##### Artikel 25
 
 Overeenkomstig [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102) wordt deze Overeenkomst op verzoek van de Secretaris-Generaal van de Raad geregistreerd bij het Secretariaat van de Verenigde Naties.
 

@@ -1,13 +1,39 @@
 ---
 title: "Regeling Grote Projecten"
 identifier: "BWBR0021424"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2021-12-09
-laatste_update: 2021-12-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0021424"
+country: "nl"
+rank: "reglement"
+publication_date: "2021-12-09"
+last_updated: "2021-12-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0021424"
+soort: "reglement"
+stam_id: "8977683"
+version_id: "14276262"
+internal_id: "C19416251"
+label_id: "8957164"
+dtd_version: "2.0"
+original_entry_into_force: "2006-06-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0021424/2021-12-09/0"
+intitule_bron: "Kst.2005-30351"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-12-16"
+intitule_published: "2005-12-16"
+intitule_in_force: "2005-12-16"
+intitule_status: "goed"
+original_publication: "Kst.2005-30351"
+original_signed_date: "2005-12-16"
+original_published_date: "2005-12-16"
+original_effect: "nieuwe-regeling"
+original_dossier: "30351"
+entry_into_force_date: "2006-06-22"
+entry_into_force_dossier: "30351"
+jci_1_3: "jci1.3:c:BWBR0021424&z=2021-12-09&g=2021-12-09"
+jci_1_0: "1.0:c:BWBR0021424&g=2021-12-09"
+citeertitel_status: "officieel"
+signed_date: "2005-12-16"
+entry_into_force: "2006-06-22"
 ---
-
 # Regeling Grote Projecten
 
 ### Hoofdstuk I. Begripsbepalingen

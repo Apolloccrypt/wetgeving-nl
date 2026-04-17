@@ -1,13 +1,38 @@
 ---
-title: "Verenigd Koninkrijk, kunstmatige dividenden"
+title: "Besluit van 3 juni 1994, nr. IFZ 94/331"
 identifier: "BWBR0027803"
-categorie: "Bestuursrecht"
-publicatiedatum: 1994-06-03
-laatste_update: 1994-06-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027803"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "1994-06-03"
+last_updated: "1994-06-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027803"
+soort: "beleidsregel"
+stam_id: "10583243"
+version_id: "17464732"
+internal_id: "C24159081"
+label_id: "10558084"
+dtd_version: "2.0"
+original_entry_into_force: "1994-06-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027803/1994-06-03/0"
+intitule_bron: "Infob.1994-0"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-06-03"
+intitule_published: "1994-01-01"
+intitule_in_force: "1994-01-01"
+intitule_status: "goed"
+original_publication: "Infob.1994-0"
+original_signed_date: "1994-06-03"
+original_published_date: "1994-01-01"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1994-06-03"
+jci_1_3: "jci1.3:c:BWBR0027803&z=1994-06-03&g=1994-06-03"
+jci_1_0: "1.0:c:BWBR0027803&g=1994-06-03"
+citeertitel_status: "redactioneel"
+short_title: "Verenigd Koninkrijk, kunstmatige dividenden"
+signed_date: "1994-06-03"
+entry_into_force: "1994-06-03"
 ---
-
 # Besluit van 3 juni 1994, nr. IFZ 94/331
 
 Onlangs is in het Verenigd Koninkrijk specifieke wetgeving geïntroduceerd met betrekking tot een bepaald soort inkomen, de zogenoemde kunstmatige dividenden op buitenlandse effecten (manufactured dividends on overseas securities).

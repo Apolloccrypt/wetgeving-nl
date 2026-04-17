@@ -1,13 +1,38 @@
 ---
 title: "Besluit Gedragscode Slimme meters"
 identifier: "BWBR0033177"
-categorie: "Overig"
-publicatiedatum: 2012-05-18
-laatste_update: 2012-05-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033177"
+country: "nl"
+rank: "zbo"
+publication_date: "2012-05-18"
+last_updated: "2012-05-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033177"
+soort: "zbo"
+stam_id: "12183853"
+version_id: "20392232"
+internal_id: "C28670651"
+label_id: "12155274"
+dtd_version: "2.0"
+original_entry_into_force: "2012-05-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033177/2012-05-18/0"
+intitule_bron: "Stcrt.2012-9616"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-05-09"
+intitule_published: "2012-05-18"
+intitule_in_force: "2012-05-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-9616"
+original_signed_date: "2012-05-09"
+original_published_date: "2012-05-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-9616"
+entry_into_force_date: "2012-05-18"
+jci_1_3: "jci1.3:c:BWBR0033177&z=2012-05-18&g=2012-05-18"
+jci_1_0: "1.0:c:BWBR0033177&g=2012-05-18"
+citeertitel_status: "redactioneel"
+signed_date: "2012-05-09"
+entry_into_force: "2012-05-18"
 ---
-
 # Besluit Gedragscode Slimme meters
 
 Gelet op [artikel 25 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=25) (Stb. 2000, 302),

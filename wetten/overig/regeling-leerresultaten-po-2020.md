@@ -1,13 +1,39 @@
 ---
-title: "Regeling leerresultaten PO 2020"
+title: "Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 11 december 2019 nr. PO/17846272, houdende voorschriften in het kader van de meting en beoordeling van leerresultaten als bedoeld in artikel 10a van de Wet op het primair onderwijs (Regeling leerresultaten PO 2020)"
 identifier: "BWBR0043066"
-categorie: "Overig"
-publicatiedatum: 2024-09-27
-laatste_update: 2024-09-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043066"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-09-27"
+last_updated: "2024-09-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043066"
+soort: "ministeriele-regeling"
+stam_id: "15320133"
+version_id: "26411682"
+internal_id: "C37626401"
+label_id: "15265614"
+dtd_version: "2.0"
+original_entry_into_force: "2020-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043066/2024-09-27/0"
+intitule_bron: "Stcrt.2019-69886"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-12-11"
+intitule_published: "2019-12-23"
+intitule_in_force: "2019-12-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-69886"
+original_signed_date: "2019-12-11"
+original_published_date: "2019-12-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-69886"
+entry_into_force_date: "2020-08-01"
+jci_1_3: "jci1.3:c:BWBR0043066&z=2024-09-27&g=2024-09-27"
+jci_1_0: "1.0:c:BWBR0043066&g=2024-09-27"
+citeertitel_status: "officieel"
+short_title: "Regeling leerresultaten PO 2020"
+signed_date: "2019-12-11"
+entry_into_force: "2020-08-01"
 ---
-
 # Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 11 december 2019 nr. PO/17846272, houdende voorschriften in het kader van de meting en beoordeling van leerresultaten als bedoeld in artikel 10a van de Wet op het primair onderwijs (Regeling leerresultaten PO 2020)
 
 Gelet op de [artikelen 34.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=34.4) en [artikel 34.6 van het Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=34.6);
@@ -16,7 +42,7 @@ Gelet op het voorstel als bedoeld in [artikel 34.5, tweede lid, van het Besluit 
 
 Besluit:
 
-#### Artikel 1. Uitwerking beoordeling leerresultaten; kleine scholen; correctie voor schoolkenmerken en individuele kenmerken van leerlingen; normering
+##### Artikel 1. Uitwerking beoordeling leerresultaten; kleine scholen; correctie voor schoolkenmerken en individuele kenmerken van leerlingen; normering
 
 In bijlage A bij deze regeling wordt geregeld:
 
@@ -28,19 +54,19 @@ In bijlage A bij deze regeling wordt geregeld:
 
 - d. De normering waarop de inspectie het oordeel voldoende dan wel onvoldoende leerresultaat baseert, bedoeld in [artikel 2.2, onderdeel d, van het Inrichtingsbesluit WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0046350&artikel=2.2), in deel 4 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=A&z=2024-09-27&g=2024-09-27).
 
-#### Artikel 2. Meting onmogelijk of gegevens incompleet
+##### Artikel 2. Meting onmogelijk of gegevens incompleet
 
 [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=B&z=2024-09-27&g=2024-09-27) regelt de wijze waarop de inspectie het aanvullend onderzoek, bedoeld in [artikel 2.4 van het Inrichtingsbesluit WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0046350&artikel=2.4), verricht.
 
-#### Artikel 3. Omhangbepaling
+##### Artikel 3. Omhangbepaling
 
 Deze regeling is gebaseerd op de [artikelen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046350&artikel=2.2) en [2.4 van het Inrichtingsbesluit WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0046350&artikel=2.4).
 
-#### Artikel 4. Inwerkingtreding
+##### Artikel 4. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 augustus 2020.
 
-#### Artikel 5. Citeertitel
+##### Artikel 5. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling leerresultaten PO 2020.
 

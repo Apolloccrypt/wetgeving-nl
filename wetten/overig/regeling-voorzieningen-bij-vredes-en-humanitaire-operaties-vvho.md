@@ -1,20 +1,45 @@
 ---
 title: "Regeling voorzieningen bij vredes- en humanitaire operaties (VVHO)"
 identifier: "BWBR0039789"
-categorie: "Overig"
-publicatiedatum: 2026-03-26
-laatste_update: 2026-03-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039789"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-03-26"
+last_updated: "2026-03-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039789"
+soort: "ministeriele-regeling"
+stam_id: "14072283"
+version_id: "24231552"
+internal_id: "C34806741"
+label_id: "14033424"
+dtd_version: "2.0"
+original_entry_into_force: "1996-07-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039789/2026-03-26/0"
+intitule_bron: "Stcrt.2017-40228"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-07-07"
+intitule_published: "2017-07-17"
+intitule_in_force: "2017-07-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-40228"
+original_signed_date: "2017-07-07"
+original_published_date: "2017-07-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-40228"
+entry_into_force_date: "1996-07-15"
+jci_1_3: "jci1.3:c:BWBR0039789&z=2026-03-26&g=2026-03-26"
+jci_1_0: "1.0:c:BWBR0039789&g=2026-03-26"
+citeertitel_status: "officieel"
+signed_date: "2017-07-07"
+entry_into_force: "1996-07-15"
 ---
-
 # Regeling voorzieningen bij vredes- en humanitaire operaties (VVHO)
 
 De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -40,7 +65,7 @@ In deze regeling wordt verstaan onder:
 
 - een periode, niet zijnde verlof, waarin aan de militair geen feitelijke werkzaamheden worden opgedragen, opdat door afwisseling van inzet en rust de gewenste operationele inzetbaarheid wordt gehandhaafd.
 
-#### Artikel 2. Toepasselijkheid
+##### Artikel 2. Toepasselijkheid
 
 - 1. Deze regeling is van toepassing op de militair die is ingezet in het kader van een operatie. Een overzicht van de operaties als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&paragraaf=1&artikel=1&z=2026-03-26&g=2026-03-26), onderdeel a, onder 1°, is opgenomen in tabel 3. Een overzicht van de operaties als bedoeld in artikel 1, onderdeel a, onder 2°, is opgenomen in tabel 4.
 
@@ -48,7 +73,7 @@ In deze regeling wordt verstaan onder:
 
 - 3. Voor de toepassing van deze regeling wordt Caribisch Nederland beschouwd als een land buiten Nederland.
 
-#### Artikel 3. Aanvang, einde en duur van de aanspraak
+##### Artikel 3. Aanvang, einde en duur van de aanspraak
 
 - 1. De aanspraak van de militair op voorzieningen ingevolge deze regeling vangt aan: en eindigt: waarbij de dag van vertrek en de dag van terugkeer tezamen als één dag worden gerekend.
 
@@ -68,13 +93,13 @@ In deze regeling wordt verstaan onder:
 
 - 3. Gedurende de periode van recuperatie blijft de aanspraak op de voorzieningen bestaan.
 
-#### Artikel 4. Samenloop
+##### Artikel 4. Samenloop
 
 Indien de militair uit anderen hoofde aanspraak heeft op overeenkomstige voorzieningen als genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&paragraaf=2&artikel=5&z=2026-03-26&g=2026-03-26), [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&paragraaf=2&artikel=6&z=2026-03-26&g=2026-03-26) en [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&paragraaf=3&artikel=8&z=2026-03-26&g=2026-03-26) wordt de waarde van die aanspraak in mindering gebracht op de aanspraak ingevolge deze regeling.
 
 #### Paragraaf 2. Financiële voorzieningen
 
-#### Artikel 5. Huisvesting, voeding en onkosten
+##### Artikel 5. Huisvesting, voeding en onkosten
 
 - 1. De militair heeft aanspraak op:
 
@@ -86,13 +111,13 @@ Indien de militair uit anderen hoofde aanspraak heeft op overeenkomstige voorzie
 
 - 3. Onder onkosten wordt verstaan de tijdens de inzet bij operaties door de militair gedane uitgaven wegens bewassing, (tele)communicatie, ontspanning, recuperatie en overige incidentele kosten.
 
-#### Artikel 6
+##### Artikel 6
 
 De militair heeft aanspraak op een vergoeding voor de bij operatie ondervonden extra werkdruk die een gevolg is van de inzet. De vergoeding is vastgesteld in de vorm van een afkoopsom, en bedraagt € 133,64 per dag.
 
 #### Paragraaf 3. Overige voorzieningen
 
-#### Artikel 7. Recuperatie
+##### Artikel 7. Recuperatie
 
 - 1. De Commandant der Strijdkrachten kan, indien operationele omstandigheden dat noodzakelijk en mogelijk maken, recuperatie verlenen.
 
@@ -104,7 +129,7 @@ De militair heeft aanspraak op een vergoeding voor de bij operatie ondervonden e
 
 - 5. Indien na beëindiging van de deelname aan de operatie blijkt dat sprake is geweest van onafgebroken inzet, zonder dat de militair de gelegenheid is geboden tussentijds te recupereren, verleent de commandant, onverminderd [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&paragraaf=3&artikel=10&z=2026-03-26&g=2026-03-26), na definitieve terugkeer van de militair uit het operatiegebied, extra vrije tijd voor de duur van één werkdag per maand inzet.
 
-#### Artikel 8. Recuperatiereis
+##### Artikel 8. Recuperatiereis
 
 - 1. Wordt de recuperatie als bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&paragraaf=3&artikel=7&z=2026-03-26&g=2026-03-26), in Nederland doorgebracht, of in een ander land indien de militair daar is geplaatst en woonachtig is, wordt de betreffende retourreis éénmaal gedurende een uitzendingsperiode van zes maanden voor rekening van Defensie gemaakt. Indien de uitzendperiode langer duurt dan 12 maanden kan de betreffende retourreis één maal per vier maanden voor rekening van defensie worden gemaakt.
 
@@ -114,7 +139,7 @@ De militair heeft aanspraak op een vergoeding voor de bij operatie ondervonden e
 
 - 4. Indien om welke reden dan ook geen gebruik is gemaakt van luchttransport van de Koninklijke Luchtmacht of van het vervoerbewijs van een commercieel vervoerbedrijf, wordt geen vervangend vervoerbewijs of een tegemoetkoming dan wel een vergoeding in geld toegekend.
 
-#### Artikel 9. Verlof
+##### Artikel 9. Verlof
 
 - 1. Aan de militair wordt gedurende de inzet geen verlof op grond van [hoofdstuk 8 van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8) verleend, tenzij de Commandant der Strijdkrachten die verlofverlening noodzakelijk acht.
 
@@ -130,13 +155,13 @@ De militair heeft aanspraak op een vergoeding voor de bij operatie ondervonden e
 
 - c. het overlijden en lijkbezorging van de echtgenote of echtgenoot van de militair, de persoon met wie de militair ongehuwd samenwoont of een van zijn bloed- en aanverwanten in de eerste graad.
 
-#### Artikel 10. Vrijstelling van normale werkzaamheden en diensten
+##### Artikel 10. Vrijstelling van normale werkzaamheden en diensten
 
 - 1. De militair wordt aansluitend op de definitieve terugkeer uit het operatiegebied door de Commandant der Strijdkrachten vrijgesteld van zijn normale werkzaamheden en diensten.
 
 - 2. De vrijstelling bedraagt tien werkdagen na een inzet met een duur van tenminste zes achtereenvolgende maanden, dan wel een evenredig deel daarvan bij een inzet met een kortere duur.
 
-#### Artikel 10a. Uitzendgratificatie
+##### Artikel 10a. Uitzendgratificatie
 
 - 1. De defensieambtenaar die gedurende ten minste 365 dagen heeft deelgenomen aan vredesoperaties dan wel humanitaire operaties als bedoeld in tabel 3 en 4 bij deze regeling, heeft aanspraak op een eenmalige gratificatie van € 1.000.
 
@@ -146,29 +171,29 @@ De militair heeft aanspraak op een vergoeding voor de bij operatie ondervonden e
 
 - 4. De loonheffing en inhoudingen, bedoeld in [paragraaf 5 van de Wet financiële voorzieningen privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=5), die zijn verschuldigd over de in het eerste lid bedoelde gratificatie, komen voor rekening van Defensie.
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
 #### Paragraaf 4. Slotbepalingen
 
-#### Artikel 15. Mogelijkheid tot afwijken
+##### Artikel 15. Mogelijkheid tot afwijken
 
 De Minister is bevoegd te beslissen in die gevallen waarin deze regeling naar zijn oordeel niet of niet in redelijkheid voorziet.
 
-#### Artikel 16. Grondslag
+##### Artikel 16. Grondslag
 
 Deze regeling berust met ingang van 1 mei 1997 op:
 
@@ -176,11 +201,11 @@ Deze regeling berust met ingang van 1 mei 1997 op:
 
 - b. [artikel 16 van het Inkomstenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=16).
 
-#### Artikel 17. Inwerkingtreding
+##### Artikel 17. Inwerkingtreding
 
 Deze regeling treedt in werking op 15 juli 1996.
 
-#### Artikel 18. Citeertitel
+##### Artikel 18. Citeertitel
 
 Deze regeling wordt aangehaald als: ‘Regeling voorzieningen bij vredes- en humanitaire operaties (VVHO)’.
 

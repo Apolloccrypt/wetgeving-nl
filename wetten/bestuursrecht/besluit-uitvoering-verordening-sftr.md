@@ -1,13 +1,39 @@
 ---
-title: "Besluit uitvoering verordening SFTR"
+title: "Besluit van 5 december 2017 tot wijziging van het Besluit uitvoering EU-verordeningen financiële markten in verband met verordening (EU) 2015/2365 van het Europees Parlement en de Raad van 25 november 2015 betreffende de transparantie van effectenfinancieringstransacties en van hergebruik en tot wijziging van verordening (EU) nr. 648/2012 (PbEU 2015, L 337) (Besluit uitvoering verordening SFTR)"
 identifier: "BWBR0040533"
-categorie: "Bestuursrecht"
-publicatiedatum: 2018-04-20
-laatste_update: 2018-04-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040533"
+country: "nl"
+rank: "amvb"
+publication_date: "2018-04-20"
+last_updated: "2018-04-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040533"
+soort: "AMvB"
+stam_id: "14510793"
+version_id: "24838262"
+internal_id: "C35725131"
+label_id: "14469034"
+dtd_version: "2.0"
+original_entry_into_force: "2018-04-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040533/2018-04-20/0"
+intitule_bron: "Stb.2018-6"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-12-05"
+intitule_published: "2018-01-23"
+intitule_in_force: "2018-04-19"
+intitule_status: "goed"
+original_publication: "Stb.2018-6"
+original_signed_date: "2017-12-05"
+original_published_date: "2018-01-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2018-6"
+entry_into_force_date: "2018-04-20"
+jci_1_3: "jci1.3:c:BWBR0040533&z=2018-04-20&g=2018-04-20"
+jci_1_0: "1.0:c:BWBR0040533&g=2018-04-20"
+citeertitel_status: "officieel"
+short_title: "Besluit uitvoering verordening SFTR"
+signed_date: "2017-12-05"
+entry_into_force: "2018-04-20"
 ---
-
 # Besluit van 5 december 2017 tot wijziging van het Besluit uitvoering EU-verordeningen financiële markten in verband met verordening (EU) 2015/2365 van het Europees Parlement en de Raad van 25 november 2015 betreffende de transparantie van effectenfinancieringstransacties en van hergebruik en tot wijziging van verordening (EU) nr. 648/2012 (PbEU 2015, L 337) (Besluit uitvoering verordening SFTR)
 
 Op de voordracht van Onze Minister van Financiën van 3 november 2017, 2017-0000209653, directie Financiële Markten;
@@ -20,15 +46,15 @@ Gezien het nader rapport van Onze Minister van Financiën van 1 december 2017, 2
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Besluit uitvoering EU-verordeningen financiële markten.
 
-#### Artikel II
+##### Artikel II
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel III
+##### Artikel III
 
 Dit besluit wordt aangehaald als: Besluit uitvoering verordening SFTR.
 

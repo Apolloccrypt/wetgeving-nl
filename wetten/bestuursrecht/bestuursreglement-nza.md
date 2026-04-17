@@ -1,18 +1,44 @@
 ---
-title: "Bestuursreglement NZa"
+title: "Bestuursreglement Nederlandse Zorgautoriteit (NZa)"
 identifier: "BWBR0031118"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-04-17
-laatste_update: 2025-04-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031118"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-04-17"
+last_updated: "2025-04-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031118"
+soort: "zbo"
+stam_id: "11631813"
+version_id: "30697282"
+internal_id: "C44003261"
+label_id: "11604784"
+dtd_version: "2.0"
+original_entry_into_force: "2025-04-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031118/2025-04-17/0"
+intitule_bron: "Stcrt.2012-843"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-12-06"
+intitule_published: "2012-01-17"
+intitule_in_force: "2012-01-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-13144"
+original_signed_date: "2025-04-08"
+original_published_date: "2025-04-16"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2025-13144"
+entry_into_force_date: "2025-04-17"
+jci_1_3: "jci1.3:c:BWBR0031118&z=2025-04-17&g=2025-04-17"
+jci_1_0: "1.0:c:BWBR0031118&g=2025-04-17"
+citeertitel_status: "officieel"
+short_title: "Bestuursreglement NZa"
+signed_date: "2025-04-08"
+entry_into_force: "2025-04-17"
 ---
-
 # Bestuursreglement Nederlandse Zorgautoriteit (NZa)
 
 Vastgesteld op grond van [artikel 5, eerste lid, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=5) op 6 december 2011, goedgekeurd door de Minister van Volksgezondheid, Welzijn en Sport op grond van [artikel 11, eerste lid, Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=11), bij brief van 22 december 2011, kenmerk MC-U-3097538.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit bestuursreglement wordt verstaan onder:
 
@@ -34,7 +60,7 @@ In dit bestuursreglement wordt verstaan onder:
 
 - i. **gmt:** gemeenschappelijk managementteam bestaande uit in ieder geval de bestuursleden van de Raad van Bestuur en de directeuren.
 
-#### Artikel 2. De Raad van Bestuur
+##### Artikel 2. De Raad van Bestuur
 
 1. De Raad van Bestuur bestuurt de organisatie van de NZa.
 
@@ -54,7 +80,7 @@ In dit bestuursreglement wordt verstaan onder:
 
 9. De Raad van Bestuur draagt zorg voor de tijdige informatievoorziening aan de minister als bedoeld in [artikel 20 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=20) met inachtneming van de afspraken die over de informatie-uitwisseling zijn gemaakt en de wettelijke voorschriften en beperkingen met betrekking tot het verstrekken van vertrouwelijke gegevens.
 
-#### Artikel 3. De voorzitter
+##### Artikel 3. De voorzitter
 
 1. De voorzitter:
 
@@ -72,7 +98,7 @@ In dit bestuursreglement wordt verstaan onder:
 
 3. De voorzitter wordt bij zijn afwezigheid vervangen door de plaatsvervangend voorzitter. Hetgeen in dit reglement omtrent de voorzitter is bepaald, is mede van toepassing op de plaatsvervangend voorzitter wanneer deze de voorzitter vervangt.
 
-#### Artikel 4. De vergaderingen van de Raad van Bestuur
+##### Artikel 4. De vergaderingen van de Raad van Bestuur
 
 1. De Raad van Bestuur vergadert in beginsel een keer per week en verder zo vaak als de voorzitter dat nodig acht, dan wel een ander bestuurslid dat onder opgaaf van redenen verlangt.
 
@@ -86,7 +112,7 @@ In dit bestuursreglement wordt verstaan onder:
 
 6. Over voorstellen omtrent de orde van de vergadering wordt bij voorrang beslist.
 
-#### Artikel 5. Het verslag
+##### Artikel 5. Het verslag
 
 1. Het verslag bevat ten minste:
 
@@ -106,7 +132,7 @@ In dit bestuursreglement wordt verstaan onder:
 
 4. Het verslag wordt zo mogelijk binnen een dag, maar uiterlijk binnen drie dagen na de vergadering aan de bestuursleden gezonden. Het verslag wordt in de eerstvolgende vergadering na verzending, al dan niet gewijzigd vastgesteld en ondertekend door de voorzitter.
 
-#### Artikel 6. Besluitvorming
+##### Artikel 6. Besluitvorming
 
 1. De voorzitter legt conceptbesluiten aan de Raad van Bestuur ter besluitvorming voor.
 
@@ -116,45 +142,45 @@ In dit bestuursreglement wordt verstaan onder:
 
 4. De bestuursleden stemmen zonder last of ruggespraak.
 
-#### Artikel 6a. Besluiten van beheersmatige aard
+##### Artikel 6a. Besluiten van beheersmatige aard
 
 De Raad van Bestuur draagt er zorg voor dat de NZa zich als publiekrechtelijk orgaan bij haar bedrijfsvoering zo veel mogelijk richt op datgene wat gebruikelijk is bij de rijksoverheid, onverlet de eigen verantwoordelijkheid van de NZa.
 
-#### Artikel 7. Tegenstrijdige belangen
+##### Artikel 7. Tegenstrijdige belangen
 
 1. Een bestuurslid meldt een mogelijk tegenstrijdig belang voorafgaand aan de bespreking van een agendapunt in de vergadering van de Raad van Bestuur en verschaft daarover alle relevante informatie.
 
 2. Indien één van de bestuursleden van oordeel is dat er sprake is van een tegenstrijdig belang, neemt het bestuurslid wiens belang het betreft, geen deel aan de behandeling van en de besluitvorming over dat agendapunt.
 
-#### Artikel 8. Overleg met de ondernemingsraad
+##### Artikel 8. Overleg met de ondernemingsraad
 
 De Raad van Bestuur wijst uit zijn midden de bestuurder in de zin van de [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747) aan. Deze bestuurder voert overleg met de ondernemingsraad.
 
-#### Artikel 9. Vertrouwelijkheid
+##### Artikel 9. Vertrouwelijkheid
 
 1. De bestuursleden nemen omtrent alle informatie en documentatie die zij in het kader van hun functie verkrijgen en die als vertrouwelijk is aangemerkt, dan wel waarvan de vertrouwelijkheid uit de aard der informatie voortvloeit, strikte geheimhouding in acht, ook na hun aftreden.
 
 2. Het eerste lid is van overeenkomstige toepassing op diegenen die belast zijn met de administratieve en secretariële ondersteuning van de Raad van Bestuur en op diegenen die vergaderingen geheel of gedeeltelijk hebben bijgewoond.
 
-#### Artikel 10. Integriteitsbeleid
+##### Artikel 10. Integriteitsbeleid
 
 De Raad van Bestuur legt het beleid inzake de integriteit vast in een Gedragscode integriteit, waar alle medewerkers en de bestuursleden aan zijn gebonden.
 
-#### Artikel 11. Besluit organisatie, mandaat, volmacht en machtiging
+##### Artikel 11. Besluit organisatie, mandaat, volmacht en machtiging
 
 De Raad van Bestuur stelt een Besluit organisatie, mandaat, volmacht en machtiging vast. Hierin worden per organisatieonderdeel de taken beschreven en worden de daaraan gerelateerde bevoegdheden van medewerkers van de NZa vastgelegd.
 
-#### Artikel 12. Klachtenregeling
+##### Artikel 12. Klachtenregeling
 
 1. De Raad van Bestuur stelt, met in achtneming van [hoofdstuk 9 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9), een klachtenregeling vast, op grond waarvan een ieder het recht heeft om over de wijze waarop de NZa zich in een bepaalde aangelegenheid jegens hem of een ander heeft gedragen, een klacht in te dienen bij de NZa.
 
 2. Voor de behandeling van klachten benoemt de Raad van Bestuur een externe klachtenfunctionaris. De externe klachtenfunctionaris krijgt een nader overeen te komen uurvergoeding voor zijn werkzaamheden. De wijze van behandeling van klachten is geregeld in de Klachtenregeling.
 
-#### Artikel 13. Verplichtingen ingevolge [artikel 3:2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:2) (Awb)
+##### Artikel 13. Verplichtingen ingevolge [artikel 3:2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:2) (Awb)
 
 De wijze waarop de NZa invulling zal geven aan haar verplichtingen ingevolge [artikel 3:2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:2) om bij de voorbereiding van besluiten de nodige kennis omtrent de relevante feiten en de af te wegen belangen te vergaren, zal door de NZa worden vastgelegd in een afzonderlijk document.
 
-#### Artikel 14. Commissies en raden
+##### Artikel 14. Commissies en raden
 
 1. De Raad van Bestuur kan commissies en raden instellen.
 
@@ -172,7 +198,7 @@ De wijze waarop de NZa invulling zal geven aan haar verplichtingen ingevolge [ar
 
 8. De leden van de commissies en raden kunnen een financiële vergoeding voor hun werkzaamheden ontvangen. Vergoedingen gaan de bedragen op grond van de [Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775) en het [Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279) niet te boven.
 
-#### Artikel 15. Raad van Advies
+##### Artikel 15. Raad van Advies
 
 1. De Raad van Bestuur stelt een Raad van Advies in van maximaal zes externe onafhankelijke leden.
 
@@ -194,13 +220,13 @@ De wijze waarop de NZa invulling zal geven aan haar verplichtingen ingevolge [ar
 
 5. De Raad van Bestuur draagt er zorg voor dat de adviezen die de Raad van Advies schriftelijk vastlegt ten behoeve van de Raad van Bestuur, voorzien van een appreciatie aan de minister worden toegezonden. De Raad van Bestuur besteedt in het jaarverslag aandacht aan de wijze waarop hij is omgegaan met de bevindingen en adviezen van de Raad van Advies.
 
-#### Artikel 16. Samenwerkingsprotocollen
+##### Artikel 16. Samenwerkingsprotocollen
 
 1. De Raad van Bestuur maakt, behalve met de in [artikel 17 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=17) genoemde organisaties, ook afspraken met andere organisaties die aangelegenheden van wederzijds belang behartigen.
 
 2. De in het eerste lid bedoelde afspraken worden vastgelegd in samenwerkingsprotocollen.
 
-#### Artikel 17. Wijziging reglement
+##### Artikel 17. Wijziging reglement
 
 1. Wijziging van dit reglement geschiedt in overeenstemming met de besluitvormingsprocedure zoals bepaald in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031118&artikel=6&z=2025-04-17&g=2025-04-17) van dit reglement.
 
@@ -208,7 +234,7 @@ De wijze waarop de NZa invulling zal geven aan haar verplichtingen ingevolge [ar
 
 3. Een wijziging in dit reglement wordt gepubliceerd in de Staatscourant, waarna deze wijziging in werking treedt.
 
-#### Artikel 18. Slotbepaling
+##### Artikel 18. Slotbepaling
 
 1. Dit reglement kan worden aangehaald als: Bestuursreglement NZa.
 
@@ -218,7 +244,7 @@ De wijze waarop de NZa invulling zal geven aan haar verplichtingen ingevolge [ar
 
 4. Dit reglement treedt in werking op de dag na publicatie in de Staatscourant.
 
-#### Artikel 19. Slotbepaling
+##### Artikel 19. Slotbepaling
 
 1. Dit reglement kan worden aangehaald als: Bestuursreglement NZa.
 
@@ -270,7 +296,7 @@ Voor alle leden afzonderlijk is van belang dat zij voldoen aan de volgende crite
 
 Voor leden afzonderlijk (of gecombineerd bij een lid) is van belang dat zij aan de volgende criteria voldoen:
 
-#### Artikel 4a. Het gmt
+##### Artikel 4a. Het gmt
 
 Het gmt bespreekt strategische keuzes die de NZa raken en een integrale afweging behoeven op het gebied van de taken en bedrijfsvoering van de NZa. De voorzitter kan strategische onderwerpen ter advisering voorleggen aan het gmt. Het gmt adviseert de Raad van Bestuur.
 

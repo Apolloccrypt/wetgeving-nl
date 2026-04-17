@@ -1,13 +1,37 @@
 ---
 title: "Verdrag tot oprichting van het Internationaal Instituut voor democratie en verkiezingsondersteuning"
 identifier: "BWBV0001307"
-categorie: "Internationaal recht"
-publicatiedatum: 2008-11-21
-laatste_update: 2008-11-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001307"
+country: "nl"
+rank: "verdrag"
+publication_date: "2008-11-21"
+last_updated: "2008-11-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001307"
+soort: "verdrag"
+stam_id: "10000034683"
+version_id: "10000035262"
+internal_id: "C10006987521"
+label_id: "10000034924"
+original_entry_into_force: "1997-11-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001307/2008-11-21/0"
+intitule_bron: "Trb.1995-257"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-10-15"
+intitule_published: "1995-11-09"
+intitule_in_force: "1997-11-06"
+intitule_status: "goed"
+original_publication: "Trb.1995-257"
+original_signed_date: "1997-10-15"
+original_published_date: "1995-11-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1995-257"
+entry_into_force_date: "1997-11-14"
+jci_1_3: "jci1.3:c:BWBV0001307&z=2008-11-21&g=2008-11-21"
+jci_1_0: "1.0:c:BWBV0001307&g=2008-11-21"
+citeertitel_status: "officieel"
+signed_date: "1997-10-15"
+entry_into_force: "1997-11-14"
 ---
-
 # Verdrag tot oprichting van het Internationaal Instituut voor democratie en verkiezingsondersteuning
 
 De Partijen die ondertekenaar zijn van dit Verdrag,
@@ -32,7 +56,7 @@ Overwegende dat er behoefte is aan een aanvullend internationaal instituut op di
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Oprichting, vestigingsplaats en rechtspositie
+##### Artikel 1. Oprichting, vestigingsplaats en rechtspositie
 
 1. De Partijen bij dit Verdrag richten hierbij het Internationale Instituut voor democratie en verkiezingsondersteuning op als internationale organisatie, hierna te noemen „het Instituut" of „Internationaal IDEA".
 
@@ -52,7 +76,7 @@ Zijn het volgende overeengekomen:
 
 - f. andere rechtmatige stappen te ondernemen om de doelstellingen van het Instituut te verwezenlijken.
 
-#### Artikel II. Doelstellingen en werkzaamheden
+##### Artikel II. Doelstellingen en werkzaamheden
 
 1. De doelstellingen van het Instituut zijn:
 
@@ -84,13 +108,13 @@ Zijn het volgende overeengekomen:
 
 - f. zich bezighouden met andere werkzaamheden met betrekking tot verkiezingen en democratie, naargelang de behoefte.
 
-#### Artikel III. Samenwerkingsverbanden
+##### Artikel III. Samenwerkingsverbanden
 
 1. Het Instituut kan samenwerkingsverbanden met andere organisaties aangaan, met inbegrip van internationale, intergouvernementele en niet-gouvernementele organisaties, teneinde de doelstellingen van het Instituut te bevorderen.
 
 2. Het Instituut kan tevens organisaties uitnodigen die vergelijkbare doelstellingen nastreven op het gebied van de opbouw van democratie, teneinde een strategisch partnerschap aan te gaan voor wederzijdse samenwerking op middellange en lange termijn.
 
-#### Artikel IV. Lidmaatschap
+##### Artikel IV. Lidmaatschap
 
 1. Leden van het Instituut zijn Regeringen van Staten die Partij zijn bij dit Verdrag.
 
@@ -104,7 +128,7 @@ Zijn het volgende overeengekomen:
 
 3. Het lidmaatschap van Leden die niet langer voldoen aan de bepalingen van het tweede lid van dit artikel, kan worden opgeschort. Een besluit tot opschorting wordt door de Raad met een tweederdemeerderheid genomen.
 
-#### Artikel V. Financiën
+##### Artikel V. Financiën
 
 1. Het Instituut verkrijgt zijn financiële middelen uit onder andere vrijwillige bijdragen en donaties van regeringen en anderen; sponsoring van programma’s of projectfinanciering; publicaties en andere opbrengsten; renteopbrengsten van in beheer gegeven vermogen, giften en investeringen.
 
@@ -112,11 +136,11 @@ Zijn het volgende overeengekomen:
 
 3. De Leden zijn niet afzonderlijk of gezamenlijk aansprakelijk voor schulden, verplichtingen of verbintenissen van het Instituut.
 
-#### Artikel VI. Organen
+##### Artikel VI. Organen
 
 Het Instituut bestaat uit een Raad, een Commissie van adviseurs en een Secretariaat.
 
-#### Artikel VII. De Raad
+##### Artikel VII. De Raad
 
 1. De Raad bestaat uit één vertegenwoordiger van elk Lid.
 
@@ -160,7 +184,7 @@ Het Instituut bestaat uit een Raad, een Commissie van adviseurs en een Secretari
 
 8. De Raad benoemt een Stuurgroep die bestaat uit de voorzitter en twee vicevoorzitters van de Raad, de voorzitter en vicevoorzitter van de Commissie van adviseurs en een vertegenwoordiger van het land waarin het Instituut zijn zetel heeft. De Secretaris-Generaal is ambtshalve lid van de Stuurgroep. De Raad kan andere natuurlijke personen benoemen tot lid van de Stuurgroep. De Stuurgroep bereidt vergaderingen van de Raad voor en verricht handelingen om de belangen van het Instituut in de periode tussen vergaderingen van de Raad te bevorderen. De Raad kan zaken aan de Stuurgroep delegeren.
 
-#### Artikel VIII. De Commissie van adviseurs
+##### Artikel VIII. De Commissie van adviseurs
 
 1. Het Instituut wordt ondersteund door een Commissie van adviseurs van ten hoogste 15 leden, allen eminente personen of deskundigen met zeer uiteenlopende achtergronden. Zij worden verkozen op grond van hun verdiensten en ervaring, zij het beroepsmatig of op academisch gebied, op terreinen die voor het werk van het Instituut van belang zijn, waaronder het recht, verkiezingsprocessen, politiek, politieke wetenschappen, vredesopbouw, conflictbeheersing en het maatschappelijk middenveld. Zij nemen op persoonlijke titel zitting en niet als vertegenwoordiger van een regering of organisatie. Een lid van de Commissie van adviseurs wordt voor een termijn van ten hoogste drie jaar benoemd en kan worden herbenoemd.
 
@@ -168,7 +192,7 @@ Het Instituut bestaat uit een Raad, een Commissie van adviseurs en een Secretari
 
 3. De Commissie van adviseurs kiest uit zijn midden een voorzitter en een vicevoorzitter, die tevens in de Stuurgroep zitting zullen nemen. De leden van de Commissie van adviseurs kunnen met name worden uitgenodigd commentaar en advies te geven inzake lidmaatschapskwesties en de keuze van de Secretaris-Generaal.
 
-#### Artikel IX. De Secretaris-Generaal en het Secretariaat
+##### Artikel IX. De Secretaris-Generaal en het Secretariaat
 
 1. Het Instituut beschikt over een Secretariaat onder leiding van een Secretaris-Generaal die verantwoording verschuldigd is aan de Raad.
 
@@ -182,15 +206,15 @@ Het Instituut bestaat uit een Raad, een Commissie van adviseurs en een Secretari
 
 3. De Secretaris-Generaal benoemt de personeelsleden die nodig zijn om het programma van het Instituut uit te voeren.
 
-#### Artikel X. Rechtspositie, voorrechten en immuniteiten
+##### Artikel X. Rechtspositie, voorrechten en immuniteiten
 
 Het Instituut en zijn functionarissen beschikken over de rechtspositie en genieten de voorrechten en immuniteiten die vergelijkbaar zijn met die vastgelegd in het [Verdrag nopens de voorrechten en immuniteiten van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0005561) van 13 februari 1946. De rechtspositie, voorrechten en immuniteiten van het Instituut en zijn functionarissen in het gastheerland worden vastgelegd in een zetelovereenkomst. De rechtspositie, voorrechten en immuniteiten van het Instituut en zijn functionarissen in andere landen worden vastgelegd in afzonderlijke overeenkomsten tussen het Instituut en het land waarin het Instituut zijn taken verricht.
 
-#### Artikel XI. Externe accountants
+##### Artikel XI. Externe accountants
 
 Er wordt jaarlijks een financiële controle van de verrichtingen van het Instituut uitgevoerd door een onafhankelijk internationaal accountantskantoor in overeenstemming met internationale controlenormen.
 
-#### Artikel XII. Depositaris
+##### Artikel XII. Depositaris
 
 1. De Secretaris-Generaal is depositaris van dit Verdrag.
 
@@ -198,35 +222,35 @@ Er wordt jaarlijks een financiële controle van de verrichtingen van het Institu
 
 3. De Secretaris-Generaal stelt alle Leden in kennis van de datum van inwerkingtreding van wijzigingen in overeenstemming met artikel XIV, tweede lid.
 
-#### Artikel XIII. Ontbinding
+##### Artikel XIII. Ontbinding
 
 1. Het Instituut kan worden ontbonden indien een meerderheid van vier vijfde van alle Lidstaten besluit dat het Instituut niet langer nodig is of dat het niet langer in staat is doelmatig te functioneren.
 
 2. In geval van ontbinding worden eventuele activa van het Instituut die overblijven na voldoening van zijn wettelijke verplichtingen verdeeld onder instellingen die doelstellingen hebben die vergelijkbaar zijn met die van het Instituut, zoals besloten door de Raad.
 
-#### Artikel XIV. Wijzigingen
+##### Artikel XIV. Wijzigingen
 
 1. Dit Verdrag kan worden gewijzigd bij een besluit van twee derde van de Partijen bij het Verdrag. Een wijzigingsvoorstel wordt ten minste acht weken van tevoren rondgezonden.
 
 2. Wijzigingen worden van kracht dertig dagen na de datum waarop twee derde van de Partijen de depositaris ervan in kennis hebben gesteld dat zij de op grond van hun nationale wetgeving vereiste formaliteiten met betrekking tot de wijzigingen hebben vervuld. De wijziging is dan bindend voor alle Leden.
 
-#### Artikel XV. Opzegging
+##### Artikel XV. Opzegging
 
 1. Elke Partij bij dit Verdrag kan het opzeggen. Een Partij die dit Verdrag wenst op te zeggen, stelt de depositaris hiervan schriftelijk in kennis zes maanden voor de formele kennisgeving teneinde het Instituut in staat te stellen de andere Partijen bij dit Verdrag op de hoogte te stellen en zo nodig gesprekken te initiëren.
 
 2. Het formele besluit tot opzegging wordt van kracht zes maanden na de datum waarop dit besluit ter kennis van de depositaris is gebracht.
 
-#### Artikel XVI. Inwerkingtreding
+##### Artikel XVI. Inwerkingtreding
 
 1. Het oorspronkelijke verdrag tussen de Leden die het Instituut hebben opgericht stond open voor ondertekening door de Staten die deelnamen aan de oprichtingsconferentie, gehouden in Stockholm op 27 februari 1995, en is op 28 februari 1995 van kracht geworden.
 
 2. Artikel VII van de Statuten is gewijzigd in overeenstemming met artikel XIV (het toenmalige artikel XV). De wijziging is op 17 juli 2003 van kracht geworden.
 
-#### Artikel XVII. Toetreding
+##### Artikel XVII. Toetreding
 
 Elke Staat kan de Secretaris-Generaal te allen tijde in kennis stellen van zijn verzoek tot dit Verdrag toe te mogen treden. Indien het verzoek wordt goedgekeurd door de Raad, treedt het Verdrag voor die Staat in werking dertig dagen na de datum van de nederlegging van zijn akte van toetreding.
 
-#### Artikel XVIII. Toetreding
+##### Artikel XVIII. Toetreding
 
 Elke Staat of intergouvernementele organisatie kan de Secretaris-Generaal te allen tijde in kennis stellen van zijn c.q. haar verzoek om tot dit Verdrag toe te treden. Indien het verzoek wordt goedgekeurd door de Raad, treedt het Verdrag voor die Staat of intergouvernementele organisatie in werking dertig dagen na de datum van nederlegging van zijn c.q. haar akte van toetreding.
 
@@ -234,7 +258,7 @@ IN WITNESS WHEREOF, the undersigned being duly authorised thereto, have signed t
 
 DONE in the English language at Stockholm on the 27th of February 1995.
 
-#### Artikel I. Oprichting, vestigingsplaats en rechtspositie
+##### Artikel I. Oprichting, vestigingsplaats en rechtspositie
 
 1. De Partijen bij dit Verdrag richten hierbij het Internationaal Instituut voor democratie en verkiezingsondersteuning op als een intergouvernementele organisatie, hierna te noemen „het Instituut’’.
 

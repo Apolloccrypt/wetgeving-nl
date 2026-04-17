@@ -1,13 +1,39 @@
 ---
-title: "Specifiek interventiebeleid NVWA tabak en rookwaren (IB03-SPEC 31, versie 21)"
+title: "Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Staatssecretaris van Volksgezondheid, Welzijn en Sport, van 23 mei 2025 tot vaststelling van het Specifiek interventiebeleid NVWA tabak en rookwaren (IB03-SPEC 31, versie 21)"
 identifier: "BWBR0051099"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051099"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051099"
+soort: "beleidsregel"
+stam_id: "17444243"
+version_id: "31015822"
+internal_id: "C44413201"
+label_id: "17347194"
+dtd_version: "2.0"
+original_entry_into_force: "2025-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051099/2025-07-01/0"
+intitule_bron: "Stcrt.2025-19821-n1"
+intitule_effect: "wijziging"
+intitule_signed: "2025-05-23"
+intitule_published: "2025-06-12"
+intitule_in_force: "2025-06-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-19821-n1"
+original_signed_date: "2025-05-23"
+original_published_date: "2025-06-12"
+original_effect: "wijziging"
+original_url_id: "stcrt-2025-19821-n1"
+entry_into_force_date: "2025-07-01"
+jci_1_3: "jci1.3:c:BWBR0051099&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0051099&g=2025-07-01"
+citeertitel_status: "officieel"
+short_title: "Specifiek interventiebeleid NVWA tabak en rookwaren (IB03-SPEC 31, versie 21)"
+signed_date: "2025-05-23"
+entry_into_force: "2025-07-01"
 ---
-
 # Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Staatssecretaris van Volksgezondheid, Welzijn en Sport, van 23 mei 2025 tot vaststelling van het Specifiek interventiebeleid NVWA tabak en rookwaren (IB03-SPEC 31, versie 21)
 
 Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81), [artikel 13 van de Tabaks- en rookwarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=13), de [artikelen 10, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&artikel=10), en [13a van de Mandaatregeling VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&artikel=13a) en het [Algemeen interventiebeleid NVWA 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049215);

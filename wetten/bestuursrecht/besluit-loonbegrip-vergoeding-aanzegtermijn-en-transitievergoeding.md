@@ -1,13 +1,39 @@
 ---
-title: "Besluit loonbegrip vergoeding aanzegtermijn en transitievergoeding"
+title: "Besluit van 11 december 2014 tot vaststelling van regels over de inhoud van het begrip loon in het kader van de berekening van de hoogte van de vergoedingen, bedoeld in de artikelen 668, derde lid, en 673 van Boek 7 van het Burgerlijk Wetboek (Besluit loonbegrip vergoeding aanzegtermijn en transitievergoeding)"
 identifier: "BWBR0035998"
-categorie: "Bestuursrecht"
-publicatiedatum: 2020-07-01
-laatste_update: 2020-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035998"
+country: "nl"
+rank: "amvb"
+publication_date: "2020-07-01"
+last_updated: "2020-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035998"
+soort: "AMvB"
+stam_id: "12901833"
+version_id: "21954342"
+internal_id: "C31495671"
+label_id: "12871154"
+dtd_version: "2.0"
+original_entry_into_force: "2015-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035998/2020-07-01/0"
+intitule_bron: "Stb.2014-538"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-12-11"
+intitule_published: "2014-12-22"
+intitule_in_force: "2014-12-22"
+intitule_status: "goed"
+original_publication: "Stb.2014-538"
+original_signed_date: "2014-12-11"
+original_published_date: "2014-12-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2014-538"
+entry_into_force_date: "2015-01-01"
+jci_1_3: "jci1.3:c:BWBR0035998&z=2020-07-01&g=2020-07-01"
+jci_1_0: "1.0:c:BWBR0035998&g=2020-07-01"
+citeertitel_status: "officieel"
+short_title: "Besluit loonbegrip vergoeding aanzegtermijn en transitievergoeding"
+signed_date: "2014-12-11"
+entry_into_force: "2015-01-01"
 ---
-
 # Besluit van 11 december 2014 tot vaststelling van regels over de inhoud van het begrip loon in het kader van de berekening van de hoogte van de vergoedingen, bedoeld in de artikelen 668, derde lid, en 673 van Boek 7 van het Burgerlijk Wetboek (Besluit loonbegrip vergoeding aanzegtermijn en transitievergoeding)
 
 Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 3 november 2014, nr. 2014-0000162309;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister van Sociale Zaken en Werkgelegenheid 
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1. Begripsbepaling
+##### Artikel 1. Begripsbepaling
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -30,7 +56,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. **variabele looncomponenten:** bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid aangewezen looncomponenten, waarvan de hoogte bepaald wordt door het functioneren van de werknemer of de resultaten van de onderneming.
 
-#### Artikel 2. Loon
+##### Artikel 2. Loon
 
 1. Voor de toepassing van [artikel 668, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=668), en [artikel 673, tweede lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=673) wordt onder loon verstaan: het bruto uurloon vermenigvuldigd met de overeengekomen arbeidsduur per maand, of, indien geen of een wisselende arbeidsduur is overeengekomen, het bruto uurloon vermenigvuldigd met het gemiddelde aantal gewerkte uren per maand:
 
@@ -46,7 +72,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 5. Bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid kan worden bepaald dat voor de berekening van de arbeidsduur, bedoeld in het eerste lid, en het loon, bedoeld in het tweede en derde lid, een andere periode, dan de periode, bedoeld in het eerste lid, onderdelen a en b, en het derde lid, in aanmerking wordt genomen.
 
-#### Artikel 3. Uitbreiding loon transitievergoeding
+##### Artikel 3. Uitbreiding loon transitievergoeding
 
 1. Het loon, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035998&artikel=2&z=2020-07-01&g=2020-07-01), wordt voor de toepassing van [artikel 673, tweede lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=673) vermeerderd met:
 
@@ -58,15 +84,15 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 2. Het getal, waardoor het bedrag aan verschuldigde looncomponenten, bedoeld in het eerste lid, wordt gedeeld, wordt naar rato aangepast indien de duur van de arbeidsovereenkomst korter was dan de periode, bedoeld in het eerste lid, onderdeel a, b of c.
 
-#### Artikel 4. Loon bij arbeidsovereenkomst korter dan een maand
+##### Artikel 4. Loon bij arbeidsovereenkomst korter dan een maand
 
 Indien de duur van de arbeidsovereenkomst korter was dan een maand, wordt, in afwijking van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035998&artikel=2&z=2020-07-01&g=2020-07-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0035998&artikel=3&z=2020-07-01&g=2020-07-01), voor de toepassing van [artikel 673, tweede lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=673) onder loon verstaan: het bedrag aan bruto loon en looncomponenten als bedoeld in artikel 3, eerste lid, dat voor de duur van de arbeidsovereenkomst aan de werknemer verschuldigd was.
 
-#### Artikel 5. Citeertitel
+##### Artikel 5. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit loonbegrip vergoeding aanzegtermijn en transitievergoeding.
 
-#### Artikel 6. Inwerkingtreding
+##### Artikel 6. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 januari 2015, met uitzondering van de [artikelen 1, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0035998&artikel=1&z=2020-07-01&g=2020-07-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0035998&artikel=3&z=2020-07-01&g=2020-07-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0035998&artikel=4&z=2020-07-01&g=2020-07-01), die met ingang van 1 juli 2015 in werking treden.
 

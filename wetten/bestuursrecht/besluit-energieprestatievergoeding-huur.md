@@ -1,13 +1,39 @@
 ---
-title: "Besluit energieprestatievergoeding huur"
+title: "Besluit van 23 augustus 2016, houdende regels omtrent de mogelijkheid voor verhuurder en huurder een energieprestatievergoeding overeen te komen (Besluit energieprestatievergoeding huur)"
 identifier: "BWBR0038456"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038456"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038456"
+soort: "AMvB"
+stam_id: "13740223"
+version_id: "27203982"
+internal_id: "C38436191"
+label_id: "13706464"
+dtd_version: "2.0"
+original_entry_into_force: "2020-11-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038456/2026-01-01/0"
+intitule_bron: "Stb.2016-303"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-08-23"
+intitule_published: "2016-08-31"
+intitule_in_force: "2016-08-31"
+intitule_status: "goed"
+original_publication: "Stb.2020-454"
+original_signed_date: "2020-11-04"
+original_published_date: "2020-11-17"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2020-454"
+entry_into_force_date: "2020-11-04"
+jci_1_3: "jci1.3:c:BWBR0038456&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0038456&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit energieprestatievergoeding huur"
+signed_date: "2020-11-04"
+entry_into_force: "2020-11-04"
 ---
-
 # Besluit van 23 augustus 2016, houdende regels omtrent de mogelijkheid voor verhuurder en huurder een energieprestatievergoeding overeen te komen (Besluit energieprestatievergoeding huur)
 
 Op de voordracht van Onze Minister voor Wonen en Rijksdienst van 25 mei 2016, nr. 2016-0000302175, Directie Constitutionele Zaken en Wetgeving;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 Treedt in werking op het tijdstip waarop de Wijzigingswet Burgerlijk Wetboek Boek 7, enz. (mogelijkheid voor verhuurder en huurder een energieprestatievergoeding overeen te komen) (Stb. 2016/199) in werking treedt.
 
-#### Artikel 1
+##### Artikel 1
 
 - **elektriciteit uit hernieuwbare bronnen:** elektriciteit uit hernieuwbare bronnen als bedoeld in [artikel 1.1 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=1.1);
 
@@ -36,7 +62,7 @@ Treedt in werking op het tijdstip waarop de Wijzigingswet Burgerlijk Wetboek Boe
 
 - **warmtebehoefte:** warmtebehoefte van de woning, inhoudende de jaarlijkse hoeveelheid warmte die nodig is om de woonruimte bij gemiddelde klimaatomstandigheden en een gemiddeld gebruik te voorzien van ruimteverwarming.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een energieprestatievergoeding bedraagt ten hoogste het bedrag dat volgt uit de onderstaande tabel:
 
@@ -60,7 +86,7 @@ Treedt in werking op het tijdstip waarop de Wijzigingswet Burgerlijk Wetboek Boe
 
 4. De bedragen, genoemd in de in het eerste lid opgenomen tabel, worden per 1 juli van elk jaar bij ministeriële regeling gewijzigd aan de hand van de consumentenprijsindex geldend voor het voorafgaande kalenderjaar.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De verhuurder informeert de huurder bij het overeenkomen van de energieprestatievergoeding op welke wijze is voldaan aan de in de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038456&artikel=2&z=2026-01-01&g=2026-01-01), opgenomen tabel bedoelde eisen, en in ieder geval over:
 
@@ -72,7 +98,7 @@ Treedt in werking op het tijdstip waarop de Wijzigingswet Burgerlijk Wetboek Boe
 
 - d. het gemiddelde gebruikersgedrag dat als uitgangspunt is gehanteerd in de voorschriften, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038456&artikel=2&z=2026-01-01&g=2026-01-01), en daarbij de gevolgen voor het elektriciteitsgebruik bij afwijking van het gemiddelde gebruikersgedrag, in ieder geval voor het gebruik van warm tapwater, ruimteverwarming en huishoudelijk gebruik.
 
-#### Artikel 4
+##### Artikel 4
 
 1. In de gevallen waarin een energieprestatievergoeding is overeengekomen, bevat het overzicht dat de verhuurder krachtens [artikel 261a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=261a), in samenhang met [artikel 259, tweede lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=259) jaarlijks aan de huurder verstrekt, gegevens over het gemeten elektriciteitsgebruik van de maatregelen waarmee is voldaan aan de in de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038456&artikel=2&z=2026-01-01&g=2026-01-01), opgenomen tabel bedoelde eisen, en in ieder geval gegevens over:
 
@@ -104,7 +130,7 @@ G = de gemeten dan wel forfaitair op 700 kWh/jaar vastgestelde hoeveelheid elekt
 
 4. Het overzicht, bedoeld in het eerste lid, kan elektronisch worden verstrekt, indien de huurder daarmee instemt.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De verhuurder verbindt zich tot het geven aan de huurder van een korting op de overeengekomen energieprestatievergoeding indien in het voorafgaande kalenderjaar niet op de woning de bij het overeenkomen van de energieprestatievergoeding gegarandeerde hoeveelheid elektriciteit uit hernieuwbare bronnen voor gebruik door de huurder is opgewekt.
 
@@ -112,7 +138,7 @@ G = de gemeten dan wel forfaitair op 700 kWh/jaar vastgestelde hoeveelheid elekt
 
 3. De korting bedraagt het verschil tussen de gegarandeerde elektriciteitslevering voor huishoudelijk gebruik en de gerealiseerde elektriciteitslevering voor huishoudelijk gebruik vermenigvuldigd met de over het betreffende kalenderjaar door het Centraal Bureau voor de Statistiek bekendgemaakte transactieprijs «Elektriciteitsprijs verbruiksklassen huishoudens 2,5 tot 5 MWh».
 
-#### Artikel 6
+##### Artikel 6
 
 1. Op energieprestatievergoedingen, overeengekomen voor 1 oktober 2023, zijn de tabellen 1 en 2 van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0038456&bijlage=I&z=2026-01-01&g=2026-01-01) van toepassing.
 
@@ -120,11 +146,11 @@ G = de gemeten dan wel forfaitair op 700 kWh/jaar vastgestelde hoeveelheid elekt
 
 3. De verhuurder die de warmtebehoefte van de woning heeft bepaald voor 1 januari 2024 kan tabel 1 van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0038456&bijlage=I&z=2026-01-01&g=2026-01-01) toepassen bij het bepalen van de maximale energieprestatievergoeding.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit treedt in werking op het tijdstip waarop de Wet van 18 mei 2016 tot wijziging van Boek 7 van het Burgerlijk Wetboek en de Uitvoeringswet huurprijzen woonruimte in verband met de mogelijkheid voor verhuurder en huurder een energieprestatievergoeding overeen te komen (Stb. 2016, 199) in werking treedt.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit wordt aangehaald als: Besluit energieprestatievergoeding huur.
 
@@ -145,7 +171,7 @@ Dit besluit wordt aangehaald als: Besluit energieprestatievergoeding huur.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 2a
+##### Artikel 2a
 
 Vervallen
 

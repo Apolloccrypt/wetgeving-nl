@@ -1,13 +1,38 @@
 ---
 title: "Protocol bij het op 20 juni 1960 gesloten Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Belgie betreffende de verbetering van het Kanaal van Terneuzen naar Gent en de regeling van enige daarmede verband houdende aangelegenheden"
 identifier: "BWBV0002557"
-categorie: "Internationaal recht"
-publicatiedatum: 1988-11-01
-laatste_update: 1988-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002557"
+country: "nl"
+rank: "verdrag"
+publication_date: "1988-11-01"
+last_updated: "1988-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002557"
+soort: "verdrag"
+stam_id: "10002928923"
+version_id: "10002930902"
+internal_id: "C10006978561"
+label_id: "10002916074"
+dtd_version: "2.0"
+original_entry_into_force: "1988-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002557/1988-11-01/0"
+intitule_bron: "Trb.1985-20"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1985-12-24"
+intitule_published: "1985-02-15"
+intitule_in_force: "1988-10-07"
+intitule_status: "goed"
+original_publication: "Trb.1985-20"
+original_signed_date: "1985-12-24"
+original_published_date: "1985-02-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1985-20"
+entry_into_force_date: "1988-11-01"
+jci_1_3: "jci1.3:c:BWBV0002557&z=1988-11-01&g=1988-11-01"
+jci_1_0: "1.0:c:BWBV0002557&g=1988-11-01"
+citeertitel_status: "officieel"
+signed_date: "1985-12-24"
+entry_into_force: "1988-11-01"
 ---
-
 # Protocol bij het op 20 juni 1960 gesloten Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Belgie betreffende de verbetering van het Kanaal van Terneuzen naar Gent en de regeling van enige daarmede verband houdende aangelegenheden
 
 De Regering van het Koninkrijk der Nederlanden en de Regering van het Koninkrijk België,
@@ -20,7 +45,7 @@ Zijn overeengekomen als volgt:
 
 ## Titel I. Uit te voeren werken
 
-#### Artikel 1
+##### Artikel 1
 
 1. Ten einde het kanaal van Terneuzen naar Gent op Nederlands grondgebied aan te passen voor de vaart met schepen met de maximale afmetingen 256 m lengte, 34 m breedte en 12,25 m diepgang, wordt overgegaan tot:
 
@@ -38,17 +63,17 @@ Zijn overeengekomen als volgt:
 
 2. De in het eerste lid bedoelde werken worden in beginsel voor 1 januari 1988 tot uitvoering gebracht.
 
-#### Artikel 2
+##### Artikel 2
 
 In onderling overleg wordt een onderzoek gedaan naar de verbetering van de vaart met specifieke autoschepen en wordt, in aanvulling op dan wel in combinatie met de in artikel 1, eerste lid, bedoelde werken, overgegaan tot het treffen van de voorzieningen die op grond van dit onderzoek noodzakelijk blijken. Deze werken worden in beginsel voor 1 januari 1988 tot uitvoering gebracht.
 
-#### Artikel 3
+##### Artikel 3
 
 De Belgische Minister die het Bestuur der Waterwegen onder zijn bevoegdheid heeft en de Nederlandse Minister belast met de zaken van de Waterstaat stellen in onderling overleg de bijzonderheden vast met betrekking tot het ontwerp en de uitvoering van de in de artikelen 1, eerste lid, en 2 bedoelde werken. Zij kunnen, indien zulks noodzakelijk of wenselijk blijkt, deze werken aanvullen of wijzigen.
 
 ## Titel II. Voorbereiding en uitvoering van de werken
 
-#### Artikel 4
+##### Artikel 4
 
 1. Met inachtneming van het tweede lid, is het bepaalde in de artikelen 3 tot en met 10 van het op 20 juni 1960 gesloten Verdrag tussen het Koninkrijk België en het Koninkrijk der Nederlanden betreffende de verbetering van het kanaal van Terneuzen naar Gent en de regeling van enige daarmede verband houdende aangelegenheden (hierna verder te noemen „het Verdrag”), van overeenkomstige toepassing op de voorbereiding en de uitvoering van de in de artikelen 1, eerste lid, en 2 bedoelde werken.
 
@@ -62,7 +87,7 @@ De Belgische Minister die het Bestuur der Waterwegen onder zijn bevoegdheid heef
 
 ## Titel III. Onderhoud en vernieuwing van de werken
 
-#### Artikel 5
+##### Artikel 5
 
 1. De Nederlandse Regering draagt zorg voor het onderhoud en de bediening van de in de artikelen 1, eerste lid, en 2 bedoelde werken.
 
@@ -70,7 +95,7 @@ De Belgische Minister die het Bestuur der Waterwegen onder zijn bevoegdheid heef
 
 ## Titel IV. Kostenverdeling
 
-#### Artikel 6
+##### Artikel 6
 
 Met inachtneming van het bepaalde in de artikelen 7 en 8 vindt de verdeling van de kosten, verbonden aan de in de artikelen 1, eerste lid, en 2 bedoelde werken, als volgt plaats:
 
@@ -78,7 +103,7 @@ Met inachtneming van het bepaalde in de artikelen 7 en 8 vindt de verdeling van 
 
 - b). de kosten van de voorbereiding en de uitvoering van de werken, bedoeld in artikel 1, eerste lid, onder a) en e), alsmede onder f) voor zover bij deze werken behorende, en bedoeld in artikel 2 komen voor 100% ten laste van België.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Met inachtneming van het tweede lid, is het bepaalde in de artikelen 12, 13, 14, 16 en 18 van het Verdrag van overeenkomstige toepassing op de in artikel 6 bedoelde kosten.
 
@@ -86,7 +111,7 @@ Met inachtneming van het bepaalde in de artikelen 7 en 8 vindt de verdeling van 
 
 „De in artikel 12, onder g) bedoelde kosten worden, voor zover zij door de betrokken Nederlandse Rijksdiensten worden gemaakt, voor de vaststelling van het Belgische aandeel in die kosten geacht 6% van alle overige kosten van voorbereiding en uitvoering te bedragen.”
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het bepaalde in de artikelen 4, 6 en 7 is van overeenkomstige toepassing op:
 
@@ -96,33 +121,33 @@ Met inachtneming van het bepaalde in de artikelen 7 en 8 vindt de verdeling van 
 
 2. Het bepaalde in het eerste lid geldt slechts voor zover deze werken noodzakelijk of wenselijk worden geacht binnen drie jaar na de eerste oplevering van het werk, waarvan ze als nakomend of afrondingswerk moeten worden beschouwd.
 
-#### Artikel 9
+##### Artikel 9
 
 Behoudens het bepaalde in artikel 8 van dit Protocol en in artikel 55, eerste lid, van het Verdrag komen de kosten verbonden aan het onderhoud en de bediening van de in de artikelen 1, eerste lid, en 2 bedoelde werken ten laste van Nederland.
 
 ## Titel V. Regeling der betalingen
 
-#### Artikel 10
+##### Artikel 10
 
 De in artikel 6, 7 en 8 bedoelde kosten worden door de Nederlandse Regering voor zoveel nodig rechtstreeks voldaan.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De Belgische Regering verplicht zich ertoe, met inachtneming van het bepaalde in artikel 13, dat op een rekening van het Nederlandse Ministerie van Verkeer en Waterstaat, het Belgische aandeel in de aan de Nederlandse Minister door derden ter betaling aangeboden declaraties, verhoogd met de daarbij behorende kosten als bedoeld in artikel 7, tweede lid, zal zijn bijgeschreven, op het in het tweede lid bedoelde voorgenomen tijdstip van betaling. Over het desbetreffend bedrag wordt door de Belgische Regering rente betaald volgens de wettelijke rente naar Nederlands recht vanaf het voorgenomen tijdstip van betaling van de aangeboden declaraties, verlengd naar rato van de overschrijding van de termijn van vijf werkdagen vermeld in het tweede lid.
 
 2. De genoemde Nederlandse Minister zal, binnen de vijf werkdagen, na ontvangst van de hem door derden ter betaling aangeboden declaraties, deze, vergezeld van de nodige verantwoordingsstukken, met vermelding van het Belgisch aandeel daarin en de daarbij behorende kosten als bedoeld in artikel 7, tweede lid, alsmede van het voorgenomen tijdstip van betaling, aan de genoemde Belgische Minister doen toekomen. Het voorgenomen tijdstip van betaling kan niet worden vastgesteld op een datum die valt binnen de vijf weken na de ontvangst door de Nederlandse Minister van de declaratie.
 
-#### Artikel 12
+##### Artikel 12
 
 De genoemde Belgische Minister laat binnen de vier weken na de ontvangst door de Nederlandse Minister van een declaratie weten of hij instemt met de voor Belgische rekening komende bedragen als bedoeld in artikel 11, tweede lid, zulks onverminderd het bepaalde van artikel 11, eerste lid.
 
-#### Artikel 13
+##### Artikel 13
 
 Indien declaraties tot een bedrag van 90% van de (gewijzigde) aannemingssom door de genoemde Nederlandse Minister aan de genoemde Belgische Minister zijn gezonden, zal de Belgische Regering, voor wat betreft de resterende declaraties en de daarbij behorende kosten als bedoeld in artikel 7, tweede lid, niet eerder aan de in artikel 11, eerste lid, genoemde verplichtingen zijn gehouden, dan nadat over de in deze en in de eerdere declaraties voorkomende bedragen overeenstemming is bereikt tussen de in artikel 4 van het Verdrag genoemde hoofdambtenaren.
 
 ## Titel VI. Bijzondere tijdelijke regeling
 
-#### Artikel 14
+##### Artikel 14
 
 1. Vooruitlopend op de totstandkoming van de in artikel 1, eerste lid, bedoelde werken wordt de vaart op het kanaal van Terneuzen naar Gent met de in artikel 1, eerste lid, genoemde schepen toegelaten.
 
@@ -134,13 +159,13 @@ Indien declaraties tot een bedrag van 90% van de (gewijzigde) aannemingssom door
 
 ## Titel VII. Aanvullende bepaling
 
-#### Artikel 15
+##### Artikel 15
 
 De vaart met grotere schepen dan die bedoeld in artikel 1, eerste lid, kan, in uitzonderlijke gevallen, worden toegelaten na verkregen toestemming van de bevoegde Nederlandse autoriteiten. De nadere voorwaarden waaronder deze toelating wordt verleend worden per geval na overleg door deze autoriteiten vastgesteld.
 
 ## Titel VIII. Slotbepaling
 
-#### Artikel 16
+##### Artikel 16
 
 Dit Protocol treedt in werking op de eerste dag van de tweede maand volgende op de dag waarop de beide Regeringen elkaar hebben medegedeeld dat aan de in hun land geldende grondwettelijke vereisten is voldaan.
 

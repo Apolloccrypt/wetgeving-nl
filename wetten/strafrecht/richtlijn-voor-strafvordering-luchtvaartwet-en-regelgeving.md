@@ -1,13 +1,35 @@
 ---
 title: "Richtlijn voor strafvordering luchtvaartwet- en regelgeving"
 identifier: "BWBR0047896"
-categorie: "Strafrecht"
-publicatiedatum: 2023-03-01
-laatste_update: 2023-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047896"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2023-03-01"
+last_updated: "2023-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047896"
+soort: "beleidsregel"
+stam_id: "16678573"
+version_id: "29256782"
+internal_id: "C41656601"
+label_id: "16596724"
+dtd_version: "2.0"
+original_entry_into_force: "2023-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047896/2023-03-01/0"
+intitule_bron: "Stcrt.2023-5607"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2023-02-21"
+intitule_in_force: "2023-02-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-5607"
+original_published_date: "2023-02-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-5607"
+entry_into_force_date: "2023-03-01"
+jci_1_3: "jci1.3:c:BWBR0047896&z=2023-03-01&g=2023-03-01"
+jci_1_0: "1.0:c:BWBR0047896&g=2023-03-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2023-03-01"
 ---
-
 # Richtlijn voor strafvordering luchtvaartwet- en regelgeving
 
 ### Samenvatting

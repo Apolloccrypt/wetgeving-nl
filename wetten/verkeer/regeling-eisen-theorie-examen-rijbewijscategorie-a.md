@@ -1,13 +1,37 @@
 ---
-title: "Regeling eisen theorie-examen rijbewijscategorie A"
+title: "Regeling houdende vaststelling eisen theorie-examen rijbewijscategorie A (Regeling eisen theorie-examen rijbewijscategorie A)"
 identifier: "BWBR0015610"
-categorie: "Verkeer"
-publicatiedatum: 2015-04-01
-laatste_update: 2015-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015610"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2015-04-01"
+last_updated: "2015-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015610"
+soort: "ministeriele-regeling"
+stam_id: "5427013"
+version_id: "9762962"
+internal_id: "C13177391"
+label_id: "5402014"
+original_entry_into_force: "2003-09-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015610/2015-04-01/0"
+intitule_bron: "Stcrt.2003-191"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-09-22"
+intitule_published: "2003-10-03"
+intitule_in_force: "2003-10-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2003-191"
+original_signed_date: "2003-09-22"
+original_published_date: "2003-10-03"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2003-09-30"
+jci_1_3: "jci1.3:c:BWBR0015610&z=2015-04-01&g=2015-04-01"
+jci_1_0: "1.0:c:BWBR0015610&g=2015-04-01"
+citeertitel_status: "officieel"
+short_title: "Regeling eisen theorie-examen rijbewijscategorie A"
+signed_date: "2003-09-22"
+entry_into_force: "2003-09-30"
 ---
-
 # Regeling houdende vaststelling eisen theorie-examen rijbewijscategorie A (Regeling eisen theorie-examen rijbewijscategorie A)
 
 Gelet op [richtlijn nr. 2000/56/EG](32000L0056) van de Commissie van de Europese Gemeenschappen van 14 september 2000 tot wijziging van [richtlijn nr. 91/439/EEG](31991L0439) van de Raad betreffende het rijbewijs (PbEG L 237) en [artikel 111, vierde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=111):
@@ -16,7 +40,7 @@ Besluit:
 
 De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
-#### Artikel 1
+##### Artikel 1
 
 De aanvrager van het theorie-examen moet blijk geven kennis en inzicht te bezitten van de hierna genoemde voorschriften, alsmede kennis en inzicht van die voorschriften voor zover deze gelden voor andere verkeersdeelnemers:
 
@@ -34,7 +58,7 @@ De aanvrager van het theorie-examen moet blijk geven kennis en inzicht te bezitt
 
 - g. van de [Wet aansprakelijkheidsverzekering motorrijtuigen: artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=2).
 
-#### Artikel 2
+##### Artikel 2
 
 De aanvrager van het theorie-examen moet blijk geven kennis en inzicht te bezitten van de hierna genoemde factoren en risico’s die van belang zijn bij deelneming aan het verkeer:
 
@@ -56,7 +80,7 @@ De aanvrager van het theorie-examen moet blijk geven kennis en inzicht te bezitt
 
 - i. het veilig rijden in tunnels.
 
-#### Artikel 3
+##### Artikel 3
 
 De aanvrager van het theorie-examen moet blijk geven kennis te bezitten van de hierna genoemde veiligheidsaspecten die van belang zijn bij deelneming aan het verkeer:
 
@@ -66,15 +90,15 @@ De aanvrager van het theorie-examen moet blijk geven kennis te bezitten van de h
 
 - c. veiligheidseisen met betrekking tot het voertuig, de lading en de passagier, almede de beschermende uitrusting.
 
-#### Artikel 4
+##### Artikel 4
 
 De [Regeling eisen theorie-examen A](https://wetten.overheid.nl/jci1.3:c:BWBR0008052) wordt ingetrokken.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling treedt in werking met ingang van 30 september 2003.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling wordt aangehaald als: Regeling eisen theorie-examen rijbewijscategorie A.
 

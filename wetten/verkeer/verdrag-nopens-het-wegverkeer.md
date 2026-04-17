@@ -1,13 +1,35 @@
 ---
 title: "Verdrag nopens het wegverkeer"
 identifier: "BWBV0005415"
-categorie: "Verkeer"
-publicatiedatum: 1952-10-19
-laatste_update: 1952-10-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005415"
+country: "nl"
+rank: "verdrag"
+publication_date: "1952-10-19"
+last_updated: "1952-10-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005415"
+soort: "verdrag"
+stam_id: "10004622903"
+version_id: "10004878832"
+internal_id: "C10007452331"
+label_id: "10004608854"
+dtd_version: "2.0"
+original_entry_into_force: "1952-10-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005415/1952-10-19/0"
+intitule_bron: "Trb.1951-81"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1951-06-27"
+intitule_in_force: "1952-11-05"
+intitule_status: "goed"
+original_publication: "Trb.1951-81"
+original_published_date: "1951-06-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1951-81"
+entry_into_force_date: "1952-10-19"
+jci_1_3: "jci1.3:c:BWBV0005415&z=1952-10-19&g=1952-10-19"
+jci_1_0: "1.0:c:BWBV0005415&g=1952-10-19"
+citeertitel_status: "redactioneel"
+entry_into_force: "1952-10-19"
 ---
-
 # Verdrag nopens het wegverkeer
 
 De Verdragsluitende Staten, verlangend de ontwikkeling en de veiligheid van het internationale wegverkeer te bevorderen door het tot stand brengen van gelijkvormige voorschriften,
@@ -16,19 +38,19 @@ zijn de navolgende bepalingen overeengekomen:
 
 ### HOOFDSTUK I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. Onder voorbehoud van het recht regelen te stellen betreffende het gebruik van hun wegen komen de Verdragsluitende Staten overeen, dat hun wegen onder de in dit Verdrag vervatte voorwaarden voor internationaal verkeer gebruikt kunnen worden.
 
 2. De Verdragsluitende Staten zijn niet gehouden het voorrecht van de bepalingen van dit Verdrag toe te kennen aan motorrijtuigen, aanhangwagens of bestuurders, die langer dan een jaar achtereen op hun grondgebied zijn verbleven.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Bijlagen van dit Verdrag worden geacht daarvan onverbrekelijk deel uit te maken met dien verstande echter, dat iedere Staat bij de ondertekening of de bekrachtiging van het Verdrag, bij de toetreding tot het Verdrag, dan wel te allen tijde daarna kan verklaren de toepasselijkheid van het Verdrag uit te sluiten, voorzover betreft de Bijlagen 1 en 2.
 
 2. Iedere Staat kan te allen tijde ter kennis van de Secretaris-Generaal der Verenigde Naties brengen, dat hij met ingang van de datum dier kennisgeving door de overeenkomstig het eerste lid van dit artikel uitgesloten Bijlagen is gebonden.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Maatregelen, welke alle Verdragsluitende Staten of sommige van hen mochten zijn overeengekomen, of in de toekomst overeenkomen te treffen, ten einde het internationale wegverkeer te vergemakkelijken door vereenvoudiging van de formaliteiten op het stuk van douane, politie, gezondheid of anderszins, worden beschouwd in overeenstemming te zijn met het doel van dit Verdrag.
 
@@ -38,7 +60,7 @@ zijn de navolgende bepalingen overeengekomen:
 
 3. Ter voldoening aan de bij dit Verdrag gestelde vereisten streven de Verdragsluitende Staten er naar de tijden, gedurende welke corresponderende douanekantoren en douaneposten aan eenzelfde internationale weg zijn geopend, te doen samenvallen.
 
-#### Artikel 4
+##### Artikel 4
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -66,21 +88,21 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 „maximum toegestaan gewicht”: het ledig gewicht van een voertuig, vermeerderd met het laadvermogen, wanneer het voertuig is uitgerust voor vertrek.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit Verdrag is niet op te vatten als dienende ter regeling van het vervoer van personen tegen beloning of het vervoer van goederen, andere dan de persoonlijke bagage van de inzittenden van een voertuig, met dien verstande, dat deze aangelegenheden en alle andere, waaromtrent dit Verdrag geen bepalingen inhoudt, blijven vallen onder de werking der nationale wetgeving, behoudens de toepasselijkheid van andere internationale verdragen of overeenkomsten.
 
 ### HOOFDSTUK II. Regels voor het verkeer op de weg
 
-#### Artikel 6
+##### Artikel 6
 
 Elke Verdragsluitende Staat treft de nodige maatregelen ter verzekering van de naleving van de in dit Hoofdstuk vervatte regels.
 
-#### Artikel 7
+##### Artikel 7
 
 Een bestuurder, voetganger of andere weggebruiker moet zich zodanig gedragen, dat hij het verkeer niet in gevaar brengt, noch belemmert; hij dient iedere handeling te vermijden, welke aan personen dan wel aan openbare of persoonlijke eigendommen letsel of schade zou kunnen berokkenen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Ieder voertuig en ieder samenstel van voertuigen, hetwelk zich als een geheel voortbeweegt, moet een bestuurder hebben.
 
@@ -92,7 +114,7 @@ Een bestuurder, voetganger of andere weggebruiker moet zich zodanig gedragen, da
 
 5. Bestuurders moeten te allen tijde hun voertuigen of hun dieren in hun macht hebben. Bij het naderen van andere weggebruikers moeten zij de voor derzelver veiligheid vereiste voorzorgen in acht nemen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Voertuigen, welke in dezelfde richting een weg volgen, moeten dezelfde zijde van die weg houden. In ieder land moet dit voor alle wegen op gelijke wijze zijn geregeld.
 
@@ -106,11 +128,11 @@ Een voorbehoud wordt gemaakt ten aanzien van de nationale voorschriften op het s
 
 3. Dieren moeten overeenkomstig de voorschriften der nationale wetgeving zo dicht mogelijk bij de kant van de weg worden gehouden.
 
-#### Artikel 10
+##### Artikel 10
 
 De bestuurder van een voertuig moet de snelheid daarvan te allen tijde in zijn macht hebben en met overleg en voorzichtig rijden. Hij moet vaart minderen of stilhouden, zo dikwijls de omstandigheden zulks vereisen of in het bijzonder, wanneer het zicht niet goed is.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Een bestuurder moet, wanneer hij een andere bestuurder tegenkomt, of wanneer hij wordt ingehaald, zo dicht mogelijk bij de kant van de rijbaan blijven op de rijstrook, bestemd voor het verkeer in de richting, waarin hij gaat. Bij het inhalen moet een bestuurder het ingehaalde voertuig of dier aan de linker- of rechterzijde voorbij gaan, al naar de in het betrokken land geldende regel. Deze voorschriften behoeven niet van toepassing te zijn op het inhalen van trams of langs de weg rijdende treinen, noch op het inhalen op bepaalde bergwegen.
 
@@ -122,7 +144,7 @@ De bestuurder van een voertuig moet de snelheid daarvan te allen tijde in zijn m
 
 3. Bestuurders, die voornemens zijn in te halen, moeten zich er van vergewissen, dat er voldoende ruimte is en voldoende zicht vooruit om zonder gevaar te kunnen inhalen. Na het inhalen moeten zij hun voertuig weer naar rechts of naar links brengen, al naar de in het betrokken land geldende regel, doch slechts na zich er van te hebben vergewist, dat zulks voor de ingehaalde voetganger of het ingehaalde voertuig of dier geen ongerief zal medebrengen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Een bestuurder, die een splitsing, een kruising of een samenkomst van wegen of een overweg nadert, moet bijzondere voorzorgen treffen ter vermijding van ongelukken.
 
@@ -142,7 +164,7 @@ De bestuurder van een voertuig moet de snelheid daarvan te allen tijde in zijn m
 
 - e. in geen geval het uit tegenovergestelde richting komende verkeer hinderen.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Stilstaande voertuigen of dieren moeten buiten de rijbaan worden opgesteld, indien dit mogelijk is en anders zo dicht mogelijk langs de kant van de rijbaan.
 
@@ -150,11 +172,11 @@ Bestuurders mogen hun voertuigen of dieren niet verlaten, dan nadat zij alle ter
 
 2. Voertuigen of dieren mogen niet wachten ter plaatse, waar zij gevaar of hinder zouden kunnen opleveren en in het bijzonder niet op een kruispunt, in een bocht, op een heuveltop of in de nabijheid daarvan.
 
-#### Artikel 14
+##### Artikel 14
 
 Alle nodige voorzorgen moeten worden genomen, opdat de lading van een voertuig geen schade of gevaar kan veroorzaken.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Van het vallen der duisternis af en gedurende de nacht, alsmede wanneer de weersomstandigheden het noodzakelijk maken, moet een voertuig of een samenstel van voertuigen op een weg ten minste een wit licht aan de voorzijde voeren en ten minste een rood licht aan de achterzijde. Wanneer een voertuig, voor zover geen rijwiel of motorrijwiel zonder zijspan, aan de voorzijde slechts met een wit licht is uitgerust, moet dit zijn aangebracht aan de zijde, het dichtst bij het tegenliggende verkeer. In landen, waar twee witte voorlichten zijn voorgeschreven, moeten deze rechts en links aan het voertuig zijn aangebracht. Het rode licht mag worden voortgebracht door een afzonderlijke inrichting, dan wel door dezelfde als die van het voorlicht of de voorlichten, indien het voertuig daarvoor niet te lang is en de bouw zulks toelaat.
 
@@ -170,7 +192,7 @@ Alle nodige voorzorgen moeten worden genomen, opdat de lading van een voertuig g
 
 - c. stilstaande voertuigen op voldoende verlichte wegen.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De bepalingen van dit Hoofdstuk zijn van toepassing op trolleybussen.
 
@@ -184,7 +206,7 @@ Alle nodige voorzorgen moeten worden genomen, opdat de lading van een voertuig g
 
 ### HOOFDSTUK III. Verkeerstekens
 
-#### Artikel 17
+##### Artikel 17
 
 1. Ter verzekering van een gelijksoortig stelsel moeten de in elk der Verdragsluitende Staten aangenomen verkeerstekens, voorzover mogelijk, de enige zijn, welke langs de wegen van die Staat worden aangebracht. Voorzover het noodzakelijk mocht zijn een nieuw teken in te voeren, moeten de vorm en de kleur daarvan, alsmede het daarvoor gebezigde soort symbool overeenstemmen met het in die Staat geldende stelsel.
 
@@ -198,7 +220,7 @@ Alle nodige voorzorgen moeten worden genomen, opdat de lading van een voertuig g
 
 ### HOOFDSTUK IV. Bepalingen van toepassing op motorrijtuigen en aanhangwagens in het internationale verkeer
 
-#### Artikel 18
+##### Artikel 18
 
 1. Om de voorrechten van dit Verdrag te kunnen genieten moet een motorrijtuig door een Verdragsluitende Staat of door een zijner samenstellende delen overeenkomstig deszelfs wetgeving zijn ingeschreven.
 
@@ -216,23 +238,23 @@ Alle nodige voorzorgen moeten worden genomen, opdat de lading van een voertuig g
 
 3. De gegevens van een kentekenbewijs, bedoeld in het vorige lid, worden door de Verdragsluitende Staten, behoudens tegenbewijs, als juist aangenomen.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Een motorrijtuig moet ten minste aan de achterzijde op een afzonderlijke plaat, dan wel op het motorrijtuig zelf, een door het bevoegde gezag verleend kenteken voeren. Bij geval een motorrijtuig een of meer aanhangwagens voorttrekt moet de aanhangwagen, onderscheidenlijk de achterste aanhangwagen, het inschrijvingsnummer van het trekkende motorrijtuig voeren, dan wel een eigen inschrijvingsnummer.
 
 2. De samenstelling en de uitvoering van het kenteken worden in Bijlage 3 omschreven.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Een motorrijtuig moet aan de achterzijde behalve het kenteken, op een plaat, dan wel op het motorrijtuig zelf, een onderscheidingsteken voeren, aangevende de plaats van inschrijving van het motorvoertuig. Dit onderscheidingsteken moet een Staat aanduiden, dan wel een gebied, dat uit een oogpunt van inschrijving een duidelijk te onderkennen eenheid vormt. Bij geval een motorrijtuig een of meer aanhangwagens voorttrekt, moet dit onderscheidingsteken eveneens door de aanhangwagen, onderscheidenlijk de achterste aanhangwagen aan de achterzijde worden gevoerd.
 
 2. De samenstelling en de uitvoering van het onderscheidingsteken worden in Bijlage 4 geregeld.
 
-#### Artikel 21
+##### Artikel 21
 
 Een motorrijtuig of aanhangwagen moet van de in Bijlage 5 omschreven aanwijzingen zijn voorzien.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Motorrijtuigen en aanhangwagens moeten rijtechnisch zowel in voldoende staat van onderhoud verkeren als zodanig ingericht zijn, dat zij geen gevaar voor de bestuurder, de overige inzittenden of andere weggebruikers kunnen veroorzaken, noch schade kunnen berokkenen aan openbare of persoonlijke eigendommen.
 
@@ -240,7 +262,7 @@ Een motorrijtuig of aanhangwagen moet van de in Bijlage 5 omschreven aanwijzinge
 
 3. De bepalingen van dit artikel zijn van toepassing op trolleybussen.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Het vaststellen der maximum afmetingen en gewichten van tot de wegen der Verdragsluitende Staten of hun samenstellende delen toegelaten voertuigen behoort tot de bevoegdheid der nationale wetgeving. Op bepaalde wegen, aangewezen door Staten, welke partij zijn bij overeenkomsten van gewestelijke strekking, of bij gebreke van zodanige overeenkomsten, aangewezen door een Verdragsluitende Staat, gelden de maximum afmetingen en gewichten, toegestaan overeenkomstig Bijlage 7.
 
@@ -248,7 +270,7 @@ Een motorrijtuig of aanhangwagen moet van de in Bijlage 5 omschreven aanwijzinge
 
 ### HOOFDSTUK V. Bestuurders van motorrijtuigen in het internationale verkeer
 
-#### Artikel 24
+##### Artikel 24
 
 1. De Verdragsluitende Staten staan een tot hun grondgebied toegelaten bestuurder, die aan de in Bijlage 8 omschreven voorwaarden voldoet, zonder verder examen toe op zijn wegen motorrijtuigen te besturen van de in de Bijlagen 9 en 10 bedoelde categorie of categorieën, indien hij in het bezit is van een geldig rijbewijs, hem daarvoor, nadat hij een rijvaardigheidsproef heeft afgelegd, uitgereikt door het bevoegde gezag van een andere Verdragsluitende Staat of van een van deszelfs samenstellende delen dan wel door een naar behoren door dat gezag gemachtigde vereniging.
 
@@ -262,13 +284,13 @@ Een motorrijtuig of aanhangwagen moet van de in Bijlage 5 omschreven aanwijzinge
 
 6. Gedurende een periode van vijf jaar, aanvangende op het tijdstip van in werking treden van dit Verdrag, wordt iedere bestuurder, die tot het internationale verkeer is toegelaten overeenkomstig de bepalingen van het Internationale Verdrag betreffende het verkeer met motorrijtuigen, getekend te Parijs op 24 April 1926, of het Verdrag ter regeling van het Inter-Amerikaanse automobielverkeer, voor ondertekening opengesteld te Washington op 15 December 1943, en die in het bezit is van de dienovereenkomstig vereiste bescheiden, geacht aan de vereisten van dit artikel te voldoen.
 
-#### Artikel 25
+##### Artikel 25
 
 De Verdragsluitende Staten verbinden zich elkander de gegevens te verstrekken, nodig ter vaststelling van de identiteit van personen, in het bezit van een nationaal of internationaal rijbewijs, tegen wie een strafvervolging wegens verkeersovertreding kan worden ingesteld. Zij verbinden zich voorts de gegevens te verstrekken, nodig ter vaststelling van de identiteit van de eigenaar van een buitenlands motorrijtuig, dat bij een ernstig ongeluk is betrokken, dan wel van degeen, te wiens name dat motorrijtuig is ingeschreven.
 
 ### HOOFDSTUK VI. Bepalingen, van toepassing op rijwielen in het internationale verkeer
 
-#### Artikel 26
+##### Artikel 26
 
 Elk rijwiel moet zijn voorzien:
 
@@ -280,7 +302,7 @@ Elk rijwiel moet zijn voorzien:
 
 ### HOOFDSTUK VII. Slotbepalingen
 
-#### Artikel 27
+##### Artikel 27
 
 1. Dit Verdrag is tot 31 December 1949 opengesteld voor ondertekening door alle Staten, welke als lid bij de Verenigde Naties zijn aangesloten en alle Staten, welke zijn uitgenodigd tot het bijwonen van de in 1949 te Genève gehouden conferentie der Verenigde Naties voor wegverkeer en verkeer met motorrijtuigen.
 
@@ -290,7 +312,7 @@ Elk rijwiel moet zijn voorzien:
 
 4. Toetreding geschiedt door nederlegging van een toetredingsoorkonde bij de Secretaris-Generaal der Verenigde Naties.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Elke Staat kan bij de ondertekening, de bekrachtiging of de toetreding, alsook te allen tijde daarna in een aan de Secretaris-Generaal van de Verenigde Naties gerichte kennisgeving verklaren, dat de bepalingen van dit Verdrag mede van toepassing zullen zijn voor een of meer der gebieden, voor welker buitenlandse betrekkingen hij verantwoordelijk is. De bepalingen worden voor de in de kennisgeving genoemde gebieden van toepassing dertig dagen na ontvangst dier kennisgeving door de Secretaris-Generaal of, bij geval het Verdrag op dat tijdstip nog niet in werking is getreden, op het tijdstip van inwerkingtreding van het Verdrag.
 
@@ -298,17 +320,17 @@ Elk rijwiel moet zijn voorzien:
 
 3. Elke Staat, welke overeenkomstig het eerste lid van dit artikel een verklaring heeft afgelegd, waarbij dit Verdrag van toepassing wordt verklaard voor een gebied, voor welks buitenlandse betrekkingen hij verantwoordelijk is, kan te allen tijde daarna in een tot de Secretaris-Generaal van de Verenigde Naties gerichte kennisgeving verklaren, dat dit Verdrag niet langer van toepassing zal zijn voor het in die kennisgeving genoemde gebied. In dat geval zal het Verdrag na verstrijken van een jaar sinds de datum der kennisgeving ophouden voor dat gebied van toepassing te zijn.
 
-#### Artikel 29
+##### Artikel 29
 
 Dit Verdrag treedt in werking met ingang van de dertigste dag na nederlegging van de vijfde bekrachtigingsoorkonde of toetredingsoorkonde. Voor Staten, welke na dit tijdstip dit Verdrag bekrachtigen of daartoe toetreden, treedt het in werking met ingang van de dertigste dag na nederlegging van hun bekrachtigings- of toetredingsoorkonde.
 
 De Secretaris-Generaal der Verenigde Naties stelt de Staten, welke dit Verdrag hebben ondertekend of daartoe zijn toegetreden, alsmede andere Staten, welke waren uitgenodigd tot bijwoning van de conferentie der Verenigde Naties voor wegverkeer en verkeer met motorrijtuigen, in kennis van het tijdstip, waarop dit Verdrag in werking treedt.
 
-#### Artikel 30
+##### Artikel 30
 
 Dit Verdrag beëindigt en vervangt tussen de Verdragsluitende Staten het Internationale Verdrag betreffende het verkeer met motorrijtuigen en het Internationale Verdrag betreffende wegverkeer, getekend te Parijs op 24 April 1926, alsmede het Verdrag ter regeling van het Inter-Amerikaanse automobielverkeer, opengesteld voor ondertekening te Washington op 15 December 1943.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Wijzigingen van dit Verdrag kunnen door elk der Verdragsluitende Staten worden voorgesteld. Van de tekst van een voorgestelde wijziging wordt kennis gegeven aan de Secretaris-Generaal der Verenigde Naties, die hem aan iedere Verdragsluitende Staat doet toekomen met verzoek binnen vier maanden mede te delen of hij:
 
@@ -346,19 +368,19 @@ Voor het in werking treden van een wijziging van een der Bijlagen 1 of 2 moet de
 
 De wijziging is dan voor de betrokken Staat van kracht met ingang van het tijdstip van ontvangst der kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 32
+##### Artikel 32
 
 Dit Verdrag kan met inachtneming van een termijn van een jaar worden opgezegd door een daartoestrekkende kennisgeving aan de Secretaris-Generaal van de Verenigde Naties, die daarvan mededeling doet aan de Staten, welke het Verdrag hebben ondertekend of daartoe zijn toegetreden. Na verloop van de termijn treedt het Verdrag voor de Staat, welke het heeft opgezegd, buiten werking.
 
-#### Artikel 33
+##### Artikel 33
 
 Een geschil tussen twee of meer der Verdragsluitende Staten, de uitleg of de toepassing van dit Verdrag betreffende, hetwelk de partijen door onderhandeling noch anderszins kunnen oplossen, kan door elk der betrokken Verdragsluitende Staten schriftelijk bij het Internationale Gerechtshof ter beslissing aanhangig worden gemaakt.
 
-#### Artikel 34
+##### Artikel 34
 
 Geen bepaling van dit Verdrag wordt geacht de Verdragsluitende Staten te beletten de maatregelen te nemen, welke zij voor hun buiten- of binnenlandse veiligheid noodzakelijk achten, voorzoveel die maatregelen verenigbaar zijn met het [Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143) en beperkt blijven tot de vereisten der gegeven omstandigheden.
 
-#### Artikel 35
+##### Artikel 35
 
 1. Behalve van kennisgevingen ingevolge artikel 29, leden 1, 3 en 5, artikel 31 en artikel 32, stelt de Secretaris-Generaal de in het eerste lid van artikel 27 bedoelde Staten in kennis van:
 
@@ -392,7 +414,7 @@ Geen bepaling van dit Verdrag wordt geacht de Verdragsluitende Staten te belette
 
 3. De Secretaris-Generaal is gemachtigd dit Verdrag bij het in werking treden te registreren.
 
-#### I. Remmen
+##### I. Remmen
 
 a. Remmen van motorrijtuigen, behalve motorrijwilen met of zonder zijspan.
 
@@ -426,7 +448,7 @@ c. Remmen van gelede motorrijtuigen en van samenstellen van motorrijtuigen en aa
 
 d. Remmen van motorrijwielen met of zonder zijspan. Elk motorrijwiel is voorzien van twee reminrichtingen, welke met de hand of met de voet mogen worden bediend, waarmede zijn beweging kan worden beheerst en waarmede het doeltreffend, veilig en snel tot stilstand kan worden gebracht.
 
-#### II. Verlichting
+##### II. Verlichting
 
 a. Elk motorrijtuig, voorzover geen motorrijwiel met of zonder zijspan, hetwelk in staat is langs de vlakke weg met een snelheid van meer dan 20 km (12 mijl) per uur te rijden, is voorzien van tenminste twee witte of gele koplichten, welke aan de voorzijde zijn bevestigd en de weg voor het motorrijtuig des nachts bij helder weer over een afstand van 100 meter (325 voet) doelmatig kunnen verlichten.
 
@@ -472,7 +494,7 @@ n. Indien een voertuig van verscheiden lichten van dezelfde soort is voorzien, m
 
 o. Verschillende lichten mogen in dezelfde verlichtingsinrichting zijn opgenomen, mits elk dier lichten voldoet aan de daaromtrent in dit Deel vervatte bepalingen.
 
-#### III. Verdere vereisten
+##### III. Verdere vereisten
 
 a. Stuurinrichting.
 
@@ -518,13 +540,13 @@ j. Algemene bepalingen.
 
 - 3. De bepalingen betreffende remmen en verlichting zijn niet van toepassing op invalidewagens, welke voldoen aan de nationale voorschriften omtrent remmen, verlichting en reflectoren van het land, waar zij zijn ingeschreven. Voor deze bepaling wordt onder „invalidewagen” verstaan een motorrijtuig met een ledig gewicht van niet meer dan 300 kg. (700 lbs.) en een snelheid van niet meer dan 30 km. (19 mijl) per uur, dat speciaal ontworpen en gebouwd (niet enkel geschikt gemaakt) is voor gebruik door een persoon, die aan een lichamelijk gebrek lijdt en dat gewoonlijk door zulk een persoon wordt gebruikt.
 
-#### IV. Samenstellen van voertuigen
+##### IV. Samenstellen van voertuigen
 
 a. Een „samenstel van voertuigen” mag zijn samengesteld uit een trekkend motorrijtuig en een of meer aanhangwagens. Een geleed motorrijtuig mag een aanhangwagen voortbewegen, doch indien zulk een geleed motorrijtuig wordt gebruikt voor het vervoer van personen, mag die aanhangwagen slechts één as hebben en geen personen vervoeren.
 
 b. Elke Verdragsluitende Staat mag evenwel bepalen, dat een motorrijtuig slechts een aanhangwagen mag voortbewegen en dat het een geleed motorrijtuig is verboden een aanhangwagen voort te bewegen. Hij mag eveneens bepalen, dat het een geleed motorrijtuig is verboden personen te vervoeren.
 
-#### V. Overgangsbepalingen
+##### V. Overgangsbepalingen
 
 De bepalingen van Deel I, Deel II en Deel III, onder **e**, van deze Bijlage zijn van toepassing op elk motorrijtuig, dat voor het eerst wordt ingeschreven meer dan twee jaar na het in werking treden van dit Verdrag, alsmede op elke door zulk een motorrijtuig getrokken aanhangwagen. Op motorrijtuigen, welke voor het eerst worden ingeschreven binnen twee jaar na het in werking treden van dit Verdrag, worden deze bepalingen van toepassing na verloop van vijf jaar na het in werking treden van dit Verdrag; hetzelfde geldt met betrekking tot aanhangwagens.
 
@@ -540,11 +562,11 @@ Intussen zijn de navolgende bepalingen van toepassing:
 
 - e. Motorrijtuigen, welke aanhangwagens voortbewegen, zijn, voorzover betreft de verlichting aan de voorzijde, aan dezelfde voorschriften onderworpen als afzonderlijke motorrijtuigen; het rode achterlicht wordt gevoerd aan de achterzijde van de aanhangwagen.
 
-#### 1
+##### 1
 
 Deze Bijlage is van toepassing op wegen, aangewezen overeenkomstig artikel 23.
 
-#### 2
+##### 2
 
 Op deze wegen zijn de toegestane maximum afmetingen en gewichten - onverschillig of het voertuig leeg of geladen is - de volgende, met dien verstande echter, dat voertuigen niet zwaarder beladen mogen zijn dan toegestaan door het bevoegde gezag van het land van inschrijving:
 
@@ -636,11 +658,11 @@ Op deze wegen zijn de toegestane maximum afmetingen en gewichten - onverschillig
 
 - (4). Indien met betrekking tot een tot het internationale verkeer toegelaten voertuig het in de tabel onder (3) in metrieke eenheden uitgedrukte maximum toegestane gewicht verschilt van het in voeten en ponden uitgedrukte, geldt het hoogste van de twee.
 
-#### 3
+##### 3
 
 Verdragsluitende Staten kunnen regionale overeenkomsten aangaan, waarbij het maximum toegestane gewicht hoger wordt gesteld dan aangegeven in de tabel. Aanbevolen wordt evenwel het per zwaarst beladen as maximum toegestane gewicht niet hoger te stellen dan 13 metrieke tonnen (28.660 lbs.).
 
-#### 4
+##### 4
 
 Wanneer een Verdragsluitende Staat wegen aanwijst, waarop deze Bijlage van toepassing is, geeft hij aan de maximum afmetingen en gewichten, welke tijdelijk op die wegen worden toegestaan, voor het geval:
 
@@ -648,11 +670,11 @@ Wanneer een Verdragsluitende Staat wegen aanwijst, waarop deze Bijlage van toepa
 
 - b. de aard of de toestand dier wegen beperking vergt van het verkeer met zodanige voertuigen.
 
-#### 5
+##### 5
 
 Verdragsluitende Staten, dan wel hun samenstellende delen, kunnen bijzondere verkeersvergunningen afgeven voor voertuigen of samenstellen van voertuigen van groter afmetingen of gewicht dan de in deze Bijlage aangegeven maximum afmetingen en gewichten.
 
-#### 6
+##### 6
 
 Wanneer een weg, waarop deze Bijlage krachtens aanwijzing van toepassing is, tengevolge van verval, zware regens, sneeuw, dooi of andere ongunstige weersomstandigheden ernstig zou worden beschadigd door verkeer met voertuigen van het als regel toegestane gewicht, kunnen Verdragsluitende Staten of hun samenstellende delen voor een beperkte periode het verkeer met motorrijtuigen op zulk een weg beperken of verbieden, dan wel beperkingen voorschrijven met betrekking tot het gewicht der voertuigen, waarmede op die weg wordt gereden.
 

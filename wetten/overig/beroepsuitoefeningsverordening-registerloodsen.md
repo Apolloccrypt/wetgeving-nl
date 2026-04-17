@@ -1,20 +1,44 @@
 ---
 title: "Beroepsuitoefeningsverordening registerloodsen"
 identifier: "BWBR0004382"
-categorie: "Overig"
-publicatiedatum: 2004-01-24
-laatste_update: 2004-01-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004382"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2004-01-24"
+last_updated: "2004-01-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004382"
+soort: "ministeriele-regeling"
+stam_id: "5255313"
+version_id: "9449632"
+internal_id: "C12658881"
+label_id: "5231424"
+dtd_version: "2.0"
+original_entry_into_force: "1988-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004382/2004-01-24/0"
+intitule_bron: "Stcrt.1988-168"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1988-08-18"
+intitule_published: "1988-08-31"
+intitule_in_force: "1988-08-31"
+intitule_status: "goed"
+original_publication: "Stcrt.1988-168"
+original_signed_date: "1988-08-18"
+original_published_date: "1988-08-31"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1988-09-01"
+jci_1_3: "jci1.3:c:BWBR0004382&z=2004-01-24&g=2004-01-24"
+jci_1_0: "1.0:c:BWBR0004382&g=2004-01-24"
+citeertitel_status: "officieel"
+signed_date: "1988-08-18"
+entry_into_force: "1988-09-01"
 ---
-
 # Beroepsuitoefeningsverordening registerloodsen
 
 Gelet op de [artikelen 67, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=67), juncto [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=4), en [15, tweede lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=15)(Stb. 1988, 353);
 
 Besluit:
 
-#### Artikel I
+##### Artikel I
 
 De verordening, bedoeld in [artikel 15, eerste lid, onderdeel a, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=15) (Stb. 1988, 353), wordt als volgt vastgesteld:
 
@@ -70,7 +94,7 @@ De registerloods dient bij de uitoefening van zijn beroep als registerloods de d
 
 Deze verordening kan worden aangehaald als: Beroepsuitoefeningsverordening registerloodsen.
 
-#### Artikel II
+##### Artikel II
 
 Deze regeling treedt in werking met ingang van 1 september 1988.
 

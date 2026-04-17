@@ -1,13 +1,39 @@
 ---
-title: "Regeling vertrouwenspersonen integriteit en Klachtencommissie ongewenste omgangsvormen Rijksambtenaren BES"
+title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 15 mei 2014, nr. 2014-0000261552, inzake de vertrouwenspersonen integriteit en de klachtencommissie ongewenste omgangsvormen rijksambtenaren in Caribisch Nederland (Regeling vertrouwenspersonen integriteit en Klachtencommissie ongewenste omgangsvormen rijksambtenaren BES)"
 identifier: "BWBR0035123"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2014-05-23
-laatste_update: 2014-05-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035123"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2014-05-23"
+last_updated: "2014-05-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035123"
+soort: "ministeriele-regeling"
+stam_id: "12673783"
+version_id: "21411442"
+internal_id: "C30741121"
+label_id: "12644004"
+dtd_version: "2.0"
+original_entry_into_force: "2014-05-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035123/2014-05-23/0"
+intitule_bron: "Stcrt.2014-14137"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-05-15"
+intitule_published: "2014-05-22"
+intitule_in_force: "2014-05-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-14137"
+original_signed_date: "2014-05-15"
+original_published_date: "2014-05-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-14137"
+entry_into_force_date: "2014-05-23"
+jci_1_3: "jci1.3:c:BWBR0035123&z=2014-05-23&g=2014-05-23"
+jci_1_0: "1.0:c:BWBR0035123&g=2014-05-23"
+citeertitel_status: "officieel"
+short_title: "Regeling vertrouwenspersonen integriteit en Klachtencommissie ongewenste omgangsvormen Rijksambtenaren BES"
+signed_date: "2014-05-15"
+entry_into_force: "2014-05-23"
 ---
-
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 15 mei 2014, nr. 2014-0000261552, inzake de vertrouwenspersonen integriteit en de klachtencommissie ongewenste omgangsvormen rijksambtenaren in Caribisch Nederland (Regeling vertrouwenspersonen integriteit en Klachtencommissie ongewenste omgangsvormen rijksambtenaren BES)
 
 Gelet op [artikel 77, onder a, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=77) en [artikel 9:14, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:14);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -44,7 +70,7 @@ In deze regeling wordt verstaan onder:
 
 - i. **klager:** de ambtenaar die een klacht heeft ingediend bij de klachtencommissie.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De ambtenaar in dienst van de staat die is of wordt geconfronteerd met ongewenste omgangsvormen kan dit melden bij een vertrouwenspersoon of een klacht indienen bij de klachtencommissie.
 
@@ -58,7 +84,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Vertrouwenspersoon integriteit rijksambtenaren BES
 
-#### Artikel 3
+##### Artikel 3
 
 1. De minister wijst een of meer ambtenaren aan als vertrouwenspersoon integriteit rijksambtenaren BES.
 
@@ -66,7 +92,7 @@ In deze regeling wordt verstaan onder:
 
 3. Een vertrouwenspersoon integriteit kan tussentijds van zijn taak worden ontheven door de minister.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De vertrouwenspersoon integriteit heeft met betrekking tot vermoedens van misstanden tot taak:
 
@@ -96,7 +122,7 @@ In deze regeling wordt verstaan onder:
 
 3. De vertrouwenspersoon heeft met betrekking tot interne onderzoeken tot taak het ondersteunen en begeleiden van de betrokken ambtenaar.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De vertrouwenspersoon brengt jaarlijks voor 1 mei een verslag uit aan de minister. Indien er meerdere vertrouwenspersonen zijn, brengen zij het verslag gezamenlijk uit.
 
@@ -104,7 +130,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 3. Klachtencommissie ongewenste omgangsvormen
 
-#### Artikel 6
+##### Artikel 6
 
 1. Er is een Klachtencommissie ongewenste omgangsvormen Rijksambtenaren BES.
 
@@ -122,7 +148,7 @@ De Klachtencommissie bestaat uit:
 
 5. De commissie wordt bijgestaan door een secretaris.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De commissie heeft tot taak het verrichten van onderzoek naar elke bij haar ingediende klacht.
 
@@ -130,7 +156,7 @@ De Klachtencommissie bestaat uit:
 
 3. [Afdeling 9.1.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=9.1.3) is van toepassing.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De commissie registreert alle schriftelijk ingediende klachten.
 
@@ -140,7 +166,7 @@ De Klachtencommissie bestaat uit:
 
 #### § 4. Identiteit melder en klager
 
-#### Artikel 9
+##### Artikel 9
 
 1. De vertrouwenspersoon of de klachtencommissie maakt de identiteit van de melder of klager niet bekend zonder toestemming van de melder of klager.
 
@@ -148,7 +174,7 @@ De Klachtencommissie bestaat uit:
 
 #### § 5. Rechtspositie
 
-#### Artikel 10
+##### Artikel 10
 
 1. Ten aanzien van een melder wordt als gevolg van het te goeder trouw melden van een vermoeden van een misstand of van ongewenste omgangsvormen geen besluit met nadelige gevolgen voor zijn rechtspositie genomen. Het bevoegd gezag draagt er zorg voor dat een melder niet op andere wijze bij de uitoefening van zijn functie nadelige gevolgen ondervindt ten gevolge van de melding.
 
@@ -180,11 +206,11 @@ De Klachtencommissie bestaat uit:
 
 #### § 6. Overgangs- en slotbepalingen
 
-#### Artikel 11
+##### Artikel 11
 
 Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatcourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2014.
 
-#### Artikel 12
+##### Artikel 12
 
 Deze regeling wordt aangehaald als: Regeling vertrouwenspersonen integriteit en Klachtencommissie ongewenste omgangsvormen Rijksambtenaren BES.
 

@@ -1,13 +1,38 @@
 ---
 title: "Circulaire verhogen pensioengerechtigde leeftijd burgemeesters"
 identifier: "BWBR0022265"
-categorie: "Bestuursrecht"
-publicatiedatum: 2007-07-19
-laatste_update: 2007-07-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0022265"
+country: "nl"
+rank: "circulaire"
+publication_date: "2007-07-19"
+last_updated: "2007-07-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0022265"
+soort: "circulaire"
+stam_id: "9160713"
+version_id: "14657882"
+internal_id: "C19946241"
+label_id: "9139574"
+dtd_version: "2.0"
+original_entry_into_force: "2007-07-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0022265/2007-07-19/0"
+intitule_bron: "Stcrt.2007-137"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-07-11"
+intitule_published: "2007-07-19"
+intitule_in_force: "2007-07-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-137"
+original_signed_date: "2007-07-11"
+original_published_date: "2007-07-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2007-137-p9-SC81400"
+entry_into_force_date: "2007-07-19"
+jci_1_3: "jci1.3:c:BWBR0022265&z=2007-07-19&g=2007-07-19"
+jci_1_0: "1.0:c:BWBR0022265&g=2007-07-19"
+citeertitel_status: "redactioneel"
+signed_date: "2007-07-11"
+entry_into_force: "2007-07-19"
 ---
-
 # Circulaire verhogen pensioengerechtigde leeftijd burgemeesters
 
 ### 1. Inleiding

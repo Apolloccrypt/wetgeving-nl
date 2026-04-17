@@ -1,13 +1,38 @@
 ---
 title: "Besluit forfaitair bedrag en verruiming compensatieregeling"
 identifier: "BWBR0044956"
-categorie: "Bestuursrecht"
-publicatiedatum: 2021-03-20
-laatste_update: 2021-01-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044956"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2021-03-20"
+last_updated: "2021-01-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044956"
+soort: "beleidsregel"
+stam_id: "15897323"
+version_id: "27631862"
+internal_id: "C38990071"
+label_id: "15832614"
+dtd_version: "2.0"
+original_entry_into_force: "2021-03-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044956/2021-03-20/0"
+intitule_bron: "Stcrt.2021-14691"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-03-18"
+intitule_published: "2021-03-19"
+intitule_in_force: "2021-03-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-14691"
+original_signed_date: "2021-03-18"
+original_published_date: "2021-03-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-14691"
+entry_into_force_date: "2021-03-20"
+jci_1_3: "jci1.3:c:BWBR0044956&z=2021-03-20&g=2021-03-20"
+jci_1_0: "1.0:c:BWBR0044956&g=2021-03-20"
+citeertitel_status: "officieel"
+signed_date: "2021-03-18"
+entry_into_force: "2021-03-20"
 ---
-
 # Besluit forfaitair bedrag en verruiming compensatieregeling
 
 **De Staatssecretaris van Financiën heeft in overeenstemming met de Minister van Sociale Zaken en Werkgelegenheid het volgende besloten.**

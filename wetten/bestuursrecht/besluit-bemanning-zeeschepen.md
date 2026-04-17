@@ -1,13 +1,39 @@
 ---
-title: "Besluit bemanning zeeschepen"
+title: "Besluit van 13 maart 2025, houdende bepalingen over het bemannen van zeeschepen (Besluit bemanning zeeschepen)"
 identifier: "BWBR0050941"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050941"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050941"
+soort: "AMvB"
+stam_id: "17406713"
+version_id: "30690432"
+internal_id: "C44064031"
+label_id: "17311314"
+dtd_version: "2.0"
+original_entry_into_force: "2025-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050941/2025-07-01/0"
+intitule_bron: "Stb.2025-94"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-03-13"
+intitule_published: "2025-04-11"
+intitule_in_force: "2025-05-28"
+intitule_status: "goed"
+original_publication: "Stb.2025-94"
+original_signed_date: "2025-03-13"
+original_published_date: "2025-04-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2025-94"
+entry_into_force_date: "2025-07-01"
+jci_1_3: "jci1.3:c:BWBR0050941&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0050941&g=2025-07-01"
+citeertitel_status: "officieel"
+short_title: "Besluit bemanning zeeschepen"
+signed_date: "2025-03-13"
+entry_into_force: "2025-07-01"
 ---
-
 # Besluit van 13 maart 2025, houdende bepalingen over het bemannen van zeeschepen (Besluit bemanning zeeschepen)
 
 Op de voordracht van Onze Minister van Infrastructuur en Waterstaat van 11 juni 2024, nr. IenW/BSK-2024/153686, Hoofddirectie Bestuurlijke en Juridische Zaken;
@@ -26,7 +52,7 @@ Treedt in werking op het tijdstip waarop de Wet bemanning zeeschepen in werking 
 
 ### Hoofdstuk 1. Algemeen
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -136,7 +162,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - **wet:** [Wet bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050681).
 
-#### Artikel 1.2. Reikwijdte
+##### Artikel 1.2. Reikwijdte
 
 1. Dit besluit is niet van toepassing ten aanzien van zeilschepen met een scheepslengte van minder dan 12 meter.
 
@@ -144,7 +170,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 3. De minimumeisen voor een functie aan boord van vissersvaartuigen met een scheepslengte van minder dan 12 meter voldoen aan de bij ministeriële regeling gestelde regels.
 
-#### Artikel 1.3. Ontheffing ten behoeve van experimenten
+##### Artikel 1.3. Ontheffing ten behoeve van experimenten
 
 Aan een ontheffing als bedoeld in [artikel 3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=3) worden beperkingen of voorwaarden verbonden die ten minste zien op:
 
@@ -164,11 +190,11 @@ Aan een ontheffing als bedoeld in [artikel 3, eerste lid, van de wet](https://we
 
 #### Paragraaf 2.1. Bemanningssamenstelling handelsvaart en zeilvaart
 
-#### Artikel 2.1.1. Reikwijdte
+##### Artikel 2.1.1. Reikwijdte
 
 Deze paragraaf is niet van toepassing op vissersvaartuigen.
 
-#### Artikel 2.1.2. Aanvraag voor een bemanningscertificaat
+##### Artikel 2.1.2. Aanvraag voor een bemanningscertificaat
 
 1. De scheepsbeheerder dient een aanvraag voor een bemanningscertificaat in bij Onze Minister en voegt daarbij een bemanningsplan voor het betrokken zeeschip of de betrokken zeeschepen.
 
@@ -178,7 +204,7 @@ Deze paragraaf is niet van toepassing op vissersvaartuigen.
 
 4. Een aanvraag kan worden ingediend met gebruikmaking van een bij ministeriële regeling vast te stellen format voor een geautomatiseerd bestand.
 
-#### Artikel 2.1.3. Bemanningssamenstellingen
+##### Artikel 2.1.3. Bemanningssamenstellingen
 
 1. Onze Minister besluit tot afgifte van een bemanningscertificaat voor het betrokken zeeschip of de betrokken zeeschepen, indien naar zijn oordeel met de voorgestelde bemanningssamenstelling of bemanningssamenstellingen:
 
@@ -200,7 +226,7 @@ Deze paragraaf is niet van toepassing op vissersvaartuigen.
 
 6. Een bemanningscertificaat kan worden afgegeven met gebruikmaking van een bij ministeriële regeling vast te stellen format voor een geautomatiseerd bestand.
 
-#### Artikel 2.1.4. Bemanningscertificaat
+##### Artikel 2.1.4. Bemanningscertificaat
 
 1. Op het bemanningscertificaat worden de kenmerken van het zeeschip en, zo nodig, de bijzonderheden ten aanzien van het gebruik van het zeeschip in relatie tot de bemanning vermeld.
 
@@ -208,11 +234,11 @@ Deze paragraaf is niet van toepassing op vissersvaartuigen.
 
 3. De kapitein draagt er zorg voor dat een kopie van het geldige bemanningscertificaat op een duidelijk zichtbare plaats aan boord van het zeeschip wordt opgehangen.
 
-#### Artikel 2.1.5. Meerdere bemanningssamenstellingen
+##### Artikel 2.1.5. Meerdere bemanningssamenstellingen
 
 Indien voor een zeeschip meer dan een bemanningssamenstelling geldt, worden alle bemanningssamenstellingen duidelijk onderscheiden in het bemanningscertificaat opgenomen.
 
-#### Artikel 2.1.6. Aantekening scheepsdagboek bemanningssamenstelling of bemanningsplan
+##### Artikel 2.1.6. Aantekening scheepsdagboek bemanningssamenstelling of bemanningsplan
 
 Indien voor een zeeschip meer dan een bemanningssamenstelling geldt, tekent de kapitein in het scheepsdagboek aan:
 
@@ -220,13 +246,13 @@ Indien voor een zeeschip meer dan een bemanningssamenstelling geldt, tekent de k
 
 - b. de feiten of omstandigheden die niet in overeenstemming zijn met de gegevens van het bemanningsplan.
 
-#### Artikel 2.1.7. Wijzigingen gegevens bemanningsplan
+##### Artikel 2.1.7. Wijzigingen gegevens bemanningsplan
 
 1. De scheepsbeheerder meldt aan Onze Minister alle wijzigingen van de gegevens van het bemanningsplan die hij voornemens is door te voeren.
 
 2. Op grond van de nieuwe gegevens beslist Onze Minister of de bemanningssamenstelling overeenkomstig het geldige bemanningscertificaat kan worden gehandhaafd. Zo nodig trekt hij het bemanningscertificaat in en geeft een nieuw bemanningscertificaat af.
 
-#### Artikel 2.1.8. Intrekken bemanningscertificaat
+##### Artikel 2.1.8. Intrekken bemanningscertificaat
 
 Onze Minister trekt het bemanningscertificaat in, indien is gebleken dat
 
@@ -234,13 +260,13 @@ Onze Minister trekt het bemanningscertificaat in, indien is gebleken dat
 
 - b. het zeeschip in strijd met de gegevens in het bemanningscertificaat wordt gebruikt en dit afwijkende gebruik naar zijn redelijk oordeel een andere bemanningssamenstelling noodzakelijk maakt.
 
-#### Artikel 2.1.9. Bestaande bemanningscertificaat niet meer adequaat
+##### Artikel 2.1.9. Bestaande bemanningscertificaat niet meer adequaat
 
 1. Onverminderd [artikel 2.1.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2025-07-01&g=2025-07-01), geeft Onze Minister ambtshalve een nieuw bemanningscertificaat af voor een andere bemanningssamenstelling dan waarmee het betrokken zeeschip of de betrokken zeeschepen op grond van het laatst afgegeven bemanningscertificaat is of zijn bemand, indien hem is gebleken dat het voldoen aan het bepaalde in artikel 2.1.3, eerste lid, met dat certificaat niet langer gewaarborgd is.
 
 2. In het geval, bedoeld in het eerste lid, nodigt Onze Minister de scheepsbeheerder uit een nieuw bemanningsplan in te dienen.
 
-#### Artikel 2.1.10. Vrijstellingsregeling nationaliteit kapitein
+##### Artikel 2.1.10. Vrijstellingsregeling nationaliteit kapitein
 
 1. Een regeling als bedoeld in [artikel 19, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=19) bevat ten minste:
 
@@ -254,7 +280,7 @@ Onze Minister trekt het bemanningscertificaat in, indien is gebleken dat
 
 #### Paragraaf 2.2. Bemanningssamenstelling vissersvaartuigen
 
-#### Artikel 2.2.1. Bemanningssamenstelling
+##### Artikel 2.2.1. Bemanningssamenstelling
 
 1. Een vissersvaartuig is ten minste bemand met vissers in de overeenkomstig de in de bij dit artikel behorende tabel vastgestelde functies, bepaald op basis van de scheepslengte en het voortstuwingsvermogen van het vaartuig en het vaargebied waarvoor een bemanningscertificaat is afgegeven.
 
@@ -304,11 +330,11 @@ Tabel behorende bij artikel 2.2.1
 | Stuurman-Werktuigkundige zeevisvaart | – | – | – | – |
 | Wachtlopend gezel zeevisvaart | 1 | 2 | 2 | 2 |
 
-#### Artikel 2.2.2. Aanvulling van het aantal bemanningsleden
+##### Artikel 2.2.2. Aanvulling van het aantal bemanningsleden
 
 Bij ministeriële regeling kan, na overleg met de betrokken organisaties van scheepsbeheerders en vissers, aanvulling van het aantal bemanningsleden worden voorgeschreven indien de inrichting, de uitrusting, de scheepslengte, het brutotonnage, het voortstuwingsvermogen, de wijze van voortstuwing of de bestemming van het vissersvaartuig daartoe aanleiding geven.
 
-#### Artikel 2.2.3. Vrijstelling
+##### Artikel 2.2.3. Vrijstelling
 
 1. Bij ministeriële regeling kan, na overleg met de betrokken organisaties van scheepsbeheerders en vissers, voor bepaalde categorieën vissersvaartuigen met een scheepslengte van minder dan 45 meter, vrijstelling worden verleend van het bepaalde in dit hoofdstuk.
 
@@ -322,7 +348,7 @@ Bij ministeriële regeling kan, na overleg met de betrokken organisaties van sch
 
 - d. de maximale tijd die op zee mag worden doorgebracht.
 
-#### Artikel 2.2.4. Bemanningscertificaat
+##### Artikel 2.2.4. Bemanningscertificaat
 
 1. De scheepsbeheerder van een vissersvaartuig dient een aanvraag in voor een bemanningscertificaat bij Onze Minister.
 
@@ -332,7 +358,7 @@ Bij ministeriële regeling kan, na overleg met de betrokken organisaties van sch
 
 4. Bij ministeriële regeling wordt bepaald welke gegevens ten minste bij de aanvraag worden ingediend.
 
-#### Artikel 2.2.5. Bemanningsplan
+##### Artikel 2.2.5. Bemanningsplan
 
 1. De scheepsbeheerder van een vissersvaartuig met een scheepslengte van 45 meter of meer kan in afwijking van [artikel 2.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&hoofdstuk=2&paragraaf=2.2&artikel=2.2.4&z=2025-07-01&g=2025-07-01) een aanvraag voor een bemanningscertificaat bij Onze Minister indienen op grond van [artikel 2.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&hoofdstuk=2&paragraaf=2.1&artikel=2.1.2&z=2025-07-01&g=2025-07-01).
 
@@ -340,7 +366,7 @@ Bij ministeriële regeling kan, na overleg met de betrokken organisaties van sch
 
 #### Paragraaf 2.3. Bemanningslijst
 
-#### Artikel 2.3.1. Opmaken bemanningslijst
+##### Artikel 2.3.1. Opmaken bemanningslijst
 
 1. Alvorens een zeeschip voor de eerste maal naar zee vertrekt en vervolgens met tussenpozen van niet meer dan twaalf maanden wordt een bemanningslijst opgemaakt.
 
@@ -352,23 +378,23 @@ Bij ministeriële regeling kan, na overleg met de betrokken organisaties van sch
 
 5. De bemanningslijst kan worden opgemaakt met inachtneming van een bij ministeriële regeling vast te stellen format voor een geautomatiseerd bestand.
 
-#### Artikel 2.3.2. Gegevens bemanningslijst
+##### Artikel 2.3.2. Gegevens bemanningslijst
 
 Bij ministeriële regeling kan worden bepaald dat andere gegevens op de bemanningslijst worden vermeld naast de gegevens, genoemd in de bij het bij het FAL-verdrag ingevoerde standaardverklaring.
 
-#### Artikel 2.3.4. Bewaren bemanningslijst
+##### Artikel 2.3.4. Bewaren bemanningslijst
 
 De scheepsbeheerder bewaart een bemanningslijst, gedurende drie jaar na de vervangingsdatum of geldigheidsdatum.
 
 #### Paragraaf 2.4. Aanvullende bepalingen bemanning
 
-#### Artikel 2.4.1. Zeeschepen, niet zijnde vissersvaartuigen
+##### Artikel 2.4.1. Zeeschepen, niet zijnde vissersvaartuigen
 
 1. De kapitein van een zeeschip, niet zijnde een vissersvaartuig, draagt er zorg voor dat voor het ondernemen van een reis en gedurende de reis overeenkomstig hoofdstuk III/10 van de bijlage bij het SOLAS-verdrag voldoende zeevarenden in het bezit van een bekwaamheidsbewijs reddingmiddelen dat ten minste voldoet aan voorschrift VI/2, eerste lid, van bijlage I bij [richtlijn (EU) 2022/993](32022L0993) aan boord zijn.
 
 2. De kapitein van elk zeeschip dat is uitgerust met snelle hulpverleningsboten draagt er zorg voor dat voor het ondernemen van een reis en gedurende de reis voor iedere snelle hulpverleningsboot ten minste twee zeevarenden beschikbaar zijn die in het bezit zijn van een bekwaamheidsbewijs snelle hulpverleningsboten dat ten minste voldoet aan voorschrift VI/2, tweede lid, van bijlage I bij [richtlijn (EU) 2022/993](32022L0993).
 
-#### Artikel 2.4.2. Vissersvaartuigen
+##### Artikel 2.4.2. Vissersvaartuigen
 
 1. De schipper van een vissersvaartuig draagt er zorg voor dat voor het ondernemen van een reis een voldoende aantal bemanningsleden in het bezit is van een bekwaamheidsbewijs reddingmiddelen dat ten minste voldoet aan voorschrift VI/2, eerste lid, van de bijlage bij het STCW-verdrag.
 
@@ -378,11 +404,11 @@ De scheepsbeheerder bewaart een bemanningslijst, gedurende drie jaar na de verva
 
 4. De schipper wijst tevens een visser die in het bezit is van een bekwaamheidsbewijs reddingmiddelen aan als plaatsvervanger van de visser, bedoeld in het derde lid.
 
-#### Artikel 2.4.3. Arts
+##### Artikel 2.4.3. Arts
 
 Op een zeeschip, niet zijnde een vissersvaartuig, dat een internationale reis van meer dan 3 dagen maakt met 100 of meer opvarenden, is een arts aanwezig.
 
-#### Artikel 2.4.4. Scheepskok
+##### Artikel 2.4.4. Scheepskok
 
 1. Aan boord van een zeeschip waarvan de voorgeschreven bemanning uit meer dan 9 personen bestaat, is een scheepskok belast met het beheer en de bereiding van de voeding.
 
@@ -392,7 +418,7 @@ Op een zeeschip, niet zijnde een vissersvaartuig, dat een internationale reis va
 
 4. Aan boord van een zeeschip waarvan de voorgeschreven bemanning uit minder dan tien personen bestaat, heeft eenieder die in de kombuis levensmiddelen verwerkt een opleiding genoten of instructie gekregen op het gebied van voeding, persoonlijke hygiëne en de behandeling en opslag van levensmiddelen aan boord van zeeschepen.
 
-#### Artikel 2.4.5. Maritieme radiocommunicatie
+##### Artikel 2.4.5. Maritieme radiocommunicatie
 
 1. Aan boord van een zeeschip dat reizen onderneemt buiten het zeegebied A1, zoals omschreven in voorschrift 2, onderdeel 12, van hoofdstuk IV van de bijlage bij het SOLAS-verdrag, is ten minste één zeevarende die als verantwoordelijke van de wacht, bedoeld in sectie A-VIII/2, part 4-1, van de STCW-code of, in geval van een vissersvaartuig, hoofdstuk II, onderdeel 4, van de bijlage bij het STCW F-verdrag, kan optreden in het bezit van een algemeen certificaat maritieme radiocommunicatie, afgegeven in overeenstemming met het bepaalde bij of krachtens het [Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895).
 
@@ -402,7 +428,7 @@ Op een zeeschip, niet zijnde een vissersvaartuig, dat een internationale reis va
 
 4. Aan boord van een zeeschip dat uitsluitend reizen onderneemt in zeegebied A1, is ten minste één zeevarende die als verantwoordelijke voor de wacht kan optreden in het bezit van het beperkt certificaat maritieme radiocommunicatie, als bedoeld in het derde lid.
 
-#### Artikel 2.4.6. Communicatievaardigheid zeeschepen, niet zijnde vissersvaartuigen
+##### Artikel 2.4.6. Communicatievaardigheid zeeschepen, niet zijnde vissersvaartuigen
 
 1. De scheepsbeheerder, niet zijnde de scheepsbeheerder van een vissersvaartuig, draagt er zorg voor dat aan boord te allen tijde manieren beschikbaar zijn voor een doelmatige mondelinge communicatie tussen alle bemanningsleden over veiligheidsaspecten, met name dat boodschappen en instructies tijdig overkomen en juist worden begrepen.
 
@@ -422,7 +448,7 @@ Op een zeeschip, niet zijnde een vissersvaartuig, dat een internationale reis va
 
 4. Onverminderd het eerste lid draagt de scheepsbeheerder van een olie- of chemicaliëntankschip of een vloeibaargastankschip er zorg voor dat de kapitein, de officieren en gezellen in staat zijn met elkaar te communiceren in één of meer gemeenschappelijke werktalen.
 
-#### Artikel 2.4.7. Verklaring communicatievaardigheid zeeschepen, niet zijnde vissersvaartuigen
+##### Artikel 2.4.7. Verklaring communicatievaardigheid zeeschepen, niet zijnde vissersvaartuigen
 
 1. De scheepsbeheerder stelt een verklaring op waarin hij voor ieder onderdeel van [artikel 2.4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&hoofdstuk=2&paragraaf=2.4&artikel=2.4.6&z=2025-07-01&g=2025-07-01) voor zover het desbetreffende onderdeel betrekking heeft op zijn zeeschip, nauwkeurig vermeldt op welke wijze hij ten aanzien van zijn zeeschip uitvoering heeft gegeven aan zijn verplichtingen ingevolge dat artikel.
 
@@ -436,7 +462,7 @@ Op een zeeschip, niet zijnde een vissersvaartuig, dat een internationale reis va
 
 6. Bij ministeriële regeling wordt bepaald welke gegevens worden opgenomen in de verklaring.
 
-#### Artikel 2.4.8. Communicatievaardigheid op vissersvaartuigen
+##### Artikel 2.4.8. Communicatievaardigheid op vissersvaartuigen
 
 De scheepsbeheerder van een vissersvaartuig draagt er zorg voor dat de schipper en dekofficieren van een vissersvaartuig van 24 meter of meer waarvoor een bemanningscertificaat is afgegeven voor onbeperkt vaargebied vissersvaartuigen, beschikken over toereikende kennis van de Engelse taal, waardoor zij in staat zijn:
 
@@ -452,7 +478,7 @@ De scheepsbeheerder van een vissersvaartuig draagt er zorg voor dat de schipper 
 
 #### Paragraaf 3.1. Algemene bepalingen
 
-#### Artikel 3.1.1. Afgifte vaarbevoegdheidsbewijs
+##### Artikel 3.1.1. Afgifte vaarbevoegdheidsbewijs
 
 1. Een vaarbevoegdheidsbewijs voor een functie als bedoeld in [artikel 23, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=23) wordt door Onze Minister afgegeven indien de aanvrager met de daarvoor benodigde kennisbewijzen, bekwaamheidsbewijzen, beroepseisen of diensttijd aantoont ten minste te voldoen aan de minimumeisen voor de betreffende functie:
 
@@ -464,7 +490,7 @@ De scheepsbeheerder van een vissersvaartuig draagt er zorg voor dat de schipper 
 
 3. Een kennisbewijs of bekwaamheidsbewijs voor de zeilvaart dat meer dan 4 jaar geleden is afgegeven geeft recht op een vaarbevoegdheidsbewijs nadat de aanvrager met goed gevolg een bij ministeriële regeling vast te stellen test als bedoeld in sectie A-1/11, onderdeel 3, van de STCW-code heeft afgerond.
 
-#### Artikel 3.1.2. Geldigheid vaarbevoegdheidsbewijs
+##### Artikel 3.1.2. Geldigheid vaarbevoegdheidsbewijs
 
 1. Een vaarbevoegdheidsbewijs, met uitzondering van een vaarbevoegdheidsbewijs voor een gezel, is geldig tot ten hoogste vijf jaar na de datum van afgifte.
 
@@ -472,7 +498,7 @@ De scheepsbeheerder van een vissersvaartuig draagt er zorg voor dat de schipper 
 
 3. Een vaarbevoegdheidsbewijs waarvoor de aanvraag tot vernieuwing uiterlijk 3 maanden voor de vervaldatum van het betreffende vaarbevoegdheidsbewijs wordt ingediend, heeft een geldigheidsduur van ten hoogste vijf jaar na de vervaldatum.
 
-#### Artikel 3.1.3. Vernieuwen vaarbevoegdheidsbewijs
+##### Artikel 3.1.3. Vernieuwen vaarbevoegdheidsbewijs
 
 1. Een vaarbevoegdheidsbewijs wordt vernieuwd indien de houder diensttijd heeft opgedaan in een naar het oordeel van Onze Minister relevante functie waarvoor een vaarbevoegdheidsbewijs is vereist en die door de houder op grond van de aan hem toegekende bevoegdheden mocht worden vervuld, gedurende ten minste:
 
@@ -492,7 +518,7 @@ De scheepsbeheerder van een vissersvaartuig draagt er zorg voor dat de schipper 
 
 4. De bevoegdheden op een te vernieuwen vaarbevoegdheidsbewijs worden op verzoek van de aanvrager gewijzigd indien de aanvrager aantoont ten minste te beschikken over de daarvoor benodigde kennisbewijzen, beroepseisen of diensttijd.
 
-#### Artikel 3.1.4. Vernieuwen vaarbevoegdheidsbewijs bij onvoldoende diensttijd
+##### Artikel 3.1.4. Vernieuwen vaarbevoegdheidsbewijs bij onvoldoende diensttijd
 
 1. Een vaarbevoegdheidsbewijs of een aanvulling daarop die niet op grond van [artikel 3.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&hoofdstuk=3&paragraaf=3.1&artikel=3.1.3&z=2025-07-01&g=2025-07-01) door Onze Minister kan worden vernieuwd, wordt op verzoek vernieuwd indien de houder voorafgaand aan de aanvraag:
 
@@ -506,19 +532,19 @@ De scheepsbeheerder van een vissersvaartuig draagt er zorg voor dat de schipper 
 
 2. Onze Minister geeft op verzoek een tijdelijk vaarbevoegdheidsbewijs af ten behoeve van het opdoen van de diensttijd, bedoeld in het eerste lid, onderdeel b.
 
-#### Artikel 3.1.5. Verloren gegaan vaarbevoegdheidsbewijs of bekwaamheidsbewijs
+##### Artikel 3.1.5. Verloren gegaan vaarbevoegdheidsbewijs of bekwaamheidsbewijs
 
 1. Een vaarbevoegdheidsbewijs of bekwaamheidsbewijs dat verloren is gegaan kan door Onze Minister tegen betaling worden vervangen door een duplicaat, waarvan de einddatum overeenkomt met de einddatum op het originele document.
 
 2. Indien de aanvrager van een duplicaat aanspraak kan maken op vernieuwing van het vaarbevoegdheidsbewijs of bekwaamheidsbewijs, wordt hem desgevraagd met inachtneming van [artikel 3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&hoofdstuk=3&paragraaf=3.1&artikel=3.1.1&z=2025-07-01&g=2025-07-01) het vaarbevoegdheidsbewijs of bekwaamheidsbewijs afgegeven.
 
-#### Artikel 3.1.6. Vaarbevoegdheidsbewijs als geautomatiseerd bestand
+##### Artikel 3.1.6. Vaarbevoegdheidsbewijs als geautomatiseerd bestand
 
 1. Een vaarbevoegdheidsbewijs kan op verzoek met gebruikmaking van een bij ministeriële regeling vast te stellen format voor een geautomatiseerd bestand worden afgegeven.
 
 2. Bij ministeriële regeling kunnen regels worden gesteld ten aanzien van de in [artikel 3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&hoofdstuk=3&paragraaf=3.1&artikel=3.1.1&z=2025-07-01&g=2025-07-01) genoemde bescheiden als geautomatiseerde bestanden.
 
-#### Artikel 3.1.7. Beperkingen of aanvullingen vaarbevoegdheidsbewijs
+##### Artikel 3.1.7. Beperkingen of aanvullingen vaarbevoegdheidsbewijs
 
 1. Bij ministeriële regeling wordt bepaald welke beperkingen of aanvullingen mogen worden aangebracht op een vaarbevoegdheidsbewijs in verband met de aard van de lading, het soort zeeschip, het brutotonnage, het voortstuwingsvermogen, het type voortstuwing, de scheepslengte of het vaargebied.
 
@@ -526,11 +552,11 @@ De scheepsbeheerder van een vissersvaartuig draagt er zorg voor dat de schipper 
 
 3. Bij ministeriële regeling wordt bepaald op welke wijze de in het eerste en tweede lid, genoemde aanvullingen dan wel beperkingen op vaarbevoegdheidsbewijzen worden aangebracht.
 
-#### Artikel 3.1.8. Inhoudelijke beroepseisen
+##### Artikel 3.1.8. Inhoudelijke beroepseisen
 
 Bij ministeriële regeling worden beroepseisen als bedoeld in de [artikelen 23, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=23), [24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=24), en [25, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=25) vastgesteld voor de verkrijging van een vaarbevoegdheidsbewijs.
 
-#### Artikel 3.1.9. Erkenning vaarbevoegdheidsbewijs of een bekwaamheidsbewijs
+##### Artikel 3.1.9. Erkenning vaarbevoegdheidsbewijs of een bekwaamheidsbewijs
 
 1. Onze Minister erkent een vaarbevoegdheidsbewijs of een bekwaamheidsbewijs als bedoeld in [artikel 27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=27) dat op grond van het STCW-verdrag is afgegeven door of namens een bevoegde autoriteit van een Lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland en met deze Lidstaat of andere staat een officiële verklaring is opgesteld als bedoeld in artikel 6, tweede lid van [richtlijn (EU) 2022/993](32022L0993).
 
@@ -542,7 +568,7 @@ Bij ministeriële regeling worden beroepseisen als bedoeld in de [artikelen 23, 
 
 5. Bij ministeriële regeling wordt bepaald welke bescheiden worden overlegd bij een aanvraag om erkenning van een vaarbevoegdheidsbewijs of bekwaamheidsbewijs.
 
-#### Artikel 3.1.10. Vaarbevoegdheidsbewijs als kapitein of schipper
+##### Artikel 3.1.10. Vaarbevoegdheidsbewijs als kapitein of schipper
 
 1. Voor de erkenning van een vaarbevoegdheidsbewijs als kapitein of schipper op grond van [artikel 27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=27) legt de aanvrager het bekwaamheidsbewijs wetgeving en openbaar gezag over.
 
@@ -550,7 +576,7 @@ Bij ministeriële regeling worden beroepseisen als bedoeld in de [artikelen 23, 
 
 3. Bij ministeriële regeling worden de beroepseisen vastgesteld voor de verkrijging van het in het eerste lid genoemde bekwaamheidsbewijs.
 
-#### Artikel 3.1.11. Aanvaarding buitenlands vaarbevoegdheidsbewijs of bekwaamheidsbewijs
+##### Artikel 3.1.11. Aanvaarding buitenlands vaarbevoegdheidsbewijs of bekwaamheidsbewijs
 
 Onze Minister aanvaardt:
 
@@ -560,107 +586,107 @@ Onze Minister aanvaardt:
 
 #### Paragraaf 3.2. Minimumeisen vaarbevoegdheidsverlening zeeschepen
 
-#### Artikel 3.2.1. Reikwijdte
+##### Artikel 3.2.1. Reikwijdte
 
 1. Deze paragraaf bevat de minimumeisen die recht geven op een vaarbevoegdheidsbewijs of bekwaamheidsbewijs voor een functie aan boord van een zeeschip, niet zijnde een vissersvaartuig, als bedoeld in [artikel 23, eerste lid, aanhef en onderdeel a, en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=23).
 
 2. Bij ministeriële regeling worden regels gesteld met betrekking tot de minimumeisen voor een functie aan boord van een zeilschip van minder dan 500 GT.
 
-#### Artikel 3.2.2. Minimumeisen vaarbevoegdheidsverlening voor een wachtstuurman van een zeeschip
+##### Artikel 3.2.2. Minimumeisen vaarbevoegdheidsverlening voor een wachtstuurman van een zeeschip
 
 Een wachtstuurman van een zeeschip is in het bezit van een vaarbevoegdheidsbewijs dat ten minste voldoet aan voorschrift II/1, tweede lid, en voorschrift II/3, eerste lid, van bijlage I bij [richtlijn (EU) 2022/993](32022L0993).
 
-#### Artikel 3.2.3. Minimumeisen vaarbevoegdheidsverlening voor een kapitein of eerste stuurman van een zeeschip
+##### Artikel 3.2.3. Minimumeisen vaarbevoegdheidsverlening voor een kapitein of eerste stuurman van een zeeschip
 
 Een kapitein of eerste stuurman van een zeeschip is in het bezit van een vaarbevoegdheidsbewijs dat ten minste voldoet aan voorschrift II/2, tweede lid, van bijlage I bij [richtlijn (EU) 2022/993](32022L0993).
 
-#### Artikel 3.2.4. Minimumeisen vaarbevoegdheidsverlening voor een kapitein of eerste stuurman van een zeeschip met een brutotonnage van minder dan 3.000 GT
+##### Artikel 3.2.4. Minimumeisen vaarbevoegdheidsverlening voor een kapitein of eerste stuurman van een zeeschip met een brutotonnage van minder dan 3.000 GT
 
 Een kapitein of eerste stuurman van een zeeschip met een brutotonnage van minder dan 3.000 GT is in het bezit van een vaarbevoegdheidsbewijs dat ten minste voldoet aan voorschrift II/2, vierde lid, van bijlage I bij [richtlijn (EU) 2022/993](32022L0993).
 
-#### Artikel 3.2.5. Minimumeisen vaarbevoegdheidsverlening voor een wachtstuurman van een zeeschip met een brutotonnage van minder dan 500 GT
+##### Artikel 3.2.5. Minimumeisen vaarbevoegdheidsverlening voor een wachtstuurman van een zeeschip met een brutotonnage van minder dan 500 GT
 
 Een wachtstuurman van een zeeschip met een brutotonnage van minder dan 500 GT is in het bezit van een vaarbevoegdheidsbewijs dat ten minste voldoet aan voorschrift II/3, eerste lid, van bijlage I bij [richtlijn (EU) 2022/993](32022L0993).
 
-#### Artikel 3.2.6. Minimumeisen vaarbevoegdheidsverlening voor een kapitein van een zeeschip met een brutotonnage van minder dan 500 GT
+##### Artikel 3.2.6. Minimumeisen vaarbevoegdheidsverlening voor een kapitein van een zeeschip met een brutotonnage van minder dan 500 GT
 
 Een kapitein van een zeeschip met een brutotonnage van minder dan 500 GT is in het bezit van een vaarbevoegdheidsbewijs dat ten minste voldoet aan voorschrift II/3, tweede lid, van bijlage I bij [richtlijn (EU) 2022/993](32022L0993).
 
-#### Artikel 3.2.7. Minimumeisen vaarbevoegdheidsverlening voor een wachtstuurman van een zeeschip met een brutotonnage van minder dan 500 GT dat wordt gebruikt voor reizen nabij de kust
+##### Artikel 3.2.7. Minimumeisen vaarbevoegdheidsverlening voor een wachtstuurman van een zeeschip met een brutotonnage van minder dan 500 GT dat wordt gebruikt voor reizen nabij de kust
 
 1. Een wachtstuurman van een zeeschip met een brutotonnage van minder dan 500 GT dat wordt gebruikt voor reizen nabij de kust, is in het bezit van een vaarbevoegdheidsbewijs dat ten minste voldoet aan voorschrift II/3, vierde lid, van bijlage I bij [richtlijn (EU) 2022/993](32022L0993).
 
 2. Bij ministeriële regeling kan vrijstelling worden verleend van onderdelen van sectie-II/3 van de STCW-code overeenkomstig voorschrift II/3, zevende lid, van bijlage I bij [richtlijn (EU) 2022/993](32022L0993).
 
-#### Artikel 3.2.8. Minimumeisen vaarbevoegdheidsverlening voor een kapitein van een zeeschip met een brutotonnage van minder dan 500 GT dat wordt gebruikt voor reizen nabij de kust
+##### Artikel 3.2.8. Minimumeisen vaarbevoegdheidsverlening voor een kapitein van een zeeschip met een brutotonnage van minder dan 500 GT dat wordt gebruikt voor reizen nabij de kust
 
 1. Een kapitein van een zeeschip met een brutotonnage van minder dan 500 GT dat wordt gebruikt voor reizen nabij de kust, is in het bezit van een vaarbevoegdheidsbewijs dat ten minste voldoet aan voorschrift II/3, zesde lid, van bijlage I bij [richtlijn (EU) 2022/993](32022L0993).
 
 2. Bij ministeriële regeling kan vrijstelling worden verleend van onderdelen van sectie-II/3 van de STCW-code overeenkomstig voorschrift II/3, zevende lid, van bijlage I bij [richtlijn (EU) 2022/993](32022L0993).
 
-#### Artikel 3.2.9. Minimumeisen vaarbevoegdheidsverlening voor een wachtlopend gezel dek die deel uitmaakt van de brugwacht van een zeeschip
+##### Artikel 3.2.9. Minimumeisen vaarbevoegdheidsverlening voor een wachtlopend gezel dek die deel uitmaakt van de brugwacht van een zeeschip
 
 Een wachtlopend gezel dek die deel uitmaakt van de brugwacht van een zeeschip met een brutotonnage van 500 GT of meer, is in het bezit van een vaarbevoegdheidsbewijs dat ten minste voldoet aan voorschrift II/4, tweede lid, van bijlage I bij [richtlijn (EU) 2022/993](32022L0993).
 
-#### Artikel 3.2.10. Minimumeisen vaarbevoegdheidsverlening voor een gekwalificeerd gezel dek van een zeeschip
+##### Artikel 3.2.10. Minimumeisen vaarbevoegdheidsverlening voor een gekwalificeerd gezel dek van een zeeschip
 
 Een gekwalificeerd gezel dek die deel uitmaakt van de dekdienst van een zeeschip met een brutotonnage van 500 GT of meer, is in het bezit van een vaarbevoegdheidsbewijs dat ten minste voldoet aan voorschrift II/5, tweede lid, van bijlage I bij [richtlijn (EU) 2022/993](32022L0993).
 
-#### Artikel 3.2.11. Minimumeisen vaarbevoegdheidsverlening voor een wachtwerktuigkundige belast met de machinekamerwacht in een bemande machinekamer, of de aangewezen werktuigkundigen, belast met de wacht in een tijdelijk onbemande machinekamer van een zeeschip
+##### Artikel 3.2.11. Minimumeisen vaarbevoegdheidsverlening voor een wachtwerktuigkundige belast met de machinekamerwacht in een bemande machinekamer, of de aangewezen werktuigkundigen, belast met de wacht in een tijdelijk onbemande machinekamer van een zeeschip
 
 Een wachtwerktuigkundige van een zeeschip is in het bezit van een vaarbevoegdheidsbewijs dat ten minste voldoet aan voorschrift III/1, tweede lid, van bijlage I bij [richtlijn (EU) 2022/993](32022L0993).
 
-#### Artikel 3.2.12. Minimumeisen vaarbevoegdheidsverlening voor een hoofdwerktuigkundige of tweede werktuigkundige van een zeeschip
+##### Artikel 3.2.12. Minimumeisen vaarbevoegdheidsverlening voor een hoofdwerktuigkundige of tweede werktuigkundige van een zeeschip
 
 Een hoofdwerktuigkundige of tweede werktuigkundige van een zeeschip is in het bezit van een vaarbevoegdheidsbewijs dat ten minste voldoet aan voorschrift III/2, tweede lid, van bijlage I bij [richtlijn (EU) 2022/993](32022L0993).
 
-#### Artikel 3.2.13. Minimumeisen vaarbevoegdheidsverlening voor een hoofdwerktuigkundige of tweede werktuigkundige van een zeeschip met een hoofdvoortstuwingsinstallatie tot 3.000 kW voortstuwingsvermogen
+##### Artikel 3.2.13. Minimumeisen vaarbevoegdheidsverlening voor een hoofdwerktuigkundige of tweede werktuigkundige van een zeeschip met een hoofdvoortstuwingsinstallatie tot 3.000 kW voortstuwingsvermogen
 
 Een hoofdwerktuigkundige of tweede werktuigkundige van een zeeschip met een hoofdvoortstuwingsinstallatie tot 3.000 kW voortstuwingsvermogen is in het bezit van een vaarbevoegdheidsbewijs dat ten minste voldoet aan voorschrift III/3, tweede lid, van bijlage I bij [richtlijn (EU) 2022/993](32022L0993).
 
-#### Artikel 3.2.14. Beroepseisen door een stoomvoortstuwingsinstallatie aangedreven zeeschip
+##### Artikel 3.2.14. Beroepseisen door een stoomvoortstuwingsinstallatie aangedreven zeeschip
 
 Een hoofdwerktuigkundige, tweede werktuigkundige of eerste maritiem officier aan boord van een zeeschip voorzien van een stoomvoortstuwingsinstallatie is in het bezit van een bekwaamheidsbewijs stoomvoortstuwing dat ten minste voldoet aan tabel A-III/1, onderdeel 2, van de STCW-code.
 
-#### Artikel 3.2.15. Beroepseisen door een gasturbinevoortstuwingsinstallatie aangedreven zeeschip
+##### Artikel 3.2.15. Beroepseisen door een gasturbinevoortstuwingsinstallatie aangedreven zeeschip
 
 Een hoofdwerktuigkundige, tweede werktuigkundige of eerste maritiem officier van een zeeschip voorzien van een gasturbinevoortstuwingsinstallatie is in het bezit van een bekwaamheidsbewijs gasturbinevoortstuwing dat ten minste voldoet aan tabel A-III/1, onderdeel 3, van de STCW-code.
 
-#### Artikel 3.2.16. Minimumeisen vaarbevoegdheidsverlening voor een wachtlopend gezel machinekamer die deel uitmaakt van de machinekamerwacht in een bemande machinekamer, of die aangewezen is om dienst te doen belast met de wacht in een tijdelijk onbemande machinekamer van een zeeschip
+##### Artikel 3.2.16. Minimumeisen vaarbevoegdheidsverlening voor een wachtlopend gezel machinekamer die deel uitmaakt van de machinekamerwacht in een bemande machinekamer, of die aangewezen is om dienst te doen belast met de wacht in een tijdelijk onbemande machinekamer van een zeeschip
 
 Een wachtlopend gezel machinekamer die deel uitmaakt van de machinekamerwacht of is aangewezen om dienst te doen in een tijdelijk onbemande machinekamer van een zeeschip is in het bezit van een vaarbevoegdheidsbewijs dat ten minste voldoet aan voorschrift III/4, tweede lid, van bijlage I bij [richtlijn (EU) 2022/993](32022L0993).
 
-#### Artikel 3.2.17. Minimumeisen vaarbevoegdheidsverlening voor een gekwalificeerd gezel machinekamer in een bemande machinekamer of in een tijdelijk onbemande machinekamer van een zeeschip
+##### Artikel 3.2.17. Minimumeisen vaarbevoegdheidsverlening voor een gekwalificeerd gezel machinekamer in een bemande machinekamer of in een tijdelijk onbemande machinekamer van een zeeschip
 
 Een gekwalificeerd gezel machinekamer in een bemande machinekamer of in een tijdelijk onbemande machinekamer van een zeeschip is in het bezit van een vaarbevoegdheidsbewijs dat ten minste voldoet aan voorschrift III/5, tweede lid, van bijlage I bij [richtlijn (EU) 2022/993](32022L0993).
 
-#### Artikel 3.2.18. Minimumeisen vaarbevoegdheidsverlening voor een officier elektrotechniek van een zeeschip
+##### Artikel 3.2.18. Minimumeisen vaarbevoegdheidsverlening voor een officier elektrotechniek van een zeeschip
 
 Een officier elektrotechniek van een zeeschip is in het bezit van een vaarbevoegdheidsbewijs dat ten minste voldoet aan voorschrift III/6, tweede lid, van bijlage I bij [richtlijn (EU) 2022/993](32022L0993).
 
-#### Artikel 3.2.19. Minimumeisen vaarbevoegdheidsverlening voor een gezel elektrotechniek van een zeeschip
+##### Artikel 3.2.19. Minimumeisen vaarbevoegdheidsverlening voor een gezel elektrotechniek van een zeeschip
 
 Een gezel elektrotechniek van een zeeschip met een hoofdvoortstuwingsinstallatie van 750 kW voortstuwingsvermogen of meer is in het bezit van een vaarbevoegdheidsbewijs dat ten minste voldoet aan voorschrift III/7, tweede lid, van bijlage I bij [richtlijn (EU) 2022/993](32022L0993).
 
-#### Artikel 3.2.20. Minimumeisen alternatief vaarbevoegdheidsbewijs maritiem officier of eerste maritiem officier van een zeeschip
+##### Artikel 3.2.20. Minimumeisen alternatief vaarbevoegdheidsbewijs maritiem officier of eerste maritiem officier van een zeeschip
 
 Een vaarbevoegdheidsbewijs maritiem officier of eerste maritiem officier dat is afgegeven op grond van voorschrift VII/1 van bijlage I bij [richtlijn (EU) 2022/993](32022L0993) is gelijkwaardig aan een vaarbevoegdheidsbewijs voor een functie van wachtstuurman, eerste stuurman, kapitein, wachtwerktuigkundige, tweede werktuigkundige of hoofdwerktuigkundige, voor zover dat vaarbevoegdheidsbewijs voldoet aan de eisen voor de desbetreffende, functie, bedoeld in bijlage I bij [richtlijn (EU) 2022/993](32022L0993).
 
-#### Artikel 3.2.21. Minimumeisen alternatief vaarbevoegdheidsbewijs wachtlopend gezel dek en machinekamer van een zeeschip
+##### Artikel 3.2.21. Minimumeisen alternatief vaarbevoegdheidsbewijs wachtlopend gezel dek en machinekamer van een zeeschip
 
 Een vaarbevoegdheidsbewijs wachtlopend gezel dek en machinekamer dat is afgegeven op grond van voorschrift VII/1 van bijlage I bij [richtlijn (EU) 2022/993](32022L0993) is gelijkwaardig aan een vaarbevoegdheidsbewijs voor een wachtlopend gezel dek of een wachtlopend gezel machinekamer, voor zover dat vaarbevoegdheidsbewijs voldoet aan de eisen voor de desbetreffende, functie, bedoeld in bijlage I bij [richtlijn (EU) 2022/993](32022L0993).
 
-#### Artikel 3.2.22. Minimumeisen alternatief vaarbevoegdheidsbewijs gekwalificeerd gezel dek en machinekamer van een zeeschip
+##### Artikel 3.2.22. Minimumeisen alternatief vaarbevoegdheidsbewijs gekwalificeerd gezel dek en machinekamer van een zeeschip
 
 Een vaarbevoegdheidsbewijs gekwalificeerd gezel dek en machinekamer dat is afgegeven op grond van voorschrift VII/1 van bijlage I bij [richtlijn (EU) 2022/993](32022L0993) is gelijkwaardig aan een vaarbevoegdheidsbewijs voor een gekwalificeerd gezel dek of een gekwalificeerd gezel machinekamer, voor zover dat vaarbevoegdheidsbewijs voldoet aan de eisen voor de desbetreffende, functie, bedoeld in bijlage I bij [richtlijn (EU) 2022/993](32022L0993).
 
-#### Artikel 3.2.23. Uitwerking eisen per vaarbevoegdheidsbewijs
+##### Artikel 3.2.23. Uitwerking eisen per vaarbevoegdheidsbewijs
 
 Bij ministeriële regeling worden voor elk vaarbevoegdheidsbewijs, genoemd in deze paragraaf, kennisbewijzen, bekwaamheidsbewijzen, diensttijdvereisten en bijzondere of aanvullende beroepseisen vastgesteld waarmee voldaan wordt aan de voor die functie gestelde minimumeisen en die recht geven op een vaarbevoegdheidsbewijs of bekwaamheidsbewijs voor de betreffende functie.
 
 #### Paragraaf 3.3. Bijzondere beroepseisen bepaalde scheepstypen
 
-#### Artikel 3.3.1. Bijzondere beroepseisen olie- of chemicaliëntankschip
+##### Artikel 3.3.1. Bijzondere beroepseisen olie- of chemicaliëntankschip
 
 1. Een zeevarende aan wie speciale taken en verantwoordelijkheden zijn opgedragen met betrekking tot de lading en de daarbij behorende uitrusting van een olie- of chemicaliëntankschip, is in het bezit van een bekwaamheidsbewijs basis ladingbehandeling olie- en chemicaliëntankschepen dat ten minste voldoet aan voorschrift V/1-1, tweede lid, van bijlage I bij [richtlijn (EU) 2022/993](32022L0993).
 
@@ -674,7 +700,7 @@ Bij ministeriële regeling worden voor elk vaarbevoegdheidsbewijs, genoemd in de
 
 - b. in bezit is van een bekwaamheidsbewijs ten bewijze van het gevolgd hebben van een passende herhalingstraining die ten minste voldoet aan voorschrift V/1-1 van bijlage I bij [richtlijn (EU) 2022/993](32022L0993).
 
-#### Artikel 3.3.2. Bijzondere beroepseisen vloeibaargastankschip
+##### Artikel 3.3.2. Bijzondere beroepseisen vloeibaargastankschip
 
 1. Een zeevarende aan wie speciale taken en verantwoordelijkheden zijn opgedragen met betrekking tot de lading en de daarbij behorende uitrusting van een vloeibaargastankschip, is in het bezit van een bekwaamheidsbewijs basis ladingbehandeling gastankschepen dat ten minste voldoet aan voorschrift V/1-2, tweede lid, van bijlage I bij [richtlijn (EU) 2022/993](32022L0993).
 
@@ -686,7 +712,7 @@ Bij ministeriële regeling worden voor elk vaarbevoegdheidsbewijs, genoemd in de
 
 - b. in bezit is van een bekwaamheidsbewijs ten bewijze van het gevolgd hebben van een passende herhalingstraining die ten minste voldoet aan voorschrift V/1-2 van bijlage I bij [richtlijn (EU) 2022/993](32022L0993).
 
-#### Artikel 3.3.3. Bijzondere beroepseisen passagiersschip
+##### Artikel 3.3.3. Bijzondere beroepseisen passagiersschip
 
 1. Een zeevarende van een passagiersschip die in overeenstemming met zijn functie of werkzaamheden en verantwoordelijkheden vertrouwd is met noodsituaties aan boord van dat passagiersschip, is in het bezit van een schriftelijk bewijs dat hij geoefend is in familiarisatie voor noodsituaties aan boord van passagiersschepen als bedoeld in voorschrift V/2, vijfde lid, van bijlage I bij [richtlijn (EU) 2022/993](32022L0993).
 
@@ -708,7 +734,7 @@ Bij ministeriële regeling worden voor elk vaarbevoegdheidsbewijs, genoemd in de
 
 7. In plaats van een bekwaamheidsbewijs of schriftelijk bewijs als bedoeld in het vierde of vijfde lid kan worden volstaan met een aantekening van de door de zeevarende gevolgde training in het krachtens [artikel 5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=5) bij te houden overzicht.
 
-#### Artikel 3.3.4. Bijzondere beroepseisen IGF-schip
+##### Artikel 3.3.4. Bijzondere beroepseisen IGF-schip
 
 1. Een zeevarende van een zeeschip dat is onderworpen aan de IGF-code is op passende wijze vertrouwd gemaakt met het zeeschip en de uitrusting als bedoeld in voorschrift V/3, derde lid, van bijlage I bij [richtlijn (EU) 2022/993](32022L0993).
 
@@ -720,7 +746,7 @@ Bij ministeriële regeling worden voor elk vaarbevoegdheidsbewijs, genoemd in de
 
 5. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de beroepsvereisten van zeevarenden die varen op een met gas of brandstof met een laag vlampunt aangedreven zeeschip van minder dan 500 GT, niet zijnde een passagiersschip, bedoeld in de IGF-Code.
 
-#### Artikel 3.3.5. Bijzondere beroepseisen zeeschip dat in poolwateren vaart
+##### Artikel 3.3.5. Bijzondere beroepseisen zeeschip dat in poolwateren vaart
 
 1. Een kapitein, eerste stuurman, wachtstuurman, eerste maritiem officier of maritiem officier van een tankschip of een passagiersschip dat in open polaire wateren vaart is in het bezit van een bekwaamheidsbewijs basistraining Polar-code, dat ten minste voldoet aan voorschrift V/4, eerste lid, van bijlage I bij [richtlijn (EU) 2022/993](32022L0993).
 
@@ -740,13 +766,13 @@ Bij ministeriële regeling worden voor elk vaarbevoegdheidsbewijs, genoemd in de
 
 - c. met goed gevolg een training voor het bekwaamheidsbewijs heeft afgerond.
 
-#### Artikel 3.3.6. Icemaster
+##### Artikel 3.3.6. Icemaster
 
 1. Een zeevarende die op grond van paragraaf 12.3.2 van de Polar-code is belast met de uitvoering van paragraaf 12.3.1 van de Polar-code is ten minste in het bezit van een geldig vaarbevoegdheidsbewijs als eerste stuurman of eerste maritiem officier voor het zeeschip waarop gevaren wordt en is in het bezit van een bekwaamheidsbewijs gevorderdentraining Polar-code als bedoeld in [artikel 3.3.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&hoofdstuk=3&paragraaf=3.3&artikel=3.3.5&z=2025-07-01&g=2025-07-01).
 
 2. [Artikel 3.3.5, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&hoofdstuk=3&paragraaf=3.3&artikel=3.3.5&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
 
-#### Artikel 3.3.7. Icemaster, tankschip of passagiersschip
+##### Artikel 3.3.7. Icemaster, tankschip of passagiersschip
 
 1. [Artikel 3.3.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&hoofdstuk=3&paragraaf=3.3&artikel=3.3.5&z=2025-07-01&g=2025-07-01), is niet van toepassing op een kapitein, eerste stuurman, wachtstuurman, eerste maritiem officier of maritiem officier van een tankschip of een passagiersschip, dat in open polaire wateren vaart indien hij tijdens de uitoefening van zijn taken wordt geadviseerd door een zeevarende als bedoeld in [artikel 3.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&hoofdstuk=3&paragraaf=3.3&artikel=3.3.6&z=2025-07-01&g=2025-07-01).
 
@@ -754,83 +780,83 @@ Bij ministeriële regeling worden voor elk vaarbevoegdheidsbewijs, genoemd in de
 
 3. [Artikel 3.3.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&hoofdstuk=3&paragraaf=3.3&artikel=3.3.5&z=2025-07-01&g=2025-07-01), is niet van toepassing op een kapitein, eerste stuurman of eerste maritiem officier van een tankschip of een passagiersschip dat in andere polaire wateren dan bergy wateren vaart indien hij in het bezit is van een bekwaamheidsbewijs basistraining Polar-code, als bedoeld in artikel 3.3.5, eerste lid, en hij tijdens de uitoefening van zijn taken wordt geadviseerd door een zeevarende als bedoeld in [artikel 3.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&hoofdstuk=3&paragraaf=3.3&artikel=3.3.6&z=2025-07-01&g=2025-07-01).
 
-#### Artikel 3.3.8. Icemaster, zeeschip, niet zijnde een tankschip of passagierschip
+##### Artikel 3.3.8. Icemaster, zeeschip, niet zijnde een tankschip of passagierschip
 
 1. [Artikel 3.3.5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&hoofdstuk=3&paragraaf=3.3&artikel=3.3.5&z=2025-07-01&g=2025-07-01), is niet van toepassing op een kapitein, eerste stuurman, wachtstuurman, eerste maritiem officier of maritiem officier van een zeeschip, niet zijnde een tankschip of een passagiersschip dat in andere polaire wateren vaart met een ijsconcentratie van twee tiende of minder, als bedoeld in voorschrift 12.3.2, onderdelen 4 en 5, van de Polar-code indien hij tijdens de uitoefening van zijn taken wordt geadviseerd door een zeevarende als bedoeld in [artikel 3.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&hoofdstuk=3&paragraaf=3.3&artikel=3.3.6&z=2025-07-01&g=2025-07-01).
 
 2. [Artikel 3.3.5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&hoofdstuk=3&paragraaf=3.3&artikel=3.3.5&z=2025-07-01&g=2025-07-01), is niet van toepassing op een kapitein, eerste stuurman of eerste maritiem officier van een zeeschip, niet zijnde een tankschip of een passagiersschip, dat in andere polaire wateren vaart met een ijsconcentratie van meer dan twee tiende, als bedoeld in voorschrift 12.3.2, onderdeel 5, van de Polar-code indien hij tijdens de uitoefening van zijn taken wordt geadviseerd door een zeevarende als bedoeld in [artikel 3.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&hoofdstuk=3&paragraaf=3.3&artikel=3.3.6&z=2025-07-01&g=2025-07-01) en hij in het bezit is van een bekwaamheidsbewijs basistraining Polar-code, als bedoeld in artikel 3.3.5, eerste lid.
 
-#### Artikel 3.3.9. Bijzondere beroepseisen hogesnelheidschip
+##### Artikel 3.3.9. Bijzondere beroepseisen hogesnelheidschip
 
 1. Een kapitein, hoofdwerktuigkundige, eerste stuurman, tweede werktuigkundige, wachtstuurman, wachtwerktuigkundige, eerste maritiem officier of maritiem officier van hogesnelheidsschip is in het bezit van het bekwaamheidsbewijs type rating HSC-code dat ten minste voldoet aan voorschrift 18.3 van de HSC-code voor het hogesnelheidsschip waarop hij dienstdoet.
 
 2. Een zeevarende als bedoeld in het eerste lid toont door middel van schriftelijk bewijs met tussenpozen van niet meer dan 2 jaar aan in de voorgaande periode van 2 jaar ten minste 6 maanden dienst te hebben gedaan aan boord van het in het bekwaamheidsbewijs genoemde hogesnelheidsschip.
 
-#### Artikel 3.3.10. Uitwerking eisen per bijzondere beroepseis
+##### Artikel 3.3.10. Uitwerking eisen per bijzondere beroepseis
 
 Bij ministeriële regeling worden voor elke bijzondere beroepseis genoemd in deze paragraaf bekwaamheidsbewijzen, schriftelijke bewijzen of diensttijdvereisten vastgesteld waarmee voldaan wordt aan de voor die bijzondere beroepseis gestelde minimumeisen en die recht geven op een vaarbevoegdheidsbewijs of bekwaamheidsbewijs voor die bijzondere beroepseis.
 
 #### Paragraaf 3.4. Minimumeisen vaarbevoegdheidsverlening vissersvaartuigen
 
-#### Artikel 3.4.1. Reikwijdte
+##### Artikel 3.4.1. Reikwijdte
 
 Deze paragraaf bevat de minimumeisen die recht geven op een vaarbevoegdheidsbewijs of bekwaamheidsbewijs voor een functie van een vissersvaartuig, als bedoeld in [artikel 23, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=23).
 
-#### Artikel 3.4.2. Minimumeisen vaarbevoegdheidsverlening voor stuurman zeevisvaart van een vissersvaartuig met een scheepslengte van 24 meter of meer die vaart in onbeperkte wateren vissersvaartuigen
+##### Artikel 3.4.2. Minimumeisen vaarbevoegdheidsverlening voor stuurman zeevisvaart van een vissersvaartuig met een scheepslengte van 24 meter of meer die vaart in onbeperkte wateren vissersvaartuigen
 
 Een stuurman zeevisvaart van een vissersvaartuig met een scheepslengte van 24 meter of meer die vaart in onbeperkte wateren vissersvaartuigen is in het bezit van een vaarbevoegdheidsbewijs dat ten minste voldoet aan voorschrift II/2 van de bijlage bij het STCW F-verdrag.
 
-#### Artikel 3.4.3. Minimumeisen vaarbevoegdheidsverlening voor een schipper en een plaatsvervangend schipper van een vissersvaartuig met een scheepslengte van 24 meter of meer die vaart in onbeperkte wateren vissersvaartuigen
+##### Artikel 3.4.3. Minimumeisen vaarbevoegdheidsverlening voor een schipper en een plaatsvervangend schipper van een vissersvaartuig met een scheepslengte van 24 meter of meer die vaart in onbeperkte wateren vissersvaartuigen
 
 Een schipper en een plaatsvervangend schipper van een vissersvaartuig met een scheepslengte van 24 meter of meer die vaart in onbeperkte wateren vissersvaartuigen is in het bezit van een vaarbevoegdheidsbewijs dat ten minste voldoet aan voorschrift II/1 van de bijlage bij het STCW F-verdrag.
 
-#### Artikel 3.4.4. Minimumeisen vaarbevoegdheidsverlening voor een stuurman zeevisvaart van een vissersvaartuig met een scheepslengte van 24 meter of meer die vaart in beperkte wateren vissersvaartuigen
+##### Artikel 3.4.4. Minimumeisen vaarbevoegdheidsverlening voor een stuurman zeevisvaart van een vissersvaartuig met een scheepslengte van 24 meter of meer die vaart in beperkte wateren vissersvaartuigen
 
 Een stuurman zeevisvaart van een vissersvaartuig met een scheepslengte van 24 meter of meer die vaart in beperkte wateren vissersvaartuigen is in het bezit van een vaarbevoegdheidsbewijs dat ten minste voldoet aan voorschrift II/4 van de bijlage bij het STCW F-verdrag.
 
-#### Artikel 3.4.5. Minimumeisen vaarbevoegdheidsverlening voor een schipper en e meteren plaatsvervangend schipper van een vissersvaartuig met een scheepslengte van 24 meter of meer die vaart in beperkte wateren vissersvaartuigen
+##### Artikel 3.4.5. Minimumeisen vaarbevoegdheidsverlening voor een schipper en e meteren plaatsvervangend schipper van een vissersvaartuig met een scheepslengte van 24 meter of meer die vaart in beperkte wateren vissersvaartuigen
 
 Een schipper en een plaatsvervangend schipper van een vissersvaartuig met een scheepslengte van 24 meter of meer die vaart in beperkte wateren vissersvaartuigen is in het bezit van een vaarbevoegdheidsbewijs dat ten minste voldoet aan voorschrift II/3 van de bijlage bij het STCW F-verdrag.
 
-#### Artikel 3.4.6. Minimumeisen vaarbevoegdheidsverlening voor een stuurman zeevisvaart van een vissersvaartuig met een scheepslengte van minder dan 24 meter die vaart in onbeperkte wateren vissersvaartuigen
+##### Artikel 3.4.6. Minimumeisen vaarbevoegdheidsverlening voor een stuurman zeevisvaart van een vissersvaartuig met een scheepslengte van minder dan 24 meter die vaart in onbeperkte wateren vissersvaartuigen
 
 Een stuurman zeevisvaart van een vissersvaartuig met een scheepslengte van minder dan 24 meter die vaart in onbeperkte wateren vissersvaartuigen is in het bezit van een vaarbevoegdheidsbewijs dat ten minste voldoet aan voorschrift II/2 van de bijlage bij het STCW F-verdrag.
 
-#### Artikel 3.4.7. Minimumeisen vaarbevoegdheidsverlening voor een schipper en een plaatsvervangend schipper van een vissersvaartuig met een scheepslengte van minder dan 24 meter die vaart in onbeperkte wateren vissersvaartuigen
+##### Artikel 3.4.7. Minimumeisen vaarbevoegdheidsverlening voor een schipper en een plaatsvervangend schipper van een vissersvaartuig met een scheepslengte van minder dan 24 meter die vaart in onbeperkte wateren vissersvaartuigen
 
 Een schipper en een plaatsvervangend schipper van een vissersvaartuig met een scheepslengte van minder dan 24 meter die vaart in onbeperkte wateren vissersvaartuigen is in het bezit van een vaarbevoegdheidsbewijs dat ten minste voldoet aan voorschrift II/1 van de bijlage bij het STCW F-verdrag.
 
-#### Artikel 3.4.8. Minimumeisen vaarbevoegdheidsverlening voor een stuurman zeevisvaart van een vissersvaartuig met een scheepslengte van minder dan 24 meter die vaart in beperkte wateren vissersvaartuigen
+##### Artikel 3.4.8. Minimumeisen vaarbevoegdheidsverlening voor een stuurman zeevisvaart van een vissersvaartuig met een scheepslengte van minder dan 24 meter die vaart in beperkte wateren vissersvaartuigen
 
 Een stuurman zeevisvaart van een vissersvaartuig met een scheepslengte van minder dan 24 meter die vaart in beperkte wateren vissersvaartuigen is in het bezit van een vaarbevoegdheidsbewijs dat ten minste voldoet aan voorschrift II/4 van de bijlage bij het STCW F-verdrag.
 
-#### Artikel 3.4.9. Minimumeisen vaarbevoegdheidsverlening voor een schipper en een plaatsvervangend schipper van een vissersvaartuig met een scheepslengte van minder dan 24 meter die vaart in beperkte wateren vissersvaartuigen
+##### Artikel 3.4.9. Minimumeisen vaarbevoegdheidsverlening voor een schipper en een plaatsvervangend schipper van een vissersvaartuig met een scheepslengte van minder dan 24 meter die vaart in beperkte wateren vissersvaartuigen
 
 Een schipper en een plaatsvervangend schipper van een vissersvaartuig met een scheepslengte van minder dan 24 meter die vaart in beperkte wateren vissersvaartuigen is in het bezit van een vaarbevoegdheidsbewijs dat ten minste voldoet aan voorschrift II/3 van de bijlage bij het STCW F-verdrag.
 
-#### Artikel 3.4.10. Minimumeisen vaarbevoegdheidsverlening voor een wachtlopend gezel zeevisvaart
+##### Artikel 3.4.10. Minimumeisen vaarbevoegdheidsverlening voor een wachtlopend gezel zeevisvaart
 
 Een wachtlopend gezel zeevisvaart die deel uitmaakt van de brugwacht van een vissersvaartuig is in het bezit van een vaarbevoegdheidsbewijs dat ten minste voldoet aan voorschrift II/4, tweede lid, van de bijlage bij het STCW-verdrag.
 
-#### Artikel 3.4.11. Minimumeisen vaarbevoegdheidsverlening voor een hoofdwerktuigkundige zeevisvaart of tweede werktuigkundige zeevisvaart van een vissersvaartuig met een hoofdvoortstuwingsinstallatie van 3.000 kW voortstuwingsvermogen of meer
+##### Artikel 3.4.11. Minimumeisen vaarbevoegdheidsverlening voor een hoofdwerktuigkundige zeevisvaart of tweede werktuigkundige zeevisvaart van een vissersvaartuig met een hoofdvoortstuwingsinstallatie van 3.000 kW voortstuwingsvermogen of meer
 
 Een hoofdwerktuigkundige zeevisvaart of tweede werktuigkundige zeevisvaart van een vissersvaartuig met een hoofdvoortstuwingsinstallatie van 3.000 kW voortstuwingsvermogen of meer is in het bezit van een vaarbevoegdheidsbewijs dat ten minste voldoet aan voorschrift II/5 van de bijlage bij het STCW F-verdrag.
 
-#### Artikel 3.4.12. Minimumeisen vaarbevoegdheidsverlening voor een hoofdwerktuigkundige zeevisvaart of tweede werktuigkundige zeevisvaart van een vissersvaartuig met een hoofdvoortstuwingsinstallatie van meer dan 750 kW en minder dan 3.000 kW voortstuwingsvermogen
+##### Artikel 3.4.12. Minimumeisen vaarbevoegdheidsverlening voor een hoofdwerktuigkundige zeevisvaart of tweede werktuigkundige zeevisvaart van een vissersvaartuig met een hoofdvoortstuwingsinstallatie van meer dan 750 kW en minder dan 3.000 kW voortstuwingsvermogen
 
 Een hoofdwerktuigkundige zeevisvaart of tweede werktuigkundige zeevisvaart van een vissersvaartuig met een hoofdvoortstuwingsinstallatie van meer dan 750 kW en minder dan 3.000 kW voortstuwingsvermogen is in het bezit van een vaarbevoegdheidsbewijs dat ten minste voldoet aan voorschrift II/5 van de bijlage bij het STCW F-verdrag.
 
-#### Artikel 3.4.13. Minimumeisen vaarbevoegdheidsbewijs stuurman-werktuigkundige zeevisvaart
+##### Artikel 3.4.13. Minimumeisen vaarbevoegdheidsbewijs stuurman-werktuigkundige zeevisvaart
 
 Een stuurman-werktuigkundige zeevisvaart is in het bezit van een vaarbevoegdheidsbewijs stuurman-werktuigkundige zeevisvaart dat ten minste voldoet aan de eisen voor een functie van schipper of stuurman zeevisvaart en een functie als hoofdwerktuigkundige zeevisvaart of tweede werktuigkundige zeevisvaart.
 
-#### Artikel 3.4.14. Uitwerking eisen per vaarbevoegdheidsbewijs
+##### Artikel 3.4.14. Uitwerking eisen per vaarbevoegdheidsbewijs
 
 Bij ministeriële regeling worden voor elke functie, genoemd in deze paragraaf, kennisbewijzen, bekwaamheidsbewijzen, diensttijdvereisten en aanvullende beroepseisen vastgesteld waarmee voldaan wordt aan de voor die functie in [paragraaf 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&hoofdstuk=3&paragraaf=3.4&z=2025-07-01&g=2025-07-01) gestelde minimumeisen en die recht geven op een vaarbevoegdheidsbewijs of bekwaamheidsbewijs voor die functie.
 
 #### Paragraaf 3.5. Aanvullende beroepseisen
 
-#### Artikel 3.5.1. Minimumeisen betreffende veiligheid en instructie over veiligheid
+##### Artikel 3.5.1. Minimumeisen betreffende veiligheid en instructie over veiligheid
 
 1. Een zeevarende die is belast met taken op het gebied van veiligheid of het voorkomen van verontreiniging, van een zeeschip, niet zijnde een vissersvaartuig, krijgt alvorens hij zijn taak aan boord aanvangt instructie in overeenstemming met sectie A-VI/1, paragraaf 1 van de STCW-code en is in het bezit van een bekwaamheidsbewijs basisveiligheid dat ten minste voldoet aan voorschrift VI/1 van bijlage I bij [richtlijn (EU) 2022/993](32022L0993).
 
@@ -840,7 +866,7 @@ Bij ministeriële regeling worden voor elke functie, genoemd in deze paragraaf, 
 
 4. Een bekwaamheidsbewijs basisveiligheid wordt op verzoek vernieuwd indien de houder met tussenpozen van niet meer dan 5 jaar aantoont een passende herhalingstraining te hebben gevolgd.
 
-#### Artikel 3.5.2. Minimumeisen betreffende basistraining in en instructie over veiligheid voor vissers
+##### Artikel 3.5.2. Minimumeisen betreffende basistraining in en instructie over veiligheid voor vissers
 
 1. Een visser van een vissersvaartuig is in het bezit van een bekwaamheidsbewijs basisveiligheid voor vissers dat ten minste voldoet aan voorschrift 1, hoofdstuk III, van de bijlage bij het STCW F-verdrag en artikel 31, onderdeel b, van het C188-verdrag.
 
@@ -874,7 +900,7 @@ Bij ministeriële regeling worden voor elke functie, genoemd in deze paragraaf, 
 
 5. De geldigheidsduur, als bedoeld in het derde lid, is niet van toepassing tot en met 31 december 2029.
 
-#### Artikel 3.5.3. Minimumeisen betreffende het gebruik van reddingmiddelen, hulpverleningsboten en snelle hulpverleningsboten
+##### Artikel 3.5.3. Minimumeisen betreffende het gebruik van reddingmiddelen, hulpverleningsboten en snelle hulpverleningsboten
 
 1. Een kapitein, stuurman, werktuigkundige, officier elektrotechniek, maritiem officier of andere zeevarende belast met het gebruik van reddingmiddelen en hulpverleningsboten, niet zijnde snelle hulpverleningsboten, is in het bezit van een bekwaamheidsbewijs reddingmiddelen dat ten minste voldoet aan voorschrift VI/2, eerste lid, van bijlage I bij [richtlijn (EU) 2022/993](32022L0993).
 
@@ -886,7 +912,7 @@ Bij ministeriële regeling worden voor elke functie, genoemd in deze paragraaf, 
 
 5. Het derde en vierde lid zijn niet van toepassing op vissers.
 
-#### Artikel 3.5.4. Minimumeisen betreffende gevorderde brandbestrijdingstechnieken
+##### Artikel 3.5.4. Minimumeisen betreffende gevorderde brandbestrijdingstechnieken
 
 1. Een kapitein, stuurman, werktuigkundige, officier elektrotechniek, maritiem officier of andere zeevarende die is aangewezen om leiding te geven aan brandbestrijdingsoperaties aan boord van een zeeschip is in het bezit van een bekwaamheidsbewijs brandbestrijding voor gevorderden dat ten minste voldoet aan voorschrift VI/3, eerste lid, van bijlage I bij [richtlijn (EU) 2022/993](32022L0993).
 
@@ -896,7 +922,7 @@ Bij ministeriële regeling worden voor elke functie, genoemd in deze paragraaf, 
 
 4. Het tweede en derde lid zijn niet van toepassing op vissers.
 
-#### Artikel 3.5.5. Minimumeisen betreffende medische eerste hulp en medische verzorging
+##### Artikel 3.5.5. Minimumeisen betreffende medische eerste hulp en medische verzorging
 
 1. Een kapitein of zeevarende die is aangewezen om eerste hulp te verlenen aan boord van een zeeschip is in het bezit van een bekwaamheidsbewijs medische eerste hulp dat ten minste voldoet aan voorschrift VI/4, eerste lid, van bijlage I bij [richtlijn (EU) 2022/993](32022L0993) en [richtlijn 92/29/EEG](31992L0029).
 
@@ -904,7 +930,7 @@ Bij ministeriële regeling worden voor elke functie, genoemd in deze paragraaf, 
 
 3. Een bekwaamheidsbewijs als bedoeld in het eerste en tweede lid is geldig tot ten hoogste 5 jaar na de datum van afgifte.
 
-#### Artikel 3.5.6. Minimumeisen betreffende veiligheidsofficieren van een zeeschip
+##### Artikel 3.5.6. Minimumeisen betreffende veiligheidsofficieren van een zeeschip
 
 1. Een zeevarende die is aangesteld als scheepsbeveiligingsfunctionaris is in het bezit van een bekwaamheidsbewijs scheepsbeveiligingsfunctionaris dat ten minste voldoet aan voorschrift VI/5, eerste lid, van bijlage I, bij [richtlijn (EU) 2022/993](32022L0993).
 
@@ -926,17 +952,17 @@ Bij ministeriële regeling worden voor elke functie, genoemd in deze paragraaf, 
 
 7. Het eerste tot en met zesde lid zijn niet van toepassing op vissers.
 
-#### Artikel 3.5.7. Uitwerking eisen per aanvullende beroepseis
+##### Artikel 3.5.7. Uitwerking eisen per aanvullende beroepseis
 
 Bij ministeriële regeling worden voor elke beroepseis genoemd in deze paragraaf bekwaamheidsbewijzen, schriftelijke bewijzen of diensttijdvereisten vastgesteld waarmee voldaan wordt aan de voor die beroepseis gestelde minimumeisen en die recht geven op een vaarbevoegdheidsbewijs of bekwaamheidsbewijs voor de betreffende aanvullende beroepseis.
 
 #### Paragraaf 3.6. Nadere regels medische geschiktheid zeevarenden
 
-#### Artikel 3.6.1. Model van de geneeskundige verklaring zeevaart
+##### Artikel 3.6.1. Model van de geneeskundige verklaring zeevaart
 
 Bij ministeriële regeling wordt het model van de geneeskundige verklaring zeevaart vastgesteld.
 
-#### Artikel 3.6.2. Medisch onderzoek
+##### Artikel 3.6.2. Medisch onderzoek
 
 1. Ten behoeve van de afgifte van een geneeskundige verklaring zeevaart als bedoeld in [artikel 31, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=31) wordt de zeevarende aan een medisch onderzoek onderworpen door een aangewezen of erkende keuringsarts.
 
@@ -948,7 +974,7 @@ Bij ministeriële regeling wordt het model van de geneeskundige verklaring zeeva
 
 5. De in dit besluit bedoelde onderzoeken worden verricht door geneeskundigen die niet de behandelend arts of specialist van de zeevarende zijn.
 
-#### Artikel 3.6.3. Medische eisen geneeskundige verklaring zeevaart
+##### Artikel 3.6.3. Medische eisen geneeskundige verklaring zeevaart
 
 1. Bij ministeriële regeling worden de medische eisen vastgesteld waaraan een zeevarende moet voldoen om in aanmerking te komen voor een geneeskundige verklaring zeevaart.
 
@@ -958,7 +984,7 @@ Bij ministeriële regeling wordt het model van de geneeskundige verklaring zeeva
 
 4. In afwijking van het eerste lid kan Onze Minister aan een zeevarende ontheffing verlenen van één van de medische eisen indien naar zijn oordeel het niet voldoen aan die medische eis de veiligheid niet nadelig beïnvloedt.
 
-#### Artikel 3.6.4. Geldigheidsduur geneeskundige verklaring zeevaart
+##### Artikel 3.6.4. Geldigheidsduur geneeskundige verklaring zeevaart
 
 1. Een geneeskundige verklaring zeevaart wordt afgegeven met een geldigheidsduur van ten hoogste twee jaar dan wel een jaar indien het een verklaring met betrekking tot een persoon onder de leeftijd van achttien jaar betreft.
 
@@ -966,7 +992,7 @@ Bij ministeriële regeling wordt het model van de geneeskundige verklaring zeeva
 
 3. De keuringsarts kan voorts een geneeskundige verklaring zeevaart afgeven voor een beperkt vaargebied dan wel met andere in die verklaring te vermelden beperkingen.
 
-#### Artikel 3.6.5. Verklaring keuringsarts
+##### Artikel 3.6.5. Verklaring keuringsarts
 
 1. De keuringsarts kan de gekeurde zeevarende tijdelijk of blijvend ongeschikt voor de zeevaart verklaren.
 
@@ -976,11 +1002,11 @@ Bij ministeriële regeling wordt het model van de geneeskundige verklaring zeeva
 
 - b. blijvend ongeschikt, indien op medische gronden wordt verwacht dat hij langer dan drie jaar voor de zeevaart ongeschikt zal zijn.
 
-#### Artikel 3.6.6. Werkwijze keuringsarts
+##### Artikel 3.6.6. Werkwijze keuringsarts
 
 De keuringsarts die het onderzoek uitvoert, neemt de in [artikel 3.6.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&hoofdstuk=3&paragraaf=3.6&artikel=3.6.3&z=2025-07-01&g=2025-07-01), bedoelde medische eisen, de in artikel 3.6.3, tweede lid, bedoelde procedures en andere voorschriften, en voor zover van toepassing, de [artikelen 3.6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&hoofdstuk=3&paragraaf=3.6&artikel=3.6.4&z=2025-07-01&g=2025-07-01) en [3.6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&hoofdstuk=3&paragraaf=3.6&artikel=3.6.5&z=2025-07-01&g=2025-07-01) in acht.
 
-#### Artikel 3.6.7. Aanwijzing of erkenning keuringsarts
+##### Artikel 3.6.7. Aanwijzing of erkenning keuringsarts
 
 1. Een geneeskundige kan Onze Minister verzoeken hem aan te wijzen of te erkennen als keuringsarts op grond van [artikel 31, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=31). Bij het verzoek wordt registratie als arts als bedoeld in [artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3), aangetoond.
 
@@ -996,7 +1022,7 @@ De keuringsarts die het onderzoek uitvoert, neemt de in [artikel 3.6.3, eerste l
 
 7. Bij ministeriële regeling worden nadere regels gesteld met betrekking tot de aanwijzing en de erkenning van geneeskundigen als keurend arts voor de scheepvaart.
 
-#### Artikel 3.6.8. Intrekken aanwijzing of erkenning keuringsarts of medisch scheidsrechter
+##### Artikel 3.6.8. Intrekken aanwijzing of erkenning keuringsarts of medisch scheidsrechter
 
 Onze Minister trekt een aanwijzing of erkenning in indien de keuringsarts of medisch scheidsrechter:
 
@@ -1020,7 +1046,7 @@ Onze Minister trekt een aanwijzing of erkenning in indien de keuringsarts of med
 
 - j. heeft verzuimd een voor hem aangewezen nascholingscursus te volgen.
 
-#### Artikel 3.6.9. Geneeskundige verklaring zeevaart op basis ander onderzoek
+##### Artikel 3.6.9. Geneeskundige verklaring zeevaart op basis ander onderzoek
 
 1. De Medisch Adviseur Scheepvaart kan op verzoek aan een zeevarende die in het bezit is van een verklaring die gebaseerd is op een ander medisch geneeskundig onderzoek dan bedoeld in [artikel 3.6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&hoofdstuk=3&paragraaf=3.6&artikel=3.6.2&z=2025-07-01&g=2025-07-01), eerste lid, een geneeskundige verklaring zeevaart afgeven.
 
@@ -1034,7 +1060,7 @@ Onze Minister trekt een aanwijzing of erkenning in indien de keuringsarts of med
 
 #### Paragraaf 4.1. Accommodatie, voeding en overige voorzieningen voor zeevarenden
 
-#### Artikel 4.1.1. Voeding en drinkwater
+##### Artikel 4.1.1. Voeding en drinkwater
 
 1. De scheepsbeheerder voorziet de zeevarenden aan boord van een zeeschip kosteloos van voeding en drinkwater van voldoende hoeveelheid, kwaliteit, voedingswaarde en variëteit en rekening houdend met godsdienstige voorschriften en culturele gebruiken, in overeenstemming met de daaraan bij ministeriële regeling gestelde voorschriften.
 
@@ -1046,7 +1072,7 @@ Onze Minister trekt een aanwijzing of erkenning in indien de keuringsarts of med
 
 #### Paragraaf 4.2. Certificaat maritieme arbeid en visserij-arbeidscertificaat
 
-#### Artikel 4.2.1. Afgifte en voorschriften certificaat maritieme arbeid
+##### Artikel 4.2.1. Afgifte en voorschriften certificaat maritieme arbeid
 
 1. Bij ministeriële regeling worden regels gesteld met betrekking tot:
 
@@ -1068,7 +1094,7 @@ Onze Minister trekt een aanwijzing of erkenning in indien de keuringsarts of med
 
 3. Het bepaalde bij of krachtens dit artikel is niet van toepassing op vissersvaartuigen.
 
-#### Artikel 4.2.2. Vervallen of intrekken certificaat maritieme arbeid
+##### Artikel 4.2.2. Vervallen of intrekken certificaat maritieme arbeid
 
 1. Een certificaat maritieme arbeid vervalt, indien:
 
@@ -1094,7 +1120,7 @@ Onze Minister trekt een aanwijzing of erkenning in indien de keuringsarts of med
 
 4. De scheepsbeheerder zendt een vervallen of ingetrokken certificaat, niet zijnde een geautomatiseerd bestand, zo spoedig mogelijk aan Onze Minister.
 
-#### Artikel 4.2.3. Afgifte en voorschriften visserij-arbeidscertificaat
+##### Artikel 4.2.3. Afgifte en voorschriften visserij-arbeidscertificaat
 
 1. Een visserij-arbeidscertificaat wordt afgegeven indien wordt voldaan aan artikel 41 van het C188-verdrag.
 
@@ -1104,7 +1130,7 @@ Onze Minister trekt een aanwijzing of erkenning in indien de keuringsarts of med
 
 ### Hoofdstuk 5. Tuchtrechtspraak
 
-#### Artikel 5.1. Ervaringseisen leden tuchtcollege
+##### Artikel 5.1. Ervaringseisen leden tuchtcollege
 
 1. De voorzitter en de plaatsvervangende voorzitters als bedoeld in [artikel 42, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=42) zijn personen:
 
@@ -1126,7 +1152,7 @@ Onze Minister trekt een aanwijzing of erkenning in indien de keuringsarts of med
 
 - d. twee hydrografen.
 
-#### Artikel 5.2. Ervaringseisen van de secretaris en plaatsvervangende secretarissen tuchtcollege
+##### Artikel 5.2. Ervaringseisen van de secretaris en plaatsvervangende secretarissen tuchtcollege
 
 1. De secretaris en de plaatsvervangende secretarissen zijn personen:
 
@@ -1134,7 +1160,7 @@ Onze Minister trekt een aanwijzing of erkenning in indien de keuringsarts of med
 
 - b. die op grond van het afsluitend examen van een opleiding op het gebied van het recht aan een universiteit dan wel de Open Universiteit, waarop de Wet op het hoger onderwijs en wetenschappelijk onderzoek betrekking heeft, het recht heeft verkregen om de titel meester te voeren.
 
-#### Artikel 5.3. Aanhangig maken klacht
+##### Artikel 5.3. Aanhangig maken klacht
 
 Een verzoek of een klacht wordt schriftelijk of als geautomatiseerd bestand en met redenen omkleed ingediend bij de voorzitter van het tuchtcollege. Een klacht van een belanghebbende vermeldt de naam, het adres en de woonplaats van de klager. Een verzoek en een klacht bevatten voorts ten minste de volgende gegevens:
 
@@ -1146,7 +1172,7 @@ Een verzoek of een klacht wordt schriftelijk of als geautomatiseerd bestand en m
 
 - d. de bezwaren die tegen de gewraakte gedraging zijn gerezen.
 
-#### Artikel 5.4. Verzending beslissing tuchtcollege
+##### Artikel 5.4. Verzending beslissing tuchtcollege
 
 1. De secretaris zendt onverwijld een afschrift van de beslissing van het tuchtcollege:
 
@@ -1162,59 +1188,59 @@ Een verzoek of een klacht wordt schriftelijk of als geautomatiseerd bestand en m
 
 #### Paragraaf 6.1. Overgangsbepalingen handelsvaart
 
-#### Artikel 6.1.1
+##### Artikel 6.1.1
 
 Een verklaring als bedoeld in [artikel 123, eerste lid, van het Besluit zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0012778&artikel=123) die door de scheepsbeheerder is opgesteld voor de inwerkingtreding van de [Wet bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050681), geldt als een verklaring als bedoeld in [artikel 2.4.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&hoofdstuk=2&paragraaf=2.4&artikel=2.4.7&z=2025-07-01&g=2025-07-01).
 
 #### Paragraaf 6.2. Overgangsbepalingen zeevisvaart
 
-#### Artikel 6.2.1
+##### Artikel 6.2.1
 
 In deze paragraaf wordt onder «besluit van 31 januari 2019» verstaan: Besluit van 31 januari 2019 tot wijziging van het [Besluit zeevarenden handelsvaart en zeilvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0012778) in verband met een modernisering van de bemanningsvoorschriften voor de zeevisvaart, met inbegrip van de uitvoering van verdragsbepalingen vanwege de ratificatie van het STCW F-verdrag (Stb. 2019, 44).
 
-#### Artikel 6.2.2
+##### Artikel 6.2.2
 
 Een op grond van [artikel 125ff van het Besluit van 31 januari 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0012778&artikel=125ff) met een certificaat basisveiligheid voor vissers als bedoeld in [artikel 40a van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012778&artikel=40a) gelijkgesteld certificaat geldt als een bekwaamheidsbewijs basisveiligheid voor vissers als bedoeld in [artikel 3.5.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&hoofdstuk=3&paragraaf=3.5&artikel=3.5.2&z=2025-07-01&g=2025-07-01).
 
-#### Artikel 6.2.3
+##### Artikel 6.2.3
 
 Een op grond van [artikel 125gg van het Besluit van 31 januari 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0012778&artikel=125gg) met het in de [artikelen 40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012778&artikel=40), en [117a, eerste en tweede lid, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012778&artikel=117a) genoemde certificaat reddingmiddel gelijkgesteld certificaat geldt, voor zover het een visser betreft, als een bekwaamheidsbewijs reddingmiddelen als bedoeld in [artikel 3.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&hoofdstuk=3&paragraaf=3.4&artikel=3.4.2&z=2025-07-01&g=2025-07-01).
 
-#### Artikel 6.2.4
+##### Artikel 6.2.4
 
 Een op grond van [artikel 125ii van het Besluit van 31 januari 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0012778&artikel=125ii) met een bekwaamheidsbewijs scheepskok als bedoeld in [artikel 120, tweede lid, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012778&artikel=120) gelijkgesteld diploma geldt, voor zover het een visser betreft, als een bekwaamheidsbewijs scheepskok als bedoeld in [artikel 2.4.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&hoofdstuk=2&paragraaf=2.4&artikel=2.4.4&z=2025-07-01&g=2025-07-01).
 
 #### Paragraaf 6.3. Slotbepalingen
 
-#### Artikel 6.3.1
+##### Artikel 6.3.1
 
 Het [Besluit zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0012778) en het [Schepelingenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0001985) worden ingetrokken.
 
-#### Artikel 6.3.2
+##### Artikel 6.3.2
 
 Wijzigt het Arbeidsomstandighedenbesluit.
 
-#### Artikel 6.3.3
+##### Artikel 6.3.3
 
 Wijzigt het Arbeidstijdenbesluit vervoer.
 
-#### Artikel 6.3.4
+##### Artikel 6.3.4
 
 Wijzigt het Besluit opleidingen en bevoegdheden nautische beroepsbeoefenaren.
 
-#### Artikel 6.3.5
+##### Artikel 6.3.5
 
 Wijzigt het Besluit markttoezicht registerloodsen.
 
-#### Artikel 6.3.6
+##### Artikel 6.3.6
 
 Wijzigt het Besluit register onderwijsdeelnemers.
 
-#### Artikel 6.3.7
+##### Artikel 6.3.7
 
 Dit besluit treedt in werking op het tijdstip waarop de [Wet bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050681) inwerking treedt.
 
-#### Artikel 6.3.8
+##### Artikel 6.3.8
 
 Dit besluit wordt aangehaald als: Besluit bemanning zeeschepen.
 

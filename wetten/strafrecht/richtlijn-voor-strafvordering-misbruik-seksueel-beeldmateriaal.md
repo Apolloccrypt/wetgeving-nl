@@ -1,13 +1,35 @@
 ---
 title: "Richtlijn voor strafvordering misbruik seksueel beeldmateriaal"
 identifier: "BWBR0044445"
-categorie: "Strafrecht"
-publicatiedatum: 2020-12-03
-laatste_update: 2020-12-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044445"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2020-12-03"
+last_updated: "2020-12-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044445"
+soort: "beleidsregel"
+stam_id: "15737783"
+version_id: "27268122"
+internal_id: "C38526091"
+label_id: "15676454"
+dtd_version: "2.0"
+original_entry_into_force: "2020-12-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044445/2020-12-03/0"
+intitule_bron: "Stcrt.2020-62637"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2020-12-03"
+intitule_in_force: "2020-12-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-62637"
+original_published_date: "2020-12-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-62637"
+entry_into_force_date: "2020-12-03"
+jci_1_3: "jci1.3:c:BWBR0044445&z=2020-12-03&g=2020-12-03"
+jci_1_0: "1.0:c:BWBR0044445&g=2020-12-03"
+citeertitel_status: "redactioneel"
+entry_into_force: "2020-12-03"
 ---
-
 # Richtlijn voor strafvordering misbruik seksueel beeldmateriaal
 
 ### Beschrijving

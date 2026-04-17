@@ -1,13 +1,39 @@
 ---
-title: "Eindejaarsbesluit 2025"
+title: "Besluit van 19 december 2025 tot wijziging van enige uitvoeringsbesluiten op het gebied van de belastingen en enige andere besluiten (Eindejaarsbesluit 2025)"
 identifier: "BWBR0052072"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052072"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052072"
+soort: "AMvB"
+stam_id: "17706413"
+version_id: "31251062"
+internal_id: "C44690051"
+label_id: "17605294"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052072/2026-01-01/0"
+intitule_bron: "Stb.2025-451"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-12-19"
+intitule_published: "2025-12-23"
+intitule_in_force: "2025-12-23"
+intitule_status: "goed"
+original_publication: "Stb.2025-451"
+original_signed_date: "2025-12-19"
+original_published_date: "2025-12-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2025-451"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0052072&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0052072&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Eindejaarsbesluit 2025"
+signed_date: "2025-12-19"
+entry_into_force: "2026-01-01"
 ---
-
 # Besluit van 19 december 2025 tot wijziging van enige uitvoeringsbesluiten op het gebied van de belastingen en enige andere besluiten (Eindejaarsbesluit 2025)
 
 Op de voordracht van de Staatssecretaris van Financiën van 28 november 2025, nr. 2025002779;
@@ -20,55 +46,55 @@ Gezien het nader rapport van de Staatssecretaris van Financiën van 18 december 
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Uitvoeringsbesluit inkomstenbelasting 2001.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Uitvoeringsbesluit loonbelasting 1965.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Uitvoeringbesluit minimumbelasting 2024.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het Uitvoeringsbesluit Successiewet 1956.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Uitvoeringsbesluit omzetbelasting 1968.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt het Uitvoeringsbesluit motorrijtuigenbelasting 1994.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt het Uitvoeringsbesluit motorrijtuigenbelasting 1994.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt het Uitvoeringsbesluit belastingen op milieugrondslag.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt het Uitvoeringsbesluit belastingen op milieugrondslag.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt het Uitvoeringsbesluit Algemene wet inzake rijksbelastingen 1964.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt het Uitvoeringsbesluit Algemene wet inzake rijksbelastingen 1964.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt het Besluit voorkoming dubbele belasting 2001.
 
-#### Artikel XIII
+##### Artikel XIII
 
 1. Dit besluit treedt in werking met ingang van 1 januari 2026, met dien verstande dat:
 
@@ -86,7 +112,7 @@ Wijzigt het Besluit voorkoming dubbele belasting 2001.
 
 3. In afwijking van het eerste lid treedt [artikel X, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0052072&artikel=X&z=2026-01-01&g=2026-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende rijksbelastingen waarop het inzagerecht betrekking heeft verschillend kan worden vastgesteld.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Dit besluit wordt aangehaald als: Eindejaarsbesluit 2025.
 

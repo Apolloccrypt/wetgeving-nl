@@ -1,32 +1,54 @@
 ---
 title: "Deelregeling Kunst Erfgoed Presentatie"
 identifier: "BWBR0051140"
-categorie: "Overig"
-publicatiedatum: 2025-08-03
-laatste_update: 2025-08-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051140"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-08-03"
+last_updated: "2025-08-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051140"
+soort: "zbo"
+stam_id: "17453533"
+version_id: "30780702"
+internal_id: "C44121321"
+label_id: "17356384"
+dtd_version: "2.0"
+original_entry_into_force: "2025-08-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051140/2025-08-03/0"
+intitule_bron: "Stcrt.2025-21324"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2025-06-25"
+intitule_in_force: "2025-06-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-21324"
+original_published_date: "2025-06-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-21324"
+entry_into_force_date: "2025-08-03"
+jci_1_3: "jci1.3:c:BWBR0051140&z=2025-08-03&g=2025-08-03"
+jci_1_0: "1.0:c:BWBR0051140&g=2025-08-03"
+citeertitel_status: "officieel"
+entry_into_force: "2025-08-03"
 ---
-
 # Deelregeling Kunst Erfgoed Presentatie
 
 Gelet op [artikel 10, lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
 
 Besluit:
 
-#### Artikel 1. Doel
+##### Artikel 1. Doel
 
 Het doel van deze regeling is het stimuleren van bijzondere presentaties van instellingen op het gebied van beeldende kunst en/of cultureel erfgoed. Daarvoor kan het fonds bijdragen verstrekken voor tentoonstellingen en andere presentatievormen die het gangbare overstijgen, op aansprekende wijze publiek betrekken, en die binnen de eigen context relevant zijn voor de hedendaagse beeldende kunst en/of cultureel erfgoed in Nederland en/of het Caribisch deel van het Koninkrijk.
 
-#### Artikel 2. Doelgroep
+##### Artikel 2. Doelgroep
 
 De bijdrage kan worden aangevraagd door culturele instellingen of een collectief van instellingen met rechtspersoonlijkheid in Nederland en het Caribisch deel van het Koninkrijk die gericht zijn op het presenteren van cultureel erfgoed en/of beeldende kunst, zonder winstoogmerk en/of verkoopdoel.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Er kan worden aangevraagd voor presentaties die het gangbare overstijgen, op aansprekende wijze publiek betrekken, die binnen de eigen context relevant zijn voor de hedendaagse beeldende kunst en/of cultureel erfgoed in Nederland en/of het Caribisch deel van het Koninkrijk, in Nederland en/of het Caribisch deel van het Koninkrijk plaatsvinden en voor publiek toegankelijk zijn.
 
-#### Artikel 4. Hoogte en vorm bijdrage
+##### Artikel 4. Hoogte en vorm bijdrage
 
 1. De hoogte van de bijdrage wordt per aanvraag vastgesteld.
 
@@ -34,7 +56,7 @@ Er kan worden aangevraagd voor presentaties die het gangbare overstijgen, op aan
 
 3. De minimale begroting van het project moet hoger zijn dan € 25.000 en mag alleen projectgerelateerde kosten bevatten.
 
-#### Artikel 5. Weigeringsgronden
+##### Artikel 5. Weigeringsgronden
 
 1. Geen bijdrage kan worden aangevraagd voor activiteiten die erop gericht zijn winst te maken en/of een verkoopdoel hebben.
 
@@ -46,7 +68,7 @@ Er kan worden aangevraagd voor presentaties die het gangbare overstijgen, op aan
 
 5. Geen bijdrage wordt verleend als een aanvraag lager dan een voldoende wordt beoordeeld op het beoordelingscriterium ‘Niet-gangbare presentatie’.
 
-#### Artikel 6. Aanvraag
+##### Artikel 6. Aanvraag
 
 1. Naast de bepalingen vastgesteld in het [Algemeen Reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0044527), in het aanvraagformulier en in de toelichting daarop, dient de aanvraag vergezeld te gaan van een:
 
@@ -72,7 +94,7 @@ Er kan worden aangevraagd voor presentaties die het gangbare overstijgen, op aan
 
 2. Bij de feitelijke gegevens van de instelling motiveert de aanvrager de keuze om binnen de categorie (boven)regionaal of de categorie (inter)nationaal aan te vragen als bedoeld in [artikel 7 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051140&artikel=7&z=2025-08-03&g=2025-08-03), aan te vragen.
 
-#### Artikel 7. Beoordeling
+##### Artikel 7. Beoordeling
 
 1. Bij de beoordeling van een aanvraag geeft het bevoegd adviesorgaan een oordeel over het gangbare overstijgen, op aansprekende wijze betrekken van publiek betrekken, en de relevantie binnen (de eigen context) voor de hedendaagse beeldende kunst en/of cultureel erfgoed in Nederland en/of het Caribisch deel van het Koninkrijk.
 
@@ -108,7 +130,7 @@ In hoeverre blijkt uit de aanvraag dat er sprake is van een presentatie die voor
 
 8. Subsidie wordt toegekend aan aanvragen die positief zijn beoordeeld totdat het subsidieplafond is bereikt.
 
-#### Artikel 8. Hardheidsclausule
+##### Artikel 8. Hardheidsclausule
 
 Het bestuur kan, gelet op het belang dat deze regeling beoogt te beschermen, artikelen of onderdelen
 
@@ -116,19 +138,19 @@ daarvan buiten toepassing laten of daarvan afwijken voor zover strikte toepassin
 
 onbillijkheid van overwegende aard.
 
-#### Artikel 9. Overig
+##### Artikel 9. Overig
 
 In alle gevallen waarin dit reglement niet voorziet, beslist het bestuur.
 
-#### Artikel 10. Overgangsbepaling
+##### Artikel 10. Overgangsbepaling
 
 De [Deelregeling Kunst / Erfgoed presentatie](https://wetten.overheid.nl/jci1.3:c:BWBR0044547), gepubliceerd in Stcrt. 2020, 62365, komt te vervallen. Op aanvragen die op grond van deze versie van de Deelregeling Kunst/ Erfgoed Presentatie voor 3 augustus 2025 zijn ingediend, blijven die regeling en het [Algemeen Reglement Mondriaan Fonds 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044527) van toepassing
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 Deze regeling treedt in werking op 3 augustus 2025.
 
-#### Artikel 12. Citeertitel
+##### Artikel 12. Citeertitel
 
 Deze regeling wordt aangehaald als: Deelregeling Kunst Erfgoed Presentatie.
 

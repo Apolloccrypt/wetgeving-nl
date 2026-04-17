@@ -1,13 +1,38 @@
 ---
 title: "Loonheffingen, wijziging beloningen; cafetariaregelingen"
 identifier: "BWBR0040428"
-categorie: "Bestuursrecht"
-publicatiedatum: 2017-12-23
-laatste_update: 2017-12-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040428"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2017-12-23"
+last_updated: "2017-12-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040428"
+soort: "beleidsregel"
+stam_id: "14460683"
+version_id: "24734832"
+internal_id: "C35539131"
+label_id: "14421244"
+dtd_version: "2.0"
+original_entry_into_force: "2017-12-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040428/2017-12-23/0"
+intitule_bron: "Stcrt.2017-71047"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-12-12"
+intitule_published: "2017-12-22"
+intitule_in_force: "2017-12-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-71047"
+original_signed_date: "2017-12-12"
+original_published_date: "2017-12-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-71047"
+entry_into_force_date: "2017-12-23"
+jci_1_3: "jci1.3:c:BWBR0040428&z=2017-12-23&g=2017-12-23"
+jci_1_0: "1.0:c:BWBR0040428&g=2017-12-23"
+citeertitel_status: "redactioneel"
+signed_date: "2017-12-12"
+entry_into_force: "2017-12-23"
 ---
-
 # Loonheffingen, wijziging beloningen; cafetariaregelingen
 
 De Staatssecretaris van Financiën heeft het volgende besloten.

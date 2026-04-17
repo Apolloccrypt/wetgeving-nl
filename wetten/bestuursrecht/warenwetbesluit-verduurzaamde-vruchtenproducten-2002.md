@@ -1,13 +1,39 @@
 ---
-title: "Warenwetbesluit Verduurzaamde vruchtenproducten 2002"
+title: "Besluit van 20 augustus 2002, houdende het Warenwetbesluit Verduurzaamde vruchtenproducten 2002"
 identifier: "BWBR0013972"
-categorie: "Bestuursrecht"
-publicatiedatum: 2017-07-01
-laatste_update: 2017-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013972"
+country: "nl"
+rank: "amvb"
+publication_date: "2017-07-01"
+last_updated: "2017-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013972"
+soort: "AMvB"
+stam_id: "3106623"
+version_id: "4804242"
+internal_id: "C5012041"
+label_id: "3071134"
+dtd_version: "2.0"
+original_entry_into_force: "2004-07-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013972/2017-07-01/0"
+intitule_bron: "Stb.2002-444"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-08-20"
+intitule_published: "2002-09-03"
+intitule_in_force: "2002-09-03"
+intitule_status: "goed"
+original_publication: "Stb.2002-444"
+original_signed_date: "2002-08-20"
+original_published_date: "2002-09-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2002-444"
+entry_into_force_date: "2004-07-12"
+jci_1_3: "jci1.3:c:BWBR0013972&z=2017-07-01&g=2017-07-01"
+jci_1_0: "1.0:c:BWBR0013972&g=2017-07-01"
+citeertitel_status: "officieel"
+short_title: "Warenwetbesluit Verduurzaamde vruchtenproducten 2002"
+signed_date: "2002-08-20"
+entry_into_force: "2004-07-12"
 ---
-
 # Besluit van 20 augustus 2002, houdende het Warenwetbesluit Verduurzaamde vruchtenproducten 2002
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 12 juli 2002, VGB/VL 2300053, gedaan in overeenstemming met Onze Ministers van Landbouw, Natuurbeheer en Visserij, van Economische Zaken, en van Justitie;
@@ -24,7 +50,7 @@ Treedt in werking voor zover het betrekking heeft op eet- en drinkwaren die vold
 
 #### § 1:. algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit wordt verstaan onder:
 
@@ -74,7 +100,7 @@ Treedt in werking voor zover het betrekking heeft op eet- en drinkwaren die vold
 
 2. Dit besluit is niet van toepassing op waren, bestemd voor de bereiding van fijn bakkerswerk, banketbakkerswerk en biscuits.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het is verboden de bij dit besluit bedoelde eet- en drinkwaren te verhandelen anders dan met inachtneming van de voorschriften, bij dit besluit gesteld met betrekking tot hun aanduiding.
 
@@ -84,7 +110,7 @@ Treedt in werking voor zover het betrekking heeft op eet- en drinkwaren die vold
 
 #### § 2:. bereiding en samenstelling
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een krachtens § 3 aangeduide waar is slechts verkregen uit vruchten, vruchtenpulp, pulp, vruchtenmoes, moes, waterig vruchtenextract of waterig extract, die uitsluitend de volgende behandelingen mogen hebben ondergaan, met inachtneming van de daarbij vermelde voorschriften:
 
@@ -100,7 +126,7 @@ Treedt in werking voor zover het betrekking heeft op eet- en drinkwaren die vold
 
 3. Schillen van citrusvruchten mogen in pekel worden geconserveerd.
 
-#### Artikel 4
+##### Artikel 4
 
 De hoeveelheid pulp of moes, gebruikt voor de bereiding van 1000 g van de voor consumptiegerede als **jam** of **confituur**aangeduide waar, bedraagt ten minste:
 
@@ -114,7 +140,7 @@ De hoeveelheid pulp of moes, gebruikt voor de bereiding van 1000 g van de voor c
 
 - e. 350 g voor andere vruchten.
 
-#### Artikel 5
+##### Artikel 5
 
 De hoeveelheid pulp, gebruikt voor de bereiding van 1000 g van de voor consumptiegerede als **extra jam** of **extra confituur** aangeduide waar, bedraagt ten minste:
 
@@ -128,19 +154,19 @@ De hoeveelheid pulp, gebruikt voor de bereiding van 1000 g van de voor consumpti
 
 - e. 450 g voor andere vruchten.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De hoeveelheid sap of waterig extract, gebruikt voor de bereiding van 1000 g van de voor consumptiegerede als **gelei** aangeduide waar, is niet kleiner dan de hoeveelheid die is vastgesteld voor de bereiding van een als **jam** of **confituur aangeduide waar.**
 
 2. De in het eerste lid bedoelde hoeveelheden worden berekend na aftrek van de voor de bereiding van de waterige extracten gebruikte hoeveelheid water.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De hoeveelheid vruchtensap of waterig extract, gebruikt voor de bereiding van 1000 g van de voor consumptie gerede als **extra gelei** aangeduide waar, is niet kleiner dan de hoeveelheid die is vastgesteld voor de bereiding van een als **extra jam** of **extra confituur** aangeduide waar.
 
 2. De in het eerste lid bedoelde hoeveelheden worden berekend na aftrek van de voor de bereiding van de waterige extracten gebruikte hoeveelheid water.
 
-#### Artikel 8
+##### Artikel 8
 
 Bij de bereiding van een als **extra jam** , **extra confituur** of **extra gelei** aangeduide waar worden de volgende vruchten telkens slechts gebruikt indien zij niet vermengd zijn met andere vruchten:
 
@@ -162,69 +188,69 @@ Bij de bereiding van een als **extra jam** , **extra confituur** of **extra gele
 
 - i. tomaten.
 
-#### Artikel 9
+##### Artikel 9
 
 De hoeveelheid citrusvruchten, gebruikt voor de bereiding van 1000 g van de voor consumptiegerede als **marmelade** aangeduide waar, bedraagt ten minste 200 g, waarvan ten minste 75 g afkomstig is van het endocarpium.
 
-#### Artikel 10
+##### Artikel 10
 
 De hoeveelheid kastanjemoes van Castanea sativa, aanwezig in 1000 g van de voor consumptiegerede als **kastanjepasta** aangeduide waar, bedraagt ten minste 380 g.
 
-#### Artikel 11
+##### Artikel 11
 
 Voor mengsels worden de in deze paragraaf voor de verschillende vruchtensoorten voorgeschreven minimumgehalten verminderd naar evenredigheid van de gebruikte percentages.
 
-#### Artikel 12
+##### Artikel 12
 
 Aan een krachtens § 3 aangeduide waar mogen uitsluitend de in de bijlage bedoelde eet- en drinkwaren worden toegevoegd, met inachtneming van de daarbij vermelde voorschriften.
 
-#### Artikel 13
+##### Artikel 13
 
 Het refractometrisch bepaalde gehalte aan oplosbare droge stof van een krachtens [§ 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013972&paragraaf=3&z=2017-07-01&g=2017-07-01) aangeduide waar, met uitzondering van waren waarin de suikers geheel of gedeeltelijk zijn vervangen door zoetstoffen, bedraagt ten minste 55%.
 
 #### § 3:. aanduiding
 
-#### Artikel 14
+##### Artikel 14
 
 De aanduiding **jam** of **confituur** mag uitsluitend en moet worden gebezigd voor jam.
 
-#### Artikel 15
+##### Artikel 15
 
 De aanduiding **extra jam** of **extra confituur** mag uitsluitend en moet worden gebezigd voor extra jam.
 
-#### Artikel 16
+##### Artikel 16
 
 De aanduiding **gelei** mag uitsluitend en moet worden gebezigd voor gelei.
 
-#### Artikel 17
+##### Artikel 17
 
 De aanduiding **extra gelei** mag uitsluitend en moet worden gebezigd voor gelei die is bereid met inachtneming van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0013972&paragraaf=2&artikel=7&z=2017-07-01&g=2017-07-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0013972&paragraaf=2&artikel=8&z=2017-07-01&g=2017-07-01).
 
-#### Artikel 18
+##### Artikel 18
 
 De aanduiding **marmelade** mag uitsluitend en moet worden gebezigd voor marmelade.
 
-#### Artikel 19
+##### Artikel 19
 
 De aanduiding **geleimarmelade** mag uitsluitend en moet worden gebezigd voor geleimarmelade.
 
-#### Artikel 20
+##### Artikel 20
 
 De aanduiding **kastanjepasta** mag uitsluitend en moet worden gebezigd voor kastanjepasta.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Een in deze paragraaf bedoelde aanduiding wordt aangevuld met de aanduiding van de gebruikte vruchtensoort of vruchtensoorten, in afnemende volgorde van het gewichtsaandeel van de gebruikte vruchtensoorten.
 
 2. In afwijking van het eerste lid mag de aanduiding van een in deze paragraaf bedoelde waar die is bereid uit drie of meer vruchtensoorten, worden aangevuld met de zinsnede «verscheidene vruchten», een soortgelijke zinsnede, of de vermelding van het aantal gebruikte vruchtensoorten.
 
-#### Artikel 22
+##### Artikel 22
 
 In afwijking van de [artikelen 13 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0013972&paragraaf=2&artikel=13&z=2017-07-01&g=2017-07-01) mogen de in deze paragraaf bedoelde aanduidingen overeenkomstig de handelspraktijken ook worden gebezigd voor andere waren die niet kunnen worden verward met de in deze paragraaf bedoelde waren.
 
 #### § 4:. vermeldingen
 
-#### Artikel 23
+##### Artikel 23
 
 1. Bij een krachtens [§ 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013972&paragraaf=3&z=2017-07-01&g=2017-07-01) aangeduide waar worden de volgende vermeldingen gebezigd:
 
@@ -236,21 +262,21 @@ In afwijking van de [artikelen 13 tot en met 21](https://wetten.overheid.nl/jci1
 
 3. De in het eerste lid bedoelde vermeldingen worden gebezigd in hetzelfde gezichtsveld als de aanduiding van de desbetreffende waar.
 
-#### Artikel 24
+##### Artikel 24
 
 In afwijking van artikel 18, tweede lid, van verordening (EU) 1169/2011, wordt bij een krachtens [§ 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013972&paragraaf=3&z=2017-07-01&g=2017-07-01) aangeduide waar zwaveldioxide vermeld in de lijst van ingrediënten, bedoeld in [artikel 5, eerste lid, onder a, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005310&artikel=5), indien het residuele gehalte aan zwaveldioxide hoger is dan 10 mg/kg.
 
 #### § 5:. slotbepalingen
 
-#### Artikel 25
+##### Artikel 25
 
 Wijzigt het Warenwetbesluit bestuurlijke boeten.
 
-#### Artikel 26
+##### Artikel 26
 
 Het Warenwetbesluit Verduurzaamde vruchtenprodukten wordt ingetrokken.
 
-#### Artikel 27
+##### Artikel 27
 
 Dit besluit treedt in werking met ingang van 12 juli 2004, met dien verstande dat:
 
@@ -258,7 +284,7 @@ Dit besluit treedt in werking met ingang van 12 juli 2004, met dien verstande da
 
 - b. eet- en drinkwaren die niet voldoen aan dit besluit en voor 12 juli 2004 zijn geëtiketteerd met inachtneming van het [Warenwetbesluit Verduurzaamde vruchtenproducten](https://wetten.overheid.nl/jci1.3:c:BWBR0005307), nog verhandeld mogen worden zolang de voorraad strekt.
 
-#### Artikel 28
+##### Artikel 28
 
 Dit besluit wordt aangehaald als: Warenwetbesluit Verduurzaamde vruchtenproducten 2002.
 

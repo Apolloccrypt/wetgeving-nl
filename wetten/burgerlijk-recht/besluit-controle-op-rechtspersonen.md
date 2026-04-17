@@ -1,13 +1,38 @@
 ---
-title: "Besluit controle op rechtspersonen"
+title: "Besluit van 21 oktober 2004, houdende bepalingen ter uitvoering van de Wet documentatie vennootschappen (Besluit documentatie vennootschappen)"
 identifier: "BWBR0017347"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0017347"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0017347"
+soort: "AMvB"
+stam_id: "6271213"
+version_id: "10953682"
+internal_id: "C15903371"
+label_id: "6260164"
+original_entry_into_force: "2005-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0017347/2024-01-01/0"
+intitule_bron: "Stb.2004-564"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-10-21"
+intitule_published: "2004-11-09"
+intitule_in_force: "2004-12-14"
+intitule_status: "goed"
+original_publication: "Stb.2004-564"
+original_signed_date: "2004-10-21"
+original_published_date: "2004-11-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2004-564"
+entry_into_force_date: "2005-01-01"
+jci_1_3: "jci1.3:c:BWBR0017347&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0017347&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit controle op rechtspersonen"
+signed_date: "2004-10-21"
+entry_into_force: "2005-01-01"
 ---
-
 # Besluit van 21 oktober 2004, houdende bepalingen ter uitvoering van de Wet documentatie vennootschappen (Besluit documentatie vennootschappen)
 
 Op de voordracht van Onze Minister van Justitie van 21 juli 2004, nr. 5299128/04/6;
@@ -24,7 +49,7 @@ Treedt in werking op het tijdstip waarop de Wet documentatie vennootschappen in 
 
 #### Paragraaf 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -36,7 +61,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 2. Bronnen van de registratie
 
-#### Artikel 2
+##### Artikel 2
 
 Als bestuursorganen of diensten die zijn belast met de opsporing van strafbare feiten of met het toezicht op financiële instellingen, bedoeld in [artikel 3, tweede lid, onder e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&artikel=3), worden aangewezen:
 
@@ -62,7 +87,7 @@ Als bestuursorganen of diensten die zijn belast met de opsporing van strafbare f
 
 #### Paragraaf 3. De inhoud van de registratie
 
-#### Artikel 3
+##### Artikel 3
 
 Over de personen, bedoeld in [artikel 4, eerste, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&artikel=4), kunnen, voor zover het natuurlijke personen betreft, slechts de volgende gegevens of categorieën van gegevens in de registratie worden opgenomen:
 
@@ -106,7 +131,7 @@ Over de personen, bedoeld in [artikel 4, eerste, tweede en derde lid, van de wet
 
 - t. andere gegevens die reden geven om aan te nemen dat een rechtspersoon waarbij de desbetreffende persoon betrokkenheid heeft wordt gebruikt voor ongeoorloofde doeleinden of dat haar werkzaamheden leiden tot benadeling van schuldeisers of rechthebbenden.
 
-#### Artikel 4
+##### Artikel 4
 
 Over de personen, bedoeld in [artikel 4, eerste en tweede lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&artikel=4), kunnen, voor zover het rechtspersonen betreft, slechts de volgende gegevens of categorieën van gegevens in de registratie worden opgenomen:
 
@@ -152,7 +177,7 @@ Over de personen, bedoeld in [artikel 4, eerste en tweede lid van de wet](https:
 
 - u. andere gegevens die reden geven om aan te nemen dat de rechtspersoon wordt gebruikt voor ongeoorloofde doeleinden of dat haar werkzaamheden leiden tot benadeling van schuldeisers of rechthebbenden.
 
-#### Artikel 5
+##### Artikel 5
 
 Over de personen, bedoeld in [artikel 4, eerste, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&artikel=4), kunnen in de registratie worden opgenomen:
 
@@ -164,7 +189,7 @@ Over de personen, bedoeld in [artikel 4, eerste, tweede en derde lid, van de wet
 
 #### Paragraaf 4. Het verstrekken van gegevens uit de registratie
 
-#### Artikel 6
+##### Artikel 6
 
 Aan de volgende instanties of personen worden als vaste gebruikers als bedoeld in [artikel 6, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&artikel=6), desgevraagd in individuele gevallen persoonsgegevens uit de registratie verstrekt:
 
@@ -184,23 +209,23 @@ Aan de volgende instanties of personen worden als vaste gebruikers als bedoeld i
 
 - h. het Centraal Orgaan Verklaring Omtrent het Gedrag, voor zover dat noodzakelijk is voor het afgeven van een verklaring omtrent het gedrag.
 
-#### Artikel 7
+##### Artikel 7
 
 Indien dat noodzakelijk is vanwege een zwaarwegend algemeen belang, verband houdend met de integriteit in het financiële, economische of maatschappelijke verkeer, kunnen desgevraagd uit de registratie persoonsgegevens worden verstrekt aan instanties in een ander land dat geen passende waarborgen als bedoeld in artikel 46 van de Algemene verordening gegevensbescherming biedt en waar betrokkenen niet beschikken over afdwingbare rechten en doeltreffende rechtsmiddelen.
 
 #### Paragraaf 5. Slotbepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit treedt in werking op het tijdstip waarop de wet in werking treedt.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit controle op rechtspersonen.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 4a
+##### Artikel 4a
 
 Over de personen, bedoeld in [artikel 4, eerste, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&artikel=4) kunnen voorts de volgende gegevens of categorieën van gegevens in de registratie worden opgenomen:
 
@@ -212,7 +237,7 @@ Over de personen, bedoeld in [artikel 4, eerste, tweede en derde lid, van de wet
 
 #### Paragraaf 4. Het verstrekken van gegevens uit de registratie
 
-#### Artikel 5a
+##### Artikel 5a
 
 Als bestuursorganen, diensten, toezichthouders en andere personen, bedoeld in [artikel 5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&artikel=5) worden aangewezen:
 
@@ -234,7 +259,7 @@ Als bestuursorganen, diensten, toezichthouders en andere personen, bedoeld in [a
 
 - i. de Financial Intelligence Unit Nederland (FIU – NL).
 
-#### Artikel 5b
+##### Artikel 5b
 
 Mededeling van gegevens met betrekking tot derden, neergelegd in een risicomelding als bedoeld in [artikel 5, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&artikel=5) is toegestaan in de volgende gevallen:
 

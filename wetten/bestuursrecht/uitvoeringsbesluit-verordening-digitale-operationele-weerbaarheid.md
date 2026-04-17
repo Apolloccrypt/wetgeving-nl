@@ -1,13 +1,39 @@
 ---
-title: "Uitvoeringsbesluit verordening digitale operationele weerbaarheid"
+title: "Besluit van 25 november 2024 tot wijziging van het Besluit EU-verordeningen Wft en enkele andere besluiten in verband met Verordening (EU) 2022/2554 en Richtlijn (EU) 2022/2556 betreffende digitale operationele weerbaarheid voor de financiële sector (Uitvoeringsbesluit verordening digitale operationele weerbaarheid)"
 identifier: "BWBR0050670"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-01-17
-laatste_update: 2025-01-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050670"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-01-17"
+last_updated: "2025-01-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050670"
+soort: "AMvB"
+stam_id: "17339633"
+version_id: "30556332"
+internal_id: "C43807291"
+label_id: "17243684"
+dtd_version: "2.0"
+original_entry_into_force: "2025-01-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050670/2025-01-17/0"
+intitule_bron: "Stb.2024-379"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-11-25"
+intitule_published: "2024-12-03"
+intitule_in_force: "2024-12-03"
+intitule_status: "goed"
+original_publication: "Stb.2024-379"
+original_signed_date: "2024-11-25"
+original_published_date: "2024-12-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2024-379"
+entry_into_force_date: "2025-01-17"
+jci_1_3: "jci1.3:c:BWBR0050670&z=2025-01-17&g=2025-01-17"
+jci_1_0: "1.0:c:BWBR0050670&g=2025-01-17"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsbesluit verordening digitale operationele weerbaarheid"
+signed_date: "2024-11-25"
+entry_into_force: "2025-01-17"
 ---
-
 # Besluit van 25 november 2024 tot wijziging van het Besluit EU-verordeningen Wft en enkele andere besluiten in verband met Verordening (EU) 2022/2554 en Richtlijn (EU) 2022/2556 betreffende digitale operationele weerbaarheid voor de financiële sector (Uitvoeringsbesluit verordening digitale operationele weerbaarheid)
 
 Op voordracht van Onze Minister van Financiën van 5 september 2024, 2024-0000417864 directie Financiële Markten;
@@ -20,39 +46,39 @@ Gezien het nader rapport van Onze Minister van Financiën van 5 november 2024, 2
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Besluit EU-verordeningen Wft.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Besluit Gedragstoezicht financiële ondernemingen Wft.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Besluit prudentiële regels Wft.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het Besluit Markttoegang financiële ondernemingen Wft.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Besluit gereglementeerde markten Wft.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt het Besluit financieel toetsingskader pensioenfondsen.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt het Besluit bestuurlijke boetes financiële sector.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Dit besluit treedt in werking met ingang van 17 januari 2025.
 
-#### Artikel IIX
+##### Artikel IIX
 
 Dit besluit wordt aangehaald als: Uitvoeringsbesluit digitale operationele weerbaarheid.
 

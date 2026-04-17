@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling ondersteuning werkgevers inzet statushouders"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 12 juni 2024, nr. 2024-0000158938, houdende regels voor subsidieverstrekking voor statushouders ter bevordering van duurzame participatie op de arbeidsmarkt (Subsidieregeling ondersteuning werkgevers inzet statushouders)"
 identifier: "BWBR0049897"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2026-03-06
-laatste_update: 2026-03-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049897"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-03-06"
+last_updated: "2026-03-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049897"
+soort: "ministeriele-regeling"
+stam_id: "17151083"
+version_id: "30187872"
+internal_id: "C43249911"
+label_id: "17059334"
+dtd_version: "2.0"
+original_entry_into_force: "2024-07-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049897/2026-03-06/0"
+intitule_bron: "Stcrt.2024-19739"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-06-12"
+intitule_published: "2024-07-01"
+intitule_in_force: "2024-07-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-19739"
+original_signed_date: "2024-06-12"
+original_published_date: "2024-07-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-19739"
+entry_into_force_date: "2024-07-02"
+jci_1_3: "jci1.3:c:BWBR0049897&z=2026-03-06&g=2026-03-06"
+jci_1_0: "1.0:c:BWBR0049897&g=2026-03-06"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling ondersteuning werkgevers inzet statushouders"
+signed_date: "2024-06-12"
+entry_into_force: "2024-07-02"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 12 juni 2024, nr. 2024-0000158938, houdende regels voor subsidieverstrekking voor statushouders ter bevordering van duurzame participatie op de arbeidsmarkt (Subsidieregeling ondersteuning werkgevers inzet statushouders)
 
 Gelet op de [artikelen 3, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=3), en [5 van de Kaderwet SZW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=5);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -30,15 +56,15 @@ In deze regeling wordt verstaan onder:
 
 - **werkgever:** hetgeen daaronder wordt verstaan in [artikel 610 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=610).
 
-#### Artikel 2. Toepasselijkheid [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepasselijkheid [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) van toepassing voor zover daar in deze regeling niet van wordt afgeweken.
 
-#### Artikel 3. Doel van de subsidie
+##### Artikel 3. Doel van de subsidie
 
 Het doel van deze regeling is het stimuleren van werkgevers om statushouders in dienst te nemen door hen financieel tegemoet te komen bij het ondernemen van activiteiten op de werkvloer, gericht op het verkleinen van cultuur- en taalverschillen ter bevordering van de duurzame participatie van de statushouder op de arbeidsmarkt.
 
-#### Artikel 4. Subsidievoorwaarden
+##### Artikel 4. Subsidievoorwaarden
 
 Een werkgever komt in aanmerking voor subsidie ten behoeve van een statushouder indien:
 
@@ -58,7 +84,7 @@ Een werkgever komt in aanmerking voor subsidie ten behoeve van een statushouder 
 
 - 2°. begeleidingsafspraken: afspraken over hoe de begeleiding van de statushouder op de werkvloer wordt vormgegeven. Dit betreft minimaal afspraken over de structuur van de begeleiding evenals over hoe de cultuur van de organisatie wordt bijgebracht waarbij rekening wordt gehouden met de achtergrond van de statushouder.
 
-#### Artikel 5. Aanvraag subsidie
+##### Artikel 5. Aanvraag subsidie
 
 1. Een werkgever kan op grond van deze regeling maximaal één aanvraag per aanvraagtijdvak indienen.
 
@@ -78,7 +104,7 @@ Een werkgever komt in aanmerking voor subsidie ten behoeve van een statushouder 
 
 4. Voor het activiteitenplan, bedoeld in het derde lid, onderdeel a, en de verklaring, bedoeld in het derde lid onderdeel d, wordt gebruik gemaakt van de daartoe verstrekte formats op [www.uitvoeringvanbeleidszw.nl](http://www.uitvoeringvanbeleidszw.nl).
 
-#### Artikel 6. Aanvraagtijdvak, subsidieplafond en verdeling
+##### Artikel 6. Aanvraagtijdvak, subsidieplafond en verdeling
 
 1. Een subsidieaanvraag kan in het kalenderjaar 2024 bij de minister worden ingediend van maandag 2 september 2024, 09:00 uur tot maandag 30 september 2024, 23:59 uur en in het kalenderjaar 2025 van maandag 2 juni 2025, 09:00 uur tot en met dinsdag 30 september 2025, 17:00 uur. In het kalenderjaar 2026 kan een subsidieaanvraag bij de minister worden ingediend van maandag 8 juni 2026, 09:00 uur tot woensdag 30 september, 17:00 uur.
 
@@ -92,11 +118,11 @@ Een werkgever komt in aanmerking voor subsidie ten behoeve van een statushouder 
 
 6. De subsidie bedraagt € 3.000,– per statushouder. Indien de aanvrager niet eerder gelden heeft ontvangen op grond van deze regeling wordt eenmalig aanvullend een bedrag van € 3.000,– verstrekt. Het totale subsidiebedrag bedraagt niet meer dan € 24.000,–.
 
-#### Artikel 7. Subsidieverlening
+##### Artikel 7. Subsidieverlening
 
 De minister besluit binnen 13 weken na afloop van de periode waarin aanvragen kunnen worden ingediend over de subsidieverlening.
 
-#### Artikel 8. Subsidieverplichtingen
+##### Artikel 8. Subsidieverplichtingen
 
 Aan de werkgever aan wie subsidie wordt verleend, worden, in aanvulling op [hoofdstuk 5 van de kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=5), de volgende verplichtingen opgelegd:
 
@@ -108,11 +134,11 @@ Aan de werkgever aan wie subsidie wordt verleend, worden, in aanvulling op [hoof
 
 - d. de subsidiabele activiteiten worden uiterlijk binnen twee jaar na de datum van de initiële subsidieverlening afgerond.
 
-#### Artikel 9. Weigeringsgrond
+##### Artikel 9. Weigeringsgrond
 
 Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) wordt de subsidie in ieder geval geheel of gedeeltelijk geweigerd, indien de subsidieaanvraag niet voldoet aan de bij deze regeling gestelde regels.
 
-#### Artikel 10. Vaststelling en verantwoording
+##### Artikel 10. Vaststelling en verantwoording
 
 1. De minister neemt binnen 22 weken na afloop van de datum waarop de activiteiten waarvoor de subsidie wordt verleend, zijn verricht, ambtshalve een besluit over de vaststelling van de subsidie.
 
@@ -130,13 +156,13 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 4. Voor het activiteitenverslag, bedoeld in het tweede lid, onderdeel a, wordt gebruik gemaakt van het daartoe verstrekte format op [www.uitvoeringvanbeleidszw.nl](http://www.uitvoeringvanbeleidszw.nl).
 
-#### Artikel 11. Inwerkingtreding en vervaldatum
+##### Artikel 11. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 1 juli 2029, met dien verstande dat de regeling zoals die luidde voorafgaand aan de datum met ingang waarvan deze regeling vervalt van toepassing blijft op de dan lopende afwikkeling van besluiten en ingestelde gerechtelijke procedures op grond van deze regeling.
 
-#### Artikel 12. Citeertitel
+##### Artikel 12. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling ondersteuning werkgevers inzet statushouders.
 

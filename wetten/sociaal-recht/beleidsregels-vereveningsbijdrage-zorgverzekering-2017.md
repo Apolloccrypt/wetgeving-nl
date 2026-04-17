@@ -1,13 +1,36 @@
 ---
-title: "Beleidsregels vereveningsbijdrage zorgverzekering 2017"
+title: "Beleidsregels vereveningsbijdrage Zvw 2017"
 identifier: "BWBR0038638"
-categorie: "Sociaal recht"
-publicatiedatum: 2017-08-18
-laatste_update: 2017-08-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038638"
+country: "nl"
+rank: "zbo"
+publication_date: "2017-08-18"
+last_updated: "2017-08-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038638"
+soort: "zbo"
+stam_id: "13773623"
+version_id: "24302522"
+internal_id: "C34887771"
+label_id: "13740914"
+dtd_version: "2.0"
+original_entry_into_force: "2017-08-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038638/2017-08-18/0"
+intitule_bron: "Stcrt.2016-55262"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2016-10-21"
+intitule_in_force: "2016-10-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-46637"
+original_published_date: "2017-08-16"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2017-46637"
+entry_into_force_date: "2017-08-18"
+jci_1_3: "jci1.3:c:BWBR0038638&z=2017-08-18&g=2017-08-18"
+jci_1_0: "1.0:c:BWBR0038638&g=2017-08-18"
+citeertitel_status: "officieel"
+short_title: "Beleidsregels vereveningsbijdrage zorgverzekering 2017"
+entry_into_force: "2017-08-18"
 ---
-
 # Beleidsregels vereveningsbijdrage Zvw 2017
 
 Gelet op de [artikelen 32, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=32) en [34, vierde lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=34), [Hoofdstuk 3 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3), de [Regeling risicoverevening 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038554) en de brief van de minister van VWS van 30 september 2016, kenmerk 1024068-155663-Z,
@@ -16,7 +39,7 @@ heeft in zijn vergadering van 10 oktober 2016 besloten:
 
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 Deze beleidsregels verstaan onder:
 
@@ -46,17 +69,17 @@ Deze beleidsregels verstaan onder:
 
 - m. **jaarstaat:** de jaarstaat, bedoeld in de regeling gegevensaanlevering van het Zorginstituut.
 
-#### Artikel 2. Algemene bepaling
+##### Artikel 2. Algemene bepaling
 
 Het Zorginstituut past de bepalingen uit het [Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492) en de [Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0038554) met betrekking tot de toekenning en vaststelling van de bijdrage aan de zorgverzekeraars toe met inachtneming van het bepaalde in deze beleidsregels.
 
-#### Artikel 3. Zorgverzekeraars
+##### Artikel 3. Zorgverzekeraars
 
 Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2017 en de berekening van de normatieve bedragen en de vereveningsbijdragen ervan uit dat alle zorgverzekeraars die gedurende 2016 actief zijn geweest ook in 2017 als zorgverzekeraar actief zullen zijn.
 
 ### Hoofdstuk II. Toekenning van de vereveningsbijdrage 2017 aan een zorgverzekeraar
 
-#### Artikel 4. Algemene bepaling voor de raming van de verzekerdenaantallen
+##### Artikel 4. Algemene bepaling voor de raming van de verzekerdenaantallen
 
 1. Het Zorginstituut baseert zich bij de raming van de verzekerdenaantallen 2017 op de macroverzekerdenraming.
 
@@ -66,31 +89,31 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2017 en de ber
 
 4. Wanneer een verzekerde bij meerdere zorgverzekeraars tegelijkertijd is ingeschreven, past het Zorginstituut [artikel 11 van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0038554&artikel=11) toe.
 
-#### Artikel 5. De verzekerdenaantallen 2017 voor het macro-deelbedrag variabele zorgkosten
+##### Artikel 5. De verzekerdenaantallen 2017 voor het macro-deelbedrag variabele zorgkosten
 
 1. Het Zorginstituut deelt voor het macro-deelbedrag variabele zorgkosten verzekerden in bij de criteria leeftijd en geslacht, FKG’s, DKG’s, HKG’s, AVI, regio, SES, PPA, MHK, FDG, VGG, GGG en GSM.
 
 2. Het Zorginstituut deelt verzekerden woonachtig in het buitenland uitsluitend in bij de criteria leeftijd en geslacht, FKG’s, DKG’s, HKG’s, AVI, MHK, FDG, VGG, GGG en GSM. Overeenkomstig [artikel 7 van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0038554&artikel=7) deelt het Zorginstituut alle verzekerden woonachtig in het buitenland voor het criterium FKG’s in in de klasse 'Geen FKG', voor het criterium DKG’s in de klasse ‘Geen DKG’, voor het criterium HKG’s in de klasse ‘Geen HKG’, voor het criterium FDG in de klasse ‘Geen FDG’, voor het criterium VGG in de klasse ‘Geen VGG’ en voor het criterium GGG in de klasse ‘Geen GGG’.
 
-#### Artikel 6. De verzekerdenaantallen 2017 voor het macro-deelbedrag kosten van geneeskundige geestelijke gezondheidszorg
+##### Artikel 6. De verzekerdenaantallen 2017 voor het macro-deelbedrag kosten van geneeskundige geestelijke gezondheidszorg
 
 1. Het Zorginstituut deelt voor het macro-deelbedrag kosten van geneeskundige geestelijke gezondheidszorg verzekerden van achttien jaar en ouder in bij de criteria leeftijd en geslacht, FKG GGZ, DKG GGZ, AVI, GGZ-regio, SES, PPA, GGZ-MHK en ZVZ.
 
 2. Het Zorginstituut deelt verzekerden woonachtig in het buitenland uitsluitend in bij de criteria leeftijd en geslacht, FKG GGZ, DKG GGZ, GGZ-MHK, AVI en ZVZ. Overeenkomstig [artikel 7 van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0038554&artikel=7) deelt het Zorginstituut alle verzekerden woonachtig in het buitenland voor het criterium FKG GGZ in in de klasse 'Geen FKG psychische aandoeningen', voor het criterium DKG GGZ in de klasse ‘Geen DKG psychische aandoeningen’ en voor het criterium ZVZ in de klasse ‘Geen ZVZ’.
 
-#### Artikel 7. De verzekerdenaantallen 2017 voor het macro-deelbedrag kosten van langdurige geestelijke gezondheidszorg
+##### Artikel 7. De verzekerdenaantallen 2017 voor het macro-deelbedrag kosten van langdurige geestelijke gezondheidszorg
 
 1. Het Zorginstituut deelt voor het macro-deelbedrag kosten van langdurige geestelijke gezondheidszorg verzekerden van achttien jaar en ouder in bij de criteria leeftijd en geslacht, FKG GGZ, DKG GGZ, AVI, GGZ-regio, SES, PPA, GGZ-MHK, ZVZ en IGG.
 
 2. Het Zorginstituut deelt verzekerden woonachtig in het buitenland uitsluitend in bij de criteria leeftijd en geslacht, FKG GGZ, DKG GGZ, AVI, GGZ-MHK, ZVZ en IGG. Overeenkomstig [artikel 7 van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0038554&artikel=7) deelt het Zorginstituut alle verzekerden woonachtig in het buitenland voor het criterium FKG GGZ in in de klasse ‘Geen FKG psychische aandoeningen’, voor het criterium DKG GGZ in de klasse ‘Geen DKG psychische aandoeningen’, voor het criterium ZVZ in de klasse ‘Geen ZVZ’ en voor het criterium IGG in de klasse ‘Geen IGG’.
 
-#### Artikel 8. De verzekerdenaantallen 2017 voor de normatieve eigen risico opbrengst
+##### Artikel 8. De verzekerdenaantallen 2017 voor de normatieve eigen risico opbrengst
 
 1. Het Zorginstituut deelt voor de normatieve eigen risico opbrengst verzekerden van achttien jaar en ouder die zowel in de FKG klasse ‘Geen FKG’, de DKG klasse ‘Geen DKG’, de HKG klasse ‘Geen HKG’, de MHK klasse ‘Geen MHK’ als in de FDG klasse ‘Geen FDG’ vallen in bij de criteria leeftijd en geslacht, AVI en regio.
 
 2. Het Zorginstituut deelt voor het normatieve eigen risico verzekerden woonachtig in het buitenland uitsluitend in bij de criteria leeftijd en geslacht en AVI.
 
-#### Artikel 9. Leeftijd en geslacht
+##### Artikel 9. Leeftijd en geslacht
 
 1. Het Zorginstituut baseert zich voor het geraamde aantal verzekerden voor het criterium leeftijd en geslacht per zorgverzekeraar op het PKB 2016.
 
@@ -98,7 +121,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2017 en de ber
 
 3. Het Zorginstituut herschaalt het geraamde aantal verzekerden voor het criterium leeftijd en geslacht naar de macroverzekerdenraming.
 
-#### Artikel 10. FKG’s
+##### Artikel 10. FKG’s
 
 1. Het Zorginstituut baseert zich voor het geraamde aantal verzekerden voor het criterium FKG’s per zorgverzekeraar op:
 
@@ -122,7 +145,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2017 en de ber
 
 7. Het Zorginstituut herschaalt het geraamde aantal verzekerden voor het criterium FKG’s naar de macroverzekerdenraming.
 
-#### Artikel 11. DKG’s
+##### Artikel 11. DKG’s
 
 1. Het Zorginstituut baseert zich voor het geraamde aantal verzekerden voor het criterium DKG’s per zorgverzekeraar op:
 
@@ -140,7 +163,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2017 en de ber
 
 5. Het Zorginstituut herschaalt het geraamde aantal verzekerden voor het criterium DKG’s naar de macroverzekerdenraming.
 
-#### Artikel 12. HKG’s
+##### Artikel 12. HKG’s
 
 1. Het Zorginstituut baseert zich voor het geraamde aantal verzekerden voor het criterium HKG’s per zorgverzekeraar op:
 
@@ -156,7 +179,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2017 en de ber
 
 5. Het Zorginstituut herschaalt het geraamde aantal verzekerden voor het criterium HKG’s naar de macroverzekerdenraming.
 
-#### Artikel 13. AVI
+##### Artikel 13. AVI
 
 1. Het Zorginstituut baseert zich voor het geraamde aantal verzekerden voor het criterium AVI per zorgverzekeraar met betrekking tot:
 
@@ -178,7 +201,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2017 en de ber
 
 4. Het Zorginstituut herschaalt na toepassing van het derde lid het geraamde aantal verzekerden voor het criterium AVI naar de macroverzekerdenraming, waarbij de verzekerden een zodanige zwaarte krijgen dat de relatieve prevalentie per AVI klasse constant blijft.
 
-#### Artikel 14. Regio
+##### Artikel 14. Regio
 
 1. Het Zorginstituut baseert zich voor het geraamde aantal verzekerden voor het criterium regio per zorgverzekeraar met betrekking tot:
 
@@ -190,7 +213,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2017 en de ber
 
 3. Het Zorginstituut herschaalt na toepassing van het eerste en tweede lid het geraamde aantal verzekerden voor het criterium regio naar de macroverzekerdenraming.
 
-#### Artikel 15. SES
+##### Artikel 15. SES
 
 1. Het Zorginstituut baseert zich voor het geraamde aantal verzekerden voor het criterium SES per zorgverzekeraar met betrekking tot:
 
@@ -220,7 +243,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2017 en de ber
 
 4. Het Zorginstituut herschaalt na toepassing van het derde lid het geraamde aantal verzekerden voor het criterium SES naar de macroverzekerdenraming, waarbij de verzekerden een zodanige zwaarte krijgen dat de relatieve prevalentie per SES klasse constant blijft.
 
-#### Artikel 16. PPA
+##### Artikel 16. PPA
 
 1. Het Zorginstituut baseert zich voor het geraamde aantal verzekerden voor het criterium PPA per zorgverzekeraar met betrekking tot:
 
@@ -246,7 +269,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2017 en de ber
 
 4. Het Zorginstituut herschaalt na toepassing van het derde lid het geraamde aantal verzekerden voor het criterium PPA naar de macroverzekerdenraming, waarbij de verzekerden een zodanige zwaarte krijgen dat de relatieve prevalentie per klasse constant blijft.
 
-#### Artikel 17. MHK
+##### Artikel 17. MHK
 
 1. Het Zorginstituut baseert zich voor het geraamde aantal verzekerden voor het criterium MHK per zorgverzekeraar op:
 
@@ -268,7 +291,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2017 en de ber
 
 6. Het Zorginstituut herschaalt na toepassing van de vorige leden het geraamde aantal verzekerden voor het criterium MHK naar de macroverzekerdenraming en stemt de relatieve prevalentie per klasse af op de Overall Toets 2017, zoals de minister van VWS die heeft laten uitvoeren.
 
-#### Artikel 18. FDG
+##### Artikel 18. FDG
 
 1. Het Zorginstituut baseert zich voor het geraamde aantal verzekerden voor het criterium FDG per zorgverzekeraar op:
 
@@ -286,7 +309,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2017 en de ber
 
 6. Het Zorginstituut herschaalt het geraamde aantal verzekerden voor het criterium FDG naar de macroverzekerdenraming.
 
-#### Artikel 19. VGG
+##### Artikel 19. VGG
 
 1. Het Zorginstituut baseert zich voor het geraamde aantal verzekerden voor het criterium VGG per zorgverzekeraar op declaraties verpleging en verzorging met betrekking tot 2014 per gepseudonimiseerd burgerservicenummer, afkomstig uit de bestanden die gebruikt zijn voor de Overall Toets 2017, zoals de minister van VWS die heeft laten uitvoeren.
 
@@ -304,7 +327,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2017 en de ber
 
 8. Het Zorginstituut herschaalt het geraamde aantal verzekerden voor het criterium VGG naar de macroverzekerdenraming.
 
-#### Artikel 20. GGG
+##### Artikel 20. GGG
 
 1. Het Zorginstituut baseert zich voor het geraamde aantal verzekerden voor het criterium GGG per zorgverzekeraar op een bestand met declaraties geriatrische revalidatiezorg met betrekking tot 2014 per gepseudonimiseerd burgerservicenummer, afkomstig uit de Overall Toets 2017, zoals de minister van VWS die heeft laten uitvoeren.
 
@@ -322,7 +345,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2017 en de ber
 
 8. Het Zorginstituut herschaalt het geraamde aantal verzekerden voor het criterium GGG naar de macroverzekerdenraming.
 
-#### Artikel 21. GSM
+##### Artikel 21. GSM
 
 1. Het Zorginstituut baseert zich voor het geraamde aantal verzekerden voor het criterium GSM per zorgverzekeraar met betrekking tot:
 
@@ -334,7 +357,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2017 en de ber
 
 3. Het Zorginstituut herschaalt het geraamde aantal verzekerden voor het criterium GSM naar de macroverzekerdenraming.
 
-#### Artikel 22. FKG GGZ
+##### Artikel 22. FKG GGZ
 
 1. Het Zorginstituut baseert zich voor het geraamde aantal verzekerden voor het criterium FKG GGZ per zorgverzekeraar op:
 
@@ -350,7 +373,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2017 en de ber
 
 5. Het Zorginstituut herschaalt het geraamde aantal verzekerden voor het criterium FKG GGZ naar de macroverzekerdenraming.
 
-#### Artikel 23. DKG GGZ
+##### Artikel 23. DKG GGZ
 
 1. Het Zorginstituut baseert zich voor het geraamde aantal verzekerden voor het criterium DKG GGZ per zorgverzekeraar op:
 
@@ -368,7 +391,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2017 en de ber
 
 5. Het Zorginstituut herschaalt het geraamde aantal verzekerden voor het criterium DKG’s GGZ naar de macroverzekerdenraming.
 
-#### Artikel 24. GGZ-regio
+##### Artikel 24. GGZ-regio
 
 1. Het Zorginstituut baseert zich voor het geraamde aantal verzekerden voor het criterium GGZ-regio per zorgverzekeraar met betrekking tot:
 
@@ -380,7 +403,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2017 en de ber
 
 3. Het Zorginstituut herschaalt het geraamde aantal verzekerden voor het criterium GGZ-regio naar de macroverzekerdenraming.
 
-#### Artikel 25. GGZ-MHK
+##### Artikel 25. GGZ-MHK
 
 1. Het Zorginstituut baseert zich voor het geraamde aantal verzekerden voor het criterium GGZ-MHK per zorgverzekeraar op:
 
@@ -406,7 +429,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2017 en de ber
 
 6. Het Zorginstituut herschaalt het geraamde aantal verzekerden voor het criterium GGZ-MHK naar de macroverzekerdenraming en stemt de relatieve prevalentie per klasse af op de Overall Toets 2017, zoals de minister van VWS die heeft laten uitvoeren.
 
-#### Artikel 26. ZVZ
+##### Artikel 26. ZVZ
 
 1. Het Zorginstituut baseert zich voor het geraamde aantal verzekerden voor het criterium ZVZ op de indeling van verzekerden in klassen op basis van GGZ-declaraties 2013 afkomstig uit het onderzoek naar het vereveningskenmerk ZVZ dat de minister heeft laten uitvoeren.
 
@@ -418,7 +441,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2017 en de ber
 
 5. Het Zorginstituut herschaalt het geraamde aantal verzekerden voor het criterium ZVZ naar de macroverzekerdenraming.
 
-#### Artikel 27. IGG
+##### Artikel 27. IGG
 
 1. Het Zorginstituut baseert zich voor het geraamde aantal verzekerden voor het criterium IGG op:
 
@@ -438,7 +461,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2017 en de ber
 
 6. Het Zorginstituut herschaalt het geraamde aantal verzekerden voor het criterium IGG naar de macroverzekerdenraming.
 
-#### Artikel 28. Gewichten voor het deelbedrag variabele zorgkosten
+##### Artikel 28. Gewichten voor het deelbedrag variabele zorgkosten
 
 1. Voor de verdeling van het macro-deelbedrag variabele zorgkosten gaat het Zorginstituut uit van de gewichten genoemd in [bijlage 1 van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0038554&bijlage=1).
 
@@ -458,7 +481,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2017 en de ber
 
 3. Het Zorginstituut rondt de gewichten uit het vorige lid af op twee decimalen.
 
-#### Artikel 29. De verdeling van het macro-deelbedrag variabele zorgkosten en de berekening van het deelbedrag variabele zorgkosten
+##### Artikel 29. De verdeling van het macro-deelbedrag variabele zorgkosten en de berekening van het deelbedrag variabele zorgkosten
 
 1. Het Zorginstituut vermenigvuldigt per zorgverzekeraar, per criterium voor de criteria leeftijd en geslacht, FKG’s, DKG’s, HKG’s, AVI, regio, SES, PPA, MHK, FDG, VGG, GGG en GSM de gewichten variabele zorgkosten 2017 per klasse met het geraamde aantal verzekerden in de overeenkomstige klasse.
 
@@ -466,7 +489,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2017 en de ber
 
 3. Het resultaat van het tweede lid wordt aangeduid als het deelbedrag variabele zorgkosten 2017.
 
-#### Artikel 30. De verdeling van het macro-deelbedrag vaste zorgkosten en de berekening van het deelbedrag vaste zorgkosten
+##### Artikel 30. De verdeling van het macro-deelbedrag vaste zorgkosten en de berekening van het deelbedrag vaste zorgkosten
 
 1. Het Zorginstituut berekent op grond van [artikel 3.5 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.5), het normbedrag vaste zorgkosten 2017 door het macro-deelbedrag vaste zorgkosten te delen door het landelijk totaal van het aantal geraamde verzekerden 2017 en het resultaat af te ronden op twee decimalen.
 
@@ -474,7 +497,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2017 en de ber
 
 3. Het resultaat van het tweede lid wordt aangeduid als het deelbedrag vaste zorgkosten 2017.
 
-#### Artikel 31. Gewichten voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg
+##### Artikel 31. Gewichten voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg
 
 1. Voor de verdeling van het macro-deelbedrag kosten van geneeskundige geestelijke gezondheidszorg gaat het Zorginstituut uit van de gewichten genoemd in [bijlage 2 van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0038554&bijlage=2).
 
@@ -488,7 +511,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2017 en de ber
 
 3. Het Zorginstituut rondt de gewichten uit het vorige lid af op twee decimalen.
 
-#### Artikel 32. De verdeling van het macro-deelbedrag kosten van geneeskundige geestelijke gezondheidszorg en de berekening van het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg
+##### Artikel 32. De verdeling van het macro-deelbedrag kosten van geneeskundige geestelijke gezondheidszorg en de berekening van het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg
 
 1. Het Zorginstituut vermenigvuldigt per zorgverzekeraar, per criterium voor de criteria leeftijd en geslacht, FKG GGZ, DKG GGZ, AVI, GGZ-regio, SES, PPA, GGZ-MHK en ZVZ de gewichten geneeskundige geestelijke gezondheidszorg 2017 per klasse met het geraamde aantal verzekerden in de overeenkomstige klasse.
 
@@ -496,7 +519,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2017 en de ber
 
 3. Het resultaat van het tweede lid wordt aangeduid als het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg 2017.
 
-#### Artikel 33. Gewichten voor het deelbedrag kosten van langdurige geestelijke gezondheidszorg
+##### Artikel 33. Gewichten voor het deelbedrag kosten van langdurige geestelijke gezondheidszorg
 
 1. Voor de verdeling van het macro-deelbedrag langdurige geestelijke gezondheidszorg gaat het Zorginstituut uit van de gewichten genoemd in [bijlage 2 van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0038554&bijlage=2).
 
@@ -512,7 +535,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2017 en de ber
 
 3. Het Zorginstituut rondt de gewichten uit het vorige lid af op twee decimalen.
 
-#### Artikel 34. De verdeling van het macro-deelbedrag kosten van langdurige geestelijke gezondheidszorg en de berekening van het deelbedrag kosten van langdurige geestelijke gezondheidszorg
+##### Artikel 34. De verdeling van het macro-deelbedrag kosten van langdurige geestelijke gezondheidszorg en de berekening van het deelbedrag kosten van langdurige geestelijke gezondheidszorg
 
 1. Het Zorginstituut vermenigvuldigt per zorgverzekeraar, per criterium voor de criteria leeftijd en geslacht, FKG GGZ, DKG GGZ, AVI, GGZ-regio, SES, PPA, GGZ-MHK, ZVZ en IGG de gewichten langdurige geestelijke gezondheidszorg 2017 per klasse met het geraamde aantal verzekerden in de overeenkomstige klasse.
 
@@ -520,13 +543,13 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2017 en de ber
 
 3. Het resultaat van het tweede lid wordt aangeduid als het deelbedrag kosten van langdurige geestelijke gezondheidszorg 2017.
 
-#### Artikel 35. Gewichten en forfaitair bedrag voor de opbrengst van het eigen risico
+##### Artikel 35. Gewichten en forfaitair bedrag voor de opbrengst van het eigen risico
 
 1. Voor de berekening van de normatieve eigen risico opbrengst voor verzekerden die zowel in de FKG klasse ‘Geen FKG’, de DKG klasse ‘Geen DKG’, de HKG klasse ‘Geen HKG’, de MHK klasse ‘Geen MHK’, als in de FDG klasse ‘Geen FDG’ vallen, gaat het Zorginstituut uit van de gewichten genoemd in [bijlage 3 van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0038554&bijlage=3).
 
 2. Voor de berekening van de normatieve eigen risico opbrengst voor verzekerden die niet zowel in de FKG klasse ‘Geen FKG’, de DKG klasse ‘Geen DKG’, de HKG klasse ‘Geen HKG’, de MHK klasse ‘Geen MHK’ als in de FDG klasse ‘Geen FDG’ vallen, hanteert het Zorginstituut de geraamde opbrengst per verzekerde van 349,27 euro, zoals genoemd in [artikel 9 van Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0038554&artikel=9) als uitgangspunt.
 
-#### Artikel 36. De berekening van de normatieve eigen risico opbrengst
+##### Artikel 36. De berekening van de normatieve eigen risico opbrengst
 
 1. Het Zorginstituut vermenigvuldigt per zorgverzekeraar, per criterium voor de criteria leeftijd en geslacht, AVI en regio de gewichten eigen betaling ten gevolge van verplicht eigen risico 2017 per klasse met het geraamde aantal verzekerden in de overeenkomstige klasse.
 
@@ -538,7 +561,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2017 en de ber
 
 5. Het resultaat van het vierde lid wordt aangeduid als normatieve eigen risico opbrengst 2017.
 
-#### Artikel 37. De berekening van het normatieve bedrag en de berekening en toekenning van de vereveningsbijdrage
+##### Artikel 37. De berekening van het normatieve bedrag en de berekening en toekenning van de vereveningsbijdrage
 
 1. Het Zorginstituut berekent het normatieve bedrag 2017 van een zorgverzekeraar als de som van het op grond van het in dit hoofdstuk berekende deelbedrag variabele zorgkosten 2017, het deelbedrag vaste zorgkosten 2017, het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg 2017 en het deelbedrag kosten van langdurige geestelijke gezondheidszorg 2017.
 
@@ -552,11 +575,11 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2017 en de ber
 
 6. Het Zorginstituut kent de vereveningsbijdrage 2017 ter hoogte van de bijdrage berekend in het vierde lid, aangevuld met het bedrag, berekend in het vijfde lid, aan de zorgverzekeraar toe.
 
-#### Artikel 38. Herberekeningen als gevolg van splitsing van de zorgverzekeraar
+##### Artikel 38. Herberekeningen als gevolg van splitsing van de zorgverzekeraar
 
 Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2017 besluit zich te splitsen, verzoekt het Zorginstituut de zorgverzekeraar om mee te delen hoe naar zijn verwachting de geraamde verzekerdenaantallen 2017 verdeeld zullen worden, over nieuwe dan wel bestaande zorgverzekeraars als gevolg van de splitsing. Het Zorginstituut kan de toegekende vereveningsbijdrage herzien en bijdragen aan nieuwe dan wel bestaande zorgverzekeraars toekennen, rekening houdend met de meegedeelde geraamde verzekerdenaantallen en het tijdstip waarop de splitsing wordt gerealiseerd.
 
-#### Artikel 39. De herberekening en herziening van de toegekende bijdrage 2017
+##### Artikel 39. De herberekening en herziening van de toegekende bijdrage 2017
 
 1. Het Zorginstituut herberekent de toekenning van de vereveningsbijdrage op basis van de werkelijke verzekerdenaantallen 2017 volgens de opgaven van de zorgverzekeraars aan het Zorginstituut op 7 maart 2017.
 
@@ -566,7 +589,7 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2017 besl
 
 ### Hoofdstuk III. De eerste voorlopige vaststelling van de vereveningsbijdrage voor een zorgverzekeraar
 
-#### Artikel 40. Algemene bepaling verzekerdenaantallen
+##### Artikel 40. Algemene bepaling verzekerdenaantallen
 
 1. Het Zorginstituut betrekt de correcties die de Nederlandse Zorgautoriteit heeft toegepast over 2017 bij de vaststelling van de verzekerdenaantallen 2017.
 
@@ -578,7 +601,7 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2017 besl
 
 5. Wanneer een verzekerde bij meerdere zorgverzekeraars tegelijkertijd is ingeschreven, past het Zorginstituut [artikel 11 van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0038554&artikel=11) toe.
 
-#### Artikel 41. Leeftijd en geslacht
+##### Artikel 41. Leeftijd en geslacht
 
 1. Het Zorginstituut baseert zich voor het aantal verzekerden voor het criterium leeftijd en geslacht per zorgverzekeraar op:
 
@@ -588,7 +611,7 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2017 besl
 
 2. Het Zorginstituut bepaalt op basis van de opgaven, bedoeld in het eerste lid en een koppeling met het VPPKB 2017 per verzekerde in welke leeftijd en geslachtsklasse de verzekerde wordt ingedeeld.
 
-#### Artikel 42. FKG’s
+##### Artikel 42. FKG’s
 
 1. Het Zorginstituut baseert zich voor het aantal verzekerden voor het criterium FKG’s per zorgverzekeraar op:
 
@@ -602,7 +625,7 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2017 besl
 
 3. Als een verzekerde niet in een andere klasse dan ‘Geen FKG’ valt, deelt het Zorginstituut deze verzekerde in de klasse ‘Geen FKG’ in.
 
-#### Artikel 43. DKG’s
+##### Artikel 43. DKG’s
 
 1. Het Zorginstituut baseert zich voor het aantal verzekerden voor het criterium DKG’s per zorgverzekeraar op:
 
@@ -616,7 +639,7 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2017 besl
 
 3. Als een verzekerde niet in een klasse ‘1’ tot en met ‘15’ is ingedeeld, deelt het Zorginstituut deze verzekerde in bij klasse ‘Geen DKG’.
 
-#### Artikel 44. HKG’s
+##### Artikel 44. HKG’s
 
 1. Het Zorginstituut baseert zich voor het aantal verzekerden voor het criterium HKG’s per zorgverzekeraar op:
 
@@ -628,7 +651,7 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2017 besl
 
 3. Als een verzekerde niet in een andere klasse dan ‘Geen HKG’ valt, deelt het Zorginstituut deze verzekerde in de klasse ‘Geen HKG’ in.
 
-#### Artikel 45. AVI
+##### Artikel 45. AVI
 
 1. Het Zorginstituut baseert zich voor het aantal verzekerden voor het criterium AVI per zorgverzekeraar met betrekking tot:
 
@@ -648,7 +671,7 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2017 besl
 
 2. Het Zorginstituut koppelt de gegevens, bedoeld in het eerste lid onderdeel b tot en met g, met behulp van het gepseudinimiseerde burgerservicenummer aan het VPPKB 2017 en bepaalt op basis hiervan met inachtneming van [artikel 10, derde lid van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0038554&artikel=10) en [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038638&bijlage=4&z=2017-08-18&g=2017-08-18) van deze Beleidsregels per verzekerde in welke AVI klasse de verzekerde wordt ingedeeld.
 
-#### Artikel 46. Regio
+##### Artikel 46. Regio
 
 1. Het Zorginstituut baseert zich voor het aantal verzekerden voor het criterium regio per zorgverzekeraar met betrekking tot:
 
@@ -660,7 +683,7 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2017 besl
 
 2. Het Zorginstituut koppelt de gegevens, bedoeld in het eerste lid, onderdeel b en c met behulp van het gepseudonimiseerde burgerservicenummer aan het VPPKB 2017 en bepaalt op basis hiervan met inachtneming van [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038638&bijlage=5&z=2017-08-18&g=2017-08-18) van deze Beleidsregels, per verzekerde in welke regioklasse de verzekerde wordt ingedeeld.
 
-#### Artikel 47. SES
+##### Artikel 47. SES
 
 1. Het Zorginstituut baseert zich voor het aantal verzekerden voor het criterium SES per zorgverzekeraar met betrekking tot:
 
@@ -684,7 +707,7 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2017 besl
 
 2. Het Zorginstituut koppelt de gegevens, bedoeld in het eerste lid, met behulp van het gepseudonimiseerde burgerservicenummer aan het VPPKB 2017 en bepaalt op basis hiervan met inachtneming van [artikel 10, zevende lid van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0038554&artikel=10) per verzekerde in welke SES klasse de verzekerde wordt ingedeeld.
 
-#### Artikel 48. PPA
+##### Artikel 48. PPA
 
 1. Het Zorginstituut baseert zich voor het aantal verzekerden voor het criterium PPA per zorgverzekeraar met betrekking tot:
 
@@ -704,7 +727,7 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2017 besl
 
 2. Het Zorginstituut koppelt de gegevens, bedoeld in het eerste lid, met behulp van het gepseudonimiseerde burgerservicenummer aan het VPPKB 2017 en bepaalt op basis hiervan met inachtneming van [artikel 10, zesde lid van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0038554&artikel=10), per verzekerde in welke PPA klasse de verzekerde wordt ingedeeld.
 
-#### Artikel 49. MHK
+##### Artikel 49. MHK
 
 1. Het Zorginstituut baseert zich voor het aantal verzekerden voor het criterium MHK per zorgverzekeraar op:
 
@@ -722,7 +745,7 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2017 besl
 
 4. Als een verzekerde niet in een andere klasse dan ‘Geen MHK’ valt, deelt het Zorginstituut deze verzekerde in de klasse ‘Geen MHK’ in.
 
-#### Artikel 50. FDG
+##### Artikel 50. FDG
 
 1. Het Zorginstituut baseert zich voor het aantal verzekerden voor het criterium FDG per zorgverzekeraar op:
 
@@ -736,7 +759,7 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2017 besl
 
 3. Als een verzekerde niet in een andere klasse dan ‘Geen FDG’ valt, deelt het Zorginstituut deze verzekerde in bij de klasse ‘Geen FDG’.
 
-#### Artikel 51. VGG
+##### Artikel 51. VGG
 
 1. Het Zorginstituut baseert zich voor het aantal verzekerden voor het criterium VGG per zorgverzekeraar op:
 
@@ -754,7 +777,7 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2017 besl
 
 6. Als een verzekerde niet in een andere klasse dan ‘Geen VGG’ valt, deelt het Zorginstituut deze verzekerde in bij de klasse ‘Geen VGG’.
 
-#### Artikel 52. GGG
+##### Artikel 52. GGG
 
 1. Het Zorginstituut baseert zich voor het aantal verzekerden voor het criterium GGG per zorgverzekeraar op:
 
@@ -772,7 +795,7 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2017 besl
 
 6. Als een verzekerde niet in de klasse ‘Kosten in top 0,275 procent’ valt, deelt het Zorginstituut deze verzekerde in bij klasse ‘Geen GGG’.
 
-#### Artikel 53. GSM
+##### Artikel 53. GSM
 
 1. Het Zorginstituut baseert zich voor het geraamde aantal verzekerden voor het criterium GSM per zorgverzekeraar met betrekking tot:
 
@@ -784,7 +807,7 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2017 besl
 
 2. Het Zorginstituut bepaalt op basis van de gegevens, bedoeld in het eerste lid, onderdeel a en b, de morbiditeit, bedoeld in het eerste lid, onderdeel c en een koppeling met het VPPKB 2017 per verzekerde, in welke GSM klasse de verzekerde wordt ingedeeld.
 
-#### Artikel 54. FKG GGZ
+##### Artikel 54. FKG GGZ
 
 1. Het Zorginstituut baseert zich voor het aantal verzekerden voor het criterium FKG GGZ per zorgverzekeraar op:
 
@@ -796,7 +819,7 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2017 besl
 
 3. Als een verzekerde niet in een andere klasse dan ‘Geen FKG psychische aandoeningen’ valt, deelt het Zorginstituut deze verzekerde in de klasse ‘Geen FKG psychische aandoeningen’ in.
 
-#### Artikel 55. DKG GGZ
+##### Artikel 55. DKG GGZ
 
 1. Het Zorginstituut baseert zich voor het aantal verzekerden voor het criterium DKG GGZ per zorgverzekeraar op:
 
@@ -810,7 +833,7 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2017 besl
 
 3. Als een verzekerde niet in een klasse ‘1’ tot en met ‘5’ valt, deelt het Zorginstituut deze verzekerde in de klasse ‘Geen DKG psychische aandoeningen’ in.
 
-#### Artikel 56. GGZ-regio
+##### Artikel 56. GGZ-regio
 
 1. Het Zorginstituut baseert zich voor het aantal verzekerden voor het criterium GGZ-regio per zorgverzekeraar met betrekking tot:
 
@@ -822,7 +845,7 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2017 besl
 
 2. Het Zorginstituut koppelt de gegevens, bedoeld in het eerste lid onderdeel b en c, met behulp van het gepseudonimiseerde burgerservicenummer aan het VPPKB 2017 en bepaalt op basis hiervan en met inachtneming van [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0038638&bijlage=9&z=2017-08-18&g=2017-08-18) van deze Beleidsregels per verzekerde in welke GGZ-regioklasse de verzekerde wordt ingedeeld.
 
-#### Artikel 57. GGZ-MHK
+##### Artikel 57. GGZ-MHK
 
 1. Het Zorginstituut baseert zich voor het aantal verzekerden voor het criterium GGZ-MHK per zorgverzekeraar op:
 
@@ -844,7 +867,7 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2017 besl
 
 4. Als een verzekerde niet in een andere klasse dan ‘Geen GGZ-MHK’ valt, deelt het Zorginstituut deze verzekerde in de klasse ‘Geen GGZ-MHK’ in.
 
-#### Artikel 58. ZVZ
+##### Artikel 58. ZVZ
 
 1. Het Zorginstituut baseert zich voor het aantal verzekerden voor het criterium ZVZ per zorgverzekeraar op de opgave van de zorgverzekeraar aan het Zorginstituut per 1 juni 2018 van de declaraties per gepseudonimiseerd burgerservicenummer met een versleutelde ZVZ-i van alle dbc’s GGZ die in 2016 geopend zijn.
 
@@ -852,7 +875,7 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2017 besl
 
 3. Als een verzekerde niet in een andere klasse dan ‘Geen ZVZ’ valt, deelt het Zorginstituut deze verzekerde in de klasse ‘Geen ZVZ’ in.
 
-#### Artikel 59. IGG
+##### Artikel 59. IGG
 
 1. Het Zorginstituut baseert zich voor het aantal verzekerden voor het criterium IGG per zorgverzekeraar op:
 
@@ -868,7 +891,7 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2017 besl
 
 3. Als een verzekerde niet in een andere klasse dan ‘Geen IGG’ valt, deelt het Zorginstituut deze verzekerde in de klasse ‘Geen IGG’ in.
 
-#### Artikel 60. De voorlopige herberekening van het deelbedrag variabele zorgkosten 2017
+##### Artikel 60. De voorlopige herberekening van het deelbedrag variabele zorgkosten 2017
 
 1. Op basis van de opgave jaarstaat 2017 per 1 mei 2018 en met inachtneming van de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0038554&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0038554&artikel=14) en [15 van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0038554&artikel=15) bepaalt het Zorginstituut de variabele zorgkosten 2017 voor iedere zorgverzekeraar afzonderlijk, alsmede voor het totaal van de zorgverzekeraars.
 
@@ -888,7 +911,7 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2017 besl
 
 9. Het Zorginstituut vermindert per zorgverzekeraar het product voor die zorgverzekeraar, berekend in het zesde lid, met het product voor die zorgverzekeraar, berekend in het achtste lid. Het resultaat wordt aangeduid als het voorlopige herberekende deelbedrag variabele zorgkosten 2017.
 
-#### Artikel 61. De voorlopige herberekening van het deelbedrag vaste zorgkosten 2017
+##### Artikel 61. De voorlopige herberekening van het deelbedrag vaste zorgkosten 2017
 
 1. Op basis van de opgave jaarstaat 2017 per 1 mei 2018 en met inachtneming van de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0038554&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0038554&artikel=14) en [16 van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0038554&artikel=16) bepaalt het Zorginstituut de vaste zorgkosten 2017 voor iedere zorgverzekeraar afzonderlijk.
 
@@ -898,7 +921,7 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2017 besl
 
 4. De som van het resultaat van het tweede en het derde lid wordt aangeduid als het voorlopige herberekende deelbedrag vaste zorgkosten 2017.
 
-#### Artikel 62. De voorlopige herberekening van het deelbedrag kosten geneeskundige geestelijke gezondheidszorg 2017
+##### Artikel 62. De voorlopige herberekening van het deelbedrag kosten geneeskundige geestelijke gezondheidszorg 2017
 
 1. Op basis van de opgave jaarstaat 2017 per 1 mei 2018 en met inachtneming van de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0038554&artikel=13) en [14 van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0038554&artikel=14), bepaalt het Zorginstituut de kosten van geneeskundige geestelijke gezondheidszorg 2017 voor iedere zorgverzekeraar afzonderlijk, alsmede voor het totaal van de zorgverzekeraars.
 
@@ -916,7 +939,7 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2017 besl
 
 8. Het Zorginstituut vermindert per zorgverzekeraar het product voor die zorgverzekeraar berekend in het vijfde lid met het product voor die zorgverzekeraar berekend in het zevende lid. Het resultaat wordt aangeduid als het voorlopige herberekende deelbedrag kosten van de geneeskundige geestelijke gezondheidszorg 2017.
 
-#### Artikel 63. De voorlopige herberekening van het deelbedrag kosten langdurige geestelijke gezondheidszorg 2017
+##### Artikel 63. De voorlopige herberekening van het deelbedrag kosten langdurige geestelijke gezondheidszorg 2017
 
 1. Op basis van de opgave jaarstaat 2017 per 1 mei 2018 en met inachtneming van de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0038554&artikel=13) en [14 van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0038554&artikel=14), bepaalt het Zorginstituut de kosten van langdurige geestelijke gezondheidszorg 2017 voor iedere zorgverzekeraar afzonderlijk, alsmede voor het totaal van de zorgverzekeraars.
 
@@ -936,7 +959,7 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2017 besl
 
 9. Het Zorginstituut vermindert per zorgverzekeraar het product voor die zorgverzekeraar berekend in het zesde lid met het product voor die zorgverzekeraar berekend in het achtste lid. Het resultaat wordt aangeduid als het voorlopige herberekende deelbedrag kosten van de langdurige geestelijke gezondheidszorg 2017.
 
-#### Artikel 64. De voorlopige herberekening van de normatieve opbrengst van het eigen risico 2017
+##### Artikel 64. De voorlopige herberekening van de normatieve opbrengst van het eigen risico 2017
 
 1. Uitgangspunt voor de herberekening van de normatieve opbrengst van het eigen risico zijn de opgaven, bedoeld in [artikel 40, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038638&hoofdstuk=III&artikel=40&z=2017-08-18&g=2017-08-18), van de verzekerdenaantallen van de zorgverzekeraar.
 
@@ -944,7 +967,7 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2017 besl
 
 3. In afwijking van het tweede lid bepaalt het Zorginstituut de gederfde inkomsten voor verzekerden van achttien jaar en ouder voor wie op grond van [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) geen nominale premies worden ontvangen, op basis van de opgave jaarstaat 2017 per 1 mei 2018.
 
-#### Artikel 65. De voorlopige herberekening van het normatieve bedrag 2017 en de voorlopige herberekening en voorlopige vaststelling van de vereveningsbijdrage 2017
+##### Artikel 65. De voorlopige herberekening van het normatieve bedrag 2017 en de voorlopige herberekening en voorlopige vaststelling van de vereveningsbijdrage 2017
 
 1. Het Zorginstituut herberekent het normatieve bedrag 2017 voorlopig als de som van het voorlopige herberekende deelbedrag variabele zorgkosten 2017, het voorlopige herberekende deelbedrag vaste zorgkosten 2017, het voorlopig herberekende deelbedrag geneeskundige geestelijke gezondheidszorg en het voorlopig herberekende deelbedrag langdurige geestelijke gezondheidszorg 2017.
 
@@ -960,11 +983,11 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2017 besl
 
 ### Hoofdstuk IV. De tweede voorlopige vaststelling van de vereveningsbijdrage 2017 voor een zorgverzekeraar
 
-#### Artikel 66. Algemene bepaling
+##### Artikel 66. Algemene bepaling
 
 Het Zorginstituut herberekent het normatieve bedrag voor de tweede keer voorlopig met inachtneming van de kosten 2017 uit de opgave jaarstaat 2019 per 1 mei 2020, de correcties die de Nederlandse Zorgautoriteit heeft toegepast en de bepalingen uit dit hoofdstuk.
 
-#### Artikel 67. Bepaling van de verzekerdenaantallen 2017
+##### Artikel 67. Bepaling van de verzekerdenaantallen 2017
 
 1. Het Zorginstituut betrekt de correcties die de Nederlandse Zorgautoriteit heeft toegepast bij de verzekerdenaantallen 2017, zoals berekend op grond van [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0038638&hoofdstuk=III&artikel=40&z=2017-08-18&g=2017-08-18).
 
@@ -980,7 +1003,7 @@ Het Zorginstituut herberekent het normatieve bedrag voor de tweede keer voorlopi
 
 7. Voor het criterium IGG betrekt het Zorginstituut bij de verzekerdenaantallen de declaraties langdurige GGZ 2017 per gepseudonimiseerd burgerservicenummer, zoals zorgverzekeraars die op 1 juni 2019 bij het Zorginstituut hebben aangeleverd.
 
-#### Artikel 68. De tweede voorlopige herberekening van het deelbedrag variabele zorgkosten 2017
+##### Artikel 68. De tweede voorlopige herberekening van het deelbedrag variabele zorgkosten 2017
 
 1. Het Zorginstituut bepaalt met inachtneming van de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0038554&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0038554&artikel=14) en [15 van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0038554&artikel=15), de variabele zorgkosten 2017 voor iedere zorgverzekeraar afzonderlijk, alsmede voor het totaal van de zorgverzekeraars.
 
@@ -1000,11 +1023,11 @@ Het Zorginstituut herberekent het normatieve bedrag voor de tweede keer voorlopi
 
 9. Het Zorginstituut vermindert per zorgverzekeraar het product voor die zorgverzekeraar berekend in het zesde lid met het product voor die zorgverzekeraar berekend in het achtste lid. Het resultaat wordt aangeduid als het tweede voorlopige herberekende deelbedrag variabele zorgkosten 2017.
 
-#### Artikel 69. De tweede voorlopige herberekening van het deelbedrag vaste zorgkosten 2017
+##### Artikel 69. De tweede voorlopige herberekening van het deelbedrag vaste zorgkosten 2017
 
 Het Zorginstituut herberekent voor de tweede keer voorlopig het deelbedrag vaste zorgkosten 2017 overeenkomstig [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0038638&hoofdstuk=III&artikel=61&z=2017-08-18&g=2017-08-18), met inachtneming van [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0038638&hoofdstuk=IV&artikel=66&z=2017-08-18&g=2017-08-18) en [67](https://wetten.overheid.nl/jci1.3:c:BWBR0038638&hoofdstuk=IV&artikel=67&z=2017-08-18&g=2017-08-18).
 
-#### Artikel 70. De tweede voorlopige herberekening van het deelbedrag geneeskundige geestelijke gezondheidszorg 2017
+##### Artikel 70. De tweede voorlopige herberekening van het deelbedrag geneeskundige geestelijke gezondheidszorg 2017
 
 1. Het Zorginstituut bepaalt met inachtneming van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0038554&artikel=13) en [14 van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0038554&artikel=14), de kosten van geneeskundige geestelijke gezondheidszorg 2017 voor iedere zorgverzekeraar afzonderlijk, alsmede voor het totaal van de zorgverzekeraars.
 
@@ -1022,7 +1045,7 @@ Het Zorginstituut herberekent voor de tweede keer voorlopig het deelbedrag vaste
 
 8. Het Zorginstituut vermindert per zorgverzekeraar het product voor die zorgverzekeraar berekend in het vijfde lid met het product voor die zorgverzekeraar berekend in het zevende lid. Het resultaat wordt aangeduid als het tweede voorlopige herberekende deelbedrag kosten van geneeskundige geestelijke gezondheidszorg 2017.
 
-#### Artikel 71. De tweede voorlopige herberekening van het deelbedrag langdurige geestelijke gezondheidszorg 2017
+##### Artikel 71. De tweede voorlopige herberekening van het deelbedrag langdurige geestelijke gezondheidszorg 2017
 
 1. Het Zorginstituut bepaalt met inachtneming van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0038554&artikel=13) en [14 van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0038554&artikel=14), de kosten van langdurige geestelijke gezondheidszorg 2017 voor iedere zorgverzekeraar afzonderlijk, alsmede voor het totaal van de zorgverzekeraars.
 
@@ -1042,11 +1065,11 @@ Het Zorginstituut herberekent voor de tweede keer voorlopig het deelbedrag vaste
 
 9. Het Zorginstituut vermindert per zorgverzekeraar het product voor die zorgverzekeraar berekend in het zesde lid met het product voor die zorgverzekeraar berekend in het achtste lid. Het resultaat wordt aangeduid als het tweede voorlopige herberekende deelbedrag kosten van langdurige geestelijke gezondheidszorg 2017.
 
-#### Artikel 72. De tweede voorlopige herberekening van de normatieve eigen risico opbrengst 2017
+##### Artikel 72. De tweede voorlopige herberekening van de normatieve eigen risico opbrengst 2017
 
 Het Zorginstituut herberekent voor de tweede keer voorlopig de normatieve eigen risico opbrengst 2017 overeenkomstig [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0038638&hoofdstuk=III&artikel=64&z=2017-08-18&g=2017-08-18), met inachtneming van [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0038638&hoofdstuk=IV&artikel=66&z=2017-08-18&g=2017-08-18) en [67](https://wetten.overheid.nl/jci1.3:c:BWBR0038638&hoofdstuk=IV&artikel=67&z=2017-08-18&g=2017-08-18).
 
-#### Artikel 73. De tweede voorlopige herberekening van het normatieve bedrag 2017 en de tweede voorlopige herberekening en de vaststelling van de vereveningsbijdrage 2017
+##### Artikel 73. De tweede voorlopige herberekening van het normatieve bedrag 2017 en de tweede voorlopige herberekening en de vaststelling van de vereveningsbijdrage 2017
 
 1. Het Zorginstituut herberekent het normatieve bedrag 2017 voor de tweede keer voorlopig als de som van het tweede voorlopige deelbedrag variabele zorgkosten 2017, het tweede voorlopige deelbedrag vaste zorgkosten 2017, het tweede voorlopige deelbedrag geneeskundige geestelijke gezondheidszorg 2017 en het tweede voorlopige deelbedrag langdurige geestelijke gezondheidszorg 2017.
 
@@ -1062,31 +1085,31 @@ Het Zorginstituut herberekent voor de tweede keer voorlopig de normatieve eigen 
 
 ### Hoofdstuk V. De vaststelling van de vereveningsbijdrage 2017 voor een zorgverzekeraar
 
-#### Artikel 74. Algemene bepaling
+##### Artikel 74. Algemene bepaling
 
 Het Zorginstituut herberekent de vereveningsbijdrage definitief met inachtneming van de correcties die de Nederlandse Zorgautoriteit heeft gerapporteerd over de declaraties 2016 per gepseudonimiseerd burgerservicenummer en kosten 2017 uit de jaarstaat 2019.
 
-#### Artikel 75. De definitieve herberekening van het deelbedrag variabele zorgkosten 2017
+##### Artikel 75. De definitieve herberekening van het deelbedrag variabele zorgkosten 2017
 
 Het Zorginstituut herberekent definitief het deelbedrag variabele zorgkosten 2017 overeenkomstig [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0038638&hoofdstuk=IV&artikel=68&z=2017-08-18&g=2017-08-18), met inachtneming van [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0038638&hoofdstuk=V&artikel=74&z=2017-08-18&g=2017-08-18).
 
-#### Artikel 76. De definitieve herberekening van het deelbedrag vaste zorgkosten 2017
+##### Artikel 76. De definitieve herberekening van het deelbedrag vaste zorgkosten 2017
 
 Het Zorginstituut herberekent definitief het deelbedrag vaste zorgkosten 2017 overeenkomstig [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0038638&hoofdstuk=IV&artikel=69&z=2017-08-18&g=2017-08-18), met inachtneming van [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0038638&hoofdstuk=V&artikel=74&z=2017-08-18&g=2017-08-18).
 
-#### Artikel 77. De definitieve herberekening van het deelbedrag geneeskundige geestelijke gezondheidszorg 2017
+##### Artikel 77. De definitieve herberekening van het deelbedrag geneeskundige geestelijke gezondheidszorg 2017
 
 Het Zorginstituut herberekent definitief het deelbedrag geneeskundige geestelijke gezondheidszorg 2017 overeenkomstig [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0038638&hoofdstuk=IV&artikel=70&z=2017-08-18&g=2017-08-18), met inachtneming van [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0038638&hoofdstuk=V&artikel=74&z=2017-08-18&g=2017-08-18).
 
-#### Artikel 78. De definitieve herberekening van het deelbedrag langdurige geestelijke gezondheidszorg 2017
+##### Artikel 78. De definitieve herberekening van het deelbedrag langdurige geestelijke gezondheidszorg 2017
 
 Het Zorginstituut herberekent definitief het deelbedrag geneeskundige geestelijke gezondheidszorg 2017 overeenkomstig [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0038638&hoofdstuk=IV&artikel=71&z=2017-08-18&g=2017-08-18), met inachtneming van [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0038638&hoofdstuk=V&artikel=74&z=2017-08-18&g=2017-08-18).
 
-#### Artikel 79. De definitieve herberekening van de normatieve eigen risico opbrengst 2017
+##### Artikel 79. De definitieve herberekening van de normatieve eigen risico opbrengst 2017
 
 Het Zorginstituut herberekent definitief het deelbedrag normatieve eigen risico opbrengst overeenkomstig [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0038638&hoofdstuk=IV&artikel=72&z=2017-08-18&g=2017-08-18), met inachtneming van [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0038638&hoofdstuk=V&artikel=74&z=2017-08-18&g=2017-08-18).
 
-#### Artikel 80. De definitieve herberekening van het normatieve bedrag 2017 en de definitieve herberekening en de vaststelling van de bijdrage 2017
+##### Artikel 80. De definitieve herberekening van het normatieve bedrag 2017 en de definitieve herberekening en de vaststelling van de bijdrage 2017
 
 1. Het Zorginstituut herberekent definitief het normatieve bedrag 2017 overeenkomstig [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0038638&hoofdstuk=IV&artikel=73&z=2017-08-18&g=2017-08-18), met inachtneming van [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0038638&hoofdstuk=V&artikel=74&z=2017-08-18&g=2017-08-18).
 
@@ -1094,7 +1117,7 @@ Het Zorginstituut herberekent definitief het deelbedrag normatieve eigen risico 
 
 ### Hoofdstuk VI. De betalingen aan de zorgverzekeraars
 
-#### Artikel 81
+##### Artikel 81
 
 1. Het Zorginstituut betaalt de zorgverzekeraars de vereveningsbijdrage, bedoeld in [artikel 37, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038638&hoofdstuk=II&artikel=37&z=2017-08-18&g=2017-08-18), uit. Het Zorginstituut maakt bij de betaling onderscheid naar de volgende bestanddelen:
 
@@ -1110,7 +1133,7 @@ Het Zorginstituut herberekent definitief het deelbedrag normatieve eigen risico 
 
 2. Het Zorginstituut betaalt de zorgverzekeraars de uitkering in verband met uitvoeringskosten van verzekerden jonger dan achttien jaar, bedoeld in [artikel 37, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038638&hoofdstuk=II&artikel=37&z=2017-08-18&g=2017-08-18), gelijktijdig met de betaling genoemd in het eerste lid uit.
 
-#### Artikel 82. Betaling
+##### Artikel 82. Betaling
 
 1. Het Zorginstituut bepaalt per zorgverzekeraar de som van de bestanddelen genoemd in [artikel 81, eerste lid, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0038638&hoofdstuk=VI&artikel=81&z=2017-08-18&g=2017-08-18) en de uitkering, genoemd in artikel 81, tweede lid.
 
@@ -1164,7 +1187,7 @@ Het Zorginstituut herberekent definitief het deelbedrag normatieve eigen risico 
 
 7. Het Zorginstituut kan, indien naar zijn oordeel uit nieuwe informatie blijkt dat de verwachting is dat bij de eerstvolgende herberekening of herziening van de vereveningsbijdrage, de vereveningsbijdrage meer dan 5 procent hoger zal zijn dan bij de laatst toegekende of voorlopig vastgestelde vereveningsbijdrage, afwijken van de vorige leden en de betalingen aan een zorgverzekeraar aanpassen.
 
-#### Artikel 83. Aanpassing betalingen
+##### Artikel 83. Aanpassing betalingen
 
 1. Bij de herberekening en herziening van de toegekende vereveningsbijdrage 2017 op grond van [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0038638&hoofdstuk=II&artikel=39&z=2017-08-18&g=2017-08-18) herziet het Zorginstituut de te betalen termijnen overeenkomstig [artikel 82](https://wetten.overheid.nl/jci1.3:c:BWBR0038638&hoofdstuk=VI&artikel=82&z=2017-08-18&g=2017-08-18) voor de eerste keer. Het Zorginstituut verrekent het verschil tussen de reeds betaalde termijnen en de voor de eerste keer herziene termijnen.
 
@@ -1178,13 +1201,13 @@ Het Zorginstituut herberekent definitief het deelbedrag normatieve eigen risico 
 
 6. Indien toepassing van onderscheidenlijk het eerste, tweede, derde en vierde lid, resulteert in een negatief saldo voor de zorgverzekeraar, betaalt de betreffende zorgverzekeraar dat saldo in één keer terug aan het Zorginstituut.
 
-#### Artikel 84. Rente
+##### Artikel 84. Rente
 
 1. De zorgverzekeraar en het Zorginstituut zijn over en weer rente verschuldigd en hebben over en weer aanspraak op rente over de verschillen, bedoeld in [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBR0038638&hoofdstuk=VI&artikel=83&z=2017-08-18&g=2017-08-18).
 
 2. De rente, bedoeld in het eerste lid, wordt bij de eerste voorlopige, tweede voorlopige en de definitieve vaststelling van de uitkering door het Zorginstituut verwerkt en zo mogelijk verrekend met andere betalingen die uit deze vaststellingen voortvloeien.
 
-#### Artikel 85. Renteberekening
+##### Artikel 85. Renteberekening
 
 1. Bij de verrekening van verschillen, bedoeld in [artikel 83, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038638&hoofdstuk=VI&artikel=83&z=2017-08-18&g=2017-08-18), berekent het Zorginstituut rente over het verschil vanaf de datum waarop het verschil is ontstaan tot de datum waarop de verschillen worden verrekend.
 
@@ -1208,15 +1231,15 @@ Bij de berekening wordt een maand op 30 en een jaar op 360 dagen gesteld.
 
 ### Hoofdstuk VII. Slotbepalingen
 
-#### Artikel 86. ter inzage leggen referentiebestanden
+##### Artikel 86. ter inzage leggen referentiebestanden
 
 Het Zorginstituut legt de referentiebestanden, bedoeld in [bijlage 1 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0038638&bijlage=1&z=2017-08-18&g=2017-08-18), te zijner kantore ter inzage en publiceert deze op zijn website.
 
-#### Artikel 87
+##### Artikel 87
 
 Deze beleidregels treden in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij worden geplaatst en werken terug tot en met 1 oktober 2016.
 
-#### Artikel 88
+##### Artikel 88
 
 Deze beleidsregels worden aangehaald als: Beleidsregels vereveningsbijdrage zorgverzekering 2017.
 

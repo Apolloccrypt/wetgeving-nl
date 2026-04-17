@@ -1,13 +1,39 @@
 ---
-title: "Bestuursreglement Raad voor plantenrassen"
+title: "Bestuursreglement van de Raad voor plantenrassen"
 identifier: "BWBR0034441"
-categorie: "Bestuursrecht"
-publicatiedatum: 2017-05-31
-laatste_update: 2017-05-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034441"
+country: "nl"
+rank: "zbo"
+publication_date: "2017-05-31"
+last_updated: "2017-05-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034441"
+soort: "zbo"
+stam_id: "12492653"
+version_id: "21018232"
+internal_id: "C30184641"
+label_id: "12463394"
+dtd_version: "2.0"
+original_entry_into_force: "2013-12-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034441/2017-05-31/0"
+intitule_bron: "Stcrt.2013-35536"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-10-18"
+intitule_published: "2013-12-19"
+intitule_in_force: "2013-12-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-35536"
+original_signed_date: "2013-10-18"
+original_published_date: "2013-12-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-35536"
+entry_into_force_date: "2013-12-21"
+jci_1_3: "jci1.3:c:BWBR0034441&z=2017-05-31&g=2017-05-31"
+jci_1_0: "1.0:c:BWBR0034441&g=2017-05-31"
+citeertitel_status: "officieel"
+short_title: "Bestuursreglement Raad voor plantenrassen"
+signed_date: "2013-10-18"
+entry_into_force: "2013-12-21"
 ---
-
 # Bestuursreglement van de Raad voor plantenrassen
 
 1 Laatstelijk gewijzigd op 18 januari 2013.Gelet op [artikel 8 van de Zaaizaad- en plantgoedwet 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=8);
@@ -16,13 +42,13 @@ Gelet op [artikel 11, Kaderwet zelfstandige bestuursorganen](https://wetten.over
 
 Besluit:
 
-#### Artikel 1. (domiciliekeuze; talen)
+##### Artikel 1. (domiciliekeuze; talen)
 
 1. Indien de indiener van een aanvraag tot toelating als bedoeld in [hoofdstuk 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=5) geen woonplaats of zetel in de Europese Unie heeft, is hij verplicht binnen de Europese Unie domicilie te kiezen bij een gemachtigde, welke keuze geacht wordt van kracht te blijven totdat schriftelijk aan de Raad kennis is gegeven van de wijziging van het gekozen domicilie.
 
 2. In beginsel communiceert de Raad in de Nederlandse taal en, indien opportuun, in de Engelse taal.
 
-#### Artikel 2. (volgordelijke registratie van stukken)
+##### Artikel 2. (volgordelijke registratie van stukken)
 
 1. Bij de Raad ingediende stukken en tot de Raad gerichte stukken worden, ter bepaling van het tijdstip waarop zij zijn ingediend, onmiddellijk na ontvangst door het bureau van de Raad voorzien van een aantekening houdende uur, dag, maand en jaar van die ontvangst.
 
@@ -34,7 +60,7 @@ Besluit:
 
 5. De ondertekening van stukken moet desverlangd worden gelegaliseerd.
 
-#### Artikel 2a. (taakverdeling van de Raad)
+##### Artikel 2a. (taakverdeling van de Raad)
 
 1. De afdelingen van de Raad zijn belast met de besluitvorming en de uitvoering van de taken die ingevolge de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=5) en [7 van de Zaaizaad- en plantgoedwet 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=7) aan de Raad zijn opgedragen. De taakverdeling tussen de afdelingen is als volgt:
 
@@ -50,7 +76,7 @@ Besluit:
 
 - c. de Afdeling Bosbouwgewassen is belast met de besluitvorming en de uitvoering van de taken ten aanzien van bosbouwgewassen als bedoeld in [artikel 5 van de Regeling werkzaamheden Raad voor plantenrassen](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&artikel=5).
 
-#### Artikel 3. (vergaderingen)
+##### Artikel 3. (vergaderingen)
 
 1. De Raad vergadert zo dikwijls als nodig is voor een goede voortgang van de behandeling van de bij de Raad ingediende aanvragen, verzoeken en bezwaarschriften. Bij elke vergadering van de Raad is de secretaris of een adjunct-secretaris aanwezig.
 
@@ -58,19 +84,19 @@ Besluit:
 
 3. De secretaris roept de vergaderingen van de Raad en andere door de Raad belegde bijeenkomsten bijeen.
 
-#### Artikel 4. (oproeping van getuigen en deskundigen)
+##### Artikel 4. (oproeping van getuigen en deskundigen)
 
 1. De oproeping van aanvragers, verzoekers en andere belanghebbenden alsmede van getuigen en deskundigen, die de Raad wenst te horen, geschiedt schriftelijk onder opgave van het voor de verschijning bepaalde tijdstip.
 
 2. Bij de oproeping moet tussen de dag van de verzending en die van de verschijning een termijn van ten minste drie dagen in acht worden genomen.
 
-#### Artikel 5. (verhoor)
+##### Artikel 5. (verhoor)
 
 1. Van het verhoor van getuigen en deskundigen wordt een verslag gemaakt, dat hen ter kennisneming wordt gestuurd.
 
 2. Van de door getuigen en deskundige afgelegde eed of belofte wordt in het verslag melding gemaakt.
 
-#### Artikel 6. (besluitvorming)
+##### Artikel 6. (besluitvorming)
 
 1. Voor het nemen van besluiten in de zin van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) (hierna: Awb) behoeft de Raad ten minste het onderstaande aantal uitgebrachte stemmen, waarbij een blanco stem wordt gerekend als een uitgebrachte stem:
 
@@ -84,7 +110,7 @@ de Afdeling Bosbouwgewassen: 2.
 
 3. Onverminderd [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034441&artikel=11&z=2017-05-31&g=2017-05-31), worden de besluiten van de Raad, voor zover zij besluiten zijn in de zin van de [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537), gedagtekend en ondertekend door de voorzitter of de plaatsvervangend voorzitter en de secretaris of een adjunct-secretaris.
 
-#### Artikel 7. (adviescommissies)
+##### Artikel 7. (adviescommissies)
 
 1. De Raad kan één of meerdere adviescommissies instellen.
 
@@ -114,13 +140,13 @@ de Afdeling Bosbouwgewassen: 2.
 
 - e. De adviescommissie komt bijeen zoveel als zij nodig acht met een maximum van drie bijeenkomsten per jaar.
 
-#### Artikel 8. (deskundigen en deskundigencommissies van het bureau)
+##### Artikel 8. (deskundigen en deskundigencommissies van het bureau)
 
 1. De secretaris van de Raad kan deskundigen, al dan niet in commissieverband, benoemen.
 
 2. De secretaris informeert de Raad over de ingevolge het eerste lid benoemde deskundigen.
 
-#### Artikel 9. (geldelijke vergoedingen)
+##### Artikel 9. (geldelijke vergoedingen)
 
 1. De Raad stelt een aan de leden van de door de Raad ingestelde adviescommissie toe te kennen vergoeding (vacatiegeld) vast voor het deelnemen aan een zitting of vergadering van de Raad.
 
@@ -130,11 +156,11 @@ de Afdeling Bosbouwgewassen: 2.
 
 4. Het hoofd van het Bureau voor plantenrassen stelt vacatiegelden en vergoedingen voor reis- en verblijfkosten vast voor de ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0034441&artikel=8&z=2017-05-31&g=2017-05-31) benoemde deskundigen.
 
-#### Artikel 10. (vertegenwoordiging in en buiten rechte)
+##### Artikel 10. (vertegenwoordiging in en buiten rechte)
 
 De Raad machtigt de secretaris of, bij diens ontstentenis, een adjunct-secretaris om de Raad in en buiten rechte te vertegenwoordigen, in het bijzonder in rechtsgedingen met betrekking tot besluiten van de Raad.
 
-#### Artikel 11. (mandaat m.b.t. eenduidige dossiers)
+##### Artikel 11. (mandaat m.b.t. eenduidige dossiers)
 
 1. Met betrekking tot aanvragen tot verlening van kwekersrecht en/of toelating van rassen of opstanden, die blijkens de onderliggende technische rapporten voor toewijzing in aanmerking komen en die overigens geen nadere overweging behoeven, is de secretaris bevoegd namens de Raad te besluiten.
 
@@ -148,20 +174,20 @@ De Raad machtigt de secretaris of, bij diens ontstentenis, een adjunct-secretari
 
 6. De Raad behandelt de rapportages over het toezicht op de uitvoering van het onderzoek op basis waarvan van de technische rapporten worden opgesteld.
 
-#### Artikel 12. (formulieren)
+##### Artikel 12. (formulieren)
 
 De secretaris stelt de formulieren en overige bescheiden vast, benodigd voor de indiening van een aanvraag tot verlening van kwekersrecht en/of tot toelating als bedoeld in [hoofdstuk 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=5) en de daarmee samenhangende procedure.
 
-#### Artikel 13. (inzendingseisen)
+##### Artikel 13. (inzendingseisen)
 
 De secretaris stelt, in overleg met de onderzoekende instantie, de voorwaarden vast aangaande het materiaal dat benodigd is voor het technische onderzoek, als bedoeld in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=36) respectievelijk [55 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=55).
 
-#### Artikel 14. (inwerkingtreding)
+##### Artikel 14. (inwerkingtreding)
 
 Dit besluit treedt in werking twee dagen na de publicatie ervan in de Staatscourant en werkt
 
 terug tot en met 1 november 2013.
 
-#### Artikel 15
+##### Artikel 15
 
 Dit besluit wordt aangehaald als: Bestuursreglement Raad voor plantenrassen.

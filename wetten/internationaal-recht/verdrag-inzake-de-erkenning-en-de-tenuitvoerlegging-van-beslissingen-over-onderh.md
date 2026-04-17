@@ -1,13 +1,38 @@
 ---
 title: "Verdrag inzake de erkenning en de tenuitvoerlegging van beslissingen over onderhoudsverplichtingen"
 identifier: "BWBV0001995"
-categorie: "Internationaal recht"
-publicatiedatum: 1981-03-01
-laatste_update: 1981-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001995"
+country: "nl"
+rank: "verdrag"
+publication_date: "1981-03-01"
+last_updated: "1981-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001995"
+soort: "verdrag"
+stam_id: "10002597503"
+version_id: "10002594632"
+internal_id: "C10006982101"
+label_id: "10002587074"
+dtd_version: "2.0"
+original_entry_into_force: "1981-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001995/1981-03-01/0"
+intitule_bron: "Trb.1974-85"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1980-12-12"
+intitule_published: "1974-06-06"
+intitule_in_force: "1981-02-04"
+intitule_status: "goed"
+original_publication: "Trb.1974-85"
+original_signed_date: "1980-12-12"
+original_published_date: "1974-06-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1974-85"
+entry_into_force_date: "1981-03-01"
+jci_1_3: "jci1.3:c:BWBV0001995&z=1981-03-01&g=1981-03-01"
+jci_1_0: "1.0:c:BWBV0001995&g=1981-03-01"
+citeertitel_status: "redactioneel"
+signed_date: "1980-12-12"
+entry_into_force: "1981-03-01"
 ---
-
 # Verdrag inzake de erkenning en de tenuitvoerlegging van beslissingen over onderhoudsverplichtingen
 
 De Staten die dit Verdrag hebben ondertekend,
@@ -20,7 +45,7 @@ Hebben besloten hiertoe een Verdrag te sluiten en zijn overeengekomen als volgt:
 
 ### HOOFDSTUK I. TOEPASSINGSGEBIED VAN HET VERDRAG
 
-#### Artikel 1
+##### Artikel 1
 
 Dit Verdrag is van toepassing op beslissingen over onderhoudsverplichtingen voortvloeiend uit familiebetrekkingen, uit bloedverwantschap, huwelijk of aanverwantschap, met inbegrip van onderhoudsverplichtingen jegens een onwettig kind, gegeven door de rechterlijke of administratieve autoriteiten van een Verdragsluitende Staat tussen:
 
@@ -30,7 +55,7 @@ Dit Verdrag is van toepassing op beslissingen over onderhoudsverplichtingen voor
 
 Het is eveneens van toepassing op schikkingen welke ter zake zijn gemaakt tussen deze personen ten overstaan van deze autoriteiten.
 
-#### Artikel 2
+##### Artikel 2
 
 Het Verdrag is van toepassing op beslissingen en schikkingen, hoe ook omschreven.
 
@@ -38,13 +63,13 @@ Het is eveneens van toepassing op beslissingen of schikkingen waarbij een vroege
 
 Het is van toepassing, ongeacht of de onderhoudsvordering van internationale of binnenlandse aard is en ongeacht de nationaliteit of de gewone verblijfplaats van de partijen.
 
-#### Artikel 3
+##### Artikel 3
 
 Indien de beslissing of schikking niet alleen de onderhoudsverplichting betreft, blijft de werking van het Verdrag tot deze laatste beperkt.
 
 ### HOOFDSTUK II. VOORWAARDEN VOOR DE ERKENNING EN TENUITVOERLEGGING VAN BESLISSINGEN
 
-#### Artikel 4
+##### Artikel 4
 
 De in een Verdragsluitende Staat gegeven beslissing moet in een andere Verdragsluitende Staat worden erkend of uitvoerbaar verklaard indien:
 
@@ -54,7 +79,7 @@ De in een Verdragsluitende Staat gegeven beslissing moet in een andere Verdragsl
 
 Beslissingen uitvoerbaar bij voorraad en voorlopige maatregelen worden, ook al zijn zij nog vatbaar voor beroep, erkend of uitvoerbaar verklaard in de aangezochte Staat, indien soortgelijke beslissingen daar kunnen worden gegeven en ten uitvoer gelegd.
 
-#### Artikel 5
+##### Artikel 5
 
 De erkenning of tenuitvoerlegging van de beslissing kan niettemin worden geweigerd indien:
 
@@ -66,11 +91,11 @@ De erkenning of tenuitvoerlegging van de beslissing kan niettemin worden geweige
 
 - 4. de beslissing onverenigbaar is met een tussen dezelfde partijen over hetzelfde onderwerp gegeven beslissing, welke is gegeven in de aangezochte Staat, hetzij in een andere Staat, mits zij in het laatste geval voldoet aan de voorwaarden vereist voor haar erkenning en tenuitvoerlegging in de aangezochte Staat.
 
-#### Artikel 6
+##### Artikel 6
 
 Onverminderd het bepaalde in artikel 5 wordt een bij verstek gegeven beslissing slechts erkend of uitvoerbaar verklaard indien het stuk waarmede het geding wordt ingeleid en dat de hoofdpunten van de eis omvat, overeenkomstig het recht van de Staat van herkomst is medegedeeld of betekend aan de partij tegen wie het verstek werd verleend, en indien aan die partij een termijn was gelaten die, de omstandigheden in aanmerking genomen, voldoende was voor het voeren van verweer.
 
-#### Artikel 7
+##### Artikel 7
 
 De autoriteit van de Staat van herkomst wordt bevoegd geacht in de zin van het Verdrag:
 
@@ -80,45 +105,45 @@ De autoriteit van de Staat van herkomst wordt bevoegd geacht in de zin van het V
 
 - 3. de verweerder zich heeft onderworpen aan de bevoegdheid van deze autoriteit, uitdrukkelijk dan wel door verweer ten gronde te voeren zonder voorbehoud ten aanzien van de bevoegdheid.
 
-#### Artikel 8
+##### Artikel 8
 
 Onverminderd het bepaalde in artikel 7 worden de autoriteiten van een Verdragsluitende Staat die vonnis hebben gewezen inzake een vordering tot onderhoud als bevoegd in de zin van het Verdrag beschouwd, indien dit onderhoud verschuldigd is op grond van een echtscheiding, een scheiding van tafel en bed, nietigheid of ongeldigverklaring van het huwelijk, uitgesproken voor een autoriteit van deze Staat die volgens het recht van de aangezochte Staat als ter zake bevoegd wordt erkend.
 
-#### Artikel 9
+##### Artikel 9
 
 De autoriteit van de aangezochte Staat is gebonden aan de feitelijke overwegingen op grond waarvan de autoriteit van de Staat van herkomst haar bevoegdheid heeft aangenomen.
 
-#### Artikel 10
+##### Artikel 10
 
 Wanneer de beslissing verschillende punten van de eis tot onderhoud betreft en de erkenning of tenuitvoerlegging niet voor alle punten kan worden toegestaan, past de autoriteit van de aangezochte Staat het Verdrag toe op het gedeelte van de beslissing dat kan worden erkend of uitvoerbaar verklaard.
 
-#### Artikel 11
+##### Artikel 11
 
 Wanneer de beslissing de uitkering van onderhoud door middel van periodieke betalingen beveelt, wordt de tenuitvoerlegging toegestaan zowel voor de reeds verschuldigde als voor de nog verschuldigde betalingen.
 
-#### Artikel 12
+##### Artikel 12
 
 Tenzij het Verdrag anders bepaalt, wordt door de autoriteit van de aangezochte Staat niet onderzocht of de beslissing juist is.
 
 ### HOOFDSTUK III. PROCEDURE VOOR DE ERKENNING EN TENUITVOERLEGGING VAN BESLISSINGEN
 
-#### Artikel 13
+##### Artikel 13
 
 Tenzij het Verdrag anders bepaalt, wordt de procedure voor de erkenning of tenuitvoerlegging van de beslissing beheerst door het recht van de aangezochte Staat.
 
-#### Artikel 14
+##### Artikel 14
 
 Gedeeltelijke erkenning of tenuitvoerlegging van een beslissing kan steeds worden verzocht.
 
-#### Artikel 15
+##### Artikel 15
 
 De onderhoudsgerechtigde die in de Staat van herkomst vergunning heeft verkregen om kosteloos of tegen verminderd tarief te procederen, geniet bij een procedure tot erkenning of tenuitvoerlegging de gunstigste bijstand of de ruimste vrijstelling van kosten waarin het recht van de aangezochte Staat voorziet.
 
-#### Artikel 16
+##### Artikel 16
 
 Geen enkele zekerheidstelling of depot, onder welke benaming ook, kan worden verlangd ter waarborging van de betaling van de proceskosten in de bij het Verdrag bedoelde procedures.
 
-#### Artikel 17
+##### Artikel 17
 
 De partij die de erkenning van een beslissing inroept of de tenuitvoerlegging daarvan verlangt moet overleggen:
 
@@ -138,7 +163,7 @@ Geen legalisatie of soortgelijke formaliteit mag worden geëist.
 
 ### HOOFDSTUK IV. AANVULLENDE BEPALINGEN BETREFFENDE OPENBARE INSTELLINGEN
 
-#### Artikel 18
+##### Artikel 18
 
 Een beslissing welke is gegeven tegen een onderhoudsplichtige op verzoek van een openbare instelling, die de terugbetaling vordert van aan die onderhoudsgerechtigde verstrekte uitkeringen, wordt erkend en uitvoerbaar verklaard overeenkomstig het Verdrag indien:
 
@@ -146,41 +171,41 @@ Een beslissing welke is gegeven tegen een onderhoudsplichtige op verzoek van een
 
 - 2. de interne wet aangewezen door het internationaal privaatrecht van de aangezochte Staat voorziet in het bestaan van een onderhoudsverplichting tussen deze onderhoudsgerechtigde en deze onderhoudsplichtige.
 
-#### Artikel 19
+##### Artikel 19
 
 Een openbare instelling kan tot het bedrag van de door haar aan de onderhoudsgerechtigde verstrekte uitkeringen de erkenning of tenuitvoerlegging verzoeken van een beslissing welke is gegeven tussen de onderhoudsgerechtigde en de onderhoudsplichtige indien zij volgens de wet waaraan zij is onderworpen, van rechtswege bevoegd is in de plaats van de onderhoudsgerechtigde de erkenning of tenuitvoerlegging van de beslissing te verzoeken.
 
-#### Artikel 20
+##### Artikel 20
 
 Onverminderd het bepaalde in artikel 17 moet de openbare instelling die de erkenning of tenuitvoerlegging verzoekt alle stukken overleggen aan de hand waarvan kan worden vastgesteld dat zij voldoet aan de voorwaarden van artikel 18, onder 1, of van artikel 19 en dat de uitkeringen aan de onderhoudsgerechtigde zijn verstrekt.
 
 ### HOOFDSTUK V. SCHIKKINGEN
 
-#### Artikel 21
+##### Artikel 21
 
 Schikkingen die uitvoerbaar zijn in de Staat van herkomst worden erkend en uitvoerbaar verklaard op dezelfde voorwaarden als beslissingen, voor zover die voorwaarden op die schikkingen toepasselijk zijn.
 
 ### HOOFDSTUK VI. DIVERSE BEPALINGEN
 
-#### Artikel 22
+##### Artikel 22
 
 De Verdragsluitende Staten wier wet beperkingen oplegt aan de overmaking van gelden, kennen de hoogste prioriteit toe aan overmakingen van gelden bestemd om te worden betaald als onderhoud of ter dekking van de kosten en uitgaven voor een verzoek op grond van dit Verdrag.
 
-#### Artikel 23
+##### Artikel 23
 
 Het Verdrag belet niet dat een beroep wordt gedaan op een andere internationale akte die de Staat van herkomst en de aangezochte Staat bindt, of op het niet op verdragen gebaseerde recht van de aangezochte Staat ter verkrijging van de erkenning of tenuitvoerlegging van een beslissing of een schikking.
 
-#### Artikel 24
+##### Artikel 24
 
 Het Verdrag is van toepassing ongeacht de datum waarop de beslissing is gegeven.
 
 Wanneer de beslissing is gegeven vóór de inwerkingtreding van het Verdrag in de betrekkingen tussen de Staat van herkomst en de aangezochte Staat wordt zij in laatstgenoemde Staat slechts uitvoerbaar verklaard voor wat betreft de na deze inwerkingtreding verschuldigde betalingen.
 
-#### Artikel 25
+##### Artikel 25
 
 Elke Verdragsluitende Staat kan te allen tijde verklaren dat, in zijn betrekkingen met de Staten die dezelfde verklaring hebben afgelegd, de bepalingen van het Verdrag worden uitgebreid tot alle authentieke akten welke ten overstaan van een autoriteit of een Overheidsfunctionaris zijn opgemaakt en uitvoerbaar zijn in de Staat van herkomst, voor zover die bepalingen op die akten toepasselijk zijn.
 
-#### Artikel 26
+##### Artikel 26
 
 Elke Verdragsluitende Staat kan, overeenkomstig, artikel 34, zich het recht voorbehouden niet te erkennen of uitvoerbaar te verklaren:
 
@@ -196,11 +221,11 @@ Elke Verdragsluitende Staat kan, overeenkomstig, artikel 34, zich het recht voor
 
 Een Verdragsluitende Staat die een voorbehoud heeft gemaakt is niet gerechtigd de toepassing van het Verdrag te eisen op beslissingen en schikkingen welke door zijn voorbehoud zijn uitgesloten.
 
-#### Artikel 27
+##### Artikel 27
 
 Indien een Verdragsluitende Staat ter zake van onderhoudsverplichtingen twee of meer rechtsstelsels kent die van toepassing zijn op verschillende categorieën personen, worden verwijzingen maar de wet van die Staat zo uitgelegd, dat daarmede het rechtsstelsel wordt bedoeld dat volgens zijn recht is aangewezen als van toepassing op een bepaalde categorie personen.
 
-#### Artikel 28
+##### Artikel 28
 
 Indien een Verdragsluitende Staat twee of meer gebiedsdelen omvat waarin, wat betreft de erkenning en tenuitvoerlegging van beslissingen inzake onderhoudsverplichtingen, verschillende rechtsstelsels worden toegepast:
 
@@ -214,19 +239,19 @@ Indien een Verdragsluitende Staat twee of meer gebiedsdelen omvat waarin, wat be
 
 Elke Verdragsluitende Staat kan te allen tijde verklaren dat hij een of meer van deze regels niet zal toepassen op een of meer bepalingen van het Verdrag.
 
-#### Artikel 29
+##### Artikel 29
 
 Dit Verdrag vervangt in de betrekkingen tussen de Staten die daarbij partij zijn het [Verdrag nopens de erkenning en de tenuitvoerlegging van beslissingen over onderhoudsverplichtingen jegens kinderen](https://wetten.overheid.nl/jci1.3:c:BWBV0002908), dat op 15 april 1958 te 's-Gravenhage tot stand kwam.
 
 ### HOOFDSTUK VII. SLOTBEPALINGEN
 
-#### Artikel 30
+##### Artikel 30
 
 Het Verdrag staat open voor ondertekening door de Staten die lid waren van de Haagse Conferentie voor internationaal privaatrecht ten tijde van haar twaalfde zitting.
 
 Het dient te worden bekrachtigd, aanvaard of goedgekeurd en de akten van bekrachtiging, aanvaarding of goedkeuring dienen te worden nedergelegd bij het Ministerie van Buitenlandse Zaken van Nederland.
 
-#### Artikel 31
+##### Artikel 31
 
 Elke Staat die eerst na de twaalfde zitting lid van de Conferentie is geworden, of die lid is van de Organisatie der Verenigde Naties of van een van de gespecialiseerde organisaties daarvan, of die partij is bij het [Statuut van het Internationaal Gerechtshof](https://wetten.overheid.nl/jci1.3:c:BWBV0005509), kan tot dit Verdrag toetreden na de inwerkingtreding ervan overeenkomstig de eerste alinea van artikel 35.
 
@@ -236,7 +261,7 @@ De toetreding geldt slechts voor de betrekkingen tussen de toetredende Staat en 
 
 Een zodanig bezwaar kan tevens door elke Lid-Staat worden gemaakt op het tijdstip van bekrachtiging, aanvaarding of goedkeuring van het Verdrag na de toetreding door die Staat. Deze bezwaren worden ter kennis gebracht van het Ministerie van Buitenlandse Zaken van Nederland.
 
-#### Artikel 32
+##### Artikel 32
 
 Elke Staat kan, op het tijdstip van ondertekening, bekrachtiging, goedkeuring, aanvaarding of toetreding verklaren dat het Verdrag zich uitstrekt tot alle gebieden voor welker internationale betrekkingen hij verantwoordelijk is of tot een of meer van deze gebieden. Deze verklaring wordt van kracht op de datum van die inwerkingtreding van het Verdrag voor genoemde Staat.
 
@@ -248,7 +273,7 @@ Een zodanig bezwaar kan tevens door elke Lid-Staat worden gemaakt op het tijdsti
 
 Deze bezwaren worden ter kennis gebracht van het Ministerie van Buitenlandse Zaken van Nederland.
 
-#### Artikel 33
+##### Artikel 33
 
 Elke Verdragsluitende Staat die twee of meer gebiedsdelen omvat waarbinnen verschillende rechtsstelsels van toepassing zijn ter zake van de erkenning en tenuitvoerlegging van beslissingen inzake onderhoudsverplichtingen, kan op het tijdstip van ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding verklaren dat dit Verdrag zich zal uitstrekken tot al zijn gebiedsdelen of slechts tot een of meer daarvan en kan te allen tijde deze verklaring wijzigen door een nieuwe verklaring af te leggen.
 
@@ -256,7 +281,7 @@ Deze verklaringen worden ter kennis gebracht van het Ministerie van Buitenlandse
 
 De andere Verdragsluitende Staten kunnen weigeren een beslissing inzake onderhoudsverplichtingen te erkennen indien, op de datum waarop de erkenning wordt ingeroepen, het Verdrag niet van toepassing is op het gebiedsdeel waarin die beslissing werd verkregen.
 
-#### Artikel 34
+##### Artikel 34
 
 Elke Staat kan, uiterlijk op het tijdstip van bekrachtiging, aanvaarding, goedkeuring of toetreding, een of meer van de voorbehouden maken bedoeld in artikel 26. Andere voorbehouden zijn niet toegestaan.
 
@@ -266,7 +291,7 @@ Elke Verdragsluitende Staat kan te allen tijde een door hem gemaakt voorbehoud i
 
 De geldigheid van het voorbehoud eindigt op de eerste dag van de derde kalendermaand na de kennisgeving bedoeld in de voorgaande alinea.
 
-#### Artikel 35
+##### Artikel 35
 
 Het Verdrag treedt in werking op de eerste dag van die derde kalendermaand na de nederlegging van de derde akte van bekrachtiging, aanvaarding of goedkeuring bedoeld in artikel 30. Daarna treedt het Verdrag in werking:
 
@@ -276,7 +301,7 @@ Het Verdrag treedt in werking op de eerste dag van die derde kalendermaand na de
 
 - -. voor de gebiedsdelen waartoe het Verdrag zich uitstrekt overeenkomstig artikel 32, op de eerste dag van de derde kalendermaand na het verstrijken van de in genoemd artikel bedoelde termijn.
 
-#### Artikel 36
+##### Artikel 36
 
 Het Verdrag heeft een looptijd van vijf jaar vanaf de datum van zijn inwerkingtreding overeenkomstig de eerste alinea van artikel 35, zelfs voor de Staten die het daarna hebben bekrachtigd, aanvaard of goedgekeurd of daartoe zijn toegetreden.
 
@@ -286,7 +311,7 @@ De opzegging wordt, uiterlijk zes maanden voor het verstrijken van het tijdvak v
 
 De opzegging geldt slechts ten aanzien van de Staat die haar heeft gedaan. Voor de andere Verdragsluitende Staten blijft het Verdrag van kracht.
 
-#### Artikel 37
+##### Artikel 37
 
 Het Ministerie van Buitenlandse Zaken van Nederland stelt de Lid-Staten van de Conferentie, alsmede de Staten die overeenkomstig het bepaalde in artikel 31 zijn toegetreden, in kennis van:
 

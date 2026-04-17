@@ -1,13 +1,39 @@
 ---
-title: "Wijzigingsregeling Regeling Europese EZK en LNV subsidies 2021 (brede weersverzekering en opvragen BTW-nummer)"
+title: "Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 13 december 2022, nr. WJZ 22526407, houdende wijziging van de Regeling Europese EZK en LNV subsidies 2021 door inpassing van de brede weersverzekering onder het nieuwe GLB en het opvragen van het BTW-nummer"
 identifier: "BWBR0047677"
-categorie: "Belastingrecht"
-publicatiedatum: 2023-01-01
-laatste_update: 2023-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047677"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-01-01"
+last_updated: "2023-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047677"
+soort: "ministeriele-regeling"
+stam_id: "16608033"
+version_id: "29127982"
+internal_id: "C41396681"
+label_id: "16526544"
+dtd_version: "2.0"
+original_entry_into_force: "2023-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047677/2023-01-01/0"
+intitule_bron: "Stcrt.2022-34340"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-12-13"
+intitule_published: "2022-12-21"
+intitule_in_force: "2022-12-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-34340"
+original_signed_date: "2022-12-13"
+original_published_date: "2022-12-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-34340"
+entry_into_force_date: "2023-01-01"
+jci_1_3: "jci1.3:c:BWBR0047677&z=2023-01-01&g=2023-01-01"
+jci_1_0: "1.0:c:BWBR0047677&g=2023-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsregeling Regeling Europese EZK en LNV subsidies 2021 (brede weersverzekering en opvragen BTW-nummer)"
+signed_date: "2022-12-13"
+entry_into_force: "2023-01-01"
 ---
-
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 13 december 2022, nr. WJZ 22526407, houdende wijziging van de Regeling Europese EZK en LNV subsidies 2021 door inpassing van de brede weersverzekering onder het nieuwe GLB en het opvragen van het BTW-nummer
 
 Gelet op:
@@ -22,15 +48,15 @@ de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&artikel=15) en
 
 Besluit:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Regeling Europese EZK- en LNV-subsidies 2021.
 
-#### Artikel II
+##### Artikel II
 
 [Titel 4.1. van de Regeling Europese EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&titeldeel=4.1) vervalt, met dien verstande dat deze van toepassing blijft op subsidies die voor 1 januari 2023 zijn verleend.
 
-#### Artikel III
+##### Artikel III
 
 Deze regeling treedt in werking met ingang van 1 januari 2023.
 

@@ -1,13 +1,38 @@
 ---
 title: "Regeling rijonderricht motorrijtuigen 2009"
 identifier: "BWBR0025890"
-categorie: "Overig"
-publicatiedatum: 2023-04-01
-laatste_update: 2023-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0025890"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-04-01"
+last_updated: "2023-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0025890"
+soort: "ministeriele-regeling"
+stam_id: "10050963"
+version_id: "26584622"
+internal_id: "C37728621"
+label_id: "10027684"
+dtd_version: "2.0"
+original_entry_into_force: "2020-03-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0025890/2023-04-01/0"
+intitule_bron: "Stcrt.2009-96"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-05-25"
+intitule_published: "2009-05-28"
+intitule_in_force: "2009-05-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-17352"
+original_signed_date: "2020-03-22"
+original_published_date: "2020-03-25"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2020-17352"
+entry_into_force_date: "2020-03-22"
+jci_1_3: "jci1.3:c:BWBR0025890&z=2023-04-01&g=2023-04-01"
+jci_1_0: "1.0:c:BWBR0025890&g=2023-04-01"
+citeertitel_status: "officieel"
+signed_date: "2020-03-22"
+entry_into_force: "2020-03-22"
 ---
-
 # Regeling rijonderricht motorrijtuigen 2009
 
 Gelet op de [artikelen 2, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=2), [3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=3), [7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=7), [9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=9), [12a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=12a), [12b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=12b), en [12c, tweede lid, van de Wet rijonderricht motorrijtuigen 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=12c) en [artikel 33, eerste en tweede lid, van de Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=33);
@@ -40,29 +65,29 @@ Besluit:
 
 ### Hoofdstuk 6. Bijscholing
 
-#### Artikel 25
+##### Artikel 25
 
 1. In afwijking van [artikel 5, derde lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=5&artikel=5&z=2023-04-01&g=2023-04-01), en [artikel 5a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=5&artikel=5a&z=2023-04-01&g=2023-04-01), blijven degenen die stagebegeleiders waren voor de inwerkingtreding van de [Wet van 19 december 2018 tot wijziging van de Wet rijonderricht motorrijtuigen 1993 (wijzigingen naar aanleiding van evaluatie, nascholing beroepschauffeurs, bestuursrechtelijke handhaving en enkele verbeteringen)](https://wetten.overheid.nl/jci1.3:c:BWBR0041825) (Stb. 2019, 6) aangewezen als stagebegeleider.
 
 2. Met ingang van 1 oktober 2022 wordt in [artikel 5a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=5&artikel=5a&z=2023-04-01&g=2023-04-01), ‘ten minste drie jaar’ vervangen door ‘ten minste vijf jaar’.
 
-#### Artikel 26
+##### Artikel 26
 
 Vervallen
 
-#### Artikel 27
+##### Artikel 27
 
 Vervallen
 
-#### Artikel 28
+##### Artikel 28
 
 Vervallen
 
-#### Artikel 29
+##### Artikel 29
 
 Deze regeling wordt aangehaald als: Regeling rijonderricht motorrijtuigen 2009.
 
-#### Artikel 30
+##### Artikel 30
 
 Deze regeling treedt in werking met ingang van 1 juni 2009 met uitzondering van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=13&artikel=25&z=2023-04-01&g=2023-04-01), dat in werking treedt op 1 juni 2009 en terug werkt tot en met 3 februari 2009.
 
@@ -76,7 +101,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -90,15 +115,15 @@ In deze regeling wordt verstaan onder:
 
 - **wet:** [Wet rijonderricht motorrijtuigen 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006073).
 
-#### Artikel 2
+##### Artikel 2
 
 Als instituut bedoeld in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=2) wordt aangewezen de Stichting VAM (IBKI) te Nieuwegein.
 
-#### Artikel 3
+##### Artikel 3
 
 Degene die de geschiktheidstest, bedoeld in [artikel 9, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=9), niet met goed gevolg heeft afgelegd, kan deze test opnieuw afleggen. Het is niet mogelijk alleen delen van de test af te leggen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het examen voor het certificaat rijinstructeur voor de motorrijtuigcategorie B bestaat uit drie fasen. De kandidaat is vrij in de volgorde waarin hij de onderdelen van de fasen 1 en 2, bedoeld in [artikel 5, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&artikel=5), aflegt.
 
@@ -120,7 +145,7 @@ Degene die de geschiktheidstest, bedoeld in [artikel 9, vierde lid, van de wet](
 
 - b. de motorrijtuigcategorieën E bij B, E bij C en E bij D uit fase 1.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De kandidaat die deelneemt aan de stage voor de motorrijtuigcategorie B rijdt in de stageperiode minimaal vijf klokuren mee tijdens de rijlessen van zijn stagebegeleider, waaronder één maal met een praktijkexamen of tussentijdse toets voor het besturen van motorrijtuigen van een leerling van de stagebegeleider, en geeft daarna zelf minimaal vijfendertig klokuren volledige praktische rijlessen aan een leerling die wordt opgeleid voor het praktijkexamen in de motorrijtuigcategorie B. De stage wordt uitgevoerd overeenkomstig de aanwijzingen van het instituut.
 
@@ -142,11 +167,11 @@ Degene die de geschiktheidstest, bedoeld in [artikel 9, vierde lid, van de wet](
 
 10. Het instituut kan de maximale duur dat het certificaat, bedoeld in [artikel 13, aanhef en onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=13), geldig is en de maximale duur van de stage éénmalig verlengen. Aan de verlenging van de maximale duur van de stage kunnen voorschriften worden verbonden. De verlenging kan alleen worden verleend indien de stagiair wegens verschoonbare redenen de stage niet heeft kunnen afmaken. De verlenging is beperkt tot maximaal vier aaneengesloten maanden, afhankelijk van de ernst van de reden. Indien verlenging op medische gronden wordt verzocht, gaat het verzoek om verlenging vergezeld van een medische verklaring met betrekking tot de gronden. Het eerste tot en met negende lid zijn van overeenkomstige toepassing. Het instituut houdt de verleende verlengingen bij in het register.
 
-#### Artikel 6
+##### Artikel 6
 
 Degene die theoretische bijscholing geeft als bedoeld in [artikel 12b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=12b), meldt de cursusnaam, de locatie, de datum en de cursisten die zich hebben opgegeven ten minste twee weken voor de aanvang daarvan aan bij het instituut. Uiterlijk twee weken na afloop van de bijscholing meldt hij de namen van degenen die aan de bijscholing hebben deelgenomen aan het instituut. Het instituut houdt deze gegevens bij in het register.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het instituut toetst de aanvragen voor certificering van de theoretische bijscholing aan de volgende criteria:
 
@@ -170,7 +195,7 @@ Het instituut stelt een formulier op voor de aanvraag.
 
 5. Het instituut kan de certificering van de theoretische bijscholing schorsen of intrekken indien niet wordt voldaan aan het derde lid.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De rijinstructeur die praktische bijscholing wil volgen als bedoeld in [artikel 12b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=12b), dient bij het instituut een aanvraag in om voor de betrokken praktijkbegeleiding te worden ingepland.
 
@@ -184,7 +209,7 @@ Het instituut stelt een formulier op voor de aanvraag.
 
 ### Hoofdstuk 7. Herintreding
 
-#### Artikel 9
+##### Artikel 9
 
 1. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=4&artikel=4&z=2023-04-01&g=2023-04-01) is van overeenkomstige toepassing in het geval de rijinstructeur de fasen 1 of 2 uit het examen, of de praktijkrit uit het examen in het kader van het herintrederstraject, bedoeld in [artikel 12c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=12c), doet.
 
@@ -198,31 +223,31 @@ Het instituut stelt een formulier op voor de aanvraag.
 
 ### Hoofdstuk 7. Herintreding
 
-#### Artikel 10
+##### Artikel 10
 
 Het toezicht, bedoeld in [artikel 2, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=2), zal in het algemeen steekproefsgewijs worden verricht.
 
-#### Artikel 11
+##### Artikel 11
 
 De rijksgecommitteerden zijn bevoegd alle gebeurtenissen en beraadslagingen met betrekking tot de uitvoering door het instituut van de taken, bedoeld in [artikel 2, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=2), bij te wonen en kennis te nemen van alle daarop betrekking hebbende stukken.
 
-#### Artikel 12
+##### Artikel 12
 
 De rijksgecommitteerden brengen telkenmale onverwijld van het door hen verrichte toezicht rapport uit aan de Minister.
 
 ### Hoofdstuk 9. Commissie van beroep
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
 ### Hoofdstuk 8. Toezicht door rijksgecommitteerden
 
-#### Artikel 14
+##### Artikel 14
 
 Als diploma van een militaire rijinstructeur als bedoeld in [artikel 8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=8) wordt aangewezen het Diploma militair rijinstructeur.
 
-#### Artikel 15
+##### Artikel 15
 
 Als diploma van een politierijinstructeur als bedoeld in [artikel 8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=8) wordt aangewezen:
 
@@ -232,17 +257,17 @@ Als diploma van een politierijinstructeur als bedoeld in [artikel 8 van de wet](
 
 ### Hoofdstuk 11. Vaststelling van documenten
 
-#### Artikel 16
+##### Artikel 16
 
 Het certificaat rijinstructeur is overeenkomstig de modellen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&bijlage=2&z=2023-04-01&g=2023-04-01) van deze regeling.
 
-#### Artikel 17
+##### Artikel 17
 
 De certificaten scholing educatieve maatregel zijn overeenkomstig de modellen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&bijlage=3&z=2023-04-01&g=2023-04-01) bij deze regeling.
 
 ### Hoofdstuk 12. Migrerende beroepsbeoefenaars
 
-#### Artikel 18
+##### Artikel 18
 
 In dit hoofdstuk wordt verstaan onder:
 
@@ -252,29 +277,29 @@ In dit hoofdstuk wordt verstaan onder:
 
 - **Aw:** [Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066).
 
-#### Artikel 19
+##### Artikel 19
 
 1. Een aanvraag wordt ingediend bij het instituut.
 
 2. Bij de aanvraag overlegt de aanvrager de documenten, bedoeld in [artikel 13, eerste lid, van de Aw](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=13).
 
-#### Artikel 20
+##### Artikel 20
 
 Indien het door toepassing van [artikel 11, eerste lid, onderdeel a of b, van de Aw](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=11), noodzakelijk is dat een aanpassingsstage wordt doorlopen of proeve van bekwaamheid wordt afgelegd, maakt de aanvrager zijn keuze tussen de aanpassingsstage en de proeve van bekwaamheid kenbaar, tenzij artikel 11, vijfde lid, van de Aw van toepassing is.
 
-#### Artikel 21
+##### Artikel 21
 
 Het instituut stelt vast op welk terrein en binnen welke termijn de aanvrager de aanpassingsstage doorloopt.
 
-#### Artikel 22
+##### Artikel 22
 
 Het instituut stelt vast binnen welke termijn en in welke examenonderdelen, genoemd in de [artikelen 5 tot en met 7 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&artikel=5), de aanvrager de proeve van bekwaamheid aflegt.
 
-#### Artikel 23
+##### Artikel 23
 
 De aanvraag wordt afgewezen, indien de aanvrager de aanpassingsstage of de proeve van bekwaamheid niet met goed gevolg heeft volbracht.
 
-#### Artikel 24
+##### Artikel 24
 
 Het certificaat, bedoeld in [artikel 9, eerste lid, onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=9) kan alleen bevoegdheden verlenen die overeenkomen met die welke de aanvrager had in de betrokken staat van oorsprong of herkomst.
 
@@ -350,7 +375,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 12a
+##### Artikel 12a
 
 Het instituut draagt de vergoeding van de kosten van de rijksgecommitteerden rechtstreeks aan hen af.
 
@@ -386,7 +411,7 @@ De kandidaat beschikt over kennis van en inzicht in onderwerpen die voor een vei
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 4a
+##### Artikel 4a
 
 1. [Artikel 4, eerste tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=4&artikel=4&z=2023-04-01&g=2023-04-01), is van overeenkomstige toepassing op het examen voor het certificaat rijinstructeur voor de motorrijtuigcategorie T voor een kandidaat die niet in het bezit is van een geldig certificaat rijinstructeur voor de motorrijtuigcategorie B.
 
@@ -398,7 +423,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 3. [Artikel 4, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=4&artikel=4&z=2023-04-01&g=2023-04-01), is van overeenkomstige toepassing.
 
-#### Artikel 5a
+##### Artikel 5a
 
 1. De kandidaat die deelneemt aan de stage voor motorrijtuigcategorie T geeft in de stageperiode minimaal 15 klokuren volledige praktische rijlessen op een oefenterrein aan een leerling die wordt opgeleid voor het praktijkexamen in de motorrijtuigcategorie T en minimaal 10 klokuren praktische rijlessen op de openbare weg aan de stagebegeleider als pseudoleerling. De stage wordt uitgevoerd overeenkomstig de aanwijzingen van het instituut.
 
@@ -406,7 +431,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 3. [Artikel 5, vierde en zesde tot en met tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=5&artikel=5&z=2023-04-01&g=2023-04-01), is van overeenkomstige toepassing.
 
-#### Artikel 9a
+##### Artikel 9a
 
 1. [Artikel 4, eerste tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=4&artikel=4&z=2023-04-01&g=2023-04-01), is van overeenkomstige toepassing in het geval een rijinstructeur ten behoeve van het certificaat rijinstructeur voor de motorrijtuigcategorie T de fasen 1 en 2 uit het examen in het kader van het herintrederstraject, bedoeld in [artikel 12c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=12c), doet.
 
@@ -442,7 +467,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 6a
+##### Artikel 6a
 
 1. Een theoretische bijscholing kan uit één of meer dagdelen bestaan.
 
@@ -450,7 +475,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 3. Er wordt ten minste één theoretische bijscholing gevolgd over de voor het geven van rijonderricht relevante wet- en regelgeving.
 
-#### Artikel 8a
+##### Artikel 8a
 
 1. Degene die bijlessen geeft als bedoeld in [artikel 10a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&artikel=10a), meldt de cursusnaam, de locatie, de datum en de cursisten die zich hebben opgegeven ten minste twee weken voor de aanvang daarvan aan bij het instituut.
 
@@ -460,7 +485,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 4. Het instituut houdt de gegevens, bedoeld in het derde lid, bij in het register.
 
-#### Artikel 8b
+##### Artikel 8b
 
 1. Het instituut toetst de aanvragen voor certificering van bijlessen aan de volgende criteria:
 
@@ -494,13 +519,13 @@ Het instituut stelt een formulier op voor de aanvraag.
 
 ### Hoofdstuk 9. Commissie van beroep
 
-#### Artikel 16a
+##### Artikel 16a
 
 1. Voor het afdrukken van de pasfoto en handtekening op het certificaat rijinstructeur worden de pasfoto en handtekening uit het rijbewijzenregister gebruikt.
 
 2. Indien de pasfoto en de handtekening uit het rijbewijzenregister niet gebruikt kunnen worden of indien het rijbewijzenregister niet kan worden geraadpleegd, wordt van de rijinstructeur voorafgaand aan het examen een pasfoto gemaakt en plaatst hij een handtekening op een daarvoor bestemd formulier.
 
-#### Artikel 16b
+##### Artikel 16b
 
 Indien een duplicaat wordt afgegeven van een certificaat rijinstructeur wordt daarop een duplicaatcode vermeld.
 

@@ -1,13 +1,38 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Namibië inzake technische samenwerking"
 identifier: "BWBV0001066"
-categorie: "Internationaal recht"
-publicatiedatum: 1995-08-17
-laatste_update: 1995-08-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001066"
+country: "nl"
+rank: "verdrag"
+publication_date: "1995-08-17"
+last_updated: "1995-08-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001066"
+soort: "verdrag"
+stam_id: "10002422593"
+version_id: "10002423262"
+internal_id: "C10006978121"
+label_id: "10002412234"
+dtd_version: "2.0"
+original_entry_into_force: "1995-08-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001066/1995-08-17/0"
+intitule_bron: "Trb.1993-73"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-11-26"
+intitule_published: "1993-06-03"
+intitule_in_force: "1995-09-26"
+intitule_status: "goed"
+original_publication: "Trb.1993-73"
+original_signed_date: "1992-11-26"
+original_published_date: "1993-06-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1993-73"
+entry_into_force_date: "1995-08-17"
+jci_1_3: "jci1.3:c:BWBV0001066&z=1995-08-17&g=1995-08-17"
+jci_1_0: "1.0:c:BWBV0001066&g=1995-08-17"
+citeertitel_status: "redactioneel"
+signed_date: "1992-11-26"
+entry_into_force: "1995-08-17"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Namibië inzake technische samenwerking
 
 De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Namibië;
@@ -18,13 +43,13 @@ Geleid door de wens de technische samenwerking te bevorderen en hiertoe het nood
 
 Zijn het volgende overeengekomen:
 
-#### Artikel I
+##### Artikel I
 
 1. Het doel van dit Verdrag is de technische samenwerking te bevorderen en hiertoe het juridische en administratieve kader te scheppen voor projecten inzake technische samenwerking waartoe de bevoegde bestuurlijke autoriteiten van beide Partijen ter uitvoering van dit Verdrag besluiten.
 
 2. Een besluit tot samenwerking als bedoeld in het eerste lid hierboven, de bijdragen aan een project en de wijze waarop dat project wordt uitgevoerd, worden per geval vastgelegd in een projectovereenkomst, te sluiten door de bevoegde autoriteiten van beide Regeringen.
 
-#### Artikel II
+##### Artikel II
 
 In verband met een project verbindt de Regering van de Republiek Namibië zich ertoe:
 
@@ -52,7 +77,7 @@ In verband met een project verbindt de Regering van de Republiek Namibië zich e
 
 - l. te verzekeren dat de Nederlandse personeelsleden en hun gezinnen op niet minder gunstige wijze worden behandeld dan personeel dat voor technische bijstand naar de Republiek Namibië wordt uitgezonden door andere landen of internationale organisaties.
 
-#### Artikel III
+##### Artikel III
 
 1. De Regering van Namibië stelt de Nederlandse Regering en/of het Nederlandse personeel dat in Namibië werkzaam is overeenkomstig dit Verdrag, schadeloos en vrijwaart hen ter zake van elke wettelijke aansprakelijkheid, rechtszaak, eis, vordering of schadeclaim en van kosten of honoraria op grond van de dood van of letsel toegebracht aan derden of schade aan het eigendom van derden, of andere verliezen die het gevolg zijn van of verband houden met het verrichten of nalaten van handelingen door de Nederlandse personeelsleden in de uitoefening van hun werkzaamheden, tenzij de wettelijke aansprakelijkheid, de vordering, het verlies of de schade het gevolg is van grove nalatigheid of opzettelijk onjuist handelen van het personeel.
 
@@ -60,29 +85,29 @@ In verband met een project verbindt de Regering van de Republiek Namibië zich e
 
 3. Indien de Regering van de Republiek Namibië zulks verzoekt, verschaft de Regering van het Koninkrijk der Nederlanden de bevoegde autoriteiten van de Republiek Namibië de administratieve of juridische bijstand die nodig is voor een bevredigende regeling van eventuele problemen die kunnen ontstaan in verband met de toepassing van de voorgaande leden van dit artikel.
 
-#### Artikel IV
+##### Artikel IV
 
 1. De Regering van Namibië heeft het recht, na overleg met de Nederlandse Regering, te verzoeken om terugroeping van ieder lid van het Nederlandse personeel wiens werk of gedrag onbevredigend is. De Nederlandse Regering heeft het recht, na soortgelijk overleg met de Namibische Regering, te allen tijde leden van het Nederlandse personeel terug te roepen. In geval van terugroeping stelt de Nederlandse Regering alles in het werk om, indien de Namibische Regering zulks verzoekt, een geschikte vervanger te vinden voor het teruggeroepen personeelslid.
 
 2. Alle Nederlandse personeelsleden vervullen hun taak zoals wordt overeengekomen door de onderscheiden bevoegde autoriteiten. Wat de dagelijkse werkzaamheden met betrekking tot een project betreft, handelen zij in nauw overleg met de Namibische autoriteiten die verantwoordelijk zijn voor de uitvoering van het project, en nemen zij de door die autoriteiten gegeven werkinstructies in acht. De wijze van communiceren tussen het Nederlandse personeel en de bevoegde Nederlandse autoriteiten wordt vastgelegd in de desbetreffende projectovereenkomst.
 
-#### Artikel V
+##### Artikel V
 
 1. De bepalingen van dit Verdrag betreffende Nederlands personeel zijn eveneens van toepassing op personen in dienst van de Nederlandse Regering en op personen in dienst van ondernemingen waarmee de Nederlandse Regering een overeenkomst heeft gesloten inzake de uitvoering van een project waaraan beide bevoegde autoriteiten hebben besloten samen te werken, en slechts voor zover dit personeel of die ondernemingen handelen binnen het kader van dit Verdrag of van een tussen de beide bevoegde autoriteiten overeengekomen project.
 
 2. Het beschikbaar gestelde Nederlandse personeel kan zowel uitvoerende als adviserende taken verrichten.
 
-#### Artikel VI
+##### Artikel VI
 
 1. De bepalingen van de artikelen II, III en IV, eerste lid, van dit Verdrag zijn eveneens van toepassing op de door Nederland beschikbaar gestelde suppletie-deskundigen. Deze deskundigen dienen echter wel lokale inkomstenbelasting te betalen over honoraria die aan hen worden betaald door de Regering van de Republiek Namibië.
 
 2. De in het eerste lid van dit artikel bedoelde deskundigen staan uitsluitend onder het gezag van de desbetreffende Namibische autoriteiten. De deskundigen dienen verordeningen en regelingen die in Namibië van kracht zijn, na te leven, mits die verordeningen en regelingen niet in strijd zijn met de bepalingen van dit Verdrag of van eventuele andere regelingen tussen de twee Verdragsluitende Partijen die van toepassing zijn op de betrokken deskundigen.
 
-#### Artikel VII
+##### Artikel VII
 
 De Regering van de Republiek Namibië stelt de uitrusting (met inbegrip van motorvoertuigen) en andere materialen die de Nederlandse Regering in verband met een project verschaft in de vorm van schenkingen, vrij van alle in- en uitvoerrechten en andere officiële heffingen.
 
-#### Artikel VIII
+##### Artikel VIII
 
 1. Dit Verdrag wordt voorlopig toegepast vanaf de datum van ondertekening en treedt in werking op de datum waarop de beide Regeringen elkaar er schriftelijk van in kennis hebben gesteld dat aan de in hun onderscheiden landen daarvoor constitutioneel vereiste procedures is voldaan.
 

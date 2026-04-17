@@ -1,13 +1,37 @@
 ---
 title: "Verdrag betreffende het verbod op en de onmiddellijke actie voor de uitbanning van de ergste vormen van kinderarbeid"
 identifier: "BWBV0001522"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2003-02-14
-laatste_update: 2003-02-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001522"
+country: "nl"
+rank: "verdrag"
+publication_date: "2003-02-14"
+last_updated: "2003-02-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001522"
+soort: "verdrag"
+stam_id: "10000135173"
+version_id: "10000135472"
+internal_id: "C10006991321"
+label_id: "10000135394"
+original_entry_into_force: "2003-02-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001522/2003-02-14/0"
+intitule_bron: "Trb.1999-177"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-02-14"
+intitule_published: "1999-10-11"
+intitule_in_force: "2002-05-10"
+intitule_status: "goed"
+original_publication: "Trb.1999-177"
+original_signed_date: "2002-02-14"
+original_published_date: "1999-10-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1999-177"
+entry_into_force_date: "2003-02-14"
+jci_1_3: "jci1.3:c:BWBV0001522&z=2003-02-14&g=2003-02-14"
+jci_1_0: "1.0:c:BWBV0001522&g=2003-02-14"
+citeertitel_status: "officieel"
+signed_date: "2002-02-14"
+entry_into_force: "2003-02-14"
 ---
-
 # Verdrag betreffende het verbod op en de onmiddellijke actie voor de uitbanning van de ergste vormen van kinderarbeid
 
 De Algemene Conferentie van de Internationale Arbeidsorganisatie,
@@ -34,15 +58,15 @@ Vastgesteld hebbend dat deze voorstellen de vorm dienen te krijgen van een inter
 
 neemt heden, de zeventiende juni van het jaar negentienhonderd negenennegentig, het volgende verdrag aan, dat kan worden aangehaald als het Verdrag betreffende de ergste vormen van kinderarbeid, 1999.
 
-#### Artikel 1
+##### Artikel 1
 
 Elk Lid dat dit Verdrag bekrachtigt dient onmiddellijk doeltreffende maatregelen te nemen teneinde het verbod op en de uitbanning van de ergste vormen van kinderarbeid te waarborgen, en dat met grote spoed.
 
-#### Artikel 2
+##### Artikel 2
 
 Voor de toepassing van dit Verdrag heeft de uitdrukking „kind" betrekking op: alle personen onder de leeftijd van achttien jaar.
 
-#### Artikel 3
+##### Artikel 3
 
 Voor de toepassing van dit Verdrag omvat de uitdrukking „de ergste vormen van kinderarbeid”:
 
@@ -54,7 +78,7 @@ Voor de toepassing van dit Verdrag omvat de uitdrukking „de ergste vormen van 
 
 - d. werk dat door zijn aard of de omstandigheden waaronder het wordt verricht waarschijnlijk schadelijk is voor de gezondheid, de veiligheid of de zedelijkheid van kinderen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De in [artikel 3, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBV0001522&artikel=3&z=2003-02-14&g=2003-02-14), genoemde soorten werk worden vastgesteld in de nationale wet- of regelgeving of door de bevoegde autoriteit, na raadpleging van de betrokken werkgevers- en werknemersorganisaties en rekening houdend met de desbetreffende internationale normen, in het bijzonder de artikelen 3 en 4 van de Aanbeveling betreffende de ergste vormen van kinderarbeid, 1999.
 
@@ -62,17 +86,17 @@ Voor de toepassing van dit Verdrag omvat de uitdrukking „de ergste vormen van 
 
 3. De lijst met soorten werk vastgesteld overeenkomstig het eerste lid van dit artikel wordt regelmatig bezien en, indien nodig, bijgesteld in overleg met de betrokken werkgevers- en werknemersorganisaties.
 
-#### Artikel 5
+##### Artikel 5
 
 Elk Lid stelt, na raadpleging van de werkgevers- en werknemersorganisaties, passende mechanismen in of wijst deze aan voor het toezicht op de tenuitvoerlegging van de bepalingen ter uitvoering van dit Verdrag.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Elk Lid stelt actieprogramma's op voor het uitbannen met voorrang van de ergste vormen van kinderarbeid en voert deze uit.
 
 2. Deze actieprogramma's worden opgesteld en uitgevoerd in overleg met de bevoegde overheidsinstellingen en de werkgevers- en werknemersorganisaties, waarbij in voorkomend geval rekening wordt gehouden met de opvattingen van andere betrokken groepen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Elk Lid neemt alle noodzakelijke maatregelen teneinde de doeltreffende tenuitvoerlegging en handhaving te verzekeren van de bepalingen ter uitvoering van dit Verdrag met inbegrip van het voorzien in en de toepassing van strafsancties of, waar van toepassing, andere sancties.
 
@@ -90,15 +114,15 @@ Elk Lid stelt, na raadpleging van de werkgevers- en werknemersorganisaties, pass
 
 3. Elk Lid wijst de bevoegde autoriteit aan die verantwoordelijk is voor de tenuitvoerlegging van de bepalingen ter uitvoering van dit Verdrag.
 
-#### Artikel 8
+##### Artikel 8
 
 De Leden nemen passende maatregelen teneinde elkaar ter zijde te staan bij de uitvoering van de bepalingen van dit Verdrag door middel van verbeterde internationale samenwerking en/of bijstand, met inbegrip van steun voor sociale en economische ontwikkeling, programma's voor armoedebestrijding en universeel onderwijs.
 
-#### Artikel 9
+##### Artikel 9
 
 De formele bekrachtigingen van dit Verdrag worden medegedeeld aan de Directeur-Generaal van het Internationaal Arbeidsbureau en door hem geregistreerd.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Dit Verdrag is alleen verbindend voor de Leden van de Internationale Arbeidsorganisatie waarvan de bekrachtiging door de Directeur-Generaal van het Internationaal Arbeidsbureau is geregistreerd.
 
@@ -106,27 +130,27 @@ De formele bekrachtigingen van dit Verdrag worden medegedeeld aan de Directeur-G
 
 3. Vervolgens treedt dit Verdrag voor ieder Lid in werking twaalf maanden na de datum waarop zijn bekrachtiging is geregistreerd.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Elk Lid dat dit Verdrag heeft bekrachtigd, kan het opzeggen na afloop van een termijn van tien jaar na de datum waarop het Verdrag voor het eerst in werking is getreden, door middel van een aan de Directeur-Generaal van het Internationaal Arbeidsbureau gerichte en door deze geregistreerde verklaring. De opzegging wordt eerst van kracht een jaar na de datum waarop zij is geregistreerd.
 
 2. Elk Lid dat dit Verdrag heeft bekrachtigd en niet binnen een jaar na afloop van de termijn van tien jaar, bedoeld in het vorige lid, gebruik maakt van de bevoegdheid tot opzegging voorzien in het voorgaande lid, is voor een nieuwe termijn van tien jaar gebonden en kan daarna dit Verdrag opzeggen na afloop van elke termijn van tien jaar op de voorwaarden voorzien in dit artikel.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De Directeur-Generaal van het Internationaal Arbeidsbureau stelt alle Leden van de Internationale Arbeidsorganisatie in kennis van de registratie van alle bekrachtigingen en opzeggingen, die hem door de Leden van de Organisatie zijn meegedeeld.
 
 2. Bij kennisgeving aan de Leden van de Organisatie van de registratie van de tweede hem meegedeelde bekrachtiging, vestigt de Directeur-Generaal de aandacht van de Leden van de Organisatie op de datum waarop dit Verdrag in werking treedt.
 
-#### Artikel 13
+##### Artikel 13
 
 De Directeur-Generaal van het Internationaal Arbeidsbureau doet aan de Secretaris-Generaal van de Verenigde Naties mededeling, ter registratie in overeenstemming met [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102), van de volledige bijzonderheden omtrent alle bekrachtigingen en opzeggingen die hij overeenkomstig de voorgaande artikelen heeft geregistreerd.
 
-#### Artikel 14
+##### Artikel 14
 
 De Raad van Beheer van het Internationaal Arbeidsbureau brengt, telkens wanneer deze dit noodzakelijk acht, aan de Algemene Conferentie verslag uit over de toepassing van dit Verdrag en onderzoekt of het wenselijk is de gehele of gedeeltelijke herziening ervan op de agenda van de Conferentie te plaatsen.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Indien de Conferentie een nieuw verdrag aanneemt, houdende gehele of gedeeltelijke herziening van dit Verdrag, zal, tenzij het nieuwe verdrag anders bepaalt:
 
@@ -136,7 +160,7 @@ De Raad van Beheer van het Internationaal Arbeidsbureau brengt, telkens wanneer 
 
 2. Dit Verdrag blijft in elk geval naar vorm en inhoud van kracht voor de Leden die het hebben bekrachtigd en die het nieuwe verdrag, houdende herziening, niet hebben bekrachtigd.
 
-#### Artikel 16
+##### Artikel 16
 
 De Engelse en de Franse tekst van dit Verdrag zijn gelijkelijk authentiek.
 

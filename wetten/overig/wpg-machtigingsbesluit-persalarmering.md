@@ -1,13 +1,39 @@
 ---
-title: "Wpg-machtigingsbesluit persalarmering"
+title: "Besluit ingevolge artikel 18, tweede lid, Wet politiegegevens van de Minister van Justitie en Veiligheid, kenmerk 4858192 van 3 oktober 2023 houdende toestemming aan de korpschef tot het verstrekken van politiegegevens aan journalisten en publicisten voor journalistieke doeleinden (Wpg-machtigingsbesluit persalarmering)"
 identifier: "BWBR0048754"
-categorie: "Overig"
-publicatiedatum: 2023-10-19
-laatste_update: 2023-10-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048754"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-10-19"
+last_updated: "2023-10-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048754"
+soort: "ministeriele-regeling"
+stam_id: "16883883"
+version_id: "29674412"
+internal_id: "C42478661"
+label_id: "16795864"
+dtd_version: "2.0"
+original_entry_into_force: "2023-10-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048754/2023-10-19/0"
+intitule_bron: "Stcrt.2023-28174"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-10-03"
+intitule_published: "2023-10-18"
+intitule_in_force: "2023-10-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-28174"
+original_signed_date: "2023-10-03"
+original_published_date: "2023-10-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-28174"
+entry_into_force_date: "2023-10-19"
+jci_1_3: "jci1.3:c:BWBR0048754&z=2023-10-19&g=2023-10-19"
+jci_1_0: "1.0:c:BWBR0048754&g=2023-10-19"
+citeertitel_status: "officieel"
+short_title: "Wpg-machtigingsbesluit persalarmering"
+signed_date: "2023-10-03"
+entry_into_force: "2023-10-19"
 ---
-
 # Besluit ingevolge artikel 18, tweede lid, Wet politiegegevens van de Minister van Justitie en Veiligheid, kenmerk 4858192 van 3 oktober 2023 houdende toestemming aan de korpschef tot het verstrekken van politiegegevens aan journalisten en publicisten voor journalistieke doeleinden (Wpg-machtigingsbesluit persalarmering)
 
 Overwegende:
@@ -68,7 +94,7 @@ Gelet op [artikel 18, tweede lid, van de Wet politiegegevens](https://wetten.ove
 
 Besluit:
 
-#### Artikel 1. (verstrekkingsgrondslag)
+##### Artikel 1. (verstrekkingsgrondslag)
 
 1. Aan de korpschef wordt toestemming gegeven politiegegevens die worden verwerkt overeenkomstig [artikel 8 van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=8) te verstrekken aan journalisten en publicisten met het oog op het zwaarwegend algemeen belang van toegang tot overheidsinformatie in het kader van het recht op persvrijheid.
 
@@ -124,10 +150,10 @@ Besluit:
 
 7. De verstrekking van de in het eerste lid bedoelde gegevens vindt slechts plaats als de uitvoering van de politietaak als bedoeld in [artikel 3 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=3) zich hier niet tegen verzet.
 
-#### Artikel 2. (inwerkingtreding)
+##### Artikel 2. (inwerkingtreding)
 
 Dit besluit wordt in de Staatscourant geplaatst en treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, en vervalt op de dag dat bij of krachtens de [Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) in deze verstrekking van politiegegevens is voorzien.
 
-#### Artikel 3. (citeertitel)
+##### Artikel 3. (citeertitel)
 
 Dit besluit wordt aangehaald als: Wpg-machtigingsbesluit persalarmering.

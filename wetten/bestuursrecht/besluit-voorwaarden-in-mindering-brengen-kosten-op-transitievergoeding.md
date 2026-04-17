@@ -1,13 +1,39 @@
 ---
-title: "Besluit voorwaarden in mindering brengen kosten op transitievergoeding"
+title: "Besluit van 23 april 2015, houdende regels met betrekking tot de voorwaarden waaronder kosten in mindering gebracht mogen worden op de transitievergoeding (Besluit voorwaarden in mindering brengen kosten op transitievergoeding)"
 identifier: "BWBR0036594"
-categorie: "Bestuursrecht"
-publicatiedatum: 2020-07-01
-laatste_update: 2020-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036594"
+country: "nl"
+rank: "amvb"
+publication_date: "2020-07-01"
+last_updated: "2020-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036594"
+soort: "AMvB"
+stam_id: "13151373"
+version_id: "22416892"
+internal_id: "C32166441"
+label_id: "13120004"
+dtd_version: "2.0"
+original_entry_into_force: "2015-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036594/2020-07-01/0"
+intitule_bron: "Stb.2015-171"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-04-23"
+intitule_published: "2015-05-11"
+intitule_in_force: "2015-05-11"
+intitule_status: "goed"
+original_publication: "Stb.2015-171"
+original_signed_date: "2015-04-23"
+original_published_date: "2015-05-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2015-171"
+entry_into_force_date: "2015-07-01"
+jci_1_3: "jci1.3:c:BWBR0036594&z=2020-07-01&g=2020-07-01"
+jci_1_0: "1.0:c:BWBR0036594&g=2020-07-01"
+citeertitel_status: "officieel"
+short_title: "Besluit voorwaarden in mindering brengen kosten op transitievergoeding"
+signed_date: "2015-04-23"
+entry_into_force: "2015-07-01"
 ---
-
 # Besluit van 23 april 2015, houdende regels met betrekking tot de voorwaarden waaronder kosten in mindering gebracht mogen worden op de transitievergoeding (Besluit voorwaarden in mindering brengen kosten op transitievergoeding)
 
 Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 2 februari 2015, nr. 2015-0000017190;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister van Sociale Zaken en Werkgelegenheid 
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1. Begripsbepaling
+##### Artikel 1. Begripsbepaling
 
 Voor de toepassing van dit besluit wordt verstaan onder:
 
@@ -30,7 +56,7 @@ Voor de toepassing van dit besluit wordt verstaan onder:
 
 - b. **inzetbaarheidskosten:** de kosten, bedoeld in [artikel 673, zesde lid, onderdeel b, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=673).
 
-#### Artikel 2. Voorwaarden voor het in mindering brengen van transitie- en inzetbaarheidskosten
+##### Artikel 2. Voorwaarden voor het in mindering brengen van transitie- en inzetbaarheidskosten
 
 1. Transitiekosten en inzetbaarheidskosten kunnen in mindering gebracht worden op de transitievergoeding, indien deze kosten:
 
@@ -52,7 +78,7 @@ Voor de toepassing van dit besluit wordt verstaan onder:
 
 2. Het eerste lid, onderdeel b, is niet van toepassing, indien de werkgever gehouden is de kosten te maken op grond van afspraken tussen de werkgever of verenigingen van werkgevers en werknemers of verenigingen van werknemers.
 
-#### Artikel 3. Aanvullende voorwaarden inzetbaarheidskosten
+##### Artikel 3. Aanvullende voorwaarden inzetbaarheidskosten
 
 Inzetbaarheidskosten kunnen in mindering worden gebracht op de transitievergoeding, indien deze kosten:
 
@@ -64,7 +90,7 @@ Inzetbaarheidskosten kunnen in mindering worden gebracht op de transitievergoedi
 
 - b. zijn gemaakt in de periode van vijf jaar voorafgaand aan de dag waarop de transitievergoeding is verschuldigd, tenzij werkgever en werknemer schriftelijk anders zijn overeengekomen.
 
-#### Artikel 4. Arbeidsovereenkomst omwille van opleiding
+##### Artikel 4. Arbeidsovereenkomst omwille van opleiding
 
 1. Inzetbaarheidskosten in verband met een opleiding als bedoeld in het tweede lid, kunnen alleen in mindering worden gebracht op de transitievergoeding, indien de arbeidsovereenkomst is aangegaan om de werknemer in de gelegenheid te stellen die opleiding te volgen en na afronding van die opleiding, of na tussentijdse beëindiging daarvan, niet, of met een tussenpoos van meer dan zes maanden, wordt voortgezet.
 
@@ -80,19 +106,19 @@ Inzetbaarheidskosten kunnen in mindering worden gebracht op de transitievergoedi
 
 4. Op het in mindering brengen van de kosten, bedoeld in het eerste lid, zijn de [artikelen 2, eerste lid, onderdelen a, b en g](https://wetten.overheid.nl/jci1.3:c:BWBR0036594&artikel=2&z=2020-07-01&g=2020-07-01), en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036594&artikel=3&z=2020-07-01&g=2020-07-01) niet van toepassing.
 
-#### Artikel 5. Aanvullende voorwaarde transitiekosten
+##### Artikel 5. Aanvullende voorwaarde transitiekosten
 
 Transitiekosten bestaande uit de kosten voor de werkgever verbonden aan het in acht nemen van een langere dan de wettelijke of eerder overeengekomen opzegtermijn, kunnen, in afwijking van [artikel 2, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0036594&artikel=2&z=2020-07-01&g=2020-07-01), in mindering gebracht worden op de transitievergoeding, indien de werknemer gedurende deze termijn is vrijgesteld van het verrichten van arbeid.
 
-#### Artikel 6. Wijziging Besluit verrekening kosten met transitievergoeding
+##### Artikel 6. Wijziging Besluit verrekening kosten met transitievergoeding
 
 Wijzigt dit besluit.
 
-#### Artikel 7. Citeertitel
+##### Artikel 7. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit voorwaarden in mindering brengen kosten op transitievergoeding.
 
-#### Artikel 8. Inwerkingtreding
+##### Artikel 8. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 juli 2015.
 

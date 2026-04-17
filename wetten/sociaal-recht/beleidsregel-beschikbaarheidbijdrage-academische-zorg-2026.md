@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregel beschikbaarheidbijdrage academische zorg 2026"
 identifier: "BWBR0051350"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051350"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051350"
+soort: "zbo"
+stam_id: "17497843"
+version_id: "30859162"
+internal_id: "C44221711"
+label_id: "17400214"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051350/2026-01-01/0"
+intitule_bron: "Stcrt.2025-26193"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-07-22"
+intitule_published: "2025-08-01"
+intitule_in_force: "2025-08-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-26193"
+original_signed_date: "2025-07-22"
+original_published_date: "2025-08-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-26193"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051350&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051350&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2025-07-22"
+entry_into_force: "2026-01-01"
 ---
-
 # Beleidsregel beschikbaarheidbijdrage academische zorg 2026
 
 Gelet op [artikel 57, eerste lid, onderdeel e, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot het uitoefenen van de bevoegdheid tot het toekennen van een beschikbaarheidbijdrage als bedoeld in artikel 56a van de Wmg.
@@ -18,7 +43,7 @@ Gelet op [artikel 59, aanhef en onder e, van de Wmg](https://wetten.overheid.nl/
 
 Op de beschikbaarheidbijdrage zijn titel 4.2 (‘subsidies’) en 4.4 (‘bestuursrechtelijke geldschulden’) van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537), het [Besluit beschikbaarheidbijdrage WMG](https://wetten.overheid.nl/jci1.3:c:BWBR0031971) en het Besluit van de Europese Commissie van 20 december 2011 (C(2011)9380) van toepassing.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
@@ -80,17 +105,17 @@ In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
 - **Vast deel BBAZ:** Deel van de beschikbaarheidbijdrage dat de kosten dekt voor het in stand houden van de kennis en infrastructuur voor het continu kunnen leveren van topreferente zorg.
 
-#### Artikel 2. Doel van de beleidsregel
+##### Artikel 2. Doel van de beleidsregel
 
 Voor een aantal zorgactiviteiten en voorzieningen van zorgaanbieders is het niet mogelijk of wenselijk om deze rechtstreeks aan zorgproducten voor individuele consumenten toe te rekenen. Het gaat om specifieke functies of kenmerken van de zorgverlening, zoals beschikbaarheid, specifieke deskundigheid of specifieke voorzieningen. Dit heeft ook betrekking op onderdelen van de academische zorg.
 
 Het doel van deze beleidsregel betreft het vergoeden van de kosten voor die voor bepaalde zorgaanbieders ontstaan omdat zij permanent voorzieningen (in mensen en infrastructuur) aanhouden die hen in staat stellen op elk moment, in wisselwerking met de laatste stand van de wetenschap, zorg te bieden aan topreferente patiënten en welke vallen onder academische zorg.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze beleidsregel is van toepassing op medisch specialistische zorg in de vorm van academische zorg.
 
-#### Artikel 4. Algemeen
+##### Artikel 4. Algemeen
 
 Bij het [Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031971) heeft de Minister de in [artikel 3 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031971&artikel=3) genoemde vorm van zorg aangewezen waarvoor de NZa een beschikbaarheidbijdrage kan vaststellen. Mede op basis van dit Besluit heeft de NZa onderhavig beleid ten aanzien van de verstrekking van de BBAZ aan zorgaanbieders vastgesteld.
 
@@ -106,7 +131,7 @@ De bedragen die worden verleend en vastgesteld op basis van deze beleidsregel zi
 
 Voor de indexering wordt de verhouding personeel/materieel aangehouden op dezelfde voet als de periode tot 2020. Naast een index voor personeel en materieel wordt ook geïndexeerd voor de demografische groei. De index voor demografische groei wordt berekend over het totale bedrag van de subsidie.
 
-#### Artikel 5. Academische zorg
+##### Artikel 5. Academische zorg
 
 Aanbieders van academische zorg kunnen in aanmerking komen voor de verstrekking van een BBAZ indien voldaan is aan de volgende drie cumulatieve criteria:
 
@@ -228,15 +253,15 @@ Indien voor een jaar meer kosten worden verantwoord dan vastgesteld zou worden g
 
 - g. Het variabele deel wordt vastgesteld op basis van het van aantal topreferente patiënten in 2024 per zorgaanbieder volgens de labelsystematiek. Hiervoor wordt de DIS data tot februari 2027 gebruikt.
 
-#### Artikel 6. Intrekken en vervallen oude beleidsregels
+##### Artikel 6. Intrekken en vervallen oude beleidsregels
 
 De Beleidsregel beschikbaarheidbijdrage academische zorg 2025, met kenmerk BR/REG-25144, die een geldigheidsduur had tot en met 31 december 2024 moet zijn 31 december 2025, is met ingang van de dag na de laatstgenoemde datum van rechtswege komen te vervallen.
 
-#### Artikel 7. Toepasselijkheid voorafgaande beleidsregel
+##### Artikel 7. Toepasselijkheid voorafgaande beleidsregel
 
 De ‘Beleidsregel beschikbaarheidbijdrage academische zorg 2025’, met kenmerk BR/REG 25144, blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die beleidsregel en die betrekking hebben op de periode waarvoor die beleidsregel gold.
 
-#### Artikel 8. Inwerkingtreding
+##### Artikel 8. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van 1 januari 2026 en vervalt met ingang van 1 januari 2027.
 
@@ -244,7 +269,7 @@ Ingevolge [artikel 5, aanhef en onder e, van de Bekendmakingswet](https://wetten
 
 De beleidsregel ligt ter inzage bij de NZa en is te raadplegen op [www.nza.nl](http://www.nza.nl).
 
-#### Artikel 9. Citeertitel
+##### Artikel 9. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel beschikbaarheidbijdrage academische zorg 2026.
 

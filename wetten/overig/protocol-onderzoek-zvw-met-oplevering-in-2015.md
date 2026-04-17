@@ -1,13 +1,38 @@
 ---
 title: "Protocol Onderzoek Zvw met oplevering in 2015"
 identifier: "BWBR0035772"
-categorie: "Overig"
-publicatiedatum: 2014-11-21
-laatste_update: 2014-11-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035772"
+country: "nl"
+rank: "zbo"
+publication_date: "2014-11-21"
+last_updated: "2014-11-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035772"
+soort: "zbo"
+stam_id: "12842203"
+version_id: "21819282"
+internal_id: "C31312401"
+label_id: "12813234"
+dtd_version: "2.0"
+original_entry_into_force: "2014-11-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035772/2014-11-21/0"
+intitule_bron: "Stcrt.2014-32475"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-10-28"
+intitule_published: "2014-11-20"
+intitule_in_force: "2014-11-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-32475"
+original_signed_date: "2014-10-28"
+original_published_date: "2014-11-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-32475"
+entry_into_force_date: "2014-11-21"
+jci_1_3: "jci1.3:c:BWBR0035772&z=2014-11-21&g=2014-11-21"
+jci_1_0: "1.0:c:BWBR0035772&g=2014-11-21"
+citeertitel_status: "redactioneel"
+signed_date: "2014-10-28"
+entry_into_force: "2014-11-21"
 ---
-
 # Protocol Onderzoek Zvw met oplevering in 2015
 
 ### Vooraf

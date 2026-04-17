@@ -1,13 +1,39 @@
 ---
-title: "Besluit kinderopvangtoeslag"
+title: "Besluit van 18 oktober 2004, houdende regels over de tegemoetkomingen in de kosten van kinderopvang (Besluit tegemoetkoming kosten kinderopvang)"
 identifier: "BWBR0017321"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0017321"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0017321"
+soort: "AMvB"
+stam_id: "6245173"
+version_id: "12552022"
+internal_id: "C16864101"
+label_id: "6234374"
+dtd_version: "2.0"
+original_entry_into_force: "2005-11-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0017321/2026-01-01/0"
+intitule_bron: "Stb.2004-554"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-10-18"
+intitule_published: "2004-10-29"
+intitule_in_force: "2004-10-29"
+intitule_status: "goed"
+original_publication: "Stb.2005-627"
+original_signed_date: "2005-11-28"
+original_published_date: "2005-12-13"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2005-627"
+entry_into_force_date: "2005-11-28"
+jci_1_3: "jci1.3:c:BWBR0017321&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0017321&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit kinderopvangtoeslag"
+signed_date: "2005-11-28"
+entry_into_force: "2005-11-28"
 ---
-
 # Besluit van 18 oktober 2004, houdende regels over de tegemoetkomingen in de kosten van kinderopvang (Besluit tegemoetkoming kosten kinderopvang)
 
 Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 10 augustus 2004, Directie Arbeidsverhoudingen, nr. AV/KO/2004/54428, gedaan mede namens de Staatssecretaris van Financiën en de Staatssecretaris van Volksgezondheid, Welzijn en Sport;
@@ -24,7 +50,7 @@ Geldt voor kalenderjaren die aanvangen op of na 1 januari 2005.
 
 ### Hoofdstuk 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -42,11 +68,11 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 1. Algemene berekeningsfactoren
 
-#### Artikel 2
+##### Artikel 2
 
 De hoogte van de kinderopvangtoeslag wordt voor iedere kalendermaand afzonderlijk bepaald.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Indien meer dan één kind van een ouder gebruik maakt van kinderopvang, wordt voor de kinderopvangtoeslag onderscheid gemaakt tussen het eerste kind en de overige kinderen.
 
@@ -56,7 +82,7 @@ De hoogte van de kinderopvangtoeslag wordt voor iedere kalendermaand afzonderlij
 
 4. In het geval meer kinderen van een ouder een zelfde aantal uren gebruik maken van kinderopvang met gelijke kosten van kinderopvang, stelt de Dienst Toeslagen vast welk kind als eerste kind moet worden beschouwd.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De maximum uurprijs bedraagt voor:
 
@@ -68,7 +94,7 @@ De hoogte van de kinderopvangtoeslag wordt voor iedere kalendermaand afzonderlij
 
 2. Indien de prijs per uur kinderopvang hoger ligt dan de maximum uurprijs wordt bij de bepaling van de hoogte van de kinderopvangtoeslag per kind in plaats van de prijs per uur kinderopvang de maximum uurprijs in aanmerking genomen.
 
-#### Artikel 5
+##### Artikel 5
 
 De maximum uurprijs, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=4&z=2026-01-01&g=2026-01-01), wordt jaarlijks aangepast overeenkomstig:
 
@@ -76,15 +102,15 @@ De maximum uurprijs, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:
 
 - b. het verschil tussen de ontwikkeling van 80% van de loonvoet bedrijven en 20% van de consumentenprijsindex zoals deze voor het voorafgaande jaar, blijkens bekendmaking in het Centraal Economisch Plan in dat jaar, was geraamd en de ontwikkeling van 80% van de loonvoet bedrijven en 20% van de consumentenprijsindex zoals deze voor het voorafgaande jaar, blijkens bekendmaking in het Centraal Economisch Plan in dat voorafgaande jaar, nader is geraamd.
 
-#### Artikel 6
+##### Artikel 6
 
 Voor de berekening van de kinderopvangtoeslag is de verdeling van de toetsingsinkomens in inkomensgroepen in de bij dit besluit behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&bijlage=I&z=2026-01-01&g=2026-01-01) opgenomen.
 
-#### Artikel 7
+##### Artikel 7
 
 De bedragen van de toetsingsinkomens van de inkomensgroepen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2026-01-01&g=2026-01-01), worden aangepast overeenkomstig de ontwikkeling van de contractlonen, zoals deze voor het betrokken jaar, blijkens bekendmaking in het Centraal Economisch Plan in het voorafgaande jaar, is geraamd, waarbij onder ontwikkeling van de contractlonen wordt verstaan: het gemiddelde van de procentuele ontwikkeling van de contractlonen in de marktsector, de gepremieerde sector en de gesubsidieerde sector, en bij de overheid, zoals dit door het Centraal Planbureau wordt bekendgemaakt.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De kinderopvangtoeslag wordt uitgedrukt in een percentage van de kosten van kinderopvang.
 
@@ -94,75 +120,75 @@ De bedragen van de toetsingsinkomens van de inkomensgroepen, bedoeld in [artikel
 
 #### Paragraaf 2. Specifieke berekeningsfactor bij kinderopvangtoeslag voor ouder zonder partner
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
 #### Paragraaf 3. Specifieke berekeningsfactoren bij (extra) kinderopvangtoeslag voor ouder zonder partner
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
 #### Paragraaf 4. Voorschotten en uitbetaling van de (extra) tegemoetkoming van het Rijk
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
-#### Artikel 17
+##### Artikel 17
 
 Vervallen
 
 ### Hoofdstuk 3. Tegemoetkoming Uitvoeringsinstituut werknemersverzekeringen
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
-#### Artikel 19
+##### Artikel 19
 
 Vervallen
 
-#### Artikel 20
+##### Artikel 20
 
 Vervallen
 
-#### Artikel 21
+##### Artikel 21
 
 Vervallen
 
-#### Artikel 22
+##### Artikel 22
 
 Vervallen
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 23
+##### Artikel 23
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 24
+##### Artikel 24
 
 Dit Besluit wordt aangehaald als: Besluit kinderopvangtoeslag.
 
@@ -243,7 +269,7 @@ Dit Besluit wordt aangehaald als: Besluit kinderopvangtoeslag.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad wordt geplaatst.
 
-#### Artikel 22a
+##### Artikel 22a
 
 Vervallen
 
@@ -561,13 +587,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 22b
+##### Artikel 22b
 
 Voor de aanspraak op kinderopvangtoeslag in een berekeningsjaar dat voorafgaat aan het lopende jaar blijft dit besluit, zoals dat luidde op 31 december van dat berekeningsjaar, van toepassing.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad wordt geplaatst.
 
-#### Artikel 8a
+##### Artikel 8a
 
 1. Het aantal uren kinderopvang dat voor kinderopvangtoeslag in aanmerking komt, bedraagt voor ieder kind niet meer dan:
 
@@ -593,7 +619,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 5a
+##### Artikel 5a
 
 Vervallen
 
@@ -605,7 +631,7 @@ Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad wordt geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Indien buitenschoolse opvang wordt geboden aan kinderen die basisonderwijs volgen waarvan de dagelijkse schooltijd verschillend is:
 
@@ -617,7 +643,7 @@ Indien buitenschoolse opvang wordt geboden aan kinderen die basisonderwijs volge
 
 #### Paragraaf 1. Algemene berekeningsfactoren
 
-#### Artikel 7a
+##### Artikel 7a
 
 Vervallen
 
@@ -647,7 +673,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### Paragraaf 2. Specifieke berekeningsfactor bij kinderopvangtoeslag voor ouder zonder partner
 
-#### Artikel 8b
+##### Artikel 8b
 
 Vervallen
 

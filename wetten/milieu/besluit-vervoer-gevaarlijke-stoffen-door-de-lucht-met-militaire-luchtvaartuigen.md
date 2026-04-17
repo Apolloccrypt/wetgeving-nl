@@ -1,13 +1,39 @@
 ---
-title: "Besluit vervoer gevaarlijke stoffen door de lucht met militaire luchtvaartuigen"
+title: "Besluit van 2 juni 2003, houdende regels inzake bepaald vervoer van gevaarlijke stoffen door de lucht met militaire luchtvaartuigen (Besluit vervoer gevaarlijke stoffen door de lucht met militaire luchtvaartuigen)"
 identifier: "BWBR0015156"
-categorie: "Milieu"
-publicatiedatum: 2021-08-19
-laatste_update: 2021-08-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015156"
+country: "nl"
+rank: "amvb"
+publication_date: "2021-08-19"
+last_updated: "2021-08-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015156"
+soort: "AMvB"
+stam_id: "4711933"
+version_id: "6528472"
+internal_id: "C6985711"
+label_id: "4690214"
+dtd_version: "2.0"
+original_entry_into_force: "2003-06-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015156/2021-08-19/0"
+intitule_bron: "Stb.2003-242"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-06-02"
+intitule_published: "2003-06-19"
+intitule_in_force: "2003-06-19"
+intitule_status: "goed"
+original_publication: "Stb.2003-242"
+original_signed_date: "2003-06-02"
+original_published_date: "2003-06-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2003-242"
+entry_into_force_date: "2003-06-20"
+jci_1_3: "jci1.3:c:BWBR0015156&z=2021-08-19&g=2021-08-19"
+jci_1_0: "1.0:c:BWBR0015156&g=2021-08-19"
+citeertitel_status: "officieel"
+short_title: "Besluit vervoer gevaarlijke stoffen door de lucht met militaire luchtvaartuigen"
+signed_date: "2003-06-02"
+entry_into_force: "2003-06-20"
 ---
-
 # Besluit van 2 juni 2003, houdende regels inzake bepaald vervoer van gevaarlijke stoffen door de lucht met militaire luchtvaartuigen (Besluit vervoer gevaarlijke stoffen door de lucht met militaire luchtvaartuigen)
 
 Op de voordracht van Onze Minister van Defensie van 9 januari 2003, nr. CWW2002/089 2002004446 van de directie juridische zaken;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister van Defensie van 26 mei 2003, nr. CWW
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -38,15 +64,15 @@ Hebben goedgevonden en verstaan:
 
 2. Als gevaarlijke stoffen, bedoeld in [artikel 1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.1) juncto [artikel 10.7, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.7) worden aangewezen de stoffen en voorwerpen, bedoeld in [artikel 2 van het Besluit vervoer gevaarlijke stoffen door de lucht](https://wetten.overheid.nl/jci1.3:c:BWBR0013514&artikel=2).
 
-#### Artikel 2
+##### Artikel 2
 
 Als de in [artikel 10.6, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.6) bedoelde gevaarlijke stoffen, niet zijnde ontplofbare stoffen of voorwerpen, behorend tot de operationele uitrusting of het wapensysteem van een militair luchtvaartuig, of behorend tot de uitrusting van personen die met een dergelijk luchtvaartuig worden vervoerd, worden aangewezen de stoffen, bedoeld in [artikel 2, onder 2° tot en met 9°, van het Besluit vervoer gevaarlijke stoffen door de lucht](https://wetten.overheid.nl/jci1.3:c:BWBR0013514&artikel=2).
 
-#### Artikel 3
+##### Artikel 3
 
 Het nationaal vervoer van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015156&artikel=2&z=2021-08-19&g=2021-08-19) van dit besluit bedoelde stoffen met militaire luchtvaartuigen, het internationaal vervoer van gevaarlijke stoffen met militaire luchtvaartuigen, het nationaal vervoer van ontplofbare stoffen met militaire luchtvaartuigen, het daartoe aanbieden of aannemen, alsmede het laden in of lossen uit een dergelijk luchtvaartuig of tijdens het vervoer neerleggen van bedoelde stoffen is slechts toegestaan voorzover de STANAG 2999, 4441 en 7213 in acht worden genomen.
 
-#### Artikel 4
+##### Artikel 4
 
 Bij regeling van Onze Minister kunnen regels worden gesteld met betrekking tot het in [artikel 3 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0015156&artikel=3&z=2021-08-19&g=2021-08-19) bedoelde vervoer. Deze regels kunnen onder meer betrekking hebben op:
 
@@ -70,15 +96,15 @@ Bij regeling van Onze Minister kunnen regels worden gesteld met betrekking tot h
 
 - j. de eisen waaraan verpakking en etiketten of aanduidingen op de verpakking moet voldoen.
 
-#### Artikel 5
+##### Artikel 5
 
 Onze Minister kan in het belang van de veiligheid of de bescherming van het milieu luchtroutes aanwijzen waarlangs daartoe aangewezen gevaarlijke stoffen vervoerd dienen te worden.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit wordt aangehaald als: Besluit vervoer gevaarlijke stoffen door de lucht met militaire luchtvaartuigen.
 

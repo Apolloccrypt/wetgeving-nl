@@ -1,14 +1,37 @@
 ---
-title: "Wet op belastingen van rechtsverkeer"
+title: "Wet van 24 december 1970, houdende vervanging van de wetgeving betreffende de registratie- en de zegelbelasting door een nieuwe wettelijke regeling"
 identifier: "BWBR0002740"
-categorie: "Belastingrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002740"
+country: "nl"
+rank: "wet"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002740"
+soort: "wet"
+stam_id: "2877783"
+version_id: "4430522"
+internal_id: "C4430521"
+label_id: "2826604"
+dtd_version: "2.0"
+original_entry_into_force: "1972-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002740/2026-01-01/0"
+intitule_bron: "Stb.1970-611"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1970-12-24"
+intitule_status: "goed"
+original_publication: "Stb.1970-611"
+original_signed_date: "1970-12-24"
+original_effect: "nieuwe-regeling"
+original_dossier: "10560"
+entry_into_force_date: "1972-01-01"
+jci_1_3: "jci1.3:c:BWBR0002740&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0002740&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet op belastingen van rechtsverkeer"
+signed_date: "1970-12-24"
+entry_into_force: "1972-01-01"
 ---
-
-# Wet op belastingen van rechtsverkeer
+# Wet van 24 december 1970, houdende vervanging van de wetgeving betreffende de registratie- en de zegelbelasting door een nieuwe wettelijke regeling
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +41,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk I. Inleidende bepaling
 
-#### Artikel 1
+##### Artikel 1
 
 Krachtens deze wet worden de volgende belastingen geheven:
 
@@ -30,7 +53,7 @@ Krachtens deze wet worden de volgende belastingen geheven:
 
 ### Afdeling 1. Belastbaar feit
 
-#### Artikel 2
+##### Artikel 2
 
 1. Onder de naam 'overdrachtsbelasting' wordt een belasting geheven ter zake van de verkrijging van in Nederland gelegen onroerende zaken of van rechten waaraan deze zijn onderworpen.
 
@@ -76,7 +99,7 @@ beschouwd als te hebben plaatsgehad ingevolge dezelfde of een samenhangende over
 
 9. Voor de toepassing van dit artikel worden onder lichamen verstaan verenigingen, andere rechtspersonen, maat- en vennootschappen en doelvermogens.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Als verkrijging wordt niet aangemerkt die krachtens:
 
@@ -90,7 +113,7 @@ Voor de toepassing van deze bepaling wordt de waarde ten minste gesteld op de ko
 
 2. Als verkrijging als bedoeld in het eerste lid, onderdeel a of b, wordt niet aangemerkt hetgeen wordt verkregen krachtens de uitoefening van een wilsrecht als bedoeld in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=19), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=20), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=21) en [22 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=22).
 
-#### Artikel 4
+##### Artikel 4
 
 1. Als zaken als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=1&artikel=2&z=2026-01-01&g=2026-01-01) worden mede aangemerkt (fictieve onroerende zaken):
 
@@ -150,11 +173,11 @@ Voor de toepassing van deze bepaling wordt de waarde ten minste gesteld op de ko
 
 11. Onder aandelen als bedoeld in het eerste lid, onderdeel a, en het derde lid worden mede verstaan rechten uit bestaande aandelen.
 
-#### Artikel 5
+##### Artikel 5
 
 Als rechten waaraan zaken zijn onderworpen worden niet aangemerkt de rechten van grondrente, pand en hypotheek.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Opzegging van een beperkt recht wordt beschouwd als verkrijging van dat recht door degene ten behoeve van wie de opzegging plaats heeft.
 
@@ -162,11 +185,11 @@ Als rechten waaraan zaken zijn onderworpen worden niet aangemerkt de rechten van
 
 3. Indien bij het einde van een beperkt recht tot gebruik van een onroerende zaak door de gebruiker daarop aangebrachte zaken ten goede komen aan een andere gerechtigde tot die onroerende zaak, worden die zaken geacht door die gerechtigde te zijn verkregen.
 
-#### Artikel 7
+##### Artikel 7
 
 Hetgeen bij een verdeling wordt toegedeeld, wordt geacht voor het geheel te zijn verkregen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Indien voor de verkrijging van een goed als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=1&artikel=2&z=2026-01-01&g=2026-01-01) een akte in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&afdeling=2), moet worden ingeschreven, vindt de verkrijging plaats op het tijdstip waarop de akte wordt opgemaakt.
 
@@ -176,7 +199,7 @@ Hetgeen bij een verdeling wordt toegedeeld, wordt geacht voor het geheel te zijn
 
 ### Afdeling 2. Maatstaf van heffing en berekening van belasting
 
-#### Artikel 9
+##### Artikel 9
 
 1. De belasting wordt berekend over de waarde van de onroerende zaak of het recht waaraan deze is onderworpen, waarop de verkrijging betrekking heeft. De waarde is ten minste gelijk aan die van de tegenprestatie.
 
@@ -194,11 +217,11 @@ Hetgeen bij een verdeling wordt toegedeeld, wordt geacht voor het geheel te zijn
 
 8. In geval een verkrijging van een woning of rechten waaraan deze is onderworpen op of na 1 april 2021, waarbij de vrijstelling, bedoeld in [artikel 15, eerste lid, onderdeel p](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=3&artikel=15&z=2026-01-01&g=2026-01-01), is toegepast, binnen twaalf maanden wordt gevolgd door een of meer andere verkrijgingen die betrekking hebben op de woning of rechten waaraan deze is onderworpen of een aanhorigheid bij die woning, door dezelfde persoon, en de som van de waarde van al deze verkrijgingen het bedrag, genoemd in artikel 15, eerste lid, onderdeel p, onder 4, overschrijdt, wordt de waarde van de verkrijging waarbij dit bedrag wordt overschreden vermeerderd met het bedrag waarover ter zake van de eerdere verkrijging de vrijstelling van artikel 15, eerste lid, onderdeel p, is toegepast.
 
-#### Artikel 10
+##### Artikel 10
 
 De waarde van aandelen en rechten, als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=1&artikel=4&z=2026-01-01&g=2026-01-01), is gelijk aan de waarde van de goederen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=1&artikel=2&z=2026-01-01&g=2026-01-01), welke door die aandelen of rechten middellijk of onmiddellijk worden vertegenwoordigd, met dien verstande dat de waarde van de goederen, bedoeld in [artikel 15, eerste lid, onderdeel y](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=3&artikel=15&z=2026-01-01&g=2026-01-01), buiten beschouwing blijft.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Bij verkrijging van een erfdienstbaarheid of van een recht van erfpacht, opstal of beklemming wordt de waarde vermeerderd met die van de canon, de retributie of de huur, met dien verstande dat de som van beide waarden niet hoger wordt gesteld dan de waarde van de zaak waarop het recht betrekking heeft.
 
@@ -218,7 +241,7 @@ De waarde van aandelen en rechten, als bedoeld in [artikel 4, eerste lid](https:
 
 - b. omzetbelasting was verschuldigd welke op grond van [artikel 15 van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=15) in het geheel niet in aftrek kon worden gebracht.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Bij verkrijging krachtens verdeling wordt de waarde verminderd met die van het aandeel van de verkrijger of van zijn rechtsvoorganger onder algemene titel in de verdeelde goederen als zijn bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=1&artikel=2&z=2026-01-01&g=2026-01-01).
 
@@ -226,7 +249,7 @@ De waarde van aandelen en rechten, als bedoeld in [artikel 4, eerste lid](https:
 
 3. Het eerste en het tweede lid blijven buiten toepassing, voor zover de gerechtigdheid tot de verdeelde goederen is ontstaan door inbreng in een vennootschap met toepassing van de vrijstelling, bedoeld in [artikel 15, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=3&artikel=15&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 13
+##### Artikel 13
 
 1. In geval van verkrijging binnen zes maanden na een vorige verkrijging van dezelfde goederen door een ander wordt de waarde verminderd met het bedrag waarover ter zake van de vorige verkrijging was verschuldigd hetzij overdrachtsbelasting welke niet in mindering heeft gestrekt van schenk- of erfbelasting, hetzij omzetbelasting welke in het geheel niet op grond van [artikel 15 van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=15) in aftrek kon worden gebracht.
 
@@ -238,7 +261,7 @@ De waarde van aandelen en rechten, als bedoeld in [artikel 4, eerste lid](https:
 
 ### Afdeling 3. Tarief en vrijstellingen
 
-#### Artikel 14
+##### Artikel 14
 
 1. De belasting bedraagt 10,4 percent.
 
@@ -256,7 +279,7 @@ De waarde van aandelen en rechten, als bedoeld in [artikel 4, eerste lid](https:
 
 8. In afwijking van het eerste en tweede lid bedraagt de belasting 4 percent indien de vrijstelling, bedoeld in [artikel 15, eerste lid, onderdeel a, en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=3&artikel=15&z=2026-01-01&g=2026-01-01), buiten toepassing blijft op grond van artikel 15, elfde lid.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Onder bij algemene maatregel van bestuur te stellen voorwaarden is van de belasting vrijgesteld de verkrijging:
 
@@ -380,19 +403,19 @@ Voor de toepassing van deze bepaling wordt de waarde ten minste gesteld op de ko
 
 ### Afdeling 4. Wijze van heffing
 
-#### Artikel 16
+##### Artikel 16
 
 De belasting wordt geheven van de verkrijger.
 
-#### Artikel 17
+##### Artikel 17
 
 De belasting moet op aangifte worden voldaan.
 
-#### Artikel 18
+##### Artikel 18
 
 Bij ministeriële regeling kunnen regels worden gesteld welke ertoe strekken, dat de belasting ter zake van een verkrijging waarvan een notariële akte is opgemaakt, wordt voldaan ter gelegenheid van de aanbieding van die akte ter registratie.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Op verzoek wordt teruggaaf van de belasting verleend, indien de toestand van vóór de verkrijging zowel feitelijk als rechtens wordt hersteld als gevolg van:
 
@@ -412,11 +435,11 @@ Bij ministeriële regeling kunnen regels worden gesteld welke ertoe strekken, da
 
 ### Afdeling 1. Belastbaar feit
 
-#### Artikel 20
+##### Artikel 20
 
 Onder de naam 'assurantiebelasting' wordt een belasting geheven ter zake van verzekeringen waarvan het risico in Nederland is gelegen en ter zake van daarmee samenhangende diensten.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Het risico van de verzekering is in Nederland gelegen indien de verzekeringnemer in Nederland woont, of, ingeval de verzekeringnemer een rechtspersoon is, indien de vestiging van deze rechtspersoon waarop de verzekering betrekking heeft zich in Nederland bevindt.
 
@@ -442,7 +465,7 @@ Onder de naam 'assurantiebelasting' wordt een belasting geheven ter zake van ver
 
 ### Afdeling 2. Maatstaf van heffing
 
-#### Artikel 22
+##### Artikel 22
 
 1. De belasting wordt berekend over de premie, alsmede over de vergoeding voor met de verzekering samenhangende diensten.
 
@@ -450,11 +473,11 @@ Onder de naam 'assurantiebelasting' wordt een belasting geheven ter zake van ver
 
 ### Afdeling 3. Tarief en vrijstellingen
 
-#### Artikel 23
+##### Artikel 23
 
 De belasting bedraagt 21 percent.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Van de belasting zijn vrijgesteld:
 
@@ -486,7 +509,7 @@ De belasting bedraagt 21 percent.
 
 ### Afdeling 4. Wijze van heffing
 
-#### Artikel 25
+##### Artikel 25
 
 1. De belasting ter zake van verzekeringen welke zijn gesloten door tussenkomst van een door Onze Minister aangewezen bemiddelaar in verzekeringen, aan wie een vergunning is verleend ingevolge de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368), wordt geheven van die bemiddelaar, indien hij ter zake van de verzekering de premie int of doet innen en bovendien:
 
@@ -510,7 +533,7 @@ De belasting bedraagt 21 percent.
 
 8. Ingeval de vorige leden geen toepassing kunnen vinden, wordt de belasting geheven van de verzekeringnemer.
 
-#### Artikel 25a
+##### Artikel 25a
 
 1. De fiscaal vertegenwoordiger, bedoeld in [artikel 25, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=III&afdeling=4&artikel=25&z=2026-01-01&g=2026-01-01), dient in het bezit te zijn van een vergunning van de inspecteur.
 
@@ -520,21 +543,21 @@ De belasting bedraagt 21 percent.
 
 4. Bij algemene maatregel van bestuur kunnen, ter verzekering van de heffing en de invordering, regels worden gesteld met betrekking tot de voorwaarden waaronder de vergunning wordt verleend, gewijzigd en ingetrokken. Het verlenen, wijzigen en intrekken van de vergunning geschiedt bij voor bezwaar vatbare beschikking.
 
-#### Artikel 26
+##### Artikel 26
 
 De belasting wordt verschuldigd op het tijdstip waarop de premie vervalt.
 
-#### Artikel 27
+##### Artikel 27
 
 De in een tijdvak verschuldigd geworden belasting moet op aangifte worden voldaan.
 
 ### Afdeling 5. Bijzondere bepalingen
 
-#### Artikel 28
+##### Artikel 28
 
 In de gevallen bedoeld in [artikel 25, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=III&afdeling=4&artikel=25&z=2026-01-01&g=2026-01-01), wordt het risico van de verzekering geacht in Nederland te zijn gelegen, tenzij aan de hand van boeken of bescheiden het tegendeel wordt aangetoond.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Voor zover de premie niet is en niet zal worden ontvangen, dan wel wordt terugbetaald, wordt de belasting verrekend met die welke is verschuldigd geworden in het tijdvak waarin het recht op verrekening is ontstaan. Ingeval de voor verrekening in aanmerking komende belasting meer bedraagt dan de in het tijdvak verschuldigd geworden belasting, wordt het verschil op verzoek teruggegeven.
 
@@ -542,11 +565,11 @@ In de gevallen bedoeld in [artikel 25, eerste tot en met vijfde lid](https://wet
 
 3. De inspecteur beslist op het verzoek om teruggaaf bij voor bezwaar vatbare beschikking.
 
-#### Artikel 30
+##### Artikel 30
 
 Hij die ingevolge een vóór de inwerkingtreding van deze wet of van een wijziging daarvan gesloten verzekering premies int of doet innen, is bevoegd hetgeen van hem wegens assurantiebelasting over die premies meer is gevorderd dan vóór die inwerkingtreding had kunnen geschieden, terug te vorderen van de verzekeringnemer. Hiermede strijdige bedingen zijn nietig.
 
-#### Artikel 31
+##### Artikel 31
 
 De verzekeringnemer die ingevolge een vóór de inwerkingtreding van een wijziging in de wetgeving inzake assurantiebelasting gesloten verzekering premies voldoet, is bevoegd van hem aan wie de premies worden voldaan, terug te vorderen hetgeen wegens assurantiebelasting over die premies minder is gevorderd dan vóór die inwerkingtreding had kunnen geschieden. Hiermede strijdige bedingen zijn nietig.
 
@@ -554,101 +577,101 @@ De verzekeringnemer die ingevolge een vóór de inwerkingtreding van een wijzigi
 
 ### Afdeling 1. Belastbaar feit
 
-#### Artikel 32
+##### Artikel 32
 
 Vervallen
 
-#### Artikel 33
+##### Artikel 33
 
 Vervallen
 
-#### Artikel 34
-
-Vervallen
-
-### Afdeling 2. Maatstaf van heffing
-
-#### Artikel 35
+##### Artikel 34
 
 Vervallen
 
 ### Afdeling 2. Maatstaf van heffing
 
-#### Artikel 36
+##### Artikel 35
 
 Vervallen
 
-#### Artikel 37
+### Afdeling 2. Maatstaf van heffing
+
+##### Artikel 36
+
+Vervallen
+
+##### Artikel 37
 
 Vervallen
 
 ### Afdeling 4. Wijze van heffing
 
-#### Artikel 38
+##### Artikel 38
 
 Vervallen
 
-#### Artikel 39
+##### Artikel 39
 
 Vervallen
 
 ### Hoofdstuk V. Beursbelasting
 
-#### Artikel 40
+##### Artikel 40
 
 Vervallen
 
-#### Artikel 41
+##### Artikel 41
 
 Vervallen
 
-#### Artikel 42
+##### Artikel 42
 
 Vervallen
 
-#### Artikel 43
+##### Artikel 43
 
 Vervallen
 
-#### Artikel 44
+##### Artikel 44
 
 Vervallen
 
-#### Artikel 45
+##### Artikel 45
 
 Vervallen
 
-#### Artikel 46
+##### Artikel 46
 
 Vervallen
 
-#### Artikel 47
+##### Artikel 47
 
 Vervallen
 
-#### Artikel 48
+##### Artikel 48
 
 Vervallen
 
-#### Artikel 49
+##### Artikel 49
 
 Vervallen
 
-#### Artikel 50
+##### Artikel 50
 
 Vervallen
 
-#### Artikel 51
+##### Artikel 51
 
 Vervallen
 
 ### Hoofdstuk VI. Algemene bepalingen
 
-#### Artikel 52
+##### Artikel 52
 
 Onder waarde wordt verstaan: waarde in het economische verkeer.
 
-#### Artikel 53
+##### Artikel 53
 
 Bij algemene maatregel van bestuur kunnen:
 
@@ -658,7 +681,7 @@ Bij algemene maatregel van bestuur kunnen:
 
 ### Hoofdstuk VIA. Bijzondere bepalingen
 
-#### Artikel 54
+##### Artikel 54
 
 1. Indien de verkrijging, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=1&artikel=2&z=2026-01-01&g=2026-01-01), niet is neergelegd in een notariële akte, is degene die de economische eigendom overdraagt, verplicht binnen twee weken na de verkrijging aan de inspecteur te melden dat de economische eigendom is overgedragen.
 
@@ -666,33 +689,33 @@ Bij algemene maatregel van bestuur kunnen:
 
 3. Met betrekking tot de verplichtingen, bedoeld in dit artikel, blijven de [artikelen 47b](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=47b) en [52a van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=52a) buiten toepassing.
 
-#### Artikel 55
+##### Artikel 55
 
 Vervallen
 
 ### Hoofdstuk VII. Overgangs- en slotbepalingen
 
-#### Artikel 56
+##### Artikel 56
 
 Vervallen
 
-#### Artikel 57
+##### Artikel 57
 
 Vervallen
 
-#### Artikel 58
+##### Artikel 58
 
 Vervallen
 
-#### Artikel 59
+##### Artikel 59
 
 Vervallen
 
-#### Artikel 60
+##### Artikel 60
 
 Vervallen
 
-#### Artikel 61
+##### Artikel 61
 
 1. Deze wet treedt in werking op een door Ons te bepalen tijdstip.
 
@@ -700,7 +723,7 @@ Vervallen
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 34a
+##### Artikel 34a
 
 Vervallen
 
@@ -720,7 +743,7 @@ Vervallen
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 15a
+##### Artikel 15a
 
 1. De schriftelijke verklaring, bedoeld in [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=3&artikel=14&z=2026-01-01&g=2026-01-01), [artikel 15, eerste lid, onderdeel p, of het vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=3&artikel=15&z=2026-01-01&g=2026-01-01), wordt door iedere verkrijger afgelegd door het:
 

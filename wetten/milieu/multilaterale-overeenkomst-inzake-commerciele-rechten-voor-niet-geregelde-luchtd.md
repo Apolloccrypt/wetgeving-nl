@@ -1,13 +1,35 @@
 ---
 title: "Multilaterale Overeenkomst inzake commerciële rechten voor niet-geregelde luchtdiensten in Europa"
 identifier: "BWBV0004841"
-categorie: "Milieu"
-publicatiedatum: 1958-04-20
-laatste_update: 1958-04-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004841"
+country: "nl"
+rank: "verdrag"
+publication_date: "1958-04-20"
+last_updated: "1958-04-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004841"
+soort: "verdrag"
+stam_id: "10004344653"
+version_id: "10004545022"
+internal_id: "C10006710351"
+label_id: "10004329744"
+dtd_version: "2.0"
+original_entry_into_force: "1958-04-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004841/1958-04-20/0"
+intitule_bron: "Trb.1957-137"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1957-09-19"
+intitule_in_force: "1958-03-17"
+intitule_status: "goed"
+original_publication: "Trb.1957-137"
+original_published_date: "1957-09-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1957-137"
+entry_into_force_date: "1958-04-20"
+jci_1_3: "jci1.3:c:BWBV0004841&z=1958-04-20&g=1958-04-20"
+jci_1_0: "1.0:c:BWBV0004841&g=1958-04-20"
+citeertitel_status: "redactioneel"
+entry_into_force: "1958-04-20"
 ---
-
 # Multilaterale Overeenkomst inzake commerciële rechten voor niet-geregelde luchtdiensten in Europa
 
 De Regeringen welke deze Overeenkomst hebben ondertekend,
@@ -20,7 +42,7 @@ Geleid door de wens tot verdere overeenstemming te komen met betrekking tot het 
 
 Hebben tot dat doel deze Overeenkomst gesloten.
 
-#### Artikel 1
+##### Artikel 1
 
 Deze Overeenkomst is van toepassing op elk burgerlijk luchtvaartuig dat
 
@@ -30,7 +52,7 @@ Deze Overeenkomst is van toepassing op elk burgerlijk luchtvaartuig dat
 
 wanneer dat luchtvaartuig wordt gebezigd op internationale vluchten tegen vergoeding of beloning, anders dan op geregelde internationale luchtdiensten, binnen de grondgebieden waarop deze Overeenkomst krachtens artikel 11 van toepassing is.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Overeenkomstsluitende Staten komen overeen de in artikel 1 van deze Overeenkomst genoemde luchtvaartuigen vrijelijk op hun onderscheiden grondgebieden toe te laten tot het opnemen en afzetten van personen, goederen en post zonder het stellen van de „bepalingen, voorwaarden of beperkingen”, bedoeld in de [tweede alinea van artikel 5 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=5), wanneer die luchtvaartuigen worden gebezigd voor:
 
@@ -52,7 +74,7 @@ met dien verstande, dat elke Overeenkomstsluitende Staat kan eisen, dat de in di
 
 voorts met dien verstande, dat elke Overeenkomstsluitende Staat met betrekking tot de werkzaamheden, genoemd in dit lid onder **b),** vrijelijk de omvang van de gebieden (inzonderheid het luchtvaartterrein of de luchtvaartterreinen welke daarin zijn begrepen) kan vaststellen, deze vaststelling te allen tijde kan wijzigen en kan bepalen of die gebieden redelijk rechtstreekse verbindingen hebben door middel van geregelde luchtdiensten.
 
-#### Artikel 3
+##### Artikel 3
 
 De Overeenkomstsluitende Staten komen voorts overeen, dat in de gevallen, welke niet door artikel 2 worden gedekt, waar zij de naleving eisen van bepalingen, voorwaarden of beperkingen voor de in de [tweede alinea van artikel 5 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=5) bedoelde niet-geregelde vluchten, de inhoud van zodanige bepalingen, voorwaarden of beperkingen door elke Overeenkomstsluitende Staat zal worden neergelegd in gepubliceerde voorschriften, welke zullen aanduiden:
 
@@ -72,7 +94,7 @@ De Overeenkomstsluitende Staten komen voorts overeen, dat in de gevallen, welke 
 
 - 5). het doel van de vlucht, het aantal op te nemen of af te zetten passagiers alsmede de aard en de hoeveelheid van de op te nemen of uit te laden vracht.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien enig geschil ontstaat tussen Overeenkomstsluitende Staten omtrent de uitlegging of toepassing van deze Overeenkomst, zullen zij het in de eerste plaats trachten op te lossen door onderlinge onderhandelingen.
 
@@ -84,7 +106,7 @@ De Overeenkomstsluitende Staten komen voorts overeen, dat in de gevallen, welke 
 
 4. Indien en zolang een Overeenkomstsluitende Staat in gebreke blijft zich te houden aan een ingevolge lid 2) van dit artikel gegeven beslissing, kunnen de andere Overeenkomstsluitende Staten ieder recht dat zij op grond van deze Overeenkomst aan hem hebben verleend beperken, onthouden of intrekken.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Deze Overeenkomst staat open voor ondertekening door de Staten die lid zijn van de Europese Burgerluchtvaart Vergadering.
 
@@ -92,25 +114,25 @@ De Overeenkomstsluitende Staten komen voorts overeen, dat in de gevallen, welke 
 
 3. De akten van bekrachtiging dienen te worden nedergelegd bij de Internationale Burgerlijke Luchtvaart Organisatie.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Wanneer twee van de ondertekenende Staten hun akten van bekrachtiging hebben nedergelegd, treedt deze Overeenkomst tussen die Staten in werking drie maanden na de nederlegging van de tweede akte van bekrachtiging. Voor elke Staat die zijn akte van bekrachtiging na die datum nederlegt treedt de Overeenkomst in werking drie maanden na de nederlegging van de betreffende akte van bekrachtiging.
 
 2. Zodra deze Overeenkomst in werking treedt, zal zij worden geregistreerd bij de Verenigde Naties door de Secretaris-Generaal van de Internationale Burgerlijke Luchtvaart Organisatie.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Deze Overeenkomst blijft open voor ondertekening gedurende zes maanden nadat zij in werking is getreden. Daarna zal zij open staan voor toetreding door iedere Staat die lid is van de Europese Burgerluchtvaart Vergadering en de Overeenkomst niet heeft ondertekend.
 
 2. De toetreding van een Staat geschiedt door de nederlegging van een akte van toetreding bij de Internationale Burgerlijke Luchtvaart Organisatie en treedt in werking drie maanden na de datum van de nederlegging.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Elke Overeenkomstsluitende Staat kan deze Overeenkomst opzeggen door een kennisgeving van opzegging aan de Voorzitter van de Europese Burgerluchtvaart Vergadering en aan de Internationale Burgerlijke Luchtvaart Organisatie.
 
 2. De opzegging wordt van kracht zes maanden na de datum van ontvangst door de Internationale Burgerlijke Luchtvaart Organisatie van de kennisgeving van opzegging.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De Secretaris-Generaal van de Internationale Burgerlijke Luchtvaart Organisatie stelt de Voorzitter van de Europese Burgerluchtvaart Vergadering en alle Staten die daarvan lid zijn in kennis van:
 
@@ -120,7 +142,7 @@ De Overeenkomstsluitende Staten komen voorts overeen, dat in de gevallen, welke 
 
 2. De Secretaris-Generaal van de Internationale Burgerlijke Luchtvaart Organisatie stelt de Voorzitter van de Europese Burgerluchtvaart Vergadering en de Staten die daarvan lid zijn tevens in kennis van de datum waarop de Overeenkomst in werking zal treden in overeenstemming met lid 1) van artikel 6.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Niet eerder dan twaalf (12) maanden na de inwerkingtreding van deze Overeenkomst kunnen niet minder dan vijfentwintig procent (25 %) van de Overeenkomstsluitende Staten tot de Internationale Burgerlijke Luchtvaart Organisatie een verzoek richten om een bijeenkomst van de Overeenkomstsluitende Staten ter overweging van eventuele wijzigingen in de Overeenkomst. Een zodanige bijeenkomst wordt bijeengeroepen door de Internationale Burgerlijke Luchtvaart Organisatie in overleg met de Voorzitter van de Europese Burgerluchtvaart Vergadering, waarbij aan de Overeenkomstsluitende Staten niet later dan drie maanden van te voren bericht wordt gezonden.
 
@@ -128,7 +150,7 @@ De Overeenkomstsluitende Staten komen voorts overeen, dat in de gevallen, welke 
 
 3. Ten aanzien van de Staten die haar hebben bekrachtigd treedt de wijziging in werking na bekrachtiging door een door genoemde bijeenkomst vastgesteld aantal Overeenkomstsluitende Staten en op een door genoemde bijeenkomst bepaald tijdstip.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze Overeenkomst is van toepassing op het moederland van elk der Overeenkomstsluitende Staten, met uitzondering van ver weg liggende eilanden in de Atlantische Oceaan en semi-onafhankelijke eilanden met betrekking tot welke een Overeenkomstsluitende Staat ten tijde van de nederlegging van zijn akte van bekrachtiging of toetreding verklaart, dat deze Overeenkomst niet van toepassing is.
 

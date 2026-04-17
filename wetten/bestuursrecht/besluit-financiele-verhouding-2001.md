@@ -1,13 +1,39 @@
 ---
-title: "Besluit financiële verhouding 2001"
+title: "Besluit van 2 februari 2001, houdende regels inzake de financiële verhouding tussen het Rijk en de provincies en het Rijk en de gemeenten (Besluit financiële verhouding 2001)"
 identifier: "BWBR0012216"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012216"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012216"
+soort: "AMvB"
+stam_id: "1552183"
+version_id: "2304102"
+internal_id: "C2304101"
+label_id: "1508354"
+dtd_version: "2.0"
+original_entry_into_force: "2001-06-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012216/2026-01-01/0"
+intitule_bron: "Stb.2001-88"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-02-02"
+intitule_published: "2001-02-22"
+intitule_in_force: "2001-06-21"
+intitule_status: "goed"
+original_publication: "Stb.2001-88"
+original_signed_date: "2001-02-02"
+original_published_date: "2001-02-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2001-88"
+entry_into_force_date: "2001-06-22"
+jci_1_3: "jci1.3:c:BWBR0012216&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0012216&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit financiële verhouding 2001"
+signed_date: "2001-02-02"
+entry_into_force: "2001-06-22"
 ---
-
 # Besluit van 2 februari 2001, houdende regels inzake de financiële verhouding tussen het Rijk en de provincies en het Rijk en de gemeenten (Besluit financiële verhouding 2001)
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, mede namens de Staatssecretaris van Financiën van 23 oktober 2000, nr. FO2000/U89578, directoraat-generaal Openbaar Bestuur/BFO.
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -40,7 +66,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Paragraaf 2.1. Algemene bepalingen inzake de algemene uitkering uit het provinciefonds en het gemeentefonds
 
-#### Artikel 2
+##### Artikel 2
 
 Vóór 1 juli van het jaar voorafgaand aan het uitkeringsjaar geven Onze Ministers aan gedeputeerde staten en de colleges van burgemeester en wethouders kennis van:
 
@@ -50,7 +76,7 @@ Vóór 1 juli van het jaar voorafgaand aan het uitkeringsjaar geven Onze Ministe
 
 - c. de verwachte ontwikkeling van de uitkeringsfactor over de vier jaren na het uitkeringsjaar.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Bij de verdeling van het voor de algemene uitkeringen aan de provincies beschikbare bedrag worden de verdeelmaatstaven gehanteerd die zijn omschreven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&bijlage=1&z=2026-01-01&g=2026-01-01) bij dit besluit.
 
@@ -62,39 +88,39 @@ Vóór 1 juli van het jaar voorafgaand aan het uitkeringsjaar geven Onze Ministe
 
 5. Indien op grond van het vierde lid een peildatum of tijdsaanduiding moet worden gehanteerd die ligt vóór de datum van herindeling van de provincie of gemeente, stellen Onze Ministers het aantal eenheden vast op basis van een redelijke schatting van de toestand zoals die op het aangegeven tijdstip zou zijn geweest als de herindeling op dat tijdstip reeds was ingegaan.
 
-#### Artikel 4
+##### Artikel 4
 
 Onze Ministers kunnen nadere regels stellen omtrent de uitwerking van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&bijlage=1&z=2026-01-01&g=2026-01-01) en [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&bijlage=2&z=2026-01-01&g=2026-01-01) en in de [paragrafen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&hoofdstuk=2&paragraaf=2.2&z=2026-01-01&g=2026-01-01) en [2.3 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&hoofdstuk=2&paragraaf=2.3&z=2026-01-01&g=2026-01-01) gehanteerde begrippen en omtrent de telling van het aantal eenheden per verdeelmaatstaf.
 
 #### Paragraaf 2.2. Bijzondere bepalingen in verband met enkele verdeelmaatstaven voor het provinciefonds
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
 #### Paragraaf 2.3. Bijzondere bepalingen in verband met enkele verdeelmaatstaven voor het gemeentefonds
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 1. Onder slechte grond wordt verstaan: een minimaal 5 meter dik aaneengesloten pakket holocene klei- en/of veenlagen dat zich binnen 8 meter onder het maaiveld bevindt. Binnen deze definitie worden onderscheiden:
 
@@ -106,37 +132,37 @@ Vervallen
 
 2. Onder goede grond wordt verstaan grond die niet aan de omschrijvingen onder a, b en c in het eerste lid van dit artikel voldoet.
 
-#### Artikel 12
+##### Artikel 12
 
 De bodemfactor van een gemeente of van een deelgebied binnen een gemeente is het gewogen gemiddelde aandeel van de verschillende grondsoorten in het totale oppervlak van land en binnenwater binnen de gemeente of het deelgebied.
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
-#### Artikel 17
+##### Artikel 17
 
 Onze Ministers stellen de omvang van de maatstaven Historische kernen, Historische waterwegen, Bewoonde oorden 1930 en Woningen 1930 in historische kernen vast.
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
 #### Paragraaf 2.4. De aanvullende uitkering
 
-#### Artikel 19
+##### Artikel 19
 
 1. De gemeenteraad doet een aanvraag voor een aanvullende uitkering voor 1 december van het jaar voorafgaand aan het jaar waarvoor zij wordt aangevraagd.
 
@@ -144,19 +170,19 @@ Vervallen
 
 3. De aanvraag wordt ingediend bij Onze Ministers en gelijktijdig in afschrift gezonden aan gedeputeerde staten.
 
-#### Artikel 20
+##### Artikel 20
 
 Gedeputeerde staten brengen voor 15 februari van het jaar waarvoor de aanvullende uitkering is aangevraagd dan wel verleend, aan Onze Ministers verslag uit over de financiële positie van de gemeente.
 
-#### Artikel 21
+##### Artikel 21
 
 Onze Ministers kunnen bepalen dat de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&hoofdstuk=2&paragraaf=2.4&artikel=19&z=2026-01-01&g=2026-01-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&hoofdstuk=2&paragraaf=2.4&artikel=20&z=2026-01-01&g=2026-01-01) geheel of gedeeltelijk buiten toepassing blijven in verband met een besluit tot vaststelling van de aanvullende uitkering voor meer dan een jaar.
 
-#### Artikel 22
+##### Artikel 22
 
 Onze Ministers besluiten omtrent de aanvraag vóór 1 juni van het jaar, volgend op het jaar waarvoor de aanvullende uitkering wordt aangevraagd.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Een gemeente heeft een aanmerkelijk en structureel tekort als bedoeld in [artikel 12, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=12), indien:
 
@@ -176,7 +202,7 @@ Onze Ministers besluiten omtrent de aanvraag vóór 1 juni van het jaar, volgend
 
 3. Bij de bepaling van de in het tweede lid bedoelde waarden wordt niet meegerekend de waarde van onroerende zaken of delen van onroerende zaken waarover het de gemeente verboden is, bij of krachtens wettelijk voorschrift, onroerende-zaakbelasting te heffen.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Van een redelijk peil van eigen inkomsten van een gemeente, als bedoeld in [artikel 12, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=12) is sprake indien:
 
@@ -188,7 +214,7 @@ Onze Ministers besluiten omtrent de aanvraag vóór 1 juni van het jaar, volgend
 
 2. Een tekort op de in het eerste lid, onder b en c, bedoelde onderdelen kan worden gecompenseerd door het tarief van de onroerendezaakbelastingen, bedoeld in het eerste lid, onder a, met een met het tekort overeenkomend bedrag te verhogen.
 
-#### Artikel 25
+##### Artikel 25
 
 Onze Ministers kunnen nadere regels stellen omtrent:
 
@@ -200,7 +226,7 @@ Onze Ministers kunnen nadere regels stellen omtrent:
 
 #### Paragraaf 2.5. De betalingen
 
-#### Artikel 26
+##### Artikel 26
 
 1. Onze Ministers doen de betalingen in verband met de uitkeringen, bedoeld in [artikel 5, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=5), over het lopende uitkeringsjaar, zoveel mogelijk in gelijke wekelijkse delen gedurende de eerste vijftig volle weken van het jaar.
 
@@ -208,11 +234,11 @@ Onze Ministers kunnen nadere regels stellen omtrent:
 
 ### Hoofdstuk 3. Specifieke uitkeringen
 
-#### Artikel 27
+##### Artikel 27
 
 [Artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a) is van toepassing op de verantwoordingsinformatie van gedeputeerde staten en het college van burgemeester en wethouders.
 
-#### Artikel 28
+##### Artikel 28
 
 Vóór 1 oktober van het jaar voorafgaand aan het uitkeringsjaar geven Onze Ministers wie het aangaat aan gedeputeerde staten en de colleges van burgemeester en wethouders kennis van:
 
@@ -222,7 +248,7 @@ Vóór 1 oktober van het jaar voorafgaand aan het uitkeringsjaar geven Onze Mini
 
 ### Hoofdstuk 4. Overgangs- en slotbepalingen
 
-#### Artikel 29
+##### Artikel 29
 
 1. Indien de effecten van een nieuwe verdeelmethodiek ertoe leiden dat de uitkering per inwoner van een gemeente aanmerkelijk hoger of lager is, kan de algemene uitkering aan de desbetreffende gemeente worden verlaagd of verhoogd ten laste van het gemeentefonds. De uitkeringsfactor is op deze bedragen niet van toepassing.
 
@@ -232,11 +258,11 @@ Vóór 1 oktober van het jaar voorafgaand aan het uitkeringsjaar geven Onze Mini
 
 4. Bij beschikking wordt het definitieve bedrag van de verhoging of verlaging van de algemene uitkering vastgesteld.
 
-#### Artikel 30
+##### Artikel 30
 
 Wijzigt het Besluit integratie-uitkering WUW-middelen Gemeentefonds.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Na de inwerkingtreding van dit besluit berust de Regeling meet- en rekenregels verdeelmaatstaven en vaststelling kilometers gewogen weglengte provinciefonds op [artikel 22 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=22) en [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2026-01-01&g=2026-01-01) van dit besluit.
 
@@ -246,31 +272,31 @@ Wijzigt het Besluit integratie-uitkering WUW-middelen Gemeentefonds.
 
 4. Na de inwerkingtreding van dit besluit berust de Regeling aanvullende uitkering gemeentefonds op [artikel 12 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=12) en [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&hoofdstuk=2&paragraaf=2.4&artikel=25&z=2026-01-01&g=2026-01-01) van dit besluit.
 
-#### Artikel 32
+##### Artikel 32
 
 Wijzigt het Bekostigingsbesluit cultuuruitingen.
 
-#### Artikel 33
+##### Artikel 33
 
 Wijzigt het Besluit zonering buitenlandse luchtvaartterreinen Noord- en Midden-Limburg.
 
-#### Artikel 34
+##### Artikel 34
 
 Wijzigt het Faciliteitenbesluit opvangcentra.
 
-#### Artikel 35
+##### Artikel 35
 
 Wijzigt het Subsidiebesluit openbare lichamen milieubeheer.
 
-#### Artikel 36
+##### Artikel 36
 
 Wijzigt dit besluit.
 
-#### Artikel 37
+##### Artikel 37
 
 Het Besluit financiële verhouding wordt ingetrokken.
 
-#### Artikel 38
+##### Artikel 38
 
 1. Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
@@ -278,7 +304,7 @@ Het Besluit financiële verhouding wordt ingetrokken.
 
 3. De verdeelmaatstaven die zijn vermeld in [bijlage 2 van de Invoeringswet Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008291&bijlage=2), en in de [bijlagen bij het Besluit van 14 mei 1998 houdende toevoeging van de categorie vluchtelingen aan de verdeelmaatstaf minderheden en enkele andere aanpassingen van de verdeelmaatstaven van het gemeentefonds](onbekend), het Wijzigingsbesluit verdeelmaatstaven gemeentefonds 1999 en het [Wijzigingsbesluit verdeelmaatstaven gemeentefonds 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011693), worden met ingang van de uitkering uit het gemeentefonds voor het jaar 2001 vervangen door de verdeelmaatstaven die zijn opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&bijlage=2&z=2026-01-01&g=2026-01-01) bij dit besluit.
 
-#### Artikel 39
+##### Artikel 39
 
 Dit besluit wordt aangehaald als: Besluit financiële verhouding 2001.
 
@@ -376,7 +402,7 @@ Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 28a
+##### Artikel 28a
 
 1. Het grensbedrag voor de verzameluitkering, bedoeld in [artikel 15a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=15a), wordt vastgesteld op € 1 miljoen inclusief BTW voor de totale omvang van de beschikbare bijdrage.
 

@@ -1,13 +1,35 @@
 ---
 title: "Protocol No. IV betreffende het Agentschap van de West-Europese Unie voor het toezicht op de bewapening"
 identifier: "BWBV0005566"
-categorie: "Internationaal recht"
-publicatiedatum: 2011-06-30
-laatste_update: 2011-06-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005566"
+country: "nl"
+rank: "verdrag"
+publication_date: "2011-06-30"
+last_updated: "2011-06-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005566"
+soort: "verdrag"
+stam_id: "10004714183"
+version_id: "10005018812"
+internal_id: "C10008341851"
+label_id: "10004698484"
+dtd_version: "2.0"
+original_entry_into_force: "2011-06-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005566/2011-06-30/0"
+intitule_bron: "Trb.2011-178"
+intitule_effect: "intrekking-regeling"
+intitule_published: "2011-10-04"
+intitule_in_force: "2011-10-04"
+intitule_status: "vervallen"
+original_publication: "Trb.2011-178"
+original_published_date: "2011-10-04"
+original_effect: "intrekking-regeling"
+original_url_id: "trb-2011-178"
+entry_into_force_date: "2011-06-30"
+jci_1_3: "jci1.3:c:BWBV0005566&z=2011-06-30&g=2011-06-30"
+jci_1_0: "1.0:c:BWBV0005566&g=2011-06-30"
+citeertitel_status: "officieel"
+entry_into_force: "2011-06-30"
 ---
-
 # Protocol No. IV betreffende het Agentschap van de West-Europese Unie voor het toezicht op de bewapening
 
 Zijne Majesteit de Koning der Belgen, de President van de Franse Republiek, President van de Franse Unie, de President van de Bondsrepubliek Duitsland, de President van de Italiaanse Republiek, Hare Koninklijke Hoogheid de Groothertogin van Luxemburg, Hare Majesteit de Koningin der Nederlanden, Hare Majesteit de Koningin van het Verenigd Koninkrijk van Groot-Britannië en Noord-Ierland en van Haar andere Rijken en Gebieden, Hoofd van het Gemenebest, ondertekenaars van het Protocol tot wijziging en aanvulling van het Verdrag van Brussel,
@@ -50,99 +72,99 @@ Zijn het volgende overeengekomen:
 
 ## Deel I. - Statuut
 
-#### Artikel 1
+##### Artikel 1
 
 Vervallen
 
-#### Artikel 2
+##### Artikel 2
 
 Vervallen
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
 ## Deel II. - Functies
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
 ## Deel III. - Omvang der wapenvoorraden
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
-#### Artikel 17
+##### Artikel 17
 
 Vervallen
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
-#### Artikel 19
+##### Artikel 19
 
 Vervallen
 
-#### Artikel 20
+##### Artikel 20
 
 Vervallen
 
-#### Artikel 21
+##### Artikel 21
 
 Vervallen
 
-#### Artikel 22
+##### Artikel 22
 
 Vervallen
 
-#### Artikel 23
+##### Artikel 23
 
 Vervallen
 

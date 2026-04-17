@@ -1,13 +1,39 @@
 ---
-title: "Regeling aanwijzing ex artikel 7, Wet Marktordening gezondheidszorg (stimuleren kleinschalige zorg met verblijf voor mensen met psychogeriatrische aandoening)"
+title: "Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 7 december 2009, nr. DLZ/KZ-2974548, op grond van artikel 7 van de Wet Marktordening gezondheidszorg inzake het stimuleren van kleinschalige zorg met verblijf voor mensen met een psychogeriatrische aandoening"
 identifier: "BWBR0026834"
-categorie: "Sociaal recht"
-publicatiedatum: 2009-12-16
-laatste_update: 2009-12-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026834"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2009-12-16"
+last_updated: "2009-12-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026834"
+soort: "ministeriele-regeling"
+stam_id: "10313993"
+version_id: "16905582"
+internal_id: "C23289031"
+label_id: "10289414"
+dtd_version: "2.0"
+original_entry_into_force: "2009-12-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026834/2009-12-16/0"
+intitule_bron: "Stcrt.2009-19255"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-12-07"
+intitule_published: "2009-12-16"
+intitule_in_force: "2009-12-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-19255"
+original_signed_date: "2009-12-07"
+original_published_date: "2009-12-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-19255"
+entry_into_force_date: "2009-12-16"
+jci_1_3: "jci1.3:c:BWBR0026834&z=2009-12-16&g=2009-12-16"
+jci_1_0: "1.0:c:BWBR0026834&g=2009-12-16"
+citeertitel_status: "redactioneel"
+short_title: "Regeling aanwijzing ex artikel 7, Wet Marktordening gezondheidszorg (stimuleren kleinschalige zorg met verblijf voor mensen met psychogeriatrische aandoening)"
+signed_date: "2009-12-07"
+entry_into_force: "2009-12-16"
 ---
-
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 7 december 2009, nr. DLZ/KZ-2974548, op grond van artikel 7 van de Wet Marktordening gezondheidszorg inzake het stimuleren van kleinschalige zorg met verblijf voor mensen met een psychogeriatrische aandoening
 
 Gelet op [artikel 7 van de Wet Marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
@@ -18,7 +44,7 @@ Gezien mijn inbreng van 7 december 2009 voor het verslag van een schriftelijk ov
 
 Besluit:
 
-#### Artikel 1. definities
+##### Artikel 1. definities
 
 In deze aanwijzing wordt verstaan onder:
 
@@ -60,13 +86,13 @@ In deze aanwijzing wordt verstaan onder:
 
 - n. **P:** het bedrag per te realiseren of gerealiseerde plaats waarop het projectplan betrekking heeft.
 
-#### Artikel 2. werkingssfeer en uitvoering aanwijzing
+##### Artikel 2. werkingssfeer en uitvoering aanwijzing
 
 1. Deze aanwijzing is van toepassing op zorg als bedoeld in het Stimuleringsprogramma kleinschalige zorg.
 
 2. Ter uitvoering van deze aanwijzing stelt de zorgautoriteit waar nodig regels en beleidsregels vast.
 
-#### Artikel 3. financieel kader
+##### Artikel 3. financieel kader
 
 1. Voor het Stimuleringsprogramma kleinschalige zorg is beschikbaar:
 
@@ -82,7 +108,7 @@ In deze aanwijzing wordt verstaan onder:
 
 - b. een P van € 7.500,– indien het gaat om andere projecten dan bedoeld onder a.
 
-#### Artikel 4. behandeling aanvragen
+##### Artikel 4. behandeling aanvragen
 
 1. De zorg gaat bij de behandeling van aanvragen van een tarief voor een project kleinschalige zorg, als volgt te werk:
 
@@ -102,16 +128,16 @@ In deze aanwijzing wordt verstaan onder:
 
 2. Een aanvraag voor een project waarvan de startdatum ligt in het jaar 2009 kan tot uiterlijk 1 april 2010 worden ingediend.
 
-#### Artikel 5. tarifering
+##### Artikel 5. tarifering
 
 1. Voor projecten kleinschalige zorg geldt een tarief als bedoeld in [artikel 57, vierde lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57).
 
 2. De zorgautoriteit voorziet erin dat de zorgaanbieder het tarief bedoeld in [artikel 4 onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0026834&artikel=4&z=2009-12-16&g=2009-12-16), uitsluitend in rekening kan brengen aan het zorgkantoor met wie hij daartoe een projectovereenkomst heeft gesloten.
 
-#### Artikel 6. informatie
+##### Artikel 6. informatie
 
 De zorgautoriteit levert in overleg met de staatssecretaris informatie aan ten behoeve van de evaluatie van het Stimuleringsprogramma kleinschalig wonen.
 
-#### Artikel 7. inwerkingtreding en publicatie
+##### Artikel 7. inwerkingtreding en publicatie
 
 Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst.

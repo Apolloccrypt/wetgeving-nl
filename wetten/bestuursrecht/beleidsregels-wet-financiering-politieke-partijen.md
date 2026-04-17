@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregels Wet financiering politieke partijen"
+title: "Beleidsregels van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 19 april 2013, nr. 2013-0000217474, omtrent de uitleg van de begrippen ‘bijdrage in natura’ en ‘neveninstelling’ in de Wet financiering politieke partijen (Beleidsregels Wet financiering politieke partijen)"
 identifier: "BWBR0033331"
-categorie: "Bestuursrecht"
-publicatiedatum: 2013-05-01
-laatste_update: 2013-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033331"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2013-05-01"
+last_updated: "2013-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033331"
+soort: "beleidsregel"
+stam_id: "12232503"
+version_id: "20458272"
+internal_id: "C28759521"
+label_id: "12203824"
+dtd_version: "2.0"
+original_entry_into_force: "2013-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033331/2013-05-01/0"
+intitule_bron: "Stcrt.2013-11116"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-04-19"
+intitule_published: "2013-04-26"
+intitule_in_force: "2013-04-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-11116"
+original_signed_date: "2013-04-19"
+original_published_date: "2013-04-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-11116"
+entry_into_force_date: "2013-05-01"
+jci_1_3: "jci1.3:c:BWBR0033331&z=2013-05-01&g=2013-05-01"
+jci_1_0: "1.0:c:BWBR0033331&g=2013-05-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregels Wet financiering politieke partijen"
+signed_date: "2013-04-19"
+entry_into_force: "2013-05-01"
 ---
-
 # Beleidsregels van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 19 april 2013, nr. 2013-0000217474, omtrent de uitleg van de begrippen ‘bijdrage in natura’ en ‘neveninstelling’ in de Wet financiering politieke partijen (Beleidsregels Wet financiering politieke partijen)
 
 Gelet op [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) en de [artikelen 1, aanhef en onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&artikel=1), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&artikel=5) en [22 van de Wet financiering politieke partijen](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&artikel=22);

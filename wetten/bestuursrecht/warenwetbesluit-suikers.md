@@ -1,13 +1,39 @@
 ---
-title: "Warenwetbesluit suikers"
+title: "Besluit van 8 april 2003, houdende regels voor bepaalde voor menselijke voeding bestemde suikers (Warenwetbesluit suikers)"
 identifier: "BWBR0014930"
-categorie: "Bestuursrecht"
-publicatiedatum: 2014-12-13
-laatste_update: 2014-12-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0014930"
+country: "nl"
+rank: "amvb"
+publication_date: "2014-12-13"
+last_updated: "2014-12-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0014930"
+soort: "AMvB"
+stam_id: "3475433"
+version_id: "5258902"
+internal_id: "C5471701"
+label_id: "3455664"
+dtd_version: "2.0"
+original_entry_into_force: "2003-07-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0014930/2014-12-13/0"
+intitule_bron: "Stb.2003-165"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-04-08"
+intitule_published: "2003-04-24"
+intitule_in_force: "2003-04-24"
+intitule_status: "goed"
+original_publication: "Stb.2003-165"
+original_signed_date: "2003-04-08"
+original_published_date: "2003-04-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2003-165"
+entry_into_force_date: "2003-07-12"
+jci_1_3: "jci1.3:c:BWBR0014930&z=2014-12-13&g=2014-12-13"
+jci_1_0: "1.0:c:BWBR0014930&g=2014-12-13"
+citeertitel_status: "officieel"
+short_title: "Warenwetbesluit suikers"
+signed_date: "2003-04-08"
+entry_into_force: "2003-07-12"
 ---
-
 # Besluit van 8 april 2003, houdende regels voor bepaalde voor menselijke voeding bestemde suikers (Warenwetbesluit suikers)
 
 Op de voordracht van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 20 december 2002, VGB/VL 2342791, gedaan in overeenstemming met Onze Ministers van Landbouw, Natuurbeheer en Visserij, van Economische Zaken, en van Justitie;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit wordt verstaan onder:
 
@@ -44,7 +70,7 @@ Hebben goedgevonden en verstaan:
 
 2. Dit besluit is niet van toepassing op in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014930&paragraaf=2&z=2014-12-13&g=2014-12-13) bedoelde waren in de vorm van poedersuiker, kandijsuiker of suikerbroden.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het is verboden bij dit besluit bedoelde eet- en drinkwaren te verhandelen anders dan met inachtneming van de bij dit besluit gestelde voorschriften met betrekking tot hun aanduiding.
 
@@ -54,7 +80,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 2. Etikettering
 
-#### Artikel 3
+##### Artikel 3
 
 De aanduiding **halfwitte suiker** wordt gebezigd voor suiker van deugdelijke handelskwaliteit, met de volgende kenmerken:
 
@@ -64,7 +90,7 @@ De aanduiding **halfwitte suiker** wordt gebezigd voor suiker van deugdelijke ha
 
 - c. het verlies bij het drogen bedraagt ten hoogste 0,1 gewichtsprocent.
 
-#### Artikel 4
+##### Artikel 4
 
 De aanduiding **suiker** of **witte suiker** wordt gebezigd voor suiker van voldoende handelskwaliteit, met de volgende kenmerken:
 
@@ -76,7 +102,7 @@ De aanduiding **suiker** of **witte suiker** wordt gebezigd voor suiker van vold
 
 - d. het kleurtype bedraagt ten hoogste negen punten.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De aanduiding **geraffineerde suiker** of **geraffineerde witte suiker** wordt gebezigd voor suiker van voldoende handelskwaliteit, met de volgende kenmerken:
 
@@ -96,7 +122,7 @@ De aanduiding **suiker** of **witte suiker** wordt gebezigd voor suiker van vold
 
 2. Onverminderd het eerste lid mag voor de daar bedoelde waar ook de aanduiding **suiker** of **witte suiker** worden gebezigd.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De aanduiding **vloeibare suiker** wordt gebezigd voor vloeibare suiker met de volgende kenmerken:
 
@@ -110,7 +136,7 @@ De aanduiding **suiker** of **witte suiker** wordt gebezigd voor suiker van vold
 
 2. Bij een als **vloeibare suiker** aangeduide waar worden vermeldingen gebezigd inzake het gehalte aan droge stof en aan invertsuiker van de waar.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De aanduiding **vloeibare invertsuiker** wordt gebezigd voor vloeibare invertsuiker waarin de invertsuiker niet overweegt, met de volgende kenmerken:
 
@@ -122,7 +148,7 @@ De aanduiding **suiker** of **witte suiker** wordt gebezigd voor suiker van vold
 
 2. Bij een als **vloeibare invertsuiker** aangeduide waar worden vermeldingen gebezigd inzake het gehalte aan droge stof en aan invertsuiker van de waar.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De aanduiding **invertsuikerstroop** wordt gebezigd voor invertsuikerstroop met de volgende kenmerken:
 
@@ -138,7 +164,7 @@ De aanduiding **suiker** of **witte suiker** wordt gebezigd voor suiker van vold
 
 - b. wordt, voorzover de oplossing daarvan kristallen bevat, de vermelding« gekristalliseerd» gebezigd.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De aanduiding **glucosestroop** wordt gebezigd voor glucosestroop met de volgende kenmerken:
 
@@ -156,7 +182,7 @@ De aanduiding **suiker** of **witte suiker** wordt gebezigd voor suiker van vold
 
 teneinde aan te geven of het glucose- dan wel fructoseaandeel van de waar het grootst is.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De aanduiding **gedroogde glucosestroop** wordt gebezigd voor gedeeltelijk gedroogde glucosestroop met de volgende kenmerken:
 
@@ -174,7 +200,7 @@ teneinde aan te geven of het glucose- dan wel fructoseaandeel van de waar het gr
 
 teneinde aan te geven of het glucose- dan wel fructoseaandeel van de waar het grootst is.
 
-#### Artikel 11
+##### Artikel 11
 
 De aanduiding **dextrose** of **dextrosemonohydraat** wordt gebezigd voor dextrose met één molecuul kristalwater, met de volgende kenmerken:
 
@@ -184,7 +210,7 @@ De aanduiding **dextrose** of **dextrosemonohydraat** wordt gebezigd voor dextro
 
 - c. de hoeveelheid sulfaatas bedraagt ten hoogste 0,25 gewichtsprocent van de droge stof.
 
-#### Artikel 12
+##### Artikel 12
 
 De aanduiding **dextrose** of **watervrije dextrose** wordt gebezigd voor dextrose zonder kristalwater, met de volgende kenmerken:
 
@@ -194,7 +220,7 @@ De aanduiding **dextrose** of **watervrije dextrose** wordt gebezigd voor dextro
 
 - c. de hoeveelheid sulfaatas bedraagt ten hoogste 0,25 gewichtsprocent van de droge stof.
 
-#### Artikel 13
+##### Artikel 13
 
 De aanduiding **fructose** wordt gebezigd voor fructose met de volgende kenmerken:
 
@@ -206,7 +232,7 @@ De aanduiding **fructose** wordt gebezigd voor fructose met de volgende kenmerke
 
 - d. conductometrisch bepaald asgehalte bedraagt ten hoogste 0,1 gewichtsprocent.
 
-#### Artikel 14
+##### Artikel 14
 
 De aanduiding **wit** mag uitsluitend worden gebezigd bij de aanduiding van:
 
@@ -218,7 +244,7 @@ De aanduiding **wit** mag uitsluitend worden gebezigd bij de aanduiding van:
 
 - 2°. de kleurintensiteit ten hoogste 25 ICUMSA-eenheden bedraagt.
 
-#### Artikel 15
+##### Artikel 15
 
 Onverminderd de [artikelen 3 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0014930&paragraaf=2&artikel=3&z=2014-12-13&g=2014-12-13) mogen, voorzover de consument daardoor niet in verwarring kan worden gebracht:
 
@@ -226,13 +252,13 @@ Onverminderd de [artikelen 3 tot en met 14](https://wetten.overheid.nl/jci1.3:c:
 
 - b. de in deze paragraaf bedoelde aanduidingen ook worden gebruikt in aanduidingen waarmee, overeenkomstig bestaande gebruiken, andere dan in deze paragraaf bedoelde waren worden aangeduid.
 
-#### Artikel 16
+##### Artikel 16
 
 In afwijking van artikel 9, eerste lid, onder e, van Verordening (EU) nr. 1169/2011 van het Europees Parlement en de Raad van 25 oktober 2011 betreffende de verstrekking van voedselinformatie aan consumenten (PbEU 2011, L 304), hoeft bij in deze paragraaf bedoelde, voorverpakte waren, met een gewicht van minder dan 20 g, geen vermelding te worden gebezigd inzake de netto-hoeveelheid.
 
 #### § 3. Slotbepalingen
 
-#### Artikel 17
+##### Artikel 17
 
 1. Het kleurtype, het conductometrisch bepaalde asgehalte en de kleur van de oplossing, bedoeld in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014930&paragraaf=2&z=2014-12-13&g=2014-12-13), worden bepaald met inachtneming van het tweede lid.
 
@@ -244,19 +270,19 @@ In afwijking van artikel 9, eerste lid, onder e, van Verordening (EU) nr. 1169/2
 
 - c. wat de kleur van de oplossing betreft, met 7,5 eenheden volgens de methode van de International Commission for Uniform Methods of Sugar Analysis (ICUMSA-methode), als omschreven in deel A, punt 3, van de bijlage bij [verordening (EG) 1265/69](31969R1265).
 
-#### Artikel 18
+##### Artikel 18
 
 Het [Suiker- en stroopbesluit (Warenwet) 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003089) wordt ingetrokken.
 
-#### Artikel 19
+##### Artikel 19
 
 Wijzigt het Warenwetbesluit bestuurlijke boeten.
 
-#### Artikel 20
+##### Artikel 20
 
 Wijzigt het Warenwetbesluit Cacao en chocolade, het Deegwarenbesluit (Warenwet), het Warenwetbesluit Frisdranken en het Warenwetbesluit Verduurzaamde vruchtenprodukten.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Dit besluit treedt in werking met ingang van 12 juli 2003.
 
@@ -264,7 +290,7 @@ Wijzigt het Warenwetbesluit Cacao en chocolade, het Deegwarenbesluit (Warenwet),
 
 3. Het [Suiker- en stroopbesluit (Warenwet) 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003089) is vanaf 12 juli 2003 niet van toepassing op waren die voldoen aan dit besluit.
 
-#### Artikel 22
+##### Artikel 22
 
 Dit besluit wordt aangehaald als: Warenwetbesluit suikers.
 

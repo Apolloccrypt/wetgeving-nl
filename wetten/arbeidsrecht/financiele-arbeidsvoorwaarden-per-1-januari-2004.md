@@ -1,13 +1,36 @@
 ---
 title: "Financiële arbeidsvoorwaarden per 1 januari 2004"
 identifier: "BWBR0016355"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2004-02-11
-laatste_update: 2004-02-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0016355"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2004-02-11"
+last_updated: "2004-02-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0016355"
+soort: "beleidsregel"
+stam_id: "6496613"
+version_id: "11183042"
+internal_id: "C15109731"
+label_id: "6485364"
+original_entry_into_force: "2004-02-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0016355/2004-02-11/0"
+intitule_bron: "Uitleg.2004-3"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-02-03"
+intitule_published: "2004-02-11"
+intitule_in_force: "2004-02-11"
+intitule_status: "goed"
+original_publication: "Uitleg.2004-3"
+original_signed_date: "2004-02-03"
+original_published_date: "2004-02-11"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2004-02-11"
+jci_1_3: "jci1.3:c:BWBR0016355&z=2004-02-11&g=2004-02-11"
+jci_1_0: "1.0:c:BWBR0016355&g=2004-02-11"
+citeertitel_status: "redactioneel"
+signed_date: "2004-02-03"
+entry_into_force: "2004-02-11"
 ---
-
 # Financiële arbeidsvoorwaarden per 1 januari 2004
 
 ### Inleiding

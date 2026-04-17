@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregel bevoegdheid basisonderwijs, speciaal basisonderwijs en (voortgezet) speciaal onderwijs voor buitenlandse diploma’s"
+title: "Beleidsregel van de Minister voor Basis- en Voortgezet Onderwijs en Media van 20 april 2017, nr. 1230279, houdende voorwaarden en beperkingen voor verlening van de bevoegdheid tot het geven van onderwijs door personen die in het bezit zijn van een buitenlands bewijsstuk waarmee de bekwaamheid en bevoegdheid in het betreffende land wordt aangetoond (Beleidsregel bevoegdheid basisonderwijs, speciaal basisonderwijs en (voortgezet) speciaal onderwijs voor buitenlandse diploma’s)"
 identifier: "BWBR0040870"
-categorie: "Onderwijs"
-publicatiedatum: 2025-06-13
-laatste_update: 2025-06-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040870"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2025-06-13"
+last_updated: "2025-06-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040870"
+soort: "beleidsregel"
+stam_id: "14598513"
+version_id: "24997052"
+internal_id: "C35753331"
+label_id: "14552094"
+dtd_version: "2.0"
+original_entry_into_force: "2018-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040870/2025-06-13/0"
+intitule_bron: "Stcrt.2018-23727"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-04-20"
+intitule_published: "2018-05-01"
+intitule_in_force: "2018-05-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-23727"
+original_signed_date: "2017-04-20"
+original_published_date: "2018-05-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-23727"
+entry_into_force_date: "2018-09-01"
+jci_1_3: "jci1.3:c:BWBR0040870&z=2025-06-13&g=2025-06-13"
+jci_1_0: "1.0:c:BWBR0040870&g=2025-06-13"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel bevoegdheid basisonderwijs, speciaal basisonderwijs en (voortgezet) speciaal onderwijs voor buitenlandse diploma’s"
+signed_date: "2017-04-20"
+entry_into_force: "2018-09-01"
 ---
-
 # Beleidsregel van de Minister voor Basis- en Voortgezet Onderwijs en Media van 20 april 2017, nr. 1230279, houdende voorwaarden en beperkingen voor verlening van de bevoegdheid tot het geven van onderwijs door personen die in het bezit zijn van een buitenlands bewijsstuk waarmee de bekwaamheid en bevoegdheid in het betreffende land wordt aangetoond (Beleidsregel bevoegdheid basisonderwijs, speciaal basisonderwijs en (voortgezet) speciaal onderwijs voor buitenlandse diploma’s)
 
 Gelet op [artikel 3, derde lid, van de Wet op primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=3), [artikel 3, derde lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=3), en [artikel 3, derde lid, van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=3);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -46,7 +72,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - **WPO BES:** [Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280).
 
-#### Artikel 2. Voorwaarden voor het verkrijgen van een bevoegdheid
+##### Artikel 2. Voorwaarden voor het verkrijgen van een bevoegdheid
 
 1. De Minister kan op verzoek een bevoegdheid verlenen tot het geven van onderwijs op een school, een basisschool, een school voor speciaal basisonderwijs, een school voor speciaal onderwijs of een school voor voortgezet speciaal onderwijs, aan degene die:
 
@@ -88,7 +114,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - 3. een getuigschrift van een bacheloropleiding, als bedoeld in [artikel 7.3a van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3a), of onderwijs dat wat betreft het niveau minstens gelijkwaardig kan worden geacht aan voorgaande, van een opleiding die wordt gegeven in de Engelse taal en is geaccrediteerd in het land waar deze opleiding wordt gegeven.
 
-#### Artikel 3. Voorwaarden voor het verkrijgen van een bevoegdheid vakonderwijs
+##### Artikel 3. Voorwaarden voor het verkrijgen van een bevoegdheid vakonderwijs
 
 1. De Minister kan op verzoek een bevoegdheid verlenen tot het geven van onderwijs in een of meerdere van de vakken bedoeld in [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=11) en [12 van de WPO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=12), [artikel 9 van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9), [artikel 13 van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=13) of de [artikelen 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14a), [14c](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14c) en [14f van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14f), aan degene die:
 
@@ -114,7 +140,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - b. [artikel 2, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040870&artikel=2&z=2025-06-13&g=2025-06-13).
 
-#### Artikel 4. Reikwijdte
+##### Artikel 4. Reikwijdte
 
 1. Deze beleidsregel is niet van toepassing op degene met een EU-beroepskwalificatie, als bedoeld in de [Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066).
 
@@ -124,17 +150,17 @@ In deze beleidsregel wordt verstaan onder:
 
 - b. een positief oordeel van Nuffic over het bewijsstuk waarmee de bevoegdheid en bekwaamheid van leraar wordt aangetoond.
 
-#### Artikel 5. Intrekking
+##### Artikel 5. Intrekking
 
 1. De [Beleidsregel voor basisonderwijs, speciaal onderwijs en (voortgezet) speciaal onderwijs voor buitenlandse diploma’s](https://wetten.overheid.nl/jci1.3:c:BWBR0025074) wordt ingetrokken.
 
 2. De [Regeling bevoegdheid basisonderwijs voor buitenlandse diploma’s](https://wetten.overheid.nl/jci1.3:c:BWBR0004229) wordt ingetrokken.
 
-#### Artikel 6. Inwerkingtreding
+##### Artikel 6. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van 1 september 2018.
 
-#### Artikel 7. Citeertitel
+##### Artikel 7. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel bevoegdheid basisonderwijs, speciaal basisonderwijs en (voortgezet) speciaal onderwijs voor buitenlandse diploma’s.
 

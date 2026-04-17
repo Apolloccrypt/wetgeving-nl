@@ -1,13 +1,38 @@
 ---
 title: "Besluit sollicitatieplicht werknemers WW en IOW 2012"
 identifier: "BWBR0031440"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2012-07-01
-laatste_update: 2012-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031440"
+country: "nl"
+rank: "zbo"
+publication_date: "2012-07-01"
+last_updated: "2012-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031440"
+soort: "zbo"
+stam_id: "11706073"
+version_id: "19326202"
+internal_id: "C27217341"
+label_id: "11678694"
+dtd_version: "2.0"
+original_entry_into_force: "2012-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031440/2012-07-01/0"
+intitule_bron: "Stcrt.2012-6355"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-03-20"
+intitule_published: "2012-05-21"
+intitule_in_force: "2012-06-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-6355"
+original_signed_date: "2012-03-20"
+original_published_date: "2012-05-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-6355"
+entry_into_force_date: "2012-07-01"
+jci_1_3: "jci1.3:c:BWBR0031440&z=2012-07-01&g=2012-07-01"
+jci_1_0: "1.0:c:BWBR0031440&g=2012-07-01"
+citeertitel_status: "officieel"
+signed_date: "2012-03-20"
+entry_into_force: "2012-07-01"
 ---
-
 # Besluit sollicitatieplicht werknemers WW en IOW 2012
 
 Gelet op [artikel 24, eerste lid, onderdeel b, ten eerste van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24) en op [artikel 15, onder b van de Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=15);
@@ -16,19 +41,19 @@ Besluit:
 
 Treedt in werking op het tijdstip waarop de Wijzigingswet Wet structuur uitvoeringsorganisatie werk en inkomen (aanpassing dienstverlening van het Uitvoeringsinstituut werknemersverzekeringen aan werkgevers en werkzoekenden en opheffing Raad voor Werk en Inkomen als publiekrechtelijke rechtspersoon met een wettelijke taak en van de Werkloosheidswet en enige andere wetten i.v.m. beëindiging inzet re-integratiebudget Werkloosheidswet en loonkostensubsidies) (Stb. 2012/224) in werking treedt.
 
-#### Artikel 1
+##### Artikel 1
 
 Het Uitvoeringsinstituut werknemersverzekeringen voert terzake van de uitvoering van [artikel 24, eerste lid, onderdeel b, ten eerste van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24) en van [artikel 15, onder b van de Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=15) een beleid als weergegeven in de bijlage bij dit besluit.
 
-#### Artikel 2
+##### Artikel 2
 
 Het [Besluit sollicitatieplicht werknemers WW 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031428) wordt ingetrokken.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit wordt aangehaald als: Besluit sollicitatieplicht werknemers WW en IOW 2012.
 
-#### Artikel 4
+##### Artikel 4
 
 Indien het bij koninklijke boodschap van 27 oktober 2011 ingediende voorstel van wet ‘Wijziging van de Wet structuur uitvoeringsorganisatie werk en inkomen in verband met aanpassing van de dienstverlening van het Uitvoeringsinstituut werknemersverzekeringen aan werkgevers en werkzoekenden en de opheffing van de Raad voor Werk en Inkomen als publiekrechtelijke rechtspersoon met een wettelijke taak en van de Werkloosheidswet en enige andere weten in verband met de beëindiging van de inzet van het re-integratiebudget Werkloosheidswet en van loonkostensubsidies’ (TK 33 065), nadat het tot wet is verheven, in werking treedt, treedt dit besluit op hetzelfde tijdstip in werking.
 

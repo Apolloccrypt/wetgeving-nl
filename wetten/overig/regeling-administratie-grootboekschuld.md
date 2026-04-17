@@ -1,42 +1,66 @@
 ---
 title: "Regeling administratie grootboekschuld"
 identifier: "BWBR0007938"
-categorie: "Overig"
-publicatiedatum: 2002-01-01
-laatste_update: 2002-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007938"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2002-01-01"
+last_updated: "2002-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007938"
+soort: "ministeriele-regeling"
+stam_id: "4359623"
+version_id: "6116242"
+internal_id: "C16538621"
+label_id: "4338324"
+dtd_version: "2.0"
+original_entry_into_force: "1996-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007938/2002-01-01/0"
+intitule_bron: "Stcrt.1996-60"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-03-13"
+intitule_published: "1996-03-25"
+intitule_in_force: "1996-03-25"
+intitule_status: "goed"
+original_publication: "Stcrt.1996-60"
+original_signed_date: "1996-03-13"
+original_published_date: "1996-03-25"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1996-04-01"
+jci_1_3: "jci1.3:c:BWBR0007938&z=2002-01-01&g=2002-01-01"
+jci_1_0: "1.0:c:BWBR0007938&g=2002-01-01"
+citeertitel_status: "officieel"
+signed_date: "1996-03-13"
+entry_into_force: "1996-04-01"
 ---
-
 # Regeling administratie grootboekschuld
 
 Gelet op [artikel 21 van de Wet administratie grootboekschuld](https://wetten.overheid.nl/jci1.3:c:BWBR0007597&artikel=21);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het aanmelden, bedoeld in [artikel 5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007597&artikel=5) vindt plaats bij het Agentschap.
 
 2. Het Agentschap kan nadere regels voor de aanmelding stellen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Bij de inschrijving, bedoeld in [artikel 8, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007597&artikel=8) wordt aangetekend dat deze in beslag is genomen.
 
 2. Bij de inschrijving, bedoeld in [artikel 8, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007597&artikel=8) wordt aangetekend dat deze in beslag is genomen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Bij de inschrijving, bedoeld in [artikel 9, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007597&artikel=9) wordt aangetekend dat deze is bezwaard met een recht van een derde.
 
 2. Bij de inschrijving, bedoeld in [artikel 9, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007597&artikel=9) wordt aangetekend dat deze is bezwaard met een recht van een derde.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Bij de inschrijving, bedoeld in [artikel 10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007597&artikel=10) wordt aangetekend dat deze in beslag is genomen indien zowel de rechthebbende als de beslaglegger zich binnen de in [artikel 5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007597&artikel=5) genoemde periode melden.
 
@@ -50,7 +74,7 @@ In deze regeling wordt verstaan onder:
 
 6. Bij de inschrijving bedoeld in [artikel 10, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007597&artikel=10) wordt aangetekend dat deze in beslag is genomen en is bezwaard met een recht van een derde.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Bij de inschrijving bedoeld in [artikel 11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007597&artikel=11) wordt aangetekend dat deze is bewaard met een in beslag genomen recht van een onbekende derde indien zowel de rechthebbende als de beslaglegger zich binnen de in [artikel 5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007597&artikel=5) genoemde periode melden.
 
@@ -66,7 +90,7 @@ In deze regeling wordt verstaan onder:
 
 Bij de inschrijving bedoeld in [artikel 11, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007597&artikel=11) wordt aangetekend dat deze is bezwaard met een in beslag genomen recht van een derde.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Bij de inschrijving bedoeld in [artikel 12, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007597&artikel=12) wordt aangetekend dat deze in beslag is genomen indien zowel de rechthebbende als degene die beslag heeft gelegd op de inschrijving zich binnen de in [artikel 5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007597&artikel=5) genoemde periode melden.
 
@@ -96,17 +120,17 @@ Bij de inschrijving bedoeld in [artikel 11, derde lid, van de wet](https://wette
 
 14. Bij de inschrijving bedoeld in [artikel 12, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007597&artikel=12) wordt aangetekend dat de inschrijving in beslag is genomen en is bezwaard met een in beslag genomen recht van een derde.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Slechts inschrijvingen van € 4 537,80 of meer, afgerond op € 22,69 of een veelvoud daarvan, komen in aanmerking voor inschrijving op een rekening in de schuldregisters.
 
 2. Voor inschrijvingen kleiner dan € 4 537,80 worden, na afschrijving, schuldbewijzen aan toonder ter beschikking gesteld.
 
-#### Artikel 9
+##### Artikel 9
 
 Bij de overschrijving van een inschrijving van een tussenrekening op een rekening in de schuldregisters worden eventuele aantekeningen overgenomen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De schuldbewijzen luiden aan toonder en worden verkrijgbaar gesteld in de vorm van K-schuldbewijzen groot € 22,69, € 45,38, € 226,89, € 453,78, en CF-schuldbewijzen groot € 453,78, en € 22 689,01.
 
@@ -134,23 +158,23 @@ Bij de overschrijving van een inschrijving van een tussenrekening op een rekenin
 
 7. Het tijdstip met ingang waarvan de recepissen in definitieve schuldbewijzen verwisseld kunnen worden, zal in de Staatscourant worden bekendgemaakt.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Schuldbewijzen bedoeld in [artikel 14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007597&artikel=14) kunnen bij het Agentschap worden ingeleverd.
 
 2. Bij afgifte van schuldbewijzen is [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007938&artikel=10&z=2002-01-01&g=2002-01-01) van toepassing.
 
-#### Artikel 12
+##### Artikel 12
 
 Op de tussenrekeningen is de Beschikking Schuldregisters Nederlandse Staatsleningen van overeenkomstige toepassing.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Op de schuldregisters is de Beschikking Schuldregisters Nederlandse Staatsleningen van overeenkomstige toepassing.
 
 2. Het minimum saldo op een rekening in een schuldregister bedraagt € 4 537,80. Indien als gevolg van verhandeling of omwisseling in schuldbewijzen het saldo van een inschrijving daalt onder de € 4 537,80, worden voor dit saldo schuldbewijzen beschikbaar gesteld. [Artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007938&artikel=10&z=2002-01-01&g=2002-01-01) is van toepassing.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De rente op inschrijvingen overgeschreven op tussenrekeningen en schuldregisterrekeningen van de 2
 
@@ -170,15 +194,15 @@ Op de tussenrekeningen is de Beschikking Schuldregisters Nederlandse Staatslenin
 
 9. Het recht tot opvordering van de rente verjaart 5 jaar na de eerste dag waarop de rente betaalbaar is.
 
-#### Artikel 15
+##### Artikel 15
 
 Kosten ten aanzien waarvan niet uitdrukkelijk is bepaald dat zij voor rekening van de Staat der Nederlanden komen, kunnen niet bij de Staat der Nederlanden in rekening worden gebracht.
 
-#### Artikel 16
+##### Artikel 16
 
 Deze regeling treedt in werking met ingang van 1 april 1996.
 
-#### Artikel 17
+##### Artikel 17
 
 Deze regeling wordt aangehaald als: Regeling administratie grootboekschuld.
 

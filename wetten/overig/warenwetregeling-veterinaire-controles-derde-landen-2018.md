@@ -1,13 +1,39 @@
 ---
-title: "Warenwetregeling veterinaire controles derde landen 2018"
+title: "Regeling van de Minister voor Medische Zorg van 31 mei 2018, 1337436-176289-VGP, houdende vaststelling van regels met betrekking tot de veterinaire controles van producten uit derde landen (Warenwetregeling veterinaire controles derde landen 2018)"
 identifier: "BWBR0040985"
-categorie: "Overig"
-publicatiedatum: 2019-12-14
-laatste_update: 2019-12-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040985"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2019-12-14"
+last_updated: "2019-12-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040985"
+soort: "ministeriele-regeling"
+stam_id: "14627183"
+version_id: "25047992"
+internal_id: "C35816931"
+label_id: "14580284"
+dtd_version: "2.0"
+original_entry_into_force: "2018-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040985/2019-12-14/0"
+intitule_bron: "Stcrt.2018-31257"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-05-31"
+intitule_published: "2018-06-07"
+intitule_in_force: "2018-06-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-31257"
+original_signed_date: "2018-05-31"
+original_published_date: "2018-06-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-31257"
+entry_into_force_date: "2018-07-01"
+jci_1_3: "jci1.3:c:BWBR0040985&z=2019-12-14&g=2019-12-14"
+jci_1_0: "1.0:c:BWBR0040985&g=2019-12-14"
+citeertitel_status: "officieel"
+short_title: "Warenwetregeling veterinaire controles derde landen 2018"
+signed_date: "2018-05-31"
+entry_into_force: "2018-07-01"
 ---
-
 # Regeling van de Minister voor Medische Zorg van 31 mei 2018, 1337436-176289-VGP, houdende vaststelling van regels met betrekking tot de veterinaire controles van producten uit derde landen (Warenwetregeling veterinaire controles derde landen 2018)
 
 Gelet op:
@@ -38,7 +64,7 @@ Uitvoeringsverordening (EU) 2016/759 van de Commissie van 28 april 2016 tot vast
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -60,23 +86,23 @@ In deze regeling wordt verstaan onder:
 
 - i. **uitvoeringsverordening (EU) 2016/759:** Uitvoeringsverordening (EU) 2016/759 van de Commissie van 28 april 2016 tot vaststelling van lijsten van derde landen, delen van derde landen en gebieden waaruit de lidstaten het binnenbrengen in de Unie van bepaalde voor menselijke consumptie bestemde producten van dierlijke oorsprong moeten toestaan, tot vaststelling van certificeringsvoorschriften, tot wijziging van Verordening (EG) nr. 2074/2005 en tot intrekking van Beschikking 2003/812/EG (PbEU 2016, L 126).
 
-#### Artikel 2
+##### Artikel 2
 
 Vervallen
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Het vanuit een derde land binnen Nederlands grondgebied brengen van:
 
@@ -98,23 +124,23 @@ Het vanuit een derde land binnen Nederlands grondgebied brengen van:
 
 - i. producten waarvoor ten aanzien van de gezondheidsvoorschriften geen specifieke communautaire regelgeving geldt en de eet- en drinkwaren als bedoeld in de onderdelen a tot en met h, vindt plaats met inachtneming van de ter zake bij of krachtens artikel 18, eerste lid en achtste lid, onderdeel a, 90, 126 en 127 van verordening (EU) 2017/625 gestelde voorschriften.
 
-#### Artikel 7
+##### Artikel 7
 
 Wijzigt de Warenwetregeling doorberekening kosten levensmiddelensector 2017.
 
-#### Artikel 8
+##### Artikel 8
 
 De [Warenwetregeling Invoer eiproducten uit derde landen](https://wetten.overheid.nl/jci1.3:c:BWBR0008583) en de [Warenwetregeling Veterinaire controles (derde landen)](https://wetten.overheid.nl/jci1.3:c:BWBR0010434) worden ingetrokken.
 
-#### Artikel 9
+##### Artikel 9
 
 De [Vrijstelling benaming verduurzaamde vruchten (Warenwet)](https://wetten.overheid.nl/jci1.3:c:BWBR0004131) en het [besluit van de Staatssecretaris van Welzijn, Volksgezondheid en Cultuur, de Staatssecretaris van Landbouw en Visserij en de Staatssecretaris van Economische Zaken van 4 januari 1983](https://wetten.overheid.nl/jci1.3:c:BWBR0003564) (Stcrt. 1983, 17) worden ingetrokken.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling treedt in werking met ingang van 1 juli 2018.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze regeling wordt aangehaald als: Warenwetregeling veterinaire controles derde landen 2018.
 

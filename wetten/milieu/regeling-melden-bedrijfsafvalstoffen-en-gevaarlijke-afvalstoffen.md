@@ -1,13 +1,39 @@
 ---
-title: "Regeling melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen"
+title: "Regeling van 13 oktober 2004, nr. SAS2004098785, houdende regels met betrekking tot de afgifte, de ontvangst en het vervoer van bedrijfsafvalstoffen en gevaarlijke afvalstoffen (Regeling melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen)"
 identifier: "BWBR0017313"
-categorie: "Milieu"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0017313"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0017313"
+soort: "ministeriele-regeling"
+stam_id: "6239983"
+version_id: "20623822"
+internal_id: "C29512071"
+label_id: "6228944"
+dtd_version: "2.0"
+original_entry_into_force: "2013-06-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0017313/2024-01-01/0"
+intitule_bron: "Stcrt.2004-207"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-10-13"
+intitule_published: "2004-10-27"
+intitule_in_force: "2004-12-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-17253"
+original_signed_date: "2013-06-20"
+original_published_date: "2013-07-03"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2013-17253"
+entry_into_force_date: "2013-06-20"
+jci_1_3: "jci1.3:c:BWBR0017313&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0017313&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen"
+signed_date: "2013-06-20"
+entry_into_force: "2013-06-20"
 ---
-
 # Regeling van 13 oktober 2004, nr. SAS2004098785, houdende regels met betrekking tot de afgifte, de ontvangst en het vervoer van bedrijfsafvalstoffen en gevaarlijke afvalstoffen (Regeling melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen)
 
 Gelet op [artikel 10.50 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.50) voorzover het [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=5&z=2024-01-01&g=2024-01-01) betreft, [artikel 24, derde lid, van de Wet milieugevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=24) voorzover het [artikel 3, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=3&z=2024-01-01&g=2024-01-01), betreft, en de [artikelen 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=2), [3, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=3), [6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=6), en [12, eerste en derde lid, van het Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=12);
@@ -16,7 +42,7 @@ Besluit:
 
 Treedt in werking op het tijdstip waarop het Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen in werking treedt.
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze regeling wordt verstaan onder:
 
@@ -58,13 +84,13 @@ Treedt in werking op het tijdstip waarop het Besluit melden bedrijfsafvalstoffen
 
 3. Met normen, richtlijnen, protocollen of accreditatieprogramma's als bedoeld in deze regeling worden gelijkgesteld normen, richtlijnen, protocollen of accreditatieprogramma's die zijn vastgesteld of aangewezen in een andere lidstaat van de Europese Unie, dan wel een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, en een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een persoon als bedoeld in [artikel 2, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=2) draagt er zorg voor dat, indien de registratie van de in [artikel 10.40, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.40) bedoelde gegevens op elektronische wijze plaatsvindt, de gegevens overzichtelijk in beeld kunnen worden gebracht en ter plekke kunnen worden uitgeprint.
 
 2. Een persoon als bedoeld in [artikel 8, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=8) registreert de in het eerste lid bedoelde gegevens op een zodanige wijze dat een relatie kan worden gelegd tussen het afvalstroomnummer en de persoon of personen bij wie met gebruikmaking van dat nummer bedrijfsafvalstoffen of gevaarlijke afvalstoffen zijn ingezameld.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Degene die een melding als bedoeld in [artikel 10.40, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.40) doet, meldt daarbij tevens het bedrijfsnummer van zijn bedrijf en van degene van wie de afvalstoffen afkomstig zijn, en, indien van toepassing, van degene die de afvalstoffen heeft vervoerd of ingezameld en van degene die tot het vervoer van de afvalstoffen opdracht heeft gegeven.
 
@@ -78,7 +104,7 @@ Treedt in werking op het tijdstip waarop het Besluit melden bedrijfsafvalstoffen
 
 6. De meldingsinstantie kan meldgegevens wijzigen of verwijderen overeenkomstig het reglement. De meldingsinstantie stelt degene die deze meldgegevens heeft gemeld, daarvan op de hoogte met vermelding van de reden.
 
-#### Artikel 4
+##### Artikel 4
 
 Als categorieën van afvalstoffen als bedoeld in [artikel 3, derde lid, onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=3) worden aangewezen:
 
@@ -98,11 +124,11 @@ Als categorieën van afvalstoffen als bedoeld in [artikel 3, derde lid, onder b,
 
 - c. scheepsafvalstoffen, niet zijnde gevaarlijke afvalstoffen, als bedoeld in [artikel 1, onder d, van het Besluit inzamelen afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&artikel=1).
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 1. Voor de begeleidingsbrief wordt gebruik gemaakt van het formulier dat is opgenomen in de bijlage in onderdeel C, onder 1.
 
@@ -112,11 +138,11 @@ Vervallen
 
 4. In het geval van meer transporten van dezelfde soort bedrijfsafvalstoffen met eenzelfde samenstelling afkomstig van één locatie naar één bestemming in hetzelfde transportmiddel kan worden volstaan met één begeleidingsbrief per werkweek, waarbij in de vrije ruimte van of in een bijlage bij die brief het aantal en de tijdstippen van de transporten zijn vastgelegd.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling treedt in werking op het tijdstip waarop het [Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0017294) in werking treedt.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling wordt aangehaald als: Regeling melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen.
 
@@ -170,7 +196,7 @@ Uit hoofdstuk 17.03: bitumineuze mengsels, koolteer en met teer behandelde produ
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 6a
+##### Artikel 6a
 
 Deze regeling berust, voor zover het [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=3&z=2024-01-01&g=2024-01-01) betreft, op [artikel 9.2.2.1, derde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.2.1).
 
@@ -184,7 +210,7 @@ Uit hoofdstuk 17.04: metaal (inclusief legeringen) (uit bouw- en sloopafval):
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 6b
+##### Artikel 6b
 
 1. De monsterneming wordt uitgevoerd overeenkomstig het VKB-protocol 1004.
 
@@ -206,27 +232,27 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 4. Een te bemonsteren partij bedraagt ten hoogste 4.000.000 kg.
 
-#### Artikel 6c
+##### Artikel 6c
 
 De verpakking en het vervoer van het monstermateriaal voldoet aan NVN 7311 dan wel een norm die is vastgesteld of aangewezen in een andere lidstaat van de Europese Unie, dan wel een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, en een beschermingsniveau biedt dat ten minste gelijkwaardig is aan het niveau dat met deze norm wordt nagestreefd.
 
-#### Artikel 6d
+##### Artikel 6d
 
 Degene die een omschrijving in gevallen als bedoeld in [artikel 10, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=10) verstrekt, registreert de grootte van de partij waarop de monsterneming betrekking heeft.
 
-#### Artikel 6e
+##### Artikel 6e
 
 De analyse van monsters, bedoeld in [artikel 10a, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=10a), wordt uitgevoerd overeenkomstig AP04-A, AP04-V, AP04-SB, AP04-U en AP04-E en door een laboratorium dat voor het betrokken accreditatieprogramma geaccrediteerd is.
 
-#### Artikel 6f
+##### Artikel 6f
 
 Als categorieën van afvalstoffen als bedoeld in [artikel 10a, vijfde lid, onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=10a), worden aangewezen de categorieën van afvalstoffen die als zodanig zijn genoemd in de bijlage in onderdeel D.
 
-#### Artikel 6g
+##### Artikel 6g
 
 De lijst met erkende personen en instellingen, bedoeld in [artikel 12b, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=12b), wordt beschikbaar gesteld via de website van Rijkswaterstaat, onderdeel Bodem+.
 
-#### Artikel 6h
+##### Artikel 6h
 
 1. Voor de aanvraag om een erkenning, bedoeld in [artikel 12c, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=12c) en voor het verzoek om wijziging van een erkenning, bedoeld in [artikel 12e, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=12e), wordt gebruik gemaakt van het formulier dat is opgenomen in de bijlage in onderdeel E, onder 1.
 
@@ -352,7 +378,7 @@ Directie Milieu en Leefomgeving, Taakveld Bodem+
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 5a
+##### Artikel 5a
 
 Als gevallen als bedoeld in [artikel 5, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=5) worden aangewezen het opnieuw bewerken van bedrijfsafvalstoffen tot:
 
@@ -402,7 +428,7 @@ Binnen enkele dagen na ontvangst van uw aanvraag, krijgt u een ontvangstbevestig
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 6i
+##### Artikel 6i
 
 Deze regeling berust op de [artikelen 10.50 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.50) voor zover het [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=5&z=2024-01-01&g=2024-01-01) betreft, en [9.2.2.1, derde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.2.1) voor zover het [artikel 3, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=3&z=2024-01-01&g=2024-01-01), betreft, en op de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=2), [3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=3), [5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=5), [10, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=10), [10a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=10a), [12c, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=12c), [12e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=12e), [12i](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=12i) en [12j van het Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=12j).
 

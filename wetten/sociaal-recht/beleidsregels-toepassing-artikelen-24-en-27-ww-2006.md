@@ -1,32 +1,57 @@
 ---
 title: "Beleidsregels toepassing artikelen 24 en 27 WW 2006"
 identifier: "BWBR0020335"
-categorie: "Sociaal recht"
-publicatiedatum: 2007-01-01
-laatste_update: 2007-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020335"
+country: "nl"
+rank: "zbo"
+publication_date: "2007-01-01"
+last_updated: "2007-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020335"
+soort: "zbo"
+stam_id: "8632003"
+version_id: "13607302"
+internal_id: "C18293081"
+label_id: "8612214"
+dtd_version: "2.0"
+original_entry_into_force: "2006-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020335/2007-01-01/0"
+intitule_bron: "Stcrt.2006-190"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-09-26"
+intitule_published: "2006-09-29"
+intitule_in_force: "2006-09-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-190"
+original_signed_date: "2006-09-26"
+original_published_date: "2006-09-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-190-p32-SC77025"
+entry_into_force_date: "2006-10-01"
+jci_1_3: "jci1.3:c:BWBR0020335&z=2007-01-01&g=2007-01-01"
+jci_1_0: "1.0:c:BWBR0020335&g=2007-01-01"
+citeertitel_status: "officieel"
+signed_date: "2006-09-26"
+entry_into_force: "2006-10-01"
 ---
-
 # Beleidsregels toepassing artikelen 24 en 27 WW 2006
 
 Gelet op de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24) en [27 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=27) (WW);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Het Uitvoeringsinstituut werknemersverzekeringen voert ter zake van de uitvoering van de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24) en [27 WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=27) en het overgangsrecht met betrekking tot deze artikelen, zoals dat is neergelegd in [artikel 130o WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=130o), een beleid als weergegeven in de bijlage bij dit besluit.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking op 1 oktober 2006, met uitzondering van paragraaf 5. Deze paragraaf treedt in werking op 1 januari 2007.
 
-#### Artikel 3
+##### Artikel 3
 
 Het Besluit verweer tegen ontslag en Mededeling M 96.87b d.d. 21 juni 1996, van het Tijdelijk instituut voor coördinatie en afstemming, worden ingetrokken.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit wordt aangehaald als: Beleidsregels toepassing artikelen 24 en 27 WW 2006.
 

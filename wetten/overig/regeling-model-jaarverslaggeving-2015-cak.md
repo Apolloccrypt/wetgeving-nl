@@ -1,13 +1,35 @@
 ---
 title: "Regeling Model Jaarverslaggeving 2015 CAK"
 identifier: "BWBR0037701"
-categorie: "Overig"
-publicatiedatum: 2016-03-04
-laatste_update: 2016-03-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037701"
+country: "nl"
+rank: "zbo"
+publication_date: "2016-03-04"
+last_updated: "2016-03-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037701"
+soort: "zbo"
+stam_id: "13435223"
+version_id: "23061772"
+internal_id: "C33328861"
+label_id: "13403354"
+dtd_version: "2.0"
+original_entry_into_force: "2016-03-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037701/2016-03-04/0"
+intitule_bron: "Stcrt.2016-9794"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2016-03-04"
+intitule_in_force: "2016-03-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-9794"
+original_published_date: "2016-03-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-9794"
+entry_into_force_date: "2016-03-04"
+jci_1_3: "jci1.3:c:BWBR0037701&z=2016-03-04&g=2016-03-04"
+jci_1_0: "1.0:c:BWBR0037701&g=2016-03-04"
+citeertitel_status: "redactioneel"
+entry_into_force: "2016-03-04"
 ---
-
 # Regeling Model Jaarverslaggeving 2015 CAK
 
 februari 2016

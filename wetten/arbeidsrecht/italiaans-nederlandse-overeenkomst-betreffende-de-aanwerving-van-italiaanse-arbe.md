@@ -1,20 +1,44 @@
 ---
 title: "Italiaans-Nederlandse overeenkomst betreffende de aanwerving van Italiaanse arbeiders voor de ondergrondse bedrijven der Nederlandse kolenmijnen"
 identifier: "BWBV0005655"
-categorie: "Arbeidsrecht"
-publicatiedatum: 1948-12-04
-laatste_update: 1948-12-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005655"
+country: "nl"
+rank: "verdrag"
+publication_date: "1948-12-04"
+last_updated: "1948-12-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005655"
+soort: "verdrag"
+stam_id: "10004802633"
+version_id: "10005104972"
+internal_id: "C10007748451"
+label_id: "10004786954"
+dtd_version: "2.0"
+original_entry_into_force: "1948-12-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005655/1948-12-04/0"
+intitule_bron: "Stb.1949-J 223"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1949-05-31"
+intitule_published: "1949-06-28"
+intitule_in_force: "1949-06-28"
+intitule_status: "goed"
+original_publication: "Stb.1949-J 223"
+original_signed_date: "1949-05-31"
+original_published_date: "1949-06-28"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1948-12-04"
+jci_1_3: "jci1.3:c:BWBV0005655&z=1948-12-04&g=1948-12-04"
+jci_1_0: "1.0:c:BWBV0005655&g=1948-12-04"
+citeertitel_status: "redactioneel"
+signed_date: "1949-05-31"
+entry_into_force: "1948-12-04"
 ---
-
 # Italiaans-Nederlandse overeenkomst betreffende de aanwerving van Italiaanse arbeiders voor de ondergrondse bedrijven der Nederlandse kolenmijnen
 
-#### Artikel 1
+##### Artikel 1
 
 De Italiaanse regering en de Koninklijke Nederlandse regering hebben terzake de aanwerving van Italiaanse werklieden als ondergrondse arbeiders in de Nederlandse Steenkolenmijnen de navolgende overeenkomst gesloten.
 
-#### Artikel 2
+##### Artikel 2
 
 De aanwerving zal geschieden door de Italiaanse regering door bemiddeling van het Ministerie van Arbeid en Sociale Voorzorg, hetwelk hiertoe de provinciale bureaux zal inschakelen.
 
@@ -24,7 +48,7 @@ De Italiaanse regering zal zoveel mogelijk de taak van deze Commissie vergemakke
 
 De Nederlandse autoriteiten zullen vooraf mededelen welke ziekten en gebreken de arbeiders ongeschikt maken voor het verrichten van arbeid in de Nederlandse steenkolenmijnen.
 
-#### Artikel 3
+##### Artikel 3
 
 Voor elke geaccepteerde arbeider, die naar Nederland vertrekt, zullen de Nederlandse Steenkolenmijnen de reiskosten van de selectiecentra tot het centrum van vertrek, n.l. Milaan en vandaar naar Nederland voor hun rekening nemen.
 
@@ -32,13 +56,13 @@ Alle andere kosten zijn voor rekening van de Italiaanse autoriteiten.
 
 Voor elke arbeider die naar Nederland is vertrokken zullen de Nederlandse Steenkolenmijnen aan de Italiaanse autoriteiten een van te voren vastgesteld bedrag uitbetalen. Dit bedrag wordt bepaald door een speciale overeenkomst tussen de Nederlandse mijnen en de Italiaanse autoriteiten.
 
-#### Artikel 4
+##### Artikel 4
 
 De Italiaanse arbeider verplicht zich tot het verrichten van ondergronds werk in de Nederlandse mijnen en hiertoe tekent hij een contract, waarvan de tekst in overeenstemming met de bepalingen van deze overeenkomst door de Italiaanse autoriteiten en de Nederlandse mijnen is vastgesteld.
 
 Het contract is één jaar geldig, te rekenen vanaf het tijdstip der ondertekening en kan in gemeenschappelijk overleg van jaar tot jaar verlengd worden met een opzeggingstermijn van twee weken. In het contract zullen onder andere de oorzaken en het bedrag van eventuele inhoudingen op het loon worden aangegeven.
 
-#### Artikel 5
+##### Artikel 5
 
 De Italiaanse arbeiders genieten dezelfde bescherming en dezelfde behandeling als de Nederlandse arbeiders.
 
@@ -50,43 +74,43 @@ Indien eventueel gunstiger voorwaarden zouden worden verleend aan arbeiders van 
 
 De tekst van deze overeenkomst zal afzonderlijk worden vastgesteld.
 
-#### Artikel 6
+##### Artikel 6
 
 De Nederlandse mijnen zullen de Italiaanse arbeiders huisvesten in geriefelijke verblijven.
 
 De Italiaanse arbeiders zullen hierin afgescheiden van de arbeiders van andere nationaliteiten worden ondergebracht.
 
-#### Artikel 7
+##### Artikel 7
 
 Vanwege de huidige woningnood geven de Nederlandse mijnen er de voorkeur aan om ongehuwde arbeiders aan te werven.
 
 Het aannemen van gehuwde arbeiders kan alleen dan in overweging worden genomen, wanneer er voldoende woningen beschikbaar zijn.
 
-#### Artikel 8
+##### Artikel 8
 
 Gehuwde arbeiders kunnen 50 % van het netto-loon naar Italië overmaken. Ongehuwde arbeiders, die kostwinner zijn, kunnen 25 % van het netto-loon overmaken.
 
 De administratie van de mijnen zal het totaal bedrag van gezins- en kindertoeslagen aan de rechthebbenden overmaken.
 
-#### Artikel 9
+##### Artikel 9
 
 Onder netto-loon wordt verstaan het totaal verdiende loon verminderd met de belasting.
 
-#### Artikel 10
+##### Artikel 10
 
 De Koninklijke Nederlandse regering verplicht zich te zorgen voor een regelmatige overdracht van de spaargelden welke de Italiaanse arbeiders naar Italië kunnen zenden, zomede van gezins- en kindertoeslagen, van rente en vergoedingen voor arbeidsongevallen of beroepsziekten en van invaliditeits-, ouderdoms- en weduwen- en wezenpensioenen. Deze overdracht zal plaats hebben volgens artikel 4 van de voorlopige Italiaans-Nederlandse overeenkomst betreffende de betalingsregeling d.d. 30 Juni 1948, ofwel op een andere wijze welke in gemeenschappelijk overleg tussen de Italiaanse regering en de Koninklijke Nederlandse regering zal worden vastgesteld.
 
 In geval deze voorlopige overeenkomst komt te vervallen ofwel wordt gewijzigd, verplicht de Koninklijke Nederlandse regering zich om onverwijld in contact te treden met de Italiaanse autoriteiten ten einde een regelmatige overdracht van genoemde bedragen te verzekeren.
 
-#### Artikel 11
+##### Artikel 11
 
 De Italiaanse arbeiders kunnen alléén tijdens de geldigheidsduur van hun arbeidscontract in Nederland verblijven. Indien dit contract, om welke reden ook, komt te vervallen, dan zijn de reiskosten van de plaats van tewerkstelling naar hun woonplaats in Italië voor rekening van de Nederlandse werkgevers, die de arbeiders zo spoedig mogelijk zullen repatriëren.
 
-#### Artikel 12
+##### Artikel 12
 
 Aan de arbeiders, welke krachtens de huidige overeenkomst in Nederland worden toegelaten, wordt slechts een arbeidsvergunning verstrekt voor het werk in de Nederlandse mijnen en voor de duur van hun persoonlijk contract.
 
-#### Artikel 13
+##### Artikel 13
 
 De beide regeringen zullen een gemengde commissie benoemen welke op verlangen van één der beide partijen ofwel in Den Haag ofwel in Rome zal bijeenkomen.
 
@@ -94,21 +118,21 @@ Genoemde commissie zal tot taak hebben om alle vraagstukken van algemene aard me
 
 Zij zal bestaan uit ten hoogste drie vertegenwoordigers van de Koninklijke Nederlandse regering en drie vertegenwoordigers van de Italiaanse regering. Elke partij heeft het recht om zich door deskundigen te laten bijstaan.
 
-#### Artikel 14
+##### Artikel 14
 
 Deze overeenkomst treedt in werking op de dag van de ondertekening; zij heeft een geldigheidsduur van twee jaar en wordt geacht van jaar tot jaar stilzwijgend te zijn verlengd indien zij niet door een van beide partijen drie maanden vóór de vervaldatum schriftelijk is opgezegd. Zij zal echter van kracht blijven voor de Italiaanse arbeiders, welke krachtens deze overeenkomst zijn aangeworven.
 
-#### Artikel 1
+##### Artikel 1
 
 Het vertrek van de Italiaanse arbeiders en hun tewerkstelling in Nederland zal zoveel mogelijk plaatsvinden in een geregeld tempo van 100 personen per maand.
 
-#### Artikel 2
+##### Artikel 2
 
 Men zal alleen arbeiders aanwerven, die tussen de 19 en 30 jaar oud zijn en de wens te kennen gegeven hebben om in de Nederlandse mijnen te werken.
 
 Ten aanzien van ervaren mijnwerkers kan de Nederlandse Commissie de leeftijd verhogen tot 35 jaar.
 
-#### Artikel 3
+##### Artikel 3
 
 De volledige medische keuring zal in Italië geschieden door de medici van de Nederlandse Selectiecommissie. Dit onderzoek is tevens beslissend voor het al dan niet toelaten van de candidaten tot het Algemeen Mijnwerkersfonds.
 
@@ -142,7 +166,7 @@ In de gemeenten waar dit mogelijk is en waar de arbeidsbureaux zijn gevestigd, z
 
 Ten einde de taak van de Selectiecommissie te vergemakkelijken zullen de Italiaanse autoriteiten haar een aanbevelingsbrief verstrekken voor de provinciale autoriteiten.
 
-#### Artikel 4
+##### Artikel 4
 
 De aangeworven arbeiders moeten in het bezit zijn van ten minste zes goedgelijkende pasfoto's.
 
@@ -156,31 +180,31 @@ De arbeiders moeten in het bezit zijn van een uittreksel van het strafregister e
 
 Bij hun aankomst in Nederland ontvangen de Italiaanse arbeiders voor hun eerste onkosten een bedrag van 25 gulden als voorschot op de premie van 35 gulden, welke hun na 25 werkdagen zal worden uitbetaald.
 
-#### Artikel 5
+##### Artikel 5
 
 Alle voorschriften betreffende lonen en arbeidsvoorwaarden zullen worden vastgesteld in overleg met de Vakbonden of door een vertegenwoordigende organisatie met publiekrechtelijke bevoegdheid.
 
 Evenals de Nederlandse arbeiders moeten de Italiaanse arbeiders bereid zijn om alle ondergronds werk te verrichten volgens hun geschiktheid en de vakgroep waarvoor zij zijn aangeworven.
 
-#### Artikel 6
+##### Artikel 6
 
 De Nederlandse mijnen verplichten zich desgevraagd om de Italiaanse autoriteiten van alle veranderingen omtrent de lonen, toeslagen op de lonen verlof, gezinstoeslagregeling, sociale verzekeringen, inhoudingen in kennis te stellen en andere inlichtingen betreffende de mijnwerkers te verschaffen.
 
-#### Artikel 7
+##### Artikel 7
 
 De Nederlandse mijnen, waar de Italiaanse arbeiders worden tewerkgesteld, zullen alle noodzakelijke maatregelen nemen om de aangeworven arbeiders te onderrichten. Men zal hun alle inlichtingen verstrekken, die nodig en nuttig zijn, omtrent de vaststelling en de betaling der lonen en omtrent de reclames. Daartoe zullen op elk bedrijf bekwame tolken ter beschikking staan.
 
 Bovendien worden de arbeidsvoorschriften in het Italiaans naast de Nederlandse tekst aangeplakt.
 
-#### Artikel 8
+##### Artikel 8
 
 De Italiaanse arbeiders, die hun verlof met behoud van loon in Italië willen doorbrengen, hebben recht op extra verlof zonder behoud van loon voor de duur van hun reis.
 
-#### Artikel 9
+##### Artikel 9
 
 De arbeider heeft het recht om het contract vóór de vervaldag op te zeggen, indien de Nederlandse mijn, waar hij is tewerkgesteld de bepalingen van deze overeenkomst, van het arbeidscontract of de arbeidsvoorschriften niet nakomt.
 
-#### Artikel 10
+##### Artikel 10
 
 De Nederlandse mijnen kunnen de Italiaanse arbeiders om de volgende redenen ontslaan:
 
@@ -196,7 +220,7 @@ De Nederlandse mijnen kunnen de Italiaanse arbeiders om de volgende redenen onts
 
 - f). Indien zij zich opzettelijk ongeschikt maken voor bovengronds en ondergronds werk in de Nederlandse mijnen of indien zij weigeren om zich te onderwerpen aan een behandeling, die door het A.M.F. wordt voorgeschreven ten einde hun invaliditeit te voorkomen.
 
-#### Artikel 11
+##### Artikel 11
 
 Voor volledig pension in de gezellenhuizen betalen de arbeiders op dit ogenblik een bedrag van f 1,40 per dag.
 

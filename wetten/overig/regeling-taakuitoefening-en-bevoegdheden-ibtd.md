@@ -1,13 +1,39 @@
 ---
-title: "Regeling taakuitoefening en bevoegdheden IBTD"
+title: "Regeling van de Minister van Financiën van 24 juni 2022 (2022-163738), houdende regels inzake de taakuitoefening en bevoegdheden van de inspectie belastingen, toeslagen en douane (Regeling taakuitoefening en bevoegdheden IBTD)"
 identifier: "BWBR0046866"
-categorie: "Overig"
-publicatiedatum: 2022-07-08
-laatste_update: 2022-07-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046866"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-07-08"
+last_updated: "2022-07-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046866"
+soort: "ministeriele-regeling"
+stam_id: "16410683"
+version_id: "28741872"
+internal_id: "C40666391"
+label_id: "16334904"
+dtd_version: "2.0"
+original_entry_into_force: "2022-07-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046866/2022-07-08/0"
+intitule_bron: "Stcrt.2022-17683"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-06-24"
+intitule_published: "2022-07-07"
+intitule_in_force: "2022-07-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-17683"
+original_signed_date: "2022-06-24"
+original_published_date: "2022-07-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-17683"
+entry_into_force_date: "2022-07-08"
+jci_1_3: "jci1.3:c:BWBR0046866&z=2022-07-08&g=2022-07-08"
+jci_1_0: "1.0:c:BWBR0046866&g=2022-07-08"
+citeertitel_status: "officieel"
+short_title: "Regeling taakuitoefening en bevoegdheden IBTD"
+signed_date: "2022-06-24"
+entry_into_force: "2022-07-08"
 ---
-
 # Regeling van de Minister van Financiën van 24 juni 2022 (2022-163738), houdende regels inzake de taakuitoefening en bevoegdheden van de inspectie belastingen, toeslagen en douane (Regeling taakuitoefening en bevoegdheden IBTD)
 
 Gelet op [artikel 41c van het Organisatiebesluit Ministerie van Financiën 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&artikel=41c);
@@ -16,7 +42,7 @@ Besluit:
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -30,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 #### Paragraaf 2. Taakuitoefening en bevoegdheden
 
-#### Artikel 2. Werkprogramma
+##### Artikel 2. Werkprogramma
 
 1. De inspectie richt haar werkzaamheden in op basis van een werkprogramma, waarin de risicoanalyse, aandachtsvelden en, voor zover mogelijk, de geplande onderzoeken, alsmede het voor het volgende kalenderjaar in de rijksbegroting vastgestelde budget voor de inspectie zijn opgenomen.
 
@@ -44,7 +70,7 @@ In deze regeling wordt verstaan onder:
 
 6. Indien de minister zijn goedkeuring aan het werkprogramma onthoudt, stelt de inspecteur-generaal het werkprogramma opnieuw vast met inachtneming van de opmerkingen van de minister over de wijze van totstandkoming en het bepaalde in het tweede tot en met het vijfde lid, waarbij de inspecteur-generaal en de minister nadere afspraken maken over de in deze leden genoemde data.
 
-#### Artikel 3. Uitvoering werkprogramma
+##### Artikel 3. Uitvoering werkprogramma
 
 1. De inspecteur-generaal informeert de minister over ontwikkelingen die voor hem aanleiding zijn om het werkprogramma aan te passen of als er andere aangelegenheden van invloed zijn op de uitvoering van het werkprogramma.
 
@@ -52,7 +78,7 @@ In deze regeling wordt verstaan onder:
 
 3. Op wijzigingen in het werkprogramma van de inspectie zoals bedoeld in het eerste en tweede lid, is het bepaalde in [artikel 2, tweede tot en met het zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046866&paragraaf=2&artikel=2&z=2022-07-08&g=2022-07-08), van overeenkomstige toepassing, waarbij nadere afspraken worden gemaakt over de in deze leden genoemde data.
 
-#### Artikel 4. Onderzoeksprotocol
+##### Artikel 4. Onderzoeksprotocol
 
 1. De inspecteur-generaal stelt een protocol vast waarin de werkwijze van de inspectie bij onderzoeken wordt vastgelegd.
 
@@ -60,13 +86,13 @@ In deze regeling wordt verstaan onder:
 
 3. Na vaststelling wordt het onderzoeksprotocol openbaar gemaakt.
 
-#### Artikel 5. Jaarverslag
+##### Artikel 5. Jaarverslag
 
 1. De inspecteur-generaal stelt jaarlijks een verslag op over de wijze waarop in het voorgaande kalenderjaar toezicht is gehouden en de resultaten daarvan en biedt het jaarverslag nadat het door hem is vastgesteld aan de minister aan.
 
 2. De minister biedt het vastgestelde jaarverslag onverkort en terstond aan beide Kamers der Staten-Generaal aan, inclusief de eventuele reactie van het ministerie op het ontwerp daarvan en eventuele aanpassingen die de inspecteur-generaal op basis daarvan heeft doorgevoerd.
 
-#### Artikel 6. Rapporten
+##### Artikel 6. Rapporten
 
 1. De inspectie legt bevindingen en daarop gebaseerde conclusies en aanbevelingen vast in een rapport.
 
@@ -78,11 +104,11 @@ In deze regeling wordt verstaan onder:
 
 5. De minister biedt beide Kamers der Staten-Generaal binnen zes weken na aanbieding van het rapport een beleidsreactie op het rapport aan.
 
-#### Artikel 7. Communicatie
+##### Artikel 7. Communicatie
 
 De inspecteur-generaal is verantwoordelijk voor het met de taken van de inspectie samenhangende communicatiebeleid.
 
-#### Artikel 8. Medewerkingsplicht en informatiebevoegdheid
+##### Artikel 8. Medewerkingsplicht en informatiebevoegdheid
 
 1. De medewerkers van het ministerie zijn verplicht:
 
@@ -98,13 +124,13 @@ De inspecteur-generaal is verantwoordelijk voor het met de taken van de inspecti
 
 - c. de geheimhoudingsplicht, bedoeld in [artikel 2:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:5).
 
-#### Artikel 9. Geheimhouding
+##### Artikel 9. Geheimhouding
 
 1. Indien medewerkers van de inspectie bij de uitoefening van hun taken de beschikking krijgen over gegevens waarvan zij het vertrouwelijke karakter kennen of redelijkerwijs moeten vermoeden, zijn zij verplicht tot geheimhouding van die gegevens, behoudens in gevallen waarbij zij bij of krachtens enig wettelijk voorschrift tot mededeling zijn verplicht.
 
 2. De geheimhoudingsplicht geldt evenzeer voor personen die in het kader van toezicht of onderzoek aan de medewerkingsplicht zijn onderworpen of uit anderen hoofde kennis dragen van feiten of gegevens betreffende toezicht of onderzoek door de inspectie.
 
-#### Artikel 10. Contact met de Staten-Generaal
+##### Artikel 10. Contact met de Staten-Generaal
 
 1. Aan de inspecteur-generaal wordt toestemming verleend om op verzoek vanwege een of beide Kamers der Staten-Generaal betreffende het werkterrein van de inspectie met een of beide Kamers der Staten-Generaal in contact te treden.
 
@@ -112,11 +138,11 @@ De inspecteur-generaal is verantwoordelijk voor het met de taken van de inspecti
 
 3. De inspecteur-generaal informeert de minister vooraf indien hij in contact zal treden met een of beide Kamers der Staten-Generaal.
 
-#### Artikel 11. Informatie aan de minister
+##### Artikel 11. Informatie aan de minister
 
 De inspecteur-generaal informeert de minister rechtstreeks over zijn bevindingen, oordelen, adviezen en andere relevante gegevens.
 
-#### Artikel 12. Aanwijzingen van de minister
+##### Artikel 12. Aanwijzingen van de minister
 
 1. De minister kan aan de inspecteur-generaal uitsluitend in schriftelijke vorm algemene en bijzondere aanwijzingen geven.
 
@@ -136,7 +162,7 @@ De inspecteur-generaal informeert de minister rechtstreeks over zijn bevindingen
 
 6. De bevoegdheid tot het geven van een aanwijzing wordt niet gemandateerd.
 
-#### Artikel 13. Beheersmatige verantwoordelijkheid
+##### Artikel 13. Beheersmatige verantwoordelijkheid
 
 1. De inspecteur-generaal is verantwoordelijk voor de bedrijfsvoering van de inspectie.
 
@@ -146,11 +172,11 @@ De inspecteur-generaal informeert de minister rechtstreeks over zijn bevindingen
 
 #### Paragraaf 3. Slotbepalingen
 
-#### Artikel 14. Inwerkingtreding
+##### Artikel 14. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2022. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 1 januari 2022, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt zij terug tot en met 1 januari 2022.
 
-#### Artikel 15. Citeertitel
+##### Artikel 15. Citeertitel
 
 Dit besluit wordt aangehaald als: Regeling taakuitoefening en bevoegdheden IBTD.
 

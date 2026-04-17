@@ -1,13 +1,39 @@
 ---
-title: "Aanwijzing hervorming beschikbaarheidbijdrage academische zorg"
+title: "Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 25 september 2019, kenmerk 1533873-190928-PZo, inzake hervorming beschikbaarheidbijdrage academische zorg"
 identifier: "BWBR0042611"
-categorie: "Sociaal recht"
-publicatiedatum: 2019-12-01
-laatste_update: 2019-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042611"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2019-12-01"
+last_updated: "2019-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042611"
+soort: "ministeriele-regeling"
+stam_id: "15176763"
+version_id: "26025962"
+internal_id: "C37063881"
+label_id: "15123914"
+dtd_version: "2.0"
+original_entry_into_force: "2019-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042611/2019-12-01/0"
+intitule_bron: "Stcrt.2019-53867"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-09-25"
+intitule_published: "2019-10-04"
+intitule_in_force: "2019-10-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-53867"
+original_signed_date: "2019-09-25"
+original_published_date: "2019-10-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-53867"
+entry_into_force_date: "2019-12-01"
+jci_1_3: "jci1.3:c:BWBR0042611&z=2019-12-01&g=2019-12-01"
+jci_1_0: "1.0:c:BWBR0042611&g=2019-12-01"
+citeertitel_status: "officieel"
+short_title: "Aanwijzing hervorming beschikbaarheidbijdrage academische zorg"
+signed_date: "2019-09-25"
+entry_into_force: "2019-12-01"
 ---
-
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 25 september 2019, kenmerk 1533873-190928-PZo, inzake hervorming beschikbaarheidbijdrage academische zorg
 
 Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
@@ -30,13 +56,13 @@ Het Bestuurlijk akkoord medisch-specialistische zorg 2019 t/m 2022 (Kamerstukken
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. De Nederlandse Zorgautoriteit stelt met ingang van 1 januari 2020 overeenkomstig het gestelde in de bijlage bij deze aanwijzing beschikbaarheidbijdragen vast voor academische zorg als bedoeld in de [bijlage behorende bij de artikelen 2 en 4 van het Besluit beschikbaarheidbijdrage WMG, onderdeel B, subonderdeel 2](onbekend), met dien verstande dat het label wetenschap zoals bedoeld in de bijlage eerst bij de verlening en vaststelling van een beschikbaarheidbijdrage kan worden betrokken in het jaar volgend op het jaar waarop dat label naar het oordeel van de zorgautoriteit voldoende is uitontwikkeld.
 
 2. Het eerste lid is uitsluitend van toepassing voor medisch specialistische zorg.
 
-#### Artikel 2
+##### Artikel 2
 
 De Nederlandse Zorgautoriteit kan, op grond van de [onderdeel B, sub 15, van de bijlage behorende bij het Besluit beschikbaarheidbijdrage WMG](onbekend), in overeenstemming met het bepaalde in [artikel 4:51 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:51) voor een afbouwregeling van ten hoogste drie jaren een beschikbaarheidbijdrage verlenen, indien zorgaanbieders gedurende drie of meer achtereenvolgende jaren een beschikbaarheidbijdrage is verleend voor academische zorg als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042611&artikel=1&z=2019-12-01&g=2019-12-01).
 

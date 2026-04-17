@@ -1,13 +1,39 @@
 ---
-title: "Besluit vaststelling cameraplan voor 2025"
+title: "Besluit van 13 december 2024, teneinde de vaststelling van het cameraplan voor 2025, vereist op grond van artikel 29a van het Uitvoeringsbesluit motorrijtuigenbelasting 1994"
 identifier: "BWBR0050589"
-categorie: "Overig"
-publicatiedatum: 2024-12-31
-laatste_update: 2024-12-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050589"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-12-31"
+last_updated: "2024-12-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050589"
+soort: "ministeriele-regeling"
+stam_id: "17316893"
+version_id: "30505902"
+internal_id: "C43733351"
+label_id: "17221094"
+dtd_version: "2.0"
+original_entry_into_force: "2024-12-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050589/2024-12-31/0"
+intitule_bron: "Stcrt.2024-42090"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-12-13"
+intitule_published: "2024-12-31"
+intitule_in_force: "2024-12-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-42090"
+original_signed_date: "2024-12-13"
+original_published_date: "2024-12-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-42090"
+entry_into_force_date: "2024-12-31"
+jci_1_3: "jci1.3:c:BWBR0050589&z=2024-12-31&g=2024-12-31"
+jci_1_0: "1.0:c:BWBR0050589&g=2024-12-31"
+citeertitel_status: "redactioneel"
+short_title: "Besluit vaststelling cameraplan voor 2025"
+signed_date: "2024-12-13"
+entry_into_force: "2024-12-31"
 ---
-
 # Besluit van 13 december 2024, teneinde de vaststelling van het cameraplan voor 2025, vereist op grond van artikel 29a van het Uitvoeringsbesluit motorrijtuigenbelasting 1994
 
 ### Inzet vaste camera’s

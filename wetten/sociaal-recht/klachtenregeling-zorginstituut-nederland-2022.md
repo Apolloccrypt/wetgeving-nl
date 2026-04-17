@@ -1,13 +1,35 @@
 ---
 title: "Klachtenregeling Zorginstituut Nederland 2022"
 identifier: "BWBR0046573"
-categorie: "Sociaal recht"
-publicatiedatum: 2022-04-12
-laatste_update: 2022-04-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046573"
+country: "nl"
+rank: "zbo"
+publication_date: "2022-04-12"
+last_updated: "2022-04-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046573"
+soort: "zbo"
+stam_id: "16331793"
+version_id: "28565492"
+internal_id: "C40309591"
+label_id: "16256604"
+dtd_version: "2.0"
+original_entry_into_force: "2022-04-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046573/2022-04-12/0"
+intitule_bron: "Stcrt.2022-10777"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2022-04-20"
+intitule_in_force: "2022-04-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-10777"
+original_published_date: "2022-04-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-10777"
+entry_into_force_date: "2022-04-12"
+jci_1_3: "jci1.3:c:BWBR0046573&z=2022-04-12&g=2022-04-12"
+jci_1_0: "1.0:c:BWBR0046573&g=2022-04-12"
+citeertitel_status: "officieel"
+entry_into_force: "2022-04-12"
 ---
-
 # Klachtenregeling Zorginstituut Nederland 2022
 
 gelet op [artikel 9:2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:2) en [artikel 15 van het Bestuursreglement Zorginstituut Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0035079&artikel=15)
@@ -16,7 +38,7 @@ heeft in zijn vergadering van 12 april 2022 besloten:
 
 De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -34,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 - –. **Zorginstituut:** Zorginstituut Nederland, genoemd in [artikel 58, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Deze regeling heeft tot doel om ieder handelen en nalaten van het Zorginstituut of een medewerker van het Zorginstituut waarop een klacht betrekking heeft, indien nodig zo snel en doelmatig mogelijk te corrigeren met volledige inachtneming van de belangen van alle bij die situatie betrokken partijen.
 
@@ -50,7 +72,7 @@ In deze regeling wordt verstaan onder:
 
 7. Als een klacht seksuele intimidatie en ongewenste intimiteiten of andere ongewenste omgangsvormen (discriminatie, agressie en geweld en pesten) betreft, dan stelt het Zorginstituut een klachtencommissie als bedoeld in [artikel 9:14 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:14) in. Deze externe klachtencommissie verricht het onderzoek ter voorbereiding van de afhandeling van de klacht en adviseert het Zorginstituut over de afhandeling van de klacht.
 
-#### Artikel 3
+##### Artikel 3
 
 De indiener richt zijn klacht schriftelijk en ondertekend aan de Coördinator klachtbehandeling. Hij vermeld daarbij ten minste:
 
@@ -60,15 +82,15 @@ De indiener richt zijn klacht schriftelijk en ondertekend aan de Coördinator kl
 
 - c. een omschrijving van de gedraging waartegen de klacht zich richt.
 
-#### Artikel 4
+##### Artikel 4
 
 De behandeling van de klacht geschiedt niet door een medewerker die bij de gedraging waarop de klacht betrekking heeft, betrokken is geweest.
 
-#### Artikel 5
+##### Artikel 5
 
 De Coördinator klachtbehandeling registreert elke door het Zorginstituut ontvangen klacht, bewaakt de voortgang van de afhandeling van de klachtbehandeling en houdt hiervan een registratie bij.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een klacht behoeft niet in behandeling te worden genomen wanneer:
 
@@ -84,7 +106,7 @@ De Coördinator klachtbehandeling registreert elke door het Zorginstituut ontvan
 
 2. Als het Zorginstituut de klacht niet in behandeling neemt, stelt het de klager hiervan zo spoedig mogelijk, maar uiterlijk binnen vier weken na ontvangst van de klacht, in kennis.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Als een klacht seksuele intimidatie en ongewenste intimiteiten of andere ongewenste omgangsvormen (discriminatie, agressie en geweld en pesten) betreft, dan benoemt de voorzitter, in afwijking van [artikel 9, eerste tot en met vierde lid, van het Bestuursreglement Zorginstituut Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0035079&artikel=9), maximaal drie leden van de Commissie bedoeld in [artikel 2, lid 7](https://wetten.overheid.nl/jci1.3:c:BWBR0046573&artikel=2&z=2022-04-12&g=2022-04-12), waarbij aandacht is voor de diversiteit in de samenstelling, steeds voor de duur van de behandeling van een individueel ingediende klacht.
 
@@ -92,7 +114,7 @@ De Coördinator klachtbehandeling registreert elke door het Zorginstituut ontvan
 
 3. De medewerker die wordt geconfronteerd met seksuele intimidatie of ongewenste intimiteiten of andere ongewenste omgangsvormen kan zich voor hulp wenden tot de vertrouwenspersoon of een klacht indienen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het Zorginstituut bevestigt de ontvangst van de klacht schriftelijk en zo spoedig mogelijk en in ieder geval binnen twee weken na ontvangst van de klacht.
 
@@ -100,13 +122,13 @@ De Coördinator klachtbehandeling registreert elke door het Zorginstituut ontvan
 
 3. De Coördinator klachtbehandeling en degene op wiens gedraging de klacht betrekking heeft, ontvangen binnen twee weken na ontvangst van de klacht een afschrift van het klaagschrift en van de daarbij gezonden stukken.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De klager en de persoon op wiens gedraging de klacht betrekking heeft worden in de gelegenheid gesteld te worden gehoord.
 
 2. Van het horen maakt de behandelaar van de klacht een verslag. De behandelaar zorgt ervoor dat verzending van het verslag aan degene die gehoord is plaatsvindt bij de afdoening van de klacht.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het Zorginstituut handelt de klacht binnen zes weken na ontvangst af.
 
@@ -114,7 +136,7 @@ De Coördinator klachtbehandeling registreert elke door het Zorginstituut ontvan
 
 3. De afhandeling kan met ten hoogste vier weken worden verdaagd. De klager ontvangt van die verlenging een schriftelijke mededeling.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Een lid van de Raad van Bestuur stuurt de klager een schriftelijke en gemotiveerde kennisgeving van de bevindingen van het onderzoek naar de klacht en de eventuele conclusies die hij daaraan verbindt.
 
@@ -122,11 +144,11 @@ De Coördinator klachtbehandeling registreert elke door het Zorginstituut ontvan
 
 3. Bij de kennisgeving maakt een lid van de Raad van Bestuur melding van de mogelijkheid om een klacht in te dienen bij de Nationale ombudsman.
 
-#### Artikel 12
+##### Artikel 12
 
 De Klachtenregeling Zorginstituut Nederland 2017 wordt ingetrokken.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Deze regeling wordt aangehaald als Klachtenregeling Zorginstituut Nederland 2022.
 

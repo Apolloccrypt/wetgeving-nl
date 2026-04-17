@@ -1,16 +1,41 @@
 ---
 title: "Beleidsregel ter uitvoering van artikel 6 van het Loodsplichtbesluit 1995"
 identifier: "BWBR0040651"
-categorie: "Overig"
-publicatiedatum: 2018-03-16
-laatste_update: 2018-03-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040651"
+country: "nl"
+rank: "zbo"
+publication_date: "2018-03-16"
+last_updated: "2018-03-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040651"
+soort: "zbo"
+stam_id: "14555573"
+version_id: "24911502"
+internal_id: "C35632461"
+label_id: "14509514"
+dtd_version: "2.0"
+original_entry_into_force: "2018-02-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040651/2018-03-16/0"
+intitule_bron: "Stcrt.2018-10253"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-02-16"
+intitule_published: "2018-02-19"
+intitule_in_force: "2018-02-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-10253"
+original_signed_date: "2018-02-16"
+original_published_date: "2018-02-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-10253"
+entry_into_force_date: "2018-02-20"
+jci_1_3: "jci1.3:c:BWBR0040651&z=2018-03-16&g=2018-03-16"
+jci_1_0: "1.0:c:BWBR0040651&g=2018-03-16"
+citeertitel_status: "officieel"
+signed_date: "2018-02-16"
+entry_into_force: "2018-02-20"
 ---
-
 # Beleidsregel ter uitvoering van artikel 6 van het Loodsplichtbesluit 1995
 
-#### Artikel 1
+##### Artikel 1
 
 Met deze beleidsregel wordt nadere invulling gegeven aan de begrippen “constructie” en “gebruikt of zal worden gebruikt”, als bedoeld in [artikel 1, onderdelen j en k, van het Loodsplichtbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&artikel=1). Bij beoordeling door de regionale autoriteit van aanvragen als bedoeld in [artikel 6, derde lid, van het Loodsplichtbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&artikel=6) om als lage kruiplijn-coaster of binnen/buiten-schip te worden ingeschreven in het Register loodsplicht kleine zeeschepen worden bij toetsing de navolgende criteria aangehouden:
 
@@ -38,11 +63,11 @@ Met deze beleidsregel wordt nadere invulling gegeven aan de begrippen “constru
 
 - b. lage opbouw (airdraft): hoogte van minder of gelijk aan 9,1 meter, gemeten vanaf de waterlijn op zomerdiepgang tot het hoogste vaste punt van het schip.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze beleidsregel wordt met toelichting in de Staatscourant geplaatst en treedt in werking op de dag na die waarop deze in de Staatcourant is geplaatst.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel ter uitvoering van artikel 6 van het Loodsplichtbesluit 1995.
 

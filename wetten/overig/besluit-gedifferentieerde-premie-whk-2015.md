@@ -1,20 +1,45 @@
 ---
 title: "Besluit gedifferentieerde premie Whk 2015"
 identifier: "BWBR0035501"
-categorie: "Overig"
-publicatiedatum: 2015-01-01
-laatste_update: 2015-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035501"
+country: "nl"
+rank: "zbo"
+publication_date: "2015-01-01"
+last_updated: "2015-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035501"
+soort: "zbo"
+stam_id: "12783123"
+version_id: "21702322"
+internal_id: "C31143911"
+label_id: "12752834"
+dtd_version: "2.0"
+original_entry_into_force: "2015-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035501/2015-01-01/0"
+intitule_bron: "Stcrt.2014-24873"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-08-26"
+intitule_published: "2014-09-01"
+intitule_in_force: "2014-09-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-24873"
+original_signed_date: "2014-08-26"
+original_published_date: "2014-09-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-24873"
+entry_into_force_date: "2015-01-01"
+jci_1_3: "jci1.3:c:BWBR0035501&z=2015-01-01&g=2015-01-01"
+jci_1_0: "1.0:c:BWBR0035501&g=2015-01-01"
+citeertitel_status: "officieel"
+signed_date: "2014-08-26"
+entry_into_force: "2015-01-01"
 ---
-
 # Besluit gedifferentieerde premie Whk 2015
 
 Gelet op [artikel 38 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de berekening van de gedifferentieerde premie op grond van [artikel 38 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38) over het jaar 2015 worden voor alle takken van bedrijf en beroep de navolgende algemeen geldende parameters vastgesteld:
 
@@ -23,7 +48,7 @@ Voor de berekening van de gedifferentieerde premie op grond van [artikel 38 van 
 | Grens kleine/middelgrote werkgever | € 314.000 |
 | Grens middelgrote/grote werkgever | € 3.140.000 |
 
-#### Artikel 2
+##### Artikel 2
 
 Voor de berekening van de gedifferentieerde premie Werkhervattingskas op grond van [artikel 38 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38) over het jaar 2015 worden voor de premiecomponent WGA voor vaste dienstbetrekkingen voor alle takken van bedrijf en beroep de volgende premies en parameters vastgesteld:
 
@@ -41,7 +66,7 @@ Voor de berekening van de gedifferentieerde premie Werkhervattingskas op grond v
 | 4 jaar bekend | 1,25 |
 | Sectorale premies | Bijlage |
 
-#### Artikel 3
+##### Artikel 3
 
 Voor de berekening van de gedifferentieerde premie Werkhervattingskas op grond van [artikel 38 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38) over het jaar 2015 worden voor de premiecomponent WGA voor flexibele dienstbetrekkingen voor alle takken van bedrijf en beroep de volgende premies en parameters vastgesteld:
 
@@ -61,7 +86,7 @@ Voor de berekening van de gedifferentieerde premie Werkhervattingskas op grond v
 
 Voor werkgevers in sector 52 ‘Uitzendbedrijven’ geldt een afwijkende maximumpremie van 5,96%.
 
-#### Artikel 4
+##### Artikel 4
 
 Voor de berekening van de gedifferentieerde premie Werkhervattingskas op grond van [artikel 38 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38) over het jaar 2015 worden voor de premiecomponent ZW voor alle takken van bedrijf en beroep de volgende premies en parameters vastgesteld:
 
@@ -81,11 +106,11 @@ Voor de berekening van de gedifferentieerde premie Werkhervattingskas op grond v
 
 Voor werkgevers in sector 52 ‘Uitzendbedrijven’ geldt een afwijkende maximumpremie van 7,08%.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit wordt aangehaald als: Besluit gedifferentieerde premie Whk 2015.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit treedt in werking met ingang van 1 januari 2015.
 

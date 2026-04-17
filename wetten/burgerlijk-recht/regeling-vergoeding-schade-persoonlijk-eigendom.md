@@ -1,20 +1,45 @@
 ---
 title: "Regeling vergoeding schade persoonlijk eigendom"
 identifier: "BWBR0024784"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2025-04-01
-laatste_update: 2025-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024784"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-04-01"
+last_updated: "2025-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024784"
+soort: "ministeriele-regeling"
+stam_id: "9782933"
+version_id: "15870272"
+internal_id: "C29437051"
+label_id: "9759684"
+dtd_version: "2.0"
+original_entry_into_force: "2008-12-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024784/2025-04-01/0"
+intitule_bron: "Stcrt.2008-235"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-11-06"
+intitule_published: "2008-12-03"
+intitule_in_force: "2008-12-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-235"
+original_signed_date: "2008-11-06"
+original_published_date: "2008-12-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-1264"
+entry_into_force_date: "2008-12-05"
+jci_1_3: "jci1.3:c:BWBR0024784&z=2025-04-01&g=2025-04-01"
+jci_1_0: "1.0:c:BWBR0024784&g=2025-04-01"
+citeertitel_status: "officieel"
+signed_date: "2008-11-06"
+entry_into_force: "2008-12-05"
 ---
-
 # Regeling vergoeding schade persoonlijk eigendom
 
 Gelet op [artikel 69, vijfde lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=69);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -28,7 +53,7 @@ In deze regeling wordt verstaan onder:
 
 - e. **restwaarde:** de waarde van een product waarbij rekening is gehouden met ouderdom en normale slijtage.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het bevoegd gezag vergoedt schade aan persoonlijk eigendom van de ambtenaar die hij buiten zijn schuld lijdt ten gevolge van de uitoefening van zijn dienst, voor zover die schade niet bestaat uit de normale slijtage van die goederen en de ambtenaar niet op andere wijze aanspraak kan maken op geheel of gedeeltelijke vergoeding van de geleden schade.
 
@@ -36,7 +61,7 @@ In deze regeling wordt verstaan onder:
 
 3. Indien de schade is veroorzaakt door opzettelijk onrechtmatige dan wel opzettelijk wederrechtelijke of bewust roekeloze handelingen door de ambtenaar of indien de schade is veroorzaakt door grove nalatigheid van de ambtenaar, bestaat er geen aanspraak op schadevergoeding.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De hoogte van de schadevergoeding is gelijk aan de restwaarde van het beschadigde eigendom, met een minimum 25% van de vervangingswaarde.
 
@@ -56,7 +81,7 @@ In deze regeling wordt verstaan onder:
 
 5. Indien herstel van het beschadigde eigendom mogelijk is tegen een geringer geldbedrag dan vervanging, worden ten minste de herstelkosten vergoed.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien een ambtenaar in aanmerking wil komen voor vergoeding van zijn beschadigde eigendom, dient hij in beginsel binnen acht weken nadat de schade is ontstaan een aanvraag in bij het bevoegd gezag.
 
@@ -64,11 +89,11 @@ In deze regeling wordt verstaan onder:
 
 3. Indien de ambtenaar niet over een aanschafbon beschikt, maakt hij op andere wijze de hoogte van het aankoopbedrag en de datum van aanschaf aannemelijk.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling kan worden aangehaald als: Regeling vergoeding schade persoonlijk eigendom.
 

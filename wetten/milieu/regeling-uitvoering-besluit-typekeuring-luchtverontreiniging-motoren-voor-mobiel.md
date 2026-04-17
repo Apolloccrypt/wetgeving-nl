@@ -1,20 +1,46 @@
 ---
-title: "Regeling uitvoering Besluit typekeuring luchtverontreiniging motoren voor mobiele machines"
+title: "Regeling uitvoering Besluit typekeuring luchtverontreiniging trekkers en motoren voor mobiele machines"
 identifier: "BWBR0012182"
-categorie: "Milieu"
-publicatiedatum: 2014-02-18
-laatste_update: 2014-02-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012182"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2014-02-18"
+last_updated: "2014-02-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012182"
+soort: "ministeriele-regeling"
+stam_id: "4010183"
+version_id: "21235632"
+internal_id: "C30496811"
+label_id: "3990204"
+dtd_version: "2.0"
+original_entry_into_force: "2014-02-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012182/2014-02-18/0"
+intitule_bron: "Stcrt.2001-20"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-01-23"
+intitule_published: "2001-01-29"
+intitule_in_force: "2001-01-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-4291"
+original_signed_date: "2014-02-10"
+original_published_date: "2014-02-17"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2014-4291"
+entry_into_force_date: "2014-02-10"
+jci_1_3: "jci1.3:c:BWBR0012182&z=2014-02-18&g=2014-02-18"
+jci_1_0: "1.0:c:BWBR0012182&g=2014-02-18"
+citeertitel_status: "officieel"
+short_title: "Regeling uitvoering Besluit typekeuring luchtverontreiniging motoren voor mobiele machines"
+signed_date: "2014-02-10"
+entry_into_force: "2014-02-10"
 ---
-
 # Regeling uitvoering Besluit typekeuring luchtverontreiniging trekkers en motoren voor mobiele machines
 
 Gelet op [richtlijn nr. 97/68/EG](31997L0068) van het Europees Parlement en de Raad van de Europese Unie van 16 december 1997 betreffende de onderlinge aanpassing van de wetgevingen van de lidstaten inzake maatregelen tegen de uitstoot van verontreinigende gassen en deeltjes door inwendige verbrandingsmotoren die worden gemonteerd in niet voor de weg bestemde mobiele machines (PbEG 1998, L 59), en op [richtlijn nr. 2000/25/EG](32000L0025) van het Europees Parlement en de Raad van de Europese Unie van 22 mei 2000 (PbEG L 173) inzake maatregelen tegen de uitstoot van verontreinigende gassen en deeltjes door motoren bestemd voor het aandrijven van landbouw- of bosbouwtrekkers en houdende wijziging van [Richtlijn 74/150/EEG](31974L0150) van de Raad en op de [artikelen 1, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0012169&artikel=1), [5, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012169&artikel=5), [6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012169&artikel=6), en [7, derde lid, van het Besluit typekeuring luchtverontreiniging trekkers en motoren voor mobiele machines](https://wetten.overheid.nl/jci1.3:c:BWBR0012169&artikel=7);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -24,15 +50,15 @@ In deze regeling wordt verstaan onder:
 
 - **categorie:** categorie als bedoeld in artikel 9 van richtlijn 97/68.
 
-#### Artikel 2
+##### Artikel 2
 
 De Dienst Wegverkeer te Zoetermeer wordt aangewezen als keuringsinstantie als bedoeld in [artikel 1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012169&artikel=1). De aanwijzing heeft geen betrekking op binnenschepen en spoorvoertuigen.
 
-#### Artikel 3
+##### Artikel 3
 
 De keuring, bedoeld in [artikel 3, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012169&artikel=3) wordt verricht met inachtneming van richtlijn 97/68.
 
-#### Artikel 4
+##### Artikel 4
 
 Het verbod, bedoeld in [artikel 3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012169&artikel=3), is niet van toepassing:
 
@@ -42,7 +68,7 @@ Het verbod, bedoeld in [artikel 3 van het besluit](https://wetten.overheid.nl/jc
 
 - c. tot en met 31 december 2015 op motoren categorie Q, indien de motor is geproduceerd voor 31 december 2013.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een typegoedkeuring voor een motor met compressieontsteking als bedoeld in artikel 9 van richtlijn 97/68 wordt geweigerd indien de motor niet voldoet aan de eisen, bedoeld in richtlijn 97/68, waaronder in ieder geval worden verstaan de grenswaarden, bedoeld in artikel 9 van die richtlijn in samenhang met bijlage I bij die richtlijn.
 
@@ -70,7 +96,7 @@ Het verbod, bedoeld in [artikel 3 van het besluit](https://wetten.overheid.nl/jc
 
 - 3°. het gebruik van een ruilmotor die voldoet aan de eisen van de meest recente toepasselijke emissiefase in het motortreinstel of de locomotief gepaard zal gaan met aanzienlijke technische moeilijkheden.
 
-#### Artikel 6
+##### Artikel 6
 
 Degene aan wie de typekeuring is verleend:
 
@@ -84,7 +110,7 @@ Degene aan wie de typekeuring is verleend:
 
 - e. wijst binnen de organisatie een persoon aan die verantwoordelijk is met betrekking tot het bepaalde in de onderdelen a tot en met d.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het toezicht wordt uitgeoefend door een door de keuringsinstantie aangewezen functionaris en vindt plaats in een vestiging welke in overleg met de fabrikant wordt vastgesteld.
 
@@ -100,7 +126,7 @@ Degene aan wie de typekeuring is verleend:
 
 - c. het verlenen van assistentie bij het uitvoeren van de keuring.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Nadat een typegoedkeuring is verleend, wordt ten minste éénmaal per jaar onderzocht of nog wordt voldaan aan [richtlijn 97/68](31997L0068).
 
@@ -110,27 +136,27 @@ Degene aan wie de typekeuring is verleend:
 
 4. Er is gebrek aan overeenstemming met het goedgekeurde type of de goedgekeurde familie indien er afwijkingen worden geconstateerd van de gegevens op het goedkeuringsformulier en/of in het informatiepakket en indien deze afwijkingen niet zijn toegestaan op grond van artikel 5, derde lid, van [richtlijn 97/68](31997L0068).
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling uitvoering Besluit typekeuring luchtverontreiniging motoren voor mobiele machines.
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Een wijziging van [richtlijn 97/68](31997L0068) gaat voor de toepassing van deze regeling, gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 5a
+##### Artikel 5a
 
 Een typegoedkeuring die voor één fase van emissiegrenswaarden wordt verleend, loopt af met ingang van de verplichte tenuitvoerlegging van de grenswaarden van de volgende fase.
 
-#### Artikel 5b
+##### Artikel 5b
 
 Indien een motortype of motorfamilie voor de uiterste datum, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012182&artikel=4&z=2014-02-18&g=2014-02-18) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0012182&artikel=5&z=2014-02-18&g=2014-02-18), in samenhang met richtlijn 97/68, aan de emissiegrenswaarden voldoet, mag op het etiket worden aangegeven dat de motoren voor de vastgestelde data aan de emissiegrenswaarden voldoen.
 

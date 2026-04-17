@@ -1,14 +1,41 @@
 ---
-title: "Kaderwet subsidies Verkeer en Waterstaat"
+title: "Wet van 17 december 1997, houdende regels inzake de verstrekking van subsidies door de Minister van Verkeer en Waterstaat (Kaderwet subsidies Verkeer en Waterstaat)"
 identifier: "BWBR0009196"
-categorie: "Milieu"
-publicatiedatum: 2009-11-25
-laatste_update: 2009-11-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009196"
+country: "nl"
+rank: "wet"
+publication_date: "2009-11-25"
+last_updated: "2009-11-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009196"
+soort: "wet"
+stam_id: "657953"
+version_id: "955992"
+internal_id: "C955991"
+label_id: "637994"
+dtd_version: "2.0"
+original_entry_into_force: "1998-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009196/2009-11-25/0"
+intitule_bron: "Stb.1997-724"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-12-17"
+intitule_published: "1997-12-29"
+intitule_in_force: "1997-12-18"
+intitule_status: "goed"
+original_publication: "Stb.1997-724"
+original_signed_date: "1997-12-17"
+original_published_date: "1997-12-29"
+original_effect: "nieuwe-regeling"
+original_dossier: "25534"
+original_url_id: "stb-1997-724"
+entry_into_force_date: "1998-01-01"
+jci_1_3: "jci1.3:c:BWBR0009196&z=2009-11-25&g=2009-11-25"
+jci_1_0: "1.0:c:BWBR0009196&g=2009-11-25"
+citeertitel_status: "officieel"
+short_title: "Kaderwet subsidies Verkeer en Waterstaat"
+signed_date: "1997-12-17"
+entry_into_force: "1998-01-01"
 ---
-
-# Kaderwet subsidies Verkeer en Waterstaat
+# Wet van 17 december 1997, houdende regels inzake de verstrekking van subsidies door de Minister van Verkeer en Waterstaat (Kaderwet subsidies Verkeer en Waterstaat)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,11 +45,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 Treedt volgens Stb. 1997/725 in werking met ingang van de dag dat de Derde tranche Algemene wet bestuursrecht in werking treedt.
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder Onze Minister: Onze Minister van Verkeer en Waterstaat.
 
-#### Artikel 2
+##### Artikel 2
 
 Onze Minister kan bij regeling als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009196&artikel=3&z=2009-11-25&g=2009-11-25), subsidies verstrekken voor activiteiten die passen in:
 
@@ -38,7 +65,7 @@ Onze Minister kan bij regeling als bedoeld in [artikel 3, eerste lid](https://we
 
 voorzover deze subsidies niet gebaseerd zijn op een andere wet.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Bij of krachtens algemene maatregel van bestuur dan wel bij ministeriële regeling worden de activiteiten waarvoor subsidie kan worden verstrekt nader bepaald alsmede de criteria voor die verstrekking vastgesteld.
 
@@ -70,11 +97,11 @@ voorzover deze subsidies niet gebaseerd zijn op een andere wet.
 
 4. In afwijking van [artikel 4:21, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:21) is [titel 4.2 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2) van toepassing op subsidies die worden verstrekt op grond van een algemene maatregel van bestuur of ministeriële regeling als bedoeld in het eerste lid, die uitsluitend voorziet in verstrekking aan rechtspersonen die krachtens publiekrecht zijn ingesteld.
 
-#### Artikel 4
+##### Artikel 4
 
 Bij of krachtens algemene maatregel van bestuur of bij ministeriële regeling als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009196&artikel=3&z=2009-11-25&g=2009-11-25), kan worden voorzien in de vaststelling van een subsidieplafond en de regeling van de wijze van verdeling.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een aanvraag kan worden afgewezen en een beschikking, inhoudende de verstrekking van een subsidie op grond van deze wet, kan worden ingetrokken of gewijzigd ten nadele van de ontvanger voor zover de subsidieverstrekking in strijd is of zou zijn met ingevolge een verdrag voor de staat geldende verplichtingen.
 
@@ -84,7 +111,7 @@ Bij of krachtens algemene maatregel van bestuur of bij ministeriële regeling al
 
 4. De [artikelen 4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49), derde lid, en [4:57, vierde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) zijn niet van toepassing op de intrekking of wijziging, bedoeld in het eerste lid.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Met het toezicht op de naleving van de bij of krachtens deze wet aan de subsidieontvanger opgelegde verplichtingen zijn belast de bij besluit van Onze Minister aangewezen personen.
 
@@ -92,11 +119,11 @@ Bij of krachtens algemene maatregel van bestuur of bij ministeriële regeling al
 
 3. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze wet wordt aangehaald als: Kaderwet subsidies Verkeer en Waterstaat.
 

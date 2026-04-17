@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregel Prioritering van handhavingsonderzoeken door de Autoriteit Consument en Markt 2023"
 identifier: "BWBR0048190"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-05-26
-laatste_update: 2023-05-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048190"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-05-26"
+last_updated: "2023-05-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048190"
+soort: "zbo"
+stam_id: "16752343"
+version_id: "29419492"
+internal_id: "C42065321"
+label_id: "16668324"
+dtd_version: "2.0"
+original_entry_into_force: "2023-05-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048190/2023-05-26/0"
+intitule_bron: "Stcrt.2023-15184"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-05-22"
+intitule_published: "2023-05-25"
+intitule_in_force: "2023-05-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-15184"
+original_signed_date: "2023-05-22"
+original_published_date: "2023-05-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-15184"
+entry_into_force_date: "2023-05-26"
+jci_1_3: "jci1.3:c:BWBR0048190&z=2023-05-26&g=2023-05-26"
+jci_1_0: "1.0:c:BWBR0048190&g=2023-05-26"
+citeertitel_status: "officieel"
+signed_date: "2023-05-22"
+entry_into_force: "2023-05-26"
 ---
-
 # Beleidsregel Prioritering van handhavingsonderzoeken door de Autoriteit Consument en Markt 2023
 
 ### 1. Inleiding

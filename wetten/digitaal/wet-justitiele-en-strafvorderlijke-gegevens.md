@@ -1,14 +1,41 @@
 ---
-title: "Wet justitiële en strafvorderlijke gegevens"
+title: "Wet van 7 november 2002 tot wijziging van de regels betreffende de verwerking van justitiële gegevens en het stellen van regels met betrekking tot de verwerking van persoonsgegevens in persoonsdossiers (Wet justitiële gegevens)"
 identifier: "BWBR0014194"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0014194"
+country: "nl"
+rank: "wet"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0014194"
+soort: "wet"
+stam_id: "3240983"
+version_id: "25411882"
+internal_id: "C36451201"
+label_id: "3213294"
+dtd_version: "2.0"
+original_entry_into_force: "2019-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0014194/2025-07-01/0"
+intitule_bron: "Stb.2002-552"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-11-07"
+intitule_published: "2002-11-19"
+intitule_in_force: "2004-03-31"
+intitule_status: "goed"
+original_publication: "Stb.2018-401"
+original_signed_date: "2018-10-17"
+original_published_date: "2018-11-12"
+original_effect: "structuurwijziging"
+original_dossier: "34889"
+original_url_id: "stb-2018-401"
+entry_into_force_date: "2019-01-01"
+jci_1_3: "jci1.3:c:BWBR0014194&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0014194&g=2025-07-01"
+citeertitel_status: "officieel"
+short_title: "Wet justitiële en strafvorderlijke gegevens"
+signed_date: "2018-10-17"
+entry_into_force: "2019-01-01"
 ---
-
-# Wet justitiële en strafvorderlijke gegevens
+# Wet van 7 november 2002 tot wijziging van de regels betreffende de verwerking van justitiële gegevens en het stellen van regels met betrekking tot de verwerking van persoonsgegevens in persoonsdossiers (Wet justitiële gegevens)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ## Titel 1. Definities
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop rustende bepalingen wordt verstaan onder:
 
@@ -94,13 +121,13 @@ In deze wet en de daarop rustende bepalingen wordt verstaan onder:
 
 ### Afdeling 1. Algemene bepalingen
 
-#### Artikel 2
+##### Artikel 2
 
 1. Onze Minister verwerkt in de justitiële documentatie justitiële gegevens ten behoeve van een goede strafrechtspleging.
 
 2. Bij algemene maatregel van bestuur worden de gegevens aangewezen die als justitiële gegevens worden aangemerkt.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Onze Minister treft de nodige maatregelen opdat de justitiële gegevens, gelet op de doeleinden waarvoor zij worden verwerkt, juist en nauwkeurig zijn. Hij zorgt voor het onverwijld vernietigen of rectificeren van justitiële gegevens als blijkt dat deze, gelet op de doeleinden waarvoor zij worden verwerkt, onjuist zijn.
 
@@ -116,7 +143,7 @@ In deze wet en de daarop rustende bepalingen wordt verstaan onder:
 
 7. Onze Minister treft de nodige maatregelen opdat justitiële gegevens worden verwijderd of vernietigd zodra zij niet langer noodzakelijk zijn voor het doel waarvoor ze zijn verwerkt of dit door enige wettelijke bepaling wordt vereist.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Justitiële gegevens van verdachten en veroordeelden wegens misdrijven worden vernietigd:
 
@@ -132,11 +159,11 @@ In deze wet en de daarop rustende bepalingen wordt verstaan onder:
 
 4. In afwijking van het eerste tot en met derde lid worden justitiële gegevens van verdachten en veroordeelden wegens misdrijven als bedoeld in de [artikelen 241](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=241), [243](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=243), en [245 tot en met 253 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=241) na tachtig jaar vernietigd.
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Justitiële gegevens van verdachten en veroordeelden wegens overtredingen worden vernietigd:
 
@@ -148,7 +175,7 @@ Justitiële gegevens van verdachten en veroordeelden wegens overtredingen worden
 
 - d. na het vervallen van het recht tot strafvordering door verjaring.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De verwerkingsverantwoordelijke en de verwerker treffen passende technische en organisatorische maatregelen om:
 
@@ -172,7 +199,7 @@ Justitiële gegevens van verdachten en veroordeelden wegens overtredingen worden
 
 ### Afdeling 2. Het verstrekken van justitiële gegevens
 
-#### Artikel 8
+##### Artikel 8
 
 1. Ten behoeve van de rechtspleging worden justitiële gegevens verstrekt aan Nederlandse rechterlijke ambtenaren.
 
@@ -182,13 +209,13 @@ Justitiële gegevens van verdachten en veroordeelden wegens overtredingen worden
 
 4. Bij algemene maatregel van bestuur worden nadere regels gesteld over de verstrekking of doorgifte van justitiële gegevens, bedoeld in het eerste, tweede en derde lid, alsmede over de daarbij te stellen voorwaarden aan het gebruik daarvan door ontvangstgerechtigde autoriteiten.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Voorzover dit noodzakelijk is met het oog op een zwaarwegend algemeen belang en voor een goede taakuitoefening van degene aan wie justitiële gegevens worden verstrekt, kunnen bij algemene maatregel van bestuur personen of instanties die met een publieke taak zijn belast, worden aangewezen aan wie justitiële gegevens kunnen worden verstrekt. Daarbij kunnen nadere voorschriften worden gegeven in verband met de verwerking en verdere verwerking.
 
 2. [Artikel 3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=1&artikel=3&z=2025-07-01&g=2025-07-01), is van toepassing.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Behoudens het bepaalde in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=2&artikel=12&z=2025-07-01&g=2025-07-01) worden aan de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=2&artikel=9&z=2025-07-01&g=2025-07-01) bedoelde personen of instanties slechts gegevens verstrekt betreffende onherroepelijke veroordelingen wegens misdrijf waarbij een straf, al dan niet tezamen met een maatregel, is opgelegd, en wegens overtreding indien daarbij vrijheidsstraf – anders dan vervangende – of een taakstraf is opgelegd. Met een veroordeling worden gelijkgesteld een rechterlijke beslissing waarbij een maatregel als bedoeld in [artikel 37a van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37a) is opgelegd en een strafbeschikking.
 
@@ -210,7 +237,7 @@ Justitiële gegevens van verdachten en veroordeelden wegens overtredingen worden
 
 7. Ingeval van tenuitvoerlegging in Nederland van een veroordeling door een andere dan de Nederlandse rechter gewezen vangt de in het tweede lid, onder b, en het derde lid, bedoelde termijn aan op de dag na die, waarop die veroordeling onherroepelijk is geworden. De duur van de termijn wordt bepaald aan de hand van de bij de uitspraak of beslissing, krachtens welke de bovenbedoelde veroordeling in Nederland kan worden ten uitvoer gelegd, opgelegde of uitvoerbaar geworden straf of maatregel.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Aan de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=2&artikel=9&z=2025-07-01&g=2025-07-01) bedoelde personen of instanties worden gegevens verstrekt betreffende onherroepelijke veroordelingen van rechtspersonen wegens enige overtreding, indien daarbij een geldboete is opgelegd van de derde of een hogere categorie. Met een veroordeling wordt gelijkgesteld een strafbeschikking.
 
@@ -226,7 +253,7 @@ Justitiële gegevens van verdachten en veroordeelden wegens overtredingen worden
 
 5. De termijnen eindigen niet zolang de termijn met betrekking tot enige andere onherroepelijke veroordeling als bedoeld in het [eerste lid van artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=2&artikel=10&z=2025-07-01&g=2025-07-01) en het [eerste lid van 11](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=2&artikel=11&z=2025-07-01&g=2025-07-01) niet is geëindigd.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Met betrekking tot personen ten aanzien van wie recht is gedaan overeenkomstig de [artikelen 77g tot en met 77gg van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77aa), worden aan de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=2&artikel=9&z=2025-07-01&g=2025-07-01) bedoelde personen of instanties slechts gegevens verstrekt, indien de veroordeelde tijdens het begaan van het strafbare feit de leeftijd van zestien jaren had bereikt, de veroordeling onherroepelijk is en is gewezen wegens een misdrijf en daarbij, al dan niet tezamen met andere straffen of maatregelen, is opgelegd:
 
@@ -258,13 +285,13 @@ Met deze personen worden gelijkgesteld minderjarigen tegen wie een strafbeschikk
 
 7. De termijnen eindigen niet zolang de termijn met betrekking tot enige andere onherroepelijke veroordeling of strafbeschikking als bedoeld in het eerste lid, niet is geëindigd.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Voorzover dit noodzakelijk is met het oog op een zwaarwegend algemeen belang en voor een goede taakuitoefening van degene aan wie justitiële gegevens worden verstrekt, kunnen bij algemene maatregel van bestuur personen of instanties als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=2&artikel=9&z=2025-07-01&g=2025-07-01) worden aangewezen aan wie meer gegevens kunnen worden verstrekt dan genoemd in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=2&artikel=10&z=2025-07-01&g=2025-07-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=2&artikel=11&z=2025-07-01&g=2025-07-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=2&artikel=12&z=2025-07-01&g=2025-07-01). Daarbij wordt tevens bepaald welke gegevens worden verstrekt. Tevens kunnen nadere voorschriften worden gegeven in verband met de verwerking en verdere verwerking.
 
 2. [Artikel 3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=1&artikel=3&z=2025-07-01&g=2025-07-01), is van toepassing.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Voorzover dit noodzakelijk is met het oog op een zwaarwegend algemeen belang en voor bijzondere doeleinden, kan Onze Minister in bijzondere gevallen toestemming geven tot het verstrekken van daartoe omschreven justitiële gegevens overeenkomstig door hem te geven voorschriften en onder door hem te stellen voorwaarden. Van zijn desbetreffend besluit zendt hij een afschrift aan de Autoriteit persoonsgegevens.
 
@@ -272,13 +299,13 @@ Met deze personen worden gelijkgesteld minderjarigen tegen wie een strafbeschikk
 
 3. Onze Minister kan voorschriften geven in verband met de verwerking en verdere verwerking.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Justitiële gegevens, kunnen met het oog op de doelen waarvoor die gegevens dienen, worden verwerkt ten behoeve van beleidsinformatie en wetenschappelijk onderzoek en statistiek, onder de voorwaarde dat de resultaten daarvan geen persoonsgegevens mogen bevatten.
 
 2. Bij algemene maatregel van bestuur worden nadere regels gesteld over de verstrekking van justitiële gegevens ten behoeve van het bepaalde in het eerste lid.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Justitiële gegevens worden of kunnen worden ter beschikking gesteld ten behoeve van de strafrechtspleging aan de bevoegde autoriteit van een andere lidstaat van de Europese Unie of aan organen en instanties die zijn opgericht krachtens de hoofdstukken 4 en 5 van titel V van het verdrag betreffende de werking van de Europese Unie, die zijn belast met taken van rechtshandhaving, voor zover dat voortvloeit uit een rechtsinstrument op grond van het verdrag betreffende de werking van de Europese Unie.
 
@@ -286,13 +313,13 @@ Met deze personen worden gelijkgesteld minderjarigen tegen wie een strafbeschikk
 
 3. Bij algemene maatregel van bestuur worden nadere regels gesteld over het ter beschikking stellen van justitiële gegevens, bedoeld in het eerste en tweede lid, alsmede over de aan het gebruik daarvan te stellen voorwaarden door ontvangstgerechtigde bevoegde autoriteiten of internationale organen en instanties. Onverminderd specifieke voorzieningen in een rechtsinstrument, bedoeld in het eerste en tweede lid, mogen de voorwaarden niet afwijken van de voorwaarden voor vergelijkbare doorzendingen van politiegegevens binnen het Europese deel van Nederland.
 
-#### Artikel 17
+##### Artikel 17
 
 Voor het verstrekken van justitiële gegevens, als bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=2&artikel=9&z=2025-07-01&g=2025-07-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=2&artikel=13&z=2025-07-01&g=2025-07-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=2&artikel=14&z=2025-07-01&g=2025-07-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=2&artikel=15&z=2025-07-01&g=2025-07-01), kan een kostenvergoeding worden verlangd die niet hoger mag zijn dan een bij of krachtens algemene maatregel van bestuur vast te stellen bedrag.
 
 ### Afdeling 3. Rechten van de betrokkene op kennisneming en verbetering
 
-#### Artikel 18
+##### Artikel 18
 
 De betrokkene heeft het recht om op diens schriftelijke verzoek van Onze Minister binnen zes weken uitsluitsel te verkrijgen over de al dan niet verwerking van hem betreffende justitiële gegevens en, wanneer dat het geval is, om een overzicht van die justitiële gegevens te verkrijgen en om de volgende informatie te verkrijgen:
 
@@ -310,11 +337,11 @@ De betrokkene heeft het recht om op diens schriftelijke verzoek van Onze Ministe
 
 - g. alle beschikbare informatie over de oorsprong van de verwerking van hem betreffende justitiële gegevens.
 
-#### Artikel 19
+##### Artikel 19
 
 Elke verstrekking van justitiële gegevens overeenkomstig de bepalingen van [Afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=2&z=2025-07-01&g=2025-07-01) wordt vastgelegd en ten minste vier jaar bewaard.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Bij de behandeling van verzoeken als bedoeld in de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=3&artikel=18&z=2025-07-01&g=2025-07-01) en [22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=3&artikel=22&z=2025-07-01&g=2025-07-01), draagt Onze Minister zorg voor een deugdelijke vaststelling van de identiteit van de verzoeker. Wanneer Onze Minister redenen heeft om te twijfelen aan de identiteit van de persoon die het verzoek doet, kan hij de nodige aanvullende informatie vragen ter bevestiging van de identiteit van de betrokkene.
 
@@ -324,7 +351,7 @@ Elke verstrekking van justitiële gegevens overeenkomstig de bepalingen van [Afd
 
 4. De verzoeken kunnen tevens worden gedaan door een advocaat aan wie de betrokkene een bijzondere machtiging heeft verleend met het oog op de uitoefening van zijn rechten krachtens deze wet en die het verzoek uitsluitend doet met de bedoeling de belangen van zijn cliënt te behartigen. De betrokken mededeling geschiedt aan de advocaat. Bij ministeriële regeling kunnen aan de bijzondere machtiging nadere eisen worden gesteld.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Indien de betrokkene verzoekt om een overzicht, op grond van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=3&artikel=18&z=2025-07-01&g=2025-07-01), of rectificatie, bedoeld in [artikel 22, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=3&artikel=22&z=2025-07-01&g=2025-07-01), wordt hij schriftelijk in kennis gesteld van de ontvangst van het verzoek, de termijn voor uitsluitsel en de mogelijkheid om een klacht in te dienen bij de Autoriteit persoonsgegevens.
 
@@ -344,7 +371,7 @@ Elke verstrekking van justitiële gegevens overeenkomstig de bepalingen van [Afd
 
 3. Een gehele of gedeeltelijke afwijzing van een verzoek als bedoeld in het eerste lid is schriftelijk en bevat de redenen voor de afwijzing.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De betrokkene heeft het recht op diens schriftelijke verzoek van de verwerkingsverantwoordelijke rectificatie van de hem betreffende justitiële gegevens te verkrijgen en, rekening houdend met het doel van de verwerking, onvolledige justitiële gegevens te laten aanvullen. Het verzoek bevat de aan te brengen wijzigingen.
 
@@ -360,25 +387,25 @@ Elke verstrekking van justitiële gegevens overeenkomstig de bepalingen van [Afd
 
 5. De verwerkingsverantwoordelijke deelt de rectificatie van de onjuiste justitiële gegevens mede aan de bevoegde autoriteit van wie de gegevens afkomstig zijn.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Een beslissing op een verzoek als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=3&artikel=18&z=2025-07-01&g=2025-07-01) of [22](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=3&artikel=22&z=2025-07-01&g=2025-07-01) geldt als een beschikking in de zin van [artikel 1:3, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:3).
 
 2. De belanghebbende kan zich binnen de termijn bepaald voor het beroep op grond van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) tot de Autoriteit persoonsgegevens wenden met het verzoek te bemiddelen of te adviseren in zijn geschil met de verwerkingsverantwoordelijke. In dat geval kan in afwijking van [artikel 6:7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:7) het beroep nog worden ingesteld nadat de belanghebbende van de Autoriteit persoonsgegevens bericht heeft ontvangen dat de behandeling van de zaak is beëindigd, doch uiterlijk zes weken na dat tijdstip.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Indien Onze Minister heeft vastgesteld dat onjuiste justitiële gegevens zijn verstrekt, of dat de justitiële gegevens onrechtmatig zijn verstrekt stelt hij de ontvangers onverwijld hiervan in kennis. In dat geval dienen de gegevens te worden gerectificeerd, vernietigd of te worden afgeschermd.
 
 2. Onze Minister deelt aan de verzoeker en voorzover van toepassing aan de wettelijk vertegenwoordiger, desgevraagd mede aan wie hij de mededeling heeft gedaan.
 
-#### Artikel 25
+##### Artikel 25
 
 1. De verstrekking van de informatie, bedoeld in de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=3&artikel=18&z=2025-07-01&g=2025-07-01) en [22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=3&artikel=22&z=2025-07-01&g=2025-07-01), geschiedt kosteloos.
 
 2. In het geval van kennelijk ongegronde of buitensporige verzoeken, met name vanwege de geringe tussenpozen tussen opeenvolgende verzoeken, kan Onze Minister weigeren gevolg te geven aan het verzoek.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Betrokkene kan bij Onze Minister verzet aantekenen wegens bijzondere persoonlijke omstandigheden.
 
@@ -388,7 +415,7 @@ Elke verstrekking van justitiële gegevens overeenkomstig de bepalingen van [Afd
 
 ### Afdeling 3. Rechten van de betrokkene
 
-#### Artikel 27
+##### Artikel 27
 
 1. De Autoriteit persoonsgegevens, bedoeld in [artikel 6, eerste lid, van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=6), ziet in het Europese deel van Nederland toe op de verwerking van justitiële gegevens overeenkomstig het bij en krachtens deze wet bepaalde.
 
@@ -438,15 +465,15 @@ Elke verstrekking van justitiële gegevens overeenkomstig de bepalingen van [Afd
 
 ### Afdeling 5. De verklaring omtrent het gedrag
 
-#### Artikel 28
+##### Artikel 28
 
 Een verklaring omtrent het gedrag is een verklaring van Onze Minister dat uit een onderzoek met betrekking tot het gedrag van de betrokken natuurlijke persoon of rechtspersoon ingesteld, gelet op het risico voor de samenleving in verband met het doel waarvoor de afgifte is gevraagd en na afweging van het belang van betrokkene, niet is gebleken van bezwaren tegen die natuurlijke persoon of rechtspersoon.
 
-#### Artikel 29
+##### Artikel 29
 
 De beslissing omtrent de afgifte van de verklaring omtrent het gedrag geldt als een beschikking in de zin van [artikel 1:3, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:3).
 
-#### Artikel 30
+##### Artikel 30
 
 1. De aanvraag om afgifte van de verklaring omtrent het gedrag van een natuurlijk persoon wordt ingediend bij de burgemeester van de gemeente waar de aanvrager op het tijdstip van de aanvraag met een adres als ingezetene is ingeschreven in de basisregistratie personen. In alle andere gevallen wordt de aanvraag ingediend bij Onze Minister.
 
@@ -456,11 +483,11 @@ De beslissing omtrent de afgifte van de verklaring omtrent het gedrag geldt als 
 
 4. De burgemeester zendt de aanvraag terstond door aan Onze Minister.
 
-#### Artikel 31
+##### Artikel 31
 
 In afwijking van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=5&artikel=30&z=2025-07-01&g=2025-07-01) kan een aanvraag om afgifte van de verklaring omtrent het gedrag van een natuurlijk persoon desgewenst rechtstreeks elektronisch worden ingediend bij Onze Minister. [Artikel 30, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=5&artikel=30&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing. [Artikel 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=5&artikel=34&z=2025-07-01&g=2025-07-01), is niet van toepassing.
 
-#### Artikel 32
+##### Artikel 32
 
 1. De aanvraag tot het afgeven van een verklaring omtrent het gedrag van een natuurlijk persoon bevat de voornamen en de geboortedatum van de aanvrager, alsmede een omschrijving van het doel, waarvoor de afgifte van de verklaring wordt gevraagd.
 
@@ -468,17 +495,17 @@ In afwijking van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&ti
 
 3. Bij de aanvraag doet degene te wiens behoeve de verklaring wordt verzocht opgave van het risico voor de samenleving dat in het geding is.
 
-#### Artikel 33
+##### Artikel 33
 
 De aanvraag wordt ingediend door degene omtrent wiens gedrag een verklaring wordt gevraagd of door een vertegenwoordiger van de rechtspersoon omtrent wiens gedrag een verklaring wordt gevraagd.
 
-#### Artikel 34
+##### Artikel 34
 
 1. Onze Minister neemt de aanvraag niet in behandeling, indien een onderzoek naar het gedrag van de aanvrager kennelijk niet noodzakelijk is om, gelet op het doel van de aanvraag, een risico voor de samenleving te beperken.
 
 2. Onze Minister stelt de burgemeester, bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=5&artikel=30&z=2025-07-01&g=2025-07-01), terstond in kennis van de beslissing tot het niet in behandeling nemen van de aanvraag.
 
-#### Artikel 35
+##### Artikel 35
 
 1. Onze Minister weigert de afgifte van een verklaring omtrent het gedrag, indien in de justitiële documentatie met betrekking tot de aanvrager een strafbaar feit is vermeld, dat, indien herhaald, gelet op het risico voor de samenleving en de overige omstandigheden van het geval, aan het doel waarvoor de verklaring omtrent het gedrag wordt gevraagd, in de weg zal staan.
 
@@ -486,7 +513,7 @@ De aanvraag wordt ingediend door degene omtrent wiens gedrag een verklaring word
 
 3. Onze Minister betrekt niet in zijn oordeel de justitiële gegevens met betrekking tot de strafbare feiten die zijn afgedaan met een onherroepelijke vrijspraak.
 
-#### Artikel 36
+##### Artikel 36
 
 1. Onze Minister kan bij zijn onderzoek met betrekking tot de afgifte van de verklaring omtrent het gedrag van een natuurlijk persoon kennis nemen van op de aanvrager betrekking hebbende justitiële gegevens alsmede van politiegegevens als bedoeld in [artikel 1, onder a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=1), met uitzondering van de gegevens waarover op grond van [artikel 21, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=3&artikel=21&z=2025-07-01&g=2025-07-01), geen mededeling kan worden gedaan aan de verzoeker, die gebruik maakt van zijn recht, als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=3&artikel=18&z=2025-07-01&g=2025-07-01).
 
@@ -496,7 +523,7 @@ De aanvraag wordt ingediend door degene omtrent wiens gedrag een verklaring word
 
 4. De justitiële gegevens en de politiegegevens die zijn verstrekt worden niet voor een ander doel gebruikt dan waarvoor zij zijn verstrekt.
 
-#### Artikel 37
+##### Artikel 37
 
 1. Onze Minister beslist op de aanvraag met betrekking tot de afgifte van de verklaring omtrent het gedrag van een natuurlijk persoon binnen vier weken na ontvangst van de aanvraag.
 
@@ -504,7 +531,7 @@ De aanvraag wordt ingediend door degene omtrent wiens gedrag een verklaring word
 
 3. Indien de verklaring omtrent het gedrag wordt afgegeven, zijn de [artikelen 3:8](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:8) en [3:50 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:50) niet van toepassing.
 
-#### Artikel 38
+##### Artikel 38
 
 1. Onze Minister beslist op de aanvraag met betrekking tot de afgifte van de verklaring omtrent het gedrag van een rechtspersoon binnen acht weken na ontvangst van de aanvraag.
 
@@ -516,7 +543,7 @@ De aanvraag wordt ingediend door degene omtrent wiens gedrag een verklaring word
 
 5. De aanvrager van de verklaring wordt in kennis gesteld van de opschorting.
 
-#### Artikel 39
+##### Artikel 39
 
 1. Voor het in behandeling nemen van een aanvraag tot afgifte van een verklaring omtrent het gedrag kunnen de burgemeester en Onze Minister een vergoeding van kosten verlangen.
 
@@ -528,7 +555,7 @@ De aanvraag wordt ingediend door degene omtrent wiens gedrag een verklaring word
 
 ## Titel 3. De persoonsdossiers
 
-#### Artikel 40
+##### Artikel 40
 
 1. Onze Minister verwerkt persoonsgegevens in persoonsdossiers in de documentatie persoonsdossiers met als doel de bevordering van een juiste toepassing van het strafrecht.
 
@@ -536,13 +563,13 @@ De aanvraag wordt ingediend door degene omtrent wiens gedrag een verklaring word
 
 3. De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=1&artikel=3&z=2025-07-01&g=2025-07-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=1&artikel=7&z=2025-07-01&g=2025-07-01), [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=1&artikel=7a&z=2025-07-01&g=2025-07-01), [7b](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=1&artikel=7b&z=2025-07-01&g=2025-07-01), [7d tot en met 7f](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=1&artikel=7d&z=2025-07-01&g=2025-07-01) en [39c, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2A&afdeling=1&artikel=39c&z=2025-07-01&g=2025-07-01), zijn van overeenkomstige toepassing op persoonsgegevens in persoonsdossiers.
 
-#### Artikel 41
+##### Artikel 41
 
 1. Een rapport in een persoonsdossier wordt verwijderd na verloop van tien jaren. De termijn vangt aan op de dag van sluiting van het rapport.
 
 2. Indien de straf of maatregel de duur van tien jaren te boven gaat, is de termijn, bedoeld in het eerste lid, gelijk aan de duur van de aan de betrokken persoon in de strafzaak waarop het rapport betrekking heeft, opgelegde vrijheidsstraf of vrijheidsbenemende maatregel krachtens het strafrecht.
 
-#### Artikel 42
+##### Artikel 42
 
 1. Onze Minister kan afschriften van de in een persoonsdossier opgenomen rapporten gebruiken ten behoeve van de behandeling van een gratieverzoek of met het oog op het onderzoek, bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=5&artikel=28&z=2025-07-01&g=2025-07-01).
 
@@ -562,23 +589,23 @@ De aanvraag wordt ingediend door degene omtrent wiens gedrag een verklaring word
 
 6. [Artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=2&artikel=15&z=2025-07-01&g=2025-07-01) is van overeenkomstige toepassing.
 
-#### Artikel 43
+##### Artikel 43
 
 1. De betrokkene heeft het recht om op diens schriftelijke verzoek binnen vier weken van Onze Minister uitsluitsel te krijgen over de al dan niet verwerking van hem betreffende rapporten in de persoonsdossiers in de documentatie persoonsdossiers en, wanneer dat het geval is, om die rapporten in te zien en hierover de informatie, bedoeld in [artikel 18, onderdelen a tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=3&artikel=18&z=2025-07-01&g=2025-07-01), te verkrijgen.
 
 2. Onze Minister doet daarbij geen mededelingen in schriftelijke vorm, tenzij hij weigert een mededeling te doen. Een gehele of gedeeltelijke afwijzing vindt schriftelijk plaats.
 
-#### Artikel 44
+##### Artikel 44
 
 1. Elke verstrekking van afschriften van rapporten uit persoonsdossiers, overeenkomstig [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=3&artikel=41&z=2025-07-01&g=2025-07-01) wordt vastgelegd en tenminste vier jaar bewaard.
 
 2. Indien een verzoek als bedoeld in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=3&artikel=43&z=2025-07-01&g=2025-07-01) zich uitstrekt tot het verkrijgen van informatie over de verstrekking van afschriften uit persoonsdossiers, deelt Onze Minister binnen vier weken aan verzoeker mede of hem betreffende afschriften van rapporten uit de persoonsdossiers in het jaar voorafgaande aan het verzoek overeenkomstig [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=3&artikel=42&z=2025-07-01&g=2025-07-01) en [42a](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=3&artikel=42a&z=2025-07-01&g=2025-07-01) zijn verstrekt.
 
-#### Artikel 45
+##### Artikel 45
 
 Op de behandeling van verzoeken als bedoeld in het [eerste lid van artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=3&artikel=43&z=2025-07-01&g=2025-07-01) is [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=3&artikel=20&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing.
 
-#### Artikel 46
+##### Artikel 46
 
 1. Degene aan wie overeenkomstig [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=3&artikel=43&z=2025-07-01&g=2025-07-01) uitsluitsel is gegeven van hem betreffende rapporten, heeft het recht op diens schriftelijke verzoek van Onze Minister rectificatie van de hem betreffende persoonsgegevens in deze rapporten te verkrijgen, en rekening houdend met het doel van de verwerking onvolledige persoonsgegevens te laten aanvullen. Het verzoek bevat de aan te brengen wijzigingen.
 
@@ -594,23 +621,23 @@ Op de behandeling van verzoeken als bedoeld in het [eerste lid van artikel 43](h
 
 5. [Artikel 22, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=3&artikel=22&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
 
-#### Artikel 47
+##### Artikel 47
 
 1. Een beslissing op een verzoek als bedoeld in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=3&artikel=43&z=2025-07-01&g=2025-07-01) of [46](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=3&artikel=46&z=2025-07-01&g=2025-07-01) geldt als een beschikking in de zin van [artikel 1:3, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:3).
 
 2. [Artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=3&artikel=23&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
 
-#### Artikel 48
+##### Artikel 48
 
 [Artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=3&artikel=24&z=2025-07-01&g=2025-07-01) is van overeenkomstige toepassing op rapporten uit een persoonsdossier.
 
-#### Artikel 49
+##### Artikel 49
 
 1. De verstrekking van de informatie, bedoeld in de [artikelen 43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=3&artikel=43&z=2025-07-01&g=2025-07-01), en [46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=3&artikel=46&z=2025-07-01&g=2025-07-01) geschiedt kosteloos.
 
 2. In het geval van een kennelijk ongegrond of buitensporig verzoek, met name vanwege de geringe tussenpozen tussen opéénvolgende verzoeken, kan Onze Minister weigeren gevolg te geven aan het verzoek.
 
-#### Artikel 50
+##### Artikel 50
 
 1. Degene over wie één of meer persoonsgegevens in persoonsdossiers zijn verwerkt kan bij Onze Minister verzet hiertegen aantekenen wegens bijzondere persoonlijke omstandigheden.
 
@@ -618,7 +645,7 @@ Op de behandeling van verzoeken als bedoeld in het [eerste lid van artikel 43](h
 
 3. [Artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=3&artikel=49&z=2025-07-01&g=2025-07-01) is van overeenkomstige toepassing.
 
-#### Artikel 51
+##### Artikel 51
 
 1. De [artikelen 26a tot en met 26h](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=3&artikel=26a&z=2025-07-01&g=2025-07-01) en [27, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=4&artikel=27&z=2025-07-01&g=2025-07-01), zijn van overeenkomstige toepassing op persoonsgegevens in persoonsdossiers.
 
@@ -648,123 +675,123 @@ Op de behandeling van verzoeken als bedoeld in het [eerste lid van artikel 43](h
 
 ## Titel 4. Slotbepalingen
 
-#### Artikel 52
+##### Artikel 52
 
 1. Een ieder die krachtens deze wet de beschikking krijgt over gegevens met betrekking tot een derde, is verplicht tot geheimhouding daarvan, behoudens voorzover een bij of krachtens deze wet gegeven voorschrift mededelingen toelaat, dan wel de uitvoering van de taak met het oog waarop de gegevens zijn verstrekt tot het ter kennis brengen daarvan noodzaakt.
 
 2. [Artikel 272, tweede lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=272) is niet van toepassing
 
-#### Artikel 53
+##### Artikel 53
 
 De [Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag](onbekend) (Stb. 1955, 395) wordt ingetrokken.
 
-#### Artikel 54
+##### Artikel 54
 
 Wijzigt de Wet op de inlichtingen- en veiligheidsdiensten.
 
-#### Artikel 55
+##### Artikel 55
 
 Wijzigt de Advocatenwet.
 
-#### Artikel 56
+##### Artikel 56
 
 Wijzigt de Wet tarieven in strafzaken.
 
-#### Artikel 57
+##### Artikel 57
 
 Wijzigt de Wet op het voortgezet onderwijs.
 
-#### Artikel 58
+##### Artikel 58
 
 Wijzigt de Wet op de expertisecentra.
 
-#### Artikel 59
+##### Artikel 59
 
 Wijzigt de Wet op het primair onderwijs.
 
-#### Artikel 60
+##### Artikel 60
 
 Wijzigt de Wet op de erkende onderwijsinstellingen.
 
-#### Artikel 61
+##### Artikel 61
 
 Wijzigt de Wet educatie en beroepsonderwijs.
 
-#### Artikel 62
+##### Artikel 62
 
 Wijzigt de Algemene wet erkenning EG-hoger-onderwijsdiploma's.
 
-#### Artikel 63
+##### Artikel 63
 
 Wijzigt de Algemene wet erkenning EG-beroepsopleidingen.
 
-#### Artikel 64
+##### Artikel 64
 
 Wijzigt de Interimwet zij-instroom leraren primair en voortgezet onderwijs.
 
-#### Artikel 65
+##### Artikel 65
 
 Wijzigt de Gerechtsdeurwaarderswet.
 
-#### Artikel 66
+##### Artikel 66
 
 Wijzigt de Wet beëedigde vertalers.
 
-#### Artikel 67
+##### Artikel 67
 
 Wijzigt de Wet gebruik Friese taal in het rechtsverkeer.
 
-#### Artikel 68
+##### Artikel 68
 
 Wijzigt de Wet politieregisters.
 
-#### Artikel 69
+##### Artikel 69
 
 Wijzigt de Wet veiligheidsonderzoeken.
 
-#### Artikel 70
+##### Artikel 70
 
 Wijzigt de Spoorwegwet.
 
-#### Artikel 71
+##### Artikel 71
 
 Wijzigt de Wet bescherming persoonsgegevens.
 
-#### Artikel 72
+##### Artikel 72
 
 Wijzigt de Wet op het notarisambt.
 
-#### Artikel 73
+##### Artikel 73
 
 Wijzigt deze wet, de Wet politieregisters en de Luchtvaartwet.
 
-#### Artikel 74
+##### Artikel 74
 
 Wijzigt deze wet.
 
-#### Artikel 75
+##### Artikel 75
 
 Aan de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=2&artikel=9&z=2025-07-01&g=2025-07-01) bedoelde personen of instanties worden tevens de justitiële gegevens over minderjarigen verstrekt die overeenkomstig de [Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag](https://wetten.overheid.nl/jci1.3:c:BWBR0002195) zoals die luidde voor de inwerkingtreding van de [Wet van 7 juli 1994 tot wijziging van het Wetboek van Strafrecht, het Wetboek van Strafvordering en andere wetten in verband met de herziening van het strafrecht voor jeugdigen](https://wetten.overheid.nl/jci1.3:c:BWBR0006797) (Stb. 528) waren opgenomen in het strafregister.
 
-#### Artikel 76
+##### Artikel 76
 
 Onze Minister zendt binnen vijf jaar na inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-#### Artikel 77
+##### Artikel 77
 
 Indien voor het moment van inwerkingtreding van deze wet een aanvraag om afgifte van een verklaring omtrent het gedrag van een natuurlijk persoon is gedaan, zijn op de behandeling van de aanvraag en de daaruit voortvloeiende procedures de bepalingen van toepassing zoals die luiden voor inwerkingtreding van deze wet.
 
-#### Artikel 78
+##### Artikel 78
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 79
+##### Artikel 79
 
 Deze wet wordt aangehaald als: Wet justitiële en strafvorderlijke gegevens.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 8a
+##### Artikel 8a
 
 1. Voorzover dit noodzakelijk is met het oog op een zwaarwegend algemeen belang, kan het College van procureurs-generaal in de gevallen waarin het ingevolge [artikel 39e](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2A&afdeling=2&artikel=39e&z=2025-07-01&g=2025-07-01), [39f](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2A&afdeling=2&artikel=39f&z=2025-07-01&g=2025-07-01), [39fa](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2A&afdeling=2&artikel=39fa&z=2025-07-01&g=2025-07-01), [39fb](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2A&afdeling=2&artikel=39fb&z=2025-07-01&g=2025-07-01) of [39ga](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2A&afdeling=2&artikel=39ga&z=2025-07-01&g=2025-07-01) bevoegd is strafvorderlijke gegevens te verstrekken, justitiële gegevens verstrekken.
 
@@ -780,13 +807,13 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ### Afdeling 1. Algemene bepalingen
 
-#### Artikel 39a
+##### Artikel 39a
 
 1. Het College van procureurs-generaal is verwerkingsverantwoordelijke voor het verwerken van strafvorderlijke gegevens.
 
 2. Het hoofd van een arrondissementsparket, het landelijk parket, het functioneel parket, het parket centrale verwerking openbaar ministerie of het ressortsparket voert het beheer over de strafvorderlijke gegevens.
 
-#### Artikel 39b
+##### Artikel 39b
 
 1. Het College van procureurs-generaal verwerkt slechts strafvorderlijke gegevens, indien dit noodzakelijk is voor een goede vervulling van de taak van het openbaar ministerie of het nakomen van een andere wettelijke verplichting.
 
@@ -800,7 +827,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - d. personen die voor een strafbaar feit zijn veroordeeld.
 
-#### Artikel 39c
+##### Artikel 39c
 
 1. De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=1&artikel=3&z=2025-07-01&g=2025-07-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=1&artikel=7&z=2025-07-01&g=2025-07-01), [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=1&artikel=7a&z=2025-07-01&g=2025-07-01), [7b](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=1&artikel=7b&z=2025-07-01&g=2025-07-01), [7d tot en met 7f](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=1&artikel=7d&z=2025-07-01&g=2025-07-01), zijn van overeenkomstige toepassing, met dien verstande dat daar waar in deze artikelen wordt gesproken over «Onze Minister» «het College van procureurs-generaal» wordt gelezen.
 
@@ -812,13 +839,13 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 5. Profilering die leidt tot discriminatie van personen is verboden.
 
-#### Artikel 39d
+##### Artikel 39d
 
 Strafvorderlijke gegevens worden vernietigd overeenkomstig de termijnen, genoemd in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=1&artikel=4&z=2025-07-01&g=2025-07-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=1&artikel=6&z=2025-07-01&g=2025-07-01).
 
 ### Afdeling 5. De verklaring omtrent het gedrag
 
-#### Artikel 39e
+##### Artikel 39e
 
 1. Voorzover dit noodzakelijk is met het oog op een zwaarwegend algemeen belang, kan het College van procureurs-generaal aan de volgende personen of instanties strafvorderlijke gegevens verstrekken:
 
@@ -850,7 +877,7 @@ Strafvorderlijke gegevens worden vernietigd overeenkomstig de termijnen, genoemd
 
 6. [Artikel 9, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=2&artikel=9&z=2025-07-01&g=2025-07-01) is van overeenkomstige toepassing.
 
-#### Artikel 39f
+##### Artikel 39f
 
 1. Voorzover dit noodzakelijk is met het oog op een zwaarwegend algemeen belang, kan het College van procureurs-generaal, onverminderd [artikel 39e](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2A&afdeling=2&artikel=39e&z=2025-07-01&g=2025-07-01), aan personen of instanties voor de volgende doeleinden strafvorderlijke gegevens verstrekken:
 
@@ -876,17 +903,17 @@ Strafvorderlijke gegevens worden vernietigd overeenkomstig de termijnen, genoemd
 
 3. [Artikel 9, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=2&artikel=9&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
 
-#### Artikel 39g
+##### Artikel 39g
 
 De [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=2&artikel=14&z=2025-07-01&g=2025-07-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=2&artikel=15&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing.
 
-#### Artikel 39h
+##### Artikel 39h
 
 Voor het verstrekken van strafvorderlijke gegevens als bedoeld in [artikel 39f](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2A&afdeling=2&artikel=39f&z=2025-07-01&g=2025-07-01) kan een kostenvergoeding worden verlangd die niet hoger is dan een bij of krachtens algemene maatregel van bestuur vast te stellen bedrag.
 
 ### Afdeling 3. Rechten van de betrokkene op kennisneming en verbetering
 
-#### Artikel 39i
+##### Artikel 39i
 
 1. De betrokkene heeft het recht om op diens schriftelijke verzoek van het College van procureurs-generaal uitsluitsel te krijgen over de al dan niet verwerking van hem betreffende strafvorderlijke gegevens en, wanneer dat het geval is, om die strafvorderlijke gegevens in te zien en om de volgende informatie te verkrijgen:
 
@@ -908,17 +935,17 @@ Voor het verstrekken van strafvorderlijke gegevens als bedoeld in [artikel 39f](
 
 3. Op het deel van een verzoek om inlichtingen, bedoeld in het eerste lid, onderdeel c, geeft het College van procureurs-generaal binnen vier weken uitsluitsel.
 
-#### Artikel 39j
+##### Artikel 39j
 
 Elke verstrekking van strafvorderlijke gegevens overeenkomstig de [artikelen 39e](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2A&afdeling=2&artikel=39e&z=2025-07-01&g=2025-07-01), [39f](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2A&afdeling=2&artikel=39f&z=2025-07-01&g=2025-07-01), [39fb](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2A&afdeling=2&artikel=39fb&z=2025-07-01&g=2025-07-01) en [39ga](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2A&afdeling=2&artikel=39ga&z=2025-07-01&g=2025-07-01) wordt vastgelegd en gedurende ten minste vier jaar bewaard.
 
-#### Artikel 39k
+##### Artikel 39k
 
 1. Bij de behandeling van een verzoek als bedoeld in [artikel 39i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2A&afdeling=3&artikel=39i&z=2025-07-01&g=2025-07-01), draagt het College van procureurs-generaal zorg voor een deugdelijke vaststelling van de identiteit van de verzoeker. Wanneer het College van procureurs-generaal redenen heeft om te twijfelen aan de identiteit van de persoon die het verzoek doet, kan hij de nodige aanvullende informatie vragen ter bevestiging van de identiteit van de betrokkene.
 
 2. [Artikel 20, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=3&artikel=20&z=2025-07-01&g=2025-07-01), is van toepassing.
 
-#### Artikel 39l
+##### Artikel 39l
 
 1. Indien de betrokkene verzoekt om inzage, op grond van [artikel 39i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2A&afdeling=3&artikel=39i&z=2025-07-01&g=2025-07-01), of rectificatie, bedoeld in [artikel 39m, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2A&afdeling=3&artikel=39m&z=2025-07-01&g=2025-07-01), wordt hij schriftelijk in kennis gesteld van de ontvangst van het verzoek, de termijn voor uitsluitsel en de mogelijkheid om naar aanleiding daarvan een klacht in te dienen bij de Autoriteit persoonsgegevens.
 
@@ -926,7 +953,7 @@ Elke verstrekking van strafvorderlijke gegevens overeenkomstig de [artikelen 39e
 
 3. De gehele of gedeeltelijke afwijzing van een verzoek als bedoeld in het eerste lid is schriftelijk.
 
-#### Artikel 39m
+##### Artikel 39m
 
 1. De betrokkene heeft het recht op diens schriftelijke verzoek van de verwerkingsverantwoordelijke rectificatie van de hem betreffende strafvorderlijke gegevens te verkrijgen, en rekening houdend met het doel van de verwerking, onvolledige strafvorderlijke gegevens te laten aanvullen. Het verzoek bevat de aan te brengen wijzigingen.
 
@@ -944,23 +971,23 @@ Elke verstrekking van strafvorderlijke gegevens overeenkomstig de [artikelen 39e
 
 6. De verwerkingsverantwoordelijke draagt zorg dat een beslissing tot verbetering, aanvulling, vernietiging of afscherming zo spoedig mogelijk wordt uitgevoerd. Hij draagt zorg voor het kenmerken van een gegeven als de juistheid daarvan door de betrokkene wordt betwist en niet kan worden vastgesteld of het gegeven al dan niet juist is.
 
-#### Artikel 39n
+##### Artikel 39n
 
 1. Een beslissing op een verzoek als bedoeld in [artikel 39i](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2A&afdeling=3&artikel=39i&z=2025-07-01&g=2025-07-01) of [39m](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2A&afdeling=3&artikel=39m&z=2025-07-01&g=2025-07-01) geldt als een beschikking in de zin van [artikel 1:3, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:3).
 
 2. De belanghebbende kan zich binnen de termijn bepaald voor het beroep op grond van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) tot de Autoriteit persoonsgegevens wenden met het verzoek te bemiddelen of te adviseren in zijn geschil met de verwerkingsverantwoordelijke. In dat geval kan in afwijking van [artikel 6:7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:7) het beroep nog worden ingesteld nadat de belanghebbende van de Autoriteit persoonsgegevens bericht heeft ontvangen dat de behandeling van de zaak is beëindigd, doch uiterlijk zes weken na dat tijdstip.
 
-#### Artikel 39o
+##### Artikel 39o
 
 [Artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=3&artikel=24&z=2025-07-01&g=2025-07-01) is van overeenkomstige toepassing op strafvorderlijke gegevens.
 
-#### Artikel 39p
+##### Artikel 39p
 
 1. De verstrekking van de informatie, bedoeld in de [artikelen 39i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2A&afdeling=3&artikel=39i&z=2025-07-01&g=2025-07-01), en [39m, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2A&afdeling=3&artikel=39m&z=2025-07-01&g=2025-07-01), geschiedt kosteloos.
 
 2. In het geval van een kennelijk ongegrond of buitensporig verzoek, met name vanwege de geringe tussenpozen tussen opéénvolgende verzoeken, kan het College van procureurs-generaal voor de verstrekking van de informatie, bedoeld in het eerste lid, weigeren gevolg te geven aan het verzoek.
 
-#### Artikel 39q
+##### Artikel 39q
 
 1. Betrokkene kan bij het College van procureurs-generaal verzet aantekenen wegens bijzondere persoonlijke omstandigheden.
 
@@ -970,7 +997,7 @@ Elke verstrekking van strafvorderlijke gegevens overeenkomstig de [artikelen 39e
 
 ### Afdeling 1. Algemene bepalingen
 
-#### Artikel 39r
+##### Artikel 39r
 
 1. De [artikelen 26a tot en met 26h](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=3&artikel=26a&z=2025-07-01&g=2025-07-01) en [27, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=4&artikel=27&z=2025-07-01&g=2025-07-01), zijn van overeenkomstige toepassing op strafvorderlijke gegevens.
 
@@ -1004,7 +1031,7 @@ Elke verstrekking van strafvorderlijke gegevens overeenkomstig de [artikelen 39e
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 7a
+##### Artikel 7a
 
 1. De verwerkingsverantwoordelijke treft passende technische en organisatorische maatregelen om te waarborgen dat standaard:
 
@@ -1014,7 +1041,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 2. De maatregelen, bedoeld in het eerste lid, onder a, betreffen in ieder geval de hoeveelheid verzamelde justitiële gegevens, de mate waarin zij worden verwerkt, de periode van opslag en de toegankelijkheid van de justitiële gegevens.
 
-#### Artikel 7b
+##### Artikel 7b
 
 1. Wanneer een soort verwerking, in het bijzonder een verwerking waarbij nieuwe technologieën worden gebruikt, gelet op de aard, de omvang, de context of doelen ervan, waarschijnlijk een hoog risico voor de rechten en vrijheden van personen oplevert, voert de verwerkingsverantwoordelijke voorafgaand aan de verwerking een beoordeling uit van het effect van de voorgenomen verwerkingsactiviteiten op de bescherming van persoonsgegevens.
 
@@ -1030,7 +1057,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 3. Indien nodig verricht de verwerkingsverantwoordelijke een toetsing om te beoordelen of de verwerking overeenkomstig de gegevensbeschermingseffectbeoordeling wordt uitgevoerd, zulks ten minste wanneer sprake is van een toename van het risico dat de verwerkingen inhouden.
 
-#### Artikel 7c
+##### Artikel 7c
 
 De verwerkingsverantwoordelijke maakt in voorkomend geval en voor zover mogelijk een duidelijk onderscheid tussen justitiële gegevens betreffende verschillende categorieën van betrokkenen, zoals:
 
@@ -1040,7 +1067,7 @@ De verwerkingsverantwoordelijke maakt in voorkomend geval en voor zover mogelijk
 
 - c. personen die terzake van een strafbaar feit zijn vrijgesproken.
 
-#### Artikel 7d
+##### Artikel 7d
 
 1. Indien Onze Minister justitiële gegevens te zijnen behoeve laat verwerken door een verwerker maakt hij uitsluitend gebruik van een verwerker die afdoende garandeert dat de passende technische en organisatorische maatregelen en procedures zodanig worden geïmplementeerd dat bij de verwerking wordt voldaan aan het bij of krachtens deze wet bepaalde en de rechten van de betrokkene worden gewaarborgd.
 
@@ -1052,13 +1079,13 @@ De verwerkingsverantwoordelijke maakt in voorkomend geval en voor zover mogelijk
 
 5. De verwerker stelt de verwerkingsverantwoordelijke zonder onredelijke vertraging in kennis van een inbreuk op de bescherming van persoonsgegevens.
 
-#### Artikel 7e
+##### Artikel 7e
 
 1. Een besluit dat uitsluitend is gebaseerd op geautomatiseerde verwerking, met inbegrip van profilering, dat voor de betrokkene nadelige rechtsgevolgen heeft of hem in aanmerkelijke mate treft en waarin justitiële gegevens zijn verwerkt, is verboden, tenzij wordt voorzien in voorafgaande menselijke tussenkomst door of namens de verwerkingsverantwoordelijke en in specifieke voorlichting aan de betrokkene.
 
 2. Profilering die leidt tot discriminatie van personen is verboden.
 
-#### Artikel 7f
+##### Artikel 7f
 
 1. Indien iemand schade lijdt doordat ten opzichte van hem in strijd wordt gehandeld met de bij of krachtens deze wet gegeven voorschriften zijn de volgende leden van toepassing, onverminderd de aanspraken op grond van andere wettelijke regels.
 
@@ -1070,7 +1097,7 @@ De verwerkingsverantwoordelijke maakt in voorkomend geval en voor zover mogelijk
 
 ### Afdeling 2. Het verstrekken van justitiële gegevens
 
-#### Artikel 16a
+##### Artikel 16a
 
 1. Justitiële gegevens kunnen met inachtneming van het bij of krachtens deze wet bepaalde worden doorgegeven aan rechterlijke ambtenaren dan wel aan andere bevoegde autoriteiten in een derde land of aan een internationale organisatie, voor zover dit noodzakelijk is ten behoeve van de strafrechtspleging, en indien de Commissie van de Europese Unie heeft besloten dat het derde land of de internationale organisatie een toereikend beschermingsniveau voor de voorgenomen gegevensverwerking verzekert.
 
@@ -1114,7 +1141,7 @@ en de grondrechten en fundamentele vrijheden van de betrokkene niet prevaleren b
 
 ### Afdeling 3. Rechten van de betrokkene
 
-#### Artikel 17a
+##### Artikel 17a
 
 Onze Minister maakt ten minste de volgende informatie toegankelijk voor de betrokkene:
 
@@ -1126,7 +1153,7 @@ Onze Minister maakt ten minste de volgende informatie toegankelijk voor de betro
 
 - d. de rechten van de betrokkene, bedoeld in de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=3&artikel=18&z=2025-07-01&g=2025-07-01) en [22, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=3&artikel=22&z=2025-07-01&g=2025-07-01).
 
-#### Artikel 17b
+##### Artikel 17b
 
 1. Onze Minister verstrekt aan een betrokkene informatie over de verwerking van justitiële gegevens in een beknopte en toegankelijke vorm en in duidelijke en eenvoudige taal. De informatie wordt met passende middelen, waaronder elektronische, verstrekt en in het algemeen in dezelfde vorm als de vorm van het verzoek.
 
@@ -1146,7 +1173,7 @@ Onze Minister maakt ten minste de volgende informatie toegankelijk voor de betro
 
 4. De verwerkingsverantwoordelijke kan de verstrekking van informatie, als bedoeld in het derde lid, uitstellen, beperken of achterwege laten voor zover dit een noodzakelijke en evenredige maatregel is in verband met een belang, bedoeld in [artikel 21, tweede lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=3&artikel=21&z=2025-07-01&g=2025-07-01).
 
-#### Artikel 26a
+##### Artikel 26a
 
 1. Onverminderd bestaande rechtsmiddelen heeft iedere betrokkene het recht een klacht in te dienen bij de Autoriteit persoonsgegevens, indien de betrokkene van mening is dat de verwerking van hem betreffende justitiële gegevens niet in overeenstemming is met het bij of krachtens deze wet bepaalde.
 
@@ -1160,13 +1187,13 @@ Onze Minister maakt ten minste de volgende informatie toegankelijk voor de betro
 
 6. In het geval van een kennelijk ongegronde of buitensporige klacht, met name vanwege de geringe tussenpozen tussen opéénvolgende klachten, kan de Autoriteit persoonsgegevens weigeren gevolg te geven aan de klacht.
 
-#### Artikel 26b
+##### Artikel 26b
 
 Een vordering tegen de Autoriteit persoonsgegevens wordt ingesteld bij een gerecht, bedoeld in [artikel 2 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=2), in Nederland.
 
 ### Afdeling 4. Bepalingen betreffende controle en toezicht
 
-#### Artikel 26c
+##### Artikel 26c
 
 1. De verwerkingsverantwoordelijke houdt een register bij dat de volgende gegevens bevat:
 
@@ -1198,7 +1225,7 @@ Een vordering tegen de Autoriteit persoonsgegevens wordt ingesteld bij een gerec
 
 - d. indien mogelijk, een algemene beschrijving van de technische en organisatorische maatregelen, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=1&artikel=7&z=2025-07-01&g=2025-07-01).
 
-#### Artikel 26d
+##### Artikel 26d
 
 1. De verwerkingsverantwoordelijke draagt zorg voor de schriftelijke vastlegging van:
 
@@ -1210,13 +1237,13 @@ Een vordering tegen de Autoriteit persoonsgegevens wordt ingesteld bij een gerec
 
 2. Bij de doorgifte van justitiële gegevens aan een verwerkingsverantwoordelijke in een derde land of van een internationale organisatie omvat de schriftelijke vastlegging de datum en tijd van doorgifte, informatie over de ontvangende bevoegde autoriteit, de reden van doorgifte en de doorgegeven gegevens.
 
-#### Artikel 26e
+##### Artikel 26e
 
 1. De verwerkingsverantwoordelijke en de verwerker dragen zorg voor de vastlegging langs elektronische weg (logging) van ten minste de volgende verwerkingen van justitiële gegevens in geautomatiseerde systemen: het verzamelen, wijzigen, raadplegen, verstrekken onder meer in de vorm van doorgiften, combineren en vernietigen van justitiële gegevens.
 
 2. De vastgelegde gegevens, bedoeld in het eerste lid, worden uitsluitend gebruikt voor de controle van de rechtmatigheid van de gegevensverwerking, voor interne controles, ter waarborging van de integriteit en de beveiliging van de justitiële gegevens en voor strafrechtelijke procedures.
 
-#### Artikel 26f
+##### Artikel 26f
 
 1. De verwerkingsverantwoordelijke benoemt een functionaris voor gegevensbescherming. Voor verschillende bevoegde autoriteiten kan, rekening houdend met hun organisatiestructuur en omvang, één functionaris voor gegevensbescherming worden aangewezen. De functionaris voor gegevensbescherming wordt door de verwerkingsverantwoordelijke tijdig en naar behoren betrokken bij alle aangelegenheden die verband houden met de bescherming van justitiële gegevens.
 
@@ -1240,7 +1267,7 @@ Een vordering tegen de Autoriteit persoonsgegevens wordt ingesteld bij een gerec
 
 6. De verwerkingsverantwoordelijke ondersteunt de functionaris voor gegevensbescherming bij de vervulling van zijn taken door hem toegang te verschaffen tot persoonsgegevens en stelt de functionaris voor gegevensbescherming de benodigde middelen ter beschikking voor het vervullen van de taken, bedoeld in het derde lid, en het in standhouden van zijn deskundigheid.
 
-#### Artikel 26g
+##### Artikel 26g
 
 1. De verwerkingsverantwoordelijke meldt een inbreuk op de beveiliging onverwijld en uiterlijk binnen 72 uur nadat hij ervan kennis heeft genomen aan de Autoriteit persoonsgegevens, tenzij het niet waarschijnlijk is dat de inbreuk een risico voor de rechten en vrijheden van personen met zich meebrengt. In het geval de melding na 72 uur wordt gedaan, gaat deze vergezeld van een motivering voor de vertraging.
 
@@ -1272,7 +1299,7 @@ Een vordering tegen de Autoriteit persoonsgegevens wordt ingesteld bij een gerec
 
 8. De melding door een verwerkingsverantwoordelijke aan een betrokkene van een inbreuk op de beveiliging, geschiedt kosteloos.
 
-#### Artikel 26h
+##### Artikel 26h
 
 1. De Autoriteit persoonsgegevens wordt door de verwerkingsverantwoordelijke of de verwerker geraadpleegd over de voorgenomen verwerking van justitiële gegevens, die in een nieuw gegevensbestand zullen worden opgenomen, wanneer:
 
@@ -1296,7 +1323,7 @@ Een vordering tegen de Autoriteit persoonsgegevens wordt ingesteld bij een gerec
 
 ### Afdeling 2. Het verstrekken van strafvorderlijke gegevens
 
-#### Artikel 39ga
+##### Artikel 39ga
 
 1. Het College van procureurs-generaal kan ten behoeve van de strafrechtspleging met overeenkomstige toepassing van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=2&artikel=16&z=2025-07-01&g=2025-07-01), strafvorderlijke gegevens ter beschikking stellen aan de bevoegde autoriteit van een andere lidstaat van de Europese Unie of aan organen en instanties die zijn opgericht krachtens de hoofdstukken 4 en 5 van titel V van het Verdrag betreffende de werking van de Europese Unie, die zijn belast met taken van rechtshandhaving, voor zover dat voortvloeit uit een rechtsinstrument op grond van het verdrag betreffende de werking van de Europese Unie.
 
@@ -1304,7 +1331,7 @@ Een vordering tegen de Autoriteit persoonsgegevens wordt ingesteld bij een gerec
 
 ### Afdeling 3. Rechten van de betrokkene
 
-#### Artikel 39ha
+##### Artikel 39ha
 
 1. Het College van procureurs-generaal maakt ten minste de volgende informatie toegankelijk voor de betrokkene:
 
@@ -1324,13 +1351,13 @@ Een vordering tegen de Autoriteit persoonsgegevens wordt ingesteld bij een gerec
 
 ## Titel 3. De persoonsdossiers
 
-#### Artikel 42a
+##### Artikel 42a
 
 1. Onze Minister kan met overeenkomstige toepassing van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=2&artikel=16&z=2025-07-01&g=2025-07-01), afschriften van de in een persoonsdossier opgenomen rapporten ter beschikking stellen aan de bevoegde autoriteit van een andere lidstaat van de Europese Unie of aan organen of instanties die zijn opgericht krachtens de hoofdstukken 4 en 5 van titel V van het Verdrag betreffende de werking van de Europese Unie, die zijn belast met taken van rechtshandhaving, voor zover dat voortvloeit uit een rechtsinstrument op grond van het Verdrag betreffende de werking van de Europese Unie.
 
 2. Onze Minister kan met overeenkomstige toepassing van [artikel 16a](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=2&artikel=16a&z=2025-07-01&g=2025-07-01), afschriften van de in een persoonsdossier opgenomen rapporten doorgeven aan rechterlijke ambtenaren dan wel aan een andere bevoegde autoriteit in een derde land of aan een internationale organisatie, ten behoeve van de strafrechtspleging.
 
-#### Artikel 42b
+##### Artikel 42b
 
 1. Onze Minister maakt ten minste de volgende informatie toegankelijk voor betrokkene:
 
@@ -1344,7 +1371,7 @@ Een vordering tegen de Autoriteit persoonsgegevens wordt ingesteld bij een gerec
 
 2. [Artikel 17b](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=3&artikel=17b&z=2025-07-01&g=2025-07-01) is van overeenkomstige toepassing.
 
-#### Artikel 46a
+##### Artikel 46a
 
 1. Indien de betrokkene verzoekt om inzage op grond van [artikel 43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=3&artikel=43&z=2025-07-01&g=2025-07-01), of rectificatie, bedoeld in [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=3&artikel=46&z=2025-07-01&g=2025-07-01), wordt hij schriftelijk in kennis gesteld van de ontvangst van het verzoek, de termijn voor uitsluitsel en de mogelijkheid om naar aanleiding daarvan een klacht in te dienen bij de Autoriteit persoonsgegevens.
 
@@ -1352,7 +1379,7 @@ Een vordering tegen de Autoriteit persoonsgegevens wordt ingesteld bij een gerec
 
 ## Titel 3a. De verwerking van tenuitvoerleggingsgegevens
 
-#### Artikel 51a
+##### Artikel 51a
 
 1. Onze Minister dan wel het College van procureurs-generaal verwerkt tenuitvoerleggingsgegevens, indien dit noodzakelijk is voor een goede vervulling van een wettelijke taak of het nakomen van een andere wettelijke verplichting.
 
@@ -1360,7 +1387,7 @@ Een vordering tegen de Autoriteit persoonsgegevens wordt ingesteld bij een gerec
 
 3. Het hoofd van een arrondissementsparket, het landelijk parket, het functioneel parket, het parket centrale verwerking openbaar ministerie of het ressortsparket voert het beheer over de tenuitvoerleggingsgegevens waarvoor het College van procureurs-generaal verwerkingsverantwoordelijke is.
 
-#### Artikel 51b
+##### Artikel 51b
 
 1. De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=1&artikel=3&z=2025-07-01&g=2025-07-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=1&artikel=7&z=2025-07-01&g=2025-07-01), [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=1&artikel=7a&z=2025-07-01&g=2025-07-01), [7b](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=1&artikel=7b&z=2025-07-01&g=2025-07-01), [7d tot en met 7f](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=1&artikel=7d&z=2025-07-01&g=2025-07-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=2&artikel=15&z=2025-07-01&g=2025-07-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=2&artikel=16&z=2025-07-01&g=2025-07-01), [16a](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=2&artikel=16a&z=2025-07-01&g=2025-07-01), [17a](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=3&artikel=17a&z=2025-07-01&g=2025-07-01), [17b](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=3&artikel=17b&z=2025-07-01&g=2025-07-01), [20 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=3&artikel=20&z=2025-07-01&g=2025-07-01), en [39c, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2A&afdeling=1&artikel=39c&z=2025-07-01&g=2025-07-01), zijn van overeenkomstige toepassing op tenuitvoerleggingsgegevens.
 
@@ -1368,7 +1395,7 @@ Een vordering tegen de Autoriteit persoonsgegevens wordt ingesteld bij een gerec
 
 3. Indien de verwerking betrekking heeft op tenuitvoerleggingsgegevens waarvoor het College van procureurs-generaal verwerkingsverantwoordelijke is, wordt bij de overeenkomstige toepassing van de artikelen, bedoeld in het eerste lid, in die artikelen alsmede in het tweede lid waar wordt gesproken over «Onze Minister» gelezen «het College van procureurs-generaal».
 
-#### Artikel 51c
+##### Artikel 51c
 
 1. Tenuitvoerleggingsgegevens van veroordeelden voor andere strafrechtelijke beslissingen dan vrijheidsbenemende straffen of maatregelen worden vernietigd met overeenkomstige toepassing van de termijnen voor vernietiging, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=1&artikel=4&z=2025-07-01&g=2025-07-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=1&artikel=6&z=2025-07-01&g=2025-07-01).
 
@@ -1392,7 +1419,7 @@ Een vordering tegen de Autoriteit persoonsgegevens wordt ingesteld bij een gerec
 
 4. Elke verstrekking, bedoeld in het derde lid, en bedoeld in de van overeenkomstige van toepassing zijnde [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=2&artikel=16&z=2025-07-01&g=2025-07-01) en [16a](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=2&artikel=16a&z=2025-07-01&g=2025-07-01), wordt vastgelegd en ten minste vier jaar bewaard.
 
-#### Artikel 51d
+##### Artikel 51d
 
 1. De [artikelen 26a tot en met 26h](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=3&artikel=26a&z=2025-07-01&g=2025-07-01) en [27, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=4&artikel=27&z=2025-07-01&g=2025-07-01), zijn van overeenkomstige toepassing op tenuitvoerleggingsgegevens.
 
@@ -1422,11 +1449,11 @@ Een vordering tegen de Autoriteit persoonsgegevens wordt ingesteld bij een gerec
 
 ## Titel 3a. De verwerking van tenuitvoerleggingsgegevens
 
-#### Artikel 51e
+##### Artikel 51e
 
 De gerechten, bedoeld in [artikel 2 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=2), verwerken slechts gerechtelijke strafgegevens voor zover dit noodzakelijk is voor de rechtspraak.
 
-#### Artikel 51f
+##### Artikel 51f
 
 1. De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=1&artikel=3&z=2025-07-01&g=2025-07-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=1&artikel=7&z=2025-07-01&g=2025-07-01), [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=1&artikel=7a&z=2025-07-01&g=2025-07-01), [7b](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=1&artikel=7b&z=2025-07-01&g=2025-07-01), [7d tot en met 7f](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=1&artikel=7d&z=2025-07-01&g=2025-07-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=2&artikel=15&z=2025-07-01&g=2025-07-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=2&artikel=16&z=2025-07-01&g=2025-07-01), [16a](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=2&artikel=16a&z=2025-07-01&g=2025-07-01), [17a](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=3&artikel=17a&z=2025-07-01&g=2025-07-01), [17b](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=3&artikel=17b&z=2025-07-01&g=2025-07-01) en [20 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=3&artikel=20&z=2025-07-01&g=2025-07-01), zijn van overeenkomstige toepassing op gerechtelijke strafgegevens.
 
@@ -1434,13 +1461,13 @@ De gerechten, bedoeld in [artikel 2 van de Wet op de rechterlijke organisatie](h
 
 3. De betrokkene heeft het recht om op diens schriftelijke verzoek binnen vier weken van een gerecht als bedoeld in [artikel 2 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=2) uitsluitsel te krijgen over de al dan niet verwerking van hem betreffende gerechtelijke strafgegevens en, wanneer dat het geval is, om die gerechtelijke strafgegevens in te zien en hierover de informatie, bedoeld in [artikel 18, onderdelen a tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=3&artikel=18&z=2025-07-01&g=2025-07-01), te verkrijgen. Het gerecht doet daarbij geen mededelingen in schriftelijke vorm over de verwerking van de betrokkene betreffende gerechtelijke strafgegevens, tenzij het gerecht weigert een mededeling te doen. Een gehele of gedeeltelijke afwijzing vindt schriftelijk plaats.
 
-#### Artikel 51g
+##### Artikel 51g
 
 1. De gerechtelijke strafgegevens worden verwijderd zodra die voor de gerechten, bedoeld in [artikel 2 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=2), niet langer noodzakelijk zijn voor de uitoefening van hun rechterlijke taken.
 
 2. De verwerkingsverantwoordelijke verstrekt gerechtelijke strafgegevens ten behoeve van de behandeling van strafzaken, in overeenstemming met het bepaalde bij of krachtens het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903).
 
-#### Artikel 51h
+##### Artikel 51h
 
 1. De [artikelen 26a tot en met 26e](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=3&artikel=26a&z=2025-07-01&g=2025-07-01), [26g](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=4&artikel=26g&z=2025-07-01&g=2025-07-01), [26h](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=4&artikel=26h&z=2025-07-01&g=2025-07-01) en [27, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=4&artikel=27&z=2025-07-01&g=2025-07-01), en [39c, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2A&afdeling=1&artikel=39c&z=2025-07-01&g=2025-07-01), zijn van overeenkomstige toepassing op gerechtelijke strafgegevens.
 
@@ -1474,7 +1501,7 @@ De gerechten, bedoeld in [artikel 2 van de Wet op de rechterlijke organisatie](h
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 35a
+##### Artikel 35a
 
 1. Onverminderd [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&titeldeel=2&afdeling=5&artikel=35&z=2025-07-01&g=2025-07-01) weigert Onze Minister de afgifte van een verklaring omtrent het gedrag voor bij ministeriële regeling aangewezen functies die een hoge mate van integriteit vereisen indien politiegegevens met betrekking tot de aanvrager blijk geven van verbanden tussen de aanvrager en strafbare feiten die zouden zijn of zullen worden gepleegd en die, gelet op de omstandigheden van het geval en het doel waarvoor de verklaring omtrent het gedrag wordt gevraagd, een risico vormen voor de uitoefening van de functie. Bij de beoordeling van de aanvraag wordt rekening gehouden met de aard, frequentie, actualiteit en onderlinge samenhang van de politiegegevens.
 
@@ -1512,7 +1539,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 2a
+##### Artikel 2a
 
 1. Onze Minister maakt gebruik van Ecris-TCN ten behoeve van de strafrechtspleging en daarnaast voor de volgende doelen:
 
@@ -1552,7 +1579,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 8b
+##### Artikel 8b
 
 Indien het openbaar ministerie deelneemt aan een samenwerkingsverband als bedoeld in de [Wet gegevensverwerking door samenwerkingsverbanden](https://wetten.overheid.nl/jci1.3:c:BWBR0049962), worden aan het samenwerkingsverband justitiële gegevens verstrekt, voor zover dit noodzakelijk is voor het doel van dat verband, tenzij naar het oordeel van de verwerkingsverantwoordelijke zwaarwegende redenen zich daartegen verzetten. Bij algemene maatregel van bestuur kunnen voorwaarden en beperkingen worden gesteld aan de verstrekkingen op grond van dit artikel.
 
@@ -1562,7 +1589,7 @@ Indien het openbaar ministerie deelneemt aan een samenwerkingsverband als bedoel
 
 ### Afdeling 2. Het verstrekken van strafvorderlijke gegevens
 
-#### Artikel 39fa
+##### Artikel 39fa
 
 Indien het openbaar ministerie deelneemt aan een samenwerkingsverband als bedoeld in de [Wet gegevensverwerking door samenwerkingsverbanden](https://wetten.overheid.nl/jci1.3:c:BWBR0049962), worden aan het samenwerkingsverband strafvorderlijke gegevens verstrekt, voor zover dit noodzakelijk is voor het doel van dat verband, tenzij naar het oordeel van de verwerkingsverantwoordelijke zwaarwegende redenen zich daartegen verzetten. Bij algemene maatregel van bestuur kunnen voorwaarden en beperkingen worden gesteld aan de verstrekkingen op grond van dit artikel.
 
@@ -1574,7 +1601,7 @@ Indien het openbaar ministerie deelneemt aan een samenwerkingsverband als bedoel
 
 ## Titel 3a. De verwerking van tenuitvoerleggingsgegevens
 
-#### Artikel 51ca
+##### Artikel 51ca
 
 Indien Onze Minister of het openbaar ministerie deelneemt aan een samenwerkingsverband als bedoeld in de [Wet gegevensverwerking door samenwerkingsverbanden](https://wetten.overheid.nl/jci1.3:c:BWBR0049962), worden aan het samenwerkingsverband tenuitvoerleggingsgegevens verstrekt, voor zover dit noodzakelijk is voor het doel van dat verband, tenzij naar het oordeel van de verwerkingsverantwoordelijke zwaarwegende redenen zich daartegen verzetten. Bij algemene maatregel van bestuur kunnen voorwaarden en beperkingen worden gesteld aan de verstrekkingen op grond van dit artikel.
 
@@ -1582,7 +1609,7 @@ Indien Onze Minister of het openbaar ministerie deelneemt aan een samenwerkingsv
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 39fb
+##### Artikel 39fb
 
 Indien het openbaar ministerie deelneemt aan een casusoverleg als bedoeld in de [Wet gegevensverwerking persoonsgerichte aanpak radicalisering en terroristische activiteiten](https://wetten.overheid.nl/jci1.3:c:BWBR0050740), worden aan het casusoverleg strafvorderlijke gegevens verstrekt, voor zover dat noodzakelijk is met het oog op het doel van het casusoverleg, tenzij naar het oordeel van de verwerkingsverantwoordelijke zwaarwegende redenen zich daartegen verzetten.
 
@@ -1592,7 +1619,7 @@ Indien het openbaar ministerie deelneemt aan een casusoverleg als bedoeld in de 
 
 ## Titel 3. De persoonsdossiers
 
-#### Artikel 51cb
+##### Artikel 51cb
 
 Indien Onze Minister of het openbaar ministerie deelneemt aan een casusoverleg als bedoeld in de [Wet gegevensverwerking persoonsgerichte aanpak radicalisering en terroristische activiteiten](https://wetten.overheid.nl/jci1.3:c:BWBR0050740), worden aan het casusoverleg tenuitvoerleggingsgegevens verstrekt, voor zover dat noodzakelijk is met het oog op het doel van het casusoverleg, tenzij naar het oordeel van de verwerkingsverantwoordelijke zwaarwegende redenen zich daartegen verzetten.
 

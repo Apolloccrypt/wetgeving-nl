@@ -1,13 +1,37 @@
 ---
-title: "Canadese uitvoeringsvoorschriften belastingovereenkomst Nederland-Canada"
+title: "Canadese voorschriften tot uitvoering van de op 27 mei 1986 tussen Nederland en Canada gesloten Overeenkomst tot het vermijden van dubbele belasting, zoals deze laatstelijk is gewijzigd bij het Protocol van 25 augustus 1997"
 identifier: "BWBR0010247"
-categorie: "Belastingrecht"
-publicatiedatum: 1999-02-10
-laatste_update: 1999-02-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010247"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1999-02-10"
+last_updated: "1999-02-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010247"
+soort: "ministeriele-regeling"
+stam_id: "5745353"
+version_id: "10296952"
+internal_id: "C13929881"
+label_id: "5725534"
+original_entry_into_force: "1999-02-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010247/1999-02-10/0"
+intitule_bron: "Stcrt.1999-26"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-01-29"
+intitule_published: "1999-02-08"
+intitule_in_force: "1999-02-08"
+intitule_status: "goed"
+original_publication: "Stcrt.1999-26"
+original_signed_date: "1999-01-29"
+original_published_date: "1999-02-08"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1999-02-10"
+jci_1_3: "jci1.3:c:BWBR0010247&z=1999-02-10&g=1999-02-10"
+jci_1_0: "1.0:c:BWBR0010247&g=1999-02-10"
+citeertitel_status: "officieel"
+short_title: "Canadese uitvoeringsvoorschriften belastingovereenkomst Nederland-Canada"
+signed_date: "1999-01-29"
+entry_into_force: "1999-02-10"
 ---
-
 # Canadese voorschriften tot uitvoering van de op 27 mei 1986 tussen Nederland en Canada gesloten Overeenkomst tot het vermijden van dubbele belasting, zoals deze laatstelijk is gewijzigd bij het Protocol van 25 augustus 1997
 
 Besluit:
@@ -18,7 +42,7 @@ Door plaatsing in de Staatscourant het navolgende ter kennis van belanghebbende 
 
 Besluit:
 
-#### Artikel 1. Aanspraken van inwoners van Nederland
+##### Artikel 1. Aanspraken van inwoners van Nederland
 
 Aan de op 27 mei 1986 tussen Nederland en Canada gesloten Overeenkomst tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen, en het Protocol bij die Overeenkomst, zoals deze Overeenkomst is gewijzigd bij het op 4 maart 1993 gesloten Protocol tot wijziging van de genoemde Overeenkomst en het op 25 augustus 1997 gesloten Protocol tot wijziging van de genoemde Overeenkomst, kunnen inwoners van Nederland onder meer de volgende aanspraken ontlenen, geregeld in de hieronder tussen haakjes vermelde artikelen van de gewijzigde Overeenkomst en onderdelen van het gewijzigde Protocol:
 
@@ -92,7 +116,7 @@ De onder de onderdelen a, b, g, j, k en m vermelde verminderingen zijn te bereke
 
 De onder de onderdelen a, b, en e tot en met j vermelde vrijstellingen en verminderingen zijn niet van toepassing indien de uiteindelijk gerechtigde tot de dividenden, de interest of de royalty's in Canada een bedrijf uitoefent door middel van een aldaar gevestigde vaste inrichting of in Canada zelfstandige arbeid verricht vanuit een aldaar gevestigd vast middelpunt, en het aandelenbezit uit hoofde waarvan de dividenden worden betaald, de vordering uit hoofde waarvan de interest wordt betaald of het recht of de zaak uit hoofde waarvan de royalty's verschuldigd zijn, tot het bedrijfsvermogen van die vaste inrichting of tot het beroepsvermogen van dat vaste middelpunt behoort ( artikel 10, vijfde lid, artikel 11, zesde lid en artikel 12, vijfde lid).
 
-#### Artikel 2. Canadese regeling
+##### Artikel 2. Canadese regeling
 
 Ter uitvoering van artikel 1 is van Canadese zijde de volgende regeling getroffen:
 
@@ -118,11 +142,11 @@ Ter uitvoering van artikel 1 is van Canadese zijde de volgende regeling getroffe
 
 - 6. Indien de belanghebbende het in lid 5 bedoelde formulier NR4B Supplementary niet heeft ontvangen, laat hij de rubriek 'CERTIFICATE OF TAX WITHHELD' op het formulier NR7-R invullen en ondertekenen door de betaler of 'disbursing agent' van de desbetreffende opbrengst. Deze persoon zorgt voor doorzending van het formulier NR7-R naar Revenue Canada, International Taxation Office, 2540 Lancaster Road, Ottawa, Ontario, K1A 1A8.
 
-#### Artikel 3. Intrekking
+##### Artikel 3. Intrekking
 
 De regeling van de Staatssecretaris van Financiën van 21 maart 1995, nr. IFZ95/315 U (Stcrt. van 28 maart 1995, nr. 62), wordt ingetrokken, met dien verstande dat de bepalingen van die regeling van toepassing blijven met betrekking tot aan de bron geheven belastingen op dividenden, interest, royalty's en sommige andere soorten van inkomsten die vóór 16 december 1998 zijn betaald, en voor andere belastingen van toepassing blijven met betrekking tot belastingjaren die aanvangen vóór 16 december 1998.
 
-#### Artikel 4. Inwerkingtreding
+##### Artikel 4. Inwerkingtreding
 
 1. Deze regeling kan worden aangehaald als: Canadese uitvoeringsvoorschriften belastingovereenkomst Nederland-Canada.
 

@@ -1,13 +1,35 @@
 ---
 title: "Protocol inzake het optreden in volle zee in gevallen van verontreiniging door andere stoffen dan olie, 1973"
 identifier: "BWBV0003247"
-categorie: "Internationaal recht"
-publicatiedatum: 2009-11-23
-laatste_update: 2004-06-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003247"
+country: "nl"
+rank: "verdrag"
+publication_date: "2009-11-23"
+last_updated: "2004-06-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003247"
+soort: "verdrag"
+stam_id: "10003427423"
+version_id: "10003472872"
+internal_id: "C10006999131"
+label_id: "10003413494"
+dtd_version: "2.0"
+original_entry_into_force: "1983-03-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003247/2009-11-23/0"
+intitule_bron: "Trb.1977-162"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1977-11-14"
+intitule_in_force: "1983-03-31"
+intitule_status: "goed"
+original_publication: "Trb.1977-162"
+original_published_date: "1977-11-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1977-162"
+entry_into_force_date: "1983-03-30"
+jci_1_3: "jci1.3:c:BWBV0003247&z=2009-11-23&g=2009-11-23"
+jci_1_0: "1.0:c:BWBV0003247&g=2009-11-23"
+citeertitel_status: "redactioneel"
+entry_into_force: "1983-03-30"
 ---
-
 # Protocol inzake het optreden in volle zee in gevallen van verontreiniging door andere stoffen dan olie, 1973
 
 De Partijen bij dit Protocol,
@@ -20,7 +42,7 @@ Voorts gelet op het feit dat ingevolge de Resolutie, de Intergouvernementele Mar
 
 Zijn overeengekomen als volgt:
 
-#### Artikel I
+##### Artikel I
 
 1. De Partijen bij dit Protocol kunnen in volle zee de maatregelen nemen die noodzakelijk zijn ter voorkoming, vermindering of opheffing van ernstig en dreigend gevaar voor hun kust of daarmede samenhangende belangen door verontreiniging of dreigende verontreiniging door andere stoffen dan olie, na een ongeval op zee of na met zulk een ongeval verband houdende handelingen, waarvan redelijkerwijs kan worden aangenomen dat zij zeer ernstige schade tot gevolg zullen hebben.
 
@@ -32,13 +54,13 @@ Zijn overeengekomen als volgt:
 
 3. Telkens wanneer een optredende Partij maatregelen neemt met betrekking tot een stof zoals bedoeld in het tweede lid, letter (b), rust op deze Partij de bewijslast dat de stof, onder de omstandigheden ten tijde van het optreden, naar redelijkerwijs kon worden aangenomen een ernstig en dreigend gevaar kon opleveren, overeenkomende met het gevaar dat een der andere stoffen opgesomd in de lijst bedoeld in het tweede lid, letter (a), oplevert.
 
-#### Artikel II
+##### Artikel II
 
 1. De bepalingen van [artikel I, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003246&artikel=I), en van de [artikelen II tot VIII van het Internationaal Verdrag inzake optreden in volle zee bij ongevallen die verontreiniging door olie kunnen veroorzaken, 1969,](https://wetten.overheid.nl/jci1.3:c:BWBV0003246&artikel=II) en de [Bijlage](onbekend) daarbij, voor zover zij betrekking hebben op olie, zijn van toepassing ten aanzien van de stoffen bedoeld in artikel I van dit Protocol.
 
 2. Voor toepassing van de bepalingen van dit Protocol wordt de lijst van deskundigen, bedoeld in de [artikelen III, letter (c)](https://wetten.overheid.nl/jci1.3:c:BWBV0003246&artikel=III), en [IV van dat Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003246&artikel=IV), uitgebreid, zodat zij deskundigen omvat die bevoegd zijn tot het geven van advies inzake andere stoffen dan olie. De Lid-Staten van de Organisatie en Partijen bij dit Protocol kunnen voordrachten doen voor die lijst.
 
-#### Artikel III
+##### Artikel III
 
 1. De in artikel I, tweede lid, letter a, bedoelde lijst wordt bijgehouden door de daartoe door de Organisatie aangewezen bevoegde instantie.
 
@@ -54,7 +76,7 @@ Zijn overeengekomen als volgt:
 
 7. Een wijziging die geacht wordt te zijn aanvaard overeenkomstig het zesde lid treedt in werking drie maanden na aanvaarding voor alle Partijen bij dit Protocol, met uitzondering van die Partijen die vóór die datum een verklaring van niet-aanvaarding van de betrokken wijziging hebben afgelegd.
 
-#### Artikel IV
+##### Artikel IV
 
 1. Dit Protocol staat open voor ondertekening door de Staten die het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003246) bedoeld in artikel II hebben ondertekend of daartoe zijn toegetreden, en door elke Staat die is uitgenodigd zich te doen vertegenwoordigen bij de Internationale Conferentie over verontreiniging van de zee, 1973. Het Protocol blijft van 15 januari 1974 tot 31 december 1974 op de zetel van de Organisatie opengesteld voor ondertekening.
 
@@ -64,19 +86,19 @@ Zijn overeengekomen als volgt:
 
 4. Alleen Staten, die het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003246) bedoeld in artikel II hebben bekrachtigd, aanvaard of goedgekeurd, of daartoe zijn toegetreden, kunnen dit Protocol bekrachtigen, aanvaarden of goedkeuren of ertoe toetreden.
 
-#### Artikel V
+##### Artikel V
 
 1. De bekrachtiging, aanvaarding, goedkeuring of toetreding geschiedt door de nederlegging van een daartoe strekkende akte bij de Secretaris-Generaal van de Organisatie.
 
 2. Alle akten van bekrachtiging, aanvaarding, goedkeuring of toetreding nedergelegd na de inwerkingtreding van een wijziging op dit Protocol ten aanzien van alle bestaande Partijen, of na de voltooiing van alle maatregelen, vereist voor de inwerkingtreding van de wijziging ten aanzien van alle bestaande Partijen, worden geacht van toepassing te zijn op het aldus gewijzigde Protocol.
 
-#### Artikel VI
+##### Artikel VI
 
 1. Dit Protocol treedt in werking op de negentigste dag na de datum waarop vijftien Staten akten van bekrachtiging, aanvaarding, goedkeuring of toetreding hebben nedergelegd bij de Secretaris-Generaal van de Organisatie, met dien verstande evenwel dat dit Protocol niet in werking treedt voordat het in artikel II bedoelde Verdrag in werking treedt.
 
 2. Ten aanzien van elke Staat die dit Protocol daarna bekrachtigt, aanvaardt, goedkeurt of ertoe toetreedt, treedt het Protocol in werking op de negentigste dag na nederlegging door die Staat van de daartoe strekkende akte.
 
-#### Artikel VII
+##### Artikel VII
 
 1. Na de datum waarop het voor een Partij in werking is getreden, kan die Partij dit Protocol te allen tijde opzeggen.
 
@@ -86,13 +108,13 @@ Zijn overeengekomen als volgt:
 
 4. Een opzegging door een Partij van het [Verdrag bedoeld in artikel II](https://wetten.overheid.nl/jci1.3:c:BWBV0003246) wordt geacht een opzegging van dit Protocol door die Partij te zijn. Een dergelijke opzegging wordt van kracht op dezelfde dag als waarop de opzegging van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003246) van kracht wordt overeenkomstig [artikel XII, derde lid, van dat Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003246&artikel=XII).
 
-#### Artikel VIII
+##### Artikel VIII
 
 1. De Organisatie kan een conferentie tot herziening of wijziging van dit Protocol bijeenroepen.
 
 2. De Organisatie roept een conferentie van de Partijen bij dit Protocol bijeen tot herziening of wijziging van dit Protocol op verzoek van ten minste een derde van de Partijen.
 
-#### Artikel IX
+##### Artikel IX
 
 1. Dit Protocol wordt nedergelegd bij de Secretaris-Generaal van de Organisatie.
 
@@ -110,11 +132,11 @@ Zijn overeengekomen als volgt:
 
 - (b). doet voor eensluidend gewaarmerkte afschriften van dit Protocol toekomen aan alle Staten die dit Protocol hebben ondertekend of daartoe zijn toegetreden.
 
-#### Artikel X
+##### Artikel X
 
 Zodra dit Protocol in werking treedt, wordt door de Secretaris-Generaal van de Organisatie een voor eensluidend gewaarmerkt afschrift toegezonden aan het Secretariaat van de Verenigde Naties ter registratie en publikatie overeenkomstig [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-#### Artikel XI
+##### Artikel XI
 
 Dit Protocol is, in een enkel oorspronkelijk exemplaar, opgesteld in de Engelse, de Franse, de Russische en de Spaanse taal, zijnde de vier teksten gelijkelijk authentiek.
 

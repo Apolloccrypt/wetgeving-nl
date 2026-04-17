@@ -1,34 +1,60 @@
 ---
-title: "Regeling specifieke uitkering controle naleving coronatoegangsbewijzen 2022"
+title: "Regeling van de Minister van Justitie en Veiligheid van 26 januari 2022, nr. 3774522, Directie Eigenaars advisering, houdende een eenmalige specifieke uitkering voor gemeenten in verband met de ondersteuning van de verplichte controle van coronatoegangsbewijzen bij voorzieningen en activiteiten (Regeling specifieke uitkering naleving controle coronatoegangsbewijzen 2022)"
 identifier: "BWBR0046265"
-categorie: "Sociaal recht"
-publicatiedatum: 2022-02-04
-laatste_update: 2022-02-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046265"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-02-04"
+last_updated: "2022-02-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046265"
+soort: "ministeriele-regeling"
+stam_id: "16255223"
+version_id: "28389242"
+internal_id: "C40041071"
+label_id: "16182354"
+dtd_version: "2.0"
+original_entry_into_force: "2022-02-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046265/2022-02-04/0"
+intitule_bron: "Stcrt.2022-3465"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-01-26"
+intitule_published: "2022-02-03"
+intitule_in_force: "2022-02-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-3465"
+original_signed_date: "2022-01-26"
+original_published_date: "2022-02-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-3465"
+entry_into_force_date: "2022-02-04"
+jci_1_3: "jci1.3:c:BWBR0046265&z=2022-02-04&g=2022-02-04"
+jci_1_0: "1.0:c:BWBR0046265&g=2022-02-04"
+citeertitel_status: "officieel"
+short_title: "Regeling specifieke uitkering controle naleving coronatoegangsbewijzen 2022"
+signed_date: "2022-01-26"
+entry_into_force: "2022-02-04"
 ---
-
 # Regeling van de Minister van Justitie en Veiligheid van 26 januari 2022, nr. 3774522, Directie Eigenaars advisering, houdende een eenmalige specifieke uitkering voor gemeenten in verband met de ondersteuning van de verplichte controle van coronatoegangsbewijzen bij voorzieningen en activiteiten (Regeling specifieke uitkering naleving controle coronatoegangsbewijzen 2022)
 
 Gelet op [artikel 17, vijfde lid, van de Financiële Verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
 - **Minister:** Minister van Justitie en Veiligheid.
 
-#### Artikel 2. Specifieke uitkering
+##### Artikel 2. Specifieke uitkering
 
 De Minister kan op aanvraag aan een gemeente eenmalig een specifieke uitkering verstrekken als bijdrage in de kosten die gemaakt worden om ondersteuning te bieden bij of nabij voorzieningen of activiteiten die op grond van die [Tijdelijke regeling maatregelen covid-19](https://wetten.overheid.nl/jci1.3:c:BWBR0044416) verplicht zijn om de coronatoegangsbewijzen te controleren en, onder omstandigheden, de toegang te ontzeggen en deze controle te bevorderen.
 
-#### Artikel 3. Hoogte specifieke uitkering
+##### Artikel 3. Hoogte specifieke uitkering
 
 De specifieke uitkering bedraagt ten hoogste het bedrag inclusief BTW, bij die gemeente opgenomen in de bijlage. [Artikel 4:25, tweede en derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:25) zijn van overeenkomstige toepassing.
 
-#### Artikel 4. Aanvraag
+##### Artikel 4. Aanvraag
 
 1. Een aanvraag bevat in ieder geval:
 
@@ -42,13 +68,13 @@ De specifieke uitkering bedraagt ten hoogste het bedrag inclusief BTW, bij die g
 
 3. De aanvraag wordt uiterlijk op 26 maart 2022 ingediend, met gebruikmaking van door de Minister ter beschikking gesteld digitaal aanvraagformulier.
 
-#### Artikel 5. Verlening en bevoorschotting
+##### Artikel 5. Verlening en bevoorschotting
 
 1. De Minister besluit over de aanvraag binnen dertien weken na ontvangst ervan.
 
 2. De Minister verstrekt een voorschot van 100% van de verleende specifieke uitkering.
 
-#### Artikel 6. Voor vergoeding in aanmerking komende kosten
+##### Artikel 6. Voor vergoeding in aanmerking komende kosten
 
 1. De uitkering wordt alleen verstrekt ter bekostiging van de over de periode van 1 januari 2022 tot en met 26 maart 2022 door de gemeente of in overeenstemming met de gemeente gemaakte kosten inclusief btw, die bijdragen aan het doel, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046265&artikel=2&z=2022-02-04&g=2022-02-04).
 
@@ -60,7 +86,7 @@ De specifieke uitkering bedraagt ten hoogste het bedrag inclusief BTW, bij die g
 
 - c. voor de kosten van activiteiten waarvoor op grond van de [Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629) recht op aftrek van omzetbelasting bestaat, dan wel recht bestaat op compensatie op grond van de [Wet op het btw-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817).
 
-#### Artikel 7. Verantwoording
+##### Artikel 7. Verantwoording
 
 1. De gemeente legt aan de Minister verantwoording af over de besteding van de specifieke uitkering op de wijze, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
@@ -70,7 +96,7 @@ De specifieke uitkering bedraagt ten hoogste het bedrag inclusief BTW, bij die g
 
 4. De gemeenten nemen de artikelen 107 en 108 van het Verdrag betreffende de Werking van de Europese Unie in acht bij de besteding van de specifieke uitkering.
 
-#### Artikel 8. Vaststelling en terugvordering
+##### Artikel 8. Vaststelling en terugvordering
 
 1. De Minister stelt de uitkering vast binnen zesentwintig weken na ontvangst van de in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046265&artikel=7&z=2022-02-04&g=2022-02-04), genoemde verantwoording, respectievelijk van de in het derde lid van dat artikel genoemde aanvulling.
 
@@ -86,11 +112,11 @@ De specifieke uitkering bedraagt ten hoogste het bedrag inclusief BTW, bij die g
 
 3. De Minister kan onverschuldigd betaalde bedragen terugvorderen.
 
-#### Artikel 9. Inwerkingtreding
+##### Artikel 9. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 10. Citeertitel
+##### Artikel 10. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering controle naleving coronatoegangsbewijzen 2022.
 

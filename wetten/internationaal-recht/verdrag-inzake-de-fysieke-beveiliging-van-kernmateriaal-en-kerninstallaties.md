@@ -1,13 +1,35 @@
 ---
 title: "Verdrag inzake de fysieke beveiliging van kernmateriaal en kerninstallaties"
 identifier: "BWBV0003800"
-categorie: "Internationaal recht"
-publicatiedatum: 2016-05-08
-laatste_update: 2016-05-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003800"
+country: "nl"
+rank: "verdrag"
+publication_date: "2016-05-08"
+last_updated: "2016-05-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003800"
+soort: "verdrag"
+stam_id: "10003715233"
+version_id: "10003776972"
+internal_id: "C10006980221"
+label_id: "10003700424"
+dtd_version: "2.0"
+original_entry_into_force: "1991-10-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003800/2016-05-08/0"
+intitule_bron: "Trb.1980-166"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1980-10-23"
+intitule_in_force: "1991-11-14"
+intitule_status: "goed"
+original_publication: "Trb.1980-166"
+original_published_date: "1980-10-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1980-166"
+entry_into_force_date: "1991-10-06"
+jci_1_3: "jci1.3:c:BWBV0003800&z=2016-05-08&g=2016-05-08"
+jci_1_0: "1.0:c:BWBV0003800&g=2016-05-08"
+citeertitel_status: "redactioneel"
+entry_into_force: "1991-10-06"
 ---
-
 # Verdrag inzake de fysieke beveiliging van kernmateriaal en kerninstallaties
 
 De Staten die partij zijn bij dit Verdrag,
@@ -44,7 +66,7 @@ Tevens erkennend dat de doeltreffende fysieke beveiliging van kernmateriaal en k
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -58,7 +80,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - e. „sabotage”: elk opzettelijk handelen gericht tegen een kerninstallatie of kernmateriaal dat wordt gebruikt, opgeslagen of vervoerd, dat direct of indirect de gezondheid en de veiligheid van personeel, het publiek of het milieu in gevaar zou kunnen brengen door blootstelling aan straling of het vrijkomen van radioactieve stoffen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Dit Verdrag is van toepassing op kernmateriaal gebruikt voor vreedzame doeleinden, tijdens het gebruik, de opslag en het vervoer ervan en op kerninstallaties gebruikt voor vreedzame doeleinden, echter met dien verstande dat de [artikelen drie](https://wetten.overheid.nl/jci1.3:c:BWBV0003800&artikel=3&z=2016-05-08&g=2016-05-08) en [vier](https://wetten.overheid.nl/jci1.3:c:BWBV0003800&artikel=4&z=2016-05-08&g=2016-05-08) en [artikel vijf, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003800&artikel=5&z=2016-05-08&g=2016-05-08), van dit Verdrag uitsluitend van toepassing zijn op dergelijk kernmateriaal tijdens het internationaal vervoer ervan.
 
@@ -76,11 +98,11 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 5. Dit Verdrag is niet van toepassing op kernmateriaal dat voor militaire doeleinden wordt gebruikt of bewaard, of op een kerninstallatie die dergelijk materiaal bevat.
 
-#### Artikel 3
+##### Artikel 3
 
 Elke Verdragsluitende Staat neemt, overeenkomstig zijn nationale wetgeving en het internationaal recht, de noodzakelijke maatregelen om, tijdens internationaal nucleair vervoer, het kernmateriaal dat zich op zijn grondgebied of aan boord van een onder zijn rechtsmacht vallend vaartuig of luchtvaartuig bevindt, voor zover dit vaartuig of luchtvaartuig aan het vervoer naar of van deze Staat deelneemt, zoveel mogelijk te beveiligen overeenkomstig de in bijlage I omschreven niveaus.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Iedere Verdragsluitende Staat voert geen kernmateriaal uit of laat de uitvoer ervan niet toe, tenzij deze Staat de zekerheid heeft ontvangen dat dit kernmateriaal tijdens het internationaal nucleair vervoer zal worden beveiligd overeenkomstig de in bijlage I omschreven niveaus.
 
@@ -96,7 +118,7 @@ Elke Verdragsluitende Staat neemt, overeenkomstig zijn nationale wetgeving en he
 
 7. Niets in dit artikel mag worden uitgelegd als enigerlei beperking van de territoriale soevereiniteit en rechtsmacht van een Staat, in het bijzonder met betrekking tot het luchtruim en de territoriale zee van deze Staat.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De Verdragsluitende Staten stellen elkaar rechtstreeks of door tussenkomst van de Internationale Organisatie voor Atoomenergie in kennis van hun contactorgaan met betrekking tot aangelegenheden die onder dit Verdrag vallen.
 
@@ -128,13 +150,13 @@ De wijze waarop deze samenwerking plaatsvindt, wordt door de betrokken Verdragsl
 
 5. Een Verdragsluitende Staat kan, indien nodig, met andere Verdragsluitende Staten overleg plegen of ermee samenwerken, rechtstreeks of door tussenkomst van de Internationale Organisatie voor Atoomenergie en andere relevante internationale organisaties, teneinde van hen richtsnoeren te verkrijgen betreffende het ontwerp, de handhaving en verbetering van zijn nationale systeem voor fysieke beveiliging van kernmateriaal dat op zijn nationale grondgebied wordt gebruikt, opgeslagen en vervoerd en van kerninstallaties.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De Verdragsluitende Staten nemen passende maatregelen die verenigbaar zijn met hun nationale recht teneinde het vertrouwelijk karakter te beschermen van inlichtingen die zij in vertrouwen uit hoofde van de bepalingen van dit Verdrag van een andere Verdragsluitende Staat ontvangen of in het kader van hun deelname aan een activiteit die wordt verricht ten behoeve van de uitvoering van dit Verdrag. Indien Verdragsluitende Staten in vertrouwen inlichtingen verschaffen aan internationale organisaties of aan Staten die geen partij zijn bij dit Verdrag, worden maatregelen getroffen teneinde te verzekeren dat het vertrouwelijk karakter van dergelijke inlichtingen gewaarborgd wordt. Een Verdragsluitende Partij die inlichtingen in vertrouwen heeft ontvangen van een andere Verdragsluitende Partij mag deze inlichtingen uitsluitend met toestemming van die andere Verdragsluitende Partij aan derden verstrekken.
 
 2. Van Verdragsluitende Staten wordt op grond van dit Verdrag niet verlangd dat zij inlichtingen verschaffen die zij niet mogen doorgeven ingevolge hun nationale wetgeving of wanneer zulks de veiligheid van de betrokken Staat of de fysieke beveiliging van kernmateriaal of kerninstallaties in gevaar zou brengen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het opzettelijk begaan van een van de volgende feiten:
 
@@ -172,7 +194,7 @@ wordt door iedere Verdragsluitende Staat in zijn nationale wetgeving strafbaar g
 
 2. Iedere Verdragsluitende Staat verbindt zich er toe op de in dit artikel genoemde strafbare feiten straffen te stellen die beantwoorden aan de ernst van deze feiten.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Iedere Verdragsluitende Staat neemt de maatregelen die nodig zijn om zijn bevoegdheid vast te leggen tot kennisneming van de in artikel 7 bedoelde strafbare feiten in de volgende gevallen:
 
@@ -186,17 +208,17 @@ wordt door iedere Verdragsluitende Staat in zijn nationale wetgeving strafbaar g
 
 4. Behalve de in het eerste en tweede lid bedoelde Staten, kunnen ook alle andere Verdragsluitende Staten die bij internationaal vervoer van kernmateriaal betrokken zijn als uitvoerende of invoerende Staat, bevoegdheid tot kennisneming van de in artikel 7 genoemde strafbare feiten vastleggen, overeenkomstig het internationale recht.
 
-#### Artikel 9
+##### Artikel 9
 
 Een Verdragsluitende Staat op het grondgebied waarvan de vermoedelijke dader zich bevindt, neemt, indien hij ervan overtuigd is dat de omstandigheden zulks wettigen, overeenkomstig zijn nationale wetgeving passende maatregelen, vrijheidsbeneming inbegrepen, ter verzekering van diens aanwezigheid met het oog op strafvervolging of uitlevering.
 
 De maatregelen die op grond van dit artikel worden genomen, worden onverwijld meegedeeld aan de Staten die overeenkomstig artikel 8 hun bevoegdheid dienen vast te leggen, en zo nodig aan alle andere betrokken Staten.
 
-#### Artikel 10
+##### Artikel 10
 
 De Verdragsluitende Staat op het grondgebied waarvan de vermoedelijke dader wordt aangetroffen is, indien hij hem niet uitlevert, verplicht de zaak, zonder enige uitzondering en zonder onnodig uitstel, overeenkomstig de wetgeving van deze Staat voor vervolging aan zijn bevoegde autoriteiten over te dragen.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De in artikel 7 genoemde strafbare feiten worden geacht in elk tussen de Verdragsluitende Staten bestaand uitleveringsverdrag te zijn begrepen als uitleveringsdelicten. De Verdragsluitende Staten verplichten zich ertoe deze strafbare feiten op te nemen als uitleveringsdelicten in ieder uitleveringsverdrag dat tussen hen wordt gesloten.
 
@@ -208,11 +230,11 @@ De uitlevering is onderworpen aan de overige voorwaarden, waarin het recht van d
 
 4. Voor uitlevering tussen Verdragsluitende Staten wordt elk van deze strafbare feiten beschouwd als niet alleen begaan op de plaats waar het is gepleegd, maar ook op het grondgebied van de Verdragsluitende Staten die overeenkomstig het eerste lid van artikel 8 hun bevoegdheid dienen vast te leggen.
 
-#### Artikel 12
+##### Artikel 12
 
 Een ieder tegen wie een strafvervolging wordt ingesteld op grond van een van de in artikel 7 genoemde strafbare feiten, geniet een eerlijke behandeling in elk stadium van de gerechtelijke procedure.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De Verdragsluitende Staten verlenen wederzijds de ruimst mogelijke rechtshulp in strafzaken wegens de in artikel 7 genoemde strafbare feiten, met inbegrip van de verschaffing van bewijsstukken waarover zij beschikken en die noodzakelijk zijn voor strafvervolging.
 
@@ -220,7 +242,7 @@ In alle gevallen is op de uitvoering van een verzoek om rechtshulp de wet van de
 
 2. Het bepaalde in het eerste lid laat verplichtingen uit hoofde van een ander bilateraal of multilateraal Verdrag dat geheel of gedeeltelijk de rechtshulp in strafzaken regelt of zal regelen, onverlet.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Iedere Verdragsluitende Staat stelt de Depositaris op de hoogte van de wetten en voorschriften uitgevaardigd ter uitvoering van dit Verdrag. De Depositaris brengt deze inlichtingen op geregelde tijdstippen ter kennis van alle Verdragsluitende Staten.
 
@@ -228,17 +250,17 @@ In alle gevallen is op de uitvoering van een verzoek om rechtshulp de wet van de
 
 3. In gevallen waarin een strafbaar feit betrekking heeft op het gebruik, de opslag of het vervoer op het nationale grondgebied van kernmateriaal, waarbij zowel de vermoedelijke dader als het kernmateriaal zich bevinden op het grondgebied van de Verdragsluitende Staat waar het strafbare feit is gepleegd, of in gevallen waarin een strafbaar feit betrekking heeft op een kerninstallatie en de vermoedelijke dader zich bevindt op het grondgebied van de Verdragssluitende Staat waar het strafbare feit is gepleegd, wordt niets in dit Verdrag uitgelegd als een verplichting van deze Verdragsluitende Staat om inlichtingen te verstrekken omtrent de strafrechtelijke procedures met betrekking tot dit strafbare feit.
 
-#### Artikel 15
+##### Artikel 15
 
 De Bijlagen bij dit Verdrag vormen een wezenlijk bestanddeel van het Verdrag.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Vijf jaar na de inwerkingtreding van de op 8 juli 2005 aangenomen wijziging roept de Depositaris een conferentie van de Verdragsluitende Staten bijeen teneinde de toepassing van het Verdrag te toetsen, alsmede de toereikendheid daarvan ten aanzien van de preambule, het geheel van de bepalingen en de Bijlagen in het licht van de situatie op dat tijdstip.
 
 2. Vervolgens kan de meerderheid van de Verdragsluitende Staten, met tussenpozen van ten minste vijf jaar, conferenties voor hetzelfde doel bijeenroepen door daartoe bij de Depositaris een voorstel in te dienen.
 
-#### Artikel 17
+##### Artikel 17
 
 1. In geval van een geschil tussen twee of meer Verdragsluitende Staten betreffende de uitlegging of de toepassing van het Verdrag, plegen de betrokken Verdragsluitende Staten onderling overleg om het geschil bij te leggen door onderhandeling of door enig ander vreedzaam middel tot regeling van geschillen, dat voor alle partijen bij het geschil aanvaardbaar is.
 
@@ -250,7 +272,7 @@ Indien de partijen bij het geschil binnen zes maanden na de dagtekening van het 
 
 4. Iedere Verdragsluitende Staat die een voorbehoud heeft gemaakt overeenkomstig de bepalingen van het derde lid van dit artikel, kan te allen tijde zijn voorbehoud intrekken door middel van een kennisgeving aan de Depositaris.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Dit Verdrag staat open voor ondertekening door alle Staten op het Hoofdkantoor van de Internationale Organisatie voor Atoomenergie te Wenen, en op het Hoofdkantoor van de Organisatie van de Verenigde Naties te New York, vanaf 3 maart 1980 tot aan het tijdstip waarop het in werking treedt.
 
@@ -268,25 +290,25 @@ Indien de partijen bij het geschil binnen zes maanden na de dagtekening van het 
 
 5. De akten van bekrachtiging, aanvaarding, goedkeuring of toetreding worden bij de Depositaris nedergelegd.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Dit Verdrag treedt in werking op de dertigste dag, volgend op de datum waarop de eenentwintigste akte van bekrachtiging, aanvaarding of goedkeuring bij de Depositaris is nedergelegd.
 
 2. Voor iedere Staat die het Verdrag bekrachtigt, aanvaardt, goedkeurt of ertoe toetreedt na de nederlegging van de eenentwintigste akte van bekrachtiging, aanvaarding of goedkeuring, treedt het Verdrag in werking op de dertigste dag na de nederlegging van de akte van bekrachtiging, aanvaarding, goedkeuring of toetreding door deze Staat.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Onverminderd het bepaalde in artikel 16 kan een Verdragsluitende Staat een wijziging van dit Verdrag voorstellen. De voorgestelde wijziging wordt toegezonden aan de Depositaris, die hiervan onverwijld mededeling doet aan alle Verdragsluitende Staten. Indien de meerderheid van de Verdragsluitende Staten de Depositaris verzoekt een vergadering bijeen te roepen teneinde de voorgestelde wijzigingen te behandelen, dan zendt de Depositaris aan alle Verdragsluitende Staten een uitnodiging voor een vergadering, die niet eerder mag beginnen dan 30 dagen na het verzenden van de uitnodigingen. Elke wijziging die op deze vergadering door een tweederde meerderheid van alle Verdragsluitende Staten wordt aangenomen, wordt onmiddellijk door de Depositaris aan alle Verdragsluitende Staten meegedeeld.
 
 2. De wijziging wordt van kracht voor iedere Verdragsluitende Staat die een akte van bekrachtiging, aanvaarding of goedkeuring van deze wijziging heeft nedergelegd, op de dertigste dag na de datum waarop tweederde van de Verdragsluitende Staten hun akten van bekrachtiging, aanvaarding of goedkeuring heeft nedergelegd bij de Depositaris. Daarna wordt de wijziging voor elke andere Verdragsluitende Staat van kracht op de dag waarop deze Staat zijn akte van bekrachtiging, aanvaarding of goedkeuring van de wijziging heeft nedergelegd.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Iedere Verdragsluitende Staat kan dit Verdrag opzeggen door middel van een schriftelijke kennisgeving aan de Depositaris.
 
 2. De opzegging wordt van kracht honderdtachtig dagen na de datum waarop de Depositaris de kennisgeving heeft ontvangen.
 
-#### Artikel 22
+##### Artikel 22
 
 De Depositaris geeft alle Verdragsluitende Staten onverwijld kennis van:
 
@@ -304,17 +326,17 @@ De Depositaris geeft alle Verdragsluitende Staten onverwijld kennis van:
 
 - g. elke opzegging overeenkomstig artikel 21.
 
-#### Artikel 23
+##### Artikel 23
 
 Het oorspronkelijke exemplaar van dit Verdrag, waarvan de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse tekst gelijkelijk authentiek zijn, wordt nedergelegd bij de Directeur-Generaal van de Internationale Organisatie voor Atoomenergie, die daarvan voor eensluidend gewaarmerkte afschriften doet toekomen aan de Staten die dit Verdrag hebben ondertekend.
 
 IN WITNESS WHEREOF, the undersigned, being duly authorized, have signed this Convention, opened for signature at Vienna and at New York on 3 March 1980.
 
-#### Artikel 1A
+##### Artikel 1A
 
 De doelstellingen van dit Verdrag zijn het bereiken en handhaven van een doeltreffende wereldwijde fysieke beveiliging van kernmateriaal gebruikt voor vreedzame doeleinden en van kerninstallaties gebruikt voor vreedzame doeleinden; het voorkomen en bestrijden van strafbare feiten met betrekking tot dergelijk materiaal en dergelijke installaties over de hele wereld en tevens het vergemakkelijken van de samenwerking daartoe tussen de Verdragsluitende Staten.
 
-#### Artikel 2A
+##### Artikel 2A
 
 1. Elke Verdragsluitende Staat stelt een passend stelsel in voor de fysieke beveiliging van kernmateriaal en kerninstallaties die onder zijn rechtsmacht vallen, voert het uit en handhaaft het, met het oog op:
 
@@ -388,15 +410,15 @@ De Staat dient vereisten vast te stellen ter bescherming van de vertrouwelijkhei
 
 - b. Kernmateriaal waarop de bepalingen van dit artikel ingevolge onderdeel a niet van toepassing zijn, dient te worden beschermd overeenkomstig zorgvuldige beheersmethoden.
 
-#### Artikel 11A
+##### Artikel 11A
 
 Geen van de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003800&artikel=7&z=2016-05-08&g=2016-05-08) omschreven strafbare feiten wordt, ten behoeve van uitlevering of wederzijdse rechtshulp, aangemerkt als een politiek delict, een met een politiek delict samenhangend feit of een feit ingegeven door politieke motieven. Bijgevolg mag een verzoek om uitlevering of wederzijdse rechtshulp op basis van een dergelijk strafbaar feit niet worden geweigerd met als enige reden dat het een politiek delict, een met een politiek delict samenhangend delict of een delict ingegeven door politieke motieven betreft.
 
-#### Artikel 11B
+##### Artikel 11B
 
 Niets in dit Verdrag wordt zo uitgelegd dat het verplicht tot uitlevering of tot het verlenen van wederzijdse rechtshulp in gevallen waarin de aangezochte Verdragsluitende Staat ernstige redenen heeft om aan te nemen dat het verzoek tot uitlevering vanwege in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003800&artikel=7&z=2016-05-08&g=2016-05-08) omschreven strafbare feiten of tot wederzijdse rechtshulp met betrekking tot dergelijke feiten is gedaan met de bedoeling een persoon te vervolgen of te bestraffen op grond van zijn ras, godsdienst, nationaliteit, etnische afkomst of politieke overtuiging of dat inwilliging van het verzoek de positie van betrokkene om een van deze redenen ongunstig zou kunnen beïnvloeden.
 
-#### Artikel 13A
+##### Artikel 13A
 
 Dit Verdrag laat onverlet de overdracht van nucleaire technologie voor vreedzame doeleinden bedoeld om de fysieke beveiliging van kernmateriaal en kerninstallaties te versterken.
 

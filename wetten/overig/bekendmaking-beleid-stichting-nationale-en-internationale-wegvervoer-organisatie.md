@@ -1,13 +1,36 @@
 ---
-title: "Bekendmaking beleid Stichting Nationale en Internationale Wegvervoer Organisatie"
+title: "Bekendmaking van de Stichting Nationale en Internationale Wegvervoer Organisatie (NIWO) van 15 mei 1996, (Stcrt. 1996, nr. 93), houdende bekendmaking beleid NIWO, in werking getreden op 1 juni 1996, zoals laatstelijk gewijzigd bij bekendmaking van 10 juli 2006 (Stcrt. 2006, nr. 131)"
 identifier: "BWBR0033136"
-categorie: "Overig"
-publicatiedatum: 2006-07-10
-laatste_update: 2006-07-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033136"
+country: "nl"
+rank: "zbo"
+publication_date: "2006-07-10"
+last_updated: "2006-07-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033136"
+soort: "zbo"
+stam_id: "12174703"
+version_id: "20335042"
+internal_id: "C28604391"
+label_id: "12146264"
+dtd_version: "2.0"
+original_entry_into_force: "2006-07-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033136/2006-07-10/0"
+intitule_bron: "Stcrt.2006-131"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2006-07-10"
+intitule_in_force: "2006-07-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-131"
+original_published_date: "2006-07-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-131-p20-SC75981"
+entry_into_force_date: "2006-07-10"
+jci_1_3: "jci1.3:c:BWBR0033136&z=2006-07-10&g=2006-07-10"
+jci_1_0: "1.0:c:BWBR0033136&g=2006-07-10"
+citeertitel_status: "redactioneel"
+short_title: "Bekendmaking beleid Stichting Nationale en Internationale Wegvervoer Organisatie"
+entry_into_force: "2006-07-10"
 ---
-
 # Bekendmaking van de Stichting Nationale en Internationale Wegvervoer Organisatie (NIWO) van 15 mei 1996, (Stcrt. 1996, nr. 93), houdende bekendmaking beleid NIWO, in werking getreden op 1 juni 1996, zoals laatstelijk gewijzigd bij bekendmaking van 10 juli 2006 (Stcrt. 2006, nr. 131)
 
 De NIWO bepaalt, gelet op de [Wet goederenvervoer over de weg](https://wetten.overheid.nl/jci1.3:c:BWBR0005443), het [Besluit goederenvervoer over de weg](https://wetten.overheid.nl/jci1.3:c:BWBR0005496) en de ministeriële regelingen ter uitvoering van wet en besluit, het navolgende:

@@ -1,13 +1,37 @@
 ---
 title: "Subsidieregeling milieu- en energie-efficiency in het goederenvervoer 2002"
 identifier: "BWBR0013040"
-categorie: "Milieu"
-publicatiedatum: 2006-04-20
-laatste_update: 2006-04-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013040"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2006-04-20"
+last_updated: "2006-04-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013040"
+soort: "ministeriele-regeling"
+stam_id: "5557423"
+version_id: "9964352"
+internal_id: "C13449781"
+label_id: "5529274"
+dtd_version: "2.0"
+original_entry_into_force: "2002-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013040/2006-04-20/0"
+intitule_bron: "Stcrt.2001-237"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-11-27"
+intitule_published: "2001-12-06"
+intitule_in_force: "2001-12-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2001-237"
+original_signed_date: "2001-11-27"
+original_published_date: "2001-12-06"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2002-01-01"
+jci_1_3: "jci1.3:c:BWBR0013040&z=2006-04-20&g=2006-04-20"
+jci_1_0: "1.0:c:BWBR0013040&g=2006-04-20"
+citeertitel_status: "officieel"
+signed_date: "2001-11-27"
+entry_into_force: "2002-01-01"
 ---
-
 # Subsidieregeling milieu- en energie-efficiency in het goederenvervoer 2002
 
 Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009196&artikel=3) en [4 van de Kaderwet subsidies Verkeer en Waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0009196&artikel=4);
@@ -16,11 +40,11 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-#### Artikel 2
+##### Artikel 2
 
 1. De minister stelt ieder kalenderjaar een of meer programma's vast. Een programma bevat een beschrijving van met elkaar samenhangende doelstellingen en soorten projecten, gericht op het bevorderen van de milieu- en energie-efficiency in het goederenvervoer door middel van verdere ontwikkeling van logistiek, transport en technologie die tot een geringere uitstoot van CO
 
@@ -36,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 3. Indien bij de bekendmaking, bedoeld in het tweede lid, uitsluitend de zakelijke inhoud van het programma wordt bekendgemaakt, worden plaats en tijdstip van de terinzagelegging van de tekst van het programma vermeld.
 
-#### Artikel 3
+##### Artikel 3
 
 Op een overeenkomstig deze regeling ingediende aanvraag wordt slechts subsidie verstrekt, indien de aanvrager in Nederland een project uitvoert, dat naar het oordeel van de programmabeheerder:
 
@@ -46,7 +70,7 @@ Op een overeenkomstig deze regeling ingediende aanvraag wordt slechts subsidie v
 
 - c. voldoende bijdraagt aan de realisering van de doelstellingen van dat programma.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De hoogte van de subsidie wordt bepaald met inachtneming van:
 
@@ -70,7 +94,7 @@ Op een overeenkomstig deze regeling ingediende aanvraag wordt slechts subsidie v
 
 4. In een programma als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013040&paragraaf=1&artikel=2&z=2006-04-20&g=2006-04-20) kan een absoluut maximum bedrag worden vastgesteld, al dan niet per categorie subsidieontvangers.
 
-#### Artikel 5
+##### Artikel 5
 
 De in artikel 4, tweede lid, gestelde maximumpercentages voor een onderzoeks- of ontwikkelingsproject, een praktijkexperiment of een demonstratieproject kunnen worden verhoogd met:
 
@@ -78,7 +102,7 @@ De in artikel 4, tweede lid, gestelde maximumpercentages voor een onderzoeks- of
 
 - b. ten hoogste 15 procentpunten, indien het project aansluit bij de specifieke doelstellingen, taken en technische oogmerken van de werkprogramma's `vervoer', `THERMIE', `industrie- en materiaaltechnologie', `informatietechnologie', `telematicatechnologie' en `geavanceerde communicatietechnologie en -diensten' van het vierde kaderprogramma en volgende voor Onderzoek en Technologische Ontwikkeling of het SAVE-programma, met dien verstande dat het project is gericht op het uitvoeren van onderzoek dat in verschillende sectoren kan worden toegepast en blijk geeft van een multidisciplinaire aanpak.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Indien aan een aanvrager subsidie wordt verstrekt voor een combinatie van projecten die betrekking hebben op hetzelfde logistiek systeem of verkeers- vervoertechniek bedraagt die subsidie ten hoogste het gewogen gemiddelde van de voor de desbetreffende projecten geldende maximumpercentages, bedoeld in de artikelen 4 en 5.
 
@@ -88,7 +112,7 @@ De in artikel 4, tweede lid, gestelde maximumpercentages voor een onderzoeks- of
 
 4. Aan een aanvrager wordt per logistiek systeem of verkeers- en vervoertechniek niet meer dan € 226.860,- subsidie verstrekt.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Als projectkosten worden uitsluitend in aanmerking genomen de volgende noodzakelijke, rechtstreeks aan het project toe te rekenen en door de aanvrager gemaakte en betaalde kosten:
 
@@ -108,7 +132,7 @@ De in artikel 4, tweede lid, gestelde maximumpercentages voor een onderzoeks- of
 
 #### § 2. Aanvraag en subsidieverlening
 
-#### Artikel 8
+##### Artikel 8
 
 1. Een aanvraag wordt ingediend bij de programmabeheerder met gebruikmaking van een bij de programmabeheerder verkrijgbaar formulier, en gaat vergezeld van de in het aanvraagformulier aangegeven bewijsstukken.
 
@@ -116,7 +140,7 @@ De in artikel 4, tweede lid, gestelde maximumpercentages voor een onderzoeks- of
 
 3. In afwijking op het tweede lid kan de programmabeheerder op aanvragen beslissen op basis van een tendersysteem indien dat is aangegeven in het programma als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013040&paragraaf=1&artikel=2&z=2006-04-20&g=2006-04-20). In dat geval worden in het programma tevens de criteria aangegeven ter beoordeling van de aanvragen in een tendersysteem.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De aanvrager is verplicht de programmabeheerder, of door hem aangewezen personen:
 
@@ -128,7 +152,7 @@ De in artikel 4, tweede lid, gestelde maximumpercentages voor een onderzoeks- of
 
 2. De programmabeheerder kan, alvorens op een aanvraag te beslissen, advies van derden inwinnen.
 
-#### Artikel 10
+##### Artikel 10
 
 De programmabeheerder beschikt in ieder geval afwijzend op een aanvraag:
 
@@ -136,7 +160,7 @@ De programmabeheerder beschikt in ieder geval afwijzend op een aanvraag:
 
 - b. indien de aanvrager niet aannemelijk heeft gemaakt dat hem met inbegrip van de subsidie voldoende financiële middelen ter beschikking staan om het project uit te voeren.
 
-#### Artikel 11
+##### Artikel 11
 
 De beschikking tot subsidieverlening bevat:
 
@@ -150,7 +174,7 @@ De beschikking tot subsidieverlening bevat:
 
 - e. het tijdvak waarin het project wordt uitgevoerd.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De programmabeheerder kan de subsidie-ontvanger bij de subsidieverlening verplichtingen opleggen die strekken tot verwezenlijking van het doel van de subsidie.
 
@@ -158,7 +182,7 @@ De beschikking tot subsidieverlening bevat:
 
 3. Artikel 9, eerste lid, is van toepassing.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De subsidie-ontvanger voert het project uit overeenkomstig het bepaalde in de beschikking, bedoeld in artikel 12, behoudens voorafgaande schriftelijke toestemming van de programmabeheerder voor het essentieel wijzigen, vertragen of stopzetten van het project.
 
@@ -166,7 +190,7 @@ De beschikking tot subsidieverlening bevat:
 
 3. De programmabeheerder kan bij de toestemming, bedoeld in het eerste lid, verplichtingen opleggen aan de subsidie-ontvanger.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De subsidie-ontvanger voert een administratie die zodanig is ingericht, dat daaruit te allen tijde op eenvoudige en duidelijke wijze alle, in artikel 7 onderscheiden, projectkosten kunnen worden afgelezen, met dien verstande dat ter zake van de loonkosten een urenverantwoording per werknemer aanwezig is.
 
@@ -176,7 +200,7 @@ De beschikking tot subsidieverlening bevat:
 
 - b. alle overige omstandigheden die van invloed kunnen zijn op de subsidie en een doelmatige aanwending daarvan.
 
-#### Artikel 15
+##### Artikel 15
 
 In geval van een demonstratieproject is de subsidie-ontvanger in ieder geval verplicht tot:
 
@@ -186,7 +210,7 @@ In geval van een demonstratieproject is de subsidie-ontvanger in ieder geval ver
 
 - c. het zonder vergoeding aan de programmabeheerder verstrekken van alle door de programmabeheerder gewenste, met het project verband houdende informatie.
 
-#### Artikel 16
+##### Artikel 16
 
 De subsidie-ontvanger is verplicht:
 
@@ -196,7 +220,7 @@ De subsidie-ontvanger is verplicht:
 
 #### § 3. Voorschotten
 
-#### Artikel 17
+##### Artikel 17
 
 1. Op verzoek van de subsidie-ontvanger verleent de programmabeheerder ten hoogste eenmaal per kalendermaand een voorschot op basis van de bij het verzoek gevoegde declaraties.
 
@@ -204,17 +228,17 @@ De subsidie-ontvanger is verplicht:
 
 3. In afwijking op het eerste en tweede lid kan in een programma als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013040&paragraaf=1&artikel=2&z=2006-04-20&g=2006-04-20) een nadere invulling van hetgeen in het eerste en tweede lid is opgenomen worden vastgesteld.
 
-#### Artikel 18
+##### Artikel 18
 
 Het voorschot betreft de door de subsidie-ontvanger gemaakte en betaalde projectkosten. In totaal is het bedrag aan verleende voorschotten niet groter dan 80 procent van de subsidieverlening.
 
-#### Artikel 19
+##### Artikel 19
 
 De programmabeheerder weigert een voorschot indien de subsidie-ontvanger niet heeft voldaan aan de aan de subsidie verbonden verplichtingen.
 
 #### § 4. Subsidievaststelling
 
-#### Artikel 20
+##### Artikel 20
 
 1. De subsidie-ontvanger dient binnen 13 weken na afloop van de periode, bedoeld in artikel 11, onder e, bij de programmabeheerder een verzoek tot vaststelling van de subsidie in dat vergezeld gaat van:
 
@@ -228,15 +252,15 @@ De programmabeheerder weigert een voorschot indien de subsidie-ontvanger niet he
 
 #### § 5. Slotbepalingen
 
-#### Artikel 21
+##### Artikel 21
 
 De Subsidieregeling milieu- en energie-efficiency in het goederenvervoer wordt ingetrokken.
 
-#### Artikel 22
+##### Artikel 22
 
 Deze regeling treedt in werking met ingang van 1 januari 2002.
 
-#### Artikel 23
+##### Artikel 23
 
 Deze regeling wordt aangehaald als: Subsidieregeling milieu- en energie-efficiency in het goederenvervoer 2002.
 

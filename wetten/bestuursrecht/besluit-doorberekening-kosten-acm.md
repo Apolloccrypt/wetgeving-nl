@@ -1,13 +1,39 @@
 ---
-title: "Besluit doorberekening kosten ACM"
+title: "Besluit van 27 oktober 2014, houdende regels inzake het door de ACM ten laste brengen van kosten aan marktorganisaties (Besluit doorberekening kosten ACM)"
 identifier: "BWBR0035712"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035712"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035712"
+soort: "AMvB"
+stam_id: "12827563"
+version_id: "21791482"
+internal_id: "C31276621"
+label_id: "12797384"
+dtd_version: "2.0"
+original_entry_into_force: "2015-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035712/2026-01-01/0"
+intitule_bron: "Stb.2014-406"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-10-27"
+intitule_published: "2014-10-31"
+intitule_in_force: "2014-07-15"
+intitule_status: "goed"
+original_publication: "Stb.2014-406"
+original_signed_date: "2014-10-27"
+original_published_date: "2014-10-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2014-406"
+entry_into_force_date: "2015-01-01"
+jci_1_3: "jci1.3:c:BWBR0035712&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0035712&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit doorberekening kosten ACM"
+signed_date: "2014-10-27"
+entry_into_force: "2015-01-01"
 ---
-
 # Besluit van 27 oktober 2014, houdende regels inzake het door de ACM ten laste brengen van kosten aan marktorganisaties (Besluit doorberekening kosten ACM)
 
 Op de voordracht van Onze Minister van Economische Zaken van 14 juli 2014, nr. WJZ / 14115872;
@@ -24,7 +50,7 @@ Treedt in werking op het tijdstip waarop het in artikel I, onderdeel E, van de W
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -36,13 +62,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - **wet:** de [Instellingswet Autoriteit Consument en Mark](https://wetten.overheid.nl/jci1.3:c:BWBR0033043)t.
 
-#### Artikel 2
+##### Artikel 2
 
 De bedragen worden door de ACM aan marktorganisaties in rekening gebracht en door de ACM geïnd.
 
 ### Hoofdstuk 2. Kosten van beschikkingen die worden doorberekend aan de marktorganisatie aan wie de beschikking is gericht of die de aanvraag heeft gedaan
 
-#### Artikel 3
+##### Artikel 3
 
 1. Dit hoofdstuk is van toepassing op de doorberekening van de kosten van de beschikkingen, bedoeld in [artikel 4, eerste lid, onderdelen a, b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=2&artikel=4&z=2026-01-01&g=2026-01-01).
 
@@ -50,7 +76,7 @@ De bedragen worden door de ACM aan marktorganisaties in rekening gebracht en doo
 
 3. Niet doorberekend worden de kosten samenhangend met een beschikking van de ACM om een aanvraag tot het geven van een beschikking niet te behandelen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De kosten van beschikkingen van de ACM worden niet overeenkomstig dit hoofdstuk doorberekend, met uitzondering van de kosten van:
 
@@ -64,17 +90,17 @@ De bedragen worden door de ACM aan marktorganisaties in rekening gebracht en doo
 
 2. De bedragen die in rekening worden gebracht voor de doorberekening van de kosten van de beschikkingen, bedoeld in het eerste lid, onderdeel a, kunnen voor verschillende aantallen of soorten nummers verschillend worden vastgesteld.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het bedrag dat is verschuldigd voor het geven van een beschikking is een bedrag dat wordt gebaseerd op de gemiddelde kosten samenhangend met het geven van die beschikking.
 
 2. Voor de toepassing van het eerste lid wordt ten aanzien van een beschikking als bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=2&artikel=4&z=2026-01-01&g=2026-01-01), geen onderscheid gemaakt tussen besluiten tot het inwilligen van een beschikkingsaanvraag en besluiten tot het geheel of gedeeltelijk afwijzen van een dergelijke aanvraag.
 
-#### Artikel 6
+##### Artikel 6
 
 Indien een door de ACM in behandeling genomen aanvraag van een marktorganisatie tot het geven van een beschikking als bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=2&artikel=4&z=2026-01-01&g=2026-01-01), wordt ingetrokken voordat de ACM een besluit op de aanvraag heeft genomen, brengt de ACM het bedrag dat is verschuldigd voor het geven van de desbetreffende beschikking ten laste van de betreffende marktorganisatie.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De ACM verzendt de beschikking tot betaling tegelijk met de bekendmaking van de beschikking waarvoor het bedrag in rekening wordt gebracht.
 
@@ -84,7 +110,7 @@ Indien een door de ACM in behandeling genomen aanvraag van een marktorganisatie 
 
 ### Hoofdstuk 3. Kosten die door middel van toerekening worden doorberekend aan marktorganisaties
 
-#### Artikel 8
+##### Artikel 8
 
 1. Dit hoofdstuk is van toepassing op de doorberekening van de kosten van de ACM, met uitzondering van de kosten waarvan de doorberekening wordt geregeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=2&z=2026-01-01&g=2026-01-01).
 
@@ -104,7 +130,7 @@ Indien een door de ACM in behandeling genomen aanvraag van een marktorganisatie 
 
 - g. van het toezicht dat de ACM houdt op de naleving van het bepaalde bij of krachtens de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368), met uitzondering van het toezicht dat de ACM houdt op de naleving, door betaalkaartschema’s, uitgevers en accepteerders, van verordening (EU) nr. 2015/751 van het Europees Parlement en de Raad van 29 april 2015 betreffende afwikkelingsvergoedingen voor op kaarten gebaseerde betalingstransacties (PbEU 2015, L 123).
 
-#### Artikel 9
+##### Artikel 9
 
 1. De bedragen gelden gedurende één kalenderjaar en worden jaarlijks vóór 1 mei vastgesteld.
 
@@ -114,7 +140,7 @@ Indien een door de ACM in behandeling genomen aanvraag van een marktorganisatie 
 
 4. Indien vanwege faillissement toegevoegde bedragen in rekening waren gebracht bij marktorganisaties die failliet zijn verklaard maar waarvan de boedel nog niet is vereffend, trekt de ACM de daarmee samenhangende aan die marktorganisaties gegeven beschikkingen tot betaling in.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Voor de berekening van de bedragen worden de kosten toegerekend aan categorieën van gelijksoortige werkzaamheden of diensten, waarbij:
 
@@ -160,11 +186,11 @@ Indien een door de ACM in behandeling genomen aanvraag van een marktorganisatie 
 
 3. Bij ministeriële regeling kunnen per categorie subcategorieën van gelijksoortige werkzaamheden of diensten worden vastgesteld. Op deze subcategorieën is het eerste lid van overeenkomstige toepassing.
 
-#### Artikel 11
+##### Artikel 11
 
 De ACM maakt voor de toepassing van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=3&artikel=10&z=2026-01-01&g=2026-01-01) gebruik van een kostentoerekeningssysteem dat zodanig is ingericht dat daaruit op eenduidige en inzichtelijke wijze de kosten van de desbetreffende categorieën van gelijksoortige werkzaamheden of diensten kunnen worden afgeleid.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Voor de toepassing van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=3&z=2026-01-01&g=2026-01-01) van dit besluit wordt onder relevante omzet verstaan de omzet die een tot een bepaalde categorie behorende marktorganisatie in Nederland heeft behaald met activiteiten waarop de taakuitvoering van de ACM in die categorie betrekking heeft.
 
@@ -180,7 +206,7 @@ De ACM maakt voor de toepassing van [artikel 10](https://wetten.overheid.nl/jci1
 
 7. In afwijking van het tweede lid worden de aan de in [artikel 10, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=3&artikel=10&z=2026-01-01&g=2026-01-01), bedoelde categorie toegerekende kosten aan marktorganisaties toegedeeld naar rato van het aantal betalingstransacties met consumentenkaarten dat heeft plaats gehad waarbij marktorganisaties als betaalkaartschema, uitgever dan wel accepteerder betrokken zijn in het kalenderjaar voorafgaand aan het jaar waarover de kosten worden doorberekend. Hierbij is het aantal transacties beperkt tot die transacties waarbij het verkooppunt, de uitgever en de accepteerder zich in Nederland bevinden. Bij ministeriële regeling wordt geregeld beneden welk aantal transacties aan een marktorganisatie geen bedrag in rekening wordt gebracht.
 
-#### Artikel 12a. (opgave omzet peiljaar)
+##### Artikel 12a. (opgave omzet peiljaar)
 
 1. Een marktorganisatie behorend tot een in [artikel 10, tweede lid, onderdeel a, onder 1°, 2° of 5°, onderdeel b, onder 2° of 3°, onderdeel c, onder 1°, of onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=3&artikel=10&z=2026-01-01&g=2026-01-01), genoemde categorie, verstrekt vóór 1 januari van het kalenderjaar waarvoor de bedragen worden vastgesteld aan de ACM een opgave van de in het betrokken peiljaar behaalde relevante omzet, tenzij de ACM de marktorganisatie heeft laten weten reeds over de betreffende gegevens te beschikken.
 
@@ -202,7 +228,7 @@ De ACM maakt voor de toepassing van [artikel 10](https://wetten.overheid.nl/jci1
 
 10. Bij ministeriële regeling kan de relevante omzet worden bepaald beneden welke een marktorganisatie, in afwijking van het eerste lid, eenmaal per drie jaar een opgave van haar relevante omzet dient te verstrekken. Deze omzet kan voor de verschillende categorieën verschillend worden vastgesteld.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Ingeval van een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b) wordt in afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=1&artikel=2&z=2026-01-01&g=2026-01-01) per groep één bedrag in rekening gebracht en worden voor de berekening van de relevante omzet van de groep de relevante omzetten van alle tot die groep behorende marktorganisaties opgeteld. Bij deze berekening worden transacties tussen de tot die groep behorende marktorganisaties buiten beschouwing gelaten.
 
@@ -212,11 +238,11 @@ De ACM maakt voor de toepassing van [artikel 10](https://wetten.overheid.nl/jci1
 
 4. Bij de in het derde lid bedoelde ministeriële regeling worden uitsluitend activiteiten aangewezen die zijn verweven met activiteiten waartoe het aan de ACM opgedragen nalevingstoezicht zich niet uitstrekt.
 
-#### Artikel 14
+##### Artikel 14
 
 De ACM verzendt de beschikkingen tot betaling jaarlijks uiterlijk op 30 juni.
 
-#### Artikel 15
+##### Artikel 15
 
 1. In afwijking van [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=3&artikel=9&z=2026-01-01&g=2026-01-01), kunnen, ten behoeve van een geleidelijke overgang als bedoeld in [artikel 6a, achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=6a), de bedragen voor de kalenderjaren 2015, 2016 en 2017 lager worden vastgesteld. Alsdan is de verlaging voor alle sectoren in relatieve zin gelijk.
 
@@ -226,37 +252,37 @@ De ACM verzendt de beschikkingen tot betaling jaarlijks uiterlijk op 30 juni.
 
 ### Hoofdstuk 4. Wijziging van andere besluiten
 
-#### Artikel 16
+##### Artikel 16
 
 Wijzigt het Besluit kostenverhaal energie.
 
-#### Artikel 17
+##### Artikel 17
 
 Wijzigt het Besluit universele dienstverlening en eindgebruikersbelangen.
 
-#### Artikel 18
+##### Artikel 18
 
 Wijzigt het Besluit vergoedingen Telecommunicatiewet.
 
-#### Artikel 19
+##### Artikel 19
 
 Wijzigt het Postbesluit 2009.
 
-#### Artikel 20
+##### Artikel 20
 
 Wijzigt het Tijdelijk besluit postbezorgers 2011.
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 21
+##### Artikel 21
 
 Het [Besluit kostenverhaal Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0020855) en het [Besluit vergoedingen Postwet](https://wetten.overheid.nl/jci1.3:c:BWBR0008845) worden ingetrokken.
 
-#### Artikel 22
+##### Artikel 22
 
 Dit besluit treedt in werking op het tijdstip waarop het in [artikel I, onderdeel E, van de wet van 25 juni 2014 tot wijziging van de Instellingswet Autoriteit Consument en Markt en enige andere wetten in verband met de stroomlijning van het door de Autoriteit Consument en Markt te houden markttoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0035297&artikel=I) (Stb. 2014, 247) vastgestelde [artikel 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=6a) in werking treedt.
 
-#### Artikel 23
+##### Artikel 23
 
 Dit besluit wordt aangehaald als: Besluit doorberekening kosten ACM.
 

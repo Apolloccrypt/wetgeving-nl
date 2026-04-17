@@ -1,18 +1,44 @@
 ---
-title: "Vaststellingsbesluit eenmalige uitkering, enz. (Arbeidsvoorwaardenovereenkomst sector Defensie)"
+title: "Besluit van 22 juli 2002 tot vaststelling van een eenmalige uitkering en tot wijziging van enige besluiten in het kader van de arbeidsvoorwaardenovereenkomst voor de sector Defensie over de periode van 1 oktober 2001 tot en met 31 december 2003"
 identifier: "BWBR0013916"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2002-11-01
-laatste_update: 2002-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013916"
+country: "nl"
+rank: "amvb"
+publication_date: "2002-11-01"
+last_updated: "2002-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013916"
+soort: "AMvB"
+stam_id: "3107523"
+version_id: "4805282"
+internal_id: "C4828001"
+label_id: "3072084"
+dtd_version: "2.0"
+original_entry_into_force: "2002-09-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013916/2002-11-01/0"
+intitule_bron: "Stb.2002-453"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-07-22"
+intitule_published: "2002-09-12"
+intitule_in_force: "2002-09-12"
+intitule_status: "goed"
+original_publication: "Stb.2002-453"
+original_signed_date: "2002-07-22"
+original_published_date: "2002-09-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2002-453"
+entry_into_force_date: "2002-09-13"
+jci_1_3: "jci1.3:c:BWBR0013916&z=2002-11-01&g=2002-11-01"
+jci_1_0: "1.0:c:BWBR0013916&g=2002-11-01"
+citeertitel_status: "officieel"
+short_title: "Vaststellingsbesluit eenmalige uitkering, enz. (Arbeidsvoorwaardenovereenkomst sector Defensie)"
+signed_date: "2002-07-22"
+entry_into_force: "2002-09-13"
 ---
-
 # Besluit van 22 juli 2002 tot vaststelling van een eenmalige uitkering en tot wijziging van enige besluiten in het kader van de arbeidsvoorwaardenovereenkomst voor de sector Defensie over de periode van 1 oktober 2001 tot en met 31 december 2003
 
 ### Hoofdstuk 1. Toekenning van een eenmalige uitkering over 2001, 2002 en 2003 aan het defensiepersoneel
 
-#### Artikel I
+##### Artikel I
 
 A. Voor de toepassing van dit artikel wordt verstaan onder:
 
@@ -48,67 +74,67 @@ D. De eenmalige uitkering als bedoeld onder A en B heeft geen algemeen karakter 
 
 ### Hoofdstuk 2. Wijzigingen met ingang van 1 oktober 2001
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Besluit volgorde verhouding rangen en standen zee-, land- en luchtmacht.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Besluit personenchauffeurs defensie.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het Bezoldigingsbesluit burgerlijke ambtenaren defensie.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Inkomstenbesluit militairen.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt het Interimbesluit ziektekosten burgerlijke ambtenaren defensie.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt het Verplaatsingskostenbesluit militairen.
 
 ### Hoofdstuk 3. Wijzigingen met ingang van 1 december 2001
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt het Algemeen militair ambtenarenreglement.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt het Burgerlijk ambtenarenreglement defensie.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt het Inkomstenbesluit militairen.
 
 ### Hoofdstuk 4. Wijzigingen met ingang van 1 januari 2002
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt het Algemeen militair ambtenarenreglement.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt het Besluit personenchauffeurs defensie.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt het Bezoldigingsbesluit burgerlijke ambtenaren defensie.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt het Burgerlijk ambtenarenreglement defensie.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt het Inkomstenbesluit militairen.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt het Verplaatsingskostenbesluit militairen.
 
@@ -118,27 +144,27 @@ Wijzigt het Verplaatsingskostenbesluit militairen.
 
 ### Hoofdstuk 6. Wijzigingen met ingang van 1 november 2002
 
-#### Artikel XXI
+##### Artikel XXI
 
 Wijzigt het Algemeen militair ambtenarenreglement.
 
-#### Artikel XXII
+##### Artikel XXII
 
 Wijzigt het Besluit klachtrecht militairen.
 
-#### Artikel XXIII
+##### Artikel XXIII
 
 Wijzigt het Burgerlijk ambtenarenreglement defensie.
 
-#### Artikel XXIV
+##### Artikel XXIV
 
 Wijzigt het Inkomstenbesluit militairen.
 
-#### Artikel XXV
+##### Artikel XXV
 
 Wijzigt de Premieregeling en aanvullende voorzieningen beroepsmilitairen van de krijgsmacht.
 
-#### Artikel XXVI
+##### Artikel XXVI
 
 Wijzigt de Regeling ziektekostenvoorziening defensiepersoneel.
 
@@ -146,7 +172,7 @@ Wijzigt de Regeling ziektekostenvoorziening defensiepersoneel.
 
 ### Hoofdstuk 7. Overgangsbepalingen
 
-#### Artikel XVII
+##### Artikel XVII
 
 Wijzigt het Inkomstenbesluit militairen.
 
@@ -174,15 +200,15 @@ Artikelen I-VII werken terug tot en met 1 oktober 2001. Artikelen VIII-X werken 
 
 ### Hoofdstuk 4. Wijzigingen met ingang van 1 januari 2002
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Wijzigt het Besluit personenchauffeurs defensie.
 
-#### Artikel XIX
+##### Artikel XIX
 
 Wijzigt het Bezoldigingsbesluit burgerlijke ambtenaren defensie.
 
-#### Artikel XX
+##### Artikel XX
 
 Wijzigt het Inkomstenbesluit militairen.
 
@@ -190,7 +216,7 @@ Wijzigt het Inkomstenbesluit militairen.
 
 ### Hoofdstuk 7. Overgangsbepalingen
 
-#### Artikel XXVII
+##### Artikel XXVII
 
 A. In afwijking van [artikel 8, vierde lid, van het Inkomstenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=8) wordt het salarisnummer van de korporaal der eerste klasse van de Koninklijke Landmacht of van de Koninklijke Luchtmacht op 1 oktober 2001 met één verhoogd. Deze verhoging is niet van invloed op de datum van de jaarlijkse verhoging van het salarisnummer, bedoeld in artikel 7, vierde lid, of artikel 8a, tweede lid.
 
@@ -198,7 +224,7 @@ B. Buitengewoon verlof dat reeds is verleend voor de datum van inwerkingtreding 
 
 ### Hoofdstuk 8. Slotbepalingen
 
-#### Artikel XXVIII
+##### Artikel XXVIII
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst, met dien verstande dat:
 

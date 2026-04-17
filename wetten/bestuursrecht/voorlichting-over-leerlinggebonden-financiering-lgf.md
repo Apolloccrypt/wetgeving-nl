@@ -1,13 +1,36 @@
 ---
 title: "Voorlichting over leerlinggebonden financiering (lgf)"
 identifier: "BWBR0015058"
-categorie: "Bestuursrecht"
-publicatiedatum: 2003-05-28
-laatste_update: 2003-05-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015058"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2003-05-28"
+last_updated: "2003-05-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015058"
+soort: "beleidsregel"
+stam_id: "6479123"
+version_id: "11158242"
+internal_id: "C15079541"
+label_id: "6468044"
+original_entry_into_force: "2003-05-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015058/2003-05-28/0"
+intitule_bron: "Uitleg.2003-14"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-05-09"
+intitule_published: "2003-05-28"
+intitule_in_force: "2003-05-28"
+intitule_status: "goed"
+original_publication: "Uitleg.2003-14"
+original_signed_date: "2003-05-09"
+original_published_date: "2003-05-28"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2003-05-28"
+jci_1_3: "jci1.3:c:BWBR0015058&z=2003-05-28&g=2003-05-28"
+jci_1_0: "1.0:c:BWBR0015058&g=2003-05-28"
+citeertitel_status: "redactioneel"
+signed_date: "2003-05-09"
+entry_into_force: "2003-05-28"
 ---
-
 # Voorlichting over leerlinggebonden financiering (lgf)
 
 ### Informatie naar aanleiding van veelgestelde vragen over lgf

@@ -1,13 +1,39 @@
 ---
-title: "Regeling team criminele inlichtingen FIOD"
+title: "Vaststelling van de regeling van de Staatssecretaris van Financiën van 1 december 2014, nr. DB 2014/474M, houdende regels omtrent werkzaamheden en autorisaties van het team criminele inlichtingen FIOD (Regeling team criminele inlichtingen FIOD)"
 identifier: "BWBR0035861"
-categorie: "Overig"
-publicatiedatum: 2025-09-04
-laatste_update: 2025-09-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035861"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-09-04"
+last_updated: "2025-09-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035861"
+soort: "ministeriele-regeling"
+stam_id: "12867763"
+version_id: "21863112"
+internal_id: "C31382281"
+label_id: "12837324"
+dtd_version: "2.0"
+original_entry_into_force: "2014-12-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035861/2025-09-04/0"
+intitule_bron: "Stcrt.2014-34047"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-12-01"
+intitule_published: "2014-12-05"
+intitule_in_force: "2014-12-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-34047"
+original_signed_date: "2014-12-01"
+original_published_date: "2014-12-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-34047"
+entry_into_force_date: "2014-12-06"
+jci_1_3: "jci1.3:c:BWBR0035861&z=2025-09-04&g=2025-09-04"
+jci_1_0: "1.0:c:BWBR0035861&g=2025-09-04"
+citeertitel_status: "officieel"
+short_title: "Regeling team criminele inlichtingen FIOD"
+signed_date: "2014-12-01"
+entry_into_force: "2014-12-06"
 ---
-
 # Vaststelling van de regeling van de Staatssecretaris van Financiën van 1 december 2014, nr. DB 2014/474M, houdende regels omtrent werkzaamheden en autorisaties van het team criminele inlichtingen FIOD (Regeling team criminele inlichtingen FIOD)
 
 Handelende in overeenstemming met de Minister van Veiligheid en Justitie;
@@ -16,7 +42,7 @@ Gelet op [artikel 12 van de Wet op de bijzondere opsporingsdiensten](https://wet
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze regeling wordt verstaan onder:
 
@@ -38,7 +64,7 @@ Besluit:
 
 2. De in de [artikelen 6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035861&artikel=6&z=2025-09-04&g=2025-09-04), [7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035861&artikel=7&z=2025-09-04&g=2025-09-04), en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0035861&artikel=8&z=2025-09-04&g=2025-09-04) voorgeschreven handelingen kunnen namens de verantwoordelijke worden verricht door de directeur van de FIOD.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is bij de FIOD een team criminele inlichtingen onder de naam team criminele in- lichtingen FIOD (tci-FIOD).
 
@@ -46,7 +72,7 @@ Besluit:
 
 3. Met het oog op de uitvoering van de taak, bedoeld in het tweede lid, worden criminele inlichtingen verwerkt overeenkomstig het bij of krachtens de [Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) bepaalde.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het team criminele inlichtingen FIOD verricht in ieder geval de volgende werkzaamheden:
 
@@ -70,7 +96,7 @@ Besluit:
 
 3. De uitvoering van de werkzaamheden, bedoeld in het eerste lid, onderdeel c, met medewerking van personen als bedoeld in [artikel 12, zevende lid, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=12), wordt binnen de FIOD uitsluitend verricht door het team criminele inlichtingen FIOD.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het team criminele inlichtingen FIOD verstrekt criminele inlichtingen aan de andere teams criminele inlichtingen indien dit van belang kan zijn voor de opsporing van misdrijven als bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10). Daartoe wordt gebruikgemaakt van het modelformulier criminele inlichtingen rapport dat is opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0035861&bijlage=I&z=2025-09-04&g=2025-09-04).
 
@@ -78,7 +104,7 @@ Besluit:
 
 3. De verantwoordelijke autoriseert de op grond van [artikel 7, tweede lid, van het Besluit verplichte politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0032083&artikel=7) aangewezen ambtenaren van de andere teams criminele inlichtingen bij de politie en bij de andere bijzondere opsporingsdiensten, belast met de verwerking van politiegegevens als bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10), tot toegang tot het gegevensbestand bij het team criminele inlichtingen FIOD.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het team criminele inlichtingen FIOD stelt het team nationale criminele inlichtingen in kennis van:
 
@@ -92,7 +118,7 @@ Besluit:
 
 2. Ter uitvoering van het eerste lid, aanhef en onderdeel b, en met het oog op de verstrekking van de gegevens, genoemd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0035861&bijlage=II&z=2025-09-04&g=2025-09-04), maakt het team criminele inlichtingen FIOD gebruik van de centrale verwijzingsindex.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De verantwoordelijke draagt ervoor zorg dat de kennis en vaardigheden van de ambtenaren die deel uitmaken van het team criminele inlichtingen FIOD worden onderhouden op ten minste het niveau van de eisen, bedoeld in [artikel 2:9 van het Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=2:9).
 
@@ -100,7 +126,7 @@ Besluit:
 
 3. De termijn, bedoeld in het tweede lid, is ten hoogste vier jaar en kan tweemaal met ten hoogste twee jaar worden verlengd.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De bij het team criminele inlichtingen FIOD in gebruik zijnde vertrekken zijn afsluitbaar en beveiligd. Tot deze vertrekken hebben slechts toegang ambtenaren die deel uitmaken van het team criminele inlichtingen FIOD, personen die door deze ambtenaren worden begeleid en de tci-officier van justitie.
 
@@ -108,15 +134,15 @@ Besluit:
 
 3. De verantwoordelijke draagt ervoor zorg dat bij afwezigheid van ambtenaren van het team criminele inlichtingen FIOD de vertrekken deugdelijk zijn afgesloten.
 
-#### Artikel 8
+##### Artikel 8
 
 De verantwoordelijke draagt ervoor zorg dat de nodige voorzieningen van technische en organisatorische aard ter beveiliging van de bij het team criminele inlichtingen FIOD gehouden criminele inlichtingen tegen verlies of aantasting van persoonsgegevens en tegen onbevoegde kennisneming, wijziging of verstrekking daarvan worden getroffen opdat het bij of krachtens de [Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) bepaalde kan worden nageleefd.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Deze regeling wordt aangehaald als: Regeling team criminele inlichtingen FIOD.
 

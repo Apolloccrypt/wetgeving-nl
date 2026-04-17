@@ -1,13 +1,38 @@
 ---
-title: "Warenwetregeling methoden van onderzoek draagbaar klimmaterieel"
+title: "Regeling methoden van onderzoek draagbaar klimmaterieel (Warenwet)"
 identifier: "BWBR0003957"
-categorie: "Overig"
-publicatiedatum: 2020-01-31
-laatste_update: 2020-01-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003957"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-01-31"
+last_updated: "2020-01-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003957"
+soort: "ministeriele-regeling"
+stam_id: "5044043"
+version_id: "9096462"
+internal_id: "C12091191"
+label_id: "5020134"
+dtd_version: "2.0"
+original_entry_into_force: "1987-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003957/2020-01-31/0"
+intitule_bron: "Stcrt.1986-161"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1986-04-25"
+intitule_published: "1986-08-22"
+intitule_in_force: "1986-11-28"
+intitule_status: "goed"
+original_publication: "Stcrt.1986-161"
+original_signed_date: "1986-04-25"
+original_published_date: "1986-08-22"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1987-03-01"
+jci_1_3: "jci1.3:c:BWBR0003957&z=2020-01-31&g=2020-01-31"
+jci_1_0: "1.0:c:BWBR0003957&g=2020-01-31"
+citeertitel_status: "officieel"
+short_title: "Warenwetregeling methoden van onderzoek draagbaar klimmaterieel"
+signed_date: "1986-04-25"
+entry_into_force: "1987-03-01"
 ---
-
 # Regeling methoden van onderzoek draagbaar klimmaterieel (Warenwet)
 
 Gelet op [artikel 4 van het Besluit draagbaar klimmaterieel (Warenwet)](https://wetten.overheid.nl/jci1.3:c:BWBR0003914&artikel=4) (Stb. 1986, 86);
@@ -16,15 +41,15 @@ De Adviescommissie Warenwet gehoord (advies van 10 juni 1983, nr. 13451/(11)15);
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 Ten aanzien van draagbaar klimmaterieel gelden de onderzoeksmethoden omschreven in de bijlage bij deze regeling.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling wordt aangehaald als: Warenwetregeling methoden van onderzoek draagbaar klimmaterieel.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Deze regeling wordt met de daarbij behorende toelichting in de Nederlandse Staatscourant bekendgemaakt.
 
@@ -102,6 +127,6 @@ Om de voeten van het draagbare klimmaterieel op stroefheid te testen, wordt gebr
 
 Zowel het horizontale als het verticale vlak waartegen het draagbare klimmaterieel rust is voorzien van een glad en droog oppervlak van multiplex. Op de sport, het meest dichtbij het midden van de stijl, wordt een verticale kracht V aangebracht ter grootte van 1500 N, terwijl er een horizontale kracht H ter plaatse van de voeten van het draagbare klimmaterieel wordt aangebracht ter grootte van 250 N. De kracht H wordt gelijkmatig over beide voeten van het draagbare klimmaterieel verdeeld. De plaats en richting waarop deze krachten aangrijpen zijn aangegeven in figuur 8. De gemeten horizontale verplaatsing van de voeten van het draagbare klimmaterieel mag na deze beproeving maximaal 5 mm bedragen.
 
-#### 11. Vernietiging beproefd draagbaar klimmaterieel
+##### 11. Vernietiging beproefd draagbaar klimmaterieel
 
 Het beproefde draagbare klimmaterieel, uitgezonderd bewijsstukken, moet zo snel mogelijk na de beproeving vernietigd worden.

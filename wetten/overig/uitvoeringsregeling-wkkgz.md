@@ -1,13 +1,39 @@
 ---
-title: "Uitvoeringsregeling Wkkgz"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 8 december 2015, kenmerk 808179-144256-WJZ, houdende bepalingen ter uitvoering van artikel 18, derde lid, van de Wet kwaliteit, klachten en geschillen zorg en artikel 5.1, tweede lid, van het Uitvoeringsbesluit Wkkgz (Uitvoeringsregeling Wkkgz)"
 identifier: "BWBR0037358"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037358"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037358"
+soort: "ministeriele-regeling"
+stam_id: "13348113"
+version_id: "31272402"
+internal_id: "C44714071"
+label_id: "13315994"
+dtd_version: "2.0"
+original_entry_into_force: "2025-12-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037358/2026-01-01/0"
+intitule_bron: "Stcrt.2015-45940"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-12-08"
+intitule_published: "2015-12-17"
+intitule_in_force: "2015-12-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-43933"
+original_signed_date: "2025-12-10"
+original_published_date: "2025-12-29"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2025-43933"
+entry_into_force_date: "2025-12-10"
+jci_1_3: "jci1.3:c:BWBR0037358&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0037358&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsregeling Wkkgz"
+signed_date: "2025-12-10"
+entry_into_force: "2025-12-10"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 8 december 2015, kenmerk 808179-144256-WJZ, houdende bepalingen ter uitvoering van artikel 18, derde lid, van de Wet kwaliteit, klachten en geschillen zorg en artikel 5.1, tweede lid, van het Uitvoeringsbesluit Wkkgz (Uitvoeringsregeling Wkkgz)
 
 Gelet op [artikel 18, derde lid, van de Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=18), [artikel 5.5, tweede lid, van het Uitvoeringsbesluit Wkkgz](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&artikel=5.1) en artikel 6 van [Richtlijn 2002/98/EG](32002L0098) van het Europees Parlement en de Raad van 27 januari 2003 tot vaststelling van kwaliteits- en veiligheidsnormen voor het inzamelen, testen, bewerken, opslaan en distribueren van bloed en bloedbestanddelen van menselijke oorsprong en tot wijziging van [Richtlijn 2001/83/EG](32001L0083) van de Raad (PbEU L 33);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze regeling wordt verstaan onder:
 
@@ -116,7 +142,7 @@ Besluit:
 
 #### § 1. Erkenning
 
-#### Artikel 2
+##### Artikel 2
 
 1. De minister erkent een geschilleninstantie op aanvraag, indien deze voldoet aan de in de [artikelen 19 tot en met 22 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=19) en deze regeling gestelde eisen.
 
@@ -126,7 +152,7 @@ Besluit:
 
 - b. het reglement van de geschilleninstantie en overige gegevens waaruit blijkt dat de geschilleninstantie voldoet aan de in de [artikelen 19 tot en met 22 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=19) en deze regeling gestelde eisen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Aan een erkenning van een geschilleninstantie zijn de navolgende voorschriften verbonden:
 
@@ -138,7 +164,7 @@ Besluit:
 
 2. Aan de erkenning kunnen nadere voorschriften worden verbonden die ertoe strekken een goede behandeling van geschillen te waarborgen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De minister trekt een erkenning in op aanvraag.
 
@@ -150,13 +176,13 @@ Besluit:
 
 - c. niet wordt voldaan aan de aan de erkenning verbonden voorschriften.
 
-#### Artikel 5
+##### Artikel 5
 
 Van een beslissing tot erkenning of intrekking van een erkenning van een geschilleninstantie wordt mededeling gedaan in de Staatscourant.
 
 #### § 2. Erkenningseisen
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het reglement bevat in ieder geval regels over:
 
@@ -188,7 +214,7 @@ Van een beslissing tot erkenning of intrekking van een erkenning van een geschil
 
 7. Het reglement bevat regels over de mogelijkheid van wraking van een lid van de geschilleninstantie door partijen, op grond van feiten of omstandigheden die een onpartijdig of onafhankelijk oordeel van dat lid zouden bemoeilijken.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het reglement bevat regels omtrent de procedure die wordt gevolgd:
 
@@ -202,17 +228,17 @@ Van een beslissing tot erkenning of intrekking van een erkenning van een geschil
 
 ### Hoofdstuk 2a. Kwaliteitsregistraties
 
-#### Artikel 8
+##### Artikel 8
 
 De [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017977&artikel=1), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0017977&artikel=4), [5, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0017977&artikel=5), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017977&artikel=6), [7,](https://wetten.overheid.nl/jci1.3:c:BWBR0017977&artikel=7)[8](https://wetten.overheid.nl/jci1.3:c:BWBR0017977&artikel=8), [artikel 13, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017977&artikel=13), en [14 van de Regeling voorschriften bloedvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0017977&artikel=14) zijn van overeenkomstige toepassing op ziekenhuisbloedbanken.
 
 ### Hoofdstuk 3a. Acute zorg
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling treedt in werking met ingang van 1 januari 2016.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling Wkkgz.
 
@@ -220,7 +246,7 @@ Deze regeling zal (met de toelichting) in de Staatscourant worden geplaatst.
 
 #### § 3.1. Regionaal overleg acute zorgketen
 
-#### Artikel 8a
+##### Artikel 8a
 
 1. Het traumacentrum organiseert het regionaal overleg acute zorgketen zo vaak als nodig is om het in [artikel 8A.2, eerste lid, van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&artikel=8a.2) gestelde doel te behalen, met een minimum van twee keer per jaar.
 
@@ -238,7 +264,7 @@ Deze regeling zal (met de toelichting) in de Staatscourant worden geplaatst.
 
 6. Het tweede, derde en vijfde lid zijn van overeenkomstige toepassing in geval van een opschorting of beëindiging van de acute zorg op een locatie van het traumacentrum.
 
-#### Artikel 8b
+##### Artikel 8b
 
 1. Het traumacentrum nodigt voor elk regionaal overleg acute zorgketen alle zorgaanbieders uit die werkzaam zijn in de regio die behoren tot de in [artikel 8A.1, onderdelen b tot en met f, h, en l tot en met p, van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&artikel=8a.1) aangewezen categorieën.
 
@@ -254,7 +280,7 @@ Deze regeling zal (met de toelichting) in de Staatscourant worden geplaatst.
 
 7. Gemeentelijke gezondheidsdiensten dragen er zorg voor dat de directeur publieke gezondheid die tevens de leiding heeft over de GHOR in de regio hen vertegenwoordigt in het regionaal overleg acute zorgketen. Indien in de regio meerdere gemeentelijke gezondheidsdiensten werkzaam zijn, kunnen zij zich laten vertegenwoordigen door één van de directeuren publieke gezondheid in die regio, mits deze gemachtigd is overeenkomstig het zesde lid.
 
-#### Artikel 8c
+##### Artikel 8c
 
 1. Indien een zorgaanbieder, een zorgverzekeraar, een GHOR, een gemeente, een patiëntenorganisatie, een Wlz-uitvoerder, de politie of een andere organisatie een onderwerp voordraagt voor bespreking in het regionaal overleg acute zorgketen dat past binnen het in [artikel 8A.2, eerste lid, van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&artikel=8a.2) omschreven doel, agendeert het traumacentrum dat onderwerp voor het overleg.
 
@@ -274,7 +300,7 @@ Deze regeling zal (met de toelichting) in de Staatscourant worden geplaatst.
 
 5. Traumacentra informeren elkaar over onderwerpen en conclusies uit het regionaal overleg acute zorgketen die van belang kunnen zijn voor elkaars regio.
 
-#### Artikel 8d
+##### Artikel 8d
 
 Zorgaanbieders die behoren tot de in [artikel 8A.1 van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&artikel=8a.1) aangewezen categorieën maken met elkaar en zo nodig met andere deelnemers aan het regionale overleg acute zorgketen in ieder geval afspraken over:
 
@@ -296,13 +322,13 @@ Zorgaanbieders die behoren tot de in [artikel 8A.1 van het uitvoeringsbesluit](h
 
 #### § 3.1. Regionaal overleg acute zorgketen
 
-#### Artikel 8e
+##### Artikel 8e
 
 Als zorgverzekeraars die moeten worden geïnformeerd op grond van [artikel 8A.3 van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&artikel=8a.3), worden aangewezen alle zorgverzekeraars.
 
 #### § 3.3. Normen van bereikbaarheid
 
-#### Artikel 8f
+##### Artikel 8f
 
 1. De normen inzake de bereikbaarheid van acute zorg, bedoeld in [artikel 8A.4, eerste lid, onderdeel g, van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&artikel=8a.4), zijn:
 
@@ -318,7 +344,7 @@ Als zorgverzekeraars die moeten worden geïnformeerd op grond van [artikel 8A.3 
 
 #### § 3.4. Voorgenomen beëindiging of opschorting
 
-#### Artikel 8g
+##### Artikel 8g
 
 1. Indien er een gerede kans is dat een zorgaanbieder als bedoeld in [artikel 8A.4, eerste lid, van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&artikel=8a.4) de acute zorg op een bepaalde locatie geheel of gedeeltelijk gaat beëindigen of opschorten, informeert de zorgaanbieder de Inspectie daarover. Dit informeren geschiedt schriftelijk of elektronisch via e-mailadres meldpunt@igj.nl.
 
@@ -338,7 +364,7 @@ Als zorgverzekeraars die moeten worden geïnformeerd op grond van [artikel 8A.3 
 
 - g. of de zorgaanbieder voornemens is te streven naar het borgen van de continuïteit van de betrokken acute zorg in de regio.
 
-#### Artikel 8h
+##### Artikel 8h
 
 1. Nadat de zorgaanbieder de Inspectie overeenkomstig [artikel 8g](https://wetten.overheid.nl/jci1.3:c:BWBR0037358&hoofdstuk=3a&paragraaf=3.4&artikel=8g&z=2026-01-01&g=2026-01-01) heeft geïnformeerd, vraagt de zorgaanbieder een bereikbaarheidsanalyse aan bij het RIVM.
 
@@ -362,7 +388,7 @@ Als zorgverzekeraars die moeten worden geïnformeerd op grond van [artikel 8A.3 
 
 6. Bij de overleggen, waaronder het regionaal overleg acute zorgketen, over de mogelijke opschorting of beëindiging betrekt de zorgaanbieder het regiobeeld, indien voor de betrokken regio een regiobeeld beschikbaar is.
 
-#### Artikel 8i
+##### Artikel 8i
 
 1. De zorgaanbieder, bedoeld in [artikel 8A.4, eerste lid, van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&artikel=8a.4), organiseert een bijeenkomst voor colleges van burgemeester en wethouders van gemeenten in de omgeving, alsmede in het geval, bedoeld in artikel 8A.4, eerste lid, onderdeel e, van het uitvoeringsbesluit, voor de voorzitter van de veiligheidsregio, over het voornemen tot opschorting of beëindiging van de acute zorg op een bepaalde locatie. In de bijeenkomst informeert de zorgaanbieder betrokkenen over de plannen alsmede de uitkomsten van de bereikbaarheidsanalyse en stelt hij hen in de gelegenheid vragen daarover te stellen en hun visies, wensen en zorgen daarover te uiten. De bijeenkomst wordt op een zodanig tijdstip georganiseerd dat de inbreng van betrokkenen van wezenlijke invloed kan zijn op de besluitvorming door de zorgaanbieder.
 
@@ -378,7 +404,7 @@ Als zorgverzekeraars die moeten worden geïnformeerd op grond van [artikel 8A.3 
 
 5. Indien de zorgaanbieder een bijeenkomst als bedoeld in het eerste lid heeft georganiseerd dan wel de zorgaanbieder een schriftelijke of elektronische reactie heeft gekregen van colleges van burgemeester en wethouders of de voorzitter van de veiligheidsregio, deelt de zorgaanbieder aan de betrokkenen schriftelijk of elektronisch gemotiveerd mee wat met de door hen naar voren gebrachte visies, wensen en zorgen zal worden gedaan.
 
-#### Artikel 8j
+##### Artikel 8j
 
 1. De inspanning, bedoeld in [artikel 8A.4, eerste lid, onderdeel f, van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&artikel=8a.4), om tevoren onzekerheid te voorkomen bij de inwoners uit de omgeving die belang hebben bij de door de zorgaanbieder geboden zorg, houdt in dat de zorgaanbieder een bijeenkomst organiseert voor die inwoners. In de bijeenkomst informeert de zorgaanbieder de inwoners over de plannen alsmede de uitkomsten van de bereikbaarheidsanalyse en stelt hij hen in de gelegenheid vragen daarover te stellen en hun visies, wensen en zorgen daarover te uiten. De bijeenkomst wordt op een zodanig tijdstip georganiseerd dat de inbreng van de inwoners van wezenlijke invloed kan zijn op de besluitvorming door de zorgaanbieder.
 
@@ -386,17 +412,17 @@ Als zorgverzekeraars die moeten worden geïnformeerd op grond van [artikel 8A.3 
 
 3. Indien de zorgaanbieder een bijeenkomst als bedoeld in het eerste lid heeft georganiseerd, dan wel de zorgaanbieder een schriftelijke of elektronische inbreng heeft gekregen van inwoners, informeert de zorgaanbieder de inwoners via diens website over wat met de naar voren gebrachte visies, wensen en zorgen zal worden gedaan.
 
-#### Artikel 8k
+##### Artikel 8k
 
 Na afloop van de in de [artikelen 8i](https://wetten.overheid.nl/jci1.3:c:BWBR0037358&hoofdstuk=3a&paragraaf=3.4&artikel=8i&z=2026-01-01&g=2026-01-01) en [8j](https://wetten.overheid.nl/jci1.3:c:BWBR0037358&hoofdstuk=3a&paragraaf=3.4&artikel=8j&z=2026-01-01&g=2026-01-01) bedoelde bijeenkomsten, onderscheidenlijk nadat de zorgaanbieder heeft gereageerd op de door de gemeenten, de voorzitter van de veiligheidsregio en de inwoners naar voren gebrachte visies, wensen en zorgen, informeert de zorgaanbieder de Inspectie, het traumacentrum, zorgaanbieders voor wie de voorgenomen beëindiging of opschorting gevolgen kan hebben en alle zorgverzekeraars over een door de zorgaanbieder opgesteld ontwerp van het continuïteitsplan.
 
-#### Artikel 8l
+##### Artikel 8l
 
 1. De zorgaanbieder bespreekt het ontwerp continuïteitsplan met de zorgaanbieders voor wie de beëindiging of opschorting gevolgen kan hebben en met zorgverzekeraars.
 
 2. Indien een reactie van de Inspectie op het ontwerp continuïteitsplan dan wel de besprekingen, bedoeld in het eerste lid, daartoe aanleiding geven, past de zorgaanbieder het ontwerp continuïteitsplan aan. De zorgaanbieder zendt het aangepaste continuïteitsplan aan de Inspectie, het traumacentrum, zorgaanbieders voor wie de voorgenomen beëindiging of opschorting gevolgen kan hebben en alle zorgverzekeraars.
 
-#### Artikel 8m
+##### Artikel 8m
 
 In het continuïteitsplan wordt in ieder geval omschreven:
 
@@ -418,7 +444,7 @@ In het continuïteitsplan wordt in ieder geval omschreven:
 
 - i. een draaiboek voor gecontroleerde afbouw en overdracht van de acute zorg alsmede op welke termijn de beëindiging of opschorting zal plaatsvinden.
 
-#### Artikel 8n
+##### Artikel 8n
 
 1. Het informeren, bedoeld in [artikel 8A.4, eerste lid, onderdeel i, van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&artikel=8a.4), vindt schriftelijk of elektronisch plaats.
 
@@ -428,21 +454,21 @@ In het continuïteitsplan wordt in ieder geval omschreven:
 
 Deze regeling zal (met de toelichting) in de Staatscourant worden geplaatst.
 
-#### Artikel 7a
+##### Artikel 7a
 
 1. De gegevens worden enkel verwerkt en verstrekt, als bedoeld in [artikel 4.4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&artikel=4.4), en [4.8, onderdeel a, van het Uitvoeringsbesluit Wkkgz](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&artikel=4.8), indien pseudonimisering als bedoeld in artikel 4, onderdeel 5, van de Algemene verordening gegevensbescherming is toegepast.
 
 2. De pseudonimisering vindt zodanig plaats dat herleidbaarheid naar de persoon aan wie de gegevens toebehoren zo veel als mogelijk wordt voorkomen.
 
-#### Artikel 7b
+##### Artikel 7b
 
 Aan [artikel 7a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037358&hoofdstuk=2a&artikel=7a&z=2026-01-01&g=2026-01-01), wordt in elk geval voldaan als de pseudonimisatie plaatsvindt overeenkomstig NEN 7524:2019 en, dan wel op een vergelijkbare wijze.
 
-#### Artikel 7c
+##### Artikel 7c
 
 Passende technische en organisatorische maatregelen, als bedoeld in de[artikelen 4.4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&artikel=4.4), en [4.8, onderdeel b, van het Uitvoeringsbesluit Wkkgz](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&artikel=4.8), zijn in elk geval getroffen als de beveiliging van de gegevens plaatsvindt overeenkomstig NEN 7510-1 en 7510-2, dan wel op een vergelijkbare wijze.
 
-#### Artikel 7d
+##### Artikel 7d
 
 1. Voor de uitvoering van deze regeling wordt toepassing gegeven aan de laatste uitgave van de NEN 7510-1 en 7510-2.
 
@@ -462,11 +488,11 @@ Passende technische en organisatorische maatregelen, als bedoeld in de[artikelen
 
 Deze regeling zal (met de toelichting) in de Staatscourant worden geplaatst.
 
-#### Artikel 7aa
+##### Artikel 7aa
 
 Het aanvraagformulier, bedoeld in [artikel 11l, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=11l) is opgenomen in bijlage I bij deze regeling.
 
-#### Artikel 7ab
+##### Artikel 7ab
 
 1. Een kwaliteitsregistratie voldoet aan de voorwaarde van noodzakelijkheid en van proportionaliteit en subsidiariteit als bedoeld in [artikel 11o, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=11o) als ten minste:
 
@@ -494,7 +520,7 @@ Het aanvraagformulier, bedoeld in [artikel 11l, zesde lid, van de wet](https://w
 
 - c. op een vergelijkbare wijze is georganiseerd.
 
-#### Artikel 7ac
+##### Artikel 7ac
 
 De gegevensbeschermingseffectbeoordeling, bedoeld in [artikel 11o, eerste lid, onderdeel g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=11o) wordt onafhankelijk getoetst. Deze toets is op het moment van aanvraag als bedoeld in [artikel 11l, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=11l) niet ouder dan 1 jaar.
 

@@ -1,13 +1,34 @@
 ---
 title: "Verdrag van de Westeuropese Unie inzake beveiliging"
 identifier: "BWBV0001258"
-categorie: "Internationaal recht"
-publicatiedatum: 2011-06-30
-laatste_update: 2011-06-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001258"
+country: "nl"
+rank: "verdrag"
+publication_date: "2011-06-30"
+last_updated: "2011-06-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001258"
+soort: "verdrag"
+stam_id: "10000309203"
+version_id: "10005019692"
+internal_id: "C10007573411"
+label_id: "10000309364"
+original_entry_into_force: "2011-06-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001258/2011-06-30/0"
+intitule_bron: "Trb.2011-190"
+intitule_effect: "intrekking-regeling"
+intitule_published: "2011-10-04"
+intitule_in_force: "2011-10-04"
+intitule_status: "vervallen"
+original_publication: "Trb.2011-190"
+original_published_date: "2011-10-04"
+original_effect: "intrekking-regeling"
+original_url_id: "trb-2011-190"
+entry_into_force_date: "2011-06-30"
+jci_1_3: "jci1.3:c:BWBV0001258&z=2011-06-30&g=2011-06-30"
+jci_1_0: "1.0:c:BWBV0001258&g=2011-06-30"
+citeertitel_status: "officieel"
+entry_into_force: "2011-06-30"
 ---
-
 # Verdrag van de Westeuropese Unie inzake beveiliging
 
 De Hoge Verdragsluitende Partijen, hierna te noemen „de Partijen", bij het Verdrag van economische, sociale en culturele samenwerking en collectieve zelfverdediging, ondertekend te Brussel op 17 maart 1948, zoals gewijzigd en aangevuld bij het op 23 oktober 1954 te Parijs ondertekende Protocol en bij de andere Protocollen en Bijlagen die een integrerend deel daarvan uitmaken, hierna te noemen „het WEU-Verdrag";
@@ -24,43 +45,43 @@ Handelend voor zichzelf en namens de Westeuropese Unie;
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 Vervallen
 
-#### Artikel 2
+##### Artikel 2
 
 Vervallen
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 

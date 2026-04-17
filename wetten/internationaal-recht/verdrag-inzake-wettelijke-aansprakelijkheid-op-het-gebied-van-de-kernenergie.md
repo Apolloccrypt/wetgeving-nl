@@ -1,13 +1,38 @@
 ---
 title: "Verdrag inzake wettelijke aansprakelijkheid op het gebied van de kernenergie"
 identifier: "BWBV0001020"
-categorie: "Internationaal recht"
-publicatiedatum: 2022-01-01
-laatste_update: 2022-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001020"
+country: "nl"
+rank: "verdrag"
+publication_date: "2022-01-01"
+last_updated: "2022-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001020"
+soort: "verdrag"
+stam_id: "10002440053"
+version_id: "10002440922"
+internal_id: "C10006990491"
+label_id: "10002429764"
+dtd_version: "2.0"
+original_entry_into_force: "1979-12-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001020/2022-01-01/0"
+intitule_bron: "Trb.1983-181"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1979-12-28"
+intitule_published: "1983-12-19"
+intitule_in_force: "1979-12-28"
+intitule_status: "goed"
+original_publication: "Trb.1983-181"
+original_signed_date: "1979-12-28"
+original_published_date: "1983-12-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1983-181"
+entry_into_force_date: "1979-12-28"
+jci_1_3: "jci1.3:c:BWBV0001020&z=2022-01-01&g=2022-01-01"
+jci_1_0: "1.0:c:BWBV0001020&g=2022-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "1979-12-28"
+entry_into_force: "1979-12-28"
 ---
-
 # Verdrag inzake wettelijke aansprakelijkheid op het gebied van de kernenergie
 
 De Regeringen van de Bondsrepubliek Duitsland, de Republiek Oostenrijk, het Koninkrijk België, het Koninkrijk Denemarken, Spanje, de Franse Republiek, het Koninkrijk Griekenland, de Republiek IJsland, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk Noorwegen, het Koninkrijk der Nederlanden, de Portugese Republiek, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, het Koninkrijk Zweden, de Zwitserse Bondsstaat en de Republiek Turkije,
@@ -22,7 +47,7 @@ Zijn overeengekomen als volgt:
 
 Betreft de Nederlandse tekst van het Verdrag inzake wettelijke aansprakelijkheid op het gebied van de kernenergie, zoals laatstelijk gewijzigd door het Protocol houdende wijziging van het Verdrag van 29 juli 1960 inzake wettelijke aansprakelijkheid op het gebied van de kernenergie, Trb. 1983, 80.
 
-#### Artikel 1
+##### Artikel 1
 
 a. Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -66,7 +91,7 @@ a. Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 b. De Bestuurscommissie kan, indien naar haar mening de geringe omvang van de betrokken risico's dit rechtvaardigt, kerninstallaties, splijtstoffen of nucleaire stoffen van de toepassing van dit Verdrag uitsluiten.
 
-#### Artikel 2
+##### Artikel 2
 
 a. Dit Verdrag is van toepassing op kernschade geleden op het grondgebied van of binnen maritieme zones ingesteld in overeenstemming met het internationale recht van, of, behoudens op het grondgebied van een niet-Verdragsluitende Staat die niet vermeld is onder ii tot en met iv van dit lid, aan boord van een schip of luchtvaartuig dat is geregistreerd in:
 
@@ -80,7 +105,7 @@ a. Dit Verdrag is van toepassing op kernschade geleden op het grondgebied van of
 
 b. Niets in dit artikel belet een Verdragsluitende Partij op wier grondgebied de kerninstallatie van de aansprakelijke exploitant is gelegen ingevolge haar wetgeving te voorzien in een grotere reikwijdte van de toepassing van dit Verdrag.
 
-#### Artikel 3
+##### Artikel 3
 
 a. De exploitant van een kerninstallatie is, overeenkomstig dit Verdrag, aansprakelijk voor kernschade anders dan:
 
@@ -92,7 +117,7 @@ indien wordt bewezen dat bedoelde schade is veroorzaakt door een kernongeval in 
 
 b. In gevallen waarin kernschade wordt veroorzaakt door een kernongeval en door een ongeval niet zijnde een kernongeval tezamen, wordt het gedeelte van de schade dat door zulk een ander ongeval wordt veroorzaakt, voor zover dit redelijkerwijze niet te scheiden valt van de door het kernongeval veroorzaakte kernschade, beschouwd als door het kernongeval veroorzaakte kernschade. In gevallen waarin kernschade wordt veroorzaakt door een kernongeval en door een niet onder dit Verdrag vallend vrijkomen van ioniserende straling tezamen, wordt de aansprakelijkheid van enig persoon in verband met dit vrijkomen van ioniserende straling door niets in dit Verdrag beperkt of anderszins aangetast.
 
-#### Artikel 4
+##### Artikel 4
 
 Ten aanzien van vervoer van nucleaire stoffen, met inbegrip van de daarmee verband houdende opslag, geldt onverminderd het bepaalde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001020&artikel=2&z=2022-01-01&g=2022-01-01) het volgende:
 
@@ -122,7 +147,7 @@ Ten aanzien van vervoer van nucleaire stoffen, met inbegrip van de daarmee verba
 
 - (e). Een Verdragsluitende Partij kan in haar wetgeving bepalen, dat onder de daarin gestelde voorwaarden en indien is voldaan aan de vereisten van [artikel 10(a)](https://wetten.overheid.nl/jci1.3:c:BWBV0001020&artikel=10&z=2022-01-01&g=2022-01-01), een vervoerder op zijn verzoek en met toestemming van de exploitant van een op het grondgebied van die Partij gelegen kerninstallatie bij besluit van het bevoegde openbare gezag, in plaats van die exploitant aansprakelijk zal zijn overeenkomstig dit Verdrag. In dat geval zal de vervoerder voor de toepassing van dit Verdrag ten aanzien van kernongevallen welke zich tijdens het vervoer van nucleaire stoffen voordoen in elk opzicht worden beschouwd als exploitant van een kerninstallatie op het grondgebied van de Verdragsluitende Partij wier wetgeving aldus bepaalt.
 
-#### Artikel 5
+##### Artikel 5
 
 a. Indien de splijtstoffen of radioactieve produkten of afvalstoffen welke bij een kernongeval zijn betrokken zich in meer dan een kerninstallatie hebben bevonden en zich op het tijdstip waarop de kernschade wordt veroorzaakt in een kerninstallatie bevinden, is geen der exploitanten van de kerninstallaties waarin zij zich voordien hebben bevonden aansprakelijk voor de kernschade.
 
@@ -132,7 +157,7 @@ c. Indien de splijtstoffen of radioactieve produkten of afvalstoffen welke bij e
 
 d. Indien kernschade aanleiding geeft tot aansprakelijkheid van meer dan een exploitant overeenkomstig dit Verdrag, zijn die exploitanten hoofdelijk en ieder voor het geheel aansprakelijk, met dien verstande dat indien een zodanige aansprakelijkheid ontstaat tengevolge van kernschade veroorzaakt door een kernongeval waarbij nucleaire stoffen tijdens het vervoer in een en hetzelfde vervoermiddel of, in het geval van opslag tijdens het vervoer, in een en dezelfde kerninstallatie betrokken zijn, als hoogste totale bedrag van de aansprakelijkheid van die exploitanten zal gelden het hoogste bedrag dat voor een van hen overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001020&artikel=7&z=2022-01-01&g=2022-01-01) is vastgesteld. In geen geval zal een exploitant in verband met een kernongeval meer behoeven te betalen dan het overeenkomstig artikel 7 voor hem vastgestelde bedrag.
 
-#### Artikel 6
+##### Artikel 6
 
 a. Het recht op vergoeding van kernschade ontstaan door een kernongeval kan slechts worden uitgeoefend tegen een exploitant die overeenkomstig dit Verdrag aansprakelijk is voor de kernschade of, indien het volgens het nationale recht mogelijk is de verzekeraar of andere persoon, die de volgens [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001020&artikel=10&z=2022-01-01&g=2022-01-01) vereiste financiële zekerheid heeft gesteld, rechtstreeks aan te spreken, jegens de verzekeraar of die andere persoon.
 
@@ -160,7 +185,7 @@ g. Indien de exploitant ingevolge lid f van dit artikel recht van verhaal heeft 
 
 h. Indien bepalingen van regelingen betreffende nationale of andere openbare ziektekostenverzekering, sociale zekerheid, arbeidsongevallen- of beroepsziekteverzekering, mede voorzien in vergoeding van kernschade veroorzaakt door een kernongeval, worden de aanspraken van rechthebbenden uit hoofde van die regelingen, alsmede het verhaalsrecht op grond van die regelingen, vastgesteld bij de wet van de Verdragsluitende Partij of in de voorschriften van de intergouvernementele organisatie die bedoelde regelingen heeft ingesteld.
 
-#### Artikel 7
+##### Artikel 7
 
 a. Elke Verdragsluitende Partij bepaalt in haar wetgeving dat de aansprakelijkheid van de exploitant ten aanzien van door een kernongeval veroorzaakte kernschade ten minste 700 miljoen euro bedraagt.
 
@@ -190,7 +215,7 @@ i. De in dit artikel bedoelde bedragen kunnen in de nationale munteenheid worden
 
 j. Iedere Verdragsluitende Partij draagt er zorg voor dat personen die schade hebben geleden hun rechten op schadevergoeding kunnen uitoefenen, zonder dat zij afzonderlijke gedingen naargelang van de herkomst van de voor deze schadevergoeding bestemde gelden aanhangig behoeven te maken.
 
-#### Artikel 8
+##### Artikel 8
 
 a. Het recht op schadevergoeding krachtens dit Verdrag verjaart of vervalt indien geen rechtsvordering is ingesteld:
 
@@ -216,11 +241,11 @@ e. In de gevallen waarin de bepalingen van [artikel 13 f ii](https://wetten.over
 
 f. Tenzij het nationale recht voorziet in het tegendeel, kan elke persoon die kernschade heeft geleden tengevolge van een kernongeval en die binnen de bij dit artikel vastgestelde termijn een rechtsvordering tot schadevergoeding heeft ingesteld, zijn eis in verband met toeneming van de kernschade na het verstrijken van die termijn wijzigen, mits de bevoegde rechter nog geen einduitspraak heeft gedaan.
 
-#### Artikel 9
+##### Artikel 9
 
 De exploitant is niet aansprakelijk voor kernschade veroorzaakt door een kernongeval dat rechtstreeks te wijten is aan een gewapend conflict, vijandelijkheden, burgeroorlog of opstand.
 
-#### Artikel 10
+##### Artikel 10
 
 a. Ter dekking van de aansprakelijkheid krachtens dit Verdrag is de exploitant gehouden een verzekering of andere financiële zekerheid te hebben en in stand te houden ter grootte van het overeenkomstig [artikel 7 a of 7 b](https://wetten.overheid.nl/jci1.3:c:BWBV0001020&artikel=7&z=2022-01-01&g=2022-01-01) of [artikel 21 c](https://wetten.overheid.nl/jci1.3:c:BWBV0001020&artikel=21&z=2022-01-01&g=2022-01-01) vastgestelde bedrag en van de aard en op de voorwaarden als door het bevoegde openbare gezag worden vastgesteld.
 
@@ -232,15 +257,15 @@ d. De verzekeraar of andere persoon die financiële zekerheid heeft gesteld, kan
 
 e. De bedragen welke ter beschikking staan ingevolge verzekering, herverzekering of andere financiële zekerheid mogen alleen worden aangewend voor vergoeding van kernschade veroorzaakt door een kernongeval.
 
-#### Artikel 11
+##### Artikel 11
 
 Aard, vorm en omvang van de schadevergoeding, alsmede de billijke verdeling daarvan, worden binnen de grenzen van dit Verdrag geregeld door het nationale recht.
 
-#### Artikel 12
+##### Artikel 12
 
 Schadevergoeding betaalbaar krachtens dit Verdrag, verzekerings- en herverzekeringspremies, bedragen ter beschikking staande ingevolge verzekering, herverzekering of andere overeenkomstig [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001020&artikel=10&z=2022-01-01&g=2022-01-01) vereiste financiële zekerheid en kosten en interesten, als bedoeld in [artikel 7 h](https://wetten.overheid.nl/jci1.3:c:BWBV0001020&artikel=7&z=2022-01-01&g=2022-01-01) kunnen tussen de monetaire gebieden van de Verdragsluitende Partijen vrij worden overgemaakt.
 
-#### Artikel 13
+##### Artikel 13
 
 a. Tenzij in dit artikel anders is bepaald kunnen rechtsvorderingen ingevolge de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001020&artikel=3&z=2022-01-01&g=2022-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0001020&artikel=4&z=2022-01-01&g=2022-01-01) en [6 a](https://wetten.overheid.nl/jci1.3:c:BWBV0001020&artikel=6&z=2022-01-01&g=2022-01-01) uitsluitend worden ingesteld bij de bevoegde rechters van de Verdragsluitende Partij op wier grondgebied het kernongeval heeft plaatsgevonden.
 
@@ -270,7 +295,7 @@ i. Indien op tegenspraak gewezen vonnissen of verstekvonnissen van de overeenkom
 
 j. Indien tegen een Verdragsluitende Partij een rechtsvordering krachtens dit Verdrag is ingesteld, is het die Verdragsluitende Partij niet toegestaan voor de overeenkomstig dit artikel bevoegde rechter een beroep te doen op onschendbaarheid ten aanzien van rechtsvervolging, behoudens met betrekking tot maatregelen ter tenuitvoerlegging.
 
-#### Artikel 14
+##### Artikel 14
 
 a. Dit Verdrag zal worden toegepast zonder onderscheid van nationaliteit en van woon- of verblijfplaats.
 
@@ -278,17 +303,17 @@ b. „Nationaal recht” en „nationale wetgeving” betekenen het recht of de 
 
 c. Dat recht of die wetgeving zal worden toegepast zonder onderscheid van nationaliteit en van woon- of verblijfplaats.
 
-#### Artikel 15
+##### Artikel 15
 
 a. Iedere Verdragsluitende Partij kan die maatregelen treffen, welke zij nodig oordeelt voor een verhoging van het in dit Verdrag genoemde bedrag der schadevergoeding.
 
 b. Voor zover vergoeding van kernschade uitgaat boven de 700 miljoen euro, bedoeld in [artikel 7 a](https://wetten.overheid.nl/jci1.3:c:BWBV0001020&artikel=7&z=2022-01-01&g=2022-01-01), kunnen aan de toepassing van die maatregelen, welke vorm zij ook mogen hebben, bijzondere voorwaarden worden verbonden, welke kunnen afwijken van de bepalingen van dit Verdrag.
 
-#### Artikel 16
+##### Artikel 16
 
 Besluiten van de Bestuurscommissie krachtens artikel 1 (a) (ii), 1 (a) (iii) en 1 (b) worden genomen in onderlinge overeenstemming tussen de leden, die de Verdragsluitende Partijen vertegenwoordigen.
 
-#### Artikel 17
+##### Artikel 17
 
 a. Ingeval een geschil ontstaat tussen twee of meer Verdragsluitende Partijen betreffende de interpretatie of toepassing van dit Verdrag, plegen de partijen bij het geschil overleg met het oog op regeling van het geschil door onderhandeling of met andere vreedzame middelen.
 
@@ -298,7 +323,7 @@ c. Wanneer binnen drie maanden, te rekenen vanaf de in lid b bedoelde bijeenkoms
 
 d. Geschillen betreffende de afbakening van maritieme grenzen vallen buiten de reikwijdte van dit Verdrag.
 
-#### Artikel 18
+##### Artikel 18
 
 a. Ten aanzien van één of meer bepalingen van dit Verdrag kan te allen tijde vóór de bekrachtiging, aanvaarding of goedkeuring van of toetreding tot dit Verdrag, of vóór de mededeling krachtens [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0001020&artikel=23&z=2022-01-01&g=2022-01-01) met betrekking tot één of meer van de in die mededeling genoemde gebieden, een voorbehoud worden gemaakt dat slechts toelaatbaar is indien de bepalingen daarvan uitdrukkelijk door de ondertekenende Regeringen zijn aanvaard.
 
@@ -306,17 +331,17 @@ b. Een zodanige aanvaarding is niet vereist van een ondertekenende Regering die 
 
 c. Elk overeenkomstig dit artikel toegelaten voorbehoud kan te allen tijde door middel van een aan de Secretaris-Generaal van de Organisatie gerichte mededeling worden ingetrokken.
 
-#### Artikel 19
+##### Artikel 19
 
 a. Dit Verdrag dient te worden bekrachtigd, aanvaard of goedgekeurd. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Secretaris-Generaal van de Organisatie.
 
 b. Dit Verdrag treedt in werking zodra ten minste vijf ondertekenende Regeringen hun akte van bekrachtiging, aanvaarding of goedkeuring hebben nedergelegd. Voor iedere ondertekenende Regering die dit Verdrag daarna bekrachtigt, aanvaardt of goedkeurt treedt het in werking zodra haar akte van bekrachtiging, aanvaarding of goedkeuring is nedergelegd.
 
-#### Artikel 20
+##### Artikel 20
 
 Wijzigingen van dit Verdrag worden aangenomen met onderling goedvinden van alle Verdragsluitende Partijen. Zij worden van kracht zodra zij door twee derde van de Verdragsluitende Partijen zijn bekrachtigd, aanvaard of goedgekeurd. Voor iedere Verdragsluitende Partij die de wijzigingen daarna bekrachtigt, aanvaardt of goedkeurt, worden zij van kracht op de datum van bekrachtiging, aanvaarding of goedkeuring.
 
-#### Artikel 21
+##### Artikel 21
 
 a. De regering van ieder lid of geassocieerd land van de Organisatie die dit Verdrag niet heeft ondertekend, kan tot dit Verdrag toetreden door middel van een aan de Secretaris-Generaal van de Organisatie gerichte mededeling.
 
@@ -324,7 +349,7 @@ b. De regering van ieder land die dit Verdrag niet heeft ondertekend kan tot dit
 
 c. Niettegenstaande [artikel 7 a](https://wetten.overheid.nl/jci1.3:c:BWBV0001020&artikel=7&z=2022-01-01&g=2022-01-01) kan een Regering die dit Verdrag niet heeft ondertekend en die na 1 januari 1999 tot dit Verdrag is toegetreden, in haar wetgeving bepalen dat de aansprakelijkheid van de exploitant ten aanzien van kernschade veroorzaakt door een kernongeval, gedurende een termijn van ten hoogste vijf jaar na de datum van aanneming van het Protocol van 12 februari 2004 houdende wijziging van dit Verdrag, kan worden beperkt tot een overgangsbedrag van ten minste 350 miljoen euro ten aanzien van een kernongeval dat binnen die termijn plaatsvindt.
 
-#### Artikel 22
+##### Artikel 22
 
 a. Dit Verdrag blijft van kracht gedurende een periode van tien jaar te rekenen van de dag van zijn inwerkingtreding af. Iedere Verdragsluitende Partij kan, met inachtneming van een opzeggingstermijn van twaalf maanden, aan de Secretaris-Generaal van de Organisatie mededelen dat het Verdrag na afloop van die periode van tien jaar niet langer op haar van toepassing zal zijn.
 
@@ -334,7 +359,7 @@ c. De Verdragsluitende Partijen raadplegen elkaar na het verstrijken van elke vi
 
 d. De Secretaris-Generaal van de Organisatie zal, na een periode van vijf jaar te rekenen van de inwerkingtreding van het Verdrag af, of op verzoek van een Verdragsluitende Partij op enig ander tijdstip en wel binnen zes maanden na de dag waarop een zodanig verzoek is ingediend, een conferentie bijeenroepen ter bespreking van een herziening van dit Verdrag.
 
-#### Artikel 23
+##### Artikel 23
 
 a. Dit Verdrag is van toepassing op het grondgebied van het moederland van de Verdragsluitende Partijen.
 
@@ -342,7 +367,7 @@ b. Iedere ondertekenende Regering of Verdragsluitende Partij kan bij de ondertek
 
 c. De gebieden van een Verdragsluitende Partij (met inbegrip van de gebieden voor welker internationale betrekkingen zij verantwoordelijk is) waarop dit Verdrag niet van toepassing is zullen voor de toepassing van dit Verdrag worden beschouwd als gebieden van een niet-Verdragsluitende Staat.
 
-#### Artikel 24
+##### Artikel 24
 
 De Secretaris-Generaal van de Organisatie doet aan alle ondertekenende en toetredende Regeringen mededeling van de ontvangst van iedere akte van bekrachtiging, aanvaarding, goedkeuring, toetreding of terugtrekking, van iedere mededeling overeenkomstig [artikel 13 b](https://wetten.overheid.nl/jci1.3:c:BWBV0001020&artikel=13&z=2022-01-01&g=2022-01-01) en [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0001020&artikel=23&z=2022-01-01&g=2022-01-01), en van besluiten van de Bestuurscommissie krachtens artikel [1 a ii, 1 a iii en 1 b](https://wetten.overheid.nl/jci1.3:c:BWBV0001020&artikel=1&z=2022-01-01&g=2022-01-01), van het tijdstip waarop dit Verdrag in werking treedt, van de tekst van wijzigingen daarvan, van het tijdstip waarop deze wijzigingen van kracht worden en van de voorbehouden welke overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0001020&artikel=18&z=2022-01-01&g=2022-01-01) zijn gemaakt.
 
@@ -350,37 +375,37 @@ De volgende voorbehouden zijn aanvaard op het tijdstip van de ondertekening van 
 
 Betreft de Nederlandse tekst van het Verdrag inzake wettelijke aansprakelijkheid op het gebied van de kernenergie, zoals laatstelijk gewijzigd door het Protocol houdende wijziging van het Verdrag van 29 juli 1960 inzake wettelijke aansprakelijkheid op het gebied van de kernenergie, Trb. 1983, 80.
 
-#### 1. Artikel 6 (a) en (c) (i):
+##### 1. Artikel 6 (a) en (c) (i):
 
 Voorbehoud van de Regering van de Bondsrepubliek Duitsland, de Regering van de Republiek Oostenrijk en de Regering van het Koninkrijk Griekenland.
 
 Voorbehoud van het recht bij nationale wet te bepalen dat andere personen dan de exploitant aansprakelijk kunnen blijven voor door een kernongeval veroorzaakte schade, op voorwaarde dat deze personen voor hun aansprakelijkheid volledig zijn gedekt, zelfs in geval van ongerechtvaardigde rechtsvorderingen, door middel van door de exploitant verkregen verzekering of andere financiële zekerheid of van openbare middelen.
 
-#### 2. Artikel 6 (b) en (d):
+##### 2. Artikel 6 (b) en (d):
 
 Voorbehoud van de Regering van de Republiek Oostenrijk, de Regering van het Koninkrijk Griekenland, de Regering van het Koninkrijk Noorwegen en de Regering van het Koninkrijk Zweden.
 
 Voorbehoud van het recht hun nationale wetgeving, waarin bepalingen voorkomen van gelijke strekking als die vervat in de in artikel 6 (b) bedoelde internationale overeenkomsten, te beschouwen als internationale overeenkomsten in de zin van artikel 6 (b) en (d).
 
-#### 3. Artikel 8 (a):
+##### 3. Artikel 8 (a):
 
 Voorbehoud van de Regering van de Bondsrepubliek Duitsland en van de Regering van de Republiek Oostenrijk.
 
 Voorbehoud van het recht met betrekking tot kernongevallen die zich voordoen in onderscheidenlijk de Bondsrepubliek Duitsland en de Republiek Oostenrijk een langere termijn dan tien jaar vast te stellen, indien maatregelen zijn genomen om de aansprakelijkheid te dekken van de exploitant ten aanzien van alle rechtsvorderingen voor schadevergoeding die na het verstrijken van de termijn van tien jaar zijn ingesteld tijdens de verlengingstermijn.
 
-#### 4. Artikel 9:
+##### 4. Artikel 9:
 
 Voorbehoud van de Regering van de Bondsrepubliek Duitsland en de Regering van de Republiek Oostenrijk.
 
 Voorbehoud van het recht met betrekking tot kernongevallen die zich voordoen in onderscheidenlijk de Bondsrepubliek Duitsland en de Republiek Oostenrijk te bepalen dat de exploitant aansprakelijk is voor schade veroorzaakt door een kernongeval dat rechtstreeks te wijten is aan een gewapend conflict, vijandelijkheden, burgeroorlog, opstand of een ernstige natuurramp van uitzonderlijke aard.
 
-#### 5. Artikel 19:
+##### 5. Artikel 19:
 
 Voorbehoud van de Regering van de Bondsrepubliek Duitsland, de Regering van de Republiek Oostenrijk en de Regering van het Koninkrijk Griekenland.
 
 Voorbehoud van het recht het bekrachtigen van dit Verdrag te beschouwen als het scheppen van een verplichting krachtens het internationale recht om bij nationale wet bepalingen vast te stellen inzake wettelijke aansprakelijkheid op het gebied van de kernenergie in overeenstemming met de bepalingen van dit Verdrag.
 
-#### Artikel 16bis
+##### Artikel 16bis
 
 Dit Verdrag laat onverlet de rechten en verplichtingen van een Verdragsluitende Partij ingevolge de algemene regels van internationaal publiekrecht.
 
@@ -388,31 +413,31 @@ De volgende voorbehouden zijn aanvaard op het tijdstip van de ondertekening van 
 
 Betreft de Nederlandse tekst van het Verdrag inzake wettelijke aansprakelijkheid op het gebied van de kernenergie, zoals laatstelijk gewijzigd door het Protocol houdende wijziging van het Verdrag van 29 juli 1960 inzake wettelijke aansprakelijkheid op het gebied van de kernenergie, Trb. 1983, 80.
 
-#### 1. Artikel 6 (a) en (c) (i):
+##### 1. Artikel 6 (a) en (c) (i):
 
 Voorbehoud van de Regering van de Bondsrepubliek Duitsland, de Regering van de Republiek Oostenrijk en de Regering van het Koninkrijk Griekenland.
 
 Voorbehoud van het recht bij nationale wet te bepalen dat andere personen dan de exploitant aansprakelijk kunnen blijven voor door een kernongeval veroorzaakte schade, op voorwaarde dat deze personen voor hun aansprakelijkheid volledig zijn gedekt, zelfs in geval van ongerechtvaardigde rechtsvorderingen, door middel van door de exploitant verkregen verzekering of andere financiële zekerheid of van openbare middelen.
 
-#### 2. Artikel 6 (b) en (d):
+##### 2. Artikel 6 (b) en (d):
 
 Voorbehoud van de Regering van de Republiek Oostenrijk, de Regering van het Koninkrijk Griekenland, de Regering van het Koninkrijk Noorwegen en de Regering van het Koninkrijk Zweden.
 
 Voorbehoud van het recht hun nationale wetgeving, waarin bepalingen voorkomen van gelijke strekking als die vervat in de in artikel 6 (b) bedoelde internationale overeenkomsten, te beschouwen als internationale overeenkomsten in de zin van artikel 6 (b) en (d).
 
-#### 3. Artikel 8 (a):
+##### 3. Artikel 8 (a):
 
 Voorbehoud van de Regering van de Bondsrepubliek Duitsland en van de Regering van de Republiek Oostenrijk.
 
 Voorbehoud van het recht met betrekking tot kernongevallen die zich voordoen in onderscheidenlijk de Bondsrepubliek Duitsland en de Republiek Oostenrijk een langere termijn dan tien jaar vast te stellen, indien maatregelen zijn genomen om de aansprakelijkheid te dekken van de exploitant ten aanzien van alle rechtsvorderingen voor schadevergoeding die na het verstrijken van de termijn van tien jaar zijn ingesteld tijdens de verlengingstermijn.
 
-#### 4. Artikel 9:
+##### 4. Artikel 9:
 
 Voorbehoud van de Regering van de Bondsrepubliek Duitsland en de Regering van de Republiek Oostenrijk.
 
 Voorbehoud van het recht met betrekking tot kernongevallen die zich voordoen in onderscheidenlijk de Bondsrepubliek Duitsland en de Republiek Oostenrijk te bepalen dat de exploitant aansprakelijk is voor schade veroorzaakt door een kernongeval dat rechtstreeks te wijten is aan een gewapend conflict, vijandelijkheden, burgeroorlog, opstand of een ernstige natuurramp van uitzonderlijke aard.
 
-#### 5. Artikel 19:
+##### 5. Artikel 19:
 
 Voorbehoud van de Regering van de Bondsrepubliek Duitsland, de Regering van de Republiek Oostenrijk en de Regering van het Koninkrijk Griekenland.
 

@@ -1,24 +1,50 @@
 ---
-title: "Wijzigingsbesluit enige fiscale uitvoeringsbesluiten (2013)"
+title: "Besluit van 20 december 2012 tot wijziging van enige fiscale uitvoeringsbesluiten"
 identifier: "BWBR0032643"
-categorie: "Bestuursrecht"
-publicatiedatum: 2013-07-01
-laatste_update: 2013-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032643"
+country: "nl"
+rank: "amvb"
+publication_date: "2013-07-01"
+last_updated: "2013-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032643"
+soort: "AMvB"
+stam_id: "12014743"
+version_id: "19992322"
+internal_id: "C28090011"
+label_id: "11986674"
+dtd_version: "2.0"
+original_entry_into_force: "2013-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032643/2013-07-01/0"
+intitule_bron: "Stb.2012-694"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-12-20"
+intitule_published: "2012-12-28"
+intitule_in_force: "2012-12-28"
+intitule_status: "goed"
+original_publication: "Stb.2012-694"
+original_signed_date: "2012-12-20"
+original_published_date: "2012-12-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2012-694"
+entry_into_force_date: "2013-01-01"
+jci_1_3: "jci1.3:c:BWBR0032643&z=2013-07-01&g=2013-07-01"
+jci_1_0: "1.0:c:BWBR0032643&g=2013-07-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsbesluit enige fiscale uitvoeringsbesluiten (2013)"
+signed_date: "2012-12-20"
+entry_into_force: "2013-01-01"
 ---
-
 # Besluit van 20 december 2012 tot wijziging van enige fiscale uitvoeringsbesluiten
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Uitvoeringsbesluit inkomstenbelasting 2001.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Uitvoeringsbesluit loonbelasting 1965.
 
-#### Artikel III
+##### Artikel III
 
 Het [Uitvoeringsbesluit loonbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002489) zoals dat luidde op 31 december 2010 wordt als volgt gewijzigd:
 
@@ -28,79 +54,79 @@ Het [Uitvoeringsbesluit loonbelasting 1965](https://wetten.overheid.nl/jci1.3:c:
 
 - B. In [artikel 9b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&artikel=9b), wordt «ingaande op de eerste dag van de tewerkstelling door de inhoudingsplichtige» vervangen door: ingaande op de eerste dag van de tewerkstelling door de inhoudingsplichtige en eindigende op de laatste dag van het loontijdvak na het loontijdvak waarin die tewerkstelling is geëindigd.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het Uitvoeringsbesluit vennootschapsbelasting 1971.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Besluit fiscale eenheid 2003.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt het Uitvoeringsbesluit Successiewet 1956.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt het Uitvoeringsbesluit belastingen van rechtsverkeer.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt het Uitvoeringsbesluit omzetbelasting 1968.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt het Uitvoeringsbesluit belasting van personenauto's en motorrijwielen 1992.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt het Uitvoeringsbesluit motorrijtuigenbelasting 1994.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt het Uitvoeringsbesluit belasting zware motorrijtuigen.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt het Uitvoeringsbesluit accijns.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt het Uitvoeringsbesluit verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt het Uitvoeringsbesluit Invorderingswet 1990.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt het Uitvoeringsbesluit belastingen op milieugrondslag.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Het [Besluit vrijstelling energiebelasting op elektriciteit bij convenanten](https://wetten.overheid.nl/jci1.3:c:BWBR0016872) wordt ingetrokken.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Wijzigt het Uitvoeringsbesluit internationale bijstandsverlening bij de heffing van belastingen.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Wijzigt het Besluit voorkoming dubbele belasting 2001.
 
-#### Artikel XIX
+##### Artikel XIX
 
 Wijzigt het Uitvoeringsbesluit Belastingwet BES.
 
-#### Artikel XX
+##### Artikel XX
 
 Wijzigt het Uitvoeringsbesluit Douane- en Accijnswet BES.
 
-#### Artikel XXI
+##### Artikel XXI
 
 Het in [artikel VII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0032643&artikel=VII&z=2013-07-01&g=2013-07-01), opgenomen [artikel 3a van het Uitvoeringsbesluit belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002770&artikel=3a) geldt tevens voor de gevallen waarbij het goed niet eerder dan zes maanden voor 1 november 2012 voor het eerst in gebruik is genomen of is verhuurd.
 
-#### Artikel XXII
+##### Artikel XXII
 
 1. Dit besluit treedt in werking met ingang van 1 januari 2013, met dien verstande dat:
 

@@ -1,13 +1,35 @@
 ---
 title: "Circulaire Toepassing van staalslak en hoogovenslak(zand) als bouwstof in een werk"
 identifier: "BWBR0049708"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-05-08
-laatste_update: 2024-05-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049708"
+country: "nl"
+rank: "circulaire"
+publication_date: "2024-05-08"
+last_updated: "2024-05-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049708"
+soort: "circulaire"
+stam_id: "17105753"
+version_id: "30105282"
+internal_id: "C43133681"
+label_id: "17014394"
+dtd_version: "2.0"
+original_entry_into_force: "2024-05-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049708/2024-05-08/0"
+intitule_bron: "Stcrt.2024-14040"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2024-05-08"
+intitule_in_force: "2024-05-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-14040"
+original_published_date: "2024-05-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-14040"
+entry_into_force_date: "2024-05-08"
+jci_1_3: "jci1.3:c:BWBR0049708&z=2024-05-08&g=2024-05-08"
+jci_1_0: "1.0:c:BWBR0049708&g=2024-05-08"
+citeertitel_status: "redactioneel"
+entry_into_force: "2024-05-08"
 ---
-
 # Circulaire Toepassing van staalslak en hoogovenslak(zand) als bouwstof in een werk
 
 ### Aanleiding

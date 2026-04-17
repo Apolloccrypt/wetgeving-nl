@@ -1,13 +1,39 @@
 ---
-title: "Regeling versterking functiemix vo-leraren in de Randstadregio’s"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 8 januari 2010, nr. DL/A/182197, houdende regels voor aanvullende personele bekostiging voor de versterking van de functiemix van leraren in het voortgezet onderwijs in de Randstadregio’s 2010–2012 (Regeling versterking van functiemix leraren VO in de Randstadregio’s 2010–2012)"
 identifier: "BWBR0027113"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027113"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027113"
+soort: "ministeriele-regeling"
+stam_id: "10392553"
+version_id: "17098882"
+internal_id: "C23594761"
+label_id: "10368034"
+dtd_version: "2.0"
+original_entry_into_force: "2010-01-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027113/2026-01-01/0"
+intitule_bron: "Stcrt.2010-1014"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-01-08"
+intitule_published: "2010-01-25"
+intitule_in_force: "2010-01-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-1014"
+original_signed_date: "2010-01-08"
+original_published_date: "2010-01-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-1014"
+entry_into_force_date: "2010-01-26"
+jci_1_3: "jci1.3:c:BWBR0027113&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0027113&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling versterking functiemix vo-leraren in de Randstadregio’s"
+signed_date: "2010-01-08"
+entry_into_force: "2010-01-26"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 8 januari 2010, nr. DL/A/182197, houdende regels voor aanvullende personele bekostiging voor de versterking van de functiemix van leraren in het voortgezet onderwijs in de Randstadregio’s 2010–2012 (Regeling versterking van functiemix leraren VO in de Randstadregio’s 2010–2012)
 
 Gelet op [artikel 85a van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=85a);
@@ -16,7 +42,7 @@ Besluit:
 
 ### 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -42,7 +68,7 @@ In deze regeling wordt verstaan onder:
 
 ### 2. Hoofdlijnen
 
-#### Artikel 2. Doelomschrijving
+##### Artikel 2. Doelomschrijving
 
 1. De minister verstrekt in 2026 aanvullende bekostiging ter versterking van de functiemix binnen de Randstadregio’s door het verhogen van het aandeel leraren in voltijdequivalenten in bezoldigingsschaal LC.
 
@@ -54,11 +80,11 @@ In deze regeling wordt verstaan onder:
 
 - c. in het Convenant Leerkracht van Nederland is afgesproken dat de voortgang van deze prestatieafspraken jaarlijks zal worden gemonitord op school- en sectorniveau.
 
-#### Artikel 3. Aanvullende bekostiging
+##### Artikel 3. Aanvullende bekostiging
 
 De aanvullende bekostiging wordt verstrekt aan bevoegde gezagsorganen met één of meer scholen of vestigingen in de Randstadregio’s, die voldaan hebben aan de verplichte leveringen van personeelsgegevens over het afgelopen jaar.
 
-#### Artikel 4. Berekening aanvullende bekostiging
+##### Artikel 4. Berekening aanvullende bekostiging
 
 1. Voor de aanvullende bekostiging is in 2026 een bedrag van € 85.428.000 beschikbaar.
 
@@ -84,7 +110,7 @@ LLi = de op de teldatum bekostigde leerlingen van school i;
 
 Σ(Bi * LLri/ LLi) = de integrale som van het product Bi * LLri/ LLi voor het totaal van alle voor aanvullende bekostiging als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027113&hoofdstuk=2&artikel=3&z=2026-01-01&g=2026-01-01) in aanmerking komende scholen.
 
-#### Artikel 5. Vaststelling en betaling aanvullende bekostiging
+##### Artikel 5. Vaststelling en betaling aanvullende bekostiging
 
 1. De aanvullende bekostiging wordt uiterlijk in de maand mei vastgesteld en deze wordt betaald in maandelijkse termijnen van gelijke omvang.
 
@@ -92,25 +118,25 @@ LLi = de op de teldatum bekostigde leerlingen van school i;
 
 ### 3. Verantwoording
 
-#### Artikel 6. Besteding en verantwoording
+##### Artikel 6. Besteding en verantwoording
 
 1. De aanvullende bekostiging wordt verstrekt ter dekking van de uitgaven die zijn verbonden aan het in de regeling omschreven doel. Terugvordering van de eventueel niet-bestede middelen of overschotten vindt niet plaats.
 
 2. De verantwoording van de aanvullende bekostiging geschiedt in de jaarverslaggeving, bedoeld in de [Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132). De verklaring van de accountant bij de jaarrekening omvat tevens een oordeel over de rechtmatige besteding van de aanvullende bekostiging.
 
-#### Artikel 7. Informatieplicht
+##### Artikel 7. Informatieplicht
 
 Het bevoegd gezag werkt mee aan door of namens de minister ingestelde onderzoeken die erop gericht zijn de minister inlichtingen te verschaffen ten behoeve van de ontwikkeling van het door of namens de minister te voeren beleid.
 
 ### 4. Slotbepalingen
 
-#### Artikel 8. Inwerkingtreding
+##### Artikel 8. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2010.
 
 2. Deze regeling vervalt met ingang van 1 januari 2027, met dien verstande dat de regeling van toepassing blijft voor lopende bezwaren en beroepen.
 
-#### Artikel 9. Citeertitel
+##### Artikel 9. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling versterking functiemix vo-leraren in de Randstadregio’s.
 
@@ -226,7 +252,7 @@ Deze regeling wordt aangehaald als: Regeling versterking functiemix vo-leraren i
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 7a. Omhangbepaling
+##### Artikel 7a. Omhangbepaling
 
 Deze regeling berust op [artikel 5.9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.9).
 

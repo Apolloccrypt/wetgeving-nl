@@ -1,13 +1,38 @@
 ---
 title: "Regeling ‘Declaratievoorschriften Wlz-zorg’"
 identifier: "BWBR0039218"
-categorie: "Sociaal recht"
-publicatiedatum: 2017-02-23
-laatste_update: 2017-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039218"
+country: "nl"
+rank: "zbo"
+publication_date: "2017-02-23"
+last_updated: "2017-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039218"
+soort: "zbo"
+stam_id: "13914243"
+version_id: "23881172"
+internal_id: "C34353091"
+label_id: "13878374"
+dtd_version: "2.0"
+original_entry_into_force: "2017-02-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039218/2017-02-23/0"
+intitule_bron: "Stcrt.2017-9742"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-02-07"
+intitule_published: "2017-02-22"
+intitule_in_force: "2017-02-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-9742"
+original_signed_date: "2017-02-07"
+original_published_date: "2017-02-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-9742"
+entry_into_force_date: "2017-02-23"
+jci_1_3: "jci1.3:c:BWBR0039218&z=2017-02-23&g=2017-02-23"
+jci_1_0: "1.0:c:BWBR0039218&g=2017-02-23"
+citeertitel_status: "officieel"
+signed_date: "2017-02-07"
+entry_into_force: "2017-02-23"
 ---
-
 # Regeling ‘Declaratievoorschriften Wlz-zorg’
 
 Ingevolge [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=37) en [38 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=38) (Wmg), is de Nederlandse Zorgautoriteit (NZa) bevoegd tot het stellen van regels op het gebied van de registratie en declaratie van Wlz-zorg.

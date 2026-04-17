@@ -1,13 +1,38 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en Nieuw-Zeeland inzake wederzijdse bijstand bij de invordering van belastingvorderingen"
 identifier: "BWBV0001541"
-categorie: "Belastingrecht"
-publicatiedatum: 2004-08-22
-laatste_update: 2004-08-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001541"
+country: "nl"
+rank: "verdrag"
+publication_date: "2004-08-22"
+last_updated: "2004-08-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001541"
+soort: "verdrag"
+stam_id: "10000349593"
+version_id: "10000357562"
+internal_id: "C10009551981"
+label_id: "10000349734"
+dtd_version: "2.0"
+original_entry_into_force: "2004-08-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001541/2004-08-22/0"
+intitule_bron: "Trb.2002-45"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-06-18"
+intitule_published: "2002-02-26"
+intitule_in_force: "2004-09-10"
+intitule_status: "goed"
+original_publication: "Trb.2002-45"
+original_signed_date: "2002-06-18"
+original_published_date: "2002-02-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2002-45"
+entry_into_force_date: "2004-08-22"
+jci_1_3: "jci1.3:c:BWBV0001541&z=2004-08-22&g=2004-08-22"
+jci_1_0: "1.0:c:BWBV0001541&g=2004-08-22"
+citeertitel_status: "officieel"
+signed_date: "2002-06-18"
+entry_into_force: "2004-08-22"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en Nieuw-Zeeland inzake wederzijdse bijstand bij de invordering van belastingvorderingen
 
 De Regering van het Koninkrijk der Nederlanden
@@ -20,13 +45,13 @@ Geleid door de wens dat door beide Staten een verdrag wordt gesloten inzake wede
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Reikwijdte van het Verdrag
+##### Artikel 1. Reikwijdte van het Verdrag
 
 1. De Verdragsluitende Staten verlenen elkaar bijstand bij de invordering van belastingvorderingen.
 
 2. Een Verdragsluitende Staat verleent deze bijstand ongeacht of de betrokken persoon een inwoner of een onderdaan van een van de Verdragsluitende Staten is of niet.
 
-#### Artikel 2. Belastingen waarop het Verdrag van toepassing is
+##### Artikel 2. Belastingen waarop het Verdrag van toepassing is
 
 1. Dit Verdrag is van toepassing op belastingen naar het inkomen die, ongeacht de wijze van heffing, ten behoeve van een Verdragsluitende Staat worden geheven.
 
@@ -50,7 +75,7 @@ Zijn het volgende overeengekomen:
 
 4. Het Verdrag is ook van toepassing op alle gelijke of in wezen gelijksoortige belastingen die na de datum van ondertekening van het Verdrag naast, of in plaats van, de bestaande belastingen worden geheven. De bevoegde autoriteiten van de Verdragsluitende Staten doen elkaar mededeling van alle wezenlijke wijzigingen die in hun onderscheiden belastingwetgevingen zijn aangebracht.
 
-#### Artikel 3. Algemene begripsbepalingen
+##### Artikel 3. Algemene begripsbepalingen
 
 1. Voor de toepassing van dit Verdrag, tenzij de context anders vereist:
 
@@ -82,7 +107,7 @@ Zijn het volgende overeengekomen:
 
 2. Voor de toepassing van het Verdrag door een Verdragsluitende Staat heeft, tenzij de context anders vereist, elke in het Verdrag niet omschreven uitdrukking de betekenis welke die uitdrukking heeft volgens de, op dat moment van kracht zijnde, wetgeving van die Staat met betrekking tot de belastingen waarop het Verdrag van toepassing is.
 
-#### Artikel 4. Bijstand bij invordering
+##### Artikel 4. Bijstand bij invordering
 
 1. Op verzoek van de verzoekende Staat vordert de aangezochte Staat belastingvorderingen van de eerstgenoemde Staat in overeenkomstig de wetgeving en de administratieve praktijk met betrekking tot de invordering van zijn eigen belastingvorderingen. Die vorderingen genieten echter geen voorrang in de aangezochte Staat en kunnen niet worden ingevorderd door middel van in hechtenis nemen wegens schuld van de schuldenaar. De aangezochte Staat is niet verplicht invorderingsmaatregelen te nemen waarin de wetgeving van de verzoekende Staat niet voorziet.
 
@@ -122,7 +147,7 @@ Indien de vordering echter een belastingverplichting betreft van een persoon die
 
 12. De Verdragsluitende Staten zien wederzijds af van de terugbetaling van kosten die voortvloeien uit de onderscheiden hulp en bijstand die zij elkaar verlenen bij de toepassing van dit Verdrag. De verzoekende Staat zal in ieder geval verantwoordelijk blijven jegens de aangezochte Staat voor de geldelijke gevolgen van invorderingshandelingen die onterecht zijn gebleken ten aanzien van de realiteit van de desbetreffende belastingvordering of van de rechtsgeldigheid van de executoriale titel in de verzoekende Staat.
 
-#### Artikel 5. Beperkingen van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001541&artikel=4&z=2004-08-22&g=2004-08-22)
+##### Artikel 5. Beperkingen van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001541&artikel=4&z=2004-08-22&g=2004-08-22)
 
 In geen geval worden de bepalingen van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001541&artikel=4&z=2004-08-22&g=2004-08-22) aldus uitgelegd dat zij een Verdragsluitende Staat de verplichting opleggen:
 
@@ -132,7 +157,7 @@ In geen geval worden de bepalingen van [artikel 4](https://wetten.overheid.nl/jc
 
 - c. inlichtingen te verstrekken die een handels-, bedrijfs-, nijverheids- of beroepsgeheim of een fabrieks- of handelswerkwijze zouden onthullen, dan wel inlichtingen waarvan het verstrekken in strijd zou zijn met de openbare orde (ordre public).
 
-#### Artikel 6. Tenuitvoerlegging van het Verdrag
+##### Artikel 6. Tenuitvoerlegging van het Verdrag
 
 1. De bevoegde autoriteiten van de Verdragsluitende Staten regelen in onderling overleg de wijze van toepassing van dit Verdrag. Deze wijze van toepassing omvat ook een bepaling met betrekking tot het minimumbedrag van de belastingvordering waarvoor om bijstand kan worden verzocht. De bevoegde autoriteiten kunnen formulieren vaststellen voor de tenuitvoerlegging van dit Verdrag.
 
@@ -140,11 +165,11 @@ In geen geval worden de bepalingen van [artikel 4](https://wetten.overheid.nl/jc
 
 3. Indien moeilijkheden of twijfels mochten rijzen aangaande de tenuitvoerlegging of uitlegging van het Verdrag, trachten de bevoegde autoriteiten de aangelegenheid in onderling overleg op te lossen.
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 Dit Verdrag treedt in werking op de dertigste dag na de laatste der beide data waarop de onderscheiden Regeringen elkaar schriftelijk hebben medegedeeld dat aan de in hun onderscheiden Staten grondwettelijk vereiste formaliteiten is voldaan, en de bepalingen ervan vinden toepassing met betrekking tot alle belastingvorderingen die op of na de datum waarop het Verdrag in werking treedt invorderbaar zijn.
 
-#### Artikel 8. Beëindiging
+##### Artikel 8. Beëindiging
 
 Dit Verdrag blijft van kracht totdat het door een van de Verdragsluitende Staten wordt beëindigd. Elk van de Staten kan het Verdrag langs diplomatieke weg beëindigen door kennisgeving van beëindiging te doen. In dat geval houdt het Verdrag op van toepassing te zijn met betrekking tot alle belastingvorderingen die invorderbaar worden na de datum waarop de kennisgeving van beëindiging is gedaan.
 

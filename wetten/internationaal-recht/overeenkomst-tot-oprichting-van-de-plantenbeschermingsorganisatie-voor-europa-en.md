@@ -1,16 +1,38 @@
 ---
 title: "Overeenkomst tot oprichting van de Plantenbeschermingsorganisatie voor Europa en het gebied van de Middellandse Zee"
 identifier: "BWBV0005073"
-categorie: "Internationaal recht"
-publicatiedatum: 1999-09-15
-laatste_update: 1999-09-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005073"
+country: "nl"
+rank: "verdrag"
+publication_date: "1999-09-15"
+last_updated: "1999-09-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005073"
+soort: "verdrag"
+stam_id: "10004457253"
+version_id: "10004668882"
+internal_id: "C10007304071"
+label_id: "10004442524"
+dtd_version: "2.0"
+original_entry_into_force: "1951-04-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005073/1999-09-15/0"
+intitule_bron: "Trb.1952-62"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1952-04-24"
+intitule_in_force: "1952-04-24"
+intitule_status: "goed"
+original_publication: "Trb.1952-62"
+original_published_date: "1952-04-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1952-62"
+entry_into_force_date: "1951-04-18"
+jci_1_3: "jci1.3:c:BWBV0005073&z=1999-09-15&g=1999-09-15"
+jci_1_0: "1.0:c:BWBV0005073&g=1999-09-15"
+citeertitel_status: "redactioneel"
+entry_into_force: "1951-04-18"
 ---
-
 # Overeenkomst tot oprichting van de Plantenbeschermingsorganisatie voor Europa en het gebied van de Middellandse Zee
 
-#### Artikel I. Doelstellingen
+##### Artikel I. Doelstellingen
 
 Er wordt een Plantenbeschermingsorganisatie voor Europa en het gebied van de Middellandse Zee (hierna te noemen de Organisatie) opgericht, als erkende regionale organisatie voor de bescherming van planten in het kader van het [Internationaal Verdrag voor de bescherming van planten](https://wetten.overheid.nl/jci1.3:c:BWBV0003652), die is opgericht door de Voedsel- en Landbouworganisatie van de Verenigde Naties (FAO)2)Artikel VIII van het Internationaal Verdrag voor de bescherming van planten van 06-12-1951; Artikel IX van de nieuwe herziene tekst van het Internationaal Verdrag voor de bescherming van planten zoals aangenomen bij Resolutie 12/97 door de FAO-Conferentie tijdens de negenentwintigste zitting in november 1997.. De doelstellingen van de Organisatie zijn:
 
@@ -22,7 +44,7 @@ Er wordt een Plantenbeschermingsorganisatie voor Europa en het gebied van de Mid
 
 - d. de collectieve standpunten van de regeringen die lid zijn, in voorkomend geval, voor te leggen aan de FAO, de WTO, andere regionale organisaties ter bescherming van planten en andere organen met daarmee verband houdende verantwoordelijkheden.
 
-#### Artikel II. Begripsomschrijvingen
+##### Artikel II. Begripsomschrijvingen
 
 Ten behoeve van deze Overeenkomst worden de navolgende termen als volgt gedefinieerd:
 
@@ -50,7 +72,7 @@ Ten behoeve van deze Overeenkomst worden de navolgende termen als volgt gedefini
 
 „Gereguleerde ziekte of plaag”: een quarantaineziekte of quarantaineplaag of een gereguleerde niet-quarantaineziekte of niet-quarantaine plaag;
 
-#### Artikel III. Lidmaatschap
+##### Artikel III. Lidmaatschap
 
 a. Het lidmaatschap van de Organisatie, dat wordt verkregen door aanvaarding van deze Overeenkomst volgens de bepalingen van [artikel XX](https://wetten.overheid.nl/jci1.3:c:BWBV0005073&artikel=XX&z=1999-09-15&g=1999-09-15), staat open voor:
 
@@ -60,13 +82,13 @@ a. Het lidmaatschap van de Organisatie, dat wordt verkregen door aanvaarding van
 
 b. De regering van ieder gebied waaromtrent een verklaring is afgelegd overeenkomstig de bepalingen van [artikel XXI](https://wetten.overheid.nl/jci1.3:c:BWBV0005073&artikel=XXI&z=1999-09-15&g=1999-09-15), kan door de Raad van de Organisatie tot het lidmaatschap worden toegelaten, doch alleen op voorstel van het lid dat die verklaring heeft afgelegd. Voor een zodanige beslissing is een meerderheid van twee derden van de uitgebrachte stemmen vereist. De gebieden die aldus worden toegelaten, moeten naar het oordeel van de Raad in staat zijn om een duidelijke en welomschreven bijdrage te leveren aan het werk van de Organisatie.
 
-#### Artikel IV. Zetel
+##### Artikel IV. Zetel
 
 a. De zetel van de Organisatie is gevestigd te Parijs.
 
 b. De vergaderingen van de Organisatie zullen in de regel worden gehouden ter plaatse waar haar zetel gevestigd is.
 
-#### Artikel V. Taak
+##### Artikel V. Taak
 
 De Organisatie heeft tot taak:
 
@@ -104,17 +126,17 @@ De Organisatie heeft tot taak:
 
 - g. in het algemeen alle noodzakelijke en passende maatregelen te nemen voor het verwezenlijken van de doelstellingen van de Organisatie.
 
-#### Artikel VI. Verplichtingen van regeringen die lid zijn
+##### Artikel VI. Verplichtingen van regeringen die lid zijn
 
 a. De regeringen die lid zijn verschaffen de Organisatie zoveel mogelijk de informatie die zij redelijkerwijs nodig kan hebben om haar taak te vervullen, waaronder in het bijzonder de informatie bedoeld in [Artikel V f1 en V f2](https://wetten.overheid.nl/jci1.3:c:BWBV0005073&artikel=V&z=1999-09-15&g=1999-09-15).
 
 b. De regeringen die lid zijn trachten de aanbevelingen van de Raad van de Organisatie te implementeren, waaronder in het bijzonder de regionale standaarden.
 
-#### Artikel VII. Betrekkingen met andere organisaties
+##### Artikel VII. Betrekkingen met andere organisaties
 
 De Organisatie werkt om de doelstellingen van deze Overeenkomst te verwezenlijken samen met de FAO en andere regionale plantenbeschermingsorganisaties en kan samenwerken met de WTO en andere organen die een gelijksoortige taak hebben, bij relevante activiteiten. Deze omvatten de ontwikkeling van standaarden voor fytosanitaire en andere officiële plantbeschermingsmaatregelen en het overwegen of regionale standaarden van de Organisatie in aanmerking komen als internationale standaarden. Zij doet al het mogelijke om te voorkomen dat werkzaamheden dubbel worden verricht.
 
-#### Artikel VIII. Opbouw van de Organisatie
+##### Artikel VIII. Opbouw van de Organisatie
 
 De Organisatie omvat:
 
@@ -126,7 +148,7 @@ De Organisatie omvat:
 
 - d. Andere organen die de Raad overeenkomstig [Artikel XIII a.5](https://wetten.overheid.nl/jci1.3:c:BWBV0005073&artikel=XIII&z=1999-09-15&g=1999-09-15) wenst op te richten.
 
-#### Artikel IX. De Raad
+##### Artikel IX. De Raad
 
 a. De Raad van de Organisatie bestaat uit vertegenwoordigers van de regeringen die lid zijn.
 
@@ -136,21 +158,21 @@ a. De Raad van de Organisatie bestaat uit vertegenwoordigers van de regeringen d
 
 b. Iedere regering die lid is heeft één stem in de Raad.
 
-#### Artikel X. Zittingen van de Raad
+##### Artikel X. Zittingen van de Raad
 
 a. In de regel komt de Raad eenmaal per jaar in gewone zitting bijeen.
 
 b. Buitengewone zittingen van de Raad worden belegd wanneer ten minste een derde van de regeringen die lid zijn een schriftelijk verzoek daartoe heeft gericht tot de voorzitter.
 
-#### Artikel XI. Reglementen
+##### Artikel XI. Reglementen
 
 De Raad stelt het huishoudelijk reglement en het financiële reglement van de Organisatie vast.
 
-#### Artikel XII. Waarnemers
+##### Artikel XII. Waarnemers
 
 Met toestemming van de Raad kan iedere regering die geen lid is van de Organisatie, en iedere internationale organisatie die een taak heeft die verband houdt met de taak van de Organisatie, zich op elke zitting van de Raad doen vertegenwoordigen door een of meer waarnemers die geen stemrecht hebben.
 
-#### Artikel XIII. Taak van de Raad
+##### Artikel XIII. Taak van de Raad
 
 De Raad:
 
@@ -174,7 +196,7 @@ De Raad:
 
 - c. benoemt de Directeur-Generaal en stelt de voorwaarden van zijn dienstverband vast.
 
-#### Artikel XIV. Voorzitter en vicevoorzitter
+##### Artikel XIV. Voorzitter en vicevoorzitter
 
 a. De Raad kiest uit de vertegenwoordigers van de regeringen die lid zijn een voorzitter en een vicevoorzitter.
 
@@ -184,7 +206,7 @@ c. De voorzitter en de vicevoorzitter vervullen dezelfde functie zowel in de Raa
 
 d. Zodra zij zijn verkozen vertegenwoordigen de voorzitter en de vicevoorzitter hun land niet meer.
 
-#### Artikel XV. Het Dagelijks Bestuur
+##### Artikel XV. Het Dagelijks Bestuur
 
 a. Het Dagelijks Bestuur bestaat uit de voorzitter en vicevoorzitter en zeven, door de Raad verkozen vertegenwoordigers van de regeringen die lid zijn.
 
@@ -194,7 +216,7 @@ c. In geval er een vacature ontstaat in het Dagelijks Bestuur vóór het aflopen
 
 d. Het Dagelijks Bestuur komt ten minste eenmaal per jaar bijeen.
 
-#### Artikel XVI. Taak van het Dagelijks Bestuur
+##### Artikel XVI. Taak van het Dagelijks Bestuur
 
 Het Dagelijks Bestuur:
 
@@ -210,7 +232,7 @@ Het Dagelijks Bestuur:
 
 - f. stelt zijn eigen huishoudelijk reglement vast.
 
-#### Artikel XVII. De Directeur-Generaal
+##### Artikel XVII. De Directeur-Generaal
 
 De Directeur-Generaal:
 
@@ -220,7 +242,7 @@ De Directeur-Generaal:
 
 - c. doet op iedere gewone zitting van de Raad verslag van de werkzaamheden van de Organisatie en van de financiële toestand.
 
-#### Artikel XVIII. Financiën
+##### Artikel XVIII. Financiën
 
 a. De uitgaven van de Organisatie worden gedekt door jaarlijkse bijdragen van de regeringen die lid zijn, alsmede door andere door de Raad of door het Dagelijks Bestuur goed te keuren inkomsten.
 
@@ -244,7 +266,7 @@ j. Het Dagelijks Bestuur benoemt, met goedkeuring van de Raad, een accountant om
 
 k. De Kascommissie controleert jaarlijks, met de accountant, de rekeningen en het bestuur van de Organisatie en brengt verslag uit aan de Raad.
 
-#### Artikel XIX. Wijzigingen
+##### Artikel XIX. Wijzigingen
 
 a. De tekst van voorstellen tot wijziging van deze Overeenkomst en tot wijziging van Bijlage I wordt door de Directeur-Generaal aan de regeringen die lid zijn medegedeeld ten minste drie maanden voordat de bedoelde voorstellen in de Raad zullen worden behandeld.
 
@@ -254,7 +276,7 @@ c. Wijzigingen van [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0005073&b
 
 d. De aanvaarding van wijzigingen wordt ter kennis gebracht van de Franse Regering, die alle regeringen die lid zijn mededeling doet van de ontvangst van de kennisgevingen van aanvaarding en van de inwerkingtreding van de wijzigingen.
 
-#### Artikel XX. Ondertekening en aanvaarding
+##### Artikel XX. Ondertekening en aanvaarding
 
 a. Deze Overeenkomst zal opengesteld blijven voor ondertekening of toetreding en de regeringen die, ingevolge het in [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBV0005073&artikel=III&z=1999-09-15&g=1999-09-15) bepaalde, lid kunnen worden van de Organisatie, kunnen partij worden bij deze Overeenkomst door:
 
@@ -266,7 +288,7 @@ a. Deze Overeenkomst zal opengesteld blijven voor ondertekening of toetreding en
 
 b. De akten van bekrachtiging, aanvaarding of goedkeuring, of toetreding worden nedergelegd bij de Franse Regering. De depositaris stelt alle regeringen die lid zijn in kennis van de datum waarop ieder van hen de Overeenkomst heeft ondertekend of een akte heeft nedergelegd.
 
-#### Artikel XXI. Toepassing op bepaalde gebieden
+##### Artikel XXI. Toepassing op bepaalde gebieden
 
 a. Iedere regering kan te allen tijde verklaren dat haar deelname aan deze Overeenkomst tevens alle of enkele van de gebieden omvat voor welke internationale betrekkingen zij verantwoordelijk is. Deze verklaring zal bij de Franse Regering worden nedergelegd.
 
@@ -274,7 +296,7 @@ b. Een verklaring, uit hoofde van het voorgaande lid van dit artikel door een re
 
 c. De Franse Regering doet aan alle regeringen die lid zijn onmiddellijk mededeling van verklaringen die ingevolge dit artikel bij haar worden nedergelegd.
 
-#### Artikel XXII. Opzegging
+##### Artikel XXII. Opzegging
 
 a. Iedere regering die lid is kan deze Overeenkomst te allen tijde nadat twee jaar zijn verlopen sinds de dag waarop de Overeenkomst voor die regering in werking is getreden, opzeggen door schriftelijke kennisgeving aan de Franse Regering. De opzegging treedt in werking één jaar na de dag van ontvangst van deze kennisgeving.
 
@@ -284,7 +306,7 @@ c. De toepassing van de Overeenkomst op een gebied of gebieden uit hoofde van [a
 
 d. De Franse Regering stelt alle deelnemende regeringen onmiddellijk op de hoogte van overeenkomstig dit artikel gedane kennisgevingen.
 
-#### Artikel XXIII. Inwerkingtreding
+##### Artikel XXIII. Inwerkingtreding
 
 a. Deze Overeenkomst treedt in werking op de dag waarop vijf regeringen er partij bij zijn geworden overeenkomstig de bepalingen van [artikel XX](https://wetten.overheid.nl/jci1.3:c:BWBV0005073&artikel=XX&z=1999-09-15&g=1999-09-15).
 

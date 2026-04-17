@@ -1,13 +1,39 @@
 ---
-title: "Regeling identiteitskaarten BES"
+title: "Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 16 september 2010, nr. 2010-0000606584, houdende regels ter uitvoering van de Wet identiteitskaarten BES en het Besluit identiteitskaarten BES (Regeling identiteitskaarten BES)"
 identifier: "BWBR0028473"
-categorie: "Overig"
-publicatiedatum: 2026-04-01
-laatste_update: 2026-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028473"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2026-04-01"
+last_updated: "2026-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028473"
+soort: "ministeriele-regeling-BES"
+stam_id: "10800723"
+version_id: "17778922"
+internal_id: "C24803121"
+label_id: "10775484"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028473/2026-04-01/0"
+intitule_bron: "Stcrt.2010-14719"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-16"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-14719"
+original_signed_date: "2010-09-16"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-14719"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028473&z=2026-04-01&g=2026-04-01"
+jci_1_0: "1.0:c:BWBR0028473&g=2026-04-01"
+citeertitel_status: "officieel"
+short_title: "Regeling identiteitskaarten BES"
+signed_date: "2010-09-16"
+entry_into_force: "2010-10-10"
 ---
-
 # Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 16 september 2010, nr. 2010-0000606584, houdende regels ter uitvoering van de Wet identiteitskaarten BES en het Besluit identiteitskaarten BES (Regeling identiteitskaarten BES)
 
 Gelet op de [artikelen 8, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028279&artikel=8) en [13a van de Wet identiteitskaarten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028279&artikel=13a) en de [artikelen 1a, eerste, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028517&artikel=1a), [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028517&artikel=7) en [9, tweede lid, van het Besluit identiteitskaarten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028517&artikel=9);
@@ -18,7 +44,7 @@ Treedt in werking op het tijdstip waarop de Wet identiteitskaarten BES in werkin
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -28,7 +54,7 @@ In deze regeling wordt verstaan onder:
 
 - c. **het besluit:** het [Besluit identiteitskaarten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028517).
 
-#### Artikel 2
+##### Artikel 2
 
 1. De identiteitskaarten worden in het openbaar lichaam Bonaire afgegeven overeenkomstig het model dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028473&bijlage=1&z=2026-04-01&g=2026-04-01) bij deze regeling is gevoegd.
 
@@ -38,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Fotovereisten en nadere gegevens in de identiteitskaart
 
-#### Artikel 3
+##### Artikel 3
 
 1. De foto voor de identiteitskaart voldoet aan de eisen die als acceptatiecriteria voor een pasfoto zijn opgenomen in de fotomatrix, bedoeld in [artikel 28 van de Paspoortuitvoeringsregeling Nederland 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&artikel=28).
 
@@ -46,13 +72,13 @@ In deze regeling wordt verstaan onder:
 
 3. Indien op grond van objectief vast te stellen fysieke of medische redenen, door betrokkene niet kan worden voldaan aan alle eisen, kan van deze eisen worden afgeweken. Bij gerede twijfel aan de medische redenen kan van betrokkene worden verlangd, dat deze daartoe een door een bevoegde arts of medische instelling ondertekende verklaring overlegt.
 
-#### Artikel 4
+##### Artikel 4
 
 In aanvulling op de gegevens, genoemd in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028279&artikel=2) en [artikel 1a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028517&artikel=1a), worden, in de daarvoor in aanmerking komende gevallen, in een identiteitskaart de standaardclausules opgenomen, genoemd in [bijlage A, onderdeel I, van de Paspoortuitvoeringsregeling Nederland 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&bijlage=A).
 
 ### Hoofdstuk 3. Administratieve maatregelen en beveiliging
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het bestellen en in ontvangst nemen van zendingen blanco identiteitskaarten geschiedt door ambtenaren die ingevolge de [Paspoortuitvoeringsregeling Nederland 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012811) bevoegd zijn tot het bestellen en in ontvangst nemen van zendingen blanco noodpaspoorten en laissez-passer’s.
 
@@ -62,29 +88,29 @@ In aanvulling op de gegevens, genoemd in [artikel 2 van de wet](https://wetten.o
 
 4. Na controle van de zending wordt deze veilig gesteld. Indien de aflevering niet aan de kluis geschiedt, ziet de ambtenaar die de zending in ontvangst heeft genomen erop toe, dat deze na controle direct in de kluis wordt opgeslagen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De blanco identiteitskaarten worden in volgorde van de nummers verbruikt.
 
 2. Blanco identiteitskaarten die onjuist blijken te zijn vervaardigd of zijn beschadigd worden op beveiligde wijze aan het agentschap Basisadministratie Persoonsgegevens en Reisdocumenten van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties gezonden.
 
-#### Artikel 7
+##### Artikel 7
 
 De vernietiging van een ingeleverde identiteitskaart geschiedt door het document op gecontroleerde wijze te verbranden of te versnipperen, zodat reconstructie van de identiteitskaart niet meer mogelijk is.
 
-#### Artikel 8
+##### Artikel 8
 
 De [artikelen 90](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&artikel=90), [91, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&artikel=91), [92](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&artikel=92), [93, eerste lid, onder a, b en d, zesde, zevende, tiende tot en met veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&artikel=93), [94, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&artikel=94) en [95 van de Paspoortuitvoeringsregeling Nederland 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&artikel=95) zijn van overeenkomstige toepassing.
 
 ### Hoofdstuk 4. Kosten en afdracht aan het rijk
 
-#### Artikel 9
+##### Artikel 9
 
 1. Voor iedere door de minister geleverde blanco identiteitskaart zijn de openbare lichamen Bonaire, Sint Eustatius en Saba aan het Rijk een bedrag aan kosten verschuldigd van USD 3,00.
 
 2. Geen kosten zijn verschuldigd voor blanco identiteitskaarten die niet op de juiste wijze zijn vervaardigd.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De minister stelt per kwartaal het bedrag vast van de kosten die door het openbaar lichaam aan het Rijk moeten worden afgedragen.
 
@@ -96,17 +122,17 @@ De [artikelen 90](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&artikel=90), [
 
 ### Hoofdstuk 5. Overgangs- en slotbepalingen
 
-#### Artikel 11
+##### Artikel 11
 
 1. Een identiteitskaart die in Bonaire is afgegeven voor de inwerkingtreding van deze regeling behoudt de geldigheidsduur die daarin is vermeld.
 
 2. Een identiteitskaart die in Sint Eustatius of Saba is afgegeven voor de inwerkingtreding van deze regeling behoudt tot 1 juli 2011 de geldigheidsduur die daarin is vermeld.
 
-#### Artikel 12
+##### Artikel 12
 
 Deze regeling treedt in werking op het tijdstip waarop de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028279) in werking treedt.
 
-#### Artikel 13
+##### Artikel 13
 
 Deze regeling wordt aangehaald als: Regeling identiteitskaarten BES.
 

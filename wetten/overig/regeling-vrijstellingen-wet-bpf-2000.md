@@ -1,20 +1,46 @@
 ---
-title: "Regeling vrijstellingen Wet Bpf 2000"
+title: "Regeling van de Minister voor Armoedebeleid, Participatie en Pensioenen van 19 juni 2023, 2022-0000127186, ter uitwerking van bepalingen uit het Vrijstellings- en boetebesluit Wet Bpf 2000 (Regeling vrijstellingen Wet Bpf2000)"
 identifier: "BWBR0048327"
-categorie: "Overig"
-publicatiedatum: 2026-04-10
-laatste_update: 2026-04-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048327"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-04-10"
+last_updated: "2026-04-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048327"
+soort: "ministeriele-regeling"
+stam_id: "16785413"
+version_id: "30941602"
+internal_id: "C44322721"
+label_id: "16700524"
+dtd_version: "2.0"
+original_entry_into_force: "2025-09-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048327/2026-04-10/0"
+intitule_bron: "Stcrt.2023-17727"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-06-19"
+intitule_published: "2023-06-30"
+intitule_in_force: "2023-06-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-33134"
+original_signed_date: "2025-09-24"
+original_published_date: "2025-09-29"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2025-33134"
+entry_into_force_date: "2025-09-24"
+jci_1_3: "jci1.3:c:BWBR0048327&z=2026-04-10&g=2026-04-10"
+jci_1_0: "1.0:c:BWBR0048327&g=2026-04-10"
+citeertitel_status: "officieel"
+short_title: "Regeling vrijstellingen Wet Bpf 2000"
+signed_date: "2025-09-24"
+entry_into_force: "2025-09-24"
 ---
-
 # Regeling van de Minister voor Armoedebeleid, Participatie en Pensioenen van 19 juni 2023, 2022-0000127186, ter uitwerking van bepalingen uit het Vrijstellings- en boetebesluit Wet Bpf 2000 (Regeling vrijstellingen Wet Bpf2000)
 
 Gelet op de [artikelen 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=5), [7, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=7), en [7b, vijfde lid, van het Vrijstellings- en boetebesluit Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=7b);
 
 Besluit:
 
-#### Artikel 1. Performancetoets
+##### Artikel 1. Performancetoets
 
 1. Ten behoeve van de performancetoets, uit te voeren op de wijze beschreven in de bijlage bij deze regeling, stelt het bedrijfstakpensioenfonds jaarlijks het beleggingsbeleid voor het daarop volgende kalenderjaar vast waarbij een adequate verdeling van de beleggingen is gemaakt in vastrentende en zakelijke waarden. Van een adequate verdeling tussen vastrentende en zakelijke waarden is sprake indien aannemelijk gemaakt kan worden dat die verdeling:
 
@@ -50,7 +76,7 @@ Besluit:
 
   - 4°. de aan het bedrijfspensioenfonds deelnemende werkgevers binnen twee maanden na het opnieuw vaststellen van het beleggingsbeleid en de normportefeuille een schriftelijke mededeling toekomen.
 
-#### Artikel 2. Performancetoets na fusie
+##### Artikel 2. Performancetoets na fusie
 
 Indien de fusie van twee of meer bedrijfstakpensioenfondsen tot een nieuw bedrijfstakpensioenfonds heeft plaatsgevonden in de loop van een kalenderjaar wordt de performancetoets van het nieuwe bedrijfstakpensioenfonds over het kalenderjaar van de fusie als volgt berekend:
 
@@ -62,7 +88,7 @@ Indien de fusie van twee of meer bedrijfstakpensioenfondsen tot een nieuw bedrij
 
 - d. de scores in de onderdelen b en c worden samengevoegd.
 
-#### Artikel 3. Verzekeringstechnisch nadeel
+##### Artikel 3. Verzekeringstechnisch nadeel
 
 1. Het verzekeringstechnisch nadeel, bedoeld in de [artikelen 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=7), en [7b, derde lid, van het Vrijstellings- en boetebesluit Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=7b), vanuit de risicopremie en de premie voor nabestaanden- en arbeidsongeschiktheidspensioen is gezamenlijk het verzekeringstechnisch nadeel.
 
@@ -72,7 +98,7 @@ Indien de fusie van twee of meer bedrijfstakpensioenfondsen tot een nieuw bedrij
 
 4. Indien er op de dag van uittreding sprake is van een financieringsachterstand dan wel onderdekking, mag dit er niet toe leiden dat de financieringsachterstand wordt verhaald op de bij het bedrijfstakpensioenfonds achterblijvende werkgevers. De werkgever aan wie de vrijstelling is verleend dient dan op dezelfde wijze als de achterblijvende werkgevers bij te dragen in de financiering van de achterstand. Partijen kunnen overeen komen dat dit in een keer wordt afgerekend
 
-#### Artikel 4. Rekenregels verzekeringstechnisch nadeel
+##### Artikel 4. Rekenregels verzekeringstechnisch nadeel
 
 1. De hoogte van de compensatie ter vergoeding van het verzekeringstechnisch nadeel bij vrijstelling wordt berekend met inachtneming van dit artikel.
 
@@ -104,7 +130,7 @@ Indien de fusie van twee of meer bedrijfstakpensioenfondsen tot een nieuw bedrij
 
 - d. het verzekeringstechnisch nadeel vanwege de te missen solidariteitsbijdragen wordt gevonden door de bedragen onder b en c op te tellen en te vermenigvuldigen met de factor van de contante waarde van een continue annuïteit met een looptijd van vijf jaar waarbij deze looptijd wordt verlengd met het aantal volle jaren dat de gemiddelde leeftijd van het bestand van de uittredende werkgever meer dan vijf jaar lager is dan de gemiddelde leeftijd van het totale bestand van het bedrijfstakpensioenfonds en waarbij de rentevoet wordt afgeleid uit de rentetermijnstructuur, bedoeld in [artikel 2, tweede lid, van het Besluit financieel toetsingskader pensioenfondsen](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=2).
 
-#### Artikel 5. Actuariële gelijkwaardigheid
+##### Artikel 5. Actuariële gelijkwaardigheid
 
 1. Ten minste eens in de vijf jaar wordt door het bedrijfstakpensioenfonds getoetst of de regeling van de werkgever aan wie vrijstelling is verleend actuarieel gelijkwaardig is als bedoeld in[artikel 7, vijfde lid, van het Vrijstellings- en boetebesluit Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=7). Indien in de tussenliggende periode sprake is van een wijziging in de regeling van het bedrijfstakpensioenfonds dan wel in de regeling van de werkgever aan wie vrijstelling is verleend die zo ingrijpend is dat mag worden aangenomen dat daarvan een reële invloed op de onderstaande berekening zal uitgaan, kan het bedrijfstakpensioenfonds beslissen dat de toets frequenter wordt uitgevoerd. De werkgever aan wie vrijstelling is verleend, zendt van iedere wijziging in de pensioenregeling een afschrift aan het bedrijfstakpensioenfonds.
 
@@ -148,7 +174,7 @@ Indien de fusie van twee of meer bedrijfstakpensioenfondsen tot een nieuw bedrij
 
 8. Het zesde lid vervalt met ingang van 1 oktober 2030. Het zevende lid en dit lid vervallen met ingang van 1 januari 2031.
 
-#### Artikel 6. Financiële gelijkwaardigheid
+##### Artikel 6. Financiële gelijkwaardigheid
 
 1. Ten minste eens in de vijf jaar wordt door het bedrijfstakpensioenfonds getoetst of de regeling van de werkgever aan wie vrijstelling is verleend financieel gelijkwaardig is als bedoeld in [artikel 7, vijfde lid, van het Vrijstellings- en boetebesluit Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=7). Indien in de tussenliggende periode sprake is van een wijziging in de regeling van het bedrijfstakpensioenfonds dan wel in de regeling van de werkgever aan wie vrijstelling is verleend die zo ingrijpend is dat mag worden aangenomen dat daarvan een reële invloed op de onderstaande berekening zal uitgaan, kan het bedrijfstakpensioenfonds beslissen dat de toets frequenter wordt uitgevoerd. De werkgever aan wie vrijstelling is verleend, zendt van iedere wijziging in de pensioenregeling een afschrift aan het bedrijfstakpensioenfonds.
 
@@ -166,7 +192,7 @@ Indien de fusie van twee of meer bedrijfstakpensioenfondsen tot een nieuw bedrij
 
 6. De financiële gelijkwaardigheid, bedoeld in dit artikel, wordt geacht te zijn aangetoond indien de werkgever voor de vrijgestelde werknemers een pensioenregeling heeft die aansluit bij de maximale begrenzingen die zijn opgenomen in de [hoofdstukken IIB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&hoofdstuk=IIB) en [VIII van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&hoofdstuk=VIII).
 
-#### Artikel 7. Overgangsrecht [Wet toekomst pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0048328)
+##### Artikel 7. Overgangsrecht [Wet toekomst pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0048328)
 
 1. De kwantitatieve gelijkwaardigheid wordt in afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048327&artikel=5&z=2026-04-10&g=2026-04-10), en [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048327&artikel=6&z=2026-04-10&g=2026-04-10), voor de duur van de hierna genoemde periode aangetoond door een toets op enkel de financiële gelijkwaardigheid, bedoeld in artikel 6, derde lid, onderdeel a, of vijfde lid en de aanwezigheid van het pensioen op risicobasis dat onderdeel uitmaakt van de pensioenregeling van het bedrijfstakpensioenfonds, voordat deze overgaat op uitvoering van een gewijzigde pensioenovereenkomst als bedoeld in [artikel 220i van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=220i). Het gaat om de periode waarin enkel het bedrijfstakpensioenfonds dan wel enkel de werkgever die een vrijstelling heeft of aanvraagt bij dat bedrijfstakpensioenfonds, als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=2) of [6 van het Vrijstellings- en boetebesluit Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=6), is overgegaan op uitvoering van een gewijzigde pensioenovereenkomst als bedoeld in artikel 220i van de Pensioenwet. In de genoemde periode kan in afwijking van [artikel 8, eerste lid, van het Vrijstellings- en boetebesluit Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=8), de vrijstelling door het bedrijfstakpensioenfonds niet worden ingetrokken vanwege het ontbreken van de actuariële gelijkwaardigheid.
 
@@ -174,11 +200,11 @@ Indien de fusie van twee of meer bedrijfstakpensioenfondsen tot een nieuw bedrij
 
 3. Dit artikel vervalt met ingang van 1 januari 2028.
 
-#### Artikel 8. Inwerkingtreding
+##### Artikel 8. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 juli 2023.
 
-#### Artikel 9. Citeertitel
+##### Artikel 9. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling vrijstellingen Wet Bpf 2000.
 
@@ -237,7 +263,7 @@ Daartoe berekent men zj volgens de formule:
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 6a. Gelijkwaardige aanspraken
+##### Artikel 6a. Gelijkwaardige aanspraken
 
 1. Door het bedrijfstakpensioenfonds wordt getoetst of aan de pensioenregeling van de werkgever ten minste gelijkwaardige aanspraken worden ontleend als aan de pensioenregeling van het bedrijfstakpensioenfonds als bedoeld in [artikel 7, zesde lid, van het Vrijstellings- en boetebesluit Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=7). Hierbij toetst het bedrijfstakpensioenfonds of:
 
@@ -251,7 +277,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 2. Bij de toets aan de voorwaarde, bedoeld in het eerste lid, onderdeel a, is [artikel 5, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048327&artikel=5&z=2026-04-10&g=2026-04-10) van overeenkomstige toepassing en bij de toets aan de voorwaarden, bedoeld in het eerste lid, onderdelen b en c, is [artikel 6, eerste, tweede, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048327&artikel=6&z=2026-04-10&g=2026-04-10) van overeenkomstige toepassing.
 
-#### Artikel 6b. Evaluatie toetsing van actuariële gelijkwaardigheid
+##### Artikel 6b. Evaluatie toetsing van actuariële gelijkwaardigheid
 
 Onze Minister zendt in 2028 aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van de toetsing van de actuariële gelijkwaardigheid, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048327&artikel=5&z=2026-04-10&g=2026-04-10), in de praktijk.
 

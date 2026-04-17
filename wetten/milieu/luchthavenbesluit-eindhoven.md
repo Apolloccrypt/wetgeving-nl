@@ -1,13 +1,39 @@
 ---
-title: "Luchthavenbesluit Eindhoven"
+title: "Besluit van 26 september 2014 tot vaststelling van een luchthavenbesluit voor de militaire luchthaven Eindhoven (Luchthavenbesluit Eindhoven)"
 identifier: "BWBR0035646"
-categorie: "Milieu"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035646"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035646"
+soort: "AMvB"
+stam_id: "12816623"
+version_id: "21771752"
+internal_id: "C31249181"
+label_id: "12786544"
+dtd_version: "2.0"
+original_entry_into_force: "2014-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035646/2024-01-01/0"
+intitule_bron: "Stb.2014-356"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-09-26"
+intitule_published: "2014-10-15"
+intitule_in_force: "2014-10-15"
+intitule_status: "goed"
+original_publication: "Stb.2014-356"
+original_signed_date: "2014-09-26"
+original_published_date: "2014-10-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2014-356"
+entry_into_force_date: "2014-11-01"
+jci_1_3: "jci1.3:c:BWBR0035646&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0035646&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Luchthavenbesluit Eindhoven"
+signed_date: "2014-09-26"
+entry_into_force: "2014-11-01"
 ---
-
 # Besluit van 26 september 2014 tot vaststelling van een luchthavenbesluit voor de militaire luchthaven Eindhoven (Luchthavenbesluit Eindhoven)
 
 Op de voordracht van Onze Minister van Defensie van 10 juli 2014, nr. BS2014021512, Directie Juridische Zaken, gedaan in overeenstemming met de Staatssecretaris van Infrastructuur en Milieu;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1
+##### Artikel 1.1
 
 In dit besluit wordt verstaan onder:
 
@@ -42,7 +68,7 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 2. Het luchthavengebied en het beperkingengebied
 
-#### Artikel 2.1
+##### Artikel 2.1
 
 1. Het luchthavengebied is het gebied dat als zodanig is aangewezen op de kaart in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035646&bijlage=1&z=2024-01-01&g=2024-01-01) bij dit besluit.
 
@@ -60,21 +86,21 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 3.1. Het luchthavengebied
 
-#### Artikel 3.1.1
+##### Artikel 3.1.1
 
 De locaties die zijn bestemd voor het banenstelsel van de luchthaven, de rolbanen, de vliegtuigopstelplaatsen, de hangars en vliegtuigshelters en de locaties die benodigd zijn voor de uitvoering van de taken en functies die zijn toegekend aan de militaire luchthaven Eindhoven, alsmede het platform, de voorrijwegen en parkeerterreinen, de gebouwen voor passagiersafhandeling en de aankomst- en vertrekhallen van de burgerexploitant, zijn als zodanig aangewezen op de kaart in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035646&bijlage=1&z=2024-01-01&g=2024-01-01) bij dit besluit.
 
 #### Paragraaf 3.2. Het beperkingengebied
 
-#### Artikel 3.2.1
+##### Artikel 3.2.1
 
 De [artikelen 5 tot en met 14 van het Besluit militaire luchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&artikel=5) zijn van toepassing ten aanzien van de functie en het gebruik van de locaties zoals aangewezen op de kaart in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035646&bijlage=3&z=2024-01-01&g=2024-01-01) bij dit besluit. Op deze kaart zijn tevens aangewezen de gebieden behorende bij de waarden van de geluidsbelasting hoger dan 40, 45 en 65 Kosteneenheden.
 
-#### Artikel 3.2.2
+##### Artikel 3.2.2
 
 [Artikel 16 van het Besluit militaire luchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&artikel=16) is van toepassing ten aanzien van de maximaal toelaatbare hoogten van objecten in verband met de veiligheid van het luchthavenluchtverkeer, onderscheidenlijk de veiligheid van het landen van luchtvaartuigen met behulp van een instrument landingssysteem, op de locaties zoals aangewezen op de kaarten in [bijlagen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035646&bijlage=4&z=2024-01-01&g=2024-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0035646&bijlage=5&z=2024-01-01&g=2024-01-01) bij dit besluit.
 
-#### Artikel 3.2.3
+##### Artikel 3.2.3
 
 1. Op de locaties die zijn aangewezen op de kaart in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035646&bijlage=6&z=2024-01-01&g=2024-01-01) bij dit besluit is het verrichten of toelaten van een activiteit binnen de volgende categorieën niet toegestaan:
 
@@ -98,11 +124,11 @@ De [artikelen 5 tot en met 14 van het Besluit militaire luchthavens](https://wet
 
 #### Paragraaf 4.1. Grenswaarde en regels voor het militaire luchtverkeer
 
-#### Artikel 4.1.1
+##### Artikel 4.1.1
 
 Voor het militaire luchtverkeer geldt de in [artikel 15 van het Besluit militaire luchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&artikel=15) genoemde grenswaarde van de geluidsbelasting van 35 Kosteneenheden voor militair luchtverkeer, waarvan de geografische ligging is aangewezen op de kaart in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035646&bijlage=7&z=2024-01-01&g=2024-01-01) bij dit besluit.
 
-#### Artikel 4.1.2
+##### Artikel 4.1.2
 
 1. De luchthaven is voor militair luchtverkeer geopend op maandag tot en met vrijdag van 07.00 uur tot 23.00 uur.
 
@@ -112,11 +138,11 @@ Voor het militaire luchtverkeer geldt de in [artikel 15 van het Besluit militair
 
 #### Paragraaf 4.2. Grenswaarde en regels voor het commercieel burgerluchtverkeer
 
-#### Artikel 4.2.1
+##### Artikel 4.2.1
 
 Voor het commercieel burgerluchtverkeer geldt de in [artikel 15 van het Besluit militaire luchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&artikel=15) genoemde grenswaarde van de geluidsbelasting van 35 Kosteneenheden voor commercieel burgerluchtverkeer, waarvan de geografische ligging is aangewezen op de kaart in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0035646&bijlage=8&z=2024-01-01&g=2024-01-01) bij dit besluit.
 
-#### Artikel 4.2.2
+##### Artikel 4.2.2
 
 1. De luchthaven is voor commercieel burgerluchtverkeer geopend op maandag tot en met zondag:
 
@@ -138,11 +164,11 @@ Voor het commercieel burgerluchtverkeer geldt de in [artikel 15 van het Besluit 
 
 #### Paragraaf 4.3. Grenswaarde en regels voor het recreatief burgerluchtverkeer en burgerluchtverkeer van algemeen maatschappelijk belang
 
-#### Artikel 4.3.1
+##### Artikel 4.3.1
 
 Voor het recreatief burgerluchtverkeer geldt als grenswaarde een maximum van 12.000 vliegtuigbewegingen per gebruiksjaar.
 
-#### Artikel 4.3.2
+##### Artikel 4.3.2
 
 1. De luchthaven is voor recreatief burgerluchtverkeer geopend binnen de uniforme daglichtperiode, te rekenen vanaf 08.00 uur lokale tijd op maandag tot en met vrijdag en vanaf 10.00 uur op zaterdag, zondag en christelijke feestdagen.
 
@@ -150,7 +176,7 @@ Voor het recreatief burgerluchtverkeer geldt als grenswaarde een maximum van 12.
 
 #### Paragraaf 4.4. Afwijking van regels in verband met evenementen
 
-#### Artikel 4.4.1
+##### Artikel 4.4.1
 
 1. De commandant van de militaire luchthaven kan ten behoeve van luchthavenluchtverkeer in het kader van een luchtvaartevenement op de luchthaven toestaan dat voor de duur van dat evenement wordt afgeweken van de dagen, genoemd in [artikel 4.1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035646&hoofdstuk=4&paragraaf=4.1&artikel=4.1.2&z=2024-01-01&g=2024-01-01).
 
@@ -160,25 +186,25 @@ Voor het recreatief burgerluchtverkeer geldt als grenswaarde een maximum van 12.
 
 ### Hoofdstuk 5. Overgangs- en slotbepalingen
 
-#### Artikel 5.1
+##### Artikel 5.1
 
 [Artikel 3.2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035646&hoofdstuk=3&paragraaf=3.2&artikel=3.2.3&z=2024-01-01&g=2024-01-01), is niet van toepassing op het verrichten of toelaten van een activiteit voor zover deze activiteit rechtmatig is op de dag voorafgaande aan de dag van inwerkingtreding van dit besluit.
 
-#### Artikel 5.2
+##### Artikel 5.2
 
 Evaluatie van de milieueffecten van dit besluit als bedoeld in [artikel 11.5 van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=11.5) vindt plaats op de wijze, omschreven in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0035646&bijlage=9&z=2024-01-01&g=2024-01-01) behorende bij dit besluit.
 
-#### Artikel 5.3
+##### Artikel 5.3
 
 Vervallen
 
-#### Artikel 5.4
+##### Artikel 5.4
 
 1. Dit besluit treedt in werking met ingang van de eerste dag van de kalendermaand na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
 2. [Artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035646&hoofdstuk=5&artikel=5.3&z=2024-01-01&g=2024-01-01) vervalt op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 5.5
+##### Artikel 5.5
 
 Dit besluit wordt aangehaald als: Luchthavenbesluit Eindhoven.
 

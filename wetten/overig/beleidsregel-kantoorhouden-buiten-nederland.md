@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel kantoorhouden buiten Nederland"
+title: "Besluit van de algemene raad van 3 november 2014 tot vaststelling van de beleidsregel inzake ontheffing kantoorhouden in één arrondissement op één locatie vanwege kantoorvestiging buiten Nederland (Beleidsregel kantoorhouden buiten Nederland)"
 identifier: "BWBR0041463"
-categorie: "Overig"
-publicatiedatum: 2021-01-01
-laatste_update: 2021-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041463"
+country: "nl"
+rank: "pbo"
+publication_date: "2021-01-01"
+last_updated: "2021-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041463"
+soort: "pbo"
+stam_id: "14839313"
+version_id: "25368932"
+internal_id: "C36226231"
+label_id: "14791104"
+dtd_version: "2.0"
+original_entry_into_force: "2018-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041463/2021-01-01/0"
+intitule_bron: "Stcrt.2018-58445"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-10-03"
+intitule_published: "2018-10-23"
+intitule_in_force: "2018-10-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-58445"
+original_signed_date: "2018-10-03"
+original_published_date: "2018-10-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-58445"
+entry_into_force_date: "2018-11-01"
+jci_1_3: "jci1.3:c:BWBR0041463&z=2021-01-01&g=2021-01-01"
+jci_1_0: "1.0:c:BWBR0041463&g=2021-01-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel kantoorhouden buiten Nederland"
+signed_date: "2018-10-03"
+entry_into_force: "2018-11-01"
 ---
-
 # Besluit van de algemene raad van 3 november 2014 tot vaststelling van de beleidsregel inzake ontheffing kantoorhouden in één arrondissement op één locatie vanwege kantoorvestiging buiten Nederland (Beleidsregel kantoorhouden buiten Nederland)
 
 gelet op [artikel 12, derde lid, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=12);
@@ -16,23 +42,23 @@ gelet op [titel 4.3 van de Algemene wet bestuursrecht](https://wetten.overheid.n
 
 stelt het navolgende besluit vast:
 
-#### Artikel 1. Reikwijdte van de beleidsregel kantoorhouden buiten Nederland
+##### Artikel 1. Reikwijdte van de beleidsregel kantoorhouden buiten Nederland
 
 Deze beleidsregel is van toepassing op de advocaat die op een kantooradres in Nederland op het tableau is ingeschreven en zijn kantoor wil verplaatsen naar een adres buiten Nederland en tevens op de advocaat die reeds een kantooradres buiten Nederland heeft en zijn kantoor wil verplaatsen naar een ander adres buiten Nederland.
 
-#### Artikel 2. Uitleg wettelijke voorschriften
+##### Artikel 2. Uitleg wettelijke voorschriften
 
 In deze beleidsregel wordt verstaan onder:
 
 - **kantoor:** de plaats waar de advocaat zijn wezenlijke beroepsactiviteiten verricht en waar het centrum van zijn beroepswerkzaamheden is gelegen.
 
-#### Artikel 3. Verzoek ontheffing
+##### Artikel 3. Verzoek ontheffing
 
 1. De advocaat verzoekt om ontheffing als bedoeld in [artikel 12, derde lid, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=12), uiterlijk twee maanden voor aanvang van de vestiging van het kantoor buiten Nederland.
 
 2. De advocaat die na afloop van de tijdsperiode van de ontheffing buiten Nederland kantoor wil blijven houden, verzoekt opnieuw om ontheffing voor een nieuwe tijdsperiode.
 
-#### Artikel 4. Weigering van de ontheffing
+##### Artikel 4. Weigering van de ontheffing
 
 De algemene raad weigert de ontheffing in ieder geval indien:
 
@@ -42,7 +68,7 @@ De algemene raad weigert de ontheffing in ieder geval indien:
 
 - c. de advocaat-stagiaire een opleidingsplan heeft verstrekt met onvoldoende waarborgen of vereiste informatie.
 
-#### Artikel 5. Verlening van de ontheffing
+##### Artikel 5. Verlening van de ontheffing
 
 1. De algemene raad verleent de ontheffing in ieder geval indien:
 
@@ -56,7 +82,7 @@ De algemene raad weigert de ontheffing in ieder geval indien:
 
 2. De advocaat vermeldt in het verzoek de tijdsperiode van het kantoorhouden buiten Nederland, waarna voor deze tijdsperiode ontheffing wordt verleend, niet zijnde langer dan drie jaren.
 
-#### Artikel 6. Voorwaarden in de ontheffing
+##### Artikel 6. Voorwaarden in de ontheffing
 
 De algemene raad verbindt aan een ontheffing als bedoeld in [artikel 12, derde lid, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=12), in ieder geval de volgende voorwaarden:
 
@@ -74,7 +100,7 @@ De algemene raad verbindt aan een ontheffing als bedoeld in [artikel 12, derde l
 
 - g. de advocaat meldt een terugkeer van vestiging in Nederland bij de algemene raad en de raad van de orde in het arrondissement, waarna in geval de tijdsperiode van de ontheffing nog niet is verlopen de ontheffing wordt ingetrokken.
 
-#### Artikel 7. Ontheffing aan stagiaire
+##### Artikel 7. Ontheffing aan stagiaire
 
 1. Onverminderd [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041463&artikel=3&z=2021-01-01&g=2021-01-01) is het verzoek van een stagiaire medeondertekend door de in Nederland op het tableau ingeschreven patroon van de stagiaire.
 
@@ -96,11 +122,11 @@ De algemene raad verbindt aan een ontheffing als bedoeld in [artikel 12, derde l
 
 6. In afwijking van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041463&artikel=5&z=2021-01-01&g=2021-01-01), wordt de ontheffing aan een stagiaire verleend voor de verzochte tijdsperiode, niet zijnde langer dan anderhalf jaar.
 
-#### Artikel 8. Inwerkingtreding
+##### Artikel 8. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 januari 2015.
 
-#### Artikel 9. Citeertitel
+##### Artikel 9. Citeertitel
 
 Dit besluit wordt aangehaald als: Beleidsregel kantoorhouden buiten Nederland.
 

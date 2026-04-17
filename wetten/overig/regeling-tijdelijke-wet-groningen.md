@@ -1,13 +1,39 @@
 ---
-title: "Regeling Tijdelijke wet Groningen"
+title: "Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 29 juni 2023, nr. WJZ/ 27870366, houdende regels ter uitvoering van de Tijdelijke wet Groningen en het Besluit Tijdelijke wet Groningen (Regeling Tijdelijke wet Groningen)"
 identifier: "BWBR0048350"
-categorie: "Overig"
-publicatiedatum: 2026-01-22
-laatste_update: 2026-01-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048350"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-22"
+last_updated: "2026-01-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048350"
+soort: "ministeriele-regeling"
+stam_id: "16790533"
+version_id: "29640082"
+internal_id: "C42409961"
+label_id: "16705974"
+dtd_version: "2.0"
+original_entry_into_force: "2023-09-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048350/2026-01-22/0"
+intitule_bron: "Stcrt.2023-17749"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-06-29"
+intitule_published: "2023-06-30"
+intitule_in_force: "2023-06-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-27013"
+original_signed_date: "2023-09-26"
+original_published_date: "2023-09-29"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2023-27013"
+entry_into_force_date: "2023-09-26"
+jci_1_3: "jci1.3:c:BWBR0048350&z=2026-01-22&g=2026-01-22"
+jci_1_0: "1.0:c:BWBR0048350&g=2026-01-22"
+citeertitel_status: "officieel"
+short_title: "Regeling Tijdelijke wet Groningen"
+signed_date: "2023-09-26"
+entry_into_force: "2023-09-26"
 ---
-
 # Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 29 juni 2023, nr. WJZ/ 27870366, houdende regels ter uitvoering van de Tijdelijke wet Groningen en het Besluit Tijdelijke wet Groningen (Regeling Tijdelijke wet Groningen)
 
 Gelet op de [artikelen 2, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=2), [13i, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13i), [13ia, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13ia), [13h](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13h), [13ib, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13ib), [13ja](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13ja), [13j](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13j), [13m, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13m), [22b, vierde en zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=22b) en [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&artikel=1), [10b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&artikel=10b), [10f, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&artikel=10f), en [10g, derde, vierde, vijfde en zesde lid, van het Besluit Tijdelijke wet Groningen](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&artikel=10g);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1.1
+##### Artikel 1.1
 
 In deze regeling wordt verstaan onder:
 
@@ -60,7 +86,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 1a. Knelpuntentaak
 
-#### Artikel 2.1
+##### Artikel 2.1
 
 1. Het risicoprofiel van een gebouw met een normaal of licht verhoogd risico wordt bijgesteld naar een licht verhoogd respectievelijk verhoogd risico indien dat het risicoprofiel is van een gebouw:
 
@@ -84,7 +110,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 3. Vergoeding beoordeling in eigen beheer
 
-#### Artikel 3.1
+##### Artikel 3.1
 
 1. De Minister kan een vergoeding als bedoeld in [artikel 13ia, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13ia) verstrekken, indien de eigenaar en de opdrachtnemer de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&bijlage=1&z=2026-01-22&g=2026-01-22) opgenomen modelbepalingen beoordelingsfase hebben overgenomen in hun overeenkomst.
 
@@ -92,11 +118,11 @@ In deze regeling wordt verstaan onder:
 
 3. De Minister betaalt de opdrachtnemer of de eigenaar binnen 30 dagen na ontvangst van de facturen of andere bewijsstukken.
 
-#### Artikel 3.2
+##### Artikel 3.2
 
 De opdrachtnemer, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=3&artikel=3.1&z=2026-01-22&g=2026-01-22), heeft blijkens een opgave van referentieprojecten aantoonbare ervaring met het uitvoeren van seismische en constructieve berekeningen van gebouwen overeenkomstig de krachtens [artikel 13h van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13h) gestelde regels over de beoordeling van gebouwen en beschikt over een ISO 9001:2015 of daarmee vergelijkbaar certificaat.
 
-#### Artikel 3.3
+##### Artikel 3.3
 
 1. De vergoeding wordt vastgesteld op basis van:
 
@@ -112,7 +138,7 @@ De opdrachtnemer, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:B
 
 5. Op het tweede lid zijn de [artikelen 8a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=8a&artikel=8a.1&z=2026-01-22&g=2026-01-22), [8a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=8a&artikel=8a.2&z=2026-01-22&g=2026-01-22), [8a.4](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=8a&artikel=8a.4&z=2026-01-22&g=2026-01-22) en [8a.5](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=8a&artikel=8a.5&z=2026-01-22&g=2026-01-22) van overeenkomstige toepassing, met dien verstande dat waar in de genoemde artikelen wordt gesproken over ‘het Instituut of de Minister’ dit gelezen moet worden als ‘de Minister’, dat in artikel 8a.4, eerste lid, voor ‘[artikel 8a.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=8a&artikel=8a.3&z=2026-01-22&g=2026-01-22)’ gelezen moet worden ‘artikel 3.3, tweede lid’ en dat in artikel 8a.5, eerste lid, voor ‘artikel 8a.3’ gelezen moet worden ‘artikel 3.3, tweede lid’.
 
-#### Artikel 3.4
+##### Artikel 3.4
 
 1. De Minister kan de vergoeding geheel of gedeeltelijk terugvorderen indien blijkt dat de vergoeding is verleend op grond van door de eigenaar verstrekte gegevens waarvan deze wist of redelijkerwijs kon vermoeden dat zij onjuist of onvolledig waren.
 
@@ -120,7 +146,7 @@ De opdrachtnemer, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:B
 
 #### § 3. Vergoeding beoordeling in eigen beheer
 
-#### Artikel 4.1
+##### Artikel 4.1
 
 1. De Minister kan een vergoeding als bedoeld in [artikel 13ib, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13ib) verstrekken indien de eigenaar en de opdrachtnemer de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&bijlage=1&z=2026-01-22&g=2026-01-22) opgenomen modelbepalingen ontwerpfase hebben overgenomen in hun overeenkomst.
 
@@ -130,7 +156,7 @@ De opdrachtnemer, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:B
 
 4. De Minister betaalt de opdrachtnemer of de eigenaar binnen 30 dagen na ontvangst van de facturen of andere bewijsstukken.
 
-#### Artikel 4.2
+##### Artikel 4.2
 
 De vergoeding omvat, voor zover de eigenaar de te vergoeden activiteiten in eigen beheer uitvoert:
 
@@ -146,7 +172,7 @@ De vergoeding omvat, voor zover de eigenaar de te vergoeden activiteiten in eige
 
 - c. andere kosten waarvan de Minister op verzoek van de eigenaar voorafgaand aan het maken van die kosten heeft geoordeeld dat deze noodzakelijk zijn voor de voorbereiding van de versterkingsmaatregelen.
 
-#### Artikel 4.3
+##### Artikel 4.3
 
 1. De vergoeding wordt vastgesteld op basis van door de eigenaar overgelegde offertes van derden of andere bewijsstukken, voor zover die offertes of bewijsstukken zijn gebaseerd op bedrijfseconomische grondslagen en normen die in het maatschappelijk verkeer als aanvaardbaar worden beschouwd.
 
@@ -154,7 +180,7 @@ De vergoeding omvat, voor zover de eigenaar de te vergoeden activiteiten in eige
 
 3. In gevallen waarin door bijzondere omstandigheden de vergoeding te laag is en dit leidt tot onbillijkheden van overwegende aard kan de Minister de vergoeding verhogen.
 
-#### Artikel 4.4
+##### Artikel 4.4
 
 1. De Minister kan de vergoeding geheel of gedeeltelijk terugvorderen indien blijkt dat de vergoeding is verleend op grond van door de eigenaar verstrekte gegevens waarvan deze wist of redelijkerwijs kon vermoeden dat zij onjuist of onvolledig waren.
 
@@ -162,7 +188,7 @@ De vergoeding omvat, voor zover de eigenaar de te vergoeden activiteiten in eige
 
 #### § 4. Vergoeding ontwerp versterkingsmaatregelen in eigen beheer
 
-#### Artikel 5.1
+##### Artikel 5.1
 
 1. De Minister kan een budget als bedoeld in [artikel 10g, eerste lid, onderdeel b, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&artikel=10g), verstrekken indien de eigenaar en de opdrachtnemer de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&bijlage=1&z=2026-01-22&g=2026-01-22) opgenomen modelbepalingen uitvoeringsfase hebben overgenomen in hun overeenkomst.
 
@@ -172,7 +198,7 @@ De vergoeding omvat, voor zover de eigenaar de te vergoeden activiteiten in eige
 
 4. De Minister betaalt de opdrachtnemer of de eigenaar binnen 30 dagen na ontvangst van de facturen of andere bewijsstukken.
 
-#### Artikel 5.2
+##### Artikel 5.2
 
 1. Het budget bedraagt per gebouw dat is opgenomen in het versterkingsbesluit ten hoogste het bedrag dat wordt berekend op grond van de formule:
 
@@ -192,7 +218,7 @@ De vergoeding omvat, voor zover de eigenaar de te vergoeden activiteiten in eige
 
 5. Voor voorzieningen, installaties en maatregelen die niet als standaardmaatregelen zijn opgenomen in de Groningen Maatregelencatalogus, wordt het budget vastgesteld overeenkomstig de bedragen in door de eigenaar overgelegde offertes van derden of andere bewijsstukken, voor zover die offertes of bewijsstukken zijn gebaseerd op bedrijfseconomische grondslagen en normen die in het maatschappelijk verkeer als aanvaardbaar worden beschouwd.
 
-#### Artikel 5.3
+##### Artikel 5.3
 
 1. Het budget wordt vastgesteld op basis van door de eigenaar overgelegde offertes van derden of andere bewijsstukken, voor zover die offertes en bewijsstukken zijn gebaseerd op bedrijfseconomische grondslagen en normen die in het maatschappelijk verkeer als aanvaardbaar worden beschouwd.
 
@@ -200,11 +226,11 @@ De vergoeding omvat, voor zover de eigenaar de te vergoeden activiteiten in eige
 
 3. Indien de eigenaar een projectmatige aanpak toepast kunnen de op grond van het eerste lid overgelegde facturen of andere bewijsstukken betrekking hebben op meerdere gebouwen binnen het project.
 
-#### Artikel 5.4
+##### Artikel 5.4
 
 De Minister kan bepalen dat het budget mag worden overschreden met een in het versterkingsbesluit genoemd percentage dat maximaal tien procent bedraagt van dat budget.
 
-#### Artikel 5.5
+##### Artikel 5.5
 
 1. De Minister kan het budget geheel of gedeeltelijk terugvorderen indien blijkt dat het budget is verleend op grond van door de eigenaar verstrekte gegevens waarvan deze wist of redelijkerwijs kon vermoeden dat zij onjuist of onvolledig waren.
 
@@ -212,7 +238,7 @@ De Minister kan bepalen dat het budget mag worden overschreden met een in het ve
 
 #### § 6. Aanvraag voor het versterkingsbesluit wanneer voorbereiding is uitgevoerd in eigen beheer
 
-#### Artikel 6.1
+##### Artikel 6.1
 
 1. Bij het indienen van een aanvraag als bedoeld in [artikel 13ja van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13ja) overlegt de eigenaar de volgende gegevens:
 
@@ -232,7 +258,7 @@ De Minister kan bepalen dat het budget mag worden overschreden met een in het ve
 
 #### § 7. Vergoeding schade ten gevolge van de versterking
 
-#### Artikel 7.1
+##### Artikel 7.1
 
 1. Een eigenaar komt in aanmerking voor vergoeding van de schade die optreedt ten gevolge van de uitvoering van de versterkingsmaatregelen als bedoeld in [artikel 10g, eerste lid, onderdeel c, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&artikel=10g) indien de schade op verzoek van de eigenaar niet door de Minister in natura wordt hersteld.
 
@@ -268,7 +294,7 @@ De Minister kan bepalen dat het budget mag worden overschreden met een in het ve
 
 5. Indien de eigenaar of rechtmatige gebruiker, niet zijnde de eigenaar, in meerdere hoedanigheden recht heeft op vergoeding van dezelfde schade wordt slechts eenmaal een vergoeding hiervoor verstrekt.
 
-#### Artikel 7.2
+##### Artikel 7.2
 
 1. De vergoeding wordt vastgesteld op basis van:
 
@@ -288,27 +314,27 @@ De Minister kan bepalen dat het budget mag worden overschreden met een in het ve
 
 6. Bij het vaststellen van de vergoeding kan de Minister rekening houden met de fiscale schade en de negatieve effecten op toeslagen of uitkeringen die een direct gevolg zijn van het toekennen van de vergoeding.
 
-#### Artikel 7.3
+##### Artikel 7.3
 
 Indien de schade, bedoeld in [artikel 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=7&artikel=7.1&z=2026-01-22&g=2026-01-22), niet kwantificeerbaar is op het tijdstip waarop het versterkingsbesluit genomen wordt, kan de Minister de hoogte van de vergoeding voor de schade opnemen in een apart besluit dat wordt genomen nadat het versterkingsbesluit is vastgesteld.
 
-#### Artikel 7.4
+##### Artikel 7.4
 
 De Minister kan de schadevergoeding geheel of gedeeltelijk terugvorderen indien blijkt dat de vergoeding is verleend op grond van door de eigenaar of rechtmatige gebruiker, niet zijnde de eigenaar, verstrekte gegevens waarvan deze wist of redelijkerwijs moest vermoeden dat zij onjuist of onvolledig waren.
 
 #### § 7. Vergoeding schade ten gevolge van de versterking
 
-#### Artikel 8.1
+##### Artikel 8.1
 
 Als gevallen als bedoeld in [artikel 13j, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13j) waarvoor de redelijke termijn voor het nemen van een versterkingsbesluit maximaal zes maanden bedraagt na de dagtekening van de beoordeling en waarvoor de verlenging van die termijn maximaal zes maanden bedraagt, worden aangewezen gevallen waarin uit de beoordeling, uitgevoerd op basis van een typologie, blijkt dat de soort maatregelen die nodig zijn om een gebouw aan de veiligheidsnorm te laten voldoen, ertoe leiden dat de uitvoering van de versterking naar verwachting ten hoogste vier maanden in beslag zal nemen.
 
 #### § 9. Herbeoordeling
 
-#### Artikel 9.1
+##### Artikel 9.1
 
 Vervallen
 
-#### Artikel 9.2
+##### Artikel 9.2
 
 1. Indien uit een beoordeling die heeft plaatsgevonden volgens de NPR 9998:2018 tijdvak 2 of een eerdere versie van de NPR 9998 blijkt dat een gebouw niet aan de veiligheidsnorm voldoet, stelt de Minister op verzoek van de eigenaar vast of het gebouw aan de veiligheidsnorm voldoet overeenkomstig [artikel 10f, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&artikel=10f), tenzij voor de uitvoering van de versterkingsmaatregelen al een versterkingsbesluit is genomen, of een aannemingsovereenkomst of depotovereenkomst is gesloten.
 
@@ -320,7 +346,7 @@ Vervallen
 
 5. Het verzoek kan worden gedaan tot en met het tijdstip dat vermeld is in de brief waarmee het formulier aan de eigenaar wordt verstrekt. Dat tijdstip is ten minste zes maanden na dagtekening van die brief.
 
-#### Artikel 9.3
+##### Artikel 9.3
 
 1. De vergoeding, bedoeld in [artikel 22b, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=22b) bedraagt:
 
@@ -334,15 +360,15 @@ Vervallen
 
 #### § 10. Beoordeling veiligheid en bepalen maatregelen versterking
 
-#### Artikel 10.1
+##### Artikel 10.1
 
 De opname op locatie van een mogelijk aan een typologie toe te delen gebouw vindt plaats aan de hand van de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&bijlage=3&z=2026-01-22&g=2026-01-22) opgenomen checklist.
 
-#### Artikel 10.2
+##### Artikel 10.2
 
 Als typologieën worden de in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&bijlage=4&z=2026-01-22&g=2026-01-22) opgenomen typologieën vastgesteld.
 
-#### Artikel 10.3
+##### Artikel 10.3
 
 Een gebouw wordt niet toegedeeld aan een typologie als bedoeld in [artikel 10f, eerste lid, onderdeel a of b, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&artikel=10f), indien:
 
@@ -360,19 +386,19 @@ Een gebouw wordt niet toegedeeld aan een typologie als bedoeld in [artikel 10f, 
 
 - g. sprake is van verschillende vloerniveaus van de tweede bouwlaag of in het geval van Metselwerk-D de tweede of hogere bouwlagen, waarbij het niveauverschil meer dan twintig centimeter bedraagt en geen van de vloerniveaus ten minste 90 procent van het vloeroppervlak van de beschouwde bouwlaag bedraagt.
 
-#### Artikel 10.4
+##### Artikel 10.4
 
 De beoordeling van een aan een typologie toegedeeld gebouw aan de hand van de typologie, de ontwerpdatum, locatie en afmetingen van het gebouw en de NPR 9998, bedoeld in [artikel 10f, eerste lid, onderdeel a, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&artikel=10f), vindt plaats met de in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&bijlage=5&z=2026-01-22&g=2026-01-22) opgenomen vlekkentabel die bij die typologie hoort, met inachtneming van de in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&bijlage=7&z=2026-01-22&g=2026-01-22) opgenomen voorwaarden.
 
-#### Artikel 10.5
+##### Artikel 10.5
 
 De beoordeling van een aan een typologie toegedeeld gebouw aan de hand van de typologie en de locatie, bedoeld in [artikel 10f, eerste lid, onderdeel b, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&artikel=10f), vindt plaats met de in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&bijlage=6&z=2026-01-22&g=2026-01-22) opgenomen vlekkenkaart die bij die typologie hoort.
 
-#### Artikel 10.6
+##### Artikel 10.6
 
 De individuele beoordeling van een gebouw volgens de NPR 9998, bedoeld in [artikel 10f, eerste lid, onderdeel c, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&artikel=10f), vindt plaats met inachtneming van de in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&bijlage=7&z=2026-01-22&g=2026-01-22) opgenomen voorwaarden.
 
-#### Artikel 10.7
+##### Artikel 10.7
 
 1. De bepaling welke soort maatregelen nodig is volgens de NPR 9998 voor een aan een typologie toegedeeld gebouw waarvoor aan de hand van de typologie, de ontwerpdatum, locatie en afmetingen van het gebouw en de NPR 9998 is vastgesteld dat het niet aan de veiligheidsnorm voldoet, vindt plaats met de in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&bijlage=5&z=2026-01-22&g=2026-01-22) opgenomen vlekkentabel die bij die typologie hoort met inachtneming van de in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&bijlage=8&z=2026-01-22&g=2026-01-22) opgenomen voorwaarden.
 
@@ -380,19 +406,19 @@ De individuele beoordeling van een gebouw volgens de NPR 9998, bedoeld in [artik
 
 3. De bepaling welke soort maatregelen nodig is volgens de NPR 9998 voor een voor een individueel beoordeeld gebouw dat niet aan de veiligheidsnorm voldoet, vindt plaats met inachtneming van de in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&bijlage=8&z=2026-01-22&g=2026-01-22) opgenomen voorwaarden.
 
-#### Artikel 10.8
+##### Artikel 10.8
 
 Als de te hanteren versie van de NPR 9998, bedoeld in [artikel 10f, vijfde lid, aanhef, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&artikel=10f), wordt de NPR 9998:2020 aangewezen.
 
 #### § 9. Herbeoordeling
 
-#### Artikel 11.1
+##### Artikel 11.1
 
 De hoogte van de financiële middelen voor de uitgaven van het Instituut inzake tegemoetkomingen in het kader van duurzaam herstel als bedoeld in [artikel 2, tiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=2) is het bedrag opgenomen voor Duurzaam herstel in de tabel behorende bij de artikelsgewijze toelichting op beleidsartikel 5 in onderdeel B van de memorie van toelichting van de wet tot vaststelling van de begrotingsstaten van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties voor het desbetreffende jaar.
 
 #### § 12. Overgangsrecht en slotbepalingen
 
-#### Artikel 12.1
+##### Artikel 12.1
 
 1. Op een aanvraag voor een subsidie op grond van de [Subsidieregeling versterking gebouwen Groningen](https://wetten.overheid.nl/jci1.3:c:BWBR0044145) die is ingediend voor het tijdstip van inwerkingtreding van deze regeling, blijft het recht van toepassing zoals dat luidde voor dat tijdstip.
 
@@ -402,15 +428,15 @@ De hoogte van de financiële middelen voor de uitgaven van het Instituut inzake 
 
 4. Op een aanvraag voor een tegemoetkoming op grond van de [Beleidsregel tegemoetkoming huurders, woningcorporaties en particuliere verhuurders aardbevingsgebied Groningen](https://wetten.overheid.nl/jci1.3:c:BWBR0044165) die is ingediend voor het tijdstip van inwerkingtreding van deze regeling, blijft het recht van toepassing zoals dat luidde voor dat tijdstip.
 
-#### Artikel 12.2
+##### Artikel 12.2
 
 Indien een subsidie, vergoeding of tegemoetkoming is verstrekt op basis van een in [artikel 12.4](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=12&artikel=12.4&z=2026-01-22&g=2026-01-22) genoemde ministeriële regeling of beleidsregel of op basis van een overeenkomst die is gesloten voor 1 juli 2023, wordt voor dezelfde activiteit geen vergoeding verstrekt op basis van deze regeling.
 
-#### Artikel 12.3
+##### Artikel 12.3
 
 Met de beroepseisen ter zake van een opdrachtnemer die de beoordeling, het ontwerp van maatregelen of de uitvoering van de versterkingsmaatregelen als bedoeld in deze regeling uitvoert worden gelijkgesteld beroepseisen die worden gesteld in een andere lidstaat van de Europese Unie dan wel een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, en die een beroepsniveau waarborgen dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd.
 
-#### Artikel 12.4
+##### Artikel 12.4
 
 De volgende ministeriële regeling en beleidsregels worden ingetrokken:
 
@@ -422,11 +448,11 @@ De volgende ministeriële regeling en beleidsregels worden ingetrokken:
 
 - d. de [Beleidsregel tegemoetkoming huurders, woningcorporaties en particuliere verhuurders aardbevingsgebied Groningen](https://wetten.overheid.nl/jci1.3:c:BWBR0044165).
 
-#### Artikel 12.5
+##### Artikel 12.5
 
 Deze regeling treedt in werking met ingang van 1 juli 2023.
 
-#### Artikel 12.6
+##### Artikel 12.6
 
 Deze regeling wordt aangehaald als: Regeling Tijdelijke wet Groningen.
 
@@ -779,7 +805,7 @@ De bepaling welke soort maatregelen nodig is, bedoeld in [artikel 10.7](https://
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 8a.1
+##### Artikel 8a.1
 
 1. De eigenaar komt in aanmerking voor een vergoeding als bedoeld in [artikel 13n, vierde of vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13n), voor de kosten die hij maakt voor bouwkundig advies indien tegen de adviseur geen ernstige bezwaren bestaan en de adviseur:
 
@@ -869,17 +895,17 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - b. onafhankelijk is, inhoudende dat hij geen arbeidsrelatie heeft tot de exploitant, de aandeelhouders van de exploitant of de overheid en dat hij niet eerder betrokken is geweest bij het gebouw in het kader van het versterkingstraject door de Minister.
 
-#### Artikel 8a.2
+##### Artikel 8a.2
 
 Bij het indienen van een aanvraag voor de vergoeding, bedoeld in [artikel 13n, vierde of vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13n), bij het Instituut respectievelijk de Minister, overlegt de eigenaar de naam en contactgegevens van de bouwkundig, bodemkundig, ecologisch, hydrologisch of financieel adviseur waarvan de eigenaar gebruik wenst te maken.
 
-#### Artikel 8a.3
+##### Artikel 8a.3
 
 1. Het Instituut of de Minister verstrekt de vergoeding aan de eigenaar in de vorm van een aanspraak ter hoogte van € 2.740, berekend op basis van 20 arbeidsuren tegen een uurtarief van € 137 per uur.
 
 2. Het Instituut of de Minister neemt een besluit over de aanspraak op vergoeding binnen vier weken na de ontvangst van de aanvraag.
 
-#### Artikel 8a.4
+##### Artikel 8a.4
 
 1. Indien het aantal arbeidsuren, genoemd in [artikel 8a.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=8a&artikel=8a.3&z=2026-01-22&g=2026-01-22), ontoereikend blijkt door de complexiteit van het te leveren bouwkundig, bodemkundig, ecologisch, hydrologisch of financieel advies, kan de eigenaar een aanvraag tot vergoeding van aanvullende arbeidsuren doen.
 
@@ -887,7 +913,7 @@ Bij het indienen van een aanvraag voor de vergoeding, bedoeld in [artikel 13n, v
 
 3. Het Instituut of de Minister neemt een besluit over het verhogen van de aanspraak op vergoeding binnen acht weken na de ontvangst van de aanvraag.
 
-#### Artikel 8a.5
+##### Artikel 8a.5
 
 1. Het Instituut of de Minister betaalt de vergoeding aan degene die de kosten voor het leveren van bouwkundig, bodemkundig, ecologisch, hydrologisch of financieel advies bij de eigenaar in rekening brengt, op basis van een gespecificeerde factuur. De vergoeding bedraagt niet meer dan de hoogte van de aanspraak, bedoeld in [artikel 8a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=8a&artikel=8a.3&z=2026-01-22&g=2026-01-22), eventueel verhoogd op grond van [artikel 8a.4](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=8a&artikel=8a.4&z=2026-01-22&g=2026-01-22).
 
@@ -895,7 +921,7 @@ Bij het indienen van een aanvraag voor de vergoeding, bedoeld in [artikel 13n, v
 
 3. De vergoeding wordt betaald binnen 30 dagen na het overleggen van de ondertekende factuur.
 
-#### Artikel 8a.6
+##### Artikel 8a.6
 
 Vervallen
 
@@ -907,11 +933,11 @@ Vervallen
 
 #### § 12. Overgangsrecht en slotbepalingen
 
-#### Artikel 12.3a
+##### Artikel 12.3a
 
 Met de beroepseisen ter zake van het leveren van bouwkundig, bodemkundig, ecologisch, hydrologisch of financieel advies, genoemd in deze regeling, worden gelijkgesteld beroepseisen die worden gesteld in een andere lidstaat van de Europese Unie dan wel een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, en die een beroepsniveau waarborgen dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd.
 
-#### Artikel 12.3b
+##### Artikel 12.3b
 
 Op aanvragen die zijn ingediend, op subsidies die zijn verleend en op subsidies die zijn vastgesteld op grond van de [Subsidieregeling versterking gebouwen Groningen](https://wetten.overheid.nl/jci1.3:c:BWBR0044145) blijft die regeling van toepassing.
 
@@ -1216,7 +1242,7 @@ De bepaling welke soort maatregelen nodig is, bedoeld in [artikel 10.7](https://
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a.1
+##### Artikel 1a.1
 
 1. Het Instituut heeft de taak knelpunten als gevolg van schade, niet zijnde bijzondere situaties of vastgelopen situaties, op te lossen die ontstaan door het kader, bedoeld in [artikel 2, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=2).
 
@@ -1240,15 +1266,15 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - c. in een situatie verkeert die niet op redelijke of adequate wijze kan worden opgelost met behulp van bestaande voorzieningen.
 
-#### Artikel 1a.2
+##### Artikel 1a.2
 
 Het Instituut verzoekt de Commissie bijzondere situaties, bedoeld in [artikel 2 van het Instellingsbesluit Commissie bijzondere situaties](https://wetten.overheid.nl/jci1.3:c:BWBR0037893&artikel=2) om advies over hulp in bijzondere situaties.
 
-#### Artikel 1a.3
+##### Artikel 1a.3
 
 Het Instituut verzoekt een door de Minister benoemde onafhankelijk adviseur om advies over het oplossen van vastgelopen situaties. Het Instituut voorziet in de ondersteuning van de onafhankelijk adviseur.
 
-#### Artikel 1a.4
+##### Artikel 1a.4
 
 1. Een bijzondere situatie kan bij het Instituut worden aangedragen door:
 
@@ -1282,7 +1308,7 @@ Het Instituut verzoekt een door de Minister benoemde onafhankelijk adviseur om a
 
 #### § 11. Hoogte financiële middelen duurzaam herstel en oplossen knelpunten
 
-#### Artikel 11.2
+##### Artikel 11.2
 
 1. De hoogte van de financiële middelen voor de uitgaven van het Instituut voor het oplossen van knelpunten als gevolg van schade, niet zijnde bijzondere situaties of vastgelopen situaties, die ontstaan door het kader, bedoeld in [artikel 2, zesde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=2), is het bedrag opgenomen voor de knelpunten IMG in de tabel behorende bij de artikelsgewijze toelichting op beleidsartikel 5 in onderdeel B van de memorie van toelichting van de wet tot vaststelling van de begrotingsstaten van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties voor het desbetreffende jaar.
 
@@ -1610,7 +1636,7 @@ De bepaling welke soort maatregelen nodig is, bedoeld in [artikel 10.7](https://
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 8a.7
+##### Artikel 8a.7
 
 1. De [artikelen 8a.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=8a&artikel=8a.1&z=2026-01-22&g=2026-01-22), [8a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=8a&artikel=8a.2&z=2026-01-22&g=2026-01-22), [8a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=8a&artikel=8a.3&z=2026-01-22&g=2026-01-22), [8a.4](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=8a&artikel=8a.4&z=2026-01-22&g=2026-01-22) en [8a.5](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=8a&artikel=8a.5&z=2026-01-22&g=2026-01-22) zijn van overeenkomstige toepassing op de rechtmatige gebruiker van een gebouw niet zijnde de eigenaar voor de kosten die hij maakt voor financieel advies, met dien verstande dat waar in de genoemde artikelen wordt gesproken over ‘eigenaar’ dit gelezen moet worden als ‘rechtmatige gebruiker van een gebouw niet zijnde de eigenaar’ en waar wordt gesproken over ‘[artikel 13n, vierde of vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13n)’ dit gelezen moet worden als ‘[artikel 13m, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13m)’.
 

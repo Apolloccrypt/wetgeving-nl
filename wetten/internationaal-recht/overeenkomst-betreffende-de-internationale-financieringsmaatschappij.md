@@ -1,22 +1,44 @@
 ---
 title: "Overeenkomst betreffende de Internationale Financieringsmaatschappij"
 identifier: "BWBV0004975"
-categorie: "Internationaal recht"
-publicatiedatum: 2012-06-27
-laatste_update: 2012-06-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004975"
+country: "nl"
+rank: "verdrag"
+publication_date: "2012-06-27"
+last_updated: "2012-06-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004975"
+soort: "verdrag"
+stam_id: "10004417433"
+version_id: "10004622422"
+internal_id: "C10007040681"
+label_id: "10004402344"
+dtd_version: "2.0"
+original_entry_into_force: "1956-12-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004975/2012-06-27/0"
+intitule_bron: "Trb.1955-162"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1955-12-09"
+intitule_in_force: "1957-05-15"
+intitule_status: "goed"
+original_publication: "Trb.1955-162"
+original_published_date: "1955-12-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1955-162"
+entry_into_force_date: "1956-12-28"
+jci_1_3: "jci1.3:c:BWBV0004975&z=2012-06-27&g=2012-06-27"
+jci_1_0: "1.0:c:BWBV0004975&g=2012-06-27"
+citeertitel_status: "redactioneel"
+entry_into_force: "1956-12-28"
 ---
-
 # Overeenkomst betreffende de Internationale Financieringsmaatschappij
 
 De regeringen namens welke deze Overeenkomst ondertekend is, komen overeen als volgt:
 
-#### Inleidend artikel
+##### Inleidend artikel
 
 De Internationale Financierings Maatschappij (hierna genoemd de Maatschappij) is opgericht en handelt in overeenstemming met de volgende bepalingen:
 
-#### Artikel I. Doelstelling
+##### Artikel I. Doelstelling
 
 De Maatschappij heeft ten doel de economische ontwikkeling te bevorderen door het aanmoedigen van de groei van productieve particuliere ondernemingen in landen-leden, in het bijzonder in de minder ontwikkelde gebieden, en daarmede de werkzaamheden van de Internationale Bank voor Herstel en Ontwikkeling (hierna te noemen de Bank) aan te vullen. Bij de uitvoering van deze doelstelling zal de Maatschappij:
 
@@ -28,7 +50,7 @@ De Maatschappij heeft ten doel de economische ontwikkeling te bevorderen door he
 
 De Maatschappij laat zich in al haar beslissingen leiden door de bepalingen van dit artikel.
 
-#### Artikel II. Lidmaatschap en kapitaal
+##### Artikel II. Lidmaatschap en kapitaal
 
 Afdeling 1. **Lidmaatschap**
 
@@ -72,7 +94,7 @@ Afdeling 5. **Beperking op overdracht en verpanding van aandelen**
 
 Aandelen worden niet op enigerlei wijze verpand of bezwaard, en zijn slechts overdraagbaar aan de Maatschappij.
 
-#### Artikel III. Werkzaamheden
+##### Artikel III. Werkzaamheden
 
 Afdeling 1. **Werkzaamheden, betrekking hebbende op de financiering**
 
@@ -136,7 +158,7 @@ Afdeling 9. **Verbod van politieke activiteit**
 
 De Maatschappij en haar ambtenaren mogen zich niet in de politieke aangelegenheden van enig lid mengen, noch laten zij zich bij hun beslissingen door het politieke karakter van het betrokken lid of de betrokken leden beïnvloeden. Slechts economische overwegingen spelen bij hun beslissingen een rol en deze overwegingen zullen onpartijdig tegen elkaar worden afgewogen, teneinde de in deze Overeenkomst vermelde doelstellingen te verwezenlijken.
 
-#### Artikel IV. Organisatie en beheer
+##### Artikel IV. Organisatie en beheer
 
 Afdeling 1. **Structuur van de Maatschappij**
 
@@ -254,7 +276,7 @@ Afdeling 12. **Dividenden**
 
 - (c). Dividend wordt betaald op zodanige wijze en in zodanige valuta of valuta's als de Maatschappij vaststelt.
 
-#### Artikel V. Opzegging, schorsing van het lidmaatschap, opschorting van de werkzaamheden
+##### Artikel V. Opzegging, schorsing van het lidmaatschap, opschorting van de werkzaamheden
 
 Afdeling 1. **Opzegging door leden**
 
@@ -296,7 +318,7 @@ Afdeling 5. **Opschorting der werkzaamheden en vereffening der verplichtingen**
 
 - (d). Ieder lid dat activa ontvangt welke door de Maatschappij krachtens deze afdeling worden verdeeld, geniet ten aanzien van deze activa dezelfde rechten als de Maatschappij vóór hun verdeling genoot.
 
-#### Artikel VI. Status, immuniteiten en voorrechten
+##### Artikel VI. Status, immuniteiten en voorrechten
 
 Afdeling 1. **Doel van het artikel**
 
@@ -372,7 +394,7 @@ Afdeling 11. **Afstand**
 
 Het staat de Maatschappij vrij van ieder voorrecht of iedere immuniteit welke overeenkomstig dit artikel is verleend, afstand te doen tot een zodanige omvang en onder zodanige voorwaarden als zij vaststelt.
 
-#### Artikel VII. Wijzigingen
+##### Artikel VII. Wijzigingen
 
 (a). Deze Overeenkomst kan worden gewijzigd bij een besluit van drie-vijfde van de Bestuurders, welke vijfentachtig procent van het totale stemrecht kunnen uitoefenen.
 
@@ -388,7 +410,7 @@ Het staat de Maatschappij vrij van ieder voorrecht of iedere immuniteit welke ov
 
 Wijzigingen worden voor alle leden van kracht drie maanden na de datum van de officiële mededeling, tenzij de Raad van Bestuur een kortere termijn bepaalt.
 
-#### Artikel VIII. Interpretatie en arbitrage
+##### Artikel VIII. Interpretatie en arbitrage
 
 (a). Ieder meningsverschil dat omtrent de interpretatie der voorschriften van deze Overeenkomst tussen enig lid van de Maatschappij of tussen de leden onderling ontstaat, wordt aan de Raad van Directeuren ter beslissing voorgelegd.
 
@@ -398,7 +420,7 @@ Indien het geschilpunt in bijzondere mate enig lid van de Maatschappij aangaat, 
 
 (c). Telkens wanneer onenigheid ontstaat tussen de Maatschappij en een land, dat opgehouden heeft lid te zijn, of tussen de Maatschappij en enig lid tijdens de permanente opschorting der werkzaamheden van de Maatschappij, wordt een dergelijk geschilpunt onderworpen aan arbitrage door een tribunaal van drie arbiters, waarvan één door de Maatschappij benoemd wordt, een andere door het betrokken land, en een scheidsrechter die, tenzij partijen anders overeenkomen, benoemd wordt door de President van het Internationale Gerechtshof of een andere autoriteit, welke daarvoor bij een door de Maatschappij te treffen regeling aangewezen is. De scheidsrechter heeft de volledige bevoegdheid alle vragen betreffende de procedure te beslissen, wanneer naar aanleiding daarvan onenigheid tussen partijen bestaat.
 
-#### Artikel IX. Slotbepalingen
+##### Artikel IX. Slotbepalingen
 
 Afdeling 1. **Inwerkingtreding**
 

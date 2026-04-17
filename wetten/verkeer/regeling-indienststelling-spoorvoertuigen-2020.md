@@ -1,13 +1,39 @@
 ---
-title: "Regeling indienststelling spoorvoertuigen 2020"
+title: "Regeling van de Minister van Infrastructuur en Waterstaat, van 12 april 2020, nr. IENW/BSK-2019/250897, houdende vaststelling van regels betreffende het in de handel brengen, de indienststelling en het onderhoud van spoorvoertuigen op de hoofdspoorwegen (Regeling indienststelling spoorvoertuigen 2020)"
 identifier: "BWBR0043393"
-categorie: "Verkeer"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043393"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043393"
+soort: "ministeriele-regeling"
+stam_id: "15407253"
+version_id: "31186262"
+internal_id: "C44615541"
+label_id: "15351814"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043393/2026-01-01/0"
+intitule_bron: "Stcrt.2020-21421"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-04-12"
+intitule_published: "2020-04-16"
+intitule_in_force: "2020-04-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-42131"
+original_signed_date: "2025-12-01"
+original_published_date: "2025-12-11"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2025-42131"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0043393&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0043393&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling indienststelling spoorvoertuigen 2020"
+signed_date: "2025-12-01"
+entry_into_force: "2026-01-01"
 ---
-
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 12 april 2020, nr. IENW/BSK-2019/250897, houdende vaststelling van regels betreffende het in de handel brengen, de indienststelling en het onderhoud van spoorvoertuigen op de hoofdspoorwegen (Regeling indienststelling spoorvoertuigen 2020)
 
 Gelet op richtlijn (EU) 2016/797 van het Europees Parlement en de Raad van 11 mei 2016 betreffende de interoperabiliteit van het spoorwegsysteem in de Europese Unie (PbEU 2016, L 138) en richtlijn (EU) 2016/798 van het Europees Parlement en de Raad van 11 mei 2016 inzake veiligheid op het spoor (PbEU 2016, L 138) en de [artikelen 26d, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26d), [26e](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26e), [26f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26f), [26g](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26g), [26o, onderdelen a tot en met d, f, en g](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26o), [26q, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26q), [26t, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26t), [26cc, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26cc), en [38, eerste en derde lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=38);
@@ -16,7 +42,7 @@ BESLUIT:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 1. In deze regeling wordt verstaan onder:
 
@@ -66,13 +92,13 @@ BESLUIT:
 
 - **uitvoeringsverordening (EU) 402/2013:** uitvoeringsverordening (EU) 402/2013 van de Commissie van 30 april 2013 betreffende de gemeenschappelijke veiligheidsmethode voor risico-evaluatie en -beoordeling en tot intrekking van Verordening (EG) nr. 352/2009 (PbEU 2013, L 121/8).
 
-#### Artikel 2. Reikwijdte
+##### Artikel 2. Reikwijdte
 
 Vervallen
 
 #### § 2. Nationale technische voorschriften
 
-#### Artikel 3. Besturing en seingeving
+##### Artikel 3. Besturing en seingeving
 
 1. De boorduitrusting voor besturing en seingeving die in een locomotief, treinstel, stuurrijtuig of bijzonder voertuig is aangebracht voldoet:
 
@@ -92,7 +118,7 @@ Vervallen
 
 - b. de gegevens, genoemd in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=4&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 4. Aarding
+##### Artikel 4. Aarding
 
 1. Met betrekking tot de eisen die voor dit artikel zijn genoemd bij [index 1.1 in bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=1&z=2026-01-01&g=2026-01-01) wordt bij de dimensionering van de retourstroom- en veiligheidsaardingscircuits van een spoorvoertuig onder 1.500V DC energievoorziening aangetoond dat het circuit ten minste bestand is tegen de railretourstromen die kunnen optreden volgens de onderstaande tabel:
 
@@ -102,7 +128,7 @@ Vervallen
 
 2. Tussen de waarden van de tabel in het eerste lid is het verloop van de stroom tegen de tijd lineair.
 
-#### Artikel 5. Magneetremmen
+##### Artikel 5. Magneetremmen
 
 1. Treinstellen bestemd voor het vervoer van personen zijn voorzien van een antiblokkeerinstallatie en van:
 
@@ -126,23 +152,23 @@ die remwegverlenging bij slechte adhesie voor alle snelheden tot vrijwel stilsta
 
 4. In geval spoorvoertuigen zijn uitgerust met een magneetreminrichting, werkt deze alleen in geval van noodremmingen of als parkeer- of halterem.
 
-#### Artikel 6. Profiel
+##### Artikel 6. Profiel
 
 Spoorvoertuigen die gebruik maken van het traject Roosendaal–Belgische grens en Maastricht–Belgische grens, hebben aan de onderzijde een uitsparing voor het treinbeveiligingssysteem Crocodile/Memor, in overeenstemming met de eisen, voor dit artikel genoemd in [bijlage 1, index 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=1&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 7. Loopeigenschappen
+##### Artikel 7. Loopeigenschappen
 
 Indien spoorvoertuigen voorzien zijn van wielen met een diameter kleiner dan 730 mm, wordt de veilige berijdbaarheid van Engelse wissels en kruisingen met een hoekverhouding van 1:9 en 1:10 aangetoond in overeenstemming met de eisen, beschreven in [bijlage 14](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=14&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 8. Wielflenssmeerinstallaties
+##### Artikel 8. Wielflenssmeerinstallaties
 
 Indien spoorvoertuigen voorzien zijn van wielflenssmeerinstallaties, voldoen de positie van de spuitmond en de locatie waar het smeermiddel op het wiel wordt aangebracht, aan de eisen, voor dit artikel genoemd in [bijlage 1, index 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=1&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 9. Elektromagnetische compatibiliteit
+##### Artikel 9. Elektromagnetische compatibiliteit
 
 Spoorvoertuigen voldoen ten aanzien van elektromagnetische compatibiliteit aan de eisen, die voor dit artikel zijn genoemd in [bijlage 1, index 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=1&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 10. Compatibiliteit met treindetectie van de hoofdspoorweginfrastructuur
+##### Artikel 10. Compatibiliteit met treindetectie van de hoofdspoorweginfrastructuur
 
 1. Indien de detectie wordt bewerkstelligd door middel van laagfrequente spoorstroomlopen 75 Hz, wordt voldaan aan de volgende eisen:
 
@@ -158,7 +184,7 @@ Spoorvoertuigen voldoen ten aanzien van elektromagnetische compatibiliteit aan d
 
 3. Indien de detectie wordt bewerkstelligd door middel van assentellers, voldoen magnetische velden veroorzaakt door het spoorvoertuig dan wel door eventuele retourstroom, aan de eisen, genoemd in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=7&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 11. Stroomafname 1.500 V DC energievoorziening
+##### Artikel 11. Stroomafname 1.500 V DC energievoorziening
 
 De stroomafname van spoorvoertuigen die gebruik maken van 1.500 V DC energievoorziening, wordt automatisch beperkt in overeenstemming met de eisen, voor dit artikel genoemd in [bijlage 1, index 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=1&z=2026-01-01&g=2026-01-01), waarbij:
 
@@ -166,11 +192,11 @@ De stroomafname van spoorvoertuigen die gebruik maken van 1.500 V DC energievoor
 
 - b. de onderspanningsinrichting is afgesteld op 950V.
 
-#### Artikel 12. Stroomafnemer 1.500 V DC energievoorziening
+##### Artikel 12. Stroomafnemer 1.500 V DC energievoorziening
 
 Als een stroomafnemer is geïnstalleerd op het spoorvoertuig dat gebruik maakt van 1.500 V DC energievoorziening, bedraagt de afstand van de kop van het spoorvoertuig tot de achterste stroomafnemer van de treinsamenstelling maximaal 400 m.
 
-#### Artikel 13. Compatibiliteit met 25 kV AC energievoorziening
+##### Artikel 13. Compatibiliteit met 25 kV AC energievoorziening
 
 1. Voor spoorvoertuigen die gebruik maken van 25 kV AC energievoorziening, wordt, in afstemming met de beheerder, een compatibiliteitsstudie in overeenstemming met de eisen, voor dit artikel genoemd in [bijlage 1, index 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&bijlage=1&z=2026-01-01&g=2026-01-01), uitgevoerd, waarbij stap 1–10 worden doorlopen. Hiermee wordt aangetoond dat voldaan wordt aan de eisen ten aanzien van overspanningen en harmonische emissielimieten van de netbeheerder.
 
@@ -242,7 +268,7 @@ Als een stroomafnemer is geïnstalleerd op het spoorvoertuig dat gebruik maakt v
 
 - c. dat een inductieve bronimpedantie elke waarde tussen 0 en 100 mH kan aannemen.
 
-#### Artikel 14. Beperkt gebruiksgebied binnen Nederland
+##### Artikel 14. Beperkt gebruiksgebied binnen Nederland
 
 1. In afwijking van de [artikelen 3 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01) en [8 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=8&z=2026-01-01&g=2026-01-01) beschikt een spoorvoertuig ten aanzien waarvan de Duitse bevoegde instantie een voertuigvergunning heeft afgegeven en waarvan het gebruiksgebied in Nederland is beperkt tot de Venlo-Duitse grens over:
 
@@ -262,7 +288,7 @@ Als een stroomafnemer is geïnstalleerd op het spoorvoertuig dat gebruik maakt v
 
 - b. het voertuig voldoet aan de compatibiliteitseis, genoemd in TSI CCS tabel A 2, Indexnummer 4 SUBSET-026 ‘System Requirements Specification’.
 
-#### Artikel 15. Uitbreiding gebruiksgebied van niet-TSI-conforme spoorvoertuigen
+##### Artikel 15. Uitbreiding gebruiksgebied van niet-TSI-conforme spoorvoertuigen
 
 Onverminderd de [artikelen 3 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01), voldoet een in een andere lidstaat toegelaten spoorvoertuig waarvoor uitbreiding van het gebruiksgebied tot Nederland wordt gevraagd en dat niet volledig voldoet aan de TSI LOC&PAS, TSI WAG of TSI CCS:
 
@@ -270,11 +296,11 @@ Onverminderd de [artikelen 3 tot en met 13](https://wetten.overheid.nl/jci1.3:c:
 
 - b. aan de eisen in paragraaf 4.2.8.2.6 van de TSI LOC&PAS, indien het een spoorvoertuig betreft dat is voorzien van een systeem van energievoorziening die geschikt is voor 25 kV.
 
-#### Artikel 16. Uitbreiding gebruiksgebied HSL-Zuid
+##### Artikel 16. Uitbreiding gebruiksgebied HSL-Zuid
 
 Vervallen
 
-#### Artikel 17. Spoormachines, infrastructuurinspectievoertuigen en voertuigen voor weg en spoorweg
+##### Artikel 17. Spoormachines, infrastructuurinspectievoertuigen en voertuigen voor weg en spoorweg
 
 1. Onverminderd de [artikelen 3 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01), voldoen spoormachines en infrastructuurinspectievoertuigen in rijmodus, die niet voldoen aan TSI LOC&PAS en TSI WAG, aan:
 
@@ -290,11 +316,11 @@ Vervallen
 
 #### § 3. Procedureel kader indienststelling
 
-#### Artikel 18. Nationaal voertuigregister
+##### Artikel 18. Nationaal voertuigregister
 
 Vervallen
 
-#### Artikel 19. Conformiteitsbeoordeling nationale voorschriften
+##### Artikel 19. Conformiteitsbeoordeling nationale voorschriften
 
 1. Een conformiteitsbeoordeling als bedoeld in [artikel 26v, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26v) wordt uitgevoerd overeenkomstig een van de volgende modules of combinaties van modules, genoemd in bijlage I van besluit 2010/713/EU:
 
@@ -316,7 +342,7 @@ Vervallen
 
 4. De aangewezen instantie vermeldt op het certificaat van type- of ontwerpkeuring de datum van inwerkingtreding van de eisen in deze regeling op grond waarvan de beoordeling heeft plaatsgevonden.
 
-#### Artikel 20. Tijdelijke gebruiksvergunning
+##### Artikel 20. Tijdelijke gebruiksvergunning
 
 1. De minister verleent slechts een tijdelijke gebruiksvergunning als bedoeld in [artikel 26r, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26r), indien veilig gebruik van de spoorvoertuigen en de compatibiliteit van de spoorvoertuigen met de hoofdspoorweginfrastructuur gewaarborgd is.
 
@@ -350,7 +376,7 @@ Vervallen
 
 - b. een verklaring van de aanvrager als bedoeld in artikel 16 van [uitvoeringsverordening (EU) 402/2013](32013R0402), die is opgesteld op basis van een veiligheidsbeoordelingsverslag van beoordelingsinstanties als bedoeld in artikel 7 van [uitvoeringsverordening (EU) 402/2013](32013R0402).
 
-#### Artikel 21. Ontheffing
+##### Artikel 21. Ontheffing
 
 1. [Artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0043393&paragraaf=3&artikel=20&z=2026-01-01&g=2026-01-01) is, met uitzondering van het vierde lid, van overeenkomstige toepassing op een ontheffing als bedoeld in de [artikelen 26f, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26f), [26k, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26k), of [26q, vierde en zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26q).
 
@@ -362,17 +388,17 @@ Vervallen
 
 - c. een verklaring van de op grond van [artikel 26v, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26v) aangewezen instantie dat het spoorvoertuig compatibel is met het betreffende inzetgebied.
 
-#### Artikel 22. Geldigheidsduur beoordelingskader
+##### Artikel 22. Geldigheidsduur beoordelingskader
 
 Vervallen
 
 #### § 4. Controles en tests van spoorvoertuigen
 
-#### Artikel 23. Controles
+##### Artikel 23. Controles
 
 Vervallen
 
-#### Artikel 24. Testritten
+##### Artikel 24. Testritten
 
 1. Een spoorwegonderneming die van een hoofdspoorweg gebruik wil maken of gebruik wil laten maken voor het uitvoeren van een test als bedoeld in [artikel 26r, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26r), stemt het uitvoeren van de test voorafgaand af met de beheerder.
 
@@ -390,29 +416,29 @@ Vervallen
 
 #### § 5. Onderhoud van spoorvoertuigen
 
-#### Artikel 25. Onderhoudssysteem
+##### Artikel 25. Onderhoudssysteem
 
 Vervallen
 
-#### Artikel 26. Uitbesteding onderhoud
+##### Artikel 26. Uitbesteding onderhoud
 
 Vervallen
 
-#### Artikel 27. ECM-certificaat
+##### Artikel 27. ECM-certificaat
 
 Vervallen
 
-#### Artikel 28. Certificaat uitbestede onderhoudsfuncties
+##### Artikel 28. Certificaat uitbestede onderhoudsfuncties
 
 Vervallen
 
-#### Artikel 29. Erkenning onderhoudswerkplaatsen
+##### Artikel 29. Erkenning onderhoudswerkplaatsen
 
 Vervallen
 
 #### § 6. Overgangsrecht conformiteitsbeoordeling
 
-#### Artikel 30. Overgangsbepalingen
+##### Artikel 30. Overgangsbepalingen
 
 1.
 
@@ -432,15 +458,15 @@ In afwijking van [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 #### § 7. Slotbepalingen
 
-#### Artikel 31. Intrekking
+##### Artikel 31. Intrekking
 
 De [Regeling indienststelling spoorvoertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0031350) wordt ingetrokken.
 
-#### Artikel 32. Inwerkingtreding
+##### Artikel 32. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 mei 2020.
 
-#### Artikel 33. Citeertitel
+##### Artikel 33. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling indienststelling spoorvoertuigen 2020.
 

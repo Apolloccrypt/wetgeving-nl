@@ -1,13 +1,40 @@
 ---
-title: "Reglement voor de Gouverneur van Curaçao"
+title: "Rijkswet van 7 juli 2010, houdende Reglement voor de Gouverneur van Curaçao"
 identifier: "BWBR0028105"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2020-04-01
-laatste_update: 2020-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028105"
+country: "nl"
+rank: "rijkswet"
+publication_date: "2020-04-01"
+last_updated: "2020-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028105"
+soort: "rijkswet"
+stam_id: "10655993"
+version_id: "17602732"
+internal_id: "C24679261"
+label_id: "10631044"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028105/2020-04-01/0"
+intitule_bron: "Stb.2010-341"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-07-07"
+intitule_published: "2010-09-01"
+intitule_in_force: "2010-10-01"
+intitule_status: "goed"
+original_publication: "Stb.2010-341"
+original_signed_date: "2010-07-07"
+original_published_date: "2010-09-01"
+original_effect: "nieuwe-regeling"
+original_dossier: "32178(R1898)"
+original_url_id: "stb-2010-341"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028105&z=2020-04-01&g=2020-04-01"
+jci_1_0: "1.0:c:BWBR0028105&g=2020-04-01"
+citeertitel_status: "officieel"
+short_title: "Reglement voor de Gouverneur van Curaçao"
+signed_date: "2010-07-07"
+entry_into_force: "2010-10-10"
 ---
-
 # Rijkswet van 7 juli 2010, houdende Reglement voor de Gouverneur van Curaçao
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
@@ -20,7 +47,7 @@ Treedt in werking om 00:00 uur in Aruba, Curaçao, Sint Maarten, Bonaire, Sint E
 
 ### afdeling Eerste. **Benoeming en ontslag van de Gouverneur**
 
-#### Artikel 1
+##### Artikel 1
 
 1. De Gouverneur is vertegenwoordiger van de Koning in diens hoedanigheid van hoofd van de regering van Curaçao. Hij is tevens vertegenwoordiger van de regering van het Koninkrijk.
 
@@ -34,7 +61,7 @@ Treedt in werking om 00:00 uur in Aruba, Curaçao, Sint Maarten, Bonaire, Sint E
 
 6. Alle uitgaven, verband houdende met de uitoefening van het ambt van Gouverneur, komen ten laste van het land Nederland, behoudens de verrekening bedoeld in [artikel 35 van het Statuut voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=35).
 
-#### Artikel 2
+##### Artikel 2
 
 De Gouverneur legt in handen van de Koning of van degene, door de Koning hiertoe aangewezen, de eed (verklaring en belofte) af:
 
@@ -46,19 +73,19 @@ Ik zweer (beloof), trouw aan de Koning en aan het [Statuut voor het Koninkrijk](
 
 Zo waarlijk helpe mij God Almachtig!» («Dat verklaar en beloof ik»).
 
-#### Artikel 3
+##### Artikel 3
 
 De Gouverneur aanvaardt zijn ambt door overlegging in een plechtige vergadering van de Staten van een afschrift van het koninklijk besluit houdende zijn benoeming en van het procesverbaal van zijn eedaflegging, en brengt de aanvaarding van zijn ambt bij proclamatie ter kennis van de ingezetenen.
 
-#### Artikel 4
+##### Artikel 4
 
 Onverminderd hetgeen elders in dit reglement is bepaald, is de Gouverneur verplicht zijn ambt te blijven uitoefenen totdat zijn opvolger het ambt heeft aanvaard, tenzij de uitoefening van zijn ambt eindigt op een eerder tijdstip ingevolge Koninklijke opdracht of toestemming.
 
-#### Artikel 5
+##### Artikel 5
 
 De Gouverneur mag zonder verlof van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties Curaçao niet verlaten.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De Gouverneur mag rechtstreeks noch zijdelings deelhebber zijn in, noch borg zijn voor enige onderneming, ten grondslag hebbende een overeenkomst om winst of voordeel aangegaan met Nederland, Aruba, Curaçao of Sint Maarten.
 
@@ -74,7 +101,7 @@ De Gouverneur mag zonder verlof van Onze Minister van Binnenlandse Zaken en Koni
 
 7. Indien een verbod als bedoeld in het vijfde en zesde lid ten aanzien van een gewezen Gouverneur kennelijk onredelijk is te achten, kan bij koninklijk besluit daarvan ontheffing worden verleend.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Bloed- of aanverwantschap tot en met de tweede graad of huwelijk mag niet bestaan tussen de Gouverneur enerzijds en de ondervoorzitter of een overig lid van de Raad van Advies, een minister of de Gevolmachtigde Minister anderzijds.
 
@@ -82,7 +109,7 @@ De Gouverneur mag zonder verlof van Onze Minister van Binnenlandse Zaken en Koni
 
 3. De aanverwantschap houdt op door ontbinding of nietigverklaring van het huwelijk, waardoor zij ontstaan is.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Wanneer er vermoeden bestaat, dat de Gouverneur lijdt aan een zodanige ziekelijke stoornis van de geestvermogens dat hij niet in staat moet worden geacht het ambt naar behoren uit te oefenen, belegt de voorzitter van de raad van ministers uit eigen beweging of op verzoek van twee leden een vergadering van die raad, ten einde de gegrondheid van het vermoeden te onderzoeken.
 
@@ -104,27 +131,27 @@ De Gouverneur mag zonder verlof van Onze Minister van Binnenlandse Zaken en Koni
 
 10. Wanneer de Gouverneur door een plotselinge ziektetoestand anders dan bedoeld in het eerste lid niet in staat is om zijn ambt uit te oefenen en om de uitoefening hiervan overeenkomstig [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028105&afdeling=Eerste&artikel=13&z=2020-04-01&g=2020-04-01), tijdelijk aan de aldaar bedoelde persoon over te dragen, worden de in dit artikel opgenomen bepalingen eveneens toegepast, met dien verstande echter, dat de Gouverneur, nadat hij voldoende hersteld is, de uitoefening van zijn ambt hervat.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De Gouverneur kan, zolang hij zijn ambt bekleedt, niet voor de strafrechter in Aruba, Curaçao of Sint Maarten worden gedagvaard, noch aldaar in burgerlijke gijzeling gebracht, noch zonder koninklijke toestemming als getuige in een rechtsgeding geroepen worden.
 
 2. Hij kan, ook na zijn ontslag, wegens feiten, tijdens zijn ambtsperiode gepleegd, in Aruba, Curaçao of Sint Maarten niet tot straf vervolgd worden.
 
-#### Artikel 10
+##### Artikel 10
 
 De Gouverneur staat wegens ambtsmisdrijven in zijn betrekking gepleegd, ook na zijn aftreden terecht voor de Hoge Raad der Nederlanden. De opdracht tot vervolging wordt gegeven bij koninklijk besluit of bij een besluit van de Tweede Kamer der Staten-Generaal.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De Gouverneur staat in Nederland, behalve wegens ambtsmisdrijven, terecht voor de rechter, die volgens de aldaar geldende wetten bevoegd zou zijn geweest, naar gelang van de tegen het feit bedreigde straffen, daarvan kennis te nemen, ware het gepleegd in de gemeente in welke de zetel van de regering van het Koninkrijk gevestigd is.
 
 2. De straf tegen het feit bedreigd, is die welke daartegen bedreigd wordt bij het strafrecht van de plaats, waar het feit is begaan.
 
-#### Artikel 12
+##### Artikel 12
 
 Indien tegen de Gouverneur, hetzij in het geval voorzien in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028105&afdeling=Eerste&artikel=10&z=2020-04-01&g=2020-04-01), hetzij ter zake van andere strafbare feiten, een vervolging in Nederland wordt ingesteld, draagt hij de uitoefening van zijn ambt over aan degene, die bij koninklijk besluit is aangewezen om tijdelijk het ambt van Gouverneur uit te oefenen.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Wanneer de Gouverneur overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028105&afdeling=Eerste&artikel=8&z=2020-04-01&g=2020-04-01) tijdelijk van de uitoefening van zijn ambt is ontheven, of wanneer hij niet in staat is om het uit te oefenen, treedt als waarnemende Gouverneur op de persoon, bij koninklijk besluit daartoe aangewezen.
 
@@ -138,7 +165,7 @@ Indien tegen de Gouverneur, hetzij in het geval voorzien in [artikel 10](https:/
 
 6. Wanneer de Gouverneur in gevallen als bedoeld in het eerste en derde lid, de uitoefening van zijn ambt hervat, doet hij hiervan mededeling aan de Staten en brengt hij dit bij proclamatie ter kennis van de ingezetenen.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Al wat in dit reglement en in de Staatsregeling van Curaçao is bepaald omtrent de Gouverneur is van overeenkomstige toepassing op de waarnemende Gouverneur, met uitzondering van de voorschriften in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028105&afdeling=Eerste&artikel=3&z=2020-04-01&g=2020-04-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0028105&afdeling=Eerste&artikel=7&z=2020-04-01&g=2020-04-01) van dit reglement, en met dien verstande, dat de verbodsbepalingen van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028105&afdeling=Eerste&artikel=6&z=2020-04-01&g=2020-04-01) van dit reglement niet gelden voor het deel dat de waarnemende Gouverneur in de daarbij bedoelde concessies en ondernemingen had, alsmede voor door hem vervulde betrekkingen als genoemd in het vierde lid bij de aldaar bedoelde ondernemingen, voor zover verworven onderscheidenlijk aanvaard buiten de tijd dat hij als waarnemende Gouverneur optreedt, en dat het vijfde en zesde lid van dat artikel niet op hem van toepassing zijn.
 
@@ -146,7 +173,7 @@ Indien tegen de Gouverneur, hetzij in het geval voorzien in [artikel 10](https:/
 
 ### afdeling Tweede. **De bevoegdheden van de Gouverneur als orgaan van het Koninkrijk**
 
-#### Artikel 15
+##### Artikel 15
 
 1. De Gouverneur vertegenwoordigt de regering van het Koninkrijk en waakt daarbij over het algemeen belang van het Koninkrijk overeenkomstig de bepalingen van dit reglement en met inachtneming van de bij of krachtens koninklijk besluit te geven aanwijzingen. Hij is verantwoordelijk aan de regering van het Koninkrijk.
 
@@ -158,11 +185,11 @@ Indien tegen de Gouverneur, hetzij in het geval voorzien in [artikel 10](https:/
 
 5. Indien Onze Minister-President deelneemt aan een overleg als bedoeld in het derde of vierde lid, zit hij de vergadering voor.
 
-#### Artikel 16
+##### Artikel 16
 
 De Gouverneur zorgt voor de afkondiging van de hem daartoe vanwege de Koning toegezonden rijkswetten en algemene maatregelen van rijksbestuur. Hij draagt eveneens zorg voor de uitvoering van de rijkswetten en algemene maatregelen van rijksbestuur en van de in Curaçao geldende verdragen en besluiten van volkenrechtelijke organisaties, tenzij deze uitdrukkelijk aan een landsorgaan is opgedragen.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De Gouverneur kan om gewichtige redenen de hem bevolen afkondiging of uitvoering van de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028105&afdeling=Tweede&artikel=16&z=2020-04-01&g=2020-04-01) bedoelde rijkswetten en algemene maatregelen van rijksbestuur opschorten en geeft hiervan terstond kennis aan de regering van het Koninkrijk.
 
@@ -170,7 +197,7 @@ De Gouverneur zorgt voor de afkondiging van de hem daartoe vanwege de Koning toe
 
 3. Indien de handeling van de Gouverneur niet de instemming van de regering van het Koninkrijk verwerft, dan wordt de Gouverneur hiervan in kennis gesteld. De afkondiging of uitvoering heeft daarna onverwijld plaats.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De rijkswetten en algemene maatregelen van rijksbestuur worden afgekondigd door plaatsing in het officiële publicatieblad, met vermelding van de datum van uitgifte.
 
@@ -192,19 +219,19 @@ Gedaan te , de .»
 
 3. Ingeval de uitoefening van het ambt van Gouverneur wordt waargenomen, heeft voor zoveel nodig wijziging van dat formulier plaats.
 
-#### Artikel 19
+##### Artikel 19
 
 De afgekondigde rijkswet of algemene maatregel van rijksbestuur treedt in werking op het in of krachtens die regeling te bepalen tijdstip.
 
-#### Artikel 20
+##### Artikel 20
 
 De Gouverneur houdt toezicht op de naleving van de rijkswetten en algemene maatregelen van rijksbestuur en van de verdragen en besluiten van volkenrechtelijke organisaties. Ter zake doet hij de nodige voordrachten aan de regering van het Koninkrijk.
 
-#### Artikel 21
+##### Artikel 21
 
 De Gouverneur stelt een landsverordening en een hem voorgedragen landsbesluit niet vast, wanneer hij de verordening of het besluit in strijd acht met het [Statuut](https://wetten.overheid.nl/jci1.3:c:BWBR0002154), een internationale regeling, een rijkswet of een algemene maatregel van rijksbestuur, dan wel met belangen, waarvan de verzorging of waarborging aangelegenheid van het Koninkrijk is. Hij geeft hiervan terstond kennis aan de Koning als hoofd van de regering van het Koninkrijk. Wanneer bij koninklijk besluit, de Raad van State van het Koninkrijk gehoord, wordt beslist dat zodanige strijd niet aanwezig is, stelt de Gouverneur de landsverordening of het landsbesluit alsnog vast. Het koninklijk besluit, waarbij wordt beslist dat zodanige strijd wel aanwezig is, wordt in het officiële publicatieblad bekend gemaakt.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De Gouverneur zendt elke vastgestelde landsverordening en elk vastgesteld landsbesluit, houdende algemene maatregelen, onverwijld aan de Koning als hoofd van de regering van het Koninkrijk.
 
@@ -220,17 +247,17 @@ De Gouverneur stelt een landsverordening en een hem voorgedragen landsbesluit ni
 
 7. Het besluit tot vernietiging regelt de gevolgen van de vernietiging.
 
-#### Artikel 23
+##### Artikel 23
 
 De landsverordening kan aan de Gouverneur als orgaan van het Koninkrijk met koninklijke toestemming bevoegdheden met betrekking tot aangelegenheden van Curaçao opdragen, welke hij niet uitoefent als vertegenwoordiger van de Koning als hoofd van de regering van Curaçao.
 
-#### Artikel 24
+##### Artikel 24
 
 1. De landsorganen verlenen op verzoek van de Gouverneur hun medewerking bij de uitoefening van de hem in dit reglement toegekende bevoegdheden.
 
 2. De onder hen ressorterende diensten en ambtenaren staan daartoe te zijnen dienste.
 
-#### Artikel 25
+##### Artikel 25
 
 1. De Gouverneur is naar de bepalingen, vervat in de [Wet ministeriële verantwoordelijkheid en ambtsdelicten leden Staten-Generaal, ministers en staatssecretarissen](https://wetten.overheid.nl/jci1.3:c:BWBR0001844), tot straf vervolgbaar:
 
@@ -246,15 +273,15 @@ De landsverordening kan aan de Gouverneur als orgaan van het Koninkrijk met koni
 
 3. De feiten, vermeld onder letters a, b en c worden gestraft met de straf genoemd in [artikel 355](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=355), en het feit, vermeld onder letter d, met de straf genoemd in [artikel 356 van het Nederlandse Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=356).
 
-#### Artikel 26
+##### Artikel 26
 
 Deze rijkswet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 27
+##### Artikel 27
 
 Deze rijkswet wordt aangehaald als: Reglement voor de Gouverneur van Curaçao.
 
-#### Artikel 28
+##### Artikel 28
 
 Het Reglement voor de Gouverneur van de Nederlandse Antillen wordt ingetrokken.
 

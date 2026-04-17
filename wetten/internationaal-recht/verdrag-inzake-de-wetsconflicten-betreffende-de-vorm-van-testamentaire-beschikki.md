@@ -1,13 +1,38 @@
 ---
 title: "Verdrag inzake de wetsconflicten betreffende de vorm van testamentaire beschikkingen"
 identifier: "BWBV0002006"
-categorie: "Internationaal recht"
-publicatiedatum: 1982-08-01
-laatste_update: 1982-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002006"
+country: "nl"
+rank: "verdrag"
+publication_date: "1982-08-01"
+last_updated: "1982-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002006"
+soort: "verdrag"
+stam_id: "10002606413"
+version_id: "10002603432"
+internal_id: "C10006992461"
+label_id: "10002595744"
+dtd_version: "2.0"
+original_entry_into_force: "1982-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002006/1982-08-01/0"
+intitule_bron: "Trb.1980-54"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1982-06-02"
+intitule_published: "1980-05-06"
+intitule_in_force: "1982-06-02"
+intitule_status: "goed"
+original_publication: "Trb.1980-54"
+original_signed_date: "1982-06-02"
+original_published_date: "1980-05-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1980-54"
+entry_into_force_date: "1982-08-01"
+jci_1_3: "jci1.3:c:BWBV0002006&z=1982-08-01&g=1982-08-01"
+jci_1_0: "1.0:c:BWBV0002006&g=1982-08-01"
+citeertitel_status: "redactioneel"
+signed_date: "1982-06-02"
+entry_into_force: "1982-08-01"
 ---
-
 # Verdrag inzake de wetsconflicten betreffende de vorm van testamentaire beschikkingen
 
 De Staten, die dit Verdrag hebben ondertekend,
@@ -16,7 +41,7 @@ Verlangend gemeenschappelijke regels omtrent de oplossing van wetsconflicten bet
 
 Hebben besloten te dien einde een Verdrag te sluiten en zijn overeengekomen als volgt:
 
-#### Artikel 1
+##### Artikel 1
 
 Een testamentaire beschikking is wat de vorm betreft geldig, indien zij beantwoordt aan de eisen van het interne recht.
 
@@ -34,45 +59,45 @@ Indien in de Staat waarvan de testateur de nationaliteit bezat, meer dan één r
 
 De vraag of de testateur woonplaats had op een bepaalde plaats wordt beheerst door het recht van die plaats.
 
-#### Artikel 2
+##### Artikel 2
 
 Artikel 1 is ook van toepassing op testamentaire beschikkingen, waarbij een vroegere testamentaire beschikking wordt herroepen.
 
 De herroeping is wat de vorm betreft ook geldig, indien zij beantwoordt aan de vereisten van één der rechtsstelsels volgens welke, bij toepassing van artikel 1, de herroepen testamentaire beschikking geldig was.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit Verdrag maakt geen inbreuk op bestaande of toekomstige regels van de verdragsluitende Staten, ingevolge welke testamentaire beschikkingen die gemaakt zijn in de vorm die door een niet in de voorgaande artikelen genoemd recht is voorgeschreven, worden erkend.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit Verdrag is eveneens van toepassing op de vorm van door twee of meer personen bij eenzelfde akte gemaakte testamentaire beschikkingen.
 
-#### Artikel 5
+##### Artikel 5
 
 Voor de toepassing van dit Verdrag worden voorschriften, die op grond van leeftijd, nationaliteit of andere persoonlijke hoedanigheden van de testateur de voor testamentaire beschikkingen toelaatbare vormen beperken, tot de vormvoorschriften gerekend. Hiertoe worden eveneens gerekend de hoedanigheden, die de voor de geldigheid van een testamentaire beschikking vereiste getuigen moeten bezitten.
 
-#### Artikel 6
+##### Artikel 6
 
 De toepassing van. de bij dit Verdrag vastgestelde conflictenregels is onafhankelijk van enig vereiste van wederkerigheid. Het Verdrag is van toepassing zelfs indien de nationaliteit van de betrokkenen of het ingevolge de voorgaande artikelen toepasselijke recht niet dat van een verdragsluitende Staat is.
 
-#### Artikel 7
+##### Artikel 7
 
 De toepassing van een door dit Verdrag aangewezen recht kan slechts ter zijde worden gesteld, indien deze toepassing kennelijk onverenigbaar is met de openbare orde.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit Verdrag is van toepassing in alle gevallen waarin de testateur is overleden na de inwerkingtreding van het Verdrag.
 
-#### Artikel 9
+##### Artikel 9
 
 Iedere verdragsluitende Staat kan zich het recht voorbehouden om, in afwijking van artikel 1, derde lid, naar het recht van de rechter de plaats te bepalen, waar de testateur woonplaats had.
 
-#### Artikel 10
+##### Artikel 10
 
 Iedere verdragsluitende Staat kan zich het recht voorbehouden om testamentaire beschikkingen van een zijner onderdanen, die geen andere nationaliteit bezit, niet te erkennen indien deze, behoudens in buitengewone omstandigheden, in de mondelinge vorm zijn gemaakt.
 
-#### Artikel 11
+##### Artikel 11
 
 ledere verdragsluitende Staat kan zich het recht voorbehouden om, op grond van de desbetreffende voorschriften van zijn recht, bepaalde vormen van in het buitenland gemaakte testamentaire beschikkingen niet te erkennen, indien de volgende voorwaarden zijn vervuld:
 
@@ -86,33 +111,33 @@ ledere verdragsluitende Staat kan zich het recht voorbehouden om, op grond van d
 
 Dit voorbehoud heeft slechts gevolg ten aanzien van de goederen, die zich bevinden in de Staat, die het voorbehoud heeft gemaakt.
 
-#### Artikel 12
+##### Artikel 12
 
 Iedere verdragsluitende Staat kan zich het recht voorbehouden om de toepassing van dit Verdrag op testamentaire bepalingen, die naar zijn recht niet van erfrechtelijke aard zijn, uit te sluiten.
 
-#### Artikel 13
+##### Artikel 13
 
 Iedere verdragsluitende Staat kan zich het recht voorbehouden om, in afwijking van artikel 8, dit Verdrag slechts toe te passen, op na zijn inwerkingtreding gemaakte testamentaire beschikkingen.
 
-#### Artikel 14
+##### Artikel 14
 
 Dit Verdrag staat ter ondertekening open voor de Staten, vertegenwoordigd op de Negende Zitting van de Haagse Conferentie voor Internationaal Privaatrecht.
 
 Het zal worden bekrachtigd en de akten van bekrachtiging zullen worden nedergelegd bij het Ministerie van Buitenlandse Zaken van Nederland.
 
-#### Artikel 15
+##### Artikel 15
 
 Dit Verdrag treedt in werking op de zestigste dag na de nederlegging van de derde akte van bekrachtiging bedoeld in artikel 14, tweede lid.
 
 Het Verdrag treedt voor elke ondertekenende Staat die later bekrachtigt in werking op de zestigste dag na de nederlegging van zijn akte van bekrachtiging.
 
-#### Artikel 16
+##### Artikel 16
 
 Iedere Staat die niet is vertegenwoordigd geweest op de Negende Zitting van de Haagse Conferentie voor Internationaal Privaatrecht kan tot dit Verdrag toetreden na zijn inwerkingtreding krachtens artikel 15, eerste lid. De akte van toetreding zal worden nedergelegd bij het Ministerie van Buitenlandse Zaken van Nederland.
 
 Het Verdrag treedt voor de toetredende Staat in werking op de zestigste dag na de nederlegging van zijn akte van toetreding.
 
-#### Artikel 17
+##### Artikel 17
 
 Iedere Staat kan op het tijdstip van ondertekening, bekrachtiging of toetreding verklaren, dat dit Verdrag zich zal uitstrekken tot het geheel van de gebieden voor welker internationale betrekkingen hij verantwoordelijk is of tot één of meer van deze. Deze verklaring krijgt gevolg op het tijdstip van de inwerkingtreding van het Verdrag voor deze Staat.
 
@@ -120,7 +145,7 @@ Vervolgens wordt elke uitbreiding van deze aard ter kennis gebracht van het Mini
 
 Het Verdrag treedt voor de in de verklaring van uitbreiding genoemde gebieden in werking op de zestigste dag na de in het vorige lid vermelde kennisgeving.
 
-#### Artikel 18
+##### Artikel 18
 
 Iedere Staat kan, uiterlijk op het tijdstip van bekrachtiging of toetreding, één of meer van de in de artikelen 9, 10, 11, 12 en 13 van dit Verdrag bedoelde voorbehouden maken. Geen ander voorbehoud is toegestaan.
 
@@ -130,7 +155,7 @@ Iedere verdragsluitende Staat kan op elk tijdstip een door hem gemaakt voorbehou
 
 De werking van het voorbehoud eindigt op de zestigste dag na de kennisgeving, bedoeld in het vorige lid.
 
-#### Artikel 19
+##### Artikel 19
 
 Dit Verdrag blijft gedurende vijf jaren van kracht, te rekenen van de dag van zijn inwerkingtreding krachtens artikel 15, eerste lid, zelfs voor de Staten, die het later hebben bekrachtigd of later zijn toegetreden.
 
@@ -142,7 +167,7 @@ Zij kan zich beperken tot bepaalde van de gebieden, waarop het Verdrag van toepa
 
 De opzegging heeft slechts gevolg ten opzichte van de Staat die haar gedaan heeft. Het Verdrag blijft van kracht voor de andere verdragsluitende Staten.
 
-#### Artikel 20
+##### Artikel 20
 
 Het Ministerie van Buitenlandse Zaken van Nederland geeft aan de in artikel 14 bedoelde Staten, alsmede aan de Staten die overeenkomstig de bepalingen van artikel 16 zijn toegetreden, kennis van:
 

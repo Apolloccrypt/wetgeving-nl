@@ -1,13 +1,38 @@
 ---
 title: "Zetelovereenkomst voor de Benelux-Organisatie voor de Intellectuele Eigendom (merken en tekeningen of modellen)"
 identifier: "BWBV0002872"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2015-01-01
-laatste_update: 2015-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002872"
+country: "nl"
+rank: "verdrag"
+publication_date: "2015-01-01"
+last_updated: "2015-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002872"
+soort: "verdrag"
+stam_id: "10003192543"
+version_id: "10003202462"
+internal_id: "C10006998291"
+label_id: "10003178584"
+dtd_version: "2.0"
+original_entry_into_force: "2007-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002872/2015-01-01/0"
+intitule_bron: "Trb.2007-202"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-10-10"
+intitule_published: "2007-11-01"
+intitule_in_force: "2007-11-01"
+intitule_status: "goed"
+original_publication: "Trb.2007-202"
+original_signed_date: "2007-10-10"
+original_published_date: "2007-11-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2007-202"
+entry_into_force_date: "2007-10-10"
+jci_1_3: "jci1.3:c:BWBV0002872&z=2015-01-01&g=2015-01-01"
+jci_1_0: "1.0:c:BWBV0002872&g=2015-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "2007-10-10"
+entry_into_force: "2007-10-10"
 ---
-
 # Zetelovereenkomst voor de Benelux-Organisatie voor de Intellectuele Eigendom (merken en tekeningen of modellen)
 
 Het Koninkrijk der Nederlanden,
@@ -24,7 +49,7 @@ Overwegende dat ingevolge artikel 1.5 van genoemd Verdrag de Benelux-Organisatie
 
 Zijn overeengekomen als volgt:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van deze Overeenkomst wordt verstaan onder:
 
@@ -50,7 +75,7 @@ Voor de toepassing van deze Overeenkomst wordt verstaan onder:
 
 - k. „Gastland”, het Koninkrijk der Nederlanden.
 
-#### Artikel 2. Onschendbaarheid kantoorruimten, archieven en documenten
+##### Artikel 2. Onschendbaarheid kantoorruimten, archieven en documenten
 
 1. De kantoorruimten van de Organisatie alsmede haar archieven en documenten die haar toebehoren of die zij onder zich houdt, zijn onschendbaar.
 
@@ -58,21 +83,21 @@ Voor de toepassing van deze Overeenkomst wordt verstaan onder:
 
 3. Het betekenen ten kantore van de Organisatie van processtukken welke betrekking hebben op een tegen de Organisatie gerichte rechtsvordering, vormt geen inbreuk op de onschendbaarheid.
 
-#### Artikel 3. Officiële berichtgeving
+##### Artikel 3. Officiële berichtgeving
 
 1. Met betrekking tot officiële berichtgeving en het overbrengen van al haar documenten geniet de Organisatie in Nederland de meest gunstige behandeling, die de Regering elke andere internationale organisatie doet genieten.
 
 2. Er wordt geen censuur uitgeoefend op de officiële berichtgeving van de Organisatie, ongeacht de middelen waarmee bedoelde berichtgeving geschiedt.
 
-#### Artikel 4. Bureaufaciliteiten
+##### Artikel 4. Bureaufaciliteiten
 
 De Regering erkent dat bepaalde diensten, voorzieningen en ondersteuning nodig zijn voor het naar behoren en efficiënte functioneren van de Organisatie en zal zich inspannen om de Organisatie bij te staan bij het bewerkstelligen en in stand houden van het naar behoren functioneren van de faciliteiten van de Organisatie in Nederland.
 
-#### Artikel 5. Kantoorruimten van de Organisatie
+##### Artikel 5. Kantoorruimten van de Organisatie
 
 De kantoorruimten van de Organisatie omvatten gebouwen, delen van gebouwen en daarbij behorende grond of voorzieningen, daaronder begrepen installaties en voorzieningen die aan de Organisatie in Nederland ter beschikking zijn gesteld of door haar worden onderhouden, ingenomen of gebruikt voor de uitoefening van haar officiële werkzaamheden. De Directeur-Generaal doet de Regering een plattegrond hiervan toekomen.
 
-#### Artikel 6. Immuniteit van rechtsmacht
+##### Artikel 6. Immuniteit van rechtsmacht
 
 1. In het kader van haar officiële werkzaamheden geniet de Organisatie immuniteit van rechtsmacht en van executie behoudens:
 
@@ -86,7 +111,7 @@ De kantoorruimten van de Organisatie omvatten gebouwen, delen van gebouwen en da
 
 3. Activa, fondsen en tegoeden van de Organisatie zijn eveneens vrij van elke vorm van administratieve of gerechtelijke dwang, behalve voor zover deze tijdelijk geboden zou zijn in verband met het voorkomen van ongevallen waarbij motorvoertuigen zijn betrokken, die toebehoren aan de Organisatie of namens deze worden gebruikt, en het instellen van een onderzoek naar de toedracht van die ongevallen.
 
-#### Artikel 7. Belastingvrijstellingen
+##### Artikel 7. Belastingvrijstellingen
 
 1. Voor de toepassing van artikel 5, eerste lid, van het Protocol omvat „directe belastingen” alle directe rijksbelastingen en alle directe belastingen, rechten en heffingen opgelegd door een provincie, gemeente of waterschap, zulks onverminderd het bepaalde in het derde lid van genoemd artikel.
 
@@ -112,7 +137,7 @@ De Organisatie verbindt zich ertoe de verificatie door de bevoegde autoriteiten 
 
 Ten aanzien van de terugbetaling van de genoemde omzetbelasting zijn de door de Regering vastgestelde quota’s en regelingen van toepassing.
 
-#### Artikel 8. Tewerkstellingsvergunning, verblijfsvergunning, verplichte registratie
+##### Artikel 8. Tewerkstellingsvergunning, verblijfsvergunning, verplichte registratie
 
 1. Personeelsleden van de Organisatie die hun werkzaamheden in Nederland uitoefenen:
 
@@ -124,7 +149,7 @@ Ten aanzien van de terugbetaling van de genoemde omzetbelasting zijn de door de 
 
 2. De aan personeelsleden van de Organisatie tijdens de periode van hun dienstverband en aan hun inwonende gezinsleden verleende rechten vervallen bij het definitieve vertrek van het personeelslid of bij het verstrijken van een redelijke termijn als bedoeld in artikel 39, tweede en derde lid, van het Verdrag van Wenen, welke termijn wordt geteld vanaf de datum waarop het personeelslid zijn taak beëindigt of het gezinslid niet langer inwonend is.
 
-#### Artikel 9. Tewerkstelling gezinsleden
+##### Artikel 9. Tewerkstelling gezinsleden
 
 1. Inwonende gezinsleden van een personeelslid van de Organisatie behoeven voor de duur van het dienstverband van het personeelslid bij de Organisatie geen tewerkstellingsvergunning te hebben.
 
@@ -134,7 +159,7 @@ Ten aanzien van de terugbetaling van de genoemde omzetbelasting zijn de door de 
 
 4. De in dit artikel bedoelde werkzaamheden dienen in overeenstemming te zijn met de Nederlandse wetgeving, met inbegrip van de wetgeving inzake belastingen en sociale zekerheid, tenzij anders bepaald door een ander toepasselijk internationaal juridisch instrument.
 
-#### Artikel 10. Identiteitskaarten
+##### Artikel 10. Identiteitskaarten
 
 1. De Organisatie zal de Regering onverwijld in kennis stellen van:
 
@@ -160,7 +185,7 @@ Ten aanzien van de terugbetaling van de genoemde omzetbelasting zijn de door de 
 
 4. De Organisatie zal de identiteitskaarten van de in het tweede lid van dit artikel genoemde personen na beëindiging van de tewerkstelling van de betrokken personen terugzenden, met inachtneming van de in artikel 8, tweede lid, van deze Overeenkomst gestelde redelijke termijn.
 
-#### Artikel 11. Voorrechten en immuniteiten van de Directeur-Generaal
+##### Artikel 11. Voorrechten en immuniteiten van de Directeur-Generaal
 
 1. De Directeur-Generaal, alsmede diens inwonende gezinsleden, genieten dezelfde voorrechten en immuniteiten als die welke door Nederland worden verleend aan hoofden van de diplomatieke vertegenwoordigingen in Nederland overeenkomstig het Verdrag van Wenen.
 
@@ -172,7 +197,7 @@ Ten aanzien van de terugbetaling van de genoemde omzetbelasting zijn de door de 
 
 - b. de immuniteit ten aanzien van handelingen verricht in de uitoefening van hun functie.
 
-#### Artikel 12. Voorrechten en immuniteiten van het personeel van de Organisatie
+##### Artikel 12. Voorrechten en immuniteiten van het personeel van de Organisatie
 
 1. De personeelsleden in de hoogste functies van de Organisatie die hun werkzaamheden in Nederland uitoefenen, alsmede hun inwonende gezinsleden, genieten dezelfde voorrechten en immuniteiten als die welke door Nederland worden verleend aan diplomatieke ambtenaren van de diplomatieke vertegenwoordigingen die in Nederland zijn gevestigd overeenkomstig het Verdrag van Wenen, met dien verstande dat immuniteit ten aanzien van de rechtsmacht in strafzaken en persoonlijke onschendbaarheid zich niet uitstrekken tot handelingen verricht buiten de uitoefening van hun functie.
 
@@ -192,11 +217,11 @@ Ten aanzien van de terugbetaling van de genoemde omzetbelasting zijn de door de 
 
 7. Dit artikel doet geen afbreuk aan regelingen in deze Overeenkomst of het Protocol.
 
-#### Artikel 13. Fiscale heffing inkomsten en vermogensbestanddelen
+##### Artikel 13. Fiscale heffing inkomsten en vermogensbestanddelen
 
 Vervallen
 
-#### Artikel 14. Deskundigen
+##### Artikel 14. Deskundigen
 
 Deskundigen die namens de Organisatie een functie uitoefenen of voor haar een zending uitvoeren genieten, ook tijdens de reizen die zij in de uitoefening van hun functie maken of tijdens deze zendingen, van de hierna vermelde voorrechten en immuniteiten, voor zover deze noodzakelijk zijn voor de uitoefening van hun functie:
 
@@ -204,13 +229,13 @@ Deskundigen die namens de Organisatie een functie uitoefenen of voor haar een ze
 
 - b. onschendbaarheid van al hun officiële papieren en documenten.
 
-#### Artikel 15. Bedienden
+##### Artikel 15. Bedienden
 
 1. Voor de tijdsduur van hun verblijf in Nederland is het personeelsleden van de Organisatie die hun werkzaamheden in Nederland uitoefenen toegestaan om huisbedienden of, waar van toepassing, particuliere bedienden in dienst te hebben.
 
 2. De in het eerste lid van dit artikel bedoelde huis- of particuliere bedienden behoeven geen tewerkstellingsvergunning en geen verblijfsvergunning te hebben.
 
-#### Artikel 16. De vertegenwoordigers van de Hoge Verdragsluitende Partijen
+##### Artikel 16. De vertegenwoordigers van de Hoge Verdragsluitende Partijen
 
 De vertegenwoordigers van de Hoge Verdragsluitende Partijen, hun plaatsvervangers, hun raadgevers of deskundigen genieten, bij de vergaderingen van de Raad van Bestuur van het Bureau of ieder orgaan dat door deze Raad is ingesteld alsmede op hun reizen naar de plaats van samenkomst en terug, de volgende voorrechten en immuniteiten:
 
@@ -224,7 +249,7 @@ De vertegenwoordigers van de Hoge Verdragsluitende Partijen, hun plaatsvervanger
 
 - e. vrijstelling voor henzelf, hun samenwonende echtgeno(o)t(e) of geregistreerde partner en inwonende kinderen ten laste van alle maatregelen die de binnenkomst van vreemdelingen beperken alsmede van de aan de registratie van vreemdelingen verbonden formaliteiten.
 
-#### Artikel 17. Binnenkomst, verblijf en vertrek
+##### Artikel 17. Binnenkomst, verblijf en vertrek
 
 1. De Regering vergemakkelijkt het binnenkomen, het verblijf en het vertrek van de volgende personen:
 
@@ -244,7 +269,7 @@ De vertegenwoordigers van de Hoge Verdragsluitende Partijen, hun plaatsvervanger
 
 3. Deze regeling laat de mogelijkheid onverlet om te verlangen dat redelijk bewijs wordt geleverd waaruit blijkt dat personen die zich beroepen op de behandeling waarin deze regeling voorziet, tot de in het eerste lid van dit artikel omschreven categorieën behoren.
 
-#### Artikel 18. Inwonende gezinsleden
+##### Artikel 18. Inwonende gezinsleden
 
 1. Voor de toepassing van deze Overeenkomst worden de volgende personen aangemerkt als inwonend gezinslid van een personeelslid:
 
@@ -266,27 +291,27 @@ De vertegenwoordigers van de Hoge Verdragsluitende Partijen, hun plaatsvervanger
 
 2. Kinderen van 18 tot en met 24 jaar van een personeelslid van de Organisatie, van diens echtgeno(o)t(e) of van diens geregistreerd partner worden, ook indien zij niet aan de voorwaarde in het eerste lid, letter c, punt iii, van dit artikel voldoen, als inwonend gezinslid aangemerkt, zolang zij voldoen aan de overige, onder die letter genoemde voorwaarden.
 
-#### Artikel 19. Sociale zekerheid
+##### Artikel 19. Sociale zekerheid
 
 In het geval dat de Organisatie een eigen stelsel van sociale zekerheid heeft dat vergelijkbaar is met het Nederlandse stelsel, of deelneemt aan een met de Nederlandse regeling vergelijkbaar stelsel van sociale zekerheid, zijn de Organisatie, en haar personeelsleden op wie het bovengenoemde stelsel van toepassing is, uitgezonderd van de Nederlandse sociale zekerheidsbepalingen, tenzij de functionarissen en andere werknemers op wie het bovengenoemde stelsel van toepassing is, in Nederland betaalde arbeid verrichten anders dan uit hoofde van de vorenbedoelde betrekking.
 
-#### Artikel 20. Interpretatie van de Overeenkomst
+##### Artikel 20. Interpretatie van de Overeenkomst
 
 Deze Overeenkomst dient te worden uitgelegd in het licht van haar primaire oogmerk, te weten de Organisatie in staat te stellen in het Gastland volledig en efficiënt haar doelstellingen te verwezenlijken.
 
-#### Artikel 21. Geschillen
+##### Artikel 21. Geschillen
 
 Elk geschil tussen het Gastland en de Organisatie over de uitlegging of de toepassing van deze Overeenkomst of het Protocol wordt beslecht overeenkomstig artikel 14 van het Protocol.
 
-#### Artikel 22. Wijzigingen
+##### Artikel 22. Wijzigingen
 
 Op verzoek van de Regering of van de Organisatie vindt overleg plaats omtrent de uitvoering of wijziging van deze Overeenkomst.
 
-#### Artikel 23. Gunstigste behandeling
+##### Artikel 23. Gunstigste behandeling
 
 Indien en voor zover de Regering in de toekomst een overeenkomst aangaat met, of haar beleid wijzigt ten aanzien van, een intergouvernementele organisatie met in deze overeenkomst of dit beleid voorwaarden die voor die organisatie gunstiger zijn dan vergelijkbare voorwaarden in deze Overeenkomst, zal op verzoek van de Organisatie overleg worden aangegaan met als doel te bespreken of dezelfde behandeling aan de Organisatie kan worden verleend.
 
-#### Artikel 24. Inwerkingtreding en duur
+##### Artikel 24. Inwerkingtreding en duur
 
 1. Deze Overeenkomst treedt in werking op de dag van ondertekening. Zij blijft van kracht zolang het Verdrag en het Protocol van kracht blijven voor het Koninkrijk der Nederlanden.
 

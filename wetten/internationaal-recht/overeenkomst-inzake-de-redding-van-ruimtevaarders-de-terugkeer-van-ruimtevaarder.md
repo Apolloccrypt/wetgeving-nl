@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst inzake de redding van ruimtevaarders, de terugkeer van ruimtevaarders en de teruggave van in de kosmische ruimte gebrachte voorwerpen"
 identifier: "BWBV0004569"
-categorie: "Internationaal recht"
-publicatiedatum: 1981-02-17
-laatste_update: 1981-02-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004569"
+country: "nl"
+rank: "verdrag"
+publication_date: "1981-02-17"
+last_updated: "1981-02-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004569"
+soort: "verdrag"
+stam_id: "10004194803"
+version_id: "10004371182"
+internal_id: "C10006999391"
+label_id: "10004179894"
+dtd_version: "2.0"
+original_entry_into_force: "1981-02-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004569/1981-02-17/0"
+intitule_bron: "Trb.1968-134"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1968-10-24"
+intitule_in_force: "1981-03-18"
+intitule_status: "goed"
+original_publication: "Trb.1968-134"
+original_published_date: "1968-10-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1968-134"
+entry_into_force_date: "1981-02-17"
+jci_1_3: "jci1.3:c:BWBV0004569&z=1981-02-17&g=1981-02-17"
+jci_1_0: "1.0:c:BWBV0004569&g=1981-02-17"
+citeertitel_status: "redactioneel"
+entry_into_force: "1981-02-17"
 ---
-
 # Overeenkomst inzake de redding van ruimtevaarders, de terugkeer van ruimtevaarders en de teruggave van in de kosmische ruimte gebrachte voorwerpen
 
 De Overeenkomstsluitende Partijen,
@@ -22,7 +44,7 @@ Daarbij geleid door overwegingen van menselijkheid,
 
 Zijn overeengekomen als volgt:
 
-#### Artikel 1
+##### Artikel 1
 
 Iedere Overeenkomstsluitende Partij die ervan in kennis wordt gesteld of die bemerkt dat de opvarenden van een ruimteschip een ongeval is overkomen, of dat zij in moeilijkheden zijn geraakt, dan wel een noodlanding of een gedwongen landing hebben gemaakt in een onder haar rechtsbevoegdheid vallend gebied, of in volle zee of op welke andere plaats ook, waar geen enkele Staat rechtsbevoegdheid bezit, dient onverwijld:
 
@@ -30,19 +52,19 @@ Iedere Overeenkomstsluitende Partij die ervan in kennis wordt gesteld of die bem
 
 - b. daarvan kennis te geven aan de Secretaris-Generaal van de Verenigde Naties, die het bericht terstond verspreidt met gebruikmaking van alle passende hem ter beschikking staande verbindingsmiddelen.
 
-#### Artikel 2
+##### Artikel 2
 
 Indien, ten gevolge van een ongeval, moeilijkheden, een noodlanding of een gedwongen landing, de opvarenden van een ruimteschip neerkomen in een gebied dat onder de rechtsbevoegdheid van een Overeenkomstsluitende Partij valt, treft deze onverwijld alle mogelijke maatregelen om hen te redden en hun alle benodigde bijstand te verlenen. Zij stelt zowel de autoriteit die verantwoordelijk is voor de lancering, als de Secretaris-Generaal van de Verenigde Naties in kennis van de maatregelen die zij treft en van de voortgang die met de uitvoering daarvan wordt gemaakt. Indien hulp van de zijde van de autoriteit die verantwoordelijk is voor de lancering een snelle reddingsactie mogelijk zou helpen maken, of in belangrijke mate zou bijdragen tot de doeltreffendheid van opsporings- en reddingsacties, werkt deze autoriteit samen met de Overeenkomstsluitende Partij ten einde een doeltreffende uitvoering van de opsporings- en reddingsacties te verzekeren. Zodanige acties zijn onderworpen aan de leiding en het toezicht van de Overeenkomstsluitende Partij, die optreedt in nauw en voortdurend overleg met de autoriteit die voor de lancering verantwoordelijk is.
 
-#### Artikel 3
+##### Artikel 3
 
 Indien bericht wordt ontvangen of indien wordt vastgesteld dat de opvarenden van een ruimteschip in open zee zijn neergekomen of op enige andere plaats waar geen enkele Staat rechtsbevoegdheid heeft, verlenen de Overeenkomstsluitende Partijen die daartoe bij machte zijn, zo nodig, hulp bij de opsporings- en reddingsacties ten behoeve van zodanige opvarenden, ten einde zodoende hun spoedige redding te verzekeren. Zij geven zowel de autoriteit die voor de lancering verantwoordelijk is als de Secretaris-Generaal van de Verenigde Naties kennis van de maatregelen die zij treffen en de voortgang die met de uitvoering daarvan wordt gemaakt.
 
-#### Artikel 4
+##### Artikel 4
 
 Indien, ten gevolge van een ongeval, moeilijkheden, een noodlanding of gedwongen landing, de opvarenden van een ruimteschip neerkomen in een gebied dat onder de rechtsbevoegdheid valt van een Overeenkomstsluitende Partij, dan wel worden aangetroffen in open zee, of op een andere plaats die niet onder de rechtsbevoegdheid van enige Staat valt, worden zij onverwijld veilig teruggezonden naar vertegenwoordigers van de autoriteit die voor de lancering verantwoordelijk is.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Iedere Overeenkomstsluitende Partij die ervan in kennis wordt gesteld of die bemerkt dat in de kosmische ruimte gebrachte voorwerpen of samenstellende delen daarvan naar de aarde zijn teruggekeerd in een onder haar rechtsbevoegdheid vallend gebied, dan wel in open zee of op enige andere plaats die niet onder de rechtsbevoegdheid van enige Staat valt, geeft daarvan kennis zowel aan de autoriteit die verantwoordelijk is voor de lancering, als aan de Secretaris-Generaal van de Verenigde Naties.
 
@@ -54,11 +76,11 @@ Indien, ten gevolge van een ongeval, moeilijkheden, een noodlanding of gedwongen
 
 5. Kosten die worden gemaakt in verband met het nakomen van verplichtingen, verband houdende met het opsporen en terugzenden van in de kosmische ruimte gebrachte voorwerpen of samenstellende delen daarvan, ingevolge het bepaalde in het tweede en derde lid van dit artikel, zijn voor rekening van de autoriteit die verantwoordelijk is voor de lancering.
 
-#### Artikel 6
+##### Artikel 6
 
 In deze Overeenkomst wordt met de term „autoriteit die verantwoordelijk is voor de lancering” de Staat bedoeld die voor zodanige lancering verantwoordelijk is, of, indien een internationale intergouvernementele organisatie voor de lancering verantwoordelijk is, die organisatie, mits deze verklaart de in deze Overeenkomst voorziene rechten en verplichtingen te aanvaarden en een meerderheid van de Staten die lid zijn van die organisatie partij is bij deze Overeenkomst en bij het Verdrag inzake de beginselen waaraan de activiteiten van Staten zijn onderworpen bij het onderzoek en gebruik van de kosmische ruimte, met inbegrip van de maan en andere hemellichamen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Deze Overeenkomst staat open voor ondertekening door alle Staten. Iedere Staat die deze Overeenkomst niet ondertekent vóór haar inwerkingtreding overeenkomstig het bepaalde in het derde lid van dit artikel kan te allen tijde tot deze Overeenkomst toetreden.
 
@@ -72,15 +94,15 @@ In deze Overeenkomst wordt met de term „autoriteit die verantwoordelijk is voo
 
 6. Deze Overeenkomst wordt door de depotregeringen geregistreerd ingevolge het bepaalde in artikel 102 van het Handvest van de Verenigde Naties.
 
-#### Artikel 8
+##### Artikel 8
 
 Iedere Staat die partij is bij deze Overeenkomst kan voorstellen doen tot wijziging ervan. Wijzigingen treden voor iedere Staat die partij is bij deze Overeenkomst en die deze aanvaardt, in werking na hun aanvaarding door een meerderheid van de Staten die partij zijn bij deze Overeenkomst, en vervolgens voor iedere overige Staat die partij is bij deze Overeenkomst, op de datum dat hij deze aanvaardt.
 
-#### Artikel 9
+##### Artikel 9
 
 Iedere Staat die partij is bij deze Overeenkomst kan door middel van een schriftelijke kennisgeving aan de depotregeringen mededeling doen van zijn uittreding uit deze Overeenkomst een jaar na de inwerkingtreding ervan. Een zodanige uittreding wordt van kracht een jaar na de datum van ontvangst van deze kennisgeving.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze Overeenkomst waarvan de Chinese, de Engelse, de Franse, de Russische en de Spaanse tekst gelijkelijk authentiek zijn, wordt in het archief van elk der depotregeringen nedergelegd. De depotregeringen doen gewaarmerkte afschriften van deze Overeenkomst aan de Regeringen der ondertekenende en toetredende Staten toekomen.
 

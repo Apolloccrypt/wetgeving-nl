@@ -1,20 +1,45 @@
 ---
 title: "Regeling experiment verlenging nachtprocedures"
 identifier: "BWBR0026598"
-categorie: "Overig"
-publicatiedatum: 2010-11-01
-laatste_update: 2010-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026598"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2010-11-01"
+last_updated: "2010-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026598"
+soort: "ministeriele-regeling"
+stam_id: "10265713"
+version_id: "16801242"
+internal_id: "C23132241"
+label_id: "10241184"
+dtd_version: "2.0"
+original_entry_into_force: "2009-11-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026598/2010-11-01/0"
+intitule_bron: "Stcrt.2009-16778"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-10-30"
+intitule_published: "2009-11-06"
+intitule_in_force: "2009-11-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-16778"
+original_signed_date: "2009-10-30"
+original_published_date: "2009-11-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-16778"
+entry_into_force_date: "2009-11-08"
+jci_1_3: "jci1.3:c:BWBR0026598&z=2010-11-01&g=2010-11-01"
+jci_1_0: "1.0:c:BWBR0026598&g=2010-11-01"
+citeertitel_status: "redactioneel"
+signed_date: "2009-10-30"
+entry_into_force: "2009-11-08"
 ---
-
 # Regeling experiment verlenging nachtprocedures
 
 Gelet op [artikel 8.23a, eerste lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.23a);
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -24,15 +49,15 @@ In deze regeling wordt verstaan onder:
 
 - c. **gebruiksjaar 2010:** de periode van 1 november 2009 tot en met 31 oktober 2010.
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 Het experiment beoogt door het langer gebruik maken van de nachtelijke vertrek- en naderingsprocedures en routes per saldo het aantal slaapverstoorden en ernstig gehinderden te verminderen, teneinde een gunstig effect op de hinderbeleving te bewerkstelligen.
 
-#### Artikel 3. Luchtverkeerwegen
+##### Artikel 3. Luchtverkeerwegen
 
 Voor de duur van het experiment wordt dagelijks voor de periode tussen 6.00 uur en 6.45 uur vrijstelling verleend van de [artikelen 3.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&artikel=3.1.1), en [3.1.3, eerste lid, van het LVB](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&artikel=3.1.3), met betrekking tot de luchtverkeerwegen die zijn aangewezen op de kaarten 5/21 en 19/21 van [bijlage 1 van het LVB](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&bijlage=1).
 
-#### Artikel 4. Grenswaarden
+##### Artikel 4. Grenswaarden
 
 1. In plaats van de grenswaarden, genoemd in [bijlage 2 van het LVB](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&bijlage=2) gelden tijdens dit experiment voor het gebruiksjaar 2010 vanaf 1 november 2009 voor de in de onderstaande tabel genoemde handhavingspunten de volgende grenswaarden:
 
@@ -174,15 +199,15 @@ Voor de duur van het experiment wordt dagelijks voor de periode tussen 6.00 uur 
 | 24 | 106.000 | 471.050 | 46,15 | (47.15) |
 | 25 | 100.475 | 472.525 | 48,80 | (49,80) |
 
-#### Artikel 5. Uitvoering
+##### Artikel 5. Uitvoering
 
 Het experiment houdt in dat alle straalvliegtuigen de nachtelijke vertrek- en naderingsprocedures ook tussen 6:00 en 6:30 uur zullen gebruiken.
 
-#### Artikel 6. Gevolgen
+##### Artikel 6. Gevolgen
 
 Als gevolg van het experiment vindt er een geografische verschuiving plaats van geluidbelasting. Naar verwachting zal het aantal ernstig slaapverstoorden en het aantal ernstig gehinderden in het onderzoeksgebied per saldo afnemen.
 
-#### Artikel 7. Criteria
+##### Artikel 7. Criteria
 
 De criteria die onderdeel vormen van de afweging en de beoordeling of het experiment wordt omgezet in een wijziging van het [LVB](https://wetten.overheid.nl/jci1.3:c:BWBR0014330) zijn:
 
@@ -198,17 +223,17 @@ De criteria die onderdeel vormen van de afweging en de beoordeling of het experi
 
 - •. het effect op ruimtelijke contouren zoals vastgelegd in het [Luchthavenindelingbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014329) en op bestaande verstedelijking en nieuwbouwplannen.
 
-#### Artikel 8. Onvoorziene gevallen
+##### Artikel 8. Onvoorziene gevallen
 
 In onvoorziene gevallen kunnen op advies van belanghebbenden de minister van Verkeer en Waterstaat en de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer gezamenlijk overgaan tot bijsturen, opschorten of vroegtijdig stopzetten van het experiment.
 
-#### Artikel 9. Termijn experiment
+##### Artikel 9. Termijn experiment
 
 De termijn van het experiment betreft de periode vanaf 1 november 2009 tot en met 31 oktober 2010.
 
 De termijn van het op grond van [artikel 8.23a, vijfde lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.23a) verlengde experiment betreft de periode vanaf 1 november 2010 tot en met 4 mei 2011.
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 november 2009.
 

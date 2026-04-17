@@ -1,20 +1,46 @@
 ---
-title: "Tijdelijke regeling gefaseerde inwerkingtreding artikel 2:13 Awb"
+title: "Tijdelijke regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 17 september 2025, nr. 2025-0000558699, houdende de gefaseerde inwerkingtreding van de verplichting uit artikel 2:13, eerste lid, van de Algemene wet bestuursrecht (Tijdelijke regeling gefaseerde inwerkingtreding artikel 2:13 Awb) [KetenID: WGK027218]"
 identifier: "BWBR0051634"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051634"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051634"
+soort: "ministeriele-regeling"
+stam_id: "17557103"
+version_id: "31211692"
+internal_id: "C44644981"
+label_id: "17458274"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051634/2026-01-01/0"
+intitule_bron: "Stcrt.2025-34567"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-09-17"
+intitule_published: "2025-10-20"
+intitule_in_force: "2025-10-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-43761"
+original_signed_date: "2025-12-11"
+original_published_date: "2025-12-17"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2025-43761"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051634&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051634&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Tijdelijke regeling gefaseerde inwerkingtreding artikel 2:13 Awb"
+signed_date: "2025-12-11"
+entry_into_force: "2026-01-01"
 ---
-
 # Tijdelijke regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 17 september 2025, nr. 2025-0000558699, houdende de gefaseerde inwerkingtreding van de verplichting uit artikel 2:13, eerste lid, van de Algemene wet bestuursrecht (Tijdelijke regeling gefaseerde inwerkingtreding artikel 2:13 Awb) [KetenID: WGK027218]
 
 Gelet op [artikel 2:13, vierde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:13);
 
 Besluit:
 
-#### Artikel 1. Immigratie- en Naturalisatiedienst
+##### Artikel 1. Immigratie- en Naturalisatiedienst
 
 [Artikel 2:13, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:13) is niet van toepassing op de volgende aan de Minister van Asiel en Migratie, de Minister van Buitenlandse Zaken en de Staatssecretarissen van Justitie en Veiligheid gerichte berichten, waarbij de Immigratie- en Naturalisatiedienst gelet op een mandaat, volmacht en/of machtiging is belast met de afhandeling van dat bericht.
 
@@ -63,7 +89,7 @@ Besluit:
 | [Artikel 14 Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=14) | Intrekking Nederlanderschap | Officiële berichten die worden ingediend in een procedure omtrent het verkrijgen van het Nederlanderschap, zoals de inzending van aanvullende stukken. |
 | [Artikel 6 Wet vaststellingsprocedure staatloosheid](https://wetten.overheid.nl/jci1.3:c:BWBR0048458&artikel=6) | Vaststelling evidente staatloosheid | Officiële berichten die worden ingediend in een procedure omtrent de vaststelling van evidente staatloosheid rechtstreeks bij de IND worden ingediend, zoals de aanvraag en berichten over de verstrekking, intrekking en vervanging van een s-document. |
 
-#### Artikel 2. Kamer van Koophandel
+##### Artikel 2. Kamer van Koophandel
 
 [Artikel 2:13, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:13) is niet van toepassing op de volgende aan de Kamer van Koophandel gerichte berichten.
 
@@ -74,7 +100,7 @@ Besluit:
 | [Artikel 3 Handelsregisterbesluit 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&artikel=3) | Opgave ter inschrijving, wijziging door notaris | Statuten Statutaire naam Statutaire zetel Bestuursmodel Geplaatst/gestort kapitaal Maatschappelijk kapitaal Wijzigen gegevens buitenlandse rechtsvorm fusie/splitsing. |
 | [Artikel 2:403 Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=403) | Aansprakelijkheidsverklaring | Deponeren van een aansprakelijkheidsverklaring (403-verklaring) bij het Handelsregister. |
 
-#### Artikel 3. Rijksinspectie Digitale Infrastructuur
+##### Artikel 3. Rijksinspectie Digitale Infrastructuur
 
 [Artikel 2:13, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:13) is niet van toepassing op de volgende aan de Minister van Economische Zaken en Klimaat gerichte berichten, waarbij de Rijksinspectie Digitale Infrastructuur gelet op een mandaat, volmacht en/of machtiging is belast met de afhandeling van dat bericht.
 
@@ -143,7 +169,7 @@ Besluit:
 | [Regeling extra vergunningen publieke mediadienst](https://wetten.overheid.nl/jci1.3:c:BWBR0036191) | Ingevolge deze regeling kunnen extra DAB-vergunningen worden verleend aan lokale, regionale en landelijke publieke omroep. | Aanvraag voor extra DAB vergunningen. |
 | [Artikel 3 Regeling jaarlijkse bijdrage DVB-T](https://wetten.overheid.nl/jci1.3:c:BWBR0012704&artikel=3) | Een DVB-T vergunninghouder verstrekt de Minister jaarlijks voor 1 juli een financieel overzicht volgens het in bijlage II bij deze regeling opgenomen model. Ook een accountantsverklaring wordt meegezonden. | Verstrekking van informatie. |
 
-#### Artikel 4. Uitvoeringsinstituut werknemersverzekeringen
+##### Artikel 4. Uitvoeringsinstituut werknemersverzekeringen
 
 [Artikel 2:13, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:13) is niet van toepassing op de volgende aan het Uitvoeringsinstituut werknemersverzekeringen gerichte berichten.
 
@@ -171,7 +197,7 @@ Besluit:
 | [Artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=12) en [13 Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=13) | Mededelingsplicht en Inlichtingenplicht | Formulieren/berichten tbv wijzigen (bijzondere) aanvraaggegevens [TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) |
 | [Artikel 3 Regeling werkzaamheden, administratieve voorschriften en kosten eigenrisicodrager ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0027022&artikel=3) | Inrichting ziekteverzuimadministratie van eigenrisicodrager; controle op de uitvoering ZW door eigenrisicodrager | Formulieren/berichten tbv aanleveren controlegegevens voor ERD Controleproces |
 
-#### Artikel 4a. Dienst Toeslagen
+##### Artikel 4a. Dienst Toeslagen
 
 [Artikel 2:13, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:13) is niet van toepassing op de volgende aan de Dienst Toeslagen gerichte berichten.
 
@@ -190,11 +216,11 @@ Besluit:
 | [Afdeling 5.4.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=5.4.2). | De Dienst Toeslagen heeft als taak het toekennen, uitbetalen en terugvorderen van tegemoetkomingen. Daaronder valt het opleggen van een bestuurlijke boete. | Reactie op het voornemen om een boete op te leggen. |
 | [Artikel 4:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:17) en [6:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:12). | De Dienst Toeslagen heeft als taak het toekennen, uitbetalen en terugvorderen van tegemoetkomingen. Daaronder valt mede het tijdig beslissen. | Ingebrekestelling. |
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling treedt in werking met ingang van 1 januari 2026 en vervalt met ingang van 1 januari 2027.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling wordt aangehaald als: Tijdelijke regeling gefaseerde inwerkingtreding artikel 2:13 Awb.
 

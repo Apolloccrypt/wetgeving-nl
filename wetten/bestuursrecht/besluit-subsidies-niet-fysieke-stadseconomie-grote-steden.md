@@ -1,13 +1,39 @@
 ---
-title: "Besluit subsidies niet-fysieke stadseconomie grote steden"
+title: "Besluit van 4 mei 2001, houdende regels inzake de verstrekking van subsidies in het kader van niet-fysieke stadseconomie in grote steden (Besluit subsidies niet-fysieke stadseconomie grote steden)"
 identifier: "BWBR0012459"
-categorie: "Bestuursrecht"
-publicatiedatum: 2003-07-16
-laatste_update: 2003-07-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012459"
+country: "nl"
+rank: "amvb"
+publication_date: "2003-07-16"
+last_updated: "2003-07-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012459"
+soort: "AMvB"
+stam_id: "1574873"
+version_id: "2335262"
+internal_id: "C2335261"
+label_id: "1530134"
+dtd_version: "2.0"
+original_entry_into_force: "2001-06-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012459/2003-07-16/0"
+intitule_bron: "Stb.2001-282"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-05-04"
+intitule_published: "2001-06-21"
+intitule_in_force: "2001-06-21"
+intitule_status: "goed"
+original_publication: "Stb.2001-282"
+original_signed_date: "2001-05-04"
+original_published_date: "2001-06-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2001-282"
+entry_into_force_date: "2001-06-22"
+jci_1_3: "jci1.3:c:BWBR0012459&z=2003-07-16&g=2003-07-16"
+jci_1_0: "1.0:c:BWBR0012459&g=2003-07-16"
+citeertitel_status: "officieel"
+short_title: "Besluit subsidies niet-fysieke stadseconomie grote steden"
+signed_date: "2001-05-04"
+entry_into_force: "2001-06-22"
 ---
-
 # Besluit van 4 mei 2001, houdende regels inzake de verstrekking van subsidies in het kader van niet-fysieke stadseconomie in grote steden (Besluit subsidies niet-fysieke stadseconomie grote steden)
 
 Op de voordracht van de Staatssecretaris van Economische Zaken, gedaan in overeenstemming met Onze Minister voor Grote Steden- en Integratiebeleid en de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, van 4 december 2000, nr. WJZ 00071786;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -32,13 +58,13 @@ In dit besluit wordt verstaan onder:
 
 - c. benchmark lokaal ondernemersklimaat: referentiekader voor de toetsing van de economische concurrentiepositie van de stad.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Onze Minister verstrekt in 2001 een subsidie ten behoeve van niet-fysieke stadseconomie aan een in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&bijlage=1&z=2003-07-16&g=2003-07-16) van dit besluit vermelde gemeente die een ontwikkelingsprogramma uitvoert dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&bijlage=1&z=2003-07-16&g=2003-07-16) is gehecht aan het tussen die gemeente en het Rijk op 20 december 1999 in het kader van het grotestedenbeleid gesloten convenant.
 
 2. Onze Minister verstrekt in 2001 een subsidie ten behoeve van niet-fysieke stadseconomie aan een in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&bijlage=2&z=2003-07-16&g=2003-07-16) van dit besluit vermelde gemeente die een ontwikkelingsprogramma uitvoert dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&bijlage=1&z=2003-07-16&g=2003-07-16) is gehecht aan het tussen die gemeente en het Rijk op 21 december 1999 in het kader van het Investeringsbudget stedelijke vernieuwing gesloten convenant.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De subsidie bedraagt in het in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&paragraaf=1&artikel=2&z=2003-07-16&g=2003-07-16), bedoelde geval het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&bijlage=1&z=2003-07-16&g=2003-07-16) van dit besluit genoemde bedrag.
 
@@ -46,13 +72,13 @@ In dit besluit wordt verstaan onder:
 
 #### § 2. De subsidieverlening
 
-#### Artikel 4
+##### Artikel 4
 
 De beschikking tot subsidieverlening vermeldt het tijdstip en de wijze waarop de aanvraag om subsidievaststelling moet worden ingediend.
 
 #### § 3. Verplichtingen van de subsidie-ontvanger
 
-#### Artikel 5
+##### Artikel 5
 
 1. Aan de subsidieverlening zijn de in het tweede tot en met zevende lid opgenomen verplichtingen verbonden.
 
@@ -70,7 +96,7 @@ De beschikking tot subsidieverlening vermeldt het tijdstip en de wijze waarop de
 
 #### § 4. Voorschotten
 
-#### Artikel 6
+##### Artikel 6
 
 1. Op een subsidie ter zake waarvan een beschikking tot subsidieverlening geldt wordt door Onze Minister ten hoogste eenmaal per kalenderjaar een voorschot verstrekt.
 
@@ -78,21 +104,21 @@ De beschikking tot subsidieverlening vermeldt het tijdstip en de wijze waarop de
 
 #### § 5. De subsidievaststelling
 
-#### Artikel 7
+##### Artikel 7
 
 Onze Minister geeft de beschikking tot subsidievaststelling binnen dertien weken na ontvangst van de aanvraag daartoe dan wel nadat de voor het indienen ervan geldende termijn is verstreken.
 
 #### § 6. Overgangs- en slotbepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 Tot 1 januari 2002 gelden voor de toepassing van de[artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&paragraaf=1&artikel=3&z=2003-07-16&g=2003-07-16) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&paragraaf=4&artikel=6&z=2003-07-16&g=2003-07-16) de bedragen genoemd in de[bijlagen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&bijlage=1a&z=2003-07-16&g=2003-07-16) en [2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&bijlage=2a&z=2003-07-16&g=2003-07-16) van dit besluit.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit subsidies niet-fysieke stadseconomie grote steden.
 

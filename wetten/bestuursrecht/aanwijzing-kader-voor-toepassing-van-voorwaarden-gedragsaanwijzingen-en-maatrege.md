@@ -1,13 +1,35 @@
 ---
 title: "Aanwijzing kader voor toepassing van voorwaarden, gedragsaanwijzingen en maatregelen"
 identifier: "BWBR0049057"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049057"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049057"
+soort: "beleidsregel"
+stam_id: "16958203"
+version_id: "29912922"
+internal_id: "C42877661"
+label_id: "16868944"
+dtd_version: "2.0"
+original_entry_into_force: "2024-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049057/2024-01-01/0"
+intitule_bron: "Stcrt.2023-32927-n1"
+intitule_effect: "wijziging"
+intitule_published: "2023-11-30"
+intitule_in_force: "2023-11-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-32927-n1"
+original_published_date: "2023-11-30"
+original_effect: "wijziging"
+original_url_id: "stcrt-2023-32927-n1"
+entry_into_force_date: "2024-01-01"
+jci_1_3: "jci1.3:c:BWBR0049057&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0049057&g=2024-01-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2024-01-01"
 ---
-
 # Aanwijzing kader voor toepassing van voorwaarden, gedragsaanwijzingen en maatregelen
 
 ### Samenvatting

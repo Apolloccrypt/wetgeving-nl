@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregel Warenwet TTX in levende tweekleppige weekdieren 2022"
+title: "Beleidsregel van de Minister van Volksgezondheid, Welzijn en Sport van 10 mei 2022, 3357024-1028239-VGP, houdende het vaststellen van een actielimiet en een limietwaarde voor tetrodotoxine in levende tweekleppige weekdieren (Beleidsregel Warenwet TTX in levende tweekleppige weekdieren 2022)"
 identifier: "BWBR0046677"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-05-19
-laatste_update: 2022-05-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046677"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2022-05-19"
+last_updated: "2022-05-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046677"
+soort: "beleidsregel"
+stam_id: "16363333"
+version_id: "28636832"
+internal_id: "C40403131"
+label_id: "16287424"
+dtd_version: "2.0"
+original_entry_into_force: "2022-05-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046677/2022-05-19/0"
+intitule_bron: "Stcrt.2022-13082"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-05-10"
+intitule_published: "2022-05-18"
+intitule_in_force: "2022-05-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-13082"
+original_signed_date: "2022-05-10"
+original_published_date: "2022-05-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-13082"
+entry_into_force_date: "2022-05-19"
+jci_1_3: "jci1.3:c:BWBR0046677&z=2022-05-19&g=2022-05-19"
+jci_1_0: "1.0:c:BWBR0046677&g=2022-05-19"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel Warenwet TTX in levende tweekleppige weekdieren 2022"
+signed_date: "2022-05-10"
+entry_into_force: "2022-05-19"
 ---
-
 # Beleidsregel van de Minister van Volksgezondheid, Welzijn en Sport van 10 mei 2022, 3357024-1028239-VGP, houdende het vaststellen van een actielimiet en een limietwaarde voor tetrodotoxine in levende tweekleppige weekdieren (Beleidsregel Warenwet TTX in levende tweekleppige weekdieren 2022)
 
 Gelet op [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81), [artikel 3, eerste lid, van het Warenwetbesluit uitvoering verordening officiële controles en andere officiële activiteiten](https://wetten.overheid.nl/jci1.3:c:BWBR0042548&artikel=3) en [artikel 6, eerste lid, van de Warenwetregeling levende tweekleppige weekdieren](https://wetten.overheid.nl/jci1.3:c:BWBR0034872&artikel=6);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -36,7 +62,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - –. **verwatergebied:** verwatergebied als bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034872&artikel=1) en [3 van de Warenwetregeling levende tweekleppige weekdieren](https://wetten.overheid.nl/jci1.3:c:BWBR0034872&artikel=3).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Voor de aanwezigheid van TTX in levende tweekleppige weekdieren uit Nederlandse productiegebieden wordt een actielimiet gesteld van 22 µg/kg in levende tweekleppige weekdieren. Boven deze waarde mag een partij levende tweekleppige weekdieren onder voorwaarden worden verplaatst of in de handel worden gebracht.
 
@@ -48,19 +74,19 @@ Boven deze waarde:
 
 - b. mogen specifieke partijen levende tweekleppige weekdieren onder voorwaarden worden verplaatst of in de handel worden gebracht.
 
-#### Artikel 3
+##### Artikel 3
 
 In de bijlage zijn de voorwaarden opgenomen voor het verplaatsen en in de handel brengen van een partij levende tweekleppige weekdieren bij overschrijding van de actielimiet, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046677&artikel=2&z=2022-05-19&g=2022-05-19), en op welke wijze de NVWA de in artikel 2, tweede lid, genoemde maatregelen bij overschrijding van de limietwaarde, bedoeld in artikel 2, tweede lid, zal toepassen.
 
-#### Artikel 4
+##### Artikel 4
 
 De [Beleidsregel Warenwet TTX in levende tweekleppige weekdieren](https://wetten.overheid.nl/jci1.3:c:BWBR0039746) wordt ingetrokken.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin hij wordt geplaatst.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel Warenwet TTX in levende tweekleppige weekdieren 2022.
 

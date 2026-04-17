@@ -1,13 +1,39 @@
 ---
-title: "Aanwijzing nieuwe bekostiging voor geneeskundige geestelijke gezondheidszorg (ggz) en forensische zorg (fz)"
+title: "Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 14 december 2020, 1795863-215660-PZo, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake invoering nieuwe bekostiging voor geneeskundige geestelijke gezondheidszorg (ggz) en forensische zorg (fz)"
 identifier: "BWBR0044560"
-categorie: "Sociaal recht"
-publicatiedatum: 2020-12-22
-laatste_update: 2020-12-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044560"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-12-22"
+last_updated: "2020-12-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044560"
+soort: "ministeriele-regeling"
+stam_id: "15773093"
+version_id: "27336012"
+internal_id: "C38606891"
+label_id: "15711144"
+dtd_version: "2.0"
+original_entry_into_force: "2020-12-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044560/2020-12-22/0"
+intitule_bron: "Stcrt.2020-66990"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-12-14"
+intitule_published: "2020-12-22"
+intitule_in_force: "2020-12-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-66990"
+original_signed_date: "2020-12-14"
+original_published_date: "2020-12-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-66990"
+entry_into_force_date: "2020-12-22"
+jci_1_3: "jci1.3:c:BWBR0044560&z=2020-12-22&g=2020-12-22"
+jci_1_0: "1.0:c:BWBR0044560&g=2020-12-22"
+citeertitel_status: "redactioneel"
+short_title: "Aanwijzing nieuwe bekostiging voor geneeskundige geestelijke gezondheidszorg (ggz) en forensische zorg (fz)"
+signed_date: "2020-12-14"
+entry_into_force: "2020-12-22"
 ---
-
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 14 december 2020, 1795863-215660-PZo, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake invoering nieuwe bekostiging voor geneeskundige geestelijke gezondheidszorg (ggz) en forensische zorg (fz)
 
 Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
@@ -22,7 +48,7 @@ Gezien het schriftelijk overleg van de vaste commissie voor Volksgezondheid, Wel
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze aanwijzing wordt verstaan onder:
 
@@ -42,7 +68,7 @@ In deze aanwijzing wordt verstaan onder:
 
 - –. **zorgautoriteit:** Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3);
 
-#### Artikel 2. Werkingssfeer
+##### Artikel 2. Werkingssfeer
 
 Deze aanwijzing is van toepassing op:
 
@@ -52,15 +78,15 @@ Deze aanwijzing is van toepassing op:
 
 De Minister van Veiligheid en Justitie wordt met een ziektekostenverzekeraar gelijkgesteld, voor zover het de inkoop van forensische zorg betreft.
 
-#### Artikel 3. Opdracht
+##### Artikel 3. Opdracht
 
 De zorgautoriteit stelt ter uitvoering van deze aanwijzing regels of beleidsregels vast. Deze treden in werking met ingang van 1 januari 2022.
 
-#### Artikel 4. Tarieven en prestaties
+##### Artikel 4. Tarieven en prestaties
 
 De zorgautoriteit stelt prestaties en maximumtarieven vast.
 
-#### Artikel 5. Facultatieve prestatie
+##### Artikel 5. Facultatieve prestatie
 
 1. De zorgautoriteit voorziet in haar beleidsregels in de mogelijkheid facultatieve prestaties aan te vragen.
 
@@ -72,7 +98,7 @@ De zorgautoriteit stelt prestaties en maximumtarieven vast.
 
 5. De zorgautoriteit verbindt voorschriften of beperkingen aan de vaststelling van de aangevraagde prestatiebeschrijving. Hieronder valt de voorwaarde dat dubbele bekostiging niet is toegestaan.
 
-#### Artikel 6. Transitieprestatie
+##### Artikel 6. Transitieprestatie
 
 De zorgautoriteit stelt voor de overgang naar de nieuwe bekostiging een tijdelijke transitieprestatie met een vrij tarief vast voor een periode van twee jaar (2022 en 2023).
 

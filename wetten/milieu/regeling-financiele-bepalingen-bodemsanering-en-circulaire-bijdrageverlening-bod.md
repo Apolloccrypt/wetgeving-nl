@@ -1,13 +1,37 @@
 ---
 title: "Regeling financiële bepalingen bodemsanering en Circulaire bijdrageverlening bodemsanering"
 identifier: "BWBR0008407"
-categorie: "Milieu"
-publicatiedatum: 1997-01-01
-laatste_update: 1997-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008407"
+country: "nl"
+rank: "circulaire"
+publication_date: "1997-01-01"
+last_updated: "1997-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008407"
+soort: "circulaire"
+stam_id: "6363993"
+version_id: "11023062"
+internal_id: "C14919551"
+label_id: "6352884"
+original_entry_into_force: "1997-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008407/1997-01-01/0"
+intitule_bron: "Stcrt.1996-249"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-12-11"
+intitule_published: "1996-12-24"
+intitule_in_force: "1996-12-24"
+intitule_status: "goed"
+original_publication: "Stcrt.1996-249"
+original_signed_date: "1996-12-11"
+original_published_date: "1996-12-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1996-249-p10-SC7922"
+entry_into_force_date: "1997-01-01"
+jci_1_3: "jci1.3:c:BWBR0008407&z=1997-01-01&g=1997-01-01"
+jci_1_0: "1.0:c:BWBR0008407&g=1997-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "1996-12-11"
+entry_into_force: "1997-01-01"
 ---
-
 # Regeling financiële bepalingen bodemsanering en Circulaire bijdrageverlening bodemsanering
 
 Brief aan de colleges van gedeputeerde staten van de provincies en burgemeester en wethouders van Amsterdam, ’s-Gravenhage, Rotterdam en Utrecht

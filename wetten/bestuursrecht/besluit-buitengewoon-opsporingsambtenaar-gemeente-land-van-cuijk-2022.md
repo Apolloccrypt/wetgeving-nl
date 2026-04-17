@@ -1,13 +1,39 @@
 ---
-title: "Besluit buitengewoon opsporingsambtenaar gemeente Land van Cuijk 2022"
+title: "Besluit van de Minister voor Rechtsbescherming van 10 oktober 2022 nr. BOACAT2022/069, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Land van Cuijk"
 identifier: "BWBR0047317"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-10-19
-laatste_update: 2022-10-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047317"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-10-19"
+last_updated: "2022-10-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047317"
+soort: "ministeriele-regeling"
+stam_id: "16522003"
+version_id: "28957322"
+internal_id: "C40990071"
+label_id: "16443434"
+dtd_version: "2.0"
+original_entry_into_force: "2022-10-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047317/2022-10-19/0"
+intitule_bron: "Stcrt.2022-27360"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-10-10"
+intitule_published: "2022-10-18"
+intitule_in_force: "2022-10-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-27360"
+original_signed_date: "2022-10-10"
+original_published_date: "2022-10-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-27360"
+entry_into_force_date: "2022-10-19"
+jci_1_3: "jci1.3:c:BWBR0047317&z=2022-10-19&g=2022-10-19"
+jci_1_0: "1.0:c:BWBR0047317&g=2022-10-19"
+citeertitel_status: "officieel"
+short_title: "Besluit buitengewoon opsporingsambtenaar gemeente Land van Cuijk 2022"
+signed_date: "2022-10-10"
+entry_into_force: "2022-10-19"
 ---
-
 # Besluit van de Minister voor Rechtsbescherming van 10 oktober 2022 nr. BOACAT2022/069, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Land van Cuijk
 
 Gelezen het verzoek van gemeente Land van Cuijk van 12 augustus 2022 en de adviezen van de hoofdofficier van justitie bij het arrondissementsparket
@@ -32,15 +58,15 @@ de [Beleidsregels Buitengewoon Opsporingsambtenaar](https://wetten.overheid.nl/j
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047317&artikel=2&z=2022-10-19&g=2022-10-19).
 
-#### Artikel 2
+##### Artikel 2
 
 De personen, werkzaam in de functie van handhaver/BOA (domein I) in dienst van gemeente Land van Cuijk, zijn aangewezen als buitengewoon opsporingsambtenaar.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein I, Openbare ruimte, zoals opgenomen in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](onbekend).
 
@@ -48,21 +74,21 @@ De personen, werkzaam in de functie van handhaver/BOA (domein I) in dienst van g
 
 3. De buitengewoon opsporingsambtenaar vermeldt in zijn processen-verbaal en schriftelijke verslagleggingen het in het eerste lid genoemde domein.
 
-#### Artikel 4
+##### Artikel 4
 
 Op grond van dit besluit kunnen maximaal 29 personen als buitengewoon opsporingsambtenaar worden beëdigd.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Als toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36) is aangewezen de hoofdofficier van justitie bij het arrondissementsparket Oost-Brabant.
 
 2. Als direct toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36) is aangewezen de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27).
 
-#### Artikel 6
+##### Artikel 6
 
 De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste, derde en vierde lid (vervoersfouillering/insluitingsfouillering), van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7) omschreven bevoegdheden uitoefenen met gebruikmaking van handboeien.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De gemeente Land van Cuijk brengt jaarlijks, voor 1 april, verslag uit over:
 
@@ -74,17 +100,17 @@ De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste, derde en vierd
 
 2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047317&artikel=5&z=2022-10-19&g=2022-10-19) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Justitie en Veiligheid, Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
 
-#### Artikel 8
+##### Artikel 8
 
 De individuele akten van opsporingsbevoegdheid en beëdiging en de overige benoemingsbescheiden van de buitengewoon opsporingsambtenaren in dienst van gemeente Land van Cuijk in de functie van handhaver/BOA (domein I), worden voor de duur van hun geldigheid of tot daarover nader zal zijn beslist, geacht te zijn afgegeven mede op basis van het onderhavige besluit.
 
 Dit artikel brengt geen wijziging in de resterende looptijd van de afgegeven aktes.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het wordt geplaatst en vervalt vijf jaar na het tijdstip van inwerkingtreding.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar gemeente Land van Cuijk 2022.
 

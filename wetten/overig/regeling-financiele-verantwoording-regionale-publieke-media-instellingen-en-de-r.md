@@ -1,32 +1,58 @@
 ---
-title: "Regeling financiële verantwoording regionale publieke media-instellingen en de RPO 2024"
+title: "Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 24 mei 2024, nr. WJZ/44448983 (26116), houdende de vaststelling van een nieuw financieel handboek voor de regionale publieke media-instellingen en de RPO (Regeling financiële verantwoording regionale publieke media-instellingen en de RPO 2024)"
 identifier: "BWBR0049773"
-categorie: "Overig"
-publicatiedatum: 2024-06-04
-laatste_update: 2023-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049773"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-06-04"
+last_updated: "2023-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049773"
+soort: "ministeriele-regeling"
+stam_id: "17120803"
+version_id: "30131122"
+internal_id: "C43169851"
+label_id: "17029234"
+dtd_version: "2.0"
+original_entry_into_force: "2024-06-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049773/2024-06-04/0"
+intitule_bron: "Stcrt.2024-17455"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-05-24"
+intitule_published: "2024-06-03"
+intitule_in_force: "2024-06-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-17455"
+original_signed_date: "2024-05-24"
+original_published_date: "2024-06-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-17455"
+entry_into_force_date: "2024-06-04"
+jci_1_3: "jci1.3:c:BWBR0049773&z=2024-06-04&g=2024-06-04"
+jci_1_0: "1.0:c:BWBR0049773&g=2024-06-04"
+citeertitel_status: "officieel"
+short_title: "Regeling financiële verantwoording regionale publieke media-instellingen en de RPO 2024"
+signed_date: "2024-05-24"
+entry_into_force: "2024-06-04"
 ---
-
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 24 mei 2024, nr. WJZ/44448983 (26116), houdende de vaststelling van een nieuw financieel handboek voor de regionale publieke media-instellingen en de RPO (Regeling financiële verantwoording regionale publieke media-instellingen en de RPO 2024)
 
 Gelet op de [artikelen 2.172, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.172), en [2.173a, derde lid, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.173a);
 
 Besluit:
 
-#### Artikel 1. Vaststelling Handboek verantwoording
+##### Artikel 1. Vaststelling Handboek verantwoording
 
 Op de jaarrekeningen van de regionale publieke media-instellingen en de RPO is de bij deze regeling gevoegde bijlage van toepassing.
 
-#### Artikel 2. Intrekking oude verantwoordingsregeling
+##### Artikel 2. Intrekking oude verantwoordingsregeling
 
 De [Regeling financiële verantwoording regionale publieke media-instellingen en RPO 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044841) wordt ingetrokken, met dien verstande dat deze van toepassing blijft op de verantwoording over het jaar 2022.
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2023.
 
-#### Artikel 4. Citeertitel
+##### Artikel 4. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling financiële verantwoording regionale publieke media-instellingen en de RPO 2024.
 

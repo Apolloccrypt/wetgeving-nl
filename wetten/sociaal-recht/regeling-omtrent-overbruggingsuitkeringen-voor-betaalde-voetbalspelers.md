@@ -1,13 +1,37 @@
 ---
 title: "Regeling omtrent overbruggingsuitkeringen voor betaalde voetbalspelers"
 identifier: "BWBR0002850"
-categorie: "Sociaal recht"
-publicatiedatum: 1972-11-30
-laatste_update: 1972-11-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002850"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "1972-11-30"
+last_updated: "1972-11-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002850"
+soort: "beleidsregel"
+stam_id: "8391453"
+version_id: "13262292"
+internal_id: "C18428651"
+label_id: "8372234"
+dtd_version: "2.0"
+original_entry_into_force: "1972-11-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002850/1972-11-30/0"
+intitule_bron: "Infob.1972-11"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1972-11-30"
+intitule_published: "1972-01-01"
+intitule_in_force: "1972-01-01"
+intitule_status: "goed"
+original_publication: "Infob.1972-11"
+original_signed_date: "1972-11-30"
+original_published_date: "1972-01-01"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1972-11-30"
+jci_1_3: "jci1.3:c:BWBR0002850&z=1972-11-30&g=1972-11-30"
+jci_1_0: "1.0:c:BWBR0002850&g=1972-11-30"
+citeertitel_status: "redactioneel"
+signed_date: "1972-11-30"
+entry_into_force: "1972-11-30"
 ---
-
 # Regeling omtrent overbruggingsuitkeringen voor betaalde voetbalspelers
 
 De Staatssecretaris van Financiën heeft het volgende besloten.

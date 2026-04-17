@@ -1,28 +1,54 @@
 ---
-title: "Regeling Controleprotocol WNT 2024"
+title: "Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 21 mei 2024, nr. 2024-0000281496, houdende vaststelling van het Controleprotocol Wet normering topinkomens 2024 (Regeling Controleprotocol WNT 2024)"
 identifier: "BWBR0049784"
-categorie: "Overig"
-publicatiedatum: 2024-07-01
-laatste_update: 2024-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049784"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-07-01"
+last_updated: "2024-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049784"
+soort: "ministeriele-regeling"
+stam_id: "17122493"
+version_id: "30134252"
+internal_id: "C43173941"
+label_id: "17030914"
+dtd_version: "2.0"
+original_entry_into_force: "2024-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049784/2024-07-01/0"
+intitule_bron: "Stcrt.2024-16235"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-05-21"
+intitule_published: "2024-06-07"
+intitule_in_force: "2024-06-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-16235"
+original_signed_date: "2024-05-21"
+original_published_date: "2024-06-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-16235"
+entry_into_force_date: "2024-07-01"
+jci_1_3: "jci1.3:c:BWBR0049784&z=2024-07-01&g=2024-07-01"
+jci_1_0: "1.0:c:BWBR0049784&g=2024-07-01"
+citeertitel_status: "officieel"
+short_title: "Regeling Controleprotocol WNT 2024"
+signed_date: "2024-05-21"
+entry_into_force: "2024-07-01"
 ---
-
 # Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 21 mei 2024, nr. 2024-0000281496, houdende vaststelling van het Controleprotocol Wet normering topinkomens 2024 (Regeling Controleprotocol WNT 2024)
 
 Gelet op [artikel 1.9, onderdeel d, van de Wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=1.9);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Het protocol voor controle van het financieel verslaggevingsdocument door de accountant over het jaar 2024 op de naleving van de [Wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) en de daarop berustende bepalingen wordt vastgesteld overeenkomstig de bijlage bij deze regeling.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling treedt in werking met ingang van 1 juli 2024.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling wordt aangehaald als: Regeling Controleprotocol WNT 2024.
 

@@ -1,20 +1,45 @@
 ---
 title: "Protocol bij de Schikking van Madrid betreffende de internationale inschrijving van merken"
 identifier: "BWBV0003002"
-categorie: "Internationaal recht"
-publicatiedatum: 2008-09-01
-laatste_update: 2008-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003002"
+country: "nl"
+rank: "verdrag"
+publication_date: "2008-09-01"
+last_updated: "2008-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003002"
+soort: "verdrag"
+stam_id: "10003289863"
+version_id: "10003314122"
+internal_id: "C10006985421"
+label_id: "10003276004"
+dtd_version: "2.0"
+original_entry_into_force: "1998-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003002/2008-09-01/0"
+intitule_bron: "Trb.1990-44"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-11-28"
+intitule_published: "1990-03-15"
+intitule_in_force: "1998-02-16"
+intitule_status: "goed"
+original_publication: "Trb.1990-44"
+original_signed_date: "1997-11-28"
+original_published_date: "1990-03-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1990-44"
+entry_into_force_date: "1998-04-01"
+jci_1_3: "jci1.3:c:BWBV0003002&z=2008-09-01&g=2008-09-01"
+jci_1_0: "1.0:c:BWBV0003002&g=2008-09-01"
+citeertitel_status: "officieel"
+signed_date: "1997-11-28"
+entry_into_force: "1998-04-01"
 ---
-
 # Protocol bij de Schikking van Madrid betreffende de internationale inschrijving van merken
 
-#### Artikel 1. Lidmaatschap van de Unie van Madrid
+##### Artikel 1. Lidmaatschap van de Unie van Madrid
 
 De Staten die Partij zijn bij dit Protocol (hierna te noemen „de overeenkomstsluitende Staten”), zelfs wanneer zij geen Partij zijn bij de [Schikking van Madrid betreffende de internationale inschrijving van merken, zoals herzien te Stockholm in 1967 en zoals gewijzigd in 1979](https://wetten.overheid.nl/jci1.3:c:BWBV0005273) (hierna te noemen „de Schikking van Madrid (Stockholm)”), en de organisaties bedoeld in artikel 14, eerste lid, letter b, die Partij zijn bij dit Protocol (hierna te noemen „de overeenkomstsluitende Organisaties”) zijn lid van dezelfde Unie als die waarvan de landen die Partij zijn bij de Schikking van Madrid (Stockholm) lid zijn. Met „overeenkomstsluitende Partijen” worden in dit Protocol telkens zowel overeenkomstsluitende Staten als overeenkomstsluitende Organisaties bedoeld.
 
-#### Artikel 2. De verkrijging van bescherming door middel van internationale inschrijving
+##### Artikel 2. De verkrijging van bescherming door middel van internationale inschrijving
 
 1. Wanneer een aanvrage om de inschrijving van een merk is ingediend bij de Administratie van een overeenkomstsluitende Partij, of wanneer een merk is ingeschreven in het register van de Administratie van een overeenkomstsluitende Partij, kan, met inachtneming van de bepalingen van dit Protocol, de persoon ten name van wie die aanvrage (hierna te noemen „de basisaanvrage”) of die inschrijving (hierna te noemen „de basisinschrijving”) is geschied, bescherming van zijn merk verkrijgen op het grondgebied van de overeenkomstsluitende Partijen door dat merk te doen inschrijven in het register van het Internationale Bureau van de Wereldorganisatie voor de Intellectuele Eigendom (hierna onderscheidenlijk te noemen „de internationale inschrijving”, „het internationale register”, „het Internationale Bureau” en „de Organisatie”), mits,
 
@@ -28,7 +53,7 @@ De Staten die Partij zijn bij dit Protocol (hierna te noemen „de overeenkomsts
 
 4. Voor de toepassing van dit Protocol wordt verstaan onder „grondgebied van een overeenkomstsluitende Partij”, wanneer de overeenkomstsluitende Partij een Staat is, het grondgebied van die Staat en, wanneer de overeenkomstsluitende Partij een intergouvernementele organisatie is, het grondgebied waarop het oprichtingsverdrag van die intergouvernementele organisatie van toepassing is.
 
-#### Artikel 3. Internationale aanvrage
+##### Artikel 3. Internationale aanvrage
 
 1. Elke internationale aanvrage uit hoofde van dit Protocol moet worden ingediend op het door het reglement van uitvoering voorgeschreven formulier. De Administratie van oorsprong dient te verklaren dat de bijzonderheden die voorkomen in de internationale aanvrage overeenkomen met de bijzonderheden die op het tijdstip van de verklaring voorkomen in de basisaanvrage of de basisinschrijving, naargelang het geval. Voorts dient genoemde Administratie te vermelden:
 
@@ -50,17 +75,17 @@ De Administratie van oorsprong dient ook de datum van de internationale aanvrage
 
 5. Met het oog op de openbaarheid die aan in het internationale register ingeschreven merken dient te worden gegeven, ontvangt elke Administratie van het Internationale Bureau een aantal kosteloze exemplaren en een aantal exemplaren tegen verminderde prijs van genoemd blad, onder de voorwaarden vastgesteld door de in artikel 10 genoemde Algemene Vergadering (hierna te noemen „de Algemene Vergadering”). Bedoelde openbaarmaking wordt toereikend beschouwd voor de doeleinden van alle overeenkomstsluitende Partijen en van de rechthebbende op de internationale inschrijving kan geen andere openbaarmaking worden verlangd.
 
-#### Artikel 3bis. Territoriale werking
+##### Artikel 3bis. Territoriale werking
 
 Slechts op verzoek van de persoon die de internationale aanvrage indient of die rechthebbende op de internationale inschrijving is, strekt de uit de internationale inschrijving voortvloeiende bescherming zich uit tot een overeenkomstsluitende Partij. Ten aanzien van de overeenkomstsluitende Partij waarvan de Administratie de Administratie van oorsprong is, kan evenwel niet een zodanig verzoek worden gedaan.
 
-#### Artikel 3ter. Verzoek om ,,territoriale uitstrekking”
+##### Artikel 3ter. Verzoek om ,,territoriale uitstrekking”
 
 1. Een verzoek de uit de internationale inschrijving voortvloeiende bescherming uit te strekken tot een overeenkomstsluitende Partij dient afzonderlijk in de internationale aanvrage te worden vermeld.
 
 2. Een verzoek om territoriale uitstrekking kan ook na de internationale inschrijving worden gedaan. Een zodanig verzoek moet worden ingediend op het bij het reglement van uitvoering voorgeschreven formulier. Het wordt onmiddellijk aangetekend door het Internationale Bureau, dat daarvan onverwijld kennisgeeft aan de betrokken Administratie(s). Bedoelde aantekening wordt openbaar gemaakt in het door het Internationale Bureau uitgegeven regelmatig verschijnende blad. Bedoelde territoriale uitstrekking is van kracht vanaf de datum waarop zij is aangetekend in het internationale register; zij houdt op te gelden, wanneer de internationale inschrijving waarop zij betrekking heeft, vervalt.
 
-#### Artikel 4. Gevolgen van de internationale inschrijving
+##### Artikel 4. Gevolgen van de internationale inschrijving
 
 - a). Vanaf de datum van inschrijving of aantekening overeenkomstig de bepalingen van de artikelen 3 en 3ter, is de bescherming van het merk in elk van de betrokken overeenkomstsluitende Partijen dezelfde alsof het merk rechtstreeks bij de Administratie van die overeenkomstsluitende Partij was gedeponeerd. Indien aan het Internationale Bureau geen weigering ter kennis is gebracht overeenkomstig artikel 5, eerste en tweede lid, of indien een overeenkomstig genoemd artikel ter kennis gebrachte weigering later is ingetrokken, is de bescherming van het merk in de betrokken overeenkomstsluitende Partij vanaf genoemde datum dezelfde alsof het merk was ingeschreven door de Administratie van die overeenkomstsluitende Partij.
 
@@ -68,7 +93,7 @@ Slechts op verzoek van de persoon die de internationale aanvrage indient of die 
 
 2. Elke internationale inschrijving geniet het recht van voorrang, vastgesteld bij [artikel 4 van het Verdrag van Parijs tot bescherming van de industriële eigendom](https://wetten.overheid.nl/jci1.3:c:BWBV0004120&artikel=4), zonder dat het nodig is de formaliteiten voorgeschreven onder letter D van dat artikel te vervullen.
 
-#### Artikel 4bis. Internationale inschrijving in de plaats van een nationale of een regionale inschrijving
+##### Artikel 4bis. Internationale inschrijving in de plaats van een nationale of een regionale inschrijving
 
 1. Wanneer een merk dat het voorwerp is van een nationale of een regionale inschrijving bij de Administratie van een overeenkomstsluitende Partij ook het voorwerp is van een internationale inschrijving en beide inschrijvingen zijn geschied ten name van dezelfde persoon, wordt de internationale inschrijving geacht in de plaats te treden van de nationale of de regionale inschrijving, zonder afbreuk te doen aan de uit hoofde van laatstgenoemde inschrijvingen verkregen rechten, mits
 
@@ -80,7 +105,7 @@ Slechts op verzoek van de persoon die de internationale aanvrage indient of die 
 
 2. De in het eerste lid bedoelde Administratie is gehouden op aanvrage in haar register van de internationale inschrijving aantekening te houden.
 
-#### Artikel 5. Weigering en nietigverklaring van de internationale inschrijving ten aanzien van bepaalde overeenkomstsluitende Partijen
+##### Artikel 5. Weigering en nietigverklaring van de internationale inschrijving ten aanzien van bepaalde overeenkomstsluitende Partijen
 
 1. Wanneer de toepasselijke wetgeving zulks toelaat, heeft een Administratie van een overeenkomstsluitende Partij die door het Internationale Bureau ervan in kennis is gesteld dat uit hoofde van artikel 3ter, eerste of tweede lid, de bescherming voortvloeiende uit de internationale inschrijving zich uitstrekt tot die overeenkomstsluitende Partij, het recht in een kennisgeving van weigering te verklaren dat in genoemde overeenkomstsluitende Partij geen bescherming kan worden verleend aan het merk dat het voorwerp is van bedoelde uitstrekking. Een zodanige weigering is slechts geoorloofd op grond van omstandigheden die, krachtens het [Verdrag van Parijs tot bescherming van de industriële eigendom](https://wetten.overheid.nl/jci1.3:c:BWBV0004120), zouden gelden voor een merk dat rechtstreeks is gedeponeerd bij de Administratie die van de weigering kennisgeeft. De bescherming kan evenwel niet worden geweigerd, zelfs niet gedeeltelijk, enkel op grond van het feit dat de toepasselijke wetgeving de inschrijving slechts in een beperkt aantal klassen of voor een beperkt aantal waren of diensten zou toelaten.
 
@@ -106,11 +131,11 @@ Slechts op verzoek van de persoon die de internationale aanvrage indient of die 
 
 6. De nietigverklaring van een internationale inschrijving door de bevoegde autoriteiten van een overeenkomstsluitende Partij voor het grondgebied van die overeenkomstsluitende Partij kan niet worden uitgesproken zonder de rechthebbende op de internationale inschrijving tijdig in de gelegenheid te hebben gesteld zijn rechten te verdedigen. De nietigverklaring wordt ter kennis gebracht van het Internationale Bureau.
 
-#### Artikel 5bis. Bewijsstukken van de wettigheid van het gebruik van bepaalde bestanddelen van het merk
+##### Artikel 5bis. Bewijsstukken van de wettigheid van het gebruik van bepaalde bestanddelen van het merk
 
 Bewijsstukken van de wettigheid van het gebruik van bepaalde in een merk opgenomen bestanddelen als wapens, wapenschilden, portretten, eervolle onderscheidingen, titels, handelsnamen of namen van personen anders dan die van de aanvrager, of andere overeenkomstige vermeldingen, welke door de Administraties van de overeenkomstsluitende Partijen mochten worden gevorderd, zijn vrijgesteld van elke legalisatie, alsmede van elke andere waarmerking dan die door de Administratie van oorsprong.
 
-#### Artikel 5ter. Afschriften van aantekeningen in het register; Nieuwheidsonderzoeken; Uittreksels uit het internationale register
+##### Artikel 5ter. Afschriften van aantekeningen in het register; Nieuwheidsonderzoeken; Uittreksels uit het internationale register
 
 1. Het Internationale Bureau verstrekt aan een ieder die daartoe aanvraag doet, tegen een in het reglement van uitvoering vastgestelde taks, een afschrift van de aantekeningen in het internationale register met betrekking tot een bepaald merk.
 
@@ -118,7 +143,7 @@ Bewijsstukken van de wettigheid van het gebruik van bepaalde in een merk opgenom
 
 3. Uittreksels uit het internationale register die met het oog op hun overlegging in een der overeenkomstsluitende Partijen zijn aangevraagd, zijn vrijgesteld van elke legalisatie.
 
-#### Artikel 6. Geldigheidsduur van de internationale inschrijving; Afhankelijkheid en onafhankelijkheid van de internationale inschrijving
+##### Artikel 6. Geldigheidsduur van de internationale inschrijving; Afhankelijkheid en onafhankelijkheid van de internationale inschrijving
 
 1. De inschrijving van een merk bij het Internationale Bureau geschiedt voor tien jaar, met de mogelijkheid tot verlenging onder de in artikel 7 genoemde voorwaarden.
 
@@ -136,7 +161,7 @@ Bewijsstukken van de wettigheid van het gebruik van bepaalde in een merk opgenom
 
 4. De Administratie van oorsprong brengt, zoals voorgeschreven in het reglement van uitvoering, de krachtens het derde lid ter zake dienende feiten en uitspraken ter kennis van het Internationale Bureau en het Internationale Bureau stelt, zoals voorgeschreven in het reglement van uitvoering, de belanghebbenden in kennis en verricht dienovereenkomstig alle openbaarmakingen. De Administratie van oorsprong verzoekt, indien van toepassing, het Internationale Bureau de internationale inschrijving, voor zover noodzakelijk, door te halen en het Internationale Bureau handelt dienovereenkomstig.
 
-#### Artikel 7. Verlenging van de internationale inschrijving
+##### Artikel 7. Verlenging van de internationale inschrijving
 
 1. Een internationale inschrijving kan worden verlengd door een termijn van tien jaar te rekenen vanaf het tijdstip waarop de voorgaan de termijn afloopt, enkel door het storten van het basisemolument en, met inachtneming van artikel 8, zevende lid, van een extra emolument en een aanvullingsemolument als bedoeld in artikel 8, tweede lid.
 
@@ -146,7 +171,7 @@ Bewijsstukken van de wettigheid van het gebruik van bepaalde in een merk opgenom
 
 4. Door storting van een bij het reglement van uitvoering vastgestelde extra taks kan voor de verlenging van de internationale inschrijving een termijn van uitstel van zes maanden worden verleend.
 
-#### Artikel 8. Emolumenten voor de internationale aanvrage en inschrijving
+##### Artikel 8. Emolumenten voor de internationale aanvrage en inschrijving
 
 1. De Administratie van oorsprong kan naar eigen goeddunken een taks vaststellen en te haren voordele innen, die zij van de aanvrager van de internationale inschrijving of van de rechthebbende op de internationale inschrijving kan vorderen in verband met de indiening van de internationale aanvrage of de verlenging van de internationale inschrijving.
 
@@ -174,11 +199,11 @@ Bewijsstukken van de wettigheid van het gebruik van bepaalde in een merk opgenom
 
 7. Een zodanige verklaring kan ook later worden afgelegd, in welk geval de verklaring van kracht wordt drie maanden nadat zij is ontvangen door de Directeur-Generaal, of op een latere in de verklaring aangegeven datum, met betrekking tot een internationale inschrijving waarvan de datum dezelfde is als of later valt dan de datum van vankrachtwording van de verklaring.
 
-#### Artikel 9. Aantekening van wijzigingen in de eigendom van een internationale inschrijving
+##### Artikel 9. Aantekening van wijzigingen in de eigendom van een internationale inschrijving
 
 Op verzoek van de persoon ten name van wie de internationale inschrijving is geschied, of op verzoek van een belanghebbende Administratie, die dit verzoek ambtshalve doet, of op verzoek van een belanghebbende, houdt het Internationale Bureau in het internationale register aantekening van elke wijziging in de eigendom van die inschrijving ten aanzien van alle of enkele overeenkomstsluitende Partijen op het grondgebied waarvan genoemde inschrijving van kracht is en met betrekking tot alle of enkele waren en diensten die in de inschrijving zijn vermeld, mits de nieuwe rechthebbende een persoon is die krachtens artikel 2, eerste lid, gerechtigd is internationale aanvragen in te dienen.
 
-#### Artikel 9bis. Aantekening van bepaalde aangelegenheden betreffende een internationale inschrijving
+##### Artikel 9bis. Aantekening van bepaalde aangelegenheden betreffende een internationale inschrijving
 
 Het Internationale Bureau houdt in het internationale register aantekening van
 
@@ -192,11 +217,11 @@ Het Internationale Bureau houdt in het internationale register aantekening van
 
 - (v). elk ander ter zake dienend feit, genoemd in het reglement van uitvoering, betreffende de rechten op een merk dat het voorwerp is van een internationale inschrijving.
 
-#### Artikel 9ter. Taksen voor bepaalde aantekeningen
+##### Artikel 9ter. Taksen voor bepaalde aantekeningen
 
 Voor elke aantekening uit hoofde van artikel 9 of artikel 9bis kan een taks worden geheven.
 
-#### Artikel 9quater. Gemeenschappelijke administratie van meerdere overeenkomstsluitende Staten
+##### Artikel 9quater. Gemeenschappelijke administratie van meerdere overeenkomstsluitende Staten
 
 1. Indien meerdere overeenkomstsluitende Staten overeenkomen over te gaan tot de eenmaking van hun nationale wetgeving inzake merken, kunnen zij ter kennis van de Directeur-Generaal brengen
 
@@ -206,7 +231,7 @@ Voor elke aantekening uit hoofde van artikel 9 of artikel 9bis kan een taks word
 
 2. Deze kennisgeving wordt van kracht drie maanden na de datum van mededeling daarvan door de Directeur-Generaal aan de andere overeenkomstsluitende Partijen.
 
-#### Artikel 9quinquies. Omzetting van een internationale inschrijving in nationale of regionale aanvragen
+##### Artikel 9quinquies. Omzetting van een internationale inschrijving in nationale of regionale aanvragen
 
 Wanneer, indien de internationale inschrijving op verzoek van de Administratie van oorsprong uit hoofde van artikel 6, vierde lid, met betrekking tot alle of enkele waren en diensten vermeld in genoemde inschrijving wordt doorgehaald, de persoon die de rechthebbende op de internationale inschrijving was, een aanvrage om inschrijving van hetzelfde merk indient bij de Administratie van een van de overeenkomstsluitende Partijen op het grondgebied waarvan de internationale inschrijving rechtsgeldigheid had, wordt die aanvrage behandeld alsof deze was ingediend op de datum van de internationale inschrijving overeenkomstig artikel 3, vierde lid, of op de datum van de aantekening van de territoriale uitstrekking overeenkomstig artikel 3ter, tweede lid, en geniet indien de internationale inschrijving voorrang genoot, dezelfde voorrang, mits
 
@@ -216,7 +241,7 @@ Wanneer, indien de internationale inschrijving op verzoek van de Administratie v
 
 - (iii). bedoelde aanvrage voldoet aan alle vereisten van de toepasselijke wet, met inbegrip van de vereisten betreffende taksen.
 
-#### Artikel 9sexies. Betrekkingen tussen Staten die Partij zijn bij zowel dit Protocol als de [Schikking van Madrid (Stockholm)](https://wetten.overheid.nl/jci1.3:c:BWBV0005273)
+##### Artikel 9sexies. Betrekkingen tussen Staten die Partij zijn bij zowel dit Protocol als de [Schikking van Madrid (Stockholm)](https://wetten.overheid.nl/jci1.3:c:BWBV0005273)
 
 - a). Op de onderlinge betrekkingen van de Staten die Partij zijn bij zowel dit Protocol als de [Schikking van Madrid (Stockholm)](https://wetten.overheid.nl/jci1.3:c:BWBV0005273) is uitsluitend dit Protocol van toepassing.
 
@@ -224,7 +249,7 @@ Wanneer, indien de internationale inschrijving op verzoek van de Administratie v
 
 2. De Algemene Vergadering zal, na het verstrijken van een termijn van drie jaar te rekenen vanaf 1 september 2008, de toepassing van het eerste lid, onderdeel b, van dit artikel toetsen en kan op enig tijdstip daarna met een meerderheid van drie vierde dit onderdeel herroepen of de werkingssfeer ervan beperken. Slechts de Staten die Partij zijn bij zowel de [Schikking van Madrid (Stockholm)](https://wetten.overheid.nl/jci1.3:c:BWBV0005273) als dit Protocol, hebben het recht aan de stemming in de Algemene Vergadering deel te nemen.
 
-#### Artikel 10. De Algemene Vergadering
+##### Artikel 10. De Algemene Vergadering
 
 - a). De overeenkomstsluitende Partijen zijn lid van dezelfde Algemene Vergadering als de landen die Partij zijn bij de [Schikking van Madrid (Stockholm)](https://wetten.overheid.nl/jci1.3:c:BWBV0005273).
 
@@ -256,7 +281,7 @@ Wanneer, indien de internationale inschrijving op verzoek van de Administratie v
 
 4. Naast bijeenkomsten in gewone zitting en buitengewone zitting als bedoeld in de [Schikking van Madrid (Stockholm)](https://wetten.overheid.nl/jci1.3:c:BWBV0005273) kan de Algemene Vergadering in buitengewone zitting bijeenkomen op uitnodiging van de Directeur-Generaal, op verzoek van een vierde van de leden van de Algemene Vergadering die stemrecht hebben aangaande de vraagstukken die zijn voorgesteld voor de agenda van de zitting. De agenda van een zodanige buitengewone zitting wordt opgesteld door de Directeur-Generaal.
 
-#### Artikel 11. Het Internationale Bureau
+##### Artikel 11. Het Internationale Bureau
 
 1. De internationale inschrijving en daarmee verband houdende taken, alsmede alle andere administratieve taken, uit hoofde van of betreffende dit Protocol, worden verricht door het Internationale Bureau.
 
@@ -268,11 +293,11 @@ Wanneer, indien de internationale inschrijving op verzoek van de Administratie v
 
 3. Het Internationale Bureau voert alle overige in verband met dit Protocol aan hem opgedragen taken uit.
 
-#### Artikel 12. Financiën
+##### Artikel 12. Financiën
 
 Wat de overeenkomstsluitende Partijen betreft, worden de financiën van de Unie beheerst door dezelfde bepalingen als die welke zijn vervat in [artikel 12 van de Schikking van Madrid (Stockholm)](https://wetten.overheid.nl/jci1.3:c:BWBV0005273&artikel=12), met dien verstande dat elke verwijzing naar [artikel 8 van genoemde schikking](https://wetten.overheid.nl/jci1.3:c:BWBV0005273&artikel=8) dient te worden beschouwd als een verwijzing naar artikel 8 van dit Protocol. Voorts worden voor de toepassing van artikel 12, zesde lid, letter b, overeenkomstsluitende Organisaties geacht te behoren tot bijdrageklasse I (één) krachtens het Verdrag van Parijs tot bescherming van de industriële eigendom, behoudens een met eenparigheid van stemmen door de Algemene Vergadering genomen andersluidend besluit.
 
-#### Artikel 13. Wijziging van bepaalde artikelen van het Protocol
+##### Artikel 13. Wijziging van bepaalde artikelen van het Protocol
 
 1. Voorstellen tot wijziging van de artikelen 10, 11 en 12 en van dit artikel kunnen worden ingediend door elke overeenkomstsluitende Partij of door de Directeur-Generaal. Deze voorstellen worden ten minste zes maanden voordat zij door de Algemene Vergadering worden bestudeerd, door de Directeur-Generaal aan de overeenkomstsluitende Partijen medegedeeld.
 
@@ -280,7 +305,7 @@ Wat de overeenkomstsluitende Partijen betreft, worden de financiën van de Unie 
 
 3. Elke wijziging op de in het eerste lid genoemde artikelen wordt van kracht één maand na ontvangst door de Directeur-Generaal van de schriftelijke kennisgevingen van aanvaarding overeenkomstig hun onderscheiden constitutionele procedures, van drie vierde van de Staten en intergouvernementele organisaties die op het tijdstip waarop de wijziging werd aangenomen, lid waren van de Algemene Vergadering en ter zake stemrecht hadden. Een aldus aanvaarde wijziging op genoemde artikelen bindt alle Staten en intergouvernementele organisaties die overeenkomstsluitende Partij zijn op het tijdstip waarop de wijziging van kracht wordt of die op een latere datum overeenkomstsluitende Partij worden.
 
-#### Artikel 14. Partijen bij dit Protocol; Inwerkingtreding
+##### Artikel 14. Partijen bij dit Protocol; Inwerkingtreding
 
 - a). Elke Staat die Partij is bij het [Verdrag van Parijs tot bescherming van de industriële eigendom](https://wetten.overheid.nl/jci1.3:c:BWBV0004120) kan Partij bij dit Protocol worden,
 
@@ -300,7 +325,7 @@ Wat de overeenkomstsluitende Partijen betreft, worden de financiën van de Unie 
 
 5. Elke in het eerste lid genoemde Staat of organisatie kan bij de nederlegging van zijn of haar akte van bekrachtiging, aanvaarding of goedkeuring van, of toetreding tot, dit Protocol verklaren dat de bescherming voortvloeiende uit een internationale inschrijving uit hoofde van dit Protocol vóór de datum van inwerkingtreding van dit Protocol ten aanzien van die Staat of organisatie, niet tot zijn of haar grondgebied kan worden uitgestrekt.
 
-#### Artikel 15. Opzegging
+##### Artikel 15. Opzegging
 
 1. Dit Protocol blijft voor onbepaalde tijd van kracht.
 
@@ -320,7 +345,7 @@ Wat de overeenkomstsluitende Partijen betreft, worden de financiën van de Unie 
 
 - b). De bepalingen van letter a zijn ook van toepassing met betrekking tot een merk dat het voorwerp is van een internationale inschrijving die rechtsgeldigheid heeft in andere overeenkomstsluitende Partijen dan de opzeggende Staat of intergouvernementele organisatie op de datum waarop de opzegging van kracht wordt en waarvan de rechthebbende vanwege de opzegging niet meer gerechtigd is internationale aanvragen in te dienen uit hoofde van artikel 2, eerste lid.
 
-#### Artikel 16. Ondertekening; talen; taken van de depositaris
+##### Artikel 16. Ondertekening; talen; taken van de depositaris
 
 - a). Dit Protocol wordt ondertekend in één enkel exemplaar in de Engelse, de Franse en de Spaanse taal en wordt nedergelegd bij de Directeur-Generaal wanneer het niet meer voor ondertekening openstaat te Madrid. De teksten in de drie talen zijn gelijkelijk authentiek.
 

@@ -1,13 +1,39 @@
 ---
-title: "Fiscaal verzamelbesluit 2025"
+title: "Besluit van 4 december 2025 tot wijziging van enige uitvoeringsbesluiten op het gebied van de belastingen (Fiscaal verzamelbesluit 2025)"
 identifier: "BWBR0051948"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-12-12
-laatste_update: 2025-12-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051948"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-12-12"
+last_updated: "2025-12-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051948"
+soort: "AMvB"
+stam_id: "17675553"
+version_id: "31181372"
+internal_id: "C44608791"
+label_id: "17574764"
+dtd_version: "2.0"
+original_entry_into_force: "2025-12-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051948/2025-12-12/0"
+intitule_bron: "Stb.2025-425"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-12-04"
+intitule_published: "2025-12-11"
+intitule_in_force: "2025-12-11"
+intitule_status: "goed"
+original_publication: "Stb.2025-425"
+original_signed_date: "2025-12-04"
+original_published_date: "2025-12-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2025-425"
+entry_into_force_date: "2025-12-12"
+jci_1_3: "jci1.3:c:BWBR0051948&z=2025-12-12&g=2025-12-12"
+jci_1_0: "1.0:c:BWBR0051948&g=2025-12-12"
+citeertitel_status: "officieel"
+short_title: "Fiscaal verzamelbesluit 2025"
+signed_date: "2025-12-04"
+entry_into_force: "2025-12-12"
 ---
-
 # Besluit van 4 december 2025 tot wijziging van enige uitvoeringsbesluiten op het gebied van de belastingen (Fiscaal verzamelbesluit 2025)
 
 Op de voordracht van de Staatssecretaris van Financiën van 4 oktober 2025, nr. 2025002236;
@@ -20,31 +46,31 @@ Gezien het nader rapport van de Staatssecretaris van Financiën van 27 november 
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Uitvoeringsbesluit inkomstenbelasting 2001.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Besluit voorkoming dubbele belasting 2001.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Besluit vergelijking buitenlandse rechtsvormen.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het Uitvoeringsbesluit identificatie- en rapportagevoorschriften Common Reporting Standard.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Uitvoeringsbesluit verzamel- en verificatievereisten voor rapporterende platformexploitanten.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt het Invoeringsbesluit Invorderingswet 1990.
 
-#### Artikel VII. (Inwerkingtreding)
+##### Artikel VII. (Inwerkingtreding)
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met dien verstande dat:
 
@@ -58,7 +84,7 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 - e. [artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0051948&artikel=VI&z=2025-12-12&g=2025-12-12) terugwerkt tot en met 1 januari 2025.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Dit besluit wordt aangehaald als: Fiscaal verzamelbesluit 2025.
 

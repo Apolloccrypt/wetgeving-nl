@@ -1,13 +1,39 @@
 ---
-title: "Besluit tegemoetkoming particuliere woningeigenaren mijnbouwschade steenkoolwinning Limburg"
+title: "Besluit van de Minister van Klimaat en Groene Groei van 11 oktober 2025, nr. WJZ/101291496, over de verstrekking van een tegemoetkoming voor schade aan particuliere woningeigenaren door bodembeweging als gevolg van de voormalige steenkoolwinning in Limburg (Besluit tegemoetkoming particuliere woningeigenaren mijnbouwschade steenkoolwinning Limburg)"
 identifier: "BWBR0051623"
-categorie: "Overig"
-publicatiedatum: 2025-12-22
-laatste_update: 2025-12-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051623"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-12-22"
+last_updated: "2025-12-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051623"
+soort: "ministeriele-regeling"
+stam_id: "17554523"
+version_id: "30975542"
+internal_id: "C44642031"
+label_id: "17455784"
+dtd_version: "2.0"
+original_entry_into_force: "2025-12-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051623/2025-12-22/0"
+intitule_bron: "Stcrt.2025-35002"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-10-11"
+intitule_published: "2025-10-16"
+intitule_in_force: "2025-10-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-35002"
+original_signed_date: "2025-10-11"
+original_published_date: "2025-10-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-35002"
+entry_into_force_date: "2025-12-22"
+jci_1_3: "jci1.3:c:BWBR0051623&z=2025-12-22&g=2025-12-22"
+jci_1_0: "1.0:c:BWBR0051623&g=2025-12-22"
+citeertitel_status: "officieel"
+short_title: "Besluit tegemoetkoming particuliere woningeigenaren mijnbouwschade steenkoolwinning Limburg"
+signed_date: "2025-10-11"
+entry_into_force: "2025-12-22"
 ---
-
 # Besluit van de Minister van Klimaat en Groene Groei van 11 oktober 2025, nr. WJZ/101291496, over de verstrekking van een tegemoetkoming voor schade aan particuliere woningeigenaren door bodembeweging als gevolg van de voormalige steenkoolwinning in Limburg (Besluit tegemoetkoming particuliere woningeigenaren mijnbouwschade steenkoolwinning Limburg)
 
 Gelet op [4:81 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
@@ -16,7 +42,7 @@ Besluit:
 
 Inwerkingtreding voorheen door Stcrt. 2025/35002 gesteld op 1 januari 2026.
 
-#### Artikel 1. algemene bepalingen
+##### Artikel 1. algemene bepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -48,7 +74,7 @@ In dit besluit wordt verstaan onder:
 
 - **zware mijnbouwschade:** mijnbouwschade waarvan de hoogte is vastgesteld op een bedrag hoger dan € 20.000,– of een acuut onveilige situatie;
 
-#### Artikel 2. bevoegdheid
+##### Artikel 2. bevoegdheid
 
 1. De minister kent aan een natuurlijke persoon die eigenaar is van een woning gelegen in het mijnbouwschadegebied waaraan mijnbouwschade is opgetreden op diens aanvraag een voorziening voor deze schade toe.
 
@@ -80,7 +106,7 @@ In dit besluit wordt verstaan onder:
 
 - c. met inachtneming van het advies van de Limburg kamer van de Commissie Mijnbouwschade.
 
-#### Artikel 3. voorziening
+##### Artikel 3. voorziening
 
 1. Een voorziening als bedoeld in het [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051623&artikel=2&z=2025-12-22&g=2025-12-22), bestaat in het geval van:
 
@@ -106,13 +132,13 @@ In dit besluit wordt verstaan onder:
 
 7. In afwijking van het eerste lid ontvangt de aanvrager een financiële tegemoetkoming voor mijnbouwschade, die vanaf 1 januari 2024 tot aan de inwerkingtreding van dit besluit is hersteld.
 
-#### Artikel 4. acuut onveilige situatie
+##### Artikel 4. acuut onveilige situatie
 
 1. Indien er sprake is van een vermoeden van een acuut onveilige situatie meldt de minister of de Limburg kamer van de Commissie Mijnbouwschade dit onverwijld aan het college van burgemeester en wethouders van de gemeente waar de woning zich bevindt.
 
 2. In een situatie waarin het college van burgemeester en wethouders ten aanzien van de woning waarop een aanvraag ziet een voorziening heeft getroffen om een acuut onveilige situatie veilig te stellen komen de kosten van deze getroffen voorziening ten laste van de minister, ook indien de minister de aanvraag afwijst.
 
-#### Artikel 5. advies Limburg kamer van de Commissie Mijnbouwschade
+##### Artikel 5. advies Limburg kamer van de Commissie Mijnbouwschade
 
 1. De minister vraagt, tenzij is besloten om de aanvraag met toepassing van het bepaalde in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051623&artikel=2&z=2025-12-22&g=2025-12-22), niet in behandeling te nemen, ten behoeve van de beslissing op een aanvraag als bedoeld in het artikel 2, eerste lid, advies van de Limburg kamer van de Commissie Mijnbouwschade over de vraag:
 
@@ -122,7 +148,7 @@ In dit besluit wordt verstaan onder:
 
 2. Indien voldoende aannemelijk is dat de schade is ontstaan of mede is ontstaan door bodembeweging als gevolg van de aanleg of exploitatie van een mijnbouwwerk ten behoeve van steenkoolwinning maakt de Limburg kamer van de Commissie Mijnbouw een schadestaat op. Indien er een evidente andere oorzaak is die een deel van de schade verklaart, blijkt uit deze schadestaat, voor welk deel van de schade voldoende aannemelijk is dat deze kan worden toegerekend aan bodembeweging als gevolg van de aanleg of exploitatie van een mijnbouwwerk ten behoeve van steenkoolwinning en welk deel kan worden toegerekend aan een evidente andere oorzaak.
 
-#### Artikel 6. eisen aan de aanvraag
+##### Artikel 6. eisen aan de aanvraag
 
 1. Een aanvraag om een voorziening voor schade wordt door de aanvrager ingediend via een door de minister vastgesteld formulier.
 
@@ -148,7 +174,7 @@ In dit besluit wordt verstaan onder:
 
 2. Een digitale aanvraag kan niet worden ingediend, voordat de minister de mogelijkheid tot het doen van de betreffende aanvraag voor een voorziening heeft opengesteld als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051623&artikel=2&z=2025-12-22&g=2025-12-22).
 
-#### Artikel 7. beslistermijn
+##### Artikel 7. beslistermijn
 
 De minister neemt een besluit op de aanvraag binnen zes weken na ontvangst van:
 
@@ -156,7 +182,7 @@ De minister neemt een besluit op de aanvraag binnen zes weken na ontvangst van:
 
 - b. de aanvraag, indien ten aanzien van de schade waarop de aanvraag betrekking heeft op het moment van inwerkingtreding van dit besluit reeds een advies is uitgebracht door de Technische Commissie Bodembeweging.
 
-#### Artikel 8. overgangsbepaling
+##### Artikel 8. overgangsbepaling
 
 1. Een verzoek om vergoeding van schade als bedoeld in [artikel 137 van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=137) die betrekking heeft op mijnbouwschade als bedoeld in dit besluit waarop door de minister op het moment van inwerkingtreding van dit besluit nog geen beslissing is genomen wordt geacht een aanvraag voor een voorziening als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051623&artikel=2&z=2025-12-22&g=2025-12-22), te zijn.
 
@@ -168,19 +194,19 @@ De minister neemt een besluit op de aanvraag binnen zes weken na ontvangst van:
 
 3. De minister stelt de verzoeker in de gelegenheid om binnen 4 weken na ontvangst van de mededeling, als bedoeld in het tweede lid, schriftelijk aan te geven dat hij zijn verzoek niet wil laten behandelen als een aanvraag om een voorziening als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051623&artikel=2&z=2025-12-22&g=2025-12-22).
 
-#### Artikel 9. evaluatie
+##### Artikel 9. evaluatie
 
 De minister publiceert één jaar na de datum van het eerste besluit op een aanvraag een verslag over de doeltreffendheid en de effecten van onderhavig besluit in de praktijk en vervolgens ten minste eenmaal in de vijf jaren. De doeltreffendheid wordt daarbij in ieder geval beoordeeld vanuit het perspectief van de aanvragers van een voorziening als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051623&artikel=2&z=2025-12-22&g=2025-12-22), en de samenleving. Vanaf 2030 wordt in dit verslag tevens ingegaan op de noodzaak van het voortduren van de voorziening waarin dit besluit voorziet.
 
-#### Artikel 10. gegevensverwerking
+##### Artikel 10. gegevensverwerking
 
 Ten behoeve van de goede uitvoering van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051623&artikel=2&z=2025-12-22&g=2025-12-22), verwerkt de minister de nodige gegevens, waaronder persoonsgegevens. De minister is verwerkingsverantwoordelijke voor deze verwerking.
 
-#### Artikel 11. inwerkingtreding
+##### Artikel 11. inwerkingtreding
 
 Dit besluit treedt in werking op 22 december 2025 en vervalt met ingang van 1 januari 2035.
 
-#### Artikel 12. citeertitel
+##### Artikel 12. citeertitel
 
 Dit besluit wordt aangehaald als: Besluit tegemoetkoming particuliere woningeigenaren mijnbouwschade steenkoolwinning Limburg.
 

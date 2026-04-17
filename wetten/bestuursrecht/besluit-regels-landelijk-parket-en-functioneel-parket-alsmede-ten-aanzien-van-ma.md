@@ -1,13 +1,39 @@
 ---
-title: "Besluit regels landelijk parket en functioneel parket, alsmede ten aanzien van mandateren bevoegdheden officier van justitie"
+title: "Besluit van 6 mei 2013, houdende regels ten aanzien van het landelijk parket en het functioneel parket, alsmede ten aanzien van het mandateren van bevoegdheden van de officier van justitie"
 identifier: "BWBR0033385"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033385"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033385"
+soort: "AMvB"
+stam_id: "12247013"
+version_id: "25476382"
+internal_id: "C36356511"
+label_id: "12218344"
+dtd_version: "2.0"
+original_entry_into_force: "2018-11-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033385/2024-01-01/0"
+intitule_bron: "Stb.2013-170"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-05-06"
+intitule_published: "2013-05-16"
+intitule_in_force: "2013-05-16"
+intitule_status: "goed"
+original_publication: "Stb.2018-448"
+original_signed_date: "2018-11-20"
+original_published_date: "2018-12-07"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2018-448"
+entry_into_force_date: "2018-11-20"
+jci_1_3: "jci1.3:c:BWBR0033385&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0033385&g=2024-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Besluit regels landelijk parket en functioneel parket, alsmede ten aanzien van mandateren bevoegdheden officier van justitie"
+signed_date: "2018-11-20"
+entry_into_force: "2018-11-20"
 ---
-
 # Besluit van 6 mei 2013, houdende regels ten aanzien van het landelijk parket en het functioneel parket, alsmede ten aanzien van het mandateren van bevoegdheden van de officier van justitie
 
 Op de voordracht van Onze Minister van Veiligheid en Justitie van 15 maart 2013, nr. 363215;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister van Veiligheid en Justitie van 2 mei 
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 De officier van justitie bij het landelijk parket is belast met de vervolging van:
 
@@ -34,7 +60,7 @@ De officier van justitie bij het landelijk parket is belast met de vervolging va
 
 - 3°. het verrichten van onderzoeken van nationaal belang zoals die door het bevoegd gezag als zodanig zijn aangewezen en die naar aard of methodiek aansluiten bij de betreffende dienst van een landelijke eenheid van politie.
 
-#### Artikel 2
+##### Artikel 2
 
 De officier van justitie bij het functioneel parket is belast met de vervolging van de hierna te noemen misdrijven, voor zover deze, gezien hun ernst of frequentie dan wel het georganiseerde verband waarin deze worden gepleegd, een ernstige inbreuk op de rechtsorde maken en voor de bestrijding ervan een hoge mate van deskundigheid noodzakelijk is:
 
@@ -42,7 +68,7 @@ De officier van justitie bij het functioneel parket is belast met de vervolging 
 
 - b. milieudelicten.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De officier van justitie draagt de uitoefening van een bevoegdheid niet op aan een andere bij het parket werkzame ambtenaar indien de bevoegdheid betrekking heeft op:
 
@@ -80,17 +106,17 @@ De officier van justitie bij het functioneel parket is belast met de vervolging 
 
 - c. de intrekking van hoger beroep of cassatie op grond van [artikel 453, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=453), en [6:6:15, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:15).
 
-#### Artikel 4
+##### Artikel 4
 
 Het [Besluit reorganisatie openbaar ministerie en instelling landelijk parket](https://wetten.overheid.nl/jci1.3:c:BWBR0010456) wordt ingetrokken.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 2a
+##### Artikel 2a
 
 1. De officier van justitie bij het parket centrale verwerking openbaar ministerie is belast met de vervolging van strafbare feiten waarvoor een strafbeschikking kan worden uitgevaardigd.
 

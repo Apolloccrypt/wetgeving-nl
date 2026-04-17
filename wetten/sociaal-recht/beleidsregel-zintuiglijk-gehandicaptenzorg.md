@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregel zintuiglijk gehandicaptenzorg"
 identifier: "BWBR0051253"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051253"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051253"
+soort: "zbo"
+stam_id: "17472183"
+version_id: "30815122"
+internal_id: "C44163591"
+label_id: "17374504"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051253/2026-01-01/0"
+intitule_bron: "Stcrt.2025-24208"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-07-08"
+intitule_published: "2025-07-16"
+intitule_in_force: "2025-07-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-24208"
+original_signed_date: "2025-07-08"
+original_published_date: "2025-07-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-24208"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051253&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051253&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2025-07-08"
+entry_into_force: "2026-01-01"
 ---
-
 # Beleidsregel zintuiglijk gehandicaptenzorg
 
 Grondslag
@@ -18,7 +43,7 @@ Gelet op [artikel 52, aanhef en onderdeel e, van de Wmg](https://wetten.overheid
 
 Gelet op [artikel 59, onderdeel a, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=59) heeft de Minister van Volksgezondheid, Welzijn en Sport (VWS) met brief van 14 juli 2014, met [kenmerk 642422-123511-MC](https://wetten.overheid.nl/jci1.3:c:BWBR0035400), ten behoeve van de voorliggende beleidsregel een aanwijzing op grond van [artikel 7 Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7), aan de NZa gegeven.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -100,17 +125,17 @@ Hieronder staan de definities van de begrippen die gehanteerd worden in deze bel
 
 - **Zorgtraject:** Een zorgtraject typeert het geheel van de door de zorgaanbieder geleverde zorg, vertaald naar prestaties, voortvloeiend uit de zorgvraag van de cliënt.
 
-#### Artikel 2. Doel van de beleidsregel
+##### Artikel 2. Doel van de beleidsregel
 
 Het doel van deze beleidsregel is om vast te leggen op welke wijze de NZa gebruik maakt van haar bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen op het gebied van zintuiglijk gehandicaptenzorg.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze beleidsregel is van toepassing op zintuiglijk gehandicaptenzorg als omschreven bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) (Zvw).
 
 Voor zover geen sprake is van zorg als omschreven in de vorige zin, is deze beleidsregel van toepassing op handelingen1Het betreft hier de handelingen bedoeld in artikel 1, onderdeel b, onder 2o, van de Wmg. of werkzaamheden2Het betreft hier de werkzaamheden bedoeld in artikel 2, aanhef en eerste lid, onderdeel c, van het Besluit uitbreiding en beperking werkingssfeer Wmg. op het terrein van zintuiglijk gehandicaptenzorg, uitgevoerd door of onder verantwoordelijkheid van personen, ingeschreven in een register als bedoeld in [artikel 3, van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) (Wet BIG) of door personen als bedoeld in [artikel 34 van de Wet BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=34).
 
-#### Artikel 4. Prestaties zintuiglijk gehandicaptenzorg
+##### Artikel 4. Prestaties zintuiglijk gehandicaptenzorg
 
 De prestaties zijn onderverdeeld in:
 
@@ -694,7 +719,7 @@ De reistoeslag zorgverlener bestaat uit een vergoeding voor de vervoerskosten en
 
 De levering van een (deel)prestatie of van een geheel van prestaties op het gebied van zintuiglijk gehandicaptenzorg door een zorgaanbieder in opdracht van een andere zorgaanbieder (visueel respectievelijk auditief/communicatief). De eerstgenoemde zorgaanbieder wordt in dit kader aangeduid als de ‘uitvoerende zorgaanbieder’. De laatstgenoemde zorgaanbieder wordt in dit kader aangeduid als de ‘opdrachtgevende zorgaanbieder’. Een auditief/communicatieve zorgaanbieder mag wel prestaties declareren naast een visuele zorgaanbieder en vice versa mits de geleverde zorg geen onderdeel is van de prestatie die door de opdracht-gevende aanbieder wordt geleverd.
 
-#### Artikel 5. Tarieven
+##### Artikel 5. Tarieven
 
 1. **Tariefsoort**
 
@@ -726,11 +751,11 @@ In de maximumtarieven is met de volgende zaken rekening gehouden:
 
 - –. Vergoeding ondernemingsfinanciering (voorheen voor gederfd rendement op eigen vermogen (VGREV) conform de Beleidsregel Algemeen kader tariefprincipes curatieve zorg. Voor de zg heeft de NZa een vergoedingspercentage van 1,42% bepaald.
 
-#### Artikel 6. Intrekken oude beleidsregel
+##### Artikel 6. Intrekken oude beleidsregel
 
 Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt de [Beleidsregel zintuiglijk gehandicaptenzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0050412), met kenmerk BR/REG-25146, ingetrokken.
 
-#### Artikel 7. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding, terugwerkende kracht en citeertitel
+##### Artikel 7. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding, terugwerkende kracht en citeertitel
 
 De [Beleidsregel zintuiglijk gehandicaptenzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0050412), met kenmerk BR/REG-25146, blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die beleidsregel en die betrekking hebben op de periode waarvoor die beleidsregel gold.
 

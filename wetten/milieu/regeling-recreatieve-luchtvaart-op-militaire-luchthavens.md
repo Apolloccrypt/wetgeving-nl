@@ -1,13 +1,38 @@
 ---
 title: "Regeling recreatieve luchtvaart op militaire luchthavens"
 identifier: "BWBR0033518"
-categorie: "Milieu"
-publicatiedatum: 2017-01-01
-laatste_update: 2017-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033518"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-01-01"
+last_updated: "2017-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033518"
+soort: "ministeriele-regeling"
+stam_id: "12281193"
+version_id: "20566172"
+internal_id: "C28918731"
+label_id: "12252554"
+dtd_version: "2.0"
+original_entry_into_force: "2013-06-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033518/2017-01-01/0"
+intitule_bron: "Stcrt.2013-15722"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-06-06"
+intitule_published: "2013-06-13"
+intitule_in_force: "2013-06-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-15722"
+original_signed_date: "2013-06-06"
+original_published_date: "2013-06-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-15722"
+entry_into_force_date: "2013-06-17"
+jci_1_3: "jci1.3:c:BWBR0033518&z=2017-01-01&g=2017-01-01"
+jci_1_0: "1.0:c:BWBR0033518&g=2017-01-01"
+citeertitel_status: "officieel"
+signed_date: "2013-06-06"
+entry_into_force: "2013-06-17"
 ---
-
 # Regeling recreatieve luchtvaart op militaire luchthavens
 
 Handelende in overeenstemming met de Staatssecretaris van Infrastructuur en Milieu;
@@ -16,7 +41,7 @@ Gelet op de [artikelen 23, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -30,7 +55,7 @@ In deze regeling wordt verstaan onder:
 
 - **zweefvliegcoördinator:** door de commandant van de betrokken militaire luchthaven aangewezen persoon die is belast met de leiding over en het toezicht op de zweefvliegactiviteiten op de betrokken militaire luchthaven.
 
-#### Artikel 2. Algemene vereisten coördinatoren
+##### Artikel 2. Algemene vereisten coördinatoren
 
 Als hoofdvliegcoördinator of coördinator kan uitsluitend worden aangewezen degene die:
 
@@ -42,7 +67,7 @@ Als hoofdvliegcoördinator of coördinator kan uitsluitend worden aangewezen deg
 
 - d. voldoet aan de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033518&artikel=3&z=2017-01-01&g=2017-01-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0033518&artikel=4&z=2017-01-01&g=2017-01-01) voor de betrokken coördinator gestelde eisen met betrekking tot kennis en ervaring.
 
-#### Artikel 3. Hoofdvliegcoördinator
+##### Artikel 3. Hoofdvliegcoördinator
 
 1. De commandant van de militaire luchthaven waarop recreatieve luchtvaart plaatsvindt, wijst op voordracht van de recreatieve vliegclubs die gevestigd zijn op de betrokken luchthaven, een hoofdvliegcoördinator aan.
 
@@ -58,7 +83,7 @@ Als hoofdvliegcoördinator of coördinator kan uitsluitend worden aangewezen deg
 
 - 4°. een kwalificatie als militair of burgerluchtverkeersleider of gewezen militair of burgerluchtverkeersleider.
 
-#### Artikel 4. Coördinator
+##### Artikel 4. Coördinator
 
 1. De commandant van de militaire luchthaven waar zweefvliegen, motorsportvliegen, modelvliegen of zeilvliegen plaatsvindt, wijst op voordracht van de vliegclubs die voor de betrokken vorm van recreatieve luchtvaart gevestigd zijn op de luchthaven, voor die vorm van recreatieve luchtvaart een coördinator aan.
 
@@ -72,7 +97,7 @@ Als hoofdvliegcoördinator of coördinator kan uitsluitend worden aangewezen deg
 
 - d. de zeilvliegcoördinator beschikt over een geldig vliegbewijs zeilvliegen.
 
-#### Artikel 5. Taakuitoefening door hoofdvliegcoördinator en coördinatoren
+##### Artikel 5. Taakuitoefening door hoofdvliegcoördinator en coördinatoren
 
 1. De hoofdvliegcoördinator onderscheidenlijk de coördinator ziet er op toe dat:
 
@@ -98,7 +123,7 @@ Als hoofdvliegcoördinator of coördinator kan uitsluitend worden aangewezen deg
 
 8. Na het einde van de beoefening van de recreatieve luchtvaart controleert de coördinator het benutte terreingedeelte inclusief de toegangswegen tot het landingsterrein. Vervolgens meldt hij zich af bij de hoofdvliegcoördinator.
 
-#### Artikel 6. Motorsportvliegen
+##### Artikel 6. Motorsportvliegen
 
 1. Het motorsportvliegen wordt uitsluitend beoefend op de gedeelten van de luchthaven die daarvoor zijn aangewezen door de commandant van de militaire luchthaven.
 
@@ -141,7 +166,7 @@ Als hoofdvliegcoördinator of coördinator kan uitsluitend worden aangewezen deg
 
 11. De vlieger meldt zich voor de aanvang en na beëindiging van elke vlucht persoonlijk bij de motorsportvliegcoördinator.
 
-#### Artikel 7. Zweefvliegen
+##### Artikel 7. Zweefvliegen
 
 1. Een zweefvliegbaan is een voor het starten en landen van zweefvliegtuigen ingericht deel van een luchthaven. Afhankelijk van de startmethode wordt onderscheid gemaakt in lierbanen en sleepbanen.
 
@@ -237,7 +262,7 @@ Voor motorzweefvliegen gelden de weerlimieten voor sleepstarts.
 
 13. De zweefvliegcoördinator kan houders van een zweefvliegbewijs incidenteel toestaan met behulp van een lier te starten bij een hogere windsnelheid dan 25 knopen ten aanzien van door hem te bepalen vluchten.
 
-#### Artikel 8. Modelvliegen
+##### Artikel 8. Modelvliegen
 
 1. Het modelvliegen wordt uitsluitend uitgeoefend op de terreingedeelten die daarvoor zijn aangewezen door de commandant van de militaire luchthaven.
 
@@ -245,7 +270,7 @@ Voor motorzweefvliegen gelden de weerlimieten voor sleepstarts.
 
 3. De vlieger is bij de voorbereiding en uitvoering van de vlucht gehouden tot naleving van de op de militaire luchthaven van toepassing zijnde plaatselijke regelingen.
 
-#### Artikel 9. Zeilvliegen
+##### Artikel 9. Zeilvliegen
 
 1. Het zeilvliegen wordt uitsluitend beoefend op de terreingedeelten die daarvoor zijn aangewezen door de commandant van de militaire luchthaven.
 
@@ -253,11 +278,11 @@ Voor motorzweefvliegen gelden de weerlimieten voor sleepstarts.
 
 3. De vlieger is bij de voorbereiding en uitvoering van de vlucht gehouden tot naleving van de op de militaire luchthaven van toepassing zijnde plaatselijke regelingen.
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 17 juni 2013.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling recreatieve luchtvaart op militaire luchthavens.
 

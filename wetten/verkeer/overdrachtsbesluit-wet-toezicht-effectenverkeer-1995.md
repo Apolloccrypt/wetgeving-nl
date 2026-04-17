@@ -1,13 +1,39 @@
 ---
-title: "Overdrachtsbesluit Wet toezicht effectenverkeer 1995"
+title: "Besluit van 8 december 1995, houdende uitvoering van artikel 40, eerste lid, van de Wet toezicht effectenverkeer 1995"
 identifier: "BWBR0007709"
-categorie: "Verkeer"
-publicatiedatum: 2003-12-01
-laatste_update: 2003-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007709"
+country: "nl"
+rank: "amvb"
+publication_date: "2003-12-01"
+last_updated: "2003-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007709"
+soort: "AMvB"
+stam_id: "2563403"
+version_id: "4786002"
+internal_id: "C4805371"
+label_id: "2508824"
+dtd_version: "2.0"
+original_entry_into_force: "2002-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007709/2003-12-01/0"
+intitule_bron: "Stb.1995-624"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-12-08"
+intitule_published: "1995-12-27"
+intitule_in_force: "1995-12-28"
+intitule_status: "goed"
+original_publication: "Stb.2002-452"
+original_signed_date: "2002-08-23"
+original_published_date: "2002-08-29"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2002-452"
+entry_into_force_date: "2002-09-01"
+jci_1_3: "jci1.3:c:BWBR0007709&z=2003-12-01&g=2003-12-01"
+jci_1_0: "1.0:c:BWBR0007709&g=2003-12-01"
+citeertitel_status: "officieel"
+short_title: "Overdrachtsbesluit Wet toezicht effectenverkeer 1995"
+signed_date: "2002-08-23"
+entry_into_force: "2002-09-01"
 ---
-
 # Besluit van 8 december 1995, houdende uitvoering van artikel 40, eerste lid, van de Wet toezicht effectenverkeer 1995
 
 Op de voordracht van Onze Minister van Financiën van 19 juli 1995, nr. BGW 95/1677-M, Generale Thesaurie, Directie Binnenlands Geldwezen, Afdeling Effecten, Banken en Monetaire aangelegenheden;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister van Financiën van 5 december 1995, n
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -32,7 +58,7 @@ In dit besluit wordt verstaan onder:
 
 - d. Onze Minister: Onze Minister van Financiën.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Met inachtneming van [artikel 40, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=40) worden de taken en bevoegdheden die Onze Minister op grond van de wet heeft, overgedragen aan de Autoriteit Financiële Markten, met uitzondering van:
 
@@ -52,7 +78,7 @@ In dit besluit wordt verstaan onder:
 
 2. Met inachtneming van het bepaalde in [artikel 40, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=40) worden de taken en bevoegdheden genoemd in het eerste lid, onderdelen d en e, overgedragen aan de Bank.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Aan de overdracht van de taken en bevoegdheden, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007709&artikel=2&z=2003-12-01&g=2003-12-01), worden de in het tweede tot en met elfde lid bedoelde beperkingen en voorschriften gesteld onderscheidenlijk verbonden.
 
@@ -114,17 +140,17 @@ In dit besluit wordt verstaan onder:
 
 11. De in het tiende lid bedoelde schriftelijke afspraken worden na overleg met Onze Minister vastgesteld.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit wordt aangehaald als: Overdrachtsbesluit Wet toezicht effectenverkeer 1995.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-#### Artikel 2a
+##### Artikel 2a
 
 De Autoriteit Financiële Markten raadpleegt de Bank in het kader van de aanvraag van een vergunning als bedoeld in [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=7) over de vraag of de aanvrager voldoet aan de bij en krachtens de wet gestelde regels ten aanzien van de financiële waarborgen, alsmede de bedrijfsvoering en informatieverstrekking, voor zover noodzakelijk voor het toezicht op financiële waarborgen.
 

@@ -1,13 +1,39 @@
 ---
-title: "Besluit Markttoegang financiële ondernemingen Wft"
+title: "Besluit van 12 oktober 2006, houdende regels ter uitvoering van de Wet op het financieel toezicht met betrekking tot de reikwijdte en toegang tot de financiële markten (Besluit Markttoegang financiële ondernemingen Wft)"
 identifier: "BWBR0020413"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-07-18
-laatste_update: 2025-07-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020413"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-07-18"
+last_updated: "2025-07-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020413"
+soort: "AMvB"
+stam_id: "8688123"
+version_id: "13712822"
+internal_id: "C18905081"
+label_id: "8669304"
+dtd_version: "2.0"
+original_entry_into_force: "2007-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020413/2025-07-18/0"
+intitule_bron: "Stb.2006-506"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-10-12"
+intitule_published: "2006-10-31"
+intitule_in_force: "2006-12-20"
+intitule_status: "goed"
+original_publication: "Stb.2006-506"
+original_signed_date: "2006-10-12"
+original_published_date: "2006-10-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2006-506"
+entry_into_force_date: "2007-01-01"
+jci_1_3: "jci1.3:c:BWBR0020413&z=2025-07-18&g=2025-07-18"
+jci_1_0: "1.0:c:BWBR0020413&g=2025-07-18"
+citeertitel_status: "officieel"
+short_title: "Besluit Markttoegang financiële ondernemingen Wft"
+signed_date: "2006-10-12"
+entry_into_force: "2007-01-01"
 ---
-
 # Besluit van 12 oktober 2006, houdende regels ter uitvoering van de Wet op het financieel toezicht met betrekking tot de reikwijdte en toegang tot de financiële markten (Besluit Markttoegang financiële ondernemingen Wft)
 
 Wij, Beatrix bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.
@@ -26,7 +52,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1.1. Definitie
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
 
@@ -40,13 +66,13 @@ In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
 
 #### § 1.2. Procedures
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een aanvraag als bedoeld in de [artikelen 2:3.0d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3.0d), [2:3.0i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3.0i), [2:3.0m, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3.0m), [2:3b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3b), [2:3i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3i), [2:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:5), [2:7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:7), [2:10b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:10b), [2:12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:12), [2:13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:13), [2:17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:17), [2:21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:21), [2:22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:22), [2:26b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:26b), [2:26e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:26e), [2:31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:31), [2:32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:32), [2:33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:33), [2:37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:37), [2:41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:41), [2:42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:42), [2:43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:43), [2:49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:49), [2:51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:51), [2:54b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54b), [2:54e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54e), [2:54h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54h), [2:54j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54j), [2:54m, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3.0d), [2:55, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:55), [2:58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:58), [2:60, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:60), [2:63, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:63), [2:67, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:67), [2:67b, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:67b), [2:68, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:68), [2:69c, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:69c), [2:75, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:75), [2:78, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:78), [2:80, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:80), [2:83, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:83), [2:86, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:86), [2:89, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:89), [2:92, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:92), [2:94, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:94), [2:96, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:96), [2:99, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:99), [2:121a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:121a), [4:3, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:3), wordt gedaan met gebruikmaking van het daartoe door de toezichthouder vast te stellen formulier dat op verzoek aan de aanvrager ter beschikking wordt gesteld.
 
 2. Het aanvraagformulier en de daarbij ingevolge dit besluit te verstrekken gegevens worden in enkelvoud ingediend.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De gegevens, bedoeld in dit besluit, worden in een zodanige vorm verstrekt dat een goede beoordeling door de toezichthouder mogelijk is.
 
@@ -56,7 +82,7 @@ In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
 
 #### § 2.0a. Uitoefenen van bedrijf van afwikkelonderneming
 
-#### Artikel 4
+##### Artikel 4
 
 1. De gegevens, bedoeld in [artikel 2:5, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:5) zijn:
 
@@ -108,7 +134,7 @@ In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
 
 4. Het eerste lid, onderdeel h, is niet van toepassing ten aanzien van personen wier betrouwbaarheid voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) door een toezichthouder reeds is vastgesteld.
 
-#### Artikel 5
+##### Artikel 5
 
 Onze Minister kan op grond van [artikel 2:6, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:6) een staat aanwijzen als staat waar het toezicht in voldoende mate waarborgen biedt ten aanzien van de belangen die de wet beoogt te beschermen indien:
 
@@ -126,7 +152,7 @@ Onze Minister kan op grond van [artikel 2:6, tweede lid, van de wet](https://wet
 
 - c. voor het bevoegde gezag in die staat regels gelden die gelijkwaardig zijn aan die in [Hoofdstuk 1.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&hoofdstuk=1.4).
 
-#### Artikel 6
+##### Artikel 6
 
 1. De gegevens, bedoeld in [artikel 2:7, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:7) zijn:
 
@@ -178,7 +204,7 @@ Onze Minister kan op grond van [artikel 2:6, tweede lid, van de wet](https://wet
 
 4. Het eerste lid, onderdeel i, is niet van toepassing ten aanzien van personen wier betrouwbaarheid voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) door een toezichthouder reeds is vastgesteld.
 
-#### Artikel 7
+##### Artikel 7
 
 De gegevens, bedoeld in [artikel 2:9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:9) zijn:
 
@@ -198,7 +224,7 @@ De gegevens, bedoeld in [artikel 2:9, eerste lid, van de wet](https://wetten.ove
 
 #### § 2.0. Uitoefenen van bedrijf van betaaldienstverlener of elektronischgeldinstelling
 
-#### Artikel 8
+##### Artikel 8
 
 1. De gegevens, bedoeld in [artikel 2:12, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:12) zijn:
 
@@ -262,7 +288,7 @@ De gegevens, bedoeld in [artikel 2:9, eerste lid, van de wet](https://wetten.ove
 
 4. Het eerste lid, onderdelen h en n, onder 2°, is niet van toepassing ten aanzien van personen wier betrouwbaarheid voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) door een toezichthouder reeds is vastgesteld.
 
-#### Artikel 9
+##### Artikel 9
 
 De gegevens, bedoeld in [artikel 2:13, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:13), zijn een beschrijving van:
 
@@ -272,7 +298,7 @@ De gegevens, bedoeld in [artikel 2:13, tweede lid, van de wet](https://wetten.ov
 
 - c. het voorgenomen beleid, bedoeld in [artikel 4:88 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:88).
 
-#### Artikel 10
+##### Artikel 10
 
 1. De gegevens, bedoeld in [artikel 2:17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:17), en [2:21, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:21) zijn:
 
@@ -326,7 +352,7 @@ De gegevens, bedoeld in [artikel 2:13, tweede lid, van de wet](https://wetten.ov
 
 4. Het eerste lid, onderdeel i, is niet van toepassing ten aanzien van personen wier betrouwbaarheid voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) door een toezichthouder reeds is vastgesteld.
 
-#### Artikel 11
+##### Artikel 11
 
 De gegevens, bedoeld in [artikel 2:22, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:22) zijn een beschrijving van:
 
@@ -338,7 +364,7 @@ De gegevens, bedoeld in [artikel 2:22, tweede lid, van de wet](https://wetten.ov
 
 #### § 2.1. Uitoefenen van bedrijf van clearinginstelling
 
-#### Artikel 12
+##### Artikel 12
 
 1. De gegevens, bedoeld in [artikel 2:31, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:31) zijn:
 
@@ -398,7 +424,7 @@ De gegevens, bedoeld in [artikel 2:22, tweede lid, van de wet](https://wetten.ov
 
 4. Het eerste lid, onderdelen h en m, onder 2°, is niet van toepassing ten aanzien van personen wier betrouwbaarheid voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) door een toezichthouder reeds is vastgesteld.
 
-#### Artikel 13
+##### Artikel 13
 
 Het programma van werkzaamheden, bedoeld in [artikel 12, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2025-07-18&g=2025-07-18), dat wordt overgelegd door degene die een vergunning aanvraagt voor het uitoefenen van het bedrijf van levensverzekeraar, bevat het volgende:
 
@@ -420,7 +446,7 @@ Het programma van werkzaamheden, bedoeld in [artikel 12, eerste lid, onderdeel f
 
 - i. voor de eerste drie boekjaren een raming van de vermoedelijke ontvangsten en uitgaven, zowel wat de directe verzekering en de geaccepteerde herverzekeringen als de cessies uit hoofde van herverzekering betreft.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Het programma van werkzaamheden, bedoeld in [artikel 12, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2025-07-18&g=2025-07-18), dat wordt overgelegd door degene die een vergunning aanvraagt voor het uitoefenen van het bedrijf van schadeverzekeraar, bevat het volgende:
 
@@ -446,7 +472,7 @@ Het programma van werkzaamheden, bedoeld in [artikel 12, eerste lid, onderdeel f
 
 2. Indien de schadeverzekeraar voornemens is risico’s behorende tot de branche Hulpverlening te dekken, bevat het programma van werkzaamheden voorts een opgave van de ter beschikking van de verzekeraar staande middelen voor het verstrekken van de overeengekomen hulp.
 
-#### Artikel 15
+##### Artikel 15
 
 De gegevens, bedoeld in [artikel 2:32, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:32) zijn:
 
@@ -456,7 +482,7 @@ De gegevens, bedoeld in [artikel 2:32, tweede lid, van de wet](https://wetten.ov
 
 - c. een opgave van de naam en het adres van de schaderegelaars, bedoeld in [artikel 4:70, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:70).
 
-#### Artikel 16
+##### Artikel 16
 
 1. Indien de aanvrager van een vergunning voor het uitoefenen van het bedrijf van schadeverzekeraar voornemens is dat bedrijf uitsluitend in de branche Rechtsbijstand uit te oefenen, zijn de gegevens, bedoeld in [artikel 2:33, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:33), afhankelijk van de keuze die de aanvrager heeft gemaakt met betrekking tot het voldoen aan [artikel 4:65, eerste lid, onderdeel a, b of c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:65):
 
@@ -474,7 +500,7 @@ De gegevens, bedoeld in [artikel 2:32, tweede lid, van de wet](https://wetten.ov
 
 3. Gegevens met betrekking tot het schaderegelingskantoor bevatten tevens een beschrijving van de inrichting van de bedrijfsvoering waaruit blijkt dat de personeelsleden en de leden van het leidinggevende orgaan die zich bezighouden met de rechtsbijstandschaderegeling of met het geven van juridische adviezen met betrekking tot deze schaderegeling, niet tezelfdertijd dezelfde of soortgelijke werkzaamheden verrichten ten behoeve van een andere branche van een verzekeraar waarmee het schaderegelingskantoor financiële, commerciële of administratieve banden heeft.
 
-#### Artikel 17
+##### Artikel 17
 
 De gegevens, bedoeld in [artikel 2:36, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:36) zijn:
 
@@ -488,7 +514,7 @@ De gegevens, bedoeld in [artikel 2:36, derde lid, van de wet](https://wetten.ove
 
 - c. gegevens waaruit de te verwachten solvabiliteit met betrekking tot het gehele door de verzekeraar uitgeoefende bedrijf blijkt.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De gegevens, bedoeld in [artikel 2:37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:37), en [2:41, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:41) zijn:
 
@@ -550,7 +576,7 @@ De gegevens, bedoeld in [artikel 2:36, derde lid, van de wet](https://wetten.ove
 
 4. Het eerste lid, onderdeel i en o, is niet van toepassing ten aanzien van personen wier betrouwbaarheid voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) door een toezichthouder reeds is vastgesteld.
 
-#### Artikel 19
+##### Artikel 19
 
 De gegevens, bedoeld in [artikel 2:39, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:39) zijn:
 
@@ -568,7 +594,7 @@ De gegevens, bedoeld in [artikel 2:39, eerste lid, van de wet](https://wetten.ov
 
 - 2°. indien het een schadeverzekeraar betreft, de in Nederland gelegen risico’s die hij voornemens is te dekken.
 
-#### Artikel 20
+##### Artikel 20
 
 De gegevens, bedoeld in [artikel 2:42, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:42) zijn:
 
@@ -578,7 +604,7 @@ De gegevens, bedoeld in [artikel 2:42, tweede lid, van de wet](https://wetten.ov
 
 - c. een opgave van de naam en het adres van de schaderegelaars, bedoeld in [artikel 4:70, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:70).
 
-#### Artikel 21
+##### Artikel 21
 
 1. Indien de aanvrager van een vergunning voor het uitoefenen van het bedrijf van schadeverzekeraar voornemens is dat bedrijf uitsluitend in de branche Rechtsbijstand uit te oefenen, zijn de gegevens, bedoeld in [artikel 2:43, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:43), afhankelijk van de keuze die de aanvrager heeft gemaakt met betrekking tot het voldoen aan [artikel 4:65, eerste lid, onderdeel a, b of c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:65):
 
@@ -596,7 +622,7 @@ De gegevens, bedoeld in [artikel 2:42, tweede lid, van de wet](https://wetten.ov
 
 3. Gegevens met betrekking tot het schaderegelingskantoor bevatten tevens een beschrijving van de inrichting van de bedrijfsvoering waaruit blijkt dat de personeelsleden en de leden van het leidinggevende orgaan die zich bezighouden met de rechtsbijstandschaderegeling of met het geven van juridische adviezen met betrekking tot deze schaderegeling, niet tezelfdertijd dezelfde of soortgelijke werkzaamheden verrichten ten behoeve van een andere branche van een verzekeraar waarmee het schaderegelingskantoor financiële, commerciële of administratieve banden heeft.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Het programma van werkzaamheden, bedoeld in [artikel 18, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=2&paragraaf=2.3&artikel=18&z=2025-07-18&g=2025-07-18), dat wordt overgelegd door degene die een vergunning als bedoeld in [artikel 2:36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:36), of [artikel 2:40 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:40) aanvraagt voor het uitoefenen van het bedrijf van levensverzekeraar, bevat voor het bijkantoor het volgende:
 
@@ -624,7 +650,7 @@ De gegevens, bedoeld in [artikel 2:42, tweede lid, van de wet](https://wetten.ov
 
 3. Het programma van werkzaamheden bevat tevens bewijsstukken waaruit blijkt dat de solvabiliteit van de levensverzekeraar voldoet aan [artikel 3:57, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57).
 
-#### Artikel 23
+##### Artikel 23
 
 1. Het programma van werkzaamheden, bedoeld in [artikel 18, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=2&paragraaf=2.3&artikel=18&z=2025-07-18&g=2025-07-18), dat wordt overgelegd door degene die een vergunning als bedoeld in [artikel 2:36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:36), of [artikel 2:40, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:40) aanvraagt voor het uitoefenen van het bedrijf van schadeverzekeraar, bevat voor het bijkantoor het volgende:
 
@@ -654,7 +680,7 @@ De gegevens, bedoeld in [artikel 2:42, tweede lid, van de wet](https://wetten.ov
 
 3. Het programma van werkzaamheden bevat tevens bewijsstukken waaruit blijkt dat de solvabiliteit van de schadeverzekeraar voldoet aan [artikel 3:57, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57).
 
-#### Artikel 24
+##### Artikel 24
 
 De gegevens, bedoeld in [artikel 2:45, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:45) zijn:
 
@@ -678,7 +704,7 @@ De gegevens, bedoeld in [artikel 2:45, derde lid, van de wet](https://wetten.ove
 
 - j. een opgave van de aard van de risico’s die de verzekeraar voornemens is in herverzekering te dekken.
 
-#### Artikel 25
+##### Artikel 25
 
 De gegevens, bedoeld in [artikel 2:46, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:46) zijn:
 
@@ -692,7 +718,7 @@ De gegevens, bedoeld in [artikel 2:46, derde lid, van de wet](https://wetten.ove
 
 #### § 2.4. Uitoefenen van bedrijf van natura-uitvaartverzekeraar
 
-#### Artikel 26
+##### Artikel 26
 
 1. De gegevens, bedoeld in [artikel 2:49, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:49) zijn:
 
@@ -752,7 +778,7 @@ De gegevens, bedoeld in [artikel 2:46, derde lid, van de wet](https://wetten.ove
 
 4. Het eerste lid, onderdelen h en m, onder 2°, is niet van toepassing ten aanzien van personen wier betrouwbaarheid voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) door een toezichthouder reeds is vastgesteld.
 
-#### Artikel 27
+##### Artikel 27
 
 Het programma van werkzaamheden, bedoeld in [artikel 26, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=2&paragraaf=2.4&artikel=26&z=2025-07-18&g=2025-07-18), bevat het volgende:
 
@@ -770,7 +796,7 @@ Het programma van werkzaamheden, bedoeld in [artikel 26, eerste lid, onderdeel f
 
 - g. de mededeling of de verzekeraar, indien hij een natura-uitvaartverzekeraar is, ten behoeve van zijn verzekerden al dan niet tevens het uitvaartbedrijf uitoefent.
 
-#### Artikel 28
+##### Artikel 28
 
 Onze Minister kan, ter uitvoering van [artikel 2:50, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:50), van de wet, een staat aanwijzen als staat waar het toezicht in voldoende mate waarborgen biedt ten aanzien van de belangen die de wet beoogt te beschermen indien:
 
@@ -788,7 +814,7 @@ Onze Minister kan, ter uitvoering van [artikel 2:50, tweede lid](https://wetten.
 
 - c. voor het bevoegde gezag in die staat regels gelden die gelijkwaardig zijn aan die in [Hoofdstuk 1.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&hoofdstuk=1.4).
 
-#### Artikel 29
+##### Artikel 29
 
 1. De gegevens, bedoeld in [artikel 2:51, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:51) zijn:
 
@@ -842,7 +868,7 @@ Onze Minister kan, ter uitvoering van [artikel 2:50, tweede lid](https://wetten.
 
 4. Het eerste lid, onderdeel h, is niet van toepassing ten aanzien van personen wier betrouwbaarheid voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) door een toezichthouder reeds is vastgesteld.
 
-#### Artikel 30
+##### Artikel 30
 
 1. Het programma van werkzaamheden, bedoeld in [artikel 29, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=2&paragraaf=2.4&artikel=29&z=2025-07-18&g=2025-07-18), bevat het volgende:
 
@@ -866,7 +892,7 @@ Onze Minister kan, ter uitvoering van [artikel 2:50, tweede lid](https://wetten.
 
 3. Het programma van werkzaamheden bevat tevens bewijsstukken waaruit blijkt dat de solvabiliteit van de verzekeraar met beperkte risico-omvang voldoet aan [artikel 3:57, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57).
 
-#### Artikel 31
+##### Artikel 31
 
 De gegevens, bedoeld in [artikel 2:53, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:53) zijn:
 
@@ -886,7 +912,7 @@ De gegevens, bedoeld in [artikel 2:53, eerste lid, van de wet](https://wetten.ov
 
 #### § 2.5. Aanbieden van beleggingsobjecten
 
-#### Artikel 32
+##### Artikel 32
 
 1. De gegevens, bedoeld in [artikel 2:58, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:58) zijn:
 
@@ -956,7 +982,7 @@ De gegevens, bedoeld in [artikel 2:53, eerste lid, van de wet](https://wetten.ov
 
 #### § 2.4. Uitoefenen van bedrijf van natura-uitvaartverzekeraar
 
-#### Artikel 33
+##### Artikel 33
 
 1. De gegevens, bedoeld in [artikel 2:63, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:63), zijn:
 
@@ -1028,7 +1054,7 @@ De gegevens, bedoeld in [artikel 2:53, eerste lid, van de wet](https://wetten.ov
 
 #### § 2.6. Aanbieden van krediet
 
-#### Artikel 34
+##### Artikel 34
 
 1. Onze Minister kan, ter uitvoering van [artikel 2:66, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:66), een staat aanwijzen als staat waar het toezicht in voldoende mate waarborgen biedt ten aanzien van de belangen die de wet beoogt te beschermen indien:
 
@@ -1054,7 +1080,7 @@ De gegevens, bedoeld in [artikel 2:53, eerste lid, van de wet](https://wetten.ov
 
 2. De samenwerkingsovereenkomst tussen de toezichthouder en het bevoegde gezag, bedoeld in het eerste lid, onderdeel d, voldoet aan de ingevolge artikel 36 van de richtlijn beheerders van alternatieve beleggingsinstellingen gestelde eisen.
 
-#### Artikel 35
+##### Artikel 35
 
 1. De gegevens, bedoeld in [artikel 2:69d, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:69d), zijn:
 
@@ -1112,7 +1138,7 @@ De gegevens, bedoeld in [artikel 2:53, eerste lid, van de wet](https://wetten.ov
 
 #### § 2.4. Uitoefenen van het bedrijf van verzekeraar met beperkte risico-omvang
 
-#### Artikel 36
+##### Artikel 36
 
 1. De gegevens, bedoeld in [artikel 2:78, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:78), zijn:
 
@@ -1190,7 +1216,7 @@ De gegevens, bedoeld in [artikel 2:53, eerste lid, van de wet](https://wetten.ov
 
 #### § 2.4. Uitoefenen van het bedrijf van verzekeraar met beperkte risico-omvang
 
-#### Artikel 37
+##### Artikel 37
 
 De gegevens, bedoeld in [artikel 2:81, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:81), zijn:
 
@@ -1208,7 +1234,7 @@ De gegevens, bedoeld in [artikel 2:81, vierde lid, van de wet](https://wetten.ov
 
 - g. gegevens op basis waarvan de Autoriteit Financiële Markten kan beoordelen of de aanbieder volledig verantwoordelijk is voor de bemiddelaar als bedoeld in [artikel 2:81, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:81).
 
-#### Artikel 38
+##### Artikel 38
 
 1. De gegevens, bedoeld in [artikel 2:83, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:83), zijn:
 
@@ -1290,7 +1316,7 @@ De gegevens, bedoeld in [artikel 2:81, vierde lid, van de wet](https://wetten.ov
 
 #### § 2.5. Aanbieden van beleggingsobjecten
 
-#### Artikel 39
+##### Artikel 39
 
 1. De gegevens bedoeld in [artikel 2:89, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:89) zijn:
 
@@ -1370,7 +1396,7 @@ De gegevens, bedoeld in [artikel 2:81, vierde lid, van de wet](https://wetten.ov
 
 #### § 2.4a. Uitoefenen van bedrijf van entiteit voor risico-acceptatie
 
-#### Artikel 40
+##### Artikel 40
 
 1. De gegevens bedoeld in [artikel 2:94, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:94) zijn:
 
@@ -1450,13 +1476,13 @@ De gegevens, bedoeld in [artikel 2:81, vierde lid, van de wet](https://wetten.ov
 
 #### § 2.4a. Uitoefenen van bedrijf van entiteit voor risico-acceptatie
 
-#### Artikel 41
+##### Artikel 41
 
 De aanvraag van een vergunning als bedoeld in [artikel 2:96 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:96), bevat de informatie, genoemd in de artikelen 1 tot en met 7 van Verordening (EU) nr. 2017/1943 van de Commissie van 14 juli 2016 ter aanvulling van [richtlijn 2014/65](32014L0065)/EU van het Europees Parlement en de Raad, houdende technische reguleringsnormen inzake informatie en vereisten voor de verlening van vergunningen aan beleggingsondernemingen (PbEU 2017, L 276).
 
 #### § 2.12. Verlenen van beleggingsdiensten en verrichten van beleggingsactiviteiten
 
-#### Artikel 42
+##### Artikel 42
 
 Indien een vergunning als bedoeld in [artikel 2:105, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:105), wordt aangevraagd, worden, onverminderd de in dat lid genoemde artikelen, de volgende gegevens overgelegd:
 
@@ -1472,7 +1498,7 @@ Indien een vergunning als bedoeld in [artikel 2:105, eerste lid, van de wet](htt
 
 #### § 2.6. Aanbieden van krediet
 
-#### Artikel 43
+##### Artikel 43
 
 De gegevens, bedoeld in [artikel 2:107, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:107) zijn, indien het betreft een clearinginstelling die voornemens is haar bedrijf uit te oefenen vanuit een in een andere staat gelegen bijkantoor:
 
@@ -1490,11 +1516,11 @@ De gegevens, bedoeld in [artikel 2:107, tweede lid, van de wet](https://wetten.o
 
 #### § 2.4b. Uitoefenen van bedrijf van premiepensioeninstelling
 
-#### Artikel 44
+##### Artikel 44
 
 De gegevens, bedoeld in [artikel 2:108, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:108), zijn de gegevens genoemd in artikel 3 van [Verordening (EU) nr. 1151/2014](32014R1151) van de Commissie of 4 juni 2014 tot aanvulling van [Richtlijn 2013/36](32013L0036)/EU van het Europees Parlement en de Raad met technische reguleringsnormen betreffende de gegevens die moeten worden verstrekt bij de uitoefening van het recht van vestiging en van het vrij verrichten van diensten (PbEU 2014, L 309).
 
-#### Artikel 45
+##### Artikel 45
 
 De gegevens, bedoeld in [artikel 2:111, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:111) zijn:
 
@@ -1510,7 +1536,7 @@ De gegevens, bedoeld in [artikel 2:111, tweede lid, van de wet](https://wetten.o
 
 - f. een beschrijving van de inrichting van de bedrijfsvoering met betrekking tot de beheerste en integere bedrijfsuitoefening, bedoeld in [artikel 3:17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:17).
 
-#### Artikel 46
+##### Artikel 46
 
 De gegevens, bedoeld in [artikel 2:112, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:112) zijn:
 
@@ -1528,7 +1554,7 @@ De gegevens, bedoeld in [artikel 2:112, tweede lid, van de wet](https://wetten.o
 
 #### § 2.4c. Uitoefenen van bedrijf van wisselinstelling
 
-#### Artikel 47
+##### Artikel 47
 
 1. De gegevens, bedoeld in [artikel 2:115, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:115) zijn:
 
@@ -1576,7 +1602,7 @@ De gegevens, bedoeld in [artikel 2:112, tweede lid, van de wet](https://wetten.o
 
 6. De gegevens, bedoeld in het eerste en tweede lid, gaan vergezeld van een vertaling voorzover de Nederlandsche Bank zulks verlangt. De Nederlandsche Bank kan slechts dan een vertaling verlangen indien de toezichthoudende autoriteit van de lidstaat waar de verzekeraar voornemens is vanuit een bijkantoor haar bedrijf uit te oefenen, een vertaling verlangt.
 
-#### Artikel 48
+##### Artikel 48
 
 Het programma van werkzaamheden, bedoeld in [artikel 47, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=3&paragraaf=3.3&artikel=47&z=2025-07-18&g=2025-07-18), dat wordt overgelegd door een levensverzekeraar met zetel in Nederland ten behoeve van een bijkantoor in een andere lidstaat bevat het volgende:
 
@@ -1588,7 +1614,7 @@ Het programma van werkzaamheden, bedoeld in [artikel 47, eerste lid, onderdeel c
 
 - d. voor het eerste boekjaar, een gedetailleerde raming van de vermoedelijke inkomsten en uitgaven, zowel wat de directe verrichtingen en de geaccepteerde herverzekeringen als de overdachten uit hoofde van de herverzekering betreft.
 
-#### Artikel 49
+##### Artikel 49
 
 1. Het programma van werkzaamheden, bedoeld in [artikel 47, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=3&paragraaf=3.3&artikel=47&z=2025-07-18&g=2025-07-18), dat wordt overgelegd door een schadeverzekeraar met zetel in Nederland ten behoeve van een bijkantoor in een andere lidstaat bevat het volgende:
 
@@ -1604,7 +1630,7 @@ Het programma van werkzaamheden, bedoeld in [artikel 47, eerste lid, onderdeel c
 
 2. Indien de schadeverzekeraar voornemens is risico’s behorende tot de branche Hulpverlening te dekken, bevat het programma van werkzaamheden voorts een opgave van de ter beschikking van de levensverzekeraar ter beschikking staande middelen voor het verstrekken van de overeengekomen hulp.
 
-#### Artikel 50
+##### Artikel 50
 
 1. De gegevens, bedoeld in [artikel 2:117, derde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:117) zijn:
 
@@ -1622,7 +1648,7 @@ Het programma van werkzaamheden, bedoeld in [artikel 47, eerste lid, onderdeel c
 
 3. De gegevens, bedoeld in het eerste en tweede lid, bevatten tevens een vertaling voorzover de Nederlandsche Bank zulks verlangt. De Nederlandsche Bank kan slechts dan een vertaling verlangen indien de toezichthoudende autoriteit van de lidstaat waar de verzekeraar voornemens is vanuit een bijkantoor haar bedrijf uit te oefenen, een vertaling verlangt.
 
-#### Artikel 51
+##### Artikel 51
 
 1. De gegevens, bedoeld in [artikel 2:118, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:118) zijn:
 
@@ -1634,7 +1660,7 @@ Het programma van werkzaamheden, bedoeld in [artikel 47, eerste lid, onderdeel c
 
 2. De gegevens, bedoeld in het eerste en tweede lid, bevatten tevens een vertaling voorzover de Nederlandsche Bank zulks verlangt.
 
-#### Artikel 52
+##### Artikel 52
 
 1. De gegevens, bedoeld in [artikel 2:120, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:120) zijn:
 
@@ -1682,7 +1708,7 @@ Het programma van werkzaamheden, bedoeld in [artikel 47, eerste lid, onderdeel c
 
 5. De gegevens, bedoeld in het eerste en tweede lid, bevatten tevens een vertaling voorzover de Nederlandsche Bank zulks verlangt.
 
-#### Artikel 53
+##### Artikel 53
 
 Het programma van werkzaamheden, bedoeld in [artikel 52, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=3&paragraaf=3.3&artikel=52&z=2025-07-18&g=2025-07-18), dat wordt overgelegd door een levensverzekeraar met zetel in Nederland ten behoeve van een bijkantoor in een staat die geen lidstaat is bevat het volgende:
 
@@ -1690,7 +1716,7 @@ Het programma van werkzaamheden, bedoeld in [artikel 52, eerste lid, onderdeel c
 
 - b. een beschrijving van de inrichting van de bedrijfsvoering met betrekking tot de beheerste en integere bedrijfsuitoefening, bedoeld in [artikel 3:17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:17), van het bijkantoor.
 
-#### Artikel 54
+##### Artikel 54
 
 Het programma van werkzaamheden, bedoeld in [artikel 52, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=3&paragraaf=3.3&artikel=52&z=2025-07-18&g=2025-07-18), dat wordt overgelegd door een schadeverzekeraar met zetel in Nederland ten behoeve van een bijkantoor in een staat die geen lidstaat is bevat het volgende:
 
@@ -1700,7 +1726,7 @@ Het programma van werkzaamheden, bedoeld in [artikel 52, eerste lid, onderdeel c
 
 #### § 2.7. Beheren van beleggingsinstellingen en het aanbieden van rechten van deelneming in beleggingsinstellingen
 
-#### Artikel 55
+##### Artikel 55
 
 1. De gegevens, bedoeld in [artikel 2:121, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:121) zijn:
 
@@ -1742,7 +1768,7 @@ Het programma van werkzaamheden, bedoeld in [artikel 52, eerste lid, onderdeel c
 
 4. Het eerste lid, onderdeel g, is niet van toepassing indien het een persoon betreft wiens betrouwbaarheid voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) door een toezichthouder reeds is vastgesteld.
 
-#### Artikel 56
+##### Artikel 56
 
 Het programma van werkzaamheden, bedoeld in [artikel 55, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=3&paragraaf=3.4&artikel=55&z=2025-07-18&g=2025-07-18), bevat het volgende:
 
@@ -1754,7 +1780,7 @@ Het programma van werkzaamheden, bedoeld in [artikel 55, eerste lid, onderdeel c
 
 #### § 2.7. Beheren van beleggingsinstellingen en het aanbieden van rechten van deelneming in beleggingsinstellingen
 
-#### Artikel 57
+##### Artikel 57
 
 De gegevens, bedoeld in [artikel 2:122, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:122) zijn:
 
@@ -1774,7 +1800,7 @@ De gegevens, bedoeld in [artikel 2:122, tweede lid, van de wet](https://wetten.o
 
 #### § 2.13. Overige bepalingen
 
-#### Artikel 58
+##### Artikel 58
 
 1. De gegevens, bedoeld in de [artikelen 2:127, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:127), en [2:128a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:128a) zijn:
 
@@ -1796,7 +1822,7 @@ De gegevens, bedoeld in [artikel 2:122, tweede lid, van de wet](https://wetten.o
 
 2. Een beleggingsonderneming of een bank als bedoeld in [artikel 2:128a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:128a) meldt wijzigingen met betrekking tot de onderwerpen, bedoeld in het eerste lid, met inachtneming van artikel 7 van Verordening (EU) nr. 2017/2018 van de Commissie van 29 juni 2016 ter aanvulling van [richtlijn 2014/65](32014L0065)/EU van het Europees Parlement en de Raad, houdende technische reguleringsnormen ter specificatie van informatie die door beleggingsondernemingen, marktexploitanten en kredietinstellingen moet worden verstrekt (PbEU 2017, L 155).
 
-#### Artikel 59
+##### Artikel 59
 
 1. De gegevens als bedoeld in [artikel 2:130, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:130) zijn:
 
@@ -1814,11 +1840,11 @@ De gegevens, bedoeld in [artikel 2:122, tweede lid, van de wet](https://wetten.o
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 60
+##### Artikel 60
 
 De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 61
+##### Artikel 61
 
 Dit besluit wordt aangehaald als: Besluit Markttoegang financiële ondernemingen Wft.
 
@@ -1906,7 +1932,7 @@ Onder al dan niet voorwaardelijk sepot, niet verdere vervolging, vrijspraak of o
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 41a
+##### Artikel 41a
 
 1. De gegevens, bedoeld in [artikel 2:97, negende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:97), zijn:
 
@@ -2060,7 +2086,7 @@ Betrokkene heeft een transactie als bedoeld in [artikel 74 van het WvSr](https:/
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 11a
+##### Artikel 11a
 
 1. De gegevens, bedoeld in [artikel 2:26b, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:26b) zijn:
 
@@ -2120,7 +2146,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 4. Het eerste lid, onderdelen h en m, onder 2°, zijn niet van toepassing ten aanzien van personen wier betrouwbaarheid voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) door een toezichthouder reeds is vastgesteld.
 
-#### Artikel 11b
+##### Artikel 11b
 
 Het programma van werkzaamheden, bedoeld in [artikel 11a, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=2&paragraaf=2.2a&artikel=11a&z=2025-07-18&g=2025-07-18), dat wordt overgelegd door degene die een vergunning aanvraagt voor het uitoefenen van het bedrijf van herverzekeraar, bevat het volgende:
 
@@ -2146,7 +2172,7 @@ Het programma van werkzaamheden, bedoeld in [artikel 11a, eerste lid, onderdeel 
 
 - k. voor de eerste drie boekjaren een raming van de premies en de schaden.
 
-#### Artikel 11c
+##### Artikel 11c
 
 1. De gegevens, bedoeld in [artikel 2:26e, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:26e) zijn:
 
@@ -2202,7 +2228,7 @@ Het programma van werkzaamheden, bedoeld in [artikel 11a, eerste lid, onderdeel 
 
 4. Het eerste lid, onderdeel i, is niet van toepassing ten aanzien van personen wier betrouwbaarheid voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) door een toezichthouder reeds is vastgesteld.
 
-#### Artikel 11d
+##### Artikel 11d
 
 1. Het programma van werkzaamheden, bedoeld in [artikel 11c, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=2&paragraaf=2.2a&artikel=11c&z=2025-07-18&g=2025-07-18), dat wordt overgelegd door degene die een vergunning aanvraagt voor het uitoefenen van het bedrijf van herverzekeraar, bevat voor het bijkantoor het volgende:
 
@@ -2234,7 +2260,7 @@ Het programma van werkzaamheden, bedoeld in [artikel 11a, eerste lid, onderdeel 
 
 3. Het programma van werkzaamheden bevat tevens bewijsstukken waaruit blijkt dat de solvabiliteit van de herverzekeraar voldoet aan [artikel 3:57, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57).
 
-#### Artikel 11e
+##### Artikel 11e
 
 De gegevens, bedoeld in [artikel 2:26f, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:26f) zijn:
 
@@ -2262,7 +2288,7 @@ De gegevens, bedoeld in [artikel 2:26f, tweede lid, van de wet](https://wetten.o
 
 #### § 2.4. Uitoefenen van bedrijf van natura-uitvaartverzekeraar
 
-#### Artikel 31a
+##### Artikel 31a
 
 1. De gegevens, bedoeld in [artikel 2:54b, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54b) zijn:
 
@@ -2318,7 +2344,7 @@ De gegevens, bedoeld in [artikel 2:26f, tweede lid, van de wet](https://wetten.o
 
 4. Het eerste lid, onderdelen g en k, onder 2°, is niet van toepassing ten aanzien van personen wier betrouwbaarheid voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) door een toezichthouder reeds is vastgesteld.
 
-#### Artikel 31b
+##### Artikel 31b
 
 Het programma van werkzaamheden, bedoeld in [artikel 31a, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=2&paragraaf=2.4a&artikel=31a&z=2025-07-18&g=2025-07-18), dat wordt overgelegd door degene die een vergunning aanvraagt voor het uitoefenen van het bedrijf van entiteit voor risico-acceptatie, bevat het volgende:
 
@@ -2336,7 +2362,7 @@ Het programma van werkzaamheden, bedoeld in [artikel 31a, eerste lid, onderdeel 
 
 - g. een raming voor de eerste drie boekjaren van de financiële middelen tot dekking van de verplichtingen.
 
-#### Artikel 31c
+##### Artikel 31c
 
 1. De gegevens, bedoeld in [artikel 2:54e, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54e) zijn:
 
@@ -2388,7 +2414,7 @@ Het programma van werkzaamheden, bedoeld in [artikel 31a, eerste lid, onderdeel 
 
 4. Het eerste lid, onderdeel h, is niet van toepassing ten aanzien van personen wier betrouwbaarheid voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) door een toezichthouder reeds is vastgesteld.
 
-#### Artikel 31d
+##### Artikel 31d
 
 1. Het programma van werkzaamheden, bedoeld in [artikel 31c, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=2&paragraaf=2.4a&artikel=31c&z=2025-07-18&g=2025-07-18), dat wordt overgelegd door degene die een vergunning aanvraagt voor het uitoefenen van het bedrijf van entiteit voor risico-acceptatie, bevat het volgende:
 
@@ -2408,7 +2434,7 @@ Het programma van werkzaamheden, bedoeld in [artikel 31a, eerste lid, onderdeel 
 
 2. De aanvrager voegt bij het programma van werkzaamheden de jaarrekening van elk van de laatste drie boekjaren. Indien sedert de oprichting van de onderneming van de aanvrager nog geen drie boekjaren zijn verstreken, behoeven deze jaarrekeningen slechts voor de afgesloten boekjaren te worden overgelegd.
 
-#### Artikel 31e
+##### Artikel 31e
 
 De gegevens, bedoeld in [artikel 2:54f, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54f) zijn:
 
@@ -2478,7 +2504,7 @@ Bij onherroepelijk vonnis is betrokkene in Nederland of in het buitenland veroor
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 3a
+##### Artikel 3a
 
 1. De gegevens, bedoeld in [artikel 2:3b, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3b), en [artikel 2:10b, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:10b) zijn:
 
@@ -2562,7 +2588,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 6. Indien de betaaldienstverlener uitsluitend betaaldiensten verleent als bedoeld onder 8 van de bijlage bij de richtlijn betaaldiensten, is het eerste lid, onderdelen h, j, k, q, r, s en w, niet van toepassing.
 
-#### Artikel 3b
+##### Artikel 3b
 
 De gegevens, bedoeld in [artikel 2:3c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3c) zijn:
 
@@ -2592,7 +2618,7 @@ De gegevens, bedoeld in [artikel 2:3c, eerste lid, van de wet](https://wetten.ov
 
 ### Hoofdstuk 3. Toegang tot de buitenlandse financiële markten
 
-#### Artikel 42a
+##### Artikel 42a
 
 De gegevens, bedoeld in [artikel 2:106a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:106a) zijn:
 
@@ -2678,7 +2704,7 @@ Bij onherroepelijk vonnis is betrokkene in Nederland of in het buitenland veroor
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 31f
+##### Artikel 31f
 
 1. De gegevens, bedoeld in [artikel 2:54h, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54h) zijn:
 
@@ -2748,7 +2774,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 5. Het eerste lid, onderdeel h, is niet van toepassing ten aanzien van personen wier betrouwbaarheid voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368), de [Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809) of de [Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831) door een toezichthouder reeds is vastgesteld.
 
-#### Artikel 31g
+##### Artikel 31g
 
 Het programma van werkzaamheden, bedoeld in [artikel 31f, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=2&paragraaf=2.4b&artikel=31f&z=2025-07-18&g=2025-07-18), dat wordt overgelegd door degene die een vergunning aanvraagt voor het uitoefenen van het bedrijf van premiepensioeninstelling, bevat het volgende:
 
@@ -2760,7 +2786,7 @@ Het programma van werkzaamheden, bedoeld in [artikel 31f, eerste lid, onderdeel 
 
 - d. een raming voor de eerste drie boekjaren van de premies.
 
-#### Artikel 31h
+##### Artikel 31h
 
 De aanvraag van instemming, bedoeld in [artikel 2:121a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:121a), gaat vergezeld van een opgave van:
 
@@ -2810,7 +2836,7 @@ Bij vonnis is betrokkene in Nederland of in het buitenland veroordeeld terzake v
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 35a
+##### Artikel 35a
 
 Vervallen
 
@@ -2846,7 +2872,7 @@ Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij �
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 57a
+##### Artikel 57a
 
 De gegevens, bedoeld in [artikel 2:122a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:122a) zijn:
 
@@ -2858,7 +2884,7 @@ De gegevens, bedoeld in [artikel 2:122a, tweede lid, van de wet](https://wetten.
 
 - d. een beschrijving van de interne klachtenprocedure, bedoeld in [artikel 4:17, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:17).
 
-#### Artikel 57b
+##### Artikel 57b
 
 1. De gegevens, bedoeld in [artikel 2:123, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:123) zijn:
 
@@ -2890,7 +2916,7 @@ De gegevens, bedoeld in [artikel 2:122a, tweede lid, van de wet](https://wetten.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 42b
+##### Artikel 42b
 
 De gegevens bedoeld in [artikel 2:107a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:107a) zijn:
 
@@ -2956,7 +2982,7 @@ Bij vonnis is betrokkene in Nederland of in het buitenland veroordeeld terzake v
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 34a
+##### Artikel 34a
 
 1. De gegevens die noodzakelijk zijn voor het doen van een volledige aanvraag als bedoeld in [artikel 2:67, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:67), en [artikel 2:68, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:68), zijn de gegevens, bedoeld in:
 
@@ -2972,7 +2998,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 #### § 3.0. Uitoefenen van bedrijf van betaaldienstverlener of elektronischgeldinstelling
 
-#### Artikel 56a
+##### Artikel 56a
 
 Samenwerkingsovereenkomsten tussen toezichthoudende instanties voldoen aan de navolgende eisen:
 
@@ -2982,13 +3008,13 @@ Samenwerkingsovereenkomsten tussen toezichthoudende instanties voldoen aan de na
 
 - c. indien het samenwerkingsovereenkomsten tussen toezichthoudende instanties als bedoeld in [artikel 2:121e](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:121e), betreft: de ingevolge artikel 34 van de richtlijn beheerders van alternatieve beleggingsinstellingen gestelde eisen.
 
-#### Artikel 56b
+##### Artikel 56b
 
 1. Om als gelijkwaardig te worden aangemerkt, voldoet het recht, bedoeld in [artikel 2:67b, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:67b), aan de eisen ingevolge artikel 37, drieëntwintigste lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen.
 
 2. De in [artikel 34, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=2&paragraaf=2.7&artikel=34&z=2025-07-18&g=2025-07-18), bedoelde informatie mag worden beperkt tot de beleggingsinstellingen die de buitenlandse beheerder van een beleggingsinstelling met zetel in een staat die geen lidstaat is, wil beheren en tot de door deze beheerder beheerde beleggingsinstellingen die hij wil verhandelen in de Europese Unie.
 
-#### Artikel 56c
+##### Artikel 56c
 
 1. De Nederlandse beheerder van een beleggingsinstelling verstrekt de informatie en meldingen, bedoeld in [artikel 2:121c, negende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:121c), overeenkomstig artikel 32, achtste lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen.
 
@@ -2996,11 +3022,11 @@ Samenwerkingsovereenkomsten tussen toezichthoudende instanties voldoen aan de na
 
 3. De informatie over de wijze waarop rechten van deelneming worden aangeboden en informatie over de wijze waarop wordt voorkomen dat rechten van deelneming worden aangeboden aan niet-professionele beleggers, bedoeld in [artikel 2:121c, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:121c), is onderworpen aan Nederlands recht.
 
-#### Artikel 56d
+##### Artikel 56d
 
 De ingevolge [artikel 2:121d, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:121d) te verstrekken informatie voldoet aan de ingevolge artikel 33 van de richtlijn beheerders van alternatieve beleggingsinstellingen gestelde eisen.
 
-#### Artikel 56e
+##### Artikel 56e
 
 Dit onderdeel is nog niet inwerking getreden
 
@@ -3034,7 +3060,7 @@ Betrokkene wordt ter zake van een of meer van de hiervoor onder 2.1 genoemde str
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 3.0a
+##### Artikel 3.0a
 
 De gegevens, bedoeld in de [artikelen 2:3.0a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3.0a), [2:3.0f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3.0f), en [2:3.0k, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3.0k) zijn:
 
@@ -3050,11 +3076,11 @@ De gegevens, bedoeld in de [artikelen 2:3.0a, tweede lid](https://wetten.overhei
 
 - f. een opgave van de activiteiten die de afwikkelonderneming voornemens is te verrichten.
 
-#### Artikel 3.0b
+##### Artikel 3.0b
 
 Het aantal verrichte girale betalingstransacties waarboven een vergunning als bedoeld in [artikel 2:3.0b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3.0b) is vereist, is 120 miljoen per kalenderjaar.
 
-#### Artikel 3.0c
+##### Artikel 3.0c
 
 1. De gegevens, bedoeld in de [artikelen 2:3.0d, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3.0d), [2:3.0i, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3.0i), en [2:3.0m, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3.0m) zijn:
 
@@ -3110,7 +3136,7 @@ Het aantal verrichte girale betalingstransacties waarboven een vergunning als be
 
 4. Het eerste lid, onderdeel g, is niet van toepassing ten aanzien van personen wier betrouwbaarheid voor de toepassing van de wet door een toezichthouder reeds is vastgesteld.
 
-#### Artikel 3.0d
+##### Artikel 3.0d
 
 Onze Minister kan op grond van [artikel 2:3.0g, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3.0g) een staat aanwijzen als staat waar het toezicht in voldoende mate waarborgen biedt ten aanzien van de belangen die de wet beoogt te beschermen, indien:
 
@@ -3134,7 +3160,7 @@ Onze Minister kan op grond van [artikel 2:3.0g, vierde lid, van de wet](https://
 
 #### § 2.4b. Uitoefenen van bedrijf van premiepensioeninstelling
 
-#### Artikel 31i
+##### Artikel 31i
 
 1. De gegevens, bedoeld in [artikel 2:54j, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54j) zijn:
 
@@ -3176,7 +3202,7 @@ Onze Minister kan op grond van [artikel 2:3.0g, vierde lid, van de wet](https://
 
 4. Het eerste lid, onderdeel j, is niet van toepassing ten aanzien van personen wier betrouwbaarheid voor de toepassing van de wet door een toezichthouder reeds is vastgesteld.
 
-#### Artikel 31j
+##### Artikel 31j
 
 Onze Minister kan op grond van [artikel 2:54l, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54l) een staat aanwijzen als staat waar het toezicht in voldoende mate waarborgen biedt ten aanzien van de belangen die de wet beoogt te beschermen indien:
 
@@ -3192,7 +3218,7 @@ Onze Minister kan op grond van [artikel 2:54l, tweede lid, van de wet](https://w
 
 - c. voor het bevoegde gezag in die staat regels gelden die gelijkwaardig zijn aan die in [Hoofdstuk 1.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&hoofdstuk=1.4).
 
-#### Artikel 31k
+##### Artikel 31k
 
 1. De gegevens, bedoeld in [artikel 2:54m, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54m) zijn:
 
@@ -3230,7 +3256,7 @@ Onze Minister kan op grond van [artikel 2:54l, tweede lid, van de wet](https://w
 
 ### Hoofdstuk 3. Toegang tot de buitenlandse financiële markten
 
-#### Artikel 42.0a
+##### Artikel 42.0a
 
 De gegevens, bedoeld in [artikel 2:106.0a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:106.0a) zijn:
 
@@ -3290,7 +3316,7 @@ Andere feiten of omstandigheden die redelijkerwijs voor de toezichthouder van be
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 31l
+##### Artikel 31l
 
 1. De gegevens, bedoeld in [artikel 2:54p, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54p) zijn:
 
@@ -3372,7 +3398,7 @@ Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij �
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 3c
+##### Artikel 3c
 
 1. De gegevens, bedoeld in [artikel 2:3i, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3i) zijn:
 
@@ -3456,7 +3482,7 @@ Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij �
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 57c
+##### Artikel 57c
 
 De gegevens, bedoeld in [artikel 2:124b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:124b) zijn:
 
@@ -3484,11 +3510,11 @@ Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij �
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 41.0a
+##### Artikel 41.0a
 
 De gegevens, bedoeld in [artikel 2:99a, derde lid, van de wet](onbekend), bevatten de informatie, genoemd in de artikelen 1, 2, 4 en 6 van Verordening (EU) nr. 2017/1943 van de Commissie van 14 juli 2016 ter aanvulling van [richtlijn 2014/65](32014L0065)/EU van het Europees Parlement en de Raad, houdende technische reguleringsnormen inzake informatie en vereisten voor de verlening van vergunningen aan beleggingsondernemingen (PbEU 2017, L 276), met dien verstande dat de informatie betrekking heeft op het in Nederland gelegen bijkantoor.
 
-#### Artikel 41b
+##### Artikel 41b
 
 Vervallen
 
@@ -3522,7 +3548,7 @@ Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij �
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 57d
+##### Artikel 57d
 
 De gegevens, bedoeld in [artikel 2:125, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:125) zijn:
 
@@ -3538,7 +3564,7 @@ De gegevens, bedoeld in [artikel 2:125, tweede lid, van de wet](https://wetten.o
 
 - f. een opgave van de identiteit van de personen die het dagelijks beleid van het bijkantoor bepalen.
 
-#### Artikel 57e
+##### Artikel 57e
 
 De gegevens, bedoeld in [artikel 2:125a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:125a) zijn:
 
@@ -3566,7 +3592,7 @@ Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij �
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 1a
+##### Artikel 1a
 
 1. De dienstaanbieder die één of beide activiteiten, als bedoeld in [artikel 1:5a, onderdeel k, onder i en ii, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:5a) verricht, waarbij de totale waarde van de uitgevoerde betalingstransacties in de voorgaande twaalf maanden het bedrag van 1 miljoen euro overschrijdt, geeft daarvan kennis aan de Nederlandsche Bank.
 
@@ -3634,7 +3660,7 @@ Aan de huidige of één van de voormalige werkgevers of enige vennootschap of re
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 33a
+##### Artikel 33a
 
 1. De gegevens, bedoeld in [artikel 2:64c, tweede lid](onbekend), zijn:
 

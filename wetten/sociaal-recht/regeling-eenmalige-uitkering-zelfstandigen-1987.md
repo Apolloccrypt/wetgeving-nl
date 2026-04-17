@@ -1,13 +1,37 @@
 ---
 title: "Regeling eenmalige uitkering zelfstandigen 1987"
 identifier: "BWBR0004406"
-categorie: "Sociaal recht"
-publicatiedatum: 1988-10-01
-laatste_update: 1988-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004406"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1988-10-01"
+last_updated: "1988-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004406"
+soort: "ministeriele-regeling"
+stam_id: "3748953"
+version_id: "5531952"
+internal_id: "C5725041"
+label_id: "3728834"
+dtd_version: "2.0"
+original_entry_into_force: "1988-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004406/1988-10-01/0"
+intitule_bron: "Stcrt.1988-190"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1988-09-29"
+intitule_published: "1988-09-30"
+intitule_in_force: "1988-09-30"
+intitule_status: "goed"
+original_publication: "Stcrt.1988-190"
+original_signed_date: "1988-09-29"
+original_published_date: "1988-09-30"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1988-10-01"
+jci_1_3: "jci1.3:c:BWBR0004406&z=1988-10-01&g=1988-10-01"
+jci_1_0: "1.0:c:BWBR0004406&g=1988-10-01"
+citeertitel_status: "officieel"
+signed_date: "1988-09-29"
+entry_into_force: "1988-10-01"
 ---
-
 # Regeling eenmalige uitkering zelfstandigen 1987
 
 Handelende in overeenstemming met de Minister van Landbouw en Visserij en de Staatssecretaris van Sociale Zaken en Werkgelegenheid;
@@ -18,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze regeling wordt verstaan onder:
 
@@ -28,7 +52,7 @@ a. minister: minister van Economische Zaken; b. CIMK: Stichting Coördinerend In
 
 a. gehuwde: degene, die met een ander een gezamenlijke huishouding voert; b. echtgenoot: degene, met wie de gehuwde een gezamenlijke huishouding voert; c. ongehuwde: degene, die niet met een ander een gezamenlijke huishouding voert.
 
-#### Artikel 2
+##### Artikel 2
 
 1. In deze regeling wordt als zelfstandige aangemerkt de natuurlijke persoon die:
 
@@ -42,7 +66,7 @@ a. gehuwde: degene, die met een ander een gezamenlijke huishouding voert; b. ech
 
 3. In afwijking van het bepaalde in het eerste lid, wordt voor de toepassing van deze regeling niet als zelfstandige beschouwd degene voor wie de uitoefening van het in dat lid bedoelde bedrijf of beroep slechts een bijkomstige bron van inkomen vormt.
 
-#### Artikel 3
+##### Artikel 3
 
 In deze regeling wordt onderscheid gemaakt al naar gelang de zelfstandige op 31 december 1987:
 
@@ -52,13 +76,13 @@ In deze regeling wordt onderscheid gemaakt al naar gelang de zelfstandige op 31 
 
 - c. gehuwd was.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Als inkomen van de zelfstandige wordt in deze regeling aangemerkt het onzuiver inkomen over het jaar 1987 als bedoeld in artikel 4 van de Wet op de inkomstenbelasting 1964 van de zelfstandige of, als deze gehuwd is, van de zelfstandige en zijn echtgenoot te zamen, nadat daarop in mindering zijn gebracht de op het jaar 1987 betrekking hebbende, ingevolge artikel 45, eerste lid, onder b of f, van voornoemde wet, aftrekbare persoonlijke verplichtingen jegens duurzaam gescheiden levende dan wel gewezen echtgenoten.
 
 2. De met toepassing van het eerste lid vastgestelde bedragen worden naar beneden afgerond op hele guldens.
 
-#### Artikel 5
+##### Artikel 5
 
 Waar in deze regeling wordt gesproken over het minimumniveau bedraagt dit:
 
@@ -84,7 +108,7 @@ Waar in deze regeling wordt gesproken over het minimumniveau bedraagt dit:
 
 ### Hoofdstuk II. De eenmalige uitkering
 
-#### Artikel 6
+##### Artikel 6
 
 1. Aan de zelfstandige, die een eenmalige uitkering heeft of nog zal ontvangen krachtens de Regeling eenmalige uitkering zelfstandigen 1986 (Stcrt. 1987, 188) of krachtens de wet van 3 juli 1986 (Stb. 376) wordt op een overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004406&hoofdstuk=II&artikel=8&z=1988-10-01&g=1988-10-01) ingediende aanvraag en met inachtneming van de bepalingen van deze regeling een eenmalige uitkering verleend.
 
@@ -100,7 +124,7 @@ Waar in deze regeling wordt gesproken over het minimumniveau bedraagt dit:
 
 5. Het recht op een eenmalige uitkering vervalt, indien de zelfstandige en, indien deze gehuwd was, zijn echtgenoot voor de dag van uitbetaling van de eenmalige uitkering is of zijn overleden.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De eenmalige uitkering bedraagt:
 
@@ -130,7 +154,7 @@ Waar in deze regeling wordt gesproken over het minimumniveau bedraagt dit:
 
 8. De uitkering die op grond van de voorgaande leden is vastgesteld en minder bedraagt dan f 50 wordt niet uitgekeerd.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De aanvraag om een eenmalige uitkering dient uiterlijk 31 maart 1989 te worden ingediend door de zelfstandige of, indien deze na 31 december 1987 is overleden, door zijn echtgenoot als ware deze de zelfstandige.
 
@@ -148,7 +172,7 @@ Waar in deze regeling wordt gesproken over het minimumniveau bedraagt dit:
 
 6. Indien de zelfstandige meer dan één aanvraagformulier indient, wordt slechts één daarvan in behandeling genomen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het CIMK respectievelijk de STULM kan alvorens op de aanvraag wordt beslist inlichtingen inwinnen bij derden alsmede de verstrekking, binnen een door haar te stellen termijn van ten minste twee weken, van nadere gegevens door de zelfstandige verlangen.
 
@@ -164,13 +188,13 @@ Waar in deze regeling wordt gesproken over het minimumniveau bedraagt dit:
 
 4. Indien de zelfstandige niet voldoet aan een verlangen als bedoeld in de vorige leden, wordt de aanvraag afgewezen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het CIMK respectievelijk de STULM beslist op de aanvraag. De beslissing wordt de zelfstandige schriftelijk medegedeeld.
 
 2. Indien een eenmalige uitkering wordt verleend, wordt deze uitbetaald door het CIMK respectievelijk de STULM binnen eenentwintig dagen nadat de in het eerste lid bedoelde mededeling is verzonden.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Indien het inkomen van de zelfstandige als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004406&hoofdstuk=I&artikel=4&z=1988-10-01&g=1988-10-01), berekend op grond van de gegevens waarvan is uitgegaan bij de vaststelling van de definitieve aanslag inkomstenbelasting 1987, het minimumniveau met meer dan f 1 500 overschrijdt, dient de zelfstandige de door hem ontvangen eenmalige uitkering binnen een maand na het onherroepelijk worden van de aanslag terug te betalen aan de instantie die hem de eenmalige uitkering heeft uitbetaald.
 
@@ -178,7 +202,7 @@ Waar in deze regeling wordt gesproken over het minimumniveau bedraagt dit:
 
 ### Hoofdstuk III. Beroep
 
-#### Artikel 12
+##### Artikel 12
 
 1. Tegen beslissingen als bedoeld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004406&hoofdstuk=II&artikel=10&z=1988-10-01&g=1988-10-01) en [11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004406&hoofdstuk=II&artikel=11&z=1988-10-01&g=1988-10-01), kan de zelfstandige een beroepschrift indienen bij de minister. Het beroepschrift moet gemotiveerd zijn en worden ingediend binnen een maand na de dag waarop de beslissing is verzonden.
 
@@ -186,12 +210,12 @@ Waar in deze regeling wordt gesproken over het minimumniveau bedraagt dit:
 
 ### Hoofdstuk IV. Slotbepalingen
 
-#### Artikel 13
+##### Artikel 13
 
 1. Deze regeling wordt bekendgemaakt in de Staatscourant.
 
 2. Zij treedt in werking met ingang van 1 oktober 1988.
 
-#### Artikel 14
+##### Artikel 14
 
 Deze regeling kan worden aangehaald als: Regeling eenmalige uitkering zelfstandigen 1987.

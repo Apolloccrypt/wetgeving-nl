@@ -1,13 +1,38 @@
 ---
 title: "Besluit vervanging archiefbescheiden NVAO 2019"
 identifier: "BWBR0043168"
-categorie: "Overig"
-publicatiedatum: 2020-02-14
-laatste_update: 2020-02-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043168"
+country: "nl"
+rank: "zbo"
+publication_date: "2020-02-14"
+last_updated: "2020-02-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043168"
+soort: "zbo"
+stam_id: "15340873"
+version_id: "26508042"
+internal_id: "C37634201"
+label_id: "15286124"
+dtd_version: "2.0"
+original_entry_into_force: "2020-02-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043168/2020-02-14/0"
+intitule_bron: "Stcrt.2020-8250"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-12-02"
+intitule_published: "2020-02-13"
+intitule_in_force: "2020-02-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-8250"
+original_signed_date: "2019-12-02"
+original_published_date: "2020-02-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-8250"
+entry_into_force_date: "2020-02-14"
+jci_1_3: "jci1.3:c:BWBR0043168&z=2020-02-14&g=2020-02-14"
+jci_1_0: "1.0:c:BWBR0043168&g=2020-02-14"
+citeertitel_status: "officieel"
+signed_date: "2019-12-02"
+entry_into_force: "2020-02-14"
 ---
-
 # Besluit vervanging archiefbescheiden NVAO 2019
 
 Gelet op:
@@ -18,17 +43,17 @@ de regeling van de minister van Onderwijs, Cultuur en Wetenschap van 6 december 
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Over te gaan tot vervanging door digitale reproducties van de analoge archiefbescheiden die op grond van de Selectielijst voor de Nederlands-Vlaamse Accreditatieorganisatie (NVAO) en diens taakvoorganger de Nederlandse Accreditatieorganisatie (NAO) vanaf 1 januari 2013 voor bewaring of vernietiging in aanmerking komen, waarna deze analoge archiefbescheiden worden vernietigd.
 
 2. Reproductie geschiedt op de wijze zoals omschreven in het vastgestelde Handboek vervanging archiefbescheiden NVAO
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treed in werking met ingang van de eerste dag na de dag van bekendmaking van dit besluit in de Staatscourant.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit kan worden aangehaald als: Besluit vervanging archiefbescheiden NVAO 2019.
 

@@ -1,13 +1,38 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van Aruba, en de Verenigde Staten van Amerika inzake de uitwisseling van informatie met betrekking tot belastingen"
 identifier: "BWBV0006401"
-categorie: "Belastingrecht"
-publicatiedatum: 2004-09-13
-laatste_update: 2004-09-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006401"
+country: "nl"
+rank: "verdrag"
+publication_date: "2004-09-13"
+last_updated: "2004-09-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006401"
+soort: "verdrag"
+stam_id: "10005231483"
+version_id: "10005616842"
+internal_id: "C10008697841"
+label_id: "10005214304"
+dtd_version: "2.0"
+original_entry_into_force: "2004-09-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006401/2004-09-13/0"
+intitule_bron: "Trb.2004-17"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-08-12"
+intitule_published: "2004-01-29"
+intitule_in_force: "2004-09-27"
+intitule_status: "goed"
+original_publication: "Trb.2004-17"
+original_signed_date: "2004-08-12"
+original_published_date: "2004-01-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2004-17"
+entry_into_force_date: "2004-09-13"
+jci_1_3: "jci1.3:c:BWBV0006401&z=2004-09-13&g=2004-09-13"
+jci_1_0: "1.0:c:BWBV0006401&g=2004-09-13"
+citeertitel_status: "redactioneel"
+signed_date: "2004-08-12"
+entry_into_force: "2004-09-13"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van Aruba, en de Verenigde Staten van Amerika inzake de uitwisseling van informatie met betrekking tot belastingen
 
 Het Koninkrijk der Nederlanden, ten behoeve van Aruba, en de Verenigde Staten van Amerika,
@@ -16,7 +41,7 @@ Geleid door de wens de uitwisseling van informatie met betrekking tot belastinge
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Doel en reikwijdte van het Verdrag
+##### Artikel 1. Doel en reikwijdte van het Verdrag
 
 1. De Verdragsluitende Partijen zijn elkaar behulpzaam teneinde de juiste vaststelling en heffing van belastingen te waarborgen, belastingfraude en belastingontduiking te voorkomen en betere informatiebronnen voor belastingaangelegenheden te ontwikkelen. De Verdragsluitende Partijen verlenen elkaar bijstand door middel van de krachtens artikel 4 toegestane uitwisseling van informatie en de daarmee samenhangende maatregelen die de bevoegde autoriteiten ingevolge artikel 5 overeen kunnen komen.
 
@@ -24,7 +49,7 @@ Zijn het volgende overeengekomen:
 
 3. Wat het Koninkrijk der Nederlanden betreft, is dit Verdrag alleen van toepassing op Aruba.
 
-#### Artikel 2. Belastingen waarop het Verdrag van toepassing is
+##### Artikel 2. Belastingen waarop het Verdrag van toepassing is
 
 1. Dit Verdrag is van toepassing op de volgende belastingen die worden geheven door of namens een Verdragsluitende Partij:
 
@@ -58,7 +83,7 @@ Zijn het volgende overeengekomen:
 
 4. Dit Verdrag is niet van toepassing op belastingen opgelegd door de staatkundige onderdelen van een van de Verdragsluitende Partijen en, in het geval van de Verenigde Staten, op belastingen opgelegd door staten of grondgebieden van de Verenigde Staten.
 
-#### Artikel 3. Begripsbepalingen
+##### Artikel 3. Begripsbepalingen
 
 1. Tenzij in dit Verdrag anders wordt bepaald, wordt verstaan onder:
 
@@ -90,7 +115,7 @@ Zijn het volgende overeengekomen:
 
 2. Elke term die niet in dit Verdrag is omschreven heeft, tenzij de context anders vereist of de bevoegde autoriteiten ingevolge de bepalingen van artikel 5 een gemeenschappelijke betekenis overeenkomen, de betekenis die daaraan wordt gegeven in de wetgeving van de Verdragsluitende Partij die betrekking heeft op de belastingen die het voorwerp van dit Verdrag vormen.
 
-#### Artikel 4. Uitwisseling van informatie
+##### Artikel 4. Uitwisseling van informatie
 
 1. De bevoegde autoriteiten van de Verdragsluitende Partijen wisselen informatie uit die naar verwachting van belang zal zijn ten behoeve van de uitvoering en handhaving van de binnenlandse wetgeving van de Verdragsluitende Partijen ter zake van belastingen waarop dit Verdrag van toepassing is, met inbegrip van informatie ter bepaling, vaststelling en inning van belasting, de invordering en tenuitvoerlegging van belastingvorderingen of het onderzoek naar of de vervolging van belastingdelicten of delicten waarbij inbreuk wordt gemaakt op de belastingwetgeving.
 
@@ -166,7 +191,7 @@ Zijn het volgende overeengekomen:
 
 - b. het fiscale doel waarvoor om inlichtingen wordt verzocht.
 
-#### Artikel 5. Procedure voor onderlinge overeenstemming
+##### Artikel 5. Procedure voor onderlinge overeenstemming
 
 1. De bevoegde autoriteiten van de Verdragsluitende Partijen komen overeen een programma te implementeren voor de tenuitvoerlegging van de doeleinden van dit Verdrag. Dit programma kan, naast de in artikel 4 bedoelde uitwisselingen, andere maatregelen omvatten ter verbetering van de naleving van de belastingwetgeving, zoals uitwisselingen van technische kennis, ontwikkeling van nieuwe audittechnieken, het in kaart brengen van nieuwe vormen van overtreding en gezamenlijke studies van overtredingsvormen.
 
@@ -174,19 +199,19 @@ Zijn het volgende overeengekomen:
 
 3. De bevoegde autoriteiten van de Verdragsluitende Partijen kunnen zich rechtstreeks met elkaar in verbinding stellen teneinde overeenstemming als bedoeld in dit artikel te bereiken.
 
-#### Artikel 6. Kosten
+##### Artikel 6. Kosten
 
 Tenzij de bevoegde autoriteiten van de Verdragsluitende Partijen anders overeenkomen, worden gewone kosten, gemaakt bij het verlenen van bijstand, gedragen door de aangezochte Partij en worden buitengewone kosten, gemaakt bij het verlenen van bijstand, gedragen door de verzoekende Partij.
 
-#### Artikel 7. Implementatie
+##### Artikel 7. Implementatie
 
 Een Verdragsluitende Partij stelt de wetgeving vast die nodig is voor de uitvoering van dit Verdrag.
 
-#### Artikel 8. Inwerkingtreding
+##### Artikel 8. Inwerkingtreding
 
 Dit Verdrag treedt in werking na een notawisseling tussen de Verdragsluitende Partijen, waarin wordt bevestigd dat elk van de Partijen heeft voldaan aan de nationale, grondwettelijke, wettelijke en andere vereisten die nodig zijn voor de uitvoering van dit Verdrag.
 
-#### Artikel 9. Opzegging
+##### Artikel 9. Opzegging
 
 Dit Verdrag blijft van kracht totdat het door een van de Verdragsluitende Partijen wordt opgezegd. Elk van de Verdragsluitende Staten kan dit Verdrag te allen tijde nadat het in werking is getreden opzeggen mits ten minste drie maanden van tevoren langs diplomatieke weg een kennisgeving van opzegging is gedaan.
 

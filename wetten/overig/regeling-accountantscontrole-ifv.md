@@ -1,20 +1,46 @@
 ---
-title: "Regeling accountantscontrole IFV"
+title: "Regeling van de Minister van Veiligheid en Justitie van 27 november 2012, nr. 307297, houdende voorschriften ten aanzien van de accountantscontrole van de jaarrekening van het Instituut Fysieke Veiligheid (Regeling accountantscontrole IFV)"
 identifier: "BWBR0032372"
-categorie: "Overig"
-publicatiedatum: 2019-04-17
-laatste_update: 2019-04-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032372"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2019-04-17"
+last_updated: "2019-04-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032372"
+soort: "ministeriele-regeling"
+stam_id: "11934453"
+version_id: "19838112"
+internal_id: "C27864151"
+label_id: "11906344"
+dtd_version: "2.0"
+original_entry_into_force: "2013-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032372/2019-04-17/0"
+intitule_bron: "Stcrt.2012-25336"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-11-27"
+intitule_published: "2012-12-10"
+intitule_in_force: "2012-12-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-25336"
+original_signed_date: "2012-11-27"
+original_published_date: "2012-12-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-25336"
+entry_into_force_date: "2013-01-01"
+jci_1_3: "jci1.3:c:BWBR0032372&z=2019-04-17&g=2019-04-17"
+jci_1_0: "1.0:c:BWBR0032372&g=2019-04-17"
+citeertitel_status: "officieel"
+short_title: "Regeling accountantscontrole IFV"
+signed_date: "2012-11-27"
+entry_into_force: "2013-01-01"
 ---
-
 # Regeling van de Minister van Veiligheid en Justitie van 27 november 2012, nr. 307297, houdende voorschriften ten aanzien van de accountantscontrole van de jaarrekening van het Instituut Fysieke Veiligheid (Regeling accountantscontrole IFV)
 
 Gelet op [artikel 6, tweede lid, van het Besluit rijksbijdragen IFV](https://wetten.overheid.nl/jci1.3:c:BWBR0032156&artikel=6);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling en de daarbij behorende bijlage wordt verstaan onder:
 
@@ -22,15 +48,15 @@ In deze regeling en de daarbij behorende bijlage wordt verstaan onder:
 
 - b. **Instituut:** het Instituut Fysieke Veiligheid
 
-#### Artikel 2
+##### Artikel 2
 
 De accountant verricht zijn werkzaamheden met inachtneming van hetgeen is bepaald in het Controleprotocol dat als bijlage bij deze regeling is gevoegd.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling treedt in werking met ingang van 1 januari 2013.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling wordt aangehaald als: Regeling accountantscontrole IFV.
 

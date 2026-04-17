@@ -1,60 +1,86 @@
 ---
-title: "Eindejaarsregeling 2022"
+title: "Regeling van de Staatssecretaris van Financiën van 2 december 2022 tot wijziging van onder meer enige uitvoeringsregelingen op het gebied van belastingen en toeslagen (Eindejaarsregeling 2022)"
 identifier: "BWBR0047713"
-categorie: "Overig"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047713"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047713"
+soort: "ministeriele-regeling"
+stam_id: "16616393"
+version_id: "29142972"
+internal_id: "C41412801"
+label_id: "16535274"
+dtd_version: "2.0"
+original_entry_into_force: "2023-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047713/2024-01-01/0"
+intitule_bron: "Stcrt.2022-33377"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-12-02"
+intitule_published: "2022-12-27"
+intitule_in_force: "2022-12-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-33377"
+original_signed_date: "2022-12-02"
+original_published_date: "2022-12-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-33377"
+entry_into_force_date: "2023-01-01"
+jci_1_3: "jci1.3:c:BWBR0047713&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0047713&g=2024-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Eindejaarsregeling 2022"
+signed_date: "2022-12-02"
+entry_into_force: "2023-01-01"
 ---
-
 # Regeling van de Staatssecretaris van Financiën van 2 december 2022 tot wijziging van onder meer enige uitvoeringsregelingen op het gebied van belastingen en toeslagen (Eindejaarsregeling 2022)
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Uitvoeringsregeling inkomstenbelasting 2001.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Uitvoeringsregeling inkomstenbelasting 2001.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Uitvoeringsregeling willekeurige afschrijving 2001.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Uitvoeringsregeling loonbelasting 2011.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Regeling loonbelasting- en premietabellen 1990.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Regeling gegevensuitvraag loonaangifte.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Uitvoeringsbeschikking vennootschapsbelasting 1971.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Regeling laagbelastende staten en niet-coöperatieve rechtsgebieden voor belastingdoeleinden.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Uitvoeringsbeschikking dividendbelasting 1965.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Uitvoeringsregeling bronbelasting 2021.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt de Uitvoeringsregeling schenk- en erfbelasting.
 
-#### Artikel XII
+##### Artikel XII
 
 [Artikel 5 van de Uitvoeringsregeling schenk- en erfbelasting](https://wetten.overheid.nl/jci1.3:c:BWBR0027018&artikel=5) zoals dat luidde op 31 december 2022 blijft van toepassing op een schenking als bedoeld in [artikel 33a, eerste of tweede lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33a) zoals dat luidde op 31 december 2022:
 
@@ -62,35 +88,35 @@ Wijzigt de Uitvoeringsregeling schenk- en erfbelasting.
 
 - b. waarvoor een beroep op de verhoogde vrijstelling, bedoeld in [artikel 33, onderdeel 5°, onder c, of onderdeel 7°, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33), zoals dat luidde op 31 december 2022 is gedaan.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt de Uitvoeringsbeschikking omzetbelasting 1968.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt de Uitvoeringsregeling belasting van personenauto's en motorrijwielen 1992.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt de Uitvoeringsregeling motorrijtuigenbelasting 1994.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt de Algemene douaneregeling.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Wijzigt de Uitvoeringsregeling accijns.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Wijzigt de Uitvoeringsregeling accijns.
 
-#### Artikel XIX
+##### Artikel XIX
 
 Wijzigt de Uitvoeringsregeling accijns.
 
-#### Artikel XX
+##### Artikel XX
 
 In de periode van 1 juli 2023 tot en met 17 januari 2024 is toegestaan dat halfzware olie of gasolie die wordt ingevoerd of uitgeslagen uit een accijnsgoederenplaats een mengsel bevat van Solvent Yellow 124 en ACCUTRACE™ PLUS met butoxybenzeen als herkenningsmiddelen als bedoeld in [artikel 1a, derde lid, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=1a). De verhouding per 1.000 L is:
 
@@ -98,55 +124,55 @@ In de periode van 1 juli 2023 tot en met 17 januari 2024 is toegestaan dat halfz
 
 - –. voor elke gram ACCUTRACE™ PLUS, waarbij geldt dat 1 g ACCUTRACE™ PLUS overeenkomt met ten minste 0,75 g butoxybenzeen, minder dan de voorgeschreven hoeveelheid, genoemd in artikel 13 van de Uitvoeringsregeling accijns: ten minste 0,5 g Solvent Yellow 124.
 
-#### Artikel XXI
+##### Artikel XXI
 
 Wijzigt de Uitvoeringsregeling accijns.
 
-#### Artikel XXII
+##### Artikel XXII
 
 Wijzigt de Uitvoeringsregeling accijns.
 
-#### Artikel XXIII
+##### Artikel XXIII
 
 Wijzigt de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994.
 
-#### Artikel XXIV
+##### Artikel XXIV
 
 [Artikel 42a van de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&artikel=42a) zoals dat luidde op 30 mei 2021 blijft van toepassing op goederen die vóór 1 januari 2023 zijn besteld en zijn gefactureerd met toepassing van het tarief van nihil.
 
-#### Artikel XXV
+##### Artikel XXV
 
 Wijzigt de Uitvoeringsregeling Belastingdienst 2003.
 
-#### Artikel XXVI
+##### Artikel XXVI
 
 Wijzigt de Regeling aanwijzing rechtsgebieden Common Reporting Standard.
 
-#### Artikel XXVII
+##### Artikel XXVII
 
 Wijzigt de Uitvoeringsregeling Invorderingswet 1990.
 
-#### Artikel XXVIII
+##### Artikel XXVIII
 
 Wijzigt de Uitvoeringsregeling inleners-, keten- enopdrachtgeversaansprakelijkheid 2004.
 
-#### Artikel XXIX
+##### Artikel XXIX
 
 Wijzigt de Uitvoeringsregeling verbruiksbelasting van alcoholvrije dranken.
 
-#### Artikel XXX
+##### Artikel XXX
 
 Wijzigt de Uitvoeringsregeling Belastingwet BES.
 
-#### Artikel XXXI
+##### Artikel XXXI
 
 Wijzigt de Regeling werkkleding 2001 BES.
 
-#### Artikel XXXII
+##### Artikel XXXII
 
 Wijzigt de Uitvoeringsregeling Douane- en Accijnswet BES.
 
-#### Artikel XXXIII
+##### Artikel XXXIII
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2023, met dien verstande dat:
 

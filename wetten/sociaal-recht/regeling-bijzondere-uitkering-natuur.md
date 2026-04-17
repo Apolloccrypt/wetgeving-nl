@@ -1,13 +1,39 @@
 ---
-title: "Regeling bijzondere uitkering natuur"
+title: "Regeling van de Staatssecretaris van Economische Zaken van 11 september 2013, nr. 13030742, houdende regels inzake een bijzondere uitkering voor projecten ter bevordering van de natuurbescherming aan de openbare lichamen Bonaire, Sint Eustatius en Saba (Regeling bijzondere uitkering natuur 2013–2017)"
 identifier: "BWBR0033875"
-categorie: "Sociaal recht"
-publicatiedatum: 2017-04-15
-laatste_update: 2017-04-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033875"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2017-04-15"
+last_updated: "2017-04-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033875"
+soort: "ministeriele-regeling-BES"
+stam_id: "12359983"
+version_id: "20744232"
+internal_id: "C29801471"
+label_id: "12331094"
+dtd_version: "2.0"
+original_entry_into_force: "2013-09-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033875/2017-04-15/0"
+intitule_bron: "Stcrt.2013-25987"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-09-11"
+intitule_published: "2013-09-19"
+intitule_in_force: "2013-09-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-25987"
+original_signed_date: "2013-09-11"
+original_published_date: "2013-09-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-25987"
+entry_into_force_date: "2013-09-20"
+jci_1_3: "jci1.3:c:BWBR0033875&z=2017-04-15&g=2017-04-15"
+jci_1_0: "1.0:c:BWBR0033875&g=2017-04-15"
+citeertitel_status: "officieel"
+short_title: "Regeling bijzondere uitkering natuur"
+signed_date: "2013-09-11"
+entry_into_force: "2013-09-20"
 ---
-
 # Regeling van de Staatssecretaris van Economische Zaken van 11 september 2013, nr. 13030742, houdende regels inzake een bijzondere uitkering voor projecten ter bevordering van de natuurbescherming aan de openbare lichamen Bonaire, Sint Eustatius en Saba (Regeling bijzondere uitkering natuur 2013–2017)
 
 Handelende in overeenstemming met de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Financiën;
@@ -16,7 +42,7 @@ Gelet op [artikel 92, vijfde lid, van de Wet financiën openbare lichamen Bonair
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -26,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 - –. **wet:** [Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151).
 
-#### Artikel 2. Doel bijzondere uitkering natuur
+##### Artikel 2. Doel bijzondere uitkering natuur
 
 De minister verstrekt een bijzondere uitkering natuur aan de openbare lichamen ten behoeve van de uitvoering van projecten gericht op het bevorderen van:
 
@@ -36,7 +62,7 @@ De minister verstrekt een bijzondere uitkering natuur aan de openbare lichamen t
 
 - –. de synergie bij het duurzaam gebruik van natuur in combinatie met landbouw en toerisme.
 
-#### Artikel 3. Totale bijdrage
+##### Artikel 3. Totale bijdrage
 
 1. De bijzondere uitkering natuur bedraagt maximaal $ 9.800.000,00.
 
@@ -47,7 +73,7 @@ De minister verstrekt een bijzondere uitkering natuur aan de openbare lichamen t
 | Sint Eustatius: | $ 2.488.240,00; |
 | Saba: | $ 2.095.360,00. |
 
-#### Artikel 4. Advies
+##### Artikel 4. Advies
 
 1. Er is een adviescommissie bijzondere uitkering natuur.
 
@@ -59,7 +85,7 @@ De minister verstrekt een bijzondere uitkering natuur aan de openbare lichamen t
 
 5. De voorzitter en leden van de adviescommissie ontvangen per vergadering een vergoeding als bedoeld in [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2).
 
-#### Artikel 5. Aanvragen
+##### Artikel 5. Aanvragen
 
 1. De bestuurscolleges van de openbare lichamen kunnen aanvragen bij de minister indienen voor de verlening van middelen van de bijzondere uitkering natuur voor een of meer projecten.
 
@@ -67,7 +93,7 @@ De minister verstrekt een bijzondere uitkering natuur aan de openbare lichamen t
 
 3. Een aanvraag gaat vergezeld van een projectplan, waarin ten minste is opgenomen een beschrijving van het project, informatie waaruit blijkt in hoeverre het project bijdraagt aan de doelstellingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033875&artikel=2&z=2017-04-15&g=2017-04-15), een sluitende begroting voor het project en de verwachte realisatietermijn, met een beschrijving van het tijdpad en mijlpalen indien die termijn langer dan een jaar is.
 
-#### Artikel 6. Beslissing op projectvoorstellen
+##### Artikel 6. Beslissing op projectvoorstellen
 
 De minister, gehoord de adviescommissie bijzondere uitkering natuur, besluit om middelen van de bijzondere uitkering natuur voor een project te verlenen, indien is voldaan aan elk van de volgende criteria:
 
@@ -85,7 +111,7 @@ De minister, gehoord de adviescommissie bijzondere uitkering natuur, besluit om 
 
 - d. de maximale bedragen, genoemd in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033875&artikel=3&z=2017-04-15&g=2017-04-15), worden niet overschreden als gevolg van het verlenen van de middelen van de bijzondere uitkering natuur voor dit project.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De minister kan voorschriften aan de verlening van middelen van de bijzondere uitkering natuur verbinden.
 
@@ -97,15 +123,15 @@ De minister, gehoord de adviescommissie bijzondere uitkering natuur, besluit om 
 
 3. De openbare lichamen verstrekken desgevraagd aan de minister de gegevens die hij voor de statistiek en de beleidsvorming met betrekking tot deze regeling nodig heeft. De gegevens worden kosteloos verstrekt.
 
-#### Artikel 8. Besteding
+##### Artikel 8. Besteding
 
 De openbare lichamen besteden de middelen van de bijzondere uitkering natuur uitsluitend aan het project, waarvoor de minister de middelen heeft verleend.
 
-#### Artikel 9. Verantwoording
+##### Artikel 9. Verantwoording
 
 Zodra aannemelijk is dat een project waarvoor middelen uit de bijzondere uitkering natuur zijn of worden verleend, niet, niet tijdig of niet geheel zal worden uitgevoerd of dat niet, niet tijdig of niet geheel aan de aan de verlening verbonden voorschriften zal worden voldaan, doet het desbetreffende bestuurscollege daarvan onverwijld melding aan de minister. Het gebruikt daarvoor een door de minister ter beschikking gesteld format.
 
-#### Artikel 10. Betaling
+##### Artikel 10. Betaling
 
 1. De minister verstrekt aan de openbare lichamen per kwartaal een voorschot op de verleende middelen van de bijzondere uitkering natuur.
 
@@ -121,7 +147,7 @@ Zodra aannemelijk is dat een project waarvoor middelen uit de bijzondere uitkeri
 
 - c. verleende voorschotten zijn besteed aan een ander doel dan waarvoor het voorschot is verleend.
 
-#### Artikel 11. Intrekken besluit tot verlenen
+##### Artikel 11. Intrekken besluit tot verlenen
 
 1. Zolang de bijzondere uitkering natuur nog niet is vastgesteld, kan de minister zijn besluit, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033875&artikel=6&z=2017-04-15&g=2017-04-15), ten aanzien van een project wijzigen of intrekken, indien:
 
@@ -137,17 +163,17 @@ Zodra aannemelijk is dat een project waarvoor middelen uit de bijzondere uitkeri
 
 2. De wijziging of intrekking werkt terug tot en met het tijdstip waarop een omstandigheid of feit als bedoeld in het eerste lid, die aanleiding is om tot intrekking over te gaan, zich heeft voorgedaan, tenzij bij het besluit tot wijziging of intrekking anders is bepaald.
 
-#### Artikel 12. Vaststelling
+##### Artikel 12. Vaststelling
 
 1. De minister stelt de bijzondere uitkering natuur voor een openbaar lichaam vast op het totale bedrag aan middelen die zijn verleend voor projecten, verminderd met de voorschotten die onverschuldigd zijn betaald als gevolg van een besluit als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033875&artikel=11&z=2017-04-15&g=2017-04-15).
 
 2. Onverschuldigd betaalde bedragen aan voorschotten kunnen door de minister worden teruggevorderd, voor zover na de dag waarop de bijzondere uitkering natuur is vastgesteld, nog geen vijf jaren zijn verstreken.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling bijzondere uitkering natuur.
 
-#### Artikel 14. Inwerkingtreding
+##### Artikel 14. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 

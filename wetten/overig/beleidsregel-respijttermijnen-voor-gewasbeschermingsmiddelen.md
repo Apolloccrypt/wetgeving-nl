@@ -1,20 +1,42 @@
 ---
 title: "Beleidsregel respijttermijnen voor gewasbeschermingsmiddelen"
 identifier: "BWBR0052055"
-categorie: "Overig"
-publicatiedatum: 2025-12-30
-laatste_update: 2025-12-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052055"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-12-30"
+last_updated: "2025-12-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052055"
+soort: "zbo"
+stam_id: "17700383"
+version_id: "31234632"
+internal_id: "C44672711"
+label_id: "17599224"
+dtd_version: "2.0"
+original_entry_into_force: "2025-12-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052055/2025-12-30/0"
+intitule_bron: "Stcrt.2025-44463"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2025-12-29"
+intitule_in_force: "2025-12-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-44463"
+original_published_date: "2025-12-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-44463"
+entry_into_force_date: "2025-12-30"
+jci_1_3: "jci1.3:c:BWBR0052055&z=2025-12-30&g=2025-12-30"
+jci_1_0: "1.0:c:BWBR0052055&g=2025-12-30"
+citeertitel_status: "officieel"
+entry_into_force: "2025-12-30"
 ---
-
 # Beleidsregel respijttermijnen voor gewasbeschermingsmiddelen
 
 gelet op het bepaalde in artikel 46, van [Verordening (EG) nr. 1107/2009](32009R1107) en [artikel 4:81, eerste lid van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
 
 Besluit:
 
-#### Artikel 1. Begrippen
+##### Artikel 1. Begrippen
 
 Voor de toepassing van deze beleidsregel wordt verstaan onder:
 
@@ -34,11 +56,11 @@ Voor de toepassing van deze beleidsregel wordt verstaan onder:
 
 - h. **Verordening (EG) nr. 1107/2009:** [Verordening (EG) nr. 1107/2009](32009R1107) van het Europees Parlement en de Raad van 21 oktober 2009 betreffende het op de markt brengen van gewasbeschermingsmiddelen en tot intrekking van de [richtlijnen 97/117/EEG](31997L0117) en [91/414/EEG](31991L0414) van de Raad (PbEU 2009, L 309).
 
-#### Artikel 2. Reikwijdte
+##### Artikel 2. Reikwijdte
 
 Deze beleidsregel is van toepassing op besluiten tot (gedeeltelijke) intrekking, wijziging of (gedeeltelijke) niet-verlenging van de toelating van een in Nederland toegelaten gewasbeschermingsmiddel op grond van [Verordening (EG) nr. 1107/2009](32009R1107).
 
-#### Artikel 3. Werkwijze voor vaststelling van een respijttermijn
+##### Artikel 3. Werkwijze voor vaststelling van een respijttermijn
 
 De werkwijze voor vaststelling van een respijttermijn als bedoeld in artikel 46 van [Verordening (EG) nr. 1107/2009](32009R1107) is als volgt bepaald:
 
@@ -64,7 +86,7 @@ De werkwijze voor vaststelling van een respijttermijn als bedoeld in artikel 46 
 
 - 6. Indien de vergunning voor het in de handel brengen en gebruiken van de toelating van het moedermiddel wordt gewijzigd of (gedeeltelijk) wordt ingetrokken, volgen de afgeleide toelatingen de toelating van het moedermiddel. Het Ctgb kan voor deze afgeleide toelatingen een respijttermijn vaststellen overeenkomstig dit artikel.
 
-#### Artikel 4. Inwerkingtreding
+##### Artikel 4. Inwerkingtreding
 
 1. Deze beleidsregel zal met toelichting in de Staatscourant worden geplaatst.
 
@@ -72,6 +94,6 @@ De werkwijze voor vaststelling van een respijttermijn als bedoeld in artikel 46 
 
 3. Het [besluit beleidsregel respijttermijnen voor gewasbeschermingsmiddelen van 26 augustus 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038443) wordt ingetrokken.
 
-#### Artikel 5. Citeertitel
+##### Artikel 5. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel respijttermijnen voor gewasbeschermingsmiddelen.

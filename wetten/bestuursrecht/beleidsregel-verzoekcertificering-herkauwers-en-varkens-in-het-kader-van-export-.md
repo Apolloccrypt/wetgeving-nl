@@ -1,18 +1,44 @@
 ---
-title: "Beleidsregel verzoekcertificering herkauwers en varkens in het kader van export naar derde landen"
+title: "Beleidsregel van de Inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister van Landbouw, Natuur en Voedselkwaliteit van 17 april 2024, over de verzoekcertificering van herkauwers en varkens in het kader van export naar derde landen"
 identifier: "BWBR0049646"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-05-02
-laatste_update: 2024-05-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049646"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2024-05-02"
+last_updated: "2024-05-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049646"
+soort: "beleidsregel"
+stam_id: "17090143"
+version_id: "30077742"
+internal_id: "C43101731"
+label_id: "16998884"
+dtd_version: "2.0"
+original_entry_into_force: "2024-05-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049646/2024-05-02/0"
+intitule_bron: "Stcrt.2024-13688"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-04-17"
+intitule_published: "2024-05-01"
+intitule_in_force: "2024-05-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-13688"
+original_signed_date: "2024-04-17"
+original_published_date: "2024-05-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-13688"
+entry_into_force_date: "2024-05-02"
+jci_1_3: "jci1.3:c:BWBR0049646&z=2024-05-02&g=2024-05-02"
+jci_1_0: "1.0:c:BWBR0049646&g=2024-05-02"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel verzoekcertificering herkauwers en varkens in het kader van export naar derde landen"
+signed_date: "2024-04-17"
+entry_into_force: "2024-05-02"
 ---
-
 # Beleidsregel van de Inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister van Landbouw, Natuur en Voedselkwaliteit van 17 april 2024, over de verzoekcertificering van herkauwers en varkens in het kader van export naar derde landen
 
 Gelet op [artikel 4:5, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) en [4:81, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81), artikel 87, onder b, en 88, eerste lid, van [verordening (EU) 2017/625](32017R0625), [artikel 6.3, tweede lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=6.3) en [artikelen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&artikel=2a) en [6, zevende lid, van het Besluit mandaat, volmacht en machtiging LNV 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&artikel=6);Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -40,11 +66,11 @@ In deze beleidsregel wordt verstaan onder:
 
 - –. **Verzoekcertificering:** proces als bedoeld in artikel 87, onderdeel b, van [Verordening 2017/625](32525R2017), waarbij de NVWA beoordeelt of een zending herkauwers of varkens voldoet aan de eisen die derde landen aan de export stellen.
 
-#### Artikel 2. Algemeen
+##### Artikel 2. Algemeen
 
 Een aanvraag van een verzoekcertificaat voor de export van een zending herkauwers of varkens wordt door de NVWA alleen in behandeling genomen indien is voldaan aan de in deze beleidsregel opgenomen criteria en het desbetreffende aanvraagformulier, wordt ingediend. Het hiervoor genoemde aanvraagformulier is te vinden via [www.nvwa.nl/onderwerpen/vraag-een-veterinaire-keuring-aan](http://www.nvwa.nl/onderwerpen/vraag-een-veterinaire-keuring-aan).
 
-#### Artikel 3. Verzoekcertificering herkauwers en/of varkens naar derde landen
+##### Artikel 3. Verzoekcertificering herkauwers en/of varkens naar derde landen
 
 1. Het proces van verzoekcertificering bestaat uit de volgende stappen:
 
@@ -54,7 +80,7 @@ Een aanvraag van een verzoekcertificaat voor de export van een zending herkauwer
 
 2. De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049646&artikel=4&z=2024-05-02&g=2024-05-02) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0049646&artikel=5&z=2024-05-02&g=2024-05-02) gelden voor de totstandkoming en het gebruik van exclusieve en publieke verzoekcertificaten.
 
-#### Artikel 4. Totstandkoming modelverzoekcertificaten
+##### Artikel 4. Totstandkoming modelverzoekcertificaten
 
 1. De NVWA stelt door de aanvrager aangeleverde modelverzoekcertificaten beschikbaar in e-CertNL.
 
@@ -66,7 +92,7 @@ Een aanvraag van een verzoekcertificaat voor de export van een zending herkauwer
 
 3. De indiener van het modelverzoekcertificaat toont aan dat de veterinaire autoriteiten van het ontvangende land akkoord zijn. Dit bewijs wordt schriftelijk geleverd.
 
-#### Artikel 5. Verzoek exportcertificering
+##### Artikel 5. Verzoek exportcertificering
 
 1. Een exporteur die een zending herkauwers of varkens naar een derde land wil exporteren, vraagt een verzoekcertificaat aan. Hiertoe gebruikt hij het modelverzoekcertificaat dat overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049646&artikel=4&z=2024-05-02&g=2024-05-02) in e-CertNL beschikbaar is gesteld.
 
@@ -90,11 +116,11 @@ Een aanvraag van een verzoekcertificaat voor de export van een zending herkauwer
 
 3. Het niet voldoen aan een of meerdere criteria leidt ertoe dat geen verzoekcertificaat wordt afgegeven.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze wordt geplaatst.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel verzoekcertificering herkauwers en varkens in het kader van export naar derde landen.
 

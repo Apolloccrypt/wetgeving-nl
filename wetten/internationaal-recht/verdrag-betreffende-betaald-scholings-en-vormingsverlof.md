@@ -1,13 +1,35 @@
 ---
 title: "Verdrag betreffende betaald scholings- en vormingsverlof"
 identifier: "BWBV0003695"
-categorie: "Internationaal recht"
-publicatiedatum: 1977-09-14
-laatste_update: 1977-09-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003695"
+country: "nl"
+rank: "verdrag"
+publication_date: "1977-09-14"
+last_updated: "1977-09-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003695"
+soort: "verdrag"
+stam_id: "10003654413"
+version_id: "10003715032"
+internal_id: "C10006982691"
+label_id: "10003639994"
+dtd_version: "2.0"
+original_entry_into_force: "1977-09-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003695/1977-09-14/0"
+intitule_bron: "Trb.1975-104"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1975-09-29"
+intitule_in_force: "1976-11-01"
+intitule_status: "goed"
+original_publication: "Trb.1975-104"
+original_published_date: "1975-09-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1975-104"
+entry_into_force_date: "1977-09-14"
+jci_1_3: "jci1.3:c:BWBV0003695&z=1977-09-14&g=1977-09-14"
+jci_1_0: "1.0:c:BWBV0003695&g=1977-09-14"
+citeertitel_status: "redactioneel"
+entry_into_force: "1977-09-14"
 ---
-
 # Verdrag betreffende betaald scholings- en vormingsverlof
 
 De Algemene Conferentie van de Internationale Arbeidsorganisatie,
@@ -30,11 +52,11 @@ Besloten hebbende dat deze voorstellen de vorm van een internationaal verdrag zu
 
 neemt heden, de vierentwintigste juni 1974, het volgende verdrag aan dat kan worden aangehaald als „Verdrag betreffende betaald scholings- en vormingsverlof”, 1974:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit Verdrag betekent de uitdrukking „betaald scholings- en vormingsverlof” een verlof dat aan een werknemer wordt verleend ten behoeve van scholing of vorming, voor een bepaalde periode, gedurende de werktijd, waarbij passende uitkeringen worden toegekend.
 
-#### Artikel 2
+##### Artikel 2
 
 Ieder Lid dient een beleid op te stellen en toe te passen dat erop is gericht, door aan nationale omstandigheden en gebruiken aangepaste methoden en zo nodig in verschillende fasen, te bevorderen dat betaald scholings- en vormingsverlof wordt verleend voor:
 
@@ -44,7 +66,7 @@ Ieder Lid dient een beleid op te stellen en toe te passen dat erop is gericht, d
 
 - c). vorming met betrekking tot vakbondsactiviteiten.
 
-#### Artikel 3
+##### Artikel 3
 
 Het in het vorige artikel bedoelde beleid dient erop gericht te zijn om, zo nodig op verschillende wijzen, bij te dragen aan:
 
@@ -56,27 +78,27 @@ Het in het vorige artikel bedoelde beleid dient erop gericht te zijn om, zo nodi
 
 - d). in het algemeen de bevordering van een passende permanente vorming en opleiding waardoor de werknemers worden geholpen zich aan te passen aan de eisen des tijds.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit beleid dient rekening te houden met het stadium van ontwikkeling en met de bijzondere behoeften van het land en van de verschillende bedrijfssectoren, alsmede te worden gecoördineerd met het algemene beleid op het gebied van werkgelegenheid, vorming, opleiding en arbeidsduur en in voorkomende gevallen rekening te houden met seizoenschommelingen in de duur of de omvang van de arbeid.
 
-#### Artikel 5
+##### Artikel 5
 
 De verlening van betaald scholings- en vormingsverlof kan worden geregeld in de nationale wetgeving, collectieve arbeidsovereenkomsten, arbitrale uitspraken of op iedere andere wijze, overeenkomstig de nationale gebruiken.
 
-#### Artikel 6
+##### Artikel 6
 
 De openbare autoriteiten, werkgevers- en werknemersorganisaties, instellingen of organen die vorming en opleiding verzorgen, dienen overeenkomstig nationale omstandigheden en gebruiken te worden betrokken bij de uitwerking en de toepassing van het beleid dat is gericht op bevordering van betaald scholings- en vormingsverlof.
 
-#### Artikel 7
+##### Artikel 7
 
 Regelingen met betrekking tot betaald scholings- en vormingsverlof worden regelmatig, op passende wijze en overeenkomstig de nationale gebruiken gefinancierd.
 
-#### Artikel 8
+##### Artikel 8
 
 Betaald scholings- en vormingsverlof mag werknemers niet worden geweigerd op grond van hun ras, kleur, geslacht, godsdienst, politieke overtuiging, nationale of maatschappelijke afkomst.
 
-#### Artikel 9
+##### Artikel 9
 
 Indien nodig moeten ten aanzien van betaald scholings- en vormingsverlof bijzondere bepalingen worden opgesteld:
 
@@ -84,7 +106,7 @@ Indien nodig moeten ten aanzien van betaald scholings- en vormingsverlof bijzond
 
 - b). wanneer bijzondere categorieën ondernemingen, zoals kleine ondernemingen of seizoengebonden ondernemingen, moeilijkheden ondervinden bij het toepassen van de algemene regelingen, met dien verstande dat de werknemers in die ondernemingen niet mogen worden uitgesloten van betaald scholings- en vormingsverlof.
 
-#### Artikel 10
+##### Artikel 10
 
 De voorwaarden waaraan de werknemers moeten voldoen voor het verkrijgen van betaald scholings- en vormingsverlof kunnen verschillen al naar gelang dit verlof wordt verleend voor:
 
@@ -94,15 +116,15 @@ De voorwaarden waaraan de werknemers moeten voldoen voor het verkrijgen van beta
 
 - c). vorming met betrekking tot vakbondsactiviteiten.
 
-#### Artikel 11
+##### Artikel 11
 
 Voor het vaststellen van het recht op sociale uitkeringen en van andere uit de arbeidsverhouding voortvloeiende rechten wordt de periode van betaald scholings- en vormingsverlof gelijkgesteld met een periode van verrichte arbeid, overeenkomstig het bepaalde in de nationale wetgeving, collectieve arbeidsovereenkomsten, arbitrale uitspraken of op iedere andere wijze overeenkomstig nationale gebruiken.
 
-#### Artikel 12
+##### Artikel 12
 
 De officiële bekrachtigingen van dit Verdrag worden aan de Directeur-Generaal van het Internationaal Arbeidsbureau medegedeeld en door hem geregistreerd.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Dit Verdrag is slechts bindend voor de Leden van de Internationale Arbeidsorganisatie die hun bekrachtigingen bij de Directeur-Generaal hebben doen registreren.
 
@@ -110,27 +132,27 @@ De officiële bekrachtigingen van dit Verdrag worden aan de Directeur-Generaal v
 
 3. Vervolgens treedt dit Verdrag voor ieder Lid in werking twaalf maanden na de datum waarop zijn bekrachtiging is geregistreerd.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Ieder Lid dat dit Verdrag heeft bekrachtigd, kan het opzeggen na afloop van een termijn van tien jaren na de datum van zijn inwerkingtreding door middel van een aan de Directeur-Generaal van het Internationaal Arbeidsbureau gerichte en door deze geregistreerde verklaring. De opzegging wordt eerst van kracht een jaar nadat zij is geregistreerd.
 
 2. Ieder Lid dat dit Verdrag heeft bekrachtigd en niet binnen een jaar na afloop van de termijn van tien jaren als bedoeld in het vorige lid, gebruik maakt van de bevoegdheid tot opzegging voorzien in dit artikel, is voor een nieuwe termijn van tien jaren gebonden en kan daarna dit Verdrag opzeggen na afloop van elke termijn van tien jaren onder de voorwaarden voorzien in dit artikel.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De Directeur-Generaal van het Internationaal Arbeidsbureau stelt alle Leden van de Internationale Arbeidsorganisatie in kennis van de registratie van alle bekrachtigingen en opzeggingen die hem door de Leden van de Organisatie zijn medegedeeld.
 
 2. Bij kennisgeving aan de Leden van de Organisatie, van de tweede hem medegedeelde bekrachtiging vestigt de Directeur-Generaal de aandacht van de Leden van de Organisatie op de datum waarop dit Verdrag in werking treedt.
 
-#### Artikel 16
+##### Artikel 16
 
 De Directeur-Generaal van het Internationaal Arbeidsbureau doet van de volledige bijzonderheden omtrent alle bekrachtigingen en alle verklaringen van opzegging welke hij heeft geregistreerd overeenkomstig de bepalingen van de voorgaande artikelen, mededeling aan de Secretaris-Generaal van de Verenigde Naties ter registratie overeenkomstig [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-#### Artikel 17
+##### Artikel 17
 
 Telkens wanneer de Raad van Beheer van het Internationaal Arbeidsbureau zulks nodig oordeelt, brengt deze Raad aan de Algemene Conferentie verslag uit over de toepassing van dit Verdrag en onderzoekt of het wenselijk is de gehele of gedeeltelijke herziening ervan op de agenda van de Conferentie te plaatsen.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Indien de Conferentie een nieuw verdrag aanneemt, houdende gehele of gedeeltelijke herziening van dit Verdrag, zal, tenzij het nieuwe verdrag anders bepaalt:
 
@@ -140,7 +162,7 @@ Telkens wanneer de Raad van Beheer van het Internationaal Arbeidsbureau zulks no
 
 2. Dit Verdrag blijft echter in elk geval naar vorm en inhoud van kracht voor de Leden die het bekrachtigd hebben en die het nieuwe verdrag, houdende herziening, niet bekrachtigen.
 
-#### Artikel 19
+##### Artikel 19
 
 De Engelse en de Franse tekst van dit Verdrag zijn gelijkelijk authentiek.
 

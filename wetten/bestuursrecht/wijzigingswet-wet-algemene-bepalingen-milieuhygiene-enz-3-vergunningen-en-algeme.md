@@ -1,14 +1,38 @@
 ---
-title: "Wijzigingswet Wet algemene bepalingen milieuhygiëne, enz. (3) (vergunningen en algemene regels voor inrichtingen; procedures voor vergunningen en ontheffingen; handhaving)"
+title: "Wet van 2 juli 1992, tot uitbreiding en wijziging van de Wet algemene bepalingen milieuhygiëne en daarmee samenhangende wijzigingen van andere wetten (vergunningen en algemene regels voor inrichtingen; procedures voor vergunningen en ontheffingen; handhaving)"
 identifier: "BWBR0005583"
-categorie: "Bestuursrecht"
-publicatiedatum: 1994-01-01
-laatste_update: 1994-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005583"
+country: "nl"
+rank: "wet"
+publication_date: "1994-01-01"
+last_updated: "1994-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005583"
+soort: "wet"
+stam_id: "515493"
+version_id: "756782"
+internal_id: "C756781"
+label_id: "501034"
+dtd_version: "2.0"
+original_entry_into_force: "1993-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005583/1994-01-01/0"
+intitule_bron: "Stb.1992-414"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-07-02"
+intitule_in_force: "1993-01-29"
+intitule_status: "goed"
+original_publication: "Stb.1992-414"
+original_signed_date: "1992-07-02"
+original_effect: "nieuwe-regeling"
+original_dossier: "21087"
+entry_into_force_date: "1993-03-01"
+jci_1_3: "jci1.3:c:BWBR0005583&z=1994-01-01&g=1994-01-01"
+jci_1_0: "1.0:c:BWBR0005583&g=1994-01-01"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet Wet algemene bepalingen milieuhygiëne, enz. (3) (vergunningen en algemene regels voor inrichtingen; procedures voor vergunningen en ontheffingen; handhaving)"
+signed_date: "1992-07-02"
+entry_into_force: "1993-03-01"
 ---
-
-# Wijzigingswet Wet algemene bepalingen milieuhygiëne, enz. (3) (vergunningen en algemene regels voor inrichtingen; procedures voor vergunningen en ontheffingen; handhaving)
+# Wet van 2 juli 1992, tot uitbreiding en wijziging van de Wet algemene bepalingen milieuhygiëne en daarmee samenhangende wijzigingen van andere wetten (vergunningen en algemene regels voor inrichtingen; procedures voor vergunningen en ontheffingen; handhaving)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -20,91 +44,91 @@ dat het wenselijk is daarbij tevens verdere uitvoering te geven aan de met die o
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel II
+##### Artikel II
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel III
+##### Artikel III
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel IV
+##### Artikel IV
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel V
+##### Artikel V
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel VI
+##### Artikel VI
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel VII
+##### Artikel VII
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel IX
+##### Artikel IX
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel X
+##### Artikel X
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XI
+##### Artikel XI
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XII
+##### Artikel XII
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XV
+##### Artikel XV
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XIX
+##### Artikel XIX
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XX
+##### Artikel XX
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XXI
+##### Artikel XXI
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XXII
+##### Artikel XXII
 
 1. Een vergunning voor een inrichting als aangewezen krachtens [artikel 1, derde lid, van de Wet milieubeheer](onbekend), die is verleend krachtens de Afvalstoffenwet, de [Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227), de [Wet inzake de luchtverontreiniging](https://wetten.overheid.nl/jci1.3:c:BWBR0002731), de Wet chemische afvalstoffen, de Hinderwet of het [Mijnreglement 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002474) voor het tijdstip waarop [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0005583&artikel=I&z=1994-01-01&g=1994-01-01) van deze wet in werking treedt, dan wel nadat tijdstip met toepassing van het vierde lid van dit artikel, wordt gelijkgesteld met een vergunning, verleend krachtens de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245). Een inrichting waarvoor de vergunning met toepassing van artikel 4, vijfde lid, onder **c**, van de Hinderwet door Ons was verleend, en die niet behoort tot een categorie die is aangewezen krachtens [artikel 7, tweede lid, van de Wet milieubeheer](onbekend), wordt gelijkgesteld met een inrichting als aangewezen krachtens artikel 7, vierde lid, van die wet, tenzij Onze Minister in overeenstemming met Onze betrokken Minister anders bepaalt.
 
@@ -142,7 +166,7 @@ Bevat wijzigingen in andere regelgeving.
 
 13. Indien de bepalingen van gemeentelijke of provinciale verorderingen, vastgesteld krachtens de [artikelen 272 van de gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=272), onderscheidenlijk 148 van [Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645) met betrekking tot leges of andere rechten terzake van het aanvragen of verlenen van vergunningen of ontheffingen voor inrichtingen als aangewezen krachtens [artikel 1, derde lid, van de Wet milieubeheer](onbekend), op het tijdstip waarop [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0005583&artikel=I&z=1994-01-01&g=1994-01-01) van deze wet in werking treedt, niet zijn aangepast aan de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245), worden zodanige inrichtingen voor de toepassing van die bepalingen gedurende ten hoogste een jaar na dat tijdstip gelijkgesteld met inrichtingen als aangewezen krachtens het voor dat tijdstip geldende recht.
 
-#### Artikel XXIII
+##### Artikel XXIII
 
 1. De tekst van de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245) wordt ingedeeld in de volgende hoofdstukken: Hoofdstuk 1. Algemeen Hoofdstuk 2. Adviesorganen Hoofdstuk 3. Internationale zaken Hoofdstuk 4. Plannen Hoofdstuk 5. Milieukwaliteitseisen Hoofdstuk 6. Milieuzonering Hoofdstuk 7. Milieu-effectrapportage Hoofdstuk 8. Inrichtingen Hoofdstuk 9. Stoffen en produkten Hoofdstuk 10. Afvalstoffen Hoofdstuk 11. Andere handelingen Hoofdstuk 12. Meet- en registratieverplichtingen Hoofdstuk 13. Procedures voor vergunningen en ontheffingen Hoofdstuk 14. Coördinatie Hoofdstuk 15. Financiële bepalingen Hoofdstuk 16. Financiële zekerheid Hoofdstuk 17. Maatregelen in bijzondere omstandigheden Hoofdstuk 18. Handhaving Hoofdstuk 19. Bepalingen in verband met de openbaarheid Hoofdstuk 20. Beroep Hoofdstuk 21. Verdere bepalingen Hoofdstuk 22. Slotbepalingen.
 
@@ -154,7 +178,7 @@ Bevat wijzigingen in andere regelgeving.
 
 5. Het vierde lid is van overeenkomstige toepassing ten aanzien van de krachtens [artikel XV](https://wetten.overheid.nl/jci1.3:c:BWBR0005583&artikel=XV&z=1994-01-01&g=1994-01-01) gewijzigde onderdelen van de [Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063), voor zover daarin wordt verwezen naar bepalingen van de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245), en van de krachtens artikel XXI gewijzigde leden van de in dat artikel genoemde artikelen van de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181).
 
-#### Artikel XXIV
+##### Artikel XXIV
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden gesteld.
 

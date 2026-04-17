@@ -1,20 +1,46 @@
 ---
-title: "Besluit toekenning vergoedingen (plaatsvervangend) voorzitters en (plaatsvervangend) leden regionale toetsingscommissies euthanasie"
+title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 14 maart 2014, kenmerk 335072-117952-PG, houdende de toekenning van vergoedingen aan de (plaatsvervangend) voorzitters en (plaatsvervangend) leden van de regionale toetsingscommissies euthanasie voor werkzaamheden die zij verrichten in de periode januari tot en met juni 2014"
 identifier: "BWBR0034965"
-categorie: "Overig"
-publicatiedatum: 2014-03-25
-laatste_update: 2014-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034965"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2014-03-25"
+last_updated: "2014-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034965"
+soort: "ministeriele-regeling"
+stam_id: "12618353"
+version_id: "21308502"
+internal_id: "C30598161"
+label_id: "12588684"
+dtd_version: "2.0"
+original_entry_into_force: "2014-03-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034965/2014-03-25/0"
+intitule_bron: "Stcrt.2014-8105"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-03-14"
+intitule_published: "2014-03-24"
+intitule_in_force: "2014-03-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-8105"
+original_signed_date: "2014-03-14"
+original_published_date: "2014-03-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-8105"
+entry_into_force_date: "2014-03-25"
+jci_1_3: "jci1.3:c:BWBR0034965&z=2014-03-25&g=2014-03-25"
+jci_1_0: "1.0:c:BWBR0034965&g=2014-03-25"
+citeertitel_status: "redactioneel"
+short_title: "Besluit toekenning vergoedingen (plaatsvervangend) voorzitters en (plaatsvervangend) leden regionale toetsingscommissies euthanasie"
+signed_date: "2014-03-14"
+entry_into_force: "2014-03-25"
 ---
-
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 14 maart 2014, kenmerk 335072-117952-PG, houdende de toekenning van vergoedingen aan de (plaatsvervangend) voorzitters en (plaatsvervangend) leden van de regionale toetsingscommissies euthanasie voor werkzaamheden die zij verrichten in de periode januari tot en met juni 2014
 
 Gelet op [artikel 7 van de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&artikel=7) en [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Aan de voorzitters en de plaatsvervangend voorzitters en de leden en de plaatsvervangend leden van de regionale toetsingscommissies euthanasie worden de hierna genoemde vergoedingen toegekend voor hun werkzaamheden in de periode januari 2014 tot en met juni 2014:
 
@@ -108,6 +134,6 @@ Aan de voorzitters en de plaatsvervangend voorzitters en de leden en de plaatsve
 
 - –. het plaatsvervangend ethicus-lid van de regionale toetsingscommissie euthanasie te ’s-Hertogenbosch, dhr. dr. R.H. Houtepen, een vaste beloning conform 3,38 uur per week in schaal 017 BBRA 1984, bijlage B, anciënniteit 10.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2014.

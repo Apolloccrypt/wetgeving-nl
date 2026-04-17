@@ -1,13 +1,38 @@
 ---
-title: "Wijzigingsbesluit Warenwetbesluit Etikettering van levensmiddelen, Warenwetbesluit Bereiding en behandeling van levensmiddelen en Warenwetbesluit bestuurlijke boeten"
+title: "Besluit van 25 oktober 2004, houdende wijziging van het Warenwetbesluit Etikettering van levensmiddelen inzake de vermelding van ingrediënten, van het Warenwetbesluit Bereiding en behandeling van levensmiddelen, en van het Warenwetbesluit bestuurlijke boeten"
 identifier: "BWBR0017361"
-categorie: "Strafrecht"
-publicatiedatum: 2005-01-07
-laatste_update: 2005-01-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0017361"
+country: "nl"
+rank: "amvb"
+publication_date: "2005-01-07"
+last_updated: "2005-01-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0017361"
+soort: "AMvB"
+stam_id: "6271423"
+version_id: "10953802"
+internal_id: "C14853581"
+label_id: "6260284"
+original_entry_into_force: "2004-11-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0017361/2005-01-07/0"
+intitule_bron: "Stb.2004-569"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-10-25"
+intitule_published: "2004-11-11"
+intitule_in_force: "2004-11-11"
+intitule_status: "goed"
+original_publication: "Stb.2004-569"
+original_signed_date: "2004-10-25"
+original_published_date: "2004-11-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2004-569"
+entry_into_force_date: "2004-11-12"
+jci_1_3: "jci1.3:c:BWBR0017361&z=2005-01-07&g=2005-01-07"
+jci_1_0: "1.0:c:BWBR0017361&g=2005-01-07"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsbesluit Warenwetbesluit Etikettering van levensmiddelen, Warenwetbesluit Bereiding en behandeling van levensmiddelen en Warenwetbesluit bestuurlijke boeten"
+signed_date: "2004-10-25"
+entry_into_force: "2004-11-12"
 ---
-
 # Besluit van 25 oktober 2004, houdende wijziging van het Warenwetbesluit Etikettering van levensmiddelen inzake de vermelding van ingrediënten, van het Warenwetbesluit Bereiding en behandeling van levensmiddelen, en van het Warenwetbesluit bestuurlijke boeten
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 12 juli 2004, nr. VGB/VL 2497249, gedaan in overeenstemming met Onze Ministers van Landbouw, Natuur en Voedselkwaliteit, van Economische Zaken, en van Justitie;
@@ -20,19 +45,19 @@ Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Warenwetbesluit Etikettering van levensmiddelen.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Warenwetbesluit Bereiding en behandeling van levensmiddelen.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Warenwetbesluit bestuurlijke boeten.
 
-#### Artikel IV
+##### Artikel IV
 
 Eet- en drinkwaren die:
 
@@ -42,7 +67,7 @@ Eet- en drinkwaren die:
 
 mogen worden verkocht totdat de voorraden zijn uitverkocht.
 
-#### Artikel V
+##### Artikel V
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 

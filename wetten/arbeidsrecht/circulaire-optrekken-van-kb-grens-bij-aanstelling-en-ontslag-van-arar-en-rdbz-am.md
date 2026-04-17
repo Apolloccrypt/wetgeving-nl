@@ -1,13 +1,38 @@
 ---
 title: "Circulaire optrekken van KB-grens bij aanstelling en ontslag van ARAR- en RDBZ-ambtenaren per 1 maart 2007"
 identifier: "BWBR0021662"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2007-04-10
-laatste_update: 2007-04-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0021662"
+country: "nl"
+rank: "circulaire"
+publication_date: "2007-04-10"
+last_updated: "2007-04-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0021662"
+soort: "circulaire"
+stam_id: "9035313"
+version_id: "14392832"
+internal_id: "C19575601"
+label_id: "9014264"
+dtd_version: "2.0"
+original_entry_into_force: "2007-04-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0021662/2007-04-10/0"
+intitule_bron: "Stcrt.2007-69"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-03-21"
+intitule_published: "2007-04-10"
+intitule_in_force: "2007-04-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-69"
+original_signed_date: "2007-03-21"
+original_published_date: "2007-04-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2007-69-p8-SC79966"
+entry_into_force_date: "2007-04-10"
+jci_1_3: "jci1.3:c:BWBR0021662&z=2007-04-10&g=2007-04-10"
+jci_1_0: "1.0:c:BWBR0021662&g=2007-04-10"
+citeertitel_status: "redactioneel"
+signed_date: "2007-03-21"
+entry_into_force: "2007-04-10"
 ---
-
 # Circulaire optrekken van KB-grens bij aanstelling en ontslag van ARAR- en RDBZ-ambtenaren per 1 maart 2007
 
 Met ingang van 1 maart 2007 is de grens voor aanstelling en ontslag en het toekennen van een salarisschaal bij koninklijk besluit opgetrokken. Van de grote groep personen van wie de aanstelling is geregeld in [artikel 7 van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=7) (ARAR) of [artikel 22 van het Reglement Dienst Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0004052&artikel=22) (RDBZ) worden vanaf 1 maart 2007 alleen leden van de topmanagementgroep en de secretaris-generaal en de directeuren-generaal bij het Ministerie van Buitenlandse Zaken (die niet tot de topmanagementgroep behoren) nog aangesteld en ontslagen bij koninklijk besluit. Voor de achtergronden van dit besluit verwijs ik kortheidshalve naar de nota van toelichting bij het wijzigingsbesluit van het [ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950), het [RDBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0004052) en het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630) (BBRA 1984). Voor de volledigheid treft u dit als bijlage aan.

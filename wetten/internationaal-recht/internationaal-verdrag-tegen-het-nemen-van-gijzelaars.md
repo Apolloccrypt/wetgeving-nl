@@ -1,13 +1,35 @@
 ---
 title: "Internationaal Verdrag tegen het nemen van gijzelaars"
 identifier: "BWBV0003905"
-categorie: "Internationaal recht"
-publicatiedatum: 1989-01-05
-laatste_update: 1989-01-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003905"
+country: "nl"
+rank: "verdrag"
+publication_date: "1989-01-05"
+last_updated: "1989-01-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003905"
+soort: "verdrag"
+stam_id: "10003765063"
+version_id: "10003829912"
+internal_id: "C10006981641"
+label_id: "10003750334"
+dtd_version: "2.0"
+original_entry_into_force: "1989-01-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003905/1989-01-05/0"
+intitule_bron: "Trb.1981-53"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1981-03-20"
+intitule_in_force: "1989-01-20"
+intitule_status: "goed"
+original_publication: "Trb.1981-53"
+original_published_date: "1981-03-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1981-53"
+entry_into_force_date: "1989-01-05"
+jci_1_3: "jci1.3:c:BWBV0003905&z=1989-01-05&g=1989-01-05"
+jci_1_0: "1.0:c:BWBV0003905&g=1989-01-05"
+citeertitel_status: "redactioneel"
+entry_into_force: "1989-01-05"
 ---
-
 # Internationaal Verdrag tegen het nemen van gijzelaars
 
 De Staten die partij zijn bij dit Verdrag,
@@ -24,7 +46,7 @@ Ervan overtuigd dat het dringend noodzakelijk is internationale samenwerking tus
 
 Zijn overeengekomen als volgt:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Een ieder die een andere persoon (hierna te noemen de „gijzelaar”) overmeestert of van zijn vrijheid berooft en dreigt te doden, te verwonden of van zijn vrijheid beroofd te houden teneinde een derde, te weten een Staat, een internationale intergouvernementele organisatie, een natuurlijke persoon of een rechtspersoon, dan wel een groep personen, te dwingen een handeling te verrichten of zich te onthouden van het verrichten daarvan als al dan niet uitdrukkelijke voorwaarde voor de vrijlating van de gijzelaar, pleegt het misdrijf van gijzeling in de zin van dit Verdrag.
 
@@ -34,17 +56,17 @@ Zijn overeengekomen als volgt:
 
 - (b). daaraan deelneemt als medeplichtige of medepleger van iemand die een gijzelingshandeling pleegt of een poging daartoe doet, begaat voor de toepassing van dit Verdrag eveneens een strafbaar feit.
 
-#### Artikel 2
+##### Artikel 2
 
 Iedere Staat die partij is bij dit Verdrag stelt de in artikel 1 vermelde feiten strafbaar met passende straffen, rekening houdend met het ernstige karakter van deze feiten.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De Staat die partij is bij dit Verdrag en op wiens grondgebied de gijzelaar door de dader wordt vastgehouden, neemt alle maatregelen die hij passend acht om de toestand van de gijzelaar te verlichten, in het bijzonder om zijn vrijlating te verzekeren, en na zijn vrijlating, in voorkomend geval, zijn vertrek te vergemakkelijken.
 
 2. Indien een voorwerp dat de dader als gevolg van de gijzeling heeft verkregen in het bezit geraakt van een Staat die partij is bij dit Verdrag, geeft die Staat dat voorwerp zo spoedig mogelijk terug aan de gijzelaar of de in artikel 1 bedoelde derde, naar gelang het geval, dan wel aan de in aanmerking komende autoriteiten van die derde.
 
-#### Artikel 4
+##### Artikel 4
 
 De Staten die partij zijn bij dit Verdrag werken samen ter voorkoming van de in artikel 1 vermelde strafbare feiten, in het bijzonder door:
 
@@ -52,7 +74,7 @@ De Staten die partij zijn bij dit Verdrag werken samen ter voorkoming van de in 
 
 - (b). inlichtingen uit te wisselen en administratieve en andere maatregelen, naar gelang het geval, ter voorkoming van het begaan van deze strafbare feiten te coördineren.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Iedere Staat die partij is bij dit Verdrag neemt de maatregelen die nodig zijn om zijn bevoegdheid vast te leggen tot kennisneming van de in artikel 1 vermelde strafbare feiten die worden begaan:
 
@@ -68,7 +90,7 @@ De Staten die partij zijn bij dit Verdrag werken samen ter voorkoming van de in 
 
 3. Dit Verdrag sluit geen enkele bevoegdheid in strafzaken uit, die wordt uitgeoefend krachtens de nationale wet.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Iedere Staat die partij is bij dit Verdrag en op het grondgebied waarvan de vermoedelijke dader zich bevindt, neemt deze indien hij ervan overtuigd is dat de omstandigheden zulks wettigen overeenkomstig zijn wetten in hechtenis of neemt andere maatregelen om zijn aanwezigheid te verzekeren gedurende de tijd die nodig is om een strafrechtelijke procedure of een uitleveringsprocedure tegen hem te kunnen aanvangen. Die Staat stelt onmiddellijk een vooronderzoek naar de feiten in.
 
@@ -100,17 +122,17 @@ De Staten die partij zijn bij dit Verdrag werken samen ter voorkoming van de in 
 
 6. De Staat die het in het eerste lid van dit artikel voorziene vooronderzoek naar de feiten instelt, bericht zijn conclusies terstond aan de in het tweede lid van dit artikel bedoelde Staten of organisatie en geeft aan of hij voornemens is zijn rechtsmacht uit te oefenen.
 
-#### Artikel 7
+##### Artikel 7
 
 De Staat die partij is bij dit Verdrag en waar de vermoedelijke dader wordt vervolgd, brengt, overeenkomstig zijn wetten, het eindresultaat van de strafzaak ter kennis van de Secretaris-Generaal van de Verenigde Naties, die de gegevens doorzendt aan de andere betrokken Staten en aan de betrokken internationale intergouvernementele organisaties.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De Staat die partij is bij dit Verdrag en op het grondgebied waarvan de vermoedelijke dader wordt aangetroffen, is, indien hij deze niet uitlevert, in alle gevallen en ongeacht of het strafbare feit al of niet binnen zijn grondgebied werd begaan, verplicht de zaak voor vervolging aan zijn bevoegde autoriteiten over te dragen, volgens de in zijn wetten voorziene procedures. Deze autoriteiten nemen hun besluit op dezelfde wijze als in het geval van een gewoon strafbaar feit van ernstige aard naar de wet van die Staat.
 
 2. Aan een ieder tegen wie een strafzaak loopt in verband met een van de in artikel 1 vermelde strafbare feiten wordt een eerlijke behandeling gewaarborgd in alle stadia van de procedure, met inbegrip van alle rechten en waarborgen die worden verleend door de wet van de Staat op het grondgebied waarvan hij zich bevindt.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Een verzoek om uitlevering van een vermoedelijke dader ingevolge dit Verdrag wordt niet ingewilligd indien de aangezochte Staat die partij is bij dit Verdrag ernstige redenen heeft om aan te nemen:
 
@@ -124,7 +146,7 @@ De Staat die partij is bij dit Verdrag en waar de vermoedelijke dader wordt verv
 
 2. Met betrekking tot de strafbare feiten, als omschreven in dit Verdrag, worden de bepalingen in alle uitleveringsverdragen en -regelingen, van toepassing tussen de Staten die partij zijn bij dit Verdrag, tussen die Staten gewijzigd voor zover deze onverenigbaar zijn met dit Verdrag.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De in artikel 1 vermelde strafbare feiten worden geacht in ieder tussen de Staten die partij zijn bij dit Verdrag bestaand uitleveringsverdrag te zijn begrepen als uitleveringsdelicten. De Staten die partij zijn bij dit Verdrag verplichten zich ertoe die strafbare feiten op te nemen als uitleveringsdelicten in ieder uitleveringsverdrag dat tussen hen wordt gesloten.
 
@@ -134,29 +156,29 @@ De Staat die partij is bij dit Verdrag en waar de vermoedelijke dader wordt verv
 
 4. Voor uitlevering tussen de Staten die partij zijn bij dit Verdrag worden de in artikel 1 vermelde strafbare feiten beschouwd als niet alleen begaan op de plaats waar zij zijn gepleegd, maar ook op het grondgebied van de Staten die overeenkomstig het eerste lid van artikel 5 hun bevoegdheid dienen vast te leggen.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De Staten die partij zijn bij dit Verdrag verlenen elkaar de ruimst mogelijke rechtshulp in strafzaken wegens de in artikel 1 vermelde strafbare feiten, met inbegrip van het verschaffen van al het hun ter beschikking staande bewijsmateriaal dat nodig is in verband met de vervolging.
 
 2. Het bepaalde in het eerste lid van dit artikel laat verplichtingen betreffende wederzijdse rechtshulp, vervat in andere verdragen, onverlet.
 
-#### Artikel 12
+##### Artikel 12
 
 Voor zover de Verdragen van Genève van 1949 inzake de bescherming van oorlogsslachtoffers of de Aanvullende Protocollen bij deze Verdragen van toepassing zijn op een bepaalde gijzelingshandeling en voor zover de Staten die partij zijn bij dit Verdrag krachtens deze Verdragen zijn gehouden degene die zich schuldig heeft gemaakt aan bedoelde gijzelingshandeling, te vervolgen of over te dragen, is dit Verdrag niet van toepassing op een gijzelingshandeling die is gepleegd tijdens gewapende conflicten - als omschreven in de Verdragen van Genève van 1949 en de Protocollen daarbij, met inbegrip van gewapende conflicten, vermeld in [Protocol I van 1977, artikel 1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004091&artikel=1) - waarin volkeren vechten tegen koloniale overheersing en vreemde bezetting en tegen racistische regimes in de uitoefening van hun recht op zelfbeschikking zoals neergelegd in het [Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143) en de Verklaring inzake de beginselen van het volkenrecht betreffende vriendschappelijke betrekkingen en samenwerking tussen Staten overeenkomstig het Handvest van de Verenigde Naties.
 
-#### Artikel 13
+##### Artikel 13
 
 Dit Verdrag is niet van toepassing wanneer het strafbare feit is begaan binnen één enkele Staat, de gijzelaar en de vermoedelijke dader onderdaan van die Staat zijn en de vermoedelijke dader op het grondgebied van die Staat wordt aangetroffen.
 
-#### Artikel 14
+##### Artikel 14
 
 Geen enkele bepaling van dit Verdrag mag worden uitgelegd als rechtvaardiging van de schending van de territoriale integriteit of politieke onafhankelijkheid van een Staat in strijd met het [Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143).
 
-#### Artikel 15
+##### Artikel 15
 
 Het bepaalde in dit Verdrag laat de toepassing van de verdragen inzake asiel die van kracht zijn op de datum waarop dit Verdrag is aangenomen, onverlet tussen de Staten die partij zijn bij die verdragen; een Staat die partij is bij dit Verdrag kan zich echter niet op die verdragen beroepen ten aanzien van een andere Staat die partij is bij dit Verdrag maar niet bij die verdragen.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Elk geschil tussen twee of meer Staten die partij zijn bij dit Verdrag inzake de uitleg of toepassing van dit Verdrag, dat niet wordt beslecht door onderhandelingen, wordt op verzoek van een van die Staten onderworpen aan arbitrage. Indien de partijen er binnen zes maanden na de datum van het verzoek tot arbitrage niet in zijn geslaagd overeenstemming te bereiken over de vorm van deze arbitrage, kan een van die partijen het geschil voorleggen aan het Internationale Gerechtshof door middel van een verzoek overeenkomstig het [Statuut van het Hof](https://wetten.overheid.nl/jci1.3:c:BWBV0005509).
 
@@ -164,7 +186,7 @@ Het bepaalde in dit Verdrag laat de toepassing van de verdragen inzake asiel die
 
 3. Een Staat die partij is bij dit Verdrag en die een voorbehoud heeft gemaakt overeenkomstig het tweede lid van dit artikel kan dit voorbehoud te allen tijde intrekken door middel van een kennisgeving aan de Secretaris-Generaal van de Verenigde Naties.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Dit Verdrag staat tot 31 december 1980 open voor ondertekening door alle Staten op de Zetel van de Verenigde Naties te New York.
 
@@ -172,19 +194,19 @@ Het bepaalde in dit Verdrag laat de toepassing van de verdragen inzake asiel die
 
 3. Dit Verdrag staat open voor toetreding door iedere Staat. De akten van toetreding dienen te worden nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Dit Verdrag treedt in werking op de dertigste dag volgende op de datum van nederlegging van de tweeëntwintigste akte van bekrachtiging of toetreding bij de Secretaris-Generaal van de Verenigde Naties.
 
 2. Voor iedere Staat die dit Verdrag bekrachtigt of daartoe toetreedt na de nederlegging van de tweeëntwintigste akte van bekrachtiging of toetreding treedt het Verdrag in werking op de dertigste dag na de nederlegging door die Staat van zijn akte van bekrachtiging of toetreding.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Iedere Staat die partij is bij dit Verdrag kan dit opzeggen door middel van een schriftelijke kennisgeving aan de Secretaris-Generaal van de Verenigde Naties.
 
 2. De opzegging wordt van kracht één jaar na de datum waarop de kennisgeving door de Secretaris-Generaal van de Verenigde Naties is ontvangen.
 
-#### Artikel 20
+##### Artikel 20
 
 Het origineel van dit Verdrag, waarvan de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse tekst gelijkelijk authentiek zijn, wordt nedergelegd bij de Secretaris-Generaal van de Verenigde Naties, die daarvan een voor eensluidend gewaarmerkt afschrift toezendt aan alle staten.
 

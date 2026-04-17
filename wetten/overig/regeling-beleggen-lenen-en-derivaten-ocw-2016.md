@@ -1,13 +1,39 @@
 ---
-title: "Regeling beleggen, lenen en derivaten OCW 2016"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 6 juni 2016, nr. WJZ/800938 (6670), houdende regels voor onderwijsinstellingen omtrent het uitzetten van gelden, het aangaan van leningen en het aangaan van verbintenissen voor financiële derivaten (Regeling beleggen, lenen en derivaten OCW 2016)"
 identifier: "BWBR0038059"
-categorie: "Overig"
-publicatiedatum: 2022-08-01
-laatste_update: 2022-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038059"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-08-01"
+last_updated: "2022-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038059"
+soort: "ministeriele-regeling"
+stam_id: "13651533"
+version_id: "23370942"
+internal_id: "C33687841"
+label_id: "13618404"
+dtd_version: "2.0"
+original_entry_into_force: "2016-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038059/2022-08-01/0"
+intitule_bron: "Stcrt.2016-30576"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-06-06"
+intitule_published: "2016-06-15"
+intitule_in_force: "2016-06-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-30576"
+original_signed_date: "2016-06-06"
+original_published_date: "2016-06-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-30576"
+entry_into_force_date: "2016-07-01"
+jci_1_3: "jci1.3:c:BWBR0038059&z=2022-08-01&g=2022-08-01"
+jci_1_0: "1.0:c:BWBR0038059&g=2022-08-01"
+citeertitel_status: "officieel"
+short_title: "Regeling beleggen, lenen en derivaten OCW 2016"
+signed_date: "2016-06-06"
+entry_into_force: "2016-07-01"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 6 juni 2016, nr. WJZ/800938 (6670), houdende regels voor onderwijsinstellingen omtrent het uitzetten van gelden, het aangaan van leningen en het aangaan van verbintenissen voor financiële derivaten (Regeling beleggen, lenen en derivaten OCW 2016)
 
 Gelet op de [artikelen 148a van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=148a), [143a van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=143a), [99a van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=99a), [2.2.4b van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.2.4b) en [2.17, tweede lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=2.17);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Begripsomschrijvingen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -62,11 +88,11 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Algemene uitgangspunten
 
-#### Artikel 2. Algemeen uitgangspunt
+##### Artikel 2. Algemeen uitgangspunt
 
 Het financiële beleid en het beheer van de instellingen is dienstbaar aan het realiseren van de publieke doelstellingen, en is daartoe op transparante wijze gericht op financiële continuïteit.
 
-#### Artikel 3. Interne organisatie
+##### Artikel 3. Interne organisatie
 
 1. De instelling die geld belegt of leent, al dan niet in combinatie met financiële derivaten, heeft in een treasurystatuut in ieder geval de volgende zaken geregeld:
 
@@ -92,7 +118,7 @@ Indien een instelling in het hoger onderwijs zich wil laten aanmerken als profes
 
 3. De interne toezichthouder toetst of het tweede lid onderdeel uitmaakt van de eisen die het bestuur aan de interne organisatie van de instelling stelt.
 
-#### Artikel 4. Financiële onderneming
+##### Artikel 4. Financiële onderneming
 
 1. Derivaten of beleggingen worden alleen aangetrokken dan wel uitgezet bij financiële ondernemingen als bedoeld in de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368), en die:
 
@@ -102,7 +128,7 @@ Indien een instelling in het hoger onderwijs zich wil laten aanmerken als profes
 
 2. Beleggingen, leningen en derivaten met publieke middelen worden alleen aangetrokken in euro’s.
 
-#### Artikel 5. Professioneel en niet- professionele belegger
+##### Artikel 5. Professioneel en niet- professionele belegger
 
 1. De instelling die geld belegt, of leent, al dan niet in combinatie met financiële derivaten verzoekt de financiële onderneming zich te laten aanmerken als niet-professionele belegger.
 
@@ -122,7 +148,7 @@ Indien een instelling in het hoger onderwijs zich wil laten aanmerken als profes
 
 #### § 3. Specifieke regels
 
-#### Artikel 6. Beleggingen
+##### Artikel 6. Beleggingen
 
 1. Middelen van instellingen die tijdelijk overtollig zijn kunnen in een belegging worden uitgezet.
 
@@ -140,7 +166,7 @@ Indien een instelling in het hoger onderwijs zich wil laten aanmerken als profes
 
 6. Beleggingen worden conform het treasurystatuut afgesloten en vooraf ter kennisname aan de interne toezichthouder gestuurd.
 
-#### Artikel 7. Leningen
+##### Artikel 7. Leningen
 
 1. Een instelling kan middels leningen additionele financiële middelen aantrekken.
 
@@ -152,7 +178,7 @@ Indien een instelling in het hoger onderwijs zich wil laten aanmerken als profes
 
 5. Leningen worden conform het treasurystatuut afgesloten en vooraf ter kennisname aan de interne toezichthouder gestuurd.
 
-#### Artikel 8. Financiële derivaten
+##### Artikel 8. Financiële derivaten
 
 1. Een instelling maakt alleen gebruik van financiële derivaten voor het beperken van opwaartse renterisico’s bij leningen.
 
@@ -168,7 +194,7 @@ Indien een instelling in het hoger onderwijs zich wil laten aanmerken als profes
 
 - c. er worden geen derivaten met margin calls afgesloten.
 
-#### Artikel 9. Geen ineffectieve positie derivaten
+##### Artikel 9. Geen ineffectieve positie derivaten
 
 1. Een derivaat wordt pas aangetrokken vanaf het moment dat de lening is afgesloten.
 
@@ -182,7 +208,7 @@ Indien een instelling in het hoger onderwijs zich wil laten aanmerken als profes
 
 #### § 4. Verantwoording en toezicht
 
-#### Artikel 10. Externe verantwoording
+##### Artikel 10. Externe verantwoording
 
 De instelling doet ieder jaar in de jaarverslaglegging ten aanzien van de publieke middelen verslag van haar beleid ten aanzien van de beleggingen en leningen, de uitvoering van het beleid in de praktijk, de uitstaande beleggingen en leningen, de aangetrokken leningen en afgesloten derivatenovereenkomsten. Hierbij wordt:
 
@@ -200,7 +226,7 @@ De instelling doet ieder jaar in de jaarverslaglegging ten aanzien van de publie
 
 - 3°. de looptijden van de beleggingen, leningen en derivaten.
 
-#### Artikel 11. Toezicht
+##### Artikel 11. Toezicht
 
 1. De externe toezichthouder kan toetsen de instelling voldoet aan de eisen met betrekking tot de interne organisatie van de instelling, zoals bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038059&paragraaf=2&artikel=3&z=2022-08-01&g=2022-08-01) van deze regeling.
 
@@ -208,21 +234,21 @@ De instelling doet ieder jaar in de jaarverslaglegging ten aanzien van de publie
 
 #### § 5. Slotbepalingen
 
-#### Artikel 12. Overgangsrecht
+##### Artikel 12. Overgangsrecht
 
 1. De [Regeling belenen en beleggen door instellingen voor onderwijs en onderzoek 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0026436), zoals deze luidde op 30 juni 2016, blijft van toepassing op beleggingen, leningen en financiële derivaten die voor 1 juli 2016 zijn afgesloten.
 
 2. Instellingen die op 1 juli 2016 een belegging, lening of financieel derivaat hebben en op die datum nog geen treasurystatuut hebben, stellen voor 1 oktober 2016 een treasurystatuut op.
 
-#### Artikel 13. Intrekking regeling
+##### Artikel 13. Intrekking regeling
 
 De [Regeling beleggen en belenen door instellingen voor onderwijs en onderzoek 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0026436) wordt ingetrokken.
 
-#### Artikel 14. Inwerkingtreding
+##### Artikel 14. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 juli 2016.
 
-#### Artikel 15. Citeertitel
+##### Artikel 15. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling beleggen, lenen en derivaten OCW 2016.
 
@@ -286,7 +312,7 @@ IN WITNESS WHEREOF the parties have executed this document on the respective dat
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 13a. Omhang
+##### Artikel 13a. Omhang
 
 Deze regeling berust mede [op artikel 115, zevende lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=115), [artikel 113, zevende lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=113) en [artikel 5.43 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.43) en [artikel 2.2.7 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.2.7).
 

@@ -1,13 +1,38 @@
 ---
 title: "Tweede Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake grenscorrecties (Tweede Verdrag inzake grenscorrecties)"
 identifier: "BWBV0001251"
-categorie: "Internationaal recht"
-publicatiedatum: 1996-11-01
-laatste_update: 1996-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001251"
+country: "nl"
+rank: "verdrag"
+publication_date: "1996-11-01"
+last_updated: "1996-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001251"
+soort: "verdrag"
+stam_id: "10002433953"
+version_id: "10002434612"
+internal_id: "C10006976531"
+label_id: "10002423514"
+dtd_version: "2.0"
+original_entry_into_force: "1996-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001251/1996-11-01/0"
+intitule_bron: "Trb.1993-34"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-09-10"
+intitule_published: "1993-02-23"
+intitule_in_force: "1996-09-23"
+intitule_status: "goed"
+original_publication: "Trb.1993-34"
+original_signed_date: "1996-09-10"
+original_published_date: "1993-02-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1993-34"
+entry_into_force_date: "1996-11-01"
+jci_1_3: "jci1.3:c:BWBV0001251&z=1996-11-01&g=1996-11-01"
+jci_1_0: "1.0:c:BWBV0001251&g=1996-11-01"
+citeertitel_status: "redactioneel"
+signed_date: "1996-09-10"
+entry_into_force: "1996-11-01"
 ---
-
 # Tweede Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake grenscorrecties (Tweede Verdrag inzake grenscorrecties)
 
 Het Koninkrijk der Nederlanden
@@ -22,7 +47,7 @@ Gelet op de goede resultaten die zijn verkregen door het op 30 oktober 1980 te B
 
 Zijn als volgt overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 1. De door het Grensverdrag en door het Eerste Verdrag inzake grenscorrecties vastgestelde grens tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland wordt als volgt wederom herzien:
 
@@ -120,29 +145,29 @@ Zijn als volgt overeengekomen:
 
 3. Na de overgang van de in het eerste lid, onderdeel 7, genoemde percelen aan het Koninkrijk der Nederlanden respectievelijk de Bondsrepubliek Duitsland, loopt de grens in het gebied tussen de grenspunten 238 A en 238 D (gebied van de gemeenten Kerkrade/ Herzogenrath) in het midden van de Worm. Zij volgt de natuurlijke veranderingen van de waterloop.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Bondsrepubliek Duitsland doet afstand van haar rechten met betrekking tot de percelen die krachtens artikel 1 aan het Koninkrijk der Nederlanden overgaan.
 
 2. Het Koninkrijk der Nederlanden doet afstand van zijn rechten met betrekking tot de percelen die krachtens artikel 1 aan de Bondsrepubliek Duitsland overgaan.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het openbare vermogen dat het algemeen belang dient in de in artikel 1 bedoelde gebieden die aan het Koninkrijk der Nederlanden overgaan, behoort met alle rechten, lasten en verplichtingen toe aan het Koninkrijk der Nederlanden of aan de daarvoor in aanmerking komende publiekrechtelijke rechtspersonen in Nederland.
 
 2. Het openbare vermogen dat het algemeen belang dient in de in artikel 1 bedoelde gebieden die aan de Bondsrepubliek Duitsland overgaan, behoort met alle rechten, lasten en verplichtingen toe aan de Bondsrepubliek Duitsland of aan de daarvoor in aanmerking komende publiekrechtelijke rechtspersonen in de Bondsrepubliek Duitsland.
 
-#### Artikel 4
+##### Artikel 4
 
 De afbakening van de nieuwe gedeelten van de Nederlands-Duitse grens, die tengevolge van de in artikel 1 bedoelde ruil ontstaan, wordt in onderling overleg opgedragen aan de bevoegde autoriteiten van het kadaster. De kosten hiervan worden door de Verdragsluitende Partijen elk voor de helft gedragen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De bevoegde autoriteiten regelen, voor zover mogelijk binnen zes maanden na de inwerkingtreding van dit Verdrag, de bestuursvraagstukken die verband houden met de overgang van de in artikel 1 bedoelde gebieden, zoals de overdracht van akten en dokumenten, en voeren de vereiste maatregelen in onderling overleg uit.
 
 2. Voor zover de overdracht van openbare registers, kadastrale registers en kaarten of daarbij behorende stukken niet mogelijk is, worden gewaarmerkte afschriften verstrekt.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Dit Verdrag moet worden bekrachtigd; de akten van bekrachtiging dienen zo spoedig mogelijk te Bonn te worden uitgewisseld.
 

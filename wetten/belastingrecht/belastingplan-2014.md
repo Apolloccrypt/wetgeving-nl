@@ -1,56 +1,84 @@
 ---
-title: "Belastingplan 2014"
+title: "Wet van 18 december 2013 tot wijziging van enkele belastingwetten en enige andere wetten (Belastingplan 2014)"
 identifier: "BWBR0034538"
-categorie: "Belastingrecht"
-publicatiedatum: 2017-01-01
-laatste_update: 2017-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034538"
+country: "nl"
+rank: "wet"
+publication_date: "2017-01-01"
+last_updated: "2017-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034538"
+soort: "wet"
+stam_id: "12519413"
+version_id: "21072492"
+internal_id: "C30253831"
+label_id: "12490534"
+dtd_version: "2.0"
+original_entry_into_force: "2013-12-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034538/2017-01-01/0"
+intitule_bron: "Stb.2013-565"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-12-18"
+intitule_published: "2013-12-23"
+intitule_in_force: "2013-12-23"
+intitule_status: "goed"
+original_publication: "Stb.2013-565"
+original_signed_date: "2013-12-18"
+original_published_date: "2013-12-23"
+original_effect: "nieuwe-regeling"
+original_dossier: "33752"
+original_url_id: "stb-2013-565"
+entry_into_force_date: "2013-12-24"
+entry_into_force_dossier: "33752"
+jci_1_3: "jci1.3:c:BWBR0034538&z=2017-01-01&g=2017-01-01"
+jci_1_0: "1.0:c:BWBR0034538&g=2017-01-01"
+citeertitel_status: "officieel"
+short_title: "Belastingplan 2014"
+signed_date: "2013-12-18"
+entry_into_force: "2013-12-24"
 ---
+# Wet van 18 december 2013 tot wijziging van enkele belastingwetten en enige andere wetten (Belastingplan 2014)
 
-# Belastingplan 2014
-
-#### Artikel I
+##### Artikel I
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel IVa
+##### Artikel IVa
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel VIIIa
+##### Artikel VIIIa
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel IX
+##### Artikel IX
 
 Indien [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2015, bij het begin van het kalenderjaar 2016, onderscheidenlijk bij het begin van het kalenderjaar 2017, wordt toegepast, worden, met overeenkomstige toepassing van dat artikel, bij ministeriële regeling eveneens gewijzigd:
 
@@ -60,189 +88,189 @@ Indien [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid
 
 - c. bij het begin van het kalenderjaar 2017: de in [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=IV&z=2017-01-01&g=2017-01-01) en [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=VIII&z=2017-01-01&g=2017-01-01) vermelde bedragen.
 
-#### Artikel X
+##### Artikel X
 
 Na toepassing van de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=I&z=2017-01-01&g=2017-01-01), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=II&z=2017-01-01&g=2017-01-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=III&z=2017-01-01&g=2017-01-01), [V](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=V&z=2017-01-01&g=2017-01-01), [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=VI&z=2017-01-01&g=2017-01-01) of [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=VII&z=2017-01-01&g=2017-01-01) worden de bedragen in kolom III van de tabel in [artikel 2.10, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.10) bij ministeriële regeling gewijzigd in de bedragen die na toepassing van die artikelen voortvloeien uit de in de kolommen I en II van die tabel vermelde bedragen en de in kolom IV van die tabel vermelde percentages. De eerste volzin is van overeenkomstige toepassing op de bedragen in kolom III van de tabel in [artikel 2.10a, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.10a), op de bedragen in kolom III van de tabel in [artikel 20a, eerste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=20a) en op de bedragen in kolom III van de tabel in [artikel 20b, eerste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=20b).
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
 
-#### Artikel XIa
+##### Artikel XIa
 
 Wijzigt de Wet financiering sociale verzekeringen.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt de Wet op de dividendbelasting 1965.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel XIVbis
+##### Artikel XIVbis
 
 Wijzigt de Successiewet 1956.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt de Successiewet 1956.
 
-#### Artikel XVa
+##### Artikel XVa
 
 Bij een overlijden in de periode van 1 januari 2015 tot en met 29 juni 2015 is [artikel 12, eerste lid, eerste volzin, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=12) niet van toepassing op een schenking als bedoeld in [artikel 33a, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33a), zoals dat luidde op 31 december 2014, voor zover voor die schenking een verhoogde vrijstelling gold.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt de Wet op de omzetbelasting 1968.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Het aan de ondernemer toekomend recht om de belasting in aftrek te brengen op het tijdstip dat de belasting in rekening is gebracht ter zake van goederen en diensten voor zover deze waren bestemd voor de vervaardiging van een goed als bedoeld in [artikel 3, derde lid, onderdeel b, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=3), zoals dat artikel luidde op 31 december 2013, blijft in stand voor zover de ondernemer dit recht al had vóór 1 januari 2014. Deze aftrek wordt herzien bij ingebruikname van de goederen en diensten in de zin van [artikel 15, vierde lid, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=15).
 
-#### Artikel XVIIa
+##### Artikel XVIIa
 
 Wijzigt de Wet op belastingen van rechtsverkeer.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
 
-#### Artikel XIX
+##### Artikel XIX
 
 Wijzigt de Wet op de motorrijtuigenbelasting 1994.
 
-#### Artikel XX
+##### Artikel XX
 
 Wijzigt de Wet op de accijns.
 
-#### Artikel XXI
+##### Artikel XXI
 
 Wijzigt de Wet op de accijns.
 
-#### Artikel XXII
+##### Artikel XXII
 
 Wijzigt de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten.
 
-#### Artikel XXIII
+##### Artikel XXIII
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel XXIIIa
+##### Artikel XXIIIa
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel XXIIIb
+##### Artikel XXIIIb
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel XXIIIc
+##### Artikel XXIIIc
 
 Vervallen
 
-#### Artikel XXIIId
+##### Artikel XXIIId
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel XXIV
+##### Artikel XXIV
 
 Met ingang van 1 januari 2017 wordt in de [Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168) het in [artikel 59, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59), opgenomen tarief voor een geleverde hoeveelheid die niet hoger is dan 10.000 kWh verhoogd met € 0,0003.
 
-#### Artikel XXV
+##### Artikel XXV
 
 Wijzigt de Algemene wet inzake rijksbelastingen.
 
-#### Artikel XXVI
+##### Artikel XXVI
 
 Wijzigt de Invorderingswet 1990.
 
-#### Artikel XXVII
+##### Artikel XXVII
 
 Wijzigt de Algemene wet inkomensafhankelijke regelingen.
 
-#### Artikel XXVIIa
+##### Artikel XXVIIa
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel XXVIIb
+##### Artikel XXVIIb
 
 Wijzigt de Wet inkomstenbelasting BES.
 
-#### Artikel XXVIII
+##### Artikel XXVIII
 
 Wijzigt de Provinciewet.
 
-#### Artikel XXIX
+##### Artikel XXIX
 
 Wijzigt de Wet opslag duurzame energie.
 
-#### Artikel XXIXa
+##### Artikel XXIXa
 
 Wijzigt het Belastingplan 2010.
 
-#### Artikel XXX
+##### Artikel XXX
 
 Wijzigt het Belastingplan 2011.
 
-#### Artikel XXXI
+##### Artikel XXXI
 
 Wijzigt de Wet uitwerking autobrief.
 
-#### Artikel XXXII
+##### Artikel XXXII
 
 Wijzigt de Wet uitwerking fiscale maatregelen Begrotingsakkoord 2013.
 
-#### Artikel XXXIIa
+##### Artikel XXXIIa
 
 Wijzigt de Fiscale verzamelwet 2013.
 
-#### Artikel XXXIII
+##### Artikel XXXIII
 
 Vervallen
 
-#### Artikel XXXIIIa
+##### Artikel XXXIIIa
 
 Wijzigt de Wijzigingswet Wet tegemoetkoming chronisch zieken en gehandicapten (afschaffing algmene tegemoetkoming chronisch zieken en gehandicapten, enz.) (kst. 33726).
 
-#### Artikel XXXIIIb
+##### Artikel XXXIIIb
 
 Wijzigt de Wet tegemoetkoming chronisch zieken en gehandicapten.
 
-#### Artikel XXXIIIc
+##### Artikel XXXIIIc
 
 [Artikel 24 van de Wet tegemoetkoming chronisch zieken en gehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0025003&artikel=24) en de daarop gebaseerde bepalingen zoals die luidden op 31 december 2013, blijven van toepassing op aanspraken van belastingplichtigen over de aan het kalenderjaar 2014 voorafgaande kalenderjaren.
 
-#### Artikel XXXIIId
+##### Artikel XXXIIId
 
 1. Bij algemene maatregel van bestuur worden regels gesteld over door de rijksbelastingdienst te verstrekken tegemoetkomingen specifieke zorgkosten aan belastingplichtigen met uitgaven voor specifieke zorgkosten als bedoeld in [afdeling 6.5 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=6.5).
 
 2. De uitbetaling en terugvordering van verstrekte tegemoetkomingen specifieke zorgkosten geschieden overeenkomstig de regels die gelden voor de invordering van inkomstenbelasting, met dien verstande dat bij de overeenkomstige toepassing van [artikel 24 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=24) een uit te betalen tegemoetkoming specifieke zorgkosten uitsluitend kan worden verrekend met een terugvordering van een tegemoetkoming specifieke zorgkosten.
 
-#### Artikel XXXIIIe
+##### Artikel XXXIIIe
 
 Na de inwerkingtreding van deze wet berust het [Besluit tegemoetkoming specifieke zorgkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0027859) op [artikel XXXIIID](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=XXXIIId&z=2017-01-01&g=2017-01-01).
 
-#### Artikel XXXIV
+##### Artikel XXXIV
 
 1. De [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [10.3, tweede lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.3) en de [artikelen 32bb, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=32bb), en [32bc, vierde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=32bc) vinden geen toepassing bij het begin van het kalenderjaar 2014.
 
 2. Bij de toepassing van [artikel 10.7, tweede en derde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.7) bij het begin van het kalenderjaar 2014 wordt de toepassing van [artikel 10.1 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) geacht te hebben plaatsgevonden op basis van een tabelcorrectiefactor als bedoeld in [artikel 10.2 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2) van 1.
 
-#### Artikel XXXV
+##### Artikel XXXV
 
 1. [Artikel 27a van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=27a) vindt geen toepassing bij het begin van het kalenderjaar 2014 op het bedrag genoemd in [artikel 27, eerste lid, onderdeel b, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=27).
 
 2. [Artikel 90 van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=90) vindt geen toepassing bij het begin van het kalenderjaar 2014 op het bedrag, genoemd in [artikel 18 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=18).
 
-#### Artikel XXXVI
+##### Artikel XXXVI
 
 Ingeval de samenloop van wetten die in 2013 in het Staatsblad zijn of worden gepubliceerd en wijzigingen aanbrengen in één of meer belastingwetten, niet of niet juist is geregeld, of indien als gevolg van die samenloop onjuistheden ontstaan in de aanduiding van artikelen, artikelonderdelen, verwijzingen en dergelijke in de desbetreffende wetten, kunnen die wetten op dit punt bij ministeriële regeling worden gewijzigd.
 
-#### Artikel XXXVII
+##### Artikel XXXVII
 
 1. Deze wet treedt in werking met ingang van 1 januari 2014, met dien verstande dat:
 
@@ -282,7 +310,7 @@ Ingeval de samenloop van wetten die in 2013 in het Staatsblad zijn of worden gep
 
 7. In afwijking van het eerste lid treden de [artikelen XXVII, onderdeel B, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=XXVII&z=2017-01-01&g=2017-01-01), en [XXVIIA, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=XXVIIa&z=2017-01-01&g=2017-01-01), in werking met ingang van 1 januari 2015.
 
-#### Artikel XXXVIII
+##### Artikel XXXVIII
 
 Deze wet wordt aangehaald als: Belastingplan 2014.
 

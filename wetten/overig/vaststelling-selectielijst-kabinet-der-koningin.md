@@ -1,13 +1,37 @@
 ---
 title: "Vaststelling selectielijst Kabinet der Koningin"
 identifier: "BWBR0010854"
-categorie: "Overig"
-publicatiedatum: 2007-11-22
-laatste_update: 1999-12-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010854"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2007-11-22"
+last_updated: "1999-12-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010854"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "5282053"
+version_id: "9497052"
+internal_id: "C25310031"
+label_id: "5257784"
+dtd_version: "2.0"
+original_entry_into_force: "1999-12-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010854/2007-11-22/0"
+intitule_bron: "Stcrt.1999-238"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-11-12"
+intitule_published: "1999-12-09"
+intitule_in_force: "1999-12-09"
+intitule_status: "goed"
+original_publication: "Stcrt.1999-238"
+original_signed_date: "1999-11-12"
+original_published_date: "1999-12-09"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1999-12-11"
+jci_1_3: "jci1.3:c:BWBR0010854&z=2007-11-22&g=2007-11-22"
+jci_1_0: "1.0:c:BWBR0010854&g=2007-11-22"
+citeertitel_status: "officieel"
+signed_date: "1999-11-12"
+entry_into_force: "1999-12-11"
 ---
-
 # Vaststelling selectielijst Kabinet der Koningin
 
 Op de voordracht van de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, F. van der Ploeg, van 8 november 1999, nr. WJZ/1999/43066(8097) , directie Wetgeving en Juridische Zaken, gedaan in overeenstemming met het Kabinet der Koningin;
@@ -18,17 +42,17 @@ Gezien het advies van de Raad voor cultuur van 3 juni 1997, nr. arc-97.933/2;
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde ’Selectielijst van het Kabinet der Koningin 1994–2015’ en de daarbij behorende toelichting worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 
 ## Inhoudsopgave
 
-#### I. Toelichting behorend bij de selectielijst van het Kabinet der koningin 1994–2015
+##### I. Toelichting behorend bij de selectielijst van het Kabinet der koningin 1994–2015
 
 1. Inleiding
 
@@ -42,7 +66,7 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 6. Systematiek van de lijst
 
-#### II. Selectielijst van het Kabinet der koningin 1994–2015
+##### II. Selectielijst van het Kabinet der koningin 1994–2015
 
 A. Handelingen voortvloeiend uit de taak ambtelijke ondersteuning van de Koningin
 
@@ -74,7 +98,7 @@ C. Handelingen voortvloeiend uit de interne bedrijfsvoering en ondersteunende pr
 
 ### I. Toelichting behorend bij de selectielijst van het Kabinet der koningin 1994–2015
 
-#### 1. Inleiding
+##### 1. Inleiding
 
 De[Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) en het [Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748) verplichten de overheid archiefbescheiden in goede, geordende en toegankelijke staat te brengen en te bewaren, alsmede zorg te dragen voor de vernietiging van de daarvoor in aanmerking komende archiefbescheiden. Voor deze vernietiging is een selectielijst het instrument.[Artikel 2 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=2) regelt de ontwerp- en de vaststellingsprocedure voor selectielijsten. Hierin is aangegeven dat bij het ontwerpen rekening gehouden moet worden met:
 
@@ -88,13 +112,13 @@ De[Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) en het [Arc
 
 De selectielijst van het Kabinet der Koningin is gebaseerd op het ’Institutioneel onderzoeksrapport Kabinet der Koningin’. Het beschrijft per handeling of de neerslag ervan overgebracht moet worden naar de Rijksarchiefdienst. Het overbrengen dient te geschieden volgens de ’Normen goede en geordende staat’. Met alle bovengenoemde belangen is in deze lijst rekening gehouden. De selectielijst Kabinet der Koningin wijkt af van andere lijsten; de lijst heeft betrekking op de organisatie en afzonderlijke taakgebieden van het Kabinet en bestrijkt dus geen beleidsterrein. Gelet op het bijzondere karakter van het Kabinet en de beperkte omvang van de organisatie is de lijst tevens bedoeld als een werkinstructie inzake het beheer van de gegevensbestanden. Het is om deze reden dat ook de handelingen voortvloeiend uit de interne bedrijfsvoering/ondersteunende processen erin zijn opgenomen. Als model is de selectielijst van de Algemene Rekenkamer gebruikt 1Besluit van 3 februari 1995 houdende vaststelling van de lijst van voor vernietiging in aanmerking komende archiefbescheiden van de Algemene Rekenkamer.. De periode waarvoor deze selectielijst geldt is 1994 - 2015.
 
-#### 2. Organisatie
+##### 2. Organisatie
 
 Het Kabinet der Koningin valt als zelfstandig rijksorgaan onder begrotingshoofdstuk II van de Rijksbegroting (Hoge Colleges van Staat en Kabinet der Koningin). De positie en taken zijn neergelegd in het koninklijk besluit van 22 december 1840, nr. 44 en het koninklijk besluit van 14 december 1893, nr. 17.
 
 Het Kabinet bestaat uit een directeur, een plaatsvervangend directeur en vier afdelingen. De directeur en de plaatsvervangend directeur worden bij koninklijk besluit benoemd. De overige personeelsleden worden bij beschikking van de directeur benoemd, bevorderd en ontslagen. Deze bevoegdheid is hem daartoe bij mandaat verleend. De feitelijke uitvoering daarvan ligt bij de directeur personeelszaken van het ministerie van Binnenlandse Zaken. Op de ambtenaren van het Kabinet der Koningin is van toepassing de [Ambtenarenwet 1929](https://wetten.overheid.nl/jci1.3:c:BWBR0001947) (Stb. 1929, 530).
 
-#### 3. Taakgebieden
+##### 3. Taakgebieden
 
 De in de loop der tijd aan het Kabinet der Koningin opgedragen taken zijn:
 
@@ -106,7 +130,7 @@ De in de loop der tijd aan het Kabinet der Koningin opgedragen taken zijn:
 
 Deze taken worden hierna toegelicht.
 
-#### a. Ambtelijke ondersteuning van de Koningin (koninklijk besluit van 22 december 1840, nr. 44)
+##### a. Ambtelijke ondersteuning van de Koningin (koninklijk besluit van 22 december 1840, nr. 44)
 
 Deze taak richt zich op drie onderdelen:
 
@@ -152,11 +176,11 @@ Deze taak richt zich op drie onderdelen:
 
 - andere vormen van ambtelijke ondersteuning zoals het opstellen en uitgeven van communiqués bij de kabinetsformatie. Voorts heeft deze taak betrekking op de ambtelijke ondersteuning tijdens het regentschap. Het Kabinet der Koningin vervult voor de Regent dezelfde werkzaamheden als voor de Koningin, dat wil zeggen draagt zorg voor de ambtelijke ondersteuning van de Regent bij de uitoefening van zijn staatsrechtelijke taken en fungeert als trait d’union tussen de Regent en ministers. [Artikel 37 van de Grondwet 1983](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=37) vermeldt de gelegenheden waarbij de Regent het koninklijk gezag uitoefent 2Artikel 37 van de Grondwet vermeldt de gelegenheden waarbij de Regent het koninklijk gezag uitoefent:a.zolang de Koning de leeftijd van achttien jaar niet heeft bereikt (artikel 33 GW);b.indien een nog niet geboren kind tot het koningschap geroepen kan zijn;c.indien de Koning buiten staat is verklaard het koninklijk gezag uit te oefenen (artikel 35 GW);d.indien de Koning de uitoefening van het koninklijk gezag tijdelijk heeft neergelegd (artikel 36 GW);e.zolang na het overlijden van de Koning of na diens afstand van het koningschap een opvolger ontbreekt (artikel 30, tweede lid, GW).. Indien toepassing moet worden gegeven aan [artikel 38 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=38), op grond waarvan de Raad van State het koninklijk gezag uitoefent, vervult het Kabinet der Koningin dezelfde ambtelijke ondersteunende werkzaamheden als voor de Regent. Gezien het feit dat de Raad van State sedert 1890 niet meer geroepen is het koninklijk gezag uit te oefenen, wordt in casu alleen volstaan met deze vermelding.
 
-#### b. Bewaren van de oorspronkelijke wetten, koninklijke besluiten en soortgelijke rege-ringsbescheiden
+##### b. Bewaren van de oorspronkelijke wetten, koninklijke besluiten en soortgelijke rege-ringsbescheiden
 
 Deze taak die van oudsher aan de Directeur is opgedragen staat vermeld in het koninklijk besluit van 14 december 1893, nr. 17, en in de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376). Deze taak omvat het registreren, rappelleren, archiveren, verfilmen van alle archiefbescheiden en overdragen daarvan aan het Algemeen Rijksarchief. Voorts verschaft het Kabinet aan tal van instanties en particulieren informatie over de in het archief opgenomen documenten.
 
-#### c. Interne bedrijfsvoering en bewaking van uitvoerende processen
+##### c. Interne bedrijfsvoering en bewaking van uitvoerende processen
 
 Ter ondersteuning van de primaire processen worden ondersteunende handelingen uitgevoerd. Deze hebben betrekking op:
 
@@ -176,7 +200,7 @@ Ter ondersteuning van de primaire processen worden ondersteunende handelingen ui
 
 - personeelsbeheer.
 
-#### 4. Selectie-uitgangspunten
+##### 4. Selectie-uitgangspunten
 
 De selectie met betrekking tot het overbrengen van de archiefbescheiden richt zich op de handelingen van het Kabinet der Koningin. Er wordt een scheiding aangebracht tussen te bewaren (naar de Rijksarchiefdienst over te brengen) en (op termijn) te vernietigen gegevens. In samenhang met andere selectielijsten moeten de gegevens een reconstructie van het overheidshandelen op hoofdlijnen mogelijk maken. Het Kabinet valt niet onder een van de gangbare beleidsterreinen en derhalve gelden andere selectiecriteria. In deze lijst is voor elke handeling een waardering aangegeven (bewaren/vernietigen), op grond van de volgende criteria.
 
@@ -196,7 +220,7 @@ De neerslag van de handelingen in de sfeer van bedrijfsvoering en ondersteuning 
 
 Ingevolge [artikel 5, onder e, van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=5) kan neerslag van bepaalde als te vernietigen gewaardeerde handelingen betreffende gebeurtenissen of personen van bijzonder cultureel of maatschappelijk belang, van vernietiging worden uitgezonderd.
 
-#### 5. Totstandkoming van de lijst
+##### 5. Totstandkoming van de lijst
 
 Het eerste concept van een selectielijst dateert van 28 december 1994. Een tweede concept volgde eind 1995. Aan het ingevolge [artikel 3, eerste lid, van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=3) gevoerde driehoeksoverleg namen de volgende personen deel:
 
@@ -218,7 +242,7 @@ Het advies van de Raad voor Cultuur van 3 juni 1997 (arc-97.933/2) heeft geleid 
 
 - de waardering van handeling C.7.7 is gewijzigd van vernietigen in bewaren.
 
-#### 6. Systematiek van de lijst
+##### 6. Systematiek van de lijst
 
 De selectielijst is opgedeeld in de drie taakgebieden die hierboven zijn omschreven. Per taakgebied is een opsomming gegeven van de handelingen. In de linkerkolom staat het volgnummer, in de tweede kolom de omschrijving van de handeling, in de derde kolom de producten, in de vierde kolom de bewaartermijn en in de vijfde kolom eventuele toelichtingen.
 

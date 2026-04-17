@@ -1,13 +1,39 @@
 ---
-title: "Besluit klachtenbehandeling aanstellingskeuringen"
+title: "Besluit van 23 november 2001 tot regeling van de klachtenbehandeling aanstellingskeuringen"
 identifier: "BWBR0013030"
-categorie: "Bestuursrecht"
-publicatiedatum: 2017-07-01
-laatste_update: 2017-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013030"
+country: "nl"
+rank: "amvb"
+publication_date: "2017-07-01"
+last_updated: "2017-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013030"
+soort: "AMvB"
+stam_id: "1639323"
+version_id: "2419422"
+internal_id: "C2419421"
+label_id: "1593064"
+dtd_version: "2.0"
+original_entry_into_force: "2002-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013030/2017-07-01/0"
+intitule_bron: "Stb.2001-598"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-11-23"
+intitule_published: "2001-12-13"
+intitule_in_force: "2002-01-31"
+intitule_status: "goed"
+original_publication: "Stb.2001-598"
+original_signed_date: "2001-11-23"
+original_published_date: "2001-12-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2001-598"
+entry_into_force_date: "2002-02-01"
+jci_1_3: "jci1.3:c:BWBR0013030&z=2017-07-01&g=2017-07-01"
+jci_1_0: "1.0:c:BWBR0013030&g=2017-07-01"
+citeertitel_status: "officieel"
+short_title: "Besluit klachtenbehandeling aanstellingskeuringen"
+signed_date: "2001-11-23"
+entry_into_force: "2002-02-01"
 ---
-
 # Besluit van 23 november 2001 tot regeling van de klachtenbehandeling aanstellingskeuringen
 
 Op voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, J. F. Hoogervorst, mede namens Onze Minister van Volksgezondheid, Welzijn en Sport van 4 juli 2001, kenmerk AV/RV/2001/44102;
@@ -24,7 +50,7 @@ Hebben goedgevonden en verstaan:
 
 #### Begripsbepaling
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -46,7 +72,7 @@ In dit besluit wordt verstaan onder:
 
 #### Toepasselijkheid
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit is van toepassing op een keuring als bedoeld in [artikel 1, onderdeel a, onder 1° en 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=1).
 
@@ -54,7 +80,7 @@ Dit besluit is van toepassing op een keuring als bedoeld in [artikel 1, onderdee
 
 #### Instelling
 
-#### Artikel 3. Instelling
+##### Artikel 3. Instelling
 
 1. De Raad stelt een commissie klachtenbehandeling aanstellingskeuringen in.
 
@@ -66,7 +92,7 @@ Dit besluit is van toepassing op een keuring als bedoeld in [artikel 1, onderdee
 
 #### Benoeming en zittingsduur
 
-#### Artikel 4
+##### Artikel 4
 
 1. De Raad benoemt de leden van de commissie.
 
@@ -82,7 +108,7 @@ Dit besluit is van toepassing op een keuring als bedoeld in [artikel 1, onderdee
 
 #### Taken
 
-#### Artikel 5
+##### Artikel 5
 
 1. De commissie heeft tot taak:
 
@@ -96,7 +122,7 @@ Dit besluit is van toepassing op een keuring als bedoeld in [artikel 1, onderdee
 
 #### Bevoegdheden
 
-#### Artikel 6
+##### Artikel 6
 
 1. De commissie heeft ter uitvoering van haar taak de volgende bevoegdheden:
 
@@ -112,19 +138,19 @@ Dit besluit is van toepassing op een keuring als bedoeld in [artikel 1, onderdee
 
 #### Regeling van werkzaamheden
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
 #### Geheimhoudingsplicht
 
-#### Artikel 8
+##### Artikel 8
 
 De leden, plaatsvervangende leden en de medewerkers van de commissie hebben een geheimhoudingsplicht van hetgeen hen uit hoofde van hun functie dan wel betrokkenheid bij de behandeling van klachten bekend is geworden.
 
 #### § 3. Het indienen van klachten
 
-#### Artikel 9
+##### Artikel 9
 
 1. Een klacht kan, uiterlijk zes maanden nadat de gedraging of het feit waartegen de klacht zich richt heeft plaatsgevonden, worden ingediend door de:
 
@@ -142,29 +168,29 @@ De leden, plaatsvervangende leden en de medewerkers van de commissie hebben een 
 
 4. De commissie bevestigt binnen een week de ontvangst van de klacht schriftelijk onder vermelding van de wijze waarop en de termijn waarbinnen de klacht zal worden behandeld.
 
-#### Artikel 10
+##### Artikel 10
 
 Indien klager hetzij voorafgaand aan de indiening van een klacht bij de commissie, hetzij tijdens een bij de commissie lopende procedure, elders een procedure is gestart over het onderwerp van de klacht, dan informeert hij de commissie hierover. De commissie beoordeelt in hoeverre dit gevolgen moet hebben voor de verdere behandeling van een bij haar aanhangige klacht.
 
 #### § 4. Het behandelen van klachten
 
-#### Artikel 11
+##### Artikel 11
 
 1. Alvorens een klacht in behandeling te nemen, gaat de commissie in overleg met de klager na in hoeverre er mogelijkheden zijn voor een behandeling van de klacht door de verweerder. Indien dit tot de reële mogelijkheden behoort geeft de commissie de klager in overweging hiervan gebruik te maken. Mocht de klager hiertoe besluiten dan neemt de commissie de klacht niet in behandeling.
 
 2. Indien een klacht door de commissie in behandeling wordt genomen en die klacht naar het oordeel van de commissie onvoldoende informatie bevat, stelt zij de klager in de gelegenheid aanvullende informatie te verstrekken, binnen een door de commissie te bepalen termijn.
 
-#### Artikel 12
+##### Artikel 12
 
 De commissie doet binnen een week na de ontvangst van de klacht dan wel, bij toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013030&paragraaf=4&artikel=11&z=2017-07-01&g=2017-07-01), binnen een week na ontvangst van de aanvullende informatie, mededeling van de inhoud van de klacht aan de verweerder, met het verzoek daarop binnen twee weken schriftelijk te reageren. De commissie kan zo nodig deze laatste termijn verlengen.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De klager en de verweerder kunnen zich bij de behandeling van de klacht door een derde laten bijstaan of vertegenwoordigen.
 
 2. De klager en de verweerder kunnen de commissie verzoeken andere personen die direct bij de ingediende klacht zijn betrokken, getuigen en deskundigen te horen. Als de klager of de verweerder van deze bevoegdheid gebruik wenst te maken, dient hij ten minste twee weken voor de zitting de namen van de getuigen en deskundigen aan de commissie op te geven. De commissie beslist binnen een week op het verzoek daartoe en informeert de wederpartij terzake.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De klager, de verweerder en eventuele andere betrokkenen, getuigen en deskundigen kunnen in een besloten zitting in de gelegenheid worden gesteld hun visie tijdens een mondelinge behandeling aan de commissie duidelijk te maken. Op verzoek van de klager of de verweerder kan de commissie beslissen tot het horen in gescheiden besloten zittingen.
 
@@ -172,7 +198,7 @@ De commissie doet binnen een week na de ontvangst van de klacht dan wel, bij toe
 
 #### § 5. Het oordeel van de commissie
 
-#### Artikel 15
+##### Artikel 15
 
 1. Binnen zes weken na de mondelinge behandeling of binnen zes weken na verzending van de ontvangstbevestiging van de klacht indien geen mondelinge behandeling plaats vindt, geeft de commissie een schriftelijk en met redenen omkleed oordeel over de gegrondheid van de klacht. Bij afwijking van deze termijn doet de commissie met redenen omkleed mededeling aan de klager en de verweerder, onder vermelding van een andere, redelijke termijn waarbinnen de commissie haar oordeel uit zal brengen.
 
@@ -192,13 +218,13 @@ De commissie doet binnen een week na de ontvangst van de klacht dan wel, bij toe
 
 #### § 6. Kosten
 
-#### Artikel 16
+##### Artikel 16
 
 Onze Minister voorziet in een bij beschikking vast te stellen tegemoetkoming ter financiering van de kosten van de commissie.
 
 #### § 7. Evaluatie
 
-#### Artikel 17
+##### Artikel 17
 
 Vervallen
 
@@ -206,19 +232,19 @@ Vervallen
 
 #### Archief
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
 #### Inwerkingtreding
 
-#### Artikel 19
+##### Artikel 19
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 #### Citeertitel
 
-#### Artikel 20
+##### Artikel 20
 
 Dit besluit wordt aangehaald als: Besluit klachtenbehandeling aanstellingskeuringen.
 

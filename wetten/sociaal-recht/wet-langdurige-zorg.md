@@ -1,14 +1,41 @@
 ---
-title: "Wet langdurige zorg"
+title: "Wet van 3 december 2014, houdende regels inzake de verzekering van zorg aan mensen die zijn aangewezen op langdurige zorg (Wet langdurige zorg)"
 identifier: "BWBR0035917"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035917"
+country: "nl"
+rank: "wet"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035917"
+soort: "wet"
+stam_id: "12879053"
+version_id: "21897282"
+internal_id: "C31469311"
+label_id: "12850634"
+dtd_version: "2.0"
+original_entry_into_force: "2015-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035917/2026-01-01/0"
+intitule_bron: "Stb.2014-494"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-12-03"
+intitule_published: "2014-12-12"
+intitule_in_force: "2014-12-18"
+intitule_status: "goed"
+original_publication: "Stb.2014-494"
+original_signed_date: "2014-12-03"
+original_published_date: "2014-12-12"
+original_effect: "nieuwe-regeling"
+original_dossier: "33891"
+original_url_id: "stb-2014-494"
+entry_into_force_date: "2015-01-01"
+jci_1_3: "jci1.3:c:BWBR0035917&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0035917&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet langdurige zorg"
+signed_date: "2014-12-03"
+entry_into_force: "2015-01-01"
 ---
-
-# Wet langdurige zorg
+# Wet van 3 december 2014, houdende regels inzake de verzekering van zorg aan mensen die zijn aangewezen op langdurige zorg (Wet langdurige zorg)
 
 ### Hoofdstuk 1. Begripsbepalingen en algemene bepalingen
 
@@ -34,7 +61,7 @@ bron: "https://wetten.overheid.nl/BWBR0035917"
 
 #### § 1. Overgangsrecht verzekerden
 
-#### Artikel 11.1.1
+##### Artikel 11.1.1
 
 1. De verzekerde die onmiddellijk voorafgaand aan de intrekking van de Algemene Wet Bijzondere Ziektekosten op grond van een indicatiebesluit is aangewezen op een zorgzwaartepakket 4 VV, 5 VV, 6 VV, 7 VV, 8 VV, 9b VV, 10 VV, 4 VG, 5 VG, 6 VG, 7 VG, 8 VG, 1 SGLVG, 2 LG, 4 LG, 5 LG, 6 LG, 7 LG, 2 ZGaud, 3 ZGaud, 4 ZGaud, 2 ZGvis, 3 ZGvis, 4 ZGvis of 5 ZGvis, dan wel, voor een meerderjarige verzekerde, op een zorgzwaartepakket 1 LVG, 2 LVG, 3 LVG, 4 LVG, 5 LVG of 3 VG, wordt voor de toepassing van deze wet gelijkgesteld met een verzekerde ten aanzien van wie het CIZ heeft vastgesteld dat hij voldoet aan [artikel 3.2.1, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2026-01-01&g=2026-01-01).
 
@@ -48,7 +75,7 @@ bron: "https://wetten.overheid.nl/BWBR0035917"
 
 6. Tot bij ministeriële regeling aan te wijzen groepen behorende verzekerden die onmiddellijk voorafgaande aan de intrekking van de Algemene Wet Bijzondere Ziektekosten op grond van een indicatie voor extramurale zorg dergelijke zorg in natura genoten of een persoonsgebonden budget ontvingen en die het indicatieorgaan, bedoeld in artikel 9a van die wet, voor 1 januari 2015 hebben laten weten voor zorg als bedoeld in deze wet in aanmerking te willen komen, ontvangen van dat indicatieorgaan een op 1 januari 2015 ingaand indicatiebesluit als bedoeld in [artikel 3.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=3&paragraaf=2&artikel=3.2.3&z=2026-01-01&g=2026-01-01), met een geldigheidsduur tot 1 januari 2016.
 
-#### Artikel 11.1.2
+##### Artikel 11.1.2
 
 1. De verzekerde, bedoeld in [artikel 11.1.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=11&paragraaf=1&artikel=11.1.1&z=2026-01-01&g=2026-01-01), heeft gedurende de geldigheidsduur van het indicatiebesluit en tot het moment waarop hij in een instelling is gaan verblijven, maar uiterlijk tot 1 januari 2016 recht op voortzetting van de aanspraken of het persoonsgebonden budget waarop hij bij of krachtens de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) krachtens een zorgindicatiebesluit aanspraak had op de dag vóór de intrekking van die wet, met dien verstande dat de hoogte van het persoonsgebonden budget wordt bepaald met inachtneming van hetgeen geregeld is krachtens [artikel 11.1.5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=11&paragraaf=1&artikel=11.1.5&z=2026-01-01&g=2026-01-01). In afwijking van [artikel 3.3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=3&paragraaf=3&artikel=3.3.1&z=2026-01-01&g=2026-01-01), heeft een verzekerde als bedoeld in artikel 11.1.1, derde lid, vanaf 1 januari 2016 slechts recht op zorg met verblijf in een instelling. De vorige volzin geldt niet voor een verzekerde van wie het CIZ na de inwerkingtreding van deze wet op aanvraag heeft vastgesteld dat hij voldoet aan [artikel 3.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2026-01-01&g=2026-01-01).
 
@@ -72,25 +99,25 @@ bron: "https://wetten.overheid.nl/BWBR0035917"
 
 8. In afwijking van het eerste lid kan de verzekerde, bedoeld in [artikel 11.1.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=11&paragraaf=1&artikel=11.1.1&z=2026-01-01&g=2026-01-01), die op 31 december 2015 een volledig pakket thuis als bedoeld in [artikel 3.3.2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=3&paragraaf=3&artikel=3.3.2&z=2026-01-01&g=2026-01-01), ontving, kiezen voor voortzetting van zorgverlening door middel van een volledig pakket thuis. In afwijking van [artikel 3.3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=3&paragraaf=3&artikel=3.3.1&z=2026-01-01&g=2026-01-01), heeft de verzekerde die kiest voor voortzetting van deze zorgverlening vanaf 1 januari 2016 slechts recht op zorgverlening door middel van een volledig pakket thuis dan wel verblijf in een instelling. De vorige volzin geldt niet voor een verzekerde van wie het CIZ na de inwerkingtreding van deze wet op aanvraag heeft vastgesteld dat hij voldoet aan [artikel 3.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 11.1.3
+##### Artikel 11.1.3
 
 1. Tenzij hij op dat moment een jeugdige is als bedoeld in [artikel 1.1, subonderdelen 1° of 2°, van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1), wordt de verzekerde die onmiddellijk voorafgaande aan de intrekking van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) zorg behorende tot een zorgzwaartepakket B GGZ ontvangt en op eerder bedoeld moment met een dergelijk zorgzwaartepakket in een instelling verblijft dan wel op dat moment niet meer in een instelling verblijft maar uiterlijk negentig dagen na zijn ontslag wederom op deze zorg aangewezen raakt, voor de toepassing van deze wet gelijkgesteld met een verzekerde als bedoeld in [artikel 3.2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=3&paragraaf=2&artikel=3.2.2&z=2026-01-01&g=2026-01-01). De geldigheidsduur van het indicatiebesluit van de verzekerde, bedoeld in de vorige volzin, wordt ambtshalve op drie jaar gesteld, te rekenen vanaf de datum waarop de Algemene Wet Bijzondere Ziektekosten wordt ingetrokken.
 
 2. Tenzij hij op dat moment een jeugdige is als bedoeld in [artikel 1.1, subonderdelen 1° of 2°, van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1), wordt de verzekerde die onmiddellijk voorafgaande aan de intrekking van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) op grond van zijn indicatiebesluit is aangewezen op een zorgzwaartepakket B GGZ en op eerder bedoeld moment op grond van dat indicatiebesluit een persoonsgebonden budget ontving, voor de toepassing van deze wet gelijkgesteld met een verzekerde als bedoeld in [artikel 3.2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=3&paragraaf=2&artikel=3.2.2&z=2026-01-01&g=2026-01-01), en kan hij in afwijking van [artikel 3.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=3&paragraaf=3&artikel=3.3.4&z=2026-01-01&g=2026-01-01) in plaats van voor verblijf kiezen voor voortzetting van zijn persoonsgebonden budget. In dat geval zijn de bij en krachtens [artikel 3.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=3&paragraaf=3&artikel=3.3.3&z=2026-01-01&g=2026-01-01) gestelde regels alsmede de tweede volzin van het eerste lid van toepassing.
 
-#### Artikel 11.1.4
+##### Artikel 11.1.4
 
 1. Bij of krachtens algemene maatregel van bestuur kan worden bepaald dat de verzekerde, bedoeld in [artikel 11.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=11&paragraaf=1&artikel=11.1.1&z=2026-01-01&g=2026-01-01), [11.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=11&paragraaf=1&artikel=11.1.2&z=2026-01-01&g=2026-01-01) of [11.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=11&paragraaf=1&artikel=11.1.3&z=2026-01-01&g=2026-01-01), de kosten van de daar bedoelde zorg gedeeltelijk draagt. De [artikelen 3.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=3&paragraaf=2&artikel=3.2.5&z=2026-01-01&g=2026-01-01), [9.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=9&paragraaf=1&artikel=9.1.2&z=2026-01-01&g=2026-01-01) en [9.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=9&paragraaf=1&artikel=9.1.3&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing.
 
 2. Het CAK is belast met de vaststelling en inning van de eigen bijdragen, bedoeld in het eerste lid.
 
-#### Artikel 11.1.5
+##### Artikel 11.1.5
 
 1. Bij ministeriële regeling wordt bepaald op welke wijze de Wlz-uitvoerder de verstrekking van garantiebedragen voor de hoogte van een persoonsgebonden budget voortzet, met betrekking tot verzekerden aan wie voor de subsidieperiode die eindigde op 31 december van het jaar voorafgaand aan het jaar met ingang waarvan de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) wordt ingetrokken op grond [artikel 2.6.6a van de Regeling subsidies AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0019161&artikel=2.6.6a), zoals die regeling voor de intrekking van de Algemene Wet Bijzondere Ziektekosten luidde, een garantiebedrag is verleend.
 
 2. De voorwaarden voor de in het eerste lid genoemde subsidie kunnen voor verschillende categorieën van verzekerden verschillend worden vastgesteld.
 
-#### Artikel 11.1.6
+##### Artikel 11.1.6
 
 1. Bij ministeriële regeling kan worden bepaald in welke gevallen en onder welke voorwaarden een verzekerde het gebruik van een hulpmiddel waarop hij krachtens de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) recht had, kan voortzetten op grond van deze wet.
 
@@ -100,11 +127,11 @@ bron: "https://wetten.overheid.nl/BWBR0035917"
 
 4. Bij ministeriële regeling kan worden bepaald in welke gevallen en onder welke voorwaarden een verzekerde het gebruik van een hulpmiddel waarop hij onmiddellijk voorafgaand aan de afloop van de in het tweede en derde lid bedoelde periode krachtens de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) recht had, kan voortzetten op grond van deze wet.
 
-#### Artikel 11.1.7
+##### Artikel 11.1.7
 
 Onverminderd [artikel 8.1, tweede lid, van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=8.1), neemt het CIZ op een aanvraag als bedoeld in [artikel 9b, eerste lid, van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=9b), een indicatiebesluit met inachtneming van hetgeen bij of krachtens die wet was bepaald, voor zover geoordeeld wordt of de verzekerde is aangewezen op verblijf als bedoeld in [artikel 9 van het Besluit zorgaanspraken AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=9), zoals dat artikel luidde op de dag vóór de intrekking van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614).
 
-#### Artikel 11.1.8
+##### Artikel 11.1.8
 
 Bij ministeriële regeling kunnen ter aanvulling van de [artikelen 11.1.1 tot en met 11.1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=11&paragraaf=1&artikel=11.1.1&z=2026-01-01&g=2026-01-01) regels worden gesteld ten aanzien van aanspraken, rechten en verplichtingen van verzekerden die onmiddellijk voorafgaand aan de intrekking van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) op grond van een indicatiebesluit waren aangewezen op zorg op grond van die wet.
 
@@ -126,7 +153,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1.1.1
+##### Artikel 1.1.1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -204,7 +231,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. **zorgverzekering:** een zorgverzekering als bedoeld in [artikel 1, onderdeel d, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1).
 
-#### Artikel 1.1.2
+##### Artikel 1.1.2
 
 1. Voor de toepassing van deze wet en de daarop berustende bepalingen wordt gelijkgesteld met:
 
@@ -240,11 +267,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2. Algemene bepalingen
 
-#### Artikel 1.2.1
+##### Artikel 1.2.1
 
 Ingezetene in de zin van deze wet is degene, die in Nederland woont.
 
-#### Artikel 1.2.2
+##### Artikel 1.2.2
 
 1. Waar iemand woont en waar een lichaam gevestigd is, wordt naar de omstandigheden beoordeeld.
 
@@ -254,7 +281,7 @@ Ingezetene in de zin van deze wet is degene, die in Nederland woont.
 
 #### § 1. De kring van verzekerden
 
-#### Artikel 2.1.1
+##### Artikel 2.1.1
 
 1. Verzekerd overeenkomstig de bepalingen van deze wet is degene, die:
 
@@ -278,7 +305,7 @@ Ingezetene in de zin van deze wet is degene, die in Nederland woont.
 
 - b. vreemdelingen die, na in Nederland rechtmatig verblijf te hebben genoten als bedoeld in [artikel 8, onder a tot en met e en l, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), tijdig toelating in aansluiting op dat verblijf hebben aangevraagd, dan wel bezwaar hebben gemaakt of beroep hebben ingesteld tegen de intrekking van het besluit tot toelating, totdat op die aanvraag, dat bezwaar of dat beroep is beslist.
 
-#### Artikel 2.1.2
+##### Artikel 2.1.2
 
 Zo nodig in afwijking van [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=2&paragraaf=1&artikel=2.1.1&z=2026-01-01&g=2026-01-01) en de daarop berustende bepalingen:
 
@@ -286,13 +313,13 @@ Zo nodig in afwijking van [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BW
 
 - b. wordt niet als verzekerde aangemerkt de persoon op wie op grond van een verdrag of een besluit van een volkenrechtelijke organisatie de wetgeving van een andere mogendheid van toepassing is.
 
-#### Artikel 2.1.3
+##### Artikel 2.1.3
 
 De Sociale verzekeringsbank stelt ambtshalve en, desgevraagd, op aanvraag vast of een natuurlijke persoon voldoet aan de bij of krachtens de [artikelen 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=2&paragraaf=1&artikel=2.1.1&z=2026-01-01&g=2026-01-01) of [2.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=2&paragraaf=1&artikel=2.1.2&z=2026-01-01&g=2026-01-01) vastgestelde voorwaarden voor het verzekerd zijn ingevolge deze wet.
 
 #### § 2. De inschrijving van verzekerden
 
-#### Artikel 2.2.1
+##### Artikel 2.2.1
 
 1. Indien de verzekerde een zorgverzekering heeft, meldt zijn zorgverzekeraar hem met ingang van de datum waarop de zorgverzekering ingaat, onder vermelding van zijn burgerservicenummer ter inschrijving aan:
 
@@ -310,7 +337,7 @@ De Sociale verzekeringsbank stelt ambtshalve en, desgevraagd, op aanvraag vast o
 
 6. De natuurlijke persoon die op grond van [artikel 64, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=64) is ontheven van de verplichtingen, opgelegd op grond van deze wet, wordt door de Sociale verzekeringsbank ter inschrijving aangemeld bij het zorgkantoor voor de regio waarin hij woont.
 
-#### Artikel 2.2.2
+##### Artikel 2.2.2
 
 1. De verzekerde die zich ingevolge [artikel 2.2.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2026-01-01&g=2026-01-01), bij een Wlz-uitvoerder aanmeldt ter inschrijving, vermeldt daarbij zijn burgerservicenummer.
 
@@ -320,7 +347,7 @@ De Sociale verzekeringsbank stelt ambtshalve en, desgevraagd, op aanvraag vast o
 
 #### § 1. De verzekerde zorg
 
-#### Artikel 3.1.1
+##### Artikel 3.1.1
 
 1. Het op grond van deze wet verzekerde pakket omvat de volgende vormen van zorg:
 
@@ -362,13 +389,13 @@ De Sociale verzekeringsbank stelt ambtshalve en, desgevraagd, op aanvraag vast o
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen aard, inhoud en omvang van de verzekerde zorg nader worden geregeld.
 
-#### Artikel 3.1.2
+##### Artikel 3.1.2
 
 1. De echtgenoot van een persoon met een somatische of psychogeriatrische aandoening of beperking, of met een verstandelijke, lichamelijke of zintuiglijke handicap die recht heeft op zorg en in een instelling verblijft, heeft in afwijking van [artikel 3.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2026-01-01&g=2026-01-01), recht op verblijf als bedoeld in [artikel 3.1.1, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=3&paragraaf=1&artikel=3.1.1&z=2026-01-01&g=2026-01-01), in dezelfde instelling. Hij behoudt recht op verblijf in die instelling na het overlijden van zijn echtgenoot dan wel na het vertrek van zijn echtgenoot naar een andere instelling.
 
 2. Bij of krachtens algemene maatregel van bestuur kan worden bepaald in welke gevallen en onder welke voorwaarden de echtgenoot van de verzekerde met een verstandelijke, lichamelijke of zintuiglijke handicap recht heeft op verblijf als bedoeld in het eerste lid.
 
-#### Artikel 3.1.3
+##### Artikel 3.1.3
 
 1. De verzekerde die recht heeft op zorg, heeft recht op een vergoeding voor een woningaanpassing die bedoeld is om de door hem gekozen verblijfplaats geschikt te doen zijn voor de verlening van zorg, voor zover:
 
@@ -378,7 +405,7 @@ De Sociale verzekeringsbank stelt ambtshalve en, desgevraagd, op aanvraag vast o
 
 2. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot het eerste lid.
 
-#### Artikel 3.2.1
+##### Artikel 3.2.1
 
 1. Een verzekerde heeft recht op zorg die op zijn behoeften, persoonskenmerken en mogelijkheden is afgestemd voor zover hij naar aard, inhoud en omvang en uit een oogpunt van doelmatige zorgverlening redelijkerwijs op die zorg is aangewezen omdat hij, vanwege een somatische of psychogeriatrische aandoening of beperking, een psychische stoornis of een verstandelijke, lichamelijke of zintuiglijke handicap, een blijvende behoefte heeft aan:
 
@@ -422,7 +449,7 @@ De Sociale verzekeringsbank stelt ambtshalve en, desgevraagd, op aanvraag vast o
 
 6. In afwijking van het eerste lid heeft een jeugdige als bedoeld in de eerste twee onderdelen van het begrip jeugdige van [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1) geen recht op zorg indien hij vanwege een psychische stoornis een blijvende behoefte heeft aan permanent toezicht of 24 uur per dag zorg in de nabijheid als bedoeld in het eerste lid, onder a en b.
 
-#### Artikel 3.2.2
+##### Artikel 3.2.2
 
 1. Een verzekerde met een psychische stoornis wiens recht op verblijf en de daarbij behorende medisch noodzakelijke geneeskundige zorg op grond van zijn zorgverzekering beëindigd is omdat de krachtens zijn zorgverzekering geldende maximumduur voor die zorg is bereikt, heeft aansluitend recht op voortzetting van deze zorg gedurende een onafgebroken periode van maximaal drie jaar.
 
@@ -432,7 +459,7 @@ De Sociale verzekeringsbank stelt ambtshalve en, desgevraagd, op aanvraag vast o
 
 4. Een verzekerde heeft slechts recht op zorg als bedoeld in het eerste en tweede lid voor zover hij daar naar aard, inhoud en omvang en uit een oogpunt van doelmatige zorgverlening redelijkerwijs op is aangewezen.
 
-#### Artikel 3.2.3
+##### Artikel 3.2.3
 
 1. Het recht op zorg wordt op aanvraag van de verzekerde in een indicatiebesluit vastgesteld door het CIZ. Het recht op zorg dat wordt vastgesteld in het indicatiebesluit sluit aan bij de behoefte van de verzekerde.
 
@@ -452,7 +479,7 @@ De Sociale verzekeringsbank stelt ambtshalve en, desgevraagd, op aanvraag vast o
 
 7. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de wijze waarop de indicatie tot stand komt en over de inrichting en geldigheidsduur van het indicatiebesluit.
 
-#### Artikel 3.2.4
+##### Artikel 3.2.4
 
 Het CIZ kan een indicatiebesluit herzien dan wel intrekken indien het CIZ vaststelt dat:
 
@@ -460,7 +487,7 @@ Het CIZ kan een indicatiebesluit herzien dan wel intrekken indien het CIZ vastst
 
 - b. de verzekerde niet langer op de geïndiceerde zorg is aangewezen.
 
-#### Artikel 3.2.5
+##### Artikel 3.2.5
 
 1. Bij of krachtens algemene maatregel van bestuur kan worden bepaald dat het recht op zorg slechts tot gelding kan worden gebracht indien de verzekerde de kosten daarvan gedeeltelijk draagt. De eigen bijdrage kan verschillen naar gelang de groep waartoe de verzekerde behoort, de zorg die verstrekt wordt en de wijze waarop het recht op zorg tot gelding wordt gebracht, en kan mede afhankelijk gesteld worden van het inkomen en vermogen van de verzekerde en diens echtgenoot.
 
@@ -470,7 +497,7 @@ Het CIZ kan een indicatiebesluit herzien dan wel intrekken indien het CIZ vastst
 
 4. Het eerste tot en met derde lid zijn van overeenkomstige toepassing op de [artikelen 3.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=3&paragraaf=1&artikel=3.1.2&z=2026-01-01&g=2026-01-01) en [3.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=3&paragraaf=1&artikel=3.1.3&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 3.2.6
+##### Artikel 3.2.6
 
 1. Bij of krachtens algemene maatregel van bestuur kan worden bepaald dat zorg wordt voortgezet na het tijdstip waarop de verzekering is geëindigd of dat een recht op een vergoeding bestaat voor zorg die wordt verleend na dat tijdstip. Daarbij kunnen beperkingen en voorwaarden worden gesteld. De wijze waarop een zodanige recht tot gelding wordt gebracht, wordt daarbij eveneens geregeld.
 
@@ -484,11 +511,11 @@ Het CIZ kan een indicatiebesluit herzien dan wel intrekken indien het CIZ vastst
 
 - d. een vergoeding van gemaakte kosten geheel of gedeeltelijk wordt geweigerd.
 
-#### Artikel 3.2.7
+##### Artikel 3.2.7
 
 Een recht op zorg kan niet tot gelding worden gebracht gedurende de periode waarin de verzekerde in een penitentiaire inrichting als bedoeld in [artikel 3, eerste lid, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=3), een instelling als bedoeld in [artikel 1.1, eerste lid, onderdelen i en j, van de Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=1.1) of een gesloten accommodatie als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1) verblijft.
 
-#### Artikel 3.2.8
+##### Artikel 3.2.8
 
 1. Voor militairen in werkelijke dienst als bedoeld in [artikel 1, eerste lid, onderdeel a juncto onderdeel b, van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=1), alsmede voor militairen aan wie buitengewoon verlof met behoud van militaire inkomsten is verleend, treden de aanspraken inzake zorg door of vanwege de Militair Geneeskundige Dienst in de plaats van de rechten op grond van deze wet.
 
@@ -496,13 +523,13 @@ Een recht op zorg kan niet tot gelding worden gebracht gedurende de periode waar
 
 #### § 3. De leveringsvormen
 
-#### Artikel 3.3.1
+##### Artikel 3.3.1
 
 1. De verzekerde die recht heeft op zorg, kan ervoor kiezen om zijn recht tot gelding te brengen met zorg in natura, bestaande uit zorg met verblijf in een instelling, een volledig pakket thuis als bedoeld in [artikel 3.3.2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=3&paragraaf=3&artikel=3.3.2&z=2026-01-01&g=2026-01-01), of een modulair pakket thuis als bedoeld in artikel 3.3.2, eerste lid, onderdeel b, dan wel met een persoonsgebonden budget. De verzekerde kan tevens kiezen om zijn recht tot gelding te brengen met een modulair pakket thuis in combinatie met een persoonsgebonden budget.
 
 2. De verzekerde die zijn recht op zorg tot gelding wil brengen met zorg in natura, wendt zich daartoe tot een zorgaanbieder met wie de Wlz-uitvoerder waarbij hij is ingeschreven tot dat doel een overeenkomst als bedoeld in [artikel 4.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=4&paragraaf=2&artikel=4.2.2&z=2026-01-01&g=2026-01-01) heeft gesloten. Indien er meerdere gecontracteerde zorginstellingen zijn die de verzekerde binnen redelijke termijn de zorg kunnen verlenen waaraan hij behoefte heeft, stelt de Wlz-uitvoerder hem in de gelegenheid uit deze instellingen te kiezen.
 
-#### Artikel 3.3.2
+##### Artikel 3.3.2
 
 1. De Wlz-uitvoerder laat, op aanvraag van de verzekerde en onverminderd het derde, vierde en achtste lid, zorg in natura leveren zonder dat de verzekerde in een instelling verblijft, door middel van:
 
@@ -536,7 +563,7 @@ Een recht op zorg kan niet tot gelding worden gebracht gedurende de periode waar
 
 9. In afwijking van het eerste lid, onderdeel a, kunnen bij ministeriële regeling aan te wijzen vormen van zorg door een andere zorgaanbieder dan de zorgaanbieder die het volledig pakket thuis verleent, worden verleend.
 
-#### Artikel 3.3.3
+##### Artikel 3.3.3
 
 1. Het zorgkantoor verleent op aanvraag van de verzekerde en onverminderd het vierde en vijfde lid alsmede andere bij wettelijk voorschrift gestelde voorwaarden of beperkingen, volgens bij of krachtens algemene maatregel van bestuur te stellen regels, een persoonsgebonden budget waarmee de verzekerde, in plaats van zorg in natura te ontvangen, zelf betalingen doet voor zorg als bedoeld in [artikel 3.1.1, eerste lid, onderdelen a, onder 2°, b, f of g](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=3&paragraaf=1&artikel=3.1.1&z=2026-01-01&g=2026-01-01) en andere huishoudelijke hulp dan het schoonhouden van de woonruimte van de verzekerde. De verzekerde ziet af van het recht op verblijf en van de daarmee gepaard gaande voorziening, bedoeld in artikel 3.1.1, eerste lid, onderdeel a, onder 1°, alsmede van de behandeling, bedoeld in artikel 3.1.1, eerste lid, onderdeel d.
 
@@ -586,11 +613,11 @@ beperkingen of eisen die bij of krachtens algemene maatregel van bestuur aan de 
 
 9. De op grond van het eerste, vijfde, zesde en achtste lid gestelde regels kunnen voor verschillende categorieën van verzekerden verschillend worden vastgesteld.
 
-#### Artikel 3.3.4
+##### Artikel 3.3.4
 
 In afwijking van de [artikelen 3.3.1 tot en met 3.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=3&paragraaf=3&artikel=3.3.1&z=2026-01-01&g=2026-01-01) kan een verzekerde als bedoeld in [artikel 3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=3&paragraaf=2&artikel=3.2.2&z=2026-01-01&g=2026-01-01) zijn recht op zorg slechts tot gelding brengen in een instelling waarmee de Wlz-uitvoerder waarbij hij is ingeschreven een overeenkomst als bedoeld in [artikel 4.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=4&paragraaf=2&artikel=4.2.2&z=2026-01-01&g=2026-01-01) heeft gesloten.
 
-#### Artikel 3.3.5
+##### Artikel 3.3.5
 
 1. Een recht op zorg kan uitsluitend met zorg in natura tot gelding worden gebracht bij een zorgaanbieder die is gevestigd in Nederland, Zwitserland of een van de staten van de Europese Unie of de Europese Economische Ruimte, en die de verzekerde deze zorg in zijn staat van vestiging verleent.
 
@@ -610,7 +637,7 @@ In afwijking van de [artikelen 3.3.1 tot en met 3.3.3](https://wetten.overheid.n
 
 #### § 1. De aan- en afmelding en de statuten
 
-#### Artikel 4.1.1
+##### Artikel 4.1.1
 
 1. Een rechtspersoon die behoort tot een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b) waarvan ook een zorgverzekeraar deel uitmaakt en die deze wet ten aanzien van de verzekerden wenst uit te voeren, meldt zich daartoe als Wlz-uitvoerder aan bij de zorgautoriteit, onder vermelding van de dag met ingang waarvan hij voornemens is zulks te gaan doen.
 
@@ -628,7 +655,7 @@ In afwijking van de [artikelen 3.3.1 tot en met 3.3.3](https://wetten.overheid.n
 
 6. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de wijze waarop wordt vastgesteld of de geschiktheid en betrouwbaarheid van een persoon als bedoeld in het vijfde lid buiten twijfel staat en welke feiten en omstandigheden daarbij in aanmerking worden genomen.
 
-#### Artikel 4.1.2
+##### Artikel 4.1.2
 
 1. De statuten van een Wlz-uitvoerder:
 
@@ -642,7 +669,7 @@ In afwijking van de [artikelen 3.3.1 tot en met 3.3.3](https://wetten.overheid.n
 
 2. Bij algemene maatregel van bestuur kunnen regels worden gesteld over de mate van invloed die verzekerden ten minste op het beleid van een Wlz-uitvoerder dienen te hebben.
 
-#### Artikel 4.1.3
+##### Artikel 4.1.3
 
 1. De Wlz-uitvoerder die deze wet niet meer wenst uit te voeren, meldt het voornemen hiertoe schriftelijk aan de zorgautoriteit, onder vermelding van de dag waarop hij deze wet niet meer zal uitvoeren.
 
@@ -650,7 +677,7 @@ In afwijking van de [artikelen 3.3.1 tot en met 3.3.3](https://wetten.overheid.n
 
 3. De in het eerste lid bedoelde Wlz-uitvoerder kan door de zorgautoriteit met inachtneming van bij algemene maatregel van bestuur te stellen regels worden verplicht tot het voortzetten van de uitvoering van deze wet tot is voorzien in een zodanige afwikkeling van de activiteiten van de Wlz-uitvoerder dat verzekerden en zorgaanbieders daarvan geen onevenredig nadeel ondervinden.
 
-#### Artikel 4.1.4
+##### Artikel 4.1.4
 
 1. Indien de Wlz-uitvoerder verkeert in de toestand dat hij heeft opgehouden te betalen, voldoet het Zorginstituut aan verzekerden en aan zorgaanbieders jegens die Wlz-uitvoerder of voormalige Wlz-uitvoerder bestaande vorderingen, ter zake van op grond van deze wet verstrekte zorg of vergoeding van daarvoor gemaakte kosten.
 
@@ -660,7 +687,7 @@ In afwijking van de [artikelen 3.3.1 tot en met 3.3.3](https://wetten.overheid.n
 
 #### § 2. De taken van de Wlz-uitvoerder
 
-#### Artikel 4.2.1
+##### Artikel 4.2.1
 
 1. De Wlz-uitvoerder heeft een zorgplicht, die inhoudt dat:
 
@@ -688,7 +715,7 @@ In afwijking van de [artikelen 3.3.1 tot en met 3.3.3](https://wetten.overheid.n
 
 4. De voordracht voor een krachtens het derde lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
-#### Artikel 4.2.2
+##### Artikel 4.2.2
 
 1. Ter uitvoering van zijn zorgplicht sluit een Wlz-uitvoerder schriftelijke overeenkomsten met zorgaanbieders die zorg kunnen verlenen die ingevolge [artikel 3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=3&paragraaf=1&artikel=3.1.1&z=2026-01-01&g=2026-01-01) verzekerd is.
 
@@ -720,11 +747,11 @@ In afwijking van de [artikelen 3.3.1 tot en met 3.3.3](https://wetten.overheid.n
 
 8. De voordracht voor een krachtens het zevende lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
-#### Artikel 4.2.3
+##### Artikel 4.2.3
 
 Bij algemene maatregel van bestuur kunnen regels worden gesteld waarmee de zorg persoonsvolgend kan worden bekostigd.
 
-#### Artikel 4.2.4
+##### Artikel 4.2.4
 
 1. De Wlz-uitvoerder is verantwoordelijk voor de uitvoering van hetgeen bij en krachtens deze wet is geregeld voor de bij hem ingeschreven verzekerden. De eerste volzin geldt niet voor werkzaamheden die bij of krachtens de wet aan een andere rechtspersoon zijn opgedragen.
 
@@ -746,11 +773,11 @@ Bij algemene maatregel van bestuur kunnen regels worden gesteld waarmee de zorg 
 
 10. Overeenkomsten die in strijd met het bij en krachtens het vierde en negende lid of het bij of krachtens [artikel 4.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=4&paragraaf=2&artikel=4.2.2&z=2026-01-01&g=2026-01-01) bepaalde zijn gesloten, zijn nietig.
 
-#### Artikel 4.2.5
+##### Artikel 4.2.5
 
 De Wlz-uitvoerder is verplicht zijn werkzaamheden op een doelmatige wijze uit te voeren. Hij treft de nodige maatregelen ter voorkoming van de verstrekking van onnodige zorg en van uitgaven die hoger dan noodzakelijk zijn.
 
-#### Artikel 4.2.6
+##### Artikel 4.2.6
 
 1. De Wlz-uitvoerder voert ter zake van de uitvoering van deze wet een administratie die gescheiden is van de overige activiteiten die plaatsvinden in de groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b), waartoe de Wlz-uitvoerder behoort.
 
@@ -758,7 +785,7 @@ De Wlz-uitvoerder is verplicht zijn werkzaamheden op een doelmatige wijze uit te
 
 #### § 3. Verslaglegging
 
-#### Artikel 4.3.1
+##### Artikel 4.3.1
 
 1. Een Wlz-uitvoerder zendt voor 1 juli aan de zorgautoriteit een financieel verslag over het voorafgaande kalenderjaar. Daarin wordt onderscheid gemaakt tussen de beheerskosten, de overige uitvoeringskosten de lasten bedoeld in het tweede lid, de kosten van verstrekking van zorg en de kosten van persoonsgebonden budgetten, en indien de Wlz-uitvoerder geen zorgkantoor is tussen de beheerskosten, de lasten, bedoeld in het tweede lid, en de kosten van de verstrekking van zorg.
 
@@ -786,7 +813,7 @@ De Wlz-uitvoerder is verplicht zijn werkzaamheden op een doelmatige wijze uit te
 
 6. Op aanvraag van een Wlz-uitvoerder is de zorgautoriteit bevoegd voor in haar besluit aan te wijzen baten en lasten te besluiten dat het ontbreken van een overeenkomst als bedoeld in [artikel 4.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=4&paragraaf=2&artikel=4.2.2&z=2026-01-01&g=2026-01-01) geen gevolgen heeft voor de inhoud van de verklaring, bedoeld in het tweede lid.
 
-#### Artikel 4.3.2
+##### Artikel 4.3.2
 
 1. De Wlz-uitvoerder zendt voor 1 juli aan de zorgautoriteit in tweevoud een uitvoeringsverslag waarin hij:
 
@@ -804,13 +831,13 @@ De Wlz-uitvoerder is verplicht zijn werkzaamheden op een doelmatige wijze uit te
 
 4. [Artikel 4.3.1 vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=4&paragraaf=3&artikel=4.3.1&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 4.3.3
+##### Artikel 4.3.3
 
 Bij het geven van een overzicht van zijn voornemens, bedoeld in [artikel 4.3.2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=4&paragraaf=3&artikel=4.3.2&z=2026-01-01&g=2026-01-01), geeft de Wlz-uitvoerder aan welke criteria worden gehanteerd om te meten of de voornemens zich hebben verwezenlijkt alsmede welke outcomecriteria worden gehanteerd ten aanzien van zorgaanbieders. Bij het rapporteren over de uitvoering van deze wet, bedoeld in artikel 4.3.2, eerste lid, onderdeel a, hanteert de Wlz-uitvoerder de in de eerste volzin genoemde criteria.
 
 #### § 4. Overig
 
-#### Artikel 4.4.1
+##### Artikel 4.4.1
 
 De [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) is niet van toepassing op de Wlz-uitvoerders.
 
@@ -818,7 +845,7 @@ De [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:B
 
 #### § 1. Taken
 
-#### Artikel 5.1.1
+##### Artikel 5.1.1
 
 1. Het Zorginstituut bevordert de rechtmatige en doelmatige uitvoering van deze wet door de Wlz-uitvoerders en het CAK.
 
@@ -826,11 +853,11 @@ De [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:B
 
 3. Het Zorginstituut kan met het oog op de rechtmatige en doelmatige uitvoering van deze wet beleidsregels stellen voor de Wlz-uitvoerders en voor het CAK.
 
-#### Artikel 5.1.2
+##### Artikel 5.1.2
 
 Het Zorginstituut geeft aan Wlz-uitvoerders, aan zorgaanbieders en aan burgers voorlichting over de aard, inhoud en omvang van de zorg die tot het verzekerde pakket behoort.
 
-#### Artikel 5.1.3
+##### Artikel 5.1.3
 
 1. Het Zorginstituut rapporteert Onze Minister desgevraagd over voorgenomen beleid inzake aard, inhoud en omvang van de zorg die tot het verzekerde pakket behoort.
 
@@ -838,17 +865,17 @@ Het Zorginstituut geeft aan Wlz-uitvoerders, aan zorgaanbieders en aan burgers v
 
 3. Het Zorginstituut signaleert gevraagd en ongevraagd aan Onze Minister feitelijke ontwikkelingen op het gebied van kosten van zorg en van de vraag naar en het aanbod van zorg.
 
-#### Artikel 5.1.4
+##### Artikel 5.1.4
 
 Het Zorginstituut voert bij of krachtens algemene maatregel van bestuur genoemde werkzaamheden uit ten behoeve van de gezamenlijke zorg voor de instandhouding van het elektronische gegevensverkeer, bedoeld in [artikel 9.1.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=9&paragraaf=1&artikel=9.1.6&z=2026-01-01&g=2026-01-01).
 
 #### § 2. Planning, financiering en verslaglegging
 
-#### Artikel 5.2.1
+##### Artikel 5.2.1
 
 Vervallen
 
-#### Artikel 5.2.2
+##### Artikel 5.2.2
 
 1. Het Zorginstituut zendt jaarlijks voor 31 december aan Onze Minister met betrekking tot het Fonds langdurige zorg een jaarrekening over het voorafgaande kalenderjaar, alsmede het verslag van bevindingen, bedoeld in het vijfde lid.
 
@@ -868,7 +895,7 @@ Vervallen
 
 6. Het Zorginstituut kan in de jaarrekening de lasten van Wlz-uitvoerders, bedoeld in [artikel 4.3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=4&paragraaf=3&artikel=4.3.1&z=2026-01-01&g=2026-01-01), als lasten van het Fonds langdurige zorg opnemen.
 
-#### Artikel 5.2.3
+##### Artikel 5.2.3
 
 1. De jaarrekening, bedoeld in [artikel 5.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=5&paragraaf=2&artikel=5.2.2&z=2026-01-01&g=2026-01-01) behoeft de goedkeuring van Onze Minister.
 
@@ -886,7 +913,7 @@ Vervallen
 
 #### § 1. Instelling en taak
 
-#### Artikel 6.1.1
+##### Artikel 6.1.1
 
 1. Er is een CAK, dat rechtspersoonlijkheid bezit.
 
@@ -902,7 +929,7 @@ Vervallen
 
 7. [Artikel 15 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) is niet van toepassing ten aanzien van personeel in dienst van het CAK.
 
-#### Artikel 6.1.2
+##### Artikel 6.1.2
 
 Het CAK is belast met:
 
@@ -930,7 +957,7 @@ Het CAK is belast met:
 
 - l. de taken van verbindingsorgaan als bedoeld in artikel 1, tweede lid, onderdeel b, van verordening (EG) nr. 987/2009 van het Europees Parlement en de Raad van 16 september 2009 tot vaststelling van de wijze van toepassing van Verordening (EG) nr. 883/2004 betreffende de coördinatie van de socialezekerheidsstelsels (PbEU 2009, L 284) en in verdragen inzake sociale zekerheid.
 
-#### Artikel 6.1.3
+##### Artikel 6.1.3
 
 1. Het CAK stelt een bestuursreglement vast.
 
@@ -938,7 +965,7 @@ Het CAK is belast met:
 
 #### § 2. Planning, financiering en verslaglegging
 
-#### Artikel 6.2.1
+##### Artikel 6.2.1
 
 1. Het CAK zendt Onze Minister jaarlijks voor 1 november een werkprogramma en een begroting.
 
@@ -950,7 +977,7 @@ Het CAK is belast met:
 
 5. De accountant doet verslag van zijn bevindingen over de vraag of het beheer en de organisatie van het CAK voldoen aan eisen van rechtmatigheid, ordelijkheid en controleerbaarheid.
 
-#### Artikel 6.2.2
+##### Artikel 6.2.2
 
 1. Onze Minister stelt jaarlijks voor 1 december het budget vast voor de door het CAK ter uitvoering van zijn in [artikel 6.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=6&paragraaf=1&artikel=6.1.2&z=2026-01-01&g=2026-01-01) genoemde taken in het volgende kalenderjaar te maken beheerskosten alsmede voor de kosten van de bijdragen, bedoeld in [artikel 122a van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=122a).
 
@@ -962,7 +989,7 @@ Het CAK is belast met:
 
 5. Onze Minister kan besluiten het in het budget opgenomen bedrag voor de beheerskosten te wijzigen.
 
-#### Artikel 6.2.3
+##### Artikel 6.2.3
 
 In afwijking van [artikel 29 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=29) behoeven wijzigingen in de bedragen die in de goedgekeurde begroting zijn opgenomen voor de beheerskosten geen goedkeuring van Onze Minister, mits:
 
@@ -970,11 +997,11 @@ In afwijking van [artikel 29 van de Kaderwet zelfstandige bestuursorganen](https
 
 - b. de wijziging per groep van kostensoorten en baten, gerekend over het desbetreffende begrotingsjaar, een bedrag van vijf procent van het in [artikel 6.2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=6&paragraaf=2&artikel=6.2.2&z=2026-01-01&g=2026-01-01), bedoelde budget, voor zover dat betrekking heeft op beheerskosten, niet te boven gaat.
 
-#### Artikel 6.2.4
+##### Artikel 6.2.4
 
 Na de goedkeuring, bedoeld in [artikel 6.2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=6&paragraaf=2&artikel=6.2.1&z=2026-01-01&g=2026-01-01), alsmede de goedkeuring, bedoeld in de [artikelen 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=29), en [34, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34), stelt het CAK het werkprogramma, de begroting, het jaarverslag en de jaarrekening algemeen verkrijgbaar.
 
-#### Artikel 6.2.5
+##### Artikel 6.2.5
 
 Bij ministeriële regeling kunnen regels worden gesteld over:
 
@@ -992,7 +1019,7 @@ Bij ministeriële regeling kunnen regels worden gesteld over:
 
 - g. de gegevens die worden verstrekt ten behoeve van de vaststelling van het budget.
 
-#### Artikel 6.2.6
+##### Artikel 6.2.6
 
 1. Het CAK zendt voor 1 juli aan de zorgautoriteit een financieel verslag over het voorafgaande kalenderjaar. [Artikel 4.3.1, eerste en derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=4&paragraaf=3&artikel=4.3.1&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
@@ -1002,7 +1029,7 @@ Bij ministeriële regeling kunnen regels worden gesteld over:
 
 #### § 1. Instelling en taak
 
-#### Artikel 7.1.1
+##### Artikel 7.1.1
 
 1. Er is een CIZ, dat rechtspersoonlijkheid bezit.
 
@@ -1018,7 +1045,7 @@ Bij ministeriële regeling kunnen regels worden gesteld over:
 
 7. [Artikel 15 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=15) is niet van toepassing ten aanzien van personeel in dienst van het CIZ.
 
-#### Artikel 7.1.2
+##### Artikel 7.1.2
 
 1. Het CIZ is belast met:
 
@@ -1034,7 +1061,7 @@ Bij ministeriële regeling kunnen regels worden gesteld over:
 
 5. Bij algemene maatregel van bestuur kunnen categorieën van besluiten worden aangewezen waarvoor het verbod op mandaatverlening niet geldt.
 
-#### Artikel 7.1.3
+##### Artikel 7.1.3
 
 1. Het CIZ stelt een bestuursreglement vast.
 
@@ -1042,7 +1069,7 @@ Bij ministeriële regeling kunnen regels worden gesteld over:
 
 #### § 2. Planning, financiering en verslaglegging
 
-#### Artikel 7.2.1
+##### Artikel 7.2.1
 
 1. Het CIZ zendt Onze Minister jaarlijks voor 1 november een werkprogramma en een begroting.
 
@@ -1050,13 +1077,13 @@ Bij ministeriële regeling kunnen regels worden gesteld over:
 
 3. [Artikel 6.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=6&paragraaf=2&artikel=6.2.3&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing op de begroting van het CIZ.
 
-#### Artikel 7.2.2
+##### Artikel 7.2.2
 
 1. Onze Minister stelt jaarlijks voor 1 december het budget vast voor de door het CIZ ter uitvoering van zijn in [artikel 7.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=7&paragraaf=1&artikel=7.1.2&z=2026-01-01&g=2026-01-01) genoemde taken in het volgende kalenderjaar te maken beheerskosten.
 
 2. [Artikel 6.2.2, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=6&paragraaf=2&artikel=6.2.2&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing op het budget voor de door het CIZ te maken beheerskosten.
 
-#### Artikel 7.2.3
+##### Artikel 7.2.3
 
 1. De [artikelen 6.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=6&paragraaf=2&artikel=6.2.4&z=2026-01-01&g=2026-01-01) en [6.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=6&paragraaf=2&artikel=6.2.5&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing op het werkprogramma, de begroting, het budget, het jaarverslag, de jaarrekening en de te vormen egalisatiereserve van het CIZ.
 
@@ -1066,7 +1093,7 @@ Bij ministeriële regeling kunnen regels worden gesteld over:
 
 ### Hoofdstuk 8. Zeggenschap van de verzekerde over zijn leven
 
-#### Artikel 8.1.1
+##### Artikel 8.1.1
 
 1. De verzekerde aan wie een zorgaanbieder zorg verleent, anders dan op grond van [artikel 3.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=3&paragraaf=3&artikel=3.3.3&z=2026-01-01&g=2026-01-01), heeft er recht op dat de zorgaanbieder vóór, dan wel zo spoedig mogelijk na de aanvang van de zorgverlening een bespreking met hem organiseert teneinde afspraken te maken over:
 
@@ -1098,7 +1125,7 @@ Bij ministeriële regeling kunnen regels worden gesteld over:
 
 8. Op verzoek van de verzekerde of van zijn vertegenwoordiger betrekt de zorgaanbieder de mantelzorger of mantelzorgers bij de besprekingen.
 
-#### Artikel 8.1.2
+##### Artikel 8.1.2
 
 1. De verplichtingen op grond van de [artikelen 8.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=8&artikel=8.1.1&z=2026-01-01&g=2026-01-01) en [8.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=8&artikel=8.1.3&z=2026-01-01&g=2026-01-01) worden:
 
@@ -1120,7 +1147,7 @@ Bij ministeriële regeling kunnen regels worden gesteld over:
 
 5. Indien een verzekerde van zestien jaar of ouder niet in staat kan worden geacht tot een redelijke waardering van zijn belangen ter zake, respecteren de zorgaanbieder en de in het eerste lid bedoelde persoon de weigering van toestemming van de verzekerde, mits hij deze heeft vastgelegd in schriftelijke vorm toen hij nog tot een redelijke waardering van zijn belangen in staat was. De zorgaanbieder kan hiervan slechts afwijken om gegronde redenen.
 
-#### Artikel 8.1.3
+##### Artikel 8.1.3
 
 1. De zorgaanbieder legt binnen zes weken na aanvang van de zorgverlening, onderscheidenlijk een evaluatie en actualisatie, de uitkomsten van de in [artikel 8.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=8&artikel=8.1.1&z=2026-01-01&g=2026-01-01) bedoelde bespreking vast in een zorgplan en verstrekt terstond een afschrift van het zorgplan aan de verzekerde of aan een vertegenwoordiger.
 
@@ -1140,7 +1167,7 @@ Bij ministeriële regeling kunnen regels worden gesteld over:
 
 #### § 1. Verwerking van gegevens, waaronder bijzondere persoonsgegevens
 
-#### Artikel 9.1.1
+##### Artikel 9.1.1
 
 1. De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&artikel=4) en [6 tot en met 9 van de Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&artikel=6) zijn, voor de uitvoering van deze wet, van overeenkomstige toepassing op de Wlz-uitvoerder.
 
@@ -1162,7 +1189,7 @@ Bij ministeriële regeling kunnen regels worden gesteld over:
 
 - b. de identiteit en het burgerservicenummer van de verzekerde reeds zijn vastgesteld door een zorgaanbieder.
 
-#### Artikel 9.1.2
+##### Artikel 9.1.2
 
 1. Wlz-uitvoerders, zorgaanbieders, het CAK en het CIZ, verstrekken elkaar kosteloos de persoonsgegevens van de verzekerde, waaronder gegevens over gezondheid als bedoeld in artikel 4, onderdeel 15 van de Algemene verordening gegevensbescherming, dan wel stellen elkaar deze gegevens voor dit doel voor inzage of het nemen van afschrift ter beschikking, voor zover die gegevens noodzakelijk zijn voor:
 
@@ -1216,7 +1243,7 @@ Bij ministeriële regeling kunnen regels worden gesteld over:
 
 - e. in welke gevallen gegevens, bedoeld in het eerste of derde lid, verder worden verwerkt met het oog op de uitvoering van deze wet, een zorgverzekering als bedoeld in de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) of een aanvullende ziektekostenverzekering, voor zover deze gegevens niet worden gebruikt voor het beoordelen en accepteren van een aspirant-verzekerde voor een aanvullende verzekering en bovendien noodzakelijk zijn voor de in het eerste lid genoemde taken.
 
-#### Artikel 9.1.3
+##### Artikel 9.1.3
 
 1. Een Wlz-uitvoerder, het CAK, en het CIZ verstrekken op verzoek, binnen een bij dat verzoek genoemde termijn, uit de onder hun verantwoordelijkheid gevoerde administratie, kosteloos, de gegevens, waaronder gegevens over gezondheid als bedoeld in artikel 4, onderdeel 15 van de Algemene verordening gegevensbescherming, aan:
 
@@ -1244,7 +1271,7 @@ Bij ministeriële regeling kunnen regels worden gesteld over:
 
 10. Op de op grond van het eerste lid aan het Zorginstituut te verstrekken persoonsgegevens is pseudonimisering als bedoeld in artikel 4, onderdeel 5 van de Algemene verordening gegevensbescherming, toegepast en vervolgens onafgebroken gecontinueerd.
 
-#### Artikel 9.1.4
+##### Artikel 9.1.4
 
 1. De zorgautoriteit, onderscheidenlijk het Zorginstituut, kan na overleg met het Zorginstituut, onderscheidenlijk de zorgautoriteit, bij regeling bepalen welke gegevens en inlichtingen regelmatig door de Wlz-uitvoerders en het CAK moeten worden verstrekt.
 
@@ -1254,13 +1281,13 @@ Bij ministeriële regeling kunnen regels worden gesteld over:
 
 4. Een Wlz-uitvoerder en het CAK verlenen op verzoek van het Zorginstituut dan wel van de zorgautoriteit aan door het desbetreffende college aangewezen personen inzage in alle bescheiden en andere gegevensdragers, stelt deze op verzoek ter beschikking voor het nemen van afschrift en verleent de ter zake verlangde medewerking, voor zover het desbetreffende college dit nodig acht voor de uitoefening van zijn taak.
 
-#### Artikel 9.1.5
+##### Artikel 9.1.5
 
 1. Het Zorginstituut en de zorgautoriteit verstrekken desgevraagd aan Onze Minister of aan het College sanering, genoemd in [artikel 32 van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=32), de voor de uitoefening van hun taak benodigde inlichtingen en gegevens.
 
 2. Het Zorginstituut en de zorgautoriteit verlenen aan door Onze Minister of door het College sanering aangewezen personen toegang tot en inzage in zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van hun taak redelijkerwijs nodig is.
 
-#### Artikel 9.1.6
+##### Artikel 9.1.6
 
 1. De in [artikel 9.1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=9&paragraaf=1&artikel=9.1.2&z=2026-01-01&g=2026-01-01), genoemde instanties maken voor de in dat artikel genoemde verstrekking of ontvangst van gegevens gebruik van elektronisch gegevensverkeer.
 
@@ -1274,7 +1301,7 @@ Bij ministeriële regeling kunnen regels worden gesteld over:
 
 - d. de financiering van het gebruik van de infrastructuur en de wijze waarop de kosten ervan worden verdeeld.
 
-#### Artikel 9.1.7
+##### Artikel 9.1.7
 
 1. Het is een ieder die uit hoofde van de toepassing van deze wet of van krachtens deze wet genomen besluiten enige taak vervult of heeft vervuld, verboden van vertrouwelijke gegevens of inlichtingen die ingevolge deze wet dan wel ingevolge [titel 5.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.2) zijn verstrekt of verkregen, verder of anders gebruik te maken of daaraan verder of anders bekendheid te geven dan voor de uitvoering van zijn taak of bij of krachtens deze wet wordt geëist.
 
@@ -1294,7 +1321,7 @@ Bij ministeriële regeling kunnen regels worden gesteld over:
 
 #### § 2. Beleidsinformatie
 
-#### Artikel 9.2.1
+##### Artikel 9.2.1
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen in het belang van de zorgverlening, de bekostiging daarvan en de afstemming op andere wettelijke voorzieningen, regels worden gesteld over de kosteloze verstrekking van informatie van beleidsmatige en beheersmatige aard:
 
@@ -1314,7 +1341,7 @@ Bij ministeriële regeling kunnen regels worden gesteld over:
 
 #### § 2. Beleidsinformatie
 
-#### Artikel 10.1.1
+##### Artikel 10.1.1
 
 1. Bij algemene maatregel van bestuur kan bij wijze van experiment, met het oog op het onderzoeken van mogelijkheden om deze wet doeltreffender uit te voeren, worden afgeweken van het bepaalde bij of krachtens deze wet, met uitzondering van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=2&z=2026-01-01&g=2026-01-01) en van [hoofdstuk 3, § 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=3&paragraaf=1&z=2026-01-01&g=2026-01-01).
 
@@ -1346,7 +1373,7 @@ Bij ministeriële regeling kunnen regels worden gesteld over:
 
 6. Indien het in het vijfde lid, onderdeel b, bedoelde voorstel van wet wordt ingetrokken of indien een van de beide Kamers der Staten-Generaal besluit het voorstel niet aan te nemen, wordt de algemene maatregel van bestuur onverwijld ingetrokken. Wordt het voorstel tot wet verheven, dan wordt de algemene maatregel van bestuur ingetrokken op het tijdstip van inwerkingtreding van die wet.
 
-#### Artikel 10.1.2
+##### Artikel 10.1.2
 
 1. In dit artikel en de daarop gebaseerde regelgeving wordt onder «diensten» verstaan:
 
@@ -1374,13 +1401,13 @@ Bij ministeriële regeling kunnen regels worden gesteld over:
 
 5. [Artikel 10.1.1, derde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=10&paragraaf=1&artikel=10.1.1&z=2026-01-01&g=2026-01-01), is van toepassing.
 
-#### Artikel 10.1.3
+##### Artikel 10.1.3
 
 1. Bij ministeriële regeling kan worden bepaald dat het Zorginstituut uitkeringen verstrekt ter vergoeding van kosten van zorg als bedoeld in [artikel 3.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=3&paragraaf=1&artikel=3.1.1&z=2026-01-01&g=2026-01-01), verleend door zorgaanbieders aan personen die zijn opgenomen in het stelsel van Bewaken & Beveiligen van het Openbaar Ministerie.
 
 2. In de regeling, bedoeld in het eerste lid, kunnen voorwaarden opgenomen worden ten aanzien van de in dat lid bedoelde uitkeringen en ten aanzien van de uitvoering van de in dat lid bedoelde taak van het Zorginstituut.
 
-#### Artikel 10.1.4
+##### Artikel 10.1.4
 
 1. Het Zorginstituut verstrekt volgens bij of krachtens algemene maatregel van bestuur te stellen regels subsidies aan organisaties voor het verlenen van gedurende het gehele etmaal direct oproepbare assistentie bij algemene dagelijkse levensverrichtingen in en om de ADL-woning, waaronder alarmopvolging bij een noodoproep.
 
@@ -1388,11 +1415,11 @@ Bij ministeriële regeling kunnen regels worden gesteld over:
 
 #### § 1. Innovatie, zorg voor bedreigde personen en ADL-assistentie
 
-#### Artikel 10.2.1
+##### Artikel 10.2.1
 
 Bij de vaststelling van de schadevergoeding, waarop de verzekerde naar burgerlijk recht aanspraak kan maken ter zake van een feit dat aanleiding geeft tot het verlenen van zorg die is bekostigd ingevolge deze wet, houdt de rechter rekening met de aanspraken die de verzekerde krachtens deze wet heeft.
 
-#### Artikel 10.2.2
+##### Artikel 10.2.2
 
 1. Behoudens toepassing van het derde lid, eerste volzin, heeft een Wlz-uitvoerder voor de krachtens deze wet gemaakte kosten verhaal op degene, die in verband met het in [artikel 10.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=10&paragraaf=2&artikel=10.2.1&z=2026-01-01&g=2026-01-01) bedoelde feit jegens de verzekerde naar burgerlijk recht tot schadevergoeding is verplicht, doch ten hoogste tot het bedrag, waarvoor deze bij het ontbreken van de aanspraken krachtens deze wet naar burgerlijk recht aansprakelijk zou zijn, verminderd met een bedrag, gelijk aan dat van de schadevergoeding tot betaling waarvan de aansprakelijke persoon jegens de verzekerde naar burgerlijk recht is gehouden.
 
@@ -1400,13 +1427,13 @@ Bij de vaststelling van de schadevergoeding, waarop de verzekerde naar burgerlij
 
 3. Het Zorginstituut kan met verzekeraars overeenkomen dat zij het Zorginstituut een bedrag betalen om de in het eerste lid bedoelde schadelast die hun verzekerden naar verwachting in een komende periode zullen veroorzaken, af te kopen. De overeenkomst heeft geen betrekking op de schadelast van een Wlz-uitvoerder die voor de aanvang van de onderhandelingen over de bedoelde overeenkomst aan het Zorginstituut te kennen heeft gegeven van zijn bevoegdheid in het eerste lid gebruik te maken. Het Zorginstituut stelt voor aanvang van de periode waarvoor een afkoopsom als bedoeld in de eerste volzin is overeengekomen, Wlz-uitvoerders op de hoogte van de totstandkoming van bedoelde overeenkomst.
 
-#### Artikel 10.2.3
+##### Artikel 10.2.3
 
 1. Indien de verzekerde in dienstbetrekking werkzaam is, geldt [artikel 10.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=10&paragraaf=2&artikel=10.2.2&z=2026-01-01&g=2026-01-01), ten aanzien van de naar burgerlijk recht tot schadevergoeding verplichte werkgever van de verzekerde, onderscheidenlijk ten aanzien van de naar burgerlijk recht tot schadevergoeding verplichte persoon, die in dienstbetrekking staat tot dezelfde werkgever als de verzekerde jegens wie naar burgerlijk recht verplichting tot schadevergoeding bestaat, slechts indien het feit als genoemd in [artikel 10.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=10&paragraaf=2&artikel=10.2.1&z=2026-01-01&g=2026-01-01) is te wijten aan opzet of bewuste roekeloosheid van die werkgever onderscheidenlijk persoon.
 
 2. Voor de toepassing van het eerste lid wordt mede als werkgever beschouwd de inlener, bedoeld in [artikel 34 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=34).
 
-#### Artikel 10.2.4
+##### Artikel 10.2.4
 
 1. Een Wlz-uitvoerder kan van hem, die, zonder daartoe gerechtigd te zijn, opzettelijk aanspraken als verzekerde bij hem doet gelden onderscheidenlijk deed gelden, alsmede van hem, die daaraan opzettelijk zijn medewerking verleent onderscheidenlijk heeft verleend, geheel of gedeeltelijk het bedrag vorderen van de zorg of van de vergoedingen die hem te veel of ten onrechte zijn verleend. Voor zover de geldswaarde van de in de eerste volzin bedoelde zorg niet vaststaat, kan deze worden vastgesteld op een geschat bedrag.
 
@@ -1414,7 +1441,7 @@ Bij de vaststelling van de schadevergoeding, waarop de verzekerde naar burgerlij
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld betreffende de in het eerste lid bedoelde terugvordering.
 
-#### Artikel 10.2.5
+##### Artikel 10.2.5
 
 1. Indien de Wlz-uitvoerder op grond van [artikel 3.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=3&paragraaf=1&artikel=3.1.3&z=2026-01-01&g=2026-01-01) heeft beslist tot verstrekking van een woningaanpassing aan een woning waarvan de verzekerde niet de eigenaar is, is de Wlz-uitvoerder dan wel de verzekerde, bevoegd zonder toestemming van de eigenaar deze woningaanpassing aan te brengen of te doen aanbrengen.
 
@@ -1424,7 +1451,7 @@ Bij de vaststelling van de schadevergoeding, waarop de verzekerde naar burgerlij
 
 #### § 3. Bezwaar en beroep
 
-#### Artikel 10.3.1
+##### Artikel 10.3.1
 
 1. Een beslissing van een Wlz-uitvoerder of het CIZ, op bezwaar inzake een recht op zorg of op een vergoeding ingevolge deze wet wordt niet genomen dan nadat daaromtrent door het Zorginstituut op verzoek van het bestuursorgaan advies is uitgebracht.
 
@@ -1442,7 +1469,7 @@ Bij de vaststelling van de schadevergoeding, waarop de verzekerde naar burgerlij
 
 5. Indien het Zorginstituut is verzocht advies uit te brengen, wordt de beslissing op bezwaar in afwijking van [artikel 7:10, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:10) genomen binnen eenentwintig weken gerekend vanaf de dag na die waarop de termijn voor het indienen van het bezwaarschrift is verstreken.
 
-#### Artikel 10.3.2
+##### Artikel 10.3.2
 
 1. Tegen uitspraken van de Centrale Raad van Beroep kan ieder der partijen beroep in cassatie instellen ter zake van schending of verkeerde toepassing van het bepaalde bij of krachtens een der [artikelen 1.1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=1&paragraaf=1&artikel=1.1.2&z=2026-01-01&g=2026-01-01), [1.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=1&paragraaf=2&artikel=1.2.1&z=2026-01-01&g=2026-01-01), [1.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=1&paragraaf=2&artikel=1.2.2&z=2026-01-01&g=2026-01-01) en [2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=2&paragraaf=1&artikel=2.1.1&z=2026-01-01&g=2026-01-01).
 
@@ -1450,7 +1477,7 @@ Bij de vaststelling van de schadevergoeding, waarop de verzekerde naar burgerlij
 
 #### § 3. Bezwaar en beroep
 
-#### Artikel 10.4.1
+##### Artikel 10.4.1
 
 1. De ambtenaren van de Inspectie gezondheidszorg en jeugd zijn belast met het toezicht op de naleving door zorgaanbieders van de verplichtingen die voor hen uit het bepaalde bij of krachtens [hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=8&z=2026-01-01&g=2026-01-01) voortvloeien.
 
@@ -1460,7 +1487,7 @@ Bij de vaststelling van de schadevergoeding, waarop de verzekerde naar burgerlij
 
 4. De in het eerste lid bedoelde ambtenaren zijn bevoegd het niet naleven door een zorgaanbieder van een verplichting die voor hem uit het bepaalde bij of krachtens [hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=8&z=2026-01-01&g=2026-01-01) voortvloeit, buiten behandeling te laten, tenzij sprake is van een situatie die voor de veiligheid van verzekerden of de zorg een ernstige bedreiging kan betekenen, of het belang van goede zorg anderszins daaraan redelijkerwijs in de weg staat.
 
-#### Artikel 10.4.2
+##### Artikel 10.4.2
 
 1. Indien Onze Minister van oordeel is dat het bepaalde bij of krachtens de [artikelen 8.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=8&artikel=8.1.1&z=2026-01-01&g=2026-01-01), [8.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=8&artikel=8.1.2&z=2026-01-01&g=2026-01-01) of [8.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=8&artikel=8.1.3&z=2026-01-01&g=2026-01-01) niet wordt nageleefd, kan hij, in voorkomend geval in overeenstemming met Onze Minister wie het mede aangaat, de zorgaanbieder een schriftelijke aanwijzing geven.
 
@@ -1474,11 +1501,11 @@ Bij de vaststelling van de schadevergoeding, waarop de verzekerde naar burgerlij
 
 6. De bevoegdheid tot het verlengen van de geldigheidsduur van een bevel wordt niet gemandateerd aan een ambtenaar van de Inspectie gezondheidszorg en jeugd.
 
-#### Artikel 10.4.3
+##### Artikel 10.4.3
 
 Onze Minister is, in voorkomend geval in overeenstemming met Onze Minister wie het mede aangaat, bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van een krachtens [artikel 10.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=10&paragraaf=4&artikel=10.4.2&z=2026-01-01&g=2026-01-01) gegeven aanwijzing of bevel.
 
-#### Artikel 10.4.4
+##### Artikel 10.4.4
 
 1. Onze Minister is bevoegd een zorgaanbieder een aanwijzing te geven indien de zorgaanbieder niet voldoet aan het bepaalde bij of krachtens [9.1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=9&paragraaf=1&artikel=9.1.2&z=2026-01-01&g=2026-01-01).
 
@@ -1490,13 +1517,13 @@ Onze Minister is, in voorkomend geval in overeenstemming met Onze Minister wie h
 
 #### § 2. Overgangsrecht uitvoerders en afwikkeling [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614)
 
-#### Artikel 11.2.1
+##### Artikel 11.2.1
 
 1. De [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) wordt ingetrokken.
 
 2. De zorgautoriteit kan het een Wlz-uitvoerder die behoort tot een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b) waarvan ook een zorgverzekeraar deel uitmaakt die de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) op de dag voor de intrekking van die wet uitvoerde, op diens verzoek voor een periode van ten hoogste twaalf maanden na die intrekking toestaan de Wet langdurige zorg uit te voeren zonder dat de vaststelling, bedoeld in [artikel 4.1.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=4&paragraaf=1&artikel=4.1.1&z=2026-01-01&g=2026-01-01), heeft plaatsgevonden.
 
-#### Artikel 11.2.2
+##### Artikel 11.2.2
 
 1. Ten aanzien van aanspraken, rechten en verplichtingen die bij of krachtens de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) zijn ontstaan voor het tijdstip van intrekking van die wet, dan wel na dat tijdstip zijn ontstaan ter zake van de afwikkeling van die wet, blijft het recht van toepassing zoals dat gold voorafgaand aan dat tijdstip, behoudens voor zover ter zake bij of krachtens deze wet afwijkende regels zijn gesteld.
 
@@ -1504,7 +1531,7 @@ Onze Minister is, in voorkomend geval in overeenstemming met Onze Minister wie h
 
 3. De bestuursorganen die op grond van het bepaalde bij of krachtens de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) een taak hadden bij de uitvoering van die wet en de rechtspersonen, bedoeld in [artikel 40 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=40), dragen overeenkomstig de bepalingen van deze wet zorg voor een zorgvuldige afwikkeling van die taak.
 
-#### Artikel 11.2.3
+##### Artikel 11.2.3
 
 1. In [artikel 11.2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=11&paragraaf=2&artikel=11.2.2&z=2026-01-01&g=2026-01-01), bedoelde rechten en verplichtingen van een zorgverzekeraar gaan van rechtswege over op de Wlz-uitvoerder waarbij de verzekerde is ingeschreven ingevolge [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2026-01-01&g=2026-01-01). De Wlz-uitvoerder, bedoeld in de vorige volzin, heeft de hoedanigheid van zorgverzekeraar ter zake van de afwikkeling van de in die volzin bedoelde rechten en verplichtingen.
 
@@ -1524,13 +1551,13 @@ Onze Minister is, in voorkomend geval in overeenstemming met Onze Minister wie h
 
 - b. in de gevallen, bedoeld in het tweede lid: door de rechtspersoon, aangewezen krachtens [artikel 40 van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=40) overgedragen aan de door Onze Minister krachtens [artikel 4.2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=4&paragraaf=2&artikel=4.2.4&z=2026-01-01&g=2026-01-01), aangewezen Wlz-uitvoerders die de werkzaamheden in hun regio overnemen.
 
-#### Artikel 11.2.4
+##### Artikel 11.2.4
 
 1. De bij en krachtens de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745) opgebouwde reserve voor de uitvoering van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) die een krachtens [artikel 40, eerste lid, van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=40) aangewezen rechtspersoon voor een regio had op de dag voor de intrekking van die wet, komt ten behoeve van de uitvoering van de Wet langdurige zorg toe aan het zorgkantoor dat met ingang van de inwerkingtreding van deze wet in de desbetreffende regio werkt.
 
 2. In afwijking van het eerste lid brengt het zorgkantoor, bedoeld in het eerste lid, ook zijn beheerskosten die gepaard gaan met de afwikkeling van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) ten laste van de in het eerste lid bedoelde reserve. Uitgaven waarvan de zorgautoriteit heeft vastgesteld dat deze niet verantwoord zijn, blijven daarbij buiten beschouwing, tenzij de zorgautoriteit anders heeft besloten.
 
-#### Artikel 11.2.5
+##### Artikel 11.2.5
 
 1. In afwijking van hetgeen is overeengekomen, kunnen overeenkomsten als bedoeld in [artikel 15 van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=15) door beide partijen met inachtneming van een opzegtermijn van ten minste twee maanden worden opgezegd.
 
@@ -1544,17 +1571,17 @@ Onze Minister is, in voorkomend geval in overeenstemming met Onze Minister wie h
 
 6. Het CAK voert een opdracht als bedoeld in het vijfde lid binnen drie maanden na ontvangst ervan uit.
 
-#### Artikel 11.2.6
+##### Artikel 11.2.6
 
 1. Een zorgaanbieder die uit hoofde van een overeenkomst met een verzekerde, gesloten in het kader van een persoonsgebonden budget, een vordering heeft voor zorg die hij voor de intrekking van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) heeft verleend, zendt op straffe van verval van zijn vorderingsrecht uiterlijk twee maanden na die intrekking een nota aan de verzekerde.
 
 2. De verzekerde die over een persoonsgebonden budget in de vorm van een trekkingsrecht beschikt, zendt, op straffe van verval van de mogelijkheid om deze ten laste van zijn persoonsgebonden budget te betalen, de nota uiterlijk twee maanden na de ontvangst ervan ter betaling door aan de Sociale verzekeringsbank.
 
-#### Artikel 11.2.7
+##### Artikel 11.2.7
 
 Het CAK brengt uiterlijk twee jaar na de intrekking van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) verschuldigde eigen bijdragen over de jaren tot de intrekking in rekening bij de verzekerde.
 
-#### Artikel 11.2.8
+##### Artikel 11.2.8
 
 1. De Wlz-uitvoerders, de zorgkantoren die voor een regio de rechtsopvolgers zijn van de rechtspersonen, bedoeld in [artikel 40 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=40), en het CAK, zenden ieder met betrekking tot de taken die zij ter afwikkeling van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) hebben, voor 1 juli 2021 aan de zorgautoriteit en het Zorginstituut:
 
@@ -1564,17 +1591,17 @@ Het CAK brengt uiterlijk twee jaar na de intrekking van de [Algemene Wet Bijzond
 
 2. [Artikel 31, aanhef en onderdelen b en c, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=31) is van overeenkomstige toepassing.
 
-#### Artikel 11.2.9
+##### Artikel 11.2.9
 
 1. De zorgautoriteit rapporteert uiterlijk zeven jaar na de intrekking van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) aan Onze Minister en aan het Zorginstituut per Wlz-uitvoerder over de rechtmatigheid van de afwikkeling van de Algemene Wet Bijzondere Ziektekosten. Daarbij wordt per Wlz-uitvoerder een verklaring gegeven over de rechtmatigheid van de in de financiële verantwoording over de afwikkeling door de Wlz-uitvoerders opgenomen posten. Indien de zorgautoriteit uitgaven of besparingen op beheerskosten van een Wlz-uitvoerder als niet verantwoord heeft aangemerkt, vermeldt zij dat in haar verklaring.
 
 2. Het eerste lid is van overeenkomstige toepassing op het CAK.
 
-#### Artikel 11.2.10
+##### Artikel 11.2.10
 
 Het saldo van het Algemeen Fonds Bijzondere Ziektekosten naar de situatie op 1 januari van het achtste jaar na het jaar waarin de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) werd ingetrokken, komt ten bate of ten laste van 's Rijks schatkist.
 
-#### Artikel 11.2.11
+##### Artikel 11.2.11
 
 1. Het Zorginstituut zendt Onze Minister uiterlijk negen jaar na de intrekking van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) een financieel verslag over de uitgaven en ontvangsten in de periode vanaf de intrekking van de Algemene Wet Bijzondere Ziektekosten tot de datum, bedoeld in [artikel 11.2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=11&paragraaf=2&artikel=11.2.10&z=2026-01-01&g=2026-01-01).
 
@@ -1596,15 +1623,15 @@ Het saldo van het Algemeen Fonds Bijzondere Ziektekosten naar de situatie op 1 j
 
 7. Na de goedkeuring, bedoeld in het zesde lid, stelt het Zorginstituut het financieel verslag algemeen verkrijgbaar.
 
-#### Artikel 11.2.12
+##### Artikel 11.2.12
 
 Baten en lasten die het Zorginstituut na de intrekking van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) heeft in verband met de uitvoering van die wet, komen ten bate of ten laste van het Algemeen Fonds Bijzondere Ziektekosten of, na de datum, bedoeld in [artikel 11.2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=11&paragraaf=2&artikel=11.2.10&z=2026-01-01&g=2026-01-01), van het Fonds langdurige zorg.
 
-#### Artikel 11.2.13
+##### Artikel 11.2.13
 
 Bij ministeriële regeling kunnen nadere regels worden gesteld die voor een goede afwikkeling van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) noodzakelijk zijn.
 
-#### Artikel 11.2.14
+##### Artikel 11.2.14
 
 1. Indien de inspecteur of ontvanger een beschikking heeft gegeven die mede of uitsluitend betrekking heeft op de periode na het tijdstip van intrekking van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) en de in die beschikking gehanteerde terminologie geheel of gedeeltelijk is gebaseerd op de laatstgenoemde wet, geldt voor de periode vanaf het moment van inwerkingtreding van de Wet langdurige zorg dat die beschikking geacht wordt in zoverre betrekking te hebben op de Wet langdurige zorg.
 
@@ -1620,7 +1647,7 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld die voor een goed
 
 - e. het afgeven van verklaringen als bedoeld in [artikel 21, zesde lid, van het Besluit uitbreiding en beperking kring van verzekerden volksverzekeringen 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=21) of het verlenen van ontheffingen als bedoeld in de [artikelen 21a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=21a), en [21b, derde lid, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=21b) door de Sociale verzekeringsbank.
 
-#### Artikel 11.2.15
+##### Artikel 11.2.15
 
 1. Indien de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) op 1 januari 2015 wordt ingetrokken, wordt, in afwijking van [artikel 15 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=15), de rijksbijdrage in kosten heffingskortingen ten gunste van het Fonds langdurige zorg voor 2015 vastgesteld op € 3.250 miljoen.
 
@@ -1630,7 +1657,7 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld die voor een goed
 
 #### § 3. Invoeringsbepalingen met betrekking tot het CIZ
 
-#### Artikel 11.3.1
+##### Artikel 11.3.1
 
 1. De personen die op het tijdstip van inwerkingtreding van [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=7&z=2026-01-01&g=2026-01-01) van deze wet krachtens een arbeidsovereenkomst naar burgerlijk recht behoren tot het personeel van de stichting Centrum indicatiestelling zorg, en van wie naam en functie zijn vermeld op een door Onze Minister vastgestelde lijst, zijn op dat tijdstip van rechtswege ontslagen en treden in dienst van het CIZ.
 
@@ -1638,17 +1665,17 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld die voor een goed
 
 3. [Artikel 7.1.1, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=7&paragraaf=1&artikel=7.1.1&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 11.3.2
+##### Artikel 11.3.2
 
 1. Alle vermogensbestanddelen van de stichting Centrum indicatiestelling zorg gaan onder algemene titel om niet over op het CIZ zonder dat een besluit, akte of mededeling is vereist.
 
 2. Ter zake van de overgang van vermogensbestanddelen blijft heffing van overdrachtsbelasting achterwege.
 
-#### Artikel 11.3.3
+##### Artikel 11.3.3
 
 Archiefbescheiden van de stichting Centrum indicatiestelling zorg betreffende zaken die op het tijdstip van inwerkingtreding van deze wet nog niet zijn afgedaan, worden overgedragen aan het CIZ, voor zover zij niet overeenkomstig de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) zijn overgebracht naar een archiefbewaarplaats.
 
-#### Artikel 11.3.4
+##### Artikel 11.3.4
 
 1. Aanvragen gedaan bij en besluiten genomen door de stichting Centrum indicatiestelling zorg met betrekking tot de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614), voor zover de uitvoering van die wet op de dag voorafgaand aan de inwerkingtreding van deze wet aan de stichting Centrum indicatiestelling zorg was opgedragen, gelden na de inwerkingtreding van deze wet als aanvragen gedaan bij en besluiten genomen door het CIZ.
 
@@ -1656,17 +1683,17 @@ Archiefbescheiden van de stichting Centrum indicatiestelling zorg betreffende za
 
 3. In zaken waarin voor het tijdstip van inwerkingtreding van deze wet aan de Nationale ombudsman is verzocht een onderzoek te doen dan wel de Nationale ombudsman een onderzoek heeft ingesteld naar een gedraging die kan worden toegerekend aan de stichting Centrum indicatiestelling zorg, treedt het CIZ op dat tijdstip als bestuursorgaan in de zin van de Wet Nationale ombudsman in de plaats van de stichting Centrum indicatiestelling zorg.
 
-#### Artikel 11.3.5
+##### Artikel 11.3.5
 
 Vervallen
 
 #### § 3. Invoeringsbepalingen met betrekking tot het CIZ
 
-#### Artikel 11.4.1
+##### Artikel 11.4.1
 
 Vervallen
 
-#### Artikel 11.4.2
+##### Artikel 11.4.2
 
 Vervallen
 
@@ -1674,245 +1701,245 @@ Vervallen
 
 #### § 4. Tijdelijke subsidies voor zorginfrastructuur en kapitaallasten
 
-#### Artikel 12.1.1
+##### Artikel 12.1.1
 
 Wijzigt de Wet marktordening gezondheidszorg.
 
-#### Artikel 12.1.2
+##### Artikel 12.1.2
 
 Wijzigt de Zorgverzekeringswet.
 
-#### Artikel 12.1.3
+##### Artikel 12.1.3
 
 Wijzigt de Invoerings- en aanpassingswet Zorgverzekeringswet.
 
-#### Artikel 12.1.4
+##### Artikel 12.1.4
 
 Wijzigt de Jeugdwet.
 
-#### Artikel 12.1.5
+##### Artikel 12.1.5
 
 Wijzigt de Wet maatschappelijke ondersteuning 2015.
 
-#### Artikel 12.1.6
+##### Artikel 12.1.6
 
 Wijzigt de Wet toelating zorginstellingen.
 
-#### Artikel 12.1.7
+##### Artikel 12.1.7
 
 Wijzigt de Kwaliteitswet zorginstellingen.
 
-#### Artikel 12.1.8
+##### Artikel 12.1.8
 
 Wijzigt de Wet klachtrecht cliënten zorgsector.
 
-#### Artikel 12.1.9
+##### Artikel 12.1.9
 
 Wijzigt de Wet medezeggenschap cliënten zorginstellingen.
 
-#### Artikel 12.1.10
+##### Artikel 12.1.10
 
 Wijzigt de Wet gebruik burgerservicenummer in de zorg.
 
-#### Artikel 12.1.11
+##### Artikel 12.1.11
 
 Vervallen
 
-#### Artikel 12.1.12
+##### Artikel 12.1.12
 
 Wijzigt de Wet publieke gezondheid.
 
-#### Artikel 12.1.13
+##### Artikel 12.1.13
 
 Wijzigt de Geneesmiddelenwet.
 
-#### Artikel 12.1.14
+##### Artikel 12.1.14
 
 Wijzigt de Wet uitkeringen burger-oorlogsslachtoffers 1940-1945.
 
-#### Artikel 12.1.15
+##### Artikel 12.1.15
 
 Wijzigt de Wet uitkeringen vervolgingsslachtoffers 1940-1945.
 
-#### Artikel 12.1.16
+##### Artikel 12.1.16
 
 Wijzigt de Wet kwaliteit, klachten en geschillen zorg.
 
-#### Artikel 12.1.17
+##### Artikel 12.1.17
 
 Wijzigt deze wet.
 
-#### Artikel 12.1.18
+##### Artikel 12.1.18
 
 Wijzigt de Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg.
 
-#### Artikel 12.1.19
+##### Artikel 12.1.19
 
 Wijzigt de Wet toelating zorginstellingen.
 
-#### Artikel 12.1.20
+##### Artikel 12.1.20
 
 Wijzigt de Wet marktordening gezondheidszorg.
 
-#### Artikel 12.1.21
+##### Artikel 12.1.21
 
 Wijzigt de Wijzigingswet Wet toelating zorginstellingen, enz. (voorwaarden voor winstuitkering aanbieders medisch-specialistische zorg).
 
-#### Artikel 12.1.22
+##### Artikel 12.1.22
 
 Wijzigt de Wet marktordening gezondheidszorg.
 
-#### Artikel 12.1.23
+##### Artikel 12.1.23
 
 Wijzigt de Wijzigingswet Wet marktordening gezondheidszorg, enz. (voorkomen dat zorgverzekeraars zelf zorg verlenen of zorg laten aanbieden door zorgaanbieders waarin zij zelf zeggenschap hebben).
 
 #### § 2. Financiën
 
-#### Artikel 12.2.1
+##### Artikel 12.2.1
 
 Wijzigt de Wet op het financieel toezicht.
 
-#### Artikel 12.2.2
+##### Artikel 12.2.2
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel 12.2.3
+##### Artikel 12.2.3
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel 12.2.4
+##### Artikel 12.2.4
 
 Wijzigt de Wet op de omzetbelasting 1968.
 
-#### Artikel 12.2.5
+##### Artikel 12.2.5
 
 Wijzigt de Wet toezicht accountantsorganisaties.
 
 #### § 2. Financiën
 
-#### Artikel 12.3.1
+##### Artikel 12.3.1
 
 Wijzigt de Wet financiering sociale verzekeringen.
 
-#### Artikel 12.3.2
+##### Artikel 12.3.2
 
 Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.
 
-#### Artikel 12.3.3
+##### Artikel 12.3.3
 
 Wijzigt de Werkloosheidswet.
 
-#### Artikel 12.3.4
+##### Artikel 12.3.4
 
 Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.
 
-#### Artikel 12.3.5
+##### Artikel 12.3.5
 
 Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers.
 
-#### Artikel 12.3.6
+##### Artikel 12.3.6
 
 Wijzigt de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten .
 
-#### Artikel 12.3.7
+##### Artikel 12.3.7
 
 Wijzigt de Wet werk en inkomen naar arbeidsvermogen.
 
-#### Artikel 12.3.8
+##### Artikel 12.3.8
 
 Wijzigt de Ziektewet.
 
-#### Artikel 12.3.9
+##### Artikel 12.3.9
 
 Wijzigt de Algemene nabestaandenwet.
 
-#### Artikel 12.3.10
+##### Artikel 12.3.10
 
 Wijzigt de Algemene Ouderdomswet.
 
-#### Artikel 12.3.11
+##### Artikel 12.3.11
 
 Wijzigt de Toeslagwet Indonesische pensioenen 1956.
 
-#### Artikel 12.3.12
+##### Artikel 12.3.12
 
 Wijzigt de Wet arbeidsongeschiktheidsverzekering zelfstandigen.
 
-#### Artikel 12.3.13
+##### Artikel 12.3.13
 
 Wijzigt de Wet inkomensvoorziening oudere werklozen.
 
-#### Artikel 12.3.14
+##### Artikel 12.3.14
 
 Wijzigt de Liquidatiewet ongevallenwetten.
 
-#### Artikel 12.3.15
+##### Artikel 12.3.15
 
 Wijzigt de Wet brutering overhevelingstoeslag lonen.
 
-#### Artikel 12.3.16
+##### Artikel 12.3.16
 
 Wijzigt de Participatiewet.
 
-#### Artikel 12.3.17
+##### Artikel 12.3.17
 
 Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
 
 #### § 4. Veiligheid en Justitie
 
-#### Artikel 12.4.1
+##### Artikel 12.4.1
 
 Wijzigt de Beginselenwet verpleging ter beschikking gestelden.
 
-#### Artikel 12.4.2
+##### Artikel 12.4.2
 
 Wijzigt het Burgerlijk Wetboek Boek 6.
 
-#### Artikel 12.4.3
+##### Artikel 12.4.3
 
 Wijzigt het Burgerlijk Wetboek Boek 7.
 
-#### Artikel 12.4.4
+##### Artikel 12.4.4
 
 Wijzigt het Wetboek van Koophandel.
 
-#### Artikel 12.4.5
+##### Artikel 12.4.5
 
 Wijzigt de Algemene wet bestuursrecht.
 
-#### Artikel 12.4.6
+##### Artikel 12.4.6
 
 Wijzigt de Wet op de economische delicten.
 
-#### Artikel 12.4.7
+##### Artikel 12.4.7
 
 Wijzigt de Wet forensische zorg.
 
-#### Artikel 12.4.8
+##### Artikel 12.4.8
 
 Vervallen
 
 #### § 4. Veiligheid en Justitie
 
-#### Artikel 12.5.1
+##### Artikel 12.5.1
 
 Wijzigt de Algemene pensioenwet politieke ambtsdragers.
 
-#### Artikel 12.5.2
+##### Artikel 12.5.2
 
 Wijzigt de Ambtenarenwet.
 
-#### Artikel 12.5.3
+##### Artikel 12.5.3
 
 Wijzigt de Wet aanpassing pensioenvoorzieningen Bijstandkorps.
 
-#### Artikel 12.5.4
+##### Artikel 12.5.4
 
 Wijzigt de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector.
 
 ### Hoofdstuk 13. Slotbepalingen
 
-#### Artikel 13.1.1
+##### Artikel 13.1.1
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
@@ -1920,11 +1947,11 @@ Wijzigt de Wet normering bezoldiging topfunctionarissen publieke en semipublieke
 
 3. [Artikel 11.1.1, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=11&paragraaf=1&artikel=11.1.1&z=2026-01-01&g=2026-01-01), werkt terug tot en met 1 oktober 2014.
 
-#### Artikel 13.1.2
+##### Artikel 13.1.2
 
 Onze Minister zendt binnen drie jaar na de inwerkingtreding van deze wet, en vervolgens telkens na vijf jaar, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-#### Artikel 13.1.3
+##### Artikel 13.1.3
 
 Deze wet wordt aangehaald als: Wet langdurige zorg.
 
@@ -1932,7 +1959,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 #### § 4. Tijdelijke subsidies voor zorginfrastructuur en kapitaallasten
 
-#### Artikel 11.5.1
+##### Artikel 11.5.1
 
 Vervallen
 
@@ -1952,7 +1979,7 @@ Vervallen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 3.3.6
+##### Artikel 3.3.6
 
 1. Indien de verzekerde zijn recht op zorg met verblijf in een instelling tot gelding wil brengen en die zorg tijdelijk niet geboden kan worden, kan de verzekerde ervoor kiezen om zijn recht tot gelding te brengen met een modulair pakket thuis of een volledig pakket thuis, zonder dat wordt voldaan aan de voorwaarden, bedoeld in [artikel 3.3.2, derde tot en met vijfde](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=3&paragraaf=3&artikel=3.3.2&z=2026-01-01&g=2026-01-01) alsmede zevende lid.
 
@@ -1964,7 +1991,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 5. Bij ministeriële regeling worden regels gesteld over de wijze waarop en de voorwaarden waaronder toepassing kan worden gegeven aan dit artikel.
 
-#### Artikel 3.3.6a
+##### Artikel 3.3.6a
 
 1. De Wlz-uitvoerder kan op verzoek van de verzekerde, bedoeld in [artikel 3.3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=3&paragraaf=3&artikel=3.3.6&z=2026-01-01&g=2026-01-01), die onmiddellijk voorafgaand aan het indicatiebesluit aanspraak had op zorg op grond van een zorgverzekering of een maatwerkvoorziening als bedoeld in de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) ontving, voor de duur van de termijn, bedoeld in artikel 3.3.6, eerste lid en derde lid, en zolang die zorg of de in de maatwerkvoorziening besloten liggende zorg noodzakelijk en verantwoord is, in geval daar nog niet in is voorzien een schriftelijke overeenkomst sluiten met de aanbieder die deze zorg verleende of deze maatwerkvoorziening bood.
 
@@ -2046,7 +2073,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 11.1.9
+##### Artikel 11.1.9
 
 1. Tot een bij koninklijk besluit vast te stellen tijdstip heeft de verzekerde die zijn recht op zorg tot gelding brengt met een modulair pakket thuis geen recht op het schoonhouden van de woonruimte, bedoeld in [artikel 3.1.1, eerste lid, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=3&paragraaf=1&artikel=3.1.1&z=2026-01-01&g=2026-01-01).
 
@@ -2098,7 +2125,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 5.1.3a
+##### Artikel 5.1.3a
 
 1. Het Zorginstituut verwerkt de persoonsgegevens waaronder gegevens over gezondheid als bedoeld in artikel 4, onderdeel 15 van de Algemene verordening gegevensbescherming, die noodzakelijk zijn voor de uitvoering van zijn in de [artikelen 5.1.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=5&paragraaf=1&artikel=5.1.1&z=2026-01-01&g=2026-01-01), [5.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=5&paragraaf=1&artikel=5.1.2&z=2026-01-01&g=2026-01-01) of [5.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=5&paragraaf=1&artikel=5.1.3&z=2026-01-01&g=2026-01-01) opgedragen taken.
 
@@ -2158,7 +2185,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 10.5.1
+##### Artikel 10.5.1
 
 1. Een persoon die door middel van een rechterlijke machtiging als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=24) of [28a van de Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=28a) is aangewezen op verblijf in een instelling heeft gedurende de geldigheidsduur van die machtiging doch ten hoogste gedurende het verblijf in een instelling recht op zorg als bedoeld in [artikel 3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=3&paragraaf=1&artikel=3.1.1&z=2026-01-01&g=2026-01-01), voor zover deze persoon geen toepassing geeft aan [artikel 3.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=3&paragraaf=2&artikel=3.2.3&z=2026-01-01&g=2026-01-01) of het verblijf niet wordt bekostigd op grond van een zorgverzekering als bedoeld in de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), op grond van de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925) of op grond van de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362).
 
@@ -2188,7 +2215,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 9.1.3a
+##### Artikel 9.1.3a
 
 1. Het CIZ verstrekt ambtshalve of op verzoek, kosteloos, de volgende persoonsgegevens aan de Sociale verzekeringsbank, welke gegevens noodzakelijk zijn voor de uitvoering van diens taak tot vaststelling of een recht op een verdubbeling van het bedrag aan kinderbijslag, als bedoeld in [artikel 7a, eerste lid, van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=7a), bestaat of eindigt:
 
@@ -2236,7 +2263,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 9.2.2
+##### Artikel 9.2.2
 
 1. Een Wlz-uitvoerder verstrekt aan Onze Minister de door hem verzochte informatie ten behoeve van het te voeren beleid op het gebied van de volksgezondheid.
 

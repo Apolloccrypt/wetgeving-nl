@@ -1,24 +1,48 @@
 ---
 title: "Beleidsregels beoordelingskader poortwachter"
 identifier: "BWBR0014375"
-categorie: "Overig"
-publicatiedatum: 2006-11-18
-laatste_update: 2006-11-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0014375"
+country: "nl"
+rank: "zbo"
+publication_date: "2006-11-18"
+last_updated: "2006-11-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0014375"
+soort: "zbo"
+stam_id: "6053163"
+version_id: "12600812"
+internal_id: "C16940381"
+label_id: "6042384"
+original_entry_into_force: "2005-12-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0014375/2006-11-18/0"
+intitule_bron: "Stcrt.2002-236"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-12-03"
+intitule_published: "2002-12-06"
+intitule_in_force: "2002-12-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-246"
+original_signed_date: "2005-12-13"
+original_published_date: "2005-12-19"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2005-246-p94-SC72844"
+entry_into_force_date: "2005-12-13"
+jci_1_3: "jci1.3:c:BWBR0014375&z=2006-11-18&g=2006-11-18"
+jci_1_0: "1.0:c:BWBR0014375&g=2006-11-18"
+citeertitel_status: "redactioneel"
+signed_date: "2005-12-13"
+entry_into_force: "2005-12-13"
 ---
-
 # Beleidsregels beoordelingskader poortwachter
 
 Gelet op de artikelen 34a, eerste lid, en 71a van de Wet op de arbeidsongeschiktheidsverzekering en de Regeling procesgang eerste ziektejaar;
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Het Uitvoeringsinstituut werknemersverzekeringen hanteert bij de beoordeling van de door werkgever en werknemer geleverde re-integratie-inspanningen als bedoeld in [artikel 65 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=65), [artikel 34a, eerste lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=34a), het beoordelingskader zoals vastgelegd in de bijlage bij dit besluit.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 
@@ -224,7 +248,7 @@ Het kan zijn dat de werkgever of werknemer zich in de ziekteperiode afvraagt of 
 
 Dit besluit zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
 
-#### Artikel 1a. Grondslag
+##### Artikel 1a. Grondslag
 
 Vervallen
 

@@ -1,13 +1,35 @@
 ---
 title: "Besluit van de Raad van 23 juni 2008 betreffende de toetreding van Bulgarije en Roemenië tot het Verdrag van 23 juli 1990 ter afschaffing van dubbele belasting in geval van winstcorrecties tussen verbonden ondernemingen (2008/492/EG)"
 identifier: "BWBV0003131"
-categorie: "Belastingrecht"
-publicatiedatum: 2008-07-01
-laatste_update: 2008-06-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003131"
+country: "nl"
+rank: "verdrag"
+publication_date: "2008-07-01"
+last_updated: "2008-06-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003131"
+soort: "verdrag"
+stam_id: "10003350423"
+version_id: "10003385772"
+internal_id: "C10008472151"
+label_id: "10003335994"
+dtd_version: "2.0"
+original_entry_into_force: "2008-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003131/2008-07-01/0"
+intitule_bron: "Trb.2009-39"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2009-03-17"
+intitule_in_force: "2009-03-17"
+intitule_status: "goed"
+original_publication: "Trb.2009-39"
+original_published_date: "2009-03-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2009-39"
+entry_into_force_date: "2008-07-01"
+jci_1_3: "jci1.3:c:BWBV0003131&z=2008-07-01&g=2008-07-01"
+jci_1_0: "1.0:c:BWBV0003131&g=2008-07-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2008-07-01"
 ---
-
 # Besluit van de Raad van 23 juni 2008 betreffende de toetreding van Bulgarije en Roemenië tot het Verdrag van 23 juli 1990 ter afschaffing van dubbele belasting in geval van winstcorrecties tussen verbonden ondernemingen (2008/492/EG)
 
 De Raad van de Europese Unie,
@@ -30,19 +52,19 @@ Overeenkomstig artikel 3, lid 4, van de Toetredingsakte van 2005 moet de Raad de
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Wijzigt het Verdrag ter afschaffing van dubbele belasting in geval van winstcorrecties tussen verbonden ondernemingen; Brussel, 23 juli 1990.
 
-#### Artikel 2
+##### Artikel 2
 
 De tekst van het [Arbitrageverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002893) en het Protocol van 25 mei 1999, samen met de Verdragen van 21 december 1995 en 8 december 2004, opgesteld in de Bulgaarse en de Roemeense taal zijn op gelijke wijze authentiek als de overige teksten van het Arbitrageverdrag en het Protocol.
 
-#### Artikel 3
+##### Artikel 3
 
 Het [Arbitrageverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002893) en het Protocol van 25 mei 1999, samen met de Verdragen van 21 december 1995 en 8 december 2004, treden ten aanzien van Bulgarije en Roemenië op 1 juli 2008 in werking.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit wordt van kracht op 1 juli 2008.
 

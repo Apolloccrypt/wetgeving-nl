@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek El Salvador inzake het vrij verrichten van betaalde werkzaamheden door afhankelijke gezinsleden van diplomatiek, consulair, administratief en technisch personeel van diplomatieke vertegenwoordigingen en consulaire posten"
 identifier: "BWBV0006631"
-categorie: "Internationaal recht"
-publicatiedatum: 2017-12-01
-laatste_update: 2017-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006631"
+country: "nl"
+rank: "verdrag"
+publication_date: "2017-12-01"
+last_updated: "2017-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006631"
+soort: "verdrag"
+stam_id: "10005379743"
+version_id: "10005808882"
+internal_id: "C10009298881"
+label_id: "10005362574"
+dtd_version: "2.0"
+original_entry_into_force: "2017-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006631/2017-12-01/0"
+intitule_bron: "Trb.2016-157"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2016-09-29"
+intitule_in_force: "2017-12-05"
+intitule_status: "goed"
+original_publication: "Trb.2016-157"
+original_published_date: "2016-09-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2016-157"
+entry_into_force_date: "2017-12-01"
+jci_1_3: "jci1.3:c:BWBV0006631&z=2017-12-01&g=2017-12-01"
+jci_1_0: "1.0:c:BWBV0006631&g=2017-12-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2017-12-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek El Salvador inzake het vrij verrichten van betaalde werkzaamheden door afhankelijke gezinsleden van diplomatiek, consulair, administratief en technisch personeel van diplomatieke vertegenwoordigingen en consulaire posten
 
 Het Koninkrijk der Nederlanden
@@ -20,11 +42,11 @@ Geleid door de wens op basis van wederkerigheid afhankelijke gezinsleden van per
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 Het wordt afhankelijke gezinsleden van diplomatiek, consulair, administratief en technisch personeel van diplomatieke vertegenwoordigingen en consulaire posten van de Republiek El Salvador in het Koninkrijk der Nederlanden en van het Koninkrijk der Nederlanden in de Republiek El Salvador toegestaan betaalde werkzaamheden te verrichten in de ontvangende staat onder dezelfde voorwaarden als onderdanen van die staat, zodra daarvoor in overeenstemming met de bepalingen van dit Verdrag en de wet- en regelgeving van de ontvangende staat toestemming is verleend.
 
-#### Artikel 2
+##### Artikel 2
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -42,7 +64,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - c. Een kind dat fulltime betaalde werkzaamheden verricht wordt niet financieel afhankelijk geacht.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Alvorens betaalde werkzaamheden te aanvaarden dient een gezinslid toestemming te verkrijgen van de ontvangende staat. De ambassade vraagt de toestemming namens het gezinslid aan bij de dienst protocollaire aangelegenheden van het Ministerie van Buitenlandse Zaken van de ontvangende staat.
 
@@ -58,11 +80,11 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 7. De toestemming geldt uitsluitend voor het verrichten van specifieke werkzaamheden. Voor het verrichten van andere werkzaamheden dan waarvoor toestemming is verleend, dient de geïnteresseerde persoon opnieuw toestemming aan te vragen.
 
-#### Artikel 4
+##### Artikel 4
 
 Een afhankelijk gezinslid dat immuniteit geniet van rechtsmacht op grond van het [Verdrag van Wenen inzake diplomatiek verkeer](https://wetten.overheid.nl/jci1.3:c:BWBV0004345) of een ander verdrag geniet geen civielrechtelijke of bestuursrechtelijke immuniteit ten aanzien van handelingen in het kader van zijn betaalde werkzaamheden.
 
-#### Artikel 5
+##### Artikel 5
 
 Indien een afhankelijk gezinslid immuniteit geniet ten aanzien van de rechtsmacht in strafzaken van de ontvangende staat in overeenstemming met het [Verdrag van Wenen inzake diplomatiek verkeer](https://wetten.overheid.nl/jci1.3:c:BWBV0004345):
 
@@ -70,39 +92,39 @@ Indien een afhankelijk gezinslid immuniteit geniet ten aanzien van de rechtsmach
 
 - b. heeft het afstand doen van immuniteit geen betrekking op maatregelen van preventieve aard of de tenuitvoerlegging van een vonnis; daarvoor is afzonderlijk afstand doen van immuniteit noodzakelijk. In dergelijke omstandigheden verzoekt de ontvangende staat de zendstaat schriftelijk afstand te doen van deze immuniteit.
 
-#### Artikel 6
+##### Artikel 6
 
 Een gezinslid dat toestemming heeft verkregen voor het verrichten van betaalde werkzaamheden uit hoofde van dit Verdrag is onderworpen aan het socialezekerheidsstelsel van de ontvangende staat ten aanzien van alle aangelegenheden die verband houden met zijn of haar werkzaamheden in die staat. Een gezinslid is tevens verplicht tot het betalen in de ontvangende staat van alle belastingen naar het inkomen die voortvloeien uit de werkzaamheden die in overeenstemming met dit Verdrag worden verricht.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit Verdrag strekt niet tot erkenning van diploma's, titels of studies tussen de partijen.
 
-#### Artikel 8
+##### Artikel 8
 
 De toestemming verleend aan een afhankelijk gezinslid voor het verrichten van betaalde werkzaamheden in de ontvangende staat eindigt zodra de plaatsing van de desbetreffende functionaris bij de diplomatieke vertegenwoordiging of consulaire post in de ontvangende staat eindigt.
 
 Betaalde werkzaamheden aanvaard in overeenstemming met de bepalingen van dit Verdrag doen voor het afhankelijke gezinslid niet het recht ontstaan tot verblijf in de ontvangende staat en verschaffen bedoeld afhankelijk gezinslid evenmin het recht deze werkzaamheden te blijven voortzetten of in de ontvangende staat andere werkzaamheden te aanvaarden nadat de uit hoofde van dit Verdrag verleende toestemming is beëindigd.
 
-#### Artikel 9
+##### Artikel 9
 
 De partijen nemen alle nodige maatregelen om dit Verdrag uit te voeren.
 
-#### Artikel 10
+##### Artikel 10
 
 De partijen kunnen in onderling overleg wijzigingen en aanvullingen overeenkomen voor dit Verdrag in de vorm van afzonderlijke protocollen die een integrerend onderdeel vormen van dit Verdrag en in werking treden in overeenstemming met [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0006631&artikel=12&z=2017-12-01&g=2017-12-01) van dit Verdrag.
 
-#### Artikel 11
+##### Artikel 11
 
 Geschillen die voortvloeien uit de uitlegging of toepassing van de bepalingen van dit Verdrag worden door de partijen geregeld via overleg en onderhandelingen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Dit Verdrag treedt in werking op de eerste dag van de tweede maand na de laatste schriftelijke kennisgeving waarbij de partijen elkaar langs diplomatieke weg van in kennis hebben gesteld dat is voldaan aan de voor de inwerkingtreding van dit Verdrag noodzakelijke vereisten van hun nationale wetgeving.
 
 2. Wat het Koninkrijk der Nederlanden betreft is dit Verdrag van kracht in het Europese deel van Nederland, in het Caribisch deel van Nederland (de eilanden Bonaire, Sint Eustatius en Saba) alsmede op Aruba, Curaçao en Sint Maarten, tenzij anders bepaald in de kennisgeving van het Koninkrijk der Nederlanden bedoeld in het eerste lid van dit artikel. In het laatste geval kan het Koninkrijk der Nederlanden de toepassing van dit Verdrag te allen tijde door middel van een kennisgeving langs diplomatieke weg aan El Salvador uitbreiden tot een of meer van zijn afzonderlijke delen.
 
-#### Artikel 13
+##### Artikel 13
 
 Dit Verdrag blijft voor onbepaalde tijd van kracht, tenzij een van de partijen dit Verdrag opzegt door de andere partij schriftelijk langs diplomatieke weg in kennis te stellen van haar voornemen het op te zeggen. De opzegging wordt van kracht zes maanden na de datum van de kennisgeving.
 

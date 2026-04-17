@@ -1,13 +1,24 @@
 ---
 title: "Uitgebreide Luchtvervoersovereenkomst tussen de lidstaten van de Associatie van Zuidoost-Aziatische Staten, enerzijds, en de Europese Unie en haar lidstaten, anderzijds"
 identifier: "BWBV0006978"
-categorie: "Milieu"
-publicatiedatum: 2022-10-17
-laatste_update: 2022-10-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006978"
+country: "nl"
+rank: "verdrag"
+publication_date: "2022-10-17"
+last_updated: "2022-10-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006978"
+soort: "verdrag"
+stam_id: "10005621403"
+version_id: "10006184852"
+internal_id: "C10009955371"
+label_id: "10005603664"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006978/2022-10-17/0"
+intitule_status: "nogniet"
+jci_1_3: "jci1.3:c:BWBV0006978&z=2022-10-17&g=2022-10-17"
+jci_1_0: "1.0:c:BWBV0006978&g=2022-10-17"
+citeertitel_status: "redactioneel"
 ---
-
 # Uitgebreide Luchtvervoersovereenkomst tussen de lidstaten van de Associatie van Zuidoost-Aziatische Staten, enerzijds, en de Europese Unie en haar lidstaten, anderzijds
 
 De Regeringen van:
@@ -128,13 +139,13 @@ De wens uitdrukkend een overeenkomst inzake luchtvervoer te sluiten, ter aanvull
 
 Zijn als volgt overeengekomen:
 
-#### Artikel 1. Toepassingsgebied
+##### Artikel 1. Toepassingsgebied
 
 1. Deze Overeenkomst is van toepassing op de verlening van luchtvervoersdiensten door luchtvaartmaatschappijen uit de Unie van, op of naar het grondgebied van de ASEAN-lidstaten, en door luchtvaartmaatschappijen uit de ASEAN-lidstaten van, op of naar het grondgebied van de Unie, alsook op de verlening van bepaalde diensten in verband met die luchtvervoersdiensten, overeenkomstig deze Overeenkomst.
 
 2. Voor alle duidelijkheid: deze vereenkomst mag in geen geval zodanig worden uitgelegd dat zij van toepassing is op het verlenen van luchtvervoersdiensten door luchtvaartmaatschappijen van een ASEAN-lidstaat van, op of naar het grondgebied van een andere ASEAN-lidstaat, of op de verlening van bepaalde diensten in verband met die luchtvervoersdiensten.
 
-#### Artikel 2. Definities
+##### Artikel 2. Definities
 
 1. Voor de toepassing van deze Overeenkomst wordt verstaan onder:
 
@@ -232,7 +243,7 @@ Zijn als volgt overeengekomen:
 
 - aa. „gebruikersheffing”: een aan luchtvaartmaatschappijen opgelegde heffing voor de levering van luchthaven-, luchtvaartnavigatie- of luchtvaartbeveiligingsfaciliteiten of -diensten, met inbegrip van aanverwante diensten en faciliteiten, of een geluidsheffing, met inbegrip van heffingen om lokale luchtkwaliteitsproblemen op of rond luchthavens aan te pakken. Voor alle duidelijkheid: regelingen om klimaatgerelateerde emissies van de internationale luchtvaart aan te pakken vallen niet onder deze definitie.
 
-#### Artikel 3. Verlening van rechten
+##### Artikel 3. Verlening van rechten
 
 1. Een ASEAN-lidstaat verleent luchtvaartmaatschappijen uit de Unie toestemming vluchten uit te voeren op de volgende routes:
 
@@ -312,7 +323,7 @@ Voor de in de eerste alinea genoemde routes omvat het begrip punten in de Unie e
 
 - b. wat de Unie betreft, het recht voor haar luchtvaartmaatschappijen om op het grondgebied van een ASEAN-lidstaat tegen betaling passagiers, bagage, goederen en/of post aan boord te nemen die bestemd zijn voor een ander punt op het grondgebied van diezelfde ASEAN-lidstaat.
 
-#### Artikel 4. Exploitatievergunningen en technische machtigingen
+##### Artikel 4. Exploitatievergunningen en technische machtigingen
 
 1. Na de ontvangst van een aanvraag voor een exploitatievergunning van een luchtvaartmaatschappij van een andere partij, verleent een partij zo spoedig mogelijk de exploitatievergunningen en passende technische machtigingen, voor zover alle volgende voorwaarden vervuld zijn:
 
@@ -346,7 +357,7 @@ Voor de in de eerste alinea genoemde routes omvat het begrip punten in de Unie e
 
 4. Als een partij een aanvraag voor een exploitatievergunning ontvangt van een luchtvaartmaatschappij van een andere partij, erkent zij de door die andere partij gedane vaststellingen met betrekking tot de deugdelijkheid en/of nationaliteit van die luchtvaartmaatschappij alsof die vaststellingen door haar eigen bevoegde autoriteiten zijn gedaan, en voert zij verder geen onderzoek naar deze kwesties, behalve in de gevallen als bedoeld in [artikel 5, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=5&z=2022-10-17&g=2022-10-17). Teneinde elke twijfel uit te sluiten, wordt benadrukt dat deze alinea geen betrekking heeft op de erkenning van vaststellingen in verband met veiligheidscertificaten of -vergunningen, beveiligingsregelingen of de verzekeringsdekking.
 
-#### Artikel 5. Weigering, intrekking, opschorting, onderwerping aan voorwaarden, of beperking van exploitatievergunningen of technische machtigingen
+##### Artikel 5. Weigering, intrekking, opschorting, onderwerping aan voorwaarden, of beperking van exploitatievergunningen of technische machtigingen
 
 1. Een partij mag de exploitatievergunningen of technische machtigingen van een luchtvaartmaatschappij van een andere partij weigeren, intrekken, schorsen, aan voorwaarden onderwerpen of beperken of de activiteiten van een luchtvaartmaatschappij van die andere partij anderszins weigeren, schorsen, aan voorwaarden onderwerpen of beperken als:
 
@@ -376,11 +387,11 @@ Voor de in de eerste alinea genoemde routes omvat het begrip punten in de Unie e
 
 5. Dit artikel doet geen afbreuk aan het recht van een partij om de exploitatievergunning of technische machtiging van luchtvaartmaatschappij(en) van een andere partij te weigeren, in te trekken, te schorsen, aan voorwaarden te onderwerpen of te beperken, of om de activiteiten van luchtvaartmaatschappij(en) van een andere partij anderszins te weigeren, te schorsen, aan voorwaarden te onderwerpen of te beperken, overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=8&z=2022-10-17&g=2022-10-17), [15](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=15&z=2022-10-17&g=2022-10-17), [16](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=16&z=2022-10-17&g=2022-10-17) of [25](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=25&z=2022-10-17&g=2022-10-17).
 
-#### Artikel 6. Liberalisering van eigendoms- en zeggenschapsvereisten
+##### Artikel 6. Liberalisering van eigendoms- en zeggenschapsvereisten
 
 De partijen erkennen de potentiële baten van de geleidelijke liberalisering van de eigendom van en zeggenschap over hun respectieve luchtvaartmaatschappijen. De partijen kunnen binnen het Gemengd Comité als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=23&z=2022-10-17&g=2022-10-17) te gepasten tijde de opportuniteiten van een wederzijdse liberalisering van de eigendom van en zeggenschap over luchtvaartmaatschappijen bekijken. Het Gemengd Comité kan vervolgens wijzigingen van deze Overeenkomst voorstellen overeenkomstig [artikel 23, lid 4, punt f)](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=23&z=2022-10-17&g=2022-10-17), en [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=28&z=2022-10-17&g=2022-10-17).
 
-#### Artikel 7. Naleving van wetten en regels
+##### Artikel 7. Naleving van wetten en regels
 
 1. Als luchtvaartmaatschappijen van de ene partij het grondgebied van een andere partij binnenkomen of verlaten, moeten zij zich houden aan de wetten en regels inzake binnenkomst op en vertrek uit het grondgebied door luchtvaartuigen die internationaal luchtvervoer uitvoeren en inzake de exploitatie van luchtvaartuigen.
 
@@ -388,7 +399,7 @@ De partijen erkennen de potentiële baten van de geleidelijke liberalisering van
 
 3. Elke partij staat op zijn grondgebied toe dat de luchtvaartmaatschappijen van een andere partij maatregelen nemen om te garanderen dat alleen personen worden vervoerd die beschikken over de vereiste reisdocumenten voor binnenkomst op hun grondgebied of voor transit via het grondgebied van die andere partij.
 
-#### Artikel 8. Eerlijke mededinging
+##### Artikel 8. Eerlijke mededinging
 
 1. De partijen komen overeen gezamenlijk te streven naar een eerlijk en concurrerend klimaat waarin de luchtvaartmaatschappijen van de partijen eerlijke en gelijke kansen hebben om te concurreren bij het aanbieden van luchtvervoersdiensten.
 
@@ -452,13 +463,13 @@ mogen zij handelen overeenkomstig de leden 8, 9 en10 van dit artikel.
 
 12. Niets in deze Overeenkomst kan de autoriteit en de rechten van de bevoegde concurrentieautoriteiten en de rechtbanken van de partijen om de besluiten van die autoriteiten te toetsen, beïnvloeden, beperken of schaden. Alle maatregelen van een initiatiefnemer uit hoofde van lid 9 van dit artikel laten eventuele maatregelen van deze autoriteiten en rechtbanken, met inbegrip van de rechtbanken van de initiatiefnemer, derhalve onverlet. De acties en maatregelen van de mededingingsautoriteiten van de partijen en de rechterlijke instanties die de besluiten van die autoriteiten toetsen, worden uitgesloten van het in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=25&z=2022-10-17&g=2022-10-17) vastgestelde geschillenbeslechtingsmechanisme.
 
-#### Artikel 9. Bedrijfsvoering
+##### Artikel 9. Bedrijfsvoering
 
 1. De partijen zijn het erover eens dat de voordelen van deze Overeenkomst niet kunnen worden verwezenlijkt wanneer hun luchtvaartmaatschappijen worden gehinderd in hun bedrijfsvoering. De partijen komen overeen samen te werken bij het wegnemen van belemmeringen die een obstakel kunnen vormen voor de commerciële activiteiten, die concurrentieverstoringen kunnen veroorzaken of die een gelijk speelveld in de weg kunnen staan.
 
 2. Het Gemengd Comité houdt toezicht op de vooruitgang die wordt geboekt bij de aanpak van de belemmeringen voor de bedrijfsvoering van luchtvaartmaatschappijen van de partijen.
 
-#### Artikel 10. Commercieel luchtvervoer
+##### Artikel 10. Commercieel luchtvervoer
 
 1. De partijen verlenen elkaar de in de leden 2 tot en met 17 van dit artikel bedoelde rechten. Van luchtvaartmaatschappijen van de partijen wordt niet verlangd dat zij door de toepassing van dit artikel een lokale partner behouden.
 
@@ -522,7 +533,7 @@ Als de exploiterende luchtvaartmaatschappij van de binnenlandse dienst een maats
 
 17. De betrokken partijen kunnen verlangen dat de leasingovereenkomsten door hun bevoegde autoriteiten worden goedgekeurd teneinde na te gaan of de voorwaarden van lid 16 en de toepasselijke veiligheids- en beveiligingseisen worden nageleefd. Als een partij een dergelijke goedkeuring verlangt, zorgt zij echter voor een vlot verloop van de goedkeuringsprocedures en beperkt zij de administratieve last van die procedures voor de betrokken luchtvaartmaatschappijen tot een minimum. Teneinde elke twijfel uit te sluiten, weze eraan herinnerd dat lid 16 geen afbreuk doet aan de wetten en regels van de partij inzake de leasing van vliegtuigen door maatschappijen van die partij.
 
-#### Artikel 11. Douanerechten en andere taksen
+##### Artikel 11. Douanerechten en andere taksen
 
 1. Bij aankomst op het grondgebied van een andere partij worden luchtvaartuigen die door luchtvaartmaatschappijen van een partij worden ingezet voor internationaal luchtvervoer, hun gebruikelijke apparatuur, brandstof, smeermiddelen, technische verbruiksgoederen, grondapparatuur, reserveonderdelen (inclusief motoren), boordproviand (inclusief voedsel, drank, alcoholische dranken, tabak en andere producten die bestemd zijn om tijdens de vlucht in beperkte hoeveelheden aan passagiers te worden verkocht of door passagiers te worden verbruikt) en andere voorwerpen die bestemd zijn voor of uitsluitend worden gebruikt in verband met de exploitatie of het onderhoud van voor internationaal luchtvervoer ingezette luchtvaartuigen, voor zover zij aan boord van het luchtvaartuig blijven, op basis van wederkerigheid en voor zover de binnenlandse wetten en regels van de partijen dit toestaan, vrijgesteld van alle invoerbeperkingen, eigendomstaksen en heffingen op activa, douanerechten, accijnzen, inspectievergoedingen, belasting over de toegevoegde waarde of andere vergelijkbare indirecte belastingen en soortgelijke vergoedingen en rechten die:
 
@@ -558,7 +569,7 @@ Om twijfel uit te sluiten, worden luchtvaartuigen en andere goederen als bedoeld
 
 10. De bepalingen van de tussen EU-lidstaten en ASEAN-lidstaten gesloten overeenkomsten inzake het vermijden van dubbele belasting op inkomsten en kapitaal worden niet gewijzigd bij de onderhavige Overeenkomst.
 
-#### Artikel 12. Gebruikersheffingen
+##### Artikel 12. Gebruikersheffingen
 
 1. Elke partij ziet erop toe dat de door haar bevoegde heffingsautoriteiten of -organen voor het gebruik van luchtvaartnavigatie en luchtverkeersleiding aan luchtvaartmaatschappijen van de andere partij opgelegde gebruikersheffingen kostengerelateerd en niet-discriminerend zijn en worden opgelegd volgens voorwaarden die niet minder gunstig zijn dan de gunstigste voorwaarden die elke andere luchtvaartmaatschappij in vergelijkbare omstandigheden kan verkrijgen op het tijdstip dat de heffingen worden opgelegd.
 
@@ -566,19 +577,19 @@ Om twijfel uit te sluiten, worden luchtvaartuigen en andere goederen als bedoeld
 
 3. Elke partij eist dat haar bevoegde heffingsautoriteiten of -organen de luchtvaartmaatschappijen die gebruik maken van de diensten en installaties raadplegen en met die maatschappijen de informatie uitwisselen die nodig is om op accurate wijze te kunnen beoordelen of de gebruikersheffingen redelijk zijn, overeenkomstig de beginselen van leden 1 en 2 van dit artikel. Elke partij ziet erop toe dat haar bevoegde heffingsautoriteiten of -organen de luchtvaartmaatschappijen binnen een redelijke termijn in kennis stellen van ieder voorstel tot wijziging van de gebruikersheffingen, zodat zij hun standpunten en opmerkingen kunnen meedelen alvorens wijzigingen worden doorgevoerd.
 
-#### Artikel 13. Tarieven
+##### Artikel 13. Tarieven
 
 1. De partijen staan toe dat de luchtvaartmaatschappijen van de partijen hun tarieven vrij vaststellen.
 
 2. Elke partij mag op niet-discriminerende basis eisen dat de luchtvaartmaatschappijen van de partijen hun bevoegde autoriteiten, op vereenvoudigde wijze en uitsluitend ter informatie, in kennis stellen van de passagiers- en vrachttarieven van diensten die vanop haar grondgebied vertrekken. Die kennisgeving mag ten vroegste van de luchtvaartmaatschappijen worden verlangd op het ogenblik dat een tarief voor het eerst wordt aangeboden.
 
-#### Artikel 14. Statistieken
+##### Artikel 14. Statistieken
 
 1. Elke partij verstrekt de andere partijen de beschikbare statistieken over het luchtvervoer in het kader van deze Overeenkomst, voor zover redelijkerwijs vereist, met inachtneming van de respectieve wet- en regelgeving van de partijen en op niet-discriminerende basis.
 
 2. De partijen werken samen om de onderlinge uitwisseling van statistische informatie te faciliteren met het oog op de monitoring van de ontwikkeling van het luchtvervoer in het kader van deze Overeenkomst.
 
-#### Artikel 15. Veiligheid van de luchtvaart
+##### Artikel 15. Veiligheid van de luchtvaart
 
 1. De partijen bevestigen opnieuw het belang van nauwe samenwerking op het gebied van de veiligheid van de luchtvaart. In dat verband komen de partijen overeen waar nodig verdere samenwerking aan te gaan, met name inzake het faciliteren van de uitwisseling van veiligheidsinformatie, de mogelijke deelname aan elkaars toezichtactiviteiten of de uitvoering van gezamenlijke toezichtactiviteiten, alsmede de ontwikkeling van gezamenlijke projecten en initiatieven, ook met landen die geen partij zijn bij deze Overeenkomst.
 
@@ -596,7 +607,7 @@ Om twijfel uit te sluiten, worden luchtvaartuigen en andere goederen als bedoeld
 
 8. Alle overeenkomstig lid 4, 6 of 7 van dit artikel door een partij genomen maatregelen worden stopgezet zodra de aanleiding voor het nemen van die maatregelen is weggevallen.
 
-#### Artikel 16. Beveiliging van de luchtvaart
+##### Artikel 16. Beveiliging van de luchtvaart
 
 1. Beide partijen bevestigen dat hun verplichtingen tegenover elkaar ook de beveiliging van de burgerluchtvaart tegen wederrechtelijke daden omvatten, met name hun verplichtingen uit hoofde van het [Verdrag van Chicago](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), het [Verdrag inzake strafbare feiten en bepaalde andere handelingen](https://wetten.overheid.nl/jci1.3:c:BWBV0004659) begaan aan boord van luchtvaartuigen, ondertekend in Tokio op 14 september 1963, het [Verdrag tot bestrijding van het wederrechtelijk in zijn macht brengen van luchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBV0004424), ondertekend in Den Haag op 16 december 1970, het [Verdrag tot bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van de burgerluchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0003604), ondertekend in Montreal op 23 september 1971, het [Protocol tot bestrijding van wederrechtelijke daden van geweld op luchthavens voor de internationale burgerluchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0002152), ondertekend te Montreal op 24 februari 1988, en het [Verdrag inzake het merken van kneedspringstoffen ten behoeve van de opsporing ervan](https://wetten.overheid.nl/jci1.3:c:BWBV0003003), ondertekend te Montreal op 1 maart 1991, voor zover de partijen ook partij zijn bij deze verdragen, en alle andere verdragen en protocollen inzake de beveiliging van de burgerluchtvaart waartoe de partijen zijn toegetreden.
 
@@ -620,7 +631,7 @@ Om twijfel uit te sluiten, worden luchtvaartuigen en andere goederen als bedoeld
 
 11. Alle maatregelen die overeenkomstig lid 10 van dit artikel door de eerste in dat lid genoemde partij worden genomen, worden beëindigd zodra de andere betrokken partij dit artikel naleeft.
 
-#### Artikel 17. Luchtverkeersbeheer
+##### Artikel 17. Luchtverkeersbeheer
 
 1. De partijen komen overeen samen te werken op het gebied van regelgeving met betrekking tot luchtvaartnavigatiediensten, met inbegrip van het veiligheidstoezicht daarop. Zij komen overeen alle beleidskwesties in verband met de prestaties van het luchtverkeersbeheer te behandelen, teneinde de algemene vluchtefficiëntie te optimaliseren, de kosten te drukken, de milieu-impact tot een minimum te beperken en de veiligheid en capaciteit van de luchtverkeersstromen tussen de bestaande verkeersbeheersystemen van de partijen te vergroten.
 
@@ -630,7 +641,7 @@ Om twijfel uit te sluiten, worden luchtvaartuigen en andere goederen als bedoeld
 
 4. De partijen komen overeen om samen te werken aan hun programma’s voor de modernisering van het luchtverkeersbeheer, met inbegrip van ontwikkelings- en uitrolactiviteiten, en om de wederzijdse deelname aan validerings- en demonstratieactiviteiten aan te moedigen.
 
-#### Artikel 18. Milieu
+##### Artikel 18. Milieu
 
 1. De partijen ondersteunen de noodzaak aan milieubescherming door de duurzame ontwikkeling van de luchtvaart te bevorderen. De partijen nemen zich voor samen te werken om na te gaan welke gevolgen de internationale luchtvaart heeft voor het milieu.
 
@@ -642,15 +653,15 @@ Om twijfel uit te sluiten, worden luchtvaartuigen en andere goederen als bedoeld
 
 5. De partijen erkennen dat het noodzakelijk is passende maatregelen te nemen om de gevolgen van de luchtvaart voor het milieu te voorkomen of te beperken, voor zover die maatregelen volledig verenigbaar zijn met hun rechten en plichten uit hoofde van het internationaal recht.
 
-#### Artikel 19. Aansprakelijkheid van luchtvaartmaatschappijen
+##### Artikel 19. Aansprakelijkheid van luchtvaartmaatschappijen
 
 De partijen die het [Verdrag van Montreal](https://wetten.overheid.nl/jci1.3:c:BWBV0001644) hebben geratificeerd, herbevestigen hun verplichtingen uit hoofde van dat Verdrag. De overige partijen verbinden zich ertoe het [Verdrag van Montreal](https://wetten.overheid.nl/jci1.3:c:BWBV0001644) zo spoedig mogelijk te ratificeren en het Gemengd Comité daarvan in kennis te stellen.
 
-#### Artikel 20. Consumentenbescherming
+##### Artikel 20. Consumentenbescherming
 
 De partijen komen overeen samen te werken om de belangen van de consumenten in de luchtvaart te beschermen. Het doel van deze samenwerking is een hoog niveau van consumentenbescherming te bereiken, rekening houdend met het belang van alle actoren en de verschillende kenmerken van de partijen. Daartoe plegen de partijen in het Gemengd Comité overleg over aangelegenheden die van belang zijn voor de consument, met inbegrip van voorgenomen maatregelen, teneinde in de mate van het mogelijke voor een grotere compatibiliteit tussen de regelgeving van de partijen te zorgen.
 
-#### Artikel 21. Geautomatiseerde boekingssystemen
+##### Artikel 21. Geautomatiseerde boekingssystemen
 
 1. Op het grondgebied van een partij opererende verkopers van geautomatiseerde boekingssystemen („CRS’en”) mogen hun CRS’en invoeren, in stand houden en vrij ter beschikking stellen van reisbureaus of touroperators wier belangrijkste activiteit bestaat in de distributie van reisproducten op het grondgebied van een andere partij, mits het CRS voldoet aan alle desbetreffende wettelijke voorschriften van die partij.
 
@@ -662,7 +673,7 @@ De partijen komen overeen samen te werken om de belangen van de consumenten in d
 
 5. Als CRS’en onder een vrijhandelsovereenkomst vallen (die onder [artikel V.1, lid 1, van de Algemene Overeenkomst betreffende de handel in diensten](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&deel=V) valt) die wordt ondertekend of waarover wordt onderhandeld tussen de Unie en een ASEAN-lidstaat, zijn de leden 1 tot en met 4 van dit artikel niet van toepassing op die ASEAN-lidstaat.
 
-#### Artikel 22. Sociale aspecten
+##### Artikel 22. Sociale aspecten
 
 1. De partijen erkennen dat het belangrijk is rekening te houden met het effect van deze Overeenkomst op de werkgelegenheid en de arbeidsomstandigheden. De partijen komen overeen samen te werken met betrekking tot arbeidskwesties die onder het toepassingsgebied van deze Overeenkomst vallen, onder meer wat betreft de gevolgen voor de werkgelegenheid, de fundamentele rechten op de werkplek, de arbeidsomstandigheden, de sociale bescherming en de sociale dialoog.
 
@@ -678,7 +689,7 @@ De partijen komen overeen samen te werken om de belangen van de consumenten in d
 
 7. Elke partij mag vragen dat het Gemengd Comité bijeenkomt om arbeidskwesties te bespreken en door die partij belangrijk geachte relevante informatie uit te wisselen.
 
-#### Artikel 23. Het Gemengd Comité
+##### Artikel 23. Het Gemengd Comité
 
 1. Een Gemengd Comité van vertegenwoordigers van de partijen wordt belast met het toezicht op het beheer van deze Overeenkomst en moet de correcte uitvoering daarvan waarborgen.
 
@@ -704,7 +715,7 @@ De partijen komen overeen samen te werken om de belangen van de consumenten in d
 
 5. Aanbevelingen en besluiten worden vastgesteld bij consensus tussen de Unie en haar lidstaten, enerzijds, en alle ASEAN-lidstaten, anderzijds. De besluiten van het Gemengd Comité zijn bindend voor de partijen.
 
-#### Artikel 24. Uitvoering
+##### Artikel 24. Uitvoering
 
 1. Geen enkele bepaling in deze Overeenkomst mag zodanig worden uitgelegd dat zij rechten toekent of verplichtingen oplegt die door onderdanen van een partij rechtstreeks kunnen worden ingeroepen voor de rechterlijke instanties van een andere partij.
 
@@ -722,7 +733,7 @@ De partijen komen overeen samen te werken om de belangen van de consumenten in d
 
 8. Wanneer in deze Overeenkomst wordt verwezen naar samenwerking tussen de partijen, streven de partijen naar overeenstemming voor gezamenlijke actie om deze Overeenkomst verder te ontwikkelen en/of de werking ervan op de betrokken gebieden te verbeteren, op basis van wederzijdse instemming.
 
-#### Artikel 25. Geschillenbeslechting en arbitrage
+##### Artikel 25. Geschillenbeslechting en arbitrage
 
 1. Onverminderd de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=5&z=2022-10-17&g=2022-10-17) en [8](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=8&z=2022-10-17&g=2022-10-17) kunnen een of meer partijen voor elk geschil in verband met de toepassing of interpretatie van deze Overeenkomst een beroep doen op het in dit artikel bedoelde geschillenbeslechtingsmechanisme.
 
@@ -768,7 +779,7 @@ De partijen komen overeen samen te werken om de belangen van de consumenten in d
 
 15. Als het scheidsgerecht een schending van deze Overeenkomst vaststelt en de partij waarvan geoordeeld is dat ze deze Overeenkomst heeft geschonden zich niet aan de definitieve uitspraak van het scheidsgerecht houdt of niet binnen veertig (40) dagen na de datum van kennisgeving van de definitieve uitspraak van het scheidsgerecht met de andere partij overeenstemming bereikt over een voor beide partijen aanvaardbare oplossing, dan kan de andere partij de toepassing van vergelijkbare uit deze Overeenkomst voortvloeiende rechten schorsen tot de partij die inbreuk heeft gepleegd voldoet aan de definitieve uitspraak van het scheidsgerecht of tot de initiatiefnemer en de antwoordende partij overeenstemming bereiken over een voor beide partijen aanvaardbare oplossing.
 
-#### Artikel 26. Verhouding met andere overeenkomsten
+##### Artikel 26. Verhouding met andere overeenkomsten
 
 1. Behoudens de leden 2 en 7 van dit artikel wordt elke eerdere overeenkomst of regeling inzake luchtdiensten tussen een EU-lidstaat en een ASEAN-lidstaat of tussen de Unie en een ASEAN-lidstaat geschorst zolang deze Overeenkomst tussen die partijen van kracht is.
 
@@ -784,25 +795,25 @@ De partijen komen overeen samen te werken om de belangen van de consumenten in d
 
 7. Niets in deze Overeenkomst doet afbreuk aan de geldigheid en de toepassing van bestaande en toekomstige overeenkomsten tussen de EU-lidstaten en de ASEAN-lidstaten wat betreft onder hun respectieve soevereiniteit vallende grondgebieden waarop de definitie van „grondgebied” in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=2&z=2022-10-17&g=2022-10-17) niet van toepassing is.
 
-#### Artikel 27. Bijlage
+##### Artikel 27. Bijlage
 
 De bijlage bij deze Overeenkomst vormt een integrerend deel daarvan. Wijzigingen in de bijlage worden aangebracht overeenkomstig [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=28&z=2022-10-17&g=2022-10-17).
 
-#### Artikel 28. Wijzigingen
+##### Artikel 28. Wijzigingen
 
 Alle wijzigingen van deze Overeenkomst kunnen door de partijen worden overeengekomen na overleg overeenkomstig [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=23&z=2022-10-17&g=2022-10-17). Wijzigingen worden van kracht overeenkomstig de procedure van [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=33&z=2022-10-17&g=2022-10-17).
 
-#### Artikel 29. Beëindiging
+##### Artikel 29. Beëindiging
 
 1. Deze Overeenkomst kan door de Unie en haar lidstaten of door alle gezamenlijk optredende ASEAN-lidstaten worden beëindigd door middel van een schriftelijke kennisgeving aan respectievelijk de secretaris-generaal van de Raad van de Europese Unie of de secretaris-generaal van de ASEAN. De beëindiging wordt van kracht achttien (18) maanden na de datum van ontvangst van de kennisgeving door respectievelijk de secretaris-generaal van de ASEAN of de secretaris-generaal van de Raad van de Europese Unie.
 
 2. Indien een lidstaat zich uit de Unie of de ASEAN terugtrekt, is deze Overeenkomst overeenkomstig [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=32&z=2022-10-17&g=2022-10-17) niet langer op die staat van toepassing met ingang van de datum waarop zijn terugtrekking uit respectievelijk de Unie of de ASEAN van kracht wordt.
 
-#### Artikel 30. Registratie van deze Overeenkomst
+##### Artikel 30. Registratie van deze Overeenkomst
 
 Deze Overeenkomst en eventuele wijzigingen daarvan worden bij de inwerkingtreding daarvan door de secretaris-generaal van de ASEAN geregistreerd bij de ICAO.
 
-#### Artikel 31. Toetreding van nieuwe EU-lidstaten
+##### Artikel 31. Toetreding van nieuwe EU-lidstaten
 
 1. Deze Overeenkomst staat open voor toetreding door staten die EU-lidstaten zijn geworden na de datum van ondertekening van deze Overeenkomst.
 
@@ -810,11 +821,11 @@ Deze Overeenkomst en eventuele wijzigingen daarvan worden bij de inwerkingtredin
 
 3. De [leden 1, 2, 3 en 7 van artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=26&z=2022-10-17&g=2022-10-17) zijn mutatis mutandis van toepassing op de overeenkomsten en regelingen die reeds bestaan op het ogenblik waarop een EU-lidstaat tot deze Overeenkomst toetreedt.
 
-#### Artikel 32. Territoriale toepassing
+##### Artikel 32. Territoriale toepassing
 
 Deze Overeenkomst is van toepassing, enerzijds, op het grondgebied van de Unie en, anderzijds, op het grondgebied van de ASEAN-lidstaten, zoals gedefinieerd in [artikel 2, lid 1, punt z)](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=2&z=2022-10-17&g=2022-10-17).
 
-#### Artikel 33. Inwerkingtreding
+##### Artikel 33. Inwerkingtreding
 
 1. Deze Overeenkomst moet worden bekrachtigd, aanvaard of goedgekeurd overeenkomstig de respectieve procedures van de partijen.
 
@@ -822,7 +833,7 @@ Deze Overeenkomst is van toepassing, enerzijds, op het grondgebied van de Unie e
 
 3. Onder voorbehoud van [artikel N](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=N&z=2022-10-17&g=2022-10-17) treedt deze Overeenkomst in werking dertig (30) dagen na de datum van ontvangst van de laatste schriftelijke kennisgeving als bedoeld in lid 2 van dit artikel.
 
-#### Artikel 34. Authentieke teksten
+##### Artikel 34. Authentieke teksten
 
 1. Deze Overeenkomst is in twee originele exemplaren opgesteld in de Bulgaarse, de Deense, de Duitse, de Engelse, de Estse, de Finse, de Franse, de Griekse, de Hongaarse, de Ierse, de Italiaanse, de Kroatische, de Letse, de Litouwse, de Maltese, de Nederlandse, de Poolse, de Portugese, de Roemeense, de Sloveense, de Slowaakse, de Spaanse, de Tsjechische en de Zweedse taal, waarbij alle teksten gelijkelijk authentiek zijn.
 
@@ -830,7 +841,7 @@ Deze Overeenkomst is van toepassing, enerzijds, op het grondgebied van de Unie e
 
 3. Een van de originele teksten van de Overeenkomst alsmede eventuele wijzigingen daarvan wordt neergelegd bij de secretaris-generaal van de ASEAN, die onverwijld een voor eensluidend gewaarmerkt afschrift daarvan toezendt aan elke ASEAN-lidstaat. De andere originele tekst van de Overeenkomst alsmede eventuele wijzigingen daarvan wordt neergelegd bij de secretaris-generaal van de Raad van de Europese Unie.
 
-#### Artikel A. Routeschema
+##### Artikel A. Routeschema
 
 1. Onverminderd [artikel 3, leden 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=3&z=2022-10-17&g=2022-10-17), en met inachtneming van de binnenlandse wet- en regelgeving van Indonesië, verwijst het begrip „punten in Indonesië” in het kader van de exploitatie van passagiers- en gecombineerde luchtdiensten tussen Indonesië en de Unie naar Denpasar, Jakarta, Makassar, Medan en Surabaya.
 
@@ -844,7 +855,7 @@ luchtvaartmaatschappijen toestaat passagiers en gecombineerde luchtdiensten te e
 
 3. Voor de toepassing van [artikel 10, lid 12](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=10&z=2022-10-17&g=2022-10-17), worden, wat Indonesië betreft, de binnenlandse codesharingrechten uitgeoefend via de in de leden 1 en 2 van dit artikel genoemde punten naar andere punten in Indonesië, of omgekeerd.
 
-#### Artikel B. Verkeersrechten
+##### Artikel B. Verkeersrechten
 
 Niettegenstaande [artikel 3, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=3&z=2022-10-17&g=2022-10-17), zijn de volgende bepalingen van toepassing:
 
@@ -856,13 +867,13 @@ Niettegenstaande [artikel 3, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006
 
 - d. de toekenning van verkeersrechten van de vijfde vrijheid overeenkomstig [artikel 3, lid 3, punt e)](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=3&z=2022-10-17&g=2022-10-17), aan een Vietnamese luchtvaartmaatschappij om passagiers- en combinatiediensten te verlenen tussen punten in Vietnam en punten in de Unie naar punten buiten de Unie, wordt uitsluitend verleend op routes die niet door een luchtvaartmaatschappij uit de Unie worden geëxploiteerd.
 
-#### Artikel C. Recht op tussenlanding
+##### Artikel C. Recht op tussenlanding
 
 1. Onverminderd [artikel 3, lid 6, punt f)](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=3&z=2022-10-17&g=2022-10-17), treedt de uitoefening van eigen tussenlandingsrechten bij co-terminalactiviteiten binnen dezelfde ASEAN-lidstaat door luchtvaartmaatschappijen van de Unie in werking twee (2) jaar nadat die rechten zijn uitgewisseld in het kader van een overeenkomst inzake luchtdiensten tussen de ASEAN-lidstaten. De uitoefening van tussenlandingsrechten bij co-terminalactiviteiten in dezelfde EU-lidstaat door luchtvaartmaatschappijen van de ASEAN-lidstaten treedt op hetzelfde tijdstip in werking.
 
 2. Tot dan neemt elke partij verzoeken van luchtvaartmaatschappijen van een andere partij om op extra bilaterale basis eigen vluchten met tussenlanding te verrichten bij co-terminalactiviteiten binnen dezelfde ASEAN-lidstaat of EU-lidstaat, welwillend in overweging, voor zover dergelijke rechten nog niet beschikbaar zijn.
 
-#### Artikel D. Aanwijzing van luchtvaartmaatschappijen
+##### Artikel D. Aanwijzing van luchtvaartmaatschappijen
 
 1. Onverminderd [artikel 4, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=4&z=2022-10-17&g=2022-10-17), mogen Indonesië, Myanmar, de Filipijnen en Vietnam de eis handhaven dat luchtvaartmaatschappijen worden aangewezen die op het tijdstip van ondertekening van deze Overeenkomst in hun respectieve nationale wet- en regelgeving zijn opgenomen.
 
@@ -870,7 +881,7 @@ Niettegenstaande [artikel 3, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006
 
 3. Indonesië, Myanmar, de Filipijnen en Vietnam streven ernaar de genoemde aanwijzingsvereisten zo spoedig mogelijk op te heffen en stellen het Gemengd Comité daarvan in kennis.
 
-#### Artikel E. Eerlijke mededinging
+##### Artikel E. Eerlijke mededinging
 
 1. Om elke twijfel uit te sluiten, bevestigen de partijen dat partijen op grond van [artikel 8, lid 2, punten a) en b)](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=8&z=2022-10-17&g=2022-10-17), alleen verplicht zijn mededingingswetgeving vast te stellen of te handhaven en een onafhankelijke mededingingsautoriteit in te stellen om dit mededingingsrecht te handhaven. De partijen bevestigen tevens dat deze Overeenkomst de onafhankelijke werking van de genoemde mededingingsautoriteiten niet belemmert. De besluiten van die mededingingsautoriteiten vallen niet onder het in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=25&z=2022-10-17&g=2022-10-17) bedoelde geschillenbeslechtingsmechanisme.
 
@@ -878,7 +889,7 @@ Niettegenstaande [artikel 3, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006
 
 3. Niettegenstaande [artikel 25, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=25&z=2022-10-17&g=2022-10-17), is het geschillenbeslechtingsmechanisme van dat artikel niet van toepassing op geschillen in verband met de toepassing of interpretatie van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=8&z=2022-10-17&g=2022-10-17) die zich vóór 1 januari 2025 voordoen.
 
-#### Artikel F. Operationele plannen, programma's en dienstregelingen
+##### Artikel F. Operationele plannen, programma's en dienstregelingen
 
 1. Onverminderd [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=3&z=2022-10-17&g=2022-10-17) en [artikel 10, leden 11 en 12](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=10&z=2022-10-17&g=2022-10-17), en niettegenstaande artikel 10, lid 7, mogen Cambodja, Indonesië, Laos, Maleisië, Myanmar, de Filipijnen, Thailand en Vietnam de procedures handhaven die op het tijdstip van de ondertekening van deze Overeenkomst in hun respectieve nationale wet- en regelgeving zijn opgenomen voor de goedkeuring van operationele plannen, programma’s en dienstregelingen, met inbegrip van informatie over diensten die worden geëxploiteerd in het kader van coöperatieve marketingregelingen, die door luchtvaartmaatschappijen van de Unie zijn vastgesteld voor luchtdiensten van en naar het grondgebied van die staten.
 
@@ -886,13 +897,13 @@ Niettegenstaande [artikel 3, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006
 
 3. Cambodja, Indonesië, Laos, Maleisië, Myanmar, de Filipijnen, Thailand en Vietnam streven ernaar deze procedures zo spoedig mogelijk op te heffen en stellen het Gemengd Comité daarvan in kennis.
 
-#### Artikel G. Verkoop en plaatselijke uitgaven
+##### Artikel G. Verkoop en plaatselijke uitgaven
 
 1. Onverminderd [artikel 10, leden 8 en 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=10&z=2022-10-17&g=2022-10-17), kunnen Indonesië, Myanmar en Vietnam de in hun respectieve nationale wet- en regelgeving op het tijdstip van ondertekening van deze Overeenkomst opgenomen vereisten met betrekking tot het gebruik van hun nationale valuta voor de binnenlandse verkoop van vervoer en aanverwante diensten en voor de betaling van plaatselijke uitgaven handhaven.
 
 2. Indonesië, Myanmar en Vietnam streven ernaar deze vereisten zo spoedig mogelijk op te heffen en stellen het Gemengd Comité daarvan in kennis.
 
-#### Artikel H. Overmaking van lokale inkomsten
+##### Artikel H. Overmaking van lokale inkomsten
 
 1. Om elke twijfel uit te sluiten verwijst de term „overmaking” in [artikel 10, lid 10, punt a)](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=10&z=2022-10-17&g=2022-10-17), in het geval van de Filipijnen naar andere geldovermakingen dan die welke worden verricht door een filiaal van een buitenlandse onderneming die zich bezighoudt met handel of zaken op het grondgebied van de Filipijnen.
 
@@ -900,31 +911,31 @@ Niettegenstaande [artikel 3, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006
 
 3. De Filipijnen streven ernaar met de Unie samen te werken aan de ontwikkeling van een gemeenschappelijk kader voor de behandeling van overmakingen door luchtvaartmaatschappijen uit de Unie die in de Filipijnen actief zijn, en stellen het Gemengd Comité daarvan in kennis.
 
-#### Artikel I. Tarieven
+##### Artikel I. Tarieven
 
 1. Onverminderd [artikel 13, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=13&z=2022-10-17&g=2022-10-17), en niettegenstaande artikel 13, lid 2, mogen de Filipijnen de op het tijdstip van de ondertekening van deze Overeenkomst bestaande procedures in hun respectieve nationale wet- en regelgeving handhaven met betrekking tot de goedkeuring van de tarieven die door de luchtvaartmaatschappijen van de Unie zijn vastgesteld voor luchtdiensten van en naar het grondgebied van de Filipijnen. Die tarieven worden goedgekeurd binnen tien (10) werkdagen na de indiening ervan.
 
 2. De Filipijnen streven ernaar die procedure zo snel mogelijk op te heffen en stellen het Gemengd Comité daarvan in kennis.
 
-#### Artikel J. Leninggaranties
+##### Artikel J. Leninggaranties
 
 [Artikel 8, lid 2, punt d)](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=8&z=2022-10-17&g=2022-10-17), is niet van toepassing op subsidies in de vorm van leninggaranties die Vietnam vóór de ondertekening van deze Overeenkomst en tot het verstrijken van deze regelingen heeft verleend. Indien deze garanties echter aanleiding geven tot uitbetalingen, worden deze gedaan overeenkomstig [artikel 8, lid 3, punten a) en b)](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=8&z=2022-10-17&g=2022-10-17), naargelang het geval.
 
-#### Artikel K. Niet-discriminatie
+##### Artikel K. Niet-discriminatie
 
 1. Onverminderd [artikel D](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=D&z=2022-10-17&g=2022-10-17) behandelen de in dat artikel vermelde ASEAN-lidstaten luchtvaartmaatschappijen uit de Unie bij de aanwijzing van luchtvaartmaatschappijen even gunstig als luchtvaartmaatschappijen uit andere landen.
 
 2. Onverminderd de [artikelen F](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=F&z=2022-10-17&g=2022-10-17), [G](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=G&z=2022-10-17&g=2022-10-17) en [I](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=I&z=2022-10-17&g=2022-10-17) behandelen de in die artikelen genoemde ASEAN-lidstaten luchtvaartmaatschappijen uit de Unie even gunstig als hun eigen luchtvaartmaatschappijen of de luchtvaartmaatschappijen van andere landen, indien dit gunstiger is, wat betreft de goedkeuring van operationele plannen, programma’s en dienstregelingen, verkoop en plaatselijke uitgaven en tarieven.
 
-#### Artikel L. Geautomatiseerde boekingssystemen
+##### Artikel L. Geautomatiseerde boekingssystemen
 
 Op het tijdstip van de ondertekening van deze Overeenkomst zijn de in [artikel 21, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=21&z=2022-10-17&g=2022-10-17), bedoelde ASEAN-lidstaten Indonesië, Maleisië, de Filipijnen, Thailand en Vietnam.
 
-#### Artikel M. Wederkerigheid
+##### Artikel M. Wederkerigheid
 
 Als een ASEAN-lidstaat op grond van de [artikelen D](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=D&z=2022-10-17&g=2022-10-17), [F](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=F&z=2022-10-17&g=2022-10-17), [G](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=G&z=2022-10-17&g=2022-10-17) en [I](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=I&z=2022-10-17&g=2022-10-17) de aanwijzing van luchtvaartmaatschappijen uit de Unie verlangt, of op luchtvaartmaatschappijen uit de Unie nationale procedures toepast voor de voorafgaande goedkeuring van operationele plannen, programma’s en dienstregelingen, coöperatieve marketingregelingen of tarieven, of aan luchtvaartmaatschappijen uit de Unie nationale regels oplegt met betrekking tot de valuta die bij bepaalde transacties moeten worden gebruikt, heeft de Unie het recht aan luchtvaartmaatschappijen van die ASEAN-lidstaat dezelfde of gelijkwaardige maatregelen op te leggen.
 
-#### Artikel N. Inwerkingtreding voor Maleisië
+##### Artikel N. Inwerkingtreding voor Maleisië
 
 1. Onverminderd [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=33&z=2022-10-17&g=2022-10-17), en indien Maleisië de enige ASEAN-lidstaat is die de secretaris-generaal van de ASEAN niet in kennis heeft gesteld van zijn bevestiging dat zijn procedures voor de bekrachtiging, aanvaarding of goedkeuring van deze Overeenkomst zijn voltooid:
 
@@ -940,7 +951,7 @@ Als een ASEAN-lidstaat op grond van de [artikelen D](https://wetten.overheid.nl/
 
 - b. worden er geen nieuwe overeenkomsten of regelingen inzake luchtdiensten gesloten tussen de EU-lidstaten en Maleisië, of tussen de Unie en Maleisië, behalve om in te spelen op beperkte en dringende behoeften in uitzonderlijke omstandigheden en onverminderd hun respectieve nationale wet- en regelgeving. De Unie of de betrokken EU-lidstaat stelt de andere partijen in kennis van dergelijke nieuwe overeenkomsten of regelingen inzake luchtdiensten.
 
-#### Artikel O. Voortgangsevaluatie
+##### Artikel O. Voortgangsevaluatie
 
 Het Gemengd Comité evalueert jaarlijks de vorderingen met betrekking tot de uitvoering van de artikelen van deze bijlage op basis van een verslag van de betrokken ASEAN-lidstaten.
 

@@ -1,13 +1,37 @@
 ---
 title: "Adoptie en verkrijging Nederlanderschap"
 identifier: "BWBR0010291"
-categorie: "Bestuursrecht"
-publicatiedatum: 1999-03-15
-laatste_update: 1999-03-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010291"
+country: "nl"
+rank: "circulaire"
+publication_date: "1999-03-15"
+last_updated: "1999-03-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010291"
+soort: "circulaire"
+stam_id: "6334193"
+version_id: "10987992"
+internal_id: "C14880041"
+label_id: "6323114"
+original_entry_into_force: "1999-03-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010291/1999-03-15/0"
+intitule_bron: "Stcrt.1999-51"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-02-23"
+intitule_published: "1999-03-15"
+intitule_in_force: "1999-03-15"
+intitule_status: "goed"
+original_publication: "Stcrt.1999-51"
+original_signed_date: "1999-02-23"
+original_published_date: "1999-03-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1999-51-p5-SC18028"
+entry_into_force_date: "1999-03-15"
+jci_1_3: "jci1.3:c:BWBR0010291&z=1999-03-15&g=1999-03-15"
+jci_1_0: "1.0:c:BWBR0010291&g=1999-03-15"
+citeertitel_status: "redactioneel"
+signed_date: "1999-02-23"
+entry_into_force: "1999-03-15"
 ---
-
 # Adoptie en verkrijging Nederlanderschap
 
 Aan:

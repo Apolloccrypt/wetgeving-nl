@@ -1,13 +1,36 @@
 ---
 title: "Inwerkingtreding Wet leerlinggebonden financiering (LGF-wet) in het voortgezet onderwijs"
 identifier: "BWBR0015972"
-categorie: "Onderwijs"
-publicatiedatum: 2003-12-10
-laatste_update: 2003-12-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015972"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2003-12-10"
+last_updated: "2003-12-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015972"
+soort: "beleidsregel"
+stam_id: "6470533"
+version_id: "11147882"
+internal_id: "C15067551"
+label_id: "6459174"
+original_entry_into_force: "2003-12-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015972/2003-12-10/0"
+intitule_bron: "Uitleg.2003-29/30"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-11-28"
+intitule_published: "2003-12-10"
+intitule_in_force: "2003-12-10"
+intitule_status: "goed"
+original_publication: "Uitleg.2003-29/30"
+original_signed_date: "2003-11-28"
+original_published_date: "2003-12-10"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2003-12-10"
+jci_1_3: "jci1.3:c:BWBR0015972&z=2003-12-10&g=2003-12-10"
+jci_1_0: "1.0:c:BWBR0015972&g=2003-12-10"
+citeertitel_status: "redactioneel"
+signed_date: "2003-11-28"
+entry_into_force: "2003-12-10"
 ---
-
 # Inwerkingtreding Wet leerlinggebonden financiering (LGF-wet) in het voortgezet onderwijs
 
 ### De Rugzak

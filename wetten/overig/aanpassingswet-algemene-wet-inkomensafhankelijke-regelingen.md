@@ -1,14 +1,41 @@
 ---
-title: "Aanpassingswet Algemene wet inkomensafhankelijke regelingen"
+title: "Wet van 23 juni 2005 tot wijziging van een aantal wetten in verband met de invoering van de Algemene wet inkomensafhankelijke regelingen (Aanpassingswet Algemene wet inkomensafhankelijke regelingen)"
 identifier: "BWBR0018471"
-categorie: "Overig"
-publicatiedatum: 2015-01-01
-laatste_update: 2015-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0018471"
+country: "nl"
+rank: "wet"
+publication_date: "2015-01-01"
+last_updated: "2015-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0018471"
+soort: "wet"
+stam_id: "7130623"
+version_id: "12024822"
+internal_id: "C16128021"
+label_id: "7118694"
+original_entry_into_force: "2005-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0018471/2015-01-01/0"
+intitule_bron: "Stb.2005-343"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-06-23"
+intitule_published: "2005-06-30"
+intitule_in_force: "2005-06-30"
+intitule_status: "goed"
+original_publication: "Stb.2005-343"
+original_signed_date: "2005-06-23"
+original_published_date: "2005-06-30"
+original_effect: "nieuwe-regeling"
+original_dossier: "29765"
+original_url_id: "stb-2005-343"
+entry_into_force_date: "2005-07-01"
+entry_into_force_dossier: "29765"
+jci_1_3: "jci1.3:c:BWBR0018471&z=2015-01-01&g=2015-01-01"
+jci_1_0: "1.0:c:BWBR0018471&g=2015-01-01"
+citeertitel_status: "officieel"
+short_title: "Aanpassingswet Algemene wet inkomensafhankelijke regelingen"
+signed_date: "2005-06-23"
+entry_into_force: "2005-07-01"
 ---
-
-# Aanpassingswet Algemene wet inkomensafhankelijke regelingen
+# Wet van 23 juni 2005 tot wijziging van een aantal wetten in verband met de invoering van de Algemene wet inkomensafhankelijke regelingen (Aanpassingswet Algemene wet inkomensafhankelijke regelingen)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -20,23 +47,23 @@ Zo is het dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-G
 
 ### Hoofdstuk 2. Overgangs- en slotbepalingen
 
-#### Artikel I. [Huursubsidiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659)
+##### Artikel I. [Huursubsidiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659)
 
 Wijzigt de Huursubsidiewet.
 
-#### Artikel II. De [Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315)
+##### Artikel II. De [Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315)
 
 Wijzigt de Uitvoeringswet huurprijzen woonruimte.
 
-#### Artikel III. De [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453)
+##### Artikel III. De [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453)
 
 Wijzigt de Wet studiefinanciering 2000.
 
-#### Artikel IV. De [Wet tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012438)
+##### Artikel IV. De [Wet tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012438)
 
 Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.
 
-#### Artikel V. De [Wet tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012438)
+##### Artikel V. De [Wet tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012438)
 
 Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.
 
@@ -46,39 +73,39 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ### Afdeling B. Ministerie van Sociale Zaken en Werkgelegenheid
 
-#### Artikel I. De [Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017)
+##### Artikel I. De [Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017)
 
 Wijzigt de Wet kinderopvang.
 
 ### Afdeling C. Ministerie van Onderwijs, Cultuur en Wetenschap
 
-#### Artikel I. De [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453)
+##### Artikel I. De [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453)
 
 Wijzigt de Wet studiefinanciering 2000.
 
-#### Artikel II. De [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453)
+##### Artikel II. De [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453)
 
 Wijzigt de Wet studiefinanciering 2000.
 
-#### Artikel VI. De [Wet tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012438)
+##### Artikel VI. De [Wet tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012438)
 
 Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.
 
 ### Afdeling D. Ministerie van Justitie
 
-#### Artikel I. [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827)
+##### Artikel I. [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827)
 
 Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
 
 ### Afdeling E. Ministerie van Financiën
 
-#### Artikel I. De [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471)
+##### Artikel I. De [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471)
 
 Wijzigt de Wet op de loonbelasting 1964.
 
 ### Hoofdstuk 2. Overgangs- en slotbepalingen
 
-#### Artikel I. Overgangsrecht [Huursubsidiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659)
+##### Artikel I. Overgangsrecht [Huursubsidiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659)
 
 1. Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, respectievelijk burgemeester en wethouders, kennen voor het subsidiejaar dat loopt van 1 juli 2005 tot en met 30 juni 2006 slechts huursubsidie als bedoeld in [artikel 7, eerste lid, van de Huursubsidiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=7), respectievelijk een bijzondere bijdrage in de huurlasten als bedoeld in [artikel 26b, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=26b), dan wel voorschotten daarop krachtens [artikel 31, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=31), respectievelijk [artikel 26c, vijfde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=26c) toe over een tijdvak dat uiterlijk loopt tot en met 31 december 2005.
 
@@ -120,17 +147,17 @@ Wijzigt de Wet op de loonbelasting 1964.
 
 11. Ten aanzien van de huurder die jonger is dan 65 jaar, aan wie over het subsidiejaar dat loopt van 1 juli 2005 tot en met 30 juni 2006 huursubsidie is verstrekt en die in het daarvoor geldende peiljaar een rekenvermogen heeft van meer dan € 20 300,–, wordt, indien hij in een berekeningsjaar voorafgaand aan het berekeningsjaar 2015 recht heeft op de alleenstaande-ouderkorting, bedoeld in [artikel 8.15 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.15) zoals dat luidde op 31 december 2014, of in een berekeningsjaar vanaf het berekeningsjaar 2015 recht heeft op de verhoging van het kindgebonden budget, bedoeld in [artikel 2, zesde lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2), [artikel 7, derde lid, van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=7) toegepast alsof hij in dat jaar recht zou hebben op tweemaal het heffingvrije vermogen als bedoeld in [artikel 5.5, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.5). De vorige volzin is niet van toepassing in berekeningsjaren die volgen op een berekeningsjaar waarin met inachtneming van het in die volzin bepaalde, als gevolg van de toepassing van [artikel 7, derde lid, van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=7) geen huurtoeslag is toegekend.
 
-#### Artikel II. Overgangsrecht [Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017)
+##### Artikel II. Overgangsrecht [Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017)
 
 1. Voor het tegemoetkomingsjaar 2005 geldt de [Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017), zoals deze laatstelijk luidde vóór de inwerkingtreding van deze wet.
 
 2. De op grond van de vaststelling of herziening van de tegemoetkoming van het Rijk voor het tegemoetkomingsjaar 2005 terug te betalen bedragen kunnen door de Belastingdienst/Toeslagen op voet van [artikel 30 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=30) worden verrekend.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Algemene wet inkomensafhankelijke regelingen.
 
-#### Artikel IV. Inwerkingtreding
+##### Artikel IV. Inwerkingtreding
 
 1. Deze wet treedt in werking op 1 september 2005 en geldt wat betreft de wijzigingen ingevolge [hoofdstuk 1, afdeling A](https://wetten.overheid.nl/jci1.3:c:BWBR0018471&hoofdstuk=1&afdeling=A&z=2015-01-01&g=2015-01-01), [afdeling B](https://wetten.overheid.nl/jci1.3:c:BWBR0018471&hoofdstuk=1&afdeling=B&z=2015-01-01&g=2015-01-01), [afdeling C, artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0018471&hoofdstuk=1&afdeling=C&artikel=I&z=2015-01-01&g=2015-01-01) en [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0018471&hoofdstuk=1&afdeling=C&artikel=IV&z=2015-01-01&g=2015-01-01), en [afdeling D](https://wetten.overheid.nl/jci1.3:c:BWBR0018471&hoofdstuk=1&afdeling=D&z=2015-01-01&g=2015-01-01), en [hoofdstuk 2, artikel I, vierde tot en met elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018471&hoofdstuk=2&artikel=I&z=2015-01-01&g=2015-01-01), en [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0018471&hoofdstuk=2&artikel=II&z=2015-01-01&g=2015-01-01), voor berekeningsjaren als bedoeld in de [Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472), die aanvangen op of na 1 januari 2006.
 
@@ -140,7 +167,7 @@ Wijzigt de Algemene wet inkomensafhankelijke regelingen.
 
 4. In afwijking van het eerste lid treden de [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBR0018471&hoofdstuk=1&afdeling=C&artikel=III&z=2015-01-01&g=2015-01-01) en [VI van afdeling C van hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018471&hoofdstuk=1&afdeling=C&artikel=VI&z=2015-01-01&g=2015-01-01) in werking met ingang van 1 januari 2008.
 
-#### Artikel V. Citeertitel
+##### Artikel V. Citeertitel
 
 Deze wet wordt aangehaald als: Aanpassingswet Algemene wet inkomensafhankelijke regelingen.
 

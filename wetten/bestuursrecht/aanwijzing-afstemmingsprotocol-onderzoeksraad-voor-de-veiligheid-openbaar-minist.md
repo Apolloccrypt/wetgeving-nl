@@ -1,13 +1,38 @@
 ---
 title: "Aanwijzing afstemmingsprotocol onderzoeksraad voor de veiligheid - openbaar ministerie"
 identifier: "BWBR0023578"
-categorie: "Bestuursrecht"
-publicatiedatum: 2008-03-01
-laatste_update: 2008-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0023578"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2008-03-01"
+last_updated: "2008-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023578"
+soort: "beleidsregel"
+stam_id: "9439183"
+version_id: "15198582"
+internal_id: "C20712551"
+label_id: "9416874"
+dtd_version: "2.0"
+original_entry_into_force: "2008-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023578/2008-03-01/0"
+intitule_bron: "Stcrt.2008-48"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-02-11"
+intitule_published: "2008-03-07"
+intitule_in_force: "2008-03-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-48"
+original_signed_date: "2008-02-11"
+original_published_date: "2008-03-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-48-p9-SC84724"
+entry_into_force_date: "2008-03-01"
+jci_1_3: "jci1.3:c:BWBR0023578&z=2008-03-01&g=2008-03-01"
+jci_1_0: "1.0:c:BWBR0023578&g=2008-03-01"
+citeertitel_status: "redactioneel"
+signed_date: "2008-02-11"
+entry_into_force: "2008-03-01"
 ---
-
 # Aanwijzing afstemmingsprotocol onderzoeksraad voor de veiligheid - openbaar ministerie
 
 ### Samenvatting

@@ -1,13 +1,39 @@
 ---
-title: "Besluit implementatie richtlijn 2012/34/EU tot instelling van één Europese spoorwegruimte"
+title: "Besluit van 21 november 2015, houdende regels met betrekking tot de vergoeding minimumtoegangspakket en de toegang tot dienstvoorzieningen en de levering van diensten op het gebied van spoor en houdende wijziging van enkele algemene maatregelen van bestuur ter implementatie van richtlijn 2012/34/EU van het Europees Parlement en de Raad van 21 november 2012 tot instelling van één Europese spoorwegruimte (PbEU 2012, L 343/32) (Besluit implementatie richtlijn 2012/34/EU tot instelling van één Europese spoorwegruimte)"
 identifier: "BWBR0037315"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-01-01
-laatste_update: 2022-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037315"
+country: "nl"
+rank: "amvb"
+publication_date: "2022-01-01"
+last_updated: "2022-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037315"
+soort: "AMvB"
+stam_id: "13334913"
+version_id: "24895422"
+internal_id: "C35615101"
+label_id: "13303054"
+dtd_version: "2.0"
+original_entry_into_force: "2018-01-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037315/2022-01-01/0"
+intitule_bron: "Stb.2015-461"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-11-21"
+intitule_published: "2015-12-07"
+intitule_in_force: "2015-12-11"
+intitule_status: "goed"
+original_publication: "Stb.2018-33"
+original_signed_date: "2018-01-31"
+original_published_date: "2018-02-16"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2018-33"
+entry_into_force_date: "2018-01-31"
+jci_1_3: "jci1.3:c:BWBR0037315&z=2022-01-01&g=2022-01-01"
+jci_1_0: "1.0:c:BWBR0037315&g=2022-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit implementatie richtlijn 2012/34/EU tot instelling van één Europese spoorwegruimte"
+signed_date: "2018-01-31"
+entry_into_force: "2018-01-31"
 ---
-
 # Besluit van 21 november 2015, houdende regels met betrekking tot de vergoeding minimumtoegangspakket en de toegang tot dienstvoorzieningen en de levering van diensten op het gebied van spoor en houdende wijziging van enkele algemene maatregelen van bestuur ter implementatie van richtlijn 2012/34/EU van het Europees Parlement en de Raad van 21 november 2012 tot instelling van één Europese spoorwegruimte (PbEU 2012, L 343/32) (Besluit implementatie richtlijn 2012/34/EU tot instelling van één Europese spoorwegruimte)
 
 Op de voordracht van de Staatssecretaris van Infrastructuur en Milieu van 10 juli 2015 nr. IENM/BSK-2015/121487, Hoofddirectie Bestuurlijke en Juridische Zaken;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit en de daarop rustende bepalingen, wordt verstaan onder:
 
@@ -46,13 +72,13 @@ In dit besluit en de daarop rustende bepalingen, wordt verstaan onder:
 
 #### § 1. Methode voor toerekening
 
-#### Artikel 2. Toepassing en reikwijdte
+##### Artikel 2. Toepassing en reikwijdte
 
 1. De beheerder hanteert voor het berekenen van de vergoeding voor het minimumtoegangspakket de methode voor toerekening overeenkomstig deze paragraaf en overeenkomstig de voorschriften in uitvoeringsverordening (EU) 2015/909.
 
 2. De beheerder hanteert de methode voor toerekening voor de gehele hoofdspoorweginfrastructuur op eenzelfde wijze.
 
-#### Artikel 3. Totale kosten
+##### Artikel 3. Totale kosten
 
 1. Uit de totale begrote kosten van de beheerder wordt een kostenbasis afgeleid, die bestaat uit de kosten die rechtstreeks voortvloeien uit de exploitatie van de treindienst, bedoeld in artikel 31, derde lid, van [richtlijn 2012/34](32012L0034)/EU en die dient tot het bepalen van de vergoeding voor het minimumtoegangspakket.
 
@@ -60,7 +86,7 @@ In dit besluit en de daarop rustende bepalingen, wordt verstaan onder:
 
 3. De beheerder kan in de methode voor toerekening een correctiemechanisme opnemen waarbij een correctie wordt toegepast voor zover er een verschil bestaat tussen de begrote kosten voor toerekening en de kosten die zijn weergegeven in de jaarrekening of jaarrekeningen van de periode waar de begrote kosten voor de vorige methode voor toerekening betrekking op hebben.
 
-#### Artikel 4. Toerekening van kosten
+##### Artikel 4. Toerekening van kosten
 
 In de methode voor toerekening worden kosten als volgt toegerekend aan de kostenbasis, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=2&paragraaf=1&artikel=3&z=2022-01-01&g=2022-01-01):
 
@@ -70,7 +96,7 @@ In de methode voor toerekening worden kosten als volgt toegerekend aan de kosten
 
 - c. kosten die niet rechtstreeks voortvloeien uit de exploitatie van de treindienst, worden niet toegerekend aan de kostenbasis.
 
-#### Artikel 5. Wijze en beschrijving van de toerekening van kosten
+##### Artikel 5. Wijze en beschrijving van de toerekening van kosten
 
 1. De beheerder bepaalt op basis van:
 
@@ -84,7 +110,7 @@ welke kosten als bedoeld in [artikel 4, onderdeel b](https://wetten.overheid.nl/
 
 3. De beschrijving, bedoeld in het tweede lid, maakt het oorzakelijk verband tussen kosten en de toerekening aan de kostenbasis aannemelijk.
 
-#### Artikel 6. Diensten en gebruiksklassen
+##### Artikel 6. Diensten en gebruiksklassen
 
 1. De beheerder kan binnen het minimumtoegangspakket verschillende diensten onderscheiden en voor ieder van deze diensten een aparte vergoeding hanteren.
 
@@ -92,7 +118,7 @@ welke kosten als bedoeld in [artikel 4, onderdeel b](https://wetten.overheid.nl/
 
 3. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de binnen het minimumtoegangspakket te hanteren diensten en de gebruiksklassen.
 
-#### Artikel 7. Bepalen van de vergoeding
+##### Artikel 7. Bepalen van de vergoeding
 
 1. De beheerder bepaalt de vergoedingen voor het minimumtoegangspakket door de kostenbasis, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=2&paragraaf=1&artikel=3&z=2022-01-01&g=2022-01-01), te delen door de corresponderende begrote gebruiksomvang van het minimumtoegangspakket.
 
@@ -104,7 +130,7 @@ welke kosten als bedoeld in [artikel 4, onderdeel b](https://wetten.overheid.nl/
 
 5. De beheerder kan in de methode voor toerekening een correctiemechanisme opnemen waarbij een correctie wordt toegepast voor zover er een verschil bestaat tussen de begrote gebruiksomvang voor toerekening en de gerealiseerde gebruiksomvang die is weergegeven in het jaarverslag of de jaarverslagen van de periode waar de begrote gebruiksomvang voor toerekening betrekking op heeft.
 
-#### Artikel 8. Correctie vanwege wijziging van de methode voor toerekening
+##### Artikel 8. Correctie vanwege wijziging van de methode voor toerekening
 
 De beheerder kan op de vergoedingen correcties aanbrengen indien in enig dienstregelingsjaar een vergoeding is gehanteerd op basis van een methode voor toerekening die de Autoriteit Consument en Markt heeft goedgekeurd en nadien gewijzigd is op basis van een:
 
@@ -116,13 +142,13 @@ voor zover de vergoeding die in rekening is gebracht afwijkt van de vergoeding d
 
 #### § 2. Goedkeuring van de methode voor toerekening
 
-#### Artikel 9. Toezenden aan de Autoriteit Consument en Markt
+##### Artikel 9. Toezenden aan de Autoriteit Consument en Markt
 
 1. De beheerder zendt de aanvraag voor goedkeuring voor de methode voor toerekening ten minste negen maanden voorafgaand aan de datum van publicatie van de netverklaring van het dienstregelingsjaar waarop de volgende methode voor toerekening van toepassing is aan de Autoriteit Consument en Markt.
 
 2. De beheerder zendt de eerste methode voor toerekening uiterlijk op 31 maart 2017 ter goedkeuring aan de Autoriteit Consument en Markt.
 
-#### Artikel 10. Goedkeuring van de methode voor toerekening
+##### Artikel 10. Goedkeuring van de methode voor toerekening
 
 1. De Autoriteit Consument en Markt keurt de methode voor toerekening goed indien voldaan is aan de eisen gesteld op grond van de [artikelen 2 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=2&paragraaf=1&artikel=2&z=2022-01-01&g=2022-01-01), de eisen gesteld in de uitvoeringshandelingen, bedoeld in artikel 31, derde lid, van [richtlijn 2012/34](32012L0034)/EU en de eisen gesteld krachtens [artikel 20, tweede lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=4&artikel=20&z=2022-01-01&g=2022-01-01).
 
@@ -132,7 +158,7 @@ voor zover de vergoeding die in rekening is gebracht afwijkt van de vergoeding d
 
 4. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de goedkeuring van de methode voor toerekening door de Autoriteit Consument en Markt, waarbij de in het tweede lid vermelde waarden kunnen worden opgehoogd tot maximaal tweemaal de in uitvoeringsverordening (EU) 2015/909 genoemde waarden.
 
-#### Artikel 11. Termijn van de goedkeuring
+##### Artikel 11. Termijn van de goedkeuring
 
 1. De Autoriteit Consument en Markt keurt de methode voor toerekening goed voor een periode van ten hoogste vijf dienstregelingsjaren.
 
@@ -142,7 +168,7 @@ voor zover de vergoeding die in rekening is gebracht afwijkt van de vergoeding d
 
 #### § 1. Toepassingsbereik
 
-#### Artikel 12. Reikwijdte
+##### Artikel 12. Reikwijdte
 
 Dit hoofdstuk is niet van toepassing op:
 
@@ -152,11 +178,11 @@ Dit hoofdstuk is niet van toepassing op:
 
 #### § 2. Toegang tot dienstvoorzieningen en de levering van diensten daarbinnen
 
-#### Artikel 13. Toegang tot dienstvoorzieningen
+##### Artikel 13. Toegang tot dienstvoorzieningen
 
 Een exploitant van een dienstvoorziening verleent aan een spoorwegonderneming op een niet-discriminerende wijze toegang, inclusief toegang via het spoor, tot de dienstvoorzieningen, bedoeld in bijlage II, punt 2, van [richtlijn 2012/34](32012L0034)/EU, en de diensten die in deze voorzieningen worden geleverd.
 
-#### Artikel 14. Transparante en niet-discriminerende toegang
+##### Artikel 14. Transparante en niet-discriminerende toegang
 
 1. Indien een exploitant van een dienstvoorziening als bedoeld in bijlage II, punt 2, onder a, b, c, d, g en i, van [richtlijn 2012/34](32012L0034)/EU onder de directe of indirecte zeggenschap staat van een instantie of onderneming die ook actief is en een machtspositie heeft op de nationale markten voor spoorvervoerdiensten waarvoor de dienstvoorziening wordt gebruikt, is deze exploitant, ter waarborging van een volledig transparante en niet-discriminerende toegang tot de dienstvoorziening en de daarin te leveren diensten, zodanig georganiseerd dat deze ten aanzien van organisatie en besluitvorming onafhankelijk is van deze instantie of onderneming.
 
@@ -164,7 +190,7 @@ Een exploitant van een dienstvoorziening verleent aan een spoorwegonderneming op
 
 3. Indien een dienstvoorziening als bedoeld in bijlage II, punt 2, onder a, b, c, d, g en i, van [richtlijn 2012/34](32012L0034)/EU door de beheerder wordt geëxploiteerd of de exploitant ervan onder de directe of indirecte zeggenschap staat van de beheerder, wordt aan de onafhankelijkheid, bedoeld in het eerste lid, voldaan indien wordt voldaan aan de vereisten genoemd in artikel 7 van [richtlijn 2012/34](32012L0034)/EU.
 
-#### Artikel 15. Procedure verzoek om toegang
+##### Artikel 15. Procedure verzoek om toegang
 
 1. Een exploitant van een dienstvoorziening beantwoordt een verzoek van een spoorwegonderneming om toegang tot en levering van diensten in een dienstvoorziening als bedoeld in bijlage II, punt 2, van [richtlijn 2012/34](32012L0034)/EU binnen de daarvoor krachtens [artikel 70, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=70) vastgestelde redelijke termijn.
 
@@ -174,11 +200,11 @@ Een exploitant van een dienstvoorziening verleent aan een spoorwegonderneming op
 
 4. Onverminderd het tweede lid is een exploitant van een dienstvoorziening niet verplicht om te investeren in middelen of voorzieningen teneinde aan alle verzoeken van spoorwegondernemingen tegemoet te kunnen komen.
 
-#### Artikel 16. Toegang tot aanvullende diensten
+##### Artikel 16. Toegang tot aanvullende diensten
 
 Indien een exploitant van een dienstvoorziening voorziet in een aanvullende dienst als bedoeld in bijlage II, punt 3, van [richtlijn 2012/34](32012L0034)/EU, biedt hij deze op verzoek en op niet-discriminerende wijze aan een spoorwegonderneming aan.
 
-#### Artikel 17. Toegang tot ondersteunende diensten
+##### Artikel 17. Toegang tot ondersteunende diensten
 
 1. Een spoorwegonderneming mag een exploitant van een dienstvoorziening om een bijkomende reeks in bijlage II, punt 4, van [richtlijn 2012/34](32012L0034)/EU bedoelde ondersteunende diensten verzoeken.
 
@@ -186,7 +212,7 @@ Indien een exploitant van een dienstvoorziening voorziet in een aanvullende dien
 
 3. Wanneer de exploitant van een dienstvoorziening een of meer ondersteunende diensten als bedoeld in het eerste lid aan een of meer spoorwegondernemingen aanbiedt, biedt hij deze op verzoek en op niet-discriminerende wijze aan alle spoorwegondernemingen aan.
 
-#### Artikel 18. Stationsportfolio
+##### Artikel 18. Stationsportfolio
 
 Een exploitant van een passagiersstation als bedoeld in bijlage II, punt 2, onder a, van [richtlijn 2012/34](32012L0034)/EU, maakt jaarlijks kenbaar welke diensten als bedoeld in bijlage II, punt 2, onder a, van [richtlijn 2012/34](32012L0034)/EU de exploitant levert op dat station, en onder welke voorwaarden en tegen welke vergoeding hiertoe toegang wordt verleend, op zodanige wijze dat een spoorwegonderneming zich per dienst of dienstvoorziening op basis van een redelijk aanbod in ieder geval een getrouw beeld kan vormen van:
 
@@ -202,13 +228,13 @@ Een exploitant van een passagiersstation als bedoeld in bijlage II, punt 2, onde
 
 #### § 3. Vergoedingen
 
-#### Artikel 19. Kosten plus redelijke winst
+##### Artikel 19. Kosten plus redelijke winst
 
 Een vergoeding bedraagt niet meer dan de kosten die nodig zijn om een dienst te verrichten, vermeerderd met een redelijke winst, indien deze dienst betrekking heeft op het verlenen van toegang via het spoor binnen een dienstvoorziening als bedoeld in bijlage II, punt 2, van [richtlijn 2012/34](32012L0034)/EU ten behoeve van het verlenen van een desbetreffende dienst in die voorziening of op het verlenen van een dienst als bedoeld in bijlage II, punt 3 of 4, van [richtlijn 2012/34](32012L0034)/EU die slechts door één exploitant van een dienstvoorziening wordt aangeboden.
 
 ### Hoofdstuk 3. Dienstvoorzieningen en diensten
 
-#### Artikel 20. Nadere regels
+##### Artikel 20. Nadere regels
 
 1. In het belang van een goede uitvoering van dit besluit kunnen bij ministeriële regeling nadere regels worden gesteld met betrekking tot:
 
@@ -246,31 +272,31 @@ Een vergoeding bedraagt niet meer dan de kosten die nodig zijn om een dienst te 
 
 #### § 2. Toegang tot dienstvoorzieningen en de levering van diensten daarbinnen
 
-#### Artikel 21
+##### Artikel 21
 
 Wijzigt het Besluit bedrijfsvergunning en veiligheidscertificaat hoofdspoorwegen.
 
 #### § 2. Wijziging van het [Besluit capaciteitsverdeling hoofdspoorweginfrastructuur](https://wetten.overheid.nl/jci1.3:c:BWBR0017627)
 
-#### Artikel 22
+##### Artikel 22
 
 Wijzigt het Besluit capaciteitsverdeling hoofdspoorweginfrastructuur.
 
 ### Hoofdstuk 6. Overgangs- en slotbepalingen
 
-#### Artikel 23. Overgangsbepaling
+##### Artikel 23. Overgangsbepaling
 
 Tot de datum waarop de Autoriteit Consument en Markt voor het eerst goedkeuring heeft gegeven aan de methode voor toerekening, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=2&paragraaf=2&artikel=10&z=2022-01-01&g=2022-01-01), hanteert de beheerder voor het berekenen van de vergoeding voor het minimumtoegangspakket de methode van toerekening die wordt toegepast voor het dienstregelingsjaar 2016 en die is opgenomen in de netverklaring voor het dienstregelingsjaar 2016, alsmede in de daarop volgende jaren.
 
-#### Artikel 24. Omhangbepaling
+##### Artikel 24. Omhangbepaling
 
 Het [Besluit HSL-heffing 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036412) berust op [artikel 62, zesde lid, onderdeel d, en zevende lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=62).
 
-#### Artikel 25. Inwerkingtreding
+##### Artikel 25. Inwerkingtreding
 
 De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 26. Citeertitel
+##### Artikel 26. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit implementatie richtlijn 2012/34/EU tot instelling van één Europese spoorwegruimte.
 
@@ -278,23 +304,23 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### § 3. Heffingen in verband met capaciteitsgebrek en milieueffecten
 
-#### Artikel 11a. Schaarsteheffing
+##### Artikel 11a. Schaarsteheffing
 
 1. Indien tijdens de coördinatie, bedoeld in [artikel 1 van het Besluit capaciteitsverdeling hoofdspoorweginfrastructuur](https://wetten.overheid.nl/jci1.3:c:BWBR0017627&artikel=1) geen overeenstemming kan worden bereikt ten aanzien van concurrerende capaciteitsaanvragen die betrekking hebben op vervoer, kan de beheerder een schaarsteheffing vaststellen als bedoeld in [artikel 62, zesde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=62).
 
 2. De beheerder stelt de hoogte van de heffing vast.
 
-#### Artikel 11b. Bonus en malus voor luchtkwaliteit
+##### Artikel 11b. Bonus en malus voor luchtkwaliteit
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel 11c. Bonus en malus voor geluidsreductie
+##### Artikel 11c. Bonus en malus voor geluidsreductie
 
 Vervallen
 
 ### Hoofdstuk 2a. Aanvullende heffingen
 
-#### Artikel 11d. Extra heffing aanvullende dekking kosten beheer, onderhoud en vervanging hoofdspoorweginfrastructuur
+##### Artikel 11d. Extra heffing aanvullende dekking kosten beheer, onderhoud en vervanging hoofdspoorweginfrastructuur
 
 1. De beheerder legt aan een spoorwegonderneming een extra heffing op als bedoeld in [artikel 62, zesde lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=62) voor het gebruik van de hoofdspoorweginfrastructuur ter aanvullende dekking van de door de beheerder gemaakte kosten als bedoeld in artikel 32, eerste lid, van [richtlijn 2012/34](32012L0034)/EU.
 
@@ -308,11 +334,11 @@ Vervallen
 
 3. Onverminderd het tweede lid bedraagt de heffing niet meer dan de kosten die het betreffende marktsegment kan dragen als bepaald bij de evaluatie, bedoeld in [artikel 11f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=2a&artikel=11f&z=2022-01-01&g=2022-01-01).
 
-#### Artikel 11e. Totale hoogte extra heffing
+##### Artikel 11e. Totale hoogte extra heffing
 
 Onze Minister bepaalt na overleg met de beheerder ten minste eenmaal per vijf jaar welk deel van het restant van de som, bedoeld in [artikel 11d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=2a&artikel=11d&z=2022-01-01&g=2022-01-01), jaarlijks wordt toegerekend aan de extra heffing.
 
-#### Artikel 11f. Hoogte extra heffing per marktsegment en tarief extra heffing
+##### Artikel 11f. Hoogte extra heffing per marktsegment en tarief extra heffing
 
 1. In opdracht van Onze Minister voert de beheerder, na overleg met de desbetreffende spoorwegondernemingen, de evaluatie, bedoeld in artikel 32, eerste lid, van [richtlijn 2012/34](32012L0034)/EU ten minste eenmaal per vijf jaar uit ten behoeve van het bepalen van de relevantie van extra heffingen voor bepaalde marktsegmenten. Hierbij maakt de beheerder in elk geval onderscheid tussen de marktsegmenten:
 
@@ -330,7 +356,7 @@ Onze Minister bepaalt na overleg met de beheerder ten minste eenmaal per vijf ja
 
 5. De beheerder stelt een methode van toerekening vast waarmee op basis van het eerste, tweede en derde lid het tarief voor de extra heffing bepaald wordt.
 
-#### Artikel 11g. Goedkeuring evaluatie relevantie extra heffingen
+##### Artikel 11g. Goedkeuring evaluatie relevantie extra heffingen
 
 1. De lijst van marktsegmenten, de evaluatie, bedoeld in [artikel 11f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=2a&artikel=11f&z=2022-01-01&g=2022-01-01), en de methode van toerekening, bedoeld in artikel 11f, vijfde lid, behoeven de goedkeuring van de Autoriteit Consument en Markt. Op de voorbereiding van een goedkeuringsbesluit is [afdeling 3:4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing.
 
@@ -346,7 +372,7 @@ Onze Minister bepaalt na overleg met de beheerder ten minste eenmaal per vijf ja
 
 7. Na goedkeuring als bedoeld in het eerste lid stelt de beheerder de extra heffing per marktsegment vast en maakt het tarief voor die extra heffing bekend in de netverklaring.
 
-#### Artikel 11h. Correcties vanwege wijziging marktsegmenten of hoogte extra heffing
+##### Artikel 11h. Correcties vanwege wijziging marktsegmenten of hoogte extra heffing
 
 1. De beheerder brengt ten aanzien van de vastgestelde marktsegmenten, of ten aanzien van de hoogte van de extra heffing die het betreffende marktsegment kan dragen, bedoeld in [artikel 11f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&hoofdstuk=2a&artikel=11f&z=2022-01-01&g=2022-01-01), of ten aanzien van de methode van toerekening, bedoeld in artikel 11f, vijfde lid, correcties aan indien de verdeling of het relatieve deel in enig dienstregelingsjaar is gewijzigd op basis van een:
 
@@ -356,7 +382,7 @@ Onze Minister bepaalt na overleg met de beheerder ten minste eenmaal per vijf ja
 
 2. Indien de correctie, bedoeld in het eerste lid, betrekking heeft op meer dan één dienstregelingsjaar, verdeelt de beheerder de correctie evenredig over hetzelfde aantal dienstregelingsjaren.
 
-#### Artikel 11i. Prestatieregeling
+##### Artikel 11i. Prestatieregeling
 
 1. Overeenkomstig [artikel 62, zesde lid, onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=62) en artikel 35 en bijlage VI, punt twee, van [richtlijn 2012/34](32012L0034)/EU stelt de beheerder een regeling vast die de spoorwegondernemingen en de beheerder er toe aanzet om de verstoringen zo gering mogelijk te houden en de prestaties van en op de hoofdspoorweginfrastructuur te verbeteren.
 
@@ -372,7 +398,7 @@ Onze Minister bepaalt na overleg met de beheerder ten minste eenmaal per vijf ja
 
 4. Op basis van de belangrijkste parameters maakt de beheerder eenmaal per jaar het gemiddelde jaarlijkse prestatieniveau van de betreffende spoorwegondernemingen bekend.
 
-#### Artikel 11j. Heffing bij niet-gebruik toegewezen capaciteit
+##### Artikel 11j. Heffing bij niet-gebruik toegewezen capaciteit
 
 1. Na overleg met de betreffende gerechtigde legt de beheerder aan die gerechtigde een heffing op als bedoeld in [artikel 62, zesde lid, onderdeel g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=62)indien die gerechtigde de aan haar toegewezen capaciteit voor paden als bedoeld in [artikel 1 van het Besluit capaciteitsverdeling hoofdspoorweginfrastructuur](https://wetten.overheid.nl/jci1.3:c:BWBR0017627&artikel=1) of voor het opstellen van treinmaterieel annuleert, of bij herhaling geheel of gedeeltelijk niet gebruikt.
 

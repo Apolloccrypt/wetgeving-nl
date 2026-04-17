@@ -1,13 +1,38 @@
 ---
 title: "Verdrag van de Raad van Europa inzake het witwassen, de opsporing, de inbeslagneming en de confiscatie van opbrengsten van misdrijven en de financiering van terrorisme"
 identifier: "BWBV0003045"
-categorie: "Internationaal recht"
-publicatiedatum: 2015-10-25
-laatste_update: 2005-05-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003045"
+country: "nl"
+rank: "verdrag"
+publication_date: "2015-10-25"
+last_updated: "2005-05-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003045"
+soort: "verdrag"
+stam_id: "10003305193"
+version_id: "10003333222"
+internal_id: "C10008429241"
+label_id: "10003291524"
+dtd_version: "2.0"
+original_entry_into_force: "2008-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003045/2015-10-25/0"
+intitule_bron: "Trb.2006-104"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-08-13"
+intitule_published: "2006-05-12"
+intitule_in_force: "2008-09-22"
+intitule_status: "goed"
+original_publication: "Trb.2006-104"
+original_signed_date: "2008-08-13"
+original_published_date: "2006-05-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2006-104"
+entry_into_force_date: "2008-12-01"
+jci_1_3: "jci1.3:c:BWBV0003045&z=2015-10-25&g=2015-10-25"
+jci_1_0: "1.0:c:BWBV0003045&g=2015-10-25"
+citeertitel_status: "redactioneel"
+signed_date: "2008-08-13"
+entry_into_force: "2008-12-01"
 ---
-
 # Verdrag van de Raad van Europa inzake het witwassen, de opsporing, de inbeslagneming en de confiscatie van opbrengsten van misdrijven en de financiering van terrorisme
 
 Preambule
@@ -36,7 +61,7 @@ Zijn het volgende overeengekomen:
 
 ### Hoofdstuk I. BEGRIPSOMSCHRIJVINGEN
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -62,7 +87,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 ### Hoofdstuk II. FINANCIERING VAN TERRORISME
 
-#### Artikel 2. Toepassing van het Verdrag op de financiering van terrorisme
+##### Artikel 2. Toepassing van het Verdrag op de financiering van terrorisme
 
 1. Elke Partij neemt de maatregelen van wetgevende aard en andere maatregelen die noodzakelijk zijn om haar in staat te stellen de bepalingen vervat in de hoofdstukken III, IV en V van dit Verdrag te kunnen toepassen op de financiering van terrorisme.
 
@@ -72,7 +97,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 ### AFDELING 1. ALGEMENE BEPALINGEN
 
-#### Artikel 3. Maatregelen tot confiscatie
+##### Artikel 3. Maatregelen tot confiscatie
 
 1. Elke Partij neemt de maatregelen van wetgevende aard en andere maatregelen die noodzakelijk zijn om haar in staat te stellen hulpmiddelen en opbrengsten, of voorwerpen waarvan de waarde overeenkomt met die opbrengsten en de witgewassen voorwerpen te confisqueren.
 
@@ -86,11 +111,11 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 4. Elke Partij neemt de maatregelen van wetgevende aard en andere maatregelen die noodzakelijk zijn om haar in staat te stellen om te verlangen dat daders ter zake van een ernstig misdrijf of misdrijven als omschreven in het nationale recht, de herkomst van de vermeende opbrengsten of andere voorwerpen die vatbaar zijn voor confiscatie aantonen voorzover een dergelijk vereiste verenigbaar is met de beginselen van haar nationale recht.
 
-#### Artikel 4. Onderzoeksmaatregelen en voorlopige maatregelen
+##### Artikel 4. Onderzoeksmaatregelen en voorlopige maatregelen
 
 Elke Partij neemt de maatregelen van wetgevende aard en andere maatregelen die noodzakelijk zijn om haar in staat te stellen voorwerpen die vatbaar zijn voor confiscatie overeenkomstig artikel 3 spoedig te identificeren, op te sporen, te bevriezen of in beslag te nemen, in het bijzonder teneinde de tenuitvoerlegging van de confiscatie op een later tijdstip te vergemakkelijken.
 
-#### Artikel 5. Bevriezing, inbeslagneming en confiscatie
+##### Artikel 5. Bevriezing, inbeslagneming en confiscatie
 
 Elke Partij neemt de maatregelen van wetgevende aard en andere maatregelen die noodzakelijk zijn teneinde te waarborgen dat de maatregelen inzake bevriezing, inbeslagneming en confiscatie voorts van toepassing zijn op:
 
@@ -100,11 +125,11 @@ Elke Partij neemt de maatregelen van wetgevende aard en andere maatregelen die n
 
 - c. inkomsten of andere voordelen verkregen uit opbrengsten, van voorwerpen waarin de opbrengsten van misdrijven zijn veranderd of omgezet of van voorwerpen waarmee de opbrengsten van misdrijven zijn vermengd, tot de geschatte waarde van de vermengde opbrengsten, op dezelfde wijze en in dezelfde mate als opbrengsten.
 
-#### Artikel 6. Beheer van bevroren of inbeslaggenomen voorwerpen
+##### Artikel 6. Beheer van bevroren of inbeslaggenomen voorwerpen
 
 Elke Partij neemt de maatregelen van wetgevende aard en andere maatregelen die noodzakelijk zijn om een deugdelijk beheer van bevroren of inbeslaggenomen voorwerpen in overeenstemming met de artikelen 4 en 5 van dit Verdrag te waarborgen.
 
-#### Artikel 7. Onderzoeksbevoegdheden en -technieken
+##### Artikel 7. Onderzoeksbevoegdheden en -technieken
 
 1. Elke Partij neemt de wetgevende en andere maatregelen die nodig kunnen zijn om haar rechters of andere bevoegde autoriteiten de bevoegdheid te geven te bevelen dat bancaire, financiële of zakelijke gegevens worden overgelegd of in beslag genomen teneinde de in de artikelen 3, 4 en 5 bedoelde maatregelen uit te voeren. Partijen kunnen zich niet beroepen op het bankgeheim als reden om te weigeren overeenkomstig de bepalingen van dit artikel op te treden.
 
@@ -120,11 +145,11 @@ Elke Partij neemt de maatregelen van wetgevende aard en andere maatregelen die n
 
 3. Elke Partij overweegt de maatregelen van wetgevende aard en andere maatregelen te nemen die noodzakelijk zijn om haar in staat te stellen speciale onderzoekstechnieken te gebruiken die het identificeren en opsporen van opbrengsten, en het vergaren van daarmee verbandhoudend bewijsmateriaal vergemakkelijken, zoals observatie, aftappen van telecommunicatiemiddelen, toegang tot computersystemen en bevelen tot het overleggen van bepaalde bescheiden.
 
-#### Artikel 8. Rechtsmiddelen
+##### Artikel 8. Rechtsmiddelen
 
 Elke Partij neemt de maatregelen van wetgevende aard en andere maatregelen die noodzakelijk zijn om te bewerkstelligen dat de personen die worden getroffen door de in artikelen 3, 4 en 5 bedoelde maatregelen en de andere bepalingen in deze afdeling voor zover relevant, beschikken over doeltreffende rechtsmiddelen om hun rechten te beschermen.
 
-#### Artikel 9. Witwasdelicten
+##### Artikel 9. Witwasdelicten
 
 1. Elke Partij neemt de maatregelen van wetgevende aard en andere maatregelen die noodzakelijk zijn om de volgende feiten, indien opzettelijk begaan, strafbaar te stellen krachtens haar nationale wetgeving:
 
@@ -166,7 +191,7 @@ en, met inachtneming van haar grondwettelijke beginselen en de grondbeginselen v
 
 7. Elke Partij bewerkstelligt dat gronddelicten in het geval van het witwassen van geld mede gedragingen omvatten die hebben plaatsgevonden in een andere Staat, welke naar nationaal recht daar strafbaar zijn, en die een gronddelict zouden hebben gevormd indien zij op haar eigen grondgebied zouden hebben plaatsgevonden. Elke Partij kan echter bepalen dat als enige voorwaarde wordt gesteld dat de gedraging een gronddelict zou vormen indien deze op haar grondgebied zou hebben plaatsgevonden.
 
-#### Artikel 10. Aansprakelijkheid van rechtspersonen
+##### Artikel 10. Aansprakelijkheid van rechtspersonen
 
 1. Elke Partij neemt de maatregelen van wetgevende aard en andere maatregelen die noodzakelijk zijn om zich ervan te vergewissen dat rechtspersonen aansprakelijk kunnen worden gesteld voor de krachtens dit Verdrag strafbaar gestelde feiten, wanneer deze ter hunner voordele zijn gepleegd door een natuurlijke persoon, handelend ofwel individueel, ofwel als lid van een orgaan van de rechtspersoon, die binnen die rechtspersoon een leidinggevende functie vervult, die gebaseerd is op
 
@@ -182,19 +207,19 @@ en, met inachtneming van haar grondwettelijke beginselen en de grondbeginselen v
 
 4. Elke Partij bewerkstelligt dat rechtspersonen die aansprakelijk worden gesteld in overeenstemming met dit artikel, onderworpen worden aan doeltreffende, evenredige en afschrikkende strafrechtelijke of niet-strafrechtelijke sancties of maatregelen, met inbegrip van geldelijke sancties.
 
-#### Artikel 11. Eerdere beslissingen
+##### Artikel 11. Eerdere beslissingen
 
 Elke Partij neemt de maatregelen van wetgevende aard en andere maatregelen die noodzakelijk zijn om bij het bepalen van de strafmaat, rekening te kunnen houden met onherroepelijke uitspraken, tegen een natuurlijk persoon of een rechtspersoon gedaan in een andere Partij, ter zake van krachtens dit Verdrag strafbaar gestelde feiten.
 
 ### AFDELING 2. FINANCIËLE INLICHTINGEN-EENHEID (FIE) EN PREVENTIE
 
-#### Artikel 12. Financiële inlichtingen-eenheid (FIE)
+##### Artikel 12. Financiële inlichtingen-eenheid (FIE)
 
 1. Elke Partij neemt de maatregelen van wetgevende aard en andere maatregelen die noodzakelijk zijn om een FIE in te stellen als omschreven in dit Verdrag.
 
 2. Elke Partij neemt de maatregelen van wetgevende aard en andere maatregelen die noodzakelijk zijn om zich ervan te vergewissen dat haar FIE rechtstreeks of onrechtstreeks, tijdig toegang heeft tot de financiële en administratieve informatie, alsmede strafrechtelijke gegevens, die zij nodig heeft teneinde haar taken te kunnen vervullen, in het bijzonder het analyseren van meldingen van verdachte transacties.
 
-#### Artikel 13. Maatregelen ter voorkoming van witwassen
+##### Artikel 13. Maatregelen ter voorkoming van witwassen
 
 1. Elke Partij neemt de maatregelen van wetgevende aard en andere maatregelen die noodzakelijk zijn om een allesomvattend nationaal stelsel van regelgeving en toezicht of monitoring te vormen, teneinde het witwassen van geld te voorkomen en zal daarbij rekening houden met de toepasselijke internationale normen, en in het bijzonder de aanbevelingen aangenomen door de Financial Action Task Force on Money Laundering (FATF).
 
@@ -214,7 +239,7 @@ Elke Partij neemt de maatregelen van wetgevende aard en andere maatregelen die n
 
 3. Daartoe neemt elke Partij tevens de maatregelen van wetgevende aard en andere maatregelen die noodzakelijk zijn om omvangrijke fysieke grensoverschrijdende transporten van contant geld en verhandelbare waardepapieren aan toonder op te sporen.
 
-#### Artikel 14. Opschorting van binnenlandse verdachte transacties
+##### Artikel 14. Opschorting van binnenlandse verdachte transacties
 
 Elke Partij neemt de maatregelen van wetgevende aard en andere maatregelen die noodzakelijk zijn om de FIE, of, indien van toepassing, andere bevoegde autoriteiten of organen in staat te stellen onverwijld maatregelen te treffen, indien er een verdenking bestaat dat een transactie verband houdt met het witwassen van geld, teneinde de transactie op te schorten of er de goedkeuring aan te onthouden opdat deze geen doorgang vindt, kan worden geanalyseerd en de verdenking kan worden bevestigd. Elke Partij kan dergelijke maatregelen beperken tot gevallen waarin er melding is gedaan van een verdachte transactie. Op de maximum duur van een opschorting of het onthouden van goedkeuring aan een transactie zijn bepalingen van het nationale recht van toepassing.
 
@@ -222,7 +247,7 @@ Elke Partij neemt de maatregelen van wetgevende aard en andere maatregelen die n
 
 ### AFDELING 1. BEGINSELEN VAN INTERNATIONALE SAMENWERKING
 
-#### Artikel 15. Algemene beginselen en maatregelen ten behoeve van internationale samenwerking
+##### Artikel 15. Algemene beginselen en maatregelen ten behoeve van internationale samenwerking
 
 1. De Partijen werken in zo ruim mogelijke mate met elkaar samen ten behoeve van onderzoeken en procedures gericht op de confiscatie van hulpmiddelen en opbrengsten.
 
@@ -238,11 +263,11 @@ Elke Partij neemt de maatregelen van wetgevende aard en andere maatregelen die n
 
 ### AFDELING 2. HULP BIJ DE OPSPORING
 
-#### Artikel 16. Verplichting tot rechtshulp
+##### Artikel 16. Verplichting tot rechtshulp
 
 De Partijen verlenen elkaar, op verzoek, in zo ruim mogelijke mate rechtshulp bij de identificatie en opsporing van hulpmiddelen, opbrengsten en andere voorwerpen die vatbaar zijn voor confiscatie. Deze rechtshulp omvat onder meer elke maatregel betreffende het verschaffen en veilig stellen van bewijs met betrekking tot het bestaan, de vindplaats of verplaatsing, de aard, de juridische status of de waarde van bovengenoemde voorwerpen.
 
-#### Artikel 17. Verzoeken om informatie over bankrekeningen
+##### Artikel 17. Verzoeken om informatie over bankrekeningen
 
 1. Elke Partij neemt, onder de voorwaarden vervat in dit artikel, de maatregelen die noodzakelijk zijn om naar aanleiding van een verzoek gezonden door een andere Partij, vast te stellen of een natuurlijke of een rechtspersoon die het voorwerp is van een strafrechtelijk onderzoek, een of meer rekeningen, ongeacht van de aard van de rekeningen, aanhoudt of daarover zeggenschap heeft bij een bank die gevestigd is op haar grondgebied en verschaft, indien zulks het geval is, de gegevens van de geïdentificeerde rekeningen.
 
@@ -262,7 +287,7 @@ De Partijen verlenen elkaar, op verzoek, in zo ruim mogelijke mate rechtshulp bi
 
 6. De Partijen kunnen deze bepaling uitbreiden tot rekeningen die bij niet-bancaire financiële instellingen worden aangehouden. Aan een dergelijke uitbreiding kan het beginsel van wederkerigheid worden verbonden.
 
-#### Artikel 18. Verzoeken om informatie inzake bancaire transacties
+##### Artikel 18. Verzoeken om informatie inzake bancaire transacties
 
 1. Op verzoek van een andere Partij, verstrekt de aangezochte Partij de gegevens van aangeduide bankrekeningen en van banktransacties die in een bepaald tijdvak zijn uitgevoerd met een of meer in het verzoek aangeduide rekeningen, met inbegrip van de gegevens van rekeningen van waar de transactie heeft plaatsgevonden of ontvangende rekeningen.
 
@@ -274,7 +299,7 @@ De Partijen verlenen elkaar, op verzoek, in zo ruim mogelijke mate rechtshulp bi
 
 5. De Partijen kunnen deze bepaling uitbreiden tot rekeningen die bij niet-bancaire financiële instellingen worden aangehouden. Aan een dergelijke uitbreiding kan het beginsel van wederkerigheid worden verbonden.
 
-#### Artikel 19. Verzoeken om monitoring van bancaire transacties
+##### Artikel 19. Verzoeken om monitoring van bancaire transacties
 
 1. Elke Partij bewerkstelligt dat zij, op verzoek van een andere Partij, in staat is de bankverrichtingen die gedurende een bepaalde periode worden uitgevoerd door middel van een of meer in het verzoek genoemde rekeningen onder toezicht te plaatsen en de resultaten van het toezicht door te geven aan de verzoekende Partij.
 
@@ -286,19 +311,19 @@ De Partijen verlenen elkaar, op verzoek, in zo ruim mogelijke mate rechtshulp bi
 
 5. De Partijen kunnen deze bepaling uitbreiden tot rekeningen die bij niet-bancaire financiële instellingen worden aangehouden.
 
-#### Artikel 20. Informatieverstrekking op eigen initiatief
+##### Artikel 20. Informatieverstrekking op eigen initiatief
 
 Zonder afbreuk te doen aan haar eigen onderzoeken of procedures, kan een Partij zonder voorafgaand verzoek een andere Partij informatie verstrekken omtrent hulpmiddelen en opbrengsten, wanneer zij van oordeel is dat het verstrekken van die informatie de ontvangende Partij van nut kan zijn voor het instellen of uitvoeren van onderzoeken of procedures, of zou kunnen leiden tot een verzoek van die Partij krachtens dit hoofdstuk.
 
 ### AFDELING 3. VOORLOPIGE MAATREGELEN
 
-#### Artikel 21. Verplichting tot het treffen van voorlopige maatregelen
+##### Artikel 21. Verplichting tot het treffen van voorlopige maatregelen
 
 1. Elke Partij neemt op verzoek van een andere Partij die een strafrechtelijke procedure of een procedure tot van confiscatie heeft ingesteld, de noodzakelijke voorlopige maatregelen, zoals bevriezing of inbeslagneming, ter voorkoming van de verhandeling, overdracht of vervreemding van voorwerpen, die op een later tijdstip het voorwerp zouden kunnen vormen van een verzoek om confiscatie, of die van dien aard zijn, dat daarmede gevolg zou kunnen worden gegeven aan dat verzoek.
 
 2. Een Partij die een verzoek om confiscatie heeft ontvangen overeenkomstig artikel 23, neemt, indien daarom wordt verzocht, de in het eerste lid van dit artikel genoemde maatregelen met betrekking tot voorwerpen die het onderwerp vormen van het verzoek, of die van dien aard zijn, dat daarmede gevolg zou kunnen worden gegeven aan dat verzoek.
 
-#### Artikel 22. Uitvoering van voorlopige maatregelen
+##### Artikel 22. Uitvoering van voorlopige maatregelen
 
 1. Na de instelling van de voorlopige maatregelen verzocht in overeenstemming met artikel 21, eerste lid, verschaft de verzoekende Partij de aangezochte Partij eigener beweging en zo spoedig mogelijk alle informatie die aanleiding kan vormen tot twijfel omtrent de omvang van de maatregelen, danwel kan leiden tot aanpassing ervan. De verzoekende Partij verschaft tevens op verzoek van de aangezochte Partij onverwijld alle aanvullende informatie die nodig is voor de uitvoering en de opvolging van de voorlopige maatregelen.
 
@@ -306,7 +331,7 @@ Zonder afbreuk te doen aan haar eigen onderzoeken of procedures, kan een Partij 
 
 ### AFDELING 4. CONFISCATIE
 
-#### Artikel 23. Verplichting tot confiscatie
+##### Artikel 23. Verplichting tot confiscatie
 
 1. Een Partij die van een andere Partij een verzoek om confiscatie heeft ontvangen betreffende hulpmiddelen of opbrengsten die zich op haar grondgebied bevinden, dient:
 
@@ -322,7 +347,7 @@ Zonder afbreuk te doen aan haar eigen onderzoeken of procedures, kan een Partij 
 
 5. De Partijen werken, overeenkomstig hun nationale recht, in zo ruim mogelijke mate samen met de Partijen die verzoeken om de tenuitvoerlegging van maatregelen die vergelijkbaar zijn met confiscatie en resulteren in de afneming van voorwerpen, doch welke geen strafrechtelijke sancties zijn, voor zover dergelijke maatregelen in verband met een strafbaar feit zijn bevolen door een gerechtelijke autoriteit van de verzoekende Partij, en op voorwaarde dat is vastgesteld dat de voorwerpen opbrengsten of andere voorwerpen zijn in de zin van artikel 5 van dit Verdrag.
 
-#### Artikel 24. Tenuitvoerlegging van confiscatie
+##### Artikel 24. Tenuitvoerlegging van confiscatie
 
 1. De procedures voor het bewerkstelligen en tenuitvoerleggen van confiscatie krachtens artikel 23 worden beheerst door de wetgeving van de aangezochte Partij.
 
@@ -334,7 +359,7 @@ Zonder afbreuk te doen aan haar eigen onderzoeken of procedures, kan een Partij 
 
 5. In het geval bedoeld in artikel 23, eerste lid, onderdeel a, heeft alleen de verzoekende Partij het recht uitspraak te doen over een verzoek om herziening van het bevel tot confiscatie.
 
-#### Artikel 25. Geconfisqueerde voorwerpen
+##### Artikel 25. Geconfisqueerde voorwerpen
 
 1. De aangezochte Partij beschikt over de krachtens artikelen 23 en 24 van dit Verdrag geconfisqueerde voorwerpen in overeenstemming met haar nationale recht en administratieve procedures.
 
@@ -342,19 +367,19 @@ Zonder afbreuk te doen aan haar eigen onderzoeken of procedures, kan een Partij 
 
 3. Indien handelend naar aanleiding van het verzoek van een andere Partij in overeenkomstig de artikelen 23 en 24 van dit Verdrag, kan een Partij bijzondere aandacht schenken aan het sluiten van overeenkomsten of regelingen inzake het op structurele basis, danwel van geval tot geval, met andere Partijen delen van voorwerpen in overeenstemming met haar nationale recht of administratieve procedures.
 
-#### Artikel 26. Bevoegdheid tot tenuitvoerlegging en maximum bedrag voor confiscatie
+##### Artikel 26. Bevoegdheid tot tenuitvoerlegging en maximum bedrag voor confiscatie
 
 1. Een verzoek om confiscatie gedaan uit hoofde van de artikelen 23 en 24 laat de bevoegdheid van de verzoekende Partij om het bevel tot confiscatie zelf ten uitvoer te leggen onverlet.
 
 2. Geen enkele bepaling van dit Verdrag mag zodanig worden uitgelegd dat daardoor de totale waarde van de geconfisqueerde voorwerpen hoger zou zijn dan het in het bevel tot confiscatie genoemde bedrag. Indien een Partij het mogelijk acht dat zulks geschiedt, treden de betrokken Partijen met elkaar in overleg teneinde een dergelijk gevolg te voorkomen.
 
-#### Artikel 27. Lijfsdwang
+##### Artikel 27. Lijfsdwang
 
 De aangezochte Partij mag geen lijfsdwang of enige andere vrijheid beperkende maatregel opleggen naar aanleiding van een verzoek uit hoofde van artikel 23, indien de verzoekende Partij zulks in het verzoek heeft aangegeven.
 
 ### AFDELING 5. WEIGERING EN UITSTEL VAN SAMENWERKING
 
-#### Artikel 28. Gronden voor weigering
+##### Artikel 28. Gronden voor weigering
 
 1. Samenwerking op grond van dit hoofdstuk kan worden geweigerd indien:
 
@@ -412,17 +437,17 @@ De aangezochte Partij mag geen lijfsdwang of enige andere vrijheid beperkende ma
 
 - c. kan het feit dat de persoon ten aanzien van wie een strafrechtelijk onderzoek is ingesteld of een beslissing tot confiscatie is uitgevaardigd door de autoriteiten van de verzoekende Partij in het rechtshulpverzoek genoemd wordt als de dader van zowel het gronddelict als van het witwassen van geld als bedoeld in artikel 9, tweede lid, onderdeel b, van dit Verdrag, door de aangezochte Partij niet worden ingeroepen als een beletsel voor het verlenen van rechtshulp ingevolge dit hoofdstuk.
 
-#### Artikel 29. Uitstel
+##### Artikel 29. Uitstel
 
 De aangezochte Partij mag de uitvoering van de in een verzoek genoemde maatregelen uitstellen, indien deze onderzoeken of procedures ingesteld door haar autoriteiten zouden kunnen schaden.
 
-#### Artikel 30. Gedeeltelijke of voorwaardelijke inwilliging van een verzoek
+##### Artikel 30. Gedeeltelijke of voorwaardelijke inwilliging van een verzoek
 
 Alvorens samenwerking ingevolge dit hoofdstuk te weigeren of uit te stellen, overweegt de aangezochte Partij, indien passend, na overleg met de verzoekende Partij, of het verzoek gedeeltelijk kan worden ingewilligd, dan wel onder de voorwaarden die zij noodzakelijk acht.
 
 ### AFDELING 6. BETEKENING EN BESCHERMING VAN DE RECHTEN VAN DERDEN
 
-#### Artikel 31. Betekening van stukken
+##### Artikel 31. Betekening van stukken
 
 1. De Partijen verlenen elkaar in zo ruim mogelijke mate wederzijdse rechtshulp bij het betekenen van gerechtelijke stukken aan personen die worden getroffen door voorlopige maatregelen en confiscatie.
 
@@ -436,7 +461,7 @@ tenzij de Partij van bestemming op het tijdstip van ondertekening of bij de nede
 
 3. Bij de betekening van gerechtelijke documenten in het buitenland aan personen die worden getroffen door voorlopige maatregelen of beslissingen tot confiscatie die zijn genomen in de verzendende Partij, stelt deze Partij die personen in kennis van de rechtsmiddelen die krachtens haar wetgeving openstaan.
 
-#### Artikel 32. Erkenning van buitenlandse beslissingen
+##### Artikel 32. Erkenning van buitenlandse beslissingen
 
 1. Bij de behandeling van een verzoek om samenwerking uit hoofde van de afdelingen 3 en 4, erkent de aangezochte Partij alle rechterlijke beslissingen die in de verzoekende Partij zijn gegeven met betrekking tot rechten waarop derden aanspraak maken of hebben gemaakt.
 
@@ -452,13 +477,13 @@ tenzij de Partij van bestemming op het tijdstip van ondertekening of bij de nede
 
 ### AFDELING 7. PROCEDURELE EN ANDERE ALGEMENE REGELS
 
-#### Artikel 33. Centrale autoriteit
+##### Artikel 33. Centrale autoriteit
 
 1. De Partijen wijzen een centrale autoriteit of, indien noodzakelijk, meerdere autoriteiten aan, belast met het verzenden en beantwoorden van verzoeken ingevolge dit hoofdstuk, de uitvoering daarvan, dan wel of de doorgeleiding daarvan aan de autoriteiten die bevoegd zijn deze uit te voeren.
 
 2. Elke Partij stelt de Secretaris-Generaal van de Raad van Europa op het tijdstip van ondertekening of bij de nederlegging van haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding in kennis van de namen en adressen van de uit hoofde van het eerste lid van dit artikel aangewezen autoriteiten.
 
-#### Artikel 34. Rechtstreekse communicatie
+##### Artikel 34. Rechtstreekse communicatie
 
 1. De centrale autoriteiten communiceren rechtstreeks met elkaar.
 
@@ -472,7 +497,7 @@ tenzij de Partij van bestemming op het tijdstip van ondertekening of bij de nede
 
 6. De rechterlijke autoriteiten van de verzoekende Partij kunnen voorafgaand aan een formeel verzoek rechtstreeks ontwerp-verzoeken of mededelingen op grond van dit hoofdstuk aan de autoriteiten van de aangezochte Partij zenden, teneinde te verzekeren dat een formeel verzoek na ontvangst doeltreffend kan worden afgehandeld en voldoende informatie en ondersteunende stukken bevat om te kunnen voldoen aan de wettelijke vereisten van de aangezochte Partij.
 
-#### Artikel 35. Vorm van het verzoek en talen
+##### Artikel 35. Vorm van het verzoek en talen
 
 1. Alle verzoeken ingevolge dit hoofdstuk worden schriftelijk gedaan. Zij kunnen elektronisch, of met behulp van enig ander telecommunicatiemiddel worden verzonden, mits de verzoekende Partij te allen tijde bereid is op verzoek een schriftelijke weergave van de mededeling en het origineel te overleggen. Elke Partij kan evenwel te allen tijde bij een verklaring gericht aan de Secretaris-Generaal van de Raad van Europa aangeven onder welke voorwaarden zij bereid is elektronisch of met behulp van andere telecommunicatiemiddelen ontvangen verzoeken te accepteren en ten uitvoer te leggen.
 
@@ -480,11 +505,11 @@ tenzij de Partij van bestemming op het tijdstip van ondertekening of bij de nede
 
 3. Elke Staat of de Europese Gemeenschap kan op het tijdstip van ondertekening of bij de nederlegging van zijn of haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding de Secretaris-Generaal van de Raad van Europa een verklaring doen toekomen dat hij of zij zich het recht voorbehoudt te verlangen dat aan hem of haar gedane verzoeken en ondersteunende documenten vergezeld gaan van een vertaling in zijn of haar eigen taal, in één van de officiële talen van de Raad van Europa, dan wel in één van deze door hem of haar aangegeven. De Staat of de Europese Gemeenschap kan bij die gelegenheid verklaren bereid te zijn vertalingen te aanvaarden in een andere door hem of haar aan te geven taal. De andere Partijen kunnen daarbij het beginsel van wederkerigheid toepassen.
 
-#### Artikel 36. Legalisering
+##### Artikel 36. Legalisering
 
 Documenten die ingevolge dit hoofdstuk worden toegezonden, zijn vrijgesteld van alle legaliseringsformaliteiten.
 
-#### Artikel 37. Inhoud van het verzoek
+##### Artikel 37. Inhoud van het verzoek
 
 1. In elk verzoek om samenwerking ingevolge dit hoofdstuk wordt vermeld:
 
@@ -526,7 +551,7 @@ Documenten die ingevolge dit hoofdstuk worden toegezonden, zijn vrijgesteld van 
 
 - c. wanneer derden mogelijkheden hebben gehad aanspraak te maken op rechten, stukken waaruit blijkt dat zij deze mogelijkheid hebben gehad.
 
-#### Artikel 38. Onvolledige verzoeken
+##### Artikel 38. Onvolledige verzoeken
 
 1. Indien een verzoek niet voldoet aan de bepalingen van dit hoofdstuk of indien de verstrekte informatie niet voldoende is om de aangezochte Partij in staat te stellen het verzoek in behandeling te nemen, kan die Partij de verzoekende Partij vragen het verzoek te wijzigen of dit aan te vullen met extra informatie.
 
@@ -534,17 +559,17 @@ Documenten die ingevolge dit hoofdstuk worden toegezonden, zijn vrijgesteld van 
 
 3. In afwachting van de ontvangst van de gevraagde wijzigingen of informatie met betrekking tot een verzoek uit hoofde van afdeling 4 van dit hoofdstuk, kan de aangezochte Partij de in de afdelingen 2 of 3 van dit hoofdstuk bedoelde maatregelen nemen.
 
-#### Artikel 39. Samenloop van verzoeken
+##### Artikel 39. Samenloop van verzoeken
 
 1. Wanneer de aangezochte Partij meer dan één verzoek uit hoofde van afdeling 3 of 4 van dit hoofdstuk ontvangt met betrekking tot dezelfde persoon of voorwerpen, belet dit haar niet de verzoeken in behandeling te nemen die het treffen van voorlopige maatregelen inhouden.
 
 2. In geval van samenloop van verzoeken uit hoofde van afdeling 4 van dit hoofdstuk, overweegt de aangezochte Partij in overleg te treden met de verzoekende Partijen.
 
-#### Artikel 40. Verplichting tot motivering
+##### Artikel 40. Verplichting tot motivering
 
 De aangezochte Partij dient elke beslissing waarbij zij samenwerking ingevolge dit hoofdstuk weigert of uitstelt, dan wel daaraan voorwaarden verbindt, met redenen te omkleden.
 
-#### Artikel 41. Inlichtingen
+##### Artikel 41. Inlichtingen
 
 1. De aangezochte Partij licht de verzoekende Partij onverwijld in over:
 
@@ -566,13 +591,13 @@ De aangezochte Partij dient elke beslissing waarbij zij samenwerking ingevolge d
 
 3. Wanneer een Partij op grond van dezelfde beslissing tot confiscatie verzoekt om confiscatie in meer dan één Partij, stelt zij alle betrokken Partijen hiervan in kennis.
 
-#### Artikel 42. Beperkingen
+##### Artikel 42. Beperkingen
 
 1. De aangezochte Partij kan de uitvoering van het verzoek afhankelijk stellen van de voorwaarde dat de verkregen informatie of het verkregen bewijs niet zonder haar voorafgaande toestemming zal worden gebruikt of doorgezonden door de autoriteiten van de verzoekende Partij ten behoeve van andere onderzoeken of procedures dan de in het verzoek genoemde.
 
 2. Elke Staat of de Europese Gemeenschap kan op het tijdstip van ondertekening of bij de nederlegging van haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, door middel van een verklaring gericht aan de Secretaris-Generaal van de Raad van Europa, verklaren dat informatie of bewijs, door haar verstrekt ingevolge dit hoofdstuk, niet zonder haar voorafgaande toestemming mag worden gebruikt of doorgezonden door de autoriteiten van de verzoekende Partij ten behoeve van andere onderzoeken of procedures dan de in het verzoek genoemde.
 
-#### Artikel 43. Vertrouwelijkheid
+##### Artikel 43. Vertrouwelijkheid
 
 1. De verzoekende Partij kan verlangen dat de aangezochte Partij het feit dat het verzoek is gedaan en de strekking van het verzoek vertrouwelijk behandelt, behalve voor zover daarvan moet worden afgeweken ten einde het verzoek uit te voeren. Indien de aangezochte Partij niet kan voldoen aan het vereiste van vertrouwelijkheid, stelt zij de verzoekende Partij hiervan onmiddellijk in kennis.
 
@@ -580,11 +605,11 @@ De aangezochte Partij dient elke beslissing waarbij zij samenwerking ingevolge d
 
 3. Behoudens de bepalingen van haar nationale wetgeving, voldoet een Partij die op grond van artikel 20 uit eigen beweging verstrekte informatie heeft ontvangen, aan elk vereiste van vertrouwelijkheid waarom wordt verzocht door de Partij die de informatie verstrekt. Indien de andere Partij niet aan dit vereiste kan voldoen, stelt zij de Partij die de informatie heeft toegezonden, hiervan onmiddellijk in kennis.
 
-#### Artikel 44. Kosten
+##### Artikel 44. Kosten
 
 De gewone kosten gemaakt ter uitvoering van een verzoek worden gedragen door de aangezochte Partij. Wanneer aanzienlijke of buitengewone kosten moeten worden gemaakt om aan het verzoek te voldoen, plegen de Partijen overleg om de voorwaarden te bepalen waarop het verzoek wordt uitgevoerd alsmede de wijze waarop de kosten worden gedragen.
 
-#### Artikel 45. Schadevergoeding
+##### Artikel 45. Schadevergoeding
 
 1. Wanneer door een persoon een rechtsvordering is ingesteld betreffende de aansprakelijkheid voor schade voortvloeiende uit enig handelen of nalaten in verband met de samenwerking ingevolge dit hoofdstuk, overwegen de betrokken Partijen, in daartoe in aanmerking komende gevallen, met elkaar overleg te plegen om te bepalen hoe zij enig eventueel verschuldigd bedrag aan schadevergoeding onderling zullen toedelen.
 
@@ -592,7 +617,7 @@ De gewone kosten gemaakt ter uitvoering van een verzoek worden gedragen door de 
 
 ### Hoofdstuk V. SAMENWERKING TUSSEN DE FINANCIËLE INLICHTINGEN-EENHEDEN
 
-#### Artikel 46. Samenwerking tussen Financiële Inlichtingen-eenheden
+##### Artikel 46. Samenwerking tussen Financiële Inlichtingen-eenheden
 
 1. De Partijen waarborgen dat de Financiële Inlichtingen-eenheden zoals omschreven in dit Verdrag, met elkaar samenwerken ten behoeve van de bestrijding van het witwassen van geld teneinde relevante informatie over enig feit dat mogelijk kan wijzen op het witwassen van geld te verzamelen en te analyseren en indien van toepassing, te onderzoeken binnen de FIE, overeenkomstig hun nationale bevoegdheden.
 
@@ -620,7 +645,7 @@ De gewone kosten gemaakt ter uitvoering van een verzoek worden gedragen door de 
 
 13. De Partijen geven aan welke eenheid een FIE is in de zin van dit artikel.
 
-#### Artikel 47. Internationale samenwerking voor opschorting van verdachte transacties
+##### Artikel 47. Internationale samenwerking voor opschorting van verdachte transacties
 
 1. Elke Partij neemt de maatregelen van wetgevende aard en andere maatregelen die noodzakelijk zijn om op verzoek van een buitenlandse FIE, haar eigen FIE actie te kunnen laten ondernemen teneinde de uitvoering van een transactie te doen op schorten of goedkeuring aan het verrichten van een transactie te onthouden, opdat deze geen doorgang kan vinden gedurende dezelfde periode en onder dezelfde voorwaarden als die welke van toepassing zijn krachtens haar nationale recht ter zake van de opschorting van transacties.
 
@@ -632,7 +657,7 @@ De gewone kosten gemaakt ter uitvoering van een verzoek worden gedragen door de 
 
 ### Hoofdstuk VI. MONITORINGSTELSEL EN GESCHILLENBESLECHTING
 
-#### Artikel 48. Monitoringstelsel en geschillenbeslechting
+##### Artikel 48. Monitoringstelsel en geschillenbeslechting
 
 1. De Conferentie van de Partijen (COP) is verantwoordelijk voor het volgen van de uitvoering van het Verdrag. De COP:
 
@@ -652,7 +677,7 @@ De gewone kosten gemaakt ter uitvoering van een verzoek worden gedragen door de 
 
 ### Hoofdstuk VI. SLOTBEPALINGEN
 
-#### Artikel 49. Ondertekening en inwerkingtreding
+##### Artikel 49. Ondertekening en inwerkingtreding
 
 1. Dit Verdrag staat open voor ondertekening door de lidstaten van de Raad van Europa, door de Europese Gemeenschap en door Staten die geen lid van de Raad zijn en die hebben deelgenomen aan de opstelling van het Verdrag. Deze Staten en de Europese Gemeenschap kunnen hun instemming om te worden gebonden tot uitdrukking brengen door:
 
@@ -674,13 +699,13 @@ De gewone kosten gemaakt ter uitvoering van een verzoek worden gedragen door de 
 
 - b. de bepalingen van de Overeenkomst van 1990 blijven toepassen op hun betrekkingen met andere partijen bij die Overeenkomst, die niet Partij zijn bij dit Verdrag.
 
-#### Artikel 50. Toetreding tot het Verdrag
+##### Artikel 50. Toetreding tot het Verdrag
 
 1. Na de inwerkingtreding van dit Verdrag, kan het Comité van Ministers van de Raad van Europa, na raadpleging van de Partijen bij het Verdrag, iedere Staat die geen lid is van de Raad en niet heeft deelgenomen aan de opstelling ervan, uitnodigen tot dit Verdrag toe te treden, zulks bij een besluit genomen met de meerderheid voorzien in [artikel 20, onderdeel d, van het Statuut van de Raad van Europa](https://wetten.overheid.nl/jci1.3:c:BWBV0005506&artikel=20) en door met algemene stemmen van de vertegenwoordigers van de Partijen die het recht hebben in het Comité van Ministers zitting te hebben.
 
 2. Ten aanzien van elke toetredende Staat treedt het Verdrag in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van nederlegging van de akte van toetreding bij de Secretaris-Generaal van de Raad van Europa.
 
-#### Artikel 51. Territoriale toepassing
+##### Artikel 51. Territoriale toepassing
 
 1. Elke Staat of de Europese Gemeenschap kan op het tijdstip van ondertekening of bij de nederlegging van zijn of haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, het gebied of de gebieden waarop het Verdrag van toepassing zal zijn nader aangeven.
 
@@ -688,7 +713,7 @@ De gewone kosten gemaakt ter uitvoering van een verzoek worden gedragen door de 
 
 3. Iedere verklaring die wordt gedaan uit hoofde van de twee voorgaande leden kan, met betrekking tot ieder grondgebied dat in de verklaring wordt genoemd, worden ingetrokken door middel van een aan de Secretaris-Generaal gerichte kennisgeving. De intrekking wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 52. Verhouding tot andere verdragen en overeenkomsten
+##### Artikel 52. Verhouding tot andere verdragen en overeenkomsten
 
 1. Dit Verdrag laat de rechten en verplichtingen van de Partijen die voortvloeien uit internationale multilaterale instrumenten inzake bijzondere aangelegenheden onverlet.
 
@@ -698,7 +723,7 @@ De gewone kosten gemaakt ter uitvoering van een verzoek worden gedragen door de 
 
 4. Partijen die lid zijn van de Europese Unie passen in hun wederzijdse betrekkingen regels van de Gemeenschap en de Europese Unie toe, voor zover op het betreffende onderwerp, en in het bijzondere geval, regels van de Gemeenschap of de Europese Unie van toepassing zijn, onverminderd het onderwerp en het doel van dit Verdrag en onverminderd de volledige toepassing ervan ten opzichte van andere Partijen.
 
-#### Artikel 53. Verklaringen en voorbehouden
+##### Artikel 53. Verklaringen en voorbehouden
 
 1. Elke Staat of de Europese Gemeenschap kan op het tijdstip van ondertekening of bij de nederlegging van zijn of haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding een of meer van de verklaringen voorzien in artikel 3, tweede lid, artikel 9, vierde lid, artikel 17, vijfde lid, artikel 24, derde lid, artikel 31, tweede lid, artikel 35, eerste en derde lid en artikel 42, tweede lid, afleggen.
 
@@ -722,7 +747,7 @@ Hij of zij stelt de Secretaris-Generaal van de Raad van Europa in kennis van wij
 
 7. Een Partij die een voorbehoud heeft gemaakt ten aanzien van een bepaling van het Verdrag kan geen aanspraak maken op de toepassing van die bepaling door een andere Partij; zij kan echter, indien haar voorbehoud gedeeltelijk of voorwaardelijk is, op de toepassing van die bepaling aanspraak maken voor zover zij deze zelf heeft aanvaard.
 
-#### Artikel 54. Wijzigingen
+##### Artikel 54. Wijzigingen
 
 1. Wijzigingen van het Verdrag kunnen worden voorgesteld door elke Partij en worden door de Secretaris-Generaal van de Raad van Europa medegedeeld aan de lidstaten van de Raad van Europa, aan de Europese Gemeenschap en aan elke Staat die geen lid is en is toegetreden of is uitgenodigd toe te treden tot dit Verdrag in overeenstemming met de bepalingen van artikel 50.
 
@@ -746,7 +771,7 @@ Hij of zij stelt de Secretaris-Generaal van de Raad van Europa in kennis van wij
 
 11. Indien een wijziging is aanvaard door het Comité van Ministers, kan een Staat of de Europese Gemeenschap zijn of haar instemming te worden gebonden door het Verdrag niet tot uitdrukking brengen zonder tegelijkertijd de wijziging te aanvaarden.
 
-#### Artikel 55. Opzegging
+##### Artikel 55. Opzegging
 
 1. Elke Partij kan het Verdrag te allen tijde opzeggen door middel van een kennisgeving gericht aan de Secretaris-Generaal van de Raad van Europa.
 
@@ -754,7 +779,7 @@ Hij of zij stelt de Secretaris-Generaal van de Raad van Europa in kennis van wij
 
 3. Dit Verdrag blijft evenwel van toepassing op de tenuitvoerlegging van confiscaties uit hoofde van artikel 23 ter zake waarvan voor de datum waarop de opzegging van kracht wordt een verzoek is gedaan in overeenstemming met de bepalingen van het Verdrag.
 
-#### Artikel 56. Kennisgevingen
+##### Artikel 56. Kennisgevingen
 
 De Secretaris-Generaal van de Raad van Europa stelt de lidstaten van de Raad van Europa, de Europese Gemeenschap, de niet-lidstaten die hebben deelgenomen aan de opstelling van het Verdrag alsmede elke Staat die is toegetreden of is uitgenodigd tot het Verdrag toe te treden, in kennis van:
 

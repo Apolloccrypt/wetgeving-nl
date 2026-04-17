@@ -1,13 +1,39 @@
 ---
-title: "Wijzigingsbesluit Uitvoeringsbesluit Algemene wet inkomensafhankelijke regelingen, enz."
+title: "Besluit van 22 december 2005 tot wijziging van het Uitvoeringsbesluit Algemene wet inkomensafhankelijke regelingen en van enige andere besluiten"
 identifier: "BWBR0019382"
-categorie: "Bestuursrecht"
-publicatiedatum: 2006-01-01
-laatste_update: 2006-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019382"
+country: "nl"
+rank: "amvb"
+publication_date: "2006-01-01"
+last_updated: "2006-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019382"
+soort: "AMvB"
+stam_id: "7758713"
+version_id: "12652822"
+internal_id: "C17037381"
+label_id: "7746584"
+dtd_version: "2.0"
+original_entry_into_force: "2006-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019382/2006-01-01/0"
+intitule_bron: "Stb.2005-692"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-12-22"
+intitule_published: "2005-12-27"
+intitule_in_force: "2005-12-27"
+intitule_status: "goed"
+original_publication: "Stb.2005-692"
+original_signed_date: "2005-12-22"
+original_published_date: "2005-12-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2005-692"
+entry_into_force_date: "2006-01-01"
+jci_1_3: "jci1.3:c:BWBR0019382&z=2006-01-01&g=2006-01-01"
+jci_1_0: "1.0:c:BWBR0019382&g=2006-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsbesluit Uitvoeringsbesluit Algemene wet inkomensafhankelijke regelingen, enz."
+signed_date: "2005-12-22"
+entry_into_force: "2006-01-01"
 ---
-
 # Besluit van 22 december 2005 tot wijziging van het Uitvoeringsbesluit Algemene wet inkomensafhankelijke regelingen en van enige andere besluiten
 
 ### Hoofdstuk 1. Wijziging van het Uitvoeringsbesluit Algemene wet inkomensafhankelijke regelingen
@@ -16,11 +42,11 @@ bron: "https://wetten.overheid.nl/BWBR0019382"
 
 ### Hoofdstuk 3. Overgangs- en slotbepalingen
 
-#### Artikel XV. Overgangsrecht Huursubsidiebesluit
+##### Artikel XV. Overgangsrecht Huursubsidiebesluit
 
 Indien de huurder uiterlijk op 30 november 2005 een aanvraag tot toekenning van huursubsidie als bedoeld in artikel 28, eerste lid, van de Huursubsidiewet, of een verzoek als bedoeld in artikel 26, eerste lid, van die wet, zoals die bepalingen laatstelijk luidden vóór de inwerkingtreding van de [Aanpassingswet Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018471), heeft ingediend en die aanvraag respectievelijk dat verzoek betrekking heeft op het tijdvak dat loopt van 1 juli 2005 tot en met 31 december 2005 of een daaraan voorafgaand subsidietijdvak, wordt die aanvraag respectievelijk dat verzoek afgedaan overeenkomstig het [Huursubsidiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008763), zoals dat laatstelijk luidde vóór de inwerkingtreding van dit besluit.
 
-#### Artikel XVI. Overgangsrecht Besluit vangnetregeling huursubsidie
+##### Artikel XVI. Overgangsrecht Besluit vangnetregeling huursubsidie
 
 1. Voorzover een aanvraag tot toekenning van een bijzondere bijdrage in de huurlasten als bedoeld in artikel 26b, eerste lid, van de Huursubsidiewet, zoals dat laatstelijk luidde vóór de inwerkingtreding van de [Aanpassingswet Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018471), betrekking heeft op het tijdvak dat loopt van 1 juli 2005 tot en met 31 december 2005, wordt voor de toepassing van het [Besluit vangnetregeling huursubsidie](https://wetten.overheid.nl/jci1.3:c:BWBR0009632):
 
@@ -34,7 +60,7 @@ Indien de huurder uiterlijk op 30 november 2005 een aanvraag tot toekenning van 
 
 3. Indien burgemeester en wethouders een aanvraag als bedoeld in artikel 26f, tweede lid, van de Huursubsidiewet, zoals dat laatstelijk luidde vóór de inwerkingtreding van de [Aanpassingswet Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018471), hebben ingediend die betrekking heeft op het tijdvak dat loopt van 1 juli 2005 tot en met 31 december 2005 of een daaraan voorafgaand bijdragetijdvak, wordt die aanvraag afgedaan overeenkomstig het [Besluit vangnetregeling huursubsidie](https://wetten.overheid.nl/jci1.3:c:BWBR0009632), zoals dat laatstelijk luidde vóór de inwerkingtreding van dit besluit.
 
-#### Artikel XVII. Inwerkingtreding
+##### Artikel XVII. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 januari 2006, met dien verstande dat de [artikelen XV](https://wetten.overheid.nl/jci1.3:c:BWBR0019382&hoofdstuk=3&artikel=XV&z=2006-01-01&g=2006-01-01) en [XVI van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0019382&hoofdstuk=3&artikel=XVI&z=2006-01-01&g=2006-01-01) terugwerken tot en met 1 juli 2005.
 
@@ -48,7 +74,7 @@ Gezien van het nader rapport van de Staatssecretaris van Financiën van 5 decemb
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Uitvoeringsbesluit Algemene wet inkomensafhankelijke regelingen.
 
@@ -56,59 +82,59 @@ Wijzigt het Uitvoeringsbesluit Algemene wet inkomensafhankelijke regelingen.
 
 ### Afdeling A. Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Huursubsidiebesluit.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Besluit beheer sociale-huursector.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het Besluit huurprijzen woonruimte.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Huisvestingsbesluit.
 
-#### Artikel VI
+##### Artikel VI
 
 Het [Besluit prestatienormering huursubsidie](https://wetten.overheid.nl/jci1.3:c:BWBR0008764) wordt ingetrokken.
 
-#### Artikel VII
+##### Artikel VII
 
 Het [Besluit vangnetregeling huursubsidie](https://wetten.overheid.nl/jci1.3:c:BWBR0009632) wordt ingetrokken.
 
 ### Afdeling B. Ministerie van Justitie
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt het Besluit gebruik sofi-nummer Wbp.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt het Vrijstellingsbesluit Wbp.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt het Besluit draagkrachtcriteria rechtsbijstand.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt het Besluit financiële toevoegingsgrenzen.
 
 ### Afdeling C. Ministerie van Volksgezondheid, Welzijn en Sport
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt het Besluit ex artikel 11 Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt het Besluit tot uitvoering van artikel 12 der Wet buitengewoon pensioen 1940–1945.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt het Inkomensbesluit wetten buitengewoon pensioen.
 

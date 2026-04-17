@@ -1,20 +1,46 @@
 ---
-title: "Besluit bekendmaking veiling vergunningen 700, 1400 en 2100 MHz"
+title: "Besluit van de Staatssecretaris van Economische Zaken en Klimaat van 6 maart 2020, nr. WJZ/20062913, inzake de keuze voor het instrument veiling van vergunningen voor mobiele communicatie in de 700, 1400 en 2100 MHz-band en de vaststelling van de te veilen vergunningen"
 identifier: "BWBR0043245"
-categorie: "Bestuursrecht"
-publicatiedatum: 2020-03-07
-laatste_update: 2020-03-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043245"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-03-07"
+last_updated: "2020-03-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043245"
+soort: "ministeriele-regeling"
+stam_id: "15356573"
+version_id: "26546512"
+internal_id: "C37675231"
+label_id: "15301464"
+dtd_version: "2.0"
+original_entry_into_force: "2020-03-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043245/2020-03-07/0"
+intitule_bron: "Stcrt.2020-13729"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-03-06"
+intitule_published: "2020-03-06"
+intitule_in_force: "2020-03-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-13729"
+original_signed_date: "2020-03-06"
+original_published_date: "2020-03-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-13729"
+entry_into_force_date: "2020-03-07"
+jci_1_3: "jci1.3:c:BWBR0043245&z=2020-03-07&g=2020-03-07"
+jci_1_0: "1.0:c:BWBR0043245&g=2020-03-07"
+citeertitel_status: "officieel"
+short_title: "Besluit bekendmaking veiling vergunningen 700, 1400 en 2100 MHz"
+signed_date: "2020-03-06"
+entry_into_force: "2020-03-07"
 ---
-
 # Besluit van de Staatssecretaris van Economische Zaken en Klimaat van 6 maart 2020, nr. WJZ/20062913, inzake de keuze voor het instrument veiling van vergunningen voor mobiele communicatie in de 700, 1400 en 2100 MHz-band en de vaststelling van de te veilen vergunningen
 
 Gelet op [artikel 3.10, derde lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10) en [artikel 17 van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=17);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De vergunningen voor mobiele communicatie genoemd in tabel 1, met de daaraan te verbinden voorschriften en beperkingen zoals vastgesteld in de [bijlagen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043245&bijlage=1&z=2020-03-07&g=2020-03-07), worden verleend met toepassing van een veiling als bedoeld in [artikel 3.10, eerste lid, aanhef en onderdeel f, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10).
 
@@ -24,19 +50,19 @@ De vergunningen voor mobiele communicatie genoemd in tabel 1, met de daaraan te 
 | L | vergunning voor het gebruik van frequentieruimte van 5 MHz binnen het frequentiebereik 1452–1492 MHz | 8 | [2](https://wetten.overheid.nl/jci1.3:c:BWBR0043245&bijlage=2&z=2020-03-07&g=2020-03-07) |
 | M | vergunning voor het gebruik van frequentieruimte van twee keer 5MHz binnen het frequentiebereik 1920–1980 MHz gepaard met 2110–2170 MHz waarbij tussen beide frequentieruimten van 5 MHz steeds een afstand is van 190 MHz | 12 | [3](https://wetten.overheid.nl/jci1.3:c:BWBR0043245&bijlage=3&z=2020-03-07&g=2020-03-07) |
 
-#### Artikel 2
+##### Artikel 2
 
 De transitievergunning die ambtshalve op grond van [artikel 3.8a van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.8a) wordt verleend, bevat de daaraan te verbinden voorschriften en beperkingen zoals vastgesteld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043245&bijlage=4&z=2020-03-07&g=2020-03-07).
 
-#### Artikel 3
+##### Artikel 3
 
 De veilingprocedure vangt aan op de datum waarop de [Regeling aanvraag- en veilingprocedure vergunningen 700, 1400 en 2100 MHz](https://wetten.overheid.nl/jci1.3:c:BWBR0043242) in werking treedt.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit wordt aangehaald als: Besluit bekendmaking veiling vergunningen 700, 1400 en 2100 MHz.
 

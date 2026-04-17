@@ -1,20 +1,46 @@
 ---
-title: "Tijdelijke subsidieregeling versterking omgevingsveiligheid industriële activiteiten 2022–2027"
+title: "Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 31 januari 2022 nr. IENW/BSK-2022/12408, houdende vaststelling van regels voor subsidiëring van initiatieven die bijdragen aan het versterken van de omgevingsveiligheid ten aanzien van industriële activiteiten met gevaarlijke stoffen en risicovolle processen 2022–2027 (Tijdelijke subsidieregeling versterking omgevingsveiligheid industriële activiteiten 2022–2027)"
 identifier: "BWBR0046270"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-02-05
-laatste_update: 2022-02-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046270"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-02-05"
+last_updated: "2022-02-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046270"
+soort: "ministeriele-regeling"
+stam_id: "16255943"
+version_id: "28392892"
+internal_id: "C40044971"
+label_id: "16183164"
+dtd_version: "2.0"
+original_entry_into_force: "2022-02-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046270/2022-02-05/0"
+intitule_bron: "Stcrt.2022-3244"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-01-31"
+intitule_published: "2022-02-04"
+intitule_in_force: "2022-02-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-3244"
+original_signed_date: "2022-01-31"
+original_published_date: "2022-02-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-3244"
+entry_into_force_date: "2022-02-05"
+jci_1_3: "jci1.3:c:BWBR0046270&z=2022-02-05&g=2022-02-05"
+jci_1_0: "1.0:c:BWBR0046270&g=2022-02-05"
+citeertitel_status: "officieel"
+short_title: "Tijdelijke subsidieregeling versterking omgevingsveiligheid industriële activiteiten 2022–2027"
+signed_date: "2022-01-31"
+entry_into_force: "2022-02-05"
 ---
-
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 31 januari 2022 nr. IENW/BSK-2022/12408, houdende vaststelling van regels voor subsidiëring van initiatieven die bijdragen aan het versterken van de omgevingsveiligheid ten aanzien van industriële activiteiten met gevaarlijke stoffen en risicovolle processen 2022–2027 (Tijdelijke subsidieregeling versterking omgevingsveiligheid industriële activiteiten 2022–2027)
 
 Gelet op de [artikelen 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=3), [4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=4), en [5 van de Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=5) en de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=2), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=4), [6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=6), [7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=8), [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=10), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=13), [15, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=15), en [22, tweede lid, van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=22);
 
 BESLUIT:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -62,11 +88,11 @@ In deze regeling wordt verstaan onder:
 
 - **veiligheidsregio:** veiligheidsregio als bedoeld in [artikel 1 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=1).
 
-#### Artikel 2. Doel van de regeling
+##### Artikel 2. Doel van de regeling
 
 Deze regeling heeft als doel het ondersteunen van initiatieven die voldoende bijdragen aan blijvende versterking van de omgevingsveiligheid in Nederland ten aanzien van industriële activiteiten met gevaarlijke stoffen of risicovolle processen.
 
-#### Artikel 3. Thema’s en speerpunten
+##### Artikel 3. Thema’s en speerpunten
 
 1. De Minister kan op aanvraag subsidie verstrekken voor de uitvoering van projecten die beogen het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046270&artikel=2&z=2022-02-05&g=2022-02-05) genoemde doel te bereiken en die betrekking hebben op een of meer van de volgende thema’s:
 
@@ -86,7 +112,7 @@ Deze regeling heeft als doel het ondersteunen van initiatieven die voldoende bij
 
 3. In afwijking van het tweede lid maakt de Minister in 2022 het speerpunt bekend in het kalenderjaar waarvoor het wordt vastgesteld.
 
-#### Artikel 4. Subsidieplafond en wijze van verdelen
+##### Artikel 4. Subsidieplafond en wijze van verdelen
 
 1. Het subsidieplafond voor projecten die kwalificeren als project a, project b of project c bedraagt in 2022 € 1.950.000.
 
@@ -98,7 +124,7 @@ Deze regeling heeft als doel het ondersteunen van initiatieven die voldoende bij
 
 5. Indien één van de subsidieplafonds, bedoeld in het eerste of tweede lid, niet volledig wordt benut in het tijdvak waarvoor het is vastgesteld, kan de Minister het resterende bedrag beschikbaar stellen voor aanvragen vallend onder het andere subsidieplafond wanneer dit reeds voor het aflopen van het tijdvak volledig is uitgeput.
 
-#### Artikel 5. Aanvragers en aanvraagformulier
+##### Artikel 5. Aanvragers en aanvraagformulier
 
 1. Een aanvraag voor de uitvoering van een project a, b of c kan worden ingediend door een brancheorganisatie of een aanvrager die optreedt als penvoerder van een branchesamenwerkingsverband, een clustersamenwerkingsverband of een ketensamenwerkingsverband.
 
@@ -114,7 +140,7 @@ Deze regeling heeft als doel het ondersteunen van initiatieven die voldoende bij
 
 7. Een aanvraag wordt ingediend met gebruikmaking van een door de Minister beschikbaar gesteld middel.
 
-#### Artikel 6. Subsidiabele kosten en standaardberekeningswijze uurtarieven
+##### Artikel 6. Subsidiabele kosten en standaardberekeningswijze uurtarieven
 
 1. Als subsidiabele kosten voor een project a worden uitsluitend de kosten, bedoeld in artikel 29, derde lid, van de algemene groepsvrijstellingsverordening beschouwd.
 
@@ -132,13 +158,13 @@ Deze regeling heeft als doel het ondersteunen van initiatieven die voldoende bij
 
 - c. een forfaitair vastgesteld uurtarief voor loonkosten.
 
-#### Artikel 7. Berekening subsidiabele kosten bij toepassing integrale kostensystematiek
+##### Artikel 7. Berekening subsidiabele kosten bij toepassing integrale kostensystematiek
 
 1. Bij het hanteren van uurtarieven die tot stand zijn gekomen met de standaardberekeningswijze bedoeld in [artikel 6, vijfde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046270&artikel=6&z=2022-02-05&g=2022-02-05), worden de directe en indirecte kosten per kostendrager in een tarief per eenheid van deze kostendrager berekend.
 
 2. De subsidiabele kosten worden berekend door het aantal eenheden van de kostendrager te vermenigvuldigen met het ingevolge het eerste lid berekende tarief, vermeerderd met de aan derden betaalde kosten voor zover deze geen deel uitmaken van het ingevolge het eerste lid vastgestelde tarief.
 
-#### Artikel 8. Berekening subsidiabele kosten bij toepassing kosten per kostendrager met opslag
+##### Artikel 8. Berekening subsidiabele kosten bij toepassing kosten per kostendrager met opslag
 
 1. Bij het hanteren van uurtarieven die tot stand zijn gekomen met de standaardberekeningswijze bedoeld in [artikel 6, vijfde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046270&artikel=6&z=2022-02-05&g=2022-02-05), worden de directe loonkosten per uur vermenigvuldigd met het aantal uren dat direct bij de subsidiabele activiteiten betrokken personen ten behoeve van deze activiteiten hebben gewerkt.
 
@@ -152,7 +178,7 @@ Deze regeling heeft als doel het ondersteunen van initiatieven die voldoende bij
 
 3. Voor zover er geen loonkosten worden gemaakt, maar niettemin arbeid wordt verricht, wordt voor de berekening van de kosten van de arbeid uitgegaan van € 50 per uur.
 
-#### Artikel 9. Berekening met forfaitair uurtarief loonkosten
+##### Artikel 9. Berekening met forfaitair uurtarief loonkosten
 
 1. Het forfaitaire uurtarief, bedoeld in [artikel 6, vijfde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046270&artikel=6&z=2022-02-05&g=2022-02-05), bedraagt € 50.
 
@@ -162,7 +188,7 @@ Deze regeling heeft als doel het ondersteunen van initiatieven die voldoende bij
 
 - b. aan derden betaalde kosten.
 
-#### Artikel 10. Hoogte van de subsidie
+##### Artikel 10. Hoogte van de subsidie
 
 1. De subsidie voor een project a bedraagt ten hoogste het percentage van de subsidiabele kosten dat is opgenomen in artikel 29, vierde lid, van de algemene groepsvrijstellingsverordening met een maximum van € 500.000.
 
@@ -180,11 +206,11 @@ Deze regeling heeft als doel het ondersteunen van initiatieven die voldoende bij
 
 8. Voor een omgevingsdienst of een veiligheidsregio bedraagt de subsidie voor een project ten hoogste 15% van de subsidiabele kosten, onder aftrek van andere ontvangen overheidsbijdragen voor hetzelfde project.
 
-#### Artikel 11. Maximum subsidiebedrag per projectdeelnemer
+##### Artikel 11. Maximum subsidiebedrag per projectdeelnemer
 
 Een projectdeelnemer komt per kalenderjaar voor maximaal € 200.000 subsidie in aanmerking.
 
-#### Artikel 12. Beoordelingscriteria
+##### Artikel 12. Beoordelingscriteria
 
 1. Project a, b en c voldoen in ieder geval aan de volgende criteria:
 
@@ -196,7 +222,7 @@ Een projectdeelnemer komt per kalenderjaar voor maximaal € 200.000 subsidie in
 
 3. De beschrijving van de criteria en de wijze van toekenning van punten is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046270&bijlage=1&z=2022-02-05&g=2022-02-05) bij deze regeling.
 
-#### Artikel 13. Afwijzingsgronden
+##### Artikel 13. Afwijzingsgronden
 
 1. Onverminderd het bepaalde in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=11) en [12 van het kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=12), wordt een subsidieaanvraag voor een project a, project b of project c, in ieder geval afgewezen, indien:
 
@@ -216,7 +242,7 @@ Een projectdeelnemer komt per kalenderjaar voor maximaal € 200.000 subsidie in
 
 - b. op grond van deze regeling al eerder een subsidie is verstrekt voor project d aan dezelfde aanvrager.
 
-#### Artikel 14. Verplichting tot kennisdeling
+##### Artikel 14. Verplichting tot kennisdeling
 
 1. De ontvanger van subsidie voor een project a, b of c is verplicht om:
 
@@ -238,19 +264,19 @@ Een projectdeelnemer komt per kalenderjaar voor maximaal € 200.000 subsidie in
 
 - 2°. het replicatiepotentieel of opvolgingspotentieel van het project.
 
-#### Artikel 15. Overige verplichtingen
+##### Artikel 15. Overige verplichtingen
 
 Een onderneming die op het tijdstip van de verlening van de subsidie geen vaste inrichting of dochterondernemingen in Nederland heeft, draagt er zorg voor dat deze onderneming voor de eerste voorschotbetaling een vaste inrichting of dochterondernemingen in Nederland heeft.
 
-#### Artikel 16. Evaluatie
+##### Artikel 16. Evaluatie
 
 De Minister publiceert voor 1 januari 2027 een verslag over de doeltreffendheid en de effecten van de subsidie in de praktijk.
 
-#### Artikel 17. Inwerkingtreding en horizonbepaling
+##### Artikel 17. Inwerkingtreding en horizonbepaling
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 januari 2027, met dien verstande dat zij van toepassing blijft op subsidies waarvoor voor die datum een aanvraag is ontvangen.
 
-#### Artikel 18. Citeertitel
+##### Artikel 18. Citeertitel
 
 Deze regeling wordt aangehaald als: Tijdelijke subsidieregeling versterking omgevingsveiligheid industriële activiteiten 2022–2027.
 

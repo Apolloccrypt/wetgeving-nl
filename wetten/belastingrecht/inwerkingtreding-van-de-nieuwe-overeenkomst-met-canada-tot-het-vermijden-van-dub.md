@@ -1,13 +1,38 @@
 ---
-title: "Inwerkingtreding van de nieuwe overeenkomst met Canada tot het vermijden van dubbele belasting"
+title: "Resolutie Ministerie van Financiën 24 augustus 1987, nr. 087-1692"
 identifier: "BWBR0027791"
-categorie: "Belastingrecht"
-publicatiedatum: 1987-08-24
-laatste_update: 1987-08-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027791"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "1987-08-24"
+last_updated: "1987-08-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027791"
+soort: "beleidsregel"
+stam_id: "10578253"
+version_id: "17458712"
+internal_id: "C24150501"
+label_id: "10553124"
+dtd_version: "2.0"
+original_entry_into_force: "1987-08-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027791/1987-08-24/0"
+intitule_bron: "Infob.1987-0"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1987-08-24"
+intitule_published: "1987-01-01"
+intitule_in_force: "1987-01-01"
+intitule_status: "goed"
+original_publication: "Infob.1987-0"
+original_signed_date: "1987-08-24"
+original_published_date: "1987-01-01"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1987-08-24"
+jci_1_3: "jci1.3:c:BWBR0027791&z=1987-08-24&g=1987-08-24"
+jci_1_0: "1.0:c:BWBR0027791&g=1987-08-24"
+citeertitel_status: "redactioneel"
+short_title: "Inwerkingtreding van de nieuwe overeenkomst met Canada tot het vermijden van dubbele belasting"
+signed_date: "1987-08-24"
+entry_into_force: "1987-08-24"
 ---
-
 # Resolutie Ministerie van Financiën 24 augustus 1987, nr. 087-1692
 
 Hierbij deel ik u mede dat de op 27 mei 1986 ondertekende Overeenkomst tussen Nederland en Canada tot het vermijden van dubbele belasting op 21 augustus 1987 in werking is getreden. Ingevolge artikel 30, eerste lid, vinden de bepalingen van de Overeenkomst toepassing vanaf 1 januari 1987. Artikel 30 bevat evenwel een algemene overgangsbepaling (derde lid) en een drietal bijzondere overgangsbepalingen (vierde, vijfde en zesde lid) welke ertoe leiden dat sommige bepalingen van de nieuwe Overeenkomst op een van 1 januari 1987 afwijkend tijdstip toepassing kunnen vinden.

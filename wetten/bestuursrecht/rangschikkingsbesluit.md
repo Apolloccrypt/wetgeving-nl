@@ -1,13 +1,35 @@
 ---
-title: "Rangschikkingsbesluit"
+title: "Besluit van 5 augustus 1960, houdende regelen inzake het opnieuw rangschikken en opnieuw vaststellen van de ouderdom in rang van beroepsmilitairen beneden de rang van tweede-luitenant, die behoren tot de Koninklijke Luchtmacht"
 identifier: "BWBR0002345"
-categorie: "Bestuursrecht"
-publicatiedatum: 1960-09-01
-laatste_update: 1960-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002345"
+country: "nl"
+rank: "amvb"
+publication_date: "1960-09-01"
+last_updated: "1960-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002345"
+soort: "AMvB"
+stam_id: "678123"
+version_id: "986682"
+internal_id: "C986681"
+label_id: "657324"
+dtd_version: "2.0"
+original_entry_into_force: "1960-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002345/1960-09-01/0"
+intitule_bron: "Stb.1960-315"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1960-08-05"
+intitule_status: "goed"
+original_publication: "Stb.1960-315"
+original_signed_date: "1960-08-05"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1960-09-01"
+jci_1_3: "jci1.3:c:BWBR0002345&z=1960-09-01&g=1960-09-01"
+jci_1_0: "1.0:c:BWBR0002345&g=1960-09-01"
+citeertitel_status: "officieel"
+short_title: "Rangschikkingsbesluit"
+signed_date: "1960-08-05"
+entry_into_force: "1960-09-01"
 ---
-
 # Besluit van 5 augustus 1960, houdende regelen inzake het opnieuw rangschikken en opnieuw vaststellen van de ouderdom in rang van beroepsmilitairen beneden de rang van tweede-luitenant, die behoren tot de Koninklijke Luchtmacht
 
 Op de voordracht van Onze Minister van Defensie van 28 juni 1960, Directie Militair Personeel, nr. P. 118.307/B;
@@ -26,7 +48,7 @@ dat ter zake van het rangschikken van de beroepsmilitairen beneden de rang van t
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -40,17 +62,17 @@ In dit besluit wordt verstaan onder:
 
 - 2°. de werkelijke militaire diensttijd verkregen vóór het tijdstip waarop het achttiende levensjaar is volbracht.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het rangschikken ter voorbereiding van het vaststellen van de volgorde waarin militairen bij geschiktheid kunnen worden bevorderd, en het vaststellen van de ouderdom in rang die voor dit rangschikken als uitgangspunt dient te worden genomen, geschieden opnieuw en wel door Onze Minister van Defensie op de datum van inwerkingtreding van dit besluit.
 
 2. Het rangschikken bedoeld in het eerste lid geschiedt per rang.
 
-#### Artikel 3
+##### Artikel 3
 
 Het opnieuw vaststellen van de ouderdom in rang bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002345&artikel=2&z=1960-09-01&g=1960-09-01), geschiedt op voor alle diensten gelijke wijze en naar gelijke maatstaven, waarbij de maatstaven die voor het niet-technisch personeel zijn aangelegd als richtlijn zullen worden genomen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Bij het opnieuw rangschikken bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002345&artikel=2&z=1960-09-01&g=1960-09-01) wordt het hoogst geplaatst
 
@@ -68,19 +90,19 @@ Het opnieuw vaststellen van de ouderdom in rang bedoeld in [artikel 2](https://w
 
 - c. hij die in de voor voorgaande rang de hoogste ouderdom heeft, enz.
 
-#### Artikel 5
+##### Artikel 5
 
 Het ingevolge het bepaalde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002345&artikel=2&z=1960-09-01&g=1960-09-01) opnieuw vaststellen van de ouderdom in een rang leidt tot het vaststellen van een datum die wordt aangemerkt als de datum van ingang van de laatste benoeming als beroepsmilitair in die rang.
 
-#### Artikel 6
+##### Artikel 6
 
 Aan dit besluit kan geen aanspraak worden ontleend op bevordering met ingang van een datum liggende vóór die van inwerkingtreding van dit besluit.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit kan worden aangehaald als: "Rangschikkingsbesluit".
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit treedt in werking met ingang van 1 september 1960.
 

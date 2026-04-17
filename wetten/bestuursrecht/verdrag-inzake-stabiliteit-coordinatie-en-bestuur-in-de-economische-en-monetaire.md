@@ -1,13 +1,35 @@
 ---
 title: "Verdrag inzake stabiliteit, coördinatie en bestuur in de economische en monetaire unie tussen het Koninkrijk België, de Republiek Bulgarije, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Republiek Estland, Ierland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, Hongarije, Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Republiek Polen, de Portugese Republiek, Roemenië, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland en het Koninkrijk Zweden"
 identifier: "BWBV0005670"
-categorie: "Bestuursrecht"
-publicatiedatum: 2013-11-01
-laatste_update: 2013-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005670"
+country: "nl"
+rank: "verdrag"
+publication_date: "2013-11-01"
+last_updated: "2013-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005670"
+soort: "verdrag"
+stam_id: "10004808053"
+version_id: "10005110932"
+internal_id: "C10008502851"
+label_id: "10004791964"
+dtd_version: "2.0"
+original_entry_into_force: "2013-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005670/2013-11-01/0"
+intitule_bron: "Trb.2012-51"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2012-03-15"
+intitule_in_force: "2013-11-20"
+intitule_status: "goed"
+original_publication: "Trb.2012-51"
+original_published_date: "2012-03-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2012-51"
+entry_into_force_date: "2013-11-01"
+jci_1_3: "jci1.3:c:BWBV0005670&z=2013-11-01&g=2013-11-01"
+jci_1_0: "1.0:c:BWBV0005670&g=2013-11-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2013-11-01"
 ---
-
 # Verdrag inzake stabiliteit, coördinatie en bestuur in de economische en monetaire unie tussen het Koninkrijk België, de Republiek Bulgarije, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Republiek Estland, Ierland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, Hongarije, Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Republiek Polen, de Portugese Republiek, Roemenië, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland en het Koninkrijk Zweden
 
 Het Koninkrijk België, de Republiek Bulgarije, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Republiek Estland, Ierland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, Hongarije, Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Republiek Polen, de Portugese Republiek, Roemenië, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland en het Koninkrijk Zweden,
@@ -72,7 +94,7 @@ Zijn de volgende bepalingen overeengekomen:
 
 ## TITEL I. DOEL EN TOEPASSINGSGEBIED
 
-#### Artikel 1
+##### Artikel 1
 
 1. Met dit Verdrag komen de verdragsluitende partijen als lidstaten van de Europese Unie overeen de economische pijler van de economische en monetaire unie te versterken door een aantal regels vast te stellen ter bevordering van de begrotingsdiscipline door middel van een begrotingspact, ter versterking van de coördinatie van hun economisch beleid en ter verbetering van het bestuur van de eurozone, waardoor wordt bijgedragen tot de verwezenlijking van de doelstellingen van de Europese Unie inzake duurzame groei, werkgelegenheid, concurrentievermogen en sociale samenhang.
 
@@ -80,7 +102,7 @@ Zijn de volgende bepalingen overeengekomen:
 
 ## TITEL II. CONSISTENTIE EN VERHOUDING TOT HET UNIERECHT
 
-#### Artikel 2
+##### Artikel 2
 
 1. Dit Verdrag wordt door de verdragsluitende partijen toegepast en uitgelegd overeenkomstig de Verdragen waarop de Europese Unie is gegrondvest, met name [artikel 4, lid 3, van het Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=4), en het recht van de Europese Unie, met inbegrip van het procedurerecht wanneer secundaire wetgeving moet worden vastgesteld.
 
@@ -88,7 +110,7 @@ Zijn de volgende bepalingen overeengekomen:
 
 ## TITEL III. BEGROTINGSPACT
 
-#### Artikel 3
+##### Artikel 3
 
 1. De verdragsluitende partijen passen de regels in dit lid toe, naast en onverminderd hun verplichtingen uit hoofde van het recht van de Europese Unie/
 
@@ -112,25 +134,25 @@ Voor de toepassing van dit artikel gelden ook de volgende definities:
 
 - b. „uitzonderlijke omstandigheden” betekent een buiten de macht van de betrokken verdragsluitende partij vallende ongewone gebeurtenis die een aanzienlijke invloed heeft op de financiële positie van de overheid, of perioden van ernstige economische neergang zoals neergelegd in het herziene stabiliteits- en groeipact, mits de budgettaire houdbaarheid op middellange termijn door de tijdelijke afwijking door de verdragsluitende partij niet in gevaar komt.
 
-#### Artikel 4
+##### Artikel 4
 
 Wanneer de verhouding tussen de algemene overheidsschuld en het bruto binnenlands product van een verdragsluitende partij de in [artikel 1 van het aan de Verdragen van de Europese Unie gehechte Protocol (nr. 12) betreffende de procedure bij buitensporige tekorten](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=1) bedoelde referentiewaarde van 60 % overschrijdt, verbindt die verdragsluitende partij zich ertoe deze verhouding met gemiddeld een twintigste per jaar als benchmark te verminderen, overeenkomstig artikel 2 van [Verordening (EG) nr. 1467/97](31997R1467) van de Raad van 7 juli 1997 over de bespoediging en verduidelijking van de tenuitvoerlegging van de procedure bij buitensporige tekorten, als gewijzigd bij Verordening (EU) nr. 1177/2011 van de Raad van 8 november 2011. Over het bestaan van een buitensporig tekort door het niet naleven van het schuldcriterium wordt besloten in overeenstemming met de in [artikel 126 van het Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=126) bedoelde procedure.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een verdragsluitende partij die onderworpen is aan een buitensporigtekortprocedure krachtens de Verdragen waarop de Europese Unie is gegrondvest, stelt een budgettair en economisch partnerschapsprogramma in dat een gedetailleerde beschrijving bevat van de structurele hervormingen die moeten worden ingesteld en uitgevoerd met het oog op een effectieve en duurzame correctie van haar buitensporige tekort. De inhoud en de vorm van deze programma’s worden in het recht van de Europese Unie vastgesteld. Het ter goedkeuring indienen ervan bij de Raad van de Europese Unie en bij de Europese Commissie en het toezicht erop zullen geschieden in het kader van de bestaande toezichtsprocedures uit hoofde van het stabiliteits- en groeipact.
 
 2. De tenuitvoerlegging van het budgettair en economisch partnerschapsprogramma en de jaarlijkse begrotingsplannen die ermee stroken, zullen door de Raad van de Europese Unie en door de Europese Commissie worden bewaakt.
 
-#### Artikel 6
+##### Artikel 6
 
 Met het oog op een betere coördinatie van de planning van de uitgifte van nationaal schuldpapier, melden de verdragsluitende partijen hun plannen tot uitgifte van nationaal schuldpapier vooraf aan de Raad van de Europese Unie en aan de Europese Commissie.
 
-#### Artikel 7
+##### Artikel 7
 
 Met volledige inachtneming van de procedurevoorschriften van de Verdragen waarop de Europese Unie is gegrondvest verbinden de verdragsluitende partijen die de euro als munt hebben, zich ertoe hun steun te verlenen aan voorstellen of aanbevelingen van de Europese Commissie wanneer zij van mening is dat een lidstaat van de Europese Unie die de euro als munt heeft, niet aan het tekortcriterium voldoet in het kader van een buitensporigtekortprocedure. Deze verplichting geldt niet wanneer wordt vastgesteld dat een gekwalificeerde meerderheid van de verdragsluitende partijen die de euro als munt hebben, zoals berekend naar analogie van de desbetreffende bepalingen van de Verdragen waarop de Europese Unie is gegrondvest, zonder rekening te houden met het standpunt van de betrokken verdragsluitende partij tegen het voorgestelde of aanbevolen besluit is.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De Europese Commissie wordt verzocht te gelegener tijd aan de verdragsluitende partijen een verslag te presenteren betreffende de door elk van hen overeenkomstig [artikel 3, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005670&titeldeel=III&artikel=3&z=2013-11-01&g=2013-11-01), aangenomen bepalingen. Indien de Europese Commissie, na de betrokken verdragsluitende partij in de gelegenheid te hebben gesteld haar opmerkingen te maken, in haar verslag concludeert dat deze verdragsluitende partij artikel 3, lid 2, niet heeft nageleefd, zal de zaak door een of meer verdragsluitende partijen bij het Hof van Justitie van de Europese Unie aanhangig worden gemaakt. Een verdragsluitende partij die onafhankelijk van het verslag van de Commissie van oordeel is dat een andere verdragsluitende partij artikel 3, lid 2, niet heeft nageleefd, kan eveneens de zaak bij het Hof van Justitie aanhangig maken. In de beide gevallen is het arrest van het Hof van Justitie bindend voor de partijen bij de procedure, die de maatregelen nemen welke nodig zijn ter uitvoering van het arrest binnen een door het Hof van Justitie vast te stellen termijn.
 
@@ -140,21 +162,21 @@ Met volledige inachtneming van de procedurevoorschriften van de Verdragen waarop
 
 ## TITEL IV. COÖRDINATIE VAN HET ECONOMISCH BELEID EN CONVERGENTIE
 
-#### Artikel 9
+##### Artikel 9
 
 Voortbouwend op de coördinatie van het economisch beleid als bepaald in het [Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506), zeggen de verdragsluitende partijen toe zich gezamenlijk in te zetten voor een economisch beleid dat de goede werking van de economische en monetaire unie en de economische groei bevordert door middel van grotere convergentie en groter concurrentievermogen. Daartoe ondernemen de verdragsluitende partijen de nodige acties en nemen zij de nodige maatregelen op alle gebieden die van essentieel belang zijn voor de goede werking van de eurozone bij het nastreven van de doelstellingen van bevordering van het concurrentievermogen en van de werkgelegenheid, van de verdere verbetering van de houdbaarheid van de overheidsfinanciën en van de versterking van de financiële stabiliteit.
 
-#### Artikel 10
+##### Artikel 10
 
 Overeenkomstig de voorschriften van de Verdragen waarop de Europese Unie is gegrondvest houden de verdragsluitende partijen zich gereed om, wanneer dit passend en nodig is, actief gebruik te maken van specifieke maatregelen voor lidstaten die de euro als munt hebben, als bepaald in [artikel 136 van het Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=136), en van nauwere samenwerking, als bepaald in [artikel 20 van het Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=20) en in de [artikelen 326 tot en met 334 van het Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=326), met betrekking tot aangelegenheden die van essentieel belang zijn voor de goede werking van de eurozone, zonder dat de interne markt wordt ondermijnd.
 
-#### Artikel 11
+##### Artikel 11
 
 Teneinde beste praktijken als benchmark vast te stellen en zich in te zetten voor een nauwer gecoördineerd economisch beleid, zorgen de verdragsluitende partijen ervoor dat zij alle plannen die zij hebben voor grote hervormingen van het economisch beleid, vooraf bespreken en, waar het passend is, onderling coördineren. De instellingen van de Europese Unie worden conform het recht van de Europese Unie bij die coördinatie betrokken.
 
 ## TITEL V. BESTUUR VAN DE EUROZONE
 
-#### Artikel 12
+##### Artikel 12
 
 1. De staatshoofden en regeringsleiders van de verdragsluitende partijen die de euro als munt hebben, komen samen met de voorzitter van de Europese Commissie informeel bijeen in een Eurotop. De voorzitter van de Europese Centrale Bank wordt uitgenodigd om aan die bijeenkomsten deel te nemen.
 
@@ -170,13 +192,13 @@ De voorzitter van de Eurotop wordt gelijktijdig met de verkiezing van de voorzit
 
 6. De voorzitter van de Eurotop houdt de verdragsluitende partijen die niet de euro als munt hebben en de andere lidstaten van de Europese Unie nauwgezet op de hoogte over de voorbereiding en de resultaten van de bijeenkomsten van de Eurotop.
 
-#### Artikel 13
+##### Artikel 13
 
 Zoals bepaald in [titel II van het aan de Verdragen van de Europese Unie gehechte Protocol (nr. 1) betreffende de rol van de nationale parlementen in de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&titeldeel=II), zullen het Europees Parlement en de nationale parlementen van de verdragsluitende partijen samen beslissen over de organisatie en de promotie van een conferentie van vertegenwoordigers van de desbetreffende commissies van het Europees Parlement en vertegenwoordigers van de desbetreffende commissies van de nationale parlementen, om het begrotingsbeleid en andere onder dit Verdrag vallende kwesties te bespreken.
 
 ## TITEL VI. ALGEMENE BEPALINGEN EN SLOTBEPALINGEN
 
-#### Artikel 14
+##### Artikel 14
 
 1. Dit Verdrag wordt door de verdragsluitende partijen bekrachtigd overeenkomstig hun onderscheiden grondwettelijke bepalingen. De akten van bekrachtiging worden nedergelegd bij het Secretariaat-generaal van de Raad van de Europese Unie („de depositaris”).
 
@@ -188,11 +210,11 @@ Zoals bepaald in [titel II van het aan de Verdragen van de Europese Unie gehecht
 
 5. Dit Verdrag is op de verdragsluitende partijen met een derogatie, als bedoeld in [artikel 139, lid 1, van het Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=139), of met een ontheffing, als bedoeld in het aan de Verdragen van de Europese Unie gehechte [Protocol (nr. 16) betreffende enkele bepalingen inzake Denemarken](onbekend), die dit Verdrag hebben bekrachtigd, van toepassing vanaf de datum waarop het besluit tot intrekking van de derogatie of ontheffing in werking treedt, tenzij de betrokken verdragsluitende partij verklaart voornemens te zijn op een vroegere datum door het geheel of een deel van de bepalingen van [titel III](https://wetten.overheid.nl/jci1.3:c:BWBV0005670&titeldeel=III&z=2013-11-01&g=2013-11-01) en [titel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0005670&titeldeel=IV&z=2013-11-01&g=2013-11-01) van dit Verdrag gebonden te zijn.
 
-#### Artikel 15
+##### Artikel 15
 
 Dit Verdrag staat open voor toetreding door andere lidstaten van de Europese Unie dan de verdragsluitende partijen. De lidstaten treden toe bij de nederlegging van de akte van toetreding bij de depositaris, die de andere verdragsluitende partijen daarvan in kennis stelt. Na authentificatie door de verdragsluitende partijen, wordt de tekst van dit Verdrag in de taal van de toetredende lidstaat die ook een officiële taal en een werktaal van de instellingen van de Unie is, nedergelegd in het archief van de depositaris als een authentieke tekst van dit Verdrag.
 
-#### Artikel 16
+##### Artikel 16
 
 Binnen maximaal vijf jaar na de datum van inwerkingtreding van dit Verdrag worden op basis van een beoordeling van de ervaring met de tenuitvoerlegging ervan en overeenkomstig het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) en het van het [Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) de noodzakelijke stappen ondernomen met het doel om de inhoud van dit Verdrag in het rechtskader van de Europese Unie te integreren.
 

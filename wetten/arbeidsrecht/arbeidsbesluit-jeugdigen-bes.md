@@ -1,20 +1,45 @@
 ---
 title: "Arbeidsbesluit jeugdigen BES"
 identifier: "BWBR0028377"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028377"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028377"
+soort: "AMvB-BES"
+stam_id: "10764593"
+version_id: "17740192"
+internal_id: "C24840711"
+label_id: "10739454"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028377/2010-10-10/0"
+intitule_bron: "Stb.2010-612"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-21"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-612"
+original_signed_date: "2010-09-21"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-612"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028377&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028377&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-21"
+entry_into_force: "2010-10-10"
 ---
-
 # Arbeidsbesluit jeugdigen BES
 
-#### Artikel 1
+##### Artikel 1
 
 [vervallen]
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een jeugdige mag geen arbeid verrichten waarbij:
 
@@ -28,7 +53,7 @@ bron: "https://wetten.overheid.nl/BWBR0028377"
 
 2. Een jeugdige mag voorts geen arbeid verrichten die kennelijk of naar het oordeel van Onze Minister het gevaar met zich brengt dat schadelijke stoffen in zodanige mate in het organisme worden opgenomen, dat een nadelige invloed op de gezondheid is te duchten.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een jeugdige mag geen arbeid verrichten bestaande uit:
 
@@ -42,15 +67,15 @@ bron: "https://wetten.overheid.nl/BWBR0028377"
 
 - b. het vervoeren, bewerken, verwerken, begraven, onschadelijk maken of vernietigen van dode dieren, afvalstoffen van dierlijke herkomst en bedorven vlees, vleeswaren of vis.
 
-#### Artikel 4
+##### Artikel 4
 
 Een jeugdige mag geen arbeid verrichten welke het gevaar met zich brengt dat hij in aanraking komt met stoffen die door chemische of fysische werking een acute beschadiging van de huid of de ogen veroorzaken.
 
-#### Artikel 5
+##### Artikel 5
 
 Een jeugdige mag geen arbeid verrichten waarbij zonder gehoorbeschermer het geluiddrukniveau in de gehoorgang hoger is dan 90 dB(A).
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een jeugdige mag geen arbeid verrichten met of aan gereedschappen of werktuigen, waarbij zodanige trillingen op lichaamsorganen of orgaansystemen worden overgebracht dat gevaar bestaat dat deze worden beschadigd.
 
@@ -62,19 +87,19 @@ Een jeugdige mag geen arbeid verrichten waarbij zonder gehoorbeschermer het gelu
 
 - c. aanklopmachines in de schoenindustrie.
 
-#### Artikel 7
+##### Artikel 7
 
 Een jeugdige mag geen arbeid verrichten, welke meebrengt, dat hij veelvuldig zware lasten moet heffen of dragen, of dat hij gedurende langere tijd achtereen ongunstige werkhoudingen moet aannemen.
 
-#### Artikel 8
+##### Artikel 8
 
 Een jeugdige mag geen arbeid verrichten, welke door de daarbij gevergde inspanning tot een belastingsgraad leidt die ten aanzien van hem onaanvaardbaar is te achten.
 
-#### Artikel 9
+##### Artikel 9
 
 Een jeugdige mag geen machine-gebonden arbeid verrichten, waaronder begrepen werkzaamheden aan de lopende band, waarbij hij regelmatig terugkerende handelingen moet verrichten op tijdstippen welke door de machine zodanig worden bepaald, dat kennelijk of naar het oordeel van Onze Minister de binding van de jeugdige persoon aan het arbeidsproces schadelijk is voor zijn gezondheid of lichamelijke ontwikkeling.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Een jeugdige mag geen arbeid verrichten aan of in de nabijheid van machines of werktuigen welke gevaarlijk zijn vanwege hun bewegende delen, tenzij er een doeltreffende beveiliging is aangebracht, waarvan de werking geheel onafhankelijk is van degene die de machine of het werktuig bedient.
 
@@ -116,11 +141,11 @@ Een jeugdige mag geen machine-gebonden arbeid verrichten, waaronder begrepen wer
 
 - s. walsenmachines, voor zover gebruikt in de leerindustrie.
 
-#### Artikel 11
+##### Artikel 11
 
 Een jeugdige mag geen arbeid verrichten bestaande in het aanzetten van machines of werktuigen welke bij het in beweging komen gevaar opleveren voor anderen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Een jeugdige mag geen arbeid verrichten bestaande in het bedienen van hijskranen, goederenbouwliften, stapelaars, motorisch aangedreven takels, of andere in het tweede lid van dit artikel vermelde hijs- of hefwerktuigen, het geven van signalen aan hen die zodanige werktuigen bedienen, dan wel het aanslaan en losmaken van lasten.
 
@@ -138,51 +163,51 @@ Een jeugdige mag geen arbeid verrichten bestaande in het aanzetten van machines 
 
 - f. vacuümhefapparatuur.
 
-#### Artikel 13
+##### Artikel 13
 
 Een jeugdige mag geen arbeid verrichten bestaande in het bedienen van heftrucks of mechanische schoppen.
 
-#### Artikel 14
+##### Artikel 14
 
 Een jeugdige mag geen arbeid verrichten bestaande in het aan- en afkoppelen van aanhangwagens of werktuigen aan een trekkend werktuig.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Een jeugdige mag geen arbeid verrichten waarbij gevaar bestaat voor een val die ernstig letsel of verdrinking met zich kan brengen.
 
 2. Onze Minister kan werkzaamheden aanwijzen, welke in ieder geval worden beschouwd als arbeid, bedoeld in het eerste lid.
 
-#### Artikel 16
+##### Artikel 16
 
 Een jeugdige mag geen arbeid verrichten bij het heien of het opstellen, verplaatsen, verstellen of strijken van een heistelling.
 
-#### Artikel 17
+##### Artikel 17
 
 Een jeugdige mag geen sloopwerk verrichten, waarbij gevaar bestaat ernstig gewond te worden door vallend, verschuivend of wegspringend materiaal.
 
-#### Artikel 18
+##### Artikel 18
 
 Een jeugdige mag geen arbeid verrichten waarbij gevaar bestaat bedolven te worden.
 
-#### Artikel 19
+##### Artikel 19
 
 Een jeugdige mag geen arbeid verrichten bestaande in het aanbrengen of verwijderen van stutten, stempels of ander ondersteuningsmateriaal, dan wel het daaraan verrichten van herstel- of onderhoudswerkzaamheden.
 
-#### Artikel 20
+##### Artikel 20
 
 Een jeugdige mag geen arbeid verrichten bestaande in het besturen of bedienen van grondverzetmachines.
 
-#### Artikel 21
+##### Artikel 21
 
 Een jeugdige mag geen arbeid verrichten bestaande in het besturen van trekkers.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Een jeugdige mag geen arbeid verrichten bestaande in het vellen van bomen van zodanige afmetingen dat bij de val daarvan op een persoon gevaar bestaat voor ernstig letsel.
 
 2. Een jeugdige mag geen arbeid verrichten bestaande in het laden, lossen of verplaatsen van zware bomen, buizen, balken, heipalen, bouwsegmenten of andere omvangrijke en zware lasten, dan wel in het hierbij behulpzaam zijn, indien gevaar bestaat dat deze voorwerpen daarbij gaan glijden, losschieten, rollen of andere niet onder controle te houden bewegingen gaan maken.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Een jeugdige mag geen arbeid verrichten bestaande in:
 
@@ -192,11 +217,11 @@ Een jeugdige mag geen arbeid verrichten bestaande in het besturen van trekkers.
 
 2. Evenmin mag geen jeugdige arbeid verrichten in stallen of kooien waarin of op terreinen waarop zich dieren, als bedoeld in het eerste lid, onder b, vrij kunnen bewegen.
 
-#### Artikel 24
+##### Artikel 24
 
 Een jeugdige mag geen arbeid verrichten bestaande uit het zich begeven in silo’s, bunkers, tanks, dubbele bodems, ketels, leidingen, reservoirs of ander ruimten die door hun afgeslotenheid van de buitenwereld of moeilijke toegankelijkheid het uitoefenen van toezicht of het verlenen van hulp bij ongevallen ernstig bemoeilijken.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Een jeugdige mag geen arbeid verrichten met, aan of in de nabijheid van elektrische installaties met ongeïsoleerde onderdelen waarop een wisselspanning van meer dan 42 volt of een gelijkspanning van meer dan 110 volt staat of waarbij gevaar bestaat voor het optreden van zodanige spanning.
 
@@ -208,7 +233,7 @@ Een jeugdige mag geen arbeid verrichten bestaande uit het zich begeven in silo�
 
 3. Tot de installaties bedoeld in het eerste lid worden niet gerekend tot elektrische afzetting behorende schrikdraden en apparatuur voor elektrisch lassen of snijden van metalen.
 
-#### Artikel 26
+##### Artikel 26
 
 Een jeugdige mag geen arbeid verrichten:
 
@@ -222,7 +247,7 @@ Een jeugdige mag geen arbeid verrichten:
 
 - e. met oxydatiemiddelen of organische peroxydverbindingen, voor zover bij deze arbeid brand- of explosiegevaar aanwezig is.
 
-#### Artikel 27
+##### Artikel 27
 
 Een jeugdige mag geen arbeid verrichten welke naar het oordeel van Onze Minister een uitgesproken negatieve invloed uitoefent op zijn ontwikkeling door een of meer der volgende omstandigheden;
 
@@ -238,11 +263,11 @@ Een jeugdige mag geen arbeid verrichten welke naar het oordeel van Onze Minister
 
 - f. de aard van het beloningssysteem.
 
-#### Artikel 28
+##### Artikel 28
 
 De bij de [artikelen 2 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028377&artikel=2&z=2010-10-10&g=2010-10-10) gestelde verboden gelden niet voor arbeid welke door een jeugdige van 16 jaar of ouder in het kader van een bij of krachtens een wet geregelde beroepsopleiding dan wel van een voor de toepassing van dit besluit door Onze Minister daarmee gelijkgestelde beroepsopleiding wordt verricht, en waarbij een deskundig toezicht op de arbeid ter bescherming tegen gevaar voor de gezondheid of het leven in voldoende mate wordt uitgeoefend.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Onze Minister kan voor categorieën van gevallen voorwaardelijk of onvoorwaardelijk vrijstelling verlenen van een verbod, gesteld bij dit besluit.
 
@@ -250,7 +275,7 @@ De bij de [artikelen 2 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 3. Een vrijstelling of ontheffing kan worden ingetrokken indien de reden waarvoor zij is verleend is vervallen of indien een of meer van de voorwaarden waaronder zij is verleend niet worden nageleefd.
 
-#### Artikel 30
+##### Artikel 30
 
 1. Onze Minister deelt beslissingen als bedoeld in de [artikelen 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028377&artikel=2&z=2010-10-10&g=2010-10-10), [3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028377&artikel=3&z=2010-10-10&g=2010-10-10), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0028377&artikel=9&z=2010-10-10&g=2010-10-10), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0028377&artikel=27&z=2010-10-10&g=2010-10-10) en [29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028377&artikel=29&z=2010-10-10&g=2010-10-10), schriftelijk en gedagtekend aan het hoofd of de bestuurder van de onderneming mede. Van een zodanige beslissing kan het hoofd of de bestuurder binnen dertig dagen na dagtekening in beroep komen bij het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba.
 
@@ -260,10 +285,10 @@ De bij de [artikelen 2 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 4. Het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba beslist in beroep binnen een tijdvak van twee maanden na dagtekening van het beroepschrift.
 
-#### Artikel 30a
+##### Artikel 30a
 
 Dit besluit berust op [artikel 21, tweede lid, van de Arbeidswet 2000 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&artikel=21).
 
-#### Artikel 31
+##### Artikel 31
 
 Dit besluit wordt aangehaald als: Arbeidsbesluit jeugdigen BES.

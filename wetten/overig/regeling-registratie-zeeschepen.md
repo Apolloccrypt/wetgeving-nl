@@ -1,13 +1,39 @@
 ---
-title: "Regeling registratie zeeschepen"
+title: "Regeling van de Minister van Infrastructuur en Waterstaat, van 22 april 2025, nr. IENW/BSK-2025/19526, houdende regels omtrent de aanvraag van inschrijving in het vlagregister van zeeschepen en tot aanwijzing van toezichthoudende ambtenaren (Regeling registratie zeeschepen)"
 identifier: "BWBR0051039"
-categorie: "Overig"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051039"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051039"
+soort: "ministeriele-regeling"
+stam_id: "17428753"
+version_id: "30729622"
+internal_id: "C44040841"
+label_id: "17331824"
+dtd_version: "2.0"
+original_entry_into_force: "2025-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051039/2025-07-01/0"
+intitule_bron: "Stcrt.2025-15480"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-04-22"
+intitule_published: "2025-05-15"
+intitule_in_force: "2025-05-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-15480"
+original_signed_date: "2025-04-22"
+original_published_date: "2025-05-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-15480"
+entry_into_force_date: "2025-07-01"
+jci_1_3: "jci1.3:c:BWBR0051039&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0051039&g=2025-07-01"
+citeertitel_status: "officieel"
+short_title: "Regeling registratie zeeschepen"
+signed_date: "2025-04-22"
+entry_into_force: "2025-07-01"
 ---
-
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 22 april 2025, nr. IENW/BSK-2025/19526, houdende regels omtrent de aanvraag van inschrijving in het vlagregister van zeeschepen en tot aanwijzing van toezichthoudende ambtenaren (Regeling registratie zeeschepen)
 
 Gelet op de [artikelen 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048148&artikel=4), [6, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048148&artikel=6), [9, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048148&artikel=9), [11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048148&artikel=11), [16, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048148&artikel=16), [21, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048148&artikel=21), en [22, aanhef en onderdeel a, van de Rijkswet nationaliteit zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0048148&artikel=22);
@@ -16,7 +42,7 @@ BESLUIT:
 
 Treedt in werking op het tijdstip waarop de Rijkswet nationaliteit zeeschepen in werking treedt.
 
-#### Artikel 1. – Begripsbepalingen
+##### Artikel 1. – Begripsbepalingen
 
 1. In deze regeling wordt onder eigenaar, IMO-nummer, Koninkrijk, land, reder, rompbevrachting, te boek staan, vlagregister, zeeschip en zeeschip in bedrijfsmatig gebruik verstaan, hetgeen daaronder wordt verstaan in [artikel 1 van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0048148&artikel=1).
 
@@ -30,7 +56,7 @@ Treedt in werking op het tijdstip waarop de Rijkswet nationaliteit zeeschepen in
 
 - –. **rijkswet:** [Rijkswet nationaliteit zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0048148).
 
-#### Artikel 2. – Categorieën vlagregister
+##### Artikel 2. – Categorieën vlagregister
 
 In het vlagregister wordt een onderscheid gemaakt tussen de volgende categorieën zeeschepen:
 
@@ -40,11 +66,11 @@ In het vlagregister wordt een onderscheid gemaakt tussen de volgende categorieë
 
 - c. zeeschepen in eigendom en in niet-bedrijfsmatig gebruik.
 
-#### Artikel 3. – Aanvraagformulier
+##### Artikel 3. – Aanvraagformulier
 
 De aanvraag van inschrijving in het vlagregister van een zeeschip, bedoeld in [artikel 6 van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0048148&artikel=6), of van een voorlopige, buitengewone of bijzondere zeebrief als bedoeld in [artikel 21, eerste lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0048148&artikel=21), wordt gedaan door elektronische of schriftelijke indiening bij de minister van een volledig ingevuld en ondertekend aanvraagformulier.
 
-#### Artikel 4. – Aanvraag zeeschip in eigendom en in bedrijfsmatig gebruik
+##### Artikel 4. – Aanvraag zeeschip in eigendom en in bedrijfsmatig gebruik
 
 1. Een aanvraag als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051039&artikel=3&z=2025-07-01&g=2025-07-01) door of namens een reder gaat vergezeld van de volgende bewijsstukken en gegevens ten aanzien van het desbetreffende zeeschip:
 
@@ -88,7 +114,7 @@ De aanvraag van inschrijving in het vlagregister van een zeeschip, bedoeld in [a
 
 6. In aanvulling op het vijfde lid wordt een opgave van het unieke nummer, bedoeld in [artikel 9, onderdeel a, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=9), waaronder de vestiging van de reder in Nederland is ingeschreven, overgelegd. Indien de reder geen hoofdvestiging of nevenvestiging in Nederland heeft, wordt een opgave van de eigenaar van de woonplaatskeuze, bedoeld in [artikel 194a, derde lid, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=194a), overgelegd.
 
-#### Artikel 5. – Aanvraag zeeschip in rompbevrachting
+##### Artikel 5. – Aanvraag zeeschip in rompbevrachting
 
 1. Een aanvraag als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051039&artikel=3&z=2025-07-01&g=2025-07-01) door of namens de rompbevrachter gaat vergezeld van de volgende bewijsstukken en gegevens ten aanzien van het desbetreffende zeeschip:
 
@@ -118,7 +144,7 @@ De aanvraag van inschrijving in het vlagregister van een zeeschip, bedoeld in [a
 
 5. De verklaringen, bedoeld in het eerste lid, onderdelen f, g en h, worden vergezeld van een door een notaris opgemaakte verklaring omtrent de identiteit en de vertegenwoordigingsbevoegdheid van de ondertekenende personen.
 
-#### Artikel 6. – Aanvraag zeeschip in eigendom en in niet-bedrijfsmatig gebruik
+##### Artikel 6. – Aanvraag zeeschip in eigendom en in niet-bedrijfsmatig gebruik
 
 1. Een aanvraag als bedoeld in het [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051039&artikel=3&z=2025-07-01&g=2025-07-01) door of namens de eigenaar gaat vergezeld van de volgende bewijsstukken en gegevens ten aanzien van het desbetreffende zeeschip:
 
@@ -132,7 +158,7 @@ De aanvraag van inschrijving in het vlagregister van een zeeschip, bedoeld in [a
 
 2. Indien de eigenaar een natuurlijke persoon is, overlegt hij in afwijking van het eerste lid, onderdelen a en b, een opgave van zijn naam, adres en bijbehorende contactgegevens, en zijn nationaliteit.
 
-#### Artikel 7. – Overige bewijsstukken en gegevens bij aanvraag
+##### Artikel 7. – Overige bewijsstukken en gegevens bij aanvraag
 
 1. Bij een aanvraag als bedoeld in de [artikelen 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0051039&artikel=4&z=2025-07-01&g=2025-07-01), wordt de aanvraag tevens vergezeld van:
 
@@ -142,7 +168,7 @@ De aanvraag van inschrijving in het vlagregister van een zeeschip, bedoeld in [a
 
 2. Bij de aanvraag van inschrijving in het vlagregister, bedoeld in [artikel 6, eerste en derde lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0048148&artikel=6), wordt door of namens de reder, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0051039&artikel=4&z=2025-07-01&g=2025-07-01), onderscheidelijk de eigenaar, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0051039&artikel=6&z=2025-07-01&g=2025-07-01), tevens het brandmerk van het zeeschip aangeleverd.
 
-#### Artikel 8. – Wijziging bewijsstukken of gegevens aanvraag
+##### Artikel 8. – Wijziging bewijsstukken of gegevens aanvraag
 
 1. Van iedere wijziging van de bij de aanvraag verstrekte bewijsstukken of gegevens, bedoeld in [artikelen 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0051039&artikel=4&z=2025-07-01&g=2025-07-01), wordt zo spoedig mogelijk schriftelijke mededeling gedaan aan de minister, indien die wijziging kennelijk van betekenis is voor het voldoen aan de eisen, bedoeld in [artikel 194a van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=194a).
 
@@ -152,13 +178,13 @@ De aanvraag van inschrijving in het vlagregister van een zeeschip, bedoeld in [a
 
 4. Bij een mededeling als bedoeld in het derde lid wordt, voor zover van toepassing, een definitieve meetbrief overgelegd.
 
-#### Artikel 9. – Kennisgeving informatieplicht
+##### Artikel 9. – Kennisgeving informatieplicht
 
 1. De kennisgeving van de wijzigingen, bedoeld in [artikel 11, eerste lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0048148&artikel=11), kan worden gedaan door digitale verzending of verzending per post aan de postbus die door de minister is ingesteld.
 
 2. Indien de minister een kennisgeving als bedoeld in [artikel 11, eerste lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0048148&artikel=11) ontvangt die betrekking heeft op één of meerdere gegevens als bedoeld in [artikel 4, eerste lid, onderdelen b tot en met d, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0048148&artikel=4), zendt de minister daarvan een bericht onder vermelding van het brandmerk en het NSI-nummer aan de bewaarder van het kadaster en de openbare registers.
 
-#### Artikel 10. – Inkennisstelling bij rompbevrachting
+##### Artikel 10. – Inkennisstelling bij rompbevrachting
 
 De minister stelt de betrokken organisaties van reders en zeevarenden, alsmede de bevoegde autoriteit van het kantoor waar het zeeschip buiten Nederland teboekstaat, onverwijld schriftelijk in kennis van:
 
@@ -168,7 +194,7 @@ De minister stelt de betrokken organisaties van reders en zeevarenden, alsmede d
 
 - c. elke uitschrijving van een zeeschip in rompbevrachting.
 
-#### Artikel 11. – Aanvraag bareboat-out verklaring
+##### Artikel 11. – Aanvraag bareboat-out verklaring
 
 1. De aanvraag van een verklaring als bedoeld in [artikel 16, tweede lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0048148&artikel=16) wordt gedaan door elektronische of schriftelijke indiening bij de minister van een volledig ingevuld en ondertekend aanvraagformulier.
 
@@ -204,7 +230,7 @@ De minister stelt de betrokken organisaties van reders en zeevarenden, alsmede d
 
 - e. de handtekening is op zodanige wijze aan de daarmee ondertekende gegevens verbonden, dat welke wijziging achteraf van de gegevens kan worden opgespoord.
 
-#### Artikel 12. – Verplichtingen bij bareboat-out
+##### Artikel 12. – Verplichtingen bij bareboat-out
 
 1. De zeevarenden met een zee-arbeidsovereenkomst met betrekking tot een zeeschip waarvan de inschrijving in het vlagregister is doorgehaald overeenkomstig [artikel 13, tweede lid, aanhef en onderdeel c, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0048148&artikel=13), met als doel het schip in een ander land of in een andere staat in het vlagregister in te schrijven terwijl het zeeschip te boek gesteld blijft in Nederland, worden door de reder of eigenaar van dat zeeschip onverwijld schriftelijk in kennis gesteld van de doorhaling.
 
@@ -212,7 +238,7 @@ De minister stelt de betrokken organisaties van reders en zeevarenden, alsmede d
 
 3. Indien een zeeschip te boek gesteld is in Nederland en de inschrijving in het vlagregister eerder op verzoek uit het vlagregister van Nederland is doorgehaald, wordt door middel van het overleggen van gegevens en documenten bij de aanvraag voor de inschrijving in het vlagregister als bedoeld in [artikel 6, eerste lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0048148&artikel=6), aangetoond dat uitvoering is gegeven aan de verplichtingen, bedoeld in het tweede lid.
 
-#### Artikel 13. – Inkennisstelling bij bareboat-out verklaring en uitvlagging
+##### Artikel 13. – Inkennisstelling bij bareboat-out verklaring en uitvlagging
 
 De minister stelt de betrokken organisaties van eigenaren, reders en zeevarenden onverwijld schriftelijk in kennis van:
 
@@ -220,15 +246,15 @@ De minister stelt de betrokken organisaties van eigenaren, reders en zeevarenden
 
 - b. elke doorhaling van de inschrijving van een zeeschip in het vlagregister als bedoeld in [artikel 13 van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0048148&artikel=13).
 
-#### Artikel 14. – Wijziging aanwijzing toezichthoudende ambtenaren
+##### Artikel 14. – Wijziging aanwijzing toezichthoudende ambtenaren
 
 Wijzigt de Regeling aanwijzing toezichthoudende ambtenaren Inspectie Leefomgeving en Transport op het domein scheepvaart.
 
-#### Artikel 15. – Inwerkingtreding
+##### Artikel 15. – Inwerkingtreding
 
 Deze regeling treedt in werking op het tijdstip waarop de [Rijkswet nationaliteit zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0048148) in werking treedt.
 
-#### Artikel 16. – Citeertitel
+##### Artikel 16. – Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling registratie zeeschepen.
 

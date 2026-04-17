@@ -1,13 +1,39 @@
 ---
-title: "Wijzigingsbesluit financiële markten 2019"
+title: "Besluit van 24 oktober 2019 tot wijziging van het Besluit Gedragstoezicht financiële ondernemingen Wft, het Besluit Markttoegang financiële ondernemingen Wft, het Besluit toezicht accountantsorganisaties, alsmede enige andere besluiten op het terrein van de financiële markten (Wijzigingsbesluit financiële markten 2019)"
 identifier: "BWBR0042746"
-categorie: "Bestuursrecht"
-publicatiedatum: 2020-10-29
-laatste_update: 2020-10-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042746"
+country: "nl"
+rank: "amvb"
+publication_date: "2020-10-29"
+last_updated: "2020-10-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042746"
+soort: "AMvB"
+stam_id: "15220643"
+version_id: "26183102"
+internal_id: "C37240061"
+label_id: "15167364"
+dtd_version: "2.0"
+original_entry_into_force: "2020-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042746/2020-10-29/0"
+intitule_bron: "Stb.2019-397"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-10-24"
+intitule_published: "2019-11-07"
+intitule_in_force: "2019-11-07"
+intitule_status: "goed"
+original_publication: "Stb.2019-397"
+original_signed_date: "2019-10-24"
+original_published_date: "2019-11-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2019-397"
+entry_into_force_date: "2020-01-01"
+jci_1_3: "jci1.3:c:BWBR0042746&z=2020-10-29&g=2020-10-29"
+jci_1_0: "1.0:c:BWBR0042746&g=2020-10-29"
+citeertitel_status: "officieel"
+short_title: "Wijzigingsbesluit financiële markten 2019"
+signed_date: "2019-10-24"
+entry_into_force: "2020-01-01"
 ---
-
 # Besluit van 24 oktober 2019 tot wijziging van het Besluit Gedragstoezicht financiële ondernemingen Wft, het Besluit Markttoegang financiële ondernemingen Wft, het Besluit toezicht accountantsorganisaties, alsmede enige andere besluiten op het terrein van de financiële markten (Wijzigingsbesluit financiële markten 2019)
 
 Op de voordracht van Onze Minister van Financiën van 12 juli 2019, 2019-0000112241, directie Financiële Markten;
@@ -20,51 +46,51 @@ Gezien het nader rapport van Onze Minister van Financiën van 17 oktober 2019, 2
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Besluit Markttoegang financiële ondernemingen Wft.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Besluit Gedragstoezicht financiële ondernemingen Wft.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Besluit toezicht accountantsorganisaties.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het Besluit bestuurlijke boetes financiële sector.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Besluit reikwijdtebepalingen Wft.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt het Besluit prudentiële regels Wft
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt het Besluit toezicht trustkantoren 2018.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt het Besluit prudentieel toezicht financiële groepen Wft.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt het Besluit uitvoering EU-verordeningen financiële markten.
 
-#### Artikel XI
+##### Artikel XI
 
 Dit besluit treedt in werking met ingang van 1 januari 2020, met uitzondering van [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0042746&artikel=III&z=2020-10-29&g=2020-10-29) dat in werking treedt op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel XII
+##### Artikel XII
 
 Dit besluit wordt aangehaald als: Wijzigingsbesluit financiële markten 2019.
 

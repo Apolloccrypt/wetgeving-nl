@@ -1,13 +1,35 @@
 ---
 title: "Protocol van 1996 tot wijziging van het Verdrag inzake beperking van aansprakelijkheid voor maritieme vorderingen, 1976"
 identifier: "BWBV0005123"
-categorie: "Internationaal recht"
-publicatiedatum: 2015-06-08
-laatste_update: 2015-06-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005123"
+country: "nl"
+rank: "verdrag"
+publication_date: "2015-06-08"
+last_updated: "2015-06-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005123"
+soort: "verdrag"
+stam_id: "10004475933"
+version_id: "10004688482"
+internal_id: "C10006929901"
+label_id: "10004460604"
+dtd_version: "2.0"
+original_entry_into_force: "2011-03-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005123/2015-06-08/0"
+intitule_bron: "Trb.1997-300"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1997-12-02"
+intitule_in_force: "2011-03-11"
+intitule_status: "goed"
+original_publication: "Trb.1997-300"
+original_published_date: "1997-12-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1997-300"
+entry_into_force_date: "2011-03-23"
+jci_1_3: "jci1.3:c:BWBV0005123&z=2015-06-08&g=2015-06-08"
+jci_1_0: "1.0:c:BWBV0005123&g=2015-06-08"
+citeertitel_status: "redactioneel"
+entry_into_force: "2011-03-23"
 ---
-
 # Protocol van 1996 tot wijziging van het Verdrag inzake beperking van aansprakelijkheid voor maritieme vorderingen, 1976
 
 De Partijen bij dit Protocol,
@@ -16,7 +38,7 @@ De wenselijkheid erkennende van wijziging van het [Verdrag inzake beperking van 
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit Protocol betekent:
 
@@ -26,31 +48,31 @@ Voor de toepassing van dit Protocol betekent:
 
 - 3. „Secretaris-Generaal” de Secretaris-Generaal van de Organisatie.
 
-#### Artikel 2
+##### Artikel 2
 
 Zie de bijgevoegde geconsolideerde tekst van het Verdrag, zoals gewijzigd bij dit Protocol.
 
-#### Artikel 3
+##### Artikel 3
 
 Zie de bijgevoegde geconsolideerde tekst van het Verdrag, zoals gewijzigd bij dit Protocol.
 
-#### Artikel 4
+##### Artikel 4
 
 Zie de bijgevoegde geconsolideerde tekst van het Verdrag, zoals gewijzigd bij dit Protocol.
 
-#### Artikel 5
+##### Artikel 5
 
 Zie de bijgevoegde geconsolideerde tekst van het Verdrag, zoals gewijzigd bij dit Protocol.
 
-#### Artikel 6
+##### Artikel 6
 
 Zie de bijgevoegde geconsolideerde tekst van het Verdrag, zoals gewijzigd bij dit Protocol.
 
-#### Artikel 7
+##### Artikel 7
 
 Zie de bijgevoegde geconsolideerde tekst van het Verdrag, zoals gewijzigd bij dit Protocol.
 
-#### Artikel 8. Wijziging van de grenzen
+##### Artikel 8. Wijziging van de grenzen
 
 1. Op verzoek van tenminste de helft, doch in geen geval minder dan zes, van de Staten die Partij zijn bij dit Protocol, wordt elk voorstel tot wijziging van de grenzen bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003239&artikel=6), [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003239&artikel=7), en [artikel 8, tweede lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003239&artikel=8), zoals gewijzigd door dit Protocol, door de Secretaris-Generaal toegezonden aan alle Leden van de Organisatie en aan alle Verdragsluitende Staten.
 
@@ -76,7 +98,7 @@ Zie de bijgevoegde geconsolideerde tekst van het Verdrag, zoals gewijzigd bij di
 
 10. Wanneer een wijziging is aangenomen, maar de aanvaardingsperiode van achttien maanden nog niet is verstreken, is elke Staat die gedurende deze periode Verdragsluitende Staat wordt, gebonden door de wijziging indien deze in werking treedt. Een Staat die na het verstrijken van deze periode Verdragsluitende Staat wordt, is gebonden door een wijziging die overeenkomstig het zevende lid is aanvaard. In de in dit lid bedoelde gevallen is een Staat door een wijziging gebonden vanaf het tijdstip van inwerkingtreding van de wijziging of vanaf het tijdstip waarop dit Protocol ten aanzien van deze Staat in werking treedt, indien dit tijdstip een later tijdstip is.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Door de Partijen bij dit Protocol worden het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003239) en dit Protocol tezamen gelezen en uitgelegd als een enkel instrument.
 
@@ -88,7 +110,7 @@ Zie de bijgevoegde geconsolideerde tekst van het Verdrag, zoals gewijzigd bij di
 
 ### SLOTBEPALINGEN
 
-#### Artikel 10. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
+##### Artikel 10. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
 
 1. Dit Protocol staat open voor ondertekening door alle staten op het hoofdkantoor van de Organisatie van 1 oktober 1996 tot en met 30 september 1997.
 
@@ -104,13 +126,13 @@ Zie de bijgevoegde geconsolideerde tekst van het Verdrag, zoals gewijzigd bij di
 
 4. Iedere akte van bekrachtiging, aanvaarding, goedkeuring of toetreding die wordt nedergelegd na de inwerkingtreding van een wijziging van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003239) zoals gewijzigd door dit Protocol, wordt geacht van toepassing te zijn op het aldus gewijzigde Verdrag, zoals gewijzigd door deze wijziging.
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 1. Dit Protocol treedt in werking negentig dagen na de datum waarop tien Staten het feit dat zij ermee instemmen hierdoor te zijn gebonden tot uitdrukking hebben gebracht.
 
 2. Voor iedere Staat die het feit dat hij ermee instemt door dit Protocol te zijn gebonden tot uitdrukking brengt nadat is voldaan aan de voorwaarden voor inwerkingtreding bedoeld in het eerste lid, treedt dit Protocol in werking negentig dagen na de datum waarop deze instemming tot uitdrukking is gebracht.
 
-#### Artikel 12. Opzegging
+##### Artikel 12. Opzegging
 
 1. Dit Protocol kan te allen tijde worden opgezegd door een Staat die Partij is, vanaf de datum waarop het in werking treedt ten aanzien van die Staat die Partij is.
 
@@ -120,13 +142,13 @@ Zie de bijgevoegde geconsolideerde tekst van het Verdrag, zoals gewijzigd bij di
 
 4. In geen geval wordt opzegging van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003239) door één van de Staten die Partij zijn bij dit Protocol, in overeenstemming met [artikel 19 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003239&artikel=19), uitgelegd als een opzegging van het Verdrag zoals gewijzigd door dit Protocol.
 
-#### Artikel 13. Herziening en Wijziging
+##### Artikel 13. Herziening en Wijziging
 
 1. Een conferentie ter herziening of wijziging van dit Protocol kan door de Organisatie worden bijeengeroepen.
 
 2. De Organisatie roept een conferentie van de Verdragsluitende Staten die Partij zijn bij dit Protocol bijeen ter herziening of wijziging ervan op verzoek van tenminste een derde van de Verdragsluitende Staten.
 
-#### Artikel 14. Depositaris
+##### Artikel 14. Depositaris
 
 1. Dit Protocol en alle in overeenstemming met artikel 8 aangenomen wijzigingen worden nedergelegd bij de Secretaris-Generaal.
 
@@ -152,7 +174,7 @@ Zie de bijgevoegde geconsolideerde tekst van het Verdrag, zoals gewijzigd bij di
 
 3. Zodra dit Protocol in werking is getreden, wordt de tekst door de Secretaris-Generaal toegezonden aan het Secretariaat van de Verenigde Naties ter registratie en publicatie overeenkomstig [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-#### Artikel 15. Talen
+##### Artikel 15. Talen
 
 Dit Protocol is in een enkel oorspronkelijk exemplaar opgesteld in de Arabische, Chinese, Engelse, Franse, Russische en Spaanse taal, zijnde alle teksten gelijkelijk authentiek.
 
@@ -166,7 +188,7 @@ Ingevolge artikel 9 van het op 2 mei 1996 te Londen tot stand gekomen Protocol t
 
 ### HOOFDSTUK I. HET RECHT OP BEPERKING
 
-#### Artikel 1. Personen, die gerechtigd zijn hun aansprakelijkheid te beperken
+##### Artikel 1. Personen, die gerechtigd zijn hun aansprakelijkheid te beperken
 
 1. Scheepseigenaren en hulpverleners, zoals hierna omschreven, kunnen hun aansprakelijkheid beperken voor de in artikel 2 genoemde vorderingen overeenkomstig de regels van dit Verdrag.
 
@@ -182,7 +204,7 @@ Ingevolge artikel 9 van het op 2 mei 1996 te Londen tot stand gekomen Protocol t
 
 7. Het beroep op beperking van aansprakelijkheid houdt geen erkenning van aansprakelijkheid in.
 
-#### Artikel 2. Vorderingen vatbaar voor beperking
+##### Artikel 2. Vorderingen vatbaar voor beperking
 
 1. Behoudens de artikelen 3 en 4 zijn de volgende vorderingen, ongeacht de grondslag van de aansprakelijkheid, vatbaar voor beperking van aansprakelijkheid:
 
@@ -200,7 +222,7 @@ Ingevolge artikel 9 van het op 2 mei 1996 te Londen tot stand gekomen Protocol t
 
 2. De in het eerste lid genoemde vorderingen zijn vatbaar voor beperking van aansprakelijkheid, zelfs indien zij, al dan niet op grond van een overeenkomst, worden ingesteld bij wijze van verhaal of vrijwaring. Vorderingen genoemd in het eerste lid, letters d, e en f, zijn echter niet vatbaar voor beperking van aansprakelijkheid voor zover zij betrekking hebben op beloning krachtens een met de aansprakelijke persoon gesloten overeenkomst.
 
-#### Artikel 3. Vorderingen uitgezonderd van beperking
+##### Artikel 3. Vorderingen uitgezonderd van beperking
 
 De regels van dit Verdrag zijn niet van toepassing op:
 
@@ -214,17 +236,17 @@ De regels van dit Verdrag zijn niet van toepassing op:
 
 - e. vorderingen van ondergeschikten van de scheepseigenaar of hulpverlener, wier werkzaamheden verband houden met het schip of de hulpverleningswerkzaamheden, daaronder begrepen vorderingen van hun erfgenamen, rechthebbenden of andere personen, die gerechtigd zijn zulke vorderingen in te stellen, indien de scheepseigenaar of hulpverlener volgens de wet die op de arbeidsovereenkomst van toepassing is, niet gerechtigd is zijn aansprakelijkheid voor zulke vorderingen te beperken, of indien hij zulks volgens die wet slechts kan doen tot een hoger bedrag dan dat bedoeld in artikel 6.
 
-#### Artikel 4. Gedragingen die de beperking opheffen
+##### Artikel 4. Gedragingen die de beperking opheffen
 
 Een aansprakelijke persoon is niet gerechtigd zijn aansprakelijkheid te beperken, indien bewezen wordt dat de schade het gevolg is van zijn persoonlijk handelen of nalaten, begaan hetzij met het opzet zodanige schade te veroorzaken, hetzij roekeloos en met het wetenschap dat zodanige schade er waarschijnlijk uit zou voortvloeien.
 
-#### Artikel 5. Verrekening van vorderingen
+##### Artikel 5. Verrekening van vorderingen
 
 Wanneer een persoon, die krachtens de regels van dit Verdrag gerechtigd is zijn aansprakelijkheid te beperken, tegen de schuldeiser een vordering heeft die voortkomt uit dezelfde gebeurtenis, zullen de respectieve vorderingen met elkaar worden verrekend en de bepalingen van dit Verdrag zijn alsdan slechts van toepassing op het eventuele saldo.
 
 ### HOOFDSTUK II. AANSPRAKELIJKHEIDSGRENZEN
 
-#### Artikel 6. De algemene grenzen
+##### Artikel 6. De algemene grenzen
 
 1. De aansprakelijkheidsgrenzen voor andere vorderingen dan die genoemd in artikel 7, die voortkomen uit eenzelfde gebeurtenis, worden als volgt berekend:
 
@@ -248,7 +270,7 @@ Wanneer een persoon, die krachtens de regels van dit Verdrag gerechtigd is zijn 
 
 5. Voor de toepassing van dit Verdrag wordt onder tonnage van het schip verstaan de bruto-tonnage berekend overeenkomstig de voorschriften voor meting, vervat in [Bijlage I van het Internationaal Verdrag betreffende de meting van schepen, 1969](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&bijlage=I).
 
-#### Artikel 7. De grens voor vorderingen van passagiers
+##### Artikel 7. De grens voor vorderingen van passagiers
 
 1. Met betrekking tot vorderingen die voortkomen uit eenzelfde gebeurtenis ter zake van dood of letsel van passagiers van een schip, beloopt de aansprakelijkheidsgrens van de scheepseigenaar een bedrag van 175.000 rekeneenheden, vermenigvuldigd met het aantal passagiers dat het schip gerechtigd is te vervoeren volgens zijn veiligheidscertificaat.
 
@@ -258,7 +280,7 @@ Wanneer een persoon, die krachtens de regels van dit Verdrag gerechtigd is zijn 
 
 - b. die, met toestemming van de vervoerder, een voertuig of levende dieren begeleidt, waaromtrent een overeenkomst van goederenvervoer is gesloten.
 
-#### Artikel 8. Rekeneenheid
+##### Artikel 8. Rekeneenheid
 
 1. De rekeneenheid, bedoeld in de artikelen 6 en 7, is het bijzondere trekkingsrecht, zoals dit is omschreven door het Internationale Monetaire Fonds. De in de artikelen 6 en 7 genoemde bedragen worden omgerekend in de nationale munteenheid van de Staat, waar de beperking van aansprakelijkheid wordt ingeroepen, volgens de waarde van die munteenheid op de datum waarop het beperkingsfonds is gevormd, de betaling is verricht, of een volgens de wet van die Staat daaraan gelijkwaardige zekerheid is verstrekt. De waarde van de nationale munteenheid, uitgedrukt in bijzondere trekkingsrechten, van een Staat, die Partij is bij dit Verdrag, en die lid is van het Internationale Monetaire Fonds wordt berekend overeenkomstig de waarderingsmethode die door het Internationale Monetaire Fonds op de desbetreffende datum wordt toegepast voor zijn eigen verrichtingen en transacties. De waarde van de nationale munteenheid, uit gedrukt in bijzondere trekkingsrechten, van een Staat, die Partij is bij dit Verdrag, maar die geen lid is van het Internationale Monetaire Fonds, wordt berekend op een door die Staat vastgestelde wijze.
 
@@ -284,7 +306,7 @@ Het tweede en derde lid van artikel 6 zijn van overeenkomstige toepassing op de 
 
 4. De in de laatste zin van het eerste lid genoemde berekening en de in het derde lid genoemde omrekening geschieden op zodanige wijze, dat in de nationale munteenheid van de Staat, die Partij is bij dit Verdrag zo veel mogelijk dezelfde werkelijke waarde tot uitdrukking komt voor de in de artikelen 6 en 7 genoemde bedragen, als daarin uitgedrukt in rekeneenheden. Op het tijdstip van ondertekening zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring, of bij nederlegging van een in artikel 16 genoemde akte en telkens wanneer een verandering optreedt in hun wijze van berekening ingevolge het eerste lid of in het resultaat van de omrekening ingevolge het derde lid, delen de Staten, die Partij zijn bij dit Verdrag, aan de depositaris hun wijze van berekening dan wel het resultaat van de omrekening mede.
 
-#### Artikel 9. Samenloop van vorderingen
+##### Artikel 9. Samenloop van vorderingen
 
 1. De overeenkomstig artikel 6 vastgestelde aansprakelijkheidsgrenzen zijn van toepassing op het totaal van alle vorderingen, die voortkomen uit eenzelfde gebeurtenis:
 
@@ -296,7 +318,7 @@ Het tweede en derde lid van artikel 6 zijn van overeenkomstige toepassing op de 
 
 2. De overeenkomstig artikel 7 vastgestelde aansprakelijkheidsgrenzen zijn van toepassing op het totaal van alle mogelijke vorderingen, die voortkomen uit eenzelfde gebeurtenis en ingesteld worden tegen de persoon of personen genoemd in artikel 1, tweede lid, met betrekking tot het in artikel 7 bedoeld schip en iedere persoon voor wiens handeling, onachtzaamheid of nalatigheid hij of zij aansprakelijk is of zijn.
 
-#### Artikel 10. Beperking van aansprakelijkheid zonder vorming van een beperkingsfonds
+##### Artikel 10. Beperking van aansprakelijkheid zonder vorming van een beperkingsfonds
 
 1. De beperking van aansprakelijkheid kan worden ingeroepen ondanks het feit dat er geen beperkingsfonds zoals genoemd in artikel 11, is gevormd. Een Staat, die Partij is bij dit Verdrag, kan echter in zijn nationale wet bepalen dat, wanneer een rechtsvordering wordt ingesteld bij een van zijn Gerechten om betaling te verkrijgen van een voor beperking vatbare vordering, een aansprakelijke persoon zich uitsluitend op het recht op beperking van aansprakelijkheid kan beroepen, indien een beperkingsfonds is gevormd overeenkomstig de bepalingen van dit Verdrag of wordt gevormd wanneer het recht op beperking van aansprakelijkheid wordt ingeroepen.
 
@@ -306,7 +328,7 @@ Het tweede en derde lid van artikel 6 zijn van overeenkomstige toepassing op de 
 
 ### HOOFDSTUK III. HET BEPERKINGSFONDS
 
-#### Artikel 11. Vorming van het fonds
+##### Artikel 11. Vorming van het fonds
 
 1. Iedere persoon, die aansprakelijk gehouden wordt, kan een fonds vormen bij de rechterlijke of andere bevoegde autoriteit in iedere bij dit Verdrag Partij zijnde Staat, waarin een rechtsgeding aanhangig wordt gemaakt met betrekking tot voor beperking vatbare vorderingen. Het fonds wordt gevormd ten belope van de in de artikelen 6 en 7 genoemde bedragen die van toepassing zijn op de vorderingen waarvoor die persoon aansprakelijk kan zijn, vermeerderd met de rente daarover te rekenen vanaf de datum van het voorval dat tot de aansprakelijkheid heeft geleid, tot aan de datum waarop het fonds wordt gevormd. Elk aldus gevormd fonds is uitsluitend bestemd voor de voldoening van vorderingen met betrekking waartoe beperking van aansprakelijkheid kan worden ingeroepen.
 
@@ -314,7 +336,7 @@ Het tweede en derde lid van artikel 6 zijn van overeenkomstige toepassing op de 
 
 3. Een fonds dat is gevormd door een van de personen genoemd in het eerste lid, letter a, b of c, of in het tweede lid van artikel 9, dan wel door zijn verzekeraar wordt geacht te zijn gevormd door alle respectievelijk in het eerste lid, letter a, b of c of het tweede lid genoemde personen.
 
-#### Artikel 12. Verdeling van het fonds
+##### Artikel 12. Verdeling van het fonds
 
 1. Behoudens de bepalingen van artikel 6, eerste, tweede en derde lid, en van artikel 7, wordt het fonds verdeeld onder de schuldeisers in evenredigheid met de bedragen van hun erkende vorderingen op het fonds.
 
@@ -324,7 +346,7 @@ Het tweede en derde lid van artikel 6 zijn van overeenkomstige toepassing op de 
 
 4. Wanneer de aansprakelijke persoon of enige andere persoon aantoont dat hij gedwongen zou kunnen worden op een later tijdstip, geheel of gedeeltelijk, een zodanig bedrag aan vergoeding te betalen ter zake waarvan hij, indien de vergoeding zou zijn betaald vóór de verdeling van het fonds, ingevolge het tweede en derde lid bij wege van subrogatie rechten zou hebben verkregen, dan kan de rechterlijke of andere bevoegde autoriteit van de Staat waar het fonds is gevormd bevelen dat voorlopig een bedrag wordt terzijde gesteld dat voldoende is om het deze persoon mogelijk te maken op een later tijdstip zijn rechten tegen het fonds geldend te maken.
 
-#### Artikel 13. Gronden voor niet-ontvankelijkheid
+##### Artikel 13. Gronden voor niet-ontvankelijkheid
 
 1. Wanneer een beperkingsfonds is gevormd overeenkomstig artikel 11, is het een persoon die een vordering tegen het fonds heeft ingediend niet toegestaan enig recht met betrekking tot een zodanige vordering uit te oefenen ten aanzien van enige andere activa van een persoon door of namens wie het fonds is gevormd.
 
@@ -340,13 +362,13 @@ Het tweede en derde lid van artikel 6 zijn van overeenkomstige toepassing op de 
 
 3. De bepalingen van het eerste en tweede lid zijn alleen van toepassing indien de schuldeiser een vordering tegen het beperkingsfonds kan indienen bij het Gerecht dat het fonds beheert en indien het fonds werkelijk beschikbaar en vrij overdraagbaar is met betrekking tot die vordering.
 
-#### Artikel 14. De toepasselijke wet
+##### Artikel 14. De toepasselijke wet
 
 Behoudens de bepalingen van dit Hoofdstuk worden de regels betreffende de vorming en de verdeling van een beperkingsfonds, alsmede alle daarmee verband houdende procedureregels beheerst door de wet van de Staat, die Partij is bij dit Verdrag en waarin het fonds wordt gevormd.
 
 ### HOOFDSTUK IV. TOEPASSINGSGEBIED
 
-#### Artikel 15
+##### Artikel 15
 
 1. Dit Verdrag is van toepassing, wanneer een persoon, bedoeld in artikel 1, voor het Gerecht van een Staat, die Partij is bij dit Verdrag, zijn aansprakelijkheid tracht te beperken of tracht te bewerkstelligen dat een schip of andere eigendommen worden vrijgegeven, dan wel dat een binnen het gebied van een zodanige Staat gestelde zekerheid wordt opgeheven. Niettemin kan iedere Staat, die Partij is bij dit Verdrag, geheel of gedeeltelijk van de toepassing van dit Verdrag uitsluiten enige persoon, bedoeld in artikel 1, die, op het tijdstip, waarop voor de gerechten van die Staat een beroep wordt gedaan op de bepalingen van dit Verdrag, niet zijn gewone verblijfplaats heeft in een Staat, die Partij is bij dit Verdrag, of niet de hoofdzetel van zijn bedrijf heeft in een Staat, die Partij is bij dit Verdrag, dan wel enig schip ten aanzien waarvan een beroep wordt gedaan op het recht van beperking of waarvan de vrijgave wordt nagestreefd en dat niet op het hierboven genoemde tijdstip de vlag voert van een Staat, die Partij is bij dit Verdrag.
 
@@ -378,7 +400,7 @@ In een geval waarin letter a van toepassing is, stelt die Staat, die Partij is b
 
 ### HOOFDSTUK V. SLOTBEPALINGEN
 
-#### Artikel 16. Ondertekening, bekrachtiging en toetreding
+##### Artikel 16. Ondertekening, bekrachtiging en toetreding
 
 1. Dit Verdrag staat open voor ondertekening door alle Staten op het Hoofdkwartier van de Intergouvernementele Maritieme Consultatieve Organisatie (hierna te noemen „de Organisatie”) van 1 februari 1977 tot 31 december 1977 en blijft daarna openstaan voor toetreding.
 
@@ -392,7 +414,7 @@ In een geval waarin letter a van toepassing is, stelt die Staat, die Partij is b
 
 3. Bekrachtiging, aanvaarding, goedkeuring of toetreding geschiedt door de nederlegging van een officiële daartoe strekkende akte bij de Secretaris-Generaal van de Organisatie (hierna te noemen „de Secretaris-Generaal”).
 
-#### Artikel 17. Inwerkingtreding
+##### Artikel 17. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking op de eerste dag van de maand na het verstrijken van een periode van een jaar te rekenen van de datum waarop twaalf Staten het hetzij hebben ondertekend zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring hetzij de vereiste akten van bekrachtiging, aanvaarding, goedkeuring of toetreding hebben nedergelegd.
 
@@ -402,7 +424,7 @@ In een geval waarin letter a van toepassing is, stelt die Staat, die Partij is b
 
 4. Voor wat betreft de betrekkingen tussen Staten die dit Verdrag bekrachtigen, aanvaarden of goedkeuren, dan wel hiertoe toetreden, vervangt dit Verdrag het Internationaal Verdrag nopens de beperking van de aansprakelijkheid van eigenaren van zeeschepen, gedaan te Brussel op 10 oktober 1957, alsmede het Internationaal Verdrag tot eenmaking van enige regels nopens de beperking van de aansprakelijkheid van eigenaren van zeeschepen, ondertekend te Brussel op 25 augustus 1924, die in zoverre buiten werking treden.
 
-#### Artikel 18. Voorbehouden
+##### Artikel 18. Voorbehouden
 
 1. Elke Staat kan, op het tijdstip van ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding, dan wel op enig tijdstip nadien, zich het recht voorbehouden:
 
@@ -416,7 +438,7 @@ Andere voorbehouden ten aanzien van de wezenlijke bepalingen van dit Verdrag zij
 
 3. Elke Staat die een voorbehoud heeft gemaakt ten aanzien van dit Verdrag kan dit te allen tijde intrekken door middel van een kennisgeving aan de Secretaris-Generaal. Een zodanige intrekking wordt van kracht op de datum van ontvangst van de kennisgeving. Indien in de kennisgeving wordt verklaard dat de intrekking van een voorbehoud van kracht dient te worden op een daarin genoemde datum, en die datum valt na de datum waarop de kennisgeving wordt ontvangen door de Secretaris-Generaal, wordt de intrekking op die latere datum van kracht.
 
-#### Artikel 19. Opzegging
+##### Artikel 19. Opzegging
 
 1. Dit Verdrag kan te allen tijde worden opgezegd door een Staat, die Partij is bij dit Verdrag na een jaar te rekenen vanaf de datum waarop het Verdrag voor die Partij in werking is getreden.
 
@@ -424,7 +446,7 @@ Andere voorbehouden ten aanzien van de wezenlijke bepalingen van dit Verdrag zij
 
 3. Opzegging wordt van kracht op de eerste dag van de maand na het verstrijken van een jaar te rekenen van de datum van nederlegging van de akte, of zoveel later als in de akte is vermeld.
 
-#### Artikel 20. Herziening en Wijziging
+##### Artikel 20. Herziening en Wijziging
 
 1. Een conferentie ter herziening of wijziging van dit Verdrag kan door de Organisatie worden bijeengeroepen.
 
@@ -432,7 +454,7 @@ Andere voorbehouden ten aanzien van de wezenlijke bepalingen van dit Verdrag zij
 
 3. Na de datum van de inwerkingtreding van een wijziging van dit Verdrag, wordt elke nedergelegde akte van bekrachtiging, aanvaarding, goedkeuring of toetreding geacht van toepassing te zijn op het Verdrag, zoals gewijzigd, tenzij in de akte het tegendeel uitdrukkelijk is vermeld.
 
-#### Artikel 21. Herziening van de beperkingsbedragen en van de rekeneenheid of monetaire eenheid
+##### Artikel 21. Herziening van de beperkingsbedragen en van de rekeneenheid of monetaire eenheid
 
 1. Niettegenstaande de bepalingen van artikel 20, wordt een Conferentie, die uitsluitend ten doel heeft de bedragen genoemd in de artikelen 6 en 7 en in artikel 8, tweede lid, te wijzigen, of één van beide dan wel beide in artikel 8, eerste en tweede lid, omschreven eenheden te vervangen door andere eenheden, bijeengeroepen door de Organisatie overeenkomstig het tweede en derde lid van dit artikel. Een wijziging van de bedragen vindt uitsluitend plaats wegens een belangrijke verandering in hun reële waarde.
 
@@ -442,7 +464,7 @@ Andere voorbehouden ten aanzien van de wezenlijke bepalingen van dit Verdrag zij
 
 4. Elke Staat die zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding tot het Verdrag nederlegt, na inwerkingtreding van een wijziging, past het Verdrag, zoals gewijzigd, toe.
 
-#### Artikel 22. Depositaris
+##### Artikel 22. Depositaris
 
 1. Dit Verdrag wordt nedergelegd bij de Secretaris-Generaal.
 
@@ -464,7 +486,7 @@ Andere voorbehouden ten aanzien van de wezenlijke bepalingen van dit Verdrag zij
 
 3. Zodra dit Verdrag in werking is getreden wordt een voor eensluidend gewaarmerkt afschrift ervan door de Secretaris-Generaal toegezonden aan het Secretariaat van de Verenigde Naties ter registratie en publikatie overeenkomstig [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-#### Artikel 23. Talen
+##### Artikel 23. Talen
 
 Dit Verdrag is in een enkel oorspronkelijk exemplaar opgesteld in de Engelse, Franse, Russische en Spaanse taal, zijnde alle teksten gelijkelijk authentiek.
 

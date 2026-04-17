@@ -1,32 +1,54 @@
 ---
 title: "Deelregeling Kunst Media"
 identifier: "BWBR0050625"
-categorie: "Overig"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050625"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050625"
+soort: "zbo"
+stam_id: "17327453"
+version_id: "30532752"
+internal_id: "C43769361"
+label_id: "17231564"
+dtd_version: "2.0"
+original_entry_into_force: "2025-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050625/2025-01-01/0"
+intitule_bron: "Stcrt.2024-38593"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2024-12-31"
+intitule_in_force: "2024-12-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-38593"
+original_published_date: "2024-12-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-38593"
+entry_into_force_date: "2025-01-01"
+jci_1_3: "jci1.3:c:BWBR0050625&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0050625&g=2025-01-01"
+citeertitel_status: "officieel"
+entry_into_force: "2025-01-01"
 ---
-
 # Deelregeling Kunst Media
 
 Gelet op [artikel 10, lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
 
 Besluit:
 
-#### Artikel 1. Doel
+##### Artikel 1. Doel
 
 Het doel van deze regeling is betrokkenheid bij en het gesprek over de hedendaagse beeldende kunst in Nederland te bevorderen en te verruimen door de (technologische) scope van het discours te diversifiëren en het publieksbereik uit te breiden.
 
-#### Artikel 2. Doelgroep
+##### Artikel 2. Doelgroep
 
 De bijdrage kan worden aangevraagd door uitgevers of individuen die werkzaam zijn als curator, criticus, social contentmaker of journalist.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Er kan worden aangevraagd voor te publiceren uitingen in geschreven en/of gesproken woord. Het kan gaan om (een reeks) artikelen of longreads voor (online) tijdschriften, kranten, social-mediakanalen en /of andere online platforms, zoals bijvoorbeeld een podcast. Het gaat uitdrukkelijk niet om profielen of portretten van kunstenaars. Belangrijk is dat de maatschappelijke waarde van hedendaagse beeldende kunst besproken en gedeeld wordt vanuit een onafhankelijke positie en vanuit een breed perspectief.
 
-#### Artikel 4. Hoogte en vorm bijdrage
+##### Artikel 4. Hoogte en vorm bijdrage
 
 1. De hoogte van de bijdrage wordt per aanvraag vastgesteld.
 
@@ -38,7 +60,7 @@ Er kan worden aangevraagd voor te publiceren uitingen in geschreven en/of gespro
 
 - b. Een flexibele bijdrage voor een periode van maximaal 12 maanden. De hoogte wordt vastgesteld aan de hand van het plan, de duur van het project en de begroting.
 
-#### Artikel 5. Weigeringsgronden
+##### Artikel 5. Weigeringsgronden
 
 1. De bijdrage kan niet worden aangevraagd voor reguliere werkzaamheden of reguliere kosten.
 
@@ -48,7 +70,7 @@ Er kan worden aangevraagd voor te publiceren uitingen in geschreven en/of gespro
 
 4. Het project moet gepubliceerd worden op ten minste één publiek medium of platform dat een passend bereik biedt.
 
-#### Artikel 6. Aanvraag
+##### Artikel 6. Aanvraag
 
 Naast de bepalingen vastgesteld in het [Algemeen Reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0044527), in het aanvraagformulier en in de toelichting daarop, dient de aanvraag vergezeld te gaan van een:
 
@@ -60,7 +82,7 @@ Naast de bepalingen vastgesteld in het [Algemeen Reglement](https://wetten.overh
 
 - •. dekkende begroting, zo mogelijk met offertes.
 
-#### Artikel 7. Beoordeling
+##### Artikel 7. Beoordeling
 
 1. Bij de beoordeling van een aanvraag geeft het bevoegd adviesorgaan een oordeel over het belang van het voorstel voor de betrokkenheid bij en het gesprek over de hedendaagse beeldende kunst in Nederland en het Caribisch deel van het Koninkrijk. Daarbij worden de volgende criteria gehanteerd in onderlinge samenhang:
 
@@ -82,21 +104,21 @@ Naast de bepalingen vastgesteld in het [Algemeen Reglement](https://wetten.overh
 
 5. Het bestuur kan het bevoegd adviesorgaan verzoeken de positieve adviezen in volgorde van prioriteit te rangschikken op basis van het oordeel zoals bedoeld in het eerste, en in dien van toepassing tweede lid van dit artikel.
 
-#### Artikel 8. Hardheidsclausule
+##### Artikel 8. Hardheidsclausule
 
 Het bestuur kan, gelet op het belang dat deze regeling beoogt te beschermen, artikelen of onderdelen daarvan buiten toepassing laten of daarvan afwijken voor zover strikte toepassing leidt tot een onbillijkheid van overwegende aard.
 
-#### Artikel 9. Overig
+##### Artikel 9. Overig
 
 In alle gevallen waarin dit reglement niet voorziet, beslist het bestuur.
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 31 december 2024, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2025.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Deelregeling Kunst Media.
 

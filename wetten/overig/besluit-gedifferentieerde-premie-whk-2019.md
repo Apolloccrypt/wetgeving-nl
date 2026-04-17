@@ -1,20 +1,45 @@
 ---
 title: "Besluit gedifferentieerde premie Whk 2019"
 identifier: "BWBR0041312"
-categorie: "Overig"
-publicatiedatum: 2019-01-01
-laatste_update: 2019-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041312"
+country: "nl"
+rank: "zbo"
+publication_date: "2019-01-01"
+last_updated: "2019-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041312"
+soort: "zbo"
+stam_id: "14745203"
+version_id: "25239762"
+internal_id: "C36073141"
+label_id: "14697154"
+dtd_version: "2.0"
+original_entry_into_force: "2019-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041312/2019-01-01/0"
+intitule_bron: "Stcrt.2018-48450"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-08-21"
+intitule_published: "2018-09-03"
+intitule_in_force: "2018-09-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-48450"
+original_signed_date: "2018-08-21"
+original_published_date: "2018-09-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-48450"
+entry_into_force_date: "2019-01-01"
+jci_1_3: "jci1.3:c:BWBR0041312&z=2019-01-01&g=2019-01-01"
+jci_1_0: "1.0:c:BWBR0041312&g=2019-01-01"
+citeertitel_status: "officieel"
+signed_date: "2018-08-21"
+entry_into_force: "2019-01-01"
 ---
-
 # Besluit gedifferentieerde premie Whk 2019
 
 Gelet op [artikel 38 van de Wet financiering sociale verzekeringen (Wfsv)](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38) en [artikel 2.10 lid 2 van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=2.10);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de berekening van de gedifferentieerde premie op grond van [artikel 38 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38) over het jaar 2019 worden voor alle takken van bedrijf en beroep de navolgende algemeen geldende parameters vastgesteld:
 
@@ -23,7 +48,7 @@ Voor de berekening van de gedifferentieerde premie op grond van [artikel 38 van 
 | Grens kleine/middelgrote werkgever | € 331.000 |
 | Grens middelgrote/grote werkgever | € 3.310.000 |
 
-#### Artikel 2
+##### Artikel 2
 
 Voor de berekening van de gedifferentieerde premie Werkhervattingskas op grond van [artikel 38 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38) over het jaar 2019 worden voor de premiecomponent WGA voor alle takken van bedrijf en beroep de volgende premies en parameters vastgesteld:
 
@@ -37,7 +62,7 @@ Voor de berekening van de gedifferentieerde premie Werkhervattingskas op grond v
 | Correctiefactoren bij onvolledige periode werkgever 1 jaar bekend 2 jaar bekend 3 jaar bekend 4 jaar bekend | 5,00 2,50 1,66 1,25 |
 | Sectorale premies | Bijlage |
 
-#### Artikel 3
+##### Artikel 3
 
 Voor de berekening van de gedifferentieerde premie Werkhervattingskas op grond van [artikel 38 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38) over het jaar 2019 worden voor de premiecomponent ZW voor alle takken van bedrijf en beroep de volgende premies en parameters vastgesteld:
 
@@ -53,11 +78,11 @@ Voor de berekening van de gedifferentieerde premie Werkhervattingskas op grond v
 
 Voor werkgevers in sector 52 ‘Uitzendbedrijven’ geldt een afwijkende maximumpremie van 8,48%.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit wordt aangehaald als: Besluit gedifferentieerde premie Whk 2019.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang van 1 januari 2019.
 

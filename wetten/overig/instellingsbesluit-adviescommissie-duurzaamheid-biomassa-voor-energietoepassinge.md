@@ -1,20 +1,46 @@
 ---
-title: "Instellingsbesluit Adviescommissie Duurzaamheid Biomassa voor Energietoepassingen"
+title: "Besluit van de Minister van Economische Zaken van 27 juni 2017, nr. WJZ/17054933, tot instelling van de Adviescommissie Duurzaamheid Biomassa voor Energietoepassingen (Instellingsbesluit Adviescommissie Duurzaamheid Biomassa voor Energietoepassingen)"
 identifier: "BWBR0039699"
-categorie: "Overig"
-publicatiedatum: 2017-07-01
-laatste_update: 2017-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039699"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-07-01"
+last_updated: "2017-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039699"
+soort: "ministeriele-regeling"
+stam_id: "14030063"
+version_id: "24163302"
+internal_id: "C34723731"
+label_id: "13991374"
+dtd_version: "2.0"
+original_entry_into_force: "2017-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039699/2017-07-01/0"
+intitule_bron: "Stcrt.2017-37052"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-06-27"
+intitule_published: "2017-06-29"
+intitule_in_force: "2017-06-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-37052"
+original_signed_date: "2017-06-27"
+original_published_date: "2017-06-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-37052"
+entry_into_force_date: "2017-07-01"
+jci_1_3: "jci1.3:c:BWBR0039699&z=2017-07-01&g=2017-07-01"
+jci_1_0: "1.0:c:BWBR0039699&g=2017-07-01"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Adviescommissie Duurzaamheid Biomassa voor Energietoepassingen"
+signed_date: "2017-06-27"
+entry_into_force: "2017-07-01"
 ---
-
 # Besluit van de Minister van Economische Zaken van 27 juni 2017, nr. WJZ/17054933, tot instelling van de Adviescommissie Duurzaamheid Biomassa voor Energietoepassingen (Instellingsbesluit Adviescommissie Duurzaamheid Biomassa voor Energietoepassingen)
 
 Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -22,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 - –. **de minister:** de Minister van Economische Zaken.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een Adviescommissie Duurzaamheid Biomassa voor Energietoepassingen.
 
@@ -36,7 +62,7 @@ In dit besluit wordt verstaan onder:
 
 - d. het desgevraagd adviseren van de minister over de gevolgen van gesignaleerde onregelmatigheden in de toepassing van goedgekeurde certificatieschema’s.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De commissie bestaat uit een voorzitter en ten hoogste vier andere leden.
 
@@ -46,7 +72,7 @@ In dit besluit wordt verstaan onder:
 
 4. De commissie kan zich laten bijstaan door een of meer gastdeskundigen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De commissie stelt haar eigen werkwijze schriftelijk vast.
 
@@ -56,7 +82,7 @@ In dit besluit wordt verstaan onder:
 
 4. De commissie verstrekt desgevraagd aan de minister de voor de uitoefening van zijn taak benodigde inlichtingen. De minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Aan de voorzitter wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18, van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B). De arbeidsduurfactor wordt jaarlijks vastgesteld en gepubliceerd in de Staatscourant.
 
@@ -64,7 +90,7 @@ In dit besluit wordt verstaan onder:
 
 3. Een gastdeskundige ontvangt een vergoeding per vergadering van € 275.
 
-#### Artikel 6
+##### Artikel 6
 
 Ter gelegenheid van de instelling van de commissie worden voor een periode van vier jaar tot lid van de commissie benoemd:
 
@@ -78,11 +104,11 @@ Ter gelegenheid van de instelling van de commissie worden voor een periode van v
 
 - e. mevrouw dr. A. Voss, te Delft.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit treedt in werking met ingang van 1 juli 2017.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Adviescommissie Duurzaamheid Biomassa voor Energietoepassingen.
 

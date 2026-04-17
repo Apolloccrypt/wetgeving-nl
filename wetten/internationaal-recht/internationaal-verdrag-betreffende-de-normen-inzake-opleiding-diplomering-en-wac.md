@@ -1,13 +1,35 @@
 ---
 title: "Internationaal Verdrag betreffende de normen inzake opleiding, diplomering en wachtdienst van personeel van vissersvaartuigen, 1995"
 identifier: "BWBV0006295"
-categorie: "Internationaal recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006295"
+country: "nl"
+rank: "verdrag"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006295"
+soort: "verdrag"
+stam_id: "10005150703"
+version_id: "10005507322"
+internal_id: "C10009513361"
+label_id: "10005133924"
+dtd_version: "2.0"
+original_entry_into_force: "2019-03-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006295/2026-01-01/0"
+intitule_bron: "Trb.2013-218"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2013-10-31"
+intitule_in_force: "2019-02-15"
+intitule_status: "goed"
+original_publication: "Trb.2013-218"
+original_published_date: "2013-10-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2013-218"
+entry_into_force_date: "2019-03-24"
+jci_1_3: "jci1.3:c:BWBV0006295&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBV0006295&g=2026-01-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2019-03-24"
 ---
-
 # Internationaal Verdrag betreffende de normen inzake opleiding, diplomering en wachtdienst van personeel van vissersvaartuigen, 1995
 
 De partijen bij dit Verdrag,
@@ -20,13 +42,13 @@ Overwegend dat dit doel het best kan worden bereikt door het sluiten van een Int
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Algemene verplichtingen
+##### Artikel 1. Algemene verplichtingen
 
 1. De partijen verplichten zich ertoe uitvoering te geven aan de bepalingen van het Verdrag en van de bijlage daarbij, die een integrerend onderdeel vormt van het Verdrag. Elke verwijzing naar het Verdrag houdt tegelijkertijd een verwijzing in naar de bijlage daarbij.
 
 2. De partijen verplichten zich ertoe alle wetten, besluiten, beschikkingen en voorschriften uit te vaardigen en alle andere maatregelen te nemen die nodig zijn voor de volledige uitvoering van het Verdrag, teneinde te waarborgen dat, uit het oogpunt van de veiligheid van mensenlevens en zaken op zee en van de bescherming van het mariene milieu, het personeel aan boord van zeevissersvaartuigen wat zijn vakbekwaamheid en lichamelijke conditie betreft geschikt is om zijn taak te vervullen.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 Tenzij uitdrukkelijk anders is bepaald, wordt bij de toepassing van het Verdrag verstaan onder:
 
@@ -46,11 +68,11 @@ Tenzij uitdrukkelijk anders is bepaald, wordt bij de toepassing van het Verdrag 
 
 - .8. **zeevissersvaartuig:** een vissersvaartuig anders dan een vissersvaartuig dat uitsluitend vaart in de binnenwateren of in wateren binnen of nauw grenzend aan beschutte wateren of gebieden waar havenvoorschriften van toepassing zijn.
 
-#### Artikel 3. Toepassing
+##### Artikel 3. Toepassing
 
 Dit Verdrag is van toepassing op personeel dat werkt op zeevissersvaartuigen die gerechtigd zijn de vlag van een partij te voeren.
 
-#### Artikel 4. Toezending van informatie
+##### Artikel 4. Toezending van informatie
 
 Elke partij zendt de Secretaris-Generaal de volgende informatie toe:
 
@@ -58,7 +80,7 @@ Elke partij zendt de Secretaris-Generaal de volgende informatie toe:
 
 - .2. overige informatie die in [voorschrift I/5](https://wetten.overheid.nl/jci1.3:c:BWBV0006295&hoofdstuk=I&z=2026-01-01&g=2026-01-01) kan worden vermeld of verstrekt.
 
-#### Artikel 5. Andere verdragen en interpretatie
+##### Artikel 5. Andere verdragen en interpretatie
 
 1. Alle voorgaande verdragen, overeenkomsten en regelingen, betrekking hebbende op de normen inzake opleiding, diplomering en wachtdienst van personeel van vissersvaartuigen die tussen de partijen van kracht zijn, blijven gedurende de hiervoor vastgestelde tijd volledig van kracht, voor zover het betreft:
 
@@ -70,11 +92,11 @@ Elke partij zendt de Secretaris-Generaal de volgende informatie toe:
 
 3. Alle aangelegenheden waarin niet uitdrukkelijk is voorzien in dit Verdrag blijven onderworpen aan de wetgeving van de partijen.
 
-#### Artikel 6. Diplomering
+##### Artikel 6. Diplomering
 
 De diplomering van personeel van vissersvaartuigen geschiedt in overeenstemming met de bijlage bij dit Verdrag.
 
-#### Artikel 7. Nationale bepalingen
+##### Artikel 7. Nationale bepalingen
 
 1. Elke partij stelt werkwijzen en procedures vast voor het onpartijdig onderzoek naar elk gerapporteerd geval van onbekwaamheid, handelen of nalaten dat een directe bedreiging kan vormen voor de veiligheid van mensenlevens of zaken op zee of voor het mariene milieu, door houders van bewijzen of van officiële verklaringen afgegeven door die partij met betrekking tot de vervulling van hun taken zoals in hun bewijzen omschreven, en voor het intrekken, tijdelijk intrekken en ongeldig verklaren van deze bewijzen op dergelijke gronden en ter voorkoming van fraude.
 
@@ -90,7 +112,7 @@ De diplomering van personeel van vissersvaartuigen geschiedt in overeenstemming 
 
 4. Een partij binnen wier rechtsgebied zich een eigenaar, agent van een eigenaar of persoon bevindt van wie op duidelijke gronden wordt aangenomen dat deze verantwoordelijk was voor of kennis droeg van kennelijke niet-nakoming van het Verdrag zoals bepaald in het derde lid, moet alle mogelijke medewerking verlenen aan een partij die haar op de hoogte stelt van haar voornemen uit hoofde van haar rechtsbevoegdheid gerechtelijke stappen te ondernemen.
 
-#### Artikel 8. Controle
+##### Artikel 8. Controle
 
 1. Vissersvaartuigen zijn tijdens hun verblijf in de havens van een andere partij onderworpen aan controle door functionarissen die door die partij naar behoren zijn gemachtigd om erop toe te zien dat alle aan boord dienst doende personen die volgens het Verdrag gediplomeerd moeten zijn de desbetreffende bewijzen bezitten of in het bezit zijn van een passende ontheffing.
 
@@ -104,7 +126,7 @@ De diplomering van personeel van vissersvaartuigen geschiedt in overeenstemming 
 
 4. Dit artikel wordt waar nodig toegepast om te waarborgen dat aan vaartuigen die gerechtigd zijn de vlag te voeren van een staat die geen partij is, geen gunstiger behandeling wordt gegeven dan een vaartuig dat gerechtigd is de vlag te voeren van een staat die partij is.
 
-#### Artikel 9. Bevorderen van technische samenwerking
+##### Artikel 9. Bevorderen van technische samenwerking
 
 1. De partijen bij het Verdrag bevorderen, in overleg met en met hulp van de Organisatie, ondersteuning van de staten die om technische bijstand verzoeken inzake:
 
@@ -120,7 +142,7 @@ De diplomering van personeel van vissersvaartuigen geschiedt in overeenstemming 
 
 2. De Organisatie streeft van haar kant de bovenstaande doelstellingen na, al naargelang van toepassing in overleg of samenwerking met andere internationale organisaties, met name de Internationale Arbeidsorganisatie en de Voedsel- en Landbouworganisatie van de Verenigde Naties.
 
-#### Artikel 10. Wijzigingen
+##### Artikel 10. Wijzigingen
 
 1. Dit Verdrag kan worden gewijzigd volgens een van de in dit artikel omschreven procedures.
 
@@ -160,7 +182,7 @@ De diplomering van personeel van vissersvaartuigen geschiedt in overeenstemming 
 
 5. De Secretaris-Generaal stelt alle partijen in kennis van wijzigingen die in werking treden, alsmede van de datum waarop elke wijziging in werking treedt.
 
-#### Artikel 11. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
+##### Artikel 11. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
 
 1. Het Verdrag blijft open voor ondertekening op de zetel van de Organisatie van 1 januari 1996 tot 30 september 1996 en blijft daarna open voor toetreding. Staten kunnen partij worden bij het Verdrag door:
 
@@ -172,7 +194,7 @@ De diplomering van personeel van vissersvaartuigen geschiedt in overeenstemming 
 
 2. Bekrachtiging, aanvaarding, goedkeuring of toetreding geschiedt door nederlegging van een daartoe strekkende akte bij de Secretaris-Generaal.
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 1. Het Verdrag treedt in werking 12 maanden na de datum waarop ten minste 15 staten hetzij het hebben ondertekend zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring hetzij de vereiste akten van bekrachtiging, aanvaarding, goedkeuring of toetreding hebben nedergelegd in overeenstemming met [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0006295&artikel=11&z=2026-01-01&g=2026-01-01).
 
@@ -182,7 +204,7 @@ De diplomering van personeel van vissersvaartuigen geschiedt in overeenstemming 
 
 4. Na de datum waarop een wijziging van het Verdrag geacht wordt te zijn aanvaard krachtens [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0006295&artikel=10&z=2026-01-01&g=2026-01-01), is elke nedergelegde akte van bekrachtiging, aanvaarding, goedkeuring of toetreding van toepassing op het Verdrag zoals gewijzigd.
 
-#### Artikel 13. Opzegging
+##### Artikel 13. Opzegging
 
 1. Het Verdrag kan na afloop van vijf jaar na de datum waarop het voor een partij in werking is getreden te allen tijde door die partij worden opgezegd.
 
@@ -190,7 +212,7 @@ De diplomering van personeel van vissersvaartuigen geschiedt in overeenstemming 
 
 3. Een opzegging wordt van kracht twaalf maanden na ontvangst van de kennisgeving van opzegging door de Secretaris-Generaal of na het verstrijken van een langere periode indien dit in de kennisgeving wordt aangegeven.
 
-#### Artikel 14. Depositaris
+##### Artikel 14. Depositaris
 
 1. Het Verdrag wordt nedergelegd bij de Secretaris-Generaal van de Organisatie (hierna te noemen „de depositaris”).
 
@@ -208,7 +230,7 @@ De diplomering van personeel van vissersvaartuigen geschiedt in overeenstemming 
 
 3. Zodra het Verdrag in werking treedt, wordt een voor eensluidend gewaarmerkt afschrift ervan door de depositaris toegezonden aan de Secretaris-Generaal van de Verenigde Naties ter registratie en publicatie overeenkomstig [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-#### Artikel 15. Talen
+##### Artikel 15. Talen
 
 Het Verdrag is opgesteld in één oorspronkelijk exemplaar in de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse taal, waarbij alle teksten gelijkelijk authentiek zijn.
 

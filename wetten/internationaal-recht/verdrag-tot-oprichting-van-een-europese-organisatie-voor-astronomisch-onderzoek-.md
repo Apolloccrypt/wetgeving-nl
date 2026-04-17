@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tot oprichting van een Europese Organisatie voor astronomisch onderzoek op het zuidelijk halfrond"
 identifier: "BWBV0004585"
-categorie: "Internationaal recht"
-publicatiedatum: 1964-01-17
-laatste_update: 1964-01-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004585"
+country: "nl"
+rank: "verdrag"
+publication_date: "1964-01-17"
+last_updated: "1964-01-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004585"
+soort: "verdrag"
+stam_id: "10004204653"
+version_id: "10004381552"
+internal_id: "C10008335941"
+label_id: "10004189774"
+dtd_version: "2.0"
+original_entry_into_force: "1964-01-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004585/1964-01-17/0"
+intitule_bron: "Trb.1962-156"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1962-12-14"
+intitule_in_force: "1964-03-03"
+intitule_status: "goed"
+original_publication: "Trb.1962-156"
+original_published_date: "1962-12-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1962-156"
+entry_into_force_date: "1964-01-17"
+jci_1_3: "jci1.3:c:BWBV0004585&z=1964-01-17&g=1964-01-17"
+jci_1_0: "1.0:c:BWBV0004585&g=1964-01-17"
+citeertitel_status: "redactioneel"
+entry_into_force: "1964-01-17"
 ---
-
 # Verdrag tot oprichting van een Europese Organisatie voor astronomisch onderzoek op het zuidelijk halfrond
 
 De Regeringen van de Staten die partij zijn bij dit Verdrag:
@@ -26,13 +48,13 @@ Verlangende gezamenlijk een sterrenwacht op het zuidelijk halfrond op te lichten
 
 Hebben overeenstemming bereikt omtrent de volgende bepalingen:
 
-#### Artikel I. Oprichting van de Organisatie
+##### Artikel I. Oprichting van de Organisatie
 
 1. Bij dit Verdrag wordt een Europese Organisatie voor astronomisch onderzoek op het zuidelijk halfrond, hierna te noemen „de Organisatie”, opgericht.
 
 2. De Organisatie is voorlopig gevestigd te Brussel. De zetel van de Organisatie zal door de bij artikel IV ingestelde Raad definitief worden vastgesteld.
 
-#### Artikel II. Doelstellingen
+##### Artikel II. Doelstellingen
 
 1. De Organisatie heeft tot doel de bouw, de uitrusting en het doen functioneren van een op het zuidelijk halfrond gelegen sterrenwacht.
 
@@ -54,17 +76,17 @@ Hebben overeenstemming bereikt omtrent de volgende bepalingen:
 
 4. De Lid-Staten bevorderen de uitwisseling van personen en van wetenschappelijke en technische gegevens die van nut zijn voor de uitvoering van de programma's waar zij aan deelnemen.
 
-#### Artikel III. De Leden
+##### Artikel III. De Leden
 
 1. Leden van de Organisatie zijn de Staten die partij zijn bij dit Verdrag.
 
 2. De toelating van andere Staten tot de Organisatie geschiedt overeenkomstig de in artikel XIII, vierde lid, bepaalde procedure.
 
-#### Artikel IV. Organen
+##### Artikel IV. Organen
 
 De Organisatie bestaat uit de Raad en de Directeur.
 
-#### Artikel V. De Raad
+##### Artikel V. De Raad
 
 1. De Raad bestaat uit afgevaardigden der Lid-Staten; elke Staat heeft twee afgevaardigden, waarvan er ten minste één astronoom dient te zijn. De afgevaardigden kunnen door deskundigen worden bijgestaan.
 
@@ -104,7 +126,7 @@ De Organisatie bestaat uit de Raad en de Directeur.
 
 12. Overeenkomsten met de Staat op wiens grondgebied de zetel is, onderscheidenlijk de sterrenwacht wordt gevestigd, nodig voor de uitvoering van dit Verdrag, worden door de Raad gesloten.
 
-#### Artikel VI. Directeur en personeel
+##### Artikel VI. Directeur en personeel
 
 - a). De Raad benoemt voor een vastgestelde termijn, met tweederde meerderheid van stemmen van de Lid-Staten, de Directeur, die slechts verantwoording verschuldigd is aan de Raad. Hij is met de algemene leiding van de Organisatie belast. Hij is de wettelijke vertegenwoordiger van de Organisatie. De Directeur legt een jaarlijks rapport over aan de Raad. Tenzij de Raad anders beslist, woont hij de vergaderingen van de Raad met raadgevende stem bij.
 
@@ -122,7 +144,7 @@ De Organisatie bestaat uit de Raad en de Directeur.
 
 5. De wetenschappelijke onderzoekers en hun medewerkers die met toestemming van de Raad werkzaamheden in de sterrenwacht komen verrichten zonder tot het personeel van de Organisatie te behoren, staan onder het gezag van de Directeur en zijn onderworpen aan de door de Raad vastgestelde of goedgekeurde algemene bepalingen.
 
-#### Artikel VII. Financiële bijdragen
+##### Artikel VII. Financiële bijdragen
 
 - a). Elke Lid-Staat levert een bijdrage aan de investerings- en uitrustingsuitgaven, alsmede aan de lopende bedrijfskosten van de Organisatie, overeenkomstig een schaal die iedere drie jaar door de Raad wordt vastgesteld met twee-derde meerderheid van stemmen van de Lid-Staten op grond van het gemiddelde netto nationale inkomen, berekend volgens de in [artikel VII, lid 1 b, van het op 1 juli 1953 te Parijs ondertekende Verdrag tot oprichting van een Europese Organisatie voor kernfysisch onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBV0004885&artikel=VII) nedergelegde regels.
 
@@ -140,29 +162,29 @@ De Organisatie bestaat uit de Raad en de Directeur.
 
 6. De Raad kan voor de Organisatie bestemde giften en legaten aanvaarden, mits daaraan geen voorwaarden verbonden zijn die onverenigbaar zijn met de doelstellingen van de Organisatie.
 
-#### Artikel VIII. Wijzigingen
+##### Artikel VIII. Wijzigingen
 
 1. De Raad kan de Lid-Staten wijzigingen van dit Verdrag en van het daaraan gehechte Financiële Protocol aanbevelen. Elke Lid-Staat die een wijziging wenst voor te stellen, doet daarvan mededeling aan de Directeur. De Directeur brengt de aldus voorgestelde wijzigingen ter kennis van de Lid-Staten ten minste drie maanden voordat zij in de Raad aan een onderzoek worden onderworpen.
 
 2. De door de Raad aanbevolen wijzigingen kunnen slechts worden aanvaard met toestemming van alle Lid-Staten, gegeven overeenkomstig hun onderscheiden grondwettelijke bepalingen. Deze wijzigingen worden van kracht dertig dagen nadat de laatste mededeling van aanvaarding van de wijziging is ontvangen. De Directeur deelt aan de Lid-Staten de datum waarop de wijziging van kracht wordt mede.
 
-#### Artikel IX. Geschillen
+##### Artikel IX. Geschillen
 
 Tenzij de betrokken Lid-Staten een andere wijze van beslechting aanvaarden, wordt ieder geschil tussen de Lid-Staten betreffende de uitlegging of de toepassing van dit Verdrag of van het Financiële Protocol, dat niet kan worden beslecht door bemiddeling van de Raad, bij het Permanente Hof van Arbitrage te 's-Gravenhage aanhangig gemaakt, overeenkomstig de bepalingen van het [Verdrag voor de vreedzame beslechting van internationale geschillen](https://wetten.overheid.nl/jci1.3:c:BWBV0005617) van 18 oktober 1907.
 
-#### Artikel X. Uittreding
+##### Artikel X. Uittreding
 
 ledere Lid-Staat van de Organisatie kan na een termijn van ten minste tien jaar, te rekenen van de datum waarop hij lid van de Organisatie werd, de Voorzitter van de Raad schriftelijk mededelen dat hij uit de Organisatie treedt. Een zodanige uittreding wordt van kracht aan het einde van het boekjaar volgende op dat waarin de Voorzitter de desbetreffende mededeling heeft ontvangen. Een Lid-Staat die uit de Organisatie treedt kan geen enkel recht doen gelden op de activa van de Organisatie, noch op het bedrag van de door hem reeds gestorte bijdragen.
 
-#### Artikel XI. Het niet-nakomen van verplichtingen
+##### Artikel XI. Het niet-nakomen van verplichtingen
 
 Indien een van de Leden van de Organisatie niet langer aan de uit dit Verdrag of het Financiële Protocol voortvloeiende verplichtingen voldoet, wordt dat Lid door de Raad verzocht zich te houden aan de bepalingen van dit Verdrag of van dit Protocol. Indien dat Lid niet aan het verzoek van de Raad voldoet binnen de daarvoor gestelde termijn, kunnen de overige Leden met eenparigheid van stemmen beslissen hun samenwerking binnen de Organisatie zonder dat Lid voort te zetten. In dat geval kan die Staat geen enkel recht doen gelden op de activa van de Organisatie, noch op het bedrag van de door hem reeds gestorte bijdragen.
 
-#### Artikel XII. Opheffing
+##### Artikel XII. Opheffing
 
 De Organisatie kan te allen tijde bij een met twee-derde meerderheid van stemmen van de Lid-Staten genomen besluit worden opgeheven. Bij dit besluit wordt tevens een vereffenaar benoemd, tenzij bij de opheffing met eenparigheid van stemmen een overeenkomst tussen de Lid-Staten tot stand komt. De activa van de Organisatie worden tussen de Staten die op het tijdstip van de opheffing lid van de Organisatie zijn, verdeeld, in de verhouding van de daadwerkelijk door hen betaalde bijdragen sinds zij partij bij dit Verdrag zijn. Eventuele passiva worden door deze Staten aangevuld in de verhouding van de voor het op dat ogenblik lopende boekjaar vastgestelde bijdragen.
 
-#### Artikel XIII. Ondertekening - Toetreding
+##### Artikel XIII. Ondertekening - Toetreding
 
 1. Dit Verdrag en het daaraan gehechte Financiële Protocol staan ter ondertekening open voor alle Staten die aan de aan dit Verdrag voorafgaande werkzaamheden hebben deelgenomen.
 
@@ -172,19 +194,19 @@ De Organisatie kan te allen tijde bij een met twee-derde meerderheid van stemmen
 
 4. De Raad kan, met eenparigheid van stemmen van de Lid-Staten, tot de toelating tot de Organisatie van niet in het eerste lid van dit artikel bedoelde Staten besluiten. De op deze wijze toegelaten Staten worden lid van de Organisatie door middel van nederlegging van een akte van toetreding bij het Ministerie van Buitenlandse Zaken van de Franse Republiek.
 
-#### Artikel XIV. Inwerkingtreding
+##### Artikel XIV. Inwerkingtreding
 
 1. Dit Verdrag en het daaraan gehechte Financiële Protocol treden in werking op de datum waarop de vierde akte van goedkeuring of van bekrachtiging wordt nedergelegd, mits het totaal van de bijdragen volgens de in de bijlage bij het Financiële Protocol opgenomen schaal niet minder bedraagt dan 70 %.
 
 2. Voor elke Staat die zijn akte van goedkeuring, bekrachtiging of toetreding na de in het eerste lid van dit artikel genoemde datum van inwerkingtreding nederlegt, treden het Verdrag en het Financiële Protocol in werking op de datum van nederlegging van die akte.
 
-#### Artikel XV. Mededelingen
+##### Artikel XV. Mededelingen
 
 1. De Minister van Buitenlandse Zaken van de Franse Republiek doet van de nederlegging van iedere akte van goedkeuring, bekrachtiging of toetreding en van de inwerkingtreding van dit Verdrag en het daaraan gehechte Financiële Protocol mededeling aan alle ondertekenende en toetredende Staten, alsmede aan de Directeur van de Organisatie.
 
 2. De Voorzitter van de Raad doet alle Lid-Staten mededeling van het uittreden van een Staat uit de Organisatie, alsmede van het feit dat een Staat ophoudt lid te zijn uit hoofde van artikel XI.
 
-#### Artikel XVI. Registratie
+##### Artikel XVI. Registratie
 
 Het Ministerie van Buitenlandse Zaken van de Franse Republiek doet dit Verdrag en het daaraan gehechte Financiële Protocol, zodra zij in werking zijn getreden, registreren bij de Secretaris-Generaal van de Verenigde Naties overeenkomstig [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
@@ -194,7 +216,7 @@ Verlangende voorzieningen te treffen voor het financiële beheer van de Organisa
 
 Hebben overeenstemming bereikt omtrent de volgende bepalingen:
 
-#### Artikel 1. Begroting
+##### Artikel 1. Begroting
 
 1. Het boekjaar van de Organisatie loopt van 1 januari tot 31 december.
 
@@ -202,15 +224,15 @@ Hebben overeenstemming bereikt omtrent de volgende bepalingen:
 
 3. Ramingen van inkomsten en uitgaven worden in hoofdstukken verdeeld. Overboekingen binnen de begroting zijn niet toegestaan behalve met machtiging van de Financiële Commissie bedoeld in artikel 3. De nauwkeurige vorm van de ramingen wordt bepaald door de Financiële Commissie op advies van de Directeur.
 
-#### Artikel 2. Aanvullende begroting
+##### Artikel 2. Aanvullende begroting
 
 Indien de omstandigheden zulks nodig maken kan de Raad de Directeur verzoeken een aanvullende of een herziene begroting in te dienen. Een besluit dat extra uitgaven met zich medebrengt wordt niet geacht door de Raad te zijn goedgekeurd, tenzij de Raad eveneens een door de Directeur ingediende raming van de daaruit voortvloeiende uitgaven heeft goedgekeurd.
 
-#### Artikel 3. Financiële Commissie
+##### Artikel 3. Financiële Commissie
 
 De Raad stelt een Financiële Commissie in, bestaande uit vertegenwoordigers van alle Lid-Staten; de bevoegdheden van deze vertegenwoordigers worden bepaald in het in artikel 8 van dit Protocol bedoelde Financiële Reglement. De Directeur legt de ramingen op de begroting aan de Commissie voor, waarna ze worden doorgezonden aan de Raad met het rapport dat de Commissie daaromtrent heeft uitgebracht.
 
-#### Artikel 4. Bijdragen
+##### Artikel 4. Bijdragen
 
 1. Voor het tijdvak dat eindigt op 31 december van het jaar waarin het Verdrag in werking treedt, stelt de Raad voorlopige ramingen op de begroting vast; de uitgaven worden bestreden uit de overeenkomstig de bepalingen van de Bijlage bij dit Protocol vastgestelde bijdragen.
 
@@ -222,17 +244,17 @@ De Raad stelt een Financiële Commissie in, bestaande uit vertegenwoordigers van
 
 - b). De Directeur stelt daarna de Lid-Staten in kennis van de omvang van hun bijdragen en van de data waarop de betalingen dienen plaats te vinden.
 
-#### Artikel 5. Valuta waarin de bijdragen dienen te worden betaald
+##### Artikel 5. Valuta waarin de bijdragen dienen te worden betaald
 
 1. De Raad bepaalt de valuta waarin de begroting van de Organisatie wordt uitgedrukt. In overeenstemming met de op het ogenblik van betaling van kracht zijnde betalingsregelingen worden de bijdragen van de Lid-Staten in die valuta betaald.
 
 2. De Raad kan echter eisen dat de Lid-Staten een gedeelte van hun bijdragen betalen in iedere andere valuta die de Organisatie nodig heeft om haar taken te vervullen.
 
-#### Artikel 6. Werkfonds
+##### Artikel 6. Werkfonds
 
 De Raad kan een werkfonds vormen.
 
-#### Artikel 7. Boekhouding en controle
+##### Artikel 7. Boekhouding en controle
 
 1. De Directeur doet alle ontvangsten en uitgaven boeken, alsmede een jaarbalans van de Organisatie opmaken.
 
@@ -240,7 +262,7 @@ De Raad kan een werkfonds vormen.
 
 3. De Directeur verschaft de financiële commissarissen alle inlichtingen en hulp die zij voor het vervullen van hun taak nodig hebben.
 
-#### Artikel 8. Financieel Reglement
+##### Artikel 8. Financieel Reglement
 
 Het Financiële Reglement regelt alle bijzonderheden ten aanzien van de begroting, de boekhouding en de financiën van de Organisatie.
 

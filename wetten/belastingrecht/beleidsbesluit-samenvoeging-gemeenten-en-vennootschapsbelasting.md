@@ -1,13 +1,38 @@
 ---
 title: "Beleidsbesluit samenvoeging gemeenten en vennootschapsbelasting"
 identifier: "BWBR0050219"
-categorie: "Belastingrecht"
-publicatiedatum: 2024-09-21
-laatste_update: 2024-09-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050219"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2024-09-21"
+last_updated: "2024-09-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050219"
+soort: "beleidsregel"
+stam_id: "17220853"
+version_id: "30330332"
+internal_id: "C43506151"
+label_id: "17126994"
+dtd_version: "2.0"
+original_entry_into_force: "2024-09-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050219/2024-09-21/0"
+intitule_bron: "Stcrt.2024-30073"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-09-11"
+intitule_published: "2024-09-20"
+intitule_in_force: "2024-09-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-30073"
+original_signed_date: "2024-09-11"
+original_published_date: "2024-09-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-30073"
+entry_into_force_date: "2024-09-21"
+jci_1_3: "jci1.3:c:BWBR0050219&z=2024-09-21&g=2024-09-21"
+jci_1_0: "1.0:c:BWBR0050219&g=2024-09-21"
+citeertitel_status: "officieel"
+signed_date: "2024-09-11"
+entry_into_force: "2024-09-21"
 ---
-
 # Beleidsbesluit samenvoeging gemeenten en vennootschapsbelasting
 
 **De Staatssecretaris van Financiën – Fiscaliteit en Belastingdienst, heeft het volgende besloten.**

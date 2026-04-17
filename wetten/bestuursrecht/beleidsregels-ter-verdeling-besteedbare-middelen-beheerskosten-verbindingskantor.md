@@ -1,13 +1,35 @@
 ---
 title: "Beleidsregels ter verdeling besteedbare middelen beheerskosten verbindingskantoren AWBZ 2013"
 identifier: "BWBR0032883"
-categorie: "Bestuursrecht"
-publicatiedatum: 2014-02-20
-laatste_update: 2014-02-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032883"
+country: "nl"
+rank: "zbo"
+publication_date: "2014-02-20"
+last_updated: "2014-02-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032883"
+soort: "zbo"
+stam_id: "12102283"
+version_id: "21237332"
+internal_id: "C30499331"
+label_id: "12073924"
+dtd_version: "2.0"
+original_entry_into_force: "2014-02-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032883/2014-02-20/0"
+intitule_bron: "Stcrt.2013-3112"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2013-02-11"
+intitule_in_force: "2013-02-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-4863"
+original_published_date: "2014-02-18"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2014-4863"
+entry_into_force_date: "2014-02-20"
+jci_1_3: "jci1.3:c:BWBR0032883&z=2014-02-20&g=2014-02-20"
+jci_1_0: "1.0:c:BWBR0032883&g=2014-02-20"
+citeertitel_status: "officieel"
+entry_into_force: "2014-02-20"
 ---
-
 # Beleidsregels ter verdeling besteedbare middelen beheerskosten verbindingskantoren AWBZ 2013
 
 gelet op [artikel 91, eerste lid, Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=91), [artikel 4.5 van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.5) en de [Aanwijzing besteedbare middelen beheerskosten AWBZ 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032800),
@@ -16,7 +38,7 @@ heeft in zijn vergadering van 21 januari 2013 besloten:
 
 #### § 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 Dit besluit verstaat onder:
 
@@ -28,7 +50,7 @@ Dit besluit verstaat onder:
 
 - d. **verbindingskantoor:** een verbindingskantoor als bedoeld in [artikel 1, onderdeel c, van het Administratiebesluit Bijzondere Ziektekostenverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0003585&artikel=1).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het college keert het voorlopig vastgestelde, het nader vastgestelde en het definitief vastgestelde beheerskostenbudget uit met inachtneming van de [Regeling voorschotverlening op uitkeringen AWBZ 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032880).
 
@@ -36,13 +58,13 @@ Dit besluit verstaat onder:
 
 #### § 2. Voorlopige vaststelling beheerskostenbudget 2013
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het college verdeelt in het jaar 2013 een bedrag van 162,406 miljoen euro aan besteedbare middelen beheerskosten over de verbindingskantoren.
 
 2. Het college stelt in januari 2013 voor ieder verbindingskantoor een voorlopig beheerskostenbudget vast ter bepaling van de besteedbare middelen voor de beheerskosten ten laste van het Algemeen Fonds Bijzondere Ziektekosten.
 
-#### Artikel 4
+##### Artikel 4
 
 Het college verdeelt het in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032883&paragraaf=2&artikel=3&z=2014-02-20&g=2014-02-20), genoemde totaalbedrag als volgt:
 
@@ -60,7 +82,7 @@ Het college verdeelt het in [artikel 3, eerste lid](https://wetten.overheid.nl/j
 
 - g. een bedrag van 0,278 miljoen euro voor de zorgkantoren die meewerken aan de Pilot trekkingsrechten PGB op basis van het aantal budgethouders per verbindingskantoor.
 
-#### Artikel 5
+##### Artikel 5
 
 Het college verdeelt het na toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032883&paragraaf=2&artikel=4&z=2014-02-20&g=2014-02-20) resterende bedrag als volgt:
 
@@ -68,7 +90,7 @@ Het college verdeelt het na toepassing van [artikel 4](https://wetten.overheid.n
 
 - b. 85% op basis van het aantal inwoners per 1 januari 2012 in de regio’s, waarvoor het verbindingskantoor als zodanig is aangewezen, waarbij inwoners die op die datum vijfenzestig jaar of ouder zijn, dubbel tellen. Voor de bepaling van het aantal inwoners, waaronder die van vijfenzestig jaar en ouder, gebruikt het college de gegevens van het Centraal Bureau voor de Statistiek.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De resultaten van de berekeningen volgens de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032883&paragraaf=2&artikel=4&z=2014-02-20&g=2014-02-20) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0032883&paragraaf=2&artikel=5&z=2014-02-20&g=2014-02-20) herrekent het college per regio.
 
@@ -78,7 +100,7 @@ Het college verdeelt het na toepassing van [artikel 4](https://wetten.overheid.n
 
 #### § 3. Definitieve vaststelling beheerskostenbudget 2013
 
-#### Artikel 7
+##### Artikel 7
 
 1. Uiterlijk in 2016 stelt het college het beheerskostenbudget AWBZ 2013 met toepassing van de [artikelen 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0032883&paragraaf=2&artikel=4&z=2014-02-20&g=2014-02-20) definitief vast met inachtneming van de beoordeling en correcties van de Nederlandse Zorgautoriteit. Het college doet dit op basis van:
 
@@ -94,17 +116,17 @@ Het college verdeelt het na toepassing van [artikel 4](https://wetten.overheid.n
 
 #### § 4. Slot
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
 #### § 5. Slot
 
-#### Artikel 9
+##### Artikel 9
 
 Deze beleidsregels treden in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin deze worden geplaatst, en werken terug tot en met 1 januari 2013.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit wordt aangehaald als: Beleidsregels ter verdeling besteedbare middelen beheerskosten verbindingskantoren AWBZ 2013.
 

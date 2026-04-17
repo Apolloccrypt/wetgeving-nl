@@ -1,13 +1,38 @@
 ---
 title: "Skal-Bijdragereglement"
 identifier: "BWBR0018852"
-categorie: "Overig"
-publicatiedatum: 2006-01-01
-laatste_update: 2006-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0018852"
+country: "nl"
+rank: "zbo"
+publication_date: "2006-01-01"
+last_updated: "2006-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0018852"
+soort: "zbo"
+stam_id: "7569023"
+version_id: "12458202"
+internal_id: "C16734151"
+label_id: "7556884"
+dtd_version: "2.0"
+original_entry_into_force: "2006-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0018852/2006-01-01/0"
+intitule_bron: "Stcrt.2005-221"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-10-11"
+intitule_published: "2005-11-14"
+intitule_in_force: "2005-11-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-221"
+original_signed_date: "2005-10-11"
+original_published_date: "2005-11-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2005-221-p24-SC72264"
+entry_into_force_date: "2006-01-01"
+jci_1_3: "jci1.3:c:BWBR0018852&z=2006-01-01&g=2006-01-01"
+jci_1_0: "1.0:c:BWBR0018852&g=2006-01-01"
+citeertitel_status: "officieel"
+signed_date: "2005-10-11"
+entry_into_force: "2006-01-01"
 ---
-
 # Skal-Bijdragereglement
 
 Dit reglement is door het Bestuur van Stichting Skal vastgesteld op 11 oktober 2005 en is geldig met ingang van 1 januari 2006.

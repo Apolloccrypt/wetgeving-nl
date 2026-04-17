@@ -1,13 +1,37 @@
 ---
 title: "Verordening op de kosten kwaliteitsbeoordelingen"
 identifier: "BWBR0039810"
-categorie: "Overig"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039810"
+country: "nl"
+rank: "pbo"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039810"
+soort: "pbo"
+stam_id: "14076513"
+version_id: "29468612"
+internal_id: "C42140891"
+label_id: "14037524"
+dtd_version: "2.0"
+original_entry_into_force: "2024-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039810/2024-01-01/0"
+intitule_bron: "Stcrt.2017-40921"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2017-07-19"
+intitule_in_force: "2017-07-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-17046"
+original_signed_date: "2023-06-12"
+original_published_date: "2023-06-20"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2023-17046"
+entry_into_force_date: "2024-01-01"
+jci_1_3: "jci1.3:c:BWBR0039810&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0039810&g=2024-01-01"
+citeertitel_status: "officieel"
+signed_date: "2023-06-12"
+entry_into_force: "2024-01-01"
 ---
-
 # Verordening op de kosten kwaliteitsbeoordelingen
 
 Gelet op de [artikelen 19, eerste lid en 19, tweede lid, onderdeel h van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=19);
@@ -20,7 +44,7 @@ Stelt de volgende verordening vast:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van deze verordening wordt verstaan onder:
 
@@ -48,13 +72,13 @@ Voor de toepassing van deze verordening wordt verstaan onder:
 
 - **vrijstellingsverzoek:** verzoek als bedoeld in [artikel 25 van de Verordening op de kwaliteitsbeoordelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0039808&artikel=25).
 
-#### Artikel 2
+##### Artikel 2
 
 De in deze verordening opgenomen tarieven en vergoedingen gelden exclusief omzetbelasting.
 
 ### Hoofdstuk 2. Vergoeding kwaliteitsbeoordelingen
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het bestuur brengt ter vergoeding van de kosten bedoeld in [artikel 30, tweede lid van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=30) een tarief in rekening volgens de tarieventabel in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&bijlage=1&z=2024-01-01&g=2024-01-01):
 
@@ -90,7 +114,7 @@ De in deze verordening opgenomen tarieven en vergoedingen gelden exclusief omzet
 
 5. Het bestuur maakt met de koepelorganisatie, die om accreditatie verzoekt, afspraken over de aan het onderzoek te besteden uren door de toetsers en de toetser optredend als teamleider.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De categorieën, bedoeld in [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=2&artikel=3&z=2024-01-01&g=2024-01-01), zijn:
 
@@ -126,13 +150,13 @@ De in deze verordening opgenomen tarieven en vergoedingen gelden exclusief omzet
 
 4. Voor de toepassing van het eerste lid geldt als peildatum voor de vaststelling van het aantal accountants dat werkzaam is bij of verbonden is aan een accountantseenheid 31 december van het kalenderjaar dat voorafgaat aan het kalenderjaar waarin de accountantseenheid voor een toetsing of een hertoetsing wordt aangewezen.
 
-#### Artikel 5
+##### Artikel 5
 
 Het tarief, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=2&artikel=3&z=2024-01-01&g=2024-01-01), wordt opgelegd bij wege van een factuur.
 
 ### Hoofdstuk 3. Vergoeding toetsers
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het bestuur kent de toetsers een vergoeding toe volgens de vergoedingentabel in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&bijlage=2&z=2024-01-01&g=2024-01-01) voor:
 
@@ -154,7 +178,7 @@ Het tarief, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR00398
 
 4. Tol- en veergelden worden geacht te zijn begrepen in de reiskostenvergoeding.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het bestuur kent de vergoeding, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=3&artikel=6&z=2024-01-01&g=2024-01-01) toe na het indienen van een factuur door de toetser.
 
@@ -162,11 +186,11 @@ Het tarief, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR00398
 
 ### Hoofdstuk 4. Aanpassing van tarieven
 
-#### Artikel 8
+##### Artikel 8
 
 De [Verordening op de kosten kwaliteitsbeoordelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0033785) (Staatscourant 2013, 23897) wordt ingetrokken.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Deze verordening treedt in werking op 1 januari 2018.
 
@@ -249,7 +273,7 @@ De [Verordening op de kosten kwaliteitsbeoordelingen](https://wetten.overheid.nl
 | 7. | De vergoeding bedraagt voor reistijd per kilometer boven de 100 kilometer retour reisafstand: | De vergoeding bedraagt voor reistijd per kilometer boven de 100 kilometer retour reisafstand: | De vergoeding bedraagt voor reistijd per kilometer boven de 100 kilometer retour reisafstand: | € 0,77 |
 | 8. | De vergoeding van parkeergelden bedraagt: | De vergoeding van parkeergelden bedraagt: | De vergoeding van parkeergelden bedraagt: | werkelijk gemaakte kosten |
 
-#### Artikel 7a
+##### Artikel 7a
 
 1. De in deze verordening opgenomen tarieven en vergoedingen, worden met ingang van 1 januari 2025 ieder jaar per 1 januari aangepast overeenkomstig de ontwikkeling van de consumentenprijsindex voor het kalenderjaar waarop de aanpassing betrekking heeft ten opzichte van deze index in het voorafgaande jaar.
 
@@ -358,7 +382,7 @@ De [Verordening op de kosten kwaliteitsbeoordelingen](https://wetten.overheid.nl
 | a. door een toetser: | € 140,– |
 | b. door een toetser optredend als teamleider: | € 184,– |
 
-#### Artikel 3a
+##### Artikel 3a
 
 1. De hoogte van het in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=2&artikel=3&z=2024-01-01&g=2024-01-01), bedoelde tarief per verrichte toetsing wordt berekend op basis van de categorie waarin de accountantseenheid wordt ingedeeld.
 

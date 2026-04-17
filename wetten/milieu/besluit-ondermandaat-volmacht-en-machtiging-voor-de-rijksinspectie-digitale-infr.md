@@ -1,13 +1,39 @@
 ---
-title: "Besluit ondermandaat, volmacht en machtiging voor de Rijksinspectie Digitale Infrastructuur van het Ministerie van Economische Zaken en Klimaat"
+title: "Besluit van de inspecteur-generaal van de Rijksinspectie Digitale Infrastructuur van 22 november 2022, betreffende verlening van ondermandaat, volmacht en machtiging aan de Rijksinspectie Digitale Infrastructuur van het Ministerie van Economische Zaken en Klimaat (Besluit ondermandaat, volmacht en machtiging Rijksinspectie Digitale Infrastructuur van het Ministerie van Economische Zaken en Klimaat)"
 identifier: "BWBR0047538"
-categorie: "Milieu"
-publicatiedatum: 2024-08-30
-laatste_update: 2024-08-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047538"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-08-30"
+last_updated: "2024-08-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047538"
+soort: "ministeriele-regeling"
+stam_id: "16579243"
+version_id: "29070002"
+internal_id: "C41322261"
+label_id: "16498964"
+dtd_version: "2.0"
+original_entry_into_force: "2023-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047538/2024-08-30/0"
+intitule_bron: "Stcrt.2022-32145"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-11-22"
+intitule_published: "2022-11-30"
+intitule_in_force: "2022-11-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-32145"
+original_signed_date: "2022-11-22"
+original_published_date: "2022-11-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-32145"
+entry_into_force_date: "2023-01-01"
+jci_1_3: "jci1.3:c:BWBR0047538&z=2024-08-30&g=2024-08-30"
+jci_1_0: "1.0:c:BWBR0047538&g=2024-08-30"
+citeertitel_status: "officieel"
+short_title: "Besluit ondermandaat, volmacht en machtiging voor de Rijksinspectie Digitale Infrastructuur van het Ministerie van Economische Zaken en Klimaat"
+signed_date: "2022-11-22"
+entry_into_force: "2023-01-01"
 ---
-
 # Besluit van de inspecteur-generaal van de Rijksinspectie Digitale Infrastructuur van 22 november 2022, betreffende verlening van ondermandaat, volmacht en machtiging aan de Rijksinspectie Digitale Infrastructuur van het Ministerie van Economische Zaken en Klimaat (Besluit ondermandaat, volmacht en machtiging Rijksinspectie Digitale Infrastructuur van het Ministerie van Economische Zaken en Klimaat)
 
 Gelet op [artikel 19, eerste en derde lid, van het Besluit mandaat, volmacht en machtiging EZK 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041776&artikel=19);
@@ -18,7 +44,7 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -44,7 +70,7 @@ In dit besluit wordt verstaan onder:
 
 - f. **de machtigingenbeheerders eHerkenningsmiddelen:** de machtigingenbeheerders eHerkenningsmiddelen van de Rijksinspectie Digitale Infrastructuur van het Ministerie van Economische Zaken en Klimaat;
 
-#### Artikel 2
+##### Artikel 2
 
 Aan de inspecteur-generaal is voorbehouden: het nemen van besluiten, het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van andere handelingen dan een besluit of een privaatrechtelijke rechtshandeling betreffende de volgende aangelegenheden:
 
@@ -52,7 +78,7 @@ Aan de inspecteur-generaal is voorbehouden: het nemen van besluiten, het verrich
 
 - b. die door een directeur aan de inspecteur-generaal ter afhandeling worden voorgelegd, tenzij zij naar het oordeel van de inspecteur-generaal door een andere directeur moeten worden behandeld.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Aan de directeuren wordt, ieder voor zich, mandaat, volmacht en machtiging verleend voor aangelegenheden op hun werkterrein, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 250.000 per verplichting niet te boven gaat.
 
@@ -78,7 +104,7 @@ Aan de inspecteur-generaal is voorbehouden: het nemen van besluiten, het verrich
 
 - d. het opdragen van tijdelijke andere werkzaamheden.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Aan de teammanagers wordt, ieder voor zich, mandaat volmacht en machtiging verleend voor aangelegenheden op hun werkterrein, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 10.000 per verplichting niet te boven gaat.
 
@@ -94,11 +120,11 @@ Aan de inspecteur-generaal is voorbehouden: het nemen van besluiten, het verrich
 
 - e. het accorderen van aanvragen voor dienstreizen en het goedkeuren van reiskostendeclaraties binnen de Europese Unie.
 
-#### Artikel 5
+##### Artikel 5
 
 Aan de CIO wordt mandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 10.000 per verplichting niet te boven gaat.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Aan de teammanager Juridische Zaken, wordt mandaat, volmacht en machtiging verleend voor:
 
@@ -116,7 +142,7 @@ Aan de CIO wordt mandaat, volmacht en machtiging verleend voor aangelegenheden o
 
 3. Aan de juristen werkzaam bij het team Juridische Zaken wordt, ieder voor zich, machtiging verleend tot vertegenwoordiging bij bestuursrechtelijke geschillen. Tevens zijn zij bevoegd om voor de behandeling van een geschil één of meer personen als medegemachtigde te introduceren.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Aan de coördinerend jurist, belast met de werkzaamheden behorend bij het cluster Interventies en Wet open overheid, wordt mandaat, volmacht en machtiging verleend voor het nemen van primaire sanctiebesluiten en het nemen van primaire besluiten op verzoeken ingevolge de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754).
 
@@ -128,15 +154,15 @@ Aan de CIO wordt mandaat, volmacht en machtiging verleend voor aangelegenheden o
 
 3. De teammanager Juridische Zaken kan met betrekking tot de besluiten als bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047538&paragraaf=1&artikel=6&z=2024-08-30&g=2024-08-30), geen instructies geven aan de coördinerend jurist als bedoeld in het eerste lid.
 
-#### Artikel 8
+##### Artikel 8
 
 Aan de teammanager Caribisch Nederland wordt mandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein.
 
-#### Artikel 9
+##### Artikel 9
 
 Aan de senior inspecteur van het kantoor van de Rijksinspectie Digitale Infrastructuur te Bonaire wordt mandaat, volmacht en machtiging verleend voor aangelegenheden die verband houden met het aanschaffen van kantoorbenodigdheden voor die vestiging van de Rijksinspectie, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 5.000 per verplichting niet te boven gaat.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Aan de machtigingenbeheerders eHerkenningsmiddelen wordt, ieder voor zich, volmacht en machtiging verleend voor aangelegenheden die verband houden met het aanschaffen, uitgeven en beheren van eHerkenningsmiddelen en het daarmee autoriseren van medewerkers tot het afnemen van digitale overheidsdiensten, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 5.000 per verplichting niet te boven gaat.
 
@@ -144,7 +170,7 @@ Aan de senior inspecteur van het kantoor van de Rijksinspectie Digitale Infrastr
 
 #### § 2. Vervanging
 
-#### Artikel 11
+##### Artikel 11
 
 1. De uit dit besluit voor de directeuren, de teammanagers en de coördinerend juristen voortvloeiende bevoegdheden gaan in geval van hun afwezigheid over op hun plaatsvervangers.
 
@@ -152,7 +178,7 @@ Aan de senior inspecteur van het kantoor van de Rijksinspectie Digitale Infrastr
 
 #### § 3. Slotbepalingen
 
-#### Artikel 12
+##### Artikel 12
 
 1. Het krachtens mandaat, volmacht of machtiging ondertekenen van stukken geschiedt als volgt:
 
@@ -180,10 +206,10 @@ Dit bericht is automatisch gegenereerd en bevat daarom geen handtekening.
 
 3. In uitzondering op het tweede lid kan een automatisch gegenereerd stuk ook met een handtekening worden ondertekend. De ondertekening geschiedt dan zoals genoemd in het eerste lid.
 
-#### Artikel 13
+##### Artikel 13
 
 Dit besluit treedt in werking op 1 januari 2023.
 
-#### Artikel 14
+##### Artikel 14
 
 Dit besluit wordt aangehaald als: Besluit ondermandaat, volmacht en machtiging voor de Rijksinspectie Digitale Infrastructuur van het Ministerie van Economische Zaken en Klimaat.

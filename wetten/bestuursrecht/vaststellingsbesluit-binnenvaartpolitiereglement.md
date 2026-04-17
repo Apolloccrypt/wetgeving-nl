@@ -1,13 +1,39 @@
 ---
-title: "Vaststellingsbesluit Binnenvaartpolitiereglement"
+title: "Besluit van 26 oktober 1983, tot vaststelling van een reglement houdende bepalingen ter voorkoming van aanvaring of aandrijving op de openbare wateren in het Rijk, die voor de scheepvaart openstaan"
 identifier: "BWBR0003627"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003627"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003627"
+soort: "AMvB"
+stam_id: "3124913"
+version_id: "11039042"
+internal_id: "C14938031"
+label_id: "3089324"
+dtd_version: "2.0"
+original_entry_into_force: "2004-11-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003627/2025-01-01/0"
+intitule_bron: "Stb.1983-682"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1983-10-26"
+intitule_published: "1984-01-19"
+intitule_in_force: "1984-02-08"
+intitule_status: "goed"
+original_publication: "Stb.2004-603"
+original_signed_date: "2004-11-17"
+original_published_date: "2004-11-30"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2004-603"
+entry_into_force_date: "2004-11-17"
+jci_1_3: "jci1.3:c:BWBR0003627&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0003627&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Vaststellingsbesluit Binnenvaartpolitiereglement"
+signed_date: "2004-11-17"
+entry_into_force: "2004-11-17"
 ---
-
 # Besluit van 26 oktober 1983, tot vaststelling van een reglement houdende bepalingen ter voorkoming van aanvaring of aandrijving op de openbare wateren in het Rijk, die voor de scheepvaart openstaan
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 5 april 1983, nr. RRV 16 895, Hoofddirectie van de Waterstaat, Hoofdafdeling Bestuurlijke en Juridische Zaken, mede namens Onze Minister van Justitie;
@@ -22,11 +48,11 @@ Gezien het nader rapport van Onze Minister van Verkeer en Waterstaat van 12 okto
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 Vastgesteld wordt een reglement houdende bepalingen ter voorkoming van aanvaring of aandrijving op de openbare wateren in het Rijk, die voor de scheepvaart openstaan, met de daarbij behorende bijlagen, dat is gevoegd bij dit besluit, en dat wordt aangehaald als " Binnenvaartpolitiereglement".
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het [Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628) geldt op de openbare wateren in het Rijk, die voor de scheepvaart openstaan, met uitzondering van:
 
@@ -82,11 +108,11 @@ De coördinaten zijn uitgedrukt in lengte en breedte volgens het World Geodetic 
 
 3. In afwijking van het eerste lid gelden de [artikelen 1.01, onder A, 16°, 17° en 18°](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=1.01), [1.09, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=1.09), 8.01 tot en met 8.08, [9.04](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=9.04) en [9.05 van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=9.05) tevens op de Boven-Rijn, de Waal, het Pannerdensch Kanaal, de Neder-Rijn en de Lek, en op de daaraan gelegen havens, laad- en losplaatsen en recreatieplassen.
 
-#### Artikel 3
+##### Artikel 3
 
 In dit besluit wordt verstaan onder Onze Minister: Onze Minister van Infrastructuur en Milieu.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Onze Minister stelt de voorschriften en de nadere regels vast, bedoeld in de [artikelen 1.01, aanhef en onder C, onderdelen 3° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=1.01), [4.06, eerste lid, onder a, en derde lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=4.06)[6.32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=6.32), [9.02, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=9.02), [9.07, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=9.07), en [10.02, eerste lid, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=10.02).
 
@@ -98,7 +124,7 @@ In dit besluit wordt verstaan onder Onze Minister: Onze Minister van Infrastruct
 
 5. Onze Minister wijst de categorieën van schepen aan, bedoeld in [artikel 4.06, vierde lid, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=4.06).
 
-#### Artikel 5
+##### Artikel 5
 
 1. In het [Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628) wordt onder de bevoegde autoriteit verstaan:
 
@@ -110,33 +136,33 @@ In dit besluit wordt verstaan onder Onze Minister: Onze Minister van Infrastruct
 
 2. In de volgende bepalingen van het [Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628) worden onder de bevoegde autoriteit eveneens verstaan de ambtenaren van politie die zijn aangesteld voor de uitvoering van de politietaak: [artikelen 1.10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=1.10), [1.12, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=1.12), [1.13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=1.13), [1.14](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=1.14), [1.15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=1.15), [1.17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=1.17), [1.20](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=1.20), [6.19, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=6.19), en [7.02, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=7.02).
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 De besluiten en aanwijzingen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003627&artikel=4&z=2025-01-01&g=2025-01-01) en [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0003627&artikel=5&z=2025-01-01&g=2025-01-01), worden in de **Staatscourant** geplaatst, de aanwijzingen, bedoeld in artikel 5, eerste lid, onderdeel b, in het publicatieblad, bedoeld in [artikel 2 van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=2), van het openbaar lichaam waartoe het aanwijzende orgaan behoort en de aanwijzingen, bedoeld in artikel 5, eerste lid, onderdeel c, in het gemeenteblad.
 
-#### Artikel 7a
+##### Artikel 7a
 
 Overtreding van de bepalingen van het [Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628), dan wel overtreding van de aan een aanwijzing van de bevoegde autoriteit verbonden voorwaarden, of de aan een vergunning, vrijstelling of ontheffing verbonden voorwaarden of voorschriften, is een strafbaar feit.
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit treedt in werking op een door Ons te bepalen tijdstip.
 
 Wij kunnen andere tijdstippen vaststellen waarop verschillende artikelen of onderdelen van artikelen van dit besluit, dan wel verschillende artikelen of onderdelen van artikelen van het Binnenvaartpolitiereglement, in werking treden.
 
-#### Artikel 11
+##### Artikel 11
 
 Dit besluit kan worden aangehaald als "Vaststellingsbesluit Binnenvaartpolitiereglement".
 
@@ -146,7 +172,7 @@ Dit besluit kan worden aangehaald als "Vaststellingsbesluit Binnenvaartpolitiere
 
 Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting en de bijlage bij deze laatste, alsmede het bij dit besluit gevoegde Binnenvaartpolitiereglement in het **Staatsblad** zullen worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Een wijziging van [richtlijn nr. 2002/59/EG](32002L0059) van het Europees Parlement en de Raad van de Europese Unie van 27 juni 2002 betreffende de invoering van een communautair monitoring- en informatiesysteem voor de zeescheepvaart en tot intrekking van [richtlijn 93/75/EEG](31993L0075) van de Raad (PbEG L 208), gaat voor de toepassing van het [Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628) gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 

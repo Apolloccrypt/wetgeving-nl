@@ -1,13 +1,38 @@
 ---
 title: "Overeenkomst ter uitvoering van artikel 45, eerste lid, van de Aanvullende Overeenkomst van 3 augustus 1959, zoals gewijzigd bij de Overeenkomsten van 21 oktober 1971, 18 mei 1981 en 18 maart 1993, bij het Verdrag tussen de Staten die partij zijn bij het Noordatlantisch Verdrag nopens de rechtspositie van hun krijgsmachten, met betrekking tot de in Duitsland gestationeerde buitenlandse krijgsmachten"
 identifier: "BWBV0001206"
-categorie: "Internationaal recht"
-publicatiedatum: 1998-03-29
-laatste_update: 1998-03-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001206"
+country: "nl"
+rank: "verdrag"
+publication_date: "1998-03-29"
+last_updated: "1998-03-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001206"
+soort: "verdrag"
+stam_id: "10002103293"
+version_id: "10002201472"
+internal_id: "C10006977691"
+label_id: "10002093504"
+dtd_version: "2.0"
+original_entry_into_force: "1998-03-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001206/1998-03-29/0"
+intitule_bron: "Trb.1993-151"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-12-08"
+intitule_published: "1993-10-21"
+intitule_in_force: "1996-11-29"
+intitule_status: "goed"
+original_publication: "Trb.1993-151"
+original_signed_date: "1995-12-08"
+original_published_date: "1993-10-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1993-151"
+entry_into_force_date: "1998-03-29"
+jci_1_3: "jci1.3:c:BWBV0001206&z=1998-03-29&g=1998-03-29"
+jci_1_0: "1.0:c:BWBV0001206&g=1998-03-29"
+citeertitel_status: "redactioneel"
+signed_date: "1995-12-08"
+entry_into_force: "1998-03-29"
 ---
-
 # Overeenkomst ter uitvoering van artikel 45, eerste lid, van de Aanvullende Overeenkomst van 3 augustus 1959, zoals gewijzigd bij de Overeenkomsten van 21 oktober 1971, 18 mei 1981 en 18 maart 1993, bij het Verdrag tussen de Staten die partij zijn bij het Noordatlantisch Verdrag nopens de rechtspositie van hun krijgsmachten, met betrekking tot de in Duitsland gestationeerde buitenlandse krijgsmachten
 
 Ter uitvoering van artikel 45, eerste lid, van de Aanvullende Overeenkomst van 3 augustus 1959, zoals gewijzigd bij de Overeenkomsten van 21 oktober 1971, 18 mei 1981 en 18 maart 1993, bij het Verdrag tussen de Staten die Partij zijn bij het Noordatlantisch Verdrag nopens de rechtspositie van hun krijgsmachten, met betrekking tot de in Duitsland gestationeerde buitenlandse krijgsmachten (hierna te noemen de „Aanvullende Overeenkomst"),
@@ -18,7 +43,7 @@ het volgende overeengekomen:
 
 ## DEEL I. Procedure voor de indiening van jaarprogramma's voor manoeuvres en andere oefeningen
 
-#### Artikel 1
+##### Artikel 1
 
 1. De autoriteiten van een krijgsmacht dienen bij de Bondsminister van Defensie, met afschriften aan de desbetreffende Military District Commands voor de coördinering qua plaats en tijd, uiterlijk 1 april van elk kalenderjaar hun jaarprogramma's voor manoeuvres en andere oefeningen voor het volgende kalenderjaar in, waaraan eenheden deelnemen met een sterkte van ten minste een brigade in geval van tactische oefeningen met troepen, of van meer dan 1500 manschappen in geval van tactische oefeningen zonder troepen. Er dient naar te worden gestreefd in de jaarprogramma's manoeuvres en andere oefeningen op te nemen van eenheden met een sterkte van ten minste een bataljon/regiment in geval van tactische oefeningen met troepen, of van ten hoogste 1500 manschappen in geval van tactische oefeningen zonder troepen. De in te dienen programma's moeten de volgende informatie bevatten:
 
@@ -34,11 +59,11 @@ het volgende overeengekomen:
 
 2. De in het eerste lid van dit artikel genoemde datum (1 april van elk jaar) wordt opnieuw getoetst zodra voldoende ervaring is opgedaan.
 
-#### Artikel 2
+##### Artikel 2
 
 Wanneer zij de jaarprogramma's voor manoeuvres en andere oefeningen indienen, stellen de autoriteiten van een krijgsmacht de Bondsminister van Defensie in kennis van de eenheden met een sterkte van ten minste een bataljon/regiment in geval van tactische oefeningen met troepen of van ten minste 600 manschappen in geval van tactische oefeningen zonder troepen, die voor manoeuvres en andere oefeningen naar de Bondsrepubliek worden overgebracht. De Bondsminister van Defensie stelt de autoriteiten van een krijgsmacht in kennis van de beslissing van de bevoegde Duitse autoriteiten, te zamen met de beslissing inzake de jaarprogramma's voor manoeuvres en andere oefeningen. Ingeval afwijzend wordt beslist, worden de redenen hiervoor medegedeeld aan de autoriteiten van een krijgsmacht.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De Bondsminister van Defensie neemt uiterlijk 15 juli van elk jaar een beslissing over de jaarprogramma's voor manoeuvres en andere oefeningen in het volgende kalenderjaar, daarbij de door de Duitse autoriteiten naar voren gebrachte standpunten in aanmerking nemend. Ingeval afwijzend wordt beslist, worden de redenen hiervoor medegedeeld aan de autoriteiten van een krijgsmacht.
 
@@ -46,7 +71,7 @@ Wanneer zij de jaarprogramma's voor manoeuvres en andere oefeningen indienen, st
 
 ## DEEL II. Procedure voor de kennisgeving en coördinering van manoeuvres en andere oefeningen
 
-#### Artikel 4
+##### Artikel 4
 
 1. De autoriteiten van een krijgsmacht delen zo spoedig mogelijk de plannen voor het uitvoeren van manoeuvres en andere oefeningen, met inbegrip van die welke in de jaarprogramma's zijn vervat, gelijktijdig mede aan de betrokken Military District Commands, de betrokken Military District Offices of Defence Administration en de autoriteiten van de betrokken deelstaten van de Bondsrepubliek:
 
@@ -62,13 +87,13 @@ Wanneer zij de jaarprogramma's voor manoeuvres en andere oefeningen indienen, st
 
 4. Op verzoek van de autoriteiten van een krijgsmacht kunnen de bevoegde Duitse militaire autoriteiten overeenkomsten sluiten met de onderscheiden autoriteiten van de deelstaten van de Bondsrepubliek inzake vereenvoudigde procedures voor de kennisgeving van oefeningen. Lokale oefeningsregelingen op garnizoensniveau kunnen door de autoriteiten van een krijgsmacht en de bevoegde plaatselijke autoriteiten worden getroffen. Het bevoegde Military Region Command wordt hiervan in kennis gesteld.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Bij manoeuvres en andere oefeningen die een krijgsmacht te zamen met andere krijgsmachten of met de Duitse strijdkrachten uitvoert, delen de autoriteiten van de krijgsmacht die de leiding heeft over de manoeuvre of de andere oefening de plannen voor de uitvoering van de manoeuvre of de andere oefening mede aan de in artikel 4 genoemde autoriteiten.
 
 2. Voor manoeuvres en andere oefeningen die worden uitgevoerd onder leiding van de autoriteiten van de Noordatlantische Verdragsorganisatie of de autoriteiten van multinationale krijgsmachten worden afzonderlijke overeenkomsten gesloten.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De autoriteiten van een krijgsmacht stellen het bevoegde Military Region Command binnen 12 uur na afkondiging van het alarm in kennis van alarmoefeningen. Daarbij dient te worden medegedeeld:
 
@@ -82,11 +107,11 @@ Wanneer zij de jaarprogramma's voor manoeuvres en andere oefeningen indienen, st
 
 3. Als alarmoefeningen worden beschouwd oefeningen die zijn bedoeld als onaangekondigde controle op maatregelen ter vergroting, opbouw en handhaving van de paraatheid van eenheden. Deze worden in het algemeen gehouden in de stationeringsplaats in vredestijd van de betrokken eenheid en eindigen aldaar of na verplaatsing naar verspreidingsgebieden in de nabijheid van die plaats.
 
-#### Artikel 7
+##### Artikel 7
 
 De Military District Commands bestuderen de plannen voor het uitvoeren van manoeuvres en andere oefeningen ten einde na te gaan of er sprake is van overlappingen qua tijd en plaats. Indien geen oplossing kan worden gevonden voor overlappingen, wordt een beslissing ter zake genomen door de Bondsminister van Defensie in geval van manoeuvres en andere oefeningen in het kader van de goedgekeurde jaarprogramma's, en in alle andere gevallen door de Military District Commands. In dit verband wordt naar behoren rekening gehouden met alle relevante omstandigheden.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De Duitse autoriteiten waaraan de plannen voor het uitvoeren van manoeuvres en andere oefeningen worden medegedeeld overeenkomstig artikel 4, eerste lid, stellen de autoriteiten van een krijgsmacht zo spoedig mogelijk, doch uiterlijk halverwege de termijn tussen de datum van indiening en de datum van aanvang van de manoeuvre of andere oefening, in kennis van eventuele bezwaren tegen deze plannen.
 
@@ -94,13 +119,13 @@ De Military District Commands bestuderen de plannen voor het uitvoeren van manoe
 
 ## DEEL III. Geschillenbeslechting
 
-#### Artikel 9
+##### Artikel 9
 
 Indien de autoriteiten van een krijgsmacht bezwaar maken tegen beslissingen inzake manoeuvres en andere oefeningen, wordt onmiddellijk getracht overeenstemming te bereiken door middel van gezamenlijk overleg met de Bondsminister van Defensie. Indien de autoriteiten van een krijgsmacht en de Bondsminister van Defensie niet binnen een passende termijn tot overeenstemming komen, is de in artikel 80A van de Aanvullende Overeenkomst voorgeschreven procedure van toepassing.
 
 ## DEEL IV. Slotbepalingen
 
-#### Artikel 10
+##### Artikel 10
 
 1. Deze Overeenkomst kan, na overleg met de andere Overeenkomstsluitende Partijen, worden gewijzigd of aangevuld door middel van een overeenkomst tussen de Regering van de Bondsrepubliek en de Regering van een andere Overeenkomstsluitende Partij. Bedoelde wijziging of aanvulling laat de bepalingen van deze Overeenkomst onverlet wat betreft de betrekkingen tussen de Bondsrepubliek en de andere Overeenkomstsluitende Partijen.
 
@@ -108,7 +133,7 @@ Indien de autoriteiten van een krijgsmacht bezwaar maken tegen beslissingen inza
 
 3. Deze Overeenkomst wordt vijf jaar na haar inwerkingtreding getoetst.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De ondertekenende Staten stellen de Regering van de Verenigde Staten van Amerika in kennis van het feit dat aan hun onderscheiden nationale vereisten voor de inwerkingtreding van deze Overeenkomst is voldaan. De Regering van de Verenigde Staten van Amerika stelt elke ondertekenende Staat in kennis van de datum van ontvangst van de laatste kennisgeving als bedoeld in de eerste volzin van dit lid.
 

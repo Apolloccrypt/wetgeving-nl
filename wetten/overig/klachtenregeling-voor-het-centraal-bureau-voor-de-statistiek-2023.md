@@ -1,13 +1,38 @@
 ---
 title: "Klachtenregeling voor het Centraal bureau voor de statistiek 2023"
 identifier: "BWBR0048403"
-categorie: "Overig"
-publicatiedatum: 2023-07-01
-laatste_update: 2023-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048403"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-07-01"
+last_updated: "2023-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048403"
+soort: "zbo"
+stam_id: "16804793"
+version_id: "29522952"
+internal_id: "C42208561"
+label_id: "16718464"
+dtd_version: "2.0"
+original_entry_into_force: "2023-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048403/2023-07-01/0"
+intitule_bron: "Stcrt.2023-19963"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-06-20"
+intitule_published: "2023-07-18"
+intitule_in_force: "2023-07-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-19963"
+original_signed_date: "2023-06-20"
+original_published_date: "2023-07-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-19963"
+entry_into_force_date: "2023-07-01"
+jci_1_3: "jci1.3:c:BWBR0048403&z=2023-07-01&g=2023-07-01"
+jci_1_0: "1.0:c:BWBR0048403&g=2023-07-01"
+citeertitel_status: "officieel"
+signed_date: "2023-06-20"
+entry_into_force: "2023-07-01"
 ---
-
 # Klachtenregeling voor het Centraal bureau voor de statistiek 2023
 
 Gelet op [hoofdstuk 9 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9) en [artikel 10 van de Beleidsregel van de Minister van Economische Zaken en Klimaat van 19 april, nr. WJZ/19207028, met betrekking tot de taakuitoefening van het Centraal bureau voor de statistiek (Beleidsregel taakuitoefening CBS)](https://wetten.overheid.nl/jci1.3:c:BWBR0043439&artikel=10) en de Handreiking Klachtafhandeling bij aanbesteden van 17 februari 2022;
@@ -18,7 +43,7 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Definities en verwijzingen
+##### Artikel 1. Definities en verwijzingen
 
 In deze regeling wordt verstaan onder:
 
@@ -50,13 +75,13 @@ In deze regeling wordt verstaan onder:
 
 - n. **Communicatieraad CBS:** de adviesraad voor CBS Communicatie en Nieuws geeft gevraagd en ongevraagd advies over de communicatie-uitingen van het CBS in de samenleving.
 
-#### Artikel 2. Toepassingsgebied
+##### Artikel 2. Toepassingsgebied
 
 Deze klachtenregeling is van toepassing op klachten die voortvloeien uit gedragingen van het CBS op grond van [hoofdstuk 9 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9), daaronder ook en meer specifiek begrepen de toepassing van de [Beleidsregel taakuitoefening CBS](https://wetten.overheid.nl/jci1.3:c:BWBR0043439) (BR) en [Regeling werkzaamheden derden CBS](https://wetten.overheid.nl/jci1.3:c:BWBR0043438) (MR), klachten met betrekking tot het CBS-publicatiebeleid en klachten met betrekking tot aanbestedingsprocedures.
 
 ### Hoofdstuk 2. Klachtencommissie BR en MR
 
-#### Artikel 3. Instelling Klachtencommissie BR en MR
+##### Artikel 3. Instelling Klachtencommissie BR en MR
 
 1. De directeur-generaal stelt ten behoeve van de afhandeling van klachten inzake [BR](https://wetten.overheid.nl/jci1.3:c:BWBR0043439) en [MR](https://wetten.overheid.nl/jci1.3:c:BWBR0043438) een klachtencommissie BR en MR in en benoemt naast een onafhankelijke voorzitter tenminste twee leden.
 
@@ -78,7 +103,7 @@ Deze klachtenregeling is van toepassing op klachten die voortvloeien uit gedragi
 
 7. De directeur-generaal kan gedurende het onderzoek en na overleg met de voorzitter van de klachtencommissie BR en MR, tijdelijke maatregelen treffen alsmede een specifiek onderzoek doen instellen. In dit laatste geval kan de directeur-generaal besluiten tot het opschorten van de termijn als genoemd in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0048403&hoofdstuk=2&artikel=3&z=2023-07-01&g=2023-07-01), eerste lid van deze regeling.
 
-#### Artikel 4. De secretaris
+##### Artikel 4. De secretaris
 
 1. De klachtencommissie BR en MR wordt bijgestaan door een secretaris, die werkzaam is bij het CBS en een juridische achtergrond heeft.
 
@@ -88,7 +113,7 @@ Deze klachtenregeling is van toepassing op klachten die voortvloeien uit gedragi
 
 ### Hoofdstuk 3. Interne klachtbehandeling
 
-#### Artikel 5. Mondelinge klachten
+##### Artikel 5. Mondelinge klachten
 
 1. Een mondelinge klacht kan worden ingediend bij het bestuursorgaan of bij een medewerker. Klachten ten aanzien van de [BR](https://wetten.overheid.nl/jci1.3:c:BWBR0043439) en [MR](https://wetten.overheid.nl/jci1.3:c:BWBR0043438), het CBS-publicatiebeleid en aanbestedingsprocedures kunnen alleen schriftelijk worden ingediend.
 
@@ -96,7 +121,7 @@ Deze klachtenregeling is van toepassing op klachten die voortvloeien uit gedragi
 
 3. De klachtenbehandelaar handelt de mondelinge klacht zo spoedig mogelijk doch uiterlijk binnen een termijn van vier weken af. Indien deze termijn niet haalbaar is, wordt de indiener verzocht de klacht schriftelijk in te dienen.
 
-#### Artikel 6. Schriftelijke klachten
+##### Artikel 6. Schriftelijke klachten
 
 1. Een schriftelijke klacht wordt ondertekend en bevat tenminste:
 
@@ -124,7 +149,7 @@ Deze klachtenregeling is van toepassing op klachten die voortvloeien uit gedragi
 
 5. Klachten in het kader van een aanbestedingsprocedures worden ingediend via KlachtenAfhandelingAanbesteden@cbs.nl.
 
-#### Artikel 7. Ontvangstbevestiging
+##### Artikel 7. Ontvangstbevestiging
 
 1. De klachtenbehandelaar bevestigt de ontvangst van de klacht schriftelijk uiterlijk binnen veertien dagen onder vermelding van de wijze waarop en de termijn waarbinnen de klacht zal worden behandeld.
 
@@ -136,7 +161,7 @@ Deze klachtenregeling is van toepassing op klachten die voortvloeien uit gedragi
 
 5. Indien de klacht inzake [BR](https://wetten.overheid.nl/jci1.3:c:BWBR0043439) en [MR](https://wetten.overheid.nl/jci1.3:c:BWBR0043438) in behandeling wordt genomen, worden de beklaagde en de directeur-generaal hiervan schriftelijk op de hoogte gesteld.
 
-#### Artikel 8. Buiten behandeling stellen
+##### Artikel 8. Buiten behandeling stellen
 
 1. Indien niet is voldaan aan het gestelde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048403&hoofdstuk=3&artikel=6&z=2023-07-01&g=2023-07-01) wordt de klager in de gelegenheid gesteld het verzuim binnen twee weken te herstellen. Is dan nog niet voldaan aan het gestelde in artikel 6 dan kan de klacht buiten behandeling worden gesteld.
 
@@ -144,13 +169,13 @@ Deze klachtenregeling is van toepassing op klachten die voortvloeien uit gedragi
 
 3. De klachtenbehandelaar informeert de klager zo spoedig mogelijk doch uiterlijk binnen vier weken na ontvangst van de klacht schriftelijk over het niet in behandeling nemen van de klacht.
 
-#### Artikel 9. Hoor en wederhoor
+##### Artikel 9. Hoor en wederhoor
 
 1. De klachtenbehandelaar stelt de klager, de beklaagde en eventuele betrokkenen in de gelegenheid mondeling te worden gehoord.
 
 2. Van het horen wordt zo nodig een verslag gemaakt.
 
-#### Artikel 10. Advies klachtencommissie BR en MR of Raad van advies/Communicatieraad
+##### Artikel 10. Advies klachtencommissie BR en MR of Raad van advies/Communicatieraad
 
 1. Uiterlijk zes weken na ontvangst van de klacht brengt de klachtencommissie BR en MR conform het bepaalde in [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048403&hoofdstuk=2&artikel=3&z=2023-07-01&g=2023-07-01), een gemotiveerd schriftelijk advies uit aan de directeur-generaal.
 
@@ -158,7 +183,7 @@ Deze klachtenregeling is van toepassing op klachten die voortvloeien uit gedragi
 
 3. De directeur-generaal kan bij klachten met betrekking tot het CBS-publicatiebeleid de Raad van advies van het CBS of de Communicatieraad CBS vragen om hem te adviseren over het concept oordeel.
 
-#### Artikel 11. Oordeel directeur-generaal
+##### Artikel 11. Oordeel directeur-generaal
 
 1. Uiterlijk vier weken na ontvangst van het advies van de klachtencommissie BR en MR informeert de directeur-generaal de klager en beklaagde schriftelijk en gemotiveerd over zijn oordeel.
 
@@ -168,7 +193,7 @@ Deze klachtenregeling is van toepassing op klachten die voortvloeien uit gedragi
 
 4. Eens per jaar worden de klachten, de adviezen en de besluiten besproken in de Raad van advies.
 
-#### Artikel 12. Schriftelijke afhandeling overige klachten
+##### Artikel 12. Schriftelijke afhandeling overige klachten
 
 1. Formeel schriftelijk afgehandelde klachten bevatten een weergave van de klacht, van de feiten die aan de beslissing ten grondslag liggen, een gemotiveerde stellingname met betrekking tot de klacht en een oordeel over de klacht in termen van gegrond, ongegrond, of deels gegrond.
 
@@ -178,7 +203,7 @@ Deze klachtenregeling is van toepassing op klachten die voortvloeien uit gedragi
 
 ### Hoofdstuk 4. Registratie en slotbepalingen
 
-#### Artikel 13. Jaaroverzicht
+##### Artikel 13. Jaaroverzicht
 
 1. Het CBS draagt zorg voor registratie van de bij hem ingediende schriftelijke klachten. De geregistreerde klachten, behalve de klachten inzake aanbestedingsprocedures worden jaarlijks gepubliceerd.
 
@@ -186,7 +211,7 @@ Deze klachtenregeling is van toepassing op klachten die voortvloeien uit gedragi
 
 3. Het CBS neemt inzake het CBS-publicatiebeleid in het jaarverslag op hoeveel klachten in het voorafgaande jaar zijn afgehandeld. Hierbij wordt opgenomen hoeveel klachten door individuen zijn ingediend, en hoeveel door instellingen of organisaties.
 
-#### Artikel 14. Inwerkingtreding
+##### Artikel 14. Inwerkingtreding
 
 1. Deze klachtenregeling treedt in werking op 1 juli 2023.
 
@@ -194,6 +219,6 @@ Deze klachtenregeling is van toepassing op klachten die voortvloeien uit gedragi
 
 3. Deze klachtenregeling zal in de Staatscourant worden gepubliceerd.
 
-#### Artikel 15. Citeertitel
+##### Artikel 15. Citeertitel
 
 Dit besluit wordt aangehaald als: Klachtenregeling voor het Centraal bureau voor de statistiek 2023.

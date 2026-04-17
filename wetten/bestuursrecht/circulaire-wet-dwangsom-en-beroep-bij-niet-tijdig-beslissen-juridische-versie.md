@@ -1,13 +1,38 @@
 ---
 title: "Circulaire Wet dwangsom en beroep bij niet tijdig beslissen (juridische versie)"
 identifier: "BWBR0042026"
-categorie: "Bestuursrecht"
-publicatiedatum: 2019-03-01
-laatste_update: 2019-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042026"
+country: "nl"
+rank: "circulaire"
+publication_date: "2019-03-01"
+last_updated: "2019-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042026"
+soort: "circulaire"
+stam_id: "15032343"
+version_id: "25753822"
+internal_id: "C36728891"
+label_id: "14982034"
+dtd_version: "2.0"
+original_entry_into_force: "2019-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042026/2019-03-01/0"
+intitule_bron: "Stcrt.2019-13178"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-01-07"
+intitule_published: "2019-03-20"
+intitule_in_force: "2019-03-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-13178"
+original_signed_date: "2019-01-07"
+original_published_date: "2019-03-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-13178"
+entry_into_force_date: "2019-03-01"
+jci_1_3: "jci1.3:c:BWBR0042026&z=2019-03-01&g=2019-03-01"
+jci_1_0: "1.0:c:BWBR0042026&g=2019-03-01"
+citeertitel_status: "redactioneel"
+signed_date: "2019-01-07"
+entry_into_force: "2019-03-01"
 ---
-
 # Circulaire Wet dwangsom en beroep bij niet tijdig beslissen (juridische versie)
 
 Deze circulaire heeft als doel de [circulaire](https://wetten.overheid.nl/jci1.3:c:BWBR0035667) van 1 november 2014 (met kenmerk 2014-0000234272) te wijzigen. Deze wijzigingen betreffen aanpassingen van de bedragen van de dwangsom bij niet tijdig beslissen als gevolg van de indexering per 1 januari 2019 (Stcrt. 2018, nr. 65542). Daarnaast is per 1 oktober 2016 de [Wet dwangsom en beroep bij niet tijdig beslissen](https://wetten.overheid.nl/jci1.3:c:BWBR0026450) niet langer van toepassing op verzoeken op grond van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252) en [Wet hergebruik van overheidsinformatie](https://wetten.overheid.nl/jci1.3:c:BWBR0036795). De ingangsdatum van de onderhavige circulaire is 1 maart 2019. Per deze datum vervalt de circulaire van 1 november 2014.

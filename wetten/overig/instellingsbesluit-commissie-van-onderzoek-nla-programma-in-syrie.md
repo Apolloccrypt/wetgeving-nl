@@ -1,20 +1,46 @@
 ---
-title: "Instellingsbesluit Commissie van onderzoek NLA-programma in Syrië"
+title: "Besluit van de Minister van Buitenlandse Zaken van 23 maart 2021, nr. Min-Buza.2021.7678-22, houdende instelling van de Commissie van onderzoek inzake het Non Lethal Assistance (NLA) programma dat de Nederlandse regering van 2015 tot 2018 in Syrië heeft uitgevoerd (Instellingsbesluit Commissie van onderzoek NLA-programma in Syrië)"
 identifier: "BWBR0044978"
-categorie: "Overig"
-publicatiedatum: 2022-09-16
-laatste_update: 2022-09-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044978"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-09-16"
+last_updated: "2022-09-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044978"
+soort: "ministeriele-regeling"
+stam_id: "15908033"
+version_id: "27649862"
+internal_id: "C39009421"
+label_id: "15843364"
+dtd_version: "2.0"
+original_entry_into_force: "2021-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044978/2022-09-16/0"
+intitule_bron: "Stcrt.2021-15469"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-03-23"
+intitule_published: "2021-03-26"
+intitule_in_force: "2021-03-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-15469"
+original_signed_date: "2021-03-23"
+original_published_date: "2021-03-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-15469"
+entry_into_force_date: "2021-04-01"
+jci_1_3: "jci1.3:c:BWBR0044978&z=2022-09-16&g=2022-09-16"
+jci_1_0: "1.0:c:BWBR0044978&g=2022-09-16"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Commissie van onderzoek NLA-programma in Syrië"
+signed_date: "2021-03-23"
+entry_into_force: "2021-04-01"
 ---
-
 # Besluit van de Minister van Buitenlandse Zaken van 23 maart 2021, nr. Min-Buza.2021.7678-22, houdende instelling van de Commissie van onderzoek inzake het Non Lethal Assistance (NLA) programma dat de Nederlandse regering van 2015 tot 2018 in Syrië heeft uitgevoerd (Instellingsbesluit Commissie van onderzoek NLA-programma in Syrië)
 
 Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -22,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 - b. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044978&artikel=2&z=2022-09-16&g=2022-09-16).
 
-#### Artikel 2. Instelling en taak
+##### Artikel 2. Instelling en taak
 
 1. Er is een Commissie van onderzoek naar het Non Lethal Assistance (NLA) programma, dat de Nederlandse regering van 2015 tot 2018 in Syrië heeft uitgevoerd (Commissie van onderzoek NLA-programma in Syrië).
 
@@ -42,7 +68,7 @@ In dit besluit wordt verstaan onder:
 
 - c. uit het onderzoek lessen te trekken voor de toekomst.
 
-#### Artikel 3. Samenstelling, benoeming, ontslag
+##### Artikel 3. Samenstelling, benoeming, ontslag
 
 1. De commissie bestaat uit vier leden, waaronder een voorzitter.
 
@@ -54,7 +80,7 @@ In dit besluit wordt verstaan onder:
 
 5. De voorzitter en overige leden kunnen (op eigen verzoek of wegens ongeschiktheid, onbekwaamheid of op andere zwaarwegende gronden) worden geschorst en ontslagen door de minister.
 
-#### Artikel 4. Leden
+##### Artikel 4. Leden
 
 Tot lid van de commissie worden benoemd:
 
@@ -66,7 +92,7 @@ Tot lid van de commissie worden benoemd:
 
 - d. Prof. Dr. U.Ü. (Uğur) Üngör, Hoogleraar Universiteit van Amsterdam.
 
-#### Artikel 5. Instellingsduur
+##### Artikel 5. Instellingsduur
 
 1. De commissie wordt ingesteld met ingang van 1 april 2021 en wordt opgeheven per 1 maart 2023.
 
@@ -76,7 +102,7 @@ Tot lid van de commissie worden benoemd:
 
 4. De minister beslist over de eventuele verlenging van de termijn, bedoeld in het eerste lid, en brengt de commissie daarvan schriftelijk op de hoogte.
 
-#### Artikel 6. Secretariaat
+##### Artikel 6. Secretariaat
 
 1. De commissie wordt bij haar werkzaamheden ondersteund door een (extern) secretariaat, inclusief onderzoekers, met aan het hoofd de secretaris van de commissie.
 
@@ -88,7 +114,7 @@ Tot lid van de commissie worden benoemd:
 
 5. De secretaris en de medewerkers van het secretariaat zijn geen lid van de commissie.
 
-#### Artikel 7. Werkwijze
+##### Artikel 7. Werkwijze
 
 1. De commissie stelt een protocol vast over de wijze waarop zij het onderzoek uitvoert, waaronder in ieder geval over de wijze waarop zij personen hoort en daarvan verslag doet en op welke wijze de vertrouwelijkheid van informatie geborgd wordt.
 
@@ -96,7 +122,7 @@ Tot lid van de commissie worden benoemd:
 
 3. De commissie kan zich door andere personen doen bijstaan voor zover dat voor de vervulling van haar taak nodig is.
 
-#### Artikel 8. Inwinnen van inlichtingen
+##### Artikel 8. Inwinnen van inlichtingen
 
 1. De commissie is bevoegd zich voor het inwinnen van inlichtingen rechtstreeks te wenden tot personen en instellingen en hen te verzoeken die medewerking te verlenen die redelijkerwijs nodig is voor de uitvoering van het onderzoek.
 
@@ -108,11 +134,11 @@ Tot lid van de commissie worden benoemd:
 
 5. Op de leden van de commissie, de secretaris, de overige leden van het onderzoeksteam en de andere personen die de commissie bijstaan, rust een geheimhoudingsplicht met betrekking tot gemerkte en gerubriceerde gegevens als bedoeld in het vierde lid.
 
-#### Artikel 9. Vergoeding
+##### Artikel 9. Vergoeding
 
 De voorzitter en de andere leden voor zover niet vallend onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2), ontvangen een vaste vergoeding per maand, gebaseerd op salarisschaal 18, trede 10, van [bijlage I-B van de Arbeidsvoorwaardenovereenkomst sector Rijk 2018–2020](https://wetten.overheid.nl/jci1.3:c:BWBR0041311&bijlage=I-B). De arbeidsduurfactor voor de voorzitter is 16/36 en voor de andere leden 8/36.
 
-#### Artikel 10. Kosten
+##### Artikel 10. Kosten
 
 1. De kosten van de commissie komen, voor zover op basis van een goedgekeurde begroting, voor rekening van de minister. Onder kosten worden in ieder geval verstaan:
 
@@ -132,13 +158,13 @@ De voorzitter en de andere leden voor zover niet vallend onder de uitzondering v
 
 4. Bij de beëindiging van haar werkzaamheden legt de commissie over de financiën verantwoording af.
 
-#### Artikel 11. Eindrapport
+##### Artikel 11. Eindrapport
 
 1. Bij de beëindiging van haar werkzaamheden brengt de commissie een eindrapport uit aan de minister.
 
 2. Indien de commissie daartoe aanleiding ziet in de bevindingen van het onderzoek, pleegt zij tussentijds overleg met de minister.
 
-#### Artikel 12. Archiefbescheiden
+##### Artikel 12. Archiefbescheiden
 
 1. Het archief van de onderzoekscommissie wordt na afloop van de werkzaamheden van de commissie overgebracht naar het archief van het Ministerie van Buitenlandse Zaken, Directie Noord-Afrika en Midden-Oosten (DAM), afdeling Team 1, cluster Mashreq.
 
@@ -146,11 +172,11 @@ De voorzitter en de andere leden voor zover niet vallend onder de uitzondering v
 
 3. De verplichtingen inzake opslag, verwerking en vernietiging van gerubriceerde of gemerkte informatie worden in een separaat protocol vastgelegd.
 
-#### Artikel 13. Inwerkingtreding
+##### Artikel 13. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 april 2021.
 
-#### Artikel 14. Citeertitel
+##### Artikel 14. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie van onderzoek NLA-programma in Syrië.
 

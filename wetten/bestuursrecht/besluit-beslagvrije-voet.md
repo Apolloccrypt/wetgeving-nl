@@ -1,13 +1,39 @@
 ---
-title: "Besluit beslagvrije voet"
+title: "Besluit van 6 februari 2019, houdende regels in verband met de vereenvoudiging van de beslagvrije voet (Besluit beslagvrije voet)"
 identifier: "BWBR0041895"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041895"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041895"
+soort: "AMvB"
+stam_id: "14997163"
+version_id: "27590852"
+internal_id: "C38918661"
+label_id: "14947314"
+dtd_version: "2.0"
+original_entry_into_force: "2021-02-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041895/2026-01-01/0"
+intitule_bron: "Stb.2019-45"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-02-06"
+intitule_published: "2019-02-13"
+intitule_in_force: "2020-12-08"
+intitule_status: "goed"
+original_publication: "Stb.2021-115"
+original_signed_date: "2021-02-19"
+original_published_date: "2021-03-08"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2021-115"
+entry_into_force_date: "2021-02-19"
+jci_1_3: "jci1.3:c:BWBR0041895&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0041895&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit beslagvrije voet"
+signed_date: "2021-02-19"
+entry_into_force: "2021-02-19"
 ---
-
 # Besluit van 6 februari 2019, houdende regels in verband met de vereenvoudiging van de beslagvrije voet (Besluit beslagvrije voet)
 
 Op de voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 19 oktober 2018, nr. 2018001874;
@@ -20,7 +46,7 @@ Gezien het nader rapport van de Staatssecretaris van Sociale Zaken en Werkgelege
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -40,7 +66,7 @@ Hebben goedgevonden en verstaan:
 
 2. De in [artikel 475ab van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475ab) opgenomen begripsbepalingen zijn van toepassing op dit besluit en de daarop berustende bepalingen.
 
-#### Artikel 2. Belastbaar inkomen
+##### Artikel 2. Belastbaar inkomen
 
 1. Voor de berekening van het belastbaar inkomen wordt gebruikgemaakt van het loon LB/PH.
 
@@ -52,7 +78,7 @@ Hebben goedgevonden en verstaan:
 
 3. Als het aangiftetijdvak niet gelijk is aan een maand, wordt de uitkomst naar een maandinkomen herleid.
 
-#### Artikel 3. Reële afspiegeling belastbaar inkomen
+##### Artikel 3. Reële afspiegeling belastbaar inkomen
 
 1. Bij de beoordeling, bedoeld in [artikel 475d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475d), en [artikel 475db, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475db) wordt enkel het belastbaar inkomen in de aangiftetijdvakken betrokken:
 
@@ -64,7 +90,7 @@ Hebben goedgevonden en verstaan:
 
 3. Als het meest recente belastbaar maandinkomen van de inkomstenverhouding afwijkt van het gemiddelde belastbaar maandinkomen van deze inkomstenverhouding, wordt het gemiddelde belastbaar maandinkomen gebruikt voor de berekening van de beslagvrije voet.
 
-#### Artikel 4. Woning zonder huurtoeslag
+##### Artikel 4. Woning zonder huurtoeslag
 
 1. De ophoging, bedoeld in [artikel 475da, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475da) is afhankelijk van de woonkosten, waarbij:
 
@@ -80,7 +106,7 @@ Hebben goedgevonden en verstaan:
 
 3. Als bewijsstuk, bedoeld in [artikel 475da, zevende lid, derde zin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475da) wordt aangewezen een beschikking van de Dienst Toeslagen op een aanvraag om huurtoeslag, dan wel een schriftelijke beoordeling van de Dienst Toeslagen over de aard van de woning.
 
-#### Artikel 5. Bedrag vermindering beslagvrije voet
+##### Artikel 5. Bedrag vermindering beslagvrije voet
 
 1. De hoogte van het in mindering te brengen bedrag, bedoeld in [artikel 475db, eerste lid, onderdelen a en b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475db) wordt berekend op basis van het loon LB/PH, de ingehouden inkomensafhankelijke bijdrage zoals bedoeld in de [Zorgverzekeringwet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) en de ingehouden loonbelasting en premie volksverzekeringen in het aangiftetijdvak.
 
@@ -90,13 +116,13 @@ Hebben goedgevonden en verstaan:
 
 4. Als het aangiftetijdvak niet gelijk is aan een maand, wordt de uitkomst van het tweede of derde lid naar een maandinkomen herleid.
 
-#### Artikel 6. Woonlandfactor
+##### Artikel 6. Woonlandfactor
 
 1. De factor, bedoeld in [artikel 475da, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475da) wordt bij ministeriële regeling vastgesteld.
 
 2. De factor wordt zodanig bepaald dat het een weergave is van de verhouding tussen het kostenniveau van het land waar de schuldenaar woonachtig is en dat van Nederland maar tot maximaal een factor 1,0.
 
-#### Artikel 7. Model beslagvrije voet
+##### Artikel 7. Model beslagvrije voet
 
 1. Het model van de mededeling, bedoeld in [artikel 475i, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475i) bevat in ieder geval de volgende gegevens:
 
@@ -110,7 +136,7 @@ Hebben goedgevonden en verstaan:
 
 2. Het model wordt vastgesteld bij ministeriële regeling.
 
-#### Artikel 8. Ondersteuning bij de vaststelling van de beslagvrije voet
+##### Artikel 8. Ondersteuning bij de vaststelling van de beslagvrije voet
 
 1. Onze Minister is belast met de ondersteuning bij de vaststelling van de beslagvrije voet, bedoeld in [artikel XXIIIB, eerste lid, van de Wet vereenvoudiging beslagvrije voet](https://wetten.overheid.nl/jci1.3:c:BWBR0039377&artikel=XXIIIb).
 
@@ -142,7 +168,7 @@ Hebben goedgevonden en verstaan:
 
 - 3°. de bijstand die de verwerkers verlenen bij het doen nakomen van de verplichtingen uit hoofde van de artikelen 32 tot en met 36 van de Algemene verordening gegevensbescherming.
 
-#### Artikel 9. Ondersteuning door de beroepsorganisatie van gerechtsdeurwaarders
+##### Artikel 9. Ondersteuning door de beroepsorganisatie van gerechtsdeurwaarders
 
 1. Onverminderd [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0041895&artikel=8&z=2026-01-01&g=2026-01-01) is de Koninklijke Beroepsorganisatie van Gerechtsdeurwaarders belast met de ondersteuning, bedoeld in artikel 8, eerste en tweede lid, voor zover het de ondersteuning betreft van bij ministeriële regeling aangewezen partijen, en verwerkingsverantwoordelijke voor de verwerking van persoonsgegevens in het kader van deze ondersteuning.
 
@@ -150,7 +176,7 @@ Hebben goedgevonden en verstaan:
 
 3. Dit artikel vervalt op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 10. Uitkeringen
+##### Artikel 10. Uitkeringen
 
 De uitkeringen, bedoeld in [artikel 475dc, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475dc), zijn:
 
@@ -160,11 +186,11 @@ De uitkeringen, bedoeld in [artikel 475dc, tweede lid, van de wet](https://wette
 
 - c. uitkeringen op grond van de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163).
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 12. Citeertitel
+##### Artikel 12. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit beslagvrije voet.
 
@@ -194,7 +220,7 @@ Wijkt – onder aftrek van de uitbetaalde vakantiebijslag of het extra periode s
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting en de bijlage in het Staatsblad zal worden geplaatst.
 
-#### Artikel 10a. Overgangsbepaling
+##### Artikel 10a. Overgangsbepaling
 
 1. Indien bij de berekening van het belastbaar inkomen in de indicatieperiode aangiftetijdvakken zijn gelegen van voor 1 januari 2022, is op die aangiftetijdvakken de tekst van dit besluit van toepassing, zoals dit luidde op de dag voor die datum.
 

@@ -1,14 +1,37 @@
 ---
-title: "Instellingswet Productschappen en Hoofdproductschap voor Akkerbouwproducten"
+title: "Wet van 30 september 1954, houdende instelling van productschappen en een hoofdproductschap voor akkerbouwproducten"
 identifier: "BWBR0002152"
-categorie: "Overig"
-publicatiedatum: 1986-01-01
-laatste_update: 1986-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002152"
+country: "nl"
+rank: "wet"
+publication_date: "1986-01-01"
+last_updated: "1986-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002152"
+soort: "wet"
+stam_id: "1400493"
+version_id: "2100412"
+internal_id: "C2100411"
+label_id: "1358434"
+dtd_version: "2.0"
+original_entry_into_force: "1956-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002152/1986-01-01/0"
+intitule_bron: "Stb.1954-451"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1954-09-30"
+intitule_status: "goed"
+original_publication: "Stb.1954-451"
+original_signed_date: "1954-09-30"
+original_effect: "nieuwe-regeling"
+original_dossier: "3343"
+entry_into_force_date: "1956-01-01"
+jci_1_3: "jci1.3:c:BWBR0002152&z=1986-01-01&g=1986-01-01"
+jci_1_0: "1.0:c:BWBR0002152&g=1986-01-01"
+citeertitel_status: "officieel"
+short_title: "Instellingswet Productschappen en Hoofdproductschap voor Akkerbouwproducten"
+signed_date: "1954-09-30"
+entry_into_force: "1956-01-01"
 ---
-
-# Instellingswet Productschappen en Hoofdproductschap voor Akkerbouwproducten
+# Wet van 30 september 1954, houdende instelling van productschappen en een hoofdproductschap voor akkerbouwproducten
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,13 +41,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### Eerste hoofdstuk De productschappen voor akkerbouwproducten
 
-#### Artikel 1
+##### Artikel 1
 
 1. Er is een Productschap voor Granen, Zaden en Peulvruchten.
 
 2. Het productschap heeft zijn zetel te 's-Gravenhage.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het productschap is ingesteld voor de ondernemingen, waarin:
 
@@ -52,7 +75,7 @@ producten, welke uit de eerderbedoelde producten, met uitzondering van oliehoude
 
 2. In dit artikel worden onder **gedistilleerde dranken** verstaan de alcoholhoudende producten, welke, al dan niet na be- of verwerking, kunnen dienen tot menselijke consumptie en waarvoor in geval van ge- of verbruik hier te lande gedistilleerdaccijns verschuldigd is, met uitzondering van spiritus en moutwijn.
 
-#### Artikel 3
+##### Artikel 3
 
 Het bestuur van het Productschap voor Granen, Zaden en Peulvruchten bestaat uit 36 leden. Daarvan worden benoemd:
 
@@ -67,17 +90,17 @@ Het bestuur van het Productschap voor Granen, Zaden en Peulvruchten bestaat uit 
 | de groothandel in voor menselijke consumptie geschikte, uit granen, zaden of landbouwpeulvruchten verkregen producten | 1 lid | 1 lid |
 | de detailhandel in voor menselijke consumptie geschikte, uit granen, zaden of landbouwpeulvruchten verkregen producten | 1 lid | 1 lid |
 
-#### Artikel 3a
+##### Artikel 3a
 
 Het bestuur is bevoegd uit zijn midden voor elk lid van het dagelijks bestuur een plaatsvervanger te benoemen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Er is een Productschap voor Landbouwzaaizaden.
 
 2. Het productschap heeft zijn zetel te 's-Gravenhage.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het productschap is ingesteld voor de ondernemingen, waarin:
 
@@ -87,21 +110,21 @@ de handel - met uitzondering van de aanvoer-, transito- en driehoekshandel - wor
 
 2. In dit artikel worden onder **landbouwzaaizaden** verstaan alle zaaizaden, met uitzondering van zaaizaden van groentegewassen, specerijgewassen, kruiden, siergewassen en bomen en van voor zaaidoeleinden bestemde specerijzaden.
 
-#### Artikel 6
+##### Artikel 6
 
 In afwijking van [artikel 73, vierde lid, van de Wet op de Bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=73) (**Stb.** 1950, K 22, sedert gewijzigd) bedraagt het aantal door organisaties van werknemers te benoemen leden van het bestuur van het Productschap voor Landbouwzaaizaden ten minste zeven tienden en ten hoogste vier vijfden van het door organisaties van ondernemers te benoemen aantal.
 
-#### Artikel 6a
+##### Artikel 6a
 
 Het bestuur is bevoegd uit zijn midden voor elk lid van het dagelijks bestuur een plaatsvervanger te benoemen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Er is een Productschap voor Aardappelen.
 
 2. Het Productschap heeft zijn zetel te 's-Gravenhage.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het productschap is ingesteld voor de ondernemingen, waarin:
 
@@ -113,7 +136,7 @@ de handel - met uitzondering van de aanvoer-, transito- en driehoekshandel - wor
 
 2. Als ondernemingen, bedoeld in het eerste lid, worden mede aangemerkt de veilingen van de in dat lid bedoelde producten.
 
-#### Artikel 9
+##### Artikel 9
 
 Het bestuur van het Produktschap voor Aardappelen bestaat uit 24 leden. Daarvan worden benoemd:
 
@@ -123,17 +146,17 @@ Het bestuur van het Produktschap voor Aardappelen bestaat uit 24 leden. Daarvan 
 | de aardappel be- en verwerkende industrie | 4 leden | 4 leden |
 | de groothandel, de werkzaamheid van tussenpersonen en de detailhandel in aardappelen en daaruit verkregen produkten | 4 leden | 4 leden. |
 
-#### Artikel 9a
+##### Artikel 9a
 
 Het bestuur is bevoegd uit zijn midden voor elk lid van het dagelijks bestuur een plaatsvervanger te benoemen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Er is een Productschap voor Veevoeder.
 
 2. Het productschap heeft zijn zetel te 's-Gravenhage.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Het productschap is ingesteld voor de ondernemingen, waarin:
 
@@ -149,7 +172,7 @@ de handel - met uitzondering van de aanvoer-, transito- en driehoekshandel - wor
 
 2. In dit artikel wordt onder **veevoeder** verstaan iedere stof, bestemd om te worden gebruikt als, of te worden verwerkt in voeder voor dieren.
 
-#### Artikel 12
+##### Artikel 12
 
 Het bestuur van het Productschap voor Veevoeder bestaat uit 36 leden. Daarvan worden benoemd:
 
@@ -162,15 +185,15 @@ Het bestuur van het Productschap voor Veevoeder bestaat uit 36 leden. Daarvan wo
 | de niet-agrarische voortbrenging en de handel, voor zover zij als kleine ondernemingen kunnen worden aangemerkt | 3 leden | 3 leden |
 | de veehouderij en de pluimveehouderij | 2 leden | 2 leden |
 
-#### Artikel 12a
+##### Artikel 12a
 
 Het bestuur is bevoegd uit zijn midden voor elk lid van het dagelijks bestuur een plaatsvervanger te benoemen.
 
-#### Artikel 13
+##### Artikel 13
 
 In dit hoofdstuk, met uitzondering van de artikelen 3, 9 en 12, wordt onder **handel** mede verstaan de werkzaamheid van tussenpersonen.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Aan elk der bij dit hoofdstuk ingestelde productschappen is overgelaten de regeling of nadere regeling van de navolgende onderwerpen:
 
@@ -192,15 +215,15 @@ In dit hoofdstuk, met uitzondering van de artikelen 3, 9 en 12, wordt onder **ha
 
 4. Verordeningen betreffende onderwerpen, als bedoeld in het eerste lid, onder **c** en **d**, houden waarborgen in tegen misbruik van de ingevolge die verordeningen te verstrekken gegevens.
 
-#### Artikel 15
+##### Artikel 15
 
 Overtredingen van het bepaalde bij of krachtens een op grond van [artikel 93, eerste lid, van de Wet op de Bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=93) vastgestelde verordening kunnen bij de verordening worden aangewezen als strafbare feiten.
 
-#### Artikel 16
+##### Artikel 16
 
 Bij een op grond van [artikel 93, eerste lid, van de Wet op de Bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=93) vastgestelde verordening kan worden bepaald, dat de bij of krachtens die verordening gestelde regelen mede andere dan de in artikel 102, eerste lid, van genoemde wet bedoelde natuurlijke en rechtspersonen binden, voor zover deze handelingen verrichten, die bedrijfsmatig in de ondernemingen, waarvoor het productschap is ingesteld, plegen te worden verricht.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Verordeningen, waarbij krachtens [artikel 126, eerste lid, van de Wet op de Bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126) een heffing wordt opgelegd tot een in die verordeningen vermeld ander doel dan dekking van de huishoudelijke uitgaven van het productschap, behoeven, in afwijking van het derde lid van dat artikel, de goedkeuring van Onze betrokken Ministers; zij worden terstond na vaststelling ter kennisneming aan de Sociaal-Economische Raad toegezonden.
 
@@ -210,17 +233,17 @@ Bij een op grond van [artikel 93, eerste lid, van de Wet op de Bedrijfsorganisat
 
 #### Tweede hoofdstuk Het Hoofdproductschap voor Akkerbouwproducten
 
-#### Artikel 18
+##### Artikel 18
 
 1. Er is een Hoofdproductschap voor Akkerbouwproducten.
 
 2. Het hoofdproductschap heeft zijn zetel te 's-Gravenhage.
 
-#### Artikel 19
+##### Artikel 19
 
 De wettelijke voorschriften, geldende met betrekking tot de bij het eerste hoofdstuk ingestelde productschappen, zijn, voor zover niet het tegendeel blijkt, mede van toepassing met betrekking tot het hoofdproductschap.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Het hoofdproductschap is ingesteld voor de ondernemingen:
 
@@ -234,7 +257,7 @@ de handel - met uitzondering van de aanvoer, transito- en driehoekshandel - word
 
 3. In dit hoofdstuk, met uitzondering van de artikelen 21 en 23, wordt onder **handel** mede verstaan de werkzaamheid van tussenpersonen.
 
-#### Artikel 21
+##### Artikel 21
 
 Het bestuur van het Hoofdproductschap bestaat uit 24 leden. Daarvan worden benoemd:
 
@@ -245,11 +268,11 @@ Het bestuur van het Hoofdproductschap bestaat uit 24 leden. Daarvan worden benoe
 | de handel, met uitzondering van de detailhandel, en de werkzaamheid van tussenpersonen | 3 leden | 3 leden |
 | de be- en verwerking, voor zover zij als kleine ondememingen kunnen worden aangemerkt, alsmede de detailhandel | 1 lid | 1 lid |
 
-#### Artikel 21a
+##### Artikel 21a
 
 Het bestuur is bevoegd uit zijn midden voor elk lid van het dagelijks bestuur een plaatsvervanger te benoemen.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Het hoofdproductschap heeft organen, commissies genaamd, voor aangelegenheden betreffende:
 
@@ -267,7 +290,7 @@ Het bestuur is bevoegd uit zijn midden voor elk lid van het dagelijks bestuur ee
 
 4. De Sociaal-Economische Raad bepaalt het aantal leden, dat elke door hem aangewezen organisatie kan benoemen. De voorzitter van het hoofdproductschap is tevens voorzitter van de commissies. De zittingsperiode van de leden van de commissies valt samen met die van de leden van het bestuur van het hoofdproductschap.
 
-#### Artikel 23
+##### Artikel 23
 
 1. De commissie voor koffie en thee bestaat uit 17 leden. Daarvan worden benoemd:
 
@@ -308,7 +331,7 @@ Het bestuur is bevoegd uit zijn midden voor elk lid van het dagelijks bestuur ee
 | De be- en verwerking van vlas en de handel in vlas en vlasprodukten | 4 leden | 4 leden |
 | De be- en verwerking van en de handel in (zaai)lijnzaad | 2 leden |   |
 
-#### Artikel 24
+##### Artikel 24
 
 1. Aan het hoofdproductschap is overgelaten de regeling of nadere regeling van de navolgende onderwerpen:
 
@@ -322,27 +345,27 @@ Het bestuur is bevoegd uit zijn midden voor elk lid van het dagelijks bestuur ee
 
 2. [Artikel 14, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002152&artikel=14&z=1986-01-01&g=1986-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 25
+##### Artikel 25
 
 De [artikelen 15-17](https://wetten.overheid.nl/jci1.3:c:BWBR0002152&artikel=15&z=1986-01-01&g=1986-01-01) zijn van overeenkomstige toepassing.
 
 #### Derde hoofdstuk Verhouding tussen het Hoofdproductschap voor Akkerbouwproducten en de productschappen
 
-#### Artikel 26
+##### Artikel 26
 
 1. De organen van een productschap verlenen de bij een verordening van het bestuur van het hoofdproductschap tot uitvoering van die verordening gevorderde medewerking.
 
 2. Met betrekking tot deze medewerking zijn de bepalingen van de [Wet op de Bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058), geldende met betrekking tot de medewerking, bij een verordening van het bestuur van een productschap tot uitvoering van die verordening gevorderd van de organen van een hoofdbedrijf- of een bedrijfschap, mede van toepassing.
 
-#### Artikel 27
+##### Artikel 27
 
 Bepalingen in verordeningen van het bestuur van een productschap, welke in strijd zijn met een verordening van het bestuur van het hoofdproductschap, houden van rechtswege op te gelden op het tijdstip, waarop deze strijdigheid ontstaat.
 
-#### Artikel 28
+##### Artikel 28
 
 Het bestuur van een productschap dient het bestuur van het hoofdproductschap desgevraagd van bericht en desgevraagd of uit eigen beweging van raad over alle zaken, het productschap betreffende.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Indien een verordening of een ander besluit van een orgaan van een bij het eerste hoofdstuk ingesteld productschap de goedkeuring van Onze betrokken Ministers, dan wel van de Sociaal-Economische Raad behoeft, wordt dat besluit ter goedkeuring ingediend door tussenkomst van het bestuur van het hoofdproductschap. Dit beslist over de doorzending binnen een maand, nadat het besluit is ingekomen.
 
@@ -356,25 +379,25 @@ Het bestuur van een productschap dient het bestuur van het hoofdproductschap des
 
 - b. ten aanzien van een ander besluit, indien het bestuur van het hoofdproductschap zulks bepaalt.
 
-#### Artikel 30
+##### Artikel 30
 
 Het bestuur van het hoofdproductschap stelt een verordening niet vast dan na de besturen van de bij het eerste hoofdstuk ingestelde productschappen en de bij [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002152&artikel=22&z=1986-01-01&g=1986-01-01) ingestelde commissies, welke naar zijn oordeel daarbij zijn betrokken, in de gelegenheid te hebben gesteld van hun zienswijze te doen blijken.
 
 #### Vierde hoofdstuk Slotbepalingen
 
-#### Artikel 31
+##### Artikel 31
 
 Bij algemene maatregel van bestuur kunnen regelen worden gesteld ter uitvoering van deze wet.
 
-#### Artikel 32
+##### Artikel 32
 
 Voor de toepassing van deze wet en van de [artikelen 94](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=94), [100, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=100), en [104, tweede lid, van de Wet op de Bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=104) ten aanzien van de bij het eerste hoofdstuk ingestelde productschappen en het Hoofdproductschap voor Akkerbouwproducten worden als Onze betrokken Ministers aangemerkt Onze Minister van Landbouw, Visserij en Voedselvoorziening en, in bij algemene maatregel van bestuur te bepalen gevallen, Onze Minister van Economische Zaken.
 
-#### Artikel 33
+##### Artikel 33
 
 Deze wet kan worden aangehaald als: Instellingswet Productschappen en Hoofdproductschap voor Akkerbouwproducten.
 
-#### Artikel 34
+##### Artikel 34
 
 Deze wet treedt in werking op een door Ons te bepalen tijdstip.
 

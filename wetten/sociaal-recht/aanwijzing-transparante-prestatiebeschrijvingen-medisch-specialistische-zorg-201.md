@@ -1,13 +1,39 @@
 ---
-title: "Aanwijzing transparante prestatiebeschrijvingen medisch specialistische zorg 2012"
+title: "Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 27 juni 2011, nr. MC-U- 3070826, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake transparante prestatiebeschrijvingen medisch specialistische zorg 2012"
 identifier: "BWBR0030210"
-categorie: "Sociaal recht"
-publicatiedatum: 2011-07-05
-laatste_update: 2011-07-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030210"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2011-07-05"
+last_updated: "2011-07-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030210"
+soort: "ministeriele-regeling"
+stam_id: "11382353"
+version_id: "18678992"
+internal_id: "C26061061"
+label_id: "11355994"
+dtd_version: "2.0"
+original_entry_into_force: "2011-07-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030210/2011-07-05/0"
+intitule_bron: "Stcrt.2011-11796"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-06-27"
+intitule_published: "2011-07-05"
+intitule_in_force: "2011-07-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-11796"
+original_signed_date: "2011-06-27"
+original_published_date: "2011-07-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-11796"
+entry_into_force_date: "2011-07-05"
+jci_1_3: "jci1.3:c:BWBR0030210&z=2011-07-05&g=2011-07-05"
+jci_1_0: "1.0:c:BWBR0030210&g=2011-07-05"
+citeertitel_status: "officieel"
+short_title: "Aanwijzing transparante prestatiebeschrijvingen medisch specialistische zorg 2012"
+signed_date: "2011-06-27"
+entry_into_force: "2011-07-05"
 ---
-
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 27 juni 2011, nr. MC-U- 3070826, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake transparante prestatiebeschrijvingen medisch specialistische zorg 2012
 
 Overwegende dat het wenselijk is de functiegerichte budgettering voor instellingen voor medisch specialistische zorg en de bekostiging op basis van begrotingsfinanciering van audiologische centra te beëindigen, mede met het oog op de macrobudgettaire gevolgen zorgvuldig en geleidelijk over te gaan naar een systeem van prestatiebekostiging, en met het oog daarop een verbetering noodzakelijk is om te komen tot een nog stabieler, vollediger, transparanter en dynamischer declaratiesysteem;
@@ -66,7 +92,7 @@ Gelet op de korte aantekeningen van de Eerste Kamer der Staten-Generaal van 24 m
 
 Besluit:
 
-#### Artikel 1. definities productstructuur
+##### Artikel 1. definities productstructuur
 
 In deze aanwijzing wordt verstaan onder:
 
@@ -90,17 +116,17 @@ In deze aanwijzing wordt verstaan onder:
 
 - j. **vrij tarief:** tarief als bedoeld in [artikel 57, vierde lid, aanhef en onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57), dat voor een prestatie in rekening mag worden gebracht.
 
-#### Artikel 2. opdrachtverlening
+##### Artikel 2. opdrachtverlening
 
 De zorgautoriteit stelt ter uitvoering van deze aanwijzing waar nodig regels en beleidsregels vast.
 
-#### Artikel 3. transparante prestatiebeschrijvingen
+##### Artikel 3. transparante prestatiebeschrijvingen
 
 1. De zorgautoriteit stelt met ingang van het jaar 2012 prestatiebeschrijvingen vast voor zorg zoals instellingen en medisch specialisten die leveren, op basis van het voorstel van de zorgautoriteit aan de minister in haar brief inzake beoordeling productstructuur DOT van 12 april 2011, kenmerk 11D0013287, met de daarbij gevoegde bijlage rapport Beoordeling productstructuur DOT van april 2011.
 
 2. Indien en voor zover prestaties van instellingen en medisch specialisten niet als een diagnosebehandeling combinatie in voornoemde brieven zijn omschreven stelt de zorgautoriteit met ingang van 2012 prestatiebeschrijvingen, verder te noemen overige zorgproducten, vast. Onder overige producten wordt ook verstaan toegevoegde prestaties en add-on’s.
 
-#### Artikel 4. segmentindeling
+##### Artikel 4. segmentindeling
 
 1. De zorgautoriteit verdeelt de zorg als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030210&artikel=3&z=2011-07-05&g=2011-07-05) in een gereguleerd segment en een vrij segment en stelt voor ieder segment prestatiebeschrijvingen vast.
 
@@ -108,7 +134,7 @@ De zorgautoriteit stelt ter uitvoering van deze aanwijzing waar nodig regels en 
 
 3. De overige zorgproducten behoren tot het gereguleerde segment, met uitzondering van nader door de zorgautoriteit te specificeren overige zorgproducten met betrekking tot extramurale dieetadvisering, fysiotherapie en oefentherapie, die behoren tot het vrije segment.
 
-#### Artikel 5. tariefsoorten
+##### Artikel 5. tariefsoorten
 
 1. Voor prestaties in het gereguleerde segment gelden maximumtarieven.
 
@@ -116,7 +142,7 @@ De zorgautoriteit stelt ter uitvoering van deze aanwijzing waar nodig regels en 
 
 3. De voorgaande leden zijn niet van toepassing op de honorariumcomponent voor de dienstverlening door medisch specialisten als onderdeel van die prestaties.
 
-#### Artikel 6. dure en weesgeneesmiddelen
+##### Artikel 6. dure en weesgeneesmiddelen
 
 1. De zorgautoriteit stelt met ingang van 2012 voor behandelingen met dure geneesmiddelen als bedoeld in beleidsregel CU/BR-2017, zoals die luidt op het moment waarop deze aanwijzing in werking treedt, een toegevoegde prestatie vast voor de bekostiging van het geleverde dure geneesmiddel.
 
@@ -136,18 +162,18 @@ De zorgautoriteit stelt ter uitvoering van deze aanwijzing waar nodig regels en 
 
 7. De zorgautoriteit stelt criteria vast voor de beoordeling of de behandeling met een geneesmiddel wordt opgenomen in een prestatiebeschrijving in de vorm van een diagnose behandeling combinatie of in een prestatiebeschrijving als toegevoegde prestatie als bedoeld in het tweede lid.
 
-#### Artikel 7. overgang geopende dbc’s
+##### Artikel 7. overgang geopende dbc’s
 
 Voor prestaties die zijn omschreven als diagnose behandeling combinaties en die zijn geopend voor het jaar 2012 blijven de prestatiebeschrijvingen en tarieven van toepassing zoals die luiden op het moment van openen van de prestatie.
 
-#### Artikel 8. tariefvoorbereiding
+##### Artikel 8. tariefvoorbereiding
 
 De zorgautoriteit stelt voor de instellingskostendelen van de prestaties voor instellingen in het gereguleerde segment adequate maximumtarieven vast.
 
-#### Artikel 9. citeertitel
+##### Artikel 9. citeertitel
 
 Deze aanwijzing wordt aangehaald als: Aanwijzing transparante prestatiebeschrijvingen medisch specialistische zorg 2012.
 
-#### Artikel 10. publicatie
+##### Artikel 10. publicatie
 
 Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst.

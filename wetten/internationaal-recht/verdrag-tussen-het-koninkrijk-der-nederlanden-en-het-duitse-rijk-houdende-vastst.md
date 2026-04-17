@@ -1,13 +1,37 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Duitse Rijk houdende vaststelling van een ontginningsgrens voor de aan beide zijden van de grens langs de Worm gelegen steenkolenmijnen"
 identifier: "BWBV0006518"
-categorie: "Internationaal recht"
-publicatiedatum: 1939-12-16
-laatste_update: 1939-12-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006518"
+country: "nl"
+rank: "verdrag"
+publication_date: "1939-12-16"
+last_updated: "1939-12-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006518"
+soort: "verdrag"
+stam_id: "10005309423"
+version_id: "10005708232"
+internal_id: "C10008836161"
+label_id: "10005292174"
+dtd_version: "2.0"
+original_entry_into_force: "1939-12-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006518/1939-12-16/0"
+intitule_bron: "Stb.1940-34"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1939-12-28"
+intitule_published: "1940-01-05"
+intitule_in_force: "1940-01-05"
+intitule_status: "goed"
+original_publication: "Stb.1940-34"
+original_signed_date: "1939-12-28"
+original_published_date: "1940-01-05"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1939-12-16"
+jci_1_3: "jci1.3:c:BWBV0006518&z=1939-12-16&g=1939-12-16"
+jci_1_0: "1.0:c:BWBV0006518&g=1939-12-16"
+citeertitel_status: "redactioneel"
+signed_date: "1939-12-28"
+entry_into_force: "1939-12-16"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en het Duitse Rijk houdende vaststelling van een ontginningsgrens voor de aan beide zijden van de grens langs de Worm gelegen steenkolenmijnen
 
 Hare Majesteit de Koningin der Nederlanden
@@ -32,11 +56,11 @@ Dr. CONRAD ROEDIGER,
 
 die, na elkander hunne in goeden en behoorlijken vorm bevonden volmachten te hebben medegedeeld, het navolgende zijn overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 Ten behoeve van de steenkolenmijnen, welke volgens de bij dit verdrag gevoegde kaart (bijlage1[Red: Niet opgenomen.]), tusschen de punten 1 en 11 aan de Worm grenzen, wordt onafhankelijk van de Rijksgrens, voor het ondergrondsch bedrijf een ontginningsgrens overeengekomen. Zij is op de kaart door een gebroken roode lijn aangeduid.
 
-#### Artikel 2
+##### Artikel 2
 
 (1). De ontginningsgrens vervangt de tot dusver bestaande begrenzing der mijnvelden. De door de ontginningsgrens afgescheiden gedeelten worden met het aan de andere zijde der ontginningsgrens liggende aangrenzende mijnveld vereenigd.
 
@@ -52,7 +76,7 @@ Ten behoeve van de steenkolenmijnen, welke volgens de bij dit verdrag gevoegde k
 
 (7). Het Toezicht op de mijnen van beide Staten maakt gezamenlijk nieuwe mijnplannen, welke gehecht worden aan de bestaande acten. Voorzoover Grondboeken bestaan, zal inschrijving daarin geschieden op verzoek van het Staatstoezicht op de mijnen.
 
-#### Artikel 3
+##### Artikel 3
 
 (1). In de mijnen moet aan iedere zijde van de nieuwe bedrijfsgrens een tien meter dikke grensmuur, rechthoekig op die grens gemeten, onontgonnen blijven.
 
@@ -60,7 +84,7 @@ Ten behoeve van de steenkolenmijnen, welke volgens de bij dit verdrag gevoegde k
 
 (3). De bestaande grensmuren mogen worden afgebroken, in zooverre zij niet met den in het eerste lid voorgeschreven grensmuur samenvallen.
 
-#### Artikel 4
+##### Artikel 4
 
 Voor de tusschen de Rijksgrenzen en de ontginningsgrenzen liggende gedeelten geldt het navolgende:
 
@@ -78,7 +102,7 @@ Voor de tusschen de Rijksgrenzen en de ontginningsgrenzen liggende gedeelten gel
 
 - 7). Voor bovengrondsche werken is de toestemming vereischt van den Staat, waarin zij zullen worden aangelegd.
 
-#### Artikel 5
+##### Artikel 5
 
 Indien in een der beide verdragsluitende Staten aan het Toezicht op de mijnen van den anderen Staat een aanspraak op schadevergoeding aannemelijk gemaakt wordt, die aan de ontginning van een in dien Staat aan de ontginningsgrens gelegen en aan het toezicht onderworpen mijn wordt toegeschreven, zal deze dienst den verzoeker ongeacht zijne nationaliteit of zijn woonplaats inzage verleenen van de mijnplannen, met in achtneming van de volgende regels:
 
@@ -94,13 +118,13 @@ Indien in een der beide verdragsluitende Staten aan het Toezicht op de mijnen va
 
 - (6). Het recht van den aanvrager zijn aanspraken aan den bevoegden rechter ter beslissing voor te leggen, blijft onverkort.
 
-#### Artikel 6
+##### Artikel 6
 
 (1). De bovenstaande bepalingen gelden ook voor het gedeelte van het Duitsche Rijksgebied, waarin de Nederlandsche Staat op grond van artikel 19 en 20 van het te Aken tusschen den Koning der Nederlanden en den Koning van Pruisen den 26 Juni 1816 gesloten Verdrag het recht van steenkolenontginning heeft en de in verband daarmede staande souvereiniteitsrechten ondergronds uitoefent.
 
 (2). Overigens wordt het Verdrag van Aken door het onderhavige verdrag niet geraakt.
 
-#### Artikel 7
+##### Artikel 7
 
 (1). Dit verdrag met het daarbij behoorende slotprotocol zal bekrachtigd worden.
 
@@ -108,13 +132,13 @@ Indien in een der beide verdragsluitende Staten aan het Toezicht op de mijnen va
 
 Bij de onderteekening van het Verdrag houdende vaststelling van een ontginningsgrens voor de aan beide zijden van de grens langs de Worm gelegen steenkolenmijnen, hebben de Gevolmachtigden van beide Staten nog over de volgende punten overeenstemming bereikt:
 
-#### I
+##### I
 
 **Ad artikel 5.**
 
 Ten behoeve van de transfer van schadevergoedingen voor mijnschade van een Duitschen schuldenaar aan een Nederlandschen schuldeischer of van een Nederlandschen schuldenaar aan een Duitschen schuldeischer, zullen voor elk geval afzonderlijke regelingen worden getroffen.
 
-#### II
+##### II
 
 **Ad artikel 6.**
 

@@ -1,22 +1,47 @@
 ---
 title: "Opslag en behandeling ontplofbare stoffen en voorwerpen"
 identifier: "BWBR0045986"
-categorie: "Overig"
-publicatiedatum: 2021-12-08
-laatste_update: 2021-12-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045986"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-12-08"
+last_updated: "2021-12-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045986"
+soort: "ministeriele-regeling"
+stam_id: "16171193"
+version_id: "28217092"
+internal_id: "C39779701"
+label_id: "16099534"
+dtd_version: "2.0"
+original_entry_into_force: "2021-12-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045986/2021-12-08/0"
+intitule_bron: "Stcrt.2021-48513"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-11-10"
+intitule_published: "2021-12-06"
+intitule_in_force: "2021-12-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-48513"
+original_signed_date: "2021-11-10"
+original_published_date: "2021-12-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-48513"
+entry_into_force_date: "2021-12-08"
+jci_1_3: "jci1.3:c:BWBR0045986&z=2021-12-08&g=2021-12-08"
+jci_1_0: "1.0:c:BWBR0045986&g=2021-12-08"
+citeertitel_status: "redactioneel"
+signed_date: "2021-11-10"
+entry_into_force: "2021-12-08"
 ---
-
 # Opslag en behandeling ontplofbare stoffen en voorwerpen
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Vastgesteld wordt de in bijlage gevoegde publicatie MP 40-21 Deel 1 Opslag en behandeling ontplofbare stoffen en voorwerpen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er kan schriftelijk vrijstelling of ontheffing worden verleend van de regels gesteld in de in bijlage gevoegde publicatie. Aan de vrijstelling of ontheffing kunnen voorwaarden worden verbonden.
 
@@ -34,11 +59,11 @@ Vastgesteld wordt de in bijlage gevoegde publicatie MP 40-21 Deel 1 Opslag en be
 
 5. Bij afwezigheid of verhindering van de functionaris, bedoeld in het derde of vierde lid treedt een door die functionaris schriftelijk aangewezen plaatsvervanger voor de duur van de afwezigheid of verhindering in diens plaats.
 
-#### Artikel 3
+##### Artikel 3
 
 De Commandant en controleurs van het Korps militaire controleurs gevaarlijke stoffen bij de Koninklijke Marechaussee zijn belast met de controle op de naleving van het gestelde in het voorschrift.
 
-#### Artikel 4
+##### Artikel 4
 
 De navolgende besluiten en wijzigingen worden ingetrokken:
 
@@ -50,7 +75,7 @@ De navolgende besluiten en wijzigingen worden ingetrokken:
 
 - 4. Wijziging Voorschrift Opslag en behandeling ontplofbare stoffen en voorwerpen van 8 november 2018, nr. DMO 2018010948 (Staatscourant 2019 nr. 32283).
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst.
 

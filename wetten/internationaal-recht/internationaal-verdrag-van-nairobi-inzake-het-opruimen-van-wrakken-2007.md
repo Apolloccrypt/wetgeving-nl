@@ -1,13 +1,35 @@
 ---
 title: "Internationaal Verdrag van Nairobi inzake het opruimen van wrakken, 2007"
 identifier: "BWBV0003257"
-categorie: "Internationaal recht"
-publicatiedatum: 2016-04-19
-laatste_update: 2007-05-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003257"
+country: "nl"
+rank: "verdrag"
+publication_date: "2016-04-19"
+last_updated: "2007-05-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003257"
+soort: "verdrag"
+stam_id: "10003441903"
+version_id: "10003487792"
+internal_id: "C10009073621"
+label_id: "10003428114"
+dtd_version: "2.0"
+original_entry_into_force: "2016-04-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003257/2016-04-19/0"
+intitule_bron: "Trb.2008-115"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2008-05-27"
+intitule_in_force: "2016-05-10"
+intitule_status: "goed"
+original_publication: "Trb.2008-115"
+original_published_date: "2008-05-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2008-115"
+entry_into_force_date: "2016-04-19"
+jci_1_3: "jci1.3:c:BWBV0003257&z=2016-04-19&g=2016-04-19"
+jci_1_0: "1.0:c:BWBV0003257&g=2016-04-19"
+citeertitel_status: "redactioneel"
+entry_into_force: "2016-04-19"
 ---
-
 # Internationaal Verdrag van Nairobi inzake het opruimen van wrakken, 2007
 
 De Staten die partij zijn bij dit Verdrag,
@@ -24,7 +46,7 @@ Indachtig het belang van het Verdrag van de Verenigde Naties inzake het recht va
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag:
 
@@ -74,7 +96,7 @@ Voor de toepassing van dit Verdrag:
 
 - 13. wordt verstaan onder de „Secretaris-Generaal” de Secretaris-Generaal van de Organisatie.
 
-#### Artikel 2. Doelstellingen en algemene beginselen
+##### Artikel 2. Doelstellingen en algemene beginselen
 
 1. Een Staat die Partij is kan in overeenstemming met dit Verdrag maatregelen nemen voor het opruimen van een wrak dat een gevaar vormt in het Verdragsgebied.
 
@@ -86,7 +108,7 @@ Voor de toepassing van dit Verdrag:
 
 5. De Staten die Partij zijn dienen zich in te spannen samen te werken wanneer de gevolgen van een maritiem ongeval dat leidt tot een wrak ook een andere Staat dan de getroffen Staat treffen.
 
-#### Artikel 3. Toepassingsgebied
+##### Artikel 3. Toepassingsgebied
 
 1. Tenzij in dit Verdrag anders is bepaald, is dit Verdrag van toepassing op wrakken in het Verdragsgebied.
 
@@ -102,7 +124,7 @@ Indien een Staat die Partij is kennisgeving heeft gedaan van het feit dat hij di
 
 5. Een Staat die Partij is die een kennisgeving uit hoofde van het tweede lid heeft gedaan, kan deze te allen tijde intrekken door middel van een kennisgeving van intrekking aan de Secretaris-Generaal. Deze kennisgeving van intrekking wordt van kracht zes maanden na de ontvangst ervan door de Secretaris-Generaal, tenzij de kennisgeving een latere datum vermeldt.
 
-#### Artikel 4. Uitsluitingen
+##### Artikel 4. Uitsluitingen
 
 1. Dit Verdrag is niet van toepassing op maatregelen genomen uit hoofde van het Internationaal Verdrag inzake optreden in volle zee bij ongevallen die verontreiniging door olie kunnen veroorzaken, 1969, zoals gewijzigd, of het Protocol inzake het optreden in volle zee in gevallen van verontreiniging door andere stoffen dan olie, 1973, zoals gewijzigd.
 
@@ -120,7 +142,7 @@ Indien een Staat die Partij is kennisgeving heeft gedaan van het feit dat hij di
 
 - b. en luidt artikel 9, vierde lid, voor zover het van toepassing is op het grondgebied met inbegrip van de territoriale zee van een Staat die Partij is: „Onverminderd het nationale recht van de getroffen Staat, kan de geregistreerde eigenaar, namens de eigenaar, een overeenkomst aangaan met een hulpverlener of een andere persoon teneinde een wrak op te ruimen waarvan is vastgesteld dat het een gevaar vormt. Alvorens het opruimen aanvangt, kan de getroffen Staat voor het opruimen voorwaarden stellen, uitsluitend voor zover zulks noodzakelijk is om te waarborgen dat het opruimen geschiedt op een wijze die verenigbaar is met overwegingen betreffende de veiligheid en de bescherming van het mariene milieu.”
 
-#### Artikel 5. Melden van wrakken
+##### Artikel 5. Melden van wrakken
 
 1. Een Staat die Partij is verlangt van de kapitein en de exploitant van een schip dat zijn vlag voert en betrokken is geraakt bij een maritiem ongeval dat geleid heeft tot een wrak dit onverwijld te melden aan de getroffen Staat. Zodra door de kapitein of de exploitant van het schip aan de meldplicht uit hoofde van dit artikel is voldaan, is de ander daarvan ontslagen.
 
@@ -136,7 +158,7 @@ Indien een Staat die Partij is kennisgeving heeft gedaan van het feit dat hij di
 
 - e. de hoeveelheden en soorten olie, met inbegrip van bunkerolie en smeerolie, aan boord.
 
-#### Artikel 6. Vaststelling van gevaar
+##### Artikel 6. Vaststelling van gevaar
 
 Bij het vaststellen of een wrak een gevaar vormt, dient de getroffen Staat de volgende criteria in acht te nemen:
 
@@ -170,13 +192,13 @@ Bij het vaststellen of een wrak een gevaar vormt, dient de getroffen Staat de vo
 
 - o. andere omstandigheden die zouden kunnen noodzaken tot berging van het wrak.
 
-#### Artikel 7. Lokaliseren van wrakken
+##### Artikel 7. Lokaliseren van wrakken
 
 1. Indien bekend wordt dat er een wrak is, stelt de getroffen Staat met spoed al hetgeen haalbaar is in het werk, met inbegrip van de hulp van Staten en organisaties om zeelieden en de betrokken Staten te waarschuwen voor de aard en locatie van het wrak.
 
 2. Indien de getroffen Staat redenen heeft om aan te nemen dat een wrak een gevaar vormt, ziet hij erop toe dat alle praktische maatregelen worden getroffen om de precieze locatie van het wrak vast te stellen.
 
-#### Artikel 8. Markeren van wrakken
+##### Artikel 8. Markeren van wrakken
 
 1. Indien de getroffen Staat vaststelt dat een wrak een gevaar vormt, ziet hij erop toe dat alle redelijke maatregelen worden getroffen om het wrak te markeren.
 
@@ -184,7 +206,7 @@ Bij het vaststellen of een wrak een gevaar vormt, dient de getroffen Staat de vo
 
 3. De getroffen Staat verspreidt de bijzonderheden van de markering van het wrak door middel van alle gepaste middelen, met inbegrip van de juiste zeevaartkundige publicaties.
 
-#### Artikel 9. Maatregelen ter vereenvoudiging van het opruimen van wrakken
+##### Artikel 9. Maatregelen ter vereenvoudiging van het opruimen van wrakken
 
 1. Indien de getroffen Staat vaststelt dat een wrak een gevaar vormt, dient deze Staat onverwijld:
 
@@ -218,7 +240,7 @@ Bij het vaststellen of een wrak een gevaar vormt, dient de getroffen Staat de vo
 
 11. De getroffen Staat verschaft de in dit artikel bedoelde inlichtingen aan de in de in artikel 5, tweede lid, bedoelde meldingen genoemde geregistreerde eigenaar.
 
-#### Artikel 10. Aansprakelijkheid van de eigenaar
+##### Artikel 10. Aansprakelijkheid van de eigenaar
 
 1. Met inachtneming van artikel 11, is de geregistreerde eigenaar aansprakelijk voor de kosten van het lokaliseren, markeren en opruimen van het wrak overeenkomstig respectievelijk de artikelen 7, 8 en 9, tenzij de geregistreerde eigenaar aantoont dat het maritieme ongeval dat tot het wrak geleid heeft:
 
@@ -234,7 +256,7 @@ Bij het vaststellen of een wrak een gevaar vormt, dient de getroffen Staat de vo
 
 4. Geen bepaling van dit artikel doet afbreuk aan enig recht van verhaal tegenover derden.
 
-#### Artikel 11. Uitzonderingen op de aansprakelijkheid
+##### Artikel 11. Uitzonderingen op de aansprakelijkheid
 
 1. De geregistreerde eigenaar is uit hoofde van dit Verdrag niet aansprakelijk voor de kosten bedoeld in artikel 10, eerste lid, indien en voor zover de aansprakelijkheid voor dergelijke kosten in strijd zou zijn met:
 
@@ -248,7 +270,7 @@ Bij het vaststellen of een wrak een gevaar vormt, dient de getroffen Staat de vo
 
 2. Voor zover maatregelen uit hoofde van dit Verdrag worden aangemerkt als hulpverlening overeenkomstig het van toepassing zijnde nationale recht of een internationaal verdrag, is dat recht of verdrag van toepassing op kwesties omtrent het loon of de vergoeding verschuldigd aan de hulpverlener en met uitsluiting van de regels van dit Verdrag.
 
-#### Artikel 12. Verplichte verzekering of andere financiële zekerheid
+##### Artikel 12. Verplichte verzekering of andere financiële zekerheid
 
 1. De geregistreerde eigenaar van een schip met een brutotonnage van 300 of meer dat vaart onder de vlag van een Staat die Partij is, is gehouden een verzekering of andere financiële zekerheid, zoals een bankgarantie of een door een soortgelijke financiële instantie afgegeven garantie, in stand te houden tot dekking van de aansprakelijkheid uit hoofde van dit Verdrag tot een bedrag gelijk aan het maximum van aansprakelijkheid krachtens de toepasselijke nationale of internationale regeling ter beperking van de aansprakelijkheid, doch in geen geval hoger dan een bedrag berekend in overeenstemming met artikel 6, eerste lid, onderdeel b, van het Verdrag inzake beperking van aansprakelijkheid voor maritieme vorderingen, 1976, zoals gewijzigd.
 
@@ -302,17 +324,17 @@ Bij het vaststellen of een wrak een gevaar vormt, dient de getroffen Staat de vo
 
 14. Is met betrekking tot een schip dat in eigendom toebehoort aan een Staat die Partij is geen verzekering afgesloten of geen financiële zekerheid gesteld, dan zijn de desbetreffende bepalingen van dit artikel op dat schip niet van toepassing, maar dient het schip wel te zijn voorzien van een certificaat, afgegeven door de bevoegde autoriteit van de Staat waar het is geregistreerd, houdende de verklaring dat het schip eigendom is van die Staat en dat de aansprakelijkheid voor het schip gedekt is binnen de overeenkomstig het eerste lid voorgeschreven grenzen. Dit certificaat wordt zoveel mogelijk opgesteld volgens het in het tweede lid voorgeschreven model.
 
-#### Artikel 13. Termijnen
+##### Artikel 13. Termijnen
 
 Het recht kosten uit hoofde van dit Verdrag te verhalen vervalt wanneer niet binnen drie jaar na de datum waarop het gevaar is vastgesteld in overeenstemming met dit Verdrag een vordering wordt ingesteld. In geen geval kunnen vorderingen echter worden ingesteld na zes jaar na de datum van het maritieme ongeval dat tot het wrak heeft geleid. Indien het maritieme ongeval bestaat uit een reeks feiten, loopt de termijn van zes jaar vanaf de datum van het eerste feit.
 
-#### Artikel 14. Wijzigingen
+##### Artikel 14. Wijzigingen
 
 1. Op verzoek van ten minste een derde van de Staten die Partij zijn roept de Organisatie een conferentie bijeen ten behoeve van herziening of wijziging van dit Verdrag.
 
 2. Elke instemming door dit Verdrag te worden gebonden die tot uitdrukking wordt gebracht na de datum van inwerkingtreding van een wijziging van dit Verdrag wordt geacht van toepassing te zijn op het Verdrag, zoals gewijzigd.
 
-#### Artikel 15. Beslechting van geschillen
+##### Artikel 15. Beslechting van geschillen
 
 1. Indien tussen twee of meer Staten die Partij zijn een geschil rijst met betrekking tot de uitlegging of toepassing van dit Verdrag, trachten zij dit in eerste instantie te beslechten door middel van onderhandeling, onderzoek, bemiddeling, conciliatie, arbitrage, gerechtelijke schikking, een beroep op regionale organen of regelingen of andere vreedzame middelen naar hun keuze.
 
@@ -324,11 +346,11 @@ Het recht kosten uit hoofde van dit Verdrag te verhalen vervalt wanneer niet bin
 
 5. Een verklaring uit hoofde van het derde en vierde lid wordt nedergelegd bij de Secretaris-Generaal die afschriften ervan doet toekomen aan de Staten die Partij zijn.
 
-#### Artikel 16. Verhouding tot andere verdragen en internationale overeenkomsten
+##### Artikel 16. Verhouding tot andere verdragen en internationale overeenkomsten
 
 Geen enkele bepaling van dit Verdrag doet afbreuk aan de rechten en verplichtingen van enige Staat uit hoofde van het Verdrag van de Verenigde Naties inzake het recht van de zee, 1982, of uit hoofde van het internationale gewoonterecht van de zee.
 
-#### Artikel 17. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
+##### Artikel 17. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
 
 1. Dit Verdrag staat van 19 november 2007 tot en met 18 november 2008 open voor ondertekening op het hoofdkwartier van de Organisatie en blijft daarna open voor toetreding.
 
@@ -342,13 +364,13 @@ Geen enkele bepaling van dit Verdrag doet afbreuk aan de rechten en verplichting
 
 - b. Bekrachtiging, aanvaarding, goedkeuring of toetreding geschiedt door nederlegging van een daartoe strekkende akte bij de Secretaris-Generaal.
 
-#### Artikel 18. Inwerkingtreding
+##### Artikel 18. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking twaalf maanden na de datum waarop tien Staten het hebben ondertekend zonder voorbehoud ten aanzien van bekrachtiging, aanvaarding of goedkeuring of een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding hebben nedergelegd bij de Secretaris-Generaal.
 
 2. Voor Staten die dit Verdrag bekrachtigen, aanvaarden, goedkeuren of ertoe toetreden nadat aan de voorwaarden voor inwerkingtreding in het eerste lid is voldaan, treedt dit Verdrag in werking drie maanden na de datum van nederlegging door deze Staat van de desbetreffende akte, evenwel niet dan nadat dit Verdrag in werking is getreden in overeenstemming met het eerste lid.
 
-#### Artikel 19. Opzegging
+##### Artikel 19. Opzegging
 
 1. Dit Verdrag kan na afloop van een jaar na de datum waarop het voor een Staat die Partij is in werking is getreden te allen tijde worden opgezegd door die Staat.
 
@@ -356,7 +378,7 @@ Geen enkele bepaling van dit Verdrag doet afbreuk aan de rechten en verplichting
 
 3. Een opzegging wordt van kracht een jaar na ontvangst van de akte van opzegging door de Secretaris-Generaal of na een langere termijn wanneer zulks in die akte is bepaald.
 
-#### Artikel 20. Depositaris
+##### Artikel 20. Depositaris
 
 1. Dit Verdrag wordt nedergelegd bij de Secretaris-Generaal.
 
@@ -376,7 +398,7 @@ Geen enkele bepaling van dit Verdrag doet afbreuk aan de rechten en verplichting
 
 3. Terstond na inwerkingtreding van dit Verdrag zendt de Secretaris-Generaal een voor eensluidend gewaarmerkt afschrift van de tekst aan de Secretaris-Generaal van de Verenigde Naties ter registratie en publicatie overeenkomstig artikel 102 van het Handvest van de Verenigde Naties.
 
-#### Artikel 21. Talen
+##### Artikel 21. Talen
 
 Dit Verdrag is opgesteld in één oorspronkelijk exemplaar in de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse taal, zijnde alle teksten gelijkelijk authentiek.
 

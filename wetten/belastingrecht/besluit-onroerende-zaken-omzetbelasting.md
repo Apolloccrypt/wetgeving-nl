@@ -1,13 +1,38 @@
 ---
 title: "Besluit onroerende zaken omzetbelasting"
 identifier: "BWBR0049092"
-categorie: "Belastingrecht"
-publicatiedatum: 2025-12-18
-laatste_update: 2025-12-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049092"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2025-12-18"
+last_updated: "2025-12-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049092"
+soort: "beleidsregel"
+stam_id: "16966843"
+version_id: "29828272"
+internal_id: "C42752281"
+label_id: "16878614"
+dtd_version: "2.0"
+original_entry_into_force: "2024-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049092/2025-12-18/0"
+intitule_bron: "Stcrt.2023-31602"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-12-12"
+intitule_published: "2023-12-14"
+intitule_in_force: "2023-12-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-31602"
+original_signed_date: "2023-12-12"
+original_published_date: "2023-12-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-31602"
+entry_into_force_date: "2024-01-01"
+jci_1_3: "jci1.3:c:BWBR0049092&z=2025-12-18&g=2025-12-18"
+jci_1_0: "1.0:c:BWBR0049092&g=2025-12-18"
+citeertitel_status: "officieel"
+signed_date: "2023-12-12"
+entry_into_force: "2024-01-01"
 ---
-
 # Besluit onroerende zaken omzetbelasting
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

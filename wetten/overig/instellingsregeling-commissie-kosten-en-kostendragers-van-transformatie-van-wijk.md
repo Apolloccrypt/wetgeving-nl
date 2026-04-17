@@ -1,13 +1,37 @@
 ---
 title: "Instellingsregeling Commissie Kosten en kostendragers van transformatie van wijken"
 identifier: "BWBR0013024"
-categorie: "Overig"
-publicatiedatum: 2002-01-01
-laatste_update: 2002-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013024"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2002-01-01"
+last_updated: "2002-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013024"
+soort: "ministeriele-regeling"
+stam_id: "5533563"
+version_id: "9928312"
+internal_id: "C13406781"
+label_id: "5505694"
+dtd_version: "2.0"
+original_entry_into_force: "2002-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013024/2002-01-01/0"
+intitule_bron: "Stcrt.2001-231"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-11-23"
+intitule_published: "2001-11-28"
+intitule_in_force: "2001-11-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2001-231"
+original_signed_date: "2001-11-23"
+original_published_date: "2001-11-28"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2002-01-01"
+jci_1_3: "jci1.3:c:BWBR0013024&z=2002-01-01&g=2002-01-01"
+jci_1_0: "1.0:c:BWBR0013024&g=2002-01-01"
+citeertitel_status: "officieel"
+signed_date: "2001-11-23"
+entry_into_force: "2002-01-01"
 ---
-
 # Instellingsregeling Commissie Kosten en kostendragers van transformatie van wijken
 
 Overwegende,
@@ -18,11 +42,11 @@ dat in het Nationaal Akkoord Wonen 2001-2005 afgesproken is dat een breed sameng
 
 Besluit:
 
-#### I
+##### I
 
 in te stellen een Commissie Kosten en kostendragers van transformatie van wijken.
 
-#### II
+##### II
 
 de taak van de commissie als volgt vast te stellen:
 
@@ -34,11 +58,11 @@ de taak van de commissie als volgt vast te stellen:
 
 - d). het doen opstellen van aanbevelingen over kostendragers voor de eventuele kosten die niet uit de opbrengsten gefinancierd kunnen worden.
 
-#### III
+##### III
 
 de commissie op te dragen hem voor 15 januari 2002 te rapporteren.
 
-#### IV
+##### IV
 
 in de commissie te benoemen:
 
@@ -50,6 +74,6 @@ in de commissie te benoemen:
 
 - tot secretaris: drs. S.P. Band (ministerie van VROM).
 
-#### V
+##### V
 
 deze beschikking in de Nederlandse Staatscourant te plaatsen en in afschrift toe te zenden aan de Minister van Financiën, aan de voorzitter, de leden, waarnemers en de secretaris van de Commissie Kosten en kostendragers van transformatie van wijken en aan de Algemene Rekenkamer.

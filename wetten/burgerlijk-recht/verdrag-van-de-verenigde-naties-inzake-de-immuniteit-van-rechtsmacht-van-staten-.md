@@ -1,13 +1,32 @@
 ---
 title: "Verdrag van de Verenigde Naties inzake de immuniteit van rechtsmacht van staten en hun eigendommen"
 identifier: "BWBV0004713"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2004-12-02
-laatste_update: 2004-12-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004713"
+country: "nl"
+rank: "verdrag"
+publication_date: "2004-12-02"
+last_updated: "2004-12-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004713"
+soort: "verdrag"
+stam_id: "10004277913"
+version_id: "10004467582"
+internal_id: "C10006996181"
+label_id: "10004263704"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004713/2004-12-02/0"
+intitule_bron: "Trb.2010-272"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2010-11-15"
+intitule_status: "nogniet"
+original_publication: "Trb.2010-272"
+original_published_date: "2010-11-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2010-272"
+jci_1_3: "jci1.3:c:BWBV0004713&z=2004-12-02&g=2004-12-02"
+jci_1_0: "1.0:c:BWBV0004713&g=2004-12-02"
+citeertitel_status: "redactioneel"
+entry_into_force: "2010-11-15"
 ---
-
 # Verdrag van de Verenigde Naties inzake de immuniteit van rechtsmacht van staten en hun eigendommen
 
 De staten die partij zijn bij dit Verdrag,
@@ -26,11 +45,11 @@ Zijn het volgende overeengekomen:
 
 ## DEEL I. INLEIDING
 
-#### Artikel 1. Reikwijdte van dit Verdrag
+##### Artikel 1. Reikwijdte van dit Verdrag
 
 Dit Verdrag is van toepassing op de immuniteit van staten en hun eigendommen van de rechtsmacht van de rechters van een andere staat.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 1. Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -58,7 +77,7 @@ Dit Verdrag is van toepassing op de immuniteit van staten en hun eigendommen van
 
 3. De bepalingen van het eerste en tweede lid betreffende het gebruik van begrippen in dit Verdrag laten het gebruik van die termen of de betekenis die daaraan kan zijn gegeven in andere internationale instrumenten of in het nationale recht van een staat onverlet.
 
-#### Artikel 3. Voorrechten en immuniteiten die onaangetast worden gelaten door dit Verdrag
+##### Artikel 3. Voorrechten en immuniteiten die onaangetast worden gelaten door dit Verdrag
 
 1. Dit Verdrag laat onverlet de voorrechten en immuniteiten die een staat uit hoofde van het internationale recht geniet ten aanzien van het verrichten van de werkzaamheden van:
 
@@ -70,17 +89,17 @@ Dit Verdrag is van toepassing op de immuniteit van staten en hun eigendommen van
 
 3. Dit Verdrag laat onverlet de immuniteiten die een staat geniet uit hoofde van het internationale recht ter zake van luchtvaartuigen of ruimtevaartobjecten die het eigendom zijn van of worden geëxploiteerd door een staat.
 
-#### Artikel 4. Geen terugwerkende kracht
+##### Artikel 4. Geen terugwerkende kracht
 
 Onverminderd de toepassing van de in dit Verdrag vervatte regels die uit hoofde van het internationale recht los van dit Verdrag van toepassing zijn op de immuniteit van rechtsmacht van staten en hun eigendommen, is dit Verdrag niet van toepassing op kwesties inzake immuniteit van rechtsmacht van staten en hun eigendommen die aan de orde zijn in een geding tegen een staat voor een rechter van een andere staat, dat is ingesteld voordat dit Verdrag voor de betrokken staten in werking is getreden.
 
 ## DEEL II. ALGEMENE BEGINSELEN
 
-#### Artikel 5. Staatsimmuniteit
+##### Artikel 5. Staatsimmuniteit
 
 Een staat geniet ten aanzien van zichzelf en van zijn eigendommen immuniteit van de rechtsmacht van de rechters van een andere staat behoudens het bepaalde in dit Verdrag.
 
-#### Artikel 6. Modaliteiten om gevolg te geven aan de immuniteit van staten
+##### Artikel 6. Modaliteiten om gevolg te geven aan de immuniteit van staten
 
 1. Een staat geeft uitvoering aan de staatsimmuniteit in de zin van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004713&deel=II&artikel=5&z=2004-12-02&g=2004-12-02) door zich te onthouden van het uitoefenen van rechtsmacht in een geding tegen een andere staat voor zijn gerechten en verzekert daartoe dat zijn gerechten eigener beweging vaststellen dat de immuniteit van die andere staat uit hoofde van artikel 5 geëerbiedigd wordt.
 
@@ -90,7 +109,7 @@ Een staat geniet ten aanzien van zichzelf en van zijn eigendommen immuniteit van
 
 - b. niet wordt genoemd als partij in het geding maar dat geding wel de eigendommen, rechten, belangen of activiteiten van die andere staat beoogt te raken.
 
-#### Artikel 7. Uitdrukkelijke instemming met uitoefening van rechtsmacht
+##### Artikel 7. Uitdrukkelijke instemming met uitoefening van rechtsmacht
 
 1. Een staat kan geen beroep doen op immuniteit van rechtsmacht in een geding voor een rechter van een andere staat ter zake van een aangelegenheid of zaak indien hij uitdrukkelijk heeft ingestemd met de uitoefening van rechtsmacht door de rechter ter zake van de aangelegenheid of zaak:
 
@@ -102,7 +121,7 @@ Een staat geniet ten aanzien van zichzelf en van zijn eigendommen immuniteit van
 
 2. Overeenstemming met een staat ter zake van de toepassing van het recht van een andere staat wordt niet uitgelegd als instemming met de uitoefening van rechtsmacht door de gerechten van die andere staat.
 
-#### Artikel 8. Gevolgen van deelname in een geding voor een rechter
+##### Artikel 8. Gevolgen van deelname in een geding voor een rechter
 
 1. Een staat kan in een geding voor de rechter van een andere staat geen beroep doen op immuniteit van rechtsmacht indien:
 
@@ -120,7 +139,7 @@ Een staat geniet ten aanzien van zichzelf en van zijn eigendommen immuniteit van
 
 4. Indien een staat verzuimt te verschijnen voor de rechter van een andere staat wordt dat niet uitgelegd als instemming door de eerstbedoelde staat met de uitoefening van de rechtsmacht door de rechter.
 
-#### Artikel 9. Eisen in reconventie
+##### Artikel 9. Eisen in reconventie
 
 1. Een staat die een geding instelt bij de rechter van een andere staat kan geen beroep doen op immuniteit van rechtsmacht van de rechter ter zake van een eis in reconventie die voortvloeit uit dezelfde rechtsverhouding of uit de feiten waarop de eis in conventie is gegrond.
 
@@ -130,7 +149,7 @@ Een staat geniet ten aanzien van zichzelf en van zijn eigendommen immuniteit van
 
 ## DEEL III. GEDINGEN WAARIN GEEN BEROEP OP STAATSIMMUNITEIT KAN WORDEN GEDAAN
 
-#### Artikel 10. Commerciële transacties
+##### Artikel 10. Commerciële transacties
 
 1. Indien een staat een commerciële transactie aangaat met een buitenlandse natuurlijke persoon of rechtspersoon en geschillen ter zake van die commerciële transactie krachtens de toepasselijke regels van het internationaal privaatrecht vallen onder de rechtsmacht van de rechter van een andere staat, kan de staat in gedingen die voortvloeien uit die commerciële transactie, geen beroep doen op immuniteit ten aanzien van die rechtsmacht.
 
@@ -148,7 +167,7 @@ Een staat geniet ten aanzien van zichzelf en van zijn eigendommen immuniteit van
 
 betrokken is bij een geding dat betrekking heeft op een commerciële transactie waarbij die entiteit partij is, blijft de immuniteit van rechtsmacht die die staat geniet, onverlet.
 
-#### Artikel 11. Arbeidsovereenkomsten
+##### Artikel 11. Arbeidsovereenkomsten
 
 1. Tenzij anders overeengekomen tussen de betrokken staten, kan een staat geen beroep doen op immuniteit van rechtsmacht ten overstaan van een rechter van een andere staat die voor het overige bevoegd is ter zake van een geding dat betrekking heeft op een arbeidsovereenkomst tussen de staat en een natuurlijke persoon voor werkzaamheden die geheel of gedeeltelijk zijn verricht of dienen te worden verricht op het grondgebied van die andere staat.
 
@@ -174,11 +193,11 @@ betrokken is bij een geding dat betrekking heeft op een commerciële transactie 
 
 - f. de staat die als werkgever optreedt en de werknemer schriftelijk anders zijn overeengekomen, behoudens overwegingen op het gebied van openbare orde uit hoofde waarvan de staat van het forum exclusieve rechtsmacht heeft op grond van het voorwerp van het geding.
 
-#### Artikel 12. Persoonlijk letsel en schade aan eigendommen
+##### Artikel 12. Persoonlijk letsel en schade aan eigendommen
 
 Tenzij anders overeengekomen tussen de betrokken staten, kan een staat geen beroep doen op immuniteit van rechtsmacht ten overstaan van de rechter van een andere staat die voor het overige bevoegd is ter zake van een geding dat betrekking heeft op financiële schadevergoeding wegens overlijden of persoonlijk letsel, of schade aan of verlies van materiële eigendommen, veroorzaakt door handelen of nalaten waarvan gesteld wordt dat dat toe te schrijven is aan de staat, indien het handelen of nalaten geheel of gedeeltelijk plaatsvond op het grondgebied van die andere staat en degene die heeft gehandeld of heeft nagelaten te handelen zich op dat grondgebied bevond op het tijdstip van dat handelen of nalaten.
 
-#### Artikel 13. Eigendom, bezit en gebruik van eigendommen
+##### Artikel 13. Eigendom, bezit en gebruik van eigendommen
 
 Tenzij anders overeengekomen tussen de betrokken staten, kan een staat geen beroep doen op immuniteit van rechtsmacht ten overstaan van een rechter van een andere staat die voor het overige bevoegd is ter zake van een geding dat betrekking heeft op het vaststellen van:
 
@@ -188,7 +207,7 @@ Tenzij anders overeengekomen tussen de betrokken staten, kan een staat geen bero
 
 - c. elk recht van de staat op of zijn belang in het beheer van eigendommen, zoals die van trusts of van een failliete boedel of van de eigendommen van een onderneming bij opheffing ervan.
 
-#### Artikel 14. Intellectuele en industriële eigendom
+##### Artikel 14. Intellectuele en industriële eigendom
 
 Tenzij anders overeengekomen tussen de betrokken staten, kan een staat geen beroep doen op immuniteit van rechtsmacht ten overstaan van een rechter van een andere staat die voor het overige bevoegd is ter zake van een geding dat betrekking heeft op:
 
@@ -196,7 +215,7 @@ Tenzij anders overeengekomen tussen de betrokken staten, kan een staat geen bero
 
 - b. een inbreuk die door de staat op het grondgebied van de staat van het forum zou zijn gemaakt op een recht van de aard genoemd in onderdeel a, dat toebehoort aan een derde en wordt beschermd in de staat van het forum.
 
-#### Artikel 15. Deelname in ondernemingen of andere collectieve lichamen
+##### Artikel 15. Deelname in ondernemingen of andere collectieve lichamen
 
 1. Een staat kan geen beroep doen op immuniteit van rechtsmacht ten overstaan van een rechter van een andere staat die voor het overige bevoegd is ter zake van een geding dat betrekking heeft op zijn deelneming in een onderneming of ander collectief lichaam, met of zonder rechtspersoonlijkheid, zijnde een procedure ter zake van de verhouding tussen de staat en het lichaam of de andere deelnemers daarin, mits het lichaam:
 
@@ -206,7 +225,7 @@ Tenzij anders overeengekomen tussen de betrokken staten, kan een staat geen bero
 
 2. Een staat kan evenwel in een dergelijk geding beroep doen op immuniteit van rechtsmacht indien de betrokken staten dat zijn overeengekomen of indien de partijen bij het geschil dat hebben geregeld in een schriftelijke overeenkomst of indien de akte van oprichting of tot regulering van het lichaam in kwestie bepalingen van die strekking bevat.
 
-#### Artikel 16. Schepen in het bezit van of geëxploiteerd door een staat
+##### Artikel 16. Schepen in het bezit van of geëxploiteerd door een staat
 
 1. Tenzij anders overeengekomen tussen de betrokken staten, kan een staat die een schip bezit of exploiteert geen beroep doen op immuniteit van rechtsmacht ten overstaan van een rechter van een andere staat die voor het overige bevoegd is ter zake van een geding dat betrekking heeft op de exploitatie van dat schip indien het schip, op het tijdstip waarop de aanleiding voor de vordering ontstond, werd gebruikt voor andere dan niet-commerciële overheidsdoeleinden.
 
@@ -220,7 +239,7 @@ Tenzij anders overeengekomen tussen de betrokken staten, kan een staat geen bero
 
 6. Indien tijdens een geding een vraag rijst met betrekking tot het overheids- en niet-commerciële karakter van een schip in het bezit van of geëxploiteerd door een staat of vracht in het bezit van een staat, fungeert een door een diplomatieke vertegenwoordiger of andere bevoegde autoriteit van die staat ondertekend certificaat dat aan de rechter wordt gezonden als bewijs van het karakter van dat schip of die vracht.
 
-#### Artikel 17. Gevolgen van een arbitrageovereenkomst
+##### Artikel 17. Gevolgen van een arbitrageovereenkomst
 
 Indien een staat een schriftelijke overeenkomst aangaat met een vreemde natuurlijke persoon of rechtspersoon teneinde geschillen ter zake van een commerciële transactie te onderwerpen aan arbitrage, kan die staat geen beroep doen op immuniteit van rechtsmacht ten overstaan van een rechter van een andere staat die voor het overige bevoegd is in een geding ter zake van:
 
@@ -234,7 +253,7 @@ tenzij de arbitrageovereenkomst anders bepaalt.
 
 ## DEEL IV. IMMUNITEIT VAN STATEN VAN DWANGMAATREGELEN IN VERBAND MET GEDINGEN VOOR DE RECHTER
 
-#### Artikel 18. Immuniteit van staten van conservatoire maatregelen
+##### Artikel 18. Immuniteit van staten van conservatoire maatregelen
 
 Tegen eigendommen van een staat mogen geen conservatoire maatregelen worden getroffen, zoals beslag of zekerheidsstelling in verband met een geding voor een rechter van een andere staat, tenzij en voor zover:
 
@@ -248,7 +267,7 @@ Tegen eigendommen van een staat mogen geen conservatoire maatregelen worden getr
 
 - b. de staat eigendommen heeft aangewezen of gereserveerd ter voldoening van de vordering die onderwerp is van dat geding.
 
-#### Artikel 19. Immuniteit van staten van executiemaatregelen
+##### Artikel 19. Immuniteit van staten van executiemaatregelen
 
 Tegen eigendommen van een staat mogen geen executiemaatregelen worden getroffen zoals beslag, zekerheidsstelling of executie in verband met een geding voor een rechter van een andere staat, tenzij en voor zover:
 
@@ -264,11 +283,11 @@ Tegen eigendommen van een staat mogen geen executiemaatregelen worden getroffen 
 
 - c. vastgesteld is dat de eigendommen in het bijzonder worden gebruikt of beoogd zijn voor gebruik door de staat voor andere dan niet-commerciële overheidsdoeleinden en zich bevinden op het grondgebied van de staat van het forum, met dien verstande dat executiemaatregelen uitsluitend mogen worden getroffen tegen eigendommen die verband houden met de entiteit waartegen het geding zich richtte.
 
-#### Artikel 20. Gevolgen van instemming met rechtsmacht ter zake van dwangmaatregelen
+##### Artikel 20. Gevolgen van instemming met rechtsmacht ter zake van dwangmaatregelen
 
 Voor zover instemming met de dwangmaatregelen uit hoofde van de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004713&deel=IV&artikel=18&z=2004-12-02&g=2004-12-02) en [19](https://wetten.overheid.nl/jci1.3:c:BWBV0004713&deel=IV&artikel=19&z=2004-12-02&g=2004-12-02) vereist is, behelst instemming met de uitoefening van rechtsmacht uit hoofde van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004713&deel=II&artikel=7&z=2004-12-02&g=2004-12-02) geen instemming met het nemen van dwangmaatregelen.
 
-#### Artikel 21. Specifieke categorieën van eigendommen
+##### Artikel 21. Specifieke categorieën van eigendommen
 
 1. Met name de volgende categorieën van eigendommen van een staat worden niet aangemerkt als eigendommen die in het bijzonder worden gebruikt of beoogd zijn voor gebruik door de staat voor andere dan niet-commerciële overheidsdoeleinden uit hoofde van [artikel 19, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0004713&deel=IV&artikel=19&z=2004-12-02&g=2004-12-02):
 
@@ -286,7 +305,7 @@ Voor zover instemming met de dwangmaatregelen uit hoofde van de [artikelen 18](h
 
 ## DEEL V. OVERIGE BEPALINGEN
 
-#### Artikel 22. Betekening van procesinleidende stukken
+##### Artikel 22. Betekening van procesinleidende stukken
 
 1. Dagvaardingen of andere stukken ter inleiding van een geding tegen een staat worden betekend:
 
@@ -306,7 +325,7 @@ Voor zover instemming met de dwangmaatregelen uit hoofde van de [artikelen 18](h
 
 4. Een staat die verschijnt en ingaat op de gegrondheid van de vordering in een tegen hem ingesteld geding mag daarna niet stellen dat de betekening van het inleidend processtuk niet voldeed aan de bepalingen van het eerste en derde lid.
 
-#### Artikel 23. Uitspraak bij verstek
+##### Artikel 23. Uitspraak bij verstek
 
 1. Tegen een niet-verschenen staat wordt geen uitspraak gedaan tenzij de rechter heeft vastgesteld dat:
 
@@ -320,7 +339,7 @@ Voor zover instemming met de dwangmaatregelen uit hoofde van de [artikelen 18](h
 
 3. De termijn voor een verzoek om vernietiging van een bij verstek gegeven beslissing dient ten minste vier maanden te bedragen, te rekenen vanaf de datum waarop het afschrift van de beslissing is ontvangen of geacht wordt te zijn ontvangen door de betrokken staat.
 
-#### Artikel 24. Voorrechten en immuniteiten gedurende het geding
+##### Artikel 24. Voorrechten en immuniteiten gedurende het geding
 
 1. Indien een staat nalaat of weigert gevolg te geven aan een bevel van een rechter van een andere staat om een bepaalde handeling te verrichten of na te laten, een stuk over te leggen of andere inlichtingen te verstrekken ten behoeve van een geding, mag dat geen andere gevolgen hebben dan die welke daaruit kunnen voortvloeien voor de gegrondheid van de vordering. De staat mag vanwege dit nalaten of weigeren geen boete of straf worden opgelegd.
 
@@ -328,15 +347,15 @@ Voor zover instemming met de dwangmaatregelen uit hoofde van de [artikelen 18](h
 
 ## DEEL VI. SLOTBEPALINGEN
 
-#### Artikel 25. Bijlage
+##### Artikel 25. Bijlage
 
 De aan dit Verdrag gehechte Bijlage is een integrerend onderdeel van het Verdrag.
 
-#### Artikel 26. Andere internationale overeenkomsten
+##### Artikel 26. Andere internationale overeenkomsten
 
 De bepalingen van dit Verdrag laten onverlet de rechten en verplichtingen van staten die partij zijn uit hoofde van bestaande internationale overeenkomsten die betrekking hebben op aangelegenheden die in dit Verdrag tussen de partijen bij die overeenkomsten worden geregeld.
 
-#### Artikel 27. Beslechting van geschillen
+##### Artikel 27. Beslechting van geschillen
 
 1. De staten die partij zijn, zullen trachten geschillen betreffende de uitlegging of toepassing van dit Verdrag te beslechten door onderhandeling.
 
@@ -346,11 +365,11 @@ De bepalingen van dit Verdrag laten onverlet de rechten en verplichtingen van st
 
 4. Een staat die partij is die een verklaring overeenkomstig het derde lid heeft afgelegd, kan deze verklaring te allen tijde intrekken door middel van een kennisgeving aan de Secretaris-Generaal van de Verenigde Naties.
 
-#### Artikel 28. Ondertekening
+##### Artikel 28. Ondertekening
 
 Dit Verdrag staat tot 17 januari 2007 open voor ondertekening door alle staten op het hoofdkwartier van de Verenigde Naties in New York.
 
-#### Artikel 29. Bekrachtiging, aanvaarding, goedkeuring of toetreding
+##### Artikel 29. Bekrachtiging, aanvaarding, goedkeuring of toetreding
 
 1. Dit Verdrag dient te worden bekrachtigd, aanvaard of goedgekeurd.
 
@@ -358,13 +377,13 @@ Dit Verdrag staat tot 17 januari 2007 open voor ondertekening door alle staten o
 
 3. De akten van bekrachtiging, aanvaarding, goedkeuring of toetreding worden nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
 
-#### Artikel 30. Inwerkingtreding
+##### Artikel 30. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking dertig dagen na de datum van nederlegging van de dertigste akte van bekrachtiging, aanvaarding, goedkeuring of toetreding bij de Secretaris-Generaal van de Verenigde Naties.
 
 2. Ten aanzien van iedere staat die dit Verdrag bekrachtigt, aanvaardt, goedkeurt of ertoe toetreedt na de nederlegging van de dertigste akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, treedt dit Verdrag in werking dertig dagen na de datum van nederlegging door de betreffende staat van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
 
-#### Artikel 31. Opzegging
+##### Artikel 31. Opzegging
 
 1. Een staat die partij is kan dit Verdrag opzeggen door middel van een schriftelijke kennisgeving aan de Secretaris-Generaal van de Verenigde Naties.
 
@@ -372,7 +391,7 @@ Dit Verdrag staat tot 17 januari 2007 open voor ondertekening door alle staten o
 
 3. De opzegging tast in geen geval de plicht aan van staten die partij zijn elke verplichting na te komen die vervat is in dit Verdrag en die los van dit Verdrag ook uit hoofde van het internationale recht op hen zou rusten.
 
-#### Artikel 32. Depositaris en kennisgevingen
+##### Artikel 32. Depositaris en kennisgevingen
 
 1. De Secretaris-Generaal van de Verenigde Naties is aangewezen als depositaris van dit Verdrag.
 
@@ -384,33 +403,33 @@ Dit Verdrag staat tot 17 januari 2007 open voor ondertekening door alle staten o
 
 - c. iedere andere akte, kennisgeving of mededeling met betrekking tot dit Verdrag.
 
-#### Artikel 33. Authentieke teksten
+##### Artikel 33. Authentieke teksten
 
 De Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse tekst van dit Verdrag zijn gelijkelijk authentiek.
 
 In deze Bijlage zijn de regelingen voor de desbetreffende bepalingen vervat.
 
-#### Wat [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0004713&deel=III&artikel=10&z=2004-12-02&g=2004-12-02) betreft
+##### Wat [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0004713&deel=III&artikel=10&z=2004-12-02&g=2004-12-02) betreft
 
 De uitdrukking „immuniteit” in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0004713&deel=III&artikel=10&z=2004-12-02&g=2004-12-02) dient te worden verstaan in de context van dit Verdrag in zijn geheel.
 
 Artikel 10, derde lid, laat onverlet de kwestie van „piercing the corporate veil” (doorbraak van aansprakelijkheid), vragen betreffende een situatie waarbij een entiteit van een staat opzettelijk onjuiste inlichtingen heeft verstrekt over haar financiële situatie of haar vermogensbestanddelen heeft verminderd teneinde te voorkomen dat vorderingen worden voldaan, of andere kwesties op dit gebied.
 
-#### Wat [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004713&deel=III&artikel=11&z=2004-12-02&g=2004-12-02) betreft
+##### Wat [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004713&deel=III&artikel=11&z=2004-12-02&g=2004-12-02) betreft
 
 De verwijzing in [artikel 11, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBV0004713&deel=III&artikel=11&z=2004-12-02&g=2004-12-02), naar veiligheidsbelangen van de staat die als werkgever optreedt is primair beoogd voor aangelegenheden op het gebied van de nationale veiligheid en de veiligheid van diplomatieke vertegenwoordigingen en consulaire posten.
 
 Krachtens [artikel 41 van het Verdrag van Wenen inzake diplomatiek verkeer](https://wetten.overheid.nl/jci1.3:c:BWBV0004345&artikel=41) van 1961 en [artikel 55 van het Verdrag van Wenen inzake consulaire betrekkingen](https://wetten.overheid.nl/jci1.3:c:BWBV0004334&artikel=55) van 1963, zijn alle in die artikelen bedoelde personen gehouden de wet- en regelgeving, met inbegrip van het arbeidsrecht, van de gastheerstaat te eerbiedigen. Krachtens [artikel 38 van het Verdrag van Wenen inzake diplomatiek verkeer](https://wetten.overheid.nl/jci1.3:c:BWBV0004345&artikel=38) van 1961 en [artikel 71 van het Verdrag van Wenen inzake consulaire betrekkingen](https://wetten.overheid.nl/jci1.3:c:BWBV0004334&artikel=71) van 1963 is de ontvangende staat tegelijkertijd gehouden zijn rechtsmacht zodanig uit te oefenen dat de vertegenwoordiging of consulaire post niet onnodig in haar of zijn functioneren wordt belemmerd.
 
-#### Wat de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBV0004713&deel=III&artikel=13&z=2004-12-02&g=2004-12-02) en [14](https://wetten.overheid.nl/jci1.3:c:BWBV0004713&deel=III&artikel=14&z=2004-12-02&g=2004-12-02) betreft
+##### Wat de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBV0004713&deel=III&artikel=13&z=2004-12-02&g=2004-12-02) en [14](https://wetten.overheid.nl/jci1.3:c:BWBV0004713&deel=III&artikel=14&z=2004-12-02&g=2004-12-02) betreft
 
 De uitdrukking „vaststellen” verwijst niet alleen naar het controleren of verifiëren van het bestaan van de beschermde rechten, maar ook het beoordelen of vaststellen van de strekking, met inbegrip van de inhoud, omvang en reikwijdte van die rechten.
 
-#### Wat [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0004713&deel=III&artikel=17&z=2004-12-02&g=2004-12-02) betreft
+##### Wat [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0004713&deel=III&artikel=17&z=2004-12-02&g=2004-12-02) betreft
 
 De uitdrukking „commerciële transactie” omvat mede aangelegenheden op het gebied van investeringen.
 
-#### Wat [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0004713&deel=IV&artikel=19&z=2004-12-02&g=2004-12-02) betreft
+##### Wat [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0004713&deel=IV&artikel=19&z=2004-12-02&g=2004-12-02) betreft
 
 De uitdrukking „entiteit” in onderdeel c heeft betrekking op de staat als een onafhankelijke rechtspersoon, een onderdeel van een federale staat, een staatkundig onderdeel, een agentschap of instantie van een staat of een andere onafhankelijke eenheid met rechtspersoonlijkheid.
 

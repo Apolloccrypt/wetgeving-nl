@@ -1,13 +1,38 @@
 ---
 title: "Omzetbelasting, heffing van omzetbelasting bij invoer"
 identifier: "BWBR0022881"
-categorie: "Belastingrecht"
-publicatiedatum: 2007-11-24
-laatste_update: 2007-11-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0022881"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2007-11-24"
+last_updated: "2007-11-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0022881"
+soort: "beleidsregel"
+stam_id: "9286943"
+version_id: "14906622"
+internal_id: "C29373511"
+label_id: "9265674"
+dtd_version: "2.0"
+original_entry_into_force: "2007-11-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0022881/2007-11-24/0"
+intitule_bron: "Stcrt.2007-227"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-11-13"
+intitule_published: "2007-11-22"
+intitule_in_force: "2007-11-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-227"
+original_signed_date: "2007-11-13"
+original_published_date: "2007-11-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2007-227-p11-SC83052"
+entry_into_force_date: "2007-11-24"
+jci_1_3: "jci1.3:c:BWBR0022881&z=2007-11-24&g=2007-11-24"
+jci_1_0: "1.0:c:BWBR0022881&g=2007-11-24"
+citeertitel_status: "redactioneel"
+signed_date: "2007-11-13"
+entry_into_force: "2007-11-24"
 ---
-
 # Omzetbelasting, heffing van omzetbelasting bij invoer
 
 De Staatssecretaris van Financiën heeft het volgende besloten.

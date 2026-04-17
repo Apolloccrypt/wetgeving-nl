@@ -1,13 +1,39 @@
 ---
-title: "Aanvullingsregeling geluid Omgevingswet"
+title: "Regeling van de Staatssecretaris van Infrastructuur en Waterstaat en de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 19 maart 2021 tot wijziging van de Omgevingsregeling vanwege het opnemen van regels met het oog op de beheersing van geluid afkomstig van wegen, spoorwegen en industrieterreinen (Aanvullingsregeling geluid Omgevingswet)"
 identifier: "BWBR0045504"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045504"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045504"
+soort: "ministeriele-regeling"
+stam_id: "16045373"
+version_id: "27946672"
+internal_id: "C42057021"
+label_id: "15978104"
+dtd_version: "2.0"
+original_entry_into_force: "2024-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045504/2024-01-01/0"
+intitule_bron: "Stcrt.2021-15868"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-03-19"
+intitule_published: "2021-03-26"
+intitule_in_force: "2023-04-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-15868"
+original_signed_date: "2021-03-19"
+original_published_date: "2021-03-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-15868"
+entry_into_force_date: "2024-01-01"
+jci_1_3: "jci1.3:c:BWBR0045504&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0045504&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Aanvullingsregeling geluid Omgevingswet"
+signed_date: "2021-03-19"
+entry_into_force: "2024-01-01"
 ---
-
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat en de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 19 maart 2021 tot wijziging van de Omgevingsregeling vanwege het opnemen van regels met het oog op de beheersing van geluid afkomstig van wegen, spoorwegen en industrieterreinen (Aanvullingsregeling geluid Omgevingswet)
 
 Gelet op de richtlijn omgevingslawaai, de [artikelen 2.15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.15), [2.21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.21), [2.24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.24), [4.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.1), [20.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=20.3), [20.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=20.6), [20.7, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=20.7), en [20.10, derde lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=20.10) en [artikel 3.2, eerste lid, van de Aanvullingswet geluid Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043247&artikel=3.2);
@@ -16,23 +42,23 @@ Besluiten:
 
 ### Hoofdstuk 1. Aanvulling en wijziging [Omgevingsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0045528)
 
-#### Artikel 1.1. ([Omgevingsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0045528))
+##### Artikel 1.1. ([Omgevingsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0045528))
 
 Wijzigt de Omgevingsregeling.
 
 ### Hoofdstuk 2. Wijziging andere regelingen
 
-#### Artikel 2.1. ([Regeling geluidwerende voorzieningen 1997](https://wetten.overheid.nl/jci1.3:c:BWBR0008540))
+##### Artikel 2.1. ([Regeling geluidwerende voorzieningen 1997](https://wetten.overheid.nl/jci1.3:c:BWBR0008540))
 
 Wijzigt de Regeling geluidwerende voorzieningen 1997.
 
-#### Artikel 2.2. ([Regeling geluidwerende voorzieningen militaire luchthavens 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037108))
+##### Artikel 2.2. ([Regeling geluidwerende voorzieningen militaire luchthavens 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037108))
 
 Wijzigt de Regeling geluidwerende voorzieningen militaire luchthavens 2015.
 
 ### Hoofdstuk 3. Intrekking regelingen
 
-#### Artikel 3.1. (intrekken regelingen)
+##### Artikel 3.1. (intrekken regelingen)
 
 De volgende regelingen worden ingetrokken:
 
@@ -52,7 +78,7 @@ De volgende regelingen worden ingetrokken:
 
 ### Hoofdstuk 4. Overgangsrecht
 
-#### Artikel 4.1. (overgangsrecht herberekenen: geluidproductieplafonds rijkswegen en hoofdspoorwegen)
+##### Artikel 4.1. (overgangsrecht herberekenen: geluidproductieplafonds rijkswegen en hoofdspoorwegen)
 
 1. Volgens de [bijlagen IVe](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVe), [IVf](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVf) en [IVg](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=IVg) worden herberekend:
 
@@ -78,11 +104,11 @@ De volgende regelingen worden ingetrokken:
 
 - 2°. er geen geluidbeperkend werk of bouwwerk aanwezig is dat is geplaatst om het geluid door de spoorweg op een geluidgevoelig gebouw te beperken.
 
-#### Artikel 4.2. (overgangsrecht gecumuleerd geluid en gezamenlijk geluid industrieterreinen)
+##### Artikel 4.2. (overgangsrecht gecumuleerd geluid en gezamenlijk geluid industrieterreinen)
 
 Als voor een industrieterrein nog geen geluidproductieplafond als omgevingswaarde is vastgesteld, wordt bij het bepalen van het gecumuleerde geluid als bedoeld in [artikel 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&artikel=3.25) en het gezamenlijke geluid als bedoeld in [artikel 3.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&artikel=3.26) uitgegaan van de op grond van de [Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227), zoals die gold onmiddellijk voorafgaand aan de inwerkingtreding van de [Aanvullingswet geluid Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043247), ten hoogste toegestane geluidbelasting van het industrieterrein, uitgedrukt in Lden.
 
-#### Artikel 4.3. (overgangsrecht maatregelpunten)
+##### Artikel 4.3. (overgangsrecht maatregelpunten)
 
 1. Bij de toepassing van [artikel XI, eerste lid, aanhef en onder c, van het Aanvullingsbesluit geluid Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0044679&artikel=XI):
 
@@ -100,19 +126,19 @@ Als voor een industrieterrein nog geen geluidproductieplafond als omgevingswaard
 
 - **saneringsgebouw:** geluidgevoelig gebouw dat is vermeld op de lijst, bedoeld in [artikel 15.2 van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=15.2).
 
-#### Artikel 4.4. (overgangsrecht verbeelding van activiteiten op industrieterreinen op geografische kaarten)
+##### Artikel 4.4. (overgangsrecht verbeelding van activiteiten op industrieterreinen op geografische kaarten)
 
 Totdat het omgevingsplan voor een industrieterrein onherroepelijk voorziet in een geluidaandachtsgebied dat is vastgesteld op grond van [artikel 3.31 van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=3.31), worden in afwijking van [artikel 12.78, aanhef en onder b, van de Omgevingsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&artikel=12.78), onverminderd de onderdelen a, c en d, van dat artikel, activiteiten op industrieterreinen als bedoeld in [artikel 11.50, eerste lid, onder c, onder 1°, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=11.50), op geografische kaarten weergegeven door verbeelding van de zone rond het industrieterrein, vastgesteld op grond van [artikel 40 van de Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=40).
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 5.1. (inwerkingtreding)
+##### Artikel 5.1. (inwerkingtreding)
 
 1. Deze regeling treedt in werking op een bij ministerieel besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
 2. Een ministerieel besluit als bedoeld in het eerste lid wordt in de Staatscourant bekendgemaakt.
 
-#### Artikel 5.2. (citeertitel)
+##### Artikel 5.2. (citeertitel)
 
 Deze regeling wordt aangehaald als: Aanvullingsregeling geluid Omgevingswet.
 

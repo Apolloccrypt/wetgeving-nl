@@ -1,13 +1,35 @@
 ---
 title: "Protocol inzake de bekendmaking in het Benelux-Publikatieblad van bepaalde gemeenschappelijke rechtsregels voor de uitleg waarvan het Benelux-Gerechtshof bevoegd is"
 identifier: "BWBV0003524"
-categorie: "Internationaal recht"
-publicatiedatum: 1982-06-01
-laatste_update: 1982-06-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003524"
+country: "nl"
+rank: "verdrag"
+publication_date: "1982-06-01"
+last_updated: "1982-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003524"
+soort: "verdrag"
+stam_id: "10003573423"
+version_id: "10003630092"
+internal_id: "C10006980011"
+label_id: "10003558794"
+dtd_version: "2.0"
+original_entry_into_force: "1982-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003524/1982-06-01/0"
+intitule_bron: "Trb.1980-43"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1980-03-26"
+intitule_in_force: "1982-06-08"
+intitule_status: "goed"
+original_publication: "Trb.1980-43"
+original_published_date: "1980-03-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1980-43"
+entry_into_force_date: "1982-06-01"
+jci_1_3: "jci1.3:c:BWBV0003524&z=1982-06-01&g=1982-06-01"
+jci_1_0: "1.0:c:BWBV0003524&g=1982-06-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1982-06-01"
 ---
-
 # Protocol inzake de bekendmaking in het Benelux-Publikatieblad van bepaalde gemeenschappelijke rechtsregels voor de uitleg waarvan het Benelux-Gerechtshof bevoegd is
 
 De Regering van het Koninkrijk België,
@@ -26,7 +48,7 @@ Gelet op het advies van de Raadgevende Interparlementaire Beneluxraad van 26 okt
 
 Hebben besloten tot dat doel een Protocol te sluiten en zijn de volgende bepalingen overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 1. De bekendmaking in het Benelux-Publikatieblad van de beschikkingen en aanbevelingen van het Comité van Ministers en van de Ministeriële Werkgroepen van de Benelux Economische Unie, welke als gemeenschappelijke rechtsregels van de drie landen zijn aangewezen door:
 
@@ -36,17 +58,17 @@ Hebben besloten tot dat doel een Protocol te sluiten en zijn de volgende bepalin
 
 2. De Secretaris-Generaal van de Benelux Economische Unie draagt onverwijld zorg voor de bekendmaking in het Benelux-Publikatieblad van de als gemeenschappelijke rechtsregels aangewezen beschikkingen en aanbevelingen, bedoeld in het eerste lid.
 
-#### Artikel 2
+##### Artikel 2
 
 Het Benelux-Gerechtshof neemt kennis van de vragen betreffende de uitleg van de bepalingen van dit Protocol voor de toepassing van de [Hoofdstukken III](https://wetten.overheid.nl/jci1.3:c:BWBV0004117&hoofdstuk=III) en [IV van voornoemd Verdrag van 31 maart 1965](https://wetten.overheid.nl/jci1.3:c:BWBV0004117&hoofdstuk=IV).
 
-#### Artikel 3
+##### Artikel 3
 
 1. Wat het Koninkrijk der Nederlanden betreft, geldt dit Protocol alleen voor het Rijk in Europa.
 
 2. De Regering van het Koninkrijk der Nederlanden kan de toepasselijkheid van dit Protocol uitbreiden tot de Nederlandse Antillen door middel van een verklaring, gericht aan de Secretaris-Generaal van de Benelux Economische Unie, die daarvan onmiddellijk kennis geeft aan de beide andere Regeringen. Deze verklaring wordt van kracht op de eerste dag van de tweede maand, volgende op de datum waarop de Secretaris-Generaal haar heeft ontvangen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Dit Protocol zal worden bekrachtigd en de akten van bekrachtiging zullen worden nedergelegd bij de Secretaris-Generaal van de Benelux Economische Unie, die de Overeenkomstsluitende Partijen kennis geeft van de nederlegging van die akten.
 

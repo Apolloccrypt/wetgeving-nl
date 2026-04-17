@@ -1,34 +1,60 @@
 ---
-title: "Regeling specifieke uitkering tijdelijke ondersteuning toezicht en handhaving"
+title: "Regeling van de Minister van Justitie en Veiligheid van 17 december 2020, nr 3146111, houdende een eenmalige specifieke uitkering voor gemeenten in verband met de ondersteuning van de toezichts- en handhavingstaak door tijdelijke arbeidskrachten (Regeling specifieke uitkering tijdelijke ondersteuning toezicht en handhaving)"
 identifier: "BWBR0044562"
-categorie: "Bestuursrecht"
-publicatiedatum: 2021-07-01
-laatste_update: 2021-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044562"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-07-01"
+last_updated: "2021-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044562"
+soort: "ministeriele-regeling"
+stam_id: "15773363"
+version_id: "27336612"
+internal_id: "C38607621"
+label_id: "15711464"
+dtd_version: "2.0"
+original_entry_into_force: "2020-12-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044562/2021-07-01/0"
+intitule_bron: "Stcrt.2020-69135"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-12-17"
+intitule_published: "2020-12-24"
+intitule_in_force: "2020-12-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-69135"
+original_signed_date: "2020-12-17"
+original_published_date: "2020-12-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-69135"
+entry_into_force_date: "2020-12-25"
+jci_1_3: "jci1.3:c:BWBR0044562&z=2021-07-01&g=2021-07-01"
+jci_1_0: "1.0:c:BWBR0044562&g=2021-07-01"
+citeertitel_status: "officieel"
+short_title: "Regeling specifieke uitkering tijdelijke ondersteuning toezicht en handhaving"
+signed_date: "2020-12-17"
+entry_into_force: "2020-12-25"
 ---
-
 # Regeling van de Minister van Justitie en Veiligheid van 17 december 2020, nr 3146111, houdende een eenmalige specifieke uitkering voor gemeenten in verband met de ondersteuning van de toezichts- en handhavingstaak door tijdelijke arbeidskrachten (Regeling specifieke uitkering tijdelijke ondersteuning toezicht en handhaving)
 
 Gelet op [artikel 17, vijfde lid, van de Financiële Verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
 - **minister:** Minister van Justitie en Veiligheid.
 
-#### Artikel 2. Specifieke uitkering
+##### Artikel 2. Specifieke uitkering
 
 De minister kan op aanvraag aan een gemeente eenmalig een specifieke uitkering verstrekken ter bestrijding van de kosten die gemaakt worden voor het in dienst nemen van werknemers en voor de inhuur van ter beschikking gestelde arbeidskrachten om tijdelijk een deel van de toezicht- en handhavingstaken uit te voeren en daaraan rechtstreeks ondersteuning te bieden.
 
-#### Artikel 3. Hoogte specifieke uitkering
+##### Artikel 3. Hoogte specifieke uitkering
 
 De specifieke uitkering bedraagt ten hoogste het bedrag inclusief BTW, bij die gemeente opgenomen in de bijlage. [Artikel 4:25, tweede en derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:25) zijn van overeenkomstige toepassing.
 
-#### Artikel 4. Aanvraag
+##### Artikel 4. Aanvraag
 
 1. Een aanvraag bevat in ieder geval:
 
@@ -42,13 +68,13 @@ De specifieke uitkering bedraagt ten hoogste het bedrag inclusief BTW, bij die g
 
 3. De aanvraag wordt uiterlijk op 30 september 2021 ingediend, met gebruikmaking van door de minister ter beschikking gesteld digitaal aanvraagformulier.
 
-#### Artikel 5. Verlening en bevoorschotting
+##### Artikel 5. Verlening en bevoorschotting
 
 1. De minister besluit over de aanvraag binnen dertien weken na ontvangst ervan.
 
 2. De minister verstrekt een voorschot van 100% van de specifieke uitkering.
 
-#### Artikel 6. Voor vergoeding in aanmerking komende kosten
+##### Artikel 6. Voor vergoeding in aanmerking komende kosten
 
 1. De uitkering wordt alleen verstrekt ter bekostiging van de over de periode van 15 december 2020 tot en met 30 september 2021:
 
@@ -68,7 +94,7 @@ De specifieke uitkering bedraagt ten hoogste het bedrag inclusief BTW, bij die g
 
 - d. kosten voor verplichtingen die zijn aangegaan voor 15 december 2020.
 
-#### Artikel 7. Verantwoording
+##### Artikel 7. Verantwoording
 
 1. De gemeente legt aan de minister verantwoording af over de besteding van de specifieke uitkering op de wijze, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
@@ -78,7 +104,7 @@ De specifieke uitkering bedraagt ten hoogste het bedrag inclusief BTW, bij die g
 
 4. De gemeenten nemen de artikelen 107 en 108 van het Verdrag betreffende de Werking van de Europese Unie in acht bij de besteding van de specifieke uitkering.
 
-#### Artikel 8. Vaststelling en terugvordering
+##### Artikel 8. Vaststelling en terugvordering
 
 1. De minister stelt de uitkering vast binnen zesentwintig weken na de ontvangst van de in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044562&artikel=7&z=2021-07-01&g=2021-07-01), genoemde verantwoording, respectievelijk van de in het derde lid van dat artikel genoemde aanvulling.
 
@@ -94,11 +120,11 @@ De specifieke uitkering bedraagt ten hoogste het bedrag inclusief BTW, bij die g
 
 3. De minister kan onverschuldigd betaalde bedragen terugvorderen.
 
-#### Artikel 9. Inwerkingtreding
+##### Artikel 9. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 10. Citeertitel
+##### Artikel 10. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering tijdelijke ondersteuning toezicht en handhaving.
 

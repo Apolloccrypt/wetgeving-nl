@@ -1,13 +1,39 @@
 ---
-title: "Waterregeling"
+title: "Regeling houdende regels met betrekking tot het beheer en gebruik van watersystemen (Waterregeling)"
 identifier: "BWBR0026845"
-categorie: "Milieu"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026845"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026845"
+soort: "ministeriele-regeling"
+stam_id: "10316413"
+version_id: "16910952"
+internal_id: "C23298031"
+label_id: "10292634"
+dtd_version: "2.0"
+original_entry_into_force: "2009-12-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026845/2026-01-01/0"
+intitule_bron: "Stcrt.2009-19353"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-12-07"
+intitule_published: "2009-12-17"
+intitule_in_force: "2009-12-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-19353"
+original_signed_date: "2009-12-07"
+original_published_date: "2009-12-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-19353"
+entry_into_force_date: "2009-12-22"
+jci_1_3: "jci1.3:c:BWBR0026845&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0026845&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Waterregeling"
+signed_date: "2009-12-07"
+entry_into_force: "2009-12-22"
 ---
-
 # Regeling houdende regels met betrekking tot het beheer en gebruik van watersystemen (Waterregeling)
 
 Gelet op [artikel 7.5, eerste en vierde lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=7.5) en de [artikelen 2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=2.3), [3.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=3.1), [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=3.3), [3.4, derde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=3.4), [4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=4.13), [4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=4.18), [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.2), [6.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.7), [6.11, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.11), [6.12, tweede lid, onderdeel f, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.12), [6.13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.13), [6.15, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.15), [6.16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.16), [6.17](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.17), [6.19](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.19), [6.21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.21), [6.22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.22), en [6.23, eerste lid, van het Waterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.23);
@@ -16,13 +42,13 @@ Besluiten:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1
+##### Artikel 1.1
 
 Vervallen
 
 ### Hoofdstuk 2. Doelstellingen en normen
 
-#### Artikel 2.1
+##### Artikel 2.1
 
 Vervallen
 
@@ -30,43 +56,43 @@ Vervallen
 
 #### § 1. Beheer van oppervlaktewaterlichamen en aanwijzing drogere oevergebieden
 
-#### Artikel 3.1
+##### Artikel 3.1
 
 Vervallen
 
-#### Artikel 3.2
+##### Artikel 3.2
 
 Vervallen
 
-#### Artikel 3.3
+##### Artikel 3.3
 
 Vervallen
 
-#### Artikel 3.4
+##### Artikel 3.4
 
 Vervallen
 
-#### Artikel 3.5
+##### Artikel 3.5
 
 Vervallen
 
-#### Artikel 3.6
+##### Artikel 3.6
 
 Vervallen
 
-#### Artikel 3.7
+##### Artikel 3.7
 
 Vervallen
 
 #### § 2. Regels met betrekking tot het verstrekken van informatie
 
-#### Artikel 3.8
+##### Artikel 3.8
 
 Vervallen
 
 ### Hoofdstuk 4. Plannen
 
-#### Artikel 4.1
+##### Artikel 4.1
 
 Vervallen
 
@@ -76,145 +102,145 @@ Vervallen
 
 #### § 1. Algemene bepalingen over het lozen van stoffen
 
-#### Artikel 6.1
+##### Artikel 6.1
 
 Vervallen
 
-#### Artikel 6.2
+##### Artikel 6.2
 
 Vervallen
 
 #### § 1. Algemene bepalingen over het lozen van stoffen
 
-#### Artikel 6.3
+##### Artikel 6.3
 
 Vervallen
 
 #### § 2. Het brengen van stedelijk afvalwater in oppervlaktewaterlichamen
 
-#### Artikel 6.4
+##### Artikel 6.4
 
 Vervallen
 
-#### Artikel 6.5
+##### Artikel 6.5
 
 Vervallen
 
 #### § 3. Het onttrekken van grondwater en infiltreren van water
 
-#### Artikel 6.6
+##### Artikel 6.6
 
 Vervallen
 
-#### Artikel 6.7
-
-Vervallen
-
-#### § 4.1. Algemene regels
-
-#### Artikel 6.8
-
-Vervallen
-
-#### Artikel 6.9
-
-Vervallen
-
-#### Artikel 6.10
+##### Artikel 6.7
 
 Vervallen
 
 #### § 4.1. Algemene regels
 
-#### Artikel 6.11
+##### Artikel 6.8
 
 Vervallen
 
-#### Artikel 6.12
+##### Artikel 6.9
 
 Vervallen
 
-#### Artikel 6.13
+##### Artikel 6.10
+
+Vervallen
+
+#### § 4.1. Algemene regels
+
+##### Artikel 6.11
+
+Vervallen
+
+##### Artikel 6.12
+
+Vervallen
+
+##### Artikel 6.13
 
 Vervallen
 
 #### § 4.2. Activiteiten van ondergeschikt belang
 
-#### Artikel 6.14
+##### Artikel 6.14
 
 Vervallen
 
-#### Artikel 6.15
+##### Artikel 6.15
 
 Vervallen
 
 #### § 5. Het brengen en onttrekken van water aan oppervlaktewaterlichamen
 
-#### Artikel 6.16
+##### Artikel 6.16
 
 Vervallen
 
-#### Artikel 6.17
+##### Artikel 6.17
 
 Vervallen
 
 #### § 4a. Windparken op zee
 
-#### Artikel 6.18
+##### Artikel 6.18
 
 Vervallen
 
-#### Artikel 6.19
+##### Artikel 6.19
 
 Vervallen
 
-#### Artikel 6.20
+##### Artikel 6.20
 
 Vervallen
 
-#### Artikel 6.21
+##### Artikel 6.21
 
 Vervallen
 
-#### Artikel 6.22
+##### Artikel 6.22
 
 Vervallen
 
-#### Artikel 6.23
+##### Artikel 6.23
 
 Vervallen
 
-#### Artikel 6.24
+##### Artikel 6.24
 
 Vervallen
 
-#### Artikel 6.25
+##### Artikel 6.25
 
 Vervallen
 
-#### Artikel 6.26
+##### Artikel 6.26
 
 Vervallen
 
-#### Artikel 6.27
+##### Artikel 6.27
 
 Vervallen
 
-#### Artikel 6.28
+##### Artikel 6.28
 
 Vervallen
 
-#### Artikel 6.29
+##### Artikel 6.29
 
 Vervallen
 
-#### Artikel 6.30
+##### Artikel 6.30
 
 Vervallen
 
 ### Hoofdstuk 7. Verontreinigingsheffing
 
-#### Artikel 7.1
+##### Artikel 7.1
 
 In dit hoofdstuk wordt verstaan onder:
 
@@ -232,7 +258,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 - **open meetsysteem:** meetsysteem waarbij het oppervlak van het stromende afvalwater in contact staat met de buitenlucht.
 
-#### Artikel 7.2
+##### Artikel 7.2
 
 1. Het aantal vervuilingseenheden met betrekking tot het zuurstofverbruik, VeO, wordt berekend door de som van het aantal gedurende elk etmaal van het heffingsjaar afgevoerde hoeveelheden zuurstofverbruik, uitgedrukt in kilogrammen, te delen door 54,8 kilogram.
 
@@ -284,11 +310,11 @@ T wordt berekend bij:
 
 5. De heffingsambtenaar beslist op de aanvraag, bedoeld in het vierde lid, bij voor bezwaar vatbare beschikking waaraan voorschriften kunnen worden verbonden. Daarbij kan het in ieder geval gaan om voorschriften over de frequentie van meten, bemonsteren en analyseren.
 
-#### Artikel 7.3
+##### Artikel 7.3
 
 Vervallen
 
-#### Artikel 7.4
+##### Artikel 7.4
 
 Voor de berekening van de frequentie van meting, bemonstering en analyse, bedoeld in [artikel 7.5, eerste en tweede lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=7.5) wordt gebruik gemaakt van de volgende formule:
 
@@ -304,7 +330,7 @@ N = het aantal dagen per jaar dat stoffen in oppervlaktewaterlichamen worden gel
 
 σ = spreidingspercentage in de meetwaarden, uitgedrukt ten opzichte van het gemiddelde van de hoeveelheden zuurstofverbruik van de geloosde stoffen in de etmalen waarop gedurende het heffingsjaar onderzoek heeft plaatsgehad.
 
-#### Artikel 7.5
+##### Artikel 7.5
 
 1. De meting, bemonstering en analyse, bedoeld in [artikel 7.5, eerste lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=7.5) geschiedt zodanig dat:
 
@@ -354,7 +380,7 @@ N = het aantal dagen per jaar dat stoffen in oppervlaktewaterlichamen worden gel
 
 - b. het besluit, bedoeld in het tweede en zesde lid, wijzigen indien toepassing van het berekeningsvoorschrift uit [artikel 7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=7&artikel=7.4&z=2026-01-01&g=2026-01-01) leidt tot een ander aantal etmalen, bedoeld het zesde lid, onderdeel b, dan in dat besluit is opgenomen.
 
-#### Artikel 7.6
+##### Artikel 7.6
 
 1. De debietmeet- en bemonsteringsvoorzieningen:
 
@@ -370,13 +396,13 @@ N = het aantal dagen per jaar dat stoffen in oppervlaktewaterlichamen worden gel
 
 3. De heffingplichtige brengt de wijze van debietmeting en bemonstering met een beschrijving van de daarvoor te gebruiken apparatuur, voor aanvang van het heffingsjaar, ter kennis aan de heffingsambtenaar.
 
-#### Artikel 7.7
+##### Artikel 7.7
 
 1. Het debiet wordt in de afvalwaterstroom gemeten.
 
 2. In afwijking van het eerste lid kan het debiet worden bepaald op basis van meting van de hoeveelheid water in het watertoevoersysteem van het bedrijf of van de bedrijfsonderdelen. De per etmaal geloosde hoeveelheid afvalwater is niet groter dan de in dezelfde periode toegevoerde hoeveelheid water.
 
-#### Artikel 7.8
+##### Artikel 7.8
 
 1. Bij open meetsystemen wordt een meetput of een meetgoot toegepast.
 
@@ -394,7 +420,7 @@ N = het aantal dagen per jaar dat stoffen in oppervlaktewaterlichamen worden gel
 
 6. Bij ultrasone hoogtemeting wordt ook de temperatuurmeting en de temperatuurcorrectie gecontroleerd en gecorrigeerd bij afwijking.
 
-#### Artikel 7.9
+##### Artikel 7.9
 
 1. De momentane debieten in het etmaal, van minder dan 10% van het maximaal mogelijk momentaan debiet, bedragen gesommeerd minder dan 5% van het gemeten debiet.
 
@@ -412,7 +438,7 @@ N = het aantal dagen per jaar dat stoffen in oppervlaktewaterlichamen worden gel
 
 6. Van een debietmeter wordt het meest recente kalibratierapport overgelegd.
 
-#### Artikel 7.10
+##### Artikel 7.10
 
 1. De bemonstering vindt plaats met behulp van automatische monstername-apparatuur.
 
@@ -424,7 +450,7 @@ N = het aantal dagen per jaar dat stoffen in oppervlaktewaterlichamen worden gel
 
 5. Zowel het monsterverzamelvat als andere onderdelen van de monstername-apparatuur die met het afvalwater in aanraking komen, zijn gemaakt van gemakkelijk te reinigen, inert materiaal, dat de uit te voeren analyse niet beïnvloedt. Het monsterverzamelvat kan gemakkelijk uitgenomen worden en is uitgevoerd als emmer of als vat met een wijde hals zodat met een monsterschep gemakkelijk kan worden geroerd en geschept. Tijdens het etmaal is het monsterverzamelvat afgesloten met een goed afsluitende deksel.
 
-#### Artikel 7.11
+##### Artikel 7.11
 
 1. Het aanzuigpunt van een open meetsysteem bevindt zich zo dicht mogelijk stroomafwaarts van de obstructie. Op het aanzuigpunt stroomt het afvalwater turbulent.
 
@@ -434,13 +460,13 @@ N = het aantal dagen per jaar dat stoffen in oppervlaktewaterlichamen worden gel
 
 4. Bij het afvoeren van het deelmonster naar het monsterverzamelvat wordt voorkomen dat het monster wordt belucht.
 
-#### Artikel 7.12
+##### Artikel 7.12
 
 1. Bij bemonstering met behulp van ‘in-line’-monstername-apparatuur bevindt het bemonsteringspunt zich niet in een bocht of een vernauwing in de leiding. Indien het te bemonsteren afvalwater wordt geloosd met behulp van een pomp dan bevindt het bemonsteringspunt zich aan de perszijde van deze pomp.
 
 2. Als een gesloten meetsysteem wordt gecombineerd met vacuümmonstername-apparatuur bevindt het aanzuigpunt zich op het punt waar de gesloten leiding uitmondt in een open afvoersysteem of er is vanuit de gesloten leiding een aftakking gemaakt, uitmondend in een doorstroomd buffervat waaruit wordt bemonsterd. De stroomsnelheid van het afvalwater in de aftakking is in dat geval ten minste gelijk aan die in de hoofdleiding.
 
-#### Artikel 7.13
+##### Artikel 7.13
 
 1. De deelmonsters in het monsterverzamelvat worden bewaard bij een temperatuur hoger dan 0°C en lager dan of gelijk aan 4°C.
 
@@ -452,7 +478,7 @@ N = het aantal dagen per jaar dat stoffen in oppervlaktewaterlichamen worden gel
 
 5. De monsterflessen bestemd voor analyse door de heffingplichtige en voor contra-analyse vanwege de heffingsambtenaar moeten om en om gevuld worden.
 
-#### Artikel 7.14
+##### Artikel 7.14
 
 1. De monsters uit het etmaalverzamelmonster worden tot en met het einde van de bewaartermijn geconserveerd op de wijze zoals is aangegeven in tabel A. Als een monster uit het etmaalverzamelmonster wordt ingevroren of chemisch geconserveerd geschiedt dit binnen 12 uur na afloop van het etmaal. De eventuele voorschriften met betrekking tot chemische conservering gelden in aanvulling op de voorschriften met betrekking tot de conserveringstemperatuur gedurende de bewaartermijn.
 
@@ -475,7 +501,7 @@ N = het aantal dagen per jaar dat stoffen in oppervlaktewaterlichamen worden gel
 | biochemisch zuurstofverbruik (BZV) | tussen 2 en 8 °C | tussen 1 en 5 °C | Koelen onder uitsluiting van licht. | 1 dag |
 | biochemisch zuurstofverbruik (BZV) | tussen 2 en 8 °C | < – 18 °C | Invriezen binnen 12 uur | 1 maand (indien BZV ≤ 50 mg/l) 6 maanden (indien BZV > 50 mg/l) |
 
-#### Artikel 7.15
+##### Artikel 7.15
 
 1. De analyses worden uitgevoerd in het representatieve monster, dat is verkregen op de in dit hoofdstuk vermelde wijze. Het onderzoek wordt in het water als zodanig uitgevoerd, dus zonder dat daaruit bezinkbare of opdrijvende bestanddelen zijn verwijderd.
 
@@ -508,15 +534,15 @@ N = het aantal dagen per jaar dat stoffen in oppervlaktewaterlichamen worden gel
 
 ### Hoofdstuk 8. Slotbepalingen
 
-#### Artikel 8.1
+##### Artikel 8.1
 
 Vervallen
 
-#### Artikel 8.2
+##### Artikel 8.2
 
 Deze regeling treedt in werking met ingang van 22 december 2009 met uitzondering van [artikel 6.18, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=6&paragraaf=6&artikel=6.18&z=2026-01-01&g=2026-01-01), dat in werking treedt met ingang van 10 oktober 2011.
 
-#### Artikel 8.3
+##### Artikel 8.3
 
 Deze regeling wordt aangehaald als: Waterregeling.
 
@@ -1399,7 +1425,7 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de [bijlagen II](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=II&z=2010-04-28&g=2010-04-28), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=III&z=2010-04-28&g=2010-04-28), [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=IV&z=2010-04-28&g=2010-04-28) en [IX](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=IX&z=2010-04-28&g=2010-04-28) die ter inzage worden gelegd bij het Ministerie van Verkeer en Waterstaat.
 
-#### Artikel 4.2
+##### Artikel 4.2
 
 Vervallen
 
@@ -2033,7 +2059,7 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de [bijlagen II](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=II&z=2015-01-01&g=2015-01-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=III&z=2015-01-01&g=2015-01-01), [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=IV&z=2015-01-01&g=2015-01-01) en [IX](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=IX&z=2015-01-01&g=2015-01-01) die ter inzage worden gelegd bij het Ministerie van Verkeer en Waterstaat.
 
-#### Artikel 6.12a
+##### Artikel 6.12a
 
 Vervallen
 
@@ -2175,7 +2201,7 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de [bijlagen II](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=II&z=2012-10-01&g=2012-10-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=III&z=2012-10-01&g=2012-10-01), [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=IV&z=2012-10-01&g=2012-10-01) en [IX](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=IX&z=2012-10-01&g=2012-10-01) die ter inzage worden gelegd bij het Ministerie van Verkeer en Waterstaat.
 
-#### Artikel 6.3a
+##### Artikel 6.3a
 
 Vervallen
 
@@ -2272,7 +2298,7 @@ Is de feitelijke toetswaarde als getal en is een resultaat van selectie, bereken
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de [bijlagen II](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=II&z=2016-01-01&g=2016-01-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=III&z=2016-01-01&g=2016-01-01), [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=IV&z=2016-01-01&g=2016-01-01) en [IX](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=IX&z=2016-01-01&g=2016-01-01) die ter inzage worden gelegd bij het Ministerie van Verkeer en Waterstaat.
 
-#### Artikel 6.15a
+##### Artikel 6.15a
 
 Vervallen
 
@@ -2304,7 +2330,7 @@ Vervallen
 
 De uiteindelijke toestand of oordeel. Voor chemische stoffen wordt het oordeel gegeven als ‘Voldoet’ of ‘Voldoet niet’, Voor de biologische kwaliteitselementen en fysisch-chemische parameters wordt de toestand gegeven als ‘Slecht’, ‘Ontoereikend’, ‘Matig’, ‘Goed’ of ‘Zeer goed’.
 
-#### Artikel 3.2a
+##### Artikel 3.2a
 
 Vervallen
 
@@ -2350,7 +2376,7 @@ Eventuele opmerkingen (niet verplicht)
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de [bijlagen II](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=II&z=2017-01-01&g=2018-05-25), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=III&z=2017-01-01&g=2018-05-25), [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=IV&z=2017-01-01&g=2018-05-25) en [IX](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=IX&z=2017-01-01&g=2018-05-25) die ter inzage worden gelegd bij het Ministerie van Verkeer en Waterstaat.
 
-#### Artikel 1.2
+##### Artikel 1.2
 
 Vervallen
 
@@ -2414,7 +2440,7 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de [bijlagen II](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=II&z=2024-01-01&g=2024-01-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=III&z=2024-01-01&g=2024-01-01), [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=IV&z=2024-01-01&g=2024-01-01) en [IX](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=IX&z=2024-01-01&g=2024-01-01) die ter inzage worden gelegd bij het Ministerie van Verkeer en Waterstaat.
 
-#### Artikel 7.16
+##### Artikel 7.16
 
 1. Voor het bepalen van de verhouding in het kalenderjaar tussen het chemisch zuurstofverbruik en het gehalte totaal organisch koolstof beslist de heffingsambtenaar op een aanvraag van een heffingplichtige als bedoeld in [artikel 7.5, vierde lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=7.5) bij voor bezwaar vatbare beschikking en geeft daarin in ieder geval voorschriften met betrekking tot de:
 

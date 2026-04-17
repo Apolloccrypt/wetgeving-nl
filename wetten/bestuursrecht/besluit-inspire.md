@@ -1,13 +1,39 @@
 ---
-title: "Besluit Inspire"
+title: "Besluit van 30 oktober 2009 tot uitvoering van de Implementatiewet EG-richtlijn infrastructuur ruimtelijke informatie (Besluit Inspire)"
 identifier: "BWBR0026601"
-categorie: "Bestuursrecht"
-publicatiedatum: 2009-12-04
-laatste_update: 2009-12-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026601"
+country: "nl"
+rank: "amvb"
+publication_date: "2009-12-04"
+last_updated: "2009-12-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026601"
+soort: "AMvB"
+stam_id: "10266153"
+version_id: "16801672"
+internal_id: "C23221501"
+label_id: "10241594"
+dtd_version: "2.0"
+original_entry_into_force: "2009-12-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026601/2009-12-04/0"
+intitule_bron: "Stb.2009-454"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-10-30"
+intitule_published: "2009-11-10"
+intitule_in_force: "2009-12-02"
+intitule_status: "goed"
+original_publication: "Stb.2009-454"
+original_signed_date: "2009-10-30"
+original_published_date: "2009-11-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2009-454"
+entry_into_force_date: "2009-12-04"
+jci_1_3: "jci1.3:c:BWBR0026601&z=2009-12-04&g=2009-12-04"
+jci_1_0: "1.0:c:BWBR0026601&g=2009-12-04"
+citeertitel_status: "officieel"
+short_title: "Besluit Inspire"
+signed_date: "2009-10-30"
+entry_into_force: "2009-12-04"
 ---
-
 # Besluit van 30 oktober 2009 tot uitvoering van de Implementatiewet EG-richtlijn infrastructuur ruimtelijke informatie (Besluit Inspire)
 
 Op de voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 17 augustus 2009, nr. BJZ2009049464, Directie Bestuurlijke en Juridische Zaken;
@@ -20,17 +46,17 @@ Gezien het nader rapport van Onze Minister van Volkshuisvesting, Ruimtelijke Ord
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - **wet:** [Implementatiewet EG-richtlijn infrastructuur ruimtelijke informatie](https://wetten.overheid.nl/jci1.3:c:BWBR0026158).
 
-#### Artikel 2
+##### Artikel 2
 
 De thematische categorieën, bedoeld in [artikel 2, eerste lid, onder d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&artikel=2) zijn opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0026601&bijlage=I&z=2009-12-04&g=2009-12-04) bij dit besluit.
 
-#### Artikel 3
+##### Artikel 3
 
 De in [artikel 9, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&artikel=9) genoemde zoekdiensten omvatten in ieder geval de volgende zoekcriteria:
 
@@ -48,7 +74,7 @@ De in [artikel 9, eerste lid, onderdeel a, van de wet](https://wetten.overheid.n
 
 - g. de overheidsinstanties die verantwoordelijk zijn voor de oprichting, het beheer, het onderhoud en de verspreiding van verzamelingen ruimtelijke gegevens en diensten met betrekking tot ruimtelijke gegevens.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Onverminderd het bepaalde bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0026158) stelt een Nederlands bestuursorgaan de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0026601&bijlage=I&z=2009-12-04&g=2009-12-04) genoemde thematische categorieën ruimtelijke gegevens op zodanige wijze beschikbaar dat deze langs elektronische weg door andere Nederlandse bestuursorganen kunnen worden verkregen.
 
@@ -56,11 +82,11 @@ De in [artikel 9, eerste lid, onderdeel a, van de wet](https://wetten.overheid.n
 
 3. Bij ministeriële regeling kunnen nadere regels worden gesteld over het voorkomen van praktische belemmeringen op de plaats van gebruik bij het uitwisselen van verzamelingen ruimtelijke gegevens en diensten.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit wordt aangehaald als: Besluit Inspire.
 

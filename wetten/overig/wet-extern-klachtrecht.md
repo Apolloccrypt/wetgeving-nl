@@ -1,14 +1,40 @@
 ---
-title: "Wet extern klachtrecht"
+title: "Wet van 3 februari 2005 tot aanvulling van de Algemene wet bestuursrecht met een regeling over de behandeling van klachten over bestuursorganen door een ombudsman, alsmede daarmee samenhangende wijziging van de Wet Nationale ombudsman, de Gemeentewet, de Provinciewet, de Waterschapswet en de Wet gemeenschappelijke regelingen (Wet extern klachtrecht)"
 identifier: "BWBR0017990"
-categorie: "Overig"
-publicatiedatum: 2006-01-01
-laatste_update: 2006-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0017990"
+country: "nl"
+rank: "wet"
+publication_date: "2006-01-01"
+last_updated: "2006-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0017990"
+soort: "wet"
+stam_id: "6784823"
+version_id: "11646762"
+internal_id: "C15779971"
+label_id: "6773314"
+original_entry_into_force: "2005-03-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0017990/2006-01-01/0"
+intitule_bron: "Stb.2005-71"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-02-03"
+intitule_published: "2005-02-22"
+intitule_in_force: "2005-03-08"
+intitule_status: "goed"
+original_publication: "Stb.2005-71"
+original_signed_date: "2005-02-03"
+original_published_date: "2005-02-22"
+original_effect: "nieuwe-regeling"
+original_dossier: "28747"
+original_url_id: "stb-2005-71"
+entry_into_force_date: "2005-03-15"
+jci_1_3: "jci1.3:c:BWBR0017990&z=2006-01-01&g=2006-01-01"
+jci_1_0: "1.0:c:BWBR0017990&g=2006-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet extern klachtrecht"
+signed_date: "2005-02-03"
+entry_into_force: "2005-03-15"
 ---
-
-# Wet extern klachtrecht
+# Wet van 3 februari 2005 tot aanvulling van de Algemene wet bestuursrecht met een regeling over de behandeling van klachten over bestuursorganen door een ombudsman, alsmede daarmee samenhangende wijziging van de Wet Nationale ombudsman, de Gemeentewet, de Provinciewet, de Waterschapswet en de Wet gemeenschappelijke regelingen (Wet extern klachtrecht)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,125 +42,125 @@ Alzo Wij in overweging hebben genomen, dat het, gelet op de [artikelen 78a, derd
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Algemene wet bestuursrecht.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Wet Nationale ombudsman.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Gemeentewet.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Provinciewet.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Waterschapswet.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Wet gemeenschappelijke regelingen.
 
-#### Artikel VIa
+##### Artikel VIa
 
 Wijzigt de Wet algmene regels herindeling.
 
-#### Artikel VIb
+##### Artikel VIb
 
 Wijzigt de Wet aanvulling Algemene wet bestuursrecht met een regeling over de behandeling van klachten door bestuursorganen.
 
-#### Artikel VIc
+##### Artikel VIc
 
 Wijzigt de Kaderwet dienstplicht.
 
-#### Artikel VId
+##### Artikel VId
 
 Wijzigt de Luchtvaartwet.
 
-#### Artikel VIe
+##### Artikel VIe
 
 Wijzigt de Militaire Ambtenarenwet 1931.
 
-#### Artikel VIf
+##### Artikel VIf
 
 Wijzigt de Pensioen- en spaarfondsenwet.
 
-#### Artikel VIg
+##### Artikel VIg
 
 Wijzigt de Wet betreffende verplichte deelneming in een beroepspensioenregeling.
 
-#### Artikel VIh
+##### Artikel VIh
 
 Wijzigt de Wet op de inlichtingen- en veiligheidsdiensten 2002.
 
-#### Artikel VIi
+##### Artikel VIi
 
 Wijzigt de Wet op de rechterlijke organisatie.
 
-#### Artikel VIj
+##### Artikel VIj
 
 Wijzigt de Wet op het onderwijstoezicht.
 
-#### Artikel VIk
+##### Artikel VIk
 
 Wijzigt de Wet organisatie en bestuur gerechten.
 
-#### Artikel VIl
+##### Artikel VIl
 
 Wijzigt de Wet toezicht beleggingsinstellingen.
 
-#### Artikel VIm
+##### Artikel VIm
 
 Wijzigt de Wet toezicht effectenverkeer 1995.
 
-#### Artikel VIn
+##### Artikel VIn
 
 Wijzigt de Wet toezicht kredietwezen 1992.
 
-#### Artikel VIo
+##### Artikel VIo
 
 Wijzigt de Wet toezicht natura-uitvaartverzekeringsbedrijf.
 
-#### Artikel VIp
+##### Artikel VIp
 
 Wijzigt de Wet toezicht verzekeringsbedrijf 1993.
 
-#### Artikel VIq
+##### Artikel VIq
 
 Wijzigt de Politiewet 1993.
 
-#### Artikel VIr
+##### Artikel VIr
 
 Wijzigt de Wet op het Centraal bureau voor de statistiek.
 
-#### Artikel VIs
+##### Artikel VIs
 
 Wijzigt de Wet op de jeugdzorg.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Algemene wet bestuursrecht.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Onze Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Justitie zenden binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-#### Artikel IX
+##### Artikel IX
 
 1. Op verzoekschriften die bij de Nationale ombudsman zijn ingediend voor de inwerkingtreding van de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0017990&artikel=I&z=2006-01-01&g=2006-01-01) en [II van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017990&artikel=II&z=2006-01-01&g=2006-01-01), zijn de bepalingen van de [Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372) van toepassing, zoals deze voor dat tijdstip luidden.
 
 2. Ten aanzien van bestuursorganen van provincies, gemeenten, waterschappen en gemeenschappelijke regelingen waarop tot de inwerkingtreding van [artikel II van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017990&artikel=II&z=2006-01-01&g=2006-01-01), de [Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372) niet van toepassing was, stelt de Nationale ombudsman geen onderzoek in voorzover het gaat om gedragingen die plaats vonden voordat [artikel II van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017990&artikel=II&z=2006-01-01&g=2006-01-01) in werking was getreden.
 
-#### Artikel X
+##### Artikel X
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel XI
+##### Artikel XI
 
 Deze wet wordt aangehaald als: Wet extern klachtrecht.
 

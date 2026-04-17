@@ -1,20 +1,45 @@
 ---
 title: "Beleidsregel tariefopbouw prestaties in de geestelijke gezondheidszorg en forensische zorg"
 identifier: "BWBR0051498"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051498"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051498"
+soort: "zbo"
+stam_id: "17521623"
+version_id: "30916692"
+internal_id: "C44294241"
+label_id: "17423534"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051498/2026-01-01/0"
+intitule_bron: "Stcrt.2025-31162"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-09-02"
+intitule_published: "2025-09-15"
+intitule_in_force: "2025-09-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-31162"
+original_signed_date: "2025-09-02"
+original_published_date: "2025-09-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-31162"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051498&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051498&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2025-09-02"
+entry_into_force: "2026-01-01"
 ---
-
 # Beleidsregel tariefopbouw prestaties in de geestelijke gezondheidszorg en forensische zorg
 
 Gelet op [artikel 57, eerste lid, aanhef en onderdelen b, c en e, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) (Wmg), juncto [artikel 2 van het Besluit uitbreiding en beperking werkingssfeer Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020326&artikel=2) (Bub Wmg), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot het uitoefenen van de bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen en met betrekking tot het uitoefenen van de bevoegdheid tot het toekennen van een beschikbaarheidbijdrage als bedoeld in [artikel 56a van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=56a).
 
 Gelet op [artikel 52, aanhef en onderdeel e, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=52), worden tarieven die uit de voorliggende beleidsregel voortvloeien ambtshalve vastgesteld door de NZa.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -80,17 +105,17 @@ In deze beleidsregel wordt verstaan onder:
 
 - –. **Zvw:** [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450);
 
-#### Artikel 2. Doel van de beleidsregel
+##### Artikel 2. Doel van de beleidsregel
 
 Het doel van deze beleidsregel is om vast te leggen op welke wijze de NZa gebruik maakt van haar bevoegdheid om tarieven vast te stellen voor de prestaties in de geneeskundige geestelijke gezondheidszorg (ggz) en de forensische zorg (fz).
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze beleidsregel is van toepassing op geestelijke gezondheidszorg, als omschreven bij of krachtens de [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), de forensische zorg als omschreven bij of krachtens de [Wfz](https://wetten.overheid.nl/jci1.3:c:BWBR0040634), op Wlz-ggz verblijf inclusief behandeling (ggz-wonen en ggz-b) als omschreven bij of krachtens de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) (Wlz).
 
 Voor zover geen sprake is van zorg als omschreven in de vorige zin, is deze beleidsregel van toepassing op handelingen1Het betreft hier de handelingen bedoeld in artikel 1, onderdeel b, onder 2°, van de Wmg. of werkzaamheden2Het betreft hier de werkzaamheden bedoeld in artikel 2, aanhef en eerste lid, onderdeel c, van het Besluit uitbreiding en beperking werkingssfeer Wmg. op het terrein van geestelijke gezondheidszorg, als omschreven bij of krachtens de Zvw, de forensische zorg als omschreven bij of krachtens de Wfz, verblijf inclusief behandeling (ggz-wonen en ggz-b) als omschreven bij of krachtens de Wet langdurige zorg (Wlz), uitgevoerd door of onder verantwoordelijkheid van personen, ingeschreven in een register als bedoeld in [artikel 3, van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) (Wet BIG) of door personen als bedoeld in [artikel 34 van de Wet BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=34).
 
-#### Artikel 4. Opbouw van tarieven
+##### Artikel 4. Opbouw van tarieven
 
 4.1. De tarieven voor prestaties in de ggz en fz zijn in beginsel opgebouwd uit de werkelijke kosten voor zorg, zoals gemeten in het kostprijsonderzoek over het jaar 2023. Daar waar werkelijke kosten niet beschikbaar zijn, zoals voor de arbeidskosten van de vrijgevestigde praktijkhouders, passen we normatieve elementen toe,dit wordt verder uitgewerkt in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0051498&artikel=6&z=2026-01-01&g=2026-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0051498&artikel=7&z=2026-01-01&g=2026-01-01).
 
@@ -102,13 +127,13 @@ De groepsconsulten zijn setting onafhankelijk en voor de tariefbepaling worden d
 
 4.3. Als tarieven van prestaties op een andere wijze zijn opgebouwd dan de hierboven beschreven wijze, dan wordt dit apart toegelicht in deze beleidsregel of in een sectorspecifieke verantwoording bij een nieuwe release van de regelgeving en tarieven.
 
-#### Artikel 5. Kostprijsonderzoek naar kostprijzen 2023
+##### Artikel 5. Kostprijsonderzoek naar kostprijzen 2023
 
 5.1.
 
 De NZa heeft een kostprijsonderzoek uitgevoerd naar de kostprijzen 2023 in de ggz en fz. De manier waarop de NZa dit kostprijs heeft uitgevoerd is vastgelegd in de beleidsregel Kostprijsonderzoek ggz-en fz- instellingen en MVO ggz – BR/REG-24139 en de beleidsregel Kostprijsonderzoek over 2023 ten behoeve van tarieven ggz Setting 1- BR/ REG-24153 en in het verantwoordingsdocument behorende bij dat kostprijsonderzoek.
 
-#### Artikel 6. Kostprijsberekening Setting 1
+##### Artikel 6. Kostprijsberekening Setting 1
 
 Overzicht van de prestaties
 
@@ -142,7 +167,7 @@ Berekenen van kostprijzen bij vrijgevestigden3Op 2 juli 2025 heeft de rechtbank 
 
 - e). Bij de toerekening van de kosten 2023 naar prestaties 2023 zijn door de NZa in principe de tariefverhoudingen van de herziene tarieven 2023 gebruikt. Het stond de vrijgevestigde vrij om deze verhoudingen in het uitvraagformulier voor dit kostprijsonderzoek te wijzigen. Een vrijgevestigde kon hierbij enkel de verhoudingen aanpassen van de type prestaties die hij/zij daadwerkelijk geleverd heeft in 2023. De NZa heeft hierbij controles ingebouwd en heeft, conform toetsingskader in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0051498&artikel=8&z=2026-01-01&g=2026-01-01), analyses uitgevoerd op de individuele kostprijzen en uitbijters.
 
-#### Artikel 7. Kostprijsberekening instellingen
+##### Artikel 7. Kostprijsberekening instellingen
 
 Wijze van kostprijsberekening
 
@@ -192,13 +217,13 @@ Berekening van kostprijzen en tarieven die niet gebaseerd zijn op de uitvraag ov
 
 - s). Prestaties met een vrij tarief; hiervoor worden geen tarieven vastgesteld.
 
-#### Artikel 8. Toetsingskader ten aanzien van kostprijsberekening
+##### Artikel 8. Toetsingskader ten aanzien van kostprijsberekening
 
 Via een toetsingskader is de betrouwbaarheid en representativiteit beoordeeld van de kostprijzen. Dit toetsingskader is voor vrijgevestigden vastgelegd in Beleidsregel Kostprijsonderzoek over 2023 ten behoeve van tarieven ggz Setting 1 met kenmerk BR-REG-24153. Voor de instellingen is dit vastgelegd in beleidsregel Kostprijsonderzoek ggz-en fz-instellingen en MVO ggz met kenmerk BR/REG-24139.
 
 Er zijn prestaties die zowel voorkomen bij instellingen als bij vrijgevestigden daarvan worden de resultaten samengevoegd voor het toetsingskader wordt toegepast.
 
-#### Artikel 9. Tariefopbouw
+##### Artikel 9. Tariefopbouw
 
 Tariefopbouw
 
@@ -238,17 +263,17 @@ In de tarieven voor het zorgprestatiemodel wordt een vergoeding berekend voor he
 
 De NZa past voor de kosten van het financieren van werkkapitaal een opslag toe op de kostprijzen. Deze opslag is gebaseerd op de euriborrente plus 2%. Voor rente op inventaris wordt volgens bestendig beleid een vaste toeslag gehanteerd van 0,41%.
 
-#### Artikel 10. Ontwikkelingen na bronjaar 2023
+##### Artikel 10. Ontwikkelingen na bronjaar 2023
 
 Significante en objectiveerbare ontwikkelingen na het bronjaar 2023 kunnen leiden tot aanpassingen in bovengenoemde uitgangspunten. In de periode 2024 tot en met 2025 was daarvan in de ggz geen sprake, in de Verantwoording tarieven ggz en fz 2026 b-release zijn de overwegingen hierover beschreven.
 
 Voor de fz is er een kwaliteitskader afgesproken. Hieruit volgt dat DJI kwaliteitsgelden ontvangt in 2023, 2024 en 2025 en deze kwaliteitsgelden via de max-max-tarieven uitkeert aan de fz zorgaanbieders. Dit betreffen, voor de toevoeging in 2024 en 2025, objectiveerbare en significante meerkosten met een structureel karakter (ook naar 2026 en verder) die niet gemeten zijn in het peiljaar van het KPO 2023. Voor het deel van deze extra gelden 2024 en 2025 die louter zien op fz-prestaties zal de NZa die gelden toerekenen aan de betreffende fz- prestaties. In het geval er na 2023 nieuwe prestaties ontstaan, wordt in het onderhoudsoverleg besproken hoe daar tarieven voor worden bepaald.
 
-#### Artikel 11. Wijzigingen in wet- en regelgeving
+##### Artikel 11. Wijzigingen in wet- en regelgeving
 
 Zoals beschreven, zijn de werkelijke kosten in 2023 het uitgangspunt en voor de tarieven. Indien ten tijde van de uitvoering van het kostprijsonderzoek veranderingen in wet- en regelgeving en/of verplichte kwaliteitsstandaarden bekend zijn die leiden tot een objectief kwantitatief vast te stellen verandering in de verwachte kosten, verwerkt de NZa deze in de tarieven indien dit naar het oordeel van de NZa tevens significant is.
 
-#### Artikel 12. Indexering
+##### Artikel 12. Indexering
 
 Kosten en tarieven worden geïndexeerd naar het prijspeil van het jaar waarin de tarieven zullen gelden. Dit vindt plaats op basis van prijsindexcijfers zoals die door VWS met behulp van een aanwijzing worden opgelegd. Het kostprijsonderzoek levert kostprijzen van 2023 op, die vervolgens worden geïndexeerd tot het prijsniveau 2026.
 
@@ -270,7 +295,7 @@ Voor de verschillende prestaties wordt dit als volgt uitgewerkt:
 
 - b). Spravato: hier nemen we jaarlijks de meest recente apotheekinkoopprijs op.
 
-#### Artikel 13. Intrekken oude beleidsregel(s)
+##### Artikel 13. Intrekken oude beleidsregel(s)
 
 Gelijktijdig met de inwerkingtreding van deze beleidsregel worden de volgende Beleidsregels ingetrokken:
 
@@ -286,7 +311,7 @@ Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt de volgende al 
 
 - –. [Beleidsregel tariefopbouw prestaties in de geestelijke gezondheidszorg en forensische zorg, met kenmerk BR/REG-26146](https://wetten.overheid.nl/jci1.3:c:BWBR0051307).
 
-#### Artikel 14. Toepasselijkheid voorafgaande beleidsregel, inwerkingtreding en bekendmaking en citeertitel
+##### Artikel 14. Toepasselijkheid voorafgaande beleidsregel, inwerkingtreding en bekendmaking en citeertitel
 
 De volgende beleidsregels blijven van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die beleidsregel en die betrekking hebben op de periode waarvoor die beleidsregel gold:
 
@@ -298,7 +323,7 @@ De volgende beleidsregels blijven van toepassing op besluiten en aangelegenheden
 
 - –. Beleidsregel Kostprijsonderzoek ggz- en fz-instellingen en MVO ggz, met kenmerk BR/REG-24139.
 
-#### Artikel 15. Inwerkingtreding en bekendmaking
+##### Artikel 15. Inwerkingtreding en bekendmaking
 
 Deze beleidsregel treedt in werking met ingang van 1 januari 2026.
 
@@ -306,6 +331,6 @@ Ingevolge [artikel 5, aanhef en onder e, van de Bekendmakingswet](https://wetten
 
 De beleidsregel ligt ter inzage bij de NZa en is te raadplegen op [www.nza.nl](http://www.nza.nl).
 
-#### Artikel 16. Citeertitel
+##### Artikel 16. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel tariefopbouw prestaties in de geestelijke gezondheidszorg en forensische zorg.

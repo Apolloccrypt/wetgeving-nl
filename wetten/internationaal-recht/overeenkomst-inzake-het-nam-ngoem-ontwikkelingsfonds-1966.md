@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst inzake het Nam Ngoem Ontwikkelingsfonds 1966"
 identifier: "BWBV0004695"
-categorie: "Internationaal recht"
-publicatiedatum: 1966-08-29
-laatste_update: 1966-08-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004695"
+country: "nl"
+rank: "verdrag"
+publication_date: "1966-08-29"
+last_updated: "1966-08-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004695"
+soort: "verdrag"
+stam_id: "10004266053"
+version_id: "10004454022"
+internal_id: "C10006986001"
+label_id: "10004251244"
+dtd_version: "2.0"
+original_entry_into_force: "1966-08-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004695/1966-08-29/0"
+intitule_bron: "Trb.1966-160"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1966-06-24"
+intitule_in_force: "1966-11-21"
+intitule_status: "goed"
+original_publication: "Trb.1966-160"
+original_published_date: "1966-06-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1966-160"
+entry_into_force_date: "1966-08-29"
+jci_1_3: "jci1.3:c:BWBV0004695&z=1966-08-29&g=1966-08-29"
+jci_1_0: "1.0:c:BWBV0004695&g=1966-08-29"
+citeertitel_status: "redactioneel"
+entry_into_force: "1966-08-29"
 ---
-
 # Overeenkomst inzake het Nam Ngoem Ontwikkelingsfonds 1966
 
 Overeenkomst van 4 mei 1966 tussen de Regeringen van Australië, Canada, Denemarken, Japan, Laos, Nederland, Nieuw-Zeeland, Thailand en de Verenigde Staten van Amerika enerzijds, en de Internationale Bank voor Herstel en Ontwikkeling (de Bank) anderzijds.
@@ -30,7 +52,7 @@ Aangezien Thailand ermee heeft ingestemd Laos cement te verschaffen voor het gen
 
 Zijn de Partijen overeengekomen als volgt:
 
-#### Artikel I. Begripsomschrijvingen
+##### Artikel I. Begripsomschrijvingen
 
 1.01. Tenzij uit het zinsverband anders blijkt hebben de navolgende termen, waar zij in deze Overeenkomst worden gebezigd, de hierna genoemde betekenis:
 
@@ -54,7 +76,7 @@ Zijn de Partijen overeengekomen als volgt:
 
 - 10. „Partijen die een bijdrage leveren” - de Partijen die ermee instemmen ingevolge deze Overeenkomst bijdragen te leveren aan het Fonds.
 
-#### Artikel II. Oprichting van het Ontwikkelingsfonds Nam Ngoem
+##### Artikel II. Oprichting van het Ontwikkelingsfonds Nam Ngoem
 
 2.01. Hierbij wordt opgericht het Ontwikkelingsfonds Nam Ngoem, gevormd uit de geldelijke bijdragen die de Regeringen van Australië, Canada, Denemarken, Japan, Nederland, Nieuw-Zeeland en de Verenigde Staten van Amerika van tijd tot tijd aan het Fonds leveren overeenkomstig de bepalingen van deze Overeenkomst, alsmede alle eventueel hieraan toegevoegde bedragen en eventuele andere activa en ontvangsten van het Fonds, die worden gehouden en beheerd door de Bank in de vorm van een trust en uitsluitend worden gebruikt voor de doeleinden en overeenkomstig de bepalingen van deze Overeenkomst.
 
@@ -62,7 +84,7 @@ Zijn de Partijen overeengekomen als volgt:
 
 2.03. De andere partijen wijzen hierbij de Bank aan als beheerder van het Fonds. De Bank stemt erin toe in deze hoedanigheid te handelen overeenkomstig de bepalingen van deze Overeenkomst.
 
-#### Artikel III. Bijdragen aan het Fonds
+##### Artikel III. Bijdragen aan het Fonds
 
 3.01. Elk der hierna genoemde Regeringen verbindt zich, onder voorbehoud van eventueel noodzakelijke handelingen van de zijde der volksvertegenwoordiging, aan het Fonds bij wijze van schenking het hieronder naast haar naam aangeduide bedrag bij te dragen:
 
@@ -93,7 +115,7 @@ Zijn de Partijen overeengekomen als volgt:
 
 3.05. De Partijen komen voor de toepassing van deze Overeenkomst overeen de beslissingen van de beheerder met betrekking tot de begrote behoeften en ontvangsten van het Fonds, alsmede van de benodigde reserves te aanvaarden. De beheerder kan met twee of meer der Partijen die een bijdrage zullen leveren overeenstemming bereiken over een wijziging, voor een of meer halfjaarlijkse tijdvakken, in de omvang van de termijnen waarin deze Partijen hun bijdragen leveren, mits het door hen over dat tijdvak of die tijdvakken te betalen totaalbedrag in wezen onveranderd blijft en passende compensatie wordt gevonden waar het latere tijdvakken betreft.
 
-#### Artikel IV. Betalingen uit het Fonds
+##### Artikel IV. Betalingen uit het Fonds
 
 4.01. De beheerder mag uitsluitend bedragen uit het Fonds gebruiken of betalen om de kosten van de goederen te financieren. De beheerder bepaalt van tijd tot tijd na overleg met Laos, of - betreffende de in deel B van het project genoemde goederen - met Thailand, welke specifieke goederen uit het Fonds zullen worden gefinancierd en welke methoden zullen worden aangewend om deze aan te schaffen en te betalen.
 
@@ -103,7 +125,7 @@ Zijn de Partijen overeengekomen als volgt:
 
 4.04. Laos treft regelingen, en houdt deze in stand, met betrekking tot de verkoop van de voor de uitvoering van het project benodigde kip en wel tegen de voordeligste wettelijk toegestane wisselkoers.
 
-#### Artikel V. Verzoeken om betalingen
+##### Artikel V. Verzoeken om betalingen
 
 5.1. Indien hetzij Laos, hetzij Thailand in verband met deel B van het project verlangt dat betalingen uit het Fonds worden gedaan, dienen zij daartoe een schriftelijk verzoek in bij de beheerder en wel in zodanige vorm en zodanige verklaringen en overeenkomsten bevattende als de beheerder verlangt.
 
@@ -113,7 +135,7 @@ Zijn de Partijen overeengekomen als volgt:
 
 5.04. De beheerder kan betalingen doen of regelingen treffen voor betalingen hetzij rechtstreeks aan de leveranciers der goederen, hetzij aan anderen, zonder dat Laos of Thailand daarom verzocht hebben, steeds wanneer hij, na overleg met Laos (of met betrekking tot deel B van het project, met Thailand) beslist dat zulks noodzakelijk of wenselijk is met het oog op de doelmatige uitvoering van het project.
 
-#### Artikel VI. Verplichtingen van Laos
+##### Artikel VI. Verplichtingen van Laos
 
 - (a). Laos zorgt er voor dat het project wordt uitgevoerd met de vereiste voortvarendheid en doelmatigheid op basis van verantwoorde technische en financiële werkwijzen; het verleent in zijn ontwikkelingsprogramma de hoogste prioriteit aan het project.
 
@@ -145,7 +167,7 @@ Zijn de Partijen overeengekomen als volgt:
 
 6.07. Aangezien deel B van het project niet wordt uitgevoerd op het grondgebied van Laos, wordt hierbij overeengekomen dat de verplichtingen en de verantwoordelijkheden van Laos zich niet uitstrekken tot deel B van het project, behalve voorzover zulks noodzakelijk is om een goede coördinatie met de andere delen van het project te verzekeren.
 
-#### Artikel VII. Verplichtingen van Thailand
+##### Artikel VII. Verplichtingen van Thailand
 
 - (a). Thailand zorgt er voor dat deel B van het project wordt uitgevoerd met de vereiste voortvarendheid en doelmatigheid op basis van verantwoorde technische en financiële werkwijze.
 
@@ -175,7 +197,7 @@ Zijn de Partijen overeengekomen als volgt:
 
 7.07. Thailand stemt ermee in bij de uitvoering van het project samen te werken met Laos en met de beheerder en zal in het bijzonder het vervoer en het verkeer van personen, uitrusting, materialen en voorraden verband houdende met de bouw van het project over zijn grondgebied vergemakkelijken.
 
-#### Artikel VIII. De beheerder
+##### Artikel VIII. De beheerder
 
 8.01. De beheerder zendt binnen dertig dagen na 31 december 1966 en telkens na 30 juni en 31 december daarna aan elk der Overeenkomstsluitende Partijen een verslag met voldoende gegevens met betrekking tot de ontvangsten en uitgaven, alsmede het saldo van het Fonds, de vorderingen van het project, en andere aangelegenheden die verband houden met het Fonds, het project en met deze Overeenkomst.
 
@@ -191,7 +213,7 @@ De beheerder raadpleegt de betrokken Partijen van tijd tot tijd met betrekking t
 
 8.06. Wanneer de Bank optreedt als beheerder dient zij dezelfde zorg te betrachten ten aanzien van het beheer en het bestuur van het Fonds en bij de uitoefening van haar andere functies ingevolge deze Overeenkomst, als zij betracht ten aanzien van het beheer en het bestuur van haar eigen zaken.
 
-#### Artikel IX. Overleg en beëindiging
+##### Artikel IX. Overleg en beëindiging
 
 9.01. Als gebeurtenissen in de zin van het bepaalde in paragraaf 9.02 van deze Overeenkomst worden de volgende aangemerkt:
 
@@ -219,7 +241,7 @@ De beheerder raadpleegt de betrokken Partijen van tijd tot tijd met betrekking t
 
 9.05. Indien bij beëindiging van de Overeenkomst bedragen in het Fonds mochten resteren die niet benodigd zijn om de kosten der goederen te dekken, worden die bedragen uitgekeerd aan de Partijen die een bijdrage hebben geleverd, in verhouding tot hun onderscheiden totale bijdragen aan het Fonds. De beheerder stelt na overleg met de Partijen die een bijdrage hebben geleverd de bedragen, de tijdstippen, de methoden en de munteenheden van betaling vast.
 
-#### Artikel X. Regeling van geschillen
+##### Artikel X. Regeling van geschillen
 
 - (a). Ieder geschil tussen de Partijen betreffende de uitlegging of de toepassing van deze Overeenkomst of aanvullende regelingen of overeenkomsten op bijzondere feiten of omstandigheden, dat niet kan worden opgelost door overeenstemming tussen de Partijen, wordt op verzoek van een van hen beslist door de beheerder, wiens beslissing definitief is, behoudens het geval voorzien in (b) van deze paragraaf 10.01.
 
@@ -227,13 +249,13 @@ De beheerder raadpleegt de betrokken Partijen van tijd tot tijd met betrekking t
 
 - (c). De beslissing van de beheerder of de scheidsrechter is bindend voor alle Partijen en wordt door deze nagekomen in overeenstemming met hun onderscheiden grondwettelijke procedures.
 
-#### Artikel XI. Nieuwe Partijen en aanvullende bijdragen
+##### Artikel XI. Nieuwe Partijen en aanvullende bijdragen
 
 11.01. Regeringen, instellingen of lichamen die geen Partij bij deze Overeenkomst zijn kunnen met voorafgaande toestemming van de Partijen bij deze Overeenkomst en in overeenstemming met de regelingen welke zij te dien einde overeenkomen, bijdragende Partij worden door bij de Bank een akte neder te leggen waarin zij verklaren dat zij alle bepalingen van deze Overeenkomst zullen aanvaarden en de daaruit voortvloeiende verplichtingen zullen nakomen.
 
 11.02. De beheerder kan namens het Fonds van iedere Regering, instelling of lichaam, onverschillig of deze al dan niet Partij bij de Overeenkomst is, bedragen in ontvangst nemen, waarin deze Overeenkomst niet voorziet; deze worden gehouden en gebruikt als onderdeel van het Fonds met inachtneming van de bepalingen van deze Overeenkomst en wel in overeenstemming met door de beheerder goed te keuren regelingen die niet strijdig zijn met deze Overeenkomst.
 
-#### Artikel XII. Mededelingen en verzoeken
+##### Artikel XII. Mededelingen en verzoeken
 
 12.1. Mededelingen of verzoeken die vereist of toegestaan zijn ingevolge deze Overeenkomst dienen schriftelijk te worden gedaan. Deze mededelingen of verzoeken worden geacht op behoorlijke wijze te zijn gedaan indien zij persoonlijk, per post, per telegram, per kabeltelegram of per radiogram worden bezorgd bij de Partij bij wie dit moet of kan worden gedaan en op een zodanig adres van die Partij als bedoeld in paragraaf 12.02, of op een zodanig ander adres als die Partij door een mededeling aan de Partij welke die kennisgeving of dat verzoek doet, heeft aangegeven.
 
@@ -365,7 +387,7 @@ Voor de Bank:
 
 - Washington, D.C.
 
-#### Artikel XIII. Ondertekening en inwerkingtreding
+##### Artikel XIII. Ondertekening en inwerkingtreding
 
 13.1. Deze Overeenkomst blijft openstaan ter ondertekening en aanvaarding voor alle in de preambule van deze Overeenkomst genoemde Partijen tot 30 juni 1966, of zodanig later tijdstip als door de Bank door middel van een kennisgeving aan de andere Partijen wordt vastgesteld.
 
@@ -373,7 +395,7 @@ Voor de Bank:
 
 13.3. Alle op of na 11 maart 1966 en voor het tijdstip waarop deze Overeenkomst in werking treedt geleverde bijdragen en door de Bank als toekomstig beheerder verrichte of goedgekeurde handelingen worden geacht in overeenstemming met deze Overeenkomst te zijn geleverd of verricht en de debiteringen en crediteringen aan het Fonds en aan de Partijen geschieden op die basis.
 
-#### Artikel XIV. Titel
+##### Artikel XIV. Titel
 
 14.01. Deze Overeenkomst kan worden aangehaald als de „Nam Ngoem Ontwikkelingsfonds-Overeenkomst, 1966”.
 

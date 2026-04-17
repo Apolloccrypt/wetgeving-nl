@@ -1,20 +1,46 @@
 ---
-title: "Regeling melding Wet ongewenste zeggenschap telecommunicatie"
+title: "Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 17 september 2020, nr. WJZ/ 20216274, houdende voorschriften met betrekking tot de melding van het voornemen overwegende zeggenschap in een telecommunicatiepartij te verkrijgen (Regeling melding Wet ongewenste zeggenschap telecommunicatie)"
 identifier: "BWBR0044121"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2020-10-01
-laatste_update: 2020-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044121"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-10-01"
+last_updated: "2020-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044121"
+soort: "ministeriele-regeling"
+stam_id: "15639973"
+version_id: "27037832"
+internal_id: "C38253541"
+label_id: "15579734"
+dtd_version: "2.0"
+original_entry_into_force: "2020-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044121/2020-10-01/0"
+intitule_bron: "Stcrt.2020-48965"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-09-17"
+intitule_published: "2020-09-28"
+intitule_in_force: "2020-09-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-48965"
+original_signed_date: "2020-09-17"
+original_published_date: "2020-09-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-48965"
+entry_into_force_date: "2020-10-01"
+jci_1_3: "jci1.3:c:BWBR0044121&z=2020-10-01&g=2020-10-01"
+jci_1_0: "1.0:c:BWBR0044121&g=2020-10-01"
+citeertitel_status: "officieel"
+short_title: "Regeling melding Wet ongewenste zeggenschap telecommunicatie"
+signed_date: "2020-09-17"
+entry_into_force: "2020-10-01"
 ---
-
 # Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 17 september 2020, nr. WJZ/ 20216274, houdende voorschriften met betrekking tot de melding van het voornemen overwegende zeggenschap in een telecommunicatiepartij te verkrijgen (Regeling melding Wet ongewenste zeggenschap telecommunicatie)
 
 Gelet op [artikel 14a.2, vijfde lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=14a.2);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Een melding als bedoeld in [artikel 14a.2, eerste en vierde lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=14a.2), wordt gedaan met gebruikmaking van het in de bijlage opgenomen formulier en gaat vergezeld van de in dit formulier genoemde gegevens en bescheiden.
 
@@ -24,11 +50,11 @@ Besluit:
 
 - b. door persoonlijke overhandiging op werkdagen tussen 8.00 uur en 17.00 uur op het volgende adres: Ministerie van Economische Zaken en Klimaat t.a.v. Bureau Toetsing Investeringen Bezuidenhoutseweg 73 2594 AC Den Haag.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling treedt in werking met ingang van 1 oktober 2020.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling wordt aangehaald als: Regeling melding Wet ongewenste zeggenschap telecommunicatie.
 

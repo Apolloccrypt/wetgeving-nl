@@ -1,13 +1,39 @@
 ---
-title: "Regeling regio-indeling samenwerkingsverbanden passend onderwijs PO en VO"
+title: "Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 25 november 2012, nr. WJZ/450366 (10285), houdende vaststelling gebieden samenwerkingsverbanden (Regeling regio-indeling samenwerkingsverbanden passend onderwijs PO en VO)"
 identifier: "BWBR0032324"
-categorie: "Onderwijs"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032324"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032324"
+soort: "ministeriele-regeling"
+stam_id: "11926253"
+version_id: "28547802"
+internal_id: "C40283351"
+label_id: "11898204"
+dtd_version: "2.0"
+original_entry_into_force: "2021-12-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032324/2026-01-01/0"
+intitule_bron: "Stcrt.2012-24914"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-11-25"
+intitule_published: "2012-12-04"
+intitule_in_force: "2012-12-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-993"
+original_signed_date: "2021-12-07"
+original_published_date: "2022-02-09"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2022-993"
+entry_into_force_date: "2021-12-07"
+jci_1_3: "jci1.3:c:BWBR0032324&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0032324&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling regio-indeling samenwerkingsverbanden passend onderwijs PO en VO"
+signed_date: "2021-12-07"
+entry_into_force: "2021-12-07"
 ---
-
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 25 november 2012, nr. WJZ/450366 (10285), houdende vaststelling gebieden samenwerkingsverbanden (Regeling regio-indeling samenwerkingsverbanden passend onderwijs PO en VO)
 
 Handelende in overeenstemming met de Staatssecretaris van Economische Zaken;
@@ -16,21 +42,21 @@ Gelet op [artikel 18a, derde lid, van de Wet op het primair onderwijs](https://w
 
 Besluit:
 
-#### Artikel 1. Regio-indeling samenwerkingsverbanden PO
+##### Artikel 1. Regio-indeling samenwerkingsverbanden PO
 
 De gebieden, bedoeld in [18a, derde lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=18a) worden vastgesteld als aangegeven in de bijlage bij dit besluit.
 
-#### Artikel 2. Regio-indeling samenwerkingsverbanden VO
+##### Artikel 2. Regio-indeling samenwerkingsverbanden VO
 
 De gebieden, bedoeld in [artikel 2.47, derde lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.47) worden vastgesteld als aangegeven in de bijlage bij dit besluit.
 
-#### Artikel 3. Gemeentelijke herindeling en wijziging gemeentenaam
+##### Artikel 3. Gemeentelijke herindeling en wijziging gemeentenaam
 
 1. Bij wijziging van een of meer gemeentenamen als gevolg van een herindeling op grond van [artikel 3, eerste lid, van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=3) die de indeling in gebieden, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032324&artikel=1&z=2026-01-01&g=2026-01-01) en [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032324&artikel=2&z=2026-01-01&g=2026-01-01), niet wijzigt, treedt de naam van de nieuwe gemeente dan wel treden de namen van de nieuwe gemeenten op de datum van de herindeling in de plaats van de betreffende, in de bijlage van deze regeling opgenomen naam dan wel namen.
 
 2. Indien op grond van [artikel 158, eerste lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=158) de naam van een gemeente wordt gewijzigd, treedt de gewijzigde naam op het moment van de naamswijziging in de plaats van de in de bijlage van deze regeling opgenomen oorspronkelijke naam.
 
-#### Artikel 4. Inwerkingtreding
+##### Artikel 4. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2013.
 
@@ -4522,7 +4548,7 @@ Deze bijlage behoort bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR003
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 5. Citeertitel
+##### Artikel 5. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling regio-indeling samenwerkingsverbanden passend onderwijs PO en VO
 
@@ -8584,6 +8610,6 @@ Deze regeling wordt aangehaald als: Regeling regio-indeling samenwerkingsverband
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3a. Omhang
+##### Artikel 3a. Omhang
 
 Deze regeling is mede gebaseerd op [artikel 2.47, derde lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.47).

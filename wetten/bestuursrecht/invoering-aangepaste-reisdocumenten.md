@@ -1,13 +1,37 @@
 ---
 title: "Invoering aangepaste reisdocumenten"
 identifier: "BWBR0008941"
-categorie: "Bestuursrecht"
-publicatiedatum: 1997-09-29
-laatste_update: 1997-09-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008941"
+country: "nl"
+rank: "circulaire"
+publication_date: "1997-09-29"
+last_updated: "1997-09-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008941"
+soort: "circulaire"
+stam_id: "6339633"
+version_id: "10993752"
+internal_id: "C14886471"
+label_id: "6328524"
+original_entry_into_force: "1997-09-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008941/1997-09-29/0"
+intitule_bron: "Stcrt.1997-207"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-09-29"
+intitule_published: "1997-10-28"
+intitule_in_force: "1997-10-28"
+intitule_status: "goed"
+original_publication: "Stcrt.1997-207"
+original_signed_date: "1997-09-29"
+original_published_date: "1997-10-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1997-207-p8-SC11041"
+entry_into_force_date: "1997-09-29"
+jci_1_3: "jci1.3:c:BWBR0008941&z=1997-09-29&g=1997-09-29"
+jci_1_0: "1.0:c:BWBR0008941&g=1997-09-29"
+citeertitel_status: "redactioneel"
+signed_date: "1997-09-29"
+entry_into_force: "1997-09-29"
 ---
-
 # Invoering aangepaste reisdocumenten
 
 Circulaire aan de burgemeesters

@@ -1,13 +1,38 @@
 ---
 title: "Ziekengeldreglement 2017"
 identifier: "BWBR0039371"
-categorie: "Overig"
-publicatiedatum: 2017-04-01
-laatste_update: 2017-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039371"
+country: "nl"
+rank: "zbo"
+publication_date: "2017-04-01"
+last_updated: "2017-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039371"
+soort: "zbo"
+stam_id: "13958783"
+version_id: "24002692"
+internal_id: "C34498991"
+label_id: "13922074"
+dtd_version: "2.0"
+original_entry_into_force: "2017-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039371/2017-04-01/0"
+intitule_bron: "Stcrt.2017-16428"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-03-15"
+intitule_published: "2017-03-24"
+intitule_in_force: "2017-03-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-16428"
+original_signed_date: "2017-03-15"
+original_published_date: "2017-03-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-16428"
+entry_into_force_date: "2017-04-01"
+jci_1_3: "jci1.3:c:BWBR0039371&z=2017-04-01&g=2017-04-01"
+jci_1_0: "1.0:c:BWBR0039371&g=2017-04-01"
+citeertitel_status: "officieel"
+signed_date: "2017-03-15"
+entry_into_force: "2017-04-01"
 ---
-
 # Ziekengeldreglement 2017
 
 Gelet op [artikel 54 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=54) en [artikel 3:16 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:16);
@@ -16,7 +41,7 @@ Besluit:
 
 ### Hoofdstuk 1. Inleidende bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit reglement wordt verstaan onder:
 
@@ -36,13 +61,13 @@ In dit reglement wordt verstaan onder:
 
 ### Hoofdstuk 2. De uitbetaling van ziekengeld en Wazo-uitkering
 
-#### Artikel 2. De uitbetaling
+##### Artikel 2. De uitbetaling
 
 1. UWV betaalt het ziekengeld en de Wazo-uitkering aan de verzekerde.
 
 2. Indien dit door UWV met de werkgever is overeengekomen betaalt UWV het ziekengeld en de Wazo-uitkering aan de werkgever van de verzekerde ter doorbetaling aan de verzekerde. Verzet de verzekerde zich tegen deze betalingswijze, dan wordt het ziekengeld en de Wazo-uitkering uitbetaald aan de verzekerde.
 
-#### Artikel 3. Terugbetaling door de werkgever
+##### Artikel 3. Terugbetaling door de werkgever
 
 1. Ingeval over een tijdvak ziekengeld of Wazo-uitkering aan de werkgever is betaald en, nadat is vastgesteld dat de werkgever het ziekengeld of de Wazo-uitkering niet aan de verzekerde betaalt, over hetzelfde tijdvak ziekengeld of Wazo-uitkering aan de verzekerde wordt betaald, geldt de betaling aan de werkgever als onverschuldigd.
 
@@ -50,7 +75,7 @@ In dit reglement wordt verstaan onder:
 
 ### Hoofdstuk 3. Verplichtingen van de werkgever
 
-#### Artikel 4. Melding van ongeschiktheid van de verzekerde die aanspraak maakt op ziekengeld en van het feit dat de verzekerde een aanvraag doet voor Wazo-uitkering
+##### Artikel 4. Melding van ongeschiktheid van de verzekerde die aanspraak maakt op ziekengeld en van het feit dat de verzekerde een aanvraag doet voor Wazo-uitkering
 
 1. De werkgever meldt de ongeschiktheid van de verzekerde die aanspraak maakt op ziekengeld aan UWV op een door UWV voorgeschreven wijze. Desgevraagd verstrekt de werkgever of diens gemachtigde de verlangde gegevens op een door UWV verstrekt formulier.
 
@@ -60,7 +85,7 @@ In dit reglement wordt verstaan onder:
 
 4. De werkgever of diens gemachtigde verstrekt bij of na de melding de door UWV verlangde gegevens.
 
-#### Artikel 5. Melding van gedeeltelijke werkhervatting
+##### Artikel 5. Melding van gedeeltelijke werkhervatting
 
 1. De werkgever meldt mede namens de verzekerde aan UWV op een door UWV voorgeschreven wijze de gedeeltelijke werkhervatting van een verzekerde die aanspraak maakt op ziekengeld. Desgevraagd verstrekt de werkgever of diens gemachtigde de verlangde gegevens op een door UWV verstrekt formulier.
 
@@ -68,17 +93,17 @@ In dit reglement wordt verstaan onder:
 
 3. De werkgever of diens gemachtigde verstrekt bij of na de melding de door UWV verlangde gegevens.
 
-#### Artikel 6. Aangifte van ongeschiktheid van werknemer met recht op loon zonder aanspraak op uitbetaling van ziekengeld
+##### Artikel 6. Aangifte van ongeschiktheid van werknemer met recht op loon zonder aanspraak op uitbetaling van ziekengeld
 
 De werkgever doet bij UWV op een door UWV voorgeschreven wijze aangifte van ongeschiktheid van de werknemer die bij ongeschiktheid tot het verrichten van zijn arbeid recht heeft op loon terwijl geen aanspraak bestaat op uitbetaling van ziekengeld. Desgevraagd verstrekt de werkgever of diens gemachtigde de verlangde gegevens op een door UWV verstrekt formulier.
 
-#### Artikel 7. Hersteldmelding
+##### Artikel 7. Hersteldmelding
 
 De werkgever doet de hersteldmelding van zijn werknemer die aanspraak maakt op ziekengeld aan UWV op een door UWV voorgeschreven wijze. Desgevraagd verstrekt de werkgever of diens gemachtigde de verlangde gegevens op een door UWV verstrekt formulier.
 
 ### Hoofdstuk 4. Verplichtingen van de verzekerde
 
-#### Artikel 8. Meldingen door verzekerden zonder werkgever
+##### Artikel 8. Meldingen door verzekerden zonder werkgever
 
 1. De verzekerde die geen werkgever heeft meldt zijn ongeschiktheid aan UWV op een door UWV voorgeschreven wijze. Desgevraagd verstrekt hij de verlangde gegevens op een door UWV verstrekt formulier.
 
@@ -86,7 +111,7 @@ De werkgever doet de hersteldmelding van zijn werknemer die aanspraak maakt op z
 
 3. De verzekerde die geen werkgever heeft en in aanmerking komt voor een Wazo-uitkering stuurt de aanvraag voor deze uitkering onder opgave van de dag waarop die uitkering moet ingaan aan UWV. De aanvraag vindt plaats op de wijze, bedoeld in het eerste lid.
 
-#### Artikel 9. Gegevensverstrekking door verzekerde
+##### Artikel 9. Gegevensverstrekking door verzekerde
 
 1. De verzekerde die aanspraak heeft op ziekengeld geeft onverwijld en uit eigen beweging aan UWV alle feiten en omstandigheden door, waarvan het hem redelijkerwijs duidelijk moet zijn dat zij van invloed kunnen zijn op het ziekengeld. Hij gebruikt hiervoor het door UWV beschikbaar gestelde wijzigingsformulier en stuurt dit formulier aan UWV op een door UWV voorgeschreven wijze. Het voorgaande is niet van toepassing voorzover het inkomen betreft, ontvangen van de eigen werkgever van de verzekerde, waarover UWV al op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039371&hoofdstuk=3&artikel=5&z=2017-04-01&g=2017-04-01) is ingelicht.
 
@@ -104,19 +129,19 @@ De werkgever doet de hersteldmelding van zijn werknemer die aanspraak maakt op z
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 10. Onvoorziene gevallen
+##### Artikel 10. Onvoorziene gevallen
 
 In alle gevallen waarin dit Ziekengeldreglement niet voorziet, beslist de Raad van bestuur.
 
-#### Artikel 11. Intrekking
+##### Artikel 11. Intrekking
 
 Het besluit [Ziekengeldreglement 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0021416) wordt ingetrokken.
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 april 2017.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Ziekengeldreglement 2017.
 

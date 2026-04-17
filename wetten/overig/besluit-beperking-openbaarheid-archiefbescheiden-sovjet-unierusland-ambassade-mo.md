@@ -1,13 +1,39 @@
 ---
-title: "Besluit beperking openbaarheid archiefbescheiden Sovjet-Unie/Rusland, ambassade Moskou (1958) 1975–2013 (2017)"
+title: "Besluit van de Minister van Buitenlandse Zaken van 1 oktober 2025, houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Nederlandse diplomatieke vertegenwoordiging in Sovjet-Unie/Rusland, ambassade Moskou (1958) 1975–2013 (2017)"
 identifier: "BWBR0051589"
-categorie: "Overig"
-publicatiedatum: 2025-10-10
-laatste_update: 2025-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051589"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-10-10"
+last_updated: "2025-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051589"
+soort: "ministeriele-regeling"
+stam_id: "17545903"
+version_id: "30961252"
+internal_id: "C44344381"
+label_id: "17447314"
+dtd_version: "2.0"
+original_entry_into_force: "2025-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051589/2025-10-10/0"
+intitule_bron: "Stcrt.2025-34155"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-10-01"
+intitule_published: "2025-10-09"
+intitule_in_force: "2025-10-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-34155"
+original_signed_date: "2025-10-01"
+original_published_date: "2025-10-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-34155"
+entry_into_force_date: "2025-10-10"
+jci_1_3: "jci1.3:c:BWBR0051589&z=2025-10-10&g=2025-10-10"
+jci_1_0: "1.0:c:BWBR0051589&g=2025-10-10"
+citeertitel_status: "redactioneel"
+short_title: "Besluit beperking openbaarheid archiefbescheiden Sovjet-Unie/Rusland, ambassade Moskou (1958) 1975–2013 (2017)"
+signed_date: "2025-10-01"
+entry_into_force: "2025-10-10"
 ---
-
 # Besluit van de Minister van Buitenlandse Zaken van 1 oktober 2025, houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Nederlandse diplomatieke vertegenwoordiging in Sovjet-Unie/Rusland, ambassade Moskou (1958) 1975–2013 (2017)
 
 Overwegende dat een aantal inventarisnummers in het archief beperkingen aan de openbaarheid behoeven;
@@ -18,7 +44,7 @@ Besluit:
 
 Tot de volgende beperkingen aan de openbaarheid van archiefbestand, nummer 2.05.468
 
-#### Artikel 1
+##### Artikel 1
 
 Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de
 
@@ -61,7 +87,7 @@ inventarisnummers, genoemd in de eerste kolom, beperkt openbaar tot 1 januari va
 | 781 | 2057 |
 | 798 | 2075 |
 
-#### Artikel 2
+##### Artikel 2
 
 Met het oog op het belang van de Staat of zijn bondgenoten zijn de inventarisnummers, genoemd in de eerste kolom, beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
 
@@ -131,16 +157,16 @@ Met het oog op het belang van de Staat of zijn bondgenoten zijn de inventarisnum
 | 612 | 2043 |
 | 613 | 2043 |
 
-#### Artikel 3
+##### Artikel 3
 
 Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051589&artikel=1&z=2025-10-10&g=2025-10-10), is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemene rijksarchivaris. Deze toestemming wordt verleend volgens de bij het Nationaal Archief geldende procedure voor het gebruik van beperkt openbare archieven. Alleen schriftelijke verzoeken tot raadpleging worden in behandeling genomen. De algemene rijksarchivaris kan aan zijn toestemming voorwaarden verbinden.
 
 Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051589&artikel=2&z=2025-10-10&g=2025-10-10), is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van het hieronder vermelde overheidsorgaan.
 
-#### Artikel 4
+##### Artikel 4
 
 Het vervaardigen van reproducties van documenten geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051589&artikel=1&z=2025-10-10&g=2025-10-10), is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemene rijksarchivaris, die aan zijn toestemming voorwaarden kan verbinden.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst. Dit besluit wordt als bijlage gevoegd bij de Verklaring van Overbrenging van het archief van de Nederlandse diplomatieke vertegenwoordiging in Sovjet- Unie/Rusland, ambassade Moskou.

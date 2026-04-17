@@ -1,13 +1,38 @@
 ---
 title: "Box 3-besluit"
 identifier: "BWBR0049714"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-05-18
-laatste_update: 2024-05-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049714"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2024-05-18"
+last_updated: "2024-05-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049714"
+soort: "beleidsregel"
+stam_id: "17108243"
+version_id: "30108422"
+internal_id: "C43136981"
+label_id: "17016964"
+dtd_version: "2.0"
+original_entry_into_force: "2024-05-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049714/2024-05-18/0"
+intitule_bron: "Stcrt.2024-15868"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-05-07"
+intitule_published: "2024-05-17"
+intitule_in_force: "2024-05-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-15868"
+original_signed_date: "2024-05-07"
+original_published_date: "2024-05-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-15868"
+entry_into_force_date: "2024-05-18"
+jci_1_3: "jci1.3:c:BWBR0049714&z=2024-05-18&g=2024-05-18"
+jci_1_0: "1.0:c:BWBR0049714&g=2024-05-18"
+citeertitel_status: "officieel"
+signed_date: "2024-05-07"
+entry_into_force: "2024-05-18"
 ---
-
 # Box 3-besluit
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

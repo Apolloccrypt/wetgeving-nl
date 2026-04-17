@@ -1,30 +1,53 @@
 ---
 title: "Uitvoeringsbeschikking vennootschapsbelasting 1971"
 identifier: "BWBR0002784"
-categorie: "Belastingrecht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002784"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002784"
+soort: "ministeriele-regeling"
+stam_id: "2848243"
+version_id: "29870322"
+internal_id: "C42819771"
+label_id: "2796564"
+dtd_version: "2.0"
+original_entry_into_force: "2024-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002784/2024-01-01/0"
+intitule_bron: "Stcrt.1971-169"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1971-09-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-34571"
+original_signed_date: "2023-12-15"
+original_published_date: "2023-12-29"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2023-34571"
+entry_into_force_date: "2024-01-01"
+jci_1_3: "jci1.3:c:BWBR0002784&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0002784&g=2024-01-01"
+citeertitel_status: "officieel"
+signed_date: "2023-12-15"
+entry_into_force: "2024-01-01"
 ---
-
 # Uitvoeringsbeschikking vennootschapsbelasting 1971
 
 Gelet op de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=9), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=21), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=24) en [29a van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=29a) (Stb. 469);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Deze regeling geeft uitvoering aan de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=9), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=10), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13), [13ab](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13ab), [13d](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13d), [14a](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14a), [14b](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14b), [15g](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15g), [15i](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15i), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=17), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=21), [23c](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=23c) en [25a van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=25a).
 
 2. Deze regeling verstaat onder de wet: de [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672).
 
-#### Artikel 2
+##### Artikel 2
 
 Vervallen
 
-#### Artikel 2a
+##### Artikel 2a
 
 1. Voor de toepassing van [artikel 13, twaalfde lid, onderdeel b, onder 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13) worden de werkzaamheden van een lichaam als daar bedoeld aangemerkt als actieve financieringswerkzaamheden indien aan de volgende voorwaarden is voldaan:
 
@@ -58,7 +81,7 @@ Vervallen
 
 - b. voor de toepassing van het eerste lid, onderdeel b, wordt uitgegaan van het vreemd vermogen is,dat onderscheidenlijk de activa die zijn, toe te rekenen aan de buitenlandse onderneming.
 
-#### Artikel 2b
+##### Artikel 2b
 
 1. Voor de toepassing van [artikel 13, twaalfde lid, onderdeel c, onder 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13) worden de werkzaamheden van een lichaam als daar bedoeld aangemerkt als actieve terbeschikkingstellingswerkzaamheden indien aan de volgende voorwaarden is voldaan:
 
@@ -86,13 +109,13 @@ Vervallen
 
 5. Het eerste tot en met het vierde lid zijn van overeenkomstige toepassing bij de bepaling of, voor de toepassing van [artikel 15g, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15g), de werkzaamheden van een buitenlandse onderneming als bedoeld in dat artikel, worden aangemerkt als actieve terbeschikkingstellingswerkzaamheden, met dien verstande dat onder lichaam mede een buitenlandse onderneming wordt verstaan.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een voorlopige verliesverrekening als bedoeld in [artikel 21, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=21) kan worden verleend indien het verlies over een kalenderjaar wordt aangegeven door de in de uitnodiging tot het doen van aangifte gevraagde gegevens en bescheiden en andere gegevensdragers of de inhoud daarvan duidelijk, stellig en zonder voorbehoud in te vullen en te ondertekenen en de gevraagde bescheiden of andere gegevensdragers in te leveren of toe te zenden.
 
 2. Bij de berekening van een voorlopige verliesverrekening wordt het vermoedelijke verlies voor tachtig percent in aanmerking genomen.
 
-#### Artikel 4. Aftrekbare giften in natura; voorwaarden taxatierapport
+##### Artikel 4. Aftrekbare giften in natura; voorwaarden taxatierapport
 
 1. Het taxatierapport, bedoeld in [artikel 16, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=16), bevat de uitkomsten van een taxatie die is uitgevoerd door een onafhankelijke taxateur die is ingeschreven in een register dat tot doel heeft zijn deskundigheid te waarborgen.
 
@@ -116,7 +139,7 @@ Vervallen
 
 - h. indien van toepassing: een motivering van de individuele afwijking ten opzichte van de relevante marktgegevens.
 
-#### Artikel 4a. Aftrekbare giften in natura; voorwaarden factuur
+##### Artikel 4a. Aftrekbare giften in natura; voorwaarden factuur
 
 1. De factuur, bedoeld in [artikel 16, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=16), is niet meer dan drie maanden voorafgaand aan het moment van schenking uitgereikt.
 
@@ -130,39 +153,39 @@ Vervallen
 
 - c. het type en de omvang van het object of het belang en de aard van het gebruik.
 
-#### Artikel 4b
+##### Artikel 4b
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 1. De aangifte als bedoeld in artikel 25a, tweede lid, van de wet wordt gedaan binnen drie jaren na afloop van het tijdvak waarover de belasting wordt geheven.
 
 2. Ingeval binnen de in het eerste lid bedoelde termijn van drie jaren hetzij een uitnodiging tot het doen van aangifte is uitgereikt of toegezonden hetzij de inspecteur is verzocht om een uitnodiging tot het doen van aangifte, wordt die termijn verlengd tot het einde van de door de inspecteur ingevolge artikel 9, eerste tot en met derde lid, van de Algemene wet inzake rijksbelastingen gestelde of verlengde termijn.
 
-#### Artikel 5a
+##### Artikel 5a
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 1. Deze regeling treedt in werking met ingang van de tweede dag na die van de dagtekening van de Staatscourant waarin zij is geplaatst.
 
 2. Deze regeling kan worden aangehaald als: Uitvoeringsbeschikking vennootschapsbelasting 1971
 
-#### Artikel 2c
+##### Artikel 2c
 
 1. Voor de toepassing van de [artikelen 14a, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14a), [14b, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14b) en [23c, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=23c) worden van de staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte aangewezen: IJsland, Noorwegen en Liechtenstein.
 
 2. Voor de toepassing van de [artikelen 13d, tweede lid, onderdeel a, onder 2°, en onderdeel b, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13d), en [15i, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15i) wordt van de staten waarmee de Europese Unie een associatieovereenkomst heeft gesloten aangewezen: Turkije.
 
-#### Artikel 2bis
+##### Artikel 2bis
 
 1. Voor de toepassing van [artikel 10, eerste lid, onderdeel j, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=10) wordt onder werknemers verstaan werknemers in de zin van de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471).
 
 2. Voor de toepassing van [artikel 10, eerste lid, onderdeel j, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=10) wordt onder het loon op jaarbasis verstaan het loon in de zin van de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) dat de werknemer heeft genoten in het laatste kalenderjaar dat voor aanvang van het jaar is geëindigd.
 
-#### Artikel 2d
+##### Artikel 2d
 
 Voor de toepassing van [artikel 17, derde lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=17), wordt, tenzij de inspecteur het tegendeel aannemelijk maakt, de belastingplichtige geacht het aanmerkelijk belang niet te houden met als hoofddoel of een van de hoofddoelen om de heffing van inkomstenbelasting bij een ander te ontgaan en wordt geacht sprake te zijn van geldige zakelijke redenen die de economische realiteit weerspiegelen indien:
 
@@ -222,7 +245,7 @@ De woonlandfactor, bedoeld in [artikel 2d, onderdeel g](https://wetten.overheid.
 
 Voor andere staten wordt de woonlandfactor bepaald aan de hand van de [tabel die is opgenomen in de Regeling woonlandbeginsel in de sociale zekerheid 2012](onbekend).
 
-#### Artikel 2e
+##### Artikel 2e
 
 1. Voor de toepassing van [artikel 13ab, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13ab) wordt, tenzij de inspecteur aannemelijk maakt dat slechts aan de in dit lid gestelde voorwaarden wordt voldaan met als hoofddoel of een van de hoofddoelen om in aanmerking te komen voor de uitzondering op de voet van artikel 13ab, vijfde lid, van de wet, een gecontroleerd lichaam geacht een wezenlijke economische activiteit uit te oefenen indien:
 

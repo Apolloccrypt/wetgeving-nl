@@ -1,13 +1,39 @@
 ---
-title: "Regeling aanvraag- en veilingprocedure vergunningen 800, 900 en 1800 MHz"
+title: "Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 22 december 2011, nr. WJZ / 10146523, tot vaststelling van de aanvraag- en veilingprocedure voor vergunningen voor frequentieruimte in de 800, 900 en 1800 MHz-band ten behoeve van mobiele communicatietoepassingen (Regeling aanvraag- en veilingprocedure vergunningen 800, 900 en 1800 MHz)"
 identifier: "BWBR0031069"
-categorie: "Bestuursrecht"
-publicatiedatum: 2012-07-11
-laatste_update: 2012-07-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031069"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2012-07-11"
+last_updated: "2012-07-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031069"
+soort: "ministeriele-regeling"
+stam_id: "11613493"
+version_id: "19170632"
+internal_id: "C26741531"
+label_id: "11586934"
+dtd_version: "2.0"
+original_entry_into_force: "2012-04-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031069/2012-07-11/0"
+intitule_bron: "Stcrt.2012-392"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-12-22"
+intitule_published: "2012-01-06"
+intitule_in_force: "2012-01-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-392"
+original_signed_date: "2011-12-22"
+original_published_date: "2012-01-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-392"
+entry_into_force_date: "2012-04-16"
+jci_1_3: "jci1.3:c:BWBR0031069&z=2012-07-11&g=2012-07-11"
+jci_1_0: "1.0:c:BWBR0031069&g=2012-07-11"
+citeertitel_status: "officieel"
+short_title: "Regeling aanvraag- en veilingprocedure vergunningen 800, 900 en 1800 MHz"
+signed_date: "2011-12-22"
+entry_into_force: "2012-04-16"
 ---
-
 # Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 22 december 2011, nr. WJZ / 10146523, tot vaststelling van de aanvraag- en veilingprocedure voor vergunningen voor frequentieruimte in de 800, 900 en 1800 MHz-band ten behoeve van mobiele communicatietoepassingen (Regeling aanvraag- en veilingprocedure vergunningen 800, 900 en 1800 MHz)
 
 Gelet op de [artikelen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0009997&artikel=2a), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009997&artikel=4), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0009997&artikel=6), [6a](https://wetten.overheid.nl/jci1.3:c:BWBR0009997&artikel=6a) en [8 van het Frequentiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009997&artikel=8);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze regeling wordt verstaan onder:
 
@@ -76,7 +102,7 @@ Besluit:
 
 #### § 2. Beschikbare vergunningen
 
-#### Artikel 2
+##### Artikel 2
 
 1. Ten behoeve van het gebruik van frequentieruimte voor terrestrische elektronische communicatie worden de volgende vergunningen door middel van een veiling verdeeld:
 
@@ -136,7 +162,7 @@ Besluit:
 
 12. Per aanvrager anders dan een nieuwkomer worden niet meer vergunningen B, C, D, E, F of G verleend dan die gezamenlijk overeenkomen met 190 activiteitspunten.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Indien aanvragen die overeenkomstig de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=3&artikel=8&z=2012-07-11&g=2012-07-11) zijn ingediend door nieuwkomers en die voldoen aan de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=3&artikel=11&z=2012-07-11&g=2012-07-11) gestelde eisen, in totaal ten aanzien van vergunningen A1 en A2 betrekking hebben op twee of meer vergunningen A1 en geen betrekking hebben op een vergunning A2, zijn in afwijking van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=2&artikel=2&z=2012-07-11&g=2012-07-11), voor de verdeling, bedoeld in artikel 2, eerste lid, twee vergunningen A1, vier vergunningen B, zeven vergunningen C, veertien vergunningen D, twee vergunningen E, één vergunning F, tien vergunningen G en één vergunning H beschikbaar.
 
@@ -144,7 +170,7 @@ Besluit:
 
 3. In het geval, bedoeld in het eerste lid, worden in afwijking van [artikel 2, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=2&artikel=2&z=2012-07-11&g=2012-07-11), per aanvrager anders dan een nieuwkomer niet meer vergunningen verleend dan die gezamenlijk overeenkomen met 205 activiteitspunten.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien aanvragen die overeenkomstig de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=3&artikel=8&z=2012-07-11&g=2012-07-11) zijn ingediend door nieuwkomers en die voldoen aan de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=3&artikel=11&z=2012-07-11&g=2012-07-11) gestelde eisen, in totaal ten aanzien van vergunningen A1 en A2 uitsluitend betrekking hebben op één vergunning A1 en geen betrekking hebben op een vergunning A2, zijn in afwijking van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=2&artikel=2&z=2012-07-11&g=2012-07-11), voor de verdeling, bedoeld in artikel 2, eerste lid, één vergunning A1, vijf vergunningen B, zeven vergunningen C, veertien vergunningen D, twee vergunningen E, één vergunning F, tien vergunningen G en één vergunning H beschikbaar.
 
@@ -152,13 +178,13 @@ Besluit:
 
 3. In het geval, bedoeld in het eerste lid, worden in afwijking van [artikel 2, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=2&artikel=2&z=2012-07-11&g=2012-07-11), per aanvrager anders dan een nieuwkomer niet meer vergunningen verleend dan die gezamenlijk overeenkomen met 220 activiteitspunten.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Indien aanvragen die overeenkomstig de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=3&artikel=8&z=2012-07-11&g=2012-07-11) zijn ingediend door nieuwkomers en die voldoen aan de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=3&artikel=11&z=2012-07-11&g=2012-07-11) gestelde eisen, in totaal ten aanzien van vergunningen A1 en A2 uitsluitend betrekking hebben op één vergunning A1 en één of meer vergunningen A2, zijn in afwijking van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=2&artikel=2&z=2012-07-11&g=2012-07-11), voor de verdeling, bedoeld in artikel 2, eerste lid, één vergunning A1, één vergunning A2, vijf vergunningen B, zes vergunningen C, veertien vergunningen D, twee vergunningen E, één vergunning F, tien vergunningen G en één vergunning H beschikbaar.
 
 2. In het geval, bedoeld in het eerste lid, worden in afwijking van [artikel 2, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=2&artikel=2&z=2012-07-11&g=2012-07-11), per aanvrager anders dan een nieuwkomer niet meer vergunningen verleend dan die gezamenlijk overeenkomen met 205 activiteitspunten.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Indien aanvragen die overeenkomstig de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=3&artikel=8&z=2012-07-11&g=2012-07-11) zijn ingediend door nieuwkomers en die voldoen aan de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=3&artikel=11&z=2012-07-11&g=2012-07-11) gestelde eisen, in totaal ten aanzien van vergunningen A1 en A2 geen betrekking hebben op een vergunning A1 en betrekking hebben op één of meer vergunningen A2, zijn in afwijking van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=2&artikel=2&z=2012-07-11&g=2012-07-11), voor de verdeling, bedoeld in artikel 2, eerste lid, één vergunning A2, zes vergunningen B, zes vergunningen C, veertien vergunningen D, twee vergunningen E, één vergunning F, tien vergunningen G en één vergunning H beschikbaar.
 
@@ -166,7 +192,7 @@ Besluit:
 
 3. In het geval, bedoeld in het eerste lid, worden in afwijking van [artikel 2, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=2&artikel=2&z=2012-07-11&g=2012-07-11), per aanvrager anders dan een nieuwkomer niet meer vergunningen verleend dan die gezamenlijk overeenkomen met 220 activiteitspunten.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Indien geen aanvraag overeenkomstig de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=3&artikel=8&z=2012-07-11&g=2012-07-11) door een nieuwkomer wordt ingediend of indien aanvragen die overeenkomstig de artikelen 8 tot en met 10 zijn ingediend door nieuwkomers en die voldoen aan de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=3&artikel=11&z=2012-07-11&g=2012-07-11) gestelde eisen, geen betrekking hebben op een vergunning A1 en A2, zijn in afwijking van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=2&artikel=2&z=2012-07-11&g=2012-07-11), voor de verdeling, bedoeld in artikel 2, eerste lid, zes vergunningen B, zeven vergunningen C, veertien vergunningen D, twee vergunningen E, één vergunning F, tien vergunningen G en één vergunning H beschikbaar.
 
@@ -178,7 +204,7 @@ Besluit:
 
 #### § 3. Vergunningaanvraag en zekerheidstelling (inschrijvingsfase)
 
-#### Artikel 8
+##### Artikel 8
 
 1. Degene die voor een vergunning als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=2&artikel=2&z=2012-07-11&g=2012-07-11), in aanmerking wil komen, dient een aanvraag in.
 
@@ -208,7 +234,7 @@ Besluit:
 
 14. Op het tijdstip, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=3&artikel=9&z=2012-07-11&g=2012-07-11), heeft de aanvrager overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=5&artikel=15&z=2012-07-11&g=2012-07-11) een bedrag tot zekerheid van de gestanddoening van zijn bieding gedaan.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De aanvraag wordt uiterlijk op 16 juli 2012 om 14.00 uur per post ontvangen dan wel door persoonlijke overhandiging ontvangen op het volgende adres:
 
@@ -222,7 +248,7 @@ Emmasingel 1
 
 2. Indien de aanvrager niet heeft voldaan aan de in het eerste lid gestelde eisen, wordt de aanvraag afgewezen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De aanvrager informeert de minister onmiddellijk over een wijziging met betrekking tot de gegevens en bescheiden, bedoeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&bijlage=I&z=2012-07-11&g=2012-07-11), onderdeel A. Hij informeert de minister per post of door persoonlijke overhandiging van informatie over de wijziging op het adres, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=3&artikel=9&z=2012-07-11&g=2012-07-11).
 
@@ -256,7 +282,7 @@ deelt de minister dit de aanvrager mee en stelt hij de aanvrager in de gelegenhe
 
 11. Uiterlijk binnen twee weken nadat de minister overeenkomstig het zevende lid heeft besloten de aanvraag niet te behandelen, stort de minister de waarborgsom terug aan de betreffende aanvrager of stuurt de minister een schriftelijke verklaring als bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&bijlage=II&z=2012-07-11&g=2012-07-11), onder II, onder 4, aan de bank van die aanvrager die ter zekerstelling een bankgarantie heeft overgelegd. De minister stuurt een kopie van deze verklaring aan de aanvrager. [Artikel 44, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=10&artikel=44&z=2012-07-11&g=2012-07-11), is van overeenkomstige toepassing.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De aanvrager is een privaatrechtelijke rechtspersoon naar Nederlands recht of het equivalent daarvan naar het recht van een van de overige lidstaten van de Europese Unie of een van de overige staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte, en heeft zijn statutaire zetel, zijn hoofdbestuur of zijn hoofdvestiging binnen de Europese Economische Ruimte.
 
@@ -276,7 +302,7 @@ deelt de minister dit de aanvrager mee en stelt hij de aanvrager in de gelegenhe
 
 #### § 4. Vaststellen noodzaak tot veilen
 
-#### Artikel 12
+##### Artikel 12
 
 1. Voor het vaststellen of er noodzaak is tot het veilen van de vergunningen A1 tot en met G wordt bij de toepassing van het tweede tot en met vijfde lid uitgegaan van de aanvragen die overeenkomstig de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=3&artikel=8&z=2012-07-11&g=2012-07-11) zijn ingediend door aanvragers die voldoen aan de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=3&artikel=11&z=2012-07-11&g=2012-07-11) gestelde eisen.
 
@@ -336,7 +362,7 @@ deelt de minister dit de aanvrager mee en stelt hij de aanvrager in de gelegenhe
 
 15. In de gevallen, bedoeld in het negende tot en met veertiende lid, zijn de [artikelen 14 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=5&artikel=14&z=2012-07-11&g=2012-07-11) van toepassing.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De minister deelt de aanvragers zo spoedig mogelijk mee welke vergunningen overeenkomstig [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=4&artikel=12&z=2012-07-11&g=2012-07-11) worden verleend.
 
@@ -344,7 +370,7 @@ deelt de minister dit de aanvrager mee en stelt hij de aanvrager in de gelegenhe
 
 #### § 5. Toelating tot de veiling
 
-#### Artikel 14
+##### Artikel 14
 
 1. Indien na toepassing van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=4&artikel=12&z=2012-07-11&g=2012-07-11) de noodzaak van veilen is komen vast te staan, deelt de minister iedere aanvrager schriftelijk mee of hij als deelnemer wordt toegelaten tot de veiling. De minister deelt iedere aanvrager hierbij tevens mee voor hoeveel activiteitspunten hij op basis van de [artikelen 2, elfde of twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=2&artikel=2&z=2012-07-11&g=2012-07-11), [3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=2&artikel=3&z=2012-07-11&g=2012-07-11), [4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=2&artikel=4&z=2012-07-11&g=2012-07-11), [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=2&artikel=5&z=2012-07-11&g=2012-07-11), [6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=2&artikel=6&z=2012-07-11&g=2012-07-11), of [7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=2&artikel=7&z=2012-07-11&g=2012-07-11), vergunningen mag verwerven tijdens de veiling.
 
@@ -366,7 +392,7 @@ deelt de minister dit de aanvrager mee en stelt hij de aanvrager in de gelegenhe
 
 - h. de voor de veiling benodigde programmatuur.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Iedere deelnemer voldoet een bedrag tot zekerheid van de gestanddoening van zijn bieding.
 
@@ -394,7 +420,7 @@ deelt de minister dit de aanvrager mee en stelt hij de aanvrager in de gelegenhe
 
 #### § 6. Algemene bepalingen omtrent de veiling
 
-#### Artikel 16
+##### Artikel 16
 
 1. Een aanvrager, inbegrepen diegene die een aanvrager ten behoeve van de veiling bijstaat of een lid van de groep waartoe een aanvrager behoort, verspreidt geen vertrouwelijke informatie en doet geen vertrouwelijke informatie verspreiden aan een andere aanvrager of een derde, en maakt geen vertrouwelijke informatie openbaar.
 
@@ -410,7 +436,7 @@ deelt de minister dit de aanvrager mee en stelt hij de aanvrager in de gelegenhe
 
 - b. besluiten dat een of meer biedronden opnieuw moeten worden gehouden.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De veiling vindt plaats door middel van internet, met behulp van een elektronisch veilingsysteem.
 
@@ -428,7 +454,7 @@ met dien verstande dat de minister ingeval van bijzondere omstandigheden communi
 
 5. De minister leidt de veiling en draagt zorg voor een goed verloop van de veiling.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De minister kan de veiling opschorten voor een termijn van ten hoogste één jaar indien zich naar zijn oordeel bijzondere omstandigheden voordoen buiten de beïnvloedingssfeer van de minister of de deelnemers waardoor de veiling tijdelijk geen doorgang kan vinden.
 
@@ -444,13 +470,13 @@ met dien verstande dat de minister ingeval van bijzondere omstandigheden communi
 
 4. Indien twee of meer aanvragers lid worden van één groep, sluit de minister aanvragers uit van deelname of van verdere deelname aan de veiling zodat niet meer dan één aanvrager per groep deelneemt aan de veiling.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De minister bepaalt wanneer de biedronden van de veiling plaatsvinden en de duur van die biedronden.
 
 2. Een deelnemer is onvoorwaardelijk en onherroepelijk aan zijn bieding gebonden.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Een ongeldige bieding wordt niet in aanmerking genomen bij:
 
@@ -508,7 +534,7 @@ met dien verstande dat de minister ingeval van bijzondere omstandigheden communi
 
 - b. gelegenheid gegeven om het verzuim binnen een door de minster gestelde termijn te herstellen, met dien verstande dat de minister per deelnemer ten hoogste tienmaal gedurende de gehele veiling de gelegenheid kan geven om het verzuim te herstellen.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Indien een deelnemer door een elektronische storing niet in staat is om door middel van het elektronisch veilingsysteem een bieding uit te brengen, kan de minister toestemming geven om een bieding schriftelijk uit te brengen door middel van het in [artikel 14, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=5&artikel=14&z=2012-07-11&g=2012-07-11), bedoelde faxnummer.
 
@@ -520,7 +546,7 @@ met dien verstande dat de minister ingeval van bijzondere omstandigheden communi
 
 5. De minister kan de toestemming, bedoeld in het eerste lid, op verzoek van de deelnemer intrekken, wanneer dit verzoek door middel van het in [artikel 14, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=5&artikel=14&z=2012-07-11&g=2012-07-11), bedoelde faxnummer schriftelijk wordt gedaan uiterlijk 10 minuten na afloop van de voorgaande biedronde, dan wel de verlengde biedronde, bedoeld in [artikel 23, eerste of tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=6&artikel=23&z=2012-07-11&g=2012-07-11).
 
-#### Artikel 22
+##### Artikel 22
 
 1. Het aantal activiteitspunten bedraagt:
 
@@ -550,7 +576,7 @@ met dien verstande dat de minister ingeval van bijzondere omstandigheden communi
 
 6. In afwijking van het vijfde lid kan het activiteitsniveau van een bieding in de aanvullende biedronde hoger zijn dan het activiteitsniveau van de deelnemer, maar niet hoger dan het aantal activiteitspunten dat hem op grond van [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=5&artikel=14&z=2012-07-11&g=2012-07-11), is meegedeeld.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Indien een deelnemer een biedronde laat verstrijken zonder dat hij een bieding uitbrengt, wordt die biedronde voor die deelnemer eenmalig van rechtswege verlengd met een termijn van 30 minuten, met dien verstande dat in ten hoogste twee primaire biedronden voor een deelnemer verlenging plaatsvindt.
 
@@ -576,7 +602,7 @@ met dien verstande dat de minister ingeval van bijzondere omstandigheden communi
 
 #### § 7.1. Primaire biedronden
 
-#### Artikel 24
+##### Artikel 24
 
 1. De primaire biedronde bestaat uit één of meer biedronden.
 
@@ -586,7 +612,7 @@ met dien verstande dat de minister ingeval van bijzondere omstandigheden communi
 
 4. Een bieding in een primaire biedronde ziet op het aantal vergunningen waarop een deelnemer biedt gelet op de in die biedronde geldende rondeprijs voor die vergunningen, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=7&sub-paragraaf=7.1&artikel=26&z=2012-07-11&g=2012-07-11).
 
-#### Artikel 25
+##### Artikel 25
 
 1. De minister deelt elke deelnemer voor aanvang van de eerste primaire biedronde de aanvangstijd en de duur van de biedronde mee.
 
@@ -608,7 +634,7 @@ met dien verstande dat de minister ingeval van bijzondere omstandigheden communi
 
 3. In afwijking van het tweede lid, onder e en f, wordt geen informatie over een volgende primaire biedronde gegeven indien de primaire biedronden op grond van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=7&sub-paragraaf=7.1&artikel=27&z=2012-07-11&g=2012-07-11) eindigen.
 
-#### Artikel 26
+##### Artikel 26
 
 1. De rondeprijzen in de eerste primaire biedronde zijn:
 
@@ -654,7 +680,7 @@ met dien verstande dat de minister ingeval van bijzondere omstandigheden communi
 
 16. Indien dit naar het oordeel van de minister nodig is voor een evenwichtige vraagontwikkeling of een efficiënt verloop van de veiling kan hij afwijken van het vijftiende lid.
 
-#### Artikel 27
+##### Artikel 27
 
 1. De primaire biedronden eindigen indien met inachtneming van het bepaalde in de [artikelen 2, derde tot en met twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=2&artikel=2&z=2012-07-11&g=2012-07-11), [3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=2&artikel=3&z=2012-07-11&g=2012-07-11), [4, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=2&artikel=4&z=2012-07-11&g=2012-07-11), [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=2&artikel=5&z=2012-07-11&g=2012-07-11), [6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=2&artikel=6&z=2012-07-11&g=2012-07-11), of [7, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=2&artikel=7&z=2012-07-11&g=2012-07-11), voldaan kan worden aan de vraag naar vergunningen.
 
@@ -662,7 +688,7 @@ met dien verstande dat de minister ingeval van bijzondere omstandigheden communi
 
 #### § 7.2. Aanvullende biedronde
 
-#### Artikel 28
+##### Artikel 28
 
 1. Na het einde van de primaire biedronden deelt de minister elke deelnemer mee:
 
@@ -674,7 +700,7 @@ met dien verstande dat de minister ingeval van bijzondere omstandigheden communi
 
 2. De minister deelt elke deelnemer voor aanvang van de aanvullende biedronde zijn activiteitsniveau als bedoeld in [artikel 22, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=6&artikel=22&z=2012-07-11&g=2012-07-11), mee.
 
-#### Artikel 29
+##### Artikel 29
 
 1. De aanvullende biedronde bestaat uit één biedronde waarin door een deelnemer meerdere biedingen kunnen worden gedaan.
 
@@ -684,7 +710,7 @@ met dien verstande dat de minister ingeval van bijzondere omstandigheden communi
 
 4. De aanvang van de aanvullende biedronde is niet eerder dan ten minste een werkdag na het einde van de primaire biedronden.
 
-#### Artikel 30
+##### Artikel 30
 
 1. De minimaal te bieden bedragen in de aanvullende biedronde zijn:
 
@@ -714,7 +740,7 @@ met dien verstande dat de minister ingeval van bijzondere omstandigheden communi
 
 5. Indien een deelnemer zijn finale primaire bieding in de laatste primaire biedronde heeft uitgebracht, geldt in de aanvullende biedronde voor deze deelnemer geen maximumbedrag voor een bieding op zijn finale pakket.
 
-#### Artikel 31
+##### Artikel 31
 
 1. De minister stelt overeenkomstig het tweede tot en met vierde lid de combinatie van winnende biedingen vast.
 
@@ -730,13 +756,13 @@ met dien verstande dat de minister ingeval van bijzondere omstandigheden communi
 
 4. Indien na het driemaal opnieuw houden van een aanvullende biedronde er nog steeds meerdere combinaties van winnende biedingen kunnen worden vastgesteld op basis van het tweede lid, wordt door middel van loting tussen alle combinaties van winnende biedingen, vastgesteld wat de combinatie van winnende biedingen is.
 
-#### Artikel 32
+##### Artikel 32
 
 1. Nadat de combinatie van winnende biedingen door de minister is vastgesteld overeenkomstig [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=7&sub-paragraaf=7.2&artikel=31&z=2012-07-11&g=2012-07-11), bepaalt de minister voor iedere winnende bieding een basisprijs op grond van [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&bijlage=III&z=2012-07-11&g=2012-07-11).
 
 2. De basisprijzen worden naar boven afgerond op eenheden van € 1.000, met dien verstande dat een deelnemer na afronding niet meer betaalt dan het biedbedrag van zijn winnende bieding.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Na het bepalen van de combinatie van winnende biedingen en de basisprijzen van iedere winnende bieding deelt de minister iedere deelnemer mee:
 
@@ -770,7 +796,7 @@ met dien verstande dat de minister ingeval van bijzondere omstandigheden communi
 
 - b. is het derde lid, onder a, van toepassing, met dien verstande dat dit betrekking heeft op de vergunningen B, C, D, E, F of G.
 
-#### Artikel 34
+##### Artikel 34
 
 1. Vergunning F wordt verleend aan de deelnemer die op vergunning F de winnende bieding heeft gedaan.
 
@@ -778,7 +804,7 @@ met dien verstande dat de minister ingeval van bijzondere omstandigheden communi
 
 3. De totaalprijs van vergunning F bestaat uit de op grond van [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=7&sub-paragraaf=7.2&artikel=32&z=2012-07-11&g=2012-07-11) afgeronde basisprijs voor die vergunning.
 
-#### Artikel 35
+##### Artikel 35
 
 1. Indien de combinatie van winnende biedingen, gelet op de [artikelen 2, derde tot en met twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=2&artikel=2&z=2012-07-11&g=2012-07-11), of [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=2&artikel=6&z=2012-07-11&g=2012-07-11), zodanig is samengesteld dat een vergunning A1, A2, B, C, D, E of G uitsluitend betrekking heeft op één alternatief voor frequentieruimte als bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=8&artikel=38&z=2012-07-11&g=2012-07-11), dan wordt die vergunning verleend aan de deelnemer die op die vergunning de winnende bieding heeft gedaan.
 
@@ -794,7 +820,7 @@ met dien verstande dat de minister ingeval van bijzondere omstandigheden communi
 
 #### § 8. De tweede fase van de veiling: de toewijzingsbiedronde
 
-#### Artikel 36
+##### Artikel 36
 
 1. Zo spoedig mogelijk na het einde van aanvullende biedronde, deelt de minister elke deelnemer mee:
 
@@ -804,7 +830,7 @@ met dien verstande dat de minister ingeval van bijzondere omstandigheden communi
 
 2. De minister deelt voorts elke deelnemer voor aanvang van de toewijzingsbiedronde mee wat de alternatieven zijn waarop de betreffende deelnemer op grond van [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=8&artikel=38&z=2012-07-11&g=2012-07-11) kan bieden.
 
-#### Artikel 37
+##### Artikel 37
 
 1. De toewijzingsbiedronde bestaat uit een aparte toewijzingsbiedronde voor de typen vergunningen A1 en B tezamen, A2 en C tezamen, D, E en G die gelijktijdig plaatsvinden en waarin wordt bepaald voor welke frequentieruimte een deelnemer een vergunning verkrijgt, met dien verstande dat de toewijzingsbiedronde geen betrekking heeft op vergunningen die op grond van [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=7&sub-paragraaf=7.2&artikel=35&z=2012-07-11&g=2012-07-11), zijn verleend.
 
@@ -820,7 +846,7 @@ met dien verstande dat de minister ingeval van bijzondere omstandigheden communi
 
 7. De aanvang van de toewijzingsbiedronde is niet eerder dan ten minste een werkdag na het einde van de aanvullende biedronde.
 
-#### Artikel 38
+##### Artikel 38
 
 1. De minister stelt op basis van de [artikelen 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=7&sub-paragraaf=7.2&artikel=31&z=2012-07-11&g=2012-07-11), en [35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=7&sub-paragraaf=7.2&artikel=35&z=2012-07-11&g=2012-07-11), voor iedere deelnemer een lijst samen met per type vergunning de alternatieven voor de frequentieruimte waarop hij gezien de aantallen vergunningen A1, A2, B, C, D, E en G die hij heeft gewonnen in de toewijzingsbiedronde kan bieden.
 
@@ -832,11 +858,11 @@ met dien verstande dat de minister ingeval van bijzondere omstandigheden communi
 
 5. In het geval, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=2&artikel=7&z=2012-07-11&g=2012-07-11), is het eerste lid van toepassing, met dien verstande dat dit betrekking heeft op de vergunningen B, C, D, E en G.
 
-#### Artikel 39
+##### Artikel 39
 
 Indien voor een alternatief voor frequentieruimte als bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=8&artikel=38&z=2012-07-11&g=2012-07-11) geen bieding wordt ontvangen, wordt voor dat alternatief uitgegaan van een biedbedrag van nul euro.
 
-#### Artikel 40
+##### Artikel 40
 
 1. De minister stelt overeenkomstig het tweede en derde lid de finale combinatie van winnende biedingen voor de typen vergunningen A1 en B tezamen, A2 en C tezamen, D, E en G vast.
 
@@ -856,7 +882,7 @@ Indien voor een alternatief voor frequentieruimte als bedoeld in [artikel 38](ht
 
 7. In het geval, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=2&artikel=7&z=2012-07-11&g=2012-07-11), zijn het eerste, derde en vierde lid, van toepassing, met dien verstande dat deze betrekking hebben op de vergunningen B, C, D, E en G.
 
-#### Artikel 41
+##### Artikel 41
 
 1. Nadat de finale combinatie van winnende biedingen is vastgesteld, bepaalt de minister de extra prijzen op grond van [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&bijlage=IV&z=2012-07-11&g=2012-07-11).
 
@@ -864,7 +890,7 @@ Indien voor een alternatief voor frequentieruimte als bedoeld in [artikel 38](ht
 
 3. De totaalprijs die een winnende deelnemer verschuldigd is voor de door hem gewonnen vergunningen, bestaat uit de op grond van [artikel 32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=7&sub-paragraaf=7.2&artikel=32&z=2012-07-11&g=2012-07-11), afgeronde basisprijs voor die vergunningen en de op grond van het tweede lid afgeronde extra prijs voor die vergunningen.
 
-#### Artikel 42
+##### Artikel 42
 
 De minister deelt de deelnemers zo spoedig mogelijk na het bepalen van de extra prijzen, bedoeld in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=8&artikel=41&z=2012-07-11&g=2012-07-11), en het bepalen van de totaalprijzen, bedoeld in artikel 41, derde lid, mee:
 
@@ -876,7 +902,7 @@ De minister deelt de deelnemers zo spoedig mogelijk na het bepalen van de extra 
 
 #### § 9. Vergunningverlening na veiling
 
-#### Artikel 43
+##### Artikel 43
 
 1. Aan een winnende deelnemer wordt een vergunning verleend voor de door hem gewonnen vergunningen. De totaalprijs voor die vergunningen is gelijk aan het bedrag dat op grond van [artikel 41, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=8&artikel=41&z=2012-07-11&g=2012-07-11), is vastgesteld.
 
@@ -886,7 +912,7 @@ De minister deelt de deelnemers zo spoedig mogelijk na het bepalen van de extra 
 
 #### § 10. Terugstorting waarborgsommen & teruggave bankgaranties
 
-#### Artikel 44
+##### Artikel 44
 
 1. Uiterlijk twee weken nadat de mededeling, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=8&artikel=42&z=2012-07-11&g=2012-07-11), is gedaan:
 
@@ -922,11 +948,11 @@ De minister deelt de deelnemers zo spoedig mogelijk na het bepalen van de extra 
 
 #### § 11. Overgangs- en slotbepalingen
 
-#### Artikel 45
+##### Artikel 45
 
 Deze regeling treedt in werking met ingang van 16 april 2012.
 
-#### Artikel 46
+##### Artikel 46
 
 Deze regeling wordt aangehaald als: Regeling aanvraag- en veilingprocedure vergunningen 800, 900 en 1800 MHz.
 

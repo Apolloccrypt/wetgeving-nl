@@ -1,36 +1,62 @@
 ---
-title: "Verzamelbesluit Omgevingswet IENW bodem en water 2025"
+title: "Besluit van 4 november 2024 tot wijziging van het Besluit activiteiten leefomgeving, het Omgevingsbesluit, het Invoeringsbesluit Omgevingswet en het Besluit bodemkwaliteit (Verzamelbesluit Omgevingswet IENW bodem en water 2025)"
 identifier: "BWBR0050376"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050376"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050376"
+soort: "AMvB"
+stam_id: "17261313"
+version_id: "30401772"
+internal_id: "C43600211"
+label_id: "17166844"
+dtd_version: "2.0"
+original_entry_into_force: "2025-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050376/2025-01-01/0"
+intitule_bron: "Stb.2024-330"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-11-04"
+intitule_published: "2024-11-07"
+intitule_in_force: "2024-11-07"
+intitule_status: "goed"
+original_publication: "Stb.2024-330"
+original_signed_date: "2024-11-04"
+original_published_date: "2024-11-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2024-330"
+entry_into_force_date: "2025-01-01"
+jci_1_3: "jci1.3:c:BWBR0050376&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0050376&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Verzamelbesluit Omgevingswet IENW bodem en water 2025"
+signed_date: "2024-11-04"
+entry_into_force: "2025-01-01"
 ---
-
 # Besluit van 4 november 2024 tot wijziging van het Besluit activiteiten leefomgeving, het Omgevingsbesluit, het Invoeringsbesluit Omgevingswet en het Besluit bodemkwaliteit (Verzamelbesluit Omgevingswet IENW bodem en water 2025)
 
-#### Artikel I. (Wijziging [Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330))
+##### Artikel I. (Wijziging [Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330))
 
 Wijzigt het Besluit activiteiten leefomgeving.
 
-#### Artikel II. (Wijziging [Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278))
+##### Artikel II. (Wijziging [Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278))
 
 Wijzigt het Omgevingsbesluit.
 
-#### Artikel III. (Wijziging [Invoeringsbesluit Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0044923))
+##### Artikel III. (Wijziging [Invoeringsbesluit Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0044923))
 
 Wijzigt het Invoeringsbesluit Omgevingswet.
 
-#### Artikel IV. (Wijziging [Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929))
+##### Artikel IV. (Wijziging [Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929))
 
 Wijzigt het Besluit bodemkwaliteit.
 
-#### Artikel V. (Inwerkingtreding)
+##### Artikel V. (Inwerkingtreding)
 
 Dit besluit treedt in werking met ingang van 1 januari 2025 en werkt ten aanzien van [artikel I, onder AW](https://wetten.overheid.nl/jci1.3:c:BWBR0050376&artikel=I&z=2025-01-01&g=2025-01-01) terug tot en met 1 januari 2024.
 
-#### Artikel VI. (Citeertitel)
+##### Artikel VI. (Citeertitel)
 
 Dit besluit wordt aangehaald als: Verzamelbesluit Omgevingswet IENW bodem en water 2025.
 

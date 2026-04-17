@@ -1,24 +1,49 @@
 ---
-title: "Promit-regeling 1998"
+title: "Regeling stimuliering multimodaal en intermodaal transport 1998"
 identifier: "BWBR0009694"
-categorie: "Overig"
-publicatiedatum: 1998-06-21
-laatste_update: 1998-06-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009694"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1998-06-21"
+last_updated: "1998-06-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009694"
+soort: "ministeriele-regeling"
+stam_id: "5003813"
+version_id: "8671662"
+internal_id: "C11223841"
+label_id: "4980354"
+dtd_version: "2.0"
+original_entry_into_force: "1998-06-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009694/1998-06-21/0"
+intitule_bron: "Stcrt.1998-113"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-06-15"
+intitule_published: "1998-06-19"
+intitule_in_force: "1998-06-19"
+intitule_status: "goed"
+original_publication: "Stcrt.1998-113"
+original_signed_date: "1998-06-15"
+original_published_date: "1998-06-19"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1998-06-21"
+jci_1_3: "jci1.3:c:BWBR0009694&z=1998-06-21&g=1998-06-21"
+jci_1_0: "1.0:c:BWBR0009694&g=1998-06-21"
+citeertitel_status: "officieel"
+short_title: "Promit-regeling 1998"
+signed_date: "1998-06-15"
+entry_into_force: "1998-06-21"
 ---
-
 # Regeling stimuliering multimodaal en intermodaal transport 1998
 
 Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009196&artikel=3) en [4 van de Kaderwet subsidies Verkeer en Waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0009196&artikel=4);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Minister kan aan haalbaarheidsprojecten, onderzoeks- en ontwikkelingsprojecten, praktijkexperimenten, demonstratie- en kennisoverdracht-projecten subsidie verlenen indien deze:
 
@@ -56,7 +81,7 @@ In deze regeling wordt verstaan onder:
 
 - d. de toepassingsmogelijkheden van de projectresultaten in de markt, te beoordelen naar de mate waarin de projectresultaten naar verwachting kunnen worden toegepast in de markt.
 
-#### Artikel 3
+##### Artikel 3
 
 Een project behoort tot de categorie Nieuwe toetreders tot het spoor indien:
 
@@ -70,11 +95,11 @@ Een project behoort tot de categorie Nieuwe toetreders tot het spoor indien:
 
 - 3). een businessplan heeft opgesteld met betrekking tot de te ontwikkelen spoorvervoeractiviteiten, inclusief de financiële onderbouwing daarvan.
 
-#### Artikel 4
+##### Artikel 4
 
 Een project behoort tot de categorie Promit algemeen indien het gericht is op de ontwikkeling van technische of organisatorische maatregelen die modal shift bevorderen en niet behoort tot de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009694&artikel=3&z=1998-06-21&g=1998-06-21) bedoelde categorie.
 
-#### Artikel 5
+##### Artikel 5
 
 Het subsidieplafond dat aan het toekennen van subsidies ingevolge deze regeling wordt gesteld, bedraagt:
 
@@ -82,7 +107,7 @@ Het subsidieplafond dat aan het toekennen van subsidies ingevolge deze regeling 
 
 - b. voor projecten, behorend tot de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009694&artikel=4&z=1998-06-21&g=1998-06-21) genoemde categorie: f 1,75 miljoen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Onverminderd het bepaalde in het tweede, derde, vierde en zevende lid, bedraagt de subsidie:
 
@@ -126,7 +151,7 @@ Het subsidieplafond dat aan het toekennen van subsidies ingevolge deze regeling 
 
 7. De subsidie bedraagt maximaal f 500.000,- per project.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De in [artikel 2, eerste lid, sub c](https://wetten.overheid.nl/jci1.3:c:BWBR0009694&artikel=2&z=1998-06-21&g=1998-06-21) genoemde partijen kunnen ter verkrijging van subsidie een aanvraag indienen, waarbij wordt aangegeven op welke van de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009694&artikel=3&z=1998-06-21&g=1998-06-21) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009694&artikel=4&z=1998-06-21&g=1998-06-21) genoemde categorieën de aanvraag betrekking heeft.
 
@@ -140,7 +165,7 @@ Postbus 8242 3502 RE Utrecht tel. 030 - 2393493
 
 4. Een aanvraag wordt ingediend met gebruikmaking van een bij de programmabeheerder verkrijgbaar aanvraagformulier en gaat vergezeld van de in het formulier aangegeven bewijsstukken en gegevens.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De aanvragen worden behandeld in volgorde van ontvangst met dien verstande dat wanneer een aanvrager krachtens [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) in de gelegenheid wordt gesteld zijn aanvraag aan te vullen, de dag waarop de aanvullende gegevens zijn ontvangen geldt als datum van ontvangst.
 
@@ -158,7 +183,7 @@ Postbus 8242 3502 RE Utrecht tel. 030 - 2393493
 
 - d. de aanvrager niet beschikt over de voor de uitvoering van het project benodigde vergunningen en ontheffingen en deze niet binnen een door de programmabeheerder gestelde termijn verkregen kunnen worden.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De beschikking tot subsidieverlening vermeldt in elk geval:
 
@@ -172,7 +197,7 @@ Postbus 8242 3502 RE Utrecht tel. 030 - 2393493
 
 2. Van het bedrag, bedoeld in het eerste lid onder c, wordt maximaal 80% bij wijze van voorschot op declaratiebasis uitbetaald.
 
-#### Artikel 10
+##### Artikel 10
 
 De subsidie kan worden verleend onder de voorwaarde:
 
@@ -182,7 +207,7 @@ De subsidie kan worden verleend onder de voorwaarde:
 
 - c. dat de subsidie-ontvanger zijn medewerking verleend aan een door de programmabeheerder of een door de programmabeheerder aangewezen derde uit te voeren meet- of demonstratie-programma.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De subsidie-ontvanger is verplicht:
 
@@ -198,11 +223,11 @@ De subsidie kan worden verleend onder de voorwaarde:
 
 2. Aan de subsidie-ontvanger kunnen nadere verplichtingen worden opgelegd met betrekking tot de inrichting van zijn administratie.
 
-#### Artikel 12
+##### Artikel 12
 
 Behalve de in de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) geregelde gevallen kan de subsidie, zolang deze nog niet definitief is vastgesteld, worden ingetrokken indien de subsidie-ontvanger failliet is verklaard, aan hem surseance van betaling is verleend of ten aanzien van hem de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, dan wel een verzoek daartoe bij de rechtbank is ingediend.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Aanvragen tot subsidievaststelling kunnen binnen 13 weken na beëindiging van het project worden ingediend bij de programmabeheerder.
 
@@ -218,6 +243,6 @@ Behalve de in de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:
 
 5. Indien het definitieve subsidiebedrag hoger is dan hetgeen reeds ingevolge [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009694&artikel=9&z=1998-06-21&g=1998-06-21), als voorschot is uitbetaald, wordt het restant binnen twee weken na dagtekening van de beschikking tot subsidievaststelling uitbetaald.
 
-#### Artikel 14
+##### Artikel 14
 
 Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.

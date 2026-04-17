@@ -1,13 +1,37 @@
 ---
 title: "Toepassing toezicht op toegelaten instellingen (BBSH)"
 identifier: "BWBR0010820"
-categorie: "Bestuursrecht"
-publicatiedatum: 2000-02-07
-laatste_update: 2000-02-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010820"
+country: "nl"
+rank: "circulaire"
+publication_date: "2000-02-07"
+last_updated: "2000-02-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010820"
+soort: "circulaire"
+stam_id: "6355903"
+version_id: "11013382"
+internal_id: "C14907671"
+label_id: "6344894"
+original_entry_into_force: "2000-02-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010820/2000-02-07/0"
+intitule_bron: "Stcrt.2000-26"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-11-03"
+intitule_published: "2000-02-07"
+intitule_in_force: "2000-02-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2000-26"
+original_signed_date: "1999-11-03"
+original_published_date: "2000-02-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2000-26-p8-SC22562"
+entry_into_force_date: "2000-02-07"
+jci_1_3: "jci1.3:c:BWBR0010820&z=2000-02-07&g=2000-02-07"
+jci_1_0: "1.0:c:BWBR0010820&g=2000-02-07"
+citeertitel_status: "redactioneel"
+signed_date: "1999-11-03"
+entry_into_force: "2000-02-07"
 ---
-
 # Toepassing toezicht op toegelaten instellingen (BBSH)
 
 Geacht college/bestuur,

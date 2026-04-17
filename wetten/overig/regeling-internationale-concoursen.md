@@ -1,13 +1,38 @@
 ---
 title: "Regeling Internationale Concoursen"
 identifier: "BWBR0050565"
-categorie: "Overig"
-publicatiedatum: 2024-12-19
-laatste_update: 2024-12-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050565"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-12-19"
+last_updated: "2024-12-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050565"
+soort: "zbo"
+stam_id: "17310473"
+version_id: "30489902"
+internal_id: "C43714031"
+label_id: "17214574"
+dtd_version: "2.0"
+original_entry_into_force: "2024-12-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050565/2024-12-19/0"
+intitule_bron: "Stcrt.2024-41861"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-12-09"
+intitule_published: "2024-12-18"
+intitule_in_force: "2024-12-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-41861"
+original_signed_date: "2024-12-09"
+original_published_date: "2024-12-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-41861"
+entry_into_force_date: "2024-12-19"
+jci_1_3: "jci1.3:c:BWBR0050565&z=2024-12-19&g=2024-12-19"
+jci_1_0: "1.0:c:BWBR0050565&g=2024-12-19"
+citeertitel_status: "officieel"
+signed_date: "2024-12-09"
+entry_into_force: "2024-12-19"
 ---
-
 # Regeling Internationale Concoursen
 
 Gelet op [artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10) en [artikel 2 van het Algemeen Reglement van het Nederlands Fonds voor Podiumkunsten](https://wetten.overheid.nl/jci1.3:c:BWBR0030539&artikel=2)
@@ -16,7 +41,7 @@ Besluit:
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 1.1. Definitie
+##### Artikel 1.1. Definitie
 
 In deze regeling wordt verstaan onder:
 
@@ -30,15 +55,15 @@ In deze regeling wordt verstaan onder:
 
 - **podiumkunstenaar:** iemand die artistiek-inhoudelijk actief is in de podiumkunsten.
 
-#### Artikel 1.2. Doel
+##### Artikel 1.2. Doel
 
 Om bij te dragen aan talentontwikkeling en carrièrevorming van podiumkunstenaars ondersteunt het bestuur in het kader van deze regeling internationale concoursen die in Nederland een belangrijk podium of platform zijn voor podiumkunstenaars om zich buiten de eigen markt te kunnen profileren.
 
-#### Artikel 1.3. Subsidieperiode
+##### Artikel 1.3. Subsidieperiode
 
 Subsidie op grond van deze regeling wordt verstrekt voor de periode van 1 januari 2025 tot en met 31 december 2028.
 
-#### Artikel 1.4. Subsidieplafonds
+##### Artikel 1.4. Subsidieplafonds
 
 1. Het bestuur kan een of meer subsidieplafonds vaststellen.
 
@@ -46,7 +71,7 @@ Subsidie op grond van deze regeling wordt verstrekt voor de periode van 1 januar
 
 3. Besluiten als bedoeld in het eerste en tweede lid worden bekendgemaakt door kennisgeving van het besluit in de Staatscourant.
 
-#### Artikel 1.5. Weigeringsgronden
+##### Artikel 1.5. Weigeringsgronden
 
 1. Het bestuur kan, onverminderd het bepaalde in [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35), subsidie weigeren:
 
@@ -72,11 +97,11 @@ Subsidie op grond van deze regeling wordt verstrekt voor de periode van 1 januar
 
 #### Paragraaf 2. Procedure
 
-#### Artikel 2.1. Wie kan aanvragen
+##### Artikel 2.1. Wie kan aanvragen
 
 De subsidie kan uitsluitend worden aangevraagd door een rechtspersoon wiens kernactiviteit de organisatie van een concours is en daar artistiek en financieel eindverantwoordelijk voor is.
 
-#### Artikel 2.2. Indienen aanvraag
+##### Artikel 2.2. Indienen aanvraag
 
 1. Aanvragen dienen uiterlijk 15 januari 2025 om 23.59 uur te zijn ontvangen
 
@@ -86,7 +111,7 @@ De subsidie kan uitsluitend worden aangevraagd door een rechtspersoon wiens kern
 
 4. Per rechtspersoon kan maximaal 1 aanvraag worden ingediend.
 
-#### Artikel 2.3. Vereisten
+##### Artikel 2.3. Vereisten
 
 1. Een aanvrager die in aanmerking wil komen voor een bijdrage op grond van deze regeling dient te kunnen aantonen dat deze minimaal twee edities in de periode van vijf jaar voorafgaande aan het indienen van de aanvraag van het betreffende concours heeft georganiseerd.
 
@@ -100,7 +125,7 @@ De subsidie kan uitsluitend worden aangevraagd door een rechtspersoon wiens kern
 
 3. Het bestuur kan besluiten een aanvraag die niet voldoet aan de vereisten in het tweede lid in behandeling te nemen als de aanvrager slechts in beperkte mate niet voldoet aan de vereisten. Het bestuur kan in dat geval verplichtingen verbinden aan het besluit om de aanvraag te honoreren. Dit is afhankelijk van de mate waarin de aanvraag niet voldoet aan de vereisten uit het tweede lid.
 
-#### Artikel 2.4. Budget
+##### Artikel 2.4. Budget
 
 1. Het subsidieplafond bedraagt 800.000 euro voor de gehele periode 2025–2028. Het beschikbare subsidiebedrag wordt verdeeld conform het bepaalde in deze regeling.
 
@@ -108,13 +133,13 @@ De subsidie kan uitsluitend worden aangevraagd door een rechtspersoon wiens kern
 
 3. Indien het subsidieplafond door toepassing van het bepaalde in de regeling wordt overschreden, worden de te verlenen subsidiebedragen per aanvraag naar rato verlaagd tot het niveau waarbinnen het totaal beschikbare bedrag volledig kan worden benut. Er wordt daarbij geen onderscheid gemaakt.
 
-#### Artikel 2.5. Besluit
+##### Artikel 2.5. Besluit
 
 Het bestuur informeert de aanvrager binnen 13 weken na de uiterlijke indiendatum schriftelijk over zijn besluit. Als voor de motivering van het besluit wordt verwezen naar een over de aanvraag uitgebracht advies wordt de tekst van het advies aan de aanvrager toegezonden.
 
 #### Paragraaf 3. Subsidiabele kosten
 
-#### Artikel 3.1. Waarvoor kan worden aangevraagd
+##### Artikel 3.1. Waarvoor kan worden aangevraagd
 
 1. Voor subsidiering komen uitsluitend de volgende kosten in aanmerking:
 
@@ -138,7 +163,7 @@ Het bestuur informeert de aanvrager binnen 13 weken na de uiterlijke indiendatum
 
 #### Paragraaf 4. Verplichtingen en verantwoording
 
-#### Artikel 4.1. Aan de subsidie verbonden verplichtingen
+##### Artikel 4.1. Aan de subsidie verbonden verplichtingen
 
 1. De subsidieontvanger meldt onverwijld aan het bestuur als:
 
@@ -152,17 +177,17 @@ Het bestuur informeert de aanvrager binnen 13 weken na de uiterlijke indiendatum
 
 3. Het bestuur kan bij beschikking andere dan de in het eerste en tweede lid opgenomen verplichtingen aan de subsidie verbinden.
 
-#### Artikel 4.2. Verantwoording
+##### Artikel 4.2. Verantwoording
 
 De subsidieontvanger stuurt gedurende de periode waarvoor de subsidie is verleend per editie van het concours en uiterlijk drie maanden na afloop daarvan een verantwoording in over de verrichte activiteiten waarmee kan worden aangetoond dat de gesubsidieerde activiteiten volgens plan hebben plaatsgevonden.
 
-#### Artikel 4.3. Vaststelling subsidie
+##### Artikel 4.3. Vaststelling subsidie
 
 1. Het bestuur stelt de subsidie vast aan het einde van de subsidieperiode op basis van de verantwoording van de laatste editie in de periode 2025–2028.
 
 2. Als de activiteiten zijn uitgevoerd en is voldaan aan alle aan de subsidie verbonden verplichtingen stelt het bestuur de subsidie binnen 22 weken overeenkomstig de verlening vast.
 
-#### Artikel 4.4. Intrekking of wijziging subsidie
+##### Artikel 4.4. Intrekking of wijziging subsidie
 
 1. Als op enig moment blijkt dat niet is voldaan aan enige voorwaarde van deze regeling of enige aan de subsidie verbonden verplichting, kan het bestuur de subsidie intrekken, ten nadele van de subsidieontvanger wijzigen of lager vaststellen.
 
@@ -170,15 +195,15 @@ De subsidieontvanger stuurt gedurende de periode waarvoor de subsidie is verleen
 
 #### Paragraaf 5. Overige bepalingen
 
-#### Artikel 5.1. Begrotingsvoorbehoud
+##### Artikel 5.1. Begrotingsvoorbehoud
 
 Subsidie wordt verleend onder voorbehoud van verstrekking van de bijbehorende middelen door de Minister van Onderwijs, Cultuur en Wetenschap.
 
-#### Artikel 5.2. Inwerkingtreding
+##### Artikel 5.2. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 5.3. Citeertitel
+##### Artikel 5.3. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling Internationale Concoursen.
 

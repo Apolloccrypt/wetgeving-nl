@@ -1,18 +1,43 @@
 ---
 title: "Besluit radioamateurs BES"
 identifier: "BWBR0028725"
-categorie: "Overig"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028725"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028725"
+soort: "AMvB-BES"
+stam_id: "10945243"
+version_id: "17931772"
+internal_id: "C24855811"
+label_id: "10920144"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028725/2010-10-10/0"
+intitule_bron: "Stb.2010-456"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-10-04"
+intitule_published: "2010-10-07"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-456"
+original_signed_date: "2010-10-04"
+original_published_date: "2010-10-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-456"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028725&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028725&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-10-04"
+entry_into_force: "2010-10-10"
 ---
-
 # Besluit radioamateurs BES
 
 #### § 1. Definities
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -48,21 +73,21 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - n. **maximum zendvermogen:** de waarde van het zendvermogen welke als gevolg van de constructie van de zendinrichting niet kan worden overschreden.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Dit besluit berust op de [artikelen 13 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=13), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=19), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=31) en [33 van de Wet telecommunicatievoorzieningen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=33).
 
 #### § 2. Algemene bepalingen
 
-#### Artikel 2
+##### Artikel 2
 
 Terzake van telecommunicatievoorzieningen ten behoeve van radioamateurs gelden, onverminderd, tenzij anders is bepaald, de regels die zijn gesteld bij en krachtens het [Besluit radio-elektrische inrichtingen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028621) en de navolgende bepalingen.
 
-#### Artikel 3
+##### Artikel 3
 
 In afwijking van [artikel 34, eerste lid, van het Besluit radio-elektrische inrichtingen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&artikel=34), worden machtigingen voor radioamateurs verleend voor ten hoogste tien jaar.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Radioamateurs verkrijgen een machtiging indien zij in het bezit zijn van een door Onze Minister afgegeven bewijs van bevoegdheid als radioamateur. Een zodanig bewijs wordt verstrekt nadat zij met goed gevolg een daartoe strekkend examen hebben afgelegd.
 
@@ -74,7 +99,7 @@ In afwijking van [artikel 34, eerste lid, van het Besluit radio-elektrische inri
 
 5. In afwijking van het eerste lid kan tevens machtiging worden verleend aan een op het grondgebied van een openbaar lichaam gevestigde rechtspersoonlijkheid bezittende vereniging van radioamateurs.
 
-#### Artikel 5
+##### Artikel 5
 
 Geen examen behoeft te worden afgelegd door:
 
@@ -84,7 +109,7 @@ Geen examen behoeft te worden afgelegd door:
 
 - c. personen van andere nationaliteit die gedurende een periode van ten hoogste drie maanden op het grondgebied van een openbaar lichaam verblijven mits zij in bezit zijn van een geldige machtiging van het land van herkomst, en dat land radioamateurs afkomstig uit een openbaar lichaam op de voet van wederkerigheid gedurende eenzelfde periode zonder aanvullende eisen toelaat.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het examen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028725&paragraaf=2&artikel=4&z=2010-10-10&g=2010-10-10), wordt afgenomen door een bij besluit in te stellen commissie.
 
@@ -98,17 +123,17 @@ Geen examen behoeft te worden afgelegd door:
 
 6. Onze Minister houdt een register bij van de verleende bewijzen van bevoegdheid als radioamateur.
 
-#### Artikel 7
+##### Artikel 7
 
 Onze Minister kan op verzoek van de belanghebbende een uittreksel verstrekken uit het register, waaruit blijkt dat de machtinginghouder in het bezit is van een bevoegdheid als radioamateur, dat overeenkomt met de daartoe strekkende internationale eisen, zulks ter verkrijging van een machtiging in landen waarmede het Koninkrijk der Nederlanden laterale of multilaterale overeenkomsten van wederkerigheid heeft ondertekend. Dit uittreksel heeft een geldigheidsduur van één jaar en wordt opgesteld in de Engelse of Spaanse taal.
 
-#### Artikel 8
+##### Artikel 8
 
 De uitgifte van roepletters, bedoeld in [artikel 40 van het Besluit radio-elektrische inrichtingen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&artikel=40), geschiedt voor wat betreft radioamateurs overeenkomstig het bepaalde in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028725&bijlage=2&z=2010-10-10&g=2010-10-10) behorende bij dit besluit.
 
 #### § 3. Verplichtingen
 
-#### Artikel 9
+##### Artikel 9
 
 1. De machtiginghouder is verplicht een register te houden met betrekking tot de zendinrichtingen die deel uitmaken of deel hebben uitgemaakt van het amateurstation overeenkomstig het model aangegeven in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028725&bijlage=3&z=2010-10-10&g=2010-10-10) behorende bij dit besluit en dit register volledig in te vullen. De machtiginghouder dient onverwijld bij elke mutatie een afschrift van dit register aan Onze Minister toe te zenden. Onder mutatie wordt tevens verstaan veranderingen in het correspondentieadres van de machtiginghouder.
 
@@ -120,11 +145,11 @@ De uitgifte van roepletters, bedoeld in [artikel 40 van het Besluit radio-elektr
 
 5. Alle aan de machtiginghouder verstrekte bescheiden blijven eigendom van de Staat der Nederlanden.
 
-#### Artikel 10
+##### Artikel 10
 
 Zodra een in dit besluit bedoelde zend- of ontvanginrichting voor gebruik gereed is, stelt de machtiginghouder Onze Minister daarvan in kennis ten einde de keuring, bedoeld in [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&artikel=38), [onderscheidenlijk 69, eerste lid, van het Besluit radio-elektrische inrichtingen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&artikel=69) te kunnen doen plaatsvinden.
 
-#### Artikel 11
+##### Artikel 11
 
 De machtiginghouder mag de navolgende zendinrichtingen aanwezig hebben:
 
@@ -140,7 +165,7 @@ De machtiginghouder mag de navolgende zendinrichtingen aanwezig hebben:
 
 - 2. Andere zendinrichtingen mits deze zodanig zijn gedemonteerd dat de zendinrichtingen niet geschikt zijn of op eenvoudige wijze geschikt gemaakt kunnen worden voor het doen van uitzendingen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De machtiginghouder mag het amateurstation slechts gebruiken voor het doen van technische en wetenschappelijke onderzoekingen.
 
@@ -168,7 +193,7 @@ De machtiginghouder mag de navolgende zendinrichtingen aanwezig hebben:
 
 11. De machtiginghouder dient bij het gebruik van het amateurstation overlast in het amateurradioverkeer te voorkomen.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Bij het begin en bij het einde van elke uitzending dient de machtiginghouder zijn roepletters ten minste éénmaal uit te zenden. Is de uitzending opgebouwd uit kortdurende uitzendingen, dan worden deze aangemerkt als één uitzending.
 
@@ -176,7 +201,7 @@ De machtiginghouder mag de navolgende zendinrichtingen aanwezig hebben:
 
 3. Indien tijdens een georganiseerde amateurradiowedstrijd een groepsstation wordt gevormd, is het toegestaan dat de deelnemers de roepletters van een van de deelnemende machtiginghouders gebruiken.
 
-#### Artikel 14
+##### Artikel 14
 
 De uitzending van de roepletters dient op één van de hier navolgende wijze te geschieden:
 
@@ -251,17 +276,17 @@ De uitzending van de roepletters dient op één van de hier navolgende wijze te 
 
 - 5. Afwijkingen: Indien bij automatische telegrafie of beeldoverdracht niet aan de voorgeschreven wijze van identificatie kan worden voldaan, dient de identificatie te geschieden door middel van spraak of morse-telegrafie.
 
-#### Artikel 15
+##### Artikel 15
 
 De machtiginghouder mag, behoudens ingeval van nood, uitsluitend radioverbindingen maken met radioamateurs alsmede met gebruikers van andere stations die bevoegd zijn op amateurfrequenties radioverbindingen te maken.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De artikelen [18 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&artikel=18) en [51 tot en met 58 van het Besluit radio-elektrische inrichtingen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&artikel=51) zijn niet van toepassing.
 
 2. De machtiginghouder dient er voor te zorgen dat de zendinrichtingen zijn voorzien van een serienummer dat niet op eenvoudige wijze verwijderbaar of uitwisbaar is.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De mechanische constructie en de elektrische opbouw (van de delen) van het amateurstation dienen te voldoen aan – naar de stand der techniek – redelijk te stellen eisen.
 
@@ -275,15 +300,15 @@ De machtiginghouder mag, behoudens ingeval van nood, uitsluitend radioverbinding
 
 - d. Indien de voedingsspanning van de met de antenne of antennevoedingslijn gekoppelde laatste trap van de zendinrichting meer dan 50 Volt voor de wisselspanning of 110 Volt voor gelijkspanning kan bedragen, dient een deugdelijke voorziening aanwezig te zijn, die voorkomt dat de voedingsspanning op de antenne komt.
 
-#### Artikel 18
+##### Artikel 18
 
 De bandbreedte van de uitzendingen dient beperkt te worden tot een voor de te nemen proeven noodzakelijke grens.
 
-#### Artikel 19
+##### Artikel 19
 
 De stabiliteit van de frequentie van het uitgezonden signaal moet voldoen aan – naar de stand der techniek – redelijk te stellen eisen.
 
-#### Artikel 20
+##### Artikel 20
 
 Het vermogen van ongewenste hoogfrequent-uitstralingen mag per component niet meer bedragen dan in de navolgende tabel is aangegeven:
 
@@ -297,7 +322,7 @@ Het vermogen van ongewenste hoogfrequent-uitstralingen mag per component niet me
 |   | – 50 dB (*1) | > 10 Watt |
 |   | > 17.7 GHz | Naar de stand van de techniek |
 
-#### Artikel 21
+##### Artikel 21
 
 De machtiginghouder moet er voor zorgdragen dat door de uitzendingen van de zendinrichting de grenzen van de hem toegewezen frequentiebanden en het toegestane zendvermogen niet worden overschreden.
 
@@ -305,7 +330,7 @@ De machtiginghouder moet er voor zorgdragen dat door de uitzendingen van de zend
 
 #### I. Amateurradio zendmachtiging A
 
-#### Artikel 22
+##### Artikel 22
 
 1. De machtiginghouder mag het amateurstation uitsluitend gebruiken in overeenstemming met de in het navolgende schema weergegeven combinaties:
 
@@ -347,7 +372,7 @@ De machtiginghouder moet er voor zorgdragen dat door de uitzendingen van de zend
 
 #### II. Amateurradio machtiging B
 
-#### Artikel 23
+##### Artikel 23
 
 1. De machtiginghouder mag het amateurstation uitsluitend gebruiken in overeenstemming met de in het navolgende schema weergegeven combinaties:
 
@@ -383,7 +408,7 @@ De machtiginghouder moet er voor zorgdragen dat door de uitzendingen van de zend
 
 #### III. Amateurradio machtiging C
 
-#### Artikel 24
+##### Artikel 24
 
 1. De machtiginghouder mag het amateurstation uitsluitend gebruiken in overeenstemming met de in het navolgende schema weergegeven combinaties:
 
@@ -414,7 +439,7 @@ De machtiginghouder moet er voor zorgdragen dat door de uitzendingen van de zend
 
 #### IV. Radioamateurmachtiging N
 
-#### Artikel 25
+##### Artikel 25
 
 1. De machtiginghouder mag het amateurstation uitsluitend gebruiken in overeenstemming met de in het navolgende schema weergegeven combinaties:
 
@@ -430,13 +455,13 @@ De machtiginghouder moet er voor zorgdragen dat door de uitzendingen van de zend
 
 #### § 5. Internationale communicatie
 
-#### Artikel 26
+##### Artikel 26
 
 Ingeval van internationale communicatie gelden mede de voorschriften opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028725&bijlage=4&z=2010-10-10&g=2010-10-10) behorende bij dit besluit. Indien de voorschriften opgenomen in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0028725&paragraaf=4&sub-paragraaf=I&artikel=22&z=2010-10-10&g=2010-10-10), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0028725&paragraaf=4&sub-paragraaf=II&artikel=23&z=2010-10-10&g=2010-10-10), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0028725&paragraaf=4&sub-paragraaf=III&artikel=24&z=2010-10-10&g=2010-10-10) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0028725&paragraaf=4&sub-paragraaf=IV&artikel=25&z=2010-10-10&g=2010-10-10) daarvan afwijken, hebben de voorschriften opgenomen in bijlage 4 voorrang.
 
 #### § 6. Strafbepaling
 
-#### Artikel 27
+##### Artikel 27
 
 Het is een strafbaar feit als bedoeld in [artikel 35, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=35) om:
 
@@ -446,15 +471,15 @@ Het is een strafbaar feit als bedoeld in [artikel 35, vierde lid, van de wet](ht
 
 #### § 7. Overgangs- en slotbepalingen
 
-#### Artikel 28
+##### Artikel 28
 
 De geldigheidsduur van een machtiging die is verleend krachtens de [artikel 15, eerste lid, van de Wet telecommunicatievoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=15) en die bestemd is voor telecommunicatievoorzieningen ten behoeve van radioamateurs is, gerekend vanaf het tijdstip van verlening, gelijk aan de duur waarvoor de machtiging is verleend.
 
-#### Artikel 29
+##### Artikel 29
 
 Een toestemming die is verleend krachtens artikel 11, eerste lid, onderdeel b, of 12, achtste lid, van het Landsbesluit radioamateurs wordt gelijkgesteld met een toestemming verleend krachtens [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028725&paragraaf=3&artikel=11&z=2010-10-10&g=2010-10-10), onderdeel b, onderscheidenlijk [artikel 12, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028725&paragraaf=3&artikel=12&z=2010-10-10&g=2010-10-10).
 
-#### Artikel 30
+##### Artikel 30
 
 Dit besluit wordt aangehaald als: Besluit radioamateurs BES.
 

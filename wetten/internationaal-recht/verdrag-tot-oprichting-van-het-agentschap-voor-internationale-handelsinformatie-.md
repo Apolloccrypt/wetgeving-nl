@@ -1,13 +1,34 @@
 ---
 title: "Verdrag tot oprichting van het Agentschap voor internationale handelsinformatie en -samenwerking, als intergouvernementele organisatie"
 identifier: "BWBV0001623"
-categorie: "Internationaal recht"
-publicatiedatum: 2010-02-28
-laatste_update: 2010-02-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001623"
+country: "nl"
+rank: "verdrag"
+publication_date: "2010-02-28"
+last_updated: "2010-02-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001623"
+soort: "verdrag"
+stam_id: "10000055113"
+version_id: "10004008762"
+internal_id: "C10006994761"
+label_id: "10000055384"
+original_entry_into_force: "2010-02-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001623/2010-02-28/0"
+intitule_bron: "Trb.2010-87"
+intitule_effect: "intrekking-regeling"
+intitule_published: "2010-03-17"
+intitule_in_force: "2010-03-17"
+intitule_status: "vervallen"
+original_publication: "Trb.2010-87"
+original_published_date: "2010-03-17"
+original_effect: "intrekking-regeling"
+original_url_id: "trb-2010-87"
+entry_into_force_date: "2010-02-28"
+jci_1_3: "jci1.3:c:BWBV0001623&z=2010-02-28&g=2010-02-28"
+jci_1_0: "1.0:c:BWBV0001623&g=2010-02-28"
+citeertitel_status: "officieel"
+entry_into_force: "2010-02-28"
 ---
-
 # Verdrag tot oprichting van het Agentschap voor internationale handelsinformatie en -samenwerking, als intergouvernementele organisatie
 
 De Partijen bij dit Verdrag,
@@ -32,83 +53,83 @@ Geleid door de wens, op basis van partnerschap tussen landen met beperkte middel
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Oprichting van AITIC
+##### Artikel 1. Oprichting van AITIC
 
 Vervallen
 
-#### Artikel 2. Doel van AITIC
+##### Artikel 2. Doel van AITIC
 
 Vervallen
 
-#### Artikel 3. Taken
+##### Artikel 3. Taken
 
 Vervallen
 
-#### Artikel 4. Betrekkingen met andere organisaties
+##### Artikel 4. Betrekkingen met andere organisaties
 
 Vervallen
 
-#### Artikel 5. Lidmaatschap
+##### Artikel 5. Lidmaatschap
 
 Vervallen
 
-#### Artikel 6. Structuur van AITIC
+##### Artikel 6. Structuur van AITIC
 
 Vervallen
 
-#### Artikel 7. Raad van Afgevaardigden
+##### Artikel 7. Raad van Afgevaardigden
 
 Vervallen
 
-#### Artikel 8. Uitvoerende Raad
+##### Artikel 8. Uitvoerende Raad
 
 Vervallen
 
-#### Artikel 9. Uitvoerend Directeur en secretariaat
+##### Artikel 9. Uitvoerend Directeur en secretariaat
 
 Vervallen
 
-#### Artikel 10. Besluitvorming
+##### Artikel 10. Besluitvorming
 
 Vervallen
 
-#### Artikel 11. Financiële structuur van AITIC
+##### Artikel 11. Financiële structuur van AITIC
 
 Vervallen
 
-#### Artikel 12. Rechten en verplichtingen van leden
+##### Artikel 12. Rechten en verplichtingen van leden
 
 Vervallen
 
-#### Artikel 13. Juridische status van AITIC
+##### Artikel 13. Juridische status van AITIC
 
 Vervallen
 
-#### Artikel 14. Werktalen
+##### Artikel 14. Werktalen
 
 Vervallen
 
-#### Artikel 15. Wijziging, terugtrekking en opzegging
+##### Artikel 15. Wijziging, terugtrekking en opzegging
 
 Vervallen
 
-#### Artikel 16. Instemming te worden gebonden en inwerkingtreding
+##### Artikel 16. Instemming te worden gebonden en inwerkingtreding
 
 Vervallen
 
-#### Artikel 17. Toetreding
+##### Artikel 17. Toetreding
 
 Vervallen
 
-#### Artikel 18. Voorbehouden
+##### Artikel 18. Voorbehouden
 
 Vervallen
 
-#### Artikel 19. Bijlagen
+##### Artikel 19. Bijlagen
 
 Vervallen
 
-#### Artikel 20. Depositaris en registratie
+##### Artikel 20. Depositaris en registratie
 
 Vervallen
 

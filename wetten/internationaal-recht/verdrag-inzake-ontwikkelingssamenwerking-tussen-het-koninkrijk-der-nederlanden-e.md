@@ -1,13 +1,38 @@
 ---
 title: "Verdrag inzake ontwikkelingssamenwerking tussen het Koninkrijk der Nederlanden en de Republiek Uganda"
 identifier: "BWBV0001324"
-categorie: "Internationaal recht"
-publicatiedatum: 1999-01-01
-laatste_update: 1999-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001324"
+country: "nl"
+rank: "verdrag"
+publication_date: "1999-01-01"
+last_updated: "1999-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001324"
+soort: "verdrag"
+stam_id: "10001410793"
+version_id: "10001480192"
+internal_id: "C10006990371"
+label_id: "10001410954"
+dtd_version: "2.0"
+original_entry_into_force: "1999-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001324/1999-01-01/0"
+intitule_bron: "Trb.1998-46"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-01-20"
+intitule_published: "1998-02-18"
+intitule_in_force: "1999-02-24"
+intitule_status: "goed"
+original_publication: "Trb.1998-46"
+original_signed_date: "1998-01-20"
+original_published_date: "1998-02-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1998-46"
+entry_into_force_date: "1999-01-01"
+jci_1_3: "jci1.3:c:BWBV0001324&z=1999-01-01&g=1999-01-01"
+jci_1_0: "1.0:c:BWBV0001324&g=1999-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "1998-01-20"
+entry_into_force: "1999-01-01"
 ---
-
 # Verdrag inzake ontwikkelingssamenwerking tussen het Koninkrijk der Nederlanden en de Republiek Uganda
 
 Het Koninkrijk der Nederlanden (hierna te noemen „de Zendstaat") en de Republiek Uganda (hierna te noemen „de Ontvangende Staat");
@@ -20,7 +45,7 @@ Geleid door de wens samen te werken met het doel om ontwikkelingsprocessen te on
 
 Zijn het volgende overeengekomen:
 
-#### Artikel I. Begripsbepalingen
+##### Artikel I. Begripsbepalingen
 
 Voor de toepassing van dit Verdrag:
 
@@ -42,7 +67,7 @@ Voor de toepassing van dit Verdrag:
 
 - –. financiële middelen of immateriële rechten.
 
-#### Artikel II. Administratieve procedures
+##### Artikel II. Administratieve procedures
 
 1. De Zendstaat en de Ontvangende Staat delen elkaar schriftelijk mede welke uitvoerende instantie de desbetreffende Staat vertegenwoordigt bij de uitvoering van projecten en programma's.
 
@@ -58,7 +83,7 @@ Beide Staten stellen elkaar onverwijld schriftelijk in kennis van alle wijziging
 
 De Ontvangende Staat deelt de Zendstaat schriftelijk mede of het de voorgestelde personeelsleden al dan niet aanvaardt.
 
-#### Artikel III. Voorrechten
+##### Artikel III. Voorrechten
 
 1. De Ontvangende Staat:
 
@@ -84,7 +109,7 @@ De Ontvangende Staat deelt de Zendstaat schriftelijk mede of het de voorgestelde
 
 2. De Ontvangende Staat waarborgt dat de personeelsleden en hun gezinsleden op niet minder gunstige wijze worden behandeld dan soortgelijke ontwikkelingssamenwerkingspersoneelsleden van andere landen of internationale organisaties.
 
-#### Artikel IV. Immuniteiten
+##### Artikel IV. Immuniteiten
 
 1. De Ontvangende Staat verleent de personeelsleden immuniteit van rechtsvervolging met betrekking tot het in hun officiële hoedanigheid verrichten of nalaten van handelingen of met betrekking tot in hun officiële hoedanigheid gesproken of geschreven woorden.
 
@@ -94,7 +119,7 @@ De Ontvangende Staat deelt de Zendstaat schriftelijk mede of het de voorgestelde
 
 4. Indien de Ontvangende Staat zulks verzoekt, verschaft de Zendstaat de Ontvangende Staat de noodzakelijke administratieve of juridische bijstand voor een bevredigende regeling van eventuele problemen die kunnen ontstaan in verband met de toepassing van de voorgaande leden van dit artikel.
 
-#### Artikel V. Prestaties van personeelsleden
+##### Artikel V. Prestaties van personeelsleden
 
 1. De Ontvangende Staat heeft het recht, na overleg met de Zendstaat, te verzoeken om terugroeping van personeelsleden indien hun gedrag als onbevredigend wordt beoordeeld.
 
@@ -108,13 +133,13 @@ In geval van terugroeping stelt de Zendstaat alles in het werk om, indien de Ont
 
 4. De personeelsleden dienen de in de Ontvangende Staat geldende wet- en regelgeving te eerbiedigen.
 
-#### Artikel VI. Arrestatie, hechtenis
+##### Artikel VI. Arrestatie, hechtenis
 
 1. Niettegenstaande de rechten en plichten van de Zendstaat en de Ontvangende Staat ingevolge internationale consulaire verdragen, stelt de Ontvangende Staat de Zendstaat onverwijld ervan in kennis indien personeelsleden of één van hun gezinsleden worden gearresteerd, gevangen gezet, in voorlopige hechtenis genomen of anderszins in detentie worden gehouden. Alle mededelingen die door personeelsleden en hun gezinsleden in geval van arrestatie, gevangenzetting, voorlopige hechtenis of detentie aan de Zendstaat worden gedaan, worden onverwijld door de Ontvangende Staat aan de Zendstaat doorgezonden.
 
 2. Vertegenwoordigers van de Zendstaat zijn gerechtigd met personeelsleden en hun gezinsleden die zijn gearresteerd, gevangen zijn gezet, in voorlopige hechtenis zijn genomen of zich anderszins in detentie bevinden, te spreken, te corresponderen en hen te bezoeken, en zijn voorts gerechtigd maatregelen te nemen ter zake van hun wettelijke vertegenwoordiging.
 
-#### Artikel VII. Projecten en programma's
+##### Artikel VII. Projecten en programma's
 
 1. De identificatie, voorbereiding, beoordeling en supervisie van projecten en programma's ingevolge dit Verdrag worden uitgevoerd onder de eindverantwoordelijkheid van de Ontvangende Staat. De Ontvangende Staat vrijwaart de Zendstaat ter zake van elke verantwoordelijkheid of aansprakelijkheid voor deze projecten en programma's ingevolge de wetgeving van de Ontvangende Staat.
 
@@ -134,7 +159,7 @@ De Zendstaat stelt de Ontvangende Staat tijdig in kennis van de locatie van deze
 
 4. Alle middelen, bedoeld in artikel I, derde lid, welke door de Zendstaat worden geleverd, zijn bestemd voor de overheid van de Zendstaat en blijven eigendom van de Zendstaat, tenzij anders is overeengekomen. Na afloop van een project of programma nemen de Zendstaat en de Ontvangende Staat in onderling overleg een besluit over een andere bestemming en/of overdracht van eigendom. Goederen, grondstoffen, machines en uitrusting die de Ontvangende Staat zijn binnengebracht op basis van een lening of gedeeltelijke financiering zijn echter eigendom van de Ontvangende Staat.
 
-#### Artikel VIII. Beslechting van geschillen
+##### Artikel VIII. Beslechting van geschillen
 
 Geschillen betreffende de uitlegging, toepassing en/of uitvoering van dit Verdrag worden beslecht door middel van onderhandelingen tussen de Zendstaat en de Ontvangende Staat.
 
@@ -142,7 +167,7 @@ Indien met betrekking tot de uitlegging, de toepassing of de uitvoering, hierond
 
 Wanneer onderwerping aan een scheidsrechterlijke uitspraak wordt overeengekomen, wordt afstand gedaan van ieder recht op soevereine immuniteit van tenuitvoerlegging waartoe de Zendstaat of de Ontvangende Staat in andere gevallen gerechtigd zou zijn met betrekking tot de tenuitvoerlegging van iedere scheidsrechterlijke uitspraak die ingevolge dit Verdrag is gedaan.
 
-#### Artikel IX. Inwerkingtreding en beëindiging
+##### Artikel IX. Inwerkingtreding en beëindiging
 
 1. Dit Verdrag wordt voorlopig toegepast vanaf de datum van ondertekening en treedt in werking op de eerste dag van de tweede maand die volgt op de datum waarop de beide Staten elkaar er schriftelijk van in kennis hebben gesteld dat aan hun constitutionele vereisten is voldaan.
 

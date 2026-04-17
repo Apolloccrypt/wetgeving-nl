@@ -1,13 +1,32 @@
 ---
 title: "Protocol bij de Kaderovereenkomst inzake een breed partnerschap en samenwerking tussen de Europese Unie en haar lidstaten, enerzijds, en de Socialistische Republiek Vietnam, anderzijds, teneinde rekening te houden met de toetreding van de Republiek Kroatië tot de Europese Unie"
 identifier: "BWBV0006456"
-categorie: "Internationaal recht"
-publicatiedatum: 2014-11-19
-laatste_update: 2014-11-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006456"
+country: "nl"
+rank: "verdrag"
+publication_date: "2014-11-19"
+last_updated: "2014-11-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006456"
+soort: "verdrag"
+stam_id: "10005271813"
+version_id: "10005665702"
+internal_id: "C10008777201"
+label_id: "10005254564"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006456/2014-11-19/0"
+intitule_bron: "Trb.2015-45"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2015-03-17"
+intitule_status: "nogniet"
+original_publication: "Trb.2015-45"
+original_published_date: "2015-03-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2015-45"
+jci_1_3: "jci1.3:c:BWBV0006456&z=2014-11-19&g=2014-11-19"
+jci_1_0: "1.0:c:BWBV0006456&g=2014-11-19"
+citeertitel_status: "redactioneel"
+entry_into_force: "2015-03-17"
 ---
-
 # Protocol bij de Kaderovereenkomst inzake een breed partnerschap en samenwerking tussen de Europese Unie en haar lidstaten, enerzijds, en de Socialistische Republiek Vietnam, anderzijds, teneinde rekening te houden met de toetreding van de Republiek Kroatië tot de Europese Unie
 
 het Koninkrijk België,
@@ -90,25 +109,25 @@ overwegende dat overeenkomstig [artikel 6, lid 2, van de Akte van toetreding van
 
 zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 De Republiek Kroatië treedt hierbij als partij toe tot de [kaderovereenkomst inzake een breed partnerschap en samenwerking tussen de Europese Unie en haar lidstaten, enerzijds, en de Socialistische Republiek Vietnam, anderzijds](onbekend), die op 27 juni 2012 in Brussel is ondertekend, en dient op dezelfde wijze als de andere lidstaten van de Europese Unie, de tekst van de overeenkomst en de daaraan gehechte [verklaringen](onbekend) respectievelijk goed te keuren en er nota van te nemen.
 
-#### Artikel 2
+##### Artikel 2
 
 Tijdig na de parafering van dit protocol doet de Europese Unie de Kroatische taalversie van de [overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005871) aan haar lidstaten en aan de Socialistische Republiek Vietnam toekomen. Onder voorbehoud van de inwerkingtreding van dit protocol wordt de in de eerste zin van dit artikel bedoelde tekst authentiek op dezelfde voorwaarden als de teksten van de overeenkomst in de Bulgaarse, de Deense, de Duitse, de Engelse, de Estse, de Finse, de Franse, de Griekse, de Hongaarse, de Italiaanse, de Letse, de Litouwse, de Maltese, de Nederlandse, de Poolse, de Portugese, de Roemeense, de Sloveense, de Slowaakse, de Spaanse, de Tsjechische, de Zweedse en de Vietnamese taal.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit protocol maakt integrerend deel uit van de [overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005871).
 
-#### Artikel 4
+##### Artikel 4
 
 1. Dit protocol wordt goedgekeurd door de Europese Unie, door de Raad van de Europese Unie namens de lidstaten en door Vietnam volgens hun eigen procedures. De overeenkomstsluitende partijen stellen elkaar in kennis van de voltooiing van de daartoe vereiste procedures. De akten van goedkeuring worden neergelegd bij het secretariaat-generaal van de Raad van de Europese Unie.
 
 2. Dit protocol treedt in werking op de eerste dag van de maand volgende op de datum waarop de laatste akte van goedkeuring is neergelegd, maar niet eerder dan de datum van de inwerkingtreding van de [overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005871).
 
-#### Artikel 5
+##### Artikel 5
 
 Dit protocol is opgesteld in twee exemplaren in de Bulgaarse, de Deense, de Duitse, de Engelse, de Estse, de Finse, de Franse, de Griekse, de Hongaarse, de Italiaanse, de Kroatische, de Letse, de Litouwse, de Maltese, de Nederlandse, de Poolse, de Portugese, de Roemeense, de Sloveense, de Slowaakse, de Spaanse, de Tsjechische, de Zweedse en de Vietnamese taal, waarbij alle teksten gelijkelijk authentiek zijn.
 

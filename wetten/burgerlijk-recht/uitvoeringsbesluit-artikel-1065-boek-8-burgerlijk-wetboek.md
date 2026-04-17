@@ -1,13 +1,39 @@
 ---
-title: "Uitvoeringsbesluit artikel 1065, Boek 8 Burgerlijk Wetboek"
+title: "Besluit van 29 november 1996 ter uitvoering van artikel 1065 van Boek 8 van het Burgerlijk Wetboek"
 identifier: "BWBR0008364"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2025-03-01
-laatste_update: 2025-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008364"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-03-01"
+last_updated: "2025-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008364"
+soort: "AMvB"
+stam_id: "197983"
+version_id: "271082"
+internal_id: "C271081"
+label_id: "194914"
+dtd_version: "2.0"
+original_entry_into_force: "1997-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008364/2025-03-01/0"
+intitule_bron: "Stb.1996-587"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-11-29"
+intitule_published: "1996-12-10"
+intitule_in_force: "1996-12-10"
+intitule_status: "goed"
+original_publication: "Stb.1996-587"
+original_signed_date: "1996-11-29"
+original_published_date: "1996-12-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-1996-587"
+entry_into_force_date: "1997-01-01"
+jci_1_3: "jci1.3:c:BWBR0008364&z=2025-03-01&g=2025-03-01"
+jci_1_0: "1.0:c:BWBR0008364&g=2025-03-01"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsbesluit artikel 1065, Boek 8 Burgerlijk Wetboek"
+signed_date: "1996-11-29"
+entry_into_force: "1997-01-01"
 ---
-
 # Besluit van 29 november 1996 ter uitvoering van artikel 1065 van Boek 8 van het Burgerlijk Wetboek
 
 Op de voordracht van Onze Minister van Justitie van 6 februari 1996, Directie Wetgeving, nr. 537685/96/6;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister van Justitie van 20 november 1996, Di
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Het bedrag van het in artikel 1065 van Boek 8 van het Burgerlijk Wetboek genoemde fonds beloopt, behoudens de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008364&artikel=3&z=2025-03-01&g=2025-03-01) bedoelde gevallen,
 
@@ -48,7 +74,7 @@ Hebben goedgevonden en verstaan:
 
 4. Een hulpverlener aan een binnenschip, die niet van een zee- of binnenschip uit werkzaamheden verricht of die werkzaamheden uitsluitend verricht op het binnenschip waaraan of met betrekking waartoe hij hulp verleent, kan zijn aansprakelijkheid beperken tot de in het derde lid genoemde bedragen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Wat betreft vorderingen ontstaan naar aanleiding van éénzelfde voorval terzake van dood of letsel van reizigers van een binnenschip beloopt het bedrag waartoe de eigenaar van het schip zijn aansprakelijkheid kan beperken (passagiersfonds), even vele malen 112.600 rekeneenheden als het schip volgens zijn wettelijk toegestane capaciteit gerechtigd is reizigers te vervoeren of, wanneer het aantal reizigers dat het schip gerechtigd is te vervoeren niet is voorgeschreven, even vele malen 100.000 rekeneenheden als het aantal reizigers dat het schip op het tijdstip van het voorval daadwerkelijk heeft vervoerd, met dien verstande dat het bedrag van het passagiersfonds niet lager kan zijn dan 2.252.000 rekeneenheden.
 
@@ -58,7 +84,7 @@ Hebben goedgevonden en verstaan:
 
 - b. die met toestemming van de vervoerder een voertuig of levende dieren vergezelt, die worden vervoerd op grond van een overeenkomst tot goederenvervoer.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Wat betreft vorderingen ontstaan naar aanleiding van éénzelfde voorval terzake van schade die uit het vervoer van schadelijke stoffen voortvloeit, beloopt het bedrag waartoe de eigenaar van het schip zijn aansprakelijkheid kan beperken (gevaarlijke stoffenfonds), wanneer het vorderingen betreft terzake van dood of letsel (personenfonds):
 
@@ -80,15 +106,15 @@ Hebben goedgevonden en verstaan:
 
 4. Wordt in de gevallen, bedoeld in het eerste lid, onder d en e, het personenfonds van de duwboot of van het voortbewegende schip vermeerderd met 450 rekeneenheden per ton laadvermogen van de geduwde bakken of met 450 rekeneenheden per ton laadvermogen of per kubieke meter waterverplaatsing van de andere gekoppelde schepen, dan wordt met betrekking tot vorderingen, die voortkomen uit hetzelfde voorval, het personenfonds voor iedere duwbak of ieder ander gekoppeld schip verminderd met 450 rekeneenheden per ton laadvermogen van de duwbak of 450 rekeneenheden per ton laadvermogen of per kubieke meter waterverplaatsing van het andere gekoppelde schip.
 
-#### Artikel 4
+##### Artikel 4
 
 Aan de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008364&artikel=1&z=2025-03-01&g=2025-03-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0008364&artikel=2&z=2025-03-01&g=2025-03-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008364&artikel=3&z=2025-03-01&g=2025-03-01) vermelde bedragen wordt toegevoegd de wettelijke rente berekend van de aanvang van de dag volgende op de dag van het voorval, dat aanleiding gaf tot de vordering, tot de aanvang van de dag volgende op de dag waarop hij die een verzoek tot beperking van zijn aansprakelijkheid indiende, voldeed aan een hem krachtens [artikel 642**c** van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=642c) opgelegd bevel.
 
-#### Artikel 5
+##### Artikel 5
 
 De rekeneenheid, genoemd in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008364&artikel=1&z=2025-03-01&g=2025-03-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0008364&artikel=2&z=2025-03-01&g=2025-03-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008364&artikel=3&z=2025-03-01&g=2025-03-01), is het bijzondere trekkingsrecht, zoals dat is omschreven door het Internationale Monetaire Fonds. De bedragen genoemd in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008364&artikel=1&z=2025-03-01&g=2025-03-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0008364&artikel=2&z=2025-03-01&g=2025-03-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008364&artikel=3&z=2025-03-01&g=2025-03-01) worden omgerekend in Nederlands geld naar de koers van de dag waarop de schuldenaar voldoet aan een ingevolge [artikel 642**c** van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=642c) gegeven bevel tot storting of andere zekerheidsstelling. De waarde van het Nederlandse geld, uitgedrukt in bijzondere trekkingsrechten, wordt berekend volgens de waarderingsmethode die door het Internationale Monetaire Fonds op de dag van omrekening wordt toegepast voor zijn eigen verrichtingen en transacties.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit treedt in werking tegelijk met de wet van 31 oktober 1996, **Stb.** 548.
 

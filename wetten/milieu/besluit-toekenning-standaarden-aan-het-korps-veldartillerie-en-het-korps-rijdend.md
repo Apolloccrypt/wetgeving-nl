@@ -1,20 +1,46 @@
 ---
-title: "Besluit toekenning standaarden aan het Korps Veldartillerie en het Korps Rijdende Artillerie en een vaandel aan het Korps Luchtdoelartillerie"
+title: "Besluit van 4 september 2002, houdende de toekenning van standaarden aan het Korps Veldartillerie en het Korps Rijdende Artillerie en een vaandel aan het Korps Luchtdoelartillerie"
 identifier: "BWBR0014000"
-categorie: "Milieu"
-publicatiedatum: 2002-09-20
-laatste_update: 2002-09-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0014000"
+country: "nl"
+rank: "kb"
+publication_date: "2002-09-20"
+last_updated: "2002-09-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0014000"
+soort: "KB"
+stam_id: "3108343"
+version_id: "4805812"
+internal_id: "C4828531"
+label_id: "3072584"
+dtd_version: "2.0"
+original_entry_into_force: "2002-09-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0014000/2002-09-20/0"
+intitule_bron: "Stb.2002-476"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-09-04"
+intitule_published: "2002-09-19"
+intitule_in_force: "2002-09-19"
+intitule_status: "goed"
+original_publication: "Stb.2002-476"
+original_signed_date: "2002-09-04"
+original_published_date: "2002-09-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2002-476"
+entry_into_force_date: "2002-09-20"
+jci_1_3: "jci1.3:c:BWBR0014000&z=2002-09-20&g=2002-09-20"
+jci_1_0: "1.0:c:BWBR0014000&g=2002-09-20"
+citeertitel_status: "officieel"
+short_title: "Besluit toekenning standaarden aan het Korps Veldartillerie en het Korps Rijdende Artillerie en een vaandel aan het Korps Luchtdoelartillerie"
+signed_date: "2002-09-04"
+entry_into_force: "2002-09-20"
 ---
-
 # Besluit van 4 september 2002, houdende de toekenning van standaarden aan het Korps Veldartillerie en het Korps Rijdende Artillerie en een vaandel aan het Korps Luchtdoelartillerie
 
 Op de voordracht van Onze Minister van Defensie van 28 augustus 2002, nr. C2002/247 2002002920 directie juridische zaken, afdeling wet- en regelgeving;
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 a. Het Korps Veldartillerie van de Koninklijke landmacht voert een standaard, bestaande uit een standaarddoek en een standaardstok.
 
@@ -22,7 +48,7 @@ b. Het Korps Rijdende Artillerie van de Koninklijke landmacht voert een standaar
 
 c. Het Korps Luchtdoelartillerie van de Koninklijke landmacht voert een vaandel, bestaande uit een vaandeldoek en een vaandelstok.
 
-#### Artikel 2
+##### Artikel 2
 
 De voorzijde van het standaarddoek van het Korps Veldartillerie is een vierkant doek van oranje zijde, omzoomd met gouden franje. De lengte en de breedte van het standaarddoek zijn vijftig centimeter.
 
@@ -42,7 +68,7 @@ In het tweede kwartier:
 
 Het geheel van de gekroonde **B**, de naam van het korps en de vermelding van de wapenfeiten, is omgeven door een doorlopende oranjetak.
 
-#### Artikel 3
+##### Artikel 3
 
 De voorzijde van het standaarddoek van het Korps Rijdende Artillerie is een vierkant doek van oranje zijde, omzoomd met gouden franje. De lengte en de breedte van het standaarddoek zijn vijftig centimeter.
 
@@ -68,7 +94,7 @@ In het tweede kwartier:
 
 Het geheel van de gekroonde **B**, de naam van het korps en de vermelding van de wapenfeiten, is omgeven door een doorlopende oranjetak.
 
-#### Artikel 4
+##### Artikel 4
 
 De voorzijde van het vaandeldoek van het Korps Luchtdoelartillerie is een vierkant doek van oranje zijde, omzoomd met gouden franje. De lengte en de breedte van het standaarddoek zijn zestig centimeter.
 
@@ -84,11 +110,11 @@ Voorts is in goud geborduurd in het eerste kwartier:
 
 Het geheel van de gekroonde **B**, de naam van het korps en de vermelding van de wapenfeiten, is omgeven door een doorlopende oranjetak.
 
-#### Artikel 5
+##### Artikel 5
 
 Op de achterzijden van de standaarddoeken, respectievelijk het vaandeldoek is in kleuren geborduurd het Koninklijk wapen, doch zonder de daarbij behorende mantel. Het Koninklijk wapen is omgeven door twee met een lint samengebonden takken van sinopel, ter linkerzijde een eikentak, ter rechterzijde een lauwertak. Het lint is uitgevoerd in de kleuren behorende bij het lint van de Militaire Willemsorde. Het geheel is omgeven door een doorlopende oranjetak.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De stokken, elk behorende bij de standaarden, zijn zwarte stokken, lang tweehonderd centimeter; de stok behorende bij het vaandel is een zwarte stok, lang tweehonderdentwintig centimeter. Het gedeelte van de stok dat boven in de broeking van de standaard respectievelijk het vaandel komt, bestaat uit een bus met inwendige schroefdraad waarop de vaandeltop wordt geschroefd.
 
@@ -110,15 +136,15 @@ in hoog reliëf aangebracht, omgeven door een gesloten slang.
 
 8. Leeuw, voetstuk en krans zijn uitgevoerd in goudkleurig metaal.
 
-#### Artikel 7
+##### Artikel 7
 
 Om de zwarte bus in de eikenkrans is een gouden koord geknoopt, de knoop in het midden; de beide einden worden bijeengehouden door een horizontale schuifpassant. Aan de uiteinden is het koord voorzien van een vaandelkwast, gevlochten van gouddraad, met losse bouillons.
 
-#### Artikel 8
+##### Artikel 8
 
 Het vaandeldoek is met een broeking van oranje zijde om de standaardstokken respectievelijk de vaandelstok geschoven.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 

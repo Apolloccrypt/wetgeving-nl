@@ -1,13 +1,37 @@
 ---
 title: "Circulaire uitvoering en handhaving van het Asbest-verwijderingsbesluit"
 identifier: "BWBR0008441"
-categorie: "Bestuursrecht"
-publicatiedatum: 1997-04-16
-laatste_update: 1997-04-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008441"
+country: "nl"
+rank: "circulaire"
+publication_date: "1997-04-16"
+last_updated: "1997-04-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008441"
+soort: "circulaire"
+stam_id: "6338533"
+version_id: "10992822"
+internal_id: "C14885401"
+label_id: "6327594"
+original_entry_into_force: "1997-04-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008441/1997-04-16/0"
+intitule_bron: "Stcrt.1997-73"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-12-17"
+intitule_published: "1997-04-16"
+intitule_in_force: "1997-04-16"
+intitule_status: "goed"
+original_publication: "Stcrt.1997-73"
+original_signed_date: "1996-12-17"
+original_published_date: "1997-04-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1997-73-p73-SC9032"
+entry_into_force_date: "1997-04-16"
+jci_1_3: "jci1.3:c:BWBR0008441&z=1997-04-16&g=1997-04-16"
+jci_1_0: "1.0:c:BWBR0008441&g=1997-04-16"
+citeertitel_status: "redactioneel"
+signed_date: "1996-12-17"
+entry_into_force: "1997-04-16"
 ---
-
 # Circulaire uitvoering en handhaving van het Asbest-verwijderingsbesluit
 
 Aan:

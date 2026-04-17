@@ -1,18 +1,43 @@
 ---
 title: "Archiefwet BES"
 identifier: "BWBR0028369"
-categorie: "Overig"
-publicatiedatum: 2013-01-01
-laatste_update: 2013-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028369"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2013-01-01"
+last_updated: "2013-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028369"
+soort: "wet-BES"
+stam_id: "10761143"
+version_id: "17737122"
+internal_id: "C24816781"
+label_id: "10736404"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028369/2013-01-01/0"
+intitule_bron: "Stb.2010-573"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-22"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-573"
+original_signed_date: "2010-09-22"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-573"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028369&z=2013-01-01&g=2013-01-01"
+jci_1_0: "1.0:c:BWBR0028369&g=2013-01-01"
+citeertitel_status: "officieel"
+signed_date: "2010-09-22"
+entry_into_force: "2010-10-10"
 ---
-
 # Archiefwet BES
 
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -40,25 +65,25 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - f. **archiefbewaarplaats:** een krachtens deze wet voor blijvende bewaring van archiefbescheiden aangewezen bewaarplaats.
 
-#### Artikel 2
+##### Artikel 2
 
 Voor de toepassing van deze wet en de daarop berustende bepalingen worden onder overheidsorganen tevens begrepen overheidsorganen, welke voor of na de inwerkingtreding van deze wet zijn of zullen worden opgeheven.
 
 ### Hoofdstuk II. Archiefbescheiden in het algemeen
 
-#### Artikel 3
+##### Artikel 3
 
 Een overheidsorgaan brengt en bewaart de onder hem berustende archiefbescheiden in goede, geordende en toegankelijke staat, en draagt alsmede zorg voor de selectie en vernietiging van de daarvoor in aanmerking komende archiefbescheiden, volgens bij of krachtens algemene maatregel van bestuur, te stellen regels.
 
-#### Artikel 4
+##### Artikel 4
 
 [Vervallen]
 
-#### Artikel 5
+##### Artikel 5
 
 [Vervallen]
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een regeling waarbij een overheidsorgaan wordt opgeheven, samengevoegd of gesplitst, dan wel waarbij een of meer taken van een overheidsorgaan worden overgedragen aan een ander overheidsorgaan, houdt een voorziening in omtrent hun archiefbescheiden.
 
@@ -66,7 +91,7 @@ Een overheidsorgaan brengt en bewaart de onder hem berustende archiefbescheiden 
 
 3. Een regeling, waarbij taken van een overheidsorgaan geheel of gedeeltelijk worden overgedragen aan een rechtspersoon houdt een voorziening in omtrent de terbeschikkingstelling aan die rechtspersoon van de op die taken betrekking hebbende archiefbescheiden, voor zover deze niet zijn overgebracht naar een archiefbewaarplaats, voor een tijdvak van ten hoogste twintig jaar. Deze voorziening houdt tenminste in een nadere bepaling van het in eerste volzin bedoelde tijdvak, alsmede een bepaling omtrent het toezicht op het beheer van de desbetreffende archiefbescheiden, overeenkomstig het bij of krachtens deze wet bepaalde.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De zorgdrager ontwerpt selectielijsten waarin tenminste wordt aangegeven welke archiefbescheiden voor vernietiging in aanmerking komen.
 
@@ -74,55 +99,55 @@ Een overheidsorgaan brengt en bewaart de onder hem berustende archiefbescheiden 
 
 3. Onze Minister-President kan regels stellen op grond waarvan in geval van oorlog, oorlogsgevaar of andere buitengewone omstandigheden kan worden afgeweken van hetgeen in deze wet bepaald is met betrekking tot de vernietiging van archiefbescheiden.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De zorgdrager is bevoegd archiefbescheiden, voor zover niet overgedragen naar een archiefbewaarplaats, te vervangen door reproducties, teneinde de aldus vervangen bescheiden te vernietigen. Voor de vervanging van archiefbescheiden die niet als te vernietigen worden aangemerkt in de lijsten, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028369&hoofdstuk=II&artikel=7&z=2013-01-01&g=2013-01-01), is een machtiging vereist van Onze Minister. Deze machtiging houdt tevens een machtiging tot vernietiging in.
 
 2. De substitutie, bedoeld in het eerste lid, geschiedt volgens bij of krachtens algemene maatregel van bestuur, te stellen regels.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De zorgdrager is bevoegd tot vervreemding van niet in de archiefbewaarplaats berustende archiefbescheiden na hiertoe te zijn gemachtigd door Onze Minister.
 
 2. Voor de vervreemding van archiefbescheiden als bedoeld in het eerste lid is geen machtiging vereist indien de vervreemding geschiedt ter uitvoering van een in enige wet neergelegd voorschrift.
 
-#### Artikel 10
+##### Artikel 10
 
 Indien archiefbescheiden ten onrechte berusten onder een ander overheidsorgaan dan dat waaronder zij behoren te berusten, ziet de zorgdrager erop toe, dat die bescheiden te bestemder plaatse geraken.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Ieder die archiefbescheiden onder zich heeft, staat deze binnen vier weken, nadat hij een daartoe strekkende kennisgeving heeft ontvangen, aan het overheidsorgaan, waaronder zij volgens de bepalingen van deze wet behoren te berusten, voor rekening en risico van dat overheidsorgaan af, teneinde het in de gelegenheid te stellen hiervan een reproductie te vervaardigen.
 
 2. Het overheidsorgaan geeft de archiefbescheiden binnen vier weken na ontvangst terug aan degene, die deze heeft afgestaan, ook al kan de overheid op die bescheiden uit andere hoofde rechten doen gelden.
 
-#### Artikel 12
+##### Artikel 12
 
 Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de duurzaamheid van door overheidsorganen op te maken archiefbescheiden, omtrent de bouw, verbouwing, inrichting en verandering van inrichting van archiefruimten en archiefbewaarplaatsen, alsmede omtrent het gebruik van gebouwen of gedeelten van gebouwen als archiefruimte of archiefbewaarplaats.
 
-#### Artikel 13
+##### Artikel 13
 
 Omtrent de opleidingseisen voor het archiefbeheer worden regels vastgesteld bij of krachtens algemene maatregel van bestuur.
 
-#### Artikel 14
+##### Artikel 14
 
 [Vervallen]
 
-#### Artikel 15
+##### Artikel 15
 
 [Vervallen]
 
-#### Artikel 16
+##### Artikel 16
 
 [Vervallen]
 
-#### Artikel 17
+##### Artikel 17
 
 1. De zorgdrager brengt de archiefbescheiden die niet voor vernietiging in aanmerking komen en ouder zijn dan twintig jaar over naar een archiefbewaarplaats.
 
 2. Omtrent de overdracht van archiefbescheiden worden bij of krachtens algemene maatregel van bestuur, regels gesteld.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De zorgdrager kan archiefbescheiden die niet voor vernietiging in aanmerking komen en jonger zijn dan twintig jaar naar een archiefbewaarplaats overbrengen, wanneer naar het oordeel van de beheerder van de archiefbewaarplaats voldoende aanleiding bestaat hiervoor ruimte beschikbaar te stellen.
 
@@ -134,11 +159,11 @@ Omtrent de opleidingseisen voor het archiefbeheer worden regels vastgesteld bij 
 
 5. De machtiging kan onder beperkingen worden verleend.
 
-#### Artikel 19
+##### Artikel 19
 
 De archiefbescheiden die in een archiefbewaarplaats berusten zijn, behoudens het bepaalde in de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028369&hoofdstuk=II&artikel=20&z=2013-01-01&g=2013-01-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0028369&hoofdstuk=II&artikel=21&z=2013-01-01&g=2013-01-01) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0028369&hoofdstuk=II&artikel=22&z=2013-01-01&g=2013-01-01), openbaar. Ieder is, behoudens de beperkingen die voortvloeien uit het in die artikelen bepaalde, bevoegd die archiefbescheiden kosteloos te raadplegen en daarvan of daaruit afbeeldingen, afschriften, uittreksels en bewerkingen te maken of op zijn kosten te doen maken.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Bij de overbrenging van de in [artikel 1, onderdeel c, sub 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028369&hoofdstuk=I&artikel=1&z=2013-01-01&g=2013-01-01), bedoelde archiefbescheiden kan de zorgdrager, na advies van de beheerder van de archiefbewaarplaats, slechts beperkingen aan de openbaarheid stellen voor een bepaalde termijn en met het oog op:
 
@@ -160,13 +185,13 @@ De archiefbescheiden die in een archiefbewaarplaats berusten zijn, behoudens het
 
 7. Met betrekking tot de archiefbescheiden, bedoeld in het vijfde lid, zijn van toepassing de regelingen inzake het recht op informatie die zouden gelden indien de archiefbescheiden niet naar een archiefbewaarplaats waren overgebracht.
 
-#### Artikel 21
+##### Artikel 21
 
 1. De openbaarheid van de in [artikel 1, onderdeel c, sub 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028369&hoofdstuk=I&artikel=1&z=2013-01-01&g=2013-01-01), bedoelde archiefbescheiden kan worden beperkt bij de desbetreffende overeenkomsten en beschikkingen.
 
 2. Indien deze archiefbescheiden uit andere hoofde in een archiefbewaarplaats zijn opgenomen om daar te berusten, kan de zorgdrager beperkingen aan de openbaarheid stellen. Het bepaalde in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028369&hoofdstuk=II&artikel=20&z=2013-01-01&g=2013-01-01) is van overeenkomstige toepassing.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De beheerder van de archiefbewaarplaats stelt de daar berustende archiefbescheiden aan de verzoeker ter raadpleging of gebruik beschikbaar met inachtneming van de aan de openbaarheid gestelde beperkingen.
 
@@ -176,15 +201,15 @@ De archiefbescheiden die in een archiefbewaarplaats berusten zijn, behoudens het
 
 Indien de aard of de mate van raadpleging of gebruik van de archiefbescheiden een ernstige bedreiging vormt voor hun toestand, is de beheerder bevoegd te bepalen dat in de plaats van die archiefbescheiden reproducties, niet zijnde archiefbescheiden als bedoeld in [artikel 1, onderdeel c, sub 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028369&hoofdstuk=I&artikel=1&z=2013-01-01&g=2013-01-01), ter beschikking worden gesteld.
 
-#### Artikel 23
+##### Artikel 23
 
 De beheerder gaat slechts over tot vernietiging van in de archiefbewaarplaats berustende archiefbescheiden na hiertoe te zijn gemachtigd van degene, op wiens last deze archiefbescheiden zijn overgebracht.
 
-#### Artikel 24
+##### Artikel 24
 
 De zorgdrager ten aanzien van de in de archiefbewaarplaats berustende archiefbescheiden gaat slechts over tot vervreemding van in de archiefbewaarplaats berustende archiefbescheiden indien de vervreemding strekt ter uitvoering van een in enige wet neergelegd voorschrift of na hiertoe te zijn gemachtigd door degene, op wiens last deze archiefbescheiden zijn overgebracht.
 
-#### Artikel 25
+##### Artikel 25
 
 1. De beheerder van de archiefbewaarplaats leent archiefbescheiden voor een bepaalde tijd uit aan het overheidsorgaan, waaronder de bescheiden, indien zij niet naar de archiefbewaarplaats waren overgebracht, zouden berusten tenzij naar zijn oordeel de toestand van de archiefbescheiden zich daartegen verzet.
 
@@ -198,23 +223,23 @@ De zorgdrager ten aanzien van de in de archiefbewaarplaats berustende archiefbes
 
 6. De aan uitlening verbonden kosten kunnen de verzoeker in rekening worden gebracht.
 
-#### Artikel 26
+##### Artikel 26
 
 De beheerder van de archiefbewaarplaats is bevoegd afschriften af te geven van een authentieke akte die volgens deze wet door hem bewaard moet worden.
 
 ### Hoofdstuk III. Zorg voor de archiefbescheiden van de openbare lichamen BES
 
-#### Artikel 27
+##### Artikel 27
 
 1. De bestuurscolleges van de openbare lichamen Bonaire, Sint Eustatius en Saba dragen zorg voor de archiefbescheiden van de organen van die openbare lichamen, overeenkomstig een door de eilandsraad vast te stellen eilandsverordening.
 
 2. De kosten, verbonden aan de uitoefening van de zorg, bedoeld in het eerste lid, komen ten laste van het openbaar lichaam.
 
-#### Artikel 28
+##### Artikel 28
 
 Voor de bewaring van de op grond van [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028369&hoofdstuk=II&artikel=17&z=2013-01-01&g=2013-01-01), en [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028369&hoofdstuk=II&artikel=18&z=2013-01-01&g=2013-01-01), over te brengen archiefbescheiden van de organen van de openbare lichamen Bonaire, Sint Eustatius en Saba wijst het bestuurscollege een eilandarchiefbewaarplaats aan.
 
-#### Artikel 28a
+##### Artikel 28a
 
 1. De eilandarchiefbewaarplaats wordt beheerd door een eilandarchivaris, die in het bezit dient te zijn van een diploma archivistiek of, zo geen zodanige archivaris mocht zijn benoemd, door de eilandsecretaris.
 
@@ -224,7 +249,7 @@ Voor de bewaring van de op grond van [artikel 17, eerste lid](https://wetten.ove
 
 ### Hoofdstuk IV. Zorg voor archiefbescheiden van gemeenschappelijke regelingen van de openbare lichamen BES
 
-#### Artikel 28b
+##### Artikel 28b
 
 1. Een regeling tussen de openbare lichamen Bonaire, Sint Eustatius en Saba als bedoeld in de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) houdt tevens een voorziening in omtrent de zorg voor de archiefbescheiden van bij die regeling ingestelde openbare lichamen of gemeenschappelijke organen.
 
@@ -234,7 +259,7 @@ Voor de bewaring van de op grond van [artikel 17, eerste lid](https://wetten.ove
 
 ### Hoofdstuk V. Bijzondere bepalingen
 
-#### Artikel 29
+##### Artikel 29
 
 1. Onze Minister is bevoegd overheidsorganen erop te wijzen dat zij dienen te voldoen aan het bepaalde bij of krachtens deze wet.
 
@@ -242,7 +267,7 @@ Voor de bewaring van de op grond van [artikel 17, eerste lid](https://wetten.ove
 
 3. Onze Minister maakt van zijn bevoegdheid, genoemd in het tweede lid, geen gebruik dan na overleg met het betrokken overheidsorgaan.
 
-#### Artikel 29a
+##### Artikel 29a
 
 1. Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde ten aanzien van de zorg voor en het beheer van archiefbescheiden zijn belast de bij besluit van Onze Minister aangewezen personen.
 
@@ -256,7 +281,7 @@ Voor de bewaring van de op grond van [artikel 17, eerste lid](https://wetten.ove
 
 ### Hoofdstuk VI. Strafbepaling
 
-#### Artikel 30
+##### Artikel 30
 
 1. Degene die niet aan de verplichting voldoet hem opgelegd bij [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028369&hoofdstuk=II&artikel=11&z=2013-01-01&g=2013-01-01), wordt gestraft met een geldboete van de tweede categorie.
 
@@ -264,24 +289,24 @@ Voor de bewaring van de op grond van [artikel 17, eerste lid](https://wetten.ove
 
 ### Hoofdstuk VII. Overgangs- en slotbepalingen
 
-#### Artikel 31
+##### Artikel 31
 
 [Vervallen]
 
-#### Artikel 32
+##### Artikel 32
 
 In afwijking van [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028369&hoofdstuk=II&artikel=17&z=2013-01-01&g=2013-01-01), worden de registers van de burgerlijke stand na een termijn van zeventig jaar overgedragen naar een archiefbewaarplaats.
 
-#### Artikel 33
+##### Artikel 33
 
 1. De op grond van artikel 7 van de Archieflandsverordening 2007 vastgestelde lijsten van voor vernietiging in aanmerking komende archiefbescheiden die onmiddellijk voorafgaand aan het tijdstip van transitie, bedoeld in [artikel 1, onder a, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=1) van toepassing waren op de Nederlands-Antiliaanse organen van de eilandgebieden, blijven van overeenkomstige toepassing op de organen van de openbare lichamen, totdat zij zijn vervangen door op grond van[artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028369&hoofdstuk=II&artikel=7&z=2013-01-01&g=2013-01-01) van deze wet vastgestelde selectielijsten.
 
 2. De voor het tijdstip van transitie, bedoeld in [artikel 1, onder a, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=1) op grond van de artikelen 20 en 21 van de Archieflandsverordening 2007 aan de openbaarheid gestelde beperkingen blijven van kracht.
 
-#### Artikel 34
+##### Artikel 34
 
 [Vervallen]
 
-#### Artikel 35
+##### Artikel 35
 
 Deze wet wordt aangehaald als: Archiefwet BES.

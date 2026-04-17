@@ -1,13 +1,38 @@
 ---
 title: "Inkomstenbelasting, terugwerkende kracht bij ruisende inbreng in een besloten vennootschap"
 identifier: "BWBR0024524"
-categorie: "Belastingrecht"
-publicatiedatum: 2008-09-27
-laatste_update: 2008-09-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024524"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2008-09-27"
+last_updated: "2008-09-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024524"
+soort: "beleidsregel"
+stam_id: "9729073"
+version_id: "15757832"
+internal_id: "C29428801"
+label_id: "9706114"
+dtd_version: "2.0"
+original_entry_into_force: "2008-09-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024524/2008-09-27/0"
+intitule_bron: "Stcrt.2008-186"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-09-16"
+intitule_published: "2008-09-25"
+intitule_in_force: "2008-09-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-186"
+original_signed_date: "2008-09-16"
+original_published_date: "2008-09-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-186-p2-SC87591"
+entry_into_force_date: "2008-09-27"
+jci_1_3: "jci1.3:c:BWBR0024524&z=2008-09-27&g=2008-09-27"
+jci_1_0: "1.0:c:BWBR0024524&g=2008-09-27"
+citeertitel_status: "redactioneel"
+signed_date: "2008-09-16"
+entry_into_force: "2008-09-27"
 ---
-
 # Inkomstenbelasting, terugwerkende kracht bij ruisende inbreng in een besloten vennootschap
 
 Dit besluit is een actualisering van het [besluit van 4 december 2000 nr. CPP2000/2438M](https://wetten.overheid.nl/jci1.3:c:BWBR0011875). De daarin opgenomen goedkeuring is uitgebreid ten behoeve van het resultaat uit overige werkzaamheden. Voor het overige is met dit besluit geen inhoudelijke wijziging beoogd.

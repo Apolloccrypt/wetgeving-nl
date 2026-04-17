@@ -1,13 +1,39 @@
 ---
-title: "Vaststellingsbesluit eenmalige uitkering en wijziging van enige besluiten (arbeidsvoorwaardenovereenkomst voor de sector Defensie over de periode van 1 augustus 2000 tot en met 30 september 2001)"
+title: "Besluit van 22 oktober 2001 tot vaststelling van een eenmalige uitkering en tot wijziging van enige besluiten in het kader van de arbeidsvoorwaardenovereenkomst voor de sector Defensie over de periode van 1 augustus 2000 tot en met 30 september 2001"
 identifier: "BWBR0012910"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2002-01-01
-laatste_update: 2002-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012910"
+country: "nl"
+rank: "amvb"
+publication_date: "2002-01-01"
+last_updated: "2002-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012910"
+soort: "AMvB"
+stam_id: "1630253"
+version_id: "2407122"
+internal_id: "C2407121"
+label_id: "1584254"
+dtd_version: "2.0"
+original_entry_into_force: "2001-11-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012910/2002-01-01/0"
+intitule_bron: "Stb.2001-511"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-10-22"
+intitule_published: "2001-11-06"
+intitule_in_force: "2001-11-06"
+intitule_status: "goed"
+original_publication: "Stb.2001-511"
+original_signed_date: "2001-10-22"
+original_published_date: "2001-11-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2001-511"
+entry_into_force_date: "2001-11-07"
+jci_1_3: "jci1.3:c:BWBR0012910&z=2002-01-01&g=2002-01-01"
+jci_1_0: "1.0:c:BWBR0012910&g=2002-01-01"
+citeertitel_status: "officieel"
+short_title: "Vaststellingsbesluit eenmalige uitkering en wijziging van enige besluiten (arbeidsvoorwaardenovereenkomst voor de sector Defensie over de periode van 1 augustus 2000 tot en met 30 september 2001)"
+signed_date: "2001-10-22"
+entry_into_force: "2001-11-07"
 ---
-
 # Besluit van 22 oktober 2001 tot vaststelling van een eenmalige uitkering en tot wijziging van enige besluiten in het kader van de arbeidsvoorwaardenovereenkomst voor de sector Defensie over de periode van 1 augustus 2000 tot en met 30 september 2001
 
 Op de voordracht van de Staatssecretaris van Defensie van 10 juli 2001, nr. P/2001004578;
@@ -22,47 +48,47 @@ Hebben goedgevonden en verstaan:
 
 Artikel I, onderdeel Y, werkt terug tot en met 1 januari 1999. Artikel III, onderdeel A, werkt terug tot en met 1 juni 1999. Artikel IV, onderdeel F, artikel V, onderdeel A, artikel VI, onderdeel K, onder 1, en onderdeel L werken terug tot en met 1 januari 2000. Artikel I, onderdeel AA, artikel III, onderdeel B, artikel IV, onderdeel G, onder 1 en onderdeel H, artikel V, onderdeel G, artikel VII, onderdeel E, en artikel IX, werken terug tot en met 1 januari 2001. Artikel I, onderdeel Z, en artikel VIII werken terug tot en met 1 maart 2001. Artikel I, onderdelen G tot en met L, onderdelen N tot en met T en onderdelen V tot en met X, artikel II, artikel IV, onderdelen A tot en met E, onderdeel G onder 2, en onderdeel I, artikel V, onderdelen F en H, artikel VI, onderdelen A tot en met H, onderdeel J, onderdeel K, onder 2, en onderdelen M tot en met Q, artikel VII, onderdelen A t/m C en F, en artikel X werken terug tot en met 1 juni 2001. Artikel I, onderdelen C t/m F, M en U, artikel V, onderdelen B t/m E en artikel VII, onderdeel D, werken terug tot en met 1 juli 2001.
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Algemeen militair ambtenarenreglement.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Besluit dienstreizen defensie.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Besluit personenchauffeurs defensie.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het Bezoldigingsbesluit burgerlijke ambtenaren defensie.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Burgerlijk ambtenarenreglement Defensie.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt het Inkomstenbesluit militairen.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Premieregeling en aanvullende voorzieningen beroepsmilitairen van de krijgsmacht.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Regeling ziektekostenvoorziening defensiepersoneel.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Toelageregeling afschaffing tariefbeloning defensie.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt het Verplaatsingskostenbesluit militairen.
 
-#### Artikel XI
+##### Artikel XI
 
 Toekenning van een eenmalige uitkering over 2000 aan het defensiepersoneel
 
@@ -96,7 +122,7 @@ Toekenning van een eenmalige uitkering over 2000 aan het defensiepersoneel
 
 - D. De eenmalige uitkering als bedoeld onder B en C heeft geen algemeen karakter en wordt niet gerekend tot de bezoldiging of het salaris in de zin van de bezoldigingsvoorschriften. De eenmalige uitkering maakt evenmin deel uit van de bij het vaststellen van de pensioengrondslag bedoeld in [artikel C1 van de Algemeen militaire pensioenwet](onbekend) in beschouwing te nemen inkomsten en emolumenten, waarop de gewezen militair aanspraak had of zou hebben gehad.
 
-#### Artikel XII. Overgangsbepalingen
+##### Artikel XII. Overgangsbepalingen
 
 A. In afwijking van de [artikelen 54d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=54d), en [artikel 54e, derde lid, van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=54e) en [artikel 30da, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=30da), en [artikel 30db, tweede lid, van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=30db), dient een aanvraag voor een tijdelijke verlenging of verkorting van de arbeidsduur van het rooster voor het resterende deel van het kalenderjaar 2001 vóór 15 mei 2001 te zijn ingediend bij de commandant of het bevoegd gezag.
 
@@ -192,7 +218,7 @@ T. In afwijking van [artikel VII, onderdeel C](https://wetten.overheid.nl/jci1.3
 
 - d. bij een verplichting van minder dan twee jaar: 20%.
 
-#### Artikel XIII. Slotbepalingen
+##### Artikel XIII. Slotbepalingen
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst, met dien verstande dat:
 

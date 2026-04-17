@@ -1,13 +1,39 @@
 ---
-title: "Aanwijzing macrobeheersmodel instellingen voor medisch specialistische zorg"
+title: "Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport, van 13 december 2011, nr. MC-U-3096073, houdende een macrobeheersmodel instellingen voor medisch specialistische zorg"
 identifier: "BWBR0030884"
-categorie: "Sociaal recht"
-publicatiedatum: 2011-12-21
-laatste_update: 2011-12-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030884"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2011-12-21"
+last_updated: "2011-12-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030884"
+soort: "ministeriele-regeling"
+stam_id: "11563533"
+version_id: "19057182"
+internal_id: "C26669011"
+label_id: "11536714"
+dtd_version: "2.0"
+original_entry_into_force: "2011-12-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030884/2011-12-21/0"
+intitule_bron: "Stcrt.2011-23196"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-12-13"
+intitule_published: "2011-12-21"
+intitule_in_force: "2011-12-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-23196"
+original_signed_date: "2011-12-13"
+original_published_date: "2011-12-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-23196"
+entry_into_force_date: "2011-12-21"
+jci_1_3: "jci1.3:c:BWBR0030884&z=2011-12-21&g=2011-12-21"
+jci_1_0: "1.0:c:BWBR0030884&g=2011-12-21"
+citeertitel_status: "officieel"
+short_title: "Aanwijzing macrobeheersmodel instellingen voor medisch specialistische zorg"
+signed_date: "2011-12-13"
+entry_into_force: "2011-12-21"
 ---
-
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport, van 13 december 2011, nr. MC-U-3096073, houdende een macrobeheersmodel instellingen voor medisch specialistische zorg
 
 Gelet op de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7) en [59 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=59)1Zoals de Wet marktordening gezondheidszorg komt te luiden nadat het bij koninklijk besluit op 25 mei 2010 ingediende voorstel van wet houdende wijziging van de Wet marktordening gezondheidszorg en enkele andere wetten in verband met de aanvulling met instrumenten voor bekostiging (Wet aanvulling instrumenten bekostiging WMG) (Kamerstukken 32 393) tot wet is verheven en in werking is getreden.;
@@ -20,7 +46,7 @@ Gelet op het Verslag van het schriftelijk overleg over de brief van 5 juli 2011 
 
 Besluit:
 
-#### Artikel 1. definities
+##### Artikel 1. definities
 
 In deze aanwijzing wordt verstaan onder:
 
@@ -56,15 +82,15 @@ In deze aanwijzing wordt verstaan onder:
 
 - p. **Hoofdlijnenakkoord:** het Bestuurlijk hoofdlijnenakkoord 2012-2015 tussen de Nederlandse Vereniging van Ziekenhuizen, de Nederlandse Federatie van Universitair Medische Centra, Zelfstandige Klinieken Nederland, Zorgverzekeraars Nederland en de minister, ondertekend op 4 juli 2011 (Kamerstukken II 2010/11, 29 248, nr. 215).
 
-#### Artikel 2. werkingssfeer
+##### Artikel 2. werkingssfeer
 
 Deze aanwijzing is van toepassing op zorg verleend in de onderscheiden jaren 2012, 2013 en 2014 waarvoor tarieven in rekening zijn gebracht of zouden hebben kunnen worden gebracht door instellingen.
 
-#### Artikel 3. opdrachtverlening
+##### Artikel 3. opdrachtverlening
 
 Ter uitvoering van deze aanwijzing stelt de zorgautoriteit regels en beleidsregels vast, nadat het bij koninklijk besluit op 25 mei 2010 ingediende voorstel van [wet houdende wijziging van de Wet marktordening gezondheidszorg en enkele andere wetten in verband met de aanvulling met instrumenten voor bekostiging](https://wetten.overheid.nl/jci1.3:c:BWBR0030791) tot wet is verheven en in werking is getreden.
 
-#### Artikel 4. macrobeheersmodel: het vaststellen van grenzen
+##### Artikel 4. macrobeheersmodel: het vaststellen van grenzen
 
 1. De zorgautoriteit stelt ambtshalve voor ieder hierboven aangegeven kalenderjaar voor zorg van alle instellingen gezamenlijk een mbi-omzetplafond, een bovengrens als bedoeld in [artikel 50, tweede lid, aanhef en onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50), vast. Dit mbi-omzetplafond betreft niet de honoraria voor de vrijgevestigd medisch specialisten.
 
@@ -82,7 +108,7 @@ Ter uitvoering van deze aanwijzing stelt de zorgautoriteit regels en beleidsrege
 
 6. De zorgautoriteit stelt met betrekking tot de jaren 2013 en 2014 het mbi-omzetplafond als bedoeld in het eerste lid en de bovengrenzen als bedoeld in het tweede lid niet vast dan nadat de minister haar schriftelijk heeft bericht welk bedrag voor zorg als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030884&artikel=2&z=2011-12-21&g=2011-12-21) voor het desbetreffende kalenderjaar ten hoogste beschikbaar is. Van het bericht wordt afschrift gezonden aan beide kamers der Staten-Generaal.
 
-#### Artikel 5. macrobeheersmodel: individuele aanwijzing tot afdracht
+##### Artikel 5. macrobeheersmodel: individuele aanwijzing tot afdracht
 
 1. De zorgautoriteit handhaaft het mbi-omzetplafond als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030884&artikel=4&z=2011-12-21&g=2011-12-21), door het handhaven van de bovengrenzen als bedoeld in artikel 4, tweede lid.
 
@@ -92,19 +118,19 @@ Ter uitvoering van deze aanwijzing stelt de zorgautoriteit regels en beleidsrege
 
 4. De zorgautoriteit geeft de aanwijzing als bedoeld in het tweede lid niet dan nadat de minister haar uiterlijk 1 december van het jaar volgend op het kalenderjaar als bedoeld in het vorige lid schriftelijk heeft bericht dat het bedrag bedoeld in [artikel 4, zesde respectievelijk zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030884&artikel=4&z=2011-12-21&g=2011-12-21), is overschreden onder vermelding van het bedrag dat de zorgautoriteit als basis dient te nemen voor de handhaving als bedoeld in het eerste lid. Van het bericht wordt afschrift gezonden aan beide kamers der Staten-Generaal.
 
-#### Artikel 6. macrobeheersmodel: collectieve beschikking tot behoud omzet
+##### Artikel 6. macrobeheersmodel: collectieve beschikking tot behoud omzet
 
 1. De zorgautoriteit stelt ambtshalve voor het in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030884&artikel=4&z=2011-12-21&g=2011-12-21) bedoelde kalenderjaar vast dat de grens voor iedere individuele instelling gelijk is aan de door die instelling gerealiseerde mbi-omzet in het desbetreffende kalenderjaar.
 
 2. De zorgautoriteit doet de vaststelling als bedoeld in het eerste lid niet dan nadat de minister haar uiterlijk 1 december van het jaar volgend op het kalenderjaar als bedoeld in het vorige lid schriftelijk heeft bericht dat het bedrag bedoeld in [artikel 4, zesde respectievelijk zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030884&artikel=4&z=2011-12-21&g=2011-12-21), niet is overschreden. Van het bericht wordt afschrift gezonden aan beide kamers der Staten-Generaal.
 
-#### Artikel 7. garantie kapitaallasten na macrobeheersmodel
+##### Artikel 7. garantie kapitaallasten na macrobeheersmodel
 
 1. De overgangsregeling kapitaallasten blijft ongewijzigd van kracht en wordt separaat van het macrobeheersmodel als omschreven in voorgaande artikelen toegepast.
 
 2. De zorgautoriteit voert de overgangsregeling kapitaallasten uit met inachtneming van de berekening van de vergoeding voor kapitaallasten die instellingen als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030586&artikel=3) en [5 van de aanwijzing kapitaallasten transitiemodel](https://wetten.overheid.nl/jci1.3:c:BWBR0030586&artikel=5) behouden na de vaststelling van het verrekenbedrag en de toepassing van het macrobeheersmodel.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze aanwijzing wordt aangehaald als: Aanwijzing macrobeheersmodel instellingen voor medisch specialistische zorg.
 

@@ -1,13 +1,35 @@
 ---
 title: "Douaneovereenkomst inzake wisselstukken gebezigd voor de herstelling van EUROP-wagons"
 identifier: "BWBV0005185"
-categorie: "Internationaal recht"
-publicatiedatum: 1961-01-01
-laatste_update: 1961-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005185"
+country: "nl"
+rank: "verdrag"
+publication_date: "1961-01-01"
+last_updated: "1961-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005185"
+soort: "verdrag"
+stam_id: "10004499993"
+version_id: "10004715612"
+internal_id: "C10007261371"
+label_id: "10004484764"
+dtd_version: "2.0"
+original_entry_into_force: "1961-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005185/1961-01-01/0"
+intitule_bron: "Trb.1958-141"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1958-10-15"
+intitule_in_force: "1961-01-26"
+intitule_status: "goed"
+original_publication: "Trb.1958-141"
+original_published_date: "1958-10-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1958-141"
+entry_into_force_date: "1961-01-01"
+jci_1_3: "jci1.3:c:BWBV0005185&z=1961-01-01&g=1961-01-01"
+jci_1_0: "1.0:c:BWBV0005185&g=1961-01-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1961-01-01"
 ---
-
 # Douaneovereenkomst inzake wisselstukken gebezigd voor de herstelling van EUROP-wagons
 
 De Overeenkomstsluitende partijen,
@@ -18,7 +40,7 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. ALGEMENE BEPALINGEN
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van deze Overeenkomst wordt verstaan:
 
@@ -30,7 +52,7 @@ Voor de toepassing van deze Overeenkomst wordt verstaan:
 
 - d). onder „gebruikende administratie” elke andere spoorwegadministratie, welke deelneemt aan het stelsel van gemeenschappelijk gebruik van EUROP-wagons en op wier net de desbetreffende wagons zich bevinden.
 
-#### Artikel 2
+##### Artikel 2
 
 Een gebruikende administratie mag wisselstukken uit eigen voorraad aanbrengen aan EUROP-wagons, mits:
 
@@ -38,11 +60,11 @@ Een gebruikende administratie mag wisselstukken uit eigen voorraad aanbrengen aa
 
 - b). de aanbrenging geen aanleiding geeft tot teruggaaf van rechten en heffingen of tot het geheel of gedeeltelijk verlenen van andere voordelen welke bij uitvoer zijn voorzien.
 
-#### Artikel 3
+##### Artikel 3
 
 De herstelling van EUROP-wagons door een gebruikende administratie met aanwending van wisselstukken uit eigen voorraad mag niet tot gevolg hebben dat die wagons bij overschrijding van de grenzen aan enigerlei formaliteit of belastingheffing worden onderworpen, mits die gebruikende administratie zelf de kosten draagt van de wisselstukken en van hun aanbrenging.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien een gebruikende administratie voor de herstelling van EUROP-wagons wisselstukken bezigt, welke afkomstig zijn uit de voorraden van de bezittende administraties, mogen deze wisselstukken tijdelijk worden ingevoerd met vrijstelling van rechten en heffingen terzake van de invoer, mits:
 
@@ -54,7 +76,7 @@ De herstelling van EUROP-wagons door een gebruikende administratie met aanwendin
 
 ### HOOFDSTUK II. SLOTBEPALINGEN
 
-#### Artikel 5
+##### Artikel 5
 
 1. De landen, die lid zijn van de Economische Commissie voor Europa en de landen, die met raadgevende bevoegdheid zijn toegelaten tot die Commissie overeenkomstig paragraaf 8 van het mandaat van de Commissie kunnen Partij worden bij deze Overeenkomst:
 
@@ -68,23 +90,23 @@ De herstelling van EUROP-wagons door een gebruikende administratie met aanwendin
 
 3. De bekrachtiging of toetreding geschiedt door nederlegging van een akte bij de Secretaris-Generaal van de Verenigde Naties.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Deze Overeenkomst treedt in werking op de eerste januari van het jaar volgende op dat, waarin alle in artikel 5, eerste lid, genoemde landen, wier spoorwegadministraties gemeenschappelijk EUROP-wagons gebruiken sedert een tijdstip voorafgaande aan de datum waarop de Overeenkomst voor ondertekening is opengesteld, de Overeenkomst hebben ondertekend zonder voorbehoud van bekrachtiging of hun akte van bekrachtiging of van toetreding hebben nedergelegd.
 
 2. Voor ieder land, dat na de datum bedoeld in het eerste lid van dit artikel toetreedt, zal de Overeenkomst in werking treden op de dertigste dag na de nederlegging van de akte van toetreding van dat land.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Iedere Partij zal deze Overeenkomst kunnen opzeggen door een kennisgeving gericht aan de Secretaris-Generaal der Verenigde Naties.
 
 2. De opzegging wordt van kracht zes maanden na de dag, waarop de Secretaris-Generaal de desbetreffende kennisgeving zal hebben ontvangen.
 
-#### Artikel 8
+##### Artikel 8
 
 De Overeenkomst zal buiten werking treden, wanneer na de inwerkingtreding het aantal Partijen minder is dan drie gedurende enig tijdvak van twaalf achtereenvolgende maanden.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Ieder geschil tussen twee of meer Partijen betreffende de uitleg of de toepassing van deze Overeenkomst zal voor zover mogelijk worden beslecht door middel van onderhandelingen tussen die Partijen.
 
@@ -92,11 +114,11 @@ De Overeenkomst zal buiten werking treden, wanneer na de inwerkingtreding het aa
 
 3. De uitspraak van de volgens het vorige lid aangewezen scheidsrechter of scheidsrechters zal bindend zijn voor de bij het geschil betrokken Partijen.
 
-#### Artikel 10
+##### Artikel 10
 
 Geen enkel voorbehoud ten aanzien van deze Overeenkomst zal worden toegelaten.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Elke Partij kan een of meer wijzigingen op deze Overeenkomst voorstellen. De tekst van elk voorstel tot wijziging zal bij de Secretaris-Generaal der Verenigde Naties worden ingediend, die deze zal mededelen aan alle Partijen en ter kennis zal brengen van de overige landen bedoeld in het eerste lid van artikel 5.
 
@@ -104,7 +126,7 @@ Geen enkel voorbehoud ten aanzien van deze Overeenkomst zal worden toegelaten.
 
 3. De Secretaris-Generaal zal zo spoedig mogelijk een kennisgeving richten tot alle Partijen om hun te doen weten of een bezwaar is ingediend tegen de voorgestelde wijziging. Indien zulk een bezwaar is ingediend, wordt de wijziging geacht niet te zijn aangenomen en zal zij geen gevolg hebben. Indien geen bezwaar wordt gemaakt, zal de wijziging voor alle Partijen van kracht worden drie maanden na het verstrijken van de termijn van zes maanden bedoeld in het vorige lid.
 
-#### Artikel 12
+##### Artikel 12
 
 Naast de mededelingen bedoeld in artikel 11, zal de Secretaris-Generaal der Verenigde Naties kennisgeven aan de landen bedoeld in het eerste lid van artikel 5 van:
 
@@ -118,7 +140,7 @@ Naast de mededelingen bedoeld in artikel 11, zal de Secretaris-Generaal der Vere
 
 - e). het in werking treden van elke wijziging volgens artikel 11.
 
-#### Artikel 13
+##### Artikel 13
 
 Na 20 februari 1958 zal het origineel van deze Overeenkomst worden nedergelegd bij de Secretaris-Generaal van de Verenigde Naties, die daarvan voor eensluidend gewaarmerkte afschriften zal doen toekomen aan alle in het eerste lid van artikel 5 bedoelde landen.
 

@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel uitvoering deel associate degree-opleiding door bve-instelling"
+title: "Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 11 september 2023, nr. HO&S/40146017, houdende de bevoegdheid tot het verlenen van toestemming aan een instelling voor hoger onderwijs om een deel van een associate degree-opleiding door een bve-instelling te laten uitvoeren (Beleidsregel uitvoering deel associate degree-opleiding door bve-instelling)"
 identifier: "BWBR0048675"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-09-30
-laatste_update: 2023-09-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048675"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2023-09-30"
+last_updated: "2023-09-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048675"
+soort: "beleidsregel"
+stam_id: "16868043"
+version_id: "29644932"
+internal_id: "C42421371"
+label_id: "16780284"
+dtd_version: "2.0"
+original_entry_into_force: "2023-09-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048675/2023-09-30/0"
+intitule_bron: "Stcrt.2023-26661"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-09-11"
+intitule_published: "2023-09-29"
+intitule_in_force: "2023-09-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-26661"
+original_signed_date: "2023-09-11"
+original_published_date: "2023-09-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-26661"
+entry_into_force_date: "2023-09-30"
+jci_1_3: "jci1.3:c:BWBR0048675&z=2023-09-30&g=2023-09-30"
+jci_1_0: "1.0:c:BWBR0048675&g=2023-09-30"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel uitvoering deel associate degree-opleiding door bve-instelling"
+signed_date: "2023-09-11"
+entry_into_force: "2023-09-30"
 ---
-
 # Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 11 september 2023, nr. HO&S/40146017, houdende de bevoegdheid tot het verlenen van toestemming aan een instelling voor hoger onderwijs om een deel van een associate degree-opleiding door een bve-instelling te laten uitvoeren (Beleidsregel uitvoering deel associate degree-opleiding door bve-instelling)
 
 Gelet op [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) en [artikel 7.8a, eerste en tweede lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.8a);
@@ -16,7 +42,7 @@ Besluit:
 
 #### Paragraaf 1. Definiëring en reikwijdte
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -32,7 +58,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - f. **Minister:** Minister van Onderwijs, Cultuur en Wetenschap.
 
-#### Artikel 2. Reikwijdte beleidsregel
+##### Artikel 2. Reikwijdte beleidsregel
 
 Deze beleidsregel heeft betrekking op:
 
@@ -42,7 +68,7 @@ Deze beleidsregel heeft betrekking op:
 
 #### Paragraaf 2. Benodigde gegevens en bescheiden
 
-#### Artikel 3. Benodigde gegevens en bescheiden
+##### Artikel 3. Benodigde gegevens en bescheiden
 
 1. Bij beoordeling van de aanvraag betrekt de Minister in ieder geval de volgende informatie:
 
@@ -58,7 +84,7 @@ Deze beleidsregel heeft betrekking op:
 
 #### Paragraaf 3. Het verlenen van goedkeuring
 
-#### Artikel 4. Het verlenen van goedkeuring
+##### Artikel 4. Het verlenen van goedkeuring
 
 1. De Minister keurt het voornemen tot het verzorgen van ten minste de helft van de Ad door een instelling voor hoger onderwijs, bedoeld in [artikel 7.8a, tweede lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.8a), goed indien het instellingsbestuur heeft aangetoond dat de kwaliteit van de opleiding binnen de beoogde samenwerking is geborgd.
 
@@ -66,11 +92,11 @@ Deze beleidsregel heeft betrekking op:
 
 #### Paragraaf 4. Slotbepalingen
 
-#### Artikel 5. Inwerkingtreding
+##### Artikel 5. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 6. Citeertitel
+##### Artikel 6. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel uitvoering deel associate degree-opleiding door bve-instelling.
 

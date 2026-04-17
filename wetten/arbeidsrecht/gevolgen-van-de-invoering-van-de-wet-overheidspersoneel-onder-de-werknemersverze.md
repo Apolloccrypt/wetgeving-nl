@@ -1,13 +1,37 @@
 ---
 title: "Gevolgen van de invoering van de Wet overheidspersoneel onder de werknemersverzekeringen voor de toepassing van de Belastingregeling voor het Koninkrijk en de belastingverdragen"
 identifier: "BWBR0028049"
-categorie: "Arbeidsrecht"
-publicatiedatum: 1998-05-20
-laatste_update: 1998-05-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028049"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "1998-05-20"
+last_updated: "1998-05-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028049"
+soort: "beleidsregel"
+stam_id: "10638343"
+version_id: "17575632"
+internal_id: "C24352561"
+label_id: "10613194"
+dtd_version: "2.0"
+original_entry_into_force: "1998-05-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028049/1998-05-20/0"
+intitule_bron: "Infob.1998-459"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-05-20"
+intitule_published: "1998-01-01"
+intitule_in_force: "1998-01-01"
+intitule_status: "goed"
+original_publication: "Infob.1998-459"
+original_signed_date: "1998-05-20"
+original_published_date: "1998-01-01"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1998-05-20"
+jci_1_3: "jci1.3:c:BWBR0028049&z=1998-05-20&g=1998-05-20"
+jci_1_0: "1.0:c:BWBR0028049&g=1998-05-20"
+citeertitel_status: "redactioneel"
+signed_date: "1998-05-20"
+entry_into_force: "1998-05-20"
 ---
-
 # Gevolgen van de invoering van de Wet overheidspersoneel onder de werknemersverzekeringen voor de toepassing van de Belastingregeling voor het Koninkrijk en de belastingverdragen
 
 De Directeur-Generaal voor Fiscale Zaken heeft namens de Staatssecretaris van Financiën het volgende besloten.

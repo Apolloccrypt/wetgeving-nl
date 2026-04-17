@@ -1,13 +1,37 @@
 ---
 title: "WAO-conforme regeling"
 identifier: "BWBR0007785"
-categorie: "Bestuursrecht"
-publicatiedatum: 1996-01-01
-laatste_update: 1996-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007785"
+country: "nl"
+rank: "circulaire"
+publication_date: "1996-01-01"
+last_updated: "1996-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007785"
+soort: "circulaire"
+stam_id: "6321473"
+version_id: "10983262"
+internal_id: "C14873721"
+label_id: "6310474"
+original_entry_into_force: "1996-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007785/1996-01-01/0"
+intitule_bron: "Stcrt.1995-252"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-12-21"
+intitule_published: "1995-12-29"
+intitule_in_force: "1995-12-29"
+intitule_status: "goed"
+original_publication: "Stcrt.1995-252"
+original_signed_date: "1995-12-21"
+original_published_date: "1995-12-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1995-252-p11-SC4886"
+entry_into_force_date: "1996-01-01"
+jci_1_3: "jci1.3:c:BWBR0007785&z=1996-01-01&g=1996-01-01"
+jci_1_0: "1.0:c:BWBR0007785&g=1996-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "1995-12-21"
+entry_into_force: "1996-01-01"
 ---
-
 # WAO-conforme regeling
 
 Circulaire aan de ministers

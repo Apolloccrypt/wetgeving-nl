@@ -1,13 +1,37 @@
 ---
 title: "Beleid t.a.v. buitenlandse projecten toegelaten instellingen"
 identifier: "BWBR0012208"
-categorie: "Bestuursrecht"
-publicatiedatum: 2001-02-09
-laatste_update: 2001-02-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012208"
+country: "nl"
+rank: "circulaire"
+publication_date: "2001-02-09"
+last_updated: "2001-02-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012208"
+soort: "circulaire"
+stam_id: "6360793"
+version_id: "11019502"
+internal_id: "C14915641"
+label_id: "6349724"
+original_entry_into_force: "2001-02-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012208/2001-02-09/0"
+intitule_bron: "Stcrt.2001-29"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-01-31"
+intitule_published: "2001-02-09"
+intitule_in_force: "2001-02-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2001-29"
+original_signed_date: "2001-01-31"
+original_published_date: "2001-02-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2001-29-p17-SC27861"
+entry_into_force_date: "2001-02-09"
+jci_1_3: "jci1.3:c:BWBR0012208&z=2001-02-09&g=2001-02-09"
+jci_1_0: "1.0:c:BWBR0012208&g=2001-02-09"
+citeertitel_status: "redactioneel"
+signed_date: "2001-01-31"
+entry_into_force: "2001-02-09"
 ---
-
 # Beleid t.a.v. buitenlandse projecten toegelaten instellingen
 
 Geacht college/bestuur,

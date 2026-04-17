@@ -1,16 +1,41 @@
 ---
 title: "Wet op de weerkorpsen BES"
 identifier: "BWBR0028240"
-categorie: "Overig"
-publicatiedatum: 2011-08-30
-laatste_update: 2011-08-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028240"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2011-08-30"
+last_updated: "2011-08-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028240"
+soort: "wet-BES"
+stam_id: "10719373"
+version_id: "17687082"
+internal_id: "C24746771"
+label_id: "10694014"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028240/2011-08-30/0"
+intitule_bron: "Stb.2010-520"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-14"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-520"
+original_signed_date: "2010-09-14"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-520"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028240&z=2011-08-30&g=2011-08-30"
+jci_1_0: "1.0:c:BWBR0028240&g=2011-08-30"
+citeertitel_status: "officieel"
+signed_date: "2010-09-14"
+entry_into_force: "2010-10-10"
 ---
-
 # Wet op de weerkorpsen BES
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -22,7 +47,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. **militaire bijstand:** de terbeschikking van de krijgsmacht ter handhaving van de openbare orde en rust, dan wel in het kader van hulpverlening bij rampen en crisis.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het is verboden weerkorpsen tot stand te brengen, daarvan deel uit te maken of deze te steunen.
 
@@ -32,7 +57,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 4. [Vervallen]
 
-#### Artikel 3
+##### Artikel 3
 
 1. De doelstelling, organisatie en de inrichting van een weerkorps worden bij of krachtens algemene maatregel van bestuur, goedgekeurd. Zulks geschiedt bij de toelating van het weerkorps.
 
@@ -46,7 +71,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Weerkorpsen zijn verplicht te allen tijde mee te werken aan controles uitgeoefend door of namens Onze Minister.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Onze Minister kan weerkorpsen ter beschikking stellen van de gezaghebber in bijstand aan het politiekorps van Bonaire, Sint Eustatius en Saba ter handhaving van de openbare orde en rust.
 
@@ -60,38 +85,38 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 6. Bij ministeriële regeling kan een instructie voor het optreden in bijstand of steunverlening als bedoeld in het eerste, tweede en derde lid, worden vastgesteld.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Met inachtneming van [artikel 3, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028240&artikel=3&z=2011-08-30&g=2011-08-30), kan Onze Minister aan weerkorpsen een bijdrage ten laste van de begroting van het Rijk toekennen ten behoeve van de voorbereiding op hun taak alsmede ten behoeve van de instandhouding van het materieel.
 
 2. Indien weerkorpsen overeenkomstig de bepalingen van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028240&artikel=4&z=2011-08-30&g=2011-08-30) worden ingezet, ontvangen de leden die worden ingezet hiervoor een door Onze Minister vast te stellen vergoeding.
 
-#### Artikel 6
+##### Artikel 6
 
 De kosten verbonden aan operationele inzet, daaronder begrepen de vergoeding, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028240&artikel=5&z=2011-08-30&g=2011-08-30), alsmede eventuele kosten voor transport en verblijf, komen voor rekening van het orgaan dat om de inzet heeft verzocht.
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 1. Degene die handelt in strijd met het verbod, bedoeld in [artikel 2, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028240&artikel=2&z=2011-08-30&g=2011-08-30), wordt gestraft met hechtenis van ten hoogste twee jaar of een geldboete van de vijfde categorie.
 
 2. Overtreding van de in [artikel 2, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028240&artikel=2&z=2011-08-30&g=2011-08-30), gestelde verboden wordt beschouwd als een misdrijf.
 
-#### Artikel 9
+##### Artikel 9
 
 De regionaal bevelhebber kan Onze Minister en de gezaghebber alsmede leidinggevenden van weerkorpsen desgevraagd of eigener beweging van advies dienen over alle aangelegenheden die de weerkorpsen betreffen.
 
-#### Artikel 10
+##### Artikel 10
 
 [Vervallen]
 
-#### Artikel 11
+##### Artikel 11
 
 [Vervallen]
 
-#### Artikel 12
+##### Artikel 12
 
 Deze wet wordt aangehaald als: de Wet op de weerkorpsen BES.

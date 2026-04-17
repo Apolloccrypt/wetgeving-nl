@@ -1,22 +1,50 @@
 ---
-title: "Tijdelijke wet COVID-19 SZW en JenV"
+title: "Wet van 25 november 2020 tot wijziging van enkele wetten op het terrein van het Ministerie van Sociale Zaken en Werkgelegenheid en het Ministerie van Justitie en Veiligheid en de introductie van bepalingen ter invoering van de tijdelijke mogelijkheid voor de rechter om de behandeling van faillissementsverzoeken aan te houden en andere verhaalsacties te schorsen en een schuldenaar een tijdelijk betalingsuitstel te verlenen in verband met de uitbraak van COVID-19 (Tijdelijke wet COVID-19 SZW en JenV)"
 identifier: "BWBR0044501"
-categorie: "Overig"
-publicatiedatum: 2021-08-01
-laatste_update: 2021-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044501"
+country: "nl"
+rank: "wet"
+publication_date: "2021-08-01"
+last_updated: "2021-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044501"
+soort: "wet"
+stam_id: "15756853"
+version_id: "27305242"
+internal_id: "C38569301"
+label_id: "15695134"
+dtd_version: "2.0"
+original_entry_into_force: "2020-12-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044501/2021-08-01/0"
+intitule_bron: "Stb.2020-522"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-11-25"
+intitule_published: "2020-12-16"
+intitule_in_force: "2020-12-16"
+intitule_status: "goed"
+original_publication: "Stb.2020-522"
+original_signed_date: "2020-11-25"
+original_published_date: "2020-12-16"
+original_effect: "nieuwe-regeling"
+original_dossier: "35557"
+original_url_id: "stb-2020-522"
+entry_into_force_date: "2020-12-17"
+entry_into_force_dossier: "35557"
+jci_1_3: "jci1.3:c:BWBR0044501&z=2021-08-01&g=2021-08-01"
+jci_1_0: "1.0:c:BWBR0044501&g=2021-08-01"
+citeertitel_status: "officieel"
+short_title: "Tijdelijke wet COVID-19 SZW en JenV"
+signed_date: "2020-11-25"
+entry_into_force: "2020-12-17"
 ---
-
-# Tijdelijke wet COVID-19 SZW en JenV
+# Wet van 25 november 2020 tot wijziging van enkele wetten op het terrein van het Ministerie van Sociale Zaken en Werkgelegenheid en het Ministerie van Justitie en Veiligheid en de introductie van bepalingen ter invoering van de tijdelijke mogelijkheid voor de rechter om de behandeling van faillissementsverzoeken aan te houden en andere verhaalsacties te schorsen en een schuldenaar een tijdelijk betalingsuitstel te verlenen in verband met de uitbraak van COVID-19 (Tijdelijke wet COVID-19 SZW en JenV)
 
 ### Hoofdstuk 1. Wijziging van enkele wetten
 
-#### Artikel 1.1. Wijziging van de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703)
+##### Artikel 1.1. Wijziging van de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703)
 
 Wijzigt de Participatiewet.
 
-#### Artikel 1.2. Wijziging van de [Tijdelijke wet COVID-19 Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0043413)
+##### Artikel 1.2. Wijziging van de [Tijdelijke wet COVID-19 Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0043413)
 
 Wijzigt de Tijdelijke wet COVID-19 Justitie en Veiligheid.
 
@@ -32,13 +60,13 @@ Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met 
 
 ### Hoofdstuk 1. Wijziging van enkele wetten
 
-#### Artikel 2.1. Begripsbepalingen
+##### Artikel 2.1. Begripsbepalingen
 
 1. In dit hoofdstuk wordt verstaan onder schuldenaar: een schuldenaar die een onderneming drijft, niet zijnde een bank, een verzekeraar of een beleggingsonderneming als bedoeld in [1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1).
 
 2. [Artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0044501&hoofdstuk=2&artikel=2.2&z=2020-12-17&g=2020-12-17) en [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0044501&hoofdstuk=2&artikel=2.3&z=2020-12-17&g=2020-12-17) zijn niet van toepassing op de Rijksbelastingdienst.
 
-#### Artikel 2.2. De aanhouding van de behandeling van een faillissementsaanvraag
+##### Artikel 2.2. De aanhouding van de behandeling van een faillissementsaanvraag
 
 1. Op verzoek van een schuldenaar kan de rechtbank in afwijking van [artikel 4, eerste lid, van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=4) de behandeling van een jegens de schuldenaar ingediend verzoek tot faillietverklaring aanhouden gedurende een termijn van ten hoogste twee maanden. Deze termijn kan ten hoogste tweemaal op verzoek van de schuldenaar worden verlengd met telkens een termijn van ten hoogste twee maanden.
 
@@ -88,7 +116,7 @@ Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met 
 
 11. Tegen de beslissingen van de rechtbank als bedoeld in dit artikel staat geen rechtsmiddel open.
 
-#### Artikel 2.3. De schorsing van executie en opheffing van beslagen
+##### Artikel 2.3. De schorsing van executie en opheffing van beslagen
 
 1. Als dit nodig is om zijn onderneming te kunnen voortzetten kan een schuldenaar:
 
@@ -102,7 +130,7 @@ De termijn genoemd in onderdeel a kan ten hoogste tweemaal op verzoek van de sch
 
 3. Een beslag dat overeenkomstig het eerste lid, onderdeel b, is opgeheven, herleeft, zodra de voorzieningenrechter heeft beslist dat de gronden voor de opheffing van het beslag niet langer aanwezig zijn, mits het goed dan nog tot de boedel behoort. Indien de inschrijving van het beslag in de openbare registers is doorgehaald, vervalt de herleving, indien niet binnen veertien dagen na de herleving een exploot is ingeschreven, waarbij van de herleving mededeling aan de schuldenaar is gedaan.
 
-#### Artikel 2.4. Afwijkingen van de [Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860)
+##### Artikel 2.4. Afwijkingen van de [Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860)
 
 1. Als de rechtbank het verzoek tot aanhouding, bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044501&hoofdstuk=2&artikel=2.2&z=2020-12-17&g=2020-12-17), toewijst, maar de schuldenaar nadien alsnog failliet wordt verklaard, kan de voldoening van een opeisbare schuld die heeft plaatsgevonden gedurende de termijn, bedoeld in artikel 2.2, eerste lid, niet op grond van [artikel 47 van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=47) worden vernietigd om het enkele feit dat de schuldeiser die de betaling ontving, wist dat het faillissement van de schuldenaar aangevraagd was.
 
@@ -114,7 +142,7 @@ De termijn genoemd in onderdeel a kan ten hoogste tweemaal op verzoek van de sch
 
 ### Hoofdstuk 3. Slotbepalingen
 
-#### Artikel 3.1. Inwerkingtreding en verval
+##### Artikel 3.1. Inwerkingtreding en verval
 
 1. [Artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0044501&hoofdstuk=1&artikel=1.1&z=2021-08-01&g=2021-08-01) van deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, waarbij:
 
@@ -134,7 +162,7 @@ De termijn genoemd in onderdeel a kan ten hoogste tweemaal op verzoek van de sch
 
 4. De voordracht voor een krachtens het derde lid vast te stellen koninklijk besluit wordt niet eerder gedaan dan een week nadat het ontwerp aan beide Kamers van de Staten-Generaal is overgelegd.
 
-#### Artikel 3.2. Citeertitel
+##### Artikel 3.2. Citeertitel
 
 Deze wet wordt aangehaald als: Tijdelijke wet COVID-19 SZW en JenV.
 

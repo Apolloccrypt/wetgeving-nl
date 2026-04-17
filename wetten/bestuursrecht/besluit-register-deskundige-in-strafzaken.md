@@ -1,13 +1,39 @@
 ---
-title: "Besluit register deskundige in strafzaken"
+title: "Besluit van 18 juli 2009, houdende instelling van het Nederlands register gerechtelijk deskundigen en kwaliteitseisen aan deskundigen in strafzaken (Besluit register deskundige in strafzaken)"
 identifier: "BWBR0026190"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026190"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026190"
+soort: "AMvB"
+stam_id: "10144683"
+version_id: "16593192"
+internal_id: "C22883381"
+label_id: "10120974"
+dtd_version: "2.0"
+original_entry_into_force: "2010-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026190/2026-01-01/0"
+intitule_bron: "Stb.2009-330"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-07-18"
+intitule_published: "2009-07-30"
+intitule_in_force: "2009-08-25"
+intitule_status: "goed"
+original_publication: "Stb.2009-330"
+original_signed_date: "2009-07-18"
+original_published_date: "2009-07-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2009-330"
+entry_into_force_date: "2010-01-01"
+jci_1_3: "jci1.3:c:BWBR0026190&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0026190&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit register deskundige in strafzaken"
+signed_date: "2009-07-18"
+entry_into_force: "2010-01-01"
 ---
-
 # Besluit van 18 juli 2009, houdende instelling van het Nederlands register gerechtelijk deskundigen en kwaliteitseisen aan deskundigen in strafzaken (Besluit register deskundige in strafzaken)
 
 Op de voordracht van Onze Minister van Justitie van 28 november 2008, nr. 5576404/08/6;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 Treedt in werking op het tijdstip waarop de Wet deskundige in strafzaken in werking treedt.
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -40,17 +66,17 @@ In dit besluit wordt verstaan onder:
 
 - g. **aanvrager:** degene die bij het College een aanvraag tot registratie heeft ingediend.
 
-#### Artikel 2
+##### Artikel 2
 
 Het register heeft ten doel de gebruikmaking van deskundigen in strafzaken, die naar het oordeel van het College gerechtelijk deskundigen voldoen aan de in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=12&z=2026-01-01&g=2026-01-01), genoemde kwaliteitseisen, te bevorderen door de gegevens van deze deskundigen, voor zover zij relevant zijn voor potentiële opdrachtgevers, bijeen te brengen en openbaar te maken.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Er is een College gerechtelijk deskundigen.
 
 2. Het College is gevestigd te Utrecht.
 
-#### Artikel 4
+##### Artikel 4
 
 Het College heeft tot taak:
 
@@ -62,7 +88,7 @@ Het College heeft tot taak:
 
 - d. het in overleg met de secretaris vaststellen van de door het bureau ter ondersteuning van de werkzaamheden van het College te verrichten activiteiten.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De leden van het College worden benoemd op grond van de deskundigheid die nodig is voor een goede vervulling van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=4&z=2026-01-01&g=2026-01-01) genoemde taken alsmede op grond van hun brede maatschappelijke kennis en ervaring.
 
@@ -78,7 +104,7 @@ Het College heeft tot taak:
 
 - e. drie deskundigen op een voor het vervullen van de taken van het College relevant terrein van wetenschapsbeoefening, waarvan ten minste één gerechtelijk deskundige.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het College verricht zijn taken op onpartijdige en onafhankelijke wijze.
 
@@ -86,7 +112,7 @@ Het College heeft tot taak:
 
 3. Indien het bepaalde in het tweede lid toepassing heeft gevonden, beslist het College in een samenstelling waarvan het lid dat zich heeft verschoond, geen deel uitmaakt.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het College bepaalt zijn eigen werkwijze.
 
@@ -98,7 +124,7 @@ Het College heeft tot taak:
 
 5. Een persoon die deel uitmaakt van één van de commissies, bedoeld in het derde lid, kan zich verschonen indien zich naar zijn oordeel feiten of omstandigheden voordoen die onverenigbaar zijn met zijn onpartijdigheid of onafhankelijkheid.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Onze Minister benoemt, behalve bij gelegenheid van de instelling van het College, op voordracht van het College de voorzitter en de leden, bedoeld in [artikel 5, tweede lid, onderdeel a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=5&z=2026-01-01&g=2026-01-01).
 
@@ -108,19 +134,19 @@ Het College heeft tot taak:
 
 4. Onze Minister stelt de vergoeding vast aan degenen die op verzoek van het College op grond van [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=7&z=2026-01-01&g=2026-01-01), bijstand verlenen, voor zover zij niet in dienst zijn van het Rijk.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het College stelt een bestuursreglement vast. Dit bevat in ieder geval regels over werkwijzen en procedures met het oog op een goede en zorgvuldige uitoefening van de taken van het College, de voorzitter, de secretaris en het bureau.
 
 2. Het College stelt jaarlijks voor 1 april een jaarplan op dat aan Onze Minister wordt toegezonden.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het College heeft een secretaris en een bureau. Op verzoek van de voorzitter sluit, wijzigt en beëindigt Onze Minister arbeidsovereenkomsten met de medewerkers van het bureau. De secretaris is geen lid van het College.
 
 2. De voorzitter geeft leiding aan de werkzaamheden van de secretaris en het bureau.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Er is een bureau ter ondersteuning van het College. Onze Minister draagt, na overleg met het College, zorg voor de nodige voorzieningen ten behoeve van de werkzaamheden van het bureau en het College. Onze Minister kan een instelling aanwijzen voor het beheer van het bureau. Op voordracht van het College kan Onze Minister een andere organisatie aanwijzen als verwerker voor het register.
 
@@ -136,7 +162,7 @@ Het College heeft tot taak:
 
 - e. de door het College vastgestelde beleidsregels via de website van het register bekend te maken en beschikbaar te houden, alsmede op deze site het register voor een ieder toegankelijk te houden.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Een aanvraag tot inschrijving komt slechts in aanmerking voor toetsing aan de in het tweede lid bedoelde eisen wanneer de aanvraag betrekking heeft op een welomlijnd deskundigheidsgebied waarvan aannemelijk is dat op basis daarvan zinvolle, objectieve en betrouwbare informatie kan worden verschaft en dat naar het oordeel van het College zodanig ontwikkeld is dat de bevindingen daarbinnen aan de hand van gedeelde normen kunnen worden getoetst en verantwoord.
 
@@ -160,7 +186,7 @@ Het College heeft tot taak:
 
 - i. in staat is zijn werkzaamheden als deskundige onafhankelijk, onpartijdig, zorgvuldig, vakbekwaam en integer te verrichten.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De aanvraag tot inschrijving vindt schriftelijk plaats volgens een door het College vastgesteld model.
 
@@ -198,7 +224,7 @@ Het College heeft tot taak:
 
 - f. een vermelding van zaken waarin de aanvrager eerder als deskundige optrad.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De aanvraag wordt niet in behandeling genomen indien de aanvrager ook na aanmaning heeft verzuimd de in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=13&z=2026-01-01&g=2026-01-01) genoemde gegevens en bescheiden over te leggen.
 
@@ -216,11 +242,11 @@ In de overige gevallen wordt de aanvraag toegewezen.
 
 3. Het College beslist binnen drie maanden na het in behandeling nemen van een aanvraag als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=12&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 15
+##### Artikel 15
 
 De geregistreerde deskundige ontvangt een bewijs van inschrijving.
 
-#### Artikel 16
+##### Artikel 16
 
 Het register bevat de volgende gegevens, welke voor een ieder toegankelijk zijn:
 
@@ -230,7 +256,7 @@ Het register bevat de volgende gegevens, welke voor een ieder toegankelijk zijn:
 
 - c. het gegeven dat de integriteit van de deskundige niet objectief door het College kon worden vastgesteld, bij toepassing van [artikel 13, tweede lid, onderdeel b, derde streepje](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=13&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 17
+##### Artikel 17
 
 1. Inschrijving in het register vindt, behoudens een inschrijving onder voorwaarden overeenkomstig [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=19&z=2026-01-01&g=2026-01-01) of een doorhaling overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=18&z=2026-01-01&g=2026-01-01), telkens plaats voor een periode van vijf jaar.
 
@@ -238,7 +264,7 @@ Het register bevat de volgende gegevens, welke voor een ieder toegankelijk zijn:
 
 3. Het bepaalde in de [artikelen 12 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=12&z=2026-01-01&g=2026-01-01), en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=19&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing op de herinschrijving.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De inschrijving in het register wordt doorgehaald indien:
 
@@ -272,7 +298,7 @@ Het register bevat de volgende gegevens, welke voor een ieder toegankelijk zijn:
 
 - e. een maand na ontvangst van het bericht dat de geregistreerde deskundige is overleden.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Een deskundige die niet aan alle vereisten, bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=12&z=2026-01-01&g=2026-01-01), voldoet, kan op zijn aanvraag als bedoeld in artikel 12, eerste lid, telkens voor een periode van ten hoogste twee jaar voorwaardelijk in het register als deskundige worden ingeschreven, behoudens doorhaling overeenkomstig het bepaalde in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=18&z=2026-01-01&g=2026-01-01). Het College stelt de voorwaarden waaraan en de termijnen waarbinnen de deskundige moet voldoen.
 
@@ -282,15 +308,15 @@ Het register bevat de volgende gegevens, welke voor een ieder toegankelijk zijn:
 
 4. De [artikelen 13 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=13&z=2026-01-01&g=2026-01-01) en [17, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=17&z=2026-01-01&g=2026-01-01), zijn van overeenkomstige toepassing.
 
-#### Artikel 20
+##### Artikel 20
 
 Alvorens een deskundige te benoemen, die niet is opgenomen in het register, beoordeelt de rechter diens geschiktheid om als zodanig op te treden zoveel mogelijk aan de hand van de in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=12&z=2026-01-01&g=2026-01-01), genoemde kwaliteitseisen.
 
-#### Artikel 21
+##### Artikel 21
 
 Dit besluit treedt in werking op het tijdstip waarop de [Wet deskundige in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0025251) in werking treedt.
 
-#### Artikel 22
+##### Artikel 22
 
 Dit besluit kan worden aangehaald als: Besluit register deskundige in strafzaken.
 

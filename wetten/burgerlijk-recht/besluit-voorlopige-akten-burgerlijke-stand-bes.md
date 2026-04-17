@@ -1,28 +1,53 @@
 ---
 title: "Besluit voorlopige akten burgerlijke stand BES"
 identifier: "BWBR0028439"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028439"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028439"
+soort: "AMvB-BES"
+stam_id: "10784843"
+version_id: "17762822"
+internal_id: "C24740211"
+label_id: "10759584"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028439/2010-10-10/0"
+intitule_bron: "Stb.2010-534"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-23"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-534"
+original_signed_date: "2010-09-23"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-534"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028439&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028439&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-23"
+entry_into_force: "2010-10-10"
 ---
-
 # Besluit voorlopige akten burgerlijke stand BES
 
 ### Hoofdstuk 1. Het verbod van verkeer en andere buitengewone omstandigheden, de voorlopige akten van geboorte en overlijden en de indeling en de inhoud van de voorlopige akten van geboorte en overlijden
 
 ### Afdeling 1. Het verbod van verkeer en andere buitengewone omstandigheden
 
-#### Artikel 1
+##### Artikel 1
 
 Wanneer ten gevolge van een verbod van verkeer of ten gevolge van andere buitengewone omstandigheden de ambtenaar van de burgerlijke stand van een van de openbare lichamen Bonaire, Sint Eustatius of Saba, waar een persoon is geboren of overleden, ontbreekt of niet bereikbaar is, kan een voorlopige akte van geboorte of overlijden worden opgemaakt buiten de registers van de burgerlijke stand door een ambtenaar van de burgerlijke stand van een van de andere openbare lichamen Bonaire, Sint Eustatius of Saba, een buitengewone ambtenaar van de burgerlijke stand, de gezaghebber of een lid van het bestuur van het openbare lichaam waar de geboorte of het overlijden plaatsvond, een notaris of een ten kantore van een notaris werkzame kandidaat-notaris, een advocaat, een door Onze Minister van Defensie aangewezen officier van de krijgsmacht of een door Onze Minister van Justitie aangewezen ambtenaar.
 
-#### Artikel 2
+##### Artikel 2
 
 Wanneer ten gevolge van een verbod van verkeer of ten gevolge van andere buitengewone omstandigheden de ambtenaar van de burgerlijke stand van het openbaar lichaam Bonaire, Sint Eustatius of Saba waar een persoon is geboren of overleden, naar zijn oordeel verhinderd wordt overeenkomstig bij of krachtens het in het Burgerlijk Wetboek BES bepaalde een akte van geboorte of overlijden in de registers op te nemen, maakt hij buiten die registers een voorlopige akte op, waarbij hij voor het overige, zoveel als het naar zijn oordeel mogelijk is, [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028439&hoofdstuk=1&afdeling=1&artikel=3&z=2010-10-10&g=2010-10-10), en de [artikelen 6 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028439&hoofdstuk=1&afdeling=2&artikel=6&z=2010-10-10&g=2010-10-10) in acht neemt.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De voorlopige akten worden door de in de voorgaande artikelen genoemde personen in tweevoud opgemaakt, zorgvuldig bewaard en in volgorde van de datum van opmaken gerangschikt.
 
@@ -30,7 +55,7 @@ Wanneer ten gevolge van een verbod van verkeer of ten gevolge van andere buiteng
 
 3. De ambtenaar van de burgerlijke stand maakt in het desbetreffende register een akte op aan de hand van de voorlopige akte, met dien verstande dat hij gegevens die ontbreken of hem blijken onjuist te zijn, zoveel mogelijk aanvult of verbetert.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Tot de aangifte van een geboorte is bevoegd de moeder van het kind.
 
@@ -48,13 +73,13 @@ Wanneer ten gevolge van een verbod van verkeer of ten gevolge van andere buiteng
 
 6. Degene die de voorlopige akte opmaakt stelt zo mogelijk de identiteit vast van de aangever.
 
-#### Artikel 5
+##### Artikel 5
 
 Tot de aangifte van overlijden is bevoegd wie daarvan uit eigen wetenschap kennis draagt.
 
 ### Afdeling 2. De voorlopige akten van geboorte en overlijden
 
-#### Artikel 6
+##### Artikel 6
 
 In de voorlopige akten worden opgenomen:
 
@@ -64,7 +89,7 @@ In de voorlopige akten worden opgenomen:
 
 - c. de handtekeningen van degene die de akte heeft opgemaakt en van de aangever.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De voorlopige akten dienen duidelijk leesbaar in de Nederlandse taal te zijn gesteld. Zij worden voor zover mogelijk vervaardigd met toepassing van de bij ministeriële regeling voorgeschreven middelen.
 
@@ -72,7 +97,7 @@ In de voorlopige akten worden opgenomen:
 
 3. De akte wordt ondertekend door de aangever en door degene die haar heeft opgemaakt. Zo mogelijk leest degene die de akte heeft opgemaakt haar, voor de ondertekening plaatsvindt, aan de aangever voor.
 
-#### Artikel 8
+##### Artikel 8
 
 1. In de voorlopige akten mag, behoudens het bepaalde in het vijfde lid en het bepaalde in [artikel 6, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028439&hoofdstuk=1&afdeling=2&artikel=6&z=2010-10-10&g=2010-10-10), niets bij verkorting worden uitgedrukt.
 
@@ -86,17 +111,17 @@ In de voorlopige akten worden opgenomen:
 
 6. De aanduiding van een plaats omvat in elk geval de vermelding van het openbaar lichaam Bonaire, Sint Eustatius of Saba.
 
-#### Artikel 9
+##### Artikel 9
 
 Bijvoegingen en doorhalingen bij het opmaken van de voorlopige akten worden duidelijk aan de voet van de akte aangegeven en worden goedgekeurd en ondertekend door degenen die de akte ondertekenen.
 
 ### Afdeling 3. De indeling en de inhoud van de voorlopige akten van geboorte en overlijden
 
-#### Artikel 10
+##### Artikel 10
 
 De voorlopige akten van geboorte en van overlijden bestaan uit vijf gedeelten die door horizontale lijnen van elkaar zijn gescheiden. In het eerste gedeelte worden opgenomen de gegevens die in een uittreksel uit de akte moeten worden opgenomen. In het tweede gedeelte worden opgenomen de gegevens die wegens hun vertrouwelijk karakter niet in een uittreksel worden opgenomen. In het derde gedeelte worden de overige gegevens opgenomen. In het vierde gedeelte worden de ambtelijke gegevens en de handtekeningen opgenomen. In het vijfde gedeelte worden de door degene die de voorlopige akte opmaakt aan te brengen bijvoegingen of doorhalingen opgenomen.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De voorlopige akte van geboorte vermeldt in het eerste gedeelte achtereenvolgens:
 
@@ -128,7 +153,7 @@ De voorlopige akten van geboorte en van overlijden bestaan uit vijf gedeelten di
 
 5. Is de datum van de geboorte van het kind niet bekend, dan vermeldt de akte in het eerste gedeelte de vermoedelijke datum van geboorte.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De voorlopige akte van overlijden vermeldt in het eerste gedeelte achtereenvolgens:
 
@@ -176,7 +201,7 @@ voor zover bekend, de geslachtsnaam en de voornamen van de persoon of van de per
 
 7. De plaats waar het lijk is gevonden, wordt zo nauwkeurig mogelijk aangeduid.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Op de voorlopige akte van aangifte van een kind dat levenloos ter wereld is gekomen, is [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028439&hoofdstuk=1&afdeling=3&artikel=11&z=2010-10-10&g=2010-10-10) van overeenkomstige toepassing, met dien verstande dat de akte alleen een geslachtsnaam en voornamen van het kind vermeldt, voor zover de ouders dit wensen.
 
@@ -184,10 +209,10 @@ voor zover bekend, de geslachtsnaam en de voornamen van de persoon of van de per
 
 ### Hoofdstuk 2. Slotbepalingen
 
-#### Artikel 14
+##### Artikel 14
 
 Dit besluit berust op [artikel 19j, tweede lid, Boek 1, Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&artikel=19j).
 
-#### Artikel 15
+##### Artikel 15
 
 Dit besluit wordt aangehaald als: Besluit voorlopige akten burgerlijke stand BES.

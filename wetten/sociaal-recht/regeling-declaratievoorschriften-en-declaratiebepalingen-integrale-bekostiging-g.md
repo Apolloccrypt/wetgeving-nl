@@ -1,18 +1,43 @@
 ---
 title: "Regeling declaratievoorschriften en declaratiebepalingen integrale bekostiging geboortezorg"
 identifier: "BWBR0051819"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051819"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051819"
+soort: "zbo"
+stam_id: "17613803"
+version_id: "31094962"
+internal_id: "C44514881"
+label_id: "17514184"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051819/2026-01-01/0"
+intitule_bron: "Stcrt.2025-39824"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-11-11"
+intitule_published: "2025-11-24"
+intitule_in_force: "2025-11-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-39824"
+original_signed_date: "2025-11-11"
+original_published_date: "2025-11-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-39824"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051819&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051819&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2025-11-11"
+entry_into_force: "2026-01-01"
 ---
-
 # Regeling declaratievoorschriften en declaratiebepalingen integrale bekostiging geboortezorg
 
 Op grond van de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=35), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=36), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=37) en [38 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=38) (Wmg), alsmede de [Beleidsregel integrale geboortezorg](https://wetten.overheid.nl/jci1.3:c:BWBR0046888), stelt de Nederlandse Zorgautoriteit (NZa) de volgende regeling vast.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt, tenzij anders vermeld, verstaan onder:
 
@@ -58,15 +83,15 @@ In deze regeling wordt, tenzij anders vermeld, verstaan onder:
 
 - **Zwangerschap** Periode tussen de conceptie en de geboorte van een kind of afsluiten van de behandeling inclusief nazorg van een miskraam of buitenbaarmoederlijke zwangerschap.
 
-#### Artikel 2. Doel van de regeling
+##### Artikel 2. Doel van de regeling
 
 Deze regeling heeft als doel het stellen van regels en voorschriften die gelden bij het in rekening brengen van tarieven voor prestaties voor integrale geboortezorg.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze regeling is van toepassing op zorgaanbieders die integrale geboortezorg leveren zoals omschreven in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051819&artikel=1&z=2026-01-01&g=2026-01-01) van deze regeling.
 
-#### Artikel 4. Declaratievoorschriften
+##### Artikel 4. Declaratievoorschriften
 
 4.1. De zorgaanbieder declareert de tarieven voor de prestaties integrale geboortezorg bij de cliënt of bij de zorgverzekeraar waar de cliënt is verzekerd op de startdatum als bedoeld in artikel 4.4.
 
@@ -140,11 +165,11 @@ Prestatie 7: **Geboortezorg postnataal complex**
 
 **Einddatum:** datum waarop de postnatale fase van de zwangerschap eindigt. De postnatale fase van de zwangerschap eindigt 6 weken na de bevalling. Een uitzondering is van toepassing voor het verwijderen van een placentarest. Deze handeling is altijd onderdeel van de verloskundige zorg ongeacht wanneer de verwijdering plaatsvindt.
 
-#### Artikel 5. Intrekken oude regeling
+##### Artikel 5. Intrekken oude regeling
 
 Gelijktijdig met de inwerkingtreding van deze regeling wordt de [Regeling declaratievoorschriften en declaratiebepalingen integrale geboortezorg](https://wetten.overheid.nl/jci1.3:c:BWBR0048545) met kenmerk NR/REG-2405, ingetrokken.
 
-#### Artikel 6. Toepasselijkheid voorafgaande regeling, bekendmaking, inwerkingtreding en citeertitel
+##### Artikel 6. Toepasselijkheid voorafgaande regeling, bekendmaking, inwerkingtreding en citeertitel
 
 De [Regeling declaratievoorschriften en declaratiebepalingen integrale geboortezorg](https://wetten.overheid.nl/jci1.3:c:BWBR0048545), met kenmerk NR/REG-2405, blijft van toepassing op gedragingen (handelen en nalaten) van zorgaanbieders die onder de werkingssfeer van die regeling vielen en die zijn aangevangen – en al dan niet beëindigd – in de periode dat die regeling gold.
 

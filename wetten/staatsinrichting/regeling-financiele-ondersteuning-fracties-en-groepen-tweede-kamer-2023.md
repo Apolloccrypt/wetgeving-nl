@@ -1,16 +1,40 @@
 ---
 title: "Regeling financiële ondersteuning fracties en groepen Tweede Kamer 2023"
 identifier: "BWBR0049921"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2024-07-01
-laatste_update: 2024-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049921"
+country: "nl"
+rank: "reglement"
+publication_date: "2024-07-01"
+last_updated: "2024-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049921"
+soort: "reglement"
+stam_id: "17158043"
+version_id: "30198722"
+internal_id: "C43263761"
+label_id: "17066384"
+dtd_version: "2.0"
+original_entry_into_force: "2024-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049921/2024-07-01/0"
+intitule_bron: "Kst.2024-36386"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-06-13"
+intitule_published: "2024-06-25"
+intitule_in_force: "2024-06-25"
+intitule_status: "goed"
+original_publication: "Kst.2024-36386"
+original_signed_date: "2024-06-13"
+original_published_date: "2024-06-25"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2024-07-01"
+jci_1_3: "jci1.3:c:BWBR0049921&z=2024-07-01&g=2024-07-01"
+jci_1_0: "1.0:c:BWBR0049921&g=2024-07-01"
+citeertitel_status: "officieel"
+signed_date: "2024-06-13"
+entry_into_force: "2024-07-01"
 ---
-
 # Regeling financiële ondersteuning fracties en groepen Tweede Kamer 2023
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze Regeling wordt verstaan onder:
 
@@ -68,7 +92,7 @@ In deze Regeling wordt verstaan onder:
 
 - -. **zitting:** een zitting als bedoeld in [artikel 1.1 van het Reglement van Orde](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&artikel=1.1).
 
-#### Artikel 2. Oprichting en (model)statuten stichting
+##### Artikel 2. Oprichting en (model)statuten stichting
 
 1. Elke fractie of groep richt onverwijld na haar ontstaan een stichting op. De fractie of groep draagt er zorg voor dat de bij haar behorende stichting deze Regeling naleeft.
 
@@ -76,7 +100,7 @@ In deze Regeling wordt verstaan onder:
 
 3. Het Presidium is bevoegd tot wijziging van de modelstatuten. Bij wijziging van de Regeling of de modelstatuten bepaalt het Presidium wat de gevolgen van deze wijziging voor de statuten van reeds opgerichte stichtingen zijn, met dien verstande dat een reeds opgerichte stichting verplicht is de statuten te wijzigen overeenkomstig de Regeling of de modelstatuten indien het Presidium daartoe besluit. Het Presidium deelt iedere wijziging van de modelstatuten en de gevolgen daarvan voor de reeds opgerichte stichtingen mee aan de Tweede Kamer.
 
-#### Artikel 3. Berekening bijdrage en hoogte zetelbedrag
+##### Artikel 3. Berekening bijdrage en hoogte zetelbedrag
 
 1. De bijdrage bestaat uit een bedrag per zetel (zetelbedrag) vermenigvuldigd met het zeteltal. Het zetelbedrag wordt voor een stichting behorende bij een fractie gesteld op eenmaal loonschaal 10 (CAO Rijk) en anderhalf loonschaal 13 (CAO Rijk) exclusief overheadkosten overeenkomstig de tarieven opgenomen in de Handleiding Overheidstarieven. Het zetelbedrag wordt voor een stichting behorende bij een groep gesteld op eenmaal loonschaal 10 (CAO Rijk) en eenmaal loonschaal 13 (CAO Rijk) exclusief overheadkosten overeenkomstig de tarieven opgenomen in de Handleiding Overheidstarieven.
 
@@ -94,7 +118,7 @@ In deze Regeling wordt verstaan onder:
 
 8. Het zesde en zevende lid zijn niet van toepassing op een groep.
 
-#### Artikel 4. Bestemming bijdrage
+##### Artikel 4. Bestemming bijdrage
 
 1. De bijdrage wordt betaald aan de stichting ten gunste van de fractie of groep en onder de voorwaarde dat door de stichting alle rechten en verplichtingen uit deze Regeling worden aanvaard en nageleefd.
 
@@ -110,11 +134,11 @@ In deze Regeling wordt verstaan onder:
 
 - d. giften, met uitzondering van giften mogelijk in het kader van de Regeling.
 
-#### Artikel 5. Bevoorschotting
+##### Artikel 5. Bevoorschotting
 
 De bijdrage wordt in twaalf maandelijkse termijnen als voorschot aan de stichting betaald, tenzij het Presidium anders besluit.
 
-#### Artikel 6. Egalisatiereserve
+##### Artikel 6. Egalisatiereserve
 
 1. Elke stichting is, voor zover er een uit de verantwoording blijkend positief exploitatieresultaat is, verplicht dit exploitatieresultaat als egalisatiereserve aan te houden voor toekomstige kosten als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049921&artikel=4&z=2024-07-01&g=2024-07-01), ten behoeve van de bij haar behorende fractie of groep. Een uit de verantwoording blijkend positief dan wel negatief exploitatieresultaat komt ten gunste onderscheidenlijk ten laste van de egalisatiereserve van de stichting.
 
@@ -124,7 +148,7 @@ De bijdrage wordt in twaalf maandelijkse termijnen als voorschot aan de stichtin
 
 4. Slechts kosten die overeenkomstig artikel 4, tweede lid, voor een bijdrage in aanmerking komen, mogen ten laste van de egalisatiereserve worden gebracht.
 
-#### Artikel 7. Trekkingsrechten
+##### Artikel 7. Trekkingsrechten
 
 1. De trekkingsrechten worden gesteld op de eindstand per 31 december van het kalenderjaar voorafgaand aan het kalenderjaar waarop deze Regeling in werking is getreden. De trekkingsrechten dienen ter dekking van de kosten, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049921&artikel=4&z=2024-07-01&g=2024-07-01).
 
@@ -132,7 +156,7 @@ De bijdrage wordt in twaalf maandelijkse termijnen als voorschot aan de stichtin
 
 3. Het bestuur van de stichting dient eerst de trekkingsrechten aan te wenden alvorens een uit de verantwoording blijkend negatief exploitatieresultaat ten laste van de egalisatiereserve van de stichting kan worden geboekt.
 
-#### Artikel 8. Gevolgen van verkiezingen
+##### Artikel 8. Gevolgen van verkiezingen
 
 1. Indien een fractie als gevolg van verkiezingen nieuw in de Kamer komt, heeft de bij haar behorende stichting vanaf de aanvang van de zitting recht op de bijdrage. Indien een fractie als gevolg van verkiezing niet terug in de Kamer komt, is [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0049921&artikel=13&z=2024-07-01&g=2024-07-01) van toepassing.
 
@@ -148,31 +172,31 @@ De bijdrage wordt in twaalf maandelijkse termijnen als voorschot aan de stichtin
 
 - b. de fractie die naar het oordeel van het Presidium als rechtsopvolger van de oorspronkelijke fractie kan worden beschouwd.
 
-#### Artikel 9. Gevolgen van splitsing
+##### Artikel 9. Gevolgen van splitsing
 
 1. Bij een splitsing bedraagt de gezamenlijke bijdrage aan de stichtingen behorende bij de nieuwgevormde fracties tijdens de resterende periode van de zitting ten hoogste de bijdrage aan de stichting behorende bij de oorspronkelijke fractie, en geschiedt de verdeling van de oorspronkelijke bijdrage tussen de betrokken stichtingen naar evenredigheid van het zeteltal van elk van de nieuwgevormde fracties in verhouding tot het zeteltal van de oorspronkelijke fractie. [Artikel 3, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049921&artikel=3&z=2024-07-01&g=2024-07-01), is gedurende de resterende periode van de zitting niet op de nieuwgevormde fracties van toepassing. De verdeling van de bonuszetel van de oorspronkelijke fractie tussen de nieuwgevormde fracties geschiedt naar evenredigheid van het zeteltal van elk van de nieuwgevormde fracties in verhouding tot het zeteltal van de oorspronkelijke fractie.
 
 2. Bij een splitsing worden alle vermogensbestanddelen van de stichting behorende bij de oorspronkelijke fractie, voor zover in redelijkheid mogelijk, verdeeld naar evenredigheid van het zeteltal van elk van de nieuwgevormde fracties in verhouding tot het zeteltal van de oorspronkelijke fractie. Hiertoe maakt het bestuur van de stichting behorende bij de oorspronkelijke fractie een tussentijdse vermogensopstelling op, als ware er sprake van een vereffening van de stichting. De vermogensopstelling wordt opgemaakt met inachtneming van de indeling en de waarderingsmethoden die in de laatst vastgestelde verantwoording zijn toegepast, tenzij daarvan gemotiveerd wordt afgeweken op de grond dat de actuele waarde belangrijk afwijkt van de boekwaarde. De stichting behorende bij de oorspronkelijke fractie draagt het aldus berekende, evenredige deel van de vermogensbestanddelen onverwijld over aan de stichting(en) behorende bij de nieuwgevormde fracties.
 
-#### Artikel 10. Gevolgen van samenvoeging
+##### Artikel 10. Gevolgen van samenvoeging
 
 1. Bij een samenvoeging bedraagt de bijdrage aan de stichting behorende bij de samengevoegde fractie of groep tijdens de resterende periode van de zitting ten hoogste de bijdragen aan de stichtingen behorende bij de oorspronkelijke fracties of groepen. [Artikel 3, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049921&artikel=3&z=2024-07-01&g=2024-07-01), is gedurende de resterende periode van de zitting van overeenkomstige toepassing op een samengevoegde fractie.
 
 2. Bij een samenvoeging worden alle vermogensbestanddelen van de stichtingen behorende bij de oorspronkelijke fracties of groepen, voor zover in redelijkheid mogelijk, samengevoegd. Hiertoe maken de besturen van de stichtingen behorende bij de oorspronkelijke fracties of groepen een tussentijdse vermogensopstelling op, als ware er sprake van een vereffening van de stichtingen. De vermogensopstelling wordt opgemaakt met inachtneming van de indeling en de waarderingsmethoden die in de laatst vastgestelde verantwoording zijn toegepast, tenzij daarvan gemotiveerd wordt afgeweken op de grond dat de actuele waarde belangrijk afwijkt van de boekwaarde. De stichtingen behorende bij de oorspronkelijke fracties of groepen dragen vervolgens de vermogensbestanddelen onverwijld over aan de stichting behorende bij de samengevoegde fractie of groep.
 
-#### Artikel 11. Gevolgen van afscheiding
+##### Artikel 11. Gevolgen van afscheiding
 
 1. Bij een afscheiding is de bijdrage aan de stichting behorende bij de oorspronkelijke fractie tijdens de resterende periode van de zitting gelijk aan haar voorafgaand aan de afscheiding ontvangen bijdrage minus de krachtens artikel 3 vast te stellen bijdrage(n) aan de stichting(en) behorende bij de afgescheiden groep(en).
 
 2. Bij een afscheiding blijven alle vermogensbestanddelen van de stichting behorende bij de oorspronkelijke fractie van deze stichting, tenzij het bestuur van de stichting behorende bij de oorspronkelijke fractie anders besluit, met dien verstande dat het bestuur van de stichting behorende bij de oorspronkelijke fractie in het geval van een afscheiding niet kan besluiten tot overdracht van de trekkingsrechten, of een gedeelte daarvan.
 
-#### Artikel 12. Gevolgen van deling
+##### Artikel 12. Gevolgen van deling
 
 1. Bij een deling bedraagt de gezamenlijke bijdrage aan de stichtingen behorende bij de nieuwgevormde groepen tijdens de resterende periode van de zitting ten hoogste de bijdrage aan de stichting behorende bij de oorspronkelijke groep, en geschiedt de verdeling van de oorspronkelijke bijdrage tussen de betrokken stichtingen naar evenredigheid van het zeteltal van elk van de nieuwgevormde groepen in verhouding tot het zeteltal van de oorspronkelijke groep.
 
 2. Bij een deling worden alle vermogensbestanddelen van de stichting behorende bij de oorspronkelijke groep, voor zover in redelijkheid mogelijk, verdeeld naar evenredigheid van het zeteltal van elk van de nieuwgevormde groepen in verhouding tot het zeteltal van de oorspronkelijke groep. Hiertoe maakt het bestuur van de stichting behorende bij de oorspronkelijke groep een tussentijdse vermogensopstelling op, als ware er sprake van een vereffening van de stichting. De vermogensopstelling wordt opgemaakt met inachtneming van de indeling en de waarderingsmethoden die in de laatst vastgestelde verantwoording zijn toegepast, tenzij daarvan gemotiveerd wordt afgeweken op de grond dat de actuele waarde belangrijk afwijkt van de boekwaarde. De stichting behorende bij de oorspronkelijke groep draagt het aldus berekende, evenredige deel van de vermogensbestanddelen onverwijld over aan de stichting(en) behorende bij de nieuwgevormde groepen.
 
-#### Artikel 13. Gevolgen van ophouden te bestaan
+##### Artikel 13. Gevolgen van ophouden te bestaan
 
 1. Indien een fractie of groep ophoudt te bestaan, vervalt de bijdrage aan de bij haar behorende stichting op de eerste dag van de zesde kalendermaand na de aanvang van het ophouden te bestaan zoals blijkt uit de Handelingen der Tweede Kamer.
 
@@ -180,7 +204,7 @@ De bijdrage wordt in twaalf maandelijkse termijnen als voorschot aan de stichtin
 
 3. Het bestuur van een stichting is verplicht om binnen twaalf kalendermaanden nadat de bij haar behorende fractie of groep is opgehouden te bestaan, de stichting te hebben ontbonden en, indien nodig, vereffend. Zodra de stichting is opgehouden te bestaan, stuurt het bestuur van de stichting aan het Presidium een bewijs van uitschrijving van de registers waaraan van de ontbinding van de betreffende stichting opgaaf is gedaan.
 
-#### Artikel 14. Indienen verantwoording
+##### Artikel 14. Indienen verantwoording
 
 1. Het bestuur van een stichting dient voor 1 juli van elk kalenderjaar bij het Presidium een door het bestuur van de stichting ondertekende verantwoording over het voorgaande kalenderjaar in. Deze verantwoording dient:
 
@@ -194,7 +218,7 @@ De bijdrage wordt in twaalf maandelijkse termijnen als voorschot aan de stichtin
 
 3. De Auditdienst Rijk kan op eigen initiatief de accountant verzoeken inzicht te bieden in zijn controlewerkzaamheden. De accountant verleent zijn medewerking hieraan en stelt desgevraagd alle relevante documentatie ter beschikking van de Auditdienst Rijk. De kosten die de accountant voor deze werkzaamheden in rekening brengt, worden door de stichting betaald.
 
-#### Artikel 15. Goedkeuren verantwoording en vaststellen definitieve bijdrage
+##### Artikel 15. Goedkeuren verantwoording en vaststellen definitieve bijdrage
 
 1. Het Presidium dient voor 1 november van elk kalenderjaar de verantwoording, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049921&artikel=14&z=2024-07-01&g=2024-07-01), goed te keuren en de definitieve bijdrage van een stichting over het voorafgaande kalenderjaar vast te stellen.
 
@@ -204,35 +228,35 @@ De bijdrage wordt in twaalf maandelijkse termijnen als voorschot aan de stichtin
 
 4. Kosten van de stichting die niet passen binnen de bestemming van de bijdrage, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049921&artikel=4&z=2024-07-01&g=2024-07-01), worden door de stichting terugbetaald aan de Tweede Kamer.
 
-#### Artikel 16. Openbaarmaking
+##### Artikel 16. Openbaarmaking
 
 1. Het Presidium zendt, na vaststelling van de definitieve bijdrage, de door het bestuur van de stichting opgestelde en ondertekende verantwoording, voorzien van de goedkeurende controleverklaring, aan de Tweede Kamer.
 
 2. De stukken, bedoeld in het eerste lid, zijn openbaar.
 
-#### Artikel 17. Maatregelen bij niet-nakoming
+##### Artikel 17. Maatregelen bij niet-nakoming
 
 1. Het Presidium kan bij het door de stichting, of de bij haar behorende fractie of groep, niet nakomen van de Regeling de maatregelen nemen die het Presidium passend acht.
 
 2. Het Presidium stelt het bestuur van de stichting vooraf in de gelegenheid te worden gehoord.
 
-#### Artikel 18. Onvoorziene gevallen
+##### Artikel 18. Onvoorziene gevallen
 
 In alle gevallen waarin niet bij of krachtens deze Regeling is voorzien, besluit het Presidium.
 
-#### Artikel 19. Uitvoering Regeling
+##### Artikel 19. Uitvoering Regeling
 
 De Griffier, of een door de Griffier daartoe gemachtigde ambtenaar van de Tweede Kamer, is namens het Presidium verantwoordelijk voor de uitvoering van deze Regeling.
 
-#### Artikel 20. Intrekkingsbepaling
+##### Artikel 20. Intrekkingsbepaling
 
 De Regeling financiële ondersteuning fracties Tweede Kamer 2014 wordt ingetrokken.
 
-#### Artikel 21. Inwerkingtreding
+##### Artikel 21. Inwerkingtreding
 
 Deze Regeling treedt in werking met ingang van een door de Kamer te bepalen tijdstip.
 
-#### Artikel 22. Citeertitel
+##### Artikel 22. Citeertitel
 
 Deze Regeling wordt aangehaald als: Regeling financiële ondersteuning fracties en groepen Tweede Kamer 2023.
 

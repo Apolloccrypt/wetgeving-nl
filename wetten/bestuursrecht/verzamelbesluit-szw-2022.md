@@ -1,108 +1,134 @@
 ---
-title: "Verzamelbesluit SZW 2022"
+title: "Besluit van 13 december 2021 tot wijziging van diverse algemene maatregelen van bestuur van het Ministerie van Sociale Zaken en Werkgelegenheid in verband met kleine beleidsmatige, technische en redactionele wijzigingen (Verzamelbesluit SZW 2022)"
 identifier: "BWBR0046050"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-01-01
-laatste_update: 2022-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046050"
+country: "nl"
+rank: "amvb"
+publication_date: "2022-01-01"
+last_updated: "2022-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046050"
+soort: "AMvB"
+stam_id: "16190633"
+version_id: "28254912"
+internal_id: "C39838021"
+label_id: "16119024"
+dtd_version: "2.0"
+original_entry_into_force: "2021-12-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046050/2022-01-01/0"
+intitule_bron: "Stb.2021-629"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-12-13"
+intitule_published: "2021-12-20"
+intitule_in_force: "2021-12-20"
+intitule_status: "goed"
+original_publication: "Stb.2021-629"
+original_signed_date: "2021-12-13"
+original_published_date: "2021-12-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2021-629"
+entry_into_force_date: "2021-12-21"
+jci_1_3: "jci1.3:c:BWBR0046050&z=2022-01-01&g=2022-01-01"
+jci_1_0: "1.0:c:BWBR0046050&g=2022-01-01"
+citeertitel_status: "officieel"
+short_title: "Verzamelbesluit SZW 2022"
+signed_date: "2021-12-13"
+entry_into_force: "2021-12-21"
 ---
-
 # Besluit van 13 december 2021 tot wijziging van diverse algemene maatregelen van bestuur van het Ministerie van Sociale Zaken en Werkgelegenheid in verband met kleine beleidsmatige, technische en redactionele wijzigingen (Verzamelbesluit SZW 2022)
 
-#### Artikel I. [Algemeen inkomensbesluit socialezekerheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0029368)
+##### Artikel I. [Algemeen inkomensbesluit socialezekerheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0029368)
 
 Wijzigt het Algemeen inkomensbesluit socialezekerheidswetten.
 
-#### Artikel II. [Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516)
+##### Artikel II. [Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516)
 
 Wijzigt het Besluit algemene rechtspositie politie.
 
-#### Artikel III. [Besluit allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0036578)
+##### Artikel III. [Besluit allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0036578)
 
 Wijzigt het Besluit allocatie arbeidskrachten door intermediairs.
 
-#### Artikel IV. [Besluit beslagvrije voet](https://wetten.overheid.nl/jci1.3:c:BWBR0041895)
+##### Artikel IV. [Besluit beslagvrije voet](https://wetten.overheid.nl/jci1.3:c:BWBR0041895)
 
 Wijzigt het Besluit beslagvrije voet.
 
-#### Artikel V. [Besluit garantiebedrag Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0043909)
+##### Artikel V. [Besluit garantiebedrag Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0043909)
 
 Wijzigt het Besluit garantiebedrag Wajong.
 
-#### Artikel VI. [Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674)
+##### Artikel VI. [Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674)
 
 Wijzigt het Besluit inburgering.
 
-#### Artikel VII. [Besluit inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045555)
+##### Artikel VII. [Besluit inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045555)
 
 Wijzigt het Besluit inburgering 2021.
 
-#### Artikel VIII. [Besluit inlichtingenverplichtingen werknemersverzekeringen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028535)
+##### Artikel VIII. [Besluit inlichtingenverplichtingen werknemersverzekeringen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028535)
 
 Wijzigt het Besluit inlichtingenverplichtingen werknemersverzekeringen BES
 
-#### Artikel IX. [Besluit landelijk register kinderopvang, register buitenlandse kinderopvang en personenregister kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0030892)
+##### Artikel IX. [Besluit landelijk register kinderopvang, register buitenlandse kinderopvang en personenregister kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0030892)
 
 Wijzigt het Besluit landelijk register kinderopvang, register buitenlandse kinderopvang en personenregister kinderopvang.
 
-#### Artikel X. [Besluit minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008222)
+##### Artikel X. [Besluit minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008222)
 
 Wijzigt het Besluit minimumloon en minimumvakantiebijslag.
 
-#### Artikel XI. [Besluit omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0027464)
+##### Artikel XI. [Besluit omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0027464)
 
 Wijzigt het Besluit omgevingsrecht.
 
-#### Artikel XII. [Besluit ontheffing verplichtingen sociale zekerheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0020483)
+##### Artikel XII. [Besluit ontheffing verplichtingen sociale zekerheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0020483)
 
 Wijzigt het Besluit ontheffing verplichtingen sociale zekerheidswetten.
 
-#### Artikel XIII. [Besluit passende arbeid WW en ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0036081)
+##### Artikel XIII. [Besluit passende arbeid WW en ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0036081)
 
 Wijzigt het Besluit passende arbeid WW en ZW.
 
-#### Artikel XIV. [Besluit politiegegevens bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0026117)
+##### Artikel XIV. [Besluit politiegegevens bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0026117)
 
 Wijzigt het Besluit politiegegevens bijzondere opsporingsdiensten.
 
-#### Artikel XV. [Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530)
+##### Artikel XV. [Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530)
 
 Wijzigt het Besluit rechtspositie rechterlijke ambtenaren.
 
-#### Artikel XVI. [Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267)
+##### Artikel XVI. [Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267)
 
 Wijzigt het Besluit SUWI.
 
-#### Artikel XVII. Besluit uitvoering Wet arbeid vreemdelingen 2022
+##### Artikel XVII. Besluit uitvoering Wet arbeid vreemdelingen 2022
 
 Wijzigt het Besluit uitvoering Wet arbeid vreemdelingen 2022.
 
-#### Artikel XVIII. [Besluit verwijzingsportaal bankgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0043903)
+##### Artikel XVIII. [Besluit verwijzingsportaal bankgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0043903)
 
 Wijzigt het Besluit verwijzingsportaal bankgegevens.
 
-#### Artikel XIX. [Besluit wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070)
+##### Artikel XIX. [Besluit wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070)
 
 Wijzigt het Besluit Wfsv.
 
-#### Artikel XX. [Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040)
+##### Artikel XX. [Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040)
 
 Wijzigt het Burgerlijk ambtenarenreglement defensie.
 
-#### Artikel XXI. [Dagloonbesluit werknemersverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0033471)
+##### Artikel XXI. [Dagloonbesluit werknemersverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0033471)
 
 Wijzigt het Dagloonbesluit werknemersverzekeringen.
 
-#### Artikel XXII. [Maatregelenbesluit socialezekerheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0022445)
+##### Artikel XXII. [Maatregelenbesluit socialezekerheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0022445)
 
 Wijzigt het Maatregelenbesluit socialezekerheidswetten.
 
-#### Artikel XXIII. [Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825)
+##### Artikel XXIII. [Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825)
 
 Wijzigt het Vreemdelingenbesluit 2000.
 
-#### Artikel XXIV. Inwerkingtreding
+##### Artikel XXIV. Inwerkingtreding
 
 1. Dit besluit treedt in werking met ingang van 1 januari 2022, met uitzondering van de in de volgende leden genoemde onderdelen.
 
@@ -114,7 +140,7 @@ Wijzigt het Vreemdelingenbesluit 2000.
 
 5. [Artikel XIX, onderdeel B, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046050&artikel=XIX&z=2022-01-01&g=2022-01-01), treedt in werking met ingang van 1 januari 2023.
 
-#### Artikel XXV. Citeertitel
+##### Artikel XXV. Citeertitel
 
 Dit besluit wordt aangehaald als: Verzamelbesluit SZW 2022.
 

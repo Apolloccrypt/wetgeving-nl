@@ -1,13 +1,32 @@
 ---
 title: "Protocol betreffende de authentieke tekst in zes talen van het op 7 december 1944 te Chicago tot stand gekomen Verdrag inzake de internationale burgerluchtvaart"
 identifier: "BWBV0005419"
-categorie: "Milieu"
-publicatiedatum: 1998-10-01
-laatste_update: 1998-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005419"
+country: "nl"
+rank: "verdrag"
+publication_date: "1998-10-01"
+last_updated: "1998-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005419"
+soort: "verdrag"
+stam_id: "10004625333"
+version_id: "10004879842"
+internal_id: "C10007328021"
+label_id: "10004609744"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005419/1998-10-01/0"
+intitule_bron: "Trb.1999-48"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1999-03-24"
+intitule_status: "nogniet"
+original_publication: "Trb.1999-48"
+original_published_date: "1999-03-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1999-48"
+jci_1_3: "jci1.3:c:BWBV0005419&z=1998-10-01&g=1998-10-01"
+jci_1_0: "1.0:c:BWBV0005419&g=1998-10-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1999-03-24"
 ---
-
 # Protocol betreffende de authentieke tekst in zes talen van het op 7 december 1944 te Chicago tot stand gekomen Verdrag inzake de internationale burgerluchtvaart
 
 The undersigned Governments
@@ -28,15 +47,15 @@ Considering that in making such provision account must be taken of the existing 
 
 Have agreed as follows:
 
-#### Article I
+##### Article I
 
 The text of the Convention and of the amendments thereto in the Chinese language annexed to this Protocol, together with the text of the Convention and of the amendments thereto in the English, Arabic, French, Russian and Spanish languages, constitutes a text equally authentic in the six languages.
 
-#### Article II
+##### Article II
 
 If a State party to this Protocol has ratified or in the future ratifies any amendment made to the Convention in accordance with Article 94(a) thereof, then the text of such amendment in the English, Arabic, Chinese, French, Russian and Spanish languages shall be deemed to refer to the text equally authentic in the six languages, which results from this Protocol.
 
-#### Article III
+##### Article III
 
 1. The States members of the International Civil Aviation Organization may become parties to the present Protocol either by:
 
@@ -52,31 +71,31 @@ If a State party to this Protocol has ratified or in the future ratifies any ame
 
 4. Adherence to or ratification or approval of this Protocol shall be deemed to be acceptance thereof.
 
-#### Article IV
+##### Article IV
 
 1. This Protocol shall come into force on the thirtieth day after twelve States shall, in accordance with the provisions of Article III, have signed it without reservation as to acceptance or accepted it and after entry into force of the amendment to the final clause of the Convention adopted on 1 October 1998, which provides that the text of the Convention in the Chinese language is of equal authenticity.
 
 2. As regards any State which shall subsequently become a party to this Protocol in accordance with Article III, the Protocol shall come into force on the date of its signature without reservation as to acceptance or of its acceptance.
 
-#### Article V
+##### Article V
 
 Any adherence of a State to the Convention after this Protocol has entered into force shall be deemed to be acceptance of this Protocol.
 
-#### Article VI
+##### Article VI
 
 Acceptance by a State of this Protocol shall not be regarded as ratification by it of any amendment to the Convention.
 
-#### Article VII
+##### Article VII
 
 As soon as this Protocol comes into force, it shall be registered with the United Nations and with the International Civil Aviation Organization by the Government of the United States of America.
 
-#### Article VIII
+##### Article VIII
 
 1. This Protocol shall remain in force so long as the Convention is in force.
 
 2. This Protocol shall cease to be in force for a State only when that State ceases to be a party to the Convention.
 
-#### Article IX
+##### Article IX
 
 The Government of the United States of America shall give notice to all States members of the International Civil Aviation Organization and to the Organization itself:
 
@@ -86,7 +105,7 @@ The Government of the United States of America shall give notice to all States m
 
 - c). of the date on which this Protocol comes into force in accordance with the provisions of Article IV, paragraph 1.
 
-#### Article X
+##### Article X
 
 This Protocol, drawn up in the English, Arabic, Chinese, French, Russian and Spanish languages, each text being equally authentic, shall be deposited in the archives of the Government of the United States of America, which shall transmit duly certified copies thereof to the Governments of the States members of the International Civil Aviation Organization.
 

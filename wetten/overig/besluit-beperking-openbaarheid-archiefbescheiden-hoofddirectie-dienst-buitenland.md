@@ -1,13 +1,39 @@
 ---
-title: "Besluit beperking openbaarheid archiefbescheiden Hoofddirectie Dienst Buitenlandse Zaken en Hoofddirectie Personeel en Organisatie, personeelsdossiers, Besluit Beperking Openbaarheid Hoofddirectie Dienst Buitenlandse Zaken en Hoofddirectie Personeel en Organisatie, personeelsdossiers (1945) 1985–2010"
+title: "Besluit van de Minister van Buitenlandse Zaken van 8 mei 2023, houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Hoofddirectie Dienst Buitenlandse Zaken en Hoofddirectie Personeel en Organisatie, personeelsdossiers, Besluit Beperking Openbaarheid Hoofddirectie Dienst Buitenlandse Zaken en Hoofddirectie Personeel en Organisatie, personeelsdossiers (1945) 1985–2010"
 identifier: "BWBR0048160"
-categorie: "Overig"
-publicatiedatum: 2023-05-18
-laatste_update: 2023-05-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048160"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-05-18"
+last_updated: "2023-05-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048160"
+soort: "ministeriele-regeling"
+stam_id: "16746193"
+version_id: "29405072"
+internal_id: "C42042991"
+label_id: "16662134"
+dtd_version: "2.0"
+original_entry_into_force: "2023-05-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048160/2023-05-18/0"
+intitule_bron: "Stcrt.2023-13970"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-05-08"
+intitule_published: "2023-05-17"
+intitule_in_force: "2023-05-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-13970"
+original_signed_date: "2023-05-08"
+original_published_date: "2023-05-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-13970"
+entry_into_force_date: "2023-05-18"
+jci_1_3: "jci1.3:c:BWBR0048160&z=2023-05-18&g=2023-05-18"
+jci_1_0: "1.0:c:BWBR0048160&g=2023-05-18"
+citeertitel_status: "redactioneel"
+short_title: "Besluit beperking openbaarheid archiefbescheiden Hoofddirectie Dienst Buitenlandse Zaken en Hoofddirectie Personeel en Organisatie, personeelsdossiers, Besluit Beperking Openbaarheid Hoofddirectie Dienst Buitenlandse Zaken en Hoofddirectie Personeel en Organisatie, personeelsdossiers (1945) 1985–2010"
+signed_date: "2023-05-08"
+entry_into_force: "2023-05-18"
 ---
-
 # Besluit van de Minister van Buitenlandse Zaken van 8 mei 2023, houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Hoofddirectie Dienst Buitenlandse Zaken en Hoofddirectie Personeel en Organisatie, personeelsdossiers, Besluit Beperking Openbaarheid Hoofddirectie Dienst Buitenlandse Zaken en Hoofddirectie Personeel en Organisatie, personeelsdossiers (1945) 1985–2010
 
 Overwegende dat een aantal inventarisnummers in het archief beperkingen aan de openbaarheid behoeven;
@@ -16,7 +42,7 @@ Gelet op [artikel 15, eerste lid, onder a, van de Archiefwet 1995](https://wette
 
 Besluit
 
-#### Artikel 1
+##### Artikel 1
 
 Met het oog op de bescherming van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste, derde en vijfde kolom, beperkt openbaar tot 1 januari van het jaar, genoemd in de kolom rechts van het inventarisnummer. Het gaat om inventarisnummers met o.a. bijzondere persoonsgegevens van de (mogelijk) nog levende personen.
 
@@ -443,15 +469,15 @@ Met het oog op de bescherming van de persoonlijke levenssfeer zijn de inventaris
 | 455 | 2035 | 890 | 2057 |   |   |
 | 456 | 2035 | 892 | 2046 |   |   |
 
-#### Artikel 2
+##### Artikel 2
 
 Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048160&artikel=1&z=2023-05-18&g=2023-05-18), is, tot openbaring, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemene rijksarchivaris, die aan haar toestemming voorwaarden kan verbinden. De algemene rijksarchivaris behandelt verzoeken tot raadpleging in de inventarisnummers, volgens de procedures die gelden voor inzage in archieven met bijzondere persoonsgegevens.
 
-#### Artikel 3
+##### Artikel 3
 
 Het vervaardigen van reproducties van documenten geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048160&artikel=1&z=2023-05-18&g=2023-05-18) is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemene rijksarchivaris, die aan zijn toestemming voorwaarden kan verbinden.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 

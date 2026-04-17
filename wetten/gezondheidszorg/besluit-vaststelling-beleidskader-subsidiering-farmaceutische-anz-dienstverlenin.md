@@ -1,36 +1,62 @@
 ---
-title: "Besluit vaststelling beleidskader subsidiëring farmaceutische ANZ-dienstverlening 2018"
+title: "Besluit van de Minister voor Medische Zorg van 16 november 2017, kenmerk 1248688-169690-GMT, houdende vaststelling van beleidsregels voor het subsidiëren van zorgaanbieders van farmaceutische ANZ-dienstverlening (Besluit vaststelling beleidskader subsidiëring farmaceutische ANZ-dienstverlening 2018)"
 identifier: "BWBR0040224"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2018-01-01
-laatste_update: 2018-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040224"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2018-01-01"
+last_updated: "2018-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040224"
+soort: "ministeriele-regeling"
+stam_id: "14421663"
+version_id: "24658342"
+internal_id: "C35278731"
+label_id: "14382234"
+dtd_version: "2.0"
+original_entry_into_force: "2018-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040224/2018-01-01/0"
+intitule_bron: "Stcrt.2017-67244"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-11-16"
+intitule_published: "2017-11-24"
+intitule_in_force: "2017-11-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-67244"
+original_signed_date: "2017-11-16"
+original_published_date: "2017-11-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-67244"
+entry_into_force_date: "2018-01-01"
+jci_1_3: "jci1.3:c:BWBR0040224&z=2018-01-01&g=2018-01-01"
+jci_1_0: "1.0:c:BWBR0040224&g=2018-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit vaststelling beleidskader subsidiëring farmaceutische ANZ-dienstverlening 2018"
+signed_date: "2017-11-16"
+entry_into_force: "2018-01-01"
 ---
-
 # Besluit van de Minister voor Medische Zorg van 16 november 2017, kenmerk 1248688-169690-GMT, houdende vaststelling van beleidsregels voor het subsidiëren van zorgaanbieders van farmaceutische ANZ-dienstverlening (Besluit vaststelling beleidskader subsidiëring farmaceutische ANZ-dienstverlening 2018)
 
 Gelet op [artikel 1.3 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De beleidsregels voor het verstrekken van subsidies aan zorgaanbieders van farmaceutische ANZ-dienstverlening worden vastgesteld overeenkomstig de bijlage bij dit besluit.
 
-#### Artikel 2
+##### Artikel 2
 
 [Artikel 7.5, tweede lid, van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.5) is op subsidies op grond van dit beleidskader niet van toepassing.
 
-#### Artikel 3
+##### Artikel 3
 
 Wijzigt de Kaderregeling subsidies OCW, SZW en VWS.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking op 1 januari 2018. Dit besluit vervalt met ingang van 1 januari 2020.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling wordt aangehaald als: Besluit vaststelling beleidskader subsidiëring farmaceutische ANZ-dienstverlening 2018.
 

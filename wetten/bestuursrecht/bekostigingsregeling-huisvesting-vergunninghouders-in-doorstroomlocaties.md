@@ -1,13 +1,39 @@
 ---
-title: "Bekostigingsregeling huisvesting vergunninghouders in doorstroomlocaties"
+title: "Regeling van de Asiel en Migratie van 4 april 2025, nr. 6265994, houdende een specifieke uitkering voor gemeenten in verband met de bekostiging van huisvesting van vergunninghouders in doorstroomlocaties (Bekostigingsregeling huisvesting vergunninghouders in doorstroomlocaties)"
 identifier: "BWBR0050928"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-04-09
-laatste_update: 2025-04-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050928"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-04-09"
+last_updated: "2025-04-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050928"
+soort: "ministeriele-regeling"
+stam_id: "17401063"
+version_id: "30680532"
+internal_id: "C43982961"
+label_id: "17304364"
+dtd_version: "2.0"
+original_entry_into_force: "2025-04-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050928/2025-04-09/0"
+intitule_bron: "Stcrt.2025-11378"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-04-04"
+intitule_published: "2025-04-08"
+intitule_in_force: "2025-04-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-11378"
+original_signed_date: "2025-04-04"
+original_published_date: "2025-04-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-11378"
+entry_into_force_date: "2025-04-09"
+jci_1_3: "jci1.3:c:BWBR0050928&z=2025-04-09&g=2025-04-09"
+jci_1_0: "1.0:c:BWBR0050928&g=2025-04-09"
+citeertitel_status: "officieel"
+short_title: "Bekostigingsregeling huisvesting vergunninghouders in doorstroomlocaties"
+signed_date: "2025-04-04"
+entry_into_force: "2025-04-09"
 ---
-
 # Regeling van de Asiel en Migratie van 4 april 2025, nr. 6265994, houdende een specifieke uitkering voor gemeenten in verband met de bekostiging van huisvesting van vergunninghouders in doorstroomlocaties (Bekostigingsregeling huisvesting vergunninghouders in doorstroomlocaties)
 
 Handelende in overeenstemming met het gevoelen van de ministerraad;
@@ -16,7 +42,7 @@ Gelet op [artikel 17, vijfde lid, van de Financiële-verhoudingswet](https://wet
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -38,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 - –. **vergunninghouder:** vreemdeling als bedoeld in [artikel 3, derde lid, onder c, e, k en l, van de Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=3), aan wie de verblijfsvergunning is verleend.
 
-#### Artikel 2. Verstrekking van een specifieke uitkering
+##### Artikel 2. Verstrekking van een specifieke uitkering
 
 1. Onze Minister kan voor maximaal 8.500 te realiseren doorstroomplekken voor de jaren 2024, 2025, 2026, 2027 en 2028 aan het college van burgemeesters en wethouders van een doorstroomgemeente een uitkering verstrekken ter bekostiging van:
 
@@ -48,7 +74,7 @@ In deze regeling wordt verstaan onder:
 
 2. De uitkering, bedoeld in het eerste lid, wordt op aanvraag verstrekt.
 
-#### Artikel 3. Aanvraag tot verlening van een specifieke uitkering
+##### Artikel 3. Aanvraag tot verlening van een specifieke uitkering
 
 1. De aanvraag voor de transitie- en uitvoeringskosten, bedoeld in [artikel 2, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0050928&artikel=2&z=2025-04-09&g=2025-04-09), kan tot uiterlijk 1 oktober 2027 worden ingediend.
 
@@ -58,7 +84,7 @@ In deze regeling wordt verstaan onder:
 
 4. De aanvraag tot verlening van de uitkering kan alleen zien op activiteiten die nog worden verricht of die reeds in het kalenderjaar waarin de aanvraag wordt gedaan zijn verricht. De aanvraag dient uiterlijk 1 november van een kalenderjaar te zijn gedaan, met uitzondering van het kalenderjaar 2024. De aanvragen voor activiteiten over het kalenderjaar 2024 dienen uiterlijk 1 mei 2025 te zijn ingediend.
 
-#### Artikel 4. Weigeringsgronden
+##### Artikel 4. Weigeringsgronden
 
 Onze Minister wijst een aanvraag geheel of gedeeltelijk af indien:
 
@@ -68,7 +94,7 @@ Onze Minister wijst een aanvraag geheel of gedeeltelijk af indien:
 
 - 3. Indien er voor reeds 8.500 doorstroomplekken een specifieke uitkering is verleend.
 
-#### Artikel 5. Eisen aan de doorstroomlocatie
+##### Artikel 5. Eisen aan de doorstroomlocatie
 
 1. De doorstroomlocatie dient geschikt te zijn voor bewoning in een woonruimte als bedoeld in [artikel 1, eerste lid, van de Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=1) en ten minste te bevatten:
 
@@ -92,7 +118,7 @@ Onze Minister wijst een aanvraag geheel of gedeeltelijk af indien:
 
 - c. een combinatie van zelfstandige en niet-zelfstandige wooneenheden, met, eventueel gedeelde, kookgelegenheid en sanitaire voorzieningen.
 
-#### Artikel 6. Hoogte van de specifieke uitkering
+##### Artikel 6. Hoogte van de specifieke uitkering
 
 1. Doorstroomgemeenten ontvangen ter bekostiging van de uitvoeringskosten, bedoeld in [artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0050928&artikel=2&z=2025-04-09&g=2025-04-09):
 
@@ -110,7 +136,7 @@ Onze Minister wijst een aanvraag geheel of gedeeltelijk af indien:
 
 6. De specifieke uitkering wordt niet verstrekt voor activiteiten verricht voor 1 januari 2024 of na 31 december 2028.
 
-#### Artikel 7. Eisen aan doelgroep
+##### Artikel 7. Eisen aan doelgroep
 
 1. Het college van burgemeester en wethouders van de doorstroomgemeente huisvest vergunninghouders in een doorstroomlocatie indien:
 
@@ -128,23 +154,23 @@ Onze Minister wijst een aanvraag geheel of gedeeltelijk af indien:
 
 - b. de specifieke situatie en bijzondere behoeften aan huisvesting van kwetsbare vergunninghouders. Hieronder wordt in ieder geval verstaan: personen met een handicap, ouderen, zwangere vrouwen, alleenstaande ouders met minderjarige kinderen, personen met ernstige ziekten en personen met mentale stoornissen.
 
-#### Artikel 8. Verstrekking en voorschot
+##### Artikel 8. Verstrekking en voorschot
 
 1. Onze Minister verstrekt bij verlening van de specifieke uitkering een voorschot van 100 procent dat in verschillende termijnen kan worden betaald.
 
 2. Indien het na verlening van de specifieke uitkering aannemelijk is geworden dat de uitvoeringskosten hoger of lager zullen uitvallen dan het verleende bedrag, dan kan Onze Minister het verleende voor de vaststelling verhogen of verlagen en dit verrekenen met nog te betalen termijnen.
 
-#### Artikel 9. Verantwoording
+##### Artikel 9. Verantwoording
 
 De gemeenten leggen uiterlijk 15 juli van het jaar dat volgt op het jaar van de bestedingsperiode verantwoording af over de besteding van de specifieke uitkering. [Artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a) is van toepassing.
 
-#### Artikel 10. Informatievoorziening na uitkering
+##### Artikel 10. Informatievoorziening na uitkering
 
 1. Onze Minister kan bij ingebruikname en gedurende de exploitatie van een doorstroomlocatie informatie opvragen bij de doorstroomgemeente en eventuele deelnemende regiogemeenten over de bezettingsgraad van de doorstroomlocatie.
 
 2. Gemeenten verstrekken op verzoek van Onze Minister informatie ten behoeve van de voortgang en evaluatie van de doelmatigheid en doeltreffendheid van de activiteiten waarvoor de specifieke uitkering is verstrekt.
 
-#### Artikel 11. Procedure tot vaststelling van de uitkering
+##### Artikel 11. Procedure tot vaststelling van de uitkering
 
 Onze Minister stelt de uitkering uiterlijk op 31 december 2029 vast. Onze Minister kan de uitkering lager vaststellen, indien:
 
@@ -158,17 +184,17 @@ Onze Minister stelt de uitkering uiterlijk op 31 december 2029 vast. Onze Minist
 
 - e. de doorstroomlocatie minder lang als zodanig ingezet wordt of als de bezetting lager is geweest dan waarvoor de specifieke uitkering is verleend.
 
-#### Artikel 12. Terugvordering
+##### Artikel 12. Terugvordering
 
 Onverschuldigde betaalde uitkeringsbedragen en voorschotten kunnen worden teruggevorderd, voor zover na de dag waarop de beschikking waarbij de uitkering wordt vastgesteld is bekendgemaakt, nog geen vijf jaren zijn verstreken.
 
-#### Artikel 13. Inwerkingtreding en verval
+##### Artikel 13. Inwerkingtreding en verval
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt op 1 januari 2029 met dien verstande dat zij van toepassing blijft op specifieke uitkeringen die voor die datum zijn verleend.
 
-#### Artikel 14. Citeertitel
+##### Artikel 14. Citeertitel
 
 Deze regeling wordt aangehaald als: Bekostigingsregeling huisvesting vergunninghouders in doorstroomlocaties.
 

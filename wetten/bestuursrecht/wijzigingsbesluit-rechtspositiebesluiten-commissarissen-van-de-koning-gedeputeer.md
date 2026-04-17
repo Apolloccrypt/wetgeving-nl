@@ -1,13 +1,39 @@
 ---
-title: "Wijzigingsbesluit Rechtspositiebesluiten commissarissen van de Koning, gedeputeerden, burgemeesters 1994 en wethouders"
+title: "Besluit van 2 oktober 2003 tot wijziging van het Rechtspositiebesluit commissarissen van de Koning, het Rechtspositiebesluit gedeputeerden, het Rechtspositiebesluit burgemeesters 1994 en het Rechtspositiebesluit wethouders"
 identifier: "BWBR0015679"
-categorie: "Bestuursrecht"
-publicatiedatum: 2004-01-01
-laatste_update: 2004-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015679"
+country: "nl"
+rank: "amvb"
+publication_date: "2004-01-01"
+last_updated: "2004-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015679"
+soort: "AMvB"
+stam_id: "5456413"
+version_id: "9833842"
+internal_id: "C13291591"
+label_id: "5430934"
+dtd_version: "2.0"
+original_entry_into_force: "2004-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015679/2004-01-01/0"
+intitule_bron: "Stb.2003-432"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-10-02"
+intitule_published: "2003-11-04"
+intitule_in_force: "2003-11-04"
+intitule_status: "goed"
+original_publication: "Stb.2003-432"
+original_signed_date: "2003-10-02"
+original_published_date: "2003-11-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2003-432"
+entry_into_force_date: "2004-01-01"
+jci_1_3: "jci1.3:c:BWBR0015679&z=2004-01-01&g=2004-01-01"
+jci_1_0: "1.0:c:BWBR0015679&g=2004-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsbesluit Rechtspositiebesluiten commissarissen van de Koning, gedeputeerden, burgemeesters 1994 en wethouders"
+signed_date: "2003-10-02"
+entry_into_force: "2004-01-01"
 ---
-
 # Besluit van 2 oktober 2003 tot wijziging van het Rechtspositiebesluit commissarissen van de Koning, het Rechtspositiebesluit gedeputeerden, het Rechtspositiebesluit burgemeesters 1994 en het Rechtspositiebesluit wethouders
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 2 juli 2003,nr. BW2003/609106, DGOB/BFO;
@@ -20,23 +46,23 @@ Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijks
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het [Rechtspositiebesluit commissarissen van de Koning](https://wetten.overheid.nl/jci1.3:c:BWBR0006738).
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het [Rechtspositiebesluit gedeputeerden](https://wetten.overheid.nl/jci1.3:c:BWBR0006533).
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het [Rechtspositiebesluit burgemeesters 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006743).
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het [Rechtspositiebesluit wethouders](https://wetten.overheid.nl/jci1.3:c:BWBR0006535).
 
-#### Artikel V
+##### Artikel V
 
 Dit besluit treedt in werking met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met dien verstande dat:
 

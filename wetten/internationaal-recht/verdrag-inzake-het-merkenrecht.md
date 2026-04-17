@@ -1,16 +1,41 @@
 ---
 title: "Verdrag inzake het merkenrecht"
 identifier: "BWBV0001253"
-categorie: "Internationaal recht"
-publicatiedatum: 1996-12-19
-laatste_update: 1996-12-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001253"
+country: "nl"
+rank: "verdrag"
+publication_date: "1996-12-19"
+last_updated: "1996-12-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001253"
+soort: "verdrag"
+stam_id: "10001729923"
+version_id: "10001808272"
+internal_id: "C10006986581"
+label_id: "10001730314"
+dtd_version: "2.0"
+original_entry_into_force: "1996-12-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001253/1996-12-19/0"
+intitule_bron: "Trb.1995-255"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-09-19"
+intitule_published: "1995-11-03"
+intitule_in_force: "2010-09-08"
+intitule_status: "goed"
+original_publication: "Trb.1995-255"
+original_signed_date: "1996-09-19"
+original_published_date: "1995-11-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1995-255"
+entry_into_force_date: "1996-12-19"
+jci_1_3: "jci1.3:c:BWBV0001253&z=1996-12-19&g=1996-12-19"
+jci_1_0: "1.0:c:BWBV0001253&g=1996-12-19"
+citeertitel_status: "redactioneel"
+signed_date: "1996-09-19"
+entry_into_force: "1996-12-19"
 ---
-
 # Verdrag inzake het merkenrecht
 
-#### Artikel 1. Verkorte uitdrukkingen
+##### Artikel 1. Verkorte uitdrukkingen
 
 Tenzij uitdrukkelijk anders vermeld, wordt voor de toepassing van dit Verdrag verstaan onder:
 
@@ -40,7 +65,7 @@ Tenzij uitdrukkelijk anders vermeld, wordt voor de toepassing van dit Verdrag ve
 
 - xiii. „Reglement": het in artikel 17 bedoelde Reglement van dit Verdrag.
 
-#### Artikel 2. Merken waarop dit Verdrag van toepassing is
+##### Artikel 2. Merken waarop dit Verdrag van toepassing is
 
 1. **[Aard van de merken]**
 
@@ -54,7 +79,7 @@ Tenzij uitdrukkelijk anders vermeld, wordt voor de toepassing van dit Verdrag ve
 
 - b. Dit Verdrag is niet van toepassing op collectieve merken, certificatiemerken en waarborgmerken.
 
-#### Artikel 3. Aanvrage
+##### Artikel 3. Aanvrage
 
 1. **[In de aanvrage te vermelden of daarbij te voegen gegevens of bestanddelen; rechten]**
 
@@ -128,7 +153,7 @@ Tenzij uitdrukkelijk anders vermeld, wordt voor de toepassing van dit Verdrag ve
 
 8. **[Bewijsstukken]** Elke Verdragsluitende Partij kan verlangen dat in de loop van het onderzoek betreffende de aanvrage aan het bureau bewijsstukken worden verstrekt wanneer het bureau redelijkerwijs kan twijfelen aan de juistheid van een gegeven in of bestanddeel van de aanvrage.
 
-#### Artikel 4. Gemachtigde; Domiciliekeuze
+##### Artikel 4. Gemachtigde; Domiciliekeuze
 
 1. **[Tot optreden bevoegde gemachtigden]** Elke Verdragsluitende Partij kan verlangen dat een persoon die ten behoeve van een procedure voor het bureau als gemachtigde is aangewezen, bevoegd is om als gemachtigde voor het bureau op te treden.
 
@@ -162,7 +187,7 @@ Tenzij uitdrukkelijk anders vermeld, wordt voor de toepassing van dit Verdrag ve
 
 7. **[Bewijsstukken]** Elke Verdragsluitende Partij kan verlangen dat aan het bureau bewijsstukken worden verstrekt wanneer het bureau redelijkerwijs kan twijfelen aan de juistheid van een gegeven in een van de in het tweede tot en met vijfde lid bedoelde berichten.
 
-#### Artikel 5. Datum van het depot
+##### Artikel 5. Datum van het depot
 
 1. **[Toegestane voorwaarden]**
 
@@ -192,11 +217,11 @@ Tenzij uitdrukkelijk anders vermeld, wordt voor de toepassing van dit Verdrag ve
 
 4. **[Verbod van andere voorwaarden]** Geen enkele Verdragsluitende Partij mag eisen dat aan andere dan de in het eerste en tweede lid bedoelde voorwaarden wordt voldaan met betrekking tot de datum van het depot.
 
-#### Artikel 6. Eén inschrijving voor waren en/of diensten die tot verschillende klassen behoren
+##### Artikel 6. Eén inschrijving voor waren en/of diensten die tot verschillende klassen behoren
 
 Wanneer waren en/of diensten die tot verschillende klassen van de Classificatie van Nice behoren in één en dezelfde aanvrage zijn vermeld, leidt deze aanvrage tot één inschrijving.
 
-#### Artikel 7. Splitsing van de aanvrage en de inschrijving
+##### Artikel 7. Splitsing van de aanvrage en de inschrijving
 
 1. **[Splitsing van de aanvrage]**
 
@@ -216,7 +241,7 @@ Wanneer waren en/of diensten die tot verschillende klassen van de Classificatie 
 
 - ii. gedurende een beroepsprocedure tegen een door het bureau genomen beslissing in het kader van bovenbedoelde procedure, met dien verstande dat een Verdragsluitende Partij de mogelijkheid van splitsing van de inschrijving kan uitsluiten indien haar wetgeving toestaat dat derden tegen de inschrijving van een merk verzet doen voordat dit merk wordt ingeschreven.
 
-#### Artikel 8. Ondertekening
+##### Artikel 8. Ondertekening
 
 1. **[Bericht op papier]** Wanneer aan het bureau van een Verdragsluitende Partij een bericht op papier wordt toegezonden en een handtekening vereist is,
 
@@ -238,7 +263,7 @@ Wanneer waren en/of diensten die tot verschillende klassen van de Classificatie 
 
 4. **[Verbod van de eis tot certificatie]** Geen enkele Verdragsluitende Partij mag verlangen dat een in de voorgaande leden bedoelde handtekening of enig ander middel ter identificatie van een persoon door een ambtenaar of notaris voor eensluidend wordt verklaard, gewaarmerkt, gelegaliseerd of anderszins gecertificeerd, behalve, indien de wetgeving van de Verdragsluitende Partij zulks voorschrijft, wanneer de handtekening betrekking heeft op het afzien van inschrijving.
 
-#### Artikel 9. Klasse-indeling van waren en/of diensten
+##### Artikel 9. Klasse-indeling van waren en/of diensten
 
 1. **[Aanduiding van waren en/of diensten]** Elke door een bureau verrichte inschrijving en openbaarmaking die betrekking heeft op een aanvrage of inschrijving en waarin waren en/of diensten zijn vermeld, dient de waren en/of diensten aan te duiden met hun naam, gerangschikt volgens de klassen van de Classificatie van Nice, waarbij iedere soort waren of diensten wordt voorafgegaan door het nummer van de klasse van deze classificatie waartoe deze groep waren of diensten behoort, en weergegeven in de volgorde van de klassen van bedoelde classificatie.
 
@@ -248,7 +273,7 @@ Wanneer waren en/of diensten die tot verschillende klassen van de Classificatie 
 
 - b. Waren of diensten mogen niet als niet-soortgelijk worden beschouwd op grond van het feit dat zij in een inschrijving of openbaarmaking door het bureau in verschillende klassen van de Classificatie van Nice voorkomen.
 
-#### Artikel 10. Naams- of adreswijziging
+##### Artikel 10. Naams- of adreswijziging
 
 1. **[Wijziging van de naam of het adres van de rechthebbende]**
 
@@ -280,7 +305,7 @@ Wanneer waren en/of diensten die tot verschillende klassen van de Classificatie 
 
 5. **[Bewijsstukken]** Elke Verdragsluitende Partij kan verlangen dat aan het bureau bewijsstukken worden verstrekt wanneer het bureau redelijkerwijs kan twijfelen aan de juistheid van een gegeven in het verzoekschrift.
 
-#### Artikel 11. Verandering van rechthebbende
+##### Artikel 11. Verandering van rechthebbende
 
 1. **[Verandering van rechthebbende op een inschrijving]**
 
@@ -350,7 +375,7 @@ Wanneer waren en/of diensten die tot verschillende klassen van de Classificatie 
 
 5. **[Bewijsstukken]** Elke Verdragsluitende Partij kan verlangen dat aan het bureau bewijsstukken, of indien het eerste lid, letter c of letter e, van toepassing is, aanvullende bewijsstukken worden verstrekt wanneer het bureau redelijkerwijs kan twijfelen aan de juistheid van een gegeven in het verzoekschrift of in een in dit artikel bedoeld document.
 
-#### Artikel 12. Correctie van een fout
+##### Artikel 12. Correctie van een fout
 
 1. **[Correctie van een fout met betrekking tot een inschrijving]**
 
@@ -384,7 +409,7 @@ Wanneer waren en/of diensten die tot verschillende klassen van de Classificatie 
 
 6. **[Niet te corrigeren fouten]** Geen enkele Verdragsluitende Partij is verplicht het eerste, tweede en vijfde lid toe te passen op fouten die op grond van haar wetgeving niet kunnen worden gecorrigeerd.
 
-#### Artikel 13. Geldigheidsduur en vernieuwing van de inschrijving
+##### Artikel 13. Geldigheidsduur en vernieuwing van de inschrijving
 
 1. **In het verzoek om vernieuwing te vermelden of daarbij te voegen gegevens of bestanddelen; rechten**
 
@@ -434,19 +459,19 @@ Wanneer waren en/of diensten die tot verschillende klassen van de Classificatie 
 
 7. **[Geldigheidsduur]** De aanvankelijke termijn van de inschrijving en de geldigheidsduur van elke vernieuwde inschrijving belopen 10 jaar.
 
-#### Artikel 14. Commentaar in geval van voorgenomen afwijzing
+##### Artikel 14. Commentaar in geval van voorgenomen afwijzing
 
 Een aanvrage of een verzoekschrift ingevolge de artikelen 10 tot en met 13 kan niet geheel of ten dele door een bureau worden afgewezen zonder de deposant of de verzoeker, naar gelang het geval, in de gelegenheid te hebben gesteld binnen een redelijke termijn commentaar te leveren op de voorgenomen afwijzing.
 
-#### Artikel 15. Verplichting om zich te houden aan het Verdrag van Parijs
+##### Artikel 15. Verplichting om zich te houden aan het Verdrag van Parijs
 
 Elke Verdragsluitende Partij houdt zich aan de bepalingen van het Verdrag van Parijs die betrekking hebben op merken.
 
-#### Artikel 16. Dienstmerken
+##### Artikel 16. Dienstmerken
 
 Elke Verdragsluitende Partij schrijft dienstmerken in en past daarop de bepalingen van het Verdrag van Parijs toe die betrekking hebben op warenmerken.
 
-#### Artikel 17. Reglement
+##### Artikel 17. Reglement
 
 1. **[Inhoud]**
 
@@ -462,13 +487,13 @@ Elke Verdragsluitende Partij schrijft dienstmerken in en past daarop de bepaling
 
 2. **[Verschil tussen het Verdrag en het Reglement]** In geval van verschil tussen de bepalingen van het Verdrag en die van het Reglement, gaan de eerstbedoelde bepalingen voor.
 
-#### Artikel 18. Herziening; protocollen
+##### Artikel 18. Herziening; protocollen
 
 1. **[Herziening]** Dit Verdrag kan door een diplomatieke conferentie worden herzien.
 
 2. **[Protocollen]** Ten behoeve van een verdergaande harmonisering van het merkenrecht kunnen door een diplomatieke conferentie protocollen worden aangenomen, voor zover deze protocollen niet in strijd zijn met de bepalingen van dit Verdrag.
 
-#### Artikel 19. Partij worden bij het Verdrag
+##### Artikel 19. Partij worden bij het Verdrag
 
 1. **[Vereisten]** De onderstaande entiteiten kunnen dit Verdrag ondertekenen en, met inachtneming van het tweede en derde lid en van artikel 20, eerste en derde lid, Partij worden bij dit Verdrag:
 
@@ -506,7 +531,7 @@ Elke Verdragsluitende Partij schrijft dienstmerken in en past daarop de bepaling
 
 - c. Een verklaring ingevolge het in letter b bepaalde kan te allen tijde in haar geheel of ten dele worden ingetrokken. Deze intrekking wordt van kracht op de datum waarop de kennisgeving van intrekking wordt ontvangen door de Directeur-Generaal.
 
-#### Artikel 20. Datum waarop bekrachtigingen en toetredingen van kracht worden
+##### Artikel 20. Datum waarop bekrachtigingen en toetredingen van kracht worden
 
 1. **[In aanmerking te nemen akten]** Voor de toepassing van dit artikel worden alleen de akten van bekrachtiging of toetreding in aanmerking genomen die zijn nedergelegd door de in artikel 19, eerste lid, bedoelde entiteiten en waarvoor een datum van nederlegging geldt overeenkomstig artikel 19, derde lid.
 
@@ -514,7 +539,7 @@ Elke Verdragsluitende Partij schrijft dienstmerken in en past daarop de bepaling
 
 3. **[Datum waarop bekrachtigingen en toetredingen van kracht worden na de inwerkingtreding van het Verdrag]** Elke andere entiteit dan de in het tweede lid bedoelde wordt door dit Verdrag gebonden drie maanden na de datum waarop zij haar akte van bekrachtiging of toetreding heeft nedergelegd.
 
-#### Artikel 21. Voorbehouden
+##### Artikel 21. Voorbehouden
 
 1. **[Bijzondere soorten merken]** Niettegenstaande artikel 2, eerste lid, letter a, en tweede lid, letter a, kan elke Staat of intergouvernementele organisatie door middel van een voorbehoud verklaren dat de bepalingen van de artikelen 3, eerste en tweede lid, 5, 7, 11 en 13 niet van toepassing zijn op geassocieerde merken, defensieve merken of afgeleide merken. In dat voorbehoud dient te worden aangegeven op welke van de genoemde bepalingen het voorbehoud betrekking heeft.
 
@@ -524,7 +549,7 @@ Elke Verdragsluitende Partij schrijft dienstmerken in en past daarop de bepaling
 
 4. **[Verbod van andere voorbehouden]** Op dit Verdrag kan geen ander voorbehoud dan het krachtens het eerste lid toegestane voorbehoud worden gemaakt.
 
-#### Artikel 22. Overgangsbepalingen
+##### Artikel 22. Overgangsbepalingen
 
 1. **[Eén aanvrage voor waren en diensten die tot verschillende klassen behoren; deling van de aanvrage]**
 
@@ -562,13 +587,13 @@ Elke Verdragsluitende Partij schrijft dienstmerken in en past daarop de bepaling
 
 9. **[Partij worden bij het Verdrag]** Tot 31 december 1999 kan elke Staat die op de datum van aanneming van dit Verdrag lid is van de Internationale Unie voor de bescherming van de industriële eigendom (Unie van Parijs), zonder lid te zijn van de Organisatie, niettegenstaande artikel 19, eerste lid, onder i, Partij bij dit Verdrag worden indien merken kunnen worden ingeschreven bij zijn eigen bureau.
 
-#### Artikel 23. Opzegging van het Verdrag
+##### Artikel 23. Opzegging van het Verdrag
 
 1. **[Kennisgeving]** Elke Verdragsluitende Partij kan dit Verdrag opzeggen door middel van een aan de Directeur-Generaal gerichte kennisgeving.
 
 2. **[Datum waarop de opzegging van kracht wordt]** De opzegging wordt van kracht een jaar na de datum waarop de Directeur-Generaal de kennisgeving heeft ontvangen. De opzegging heeft geen gevolgen voor de toepassing van dit Verdrag op aanvragen die in behandeling zijn of merken die zijn ingeschreven met betrekking tot de opzeggende Verdragsluitende Partij op het tijdstip waarop de genoemde termijn van een jaar verstrijkt, met dien verstande dat de opzeggende Verdragsluitende Partij na het verstrijken van de genoemde termijn van een jaar kan ophouden dit Verdrag toe te passen op een inschrijving, zulks vanaf de datum waarop de inschrijving moet worden vernieuwd.
 
-#### Artikel 24. Talen van het Verdrag; ondertekening
+##### Artikel 24. Talen van het Verdrag; ondertekening
 
 1. **[Originele teksten; officiële teksten]**
 
@@ -578,11 +603,11 @@ Elke Verdragsluitende Partij schrijft dienstmerken in en past daarop de bepaling
 
 2. **[Termijn voor ondertekening]** Dit Verdrag blijft gedurende een jaar na de aanneming ervan voor ondertekening openstaan op de zetel van de Organisatie.
 
-#### Artikel 25. Depositaris
+##### Artikel 25. Depositaris
 
 De Directeur-Generaal is depositaris van dit Verdrag.
 
-#### Voorschrift 1. Verkorte uitdrukkingen
+##### Voorschrift 1. Verkorte uitdrukkingen
 
 1. **[„Verdrag"; „artikel"]**
 
@@ -592,7 +617,7 @@ De Directeur-Generaal is depositaris van dit Verdrag.
 
 2. **[In het Verdrag omschreven verkorte uitdrukkingen]** De voor de toepassing van het Verdrag in artikel 1 omschreven verkorte uitdrukkingen hebben dezelfde betekenis voor de toepassing van het Reglement.
 
-#### Voorschrift 2. Wijze van vermelden van namen en adressen
+##### Voorschrift 2. Wijze van vermelden van namen en adressen
 
 1. **[Naam]**
 
@@ -616,7 +641,7 @@ De Directeur-Generaal is depositaris van dit Verdrag.
 
 3. **[Te gebruiken lettertekens]** Elke Verdragsluitende Partij kan verlangen dat de in het eerste en tweede lid bedoelde vermeldingen zijn gesteld in de door het bureau gebruikte lettertekens.
 
-#### Voorschrift 3. (bijzonderheden betreffende) de aanvrage
+##### Voorschrift 3. (bijzonderheden betreffende) de aanvrage
 
 1. **[Standaardtekens]** Wanneer de aanvrage ingevolge artikel 3, eerste lid, letter a, onder ix, een verklaring omvat waaruit blijkt dat de deposant het merk wenst te doen inschrijven en openbaar maken in de door het bureau van de Verdragsluitende Partij gebruikte standaardtekens, schrijft het bureau dat merk in en maakt het dit openbaar in die standaardtekens.
 
@@ -648,11 +673,11 @@ De Directeur-Generaal is depositaris van dit Verdrag.
 
 6. **[Termijn voor het verstrekken van bewijsstukken betreffende het feitelijk gebruik van het merk]** De in artikel 3, zesde lid, bedoelde termijn mag niet korter zijn dan zes maanden te rekenen vanaf de datum waarop de aanvrage ontvankelijk is verklaard door het bureau van de Verdragsluitende Partij waarbij die aanvrage is ingediend. De deposant of de rechthebbende heeft recht op verlenging van die termijn, met inachtneming van de in de wetgeving van die Verdragsluitende Partij gestelde voorwaarden, met perioden van telkens ten minste zes maanden, zulks tot in totaal ten minste tweeënhalf jaar.
 
-#### Voorschrift 4. Bijzonderheden betreffende de aanstelling van een gemachtigde
+##### Voorschrift 4. Bijzonderheden betreffende de aanstelling van een gemachtigde
 
 De in artikel 4, derde lid, letter d, bedoelde termijn begint op de datum van ontvangst van het in dat artikel bedoelde bericht door het bureau van de betrokken Verdragsluitende Partij en beloopt ten minste een maand wanneer het adres van de persoon namens wie het bericht is verzonden, is gelegen op het grondgebied van die Verdragsluitende Partij, en ten minste twee maanden wanneer dit adres is gelegen buiten het grondgebied van die Verdragsluitende Partij.
 
-#### Voorschrift 5. Bijzonderheden betreffende de datum van het depot
+##### Voorschrift 5. Bijzonderheden betreffende de datum van het depot
 
 1. **[Te volgen procedure indien niet aan de voorwaarden wordt voldaan]** Indien de aanvrage op het tijdstip waarop deze door het bureau wordt ontvangen, niet voldoet aan een van de voorwaarden als genoemd in artikel 5, eerste lid, letter a, of tweede lid, letter a, nodigt het bureau de deposant terstond uit om alsnog aan deze voorwaarde te voldoen binnen een in de uitnodiging genoemde termijn, welke termijn ten minste één maand beloopt, te rekenen vanaf de datum van de uitnodiging, wanneer het adres van de deposant is gelegen op het grondgebied van de betrokken Verdragsluitende Partij, en ten minste twee maanden wanneer het adres van de deposant buiten het grondgebied van de betrokken Verdragsluitende Partij is gelegen. Voor het gevolg geven aan de uitnodiging kunnen bijzondere rechten verschuldigd zijn. Zelfs indien het bureau de bedoelde uitnodiging niet zendt, blijven deze voorwaarden gelden.
 
@@ -670,7 +695,7 @@ De in artikel 4, derde lid, letter d, bedoelde termijn begint op de datum van on
 
 4. **[Gebruik van telefaxapparatuur]** Wanneer een Verdragsluitende Partij de indiening van een aanvrage per telefax toestaat en de aanvrage per telefax wordt ingediend, geldt de datum van ontvangst van het telefaxbericht door het bureau van die Verdragsluitende Partij als datum van ontvangst van de aanvrage, met dien verstande dat de Verdragsluitende Partij kan verlangen dat het origineel van die aanvrage bij het bureau binnenkomt binnen een termijn die ten minste één maand beloopt, te rekenen vanaf de dag waarop het telefaxbericht door dat bureau is ontvangen.
 
-#### Voorschrift 6. Bijzonderheden betreffende de ondertekening
+##### Voorschrift 6. Bijzonderheden betreffende de ondertekening
 
 1. **[Rechtspersonen]** Wanneer een bericht wordt ondertekend namens een rechtspersoon, kan elke Verdragsluitende Partij verlangen dat de handtekening of het zegel van de natuurlijke persoon die ondertekent of wiens zegel wordt gebruikt, vergezeld gaat van de vermelding in letters van de geslachtsnaam of de eerste naam en de voornaam c.q. voornamen of de tweede naam van die persoon, dan wel, indien de betrokkene daaraan de voorkeur geeft, van de door hem gewoonlijk gebruikte naam of namen.
 
@@ -678,7 +703,7 @@ De in artikel 4, derde lid, letter d, bedoelde termijn begint op de datum van on
 
 3. **[Datum]** Elke Verdragsluitende Partij kan verlangen dat een handtekening of zegel vergezeld gaat van de vermelding van de datum waarop de handtekening is geplaatst of het zegel is aangebracht. Wanneer bedoelde vermelding wordt verlangd, maar deze achterwege is gelaten, wordt de handtekening geacht te zijn geplaatst of wordt het zegel geacht te zijn aangebracht op de datum waarop het bericht met de handtekening of het zegel door het bureau is ontvangen of, indien de Verdragsluitende Partij zulks toestaat, op een eerdere datum dan laatstbedoelde datum.
 
-#### Voorschrift 7. Wijze van aanduiding van een aanvrage zonder nummer
+##### Voorschrift 7. Wijze van aanduiding van een aanvrage zonder nummer
 
 1. **[Wijze van aanduiding]** Wanneer wordt verlangd dat een aanvrage met haar nummer wordt aangeduid, maar indien daaraan nog geen nummer is gegeven of indien dit nummer de deposant of diens gemachtigde niet bekend is, wordt de aanvrage geacht voldoende te zijn aangeduid indien het onderstaande wordt verstrekt:
 
@@ -690,6 +715,6 @@ De in artikel 4, derde lid, letter d, bedoelde termijn begint op de datum van on
 
 2. **[Verbod van andere voorwaarden]** Geen enkele Verdragsluitende Partij mag eisen dat aan andere dan de in het eerste lid bedoelde voorwaarden wordt voldaan ter aanduiding van een aanvrage wanneer daaraan nog geen nummer is gegeven of wanneer dit de deposant of diens gemachtigde niet bekend is.
 
-#### Voorschrift 8. Bijzonderheden betreffende de geldigheidsduur en vernieuwing
+##### Voorschrift 8. Bijzonderheden betreffende de geldigheidsduur en vernieuwing
 
 Voor de toepassing van artikel 13, eerste lid, letter c, begint de termijn gedurende welke het verzoek om vernieuwing kan worden ingediend en de vernieuwingsrechten kunnen worden betaald, ten minste zes maanden voor de datum waarop de vernieuwing moet plaatsvinden en eindigt deze ten vroegste zes maanden na die datum. Indien het verzoek om vernieuwing wordt ingediend en/of de vernieuwingsrechten worden betaald na de datum waarop vernieuwing moet plaatsvinden, kan elke Verdragsluitende Partij de vernieuwing afhankelijk stellen van de betaling van aanvullende rechten.

@@ -1,14 +1,41 @@
 ---
-title: "Wijzigingswet Wet minimumloon en minimumvakantiebijslag, enz. (verlaging leeftijd volwassenminimumloon, i.v.m. stukloon en meerwerk, enz.)"
+title: "Wet van 25 januari 2017, houdende wijziging van de Wet minimumloon en minimumvakantiebijslag en enige andere wetten in verband met de verlaging van de leeftijd waarop men recht heeft op het volwassenminimumloon, in verband met stukloon en meerwerk en enige andere wijzigingen"
 identifier: "BWBR0039163"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2020-01-01
-laatste_update: 2020-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039163"
+country: "nl"
+rank: "wet"
+publication_date: "2020-01-01"
+last_updated: "2020-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039163"
+soort: "wet"
+stam_id: "13903633"
+version_id: "23862902"
+internal_id: "C34625441"
+label_id: "13868164"
+dtd_version: "2.0"
+original_entry_into_force: "2017-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039163/2020-01-01/0"
+intitule_bron: "Stb.2017-24"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-01-25"
+intitule_published: "2017-02-08"
+intitule_in_force: "2017-05-12"
+intitule_status: "goed"
+original_publication: "Stb.2017-24"
+original_signed_date: "2017-01-25"
+original_published_date: "2017-02-08"
+original_effect: "nieuwe-regeling"
+original_dossier: "34573"
+original_url_id: "stb-2017-24"
+entry_into_force_date: "2017-07-01"
+jci_1_3: "jci1.3:c:BWBR0039163&z=2020-01-01&g=2020-01-01"
+jci_1_0: "1.0:c:BWBR0039163&g=2020-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingswet Wet minimumloon en minimumvakantiebijslag, enz. (verlaging leeftijd volwassenminimumloon, i.v.m. stukloon en meerwerk, enz.)"
+signed_date: "2017-01-25"
+entry_into_force: "2017-07-01"
 ---
-
-# Wijzigingswet Wet minimumloon en minimumvakantiebijslag, enz. (verlaging leeftijd volwassenminimumloon, i.v.m. stukloon en meerwerk, enz.)
+# Wet van 25 januari 2017, houdende wijziging van de Wet minimumloon en minimumvakantiebijslag en enige andere wetten in verband met de verlaging van de leeftijd waarop men recht heeft op het volwassenminimumloon, in verband met stukloon en meerwerk en enige andere wijzigingen
 
 Allen die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,79 +43,79 @@ Alzo Wij in overweging genomen hebben, dat het noodzakelijk is de [Wet minimumlo
 
 Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet minimumloon en minimumvakantiebijslag.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Burgerlijk Wetboek Boek 7.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Toeslagenwet.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Participatiewet, de Werkloosheidswet, de Wet op de arbeidsongeschiktheidsverzekering, de Wet arbeidsongeschiktheidsverzekering zelfstandigen, de Wet structuur uitvoeringsorganisatie werk en inkomen, de Wet werk en inkomen naar arbeidsvermogen en de Ziektewet.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Wet studiefinanciering 2000.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Wet aanpak schijnconstructies.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt het Burgerlijk Wetboek Boek 7.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Wet minimumloon en minimumvakantiebijslag.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, de Participatiewet, de Werkloosheidswet, de Wet op de arbeidsongeschiktheidsverzekering, de Wet arbeidsongeschiktheidsverzekering zelfstandigen, de Wet structuur uitvoeringsorganisatie werk en inkomen, de Wet werk en inkomen naar arbeidsvermogen, en de Ziektewet.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt de Wet studiefinanciering 2000.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt de Toeslagenwet.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt de Wet tegemoetkomingen loondomein.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt de Wet tegemoetkomingen loondomein.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt de Wet tegemoetkomingen loondomein.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Wijzigt de Wet tegemoetkomingen loondomein.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Vervallen
 
-#### Artikel XIX
+##### Artikel XIX
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. In dat besluit wordt zo nodig toepassing gegeven aan [artikel 12, eerste lid, van de Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=12).
 

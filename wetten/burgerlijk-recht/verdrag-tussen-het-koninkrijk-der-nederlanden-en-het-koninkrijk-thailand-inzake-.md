@@ -1,13 +1,37 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Thailand inzake de overbrenging van gevonniste personen en de samenwerking bij de tenuitvoerlegging van strafvonnissen"
 identifier: "BWBV0001709"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2005-04-01
-laatste_update: 2004-08-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001709"
+country: "nl"
+rank: "verdrag"
+publication_date: "2005-04-01"
+last_updated: "2004-08-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001709"
+soort: "verdrag"
+stam_id: "10001098543"
+version_id: "10001126722"
+internal_id: "C10006994991"
+label_id: "10001098784"
+original_entry_into_force: "2005-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001709/2005-04-01/0"
+intitule_bron: "Trb.2004-216"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-02-08"
+intitule_published: "2004-09-06"
+intitule_in_force: "2005-02-23"
+intitule_status: "goed"
+original_publication: "Trb.2004-216"
+original_signed_date: "2005-02-08"
+original_published_date: "2004-09-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2004-216"
+entry_into_force_date: "2005-04-01"
+jci_1_3: "jci1.3:c:BWBV0001709&z=2005-04-01&g=2005-04-01"
+jci_1_0: "1.0:c:BWBV0001709&g=2005-04-01"
+citeertitel_status: "officieel"
+signed_date: "2005-02-08"
+entry_into_force: "2005-04-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Thailand inzake de overbrenging van gevonniste personen en de samenwerking bij de tenuitvoerlegging van strafvonnissen
 
 Het Koninkrijk der Nederlanden
@@ -28,7 +52,7 @@ Overwegende dat deze doelstellingen het beste kunnen worden verwezenlijkt door v
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -40,11 +64,11 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - d. „sanctie": elke door een rechter in de overdragende Staat opgelegde vrijheidsbenemende straf of maatregel van bepaalde of onbepaalde duur.
 
-#### Artikel 2. Algemene beginselen
+##### Artikel 2. Algemene beginselen
 
 Een op het grondgebied van een Partij gevonniste persoon kan, overeenkomstig de bepalingen van dit Verdrag, naar het grondgebied van de andere Partij worden overgebracht teneinde de aan hem opgelegde sanctie te ondergaan.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Toepassing van het Verdrag gebeurt onder de volgende voorwaarden:
 
@@ -76,7 +100,7 @@ Toepassing van het Verdrag gebeurt onder de volgende voorwaarden:
 
 - h. de overbrenging van de gevonniste persoon laat de soevereiniteit, de veiligheid, de openbare orde of andere wezenlijke belangen van beide Partijen onverlet.
 
-#### Artikel 4. Procedure van overbrenging
+##### Artikel 4. Procedure van overbrenging
 
 1. Beide Partijen streven ernaar gevonniste personen die onder de reikwijdte van dit Verdrag kunnen vallen, in kennis te stellen van de strekking ervan.
 
@@ -98,11 +122,11 @@ Toepassing van het Verdrag gebeurt onder de volgende voorwaarden:
 
 6. De overdracht van de gevonniste persoon door de autoriteiten van de overdragende Staat aan die van de ontvangende Staat vindt plaats op een door beide Partijen overeengekomen datum en plaats in de overdragende Staat.
 
-#### Artikel 5. Behoud van rechtsmacht
+##### Artikel 5. Behoud van rechtsmacht
 
 Ten aanzien van sancties die ingevolge dit Verdrag ten uitvoer gelegd worden, behoudt de overdragende Staat exclusieve rechtsmacht ten aanzien van de vonnissen van zijn rechters, de door hen opgelegde sancties en alle procedures voor herziening, wijziging of herroeping van door zijn rechters opgelegde sancties. Na in kennis te zijn gesteld van een herziening, wijziging of herroeping van deze vonnissen of sancties, geeft de ontvangende Staat daaraan uitvoering.
 
-#### Artikel 6. Procedure voor tenuitvoerlegging van veroordelingen
+##### Artikel 6. Procedure voor tenuitvoerlegging van veroordelingen
 
 1. Tenzij in dit Verdrag anders is bepaald, vindt de voortgezette tenuitvoerlegging van de aan de overgebrachte dader opgelegde sanctie plaats in overeenstemming met het recht en de administratieve of gerechtelijke procedures van de ontvangende Staat. De overdragende Staat behoudt daarnaast het recht de gevonniste persoon gratie te verlenen of diens sanctie te wijzigen, en de ontvangende Staat geeft, na door de overbrengende Staat van een gratie of strafvermindering in kennis te zijn gesteld, hieraan uitvoering.
 
@@ -112,7 +136,7 @@ Ten aanzien van sancties die ingevolge dit Verdrag ten uitvoer gelegd worden, be
 
 4. De autoriteiten van beide Partijen verstrekken op verzoek van de andere Partij rapporten waarin de status van alle ingevolge dit Verdrag overgebrachte personen is aangegeven, met inbegrip van, met name de vervroegde invrijheidstelling of de invrijheidstelling. Een Partij kan te allen tijde om een rapport inzake de status van de tenuitvoerlegging van een afzonderlijke veroordeling verzoeken.
 
-#### Artikel 7. Doortocht van gevonniste personen
+##### Artikel 7. Doortocht van gevonniste personen
 
 1. Indien een van de Partijen een gevonniste persoon overbrengt vanuit een derde Staat, verleent de andere Partij haar medewerking bij het vergemakkelijken van diens doortocht over haar grondgebied. De Partij die het voornemen heeft een dergelijke overbrenging uit te voeren, stelt de andere Partij daarvan vooraf op de hoogte.
 
@@ -122,25 +146,25 @@ Ten aanzien van sancties die ingevolge dit Verdrag ten uitvoer gelegd worden, be
 
 - b. indien de handeling die aanleiding tot de veroordeling is geweest geen strafbaar feit oplevert ingevolge haar eigen recht.
 
-#### Artikel 8. Kosten
+##### Artikel 8. Kosten
 
 De kosten die voortvloeien uit de overbrenging van de dader of uit de tenuitvoerlegging van de sanctie na de overdracht, komen voor rekening van de ontvangende Staat.
 
-#### Artikel 9. Taal
+##### Artikel 9. Taal
 
 Verzoeken tot overbrenging worden gedaan in de Engelse taal en de documenten en verklaringen bedoeld in artikel 4, derde en vierde lid, en artikel 6, vierde lid, zijn gesteld in de taal van de overdragende Staat of gaan vergezeld van een vertaling in die taal.
 
-#### Artikel 10. Toepassing in de tijd
+##### Artikel 10. Toepassing in de tijd
 
 Dit Verdrag is van toepassing op de tenuitvoerlegging van vonnissen die hetzij voorafgaand aan, hetzij na de inwerkingtreding van het Verdrag zijn uitgesproken.
 
-#### Artikel 11. Slotbepalingen
+##### Artikel 11. Slotbepalingen
 
 1. Het Verdrag treedt in werking op de eerste dag van de tweede maand volgend op de datum waarop de akten van bekrachtiging zijn uitgewisseld. De uitwisseling van akten vindt plaats overeenkomstig het nationale recht van de Partijen.
 
 2. Wat betreft het Koninkrijk der Nederlanden is dit Verdrag van toepassing op het deel van het Koninkrijk in Europa, de Nederlandse Antillen en Aruba, tenzij in de in het eerste lid genoemde akte van bekrachtiging anders is aangegeven. In het laatste geval kan het Koninkrijk der Nederlanden te allen tijde de toepassing van dit Verdrag uitbreiden tot een of meer afzonderlijke delen door middel van een kennisgeving aan het Koninkrijk Thailand.
 
-#### Artikel 12. Beëindiging
+##### Artikel 12. Beëindiging
 
 1. Elk van de Partijen kan dit Verdrag te allen tijde beëindigen door middel van een schriftelijke kennisgeving aan de andere Partij. De beëindiging wordt van kracht een jaar na de datum van ontvangst van een zodanige kennisgeving.
 

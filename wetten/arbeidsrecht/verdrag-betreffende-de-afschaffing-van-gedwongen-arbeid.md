@@ -1,13 +1,35 @@
 ---
 title: "Verdrag betreffende de afschaffing van gedwongen arbeid"
 identifier: "BWBV0004945"
-categorie: "Arbeidsrecht"
-publicatiedatum: 1960-02-18
-laatste_update: 1960-02-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004945"
+country: "nl"
+rank: "verdrag"
+publication_date: "1960-02-18"
+last_updated: "1960-02-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004945"
+soort: "verdrag"
+stam_id: "10004400543"
+version_id: "10004604082"
+internal_id: "C10007167771"
+label_id: "10004385394"
+dtd_version: "2.0"
+original_entry_into_force: "1960-02-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004945/1960-02-18/0"
+intitule_bron: "Trb.1957-210"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1957-10-28"
+intitule_in_force: "1959-04-04"
+intitule_status: "goed"
+original_publication: "Trb.1957-210"
+original_published_date: "1957-10-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1957-210"
+entry_into_force_date: "1960-02-18"
+jci_1_3: "jci1.3:c:BWBV0004945&z=1960-02-18&g=1960-02-18"
+jci_1_0: "1.0:c:BWBV0004945&g=1960-02-18"
+citeertitel_status: "redactioneel"
+entry_into_force: "1960-02-18"
 ---
-
 # Verdrag betreffende de afschaffing van gedwongen arbeid
 
 De Algemene Conferentie van de Internationale Arbeidsorganisatie,
@@ -28,7 +50,7 @@ Besloten hebbende, dat deze voorstellen de vorm zullen aannemen van een internat
 
 Neemt heden, de 25ste juni 1957, het volgende Verdrag aan, hetwelk kan worden aangehaald als het „Verdrag betreffende de afschaffing van gedwongen arbeid, 1957”:
 
-#### Artikel 1
+##### Artikel 1
 
 Elk Lid van de Internationale Arbeidsorganisatie dat dit Verdrag bekrachtigt verplicht zich tot het afschaffen en niet meer gebruik maken van enigerlei vorm van gedwongen of verplichte arbeid
 
@@ -42,15 +64,15 @@ Elk Lid van de Internationale Arbeidsorganisatie dat dit Verdrag bekrachtigt ver
 
 - e). als een middel tot rassen-, sociale, nationale of godsdienstige discriminatie.
 
-#### Artikel 2
+##### Artikel 2
 
 Elk Lid van de Internationale Arbeidsorganisatie dat dit Verdrag bekrachtigt verplicht zich tot het nemen van doeltreffende maatregelen teneinde de onmiddellijke en algehele afschaffing te bewerkstelligen van gedwongen of verplichte arbeid zoals omschreven in artikel 1 van dit Verdrag.
 
-#### Artikel 3
+##### Artikel 3
 
 De officiële bekrachtigingen van dit Verdrag zullen ter kennis worden gebracht van de Directeur-Generaal van het Internationaal Arbeidsbureau en door hem worden geregistreerd.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Dit Verdrag zal slechts verbindend zijn voor de Leden van de Internationale Arbeidsorganisatie, waarvan de bekrachtiging door de Directeur-Generaal is geregistreerd.
 
@@ -58,27 +80,27 @@ De officiële bekrachtigingen van dit Verdrag zullen ter kennis worden gebracht 
 
 3. Vervolgens zal dit Verdrag voor ieder Lid in werking treden twaalf maanden na de datum waarop zijn bekrachtiging is geregistreerd.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een Lid dat dit Verdrag heeft bekrachtigd kan het opzeggen na verloop van een tijdvak van tien jaar na de datum waarop het Verdrag in werking is getreden, door middel van een verklaring toegezonden aan de Directeur-Generaal van het Internationaal Arbeidsbureau en door deze geregistreerd. De opzegging zal eerst een jaar nadat zij is geregistreerd van kracht worden.
 
 2. Elk Lid dat dit Verdrag heeft bekrachtigd en niet binnen een jaar na het verloop van het tijdvak van tien jaar, bedoeld in het vorige lid, gebruik heeft gemaakt van het recht tot opzegging, voorzien in dit artikel, is gebonden voor een nieuw tijdvak van tien jaar en kan daarna dit Verdrag opzeggen na verloop van elk tijdvak van tien jaar, onder de voorwaarden bedoeld in dit artikel.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De Directeur-Generaal van het Internationaal Arbeidsbureau dient aan alle Leden van de Internationale Arbeidsorganisatie kennis te geven van de registratie van alle bekrachtigingen en opzeggingen welke hem door de Leden der Organisatie zijn medegedeeld.
 
 2. Bij de kennisgeving van de tweede hem medegedeelde bekrachtiging aan de Leden der Organisatie dient de Directeur-Generaal de aandacht der Leden te vestigen op de datum waarop het Verdrag in werking zal treden.
 
-#### Artikel 7
+##### Artikel 7
 
 De Directeur-Generaal van het Internationaal Arbeidsbureau doet volledige bijzonderheden omtrent alle bekrachtigingen en opzeggingen welke hij heeft geregistreerd overeenkomstig de bepalingen van de voorgaande artikelen, toekomen aan de Secretaris-Generaal van de Verenigde Naties ter registratie overeenkomstig [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-#### Artikel 8
+##### Artikel 8
 
 De Raad van Beheer van het Internationaal Arbeidsbureau dient, telkens wanneer hij zulks nodig oordeelt, verslag uit te brengen aan de Algemene Conferentie over de toepassing van dit Verdrag en te onderzoeken of het wenselijk is, de gehele of gedeeltelijke herziening ervan op de agenda der Conferentie te plaatsen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Indien de Conferentie een nieuw Verdrag zou aannemen, houdende gehele of gedeeltelijke herziening van het onderhavige Verdrag, en indien het nieuwe Verdrag niet anders bepaalt:
 
@@ -88,6 +110,6 @@ De Raad van Beheer van het Internationaal Arbeidsbureau dient, telkens wanneer h
 
 2. Het onderhavige Verdrag zal echter in elk geval naar huidige vorm en inhoud van kracht blijven voor die Leden die het bekrachtigd hebben en het nieuwe Verdrag, houdende herziening, niet bekrachtigen.
 
-#### Artikel 10
+##### Artikel 10
 
 De Engelse en de Franse tekst van dit Verdrag zijn gelijkelijk authentiek.

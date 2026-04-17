@@ -1,13 +1,38 @@
 ---
-title: "Besluit gelijke behandeling"
+title: "Besluit van 18 augustus 1994, houdende nadere omschrijving van gevallen waarin het geslacht bepalend is, van gevallen waarin het de bescherming van de vrouw betreft, van gevallen waarin uiterlijke kenmerken die samenhangen met het ras van een persoon bepalend zijn en van gevallen waarin de nationaliteit bepalend is"
 identifier: "BWBR0007270"
-categorie: "Bestuursrecht"
-publicatiedatum: 2012-12-21
-laatste_update: 2012-12-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007270"
+country: "nl"
+rank: "amvb"
+publication_date: "2012-12-21"
+last_updated: "2012-12-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007270"
+soort: "AMvB"
+stam_id: "462363"
+version_id: "681872"
+internal_id: "C681871"
+label_id: "449474"
+dtd_version: "2.0"
+original_entry_into_force: "1994-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007270/2012-12-21/0"
+intitule_bron: "Stb.1994-657"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-03-02"
+intitule_published: "1994-08-30"
+intitule_status: "goed"
+original_publication: "Stb.1994-657"
+original_signed_date: "1995-03-02"
+original_published_date: "1994-08-30"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1994-09-01"
+entry_into_force_dossier: "22014"
+jci_1_3: "jci1.3:c:BWBR0007270&z=2012-12-21&g=2012-12-21"
+jci_1_0: "1.0:c:BWBR0007270&g=2012-12-21"
+citeertitel_status: "officieel"
+short_title: "Besluit gelijke behandeling"
+signed_date: "1995-03-02"
+entry_into_force: "1994-09-01"
 ---
-
 # Besluit van 18 augustus 1994, houdende nadere omschrijving van gevallen waarin het geslacht bepalend is, van gevallen waarin het de bescherming van de vrouw betreft, van gevallen waarin uiterlijke kenmerken die samenhangen met het ras van een persoon bepalend zijn en van gevallen waarin de nationaliteit bepalend is
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken van 29 april 1994, nr. CW94/409, stafafdeling Constitutionele Zaken en Wetgeving, gedaan mede namens Onze Minister van Justitie, de Staatssecretaris van Sociale Zaken en Werkgelegenheid, Onze Minister van Onderwijs en Wetenschappen en Onze Minister van Welzijn, Volksgezondheid en Cultuur;
@@ -22,7 +47,7 @@ Gezien het nader rapport van Onze Minister van Binnenlandse Zaken van 9 augustus
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 Als gevallen waarin het geslacht bepalend is, bedoeld in [artikel 2, tweede lid, onderdeel a, van de Algemene wet gelijke behandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=2), alsmede waarin het de bescherming van de vrouw betreft, bedoeld in [artikel 2, tweede lid, onderdeel b, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=2), worden aangemerkt die gevallen die behoren tot één of meer van de volgende categorieën:
 
@@ -50,7 +75,7 @@ Als gevallen waarin het geslacht bepalend is, bedoeld in [artikel 2, tweede lid,
 
 - i. het verlenen van diensten die uitsluitend kunnen worden verleend aan mannen dan wel vrouwen.
 
-#### Artikel 2
+##### Artikel 2
 
 Als gevallen waarin uiterlijke kenmerken die samenhangen met het ras van een persoon bepalend zijn, bedoeld in [artikel 2, vierde lid, van de Algemene wet gelijke behandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=2) worden aangemerkt, die gevallen die behoren tot één of meer van de volgende categorieën:
 
@@ -58,15 +83,15 @@ Als gevallen waarin uiterlijke kenmerken die samenhangen met het ras van een per
 
 - b. de uitoefening van het beroep of de activiteit van mannequin die bepaalde kledingstukken moet tonen door deze te dragen, van model voor beeldend kunstenaars, fotografen, cineasten, kappers, grimeurs en schoonheidsspecialisten, voor zover in redelijkheid eisen kunnen worden gesteld aan uiterlijke kenmerken.
 
-#### Artikel 3
+##### Artikel 3
 
 Als gevallen waarin de nationaliteit bepalend is, bedoeld in [artikel 2, vijfde lid, onderdeel **b**, van de Algemene wet gelijke behandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=2), worden aangemerkt de gevallen waarin het op grond van een regeling of praktijk van een organisatie op het gebied van sport of spel aan Nederlanders is voorbehouden om deel te nemen aan wedstrijden ter vertegenwoordiging van het land.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag waarop de [Algemene wet gelijke behandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006502) in werking treedt.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit wordt aangehaald als: Besluit gelijke behandeling.
 

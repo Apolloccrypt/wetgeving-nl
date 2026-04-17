@@ -1,18 +1,43 @@
 ---
 title: "Reglement Kwaliteitsinstituut Wbtv"
 identifier: "BWBR0034866"
-categorie: "Overig"
-publicatiedatum: 2014-03-03
-laatste_update: 2014-03-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034866"
+country: "nl"
+rank: "zbo"
+publication_date: "2014-03-03"
+last_updated: "2014-03-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034866"
+soort: "zbo"
+stam_id: "12590443"
+version_id: "21251852"
+internal_id: "C30519121"
+label_id: "12561054"
+dtd_version: "2.0"
+original_entry_into_force: "2014-03-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034866/2014-03-03/0"
+intitule_bron: "Stcrt.2014-5843"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-02-12"
+intitule_published: "2014-03-03"
+intitule_in_force: "2014-03-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-5843"
+original_signed_date: "2014-02-12"
+original_published_date: "2014-03-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-5843"
+entry_into_force_date: "2014-03-03"
+jci_1_3: "jci1.3:c:BWBR0034866&z=2014-03-03&g=2014-03-03"
+jci_1_0: "1.0:c:BWBR0034866&g=2014-03-03"
+citeertitel_status: "officieel"
+signed_date: "2014-02-12"
+entry_into_force: "2014-03-03"
 ---
-
 # Reglement Kwaliteitsinstituut Wbtv
 
 ### 1. Begrippenomschrijving
 
-#### Artikel 1
+##### Artikel 1
 
 In dit reglement wordt verstaan onder:
 
@@ -28,13 +53,13 @@ In dit reglement wordt verstaan onder:
 
 ### 2. Samenstelling, taken en bevoegdheden van het Kwaliteitsinstituut
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het Kwaliteitsinstituut heeft tot taak de minister en/of de Raad gevraagd en ongevraagd te adviseren over beleid en activiteiten die bijdragen aan het realiseren van de doelstellingen van de [Wbtv](https://wetten.overheid.nl/jci1.3:c:BWBR0022704).
 
 2. Naar aanleiding van zijn bevindingen brengt het Kwaliteitsinstituut per onderwerp schriftelijk advies uit. De adviezen worden ondertekend door de voorzitter, gericht aan Bureau Wbtv en gepubliceerd op de internetsite van Bureau Wbtv.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het Kwaliteitsinstituut stelt in samenspraak met de Raad een rooster van aan- en aftreden op dat de continuïteit van de samenstelling zo goed mogelijk waarborgt. Uitgangspunten zijn dat:
 
@@ -64,7 +89,7 @@ Het Kwaliteitsinstituut kan de voorzitter of een lid aanwijzen om de Raad te ond
 
 De Raad kan het Kwaliteitsinstituut aanvullen met andere deskundigen indien ontwikkelingen rond de uitvoering van de [Wbtv](https://wetten.overheid.nl/jci1.3:c:BWBR0022704) daartoe aanleiding geven.
 
-#### Artikel 4
+##### Artikel 4
 
 De leden van het Kwaliteitsinstituut voldoen in elk geval aan de volgende criteria:
 
@@ -78,7 +103,7 @@ De leden van het Kwaliteitsinstituut voldoen in elk geval aan de volgende criter
 
 ### 3. Onderwerpen
 
-#### Artikel 5
+##### Artikel 5
 
 1. Uiterlijk op de laatste vergadering van een kalenderjaar stelt het Kwaliteitsinstituut, mede op basis van het meerjarenbeleidsplan van de Raad, een lijst met onderwerpen vast die in het volgende kalenderjaar worden behandeld. Waar mogelijk wordt hieraan ook een globale planning gekoppeld.
 
@@ -90,7 +115,7 @@ Aan het begin van elke vergadering stelt het Kwaliteitsinstituut de agenda defin
 
 ### 4. Besluitvorming
 
-#### Artikel 6
+##### Artikel 6
 
 1. Indien over een onderwerp wordt gestemd, vindt besluitvorming plaats bij meerderheid van stemmen door de aanwezige leden. Bij het staken van de stemmen, is de stem van de (plaatsvervangend) voorzitter bepalend.
 
@@ -100,7 +125,7 @@ Besluitvorming is slechts mogelijk indien ten minste de helft van de benoemde le
 
 ### 5. Vergaderingen
 
-#### Artikel 7
+##### Artikel 7
 
 1. De Raad plant uiterlijk 1 december van elk kalenderjaar in overleg met de leden minimaal vier bijeenkomsten voor het daarop volgende kalenderjaar.
 
@@ -112,7 +137,7 @@ De leden worden hierover tijdig geïnformeerd en ontvangen daarnaast voor elke v
 
 ### 6. Ondersteuning
 
-#### Artikel 8
+##### Artikel 8
 
 1. De Raad voorziet in de ambtelijke ondersteuning van het Kwaliteitsinstituut. Hij stelt een ondersteunende medewerker beschikbaar met de volgende taken:
 
@@ -136,18 +161,18 @@ De leden worden hierover tijdig geïnformeerd en ontvangen daarnaast voor elke v
 
 ### 7. Scholing
 
-#### Artikel 9
+##### Artikel 9
 
 De leden kunnen de Raad eenmaal per jaar verzoeken om tegemoetkoming in de kosten van een cursus, symposium of studiedag bijwonen in Nederland, indien het onderwerp aansluit bij de werkzaamheden van het Kwaliteitsinstituut.
 
 ### 8. Terugkoppeling
 
-#### Artikel 10
+##### Artikel 10
 
 Als er door de Raad of de Minister een besluit is genomen naar aanleiding van het advies van het Kwaliteitsinstituut, dan zal het secretariaat het besluit per e-mail sturen naar de leden van het Kwaliteitsinstituut. Indien het besluit afwijkt van het advies, wordt dit gemotiveerd teruggekoppeld aan het Kwaliteitsinstituut.
 
 ### 9. Aanhaaltitel
 
-#### Artikel 11
+##### Artikel 11
 
 Dit reglement kan worden aangehaald als het Reglement Kwaliteitsinstituut Wbtv.

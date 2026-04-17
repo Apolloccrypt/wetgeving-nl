@@ -1,13 +1,35 @@
 ---
 title: "Protocol Accountantsonderzoek CAK bestuurlijke verantwoording 2023"
 identifier: "BWBR0049101"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-12-22
-laatste_update: 2023-12-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049101"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-12-22"
+last_updated: "2023-12-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049101"
+soort: "zbo"
+stam_id: "16971453"
+version_id: "29835142"
+internal_id: "C42763111"
+label_id: "16882094"
+dtd_version: "2.0"
+original_entry_into_force: "2023-12-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049101/2023-12-22/0"
+intitule_bron: "Stcrt.2023-34004"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2023-12-22"
+intitule_in_force: "2023-12-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-34004"
+original_published_date: "2023-12-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-34004"
+entry_into_force_date: "2023-12-22"
+jci_1_3: "jci1.3:c:BWBR0049101&z=2023-12-22&g=2023-12-22"
+jci_1_0: "1.0:c:BWBR0049101&g=2023-12-22"
+citeertitel_status: "redactioneel"
+entry_into_force: "2023-12-22"
 ---
-
 # Protocol Accountantsonderzoek CAK bestuurlijke verantwoording 2023
 
 ### 1. Inleiding

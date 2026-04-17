@@ -1,13 +1,39 @@
 ---
-title: "Rechtspositiebesluit voorzitters huurcommissie 2010"
+title: "Besluit van 4 februari 2010 tot vaststelling van de rechtspositie van de voorzitter, de plaatsvervangend voorzitter en de zittingsvoorzitters van de huurcommissie (Rechtspositiebesluit voorzitters huurcommissie 2010)"
 identifier: "BWBR0027218"
-categorie: "Bestuursrecht"
-publicatiedatum: 2010-04-01
-laatste_update: 2010-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027218"
+country: "nl"
+rank: "amvb"
+publication_date: "2010-04-01"
+last_updated: "2010-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027218"
+soort: "AMvB"
+stam_id: "10422773"
+version_id: "17145452"
+internal_id: "C23787371"
+label_id: "10398334"
+dtd_version: "2.0"
+original_entry_into_force: "2010-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027218/2010-04-01/0"
+intitule_bron: "Stb.2010-41"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-02-04"
+intitule_published: "2010-02-16"
+intitule_in_force: "2010-03-30"
+intitule_status: "goed"
+original_publication: "Stb.2010-41"
+original_signed_date: "2010-02-04"
+original_published_date: "2010-02-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-41"
+entry_into_force_date: "2010-04-01"
+jci_1_3: "jci1.3:c:BWBR0027218&z=2010-04-01&g=2010-04-01"
+jci_1_0: "1.0:c:BWBR0027218&g=2010-04-01"
+citeertitel_status: "officieel"
+short_title: "Rechtspositiebesluit voorzitters huurcommissie 2010"
+signed_date: "2010-02-04"
+entry_into_force: "2010-04-01"
 ---
-
 # Besluit van 4 februari 2010 tot vaststelling van de rechtspositie van de voorzitter, de plaatsvervangend voorzitter en de zittingsvoorzitters van de huurcommissie (Rechtspositiebesluit voorzitters huurcommissie 2010)
 
 Op de voordracht van Onze Minister voor Wonen, Wijken en Integratie van 14 december 2009, nr. BJZ2009064960, Directie Bestuurlijke en Juridische Zaken, gedaan na overleg met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -42,13 +68,13 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 2. Benoeming en herbenoeming
 
-#### Artikel 2
+##### Artikel 2
 
 1. In het kader van de selectie en de benoeming van de voorzitter, de plaatsvervangend voorzitter of de zittingsvoorzitter kan een psychologisch onderzoek deel uitmaken van de procedure.
 
 2. [Artikel 11 van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=11) is van overeenkomstige toepassing op het psychologisch onderzoek, bedoeld in het eerste lid.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Onze Minister verstrekt aan de voorzitter, de plaatsvervangend voorzitter of de zittingsvoorzitter het besluit tot zijn benoeming, waarin in ieder geval worden vermeld:
 
@@ -68,7 +94,7 @@ In dit besluit wordt verstaan onder:
 
 3. [Artikel 12c van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=12c) is van overeenkomstige toepassing, met dien verstande dat in dat artikel voor «aanstelling» wordt gelezen: benoeming.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Bij zijn benoeming legt de voorzitter, de plaatsvervangend voorzitter of de zittingsvoorzitter de eed of de belofte af met gebruikmaking van het formulier dat is opgenomen in de bijlage bij dit besluit.
 
@@ -78,7 +104,7 @@ In dit besluit wordt verstaan onder:
 
 4. Het eerste lid is niet van toepassing op de voorzitter, de plaatsvervangend voorzitter of de zittingsvoorzitter die wordt herbenoemd.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Uiterlijk negen maanden voor het verstrijken van de benoemingstermijn verzoekt Onze Minister de voorzitter, de plaatsvervangend voorzitter of de zittingsvoorzitter schriftelijk aan te geven of hij voor herbenoeming in aanmerking wil komen.
 
@@ -90,7 +116,7 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 3. Arbeidsduur, werktijden, verhindering, vakantie en verlof
 
-#### Artikel 6
+##### Artikel 6
 
 1. Bij benoeming in voltijd van de voorzitter, de plaatsvervangend voorzitter of de zittingsvoorzitter bedraagt de arbeidsduur gemiddeld ten hoogste 36 uur per week.
 
@@ -98,31 +124,31 @@ In dit besluit wordt verstaan onder:
 
 3. De [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=21), met uitzondering van het eerste lid en het tweede lid, eerste, derde en vierde volzin, en [artikel 21a van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=21a) zijn van overeenkomstige toepassing op de voorzitter, de plaatsvervangend voorzitter en de zittingsvoorzitter.
 
-#### Artikel 7
+##### Artikel 7
 
 De voorzitter maakt zo spoedig mogelijk melding van de verhindering, anders dan wegens ziekte, bij Onze Minister, onder opgave van redenen. De plaatsvervangend voorzitter en de zittingsvoorzitter maken van de in de eerste volzin bedoelde verhindering melding bij de voorzitter.
 
-#### Artikel 8
+##### Artikel 8
 
 De voorzitter, de plaatsvervangend voorzitter of de zittingsvoorzitter ontvangt over de tijd, gedurende welke hij in strijd met zijn verplichtingen opzettelijk nalaat zijn ambt te vervullen, geen bezoldiging.
 
-#### Artikel 9
+##### Artikel 9
 
 De voorzitter, de plaatsvervangend voorzitter en de zittingsvoorzitter hebben jaarlijks aanspraak op vakantie met behoud van hun volle bezoldiging. De [artikelen 22, tweede tot en met zeventiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=22), [23 tot en met 26 van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=23) zijn van overeenkomstige toepassing.
 
-#### Artikel 10
+##### Artikel 10
 
 De voorzitter, de plaatsvervangend voorzitter en de zittingsvoorzitter hebben aanspraak op buitengewoon verlof van korte dan wel van lange duur overeenkomstig de [artikelen 33 tot en met 34f van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=33).
 
-#### Artikel 11
+##### Artikel 11
 
 De [Levensloopregeling rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0018979) en de [Spaarloonregeling rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0006585) zijn van overeenkomstige toepassing op het sparen voor en het opnemen van levensloopverlof dan wel spaarloon door de voorzitter, de plaatsvervangend voorzitter en de zittingsvoorzitter.
 
-#### Artikel 12
+##### Artikel 12
 
 [Hoofdstuk VI van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&hoofdstuk=VI) is van overeenkomstige toepassing op de bedrijfsgeneeskundige begeleiding, rechten en verplichtingen bij ziekte en arbeidsongeschiktheid van de voorzitter, de plaatsvervangend voorzitter en de zittingsvoorzitter.
 
-#### Artikel 13
+##### Artikel 13
 
 De melding van de ongeschiktheid tot het verrichten van arbeid wegens ziekte, bedoeld in [artikel 36, derde lid, van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=36), wordt gedaan:
 
@@ -132,15 +158,15 @@ De melding van de ongeschiktheid tot het verrichten van arbeid wegens ziekte, be
 
 ### Hoofdstuk 4. Scholing, voortgang en beoordeling
 
-#### Artikel 14
+##### Artikel 14
 
 De [artikelen 59](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=59) en [60 van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=60) van zijn van overeenkomstige toepassing op scholing in het dienstbelang of in het persoonlijk belang van de voorzitter, de plaatsvervangend voorzitter en de zittingsvoorzitter, met dien verstande dat in artikel 60, eerste lid, van het Algemeen Rijksambtenarenreglement voor «belang van de Rijksdienst» wordt gelezen: belang van de huurcommissie.
 
-#### Artikel 15
+##### Artikel 15
 
 De voorzitter en de plaatsvervangend voorzitter hebben eenmaal per jaar een voortgangsgesprek met Onze Minister.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De voorzitter houdt eenmaal per jaar een functioneringsgesprek met de zittingsvoorzitter, waarbij de onafhankelijkheid van de zittingsvoorzitter in acht wordt genomen.
 
@@ -148,7 +174,7 @@ De voorzitter en de plaatsvervangend voorzitter hebben eenmaal per jaar een voor
 
 3. In het kader van zijn persoonlijke ontwikkeling kan de voorzitter, de plaatsvervangend voorzitter of de zittingsvoorzitter die het ambt ten minste drie jaar heeft vervuld op kosten van Onze Minister een loopbaanscan laten maken.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De voorzitter kan uit eigen beweging of op verzoek van de zittingsvoorzitter, met inachtneming van diens onafhankelijkheid, een beoordeling van het functioneren van die zittingsvoorzitter maken.
 
@@ -156,11 +182,11 @@ De voorzitter en de plaatsvervangend voorzitter hebben eenmaal per jaar een voor
 
 ### Hoofdstuk 5. Schorsing en ontslag
 
-#### Artikel 18
+##### Artikel 18
 
 [Artikel 92 van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=92) is van overeenkomstige toepassing op de schorsing van de voorzitter, de plaatsvervangend voorzitter of de zittingsvoorzitter.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Het ontslag op eigen verzoek, bedoeld in [artikel 12, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=12), wordt niet eerder verleend dan een maand en niet later dan drie maanden na de dag waarop het verzoek om ontslag is ingekomen.
 
@@ -174,25 +200,25 @@ De voorzitter en de plaatsvervangend voorzitter hebben eenmaal per jaar een voor
 
 4. [Artikel 98, derde tot en met twaalfde lid, van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=98) is van overeenkomstige toepassing op het ontslag van de voorzitter, de plaatsvervangend voorzitter of de zittingsvoorzitter wegens ongeschiktheid tot het vervullen van het ambt wegens ziekte.
 
-#### Artikel 20
+##### Artikel 20
 
 Het [Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Rijk](https://wetten.overheid.nl/jci1.3:c:BWBR0008114) is van overeenkomstige toepassing in geval van werkloosheid van de voorzitter, de plaatsvervangend voorzitter of de zittingsvoorzitter.
 
 ### Hoofdstuk 6. Slotbepalingen
 
-#### Artikel 21
+##### Artikel 21
 
 Wijzigt het Algemeen Rijksambtenarenreglement.
 
-#### Artikel 22
+##### Artikel 22
 
 Het [Rechtspositiebesluit voorzitters huurcommissies](https://wetten.overheid.nl/jci1.3:c:BWBR0004304) wordt ingetrokken.
 
-#### Artikel 23
+##### Artikel 23
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 24
+##### Artikel 24
 
 Dit besluit wordt aangehaald als: Rechtspositiebesluit voorzitters huurcommissie 2010.
 

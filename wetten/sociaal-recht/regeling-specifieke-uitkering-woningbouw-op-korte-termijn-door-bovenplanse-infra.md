@@ -1,20 +1,46 @@
 ---
-title: "Regeling specifieke uitkering woningbouw op korte termijn door bovenplanse infrastructuur"
+title: "Regeling van de Minister van Infrastructuur en Waterstaat, van 29 september 2023, nr. IENW/BSK-2023/271099, houdende regels voor verstrekking van specifieke uitkeringen voor bovenplanse infrastructurele voorzieningen om op korte termijn grootschalige woningbouwlocaties te realiseren (Regeling specifieke uitkering woningbouw op korte termijn door bovenplanse infrastructuur)"
 identifier: "BWBR0048724"
-categorie: "Sociaal recht"
-publicatiedatum: 2024-11-20
-laatste_update: 2024-11-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048724"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-11-20"
+last_updated: "2024-11-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048724"
+soort: "ministeriele-regeling"
+stam_id: "16877723"
+version_id: "30424662"
+internal_id: "C43629981"
+label_id: "16789954"
+dtd_version: "2.0"
+original_entry_into_force: "2024-11-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048724/2024-11-20/0"
+intitule_bron: "Stcrt.2023-27298"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-09-29"
+intitule_published: "2023-10-10"
+intitule_in_force: "2023-10-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-37611"
+original_signed_date: "2024-11-18"
+original_published_date: "2024-11-19"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2024-37611"
+entry_into_force_date: "2024-11-18"
+jci_1_3: "jci1.3:c:BWBR0048724&z=2024-11-20&g=2024-11-20"
+jci_1_0: "1.0:c:BWBR0048724&g=2024-11-20"
+citeertitel_status: "officieel"
+short_title: "Regeling specifieke uitkering woningbouw op korte termijn door bovenplanse infrastructuur"
+signed_date: "2024-11-18"
+entry_into_force: "2024-11-18"
 ---
-
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 29 september 2023, nr. IENW/BSK-2023/271099, houdende regels voor verstrekking van specifieke uitkeringen voor bovenplanse infrastructurele voorzieningen om op korte termijn grootschalige woningbouwlocaties te realiseren (Regeling specifieke uitkering woningbouw op korte termijn door bovenplanse infrastructuur)
 
 Gelet op [artikel 17, vijfde lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17), de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=4) en [5 van de Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=5) en [artikel 6, tweede lid, aanhef en onderdeel a, en derde lid, aanhef en onderdeel a, van de Wet Mobiliteitsfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0044860&artikel=6);
 
 BESLUIT:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -30,11 +56,11 @@ In deze regeling wordt verstaan onder:
 
 - **verstedelijkingsgebied:** Metropoolregio Amsterdam, Zuidelijke Randstad, Stedelijk Brabant, Metropoolregio Utrecht, Regio Arnhem-Nijmegen-Foodvalley, Regio Zwolle of Regio Groningen-Assen.
 
-#### Artikel 2. Doel van regeling
+##### Artikel 2. Doel van regeling
 
 Deze regeling heeft tot doel om gemeenten in staat te stellen bovenplanse infrastructurele voorzieningen te realiseren zodat op locaties in heel Nederland op korte termijn grootschalige woningbouw kan plaatsvinden.
 
-#### Artikel 3. Verlening op aanvraag
+##### Artikel 3. Verlening op aanvraag
 
 1. De minister kan op aanvraag van een gemeente, genoemd in de bijlage, een specifieke uitkering verlenen voor de realisatie van bovenplanse infrastructurele voorzieningen, genoemd in de bijlage, bij een grootschalige woningbouwlocatie, genoemd in de bijlage.
 
@@ -70,11 +96,11 @@ Deze regeling heeft tot doel om gemeenten in staat te stellen bovenplanse infras
 
 4. Een aanvraag kan uiterlijk twee maanden na het tijdstip van inwerkingtreding van deze regeling worden ingediend met gebruikmaking van een daartoe door de minister beschikbaar gesteld digitaal aanvraagformulier.
 
-#### Artikel 4. Uitkeringsplafond
+##### Artikel 4. Uitkeringsplafond
 
 Het uitkeringsplafond bedraagt € 1.435.983.605 inclusief omzetbelasting en op basis van prijspeil 1 juli 2022.
 
-#### Artikel 5. Kosten die in aanmerking komen voor specifieke uitkering
+##### Artikel 5. Kosten die in aanmerking komen voor specifieke uitkering
 
 1. Voor een specifieke uitkering komen in aanmerking de kosten voor de realisatie van infrastructurele voorzieningen, genoemd in de bijlage, bij een woningbouwlocatie, genoemd in de bijlage, voor ten hoogste het maximumbedrag, genoemd in de bijlage, inclusief omzetbelasting en op basis van het prijspeil 1 juli 2022.
 
@@ -92,7 +118,7 @@ Het uitkeringsplafond bedraagt € 1.435.983.605 inclusief omzetbelasting en op 
 
 3. Indien een infrastructurele voorziening een mobiliteitshub behelst worden de verwachte netto-opbrengsten van een mobiliteitshub gelet op de voorziene exploitatiekosten en -inkomsten in mindering gebracht op de kosten van de mobiliteitshub die voor een specifieke uitkering in aanmerking komen.
 
-#### Artikel 6. Verlening
+##### Artikel 6. Verlening
 
 1. De minister besluit binnen dertien weken na ontvangst op een aanvraag.
 
@@ -116,7 +142,7 @@ Het uitkeringsplafond bedraagt € 1.435.983.605 inclusief omzetbelasting en op 
 
 3. De bedragen genoemd in het tweede lid, onderdeel b, zijn de bedragen inclusief omzetbelasting en op basis van prijspeil 1 juli 2022.
 
-#### Artikel 7. Afwijzingsgronden
+##### Artikel 7. Afwijzingsgronden
 
 De minister beslist geheel of gedeeltelijk afwijzend op een aanvraag indien:
 
@@ -130,13 +156,13 @@ De minister beslist geheel of gedeeltelijk afwijzend op een aanvraag indien:
 
 - e. indien naar het oordeel van de minister op het moment van indiening van de aanvraag niet aannemelijk is dat zal worden voldaan aan een van de verplichtingen genoemd in [artikel 9, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048724&artikel=9&z=2024-11-20&g=2024-11-20).
 
-#### Artikel 8. Indexering
+##### Artikel 8. Indexering
 
 1. De in de bijlage genoemde maximumbedragen inclusief omzetbelasting, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048724&artikel=5&z=2024-11-20&g=2024-11-20), alsmede het bedrag inclusief omzetbelasting van de verleende specifieke uitkering, bedoeld in [artikel 6, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048724&artikel=6&z=2024-11-20&g=2024-11-20), worden jaarlijks op 1 oktober geïndexeerd overeenkomstig de door de Minister van Financiën uitgekeerde Index Bruto Overheidsinvesteringen, voor zover die bedragen op die datum nog niet als voorschot zijn uitgekeerd.
 
 2. Indien deze regeling inwerking is getreden na 1 oktober 2023 worden de bedragen, bedoeld in het eerste lid, tevens geïndexeerd overeenkomstig de door de Minister van Financiën uitgekeerde Index Bruto Overheidsinvesteringen zoals deze anders op 1 oktober 2023 zou hebben plaatsgehad.
 
-#### Artikel 9. Verplichtingen ontvanger
+##### Artikel 9. Verplichtingen ontvanger
 
 1. De ontvanger realiseert de infrastructurele voorziening of voorzieningen waarvoor de specifieke uitkering is verleend.
 
@@ -166,7 +192,7 @@ De minister beslist geheel of gedeeltelijk afwijzend op een aanvraag indien:
 
 10. De minister kan nadere voorschriften aan de specifieke uitkering verbinden, waarbij in bijzondere omstandigheden kan worden afgeweken van het zesde lid.
 
-#### Artikel 10. Bevoorschotting en wijze van uitkering
+##### Artikel 10. Bevoorschotting en wijze van uitkering
 
 1. De minister verleent bij een besluit tot verlening van een specifieke uitkering een voorschot ter hoogte van het totaalbedrag van de specifieke uitkering, bedoeld in [artikel 6, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048724&artikel=6&z=2024-11-20&g=2024-11-20).
 
@@ -176,7 +202,7 @@ De minister beslist geheel of gedeeltelijk afwijzend op een aanvraag indien:
 
 4. De minister kan de uitkering van het voorschot opschorten indien niet wordt voldaan aan de bij deze regeling of bij het besluit tot verlening van de specifieke uitkering gestelde verplichtingen.
 
-#### Artikel 11. Wijziging specifieke uitkering op aanvraag
+##### Artikel 11. Wijziging specifieke uitkering op aanvraag
 
 1. Op aanvraag van een gemeente aan wie een specifieke uitkering is verleend, kan de minister het besluit tot verlening van de specifieke uitkering wijzigen.
 
@@ -194,11 +220,11 @@ De minister beslist geheel of gedeeltelijk afwijzend op een aanvraag indien:
 
 6. Het percentage van het bedrag van de specifieke uitkering in het voorziene resterende tekort per woningbouwlocatie is in het gewijzigde besluit niet hoger dan in het oorspronkelijke besluit.
 
-#### Artikel 12. Verantwoording
+##### Artikel 12. Verantwoording
 
 De verantwoording door de ontvanger over de besteding van de specifieke uitkering vindt plaats op de wijze die is bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
-#### Artikel 13. Vaststelling
+##### Artikel 13. Vaststelling
 
 1. De minister stelt de specifieke uitkering ambtshalve vast uiterlijk 31 december van het jaar waarop de laatste verantwoording overeenkomstig [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0048724&artikel=12&z=2024-11-20&g=2024-11-20) heeft plaatsgevonden.
 
@@ -218,17 +244,17 @@ De verantwoording door de ontvanger over de besteding van de specifieke uitkerin
 
 6. Indien uit de verantwoording blijkt dat het resterend tekort per woningbouwlocatie lager is dan het voorziene resterend tekort, bedoeld in [artikel 6, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0048724&artikel=6&z=2024-11-20&g=2024-11-20), dan wordt het bedrag van de specifieke uitkering niet hoger vastgesteld dan het percentage, bedoeld in [artikel 6, tweede lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0048724&artikel=6&z=2024-11-20&g=2024-11-20), van het resterend tekort.
 
-#### Artikel 14. Evaluatie
+##### Artikel 14. Evaluatie
 
 In afwijking van [artikel 4:24 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:24) publiceert de minister uiterlijk 30 september 2031 en uiterlijk 30 september 2036 een verslag over de doeltreffendheid en de effecten van deze regeling in de praktijk.
 
-#### Artikel 15. Inwerkingtreding en vervaldatum
+##### Artikel 15. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 1 oktober 2036, met dien verstande dat zij van toepassing blijft op specifieke uitkeringen die voor die datum zijn verstrekt.
 
-#### Artikel 16. Citeertitel
+##### Artikel 16. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering woningbouw op korte termijn door bovenplanse infrastructuur.
 
@@ -758,7 +784,7 @@ Deze regeling wordt aangehaald als: Regeling specifieke uitkering woningbouw op 
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 13a. Hardheidsclausule
+##### Artikel 13a. Hardheidsclausule
 
 De minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing daarvan gelet op het belang bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048724&artikel=2&z=2024-11-20&g=2024-11-20) zal leiden tot een onbillijkheid van overwegende aard.
 

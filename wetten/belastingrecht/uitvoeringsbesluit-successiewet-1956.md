@@ -1,13 +1,38 @@
 ---
-title: "Uitvoeringsbesluit Successiewet 1956"
+title: "Besluit van 20 juli 1956, ter uitvoering van de Successiewet 1956"
 identifier: "BWBR0002227"
-categorie: "Belastingrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002227"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002227"
+soort: "AMvB"
+stam_id: "1021493"
+version_id: "19159742"
+internal_id: "C26721421"
+label_id: "989864"
+dtd_version: "2.0"
+original_entry_into_force: "2011-12-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002227/2026-01-01/0"
+intitule_bron: "Stb.1956-407"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1956-07-20"
+intitule_in_force: "1956-07-06"
+intitule_status: "goed"
+original_publication: "Stb.2011-677"
+original_signed_date: "2011-12-22"
+original_published_date: "2011-12-30"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2011-677"
+entry_into_force_date: "2011-12-22"
+jci_1_3: "jci1.3:c:BWBR0002227&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0002227&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsbesluit Successiewet 1956"
+signed_date: "2011-12-22"
+entry_into_force: "2011-12-22"
 ---
-
 # Besluit van 20 juli 1956, ter uitvoering van de Successiewet 1956
 
 Op de voordracht van de Staatssecretaris van Financiën van 10 juli 1956, no. C 6/6146, Afdeling Indirecte Belastingen;
@@ -20,25 +45,25 @@ Gezien het nader rapport van de Staatssecretaris van Financiën van 18 juli 1956
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 Vervallen
 
-#### Artikel 2
+##### Artikel 2
 
 Vervallen
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
 ### Hoofdstuk 1. Periodieke uitkeringen, vruchtgebruik, leegwaarderatio van verhuurde woningen en waarde van erfpachtcanon
 
-#### Artikel 5
+##### Artikel 5
 
 De waarde van een periodieke uitkering in geld van het leven van één persoon afhankelijk, wordt gesteld op het jaarlijkse bedrag, vermenigvuldigd met:
 
@@ -57,7 +82,7 @@ De waarde van een periodieke uitkering in geld van het leven van één persoon a
 | 3, |   | 85 jaar of ouder, doch jonger dan 90 jaar is, |
 | 2, |   | 90 jaar of ouder is. |
 
-#### Artikel 6
+##### Artikel 6
 
 1. De waarde van een periodieke uitkering in geld welke na een bepaalde tijd vervalt, wordt gesteld op het jaarlijkse bedrag, vermenigvuldigd met het aantal jaren gedurende welke zij moet plaatshebben, iedere euro berekend tegen de volgende bedragen:
 
@@ -75,27 +100,27 @@ De waarde van een periodieke uitkering in geld van het leven van één persoon a
 
 3. De waarde van een periodieke uitkering in geld voor onbepaalde tijd, welke niet van het leven afhankelijk is, wordt gesteld op het zeventienvoud van het jaarlijkse bedrag.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Een periodieke uitkering in geld, vervallende bij het overlijden van de langstlevende van twee of meer personen, wordt gelijkgesteld met een periodieke uitkering, afhankelijk van het leven van iemand, die vijf jaren jonger is dan de jongste van de vorenbedoelde personen.
 
 2. Een periodieke uitkering in geld, vervallende bij het overlijden van de eerststervende van twee of meer personen, wordt gelijkgesteld met een periodieke uitkering, afhankelijk van het leven van iemand, die vijf jaren ouder is dan de oudste van de vorenbedoelde personen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Een periodieke uitkering in geld tot een onzeker jaarlijks bedrag wordt gelijkgesteld met een periodieke uitkering tot het geschatte gemiddelde jaarlijkse bedrag.
 
 2. Een periodieke uitkering, recht gevende op andere goederen dan geld, wordt gelijkgesteld met een periodieke uitkering in geld tot een jaarlijks bedrag, gelijk aan de krachtens [artikel 21 der Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=21) geschatte waarde van die goederen.
 
-#### Artikel 9
+##### Artikel 9
 
 De waarde van een periodieke uitkering, niet vallende onder een van de vorige artikelen, wordt gesteld op het bedrag, waarvoor zodanige uitkering zou kunnen worden aangekocht.
 
-#### Artikel 10
+##### Artikel 10
 
 Het percentage, bedoeld in [artikel 21, veertiende lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=21), wordt gesteld op 6.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Er is een Adviescommissie beoordeling aangeboden cultuurbezit uit nalatenschappen, verder te noemen: de commissie, die tot taak heeft Onze Minister op zijn verzoek te adviseren omtrent verzoeken op grond van dit Besluit ter zake van de beoordeling of een cultuurgoed op grond van de cultuurhistorische of kunsthistorische voorwaarden die zijn opgenomen in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=2&artikel=15&z=2026-01-01&g=2026-01-01), in aanmerking komt voor de toepassing van [artikel 67, derde lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=67).
 
@@ -113,7 +138,7 @@ Het percentage, bedoeld in [artikel 21, veertiende lid, van de Successiewet 1956
 
 ### Hoofdstuk 2. Kwijtschelding van Successierecht
 
-#### Artikel 11
+##### Artikel 11
 
 1. Voor het verkrijgen van kwijtschelding van erfbelasting als bedoeld in [artikel 67, derde lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=67), wordt door alle verkrijgers van het cultuurgoed gezamenlijk, door tussenkomst van de inspecteur, een verzoek gedaan bij Onze Minister.
 
@@ -121,7 +146,7 @@ Het percentage, bedoeld in [artikel 21, veertiende lid, van de Successiewet 1956
 
 3. Het verzoek omvat mede een omschrijving van het cultuurgoed en een opgave van de waarde in het economische verkeer.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Voor de beslissing op het in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=2&artikel=11&z=2026-01-01&g=2026-01-01) bedoelde verzoek laat Onze Minister zich adviseren door de in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=2&artikel=13&z=2026-01-01&g=2026-01-01), bedoelde commissie, behalve indien het verzoek kennelijk ongegrond of niet-ontvankelijk is.
 
@@ -131,7 +156,7 @@ Het percentage, bedoeld in [artikel 21, veertiende lid, van de Successiewet 1956
 
 4. Indien Onze Minister een besluit heeft genomen als bedoeld in het derde lid, stelt hij binnen vier weken na de dagtekening van die beschikking, of, indien dat later is, binnen vier weken nadat voor alle verzoekers de belastingaanslag onherroepelijk is komen vast te staan, het bedrag van de kwijtschelding en de termijn waarbinnen het cultuurgoed in eigendom moet worden overgedragen aan de Staat vast.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Er is een Adviescommissie beoordeling aangeboden cultuurbezit uit nalatenschappen, verder te noemen: de commissie, die tot taak heeft Onze Minister op zijn verzoek te adviseren omtrent verzoeken op grond van dit Besluit ter zake van de beoordeling of een voorwerp op grond van de cultuurhistorische of kunsthistorische voorwaarden die zijn opgenomen in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=2&artikel=15&z=2002-09-25&g=2002-09-25), in aanmerking komt voor de toepassing van [artikel 67, derde lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=67).
 
@@ -147,13 +172,13 @@ Het percentage, bedoeld in [artikel 21, veertiende lid, van de Successiewet 1956
 
 7. De kosten van de commissie komen ten laste van Onze Minister van Onderwijs, Cultuur en Wetenschappen.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Een ieder die een cultuurgoed in eigendom heeft waarvan hij vermoedt dat het voldoet aan de voorwaarden die zijn opgenomen in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=2&artikel=15&z=2026-01-01&g=2026-01-01), kan Onze Minister verzoeken te verklaren dat met betrekking tot dit cultuurgoed [artikel 67, derde lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=67) toepassing kan vinden indien daarom na zijn overlijden door degene die dit cultuurgoed krachtens erfrecht uit zijn nalatenschap heeft verkregen zal worden verzocht.
 
 2. Het in het eerste lid bedoelde verzoek omvat mede een omschrijving van het cultuurgoed en voorts zijn de bepalingen van [artikel 12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=2&artikel=12&z=2026-01-01&g=2026-01-01), van overeenkomstige toepassing, met dien verstande dat aan de verklaring voorwaarden kunnen worden verbonden.
 
-#### Artikel 15
+##### Artikel 15
 
 Kwijtschelding van erfbelasting kan slechts worden verleend ter zake van de overdracht van cultuurgoederen of verzamelingen van cultuurgoederen aan de Staat die:
 
@@ -175,7 +200,7 @@ Kwijtschelding van erfbelasting kan slechts worden verleend ter zake van de over
 
 ### Hoofdstuk 3. Slotbepaling
 
-#### Artikel 16
+##### Artikel 16
 
 1. Dit besluit treedt in werking op het tijdstip, waarop de [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226) in werking treedt.
 
@@ -183,7 +208,7 @@ Kwijtschelding van erfbelasting kan slechts worden verleend ter zake van de over
 
 Onze Minister van Financiën is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 10a
+##### Artikel 10a
 
 1. De waarde, bedoeld in [artikel 21, achtste lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=21), wordt gesteld op de op grond van artikel 21, vijfde en zesde lid, van de Successiewet 1956 in aanmerking te nemen waarde (WOZ-waarde) vermenigvuldigd met de leegwaarderatio.
 
@@ -207,7 +232,7 @@ Onze Minister van Financiën is belast met de uitvoering van dit besluit, hetwel
 
 6. Indien de waarde, bedoeld in het eerste lid, ten minste 10% hoger is dan de waarde in het economische verkeer van de woning in verhuurde of verpachte staat op de waardepeildatum, bedoeld in [artikel 18 van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=18), wordt, in afwijking van het eerste lid, voor de toepassing van [artikel 21, achtste lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=21) uitgegaan van die waarde in het economische verkeer.
 
-#### Artikel 10b
+##### Artikel 10b
 
 De waarde van een erfpachtcanon als bedoeld in [artikel 21, negende lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=21) wordt gesteld op het zeventienvoud van het jaarlijkse bedrag. In afwijking van de eerste volzin wordt het deel van een erfpachtcanon dat kan worden toegerekend aan een verhuurde woning als bedoeld in [artikel 10a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=1&artikel=10a&z=2026-01-01&g=2026-01-01), gesteld op het twintigvoud van het jaarlijkse bedrag. De toerekening van de erfpachtcanon, bedoeld in de vorige volzin, geschiedt naar rato van de, met inachtneming van artikel 10a, vierde lid, berekende, WOZ-waarden van de onderscheiden zelfstandige onderdelen van het gebouwd eigendom waarop de erfpachtcanon betrekking heeft.
 
@@ -217,7 +242,7 @@ De waarde van een erfpachtcanon als bedoeld in [artikel 21, negende lid, van de 
 
 Onze Minister van Financiën is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 10c
+##### Artikel 10c
 
 1. Zodra de belastingplichtige ervan kennis neemt dat de aangifte erfbelasting over een bestanddeel van het voorwerp van die belasting dat in het buitenland wordt gehouden of is opgekomen niet, onjuist of onvolledig is gedaan, is hij gehouden daarvan mededeling te doen en alsnog de juiste en volledige inlichtingen, gegevens of aanwijzingen te verstrekken. De mededeling moet worden gedaan voordat de belastingplichtige weet of redelijkerwijs moet vermoeden dat de inspecteur met de desbetreffende onjuistheid of onvolledigheid bekend is of zal worden.
 
@@ -231,7 +256,7 @@ Onze Minister van Financiën is belast met de uitvoering van dit besluit, hetwel
 
 Onze Minister van Financiën is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 10d
+##### Artikel 10d
 
 1. Als administratieplichtigen als bedoeld in [artikel 75, eerste lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=75) worden voor de verstrekking van de gegevens en inlichtingen, bedoeld in het tweede lid, aangewezen: banken, beleggingsinstellingen, financiële instellingen, levensverzekeraars en schadeverzekeraars als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1).
 
@@ -365,7 +390,7 @@ Onze Minister van Financiën is belast met de uitvoering van dit besluit, hetwel
 
 - 4°. het bedrag van de uitkering of van de verandering in de uitkering.
 
-#### Artikel 10e
+##### Artikel 10e
 
 1. Als administratieplichtigen als bedoeld in [artikel 75, eerste lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=75) worden voor de verstrekking van de gegevens en inlichtingen, bedoeld in het tweede lid, aangewezen: in Nederland gevestigde instellingen die ingevolge [artikel 5b, zevende of achtste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5b) niet meer als algemeen nut beogende instelling zijn aangemerkt.
 
@@ -403,7 +428,7 @@ Onze Minister van Financiën is belast met de uitvoering van dit besluit, hetwel
 
 ### Hoofdstuk 3. Overgangs- en slotbepalingen
 
-#### Artikel 15a
+##### Artikel 15a
 
 1. [Artikel 10e](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=1a&artikel=10e&z=2026-01-01&g=2026-01-01) is niet van toepassing op instellingen die met ingang van een vóór 1 januari 2013 gelegen datum ingevolge [artikel 5b, zevende of achtste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5b) niet meer als algemeen nut beogende instelling zijn aangemerkt.
 

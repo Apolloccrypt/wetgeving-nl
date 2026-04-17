@@ -1,13 +1,38 @@
 ---
 title: "Regeling cultuurparticipatie provincies en gemeenten 2009–2012"
 identifier: "BWBR0026360"
-categorie: "Bestuursrecht"
-publicatiedatum: 2008-09-21
-laatste_update: 2008-09-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026360"
+country: "nl"
+rank: "zbo"
+publication_date: "2008-09-21"
+last_updated: "2008-09-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026360"
+soort: "zbo"
+stam_id: "10172963"
+version_id: "16646252"
+internal_id: "C22917291"
+label_id: "10149014"
+dtd_version: "2.0"
+original_entry_into_force: "2008-09-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026360/2008-09-21/0"
+intitule_bron: "Stcrt.2008-182"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-09-01"
+intitule_published: "2008-09-19"
+intitule_in_force: "2008-09-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-182"
+original_signed_date: "2008-09-01"
+original_published_date: "2008-09-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-182-p12-SC87625"
+entry_into_force_date: "2008-09-21"
+jci_1_3: "jci1.3:c:BWBR0026360&z=2008-09-21&g=2008-09-21"
+jci_1_0: "1.0:c:BWBR0026360&g=2008-09-21"
+citeertitel_status: "officieel"
+signed_date: "2008-09-01"
+entry_into_force: "2008-09-21"
 ---
-
 # Regeling cultuurparticipatie provincies en gemeenten 2009–2012
 
 **1 september 2008**
@@ -20,7 +45,7 @@ Het wenselijk is een regeling op te stellen op basis waarvan de decentralisatie-
 
 Besluit:
 
-#### Artikel 1. Begrippen
+##### Artikel 1. Begrippen
 
 In deze regeling wordt verstaan onder:
 
@@ -68,7 +93,7 @@ In deze regeling wordt verstaan onder:
 
 - v. **decentralisatie-uitkering:** de decentralisatie- uitkering als bedoeld in [artikel 13, lid 5 van de Financiële verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=13), waarbij het in deze regeling steeds gaat om de decentralisatie- uitkering cultuurparticipatie.
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 1. De decentralisatie-uitkering wordt verstrekt voor het stimuleren van cultuurparticipatie van alle burgers opdat iedere Nederlander, te beginnen bij jongeren, actief in aanraking komt met een cultuurdiscipline. De missie wordt ondersteund door de volgende doelstellingen:
 
@@ -82,7 +107,7 @@ In deze regeling wordt verstaan onder:
 
 4. De decentralisatie-uitkering wordt derhalve verleend voor het (laten) uitvoeren van beleid van de deelnemer dat in ieder geval betrekking heeft op de programmalijnen en binnen deze gebieden gericht is op het bevorderen van de thema’s.
 
-#### Artikel 3. Hoogte van de decentralisatie- uitkering
+##### Artikel 3. Hoogte van de decentralisatie- uitkering
 
 1. Het totale beschikbare bedrag voor deze regeling bedraagt in de periode 2009–2012 minimaal € 55,6 miljoen, onder voorbehoud van verstrekking van deze middelen door de minister.
 
@@ -96,11 +121,11 @@ In deze regeling wordt verstaan onder:
 
 3. Het aantal inwoners van een provincie of gemeente wordt voor de volledige looptijd van de regeling vastgesteld op basis van de CBS-gegevens per 1 januari 2007.
 
-#### Artikel 4. Duur van de decentralisatieuitkering
+##### Artikel 4. Duur van de decentralisatieuitkering
 
 De decentralisatie-uitkering wordt voor de periode 2009-2012 verstrekt.
 
-#### Artikel 5. Verklaring
+##### Artikel 5. Verklaring
 
 1. De verklaringen als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0026360&artikel=6&z=2008-09-21&g=2008-09-21) kunnen uiterlijk 15 november 2008 bij het fonds worden ingediend.
 
@@ -108,7 +133,7 @@ De decentralisatie-uitkering wordt voor de periode 2009-2012 verstrekt.
 
 3. Het fonds kan, indien de verklaring daartoe aanleiding geeft, de deelnemer om nadere informatie verzoeken. De deelnemer is verantwoordelijk voor een juiste en volledige informatieverstrekking op grond waarvan het bestuur van het fonds redelijkerwijs tot een besluit kan komen.
 
-#### Artikel 6. Accordering van de verklaring
+##### Artikel 6. Accordering van de verklaring
 
 Het bestuur van het fonds accordeert de verklaring indien de deelnemer door middel van ondertekening van de verklaring aangeeft ook zelf een bedrag dat ten minste overeenstemt met de decentralisatie-uitkering van het aan de uitvoering van zijn beleid te zullen besteden en de deelnemer daarin naar het oordeel van het bestuur heeft aangetoond in voldoende mate bij te dragen aan:
 
@@ -120,7 +145,7 @@ Het bestuur van het fonds accordeert de verklaring indien de deelnemer door midd
 
 - –. de thema’s.
 
-#### Artikel 7. Weigeringsgronden
+##### Artikel 7. Weigeringsgronden
 
 1. Het bepaalde in [artikel 4:35 eerste lid en tweede lid onder a Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) is van overeenkomstige toepassing.
 
@@ -132,7 +157,7 @@ Het bestuur van het fonds accordeert de verklaring indien de deelnemer door midd
 
 - –. de activiteiten niet worden uitgevoerd in de periode 2009–2012.
 
-#### Artikel 8. Procedure
+##### Artikel 8. Procedure
 
 1. Het bestuur van het fonds beoordeelt de verklaringen met inachtneming van het bepaalde in de regeling.
 
@@ -156,11 +181,11 @@ Het bestuur van het fonds accordeert de verklaring indien de deelnemer door midd
 
 7. De mededeling als bedoeld in lid 6 onder a gebeurt mede namens de beheerders van het gemeentefonds respectievelijk provinciefonds.
 
-#### Artikel 9. Meldplichten
+##### Artikel 9. Meldplichten
 
 Een deelnemer legt een voornemen tot wijziging van het beleid, doelstellingen en beoogde resultaten, alsmede van alle andere relevante informatie die hij bij de verklaring heeft verstrekt, schriftelijk voor aan het bestuur van het fonds. Daarbij dient de deelnemer aan te geven op welke wijze de wijziging zich verhoudt tot of bijdraagt aan de centrale doelstelling van het fonds, alsmede welke gevolgen dit heeft voor het besluit tot verstrekking van de decentralisatieuitkering.
 
-#### Artikel 10. Evaluatie, monitor en onderzoek
+##### Artikel 10. Evaluatie, monitor en onderzoek
 
 1. Deze regeling wordt uiterlijk in 2012 in opdracht van het Interprovinciaal Overleg, de Vereniging van Nederlandse Gemeenten en de minister door het bestuur van het fonds geëvalueerd waarbij desgevraagd medewerking van de deelnemers wordt verwacht.
 
@@ -168,13 +193,13 @@ Een deelnemer legt een voornemen tot wijziging van het beleid, doelstellingen en
 
 3. De deelnemers verlenen medewerking aan overig door het fonds geïnitieerd onderzoek, dat samenhangt met deze regeling.
 
-#### Artikel 11. Format
+##### Artikel 11. Format
 
 1. De verklaring en bijbehorende format zijn te raadplegen op de website van het fonds (www.cultuurparticipatie. nl).
 
 2. Op verzoek zendt het fonds de in het eerste lid genoemde documenten per post toe.
 
-#### Artikel 12. Bezwaar
+##### Artikel 12. Bezwaar
 
 1. Het fonds kent een commissie voor de bezwaarschriften zoals bedoeld in [art 7:13 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:13).
 
@@ -202,19 +227,19 @@ Een deelnemer legt een voornemen tot wijziging van het beleid, doelstellingen en
 
 9. De bij het geschil betrokken partijen zenden elkaar steeds per gelijke post een afschrift van de overige correspondentie met de commissie voor de bezwaarschriften.
 
-#### Artikel 13. Overig
+##### Artikel 13. Overig
 
 Op deze regeling is het Huishoudelijk Reglement van toepassing, waarin de interne organisatie van het fonds wordt geregeld.
 
-#### Artikel 14. Afwijkingsmogelijkheid
+##### Artikel 14. Afwijkingsmogelijkheid
 
 Het bestuur van het fonds beslist in die gevallen waarin deze regeling niet voorziet, met inachtneming van de strekking van deze regeling.
 
-#### Artikel 15. Inwerkingtreding
+##### Artikel 15. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 16. Citeertitel
+##### Artikel 16. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling cultuurparticipatie provincies en gemeenten 2009–2012.
 

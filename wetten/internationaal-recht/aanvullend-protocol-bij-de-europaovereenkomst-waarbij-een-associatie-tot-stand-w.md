@@ -1,13 +1,35 @@
 ---
 title: "Aanvullend Protocol bij de Europaovereenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en Roemenië, anderzijds, in verband met de toetreding van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek tot de Europese Unie"
 identifier: "BWBV0001733"
-categorie: "Internationaal recht"
-publicatiedatum: 2007-01-01
-laatste_update: 2007-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001733"
+country: "nl"
+rank: "verdrag"
+publication_date: "2007-01-01"
+last_updated: "2007-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001733"
+soort: "verdrag"
+stam_id: "10002384983"
+version_id: "10003089212"
+internal_id: "C10006996741"
+label_id: "10002374764"
+dtd_version: "2.0"
+original_entry_into_force: "2007-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001733/2007-01-01/0"
+intitule_bron: "Trb.2007-47"
+intitule_effect: "intrekking-regeling"
+intitule_published: "2007-03-09"
+intitule_in_force: "2007-03-09"
+intitule_status: "vervallen"
+original_publication: "Trb.2007-47"
+original_published_date: "2007-03-09"
+original_effect: "intrekking-regeling"
+original_url_id: "trb-2007-47"
+entry_into_force_date: "2007-01-01"
+jci_1_3: "jci1.3:c:BWBV0001733&z=2007-01-01&g=2007-01-01"
+jci_1_0: "1.0:c:BWBV0001733&g=2007-01-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2007-01-01"
 ---
-
 # Aanvullend Protocol bij de Europaovereenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en Roemenië, anderzijds, in verband met de toetreding van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek tot de Europese Unie
 
 Het Koninkrijk België,
@@ -80,63 +102,63 @@ Zijn het volgende overeengekomen:
 
 #### OVEREENKOMSTSLUITENDE PARTIJEN
 
-#### Artikel 1
+##### Artikel 1
 
 Vervallen
 
 #### HET VERSTRIJKEN VAN HET EGKS-VERDRAG
 
-#### Artikel 2
+##### Artikel 2
 
 Vervallen
 
 ### AFDELING II. LANDBOUWPRODUCTEN
 
-#### Artikel 3. Basislandbouwproducten
+##### Artikel 3. Basislandbouwproducten
 
 Vervallen
 
 ### AFDELING III. OORSPRONGSREGELS
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
 ### AFDELING IV. Economische en monetaire unie
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
 ### AFDELING V. OVERGANGSBEPALINGEN
 
-#### Artikel 6. Bewijs van oorsprong en administratieve samenwerking
+##### Artikel 6. Bewijs van oorsprong en administratieve samenwerking
 
 Vervallen
 
-#### Artikel 7. Goederen die onderweg zijn of zich in voorlopige opslag bevinden
+##### Artikel 7. Goederen die onderweg zijn of zich in voorlopige opslag bevinden
 
 Vervallen
 
 ### AFDELING VI. ALGEMENE BEPALINGEN EN SLOTBEPALINGEN
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 

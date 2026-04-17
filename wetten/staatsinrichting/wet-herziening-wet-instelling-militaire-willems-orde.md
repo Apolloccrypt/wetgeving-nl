@@ -1,14 +1,36 @@
 ---
-title: "Wet herziening Wet instelling Militaire Willems-Orde"
+title: "Wet van 30 april 1940, tot herziening van de wet van 30 april 1815, no. 5, Stb. 33, houdende instelling van de Militaire Willems-Orde"
 identifier: "BWBR0002001"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002001"
+country: "nl"
+rank: "rijkswet"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002001"
+soort: "rijkswet"
+stam_id: "368473"
+version_id: "542332"
+internal_id: "C542331"
+label_id: "359984"
+dtd_version: "2.0"
+original_entry_into_force: "1940-05-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002001/2010-10-10/0"
+intitule_bron: "Stb.1940-100"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1940-04-30"
+intitule_status: "goed"
+original_publication: "Stb.1940-100"
+original_signed_date: "1940-04-30"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1940-05-20"
+jci_1_3: "jci1.3:c:BWBR0002001&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0002001&g=2010-10-10"
+citeertitel_status: "officieel"
+short_title: "Wet herziening Wet instelling Militaire Willems-Orde"
+signed_date: "1940-04-30"
+entry_into_force: "1940-05-20"
 ---
-
-# Wet herziening Wet instelling Militaire Willems-Orde
+# Wet van 30 april 1940, tot herziening van de wet van 30 april 1815, no. 5, Stb. 33, houdende instelling van de Militaire Willems-Orde
 
 Allen, die deze zullen zien of hooren lezen, saluut! doen te weten:
 
@@ -16,31 +38,31 @@ Alzoo Wij in overweging genomen hebben, dat de bij de Wet van 30 April 1815, No.
 
 Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Er is een Orde, strekkende tot belooning van militairen, in dienst van het Koninkrijk der Nederlanden, die zich in den strijd door het bedrijven van uitstekende daden van moed, beleid en trouw, hebben onderscheiden.
 
 2. In bijzondere gevallen kunnen ook niet-militaire Nederlandsche onderdanen alsmede vreemdelingen, die zich door zoodanige daden hebben onderscheiden, in de Orde worden opgenomen.
 
-#### Artikel 2
+##### Artikel 2
 
 De Orde draagt den naam van Militaire Willems-Orde.
 
-#### Artikel 3
+##### Artikel 3
 
 Het Grootmeesterschap van de Orde is onafscheidelijk aan de Kroon der Nederlanden verbonden.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De Orde bestaat uit vier klassen. De ridders der 1e klasse dragen den titel van Ridder-Grootkruis, die der 2e klasse dien van Commandeur, die der 3e klasse en die der 4e klasse dien van ridder.
 
 2. Waar in deze wet van "ridders der Militaire Willems-Orde", zonder aanduiding van klasse, wordt gesproken, worden daarmede de ridders van alle klassen aangeduid.
 
-#### Artikel 5
+##### Artikel 5
 
 Alle benoemingen en bevorderingen in de Orde geschieden door Ons.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het Ordeteeken bestaat uit een wit geëmailleerd kruis, gedekt door een Koninklijke kroon; de vier omlijste armen van het kruis zijn van gelijke lengte, loopen van het midden breed uit, zijn aan het uiteinde ingekeept en voorzien van geparelde punten. De armen dragen aan voor- en achterzijde in gouden letters de woorden:
 
@@ -54,7 +76,7 @@ Trouw
 
 Het bij het ordeteeken behoorend lint is oranje met twee smalle Nassau-blauwe strepen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het teeken van onderscheiding voor de leden der Orde is:
 
@@ -70,7 +92,7 @@ Het bij het ordeteeken behoorend lint is oranje met twee smalle Nassau-blauwe st
 
 3. Het is den ridders der Militaire Willems-Orde vergund het ordeteeken van verkleind model onderaan het lint dan wel alleen het lint te dragen; gekleed in militaire uniform echter alleen voor zoover zulks in de desbetreffende voorschriften is toegestaan. Door Ons wordt bepaald in welke gevallen de ridders verplicht zijn de model ordeteekenen te dragen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De eed (belofte), welke door den tot ridder der Militaire Willems-Orde benoemde wordt afgelegd, luidt:
 
@@ -80,7 +102,7 @@ Zoo waarlijk helpe mij God almachtig. (Dat beloof ik.)"
 
 2. Vreemdelingen leggen den eed (de belofte) niet af.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De ridders der 4e klasse beneden de rang van officier genieten een toelage, volgens de rang of stand, bekleed op het ogenblik, dat zij zich de onderscheiding hebben waardig gemaakt, naar reden van de volgende bedragen per jaar:
 
@@ -104,13 +126,13 @@ de overigen € 182
 
 8. De in dit artikel genoemde bedragen luiden in euro.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Tot goedmaking van de toelagen, in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002001&artikel=9&z=2010-10-10&g=2010-10-10) bedoeld, zoomede van de verdere onkosten der Orde, wordt jaarlijks eene som op de begrotingen van Nederland, Aruba, Curaçao en Sint Maarten gebracht.
 
 2. De toelagen komen ten laste van de begroting van het Rijksdeel, waaruit de betrokkene, tijdens het verrichten van zijn uitstekende daad, werd bezoldigd; voor zover betreft hen, die niet uit een dier begrotingen werden bezoldigd, ten laste van de begroting van Nederland, indien de daad is verricht in Nederland of elders buiten Aruba, Curaçao en Sint Maarten, en ten laste van de desbetreffende begroting van één der evengenoemde Overzeese Rijksdelen, ingeval de daad in een dezer Rijksdelen is verricht.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Het Kapittel der Orde zal bestaan uit een door Ons te bepalen aantal leden en plaatsvervangende leden, zoo mogelijk allen ridders der Militaire Willems-Orde.
 
@@ -120,7 +142,7 @@ de overigen € 182
 
 4. De taak van het Kapittel wordt door Ons omschreven.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Degene aan wie een onderscheiding in de Orde is verleend, is, indien hij ingevolge rechterlijke veroordeling rechtens van zijn vrijheid is beroofd, onbevoegd de onderscheiding te dragen.
 
@@ -132,25 +154,25 @@ de overigen € 182
 
 3. Het vervallen van een onderscheiding in de Orde heeft tot gevolg het verlies van het ordeteken en van het recht op de toelagen, in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002001&artikel=9&z=2010-10-10&g=2010-10-10) bedoeld.
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
-#### Artikel 14
+##### Artikel 14
 
 Door Ons kan aan eenig onderdeel der krijgsmacht, dat zich in den strijd bijzonder heeft onderscheiden, het ordeteeken, vastgesteld voor den ridder der 4e klasse, worden toegekend. Dit ordeteeken zal worden gevoerd in het vaandel, den standaard of de vlag van het betrokken onderdeel, of op waardige wijze worden bewaard ten bureele van deszelfs commandeerenden officier, indien het onderdeel niet over een vaandel, standaard of vlag beschikt.
 
-#### Artikel 15
+##### Artikel 15
 
 In een door Ons vast te stellen Reglement betreffende de Militaire Willems-Orde worden de vereischte voorschriften gegeven, welke voor de uitvoering van deze wet worden noodig geacht.
 
 #### Overgangs- en slotbepalingen
 
-#### Artikel 16
+##### Artikel 16
 
 De ordeteekenen, vóór de inwerkingtreding dezer wet verleend, mogen onveranderd worden gedragen.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Deze wet is verbindend voor het gehele Koninkrijk.
 

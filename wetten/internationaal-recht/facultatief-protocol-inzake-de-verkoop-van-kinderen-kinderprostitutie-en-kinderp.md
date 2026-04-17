@@ -1,13 +1,38 @@
 ---
 title: "Facultatief Protocol inzake de verkoop van kinderen, kinderprostitutie en kinderpornografie bij het Verdrag inzake de rechten van het kind"
 identifier: "BWBV0001752"
-categorie: "Internationaal recht"
-publicatiedatum: 2005-09-23
-laatste_update: 2000-05-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001752"
+country: "nl"
+rank: "verdrag"
+publication_date: "2005-09-23"
+last_updated: "2000-05-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001752"
+soort: "verdrag"
+stam_id: "10001892143"
+version_id: "10001980312"
+internal_id: "C10006992261"
+label_id: "10001892344"
+dtd_version: "2.0"
+original_entry_into_force: "2005-09-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001752/2005-09-23/0"
+intitule_bron: "Trb.2001-63"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-08-23"
+intitule_published: "2001-04-06"
+intitule_in_force: "2005-11-11"
+intitule_status: "goed"
+original_publication: "Trb.2001-63"
+original_signed_date: "2005-08-23"
+original_published_date: "2001-04-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2001-63"
+entry_into_force_date: "2005-09-23"
+jci_1_3: "jci1.3:c:BWBV0001752&z=2005-09-23&g=2005-09-23"
+jci_1_0: "1.0:c:BWBV0001752&g=2005-09-23"
+citeertitel_status: "redactioneel"
+signed_date: "2005-08-23"
+entry_into_force: "2005-09-23"
 ---
-
 # Facultatief Protocol inzake de verkoop van kinderen, kinderprostitutie en kinderpornografie bij het Verdrag inzake de rechten van het kind
 
 De Staten die partij zijn bij dit Protocol,
@@ -38,11 +63,11 @@ Op passende wijze rekening houdend met het belang van de tradities en culturele 
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 De Staten die partij zijn, verbieden de verkoop van kinderen, kinderprostitutie en kinderpornografie overeenkomstig de bepalingen van dit Protocol.
 
-#### Artikel 2
+##### Artikel 2
 
 Voor de toepassing van dit Protocol wordt verstaan onder:
 
@@ -52,7 +77,7 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 - c. kinderpornografie: elke afbeelding, op welke wijze dan ook, van een kind dat betrokken is bij, werkelijke of gesimuleerde, expliciete seksuele gedragingen of elke afbeelding van de geslachtsorganen van een kind voor primair seksuele doeleinden.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Iedere Staat die partij is, waarborgt dat zijn strafrecht volledig van toepassing is op ten minste de volgende handelingen en gedragingen, ongeacht of deze strafbare feiten in eigen land dan wel grensoverschijdende, of individueel dan wel in georganiseerd verband worden gepleegd:
 
@@ -80,7 +105,7 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 5. De Staten die partij zijn, nemen alle passende juridische en bestuurlijke maatregelen om te waarborgen dat alle personen die betrokken zijn bij de adoptie van een kind handelen in overeenstemming met toepasselijke internationale juridische instrumenten.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Iedere Staat die partij is, neemt de nodige maatregelen om zijn rechtsmacht te vestigen ten aanzien van de strafbare feiten bedoeld in artikel 3, eerste lid, wanneer de feiten zijn gepleegd op zijn grondgebied of aan boord van een in die Staat geregistreerd schip of luchtvaartuig.
 
@@ -94,7 +119,7 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 4. Dit Protocol sluit geen strafrechtelijke rechtsmacht uit die wordt uitgeoefend in overeenstemming met het nationale recht.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De strafbare feiten, bedoeld in artikel 3, eerste lid, worden geacht te zijn beschouwd als uitleveringsdelicten in elk tussen de Staten die partij zijn bestaand uitleveringsverdrag en worden opgenomen als uitleveringsdelicten in elk later tussen hen te sluiten uitleveringsverdrag, in overeenstemming met de in die verdragen genoemde voorwaarden.
 
@@ -106,13 +131,13 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 5. Wanneer een verzoek om uitlevering wordt gedaan ter zake van een in artikel 3, eerste lid, omschreven strafbaar feit en de aangezochte Staat die partij is niet uitlevert of wenst uit te leveren op grond van de nationaliteit van de dader, neemt die Staat passende maatregelen om de zaak over te dragen aan zijn bevoegde autoriteiten ten behoeve van vervolging.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De Staten die partij zijn, verlenen elkaar de ruimst mogelijke bijstand in verband met onderzoeken of bij strafrechtelijke of uitleveringsprocedures ter zake van de in artikel 3, eerste lid, genoemde strafbare feiten, met inbegrip van rechtshulp ter verkrijging van bewijsmateriaal waarover zij beschikken en dat nodig is voor de procedure.
 
 2. De Staten die partij zijn, komen hun verplichtingen uit hoofde van het eerste lid van dit artikel na in overeenstemming met verdragen of andere regelingen inzake wederzijdse rechtshulp die tussen hen bestaan. Indien dergelijke verdragen of regelingen ontbreken, verlenen de Staten die partij zijn elkaar rechtshulp in overeenstemming met hun nationale wetgeving.
 
-#### Artikel 7
+##### Artikel 7
 
 Onverminderd de bepalingen van hun nationale recht:
 
@@ -126,7 +151,7 @@ Onverminderd de bepalingen van hun nationale recht:
 
 - c. nemen de Staten die partij zijn maatregelen gericht op het, tijdelijk of definitief, sluiten van panden die zijn gebruikt voor het plegen van dergelijke strafbare feiten.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De Staten die partij zijn, nemen passende maatregelen om de rechten en belangen van kinderen die het slachtoffer zijn van de uit hoofde van dit Protocol verboden praktijken tijdens alle fasen van de strafrechtelijke procedure te beschermen, in het bijzonder door:
 
@@ -154,7 +179,7 @@ Onverminderd de bepalingen van hun nationale recht:
 
 6. Geen enkele bepaling van dit artikel wordt zodanig uitgelegd dat deze schadelijk is voor of onverenigbaar met de rechten van de verdachte op een eerlijk en onpartijdig proces.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De Staten die partij zijn, zullen ter voorkoming van de in dit Protocol bedoelde strafbare feiten wettelijke en bestuurlijke maatregelen en sociaal beleid en programma's aannemen of aanscherpen, toepassen en bekendmaken. Specifieke aandacht wordt geschonken aan de bescherming van kinderen die in het bijzonder kwetsbaar zijn voor deze praktijken.
 
@@ -166,7 +191,7 @@ Onverminderd de bepalingen van hun nationale recht:
 
 5. De Staten die partij zijn, nemen alle passende maatregelen gericht op het doeltreffend verbieden van de vervaardiging en verspreiding van materiaal dat de in dit Protocol omschreven strafbare feiten propageert.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De Staten die partij zijn, nemen alle nodige stappen om de internationale samenwerking te intensiveren door multilaterale, regionale en bilaterale regelingen ten behoeve van voorkoming, opsporing, onderzoek, vervolging en bestraffing van hen die verantwoordelijk zijn voor handelingen met betrekking tot de verkoop van kinderen, kinderprostitutie, kinderpornografie en kindersekstoerisme. De Staten die partij zijn, bevorderen ook de internationale samenwerking en coördinatie tussen hun autoriteiten, nationale en internationale non-gouvernementele organisaties en internationale organisaties.
 
@@ -176,7 +201,7 @@ Onverminderd de bepalingen van hun nationale recht:
 
 4. De Staten die partij zijn, verlenen, voor zover zij daartoe in staat zijn, financiële, technische of andere bijstand door middel van bestaande multilaterale, regionale, bilaterale of andere programma's.
 
-#### Artikel 11
+##### Artikel 11
 
 Geen enkele bepaling van dit Protocol tast bepalingen aan die meer bijdragen tot de verwezenlijking van de rechten van het kind en die vervat kunnen zijn in:
 
@@ -184,7 +209,7 @@ Geen enkele bepaling van dit Protocol tast bepalingen aan die meer bijdragen tot
 
 - b. het in die Staat geldende internationale recht.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Iedere Staat die partij is, brengt, binnen twee jaar na de inwerkingtreding van dit Protocol voor die Staat aan het Comité voor de Rechten van het Kind verslag uit met uitgebreide informatie over de maatregelen die hij heeft genomen voor de toepassing van de bepalingen van het Protocol.
 
@@ -192,25 +217,25 @@ Geen enkele bepaling van dit Protocol tast bepalingen aan die meer bijdragen tot
 
 3. Het Comité voor de Rechten van het Kind kan de Staten die partij zijn verzoeken om nadere informatie die relevant is voor de toepassing van dit Protocol.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Dit Protocol staat open voor ondertekening door iedere Staat die partij is bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002508) of die het ondertekend heeft.
 
 2. Dit Protocol dient te worden bekrachtigd en staat open voor toetreding door iedere Staat die partij is bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002508) of die het ondertekend heeft. De akten van bekrachtiging of toetreding dienen te worden nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Dit Protocol treedt in werking drie maanden na de nederlegging van de tiende akte van bekrachtiging of toetreding.
 
 2. Voor iedere Staat die dit Protocol bekrachtigt of ertoe toetreedt nadat het in werking is getreden, treedt het Protocol een maand na de datum van nederlegging van zijn akte van bekrachtiging of toetreding in werking.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Iedere Staat die partij is, kan dit Protocol te allen tijde opzeggen door een schriftelijke kennisgeving aan de Secretaris-Generaal van de Verenigde Naties, die vervolgens de andere Staten die partij zijn bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002508) en alle Staten die het Verdrag hebben ondertekend in kennis stelt. De opzegging wordt van kracht een jaar na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
 2. Een dergelijke opzegging heeft niet tot gevolg dat de Staat die partij is, wordt ontslagen van zijn verplichtingen uit hoofde van dit Protocol met betrekking tot strafbare feiten gepleegd voorafgaand aan de datum waarop de opzegging van kracht wordt. Evenmin tast een dergelijke opzegging op enigerlei wijze de voortzetting van het onderzoek aan van een aangelegenheid die reeds wordt bestudeerd door het Comité voorafgaand aan de datum waarop de opzegging van kracht wordt.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Iedere Staat die partij is, kan een wijziging voorstellen en deze indienen bij de Secretaris-Generaal van de Verenigde Naties. De Secretaris-Generaal deelt de voorgestelde wijziging vervolgens mede aan de Staten die partij zijn met het verzoek hem te berichten of zij een conferentie verlangen van de Staten die partij zijn teneinde de voorstellen te bestuderen en in stemming te brengen. Indien, binnen vier maanden na de datum van deze mededeling, ten minste een derde van de Staten die partij zijn een dergelijke conferentie verlangt, roept de Secretaris-Generaal de vergadering bijeen onder auspiciën van de Verenigde Naties. Iedere wijziging die wordt aangenomen door een meerderheid van de ter conferentie aanwezige Staten die partij zijn en die hun stem uitbrengen, wordt ter goedkeuring voorgelegd aan de Algemene Vergadering.
 
@@ -218,7 +243,7 @@ Geen enkele bepaling van dit Protocol tast bepalingen aan die meer bijdragen tot
 
 3. Wanneer een wijziging in werking treedt, is zij bindend voor de Staten die partij zijn en haar hebben aanvaard, terwijl de andere Staten die partij zijn gebonden zullen blijven door de bepalingen van dit Protocol en door iedere voorgaande wijziging die zij hebben aanvaard.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Dit Protocol, waarvan de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse tekst gelijkelijk authentiek zijn, wordt nedergelegd in het archief van de Verenigde Naties.
 

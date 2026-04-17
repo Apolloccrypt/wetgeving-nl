@@ -1,22 +1,46 @@
 ---
 title: "Instelling Commissie ondernemersonderwijs"
 identifier: "BWBR0002811"
-categorie: "Onderwijs"
-publicatiedatum: 1972-05-01
-laatste_update: 1972-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002811"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1972-05-01"
+last_updated: "1972-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002811"
+soort: "ministeriele-regeling"
+stam_id: "4549063"
+version_id: "6355232"
+internal_id: "C6599701"
+label_id: "4527304"
+dtd_version: "2.0"
+original_entry_into_force: "1972-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002811/1972-05-01/0"
+intitule_bron: "Stcrt.1972-70"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1972-04-10"
+intitule_published: "1972-04-11"
+intitule_in_force: "1972-04-11"
+intitule_status: "goed"
+original_publication: "Stcrt.1972-70"
+original_signed_date: "1972-04-10"
+original_published_date: "1972-04-11"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1972-05-01"
+jci_1_3: "jci1.3:c:BWBR0002811&z=1972-05-01&g=1972-05-01"
+jci_1_0: "1.0:c:BWBR0002811&g=1972-05-01"
+citeertitel_status: "officieel"
+signed_date: "1972-04-10"
+entry_into_force: "1972-05-01"
 ---
-
 # Instelling Commissie ondernemersonderwijs
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 Er is een Commissie ondernemersonderwijs.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Commissie heeft tot taak het bestuderen van de ontwikkeling en de coördinatie van onderwijs aan en opleiding van zelfstandige ondernemers alsmede het uitbrengen van een advies te dier zake.
 
@@ -34,7 +58,7 @@ Er is een Commissie ondernemersonderwijs.
 
 - f. de behoefte aan applicatie-onderwijs voor gevestigde ondernemers.
 
-#### Artikel 3
+##### Artikel 3
 
 1. In de Commissie hebben zitting:
 

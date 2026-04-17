@@ -1,13 +1,36 @@
 ---
 title: "Regeling bescherming persoonsgegevens in personeelsdossiers en Emplaza BZK"
 identifier: "BWBR0015853"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2014-01-06
-laatste_update: 2014-01-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015853"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2014-01-06"
+last_updated: "2014-01-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015853"
+soort: "ministeriele-regeling"
+stam_id: "5506883"
+version_id: "9900202"
+internal_id: "C13374181"
+label_id: "5480174"
+original_entry_into_force: "2003-12-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015853/2014-01-06/0"
+intitule_bron: "Stcrt.2003-237"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-11-10"
+intitule_published: "2003-12-08"
+intitule_in_force: "2003-12-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2003-237"
+original_signed_date: "2003-11-10"
+original_published_date: "2003-12-08"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2003-12-09"
+jci_1_3: "jci1.3:c:BWBR0015853&z=2014-01-06&g=2014-01-06"
+jci_1_0: "1.0:c:BWBR0015853&g=2014-01-06"
+citeertitel_status: "officieel"
+signed_date: "2003-11-10"
+entry_into_force: "2003-12-09"
 ---
-
 # Regeling bescherming persoonsgegevens in personeelsdossiers en Emplaza BZK
 
 Gelet op de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468);
@@ -20,7 +43,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -52,17 +75,17 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 2. Doel en werkingssfeer
 
-#### Artikel 2. Doelstelling van de verwerking van persoonsgegevens
+##### Artikel 2. Doelstelling van de verwerking van persoonsgegevens
 
 De verwerking van persoonsgegevens van medewerkers van BZK in personeelsdossiers en Emplaza heeft ten doel een effectief, efficiënt en sociaal verantwoord personeelsbeleid en -beheer te kunnen voeren, alsmede om te kunnen voldoen aan wettelijke verplichtingen.
 
-#### Artikel 3. Werkingssfeer
+##### Artikel 3. Werkingssfeer
 
 Dit besluit is van kracht ten aanzien van de verwerking van persoonsgegevens in personeels-dossiers en Emplaza ten behoeve van alle onderdelen van dienst van BZK, met uitzondering van het Korps Landelijke Politiediensten en de Informatie- en Communicatietechnologie Organisatie.
 
 ### Hoofdstuk 3. Verantwoordelijkheden en bevoegdheden
 
-#### Artikel 4. Verantwoordelijkheden en Beheer
+##### Artikel 4. Verantwoordelijkheden en Beheer
 
 1. De Minister van Binnenlandse Zaken en Koninkrijksrelaties is de verantwoordelijke voor de verwerking van persoonsgegevens als bedoeld in deze regeling.
 
@@ -74,7 +97,7 @@ Dit besluit is van kracht ten aanzien van de verwerking van persoonsgegevens in 
 
 5. De beheerder is bevoegd zijn taken en bevoegdheden als bedoeld in deze regeling te mandateren.
 
-#### Artikel 5. Inzagebevoegdheid van gegevens in personeelsdossiers en Emplaza
+##### Artikel 5. Inzagebevoegdheid van gegevens in personeelsdossiers en Emplaza
 
 1. De volgende personen kunnen de persoonsgegevens raadplegen, voor zover dit noodzakelijk is voor de goede uitoefening van hun functie:
 
@@ -108,13 +131,13 @@ Dit besluit is van kracht ten aanzien van de verwerking van persoonsgegevens in 
 
 4. Onverminderd het bepaalde in [artikel 12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015853&hoofdstuk=5&artikel=12&z=2014-01-06&g=2014-01-06), mogen van de vertrouwelijke persoonsgegevens geen reproducties worden gemaakt zonder toestemming van de medewerker.
 
-#### Artikel 6. Inzagebevoegdheid van managementgegevens
+##### Artikel 6. Inzagebevoegdheid van managementgegevens
 
 1. Managementgegevens die betrekking hebben op directieniveau of hoger kunnen door alle medewerkers worden ingezien.
 
 2. Managementgegevens in de vorm van gepersonificeerde rapporten en de signaleringsgegevens kunnen uitsluitend worden geraadplaagd door leidinggevenden voor zover deze gegevens hun eigen organisatie-onderdeel betreffen.
 
-#### Artikel 7. Inzagebevoegdheid van de medewerker zelf
+##### Artikel 7. Inzagebevoegdheid van de medewerker zelf
 
 Ten aanzien van de uitoefening door de medewerkers van de hen toegekende rechten is hetgeen bepaald is in [hoofdstuk 6 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&hoofdstuk=6) van toepassing met dien verstande dat:
 
@@ -124,11 +147,11 @@ Ten aanzien van de uitoefening door de medewerkers van de hen toegekende rechten
 
 - c. inzage in het personeelsdossier slechts plaatsvindt op afspraak, in aanwezigheid van de betreffende personeelsadviseur. Degene die om inzage verzoekt kan gevraagd worden zich te legitimeren.
 
-#### Artikel 8. Bevoegdheid tot het verwerken van gegevens in personeelsdossiers en Emplaza
+##### Artikel 8. Bevoegdheid tot het verwerken van gegevens in personeelsdossiers en Emplaza
 
 De verantwoordelijke en de beheerder kunnen functionarissen aanwijzen die uit hoofde van hun functie bevoegd zijn tot het raadplegen, gebruiken of anderszins verwerken van persoonsgegevens in personeelsdossiers en in Emplaza. De bevoegdheid tot het verwerken van gegevens wordt beperkt tot die handelingen, die redelijkerwijs noodzakelijk zijn voor een goede functie-uitoefening van de aangewezen functionaris.
 
-#### Artikel 9. Verstrekking van gegevens aan derden
+##### Artikel 9. Verstrekking van gegevens aan derden
 
 1. Verstrekking van gegevens aan derden is slechts toegestaan voor zover dat voortvloeit uit het doel van de verwerking van persoonsgegevens of uit een wettelijke verplichting.
 
@@ -142,7 +165,7 @@ De verantwoordelijke en de beheerder kunnen functionarissen aanwijzen die uit ho
 
 ### Hoofdstuk 4. Gegevens
 
-#### Artikel 10. Te verwerken gegevens
+##### Artikel 10. Te verwerken gegevens
 
 1. De verwerking van persoonsgegevens in personeelsdossiers en Emplaza kan enkel gegevens omvatten die betrekking hebben op medewerkers en voormalige medewerkers.
 
@@ -156,7 +179,7 @@ De verantwoordelijke en de beheerder kunnen functionarissen aanwijzen die uit ho
 
 4. Onverminderd het bepaalde in [artikel 27, eerste lid onder k, van de Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=27) is de directeur Personeel en Organisatie bevoegd om de gegevens genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0015853&bijlage=1&z=2014-01-06&g=2014-01-06) van deze regeling te wijzigen, aan te vullen of te verwijderen.
 
-#### Artikel 11. Herkomst persoonsgegevens
+##### Artikel 11. Herkomst persoonsgegevens
 
 1. De in de personeelsdossiers en Emplaza opgenomen gegevens worden verkregen:
 
@@ -172,7 +195,7 @@ De verantwoordelijke en de beheerder kunnen functionarissen aanwijzen die uit ho
 
 ### Hoofdstuk 5. Personeelsdossiers
 
-#### Artikel 12. Opbouw en inrichting personeelsdossiers
+##### Artikel 12. Opbouw en inrichting personeelsdossiers
 
 1. De beheerder zorgt ervoor dat de personeelsdossiers worden opgebouwd volgens de indeling zoals die in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015853&bijlage=3&z=2014-01-06&g=2014-01-06) van deze regeling is weergegeven.
 
@@ -188,13 +211,13 @@ De verantwoordelijke en de beheerder kunnen functionarissen aanwijzen die uit ho
 
 7. De afdeling Documentaire Informatievoorziening van het stafbureau Centrale Stafdiensten is belast met het beheer van de in het vijfde lid bedoelde reproducties.
 
-#### Artikel 13. Overdracht persoonsgegevens
+##### Artikel 13. Overdracht persoonsgegevens
 
 1. Wanneer de medewerker wordt tewerkgesteld bij een andere beheerder of in dienst treedt bij een andere beheerder wordt zijn personeelsdossier uiterlijk op de dag van overgang in goede, geordende en toegankelijke staat, overgedragen aan de andere beheerder.
 
 2. Wanneer een de medewerker, bij een andere werkgever in de sector Rijk wordt tewerkgesteld of daar in dienst treedt, wordt zijn personeelsdossier niet overgedragen aan die andere werkgever. Aan die andere werkgever worden slechts de noodzakelijke gegevens verstrekt conform de circulaire ‘aanstelling in algemene dienst van het rijk' (9 juni 1993, Stcrt. 118).
 
-#### Artikel 14. Verwijderen van gegevens in personeelsdossiers
+##### Artikel 14. Verwijderen van gegevens in personeelsdossiers
 
 1. Behoudens een wettelijke bewaarplicht draagt de verantwoordelijke zorg voor tijdige verwijdering van de in het personeelsdossier verwerkte persoonsgegevens.
 
@@ -208,19 +231,19 @@ De verantwoordelijke en de beheerder kunnen functionarissen aanwijzen die uit ho
 
 6. Na verwijdering van de vertrouwelijke gegevens op grond van het bepaalde in het vijfde lid, worden de betreffende gegevens uit het personeelsdossier overgebracht naar de afdeling Bibliotheek en Archief om daar tot vernietiging te worden bewaard. Tot het moment van vernietiging is toegang niet mogelijk. Ontheffing, bedoeld in het vierde lid, is niet mogelijk.
 
-#### Artikel 15. Vernietiging
+##### Artikel 15. Vernietiging
 
 De persoonsgegevens in de personeelsdossiers worden vernietigd overeenkomstig het bepaalde in het Basisselectiedocument Overheidspersoneel, Deelbeleidsterrein Arbeidsvoorwaarden Rijkspersoneel, BSD, april 2000.
 
 ### Hoofdstuk 6. Emplaza
 
-#### Artikel 16. Overdracht persoonsgegevens
+##### Artikel 16. Overdracht persoonsgegevens
 
 1. Wanneer de medewerker wordt tewerkgesteld bij een andere beheerder of in dienst treedt bij een andere beheerder vindt overdracht plaats van de verwerking van zijn gegevens door de nieuwe beheerder te autoriseren om deze gegevens te verwerken en door de autorisatie van de overdragende beheerder te beëindigen.
 
 2. Wanneer de medewerker, bij een andere werkgever in de sector Rijk wordt tewerkgesteld of daar in dienst treedt, vindt geen overdracht naar de nieuwe werkgever plaats van gegevens van de medewerker die worden verwerkt in Emplaza.
 
-#### Artikel 17. Verwijderen van gegevens in Emplaza
+##### Artikel 17. Verwijderen van gegevens in Emplaza
 
 1. Behoudens een wettelijke bewaarplicht draagt de verantwoordelijke zorg voor tijdige verwijdering van de in Emplaza verwerkte persoonsgegevens.
 
@@ -230,11 +253,11 @@ De persoonsgegevens in de personeelsdossiers worden vernietigd overeenkomstig he
 
 ### Hoofdstuk 7. Overige bepalingen
 
-#### Artikel 18. Intrekking Kaderregeling
+##### Artikel 18. Intrekking Kaderregeling
 
 De Kaderregeling P-dossiers Binnenlandse Zaken van 31 mei 1995, de Wijziging van de Kaderregeling P-dossiers Binnenlandse Zaken van 27 juni 2000 en de bijbehorende bijlagen worden ingetrokken met ingang van de datum van inwerkingtreding van dit besluit.
 
-#### Artikel 19. Kennisname van dit besluit
+##### Artikel 19. Kennisname van dit besluit
 
 1. Deze regeling, alsmede de daarbij behorende bijlagen, worden ter inzage gelegd bij de directie Personeelszaken, de registratiebeheerder alsmede de bibliotheek van BZK.
 
@@ -244,11 +267,11 @@ De Kaderregeling P-dossiers Binnenlandse Zaken van 31 mei 1995, de Wijziging van
 
 - b. het BZK-Intranet.
 
-#### Artikel 20. Inwerkingtreding
+##### Artikel 20. Inwerkingtreding
 
 Deze regeling treedt in werking op de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 21. Citeertitel
+##### Artikel 21. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling bescherming persoonsgegevens in personeelsdossiers en Emplaza BZK.
 

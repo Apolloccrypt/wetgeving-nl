@@ -1,13 +1,38 @@
 ---
 title: "Fiscale positie van de ambtenaren en overige personeelsleden van de Europese Gemeenschappen (2006)"
 identifier: "BWBR0020407"
-categorie: "Bestuursrecht"
-publicatiedatum: 2006-10-21
-laatste_update: 2006-10-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020407"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2006-10-21"
+last_updated: "2006-10-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020407"
+soort: "beleidsregel"
+stam_id: "8670033"
+version_id: "13689962"
+internal_id: "C29291801"
+label_id: "8650284"
+dtd_version: "2.0"
+original_entry_into_force: "2006-10-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020407/2006-10-21/0"
+intitule_bron: "Stcrt.2006-204"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-10-12"
+intitule_published: "2006-10-19"
+intitule_in_force: "2006-10-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-204"
+original_signed_date: "2006-10-12"
+original_published_date: "2006-10-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-204-p11-SC77252"
+entry_into_force_date: "2006-10-21"
+jci_1_3: "jci1.3:c:BWBR0020407&z=2006-10-21&g=2006-10-21"
+jci_1_0: "1.0:c:BWBR0020407&g=2006-10-21"
+citeertitel_status: "redactioneel"
+signed_date: "2006-10-12"
+entry_into_force: "2006-10-21"
 ---
-
 # Fiscale positie van de ambtenaren en overige personeelsleden van de Europese Gemeenschappen (2006)
 
 De Directeur-Generaal voor Fiscale Zaken heeft namens de Minister van Financiën het volgende besloten:

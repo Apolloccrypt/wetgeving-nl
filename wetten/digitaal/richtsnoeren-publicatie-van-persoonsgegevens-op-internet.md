@@ -1,13 +1,35 @@
 ---
 title: "Richtsnoeren publicatie van persoonsgegevens op internet"
 identifier: "BWBR0033229"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2007-12-11
-laatste_update: 2007-12-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033229"
+country: "nl"
+rank: "zbo"
+publication_date: "2007-12-11"
+last_updated: "2007-12-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033229"
+soort: "zbo"
+stam_id: "12200343"
+version_id: "20414922"
+internal_id: "C28694251"
+label_id: "12173654"
+dtd_version: "2.0"
+original_entry_into_force: "2007-12-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033229/2007-12-11/0"
+intitule_bron: "Stcrt.2007-240"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2007-12-11"
+intitule_in_force: "2007-12-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-240"
+original_published_date: "2007-12-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2007-240-p27-SC83556"
+entry_into_force_date: "2007-12-11"
+jci_1_3: "jci1.3:c:BWBR0033229&z=2007-12-11&g=2007-12-11"
+jci_1_0: "1.0:c:BWBR0033229&g=2007-12-11"
+citeertitel_status: "redactioneel"
+entry_into_force: "2007-12-11"
 ---
-
 # Richtsnoeren publicatie van persoonsgegevens op internet
 
 Het College bescherming persoonsgegevens (CBP) handhaaft de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468). Op internet worden veel persoonsgegevens gepubliceerd. Dit document geeft aan hoe het CBP publicatie van persoonsgegevens op internet in het algemeen beoordeelt. De richtsnoeren bevatten tevens uitleg over de wet, geïllustreerd met praktijkvoorbeelden. Voor iedereen die publiceert op internet is van belang dat duidelijk is of, wanneer en in welke vorm publicatie is toegestaan. De richtsnoeren beogen bij te dragen aan deze duidelijkheid. Helderheid over toepasselijke normen bevordert de naleving ervan en past in een efficiënt handhavingsbeleid. Deze richtsnoeren zijn gepubliceerd in de Staatscourant van 11 december 2007.

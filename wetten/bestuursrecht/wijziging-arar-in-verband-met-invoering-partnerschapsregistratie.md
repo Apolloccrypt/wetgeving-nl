@@ -1,13 +1,34 @@
 ---
 title: "Wijziging ARAR in verband met invoering partnerschapsregistratie"
 identifier: "BWBR0009308"
-categorie: "Bestuursrecht"
-publicatiedatum: 1998-01-01
-laatste_update: 1998-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009308"
+country: "nl"
+rank: "circulaire"
+publication_date: "1998-01-01"
+last_updated: "1998-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009308"
+soort: "circulaire"
+stam_id: "6349003"
+version_id: "11005352"
+internal_id: "C14898221"
+label_id: "6337814"
+original_entry_into_force: "1998-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009308/1998-01-01/0"
+intitule_bron: "Stcrt.1998-76"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1998-04-22"
+intitule_in_force: "1998-04-22"
+intitule_status: "goed"
+original_publication: "Stcrt.1998-76"
+original_published_date: "1998-04-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1998-76-p13-SC13512"
+entry_into_force_date: "1998-01-01"
+jci_1_3: "jci1.3:c:BWBR0009308&z=1998-01-01&g=1998-01-01"
+jci_1_0: "1.0:c:BWBR0009308&g=1998-01-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1998-01-01"
 ---
-
 # Wijziging ARAR in verband met invoering partnerschapsregistratie
 
 Circulaire aan de ministers

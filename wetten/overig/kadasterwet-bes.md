@@ -1,14 +1,41 @@
 ---
-title: "Kadasterwet BES"
+title: "Wet van 8 april 2020, houdende regels met betrekking tot de openbare registers voor registergoederen en de kadasters op Bonaire, Sint Eustatius en Saba (Kadasterwet BES)"
 identifier: "BWBR0043565"
-categorie: "Overig"
-publicatiedatum: 2024-12-11
-laatste_update: 2024-12-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043565"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2024-12-11"
+last_updated: "2024-12-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043565"
+soort: "wet-BES"
+stam_id: "15462413"
+version_id: "26725972"
+internal_id: "C38502191"
+label_id: "15406484"
+dtd_version: "2.0"
+original_entry_into_force: "2021-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043565/2024-12-11/0"
+intitule_bron: "Stb.2020-149"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-04-08"
+intitule_published: "2020-05-22"
+intitule_in_force: "2020-12-02"
+intitule_status: "goed"
+original_publication: "Stb.2020-149"
+original_signed_date: "2020-04-08"
+original_published_date: "2020-05-22"
+original_effect: "nieuwe-regeling"
+original_dossier: "35109"
+original_url_id: "stb-2020-149"
+entry_into_force_date: "2021-01-01"
+jci_1_3: "jci1.3:c:BWBR0043565&z=2024-12-11&g=2024-12-11"
+jci_1_0: "1.0:c:BWBR0043565&g=2024-12-11"
+citeertitel_status: "officieel"
+short_title: "Kadasterwet BES"
+signed_date: "2020-04-08"
+entry_into_force: "2021-01-01"
 ---
-
-# Kadasterwet BES
+# Wet van 8 april 2020, houdende regels met betrekking tot de openbare registers voor registergoederen en de kadasters op Bonaire, Sint Eustatius en Saba (Kadasterwet BES)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -20,13 +47,13 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ## Titel 1. Toepassingsbereik van de wet
 
-#### Artikel 1
+##### Artikel 1
 
 Deze wet is van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
 ## Titel 2. Begripsbepalingen
 
-#### Artikel 2
+##### Artikel 2
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -54,17 +81,17 @@ Deze wet is van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Sa
 
 ## Titel 3. De kadasters
 
-#### Artikel 3
+##### Artikel 3
 
 In ieder van de openbare lichamen is een onderdeel van de Dienst aanwezig, belast met de uitvoering van de taken, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=1&titeldeel=3&artikel=7&z=2024-12-11&g=2024-12-11). Deze onderdelen ressorteren onder het bestuur van de Dienst.
 
-#### Artikel 4
+##### Artikel 4
 
 1. In afwijking van [artikel 4 van de Ambtenarenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=4) wordt onder «bevoegd gezag» in de zin van die wet voor wat betreft het personeel van de Kadasters verstaan: het bestuur van de Dienst.
 
 2. Voor zover in de regels die zijn gesteld bij of krachtens de [Ambtenarenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215) onderscheid wordt gemaakt tussen ambtenaren in dienst van de Staat en andere ambtenaren, gelden voor het personeel van de Kadasters de regels die van toepassing zijn op de ambtenaren in dienst van de Staat.
 
-#### Artikel 5
+##### Artikel 5
 
 Het bestuur van de Dienst bepaalt:
 
@@ -74,7 +101,7 @@ Het bestuur van de Dienst bepaalt:
 
 - c. op welke plaatsen en gedurende welke tijden in de openbare lichamen loket wordt gehouden voor het publiek.
 
-#### Artikel 6
+##### Artikel 6
 
 De Kadasters hebben, onverminderd het bepaalde in andere wettelijke voorschriften, als doeleinden:
 
@@ -92,7 +119,7 @@ De Kadasters hebben, onverminderd het bepaalde in andere wettelijke voorschrifte
 
 - d. ondersteuning en bevordering van de economische activiteiten.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De Kadasters hebben, onverminderd het bepaalde in andere wettelijke voorschriften, tot taak:
 
@@ -122,7 +149,7 @@ De Kadasters hebben, onverminderd het bepaalde in andere wettelijke voorschrifte
 
 3. Bij algemene maatregel van bestuur kunnen aan de Kadasters andere taken dan genoemd in het eerste lid worden opgedragen of marktactiviteiten worden toegestaan, voor zover die taken en marktactiviteiten verband houden met de taken, genoemd in het eerste lid, en niet onverenigbaar zijn met de doeleinden, genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=1&titeldeel=3&artikel=6&z=2024-12-11&g=2024-12-11). Bij die algemene maatregel van bestuur kan worden bepaald dat bij ministeriële regeling nadere regels kunnen worden gesteld met betrekking tot de uitvoering van de bij die maatregel opgedragen taken of toegestane marktactiviteiten.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De Kadasters verzamelen persoonsgegevens als bedoeld in [artikel 1, tweede lid, onder a, van de Wet bescherming persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&artikel=1) voor de doeleinden, genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=1&titeldeel=3&artikel=6&z=2024-12-11&g=2024-12-11), onverminderd het bepaalde in andere wettelijke voorschriften.
 
@@ -130,7 +157,7 @@ De Kadasters hebben, onverminderd het bepaalde in andere wettelijke voorschrifte
 
 3. Ten aanzien van verwerkingen als bedoeld in dit artikel is het bestuur van de Dienst verantwoordelijke in de zin van [artikel 1, tweede lid, onder d, van de Wet bescherming persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&artikel=1).
 
-#### Artikel 9
+##### Artikel 9
 
 1. Onder de benaming van bewaarder van het kadaster en de openbare registers worden door het bestuur van de Dienst voor de Kadasters gezamenlijk, ten minste een en ten hoogste drie bewaarders benoemd.
 
@@ -148,7 +175,7 @@ De Kadasters hebben, onverminderd het bepaalde in andere wettelijke voorschrifte
 
 5. Het bestuur van de Dienst kan een of meer personen die zijn aangesteld door de Dienst belasten met de waarneming van het ambt van bewaarder.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De bewaarder is, onverminderd het bepaalde bij of krachtens deze of een andere wet, belast met:
 
@@ -166,7 +193,7 @@ De Kadasters hebben, onverminderd het bepaalde in andere wettelijke voorschrifte
 
 - b. de toepassing van het tweede lid, eerste zin.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Het bestuur van de Dienst raadpleegt ten minste een maal per kalenderjaar de bestuurscolleges van de openbare lichamen over de kwaliteit en de doelmatigheid van de dienstverlening, over toekomstige ontwikkelingen met betrekking tot de Kadasters en over andere zaken van gemeenschappelijk belang.
 
@@ -188,7 +215,7 @@ De Kadasters hebben, onverminderd het bepaalde in andere wettelijke voorschrifte
 
 ### Afdeling 1. Omschrijving en vorm van de openbare registers; aantekeningen in de openbare registers, daaronder begrepen doorhalingen van inschrijvingen; vervanging van de inhoud van de openbare registers
 
-#### Artikel 12
+##### Artikel 12
 
 1. De openbare registers waarin feiten die voor de rechtstoestand van registergoederen van belang zijn, worden ingeschreven, zijn:
 
@@ -216,7 +243,7 @@ De Kadasters hebben, onverminderd het bepaalde in andere wettelijke voorschrifte
 
 - d. als ingevolge een wettelijk voorschrift door een beschikking of door de inschrijving van enig stuk met betrekking tot een zaak bestaande lasten en rechten vervallen of tenietgaan, na de inschrijving van die beschikking of van dat stuk de inschrijvingen betreffende hypotheken en beslagen die door die beschikking, onderscheidenlijk de inschrijving van dat stuk, waardeloos zijn geworden, met bekwame spoed worden doorgehaald.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Het bestuur van de Dienst draagt zorg dat de openbare registers zodanig duurzaam worden bewaard dat de inhoud ervan naar de eisen van openbaarheid binnen redelijke termijn voor raadpleging beschikbaar is.
 
@@ -232,7 +259,7 @@ De Kadasters hebben, onverminderd het bepaalde in andere wettelijke voorschrifte
 
 7. Het bestuur van de Dienst stelt met inachtneming van het eerste tot en met zesde lid nadere regels omtrent de wijze waarop de openbare registers worden gehouden. Daarbij wordt in elk geval geregeld de wijze waarop voor gebruik niet langer geschikte of beschikbare duplicaten als bedoeld in het derde lid worden vervangen door nieuwe duplicaten.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Het bestuur van de Dienst kan bepalen dat de inhoud van de registers, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=2&titeldeel=1&afdeling=1&artikel=12&z=2024-12-11&g=2024-12-11), wordt vervangen door afschriften daarvan in tweevoud in de vorm van door de bewaarder vervaardigde mechanische reproducties.
 
@@ -242,13 +269,13 @@ De Kadasters hebben, onverminderd het bepaalde in andere wettelijke voorschrifte
 
 ### Afdeling 2. Plaats van inschrijving
 
-#### Artikel 15
+##### Artikel 15
 
 Stukken ter verkrijging van inschrijving van feiten die betrekking hebben op onroerende zaken of de rechten waaraan deze onderworpen zijn, worden aangeboden aan de Kadasters van het openbaar lichaam waarbinnen de onroerende zaken waarop de in te schrijven feiten betrekking hebben, zijn gelegen.
 
 ### Afdeling 3. Vereisten voor inschrijving en de wijze waarop deze geschiedt
 
-#### Artikel 16
+##### Artikel 16
 
 1. Voor inschrijving van een feit in de openbare registers, bedoeld in [artikel 12, eerste lid, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=2&titeldeel=1&afdeling=1&artikel=12&z=2024-12-11&g=2024-12-11), is vereist:
 
@@ -276,7 +303,7 @@ Stukken ter verkrijging van inschrijving van feiten die betrekking hebben op onr
 
 7. De Dienst is aansprakelijk voor schade voortvloeiend uit onjuistheden en onvolledigheden in het afschrift, ontstaan ten gevolge van de vervaardiging van de mechanische reproductie, bedoeld in het zesde lid.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Bij ministeriële regeling kan worden bepaald dat de in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=18&z=2024-12-11&g=2024-12-11) bedoelde stukken in elektronische vorm kunnen worden aangeboden, voorzien van een elektronische handtekening.
 
@@ -292,7 +319,7 @@ Stukken ter verkrijging van inschrijving van feiten die betrekking hebben op onr
 
 - e. op welke wijze de inschrijving van stukken in elektronische vorm geschiedt en welke aantekeningen op de stukken in elektronische vorm worden geplaatst.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De inschrijving geschiedt door het in bewaring nemen van het afschrift van het stuk, bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=16&z=2024-12-11&g=2024-12-11).
 
@@ -302,11 +329,11 @@ Stukken ter verkrijging van inschrijving van feiten die betrekking hebben op onr
 
 4. Indien [artikel 16, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=16&z=2024-12-11&g=2024-12-11), toepassing heeft gevonden, geschiedt de inschrijving in afwijking van het eerste lid door de vervaardiging van het afschrift in tweevoud, bedoeld in dat lid. Het tweede en derde lid zijn dan van overeenkomstige toepassing.
 
-#### Artikel 19
+##### Artikel 19
 
 Na de inschrijving, bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=18&z=2024-12-11&g=2024-12-11), worden de ter inschrijving aangeboden stukken aan de aanbieder teruggegeven nadat zij door de bewaarder zijn voorzien van een aantekening, vermeldende het kantoor, dag, uur en minuut van aanbieding, alsmede het deel van het desbetreffende register waarin en het nummer waaronder in dat deel de opberging van het afschrift is geschied, of ingeval [artikel 16, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=16&z=2024-12-11&g=2024-12-11), toepassing heeft gevonden, de verwijzing naar de plaats waaronder de desbetreffende mechanische reproductie is opgeborgen.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Op de inschrijving van een feit, waarvan de inschrijving alsnog is bevolen overeenkomstig [artikel 20, tweede lid, van Boek 3 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=20) of opnieuw is verzocht, als bedoeld in artikel 20, vierde lid, tweede zin, van Boek 3 van dat wetboek, zijn de [artikelen 16 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=16&z=2024-12-11&g=2024-12-11) van toepassing, voor zover daarvan in dit artikel niet wordt afgeweken.
 
@@ -318,7 +345,7 @@ Na de inschrijving, bedoeld in [artikel 18, eerste lid](https://wetten.overheid.
 
 ### Afdeling 4. Voorlopige aantekeningen en bewijs van ontvangst
 
-#### Artikel 21
+##### Artikel 21
 
 1. De boeking, bedoeld in [artikel 20, eerste lid, van Boek 3 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=20), geschiedt in het register van voorlopige aantekeningen voor goederen als waarop het aangeboden stuk betrekking heeft, met vermelding van de gerezen bedenkingen, alsmede voor zover bekend, van de naam en woonplaats met adres van de aanbieder.
 
@@ -332,7 +359,7 @@ Na de inschrijving, bedoeld in [artikel 18, eerste lid](https://wetten.overheid.
 
 6. Het eerste en tweede lid zijn van overeenkomstige toepassing op de boeking van de aanbieding van een stuk, dat krachtens [artikel 43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=43&z=2024-12-11&g=2024-12-11), slechts op bevel van de rechter kan worden ingeschreven.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Van aan de bewaarder uitgebrachte oproepingen, als bedoeld in [artikel 20, vierde lid, van Boek 3 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=20), en van uitspraken van de rechter in eerste aanleg, aangespannen ter verkrijging van het in artikel 20, tweede lid, van Boek 3 van dat wetboek bedoelde bevel, wordt aantekening gehouden in het desbetreffende register van voorlopige aantekeningen overeenkomstig door het bestuur van de Dienst daartoe vast te stellen regels.
 
@@ -340,7 +367,7 @@ Na de inschrijving, bedoeld in [artikel 18, eerste lid](https://wetten.overheid.
 
 3. Het eerste lid is van overeenkomstige toepassing ten aanzien van oproepingen uitgebracht aan de bewaarder ter verkrijging van een bevel van de rechter tot inschrijving van een notariële verklaring, bedoeld in [artikel 43, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=43&z=2024-12-11&g=2024-12-11). Het tweede lid is van overeenkomstige toepassing ten aanzien van de in artikel 43, tweede lid, eerste zin, bedoelde boeking en de doorhaling van een zodanige boeking in het register van voorlopige aantekeningen.
 
-#### Artikel 23
+##### Artikel 23
 
 Het bestuur van de Dienst stelt de vorm vast van het bewijs van ontvangst, bedoeld in [artikel 18 van Boek 3 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=18), alsmede regels omtrent de wijze waarop op dat bewijs de verrichte inschrijving desverlangd wordt aangetekend, bedoeld in [artikel 19, derde lid, van Boek 3 van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=19).
 
@@ -348,7 +375,7 @@ Het bestuur van de Dienst stelt de vorm vast van het bewijs van ontvangst, bedoe
 
 ### Afdeling 1. Algemene vereisten waaraan in te schrijven stukken moeten voldoen
 
-#### Artikel 24
+##### Artikel 24
 
 1. Onverminderd de overige uit deze titel voortvloeiende eisen, moet een ter inschrijving aangeboden notariële akte, notariële verklaring of authentiek afschrift of uittreksel van een zodanige akte of verklaring vermelden:
 
@@ -368,11 +395,11 @@ Het bestuur van de Dienst stelt de vorm vast van het bewijs van ontvangst, bedoe
 
 6. Indien een partij in een ter inschrijving aangeboden stuk woonplaats heeft gekozen in het openbaar lichaam, waarin de inschrijving of teboekstelling plaatsvindt, wordt niettemin daarin ook de wettelijke woonplaats met adres vermeld.
 
-#### Artikel 25
+##### Artikel 25
 
 Ingeval het ter inschrijving aangeboden stuk betrekking heeft op een bepaald reeds eerder ingeschreven stuk, bevat het een verwijzing naar dit eerdere stuk overeenkomstig bij ministeriële regeling te stellen regels.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Indien een stuk ter inschrijving wordt aangeboden en het daarin vermelde in te schrijven feit betrekking heeft op een onroerende zaak of op een recht waaraan een zodanige zaak is onderworpen, vermeldt dit stuk de aard, de plaatselijke aanduiding als deze er is, en de kadastrale aanduiding van die onroerende zaak onderscheidenlijk van de onroerende zaak die aan dat recht is onderworpen, dan wel indien die aanduiding ontbreekt een meetbrief, zijnde een verklaring van een daartoe bevoegde ambtenaar betreffende de grenzen en maatvoering van een nieuw gevormd perceel.
 
@@ -380,7 +407,7 @@ Ingeval het ter inschrijving aangeboden stuk betrekking heeft op een bepaald ree
 
 3. Het bestuur van de Dienst kan regels vaststellen omtrent de wijze waarop de plaatselijke aanduiding, bedoeld in het eerste en tweede lid, in het ter inschrijving aangeboden stuk wordt vermeld.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Indien het in te schrijven feit betrekking heeft op een in de registratie voor schepen te boek staand privéschip of op een recht waaraan een zodanige zaak is onderworpen, bevat het ter inschrijving aangeboden stuk:
 
@@ -404,7 +431,7 @@ Ingeval het ter inschrijving aangeboden stuk betrekking heeft op een bepaald ree
 
 4. Het derde lid, aanhef, is van overeenkomstige toepassing op de inschrijving van stukken als bedoeld in de [artikelen 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=38&z=2024-12-11&g=2024-12-11), [44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=2&titeldeel=2&afdeling=3&artikel=44&z=2024-12-11&g=2024-12-11), en [45](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=2&titeldeel=2&afdeling=3&artikel=45&z=2024-12-11&g=2024-12-11).
 
-#### Artikel 28
+##### Artikel 28
 
 1. Indien het in te schrijven feit betrekking heeft op een in de registratie voor luchtvaartuigen te boek staand luchtvaartuig of op een recht waaraan een zodanige zaak is onderworpen, bevat het ter inschrijving aangeboden stuk:
 
@@ -418,13 +445,13 @@ Ingeval het ter inschrijving aangeboden stuk betrekking heeft op een bepaald ree
 
 2. [Artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=27&z=2024-12-11&g=2024-12-11), is van overeenkomstige toepassing.
 
-#### Artikel 29
+##### Artikel 29
 
 Indien een ter inschrijving aangeboden stuk niet een of meer van de gegevens die in de [artikelen 25 tot en met 28](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=25&z=2024-12-11&g=2024-12-11) voor een zodanig stuk zijn voorgeschreven vermeldt en het naar zijn aard niet voor aanvulling vatbaar is, wordt de vermelding van de ontbrekende gegevens in een nadere, door degene die de inschrijving verlangt ondertekende, verklaring alsnog op het stuk gesteld of daaraan gehecht.
 
 ### Afdeling 2. Vereisten waaraan ter inschrijving aangeboden stukken moeten voldoen in verband met de aard van het in te schrijven feit
 
-#### Artikel 30
+##### Artikel 30
 
 1. Ter inschrijving van een akte van levering, vereist voor de overdracht van een registergoed, voor de vestiging, afstand of wijziging van een beperkt recht dat een registergoed is, of voor de overgang van een registergoed na toedeling uit hoofde van de verdeling van een gemeenschap, wordt aangeboden de notariële akte betreffende deze levering, of een authentiek afschrift of een authentiek uittreksel daarvan. In geval van vestiging van een recht van hypotheek op een privéschip in aanbouw wordt mede ter inschrijving aangeboden een verklaring van een ambtenaar of van een andere door de bewaarder daarmee belaste persoon, inhoudende dat de bouw van het privéschip nog niet is voltooid.
 
@@ -454,7 +481,7 @@ Indien een ter inschrijving aangeboden stuk niet een of meer van de gegevens die
 
 5. Het eerste lid is van overeenkomstige toepassing op de inschrijving van een akte van grensvastlegging, opgemaakt krachtens [artikel 31 van Boek 5 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&artikel=31), alsmede op de inschrijving van een akte van splitsing als bedoeld in [artikel 109, eerste lid, van Boek 5 van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&artikel=109), en een akte tot wijziging of opheffing van een zodanige splitsing.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Ter inschrijving van een rechterlijke uitspraak die voor een akte van levering in de plaats treedt of die anderszins op grond van een wettelijke bepaling kan worden ingeschreven, wordt een expeditie van de rechterlijke uitspraak aangeboden, alsmede:
 
@@ -468,7 +495,7 @@ Indien een ter inschrijving aangeboden stuk niet een of meer van de gegevens die
 
 3. Indien de rechterlijke uitspraak in een verlof tot tenuitvoerlegging van een beslissing van arbiters bestaat, wordt ook een afschrift van deze beslissing aangeboden, getekend door de griffier van het gerecht dat het verlof gaf.
 
-#### Artikel 32
+##### Artikel 32
 
 1. Ter inschrijving van een rechtshandeling naar burgerlijk recht die op grond van een wettelijke bepaling kan worden ingeschreven, wordt, tenzij anders is bepaald, aangeboden een door een notaris met inachtneming van [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=43&z=2024-12-11&g=2024-12-11) opgemaakte verklaring, inhoudende dat de rechtshandeling naar de verklaring van degene die de inschrijving verlangt, is verricht en wat de rechtshandeling inhoudt, met daaraan gehecht de stukken waaruit van die rechtshandeling blijkt, of authentieke afschriften van die verklaring van de notaris en van die stukken.
 
@@ -480,21 +507,21 @@ Indien een ter inschrijving aangeboden stuk niet een of meer van de gegevens die
 
 5. Ter inschrijving van een afwijkend beding als bedoeld in [artikel 1, vijfde lid, van Boek 8 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&artikel=1), wordt, in afwijking van het eerste lid, een door de eigenaar van het privéschip ondertekende verklaring aangeboden, waarin het scheepstoebehoren ten aanzien waarvan het afwijkend beding is gemaakt, eenduidig is omschreven.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Ter inschrijving van erfopvolgingen die registergoederen betreffen, wordt een door een notaris opgemaakte verklaring van erfrecht, of een authentiek afschrift van de verklaring van de notaris aangeboden, waaruit van de erfopvolging blijkt.
 
 2. Ter inschrijving van een executele of een bij uiterste wilsbeschikking ingesteld bewind wordt een door een notaris opgemaakte verklaring van erfrecht of een authentiek afschrift van de verklaring van de notaris aangeboden, waaruit van deze executele, onderscheidenlijk van dit bewind blijkt.
 
-#### Artikel 34
+##### Artikel 34
 
 Ter inschrijving van de aanvaarding van een nalatenschap onder voorrecht van boedelbeschrijving of van de verwerping van een nalatenschap, wordt een door de griffier getekende verklaring aangeboden, inhoudende de verklaring betreffende de aanvaarding of verwerping die krachtens [artikel 1055](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&artikel=1055) of [artikel 1083 van Boek 4 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&artikel=1083) ter griffie is afgelegd.
 
-#### Artikel 35
+##### Artikel 35
 
 Ter inschrijving van de afstand van een huwelijksgemeenschap, wordt een door de griffier getekend uittreksel uit het huwelijksgoederenregister aangeboden, inhoudende de verklaring betreffende de afstand, die krachtens [artikel 104 van Boek 1 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&artikel=104) in het huwelijksgoederenregister is ingeschreven.
 
-#### Artikel 36
+##### Artikel 36
 
 1. Ter inschrijving van de vervulling van een voorwaarde, gesteld in een ingeschreven voorwaardelijke rechtshandeling, of van de verschijning van een onzeker tijdstip, aangeduid in de aan een ingeschreven rechtshandeling verbonden tijdsbepaling, wordt aangeboden een door een notaris met inachtneming van [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=43&z=2024-12-11&g=2024-12-11) opgemaakte verklaring, inhoudende dat naar de verklaring van degene die de inschrijving verlangt, de voorwaarde is vervuld, onderscheidenlijk het tijdstip is verschenen, met daaraan gehecht de stukken waaruit van deze vervulling of verschijning blijkt, of authentieke afschriften van de verklaring van de notaris en van die stukken.
 
@@ -504,7 +531,7 @@ Ter inschrijving van de afstand van een huwelijksgemeenschap, wordt een door de 
 
 - b. of het vruchtgebruik is vervallen of bij wie het vruchtgebruik na de dood van de vruchtgebruiker is verbleven.
 
-#### Artikel 37
+##### Artikel 37
 
 Op de inschrijving van reglementen en andere regelingen die tussen medegerechtigden in registergoederen zijn vastgesteld, zijn van overeenkomstige toepassing:
 
@@ -512,7 +539,7 @@ Op de inschrijving van reglementen en andere regelingen die tussen medegerechtig
 
 - b. voor zover het reglement of de regeling bij rechtshandeling is vastgesteld: [artikel 33, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=33&z=2024-12-11&g=2024-12-11).
 
-#### Artikel 38
+##### Artikel 38
 
 1. Ter inschrijving van een proces-verbaal van inbeslagneming, wordt dit proces-verbaal of een door de deurwaarder of een advocaat getekend afschrift daarvan aangeboden. [Artikel 24, derde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=24&z=2024-12-11&g=2024-12-11), is niet van toepassing.
 
@@ -536,7 +563,7 @@ Op de inschrijving van reglementen en andere regelingen die tussen medegerechtig
 
 - b. langs gerechtelijke weg erkenning van het voorrecht en de omvang ervan is gevorderd, op de inschrijving van welk bewijsstuk [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=2&titeldeel=2&afdeling=3&artikel=44&z=2024-12-11&g=2024-12-11) van overeenkomstige toepassing is.
 
-#### Artikel 39
+##### Artikel 39
 
 1. Ter inschrijving van een verandering in de voornaam of de geslachtsnaam van tot registergoederen gerechtigde natuurlijke personen, wordt een door of namens deze persoon ondertekend stuk aangeboden, inhoudende de gegevens, bedoeld in [artikel 24, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=24&z=2024-12-11&g=2024-12-11), met vermelding van de oude en de nieuwe naam of voornaam, en de dag waarop de verandering is ingegaan. Indien de verandering blijkt uit de registers van de burgerlijke stand, wordt een uittreksel daaruit overgelegd, dat de verandering relateert. In andere gevallen wordt een ander bewijsstuk betreffende deze verandering overgelegd.
 
@@ -548,7 +575,7 @@ Op de inschrijving van reglementen en andere regelingen die tussen medegerechtig
 
 5. Ter inschrijving van een splitsing van rechtspersonen als bedoeld in [artikel 335 van Boek 2 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&artikel=335), wordt een opgave van een notaris aangeboden, inhoudende met betrekking tot elke partij bij de splitsing en, als bij de splitsing verkrijgende rechtspersonen worden opgericht, tevens met betrekking tot die rechtspersonen de in [artikel 24, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=24&z=2024-12-11&g=2024-12-11), bedoelde gegevens, met vermelding op welke verkrijgende rechtspersoon welke registergoederen zijn overgegaan alsmede van de dag waarop de splitsing van kracht is geworden.
 
-#### Artikel 40
+##### Artikel 40
 
 Ter inschrijving van een verjaring, wordt een door een notaris met inachtneming van [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=43&z=2024-12-11&g=2024-12-11) opgemaakte verklaring of een authentiek afschrift daarvan aangeboden, inhoudende dat naar de verklaring van degene die de inschrijving verlangt, de verjaring is ingetreden, alsmede:
 
@@ -560,7 +587,7 @@ Ter inschrijving van een verjaring, wordt een door een notaris met inachtneming 
 
 - d. dat de verjaring wordt betwist of niet wordt betwist door degene tegen wie zij werkt, als dit bekend is.
 
-#### Artikel 41
+##### Artikel 41
 
 1. Ter inschrijving van een of meer verklaringen van waardeloosheid als bedoeld in [artikel 28 van Boek 3 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=28), wordt een door een notaris met inachtneming van [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=43&z=2024-12-11&g=2024-12-11) opgemaakte verklaring aangeboden, die inhoudt dat degenen voor wie de inschrijving zou hebben gestrekt, schriftelijk hebben verklaard dat zij waardeloos is, en waaraan deze schriftelijke verklaringen zijn gehecht, of een authentiek afschrift van de verklaring van de notaris en de daaraan gehechte verklaringen.
 
@@ -570,7 +597,7 @@ Ter inschrijving van een verjaring, wordt een door een notaris met inachtneming 
 
 4. Ter inschrijving van een verklaring als bedoeld in [artikel 274 van Boek 3 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=274), wordt aangeboden de desbetreffende authentieke akte of een authentiek afschrift daarvan.
 
-#### Artikel 42
+##### Artikel 42
 
 1. Ter inschrijving van het feit dat het nut van een mandelige zaak voor elk van de erven is geëindigd, wordt een door een notaris met inachtneming van [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=43&z=2024-12-11&g=2024-12-11) opgemaakte verklaring aangeboden, inhoudende dat naar de verklaring van hen die de inschrijving verlangen, het nut voor elk van de erven is geëindigd, of een authentiek afschrift van de verklaring van de notaris. Werken niet alle rechthebbenden op de mandelige zaak mee, dan vermeldt de notaris in zijn verklaring de reden daarvan.
 
@@ -586,7 +613,7 @@ Ter inschrijving van een verjaring, wordt een door een notaris met inachtneming 
 
 - b. wie de rechthebbende op dat recht is, met daaraan gehecht de stukken waaruit een en ander blijkt, of authentieke afschriften van die verklaring en die stukken.
 
-#### Artikel 43
+##### Artikel 43
 
 1. Een notariële verklaring als bedoeld in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=32&z=2024-12-11&g=2024-12-11), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=36&z=2024-12-11&g=2024-12-11), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=40&z=2024-12-11&g=2024-12-11), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=41&z=2024-12-11&g=2024-12-11) en [42](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=42&z=2024-12-11&g=2024-12-11) houdt, behalve hetgeen in die artikelen is voorgeschreven, tevens in een verklaring van de notaris dat:
 
@@ -604,17 +631,17 @@ Ter inschrijving van een verjaring, wordt een door een notaris met inachtneming 
 
 ### Afdeling 3. Vereisten waaraan stukken moeten voldoen, aangeboden ter inschrijving van het instellen van een rechtsvordering, van het indienen van een verzoekschrift, van tegen rechterlijke uitspraken ingestelde rechtsmiddelen of van de waardeloosheid van zodanige inschrijvingen
 
-#### Artikel 44
+##### Artikel 44
 
 1. Ter inschrijving van het instellen van een rechtsvordering of de indiening van een verzoekschrift ter verkrijging van een rechterlijke uitspraak die de rechtstoestand van een registergoed betreft, wordt aangeboden een afschrift daarvan, getekend door de griffier van het gerecht waar de zaak aanhangig is.
 
 2. [Artikel 24, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=24&z=2024-12-11&g=2024-12-11), is niet van toepassing, behoudens dat het aangeboden stuk in elk geval de naam en een ter zake van het geding gekozen woonplaats met adres van degene voor wie de aanbieding geschiedt, bevat.
 
-#### Artikel 45
+##### Artikel 45
 
 Ter inschrijving van de instelling van een rechtsmiddel tegen een rechterlijke uitspraak als bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=2&titeldeel=2&afdeling=3&artikel=44&z=2024-12-11&g=2024-12-11) is dat artikel van overeenkomstige toepassing. Indien het ingestelde rechtsmiddel een beroep in cassatie is, wordt aangeboden een door de griffier van het Gemeenschappelijk Hof van Justitie van Curaçao, Aruba, Sint Maarten en van Bonaire, Sint Eustatius en Saba of door de griffier van de Hoge Raad der Nederlanden getekende verklaring dat beroep in cassatie is ingesteld.
 
-#### Artikel 46
+##### Artikel 46
 
 Ter inschrijving van de waardeloosheid van een overeenkomstig [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=2&titeldeel=2&afdeling=3&artikel=44&z=2024-12-11&g=2024-12-11) of [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=2&titeldeel=2&afdeling=3&artikel=45&z=2024-12-11&g=2024-12-11) verkregen inschrijving, kan ook worden aangeboden:
 
@@ -624,7 +651,7 @@ Ter inschrijving van de waardeloosheid van een overeenkomstig [artikel 44](https
 
 ### Afdeling 4. Overige bepalingen betreffende inschrijvingen
 
-#### Artikel 47
+##### Artikel 47
 
 1. Ter inschrijving van een feit dat is opgenomen in een stuk gesteld in een andere taal dan het Nederlands, het Engels of het Papiamento, wordt naast dat ter inschrijving aangeboden stuk een letterlijke vertaling in het Nederlands, het Engels of het Papiamento ter inschrijving aangeboden, vervaardigd en voor overeenstemmend verklaard door een voor die taal als bevoegd toegelaten beëdigd vertaler.
 
@@ -632,21 +659,21 @@ Ter inschrijving van de waardeloosheid van een overeenkomstig [artikel 44](https
 
 3. De vertalingen worden ingeschreven in plaats van de in de vreemde taal gestelde stukken, die onder de bewaarder blijven berusten.
 
-#### Artikel 48
+##### Artikel 48
 
 Op de inschrijving van stukken tot verbetering van onjuistheden en onvolledigheden in ingeschreven stukken zijn de bepalingen gegeven bij of krachtens dit hoofdstuk van overeenkomstige toepassing.
 
-#### Artikel 49
+##### Artikel 49
 
 Indien het ter inschrijving aangeboden stuk waarin het in te schrijven feit is opgenomen, niet voldoet aan de vereisten, gesteld in de [artikelen 24 tot en met 48](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=24&z=2024-12-11&g=2024-12-11), kan het met ontbrekende gegevens worden aangevuld door een verklaring aan de voet van het stuk, ondertekend door degene die bevoegd is tot het opmaken en ondertekenen van een zodanig stuk, een en ander voor zover de aard van het stuk zich daartegen niet verzet.
 
-#### Artikel 50
+##### Artikel 50
 
 1. Stukken die voor bewijs bij de aanbieding van een stuk worden overgelegd, worden slechts mede ingeschreven als de wet dit eist of als de aanbieder dit verlangt, tenzij bij wet is bepaald dat de desbetreffende stukken niet worden ingeschreven.
 
 2. Door de bewaarder wordt, overeenkomstig door het bestuur van de Dienst te stellen regels, van de overlegging melding gemaakt op het ter inschrijving aangeboden stuk, alsmede ingeval [artikel 16, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=16&z=2024-12-11&g=2024-12-11), geen toepassing heeft gevonden, op het afschrift van dat stuk. De stukken die moeten worden overgelegd, maar waarvan de inschrijving niet wordt geëist of verlangd, worden onverwijld aan de aanbieder teruggegeven.
 
-#### Artikel 51
+##### Artikel 51
 
 1. Bij algemene maatregel van bestuur kunnen regels worden gesteld omtrent de vereisten waaraan stukken dienen te voldoen die worden aangeboden ter inschrijving van andere inschrijfbare feiten dan die waarop de [artikelen 30 tot en met 46](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=30&z=2024-12-11&g=2024-12-11) betrekking hebben, voor zover dit niet reeds bij deze wet of bij of krachtens een andere wet is geschied.
 
@@ -654,7 +681,7 @@ Indien het ter inschrijving aangeboden stuk waarin het in te schrijven feit is o
 
 ## Titel 3. Inschrijfbaarheid van andere stukken en van verandering van woonplaats
 
-#### Artikel 52
+##### Artikel 52
 
 1. Naast feiten die voor de rechtstoestand van registergoederen van belang zijn, kunnen in de openbare registers tevens algemene voorwaarden, modelreglementen en andere stukken, die niet op een bepaald registergoed betrekking hebben, worden ingeschreven, met het uitsluitend doel dat daarnaar in later ter inschrijving aangeboden stukken kan worden verwezen. De [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=18), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=19), [20, eerste lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=20), en [22 van Boek 3 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=22) zijn van overeenkomstige toepassing.
 
@@ -666,7 +693,7 @@ Indien het ter inschrijving aangeboden stuk waarin het in te schrijven feit is o
 
 5. Een verwijzing naar een stuk als bedoeld in het eerste lid, eerste zin, heeft tot gevolg dat het stuk waarnaar in een ter inschrijving aangeboden stuk wordt verwezen, geacht wordt deel uit te maken van de inschrijving die op grond van het aangeboden stuk plaatsvindt.
 
-#### Artikel 53
+##### Artikel 53
 
 1. Een verandering van een in een ingeschreven stuk gekozen woonplaats, een alsnog ter zake van een inschrijving gedane keuze van woonplaats en de opheffing van een gekozen woonplaats kunnen worden ingeschreven. Ter inschrijving van de verandering, keuze of opheffing wordt een door of namens de belanghebbende ondertekende verklaring aangeboden die de nieuwe en de vorige gekozen of wettelijke woonplaats vermeldt, alsmede de datum van ingang.
 
@@ -680,13 +707,13 @@ Indien het ter inschrijving aangeboden stuk waarin het in te schrijven feit is o
 
 ### Hoofdstuk 3. Registratie onroerende zaken en beperkte rechten
 
-#### Artikel 54
+##### Artikel 54
 
 1. De gebouwde en ongebouwde eigendommen worden aangeduid door de opgave van de kadastrale afdeling, de sectie en het nummer, waaronder zij in de registers van de Kadasters bekend zijn en worden kadastrale percelen genaamd.
 
 2. In de kadastrale aanduiding wordt de afkorting van het openbaar lichaam vermeld, waar de onroerende zaak is gelegen. Het bestuur van de Dienst kan nadere regels stellen met betrekking tot de kadastrale aanduiding. Bij die regeling kan de kadastrale aanduiding per openbaar lichaam verschillend worden geregeld.
 
-#### Artikel 55
+##### Artikel 55
 
 1. De kadastrale registratie, bestaande uit een verzameling administratieve gegeven met betrekking tot onroerende zaken, ontsluit de openbare registers door middel van:
 
@@ -726,17 +753,17 @@ Indien het ter inschrijving aangeboden stuk waarin het in te schrijven feit is o
 
 ### Hoofdstuk 4. Registratie voor schepen
 
-#### Artikel 56
+##### Artikel 56
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel 57
+##### Artikel 57
 
 De eigenaar, de beperkt gerechtigde en de gebruiker van een privéschip zijn verplicht te gedogen dat daarop een brandmerk als bedoeld in [artikel 27, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=27&z=2024-12-11&g=2024-12-11), wordt aangebracht ter uitvoering van aan de Kadasters opgedragen taken.
 
 ### Hoofdstuk 5. Registratie voor luchtvaartuigen
 
-#### Artikel 58
+##### Artikel 58
 
 Dit onderdeel is nog niet inwerking getreden
 
@@ -744,7 +771,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ## Titel 1. Algemene bepalingen
 
-#### Artikel 59
+##### Artikel 59
 
 1. Bijwerking vindt plaats als bijhouding.
 
@@ -752,23 +779,23 @@ Dit onderdeel is nog niet inwerking getreden
 
 3. Het bestuur van de Dienst kan regels stellen omtrent de bijhouding van de in de kadastrale registratie, de registratie voor schepen en de registratie voor luchtvaartuigen op te nemen gegevens.
 
-#### Artikel 60
+##### Artikel 60
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel 61
+##### Artikel 61
 
 Een belanghebbende kan bezwaar of beroep instellen tegen een beschikking inzake de bijhouding nadat die bijhouding is voltooid.
 
 ## Titel 2. Bijhouding van de kadastrale registratie
 
-#### Artikel 62
+##### Artikel 62
 
 1. De metingen en andere werkzaamheden, nodig voor het inrichten en in stand houden van de kadastrale registraties, worden door of onder verantwoordelijkheid van de ambtenaren of de ambtenaren van de Dienst verricht.
 
 2. Het bestuur van de Dienst kan andere diensten, belast met het bijhouden van kadasters binnen het Koninkrijk, mandateren tot het verrichten van de metingen, bedoeld in het eerste lid.
 
-#### Artikel 63
+##### Artikel 63
 
 1. Personen die door de Kadasters of een daartoe op grond van een wettelijk voorschrift bevoegde functionaris zijn belast met aan de uitvoering van de aan de Kadasters opgedragen taken verbonden werkzaamheden, zijn bevoegd, met medeneming van de benodigde apparatuur en andere hulpmiddelen, elke plaats te betreden, onverminderd de [artikelen 155 tot en met 163 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=155), en daar een waarneming, meting of graving te verrichten en daarop of daarin een teken te stellen, voor zover dat redelijkerwijs nodig is voor de vervulling van hun taak ter uitvoering van aan de Kadasters opgedragen taken.
 
@@ -778,7 +805,7 @@ Een belanghebbende kan bezwaar of beroep instellen tegen een beschikking inzake 
 
 4. Indien de toegang wordt geweigerd, verschaffen de personen, bedoeld in het eerste lid, zich zo nodig toegang met behulp van de sterke arm. Indien het verrichten van de handelingen, bedoeld in het eerste lid, niet wordt toegestaan of de medewerking, bedoeld in het tweede lid, niet wordt verleend, zijn de personen, bedoeld in het eerste lid, bevoegd het verrichten van de handelingen, bedoeld in het eerste lid, zo nodig met behulp van de sterke arm mogelijk te maken.
 
-#### Artikel 64
+##### Artikel 64
 
 1. Een persoon als bedoeld in [artikel 63, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=6&titeldeel=2&artikel=63&z=2024-12-11&g=2024-12-11), draagt bij het verrichten van werkzaamheden als bedoeld in dat artikel een legitimatiebewijs bij zich, dat is uitgegeven door het bestuur van de Dienst, en toont zijn legitimatiebewijs desgevraagd terstond.
 
@@ -786,7 +813,7 @@ Een belanghebbende kan bezwaar of beroep instellen tegen een beschikking inzake 
 
 3. Het model van het legitimatiebewijs wordt vastgesteld bij regeling van het bestuur van de Dienst.
 
-#### Artikel 65
+##### Artikel 65
 
 1. De percelen grond, welke op aanvraag van belanghebbenden zijn opgemeten, worden op hun kosten, ten genoegen van de Kadasters, van duurzame officiële grenstekens voorzien.
 
@@ -796,7 +823,7 @@ Een belanghebbende kan bezwaar of beroep instellen tegen een beschikking inzake 
 
 4. Bij ministeriële regeling worden de eisen opgenomen waaraan de te plaatsen grenstekens moeten voldoen.
 
-#### Artikel 66
+##### Artikel 66
 
 1. Hij die handelt in strijd met het bepaalde bij [artikel 65, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=6&titeldeel=2&artikel=65&z=2024-12-11&g=2024-12-11), wordt, gestraft met een geldboete van de tweede categorie.
 
@@ -804,7 +831,7 @@ Een belanghebbende kan bezwaar of beroep instellen tegen een beschikking inzake 
 
 3. De in dit artikel strafbaar gestelde feiten, worden beschouwd als overtredingen.
 
-#### Artikel 67
+##### Artikel 67
 
 1. De rechthebbende op de grond is verplicht de grenstekens in behoorlijke staat, ter beoordeling van de Kadasters, te onderhouden.
 
@@ -812,19 +839,19 @@ Een belanghebbende kan bezwaar of beroep instellen tegen een beschikking inzake 
 
 ## Titel 3. Kadastrale vernieuwing
 
-#### Artikel 68
+##### Artikel 68
 
 Vernieuwing vindt plaats op grond van veranderingen, voor zover deze blijken uit in de openbare registers ingeschreven akten van vernieuwing als bedoeld in [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=6&titeldeel=3&artikel=73&z=2024-12-11&g=2024-12-11).
 
-#### Artikel 69
+##### Artikel 69
 
 Het voorstel van vernieuwing als bedoeld in [artikel 72, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=6&titeldeel=3&artikel=72&z=2024-12-11&g=2024-12-11), geldt als een beschikking als bedoeld in [artikel 3 van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=3).
 
-#### Artikel 70
+##### Artikel 70
 
 In bij algemene maatregel van bestuur te bepalen gevallen is de Dienst bevoegd te onderzoeken of de gegevens betreffende de rechtstoestand, de grootte en feitelijke gesteldheid van onroerende zaken, alsmede de gegevens betreffende de rechtstoestand van de rechten waaraan deze onroerende zaken onderworpen zijn, die zijn weergegeven in de kadastrale registratie en de aan de kadastrale kaart ten grondslag liggende bescheiden juist en volledig zijn.
 
-#### Artikel 71
+##### Artikel 71
 
 1. Vóór de aanvang van een onderzoek van vernieuwing als bedoeld in [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=6&titeldeel=3&artikel=70&z=2024-12-11&g=2024-12-11) maakt het bestuur van de Dienst het voornemen daartoe openbaar volgens bij ministeriële regeling gegeven regels. Bij algemene maatregel van bestuur kan voor daarin omschreven gevallen worden bepaald dat openbaarmaking achterwege kan blijven op de grond dat het bereiken van alle belanghebbenden door het bepaalde in het tweede lid voldoende gewaarborgd is.
 
@@ -836,7 +863,7 @@ In bij algemene maatregel van bestuur te bepalen gevallen is de Dienst bevoegd t
 
 5. In de mededeling, bedoeld in het tweede lid, wordt gewezen op de in I, genoemde gevolgen die de wet aan de vernieuwing verbindt.
 
-#### Artikel 72
+##### Artikel 72
 
 1. De met het onderzoek van vernieuwing belaste ambtenaar wint, zo nodig ter plaatse, inlichtingen in, verzoekt zo nodig om overlegging of openlegging van bescheiden en doet de nodige waarnemingen. De belanghebbenden, bedoeld in [artikel 71, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=6&titeldeel=3&artikel=71&z=2024-12-11&g=2024-12-11), dienen, indien naar het oordeel van de ambtenaar nodig door aanwijzing ter plaatse, de door de ambtenaar voor de vernieuwing benodigde inlichtingen te verschaffen en daartoe zo nodig bescheiden over te leggen of open te leggen.
 
@@ -856,7 +883,7 @@ In bij algemene maatregel van bestuur te bepalen gevallen is de Dienst bevoegd t
 
 9. Het bestuur van de Dienst doet mededeling van het voorstel van vernieuwing in de Staatscourant. Van de indiening van bezwaarschriften en het instellen van beroep, alsmede van daarop gegeven beslissingen wordt bij het voorstel melding gemaakt overeenkomstig door het bestuur van de Dienst vast te stellen regels.
 
-#### Artikel 73
+##### Artikel 73
 
 1. Voor zover tegen een voorstel van vernieuwing geen, of niet tijdig, bezwaren zijn ingediend, de beschikking in heroverweging onherroepelijk is geworden of het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba uitspraak heeft gedaan, wordt door een daartoe door de Dienst aangewezen notaris een akte van vernieuwing opgemaakt. De akte wordt door de Dienst ondertekend.
 
@@ -868,7 +895,7 @@ In bij algemene maatregel van bestuur te bepalen gevallen is de Dienst bevoegd t
 
 5. De akte van vernieuwing wordt ingeschreven in de openbare registers.
 
-#### Artikel 74
+##### Artikel 74
 
 1. Na de inschrijving, bedoeld in [artikel 73, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=6&titeldeel=3&artikel=73&z=2024-12-11&g=2024-12-11), wordt de kadastrale registratie met bekwame spoed vernieuwd op de voet van de akte van vernieuwing.
 
@@ -878,25 +905,25 @@ In bij algemene maatregel van bestuur te bepalen gevallen is de Dienst bevoegd t
 
 ### Hoofdstuk 7. Verstrekking van inlichtingen
 
-#### Artikel 75
+##### Artikel 75
 
 1. Desgevraagd verleent de bewaarder inzage van de openbare registers, de kadastrale registratie, de registratie voor schepen en de registratie voor luchtvaartuigen en geeft hij af of zendt toe voor eensluidend gewaarmerkte afschriften of uittreksels van de in deze registers ingeschreven of geboekte stukken, alsmede getuigschriften omtrent het al dan niet bestaan van inschrijvingen of voorlopige aantekeningen betreffende een registergoed of een persoon.
 
 2. Het bestuur van de Dienst stelt de vorm van de afschriften, uittreksels en getuigschriften vast, alsmede regels omtrent de wijze van raadplegen van de in het eerste lid bedoelde registers.
 
-#### Artikel 76
+##### Artikel 76
 
 1. Indien met betrekking tot een registergoed inschrijvingen ter zake van hypotheken en beslagen in de openbare registers, bedoeld in [artikel 12, eerste lid, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=2&titeldeel=1&afdeling=1&artikel=12&z=2024-12-11&g=2024-12-11), zijn doorgehaald, wordt op de getuigschriften inzake dat registergoed ten aanzien van hypotheken en beslagen melding gemaakt van het feit dat doorhaling heeft plaatsgevonden.
 
 2. Indien met betrekking tot een registergoed in het register van voorlopige aantekeningen, bedoeld in [artikel 12 eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=2&titeldeel=1&afdeling=1&artikel=12&z=2024-12-11&g=2024-12-11), voorlopige aantekeningen zijn gesteld die nog niet zijn doorgehaald, wordt op de getuigschriften inzake dat registergoed melding gemaakt van die nog niet doorgehaalde voorlopige aantekeningen.
 
-#### Artikel 77
+##### Artikel 77
 
 1. Desgevraagd verstrekken de Kadasters inlichtingen over het net van coördinaatpunten.
 
 2. Desgevraagd verstrekken de Kadasters inlichtingen over de geografische gegevens, bedoeld in [artikel 7, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=1&titeldeel=3&artikel=7&z=2024-12-11&g=2024-12-11), en verlenen de Kadasters inzage van de daaraan ten grondslag liggende bescheiden.
 
-#### Artikel 78
+##### Artikel 78
 
 Het bestuur van de Dienst stelt vast:
 
@@ -912,21 +939,21 @@ Het bestuur van de Dienst stelt vast:
 
 - f. de wijze waarop inlichtingen over geografische gegevens worden verstrekt en de wijze waarop inzage wordt verleend van de aan die geografische gegevens ten grondslag liggende bescheiden.
 
-#### Artikel 79
+##### Artikel 79
 
 Het bestuur van de Dienst stelt regels vast omtrent de wijze waarop vergissingen, verzuimen of andere onregelmatigheden, begaan door de bewaarder bij de inschrijving van stukken in de openbare registers, bedoeld in [artikel 12, eerste lid, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=2&titeldeel=1&afdeling=1&artikel=12&z=2024-12-11&g=2024-12-11), bij het stellen daarin van aantekeningen, daaronder begrepen doorhalingen van inschrijvingen in die registers, bij de boeking van stukken in de registers van voorlopige aantekeningen, of bij de doorhaling van voorlopige aantekeningen, worden hersteld.
 
-#### Artikel 80
+##### Artikel 80
 
 [Artikel 27 van de Wet bescherming persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&artikel=27) is niet van toepassing ingeval de verstrekking van inlichtingen ingevolge dit hoofdstuk persoonsgegevens betreft.
 
-#### Artikel 81
+##### Artikel 81
 
 Ter bescherming van de persoonlijke levenssfeer van personen die in de kadastrale registratie, de registratie voor schepen en in de registratie voor luchtvaartuigen vermeld staan, kunnen bij of krachtens algemene maatregel van bestuur voor een daarbij aangewezen soort of daarbij aangewezen soorten van persoonsgegevens beperkingen worden gesteld ten aanzien van de verstrekking van inlichtingen als bedoeld in de [artikelen 75 tot en met 79](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=7&artikel=75&z=2024-12-11&g=2024-12-11). Daarbij kunnen tevens regels worden gesteld voor de behandeling van verzoeken tot afscherming van persoonsgegevens.
 
 ### Hoofdstuk 8. Vergoedingen
 
-#### Artikel 82
+##### Artikel 82
 
 1. Betrokkenen zijn aan de Kadasters wegens het krachtens deze wet verrichten van diensten door de bewaarder of de Kadasters vergoedingen verschuldigd overeenkomstig de door het bestuur van de Dienst vastgestelde regels.
 
@@ -938,7 +965,7 @@ Ter bescherming van de persoonlijke levenssfeer van personen die in de kadastral
 
 5. Het bestuur van de Dienst is bevoegd om in bijzondere gevallen vrijstelling, vermindering of teruggaaf van de vergoeding te verlenen.
 
-#### Artikel 83
+##### Artikel 83
 
 1. Het bestuur van de Dienst stelt de regels met betrekking tot de hoogte van de vergoedingen, bedoeld in [artikel 82, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=8&artikel=82&z=2024-12-11&g=2024-12-11), niet vast dan nadat de bestuurscolleges van de openbare lichamen de gelegenheid is geboden om binnen acht weken na toezending van een voorstel met betrekking tot de hoogte van de vergoedingen zienswijzen kenbaar te maken.
 
@@ -948,7 +975,7 @@ Ter bescherming van de persoonlijke levenssfeer van personen die in de kadastral
 
 ### Hoofdstuk 9. Overige bepalingen
 
-#### Artikel 84
+##### Artikel 84
 
 1. De Dienst is jegens belanghebbenden aansprakelijk voor de schade die zij lijden doordat in strijd met de wet een inschrijving is geweigerd of geschied.
 
@@ -964,7 +991,7 @@ Ter bescherming van de persoonlijke levenssfeer van personen die in de kadastral
 
 5. Het bestuur van de Dienst kan regels stellen met betrekking tot de aansprakelijkheid voor de gevolgen van storingen in de middelen die de Dienst gebruikt bij elektronische gegevensuitwisseling als bedoeld in deze wet.
 
-#### Artikel 85
+##### Artikel 85
 
 1. Door het bestuur van de Dienst te nemen beslissingen en te stellen regels als bedoeld in deze wet worden geplaatst in de Staatscourant.
 
@@ -972,41 +999,41 @@ Ter bescherming van de persoonlijke levenssfeer van personen die in de kadastral
 
 ### Hoofdstuk 10. Wijziging van andere wetten
 
-#### Artikel 86
+##### Artikel 86
 
 Wijzigt de Organisatiewet Kadaster.
 
-#### Artikel 87
+##### Artikel 87
 
 Wijzigt het Burgerlijk Wetboek BES Boek 3.
 
 ### Hoofdstuk 11. Overgangsbepalingen
 
-#### Artikel 88
+##### Artikel 88
 
 De kadastrale registratie omvat mede het kadaster, bedoeld in [artikel 1a, eerste lid, van de Wet kadaster en registratie onroerende zaken en beperkte rechten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028509&artikel=1a), zoals die wet luidde onmiddellijk voorafgaand aan het tijdstip van de inwerkingtreding van deze wet, voor zover zij betrekking heeft op gebouwde en ongebouwde eigendommen in het betreffende openbaar lichaam.
 
-#### Artikel 89
+##### Artikel 89
 
 1. [Artikel 30 van Boek 3 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=30), zoals het luidde vóór het tijdstip van inwerkingtreding van deze wet, blijft van toepassing met betrekking tot aansprakelijkheid en schadevergoeding ter zake van in dat artikel bedoelde feiten die zich hebben voorgedaan vóór dat tijdstip.
 
 2. Het desbetreffende openbare lichaam blijft aansprakelijk voor schade veroorzaakt door vergissingen, verzuimen of andere onregelmatigheden die zich hebben voorgedaan vóór de inwerkingtreding van deze wet met betrekking tot het verrichten van de taken door het Kadaster, bedoeld in [artikel 2 van de Wet kadaster en registratie onroerende zaken en beperkte rechten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028509&artikel=2), zoals die wet luidde onmiddellijk voorafgaand aan de inwerkingtreding van deze wet.
 
-#### Artikel 90
+##### Artikel 90
 
 1. De bewaarder haalt ambtshalve de teboekstelling van andere schepen dan privéschepen in de openbare registers door, indien deze schepen niet binnen zes maanden na inwerkingtreding van deze wet te boek zijn gesteld in de openbare registers, bedoeld in [artikel 16 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=16).
 
 2. Teboekstelling in de openbare registers, bedoeld in [artikel 16 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=16), als bedoeld in het eerste lid, is kosteloos.
 
-#### Artikel 91
+##### Artikel 91
 
 De tarieven, bedoeld in [artikel 3 van de Wet kadaster en registratie onroerende zaken en beperkte rechten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028509&artikel=3) en [artikel 117 van de Wet openbare registers BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028516&artikel=117), zoals die luidden op de dag voor de datum van inwerkingtreding van deze wet, blijven van kracht tot het tijdstip waarop de vergoedingen, bedoeld in [artikel 82](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=8&artikel=82&z=2024-12-11&g=2024-12-11), overeenkomstig [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=8&artikel=83&z=2024-12-11&g=2024-12-11) zijn vastgesteld.
 
-#### Artikel 92
+##### Artikel 92
 
 De handelingen van het Kadaster, bedoeld in [artikel 1 van de Wet kadaster en registratie onroerende zaken en beperkte rechten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028509&artikel=1), zoals die wet luidde onmiddellijk voorafgaand aan de inwerkingtreding van deze wet, met betrekking tot het verrichten van de taken, bedoeld in [artikel 2 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028509&artikel=2), en de handelingen van de bewaarder, bedoeld in [artikel 1 van de Wet openbare registers BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028516&artikel=1), zoals die wet luidde onmiddellijk voorafgaand aan de inwerkingtreding van deze wet, met betrekking tot het inschrijven van stukken in de openbare registers op grond van [artikel 8 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028516&artikel=8), die hebben plaatsgevonden tussen 10 oktober 2010 en het tijdstip van de inwerkingtreding van deze wet, worden geacht rechtsgeldig verricht te zijn indien het niet rechtsgeldig zijn van deze handelingen gelegen is in het enkele feit dat deze handelingen zijn verricht door personen die niet werkzaam waren voor het Kadaster, bedoeld in artikel 1 van de Wet kadaster en registratie onroerende zaken en beperkte rechten BES, zoals die wet luidde onmiddellijk voorafgaand aan de inwerkingtreding van deze wet, maar wel belast waren met de taken, bedoeld in artikel 2 van die wet of artikel 8 van de Wet openbare registers BES, zoals die wet luidde onmiddellijk voorafgaand aan de inwerkingtreding van deze wet.
 
-#### Artikel 93
+##### Artikel 93
 
 1. Op het tijdstip van inwerkingtreding van deze wet zijn de personeelsleden van de Rijksdienst Caribisch Nederland of het Kadaster, bedoeld in [artikel 1 van de Wet kadaster en registratie onroerende zaken en beperkte rechten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028509&artikel=1), zoals die wet luidde onmiddellijk voorafgaand aan de inwerkingtreding van deze wet, van wie naam en functie zijn vermeld op een door Onze Minister vastgestelde lijst, van rechtswege ontslagen en aangesteld in dienst van de Dienst als ambtenaar als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=1&titeldeel=3&artikel=4&z=2024-12-11&g=2024-12-11).
 
@@ -1014,7 +1041,7 @@ De handelingen van het Kadaster, bedoeld in [artikel 1 van de Wet kadaster en re
 
 3. De overgang van de in het eerste en tweede lid bedoelde personeelsleden vindt plaats met een rechtspositie die in totaliteit ten minste gelijkwaardig is aan die welke voor elk van hen gold bij de Rijksdienst Caribisch Nederland of het Kadaster, bedoeld in [artikel 1 van de Wet kadaster en registratie onroerende zaken en beperkte rechten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028509&artikel=1), zoals die wet luidde onmiddellijk voorafgaand aan de inwerkingtreding van deze wet.
 
-#### Artikel 94
+##### Artikel 94
 
 1. Onze Minister bepaalt welke vermogensbestanddelen van de openbare lichamen of het Kadaster, bedoeld in [artikel 1 van de Wet kadaster en registratie onroerende zaken en beperkte rechten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028509&artikel=1), zoals die wet luidde onmiddellijk voorafgaand aan de inwerkingtreding van deze wet, worden toebedeeld aan de Dienst.
 
@@ -1024,15 +1051,15 @@ De handelingen van het Kadaster, bedoeld in [artikel 1 van de Wet kadaster en re
 
 ### Hoofdstuk 12. Slotbepalingen
 
-#### Artikel 95
+##### Artikel 95
 
 De [Wet kadaster en registratie onroerende zaken en beperkte rechten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028509) en de [Wet openbare registers BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028516) worden ingetrokken.
 
-#### Artikel 96
+##### Artikel 96
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 97
+##### Artikel 97
 
 Deze wet wordt aangehaald als: Kadasterwet BES.
 

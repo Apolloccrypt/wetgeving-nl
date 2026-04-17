@@ -1,13 +1,39 @@
 ---
-title: "Circulaire bekendmaking wijze verkrijging uitkering Gemeentefonds en Provinciefonds in verband met Stimulering van Lokale Klimaatinitiatieven (SLOK)"
+title: "Circulaire van 8 juli 2008, nr. DGM/BREM 2008066914, ter bekendmaking van de wijze van verkrijging van een uitkering uit het Gemeentefonds en het Provinciefonds in verband met de Stimulering van Lokale Klimaatinitiatieven (SLOK)"
 identifier: "BWBR0024186"
-categorie: "Bestuursrecht"
-publicatiedatum: 2008-07-17
-laatste_update: 2008-07-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024186"
+country: "nl"
+rank: "circulaire"
+publication_date: "2008-07-17"
+last_updated: "2008-07-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024186"
+soort: "circulaire"
+stam_id: "9652133"
+version_id: "15572042"
+internal_id: "C21236591"
+label_id: "9629274"
+dtd_version: "2.0"
+original_entry_into_force: "2008-07-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024186/2008-07-17/0"
+intitule_bron: "Stcrt.2008-134"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-07-08"
+intitule_published: "2008-07-15"
+intitule_in_force: "2008-07-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-134"
+original_signed_date: "2008-07-08"
+original_published_date: "2008-07-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-134-p18-SC86586"
+entry_into_force_date: "2008-07-17"
+jci_1_3: "jci1.3:c:BWBR0024186&z=2008-07-17&g=2008-07-17"
+jci_1_0: "1.0:c:BWBR0024186&g=2008-07-17"
+citeertitel_status: "redactioneel"
+short_title: "Circulaire bekendmaking wijze verkrijging uitkering Gemeentefonds en Provinciefonds in verband met Stimulering van Lokale Klimaatinitiatieven (SLOK)"
+signed_date: "2008-07-08"
+entry_into_force: "2008-07-17"
 ---
-
 # Circulaire van 8 juli 2008, nr. DGM/BREM 2008066914, ter bekendmaking van de wijze van verkrijging van een uitkering uit het Gemeentefonds en het Provinciefonds in verband met de Stimulering van Lokale Klimaatinitiatieven (SLOK)
 
 Met deze circulaire wil ik u informeren over een onderdeel van mijn beleid, gericht op de transitie naar een zo duurzaam en efficiënt mogelijke energievoorziening. Ik voeg met het oog hierop middelen toe aan het Gemeentefonds en het Provinciefonds, waarvoor u in aanmerking kunt komen. Voor dit onderdeel van mijn beleid is respectievelijk € 31,5 miljoen en € 3,5 miljoen beschikbaar. De middelen zijn gericht op stimulering van gemeentelijke en provinciale klimaatinitiatieven en zullen de komende jaren vanaf 2008 gespreid als decentralisatie-uitkering/integratie-uitkering beschikbaar komen (zie voor een toelichting op deze begrippen blz. 31 van de meicirculaire Gemeentefonds; www.minbzk.nl/112563/pagina). Gemeenten en provincies worden uitgenodigd terzake beleid te voeren. Aanvragen kunnen worden ingediend voor 1 september 2009. Zij zullen worden beoordeeld op basis van datum van binnenkomst, waarbij geldt: op is op.

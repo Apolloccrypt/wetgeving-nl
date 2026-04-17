@@ -1,13 +1,39 @@
 ---
-title: "Omzettingsregeling luchthaven Teuge"
+title: "Regeling van de Staatssecretaris van Infrastructuur en Milieu houdende omzetting van bepalingen omtrent het luchthavenluchtverkeer uit het aanwijzingsbesluit van de luchthaven Teuge, in verband met de vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens (Omzettingsregeling luchthaven Teuge)"
 identifier: "BWBR0032026"
-categorie: "Milieu"
-publicatiedatum: 2015-11-07
-laatste_update: 2015-11-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032026"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2015-11-07"
+last_updated: "2015-11-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032026"
+soort: "ministeriele-regeling"
+stam_id: "11852183"
+version_id: "19655732"
+internal_id: "C27579091"
+label_id: "11824404"
+dtd_version: "2.0"
+original_entry_into_force: "2011-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032026/2015-11-07/0"
+intitule_bron: "Stcrt.2010-20764"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-12-15"
+intitule_published: "2010-12-30"
+intitule_in_force: "2010-12-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-20764"
+original_signed_date: "2010-12-15"
+original_published_date: "2010-12-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-20764"
+entry_into_force_date: "2011-01-01"
+jci_1_3: "jci1.3:c:BWBR0032026&z=2015-11-07&g=2015-11-07"
+jci_1_0: "1.0:c:BWBR0032026&g=2015-11-07"
+citeertitel_status: "officieel"
+short_title: "Omzettingsregeling luchthaven Teuge"
+signed_date: "2010-12-15"
+entry_into_force: "2011-01-01"
 ---
-
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu houdende omzetting van bepalingen omtrent het luchthavenluchtverkeer uit het aanwijzingsbesluit van de luchthaven Teuge, in verband met de vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens (Omzettingsregeling luchthaven Teuge)
 
 Gelet op [artikel X van de Wet van 18 december 2008 houdende wijziging van de Wet luchtvaart inzake vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens en de decentralisatie van bevoegdheden voor burgerluchthavens naar het provinciaal bestuur (Regelgeving burgerluchthavens en militaire luchthavens)](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=X) (Stb. 2008, 561);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze regeling wordt verstaan onder:
 
@@ -40,13 +66,13 @@ Besluit:
 
 ### Hoofdstuk 2. Luchthaven
 
-#### Artikel 2
+##### Artikel 2
 
 1. Deze regeling is van toepassing op de luchthaven Teuge.
 
 2. Het luchthavengebied is aangegeven op de kaart in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032026&bijlage=1&z=2015-11-07&g=2015-11-07) bij deze regeling.
 
-#### Artikel 3
+##### Artikel 3
 
 Op de luchthaven zijn gelegen:
 
@@ -60,13 +86,13 @@ twee onverharde zweefvliegbanen gelegen in de geografische richting 086° – 26
 
 ### Hoofdstuk 3. Regels en grenswaarden
 
-#### Artikel 4
+##### Artikel 4
 
 1. Op de luchthaven is uitsluitend burgerluchtverkeer toegestaan.
 
 2. In afwijking van het eerste lid is op de luchthaven incidenteel gebruik van militaire vliegtuigen toegestaan.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het gebruik van de luchthaven vindt plaats:
 
@@ -74,7 +100,7 @@ overeenkomstig de zichtvliegvoorschriften, bedoeld in deel 5 van de bijlage bij 
 
 2. De exploitant staat maximaal 100 IFR-bewegingen per gebruiksjaar toe.
 
-#### Artikel 6
+##### Artikel 6
 
 Ten aanzien van het gebruik van de luchthaven gelden in de periode van 15 april tot 16 september de volgende voorschriften, waarbij de genoemde tijden plaatselijke tijden betreffen:
 
@@ -112,7 +138,7 @@ op zaterdagen vóór 09.00 en na 18.00 uur;
 
 op zon- en erkende feestdagen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Naast het burgerluchtverkeer met een startmassa van minder dan 6.000 kg dat binnen de grenswaarden, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032026&hoofdstuk=3&artikel=8&z=2015-11-07&g=2015-11-07), is toegestaan, zijn op de luchthaven per gebruiksjaar eveneens toegestaan:
 
@@ -124,23 +150,23 @@ maximaal 500 bewegingen met vaste vleugelvliegtuigen met straalaandrijving en me
 
 3. Het uitvoeren van les- en oefenvluchten met vaste vleugelvliegtuigen met straalaandrijving of met vaste vleugelvliegtuigen met schroefaandrijving en een maximum toegelaten startmassa van meer dan 6.000 kg is verboden.
 
-#### Artikel 8
+##### Artikel 8
 
 De ligging van de handhavingspunten, bedoeld in [artikel X, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=X), en de grenswaarden voor de geluidbelasting op die punten, zijn opgenomen op de kaart onderscheidenlijk in de tabel in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032026&bijlage=1&z=2015-11-07&g=2015-11-07) bij deze regeling.
 
 ### Hoofdstuk 4. Ruimtelijke beperkingen
 
-#### Artikel 9
+##### Artikel 9
 
 Het beperkingengebied, bedoeld in [artikel X, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=X), is aangegeven op de kaart in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032026&bijlage=2&z=2015-11-07&g=2015-11-07) bij deze regeling.
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling treedt in werking met ingang van 1 januari 2011.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze regeling wordt aangehaald als: Omzettingsregeling luchthaven Teuge.
 

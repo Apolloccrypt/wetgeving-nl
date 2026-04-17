@@ -1,13 +1,36 @@
 ---
 title: "Overeenkomst betreffende de vaststelling van geharmoniseerde technische reglementen van de Verenigde Naties voor voertuigen op wielen en voor uitrustingsstukken en onderdelen die daarop kunnen worden gemonteerd en/of gebruikt, en betreffende de voorwaarden voor wederzijdse erkenning van goedkeuringen die krachtens die reglementen van de Verenigde Naties zijn verleend"
 identifier: "BWBV0001196"
-categorie: "Verkeer"
-publicatiedatum: 2025-12-27
-laatste_update: 2025-12-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001196"
+country: "nl"
+rank: "verdrag"
+publication_date: "2025-12-27"
+last_updated: "2025-12-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001196"
+soort: "verdrag"
+stam_id: "10000524883"
+version_id: "10000593382"
+internal_id: "C10007885191"
+label_id: "10000525174"
+original_entry_into_force: "1995-10-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001196/2025-12-27/0"
+intitule_bron: "Trb.2017-156"
+intitule_effect: "wijziging"
+intitule_published: "2017-09-08"
+intitule_in_force: "2018-01-16"
+intitule_status: "goed"
+original_publication: "Trb.1996-151"
+original_signed_date: "1995-10-16"
+original_published_date: "1996-06-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1996-151"
+entry_into_force_date: "1995-10-16"
+jci_1_3: "jci1.3:c:BWBV0001196&z=2025-12-27&g=2025-12-27"
+jci_1_0: "1.0:c:BWBV0001196&g=2025-12-27"
+citeertitel_status: "officieel"
+signed_date: "1995-10-16"
+entry_into_force: "1995-10-16"
 ---
-
 # Overeenkomst betreffende de vaststelling van geharmoniseerde technische reglementen van de Verenigde Naties voor voertuigen op wielen en voor uitrustingsstukken en onderdelen die daarop kunnen worden gemonteerd en/of gebruikt, en betreffende de voorwaarden voor wederzijdse erkenning van goedkeuringen die krachtens die reglementen van de Verenigde Naties zijn verleend
 
 Preambule
@@ -30,7 +53,7 @@ Geleid door de wens om het aantal partijen bij de overeenkomst te vergroten door
 
 Zijn overeengekomen als volgt:
 
-#### Artikel 1
+##### Artikel 1
 
 1. De overeenkomstsluitende partijen stellen, door middel van een beheerscomité samengesteld uit alle overeenkomstsluitende partijen volgens het reglement van orde in het aanhangsel van deze overeenkomst en op basis van de volgende artikelen en punten, VN-reglementen vast voor voertuigen op wielen en voor uitrustingsstukken en onderdelen die daarop kunnen worden gemonteerd en/of gebruikt. De voorwaarden voor het verlenen van typegoedkeuringen en de wederzijdse erkenning ervan zullen worden opgenomen ten behoeve van overeenkomstsluitende partijen die besluiten reglementen via typegoedkeuring toe te passen.
 
@@ -100,7 +123,7 @@ Indien een overeenkomstsluitende partij niet langer goedkeuringen krachtens een 
 
 8. De overeenkomstsluitende partijen waarvoor een VN-reglement van kracht is, worden hierna genoemd „de overeenkomstsluitende partijen die een VN-reglement toepassen”.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Elke overeenkomstsluitende partij die VN-reglementen voornamelijk via typegoedkeuring toepast, verleent de typegoedkeuringen en kent de goedkeuringsmerken toe zoals beschreven in elk VN-reglement voor de typen voertuigen op wielen, uitrustingsstukken of onderdelen die onder het VN-reglement vallen, mits zij de technische bevoegdheid heeft en tevreden is met de maatregelen om de conformiteit van het product met het goedgekeurde type te waarborgen. Elke overeenkomstsluitende partij die typegoedkeuring verleent, neemt de nodige maatregelen zoals bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&bijlage=1&z=2025-12-27&g=2025-12-27) die aan deze overeenkomst is gehecht, om te verifiëren dat afdoende regelingen zijn getroffen om te waarborgen dat de voertuigen op wielen, de uitrustingsstukken en de onderdelen conform het goedgekeurde type worden vervaardigd.
 
@@ -110,13 +133,13 @@ Indien een overeenkomstsluitende partij niet langer goedkeuringen krachtens een 
 
 4. Elke overeenkomstsluitende partij die een VN-reglement toepast, weigert typegoedkeuringen te verlenen en goedkeuringsmerken toe te kennen die onder het VN-reglement vallen als bovengenoemde voorwaarden niet zijn vervuld.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Voertuigen op wielen, uitrustingsstukken of onderdelen waarvoor een overeenkomstsluitende partij krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=2&z=2025-12-27&g=2025-12-27) van deze overeenkomst typegoedkeuring heeft verleend, worden geacht conform te zijn met het desbetreffende deel van de nationale wetgeving van alle overeenkomstsluitende partijen die dat VN-reglement toepassen.
 
 2. De overeenkomstsluitende partijen die VN-reglementen toepassen, aanvaarden door wederzijdse erkenning en met inachtneming van de bepalingen van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=1&z=2025-12-27&g=2025-12-27), [8](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=8&z=2025-12-27&g=2025-12-27) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=12&z=2025-12-27&g=2025-12-27) en van alle bijzondere bepalingen in die VN-reglementen, typegoedkeuringen die krachtens die VN-reglementen zijn verleend zonder verdere tests, documentatie, certificering of markering te eisen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien een overeenkomstsluitende partij die een VN-reglement toepast, vaststelt dat bepaalde voertuigen op wielen, uitrustingsstukken of onderdelen met een goedkeuringsmerk dat door een van de overeenkomstsluitende partijen krachtens dat VN-reglement is toegekend, niet conform zijn met het goedgekeurde type of met de voorschriften van dat reglement, stelt zij de goedkeuringsinstantie van de overeenkomstsluitende partij die de goedkeuring heeft verleend, daarvan in kennis.
 
@@ -132,7 +155,7 @@ Nadat zij de potentiële gevolgen voor de voertuigveiligheid, milieubescherming,
 
 5. De leden 1 tot en met 4 van dit artikel zijn ook van toepassing wanneer de overeenkomstsluitende partij die verantwoordelijk is voor het verlenen van de goedkeuring, zelf vaststelt dat bepaalde voertuigen op wielen, uitrustingsstukken of onderdelen met een goedkeuringsmerk niet-conform zijn met het goedgekeurde type of met de voorschriften van een VN-reglement.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De goedkeuringsinstanties van elke overeenkomstsluitende partij die VN-reglementen toepast, zenden op verzoek van de andere overeenkomstsluitende partijen een lijst toe van de voertuigen op wielen, uitrustingsstukken of onderdelen waarvan zij de goedkeuring hebben geweigerd of ingetrokken.
 
@@ -140,7 +163,7 @@ Nadat zij de potentiële gevolgen voor de voertuigveiligheid, milieubescherming,
 
 3. De papieren kopie kan worden vervangen door een elektronisch bestand overeenkomstig [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&bijlage=5&z=2025-12-27&g=2025-12-27) die aan deze overeenkomst is gehecht.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De lidstaten van de Economische Commissie voor Europa, de landen die overeenkomstig paragraaf 8 van het mandaat van de commissie met adviserende bevoegdheid tot de commissie zijn toegelaten en de door lidstaten van de Economische Commissie voor Europa opgerichte organisaties voor regionale economische integratie waaraan hun lidstaten bevoegdheden op onder deze overeenkomst vallende gebieden hebben overgedragen, met inbegrip van de bevoegdheid om besluiten te nemen die bindend zijn voor hun lidstaten, kunnen partij worden bij deze overeenkomst.
 
@@ -152,7 +175,7 @@ Voor de vaststelling van het aantal stemmen zoals bedoeld in [artikel 1, lid 2](
 
 3. Toetreding tot deze overeenkomst door nieuwe overeenkomstsluitende partijen die geen partij zijn bij de Overeenkomst van 1958, geschiedt door neerlegging van een akte bij de secretaris-generaal, na de inwerkingtreding van deze overeenkomst.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Deze overeenkomst wordt geacht in werking te treden negen maanden na de datum van toezending ervan door de secretaris-generaal aan alle partijen bij de Overeenkomst van 1958.
 
@@ -160,7 +183,7 @@ Voor de vaststelling van het aantal stemmen zoals bedoeld in [artikel 1, lid 2](
 
 3. Voor elke nieuwe partij die tot deze overeenkomst toetreedt, treedt deze overeenkomst in werking op de zestigste dag na de neerlegging van de akte van toetreding.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Elke overeenkomstsluitende partij kan deze overeenkomst opzeggen door middel van een kennisgeving aan de secretaris-generaal.
 
@@ -168,13 +191,13 @@ Voor de vaststelling van het aantal stemmen zoals bedoeld in [artikel 1, lid 2](
 
 3. De typegoedkeuringen die door de overeenkomstsluitende partij zijn verleend, blijven geldig gedurende een periode van twaalf maanden nadat de opzegging van kracht is geworden overeenkomstig lid 2 van dit artikel.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Elke overeenkomstsluitende partij in de zin van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=6&z=2025-12-27&g=2025-12-27) van deze overeenkomst kan op het moment van toetreding of op een later tijdstip door middel van een kennisgeving gericht aan de secretaris-generaal verklaren dat deze overeenkomst wordt uitgebreid tot alle of bepaalde grondgebieden waarvan zij de buitenlandse betrekkingen behartigt. De overeenkomst wordt vanaf de zestigste dag na ontvangst van de kennisgeving door de secretaris-generaal uitgebreid tot het grondgebied of de grondgebieden die in de kennisgeving zijn vermeld.
 
 2. Elke overeenkomstsluitende partij in de zin van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=6&z=2025-12-27&g=2025-12-27) van deze overeenkomst die overeenkomstig lid 1 van dit artikel een verklaring heeft afgegeven tot uitbreiding van deze overeenkomst tot een grondgebied waarvan zij de buitenlandse betrekkingen behartigt, kan de overeenkomst voor dat grondgebied afzonderlijk opzeggen overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=8&z=2025-12-27&g=2025-12-27).
 
-#### Artikel 10
+##### Artikel 10
 
 1. Elk geschil tussen twee of meer overeenkomstsluitende partijen over de interpretatie of toepassing van deze overeenkomst wordt zoveel mogelijk beslecht door onderhandelingen tussen de betrokken partijen.
 
@@ -184,7 +207,7 @@ Voor de vaststelling van het aantal stemmen zoals bedoeld in [artikel 1, lid 2](
 
 4. Elk geschil tussen twee of meer overeenkomstsluitende partijen over de interpretatie of toepassing van aan deze overeenkomst gehechte VN-reglementen wordt beslecht door onderhandelingen volgens de procedure in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&bijlage=6&z=2025-12-27&g=2025-12-27) die aan deze overeenkomst is gehecht.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Een overeenkomstsluitende partij kan op het tijdstip van toetreding tot deze overeenkomst verklaren dat zij zich niet gebonden acht door de [leden 1 tot en met 3 van artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=10&z=2025-12-27&g=2025-12-27) van de overeenkomst. De andere overeenkomstsluitende partijen zijn door de leden 1 tot en met 3 van artikel 10 niet gebonden tegenover een overeenkomstsluitende partij die een zodanig voorbehoud heeft gemaakt.
 
@@ -192,7 +215,7 @@ Voor de vaststelling van het aantal stemmen zoals bedoeld in [artikel 1, lid 2](
 
 3. Er zijn geen andere voorbehouden bij deze overeenkomst, het aanhangsel, de bijlagen en de daaraan gehechte VN-reglementen toegestaan, maar elke overeenkomstsluitende partij kan overeenkomstig [artikel 1, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=1&z=2025-12-27&g=2025-12-27), verklaren dat zij niet voornemens is bepaalde VN-reglementen toe te passen of dat zij voornemens is geen enkel VN-reglement toe te passen.
 
-#### Artikel 12
+##### Artikel 12
 
 De aan deze overeenkomst gehechte VN-reglementen kunnen worden gewijzigd volgens deze procedure:
 
@@ -210,7 +233,7 @@ De aan deze overeenkomst gehechte VN-reglementen kunnen worden gewijzigd volgens
 
 - 7. Mocht een nieuwe overeenkomstsluitende partij tot deze overeenkomst toetreden tussen het tijdstip van de kennisgeving van de wijziging van een VN-reglement door de uitvoerend secretaris van de Economische Commissie voor Europa van de Verenigde Naties en de inwerkingtreding ervan, treedt het VN-reglement in kwestie voor die overeenkomstsluitende partij in werking, tenzij die partij, binnen zes maanden na de kennisgeving van haar toetreding door de secretaris-generaal, de secretaris-generaal ervan op de hoogte heeft gebracht dat zij niet met de wijziging instemt.
 
-#### Artikel 13
+##### Artikel 13
 
 De tekst van de overeenkomst zelf en van het aanhangsel kan worden gewijzigd volgens deze procedure:
 
@@ -220,7 +243,7 @@ De tekst van de overeenkomst zelf en van het aanhangsel kan worden gewijzigd vol
 
 - 3. De secretaris-generaal stelt alle overeenkomstsluitende partijen er zo spoedig mogelijk van in kennis of tegen de voorgestelde wijziging bezwaar is gemaakt. Is dat het geval, wordt de wijziging geacht niet te zijn aanvaard en heeft zij geen enkel effect. Is dat niet het geval, treedt de wijziging voor alle overeenkomstsluitende partijen in werking drie maanden na het verstrijken van de in lid 2 van dit artikel bedoelde termijn van negen maanden.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Volgens de bepalingen van deze overeenkomst stelt de secretaris-generaal de overeenkomstsluitende partijen in kennis van:
 
@@ -246,7 +269,7 @@ De tekst van de overeenkomst zelf en van het aanhangsel kan worden gewijzigd vol
 
 - b. de overeenkomstsluitende partijen kennis van het besluit van het beheerscomité over een verzoek om vrijstellingsgoedkeuring en van de aanneming ervan overeenkomstig [punt 5 van bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&bijlage=7&z=2025-12-27&g=2025-12-27).
 
-#### Artikel 15
+##### Artikel 15
 
 1. Indien op de datum van inwerkingtreding van de bovenstaande bepalingen de in [artikel 1, leden 3 en 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=1&z=2025-12-27&g=2025-12-27), van de vorige versie van de overeenkomst beoogde procedures voor de aanneming van een nieuw VN-reglement aan de gang zijn, treedt dat nieuwe VN-reglement in werking overeenkomstig lid 4 van voornoemd artikel.
 
@@ -254,31 +277,31 @@ De tekst van de overeenkomst zelf en van het aanhangsel kan worden gewijzigd vol
 
 3. Indien alle partijen bij de overeenkomst het erover eens zijn, kan elk krachtens de vorige versie van de overeenkomst aangenomen VN-reglement worden beschouwd als een VN-reglement dat overeenkomstig de bovenstaande bepalingen is aangenomen.
 
-#### Artikel 1
+##### Artikel 1
 
 Het Administratief Comité is samengesteld uit alle Overeenkomstsluitende Partijen bij de gewijzigde Overeenkomst.
 
-#### Artikel 2
+##### Artikel 2
 
 De Uitvoerende Secretaris van de Economische Commissie voor Europa van de Verenigde Naties verzorgt secretariële diensten voor het Comité.
 
-#### Artikel 3
+##### Artikel 3
 
 Het Comité kiest elk jaar tijdens de eerste zitting een voorzitter en een vice-voorzitter.
 
-#### Artikel 4
+##### Artikel 4
 
 De Secretaris-Generaal van de Verenigde Naties roept het Comité onder auspiciën van de Economische Commissie voor Europa bijeen telkens wanneer er een nieuw Reglement moet worden opgesteld of een Reglement moet worden gewijzigd.
 
-#### Artikel 5
+##### Artikel 5
 
 Voorstellen voor een nieuw Reglement worden aan een stemming onderworpen. Elk land dat Overeenkomstsluitende Partij is bij de Overeenkomst heeft één stem. Het vereiste quorum om beslissingen te kunnen nemen is ten minste de helft van de Overeenkomstsluitende Partijen. Voor de vaststelling van het quorum beschikken de organisaties voor regionale economische integratie die Overeenkomstsluitende Partij zijn bij de Overeenkomst over evenveel stemmen als zij lidstaten hebben. De vertegenwoordiger van een organisatie voor regionale economische integratie kan de stemmen uitbrengen van haar soevereine lidstaten. Voor de aanneming van nieuwe ontwerp-Reglementen is een tweederde-meerderheid vereist van de aanwezige leden die hun stem uitbrengen.
 
-#### Artikel 6
+##### Artikel 6
 
 Voorstellen tot wijziging van een Reglement worden aan een stemming onderworpen. Elk land dat Overeenkomstsluitende Partij is bij de Overeenkomst en het Reglement toepast, heeft één stem. Het vereiste quorum om beslissingen te kunnen nemen is ten minste de helft van de Overeenkomstsluitende Partijen die het Reglement toepassen. Voor de vaststelling van het quorum beschikken de organisaties voor regionale economische integratie die Overeenkomstsluitende Partij zijn bij de Overeenkomst over evenveel stemmen als zij lidstaten hebben. De vertegenwoordiger van een organisatie voor regionale economische integratie kan de stemmen uitbrengen van haar soevereine lidstaten die het desbetreffende Reglement toepassen. Voor de aanneming van ontwerpwijzigingen van Reglementen is een tweederde-meerderheid vereist van de aanwezige leden die hun stem uitbrengen.
 
-#### 1. INITIËLE BEOORDELING
+##### 1. INITIËLE BEOORDELING
 
 1.1. De goedkeurende autoriteit van een Overeenkomstsluitende Partij verifieert – alvorens de typegoedkeuring te verlenen – of er behoorlijke regelingen en procedures bestaan ter waarborging van een doeltreffende controle, opdat in productie zijnde voertuigen, uitrustingsstukken of onderdelen conform het goedgekeurde type zijn.
 
@@ -288,7 +311,7 @@ Voorstellen tot wijziging van een Reglement worden aan een stemming onderworpen.
 
 1.4. Zodra de goedkeurende autoriteit een verzoek ontvangt van de autoriteit van een andere lidstaat, zendt zij onverwijld de in de laatste zin van punt 1.2. genoemde conformverklaring toe, of deelt zij mede dat zij een dergelijke verklaring niet kan overleggen.
 
-#### 2. CONFORMITEIT VAN PRODUCTIE
+##### 2. CONFORMITEIT VAN PRODUCTIE
 
 2.1. Elk voertuig, uitrustingsstuk of onderdeel dat uit hoofde van een Reglement behorend bij deze Overeenkomst wordt goedgekeurd, moet zodanig zijn gefabriceerd dat het overeenkomt met het goedgekeurde type en aan de eisen van dit Aanhangsel alsmede aan het desbetreffende Reglement voldoet.
 
@@ -320,7 +343,7 @@ Voorstellen tot wijziging van een Reglement worden aan een stemming onderworpen.
 
 2.4.5. Indien een inspectie onbevredigende resultaten oplevert, draagt de goedkeurende autoriteit er zorg voor dat alle nodige maatregelen worden getroffen om zo spoedig mogelijk de conformiteit van productie te herstellen."
 
-#### Artikel 13 bis
+##### Artikel 13 bis
 
 1. De aan deze overeenkomst gehechte bijlagen met administratieve en procedurele bepalingen kunnen worden gewijzigd volgens deze procedure:
 
@@ -334,38 +357,38 @@ Voorstellen tot wijziging van een Reglement worden aan een stemming onderworpen.
 
 4. Een nieuwe bijlage wordt als een wijziging van de bijlagen met administratieve en procedurele bepalingen beschouwd en wordt derhalve volgens dezelfde in dit artikel beschreven procedure vastgesteld.
 
-#### Artikel 16
+##### Artikel 16
 
 Deze overeenkomst werd ondertekend te Genève in één exemplaar in de Engelse, de Franse en de Russische taal, waarbij alle teksten gelijkelijk authentiek zijn.
 
-#### Artikel 1
+##### Artikel 1
 
 Het beheerscomité wordt samengesteld uit alle partijen bij de gewijzigde overeenkomst.
 
-#### Artikel 2
+##### Artikel 2
 
 De uitvoerend secretaris van de Economische Commissie voor Europa van de Verenigde Naties verleent het comité secretariaatsdiensten.
 
-#### Artikel 3
+##### Artikel 3
 
 Het comité kiest elk jaar in zijn eerste zitting een voorzitter en een vicevoorzitter.
 
-#### Artikel 4
+##### Artikel 4
 
 De secretaris-generaal van de Verenigde Naties roept het comité onder de auspiciën van de Economische Commissie voor Europa van de Verenigde Naties bijeen telkens als een nieuw VN-reglement, een wijziging van een VN-reglement, een kennisgeving volgens de procedure voor vrijstellingsgoedkeuring met betrekking tot nieuwe technologieën (toegelicht in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&bijlage=7&z=2025-12-27&g=2025-12-27)) of een wijziging van de bijlagen met administratieve en procedurele bepalingen moet worden vastgesteld.
 
-#### Artikel 5
+##### Artikel 5
 
 Voorgestelde nieuwe VN-reglementen worden in stemming gebracht. Elk land dat partij is bij de overeenkomst, heeft één stem. Voor het nemen van besluiten is een quorum vereist van ten minste de helft van de overeenkomstsluitende partijen. Voor de vaststelling van het quorum beschikken de organisaties voor regionale economische integratie die overeenkomstsluitende partij zijn, over het aantal stemmen van hun lidstaten. De vertegenwoordiger van een organisatie voor regionale economische integratie kan de stemmen uitbrengen van de soevereine staten die daar lid van zijn. Nieuwe VN-ontwerpreglementen worden vastgesteld met een viervijfdemeerderheid van de aanwezige leden die hun stem uitbrengen.
 
-#### Artikel 6
+##### Artikel 6
 
 Voorgestelde wijzigingen van VN-reglementen worden in stemming gebracht. Elk land dat partij is bij de overeenkomst en het VN-reglement toepast, heeft één stem. Voor het nemen van besluiten is een quorum vereist van ten minste de helft van de overeenkomstsluitende partijen die het VN-reglement toepassen. Voor de vaststelling van het quorum beschikken de organisaties voor regionale economische integratie die overeenkomstsluitende partij zijn, over het aantal stemmen van hun lidstaten. De vertegenwoordiger van een organisatie voor regionale economische integratie kan de stemmen uitbrengen van de soevereine staten die daar lid van zijn en het VN-reglement toepassen. Ontwerpwijzigingen van VN-reglementen worden vastgesteld met een viervijfdemeerderheid van de aanwezige leden die hun stem uitbrengen.
 
-#### Artikel 7
+##### Artikel 7
 
 Voorgestelde wijzigingen van de aan deze overeenkomst gehechte bijlagen met administratieve en procedurele bepalingen worden in stemming gebracht. Elke overeenkomstsluitende partij die een of meer VN-reglementen toepast, heeft één stem. Voor het nemen van besluiten is een quorum vereist van ten minste de helft van de overeenkomstsluitende partijen die een of meer VN-reglementen toepassen. Voor de vaststelling van het quorum beschikken de organisaties voor regionale economische integratie die overeenkomstsluitende partij zijn, over het aantal stemmen van hun lidstaten. De vertegenwoordiger van een organisatie voor regionale economische integratie kan de stemmen uitbrengen van de soevereine staten die daar lid van zijn en een of meer VN-reglementen toepassen. Ontwerpwijzigingen van de bijlagen met administratieve en procedurele bepalingen worden vastgesteld met eenparigheid van stemmen van de aanwezige leden die hun stem uitbrengen.
 
-#### Artikel 8
+##### Artikel 8
 
 Het verzoek van een partij om machtiging tot het verlenen van een voorgestelde vrijstellingsgoedkeuring met betrekking tot nieuwe technologieën wordt in stemming gebracht. Elke overeenkomstsluitende partij die het VN-reglement toepast, heeft één stem. Voor het nemen van besluiten is een quorum vereist van ten minste de helft van de overeenkomstsluitende partijen die het VN-reglement toepassen. Voor de vaststelling van het quorum beschikken de organisaties voor regionale economische integratie die overeenkomstsluitende partij zijn, over het aantal stemmen van hun lidstaten. De vertegenwoordiger van een organisatie voor regionale economische integratie kan de stemmen uitbrengen van de soevereine staten die daar lid van zijn en het VN-reglement toepassen. De machtiging tot het verlenen van een vrijstellingsgoedkeuring voor de genoemde overeenkomstsluitende partij wordt vastgesteld met een viervijfdemeerderheid van de aanwezige leden die hun stem uitbrengen.

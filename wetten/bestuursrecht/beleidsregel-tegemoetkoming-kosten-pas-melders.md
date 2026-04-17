@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel tegemoetkoming kosten PAS-melders"
+title: "Beleidsregel van de Minister van Landbouw, Natuur en Voedselkwaliteit van 29 oktober 2021, nr. WJZ/ 21135426, tot vaststelling van beleidsregels voor de beoordeling van aanvragen om een tegemoetkoming in de kosten van het aanleveren van gegevens door PAS-melders"
 identifier: "BWBR0045806"
-categorie: "Bestuursrecht"
-publicatiedatum: 2021-11-15
-laatste_update: 2021-11-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045806"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2021-11-15"
+last_updated: "2021-11-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045806"
+soort: "beleidsregel"
+stam_id: "16130023"
+version_id: "28145472"
+internal_id: "C39684541"
+label_id: "16060334"
+dtd_version: "2.0"
+original_entry_into_force: "2021-11-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045806/2021-11-15/0"
+intitule_bron: "Stcrt.2021-45408"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-10-29"
+intitule_published: "2021-11-10"
+intitule_in_force: "2021-11-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-45408"
+original_signed_date: "2021-10-29"
+original_published_date: "2021-11-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-45408"
+entry_into_force_date: "2021-11-15"
+jci_1_3: "jci1.3:c:BWBR0045806&z=2021-11-15&g=2021-11-15"
+jci_1_0: "1.0:c:BWBR0045806&g=2021-11-15"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel tegemoetkoming kosten PAS-melders"
+signed_date: "2021-10-29"
+entry_into_force: "2021-11-15"
 ---
-
 # Beleidsregel van de Minister van Landbouw, Natuur en Voedselkwaliteit van 29 oktober 2021, nr. WJZ/ 21135426, tot vaststelling van beleidsregels voor de beoordeling van aanvragen om een tegemoetkoming in de kosten van het aanleveren van gegevens door PAS-melders
 
 Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -38,7 +64,7 @@ In deze beleidsregel wordt verstaan onder:
 
 #### § 2. Tegemoetkoming
 
-#### Artikel 2. Tegemoetkoming
+##### Artikel 2. Tegemoetkoming
 
 1. De Minister verstrekt op aanvraag een tegemoetkoming aan een initiatiefnemer die een verklaring de-minimissteun heeft verstrekt.
 
@@ -46,7 +72,7 @@ In deze beleidsregel wordt verstaan onder:
 
 #### § 3. Aanvraag en besluit
 
-#### Artikel 3. Aanvraag tegemoetkoming
+##### Artikel 3. Aanvraag tegemoetkoming
 
 1. De aanvraag wordt ingediend met gebruikmaking van een daartoe op [www.rvo](onbekend).nl beschikbaar gesteld aanvraagformulier.
 
@@ -54,13 +80,13 @@ In deze beleidsregel wordt verstaan onder:
 
 3. De aanvraag kan worden ingediend in de periode van 15 november 2021 tot en met 30 november 2022.
 
-#### Artikel 4. Besluit en uitbetaling
+##### Artikel 4. Besluit en uitbetaling
 
 1. De Minister beslist binnen 8 weken op een volledige aanvraag om een tegemoetkoming.
 
 2. De Minister betaalt het bedrag van de tegemoetkoming in één keer uit.
 
-#### Artikel 5. Intrekking
+##### Artikel 5. Intrekking
 
 1. De Minister kan een besluit tot uitbetaling van een tegemoetkoming intrekken indien:
 
@@ -72,11 +98,11 @@ In deze beleidsregel wordt verstaan onder:
 
 #### § 3. Slotbepalingen
 
-#### Artikel 6
+##### Artikel 6
 
 Deze beleidsregel treedt in werking met ingang van 15 november 2021.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel tegemoetkoming kosten PAS-melders.
 

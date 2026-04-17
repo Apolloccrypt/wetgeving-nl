@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel IGVO 2021"
+title: "Beleidsregel van de Minister voor Basis- en Voortgezet Onderwijs en Media van 7 juni 2021, nr. VO/28225728, betreffende cursussen internationaal georiënteerd voortgezet onderwijs (Beleidsregel IGVO 2021)"
 identifier: "BWBR0045242"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-08-01
-laatste_update: 2024-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045242"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2024-08-01"
+last_updated: "2024-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045242"
+soort: "beleidsregel"
+stam_id: "15985703"
+version_id: "27821462"
+internal_id: "C39242141"
+label_id: "15919704"
+dtd_version: "2.0"
+original_entry_into_force: "2021-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045242/2024-08-01/0"
+intitule_bron: "Stcrt.2021-30713"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-06-07"
+intitule_published: "2021-06-18"
+intitule_in_force: "2021-06-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-30713"
+original_signed_date: "2021-06-07"
+original_published_date: "2021-06-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-30713"
+entry_into_force_date: "2021-08-01"
+jci_1_3: "jci1.3:c:BWBR0045242&z=2024-08-01&g=2024-08-01"
+jci_1_0: "1.0:c:BWBR0045242&g=2024-08-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel IGVO 2021"
+signed_date: "2021-06-07"
+entry_into_force: "2021-08-01"
 ---
-
 # Beleidsregel van de Minister voor Basis- en Voortgezet Onderwijs en Media van 7 juni 2021, nr. VO/28225728, betreffende cursussen internationaal georiënteerd voortgezet onderwijs (Beleidsregel IGVO 2021)
 
 Gelet op [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) en [artikel 75 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=75);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -46,7 +72,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - **wet:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
-#### Artikel 2. Reikwijdte beleidsregel
+##### Artikel 2. Reikwijdte beleidsregel
 
 1. Deze beleidsregel heeft betrekking op de wijze waarop de Minister gebruikmaakt van de bevoegdheid tot het voor bekostiging in aanmerking brengen van cursussen internationaal georiënteerd voortgezet onderwijs.
 
@@ -54,7 +80,7 @@ In deze beleidsregel wordt verstaan onder:
 
 ### Hoofdstuk 2. Aanvraag en bekostiging
 
-#### Artikel 3. Aanvraagprocedure nieuwe cursus internationaal georiënteerd voortgezet onderwijs.
+##### Artikel 3. Aanvraagprocedure nieuwe cursus internationaal georiënteerd voortgezet onderwijs.
 
 1. Het bevoegd gezag van een school dat in aanmerking wil komen voor bekostiging van de cursussen internationaal georiënteerd voortgezet onderwijs, dient daartoe een aanvraag in bij de Minister voor 1 november van het jaar voorafgaand aan het schooljaar waarvoor de bekostiging wordt gevraagd.
 
@@ -84,7 +110,7 @@ In deze beleidsregel wordt verstaan onder:
 
 8. Indien het bevoegd gezag van een school die reeds voor bekostiging van cursussen internationaal georiënteerd voortgezet onderwijs in aanmerking is gebracht, wil splitsen als bedoeld in [artikel 4.2., derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.2), dan kan deze bekostiging meegenomen worden in de splitsing van de school. Hiertoe maakt het bevoegd gezag aannemelijk dat op 1 januari van het elfde jaar na indiening van de aanvraag de afdelingen voor internationaal georiënteerd voortgezet onderwijs die na splitsing ontstaan, zullen worden bezocht door ten minste 120 leerlingen.
 
-#### Artikel 4. Beoordeling aanvraag en aanvang bekostiging
+##### Artikel 4. Beoordeling aanvraag en aanvang bekostiging
 
 1. Bij beoordeling van de aanvraag overweegt de Minister of:
 
@@ -100,23 +126,23 @@ In deze beleidsregel wordt verstaan onder:
 
 4. Indien cursussen internationaal georiënteerd voortgezet onderwijs voor bekostiging in aanmerking zijn gebracht en niet binnen drie jaar na de datum waarop de bekostiging een aanvang had kunnen nemen met één van deze cursussen is gestart, vervalt de aanspraak op bekostiging.
 
-#### Artikel 5. Doorlopende leerlijn
+##### Artikel 5. Doorlopende leerlijn
 
 Het bevoegd gezag van een school voorziet in zowel een onderbouw als een bovenbouw internationaal georiënteerd voortgezet onderwijs.
 
-#### Artikel 6. Wijze van bekostiging
+##### Artikel 6. Wijze van bekostiging
 
 1. Een cursus internationaal georiënteerd voortgezet onderwijs wordt per kalenderjaar bekostigd. [Artikel 2, tweede lid, onderdeel a, van de Regeling bekostiging vo-scholen en samenwerkingsverbanden](https://wetten.overheid.nl/jci1.3:c:BWBR0045605&artikel=2) is van overeenkomstige toepassing op de leerlingen die ingeschreven staan aan een cursus internationaal georiënteerd voortgezet onderwijs.
 
 2. In aanvulling op de bekostiging als bedoeld in het eerste lid, stelt de Minister voor leerlingen, bedoeld in [artikel 9, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045242&hoofdstuk=3&artikel=9&z=2024-08-01&g=2024-08-01), een aanvullende bekostiging vast. Deze aanvullende bekostiging wordt niet verstrekt voor de leerlingen bedoeld in artikel 9, zesde en zevende lid.
 
-#### Artikel 7. Inhouding van de bekostiging
+##### Artikel 7. Inhouding van de bekostiging
 
 1. De Minister kan bepalen dat de bekostiging geheel of gedeeltelijk wordt ingehouden dan wel opgeschort, indien het bevoegd gezag in strijd handelt met deze beleidsregel.
 
 2. De Minister kent de bekostiging wederom toe, indien blijkt dat de reden voor de toepassing van het eerste lid is vervallen.
 
-#### Artikel 8. Beëindiging van de bekostiging
+##### Artikel 8. Beëindiging van de bekostiging
 
 1. De bekostiging van de cursussen internationaal georiënteerd voortgezet onderwijs wordt beëindigd, indien deze cursussen in alle leerjaren worden aangeboden en gedurende drie achtereenvolgende schooljaren telkens gezamenlijk door minder dan 100 leerlingen worden gevolgd.
 
@@ -130,7 +156,7 @@ Het bevoegd gezag van een school voorziet in zowel een onderbouw als een bovenbo
 
 ### Hoofdstuk 3. Toelating, bevordering en verwijdering van leerlingen
 
-#### Artikel 9. Toelating
+##### Artikel 9. Toelating
 
 1. Tot een cursus IB MYP of een cursus IB CP en IB DP kan als leerling worden toegelaten degene die kan aantonen dat hij:
 
@@ -174,23 +200,23 @@ Het bevoegd gezag van een school voorziet in zowel een onderbouw als een bovenbo
 
 8. Het bevoegd gezag beslist over toelating van een leerling.
 
-#### Artikel 10. Toelating en geldelijke bijdrage
+##### Artikel 10. Toelating en geldelijke bijdrage
 
 Toelating tot een cursus internationaal georiënteerd voortgezet onderwijs is afhankelijk van de voldoening van een geldelijke bijdrage op grond van een overeenkomst tussen de ouders, voogden of verzorgers van de leerling en het bevoegd gezag van de school. Het bevoegd gezag stelt de hoogte van de geldelijke bijdrage per leerjaar vast.
 
-#### Artikel 11. Bevordering en verwijdering
+##### Artikel 11. Bevordering en verwijdering
 
 Ten aanzien van de voorwaardelijke bevordering, de schorsing en de verwijdering van een leerling zijn de [artikelen 8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=8.8), [8.14](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=8.14) en [8.15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=8.15), en de [artikelen 8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=8.8) en [8.12 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=8.12) van overeenkomstige toepassing.
 
 ### Hoofdstuk 4. Inrichting van het onderwijs en de afsluiting daarvan
 
-#### Artikel 12. Voertaal
+##### Artikel 12. Voertaal
 
 1. Cursussen internationaal georiënteerd voortgezet onderwijs worden gegeven en de examens worden afgenomen in het Engels.
 
 2. In afwijking van het eerste lid kan een andere taal worden gebezigd wanneer het onderwijs die taal betreft.
 
-#### Artikel 13. Onderbouw internationaal georiënteerd voortgezet onderwijs
+##### Artikel 13. Onderbouw internationaal georiënteerd voortgezet onderwijs
 
 1. De onderbouw internationaal georiënteerd voortgezet onderwijs heeft een duur van vier of vijf leerjaren. De school biedt voor alle leerlingen een onderwijsprogramma aan dat per schooljaar gemiddeld ten minste 950 klokuren omvat.
 
@@ -204,7 +230,7 @@ Ten aanzien van de voorwaardelijke bevordering, de schorsing en de verwijdering 
 
 3. Het bevoegd gezag draagt er zorg voor dat leerlingen in de onderbouw internationaal georiënteerd voortgezet onderwijs in voldoende mate onderwijs kunnen volgen in de Nederlandse taal en kennis kunnen nemen van de Nederlandse cultuur. Het bevoegd gezag draagt er zorg voor dat ten minste 10 procent van het aantal uren, bedoeld in het eerste lid, wordt gegeven in het Nederlands of wordt besteed aan de Nederlandse taal.
 
-#### Artikel 14. Bovenbouw internationaal georiënteerd voortgezet onderwijs
+##### Artikel 14. Bovenbouw internationaal georiënteerd voortgezet onderwijs
 
 1. De bovenbouw internationaal georiënteerd voortgezet onderwijs heeft een duur van twee leerjaren. In het eerste leerjaar biedt de school voor alle leerlingen een onderwijsprogramma aan dat ten minste 950 klokuren omvat en in het tweede leerjaar biedt de school voor alle leerlingen een onderwijsprogramma aan dat ten minste 700 klokuren omvat.
 
@@ -212,7 +238,7 @@ Ten aanzien van de voorwaardelijke bevordering, de schorsing en de verwijdering 
 
 3. Voor een leerling die de Nederlandse nationaliteit als enige nationaliteit bezit, is tevens het volgen van onderwijs in het vak Nederlands verplicht.
 
-#### Artikel 15. Afsluiting cursussen internationaal georiënteerd voortgezet onderwijs
+##### Artikel 15. Afsluiting cursussen internationaal georiënteerd voortgezet onderwijs
 
 1. Het bevoegd gezag stelt een examenreglement vast.
 
@@ -226,7 +252,7 @@ Ten aanzien van de voorwaardelijke bevordering, de schorsing en de verwijdering 
 
 6. De [artikelen 2.61, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.61), [2.63, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.63) en [2.64, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.64) en de [artikelen 3.54](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=3.54), [3.58](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=3.58) en [3.59 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=3.59) zijn van overeenkomstige toepassing.
 
-#### Artikel 16. Benoeming en bevoegdheden van het onderwijzend personeel
+##### Artikel 16. Benoeming en bevoegdheden van het onderwijzend personeel
 
 Met betrekking tot de benoeming en bevoegdheden van leraren voor een cursus internationaal georiënteerd voortgezet onderwijs is het bepaalde bij of krachtens de [artikelen 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.2), [7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.3) en [7.9 tot en met 7.25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.10)van overeenkomstige toepassing, met dien verstande dat:
 
@@ -238,21 +264,21 @@ Met betrekking tot de benoeming en bevoegdheden van leraren voor een cursus inte
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 17. Intrekking andere regeling
+##### Artikel 17. Intrekking andere regeling
 
 De [Beleidsregel IGVO 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0027776) wordt ingetrokken.
 
-#### Artikel 18. Inwerkingtreding
+##### Artikel 18. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van 1 augustus 2021.
 
-#### Artikel 19. Citeertitel
+##### Artikel 19. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel IGVO 2021.
 
 Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 16a. Omhang
+##### Artikel 16a. Omhang
 
 Deze regeling is mede gebaseerd op [artikel 4.28 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.28).
 

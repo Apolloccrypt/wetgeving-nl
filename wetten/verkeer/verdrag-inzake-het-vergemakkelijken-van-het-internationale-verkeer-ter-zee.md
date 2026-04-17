@@ -1,13 +1,35 @@
 ---
 title: "Verdrag inzake het vergemakkelijken van het internationale verkeer ter zee"
 identifier: "BWBV0003243"
-categorie: "Verkeer"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003243"
+country: "nl"
+rank: "verdrag"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003243"
+soort: "verdrag"
+stam_id: "10003425323"
+version_id: "10003471002"
+internal_id: "C10006999601"
+label_id: "10003411624"
+dtd_version: "2.0"
+original_entry_into_force: "1967-11-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003243/2025-01-01/0"
+intitule_bron: "Trb.1966-162"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1966-06-30"
+intitule_in_force: "1967-11-06"
+intitule_status: "goed"
+original_publication: "Trb.1966-162"
+original_published_date: "1966-06-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1966-162"
+entry_into_force_date: "1967-11-20"
+jci_1_3: "jci1.3:c:BWBV0003243&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBV0003243&g=2025-01-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1967-11-20"
 ---
-
 # Verdrag inzake het vergemakkelijken van het internationale verkeer ter zee
 
 De Verdragsluitende Regeringen:
@@ -16,11 +38,11 @@ Verlangend het verkeer ter zee te vergemakkelijken door de met de aankomst, het 
 
 Zijn het volgende overeengekomen:
 
-#### Artikel I
+##### Artikel I
 
 De Verdragsluitende Regeringen nemen de verplichting op zich overeenkomstig de bepalingen van dit Verdrag en de daarbij behorende Bijlage, alle passende maatregelen te nemen om het internationale verkeer ter zee te vergemakkelijken en te bespoedigen, en om onnodige vertragingen voor de schepen en de zich aan boord daarvan bevindende personen en goederen te voorkomen.
 
-#### Artikel II
+##### Artikel II
 
 1. De Verdragsluitende Regeringen nemen de verplichting op zich, overeenkomstig de bepalingen van dit Verdrag, samen te werken bij het opstellen en uitvoeren van maatregelen voor het vergemakkelijken van de aankomst, het verblijf en het vertrek van schepen. Deze maatregelen mogen, voor zover ook maar enigszins mogelijk, niet minder gunstig zijn dan maatregelen die van toepassing zijn ten aanzien van andere internationale middelen van vervoer; wel kunnen zij, ten gevolge van bijzondere eisen, van die maatregelen verschillen.
 
@@ -28,15 +50,15 @@ De Verdragsluitende Regeringen nemen de verplichting op zich overeenkomstig de b
 
 3. De bepalingen van dit Verdrag zijn niet van toepassing op oorlogsschepen of plezierjachten.
 
-#### Artikel III
+##### Artikel III
 
 De Verdragsluitende Regeringen nemen de verplichting op zich samen te werken bij het tot stand brengen van een zo groot mogelijke uniformiteit in de formaliteiten, vereiste documenten en procedures in alle aangelegenheden waarbij deze uniformiteit leidt tot vergemakkelijking en verbetering van het internationale verkeer ter zee, alsmede tot een zo groot mogelijke beperking van eventuele wijzigingen in formaliteiten, vereiste documenten en procedures die nodig zijn om aan bijzondere eisen van binnenlandse aard te kunnen voldoen.
 
-#### Artikel IV
+##### Artikel IV
 
 Teneinde de in de voorgaande artikelen van dit Verdrag vervatte doeleinden te verwezenlijken, nemen de Verdragsluitende Regeringen de verplichting op zich, hetzij onderling, hetzij door tussenkomst van de Intergouvernementele Maritieme Consultatieve Organisatie1)De naam van de Organisatie is veranderd in „Internationale Maritieme Organisatie” uit hoofde van wijzigingen van het Verdrag van de Organisatie die op 22 mei 1982 in werking zijn getreden.(hierna te noemen de „Organisatie”), samen te werken in aangelegenheden betrekking hebbende op formaliteiten, vereiste documenten en procedures, alsmede de toepassing daarvan op het internationale verkeer ter zee.
 
-#### Artikel V
+##### Artikel V
 
 1. Geen bepaling van dit Verdrag of de daarbij behorende Bijlage mag worden uitgelegd als zijnde een beletsel voor verdergaande faciliteiten die een Verdragsluitende Regering krachtens haar nationale wet of de bepalingen van enige andere internationale overeenkomst met betrekking tot het internationale verkeer ter zee verleent of in de toekomst kan verlenen.
 
@@ -44,7 +66,7 @@ Teneinde de in de voorgaande artikelen van dit Verdrag vervatte doeleinden te ve
 
 3. Alle aangelegenheden waarin dit Verdrag niet uitdrukkelijk voorziet blijven onderworpen aan de wetten van de Verdragsluitende Regeringen.
 
-#### Artikel VI
+##### Artikel VI
 
 Voor de toepassing van dit Verdrag en de daarbij behorende Bijlage wordt verstaan onder:
 
@@ -52,7 +74,7 @@ Voor de toepassing van dit Verdrag en de daarbij behorende Bijlage wordt verstaa
 
 - b. **Aanbevolen werkwijzen**, de maatregelen waarvan de toepassing door de Verdragsluitende Regeringen wenselijk is, teneinde het internationale verkeer ter zee te vergemakkelijken.
 
-#### Artikel VII
+##### Artikel VII
 
 1. De Bijlage bij dit Verdrag kan door de Verdragsluitende Regeringen worden gewijzigd, hetzij op voorstel van een van hen, hetzij door een Conferentie die daartoe speciaal is bijeengeroepen.
 
@@ -70,7 +92,7 @@ Voor de toepassing van dit Verdrag en de daarbij behorende Bijlage wordt verstaa
 
 4. De Secretaris-Generaal geeft alle ondertekenende Regeringen onverwijld kennis van het aanvaarden en van kracht worden van elke overeenkomstig de bepalingen van dit artikel tot stand gekomen wijziging.
 
-#### Artikel VIII
+##### Artikel VIII
 
 1. Elke Verdragsluitende Regering die het niet mogelijk acht aan een norm te voldoen door haar eigen formaliteiten, documenten of procedures daarmee geheel in overeenstemming te brengen of die het om bijzondere redenen nodig oordeelt voorschriften te stellen die van die norm verschillen, stelt de Secretaris-Generaal daarvan in kennis, onder mededeling van de punten van verschil tussen de door haar gevolgde werkwijze en die norm. Een dergelijke kennisgeving wordt gedaan zo spoedig mogelijk na de inwerkingtreding van dit Verdrag voor de desbetreffende Regering of na de invoering van bedoelde afwijkende formaliteiten, documenten of procedures.
 
@@ -80,11 +102,11 @@ Voor de toepassing van dit Verdrag en de daarbij behorende Bijlage wordt verstaa
 
 4. De Secretaris-Generaal doet de Verdragsluitende Regeringen mededeling van elke aan hem overeenkomstig de bepalingen van de voorafgaande leden van dit artikel gedane kennisgeving.
 
-#### Artikel IX
+##### Artikel IX
 
 Op verzoek van ten minste een derde van het aantal Verdragsluitende Regeringen, roept de Secretaris-Generaal een Conferentie van Verdragsluitende Regeringen bijeen ter herziening of wijziging van dit Verdrag. Een herziening of wijziging wordt aangenomen met een meerderheid van twee derde van het aantal door de Conferentie uitgebrachte stemmen en vervolgens gewaarmerkt en door de Secretaris-Generaal ter kennis gebracht van alle Verdragsluitende Regeringen ter aanvaarding. Een jaar na aanvaarding van de herziening of de wijzigingen door twee derde van het aantal Verdragsluitende Regeringen, wordt elke herziening of wijziging van kracht voor alle Verdragsluitende Regeringen, met uitzondering van die Regeringen die, alvorens deze herziening of wijziging van kracht wordt, verklaren dat zij deze niet aanvaarden. Met een meerderheid van twee derde van het aantal uitgebrachte stemmen kan de Conferentie bij het aanvaarden van een herziening of wijziging bepalen dat die van zodanige aard is dat elke Verdragsluitende Regering die een dergelijke verklaring heeft ingediend en die de herziening of wijziging niet binnen een termijn van een jaar nadat de herziening of wijziging van kracht wordt, aanvaardt, na afloop van die termijn ophoudt Partij te zijn bij het Verdrag.
 
-#### Artikel X
+##### Artikel X
 
 1. Dit Verdrag staat open voor ondertekening gedurende zes maanden na de datum van dit Verdrag en staat daarna open voor toetreding.
 
@@ -100,15 +122,15 @@ Aanvaarding of toetreding geschiedt door nederlegging van een akte bij de Secret
 
 3. De Regering van een Staat die niet gerechtigd is Partij te worden krachtens het tweede lid van dit artikel, kan door tussenkomst van de Secretaris-Generaal een aanvraag indienen Partij te mogen worden en wordt overeenkomstig het tweede lid als Partij toegelaten, mits haar aanvraag is goedgekeurd door twee derde van het aantal leden van de Organisatie, niet zijnde Geassocieerde Leden.
 
-#### Artikel XI
+##### Artikel XI
 
 Dit Verdrag treedt in werking zestig dagen na de datum waarop de Regeringen van ten minste tien Staten het hebben ondertekend zonder voorbehoud ten aanzien van aanvaarding, of akten van aanvaarding of toetreding hebben nedergelegd. Voor een Regering die daarna tot aanvaarding of toetreding overgaat, treedt het in werking zestig dagen na nederlegging van de akte van aanvaarding of toetreding.
 
-#### Artikel XII
+##### Artikel XII
 
 Drie jaar nadat dit Verdrag voor een Verdragsluitende Regering in werking is getreden, kan die Regering het opzeggen door daarvan schriftelijk kennis te geven aan de Secretaris-Generaal, die alle Verdragsluitende Regeringen kennis geeft van de inhoud en de datum van ontvangst van bedoelde kennisgeving. Deze opzegging wordt van kracht een jaar, of zoveel later als in de kennisgeving wordt vermeld, na ontvangst daarvan door de Secretaris-Generaal.
 
-#### Artikel XIII
+##### Artikel XIII
 
 - a. De Verenigde Naties, voor zover deze het besturend lichaam voor een gebied zijn, of een Verdragsluitende Regering die verantwoordelijk is voor de buitenlandse betrekkingen van een gebied, treden zo spoedig mogelijk in overleg met een dergelijk gebied teneinde te trachten dit Verdrag tot dat gebied uit te breiden, en kunnen te allen tijde, door middel van een schriftelijke kennisgeving aan de Secretaris-Generaal, verklaren dat het Verdrag eveneens voor dat gebied geldt.
 
@@ -120,7 +142,7 @@ Drie jaar nadat dit Verdrag voor een Verdragsluitende Regering in werking is get
 
 2. De Secretaris-Generaal geeft alle Verdragsluitende Regeringen kennis van de uitbreiding van dit Verdrag krachtens het eerste lid van dit artikel tot een bepaald gebied, telkens met vermelding van de datum met ingang waarvan het Verdrag daartoe is uitgebreid.
 
-#### Artikel XIV
+##### Artikel XIV
 
 De Secretaris-Generaal stelt alle ondertekenende Regeringen, alle Verdragsluitende Regeringen en alle leden van de Organisatie in kennis van:
 
@@ -134,11 +156,11 @@ De Secretaris-Generaal stelt alle ondertekenende Regeringen, alle Verdragsluiten
 
 - e. de bijeenroeping van een conferentie op grond van de [artikelen VII](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&artikel=VII&z=2025-01-01&g=2025-01-01) of [IX](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&artikel=IX&z=2025-01-01&g=2025-01-01).
 
-#### Artikel XV
+##### Artikel XV
 
 Dit Verdrag en de daarbij behorende Bijlage worden nedergelegd bij de Secretaris-Generaal, die gewaarmerkte afschriften daarvan zal doen toekomen aan de ondertekenende en toetredende Regeringen. Zodra dit Verdrag in werking treedt, wordt het overeenkomstig [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102) door de Secretaris-Generaal geregistreerd.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Dit Verdrag en de daarbij behorende Bijlage worden opgesteld in de Engelse en de Franse taal, zijnde beide teksten gelijkelijk authentiek. Er zullen officiële vertalingen van dit Verdrag in de Russische en de Spaanse taal worden vervaardigd en tezamen met de ondertekende teksten worden nedergelegd.
 
@@ -148,7 +170,7 @@ DONE at London this ninth day of April 1965.
 
 ### DEEL 1. BEGRIPSOMSCHRIJVINGEN EN ALGEMENE BEPALINGEN
 
-#### A. Begripsomschrijvingen
+##### A. Begripsomschrijvingen
 
 Voor de toepassing van de bepalingen van deze Bijlage dient onder de volgende uitdrukkingen te worden verstaan:
 
@@ -234,7 +256,7 @@ Voor de toepassing van de bepalingen van deze Bijlage dient onder de volgende ui
 
 - **Vervoersdocument.** Informatie waaruit blijkt dat er een vervoersovereenkomst bestaat tussen een reder en een verzender, zoals een zeevrachtbrief, een cognossement of een document voor gecombineerd vervoer.
 
-#### B. Algemene bepalingen
+##### B. Algemene bepalingen
 
 Overeenkomstig het bepaalde in het tweede lid van [artikel V](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&artikel=V&z=2025-01-01&g=2025-01-01) van het Verdrag beletten de bepalingen van de Bijlage het openbaar gezag niet de door dat gezag passend geoordeelde maatregelen te nemen, waaronder begrepen het vragen van nadere informatie, hetgeen nodig zou kunnen zijn in gevallen waarin het vermoeden bestaat van fraude of in verband met problemen van bijzondere aard die een ernstige bedreiging vormen voor de openbare orde, de openbare veiligheid of de volksgezondheid, waaronder wederrechtelijke gedragingen gericht tegen de veiligheid van de zeescheepvaart en de illegale handel in verdovende middelen en psychotrope stoffen, of om het binnendringen of de verspreiding tegen te gaan van ziekten en hun vectoren of plagen die schadelijk zijn voor de mens, voor dieren of voor planten.
 
@@ -246,7 +268,7 @@ Overeenkomstig het bepaalde in het tweede lid van [artikel V](https://wetten.ove
 
 - 1.3. **Aanbevolen werkwijze.**Door de Verdragsluitende Regeringen opgelegde maatregelen en procedures ten behoeve van de veiligheid of het voorkomen van de handel in verdovende middelen zouden doelmatig moeten zijn. Dergelijke maatregelen en procedures (bijv. risicobeheer en wederzijds controleren van informatie) zouden zodanig geïmplementeerd moeten worden dat de hinder voor schepen, lading en personen of eigendommen aan boord tot een minimum wordt beperkt en onnodige vertragingen worden voorkomen.
 
-#### C. Systemen voor de elektronische uitwisseling van informatie
+##### C. Systemen voor de elektronische uitwisseling van informatie
 
 1.3bis. **Norm.**Het openbaar gezag richt systemen voor de elektronische uitwisseling van informatie in en onderhoudt en gebruikt deze.
 
@@ -296,11 +318,11 @@ Ook moet worden overwogen dit ene loket het mechanisme te maken voor het communi
 
 1.8.2. **Norm.**Het openbaar gezag aanvaardt de in [norm 2.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&deel=2&artikel=A&z=2025-01-01&g=2025-01-01) bedoelde verklaringen wanneer zij op een voor het betrokken openbaar gezag aanvaardbare wijze zijn gewaarmerkt.
 
-#### D. Illegale activiteiten
+##### D. Illegale activiteiten
 
 1.9. **Aanbevolen werkwijze.**Het openbaar gezag zou moeten streven naar samenwerkingsregelingen met reders en andere betrokken partijen om hun vermogen om illegale activiteiten te bestrijden te verbeteren, met inbegrip van maar niet beperkt tot, drugssmokkel en de illegale handel in wilde dieren, waarbij vergemakkelijking wordt aangemoedigd. Dergelijke regelingen zouden kunnen worden gebaseerd op de Memoranda van Overeenstemming van de Wereld Douane Organisatie, de [Overeenkomst inzake de internationale handel in bedreigde in het wild levende dier- en plantensoorten](onbekend) (CITES) en de bijbehorende richtlijnen.
 
-#### E. Maritieme corruptie
+##### E. Maritieme corruptie
 
 1.9bis. **Norm.**De Verdragsluitende Regeringen moedigen het openbaar gezag aan de risico’s van corruptie die gepaard gaan met de schip-wal-interface in havens te beoordelen en aan te pakken door preventieve maatregelen ter versterking van integriteit, transparantie en verantwoording te ontwikkelen en toe te passen. Het openbaar gezag coördineert ook inspanningen om via nationale en internationale samenwerking corruptie in verband met het aanlopen van schepen in de haven op te sporen, te onderzoeken en te bestraffen.
 
@@ -308,7 +330,7 @@ Ook moet worden overwogen dit ene loket het mechanisme te maken voor het communi
 
 ### DEEL 2. AANKOMST, VERBLIJF EN VERTREK VAN HET SCHIP
 
-#### A. Algemeen
+##### A. Algemeen
 
 2.1. **Norm.**Het openbaar gezag verlangt niet dat bij aankomst of vertrek van schepen waarop dit Verdrag van toepassing is andere documenten dan die waarop dit deel betrekking heeft worden overgelegd.
 
@@ -350,7 +372,7 @@ Deze documenten zijn:
 
 2.1.5. **Norm.**Het openbaar gezag gebruikt de aan de aankomst en het vertrek voorafgaande informatie opnieuw in volgende procedures wanneer dergelijke gegevens gevraagd worden.
 
-#### B. Inhoud en betekenis van de documenten
+##### B. Inhoud en betekenis van de documenten
 
 2.2. **Norm.**De generale verklaring is het basisdocument bij aankomst en vertrek dat de door het openbaar gezag verlangde gegevens met betrekking tot een schip bevat.
 
@@ -594,7 +616,7 @@ Deze documenten zijn:
 
 2.10. **Norm.**De maritieme gezondheidsverklaring is het basisdocument dat de door de havengezondheidsdienst verlangde gegevens bevat die betrekking hebben op de gezondheidstoestand aan boord van een schip gedurende de reis en bij aankomst in een haven.
 
-#### C. Documenten bij aankomst
+##### C. Documenten bij aankomst
 
 2.11. **Norm.**Totdat de in norm 1.3**ter** bedoelde overgangsperiode is verstreken verlangt het openbaar gezag met betrekking tot de aankomst van een schip in de haven slechts:
 
@@ -620,7 +642,7 @@ Deze documenten zijn:
 
 Na het verstrijken van de overgangsperiode worden geen papieren afschriften meer verlangd, behalve in geval van overmacht wanneer er geen middelen van elektronische verzending beschikbaar zijn.
 
-#### D. Documenten bij vertrek
+##### D. Documenten bij vertrek
 
 2.12. **Norm**. Totdat de in norm 1.3**ter** bedoelde overgangsperiode is verstreken verlangt het openbaar gezag met betrekking tot het vertrek van een schip uit de haven slechts:
 
@@ -646,11 +668,11 @@ Na het verstrijken van de overgangsperiode worden geen papieren afschriften meer
 
 2.13. **Niet in gebruik**
 
-#### E. Achtereenvolgens aandoen van twee of meer havens in dezelfde Staat
+##### E. Achtereenvolgens aandoen van twee of meer havens in dezelfde Staat
 
 2.14. **Norm.**Rekening houdend met de procedures die worden toegepast bij aankomst van een schip in de eerste aanloophaven op het grondgebied van een Staat, worden reders uitsluitend verplicht de gevraagde informatie één keer bij het openbaar gezag van een Staat in te dienen. De formaliteiten en documenten die door het openbaar gezag worden verlangd in elke volgende aanloophaven die in dat land wordt aangedaan zonder dat eerst een haven in een ander land wordt aangedaan, worden tot een minimum beperkt.
 
-#### F. Controletechnieken
+##### F. Controletechnieken
 
 1.11. **Norm.**Het openbaar gezag maakt gebruik van risicobeheer ter verbetering van zijn grenscontroleprocedures met betrekking tot:
 
@@ -660,7 +682,7 @@ Na het verstrijken van de overgangsperiode worden geen papieren afschriften meer
 
 - •. zijn vermogen smokkel aan te pakken.
 
-#### G. Bijzondere faciliterende maatregelen voor schepen die een haven aandoen teneinde zieke of gewonde bemanningsleden, passagiers, op zee geredde personen of andere personen aan wal te laten gaan voor een spoedeisende medische behandeling
+##### G. Bijzondere faciliterende maatregelen voor schepen die een haven aandoen teneinde zieke of gewonde bemanningsleden, passagiers, op zee geredde personen of andere personen aan wal te laten gaan voor een spoedeisende medische behandeling
 
 2.20. **Norm.**Het openbaar gezag verzoekt om medewerking van de reders teneinde te waarborgen dat, wanneer een schip dat een haven wil aandoen uitsluitend om zieke of gewonde bemanningsleden, passagiers, op zee geredde personen of andere personen aan wal te laten gaan voor een spoedeisende medische behandeling, de gezagvoerder het openbaar gezag zo vroeg mogelijk van dit voornemen in kennis stelt en daarbij zo veel mogelijk bijzonderheden vermeldt omtrent de ziekte of verwonding en de identiteit van de personen.
 
@@ -680,7 +702,7 @@ Na het verstrijken van de overgangsperiode worden geen papieren afschriften meer
 
 2.27. **Niet in gebruik.**
 
-#### H. Bijzondere faciliterende maatregelen voor schepen die een haven aandoen teneinde zieke of gewonde bemanningsleden, passagiers, op zee geredde personen of andere personen aan wal te laten gaan voor een spoedeisende medische behandeling
+##### H. Bijzondere faciliterende maatregelen voor schepen die een haven aandoen teneinde zieke of gewonde bemanningsleden, passagiers, op zee geredde personen of andere personen aan wal te laten gaan voor een spoedeisende medische behandeling
 
 2.20. **Norm.**Het openbaar gezag verzoekt om medewerking van de reders teneinde te waarborgen dat, wanneer een schip dat een haven wil aandoen uitsluitend om zieke of gewonde bemanningsleden, passagiers, op zee geredde personen of andere personen aan wal te laten gaan voor een spoedeisende medische behandeling, de gezagvoerder het openbaar gezag zo vroeg mogelijk van dit voornemen in kennis stelt en daarbij zo veel mogelijk bijzonderheden vermeldt omtrent de ziekte of verwonding en de identiteit van de personen.
 
@@ -700,7 +722,7 @@ Na het verstrijken van de overgangsperiode worden geen papieren afschriften meer
 
 ### DEEL 3. – AANKOMST EN VERTREK VAN PERSONEN
 
-#### A. Voorschriften en procedures bij aankomst en vertrek
+##### A. Voorschriften en procedures bij aankomst en vertrek
 
 3.1. **Norm.**Een geldig paspoort is het basisidentiteitsdocument dat het openbaar gezag informatie verstrekt met betrekking tot elk van de passagiers bij aankomst of vertrek van een schip.
 
@@ -800,7 +822,7 @@ De lijst van landen en gebieden die een bewijs van vaccinatie tegen gele koorts 
 
 3.10.3. **Aanbevolen werkwijze.**In de regel zou het openbaar gezag van een Verdragsluitende Regering die een geldig identiteitsbewijs voor zeevarenden erkent als alternatief voor een paspoort – met betrekking tot leden van de bemanning – geen overlegging moeten verlangen van de persoonlijke identiteitsbewijzen noch het verstrekken van informatie als aanvulling op het identiteitsbewijs voor zeevarenden voor zover deze informatie niet op de bemanningslijst zijn vermeld.
 
-#### B. Maatregelen ter vergemakkelijking van het in- en uitklaren van bagage en de douanebehandeling van passagiers en bemanning
+##### B. Maatregelen ter vergemakkelijking van het in- en uitklaren van bagage en de douanebehandeling van passagiers en bemanning
 
 3.11. **Aanbevolen werkwijze.**Het openbaar gezag zou, met medewerking van de reders en de havenautoriteiten en/of de havenadministratie, passende maatregelen moeten nemen opdat de goede gang van zaken in de haven zodanig wordt bevorderd dat de douanebehandeling van passagiers en bemanning snel kan worden afgerond en bagage snel kan worden in- of uitgeklaard. Tevens zou het openbaar gezag voldoende personeel ter beschikking moeten stellen en voor doelmatige installaties moeten zorgen, waarbij bijzondere aandacht wordt besteed aan voorzieningen voor het laden, het lossen en het transport van de bagage (waaronder begrepen het gebruik van mechanische transportsystemen). Tevens zou daarbij in het bijzonder gelet moeten worden op punten waar veelvuldig vertraging in het verwerken van de passagiers optreedt. Zo nodig zouden voorzieningen moeten worden getroffen voor een beschutte doorgang tussen het schip en de plaats waar de passagiers en de bemanning worden gecontroleerd. Dergelijke voorzieningen en installaties zouden flexibel moeten zijn en uitgebreid moeten kunnen worden om verscherpte veiligheidsmaatregelen mogelijk te maken wanneer er sprake is van een hoger beveiligingsniveau.
 
@@ -844,7 +866,7 @@ De lijst van landen en gebieden die een bewijs van vaccinatie tegen gele koorts 
 
 3.15.3. **Aanbevolen werkwijze.**Met het oog op het vergemakkelijken en bespoedigen van het internationale verkeer op zee zou het openbaar gezag gestandaardiseerde internationale tekens en symbolen die door de Organisatie zijn ontwikkeld of aanvaard in samenwerking met andere relevante internationale organisaties en die, voor zover mogelijk, bij alle vormen van vervoer gangbaar zijn, moeten implementeren in haventerminals en aan boord van schepen of, daar waar dit niet onder zijn rechtsgebied valt, de verantwoordelijke partijen in zijn land moeten aanbevelen dit te doen.
 
-#### C. Bijzondere voorzieningen voor het vervoer over zee van oudere en gehandicapte passagiers
+##### C. Bijzondere voorzieningen voor het vervoer over zee van oudere en gehandicapte passagiers
 
 3.16. **Aanbevolen werkwijze.**Er zouden maatregelen moeten worden genomen om te waarborgen dat alle noodzakelijke informatie over vervoer en veiligheid beschikbaar is voor passagiers die een verminderd gehoor of gezichtsvermogen hebben.
 
@@ -854,7 +876,7 @@ De lijst van landen en gebieden die een bewijs van vaccinatie tegen gele koorts 
 
 3.19. **Aanbevolen werkwijze.**Er zouden geschikte voorzieningen moeten worden geboden, in haventerminals en op schepen, al naargelang van toepassing, om de veilige inscheping en ontscheping van oudere en gehandicapte passagiers mogelijk te maken.
 
-#### D. Faciliterende maatregelen voor cruiseschepen en passagiers van cruiseschepen
+##### D. Faciliterende maatregelen voor cruiseschepen en passagiers van cruiseschepen
 
 3.20. **Norm.**Het openbaar gezag staat toe dat een cruiseschip met elektronische middelen toestemming tot ontscheping wordt gegeven wanneer, op basis van de informatie die voorafgaand aan de aankomst is verstrekt, de gezondheidsdienst van de haven die zal worden aangedaan van mening is dat de komst van het schip niet tot gevolg zal hebben dat een ziekte of aanzienlijk volksgezondheidsrisico wordt ingevoerd of verspreid.
 
@@ -888,7 +910,7 @@ De lijst van landen en gebieden die een bewijs van vaccinatie tegen gele koorts 
 
 3.35. **Niet in gebruik.**
 
-#### E. Bijzondere faciliterende maatregelen voor passagiers op doorreis
+##### E. Bijzondere faciliterende maatregelen voor passagiers op doorreis
 
 3.36. **Norm.**Een passagier op doorreis die aan boord blijft van het schip waarop hij of zij aankomt en vertrekt, wordt in de regel niet onderworpen aan een routinecontrole door het openbaar gezag, behalve in uitzonderlijke omstandigheden die door het betreffende openbaar gezag worden bepaald.
 
@@ -904,11 +926,11 @@ De lijst van landen en gebieden die een bewijs van vaccinatie tegen gele koorts 
 
 3.42. **Aanbevolen werkwijze.**Een passagier op doorreis die in de ene haven ontscheept en in een andere haven in hetzelfde land op hetzelfde schip weer inscheept, zou van dezelfde voorzieningen gebruik moeten kunnen maken als een passagier die in dezelfde haven op hetzelfde schip in- en ontscheept.
 
-#### F. Faciliterende maatregelen voor schepen die wetenschappelijke diensten uitvoeren
+##### F. Faciliterende maatregelen voor schepen die wetenschappelijke diensten uitvoeren
 
 3.43. **Aanbevolen werkwijze.**Een schip dat wetenschappelijke diensten uitvoert heeft tijdens de reis noodzakelijkerwijs personeel aan boord dat ten behoeve van deze wetenschappelijke diensten op het schip werkzaam is. Dergelijk personeel, indien als zodanig geïdentificeerd, zou van dezelfde voorzieningen gebruik moeten kunnen maken als die worden toegestaan aan de bemanningsleden van dat schip.
 
-#### G. Overige faciliterende maatregelen voor buitenlanders die deel uitmaken van de bemanning van schepen die internationale reizen maken – walverlof
+##### G. Overige faciliterende maatregelen voor buitenlanders die deel uitmaken van de bemanning van schepen die internationale reizen maken – walverlof
 
 3.44. **Norm.**Bemanningsleden krijgen van het openbaar gezag toestemming aan wal te gaan terwijl het schip waarmee zij aankwamen in de haven ligt, op voorwaarde dat de formaliteiten bij aankomst van het schip zijn vervuld en het openbaar gezag geen reden heeft toestemming aan wal te gaan te weigeren om redenen van volksgezondheid, openbare veiligheid en beveiliging of openbare orde. Walverlof wordt toegestaan op een wijze die discriminatie uitsluit, bijvoorbeeld op grond van nationaliteit, ras, kleur, sekse, religie, politieke overtuiging of sociale herkomst en ongeacht de vlaggenstaat van het schip waarop zij in dienst zijn of te werk worden gesteld.
 
@@ -926,7 +948,7 @@ De lijst van landen en gebieden die een bewijs van vaccinatie tegen gele koorts 
 
 ### DEEL 4. – VERSTEKELINGEN
 
-#### A. Algemene beginselen
+##### A. Algemene beginselen
 
 4.1. **Norm.**De bepalingen van dit deel worden toegepast in overeenstemming met de internationale beginselen inzake bescherming als vervat in internationale instrumenten, zoals het [Verdrag van de VN betreffende de status van vluchtelingen](onbekend) van 28 juli 1951, en het [Protocol van de VN betreffende de status van vluchtelingen](onbekend) van 31 januari 1967, en relevante nationale wetgeving.
 
@@ -934,7 +956,7 @@ De lijst van landen en gebieden die een bewijs van vaccinatie tegen gele koorts 
 
 4.2.1. **Aanbevolen werkwijze.**Het openbaar gezag, havenautoriteiten, reders of gezagvoerders zouden geen betalingen of andere voordelen aan de verstekelingen mogen toekennen die verder gaan dan de minimumvereisten om de veiligheid, de algemene gezondheid, het welzijn en de beveiliging van de verstekelingen aan boord of aan de wal te garanderen, aangezien dit een stimulans kan zijn om opnieuw te recidiveren of een aanmoediging kan zijn voor andere personen die zich aan boord van schepen proberen te verbergen.
 
-#### B. Preventieve maatregelen
+##### B. Preventieve maatregelen
 
 4.3. **Preventieve maatregelen aan boord en in de haven**
 
@@ -966,7 +988,7 @@ Alle procedures zouden zo moeten worden uitgevoerd dat deze minimale hinder vero
 
 4.3.3.1. **Aanbevolen werkwijze.**Waar van toepassing zouden de Verdragsluitende Regeringen moeten worden aangemoedigd om in hun nationale wetgeving rechtsgronden op te nemen die het mogelijk maken vervolging in te stellen tegen verstekelingen, voor de afvaart ontdekte verstekelingen en alle individuen of bedrijven die een verstekeling of voor de afvaart ontdekte verstekeling helpen met de bedoeling deze verstekeling gemakkelijker toegang te geven tot het havengebied, schepen, lading of vrachtcontainers.
 
-#### C. Behandeling van de verstekeling aan boord
+##### C. Behandeling van de verstekeling aan boord
 
 4.4. **Algemene beginselen – humane behandeling**
 
@@ -990,7 +1012,7 @@ Alle procedures zouden zo moeten worden uitgevoerd dat deze minimale hinder vero
 
 4.7.1. **Norm.**De Verdragsluitende Regeringen melden alle gevallen waarin verstekelingen zijn aangetroffen en waarvan zij in kennis zijn gesteld aan de Secretaris-Generaal van de Internationale Maritieme Organisatie, rekening houdend met de relevante richtlijnen van de Organisatie.
 
-#### D. Afwijking van de geplande route
+##### D. Afwijking van de geplande route
 
 4.8. **Aanbevolen werkwijze.**De Verdragsluitende Regeringen en hun openbaar gezag zouden reders van schepen die gerechtigd zijn hun vlag te voeren aan moeten raden om hun gezagvoerders te instrueren dat zij, nadat het schip de territoriale wateren van het land waar de verstekeling aan boord is gekomen heeft verlaten, niet van de geplande reis afwijken teneinde te trachten aan boord ontdekte verstekelingen te laten ontschepen, tenzij:
 
@@ -1004,7 +1026,7 @@ Alle procedures zouden zo moeten worden uitgevoerd dat deze minimale hinder vero
 
 Ongeacht of een schip al dan niet van de geplande route afwijkt, zou de ontscheping van verstekelingen die verklaren vluchteling of asielzoeker te zijn, niet moeten plaatsvinden in hun (vermeende) land van herkomst of enig ander land waaruit zij zijn gevlucht en waar zij beweren gevaar te lopen.
 
-#### E. Ontscheping en terugzending van een verstekeling
+##### E. Ontscheping en terugzending van een verstekeling
 
 4.9. De Staat van de eerste aanloophaven volgens het reisplan
 
@@ -1074,7 +1096,7 @@ Overeenkomstig [norm 4.6.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&deel
 
 ### DEEL 5. AANKOMST, VERBLIJF EN VERTREK VAN LADING EN ANDERE ARTIKELEN
 
-#### A. Algemeen
+##### A. Algemeen
 
 5.1. **Aanbevolen werkwijze.**Het openbaar gezag zou, met medewerking van de reders, havenautoriteiten en havenvoorzieningen en -terminals, de daarvoor in aanmerking komende maatregelen moeten nemen om te waarborgen dat het aantal ligdagen tot een minimum wordt beperkt en regelmatig alle werkwijzen opnieuw moeten bezien die verband houden met de aankomst en het vertrek van schepen, waaronder begrepen voorzieningen ten aanzien van de inscheping en de ontscheping, het laden en lossen, het onderhoud en dergelijke, alsmede de daarmee verband houdende veiligheidsmaatregelen. Tevens zou het openbaar gezag voorzieningen moeten treffen opdat de in- en uitklaring van vrachtschepen en hun vrachten voor zover mogelijk, geschiedt ter plaatse waar het schip gelost en geladen wordt.
 
@@ -1090,7 +1112,7 @@ Overeenkomstig [norm 4.6.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&deel
 
 5.6. **Aanbevolen werkwijze.**Het openbaar gezag zou moeten voorzien in vereenvoudigde procedures voor de snelle in- en uitklaring van particuliere pakketten met geschenken en van handelsmonsters tot een bepaalde waarde of kwantiteit, die op een zo hoog mogelijk niveau zou moeten worden gesteld.
 
-#### B. De in- en uitklaring van lading
+##### B. De in- en uitklaring van lading
 
 5.7. **Norm.**Het openbaar gezag verleent, behoudens de naleving van nationale verboden of beperkingen en vereiste maatregelen voor de veiligheid van havens of het voorkomen van de handel in verdovende middelen, voorrang aan de inklaring van levende have, bederfelijke goederen en overige zendingen van spoedeisende aard.
 
@@ -1120,7 +1142,7 @@ Overeenkomstig [norm 4.6.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&deel
 
 5.14.1. **Aanbevolen werkwijze.**Het openbaar gezag zou de transitprocedure waaronder goederen afkomstig van een andere Staat vallen die in afwachting van het laden zijn, moeten vergemakkelijken en zo snel mogelijk moeten afronden.
 
-#### C. Vrachtcontainers en pallets
+##### C. Vrachtcontainers en pallets
 
 5.15. **Norm.**Met inachtneming van zijn respectieve regelgeving staat het openbaar gezag toe dat vrachtcontainers, pallets en uitrusting en toebehoren van containers die aan de vrachtcontainer zijn bevestigd of afzonderlijk worden vervoerd, tijdelijk worden ingevoerd zonder betaling van douanerechten en andere belastingen en heffingen en vergemakkelijkt het gebruik ervan in het verkeer ter zee.
 
@@ -1130,13 +1152,13 @@ Overeenkomstig [norm 4.6.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&deel
 
 5.18. **Norm.**De Verdragsluitende Regeringen staan de tijdelijke toelating toe van samenstellende delen van vrachtcontainers zonder betaling van douanerechten en andere belastingen en heffingen, indien deze delen benodigd zijn voor de reparatie van vrachtcontainers die reeds zijn toegelaten krachtens de bepalingen van [norm 5.15](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&deel=5&artikel=C&z=2025-01-01&g=2025-01-01).
 
-#### D. Lading die niet wordt gelost in de haven van bestemming
+##### D. Lading die niet wordt gelost in de haven van bestemming
 
 5.19. **Norm.**In geval lading voorkomend op de aangifte van de lading niet wordt gelost in de haven van bestemming, stemt het openbaar gezag in met een wijziging van de aangifte van de lading en legt het geen boete op indien het ervan overtuigd is dat de lading in werkelijkheid niet in het schip is geladen of, indien zij daarin wel is geladen, in een andere haven is gelost of zal worden gelost.
 
 5.20. **Norm.**Indien als gevolg van een vergissing of om een andere geldige reden lading wordt gelost in een haven niet zijnde de haven van bestemming, bevordert het openbaar gezag het opnieuw laden of de doorzending daarvan naar de haven van bestemming. Deze bepaling is niet van toepassing op verboden lading of op lading ten aanzien waarvan beperkende bepalingen gelden.
 
-#### E. Beperking van de verantwoordelijkheid van de reder
+##### E. Beperking van de verantwoordelijkheid van de reder
 
 5.21. **Norm.**Het openbaar gezag verlangt niet van een reder dat deze bijzondere informatie ten behoeve van dat gezag op een vervoersdocument of een afschrift daarvan vermeldt, tenzij de reder zelf de importeur of exporteur is of namens deze optreedt.
 
@@ -1150,11 +1172,11 @@ Overeenkomstig [norm 4.6.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&deel
 
 ### DEEL 7. DIVERSE BEPALINGEN
 
-#### A. Borgstellingen en andere vormen van zekerheid
+##### A. Borgstellingen en andere vormen van zekerheid
 
 7.1. **Aanbevolen werkwijze.**In gevallen waarin het openbaar gezag een borgstelling of andere vormen van zekerheid van de reders verlangt ten aanzien van hun verplichtingen uit hoofde van wetten en voorschriften van een Staat op het gebied van douane, immigratie, volksgezondheid of landbouwquarantaine, zou het het gebruik van een enkele allesomvattende borgstelling of andere vorm van zekerheid waar mogelijk moeten toelaten.
 
-#### B. Dienstverlening in havens
+##### B. Dienstverlening in havens
 
 7.2. **Aanbevolen werkwijze.**De normale diensten van het openbaar gezag in een haven zouden kosteloos gedurende de normale werktijd moeten worden verleend. Het openbaar gezag zou vaste werktijden voor het verlenen van diensten in de havens moeten vaststellen, en wel zodanig dat deze samenvallen met de uren waarin gewoonlijk het meeste werk zou moeten worden verricht.
 
@@ -1168,7 +1190,7 @@ Overeenkomstig [norm 4.6.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&deel
 
 7.7. **Aanbevolen werkwijze.**De Verdragsluitende Regeringen zouden moeten trachten tot een regeling te komen waarbij de ene Regering een andere Regering bepaalde faciliteiten verleent vóór of gedurende de reis, met betrekking tot het onderzoeken van schepen, passagiers, bemanning, bagage, lading en documenten verband houdend met douane, immigratie, volksgezondheid en quarantainevoorschriften voor planten en dieren, voor zover dit de inklaring na aankomst in de laatste Staat zou vergemakkelijken.
 
-#### C. Noodhulp
+##### C. Noodhulp
 
 7.8. **Norm.**Het openbaar gezag vergemakkelijkt de aankomst en het vertrek van schepen die betrokken zijn bij:
 
@@ -1184,7 +1206,7 @@ Overeenkomstig [norm 4.6.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&deel
 
 7.10. **Norm.**Het openbaar gezag staat snelle inklaring toe van specialistische apparatuur die benodigd is voor de uitvoering van veiligheidsmaatregelen.
 
-#### D. Nationale vereenvoudigingscommissies
+##### D. Nationale vereenvoudigingscommissies
 
 7.11. **Aanbevolen werkwijze.**Elke Verdragsluitende Regering zou, in nauwe samenwerking met de maritieme sector, een nationaal programma voor de vereenvoudiging van het verkeer ter zee moeten vaststellen op basis van de vereisten van deze Bijlage aangaande vereenvoudiging, en zou moeten verzekeren dat de doelstelling van haar vereenvoudigingsprogramma het aannemen is van alle praktische maatregelen ter vereenvoudiging van het verkeer van schepen, lading, bemanningen, passagiers, post en voorraden, door het wegnemen van onnodige hindernissen en vertragingen.
 
@@ -1196,7 +1218,7 @@ DONE at London this ninth day of April 1965.
 
 ### DEEL 2. – AANKOMST, VERBLIJF EN VERTREK VAN HET SCHIP
 
-#### A. Algemeen
+##### A. Algemeen
 
 2.1. **Norm.**Het openbaar gezag verlangt bij aankomst of vertrek van schepen waarop dit Verdrag van toepassing is geen andere verklaringen dan die beschreven in dit deel. Deze verklaringen kunnen afzonderlijk of in een gecombineerd elektronisch formaat worden ingediend overeenkomstig de richtlijnen voor de uitvoering van berichten en de vereisten van het systeem voor elektronische gegevensuitwisseling.
 
@@ -1242,7 +1264,7 @@ De verklaringen voor aankomst en vertrek van een schip zijn:
 
 2.1.5. **Norm.**Het openbaar gezag gebruikt de aan de aankomst en het vertrek voorafgaande informatie opnieuw in daarna volgende procedures wanneer dezelfde gegevens gevraagd worden.
 
-#### B. Inhoud en betekenis van de verklaringen
+##### B. Inhoud en betekenis van de verklaringen
 
 2.2. **Norm.**De algemene verklaring is de standaard verklaring bij aankomst en vertrek die de door het openbaar gezag verlangde informatie met betrekking tot een schip bevat.
 
@@ -1312,7 +1334,7 @@ De maritieme gezondheidsverklaring dient in overeenstemming te zijn met de Inter
 
 2.10.2. **Norm.**Het formulier voor voorafgaande kennisgeving van de afgifte van afval bij havenontvangstvoorzieningen is de standaard verklaring die het openbaar gezag voorziet van informatie over de afvalontvangstnoden van het schip.
 
-#### C. Gebruik van alternatieve rapportagemiddelen, in uitzonderlijke omstandigheden, indien er geen middelen voor elektronische rapportage beschikbaar zijn
+##### C. Gebruik van alternatieve rapportagemiddelen, in uitzonderlijke omstandigheden, indien er geen middelen voor elektronische rapportage beschikbaar zijn
 
 2.11. **Norm.**In uitzonderlijke omstandigheden, indien er geen middelen voor elektronische verzending beschikbaar zijn, heeft het openbaar gezag alternatieve middelen voor rapportage beschikbaar voor de aankomst en het vertrek van een schip. Het openbaar gezag maakt, voor zover mogelijk, alle beschikbare alternatieve rapportagemiddelen bekend.
 
@@ -1330,11 +1352,11 @@ Het openbaar gezag aanvaardt tevens in plaats van een papieren aangifte van de l
 
 2.13.1. **Norm.**Indien in uitzonderlijke omstandigheden het openbaar gezag vaststelt dat de enige manier die beschikbaar is voor verzending van de in deze Bijlage bedoelde verklaringen in papieren vorm is, aanvaardt het openbaar gezag documenten die op een leesbare en begrijpelijke drager worden overgebracht, met inbegrip van documenten die met de hand met inkt of onuitwisbaar potlood zijn geschreven of die met behulp van informatietechnologie zijn vervaardigd.
 
-#### D. Achtereenvolgens aandoen van twee of meer havens in dezelfde Staat
+##### D. Achtereenvolgens aandoen van twee of meer havens in dezelfde Staat
 
 2.14. **Norm.**Rekening houdend met de procedures die worden toegepast bij aankomst van een schip in de eerste aanloophaven op het grondgebied van een Staat, worden reders uitsluitend verplicht de gevraagde informatie één keer bij het openbaar gezag van een Staat te verklaren. De formaliteiten en documenten die door het openbaar gezag worden verlangd in elke volgende aanloophaven die in dat land wordt aangedaan zonder dat eerst een haven in een ander land wordt aangedaan, worden tot een minimum beperkt.
 
-#### E. Invullen van verklaringen
+##### E. Invullen van verklaringen
 
 2.15. **Aanbevolen werkwijze.**Voor zover mogelijk zou het openbaar gezag de in deze Bijlage bedoelde verklaringen, behoudens het bepaalde in [norm 3.7](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&deel=3&artikel=A&z=2025-01-01&g=2025-01-01), moeten aanvaarden ongeacht de taal waarin de verlangde informatie wordt verstrekt, met dien verstande dat het openbaar gezag het recht heeft een schriftelijke of mondelinge vertaling te verlangen in een van de officiële talen van de Organisatie, indien het dit nodig mocht oordelen.
 
@@ -1344,7 +1366,7 @@ Het openbaar gezag aanvaardt tevens in plaats van een papieren aangifte van de l
 
 2.17. **Norm.**Het openbaar gezag van het land waarin een beoogde haven van aankomst is gelegen of waar goederen worden gelost of overgeslagen, mag niet verlangen dat een op het schip, de lading daarvan, de scheepsvoorraad, de passagiers of de bemanning betrekking hebbende verklaring, als bedoeld in dit deel, wordt gelegaliseerd, geverifieerd, gewaarmerkt of vooraf door een van hun buitenlandse vertegenwoordigingen wordt behandeld. Het voorgaande houdt niet in dat het overleggen van een paspoort of ander identiteitsbewijs van een passagier of bemanningslid voor het verkrijgen van een visum of voor soortgelijke doeleinden niet kan worden gevorderd.
 
-#### F. Fouten en wijzigingen in verklaringen en daarvoor geldende boeten
+##### F. Fouten en wijzigingen in verklaringen en daarvoor geldende boeten
 
 2.18. **Norm.**Het openbaar gezag staat toe dat, zonder dat daardoor het schip wordt opgehouden, fouten in een verklaring als bedoeld in deze Bijlage worden gecorrigeerd, ten aanzien waarvan het zich overtuigd heeft dat deze onopzettelijk zijn gemaakt, niet ernstig zijn, niet te wijten zijn aan herhaalde achteloosheid en niet zijn gemaakt met de bedoeling wetten of voorschriften te overtreden, mits deze fouten worden ontdekt voordat de verklaring in haar geheel wordt gecontroleerd en de correcties onmiddellijk kunnen worden aangebracht.
 
@@ -1352,7 +1374,7 @@ Het openbaar gezag aanvaardt tevens in plaats van een papieren aangifte van de l
 
 2.19bis. **Norm.**Het openbaar gezag staat toe dat er wijzigingen worden aangebracht in reeds ingediende informatie in overeenstemming met de toepasselijke wet- en regelgeving.
 
-#### A. Algemeen
+##### A. Algemeen
 
 6.1. **Norm.**Het openbaar gezag van een Staat die geen partij is bij de Internationale Gezondheidsregeling streeft ernaar de bepalingen van deze Regeling toe te passen die betrekking hebben op het internationale zeevervoer.
 
@@ -1396,7 +1418,7 @@ Het openbaar gezag aanvaardt tevens in plaats van een papieren aangifte van de l
 
 6.10. **Norm.**Behalve in een noodgeval dat een ernstige bedreiging voor de gezondheid van mens, plant of dier vormt, wordt een schip niet op grond van een andere reden met betrekking tot de gezondheid van mens, plant of dier door het openbaar gezag van een haven belet lading of scheepsvoorraad te laden of te lossen.
 
-#### B. Vaststelling van een noodsituatie op het gebied van de volksgezondheid van internationaal belang
+##### B. Vaststelling van een noodsituatie op het gebied van de volksgezondheid van internationaal belang
 
 6.11. **Norm.**Verdragsluitende Regeringen en hun relevante autoriteiten staan schepen en havens zoveel mogelijk toe volledig operationeel te blijven, zodat de bevoorradingsketens tijdens een noodsituatie op het gebied van de volksgezondheid van internationaal belang volledig operationeel blijven overeenkomstig de [Internationale Gezondheidsregeling](onbekend) en eventuele relevante aanbevelingen van de WHO.
 
@@ -1434,11 +1456,11 @@ Het openbaar gezag aanvaardt tevens in plaats van een papieren aangifte van de l
 
 ### DEEL 7. DIVERSE BEPALINGEN
 
-#### A. Borgstellingen en andere vormen van zekerheid
+##### A. Borgstellingen en andere vormen van zekerheid
 
 7.1. **Aanbevolen werkwijze.**In gevallen waarin het openbaar gezag een borgstelling of andere vormen van zekerheid van de reders verlangt ten aanzien van hun verplichtingen uit hoofde van wetten en voorschriften van een Staat op het gebied van douane, immigratie, volksgezondheid of landbouwquarantaine, zou het het gebruik van een enkele allesomvattende borgstelling of andere vorm van zekerheid waar mogelijk moeten toelaten.
 
-#### B. Dienstverlening in havens
+##### B. Dienstverlening in havens
 
 7.2. **Aanbevolen werkwijze.**De normale diensten van het openbaar gezag in een haven zouden kosteloos gedurende de normale werktijd moeten worden verleend. Het openbaar gezag zou vaste werktijden voor het verlenen van diensten in de havens moeten vaststellen, en wel zodanig dat deze samenvallen met de uren waarin gewoonlijk het meeste werk zou moeten worden verricht.
 
@@ -1458,7 +1480,7 @@ Het openbaar gezag aanvaardt tevens in plaats van een papieren aangifte van de l
 
 7.7. **Aanbevolen werkwijze.**De Verdragsluitende Regeringen zouden moeten trachten tot een regeling te komen waarbij de ene Regering een andere Regering bepaalde faciliteiten verleent vóór of gedurende de reis, met betrekking tot het onderzoeken van schepen, passagiers, bemanning, bagage, lading en documenten verband houdend met douane, immigratie, volksgezondheid en quarantainevoorschriften voor planten en dieren, voor zover dit de inklaring na aankomst in de laatste Staat zou vergemakkelijken.
 
-#### C. Noodhulp
+##### C. Noodhulp
 
 7.8. **Norm.**Het openbaar gezag vergemakkelijkt de aankomst en het vertrek van schepen die betrokken zijn bij:
 
@@ -1478,7 +1500,7 @@ Het openbaar gezag aanvaardt tevens in plaats van een papieren aangifte van de l
 
 7.10. **Norm.**Het openbaar gezag staat snelle inklaring toe van specialistische apparatuur die benodigd is voor de uitvoering van beveiligings- en veiligheidsmaatregelen.
 
-#### D. Nationale vereenvoudigingscommissies
+##### D. Nationale vereenvoudigingscommissies
 
 7.11. **Aanbevolen werkwijze.** Elke Verdragsluitende Regering zou, in nauwe samenwerking met de maritieme sector, een nationaal programma voor de vereenvoudiging van het verkeer ter zee moeten vaststellen op basis van de vereisten van deze Bijlage aangaande vereenvoudiging, en zou moeten verzekeren dat de doelstelling van haar vereenvoudigingsprogramma het aannemen is van alle praktische maatregelen ter vereenvoudiging van het verkeer van schepen, lading, bemanningen, passagiers, post en voorraden, door het wegnemen van onnodige hindernissen en vertragingen, rekening houdend met de noodzaak om illegale activiteiten te bestrijden.
 

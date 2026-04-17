@@ -1,13 +1,39 @@
 ---
-title: "Regeling tijdelijke opschorting levering zorgvraagzwaarte cGGZ"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 23 september 2014, kenmerk 656441-125129-CZ, houdende tijdelijke opschorting levering zorgvraagzwaarte cGGZ"
 identifier: "BWBR0035586"
-categorie: "Sociaal recht"
-publicatiedatum: 2014-10-02
-laatste_update: 2014-10-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035586"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2014-10-02"
+last_updated: "2014-10-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035586"
+soort: "ministeriele-regeling"
+stam_id: "12804923"
+version_id: "21746922"
+internal_id: "C31224261"
+label_id: "12774584"
+dtd_version: "2.0"
+original_entry_into_force: "2014-10-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035586/2014-10-02/0"
+intitule_bron: "Stcrt.2014-27276"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-09-23"
+intitule_published: "2014-10-01"
+intitule_in_force: "2014-10-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-27276"
+original_signed_date: "2014-09-23"
+original_published_date: "2014-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-27276"
+entry_into_force_date: "2014-10-02"
+jci_1_3: "jci1.3:c:BWBR0035586&z=2014-10-02&g=2014-10-02"
+jci_1_0: "1.0:c:BWBR0035586&g=2014-10-02"
+citeertitel_status: "redactioneel"
+short_title: "Regeling tijdelijke opschorting levering zorgvraagzwaarte cGGZ"
+signed_date: "2014-09-23"
+entry_into_force: "2014-10-02"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 23 september 2014, kenmerk 656441-125129-CZ, houdende tijdelijke opschorting levering zorgvraagzwaarte cGGZ
 
 Gelet op de [artikelen 87](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=87) en [88 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=88);
@@ -50,11 +76,11 @@ Overwegende dat het wenselijk is de bedoelde verplichting op te schorten geduren
 
 Besluit:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Regeling zorgverzekering.
 
-#### Artikel II
+##### Artikel II
 
 1. Wijzigt de Regeling zorgverzekering.
 

@@ -1,13 +1,35 @@
 ---
 title: "Verdrag betreffende de overeenkomst tot internationaal vervoer van goederen over de weg (CMR)"
 identifier: "BWBV0005177"
-categorie: "Internationaal recht"
-publicatiedatum: 1986-04-28
-laatste_update: 1986-04-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005177"
+country: "nl"
+rank: "verdrag"
+publication_date: "1986-04-28"
+last_updated: "1986-04-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005177"
+soort: "verdrag"
+stam_id: "10004495353"
+version_id: "10004711542"
+internal_id: "C10007085141"
+label_id: "10004481164"
+dtd_version: "2.0"
+original_entry_into_force: "1961-07-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005177/1986-04-28/0"
+intitule_bron: "Trb.1957-84"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1957-06-24"
+intitule_in_force: "1961-05-24"
+intitule_status: "goed"
+original_publication: "Trb.1957-84"
+original_published_date: "1957-06-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1957-84"
+entry_into_force_date: "1961-07-02"
+jci_1_3: "jci1.3:c:BWBV0005177&z=1986-04-28&g=1986-04-28"
+jci_1_0: "1.0:c:BWBV0005177&g=1986-04-28"
+citeertitel_status: "redactioneel"
+entry_into_force: "1961-07-02"
 ---
-
 # Verdrag betreffende de overeenkomst tot internationaal vervoer van goederen over de weg (CMR)
 
 PREAMBULE
@@ -20,7 +42,7 @@ Zijn overeengekomen als volgt:
 
 ### HOOFDSTUK I. Toepasselijkheid
 
-#### Artikel 1
+##### Artikel 1
 
 1. Dit Verdrag is van toepassing op iedere overeenkomst onder bezwarende titel voor het vervoer van goederen over de weg door middel van voertuigen, wanneer de plaats van inontvangstneming der goederen en de plaats bestemd voor de aflevering, zoals deze zijn aangegeven in de overeenkomst, gelegen zijn in twee verschillende landen, waarvan tenminste één een bij het Verdrag partij zijnd land is, ongeacht de woonplaats en de nationaliteit van partijen.
 
@@ -38,7 +60,7 @@ Zijn overeengekomen als volgt:
 
 5. De Verdragsluitende Partijen komen overeen, dat dit Verdrag niet door bijzondere overeenkomsten, gesloten tussen twee of meer van haar, zal worden gewijzigd, tenzij om aan de werking daarvan haar grensverkeer te onttrekken of om voor vervoer, dat uitsluitend over haar grondgebied plaats heeft, het gebruik van een de goederen vertegenwoordigende vrachtbrief toe te staan.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Wanneer het voertuig, waarin de goederen zich bevinden, over een gedeelte van het traject wordt vervoerd over zee, per spoor, over de binnenwateren of door de lucht, zonder dat de goederen - behoudens ter toepassing van de bepalingen van artikel 14 - uit dat voertuig worden uitgeladen, blijft dit Verdrag niettemin van toepassing op het gehele vervoer. Voorzover evenwel wordt bewezen dat verlies, beschadiging of vertraging in de aflevering van de goederen, ontstaan tijdens het vervoer op andere wijze dan over de weg, niet is veroorzaakt door een daad of nalatigheid van de wegvervoerder en voortspruit uit een feit, dat zich alleen heeft kunnen voordoen tijdens en tengevolge van het vervoer anders dan over de weg, wordt de aansprakelijkheid van de wegvervoerder niet bepaald door dit Verdrag, maar op de wijze waarop de aansprakelijkheid van de niet-wegvervoerder zou zijn bepaald, zo een vervoerovereenkomst tussen de afzender en de niet-wegvervoerder tot vervoer van de goederen alleen zou zijn afgesloten overeenkomstig de wettelijke bepalingen van dwingend recht betreffende het vervoer van goederen op die andere wijze. Bij gebreke van dergelijke bepalingen wordt de aansprakelijkheid van de wegvervoerder echter bepaald door dit Verdrag.
 
@@ -46,23 +68,23 @@ Zijn overeengekomen als volgt:
 
 ### HOOFDSTUK II. Personen voor wie de vervoerder aansprakelijk is
 
-#### Artikel 3
+##### Artikel 3
 
 Voor de toepassing van dit Verdrag is de vervoerder, als ware het voor zijn eigen daden en nalatigheden, aansprakelijk voor de daden en nalatigheden van zijn ondergeschikten en van alle andere personen, van wie hij zich voor de bewerkstelliging van het vervoer bedient, wanneer deze ondergeschikten of deze personen handelen in de uitoefening van hun werkzaamheden.
 
 ### HOOFDSTUK III. Sluiting en uitvoering van de vervoerovereenkomst
 
-#### Artikel 4
+##### Artikel 4
 
 De vervoerovereenkomst wordt vastgelegd in een vrachtbrief. De afwezigheid, de onregelmatigheid of het verlies van de vrachtbrief tast noch het bestaan noch de geldigheid aan van de vervoerovereenkomst, die onderworpen blijft aan de bepalingen van dit Verdrag.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De vrachtbrief wordt opgemaakt in drie oorspronkelijke exemplaren, ondertekend door de afzender en de vervoerder. Deze ondertekening kan worden gedrukt of vervangen door de stempels van de afzender en de vervoerder, indien de wetgeving van het land, waar de vrachtbrief wordt opgemaakt, zulks toelaat. Het eerste exemplaar wordt overhandigd aan de afzender, het tweede begeleidt de goederen en het derde wordt door de vervoerder behouden.
 
 2. Wanneer de te vervoeren goederen moeten worden geladen in verschillende voertuigen of wanneer het verschillende soorten goederen of afzonderlijke partijen betreft, heeft de afzender of de vervoerder het recht om te eisen, dat er evenzoveel vrachtbrieven worden opgemaakt als er voertuigen moeten worden gebruikt of als er soorten of partijen goederen zijn.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De vrachtbrief moet de volgende aanduidingen bevatten:
 
@@ -106,7 +128,7 @@ De vervoerovereenkomst wordt vastgelegd in een vrachtbrief. De afwezigheid, de o
 
 3. De partijen kunnen in de vrachtbrief iedere andere aanduiding, welke zij nuttig achten, opnemen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De afzender is aansprakelijk voor alle kosten en schaden, welke door de vervoerder worden geleden tengevolge van de onnauwkeurigheid of de onvolledigheid:
 
@@ -120,7 +142,7 @@ De vervoerovereenkomst wordt vastgelegd in een vrachtbrief. De afwezigheid, de o
 
 3. Indien de vrachtbrief niet de vermelding, bedoeld in artikel 6, eerste lid onder **k),** bevat, is de vervoerder aansprakelijk voor alle kosten en schaden, welke de rechthebbende op de goederen door deze nalatigheid lijdt.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Bij de inontvangstneming der goederen is de vervoerder gehouden te onderzoeken:
 
@@ -132,17 +154,17 @@ De vervoerovereenkomst wordt vastgelegd in een vrachtbrief. De afwezigheid, de o
 
 3. De afzender heeft het recht te eisen, dat de vervoerder het bruto-gewicht of de op andere wijze uitgedrukte hoeveelheid der goederen onderzoekt. Hij kan tevens een onderzoek van de inhoud der colli eisen. De vervoerder kan de kosten van het onderzoek in rekening brengen. Het resultaat van de onderzoekingen wordt in de vrachtbrief neergelegd.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De vrachtbrief levert volledig bewijs, behoudens tegenbewijs, van de voorwaarden der overeenkomst en van de ontvangst van de goederen door de vervoerder.
 
 2. Bij gebreke van vermelding in de vrachtbrief van gemotiveerde voorbehouden van de vervoerder wordt vermoed, dat de goederen en hun verpakking in uiterlijk goede staat waren op het ogenblik van de inontvangstneming door de vervoerder en dat het aantal colli en hun merken en nummers in overeenstemming waren met de opgaven in de vrachtbrief.
 
-#### Artikel 10
+##### Artikel 10
 
 De afzender is jegens de vervoerder aansprakelijk voor de schade aan personen, materiaal of aan andere goederen en de kosten, welke voortspruiten uit de gebrekkige verpakking van de goederen, tenzij de gebrekkigheid zichtbaar of aan de vervoerder bekend was op het ogenblik van de inontvangstneming en de vervoerder te dien aanzien geen voorbehouden heeft gemaakt.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Ter voldoening aan douane- en andere formaliteiten, welke vóór de aflevering van de goederen moeten worden vervuld, moet de afzender de nodige bescheiden bij de vrachtbrief voegen of ter beschikking van de vervoerder stellen en hem alle gewenste inlichtingen verschaffen.
 
@@ -150,7 +172,7 @@ De afzender is jegens de vervoerder aansprakelijk voor de schade aan personen, m
 
 3. De vervoerder is op dezelfde voet als een commissionnair aansprakelijk voor de gevolgen van verlies of onjuiste behandeling van de bescheiden, die in de vrachtbrief zijn vermeld en deze begeleiden of in zijn handen zijn gesteld. De door hem verschuldigde schadevergoeding mag evenwel die, verschuldigd in geval van verlies van de goederen, niet overschrijden.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De afzender heeft het recht over de goederen te beschikken, in het bijzonder door van de vervoerder te vorderen dat hij het vervoer ophoudt, de plaats bestemd voor de aflevering der goederen wijzigt of de goederen aflevert aan een andere geadresseerde dan in de vrachtbrief is aangegeven.
 
@@ -172,19 +194,19 @@ De afzender is jegens de vervoerder aansprakelijk voor de schade aan personen, m
 
 7. De vervoerder, die de volgens de voorwaarden van dit artikel gegeven instructies niet heeft uitgevoerd of die dergelijke instructies heeft opgevolgd zonder overlegging van het eerste exemplaar van de vrachtbrief te hebben geëist, is tegenover de rechthebbende aansprakelijk voor de hierdoor veroorzaakte schade.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Na aankomst van de goederen op de plaats bestemd voor de aflevering, heeft de geadresseerde het recht van de vervoerder te vorderen dat het tweede exemplaar van de vrachtbrief aan hem wordt overhandigd en de goederen aan hem worden afgeleverd, een en ander tegen ontvangstbewijs. Wanneer verlies van de goederen is vastgesteld of de goederen aan het einde van de termijn, bedoeld in artikel 19, niet zijn aangekomen, is de geadresseerde gerechtigd om op eigen naam tegenover de vervoerder gebruik te maken van de rechten, die uit de vervoerovereenkomst voortspruiten.
 
 2. De geadresseerde, die gebruik maakt van de rechten, die hem ingevolge het eerste lid van dit artikel zijn toegekend, is gehouden de volgens de vrachtbrief verschuldigde bedragen te betalen. In geval van geschil terzake is de vervoerder niet verplicht om de goederen af te leveren dan tegen zekerheidstelling door de geadresseerde.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Indien, om welke reden ook, de uitvoering van de overeenkomst op de voorwaarden van de vrachtbrief onmogelijk is of wordt voordat de goederen op de plaats bestemd voor de aflevering, zijn aangekomen, is de vervoerder gehouden instructies te vragen aan de persoon, die het recht heeft overeenkomstig artikel 12 over de goederen te beschikken.
 
 2. Indien evenwel de omstandigheden de uitvoering van het vervoer toelaten op andere voorwaarden dan die van de vrachtbrief en indien de vervoerder niet tijdig instructies heeft kunnen verkrijgen van de persoon, die het recht heeft overeenkomstig artikel 12 over de goederen te beschikken, neemt hij de maatregelen, welke hem het beste voorkomen in het belang van de persoon, die het recht heeft over de goederen te beschikken.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Wanneer na aankomst van de goederen op de plaats van bestemming zich omstandigheden voordoen die de aflevering beletten, vraagt de vervoerder instructies aan de afzender. Indien de geadresseerde de goederen weigert, heeft de afzender het recht om daarover te beschikken zonder verplicht te zijn het eerste exemplaar van de vrachtbrief te tonen.
 
@@ -192,7 +214,7 @@ De afzender is jegens de vervoerder aansprakelijk voor de schade aan personen, m
 
 3. Indien een omstandigheid, die de aflevering belet, zich voordoet, nadat de geadresseerde overeenkomstig zijn recht ingevolge artikel 12, derde lid, opdracht heeft gegeven om de goederen aan een andere persoon af te leveren, treedt voor de toepassing van het eerste en tweede lid van dit artikel de geadresseerde in de plaats van de afzender en die andere persoon in de plaats van de geadresseerde.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De vervoerder heeft recht op vergoeding van de kosten, welke zijn verzoek om instructies of de uitvoering van ontvangen instructies voor hem meebrengt, mits deze kosten niet door zijn schuld zijn ontstaan.
 
@@ -206,7 +228,7 @@ De afzender is jegens de vervoerder aansprakelijk voor de schade aan personen, m
 
 ### HOOFDSTUK IV. Aansprakelijkheid van de vervoerder
 
-#### Artikel 17
+##### Artikel 17
 
 1. De vervoerder is aansprakelijk voor geheel of gedeeltelijk verlies en voor beschadiging van de goederen, welke ontstaan tussen het ogenblik van de inontvangstneming van de goederen en het ogenblik van de aflevering, alsmede voor vertraging in de aflevering.
 
@@ -230,7 +252,7 @@ De afzender is jegens de vervoerder aansprakelijk voor de schade aan personen, m
 
 5. Indien ingevolge dit artikel de vervoerder niet aansprakelijk is voor sommige der factoren, die de schade hebben veroorzaakt, is hij slechts aansprakelijk in evenredigheid tot de mate, waarin de factoren waarvoor hij ingevolge dit artikel aansprakelijk is, tot de schade hebben bijgedragen.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Het bewijs, dat het verlies, de beschadiging of de vertraging door één der in artikel 17, tweede lid, genoemde feiten is veroorzaakt, rust op de vervoerder.
 
@@ -242,11 +264,11 @@ De afzender is jegens de vervoerder aansprakelijk voor de schade aan personen, m
 
 5. De vervoerder kan geen beroep doen op het voorrecht van artikel 17, vierde lid, onder **ƒ**, tenzij hij bewijst, dat alle maatregelen, waartoe hij normaliter, rekening houdende met de omstandigheden, verplicht was, zijn genomen en dat hij zich heeft gericht naar de bijzondere instructies, die hem mochten zijn gegeven.
 
-#### Artikel 19
+##### Artikel 19
 
 Er is vertraging in de aflevering, wanneer de goederen niet zijn afgeleverd binnen de bedongen termijn of, bij gebreke van zulk een termijn, wanneer de werkelijke duur van het vervoer, zo men rekening houdt met de omstandigheden en met name, bij gedeeltelijke lading, met de tijd benodigd voor het verkrijgen van een volledige lading op de gebruikelijke voorwaarden, meer tijd vergt dan een goed vervoerder redelijkerwijs behoort te worden toegestaan.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De rechthebbende kan, zonder enig nader bewijs, de goederen als verloren beschouwen, wanneer zij niet zijn afgeleverd binnen dertig dagen na afloop van de bedongen termijn, of, bij gebreke van zulk een termijn, binnen zestig dagen na de inontvangstneming van de goederen door de vervoerder.
 
@@ -256,17 +278,17 @@ Er is vertraging in de aflevering, wanneer de goederen niet zijn afgeleverd binn
 
 4. Bij gebreke hetzij van het verzoek, bedoeld in het tweede lid, hetzij van instructies gegeven binnen de termijn van dertig dagen, bedoeld in het derde lid, of ook, indien de goederen eerst meer dan een jaar na betaling van de schadevergoeding zijn teruggevonden, kan de vervoerder over de goederen beschikken overeenkomstig de wet van de plaats, waar deze zich bevinden.
 
-#### Artikel 21
+##### Artikel 21
 
 Indien de goederen aan de geadresseerde zijn afgeleverd zonder inning van het remboursement, dat door de vervoerder volgens de bepalingen van de vervoerovereenkomst zou moeten zijn ontvangen, is de vervoerder gehouden de afzender schadeloos te stellen tot ten hoogste het bedrag van het remboursement, onverminderd zijn verhaal op de geadresseerde.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Indien de afzender aan de vervoerder gevaarlijke goederen aanbiedt, licht hij hem in over de juiste aard van het gevaar, dat zij opleveren, en geeft hij, zo nodig, de te nemen voorzorgsmaatregelen aan. Indien deze inlichting niet in de vrachtbrief is vermeld, staat het aan de afzender of de geadresseerde met enig ander middel te bewijzen, dat de vervoerder kennis heeft gedragen van de juiste aard van het gevaar, dat het vervoer van de voornoemde goederen opleverde.
 
 2. De gevaarlijke goederen, die niet, gegeven het bepaalde in het eerste lid van dit artikel, als zodanig aan de vervoerder bekend waren, kunnen op ieder ogenblik en op iedere plaats door de vervoerder worden gelost, vernietigd of onschadelijk gemaakt en wel zonder enige schadevergoeding; de afzender is bovendien aansprakelijk voor alle kosten en schaden, voortvloeiende uit de aanbieding ten vervoer of uit het vervoer zelf.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Wanneer ingevolge de bepalingen van dit Verdrag een schadevergoeding voor geheel of gedeeltelijk verlies van de goederen ten laste van de vervoerder wordt gebracht, wordt deze schadevergoeding berekend naar de waarde van de goederen op de plaats en het tijdstip van de inontvangstneming.
 
@@ -286,11 +308,11 @@ Indien de goederen aan de geadresseerde zijn afgeleverd zonder inning van het re
 
 9. De in de laatste zin van het zevende lid van dit artikel genoemde berekening en de in het achtste lid van dit artikel genoemde omrekening geschieden op zodanige wijze, dat in de nationale munteenheid van de Staat zo veel mogelijk dezelfde werkelijke waarde tot uitdrukking komt voor het bedrag genoemd in het derde lid van dit artikel, als daarin uitgedrukt in rekeneenheden. Bij nederlegging van een in artikel 3 van het Protocol bij het CMR genoemde akte en telkens wanneer een verandering optreedt in hun wijze van berekening ingevolge het zevende lid van dit artikel of in het resultaat van de omrekening ingevolge het achtste lid van dit artikel, delen de Staten de Secretaris-Generaal van de Verenigde Naties hun wijze van berekening dan wel het resultaat van de omrekening mede.
 
-#### Artikel 24
+##### Artikel 24
 
 De afzender kan tegen betaling van een overeengekomen toeslag in de vrachtbrief een waarde van de goederen aangeven, die het maximum, vermeld in het derde lid van artikel 23, overschrijdt. In dat geval treedt het aangegeven bedrag in de plaats van dit maximum.
 
-#### Artikel 25
+##### Artikel 25
 
 1. In geval van beschadiging vergoedt de vervoerder het bedrag van de waardevermindering, berekend naar de volgens artikel 23, eerste, tweede en vierde lid vastgestelde waarde der goederen.
 
@@ -300,25 +322,25 @@ De afzender kan tegen betaling van een overeengekomen toeslag in de vrachtbrief 
 
 - b). indien slechts een gedeelte van de zending door de beschadiging in waarde is verminderd, het bedrag, dat zij zou hebben belopen in geval van verlies van het in waarde verminderd gedeelte.
 
-#### Artikel 26
+##### Artikel 26
 
 1. De afzender kan tegen betaling van een overeengekomen toeslag het bedrag van een bijzonder belang bij de aflevering voor het geval van verlies of beschadiging en voor dat van overschrijding van de overeengekomen termijn, vaststellen door vermelding van dit bedrag in de vrachtbrief.
 
 2. Indien een bijzonder belang bij de aflevering is aangegeven, kan, onafhankelijk van de schadevergoedingen, bedoeld in de artikelen 23, 24 en 25, en tot ten hoogste het bedrag van het aangegeven belang, een schadevergoeding worden gevorderd gelijk aan de bewezen bijkomende schade.
 
-#### Artikel 27
+##### Artikel 27
 
 1. De rechthebbende kan over het bedrag der schadevergoeding rente vorderen. Deze rente, ten bedrage van vijf procent per jaar, loopt vanaf de dag waarop de vordering schriftelijk bij de vervoerder is ingediend of, indien dit niet is geschied, vanaf de dag waarop zij in rechte aanhangig is gemaakt.
 
 2. Wanneer de bedragen, die tot grondslag voor de berekening der schadevergoeding dienen, niet zijn uitgedrukt in de munt van het land, waar de betaling wordt gevorderd, geschiedt de omrekening volgens de koers van de dag en de plaats van betaling der schadevergoeding.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Wanneer het verlies, de beschadiging of de vertraging, ontstaan in de loop van een aan dit Verdrag onderworpen vervoer, volgens de toepasselijke wet kan leiden tot een vordering, die niet op de vervoerovereenkomst is gegrond, kan de vervoerder zich beroepen op de bepalingen van dit Verdrag, die zijn aansprakelijkheid uitsluiten of de verschuldigde schadevergoedingen vaststellen of beperken.
 
 2. Wanneer de niet op de vervoerovereenkomst berustende aansprakelijkheid voor verlies, beschadiging of vertraging, van één der personen voor wie de vervoerder ingevolge artikel 3 aansprakelijk is, in het geding is, kan deze persoon zich eveneens beroepen op de bepalingen van dit Verdrag, die de aansprakelijkheid van de vervoerder uitsluiten of de verschuldigde schadevergoedingen vaststellen of beperken.
 
-#### Artikel 29
+##### Artikel 29
 
 1. De vervoerder heeft niet het recht om zich te beroepen op de bepalingen van dit hoofdstuk, die zijn aansprakelijkheid uitsluiten of beperken of die de bewijslast omkeren, indien de schade voortspruit uit zijn opzet of uit schuld zijnerzijds, welke volgens de wet van het gerecht, waar de vordering aanhangig is, met opzet gelijkgesteld wordt.
 
@@ -326,7 +348,7 @@ De afzender kan tegen betaling van een overeengekomen toeslag in de vrachtbrief 
 
 ### HOOFDSTUK V. Vorderingen in en buiten rechte
 
-#### Artikel 30
+##### Artikel 30
 
 1. Indien de geadresseerde de goederen in ontvangst heeft genomen zonder dat hij ten overstaan van de vervoerder de staat daarvan heeft vastgesteld of zonder dat hij, indien het zichtbare verliezen of beschadigingen betreft, uiterlijk op het ogenblik van de aflevering, of, indien het onzichtbare verliezen of beschadigingen betreft, binnen zeven dagen na de aflevering, zon- en feestdagen niet inbegrepen, voorbehouden ter kennis van de vervoerder heeft gebracht, waarin de algemene aard van hel verlies of de beschadiging is aangegeven, wordt hij behoudens tegenbewijs geacht de goederen te hebben ontvangen in de staat als omschreven in de vrachtbrief. De bovenbedoelde voorbehouden moeten, indien het onzichtbare verliezen of beschadigingen betreft, schriftelijk worden gemaakt.
 
@@ -338,7 +360,7 @@ De afzender kan tegen betaling van een overeengekomen toeslag in de vrachtbrief 
 
 5. De vervoerder en de geadresseerde verlenen elkaar alle redelijke faciliteiten voor de nodige vaststellingen en onderzoekingen.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Alle rechtsgedingen, waartoe het aan dit Verdrag onderworpen vervoer aanleiding geeft, kunnen door de eiser behalve voor de gerechten van de bij dit Verdrag partij zijnde landen, bij beding tussen partijen aangewezen, worden gebracht voor de gerechten van het land op het grondgebied waarvan:
 
@@ -356,7 +378,7 @@ zij kunnen voor geen andere gerechten worden gebracht.
 
 5. Van onderdanen van bij het Verdrag partij zijnde landen, die hun woonplaats of een bedrijf hebben in een van deze landen, kan geen zekerheidstelling voor de betaling der proceskosten worden gevorderd in rechtsgedingen, waartoe een aan dit Verdrag onderworpen vervoer aanleiding geeft.
 
-#### Artikel 32
+##### Artikel 32
 
 1. De rechtsvorderingen, waartoe een aan dit Verdrag onderworpen vervoer aanleiding geeft, verjaren door verloop van een jaar. In geval van opzet of van schuld, welke volgens de wet van het gerecht, waarvoor de vordering aanhangig is, met opzet gelijkgesteld wordt, is de verjaringstermijn drie jaar. De verjaring loopt:
 
@@ -374,27 +396,27 @@ De hierboven als begin van de verjaring aangegeven dag wordt niet begrepen in de
 
 4. Een verjaarde vordering kan ook niet meer in de vorm van een vordering in reconventie of van een exceptie worden geldend gemaakt.
 
-#### Artikel 33
+##### Artikel 33
 
 De vervoerovereenkomst kan een bepaling bevatten inzake het toekennen van bevoegdheid aan een scheidsgerecht, mits deze bepaling inhoudt, dat het scheidsgerecht dit Verdrag zal toepassen.
 
 ### HOOFDSTUK VI. Bepalingen nopens vervoer verricht door opvolgende vervoerders
 
-#### Artikel 34
+##### Artikel 34
 
 Indien een vervoer, onderworpen aan één enkele overeenkomst, wordt bewerkstelligd door opvolgende wegvervoerders, worden de tweede en ieder van de volgende vervoerders door inontvangstneming van de goederen en van de vrachtbrief partij bij de overeenkomst op de voorwaarden van de vrachtbrief en wordt ieder van hen aansprakelijk voor de bewerkstelliging van het gehele vervoer.
 
-#### Artikel 35
+##### Artikel 35
 
 1. De vervoerder, die de goederen van de voorafgaande vervoerder in ontvangst neemt, overhandigt hem een gedateerd en ondertekend ontvangstbewijs. Hij moet zijn naam en adres op het tweede exemplaar van de vrachtbrief vermelden. Indien daartoe aanleiding is, tekent hij op dat exemplaar alsmede op het ontvangstbewijs soortgelijke voorbehouden aan als die, bedoeld in artikel 8, tweede lid.
 
 2. De bepalingen van artikel 9 zijn op de betrekkingen tussen opvolgende vervoerders van toepassing.
 
-#### Artikel 36
+##### Artikel 36
 
 Behoudens in het geval van een eis in reconventie of van een exceptie, opgeworpen in een rechtsgeding inzake een eis, welke is gebaseerd op dezelfde vervoerovereenkomst, kan de vordering tot aansprakelijkstelling voor verlies, beschadiging of vertraging slechts worden gericht tegen de eerste vervoerder, de laatste vervoerder of de vervoerder, die het deel van het vervoer bewerkstelligde, gedurende hetwelk het feit, dat het verlies, de beschadiging of de vertraging heeft veroorzaakt, zich heeft voorgedaan; de vordering kan tegelijkertijd tegen verschillenden van deze vervoerders worden ingesteld.
 
-#### Artikel 37
+##### Artikel 37
 
 De vervoerder, die een schadevergoeding heeft betaald uit hoofde van de bepalingen van dit Verdrag, heeft recht van verhaal voor de hoofdsom, rente en kosten tegen de vervoerders, die aan de uitvoering van de vervoerovereenkomst hebben deelgenomen, overeenkomstig de volgende bepalingen:
 
@@ -404,11 +426,11 @@ De vervoerder, die een schadevergoeding heeft betaald uit hoofde van de bepaling
 
 - c). indien niet kan worden vastgesteld, aan wie van de vervoerders de aansprakelijkheid moet worden toegerekend, wordt het bedrag van de schadevergoeding verdeeld tussen alle vervoerders, in de verhouding bepaald onder **b)**.
 
-#### Artikel 38
+##### Artikel 38
 
 Indien een van de vervoerders insolvent is, wordt het door hem verschuldigde deel, dat hij niet heeft betaald, tussen alle andere vervoerders verdeeld in verhouding tot hun beloning.
 
-#### Artikel 39
+##### Artikel 39
 
 1. De vervoerder, op wie verhaal wordt uitgeoefend ingevolge de artikelen 37 en 38, is niet gerechtigd de gegrondheid van de betaling door de vervoerder, die het verhaal uitoefent, te betwisten, wanneer de schadevergoeding is vastgesteld bij rechterlijke uitspraak, mits hij behoorlijk van het rechtsgeding in kennis is gesteld en hij gelegenheid heeft gehad om daarin zich te voegen of tussen te komen.
 
@@ -418,13 +440,13 @@ Indien een van de vervoerders insolvent is, wordt het door hem verschuldigde dee
 
 4. De bepalingen van artikel 32 zijn van toepassing op het verhaal tussen vervoerders. De verjaring loopt evenwel hetzij vanaf de dag van een rechterlijke einduitspraak tot vaststelling van de ingevolge de bepalingen van dit Verdrag te betalen schadevergoeding hetzij, bij gebreke van zulk een uitspraak, vanaf de dag waarop de betaling is geschied.
 
-#### Artikel 40
+##### Artikel 40
 
 De vervoerders kunnen onderling een van de artikelen 37 en 38 afwijkende regeling bedingen.
 
 ### HOOFDSTUK VII. Nietigheid van bedingen in strijd met het Verdrag
 
-#### Artikel 41
+##### Artikel 41
 
 1. Behoudens de bepalingen van artikel 40 is nietig ieder beding, dat middellijk of onmiddellijk afwijkt van de bepalingen van dit Verdrag. De nietigheid van dergelijke bedingen heeft niet de nietigheid van de overige bepalingen van de overeenkomst tot gevolg.
 
@@ -432,7 +454,7 @@ De vervoerders kunnen onderling een van de artikelen 37 en 38 afwijkende regelin
 
 ### HOOFDSTUK VIII. Slotbepalingen
 
-#### Artikel 42
+##### Artikel 42
 
 1. Dit Verdrag staat open voor ondertekening of toetreding door landen die lid zijn van de Economische Commissie voor Europa en landen, die overeenkomstig paragraaf 8 van het mandaat van deze Commissie met raadgevende stem tot de Commissie zijn toegelaten.
 
@@ -444,23 +466,23 @@ De vervoerders kunnen onderling een van de artikelen 37 en 38 afwijkende regelin
 
 5. Bekrachtiging of toetreding geschiedt door nederlegging van een akte bij de Secretaris-Generaal van de Verenigde Naties.
 
-#### Artikel 43
+##### Artikel 43
 
 1. Dit Verdrag treedt in werking op de negentigste dag, nadat vijf landen, als bedoeld in het eerste lid van artikel 42, hun akte van bekrachtiging of van toetreding hebben nedergelegd.
 
 2. Voor ieder land, dat het Verdrag bekrachtigt of ertoe toetreedt, nadat vijf landen hun akte van bekrachtiging of van toetreding hebben nedergelegd, treedt dit Verdrag in werking op de negentigste dag na de nederlegging van de akte van bekrachtiging of toetreding door het genoemde land.
 
-#### Artikel 44
+##### Artikel 44
 
 1. Iedere Verdragsluitende Partij kan dit Verdrag opzeggen door middel van een tot de Secretaris-Generaal van de Verenigde Naties gerichte kennisgeving.
 
 2. De opzegging heeft rechtsgevolg twaalf maanden na de datum, waarop de Secretaris-Generaal de kennisgeving heeft ontvangen.
 
-#### Artikel 45
+##### Artikel 45
 
 Indien na de inwerkingtreding van dit Verdrag het aantal Verdragsluitende Partijen tengevolge van opzeggingen is teruggebracht tot minder dan vijf, houdt de werking van dit Verdrag op van de datum af, waarop de laatste opzegging rechtsgevolg heeft.
 
-#### Artikel 46
+##### Artikel 46
 
 1. Ieder land kan bij de nederlegging van zijn akte van bekrachtiging of toetreding of te eniger tijd daarna, door middel van een tot de Secretaris-Generaal van de Verenigde Naties gerichte kennisgeving verklaren, dat dit Verdrag van toepassing zal zijn op alle of een deel van de gebieden, welker internationale betrekkingen het behartigt.
 
@@ -468,11 +490,11 @@ Het Verdrag is op het gebied of de gebieden, vermeld in de kennisgeving, van toe
 
 2. Ieder land, dat overeenkomstig het vorige lid een verklaring heeft afgelegd, waardoor dit Verdrag van toepassing wordt op een gebied, welks internationale betrekkingen het behartigt, kan overeenkomstig artikel 44 het Verdrag, voor wat dat gebied betreft, opzeggen.
 
-#### Artikel 47
+##### Artikel 47
 
 Ieder geschil tussen twee of meer Verdragsluitende Partijen betreffende de uitleg of de toepassing van dit Verdrag, dat de Partijen niet door middel van onderhandelingen of door andere middelen hebben kunnen regelen, kan op verzoek van één der betrokken Verdragsluitende Partijen ter beslissing worden voorgelegd aan het Internationale Gerechtshof.
 
-#### Artikel 48
+##### Artikel 48
 
 1. Iedere Verdragsluitende Partij kan op het tijdstip, waarop zij dit Verdrag ondertekent of bekrachtigt of ertoe toetreedt, verklaren dat zij zich niet door artikel 47 van het Verdrag gebonden acht. De andere Verdragsluitende Partijen zijn niet door artikel 47 gebonden tegenover een Verdragsluitende Partij, die zulk een voorbehoud heeft gemaakt.
 
@@ -480,7 +502,7 @@ Ieder geschil tussen twee of meer Verdragsluitende Partijen betreffende de uitle
 
 3. Geen enkel ander voorbehoud ten aanzien van dit Verdrag is toegestaan.
 
-#### Artikel 49
+##### Artikel 49
 
 1. Nadat dit Verdrag gedurende drie jaar in werking is geweest, kan iedere Verdragsluitende Partij door middel van een tot de Secretaris-Generaal van de Verenigde Naties gerichte kennisgeving de bijeenroeping verzoeken van een conferentie teneinde dit Verdrag te herzien. De Secretaris-Generaal geeft van dit verzoek kennis aan alle Verdragsluitende Partijen en roept een conferentie tot herziening bijeen, indien binnen een termijn van vier maanden na de door hem gedane kennisgeving, tenminste één vierde van de Verdragsluitende Partijen hun instemming met dit verzoek aan hem hebben medegedeeld.
 
@@ -488,7 +510,7 @@ Ieder geschil tussen twee of meer Verdragsluitende Partijen betreffende de uitle
 
 3. De Secretaris-Generaal nodigt voor iedere conferentie, bijeengeroepen overeenkomstig dit artikel, alle landen uit, die zijn bedoeld in het eerste lid van artikel 42, alsmede de landen die partij bij het Verdrag zijn geworden door toepassing van het tweede lid van artikel 42.
 
-#### Artikel 50
+##### Artikel 50
 
 Behalve de kennisgevingen ingevolge artikel 49 geeft de Secretaris-Generaal van de Verenigde Naties aan de in het eerste lid van artikel 42 bedoelde landen, alsmede aan de landen, die partij bij het Verdrag zijn geworden door toepassing van het tweede lid van artikel 42, kennis van:
 
@@ -504,7 +526,7 @@ Behalve de kennisgevingen ingevolge artikel 49 geeft de Secretaris-Generaal van 
 
 - f). de overeenkomstig het eerste en tweede lid van artikel 48 ontvangen verklaringen en kennisgevingen.
 
-#### Artikel 51
+##### Artikel 51
 
 Na 31 augustus 1956 wordt het origineel van dit Verdrag nedergelegd bij de Secretaris-Generaal van de Verenigde Naties, die aan elke van de in het eerste en tweede lid van artikel 42 bedoelde landen gewaarmerkte afschriften doet toekomen.
 

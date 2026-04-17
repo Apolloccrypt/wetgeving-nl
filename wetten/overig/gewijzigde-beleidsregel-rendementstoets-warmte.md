@@ -1,13 +1,38 @@
 ---
 title: "Gewijzigde Beleidsregel rendementstoets warmte"
 identifier: "BWBR0051585"
-categorie: "Overig"
-publicatiedatum: 2025-10-10
-laatste_update: 2025-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051585"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-10-10"
+last_updated: "2025-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051585"
+soort: "zbo"
+stam_id: "17545343"
+version_id: "30960412"
+internal_id: "C44343541"
+label_id: "17446854"
+dtd_version: "2.0"
+original_entry_into_force: "2025-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051585/2025-10-10/0"
+intitule_bron: "Stcrt.2025-33271"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-05-15"
+intitule_published: "2025-10-09"
+intitule_in_force: "2025-10-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-33271"
+original_signed_date: "2025-05-15"
+original_published_date: "2025-10-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-33271"
+entry_into_force_date: "2025-10-10"
+jci_1_3: "jci1.3:c:BWBR0051585&z=2025-10-10&g=2025-10-10"
+jci_1_0: "1.0:c:BWBR0051585&g=2025-10-10"
+citeertitel_status: "redactioneel"
+signed_date: "2025-05-15"
+entry_into_force: "2025-10-10"
 ---
-
 # Gewijzigde Beleidsregel rendementstoets warmte
 
 Met de inwerkingtreding van [art. 7 lid 2 tot en met 4 van de Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=7) heeft de wetgever bepaald dat de ACM toetst of het rendement van een warmteleverancier op al zijn netten gezamenlijk hoger is dan een door de ACM vast te stellen redelijk rendement. Indien dit het geval is, kan de ACM het meer dan redelijk behaalde rendement laten verdisconteren in de tarieven van die warmteleverancier. In deze beleidsregel worden nadere regels vastgesteld voor de uitvoering van deze bepalingen, gezamenlijk ook wel de rendementstoets genoemd.
@@ -24,7 +49,7 @@ Gelet op [artikel 7 leden 2, 3 en 4 van de Warmtewet](https://wetten.overheid.nl
 
 Besluit:
 
-#### Artikel 1. Begrippen
+##### Artikel 1. Begrippen
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -48,7 +73,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - j. **Warmtewet:** [wet van 17 juni 2013, houdende regels omtrent de levering van warmte aan verbruikers](https://wetten.overheid.nl/jci1.3:c:BWBR0033729).
 
-#### Artikel 2. Reikwijdte
+##### Artikel 2. Reikwijdte
 
 1. De ACM toetst of het behaalde rendement van een leverancier op al zijn netten gezamenlijk hoger is dan een redelijk rendement ([artikel 7, tweede lid, van de Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=7)). Deze beleidsregel geeft invulling aan de wijze waarop de ACM deze toets uitvoert.
 
@@ -58,7 +83,7 @@ In deze beleidsregel wordt verstaan onder:
 
 4. Bij verzoeken tot het uitvoeren van een rendementstoets bepaalt de ACM op basis van gegevens en informatie die zij tot haar beschikking heeft of zij over gaat tot het uitvoeren van een rendementstoets.
 
-#### Artikel 3. Methode – behaald rendement
+##### Artikel 3. Methode – behaald rendement
 
 1. De ACM is van oordeel dat de ROIC de meest geschikte rendementsindicator is om behaalde rendementen te berekenen. De ROIC geeft weer wat het rendement is over het geïnvesteerd vermogen, uitgedrukt in een percentage.
 
@@ -68,7 +93,7 @@ In deze beleidsregel wordt verstaan onder:
 
 4. Deze verslaggevingsregels, de RAR, worden door de ACM in een aparte beleidsregel vastgelegd. De leveranciers zijn verplicht deze toe te passen bij het aanleveren van hun gegevens voor de bepaling van het behaalde rendement.
 
-#### Artikel 4. Methode – redelijk redendement
+##### Artikel 4. Methode – redelijk redendement
 
 1. Ingevolge [artikel 7, tweede lid, van de Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=7) stelt de ACM het redelijk rendement vast.
 
@@ -80,7 +105,7 @@ In deze beleidsregel wordt verstaan onder:
 
 5. De ACM legt het redelijk rendement vast in een besluit van algemene strekking en publiceert dit besluit, alsmede het adviesrapport als bedoeld in het derde lid, op haar website.
 
-#### Artikel 5. Vaststelling meer dan redelijk rendement
+##### Artikel 5. Vaststelling meer dan redelijk rendement
 
 1. Voor de uitvoering van de rendementstoets zet de ACM het over een bepaald kalenderjaar behaalde rendement van een leverancier af tegen het door de ACM in lijn met [artikel 4 van deze beleidsregel](https://wetten.overheid.nl/jci1.3:c:BWBR0051585&artikel=4&z=2025-10-10&g=2025-10-10) vastgestelde redelijk rendement.
 
@@ -88,7 +113,7 @@ In deze beleidsregel wordt verstaan onder:
 
 3. Het meer dan redelijk behaalde rendement drukt de ACM uit als een absoluut bedrag in euro’s.
 
-#### Artikel 6. Levenscyclus van warmtenetten
+##### Artikel 6. Levenscyclus van warmtenetten
 
 1. Om rekening te houden met de levenscyclus van warmtenetten neemt de ACM een bepaalde periode in beschouwing. Dit betekent dat eerst het rendement wordt vastgesteld over het jaar waar de rendementstoets betrekking op heeft en dat, indien dit behaalde rendement het redelijk rendement overstijgt, de ACM rekening houdt met rendementen behaald in een eerdere periode. De ACM stelt deze periode vast op vijf jaar.2Indien het de rendementstoets over jaar n betreft, zullen de jaren (n-1) t/m (n-5) dus betrokken kunnen worden.
 
@@ -98,7 +123,7 @@ In deze beleidsregel wordt verstaan onder:
 
 4. [vervallen]
 
-#### Artikel 6a. Asymmetrisch reguleringsrisico
+##### Artikel 6a. Asymmetrisch reguleringsrisico
 
 1. Van asymmetrische regulering is sprake als meer dan redelijke rendementen worden afgeroomd, zonder dat lagere rendementen dan het redelijk rendement worden gecompenseerd.
 
@@ -108,7 +133,7 @@ In deze beleidsregel wordt verstaan onder:
 
 4. Indien de leverancier na twee opeenvolgende jaren van een meer dan redelijk behaald rendement weer een lager dan redelijk rendement behaalt, wordt de opslag zoals bedoeld in het eerste lid van dit artikel weer geactiveerd.
 
-#### Artikel 7. Efficiëntiewinsten
+##### Artikel 7. Efficiëntiewinsten
 
 1. De wetgever constateert dat een meer dan redelijk behaald rendement bij een leverancier het gevolg kan zijn van efficiëntiemaatregelen ten aanzien van de bedrijfsvoering.
 
@@ -130,7 +155,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - c. wanneer en op welke wijze de beweerde efficiëntieverbetering is verwezenlijkt.
 
-#### Artikel 7a. Innovatieve investeringen
+##### Artikel 7a. Innovatieve investeringen
 
 1. De ACM sluit aan op de door de Europese Commissie gehanteerde definitie van innovatie conform het innovatiefonds (INNOVFUND).
 
@@ -156,13 +181,13 @@ In deze beleidsregel wordt verstaan onder:
 
 8. De ACM betrekt de onderbouwing van de aangedragen innovatieve investering van de leverancier in haar toetsing voor de toekenning van een opslag.
 
-#### Artikel 8. Vaststelling meer dan redelijk rendement
+##### Artikel 8. Vaststelling meer dan redelijk rendement
 
 1. De ACM stelt vast, met inachtneming van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0051585&artikel=5&z=2025-10-10&g=2025-10-10), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0051585&artikel=6&z=2025-10-10&g=2025-10-10), [6a](https://wetten.overheid.nl/jci1.3:c:BWBR0051585&artikel=6a&z=2025-10-10&g=2025-10-10), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0051585&artikel=7&z=2025-10-10&g=2025-10-10) en [7a van deze beleidsregel](https://wetten.overheid.nl/jci1.3:c:BWBR0051585&artikel=7a&z=2025-10-10&g=2025-10-10), wat het meer dan redelijk behaalde rendement van de leverancier is, uitgedrukt in euro’s.
 
 2. De ACM kan op basis hiervan, en met inachtneming van [artikel 10 van deze beleidsregel](https://wetten.overheid.nl/jci1.3:c:BWBR0051585&artikel=10&z=2025-10-10&g=2025-10-10), een correctie vaststellen zoals bedoeld in [artikel 9 van deze beleidsregel](https://wetten.overheid.nl/jci1.3:c:BWBR0051585&artikel=9&z=2025-10-10&g=2025-10-10). De ACM past in een individueel tariefbesluit deze correctie toe op het warmtetarief van een toekomstig kalenderjaar.
 
-#### Artikel 9. Correctie
+##### Artikel 9. Correctie
 
 1. De ACM verdisconteert het meer dan redelijk behaalde rendement, zoals bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051585&artikel=5&z=2025-10-10&g=2025-10-10), en met inachtneming van de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0051585&artikel=6&z=2025-10-10&g=2025-10-10), [6a](https://wetten.overheid.nl/jci1.3:c:BWBR0051585&artikel=6a&z=2025-10-10&g=2025-10-10), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0051585&artikel=7&z=2025-10-10&g=2025-10-10), [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0051585&artikel=7a&z=2025-10-10&g=2025-10-10) en [8 van deze beleidsregel](https://wetten.overheid.nl/jci1.3:c:BWBR0051585&artikel=8&z=2025-10-10&g=2025-10-10), middels een correctie op het toekomstige leveringstarief van de betreffende leverancier. Deze correctie op het tarief behelst een vast bedrag per verbruiker.
 
@@ -170,7 +195,7 @@ In deze beleidsregel wordt verstaan onder:
 
 3. De ACM stelt de periode waarbinnen een door haar vastgestelde correctie terug moet vloeien naar de verbruiker vast op twaalf maanden. De ACM biedt leveranciers daarnaast de mogelijkheid om de correctie gelijktijdig met de verrekening van de jaarlijkse voorschotten middels een eenmalige compensatie terug te laten vloeien naar de verbruiker.
 
-#### Artikel 10. Mate van overschrijding en discretionaire bevoegdheid
+##### Artikel 10. Mate van overschrijding en discretionaire bevoegdheid
 
 1. De ACM maakt bij overschrijding van het redelijk rendement in ieder geval gebruik van haar discretionaire bevoegdheid om tot verdiscontering van het meer dan redelijk rendement in toekomstige tarieven over te gaan, indien, naar het oordeel van de ACM, het aan de verbruikers te vergoeden bedrag voldoende materieel is. De ACM behoudt daarin beoordelingsvrijheid en beoordeelt per geval in hoeverre verdiscontering in toekomstige tarieven verbruikers deugdelijk beschermt tegen meer dan redelijk behaalde rendementen.
 
@@ -178,15 +203,15 @@ In deze beleidsregel wordt verstaan onder:
 
 3. Een andere zwaarwegende reden om (gedeeltelijk) van verdiscontering af te zien is een significant gestegen marktrente op het moment van toetsing ten opzichte van de marktrente zoals deze is gebruikt ter vaststelling van het redelijk rendement en waartegen het behaalde rendement wordt afgewogen.
 
-#### Artikel 11. Evaluatie
+##### Artikel 11. Evaluatie
 
 De werking van deze beleidsregel wordt uiterlijk drie jaar na de inwerkingtreding geëvalueerd.
 
-#### Artikel 12. Intrekking
+##### Artikel 12. Intrekking
 
 De [Beleidsregel rendementstoets warmte](https://wetten.overheid.nl/jci1.3:c:BWBR0048573) van 25 augustus 2023 nr. 24023 wordt ingetrokken.
 
-#### Artikel 13. Inwerkingtreding
+##### Artikel 13. Inwerkingtreding
 
 1. Dit besluit wordt met toelichting in de Staatscourant geplaatst.
 

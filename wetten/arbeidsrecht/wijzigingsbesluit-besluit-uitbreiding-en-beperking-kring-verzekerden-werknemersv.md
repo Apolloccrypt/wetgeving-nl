@@ -1,13 +1,39 @@
 ---
-title: "Wijzigingsbesluit Besluit uitbreiding en beperking kring verzekerden werknemersverzekeringen 1990 en het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999"
+title: "Besluit van 1 juli 2003 tot wijziging van het Besluit uitbreiding en beperking kring verzekerden werknemersverzekeringen 1990 en het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999"
 identifier: "BWBR0015309"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2003-08-01
-laatste_update: 2003-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015309"
+country: "nl"
+rank: "amvb"
+publication_date: "2003-08-01"
+last_updated: "2003-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015309"
+soort: "AMvB"
+stam_id: "5066643"
+version_id: "9130782"
+internal_id: "C12137891"
+label_id: "5042164"
+dtd_version: "2.0"
+original_entry_into_force: "2003-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015309/2003-08-01/0"
+intitule_bron: "Stb.2003-309"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-07-01"
+intitule_published: "2003-07-31"
+intitule_in_force: "2003-07-31"
+intitule_status: "goed"
+original_publication: "Stb.2003-309"
+original_signed_date: "2003-07-01"
+original_published_date: "2003-07-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2003-309"
+entry_into_force_date: "2003-08-01"
+jci_1_3: "jci1.3:c:BWBR0015309&z=2003-08-01&g=2003-08-01"
+jci_1_0: "1.0:c:BWBR0015309&g=2003-08-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsbesluit Besluit uitbreiding en beperking kring verzekerden werknemersverzekeringen 1990 en het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999"
+signed_date: "2003-07-01"
+entry_into_force: "2003-08-01"
 ---
-
 # Besluit van 1 juli 2003 tot wijziging van het Besluit uitbreiding en beperking kring verzekerden werknemersverzekeringen 1990 en het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999
 
 Op de voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, M. Rutte, van 25 maart 2003, Directie Sociale Verzekeringen, nr. SV/V&V/03/22945, gedaan mede namens Onze Minister van Volksgezondheid, Welzijn en Sport;
@@ -20,15 +46,15 @@ Gezien het nader rapport van de Staatssecretaris van Sociale Zaken en Werkgelege
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I. Wijziging [Besluit uitbreiding en beperking kring verzekerden werknemersverzekeringen 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004613)
+##### Artikel I. Wijziging [Besluit uitbreiding en beperking kring verzekerden werknemersverzekeringen 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004613)
 
 Wijzigt het Besluit uitbreiding en beperking kring verzekerden werknemersverzekeringen 1990.
 
-#### Artikel II. Wijziging [Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010182)
+##### Artikel II. Wijziging [Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010182)
 
 Wijzigt het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999.
 
-#### Artikel III. Inwerkingtreding
+##### Artikel III. Inwerkingtreding
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 

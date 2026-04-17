@@ -1,13 +1,39 @@
 ---
-title: "Besluit infrastructuur alternatieve brandstoffen"
+title: "Besluit van 26 april 2017, houdende regels in verband met de implementatie van richtlijn 2014/94/EU betreffende de uitrol van infrastructuur voor alternatieve brandstoffen (Besluit infrastructuur alternatieve brandstoffen)"
 identifier: "BWBR0039567"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039567"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039567"
+soort: "AMvB"
+stam_id: "14008143"
+version_id: "31050652"
+internal_id: "C44459231"
+label_id: "13969964"
+dtd_version: "2.0"
+original_entry_into_force: "2025-11-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039567/2026-01-01/0"
+intitule_bron: "Stb.2017-204"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-04-26"
+intitule_published: "2017-05-24"
+intitule_in_force: "2017-05-24"
+intitule_status: "goed"
+original_publication: "Stb.2025-347"
+original_signed_date: "2025-11-03"
+original_published_date: "2025-11-12"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2025-347"
+entry_into_force_date: "2025-11-03"
+jci_1_3: "jci1.3:c:BWBR0039567&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0039567&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit infrastructuur alternatieve brandstoffen"
+signed_date: "2025-11-03"
+entry_into_force: "2025-11-03"
 ---
-
 # Besluit van 26 april 2017, houdende regels in verband met de implementatie van richtlijn 2014/94/EU betreffende de uitrol van infrastructuur voor alternatieve brandstoffen (Besluit infrastructuur alternatieve brandstoffen)
 
 Op de voordracht van Onze Staatsecretaris van Infrastructuur en Milieu van 10 oktober 2016, nr. IenM/BSK-2016/192737, gedaan mede namens Onze Minister van Economische Zaken en Onze Minister van Volksgezondheid, Welzijn en Sport;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister van Infrastructuur en Milieu van 18 a
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -54,7 +80,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - **walstroomvoorziening:** voorziening van elektrische stroom aan de wal voor zeeschepen of binnenvaartschepen die aan de kade liggen, door middel van een gestandaardiseerde aansluiting.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het is verboden oplaad- of tankpunten, tankpunten voor vloeibaar aardgas, accuwissels, walstroomvoorzieningen, waterstof, connectoren voor motorvoertuigen voor het tanken van gasvormige waterstof, connectoren of aansluitpunten voor gecomprimeerd aardgas en motorvoertuigen te vervaardigen, in de handel te brengen of op de markt aan te bieden anders dan met inachtneming van de bij dit besluit gestelde voorschriften.
 
@@ -62,7 +88,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Het is verboden oplaad- of tankpunten, tankpunten voor vloeibaar aardgas, accuwissels, walstroomvoorzieningen, waterstof, connectoren voor motorvoertuigen voor het tanken van gasvormige waterstof, connectoren of aansluitpunten voor gecomprimeerd aardgas en motorvoertuigen binnen Nederlands grondgebied te brengen anders dan met inachtneming van de bij of krachtens dit besluit gestelde voorschriften.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een publiek toegankelijk oplaadpunt voor elektrische voertuigen is, voor zover dit technisch haalbaar en financieel gezien redelijk is, voorzien van een meetinrichting die zodanig is beveiligd dat een passende bescherming van het dataverkeer en de privacy van eindafnemers wordt geboden, in overeenstemming met de Uniewetgeving inzake de bescherming van persoonsgegevens en van de persoonlijke levenssfeer. Deze meetinrichting is daarnaast geschikt, om:
 
@@ -76,11 +102,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 2. In geval van een meetinrichting als bedoeld in het eerste lid, verstrekt een leverancier als bedoeld in [artikel 1.1 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=1.1) op verzoek van de eigenaar of exploitant van een publiek toegankelijk oplaadpunt of van een derde partij die namens deze eigenaar of exploitant optreedt, meetgegevens inzake de input en output van elektriciteit, in een gemakkelijk te begrijpen vorm die vergelijking van aanbiedingen op basis van gelijke criteria mogelijk maakt.
 
-#### Artikel 4
+##### Artikel 4
 
 Een publiek toegankelijk oplaadpunt biedt gebruikers van elektrische voertuigen een ad-hoc oplaaddienst, waarbij geen contract hoeft te worden gesloten met een elektriciteitsleverancier of exploitant van het oplaadpunt.
 
-#### Artikel 5
+##### Artikel 5
 
 Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot:
 
@@ -104,7 +130,7 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking to
 
 - j. een tankpunt voor gecomprimeerd aardgas voor motorvoertuigen als bedoeld in bijlage II, onderdeel 3.4, van [richtlijn 2014/94](32014L0094)/EU.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Bij ministeriële regeling kunnen regels worden gesteld over informatie met betrekking tot na 18 november 2016 op de markt gebrachte motorvoertuigen die wordt aangeboden:
 
@@ -116,25 +142,25 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking to
 
 2. Bij ministeriële regeling kunnen regels worden gesteld over het ter beschikking stellen van gegevens over publiek toegankelijke tankpunten en oplaadpunten voor alternatieve brandstoffen.
 
-#### Artikel 7
+##### Artikel 7
 
 Het bestuursorgaan waarbij de bestuursrechtelijke handhavingstaak berust op grond van [artikel 18.2 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=18.2), heeft tot taak zorg te dragen voor de bestuursrechtelijke handhaving van hetgeen bepaald bij of krachtens [artikel 5, onderdelen d, f, g, voor zover het vaste tankpunten betreft, en h tot en met j](https://wetten.overheid.nl/jci1.3:c:BWBR0039567&artikel=5&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 8
+##### Artikel 8
 
 Wijzigt het Warenwetbesluit bestuurlijke boeten.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit treedt in werking een maand na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit infrastructuur alternatieve brandstoffen.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 8a
+##### Artikel 8a
 
 Dit besluit berust mede op [artikel 6.14 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=6.14).
 

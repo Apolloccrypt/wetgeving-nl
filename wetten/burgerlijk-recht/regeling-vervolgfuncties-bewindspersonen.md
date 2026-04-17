@@ -1,13 +1,39 @@
 ---
-title: "Regeling vervolgfuncties bewindspersonen"
+title: "Regeling van de Minister van Binnenlandse Zaken van 12 februari 2026, nr. 2026-0000064950, houdende invoering van regels met betrekking tot het loopbaanvervolg van bewindspersonen (Regeling vervolgfuncties bewindspersonen) [KetenID: WGK026982]"
 identifier: "BWBR0052299"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2026-02-20
-laatste_update: 2026-02-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052299"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-02-20"
+last_updated: "2026-02-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052299"
+soort: "ministeriele-regeling"
+stam_id: "17760393"
+version_id: "31379112"
+internal_id: "C44844451"
+label_id: "17658404"
+dtd_version: "2.0"
+original_entry_into_force: "2026-02-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052299/2026-02-20/0"
+intitule_bron: "Stcrt.2026-6808"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2026-02-12"
+intitule_published: "2026-02-17"
+intitule_in_force: "2026-02-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-6808"
+original_signed_date: "2026-02-12"
+original_published_date: "2026-02-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-6808"
+entry_into_force_date: "2026-02-20"
+jci_1_3: "jci1.3:c:BWBR0052299&z=2026-02-20&g=2026-02-20"
+jci_1_0: "1.0:c:BWBR0052299&g=2026-02-20"
+citeertitel_status: "officieel"
+short_title: "Regeling vervolgfuncties bewindspersonen"
+signed_date: "2026-02-12"
+entry_into_force: "2026-02-20"
 ---
-
 # Regeling van de Minister van Binnenlandse Zaken van 12 februari 2026, nr. 2026-0000064950, houdende invoering van regels met betrekking tot het loopbaanvervolg van bewindspersonen (Regeling vervolgfuncties bewindspersonen) [KetenID: WGK026982]
 
 Gelet op [artikel 2 van het Besluit regels vervolgfuncties bewindspersonen](https://wetten.overheid.nl/jci1.3:c:BWBR0052295&artikel=2);
@@ -16,7 +42,7 @@ Besluit:
 
 Treedt in werking op het tijdstip waarop de Wet regels integriteit en vervolgfuncties bewindspersonen in werking treedt.
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van deze regeling wordt verstaan onder:
 
@@ -26,13 +52,13 @@ Voor de toepassing van deze regeling wordt verstaan onder:
 
 - −. **wet:** [Wet regels integriteit en vervolgfuncties bewindspersonen](https://wetten.overheid.nl/jci1.3:c:BWBR0051611).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een verzoek om advies als bedoeld in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0051611&artikel=2) wordt door de bewindspersoon of gewezen bewindspersoon elektronisch ingediend door op de website van het adviescollege het in de bijlage bij dit artikel vastgestelde formulier in te vullen.
 
 2. Het adviescollege brengt de bewindspersoon of gewezen bewindspersoon schriftelijk op de hoogte van het recht om te worden gehoord, bedoeld in [artikel 2, vierde en zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0051611&artikel=2).
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een verzoek om advies als bedoeld in de [artikelen 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051611&artikel=3), en [4, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0051611&artikel=4) wordt schriftelijk door de Minister-President ingediend bij het adviescollege.
 
@@ -40,11 +66,11 @@ Voor de toepassing van deze regeling wordt verstaan onder:
 
 3. De bewindspersoon of gewezen bewindspersoon levert ten behoeve van de ontheffing als bedoeld in [artikel 4, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0051611&artikel=4) bij de Minister-President de reden voor en reikwijdte van de gewenste ontheffing aan, en motiveert daarbij waarom een ontheffing wenselijk is.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling treedt in werking op het tijdstip dat de [Wet regels integriteit en vervolgfuncties bewindspersonen](https://wetten.overheid.nl/jci1.3:c:BWBR0051611) in werking treedt.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling wordt aangehaald als: Regeling vervolgfuncties bewindspersonen.
 

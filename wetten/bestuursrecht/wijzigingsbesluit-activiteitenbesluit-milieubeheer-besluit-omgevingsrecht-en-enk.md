@@ -1,13 +1,39 @@
 ---
-title: "Wijzigingsbesluit Activiteitenbesluit milieubeheer, Besluit omgevingsrecht en enkele andere besluiten (nieuwe activiteiten)"
+title: "Besluit van 18 september 2015 tot wijziging van het Activiteitenbesluit milieubeheer, het Besluit omgevingsrecht en enkele andere besluiten (nieuwe activiteiten)"
 identifier: "BWBR0037061"
-categorie: "Bestuursrecht"
-publicatiedatum: 2018-07-01
-laatste_update: 2018-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037061"
+country: "nl"
+rank: "amvb"
+publication_date: "2018-07-01"
+last_updated: "2018-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037061"
+soort: "AMvB"
+stam_id: "13268113"
+version_id: "22706042"
+internal_id: "C32975721"
+label_id: "13236134"
+dtd_version: "2.0"
+original_entry_into_force: "2015-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037061/2018-07-01/0"
+intitule_bron: "Stb.2015-337"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-09-18"
+intitule_published: "2015-10-01"
+intitule_in_force: "2015-11-30"
+intitule_status: "goed"
+original_publication: "Stb.2015-337"
+original_signed_date: "2015-09-18"
+original_published_date: "2015-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2015-337"
+entry_into_force_date: "2015-12-01"
+jci_1_3: "jci1.3:c:BWBR0037061&z=2018-07-01&g=2018-07-01"
+jci_1_0: "1.0:c:BWBR0037061&g=2018-07-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsbesluit Activiteitenbesluit milieubeheer, Besluit omgevingsrecht en enkele andere besluiten (nieuwe activiteiten)"
+signed_date: "2015-09-18"
+entry_into_force: "2015-12-01"
 ---
-
 # Besluit van 18 september 2015 tot wijziging van het Activiteitenbesluit milieubeheer, het Besluit omgevingsrecht en enkele andere besluiten (nieuwe activiteiten)
 
 Op de voordracht van de Staatssecretaris van Infrastructuur en Milieu van 9 maart 2015, nr. IenM/BSK-2015/38586, Hoofddirectie Bestuurlijke en Juridische Zaken;
@@ -22,27 +48,27 @@ Gezien het nader rapport van de Staatssecretaris van Infrastructuur en Milieu va
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Activiteitenbesluit milieubeheer.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Besluit omgevingsrecht.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Besluit externe veiligheid inrichtingen.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het Besluit lozen buiten inrichtingen.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Besluit mobiel breken bouw- en sloopafval.
 
-#### Artikel VI
+##### Artikel VI
 
 1. Een omgevingsvergunning op grond van [artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) die van kracht en onherroepelijk was onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van [artikel II, onderdeel A, onder 1, onder 2, onder d, en onder 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037061&artikel=II&z=2018-07-01&g=2018-07-01), wordt, voor zover die omgevingsvergunning een activiteit betreft die in artikel II, onderdeel A, onder 1, onder 2, onder d, en onder 4, is aangewezen, gelijkgesteld met een omgevingsvergunning voor die activiteit op grond van artikel 2.1, eerste lid, aanhef en onder i, van die wet.
 
@@ -54,7 +80,7 @@ Wijzigt het Besluit mobiel breken bouw- en sloopafval.
 
 3. In gevallen als bedoeld in het tweede lid wordt een omgevingsvergunning op grond van [artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) gelijkgesteld met een omgevingsvergunning voor de betrokken activiteit op grond van artikel 2.1, eerste lid, aanhef en onder i, van die wet op het tijdstip waarop de omgevingsvergunning onherroepelijk is geworden. De voorschriften die aan die omgevingsvergunning zijn verbonden, worden overeenkomstig [artikel 6.1, eerste of vierde lid, van het Activiteitenbesluit milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0022762&artikel=6.1) aangemerkt als maatwerkvoorschriften.
 
-#### Artikel VII
+##### Artikel VII
 
 De volgende besluiten worden ingetrokken:
 
@@ -62,7 +88,7 @@ De volgende besluiten worden ingetrokken:
 
 [Besluit LPG-tankstations milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0004327)
 
-#### Artikel VIII
+##### Artikel VIII
 
 Dit besluit treedt in werking met ingang van een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan of voor verschillende categorieën van inrichtingen verschillend kan worden vastgesteld.
 

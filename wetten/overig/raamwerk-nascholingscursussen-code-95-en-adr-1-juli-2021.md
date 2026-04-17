@@ -1,13 +1,36 @@
 ---
-title: "Raamwerk Nascholingscursussen Code 95 en ADR (1 juli 2021)"
+title: "Raamwerk Nascholings- cursussen code 95 en ADR"
 identifier: "BWBR0045491"
-categorie: "Overig"
-publicatiedatum: 2021-08-03
-laatste_update: 2021-08-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045491"
+country: "nl"
+rank: "zbo"
+publication_date: "2021-08-03"
+last_updated: "2021-08-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045491"
+soort: "zbo"
+stam_id: "16041953"
+version_id: "27938992"
+internal_id: "C39394531"
+label_id: "15975294"
+dtd_version: "2.0"
+original_entry_into_force: "2021-08-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045491/2021-08-03/0"
+intitule_bron: "Stcrt.2021-36837"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2021-08-03"
+intitule_in_force: "2021-08-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-36837"
+original_published_date: "2021-08-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-36837"
+entry_into_force_date: "2021-08-03"
+jci_1_3: "jci1.3:c:BWBR0045491&z=2021-08-03&g=2021-08-03"
+jci_1_0: "1.0:c:BWBR0045491&g=2021-08-03"
+citeertitel_status: "redactioneel"
+short_title: "Raamwerk Nascholingscursussen Code 95 en ADR (1 juli 2021)"
+entry_into_force: "2021-08-03"
 ---
-
 # Raamwerk Nascholings- cursussen code 95 en ADR
 
 ### Hoofdstuk 1. Het Raamwerk nascholings- cursussen code 95 en ADR

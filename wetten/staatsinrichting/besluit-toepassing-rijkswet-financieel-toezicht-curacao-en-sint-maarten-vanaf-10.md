@@ -1,13 +1,39 @@
 ---
-title: "Besluit toepassing Rijkswet financieel toezicht Curaçao en Sint Maarten vanaf 10 oktober 2015"
+title: "Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 8 oktober 2015, houdende de toepassing van de Rijkswet financieel toezicht Curaçao en Sint Maarten vanaf 10 oktober 2015"
 identifier: "BWBR0037145"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2015-12-01
-laatste_update: 2015-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037145"
+country: "nl"
+rank: "kb"
+publication_date: "2015-12-01"
+last_updated: "2015-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037145"
+soort: "KB"
+stam_id: "13292223"
+version_id: "22750692"
+internal_id: "C32894121"
+label_id: "13260064"
+dtd_version: "2.0"
+original_entry_into_force: "2015-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037145/2015-12-01/0"
+intitule_bron: "Stcrt.2015-38426"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-10-08"
+intitule_published: "2015-10-30"
+intitule_in_force: "2015-10-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-38426"
+original_signed_date: "2015-10-08"
+original_published_date: "2015-10-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-38426"
+entry_into_force_date: "2015-12-01"
+jci_1_3: "jci1.3:c:BWBR0037145&z=2015-12-01&g=2015-12-01"
+jci_1_0: "1.0:c:BWBR0037145&g=2015-12-01"
+citeertitel_status: "redactioneel"
+short_title: "Besluit toepassing Rijkswet financieel toezicht Curaçao en Sint Maarten vanaf 10 oktober 2015"
+signed_date: "2015-10-08"
+entry_into_force: "2015-12-01"
 ---
-
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 8 oktober 2015, houdende de toepassing van de Rijkswet financieel toezicht Curaçao en Sint Maarten vanaf 10 oktober 2015
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 5 oktober 2015 (kenmerk 2015-0000516706);

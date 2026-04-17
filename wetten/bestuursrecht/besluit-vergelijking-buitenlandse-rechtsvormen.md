@@ -1,13 +1,39 @@
 ---
-title: "Besluit vergelijking buitenlandse rechtsvormen"
+title: "Besluit van 9 november 2024, houdende Besluit vergelijking buitenlandse rechtsvormen"
 identifier: "BWBR0050400"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-12-12
-laatste_update: 2025-12-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050400"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-12-12"
+last_updated: "2025-12-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050400"
+soort: "AMvB"
+stam_id: "17266503"
+version_id: "30411132"
+internal_id: "C43613911"
+label_id: "17171984"
+dtd_version: "2.0"
+original_entry_into_force: "2025-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050400/2025-12-12/0"
+intitule_bron: "Stb.2024-339"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-11-09"
+intitule_published: "2024-11-13"
+intitule_in_force: "2024-11-13"
+intitule_status: "goed"
+original_publication: "Stb.2024-339"
+original_signed_date: "2024-11-09"
+original_published_date: "2024-11-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2024-339"
+entry_into_force_date: "2025-01-01"
+jci_1_3: "jci1.3:c:BWBR0050400&z=2025-12-12&g=2025-12-12"
+jci_1_0: "1.0:c:BWBR0050400&g=2025-12-12"
+citeertitel_status: "officieel"
+short_title: "Besluit vergelijking buitenlandse rechtsvormen"
+signed_date: "2024-11-09"
+entry_into_force: "2025-01-01"
 ---
-
 # Besluit van 9 november 2024, houdende Besluit vergelijking buitenlandse rechtsvormen
 
 Op de voordracht van de Staatssecretaris van Financiën van 9 oktober 2024, nr. 2024-002216;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Artikel 1. Reikwijdte en definities
+##### Artikel 1. Reikwijdte en definities
 
 1. Dit besluit geeft uitvoering aan de [artikelen 1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.11) en [2.14bis van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.14bis), [artikel 1a van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=1a), [artikel 1 van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=1) en [artikel 1.2 van de Wet bronbelasting 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&artikel=1.2).
 
@@ -60,7 +86,7 @@ Hebben goedgevonden en verstaan:
 
 ### Afdeling 1. Invulling methode van rechtsvormvergelijking
 
-#### Artikel 2. Rechtsvormvergelijking
+##### Artikel 2. Rechtsvormvergelijking
 
 1. Een buitenlandse rechtsvorm waarvan de aard en inrichting onder het recht van de staat door wiens recht die rechtsvorm wordt beheerst vergelijkbaar is met de aard en inrichting, waaronder de in [afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050400&hoofdstuk=II&afdeling=2&z=2025-12-12&g=2025-12-12) opgenomen wezenlijke kenmerken, van een Nederlandse rechtsvorm als bedoeld in [artikel 1, tweede lid, onderdeel b, onder 1° tot en met 9°](https://wetten.overheid.nl/jci1.3:c:BWBR0050400&hoofdstuk=I&artikel=1&z=2025-12-12&g=2025-12-12), is vergelijkbaar met die Nederlandse rechtsvorm.
 
@@ -76,7 +102,7 @@ Hebben goedgevonden en verstaan:
 
 ### Afdeling 2. Wezenlijke kenmerken van de Nederlandse niet-transparante rechtsvormen en van de Nederlandse personenvennootschappen
 
-#### Artikel 3. Naamloze vennootschap en besloten vennootschap
+##### Artikel 3. Naamloze vennootschap en besloten vennootschap
 
 De naamloze vennootschap en de besloten vennootschap bezitten de volgende wezenlijke kenmerken:
 
@@ -100,7 +126,7 @@ De naamloze vennootschap en de besloten vennootschap bezitten de volgende wezenl
 
 - j. de aandelen zijn vrij overdraagbaar.
 
-#### Artikel 4. Coöperatie en vereniging op coöperatieve grondslag
+##### Artikel 4. Coöperatie en vereniging op coöperatieve grondslag
 
 1. De coöperatie bezit de volgende wezenlijke kenmerken:
 
@@ -122,7 +148,7 @@ De naamloze vennootschap en de besloten vennootschap bezitten de volgende wezenl
 
 2. De vereniging op coöperatieve grondslag is een vereniging die niet als coöperatie is opgericht, maar die zich wel als zodanig gedraagt. Deze rechtsvorm heeft dezelfde wezenlijke kenmerken als de coöperatie.
 
-#### Artikel 5. Onderlinge waarborgmaatschappij en vereniging die op onderlinge grondslag als verzekeraar of bank optreedt
+##### Artikel 5. Onderlinge waarborgmaatschappij en vereniging die op onderlinge grondslag als verzekeraar of bank optreedt
 
 1. De onderlinge waarborgmaatschappij bezit de volgende wezenlijke kenmerken:
 
@@ -144,7 +170,7 @@ De naamloze vennootschap en de besloten vennootschap bezitten de volgende wezenl
 
 2. De vereniging die op onderlinge grondslag als verzekeraar of bank optreedt is een vereniging die niet als onderlinge waarborgmaatschappij is opgericht, maar die wel op onderlinge grondslag optreedt als verzekeraar of bank.
 
-#### Artikel 6. Vereniging
+##### Artikel 6. Vereniging
 
 De vereniging, niet zijnde een vereniging als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050400&hoofdstuk=II&afdeling=2&artikel=4&z=2025-12-12&g=2025-12-12), of [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050400&hoofdstuk=II&afdeling=2&artikel=5&z=2025-12-12&g=2025-12-12), bezit de volgende wezenlijke kenmerken:
 
@@ -162,7 +188,7 @@ De vereniging, niet zijnde een vereniging als bedoeld in [artikel 4, tweede lid]
 
 - g. de vereniging heeft statuten.
 
-#### Artikel 7. Stichting
+##### Artikel 7. Stichting
 
 De stichting bezit de volgende wezenlijke kenmerken:
 
@@ -178,7 +204,7 @@ De stichting bezit de volgende wezenlijke kenmerken:
 
 - f. de stichting heeft statuten.
 
-#### Artikel 8. Kerkgenootschap alsmede hun zelfstandige onderdelen en lichamen waarin zij zijn verenigd
+##### Artikel 8. Kerkgenootschap alsmede hun zelfstandige onderdelen en lichamen waarin zij zijn verenigd
 
 Het kerkgenootschap alsmede hun zelfstandige onderdelen en lichamen waarin zij zijn verenigd bezitten de volgende wezenlijke kenmerken:
 
@@ -188,7 +214,7 @@ Het kerkgenootschap alsmede hun zelfstandige onderdelen en lichamen waarin zij z
 
 - c. het kerkgenootschap alsmede hun zelfstandige onderdelen en lichamen waarin zij zijn verenigd worden geregeerd door een eigen statuut.
 
-#### Artikel 9. Nederlandse publiekrechtelijke rechtspersoon
+##### Artikel 9. Nederlandse publiekrechtelijke rechtspersoon
 
 De Nederlandse publiekrechtelijke rechtspersoon bezit de volgende wezenlijke kenmerken:
 
@@ -200,7 +226,7 @@ De Nederlandse publiekrechtelijke rechtspersoon bezit de volgende wezenlijke ken
 
 - d. de rechtspersoon heeft geen in aandelen verdeeld kapitaal.
 
-#### Artikel 10. Maatschap en vennootschap onder firma
+##### Artikel 10. Maatschap en vennootschap onder firma
 
 De maatschap en vennootschap onder firma bezitten de volgende wezenlijke kenmerken:
 
@@ -218,7 +244,7 @@ De maatschap en vennootschap onder firma bezitten de volgende wezenlijke kenmerk
 
 - g. vertegenwoordiging vindt, al dan niet in gezamenlijkheid, plaats door de maten, onderscheidenlijk vennoten.
 
-#### Artikel 11. Commanditaire vennootschap ofwel vennootschap bij wijze van geldschieting
+##### Artikel 11. Commanditaire vennootschap ofwel vennootschap bij wijze van geldschieting
 
 De commanditaire vennootschap ofwel vennootschap bij wijze van geldschieting bezit de volgende wezenlijke kenmerken:
 
@@ -242,11 +268,11 @@ De commanditaire vennootschap ofwel vennootschap bij wijze van geldschieting bez
 
 ### Hoofdstuk III. Slotbepalingen
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 januari 2025.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit vergelijking buitenlandse rechtsvormen.
 

@@ -1,13 +1,35 @@
 ---
 title: "Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973, zoals gewijzigd door het Protocol van 1978 daarbij"
 identifier: "BWBV0003241"
-categorie: "Internationaal recht"
-publicatiedatum: 2026-03-01
-laatste_update: 2026-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003241"
+country: "nl"
+rank: "verdrag"
+publication_date: "2026-03-01"
+last_updated: "2026-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003241"
+soort: "verdrag"
+stam_id: "10003423923"
+version_id: "10003470302"
+internal_id: "C10006982231"
+label_id: "10003410924"
+dtd_version: "2.0"
+original_entry_into_force: "1983-10-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003241/2026-03-01/0"
+intitule_bron: "Trb.1975-147"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1975-12-19"
+intitule_in_force: "1983-08-10"
+intitule_status: "goed"
+original_publication: "Trb.1975-147"
+original_published_date: "1975-12-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1975-147"
+entry_into_force_date: "1983-10-02"
+jci_1_3: "jci1.3:c:BWBV0003241&z=2026-03-01&g=2026-03-01"
+jci_1_0: "1.0:c:BWBV0003241&g=2026-03-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1983-10-02"
 ---
-
 # Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973, zoals gewijzigd door het Protocol van 1978 daarbij
 
 De Partijen bij het Verdrag,
@@ -24,13 +46,13 @@ Overwegende dat dit doel het beste kan worden bereikt door het opstellen van reg
 
 Zijn overeengekomen als volgt:
 
-#### Artikel 1. Algemene verplichtingen krachtens het Verdrag
+##### Artikel 1. Algemene verplichtingen krachtens het Verdrag
 
 (1). De Partijen bij het Verdrag verbinden zich uitvoering te geven aan de bepalingen van dit Verdrag en van die Bijlagen daarbij door welke zij zijn gebonden, ter voorkoming van de verontreiniging van het mariene milieu door het lozen van schadelijke stoffen of vloeistoffen die dergelijke stoffen bevatten, in strijd met dit Verdrag.
 
 (2). Tenzij uitdrukkelijk anders is bepaald houdt elke verwijzing naar dit Verdrag tegelijkertijd een verwijzing in naar de Protocollen en Bijlagen daarbij.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag hebben de onderstaande uitdrukkingen de volgende betekenis, tenzij uitdrukkelijk anders is bepaald:
 
@@ -58,7 +80,7 @@ Voor de toepassing van dit Verdrag hebben de onderstaande uitdrukkingen de volge
 
 - (7). „Organisatie”: de Intergouvernementele Maritieme Consultatieve Organisatie.
 
-#### Artikel 3. Toepassing
+##### Artikel 3. Toepassing
 
 (1). Dit Verdrag is van toepassing op:
 
@@ -70,7 +92,7 @@ Voor de toepassing van dit Verdrag hebben de onderstaande uitdrukkingen de volge
 
 (3). Dit Verdrag is niet van toepassing op oorlogsschepen, schepen in gebruik als marine-hulpschepen of andere schepen in eigendom van of in beheer bij een Staat die, tijdelijk, uitsluitend worden ingezet voor niet-commerciële overheidsdienst. Elke Partij waarborgt evenwel, door het nemen van passende maatregelen die de werkzaamheden of de operationele kwaliteiten van dergelijke schepen in haar eigendom of beheer niet aantasten, dat dergelijke schepen, voor zover redelijk en uitvoerbaar, opereren in overeenstemming met dit Verdrag.
 
-#### Artikel 4. Overtreding
+##### Artikel 4. Overtreding
 
 (1). Elke overtreding van de bepalingen van dit Verdrag wordt verboden en strafbaar gesteld krachtens de wetgeving van de Administratie van het betrokken schip, ongeacht waar de overtreding zich voordoet. Indien de Administratie van een dergelijke overtreding op de hoogte is gesteld en ervan overtuigd is dat voldoende bewijsmateriaal voorhanden is om een rechtsvervolging in te stellen met betrekking tot de beweerde overtreding, neemt zij ten spoedigste dergelijke stappen overeenkomstig haar wetgeving.
 
@@ -84,7 +106,7 @@ Voor de toepassing van dit Verdrag hebben de onderstaande uitdrukkingen de volge
 
 (4). De ingevolge dit artikel krachtens de wetten van een Partij vastgestelde straffen dienen streng genoeg te zijn om schending van dit Verdrag tegen te gaan; zij dienen even streng te zijn, ongeacht het gebied waar de schending zich voordoet.
 
-#### Artikel 5. Certificaten en bijzondere regels voor de inspectie van schepen
+##### Artikel 5. Certificaten en bijzondere regels voor de inspectie van schepen
 
 (1). Behoudens het bepaalde in het tweede lid van dit artikel wordt een certificaat, afgegeven op gezag van een Partij bij het Verdrag in overeenstemming met de bepalingen van de Voorschriften, door de overige Partijen aanvaard en voor alle doeleinden van dit Verdrag beschouwd als gelijkwaardig aan een door hen afgegeven certificaat.
 
@@ -96,7 +118,7 @@ De Administratie wordt ook ingelicht indien een schip geen geldig certificaat ov
 
 (4). Ten aanzien van de schepen van Staten die geen Partij zijn bij het Verdrag passen de Partijen de bepalingen van dit Verdrag toe, voor zover nodig is om te verzekeren dat dergelijke schepen geen gunstiger behandeling krijgen.
 
-#### Artikel 6. Opsporing van overtredingen en handhaving van de bepalingen van het Verdrag
+##### Artikel 6. Opsporing van overtredingen en handhaving van de bepalingen van het Verdrag
 
 (1). De Partijen bij het Verdrag werken samen bij de opsporing van overtredingen en de handhaving van de bepalingen van dit Verdrag, daarbij gebruik makend van alle passende en uitvoerbare maatregelen van opsporing en milieubewaking en van doeltreffende methoden voor het rapporteren en het verzamelen van bewijsmateriaal.
 
@@ -110,13 +132,13 @@ Indien mogelijk stelt het bevoegde gezag van de betrokken Partij de gezagvoerder
 
 (5). Een Partij kan tevens een schip waarop dit Verdrag van toepassing is inspecteren wanneer dit een haven of een laad- of losplaats buitengaats onder haar rechtsmacht binnenvaart, indien een verzoek tot het instellen van een onderzoek van enige Partij is ontvangen, te zamen met voldoende bewijsmateriaal dat het schip ergens schadelijke stoffen, of vloeistoffen die dergelijke stoffen bevatten, heeft geloosd. Het rapport betreffende een dergelijk onderzoek wordt toegezonden aan de Partij die heeft verzocht dit onderzoek in te stellen en aan de Administratie, opdat krachtens de bepalingen van dit Verdrag de juiste stappen kunnen worden genomen.
 
-#### Artikel 7. Onnodig oponthoud van schepen
+##### Artikel 7. Onnodig oponthoud van schepen
 
 (1). Al het mogelijke wordt gedaan om te vermijden dat een schip door de toepassing van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&artikel=4&z=2026-03-01&g=2026-03-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&artikel=5&z=2026-03-01&g=2026-03-01) of [6](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&artikel=6&z=2026-03-01&g=2026-03-01) van dit Verdrag onnodig wordt opgehouden of vertraagd.
 
 (2). Indien, door de toepassing van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&artikel=4&z=2026-03-01&g=2026-03-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&artikel=5&z=2026-03-01&g=2026-03-01) of [6](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&artikel=6&z=2026-03-01&g=2026-03-01) van dit Verdrag, een schip onnodig wordt opgehouden of vertraagd, is het gerechtigd aanspraak te maken op vergoeding van enig geleden verlies of schade.
 
-#### Artikel 8. Melding van voorvallen met schadelijke stoffen
+##### Artikel 8. Melding van voorvallen met schadelijke stoffen
 
 (1). Een voorval wordt onverwijld en zo uitgebreid mogelijk gemeld overeenkomstig de bepalingen van Protocol I bij dit Verdrag.
 
@@ -134,7 +156,7 @@ Indien mogelijk stelt het bevoegde gezag van de betrokken Partij de gezagvoerder
 
 (4). Elke Partij bij het Verdrag verbindt zich ertoe, aan haar inspectievaartuigen en -vliegtuigen, alsmede aan andere hiertoe geëigende diensten instructies uit te vaardigen, om aan haar bevoegde instanties elk voorval te melden als bedoeld in Protocol I bij dit Verdrag. Indien zij daartoe aanleiding ziet, brengt deze Partij dienovereenkomstig verslag uit aan de Organisatie, alsmede aan elke andere betrokken Partij.
 
-#### Artikel 9. Andere Verdragen en Uitlegging
+##### Artikel 9. Andere Verdragen en Uitlegging
 
 (1). Na inwerkingtreding vervangt dit Verdrag het Internationaal Verdrag ter voorkoming van verontreiniging van de zee door olie, 1954, zoals gewijzigd, ten aanzien van de Partijen bij laatstgenoemd Verdrag.
 
@@ -142,11 +164,11 @@ Indien mogelijk stelt het bevoegde gezag van de betrokken Partij de gezagvoerder
 
 (3). De term „rechtsmacht” wordt in dit Verdrag uitgelegd in overeenstemming met het internationaal recht, geldend ten tijde van toepassing of uitlegging van dit Verdrag.
 
-#### Artikel 10. Beslechting van geschillen
+##### Artikel 10. Beslechting van geschillen
 
 Elk geschil tussen twee of meer Partijen bij het Verdrag over de uitlegging of toepassing van dit Verdrag, dat niet door onderhandeling tussen de betrokken Partijen kan worden beslecht, wordt, tenzij de Partijen anders beslissen, op verzoek van een der Partijen voorgelegd aan een scheidsgerecht overeenkomstig het bepaalde in Protocol II bij dit Verdrag.
 
-#### Artikel 11. Verstrekken van inlichtingen
+##### Artikel 11. Verstrekken van inlichtingen
 
 (1). De Partijen bij het Verdrag verbinden zich tot het mededelen aan de Organisatie van:
 
@@ -164,13 +186,13 @@ Elk geschil tussen twee of meer Partijen bij het Verdrag over de uitlegging of t
 
 (2). De Organisatie stelt de Partijen in kennis van de ontvangst van alle mededelingen gedaan krachtens dit artikel en verspreidt alle haar krachtens het eerste lid, onder (b) t/m (f) van dit artikel medegedeelde gegevens onder alle Partijen.
 
-#### Artikel 12. Scheepsongevallen
+##### Artikel 12. Scheepsongevallen
 
 (1). Elke Administratie verbindt zich tot het instellen van een onderzoek naar alle ongevallen waarbij een van haar schepen betrokken is waarop de bepalingen van de Voorschriften van toepassing zijn, indien een dergelijk ongeval een zeer schadelijke invloed heeft veroorzaakt op het mariene milieu.
 
 (2). Elke Partij bij het Verdrag verbindt zich ertoe de Organisatie gegevens te verstrekken omtrent de resultaten van een dergelijk onderzoek, wanneer deze Partij van mening is dat deze gegevens van nut kunnen zijn bij het vaststellen welke wijzigingen in dit Verdrag wenselijk zouden kunnen zijn.
 
-#### Artikel 13. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
+##### Artikel 13. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
 
 (1). Dit Verdrag staat van 15 januari 1974 tot 31 december 1974 op de zetel van de Organisatie open voor ondertekening en blijft daarna open voor toetreding. Staten kunnen Partij bij dit Verdrag worden door:
 
@@ -184,7 +206,7 @@ Elk geschil tussen twee of meer Partijen bij het Verdrag over de uitlegging of t
 
 (3). De Secretaris-Generaal van de Organisatie geeft alle Staten die dit Verdrag hebben ondertekend of daartoe zijn toegetreden, kennis van elke ondertekening of van de nederlegging van elke nieuwe akte van bekrachtiging, aanvaarding, goedkeuring of toetreding en van de datum van deze nederlegging.
 
-#### Artikel 14. Facultatieve Bijlagen
+##### Artikel 14. Facultatieve Bijlagen
 
 (1). Op het tijdstip van ondertekening, bekrachtiging, aanvaarding, goedkeuring van of toetreding tot dit Verdrag kan een Staat verklaren dat hij een of meer van de Bijlagen III, IV en [V](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&z=2026-03-01&g=2026-03-01) (hierna te noemen „Facultatieve Bijlagen”) dan wel al deze Bijlagen van dit Verdrag niet aanvaardt. Behoudens het bovenstaande zijn de Partijen bij het Verdrag gebonden door elke bijlage in zijn geheel.
 
@@ -194,7 +216,7 @@ Elk geschil tussen twee of meer Partijen bij het Verdrag over de uitlegging of t
 
 (4). De Organisatie geeft de Staten die dit Verdrag hebben ondertekend of daartoe zijn toegetreden kennis van elke verklaring krachtens dit artikel, alsmede van de ontvangst van elke akte nedergelegd overeenkomstig het tweede lid van dit artikel.
 
-#### Artikel 15. Inwerkingtreding
+##### Artikel 15. Inwerkingtreding
 
 (1). Dit Verdrag treedt in werking twaalf maanden na de datum waarop niet minder dan vijftien Staten waarvan de koopvaardijvloten te zamen ten minste vijftig procent vormen van de bruto tonnage van de wereldkoopvaardijvloot, Partij bij dit Verdrag zijn geworden overeenkomstig [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&artikel=13&z=2026-03-01&g=2026-03-01).
 
@@ -208,7 +230,7 @@ Elk geschil tussen twee of meer Partijen bij het Verdrag over de uitlegging of t
 
 (6). Na de datum waarop is voldaan aan alle in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&artikel=16&z=2026-03-01&g=2026-03-01) genoemde voorwaarden om wijzigingen van dit Verdrag of van een Facultatieve Bijlage in werking te doen treden, heeft elke akte van bekrachtiging, aanvaarding, goedkeuring of toetreding betrekking op het Verdrag of de Bijlage, zoals gewijzigd.
 
-#### Artikel 16. Wijzigingen
+##### Artikel 16. Wijzigingen
 
 (1). Dit Verdrag kan worden gewijzigd door middel van een der in de volgende leden genoemde procedures.
 
@@ -264,7 +286,7 @@ Elk geschil tussen twee of meer Partijen bij het Verdrag over de uitlegging of t
 
 (9). Elke verklaring van aanvaarding van of bezwaar tegen een wijziging ingevolge dit artikel wordt schriftelijk medegedeeld aan de Secretaris-Generaal van de Organisatie. Deze brengt een dergelijke kennisgeving en de datum van ontvangst daarvan ter kennis van de Partijen bij het Verdrag.
 
-#### Artikel 17. Bevordering van technische samenwerking
+##### Artikel 17. Bevordering van technische samenwerking
 
 De Partijen bij het Verdrag bevorderen, in overleg met de Organisatie en andere internationale lichamen, met bijstand van en in samenwerking met de Uitvoerend Directeur van het Milieuprogramma van de Verenigde Naties, steun aan Partijen die om technische hulp verzoeken voor:
 
@@ -278,7 +300,7 @@ De Partijen bij het Verdrag bevorderen, in overleg met de Organisatie en andere 
 
 bij voorkeur in de betrokken landen zelf, ter bevordering van de doelstellingen van dit Verdrag.
 
-#### Artikel 18. Opzegging
+##### Artikel 18. Opzegging
 
 (1). Dit Verdrag of een Facultatieve Bijlage kan door elke Partij bij het Verdrag te allen tijde worden opgezegd na verloop van vijf jaren te rekenen van de datum waarop het Verdrag of die Bijlage voor die Partij in werking trad.
 
@@ -286,23 +308,23 @@ bij voorkeur in de betrokken landen zelf, ter bevordering van de doelstellingen 
 
 (3). Een opzegging wordt van kracht twaalf maanden na ontvangst van de kennisgeving van opzegging door de Secretaris-Generaal van de Organisatie, dan wel na het verstrijken van een langer tijdvak indien zulks in de kennisgeving wordt aangegeven.
 
-#### Artikel 19. Nederlegging en registratie
+##### Artikel 19. Nederlegging en registratie
 
 (1). Dit Verdrag wordt nedergelegd bij de Secretaris-Generaal van de Organisatie, die voor eensluidend gewaarmerkte afschriften daarvan toezendt aan alle Staten welke dit Verdrag hebben ondertekend of daartoe zijn toegetreden.
 
 (2). Zodra dit Verdrag in werking treedt, wordt de tekst door de Secretaris-Generaal van de Organisatie toegezonden aan de Secretaris-Generaal van de Verenigde Naties ter registratie en publikatie, overeenkomstig [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-#### Artikel 20. Talen
+##### Artikel 20. Talen
 
 Dit Verdrag is opgesteld in een enkel exemplaar, in de Engelse, de Franse, de Russische en de Spaanse taal, zijnde alle teksten gelijkelijk authentiek. Er worden officiële vertalingen vervaardigd in de Arabische, de Duitse, de Italiaanse en de Japanse taal welke worden nedergelegd bij het ondertekende oorspronkelijke exemplaar.
 
-#### Artikel I. Meldingsplicht
+##### Artikel I. Meldingsplicht
 
 (1). De gezagvoerder of een andere persoon, belast met het bevel over een schip dat betrokken is bij een in [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&artikel=II&z=2026-03-01&g=2026-03-01) van dit Protocol bedoeld voorval, dient de bijzonderheden van dit voorval onverwijld en zo volledig mogelijk te melden in overeenstemming met de bepalingen van dit Protocol.
 
 (2). Indien het schip, bedoeld in het eerste lid van dit artikel, wordt verlaten, of indien een melding van dit schip onvolledig of niet verkrijgbaar is, neemt de eigenaar, de bevrachter, de beheerder of de exploitant, dan wel diens vertegenwoordiger, zoveel mogelijk de verplichtingen van de gezagvoerder op zich krachtens de bepalingen van dit Protocol.
 
-#### Artikel II. Wanneer een melding dient plaats te vinden
+##### Artikel II. Wanneer een melding dient plaats te vinden
 
 (1). De melding wordt gedaan omtrent voorvallen waarbij:
 
@@ -326,7 +348,7 @@ Dit Verdrag is opgesteld in een enkel exemplaar, in de Engelse, de Franse, de Ru
 
 - (c). worden onder „schadelijke stoffen” in verpakte vorm, zoals bedoeld in lid l(b) van dit artikel, verstaan de in de „International Maritime Dangerous Goods (IMDG) Code” opgenomen stoffen, die zijn aangemerkt als zijnde schadelijk voor het mariene milieu.
 
-#### Artikel III. Inhoud van de melding
+##### Artikel III. Inhoud van de melding
 
 Elke melding dient in elk geval te bevatten:
 
@@ -338,7 +360,7 @@ Elke melding dient in elk geval te bevatten:
 
 - (d). de maatregelen voor de hulpverlening en de berging.
 
-#### Artikel IV. Aanvullende melding
+##### Artikel IV. Aanvullende melding
 
 Ieder die krachtens het bepaalde in dit Protocol verplicht is een melding te doen, dient zo mogelijk:
 
@@ -346,7 +368,7 @@ Ieder die krachtens het bepaalde in dit Protocol verplicht is een melding te doe
 
 - (b). zo volledig mogelijk te voldoen aan verzoeken van de betrokken Staten om aanvullende gegevens.
 
-#### Artikel V. Meldingsprocedures
+##### Artikel V. Meldingsprocedures
 
 (1). Meldingen dienen via de snelste, beschikbare telecommunicatiekanalen en met de grootst mogelijke voorrang te geschieden aan de dichtstbijzijnde kuststaat.
 
@@ -354,21 +376,21 @@ Ieder die krachtens het bepaalde in dit Protocol verplicht is een melding te doe
 
 3. In het geval van het verlies van (een) vrachtcontainer(s), dient de door [artikel II, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&artikel=II&z=2026-03-01&g=2026-03-01), vereiste melding gedaan te worden in overeenstemming met de vereisten voor gevaarberichten zoals voorzien in [voorschriften V/31](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&artikel=31) en [V/32 van het Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&artikel=32).
 
-#### Artikel I
+##### Artikel I
 
 Tenzij de partijen bij het geschil anders besluiten, wordt de scheidsrechterlijke procedure gevoerd met inachtneming van de bepalingen van dit Protocol.
 
-#### Artikel II
+##### Artikel II
 
 (1). Een scheidsgerecht wordt ingesteld op verzoek van een Partij bij het Verdrag, gericht aan een andere Partij, overeenkomstig [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&artikel=10&z=2026-03-01&g=2026-03-01) van dit Verdrag. Het verzoek om een scheidsrechterlijke beslissing bevat een voordracht van de zaak en gaat vergezeld van de ter zake dienende stukken.
 
 (2). De eisende Partij stelt de Secretaris-Generaal van de Organisatie in kennis van het feit dat zij de instelling van een scheidsgerecht heeft verzocht, van de namen van de partijen bij het geschil en van de artikelen van het Verdrag of van de Voorschriften waarvan de uitlegging of de toepassing naar haar mening het voorwerp van het geschil vormen. De Secretaris-Generaal doet deze inlichtingen aan alle Partijen toekomen.
 
-#### Artikel III
+##### Artikel III
 
 Het scheidsgerecht bestaat uit drie leden: een scheidsman benoemd door elke partij bij het geschil en een derde scheidsman die in onderlinge overeenstemming tussen de eerstgenoemden wordt aangewezen en die het voorzitterschap van het scheidsgerecht op zich neemt.
 
-#### Artikel IV
+##### Artikel IV
 
 (1). Indien na het verstrijken van een termijn van zestig dagen te rekenen vanaf de benoeming van de tweede scheidsman de voorzitter van het scheidsgerecht niet is aangewezen, gaat de Secretaris-Generaal van de Organisatie op verzoek van de meest gerede partij binnen een volgende periode van zestig dagen over tot de aanwijzing; hij doet daarbij een keuze uit een tevoren door de Raad van de Organisatie opgestelde lijst van bevoegde personen.
 
@@ -380,23 +402,23 @@ Het scheidsgerecht bestaat uit drie leden: een scheidsman benoemd door elke part
 
 (5). In geval van overlijden of in gebreke blijven van een scheidsman voor wiens benoeming een van de partijen verantwoordelijk is, benoemt die partij een vervanger binnen een termijn van zestig dagen te rekenen van de datum van overlijden of in gebreke blijven. Indien deze partij de benoeming niet verricht, wordt de procedure voortgezet door de overblijvende scheidsmannen. In geval van overlijden of in gebreke blijven van de voorzitter van het scheidsgerecht wordt een vervanger aangewezen overeenkomstig het bepaalde in artikel III hierboven of, bij gebreke van overeenstemming tussen de leden van het scheidsgerecht, binnen een termijn van zestig dagen te rekenen van het overlijden of in gebreke blijven, overeenkomstig het bepaalde in dit artikel.
 
-#### Artikel V
+##### Artikel V
 
 Het scheidsgerecht kan kennis nemen van en beslissen over tegenvorderingen die rechtstreeks voortvloeien uit het onderwerp van geschil.
 
-#### Artikel VI
+##### Artikel VI
 
 Elke partij is verantwoordelijk voor de bezoldiging van haar scheidsman en de betaling van aanverwante kosten, alsmede voor de kosten van voorbereiding van haar eigen zaak. De kosten van bezoldiging van de voorzitter van het scheidsgerecht en alle uitgaven van algemene aard die de scheidsrechterlijke procedure met zich meebrengt worden door de Partijen gelijkelijk gedragen. Het scheidsgerecht houdt boek van alle uitgaven en verstrekt een eindafrekening.
 
-#### Artikel VII
+##### Artikel VII
 
 Elke Partij bij het Verdrag die een juridisch belang heeft bij de zaak en die door de uitspraak in dit belang kan worden getroffen, kan zich, na schriftelijke kennisgeving aan de partijen die de procedure oorspronkelijk hebben aangespannen, met toestemming van het scheidsgerecht, in de procedure voegen.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Een ingevolge de bepalingen van dit Protocol ingesteld scheidsgerecht stelt zelf zijn procedureregels vast.
 
-#### Artikel IX
+##### Artikel IX
 
 (1). Beslissingen van het scheidsgerecht, zowel wat betreft de procedure en de plaats van vergadering, als wat betreft elk voorgelegd geschil worden genomen met meerderheid van stemmen; indien een van de leden van het scheidsgerecht voor wiens benoeming de partijen verantwoordelijk waren afwezig is of zich van stemming onthoudt, staat dit geen beslissing van het scheidsgerecht in de weg. Bij staking van stemmen geeft de stem van de voorzitter de doorslag.
 
@@ -408,7 +430,7 @@ Een ingevolge de bepalingen van dit Protocol ingesteld scheidsgerecht stelt zelf
 
 (3). Afwezigheid of in gebreke zijn van een partij belemmert de voortgang van de procedure niet.
 
-#### Artikel X
+##### Artikel X
 
 (1). Het scheidsgerecht doet uitspraak binnen een termijn van vijf maanden te rekenen van zijn instelling, tenzij het besluit, indien noodzakelijk, deze termijn met niet meer dan drie maanden te verlengen. De uitspraak van het scheidsgerecht is met redenen omkleed. Zij is definitief en er staat geen beroep tegen open; de uitspraak wordt aan de Secretaris-Generaal van de Organisatie medegedeeld. De partijen voldoen onverwijld aan de uitspraak.
 
@@ -416,7 +438,7 @@ Een ingevolge de bepalingen van dit Protocol ingesteld scheidsgerecht stelt zelf
 
 ### HOOFDSTUK 1. ALGEMEEN
 
-#### Voorschrift 1. Begripsomschrijvingen
+##### Voorschrift 1. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage wordt verstaan onder:
 
@@ -778,7 +800,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 - 5. geen personen of levende dieren aan boord heeft.
 
-#### Voorschrift 2. Toepassing
+##### Voorschrift 2. Toepassing
 
 - 1. Tenzij uitdrukkelijk anders bepaald, zijn de bepalingen van deze Bijlage van toepassing op alle schepen.
 
@@ -808,7 +830,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 - .4 op het Internationaal certificaat van voorkoming van verontreiniging door olie is aangetekend dat het olietankschip uitsluitend voor bepaalde reizen wordt ingezet.
 
-#### Voorschrift 3. Vrijstellingen en ontheffingen
+##### Voorschrift 3. Vrijstellingen en ontheffingen
 
 1. Schepen zoals draagvleugelboten, luchtkussenvaartuigen, nabij de oppervlakte drijvende vaartuigen, onderwatervaartuigen, waarop, gezien hun constructie, de toepassing van de bepalingen van de [Hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=I&hoofdstuk=3&z=2026-03-01&g=2026-03-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=I&hoofdstuk=4&z=2026-03-01&g=2026-03-01) van deze Bijlage of sectie 1.2 van deel II-A van de Polar Code met betrekking tot constructie en uitrusting onredelijk of onuitvoerbaar zou zijn, kunnen door de Administratie van de toepassing van deze bepalingen worden vrijgesteld, mits de constructie en de uitrusting van het schip gelijkwaardige bescherming bieden tegen verontreiniging door olie, zulks gelet op de dienst waarvoor het is bestemd.
 
@@ -856,7 +878,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 7. De Administratie kan een UNSP-lichter vrijstelling verlenen van de vereisten van [voorschriften 6.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=I&hoofdstuk=2&artikel=6&z=2026-03-01&g=2026-03-01) en [7.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=I&hoofdstuk=2&artikel=7&z=2026-03-01&g=2026-03-01) van deze Bijlage door middel van een Internationaal certificaat van vrijstelling voor onbemande lichters zonder eigen voortstuwing voor een tijdvak van ten hoogste vijf jaar mits de UNSP-lichter aan een onderzoek is onderworpen om te bevestigen dat aan de in [voorschriften 1.40.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=I&hoofdstuk=1&artikel=1&z=2026-03-01&g=2026-03-01) tot en met 1.40.5 van deze Bijlage bedoelde vereisten is voldaan.
 
-#### Voorschrift 4. Uitzonderingen
+##### Voorschrift 4. Uitzonderingen
 
 De [voorschriften 15](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=I&hoofdstuk=3&deel=C&artikel=15&z=2026-03-01&g=2026-03-01) en [34 van deze Bijlage](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=I&hoofdstuk=4&deel=C&artikel=34&z=2026-03-01&g=2026-03-01) en paragraaf 1.1.1 van deel II-A van de Polar Code zijn niet van toepassing op:
 
@@ -870,13 +892,13 @@ De [voorschriften 15](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=I&
 
 - .3 het lozen in zee van oliehoudende stoffen met toestemming van de Administratie, indien dit geschiedt met het doel bepaalde verontreinigingsincidenten te bestrijden teneinde de schade door verontreiniging tot een minimum te beperken. Elke lozing van dien aard behoeft de goedkeuring van elke Regering binnen wier rechtsgebied beoogd wordt de lozing te doen plaatsvinden.
 
-#### Voorschrift 5. Gelijkwaardige voorzieningen
+##### Voorschrift 5. Gelijkwaardige voorzieningen
 
 - 1. De Administratie mag het aanbrengen van andere onderdelen, materialen, voorzieningen of apparatuur in een schip toestaan dan die welke in deze Bijlage worden vereist, mits dergelijke onderdelen, materialen, voorzieningen of apparatuur ten minste even doelmatig zijn als die welke in deze Bijlage worden vereist. Deze bevoegdheid van de Administratie strekt zich niet uit tot de vervanging van operationele werkwijzen ter uitvoering van de controle op het lozen van olie, als gelijkwaardig aan die vormen van ontwerp en constructie als voorgeschreven in deze Bijlage.
 
 - 2. De Administratie die het aanbrengen in een schip toestaat van andere onderdelen, materialen, voorzieningen of apparatuur dan die welke in deze Bijlage worden vereist, stelt de Organisatie in kennis van de bijzonderheden; de Organisatie zendt deze vervolgens aan de Partijen bij dit Verdrag, ter kennisneming en voor het eventueel nemen van passende maatregelen.
 
-#### Voorschrift 6. Afgifte van of aantekening op een Certificaat door de Regering van een ander land
+##### Voorschrift 6. Afgifte van of aantekening op een Certificaat door de Regering van een ander land
 
 - 1. De Regering van een land dat Partij is bij het Verdrag kan een schip op verzoek van de Administratie aan een onderzoek doen onderwerpen en, indien deze ervan overtuigd is dat aan de bepalingen van deze Bijlage wordt voldaan, een Internationaal Certificaat van Voorkoming van Verontreiniging door Olie afgeven, of machtigen tot afgifte hiervan, en in voorkomend geval een aantekening plaatsen, of machtigen tot het plaatsen van een aantekening, op dat Certificaat aan boord van het schip, overeenkomstig deze Bijlage.
 
@@ -886,11 +908,11 @@ De [voorschriften 15](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=I&
 
 - 4. Er wordt geen Internationaal Certificaat van Voorkoming van Verontreiniging door Olie afgegeven aan een schip dat gerechtigd is de vlag te voeren van een Staat die geen Partij is bij het Verdrag.
 
-#### Voorschrift 7. Vorm van het Certificaat
+##### Voorschrift 7. Vorm van het Certificaat
 
 Het Internationaal Certificaat van Voorkoming van Verontreiniging door Olie wordt opgesteld naar het model opgenomen in Aanhangsel II van deze Bijlage. Ingeval de gebruikte taal een andere is dan de Engelse of de Franse taal, gaat de tekst vergezeld van een vertaling in één van deze talen.
 
-#### Voorschrift 8. Looptijd en geldigheid van het Certificaat
+##### Voorschrift 8. Looptijd en geldigheid van het Certificaat
 
 - 1. Een Internationaal Certificaat van Voorkoming van Verontreiniging door Olie wordt afgegeven voor een door de Administratie vastgesteld tijdvak dat niet langer is dan vijf jaar.
 
@@ -928,7 +950,7 @@ Het Internationaal Certificaat van Voorkoming van Verontreiniging door Olie word
 
 - c. bij overdracht van het schip onder de vlag van een andere Staat. Er mag uitsluitend een nieuw Certificaat worden afgegeven wanneer de Regering die het nieuwe Certificaat afgeeft er ten volle van overtuigd is dat het schip voldoet aan de eisen van Voorschrift 4, vierde lid, letters a en b, van deze Bijlage. In het geval van een overdracht tussen Partijen zendt de Regering van de Partij wier vlag het schip voordien gerechtigd was te voeren, indien zij daarom wordt verzocht binnen 3 maanden nadat de overdracht heeft plaatsgevonden, zo spoedig mogelijk aan de Administratie afschriften van het Certificaat dat het schip aan boord had vóór de overdracht en, indien beschikbaar, afschriften van de desbetreffende onderzoeksrapporten.
 
-#### Voorschrift 8A. De door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
+##### Voorschrift 8A. De door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
 
 - 1. Een schip dat zich bevindt in een haven of een laad- of losplaats buitengaats van een andere Partij dient te worden geïnspecteerd door ambtenaren die door bedoelde Partij naar behoren zijn gemachtigd om te controleren of is voldaan aan de in deze Bijlage bedoelde vereisten met betrekking tot de bedrijfsvoering aan boord, wanneer er duidelijke gronden zijn om aan te nemen dat de kapitein of de leden van de bemanning niet op de hoogte zijn van de essentiële werkwijzen die aan boord moeten worden toegepast om verontreiniging door olie te voorkomen.
 
@@ -940,7 +962,7 @@ Het Internationaal Certificaat van Voorkoming van Verontreiniging door Olie word
 
 ### HOOFDSTUK II. BEPALINGEN VOOR DE BEDRIJFSVOERING AAN BOORD TER VOORKOMING VAN VERONTREINIGING
 
-#### Voorschrift 9. Regeling van het lozen van olie
+##### Voorschrift 9. Regeling van het lozen van olie
 
 - (1). Onverlet de bepalingen van de Voorschriften 10 en 11 van deze Bijlage, en onder (2) van dit Voorschrift, is elke lozing in zee van olie of oliehoudende mengsels door schepen waarop deze Bijlage van toepassing is, verboden, tenzij voldaan wordt aan alle onderstaande voorwaarden:
 
@@ -994,7 +1016,7 @@ Het Internationaal Certificaat van Voorkoming van Verontreiniging door Olie word
 
 - g. het schip heeft in bedrijf de apparatuur voor het scheiden van olie en water van een door de Administratie goedgekeurd ontwerp, met inachtneming van de door de Organisatie aanbevolen specificatie.
 
-#### Voorschrift 10. Methoden ter voorkoming van verontreiniging door olie door schepen die zich bevinden in bijzondere gebieden
+##### Voorschrift 10. Methoden ter voorkoming van verontreiniging door olie door schepen die zich bevinden in bijzondere gebieden
 
 - (1). Voor de toepassing van deze Bijlage wordt onder bijzondere gebieden verstaan: het gebied van de Middellandse Zee, de Oostzee, de Zwarte Zee, de Rode Zee, de Perzische Golf, de Golf van Aden, het Antarctisch gebied en de Noordwest-Europese wateren, die als volgt worden omschreven:
 
@@ -1094,7 +1116,7 @@ Het Internationaal Certificaat van Voorkoming van Verontreiniging door Olie word
 
 - b. De Regering van elke Partij bij het Verdrag verzekert dat alle schepen die gerechtigd zijn haar vlag te voeren, alvorens het Antarctisch gebied binnen te varen zijn uitgerust met een tank of tanks van voldoende capaciteit aan boord voor het aan boord houden van alle oliehoudend slik, vuil ballast- en tankwaswater en andere oliehoudende residuen en mengsels terwijl zij in bedrijf zijn in het gebied en regelingen hebben gesloten om deze oliehoudende residuen af te geven aan een ontvangstinrichting na het verlaten van het gebied.
 
-#### Voorschrift 11. Uitzonderingen
+##### Voorschrift 11. Uitzonderingen
 
 De Voorschriften 9 en 10 van deze Bijlage zijn niet van toepassing op:
 
@@ -1108,7 +1130,7 @@ De Voorschriften 9 en 10 van deze Bijlage zijn niet van toepassing op:
 
 - (c). het lozen in zee van oliehoudende stoffen met toestemming van de Administratie, indien dit geschiedt met het doel bepaalde verontreinigingsvoorvallen te bestrijden ten einde de schade door verontreiniging tot een minimum te beperken. Elke lozing van dien aard behoeft de goedkeuring van elke Regering binnen wier rechtsht men zich voorneemt de lozing te doen plaatsvinden.
 
-#### Voorschrift 12. Ontvangstinrichtingen
+##### Voorschrift 12. Ontvangstinrichtingen
 
 - (1). Onverlet het bepaalde in Voorschrift 10 van deze Bijlage verbindt de Regering van elke Partij zich ertoe de aanleg te verzekeren van inrichtingen bij olielaadplaatsen, in reparatiehavens, alsmede in andere havens waar schepen olieresiduen moeten lozen, bestemd voor de ontvangst van die residuen en oliehoudende mengsels welke achterblijven voor afgifte door olietankschepen en andere schepen en toereikend om te voldoen aan de behoefte van de schepen die er gebruik van maken, zonder aan deze schepen onnodig oponthoud te veroorzaken.
 
@@ -1144,7 +1166,7 @@ De Voorschriften 9 en 10 van deze Bijlage zijn niet van toepassing op:
 
 - (5). Elke Partij stelt de Organisatie in kennis van alle gevallen, waarin de inrichtingen welke ingevolge de bepalingen van dit Voorschrift zijn aangebracht, als ontoereikend worden aangemerkt, dit ter mededeling aan de betrokken Partijen.
 
-#### Voorschrift 13. Gescheiden Ballast Tanks, Aangewezen Schone Ballast Tanks en Ruwe Olie Wasmethode
+##### Voorschrift 13. Gescheiden Ballast Tanks, Aangewezen Schone Ballast Tanks en Ruwe Olie Wasmethode
 
 Behoudens het bepaalde in de Voorschriften 13C en 13D van deze Bijlage, dienen olietankschepen te voldoen aan de eisen van dit Voorschrift.
 
@@ -1190,7 +1212,7 @@ Een olietankschip gekwalificeerd als een gescheiden ballasttankschip.
 
 - 11. Elk olietankschip dat niet behoeft te worden voorzien van gescheiden ballasttanks in overeenstemming met het eerste, zevende of tiende lid van dit Voorschrift, kan echter worden gekwalificeerd als gescheiden ballasttankschip indien het schip voldoet aan de vereisten van respectievelijk het tweede en derde of vijfde lid van dit Voorschrift.
 
-#### Voorschrift 13A. Voorschriften voor Olietankschepen met Aangewezen Schone Ballast Tanks
+##### Voorschrift 13A. Voorschriften voor Olietankschepen met Aangewezen Schone Ballast Tanks
 
 - 1. Een olietankschip dat aangewezen schone ballasttanks gebruikt in overeenstemming met de vereisten van Voorschrift 13(9) of (10) van deze Bijlage, dient voldoende tankcapaciteit, uitsluitend aangewezen voor het vervoeren van schone ballast zoals omschreven in Voorschrift 1 (16) van deze Bijlage, te bezitten om te voldoen aan de vereisten in het tweede en derde lid van Voorschrift 13 van deze Bijlage.
 
@@ -1204,7 +1226,7 @@ Een olietankschip gekwalificeerd als een gescheiden ballasttankschip.
 
 - (b). een Aanvulling op het Oliejournaal, genoemd in Voorschrift 20 van deze Bijlage, en zoals dat wordt beschreven in Aanvulling 1 op Aanhangsel III van deze Bijlage. De Aanvulling moet blijvend bevestigd zijn aan het Oliejournaal.
 
-#### Voorschrift 13B. Vereisten voor de Ruwe Olie Wasmethode
+##### Voorschrift 13B. Vereisten voor de Ruwe Olie Wasmethode
 
 - 1. Elk systeem voor het wassen met ruwe olie dat vereist is ingevolge Voorschrift 13 (6) en (8) van deze Bijlage moet voldoen aan het bepaalde in dit Voorschrift.
 
@@ -1220,7 +1242,7 @@ Een olietankschip gekwalificeerd als een gescheiden ballasttankschip.
 
 - (b). een Aanvulling op het Oliejournaal genoemd in Voorschrift 20 van deze Bijlage, welke Aanvulling wordt beschreven in Aanvulling 2 op Aanhangsel III van deze Bijlage. De Aanvulling moet blijvend zijn bevestigd aan het Oliejournaal.
 
-#### Voorschrift 13C. Bestaande tankschepen ingezet op bepaalde reizen
+##### Voorschrift 13C. Bestaande tankschepen ingezet op bepaalde reizen
 
 - 1. Behoudens het bepaalde in het tweede en derde lid van dit Voorschrift, zijn Voorschrift 13 (7) tot (10) van deze Bijlage niet van toepassing op een bestaand olietankschip dat alleen wordt ingezet op bepaalde reizen tussen:
 
@@ -1244,7 +1266,7 @@ Een olietankschip gekwalificeerd als een gescheiden ballasttankschip.
 
 - 3. Elk olietankschip ingezet op bepaalde reizen moet zijn voorzien van een Aanvulling op het Oliejournaal genoemd in Voorschrift 20 van deze Bijlage, en zoals dat wordt beschreven in Aanvulling 3 op Aanhangsel III van deze Bijlage. De Aanvulling moet blijvend bevestigd zijn aan het Oliejournaal.
 
-#### Voorschrift 13D. Bestaande Olietankschepen met speciale Ballast Voorzieningen
+##### Voorschrift 13D. Bestaande Olietankschepen met speciale Ballast Voorzieningen
 
 - 1. Wanneer een bestaand olietankschip zodanig is gebouwd of op een zodanige manier wordt gebruikt dat te allen tijde is voldaan aan de vereisten van minimum diepgang en trim zoals gegeven in Voorschrift 13 (2) van deze Bijlage zonder dat ballastwater gebruikt behoeft te worden, wordt de tanker geacht te voldoen aan de eisen betreffende gescheiden ballasttanks genoemd in Voorschrift 13 (7) van deze Bijlage, mits aan alle navolgende voorwaarden is voldaan:
 
@@ -1258,7 +1280,7 @@ Een olietankschip gekwalificeerd als een gescheiden ballasttankschip.
 
 - 3. Een Administratie die een aantekening op een certificaat maakt overeenkomstig sub-lid (1) (c) van dit Voorschrift dient de bijzonderheden daarvan mee te delen aan de Organisatie ter verspreiding onder de Partijen bij dit Protocol.
 
-#### Voorschrift 13E. Beschermende plaatsing van gescheiden ballastruimten
+##### Voorschrift 13E. Beschermende plaatsing van gescheiden ballastruimten
 
 - 1. Op elk nieuw ruwe olietankschip met een draagvermogen van 20.000 ton en meer en op elk nieuw produktentankschip met een draagvermogen van 30.000 ton en meer dienen de binnen het ladingtankgedeelte aangebrachte gescheiden ballasttanks, van de vereiste inhoud die noodzakelijk is teneinde te kunnen voldoen aan de eisen van Voorschrift 13 van deze Bijlage, te zijn geplaatst in overeenstemming met het bepaalde in het tweede, derde en vierde lid van dit Voorschrift teneinde een zekere mate van bescherming te bieden tegen het uitstromen van olie ingeval van stranding of aanvaring.
 
@@ -1287,7 +1309,7 @@ Een olietankschip gekwalificeerd als een gescheiden ballasttankschip.
 
 - (b). De kleinste hoogte van elke dubbele bodemtank of ruimte moet gelijk zijn aan B/15 of 2 m, welke van deze waarden de kleinste is. Indien de aanwezige hoogte geringer is mag de betreffende (dubbele) bodemtank of ruimte bij de berekening van het bescherming biedende oppervlak „PAs” niet in rekening worden gebracht.
 
-#### VOORSCHRIFT 13F. Voorkoming van verontreiniging door olie in geval van aanvaring of stranding
+##### VOORSCHRIFT 13F. Voorkoming van verontreiniging door olie in geval van aanvaring of stranding
 
 1. Dit Voorschrift is van toepassing op olietankschepen met een draagvermogen van 600 ton massa of meer:
 
@@ -1361,7 +1383,7 @@ Figuur 2 - Grenslijnen van ladingtanks voor de toepassing van lid 4
 
 Figuur 3 - Grenslijnen van ladingtanks voor de toepassing van lid 7
 
-#### Voorschrift 13G. Voorkoming van verontreiniging door olie door ongevallen – maatregelen voor bestaande olietankschepen
+##### Voorschrift 13G. Voorkoming van verontreiniging door olie door ongevallen – maatregelen voor bestaande olietankschepen
 
 - 1. Tenzij uitdrukkelijk anders is bepaald, is dit Voorschrift:
 
@@ -1419,7 +1441,7 @@ Figuur 3 - Grenslijnen van ladingtanks voor de toepassing van lid 7
 
 - b. Een Partij bij het Verdrag heeft het recht de toegang tot onder haar rechtsmacht vallende havens of offshoreterminals te weigeren van olietankschepen die varen in overeenstemming met de bepalingen van: i. het vijfde lid van dit Voorschrift na de verjaardatum van de oplevering van het schip in 2015; of ii. het zevende lid van dit Voorschrift.
 
-#### Voorschrift 14. Gescheiden houden van brandstofolie en waterballast
+##### Voorschrift 14. Gescheiden houden van brandstofolie en waterballast
 
 - (1). Behalve zoals bepaald in lid (2) van dit Voorschrift, dient aan boord van nieuwe schepen anders dan olietankschepen, met een bruto tonnage van 4000 ton en meer en aan boord van nieuwe olietankschepen met een bruto tonnage van 150 ton en meer, geen ballastwater in enige brandstofolietank te worden vervoerd.
 
@@ -1427,7 +1449,7 @@ Figuur 3 - Grenslijnen van ladingtanks voor de toepassing van lid 7
 
 - (3). Alle andere schepen dienen zich, voor zover redelijk en praktisch uitvoerbaar, te houden aan de vereisten van paragraaf (1) van dit Voorschrift.
 
-#### Voorschrift 15. Het aan boord houden van olie
+##### Voorschrift 15. Het aan boord houden van olie
 
 - (1). Onverlet het bepaalde in lid (5) en lid (6) van dit Voorschrift worden olietankschepen met een bruto tonnage van 150 ton en meer uitgerust met voorzieningen overeenkomstig de vereisten van lid (2) en lid (3) van dit Voorschrift, met dien verstande dat, in het geval van bestaande tankschepen, de vereisten inzake bewakings- en regelsystemen voor lozingen en voorzieningen voor sloptanks drie jaren na de datum van inwerkingtreding van dit Verdrag van toepassing zullen zijn.
 
@@ -1457,7 +1479,7 @@ Figuur 3 - Grenslijnen van ladingtanks voor de toepassing van lid 7
 
 - (7). De vereisten onder lid (1), lid (2) en lid (3) van dit Voorschrift zijn niet van toepassing op olietankschepen die asfalt vervoeren; de naleving van de regeling van het lozen van asfalt krachtens Voorschrift 9 van deze Bijlage dient te geschieden door het aan boord houden van asfaltresiduen en het afgeven van alle verontreinigd waswater aan ontvangstinrichtingen.
 
-#### Voorschrift 16. Bewakings- en regelsysteem voor olielozingen en apparatuur voor het filtreren van olie
+##### Voorschrift 16. Bewakings- en regelsysteem voor olielozingen en apparatuur voor het filtreren van olie
 
 1. Elk schip met een bruto-inhoud van 400 ton of meer maar minder dan 10.000 ton dient te worden uitgerust met apparatuur voor het filtreren van olie die voldoet aan lid 4 van dit Voorschrift. Elk zodanig schip dat grote hoeveelheden brandstof vervoert, dient te voldoen aan lid 2 van dit Voorschrift of aan lid 1 van Voorschrift 14.
 
@@ -1483,7 +1505,7 @@ Figuur 3 - Grenslijnen van ladingtanks voor de toepassing van lid 7
 
 6. Voor schepen die voor 6 juli 1993 worden opgeleverd, worden de vereisten van dit Voorschrift van toepassing op 6 juli 1998, mits deze schepen kunnen werken met olie-waterafscheiders (100 p.p.m apparatuur).
 
-#### Voorschrift 17. Tanks voor olieresiduen (slik)
+##### Voorschrift 17. Tanks voor olieresiduen (slik)
 
 - (1). Elk schip met een bruto tonnage van 400 ton en meer dient te worden uitgerust met een of meer tanks met een capaciteit die, gezien het type machines en de lengte van de reis, toereikend is voor het opvangen van olieresiduen (slik) die niet kunnen worden behandeld op enige andere wijze overeenkomstig de voorschriften van deze Bijlage, bijvoorbeeld residuen ontstaan bij het zuiveren van brandstof en smeeroliën en door olielekkages in de machineruimten.
 
@@ -1491,7 +1513,7 @@ Figuur 3 - Grenslijnen van ladingtanks voor de toepassing van lid 7
 
 - (3). Pijpleidingen naar en vanaf tanks voor slik dienen geen rechtstreekse aansluiting overboord te hebben behalve de in Voorschrift 19 bedoelde standaardaansluiting voor afgifte.
 
-#### Voorschrift 18. Inrichtingen aan boord van olietankschepen voor pompen, pijpleidingen en lozen
+##### Voorschrift 18. Inrichtingen aan boord van olietankschepen voor pompen, pijpleidingen en lozen
 
 - (1). Aan boord van elk olietankschip dient op het open dek, aan beide zijden van het schip, een walaansluiting voor afgifte te zijn opgesteld, ter koppeling aan ontvangstinrichtingen voor afgifte van verontreinigd ballastwater of van door olie verontreinigd water.
 
@@ -1513,7 +1535,7 @@ Figuur 3 - Grenslijnen van ladingtanks voor de toepassing van lid 7
 
 - (6). Elk bestaand olietankschip dat moet zijn voorzien van gescheiden ballasttanks, of moet zijn uitgerust met een systeem voor het wassen met ruwe olie, of aangewezen schone ballasttanks toepast moet voldoen aan de bepalingen onder b van het vijfde lid van dit Voorschrift.
 
-#### Voorschrift 19. Standaardaansluiting voor afgifte
+##### Voorschrift 19. Standaardaansluiting voor afgifte
 
 Ten einde leidingen van ontvangstinrichtingen te kunnen aansluiten op de scheepspijpleiding voor de afgifte van residuen afkomstig van machinekamerlensruimten, dienen beide leidingen te zijn uitgerust met een standaardaansluiting voor afgifte, overeenkomstig de volgende tabel:
 
@@ -1528,7 +1550,7 @@ Ten einde leidingen van ontvangstinrichtingen te kunnen aansluiten op de scheeps
 
 De flens is zo ontworpen dat er pijpleidingen op kunnen worden aangesloten met een inwendige diameter van maximaal 125 mm; de flens dient van staal of ander gelijkwaardig materiaal te zijn met een vlakke voorzijde. Deze flens dient, tezamen met een pakking van oliebestendig materiaal, geschikt te zijn voor een werkdruk van 6 kg/cm2.
 
-#### Voorschrift 20. Oliejournaal
+##### Voorschrift 20. Oliejournaal
 
 - (1). Elk olietankschip met een bruto-tonnage van 150 ton en meer en elk schip, geen olietankschip zijnde, met een bruto tonnage van 400 ton en meer, moet zijn voorzien van een Oliejournaal dat, hetzij als onderdeel van het scheepsdagboek, hetzij anderszins, moet zijn ingericht volgens het model zoals aangegeven in Aanhangsel III bij deze Bijlage.
 
@@ -1578,7 +1600,7 @@ De flens is zo ontworpen dat er pijpleidingen op kunnen worden aangesloten met e
 
 - (6). De bevoegde instantie van de regering van een Verdragsstaat heeft het recht het Oliejournaal te controleren aan boord van elk schip waarop deze Bijlage van toepassing is, terwijl het schip zich in een haven of een laad- of losplaats buitengaats van dat land bevindt, en een afschrift te maken van elke aantekening in dat journaal en van de kapitein te verlangen dat deze het afschrift waarmerkt als een waarheidsgetrouw afschrift van de betrokken aantekening. Elk aldus vervaardigd afschrift dat de kapitein van het schip als een waarheidsgetrouw afschrift van een aantekening in het Oliejournaal van het schip heeft gewaarmerkt, moet bij alle gerechtelijke procedures worden toegelaten als bewijsstuk voor de in die aantekening vermelde feiten. De controle van een Oliejournaal en het maken van een waarheidsgetrouw afschrift door de bevoegde instantie ingevolge de bepalingen van deze paragraaf dient zo snel mogelijk te geschieden zonder aan het schip onnodig oponthoud te veroorzaken.
 
-#### Voorschrift 21. Voorkoming van verontreiniging door olie door olietankschepen die zware oliesoorten als lading vervoeren
+##### Voorschrift 21. Voorkoming van verontreiniging door olie door olietankschepen die zware oliesoorten als lading vervoeren
 
 - 1. Dit voorschrift is:
 
@@ -1632,7 +1654,7 @@ De flens is zo ontworpen dat er pijpleidingen op kunnen worden aangesloten met e
 
 ### HOOFDSTUK III. BEPALINGEN TER BEPERKING VAN OLIEVERONTREINIGING DOOR OLIETANKSCHEPEN ALS GEVOLG VAN BESCHADIGINGEN VAN DE ZIJDEN EN HET VLAK VAN HET SCHIP
 
-#### Voorschrift 22. Bescherming van het bodemvlak van de pompkamer
+##### Voorschrift 22. Bescherming van het bodemvlak van de pompkamer
 
 - 1. Dit voorschrift is van toepassing op olietankschepen met een draagvermogen van 5000 ton of meer, gebouwd op of na 1 januari 2007.
 
@@ -1648,7 +1670,7 @@ De flens is zo ontworpen dat er pijpleidingen op kunnen worden aangesloten met e
 
 - 5. Wanneer door het vollopen van de pompkamer het ballast- of ladingpompsysteem niet buiten werking zou raken behoeft, niettegenstaande het bepaalde in de leden 2 en 3 van dit voorschrift, geen dubbele bodem te worden aangebracht.
 
-#### Voorschrift 23. Door ongevallen veroorzaakte uitstroming van olie
+##### Voorschrift 23. Door ongevallen veroorzaakte uitstroming van olie
 
 - 1. Dit voorschrift is van toepassing op olietankschepen opgeleverd op of na 1 januari 2010, als omschreven in [voorschrift 1.28.8](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=I&hoofdstuk=1&artikel=1&z=2026-03-01&g=2026-03-01).
 
@@ -1912,7 +1934,7 @@ De flens is zo ontworpen dat er pijpleidingen op kunnen worden aangesloten met e
 
 - .2 Vermindering van de olie-uitstroom door gebruik van een noodsysteem voor het snel overpompen van lading of een ander systeem om de olie-uitstroom bij ongevallen te verminderen mag alleen in de berekening worden meegenomen indien de doeltreffendheid en de veiligheidsaspecten van het systeem door de Organisatie zijn goedgekeurd. Voorlegging ter goedkeuring dient te geschieden in overeenstemming met de bepalingen van de in [voorschrift 19.5](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=I&hoofdstuk=4&deel=A&artikel=19&z=2026-03-01&g=2026-03-01) bedoelde Richtlijnen.
 
-#### Voorschrift 24. Veronderstellingen met betrekking tot schade
+##### Voorschrift 24. Veronderstellingen met betrekking tot schade
 
 - 1. Voor de berekening van hypothetische olie-uitstroom uit olietankschepen in overeenstemming met de [voorschriften 25](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=I&hoofdstuk=4&deel=A&artikel=19&z=2026-03-01&g=2026-03-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=I&hoofdstuk=4&deel=A&artikel=26&z=2026-03-01&g=2026-03-01) worden drie grootheden van de mate van beschadiging van een parallellepipedum in de zijde en aan het vlak van het schip als volgt aangenomen. In geval van schade aan het vlak worden twee voorwaarden gesteld, die afzonderlijk op de aangegeven gedeelten van het olietankschip moeten worden toegepast.
 
@@ -1933,7 +1955,7 @@ De flens is zo ontworpen dat er pijpleidingen op kunnen worden aangesloten met e
 
 - 2. Waar de in dit voorschrift vermelde symbolen in dit Hoofdstuk voorkomen, hebben zij de betekenis als omschreven in dit voorschrift.
 
-#### Voorschrift 25. Hypothetische uitstroming van olie
+##### Voorschrift 25. Hypothetische uitstroming van olie
 
 - 1. De hypothetische uitstroming van olie in geval van schade in de zijde van het schip (Oc) en aan het vlak van het schip (Os) dient ten aanzien van beschadigde afdelingen op alle mogelijke plaatsen over de gehele lengte van het schip, in de mate als omschreven in [voorschrift 24](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=I&hoofdstuk=4&deel=A&artikel=24&z=2026-03-01&g=2026-03-01) van deze Bijlage, te worden berekend met de volgende formules:
 
@@ -1969,7 +1991,7 @@ De flens is zo ontworpen dat er pijpleidingen op kunnen worden aangesloten met e
 
 - 6. Dit voorschrift is niet van toepassing op olietankschepen opgeleverd op of na 1 januari 2010, als omschreven in [voorschrift 1.28.8](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=I&hoofdstuk=1&artikel=1&z=2026-03-01&g=2026-03-01).
 
-#### Voorschrift 25A. Stabiliteit in onbeschadigde toestand
+##### Voorschrift 25A. Stabiliteit in onbeschadigde toestand
 
 (1). Dit voorschrift is van toepassing op olietankschepen met een draagvermogen van 5.000 tonmassa of meer:
 
@@ -2023,7 +2045,7 @@ De flens is zo ontworpen dat er pijpleidingen op kunnen worden aangesloten met e
 
 ### HOOFDSTUK IV. DE VOORKOMING VAN VERONTREINIGING ALS GEVOLG VAN VOORVALLEN VAN OLIEVERONTREINIGING
 
-#### Voorschrift 26. Indeling en beperking van de grootte van ladingtanks
+##### Voorschrift 26. Indeling en beperking van de grootte van ladingtanks
 
 - 1. Behoudens het bepaalde in het onderstaande lid 7 dient:
 
@@ -2071,7 +2093,7 @@ De flens is zo ontworpen dat er pijpleidingen op kunnen worden aangesloten met e
 
 - 7. Dit voorschrift is niet van toepassing op olietankschepen opgeleverd op of na 1 januari 2010, als omschreven in [voorschrift 1.28.8](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=I&hoofdstuk=1&artikel=1&z=2026-03-01&g=2026-03-01).
 
-#### Voorschrift 1. Omschrijvingen
+##### Voorschrift 1. Omschrijvingen
 
 Voor de toepassing van deze Bijlage:
 
@@ -2119,7 +2141,7 @@ Voor de toepassing van deze Bijlage:
 
 - (14). ,Verjaardatum’ betekent de dag en de maand van elk jaar overeenkomend met de vervaldatum van het Internationaal Certificaat betreffende Voorkoming van Verontreiniging voor het Vervoer van Schadelijke Vloeistoffen in bulk.
 
-#### Voorschrift 2. Toepassing
+##### Voorschrift 2. Toepassing
 
 - (1). Tenzij uitdrukkelijk anders bepaald, zijn de bepalingen van deze Bijlage van toepassing op alle schepen die schadelijke vloeistoffen in bulk vervoeren.
 
@@ -2139,7 +2161,7 @@ Voor de toepassing van deze Bijlage:
 
 - b. De Administratie die uit hoofde van dit lid een versoepeling van de toepassing van een wijziging toestaat, dient bij de Organisatie een rapport in dat bijzonderheden bevat van het desbetreffende schip of de desbetreffende schepen, de vervoerde ladingen, de handelstak waarin elk schip wordt gebruikt, en de gronden voor de versoepeling, ter verspreiding onder de Partijen bij het Verdrag te hunner informatie en ten behoeve van eventuele passende maatregelen.
 
-#### Voorschrift 3. Indeling in categorieën en opsomming van schadelijke vloeistoffen
+##### Voorschrift 3. Indeling in categorieën en opsomming van schadelijke vloeistoffen
 
 - (1). Voor de toepassing van de Voorschriften van deze Bijlage worden schadelijke vloeistoffen ingedeeld in de volgende vier categorieën:
 
@@ -2157,7 +2179,7 @@ Voor de toepassing van deze Bijlage:
 
 - (4). Wanneer wordt voorgesteld een vloeistof in bulk te vervoeren, die niet in een categorie is ingedeeld ingevolge paragraaf (1) van dit Voorschrift of die niet is beoordeeld zoals bedoeld in Voorschrift 4 (1) van deze Bijlage, komen de Regeringen van de Partijen bij dit Verdrag die bij het voorgestelde vervoer zijn betrokken een voorlopige beoordeling overeen voor het voorgestelde vervoer, zulks op grond van de richtlijnen bedoeld in paragraaf (2) van dit Voorschrift. Totdat de betrokken Regeringen volledige overeenstemming hebben bereikt, wordt de stof vervoerd onder de strengste van de voorgestelde voorwaarden. Zo spoedig mogelijk, doch niet later dan negentig dagen na het eerste vervoer, stelt de Administratie de Organisatie daarvan in kennis en verschaft zij nadere bijzonderheden over de stof en voorlopige beoordeling ter onverwijlde toezending aan alle Partijen te hunner inlichting en overweging. De Regering van elke Partij heeft negentig dagen daaraanvolgend de tijd om haar opmerkingen aan de Organisatie toe te zenden, met betrekking tot de beoordeling van de stof.
 
-#### Voorschrift 4. Overige vloeistoffen
+##### Voorschrift 4. Overige vloeistoffen
 
 - (1). De stoffen waarnaar wordt verwezen in Aanhangsel III bij deze Bijlage zijn beoordeeld, en hierbij is vastgesteld dat zij niet vallen onder categorie A, B, C of D, zoals omschreven in Voorschrift 3(1) van deze Bijlage, aangezien zij op het ogenblik niet schadelijk worden geacht voor de gezondheid van de mens, de rijkdommen van de zee, de recreatiemogelijkheden en ander rechtmatig gebruik van de zee, wanneer zij in zee worden geloosd als gevolg van het schoonmaken van tanks of het verwijderen van ballast.
 
@@ -2165,7 +2187,7 @@ Voor de toepassing van deze Bijlage:
 
 - (3). De bepalingen van deze Bijlage zijn niet van toepassing op het lozen in zee van schone ballast of gescheiden ballast.
 
-#### Voorschrift 5. Het lozen van schadelijke vloeistoffen
+##### Voorschrift 5. Het lozen van schadelijke vloeistoffen
 
 Behoudens het bepaalde in lid 14 van dit Voorschrift en van Voorschrift 6 van deze Bijlage,
 
@@ -2259,7 +2281,7 @@ Behoudens het bepaalde in lid 14 van dit Voorschrift en van Voorschrift 6 van de
 
 - 14. Wat het Antarctisch gebied betreft, zijn lozingen in de zee van schadelijke vloeistoffen of mengsels die zodanige stoffen bevatten verboden.
 
-#### Voorschrift 5A. Pompen, pijpleidingen en voorzieningen voor het lossen
+##### Voorschrift 5A. Pompen, pijpleidingen en voorzieningen voor het lossen
 
 (1). Elk schip dat op of na 1 juli 1986 is gebouwd, dient te zijn voorzien van pompen en pijpleidingen, ten einde te verzekeren, door beproeving onder gunstige omstandigheden voor het pompen, dat bij elke tank die bestemd is voor het vervoer van een stof van Categorie B, geen restanten van meer dan 0,1 kubieke meter is achtergebleven in de met de tank verbonden pijpleidingen en in de onmiddellijke nabijheid van de aanzuigopening van deze tank.
 
@@ -2309,7 +2331,7 @@ Behoudens het bepaalde in lid 14 van dit Voorschrift en van Voorschrift 6 van de
 
 - (e). in het geval van schepen die reizen maken naar havens of losen laadplaatsen onder de rechtsmacht van andere Staten die Partij bij dit Verdrag zijn, de Administratie bijzonderheden omtrent de vrijstelling aan de Organisatie meedeelt en de Organisatie deze gegevens aan de Partijen bij dit Verdrag toezendt om daarvan kennis te nemen en eventueel passende maatregelen te treffen.
 
-#### Voorschrift 6. Uitzonderingen
+##### Voorschrift 6. Uitzonderingen
 
 Voorschrift 5 van deze Bijlage is niet van toepassing op:
 
@@ -2323,7 +2345,7 @@ Voorschrift 5 van deze Bijlage is niet van toepassing op:
 
 - (c). het lozen in zee van schadelijke vloeistoffen of mengsels die dergelijke stoffen bevatten, welke zijn goedgekeurd door de Administratie, indien dit gebeurt ter bestrijding van bepaalde gevallen van verontreiniging ten einde de schade door de verontreiniging te beperken. Elke lozing van dien aard behoeft de goedkeuring van elke Regering binnen wier rechtsgebied wordt overwogen de lozing te laten plaatsvinden.
 
-#### Voorschrift 7. Ontvangstvoorzieningen en voorzieningen voor laad- en losplaatsen en overslagplaatsen
+##### Voorschrift 7. Ontvangstvoorzieningen en voorzieningen voor laad- en losplaatsen en overslagplaatsen
 
 - (1). De Regering van elke Partij bij dit Verdrag verbindt zich ertoe, zorg te dragen voor de installatie van ontvangstinrichtingen al naar de behoeften van schepen, die gebruik maken van haar havens, laad- en losplaatsen of scheepsreparatiehavens, en wel als volgt:
 
@@ -2337,7 +2359,7 @@ Voorschrift 5 van deze Bijlage is niet van toepassing op:
 
 - (4). Elke Partij geeft kennis aan de Organisatie, ter mededeling aan de betrokken Partijen, van ieder geval waarin wordt beweerd dat de krachtens het bepaalde in lid (1) van dit Voorschrift vereiste inrichtingen of de krachtens het bepaalde in lid (3) van dit Voorschrift vereiste voorzieningen ontoereikend zijn.
 
-#### Voorschrift 8. Maatregelen ten behoeve van het toezicht
+##### Voorschrift 8. Maatregelen ten behoeve van het toezicht
 
 - (a). De Regering van elke Partij bij dit Verdrag benoemt of machtigt inspecteurs, belast met de zorg voor de naleving van dit Voorschrift. De inspecteurs oefenen toezicht uit overeenkomstig de door de Organisatie opgestelde controleprocedures.
 
@@ -2431,7 +2453,7 @@ Voorschrift 5 van deze Bijlage is niet van toepassing op:
 
 (9). Alle restanten die aan boord worden gehouden in een sloptank, met inbegrip van lenswater uit ladingpompkamers, en die een stof van categorie A bevatten of, binnen een bijzonder gebied, een stof van categorie A of categorie B bevatten, dienen te worden afgegeven aan een ontvangstvoorziening overeenkomstig het bepaalde in Voorschrift 5(1), (7) of (8) van deze Bijlage, al naar gelang van toepassing.
 
-#### Voorschrift 9. Ladingjournaal
+##### Voorschrift 9. Ladingjournaal
 
 - (1). Elk schip waarop deze Bijlage van toepassing is dient te zijn voorzien van een Ladingjournaal, al dan niet als onderdeel van het voorgeschreven scheepsdagboek, in de vorm als omschreven in Aanhangsel IV bij deze Bijlage.
 
@@ -2463,7 +2485,7 @@ Voorschrift 5 van deze Bijlage is niet van toepassing op:
 
 - (7). De bevoegde instantie van de Regering van een Partij heeft het recht het Ladingjournaal in te zien aan boord van alle schepen waarop deze Bijlage van toepassing is, terwijl het schip zich in een van haar havens bevindt, en een afschrift te maken van elke aantekening in dat journaal en van de kapitein van het schip te verlangen, het afschrift te waarmerken als een waarheidsgetrouw afschrift van de betrokken aantekening. Elk aldus vervaardigd afschrift, dat de kapitein van het schip als een waarheidsgetrouw afschrift van een aantekening in het Ladingjournaal van het schip heeft gewaarmerkt, zal bij alle gerechtelijke procedures worden toegelaten als bewijsstuk voor de in die aantekening vermelde feiten. De inspectie van een Ladingjournaal en de vervaardiging van een gewaarmerkt afschrift door de bevoegde instantie ingevolge het bepaalde in deze paragraaf dienen zo snel mogelijk te geschieden zonder het schip onnodig oponthoud te veroorzaken.
 
-#### Voorschrift 10. Onderzoeken
+##### Voorschrift 10. Onderzoeken
 
 - 1. Schepen die schadelijke vloeistoffen in bulk vervoeren, zijn onderworpen aan de hieronder aangegeven onderzoeken:
 
@@ -2499,7 +2521,7 @@ Voorschrift 5 van deze Bijlage is niet van toepassing op:
 
 - c. Wanneer een schip een ongeval overkomt, of gebreken worden geconstateerd die de hechtheid van het schip of de doelmatigheid of volledigheid van de uitrusting, vallende onder de bepalingen van deze Bijlage, in belangrijke mate beïnvloeden, dient de kapitein of de eigenaar van het schip de Administratie, de erkende organisatie of de aangewezen deskundige die verantwoordelijk is voor de afgifte van het betrokken Certificaat zo spoedig mogelijk in te lichten. In een dergelijk geval dient door laatstgenoemden te worden onderzocht of een onderzoek als bedoeld in het eerste lid van dit Voorschrift noodzakelijk is. Indien het schip zich in een haven van een andere Partij bevindt, dient de kapitein of de eigenaar eveneens onmiddellijk de bevoegde autoriteiten van de havenstaat in te lichten en dient de aangewezen deskundige of de erkende organisatie na te gaan of een dergelijke melding heeft plaatsgevonden.
 
-#### Voorschrift 11. Afgifte van of aantekening op het Certificaat
+##### Voorschrift 11. Afgifte van of aantekening op het Certificaat
 
 - 1. Na een eerste onderzoek of een hernieuwd onderzoek overeenkomstig de bepalingen van Voorschrift 10 van deze Bijlage wordt een Internationaal Certificaat betreffende Voorkoming van Verontreiniging voor het Vervoer van Schadelijke Vloeistoffen in bulk afgegeven aan elk schip dat schadelijke vloeistoffen in bulk vervoert en dat reizen maakt naar havens of laad- of losplaatsen buitengaats binnen de rechtsmacht van andere Partijen bij het Verdrag.
 
@@ -2519,7 +2541,7 @@ Voorschrift 5 van deze Bijlage is niet van toepassing op:
 
 - 5. Niettegenstaande andere bepalingen van de wijzigingen op deze Bijlage die bij resolutie MEPC.39(29) zijn aangenomen door de Commissie voor de Bescherming van het Mariene milieu blijft een Internationaal Certificaat betreffende Voorkoming van Verontreiniging voor het Vervoer van Schadelijke Vloeistoffen in bulk dat geldig is wanneer deze wijzigingen van kracht worden, geldig totdat de geldigheid afloopt op grond van deze Bijlage zoals deze luidt voordat de wijzigingen van kracht zijn geworden.
 
-#### Voorschrift 12. Looptijd en geldigheid van het Certificaat
+##### Voorschrift 12. Looptijd en geldigheid van het Certificaat
 
 - 1. Een Internationaal Certificaat betreffende Voorkoming van Verontreiniging voor het Vervoer van Schadelijke Vloeistoffen in bulk wordt afgegeven voor een door de Administratie vastgesteld tijdvak dat niet langer is dan vijf jaar.
 
@@ -2557,7 +2579,7 @@ Voorschrift 5 van deze Bijlage is niet van toepassing op:
 
 - c. bij overdracht van het schip onder de vlag van een andere Staat. Er mag uitsluitend een nieuw Certificaat worden afgegeven wanneer de Regering die het nieuwe Certificaat afgeeft er ten volle van overtuigd is dat het schip voldoet aan de eisen van Voorschrift 10, vierde lid, letters a en b, van deze Bijlage. In het geval van een overdracht tussen Partijen zendt de Regering van de Partij wier vlag het schip voordien gerechtigd was te voeren, indien zij daarom wordt verzocht binnen 3 maanden nadat de overdracht heeft plaatsgevonden, zo spoedig mogelijk aan de Administratie afschriften van het Certificaat dat het schip aan boord had vóór de overdracht en, indien beschikbaar, afschriften van de desbetreffende onderzoeksrapporten.
 
-#### Voorschrift 12A. Bescherming van brandstofolietanks
+##### Voorschrift 12A. Bescherming van brandstofolietanks
 
 1. Dit voorschrift is van toepassing op alle schepen met een totale brandstofoliecapaciteit van 600 m3 en meer waarvan de oplevering plaatsvindt op of na 1 augustus 2010, zoals omschreven in [voorschrift 1.28.9](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=I&hoofdstuk=1&artikel=1&z=2026-03-01&g=2026-03-01) van deze Bijlage.
 
@@ -2749,7 +2771,7 @@ De minimumwaarde van w = 1,0 m.
 
 12. Bij het goedkeuren van het ontwerp en de bouw van schepen die moeten worden gebouwd in overeenstemming met de bepalingen van dit voorschrift, houden Administraties naar behoren rekening met de algemene veiligheidsaspecten, met inbegrip van de noodzaak van onderhoud en inspecties van zij- en dubbele-bodemtanks of -ruimten.
 
-#### Voorschrift 13. Eisen ter beperking van verontreiniging door een ongeval
+##### Voorschrift 13. Eisen ter beperking van verontreiniging door een ongeval
 
 (1). Van schepen die schadelijke vloeistoffen van categorie A, B of C in bulk vervoeren, dienen het ontwerp, de bouw, de uitrusting en de bedrijfsvoering zodanig te zijn, dat het ongecontroleerd lozen van deze stoffen in zee tot een minimum wordt beperkt.
 
@@ -2771,7 +2793,7 @@ De minimumwaarde van w = 1,0 m.
 
 (4). Met betrekking tot andere schepen dan chemicaliëntankschepen die schadelijke stoffen van categorie A, B of C in bulk vervoeren, dient de Administratie passende maatregelen gebaseerd op door de Organisatie vastgestelde Richtlijnen te nemen, ten einde te verzekeren dat aan het bepaalde in lid (1) van dit Voorschrift wordt voldaan.
 
-#### Voorschrift 14. Vervoer en lozing van olieachtige stoffen
+##### Voorschrift 14. Vervoer en lozing van olieachtige stoffen
 
 Schadelijke vloeistoffen die blijkens Aanhangsel II van deze Bijlage onder categorie C of D vallen en door de Organisatie worden aangemerkt als olieachtige stoffen aan de hand van de door de Organisatie opgestelde criteria, mogen niettegenstaande het bepaalde in andere Voorschriften van deze Bijlage worden vervoerd in een in Bijlage I van het Verdrag omschreven olietankschip en worden geloosd in overeenstemming met het bepaalde in Bijlage I bij dit Verdrag, mits aan alle volgende voorwaarden wordt voldaan:
 
@@ -2787,7 +2809,7 @@ Schadelijke vloeistoffen die blijkens Aanhangsel II van deze Bijlage onder categ
 
 - (d). de oliegehaltemeter in het bewakings- en regelsysteem van het schip voor olielozingen wordt door de Administratie goedgekeurd voor gebruik bij de controle van de te vervoeren olieachtige stoffen.
 
-#### Voorschrift 15. De door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
+##### Voorschrift 15. De door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
 
 - 1. Een schip dat zich bevindt in een haven van een andere Partij dient te worden geïnspecteerd door ambtenaren die door bedoelde Partij naar behoren zijn gemachtigd om te controleren of is voldaan aan de in deze Bijlage bedoelde vereisten met betrekking tot de bedrijfsvoering aan boord, wanneer er duidelijke gronden zijn om aan te nemen dat de kapitein of de leden van de bemanning niet op de hoogte zijn van de essentiële werkwijzen die aan boord moeten worden toegepast om verontreiniging door schadelijke vloeistoffen te voorkomen.
 
@@ -2797,7 +2819,7 @@ Schadelijke vloeistoffen die blijkens Aanhangsel II van deze Bijlage onder categ
 
 - 4. Geen enkele bepaling van dit voorschrift mag zo worden uitgelegd dat daardoor de rechten en plichten van een Partij die de uitdrukkelijk in dit Verdrag genoemde vereisten met betrekking tot de bedrijfsvoering aan boord controleert, worden beperkt.
 
-#### Voorschrift 16. Scheepsnoodplan voor verontreiniging van de zee door schadelijke vloeistoffen
+##### Voorschrift 16. Scheepsnoodplan voor verontreiniging van de zee door schadelijke vloeistoffen
 
 - 1. Elk schip met een brutotonnage van 150 ton of meer bestemd voor het vervoer in bulk van schadelijke vloeistoffen dient een door de Administratie goedgekeurd scheepsnoodplan voor verontreiniging van de zee door schadelijke vloeistoffen aan boord te hebben. Dit vereiste is uiterlijk 1 januari 2003 van toepassing op al deze schepen.
 
@@ -2813,7 +2835,7 @@ Schadelijke vloeistoffen die blijkens Aanhangsel II van deze Bijlage onder categ
 
 - 3. In het geval van schepen waarop Voorschrift 26 van Bijlage I bij het Verdrag ook van toepassing is, kan een dergelijk plan gecombineerd worden met het scheepsnoodplan voor olieverontreiniging dat vereist is ingevolge Voorschrift 26 van Bijlage I bij het Verdrag. In dit geval luidt de titel van het plan „Rampenplan aan boord van schepen voor verontreiniging van de zee."
 
-#### Voorschrift 1. Toepassing
+##### Voorschrift 1. Toepassing
 
 1. Tenzij uitdrukkelijk anders is bepaald, zijn de voorschriften van deze Bijlage van toepassing op alle schepen die schadelijke stoffen vervoeren in verpakte vorm.
 
@@ -2831,11 +2853,11 @@ Schadelijke vloeistoffen die blijkens Aanhangsel II van deze Bijlage onder categ
 
 5. De vereisten van deze Bijlage gelden niet voor voorraden en uitrusting aan boord van schepen.
 
-#### Voorschrift 2. Verpakking
+##### Voorschrift 2. Verpakking
 
 Verpakkingen dienen, met het oog op hun specifieke inhoud, toereikend te zijn om het gevaar voor het mariene milieu tot een minimum te beperken.
 
-#### Voorschrift 3. Merken en etiketteren
+##### Voorschrift 3. Merken en etiketteren
 
 1. Verpakkingen die een schadelijke stof bevatten, dienen duurzaam te zijn gemerkt met de juiste technische benaming (handelsnamen alleen mogen niet worden gebruikt) en dienen voorts duurzaam te zijn gemerkt of geëtiketteerd om aan te geven dat de stof een de zee verontreinigende stof is. Een dergelijke aanduiding dient waar mogelijk te worden aangevuld met andere gegevens, bijvoorbeeld door vermelding van het desbetreffende nummer van de Verenigde Naties.
 
@@ -2843,7 +2865,7 @@ Verpakkingen dienen, met het oog op hun specifieke inhoud, toereikend te zijn om
 
 3. Verpakkingen die kleine hoeveelheden schadelijke stoffen bevatten, kunnen van de vereisten inzake merken worden vrijgesteld.*Verwezen wordt naar de specifieke vrijstellingen bepaald in de Internationale Code voor Gevaarlijke Stoffen (IMDG-Code).
 
-#### Voorschrift 4. Begeleidende papieren**De verwijzing naar „begeleidende papieren” in dit voorschrift sluit niet het gebruik uit van technieken voor toezending via elektronische gegevensverwerking (EDP) en elektronische uitwisseling van gegevens (EDI) ter ondersteuning van de gegevens op papier.
+##### Voorschrift 4. Begeleidende papieren**De verwijzing naar „begeleidende papieren” in dit voorschrift sluit niet het gebruik uit van technieken voor toezending via elektronische gegevensverwerking (EDP) en elektronische uitwisseling van gegevens (EDI) ter ondersteuning van de gegevens op papier.
 
 1. In alle documenten die betrekking hebben op het vervoer over zee van schadelijke stoffen, waarin dergelijke stoffen met een naam worden aangeduid, dient de juiste technische benaming van elke stof te worden gebruikt (handelsnamen alleen mogen niet worden gebruikt) en dient de stof voorts te worden geïdentificeerd door toevoeging van de woorden „DE ZEE VERONTREINIGENDE STOF”.
 
@@ -2853,21 +2875,21 @@ Verpakkingen dienen, met het oog op hun specifieke inhoud, toereikend te zijn om
 
 4. Wanneer een schip beschikt over een bijzondere lijst of manifest of een gedetailleerd stuwplan zoals voor het vervoer van gevaarlijke stoffen is vereist ingevolge het Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974, zoals gewijzigd, mogen de ingevolge dit voorschrift vereiste documenten worden gecombineerd met die voor gevaarlijker stoffen. Ingeval documenten zijn gecombineerd, dient duidelijk onderscheid te worden gemaakt tussen gevaarlijke stoffen en onder deze Bijlage vallende schadelijke stoffen.
 
-#### Voorschrift 5. Stuwage
+##### Voorschrift 5. Stuwage
 
 Schadelijke stoffen dienen op de juiste wijze te worden gestuwd en vastgezet, ter beperking van de gevaren voor het mariene milieu, zonder afbreuk te doen aan de veiligheid van het schip en de zich aan boord bevindende personen.
 
-#### Voorschrift 6. Beperkingen van hoeveelheid
+##### Voorschrift 6. Beperkingen van hoeveelheid
 
 Om gegronde wetenschappelijke en technische redenen kan het vervoer van bepaalde schadelijke stoffen worden verboden of de hoeveelheid die aan boord van een schip mag worden vervoerd, worden beperkt. Bij het beperken van de hoeveelheid dient goede aandacht te worden geschonken aan de grootte, de constructie en de uitrusting van het schip, alsmede aan de verpakking en de aard van de stoffen.
 
-#### Voorschrift 7. Uitzonderingen
+##### Voorschrift 7. Uitzonderingen
 
 1. Het overboord zetten van schadelijke stoffen die worden vervoerd in verpakte vorm is verboden, behalve wanneer dit noodzakelijk is om de veiligheid van het schip te verzekeren of om mensenlevens op zee te redden.
 
 2. Behoudens de bepalingen van dit Verdrag dienen op grond van de natuurkundige, scheikundige en biologische eigenschappen van schadelijke stoffen passende maatregelen te worden genomen om het overboord spoelen van zulke door lekkage vrijgekomen stoffen te regelen, mits de uitvoering van deze maatregelen de veiligheid van het schip en van de zich aan boord bevindende personen niet in gevaar brengt.
 
-#### Voorschrift 8. De door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
+##### Voorschrift 8. De door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
 
 - 1. Een schip dat zich bevindt in een haven van een andere Partij dient te worden geïnspecteerd door ambtenaren die door bedoelde Partij naar behoren zijn gemachtigd om te controleren of is voldaan aan de in deze Bijlage bedoelde vereisten met betrekking tot de bedrijfsvoering aan boord, wanneer er duidelijke gronden zijn om aan te nemen dat de kapitein of de leden van de bemanning niet op de hoogte zijn van de essentiële werkwijzen die aan boord moeten worden toegepast om verontreiniging door schadelijke stoffen te voorkomen.
 
@@ -2879,7 +2901,7 @@ Om gegronde wetenschappelijke en technische redenen kan het vervoer van bepaalde
 
 ### HOOFDSTUK 1. – ALGEMEEN
 
-#### Voorschrift 1. Begripsomschrijvingen
+##### Voorschrift 1. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage:
 
@@ -2991,13 +3013,13 @@ Voor de toepassing van deze Bijlage:
 
 - –. Kinematische viscositeit: > 10 cSt bij 20°C.
 
-#### Voorschrift 2. Toepassing
+##### Voorschrift 2. Toepassing
 
 - 1. Tenzij uitdrukkelijk anders wordt bepaald, zijn de bepalingen van deze Bijlage van toepassing op alle schepen die gecertificeerd zijn voor het vervoer van schadelijke vloeistoffen in bulk.
 
 - 2. Wanneer een lading waarop de bepalingen van [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=I&z=2022-04-01&g=2022-04-01) van dit Verdrag van toepassing zijn, wordt vervoerd in een laadruim van een NLS-tankschip, zijn de desbetreffende bepalingen van Bijlage I van dit Verdrag ook van toepassing.
 
-#### Voorschrift 3. Uitzonderingen
+##### Voorschrift 3. Uitzonderingen
 
 - 1. De lozingsvereisten van deze Bijlage en hoofdstuk 2 van deel II-A van de Polar Code zijn niet van toepassing op de lozing in zee van schadelijke vloeistoffen of mengsels die deze stoffen bevatten wanneer een dergelijke lozing:
 
@@ -3013,7 +3035,7 @@ Voor de toepassing van deze Bijlage:
 
 ### HOOFDSTUK 5. OPERATIONELE LOZINGEN VAN RESIDUEN VAN SCHADELIJKE VLOEISTOFFEN
 
-#### Voorschrift 4. Ontheffingen
+##### Voorschrift 4. Ontheffingen
 
 - 1. Ten aanzien van de vervoersvereisten als gevolg van de indeling van de stof in een strengere categorie, is het volgende van toepassing:
 
@@ -3067,7 +3089,7 @@ Voor de toepassing van deze Bijlage:
 
 - .5 in het geval van schepen die reizen maken tussen havens of laad- en losplaatsen onder de rechtsmacht van andere Staten die Partij bij dit Verdrag zijn, de Administratie bijzonderheden omtrent de vrijstelling aan de Organisatie mededeelt en de Organisatie deze gegevens aan de Partijen bij dit Verdrag toezendt om daarvan kennis te nemen en eventueel passende maatregelen te treffen.
 
-#### Voorschrift 5. Gelijkwaardige voorzieningen
+##### Voorschrift 5. Gelijkwaardige voorzieningen
 
 - 1. De Administratie kan het aanbrengen van andere onderdelen, materialen, voorzieningen of apparatuur dan die welke in deze Bijlage worden voorgeschreven, op een schip toestaan, mits deze onderdelen, materialen, voorzieningen of apparatuur ten minste even doelmatig zijn als die welke in deze Bijlage worden vereist. Deze bevoegdheid van de Administratie strekt zich niet uit tot de vervanging van operationele methoden voor de beheersing van de lozing van schadelijke vloeistoffen als equivalent van de door de voorschriften in deze Bijlage voorgeschreven ontwerp- en constructievormen.
 
@@ -3085,7 +3107,7 @@ Voor de toepassing van deze Bijlage:
 
 - .5 het is uitgerust met een, door de Administratie goedgekeurd, Handboek zodat wordt gewaarborgd dat geen bedrijfsmatige vermenging van ladingsresiduen en water plaatsvindt en dat geen ladingresiduen in de tank achterblijven na toepassing van de in het Handboek voorgeschreven ventilatieprocedures.
 
-#### Voorschrift 6. Indeling in categorieën en opsomming van schadelijke vloeistoffen en andere stoffen
+##### Voorschrift 6. Indeling in categorieën en opsomming van schadelijke vloeistoffen en andere stoffen
 
 - 1. Voor de toepassing van de voorschriften van deze Bijlage, worden schadelijke vloeistoffen ingedeeld in de volgende vier categorieën:
 
@@ -3101,11 +3123,11 @@ Voor de toepassing van deze Bijlage:
 
 - 3. Wanneer wordt voorgesteld een vloeistof in bulk te vervoeren, die niet in een categorie is ingedeeld ingevolge het eerste lid van dit voorschrift, komen de Regeringen van de Partijen bij dit Verdrag die bij het voorgestelde vervoer zijn betrokken een voorlopige indeling overeen voor het voorgestelde vervoer, zulks op grond van de richtlijnen bedoeld in lid 2 van dit voorschrift. Totdat de betrokken Regeringen volledige overeenstemming hebben bereikt, mag de stof niet worden vervoerd. Zo snel mogelijk, doch uiterlijk 30 dagen nadat overeenstemming is bereikt, stelt de Regering van het producerende of vervoerende land, die de aanzet tot de desbetreffende overeenkomst heeft gegeven, de Organisatie in kennis en verstrekt zij nadere gegevens met betrekking tot de stof en de voorlopige indeling ten behoeve van de jaarlijkse rondzending ter kennisgeving aan alle Partijen. De Organisatie houdt een register bij van al deze stoffen en de voorlopige indeling ervan totdat de stoffen officieel in de IBC-code worden opgenomen.
 
-#### Voorschrift 7. Model van het certificaat
+##### Voorschrift 7. Model van het certificaat
 
 Het Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair Afval wordt opgesteld overeenkomstig het model opgenomen in het aanhangsel bij deze Bijlage en dient ten minste in de Engelse, de Franse of de Spaanse taal te zijn opgesteld. Indien tevens de officiële taal van het land van afgifte wordt gebruikt, is deze doorslaggevend bij geschillen of tegenstrijdigheden.
 
-#### Voorschrift 8. Looptijd en geldigheid van het certificaat
+##### Voorschrift 8. Looptijd en geldigheid van het certificaat
 
 - 1. Een Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair Afval wordt afgegeven voor een door de Administratie vastgestelde termijn die evenwel niet langer is dan vijf jaar.
 
@@ -3135,7 +3157,7 @@ Het Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair 
 
 ### HOOFDSTUK 4. ONTWERP, CONSTRUCTIE, VOORZIENINGEN EN UITRUSTING
 
-#### Voorschrift 9. Afgifte van of aantekening op het certificaat
+##### Voorschrift 9. Afgifte van of aantekening op het certificaat
 
 - 1. Na een eerste onderzoek of een hernieuwd onderzoek overeenkomstig de bepalingen van [voorschrift 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=II&hoofdstuk=3&artikel=8&z=2022-04-01&g=2022-04-01) van deze Bijlage wordt een Internationaal certificaat betreffende voorkoming van verontreiniging voor het vervoer van schadelijke vloeistoffen in bulk afgegeven aan elk schip dat bestemd is om schadelijke vloeistoffen in bulk te vervoeren en dat reizen maakt naar havens of laad- of losplaatsen buitengaats onder de rechtsmacht van andere Partijen bij het Verdrag.
 
@@ -3151,7 +3173,7 @@ Het Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair 
 
 - 4. Het Internationaal certificaat betreffende voorkoming van verontreiniging voor het vervoer van schadelijke vloeistoffen in bulk wordt opgesteld overeenkomstig het model opgenomen in [aanhangsel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=3&z=2022-04-01&g=2022-04-01) bij deze Bijlage en dient ten minste in de Engelse, de Franse of de Spaanse taal te zijn opgesteld. Wanneer de aantekeningen tevens zijn gesteld in een officiële taal van de Staat waarvan het schip gerechtigd is de vlag te voeren, zijn deze doorslaggevend in geval van een geschil of een tegenstrijdigheid.
 
-#### Voorschrift 10. Geldigheidsduur en geldigheid van het certificaat
+##### Voorschrift 10. Geldigheidsduur en geldigheid van het certificaat
 
 - 1. Een Internationaal certificaat betreffende voorkoming van verontreiniging voor het vervoer van schadelijke vloeistoffen in bulk wordt afgegeven voor een door de Administratie vastgesteld tijdvak dat evenwel niet langer is dan vijf jaar.
 
@@ -3187,7 +3209,7 @@ Het Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair 
 
 - .3 bij overdracht van het schip onder de vlag van een andere Staat. Er mag uitsluitend een nieuw certificaat worden afgegeven wanneer de Regering die het nieuwe certificaat afgeeft er ten volle van overtuigd is dat het schip volledig voldoet aan de vereisten van de [voorschriften 8.3.1 en 8.3.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=II&hoofdstuk=3&artikel=8&z=2022-04-01&g=2022-04-01) van deze Bijlage. In het geval van een overdracht tussen Partijen zendt de Regering van de Partij wier vlag het schip voordien gerechtigd was te voeren, indien zij daarom wordt verzocht binnen drie maanden nadat de overdracht heeft plaatsgevonden, zo spoedig mogelijk aan de Administratie van de andere Partij afschriften van het certificaat die het schip aan boord had vóór de overdracht en, indien beschikbaar, afschriften van de desbetreffende onderzoeksrapporten.
 
-#### Voorschrift 11. Lozen van sanitair afval
+##### Voorschrift 11. Lozen van sanitair afval
 
 - 1. Onverminderd de bepalingen van voorschrift 3 van deze Bijlage is het lozen in zee van sanitair afval verboden, behalve wanneer:
 
@@ -3205,7 +3227,7 @@ Het Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair 
 
 ### HOOFDSTUK 4. ONTWERP, CONSTRUCTIE, VOORZIENINGEN EN UITRUSTING
 
-#### Voorschrift 12. Pompen, pijpleidingen, losvoorzieningen en sloptanks
+##### Voorschrift 12. Pompen, pijpleidingen, losvoorzieningen en sloptanks
 
 - 1. Elk schip dat vóór 1 juli 1986 is gebouwd dient te zijn uitgerust met een pomp- en pijpleidingvoorziening die waarborgt dat in geen van de tanks gecertificeerd voor het vervoer van stoffen van categorie X of Y een residu achterblijft van meer dan 300 liter in de tank en de bijbehorende pijpleidingen en dat in geen van de tanks gecertificeerd voor het vervoer van stoffen van categorie Z een residu achterblijft van meer dan 900 liter in de tank en de bijbehorende pijpleidingen. In overeenstemming met [aanhangsel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=5&z=2022-04-01&g=2022-04-01) van deze Bijlage wordt de werking van deze voorzieningen beproefd.
 
@@ -3229,7 +3251,7 @@ Het Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair 
 
 - 11. **Sloptanks** In deze Bijlage wordt het aanbrengen van afzonderlijke sloptanks weliswaar niet verplicht gesteld, maar voor bepaalde wasprocedures kunnen sloptanks toch noodzakelijk zijn. In dat geval kunnen ladingtanks als sloptanks worden gebruikt.
 
-#### Voorschrift 1. Omschrijvingen
+##### Voorschrift 1. Omschrijvingen
 
 Voor de toepassing van deze Bijlage:
 
@@ -3239,11 +3261,11 @@ Voor de toepassing van deze Bijlage:
 
 - (3). wordt onder „bijzonder gebied” verstaan een zeegebied waarbinnen, om algemeen aanvaarde technische redenen met betrekking tot de oceanografische en ecologische toestand en het speciale karakter van het scheepvaartverkeer binnen dat gebied, het volgen van bijzondere noodzakelijke methoden ter voorkoming van verontreiniging van de zee door vuilnis moeten worden genomen. Onder deze bijzondere gebieden worden begrepen de gebieden genoemd in Voorschrift 5 van deze Bijlage.
 
-#### Voorschrift 2. Toepassing
+##### Voorschrift 2. Toepassing
 
 Tenzij uitdrukkelijk anders bepaald, zijn de bepalingen van deze Bijlage van toepassing op alle schepen.
 
-#### Voorschrift 3. Storten van vuilnis buiten bijzondere gebieden
+##### Voorschrift 3. Storten van vuilnis buiten bijzondere gebieden
 
 - (1). Behoudens de bepalingen van de Voorschriften 4, 5 en 6 van deze Bijlage:
 
@@ -3259,13 +3281,13 @@ Tenzij uitdrukkelijk anders bepaald, zijn de bepalingen van deze Bijlage van toe
 
 - (2). Ingeval de vuilnis is vermengd met andere lozingen, waarvoor afwijkende eisen gelden met betrekking tot verwijderen of lozen, zijn de zwaarste eisen van toepassing.
 
-#### Voorschrift 4. Speciale eisen voor het storten van vuilnis
+##### Voorschrift 4. Speciale eisen voor het storten van vuilnis
 
 - (1). Behoudens de bepalingen van paragraaf (2) van dit Voorschrift is het storten van stoffen waarop dit Voorschrift van toepassing is, verboden vanaf vaste of drijvende platforms buitengaats gebezigd bij de exploratie, exploitatie en daarbij behorende verwerking van minerale zeebodemschatten, alsmede vanaf alle andere schepen, wanneer deze zich langszij of binnen 500 meter van dergelijke platforms bevinden.
 
 - (2). Het storten in zee van voedselresten vanaf vaste of drijvende platforms kan worden toegestaan, ingeval deze door een afbreek- of maalinstallatie zijn gevoerd en deze platforms zich meer dan 12 zeemijlen vanaf het dichtstbijzijnde land bevinden, alsmede van alle andere schepen, ingeval deze zich langszij of binnen 500 meter van zulke platforms bevinden. Deze afgebroken of gemalen voedselresten moeten een rooster met gaten van maximaal 25 mm kunnen passeren.
 
-#### Voorschrift 5. Storten van vuilnis binnen bijzondere gebieden
+##### Voorschrift 5. Storten van vuilnis binnen bijzondere gebieden
 
 - (1). Voor de toepassing van deze Bijlage worden onder bijzondere gebieden verstaan de gebieden van de Middellandse Zee, de Oostzee, de Zwarte Zee, de Rode Zee, de „Golf”, de Noordzee, de Zuidpool en het Caraïbisch Gebied, met inbegrip van de Golf van Mexico en de Caraïbische Zee, die als volgt worden omschreven:
 
@@ -3319,7 +3341,7 @@ Tenzij uitdrukkelijk anders bepaald, zijn de bepalingen van deze Bijlage van toe
 
 - b. De Regering van elke Partij bij het Verdrag verzekert dat alle schepen die gerechtigd zijn haar vlag te voeren, alvorens het Antarctisch gebied binnen te varen zijn uitgerust met een tank of tanks van voldoende capaciteit aan boord voor het aan boord houden van alle vuilnis terwijl zij in bedrijf zijn in het gebied en regelingen hebben gesloten om dit vuilnis af te geven aan een ontvangstinrichting na het verlaten van het gebied.
 
-#### Voorschrift 6. Uitzonderingen
+##### Voorschrift 6. Uitzonderingen
 
 De Voorschriften 3, 4 en 5 van deze Bijlage zijn niet van toepassing op:
 
@@ -3329,13 +3351,13 @@ De Voorschriften 3, 4 en 5 van deze Bijlage zijn niet van toepassing op:
 
 - (2c). het toevallige verlies van synthetische visnetten, mits alle redelijke voorzorgen zijn genomen om dit verlies te voorkomen.
 
-#### Voorschrift 7. Ontvangstinrichtingen
+##### Voorschrift 7. Ontvangstinrichtingen
 
 - (1). De Regering van elke Partij bij dit Verdrag verbindt zich tot het installeren, in havens en laad- en losplaatsen, van inrichtingen voor het in ontvangst nemen van vuilnis, zonder onnodig oponthoud van de schepen te veroorzaken, en die toereikend zijn om te voldoen aan de behoeften van de schepen die er gebruik van maken.
 
 - (2). De Regering van elke Partij stelt de Organisatie in kennis van alle gevallen waarin de inrichtingen welke ingevolge de bepalingen van dit Voorschrift zijn aangebracht als ontoereikend worden aangemerkt, dit ter mededeling aan de betrokken Partijen.
 
-#### Voorschrift 8. De door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
+##### Voorschrift 8. De door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
 
 - 1. Een schip dat zich bevindt in een haven van een andere Partij dient te worden geïnspecteerd door ambtenaren die door bedoelde Partij naar behoren zijn gemachtigd om te controleren of is voldaan aan de in deze Bijlage bedoelde vereisten met betrekking tot de bedrijfsvoering aan boord, wanneer er duidelijke gronden zijn om aan te nemen dat de kapitein of de leden van de bemanning niet op de hoogte zijn van de essentiële werkwijzen die aan boord moeten worden toegepast om verontreiniging door vuilnis te voorkomen.
 
@@ -3345,7 +3367,7 @@ De Voorschriften 3, 4 en 5 van deze Bijlage zijn niet van toepassing op:
 
 - 4. Geen enkele bepaling van dit voorschrift mag zo worden uitgelegd dat daardoor de rechten en plichten van een Partij die de uitdrukkelijk in dit Verdrag genoemde vereisten met betrekking tot de bedrijfsvoering aan boord controleert, worden beperkt.
 
-#### Voorschrift 9. Informatieborden, vuilnisbeheerplannen en het bijhouden van de gegevens inzake vuilnis
+##### Voorschrift 9. Informatieborden, vuilnisbeheerplannen en het bijhouden van de gegevens inzake vuilnis
 
 - 1.
 
@@ -3379,7 +3401,7 @@ IN WITNESS WHEREOF the undersigned being duly authorized by their respective Gov
 
 DONE at London this second day of November, one thousand nine hundred and seventy-three.
 
-#### Voorschrift 13H. Voorkoming van verontreiniging door olie door olietankschepen die zware oliesoorten als vracht vervoeren
+##### Voorschrift 13H. Voorkoming van verontreiniging door olie door olietankschepen die zware oliesoorten als vracht vervoeren
 
 - 1. Dit Voorschrift is:
 
@@ -3431,7 +3453,7 @@ DONE at London this second day of November, one thousand nine hundred and sevent
 
 - b. Met inachtneming van de bepalingen van het internationale recht, heeft een Partij bij het Verdrag het recht olietankschepen die varen in overeenstemming met de bepalingen van het vijfde of zesde lid van dit Voorschrift de toegang tot de havens en offshoreterminals onder haar rechtsmacht te weigeren, of de overdracht van schip tot schip van zware oliesoorten in de gebieden die onder haar rechtsmacht vallen te weigeren, behalve wanneer dit noodzakelijk is om de veiligheid van een schip te verzekeren of om mensenlevens op zee te redden. In dergelijke gevallen stelt die Partij de Organisatie in kennis van de bijzonderheden daarvan ter verspreiding aan de Partijen bij het Verdrag ter informatie.
 
-#### Voorschrift 14. Gescheiden houden van brandstofolie en waterballast
+##### Voorschrift 14. Gescheiden houden van brandstofolie en waterballast
 
 - (1). Behalve zoals bepaald in lid (2) van dit Voorschrift, dient aan boord van nieuwe schepen anders dan olietankschepen, met een bruto tonnage van 4000 ton en meer en aan boord van nieuwe olietankschepen met een bruto tonnage van 150 ton en meer, geen ballastwater in enige brandstofolietank te worden vervoerd.
 
@@ -3439,7 +3461,7 @@ DONE at London this second day of November, one thousand nine hundred and sevent
 
 - (3). Alle andere schepen dienen zich, voor zover redelijk en praktisch uitvoerbaar, te houden aan de vereisten van paragraaf (1) van dit Voorschrift.
 
-#### Voorschrift 15. Het aan boord houden van olie
+##### Voorschrift 15. Het aan boord houden van olie
 
 - (1). Onverlet het bepaalde in lid (5) en lid (6) van dit Voorschrift worden olietankschepen met een bruto tonnage van 150 ton en meer uitgerust met voorzieningen overeenkomstig de vereisten van lid (2) en lid (3) van dit Voorschrift, met dien verstande dat, in het geval van bestaande tankschepen, de vereisten inzake bewakings- en regelsystemen voor lozingen en voorzieningen voor sloptanks drie jaren na de datum van inwerkingtreding van dit Verdrag van toepassing zullen zijn.
 
@@ -3469,7 +3491,7 @@ DONE at London this second day of November, one thousand nine hundred and sevent
 
 - (7). De vereisten onder lid (1), lid (2) en lid (3) van dit Voorschrift zijn niet van toepassing op olietankschepen die asfalt vervoeren; de naleving van de regeling van het lozen van asfalt krachtens Voorschrift 9 van deze Bijlage dient te geschieden door het aan boord houden van asfaltresiduen en het afgeven van alle verontreinigd waswater aan ontvangstinrichtingen.
 
-#### Voorschrift 16. Bewakings- en regelsysteem voor olielozingen en apparatuur voor het filtreren van olie
+##### Voorschrift 16. Bewakings- en regelsysteem voor olielozingen en apparatuur voor het filtreren van olie
 
 1. Elk schip met een bruto-inhoud van 400 ton of meer maar minder dan 10.000 ton dient te worden uitgerust met apparatuur voor het filtreren van olie die voldoet aan lid 4 van dit Voorschrift. Elk zodanig schip dat grote hoeveelheden brandstof vervoert, dient te voldoen aan lid 2 van dit Voorschrift of aan lid 1 van Voorschrift 14.
 
@@ -3495,7 +3517,7 @@ DONE at London this second day of November, one thousand nine hundred and sevent
 
 6. Voor schepen die voor 6 juli 1993 worden opgeleverd, worden de vereisten van dit Voorschrift van toepassing op 6 juli 1998, mits deze schepen kunnen werken met olie-waterafscheiders (100 p.p.m apparatuur).
 
-#### Voorschrift 17. Tanks voor olieresiduen (slik)
+##### Voorschrift 17. Tanks voor olieresiduen (slik)
 
 - (1). Elk schip met een bruto tonnage van 400 ton en meer dient te worden uitgerust met een of meer tanks met een capaciteit die, gezien het type machines en de lengte van de reis, toereikend is voor het opvangen van olieresiduen (slik) die niet kunnen worden behandeld op enige andere wijze overeenkomstig de voorschriften van deze Bijlage, bijvoorbeeld residuen ontstaan bij het zuiveren van brandstof en smeeroliën en door olielekkages in de machineruimten.
 
@@ -3503,7 +3525,7 @@ DONE at London this second day of November, one thousand nine hundred and sevent
 
 - (3). Pijpleidingen naar en vanaf tanks voor slik dienen geen rechtstreekse aansluiting overboord te hebben behalve de in Voorschrift 19 bedoelde standaardaansluiting voor afgifte.
 
-#### Voorschrift 18. Inrichtingen aan boord van olietankschepen voor pompen, pijpleidingen en lozen
+##### Voorschrift 18. Inrichtingen aan boord van olietankschepen voor pompen, pijpleidingen en lozen
 
 - (1). Aan boord van elk olietankschip dient op het open dek, aan beide zijden van het schip, een walaansluiting voor afgifte te zijn opgesteld, ter koppeling aan ontvangstinrichtingen voor afgifte van verontreinigd ballastwater of van door olie verontreinigd water.
 
@@ -3525,7 +3547,7 @@ DONE at London this second day of November, one thousand nine hundred and sevent
 
 - (6). Elk bestaand olietankschip dat moet zijn voorzien van gescheiden ballasttanks, of moet zijn uitgerust met een systeem voor het wassen met ruwe olie, of aangewezen schone ballasttanks toepast moet voldoen aan de bepalingen onder b van het vijfde lid van dit Voorschrift.
 
-#### Voorschrift 19. Standaardaansluiting voor afgifte
+##### Voorschrift 19. Standaardaansluiting voor afgifte
 
 Ten einde leidingen van ontvangstinrichtingen te kunnen aansluiten op de scheepspijpleiding voor de afgifte van residuen afkomstig van machinekamerlensruimten, dienen beide leidingen te zijn uitgerust met een standaardaansluiting voor afgifte, overeenkomstig de volgende tabel:
 
@@ -3540,7 +3562,7 @@ Ten einde leidingen van ontvangstinrichtingen te kunnen aansluiten op de scheeps
 
 De flens is zo ontworpen dat er pijpleidingen op kunnen worden aangesloten met een inwendige diameter van maximaal 125 mm; de flens dient van staal of ander gelijkwaardig materiaal te zijn met een vlakke voorzijde. Deze flens dient, tezamen met een pakking van oliebestendig materiaal, geschikt te zijn voor een werkdruk van 6 kg/cm2.
 
-#### Voorschrift 20. Oliejournaal
+##### Voorschrift 20. Oliejournaal
 
 - (1). Elk olietankschip met een bruto-tonnage van 150 ton en meer en elk schip, geen olietankschip zijnde, met een bruto tonnage van 400 ton en meer, moet zijn voorzien van een Oliejournaal dat, hetzij als onderdeel van het scheepsdagboek, hetzij anderszins, moet zijn ingericht volgens het model zoals aangegeven in Aanhangsel III bij deze Bijlage.
 
@@ -3594,7 +3616,7 @@ De flens is zo ontworpen dat er pijpleidingen op kunnen worden aangesloten met e
 
 ### HOOFDSTUK IV. DE VOORKOMING VAN VERONTREINIGING ALS GEVOLG VAN VOORVALLEN VAN OLIEVERONTREINIGING
 
-#### Voorschrift 1. Omschrijvingen
+##### Voorschrift 1. Omschrijvingen
 
 Voor de toepassing van deze Bijlage:
 
@@ -3642,7 +3664,7 @@ Voor de toepassing van deze Bijlage:
 
 - (14). ,Verjaardatum’ betekent de dag en de maand van elk jaar overeenkomend met de vervaldatum van het Internationaal Certificaat betreffende Voorkoming van Verontreiniging voor het Vervoer van Schadelijke Vloeistoffen in bulk.
 
-#### Voorschrift 2. Toepassing
+##### Voorschrift 2. Toepassing
 
 - (1). Tenzij uitdrukkelijk anders bepaald, zijn de bepalingen van deze Bijlage van toepassing op alle schepen die schadelijke vloeistoffen in bulk vervoeren.
 
@@ -3662,7 +3684,7 @@ Voor de toepassing van deze Bijlage:
 
 - b. De Administratie die uit hoofde van dit lid een versoepeling van de toepassing van een wijziging toestaat, dient bij de Organisatie een rapport in dat bijzonderheden bevat van het desbetreffende schip of de desbetreffende schepen, de vervoerde ladingen, de handelstak waarin elk schip wordt gebruikt, en de gronden voor de versoepeling, ter verspreiding onder de Partijen bij het Verdrag te hunner informatie en ten behoeve van eventuele passende maatregelen.
 
-#### Voorschrift 3. Indeling in categorieën en opsomming van schadelijke vloeistoffen
+##### Voorschrift 3. Indeling in categorieën en opsomming van schadelijke vloeistoffen
 
 - (1). Voor de toepassing van de Voorschriften van deze Bijlage worden schadelijke vloeistoffen ingedeeld in de volgende vier categorieën:
 
@@ -3680,7 +3702,7 @@ Voor de toepassing van deze Bijlage:
 
 - (4). Wanneer wordt voorgesteld een vloeistof in bulk te vervoeren, die niet in een categorie is ingedeeld ingevolge paragraaf (1) van dit Voorschrift of die niet is beoordeeld zoals bedoeld in Voorschrift 4 (1) van deze Bijlage, komen de Regeringen van de Partijen bij dit Verdrag die bij het voorgestelde vervoer zijn betrokken een voorlopige beoordeling overeen voor het voorgestelde vervoer, zulks op grond van de richtlijnen bedoeld in paragraaf (2) van dit Voorschrift. Totdat de betrokken Regeringen volledige overeenstemming hebben bereikt, wordt de stof vervoerd onder de strengste van de voorgestelde voorwaarden. Zo spoedig mogelijk, doch niet later dan negentig dagen na het eerste vervoer, stelt de Administratie de Organisatie daarvan in kennis en verschaft zij nadere bijzonderheden over de stof en voorlopige beoordeling ter onverwijlde toezending aan alle Partijen te hunner inlichting en overweging. De Regering van elke Partij heeft negentig dagen daaraanvolgend de tijd om haar opmerkingen aan de Organisatie toe te zenden, met betrekking tot de beoordeling van de stof.
 
-#### Voorschrift 4. Overige vloeistoffen
+##### Voorschrift 4. Overige vloeistoffen
 
 - (1). De stoffen waarnaar wordt verwezen in Aanhangsel III bij deze Bijlage zijn beoordeeld, en hierbij is vastgesteld dat zij niet vallen onder categorie A, B, C of D, zoals omschreven in Voorschrift 3(1) van deze Bijlage, aangezien zij op het ogenblik niet schadelijk worden geacht voor de gezondheid van de mens, de rijkdommen van de zee, de recreatiemogelijkheden en ander rechtmatig gebruik van de zee, wanneer zij in zee worden geloosd als gevolg van het schoonmaken van tanks of het verwijderen van ballast.
 
@@ -3688,7 +3710,7 @@ Voor de toepassing van deze Bijlage:
 
 - (3). De bepalingen van deze Bijlage zijn niet van toepassing op het lozen in zee van schone ballast of gescheiden ballast.
 
-#### Voorschrift 5. Het lozen van schadelijke vloeistoffen
+##### Voorschrift 5. Het lozen van schadelijke vloeistoffen
 
 Behoudens het bepaalde in lid 14 van dit Voorschrift en van Voorschrift 6 van deze Bijlage,
 
@@ -3782,7 +3804,7 @@ Behoudens het bepaalde in lid 14 van dit Voorschrift en van Voorschrift 6 van de
 
 - 14. Wat het Antarctisch gebied betreft, zijn lozingen in de zee van schadelijke vloeistoffen of mengsels die zodanige stoffen bevatten verboden.
 
-#### Voorschrift 6. Uitzonderingen
+##### Voorschrift 6. Uitzonderingen
 
 Voorschrift 5 van deze Bijlage is niet van toepassing op:
 
@@ -3796,7 +3818,7 @@ Voorschrift 5 van deze Bijlage is niet van toepassing op:
 
 - (c). het lozen in zee van schadelijke vloeistoffen of mengsels die dergelijke stoffen bevatten, welke zijn goedgekeurd door de Administratie, indien dit gebeurt ter bestrijding van bepaalde gevallen van verontreiniging ten einde de schade door de verontreiniging te beperken. Elke lozing van dien aard behoeft de goedkeuring van elke Regering binnen wier rechtsgebied wordt overwogen de lozing te laten plaatsvinden.
 
-#### Voorschrift 7. Ontvangstvoorzieningen en voorzieningen voor laad- en losplaatsen en overslagplaatsen
+##### Voorschrift 7. Ontvangstvoorzieningen en voorzieningen voor laad- en losplaatsen en overslagplaatsen
 
 - (1). De Regering van elke Partij bij dit Verdrag verbindt zich ertoe, zorg te dragen voor de installatie van ontvangstinrichtingen al naar de behoeften van schepen, die gebruik maken van haar havens, laad- en losplaatsen of scheepsreparatiehavens, en wel als volgt:
 
@@ -3810,7 +3832,7 @@ Voorschrift 5 van deze Bijlage is niet van toepassing op:
 
 - (4). Elke Partij geeft kennis aan de Organisatie, ter mededeling aan de betrokken Partijen, van ieder geval waarin wordt beweerd dat de krachtens het bepaalde in lid (1) van dit Voorschrift vereiste inrichtingen of de krachtens het bepaalde in lid (3) van dit Voorschrift vereiste voorzieningen ontoereikend zijn.
 
-#### Voorschrift 8. Maatregelen ten behoeve van het toezicht
+##### Voorschrift 8. Maatregelen ten behoeve van het toezicht
 
 - (a). De Regering van elke Partij bij dit Verdrag benoemt of machtigt inspecteurs, belast met de zorg voor de naleving van dit Voorschrift. De inspecteurs oefenen toezicht uit overeenkomstig de door de Organisatie opgestelde controleprocedures.
 
@@ -3904,7 +3926,7 @@ Voorschrift 5 van deze Bijlage is niet van toepassing op:
 
 (9). Alle restanten die aan boord worden gehouden in een sloptank, met inbegrip van lenswater uit ladingpompkamers, en die een stof van categorie A bevatten of, binnen een bijzonder gebied, een stof van categorie A of categorie B bevatten, dienen te worden afgegeven aan een ontvangstvoorziening overeenkomstig het bepaalde in Voorschrift 5(1), (7) of (8) van deze Bijlage, al naar gelang van toepassing.
 
-#### Voorschrift 9. Ladingjournaal
+##### Voorschrift 9. Ladingjournaal
 
 - (1). Elk schip waarop deze Bijlage van toepassing is dient te zijn voorzien van een Ladingjournaal, al dan niet als onderdeel van het voorgeschreven scheepsdagboek, in de vorm als omschreven in Aanhangsel IV bij deze Bijlage.
 
@@ -3936,7 +3958,7 @@ Voorschrift 5 van deze Bijlage is niet van toepassing op:
 
 - (7). De bevoegde instantie van de Regering van een Partij heeft het recht het Ladingjournaal in te zien aan boord van alle schepen waarop deze Bijlage van toepassing is, terwijl het schip zich in een van haar havens bevindt, en een afschrift te maken van elke aantekening in dat journaal en van de kapitein van het schip te verlangen, het afschrift te waarmerken als een waarheidsgetrouw afschrift van de betrokken aantekening. Elk aldus vervaardigd afschrift, dat de kapitein van het schip als een waarheidsgetrouw afschrift van een aantekening in het Ladingjournaal van het schip heeft gewaarmerkt, zal bij alle gerechtelijke procedures worden toegelaten als bewijsstuk voor de in die aantekening vermelde feiten. De inspectie van een Ladingjournaal en de vervaardiging van een gewaarmerkt afschrift door de bevoegde instantie ingevolge het bepaalde in deze paragraaf dienen zo snel mogelijk te geschieden zonder het schip onnodig oponthoud te veroorzaken.
 
-#### Voorschrift 10. Onderzoeken
+##### Voorschrift 10. Onderzoeken
 
 - 1. Schepen die schadelijke vloeistoffen in bulk vervoeren, zijn onderworpen aan de hieronder aangegeven onderzoeken:
 
@@ -3972,7 +3994,7 @@ Voorschrift 5 van deze Bijlage is niet van toepassing op:
 
 - c. Wanneer een schip een ongeval overkomt, of gebreken worden geconstateerd die de hechtheid van het schip of de doelmatigheid of volledigheid van de uitrusting, vallende onder de bepalingen van deze Bijlage, in belangrijke mate beïnvloeden, dient de kapitein of de eigenaar van het schip de Administratie, de erkende organisatie of de aangewezen deskundige die verantwoordelijk is voor de afgifte van het betrokken Certificaat zo spoedig mogelijk in te lichten. In een dergelijk geval dient door laatstgenoemden te worden onderzocht of een onderzoek als bedoeld in het eerste lid van dit Voorschrift noodzakelijk is. Indien het schip zich in een haven van een andere Partij bevindt, dient de kapitein of de eigenaar eveneens onmiddellijk de bevoegde autoriteiten van de havenstaat in te lichten en dient de aangewezen deskundige of de erkende organisatie na te gaan of een dergelijke melding heeft plaatsgevonden.
 
-#### Voorschrift 11. Afgifte van of aantekening op het Certificaat
+##### Voorschrift 11. Afgifte van of aantekening op het Certificaat
 
 - 1. Na een eerste onderzoek of een hernieuwd onderzoek overeenkomstig de bepalingen van Voorschrift 10 van deze Bijlage wordt een Internationaal Certificaat betreffende Voorkoming van Verontreiniging voor het Vervoer van Schadelijke Vloeistoffen in bulk afgegeven aan elk schip dat schadelijke vloeistoffen in bulk vervoert en dat reizen maakt naar havens of laad- of losplaatsen buitengaats binnen de rechtsmacht van andere Partijen bij het Verdrag.
 
@@ -3992,7 +4014,7 @@ Voorschrift 5 van deze Bijlage is niet van toepassing op:
 
 - 5. Niettegenstaande andere bepalingen van de wijzigingen op deze Bijlage die bij resolutie MEPC.39(29) zijn aangenomen door de Commissie voor de Bescherming van het Mariene milieu blijft een Internationaal Certificaat betreffende Voorkoming van Verontreiniging voor het Vervoer van Schadelijke Vloeistoffen in bulk dat geldig is wanneer deze wijzigingen van kracht worden, geldig totdat de geldigheid afloopt op grond van deze Bijlage zoals deze luidt voordat de wijzigingen van kracht zijn geworden.
 
-#### Voorschrift 12. Looptijd en geldigheid van het Certificaat
+##### Voorschrift 12. Looptijd en geldigheid van het Certificaat
 
 - 1. Een Internationaal Certificaat betreffende Voorkoming van Verontreiniging voor het Vervoer van Schadelijke Vloeistoffen in bulk wordt afgegeven voor een door de Administratie vastgesteld tijdvak dat niet langer is dan vijf jaar.
 
@@ -4030,7 +4052,7 @@ Voorschrift 5 van deze Bijlage is niet van toepassing op:
 
 - c. bij overdracht van het schip onder de vlag van een andere Staat. Er mag uitsluitend een nieuw Certificaat worden afgegeven wanneer de Regering die het nieuwe Certificaat afgeeft er ten volle van overtuigd is dat het schip voldoet aan de eisen van Voorschrift 10, vierde lid, letters a en b, van deze Bijlage. In het geval van een overdracht tussen Partijen zendt de Regering van de Partij wier vlag het schip voordien gerechtigd was te voeren, indien zij daarom wordt verzocht binnen 3 maanden nadat de overdracht heeft plaatsgevonden, zo spoedig mogelijk aan de Administratie afschriften van het Certificaat dat het schip aan boord had vóór de overdracht en, indien beschikbaar, afschriften van de desbetreffende onderzoeksrapporten.
 
-#### Voorschrift 13. Eisen ter beperking van verontreiniging door een ongeval
+##### Voorschrift 13. Eisen ter beperking van verontreiniging door een ongeval
 
 (1). Van schepen die schadelijke vloeistoffen van categorie A, B of C in bulk vervoeren, dienen het ontwerp, de bouw, de uitrusting en de bedrijfsvoering zodanig te zijn, dat het ongecontroleerd lozen van deze stoffen in zee tot een minimum wordt beperkt.
 
@@ -4052,7 +4074,7 @@ Voorschrift 5 van deze Bijlage is niet van toepassing op:
 
 (4). Met betrekking tot andere schepen dan chemicaliëntankschepen die schadelijke stoffen van categorie A, B of C in bulk vervoeren, dient de Administratie passende maatregelen gebaseerd op door de Organisatie vastgestelde Richtlijnen te nemen, ten einde te verzekeren dat aan het bepaalde in lid (1) van dit Voorschrift wordt voldaan.
 
-#### Voorschrift 14. Vervoer en lozing van olieachtige stoffen
+##### Voorschrift 14. Vervoer en lozing van olieachtige stoffen
 
 Schadelijke vloeistoffen die blijkens Aanhangsel II van deze Bijlage onder categorie C of D vallen en door de Organisatie worden aangemerkt als olieachtige stoffen aan de hand van de door de Organisatie opgestelde criteria, mogen niettegenstaande het bepaalde in andere Voorschriften van deze Bijlage worden vervoerd in een in Bijlage I van het Verdrag omschreven olietankschip en worden geloosd in overeenstemming met het bepaalde in Bijlage I bij dit Verdrag, mits aan alle volgende voorwaarden wordt voldaan:
 
@@ -4068,7 +4090,7 @@ Schadelijke vloeistoffen die blijkens Aanhangsel II van deze Bijlage onder categ
 
 - (d). de oliegehaltemeter in het bewakings- en regelsysteem van het schip voor olielozingen wordt door de Administratie goedgekeurd voor gebruik bij de controle van de te vervoeren olieachtige stoffen.
 
-#### Voorschrift 15. De door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
+##### Voorschrift 15. De door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
 
 - 1. Een schip dat zich bevindt in een haven van een andere Partij dient te worden geïnspecteerd door ambtenaren die door bedoelde Partij naar behoren zijn gemachtigd om te controleren of is voldaan aan de in deze Bijlage bedoelde vereisten met betrekking tot de bedrijfsvoering aan boord, wanneer er duidelijke gronden zijn om aan te nemen dat de kapitein of de leden van de bemanning niet op de hoogte zijn van de essentiële werkwijzen die aan boord moeten worden toegepast om verontreiniging door schadelijke vloeistoffen te voorkomen.
 
@@ -4078,7 +4100,7 @@ Schadelijke vloeistoffen die blijkens Aanhangsel II van deze Bijlage onder categ
 
 - 4. Geen enkele bepaling van dit voorschrift mag zo worden uitgelegd dat daardoor de rechten en plichten van een Partij die de uitdrukkelijk in dit Verdrag genoemde vereisten met betrekking tot de bedrijfsvoering aan boord controleert, worden beperkt.
 
-#### Voorschrift 16. Scheepsnoodplan voor verontreiniging van de zee door schadelijke vloeistoffen
+##### Voorschrift 16. Scheepsnoodplan voor verontreiniging van de zee door schadelijke vloeistoffen
 
 - 1. Elk schip met een brutotonnage van 150 ton of meer bestemd voor het vervoer in bulk van schadelijke vloeistoffen dient een door de Administratie goedgekeurd scheepsnoodplan voor verontreiniging van de zee door schadelijke vloeistoffen aan boord te hebben. Dit vereiste is uiterlijk 1 januari 2003 van toepassing op al deze schepen.
 
@@ -4094,7 +4116,7 @@ Schadelijke vloeistoffen die blijkens Aanhangsel II van deze Bijlage onder categ
 
 - 3. In het geval van schepen waarop Voorschrift 26 van Bijlage I bij het Verdrag ook van toepassing is, kan een dergelijk plan gecombineerd worden met het scheepsnoodplan voor olieverontreiniging dat vereist is ingevolge Voorschrift 26 van Bijlage I bij het Verdrag. In dit geval luidt de titel van het plan „Rampenplan aan boord van schepen voor verontreiniging van de zee."
 
-#### Voorschrift 1. Begripsomschrijvingen
+##### Voorschrift 1. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage:
 
@@ -4186,13 +4208,13 @@ Voor de toepassing van deze Bijlage:
 
 - .2 wordt onder **laagvisceuze stof** verstaan, een schadelijke vloeistof die geen hoogvisceuze stof is.
 
-#### Voorschrift 2. Toepassing
+##### Voorschrift 2. Toepassing
 
 - 1. Tenzij uitdrukkelijk anders wordt bepaald, zijn de bepalingen van deze Bijlage van toepassing op alle schepen die gecertificeerd zijn voor het vervoer van schadelijke vloeistoffen in bulk.
 
 - 2. Wanneer een lading waarop de bepalingen van [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=I&z=2011-01-01&g=2011-01-01) van dit Verdrag van toepassing zijn, wordt vervoerd in een laadruim van een NLS-tankschip, zijn de desbetreffende bepalingen van Bijlage I van dit Verdrag ook van toepassing.
 
-#### Voorschrift 3. Uitzonderingen
+##### Voorschrift 3. Uitzonderingen
 
 - 1. De lozingsvereisten van deze Bijlage zijn niet van toepassing op de lozing in zee van schadelijke vloeistoffen of mengsels die deze stoffen bevatten wanneer een dergelijke lozing:
 
@@ -4206,7 +4228,7 @@ Voor de toepassing van deze Bijlage:
 
 - .3 wordt goedgekeurd door de Administratie, wanneer de lozing wordt gebruikt met het oog op de bestrijding van specifieke verontreinigingsvoorvallen of ter minimalisering van de door verontreiniging veroorzaakte schade. Dergelijke lozingen moeten worden goedgekeurd door de Regering in wier rechtsgebied de lozing naar verwachting zal plaatsvinden.
 
-#### Voorschrift 4. Ontheffingen
+##### Voorschrift 4. Ontheffingen
 
 - 1. Ten aanzien van de vervoersvereisten als gevolg van de indeling van de stof in een strengere categorie, is het volgende van toepassing:
 
@@ -4260,7 +4282,7 @@ Voor de toepassing van deze Bijlage:
 
 - .5 in het geval van schepen die reizen maken tussen havens of laad- en losplaatsen onder de rechtsmacht van andere Staten die Partij bij dit Verdrag zijn, de Administratie bijzonderheden omtrent de vrijstelling aan de Organisatie mededeelt en de Organisatie deze gegevens aan de Partijen bij dit Verdrag toezendt om daarvan kennis te nemen en eventueel passende maatregelen te treffen.
 
-#### Voorschrift 5. Gelijkwaardige voorzieningen
+##### Voorschrift 5. Gelijkwaardige voorzieningen
 
 - 1. De Administratie kan het aanbrengen van andere onderdelen, materialen, voorzieningen of apparatuur dan die welke in deze Bijlage worden voorgeschreven, op een schip toestaan, mits deze onderdelen, materialen, voorzieningen of apparatuur ten minste even doelmatig zijn als die welke in deze Bijlage worden vereist. Deze bevoegdheid van de Administratie strekt zich niet uit tot de vervanging van operationele methoden voor de beheersing van de lozing van schadelijke vloeistoffen als equivalent van de door de voorschriften in deze Bijlage voorgeschreven ontwerp- en constructievormen.
 
@@ -4278,17 +4300,17 @@ Voor de toepassing van deze Bijlage:
 
 - .5 het is uitgerust met een, door de Administratie goedgekeurd, Handboek zodat wordt gewaarborgd dat geen bedrijfsmatige vermenging van ladingsresiduen en water plaatsvindt en dat geen ladingresiduen in de tank achterblijven na toepassing van de in het Handboek voorgeschreven ventilatieprocedures.
 
-#### Voorschrift 6. Beperkingen van hoeveelheid
+##### Voorschrift 6. Beperkingen van hoeveelheid
 
 Om gegronde wetenschappelijke en technische redenen kan het vervoer van bepaalde schadelijke stoffen worden verboden of de hoeveelheid die aan boord van een schip mag worden vervoerd, worden beperkt. Bij het beperken van de hoeveelheid dient goede aandacht te worden geschonken aan de grootte, de constructie en de uitrusting van het schip, alsmede aan de verpakking en de aard van de stoffen.
 
-#### Voorschrift 7. Uitzonderingen
+##### Voorschrift 7. Uitzonderingen
 
 1. Het overboord zetten van schadelijke stoffen die worden vervoerd in verpakte vorm is verboden, behalve wanneer dit noodzakelijk is om de veiligheid van het schip te verzekeren of om mensenlevens op zee te redden.
 
 2. Behoudens de bepalingen van dit Verdrag dienen op grond van de natuurkundige, scheikundige en biologische eigenschappen van schadelijke stoffen passende maatregelen te worden genomen om het overboord spoelen van zulke door lekkage vrijgekomen stoffen te regelen, mits de uitvoering van deze maatregelen de veiligheid van het schip en van de zich aan boord bevindende personen niet in gevaar brengt.
 
-#### Voorschrift 8. De door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
+##### Voorschrift 8. De door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
 
 - 1. Een schip dat zich bevindt in een haven van een andere Partij dient te worden geïnspecteerd door ambtenaren die door bedoelde Partij naar behoren zijn gemachtigd om te controleren of is voldaan aan de in deze Bijlage bedoelde vereisten met betrekking tot de bedrijfsvoering aan boord, wanneer er duidelijke gronden zijn om aan te nemen dat de kapitein of de leden van de bemanning niet op de hoogte zijn van de essentiële werkwijzen die aan boord moeten worden toegepast om verontreiniging door schadelijke stoffen te voorkomen.
 
@@ -4300,7 +4322,7 @@ Om gegronde wetenschappelijke en technische redenen kan het vervoer van bepaalde
 
 ### HOOFDSTUK 1. – ALGEMEEN
 
-#### Voorschrift 1. Begripsomschrijvingen
+##### Voorschrift 1. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage:
 
@@ -4412,13 +4434,13 @@ Voor de toepassing van deze Bijlage:
 
 - –. Kinematische viscositeit: > 10 cSt bij 20°C.
 
-#### Voorschrift 2. Toepassing
+##### Voorschrift 2. Toepassing
 
 - 1. Tenzij uitdrukkelijk anders wordt bepaald, zijn de bepalingen van deze Bijlage van toepassing op alle schepen die gecertificeerd zijn voor het vervoer van schadelijke vloeistoffen in bulk.
 
 - 2. Wanneer een lading waarop de bepalingen van [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=I&z=2026-03-01&g=2026-03-01) van dit Verdrag van toepassing zijn, wordt vervoerd in een laadruim van een NLS-tankschip, zijn de desbetreffende bepalingen van Bijlage I van dit Verdrag ook van toepassing.
 
-#### Voorschrift 3. Uitzonderingen
+##### Voorschrift 3. Uitzonderingen
 
 - 1. De lozingsvereisten van deze Bijlage en hoofdstuk 2 van deel II-A van de Polar Code zijn niet van toepassing op de lozing in zee van schadelijke vloeistoffen of mengsels die deze stoffen bevatten wanneer een dergelijke lozing:
 
@@ -4434,7 +4456,7 @@ Voor de toepassing van deze Bijlage:
 
 ### HOOFDSTUK 3. ONDERZOEKEN EN CERTIFICERINGEN
 
-#### Voorschrift 4. Onderzoeken
+##### Voorschrift 4. Onderzoeken
 
 - 1. Elk schip dat in overeenstemming met [voorschrift 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=IV&hoofdstuk=1&artikel=2&z=2006-02-11&g=2006-02-11) dient te voldoen aan de bepalingen van deze Bijlage dient de volgende onderzoeken te ondergaan:
 
@@ -4464,13 +4486,13 @@ Voor de toepassing van deze Bijlage:
 
 - 9. Wanneer een ongeval plaatsvindt met een schip of een defect wordt ontdekt waardoor de hechtheid van het schip of de doelmatigheid of volledigheid van de uitrusting waarop deze bijlage van toepassing is wezenlijk worden aangetast, rapporteert de kapitein of eigenaar van het schip dit zo spoedig mogelijk aan de Administratie, de erkende organisatie of de aangewezen inspecteur die verantwoordelijk is voor de afgifte van het desbetreffende certificaat, die erop toeziet dat een onderzoek wordt ingesteld om te bepalen of een inspectie als vereist op grond van punt 1 van dit voorschrift noodzakelijk is. Indien het schip zich bevindt in een haven van een andere Partij, meldt de kapitein of eigenaar van het schip dit tevens onverwijld aan de desbetreffende autoriteiten van de havenstaat en de aangewezen inspecteur of erkende organisatie dient vast te stellen of deze melding heeft plaatsgevonden.
 
-#### Voorschrift 5. Afgifte of goedkeuring van een certificaat
+##### Voorschrift 5. Afgifte of goedkeuring van een certificaat
 
 - 1. Een Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair Afval wordt afgegeven na een eerste onderzoek of een hernieuwd onderzoek in overeenstemming met de bepalingen van [voorschrift 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=IV&hoofdstuk=2&artikel=4&z=2006-02-11&g=2006-02-11) van deze Bijlage aan elk schip dat reizen maakt naar havens of losplaatsen buitengaats onder de rechtsmacht van andere Partijen bij het Verdrag. Ten aanzien van bestaande schepen zal dit vereiste vijf jaar na de datum van inwerkingtreding van deze Bijlage van toepassing worden.
 
 - 2. Deze certificaten worden afgegeven of goedgekeurd hetzij door de Administratie, hetzij door een daartoe door haar naar behoren gemachtigde persoon of organisatie1)Zie de door de Organisatie bij resolutie A.739(18) aangenomen Richtlijnen voor de bevoegdverklaring van organisaties die optreden namens Administraties en de door de Organisatie bij resolutie A.789(19) aangenomen Specificaties inzake de onderzoeks- en certificeringsfuncties van erkende organisaties die optreden namens de Administratie.. In alle gevallen neemt de Administratie de volledige verantwoordelijkheid voor het certificaat op zich.
 
-#### Voorschrift 6. Indeling in categorieën en opsomming van schadelijke vloeistoffen en andere stoffen
+##### Voorschrift 6. Indeling in categorieën en opsomming van schadelijke vloeistoffen en andere stoffen
 
 - 1. Voor de toepassing van de voorschriften van deze Bijlage, worden schadelijke vloeistoffen ingedeeld in de volgende vier categorieën:
 
@@ -4486,11 +4508,11 @@ Voor de toepassing van deze Bijlage:
 
 - 3. Wanneer wordt voorgesteld een vloeistof in bulk te vervoeren, die niet in een categorie is ingedeeld ingevolge het eerste lid van dit voorschrift, komen de Regeringen van de Partijen bij dit Verdrag die bij het voorgestelde vervoer zijn betrokken een voorlopige indeling overeen voor het voorgestelde vervoer, zulks op grond van de richtlijnen bedoeld in lid 2 van dit voorschrift. Totdat de betrokken Regeringen volledige overeenstemming hebben bereikt, mag de stof niet worden vervoerd. Zo snel mogelijk, doch uiterlijk 30 dagen nadat overeenstemming is bereikt, stelt de Regering van het producerende of vervoerende land, die de aanzet tot de desbetreffende overeenkomst heeft gegeven, de Organisatie in kennis en verstrekt zij nadere gegevens met betrekking tot de stof en de voorlopige indeling ten behoeve van de jaarlijkse rondzending ter kennisgeving aan alle Partijen. De Organisatie houdt een register bij van al deze stoffen en de voorlopige indeling ervan totdat de stoffen officieel in de IBC-code worden opgenomen.
 
-#### Voorschrift 7. Onderzoek van en afgifte van een certificaat aan chemicaliëntankschepen
+##### Voorschrift 7. Onderzoek van en afgifte van een certificaat aan chemicaliëntankschepen
 
 Chemicaliëntankschepen die zijn onderzocht en waaraan een certificaat is afgegeven door Staten die Partij bij dit Verdrag zijn, overeenkomstig de bepalingen van de IBC-Code of de Code voor chemicaliën in bulk, al naar gelang van toepassing, worden niettegenstaande het bepaalde in de [voorschriften 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=II&hoofdstuk=3&artikel=8&z=2022-04-01&g=2022-04-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=II&hoofdstuk=3&artikel=9&z=2022-04-01&g=2022-04-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=II&hoofdstuk=3&artikel=10&z=2022-04-01&g=2022-04-01) van deze Bijlage geacht te hebben voldaan aan het bepaalde in de genoemde voorschriften, en het krachtens deze Code afgegeven certificaat heeft dezelfde waarde en moet op dezelfde wijze worden erkend als het krachtens het bepaalde in voorschrift 9 van deze Bijlage afgegeven certificaat.
 
-#### Voorschrift 8. Onderzoeken
+##### Voorschrift 8. Onderzoeken
 
 - 1. Schepen die schadelijke vloeistoffen in bulk vervoeren, zijn onderworpen aan de hieronder aangegeven onderzoeken:
 
@@ -4534,7 +4556,7 @@ Chemicaliëntankschepen die zijn onderzocht en waaraan een certificaat is afgege
 
 ### HOOFDSTUK 8. ONTVANGSTINRICHTINGEN
 
-#### Voorschrift 9. Afgifte van of aantekening op het certificaat
+##### Voorschrift 9. Afgifte van of aantekening op het certificaat
 
 - 1. Na een eerste onderzoek of een hernieuwd onderzoek overeenkomstig de bepalingen van [voorschrift 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=II&hoofdstuk=3&artikel=8&z=2026-03-01&g=2026-03-01) van deze Bijlage wordt een Internationaal certificaat betreffende voorkoming van verontreiniging voor het vervoer van schadelijke vloeistoffen in bulk afgegeven aan elk schip dat bestemd is om schadelijke vloeistoffen in bulk te vervoeren en dat reizen maakt naar havens of laad- of losplaatsen buitengaats onder de rechtsmacht van andere Partijen bij het Verdrag.
 
@@ -4550,7 +4572,7 @@ Chemicaliëntankschepen die zijn onderzocht en waaraan een certificaat is afgege
 
 - 4. Het Internationaal certificaat betreffende voorkoming van verontreiniging voor het vervoer van schadelijke vloeistoffen in bulk wordt opgesteld overeenkomstig het model opgenomen in [aanhangsel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=3&z=2026-03-01&g=2026-03-01) bij deze Bijlage en dient ten minste in de Engelse, de Franse of de Spaanse taal te zijn opgesteld. Wanneer de aantekeningen tevens zijn gesteld in een officiële taal van de Staat waarvan het schip gerechtigd is de vlag te voeren, zijn deze doorslaggevend in geval van een geschil of een tegenstrijdigheid.
 
-#### Voorschrift 10. Geldigheidsduur en geldigheid van het certificaat
+##### Voorschrift 10. Geldigheidsduur en geldigheid van het certificaat
 
 - 1. Een Internationaal certificaat betreffende voorkoming van verontreiniging voor het vervoer van schadelijke vloeistoffen in bulk wordt afgegeven voor een door de Administratie vastgesteld tijdvak dat evenwel niet langer is dan vijf jaar.
 
@@ -4586,7 +4608,7 @@ Chemicaliëntankschepen die zijn onderzocht en waaraan een certificaat is afgege
 
 - .3 bij overdracht van het schip onder de vlag van een andere Staat. Er mag uitsluitend een nieuw certificaat worden afgegeven wanneer de Regering die het nieuwe certificaat afgeeft er ten volle van overtuigd is dat het schip volledig voldoet aan de vereisten van de [voorschriften 8.3.1 en 8.3.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=II&hoofdstuk=3&artikel=8&z=2026-03-01&g=2026-03-01) van deze Bijlage. In het geval van een overdracht tussen Partijen zendt de Regering van de Partij wier vlag het schip voordien gerechtigd was te voeren, indien zij daarom wordt verzocht binnen drie maanden nadat de overdracht heeft plaatsgevonden, zo spoedig mogelijk aan de Administratie van de andere Partij afschriften van het certificaat die het schip aan boord had vóór de overdracht en, indien beschikbaar, afschriften van de desbetreffende onderzoeksrapporten.
 
-#### Voorschrift 11. Ontwerp, constructie, uitrusting en bedrijfsvoering
+##### Voorschrift 11. Ontwerp, constructie, uitrusting en bedrijfsvoering
 
 - 1. Van schepen gecertificeerd voor het vervoer van schadelijke vloeistoffen in bulk genoemd in hoofdstuk 17 van de Internationale code voor chemicaliën in bulk, dienen het ontwerp, de constructie, de uitrusting en de bedrijfsvoering in overeenstemming met de volgende bepalingen te zijn, zodat het ongecontroleerd lozen in zee van dergelijke stoffen tot een minimum wordt beperkt:
 
@@ -4608,7 +4630,7 @@ Chemicaliëntankschepen die zijn onderzocht en waaraan een certificaat is afgege
 
 ### HOOFDSTUK 4. ONTVANGSTINRICHTINGEN
 
-#### Voorschrift 12. Pompen, pijpleidingen, losvoorzieningen en sloptanks
+##### Voorschrift 12. Pompen, pijpleidingen, losvoorzieningen en sloptanks
 
 - 1. Elk schip dat vóór 1 juli 1986 is gebouwd dient te zijn uitgerust met een pomp- en pijpleidingvoorziening die waarborgt dat in geen van de tanks gecertificeerd voor het vervoer van stoffen van categorie X of Y een residu achterblijft van meer dan 300 liter in de tank en de bijbehorende pijpleidingen en dat in geen van de tanks gecertificeerd voor het vervoer van stoffen van categorie Z een residu achterblijft van meer dan 900 liter in de tank en de bijbehorende pijpleidingen. In overeenstemming met [aanhangsel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=5&z=2026-03-01&g=2026-03-01) van deze Bijlage wordt de werking van deze voorzieningen beproefd.
 
@@ -4632,7 +4654,7 @@ Chemicaliëntankschepen die zijn onderzocht en waaraan een certificaat is afgege
 
 - 11. **Sloptanks** In deze Bijlage wordt het aanbrengen van afzonderlijke sloptanks weliswaar niet verplicht gesteld, maar voor bepaalde wasprocedures kunnen sloptanks toch noodzakelijk zijn. In dat geval kunnen ladingtanks als sloptanks worden gebruikt.
 
-#### Voorschrift 1. Omschrijvingen
+##### Voorschrift 1. Omschrijvingen
 
 Voor de toepassing van deze Bijlage:
 
@@ -4642,11 +4664,11 @@ Voor de toepassing van deze Bijlage:
 
 - (3). wordt onder „bijzonder gebied” verstaan een zeegebied waarbinnen, om algemeen aanvaarde technische redenen met betrekking tot de oceanografische en ecologische toestand en het speciale karakter van het scheepvaartverkeer binnen dat gebied, het volgen van bijzondere noodzakelijke methoden ter voorkoming van verontreiniging van de zee door vuilnis moeten worden genomen. Onder deze bijzondere gebieden worden begrepen de gebieden genoemd in Voorschrift 5 van deze Bijlage.
 
-#### Voorschrift 2. Toepassing
+##### Voorschrift 2. Toepassing
 
 Tenzij uitdrukkelijk anders bepaald, zijn de bepalingen van deze Bijlage van toepassing op alle schepen.
 
-#### Voorschrift 3. Storten van vuilnis buiten bijzondere gebieden
+##### Voorschrift 3. Storten van vuilnis buiten bijzondere gebieden
 
 - (1). Behoudens de bepalingen van de Voorschriften 4, 5 en 6 van deze Bijlage:
 
@@ -4662,13 +4684,13 @@ Tenzij uitdrukkelijk anders bepaald, zijn de bepalingen van deze Bijlage van toe
 
 - (2). Ingeval de vuilnis is vermengd met andere lozingen, waarvoor afwijkende eisen gelden met betrekking tot verwijderen of lozen, zijn de zwaarste eisen van toepassing.
 
-#### Voorschrift 4. Speciale eisen voor het storten van vuilnis
+##### Voorschrift 4. Speciale eisen voor het storten van vuilnis
 
 - (1). Behoudens de bepalingen van paragraaf (2) van dit Voorschrift is het storten van stoffen waarop dit Voorschrift van toepassing is, verboden vanaf vaste of drijvende platforms buitengaats gebezigd bij de exploratie, exploitatie en daarbij behorende verwerking van minerale zeebodemschatten, alsmede vanaf alle andere schepen, wanneer deze zich langszij of binnen 500 meter van dergelijke platforms bevinden.
 
 - (2). Het storten in zee van voedselresten vanaf vaste of drijvende platforms kan worden toegestaan, ingeval deze door een afbreek- of maalinstallatie zijn gevoerd en deze platforms zich meer dan 12 zeemijlen vanaf het dichtstbijzijnde land bevinden, alsmede van alle andere schepen, ingeval deze zich langszij of binnen 500 meter van zulke platforms bevinden. Deze afgebroken of gemalen voedselresten moeten een rooster met gaten van maximaal 25 mm kunnen passeren.
 
-#### Voorschrift 5. Storten van vuilnis binnen bijzondere gebieden
+##### Voorschrift 5. Storten van vuilnis binnen bijzondere gebieden
 
 - (1). Voor de toepassing van deze Bijlage worden onder bijzondere gebieden verstaan de gebieden van de Middellandse Zee, de Oostzee, de Zwarte Zee, de Rode Zee, de „Golf”, de Noordzee, de Zuidpool en het Caraïbisch Gebied, met inbegrip van de Golf van Mexico en de Caraïbische Zee, die als volgt worden omschreven:
 
@@ -4722,7 +4744,7 @@ Tenzij uitdrukkelijk anders bepaald, zijn de bepalingen van deze Bijlage van toe
 
 - b. De Regering van elke Partij bij het Verdrag verzekert dat alle schepen die gerechtigd zijn haar vlag te voeren, alvorens het Antarctisch gebied binnen te varen zijn uitgerust met een tank of tanks van voldoende capaciteit aan boord voor het aan boord houden van alle vuilnis terwijl zij in bedrijf zijn in het gebied en regelingen hebben gesloten om dit vuilnis af te geven aan een ontvangstinrichting na het verlaten van het gebied.
 
-#### Voorschrift 6. Uitzonderingen
+##### Voorschrift 6. Uitzonderingen
 
 De Voorschriften 3, 4 en 5 van deze Bijlage zijn niet van toepassing op:
 
@@ -4732,13 +4754,13 @@ De Voorschriften 3, 4 en 5 van deze Bijlage zijn niet van toepassing op:
 
 - (2c). het toevallige verlies van synthetische visnetten, mits alle redelijke voorzorgen zijn genomen om dit verlies te voorkomen.
 
-#### Voorschrift 7. Ontvangstinrichtingen
+##### Voorschrift 7. Ontvangstinrichtingen
 
 - (1). De Regering van elke Partij bij dit Verdrag verbindt zich tot het installeren, in havens en laad- en losplaatsen, van inrichtingen voor het in ontvangst nemen van vuilnis, zonder onnodig oponthoud van de schepen te veroorzaken, en die toereikend zijn om te voldoen aan de behoeften van de schepen die er gebruik van maken.
 
 - (2). De Regering van elke Partij stelt de Organisatie in kennis van alle gevallen waarin de inrichtingen welke ingevolge de bepalingen van dit Voorschrift zijn aangebracht als ontoereikend worden aangemerkt, dit ter mededeling aan de betrokken Partijen.
 
-#### Voorschrift 8. De door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
+##### Voorschrift 8. De door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
 
 - 1. Een schip dat zich bevindt in een haven van een andere Partij dient te worden geïnspecteerd door ambtenaren die door bedoelde Partij naar behoren zijn gemachtigd om te controleren of is voldaan aan de in deze Bijlage bedoelde vereisten met betrekking tot de bedrijfsvoering aan boord, wanneer er duidelijke gronden zijn om aan te nemen dat de kapitein of de leden van de bemanning niet op de hoogte zijn van de essentiële werkwijzen die aan boord moeten worden toegepast om verontreiniging door vuilnis te voorkomen.
 
@@ -4748,7 +4770,7 @@ De Voorschriften 3, 4 en 5 van deze Bijlage zijn niet van toepassing op:
 
 - 4. Geen enkele bepaling van dit voorschrift mag zo worden uitgelegd dat daardoor de rechten en plichten van een Partij die de uitdrukkelijk in dit Verdrag genoemde vereisten met betrekking tot de bedrijfsvoering aan boord controleert, worden beperkt.
 
-#### Voorschrift 9. Informatieborden, vuilnisbeheerplannen en het bijhouden van de gegevens inzake vuilnis
+##### Voorschrift 9. Informatieborden, vuilnisbeheerplannen en het bijhouden van de gegevens inzake vuilnis
 
 - 1.
 
@@ -4784,7 +4806,7 @@ DONE at London this second day of November, one thousand nine hundred and sevent
 
 ### HOOFDSTUK 2. ONDERZOEKEN EN CERTIFICERINGEN
 
-#### Voorschrift 6. Onderzoeken
+##### Voorschrift 6. Onderzoeken
 
 - 1. Alle olietankschepen met een brutotonnage van 150 of meer, alsmede alle andere schepen met een brutotonnage van 400 of meer, dienen de hieronder aangegeven onderzoeken te ondergaan:
 
@@ -4824,13 +4846,13 @@ DONE at London this second day of November, one thousand nine hundred and sevent
 
 - 4.3. Wanneer een ongeval plaatsvindt met een schip of gebreken worden geconstateerd waardoor de integriteit van het schip of de doelmatigheid of volledigheid van de uitrusting waarop deze Bijlage van toepassing is, wezenlijk worden aangetast, rapporteert de kapitein of eigenaar van het schip dit zo spoedig mogelijk aan de Administratie, de erkende organisatie of de benoemde inspecteur die verantwoordelijk is voor de afgifte van het desbetreffende certificaat; deze ziet erop toe dat een onderzoek wordt ingesteld om te bepalen of een onderzoek als vereist op grond van lid 1 van dit voorschrift noodzakelijk is. Indien het schip in een haven van een andere Partij ligt, dient de kapitein of de eigenaar eveneens onverwijld de bevoegde autoriteiten van de havenstaat in te lichten en dient de benoemde inspecteur of de erkende organisatie na te gaan of een dergelijke melding heeft plaatsgevonden.
 
-#### Voorschrift 7. Afgifte van of aantekening op het certificaat
+##### Voorschrift 7. Afgifte van of aantekening op het certificaat
 
 - 1. Na een eerste onderzoek of een hernieuwd onderzoek overeenkomstig de bepalingen van [voorschrift 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=I&hoofdstuk=2&artikel=6&z=2026-03-01&g=2026-03-01) van deze Bijlage wordt een Internationaal certificaat van voorkoming van verontreiniging door olie afgegeven aan elk olietankschip met een brutotonnage van 150 of meer alsmede aan elk ander schip met een brutotonnage van 400 of meer, dat reizen maakt naar havens of laad- of losplaatsen buitengaats binnen de rechtsmacht van andere Partijen bij dit Verdrag.
 
 - 2. Dit certificaat wordt afgegeven of hierop wordt een aantekening geplaatst hetzij door de Administratie, hetzij door daartoe door haar naar behoren gemachtigde personen of organisaties. In alle gevallen neemt de Administratie de volle verantwoordelijkheid voor het certificaat op zich.
 
-#### Voorschrift 8. Afgifte van of aantekening op een certificaat door een andere Regering
+##### Voorschrift 8. Afgifte van of aantekening op een certificaat door een andere Regering
 
 - 1. De Regering van een Partij bij het Verdrag kan, op verzoek van de Administratie, een schip aan een onderzoek doen ontwerpen en, indien zij ervan overtuigd is dat aan de bepalingen van deze Bijlage wordt voldaan, een Internationaal certificaat van voorkoming van verontreiniging door olie afgeven, of machtigen tot afgifte hiervan en in voorkomend geval een aantekening plaatsen, of machtigen tot het plaatsen van een aantekening, op dat certificaat aan boord van het schip, overeenkomstig deze Bijlage.
 
@@ -4840,13 +4862,13 @@ DONE at London this second day of November, one thousand nine hundred and sevent
 
 - 4. Er wordt geen Internationaal certificaat van voorkoming van verontreiniging door olie of Certificaat van vrijstelling voor UNSP-lichters afgegeven aan een schip dat gerechtigd is de vlag te voeren van een Staat die geen Partij is.
 
-#### Voorschrift 9. Model van het certificaat
+##### Voorschrift 9. Model van het certificaat
 
 1. Het Internationaal certificaat voor voorkoming van verontreiniging door olie wordt opgesteld overeenkomstig het model opgenomen in [Aanhangsel II](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=II&z=2026-03-01&g=2026-03-01) bij deze Bijlage en dient ten minste in de Engelse, de Franse of de Spaanse taal te zijn gesteld. Indien tevens de officiële taal van het land van afgifte wordt gebruikt, is deze doorslaggevend bij geschillen of tegenstrijdigheden.
 
 2. Het Internationaal certificaat van vrijstelling voor onbemande lichters zonder eigen voortstuwing betreffende het voorkomen van verontreiniging door olie wordt opgesteld overeenkomstig het model opgenomen in Aanhangsel IV bij deze Bijlage en dient ten minste in de Engelse, de Franse of de Spaanse taal te zijn gesteld. Indien tevens de officiële taal van het land van afgifte wordt gebruikt, is deze doorslaggevend bij geschillen of tegenstrijdigheden.
 
-#### Voorschrift 10. Geldigheidsduur en geldigheid van het certificaat
+##### Voorschrift 10. Geldigheidsduur en geldigheid van het certificaat
 
 - 1. Een Internationaal certificaat van voorkoming van verontreiniging door olie wordt afgegeven voor een door de Administratie vastgesteld tijdvak, dat evenwel niet langer is dan vijf jaar.
 
@@ -4882,7 +4904,7 @@ DONE at London this second day of November, one thousand nine hundred and sevent
 
 - .3 bij overdracht van het schip onder de vlag van een andere Staat. Er mag uitsluitend een nieuw certificaat worden afgegeven wanneer de Regering die het nieuwe certificaat afgeeft er ten volle van overtuigd is dat het schip volledig voldoet aan de vereisten van de [voorschriften 6.4.1 en 6.4.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=I&hoofdstuk=2&artikel=6&z=2026-03-01&g=2026-03-01) van deze Bijlage. In het geval van een overdracht tussen Partijen zendt de Regering van de Partij wier vlag het schip voordien gerechtigd was te voeren, indien zij daarom wordt verzocht binnen drie maanden nadat de overdracht heeft plaatsgevonden, zo spoedig mogelijk aan de Administratie afschriften van het certificaat dat het schip aan boord had vóór de overdracht en, indien beschikbaar, afschriften van de desbetreffende onderzoeksrapporten.
 
-#### Voorschrift 11. Door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
+##### Voorschrift 11. Door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
 
 - 1. Een schip dat zich bevindt in een haven of een laad- of losplaats buitengaats van een andere Partij wordt geïnspecteerd door ambtenaren die door bedoelde Partij naar behoren zijn gemachtigd om te controleren of voldaan is aan de in deze Bijlage bedoelde vereisten met betrekking tot de bedrijfsvoering aan boord, wanneer er duidelijke gronden zijn om aan te nemen dat de kapitein of de leden van de bemanning niet op de hoogte zijn van de essentiële procedures die aan boord dienen te worden toegepast om luchtverontreiniging door schepen te voorkomen.
 
@@ -4896,7 +4918,7 @@ DONE at London this second day of November, one thousand nine hundred and sevent
 
 ## DEEL A. BOUW
 
-#### Voorschrift 12. Tanks voor olierestanten (oliedrab)
+##### Voorschrift 12. Tanks voor olierestanten (oliedrab)
 
 - 1. Tenzij anders bepaald is dit voorschrift van toepassing op elk schip met een brutotonnage van 400 ton of meer, met dien verstande dat paragraaf 3.5 van dit voorschrift uitsluitend hoeft te worden toegepast op schepen die op of vóór 31 december 1979 zijn opgeleverd, zoals omschreven in [voorschrift 1.28.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=I&hoofdstuk=1&artikel=1&z=2026-03-01&g=2026-03-01), voor zover zulks redelijk en uitvoerbaar is.
 
@@ -4920,7 +4942,7 @@ DONE at London this second day of November, one thousand nine hundred and sevent
 
 - 4. De voorzieningen van schepen gebouwd vóór 1 januari 2017 dienen uiterlijk bij het eerste hernieuwde onderzoek dat op of na 1 januari 2017 wordt uitgevoerd aan paragraaf 3.3 van dit voorschrift te voldoen.
 
-#### Voorschrift 13. Standaardaansluiting voor afgifte
+##### Voorschrift 13. Standaardaansluiting voor afgifte
 
 Teneinde leidingen van de ontvangstinrichtingen te kunnen aansluiten op de scheepspijpleiding voor de afgifte van restanten afkomstig van machinekamerlensruimten en van sludgetanks, dienen beide leidingen te zijn voorzien van een standaardaansluiting voor afgifte overeenkomstig de volgende tabel:
 
@@ -4936,7 +4958,7 @@ Teneinde leidingen van de ontvangstinrichtingen te kunnen aansluiten op de schee
 
 ## DEEL B. UITRUSTING
 
-#### Voorschrift 14. Apparatuur voor het filtreren van olie
+##### Voorschrift 14. Apparatuur voor het filtreren van olie
 
 1. Behoudens het bepaalde in lid 3 van dit voorschrift dient elk schip met een brutotonnage van 400 of meer maar ten hoogste 10.000 te worden uitgerust met apparatuur voor het filtreren van olie die voldoet aan lid 6 van dit voorschrift. Een dergelijk schip dat in overeenstemming met voorschrift 16.2 ballastwater dat in brandstofolietanks aan boord wordt gehouden in zee mag lozen, dient aan lid 2 van dit voorschrift te voldoen.
 
@@ -4970,7 +4992,7 @@ Teneinde leidingen van de ontvangstinrichtingen te kunnen aansluiten op de schee
 
 ## DEEL C. REGELING VAN BEDRIJFSMATIGE LOZINGEN VAN OLIE
 
-#### Voorschrift 15. Regeling van het lozen van olie
+##### Voorschrift 15. Regeling van het lozen van olie
 
 1. Overeenkomstig de bepalingen van [voorschrift 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=I&hoofdstuk=1&artikel=4&z=2007-01-02&g=2007-01-02) van deze Bijlage en de leden 2, 3 en 6 van dit voorschrift, is elke lozing in zee van olie of oliehoudende mengsels door schepen verboden.
 
@@ -5026,7 +5048,7 @@ Teneinde leidingen van de ontvangstinrichtingen te kunnen aansluiten op de schee
 
 9. Olierestanten die niet in zee kunnen worden geloosd volgens de bepalingen van dit voorschrift dienen aan boord te worden gehouden om naderhand bij ontvangstinrichtingen te worden afgegeven.
 
-#### Voorschrift 16. Gescheiden houden van olie en waterballast en vervoer van olie in voorpiektanks
+##### Voorschrift 16. Gescheiden houden van olie en waterballast en vervoer van olie in voorpiektanks
 
 1. Behalve zoals bepaald in het tweede lid van dit voorschrift, dient aan boord van schepen opgeleverd na 31 december 1979, als omschreven in [voorschrift 1.28.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=I&hoofdstuk=1&artikel=1&z=2007-01-02&g=2007-01-02), met een brutotonnage van 4000 of meer, geen olietankschepen zijnde, en olietankschepen opgeleverd na 31 december 1979, als omschreven in voorschrift 1.28.2, met een brutotonnage van 150 of meer, geen ballastwater in een brandstofolietank te worden vervoerd.
 
@@ -5036,7 +5058,7 @@ Teneinde leidingen van de ontvangstinrichtingen te kunnen aansluiten op de schee
 
 4. Alle andere schepen dan die waarop de leden 1 en 3 van dit voorschrift van toepassing zijn, dienen voor zover redelijk en uitvoerbaar te voldoen aan het bepaalde in deze leden.
 
-#### Voorschrift 17. Oliejournaal Deel I – Werkzaamheden in machineruimten
+##### Voorschrift 17. Oliejournaal Deel I – Werkzaamheden in machineruimten
 
 1. Elk olietankschip met een brutotonnage van 150 of meer en elk schip, geen olietankschip zijnde, met een brutotonnage van 400 of meer, dient te zijn voorzien van een Oliejournaal Deel I (Werkzaamheden in machineruimten). Het Oliejournaal, hetzij als onderdeel van het scheepsjournaal, hetzij anderszins, dient te zijn ingedeeld volgens het model zoals aangegeven in Aanhangsel III bij deze Bijlage.
 
@@ -5066,7 +5088,7 @@ Teneinde leidingen van de ontvangstinrichtingen te kunnen aansluiten op de schee
 
 ## DEEL A. BOUW
 
-#### Voorschrift 18. Gescheiden-ballasttanks
+##### Voorschrift 18. Gescheiden-ballasttanks
 
 **Olietankschepen met een draagvermogen van 20.000 ton of meer opgeleverd na 1 juni 1982**
 
@@ -5167,7 +5189,7 @@ Teneinde leidingen van de ontvangstinrichtingen te kunnen aansluiten op de schee
 
 - .2 de kleinste hoogte van elke dubbele-bodemtank of -ruimte dient gelijk te zijn aan B/15 of 2 m, naar gelang van welke waarde de kleinste is. Indien de aanwezige hoogte geringer is, mag de betreffende bodemtank of -ruimte bij de berekening van het bescherming biedende oppervlak PAs niet worden meegerekend.
 
-#### Voorschrift 19. Vereisten inzake dubbele wand en dubbele bodem voor olietankschepen opgeleverd op of na 6 juli 1996
+##### Voorschrift 19. Vereisten inzake dubbele wand en dubbele bodem voor olietankschepen opgeleverd op of na 6 juli 1996
 
 1. Dit voorschrift is als volgt van toepassing op olietankschepen met een draagvermogen van 600 ton of meer opgeleverd op of na 6 juli 1996, als omschreven in voorschrift 1.28.6:
 
@@ -5220,7 +5242,7 @@ Teneinde leidingen van de ontvangstinrichtingen te kunnen aansluiten op de schee
 
 8. Bij het goedkeuren van het ontwerp en de bouw van olietankschepen die moeten worden gebouwd in overeenstemming met de bepalingen van dit voorschrift, houden Administraties naar behoren rekening met de algemene veiligheidsaspecten, met inbegrip van de noodzaak van onderhoud en inspecties van zij- en dubbele-bodemtanks of -ruimten.
 
-#### Voorschrift 20. Vereisten inzake dubbele wand en dubbele bodem voor olietankschepen opgeleverd voor 6 juli 1996
+##### Voorschrift 20. Vereisten inzake dubbele wand en dubbele bodem voor olietankschepen opgeleverd voor 6 juli 1996
 
 - 1. Tenzij uitdrukkelijk anders is bepaald, is dit voorschrift:
 
@@ -5275,7 +5297,7 @@ Teneinde leidingen van de ontvangstinrichtingen te kunnen aansluiten op de schee
 
 - .2 lid 7 van dit voorschrift.
 
-#### Voorschrift 27. Stabiliteit in onbeschadigde toestand
+##### Voorschrift 27. Stabiliteit in onbeschadigde toestand
 
 - 1. Elk olietankschip met een draagvermogen van 5000 ton of meer opgeleverd op of na 1 februari 2002, als omschreven in [voorschrift 1.28.7](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=I&hoofdstuk=1&artikel=1&z=2026-03-01&g=2026-03-01), dient te voldoen aan de criteria voor stabiliteit in onbeschadigde toestand aangegeven in lid 1.1 en 1.2 van dit voorschrift, al naar gelang van toepassing, bij elke bedrijfsmatig voorkomende diepgang onder de slechtst denkbare omstandigheden bij het laden van lading en ballast, in overeenstemming met de gangbare bedrijfsmatige praktijk, met inbegrip van de tussenfasen van de verplaatsing van vloeistoffen. Onder alle omstandigheden worden de ballasttanks geacht gedeeltelijk gevuld te zijn.
 
@@ -5311,7 +5333,7 @@ Teneinde leidingen van de ontvangstinrichtingen te kunnen aansluiten op de schee
 
 - .8 duidelijk weergegeven worden in het goedgekeurde trim- en stabiliteitsboekje en in het controlestation voor lading- en ballastverplaatsingen en in alle computerprogrammatuur waarmee stabiliteitsberekeningen worden uitgevoerd.
 
-#### Voorschrift 28. Waterdichte indeling en stabiliteit in beschadigde toestand
+##### Voorschrift 28. Waterdichte indeling en stabiliteit in beschadigde toestand
 
 1. Elk olietankschip opgeleverd na 31 december 1979, als omschreven in [voorschrift, 1.28.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=I&hoofdstuk=1&artikel=1&z=2026-03-01&g=2026-03-01), met een brutotonnage van 150 of meer, dient na de aangenomen schade in de zijde of aan het vlak van het schip, zoals aangegeven in lid 2 van dit voorschrift, te voldoen aan de criteria betreffende de waterdichte indeling en stabiliteit van het schip in beschadigde toestand, zoals aangegeven in lid 3 van dit voorschrift. Het voorgaande is van toepassing op elke bedrijfsmatig voorkomende diepgang die voortvloeit uit een gedeeltelijke of volledige belading van het schip in overeenstemming met de toelaatbare trim en sterkte van het schip alsmede uit de soortelijke massa van de lading. De beschadiging dient op alle mogelijke plaatsen over de gehele lengte van het schip als volgt te worden aangenomen:
 
@@ -5413,7 +5435,7 @@ Ballasttoestanden waarbij het tankschip geen olie, behalve olierestanten, in lad
 
 - .3. verticaal: gat in de buitenzijde van de romp.
 
-#### Voorschrift 29. Sloptanks
+##### Voorschrift 29. Sloptanks
 
 - 1. Met inachtneming van de bepalingen van [voorschrift 3, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=I&hoofdstuk=1&artikel=3&z=2026-03-01&g=2026-03-01), van deze Bijlage, dienen olietankschepen met een brutotonnage van 150 of meer uitgerust te zijn met sloptankvoorzieningen in overeenstemming met de vereisten van de leden 2.1 tot en met 2.3 van dit voorschrift. In olietankschepen opgeleverd op of voor 31 december 1979, als omschreven in [voorschrift 1.28.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=I&hoofdstuk=1&artikel=1&z=2026-03-01&g=2026-03-01), mag elke ladingtank worden aangewezen als sloptank.
 
@@ -5433,7 +5455,7 @@ Ballasttoestanden waarbij het tankschip geen olie, behalve olierestanten, in lad
 
 - 3. Olietankschepen met een draagvermogen van 70.000 ton of meer opgeleverd na 31 december 1979, als omschreven in [voorschrift 1.28.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=I&hoofdstuk=1&artikel=1&z=2026-03-01&g=2026-03-01), dienen te zijn voorzien van ten minste twee sloptanks.
 
-#### Voorschrift 30. Inrichtingen voor pompen, pijpleidingen en lozen
+##### Voorschrift 30. Inrichtingen voor pompen, pijpleidingen en lozen
 
 - 1. Aan boord van elk olietankschip dient op het open dek, aan beide zijden van het schip, een losaansluiting te zijn aangebracht voor afgifte van verontreinigd ballastwater of van door olie verontreinigd water aan ontvangstinrichtingen.
 
@@ -5475,7 +5497,7 @@ Ballasttoestanden waarbij het tankschip geen olie, behalve olierestanten, in lad
 
 ## DEEL B. UITRUSTING
 
-#### Voorschrift 31. Bewakings- en regelsysteem voor olielozingen
+##### Voorschrift 31. Bewakings- en regelsysteem voor olielozingen
 
 1. Onverminderd het bepaalde in de [leden 4 en 5 van voorschrift 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=I&hoofdstuk=1&artikel=3&z=2026-03-01&g=2026-03-01) van deze Bijlage, dienen olietankschepen met een brutotonnage van 150 of meer te zijn uitgerust met een door de Administratie goedgekeurd bewakings- en regelsysteem voor olielozingen.
 
@@ -5485,11 +5507,11 @@ Ballasttoestanden waarbij het tankschip geen olie, behalve olierestanten, in lad
 
 4. De instructies inzake de werking van het systeem dienen in overeenstemming te zijn met een door de Administratie goedgekeurd operationeel handboek. Zij dienen zowel op handbediening als op automatische werking betrekking te hebben en te verzekeren, dat er in geen geval olie wordt geloosd, anders dan in overeenstemming met de voorwaarden omschreven in [voorschrift 34](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=I&hoofdstuk=4&deel=C&artikel=34&z=2026-03-01&g=2026-03-01) van deze Bijlage.
 
-#### Voorschrift 32. Detector voor het vaststellen van het olie-waterscheidingsvlak
+##### Voorschrift 32. Detector voor het vaststellen van het olie-waterscheidingsvlak
 
 Onverminderd de bepalingen van de [leden 4 en 5 van voorschrift 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=I&hoofdstuk=1&artikel=3&z=2026-03-01&g=2026-03-01) van deze Bijlage, dienen olietankschepen met een brutotonnage van 150 of meer te zijn uitgerust met doelmatige detectoren voor het vaststellen van het olie-waterscheidingsvlak, die door de Administratie zijn goedgekeurd voor het snel en accuraat vaststellen van het olie-waterscheidingsvlak in sloptanks en ook beschikbaar te zijn voor gebruik in andere tanks waarin olie en water gescheiden worden en van waaruit directe lozing van effluent in zee beoogd wordt.
 
-#### Voorschrift 33. Vereisten voor het wassen met ruwe olie
+##### Voorschrift 33. Vereisten voor het wassen met ruwe olie
 
 1. Elk ruwe-olietankschip met een draagvermogen van 20.000 ton of meer, opgeleverd na 1 juni 1982, als omschreven in [voorschrift 1.28.4](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=I&hoofdstuk=1&artikel=1&z=2026-03-01&g=2026-03-01), dient te zijn uitgerust met een ladingtankreinigingssysteem waarbij met ruwe olie wordt gewassen. De Administratie ziet erop toe dat de methode, binnen één jaar nadat het tankschip voor de eerste maal wordt gebruikt voor het vervoer van ruwe olie, of, indien dit tijdstip later valt, aan het einde van de derde reis waarop ruwe olie, geschikt voor de ruwe-oliewasmethode, wordt vervoerd, volledig voldoet aan de vereisten van dit voorschrift.
 
@@ -5499,7 +5521,7 @@ Onverminderd de bepalingen van de [leden 4 en 5 van voorschrift 3](https://wette
 
 ## DEEL C. REGELING VAN BEDRIJFSMATIGE LOZINGEN VAN OLIE
 
-#### Voorschrift 34. Regeling van het lozen van olie
+##### Voorschrift 34. Regeling van het lozen van olie
 
 **A. Lozingen buiten bijzondere gebieden uitgezonderd Arctische wateren**
 
@@ -5539,7 +5561,7 @@ Onverminderd de bepalingen van de [leden 4 en 5 van voorschrift 3](https://wette
 
 9. De olierestanten die niet in zee kunnen worden geloosd volgens de bepalingen van de leden 1 en 3 van dit voorschrift dienen aan boord te worden gehouden voor latere afgifte bij ontvangstinrichtingen.
 
-#### Voorschrift 35. Wassen met ruwe olie
+##### Voorschrift 35. Wassen met ruwe olie
 
 1. Elk olietankschip dat met ruwe-oliewassystemen werkt, dient een handboek aan boord te hebben waarin het systeem en de uitrusting beschreven staan en waarin de operationele procedures uiteen worden gezet. Dit handboek dient ten genoegen van de Administratie te zijn en alle informatie te bevatten die is opgenomen in de Specificaties genoemd in [lid 2 van voorschrift 33](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=I&hoofdstuk=4&deel=B&artikel=33&z=2026-03-01&g=2026-03-01) van deze Bijlage. Wanneer een wijziging wordt aangebracht die van invloed is op het systeem voor het wassen met ruwe olie dient het handboek dienovereenkomstig te worden aangepast.
 
@@ -5547,7 +5569,7 @@ Onverminderd de bepalingen van de [leden 4 en 5 van voorschrift 3](https://wette
 
 3. Tenzij een olietankschip ruwe olie vervoert die niet geschikt is voor de ruwe-oliewasmethode, dient het olietankschip de methode toe te passen in overeenstemming met het handboek.
 
-#### Voorschrift 36. Oliejournaal Deel II – Lading- en ballasthandelingen
+##### Voorschrift 36. Oliejournaal Deel II – Lading- en ballasthandelingen
 
 1. Elk olietankschip met een brutotonnage van 150 of meer dient te zijn voorzien van een Oliejournaal Deel II (Lading- en ballasthandelingen). Het Oliejournaal Deel II, hetzij als onderdeel van het scheepslogboek, als elektronisch journaal dat door de Administratie dient te worden goedgekeurd rekening houdend met de door de Organisatie opgestelde richtlijnen, of anderszins, dient te zijn ingedeeld volgens het model zoals aangegeven in [Aanhangsel III](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=III&z=2026-03-01&g=2026-03-01) bij deze Bijlage.
 
@@ -5589,7 +5611,7 @@ Onverminderd de bepalingen van de [leden 4 en 5 van voorschrift 3](https://wette
 
 ### HOOFDSTUK 5. VOORKOMING VAN VERONTREINIGING VOORTVLOEIEND UIT VOORVALLEN VAN VERONTREINIGING DOOR OLIE
 
-#### Voorschrift 37. Scheepsnoodplan voor olieverontreiniging
+##### Voorschrift 37. Scheepsnoodplan voor olieverontreiniging
 
 - 1. Ieder olietankschip met een brutotonnage van 150 of meer en ieder ander schip, geen olietankschip zijnde, met een brutotonnage van 400 of meer, dient een door de Administratie goedgekeurd scheepsnoodplan voor olieverontreiniging aan boord te hebben.
 
@@ -5609,7 +5631,7 @@ Onverminderd de bepalingen van de [leden 4 en 5 van voorschrift 3](https://wette
 
 ### HOOFDSTUK 6. ONTVANGSTINRICHTINGEN
 
-#### Voorschrift 38. Ontvangstinrichtingen
+##### Voorschrift 38. Ontvangstinrichtingen
 
 **A. Ontvangstinrichtingen buiten de bijzondere gebieden**
 
@@ -5699,7 +5721,7 @@ Onverminderd de bepalingen van de [leden 4 en 5 van voorschrift 3](https://wette
 
 ### HOOFDSTUK 7. BIJZONDERE VEREISTEN VOOR VASTE OF DRIJVENDE PLATFORMS
 
-#### Voorschrift 39. Bijzondere vereisten voor vaste of drijvende platforms
+##### Voorschrift 39. Bijzondere vereisten voor vaste of drijvende platforms
 
 - 1. Dit voorschrift is van toepassing op vaste of drijvende platforms, met inbegrip van boorinstallaties, drijvende productie-, opslag- en overslageenheden (FPSO’s) die buitengaats worden gebruikt voor de productie en opslag van olie, en drijvende opslageenheden (FSU’s) die worden gebruikt voor de opslag buitengaats van geproduceerde olie.
 
@@ -5715,7 +5737,7 @@ Onverminderd de bepalingen van de [leden 4 en 5 van voorschrift 3](https://wette
 
 ### HOOFDSTUK 1. ALGEMEEN
 
-#### Voorschrift 1. Begripsomschrijvingen
+##### Voorschrift 1. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage:
 
@@ -5807,13 +5829,13 @@ Voor de toepassing van deze Bijlage:
 
 - .2 wordt onder **laagvisceuze stof** verstaan, een schadelijke vloeistof die geen hoogvisceuze stof is.
 
-#### Voorschrift 2. Toepassing
+##### Voorschrift 2. Toepassing
 
 - 1. Tenzij uitdrukkelijk anders wordt bepaald, zijn de bepalingen van deze Bijlage van toepassing op alle schepen die gecertificeerd zijn voor het vervoer van schadelijke vloeistoffen in bulk.
 
 - 2. Wanneer een lading waarop de bepalingen van [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=I&z=2007-01-02&g=2007-01-02) van dit Verdrag van toepassing zijn, wordt vervoerd in een laadruim van een NLS-tankschip, zijn de desbetreffende bepalingen van Bijlage I van dit Verdrag ook van toepassing.
 
-#### Voorschrift 3. Uitzonderingen
+##### Voorschrift 3. Uitzonderingen
 
 - 1. De lozingsvereisten van deze Bijlage zijn niet van toepassing op de lozing in zee van schadelijke vloeistoffen of mengsels die deze stoffen bevatten wanneer een dergelijke lozing:
 
@@ -5827,7 +5849,7 @@ Voor de toepassing van deze Bijlage:
 
 - .3 wordt goedgekeurd door de Administratie, wanneer de lozing wordt gebruikt met het oog op de bestrijding van specifieke verontreinigingsvoorvallen of ter minimalisering van de door verontreiniging veroorzaakte schade. Dergelijke lozingen moeten worden goedgekeurd door de Regering in wier rechtsgebied de lozing naar verwachting zal plaatsvinden.
 
-#### Voorschrift 4. Ontheffingen
+##### Voorschrift 4. Ontheffingen
 
 - 1. Ten aanzien van de vervoersvereisten als gevolg van de indeling van de stof in een strengere categorie, is het volgende van toepassing:
 
@@ -5881,7 +5903,7 @@ Voor de toepassing van deze Bijlage:
 
 - .5 in het geval van schepen die reizen maken tussen havens of laad- en losplaatsen onder de rechtsmacht van andere Staten die Partij bij dit Verdrag zijn, de Administratie bijzonderheden omtrent de vrijstelling aan de Organisatie mededeelt en de Organisatie deze gegevens aan de Partijen bij dit Verdrag toezendt om daarvan kennis te nemen en eventueel passende maatregelen te treffen.
 
-#### Voorschrift 5. Gelijkwaardige voorzieningen
+##### Voorschrift 5. Gelijkwaardige voorzieningen
 
 - 1. De Administratie kan het aanbrengen van andere onderdelen, materialen, voorzieningen of apparatuur dan die welke in deze Bijlage worden voorgeschreven, op een schip toestaan, mits deze onderdelen, materialen, voorzieningen of apparatuur ten minste even doelmatig zijn als die welke in deze Bijlage worden vereist. Deze bevoegdheid van de Administratie strekt zich niet uit tot de vervanging van operationele methoden voor de beheersing van de lozing van schadelijke vloeistoffen als equivalent van de door de voorschriften in deze Bijlage voorgeschreven ontwerp- en constructievormen.
 
@@ -5901,7 +5923,7 @@ Voor de toepassing van deze Bijlage:
 
 ### HOOFDSTUK 2. INDELING IN CATEGORIEËN VAN GEVAARLIJKE VLOEISTOFFEN
 
-#### Voorschrift 6. Indeling in categorieën en opsomming van schadelijke vloeistoffen en andere stoffen
+##### Voorschrift 6. Indeling in categorieën en opsomming van schadelijke vloeistoffen en andere stoffen
 
 - 1. Voor de toepassing van de voorschriften van deze Bijlage, worden schadelijke vloeistoffen ingedeeld in de volgende vier categorieën:
 
@@ -5919,11 +5941,11 @@ Voor de toepassing van deze Bijlage:
 
 ### HOOFDSTUK 10. VERIFICATIE VAN DE NALEVING VAN DE BEPALINGEN VAN DIT VERDRAG
 
-#### Voorschrift 7. Onderzoek van en afgifte van een certificaat aan chemicaliëntankschepen
+##### Voorschrift 7. Onderzoek van en afgifte van een certificaat aan chemicaliëntankschepen
 
 Chemicaliëntankschepen die zijn onderzocht en waaraan een certificaat is afgegeven door Staten die Partij bij dit Verdrag zijn, overeenkomstig de bepalingen van de IBC-Code of de Code voor chemicaliën in bulk, al naar gelang van toepassing, worden niettegenstaande het bepaalde in de [voorschriften 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=II&hoofdstuk=3&artikel=8&z=2007-01-02&g=2007-01-02), [9](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=II&hoofdstuk=3&artikel=9&z=2007-01-02&g=2007-01-02) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=II&hoofdstuk=3&artikel=10&z=2007-01-02&g=2007-01-02) van deze Bijlage geacht te hebben voldaan aan het bepaalde in de genoemde voorschriften, en het krachtens deze Code afgegeven certificaat heeft dezelfde waarde en moet op dezelfde wijze worden erkend als het krachtens het bepaalde in voorschrift 9 van deze Bijlage afgegeven certificaat.
 
-#### Voorschrift 8. Onderzoeken
+##### Voorschrift 8. Onderzoeken
 
 - 1. Schepen die schadelijke vloeistoffen in bulk vervoeren, zijn onderworpen aan de hieronder aangegeven onderzoeken:
 
@@ -5959,7 +5981,7 @@ Chemicaliëntankschepen die zijn onderzocht en waaraan een certificaat is afgege
 
 - 3.3. Wanneer een ongeval plaatsvindt met een schip of gebreken worden geconstateerd waardoor de integriteit van het schip of de doelmatigheid of volledigheid van de uitrusting waarop deze Bijlage van toepassing is wezenlijk worden aangetast, rapporteert de kapitein of eigenaar van het schip dit zo spoedig mogelijk aan de Administratie, de erkende organisatie of de benoemde inspecteur die verantwoordelijk is voor de afgifte van het desbetreffende certificaat; deze ziet erop toe dat een onderzoek wordt ingesteld om te bepalen of een onderzoek als vereist op grond van lid 1 van dit voorschrift noodzakelijk is. Indien het schip in een haven van een andere Partij ligt, dient de kapitein of eigenaar van het schip eveneens onverwijld de desbetreffende autoriteiten van de havenstaat in te lichten en dient de benoemde inspecteur of erkende organisatie na te gaan of een dergelijke melding heeft plaatsgevonden.
 
-#### Voorschrift 9. Afgifte van of aantekening op het certificaat
+##### Voorschrift 9. Afgifte van of aantekening op het certificaat
 
 - 1. Na een eerste onderzoek of een hernieuwd onderzoek overeenkomstig de bepalingen van [voorschrift 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=II&hoofdstuk=3&artikel=8&z=2007-01-02&g=2007-01-02) van deze Bijlage wordt een Internationaal certificaat betreffende voorkoming van verontreiniging voor het vervoer van schadelijke vloeistoffen in bulk afgegeven aan elk schip dat bestemd is om schadelijke vloeistoffen in bulk te vervoeren en dat reizen maakt naar havens of laad- of losplaatsen buitengaats onder de rechtsmacht van andere Partijen bij het Verdrag.
 
@@ -5975,7 +5997,7 @@ Chemicaliëntankschepen die zijn onderzocht en waaraan een certificaat is afgege
 
 - 4. Het Internationaal certificaat betreffende voorkoming van verontreiniging voor het vervoer van schadelijke vloeistoffen in bulk wordt opgesteld overeenkomstig het model opgenomen in [aanhangsel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=3&z=2007-01-02&g=2007-01-02) bij deze Bijlage en dient ten minste in de Engelse, de Franse of de Spaanse taal te zijn opgesteld. Wanneer de aantekeningen tevens zijn gesteld in een officiële taal van de Staat waarvan het schip gerechtigd is de vlag te voeren, zijn deze doorslaggevend in geval van een geschil of een tegenstrijdigheid.
 
-#### Voorschrift 10. Geldigheidsduur en geldigheid van het certificaat
+##### Voorschrift 10. Geldigheidsduur en geldigheid van het certificaat
 
 - 1. Een Internationaal certificaat betreffende voorkoming van verontreiniging voor het vervoer van schadelijke vloeistoffen in bulk wordt afgegeven voor een door de Administratie vastgesteld tijdvak dat evenwel niet langer is dan vijf jaar.
 
@@ -6011,7 +6033,7 @@ Chemicaliëntankschepen die zijn onderzocht en waaraan een certificaat is afgege
 
 - .3 bij overdracht van het schip onder de vlag van een andere Staat. Er mag uitsluitend een nieuw certificaat worden afgegeven wanneer de Regering die het nieuwe certificaat afgeeft er ten volle van overtuigd is dat het schip volledig voldoet aan de vereisten van de [voorschriften 8.3.1 en 8.3.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=II&hoofdstuk=3&artikel=8&z=2007-01-02&g=2007-01-02) van deze Bijlage. In het geval van een overdracht tussen Partijen zendt de Regering van de Partij wier vlag het schip voordien gerechtigd was te voeren, indien zij daarom wordt verzocht binnen drie maanden nadat de overdracht heeft plaatsgevonden, zo spoedig mogelijk aan de Administratie van de andere Partij afschriften van het certificaat die het schip aan boord had vóór de overdracht en, indien beschikbaar, afschriften van de desbetreffende onderzoeksrapporten.
 
-#### Voorschrift 11. Ontwerp, constructie, uitrusting en bedrijfsvoering
+##### Voorschrift 11. Ontwerp, constructie, uitrusting en bedrijfsvoering
 
 - 1. Van schepen gecertificeerd voor het vervoer van schadelijke vloeistoffen in bulk genoemd in hoofdstuk 17 van de Internationale code voor chemicaliën in bulk, dienen het ontwerp, de constructie, de uitrusting en de bedrijfsvoering in overeenstemming met de volgende bepalingen te zijn, zodat het ongecontroleerd lozen in zee van dergelijke stoffen tot een minimum wordt beperkt:
 
@@ -6031,7 +6053,7 @@ Chemicaliëntankschepen die zijn onderzocht en waaraan een certificaat is afgege
 
 - 2. Ten aanzien van andere schepen dan chemicaliëntankschepen of vloeibaar-gastankschepen gecertificeerd voor het vervoer van schadelijke vloeistoffen in bulk genoemd in hoofdstuk 17 van de Internationale code voor chemicaliën in bulk, stelt de Administratie passende maatregelen op aan de hand van de door de Organisatie ontwikkelde Richtlijnen, zodat het ongecontroleerd lozen in zee van dergelijke stoffen tot een minimum wordt beperkt.
 
-#### Voorschrift 12. Pompen, pijpleidingen, losvoorzieningen en sloptanks
+##### Voorschrift 12. Pompen, pijpleidingen, losvoorzieningen en sloptanks
 
 - 1. Elk schip dat vóór 1 juli 1986 is gebouwd dient te zijn uitgerust met een pomp- en pijpleidingvoorziening die waarborgt dat in geen van de tanks gecertificeerd voor het vervoer van stoffen van categorie X of Y een residu achterblijft van meer dan 300 liter in de tank en de bijbehorende pijpleidingen en dat in geen van de tanks gecertificeerd voor het vervoer van stoffen van categorie Z een residu achterblijft van meer dan 900 liter in de tank en de bijbehorende pijpleidingen. In overeenstemming met [aanhangsel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=5&z=2007-01-02&g=2007-01-02) van deze Bijlage wordt de werking van deze voorzieningen beproefd.
 
@@ -6057,7 +6079,7 @@ Chemicaliëntankschepen die zijn onderzocht en waaraan een certificaat is afgege
 
 ### HOOFDSTUK 2. INDELING IN CATEGORIEËN VAN GEVAARLIJKE VLOEISTOFFEN
 
-#### Voorschrift 13. Regeling van lozingen van residuen van schadelijke vloeistoffen
+##### Voorschrift 13. Regeling van lozingen van residuen van schadelijke vloeistoffen
 
 Onverminderd de bepalingen van [voorschrift 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=II&hoofdstuk=1&artikel=3&z=2007-01-02&g=2007-01-02) van deze Bijlage dient de regeling van lozingen van residuen van schadelijke vloeistoffen of van ballastwater, tankwaswater of andere mengsels die dergelijke stoffen bevatten, in overeenstemming te zijn met de volgende vereisten.
 
@@ -6147,13 +6169,13 @@ Op verzoek van de kapitein van het schip kan een ontheffing voor het voorwassen 
 
 - 8.2. In het Antarctisch gebied zijn lozingen in de zee van schadelijke vloeistoffen of mengsels die zodanige stoffen bevatten, verboden.
 
-#### Voorschrift 14. Handboek voor procedures en voorzieningen
+##### Voorschrift 14. Handboek voor procedures en voorzieningen
 
 - 1. Elk schip dat is gecertificeerd om stoffen van categorie X, Y of Z te vervoeren, moet een door de Administratie goedgekeurd Handboek aan boord hebben. Het Handboek dient overeenkomstig [aanhangsel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=4&z=2007-01-02&g=2007-01-02) bij deze Bijlage een standaardformaat te hebben. In het geval van een schip dat internationale reizen maakt waarop de gebruikte taal een andere is dan de Engelse, de Franse of de Spaanse taal gaat de tekst vergezeld van een vertaling in één van deze talen.
 
 - 2. Het Handboek heeft voornamelijk tot doel voor de officieren op het schip vast te stellen wat de fysieke voorzieningen en alle operationele procedures zijn die met betrekking tot het behandelen van lading, het reinigen van tanks, de behandeling van residuen uit sloptanks en het ballasten en ontballasten van ladingtanks in acht dienen te worden genomen teneinde te voldoen aan de vereisten van deze Bijlage.
 
-#### Voorschrift 15. Ladingjournaal
+##### Voorschrift 15. Ladingjournaal
 
 - 1. Elk schip waarop deze Bijlage van toepassing is, dient te zijn voorzien van een Ladingjournaal, al dan niet als onderdeel van het voorgeschreven scheepsdagboek, in de vorm als omschreven in [aanhangsel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=2&z=2007-01-02&g=2007-01-02) bij deze Bijlage.
 
@@ -6169,7 +6191,7 @@ Op verzoek van de kapitein van het schip kan een ontheffing voor het voorwassen 
 
 ### HOOFDSTUK 2. INDELING IN CATEGORIEËN VAN GEVAARLIJKE VLOEISTOFFEN
 
-#### Voorschrift 16. Maatregelen ten behoeve van het toezicht
+##### Voorschrift 16. Maatregelen ten behoeve van het toezicht
 
 - 1. De Regering van elke Partij bij dit Verdrag benoemt of machtigt inspecteurs, belast met de zorg voor de naleving van dit voorschrift. De inspecteurs oefenen toezicht uit overeenkomstig de door de Organisatie opgestelde controleprocedures.
 
@@ -6205,7 +6227,7 @@ Op verzoek van de kapitein van het schip kan een ontheffing voor het voorwassen 
 
 ### HOOFDSTUK 3. ONDERZOEKEN EN CERTIFICERINGEN
 
-#### Voorschrift 17. Rampenplan aan boord van schepen voor verontreiniging van de zee door schadelijke vloeistoffen
+##### Voorschrift 17. Rampenplan aan boord van schepen voor verontreiniging van de zee door schadelijke vloeistoffen
 
 - 1. Elk schip met een bruto-tonnage van 150 of meer dat is gecertificeerd voor het vervoer in bulk van schadelijke vloeistoffen dient een door de Administratie goedgekeurd scheepsnoodplan voor verontreiniging van de zee door schadelijke vloeistoffen aan boord te hebben.
 
@@ -6221,7 +6243,7 @@ Op verzoek van de kapitein van het schip kan een ontheffing voor het voorwassen 
 
 - 3. In het geval van schepen waarop [voorschrift 37 van Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=I&hoofdstuk=5&artikel=37&z=2007-01-02&g=2007-01-02) bij het Verdrag ook van toepassing is, kan een dergelijk plan gecombineerd worden met het rampenplan voor olieverontreiniging aan boord van schepen dat vereist is ingevolge voorschrift 37 van Bijlage I bij het Verdrag. In dit geval luidt de titel van het plan „Scheepsnoodplan voor verontreiniging van de zee”.
 
-#### Voorschrift 18. Ontvangstinrichtingen en losplaatsvoorzieningen
+##### Voorschrift 18. Ontvangstinrichtingen en losplaatsvoorzieningen
 
 - 1. De Regering van elke Partij bij dit Verdrag verbindt zich ertoe, zorg te dragen voor de installatie van ontvangstinrichtingen al naar gelang de behoeften van schepen, die gebruik maken van haar havens, laad- en losplaatsen of scheepsreparatiehavens, en wel als volgt:
 
@@ -6237,7 +6259,7 @@ Op verzoek van de kapitein van het schip kan een ontheffing voor het voorwassen 
 
 - 5. Elke Partij geeft kennis aan de Organisatie, ter mededeling aan de betrokken Partijen, van ieder geval waarin wordt beweerd dat de krachtens het bepaalde in lid 1 van dit voorschrift vereiste inrichtingen of de krachtens het bepaalde in lid 3 van dit voorschrift vereiste voorzieningen ontoereikend zijn.
 
-#### Voorschrift 1. Toepassing
+##### Voorschrift 1. Toepassing
 
 1. Tenzij uitdrukkelijk anders is bepaald, zijn de voorschriften van deze Bijlage van toepassing op alle schepen die schadelijke stoffen vervoeren in verpakte vorm.
 
@@ -6255,11 +6277,11 @@ Op verzoek van de kapitein van het schip kan een ontheffing voor het voorwassen 
 
 5. De vereisten van deze Bijlage gelden niet voor voorraden en uitrusting aan boord van schepen.
 
-#### Voorschrift 2. Verpakking
+##### Voorschrift 2. Verpakking
 
 Verpakkingen dienen, met het oog op hun specifieke inhoud, toereikend te zijn om het gevaar voor het mariene milieu tot een minimum te beperken.
 
-#### Voorschrift 3. Merken en etiketteren
+##### Voorschrift 3. Merken en etiketteren
 
 1. Verpakkingen die een schadelijke stof bevatten, dienen duurzaam te zijn gemerkt met de juiste technische benaming (handelsnamen alleen mogen niet worden gebruikt) en dienen voorts duurzaam te zijn gemerkt of geëtiketteerd om aan te geven dat de stof een de zee verontreinigende stof is. Een dergelijke aanduiding dient waar mogelijk te worden aangevuld met andere gegevens, bijvoorbeeld door vermelding van het desbetreffende nummer van de Verenigde Naties.
 
@@ -6267,7 +6289,7 @@ Verpakkingen dienen, met het oog op hun specifieke inhoud, toereikend te zijn om
 
 3. Verpakkingen die kleine hoeveelheden schadelijke stoffen bevatten, kunnen van de vereisten inzake merken worden vrijgesteld.*Verwezen wordt naar de specifieke vrijstellingen bepaald in de Internationale Code voor Gevaarlijke Stoffen (IMDG-Code).
 
-#### Voorschrift 4. Begeleidende papieren**De verwijzing naar „begeleidende papieren” in dit voorschrift sluit niet het gebruik uit van technieken voor toezending via elektronische gegevensverwerking (EDP) en elektronische uitwisseling van gegevens (EDI) ter ondersteuning van de gegevens op papier.
+##### Voorschrift 4. Begeleidende papieren**De verwijzing naar „begeleidende papieren” in dit voorschrift sluit niet het gebruik uit van technieken voor toezending via elektronische gegevensverwerking (EDP) en elektronische uitwisseling van gegevens (EDI) ter ondersteuning van de gegevens op papier.
 
 1. In alle documenten die betrekking hebben op het vervoer over zee van schadelijke stoffen, waarin dergelijke stoffen met een naam worden aangeduid, dient de juiste technische benaming van elke stof te worden gebruikt (handelsnamen alleen mogen niet worden gebruikt) en dient de stof voorts te worden geïdentificeerd door toevoeging van de woorden „DE ZEE VERONTREINIGENDE STOF”.
 
@@ -6277,21 +6299,21 @@ Verpakkingen dienen, met het oog op hun specifieke inhoud, toereikend te zijn om
 
 4. Wanneer een schip beschikt over een bijzondere lijst of manifest of een gedetailleerd stuwplan zoals voor het vervoer van gevaarlijke stoffen is vereist ingevolge het Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974, zoals gewijzigd, mogen de ingevolge dit voorschrift vereiste documenten worden gecombineerd met die voor gevaarlijker stoffen. Ingeval documenten zijn gecombineerd, dient duidelijk onderscheid te worden gemaakt tussen gevaarlijke stoffen en onder deze Bijlage vallende schadelijke stoffen.
 
-#### Voorschrift 5. Stuwage
+##### Voorschrift 5. Stuwage
 
 Schadelijke stoffen dienen op de juiste wijze te worden gestuwd en vastgezet, ter beperking van de gevaren voor het mariene milieu, zonder afbreuk te doen aan de veiligheid van het schip en de zich aan boord bevindende personen.
 
-#### Voorschrift 6. Beperkingen van hoeveelheid
+##### Voorschrift 6. Beperkingen van hoeveelheid
 
 Om gegronde wetenschappelijke en technische redenen kan het vervoer van bepaalde schadelijke stoffen worden verboden of de hoeveelheid die aan boord van een schip mag worden vervoerd, worden beperkt. Bij het beperken van de hoeveelheid dient goede aandacht te worden geschonken aan de grootte, de constructie en de uitrusting van het schip, alsmede aan de verpakking en de aard van de stoffen.
 
-#### Voorschrift 7. Uitzonderingen
+##### Voorschrift 7. Uitzonderingen
 
 1. Het overboord zetten van schadelijke stoffen die worden vervoerd in verpakte vorm is verboden, behalve wanneer dit noodzakelijk is om de veiligheid van het schip te verzekeren of om mensenlevens op zee te redden.
 
 2. Behoudens de bepalingen van dit Verdrag dienen op grond van de natuurkundige, scheikundige en biologische eigenschappen van schadelijke stoffen passende maatregelen te worden genomen om het overboord spoelen van zulke door lekkage vrijgekomen stoffen te regelen, mits de uitvoering van deze maatregelen de veiligheid van het schip en van de zich aan boord bevindende personen niet in gevaar brengt.
 
-#### Voorschrift 8. De door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
+##### Voorschrift 8. De door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
 
 - 1. Een schip dat zich bevindt in een haven van een andere Partij dient te worden geïnspecteerd door ambtenaren die door bedoelde Partij naar behoren zijn gemachtigd om te controleren of is voldaan aan de in deze Bijlage bedoelde vereisten met betrekking tot de bedrijfsvoering aan boord, wanneer er duidelijke gronden zijn om aan te nemen dat de kapitein of de leden van de bemanning niet op de hoogte zijn van de essentiële werkwijzen die aan boord moeten worden toegepast om verontreiniging door schadelijke stoffen te voorkomen.
 
@@ -6303,7 +6325,7 @@ Om gegronde wetenschappelijke en technische redenen kan het vervoer van bepaalde
 
 ### HOOFDSTUK 6. MAATREGELEN TEN BEHOEVE VAN HET TOEZICHT DOOR HAVENSTATEN
 
-#### Voorschrift 1. Begripsomschrijvingen
+##### Voorschrift 1. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage wordt verstaan onder:
 
@@ -6361,7 +6383,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 - 8. „verjaardatum”, de dag en maand van elk jaar die overeenkomen met de datum waarop het Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair Afval verloopt.
 
-#### Voorschrift 2. Toepassing
+##### Voorschrift 2. Toepassing
 
 - 1. De bepalingen van deze Bijlage zijn van toepassing op de volgende schepen die internationale reizen maken:
 
@@ -6375,7 +6397,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 - 2. De Administratie dient te waarborgen dat bestaande schepen, overeenkomstig de punten 1.3 en 1.4 van dit voorschrift, waarvan de kiel is gelegd of waarvan de bouw zich in een soortgelijk stadium bevond voor 2 oktober 1983 voorzover praktisch uitvoerbaar zijn uitgerust met voorzieningen voor het lozen van sanitair afval in overeenstemming met de vereisten van [voorschrift 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=IV&hoofdstuk=3&artikel=11&z=2007-01-02&g=2007-01-02) van de Bijlage.
 
-#### Voorschrift 3. Uitzonderingen
+##### Voorschrift 3. Uitzonderingen
 
 - 1. Voorschrift 11 van deze Bijlage is niet van toepassing op:
 
@@ -6385,7 +6407,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 ### HOOFDSTUK 8. ONTVANGSTINRICHTINGEN
 
-#### Voorschrift 4. Onderzoeken
+##### Voorschrift 4. Onderzoeken
 
 - 1. Elk schip dat in overeenstemming met [voorschrift 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=IV&hoofdstuk=1&artikel=2&z=2007-01-02&g=2007-01-02) dient te voldoen aan de bepalingen van deze Bijlage dient de volgende onderzoeken te ondergaan:
 
@@ -6415,13 +6437,13 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 - 9. Wanneer een ongeval plaatsvindt met een schip of een defect wordt ontdekt waardoor de hechtheid van het schip of de doelmatigheid of volledigheid van de uitrusting waarop deze bijlage van toepassing is wezenlijk worden aangetast, rapporteert de kapitein of eigenaar van het schip dit zo spoedig mogelijk aan de Administratie, de erkende organisatie of de aangewezen inspecteur die verantwoordelijk is voor de afgifte van het desbetreffende certificaat, die erop toeziet dat een onderzoek wordt ingesteld om te bepalen of een inspectie als vereist op grond van punt 1 van dit voorschrift noodzakelijk is. Indien het schip zich bevindt in een haven van een andere Partij, meldt de kapitein of eigenaar van het schip dit tevens onverwijld aan de desbetreffende autoriteiten van de havenstaat en de aangewezen inspecteur of erkende organisatie dient vast te stellen of deze melding heeft plaatsgevonden.
 
-#### Voorschrift 5. Afgifte of goedkeuring van een certificaat
+##### Voorschrift 5. Afgifte of goedkeuring van een certificaat
 
 - 1. Een Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair Afval wordt afgegeven na een eerste onderzoek of een hernieuwd onderzoek in overeenstemming met de bepalingen van [voorschrift 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=IV&hoofdstuk=2&artikel=4&z=2007-01-02&g=2007-01-02) van deze Bijlage aan elk schip dat reizen maakt naar havens of losplaatsen buitengaats onder de rechtsmacht van andere Partijen bij het Verdrag. Ten aanzien van bestaande schepen zal dit vereiste vijf jaar na de datum van inwerkingtreding van deze Bijlage van toepassing worden.
 
 - 2. Deze certificaten worden afgegeven of goedgekeurd hetzij door de Administratie, hetzij door een daartoe door haar naar behoren gemachtigde persoon of organisatie1)Zie de door de Organisatie bij resolutie A.739(18) aangenomen Richtlijnen voor de bevoegdverklaring van organisaties die optreden namens Administraties en de door de Organisatie bij resolutie A.789(19) aangenomen Specificaties inzake de onderzoeks- en certificeringsfuncties van erkende organisaties die optreden namens de Administratie.. In alle gevallen neemt de Administratie de volledige verantwoordelijkheid voor het certificaat op zich.
 
-#### Voorschrift 6. Afgifte of aantekening op een certificaat door de Regering van een ander land
+##### Voorschrift 6. Afgifte of aantekening op een certificaat door de Regering van een ander land
 
 - 1. Op verzoek van de Administratie kan de Regering van een Partij bij het Verdrag een schip doen onderzoeken en, indien zij ervan overtuigd is dat aan de bepalingen van dit Verdrag wordt voldaan, geeft zij het certificaat af of geeft zij toestemming voor afgifte van een Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair Afval aan het schip, en waar van toepassing plaatst zij een aantekening op het certificaat of geeft zij toestemming voor het plaatsen van een aantekening op dat certificaat van het schip in overeenstemming met deze Bijlage.
 
@@ -6431,11 +6453,11 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 - 4. Er wordt geen internationaal certificaat van voorkoming van verontreiniging door sanitair afval afgegeven aan een schip dat gerechtigd is de vlag te voeren van een Staat die geen Partij is.
 
-#### Voorschrift 7. Model van het certificaat
+##### Voorschrift 7. Model van het certificaat
 
 Het Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair Afval wordt opgesteld overeenkomstig het model opgenomen in het aanhangsel bij deze Bijlage en dient ten minste in de Engelse, de Franse of de Spaanse taal te zijn opgesteld. Indien tevens de officiële taal van het land van afgifte wordt gebruikt, is deze doorslaggevend bij geschillen of tegenstrijdigheden.
 
-#### Voorschrift 8. Looptijd en geldigheid van het certificaat
+##### Voorschrift 8. Looptijd en geldigheid van het certificaat
 
 - 1. Een Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair Afval wordt afgegeven voor een door de Administratie vastgestelde termijn die evenwel niet langer is dan vijf jaar.
 
@@ -6465,7 +6487,7 @@ Het Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair 
 
 ### HOOFDSTUK 3. UITRUSTING EN BEHEERSING VAN LOZINGEN
 
-#### Voorschrift 9. Systemen voor sanitair afval
+##### Voorschrift 9. Systemen voor sanitair afval
 
 - 1. Elk schip dat in overeenstemming met voorschrift 2 dient te voldoen aan de bepalingen van deze Bijlage, dient te zijn uitgerust met een van de volgende systemen voor sanitair afval:
 
@@ -6475,7 +6497,7 @@ Het Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair 
 
 - .3 een verzameltank met naar het oordeel van de Administratie voldoende capaciteit voor het opslaan van alle sanitair afval, rekening houdend met de exploitatie van het schip, het aantal opvarenden en andere relevante factoren. De constructie van de verzameltank dient ten genoegen van de Administratie te zijn en voorzien te zijn van een voorziening voor visuele inspectie van het niveau van de inhoud.
 
-#### Voorschrift 10. Standaardaansluitingen voor afgifte
+##### Voorschrift 10. Standaardaansluitingen voor afgifte
 
 - 1. Teneinde de leiding van de ontvangstinrichting te kunnen aansluiten op de scheepsleiding voor afgifte, dienen beide leidingen te zijn voorzien van een standaardaansluiting voor afgifte overeenkomstig de volgende tabel: Voor schepen met een holte naar de mal van 5 meter of minder, mag de inwendige diameter van de aansluiting voor afgifte 38 mm bedragen.
 
@@ -6491,7 +6513,7 @@ Het Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair 
 
 - 2. Voor schepen voor specifiek gebruik, bijv. passagiersveerboten, kan de scheepsleiding voor afgifte ook worden voorzien van een voor de Administratie aanvaardbare aansluiting voor afgifte, zoals een snelkoppeling.
 
-#### Voorschrift 11. Lozen van sanitair afval
+##### Voorschrift 11. Lozen van sanitair afval
 
 - 1. Onverminderd de bepalingen van voorschrift 3 van deze Bijlage is het lozen in zee van sanitair afval verboden, behalve wanneer:
 
@@ -6509,13 +6531,13 @@ Het Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair 
 
 ### HOOFDSTUK 4. ONTVANGSTINRICHTINGEN
 
-#### Voorschrift 12. Ontvangstinrichtingen
+##### Voorschrift 12. Ontvangstinrichtingen
 
 - 1. De Regering van elke Partij bij het Verdrag, die van alle schepen in de wateren die onder haar rechtsmacht vallen vereist dat zij voldoen aan de eisen van voorschrift 11.1, verbindt zich tot het installeren in havens en laad- en losplaatsen van inrichtingen voor het in ontvangst nemen van sanitair afval, zonder onnodig oponthoud van de schepen te veroorzaken, die toereikend zijn voor de behoeften van de schepen die er gebruik van maken.
 
 - 2. De Regering van elke Partij stelt de Organisatie in kennis, opdat deze de andere betrokken Verdragsluitende Regeringen op de hoogte kan stellen, van alle gevallen waarin gesteld wordt dat de uit hoofde van dit voorschrift ter beschikking gestelde voorzieningen onvoldoende zijn.
 
-#### Voorschrift 1. Omschrijvingen
+##### Voorschrift 1. Omschrijvingen
 
 Voor de toepassing van deze Bijlage:
 
@@ -6525,11 +6547,11 @@ Voor de toepassing van deze Bijlage:
 
 - (3). wordt onder „bijzonder gebied” verstaan een zeegebied waarbinnen, om algemeen aanvaarde technische redenen met betrekking tot de oceanografische en ecologische toestand en het speciale karakter van het scheepvaartverkeer binnen dat gebied, het volgen van bijzondere noodzakelijke methoden ter voorkoming van verontreiniging van de zee door vuilnis moeten worden genomen. Onder deze bijzondere gebieden worden begrepen de gebieden genoemd in Voorschrift 5 van deze Bijlage.
 
-#### Voorschrift 2. Toepassing
+##### Voorschrift 2. Toepassing
 
 Tenzij uitdrukkelijk anders bepaald, zijn de bepalingen van deze Bijlage van toepassing op alle schepen.
 
-#### Voorschrift 3. Storten van vuilnis buiten bijzondere gebieden
+##### Voorschrift 3. Storten van vuilnis buiten bijzondere gebieden
 
 - (1). Behoudens de bepalingen van de Voorschriften 4, 5 en 6 van deze Bijlage:
 
@@ -6545,13 +6567,13 @@ Tenzij uitdrukkelijk anders bepaald, zijn de bepalingen van deze Bijlage van toe
 
 - (2). Ingeval de vuilnis is vermengd met andere lozingen, waarvoor afwijkende eisen gelden met betrekking tot verwijderen of lozen, zijn de zwaarste eisen van toepassing.
 
-#### Voorschrift 4. Speciale eisen voor het storten van vuilnis
+##### Voorschrift 4. Speciale eisen voor het storten van vuilnis
 
 - (1). Behoudens de bepalingen van paragraaf (2) van dit Voorschrift is het storten van stoffen waarop dit Voorschrift van toepassing is, verboden vanaf vaste of drijvende platforms buitengaats gebezigd bij de exploratie, exploitatie en daarbij behorende verwerking van minerale zeebodemschatten, alsmede vanaf alle andere schepen, wanneer deze zich langszij of binnen 500 meter van dergelijke platforms bevinden.
 
 - (2). Het storten in zee van voedselresten vanaf vaste of drijvende platforms kan worden toegestaan, ingeval deze door een afbreek- of maalinstallatie zijn gevoerd en deze platforms zich meer dan 12 zeemijlen vanaf het dichtstbijzijnde land bevinden, alsmede van alle andere schepen, ingeval deze zich langszij of binnen 500 meter van zulke platforms bevinden. Deze afgebroken of gemalen voedselresten moeten een rooster met gaten van maximaal 25 mm kunnen passeren.
 
-#### Voorschrift 5. Storten van vuilnis binnen bijzondere gebieden
+##### Voorschrift 5. Storten van vuilnis binnen bijzondere gebieden
 
 - (1). Voor de toepassing van deze Bijlage worden onder bijzondere gebieden verstaan de gebieden van de Middellandse Zee, de Oostzee, de Zwarte Zee, de Rode Zee, de „Golf”, de Noordzee, de Zuidpool en het Caraïbisch Gebied, met inbegrip van de Golf van Mexico en de Caraïbische Zee, die als volgt worden omschreven:
 
@@ -6605,7 +6627,7 @@ Tenzij uitdrukkelijk anders bepaald, zijn de bepalingen van deze Bijlage van toe
 
 - b. De Regering van elke Partij bij het Verdrag verzekert dat alle schepen die gerechtigd zijn haar vlag te voeren, alvorens het Antarctisch gebied binnen te varen zijn uitgerust met een tank of tanks van voldoende capaciteit aan boord voor het aan boord houden van alle vuilnis terwijl zij in bedrijf zijn in het gebied en regelingen hebben gesloten om dit vuilnis af te geven aan een ontvangstinrichting na het verlaten van het gebied.
 
-#### Voorschrift 6. Uitzonderingen
+##### Voorschrift 6. Uitzonderingen
 
 De Voorschriften 3, 4 en 5 van deze Bijlage zijn niet van toepassing op:
 
@@ -6615,13 +6637,13 @@ De Voorschriften 3, 4 en 5 van deze Bijlage zijn niet van toepassing op:
 
 - (2c). het toevallige verlies van synthetische visnetten, mits alle redelijke voorzorgen zijn genomen om dit verlies te voorkomen.
 
-#### Voorschrift 7. Ontvangstinrichtingen
+##### Voorschrift 7. Ontvangstinrichtingen
 
 - (1). De Regering van elke Partij bij dit Verdrag verbindt zich tot het installeren, in havens en laad- en losplaatsen, van inrichtingen voor het in ontvangst nemen van vuilnis, zonder onnodig oponthoud van de schepen te veroorzaken, en die toereikend zijn om te voldoen aan de behoeften van de schepen die er gebruik van maken.
 
 - (2). De Regering van elke Partij stelt de Organisatie in kennis van alle gevallen waarin de inrichtingen welke ingevolge de bepalingen van dit Voorschrift zijn aangebracht als ontoereikend worden aangemerkt, dit ter mededeling aan de betrokken Partijen.
 
-#### Voorschrift 8. De door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
+##### Voorschrift 8. De door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
 
 - 1. Een schip dat zich bevindt in een haven van een andere Partij dient te worden geïnspecteerd door ambtenaren die door bedoelde Partij naar behoren zijn gemachtigd om te controleren of is voldaan aan de in deze Bijlage bedoelde vereisten met betrekking tot de bedrijfsvoering aan boord, wanneer er duidelijke gronden zijn om aan te nemen dat de kapitein of de leden van de bemanning niet op de hoogte zijn van de essentiële werkwijzen die aan boord moeten worden toegepast om verontreiniging door vuilnis te voorkomen.
 
@@ -6631,7 +6653,7 @@ De Voorschriften 3, 4 en 5 van deze Bijlage zijn niet van toepassing op:
 
 - 4. Geen enkele bepaling van dit voorschrift mag zo worden uitgelegd dat daardoor de rechten en plichten van een Partij die de uitdrukkelijk in dit Verdrag genoemde vereisten met betrekking tot de bedrijfsvoering aan boord controleert, worden beperkt.
 
-#### Voorschrift 9. Informatieborden, vuilnisbeheerplannen en het bijhouden van de gegevens inzake vuilnis
+##### Voorschrift 9. Informatieborden, vuilnisbeheerplannen en het bijhouden van de gegevens inzake vuilnis
 
 - 1.
 
@@ -6667,7 +6689,7 @@ DONE at London this second day of November, one thousand nine hundred and sevent
 
 ### HOOFDSTUK 1. ALGEMEEN
 
-#### Voorschrift 1. Begripsomschrijvingen
+##### Voorschrift 1. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage wordt verstaan onder:
 
@@ -6761,7 +6783,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 - .4. geen voorzieningen heeft die sanitair afval, zoals omschreven in [voorschrift 1.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=IV&hoofdstuk=1&artikel=1&z=2026-03-01&g=2026-03-01) van deze Bijlage, kunnen produceren.
 
-#### Voorschrift 2. Toepassing
+##### Voorschrift 2. Toepassing
 
 - 1. De bepalingen van deze Bijlage zijn van toepassing op de volgende schepen die internationale reizen maken:
 
@@ -6775,7 +6797,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 - 2. De Administratie dient te waarborgen dat bestaande schepen, overeenkomstig de punten 1.3 en 1.4 van dit voorschrift, waarvan de kiel is gelegd of waarvan de bouw zich in een soortgelijk stadium bevond voor 2 oktober 1983 voorzover praktisch uitvoerbaar zijn uitgerust met voorzieningen voor het lozen van sanitair afval in overeenstemming met de vereisten van [voorschrift 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=IV&hoofdstuk=3&artikel=11&z=2026-03-01&g=2026-03-01) van de Bijlage.
 
-#### Voorschrift 3. Uitzonderingen en vrijstellingen
+##### Voorschrift 3. Uitzonderingen en vrijstellingen
 
 - 1. [Voorschrift 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=IV&hoofdstuk=1&artikel=3&z=2026-03-01&g=2026-03-01) van deze Bijlage en sectie 4.2 van hoofdstuk 4 van deel II-A van de Polar Code zijn niet van toepassing op:
 
@@ -6785,7 +6807,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 - 2. De Administratie kan een onbemande lichter zonder eigen voortstuwing (UNSP-lichter) vrijstelling verlenen van de vereisten van [voorschriften 4.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=IV&hoofdstuk=2&artikel=4&z=2026-03-01&g=2026-03-01) en [5.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=IV&hoofdstuk=2&artikel=5&z=2026-03-01&g=2026-03-01) van deze Bijlage door middel van een Internationaal certificaat van vrijstelling voor onbemande lichters zonder eigen voortstuwing (UNSP-lichters) betreffende het voorkomen van verontreiniging door sanitair afval, voor een tijdvak van ten hoogste vijf jaar mits de UNSP-lichter aan een onderzoek is onderworpen om te bevestigen dat aan de in [voorschriften 1.16.1 tot en met 1.16.4](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=IV&hoofdstuk=1&artikel=1&z=2026-03-01&g=2026-03-01) van deze Bijlage bedoelde vereisten is voldaan.
 
-#### Voorschrift 4. Onderzoeken
+##### Voorschrift 4. Onderzoeken
 
 - 1. Elk schip dat in overeenstemming met [voorschrift 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=IV&hoofdstuk=1&artikel=2&z=2022-04-01&g=2022-04-01) dient te voldoen aan de bepalingen van deze Bijlage dient de volgende onderzoeken te ondergaan:
 
@@ -6817,13 +6839,13 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 ### HOOFDSTUK II. ONDERZOEK, CERTIFICERING EN BEHEERSING
 
-#### Voorschrift 5. Afgifte of goedkeuring van een certificaat
+##### Voorschrift 5. Afgifte of goedkeuring van een certificaat
 
 - 1. Een Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair Afval wordt afgegeven na een eerste onderzoek of een hernieuwd onderzoek in overeenstemming met de bepalingen van [voorschrift 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=IV&hoofdstuk=2&artikel=4&z=2026-03-01&g=2026-03-01) van deze Bijlage aan elk schip dat reizen maakt naar havens of losplaatsen buitengaats onder de rechtsmacht van andere Partijen bij het Verdrag. Ten aanzien van bestaande schepen zal dit vereiste vijf jaar na de datum van inwerkingtreding van deze Bijlage van toepassing worden.
 
 - 2. Deze certificaten worden afgegeven of goedgekeurd hetzij door de Administratie, hetzij door een daartoe door haar naar behoren gemachtigde persoon of organisatie1)Zie de door de Organisatie bij resolutie A.739(18) aangenomen Richtlijnen voor de bevoegdverklaring van organisaties die optreden namens Administraties en de door de Organisatie bij resolutie A.789(19) aangenomen Specificaties inzake de onderzoeks- en certificeringsfuncties van erkende organisaties die optreden namens de Administratie.. In alle gevallen neemt de Administratie de volledige verantwoordelijkheid voor het certificaat op zich.
 
-#### Voorschrift 6. Afgifte of goedkeuring van een certificaat door een andere Regering
+##### Voorschrift 6. Afgifte of goedkeuring van een certificaat door een andere Regering
 
 - 1. Op verzoek van de Administratie kan de Regering van een Partij bij het Verdrag een schip doen onderzoeken en, indien zij ervan overtuigd is dat aan de bepalingen van dit Verdrag wordt voldaan, geeft zij het certificaat af of geeft zij toestemming voor afgifte van een Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair Afval aan het schip, en waar van toepassing plaatst zij een aantekening op het certificaat of geeft zij toestemming voor het plaatsen van een aantekening op dat certificaat van het schip in overeenstemming met deze Bijlage.
 
@@ -6833,13 +6855,13 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 - 4. Er wordt geen Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair Afval of Certificaat van vrijstelling voor UNSP-lichters afgegeven aan een schip dat gerechtigd is de vlag te voeren van een Staat die geen Partij is.
 
-#### Voorschrift 7. Model van het certificaat
+##### Voorschrift 7. Model van het certificaat
 
 1. Het Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair Afval wordt opgesteld overeenkomstig het model opgenomen in het Aanhangsel 1 bij deze Bijlage en dient ten minste in de Engelse, de Franse of de Spaanse taal te zijn opgesteld. Indien tevens de officiële taal van het land van afgifte wordt gebruikt, is deze doorslaggevend bij geschillen of tegenstrijdigheden.
 
 2. Het Internationaal certificaat van vrijstelling voor onbemande lichters zonder eigen voortstuwing (UNSP-lichters) betreffende het voorkomen van verontreiniging door sanitair afval wordt opgesteld overeenkomstig het model opgenomen in Aanhangsel II bij deze Bijlage en dient ten minste in de Engelse, de Franse of de Spaanse taal te zijn opgesteld. Indien tevens de officiële taal van het land van afgifte wordt gebruikt, is deze doorslaggevend bij geschillen of tegenstrijdigheden.
 
-#### Voorschrift 8. Looptijd en geldigheid van het certificaat
+##### Voorschrift 8. Looptijd en geldigheid van het certificaat
 
 - 1. Een Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair Afval wordt afgegeven voor een door de Administratie vastgestelde termijn die evenwel niet langer is dan vijf jaar.
 
@@ -6867,7 +6889,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 - .2 bij overdracht van het schip onder de vlag van een andere Staat. Er mag uitsluitend een nieuw certificaat worden afgegeven wanneer de Regering die het nieuwe certificaat afgeeft er ten volle van overtuigd is dat het schip volledig voldoet aan de vereisten van de [voorschriften 4.7 en 4.8](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=IV&hoofdstuk=2&artikel=4&z=2026-03-01&g=2026-03-01) van deze Bijlage. In het geval van een overdracht tussen Partijen zendt de Regering van de Partij wier vlag het schip voordien gerechtigd was te voeren, indien zij daarom wordt verzocht binnen drie maanden nadat de overdracht heeft plaatsgevonden, zo spoedig mogelijk aan de Administratie van de andere Partij afschriften van de certificaten die het schip aan boord had vóór de overdracht en, indien beschikbaar, afschriften van de desbetreffende onderzoeksrapporten.
 
-#### Voorschrift 9. Systemen voor sanitair afval
+##### Voorschrift 9. Systemen voor sanitair afval
 
 - 1. Elk schip dat in overeenstemming met [voorschrift 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=IV&hoofdstuk=1&artikel=2&z=2022-04-01&g=2022-04-01) dient te voldoen aan de bepalingen van deze Bijlage, dient te zijn uitgerust met een van de volgende systemen voor sanitair afval:
 
@@ -6883,7 +6905,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 - .2. een verzameltank met naar tevredenheid van de Administratie voldoende capaciteit voor het opslaan van alle sanitair afval, rekening houdend met de exploitatie van het schip, het aantal opvarenden en andere relevante factoren. De constructie van de verzameltank dient naar tevredenheid van de Administratie te zijn en een voorziening hebben om zichtbaar het niveau van de inhoud aan te geven.
 
-#### Voorschrift 10. Standaardaansluitingen voor afgifte
+##### Voorschrift 10. Standaardaansluitingen voor afgifte
 
 - 1. Teneinde de leiding van de ontvangstinrichting te kunnen aansluiten op de scheepsleiding voor afgifte, dienen beide leidingen te zijn voorzien van een standaardaansluiting voor afgifte overeenkomstig de volgende tabel: Voor schepen met een holte naar de mal van 5 meter of minder, mag de inwendige diameter van de aansluiting voor afgifte 38 mm bedragen.
 
@@ -6899,7 +6921,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 - 2. Voor schepen voor specifiek gebruik, bijv. passagiersveerboten, kan de scheepsleiding voor afgifte ook worden voorzien van een voor de Administratie aanvaardbare aansluiting voor afgifte, zoals een snelkoppeling.
 
-#### Voorschrift 11. Lozen van sanitair afval
+##### Voorschrift 11. Lozen van sanitair afval
 
 1. Onverminderd de bepalingen van [voorschrift 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=IV&hoofdstuk=1&artikel=3&z=2022-04-01&g=2022-04-01) van deze Bijlage is het lozen in zee van sanitair afval verboden, behalve wanneer:
 
@@ -6919,7 +6941,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 ### HOOFDSTUK 4. ONTVANGSTINRICHTINGEN
 
-#### Voorschrift 12. Ontvangstinrichtingen
+##### Voorschrift 12. Ontvangstinrichtingen
 
 - 1. De Regering van elke Partij bij het Verdrag, die van alle schepen in de wateren die onder haar rechtsmacht vallen vereist dat zij voldoen aan de eisen van [voorschrift 11.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=IV&hoofdstuk=3&artikel=11&z=2022-04-01&g=2022-04-01), verbindt zich tot het installeren in havens en laad- en losplaatsen van inrichtingen voor het in ontvangst nemen van sanitair afval, zonder onnodig oponthoud van de schepen te veroorzaken, die toereikend zijn voor de behoeften van de schepen die er gebruik van maken.
 
@@ -6933,7 +6955,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 - 2. De Regering van elke Partij stelt de Organisatie in kennis, opdat deze de andere betrokken Verdragsluitende Regeringen op de hoogte kan stellen, van alle gevallen waarin gesteld wordt dat de uit hoofde van dit voorschrift ter beschikking gestelde voorzieningen onvoldoende zijn.
 
-#### Voorschrift 13. Ontvangstinrichtingen voor passagiersschepen in bijzondere gebieden
+##### Voorschrift 13. Ontvangstinrichtingen voor passagiersschepen in bijzondere gebieden
 
 1. Elke partij waarvan de kustlijn grenst aan een bijzonder gebied verbindt zich ertoe te waarborgen dat:
 
@@ -6945,7 +6967,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 2. De Regering van elke betrokken partij stelt de Organisatie in kennis van de maatregelen die zijn getroffen ingevolge subparagraaf .1 van dit voorschrift. Na ontvangst van voldoende kennisgevingen in overeenstemming met subparagraaf .1 stelt de Organisatie een datum vast waarop de vereisten van [voorschrift 11.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=IV&hoofdstuk=3&artikel=11&z=2022-04-01&g=2022-04-01) ten aanzien van het betreffende gebied van kracht worden. De Organisatie stelt alle partijen ten minste twaalf maanden van tevoren in kennis van de aldus vastgestelde datum. Tot de aldus vastgestelde datum moeten schepen die in een bijzonder gebied varen voldoen aan de vereisten van voorschrift 11.1 van deze Bijlage.
 
-#### Voorschrift 14. Zwaveloxiden (SOx)
+##### Voorschrift 14. Zwaveloxiden (SOx)
 
 1. Het zwavelgehalte van brandstofolie die wordt gebruikt aan boord van schepen mag niet hoger zijn dan 4,5 % per m/m.
 
@@ -6973,7 +6995,7 @@ Vereisten binnen de beheersgebieden voor SOx-emissie
 
 7. Gedurende de eerste twaalf maanden onmiddellijk volgend op de inwerkingtreding van dit Protocol, of van een wijziging van dit Protocol waarin een specifiek beheersgebied voor SOx-emissie wordt aangewezen krachtens het derde lid, letter b), van dit Voorschrift, zijn schepen die een beheersgebied voor SOx-emissie binnenvaren als bedoeld in het derde lid, letter a), van dit Voorschrift of aangewezen krachtens het derde lid, letter b), van dit Voorschrift vrijgesteld van de vereisten van het vierde en zesde lid van dit Voorschrift en van de vereisten van het vijfde lid van dit Voorschrift voorzover deze betrekking hebben op het vierde lid, letter a), van dit Voorschrift.x-emissie wordt aangewezen krachtens het derde lid, letter b), van dit Voorschrift, zijn schepen die een beheersgebied voor SOx-emissie binnenvaren als bedoeld in het derde lid, letter a), van dit Voorschrift of aangewezen krachtens het derde lid, letter b), van dit Voorschrift vrijgesteld van de vereisten van het vierde en zesde lid van dit Voorschrift en van de vereisten van het vijfde lid van dit Voorschrift voorzover deze betrekking hebben op het vierde lid, letter a), van dit Voorschrift.
 
-#### Voorschrift 15. Vluchtige organische stoffen
+##### Voorschrift 15. Vluchtige organische stoffen
 
 1. Indien de emissies van vluchtige organische stoffen (VOS) door tankschepen gereglementeerd moeten worden in havens of laad- of losplaatsen onder de rechtsmacht van een Partij bij het Protocol van 1997, worden zij gereglementeerd in overeenstemming met de bepalingen van dit Voorschrift.
 
@@ -6987,7 +7009,7 @@ Vereisten binnen de beheersgebieden voor SOx-emissie
 
 6. Dit Voorschrift is alleen van toepassing op gastankers wanneer het type laad- en opslagsystemen voor de veilige opslag aan boord of het veilig terugbrengen aan land van vluchtige organische stoffen anders dan methaan mogelijk maken.
 
-#### Voorschrift 16. Verbranding aan boord
+##### Voorschrift 16. Verbranding aan boord
 
 1. Behalve zoals bepaald in het vijfde lid is verbranding aan boord alleen toegestaan in een verbrandingsinstallatie aan boord.
 
@@ -7021,7 +7043,7 @@ Vereisten binnen de beheersgebieden voor SOx-emissie
 
 10. Geen enkele bepaling uit dit Voorschrift vormt een beletsel voor het ontwikkelen, installeren en gebruiken van alternatieve thermische afvalbehandelingsvoorzieningen aan boord die voldoen aan de vereisten van dit Voorschrift of aan strengere vereisten.
 
-#### Voorschrift 17. Ontvangstinrichtingen
+##### Voorschrift 17. Ontvangstinrichtingen
 
 1. De Regering van elke Partij bij het Protocol van 1997 verbindt zich ertoe zorg te dragen voor het beschikbaar zijn van toereikende inrichtingen die voorzien in de:
 
@@ -7033,7 +7055,7 @@ Vereisten binnen de beheersgebieden voor SOx-emissie
 
 2. Elke Partij bij het Protocol van 1997 stelt de Organisatie ter mededeling aan de Leden van de Organisatie in kennis van alle gevallen waarin de desbetreffende inrichtingen niet beschikbaar zijn of als ontoereikend worden aangemerkt.
 
-#### Voorschrift 18. Brandstofoliekwaliteit
+##### Voorschrift 18. Brandstofoliekwaliteit
 
 1. Brandstofolie voor verbrandingsdoeleinden geleverd aan en gebruikt aan boord van schepen waarop deze Bijlage van toepassing is, dient te voldoen aan de volgende vereisten:
 
@@ -7099,7 +7121,7 @@ Vereisten binnen de beheersgebieden voor SOx-emissie
 
 - b. te verzekeren dat passende correctieve maatregelen worden getroffen om brandstofolie waarvan ontdekt is dat deze niet aan de vereisten voldoet alsnog daaraan te laten voldoen.
 
-#### Voorschrift 19. Eisen voor platforms en olieboorinstallaties
+##### Voorschrift 19. Eisen voor platforms en olieboorinstallaties
 
 1. Met inachtneming van de bepalingen van het tweede en derde lid van dit Voorschrift dienen vaste en drijvende platforms en boorinstallaties te voldoen aan de vereisten van deze Bijlage.
 
@@ -7119,7 +7141,7 @@ IN WITNESS WHEREOF the undersigned being duly authorized by their respective Gov
 
 DONE at London this second day of November, one thousand nine hundred and seventy-three.
 
-#### Voorschrift 13. Standaardaansluiting voor afgifte
+##### Voorschrift 13. Standaardaansluiting voor afgifte
 
 Teneinde leidingen van de ontvangstinrichtingen te kunnen aansluiten op de scheepspijpleiding voor de afgifte van restanten afkomstig van machinekamerlensruimten en van tanks voor olierestanten (oliedrab), dienen beide leidingen te zijn voorzien van een standaardaansluiting voor afgifte overeenkomstig de volgende tabel:
 
@@ -7135,7 +7157,7 @@ Teneinde leidingen van de ontvangstinrichtingen te kunnen aansluiten op de schee
 
 ## DEEL B. UITRUSTING
 
-#### Voorschrift 14. Apparatuur voor het filtreren van olie
+##### Voorschrift 14. Apparatuur voor het filtreren van olie
 
 1. Behoudens het bepaalde in lid 3 van dit voorschrift dient elk schip met een brutotonnage van 400 of meer maar ten hoogste 10.000 te worden uitgerust met apparatuur voor het filtreren van olie die voldoet aan lid 6 van dit voorschrift. Een dergelijk schip dat in overeenstemming met [voorschrift 16.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=I&hoofdstuk=3&deel=C&artikel=16&z=2026-03-01&g=2026-03-01) ballastwater dat in brandstofolietanks aan boord wordt gehouden in zee mag lozen, dient aan lid 2 van dit voorschrift te voldoen.
 
@@ -7169,7 +7191,7 @@ Teneinde leidingen van de ontvangstinrichtingen te kunnen aansluiten op de schee
 
 ## DEEL C. REGELING VAN BEDRIJFSMATIGE LOZINGEN VAN OLIE
 
-#### Voorschrift 15. Regeling van het lozen van olie
+##### Voorschrift 15. Regeling van het lozen van olie
 
 1. Overeenkomstig de bepalingen van [voorschrift 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=I&hoofdstuk=1&artikel=4&z=2026-03-01&g=2026-03-01) van deze Bijlage en de leden 2, 3 en 6 van dit voorschrift, is elke lozing in zee van olie of oliehoudende mengsels door schepen verboden.
 
@@ -7225,7 +7247,7 @@ Teneinde leidingen van de ontvangstinrichtingen te kunnen aansluiten op de schee
 
 9. Olierestanten die niet in zee kunnen worden geloosd volgens de bepalingen van dit voorschrift dienen aan boord te worden gehouden om naderhand bij ontvangstinrichtingen te worden afgegeven.
 
-#### Voorschrift 16. Gescheiden houden van olie en waterballast en vervoer van olie in voorpiektanks
+##### Voorschrift 16. Gescheiden houden van olie en waterballast en vervoer van olie in voorpiektanks
 
 1. Behalve zoals bepaald in het tweede lid van dit voorschrift, dient aan boord van schepen opgeleverd na 31 december 1979, als omschreven in [voorschrift 1.28.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=I&hoofdstuk=1&artikel=1&z=2026-03-01&g=2026-03-01), met een brutotonnage van 4000 of meer, geen olietankschepen zijnde, en olietankschepen opgeleverd na 31 december 1979, als omschreven in voorschrift 1.28.2, met een brutotonnage van 150 of meer, geen ballastwater in een brandstofolietank te worden vervoerd.
 
@@ -7235,7 +7257,7 @@ Teneinde leidingen van de ontvangstinrichtingen te kunnen aansluiten op de schee
 
 4. Alle andere schepen dan die waarop de leden 1 en 3 van dit voorschrift van toepassing zijn, dienen voor zover redelijk en uitvoerbaar te voldoen aan het bepaalde in deze leden.
 
-#### Voorschrift 17. Oliejournaal Deel I – Werkzaamheden in machineruimten
+##### Voorschrift 17. Oliejournaal Deel I – Werkzaamheden in machineruimten
 
 1. Elk olietankschip met een brutotonnage van 150 of meer en elk schip, geen olietankschip zijnde, met een brutotonnage van 400 of meer, dient te zijn voorzien van een Oliejournaal Deel I (Werkzaamheden in machineruimten). Het Oliejournaal, hetzij als onderdeel van het scheepsjournaal, als elektronisch journaal dat door de Administratie dient te worden goedgekeurd rekening houdend met de door de Organisatie opgestelde richtlijnen, of anderszins, dient te zijn ingedeeld volgens het model zoals aangegeven in [Aanhangsel III](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=III&z=2026-03-01&g=2026-03-01) bij deze Bijlage.
 
@@ -7265,7 +7287,7 @@ Teneinde leidingen van de ontvangstinrichtingen te kunnen aansluiten op de schee
 
 ## DEEL A. BOUW
 
-#### Voorschrift 18. Gescheiden-ballasttanks
+##### Voorschrift 18. Gescheiden-ballasttanks
 
 **Olietankschepen met een draagvermogen van 20.000 ton of meer opgeleverd na 1 juni 1982**
 
@@ -7366,7 +7388,7 @@ Teneinde leidingen van de ontvangstinrichtingen te kunnen aansluiten op de schee
 
 - .2 de kleinste hoogte van elke dubbele-bodemtank of -ruimte dient gelijk te zijn aan B/15 of 2 m, naar gelang van welke waarde de kleinste is. Indien de aanwezige hoogte geringer is, mag de betreffende bodemtank of -ruimte bij de berekening van het bescherming biedende oppervlak PAs niet worden meegerekend.
 
-#### Voorschrift 19. Vereisten inzake dubbele wand en dubbele bodem voor olietankschepen opgeleverd op of na 6 juli 1996
+##### Voorschrift 19. Vereisten inzake dubbele wand en dubbele bodem voor olietankschepen opgeleverd op of na 6 juli 1996
 
 1. Dit voorschrift is als volgt van toepassing op olietankschepen met een draagvermogen van 600 ton of meer opgeleverd op of na 6 juli 1996, als omschreven in [voorschrift 1.28.6](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=I&hoofdstuk=1&artikel=1&z=2026-03-01&g=2026-03-01):
 
@@ -7419,7 +7441,7 @@ Teneinde leidingen van de ontvangstinrichtingen te kunnen aansluiten op de schee
 
 8. Bij het goedkeuren van het ontwerp en de bouw van olietankschepen die moeten worden gebouwd in overeenstemming met de bepalingen van dit voorschrift, houden Administraties naar behoren rekening met de algemene veiligheidsaspecten, met inbegrip van de noodzaak van onderhoud en inspecties van zij- en dubbele-bodemtanks of -ruimten.
 
-#### Voorschrift 20. Vereisten inzake dubbele wand en dubbele bodem voor olietankschepen opgeleverd voor 6 juli 1996
+##### Voorschrift 20. Vereisten inzake dubbele wand en dubbele bodem voor olietankschepen opgeleverd voor 6 juli 1996
 
 - 1. Tenzij uitdrukkelijk anders is bepaald, is dit voorschrift:
 
@@ -7486,7 +7508,7 @@ Teneinde leidingen van de ontvangstinrichtingen te kunnen aansluiten op de schee
 
 ### HOOFDSTUK 8. VOORKOMEN VAN VERONTREINIGING TIJDENS HET OVERPOMPEN VAN LADINGOLIE TUSSEN OLIETANKSCHEPEN OP ZEE
 
-#### Voorschrift 1. Begripsomschrijvingen
+##### Voorschrift 1. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage:
 
@@ -7578,13 +7600,13 @@ Voor de toepassing van deze Bijlage:
 
 - .2 wordt onder **laagvisceuze stof** verstaan, een schadelijke vloeistof die geen hoogvisceuze stof is.
 
-#### Voorschrift 2. Toepassing
+##### Voorschrift 2. Toepassing
 
 - 1. Tenzij uitdrukkelijk anders wordt bepaald, zijn de bepalingen van deze Bijlage van toepassing op alle schepen die gecertificeerd zijn voor het vervoer van schadelijke vloeistoffen in bulk.
 
 - 2. Wanneer een lading waarop de bepalingen van [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=I&z=2010-07-01&g=2010-07-01) van dit Verdrag van toepassing zijn, wordt vervoerd in een laadruim van een NLS-tankschip, zijn de desbetreffende bepalingen van Bijlage I van dit Verdrag ook van toepassing.
 
-#### Voorschrift 3. Uitzonderingen
+##### Voorschrift 3. Uitzonderingen
 
 - 1. De lozingsvereisten van deze Bijlage zijn niet van toepassing op de lozing in zee van schadelijke vloeistoffen of mengsels die deze stoffen bevatten wanneer een dergelijke lozing:
 
@@ -7598,7 +7620,7 @@ Voor de toepassing van deze Bijlage:
 
 - .3 wordt goedgekeurd door de Administratie, wanneer de lozing wordt gebruikt met het oog op de bestrijding van specifieke verontreinigingsvoorvallen of ter minimalisering van de door verontreiniging veroorzaakte schade. Dergelijke lozingen moeten worden goedgekeurd door de Regering in wier rechtsgebied de lozing naar verwachting zal plaatsvinden.
 
-#### Voorschrift 4. Ontheffingen
+##### Voorschrift 4. Ontheffingen
 
 - 1. Ten aanzien van de vervoersvereisten als gevolg van de indeling van de stof in een strengere categorie, is het volgende van toepassing:
 
@@ -7652,7 +7674,7 @@ Voor de toepassing van deze Bijlage:
 
 - .5 in het geval van schepen die reizen maken tussen havens of laad- en losplaatsen onder de rechtsmacht van andere Staten die Partij bij dit Verdrag zijn, de Administratie bijzonderheden omtrent de vrijstelling aan de Organisatie mededeelt en de Organisatie deze gegevens aan de Partijen bij dit Verdrag toezendt om daarvan kennis te nemen en eventueel passende maatregelen te treffen.
 
-#### Voorschrift 5. Gelijkwaardige voorzieningen
+##### Voorschrift 5. Gelijkwaardige voorzieningen
 
 - 1. De Administratie kan het aanbrengen van andere onderdelen, materialen, voorzieningen of apparatuur dan die welke in deze Bijlage worden voorgeschreven, op een schip toestaan, mits deze onderdelen, materialen, voorzieningen of apparatuur ten minste even doelmatig zijn als die welke in deze Bijlage worden vereist. Deze bevoegdheid van de Administratie strekt zich niet uit tot de vervanging van operationele methoden voor de beheersing van de lozing van schadelijke vloeistoffen als equivalent van de door de voorschriften in deze Bijlage voorgeschreven ontwerp- en constructievormen.
 
@@ -7672,7 +7694,7 @@ Voor de toepassing van deze Bijlage:
 
 ### HOOFDSTUK 10. VERIFICATIE VAN DE NALEVING VAN DE BEPALINGEN VAN DIT VERDRAG
 
-#### Voorschrift 6. Indeling in categorieën en opsomming van schadelijke vloeistoffen en andere stoffen
+##### Voorschrift 6. Indeling in categorieën en opsomming van schadelijke vloeistoffen en andere stoffen
 
 - 1. Voor de toepassing van de voorschriften van deze Bijlage, worden schadelijke vloeistoffen ingedeeld in de volgende vier categorieën:
 
@@ -7690,11 +7712,11 @@ Voor de toepassing van deze Bijlage:
 
 ### HOOFDSTUK 3. ONDERZOEKEN EN CERTIFICERINGEN
 
-#### Voorschrift 7. Onderzoek van en afgifte van een certificaat aan chemicaliëntankschepen
+##### Voorschrift 7. Onderzoek van en afgifte van een certificaat aan chemicaliëntankschepen
 
 Chemicaliëntankschepen die zijn onderzocht en waaraan een certificaat is afgegeven door Staten die Partij bij dit Verdrag zijn, overeenkomstig de bepalingen van de IBC-Code of de Code voor chemicaliën in bulk, al naar gelang van toepassing, worden niettegenstaande het bepaalde in de [voorschriften 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=II&hoofdstuk=3&artikel=8&z=2010-07-01&g=2010-07-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=II&hoofdstuk=3&artikel=9&z=2010-07-01&g=2010-07-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=II&hoofdstuk=3&artikel=10&z=2010-07-01&g=2010-07-01) van deze Bijlage geacht te hebben voldaan aan het bepaalde in de genoemde voorschriften, en het krachtens deze Code afgegeven certificaat heeft dezelfde waarde en moet op dezelfde wijze worden erkend als het krachtens het bepaalde in voorschrift 9 van deze Bijlage afgegeven certificaat.
 
-#### Voorschrift 8. Onderzoeken
+##### Voorschrift 8. Onderzoeken
 
 - 1. Schepen die schadelijke vloeistoffen in bulk vervoeren, zijn onderworpen aan de hieronder aangegeven onderzoeken:
 
@@ -7730,7 +7752,7 @@ Chemicaliëntankschepen die zijn onderzocht en waaraan een certificaat is afgege
 
 - 3.3. Wanneer een ongeval plaatsvindt met een schip of gebreken worden geconstateerd waardoor de integriteit van het schip of de doelmatigheid of volledigheid van de uitrusting waarop deze Bijlage van toepassing is wezenlijk worden aangetast, rapporteert de kapitein of eigenaar van het schip dit zo spoedig mogelijk aan de Administratie, de erkende organisatie of de benoemde inspecteur die verantwoordelijk is voor de afgifte van het desbetreffende certificaat; deze ziet erop toe dat een onderzoek wordt ingesteld om te bepalen of een onderzoek als vereist op grond van lid 1 van dit voorschrift noodzakelijk is. Indien het schip in een haven van een andere Partij ligt, dient de kapitein of eigenaar van het schip eveneens onverwijld de desbetreffende autoriteiten van de havenstaat in te lichten en dient de benoemde inspecteur of erkende organisatie na te gaan of een dergelijke melding heeft plaatsgevonden.
 
-#### Voorschrift 9. Afgifte van of aantekening op het certificaat
+##### Voorschrift 9. Afgifte van of aantekening op het certificaat
 
 - 1. Na een eerste onderzoek of een hernieuwd onderzoek overeenkomstig de bepalingen van [voorschrift 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=II&hoofdstuk=3&artikel=8&z=2010-07-01&g=2010-07-01) van deze Bijlage wordt een Internationaal certificaat betreffende voorkoming van verontreiniging voor het vervoer van schadelijke vloeistoffen in bulk afgegeven aan elk schip dat bestemd is om schadelijke vloeistoffen in bulk te vervoeren en dat reizen maakt naar havens of laad- of losplaatsen buitengaats onder de rechtsmacht van andere Partijen bij het Verdrag.
 
@@ -7746,7 +7768,7 @@ Chemicaliëntankschepen die zijn onderzocht en waaraan een certificaat is afgege
 
 - 4. Het Internationaal certificaat betreffende voorkoming van verontreiniging voor het vervoer van schadelijke vloeistoffen in bulk wordt opgesteld overeenkomstig het model opgenomen in [aanhangsel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=3&z=2010-07-01&g=2010-07-01) bij deze Bijlage en dient ten minste in de Engelse, de Franse of de Spaanse taal te zijn opgesteld. Wanneer de aantekeningen tevens zijn gesteld in een officiële taal van de Staat waarvan het schip gerechtigd is de vlag te voeren, zijn deze doorslaggevend in geval van een geschil of een tegenstrijdigheid.
 
-#### Voorschrift 10. Geldigheidsduur en geldigheid van het certificaat
+##### Voorschrift 10. Geldigheidsduur en geldigheid van het certificaat
 
 - 1. Een Internationaal certificaat betreffende voorkoming van verontreiniging voor het vervoer van schadelijke vloeistoffen in bulk wordt afgegeven voor een door de Administratie vastgesteld tijdvak dat evenwel niet langer is dan vijf jaar.
 
@@ -7782,7 +7804,7 @@ Chemicaliëntankschepen die zijn onderzocht en waaraan een certificaat is afgege
 
 - .3 bij overdracht van het schip onder de vlag van een andere Staat. Er mag uitsluitend een nieuw certificaat worden afgegeven wanneer de Regering die het nieuwe certificaat afgeeft er ten volle van overtuigd is dat het schip volledig voldoet aan de vereisten van de [voorschriften 8.3.1 en 8.3.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=II&hoofdstuk=3&artikel=8&z=2010-07-01&g=2010-07-01) van deze Bijlage. In het geval van een overdracht tussen Partijen zendt de Regering van de Partij wier vlag het schip voordien gerechtigd was te voeren, indien zij daarom wordt verzocht binnen drie maanden nadat de overdracht heeft plaatsgevonden, zo spoedig mogelijk aan de Administratie van de andere Partij afschriften van het certificaat die het schip aan boord had vóór de overdracht en, indien beschikbaar, afschriften van de desbetreffende onderzoeksrapporten.
 
-#### Voorschrift 11. Ontwerp, constructie, uitrusting en bedrijfsvoering
+##### Voorschrift 11. Ontwerp, constructie, uitrusting en bedrijfsvoering
 
 - 1. Van schepen gecertificeerd voor het vervoer van schadelijke vloeistoffen in bulk genoemd in hoofdstuk 17 van de Internationale code voor chemicaliën in bulk, dienen het ontwerp, de constructie, de uitrusting en de bedrijfsvoering in overeenstemming met de volgende bepalingen te zijn, zodat het ongecontroleerd lozen in zee van dergelijke stoffen tot een minimum wordt beperkt:
 
@@ -7802,7 +7824,7 @@ Chemicaliëntankschepen die zijn onderzocht en waaraan een certificaat is afgege
 
 - 2. Ten aanzien van andere schepen dan chemicaliëntankschepen of vloeibaar-gastankschepen gecertificeerd voor het vervoer van schadelijke vloeistoffen in bulk genoemd in hoofdstuk 17 van de Internationale code voor chemicaliën in bulk, stelt de Administratie passende maatregelen op aan de hand van de door de Organisatie ontwikkelde Richtlijnen, zodat het ongecontroleerd lozen in zee van dergelijke stoffen tot een minimum wordt beperkt.
 
-#### Voorschrift 12. Pompen, pijpleidingen, losvoorzieningen en sloptanks
+##### Voorschrift 12. Pompen, pijpleidingen, losvoorzieningen en sloptanks
 
 - 1. Elk schip dat vóór 1 juli 1986 is gebouwd dient te zijn uitgerust met een pomp- en pijpleidingvoorziening die waarborgt dat in geen van de tanks gecertificeerd voor het vervoer van stoffen van categorie X of Y een residu achterblijft van meer dan 300 liter in de tank en de bijbehorende pijpleidingen en dat in geen van de tanks gecertificeerd voor het vervoer van stoffen van categorie Z een residu achterblijft van meer dan 900 liter in de tank en de bijbehorende pijpleidingen. In overeenstemming met [aanhangsel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=5&z=2010-07-01&g=2010-07-01) van deze Bijlage wordt de werking van deze voorzieningen beproefd.
 
@@ -7826,7 +7848,7 @@ Chemicaliëntankschepen die zijn onderzocht en waaraan een certificaat is afgege
 
 - 11. **Sloptanks** In deze Bijlage wordt het aanbrengen van afzonderlijke sloptanks weliswaar niet verplicht gesteld, maar voor bepaalde wasprocedures kunnen sloptanks toch noodzakelijk zijn. In dat geval kunnen ladingtanks als sloptanks worden gebruikt.
 
-#### Voorschrift 13. Regeling van lozingen van residuen van schadelijke vloeistoffen
+##### Voorschrift 13. Regeling van lozingen van residuen van schadelijke vloeistoffen
 
 Onverminderd de bepalingen van [voorschrift 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=II&hoofdstuk=1&artikel=3&z=2010-07-01&g=2010-07-01) van deze Bijlage dient de regeling van lozingen van residuen van schadelijke vloeistoffen of van ballastwater, tankwaswater of andere mengsels die dergelijke stoffen bevatten, in overeenstemming te zijn met de volgende vereisten.
 
@@ -7916,13 +7938,13 @@ Op verzoek van de kapitein van het schip kan een ontheffing voor het voorwassen 
 
 - 8.2. In het Antarctisch gebied zijn lozingen in de zee van schadelijke vloeistoffen of mengsels die zodanige stoffen bevatten, verboden.
 
-#### Voorschrift 14. Handboek voor procedures en voorzieningen
+##### Voorschrift 14. Handboek voor procedures en voorzieningen
 
 - 1. Elk schip dat is gecertificeerd om stoffen van categorie X, Y of Z te vervoeren, moet een door de Administratie goedgekeurd Handboek aan boord hebben. Het Handboek dient overeenkomstig [aanhangsel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=4&z=2010-07-01&g=2010-07-01) bij deze Bijlage een standaardformaat te hebben. In het geval van een schip dat internationale reizen maakt waarop de gebruikte taal een andere is dan de Engelse, de Franse of de Spaanse taal gaat de tekst vergezeld van een vertaling in één van deze talen.
 
 - 2. Het Handboek heeft voornamelijk tot doel voor de officieren op het schip vast te stellen wat de fysieke voorzieningen en alle operationele procedures zijn die met betrekking tot het behandelen van lading, het reinigen van tanks, de behandeling van residuen uit sloptanks en het ballasten en ontballasten van ladingtanks in acht dienen te worden genomen teneinde te voldoen aan de vereisten van deze Bijlage.
 
-#### Voorschrift 15. Ladingjournaal
+##### Voorschrift 15. Ladingjournaal
 
 - 1. Elk schip waarop deze Bijlage van toepassing is, dient te zijn voorzien van een Ladingjournaal, al dan niet als onderdeel van het voorgeschreven scheepsdagboek, in de vorm als omschreven in [aanhangsel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=2&z=2010-07-01&g=2010-07-01) bij deze Bijlage.
 
@@ -7938,7 +7960,7 @@ Op verzoek van de kapitein van het schip kan een ontheffing voor het voorwassen 
 
 ### HOOFDSTUK 3. ONDERZOEKEN EN CERTIFICERINGEN
 
-#### Voorschrift 16. Maatregelen ten behoeve van het toezicht
+##### Voorschrift 16. Maatregelen ten behoeve van het toezicht
 
 - 1. De Regering van elke Partij bij dit Verdrag benoemt of machtigt inspecteurs, belast met de zorg voor de naleving van dit voorschrift. De inspecteurs oefenen toezicht uit overeenkomstig de door de Organisatie opgestelde controleprocedures.
 
@@ -7972,7 +7994,7 @@ Op verzoek van de kapitein van het schip kan een ontheffing voor het voorwassen 
 
 - 9.4 Geen enkele bepaling van dit voorschrift mag zo worden uitgelegd dat daardoor de rechten en plichten van een Partij die de uitdrukkelijk in dit Verdrag genoemde vereisten met betrekking tot de bedrijfsvoering aan boord controleert, worden beperkt.
 
-#### Voorschrift 17. Rampenplan aan boord van schepen voor verontreiniging van de zee door schadelijke vloeistoffen
+##### Voorschrift 17. Rampenplan aan boord van schepen voor verontreiniging van de zee door schadelijke vloeistoffen
 
 - 1. Elk schip met een bruto-tonnage van 150 of meer dat is gecertificeerd voor het vervoer in bulk van schadelijke vloeistoffen dient een door de Administratie goedgekeurd scheepsnoodplan voor verontreiniging van de zee door schadelijke vloeistoffen aan boord te hebben.
 
@@ -7990,7 +8012,7 @@ Op verzoek van de kapitein van het schip kan een ontheffing voor het voorwassen 
 
 ### HOOFDSTUK 6. MAATREGELEN TEN BEHOEVE VAN HET TOEZICHT DOOR HAVENSTATEN
 
-#### Voorschrift 18. Ontvangstinrichtingen en losplaatsvoorzieningen
+##### Voorschrift 18. Ontvangstinrichtingen en losplaatsvoorzieningen
 
 - 1. De Regering van elke Partij bij dit Verdrag verbindt zich ertoe, zorg te dragen voor de installatie van ontvangstinrichtingen al naar gelang de behoeften van schepen, die gebruik maken van haar havens, laad- en losplaatsen of scheepsreparatiehavens, en wel als volgt:
 
@@ -8006,7 +8028,7 @@ Op verzoek van de kapitein van het schip kan een ontheffing voor het voorwassen 
 
 - 5. Elke Partij geeft kennis aan de Organisatie, ter mededeling aan de betrokken Partijen, van ieder geval waarin wordt beweerd dat de krachtens het bepaalde in lid 1 van dit voorschrift vereiste inrichtingen of de krachtens het bepaalde in lid 3 van dit voorschrift vereiste voorzieningen ontoereikend zijn.
 
-#### Voorschrift 1. Toepassing
+##### Voorschrift 1. Toepassing
 
 1. Tenzij uitdrukkelijk anders is bepaald, zijn de voorschriften van deze Bijlage van toepassing op alle schepen die schadelijke stoffen vervoeren in verpakte vorm.
 
@@ -8022,11 +8044,11 @@ Op verzoek van de kapitein van het schip kan een ontheffing voor het voorwassen 
 
 5. De vereisten van deze Bijlage gelden niet voor voorraden en uitrusting aan boord van schepen.
 
-#### Voorschrift 2. Verpakking
+##### Voorschrift 2. Verpakking
 
 Verpakkingen dienen, met het oog op hun specifieke inhoud, toereikend te zijn om het gevaar voor het mariene milieu tot een minimum te beperken.
 
-#### Voorschrift 3. Merken en etiketteren
+##### Voorschrift 3. Merken en etiketteren
 
 1. Verpakkingen die een schadelijke stof bevatten, dienen duurzaam te zijn gemerkt met de juiste technische benaming (handelsnamen alleen mogen niet worden gebruikt) en dienen voorts duurzaam te zijn gemerkt of geëtiketteerd om aan te geven dat de stof een mariene-milieuverontreinigende stof is. Een dergelijke aanduiding dient waar mogelijk te worden aangevuld met andere gegevens, bijvoorbeeld door vermelding van het desbetreffende nummer van de Verenigde Naties.
 
@@ -8034,7 +8056,7 @@ Verpakkingen dienen, met het oog op hun specifieke inhoud, toereikend te zijn om
 
 3. Verpakkingen die kleine hoeveelheden schadelijke stoffen bevatten, kunnen van de vereisten inzake merken worden vrijgesteld.
 
-#### Voorschrift 4. Begeleidende papieren
+##### Voorschrift 4. Begeleidende papieren
 
 1. In alle documenten die betrekking hebben op het vervoer over zee van schadelijke stoffen, waarin dergelijke stoffen met een naam worden aangeduid, dient de juiste technische benaming van elke stof te worden gebruikt (handelsnamen alleen mogen niet worden gebruikt) en dient de stof voorts te worden geïdentificeerd door toevoeging van de woorden „marine pollutant”.
 
@@ -8046,21 +8068,21 @@ Verpakkingen dienen, met het oog op hun specifieke inhoud, toereikend te zijn om
 
 5. Wanneer een schip beschikt over een bijzondere lijst of een bijzonder manifest of een gedetailleerd stuwplan zoals voor het vervoer van gevaarlijke stoffen is vereist ingevolge het [Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974](https://wetten.overheid.nl/jci1.3:c:BWBV0003264), zoals gewijzigd, mogen de ingevolge dit voorschrift vereiste documenten worden gecombineerd met die voor gevaarlijke stoffen. Ingeval documenten worden gecombineerd, dient duidelijk onderscheid te worden gemaakt tussen gevaarlijke stoffen en onder deze Bijlage vallende schadelijke stoffen.
 
-#### Voorschrift 5. Stuwage
+##### Voorschrift 5. Stuwage
 
 Schadelijke stoffen dienen op de juiste wijze te worden gestuwd en vastgezet ter beperking van de gevaren voor het mariene milieu, zonder afbreuk te doen aan de veiligheid van het schip en de zich aan boord bevindende personen.
 
-#### Voorschrift 6. Beperkingen van hoeveelheid
+##### Voorschrift 6. Beperkingen van hoeveelheid
 
 Om gegronde wetenschappelijke en technische redenen kan het vervoer van bepaalde schadelijke stoffen worden verboden of de hoeveelheid ervan die aan boord van een schip mag worden vervoerd, worden beperkt. Bij het beperken van de hoeveelheid dient naar behoren aandacht te worden geschonken aan de grootte, de constructie en de uitrusting van het schip, alsmede aan de verpakking en de aard van de stoffen.
 
-#### Voorschrift 7. Uitzonderingen
+##### Voorschrift 7. Uitzonderingen
 
 1. Het overboord zetten van schadelijke stoffen die worden vervoerd in verpakte vorm is verboden, behalve wanneer dit noodzakelijk is om de veiligheid van het schip te verzekeren of om mensenlevens op zee te redden.
 
 2. Behoudens de bepalingen van dit Verdrag dienen op grond van de natuurkundige, scheikundige en biologische eigenschappen van schadelijke stoffen passende maatregelen te worden genomen om het overboord spoelen van zulke door lekkage vrijgekomen stoffen te regelen, mits de uitvoering van deze maatregelen de veiligheid van het schip en van de zich aan boord bevindende personen niet in gevaar brengt.
 
-#### Voorschrift 8. Door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
+##### Voorschrift 8. Door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
 
 1. Een schip dat zich bevindt in een haven of een laad- of losplaats buitengaats van een andere Partij wordt geïnspecteerd door ambtenaren die door bedoelde Partij naar behoren zijn gemachtigd om te controleren of voldaan is aan de in deze Bijlage bedoelde vereisten met betrekking tot de bedrijfsvoering aan boord, wanneer er duidelijke gronden zijn om aan te nemen dat de kapitein of de leden van de bemanning niet op de hoogte zijn van de essentiële procedures die aan boord dienen te worden toegepast om verontreiniging door schadelijke stoffen te voorkomen.
 
@@ -8072,7 +8094,7 @@ Om gegronde wetenschappelijke en technische redenen kan het vervoer van bepaalde
 
 ### HOOFDSTUK 7. VOORKOMING VAN VERONTREINIGING ALS GEVOLG VAN EEN INCIDENT MET SCHADELIJKE VLOEISTOFFEN
 
-#### Voorschrift 1. Begripsomschrijvingen
+##### Voorschrift 1. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage wordt verstaan onder:
 
@@ -8130,7 +8152,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 - 8. „verjaardatum”, de dag en maand van elk jaar die overeenkomen met de datum waarop het Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair Afval verloopt.
 
-#### Voorschrift 2. Toepassing
+##### Voorschrift 2. Toepassing
 
 - 1. De bepalingen van deze Bijlage zijn van toepassing op de volgende schepen die internationale reizen maken:
 
@@ -8144,7 +8166,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 - 2. De Administratie dient te waarborgen dat bestaande schepen, overeenkomstig de punten 1.3 en 1.4 van dit voorschrift, waarvan de kiel is gelegd of waarvan de bouw zich in een soortgelijk stadium bevond voor 2 oktober 1983 voorzover praktisch uitvoerbaar zijn uitgerust met voorzieningen voor het lozen van sanitair afval in overeenstemming met de vereisten van [voorschrift 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=IV&hoofdstuk=3&artikel=11&z=2010-07-01&g=2010-07-01) van de Bijlage.
 
-#### Voorschrift 3. Uitzonderingen
+##### Voorschrift 3. Uitzonderingen
 
 - 1. Voorschrift 11 van deze Bijlage is niet van toepassing op:
 
@@ -8154,7 +8176,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 ### HOOFDSTUK 9. VERIFICATIE VAN DE NALEVING VAN DE BEPALINGEN VAN DIT VERDRAG
 
-#### Voorschrift 4. Onderzoeken
+##### Voorschrift 4. Onderzoeken
 
 - 1. Elk schip dat in overeenstemming met [voorschrift 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=IV&hoofdstuk=1&artikel=2&z=2010-07-01&g=2010-07-01) dient te voldoen aan de bepalingen van deze Bijlage dient de volgende onderzoeken te ondergaan:
 
@@ -8184,13 +8206,13 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 - 9. Wanneer een ongeval plaatsvindt met een schip of een defect wordt ontdekt waardoor de hechtheid van het schip of de doelmatigheid of volledigheid van de uitrusting waarop deze bijlage van toepassing is wezenlijk worden aangetast, rapporteert de kapitein of eigenaar van het schip dit zo spoedig mogelijk aan de Administratie, de erkende organisatie of de aangewezen inspecteur die verantwoordelijk is voor de afgifte van het desbetreffende certificaat, die erop toeziet dat een onderzoek wordt ingesteld om te bepalen of een inspectie als vereist op grond van punt 1 van dit voorschrift noodzakelijk is. Indien het schip zich bevindt in een haven van een andere Partij, meldt de kapitein of eigenaar van het schip dit tevens onverwijld aan de desbetreffende autoriteiten van de havenstaat en de aangewezen inspecteur of erkende organisatie dient vast te stellen of deze melding heeft plaatsgevonden.
 
-#### Voorschrift 5. Afgifte of goedkeuring van een certificaat
+##### Voorschrift 5. Afgifte of goedkeuring van een certificaat
 
 - 1. Een Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair Afval wordt afgegeven na een eerste onderzoek of een hernieuwd onderzoek in overeenstemming met de bepalingen van [voorschrift 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=IV&hoofdstuk=2&artikel=4&z=2010-07-01&g=2010-07-01) van deze Bijlage aan elk schip dat reizen maakt naar havens of losplaatsen buitengaats onder de rechtsmacht van andere Partijen bij het Verdrag. Ten aanzien van bestaande schepen zal dit vereiste vijf jaar na de datum van inwerkingtreding van deze Bijlage van toepassing worden.
 
 - 2. Deze certificaten worden afgegeven of goedgekeurd hetzij door de Administratie, hetzij door een daartoe door haar naar behoren gemachtigde persoon of organisatie1)Zie de door de Organisatie bij resolutie A.739(18) aangenomen Richtlijnen voor de bevoegdverklaring van organisaties die optreden namens Administraties en de door de Organisatie bij resolutie A.789(19) aangenomen Specificaties inzake de onderzoeks- en certificeringsfuncties van erkende organisaties die optreden namens de Administratie.. In alle gevallen neemt de Administratie de volledige verantwoordelijkheid voor het certificaat op zich.
 
-#### Voorschrift 6. Afgifte of aantekening op een certificaat door de Regering van een ander land
+##### Voorschrift 6. Afgifte of aantekening op een certificaat door de Regering van een ander land
 
 - 1. Op verzoek van de Administratie kan de Regering van een Partij bij het Verdrag een schip doen onderzoeken en, indien zij ervan overtuigd is dat aan de bepalingen van dit Verdrag wordt voldaan, geeft zij het certificaat af of geeft zij toestemming voor afgifte van een Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair Afval aan het schip, en waar van toepassing plaatst zij een aantekening op het certificaat of geeft zij toestemming voor het plaatsen van een aantekening op dat certificaat van het schip in overeenstemming met deze Bijlage.
 
@@ -8200,11 +8222,11 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 - 4. Er wordt geen internationaal certificaat van voorkoming van verontreiniging door sanitair afval afgegeven aan een schip dat gerechtigd is de vlag te voeren van een Staat die geen Partij is.
 
-#### Voorschrift 7. Model van het certificaat
+##### Voorschrift 7. Model van het certificaat
 
 Het Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair Afval wordt opgesteld overeenkomstig het model opgenomen in het aanhangsel bij deze Bijlage en dient ten minste in de Engelse, de Franse of de Spaanse taal te zijn opgesteld. Indien tevens de officiële taal van het land van afgifte wordt gebruikt, is deze doorslaggevend bij geschillen of tegenstrijdigheden.
 
-#### Voorschrift 8. Looptijd en geldigheid van het certificaat
+##### Voorschrift 8. Looptijd en geldigheid van het certificaat
 
 - 1. Een Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair Afval wordt afgegeven voor een door de Administratie vastgestelde termijn die evenwel niet langer is dan vijf jaar.
 
@@ -8234,7 +8256,7 @@ Het Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair 
 
 ### HOOFDSTUK 1. ALGEMEEN
 
-#### Voorschrift 9. Systemen voor sanitair afval
+##### Voorschrift 9. Systemen voor sanitair afval
 
 - 1. Elk schip dat in overeenstemming met voorschrift 2 dient te voldoen aan de bepalingen van deze Bijlage, dient te zijn uitgerust met een van de volgende systemen voor sanitair afval:
 
@@ -8244,7 +8266,7 @@ Het Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair 
 
 - .3 een verzameltank met naar het oordeel van de Administratie voldoende capaciteit voor het opslaan van alle sanitair afval, rekening houdend met de exploitatie van het schip, het aantal opvarenden en andere relevante factoren. De constructie van de verzameltank dient ten genoegen van de Administratie te zijn en voorzien te zijn van een voorziening voor visuele inspectie van het niveau van de inhoud.
 
-#### Voorschrift 10. Standaardaansluitingen voor afgifte
+##### Voorschrift 10. Standaardaansluitingen voor afgifte
 
 - 1. Teneinde de leiding van de ontvangstinrichting te kunnen aansluiten op de scheepsleiding voor afgifte, dienen beide leidingen te zijn voorzien van een standaardaansluiting voor afgifte overeenkomstig de volgende tabel: Voor schepen met een holte naar de mal van 5 meter of minder, mag de inwendige diameter van de aansluiting voor afgifte 38 mm bedragen.
 
@@ -8260,7 +8282,7 @@ Het Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair 
 
 - 2. Voor schepen voor specifiek gebruik, bijv. passagiersveerboten, kan de scheepsleiding voor afgifte ook worden voorzien van een voor de Administratie aanvaardbare aansluiting voor afgifte, zoals een snelkoppeling.
 
-#### Voorschrift 11. Lozen van sanitair afval
+##### Voorschrift 11. Lozen van sanitair afval
 
 - 1. Onverminderd de bepalingen van voorschrift 3 van deze Bijlage is het lozen in zee van sanitair afval verboden, behalve wanneer:
 
@@ -8278,7 +8300,7 @@ Het Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair 
 
 ### HOOFDSTUK 2. VERIFICATIE VAN DE NALEVING VAN DE BEPALINGEN VAN DEZE BIJLAGE
 
-#### Voorschrift 12. Ontvangstinrichtingen
+##### Voorschrift 12. Ontvangstinrichtingen
 
 - 1. De Regering van elke Partij bij het Verdrag, die van alle schepen in de wateren die onder haar rechtsmacht vallen vereist dat zij voldoen aan de eisen van voorschrift 11.1, verbindt zich tot het installeren in havens en laad- en losplaatsen van inrichtingen voor het in ontvangst nemen van sanitair afval, zonder onnodig oponthoud van de schepen te veroorzaken, die toereikend zijn voor de behoeften van de schepen die er gebruik van maken.
 
@@ -8286,7 +8308,7 @@ Het Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair 
 
 ### HOOFDSTUK 3. UITRUSTING EN BEHEERSING VAN LOZINGEN
 
-#### Voorschrift 13. Door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord1)Verwezen wordt naar de procedures voor door de havenstaat uit te oefenen controle, aangenomen door de Organisatie bij resolutie A.787(19) als gewijzigd bij resolutie A.882(21); zie IMO sales publication IMO-650E.
+##### Voorschrift 13. Door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord1)Verwezen wordt naar de procedures voor door de havenstaat uit te oefenen controle, aangenomen door de Organisatie bij resolutie A.787(19) als gewijzigd bij resolutie A.882(21); zie IMO sales publication IMO-650E.
 
 1. Een schip dat zich bevindt in een haven of een laad- of losplaats buitengaats van een andere Partij wordt geïnspecteerd door ambtenaren die door bedoelde Partij naar behoren zijn gemachtigd om te controleren of voldaan is aan de vereisten uit hoofde van deze Bijlage met betrekking tot de bedrijfsvoering aan boord, wanneer er duidelijke gronden zijn om aan te nemen dat de kapitein of de leden van de bemanning niet op de hoogte zijn van de essentiële procedures die aan boord dienen te worden toegepast om verontreiniging door sanitair afval te voorkomen.
 
@@ -8296,7 +8318,7 @@ Het Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair 
 
 4. Geen enkele bepaling van dit voorschrift mag zo worden uitgelegd dat daardoor de rechten en plichten van een Partij die de uitdrukkelijk in dit Verdrag voorziene vereisten met betrekking tot de bedrijfsvoering aan boord controleert, worden beperkt.
 
-#### Voorschrift 1. Begripsomschrijvingen
+##### Voorschrift 1. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage wordt verstaan onder:
 
@@ -8380,7 +8402,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 - 15. **„Auditnorm”,** de Implementatiecode.
 
-#### Voorschrift 2. Toepassing
+##### Voorschrift 2. Toepassing
 
 - 1. De bepalingen van deze Bijlage zijn van toepassing op de volgende schepen die internationale reizen maken:
 
@@ -8394,7 +8416,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 - 2. De Administratie dient te waarborgen dat bestaande schepen, overeenkomstig de punten 1.3 en 1.4 van dit voorschrift, waarvan de kiel is gelegd of waarvan de bouw zich in een soortgelijk stadium bevond voor 2 oktober 1983 voorzover praktisch uitvoerbaar zijn uitgerust met voorzieningen voor het lozen van sanitair afval in overeenstemming met de vereisten van [voorschrift 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=IV&hoofdstuk=3&artikel=11&z=2016-03-01&g=2016-03-01) van de Bijlage.
 
-#### Voorschrift 3. Uitzonderingen
+##### Voorschrift 3. Uitzonderingen
 
 - 1. Voorschrift 11 van deze Bijlage is niet van toepassing op:
 
@@ -8402,13 +8424,13 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 - .2. het lozen van sanitair afval als gevolg van schade aan een schip of zijn uitrusting, indien alle redelijke voorzorgsmaatregelen zijn getroffen voor en na het optreden van de schade teneinde de lozing te voorkomen of te beperken.
 
-#### Voorschrift 4. Speciale eisen voor het storten van vuilnis
+##### Voorschrift 4. Speciale eisen voor het storten van vuilnis
 
 - (1). Behoudens de bepalingen van paragraaf (2) van dit Voorschrift is het storten van stoffen waarop dit Voorschrift van toepassing is, verboden vanaf vaste of drijvende platforms buitengaats gebezigd bij de exploratie, exploitatie en daarbij behorende verwerking van minerale zeebodemschatten, alsmede vanaf alle andere schepen, wanneer deze zich langszij of binnen 500 meter van dergelijke platforms bevinden.
 
 - (2). Het storten in zee van voedselresten vanaf vaste of drijvende platforms kan worden toegestaan, ingeval deze door een afbreek- of maalinstallatie zijn gevoerd en deze platforms zich meer dan 12 zeemijlen vanaf het dichtstbijzijnde land bevinden, alsmede van alle andere schepen, ingeval deze zich langszij of binnen 500 meter van zulke platforms bevinden. Deze afgebroken of gemalen voedselresten moeten een rooster met gaten van maximaal 25 mm kunnen passeren.
 
-#### Voorschrift 5. Storten van vuilnis binnen bijzondere gebieden
+##### Voorschrift 5. Storten van vuilnis binnen bijzondere gebieden
 
 - (1). Voor de toepassing van deze Bijlage worden onder bijzondere gebieden verstaan de gebieden van de Middellandse Zee, de Oostzee, de Zwarte Zee, de Rode Zee, de „Golf”, de Noordzee, de Zuidpool en het Caraïbisch Gebied, met inbegrip van de Golf van Mexico en de Caraïbische Zee, die als volgt worden omschreven:
 
@@ -8462,7 +8484,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 - b. De Regering van elke Partij bij het Verdrag verzekert dat alle schepen die gerechtigd zijn haar vlag te voeren, alvorens het Antarctisch gebied binnen te varen zijn uitgerust met een tank of tanks van voldoende capaciteit aan boord voor het aan boord houden van alle vuilnis terwijl zij in bedrijf zijn in het gebied en regelingen hebben gesloten om dit vuilnis af te geven aan een ontvangstinrichting na het verlaten van het gebied.
 
-#### Voorschrift 6. Uitzonderingen
+##### Voorschrift 6. Uitzonderingen
 
 De Voorschriften 3, 4 en 5 van deze Bijlage zijn niet van toepassing op:
 
@@ -8472,13 +8494,13 @@ De Voorschriften 3, 4 en 5 van deze Bijlage zijn niet van toepassing op:
 
 - (2c). het toevallige verlies van synthetische visnetten, mits alle redelijke voorzorgen zijn genomen om dit verlies te voorkomen.
 
-#### Voorschrift 7. Ontvangstinrichtingen
+##### Voorschrift 7. Ontvangstinrichtingen
 
 - (1). De Regering van elke Partij bij dit Verdrag verbindt zich tot het installeren, in havens en laad- en losplaatsen, van inrichtingen voor het in ontvangst nemen van vuilnis, zonder onnodig oponthoud van de schepen te veroorzaken, en die toereikend zijn om te voldoen aan de behoeften van de schepen die er gebruik van maken.
 
 - (2). De Regering van elke Partij stelt de Organisatie in kennis van alle gevallen waarin de inrichtingen welke ingevolge de bepalingen van dit Voorschrift zijn aangebracht als ontoereikend worden aangemerkt, dit ter mededeling aan de betrokken Partijen.
 
-#### Voorschrift 8. De door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
+##### Voorschrift 8. De door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
 
 - 1. Een schip dat zich bevindt in een haven van een andere Partij dient te worden geïnspecteerd door ambtenaren die door bedoelde Partij naar behoren zijn gemachtigd om te controleren of is voldaan aan de in deze Bijlage bedoelde vereisten met betrekking tot de bedrijfsvoering aan boord, wanneer er duidelijke gronden zijn om aan te nemen dat de kapitein of de leden van de bemanning niet op de hoogte zijn van de essentiële werkwijzen die aan boord moeten worden toegepast om verontreiniging door vuilnis te voorkomen.
 
@@ -8488,7 +8510,7 @@ De Voorschriften 3, 4 en 5 van deze Bijlage zijn niet van toepassing op:
 
 - 4. Geen enkele bepaling van dit voorschrift mag zo worden uitgelegd dat daardoor de rechten en plichten van een Partij die de uitdrukkelijk in dit Verdrag genoemde vereisten met betrekking tot de bedrijfsvoering aan boord controleert, worden beperkt.
 
-#### Voorschrift 9. Informatieborden, vuilnisbeheerplannen en het bijhouden van de gegevens inzake vuilnis
+##### Voorschrift 9. Informatieborden, vuilnisbeheerplannen en het bijhouden van de gegevens inzake vuilnis
 
 - 1.
 
@@ -8520,11 +8542,11 @@ De Voorschriften 3, 4 en 5 van deze Bijlage zijn niet van toepassing op:
 
 ### HOOFDSTUK 2. ONDERZOEKEN EN CERTIFICERINGEN
 
-#### Voorschrift 1. Toepassing
+##### Voorschrift 1. Toepassing
 
 De bepalingen van deze Bijlage zijn van toepassing op alle schepen, tenzij uitdrukkelijk anders is bepaald in de voorschriften 3, 5, 6, 13, 15, 16 en 18 van deze Bijlage.
 
-#### Voorschrift 2. Begripsomschrijvingen
+##### Voorschrift 2. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage:
 
@@ -8590,7 +8612,7 @@ Voor de toepassing van deze Bijlage:
 
 - 21. wordt onder **tankschip** verstaan een olietankschip als omschreven in voorschrift 1 van Bijlage I of een chemicaliëntankschip zoals omschreven in voorschrift 1van Bijlage II bij dit Verdrag.
 
-#### Voorschrift 3. Uitzonderingen en vrijstellingen
+##### Voorschrift 3. Uitzonderingen en vrijstellingen
 
 1. De voorschriften van deze Bijlage zijn niet van toepassing op:
 
@@ -8620,7 +8642,7 @@ Voor de toepassing van deze Bijlage:
 
 3.2. De vereisten van voorschrift 18 van deze Bijlage zijn niet van toepassing op het gebruik van koolwaterstoffen die ter plaatse worden geproduceerd en vervolgens worden gebruikt als brandstof, indien goedgekeurd door de Administratie.
 
-#### Voorschrift 4. Gelijkwaardige voorzieningen
+##### Voorschrift 4. Gelijkwaardige voorzieningen
 
 1. De Administratie van een Partij kan toestaan dat installaties, materialen, middelen of toestellen worden aangebracht op een schip of dat er andere procedures, brandstofolie of methodes worden gebruikt dan degene die worden vereist door deze Bijlage, indien dergelijke installaties, materialen, middelen of toestellen, procedures, brandstofolie of methoden wat betreft emissiebeperking ten minste even doeltreffend zijn als degene die door deze Bijlage, met inbegrip van de normen vervat in de [voorschriften 13](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=III&artikel=13&z=2010-07-01&g=2010-07-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=III&artikel=14&z=2010-07-01&g=2010-07-01), worden vereist.
 
@@ -8632,7 +8654,7 @@ Voor de toepassing van deze Bijlage:
 
 ### HOOFDSTUK II. ONDERZOEK, CERTIFICERING EN CONTROLEMIDDELEN
 
-#### Voorschrift 5. Onderzoeken
+##### Voorschrift 5. Onderzoeken
 
 1. Alle schepen met een brutotonnage van 400 ton en meer, alsmede alle vaste en drijvende boorinstallaties en andere platforms worden onderworpen aan de hieronder aangegeven onderzoeken:
 
@@ -8662,7 +8684,7 @@ Voor de toepassing van deze Bijlage:
 
 5. Wanneer een schip bij een ongeval betrokken raakt, of er gebreken worden geconstateerd waardoor de doelmatigheid of volledigheid van de uitrusting waarop deze Bijlage van toepassing is, wezenlijk worden beïnvloed, dient de kapitein of de eigenaar van het schip de Administratie, een aangewezen inspecteur of erkende organisatie die verantwoordelijk is voor de afgifte van het betrokken certificaat zo spoedig mogelijk in te lichten.
 
-#### Voorschrift 6. Afgifte van of aantekening op een certificaat
+##### Voorschrift 6. Afgifte van of aantekening op een certificaat
 
 1. Een Internationaal certificaat betreffende voorkoming van luchtverontreiniging wordt afgegeven na een eerste of hernieuwd onderzoek in overeenstemming met de bepalingen van voorschrift 5 van deze Bijlage aan:
 
@@ -8674,7 +8696,7 @@ Voor de toepassing van deze Bijlage:
 
 3. Dit certificaat wordt afgegeven of hierop wordt een aantekening gemaakt hetzij door de Administratie, hetzij door een daartoe door haar naar behoren gemachtigde persoon of organisatie. In alle gevallen aanvaardt de Administratie de volledige verantwoordelijkheid voor het certificaat.
 
-#### Voorschrift 7. Afgifte van een certificaat door een andere Partij
+##### Voorschrift 7. Afgifte van een certificaat door een andere Partij
 
 1. Een Partij kan een schip op verzoek van de Administratie doen onderzoeken en, indien zij ervan overtuigd is dat aan de bepalingen van deze Bijlage wordt voldaan, een Internationaal certificaat betreffende voorkoming van luchtverontreiniging aan het schip afgeven of hiervoor toestemming geven, en waar van toepassing een aantekening op het certificaat van het schip plaatsen of hiervoor toestemming geven, in overeenstemming met deze Bijlage.
 
@@ -8684,11 +8706,11 @@ Voor de toepassing van deze Bijlage:
 
 4. Er wordt geen Internationaal certificaat betreffende voorkoming van luchtverontreiniging afgegeven aan een schip dat gerechtigd is de vlag te voeren van een Staat die geen Partij is.
 
-#### Voorschrift 8. Model van het certificaat
+##### Voorschrift 8. Model van het certificaat
 
 Het Internationaal certificaat betreffende voorkoming van luchtverontreiniging wordt opgesteld overeenkomstig het model opgenomen in aanhangsel I bij deze Bijlage en dient ten minste in de Engelse, de Franse of de Spaanse taal te zijn gesteld. Indien tevens de officiële taal van het land van afgifte wordt gebruikt, is deze doorslaggevend bij geschillen of tegenstrijdigheden.
 
-#### Voorschrift 9. Looptijd en geldigheid van het certificaat
+##### Voorschrift 9. Looptijd en geldigheid van het certificaat
 
 1. Een Internationaal certificaat betreffende voorkoming van luchtverontreiniging wordt afgegeven voor een door de Administratie vastgesteld tijdvak van ten hoogste vijf jaar.
 
@@ -8726,7 +8748,7 @@ Het Internationaal certificaat betreffende voorkoming van luchtverontreiniging w
 
 - .3. bij overdracht van het schip onder de vlag van een andere Staat. Er mag uitsluitend een nieuw certificaat worden afgegeven wanneer de Regering die het nieuwe certificaat afgeeft er ten volle van overtuigd is dat het schip voldoet aan de eisen van voorschrift 5.4 van deze Bijlage. In het geval van een overdracht tussen Partijen zendt de Regering van de Partij wier vlag het schip voordien gerechtigd was te voeren, indien zij daarom wordt verzocht binnen drie maanden nadat de overdracht heeft plaatsgevonden, zo spoedig mogelijk aan de Administratie afschriften van het certificaat dat het schip aan boord had vóór de overdracht en, indien beschikbaar, afschriften van de desbetreffende onderzoeksrapporten.
 
-#### Voorschrift 10. Door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
+##### Voorschrift 10. Door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
 
 1. Een schip dat zich bevindt in een haven of een laad- of losplaats buitengaats onder de rechtsmacht van een andere Partij wordt geïnspecteerd door ambtenaren die door bedoelde Partij naar behoren zijn gemachtigd om te controleren of is voldaan aan de in deze Bijlage bedoelde vereisten met betrekking tot de bedrijfsvoering aan boord, wanneer er duidelijke gronden zijn om aan te nemen dat de kapitein of de leden van de bemanning niet op de hoogte zijn van de essentiële werkwijzen die aan boord dienen te worden toegepast om luchtverontreiniging door schepen te voorkomen.
 
@@ -8736,7 +8758,7 @@ Het Internationaal certificaat betreffende voorkoming van luchtverontreiniging w
 
 4. Niets in dit voorschrift mag zo worden uitgelegd dat daardoor de rechten en plichten van een Partij die de uitdrukkelijk in dit Verdrag genoemde vereisten met betrekking tot de bedrijfsvoering aan boord controleert, worden beperkt.
 
-#### Voorschrift 11. Opsporing van overtredingen en handhaving
+##### Voorschrift 11. Opsporing van overtredingen en handhaving
 
 1. De Partijen werken samen bij de opsporing van overtredingen en de handhaving van de bepalingen van deze Bijlage, daarbij gebruikmakend van alle passende en uitvoerbare maatregelen van opsporing en milieubewaking en van doeltreffende methoden voor het rapporteren en verzamelen van bewijsmateriaal.
 
@@ -8752,7 +8774,7 @@ Het Internationaal certificaat betreffende voorkoming van luchtverontreiniging w
 
 ### HOOFDSTUK 5. DOOR DE HAVENSTAAT UIT TE OEFENEN CONTROLE
 
-#### Voorschrift 12. Ozonafbrekende stoffen
+##### Voorschrift 12. Ozonafbrekende stoffen
 
 1. Dit voorschrift is niet van toepassing op permanent verzegelde uitrusting indien er geen aansluitingen zijn voor de toevoer van koelvloeistof of verwijderbare onderdelen die ozonafbrekende stoffen bevatten.
 
@@ -8792,7 +8814,7 @@ Het Internationaal certificaat betreffende voorkoming van luchtverontreiniging w
 
 - .5. levering van ozonafbrekende stoffen aan het schip.
 
-#### Voorschrift 13. Stikstofoxiden (NOx)
+##### Voorschrift 13. Stikstofoxiden (NOx)
 
 1.1. Dit voorschrift is van toepassing op:
 
@@ -8894,7 +8916,7 @@ Indien het op of na 1 januari 2016, uitsluitend in het geval van vervangende mot
 
 10. Tussen 2012 en uiterlijk 2013 zal de Organisatie de status van de technologische ontwikkelingen voor de implementatie van de normen vervat in lid 5.1.1 van dit voorschrift toetsen en wanneer dat nodig blijkt, de daarin voorziene termijnen aanpassen.
 
-#### Voorschrift 14. Zwaveloxides (SOx) en fijnstof
+##### Voorschrift 14. Zwaveloxides (SOx) en fijnstof
 
 1. Het zwavelgehalte van brandstofolie die wordt gebruikt aan boord van schepen mag niet hoger zijn dan:
 
@@ -8938,11 +8960,11 @@ Indien het op of na 1 januari 2016, uitsluitend in het geval van vervangende mot
 
 10. Op grond van de door de deskundigengroep samengestelde informatie beslissen de Partijen of het voor schepen mogelijk is te voldoen aan de termijn vervat in lid 1.3 van dit voorschrift. Indien besloten wordt dat schepen daar niet aan kunnen voldoen, wordt de in dat lid vervatte norm van kracht vanaf 1 januari 2025.
 
-#### Voorschrift 15. Toepassing
+##### Voorschrift 15. Toepassing
 
 De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering van hun verplichtingen en verantwoordelijkheden zoals vervat in deze Bijlage.
 
-#### Voorschrift 16. Verificatie van de naleving
+##### Voorschrift 16. Verificatie van de naleving
 
 1. Elke partij wordt onderworpen aan periodieke audits door de Organisatie in overeenstemming met de auditnorm teneinde de naleving en implementatie van deze Bijlage te verifiëren.
 
@@ -8956,7 +8978,7 @@ De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering v
 
 - .2. vindt periodiek plaats, rekening houdend met de door de Organisatie opgestelde richtlijnen.
 
-#### Voorschrift 17. Begripsomschrijvingen
+##### Voorschrift 17. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage:
 
@@ -8972,13 +8994,13 @@ Voor de toepassing van deze Bijlage:
 
 - 4. wordt onder **polaire wateren** verstaan de Arctische wateren en/of het Antarctisch gebied.
 
-#### Voorschrift 18. Toepassing en vereisten
+##### Voorschrift 18. Toepassing en vereisten
 
 1. Dit hoofdstuk is van toepassing op alle schepen die in overeenstemming met deze Bijlage gecertificeerd zijn om in polaire wateren te varen.
 
 2. Tenzij uitdrukkelijk anders bepaald moeten schepen waarop paragraaf 1 van dit voorschrift van toepassing is, voldoen aan de op het milieu betrekking hebbende bepalingen van de inleiding en aan hoofdstuk 4 van deel II-A van de Polar Code naast de overige van toepassing zijnde vereisten van deze Bijlage.
 
-#### Voorschrift 19. Eisen voor platforms en olieboorinstallaties
+##### Voorschrift 19. Eisen voor platforms en olieboorinstallaties
 
 1. Met inachtneming van de bepalingen van het tweede en derde lid van dit Voorschrift dienen vaste en drijvende platforms en boorinstallaties te voldoen aan de vereisten van deze Bijlage.
 
@@ -8998,7 +9020,7 @@ IN WITNESS WHEREOF the undersigned being duly authorized by their respective Gov
 
 DONE at London this second day of November, one thousand nine hundred and seventy-three.
 
-#### 1. Doelstellingen
+##### 1. Doelstellingen
 
 1.1. Doel van dit aanhangsel is de Partijen te voorzien van criteria en procedures voor het formuleren en indienen van voorstellen voor het aanwijzen van gebieden voor emissiebeheersing en de factoren te benoemen die bij de beoordeling van deze voorstellen door de Organisatie in aanmerking dienen te worden genomen.
 
@@ -9006,13 +9028,13 @@ DONE at London this second day of November, one thousand nine hundred and sevent
 
 1.3. Aanneming van een gebied voor emissiebeheersing dient door de Organisatie te worden overwogen indien er een aantoonbare noodzaak bestaat tot preventie, reductie en beheersing van de emissie van NOx, SOx en fijnstof of een combinatie ervan (hierna emissies) door schepen.
 
-#### 2. Procedure voor de aanwijzing van gebieden voor emissiebeheersing
+##### 2. Procedure voor de aanwijzing van gebieden voor emissiebeheersing
 
 2.1. Een voorstel aan de Organisatie voor de aanwijzing van een gebied waar de emissie van NOx of SOx en fijnstof of alle drie de typen emissies dient te worden beheerst, kan uitsluitend door de Partijen worden ingediend. Indien twee of meer Partijen een gezamenlijk belang hebben in een specifiek gebied dienen ze gezamenlijk een voorstel in te dienen.
 
 2.2. Een voorstel voor de aanwijzing van een bepaald gebied als gebied voor emissiebeheersing dient te worden ingediend bij de Organisatie in overeenstemming met de door de Organisatie vastgestelde regels en procedures.
 
-#### 3. Criteria voor de aanwijzing van gebieden voor emissiebeheersing
+##### 3. Criteria voor de aanwijzing van gebieden voor emissiebeheersing
 
 3.1. Het voorstel dient onder meer te omvattten:
 
@@ -9034,7 +9056,7 @@ DONE at London this second day of November, one thousand nine hundred and sevent
 
 3.2. De geografische grenzen van een gebied voor emissiebeheersing dienen gebaseerd te zijn op de bovenomschreven relevante criteria, met inbegrip van de emissies en stortingen door schepen die varen in het voorgestelde gebied, verkeerspatronen en -dichtheid en windomstandigheden.
 
-#### 4. Procedures voor de beoordeling en aanneming van gebieden voor emissiebeheersing door de organisatie
+##### 4. Procedures voor de beoordeling en aanneming van gebieden voor emissiebeheersing door de organisatie
 
 4.1. De Organisatie neemt ieder bij haar door een Partij of Partijen ingediend voorstel in overweging.
 
@@ -9042,7 +9064,7 @@ DONE at London this second day of November, one thousand nine hundred and sevent
 
 4.3. Een gebied voor emissiebeheersing wordt aangewezen door middel van een wijziging van deze Bijlage in overeenstemming met [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&artikel=16&z=2010-07-01&g=2010-07-01) van dit Verdrag behandeld, aangenomen en in werking gesteld.
 
-#### 5. Functioneren van gebieden voor emissiebeheersing
+##### 5. Functioneren van gebieden voor emissiebeheersing
 
 5.1. Partijen met schepen die varen in het gebied worden aangemoedigd de Organisatie op de hoogte te stellen van eventuele zorgen omtrent het functioneren van het gebied.
 
@@ -9050,7 +9072,7 @@ IN WITNESS WHEREOF the undersigned being duly authorized by their respective Gov
 
 DONE at London this second day of November, one thousand nine hundred and seventy-three.
 
-#### Voorschrift 40. Werkingssfeer
+##### Voorschrift 40. Werkingssfeer
 
 1. De voorschriften vervat in dit hoofdstuk zijn van toepassing op olietankschepen met een brutotonnage van 150 ton of meer die betrokken zijn bij het overpompen van ladingolie tussen olietankschepen op zee (ship-to-ship (STS)-operaties) en hun STS-operaties uitgevoerd op of na 1 april 2012. STS-operaties die echter voor deze datum, maar na goedkeuring door de Administratie van het plan voor STS-operaties, vereist krachtens [voorschrift 41.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=I&hoofdstuk=8&artikel=41&z=2026-03-01&g=2026-03-01), worden uitgevoerd, dienen voor zover mogelijk overeen te stemmen met het plan voor STS-operaties.
 
@@ -9062,7 +9084,7 @@ DONE at London this second day of November, one thousand nine hundred and sevent
 
 5. De voorschriften vervat in dit hoofdstuk zijn niet van toepassing op STS-operaties indien een van de betrokken schepen een oorlogsschip, hulpschip of ander schip is dat eigendom is van of wordt geëxploiteerd door een staat, en, op dat ogenblik alleen voor niet-commerciële overheidsdiensten wordt gebruikt. Iedere staat dient door het aannemen van passende maatregelen die niet ten koste gaan van de exploitatie of operationele mogelijkheden van dergelijke schepen, evenwel te waarborgen dat de STS-operaties worden uitgevoerd op een wijze die, voor zover redelijk en praktisch uitvoerbaar, verenigbaar is met dit hoofdstuk.
 
-#### Voorschrift 41. Algemene regels inzake veiligheid en milieubescherming
+##### Voorschrift 41. Algemene regels inzake veiligheid en milieubescherming
 
 1. Ieder olietankschip dat STS-operaties uitvoert dient uiterlijk op de datum van het eerste jaarlijks of tussentijds onderzoek of het hernieuwd onderzoek van het schip op of na 1 januari 2011 een plan aan boord te hebben waarin vermeld staat hoe de STS-operaties dienen te worden uitgevoerd (plan voor STS-operaties). Het plan voor STS-operaties van ieder olietankschip dient door de Administratie te worden goedgekeurd. Het plan voor STS-operaties dient te zijn geschreven in de werktaal aan boord van het schip.
 
@@ -9074,7 +9096,7 @@ DONE at London this second day of November, one thousand nine hundred and sevent
 
 5. Verslagen van STS-operaties dienen gedurende drie jaar aan boord te worden bewaard en onmiddellijk beschikbaar te zijn voor inspectie door een partij bij dit Verdrag.
 
-#### Voorschrift 42. Kennisgeving
+##### Voorschrift 42. Kennisgeving
 
 1. Ieder olietankschip waarop dit hoofdstuk van toepassing is waarmee beoogd wordt STS-operaties uit te voeren in de territoriale zee of de exclusieve economische zone van een partij bij dit Verdrag, dient die partij niet minder dan 48 uur van tevoren in kennis te stellen van de geplande STS-operaties. Wanneer, in uitzonderlijke gevallen, alle in het tweede lid genoemde informatie niet ten minste 48 uur van tevoren beschikbaar is, dient het olietankschip dat de ladingolie lost de partij bij dit Verdrag niet minder dan 48 uur van te voren ervan in kennis stellen dat er een STS-operatie zal plaatsvinden en dat de in het tweede lid genoemde informatie zo spoedig mogelijk aan de partij zal worden verstrekt.
 
@@ -9100,7 +9122,7 @@ DONE at London this second day of November, one thousand nine hundred and sevent
 
 ### HOOFDSTUK 11. INTERNATIONALE CODE VOOR SCHEPEN DIE IN POLAIRE WATEREN VAREN
 
-#### Voorschrift 6. Indeling in categorieën en opsomming van schadelijke vloeistoffen en andere stoffen
+##### Voorschrift 6. Indeling in categorieën en opsomming van schadelijke vloeistoffen en andere stoffen
 
 - 1. Voor de toepassing van de voorschriften van deze Bijlage, worden schadelijke vloeistoffen ingedeeld in de volgende vier categorieën:
 
@@ -9116,11 +9138,11 @@ DONE at London this second day of November, one thousand nine hundred and sevent
 
 - 3. Wanneer wordt voorgesteld een vloeistof in bulk te vervoeren, die niet in een categorie is ingedeeld ingevolge het eerste lid van dit voorschrift, komen de Regeringen van de Partijen bij dit Verdrag die bij het voorgestelde vervoer zijn betrokken een voorlopige indeling overeen voor het voorgestelde vervoer, zulks op grond van de richtlijnen bedoeld in lid 2 van dit voorschrift. Totdat de betrokken Regeringen volledige overeenstemming hebben bereikt, mag de stof niet worden vervoerd. Zo snel mogelijk, doch uiterlijk 30 dagen nadat overeenstemming is bereikt, stelt de Regering van het producerende of vervoerende land, die de aanzet tot de desbetreffende overeenkomst heeft gegeven, de Organisatie in kennis en verstrekt zij nadere gegevens met betrekking tot de stof en de voorlopige indeling ten behoeve van de jaarlijkse rondzending ter kennisgeving aan alle Partijen. De Organisatie houdt een register bij van al deze stoffen en de voorlopige indeling ervan totdat de stoffen officieel in de IBC-code worden opgenomen.
 
-#### Voorschrift 7. Onderzoek van en afgifte van een certificaat aan chemicaliëntankschepen
+##### Voorschrift 7. Onderzoek van en afgifte van een certificaat aan chemicaliëntankschepen
 
 Chemicaliëntankschepen die zijn onderzocht en waaraan een certificaat is afgegeven door Staten die Partij bij dit Verdrag zijn, overeenkomstig de bepalingen van de IBC-Code of de Code voor chemicaliën in bulk, al naar gelang van toepassing, worden niettegenstaande het bepaalde in de [voorschriften 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=II&hoofdstuk=3&artikel=8&z=2011-01-01&g=2011-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=II&hoofdstuk=3&artikel=9&z=2011-01-01&g=2011-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=II&hoofdstuk=3&artikel=10&z=2011-01-01&g=2011-01-01) van deze Bijlage geacht te hebben voldaan aan het bepaalde in de genoemde voorschriften, en het krachtens deze Code afgegeven certificaat heeft dezelfde waarde en moet op dezelfde wijze worden erkend als het krachtens het bepaalde in voorschrift 9 van deze Bijlage afgegeven certificaat.
 
-#### Voorschrift 8. Onderzoeken
+##### Voorschrift 8. Onderzoeken
 
 - 1. Schepen die schadelijke vloeistoffen in bulk vervoeren, zijn onderworpen aan de hieronder aangegeven onderzoeken:
 
@@ -9156,7 +9178,7 @@ Chemicaliëntankschepen die zijn onderzocht en waaraan een certificaat is afgege
 
 - 3.3. Wanneer een ongeval plaatsvindt met een schip of gebreken worden geconstateerd waardoor de integriteit van het schip of de doelmatigheid of volledigheid van de uitrusting waarop deze Bijlage van toepassing is wezenlijk worden aangetast, rapporteert de kapitein of eigenaar van het schip dit zo spoedig mogelijk aan de Administratie, de erkende organisatie of de benoemde inspecteur die verantwoordelijk is voor de afgifte van het desbetreffende certificaat; deze ziet erop toe dat een onderzoek wordt ingesteld om te bepalen of een onderzoek als vereist op grond van lid 1 van dit voorschrift noodzakelijk is. Indien het schip in een haven van een andere Partij ligt, dient de kapitein of eigenaar van het schip eveneens onverwijld de desbetreffende autoriteiten van de havenstaat in te lichten en dient de benoemde inspecteur of erkende organisatie na te gaan of een dergelijke melding heeft plaatsgevonden.
 
-#### Voorschrift 9. Afgifte van of aantekening op het certificaat
+##### Voorschrift 9. Afgifte van of aantekening op het certificaat
 
 - 1. Na een eerste onderzoek of een hernieuwd onderzoek overeenkomstig de bepalingen van [voorschrift 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=II&hoofdstuk=3&artikel=8&z=2011-01-01&g=2011-01-01) van deze Bijlage wordt een Internationaal certificaat betreffende voorkoming van verontreiniging voor het vervoer van schadelijke vloeistoffen in bulk afgegeven aan elk schip dat bestemd is om schadelijke vloeistoffen in bulk te vervoeren en dat reizen maakt naar havens of laad- of losplaatsen buitengaats onder de rechtsmacht van andere Partijen bij het Verdrag.
 
@@ -9172,7 +9194,7 @@ Chemicaliëntankschepen die zijn onderzocht en waaraan een certificaat is afgege
 
 - 4. Het Internationaal certificaat betreffende voorkoming van verontreiniging voor het vervoer van schadelijke vloeistoffen in bulk wordt opgesteld overeenkomstig het model opgenomen in [aanhangsel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=3&z=2011-01-01&g=2011-01-01) bij deze Bijlage en dient ten minste in de Engelse, de Franse of de Spaanse taal te zijn opgesteld. Wanneer de aantekeningen tevens zijn gesteld in een officiële taal van de Staat waarvan het schip gerechtigd is de vlag te voeren, zijn deze doorslaggevend in geval van een geschil of een tegenstrijdigheid.
 
-#### Voorschrift 10. Geldigheidsduur en geldigheid van het certificaat
+##### Voorschrift 10. Geldigheidsduur en geldigheid van het certificaat
 
 - 1. Een Internationaal certificaat betreffende voorkoming van verontreiniging voor het vervoer van schadelijke vloeistoffen in bulk wordt afgegeven voor een door de Administratie vastgesteld tijdvak dat evenwel niet langer is dan vijf jaar.
 
@@ -9208,7 +9230,7 @@ Chemicaliëntankschepen die zijn onderzocht en waaraan een certificaat is afgege
 
 - .3 bij overdracht van het schip onder de vlag van een andere Staat. Er mag uitsluitend een nieuw certificaat worden afgegeven wanneer de Regering die het nieuwe certificaat afgeeft er ten volle van overtuigd is dat het schip volledig voldoet aan de vereisten van de [voorschriften 8.3.1 en 8.3.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=II&hoofdstuk=3&artikel=8&z=2011-01-01&g=2011-01-01) van deze Bijlage. In het geval van een overdracht tussen Partijen zendt de Regering van de Partij wier vlag het schip voordien gerechtigd was te voeren, indien zij daarom wordt verzocht binnen drie maanden nadat de overdracht heeft plaatsgevonden, zo spoedig mogelijk aan de Administratie van de andere Partij afschriften van het certificaat die het schip aan boord had vóór de overdracht en, indien beschikbaar, afschriften van de desbetreffende onderzoeksrapporten.
 
-#### Voorschrift 11. Ontwerp, constructie, uitrusting en bedrijfsvoering
+##### Voorschrift 11. Ontwerp, constructie, uitrusting en bedrijfsvoering
 
 - 1. Van schepen gecertificeerd voor het vervoer van schadelijke vloeistoffen in bulk genoemd in hoofdstuk 17 van de Internationale code voor chemicaliën in bulk, dienen het ontwerp, de constructie, de uitrusting en de bedrijfsvoering in overeenstemming met de volgende bepalingen te zijn, zodat het ongecontroleerd lozen in zee van dergelijke stoffen tot een minimum wordt beperkt:
 
@@ -9228,7 +9250,7 @@ Chemicaliëntankschepen die zijn onderzocht en waaraan een certificaat is afgege
 
 - 2. Ten aanzien van andere schepen dan chemicaliëntankschepen of vloeibaar-gastankschepen gecertificeerd voor het vervoer van schadelijke vloeistoffen in bulk genoemd in hoofdstuk 17 van de Internationale code voor chemicaliën in bulk, stelt de Administratie passende maatregelen op aan de hand van de door de Organisatie ontwikkelde Richtlijnen, zodat het ongecontroleerd lozen in zee van dergelijke stoffen tot een minimum wordt beperkt.
 
-#### Voorschrift 12. Pompen, pijpleidingen, losvoorzieningen en sloptanks
+##### Voorschrift 12. Pompen, pijpleidingen, losvoorzieningen en sloptanks
 
 - 1. Elk schip dat vóór 1 juli 1986 is gebouwd dient te zijn uitgerust met een pomp- en pijpleidingvoorziening die waarborgt dat in geen van de tanks gecertificeerd voor het vervoer van stoffen van categorie X of Y een residu achterblijft van meer dan 300 liter in de tank en de bijbehorende pijpleidingen en dat in geen van de tanks gecertificeerd voor het vervoer van stoffen van categorie Z een residu achterblijft van meer dan 900 liter in de tank en de bijbehorende pijpleidingen. In overeenstemming met [aanhangsel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=5&z=2011-01-01&g=2011-01-01) van deze Bijlage wordt de werking van deze voorzieningen beproefd.
 
@@ -9252,7 +9274,7 @@ Chemicaliëntankschepen die zijn onderzocht en waaraan een certificaat is afgege
 
 - 11. **Sloptanks** In deze Bijlage wordt het aanbrengen van afzonderlijke sloptanks weliswaar niet verplicht gesteld, maar voor bepaalde wasprocedures kunnen sloptanks toch noodzakelijk zijn. In dat geval kunnen ladingtanks als sloptanks worden gebruikt.
 
-#### Voorschrift 13. Regeling van lozingen van residuen van schadelijke vloeistoffen
+##### Voorschrift 13. Regeling van lozingen van residuen van schadelijke vloeistoffen
 
 Onverminderd de bepalingen van [voorschrift 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=II&hoofdstuk=1&artikel=3&z=2011-01-01&g=2011-01-01) van deze Bijlage dient de regeling van lozingen van residuen van schadelijke vloeistoffen of van ballastwater, tankwaswater of andere mengsels die dergelijke stoffen bevatten, in overeenstemming te zijn met de volgende vereisten.
 
@@ -9342,13 +9364,13 @@ Op verzoek van de kapitein van het schip kan een ontheffing voor het voorwassen 
 
 - 8.2. In het Antarctisch gebied zijn lozingen in de zee van schadelijke vloeistoffen of mengsels die zodanige stoffen bevatten, verboden.
 
-#### Voorschrift 14. Handboek voor procedures en voorzieningen
+##### Voorschrift 14. Handboek voor procedures en voorzieningen
 
 - 1. Elk schip dat is gecertificeerd om stoffen van categorie X, Y of Z te vervoeren, moet een door de Administratie goedgekeurd Handboek aan boord hebben. Het Handboek dient overeenkomstig [aanhangsel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=4&z=2011-01-01&g=2011-01-01) bij deze Bijlage een standaardformaat te hebben. In het geval van een schip dat internationale reizen maakt waarop de gebruikte taal een andere is dan de Engelse, de Franse of de Spaanse taal gaat de tekst vergezeld van een vertaling in één van deze talen.
 
 - 2. Het Handboek heeft voornamelijk tot doel voor de officieren op het schip vast te stellen wat de fysieke voorzieningen en alle operationele procedures zijn die met betrekking tot het behandelen van lading, het reinigen van tanks, de behandeling van residuen uit sloptanks en het ballasten en ontballasten van ladingtanks in acht dienen te worden genomen teneinde te voldoen aan de vereisten van deze Bijlage.
 
-#### Voorschrift 15. Ladingjournaal
+##### Voorschrift 15. Ladingjournaal
 
 - 1. Elk schip waarop deze Bijlage van toepassing is, dient te zijn voorzien van een Ladingjournaal, al dan niet als onderdeel van het voorgeschreven scheepsdagboek, in de vorm als omschreven in [aanhangsel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=2&z=2011-01-01&g=2011-01-01) bij deze Bijlage.
 
@@ -9362,7 +9384,7 @@ Op verzoek van de kapitein van het schip kan een ontheffing voor het voorwassen 
 
 - 6. De bevoegde instantie van de Regering van een Partij heeft het recht het Ladingjournaal in te zien aan boord van alle schepen waarop deze Bijlage van toepassing is, terwijl het schip zich in een van haar havens bevindt, en een afschrift te maken van elke aantekening in dat journaal en van de kapitein van het schip te verlangen, het afschrift te waarmerken als een waarheidsgetrouw afschrift van de betrokken aantekening. Elk aldus vervaardigd afschrift, dat de kapitein van het schip als een waarheidsgetrouw afschrift van een aantekening in het Ladingjournaal van het schip heeft gewaarmerkt, wordt bij alle gerechtelijke procedures toegelaten als bewijsstuk voor de in die aantekening vermelde feiten. De inspectie van een Ladingjournaal en de vervaardiging van een gewaarmerkt afschrift door de bevoegde instantie ingevolge het bepaalde in dit lid dienen zo snel mogelijk te geschieden zonder het schip onnodig oponthoud te veroorzaken.
 
-#### Voorschrift 16. Maatregelen ten behoeve van het toezicht
+##### Voorschrift 16. Maatregelen ten behoeve van het toezicht
 
 - 1. De Regering van elke Partij bij dit Verdrag benoemt of machtigt inspecteurs, belast met de zorg voor de naleving van dit voorschrift. De inspecteurs oefenen toezicht uit overeenkomstig de door de Organisatie opgestelde controleprocedures.
 
@@ -9396,7 +9418,7 @@ Op verzoek van de kapitein van het schip kan een ontheffing voor het voorwassen 
 
 - 9.4 Geen enkele bepaling van dit voorschrift mag zo worden uitgelegd dat daardoor de rechten en plichten van een Partij die de uitdrukkelijk in dit Verdrag genoemde vereisten met betrekking tot de bedrijfsvoering aan boord controleert, worden beperkt.
 
-#### Voorschrift 17. Rampenplan aan boord van schepen voor verontreiniging van de zee door schadelijke vloeistoffen
+##### Voorschrift 17. Rampenplan aan boord van schepen voor verontreiniging van de zee door schadelijke vloeistoffen
 
 - 1. Elk schip met een bruto-tonnage van 150 of meer dat is gecertificeerd voor het vervoer in bulk van schadelijke vloeistoffen dient een door de Administratie goedgekeurd scheepsnoodplan voor verontreiniging van de zee door schadelijke vloeistoffen aan boord te hebben.
 
@@ -9414,7 +9436,7 @@ Op verzoek van de kapitein van het schip kan een ontheffing voor het voorwassen 
 
 ### HOOFDSTUK 5. – OPERATIONELE LOZINGEN VAN RESIDUEN VAN SCHADELIJKE VLOEISTOFFEN
 
-#### Voorschrift 18. Ontvangstinrichtingen en losplaatsvoorzieningen
+##### Voorschrift 18. Ontvangstinrichtingen en losplaatsvoorzieningen
 
 - 1. De Regering van elke Partij bij dit Verdrag verbindt zich ertoe, zorg te dragen voor de installatie van ontvangstinrichtingen al naar gelang de behoeften van schepen, die gebruik maken van haar havens, laad- en losplaatsen of scheepsreparatiehavens, en wel als volgt:
 
@@ -9430,7 +9452,7 @@ Op verzoek van de kapitein van het schip kan een ontheffing voor het voorwassen 
 
 - 5. Elke Partij geeft kennis aan de Organisatie, ter mededeling aan de betrokken Partijen, van ieder geval waarin wordt beweerd dat de krachtens het bepaalde in lid 1 van dit voorschrift vereiste inrichtingen of de krachtens het bepaalde in lid 3 van dit voorschrift vereiste voorzieningen ontoereikend zijn.
 
-#### Voorschrift 1. Toepassing
+##### Voorschrift 1. Toepassing
 
 1. Tenzij uitdrukkelijk anders is bepaald, zijn de voorschriften van deze Bijlage van toepassing op alle schepen die schadelijke stoffen vervoeren in verpakte vorm.
 
@@ -9446,11 +9468,11 @@ Op verzoek van de kapitein van het schip kan een ontheffing voor het voorwassen 
 
 5. De vereisten van deze Bijlage gelden niet voor voorraden en uitrusting aan boord van schepen.
 
-#### Voorschrift 2. Verpakking
+##### Voorschrift 2. Verpakking
 
 Verpakkingen dienen, met het oog op hun specifieke inhoud, toereikend te zijn om het gevaar voor het mariene milieu tot een minimum te beperken.
 
-#### Voorschrift 3. Merken en etiketteren
+##### Voorschrift 3. Merken en etiketteren
 
 1. Verpakkingen die een schadelijke stof bevatten, dienen duurzaam te zijn gemerkt met de juiste technische benaming (handelsnamen alleen mogen niet worden gebruikt) en dienen voorts duurzaam te zijn gemerkt of geëtiketteerd om aan te geven dat de stof een mariene-milieuverontreinigende stof is. Een dergelijke aanduiding dient waar mogelijk te worden aangevuld met andere gegevens, bijvoorbeeld door vermelding van het desbetreffende nummer van de Verenigde Naties.
 
@@ -9458,7 +9480,7 @@ Verpakkingen dienen, met het oog op hun specifieke inhoud, toereikend te zijn om
 
 3. Verpakkingen die kleine hoeveelheden schadelijke stoffen bevatten, kunnen van de vereisten inzake merken worden vrijgesteld.
 
-#### Voorschrift 4. Begeleidende papieren
+##### Voorschrift 4. Begeleidende papieren
 
 1. In alle documenten die betrekking hebben op het vervoer over zee van schadelijke stoffen, waarin dergelijke stoffen met een naam worden aangeduid, dient de juiste technische benaming van elke stof te worden gebruikt (handelsnamen alleen mogen niet worden gebruikt) en dient de stof voorts te worden geïdentificeerd door toevoeging van de woorden „marine pollutant”.
 
@@ -9470,21 +9492,21 @@ Verpakkingen dienen, met het oog op hun specifieke inhoud, toereikend te zijn om
 
 5. Wanneer een schip beschikt over een bijzondere lijst of een bijzonder manifest of een gedetailleerd stuwplan zoals voor het vervoer van gevaarlijke stoffen is vereist ingevolge het [Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974](https://wetten.overheid.nl/jci1.3:c:BWBV0003264), zoals gewijzigd, mogen de ingevolge dit voorschrift vereiste documenten worden gecombineerd met die voor gevaarlijke stoffen. Ingeval documenten worden gecombineerd, dient duidelijk onderscheid te worden gemaakt tussen gevaarlijke stoffen en onder deze Bijlage vallende schadelijke stoffen.
 
-#### Voorschrift 5. Stuwage
+##### Voorschrift 5. Stuwage
 
 Schadelijke stoffen dienen op de juiste wijze te worden gestuwd en vastgezet ter beperking van de gevaren voor het mariene milieu, zonder afbreuk te doen aan de veiligheid van het schip en de zich aan boord bevindende personen.
 
-#### Voorschrift 6. Beperkingen van hoeveelheid
+##### Voorschrift 6. Beperkingen van hoeveelheid
 
 Om gegronde wetenschappelijke en technische redenen kan het vervoer van bepaalde schadelijke stoffen worden verboden of de hoeveelheid ervan die aan boord van een schip mag worden vervoerd, worden beperkt. Bij het beperken van de hoeveelheid dient naar behoren aandacht te worden geschonken aan de grootte, de constructie en de uitrusting van het schip, alsmede aan de verpakking en de aard van de stoffen.
 
-#### Voorschrift 7. Uitzonderingen
+##### Voorschrift 7. Uitzonderingen
 
 1. Het overboord zetten van schadelijke stoffen die worden vervoerd in verpakte vorm is verboden, behalve wanneer dit noodzakelijk is om de veiligheid van het schip te verzekeren of om mensenlevens op zee te redden.
 
 2. Behoudens de bepalingen van dit Verdrag dienen op grond van de natuurkundige, scheikundige en biologische eigenschappen van schadelijke stoffen passende maatregelen te worden genomen om het overboord spoelen van zulke door lekkage vrijgekomen stoffen te regelen, mits de uitvoering van deze maatregelen de veiligheid van het schip en van de zich aan boord bevindende personen niet in gevaar brengt.
 
-#### Voorschrift 8. Door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
+##### Voorschrift 8. Door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
 
 1. Een schip dat zich bevindt in een haven of een laad- of losplaats buitengaats van een andere Partij wordt geïnspecteerd door ambtenaren die door bedoelde Partij naar behoren zijn gemachtigd om te controleren of voldaan is aan de in deze Bijlage bedoelde vereisten met betrekking tot de bedrijfsvoering aan boord, wanneer er duidelijke gronden zijn om aan te nemen dat de kapitein of de leden van de bemanning niet op de hoogte zijn van de essentiële procedures die aan boord dienen te worden toegepast om verontreiniging door schadelijke stoffen te voorkomen.
 
@@ -9494,7 +9516,7 @@ Om gegronde wetenschappelijke en technische redenen kan het vervoer van bepaalde
 
 4. Geen enkele bepaling van dit voorschrift mag zo worden uitgelegd dat daardoor de rechten en plichten van een Partij die de uitdrukkelijk in dit Verdrag genoemde vereisten met betrekking tot de bedrijfsvoering aan boord controleert, worden beperkt.
 
-#### Voorschrift 1. Begripsomschrijvingen
+##### Voorschrift 1. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage wordt verstaan onder:
 
@@ -9510,7 +9532,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 - 6. **Auditnorm,** de Implementatiecode.
 
-#### Voorschrift 2. Toepassing
+##### Voorschrift 2. Toepassing
 
 1. Tenzij uitdrukkelijk anders is bepaald, zijn de voorschriften van deze Bijlage van toepassing op alle schepen die schadelijke stoffen vervoeren in verpakte vorm.
 
@@ -9522,13 +9544,13 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 5. De vereisten van deze Bijlage gelden niet voor voorraden en uitrusting aan boord van schepen.
 
-#### Voorschrift 3. Verpakking
+##### Voorschrift 3. Verpakking
 
 Verpakkingen dienen, met het oog op hun specifieke inhoud, toereikend te zijn om het gevaar voor het mariene milieu tot een minimum te beperken.
 
 ### HOOFDSTUK 10. INTERNATIONALE CODE VOOR SCHEPEN DIE IN POLAIRE WATEREN VAREN
 
-#### Voorschrift 4. Onderzoeken
+##### Voorschrift 4. Onderzoeken
 
 - 1. Elk schip dat in overeenstemming met [voorschrift 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=IV&hoofdstuk=1&artikel=2&z=2011-01-01&g=2011-01-01) dient te voldoen aan de bepalingen van deze Bijlage dient de volgende onderzoeken te ondergaan:
 
@@ -9558,13 +9580,13 @@ Verpakkingen dienen, met het oog op hun specifieke inhoud, toereikend te zijn om
 
 - 9. Wanneer een ongeval plaatsvindt met een schip of een defect wordt ontdekt waardoor de hechtheid van het schip of de doelmatigheid of volledigheid van de uitrusting waarop deze bijlage van toepassing is wezenlijk worden aangetast, rapporteert de kapitein of eigenaar van het schip dit zo spoedig mogelijk aan de Administratie, de erkende organisatie of de aangewezen inspecteur die verantwoordelijk is voor de afgifte van het desbetreffende certificaat, die erop toeziet dat een onderzoek wordt ingesteld om te bepalen of een inspectie als vereist op grond van punt 1 van dit voorschrift noodzakelijk is. Indien het schip zich bevindt in een haven van een andere Partij, meldt de kapitein of eigenaar van het schip dit tevens onverwijld aan de desbetreffende autoriteiten van de havenstaat en de aangewezen inspecteur of erkende organisatie dient vast te stellen of deze melding heeft plaatsgevonden.
 
-#### Voorschrift 5. Afgifte of goedkeuring van een certificaat
+##### Voorschrift 5. Afgifte of goedkeuring van een certificaat
 
 - 1. Een Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair Afval wordt afgegeven na een eerste onderzoek of een hernieuwd onderzoek in overeenstemming met de bepalingen van [voorschrift 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=IV&hoofdstuk=2&artikel=4&z=2011-01-01&g=2011-01-01) van deze Bijlage aan elk schip dat reizen maakt naar havens of losplaatsen buitengaats onder de rechtsmacht van andere Partijen bij het Verdrag. Ten aanzien van bestaande schepen zal dit vereiste vijf jaar na de datum van inwerkingtreding van deze Bijlage van toepassing worden.
 
 - 2. Deze certificaten worden afgegeven of goedgekeurd hetzij door de Administratie, hetzij door een daartoe door haar naar behoren gemachtigde persoon of organisatie1)Zie de door de Organisatie bij resolutie A.739(18) aangenomen Richtlijnen voor de bevoegdverklaring van organisaties die optreden namens Administraties en de door de Organisatie bij resolutie A.789(19) aangenomen Specificaties inzake de onderzoeks- en certificeringsfuncties van erkende organisaties die optreden namens de Administratie.. In alle gevallen neemt de Administratie de volledige verantwoordelijkheid voor het certificaat op zich.
 
-#### Voorschrift 6. Afgifte of aantekening op een certificaat door de Regering van een ander land
+##### Voorschrift 6. Afgifte of aantekening op een certificaat door de Regering van een ander land
 
 - 1. Op verzoek van de Administratie kan de Regering van een Partij bij het Verdrag een schip doen onderzoeken en, indien zij ervan overtuigd is dat aan de bepalingen van dit Verdrag wordt voldaan, geeft zij het certificaat af of geeft zij toestemming voor afgifte van een Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair Afval aan het schip, en waar van toepassing plaatst zij een aantekening op het certificaat of geeft zij toestemming voor het plaatsen van een aantekening op dat certificaat van het schip in overeenstemming met deze Bijlage.
 
@@ -9574,11 +9596,11 @@ Verpakkingen dienen, met het oog op hun specifieke inhoud, toereikend te zijn om
 
 - 4. Er wordt geen internationaal certificaat van voorkoming van verontreiniging door sanitair afval afgegeven aan een schip dat gerechtigd is de vlag te voeren van een Staat die geen Partij is.
 
-#### Voorschrift 7. Model van het certificaat
+##### Voorschrift 7. Model van het certificaat
 
 Het Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair Afval wordt opgesteld overeenkomstig het model opgenomen in het aanhangsel bij deze Bijlage en dient ten minste in de Engelse, de Franse of de Spaanse taal te zijn opgesteld. Indien tevens de officiële taal van het land van afgifte wordt gebruikt, is deze doorslaggevend bij geschillen of tegenstrijdigheden.
 
-#### Voorschrift 8. Looptijd en geldigheid van het certificaat
+##### Voorschrift 8. Looptijd en geldigheid van het certificaat
 
 - 1. Een Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair Afval wordt afgegeven voor een door de Administratie vastgestelde termijn die evenwel niet langer is dan vijf jaar.
 
@@ -9606,7 +9628,7 @@ Het Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair 
 
 - .2 bij overdracht van het schip onder de vlag van een andere Staat. Er mag uitsluitend een nieuw certificaat worden afgegeven wanneer de Regering die het nieuwe certificaat afgeeft er ten volle van overtuigd is dat het schip volledig voldoet aan de vereisten van de [voorschriften 4.7 en 4.8](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=IV&hoofdstuk=2&artikel=4&z=2011-01-01&g=2011-01-01) van deze Bijlage. In het geval van een overdracht tussen Partijen zendt de Regering van de Partij wier vlag het schip voordien gerechtigd was te voeren, indien zij daarom wordt verzocht binnen drie maanden nadat de overdracht heeft plaatsgevonden, zo spoedig mogelijk aan de Administratie van de andere Partij afschriften van de certificaten die het schip aan boord had vóór de overdracht en, indien beschikbaar, afschriften van de desbetreffende onderzoeksrapporten.
 
-#### Voorschrift 9. Systemen voor sanitair afval
+##### Voorschrift 9. Systemen voor sanitair afval
 
 - 1. Elk schip dat in overeenstemming met voorschrift 2 dient te voldoen aan de bepalingen van deze Bijlage, dient te zijn uitgerust met een van de volgende systemen voor sanitair afval:
 
@@ -9616,7 +9638,7 @@ Het Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair 
 
 - .3 een verzameltank met naar het oordeel van de Administratie voldoende capaciteit voor het opslaan van alle sanitair afval, rekening houdend met de exploitatie van het schip, het aantal opvarenden en andere relevante factoren. De constructie van de verzameltank dient ten genoegen van de Administratie te zijn en voorzien te zijn van een voorziening voor visuele inspectie van het niveau van de inhoud.
 
-#### Voorschrift 10. Standaardaansluitingen voor afgifte
+##### Voorschrift 10. Standaardaansluitingen voor afgifte
 
 - 1. Teneinde de leiding van de ontvangstinrichting te kunnen aansluiten op de scheepsleiding voor afgifte, dienen beide leidingen te zijn voorzien van een standaardaansluiting voor afgifte overeenkomstig de volgende tabel: Voor schepen met een holte naar de mal van 5 meter of minder, mag de inwendige diameter van de aansluiting voor afgifte 38 mm bedragen.
 
@@ -9632,7 +9654,7 @@ Het Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair 
 
 - 2. Voor schepen voor specifiek gebruik, bijv. passagiersveerboten, kan de scheepsleiding voor afgifte ook worden voorzien van een voor de Administratie aanvaardbare aansluiting voor afgifte, zoals een snelkoppeling.
 
-#### Voorschrift 11. Lozen van sanitair afval
+##### Voorschrift 11. Lozen van sanitair afval
 
 - 1. Onverminderd de bepalingen van voorschrift 3 van deze Bijlage is het lozen in zee van sanitair afval verboden, behalve wanneer:
 
@@ -9650,7 +9672,7 @@ Het Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair 
 
 ### HOOFDSTUK 4. ONTVANGSTINRICHTINGEN
 
-#### Voorschrift 12. Ontvangstinrichtingen
+##### Voorschrift 12. Ontvangstinrichtingen
 
 - 1. De Regering van elke Partij bij het Verdrag, die van alle schepen in de wateren die onder haar rechtsmacht vallen vereist dat zij voldoen aan de eisen van voorschrift 11.1, verbindt zich tot het installeren in havens en laad- en losplaatsen van inrichtingen voor het in ontvangst nemen van sanitair afval, zonder onnodig oponthoud van de schepen te veroorzaken, die toereikend zijn voor de behoeften van de schepen die er gebruik van maken.
 
@@ -9658,7 +9680,7 @@ Het Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair 
 
 ### HOOFDSTUK 2. VERIFICATIE VAN DE NALEVING VAN DE BEPALINGEN VAN DEZE BIJLAGE
 
-#### Voorschrift 13. Door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord1)Verwezen wordt naar de procedures voor door de havenstaat uit te oefenen controle, aangenomen door de Organisatie bij resolutie A.787(19) als gewijzigd bij resolutie A.882(21); zie IMO sales publication IMO-650E.
+##### Voorschrift 13. Door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord1)Verwezen wordt naar de procedures voor door de havenstaat uit te oefenen controle, aangenomen door de Organisatie bij resolutie A.787(19) als gewijzigd bij resolutie A.882(21); zie IMO sales publication IMO-650E.
 
 1. Een schip dat zich bevindt in een haven of een laad- of losplaats buitengaats van een andere Partij wordt geïnspecteerd door ambtenaren die door bedoelde Partij naar behoren zijn gemachtigd om te controleren of voldaan is aan de vereisten uit hoofde van deze Bijlage met betrekking tot de bedrijfsvoering aan boord, wanneer er duidelijke gronden zijn om aan te nemen dat de kapitein of de leden van de bemanning niet op de hoogte zijn van de essentiële procedures die aan boord dienen te worden toegepast om verontreiniging door sanitair afval te voorkomen.
 
@@ -9668,7 +9690,7 @@ Het Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair 
 
 4. Geen enkele bepaling van dit voorschrift mag zo worden uitgelegd dat daardoor de rechten en plichten van een Partij die de uitdrukkelijk in dit Verdrag voorziene vereisten met betrekking tot de bedrijfsvoering aan boord controleert, worden beperkt.
 
-#### Voorschrift 1. Omschrijvingen
+##### Voorschrift 1. Omschrijvingen
 
 Voor de toepassing van deze Bijlage:
 
@@ -9678,11 +9700,11 @@ Voor de toepassing van deze Bijlage:
 
 - (3). wordt onder „bijzonder gebied” verstaan een zeegebied waarbinnen, om algemeen aanvaarde technische redenen met betrekking tot de oceanografische en ecologische toestand en het speciale karakter van het scheepvaartverkeer binnen dat gebied, het volgen van bijzondere noodzakelijke methoden ter voorkoming van verontreiniging van de zee door vuilnis moeten worden genomen. Onder deze bijzondere gebieden worden begrepen de gebieden genoemd in Voorschrift 5 van deze Bijlage.
 
-#### Voorschrift 2. Toepassing
+##### Voorschrift 2. Toepassing
 
 Tenzij uitdrukkelijk anders bepaald, zijn de bepalingen van deze Bijlage van toepassing op alle schepen.
 
-#### Voorschrift 3. Storten van vuilnis buiten bijzondere gebieden
+##### Voorschrift 3. Storten van vuilnis buiten bijzondere gebieden
 
 - (1). Behoudens de bepalingen van de Voorschriften 4, 5 en 6 van deze Bijlage:
 
@@ -9698,13 +9720,13 @@ Tenzij uitdrukkelijk anders bepaald, zijn de bepalingen van deze Bijlage van toe
 
 - (2). Ingeval de vuilnis is vermengd met andere lozingen, waarvoor afwijkende eisen gelden met betrekking tot verwijderen of lozen, zijn de zwaarste eisen van toepassing.
 
-#### Voorschrift 4. Speciale eisen voor het storten van vuilnis
+##### Voorschrift 4. Speciale eisen voor het storten van vuilnis
 
 - (1). Behoudens de bepalingen van paragraaf (2) van dit Voorschrift is het storten van stoffen waarop dit Voorschrift van toepassing is, verboden vanaf vaste of drijvende platforms buitengaats gebezigd bij de exploratie, exploitatie en daarbij behorende verwerking van minerale zeebodemschatten, alsmede vanaf alle andere schepen, wanneer deze zich langszij of binnen 500 meter van dergelijke platforms bevinden.
 
 - (2). Het storten in zee van voedselresten vanaf vaste of drijvende platforms kan worden toegestaan, ingeval deze door een afbreek- of maalinstallatie zijn gevoerd en deze platforms zich meer dan 12 zeemijlen vanaf het dichtstbijzijnde land bevinden, alsmede van alle andere schepen, ingeval deze zich langszij of binnen 500 meter van zulke platforms bevinden. Deze afgebroken of gemalen voedselresten moeten een rooster met gaten van maximaal 25 mm kunnen passeren.
 
-#### Voorschrift 5. Storten van vuilnis binnen bijzondere gebieden
+##### Voorschrift 5. Storten van vuilnis binnen bijzondere gebieden
 
 - (1). Voor de toepassing van deze Bijlage worden onder bijzondere gebieden verstaan de gebieden van de Middellandse Zee, de Oostzee, de Zwarte Zee, de Rode Zee, de „Golf”, de Noordzee, de Zuidpool en het Caraïbisch Gebied, met inbegrip van de Golf van Mexico en de Caraïbische Zee, die als volgt worden omschreven:
 
@@ -9758,7 +9780,7 @@ Tenzij uitdrukkelijk anders bepaald, zijn de bepalingen van deze Bijlage van toe
 
 - b. De Regering van elke Partij bij het Verdrag verzekert dat alle schepen die gerechtigd zijn haar vlag te voeren, alvorens het Antarctisch gebied binnen te varen zijn uitgerust met een tank of tanks van voldoende capaciteit aan boord voor het aan boord houden van alle vuilnis terwijl zij in bedrijf zijn in het gebied en regelingen hebben gesloten om dit vuilnis af te geven aan een ontvangstinrichting na het verlaten van het gebied.
 
-#### Voorschrift 6. Uitzonderingen
+##### Voorschrift 6. Uitzonderingen
 
 De Voorschriften 3, 4 en 5 van deze Bijlage zijn niet van toepassing op:
 
@@ -9768,13 +9790,13 @@ De Voorschriften 3, 4 en 5 van deze Bijlage zijn niet van toepassing op:
 
 - (2c). het toevallige verlies van synthetische visnetten, mits alle redelijke voorzorgen zijn genomen om dit verlies te voorkomen.
 
-#### Voorschrift 7. Ontvangstinrichtingen
+##### Voorschrift 7. Ontvangstinrichtingen
 
 - (1). De Regering van elke Partij bij dit Verdrag verbindt zich tot het installeren, in havens en laad- en losplaatsen, van inrichtingen voor het in ontvangst nemen van vuilnis, zonder onnodig oponthoud van de schepen te veroorzaken, en die toereikend zijn om te voldoen aan de behoeften van de schepen die er gebruik van maken.
 
 - (2). De Regering van elke Partij stelt de Organisatie in kennis van alle gevallen waarin de inrichtingen welke ingevolge de bepalingen van dit Voorschrift zijn aangebracht als ontoereikend worden aangemerkt, dit ter mededeling aan de betrokken Partijen.
 
-#### Voorschrift 8. De door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
+##### Voorschrift 8. De door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
 
 - 1. Een schip dat zich bevindt in een haven van een andere Partij dient te worden geïnspecteerd door ambtenaren die door bedoelde Partij naar behoren zijn gemachtigd om te controleren of is voldaan aan de in deze Bijlage bedoelde vereisten met betrekking tot de bedrijfsvoering aan boord, wanneer er duidelijke gronden zijn om aan te nemen dat de kapitein of de leden van de bemanning niet op de hoogte zijn van de essentiële werkwijzen die aan boord moeten worden toegepast om verontreiniging door vuilnis te voorkomen.
 
@@ -9784,7 +9806,7 @@ De Voorschriften 3, 4 en 5 van deze Bijlage zijn niet van toepassing op:
 
 - 4. Geen enkele bepaling van dit voorschrift mag zo worden uitgelegd dat daardoor de rechten en plichten van een Partij die de uitdrukkelijk in dit Verdrag genoemde vereisten met betrekking tot de bedrijfsvoering aan boord controleert, worden beperkt.
 
-#### Voorschrift 9. Informatieborden, vuilnisbeheerplannen en het bijhouden van de gegevens inzake vuilnis
+##### Voorschrift 9. Informatieborden, vuilnisbeheerplannen en het bijhouden van de gegevens inzake vuilnis
 
 - 1.
 
@@ -9816,11 +9838,11 @@ De Voorschriften 3, 4 en 5 van deze Bijlage zijn niet van toepassing op:
 
 ### HOOFDSTUK 4. ONTVANGSTINRICHTINGEN
 
-#### Voorschrift 1. Toepassing
+##### Voorschrift 1. Toepassing
 
 De bepalingen van deze Bijlage zijn van toepassing op alle schepen, tenzij uitdrukkelijk anders is bepaald in de voorschriften 3, 5, 6, 13, 15, 16 en 18 van deze Bijlage.
 
-#### Voorschrift 2. Begripsomschrijvingen
+##### Voorschrift 2. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage:
 
@@ -9886,7 +9908,7 @@ Voor de toepassing van deze Bijlage:
 
 - 21. wordt onder **tankschip** verstaan een olietankschip als omschreven in voorschrift 1 van Bijlage I of een chemicaliëntankschip zoals omschreven in voorschrift 1van Bijlage II bij dit Verdrag.
 
-#### Voorschrift 3. Uitzonderingen en vrijstellingen
+##### Voorschrift 3. Uitzonderingen en vrijstellingen
 
 1. De voorschriften van deze Bijlage zijn niet van toepassing op:
 
@@ -9916,7 +9938,7 @@ Voor de toepassing van deze Bijlage:
 
 3.2. De vereisten van voorschrift 18 van deze Bijlage zijn niet van toepassing op het gebruik van koolwaterstoffen die ter plaatse worden geproduceerd en vervolgens worden gebruikt als brandstof, indien goedgekeurd door de Administratie.
 
-#### Voorschrift 4. Gelijkwaardige voorzieningen
+##### Voorschrift 4. Gelijkwaardige voorzieningen
 
 1. De Administratie van een Partij kan toestaan dat installaties, materialen, middelen of toestellen worden aangebracht op een schip of dat er andere procedures, brandstofolie of methodes worden gebruikt dan degene die worden vereist door deze Bijlage, indien dergelijke installaties, materialen, middelen of toestellen, procedures, brandstofolie of methoden wat betreft emissiebeperking ten minste even doeltreffend zijn als degene die door deze Bijlage, met inbegrip van de normen vervat in de [voorschriften 13](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=III&artikel=13&z=2011-01-01&g=2011-01-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=III&artikel=14&z=2011-01-01&g=2011-01-01), worden vereist.
 
@@ -9928,7 +9950,7 @@ Voor de toepassing van deze Bijlage:
 
 ### HOOFDSTUK 6. VERIFICATIE VAN DE NALEVING VAN DE BEPALINGEN VAN DEZE BIJLAGE
 
-#### Voorschrift 5. Onderzoeken
+##### Voorschrift 5. Onderzoeken
 
 1. Alle schepen met een brutotonnage van 400 ton en meer, alsmede alle vaste en drijvende boorinstallaties en andere platforms worden onderworpen aan de hieronder aangegeven onderzoeken:
 
@@ -9958,7 +9980,7 @@ Voor de toepassing van deze Bijlage:
 
 5. Wanneer een schip bij een ongeval betrokken raakt, of er gebreken worden geconstateerd waardoor de doelmatigheid of volledigheid van de uitrusting waarop deze Bijlage van toepassing is, wezenlijk worden beïnvloed, dient de kapitein of de eigenaar van het schip de Administratie, een aangewezen inspecteur of erkende organisatie die verantwoordelijk is voor de afgifte van het betrokken certificaat zo spoedig mogelijk in te lichten.
 
-#### Voorschrift 6. Afgifte van of aantekening op een certificaat
+##### Voorschrift 6. Afgifte van of aantekening op een certificaat
 
 1. Een Internationaal certificaat betreffende voorkoming van luchtverontreiniging wordt afgegeven na een eerste of hernieuwd onderzoek in overeenstemming met de bepalingen van voorschrift 5 van deze Bijlage aan:
 
@@ -9970,7 +9992,7 @@ Voor de toepassing van deze Bijlage:
 
 3. Dit certificaat wordt afgegeven of hierop wordt een aantekening gemaakt hetzij door de Administratie, hetzij door een daartoe door haar naar behoren gemachtigde persoon of organisatie. In alle gevallen aanvaardt de Administratie de volledige verantwoordelijkheid voor het certificaat.
 
-#### Voorschrift 7. Afgifte van een certificaat door een andere Partij
+##### Voorschrift 7. Afgifte van een certificaat door een andere Partij
 
 1. Een Partij kan een schip op verzoek van de Administratie doen onderzoeken en, indien zij ervan overtuigd is dat aan de bepalingen van deze Bijlage wordt voldaan, een Internationaal certificaat betreffende voorkoming van luchtverontreiniging aan het schip afgeven of hiervoor toestemming geven, en waar van toepassing een aantekening op het certificaat van het schip plaatsen of hiervoor toestemming geven, in overeenstemming met deze Bijlage.
 
@@ -9980,11 +10002,11 @@ Voor de toepassing van deze Bijlage:
 
 4. Er wordt geen Internationaal certificaat betreffende voorkoming van luchtverontreiniging afgegeven aan een schip dat gerechtigd is de vlag te voeren van een Staat die geen Partij is.
 
-#### Voorschrift 8. Model van het certificaat
+##### Voorschrift 8. Model van het certificaat
 
 Het Internationaal certificaat betreffende voorkoming van luchtverontreiniging wordt opgesteld overeenkomstig het model opgenomen in aanhangsel I bij deze Bijlage en dient ten minste in de Engelse, de Franse of de Spaanse taal te zijn gesteld. Indien tevens de officiële taal van het land van afgifte wordt gebruikt, is deze doorslaggevend bij geschillen of tegenstrijdigheden.
 
-#### Voorschrift 9. Looptijd en geldigheid van het certificaat
+##### Voorschrift 9. Looptijd en geldigheid van het certificaat
 
 1. Een Internationaal certificaat betreffende voorkoming van luchtverontreiniging wordt afgegeven voor een door de Administratie vastgesteld tijdvak van ten hoogste vijf jaar.
 
@@ -10022,7 +10044,7 @@ Het Internationaal certificaat betreffende voorkoming van luchtverontreiniging w
 
 - .3. bij overdracht van het schip onder de vlag van een andere Staat. Er mag uitsluitend een nieuw certificaat worden afgegeven wanneer de Regering die het nieuwe certificaat afgeeft er ten volle van overtuigd is dat het schip voldoet aan de eisen van voorschrift 5.4 van deze Bijlage. In het geval van een overdracht tussen Partijen zendt de Regering van de Partij wier vlag het schip voordien gerechtigd was te voeren, indien zij daarom wordt verzocht binnen drie maanden nadat de overdracht heeft plaatsgevonden, zo spoedig mogelijk aan de Administratie afschriften van het certificaat dat het schip aan boord had vóór de overdracht en, indien beschikbaar, afschriften van de desbetreffende onderzoeksrapporten.
 
-#### Voorschrift 10. Door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
+##### Voorschrift 10. Door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
 
 1. Een schip dat zich bevindt in een haven of een laad- of losplaats buitengaats onder de rechtsmacht van een andere Partij wordt geïnspecteerd door ambtenaren die door bedoelde Partij naar behoren zijn gemachtigd om te controleren of is voldaan aan de in deze Bijlage bedoelde vereisten met betrekking tot de bedrijfsvoering aan boord, wanneer er duidelijke gronden zijn om aan te nemen dat de kapitein of de leden van de bemanning niet op de hoogte zijn van de essentiële werkwijzen die aan boord dienen te worden toegepast om luchtverontreiniging door schepen te voorkomen.
 
@@ -10032,7 +10054,7 @@ Het Internationaal certificaat betreffende voorkoming van luchtverontreiniging w
 
 4. Niets in dit voorschrift mag zo worden uitgelegd dat daardoor de rechten en plichten van een Partij die de uitdrukkelijk in dit Verdrag genoemde vereisten met betrekking tot de bedrijfsvoering aan boord controleert, worden beperkt.
 
-#### Voorschrift 11. Opsporing van overtredingen en handhaving
+##### Voorschrift 11. Opsporing van overtredingen en handhaving
 
 1. De Partijen werken samen bij de opsporing van overtredingen en de handhaving van de bepalingen van deze Bijlage, daarbij gebruikmakend van alle passende en uitvoerbare maatregelen van opsporing en milieubewaking en van doeltreffende methoden voor het rapporteren en verzamelen van bewijsmateriaal.
 
@@ -10048,7 +10070,7 @@ Het Internationaal certificaat betreffende voorkoming van luchtverontreiniging w
 
 ### HOOFDSTUK III. VEREISTEN VOOR BEHEERSING VAN EMISSIES DOOR SCHEPEN
 
-#### Voorschrift 12. Ozonafbrekende stoffen
+##### Voorschrift 12. Ozonafbrekende stoffen
 
 1. Dit voorschrift is niet van toepassing op permanent verzegelde uitrusting indien er geen aansluitingen zijn voor de toevoer van koelvloeistof of verwijderbare onderdelen die ozonafbrekende stoffen bevatten.
 
@@ -10088,7 +10110,7 @@ Het Internationaal certificaat betreffende voorkoming van luchtverontreiniging w
 
 - .5. levering van ozonafbrekende stoffen aan het schip.
 
-#### Voorschrift 13. Stikstofoxiden (NOx)
+##### Voorschrift 13. Stikstofoxiden (NOx)
 
 1.1. Dit voorschrift is van toepassing op:
 
@@ -10190,7 +10212,7 @@ Indien het op of na 1 januari 2016, uitsluitend in het geval van vervangende mot
 
 10. Tussen 2012 en uiterlijk 2013 zal de Organisatie de status van de technologische ontwikkelingen voor de implementatie van de normen vervat in lid 5.1.1 van dit voorschrift toetsen en wanneer dat nodig blijkt, de daarin voorziene termijnen aanpassen.
 
-#### Voorschrift 14. Zwaveloxides (SOx) en fijnstof
+##### Voorschrift 14. Zwaveloxides (SOx) en fijnstof
 
 1. Het zwavelgehalte van brandstofolie die wordt gebruikt aan boord van schepen mag niet hoger zijn dan:
 
@@ -10234,7 +10256,7 @@ Indien het op of na 1 januari 2016, uitsluitend in het geval van vervangende mot
 
 10. Op grond van de door de deskundigengroep samengestelde informatie beslissen de Partijen of het voor schepen mogelijk is te voldoen aan de termijn vervat in lid 1.3 van dit voorschrift. Indien besloten wordt dat schepen daar niet aan kunnen voldoen, wordt de in dat lid vervatte norm van kracht vanaf 1 januari 2025.
 
-#### Voorschrift 15. Vluchtige organische stoffen (VOS)
+##### Voorschrift 15. Vluchtige organische stoffen (VOS)
 
 1. Indien de emissie van VOS door tankschepen binnen een haven of havens of laad- of losplaatsen onder de rechtsmacht van een Partij dient te worden gereguleerd, geschiedt dat in overeenstemming met de bepalingen van dit voorschrift.
 
@@ -10258,7 +10280,7 @@ Indien het op of na 1 januari 2016, uitsluitend in het geval van vervangende mot
 
 7. Dit voorschrift is alleen mede van toepassing op gasschepen wanneer het type laad-, en opslagsystemen voor de veilige opslag aan boord of het veilig terugbrengen aan land van VOS (met uitzondering van methaan) mogelijk maakt.
 
-#### Voorschrift 16. Verbranding aan boord
+##### Voorschrift 16. Verbranding aan boord
 
 1. Behalve zoals bepaald in het vierde lid van dit voorschrift is verbranding aan boord alleen toegestaan in een verbrandingsinstallatie aan boord.
 
@@ -10296,7 +10318,7 @@ Indien het op of na 1 januari 2016, uitsluitend in het geval van vervangende mot
 
 9. Voor in overeenstemming met lid 6.1 van dit voorschrift geïnstalleerde verbrandingsinstallaties dient de uitlaattemperatuur van de verbrandingskamer voortdurend te worden gemeten wanneer de eenheid in bedrijf is. Indien de verbrandingsinstallatie voorzien is van doorlopende toevoer, mag er geen afval aan de installatie worden toegevoerd wanneer de uitlaattemperatuur van de verbrandingskamer lager is dan 850°C. Bij verbrandingsinstallaties met toevoer in partijen, dient de eenheid zodanig te zijn ontworpen dat de uitlaattemperatuur van de verbrandingskamer binnen vijf minuten na inschakeling 600°C heeft bereikt om vervolgens te stijgen tot en stabiel te blijven op ten minste 850°C.
 
-#### Voorschrift 17. Ontvangstinrichtingen
+##### Voorschrift 17. Ontvangstinrichtingen
 
 1. Elke Partij verbindt zich ertoe zorg te dragen voor het beschikbaar zijn van toereikende inrichtingen die voorzien in de:
 
@@ -10310,7 +10332,7 @@ Indien het op of na 1 januari 2016, uitsluitend in het geval van vervangende mot
 
 3. Elke Partij stelt de Organisatie ter mededeling aan de leden van de Organisatie in kennis van alle gevallen waarin de desbetreffende voorzieningen niet beschikbaar zijn of als ontoereikend worden aangemerkt.
 
-#### Voorschrift 18. Beschikbaarheid en kwaliteit van brandstofolie
+##### Voorschrift 18. Beschikbaarheid en kwaliteit van brandstofolie
 
 1. Elke Partij neemt alle redelijke stappen om de beschikbaarheid van brandstofolie die voldoet aan deze Bijlage te bevorderen en stelt de Organisatie in kennis van de beschikbaarheid van geschikte brandstofolie in haar havens en laad- en losplaatsen.
 
@@ -10394,7 +10416,7 @@ Indien het op of na 1 januari 2016, uitsluitend in het geval van vervangende mot
 
 11. Voor elk schip met een brutotonnage van 400 ton of meer met geplande reizen waarbij frequent en regelmatig havens worden binnengelopen kan een Administratie op verzoek van en in overleg met de desbetreffende Staten besluiten dat op een alternatieve wijze aan het zesde lid van dit voorschrift kan worden voldaan, indien deze leidt tot dezelfde zekerheid omtrent het voldoen aan de [voorschriften 14](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=III&artikel=14&z=2011-01-01&g=2011-01-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=III&artikel=18&z=2011-01-01&g=2011-01-01) van deze Bijlage.
 
-#### 1. Doelstellingen
+##### 1. Doelstellingen
 
 1.1. Doel van dit aanhangsel is de Partijen te voorzien van criteria en procedures voor het formuleren en indienen van voorstellen voor het aanwijzen van gebieden voor emissiebeheersing en de factoren te benoemen die bij de beoordeling van deze voorstellen door de Organisatie in aanmerking dienen te worden genomen.
 
@@ -10402,13 +10424,13 @@ Indien het op of na 1 januari 2016, uitsluitend in het geval van vervangende mot
 
 1.3. Aanneming van een gebied voor emissiebeheersing dient door de Organisatie te worden overwogen indien er een aantoonbare noodzaak bestaat tot preventie, reductie en beheersing van de emissie van NOx, SOx en fijnstof of een combinatie ervan (hierna emissies) door schepen.
 
-#### 2. Procedure voor de aanwijzing van gebieden voor emissiebeheersing
+##### 2. Procedure voor de aanwijzing van gebieden voor emissiebeheersing
 
 2.1. Een voorstel aan de Organisatie voor de aanwijzing van een gebied waar de emissie van NOx of SOx en fijnstof of alle drie de typen emissies dient te worden beheerst, kan uitsluitend door de Partijen worden ingediend. Indien twee of meer Partijen een gezamenlijk belang hebben in een specifiek gebied dienen ze gezamenlijk een voorstel in te dienen.
 
 2.2. Een voorstel voor de aanwijzing van een bepaald gebied als gebied voor emissiebeheersing dient te worden ingediend bij de Organisatie in overeenstemming met de door de Organisatie vastgestelde regels en procedures.
 
-#### 3. Criteria voor de aanwijzing van gebieden voor emissiebeheersing
+##### 3. Criteria voor de aanwijzing van gebieden voor emissiebeheersing
 
 3.1. Het voorstel dient onder meer te omvattten:
 
@@ -10430,7 +10452,7 @@ Indien het op of na 1 januari 2016, uitsluitend in het geval van vervangende mot
 
 3.2. De geografische grenzen van een gebied voor emissiebeheersing dienen gebaseerd te zijn op de bovenomschreven relevante criteria, met inbegrip van de emissies en stortingen door schepen die varen in het voorgestelde gebied, verkeerspatronen en -dichtheid en windomstandigheden.
 
-#### 4. Procedures voor de beoordeling en aanneming van gebieden voor emissiebeheersing door de organisatie
+##### 4. Procedures voor de beoordeling en aanneming van gebieden voor emissiebeheersing door de organisatie
 
 4.1. De Organisatie neemt ieder bij haar door een Partij of Partijen ingediend voorstel in overweging.
 
@@ -10438,7 +10460,7 @@ Indien het op of na 1 januari 2016, uitsluitend in het geval van vervangende mot
 
 4.3. Een gebied voor emissiebeheersing wordt aangewezen door middel van een wijziging van deze Bijlage in overeenstemming met [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&artikel=16&z=2011-01-01&g=2011-01-01) van dit Verdrag behandeld, aangenomen en in werking gesteld.
 
-#### 5. Functioneren van gebieden voor emissiebeheersing
+##### 5. Functioneren van gebieden voor emissiebeheersing
 
 5.1. Partijen met schepen die varen in het gebied worden aangemoedigd de Organisatie op de hoogte te stellen van eventuele zorgen omtrent het functioneren van het gebied.
 
@@ -10446,7 +10468,7 @@ IN WITNESS WHEREOF the undersigned being duly authorized by their respective Gov
 
 DONE at London this second day of November, one thousand nine hundred and seventy-three.
 
-#### Voorschrift 43. Bijzondere vereisten voor het gebruik of vervoer van olie in het Antarctisch gebied
+##### Voorschrift 43. Bijzondere vereisten voor het gebruik of vervoer van olie in het Antarctisch gebied
 
 1. Met uitzondering van schepen die ingezet worden bij het waarborgen van de veiligheid van schepen of bij een opsporings- en reddingsoperatie, is het vervoer in bulk als lading, het gebruik als ballast of het vervoer en gebruik van brandstof van het volgende:
 
@@ -10460,7 +10482,7 @@ verboden in het Antarctisch gebied, zoals omschreven in [Bijlage I, voorschrift 
 
 2. Indien eerdere operationele handelingen het vervoer of het gebruik van de in paragraaf 1.1 tot en met 1.3 van dit voorschrift genoemde olieproducten hebben ingehouden, is het reinigen of spoelen van de tanks of pijpleidingen niet vereist.
 
-#### Voorschrift 1. Begripsomschrijvingen
+##### Voorschrift 1. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage:
 
@@ -10552,13 +10574,13 @@ Voor de toepassing van deze Bijlage:
 
 - .2 wordt onder **laagvisceuze stof** verstaan, een schadelijke vloeistof die geen hoogvisceuze stof is.
 
-#### Voorschrift 2. Toepassing
+##### Voorschrift 2. Toepassing
 
 - 1. Tenzij uitdrukkelijk anders wordt bepaald, zijn de bepalingen van deze Bijlage van toepassing op alle schepen die gecertificeerd zijn voor het vervoer van schadelijke vloeistoffen in bulk.
 
 - 2. Wanneer een lading waarop de bepalingen van [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=I&z=2015-09-01&g=2015-09-01) van dit Verdrag van toepassing zijn, wordt vervoerd in een laadruim van een NLS-tankschip, zijn de desbetreffende bepalingen van Bijlage I van dit Verdrag ook van toepassing.
 
-#### Voorschrift 3. Uitzonderingen
+##### Voorschrift 3. Uitzonderingen
 
 - 1. De lozingsvereisten van deze Bijlage zijn niet van toepassing op de lozing in zee van schadelijke vloeistoffen of mengsels die deze stoffen bevatten wanneer een dergelijke lozing:
 
@@ -10572,7 +10594,7 @@ Voor de toepassing van deze Bijlage:
 
 - .3 wordt goedgekeurd door de Administratie, wanneer de lozing wordt gebruikt met het oog op de bestrijding van specifieke verontreinigingsvoorvallen of ter minimalisering van de door verontreiniging veroorzaakte schade. Dergelijke lozingen moeten worden goedgekeurd door de Regering in wier rechtsgebied de lozing naar verwachting zal plaatsvinden.
 
-#### Voorschrift 4. Ontheffingen
+##### Voorschrift 4. Ontheffingen
 
 - 1. Ten aanzien van de vervoersvereisten als gevolg van de indeling van de stof in een strengere categorie, is het volgende van toepassing:
 
@@ -10626,7 +10648,7 @@ Voor de toepassing van deze Bijlage:
 
 - .5 in het geval van schepen die reizen maken tussen havens of laad- en losplaatsen onder de rechtsmacht van andere Staten die Partij bij dit Verdrag zijn, de Administratie bijzonderheden omtrent de vrijstelling aan de Organisatie mededeelt en de Organisatie deze gegevens aan de Partijen bij dit Verdrag toezendt om daarvan kennis te nemen en eventueel passende maatregelen te treffen.
 
-#### Voorschrift 5. Gelijkwaardige voorzieningen
+##### Voorschrift 5. Gelijkwaardige voorzieningen
 
 - 1. De Administratie kan het aanbrengen van andere onderdelen, materialen, voorzieningen of apparatuur dan die welke in deze Bijlage worden voorgeschreven, op een schip toestaan, mits deze onderdelen, materialen, voorzieningen of apparatuur ten minste even doelmatig zijn als die welke in deze Bijlage worden vereist. Deze bevoegdheid van de Administratie strekt zich niet uit tot de vervanging van operationele methoden voor de beheersing van de lozing van schadelijke vloeistoffen als equivalent van de door de voorschriften in deze Bijlage voorgeschreven ontwerp- en constructievormen.
 
@@ -10644,7 +10666,7 @@ Voor de toepassing van deze Bijlage:
 
 - .5 het is uitgerust met een, door de Administratie goedgekeurd, Handboek zodat wordt gewaarborgd dat geen bedrijfsmatige vermenging van ladingsresiduen en water plaatsvindt en dat geen ladingresiduen in de tank achterblijven na toepassing van de in het Handboek voorgeschreven ventilatieprocedures.
 
-#### Voorschrift 6. Indeling in categorieën en opsomming van schadelijke vloeistoffen en andere stoffen
+##### Voorschrift 6. Indeling in categorieën en opsomming van schadelijke vloeistoffen en andere stoffen
 
 - 1. Voor de toepassing van de voorschriften van deze Bijlage, worden schadelijke vloeistoffen ingedeeld in de volgende vier categorieën:
 
@@ -10662,11 +10684,11 @@ Voor de toepassing van deze Bijlage:
 
 ### HOOFDSTUK 3. ONDERZOEKEN EN CERTIFICERINGEN
 
-#### Voorschrift 7. Onderzoek van en afgifte van een certificaat aan chemicaliëntankschepen
+##### Voorschrift 7. Onderzoek van en afgifte van een certificaat aan chemicaliëntankschepen
 
 Chemicaliëntankschepen die zijn onderzocht en waaraan een certificaat is afgegeven door Staten die Partij bij dit Verdrag zijn, overeenkomstig de bepalingen van de IBC-Code of de Code voor chemicaliën in bulk, al naar gelang van toepassing, worden niettegenstaande het bepaalde in de [voorschriften 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=II&hoofdstuk=3&artikel=8&z=2015-09-01&g=2015-09-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=II&hoofdstuk=3&artikel=9&z=2015-09-01&g=2015-09-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=II&hoofdstuk=3&artikel=10&z=2015-09-01&g=2015-09-01) van deze Bijlage geacht te hebben voldaan aan het bepaalde in de genoemde voorschriften, en het krachtens deze Code afgegeven certificaat heeft dezelfde waarde en moet op dezelfde wijze worden erkend als het krachtens het bepaalde in voorschrift 9 van deze Bijlage afgegeven certificaat.
 
-#### Voorschrift 8. Onderzoeken
+##### Voorschrift 8. Onderzoeken
 
 - 1. Schepen die schadelijke vloeistoffen in bulk vervoeren, zijn onderworpen aan de hieronder aangegeven onderzoeken:
 
@@ -10708,7 +10730,7 @@ Chemicaliëntankschepen die zijn onderzocht en waaraan een certificaat is afgege
 
 - 3.3. Wanneer een ongeval plaatsvindt met een schip of gebreken worden geconstateerd waardoor de integriteit van het schip of de doelmatigheid of volledigheid van de uitrusting waarop deze Bijlage van toepassing is wezenlijk worden aangetast, rapporteert de kapitein of eigenaar van het schip dit zo spoedig mogelijk aan de Administratie, de erkende organisatie of de benoemde inspecteur die verantwoordelijk is voor de afgifte van het desbetreffende certificaat; deze ziet erop toe dat een onderzoek wordt ingesteld om te bepalen of een onderzoek als vereist op grond van lid 1 van dit voorschrift noodzakelijk is. Indien het schip in een haven van een andere Partij ligt, dient de kapitein of eigenaar van het schip eveneens onverwijld de desbetreffende autoriteiten van de havenstaat in te lichten en dient de benoemde inspecteur of erkende organisatie na te gaan of een dergelijke melding heeft plaatsgevonden.
 
-#### Voorschrift 9. Afgifte van of aantekening op het certificaat
+##### Voorschrift 9. Afgifte van of aantekening op het certificaat
 
 - 1. Na een eerste onderzoek of een hernieuwd onderzoek overeenkomstig de bepalingen van [voorschrift 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=II&hoofdstuk=3&artikel=8&z=2015-09-01&g=2015-09-01) van deze Bijlage wordt een Internationaal certificaat betreffende voorkoming van verontreiniging voor het vervoer van schadelijke vloeistoffen in bulk afgegeven aan elk schip dat bestemd is om schadelijke vloeistoffen in bulk te vervoeren en dat reizen maakt naar havens of laad- of losplaatsen buitengaats onder de rechtsmacht van andere Partijen bij het Verdrag.
 
@@ -10724,7 +10746,7 @@ Chemicaliëntankschepen die zijn onderzocht en waaraan een certificaat is afgege
 
 - 4. Het Internationaal certificaat betreffende voorkoming van verontreiniging voor het vervoer van schadelijke vloeistoffen in bulk wordt opgesteld overeenkomstig het model opgenomen in [aanhangsel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=3&z=2015-09-01&g=2015-09-01) bij deze Bijlage en dient ten minste in de Engelse, de Franse of de Spaanse taal te zijn opgesteld. Wanneer de aantekeningen tevens zijn gesteld in een officiële taal van de Staat waarvan het schip gerechtigd is de vlag te voeren, zijn deze doorslaggevend in geval van een geschil of een tegenstrijdigheid.
 
-#### Voorschrift 10. Geldigheidsduur en geldigheid van het certificaat
+##### Voorschrift 10. Geldigheidsduur en geldigheid van het certificaat
 
 - 1. Een Internationaal certificaat betreffende voorkoming van verontreiniging voor het vervoer van schadelijke vloeistoffen in bulk wordt afgegeven voor een door de Administratie vastgesteld tijdvak dat evenwel niet langer is dan vijf jaar.
 
@@ -10760,7 +10782,7 @@ Chemicaliëntankschepen die zijn onderzocht en waaraan een certificaat is afgege
 
 - .3 bij overdracht van het schip onder de vlag van een andere Staat. Er mag uitsluitend een nieuw certificaat worden afgegeven wanneer de Regering die het nieuwe certificaat afgeeft er ten volle van overtuigd is dat het schip volledig voldoet aan de vereisten van de [voorschriften 8.3.1 en 8.3.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=II&hoofdstuk=3&artikel=8&z=2015-09-01&g=2015-09-01) van deze Bijlage. In het geval van een overdracht tussen Partijen zendt de Regering van de Partij wier vlag het schip voordien gerechtigd was te voeren, indien zij daarom wordt verzocht binnen drie maanden nadat de overdracht heeft plaatsgevonden, zo spoedig mogelijk aan de Administratie van de andere Partij afschriften van het certificaat die het schip aan boord had vóór de overdracht en, indien beschikbaar, afschriften van de desbetreffende onderzoeksrapporten.
 
-#### Voorschrift 11. Ontwerp, constructie, uitrusting en bedrijfsvoering
+##### Voorschrift 11. Ontwerp, constructie, uitrusting en bedrijfsvoering
 
 - 1. Van schepen gecertificeerd voor het vervoer van schadelijke vloeistoffen in bulk genoemd in hoofdstuk 17 van de Internationale code voor chemicaliën in bulk, dienen het ontwerp, de constructie, de uitrusting en de bedrijfsvoering in overeenstemming met de volgende bepalingen te zijn, zodat het ongecontroleerd lozen in zee van dergelijke stoffen tot een minimum wordt beperkt:
 
@@ -10780,7 +10802,7 @@ Chemicaliëntankschepen die zijn onderzocht en waaraan een certificaat is afgege
 
 - 2. Ten aanzien van andere schepen dan chemicaliëntankschepen of vloeibaar-gastankschepen gecertificeerd voor het vervoer van schadelijke vloeistoffen in bulk genoemd in hoofdstuk 17 van de Internationale code voor chemicaliën in bulk, stelt de Administratie passende maatregelen op aan de hand van de door de Organisatie ontwikkelde Richtlijnen, zodat het ongecontroleerd lozen in zee van dergelijke stoffen tot een minimum wordt beperkt.
 
-#### Voorschrift 12. Pompen, pijpleidingen, losvoorzieningen en sloptanks
+##### Voorschrift 12. Pompen, pijpleidingen, losvoorzieningen en sloptanks
 
 - 1. Elk schip dat vóór 1 juli 1986 is gebouwd dient te zijn uitgerust met een pomp- en pijpleidingvoorziening die waarborgt dat in geen van de tanks gecertificeerd voor het vervoer van stoffen van categorie X of Y een residu achterblijft van meer dan 300 liter in de tank en de bijbehorende pijpleidingen en dat in geen van de tanks gecertificeerd voor het vervoer van stoffen van categorie Z een residu achterblijft van meer dan 900 liter in de tank en de bijbehorende pijpleidingen. In overeenstemming met [aanhangsel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=5&z=2015-09-01&g=2015-09-01) van deze Bijlage wordt de werking van deze voorzieningen beproefd.
 
@@ -10804,7 +10826,7 @@ Chemicaliëntankschepen die zijn onderzocht en waaraan een certificaat is afgege
 
 - 11. **Sloptanks** In deze Bijlage wordt het aanbrengen van afzonderlijke sloptanks weliswaar niet verplicht gesteld, maar voor bepaalde wasprocedures kunnen sloptanks toch noodzakelijk zijn. In dat geval kunnen ladingtanks als sloptanks worden gebruikt.
 
-#### Voorschrift 13. Regeling van lozingen van residuen van schadelijke vloeistoffen
+##### Voorschrift 13. Regeling van lozingen van residuen van schadelijke vloeistoffen
 
 Onverminderd de bepalingen van [voorschrift 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=II&hoofdstuk=1&artikel=3&z=2015-09-01&g=2015-09-01) van deze Bijlage dient de regeling van lozingen van residuen van schadelijke vloeistoffen of van ballastwater, tankwaswater of andere mengsels die dergelijke stoffen bevatten, in overeenstemming te zijn met de volgende vereisten.
 
@@ -10894,13 +10916,13 @@ Op verzoek van de kapitein van het schip kan een ontheffing voor het voorwassen 
 
 - 8.2. In het Antarctisch gebied zijn lozingen in de zee van schadelijke vloeistoffen of mengsels die zodanige stoffen bevatten, verboden.
 
-#### Voorschrift 14. Handboek voor procedures en voorzieningen
+##### Voorschrift 14. Handboek voor procedures en voorzieningen
 
 - 1. Elk schip dat is gecertificeerd om stoffen van categorie X, Y of Z te vervoeren, moet een door de Administratie goedgekeurd Handboek aan boord hebben. Het Handboek dient overeenkomstig [aanhangsel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=4&z=2015-09-01&g=2015-09-01) bij deze Bijlage een standaardformaat te hebben. In het geval van een schip dat internationale reizen maakt waarop de gebruikte taal een andere is dan de Engelse, de Franse of de Spaanse taal gaat de tekst vergezeld van een vertaling in één van deze talen.
 
 - 2. Het Handboek heeft voornamelijk tot doel voor de officieren op het schip vast te stellen wat de fysieke voorzieningen en alle operationele procedures zijn die met betrekking tot het behandelen van lading, het reinigen van tanks, de behandeling van residuen uit sloptanks en het ballasten en ontballasten van ladingtanks in acht dienen te worden genomen teneinde te voldoen aan de vereisten van deze Bijlage.
 
-#### Voorschrift 15. Ladingjournaal
+##### Voorschrift 15. Ladingjournaal
 
 - 1. Elk schip waarop deze Bijlage van toepassing is, dient te zijn voorzien van een Ladingjournaal, al dan niet als onderdeel van het voorgeschreven scheepsdagboek, in de vorm als omschreven in [aanhangsel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=2&z=2015-09-01&g=2015-09-01) bij deze Bijlage.
 
@@ -10914,7 +10936,7 @@ Op verzoek van de kapitein van het schip kan een ontheffing voor het voorwassen 
 
 - 6. De bevoegde instantie van de Regering van een Partij heeft het recht het Ladingjournaal in te zien aan boord van alle schepen waarop deze Bijlage van toepassing is, terwijl het schip zich in een van haar havens bevindt, en een afschrift te maken van elke aantekening in dat journaal en van de kapitein van het schip te verlangen, het afschrift te waarmerken als een waarheidsgetrouw afschrift van de betrokken aantekening. Elk aldus vervaardigd afschrift, dat de kapitein van het schip als een waarheidsgetrouw afschrift van een aantekening in het Ladingjournaal van het schip heeft gewaarmerkt, wordt bij alle gerechtelijke procedures toegelaten als bewijsstuk voor de in die aantekening vermelde feiten. De inspectie van een Ladingjournaal en de vervaardiging van een gewaarmerkt afschrift door de bevoegde instantie ingevolge het bepaalde in dit lid dienen zo snel mogelijk te geschieden zonder het schip onnodig oponthoud te veroorzaken.
 
-#### Voorschrift 16. Maatregelen ten behoeve van het toezicht
+##### Voorschrift 16. Maatregelen ten behoeve van het toezicht
 
 - 1. De Regering van elke Partij bij dit Verdrag benoemt of machtigt inspecteurs, belast met de zorg voor de naleving van dit voorschrift. De inspecteurs oefenen toezicht uit overeenkomstig de door de Organisatie opgestelde controleprocedures.
 
@@ -10948,7 +10970,7 @@ Op verzoek van de kapitein van het schip kan een ontheffing voor het voorwassen 
 
 - 9.4 Geen enkele bepaling van dit voorschrift mag zo worden uitgelegd dat daardoor de rechten en plichten van een Partij die de uitdrukkelijk in dit Verdrag genoemde vereisten met betrekking tot de bedrijfsvoering aan boord controleert, worden beperkt.
 
-#### Voorschrift 17. Rampenplan aan boord van schepen voor verontreiniging van de zee door schadelijke vloeistoffen
+##### Voorschrift 17. Rampenplan aan boord van schepen voor verontreiniging van de zee door schadelijke vloeistoffen
 
 - 1. Elk schip met een bruto-tonnage van 150 of meer dat is gecertificeerd voor het vervoer in bulk van schadelijke vloeistoffen dient een door de Administratie goedgekeurd scheepsnoodplan voor verontreiniging van de zee door schadelijke vloeistoffen aan boord te hebben.
 
@@ -10966,7 +10988,7 @@ Op verzoek van de kapitein van het schip kan een ontheffing voor het voorwassen 
 
 ### HOOFDSTUK 8. ONTVANGSTINRICHTINGEN
 
-#### Voorschrift 18. Ontvangstinrichtingen en losplaatsvoorzieningen
+##### Voorschrift 18. Ontvangstinrichtingen en losplaatsvoorzieningen
 
 - 1. De Regering van elke Partij bij dit Verdrag verbindt zich ertoe, zorg te dragen voor de installatie van ontvangstinrichtingen al naar gelang de behoeften van schepen, die gebruik maken van haar havens, laad- en losplaatsen of scheepsreparatiehavens, en wel als volgt:
 
@@ -10992,7 +11014,7 @@ Op verzoek van de kapitein van het schip kan een ontheffing voor het voorwassen 
 
 - 5. Elke Partij geeft kennis aan de Organisatie, ter mededeling aan de betrokken Partijen, van ieder geval waarin wordt beweerd dat de krachtens het bepaalde in lid 1 van dit voorschrift vereiste inrichtingen of de krachtens het bepaalde in lid 3 van dit voorschrift vereiste voorzieningen ontoereikend zijn.
 
-#### Voorschrift 1. Toepassing
+##### Voorschrift 1. Toepassing
 
 1. Tenzij uitdrukkelijk anders is bepaald, zijn de voorschriften van deze Bijlage van toepassing op alle schepen die schadelijke stoffen vervoeren in verpakte vorm.
 
@@ -11008,37 +11030,37 @@ Op verzoek van de kapitein van het schip kan een ontheffing voor het voorwassen 
 
 5. De vereisten van deze Bijlage gelden niet voor voorraden en uitrusting aan boord van schepen.
 
-#### Voorschrift 2. Verpakking
+##### Voorschrift 2. Verpakking
 
 Verpakkingen dienen, met het oog op hun specifieke inhoud, toereikend te zijn om het gevaar voor het mariene milieu tot een minimum te beperken.
 
-#### Voorschrift 3. Merken en etiketteren
+##### Voorschrift 3. Merken en etiketteren
 
 1. Verpakkingen die een schadelijke stof bevatten dienen duurzaam te zijn gemerkt of geëtiketteerd teneinde in overeenstemming met de relevante bepalingen van de IMDG-Code aan te geven dat de stof een schadelijke stof is.
 
 2. De wijze van merken of het aanbrengen van etiketten op verpakkingen die een schadelijke stof bevatten dient te voldoen aan de relevante bepalingen van de IMDG-Code.
 
-#### Voorschrift 4. Begeleidende papieren
+##### Voorschrift 4. Begeleidende papieren
 
 1. Transportinformatie over het vervoer van schadelijke stoffen dient te voldoen aan de relevante bepalingen van de IMDG-Code en dient ter beschikking te worden gesteld van de door de autoriteit van de havenstaat aangewezen persoon of organisatie.
 
 2. Op elk schip dat schadelijke stoffen vervoert dient een bijzondere lijst, een manifest of een gedetailleerd stuwplan aanwezig te zijn waarin in overeenstemming met de relevante bepalingen van de IMDG-Code de schadelijke stoffen aan boord en de locatie ervan zijn vermeld. Voor vertrek dient een afschrift van een van deze documenten aan de door de autoriteit van de havenstaat aangewezen persoon of organisatie ter beschikking te worden gesteld.
 
-#### Voorschrift 5. Stuwen
+##### Voorschrift 5. Stuwen
 
 Schadelijke stoffen dienen op de juiste wijze te worden gestuwd en vastgezet, ter beperking van de gevaren voor het mariene milieu, zonder afbreuk te doen aan de veiligheid van het schip en de zich aan boord bevindende personen.
 
-#### Voorschrift 6. Beperkingen van hoeveelheid
+##### Voorschrift 6. Beperkingen van hoeveelheid
 
 Om gegronde wetenschappelijke en technische redenen kan het vervoer van bepaalde schadelijke stoffen worden verboden of de hoeveelheid die aan boord van een schip mag worden vervoerd, worden beperkt. Bij het beperken van de hoeveelheid dient naar behoren aandacht te worden geschonken aan de grootte, de constructie en de uitrusting van het schip, alsmede aan de verpakking en de aard van de stoffen.
 
-#### Voorschrift 7. Uitzonderingen
+##### Voorschrift 7. Uitzonderingen
 
 1. Het overboord zetten van schadelijke stoffen die worden vervoerd in verpakte vorm is verboden, behalve wanneer dit noodzakelijk is om de veiligheid van het schip te verzekeren of om mensenlevens op zee te redden.
 
 2. Behoudens de bepalingen van dit Verdrag dienen op grond van de fysische, chemische en biologische eigenschappen van schadelijke stoffen passende maatregelen te worden genomen om het overboord spoelen van zulke door lekkage vrijgekomen stoffen te regelen, mits de uitvoering van deze maatregelen de veiligheid van het schip en van de zich aan boord bevindende personen niet in gevaar brengt.
 
-#### Voorschrift 8. Door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
+##### Voorschrift 8. Door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
 
 1. Een schip dat zich in een haven of een laad- of losplaats buitengaats van een andere partij bevindt wordt geïnspecteerd door ambtenaren die door die partij naar behoren zijn gemachtigd om te controleren of voldaan wordt aan de in deze Bijlage bedoelde vereisten met betrekking tot de bedrijfsvoering aan boord.
 
@@ -11050,7 +11072,7 @@ Om gegronde wetenschappelijke en technische redenen kan het vervoer van bepaalde
 
 ### HOOFDSTUK 1. ALGEMEEN
 
-#### Voorschrift 1. Begripsomschrijvingen
+##### Voorschrift 1. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage wordt verstaan onder:
 
@@ -11126,7 +11148,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 - 11. „verjaardatum”, de dag en maand van elk jaar die overeenkomen met de datum waarop het Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair Afval verloopt.
 
-#### Voorschrift 2. Toepassing
+##### Voorschrift 2. Toepassing
 
 - 1. De bepalingen van deze Bijlage zijn van toepassing op de volgende schepen die internationale reizen maken:
 
@@ -11140,7 +11162,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 - 2. De Administratie dient te waarborgen dat bestaande schepen, overeenkomstig de punten 1.3 en 1.4 van dit voorschrift, waarvan de kiel is gelegd of waarvan de bouw zich in een soortgelijk stadium bevond voor 2 oktober 1983 voorzover praktisch uitvoerbaar zijn uitgerust met voorzieningen voor het lozen van sanitair afval in overeenstemming met de vereisten van [voorschrift 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=IV&hoofdstuk=3&artikel=11&z=2015-09-01&g=2015-09-01) van de Bijlage.
 
-#### Voorschrift 3. Uitzonderingen
+##### Voorschrift 3. Uitzonderingen
 
 - 1. Voorschrift 11 van deze Bijlage is niet van toepassing op:
 
@@ -11148,7 +11170,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 - .2. het lozen van sanitair afval als gevolg van schade aan een schip of zijn uitrusting, indien alle redelijke voorzorgsmaatregelen zijn getroffen voor en na het optreden van de schade teneinde de lozing te voorkomen of te beperken.
 
-#### Voorschrift 4. Onderzoeken
+##### Voorschrift 4. Onderzoeken
 
 - 1. Elk schip dat in overeenstemming met [voorschrift 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=IV&hoofdstuk=1&artikel=2&z=2015-09-01&g=2015-09-01) dient te voldoen aan de bepalingen van deze Bijlage dient de volgende onderzoeken te ondergaan:
 
@@ -11178,13 +11200,13 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 - 9. Wanneer een ongeval plaatsvindt met een schip of een defect wordt ontdekt waardoor de hechtheid van het schip of de doelmatigheid of volledigheid van de uitrusting waarop deze bijlage van toepassing is wezenlijk worden aangetast, rapporteert de kapitein of eigenaar van het schip dit zo spoedig mogelijk aan de Administratie, de erkende organisatie of de aangewezen inspecteur die verantwoordelijk is voor de afgifte van het desbetreffende certificaat, die erop toeziet dat een onderzoek wordt ingesteld om te bepalen of een inspectie als vereist op grond van punt 1 van dit voorschrift noodzakelijk is. Indien het schip zich bevindt in een haven van een andere Partij, meldt de kapitein of eigenaar van het schip dit tevens onverwijld aan de desbetreffende autoriteiten van de havenstaat en de aangewezen inspecteur of erkende organisatie dient vast te stellen of deze melding heeft plaatsgevonden.
 
-#### Voorschrift 5. Afgifte of goedkeuring van een certificaat
+##### Voorschrift 5. Afgifte of goedkeuring van een certificaat
 
 - 1. Een Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair Afval wordt afgegeven na een eerste onderzoek of een hernieuwd onderzoek in overeenstemming met de bepalingen van [voorschrift 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=IV&hoofdstuk=2&artikel=4&z=2015-09-01&g=2015-09-01) van deze Bijlage aan elk schip dat reizen maakt naar havens of losplaatsen buitengaats onder de rechtsmacht van andere Partijen bij het Verdrag. Ten aanzien van bestaande schepen zal dit vereiste vijf jaar na de datum van inwerkingtreding van deze Bijlage van toepassing worden.
 
 - 2. Deze certificaten worden afgegeven of goedgekeurd hetzij door de Administratie, hetzij door een daartoe door haar naar behoren gemachtigde persoon of organisatie1)Zie de door de Organisatie bij resolutie A.739(18) aangenomen Richtlijnen voor de bevoegdverklaring van organisaties die optreden namens Administraties en de door de Organisatie bij resolutie A.789(19) aangenomen Specificaties inzake de onderzoeks- en certificeringsfuncties van erkende organisaties die optreden namens de Administratie.. In alle gevallen neemt de Administratie de volledige verantwoordelijkheid voor het certificaat op zich.
 
-#### Voorschrift 6. Afgifte of aantekening op een certificaat door de Regering van een ander land
+##### Voorschrift 6. Afgifte of aantekening op een certificaat door de Regering van een ander land
 
 - 1. Op verzoek van de Administratie kan de Regering van een Partij bij het Verdrag een schip doen onderzoeken en, indien zij ervan overtuigd is dat aan de bepalingen van dit Verdrag wordt voldaan, geeft zij het certificaat af of geeft zij toestemming voor afgifte van een Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair Afval aan het schip, en waar van toepassing plaatst zij een aantekening op het certificaat of geeft zij toestemming voor het plaatsen van een aantekening op dat certificaat van het schip in overeenstemming met deze Bijlage.
 
@@ -11194,11 +11216,11 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 - 4. Er wordt geen internationaal certificaat van voorkoming van verontreiniging door sanitair afval afgegeven aan een schip dat gerechtigd is de vlag te voeren van een Staat die geen Partij is.
 
-#### Voorschrift 7. Model van het certificaat
+##### Voorschrift 7. Model van het certificaat
 
 Het Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair Afval wordt opgesteld overeenkomstig het model opgenomen in het aanhangsel bij deze Bijlage en dient ten minste in de Engelse, de Franse of de Spaanse taal te zijn opgesteld. Indien tevens de officiële taal van het land van afgifte wordt gebruikt, is deze doorslaggevend bij geschillen of tegenstrijdigheden.
 
-#### Voorschrift 8. Looptijd en geldigheid van het certificaat
+##### Voorschrift 8. Looptijd en geldigheid van het certificaat
 
 - 1. Een Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair Afval wordt afgegeven voor een door de Administratie vastgestelde termijn die evenwel niet langer is dan vijf jaar.
 
@@ -11226,7 +11248,7 @@ Het Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair 
 
 - .2 bij overdracht van het schip onder de vlag van een andere Staat. Er mag uitsluitend een nieuw certificaat worden afgegeven wanneer de Regering die het nieuwe certificaat afgeeft er ten volle van overtuigd is dat het schip volledig voldoet aan de vereisten van de [voorschriften 4.7 en 4.8](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=IV&hoofdstuk=2&artikel=4&z=2015-09-01&g=2015-09-01) van deze Bijlage. In het geval van een overdracht tussen Partijen zendt de Regering van de Partij wier vlag het schip voordien gerechtigd was te voeren, indien zij daarom wordt verzocht binnen drie maanden nadat de overdracht heeft plaatsgevonden, zo spoedig mogelijk aan de Administratie van de andere Partij afschriften van de certificaten die het schip aan boord had vóór de overdracht en, indien beschikbaar, afschriften van de desbetreffende onderzoeksrapporten.
 
-#### Voorschrift 9. Systemen voor sanitair afval
+##### Voorschrift 9. Systemen voor sanitair afval
 
 - 1. Elk schip dat in overeenstemming met [voorschrift 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=IV&hoofdstuk=1&artikel=2&z=2015-09-01&g=2015-09-01) dient te voldoen aan de bepalingen van deze Bijlage, dient te zijn uitgerust met een van de volgende systemen voor sanitair afval:
 
@@ -11242,7 +11264,7 @@ Het Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair 
 
 - .2. een verzameltank met naar tevredenheid van de Administratie voldoende capaciteit voor het opslaan van alle sanitair afval, rekening houdend met de exploitatie van het schip, het aantal opvarenden en andere relevante factoren. De constructie van de verzameltank dient naar tevredenheid van de Administratie te zijn en een voorziening hebben om zichtbaar het niveau van de inhoud aan te geven.
 
-#### Voorschrift 10. Standaardaansluitingen voor afgifte
+##### Voorschrift 10. Standaardaansluitingen voor afgifte
 
 - 1. Teneinde de leiding van de ontvangstinrichting te kunnen aansluiten op de scheepsleiding voor afgifte, dienen beide leidingen te zijn voorzien van een standaardaansluiting voor afgifte overeenkomstig de volgende tabel: Voor schepen met een holte naar de mal van 5 meter of minder, mag de inwendige diameter van de aansluiting voor afgifte 38 mm bedragen.
 
@@ -11258,7 +11280,7 @@ Het Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair 
 
 - 2. Voor schepen voor specifiek gebruik, bijv. passagiersveerboten, kan de scheepsleiding voor afgifte ook worden voorzien van een voor de Administratie aanvaardbare aansluiting voor afgifte, zoals een snelkoppeling.
 
-#### Voorschrift 11. Lozen van sanitair afval
+##### Voorschrift 11. Lozen van sanitair afval
 
 1. Onverminderd de bepalingen van [voorschrift 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=IV&hoofdstuk=1&artikel=3&z=2015-09-01&g=2015-09-01) van deze Bijlage is het lozen in zee van sanitair afval verboden, behalve wanneer:
 
@@ -11276,7 +11298,7 @@ Het Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair 
 
 4. Indien het sanitair afval wordt vermengd met afval of afvalwater waarop andere Bijlagen van MARPOL van toepassing zijn, dient behalve aan de vereisten van deze Bijlage tevens aan de vereisten van die Bijlagen te worden voldaan.
 
-#### Voorschrift 12. Ontvangstinrichtingen
+##### Voorschrift 12. Ontvangstinrichtingen
 
 - 1. De Regering van elke Partij bij het Verdrag, die van alle schepen in de wateren die onder haar rechtsmacht vallen vereist dat zij voldoen aan de eisen van [voorschrift 11.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=IV&hoofdstuk=3&artikel=11&z=2015-09-01&g=2015-09-01), verbindt zich tot het installeren in havens en laad- en losplaatsen van inrichtingen voor het in ontvangst nemen van sanitair afval, zonder onnodig oponthoud van de schepen te veroorzaken, die toereikend zijn voor de behoeften van de schepen die er gebruik van maken.
 
@@ -11292,7 +11314,7 @@ Het Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair 
 
 ### HOOFDSTUK 5. DOOR DE HAVENSTAAT UIT TE OEFENEN CONTROLE
 
-#### Voorschrift 13. Door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord1)Verwezen wordt naar de procedures voor door de havenstaat uit te oefenen controle, aangenomen door de Organisatie bij resolutie A.787(19) als gewijzigd bij resolutie A.882(21); zie IMO sales publication IMO-650E.
+##### Voorschrift 13. Door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord1)Verwezen wordt naar de procedures voor door de havenstaat uit te oefenen controle, aangenomen door de Organisatie bij resolutie A.787(19) als gewijzigd bij resolutie A.882(21); zie IMO sales publication IMO-650E.
 
 1. Een schip dat zich bevindt in een haven of een laad- of losplaats buitengaats van een andere Partij wordt geïnspecteerd door ambtenaren die door bedoelde Partij naar behoren zijn gemachtigd om te controleren of voldaan is aan de vereisten uit hoofde van deze Bijlage met betrekking tot de bedrijfsvoering aan boord, wanneer er duidelijke gronden zijn om aan te nemen dat de kapitein of de leden van de bemanning niet op de hoogte zijn van de essentiële procedures die aan boord dienen te worden toegepast om verontreiniging door sanitair afval te voorkomen.
 
@@ -11302,7 +11324,7 @@ Het Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair 
 
 4. Geen enkele bepaling van dit voorschrift mag zo worden uitgelegd dat daardoor de rechten en plichten van een Partij die de uitdrukkelijk in dit Verdrag voorziene vereisten met betrekking tot de bedrijfsvoering aan boord controleert, worden beperkt.
 
-#### Voorschrift 1. Begripsomschrijvingen
+##### Voorschrift 1. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage wordt verstaan onder:
 
@@ -11386,7 +11408,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 - 15. **„Auditnorm”,** de Implementatiecode.
 
-#### Voorschrift 2. Toepassing
+##### Voorschrift 2. Toepassing
 
 - 1. De bepalingen van deze Bijlage zijn van toepassing op de volgende schepen die internationale reizen maken:
 
@@ -11400,7 +11422,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 - 2. De Administratie dient te waarborgen dat bestaande schepen, overeenkomstig de punten 1.3 en 1.4 van dit voorschrift, waarvan de kiel is gelegd of waarvan de bouw zich in een soortgelijk stadium bevond voor 2 oktober 1983 voorzover praktisch uitvoerbaar zijn uitgerust met voorzieningen voor het lozen van sanitair afval in overeenstemming met de vereisten van [voorschrift 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=IV&hoofdstuk=3&artikel=11&z=2022-04-01&g=2022-04-01) van de Bijlage.
 
-#### Voorschrift 3. Uitzonderingen
+##### Voorschrift 3. Uitzonderingen
 
 - 1. [Voorschrift 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=IV&hoofdstuk=1&artikel=3&z=2022-04-01&g=2022-04-01) van deze Bijlage en sectie 4.2 van hoofdstuk 4 van deel II-A van de Polar Code zijn niet van toepassing op:
 
@@ -11408,13 +11430,13 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 - .2. het lozen van sanitair afval als gevolg van schade aan een schip of zijn uitrusting, indien alle redelijke voorzorgsmaatregelen zijn getroffen voor en na het optreden van de schade teneinde de lozing te voorkomen of te beperken.
 
-#### Voorschrift 4. Speciale eisen voor het storten van vuilnis
+##### Voorschrift 4. Speciale eisen voor het storten van vuilnis
 
 - (1). Behoudens de bepalingen van paragraaf (2) van dit Voorschrift is het storten van stoffen waarop dit Voorschrift van toepassing is, verboden vanaf vaste of drijvende platforms buitengaats gebezigd bij de exploratie, exploitatie en daarbij behorende verwerking van minerale zeebodemschatten, alsmede vanaf alle andere schepen, wanneer deze zich langszij of binnen 500 meter van dergelijke platforms bevinden.
 
 - (2). Het storten in zee van voedselresten vanaf vaste of drijvende platforms kan worden toegestaan, ingeval deze door een afbreek- of maalinstallatie zijn gevoerd en deze platforms zich meer dan 12 zeemijlen vanaf het dichtstbijzijnde land bevinden, alsmede van alle andere schepen, ingeval deze zich langszij of binnen 500 meter van zulke platforms bevinden. Deze afgebroken of gemalen voedselresten moeten een rooster met gaten van maximaal 25 mm kunnen passeren.
 
-#### Voorschrift 5. Storten van vuilnis binnen bijzondere gebieden
+##### Voorschrift 5. Storten van vuilnis binnen bijzondere gebieden
 
 - (1). Voor de toepassing van deze Bijlage worden onder bijzondere gebieden verstaan de gebieden van de Middellandse Zee, de Oostzee, de Zwarte Zee, de Rode Zee, de „Golf”, de Noordzee, de Zuidpool en het Caraïbisch Gebied, met inbegrip van de Golf van Mexico en de Caraïbische Zee, die als volgt worden omschreven:
 
@@ -11468,7 +11490,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 - b. De Regering van elke Partij bij het Verdrag verzekert dat alle schepen die gerechtigd zijn haar vlag te voeren, alvorens het Antarctisch gebied binnen te varen zijn uitgerust met een tank of tanks van voldoende capaciteit aan boord voor het aan boord houden van alle vuilnis terwijl zij in bedrijf zijn in het gebied en regelingen hebben gesloten om dit vuilnis af te geven aan een ontvangstinrichting na het verlaten van het gebied.
 
-#### Voorschrift 6. Uitzonderingen
+##### Voorschrift 6. Uitzonderingen
 
 De Voorschriften 3, 4 en 5 van deze Bijlage zijn niet van toepassing op:
 
@@ -11478,13 +11500,13 @@ De Voorschriften 3, 4 en 5 van deze Bijlage zijn niet van toepassing op:
 
 - (2c). het toevallige verlies van synthetische visnetten, mits alle redelijke voorzorgen zijn genomen om dit verlies te voorkomen.
 
-#### Voorschrift 7. Ontvangstinrichtingen
+##### Voorschrift 7. Ontvangstinrichtingen
 
 - (1). De Regering van elke Partij bij dit Verdrag verbindt zich tot het installeren, in havens en laad- en losplaatsen, van inrichtingen voor het in ontvangst nemen van vuilnis, zonder onnodig oponthoud van de schepen te veroorzaken, en die toereikend zijn om te voldoen aan de behoeften van de schepen die er gebruik van maken.
 
 - (2). De Regering van elke Partij stelt de Organisatie in kennis van alle gevallen waarin de inrichtingen welke ingevolge de bepalingen van dit Voorschrift zijn aangebracht als ontoereikend worden aangemerkt, dit ter mededeling aan de betrokken Partijen.
 
-#### Voorschrift 8. De door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
+##### Voorschrift 8. De door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
 
 - 1. Een schip dat zich bevindt in een haven van een andere Partij dient te worden geïnspecteerd door ambtenaren die door bedoelde Partij naar behoren zijn gemachtigd om te controleren of is voldaan aan de in deze Bijlage bedoelde vereisten met betrekking tot de bedrijfsvoering aan boord, wanneer er duidelijke gronden zijn om aan te nemen dat de kapitein of de leden van de bemanning niet op de hoogte zijn van de essentiële werkwijzen die aan boord moeten worden toegepast om verontreiniging door vuilnis te voorkomen.
 
@@ -11494,7 +11516,7 @@ De Voorschriften 3, 4 en 5 van deze Bijlage zijn niet van toepassing op:
 
 - 4. Geen enkele bepaling van dit voorschrift mag zo worden uitgelegd dat daardoor de rechten en plichten van een Partij die de uitdrukkelijk in dit Verdrag genoemde vereisten met betrekking tot de bedrijfsvoering aan boord controleert, worden beperkt.
 
-#### Voorschrift 9. Informatieborden, vuilnisbeheerplannen en het bijhouden van de gegevens inzake vuilnis
+##### Voorschrift 9. Informatieborden, vuilnisbeheerplannen en het bijhouden van de gegevens inzake vuilnis
 
 - 1.
 
@@ -11526,11 +11548,11 @@ De Voorschriften 3, 4 en 5 van deze Bijlage zijn niet van toepassing op:
 
 ### HOOFDSTUK 3. UITRUSTING EN BEHEERSING VAN LOZINGEN
 
-#### Voorschrift 1. Toepassing
+##### Voorschrift 1. Toepassing
 
 De bepalingen van deze Bijlage zijn van toepassing op alle schepen, tenzij uitdrukkelijk anders is bepaald in de voorschriften 3, 5, 6, 13, 15, 16 en 18 van deze Bijlage.
 
-#### Voorschrift 2. Begripsomschrijvingen
+##### Voorschrift 2. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage:
 
@@ -11596,7 +11618,7 @@ Voor de toepassing van deze Bijlage:
 
 - 21. wordt onder **tankschip** verstaan een olietankschip als omschreven in voorschrift 1 van Bijlage I of een chemicaliëntankschip zoals omschreven in voorschrift 1van Bijlage II bij dit Verdrag.
 
-#### Voorschrift 3. Uitzonderingen en vrijstellingen
+##### Voorschrift 3. Uitzonderingen en vrijstellingen
 
 1. De voorschriften van deze Bijlage zijn niet van toepassing op:
 
@@ -11626,7 +11648,7 @@ Voor de toepassing van deze Bijlage:
 
 3.2. De vereisten van voorschrift 18 van deze Bijlage zijn niet van toepassing op het gebruik van koolwaterstoffen die ter plaatse worden geproduceerd en vervolgens worden gebruikt als brandstof, indien goedgekeurd door de Administratie.
 
-#### Voorschrift 4. Gelijkwaardige voorzieningen
+##### Voorschrift 4. Gelijkwaardige voorzieningen
 
 1. De Administratie van een Partij kan toestaan dat installaties, materialen, middelen of toestellen worden aangebracht op een schip of dat er andere procedures, brandstofolie of methodes worden gebruikt dan degene die worden vereist door deze Bijlage, indien dergelijke installaties, materialen, middelen of toestellen, procedures, brandstofolie of methoden wat betreft emissiebeperking ten minste even doeltreffend zijn als degene die door deze Bijlage, met inbegrip van de normen vervat in de [voorschriften 13](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=III&artikel=13&z=2012-02-01&g=2012-02-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=III&artikel=14&z=2012-02-01&g=2012-02-01), worden vereist.
 
@@ -11638,7 +11660,7 @@ Voor de toepassing van deze Bijlage:
 
 ### HOOFDSTUK 4. ONTVANGSTINRICHTINGEN
 
-#### Voorschrift 5. Onderzoeken
+##### Voorschrift 5. Onderzoeken
 
 1. Alle schepen met een brutotonnage van 400 ton en meer, alsmede alle vaste en drijvende boorinstallaties en andere platforms worden onderworpen aan de hieronder aangegeven onderzoeken:
 
@@ -11668,7 +11690,7 @@ Voor de toepassing van deze Bijlage:
 
 5. Wanneer een schip bij een ongeval betrokken raakt, of er gebreken worden geconstateerd waardoor de doelmatigheid of volledigheid van de uitrusting waarop deze Bijlage van toepassing is, wezenlijk worden beïnvloed, dient de kapitein of de eigenaar van het schip de Administratie, een aangewezen inspecteur of erkende organisatie die verantwoordelijk is voor de afgifte van het betrokken certificaat zo spoedig mogelijk in te lichten.
 
-#### Voorschrift 6. Afgifte van of aantekening op een certificaat
+##### Voorschrift 6. Afgifte van of aantekening op een certificaat
 
 1. Een Internationaal certificaat betreffende voorkoming van luchtverontreiniging wordt afgegeven na een eerste of hernieuwd onderzoek in overeenstemming met de bepalingen van voorschrift 5 van deze Bijlage aan:
 
@@ -11680,7 +11702,7 @@ Voor de toepassing van deze Bijlage:
 
 3. Dit certificaat wordt afgegeven of hierop wordt een aantekening gemaakt hetzij door de Administratie, hetzij door een daartoe door haar naar behoren gemachtigde persoon of organisatie. In alle gevallen aanvaardt de Administratie de volledige verantwoordelijkheid voor het certificaat.
 
-#### Voorschrift 7. Afgifte van een certificaat door een andere Partij
+##### Voorschrift 7. Afgifte van een certificaat door een andere Partij
 
 1. Een Partij kan een schip op verzoek van de Administratie doen onderzoeken en, indien zij ervan overtuigd is dat aan de bepalingen van deze Bijlage wordt voldaan, een Internationaal certificaat betreffende voorkoming van luchtverontreiniging aan het schip afgeven of hiervoor toestemming geven, en waar van toepassing een aantekening op het certificaat van het schip plaatsen of hiervoor toestemming geven, in overeenstemming met deze Bijlage.
 
@@ -11690,11 +11712,11 @@ Voor de toepassing van deze Bijlage:
 
 4. Er wordt geen Internationaal certificaat betreffende voorkoming van luchtverontreiniging afgegeven aan een schip dat gerechtigd is de vlag te voeren van een Staat die geen Partij is.
 
-#### Voorschrift 8. Model van het certificaat
+##### Voorschrift 8. Model van het certificaat
 
 Het Internationaal certificaat betreffende voorkoming van luchtverontreiniging wordt opgesteld overeenkomstig het model opgenomen in aanhangsel I bij deze Bijlage en dient ten minste in de Engelse, de Franse of de Spaanse taal te zijn gesteld. Indien tevens de officiële taal van het land van afgifte wordt gebruikt, is deze doorslaggevend bij geschillen of tegenstrijdigheden.
 
-#### Voorschrift 9. Looptijd en geldigheid van het certificaat
+##### Voorschrift 9. Looptijd en geldigheid van het certificaat
 
 1. Een Internationaal certificaat betreffende voorkoming van luchtverontreiniging wordt afgegeven voor een door de Administratie vastgesteld tijdvak van ten hoogste vijf jaar.
 
@@ -11732,7 +11754,7 @@ Het Internationaal certificaat betreffende voorkoming van luchtverontreiniging w
 
 - .3. bij overdracht van het schip onder de vlag van een andere Staat. Er mag uitsluitend een nieuw certificaat worden afgegeven wanneer de Regering die het nieuwe certificaat afgeeft er ten volle van overtuigd is dat het schip voldoet aan de eisen van voorschrift 5.4 van deze Bijlage. In het geval van een overdracht tussen Partijen zendt de Regering van de Partij wier vlag het schip voordien gerechtigd was te voeren, indien zij daarom wordt verzocht binnen drie maanden nadat de overdracht heeft plaatsgevonden, zo spoedig mogelijk aan de Administratie afschriften van het certificaat dat het schip aan boord had vóór de overdracht en, indien beschikbaar, afschriften van de desbetreffende onderzoeksrapporten.
 
-#### Voorschrift 10. Door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
+##### Voorschrift 10. Door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
 
 1. Een schip dat zich bevindt in een haven of een laad- of losplaats buitengaats onder de rechtsmacht van een andere Partij wordt geïnspecteerd door ambtenaren die door bedoelde Partij naar behoren zijn gemachtigd om te controleren of is voldaan aan de in deze Bijlage bedoelde vereisten met betrekking tot de bedrijfsvoering aan boord, wanneer er duidelijke gronden zijn om aan te nemen dat de kapitein of de leden van de bemanning niet op de hoogte zijn van de essentiële werkwijzen die aan boord dienen te worden toegepast om luchtverontreiniging door schepen te voorkomen.
 
@@ -11742,7 +11764,7 @@ Het Internationaal certificaat betreffende voorkoming van luchtverontreiniging w
 
 4. Niets in dit voorschrift mag zo worden uitgelegd dat daardoor de rechten en plichten van een Partij die de uitdrukkelijk in dit Verdrag genoemde vereisten met betrekking tot de bedrijfsvoering aan boord controleert, worden beperkt.
 
-#### Voorschrift 11. Opsporing van overtredingen en handhaving
+##### Voorschrift 11. Opsporing van overtredingen en handhaving
 
 1. De Partijen werken samen bij de opsporing van overtredingen en de handhaving van de bepalingen van deze Bijlage, daarbij gebruikmakend van alle passende en uitvoerbare maatregelen van opsporing en milieubewaking en van doeltreffende methoden voor het rapporteren en verzamelen van bewijsmateriaal.
 
@@ -11758,7 +11780,7 @@ Het Internationaal certificaat betreffende voorkoming van luchtverontreiniging w
 
 ### HOOFDSTUK 7. INTERNATIONALE CODE VOOR SCHEPEN DIE IN POLAIRE WATEREN VAREN
 
-#### Voorschrift 12. Ozonafbrekende stoffen
+##### Voorschrift 12. Ozonafbrekende stoffen
 
 1. Dit voorschrift is niet van toepassing op permanent verzegelde uitrusting indien er geen aansluitingen zijn voor de toevoer van koelvloeistof of verwijderbare onderdelen die ozonafbrekende stoffen bevatten.
 
@@ -11798,7 +11820,7 @@ Het Internationaal certificaat betreffende voorkoming van luchtverontreiniging w
 
 - .5. levering van ozonafbrekende stoffen aan het schip.
 
-#### Voorschrift 13. Stikstofoxiden (NOx)
+##### Voorschrift 13. Stikstofoxiden (NOx)
 
 1.1. Dit voorschrift is van toepassing op:
 
@@ -11904,7 +11926,7 @@ Indien het op of na 1 januari 2016, uitsluitend in het geval van vervangende mot
 
 10. Tussen 2012 en uiterlijk 2013 zal de Organisatie de status van de technologische ontwikkelingen voor de implementatie van de normen vervat in lid 5.1.1 van dit voorschrift toetsen en wanneer dat nodig blijkt, de daarin voorziene termijnen aanpassen.
 
-#### Voorschrift 14. Zwaveloxides (SOx) en fijnstof
+##### Voorschrift 14. Zwaveloxides (SOx) en fijnstof
 
 1. Het zwavelgehalte van brandstofolie die wordt gebruikt aan boord van schepen mag niet hoger zijn dan:
 
@@ -11950,7 +11972,7 @@ Indien het op of na 1 januari 2016, uitsluitend in het geval van vervangende mot
 
 10. Op grond van de door de deskundigengroep samengestelde informatie beslissen de Partijen of het voor schepen mogelijk is te voldoen aan de termijn vervat in lid 1.3 van dit voorschrift. Indien besloten wordt dat schepen daar niet aan kunnen voldoen, wordt de in dat lid vervatte norm van kracht vanaf 1 januari 2025.
 
-#### Voorschrift 15. Vluchtige organische stoffen (VOS)
+##### Voorschrift 15. Vluchtige organische stoffen (VOS)
 
 1. Indien de emissie van VOS door tankschepen binnen een haven of havens of laad- of losplaatsen onder de rechtsmacht van een Partij dient te worden gereguleerd, geschiedt dat in overeenstemming met de bepalingen van dit voorschrift.
 
@@ -11974,7 +11996,7 @@ Indien het op of na 1 januari 2016, uitsluitend in het geval van vervangende mot
 
 7. Dit voorschrift is alleen mede van toepassing op gasschepen wanneer het type laad-, en opslagsystemen voor de veilige opslag aan boord of het veilig terugbrengen aan land van VOS (met uitzondering van methaan) mogelijk maakt.
 
-#### Voorschrift 16. Verbranding aan boord
+##### Voorschrift 16. Verbranding aan boord
 
 1. Behalve zoals bepaald in het vierde lid van dit voorschrift is verbranding aan boord alleen toegestaan in een verbrandingsinstallatie aan boord.
 
@@ -12012,7 +12034,7 @@ Indien het op of na 1 januari 2016, uitsluitend in het geval van vervangende mot
 
 9. Voor in overeenstemming met lid 6.1 van dit voorschrift geïnstalleerde verbrandingsinstallaties dient de uitlaattemperatuur van de verbrandingskamer voortdurend te worden gemeten wanneer de eenheid in bedrijf is. Indien de verbrandingsinstallatie voorzien is van doorlopende toevoer, mag er geen afval aan de installatie worden toegevoerd wanneer de uitlaattemperatuur van de verbrandingskamer lager is dan 850°C. Bij verbrandingsinstallaties met toevoer in partijen, dient de eenheid zodanig te zijn ontworpen dat de uitlaattemperatuur van de verbrandingskamer binnen vijf minuten na inschakeling 600°C heeft bereikt om vervolgens te stijgen tot en stabiel te blijven op ten minste 850°C.
 
-#### Voorschrift 17. Ontvangstinrichtingen
+##### Voorschrift 17. Ontvangstinrichtingen
 
 1. Elke Partij verbindt zich ertoe zorg te dragen voor het beschikbaar zijn van toereikende inrichtingen die voorzien in de:
 
@@ -12026,7 +12048,7 @@ Indien het op of na 1 januari 2016, uitsluitend in het geval van vervangende mot
 
 3. Elke Partij stelt de Organisatie ter mededeling aan de leden van de Organisatie in kennis van alle gevallen waarin de desbetreffende voorzieningen niet beschikbaar zijn of als ontoereikend worden aangemerkt.
 
-#### Voorschrift 18. Beschikbaarheid en kwaliteit van brandstofolie
+##### Voorschrift 18. Beschikbaarheid en kwaliteit van brandstofolie
 
 1. Elke Partij neemt alle redelijke stappen om de beschikbaarheid van brandstofolie die voldoet aan deze Bijlage te bevorderen en stelt de Organisatie in kennis van de beschikbaarheid van geschikte brandstofolie in haar havens en laad- en losplaatsen.
 
@@ -12110,11 +12132,11 @@ Indien het op of na 1 januari 2016, uitsluitend in het geval van vervangende mot
 
 11. Voor elk schip met een brutotonnage van 400 ton of meer met geplande reizen waarbij frequent en regelmatig havens worden binnengelopen kan een Administratie op verzoek van en in overleg met de desbetreffende Staten besluiten dat op een alternatieve wijze aan het zesde lid van dit voorschrift kan worden voldaan, indien deze leidt tot dezelfde zekerheid omtrent het voldoen aan de [voorschriften 14](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=III&artikel=14&z=2012-02-01&g=2012-02-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=III&artikel=18&z=2012-02-01&g=2012-02-01) van deze Bijlage.
 
-#### Voorschrift 1. Toepassing
+##### Voorschrift 1. Toepassing
 
 De bepalingen van deze Bijlage zijn van toepassing op alle schepen, tenzij uitdrukkelijk anders is bepaald in de [voorschriften 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=1&artikel=3&z=2016-03-01&g=2016-03-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=2&artikel=5&z=2016-03-01&g=2016-03-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=2&artikel=6&z=2016-03-01&g=2016-03-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=3&artikel=13&z=2016-03-01&g=2016-03-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=3&artikel=15&z=2016-03-01&g=2016-03-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=3&artikel=16&z=2016-03-01&g=2016-03-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=3&artikel=18&z=2016-03-01&g=2016-03-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=4&artikel=19&z=2016-03-01&g=2016-03-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=4&artikel=20&z=2016-03-01&g=2016-03-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=4&artikel=21&z=2016-03-01&g=2016-03-01) en [22](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=4&artikel=22&z=2016-03-01&g=2016-03-01) van deze Bijlage.
 
-#### Voorschrift 2. Begripsomschrijvingen
+##### Voorschrift 2. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage:
 
@@ -12258,7 +12280,7 @@ Voor de toepassing van [Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBV000
 
 - 47. wordt onder **Auditnorm** verstaan: de Implementatiecode.
 
-#### Voorschrift 3. Uitzonderingen en vrijstellingen
+##### Voorschrift 3. Uitzonderingen en vrijstellingen
 
 1. De voorschriften van deze Bijlage zijn niet van toepassing op:
 
@@ -12288,7 +12310,7 @@ Voor de toepassing van [Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBV000
 
 3.2. De vereisten van voorschrift 18 van deze Bijlage zijn niet van toepassing op het gebruik van koolwaterstoffen die ter plaatse worden geproduceerd en vervolgens worden gebruikt als brandstof, indien goedgekeurd door de Administratie.
 
-#### Voorschrift 4. Gelijkwaardige voorzieningen
+##### Voorschrift 4. Gelijkwaardige voorzieningen
 
 1. De Administratie van een Partij kan toestaan dat installaties, materialen, middelen of toestellen worden aangebracht op een schip of dat er andere procedures, brandstofolie of methodes worden gebruikt dan degene die worden vereist door deze Bijlage, indien dergelijke installaties, materialen, middelen of toestellen, procedures, brandstofolie of methoden wat betreft emissiebeperking ten minste even doeltreffend zijn als degene die door deze Bijlage, met inbegrip van de normen vervat in de [voorschriften 13](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=3&artikel=13&z=2016-03-01&g=2016-03-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=3&artikel=14&z=2016-03-01&g=2016-03-01), worden vereist.
 
@@ -12298,7 +12320,7 @@ Voor de toepassing van [Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBV000
 
 4. De Administratie van een Partij die het gebruik van een gelijkwaardige voorziening als omschreven in het eerste lid van dit voorschrift toestaat, spant zich in om schade aan het milieu, de volksgezondheid, goederen of hulpmiddelen van die of andere Staten te voorkomen.
 
-#### 5. Functioneren van gebieden voor emissiebeheersing
+##### 5. Functioneren van gebieden voor emissiebeheersing
 
 5.1. Partijen met schepen die varen in het gebied worden aangemoedigd de Organisatie op de hoogte te stellen van eventuele zorgen omtrent het functioneren van het gebied.
 
@@ -12306,7 +12328,7 @@ IN WITNESS WHEREOF the undersigned being duly authorized by their respective Gov
 
 DONE at London this second day of November, one thousand nine hundred and seventy-three.
 
-#### Voorschrift 13. Ontvangstinrichtingen voor passagiersschepen in bijzondere gebieden
+##### Voorschrift 13. Ontvangstinrichtingen voor passagiersschepen in bijzondere gebieden
 
 1. Elke partij waarvan de kustlijn grenst aan een bijzonder gebied verbindt zich ertoe te waarborgen dat:
 
@@ -12320,7 +12342,7 @@ DONE at London this second day of November, one thousand nine hundred and sevent
 
 ### HOOFDSTUK 1. ALGEMEEN
 
-#### Voorschrift 14. Door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
+##### Voorschrift 14. Door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
 
 1. Een schip dat zich bevindt in een haven of een laad- of losplaats buitengaats van een andere Partij wordt geïnspecteerd door ambtenaren die door bedoelde Partij naar behoren zijn gemachtigd om te controleren of voldaan is aan de vereisten uit hoofde van deze Bijlage met betrekking tot de bedrijfsvoering aan boord, wanneer er duidelijke gronden zijn om aan te nemen dat de kapitein of de leden van de bemanning niet op de hoogte zijn van de essentiële procedures die aan boord dienen te worden toegepast om verontreiniging door sanitair afval te voorkomen.
 
@@ -12330,13 +12352,13 @@ DONE at London this second day of November, one thousand nine hundred and sevent
 
 4. Geen enkele bepaling van dit voorschrift mag zo worden uitgelegd dat daardoor de rechten en plichten van een Partij die de uitdrukkelijk in dit Verdrag voorziene vereisten met betrekking tot de bedrijfsvoering aan boord controleert, worden beperkt.
 
-#### Voorschrift 5. Afgifte of goedkeuring van een certificaat
+##### Voorschrift 5. Afgifte of goedkeuring van een certificaat
 
 - 1. Een Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair Afval wordt afgegeven na een eerste onderzoek of een hernieuwd onderzoek in overeenstemming met de bepalingen van [voorschrift 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=IV&hoofdstuk=2&artikel=4&z=2022-04-01&g=2022-04-01) van deze Bijlage aan elk schip dat reizen maakt naar havens of losplaatsen buitengaats onder de rechtsmacht van andere Partijen bij het Verdrag. Ten aanzien van bestaande schepen zal dit vereiste vijf jaar na de datum van inwerkingtreding van deze Bijlage van toepassing worden.
 
 - 2. Deze certificaten worden afgegeven of goedgekeurd hetzij door de Administratie, hetzij door een daartoe door haar naar behoren gemachtigde persoon of organisatie1)Zie de door de Organisatie bij resolutie A.739(18) aangenomen Richtlijnen voor de bevoegdverklaring van organisaties die optreden namens Administraties en de door de Organisatie bij resolutie A.789(19) aangenomen Specificaties inzake de onderzoeks- en certificeringsfuncties van erkende organisaties die optreden namens de Administratie.. In alle gevallen neemt de Administratie de volledige verantwoordelijkheid voor het certificaat op zich.
 
-#### Voorschrift 6. Afgifte of aantekening op een certificaat door de Regering van een ander land
+##### Voorschrift 6. Afgifte of aantekening op een certificaat door de Regering van een ander land
 
 - 1. Op verzoek van de Administratie kan de Regering van een Partij bij het Verdrag een schip doen onderzoeken en, indien zij ervan overtuigd is dat aan de bepalingen van dit Verdrag wordt voldaan, geeft zij het certificaat af of geeft zij toestemming voor afgifte van een Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair Afval aan het schip, en waar van toepassing plaatst zij een aantekening op het certificaat of geeft zij toestemming voor het plaatsen van een aantekening op dat certificaat van het schip in overeenstemming met deze Bijlage.
 
@@ -12346,11 +12368,11 @@ DONE at London this second day of November, one thousand nine hundred and sevent
 
 - 4. Er wordt geen internationaal certificaat van voorkoming van verontreiniging door sanitair afval afgegeven aan een schip dat gerechtigd is de vlag te voeren van een Staat die geen Partij is.
 
-#### Voorschrift 7. Model van het certificaat
+##### Voorschrift 7. Model van het certificaat
 
 Het Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair Afval wordt opgesteld overeenkomstig het model opgenomen in het aanhangsel bij deze Bijlage en dient ten minste in de Engelse, de Franse of de Spaanse taal te zijn opgesteld. Indien tevens de officiële taal van het land van afgifte wordt gebruikt, is deze doorslaggevend bij geschillen of tegenstrijdigheden.
 
-#### Voorschrift 8. Looptijd en geldigheid van het certificaat
+##### Voorschrift 8. Looptijd en geldigheid van het certificaat
 
 - 1. Een Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair Afval wordt afgegeven voor een door de Administratie vastgestelde termijn die evenwel niet langer is dan vijf jaar.
 
@@ -12378,7 +12400,7 @@ Het Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair 
 
 - .2 bij overdracht van het schip onder de vlag van een andere Staat. Er mag uitsluitend een nieuw certificaat worden afgegeven wanneer de Regering die het nieuwe certificaat afgeeft er ten volle van overtuigd is dat het schip volledig voldoet aan de vereisten van de [voorschriften 4.7 en 4.8](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=IV&hoofdstuk=2&artikel=4&z=2022-04-01&g=2022-04-01) van deze Bijlage. In het geval van een overdracht tussen Partijen zendt de Regering van de Partij wier vlag het schip voordien gerechtigd was te voeren, indien zij daarom wordt verzocht binnen drie maanden nadat de overdracht heeft plaatsgevonden, zo spoedig mogelijk aan de Administratie van de andere Partij afschriften van de certificaten die het schip aan boord had vóór de overdracht en, indien beschikbaar, afschriften van de desbetreffende onderzoeksrapporten.
 
-#### Voorschrift 9. Havenstaatcontrole op operationele vereisten
+##### Voorschrift 9. Havenstaatcontrole op operationele vereisten
 
 1. Een schip dat zich bevindt in een haven of een laad- of losplaats buitengaats van een andere partij wordt onderworpen aan inspectie door ambtenaren die door bedoelde partij naar behoren zijn gemachtigd om te controleren of voldaan is aan de in deze Bijlage bedoelde operationele vereisten, wanneer er gegronde redenen zijn om aan te nemen dat de kapitein of de leden van de bemanning niet op de hoogte zijn van de essentiële procedures die aan boord dienen te worden toegepast om verontreiniging door vuilnis te voorkomen.
 
@@ -12388,7 +12410,7 @@ Het Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair 
 
 4. Geen enkele bepaling van dit voorschrift mag zo worden uitgelegd dat daardoor de rechten en plichten van een partij die de uitdrukkelijk in dit Verdrag genoemde operationele vereisten aan boord controleert, worden beperkt.
 
-#### Voorschrift 10. Plakkaten, vuilnisbeheerplannen en het bijhouden van het vuilnisjournaal
+##### Voorschrift 10. Plakkaten, vuilnisbeheerplannen en het bijhouden van het vuilnisjournaal
 
 - .1. Elk schip met een lengte over alles van 12 meter of meer en elk vast of drijvend platform dient plakkaten te tonen die de bemanning en de passagiers informeren over de lozingsvoorwaarden in de [voorschriften 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&artikel=3&z=2015-09-01&g=2015-09-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&artikel=4&z=2015-09-01&g=2015-09-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&artikel=5&z=2015-09-01&g=2015-09-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&artikel=6&z=2015-09-01&g=2015-09-01) van deze Bijlage, voor zover van toepassing.
 
@@ -12418,11 +12440,11 @@ Het Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair 
 
 ### HOOFDSTUK 1. ALGEMEEN
 
-#### Voorschrift 1. Toepassing
+##### Voorschrift 1. Toepassing
 
 De bepalingen van deze Bijlage zijn van toepassing op alle schepen, tenzij uitdrukkelijk anders is bepaald in de [voorschriften 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=1&artikel=3&z=2015-09-01&g=2015-09-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=2&artikel=5&z=2015-09-01&g=2015-09-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=2&artikel=6&z=2015-09-01&g=2015-09-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=3&artikel=13&z=2015-09-01&g=2015-09-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=3&artikel=15&z=2015-09-01&g=2015-09-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=3&artikel=16&z=2015-09-01&g=2015-09-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=3&artikel=18&z=2015-09-01&g=2015-09-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=4&artikel=19&z=2015-09-01&g=2015-09-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=4&artikel=20&z=2015-09-01&g=2015-09-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=4&artikel=21&z=2015-09-01&g=2015-09-01) en [22](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=4&artikel=22&z=2015-09-01&g=2015-09-01) van deze Bijlage.
 
-#### Voorschrift 2. Begripsomschrijvingen
+##### Voorschrift 2. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage:
 
@@ -12556,7 +12578,7 @@ Voor de toepassing van [Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBV000
 
 - .3. waarvan de oplevering plaatsvindt op of na 1 september 2019.
 
-#### Voorschrift 3. Uitzonderingen en vrijstellingen
+##### Voorschrift 3. Uitzonderingen en vrijstellingen
 
 1. De voorschriften van deze Bijlage zijn niet van toepassing op:
 
@@ -12586,7 +12608,7 @@ Voor de toepassing van [Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBV000
 
 3.2. De vereisten van voorschrift 18 van deze Bijlage zijn niet van toepassing op het gebruik van koolwaterstoffen die ter plaatse worden geproduceerd en vervolgens worden gebruikt als brandstof, indien goedgekeurd door de Administratie.
 
-#### Voorschrift 4. Gelijkwaardige voorzieningen
+##### Voorschrift 4. Gelijkwaardige voorzieningen
 
 1. De Administratie van een Partij kan toestaan dat installaties, materialen, middelen of toestellen worden aangebracht op een schip of dat er andere procedures, brandstofolie of methodes worden gebruikt dan degene die worden vereist door deze Bijlage, indien dergelijke installaties, materialen, middelen of toestellen, procedures, brandstofolie of methoden wat betreft emissiebeperking ten minste even doeltreffend zijn als degene die door deze Bijlage, met inbegrip van de normen vervat in de [voorschriften 13](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=3&artikel=13&z=2015-09-01&g=2015-09-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=3&artikel=14&z=2015-09-01&g=2015-09-01), worden vereist.
 
@@ -12596,7 +12618,7 @@ Voor de toepassing van [Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBV000
 
 4. De Administratie van een Partij die het gebruik van een gelijkwaardige voorziening als omschreven in het eerste lid van dit voorschrift toestaat, spant zich in om schade aan het milieu, de volksgezondheid, goederen of hulpmiddelen van die of andere Staten te voorkomen.
 
-#### Voorschrift 5. Onderzoeken
+##### Voorschrift 5. Onderzoeken
 
 1. Ieder schip met een brutotonnage van 400 of meer, alsmede iedere vaste en drijvende boorinstallatie en ander platform wordt onderworpen aan de hieronder aangegeven onderzoeken teneinde te waarborgen dat aan de vereisten van [Hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=3&z=2015-09-01&g=2015-09-01) wordt voldaan:
 
@@ -12636,7 +12658,7 @@ Voor de toepassing van [Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBV000
 
 6. Wanneer een schip bij een ongeval betrokken raakt, of er gebreken worden geconstateerd waardoor de doelmatigheid of volledigheid van de uitrusting waarop deze Bijlage van toepassing is, wezenlijk worden beïnvloed, dient de kapitein of de eigenaar van het schip de Administratie, een aangewezen inspecteur of erkende organisatie die verantwoordelijk is voor de afgifte van het betrokken certificaat zo spoedig mogelijk in te lichten.
 
-#### Voorschrift 6. Afgifte van of aantekening op certificaten
+##### Voorschrift 6. Afgifte van of aantekening op certificaten
 
 1. Een Internationaal certificaat betreffende voorkoming van luchtverontreiniging wordt afgegeven na een eerste of hernieuwd onderzoek in overeenstemming met de bepalingen van [voorschrift 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=2&artikel=5&z=2015-09-01&g=2015-09-01) van deze Bijlage aan:
 
@@ -12652,7 +12674,7 @@ Voor de toepassing van [Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBV000
 
 5. Het certificaat wordt afgegeven of goedgekeurd hetzij door de Administratie, hetzij door een daartoe door haar naar behoren gemachtigde organisatie. In alle gevallen neemt de Administratie de volle verantwoordelijkheid voor het certificaat op zich.
 
-#### Voorschrift 7. Afgifte van een certificaat door een andere partij
+##### Voorschrift 7. Afgifte van een certificaat door een andere partij
 
 1. Een partij kan een schip op verzoek van de Administratie doen onderzoeken en, indien te haren genoegen vaststaat dat aan de van toepassing zijnde bepalingen van deze Bijlage wordt voldaan, een Internationaal certificaat betreffende voorkoming van luchtverontreiniging of een Internationaal certificaat betreffende energie-efficiëntie aan het schip afgeven of hiervoor toestemming geven, en waar van toepassing een aantekening op dergelijke certificaten van het schip plaatsen of hiervoor toestemming geven, in overeenstemming met deze Bijlage.
 
@@ -12662,13 +12684,13 @@ Voor de toepassing van [Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBV000
 
 4. Er wordt geen Internationaal certificaat betreffende voorkoming van luchtverontreiniging of Internationaal certificaat betreffende energie-efficiëntie afgegeven aan een schip dat gerechtigd is de vlag te voeren van een Staat die geen partij is.
 
-#### Voorschrift 8. Model van de certificaten
+##### Voorschrift 8. Model van de certificaten
 
 1. Het Internationaal certificaat betreffende voorkoming van luchtverontreiniging wordt opgesteld overeenkomstig het model opgenomen in aanhangsel I bij deze Bijlage en dient ten minste in de Engelse, de Franse of de Spaanse taal te zijn gesteld. Indien tevens de officiële taal van het land van afgifte wordt gebruikt, is deze doorslaggevend bij geschillen of tegenstrijdigheden.
 
 2. Het Internationaal certificaat betreffende energie-efficiëntie wordt opgesteld overeenkomstig het model opgenomen in Aanhangsel VIII bij deze Bijlage en dient ten minste in de Engelse, de Franse of de Spaanse taal te zijn gesteld. Indien tevens de officiële taal van de partij van afgifte wordt gebruikt, is deze doorslaggevend bij geschillen of tegenstrijdigheden.
 
-#### Voorschrift 9. Looptijd en geldigheid van de certificaten
+##### Voorschrift 9. Looptijd en geldigheid van de certificaten
 
 1. Een Internationaal certificaat betreffende voorkoming van luchtverontreiniging wordt afgegeven voor een door de Administratie vastgesteld tijdvak van ten hoogste vijf jaar.
 
@@ -12714,7 +12736,7 @@ Voor de toepassing van [Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBV000
 
 - .2. bij overdracht van het schip onder de vlag van een andere Staat. Een nieuw certificaat wordt uitsluitend afgegeven wanneer ten genoegen van de Regering die het nieuwe certificaat afgeeft vaststaat dat het schip voldoet aan de vereisten van Hoofdstuk 4. In het geval van een overdracht tussen partijen zendt de Regering van de partij wier vlag het schip voordien gerechtigd was te voeren, indien haar daarom wordt verzocht binnen drie maanden nadat de overdracht heeft plaatsgevonden, zo spoedig mogelijk aan de Administratie afschriften van de certificaten die het schip aan boord had vóór de overdracht en, indien beschikbaar, afschriften van de desbetreffende onderzoeksrapporten.
 
-#### Voorschrift 10. Havenstaatcontrole op operationele vereisten
+##### Voorschrift 10. Havenstaatcontrole op operationele vereisten
 
 1. Een schip dat zich bevindt in een haven of een laad- of losplaats buitengaats onder de rechtsmacht van een andere Partij wordt geïnspecteerd door ambtenaren die door bedoelde Partij naar behoren zijn gemachtigd om te controleren of is voldaan aan de in deze Bijlage bedoelde vereisten met betrekking tot de bedrijfsvoering aan boord, wanneer er duidelijke gronden zijn om aan te nemen dat de kapitein of de leden van de bemanning niet op de hoogte zijn van de essentiële werkwijzen die aan boord dienen te worden toegepast om luchtverontreiniging door schepen te voorkomen.
 
@@ -12726,7 +12748,7 @@ Voor de toepassing van [Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBV000
 
 5. Met betrekking tot Hoofdstuk 4 is elke havenstaatinspectie beperkt tot het verifiëren, wanneer van toepassing, of er een geldig Internationaal certificaat betreffende energie-efficiëntie aan boord is in overeenstemming met artikel 5 van het Verdrag.
 
-#### Voorschrift 11. Opsporing van overtredingen en handhaving
+##### Voorschrift 11. Opsporing van overtredingen en handhaving
 
 1. De Partijen werken samen bij de opsporing van overtredingen en de handhaving van de bepalingen van deze Bijlage, daarbij gebruikmakend van alle passende en uitvoerbare maatregelen van opsporing en milieubewaking en van doeltreffende methoden voor het rapporteren en verzamelen van bewijsmateriaal.
 
@@ -12742,7 +12764,7 @@ Voor de toepassing van [Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBV000
 
 ### HOOFDSTUK 1. ALGEMEEN
 
-#### Voorschrift 12. Ozonafbrekende stoffen
+##### Voorschrift 12. Ozonafbrekende stoffen
 
 1. Dit voorschrift is niet van toepassing op permanent verzegelde uitrusting indien er geen aansluitingen zijn voor de toevoer van koelvloeistof of verwijderbare onderdelen die ozonafbrekende stoffen bevatten.
 
@@ -12782,7 +12804,7 @@ Voor de toepassing van [Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBV000
 
 - .5. levering van ozonafbrekende stoffen aan het schip.
 
-#### Voorschrift 13. Stikstofoxiden (NOx)
+##### Voorschrift 13. Stikstofoxiden (NOx)
 
 1.1. Dit voorschrift is van toepassing op:
 
@@ -12888,7 +12910,7 @@ Voor de toepassing van [Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBV000
 
 9. De procedures voor het vaststellen van de NOx-emissie vervat in de herziene NOx Technische Code 2008 dienen representatief te zijn voor het normale functioneren van de motor. Manipulatievoorzieningen en abnormale emissiebeperkende strategieën ondermijnen dat doel en zijn niet toegestaan. Dit voorschrift belet niet het gebruik van beheersingshulpvoorzieningen die worden gebruikt om de motor en/of de hulpapparatuur te beschermen tegen bedrijfsomstandigheden die tot beschadiging of uitval kunnen leiden of om het starten van de motor te vergemakkelijken.
 
-#### Voorschrift 14. Zwaveloxides (SOx) en fijnstof
+##### Voorschrift 14. Zwaveloxides (SOx) en fijnstof
 
 1. Het zwavelgehalte van brandstofolie die wordt gebruikt aan boord van schepen mag niet hoger zijn dan:
 
@@ -12938,7 +12960,7 @@ Voor de toepassing van [Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBV000
 
 10. Op grond van de door de deskundigengroep samengestelde informatie beslissen de Partijen of het voor schepen mogelijk is te voldoen aan de termijn vervat in lid 1.3 van dit voorschrift. Indien besloten wordt dat schepen daar niet aan kunnen voldoen, wordt de in dat lid vervatte norm van kracht vanaf 1 januari 2025.
 
-#### Voorschrift 15. Vluchtige organische stoffen (VOS)
+##### Voorschrift 15. Vluchtige organische stoffen (VOS)
 
 1. Indien de emissie van VOS door tankschepen binnen een haven of havens of laad- of losplaatsen onder de rechtsmacht van een Partij dient te worden gereguleerd, geschiedt dat in overeenstemming met de bepalingen van dit voorschrift.
 
@@ -12962,7 +12984,7 @@ Voor de toepassing van [Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBV000
 
 7. Dit voorschrift is alleen mede van toepassing op gasschepen wanneer het type laad-, en opslagsystemen voor de veilige opslag aan boord of het veilig terugbrengen aan land van VOS (met uitzondering van methaan) mogelijk maakt.
 
-#### Voorschrift 16. Verbranding aan boord
+##### Voorschrift 16. Verbranding aan boord
 
 1. Behalve zoals bepaald in het vierde lid van dit voorschrift is verbranding aan boord alleen toegestaan in een verbrandingsinstallatie aan boord.
 
@@ -13000,7 +13022,7 @@ Voor de toepassing van [Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBV000
 
 9. Voor in overeenstemming met lid 6.1 van dit voorschrift geïnstalleerde verbrandingsinstallaties dient de uitlaattemperatuur van de verbrandingskamer voortdurend te worden gemeten wanneer de eenheid in bedrijf is. Indien de verbrandingsinstallatie voorzien is van doorlopende toevoer, mag er geen afval aan de installatie worden toegevoerd wanneer de uitlaattemperatuur van de verbrandingskamer lager is dan 850°C. Bij verbrandingsinstallaties met toevoer in partijen, dient de eenheid zodanig te zijn ontworpen dat de uitlaattemperatuur van de verbrandingskamer binnen vijf minuten na inschakeling 600°C heeft bereikt om vervolgens te stijgen tot en stabiel te blijven op ten minste 850°C.
 
-#### Voorschrift 17. Ontvangstinrichtingen
+##### Voorschrift 17. Ontvangstinrichtingen
 
 1. Elke Partij verbindt zich ertoe zorg te dragen voor het beschikbaar zijn van toereikende inrichtingen die voorzien in de:
 
@@ -13024,7 +13046,7 @@ De Regering van elke Partij die deelneemt aan de regeling overlegt met de Organi
 
 3. Elke Partij stelt de Organisatie ter mededeling aan de leden van de Organisatie in kennis van alle gevallen waarin de desbetreffende voorzieningen niet beschikbaar zijn of als ontoereikend worden aangemerkt.
 
-#### Voorschrift 18. Beschikbaarheid en kwaliteit van brandstofolie
+##### Voorschrift 18. Beschikbaarheid en kwaliteit van brandstofolie
 
 1. Elke Partij neemt alle redelijke stappen om de beschikbaarheid van brandstofolie die voldoet aan deze Bijlage te bevorderen en stelt de Organisatie in kennis van de beschikbaarheid van geschikte brandstofolie in haar havens en laad- en losplaatsen.
 
@@ -13110,7 +13132,7 @@ De Regering van elke Partij die deelneemt aan de regeling overlegt met de Organi
 
 ### HOOFDSTUK 4. VOORSCHRIFTEN INZAKE ENERGIE-EFFICIËNTIE VOOR SCHEPEN
 
-#### Voorschrift 19. Toepassing
+##### Voorschrift 19. Toepassing
 
 1. Dit Hoofdstuk is van toepassing op alle schepen met een brutotonnage van 400 of meer.
 
@@ -13136,7 +13158,7 @@ De Regering van elke Partij die deelneemt aan de regeling overlegt met de Organi
 
 6. De Administratie van een partij bij dit Verdrag die toepassing van paragraaf 4 toestaat, of de toepassing van deze paragraaf opschort, intrekt of afwijst, met betrekking tot een schip dat gerechtigd is haar vlag te voeren, doet de Organisatie onverwijld de bijzonderheden daarvan toekomen voor toezending aan de partijen bij dit Protocol ter kennisneming.
 
-#### Voorschrift 20. Bereikte ontwerpindex voor energie-efficiëntie (Bereikte EEDI)
+##### Voorschrift 20. Bereikte ontwerpindex voor energie-efficiëntie (Bereikte EEDI)
 
 1. De bereikte EEDI wordt berekend voor:
 
@@ -13148,7 +13170,7 @@ De Regering van elke Partij die deelneemt aan de regeling overlegt met de Organi
 
 2. De bereikte EEDI wordt berekend met inachtneming van de door de Organisatie ontwikkelde richtsnoeren.
 
-#### Voorschrift 21. Vereiste EEDI
+##### Voorschrift 21. Vereiste EEDI
 
 1. Voor elk:
 
@@ -13224,19 +13246,19 @@ waarbij a, b en c de in tabel 2 gegeven parameters zijn.
 
 6. Bij aanvang van fase 1 en halverwege fase 2 toetst de Organisatie de status van de technologische ontwikkelingen en past, wanneer dat nodig blijkt, de in dit voorschrift voorziene termijnen, parameters voor de EEDI-referentielijn voor relevante scheepstypen en reductiepercentages aan.
 
-#### Voorschrift 22. Energie-efficiëntiemanagementplan van het schip (SEEMP)
+##### Voorschrift 22. Energie-efficiëntiemanagementplan van het schip (SEEMP)
 
 1. Elk schip dient een op het schip van toepassing zijnd energie-efficiëntiemanagementplan (SEEMP) aan boord te hebben. Dit kan onderdeel vormen van het veiligheidsbeleidssysteem (SMS) van het schip.
 
 2. Het SEEMP moet worden ontwikkeld met inachtneming van de door de Organisatie aangenomen richtsnoeren.
 
-#### Voorschrift 23. Bevordering van technische samenwerking en overdracht van technologie met betrekking tot het verbeteren van de energie-efficiëntie van schepen
+##### Voorschrift 23. Bevordering van technische samenwerking en overdracht van technologie met betrekking tot het verbeteren van de energie-efficiëntie van schepen
 
 1. In samenwerking met de Organisatie en andere internationale organen bevorderen en verstrekken Administraties, al naargelang van toepassing, rechtstreeks of via de Organisatie rechtstreekse steun aan Staten, met name Staten in ontwikkeling, die om technische bijstand verzoeken.
 
 2. De Administratie van een partij werkt actief samen met andere partijen, met inachtneming van haar nationale wet- en regelgeving en beleid, om de ontwikkeling en overdracht van technologie te bevorderen en informatie uit te wisselen met Staten die om technische bijstand verzoeken, met name Staten in ontwikkeling, met betrekking tot de implementatie van maatregelen om aan de vereisten van [Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=4&z=2015-09-01&g=2015-09-01) van deze Bijlage te voldoen, met name [voorschriften 19.4 tot en met 19.6](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=4&artikel=19&z=2015-09-01&g=2015-09-01).
 
-#### 1. Doelstellingen
+##### 1. Doelstellingen
 
 1.1. Doel van dit aanhangsel is de Partijen te voorzien van criteria en procedures voor het formuleren en indienen van voorstellen voor het aanwijzen van gebieden voor emissiebeheersing en de factoren te benoemen die bij de beoordeling van deze voorstellen door de Organisatie in aanmerking dienen te worden genomen.
 
@@ -13244,13 +13266,13 @@ waarbij a, b en c de in tabel 2 gegeven parameters zijn.
 
 1.3. Aanneming van een gebied voor emissiebeheersing dient door de Organisatie te worden overwogen indien er een aantoonbare noodzaak bestaat tot preventie, reductie en beheersing van de emissie van NOx, SOx en fijnstof of een combinatie ervan (hierna emissies) door schepen.
 
-#### 2. Procedure voor de aanwijzing van gebieden voor emissiebeheersing
+##### 2. Procedure voor de aanwijzing van gebieden voor emissiebeheersing
 
 2.1. Een voorstel aan de Organisatie voor de aanwijzing van een gebied waar de emissie van NOx of SOx en fijnstof of alle drie de typen emissies dient te worden beheerst, kan uitsluitend door de Partijen worden ingediend. Indien twee of meer Partijen een gezamenlijk belang hebben in een specifiek gebied dienen ze gezamenlijk een voorstel in te dienen.
 
 2.2. Een voorstel voor de aanwijzing van een bepaald gebied als gebied voor emissiebeheersing dient te worden ingediend bij de Organisatie in overeenstemming met de door de Organisatie vastgestelde regels en procedures.
 
-#### 3. Criteria voor de aanwijzing van gebieden voor emissiebeheersing
+##### 3. Criteria voor de aanwijzing van gebieden voor emissiebeheersing
 
 3.1. Het voorstel dient onder meer te omvattten:
 
@@ -13272,7 +13294,7 @@ waarbij a, b en c de in tabel 2 gegeven parameters zijn.
 
 3.2. De geografische grenzen van een gebied voor emissiebeheersing dienen gebaseerd te zijn op de bovenomschreven relevante criteria, met inbegrip van de emissies en stortingen door schepen die varen in het voorgestelde gebied, verkeerspatronen en -dichtheid en windomstandigheden.
 
-#### 4. Procedures voor de beoordeling en aanneming van gebieden voor emissiebeheersing door de organisatie
+##### 4. Procedures voor de beoordeling en aanneming van gebieden voor emissiebeheersing door de organisatie
 
 4.1. De Organisatie neemt ieder bij haar door een Partij of Partijen ingediend voorstel in overweging.
 
@@ -13280,7 +13302,7 @@ waarbij a, b en c de in tabel 2 gegeven parameters zijn.
 
 4.3. Een gebied voor emissiebeheersing wordt aangewezen door middel van een wijziging van deze Bijlage in overeenstemming met [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&artikel=16&z=2015-09-01&g=2015-09-01) van dit Verdrag behandeld, aangenomen en in werking gesteld.
 
-#### 5. Functioneren van gebieden voor emissiebeheersing
+##### 5. Functioneren van gebieden voor emissiebeheersing
 
 5.1. Partijen met schepen die varen in het gebied worden aangemoedigd de Organisatie op de hoogte te stellen van eventuele zorgen omtrent het functioneren van het gebied.
 
@@ -13288,11 +13310,11 @@ IN WITNESS WHEREOF the undersigned being duly authorized by their respective Gov
 
 DONE at London this second day of November, one thousand nine hundred and seventy-three.
 
-#### Voorschrift 44. Toepassing
+##### Voorschrift 44. Toepassing
 
 De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering van hun verplichtingen en verantwoordelijkheden zoals vervat in deze Bijlage.
 
-#### Voorschrift 45. Verificatie van de naleving
+##### Voorschrift 45. Verificatie van de naleving
 
 1. Elke partij wordt onderworpen aan periodieke audits door de Organisatie in overeenstemming met de auditnorm teneinde de naleving en implementatie van deze Bijlage te verifiëren.
 
@@ -13308,7 +13330,7 @@ De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering v
 
 ### HOOFDSTUK 11. INTERNATIONALE CODE VOOR SCHEPEN DIE IN POLAIRE WATEREN VAREN
 
-#### Voorschrift 1. Begripsomschrijvingen
+##### Voorschrift 1. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage:
 
@@ -13408,13 +13430,13 @@ Voor de toepassing van deze Bijlage:
 
 - 21. wordt onder **Auditnorm** verstaan: de Implementatiecode.
 
-#### Voorschrift 2. Toepassing
+##### Voorschrift 2. Toepassing
 
 - 1. Tenzij uitdrukkelijk anders wordt bepaald, zijn de bepalingen van deze Bijlage van toepassing op alle schepen die gecertificeerd zijn voor het vervoer van schadelijke vloeistoffen in bulk.
 
 - 2. Wanneer een lading waarop de bepalingen van [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=I&z=2016-03-01&g=2016-03-01) van dit Verdrag van toepassing zijn, wordt vervoerd in een laadruim van een NLS-tankschip, zijn de desbetreffende bepalingen van Bijlage I van dit Verdrag ook van toepassing.
 
-#### Voorschrift 3. Uitzonderingen
+##### Voorschrift 3. Uitzonderingen
 
 - 1. De lozingsvereisten van deze Bijlage zijn niet van toepassing op de lozing in zee van schadelijke vloeistoffen of mengsels die deze stoffen bevatten wanneer een dergelijke lozing:
 
@@ -13428,7 +13450,7 @@ Voor de toepassing van deze Bijlage:
 
 - .3 wordt goedgekeurd door de Administratie, wanneer de lozing wordt gebruikt met het oog op de bestrijding van specifieke verontreinigingsvoorvallen of ter minimalisering van de door verontreiniging veroorzaakte schade. Dergelijke lozingen moeten worden goedgekeurd door de Regering in wier rechtsgebied de lozing naar verwachting zal plaatsvinden.
 
-#### Voorschrift 4. Ontheffingen
+##### Voorschrift 4. Ontheffingen
 
 - 1. Ten aanzien van de vervoersvereisten als gevolg van de indeling van de stof in een strengere categorie, is het volgende van toepassing:
 
@@ -13482,7 +13504,7 @@ Voor de toepassing van deze Bijlage:
 
 - .5 in het geval van schepen die reizen maken tussen havens of laad- en losplaatsen onder de rechtsmacht van andere Staten die Partij bij dit Verdrag zijn, de Administratie bijzonderheden omtrent de vrijstelling aan de Organisatie mededeelt en de Organisatie deze gegevens aan de Partijen bij dit Verdrag toezendt om daarvan kennis te nemen en eventueel passende maatregelen te treffen.
 
-#### Voorschrift 5. Gelijkwaardige voorzieningen
+##### Voorschrift 5. Gelijkwaardige voorzieningen
 
 - 1. De Administratie kan het aanbrengen van andere onderdelen, materialen, voorzieningen of apparatuur dan die welke in deze Bijlage worden voorgeschreven, op een schip toestaan, mits deze onderdelen, materialen, voorzieningen of apparatuur ten minste even doelmatig zijn als die welke in deze Bijlage worden vereist. Deze bevoegdheid van de Administratie strekt zich niet uit tot de vervanging van operationele methoden voor de beheersing van de lozing van schadelijke vloeistoffen als equivalent van de door de voorschriften in deze Bijlage voorgeschreven ontwerp- en constructievormen.
 
@@ -13500,7 +13522,7 @@ Voor de toepassing van deze Bijlage:
 
 - .5 het is uitgerust met een, door de Administratie goedgekeurd, Handboek zodat wordt gewaarborgd dat geen bedrijfsmatige vermenging van ladingsresiduen en water plaatsvindt en dat geen ladingresiduen in de tank achterblijven na toepassing van de in het Handboek voorgeschreven ventilatieprocedures.
 
-#### Voorschrift 6. Indeling in categorieën en opsomming van schadelijke vloeistoffen en andere stoffen
+##### Voorschrift 6. Indeling in categorieën en opsomming van schadelijke vloeistoffen en andere stoffen
 
 - 1. Voor de toepassing van de voorschriften van deze Bijlage, worden schadelijke vloeistoffen ingedeeld in de volgende vier categorieën:
 
@@ -13516,11 +13538,11 @@ Voor de toepassing van deze Bijlage:
 
 - 3. Wanneer wordt voorgesteld een vloeistof in bulk te vervoeren, die niet in een categorie is ingedeeld ingevolge het eerste lid van dit voorschrift, komen de Regeringen van de Partijen bij dit Verdrag die bij het voorgestelde vervoer zijn betrokken een voorlopige indeling overeen voor het voorgestelde vervoer, zulks op grond van de richtlijnen bedoeld in lid 2 van dit voorschrift. Totdat de betrokken Regeringen volledige overeenstemming hebben bereikt, mag de stof niet worden vervoerd. Zo snel mogelijk, doch uiterlijk 30 dagen nadat overeenstemming is bereikt, stelt de Regering van het producerende of vervoerende land, die de aanzet tot de desbetreffende overeenkomst heeft gegeven, de Organisatie in kennis en verstrekt zij nadere gegevens met betrekking tot de stof en de voorlopige indeling ten behoeve van de jaarlijkse rondzending ter kennisgeving aan alle Partijen. De Organisatie houdt een register bij van al deze stoffen en de voorlopige indeling ervan totdat de stoffen officieel in de IBC-code worden opgenomen.
 
-#### Voorschrift 7. Onderzoek van en afgifte van een certificaat aan chemicaliëntankschepen
+##### Voorschrift 7. Onderzoek van en afgifte van een certificaat aan chemicaliëntankschepen
 
 Chemicaliëntankschepen die zijn onderzocht en waaraan een certificaat is afgegeven door Staten die Partij bij dit Verdrag zijn, overeenkomstig de bepalingen van de IBC-Code of de Code voor chemicaliën in bulk, al naar gelang van toepassing, worden niettegenstaande het bepaalde in de [voorschriften 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=II&hoofdstuk=3&artikel=8&z=2016-03-01&g=2016-03-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=II&hoofdstuk=3&artikel=9&z=2016-03-01&g=2016-03-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=II&hoofdstuk=3&artikel=10&z=2016-03-01&g=2016-03-01) van deze Bijlage geacht te hebben voldaan aan het bepaalde in de genoemde voorschriften, en het krachtens deze Code afgegeven certificaat heeft dezelfde waarde en moet op dezelfde wijze worden erkend als het krachtens het bepaalde in voorschrift 9 van deze Bijlage afgegeven certificaat.
 
-#### Voorschrift 8. Onderzoeken
+##### Voorschrift 8. Onderzoeken
 
 - 1. Schepen die schadelijke vloeistoffen in bulk vervoeren, zijn onderworpen aan de hieronder aangegeven onderzoeken:
 
@@ -13562,7 +13584,7 @@ Chemicaliëntankschepen die zijn onderzocht en waaraan een certificaat is afgege
 
 - 3.3. Wanneer een ongeval plaatsvindt met een schip of gebreken worden geconstateerd waardoor de integriteit van het schip of de doelmatigheid of volledigheid van de uitrusting waarop deze Bijlage van toepassing is wezenlijk worden aangetast, rapporteert de kapitein of eigenaar van het schip dit zo spoedig mogelijk aan de Administratie, de erkende organisatie of de benoemde inspecteur die verantwoordelijk is voor de afgifte van het desbetreffende certificaat; deze ziet erop toe dat een onderzoek wordt ingesteld om te bepalen of een onderzoek als vereist op grond van lid 1 van dit voorschrift noodzakelijk is. Indien het schip in een haven van een andere Partij ligt, dient de kapitein of eigenaar van het schip eveneens onverwijld de desbetreffende autoriteiten van de havenstaat in te lichten en dient de benoemde inspecteur of erkende organisatie na te gaan of een dergelijke melding heeft plaatsgevonden.
 
-#### Voorschrift 9. Afgifte van of aantekening op het certificaat
+##### Voorschrift 9. Afgifte van of aantekening op het certificaat
 
 - 1. Na een eerste onderzoek of een hernieuwd onderzoek overeenkomstig de bepalingen van [voorschrift 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=II&hoofdstuk=3&artikel=8&z=2016-03-01&g=2016-03-01) van deze Bijlage wordt een Internationaal certificaat betreffende voorkoming van verontreiniging voor het vervoer van schadelijke vloeistoffen in bulk afgegeven aan elk schip dat bestemd is om schadelijke vloeistoffen in bulk te vervoeren en dat reizen maakt naar havens of laad- of losplaatsen buitengaats onder de rechtsmacht van andere Partijen bij het Verdrag.
 
@@ -13578,7 +13600,7 @@ Chemicaliëntankschepen die zijn onderzocht en waaraan een certificaat is afgege
 
 - 4. Het Internationaal certificaat betreffende voorkoming van verontreiniging voor het vervoer van schadelijke vloeistoffen in bulk wordt opgesteld overeenkomstig het model opgenomen in [aanhangsel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=3&z=2016-03-01&g=2016-03-01) bij deze Bijlage en dient ten minste in de Engelse, de Franse of de Spaanse taal te zijn opgesteld. Wanneer de aantekeningen tevens zijn gesteld in een officiële taal van de Staat waarvan het schip gerechtigd is de vlag te voeren, zijn deze doorslaggevend in geval van een geschil of een tegenstrijdigheid.
 
-#### Voorschrift 10. Geldigheidsduur en geldigheid van het certificaat
+##### Voorschrift 10. Geldigheidsduur en geldigheid van het certificaat
 
 - 1. Een Internationaal certificaat betreffende voorkoming van verontreiniging voor het vervoer van schadelijke vloeistoffen in bulk wordt afgegeven voor een door de Administratie vastgesteld tijdvak dat evenwel niet langer is dan vijf jaar.
 
@@ -13614,7 +13636,7 @@ Chemicaliëntankschepen die zijn onderzocht en waaraan een certificaat is afgege
 
 - .3 bij overdracht van het schip onder de vlag van een andere Staat. Er mag uitsluitend een nieuw certificaat worden afgegeven wanneer de Regering die het nieuwe certificaat afgeeft er ten volle van overtuigd is dat het schip volledig voldoet aan de vereisten van de [voorschriften 8.3.1 en 8.3.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=II&hoofdstuk=3&artikel=8&z=2016-03-01&g=2016-03-01) van deze Bijlage. In het geval van een overdracht tussen Partijen zendt de Regering van de Partij wier vlag het schip voordien gerechtigd was te voeren, indien zij daarom wordt verzocht binnen drie maanden nadat de overdracht heeft plaatsgevonden, zo spoedig mogelijk aan de Administratie van de andere Partij afschriften van het certificaat die het schip aan boord had vóór de overdracht en, indien beschikbaar, afschriften van de desbetreffende onderzoeksrapporten.
 
-#### Voorschrift 11. Ontwerp, constructie, uitrusting en bedrijfsvoering
+##### Voorschrift 11. Ontwerp, constructie, uitrusting en bedrijfsvoering
 
 - 1. Van schepen gecertificeerd voor het vervoer van schadelijke vloeistoffen in bulk genoemd in hoofdstuk 17 van de Internationale code voor chemicaliën in bulk, dienen het ontwerp, de constructie, de uitrusting en de bedrijfsvoering in overeenstemming met de volgende bepalingen te zijn, zodat het ongecontroleerd lozen in zee van dergelijke stoffen tot een minimum wordt beperkt:
 
@@ -13634,7 +13656,7 @@ Chemicaliëntankschepen die zijn onderzocht en waaraan een certificaat is afgege
 
 - 2. Ten aanzien van andere schepen dan chemicaliëntankschepen of vloeibaar-gastankschepen gecertificeerd voor het vervoer van schadelijke vloeistoffen in bulk genoemd in hoofdstuk 17 van de Internationale code voor chemicaliën in bulk, stelt de Administratie passende maatregelen op aan de hand van de door de Organisatie ontwikkelde Richtlijnen, zodat het ongecontroleerd lozen in zee van dergelijke stoffen tot een minimum wordt beperkt.
 
-#### Voorschrift 12. Pompen, pijpleidingen, losvoorzieningen en sloptanks
+##### Voorschrift 12. Pompen, pijpleidingen, losvoorzieningen en sloptanks
 
 - 1. Elk schip dat vóór 1 juli 1986 is gebouwd dient te zijn uitgerust met een pomp- en pijpleidingvoorziening die waarborgt dat in geen van de tanks gecertificeerd voor het vervoer van stoffen van categorie X of Y een residu achterblijft van meer dan 300 liter in de tank en de bijbehorende pijpleidingen en dat in geen van de tanks gecertificeerd voor het vervoer van stoffen van categorie Z een residu achterblijft van meer dan 900 liter in de tank en de bijbehorende pijpleidingen. In overeenstemming met [aanhangsel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=5&z=2016-03-01&g=2016-03-01) van deze Bijlage wordt de werking van deze voorzieningen beproefd.
 
@@ -13660,7 +13682,7 @@ Chemicaliëntankschepen die zijn onderzocht en waaraan een certificaat is afgege
 
 ### HOOFDSTUK 4. ONTWERP, CONSTRUCTIE, VOORZIENINGEN EN UITRUSTING
 
-#### Voorschrift 13. Regeling van lozingen van residuen van schadelijke vloeistoffen
+##### Voorschrift 13. Regeling van lozingen van residuen van schadelijke vloeistoffen
 
 Onverminderd de bepalingen van [voorschrift 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=II&hoofdstuk=1&artikel=3&z=2016-03-01&g=2016-03-01) van deze Bijlage dient de regeling van lozingen van residuen van schadelijke vloeistoffen of van ballastwater, tankwaswater of andere mengsels die dergelijke stoffen bevatten, in overeenstemming te zijn met de volgende vereisten.
 
@@ -13750,13 +13772,13 @@ Op verzoek van de kapitein van het schip kan een ontheffing voor het voorwassen 
 
 - 8.2. In het Antarctisch gebied zijn lozingen in de zee van schadelijke vloeistoffen of mengsels die zodanige stoffen bevatten, verboden.
 
-#### Voorschrift 14. Handboek voor procedures en voorzieningen
+##### Voorschrift 14. Handboek voor procedures en voorzieningen
 
 - 1. Elk schip dat is gecertificeerd om stoffen van categorie X, Y of Z te vervoeren, moet een door de Administratie goedgekeurd Handboek aan boord hebben. Het Handboek dient overeenkomstig [aanhangsel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=4&z=2016-03-01&g=2016-03-01) bij deze Bijlage een standaardformaat te hebben. In het geval van een schip dat internationale reizen maakt waarop de gebruikte taal een andere is dan de Engelse, de Franse of de Spaanse taal gaat de tekst vergezeld van een vertaling in één van deze talen.
 
 - 2. Het Handboek heeft voornamelijk tot doel voor de officieren op het schip vast te stellen wat de fysieke voorzieningen en alle operationele procedures zijn die met betrekking tot het behandelen van lading, het reinigen van tanks, de behandeling van residuen uit sloptanks en het ballasten en ontballasten van ladingtanks in acht dienen te worden genomen teneinde te voldoen aan de vereisten van deze Bijlage.
 
-#### Voorschrift 15. Ladingjournaal
+##### Voorschrift 15. Ladingjournaal
 
 - 1. Elk schip waarop deze Bijlage van toepassing is, dient te zijn voorzien van een Ladingjournaal, al dan niet als onderdeel van het voorgeschreven scheepsdagboek, in de vorm als omschreven in [aanhangsel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=2&z=2016-03-01&g=2016-03-01) bij deze Bijlage.
 
@@ -13772,7 +13794,7 @@ Op verzoek van de kapitein van het schip kan een ontheffing voor het voorwassen 
 
 ### HOOFDSTUK 5. – OPERATIONELE LOZINGEN VAN RESIDUEN VAN SCHADELIJKE VLOEISTOFFEN
 
-#### Voorschrift 16. Maatregelen ten behoeve van het toezicht
+##### Voorschrift 16. Maatregelen ten behoeve van het toezicht
 
 - 1. De Regering van elke Partij bij dit Verdrag benoemt of machtigt inspecteurs, belast met de zorg voor de naleving van dit voorschrift. De inspecteurs oefenen toezicht uit overeenkomstig de door de Organisatie opgestelde controleprocedures.
 
@@ -13808,7 +13830,7 @@ Op verzoek van de kapitein van het schip kan een ontheffing voor het voorwassen 
 
 ### HOOFDSTUK 7. VOORKOMING VAN VERONTREINIGING ALS GEVOLG VAN EEN INCIDENT MET SCHADELIJKE VLOEISTOFFEN
 
-#### Voorschrift 17. Rampenplan aan boord van schepen voor verontreiniging van de zee door schadelijke vloeistoffen
+##### Voorschrift 17. Rampenplan aan boord van schepen voor verontreiniging van de zee door schadelijke vloeistoffen
 
 - 1. Elk schip met een bruto-tonnage van 150 of meer dat is gecertificeerd voor het vervoer in bulk van schadelijke vloeistoffen dient een door de Administratie goedgekeurd scheepsnoodplan voor verontreiniging van de zee door schadelijke vloeistoffen aan boord te hebben.
 
@@ -13824,7 +13846,7 @@ Op verzoek van de kapitein van het schip kan een ontheffing voor het voorwassen 
 
 - 3. In het geval van schepen waarop [voorschrift 37 van Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=I&hoofdstuk=5&artikel=37&z=2016-03-01&g=2016-03-01) bij het Verdrag ook van toepassing is, kan een dergelijk plan gecombineerd worden met het rampenplan voor olieverontreiniging aan boord van schepen dat vereist is ingevolge voorschrift 37 van Bijlage I bij het Verdrag. In dit geval luidt de titel van het plan „Scheepsnoodplan voor verontreiniging van de zee”.
 
-#### Voorschrift 18. Ontvangstinrichtingen en losplaatsvoorzieningen
+##### Voorschrift 18. Ontvangstinrichtingen en losplaatsvoorzieningen
 
 - 1. De Regering van elke Partij bij dit Verdrag verbindt zich ertoe, zorg te dragen voor de installatie van ontvangstinrichtingen al naar gelang de behoeften van schepen, die gebruik maken van haar havens, laad- en losplaatsen of scheepsreparatiehavens, en wel als volgt:
 
@@ -13852,11 +13874,11 @@ Op verzoek van de kapitein van het schip kan een ontheffing voor het voorwassen 
 
 ### HOOFDSTUK 7. VOORKOMING VAN VERONTREINIGING ALS GEVOLG VAN EEN INCIDENT MET SCHADELIJKE VLOEISTOFFEN
 
-#### Voorschrift 19. Toepassing
+##### Voorschrift 19. Toepassing
 
 De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering van hun verplichtingen en verantwoordelijkheden zoals vervat in deze Bijlage.
 
-#### Voorschrift 20. Verificatie van de naleving
+##### Voorschrift 20. Verificatie van de naleving
 
 1. Elke partij wordt onderworpen aan een periodieke audit door de Organisatie in overeenstemming met de auditnorm teneinde naleving en implementatie van deze Bijlage te verifiëren.
 
@@ -13870,33 +13892,33 @@ De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering v
 
 - .2. vindt periodiek plaats, rekening houdend met de door de Organisatie opgestelde richtlijnen.
 
-#### Voorschrift 4. Merken en etiketteren
+##### Voorschrift 4. Merken en etiketteren
 
 1. Verpakkingen die een schadelijke stof bevatten dienen duurzaam te zijn gemerkt of geëtiketteerd teneinde in overeenstemming met de relevante bepalingen van de IMDG-Code aan te geven dat de stof een schadelijke stof is.
 
 2. De wijze van merken of het aanbrengen van etiketten op verpakkingen die een schadelijke stof bevatten dient te voldoen aan de relevante bepalingen van de IMDG-Code.
 
-#### Voorschrift 5. Begeleidende papieren
+##### Voorschrift 5. Begeleidende papieren
 
 1. Transportinformatie over het vervoer van schadelijke stoffen dient te voldoen aan de relevante bepalingen van de IMDG-Code en dient ter beschikking te worden gesteld van de door de autoriteit van de havenstaat aangewezen persoon of organisatie.
 
 2. Op elk schip dat schadelijke stoffen vervoert dient een bijzondere lijst, een manifest of een gedetailleerd stuwplan aanwezig te zijn waarin in overeenstemming met de relevante bepalingen van de IMDG-Code de schadelijke stoffen aan boord en de locatie ervan zijn vermeld. Voor vertrek dient een afschrift van een van deze documenten aan de door de autoriteit van de havenstaat aangewezen persoon of organisatie ter beschikking te worden gesteld.
 
-#### Voorschrift 6. Stuwen
+##### Voorschrift 6. Stuwen
 
 Schadelijke stoffen dienen op de juiste wijze te worden gestuwd en vastgezet, ter beperking van de gevaren voor het mariene milieu, zonder afbreuk te doen aan de veiligheid van het schip en de zich aan boord bevindende personen.
 
-#### Voorschrift 7. Beperkingen van hoeveelheid
+##### Voorschrift 7. Beperkingen van hoeveelheid
 
 Om gegronde wetenschappelijke en technische redenen kan het vervoer van bepaalde schadelijke stoffen worden verboden of de hoeveelheid die aan boord van een schip mag worden vervoerd, worden beperkt. Bij het beperken van de hoeveelheid dient naar behoren aandacht te worden geschonken aan de grootte, de constructie en de uitrusting van het schip, alsmede aan de verpakking en de aard van de stoffen.
 
-#### Voorschrift 8. Uitzonderingen
+##### Voorschrift 8. Uitzonderingen
 
 1. Het overboord zetten van schadelijke stoffen die worden vervoerd in verpakte vorm is verboden, behalve wanneer dit noodzakelijk is om de veiligheid van het schip te verzekeren of om mensenlevens op zee te redden.
 
 2. Behoudens de bepalingen van dit Verdrag dienen op grond van de fysische, chemische en biologische eigenschappen van schadelijke stoffen passende maatregelen te worden genomen om het overboord spoelen van zulke door lekkage vrijgekomen stoffen te regelen, mits de uitvoering van deze maatregelen de veiligheid van het schip en van de zich aan boord bevindende personen niet in gevaar brengt.
 
-#### Voorschrift 9. Door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
+##### Voorschrift 9. Door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
 
 1. Een schip dat zich in een haven of een laad- of losplaats buitengaats van een andere partij bevindt wordt geïnspecteerd door ambtenaren die door die partij naar behoren zijn gemachtigd om te controleren of voldaan wordt aan de in deze Bijlage bedoelde vereisten met betrekking tot de bedrijfsvoering aan boord.
 
@@ -13906,11 +13928,11 @@ Om gegronde wetenschappelijke en technische redenen kan het vervoer van bepaalde
 
 4. Geen enkele bepaling van dit voorschrift mag zo worden uitgelegd dat daardoor de rechten en plichten van een partij die de uitdrukkelijk in dit Verdrag genoemde vereisten met betrekking tot de bedrijfsvoering aan boord controleert, worden beperkt.
 
-#### Voorschrift 10. Toepassing
+##### Voorschrift 10. Toepassing
 
 De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering van hun verplichtingen en verantwoordelijkheden zoals vervat in deze Bijlage.
 
-#### Voorschrift 11. Verificatie van de naleving
+##### Voorschrift 11. Verificatie van de naleving
 
 1. Elke partij wordt onderworpen aan periodieke audits door de Organisatie in overeenstemming met de auditnorm teneinde de naleving en implementatie van deze Bijlage te verifiëren.
 
@@ -13928,7 +13950,7 @@ De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering v
 
 ### HOOFDSTUK 2. VERIFICATIE VAN DE NALEVING VAN DE BEPALINGEN VAN DEZE BIJLAGE
 
-#### Voorschrift 4. Onderzoeken
+##### Voorschrift 4. Onderzoeken
 
 - 1. Elk schip dat in overeenstemming met [voorschrift 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=IV&hoofdstuk=1&artikel=2&z=2016-03-01&g=2016-03-01) dient te voldoen aan de bepalingen van deze Bijlage dient de volgende onderzoeken te ondergaan:
 
@@ -13958,13 +13980,13 @@ De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering v
 
 - 9. Wanneer een ongeval plaatsvindt met een schip of een defect wordt ontdekt waardoor de hechtheid van het schip of de doelmatigheid of volledigheid van de uitrusting waarop deze bijlage van toepassing is wezenlijk worden aangetast, rapporteert de kapitein of eigenaar van het schip dit zo spoedig mogelijk aan de Administratie, de erkende organisatie of de aangewezen inspecteur die verantwoordelijk is voor de afgifte van het desbetreffende certificaat, die erop toeziet dat een onderzoek wordt ingesteld om te bepalen of een inspectie als vereist op grond van punt 1 van dit voorschrift noodzakelijk is. Indien het schip zich bevindt in een haven van een andere Partij, meldt de kapitein of eigenaar van het schip dit tevens onverwijld aan de desbetreffende autoriteiten van de havenstaat en de aangewezen inspecteur of erkende organisatie dient vast te stellen of deze melding heeft plaatsgevonden.
 
-#### Voorschrift 5. Afgifte of goedkeuring van een certificaat
+##### Voorschrift 5. Afgifte of goedkeuring van een certificaat
 
 - 1. Een Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair Afval wordt afgegeven na een eerste onderzoek of een hernieuwd onderzoek in overeenstemming met de bepalingen van [voorschrift 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=IV&hoofdstuk=2&artikel=4&z=2016-03-01&g=2016-03-01) van deze Bijlage aan elk schip dat reizen maakt naar havens of losplaatsen buitengaats onder de rechtsmacht van andere Partijen bij het Verdrag. Ten aanzien van bestaande schepen zal dit vereiste vijf jaar na de datum van inwerkingtreding van deze Bijlage van toepassing worden.
 
 - 2. Deze certificaten worden afgegeven of goedgekeurd hetzij door de Administratie, hetzij door een daartoe door haar naar behoren gemachtigde persoon of organisatie1)Zie de door de Organisatie bij resolutie A.739(18) aangenomen Richtlijnen voor de bevoegdverklaring van organisaties die optreden namens Administraties en de door de Organisatie bij resolutie A.789(19) aangenomen Specificaties inzake de onderzoeks- en certificeringsfuncties van erkende organisaties die optreden namens de Administratie.. In alle gevallen neemt de Administratie de volledige verantwoordelijkheid voor het certificaat op zich.
 
-#### Voorschrift 6. Afgifte of aantekening op een certificaat door de Regering van een ander land
+##### Voorschrift 6. Afgifte of aantekening op een certificaat door de Regering van een ander land
 
 - 1. Op verzoek van de Administratie kan de Regering van een Partij bij het Verdrag een schip doen onderzoeken en, indien zij ervan overtuigd is dat aan de bepalingen van dit Verdrag wordt voldaan, geeft zij het certificaat af of geeft zij toestemming voor afgifte van een Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair Afval aan het schip, en waar van toepassing plaatst zij een aantekening op het certificaat of geeft zij toestemming voor het plaatsen van een aantekening op dat certificaat van het schip in overeenstemming met deze Bijlage.
 
@@ -13974,11 +13996,11 @@ De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering v
 
 - 4. Er wordt geen internationaal certificaat van voorkoming van verontreiniging door sanitair afval afgegeven aan een schip dat gerechtigd is de vlag te voeren van een Staat die geen Partij is.
 
-#### Voorschrift 7. Model van het certificaat
+##### Voorschrift 7. Model van het certificaat
 
 Het Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair Afval wordt opgesteld overeenkomstig het model opgenomen in het aanhangsel bij deze Bijlage en dient ten minste in de Engelse, de Franse of de Spaanse taal te zijn opgesteld. Indien tevens de officiële taal van het land van afgifte wordt gebruikt, is deze doorslaggevend bij geschillen of tegenstrijdigheden.
 
-#### Voorschrift 8. Looptijd en geldigheid van het certificaat
+##### Voorschrift 8. Looptijd en geldigheid van het certificaat
 
 - 1. Een Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair Afval wordt afgegeven voor een door de Administratie vastgestelde termijn die evenwel niet langer is dan vijf jaar.
 
@@ -14006,7 +14028,7 @@ Het Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair 
 
 - .2 bij overdracht van het schip onder de vlag van een andere Staat. Er mag uitsluitend een nieuw certificaat worden afgegeven wanneer de Regering die het nieuwe certificaat afgeeft er ten volle van overtuigd is dat het schip volledig voldoet aan de vereisten van de [voorschriften 4.7 en 4.8](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=IV&hoofdstuk=2&artikel=4&z=2016-03-01&g=2016-03-01) van deze Bijlage. In het geval van een overdracht tussen Partijen zendt de Regering van de Partij wier vlag het schip voordien gerechtigd was te voeren, indien zij daarom wordt verzocht binnen drie maanden nadat de overdracht heeft plaatsgevonden, zo spoedig mogelijk aan de Administratie van de andere Partij afschriften van de certificaten die het schip aan boord had vóór de overdracht en, indien beschikbaar, afschriften van de desbetreffende onderzoeksrapporten.
 
-#### Voorschrift 9. Systemen voor sanitair afval
+##### Voorschrift 9. Systemen voor sanitair afval
 
 - 1. Elk schip dat in overeenstemming met [voorschrift 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=IV&hoofdstuk=1&artikel=2&z=2016-03-01&g=2016-03-01) dient te voldoen aan de bepalingen van deze Bijlage, dient te zijn uitgerust met een van de volgende systemen voor sanitair afval:
 
@@ -14022,7 +14044,7 @@ Het Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair 
 
 - .2. een verzameltank met naar tevredenheid van de Administratie voldoende capaciteit voor het opslaan van alle sanitair afval, rekening houdend met de exploitatie van het schip, het aantal opvarenden en andere relevante factoren. De constructie van de verzameltank dient naar tevredenheid van de Administratie te zijn en een voorziening hebben om zichtbaar het niveau van de inhoud aan te geven.
 
-#### Voorschrift 10. Standaardaansluitingen voor afgifte
+##### Voorschrift 10. Standaardaansluitingen voor afgifte
 
 - 1. Teneinde de leiding van de ontvangstinrichting te kunnen aansluiten op de scheepsleiding voor afgifte, dienen beide leidingen te zijn voorzien van een standaardaansluiting voor afgifte overeenkomstig de volgende tabel: Voor schepen met een holte naar de mal van 5 meter of minder, mag de inwendige diameter van de aansluiting voor afgifte 38 mm bedragen.
 
@@ -14038,7 +14060,7 @@ Het Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair 
 
 - 2. Voor schepen voor specifiek gebruik, bijv. passagiersveerboten, kan de scheepsleiding voor afgifte ook worden voorzien van een voor de Administratie aanvaardbare aansluiting voor afgifte, zoals een snelkoppeling.
 
-#### Voorschrift 11. Lozen van sanitair afval
+##### Voorschrift 11. Lozen van sanitair afval
 
 1. Onverminderd de bepalingen van [voorschrift 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=IV&hoofdstuk=1&artikel=3&z=2016-03-01&g=2016-03-01) van deze Bijlage is het lozen in zee van sanitair afval verboden, behalve wanneer:
 
@@ -14056,7 +14078,7 @@ Het Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair 
 
 4. Indien het sanitair afval wordt vermengd met afval of afvalwater waarop andere Bijlagen van MARPOL van toepassing zijn, dient behalve aan de vereisten van deze Bijlage tevens aan de vereisten van die Bijlagen te worden voldaan.
 
-#### Voorschrift 12. Ontvangstinrichtingen
+##### Voorschrift 12. Ontvangstinrichtingen
 
 - 1. De Regering van elke Partij bij het Verdrag, die van alle schepen in de wateren die onder haar rechtsmacht vallen vereist dat zij voldoen aan de eisen van [voorschrift 11.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=IV&hoofdstuk=3&artikel=11&z=2016-03-01&g=2016-03-01), verbindt zich tot het installeren in havens en laad- en losplaatsen van inrichtingen voor het in ontvangst nemen van sanitair afval, zonder onnodig oponthoud van de schepen te veroorzaken, die toereikend zijn voor de behoeften van de schepen die er gebruik van maken.
 
@@ -14070,7 +14092,7 @@ Het Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair 
 
 - 2. De Regering van elke Partij stelt de Organisatie in kennis, opdat deze de andere betrokken Verdragsluitende Regeringen op de hoogte kan stellen, van alle gevallen waarin gesteld wordt dat de uit hoofde van dit voorschrift ter beschikking gestelde voorzieningen onvoldoende zijn.
 
-#### Voorschrift 13. Ontvangstinrichtingen voor passagiersschepen in bijzondere gebieden
+##### Voorschrift 13. Ontvangstinrichtingen voor passagiersschepen in bijzondere gebieden
 
 1. Elke partij waarvan de kustlijn grenst aan een bijzonder gebied verbindt zich ertoe te waarborgen dat:
 
@@ -14084,7 +14106,7 @@ Het Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair 
 
 ### HOOFDSTUK 3. UITRUSTING EN BEHEERSING VAN LOZINGEN
 
-#### Voorschrift 14. Door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
+##### Voorschrift 14. Door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
 
 1. Een schip dat zich bevindt in een haven of een laad- of losplaats buitengaats van een andere Partij wordt geïnspecteerd door ambtenaren die door bedoelde Partij naar behoren zijn gemachtigd om te controleren of voldaan is aan de vereisten uit hoofde van deze Bijlage met betrekking tot de bedrijfsvoering aan boord, wanneer er duidelijke gronden zijn om aan te nemen dat de kapitein of de leden van de bemanning niet op de hoogte zijn van de essentiële procedures die aan boord dienen te worden toegepast om verontreiniging door sanitair afval te voorkomen.
 
@@ -14094,11 +14116,11 @@ Het Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair 
 
 4. Geen enkele bepaling van dit voorschrift mag zo worden uitgelegd dat daardoor de rechten en plichten van een Partij die de uitdrukkelijk in dit Verdrag voorziene vereisten met betrekking tot de bedrijfsvoering aan boord controleert, worden beperkt.
 
-#### Voorschrift 15. Toepassing
+##### Voorschrift 15. Toepassing
 
 De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering van hun verplichtingen en verantwoordelijkheden zoals vervat in deze Bijlage.
 
-#### Voorschrift 16. Verificatie van de naleving
+##### Voorschrift 16. Verificatie van de naleving
 
 1. Elke partij wordt onderworpen aan periodieke audits door de Organisatie in overeenstemming met de auditnorm teneinde de naleving en implementatie van deze Bijlage te verifiëren.
 
@@ -14114,7 +14136,7 @@ De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering v
 
 ### HOOFDSTUK 1. ALGEMEEN
 
-#### Voorschrift 1. Begripsomschrijvingen
+##### Voorschrift 1. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage:
 
@@ -14178,11 +14200,11 @@ Voor de toepassing van deze Bijlage wordt onder bijzondere gebieden verstaan: de
 
 - 18. wordt verstaan onder **Auditnorm,** de Implementatiecode.
 
-#### Voorschrift 2. Toepassing
+##### Voorschrift 2. Toepassing
 
 Tenzij uitdrukkelijk anders bepaald, zijn de bepalingen van deze Bijlage van toepassing op alle schepen.
 
-#### Voorschrift 3. Algemeen verbod op het lozen van vuilnis in zee
+##### Voorschrift 3. Algemeen verbod op het lozen van vuilnis in zee
 
 1. Het lozen van alle vuilnis in zee is verboden, tenzij in de [voorschriften 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&hoofdstuk=1&artikel=4&z=2016-03-01&g=2016-03-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&hoofdstuk=1&artikel=5&z=2016-03-01&g=2016-03-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&hoofdstuk=1&artikel=6&z=2016-03-01&g=2016-03-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&hoofdstuk=1&artikel=7&z=2016-03-01&g=2016-03-01) van deze Bijlage anders is bepaald.
 
@@ -14190,7 +14212,7 @@ Tenzij uitdrukkelijk anders bepaald, zijn de bepalingen van deze Bijlage van toe
 
 3. Het lozen in zee van bak- en braadolie is verboden, uitgezonderd zoals voorzien in [voorschrift 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&hoofdstuk=1&artikel=7&z=2016-03-01&g=2016-03-01) van deze Bijlage.
 
-#### Voorschrift 4. Lozen van vuilnis buiten bijzondere gebieden
+##### Voorschrift 4. Lozen van vuilnis buiten bijzondere gebieden
 
 1. Behoudens de bepalingen van de [voorschriften 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&hoofdstuk=1&artikel=5&z=2016-03-01&g=2016-03-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&hoofdstuk=1&artikel=6&z=2016-03-01&g=2016-03-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&hoofdstuk=1&artikel=7&z=2016-03-01&g=2016-03-01) van deze Bijlage, is het lozen in zee van het onderstaande vuilnis buiten bijzondere gebieden uitsluitend toegestaan wanneer het schip onderweg is en zo ver als mogelijk van het dichtstbijzijnde land, maar in ieder geval niet minder dan:
 
@@ -14206,13 +14228,13 @@ Tenzij uitdrukkelijk anders bepaald, zijn de bepalingen van deze Bijlage van toe
 
 3. Wanneer vuilnis is vermengd met of verontreinigd door andere stoffen waarvan de lozing verboden of aan andere vereisten gebonden is, zijn de strengere vereisten van toepassing.
 
-#### Voorschrift 5. Bijzondere vereisten voor het lozen van vuilnis vanaf vaste of drijvende platforms
+##### Voorschrift 5. Bijzondere vereisten voor het lozen van vuilnis vanaf vaste of drijvende platforms
 
 1. Behoudens de bepalingen van paragraaf 2 van dit voorschrift, is het verboden vuilnis in zee te lozen vanaf vaste of drijvende platforms alsmede vanaf alle andere schepen die zich naast of binnen 500 meter van dergelijke platforms bevinden.
 
 2. Er mogen wel voedselresten in zee worden geloosd vanaf vaste of drijvende platforms die zich op meer dan 12 zeemijlen van het dichtstbijzijnde land bevinden en vanaf alle andere schepen die zich naast of binnen 500 meter van dergelijke platforms bevinden, op voorwaarde dat de voedselresten door een afbreek- of maalinstallatie zijn gevoerd. Deze afgebroken of gemalen voedselresten dienen een rooster met gaten van maximaal 25 mm doorsnee te kunnen passeren.
 
-#### Voorschrift 6. Lozen van vuilnis binnen bijzondere gebieden
+##### Voorschrift 6. Lozen van vuilnis binnen bijzondere gebieden
 
 1. Het lozen van het onderstaande vuilnis in zee binnen bijzondere gebieden is uitsluitend toegestaan wanneer het schip onderweg is en op de volgende wijze:
 
@@ -14238,7 +14260,7 @@ Tenzij uitdrukkelijk anders bepaald, zijn de bepalingen van deze Bijlage van toe
 
 4. Wanneer vuilnis is vermengd met of verontreinigd door andere stoffen waarvan de lozing verboden of aan andere vereisten gebonden is, zijn de strengere vereisten van toepassing.
 
-#### Voorschrift 7. Uitzonderingen
+##### Voorschrift 7. Uitzonderingen
 
 1. De [voorschriften 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&hoofdstuk=1&artikel=3&z=2016-03-01&g=2016-03-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&hoofdstuk=1&artikel=4&z=2016-03-01&g=2016-03-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&hoofdstuk=1&artikel=5&z=2016-03-01&g=2016-03-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&hoofdstuk=1&artikel=6&z=2016-03-01&g=2016-03-01) van deze Bijlage zijn niet van toepassing op:
 
@@ -14254,7 +14276,7 @@ Tenzij uitdrukkelijk anders bepaald, zijn de bepalingen van deze Bijlage van toe
 
 - .1. De vereisten in de [voorschriften 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&hoofdstuk=1&artikel=4&z=2016-03-01&g=2016-03-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&hoofdstuk=1&artikel=6&z=2016-03-01&g=2016-03-01) voor schepen die onderweg zijn, zijn niet van toepassing op het lozen van voedselresten wanneer duidelijk is dat het aan boord houden van deze voedselresten een direct risico voor de gezondheid van de opvarenden oplevert.
 
-#### Voorschrift 8. Ontvangstinstallaties
+##### Voorschrift 8. Ontvangstinstallaties
 
 1. Elke partij verbindt zich ertoe te waarborgen dat havens en laad- en losplaatsen zijn voorzien van toereikende installaties voor het in ontvangst nemen van vuilnis, zonder onnodig oponthoud van schepen te veroorzaken, volgens de behoeften van de schepen die er gebruik van maken.
 
@@ -14276,7 +14298,7 @@ De Regering van elke Partij die deelneemt aan de regeling overlegt met de Organi
 
 3. Elke partij stelt de Organisatie in kennis van alle gevallen waarin de installaties die ingevolge de bepalingen van dit voorschrift zijn aangebracht, als ontoereikend worden aangemerkt, waarna de Organisatie de betrokken Verdragsluitende Partijen op de hoogte stelt.
 
-#### Voorschrift 9. Havenstaatcontrole op operationele vereisten
+##### Voorschrift 9. Havenstaatcontrole op operationele vereisten
 
 1. Een schip dat zich bevindt in een haven of een laad- of losplaats buitengaats van een andere partij wordt onderworpen aan inspectie door ambtenaren die door bedoelde partij naar behoren zijn gemachtigd om te controleren of voldaan is aan de in deze Bijlage bedoelde operationele vereisten, wanneer er gegronde redenen zijn om aan te nemen dat de kapitein of de leden van de bemanning niet op de hoogte zijn van de essentiële procedures die aan boord dienen te worden toegepast om verontreiniging door vuilnis te voorkomen.
 
@@ -14286,7 +14308,7 @@ De Regering van elke Partij die deelneemt aan de regeling overlegt met de Organi
 
 4. Geen enkele bepaling van dit voorschrift mag zo worden uitgelegd dat daardoor de rechten en plichten van een partij die de uitdrukkelijk in dit Verdrag genoemde operationele vereisten aan boord controleert, worden beperkt.
 
-#### Voorschrift 10. Plakkaten, vuilnisbeheerplannen en het bijhouden van het vuilnisjournaal
+##### Voorschrift 10. Plakkaten, vuilnisbeheerplannen en het bijhouden van het vuilnisjournaal
 
 - .1. Elk schip met een lengte over alles van 12 meter of meer en elk vast of drijvend platform dient plakkaten te tonen die de bemanning en de passagiers informeren over de lozingsvoorwaarden in de [voorschriften 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&hoofdstuk=1&artikel=3&z=2016-03-01&g=2016-03-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&hoofdstuk=1&artikel=4&z=2016-03-01&g=2016-03-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&hoofdstuk=1&artikel=5&z=2016-03-01&g=2016-03-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&hoofdstuk=1&artikel=6&z=2016-03-01&g=2016-03-01) van deze Bijlage, voor zover van toepassing.
 
@@ -14316,11 +14338,11 @@ De Regering van elke Partij die deelneemt aan de regeling overlegt met de Organi
 
 ### HOOFDSTUK 2. VERIFICATIE VAN DE NALEVING VAN DE BEPALINGEN VAN DEZE BIJLAGE
 
-#### Voorschrift 11. Toepassing
+##### Voorschrift 11. Toepassing
 
 De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering van hun verplichtingen en verantwoordelijkheden zoals vervat in deze Bijlage.
 
-#### Voorschrift 12. Verificatie van de naleving
+##### Voorschrift 12. Verificatie van de naleving
 
 1. Elke partij wordt onderworpen aan periodieke audits door de Organisatie in overeenstemming met de auditnorm teneinde de naleving en implementatie van deze Bijlage te verifiëren.
 
@@ -14338,7 +14360,7 @@ De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering v
 
 ### HOOFDSTUK 2. ONDERZOEK, CERTIFICERING EN CONTROLEMIDDELEN
 
-#### Voorschrift 5. Onderzoeken
+##### Voorschrift 5. Onderzoeken
 
 1. Ieder schip met een brutotonnage van 400 of meer, alsmede iedere vaste en drijvende boorinstallatie en ander platform wordt onderworpen aan de hieronder aangegeven onderzoeken teneinde te waarborgen dat aan de vereisten van [Hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=3&z=2016-03-01&g=2016-03-01) wordt voldaan:
 
@@ -14378,7 +14400,7 @@ De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering v
 
 6. Wanneer een schip bij een ongeval betrokken raakt, of er gebreken worden geconstateerd waardoor de doelmatigheid of volledigheid van de uitrusting waarop deze Bijlage van toepassing is, wezenlijk worden beïnvloed, dient de kapitein of de eigenaar van het schip de Administratie, een aangewezen inspecteur of erkende organisatie die verantwoordelijk is voor de afgifte van het betrokken certificaat zo spoedig mogelijk in te lichten.
 
-#### Voorschrift 6. Afgifte van of aantekening op certificaten
+##### Voorschrift 6. Afgifte van of aantekening op certificaten
 
 1. Een Internationaal certificaat betreffende voorkoming van luchtverontreiniging wordt afgegeven na een eerste of hernieuwd onderzoek in overeenstemming met de bepalingen van [voorschrift 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=2&artikel=5&z=2016-03-01&g=2016-03-01) van deze Bijlage aan:
 
@@ -14394,7 +14416,7 @@ De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering v
 
 5. Het certificaat wordt afgegeven of goedgekeurd hetzij door de Administratie, hetzij door een daartoe door haar naar behoren gemachtigde organisatie. In alle gevallen neemt de Administratie de volle verantwoordelijkheid voor het certificaat op zich.
 
-#### Voorschrift 7. Afgifte van een certificaat door een andere partij
+##### Voorschrift 7. Afgifte van een certificaat door een andere partij
 
 1. Een partij kan een schip op verzoek van de Administratie doen onderzoeken en, indien te haren genoegen vaststaat dat aan de van toepassing zijnde bepalingen van deze Bijlage wordt voldaan, een Internationaal certificaat betreffende voorkoming van luchtverontreiniging of een Internationaal certificaat betreffende energie-efficiëntie aan het schip afgeven of hiervoor toestemming geven, en waar van toepassing een aantekening op dergelijke certificaten van het schip plaatsen of hiervoor toestemming geven, in overeenstemming met deze Bijlage.
 
@@ -14404,13 +14426,13 @@ De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering v
 
 4. Er wordt geen Internationaal certificaat betreffende voorkoming van luchtverontreiniging of Internationaal certificaat betreffende energie-efficiëntie afgegeven aan een schip dat gerechtigd is de vlag te voeren van een Staat die geen partij is.
 
-#### Voorschrift 8. Model van de certificaten
+##### Voorschrift 8. Model van de certificaten
 
 1. Het Internationaal certificaat betreffende voorkoming van luchtverontreiniging wordt opgesteld overeenkomstig het model opgenomen in aanhangsel I bij deze Bijlage en dient ten minste in de Engelse, de Franse of de Spaanse taal te zijn gesteld. Indien tevens de officiële taal van het land van afgifte wordt gebruikt, is deze doorslaggevend bij geschillen of tegenstrijdigheden.
 
 2. Het Internationaal certificaat betreffende energie-efficiëntie wordt opgesteld overeenkomstig het model opgenomen in Aanhangsel VIII bij deze Bijlage en dient ten minste in de Engelse, de Franse of de Spaanse taal te zijn gesteld. Indien tevens de officiële taal van de partij van afgifte wordt gebruikt, is deze doorslaggevend bij geschillen of tegenstrijdigheden.
 
-#### Voorschrift 9. Looptijd en geldigheid van de certificaten
+##### Voorschrift 9. Looptijd en geldigheid van de certificaten
 
 1. Een Internationaal certificaat betreffende voorkoming van luchtverontreiniging wordt afgegeven voor een door de Administratie vastgesteld tijdvak van ten hoogste vijf jaar.
 
@@ -14456,7 +14478,7 @@ De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering v
 
 - .2. bij overdracht van het schip onder de vlag van een andere Staat. Een nieuw certificaat wordt uitsluitend afgegeven wanneer ten genoegen van de Regering die het nieuwe certificaat afgeeft vaststaat dat het schip voldoet aan de vereisten van Hoofdstuk 4. In het geval van een overdracht tussen partijen zendt de Regering van de partij wier vlag het schip voordien gerechtigd was te voeren, indien haar daarom wordt verzocht binnen drie maanden nadat de overdracht heeft plaatsgevonden, zo spoedig mogelijk aan de Administratie afschriften van de certificaten die het schip aan boord had vóór de overdracht en, indien beschikbaar, afschriften van de desbetreffende onderzoeksrapporten.
 
-#### Voorschrift 10. Havenstaatcontrole op operationele vereisten
+##### Voorschrift 10. Havenstaatcontrole op operationele vereisten
 
 1. Een schip dat zich bevindt in een haven of een laad- of losplaats buitengaats onder de rechtsmacht van een andere Partij wordt geïnspecteerd door ambtenaren die door bedoelde Partij naar behoren zijn gemachtigd om te controleren of is voldaan aan de in deze Bijlage bedoelde vereisten met betrekking tot de bedrijfsvoering aan boord, wanneer er duidelijke gronden zijn om aan te nemen dat de kapitein of de leden van de bemanning niet op de hoogte zijn van de essentiële werkwijzen die aan boord dienen te worden toegepast om luchtverontreiniging door schepen te voorkomen.
 
@@ -14468,7 +14490,7 @@ De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering v
 
 5. Met betrekking tot Hoofdstuk 4 is elke havenstaatinspectie beperkt tot het verifiëren, wanneer van toepassing, of er een geldig Internationaal certificaat betreffende energie-efficiëntie aan boord is in overeenstemming met artikel 5 van het Verdrag.
 
-#### Voorschrift 11. Opsporing van overtredingen en handhaving
+##### Voorschrift 11. Opsporing van overtredingen en handhaving
 
 1. De Partijen werken samen bij de opsporing van overtredingen en de handhaving van de bepalingen van deze Bijlage, daarbij gebruikmakend van alle passende en uitvoerbare maatregelen van opsporing en milieubewaking en van doeltreffende methoden voor het rapporteren en verzamelen van bewijsmateriaal.
 
@@ -14484,7 +14506,7 @@ De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering v
 
 ### HOOFDSTUK 1. ALGEMEEN
 
-#### Voorschrift 12. Ozonafbrekende stoffen
+##### Voorschrift 12. Ozonafbrekende stoffen
 
 1. Dit voorschrift is niet van toepassing op permanent verzegelde uitrusting indien er geen aansluitingen zijn voor de toevoer van koelvloeistof of verwijderbare onderdelen die ozonafbrekende stoffen bevatten.
 
@@ -14524,7 +14546,7 @@ De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering v
 
 - .5. levering van ozonafbrekende stoffen aan het schip.
 
-#### Voorschrift 13. Stikstofoxiden (NOx)
+##### Voorschrift 13. Stikstofoxiden (NOx)
 
 1.1. Dit voorschrift is van toepassing op:
 
@@ -14638,7 +14660,7 @@ De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering v
 
 9. De procedures voor het vaststellen van de NOx-emissie vervat in de herziene NOx Technische Code 2008 dienen representatief te zijn voor het normale functioneren van de motor. Manipulatievoorzieningen en abnormale emissiebeperkende strategieën ondermijnen dat doel en zijn niet toegestaan. Dit voorschrift belet niet het gebruik van beheersingshulpvoorzieningen die worden gebruikt om de motor en/of de hulpapparatuur te beschermen tegen bedrijfsomstandigheden die tot beschadiging of uitval kunnen leiden of om het starten van de motor te vergemakkelijken.
 
-#### Voorschrift 14. Zwaveloxides (SOx) en fijnstof
+##### Voorschrift 14. Zwaveloxides (SOx) en fijnstof
 
 1. Het zwavelgehalte van brandstofolie die wordt gebruikt aan boord van schepen mag niet hoger zijn dan:
 
@@ -14688,7 +14710,7 @@ De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering v
 
 10. Op grond van de door de deskundigengroep samengestelde informatie beslissen de Partijen of het voor schepen mogelijk is te voldoen aan de termijn vervat in lid 1.3 van dit voorschrift. Indien besloten wordt dat schepen daar niet aan kunnen voldoen, wordt de in dat lid vervatte norm van kracht vanaf 1 januari 2025.
 
-#### Voorschrift 15. Vluchtige organische stoffen (VOS)
+##### Voorschrift 15. Vluchtige organische stoffen (VOS)
 
 1. Indien de emissie van VOS door tankschepen binnen een haven of havens of laad- of losplaatsen onder de rechtsmacht van een Partij dient te worden gereguleerd, geschiedt dat in overeenstemming met de bepalingen van dit voorschrift.
 
@@ -14712,7 +14734,7 @@ De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering v
 
 7. Dit voorschrift is alleen mede van toepassing op gasschepen wanneer het type laad-, en opslagsystemen voor de veilige opslag aan boord of het veilig terugbrengen aan land van VOS (met uitzondering van methaan) mogelijk maakt.
 
-#### Voorschrift 16. Verbranding aan boord
+##### Voorschrift 16. Verbranding aan boord
 
 1. Behalve zoals bepaald in het vierde lid van dit voorschrift is verbranding aan boord alleen toegestaan in een verbrandingsinstallatie aan boord.
 
@@ -14750,7 +14772,7 @@ De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering v
 
 9. Voor in overeenstemming met lid 6.1 van dit voorschrift geïnstalleerde verbrandingsinstallaties dient de uitlaattemperatuur van de verbrandingskamer voortdurend te worden gemeten wanneer de eenheid in bedrijf is. Indien de verbrandingsinstallatie voorzien is van doorlopende toevoer, mag er geen afval aan de installatie worden toegevoerd wanneer de uitlaattemperatuur van de verbrandingskamer lager is dan 850°C. Bij verbrandingsinstallaties met toevoer in partijen, dient de eenheid zodanig te zijn ontworpen dat de uitlaattemperatuur van de verbrandingskamer binnen vijf minuten na inschakeling 600°C heeft bereikt om vervolgens te stijgen tot en stabiel te blijven op ten minste 850°C.
 
-#### Voorschrift 17. Ontvangstinrichtingen
+##### Voorschrift 17. Ontvangstinrichtingen
 
 1. Elke Partij verbindt zich ertoe zorg te dragen voor het beschikbaar zijn van toereikende inrichtingen die voorzien in de:
 
@@ -14774,7 +14796,7 @@ De Regering van elke Partij die deelneemt aan de regeling overlegt met de Organi
 
 3. Elke Partij stelt de Organisatie ter mededeling aan de leden van de Organisatie in kennis van alle gevallen waarin de desbetreffende voorzieningen niet beschikbaar zijn of als ontoereikend worden aangemerkt.
 
-#### Voorschrift 18. Beschikbaarheid en kwaliteit van brandstofolie
+##### Voorschrift 18. Beschikbaarheid en kwaliteit van brandstofolie
 
 1. Elke Partij neemt alle redelijke stappen om de beschikbaarheid van brandstofolie die voldoet aan deze Bijlage te bevorderen en stelt de Organisatie in kennis van de beschikbaarheid van geschikte brandstofolie in haar havens en laad- en losplaatsen.
 
@@ -14860,7 +14882,7 @@ De Regering van elke Partij die deelneemt aan de regeling overlegt met de Organi
 
 ### HOOFDSTUK 4. VOORSCHRIFTEN INZAKE ENERGIE-EFFICIËNTIE VOOR SCHEPEN
 
-#### Voorschrift 19. Toepassing
+##### Voorschrift 19. Toepassing
 
 1. Dit Hoofdstuk is van toepassing op alle schepen met een brutotonnage van 400 of meer.
 
@@ -14886,7 +14908,7 @@ De Regering van elke Partij die deelneemt aan de regeling overlegt met de Organi
 
 6. De Administratie van een partij bij dit Verdrag die toepassing van paragraaf 4 toestaat, of de toepassing van deze paragraaf opschort, intrekt of afwijst, met betrekking tot een schip dat gerechtigd is haar vlag te voeren, doet de Organisatie onverwijld de bijzonderheden daarvan toekomen voor toezending aan de partijen bij dit Protocol ter kennisneming.
 
-#### Voorschrift 20. Bereikte ontwerpindex voor energie-efficiëntie (Bereikte EEDI)
+##### Voorschrift 20. Bereikte ontwerpindex voor energie-efficiëntie (Bereikte EEDI)
 
 1. De bereikte EEDI wordt berekend voor:
 
@@ -14898,7 +14920,7 @@ De Regering van elke Partij die deelneemt aan de regeling overlegt met de Organi
 
 2. De bereikte EEDI wordt berekend met inachtneming van de door de Organisatie ontwikkelde richtsnoeren.
 
-#### Voorschrift 21. Vereiste EEDI
+##### Voorschrift 21. Vereiste EEDI
 
 1. Voor elk:
 
@@ -14974,13 +14996,13 @@ waarbij a, b en c de in tabel 2 gegeven parameters zijn.
 
 6. Bij aanvang van fase 1 en halverwege fase 2 toetst de Organisatie de status van de technologische ontwikkelingen en past, wanneer dat nodig blijkt, de in dit voorschrift voorziene termijnen, parameters voor de EEDI-referentielijn voor relevante scheepstypen en reductiepercentages aan.
 
-#### Voorschrift 22. Energie-efficiëntiemanagementplan van het schip (SEEMP)
+##### Voorschrift 22. Energie-efficiëntiemanagementplan van het schip (SEEMP)
 
 1. Elk schip dient een op het schip van toepassing zijnd energie-efficiëntiemanagementplan (SEEMP) aan boord te hebben. Dit kan onderdeel vormen van het veiligheidsbeleidssysteem (SMS) van het schip.
 
 2. Het SEEMP moet worden ontwikkeld met inachtneming van de door de Organisatie aangenomen richtsnoeren.
 
-#### Voorschrift 23. Bevordering van technische samenwerking en overdracht van technologie met betrekking tot het verbeteren van de energie-efficiëntie van schepen
+##### Voorschrift 23. Bevordering van technische samenwerking en overdracht van technologie met betrekking tot het verbeteren van de energie-efficiëntie van schepen
 
 1. In samenwerking met de Organisatie en andere internationale organen bevorderen en verstrekken Administraties, al naargelang van toepassing, rechtstreeks of via de Organisatie rechtstreekse steun aan Staten, met name Staten in ontwikkeling, die om technische bijstand verzoeken.
 
@@ -14988,11 +15010,11 @@ waarbij a, b en c de in tabel 2 gegeven parameters zijn.
 
 ### HOOFDSTUK 5. VERIFICATIE VAN DE NALEVING VAN DE BEPALINGEN VAN DEZE BIJLAGE
 
-#### Voorschrift 24. Toepassing
+##### Voorschrift 24. Toepassing
 
 De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering van hun verplichtingen en verantwoordelijkheden zoals vervat in deze Bijlage.
 
-#### Voorschrift 25. Verificatie van de naleving
+##### Voorschrift 25. Verificatie van de naleving
 
 1. Elke partij wordt onderworpen aan periodieke audits door de Organisatie in overeenstemming met de auditnorm teneinde de naleving en implementatie van deze Bijlage te verifiëren.
 
@@ -15006,7 +15028,7 @@ De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering v
 
 - .2. vindt periodiek plaats, rekening houdend met de door de Organisatie opgestelde richtlijnen.
 
-#### 1. Doelstellingen
+##### 1. Doelstellingen
 
 1.1. Doel van dit aanhangsel is de Partijen te voorzien van criteria en procedures voor het formuleren en indienen van voorstellen voor het aanwijzen van gebieden voor emissiebeheersing en de factoren te benoemen die bij de beoordeling van deze voorstellen door de Organisatie in aanmerking dienen te worden genomen.
 
@@ -15014,13 +15036,13 @@ De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering v
 
 1.3. Aanneming van een gebied voor emissiebeheersing dient door de Organisatie te worden overwogen indien er een aantoonbare noodzaak bestaat tot preventie, reductie en beheersing van de emissie van NOx, SOx en fijnstof of een combinatie ervan (hierna emissies) door schepen.
 
-#### 2. Procedure voor de aanwijzing van gebieden voor emissiebeheersing
+##### 2. Procedure voor de aanwijzing van gebieden voor emissiebeheersing
 
 2.1. Een voorstel aan de Organisatie voor de aanwijzing van een gebied waar de emissie van NOx of SOx en fijnstof of alle drie de typen emissies dient te worden beheerst, kan uitsluitend door de Partijen worden ingediend. Indien twee of meer Partijen een gezamenlijk belang hebben in een specifiek gebied dienen ze gezamenlijk een voorstel in te dienen.
 
 2.2. Een voorstel voor de aanwijzing van een bepaald gebied als gebied voor emissiebeheersing dient te worden ingediend bij de Organisatie in overeenstemming met de door de Organisatie vastgestelde regels en procedures.
 
-#### 3. Criteria voor de aanwijzing van gebieden voor emissiebeheersing
+##### 3. Criteria voor de aanwijzing van gebieden voor emissiebeheersing
 
 3.1. Het voorstel dient onder meer te omvattten:
 
@@ -15042,7 +15064,7 @@ De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering v
 
 3.2. De geografische grenzen van een gebied voor emissiebeheersing dienen gebaseerd te zijn op de bovenomschreven relevante criteria, met inbegrip van de emissies en stortingen door schepen die varen in het voorgestelde gebied, verkeerspatronen en -dichtheid en windomstandigheden.
 
-#### 4. Procedures voor de beoordeling en aanneming van gebieden voor emissiebeheersing door de organisatie
+##### 4. Procedures voor de beoordeling en aanneming van gebieden voor emissiebeheersing door de organisatie
 
 4.1. De Organisatie neemt ieder bij haar door een Partij of Partijen ingediend voorstel in overweging.
 
@@ -15050,7 +15072,7 @@ De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering v
 
 4.3. Een gebied voor emissiebeheersing wordt aangewezen door middel van een wijziging van deze Bijlage in overeenstemming met [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&artikel=16&z=2016-03-01&g=2016-03-01) van dit Verdrag behandeld, aangenomen en in werking gesteld.
 
-#### 5. Functioneren van gebieden voor emissiebeheersing
+##### 5. Functioneren van gebieden voor emissiebeheersing
 
 5.1. Partijen met schepen die varen in het gebied worden aangemoedigd de Organisatie op de hoogte te stellen van eventuele zorgen omtrent het functioneren van het gebied.
 
@@ -15058,7 +15080,7 @@ IN WITNESS WHEREOF the undersigned being duly authorized by their respective Gov
 
 DONE at London this second day of November, one thousand nine hundred and seventy-three.
 
-#### Voorschrift 46. Begripsomschrijvingen
+##### Voorschrift 46. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage:
 
@@ -15072,7 +15094,7 @@ Voor de toepassing van deze Bijlage:
 
 - 3. wordt onder **polaire wateren** verstaan de Arctische wateren en/of het Antarctisch gebied.
 
-#### Voorschrift 47. Toepassing en vereisten
+##### Voorschrift 47. Toepassing en vereisten
 
 1. Dit hoofdstuk is van toepassing op alle schepen die in polaire wateren varen.
 
@@ -15080,7 +15102,7 @@ Voor de toepassing van deze Bijlage:
 
 3. Bij de toepassing van hoofdstuk 1 van deel II-A van de Polar Code moet rekening worden gehouden met de aanvullende richtlijnen van deel II-B van de Polar Code.
 
-#### Voorschrift 4. Ontheffingen
+##### Voorschrift 4. Ontheffingen
 
 - 1. Ten aanzien van de vervoersvereisten als gevolg van de indeling van de stof in een strengere categorie, is het volgende van toepassing:
 
@@ -15134,7 +15156,7 @@ Voor de toepassing van deze Bijlage:
 
 - .5 in het geval van schepen die reizen maken tussen havens of laad- en losplaatsen onder de rechtsmacht van andere Staten die Partij bij dit Verdrag zijn, de Administratie bijzonderheden omtrent de vrijstelling aan de Organisatie mededeelt en de Organisatie deze gegevens aan de Partijen bij dit Verdrag toezendt om daarvan kennis te nemen en eventueel passende maatregelen te treffen.
 
-#### Voorschrift 5. Gelijkwaardige voorzieningen
+##### Voorschrift 5. Gelijkwaardige voorzieningen
 
 - 1. De Administratie kan het aanbrengen van andere onderdelen, materialen, voorzieningen of apparatuur dan die welke in deze Bijlage worden voorgeschreven, op een schip toestaan, mits deze onderdelen, materialen, voorzieningen of apparatuur ten minste even doelmatig zijn als die welke in deze Bijlage worden vereist. Deze bevoegdheid van de Administratie strekt zich niet uit tot de vervanging van operationele methoden voor de beheersing van de lozing van schadelijke vloeistoffen als equivalent van de door de voorschriften in deze Bijlage voorgeschreven ontwerp- en constructievormen.
 
@@ -15154,7 +15176,7 @@ Voor de toepassing van deze Bijlage:
 
 ### HOOFDSTUK 2. INDELING IN CATEGORIEËN VAN GEVAARLIJKE VLOEISTOFFEN
 
-#### Voorschrift 13. Regeling van lozingen van residuen van schadelijke vloeistoffen
+##### Voorschrift 13. Regeling van lozingen van residuen van schadelijke vloeistoffen
 
 Onverminderd de bepalingen van [voorschrift 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=II&hoofdstuk=1&artikel=3&z=2022-04-01&g=2022-04-01) van deze Bijlage dient de regeling van lozingen van residuen van schadelijke vloeistoffen of van ballastwater, tankwaswater of andere mengsels die dergelijke stoffen bevatten, in overeenstemming te zijn met de volgende vereisten.
 
@@ -15262,13 +15284,13 @@ Op verzoek van de kapitein van het schip kan een ontheffing voor het voorwassen 
 
 - 9.4. de „Noorse zee” wordt begrensd door lijnen die de volgende punten verbinden: 69°47’.69 noorderbreedte; 030°49’.06 oosterlengte 69°58’.76 noorderbreedte; 031°06’.26 oosterlengte 70°08’.63 noorderbreedte; 031°35’.14 oosterlengte 70°16’.48 noorderbreedte; 032°04’.38 oosterlengte 73°23’.07 noorderbreedte; 036°28’.57 oosterlengte 73°35’.66 noorderbreedte; 035°27’.34 oosterlengte 74°02’.97 noorderbreedte; 033°17’.86 oosterlengte 74°20’.71 noorderbreedte; 030°33’.51 oosterlengte 74°29’.80 noorderbreedte; 026°28’.18 oosterlengte 74°24’.24 noorderbreedte; 022°55’.03 oosterlengte 74°13’.72 noorderbreedte; 020°15’.98 oosterlengte 73°35’.44 noorderbreedte; 016°36’.50 oosterlengte 73°14’.83 noorderbreedte; 014°09’.43 oosterlengte 72°42’.54 noorderbreedte; 011°42’.14 oosterlengte 71°58’.20 noorderbreedte; 009°54’.96 oosterlengte 71°37’.56 noorderbreedte; 008°43’.82 oosterlengte 70°43’.16 noorderbreedte; 006°36’.07 oosterlengte 69°36’.62 noorderbreedte; 004°47’.32 oosterlengte 68°58’.32 noorderbreedte; 003°51’.22 oosterlengte 68°14’.99 noorderbreedte; 003°17’.03 oosterlengte 67°25’.80 noorderbreedte; 003°10’.21 oosterlengte 66°49’.73 noorderbreedte; 003°25’.13 oosterlengte 66°25’.93 noorderbreedte; 003°17’.11 oosterlengte 65°22’.72 noorderbreedte; 001°24’.59 oosterlengte 64°25’.97 noorderbreedte; 000°29’.32 westerlengte 63°53’.22 noorderbreedte; 000°29’.44 westerlengte 62°53’.47 noorderbreedte; 000°38’.36 oosterlengte 62°00’.00 noorderbreedte; 001°22’.25 oosterlengte 62°00’.00 noorderbreedte; 004°52’.35 oosterlengte
 
-#### Voorschrift 14. Handboek voor procedures en voorzieningen
+##### Voorschrift 14. Handboek voor procedures en voorzieningen
 
 - 1. Elk schip dat is gecertificeerd om stoffen van categorie X, Y of Z te vervoeren, moet een door de Administratie goedgekeurd Handboek aan boord hebben. Het Handboek dient overeenkomstig [aanhangsel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=4&z=2022-04-01&g=2022-04-01) bij deze Bijlage een standaardformaat te hebben. In het geval van een schip dat internationale reizen maakt waarop de gebruikte taal een andere is dan de Engelse, de Franse of de Spaanse taal gaat de tekst vergezeld van een vertaling in één van deze talen.
 
 - 2. Het Handboek heeft voornamelijk tot doel voor de officieren op het schip vast te stellen wat de fysieke voorzieningen en alle operationele procedures zijn die met betrekking tot het behandelen van lading, het reinigen van tanks, de behandeling van residuen uit sloptanks en het ballasten en ontballasten van ladingtanks in acht dienen te worden genomen teneinde te voldoen aan de vereisten van deze Bijlage.
 
-#### Voorschrift 15. Ladingjournaal
+##### Voorschrift 15. Ladingjournaal
 
 - 1. Elk schip waarop deze Bijlage van toepassing is, dient te zijn voorzien van een Ladingjournaal, hetzij als onderdeel van het scheepsjournaal, als elektronisch journaal dat door de Administratie dient te worden goedgekeurd rekening houdend met de door de Organisatie opgestelde richtlijnen, of anderszins, volgens het model zoals aangegeven in [Aanhangsel II](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=2&z=2022-04-01&g=2022-04-01) bij deze Bijlage.
 
@@ -15284,7 +15306,7 @@ Op verzoek van de kapitein van het schip kan een ontheffing voor het voorwassen 
 
 ### HOOFDSTUK 6. MAATREGELEN TEN BEHOEVE VAN HET TOEZICHT DOOR HAVENSTATEN
 
-#### Voorschrift 16. Maatregelen ten behoeve van het toezicht
+##### Voorschrift 16. Maatregelen ten behoeve van het toezicht
 
 - 1. De Regering van elke Partij bij dit Verdrag benoemt of machtigt inspecteurs, belast met de zorg voor de naleving van dit voorschrift. De inspecteurs oefenen toezicht uit overeenkomstig de door de Organisatie opgestelde controleprocedures.
 
@@ -15318,7 +15340,7 @@ Op verzoek van de kapitein van het schip kan een ontheffing voor het voorwassen 
 
 - 9.4 Geen enkele bepaling van dit voorschrift mag zo worden uitgelegd dat daardoor de rechten en plichten van een Partij die de uitdrukkelijk in dit Verdrag genoemde vereisten met betrekking tot de bedrijfsvoering aan boord controleert, worden beperkt.
 
-#### Voorschrift 17. Rampenplan aan boord van schepen voor verontreiniging van de zee door schadelijke vloeistoffen
+##### Voorschrift 17. Rampenplan aan boord van schepen voor verontreiniging van de zee door schadelijke vloeistoffen
 
 - 1. Elk schip met een bruto-tonnage van 150 of meer dat is gecertificeerd voor het vervoer in bulk van schadelijke vloeistoffen dient een door de Administratie goedgekeurd scheepsnoodplan voor verontreiniging van de zee door schadelijke vloeistoffen aan boord te hebben.
 
@@ -15336,7 +15358,7 @@ Op verzoek van de kapitein van het schip kan een ontheffing voor het voorwassen 
 
 ### HOOFDSTUK 8. ONTVANGSTINRICHTINGEN
 
-#### Voorschrift 18. Ontvangstinrichtingen en losplaatsvoorzieningen
+##### Voorschrift 18. Ontvangstinrichtingen en losplaatsvoorzieningen
 
 - 1. De Regering van elke Partij bij dit Verdrag verbindt zich ertoe, zorg te dragen voor de installatie van ontvangstinrichtingen al naar gelang de behoeften van schepen, die gebruik maken van haar havens, laad- en losplaatsen of scheepsreparatiehavens, en wel als volgt:
 
@@ -15362,11 +15384,11 @@ Op verzoek van de kapitein van het schip kan een ontheffing voor het voorwassen 
 
 - 5. Elke Partij geeft kennis aan de Organisatie, ter mededeling aan de betrokken Partijen, van ieder geval waarin wordt beweerd dat de krachtens het bepaalde in lid 1 van dit voorschrift vereiste inrichtingen of de krachtens het bepaalde in lid 3 van dit voorschrift vereiste voorzieningen ontoereikend zijn.
 
-#### Voorschrift 19. Toepassing
+##### Voorschrift 19. Toepassing
 
 De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering van hun verplichtingen en verantwoordelijkheden zoals vervat in deze Bijlage.
 
-#### Voorschrift 20. Verificatie van de naleving
+##### Voorschrift 20. Verificatie van de naleving
 
 1. Elke partij wordt onderworpen aan een periodieke audit door de Organisatie in overeenstemming met de auditnorm teneinde naleving en implementatie van deze Bijlage te verifiëren.
 
@@ -15382,7 +15404,7 @@ De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering v
 
 ### HOOFDSTUK 10. INTERNATIONALE CODE VOOR SCHEPEN DIE IN POLAIRE WATEREN VAREN
 
-#### Voorschrift 21. Begripsomschrijvingen
+##### Voorschrift 21. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage:
 
@@ -15396,7 +15418,7 @@ Voor de toepassing van deze Bijlage:
 
 - 3. wordt onder **polaire wateren** verstaan de Arctische wateren en/of het Antarctisch gebied.
 
-#### Voorschrift 22. Toepassing en vereisten
+##### Voorschrift 22. Toepassing en vereisten
 
 1. Dit hoofdstuk is van toepassing op alle schepen die gecertificeerd zijn om schadelijke vloeistoffen in bulk te vervoeren die in polaire wateren varen.
 
@@ -15404,7 +15426,7 @@ Voor de toepassing van deze Bijlage:
 
 3. Bij de toepassing van hoofdstuk 2 van deel II-A van de Polar Code moet rekening worden gehouden met de aanvullende richtlijnen van deel II-B van de Polar Code.
 
-#### Voorschrift 1. Begripsomschrijvingen
+##### Voorschrift 1. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage wordt verstaan onder:
 
@@ -15420,7 +15442,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 - 6. **Auditnorm,** de Implementatiecode.
 
-#### Voorschrift 2. Toepassing
+##### Voorschrift 2. Toepassing
 
 1. Tenzij uitdrukkelijk anders is bepaald, zijn de voorschriften van deze Bijlage van toepassing op alle schepen die schadelijke stoffen vervoeren in verpakte vorm.
 
@@ -15432,37 +15454,37 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 5. De vereisten van deze Bijlage gelden niet voor voorraden en uitrusting aan boord van schepen.
 
-#### Voorschrift 3. Verpakking
+##### Voorschrift 3. Verpakking
 
 Verpakkingen dienen, met het oog op hun specifieke inhoud, toereikend te zijn om het gevaar voor het mariene milieu tot een minimum te beperken.
 
-#### Voorschrift 4. Merken en etiketteren
+##### Voorschrift 4. Merken en etiketteren
 
 1. Verpakkingen die een schadelijke stof bevatten dienen duurzaam te zijn gemerkt of geëtiketteerd teneinde in overeenstemming met de relevante bepalingen van de IMDG-Code aan te geven dat de stof een schadelijke stof is.
 
 2. De wijze van merken of het aanbrengen van etiketten op verpakkingen die een schadelijke stof bevatten dient te voldoen aan de relevante bepalingen van de IMDG-Code.
 
-#### Voorschrift 5. Begeleidende papieren
+##### Voorschrift 5. Begeleidende papieren
 
 1. Transportinformatie over het vervoer van schadelijke stoffen dient te voldoen aan de relevante bepalingen van de IMDG-Code en dient ter beschikking te worden gesteld van de door de autoriteit van de havenstaat aangewezen persoon of organisatie.
 
 2. Op elk schip dat schadelijke stoffen vervoert dient een bijzondere lijst, een manifest of een gedetailleerd stuwplan aanwezig te zijn waarin in overeenstemming met de relevante bepalingen van de IMDG-Code de schadelijke stoffen aan boord en de locatie ervan zijn vermeld. Voor vertrek dient een afschrift van een van deze documenten aan de door de autoriteit van de havenstaat aangewezen persoon of organisatie ter beschikking te worden gesteld.
 
-#### Voorschrift 6. Stuwen
+##### Voorschrift 6. Stuwen
 
 Schadelijke stoffen dienen op de juiste wijze te worden gestuwd en vastgezet, ter beperking van de gevaren voor het mariene milieu, zonder afbreuk te doen aan de veiligheid van het schip en de zich aan boord bevindende personen.
 
-#### Voorschrift 7. Beperkingen van hoeveelheid
+##### Voorschrift 7. Beperkingen van hoeveelheid
 
 Om gegronde wetenschappelijke en technische redenen kan het vervoer van bepaalde schadelijke stoffen worden verboden of de hoeveelheid die aan boord van een schip mag worden vervoerd, worden beperkt. Bij het beperken van de hoeveelheid dient naar behoren aandacht te worden geschonken aan de grootte, de constructie en de uitrusting van het schip, alsmede aan de verpakking en de aard van de stoffen.
 
-#### Voorschrift 8. Uitzonderingen
+##### Voorschrift 8. Uitzonderingen
 
 1. Het overboord zetten van schadelijke stoffen die worden vervoerd in verpakte vorm is verboden, behalve wanneer dit noodzakelijk is om de veiligheid van het schip te verzekeren of om mensenlevens op zee te redden.
 
 2. Behoudens de bepalingen van dit Verdrag dienen op grond van de fysische, chemische en biologische eigenschappen van schadelijke stoffen passende maatregelen te worden genomen om het overboord spoelen van zulke door lekkage vrijgekomen stoffen te regelen, mits de uitvoering van deze maatregelen de veiligheid van het schip en van de zich aan boord bevindende personen niet in gevaar brengt.
 
-#### Voorschrift 9. Door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
+##### Voorschrift 9. Door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
 
 1. Een schip dat zich in een haven of een laad- of losplaats buitengaats van een andere partij bevindt wordt geïnspecteerd door ambtenaren die door die partij naar behoren zijn gemachtigd om te controleren of voldaan wordt aan de in deze Bijlage bedoelde vereisten met betrekking tot de bedrijfsvoering aan boord.
 
@@ -15472,11 +15494,11 @@ Om gegronde wetenschappelijke en technische redenen kan het vervoer van bepaalde
 
 4. Geen enkele bepaling van dit voorschrift mag zo worden uitgelegd dat daardoor de rechten en plichten van een partij die de uitdrukkelijk in dit Verdrag genoemde vereisten met betrekking tot de bedrijfsvoering aan boord controleert, worden beperkt.
 
-#### Voorschrift 10. Toepassing
+##### Voorschrift 10. Toepassing
 
 De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering van hun verplichtingen en verantwoordelijkheden zoals vervat in deze Bijlage.
 
-#### Voorschrift 11. Verificatie van de naleving
+##### Voorschrift 11. Verificatie van de naleving
 
 1. Elke partij wordt onderworpen aan periodieke audits door de Organisatie in overeenstemming met de auditnorm teneinde de naleving en implementatie van deze Bijlage te verifiëren.
 
@@ -15490,7 +15512,7 @@ De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering v
 
 - .2. vindt periodiek plaats, rekening houdend met de door de Organisatie opgestelde richtlijnen.
 
-#### Voorschrift 14. Door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
+##### Voorschrift 14. Door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
 
 1. Een schip dat zich bevindt in een haven of een laad- of losplaats buitengaats van een andere Partij wordt geïnspecteerd door ambtenaren die door bedoelde Partij naar behoren zijn gemachtigd om te controleren of voldaan is aan de vereisten uit hoofde van deze Bijlage met betrekking tot de bedrijfsvoering aan boord, wanneer er duidelijke gronden zijn om aan te nemen dat de kapitein of de leden van de bemanning niet op de hoogte zijn van de essentiële procedures die aan boord dienen te worden toegepast om verontreiniging door sanitair afval te voorkomen.
 
@@ -15502,11 +15524,11 @@ De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering v
 
 ### HOOFDSTUK 6. VERIFICATIE VAN DE NALEVING VAN DE BEPALINGEN VAN DEZE BIJLAGE
 
-#### Voorschrift 15. Toepassing
+##### Voorschrift 15. Toepassing
 
 De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering van hun verplichtingen en verantwoordelijkheden zoals vervat in deze Bijlage.
 
-#### Voorschrift 16. Verificatie van de naleving
+##### Voorschrift 16. Verificatie van de naleving
 
 1. Elke partij wordt onderworpen aan periodieke audits door de Organisatie in overeenstemming met de auditnorm teneinde de naleving en implementatie van deze Bijlage te verifiëren.
 
@@ -15522,7 +15544,7 @@ De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering v
 
 ### HOOFDSTUK 7. INTERNATIONALE CODE VOOR SCHEPEN DIE IN POLAIRE WATEREN VAREN
 
-#### Voorschrift 1. Begripsomschrijvingen
+##### Voorschrift 1. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage:
 
@@ -15588,11 +15610,11 @@ Voor de toepassing van deze Bijlage wordt onder bijzondere gebieden verstaan: de
 
 - 19. wordt verstaan onder **elektronisch journaal**, een door de Administratie goedgekeurd apparaat of systeem dat, in plaats van een papieren journaal, gebruikt wordt voor het elektronisch vastleggen van de vereiste aantekeningen voor lozingen, overbrengingen en overige operaties zoals vereist ingevolge deze Bijlage.
 
-#### Voorschrift 2. Toepassing
+##### Voorschrift 2. Toepassing
 
 Tenzij uitdrukkelijk anders bepaald, zijn de bepalingen van deze Bijlage van toepassing op alle schepen.
 
-#### Voorschrift 3. Algemeen verbod op het lozen van vuilnis in zee
+##### Voorschrift 3. Algemeen verbod op het lozen van vuilnis in zee
 
 1. Het lozen van alle vuilnis in zee is verboden, tenzij in de [voorschriften 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&hoofdstuk=1&artikel=4&z=2022-04-01&g=2022-04-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&hoofdstuk=1&artikel=5&z=2022-04-01&g=2022-04-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&hoofdstuk=1&artikel=6&z=2022-04-01&g=2022-04-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&hoofdstuk=1&artikel=7&z=2022-04-01&g=2022-04-01) van deze Bijlage en sectie 5.2 van deel II-A van de Polar Code, zoals omschreven in [voorschrift 13.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&hoofdstuk=3&artikel=13&z=2022-04-01&g=2022-04-01) van deze Bijlage anders is bepaald.
 
@@ -15600,7 +15622,7 @@ Tenzij uitdrukkelijk anders bepaald, zijn de bepalingen van deze Bijlage van toe
 
 3. Het lozen in zee van bak- en braadolie is verboden, uitgezonderd zoals voorzien in [voorschrift 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&hoofdstuk=1&artikel=7&z=2022-04-01&g=2022-04-01) van deze Bijlage.
 
-#### Voorschrift 4. Lozen van vuilnis buiten bijzondere gebieden
+##### Voorschrift 4. Lozen van vuilnis buiten bijzondere gebieden
 
 1. Behoudens de bepalingen van de [voorschriften 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&hoofdstuk=1&artikel=5&z=2022-04-01&g=2022-04-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&hoofdstuk=1&artikel=6&z=2022-04-01&g=2022-04-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&hoofdstuk=1&artikel=7&z=2022-04-01&g=2022-04-01) van deze Bijlage, is het lozen in zee van het onderstaande vuilnis buiten bijzondere gebieden uitsluitend toegestaan wanneer het schip onderweg is en zo ver als mogelijk van het dichtstbijzijnde land, maar in ieder geval niet minder dan:
 
@@ -15618,13 +15640,13 @@ Tenzij uitdrukkelijk anders bepaald, zijn de bepalingen van deze Bijlage van toe
 
 4. Wanneer vuilnis is vermengd met of verontreinigd door andere stoffen waarvan de lozing verboden of aan andere vereisten gebonden is, zijn de strengere vereisten van toepassing.
 
-#### Voorschrift 5. Bijzondere vereisten voor het lozen van vuilnis vanaf vaste of drijvende platforms
+##### Voorschrift 5. Bijzondere vereisten voor het lozen van vuilnis vanaf vaste of drijvende platforms
 
 1. Behoudens de bepalingen van paragraaf 2 van dit voorschrift, is het verboden vuilnis in zee te lozen vanaf vaste of drijvende platforms alsmede vanaf alle andere schepen die zich naast of binnen 500 meter van dergelijke platforms bevinden.
 
 2. Er mogen wel voedselresten in zee worden geloosd vanaf vaste of drijvende platforms die zich op meer dan 12 zeemijlen van het dichtstbijzijnde land bevinden en vanaf alle andere schepen die zich naast of binnen 500 meter van dergelijke platforms bevinden, op voorwaarde dat de voedselresten door een afbreek- of maalinstallatie zijn gevoerd. Deze afgebroken of gemalen voedselresten dienen een rooster met gaten van maximaal 25 mm doorsnee te kunnen passeren.
 
-#### Voorschrift 6. Lozen van vuilnis binnen bijzondere gebieden
+##### Voorschrift 6. Lozen van vuilnis binnen bijzondere gebieden
 
 1. Het lozen van het onderstaande vuilnis in zee binnen bijzondere gebieden is uitsluitend toegestaan wanneer het schip onderweg is en op de volgende wijze:
 
@@ -15654,7 +15676,7 @@ Tenzij uitdrukkelijk anders bepaald, zijn de bepalingen van deze Bijlage van toe
 
 4. Wanneer vuilnis is vermengd met of verontreinigd door andere stoffen waarvan de lozing verboden of aan andere vereisten gebonden is, zijn de strengere vereisten van toepassing.
 
-#### Voorschrift 7. Uitzonderingen
+##### Voorschrift 7. Uitzonderingen
 
 1. De [voorschriften 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&hoofdstuk=1&artikel=3&z=2022-04-01&g=2022-04-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&hoofdstuk=1&artikel=4&z=2022-04-01&g=2022-04-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&hoofdstuk=1&artikel=5&z=2022-04-01&g=2022-04-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&hoofdstuk=1&artikel=6&z=2022-04-01&g=2022-04-01) van deze Bijlage en sectie 5.2 van hoofdstuk 5 van deel II-A van de Polar Code zijn niet van toepassing op:
 
@@ -15670,7 +15692,7 @@ Tenzij uitdrukkelijk anders bepaald, zijn de bepalingen van deze Bijlage van toe
 
 - .1. De vereisten voor schepen die onderweg zijn in de [voorschriften 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=1&artikel=4&z=2022-04-01&g=2022-04-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&hoofdstuk=1&artikel=6&z=2022-04-01&g=2022-04-01) van deze Bijlage en van hoofdstuk 5 van deel II-A van de Polar Code, zijn niet van toepassing op het lozen van voedselresten wanneer duidelijk is dat het aan boord houden van deze voedselresten een direct risico voor de gezondheid van de opvarenden oplevert.
 
-#### Voorschrift 8. Ontvangstinstallaties
+##### Voorschrift 8. Ontvangstinstallaties
 
 1. Elke partij verbindt zich ertoe te waarborgen dat havens en laad- en losplaatsen zijn voorzien van toereikende installaties voor het in ontvangst nemen van vuilnis, zonder onnodig oponthoud van schepen te veroorzaken, volgens de behoeften van de schepen die er gebruik van maken.
 
@@ -15692,7 +15714,7 @@ De Regering van elke Partij die deelneemt aan de regeling overlegt met de Organi
 
 3. Elke partij stelt de Organisatie in kennis van alle gevallen waarin de installaties die ingevolge de bepalingen van dit voorschrift zijn aangebracht, als ontoereikend worden aangemerkt, waarna de Organisatie de betrokken Verdragsluitende Partijen op de hoogte stelt.
 
-#### Voorschrift 9. Havenstaatcontrole op operationele vereisten
+##### Voorschrift 9. Havenstaatcontrole op operationele vereisten
 
 1. Een schip dat zich bevindt in een haven of een laad- of losplaats buitengaats van een andere partij wordt onderworpen aan inspectie door ambtenaren die door bedoelde partij naar behoren zijn gemachtigd om te controleren of voldaan is aan de in deze Bijlage bedoelde operationele vereisten, wanneer er gegronde redenen zijn om aan te nemen dat de kapitein of de leden van de bemanning niet op de hoogte zijn van de essentiële procedures die aan boord dienen te worden toegepast om verontreiniging door vuilnis te voorkomen.
 
@@ -15702,7 +15724,7 @@ De Regering van elke Partij die deelneemt aan de regeling overlegt met de Organi
 
 4. Geen enkele bepaling van dit voorschrift mag zo worden uitgelegd dat daardoor de rechten en plichten van een partij die de uitdrukkelijk in dit Verdrag genoemde operationele vereisten aan boord controleert, worden beperkt.
 
-#### Voorschrift 10. Plakkaten, vuilnisbeheerplannen en het bijhouden van het vuilnisjournaal
+##### Voorschrift 10. Plakkaten, vuilnisbeheerplannen en het bijhouden van het vuilnisjournaal
 
 - .1. Elk schip met een lengte over alles van 12 meter of meer en elk vast of drijvend platform dient plakkaten te tonen die de bemanning en de passagiers informeren over de lozingsvoorwaarden in de [voorschriften 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&hoofdstuk=1&artikel=3&z=2022-04-01&g=2022-04-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&hoofdstuk=1&artikel=4&z=2022-04-01&g=2022-04-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&hoofdstuk=1&artikel=5&z=2022-04-01&g=2022-04-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&hoofdstuk=1&artikel=6&z=2022-04-01&g=2022-04-01) van deze Bijlage en sectie 5.2 van deel II-A van de Polar Code, voor zover van toepassing.
 
@@ -15736,11 +15758,11 @@ De Regering van elke Partij die deelneemt aan de regeling overlegt met de Organi
 
 ### HOOFDSTUK 2. VERIFICATIE VAN DE NALEVING VAN DE BEPALINGEN VAN DEZE BIJLAGE
 
-#### Voorschrift 11. Toepassing
+##### Voorschrift 11. Toepassing
 
 De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering van hun verplichtingen en verantwoordelijkheden zoals vervat in deze Bijlage.
 
-#### Voorschrift 12. Verificatie van de naleving
+##### Voorschrift 12. Verificatie van de naleving
 
 1. Elke partij wordt onderworpen aan periodieke audits door de Organisatie in overeenstemming met de auditnorm teneinde de naleving en implementatie van deze Bijlage te verifiëren.
 
@@ -15756,7 +15778,7 @@ De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering v
 
 ### HOOFDSTUK 3. INTERNATIONALE CODE VOOR SCHEPEN DIE IN POLAIRE WATEREN VAREN
 
-#### Voorschrift 13. Begripsomschrijvingen
+##### Voorschrift 13. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage:
 
@@ -15770,7 +15792,7 @@ Voor de toepassing van deze Bijlage:
 
 - 3. wordt onder **polaire wateren** verstaan de Arctische wateren en/of het Antarctisch gebied.
 
-#### Voorschrift 14. Toepassing en vereisten
+##### Voorschrift 14. Toepassing en vereisten
 
 1. Dit hoofdstuk is van toepassing op alle schepen waarop deze Bijlage van toepassing is die in polaire wateren varen.
 
@@ -15780,11 +15802,11 @@ Voor de toepassing van deze Bijlage:
 
 ### HOOFDSTUK 1. ALGEMEEN
 
-#### Voorschrift 1. Toepassing
+##### Voorschrift 1. Toepassing
 
 De bepalingen van deze Bijlage zijn van toepassing op alle schepen, tenzij uitdrukkelijk anders is bepaald.
 
-#### Voorschrift 2. Begripsomschrijvingen
+##### Voorschrift 2. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage:
 
@@ -15950,7 +15972,7 @@ Voor de toepassing van [Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBV000
 
 - 56. wordt onder **aan-boord-monster** verstaan een monster van brandstofolie die bestemd is of wordt vervoerd voor gebruik aan boord van dat schip.
 
-#### Voorschrift 3. Uitzonderingen en vrijstellingen
+##### Voorschrift 3. Uitzonderingen en vrijstellingen
 
 1. De voorschriften van deze Bijlage zijn niet van toepassing op:
 
@@ -15980,7 +16002,7 @@ Voor de toepassing van [Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBV000
 
 3.2. De vereisten van [voorschrift 18](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=3&artikel=18&z=2022-04-01&g=2022-04-01) van deze Bijlage zijn niet van toepassing op het gebruik van koolwaterstoffen die ter plaatse worden geproduceerd en vervolgens worden gebruikt als brandstof, indien goedgekeurd door de Administratie.
 
-#### Voorschrift 4. Gelijkwaardige voorzieningen
+##### Voorschrift 4. Gelijkwaardige voorzieningen
 
 1. De Administratie van een Partij kan toestaan dat installaties, materialen, middelen of toestellen worden aangebracht op een schip of dat er andere procedures, brandstofolie of methodes worden gebruikt dan degene die worden vereist door deze Bijlage, indien dergelijke installaties, materialen, middelen of toestellen, procedures, brandstofolie of methoden wat betreft emissiebeperking ten minste even doeltreffend zijn als degene die door deze Bijlage, met inbegrip van de normen vervat in de [voorschriften 13](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=3&artikel=13&z=2022-04-01&g=2022-04-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=3&artikel=14&z=2022-04-01&g=2022-04-01), worden vereist.
 
@@ -15992,7 +16014,7 @@ Voor de toepassing van [Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBV000
 
 ### HOOFDSTUK 2. ONDERZOEK, CERTIFICERING EN CONTROLEMIDDELEN
 
-#### Voorschrift 5. Onderzoeken
+##### Voorschrift 5. Onderzoeken
 
 1. Ieder schip met een brutotonnage van 400 of meer, alsmede iedere vaste en drijvende boorinstallatie en ander platform wordt onderworpen aan de hieronder aangegeven onderzoeken teneinde te waarborgen dat aan de vereisten van [Hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=3&z=2022-04-01&g=2022-04-01) wordt voldaan:
 
@@ -16034,7 +16056,7 @@ Voor de toepassing van [Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBV000
 
 6. Wanneer een schip bij een ongeval betrokken raakt, of er gebreken worden geconstateerd waardoor de doelmatigheid of volledigheid van de uitrusting waarop deze Bijlage van toepassing is, wezenlijk worden beïnvloed, dient de kapitein of de eigenaar van het schip de Administratie, een aangewezen inspecteur of erkende organisatie die verantwoordelijk is voor de afgifte van het betrokken certificaat zo spoedig mogelijk in te lichten.
 
-#### Voorschrift 6. Afgifte van of aantekening op certificaten en conformverklaringen inzake het rapporteren van het brandstofolieverbruik
+##### Voorschrift 6. Afgifte van of aantekening op certificaten en conformverklaringen inzake het rapporteren van het brandstofolieverbruik
 
 1. Een Internationaal certificaat betreffende voorkoming van luchtverontreiniging wordt afgegeven na een eerste of hernieuwd onderzoek in overeenstemming met de bepalingen van [voorschrift 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=2&artikel=5&z=2022-04-01&g=2022-04-01) van deze Bijlage aan:
 
@@ -16054,7 +16076,7 @@ Voor de toepassing van [Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBV000
 
 7. Na ontvangst van de ingevolge de [voorschriften 22A.4, 22A.5 of 22A.6](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=4&artikel=22A&z=2022-04-01&g=2022-04-01) van deze Bijlage gerapporteerde gegevens bepaalt de Administratie of een door haar naar behoren gemachtigde organisatie onverwijld of de gegevens in overeenstemming met voorschrift 22A gerapporteerd zijn, en geeft, indien dit het geval is, op dat tijdstip ten behoeve van het schip een conformverklaring inzake brandstofolieverbruik af. In alle gevallen neemt de Administratie de volle verantwoordelijkheid voor de conformverklaring op zich.
 
-#### Voorschrift 7. Afgifte van een certificaat door een andere partij
+##### Voorschrift 7. Afgifte van een certificaat door een andere partij
 
 1. Een partij kan een schip op verzoek van de Administratie doen onderzoeken en, indien te haren genoegen vaststaat dat aan de van toepassing zijnde bepalingen van deze Bijlage wordt voldaan, een Internationaal certificaat betreffende voorkoming van luchtverontreiniging of een Internationaal certificaat betreffende energie-efficiëntie aan het schip afgeven of hiervoor toestemming geven, en waar van toepassing een aantekening op dergelijke certificaten van het schip plaatsen of hiervoor toestemming geven, in overeenstemming met deze Bijlage.
 
@@ -16064,7 +16086,7 @@ Voor de toepassing van [Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBV000
 
 4. Er wordt geen Internationaal certificaat betreffende voorkoming van luchtverontreiniging of Internationaal certificaat betreffende energie-efficiëntie afgegeven aan een schip dat gerechtigd is de vlag te voeren van een Staat die geen partij is.
 
-#### Voorschrift 8. Model van de certificaten en conformverklaringen inzake het rapporteren van het brandstofolieverbruik
+##### Voorschrift 8. Model van de certificaten en conformverklaringen inzake het rapporteren van het brandstofolieverbruik
 
 1. Het Internationaal certificaat betreffende voorkoming van luchtverontreiniging wordt opgesteld overeenkomstig het model opgenomen in aanhangsel I bij deze Bijlage en dient ten minste in de Engelse, de Franse of de Spaanse taal te zijn gesteld. Indien tevens de officiële taal van het land van afgifte wordt gebruikt, is deze doorslaggevend bij geschillen of tegenstrijdigheden.
 
@@ -16072,7 +16094,7 @@ Voor de toepassing van [Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBV000
 
 3. De conformverklaring ingevolge de [voorschriften 6.6 en 6.7](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=III&hoofdstuk=1&artikel=6&z=2022-04-01&g=2022-04-01) van deze Bijlage wordt opgesteld overeenkomstig het model opgenomen in [Aanhangsel X](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=X&z=2022-04-01&g=2022-04-01) bij deze Bijlage en dient ten minste in de Engelse, de Franse of de Spaanse taal te zijn gesteld. Indien tevens de officiële taal van de partij van afgifte wordt gebruikt, is deze doorslaggevend bij geschillen of tegenstrijdigheden.
 
-#### Voorschrift 9. Looptijd en geldigheid van certificaten en conformverklaringen inzake het rapporteren van het brandstofolieverbruik
+##### Voorschrift 9. Looptijd en geldigheid van certificaten en conformverklaringen inzake het rapporteren van het brandstofolieverbruik
 
 1. Een Internationaal certificaat betreffende voorkoming van luchtverontreiniging wordt afgegeven voor een door de Administratie vastgesteld tijdvak van ten hoogste vijf jaar.
 
@@ -16120,7 +16142,7 @@ Voor de toepassing van [Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBV000
 
 12. De conformverklaring ingevolge [voorschrift 6.6](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=2&artikel=6&z=2022-04-01&g=2022-04-01) van deze Bijlage is geldig gedurende het kalenderjaar waarin zij is afgegeven en gedurende de eerste vijf maanden van het daaropvolgende kalenderjaar. De conformverklaring ingevolge voorschrift 6.7 van deze Bijlage is geldig gedurende het kalenderjaar waarin zij is afgegeven, gedurende het daaropvolgende kalenderjaar en de eerste vijf maanden van het kalenderjaar dat daarop volgt. Alle conformverklaringen dienen ten minste gedurende hun geldigheidstermijn aan boord te worden bewaard.
 
-#### Voorschrift 10. Havenstaatcontrole op operationele vereisten
+##### Voorschrift 10. Havenstaatcontrole op operationele vereisten
 
 1. Een schip dat zich bevindt in een haven of een laad- of losplaats buitengaats onder de rechtsmacht van een andere Partij wordt geïnspecteerd door ambtenaren die door bedoelde Partij naar behoren zijn gemachtigd om te controleren of is voldaan aan de in deze Bijlage bedoelde vereisten met betrekking tot de bedrijfsvoering aan boord, wanneer er duidelijke gronden zijn om aan te nemen dat de kapitein of de leden van de bemanning niet op de hoogte zijn van de essentiële werkwijzen die aan boord dienen te worden toegepast om luchtverontreiniging door schepen te voorkomen.
 
@@ -16132,7 +16154,7 @@ Voor de toepassing van [Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBV000
 
 5. Met betrekking tot [Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=4&z=2022-04-01&g=2022-04-01) is elke havenstaatinspectie beperkt tot het verifiëren, wanneer van toepassing, of er een geldig conformverklaring inzake het rapporteren van het brandstofolieverbruik en Internationaal certificaat betreffende energie-efficiëntie aan boord zijn in overeenstemming met [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=2&artikel=5&z=2022-04-01&g=2022-04-01) van het Verdrag.
 
-#### Voorschrift 11. Opsporing van overtredingen en handhaving
+##### Voorschrift 11. Opsporing van overtredingen en handhaving
 
 1. De Partijen werken samen bij de opsporing van overtredingen en de handhaving van de bepalingen van deze Bijlage, daarbij gebruikmakend van alle passende en uitvoerbare maatregelen van opsporing en milieubewaking en van doeltreffende methoden voor het rapporteren en verzamelen van bewijsmateriaal.
 
@@ -16148,7 +16170,7 @@ Voor de toepassing van [Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBV000
 
 ### HOOFDSTUK 3. VEREISTEN VOOR BEHEERSING VAN EMISSIES DOOR SCHEPEN
 
-#### Voorschrift 12. Ozonafbrekende stoffen
+##### Voorschrift 12. Ozonafbrekende stoffen
 
 1. Dit voorschrift is niet van toepassing op permanent verzegelde uitrusting indien er geen aansluitingen zijn voor de toevoer van koelvloeistof of verwijderbare onderdelen die ozonafbrekende stoffen bevatten.
 
@@ -16188,7 +16210,7 @@ Voor de toepassing van [Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBV000
 
 - .5. levering van ozonafbrekende stoffen aan het schip.
 
-#### Voorschrift 13. Stikstofoxiden (NOx)
+##### Voorschrift 13. Stikstofoxiden (NOx)
 
 1.1. Dit voorschrift is van toepassing op:
 
@@ -16324,7 +16346,7 @@ Voor de toepassing van [Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBV000
 
 9. De procedures voor het vaststellen van de NOx-emissie vervat in de herziene NOx Technische Code 2008 dienen representatief te zijn voor het normale functioneren van de motor. Manipulatievoorzieningen en abnormale emissiebeperkende strategieën ondermijnen dat doel en zijn niet toegestaan. Dit voorschrift belet niet het gebruik van beheersingshulpvoorzieningen die worden gebruikt om de motor en/of de hulpapparatuur te beschermen tegen bedrijfsomstandigheden die tot beschadiging of uitval kunnen leiden of om het starten van de motor te vergemakkelijken.
 
-#### Voorschrift 14. Zwaveloxides (SOx) en fijnstof
+##### Voorschrift 14. Zwaveloxides (SOx) en fijnstof
 
 1. Het zwavelgehalte van brandstofolie die wordt gebruikt aan boord van een schip mag niet hoger zijn dan 0,5% m/m.
 
@@ -16362,7 +16384,7 @@ Het aan-boord-monster wordt genomen rekening houdend met de door de Organisatie 
 
 13. De bevoegde autoriteit van een Partij gebruikt, naargelang van toepassing, het bemonsteringspunt of de bemonsteringspunten dat is of die zijn aangewezen voor het nemen van representatieve monsters van de brandstofolie die aan boord wordt gebruikt teneinde te verifiëren of de brandstofolie voldoet aan dit voorschrift. Het nemen van brandstofoliemonsters door de bevoegde autoriteit van de Partij dient zo spoedig mogelijk te geschieden zonder onnodig oponthoud voor het schip te veroorzaken.
 
-#### Voorschrift 15. Vluchtige organische stoffen (VOS)
+##### Voorschrift 15. Vluchtige organische stoffen (VOS)
 
 1. Indien de emissie van VOS door tankschepen binnen een haven of havens of laad- of losplaatsen onder de rechtsmacht van een Partij dient te worden gereguleerd, geschiedt dat in overeenstemming met de bepalingen van dit voorschrift.
 
@@ -16386,7 +16408,7 @@ Het aan-boord-monster wordt genomen rekening houdend met de door de Organisatie 
 
 7. Dit voorschrift is alleen mede van toepassing op gasschepen wanneer het type laad-, en opslagsystemen voor de veilige opslag aan boord of het veilig terugbrengen aan land van VOS (met uitzondering van methaan) mogelijk maakt.
 
-#### Voorschrift 16. Verbranding aan boord
+##### Voorschrift 16. Verbranding aan boord
 
 1. Behalve zoals bepaald in het vierde lid van dit voorschrift is verbranding aan boord alleen toegestaan in een verbrandingsinstallatie aan boord.
 
@@ -16424,7 +16446,7 @@ Het aan-boord-monster wordt genomen rekening houdend met de door de Organisatie 
 
 9. Voor in overeenstemming met lid 6.1 van dit voorschrift geïnstalleerde verbrandingsinstallaties dient de uitlaattemperatuur van de verbrandingskamer voortdurend te worden gemeten wanneer de eenheid in bedrijf is. Indien de verbrandingsinstallatie voorzien is van doorlopende toevoer, mag er geen afval aan de installatie worden toegevoerd wanneer de uitlaattemperatuur van de verbrandingskamer lager is dan 850°C. Bij verbrandingsinstallaties met toevoer in partijen, dient de eenheid zodanig te zijn ontworpen dat de uitlaattemperatuur van de verbrandingskamer binnen vijf minuten na inschakeling 600°C heeft bereikt om vervolgens te stijgen tot en stabiel te blijven op ten minste 850°C.
 
-#### Voorschrift 17. Ontvangstinrichtingen
+##### Voorschrift 17. Ontvangstinrichtingen
 
 1. Elke Partij verbindt zich ertoe zorg te dragen voor het beschikbaar zijn van toereikende inrichtingen die voorzien in de:
 
@@ -16448,7 +16470,7 @@ De Regering van elke Partij die deelneemt aan de regeling overlegt met de Organi
 
 3. Elke Partij stelt de Organisatie ter mededeling aan de leden van de Organisatie in kennis van alle gevallen waarin de desbetreffende voorzieningen niet beschikbaar zijn of als ontoereikend worden aangemerkt.
 
-#### Voorschrift 18. Beschikbaarheid en kwaliteit van brandstofolie
+##### Voorschrift 18. Beschikbaarheid en kwaliteit van brandstofolie
 
 1. Elke Partij neemt alle redelijke stappen om de beschikbaarheid van brandstofolie die voldoet aan deze Bijlage te bevorderen en stelt de Organisatie in kennis van de beschikbaarheid van geschikte brandstofolie in haar havens en laad- en losplaatsen.
 
@@ -16534,7 +16556,7 @@ De Regering van elke Partij die deelneemt aan de regeling overlegt met de Organi
 
 ### HOOFDSTUK 4. VOORSCHRIFTEN INZAKE ENERGIE-EFFICIËNTIE VOOR SCHEPEN
 
-#### Voorschrift 19. Toepassing
+##### Voorschrift 19. Toepassing
 
 1. Dit Hoofdstuk is van toepassing op alle schepen met een brutotonnage van 400 of meer.
 
@@ -16560,7 +16582,7 @@ De Regering van elke Partij die deelneemt aan de regeling overlegt met de Organi
 
 6. De Administratie van een partij bij dit Verdrag die toepassing van paragraaf 4 toestaat, of de toepassing van deze paragraaf opschort, intrekt of afwijst, met betrekking tot een schip dat gerechtigd is haar vlag te voeren, doet de Organisatie onverwijld de bijzonderheden daarvan toekomen voor toezending aan de partijen bij dit Protocol ter kennisneming.
 
-#### Voorschrift 20. Bereikte ontwerpindex voor energie-efficiëntie (Bereikte EEDI)
+##### Voorschrift 20. Bereikte ontwerpindex voor energie-efficiëntie (Bereikte EEDI)
 
 1. De bereikte EEDI wordt berekend voor:
 
@@ -16578,7 +16600,7 @@ De Regering van elke Partij die deelneemt aan de regeling overlegt met de Organi
 
 - .2. binnen 7 maanden na 1 april 2022 voor een schip opgeleverd vóór 1 april 2022.
 
-#### Voorschrift 21. Vereiste EEDI
+##### Voorschrift 21. Vereiste EEDI
 
 1. Voor elk:
 
@@ -16660,7 +16682,7 @@ waarbij a, b en c de in tabel 2 gegeven parameters zijn.
 
 6. Bij aanvang van fase 1 en halverwege fase 2 toetst de Organisatie de status van de technologische ontwikkelingen en past, wanneer dat nodig blijkt, de in dit voorschrift voorziene termijnen, parameters voor de EEDI-referentielijn voor relevante scheepstypen en reductiepercentages aan.
 
-#### Voorschrift 22. Energie-efficiëntiemanagementplan van het schip (SEEMP)
+##### Voorschrift 22. Energie-efficiëntiemanagementplan van het schip (SEEMP)
 
 1. Elk schip dient een op het schip van toepassing zijnd energie-efficiëntiemanagementplan (SEEMP) aan boord te hebben. Dit kan onderdeel vormen van het veiligheidsbeleidssysteem (SMS) van het schip.
 
@@ -16668,7 +16690,7 @@ waarbij a, b en c de in tabel 2 gegeven parameters zijn.
 
 3. Het SEEMP moet worden ontwikkeld met inachtneming van de door de Organisatie aangenomen richtsnoeren.
 
-#### Voorschrift 23. Bevordering van technische samenwerking en overdracht van technologie met betrekking tot het verbeteren van de energie-efficiëntie van schepen
+##### Voorschrift 23. Bevordering van technische samenwerking en overdracht van technologie met betrekking tot het verbeteren van de energie-efficiëntie van schepen
 
 1. In samenwerking met de Organisatie en andere internationale organen bevorderen en verstrekken Administraties, al naargelang van toepassing, rechtstreeks of via de Organisatie rechtstreekse steun aan Staten, met name Staten in ontwikkeling, die om technische bijstand verzoeken.
 
@@ -16676,7 +16698,7 @@ waarbij a, b en c de in tabel 2 gegeven parameters zijn.
 
 ### HOOFDSTUK 5. VERIFICATIE VAN DE NALEVING VAN DE BEPALINGEN VAN DEZE BIJLAGE
 
-#### Voorschrift 24. Vereiste EEDI
+##### Voorschrift 24. Vereiste EEDI
 
 1. Voor elk:
 
@@ -16761,7 +16783,7 @@ waarbij a, b en c de in tabel 2 gegeven parameters zijn.
 
 6. Bij aanvang van fase 1 en halverwege fase 2 toetst de Organisatie de status van de technologische ontwikkelingen en past, wanneer dat nodig blijkt, de in dit voorschrift voorziene termijnen, parameters voor de EEDI-referentielijn voor relevante scheepstypen en reductiepercentages aan.
 
-#### Voorschrift 25. Vereiste EEXI
+##### Voorschrift 25. Vereiste EEXI
 
 1. Voor:
 
@@ -16811,7 +16833,7 @@ waarbij Y de in tabel 3 vermelde reductiefactor is voor de vereiste EEXI ten opz
 
 3. Uiterlijk op 1 januari 2026 wordt door de Organisatie een toetsing voltooid om de doeltreffendheid van dit voorschrift te beoordelen, rekening houdend met eventuele door de Organisatie ontwikkelde richtlijnen. Indien de Partijen op basis van de toetsing besluiten wijzigingen van dit voorschrift aan te nemen, worden zij aangenomen en treden zij in werking in overeenstemming met de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&artikel=16&z=2026-03-01&g=2026-03-01) van dit Verdrag vervatte bepalingen.
 
-#### 1. Doelstellingen
+##### 1. Doelstellingen
 
 1.1. Doel van dit aanhangsel is de Partijen te voorzien van criteria en procedures voor het formuleren en indienen van voorstellen voor het aanwijzen van gebieden voor emissiebeheersing en de factoren te benoemen die bij de beoordeling van deze voorstellen door de Organisatie in aanmerking dienen te worden genomen.
 
@@ -16819,13 +16841,13 @@ waarbij Y de in tabel 3 vermelde reductiefactor is voor de vereiste EEXI ten opz
 
 1.3. Aanneming van een gebied voor emissiebeheersing dient door de Organisatie te worden overwogen indien er een aantoonbare noodzaak bestaat tot preventie, reductie en beheersing van de emissie van NOx, SOx en fijnstof of een combinatie ervan (hierna emissies) door schepen.
 
-#### 2. Procedure voor de aanwijzing van gebieden voor emissiebeheersing
+##### 2. Procedure voor de aanwijzing van gebieden voor emissiebeheersing
 
 2.1. Een voorstel aan de Organisatie voor de aanwijzing van een gebied waar de emissie van NOx of SOx en fijnstof of alle drie de typen emissies dient te worden beheerst, kan uitsluitend door de Partijen worden ingediend. Indien twee of meer Partijen een gezamenlijk belang hebben in een specifiek gebied dienen ze gezamenlijk een voorstel in te dienen.
 
 2.2. Een voorstel voor de aanwijzing van een bepaald gebied als gebied voor emissiebeheersing dient te worden ingediend bij de Organisatie in overeenstemming met de door de Organisatie vastgestelde regels en procedures.
 
-#### 3. Criteria voor de aanwijzing van gebieden voor emissiebeheersing
+##### 3. Criteria voor de aanwijzing van gebieden voor emissiebeheersing
 
 3.1. Het voorstel dient onder meer te omvattten:
 
@@ -16847,7 +16869,7 @@ waarbij Y de in tabel 3 vermelde reductiefactor is voor de vereiste EEXI ten opz
 
 3.2. De geografische grenzen van een gebied voor emissiebeheersing dienen gebaseerd te zijn op de bovenomschreven relevante criteria, met inbegrip van de emissies en stortingen door schepen die varen in het voorgestelde gebied, verkeerspatronen en -dichtheid en windomstandigheden.
 
-#### 4. Procedures voor de beoordeling en aanneming van gebieden voor emissiebeheersing door de organisatie
+##### 4. Procedures voor de beoordeling en aanneming van gebieden voor emissiebeheersing door de organisatie
 
 4.1. De Organisatie neemt ieder bij haar door een Partij of Partijen ingediend voorstel in overweging.
 
@@ -16855,7 +16877,7 @@ waarbij Y de in tabel 3 vermelde reductiefactor is voor de vereiste EEXI ten opz
 
 4.3. Een gebied voor emissiebeheersing wordt aangewezen door middel van een wijziging van deze Bijlage in overeenstemming met [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&artikel=16&z=2017-09-01&g=2017-09-01) van dit Verdrag behandeld, aangenomen en in werking gesteld.
 
-#### 5. Functioneren van gebieden voor emissiebeheersing
+##### 5. Functioneren van gebieden voor emissiebeheersing
 
 5.1. Partijen met schepen die varen in het gebied worden aangemoedigd de Organisatie op de hoogte te stellen van eventuele zorgen omtrent het functioneren van het gebied.
 
@@ -16863,7 +16885,7 @@ IN WITNESS WHEREOF the undersigned being duly authorized by their respective Gov
 
 DONE at London this second day of November, one thousand nine hundred and seventy-three.
 
-#### Voorschrift 22A. Verzamelen en rapporteren van gegevens over het brandstofolieverbruik van schepen
+##### Voorschrift 22A. Verzamelen en rapporteren van gegevens over het brandstofolieverbruik van schepen
 
 1. Vanaf het kalenderjaar 2019 dienen voor elk schip van 5000 brutoton of meer de in [Aanhangsel IX](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=IX&z=2022-04-01&g=2022-04-01) van deze Bijlage genoemde gegevens te worden verzameld voor dat kalenderjaar en elk daaropvolgend kalenderjaar of deel daarvan, naargelang van toepassing, volgens de in het SEEMP opgenomen methodiek.
 
@@ -16889,7 +16911,7 @@ DONE at London this second day of November, one thousand nine hundred and sevent
 
 12. De IMO-database Brandstofolieverbruik van schepen wordt opgezet en beheerd door de Secretaris-Generaal van de Organisatie in overeenstemming met de door de Organisatie te ontwikkelen richtsnoeren.
 
-#### Voorschrift 23. Bereikte ontwerpindex voor energie-efficiëntie bestaand schip (Bereikte EEXI)
+##### Voorschrift 23. Bereikte ontwerpindex voor energie-efficiëntie bestaand schip (Bereikte EEXI)
 
 1. De bereikte EEXI wordt berekend voor:
 
@@ -16905,11 +16927,11 @@ dat onder een of meer van de categorieën van de [voorschriften 2.2.5, 2.2.7, 2.
 
 ### HOOFDSTUK 5. VERIFICATIE VAN DE NALEVING VAN DE BEPALINGEN VAN DEZE BIJLAGE
 
-#### Voorschrift 24. Toepassing
+##### Voorschrift 24. Toepassing
 
 De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering van hun verplichtingen en verantwoordelijkheden zoals vervat in deze Bijlage.
 
-#### Voorschrift 25. Verificatie van de naleving
+##### Voorschrift 25. Verificatie van de naleving
 
 1. Elke partij wordt onderworpen aan periodieke audits door de Organisatie in overeenstemming met de auditnorm teneinde de naleving en implementatie van deze Bijlage te verifiëren.
 
@@ -16923,7 +16945,7 @@ De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering v
 
 - .2. vindt periodiek plaats, rekening houdend met de door de Organisatie opgestelde richtlijnen.
 
-#### 1. Doelstellingen
+##### 1. Doelstellingen
 
 1.1. Doel van dit aanhangsel is de Partijen te voorzien van criteria en procedures voor het formuleren en indienen van voorstellen voor het aanwijzen van gebieden voor emissiebeheersing en de factoren te benoemen die bij de beoordeling van deze voorstellen door de Organisatie in aanmerking dienen te worden genomen.
 
@@ -16931,13 +16953,13 @@ De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering v
 
 1.3. Aanneming van een gebied voor emissiebeheersing dient door de Organisatie te worden overwogen indien er een aantoonbare noodzaak bestaat tot preventie, reductie en beheersing van de emissie van NOx, SOx en fijnstof of een combinatie ervan (hierna emissies) door schepen.
 
-#### 2. Procedure voor de aanwijzing van gebieden voor emissiebeheersing
+##### 2. Procedure voor de aanwijzing van gebieden voor emissiebeheersing
 
 2.1. Een voorstel aan de Organisatie voor de aanwijzing van een gebied waar de emissie van NOx of SOx en fijnstof of alle drie de typen emissies dient te worden beheerst, kan uitsluitend door de Partijen worden ingediend. Indien twee of meer Partijen een gezamenlijk belang hebben in een specifiek gebied dienen ze gezamenlijk een voorstel in te dienen.
 
 2.2. Een voorstel voor de aanwijzing van een bepaald gebied als gebied voor emissiebeheersing dient te worden ingediend bij de Organisatie in overeenstemming met de door de Organisatie vastgestelde regels en procedures.
 
-#### 3. Criteria voor de aanwijzing van gebieden voor emissiebeheersing
+##### 3. Criteria voor de aanwijzing van gebieden voor emissiebeheersing
 
 3.1. Het voorstel dient onder meer te omvattten:
 
@@ -16959,7 +16981,7 @@ De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering v
 
 3.2. De geografische grenzen van een gebied voor emissiebeheersing dienen gebaseerd te zijn op de bovenomschreven relevante criteria, met inbegrip van de emissies en stortingen door schepen die varen in het voorgestelde gebied, verkeerspatronen en -dichtheid en windomstandigheden.
 
-#### 4. Procedures voor de beoordeling en aanneming van gebieden voor emissiebeheersing door de organisatie
+##### 4. Procedures voor de beoordeling en aanneming van gebieden voor emissiebeheersing door de organisatie
 
 4.1. De Organisatie neemt ieder bij haar door een Partij of Partijen ingediend voorstel in overweging.
 
@@ -16967,7 +16989,7 @@ De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering v
 
 4.3. Een gebied voor emissiebeheersing wordt aangewezen door middel van een wijziging van deze Bijlage in overeenstemming met [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&artikel=16&z=2022-04-01&g=2022-04-01) van dit Verdrag behandeld, aangenomen en in werking gesteld.
 
-#### 5. Functioneren van gebieden voor emissiebeheersing
+##### 5. Functioneren van gebieden voor emissiebeheersing
 
 5.1. Partijen met schepen die varen in het gebied worden aangemoedigd de Organisatie op de hoogte te stellen van eventuele zorgen omtrent het functioneren van het gebied.
 
@@ -16985,7 +17007,7 @@ Deel 2 – monster van brandstofolie die in gebruik is aan boord van schepen, di
 
 ## Deel 1. – monster uit hoofde van MARPOL
 
-#### 1. Algemene vereisten
+##### 1. Algemene vereisten
 
 1.1. Het representatieve brandstofoliemonster dat uit hoofde van voorschrift 18.8.1 („monster uit hoofde van MARPOL”) verplicht is, wordt gebruikt om het zwavelgehalte van de aan een schip geleverde brandstofolie te verifiëren.
 
@@ -16993,7 +17015,7 @@ Deel 2 – monster van brandstofolie die in gebruik is aan boord van schepen, di
 
 1.3. Een laboratorium dat de in dit aanhangsel vervatte procedure voor de zwaveltest uitvoert dient een geldige accreditatie te hebben voor de gebruikte testmethode.
 
-#### 2. Verificatieprocedure deel 1
+##### 2. Verificatieprocedure deel 1
 
 2.1. De bevoegde autoriteit levert het monster uit hoofde van MARPOL af bij het laboratorium.
 
@@ -17044,7 +17066,7 @@ Deel 2 – monster van brandstofolie die in gebruik is aan boord van schepen, di
 
 ## Deel 2. – Monsters tijdens gebruik en aan boord
 
-#### 3. Algemene vereisten
+##### 3. Algemene vereisten
 
 3.1. Het monster tijdens gebruik of aan boord, naargelang van toepassing, wordt gebruikt om het zwavelgehalte te verifiëren van de brandstofolie zoals vertegenwoordigd door dat brandstofoliemonster op het bemonsteringspunt.
 
@@ -17052,7 +17074,7 @@ Deel 2 – monster van brandstofolie die in gebruik is aan boord van schepen, di
 
 3.3. Een laboratorium dat de in dit aanhangsel vervatte procedure voor de zwaveltest uitvoert dient een geldige accreditatie10 te hebben voor de gebruikte testmethode.
 
-#### 4. Verificatieprocedure deel 2
+##### 4. Verificatieprocedure deel 2
 
 4.1. De bevoegde autoriteit levert het in-gebruik-monster en het aan-boord-monster af bij het laboratorium.
 
@@ -17107,7 +17129,7 @@ IN WITNESS WHEREOF the undersigned being duly authorized by their respective Gov
 
 DONE at London this second day of November, one thousand nine hundred and seventy-three.
 
-#### Voorschrift 43a. Bijzondere vereisten voor het gebruik en het vervoer van olie als brandstof in Arctische wateren
+##### Voorschrift 43a. Bijzondere vereisten voor het gebruik en het vervoer van olie als brandstof in Arctische wateren
 
 1. Met uitzondering van schepen die ingezet worden bij het waarborgen van de veiligheid van schepen of bij een opsporings- en reddingsoperatie, en parate schepen bestemd voor de bestrijding van olielekkages, is het gebruik en vervoer van de olieproducten vermeld in [voorschrift 43.1.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=I&hoofdstuk=9&artikel=43&z=2026-03-01&g=2026-03-01) van deze Bijlage als brandstof voor schepen verboden in Arctische wateren, zoals omschreven in [voorschrift 46.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=I&hoofdstuk=11&artikel=46&z=2026-03-01&g=2026-03-01) van deze Bijlage, op of na 1 juli 2024.
 
@@ -17119,11 +17141,11 @@ DONE at London this second day of November, one thousand nine hundred and sevent
 
 5. De Administratie van een Partij bij dit Verdrag die de toepassing van paragraaf 4 van dit voorschrift toestaat, doet de Organisatie onverwijld de bijzonderheden van de ontheffing toekomen voor toezending aan de Partijen bij dit Verdrag ter kennisneming en voor het eventueel nemen van passende maatregelen.
 
-#### Voorschrift 7. Onderzoek van en afgifte van een certificaat aan chemicaliëntankschepen
+##### Voorschrift 7. Onderzoek van en afgifte van een certificaat aan chemicaliëntankschepen
 
 Chemicaliëntankschepen die zijn onderzocht en waaraan een certificaat is afgegeven door Staten die Partij bij dit Verdrag zijn, overeenkomstig de bepalingen van de IBC-Code of de Code voor chemicaliën in bulk, al naar gelang van toepassing, worden niettegenstaande het bepaalde in de [voorschriften 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=II&hoofdstuk=3&artikel=8&z=2026-03-01&g=2026-03-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=II&hoofdstuk=3&artikel=9&z=2026-03-01&g=2026-03-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=II&hoofdstuk=3&artikel=10&z=2026-03-01&g=2026-03-01) van deze Bijlage geacht te hebben voldaan aan het bepaalde in de genoemde voorschriften, en het krachtens deze Code afgegeven certificaat heeft dezelfde waarde en moet op dezelfde wijze worden erkend als het krachtens het bepaalde in voorschrift 9 van deze Bijlage afgegeven certificaat.
 
-#### Voorschrift 8. Onderzoeken
+##### Voorschrift 8. Onderzoeken
 
 - 1. Schepen die schadelijke vloeistoffen in bulk vervoeren, zijn onderworpen aan de hieronder aangegeven onderzoeken:
 
@@ -17165,7 +17187,7 @@ Chemicaliëntankschepen die zijn onderzocht en waaraan een certificaat is afgege
 
 - 3.3. Wanneer een ongeval plaatsvindt met een schip of gebreken worden geconstateerd waardoor de integriteit van het schip of de doelmatigheid of volledigheid van de uitrusting waarop deze Bijlage van toepassing is wezenlijk worden aangetast, rapporteert de kapitein of eigenaar van het schip dit zo spoedig mogelijk aan de Administratie, de erkende organisatie of de benoemde inspecteur die verantwoordelijk is voor de afgifte van het desbetreffende certificaat; deze ziet erop toe dat een onderzoek wordt ingesteld om te bepalen of een onderzoek als vereist op grond van lid 1 van dit voorschrift noodzakelijk is. Indien het schip in een haven van een andere Partij ligt, dient de kapitein of eigenaar van het schip eveneens onverwijld de desbetreffende autoriteiten van de havenstaat in te lichten en dient de benoemde inspecteur of erkende organisatie na te gaan of een dergelijke melding heeft plaatsgevonden.
 
-#### Voorschrift 11. Ontwerp, constructie, uitrusting en bedrijfsvoering
+##### Voorschrift 11. Ontwerp, constructie, uitrusting en bedrijfsvoering
 
 - 1. Van schepen gecertificeerd voor het vervoer van schadelijke vloeistoffen in bulk genoemd in hoofdstuk 17 van de Internationale code voor chemicaliën in bulk, dienen het ontwerp, de constructie, de uitrusting en de bedrijfsvoering in overeenstemming met de volgende bepalingen te zijn, zodat het ongecontroleerd lozen in zee van dergelijke stoffen tot een minimum wordt beperkt:
 
@@ -17185,7 +17207,7 @@ Chemicaliëntankschepen die zijn onderzocht en waaraan een certificaat is afgege
 
 - 2. Ten aanzien van andere schepen dan chemicaliëntankschepen of vloeibaar-gastankschepen gecertificeerd voor het vervoer van schadelijke vloeistoffen in bulk genoemd in hoofdstuk 17 van de Internationale code voor chemicaliën in bulk, stelt de Administratie passende maatregelen op aan de hand van de door de Organisatie ontwikkelde Richtlijnen, zodat het ongecontroleerd lozen in zee van dergelijke stoffen tot een minimum wordt beperkt.
 
-#### Voorschrift 13. Regeling van lozingen van residuen van schadelijke vloeistoffen
+##### Voorschrift 13. Regeling van lozingen van residuen van schadelijke vloeistoffen
 
 Onverminderd de bepalingen van [voorschrift 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=II&hoofdstuk=1&artikel=3&z=2026-03-01&g=2026-03-01) van deze Bijlage dient de regeling van lozingen van residuen van schadelijke vloeistoffen of van ballastwater, tankwaswater of andere mengsels die dergelijke stoffen bevatten, in overeenstemming te zijn met de volgende vereisten.
 
@@ -17293,13 +17315,13 @@ Op verzoek van de kapitein van het schip kan een ontheffing voor het voorwassen 
 
 - 9.4. de „Noorse zee” wordt begrensd door lijnen die de volgende punten verbinden: 69°47’.69 noorderbreedte; 030°49’.06 oosterlengte 69°58’.76 noorderbreedte; 031°06’.26 oosterlengte 70°08’.63 noorderbreedte; 031°35’.14 oosterlengte 70°16’.48 noorderbreedte; 032°04’.38 oosterlengte 73°23’.07 noorderbreedte; 036°28’.57 oosterlengte 73°35’.66 noorderbreedte; 035°27’.34 oosterlengte 74°02’.97 noorderbreedte; 033°17’.86 oosterlengte 74°20’.71 noorderbreedte; 030°33’.51 oosterlengte 74°29’.80 noorderbreedte; 026°28’.18 oosterlengte 74°24’.24 noorderbreedte; 022°55’.03 oosterlengte 74°13’.72 noorderbreedte; 020°15’.98 oosterlengte 73°35’.44 noorderbreedte; 016°36’.50 oosterlengte 73°14’.83 noorderbreedte; 014°09’.43 oosterlengte 72°42’.54 noorderbreedte; 011°42’.14 oosterlengte 71°58’.20 noorderbreedte; 009°54’.96 oosterlengte 71°37’.56 noorderbreedte; 008°43’.82 oosterlengte 70°43’.16 noorderbreedte; 006°36’.07 oosterlengte 69°36’.62 noorderbreedte; 004°47’.32 oosterlengte 68°58’.32 noorderbreedte; 003°51’.22 oosterlengte 68°14’.99 noorderbreedte; 003°17’.03 oosterlengte 67°25’.80 noorderbreedte; 003°10’.21 oosterlengte 66°49’.73 noorderbreedte; 003°25’.13 oosterlengte 66°25’.93 noorderbreedte; 003°17’.11 oosterlengte 65°22’.72 noorderbreedte; 001°24’.59 oosterlengte 64°25’.97 noorderbreedte; 000°29’.32 westerlengte 63°53’.22 noorderbreedte; 000°29’.44 westerlengte 62°53’.47 noorderbreedte; 000°38’.36 oosterlengte 62°00’.00 noorderbreedte; 001°22’.25 oosterlengte 62°00’.00 noorderbreedte; 004°52’.35 oosterlengte
 
-#### Voorschrift 14. Handboek voor procedures en voorzieningen
+##### Voorschrift 14. Handboek voor procedures en voorzieningen
 
 - 1. Elk schip dat is gecertificeerd om stoffen van categorie X, Y of Z te vervoeren, moet een door de Administratie goedgekeurd Handboek aan boord hebben. Het Handboek dient overeenkomstig [aanhangsel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=4&z=2026-03-01&g=2026-03-01) bij deze Bijlage een standaardformaat te hebben. In het geval van een schip dat internationale reizen maakt waarop de gebruikte taal een andere is dan de Engelse, de Franse of de Spaanse taal gaat de tekst vergezeld van een vertaling in één van deze talen.
 
 - 2. Het Handboek heeft voornamelijk tot doel voor de officieren op het schip vast te stellen wat de fysieke voorzieningen en alle operationele procedures zijn die met betrekking tot het behandelen van lading, het reinigen van tanks, de behandeling van residuen uit sloptanks en het ballasten en ontballasten van ladingtanks in acht dienen te worden genomen teneinde te voldoen aan de vereisten van deze Bijlage.
 
-#### Voorschrift 15. Ladingjournaal
+##### Voorschrift 15. Ladingjournaal
 
 - 1. Elk schip waarop deze Bijlage van toepassing is, dient te zijn voorzien van een Ladingjournaal, hetzij als onderdeel van het scheepsjournaal, als elektronisch journaal dat door de Administratie dient te worden goedgekeurd rekening houdend met de door de Organisatie opgestelde richtlijnen, of anderszins, volgens het model zoals aangegeven in [Aanhangsel II](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=2&z=2026-03-01&g=2026-03-01) bij deze Bijlage.
 
@@ -17313,7 +17335,7 @@ Op verzoek van de kapitein van het schip kan een ontheffing voor het voorwassen 
 
 - 6. De bevoegde instantie van de Regering van een Partij heeft het recht het Ladingjournaal in te zien aan boord van alle schepen waarop deze Bijlage van toepassing is, terwijl het schip zich in een van haar havens bevindt, en een afschrift te maken van elke aantekening in dat journaal en van de kapitein van het schip te verlangen, het afschrift te waarmerken als een waarheidsgetrouw afschrift van de betrokken aantekening. Elk aldus vervaardigd afschrift, dat de kapitein van het schip als een waarheidsgetrouw afschrift van een aantekening in het Ladingjournaal van het schip heeft gewaarmerkt, wordt bij alle gerechtelijke procedures toegelaten als bewijsstuk voor de in die aantekening vermelde feiten. De inspectie van een Ladingjournaal en de vervaardiging van een gewaarmerkt afschrift door de bevoegde instantie ingevolge het bepaalde in dit lid dienen zo snel mogelijk te geschieden zonder het schip onnodig oponthoud te veroorzaken.
 
-#### Voorschrift 16. Maatregelen ten behoeve van het toezicht
+##### Voorschrift 16. Maatregelen ten behoeve van het toezicht
 
 - 1. De Regering van elke Partij bij dit Verdrag benoemt of machtigt inspecteurs, belast met de zorg voor de naleving van dit voorschrift. De inspecteurs oefenen toezicht uit overeenkomstig de door de Organisatie opgestelde controleprocedures.
 
@@ -17347,7 +17369,7 @@ Op verzoek van de kapitein van het schip kan een ontheffing voor het voorwassen 
 
 - 9.4 Geen enkele bepaling van dit voorschrift mag zo worden uitgelegd dat daardoor de rechten en plichten van een Partij die de uitdrukkelijk in dit Verdrag genoemde vereisten met betrekking tot de bedrijfsvoering aan boord controleert, worden beperkt.
 
-#### Voorschrift 17. Rampenplan aan boord van schepen voor verontreiniging van de zee door schadelijke vloeistoffen
+##### Voorschrift 17. Rampenplan aan boord van schepen voor verontreiniging van de zee door schadelijke vloeistoffen
 
 - 1. Elk schip met een bruto-tonnage van 150 of meer dat is gecertificeerd voor het vervoer in bulk van schadelijke vloeistoffen dient een door de Administratie goedgekeurd scheepsnoodplan voor verontreiniging van de zee door schadelijke vloeistoffen aan boord te hebben.
 
@@ -17363,7 +17385,7 @@ Op verzoek van de kapitein van het schip kan een ontheffing voor het voorwassen 
 
 - 3. In het geval van schepen waarop [voorschrift 37 van Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=I&hoofdstuk=5&artikel=37&z=2026-03-01&g=2026-03-01) bij het Verdrag ook van toepassing is, kan een dergelijk plan gecombineerd worden met het rampenplan voor olieverontreiniging aan boord van schepen dat vereist is ingevolge voorschrift 37 van Bijlage I bij het Verdrag. In dit geval luidt de titel van het plan „Scheepsnoodplan voor verontreiniging van de zee”.
 
-#### Voorschrift 18. Ontvangstinrichtingen en losplaatsvoorzieningen
+##### Voorschrift 18. Ontvangstinrichtingen en losplaatsvoorzieningen
 
 - 1. De Regering van elke Partij bij dit Verdrag verbindt zich ertoe, zorg te dragen voor de installatie van ontvangstinrichtingen al naar gelang de behoeften van schepen, die gebruik maken van haar havens, laad- en losplaatsen of scheepsreparatiehavens, en wel als volgt:
 
@@ -17401,11 +17423,11 @@ Op verzoek van de kapitein van het schip kan een ontheffing voor het voorwassen 
 
 ### HOOFDSTUK 9. VERIFICATIE VAN DE NALEVING VAN DE BEPALINGEN VAN DIT VERDRAG
 
-#### Voorschrift 19. Toepassing
+##### Voorschrift 19. Toepassing
 
 De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering van hun verplichtingen en verantwoordelijkheden zoals vervat in deze Bijlage.
 
-#### Voorschrift 20. Verificatie van de naleving
+##### Voorschrift 20. Verificatie van de naleving
 
 1. Elke partij wordt onderworpen aan een periodieke audit door de Organisatie in overeenstemming met de auditnorm teneinde naleving en implementatie van deze Bijlage te verifiëren.
 
@@ -17419,7 +17441,7 @@ De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering v
 
 - .2. vindt periodiek plaats, rekening houdend met de door de Organisatie opgestelde richtlijnen.
 
-#### Voorschrift 21. Begripsomschrijvingen
+##### Voorschrift 21. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage:
 
@@ -17433,7 +17455,7 @@ Voor de toepassing van deze Bijlage:
 
 - 3. wordt onder **polaire wateren** verstaan de Arctische wateren en/of het Antarctisch gebied.
 
-#### Voorschrift 22. Toepassing en vereisten
+##### Voorschrift 22. Toepassing en vereisten
 
 1. Dit hoofdstuk is van toepassing op alle schepen die gecertificeerd zijn om schadelijke vloeistoffen in bulk te vervoeren die in polaire wateren varen.
 
@@ -17443,7 +17465,7 @@ Voor de toepassing van deze Bijlage:
 
 ### HOOFDSTUK 1. ALGEMEEN
 
-#### Voorschrift 1. Begripsomschrijvingen
+##### Voorschrift 1. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage wordt verstaan onder:
 
@@ -17459,7 +17481,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 - 6. **Auditnorm,** de Implementatiecode.
 
-#### Voorschrift 2. Toepassing
+##### Voorschrift 2. Toepassing
 
 1. Tenzij uitdrukkelijk anders is bepaald, zijn de voorschriften van deze Bijlage van toepassing op alle schepen die schadelijke stoffen vervoeren in verpakte vorm.
 
@@ -17471,37 +17493,37 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 5. De vereisten van deze Bijlage gelden niet voor voorraden en uitrusting aan boord van schepen.
 
-#### Voorschrift 3. Verpakking
+##### Voorschrift 3. Verpakking
 
 Verpakkingen dienen, met het oog op hun specifieke inhoud, toereikend te zijn om het gevaar voor het mariene milieu tot een minimum te beperken.
 
-#### Voorschrift 4. Merken en etiketteren
+##### Voorschrift 4. Merken en etiketteren
 
 1. Verpakkingen die een schadelijke stof bevatten dienen duurzaam te zijn gemerkt of geëtiketteerd teneinde in overeenstemming met de relevante bepalingen van de IMDG-Code aan te geven dat de stof een schadelijke stof is.
 
 2. De wijze van merken of het aanbrengen van etiketten op verpakkingen die een schadelijke stof bevatten dient te voldoen aan de relevante bepalingen van de IMDG-Code.
 
-#### Voorschrift 5. Begeleidende papieren
+##### Voorschrift 5. Begeleidende papieren
 
 1. Transportinformatie over het vervoer van schadelijke stoffen dient te voldoen aan de relevante bepalingen van de IMDG-Code en dient ter beschikking te worden gesteld van de door de autoriteit van de havenstaat aangewezen persoon of organisatie.
 
 2. Op elk schip dat schadelijke stoffen vervoert dient een bijzondere lijst, een manifest of een gedetailleerd stuwplan aanwezig te zijn waarin in overeenstemming met de relevante bepalingen van de IMDG-Code de schadelijke stoffen aan boord en de locatie ervan zijn vermeld. Voor vertrek dient een afschrift van een van deze documenten aan de door de autoriteit van de havenstaat aangewezen persoon of organisatie ter beschikking te worden gesteld.
 
-#### Voorschrift 6. Stuwen
+##### Voorschrift 6. Stuwen
 
 Schadelijke stoffen dienen op de juiste wijze te worden gestuwd en vastgezet, ter beperking van de gevaren voor het mariene milieu, zonder afbreuk te doen aan de veiligheid van het schip en de zich aan boord bevindende personen.
 
-#### Voorschrift 7. Beperkingen van hoeveelheid
+##### Voorschrift 7. Beperkingen van hoeveelheid
 
 Om gegronde wetenschappelijke en technische redenen kan het vervoer van bepaalde schadelijke stoffen worden verboden of de hoeveelheid die aan boord van een schip mag worden vervoerd, worden beperkt. Bij het beperken van de hoeveelheid dient naar behoren aandacht te worden geschonken aan de grootte, de constructie en de uitrusting van het schip, alsmede aan de verpakking en de aard van de stoffen.
 
-#### Voorschrift 8. Uitzonderingen
+##### Voorschrift 8. Uitzonderingen
 
 1. Het overboord zetten van schadelijke stoffen die worden vervoerd in verpakte vorm is verboden, behalve wanneer dit noodzakelijk is om de veiligheid van het schip te verzekeren of om mensenlevens op zee te redden.
 
 2. Behoudens de bepalingen van dit Verdrag dienen op grond van de fysische, chemische en biologische eigenschappen van schadelijke stoffen passende maatregelen te worden genomen om het overboord spoelen van zulke door lekkage vrijgekomen stoffen te regelen, mits de uitvoering van deze maatregelen de veiligheid van het schip en van de zich aan boord bevindende personen niet in gevaar brengt.
 
-#### Voorschrift 9. Door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
+##### Voorschrift 9. Door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
 
 1. Een schip dat zich in een haven of een laad- of losplaats buitengaats van een andere partij bevindt wordt geïnspecteerd door ambtenaren die door die partij naar behoren zijn gemachtigd om te controleren of voldaan wordt aan de in deze Bijlage bedoelde vereisten met betrekking tot de bedrijfsvoering aan boord.
 
@@ -17511,11 +17533,11 @@ Om gegronde wetenschappelijke en technische redenen kan het vervoer van bepaalde
 
 4. Geen enkele bepaling van dit voorschrift mag zo worden uitgelegd dat daardoor de rechten en plichten van een partij die de uitdrukkelijk in dit Verdrag genoemde vereisten met betrekking tot de bedrijfsvoering aan boord controleert, worden beperkt.
 
-#### Voorschrift 10. Toepassing
+##### Voorschrift 10. Toepassing
 
 De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering van hun verplichtingen en verantwoordelijkheden zoals vervat in deze Bijlage.
 
-#### Voorschrift 11. Verificatie van de naleving
+##### Voorschrift 11. Verificatie van de naleving
 
 1. Elke partij wordt onderworpen aan periodieke audits door de Organisatie in overeenstemming met de auditnorm teneinde de naleving en implementatie van deze Bijlage te verifiëren.
 
@@ -17531,7 +17553,7 @@ De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering v
 
 ### HOOFDSTUK 2. ONDERZOEKEN EN CERTIFICERINGEN
 
-#### Voorschrift 4. Onderzoeken
+##### Voorschrift 4. Onderzoeken
 
 - 1. Elk schip dat in overeenstemming met [voorschrift 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=IV&hoofdstuk=1&artikel=2&z=2026-03-01&g=2026-03-01) dient te voldoen aan de bepalingen van deze Bijlage dient de volgende onderzoeken te ondergaan:
 
@@ -17561,7 +17583,7 @@ De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering v
 
 - 9. Wanneer een ongeval plaatsvindt met een schip of een defect wordt ontdekt waardoor de hechtheid van het schip of de doelmatigheid of volledigheid van de uitrusting waarop deze bijlage van toepassing is wezenlijk worden aangetast, rapporteert de kapitein of eigenaar van het schip dit zo spoedig mogelijk aan de Administratie, de erkende organisatie of de aangewezen inspecteur die verantwoordelijk is voor de afgifte van het desbetreffende certificaat, die erop toeziet dat een onderzoek wordt ingesteld om te bepalen of een inspectie als vereist op grond van punt 1 van dit voorschrift noodzakelijk is. Indien het schip zich bevindt in een haven van een andere Partij, meldt de kapitein of eigenaar van het schip dit tevens onverwijld aan de desbetreffende autoriteiten van de havenstaat en de aangewezen inspecteur of erkende organisatie dient vast te stellen of deze melding heeft plaatsgevonden.
 
-#### Voorschrift 9. Systemen voor sanitair afval
+##### Voorschrift 9. Systemen voor sanitair afval
 
 - 1. Elk schip dat in overeenstemming met [voorschrift 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=IV&hoofdstuk=1&artikel=2&z=2026-03-01&g=2026-03-01) dient te voldoen aan de bepalingen van deze Bijlage, dient te zijn uitgerust met een van de volgende systemen voor sanitair afval:
 
@@ -17577,7 +17599,7 @@ De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering v
 
 - .2. een verzameltank met naar tevredenheid van de Administratie voldoende capaciteit voor het opslaan van alle sanitair afval, rekening houdend met de exploitatie van het schip, het aantal opvarenden en andere relevante factoren. De constructie van de verzameltank dient naar tevredenheid van de Administratie te zijn en een voorziening hebben om zichtbaar het niveau van de inhoud aan te geven.
 
-#### Voorschrift 10. Standaardaansluitingen voor afgifte
+##### Voorschrift 10. Standaardaansluitingen voor afgifte
 
 - 1. Teneinde de leiding van de ontvangstinrichting te kunnen aansluiten op de scheepsleiding voor afgifte, dienen beide leidingen te zijn voorzien van een standaardaansluiting voor afgifte overeenkomstig de volgende tabel: Voor schepen met een holte naar de mal van 5 meter of minder, mag de inwendige diameter van de aansluiting voor afgifte 38 mm bedragen.
 
@@ -17593,7 +17615,7 @@ De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering v
 
 - 2. Voor schepen voor specifiek gebruik, bijv. passagiersveerboten, kan de scheepsleiding voor afgifte ook worden voorzien van een voor de Administratie aanvaardbare aansluiting voor afgifte, zoals een snelkoppeling.
 
-#### Voorschrift 11. Lozen van sanitair afval
+##### Voorschrift 11. Lozen van sanitair afval
 
 1. Onverminderd de bepalingen van [voorschrift 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=IV&hoofdstuk=1&artikel=3&z=2026-03-01&g=2026-03-01) van deze Bijlage is het lozen in zee van sanitair afval verboden, behalve wanneer:
 
@@ -17611,7 +17633,7 @@ De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering v
 
 4. Indien het sanitair afval wordt vermengd met afval of afvalwater waarop andere Bijlagen van MARPOL van toepassing zijn, dient behalve aan de vereisten van deze Bijlage tevens aan de vereisten van die Bijlagen te worden voldaan.
 
-#### Voorschrift 12. Ontvangstinrichtingen
+##### Voorschrift 12. Ontvangstinrichtingen
 
 - 1. De Regering van elke Partij bij het Verdrag, die van alle schepen in de wateren die onder haar rechtsmacht vallen vereist dat zij voldoen aan de eisen van [voorschrift 11.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=IV&hoofdstuk=3&artikel=11&z=2026-03-01&g=2026-03-01), verbindt zich tot het installeren in havens en laad- en losplaatsen van inrichtingen voor het in ontvangst nemen van sanitair afval, zonder onnodig oponthoud van de schepen te veroorzaken, die toereikend zijn voor de behoeften van de schepen die er gebruik van maken.
 
@@ -17635,7 +17657,7 @@ De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering v
 
 - .3. bijzonderheden van havens met beperkte voorzieningen.
 
-#### Voorschrift 13. Ontvangstinrichtingen voor passagiersschepen in bijzondere gebieden
+##### Voorschrift 13. Ontvangstinrichtingen voor passagiersschepen in bijzondere gebieden
 
 1. Elke partij waarvan de kustlijn grenst aan een bijzonder gebied verbindt zich ertoe te waarborgen dat:
 
@@ -17649,7 +17671,7 @@ De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering v
 
 ### HOOFDSTUK 5. DOOR DE HAVENSTAAT UIT TE OEFENEN CONTROLE
 
-#### Voorschrift 14. Door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
+##### Voorschrift 14. Door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
 
 1. Een schip dat zich bevindt in een haven of een laad- of losplaats buitengaats van een andere Partij wordt geïnspecteerd door ambtenaren die door bedoelde Partij naar behoren zijn gemachtigd om te controleren of voldaan is aan de vereisten uit hoofde van deze Bijlage met betrekking tot de bedrijfsvoering aan boord, wanneer er duidelijke gronden zijn om aan te nemen dat de kapitein of de leden van de bemanning niet op de hoogte zijn van de essentiële procedures die aan boord dienen te worden toegepast om verontreiniging door sanitair afval te voorkomen.
 
@@ -17661,7 +17683,7 @@ De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering v
 
 ### HOOFDSTUK 6. VERIFICATIE VAN DE NALEVING VAN DE BEPALINGEN VAN DEZE BIJLAGE
 
-#### Voorschrift 17. Begripsomschrijvingen
+##### Voorschrift 17. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage:
 
@@ -17677,7 +17699,7 @@ Voor de toepassing van deze Bijlage:
 
 - 4. wordt onder **polaire wateren** verstaan de Arctische wateren en/of het Antarctisch gebied.
 
-#### Voorschrift 18. Toepassing en vereisten
+##### Voorschrift 18. Toepassing en vereisten
 
 1. Dit hoofdstuk is van toepassing op alle schepen die in overeenstemming met deze Bijlage gecertificeerd zijn om in polaire wateren te varen.
 
@@ -17685,7 +17707,7 @@ Voor de toepassing van deze Bijlage:
 
 ### HOOFDSTUK 1. ALGEMEEN
 
-#### Voorschrift 1. Begripsomschrijvingen
+##### Voorschrift 1. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage:
 
@@ -17751,11 +17773,11 @@ Voor de toepassing van deze Bijlage wordt onder bijzondere gebieden verstaan: de
 
 - 19. wordt verstaan onder **elektronisch journaal**, een door de Administratie goedgekeurd apparaat of systeem dat, in plaats van een papieren journaal, gebruikt wordt voor het elektronisch vastleggen van de vereiste aantekeningen voor lozingen, overbrengingen en overige operaties zoals vereist ingevolge deze Bijlage.
 
-#### Voorschrift 2. Toepassing
+##### Voorschrift 2. Toepassing
 
 Tenzij uitdrukkelijk anders bepaald, zijn de bepalingen van deze Bijlage van toepassing op alle schepen.
 
-#### Voorschrift 3. Algemeen verbod op het lozen van vuilnis in zee
+##### Voorschrift 3. Algemeen verbod op het lozen van vuilnis in zee
 
 1. Het lozen van alle vuilnis in zee is verboden, tenzij in de [voorschriften 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&hoofdstuk=1&artikel=4&z=2026-03-01&g=2026-03-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&hoofdstuk=1&artikel=5&z=2026-03-01&g=2026-03-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&hoofdstuk=1&artikel=6&z=2026-03-01&g=2026-03-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&hoofdstuk=1&artikel=7&z=2026-03-01&g=2026-03-01) van deze Bijlage en sectie 5.2 van deel II-A van de Polar Code, zoals omschreven in [voorschrift 13.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&hoofdstuk=3&artikel=13&z=2026-03-01&g=2026-03-01) van deze Bijlage anders is bepaald.
 
@@ -17763,7 +17785,7 @@ Tenzij uitdrukkelijk anders bepaald, zijn de bepalingen van deze Bijlage van toe
 
 3. Het lozen in zee van bak- en braadolie is verboden, uitgezonderd zoals voorzien in [voorschrift 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&hoofdstuk=1&artikel=7&z=2026-03-01&g=2026-03-01) van deze Bijlage.
 
-#### Voorschrift 4. Lozen van vuilnis buiten bijzondere gebieden
+##### Voorschrift 4. Lozen van vuilnis buiten bijzondere gebieden
 
 1. Behoudens de bepalingen van de [voorschriften 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&hoofdstuk=1&artikel=5&z=2026-03-01&g=2026-03-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&hoofdstuk=1&artikel=6&z=2026-03-01&g=2026-03-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&hoofdstuk=1&artikel=7&z=2026-03-01&g=2026-03-01) van deze Bijlage, is het lozen in zee van het onderstaande vuilnis buiten bijzondere gebieden uitsluitend toegestaan wanneer het schip onderweg is en zo ver als mogelijk van het dichtstbijzijnde land, maar in ieder geval niet minder dan:
 
@@ -17781,13 +17803,13 @@ Tenzij uitdrukkelijk anders bepaald, zijn de bepalingen van deze Bijlage van toe
 
 4. Wanneer vuilnis is vermengd met of verontreinigd door andere stoffen waarvan de lozing verboden of aan andere vereisten gebonden is, zijn de strengere vereisten van toepassing.
 
-#### Voorschrift 5. Bijzondere vereisten voor het lozen van vuilnis vanaf vaste of drijvende platforms
+##### Voorschrift 5. Bijzondere vereisten voor het lozen van vuilnis vanaf vaste of drijvende platforms
 
 1. Behoudens de bepalingen van paragraaf 2 van dit voorschrift, is het verboden vuilnis in zee te lozen vanaf vaste of drijvende platforms alsmede vanaf alle andere schepen die zich naast of binnen 500 meter van dergelijke platforms bevinden.
 
 2. Er mogen wel voedselresten in zee worden geloosd vanaf vaste of drijvende platforms die zich op meer dan 12 zeemijlen van het dichtstbijzijnde land bevinden en vanaf alle andere schepen die zich naast of binnen 500 meter van dergelijke platforms bevinden, op voorwaarde dat de voedselresten door een afbreek- of maalinstallatie zijn gevoerd. Deze afgebroken of gemalen voedselresten dienen een rooster met gaten van maximaal 25 mm doorsnee te kunnen passeren.
 
-#### Voorschrift 6. Lozen van vuilnis binnen bijzondere gebieden
+##### Voorschrift 6. Lozen van vuilnis binnen bijzondere gebieden
 
 1. Het lozen van het onderstaande vuilnis in zee binnen bijzondere gebieden is uitsluitend toegestaan wanneer het schip onderweg is en op de volgende wijze:
 
@@ -17817,7 +17839,7 @@ Tenzij uitdrukkelijk anders bepaald, zijn de bepalingen van deze Bijlage van toe
 
 4. Wanneer vuilnis is vermengd met of verontreinigd door andere stoffen waarvan de lozing verboden of aan andere vereisten gebonden is, zijn de strengere vereisten van toepassing.
 
-#### Voorschrift 7. Uitzonderingen
+##### Voorschrift 7. Uitzonderingen
 
 1. De [voorschriften 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&hoofdstuk=1&artikel=3&z=2026-03-01&g=2026-03-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&hoofdstuk=1&artikel=4&z=2026-03-01&g=2026-03-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&hoofdstuk=1&artikel=5&z=2026-03-01&g=2026-03-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&hoofdstuk=1&artikel=6&z=2026-03-01&g=2026-03-01) van deze Bijlage en sectie 5.2 van hoofdstuk 5 van deel II-A van de Polar Code zijn niet van toepassing op:
 
@@ -17833,7 +17855,7 @@ Tenzij uitdrukkelijk anders bepaald, zijn de bepalingen van deze Bijlage van toe
 
 - .1. De vereisten voor schepen die onderweg zijn in de [voorschriften 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=1&artikel=4&z=2026-03-01&g=2026-03-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&hoofdstuk=1&artikel=6&z=2026-03-01&g=2026-03-01) van deze Bijlage en van hoofdstuk 5 van deel II-A van de Polar Code, zijn niet van toepassing op het lozen van voedselresten wanneer duidelijk is dat het aan boord houden van deze voedselresten een direct risico voor de gezondheid van de opvarenden oplevert.
 
-#### Voorschrift 8. Ontvangstinrichtingen
+##### Voorschrift 8. Ontvangstinrichtingen
 
 1. Elke partij verbindt zich ertoe te waarborgen dat havens en laad- en losplaatsen zijn voorzien van toereikende installaties voor het in ontvangst nemen van vuilnis, zonder onnodig oponthoud van schepen te veroorzaken, volgens de behoeften van de schepen die er gebruik van maken.
 
@@ -17869,7 +17891,7 @@ De Regering van elke Partij die deelneemt aan de regeling overlegt met de Organi
 
 - .3. bijzonderheden van havens met beperkte voorzieningen.
 
-#### Voorschrift 9. Havenstaatcontrole op operationele vereisten
+##### Voorschrift 9. Havenstaatcontrole op operationele vereisten
 
 1. Een schip dat zich bevindt in een haven of een laad- of losplaats buitengaats van een andere partij wordt onderworpen aan inspectie door ambtenaren die door bedoelde partij naar behoren zijn gemachtigd om te controleren of voldaan is aan de in deze Bijlage bedoelde operationele vereisten, wanneer er gegronde redenen zijn om aan te nemen dat de kapitein of de leden van de bemanning niet op de hoogte zijn van de essentiële procedures die aan boord dienen te worden toegepast om verontreiniging door vuilnis te voorkomen.
 
@@ -17879,7 +17901,7 @@ De Regering van elke Partij die deelneemt aan de regeling overlegt met de Organi
 
 4. Geen enkele bepaling van dit voorschrift mag zo worden uitgelegd dat daardoor de rechten en plichten van een partij die de uitdrukkelijk in dit Verdrag genoemde operationele vereisten aan boord controleert, worden beperkt.
 
-#### Voorschrift 10. Plakkaten, vuilnisbeheerplannen en het bijhouden van het vuilnisjournaal
+##### Voorschrift 10. Plakkaten, vuilnisbeheerplannen en het bijhouden van het vuilnisjournaal
 
 - .1. Elk schip met een lengte over alles van 12 meter of meer en elk vast of drijvend platform dient plakkaten te tonen die de bemanning en de passagiers informeren over de lozingsvoorwaarden in de [voorschriften 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&hoofdstuk=1&artikel=3&z=2026-03-01&g=2026-03-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&hoofdstuk=1&artikel=4&z=2026-03-01&g=2026-03-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&hoofdstuk=1&artikel=5&z=2026-03-01&g=2026-03-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=V&hoofdstuk=1&artikel=6&z=2026-03-01&g=2026-03-01) van deze Bijlage en sectie 5.2 van deel II-A van de Polar Code, voor zover van toepassing.
 
@@ -17913,11 +17935,11 @@ De Regering van elke Partij die deelneemt aan de regeling overlegt met de Organi
 
 ### HOOFDSTUK 2. VERIFICATIE VAN DE NALEVING VAN DE BEPALINGEN VAN DEZE BIJLAGE
 
-#### Voorschrift 11. Toepassing
+##### Voorschrift 11. Toepassing
 
 De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering van hun verplichtingen en verantwoordelijkheden zoals vervat in deze Bijlage.
 
-#### Voorschrift 12. Verificatie van de naleving
+##### Voorschrift 12. Verificatie van de naleving
 
 1. Elke partij wordt onderworpen aan periodieke audits door de Organisatie in overeenstemming met de auditnorm teneinde de naleving en implementatie van deze Bijlage te verifiëren.
 
@@ -17933,7 +17955,7 @@ De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering v
 
 ### HOOFDSTUK 3. INTERNATIONALE CODE VOOR SCHEPEN DIE IN POLAIRE WATEREN VAREN
 
-#### Voorschrift 13. Begripsomschrijvingen
+##### Voorschrift 13. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage:
 
@@ -17947,7 +17969,7 @@ Voor de toepassing van deze Bijlage:
 
 - 3. wordt onder **polaire wateren** verstaan de Arctische wateren en/of het Antarctisch gebied.
 
-#### Voorschrift 14. Toepassing en vereisten
+##### Voorschrift 14. Toepassing en vereisten
 
 1. Dit hoofdstuk is van toepassing op alle schepen waarop deze Bijlage van toepassing is die in polaire wateren varen.
 
@@ -17955,11 +17977,11 @@ Voor de toepassing van deze Bijlage:
 
 3. Bij de toepassing van hoofdstuk 5 van deel II-A van de Polar Code moet rekening worden gehouden met de aanvullende richtlijnen van deel II-B van de Polar Code.
 
-#### Voorschrift 1. Toepassing
+##### Voorschrift 1. Toepassing
 
 De bepalingen van deze Bijlage zijn van toepassing op alle schepen, tenzij uitdrukkelijk anders is bepaald.
 
-#### Voorschrift 2. Begripsomschrijvingen
+##### Voorschrift 2. Begripsomschrijvingen
 
 1. Voor de toepassing van deze Bijlage:
 
@@ -18135,7 +18157,7 @@ De bepalingen van deze Bijlage zijn van toepassing op alle schepen, tenzij uitdr
 
 - 29. wordt onder **tankschip** verstaan een olietankschip als omschreven in [voorschrift 1 van Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=I&hoofdstuk=1&artikel=1&z=2026-03-01&g=2026-03-01) van dit Verdrag of een chemicaliëntankschip of een NLS-tankschip zoals omschreven in [voorschrift 1 van Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=II&hoofdstuk=2&z=2026-03-01&g=2026-03-01) bij dit Verdrag.
 
-#### Voorschrift 3. Uitzonderingen en vrijstellingen
+##### Voorschrift 3. Uitzonderingen en vrijstellingen
 
 1. De voorschriften van deze Bijlage zijn niet van toepassing op:
 
@@ -18167,7 +18189,7 @@ De bepalingen van deze Bijlage zijn van toepassing op alle schepen, tenzij uitdr
 
 4. De Administratie kan voor de vereisten van de [voorschriften 5.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=2&artikel=5&z=2026-03-01&g=2026-03-01) en [6.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=2&artikel=5&z=2026-03-01&g=2026-03-01) van deze Bijlage ontheffing verlenen voor een onbemande duwbak zonder eigen voortstuwing (UNSP) door middel van een internationaal certificaat betreffende voorkoming van luchtverontreiniging voor onbemande duwbakken zonder eigen voortstuwing (UNSP), voor een periode van ten hoogte 5 jaar op voorwaarde dat de duwbak een onderzoek heeft ondergaan om na te gaan of aan de voorwaarden van de [voorschriften 2.1.32.1 tot en met 2.1.32.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=1&artikel=2&z=2026-03-01&g=2026-03-01) van deze Bijlage is voldaan.
 
-#### Voorschrift 4. Gelijkwaardige voorzieningen
+##### Voorschrift 4. Gelijkwaardige voorzieningen
 
 1. De Administratie van een Partij kan toestaan dat installaties, materialen, middelen of toestellen worden aangebracht op een schip of dat er andere procedures, brandstofolie of methodes worden gebruikt dan degene die worden vereist door deze Bijlage, indien dergelijke installaties, materialen, middelen of toestellen, procedures, brandstofolie of methoden wat betreft emissiebeperking ten minste even doeltreffend zijn als degene die door deze Bijlage, met inbegrip van de normen vervat in de [voorschriften 13](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=3&artikel=13&z=2026-03-01&g=2026-03-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=3&artikel=14&z=2026-03-01&g=2026-03-01), worden vereist.
 
@@ -18179,7 +18201,7 @@ De bepalingen van deze Bijlage zijn van toepassing op alle schepen, tenzij uitdr
 
 ### HOOFDSTUK 2. ONDERZOEK, CERTIFICERING EN CONTROLEMIDDELEN
 
-#### Voorschrift 5. Onderzoeken
+##### Voorschrift 5. Onderzoeken
 
 1. Elk schip met een brutotonnage van 400 en meer, alsmede iedere vaste en drijvende boorinstallatie of ander platform wordt onderworpen aan de hieronder aangegeven onderzoeken teneinde te waarborgen dat aan de vereisten van [Hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=3&z=2026-03-01&g=2026-03-01) van deze Bijlage wordt voldaan:
 
@@ -18227,7 +18249,7 @@ De bepalingen van deze Bijlage zijn van toepassing op alle schepen, tenzij uitdr
 
 6. Wanneer een schip bij een ongeval betrokken raakt, of er gebreken worden geconstateerd waardoor de doelmatigheid of volledigheid van de uitrusting waarop de bepalingen van deze Bijlage van toepassing zijn, wezenlijk worden beïnvloed, dient de kapitein of de eigenaar van het schip de Administratie, een aangewezen inspecteur of erkende organisatie die verantwoordelijk is voor de afgifte van het betrokken certificaat zo spoedig mogelijk in te lichten.
 
-#### Voorschrift 6. Afgifte van of aantekening op certificaten en conformverklaringen inzake het rapporteren van het brandstofolieverbruik en de operationele indicatorwaarde voor koolstofintensiteit
+##### Voorschrift 6. Afgifte van of aantekening op certificaten en conformverklaringen inzake het rapporteren van het brandstofolieverbruik en de operationele indicatorwaarde voor koolstofintensiteit
 
 1. Een Internationaal certificaat betreffende voorkoming van luchtverontreiniging (IAPP) wordt afgegeven na een eerste of hernieuwd onderzoek in overeenstemming met de bepalingen van [voorschrift 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=2&artikel=5&z=2026-03-01&g=2026-03-01) van deze Bijlage aan:
 
@@ -18257,7 +18279,7 @@ De bepalingen van deze Bijlage zijn van toepassing op alle schepen, tenzij uitdr
 
 8. Onverminderd paragraaf 6 van dit voorschrift wordt voor een schip dat gedurende drie opeenvolgende jaren een D-classificatie heeft gekregen of dat overeenkomstig [voorschrift 28](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=4&artikel=28&z=2026-03-01&g=2026-03-01) van deze Bijlage een E-classificatie heeft gekregen, geen conformverklaring afgegeven, tenzij een plan van corrigerende maatregelen naar behoren is uitgewerkt en in het SEEMP is weergegeven en door de Administratie of een door haar naar behoren gemachtigde organisatie is geverifieerd overeenkomstig de voorschriften 28.7 en 28.8 van deze Bijlage.
 
-#### Voorschrift 7. Afgifte van een certificaat door een andere partij
+##### Voorschrift 7. Afgifte van een certificaat door een andere partij
 
 1. Een partij kan een schip op verzoek van de Administratie doen onderzoeken en, indien te haren genoegen vaststaat dat aan de bepalingen van deze Bijlage wordt voldaan, een IAPP certificaat of een Internationaal certificaat betreffende energie-efficiëntie aan het schip afgeven of hiervoor toestemming geven, en waar van toepassing een aantekening op dergelijke certificaten van het schip plaatsen of hiervoor toestemming geven, in overeenstemming met deze Bijlage.
 
@@ -18267,7 +18289,7 @@ De bepalingen van deze Bijlage zijn van toepassing op alle schepen, tenzij uitdr
 
 4. Er wordt geen IAPP-certificaat, Internationaal certificaat betreffende energie-efficiëntie of UNSP Ontheffingscertificaat afgegeven aan een schip dat gerechtigd is de vlag te voeren van een Staat die geen partij is.
 
-#### Voorschrift 8. Model van de certificaten en conformverklaringen inzake het rapporteren van het brandstofolieverbruik en de operationele indicatorwaarde voor koolstofintensiteit
+##### Voorschrift 8. Model van de certificaten en conformverklaringen inzake het rapporteren van het brandstofolieverbruik en de operationele indicatorwaarde voor koolstofintensiteit
 
 1. Het IAPP-certificaat wordt opgesteld overeenkomstig het model opgenomen in Aanhangsel I bij deze Bijlage en dient ten minste in de Engelse, de Franse of de Spaanse taal te zijn gesteld. Indien tevens de officiële taal van het land van afgifte wordt gebruikt, is deze doorslaggevend bij geschillen of tegenstrijdigheden.
 
@@ -18277,7 +18299,7 @@ De bepalingen van deze Bijlage zijn van toepassing op alle schepen, tenzij uitdr
 
 4. Overeenkomstig [voorschrift 3.4](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=1&artikel=3&z=2026-03-01&g=2026-03-01) van deze Bijlage wordt het Internationaal ontheffingscertificaat betreffende voorkoming van luchtverontreiniging voor onbemande duwbakken zonder eigen voortstuwing opgesteld overeenkomstig het model opgenomen in [Aanhangsel XI](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=XI&z=2026-03-01&g=2026-03-01) bij deze Bijlage en dient ten minste in de Engelse, de Franse of de Spaanse taal te zijn gesteld. Indien tevens de officiële taal van het land van afgifte wordt gebruikt, is deze doorslaggevend bij geschillen of tegenstrijdigheden.
 
-#### Voorschrift 9. Looptijd en geldigheid van certificaten en conformverklaringen inzake het rapporteren van het brandstofolieverbruik en de operationele indicatorwaarde voor koolstofintensiteit
+##### Voorschrift 9. Looptijd en geldigheid van certificaten en conformverklaringen inzake het rapporteren van het brandstofolieverbruik en de operationele indicatorwaarde voor koolstofintensiteit
 
 1. Een IAPP-certificaat wordt afgegeven voor een door de Administratie vastgesteld tijdvak van ten hoogste vijf jaar.
 
@@ -18327,7 +18349,7 @@ De bepalingen van deze Bijlage zijn van toepassing op alle schepen, tenzij uitdr
 
 12. De conformverklaring verstrekt ingevolge [voorschrift 6.6](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=2&artikel=6&z=2026-03-01&g=2026-03-01) van deze Bijlage is geldig gedurende het kalenderjaar waarin zij is afgegeven en gedurende de eerste vijf maanden van het daaropvolgende kalenderjaar. De conformverklaring verstrekt ingevolge voorschrift 6.7 van deze Bijlage is geldig gedurende het kalenderjaar waarin zij is afgegeven, gedurende het daaropvolgende kalenderjaar en de eerste vijf maanden van het kalenderjaar dat daar op volgt. Alle conformverklaringen dienen ten minste gedurende vijf jaar aan boord te worden bewaard.
 
-#### Voorschrift 10. Havenstaatcontrole op operationele vereisten
+##### Voorschrift 10. Havenstaatcontrole op operationele vereisten
 
 1. Een schip dat zich bevindt in een haven of een laad- of losplaats buitengaats onder de rechtsmacht van een andere Partij wordt geïnspecteerd door ambtenaren die door bedoelde Partij naar behoren zijn gemachtigd om te controleren of is voldaan aan de in deze Bijlage, bedoelde vereisten met betrekking tot de bedrijfsvoering aan boord, wanneer er duidelijke gronden zijn om aan te nemen dat de kapitein of de leden van de bemanning niet op de hoogte zijn van de essentiële werkwijzen die aan boord dienen te worden toegepast om luchtverontreiniging door schepen te voorkomen.
 
@@ -18341,7 +18363,7 @@ De bepalingen van deze Bijlage zijn van toepassing op alle schepen, tenzij uitdr
 
 6. Onverminderd het bepaalde in paragraaf 5 van dit voorschrift kan iedere havenstaatinspectie inspecteren of het Energie-efficiëntiemanagementplan naar behoren door het schip wordt uitgevoerd overeenkomstig [voorschrift 28](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=4&artikel=28&z=2026-03-01&g=2026-03-01) van deze Bijlage.
 
-#### Voorschrift 11. Opsporing van overtredingen en handhaving
+##### Voorschrift 11. Opsporing van overtredingen en handhaving
 
 1. De Partijen werken samen bij de opsporing van overtredingen en de handhaving van de bepalingen van deze Bijlage, daarbij gebruikmakend van alle passende en uitvoerbare maatregelen van opsporing en milieubewaking en van doeltreffende methoden voor het rapporteren en verzamelen van bewijsmateriaal.
 
@@ -18357,7 +18379,7 @@ De bepalingen van deze Bijlage zijn van toepassing op alle schepen, tenzij uitdr
 
 ### HOOFDSTUK 3. VEREISTEN VOOR BEHEERSING VAN EMISSIES DOOR SCHEPEN
 
-#### Voorschrift 12. Ozonafbrekende stoffen
+##### Voorschrift 12. Ozonafbrekende stoffen
 
 1. Dit voorschrift is niet van toepassing op permanent verzegelde uitrusting indien er geen aansluitingen zijn voor de toevoer van koelvloeistof of verwijderbare onderdelen die ozonafbrekende stoffen bevatten.
 
@@ -18397,7 +18419,7 @@ De bepalingen van deze Bijlage zijn van toepassing op alle schepen, tenzij uitdr
 
 - 5. levering van ozonafbrekende stoffen aan het schip.
 
-#### Voorschrift 13. Stikstofoxiden (NOx)
+##### Voorschrift 13. Stikstofoxiden (NOx)
 
 1.1. Dit voorschrift is van toepassing op:
 
@@ -18549,7 +18571,7 @@ De bepalingen van deze Bijlage zijn van toepassing op alle schepen, tenzij uitdr
 
 9. De procedures voor het vaststellen van de NOx-emissie vervat in de herziene NOx Technische Code 2008 dienen representatief te zijn voor het normale functioneren van de motor. Manipulatievoorzieningen en abnormale emissiebeperkende strategieën ondermijnen dat doel en zijn niet toegestaan. Dit voorschrift belet niet het gebruik van beheersingshulpvoorzieningen die worden gebruikt om de motor en/of de hulpapparatuur ervan te beschermen tegen bedrijfsomstandigheden die tot beschadiging of uitval kunnen leiden of om het starten van de motor te vergemakkelijken.
 
-#### Voorschrift 14. Zwaveloxides (SOx) en fijnstof
+##### Voorschrift 14. Zwaveloxides (SOx) en fijnstof
 
 1. Het zwavelgehalte van brandstofolie die wordt gebruikt aan boord van schepen of daarvoor bestemd is mag niet hoger zijn dan 0,5% m/m.
 
@@ -18591,7 +18613,7 @@ De bepalingen van deze Bijlage zijn van toepassing op alle schepen, tenzij uitdr
 
 13. De bevoegde autoriteit van een Partij gebruikt, naargelang van toepassing, het bemonsteringspunt of de bemonsteringspunten dat is of die zijn aangewezen voor het nemen van representatieve monsters van de brandstofolie die aan boord wordt gebruikt teneinde te verifiëren of de brandstofolie voldoet aan dit voorschrift. Het nemen van brandstofoliemonsters door de bevoegde autoriteit van de Partij dient zo snel mogelijk te geschieden zonder onnodig oponthoud van het schip te veroorzaken.
 
-#### Voorschrift 15. Vluchtige organische stoffen
+##### Voorschrift 15. Vluchtige organische stoffen
 
 1. Indien de emissies van vluchtige organische stoffen (VOS) door tankschepen binnen een haven of havens of laad- of losplaatsen onder de rechtsmacht van een Partij dient te worden gereguleerd, geschiedt dat in overeenstemming met de bepalingen van dit voorschrift.
 
@@ -18615,7 +18637,7 @@ De bepalingen van deze Bijlage zijn van toepassing op alle schepen, tenzij uitdr
 
 7. Dit voorschrift is alleen mede van toepassing op gasschepen wanneer het type laad-, los- en opslagsystemen voor de veilige opslag aan boord of het veilig terugbrengen aan land van VOS (met uitzondering van methaan) mogelijk maakt.
 
-#### Voorschrift 16. Verbranding aan boord
+##### Voorschrift 16. Verbranding aan boord
 
 1. Behalve zoals bepaald in de vierde paragraaf van dit voorschrift is verbranding aan boord alleen toegestaan in een verbrandingsinstallatie aan boord.
 
@@ -18653,7 +18675,7 @@ De bepalingen van deze Bijlage zijn van toepassing op alle schepen, tenzij uitdr
 
 9. Voor in overeenstemming met paragraaf 6.1 van dit voorschrift geïnstalleerde verbrandingsinstallaties dient de uitlaattemperatuur van de verbrandingskamer voortdurend te worden gemeten wanneer de eenheid in bedrijf is. Indien de verbrandingsinstallatie voorzien is van doorlopende toevoer, mag er geen afval aan de installatie worden toegevoerd wanneer de uitlaattemperatuur van de verbrandingskamer lager is dan 850°C. Bij verbrandingsinstallaties met toevoer in partijen, dient de eenheid zodanig te zijn ontworpen dat de uitlaattemperatuur van de verbrandingskamer binnen vijf minuten na inschakeling 600°C heeft bereikt om vervolgens te stijgen tot en stabiel te blijven op ten minste 850°C.
 
-#### Voorschrift 17. Ontvangstinrichtingen
+##### Voorschrift 17. Ontvangstinrichtingen
 
 1. Elke Partij verbindt zich ertoe zorg te dragen voor het beschikbaar zijn van toereikende inrichtingen die voorzien in de:
 
@@ -18683,7 +18705,7 @@ De Regering van elke Partij die deelneemt aan de regeling overlegt met de Organi
 
 4. Elke Partij stelt de Organisatie ter mededeling aan de leden van de Organisatie in kennis van alle gevallen waarin de desbetreffende voorzieningen niet beschikbaar zijn of als ontoereikend worden aangemerkt.
 
-#### Voorschrift 18. Beschikbaarheid en kwaliteit van brandstofolie
+##### Voorschrift 18. Beschikbaarheid en kwaliteit van brandstofolie
 
 1. Elke Partij neemt alle redelijke stappen om de beschikbaarheid van brandstofolie die voldoet aan deze Bijlage te bevorderen en informeert de Organisatie over de beschikbaarheid van geschikte brandstofolie in haar havens en laad- en losplaatsen.
 
@@ -18771,7 +18793,7 @@ De Regering van elke Partij die deelneemt aan de regeling overlegt met de Organi
 
 ### HOOFDSTUK 4. VOORSCHRIFTEN INZAKE KOOLSTOFINTENSITEIT VAN INTERNATIONALE SCHEEPVAART
 
-#### Voorschrift 19. Toepassing
+##### Voorschrift 19. Toepassing
 
 1. Dit Hoofdstuk is van toepassing op alle schepen met een brutotonnage van 400 en meer.
 
@@ -18797,11 +18819,11 @@ De Regering van elke Partij die deelneemt aan de regeling overlegt met de Organi
 
 6. De Administratie van een Partij bij dit Verdrag die toepassing van paragraaf 4 toestaat, of de toepassing van deze paragraaf opschort, intrekt of afwijst, met betrekking tot een schip dat gerechtigd is haar vlag te voeren, doet de Organisatie onverwijld de bijzonderheden daarvan toekomen voor toezending aan de Partijen bij dit Protocol ter informatie.
 
-#### Voorschrift 20. Doel
+##### Voorschrift 20. Doel
 
 Het doel van dit Hoofdstuk is het verminderen van de koolstofintensiteit van internationale scheepvaart, waarbij wordt toegewerkt naar de ambitieniveaus van de **Initial IMO Strategy on reduction of GHG emissions from ships.**
 
-#### Voorschrift 21. Functionele vereisten
+##### Voorschrift 21. Functionele vereisten
 
 Om de doelstelling van [voorschrift 20](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=4&artikel=20&z=2026-03-01&g=2026-03-01) van deze Bijlage te bereiken, moet een schip waarop dit Hoofdstuk van toepassing is, voor zover van toepassing, voldoen aan de volgende functionele vereisten om zijn koolstofintensiteit te verminderen:
 
@@ -18809,7 +18831,7 @@ Om de doelstelling van [voorschrift 20](https://wetten.overheid.nl/jci1.3:c:BWBV
 
 - 2. de operationele koolstofintensiteitsvereisten in overeenstemming met de [voorschriften 26](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=4&artikel=26&z=2026-03-01&g=2026-03-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=4&artikel=27&z=2026-03-01&g=2026-03-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=4&artikel=28&z=2026-03-01&g=2026-03-01) van deze Bijlage.
 
-#### Voorschrift 22. Bereikte ontwerpindex voor energie-efficiëntie (Bereikte EEDI)
+##### Voorschrift 22. Bereikte ontwerpindex voor energie-efficiëntie (Bereikte EEDI)
 
 1. De bereikte EEDI wordt berekend voor:
 
@@ -18829,7 +18851,7 @@ dat onder een of meer van de categorieën van de [voorschriften 2.2.5, 2.2.7, 2.
 
 - 2. binnen 7 maanden na 1 april 2022 voor een schip opgeleverd vóór 1 april 2022.
 
-#### Voorschrift 26. Energie-efficiëntiemanagementplan van het schip (SEEMP)
+##### Voorschrift 26. Energie-efficiëntiemanagementplan van het schip (SEEMP)
 
 1. Elk schip dient een op het schip van toepassing zijnde energie-efficiëntiemanagementplan (SEEMP) aan boord te hebben. Dit kan onderdeel vormen van het veiligheidsbeleidssysteem (SMS) van het schip. Het SEEMP dient te worden ontwikkeld en herzien met inachtneming van de door de Organisatie aangenomen richtlijnen.
 
@@ -18851,7 +18873,7 @@ dat onder een of meer van de categorieën van de [voorschriften 2.2.5, 2.2.7, 2.
 
 - 3. Het SEEMP is onderworpen aan verificatie en bedrijfsaudits met inachtneming van de door de Organisatie te ontwikkelen richtlijnen.
 
-#### Voorschrift 27. Verzamelen en rapporteren van gegevens over het brandstofolieverbruik van schepen
+##### Voorschrift 27. Verzamelen en rapporteren van gegevens over het brandstofolieverbruik van schepen
 
 1. Vanaf het kalenderjaar 2019 dienen voor elk schip van 5.000 brutotonnage en meer de in [Aanhangsel IX](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=IX&z=2026-03-01&g=2026-03-01) van deze Bijlage genoemde gegevens te worden verzameld voor dat kalenderjaar en elk daaropvolgend kalenderjaar of deel daarvan, naargelang van toepassing, volgens de in het SEEMP opgenomen methodologie.
 
@@ -18883,7 +18905,7 @@ dat onder een of meer van de categorieën van de [voorschriften 2.2.5, 2.2.7, 2.
 
 15. De Secretaris-Generaal van de Organisatie verleent, op verzoek van een onderneming, het algemeen publiek toegang tot de brandstofolieverbruikrapporten, in niet geanonimiseerde vorm, van schepen die de onderneming in eigendom heeft.
 
-#### Voorschrift 28. Operationele koolstofintensiteit
+##### Voorschrift 28. Operationele koolstofintensiteit
 
 1. Na het einde van het kalenderjaar 2023 en na het einde van elk daaropvolgend kalenderjaar berekent elk schip van 5.000 brutotonnage en meer dat onder één of meer van de categorieën van de [voorschriften 2.2.5, 2.2.7, 2.2.9, 2.2.11, 2.2.14 tot en met 2.2.16, 2.2.22 en 2.2.26 tot en met 2.2.29](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=1&artikel=2&z=2026-03-01&g=2026-03-01) van deze Bijlage valt, de bereikte jaarlijkse operationele KII over een periode van twaalf maanden van 1 januari tot en met 31 december van het voorgaande kalenderjaar, met gebruikmaking van de gegevens die overeenkomstig [voorschrift 27](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=4&artikel=27&z=2026-03-01&g=2026-03-01) van deze bijlage zijn verzameld, en met inachtneming van de door de Organisatie op te stellen richtlijnen.
 
@@ -18927,7 +18949,7 @@ zijn de waarden die zijn vastgesteld met inachtneming van de door de Organisatie
 
 Indien de Partijen op basis van de evaluatie besluiten wijzigingen van dit voorschrift aan te nemen, worden zij aangenomen en treden zij in werking in overeenstemming met de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&artikel=16&z=2026-03-01&g=2026-03-01) van dit Verdrag vervatte bepalingen.
 
-#### Voorschrift 29. Bevordering van technische samenwerking en overdracht van technologie met betrekking tot het verbeteren van de energie-efficiëntie van schepen
+##### Voorschrift 29. Bevordering van technische samenwerking en overdracht van technologie met betrekking tot het verbeteren van de energie-efficiëntie van schepen
 
 1. In samenwerking met de Organisatie en andere internationale organen bevorderen en verstrekken Administraties, al naargelang van toepassing, rechtstreeks of via de Organisatie rechtstreekse steun aan Staten, met name Staten in ontwikkeling, die om technische bijstand verzoeken.
 
@@ -18935,11 +18957,11 @@ Indien de Partijen op basis van de evaluatie besluiten wijzigingen van dit voors
 
 ### HOOFDSTUK 5. VERIFICATIE VAN DE NALEVING VAN DE BEPALINGEN VAN DEZE BIJLAGE
 
-#### Voorschrift 30. Toepassing
+##### Voorschrift 30. Toepassing
 
 De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering van hun verplichtingen en verantwoordelijkheden zoals vervat in deze Bijlage.
 
-#### Voorschrift 31. Verificatie van de naleving
+##### Voorschrift 31. Verificatie van de naleving
 
 1. Elke Partij wordt onderworpen aan periodieke audits door de Organisatie in overeenstemming met de auditnorm teneinde de naleving en implementatie van deze Bijlage te verifiëren.
 
@@ -18953,7 +18975,7 @@ De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering v
 
 - 2. vinden periodiek plaats, rekening houdend met de door de Organisatie opgestelde richtlijnen.
 
-#### 1. Doelstellingen
+##### 1. Doelstellingen
 
 1.1. Doel van dit aanhangsel is de Partijen te voorzien van criteria en procedures voor het formuleren en indienen van voorstellen voor het aanwijzen van gebieden voor emissiebeheersing en de factoren te benoemen die bij de beoordeling van deze voorstellen door de Organisatie in aanmerking dienen te worden genomen.
 
@@ -18961,13 +18983,13 @@ De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering v
 
 1.3. Aanneming van een gebied voor emissiebeheersing dient door de Organisatie te worden overwogen indien er een aantoonbare noodzaak bestaat tot preventie, reductie en beheersing van de emissie van NOx, SOx en fijnstof of een combinatie ervan (hierna emissies) door schepen.
 
-#### 2. Procedure voor de aanwijzing van gebieden voor emissiebeheersing
+##### 2. Procedure voor de aanwijzing van gebieden voor emissiebeheersing
 
 2.1. Een voorstel aan de Organisatie voor de aanwijzing van een gebied waar de emissie van NOx of SOx en fijnstof of alle drie de typen emissies dient te worden beheerst, kan uitsluitend door de Partijen worden ingediend. Indien twee of meer Partijen een gezamenlijk belang hebben in een specifiek gebied dienen ze gezamenlijk een voorstel in te dienen.
 
 2.2. Voorstellen voor de aanwijzing van een bepaald gebied als gebied voor emissiebeheersing dienen te worden ingediend bij de Organisatie in overeenstemming met de door de Organisatie vastgestelde regels en procedures.
 
-#### 3. Criteria voor de aanwijzing van gebieden voor emissiebeheersing
+##### 3. Criteria voor de aanwijzing van gebieden voor emissiebeheersing
 
 3.1. Het voorstel dient te omvatten:
 
@@ -18989,7 +19011,7 @@ De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering v
 
 3.2. De geografische grenzen van een gebied voor emissiebeheersing dienen gebaseerd te zijn op de bovenomschreven relevante criteria, met inbegrip van de emissies en stortingen door schepen die varen in het voorgestelde gebied, verkeerspatronen en -dichtheid en windomstandigheden.
 
-#### 4. Procedures voor de beoordeling en aanneming van gebieden voor emissiebeheersing door de Organisatie
+##### 4. Procedures voor de beoordeling en aanneming van gebieden voor emissiebeheersing door de Organisatie
 
 4.1. De Organisatie neemt ieder bij haar door een Partij of Partijen ingediend voorstel in overweging.
 
@@ -18997,7 +19019,7 @@ De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering v
 
 4.3. Een gebied voor emissiebeheersing wordt aangewezen door middel van een wijziging van deze Bijlage in overeenstemming met [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=VI&hoofdstuk=3&artikel=16&z=2026-03-01&g=2026-03-01) van dit Verdrag behandeld, aangenomen en in werking gesteld.
 
-#### 5. Functioneren van gebieden voor emissiebeheersing
+##### 5. Functioneren van gebieden voor emissiebeheersing
 
 5.1. Partijen met schepen die varen in het gebied worden aangemoedigd de Organisatie op de hoogte te stellen van eventuele zorgen omtrent het functioneren in het gebied.
 
@@ -19011,7 +19033,7 @@ Deel 2 – monster van brandstofolie die in gebruik is aan boord van schepen , d
 
 ## Deel 1. – monster geleverd uit hoofde van MARPOL
 
-#### 1. Algemene vereisten
+##### 1. Algemene vereisten
 
 - 1.1. Het representatieve brandstofoliemonster dat is geleverd uit hoofde van voorschrift 18.8.1 („monster geleverd uit hoofde van MARPOL”) verplicht is, wordt gebruikt om het zwavelgehalte van de aan een schip geleverde brandstofolie te verifiëren.
 
@@ -19019,7 +19041,7 @@ Deel 2 – monster van brandstofolie die in gebruik is aan boord van schepen , d
 
 - 1.3. Een laboratorium dat de in dit aanhangsel vervatte procedure voor de zwaveltest uitvoert dient een geldige accreditatie te hebben voor de gebruikte testmethode.
 
-#### 2. Verificatieprocedure deel 1
+##### 2. Verificatieprocedure deel 1
 
 - 2.1. De bevoegde autoriteit levert het monster geleverd uit hoofde van MARPOL af bij het laboratorium.
 
@@ -19070,7 +19092,7 @@ Deel 2 – monster van brandstofolie die in gebruik is aan boord van schepen , d
 
 ## Deel 2. – Monsters tijdens gebruik en aan boord
 
-#### 3. Algemene vereisten
+##### 3. Algemene vereisten
 
 - 3.1. Het monster tijdens gebruik of aan boord, naargelang van toepassing, wordt gebruikt om het zwavelgehalte te verifiëren van de brandstofolie zoals vertegenwoordigd door dat brandstofoliemonster op het bemonsteringspunt.
 
@@ -19078,7 +19100,7 @@ Deel 2 – monster van brandstofolie die in gebruik is aan boord van schepen , d
 
 - 3.3. Een laboratorium dat de in dit aanhangsel vervatte procedure voor de zwaveltest uitvoert dient een geldige accreditatie te hebben voor de gebruikte testmethode.
 
-#### 4. Verificatieprocedure deel 2
+##### 4. Verificatieprocedure deel 2
 
 - 4.1. De bevoegde autoriteit levert het in-gebruik-monster of het aan-boord-monster af bij het laboratorium.
 

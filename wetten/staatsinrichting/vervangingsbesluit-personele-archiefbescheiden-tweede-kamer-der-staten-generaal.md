@@ -1,32 +1,57 @@
 ---
 title: "Vervangingsbesluit personele archiefbescheiden Tweede Kamer der Staten-Generaal"
 identifier: "BWBR0041340"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2018-09-15
-laatste_update: 2018-09-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041340"
+country: "nl"
+rank: "reglement"
+publication_date: "2018-09-15"
+last_updated: "2018-09-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041340"
+soort: "reglement"
+stam_id: "14798573"
+version_id: "25301692"
+internal_id: "C36137851"
+label_id: "14750694"
+dtd_version: "2.0"
+original_entry_into_force: "2018-09-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041340/2018-09-15/0"
+intitule_bron: "Stcrt.2018-51554"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-09-04"
+intitule_published: "2018-09-14"
+intitule_in_force: "2018-09-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-51554"
+original_signed_date: "2018-09-04"
+original_published_date: "2018-09-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-51554"
+entry_into_force_date: "2018-09-15"
+jci_1_3: "jci1.3:c:BWBR0041340&z=2018-09-15&g=2018-09-15"
+jci_1_0: "1.0:c:BWBR0041340&g=2018-09-15"
+citeertitel_status: "officieel"
+signed_date: "2018-09-04"
+entry_into_force: "2018-09-15"
 ---
-
 # Vervangingsbesluit personele archiefbescheiden Tweede Kamer der Staten-Generaal
 
 Gelet op [artikel 7 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=7), [artikel 6, eerste lid, van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=6) en [artikel 26b van de Archiefregeling 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&artikel=26b);
 
 **BESLUIT**
 
-#### Artikel 1
+##### Artikel 1
 
 Dit besluit heeft betrekking op archiefbescheiden op papier die behoren of zullen gaan behoren tot het personeelsdossier van de medewerkers van de Tweede Kamer der Staten-Generaal. Deze archiefbescheiden worden vervangen door digitale reproducties. Deze vervanging betreft alle papieren archiefbescheiden die betrekking hebben op personeelsgegevens en salarisgegevens zoals beschreven in de Selectielijst voor de handelingen van de Tweede Kamer der Staten-Generaal op het deelbeleidsterrein van personeelszaken, t.w. het personeelsdossier over de periode vanaf 1945 (2009).
 
-#### Artikel 2
+##### Artikel 2
 
 De digitale vervanging geschiedt ten minste overeenkomstig de specificaties en instellingen zoals deze zijn opgenomen in de bijlage en op de wijze zoals beschreven in het Handboek Digitale Vervanging Personeelsdossiers van P-Direkt.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt gepubliceerd.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit wordt aangehaald als: Vervangingsbesluit personele archiefbescheiden Tweede Kamer der Staten-Generaal.
 

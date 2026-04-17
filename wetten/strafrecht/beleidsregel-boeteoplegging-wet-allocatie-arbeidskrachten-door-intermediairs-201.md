@@ -1,32 +1,58 @@
 ---
-title: "Beleidsregel boeteoplegging Wet allocatie arbeidskrachten door intermediairs 2014"
+title: "Beleidsregel van de Minister van Sociale Zaken en Werkgelegenheid van 17 februari 2014, 2014-0000020730, tot vaststelling van beleidsregels in het kader van de bestuursrechtelijke handhaving van de Wet allocatie arbeidskrachten door intermediairs (Beleidsregels boeteoplegging Wet allocatie arbeidskrachten door intermediairs 2014)"
 identifier: "BWBR0034835"
-categorie: "Strafrecht"
-publicatiedatum: 2026-04-02
-laatste_update: 2026-04-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034835"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-04-02"
+last_updated: "2026-04-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034835"
+soort: "ministeriele-regeling"
+stam_id: "12583033"
+version_id: "25233262"
+internal_id: "C36066621"
+label_id: "12553554"
+dtd_version: "2.0"
+original_entry_into_force: "2018-08-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034835/2026-04-02/0"
+intitule_bron: "Stcrt.2014-5048"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-02-17"
+intitule_published: "2014-02-20"
+intitule_in_force: "2014-02-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-49128"
+original_signed_date: "2018-08-27"
+original_published_date: "2018-09-03"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2018-49128"
+entry_into_force_date: "2018-08-27"
+jci_1_3: "jci1.3:c:BWBR0034835&z=2026-04-02&g=2026-04-02"
+jci_1_0: "1.0:c:BWBR0034835&g=2026-04-02"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel boeteoplegging Wet allocatie arbeidskrachten door intermediairs 2014"
+signed_date: "2018-08-27"
+entry_into_force: "2018-08-27"
 ---
-
 # Beleidsregel van de Minister van Sociale Zaken en Werkgelegenheid van 17 februari 2014, 2014-0000020730, tot vaststelling van beleidsregels in het kader van de bestuursrechtelijke handhaving van de Wet allocatie arbeidskrachten door intermediairs (Beleidsregels boeteoplegging Wet allocatie arbeidskrachten door intermediairs 2014)
 
 Gelet op [artikel 19, zesde lid, van de Wet allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=19);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Bij de berekening van een bestuurlijke boete als bedoeld in [artikel 19, eerste lid, van de Wet allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=19) wordt voor alle overtredingen als uitgangspunt gehanteerd de normbedragen die zijn neergelegd in de ‘Tarieflijst boetenormbedragen bestuurlijke boete Wet allocatie arbeidskrachten door intermediairs’ die als bijlage bij deze beleidsregels is gevoegd.
 
-#### Artikel 2
+##### Artikel 2
 
 Indien sprake is van een overtreding van [artikel 7a, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=7a), of [artikel 7b van de Wet allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=7b) door een rechtspersoon kan tevens een bestuurlijke boete worden opgelegd aan hen die tot het arbeidskrachten ter beschikking stellen of inlenen opdracht hebben gegeven, als mede aan hen die feitelijk leiding hieraan hebben gegeven.
 
-#### Artikel 3
+##### Artikel 3
 
 Voor de overtreder als natuurlijk persoon wordt bij een overtreding van [artikel 7a, tweede lid, van de Wet allocatie arbeidskrachten](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=7a) door intermediairs als uitgangspunt voor de berekening van de op te leggen bestuurlijke boete gehanteerd: 0,5 maal het boetenormbedrag.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een onderneming die in het Handelsregister, bedoeld in [artikel 2 van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=2), is ingeschreven onder één van de volgende SBI codes:
 
@@ -44,15 +70,15 @@ wordt geacht als onderneming die de activiteit van het ter beschikking stellen v
 
 4. Indien de boete die aan de uitlener wordt opgelegd op grond van het vorige lid wordt gematigd, wordt dezelfde matiging toegepast op de boete die aan de inlener wordt opgelegd, tenzij aan de inlener in de vijf jaar voorafgaand aan de overtreding waarvoor nu een boete wordt opgelegd eerder een boete voor overtreding van één van de voorschriften van de [Wet allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0009616) is opgelegd.
 
-#### Artikel 5
+##### Artikel 5
 
 De totale bij een boetebeschikking op te leggen bestuurlijke boete bestaat, ingeval er sprake is van meer overtredingen, uit de som van de per overtreding berekende boetebedragen.
 
-#### Artikel 6
+##### Artikel 6
 
 Indien de onderneming of de inlener kan aantonen dat hij ten aanzien van een overtreding van [artikel 7a, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=7a), of [artikel 7b van de Wet allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=7b) verminderd verwijtbaar heeft gehandeld, dan kan de bestuurlijke boete met 50% worden gematigd.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Bij de vaststelling of sprake is van herhaling van dezelfde of soortgelijke overtredingen wordt bij zelfstandig opererende nevenvestigingen van rechtspersonen gehandeld alsof deze afzonderlijke ondernemingen zijn.
 
@@ -62,15 +88,15 @@ Indien de onderneming of de inlener kan aantonen dat hij ten aanzien van een ove
 
 4. Het eerste en tweede lid zijn niet van toepassing bij een overtreding van [artikel 7a, eerste lid, van de Wet allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=7a).
 
-#### Artikel 8
+##### Artikel 8
 
 De [Beleidsregel boeteoplegging Wet allocatie arbeidskrachten door intermediairs 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032357) wordt ingetrokken.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 juli 2012.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel boeteoplegging Wet allocatie arbeidskrachten door intermediairs 2014.
 
@@ -87,7 +113,7 @@ Deze beleidsregel wordt aangehaald als: Beleidsregel boeteoplegging Wet allocati
 
 Deze regeling zal met de toelichting (en de bijlage(n)) in de Staatscourant worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Het boetenormbedrag voor overtreding van [artikel 7a, eerste lid of tweede lid, van de Wet allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=7a) wordt met 50% verhoogd, indien zich ten minste één van de volgende situaties voordoet:
 

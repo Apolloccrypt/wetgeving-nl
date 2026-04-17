@@ -1,13 +1,36 @@
 ---
-title: "Protocol van Torremolinos van 1993 inzake het Internationaal Verdrag voor de beveiliging van vissersvaartuigen, 1977"
+title: "Protocol van Torremolinos van 1993 inzake het Internationaal Verdrag van Torremolinos voor de beveiliging van vissersvaartuigen, 1977"
 identifier: "BWBV0001531"
-categorie: "Internationaal recht"
-publicatiedatum: 1993-04-02
-laatste_update: 1993-04-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001531"
+country: "nl"
+rank: "verdrag"
+publication_date: "1993-04-02"
+last_updated: "1993-04-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001531"
+soort: "verdrag"
+stam_id: "10002307103"
+version_id: "10002316932"
+internal_id: "C10006977951"
+label_id: "10002297174"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001531/1993-04-02/0"
+intitule_bron: "Trb.2001-168"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-04-08"
+intitule_published: "2001-10-10"
+intitule_status: "nogniet"
+original_publication: "Trb.2001-168"
+original_signed_date: "2002-04-08"
+original_published_date: "2001-10-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2001-168"
+jci_1_3: "jci1.3:c:BWBV0001531&z=1993-04-02&g=1993-04-02"
+jci_1_0: "1.0:c:BWBV0001531&g=1993-04-02"
+citeertitel_status: "redactioneel"
+short_title: "Protocol van Torremolinos van 1993 inzake het Internationaal Verdrag voor de beveiliging van vissersvaartuigen, 1977"
+signed_date: "2002-04-08"
+entry_into_force: "2001-10-10"
 ---
-
 # Protocol van Torremolinos van 1993 inzake het Internationaal Verdrag van Torremolinos voor de beveiliging van vissersvaartuigen, 1977
 
 De Partijen bij dit Protocol,
@@ -22,7 +45,7 @@ Overwegend dat dit doel het beste kan worden bereikt door het sluiten van een Pr
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Algemene verplichtingen
+##### Artikel 1. Algemene verplichtingen
 
 1. De Partijen bij dit Protocol geven uitvoering aan de bepalingen van:
 
@@ -34,7 +57,7 @@ Zijn het volgende overeengekomen:
 
 3. De Bijlage bij dit Protocol vormt een integrerend deel van het Protocol en een verwijzing naar dit Protocol houdt terzelfdertijd een verwijzing in naar de Bijlage hierbij.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 Voor de toepassing van dit Protocol wordt, tenzij uitdrukkelijk anders is bepaald, verstaan onder:
 
@@ -50,7 +73,7 @@ Voor de toepassing van dit Protocol wordt, tenzij uitdrukkelijk anders is bepaal
 
 - f. „Voorschriften", de voorschriften vervat in de Bijlage bij het Verdrag zoals gewijzigd door dit Protocol.
 
-#### Artikel 3. Toepassing
+##### Artikel 3. Toepassing
 
 1. Dit Protocol is van toepassing op zeegaande vissersvaartuigen, met inbegrip van vaartuigen waarop de vangst tevens wordt verwerkt, die gerechtigd zijn de vlag van een Partij te voeren.
 
@@ -70,7 +93,7 @@ Voor de toepassing van dit Protocol wordt, tenzij uitdrukkelijk anders is bepaal
 
 5. De Partijen spannen zich in om, bij hoge voorrang, uniforme normen in te stellen die door de Administraties moeten worden toegepast op de in het vierde lid bedoelde vissersvaartuigen, die in dezelfde regio worden geëxploiteerd, rekening houdend met de wijze van exploitatie, de beschutte aard en de klimatologische omstandigheden in die regio. Deze regionale uniforme normen worden medegedeeld aan de Organisatie, die deze ter kennisneming mededeelt aan de andere Partijen.
 
-#### Artikel 4. Afgifte van certificaten en controle door de havenstaat
+##### Artikel 4. Afgifte van certificaten en controle door de havenstaat
 
 1. Elk vaartuig dat in overeenstemming met de bepalingen van de voorschriften in het bezit van een certificaat moet zijn, is, wanneer het zich in een haven van een andere Partij bevindt, onderworpen aan de controle door door de Regering van die Partij naar behoren bevoegd verklaarde ambtenaren, voorzover deze controle erop gericht is zekerheid te verkrijgen dat het krachtens de bepalingen van de desbetreffende voorschriften afgegeven certificaat geldig is.
 
@@ -86,13 +109,13 @@ Voor de toepassing van dit Protocol wordt, tenzij uitdrukkelijk anders is bepaal
 
 7. Ten aanzien van vaartuigen van Staten die geen Partij zijn bij dit Protocol, passen de Partijen de eisen van dit Protocol toe voorzover zulks noodzakelijk is om ervoor zorg te dragen dat deze vaartuigen geen gunstiger behandeling genieten.
 
-#### Artikel 5. Overmacht
+##### Artikel 5. Overmacht
 
 1. Een vaartuig dat bij de aanvang van een reis niet is onderworpen aan de bepalingen van dit Protocol of niet verplicht is een certificaat aan boord te hebben overeenkomstig de bepalingen van dit Protocol, wordt hieraan ook niet onderworpen wegens een afwijking van zijn voorgenomen route die te wijten is aan slecht weer of aan enige andere vorm van overmacht.
 
 2. Personen die aan boord van een vaartuig zijn door overmacht of tengevolge van de verplichting schipbreukelingen of andere personen te vervoeren, worden niet in aanmerking genomen bij de vraag of het vaartuig voldoet aan de bepalingen van dit Protocol.
 
-#### Artikel 6. Verstrekking van inlichtingen
+##### Artikel 6. Verstrekking van inlichtingen
 
 1. De Partijen zenden aan de Organisatie:
 
@@ -104,17 +127,17 @@ Voor de toepassing van dit Protocol wordt, tenzij uitdrukkelijk anders is bepaal
 
 2. De Organisatie stelt alle Partijen in kennis van de ontvangst van elke mededeling die op grond van het eerste lid, letter a), is gedaan en stelt hen in kennis van alle inlichtingen die haar op grond van het eerste lid, letters b) en c) zijn verstrekt.
 
-#### Artikel 7. Ongevallen aan vissersvaartuigen overkomen
+##### Artikel 7. Ongevallen aan vissersvaartuigen overkomen
 
 1. Elke Partij stelt een onderzoek in naar elk ongeval dat haar vaartuigen waarop de bepalingen van dit Protocol van toepassing zijn, mocht overkomen, wanneer zij van oordeel is dat een zodanig onderzoek kan bijdragen tot het doen vaststellen van wijzigingen die in dit Protocol wenselijk zouden kunnen zijn.
 
 2. Elke Partij verstrekt de Organisatie, ter kennisgeving aan alle Partijen, relevante inlichtingen betreffende de resultaten van een zodanig onderzoek. Rapporten of aanbevelingen van de Organisatie die gebaseerd zijn op dergelijke inlichtingen, mogen niet de identiteit of nationaliteit van de betrokken vaartuigen onthullen, of op enigerlei wijze een vaartuig of een persoon verantwoordelijk stellen of de verantwoordelijkheid daarvan veronderstellen.
 
-#### Artikel 8. Andere verdragen en interpretatie
+##### Artikel 8. Andere verdragen en interpretatie
 
 Geen enkele bepaling van dit Protocol doet afbreuk aan de huidige of toekomstige aanspraken en juridische opvattingen van een Staat met betrekking tot het zeerecht en de aard en omvang van de rechtsmacht van kuststaten en vlaggenstaten.
 
-#### Artikel 9. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
+##### Artikel 9. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
 
 1. Dit Protocol blijft open voor ondertekening op het Hoofdkantoor van de Organisatie van 1 juli 1993 tot en met 30 juni 1994 en blijft daarna open voor toetreding. Alle Staten kunnen partij bij dit Protocol worden door:
 
@@ -128,7 +151,7 @@ Geen enkele bepaling van dit Protocol doet afbreuk aan de huidige of toekomstige
 
 3. Elke Staat die hetzij dit Protocol heeft ondertekend zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring hetzij de vereiste akten van bekrachtiging, aanvaarding, goedkeuring of toetreding overeenkomstig dit artikel heeft nedergelegd, verstrekt de Secretaris-Generaal, op het tijdstip van de nederlegging van de bovengenoemde akte en aan het einde van elk jaar, inlichtingen over het totale aantal vissersvaartuigen met een lengte van 24 meter of meer die gerechtigd zijn de vlag van die Staat te voeren.
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 1. Dit Protocol treedt in werking twaalf maanden na de datum waarop niet minder dan 15 Staten, waarvan het totale aantal vissersvaartuigen met een lengte van 24 meter of meer niet minder dan 14.000 bedraagt, dit hetzij hebben ondertekend zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring, hetzij overeenkomstig artikel 9 de vereiste akten van bekrachtiging, aanvaarding, goedkeuring of toetreding hebben nedergelegd.
 
@@ -138,7 +161,7 @@ Geen enkele bepaling van dit Protocol doet afbreuk aan de huidige of toekomstige
 
 4. Na de datum waarop een wijziging van dit Protocol geacht wordt te zijn aanvaard ingevolge artikel 11, heeft elke akte van bekrachtiging, aanvaarding, goedkeuring of toetreding betrekking op dit Protocol, zoals gewijzigd.
 
-#### Artikel 11. Wijzigingen
+##### Artikel 11. Wijzigingen
 
 1. Dit Protocol kan worden gewijzigd door middel van een van de twee der in dit artikel genoemde procedures.
 
@@ -194,7 +217,7 @@ Geen enkele bepaling van dit Protocol doet afbreuk aan de huidige of toekomstige
 
 7. De Secretaris-Generaal stelt alle Partijen in kennis van wijzigingen die in werking treden krachtens dit artikel, alsmede van de datum waarop elke wijziging in werking treedt.
 
-#### Artikel 12. Opzegging
+##### Artikel 12. Opzegging
 
 1. Een Partij kan dit Protocol na verloop van vijf jaar na de datum waarop het voor die Partij in werking is getreden, te allen tijde opzeggen.
 
@@ -202,7 +225,7 @@ Geen enkele bepaling van dit Protocol doet afbreuk aan de huidige of toekomstige
 
 3. Een opzegging wordt van kracht twaalf maanden na ontvangst van de kennisgeving van opzegging door de Secretaris-Generaal of na verloop van een langere periode die in de kennisgeving kan worden aangegeven.
 
-#### Artikel 13. Depositaris
+##### Artikel 13. Depositaris
 
 1. Dit Protocol wordt nedergelegd bij de Secretaris-Generaal van de Organisatie (hierna te noemen „de Depositaris").
 
@@ -220,7 +243,7 @@ Geen enkele bepaling van dit Protocol doet afbreuk aan de huidige of toekomstige
 
 3. Zodra dit Protocol in werking treedt, wordt een voor eensluidend gewaarmerkt afschrift daarvan door de Depositaris toegezonden aan de Secretaris-Generaal van de Verenigde Naties voor registratie en publicatie overeenkomstig artikel 102 van het Handvest van de Verenigde Naties.
 
-#### Artikel 14. Talen
+##### Artikel 14. Talen
 
 Dit Protocol is opgesteld in een enkel origineel in de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse taal, zijnde alle teksten gelijkelijk authentiek.
 

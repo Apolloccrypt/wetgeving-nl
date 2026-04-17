@@ -1,13 +1,39 @@
 ---
-title: "Regeling griffierechten burgerlijke zaken"
+title: "Regeling van de Minister van Veiligheid en Justitie van 26 oktober 2010, nr. 5673146/10/6 houdende de invoering van de Regeling griffierechten burgerlijke zaken (Regeling griffierechten burgerlijke zaken)"
 identifier: "BWBR0028908"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2017-07-26
-laatste_update: 2017-07-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028908"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-07-26"
+last_updated: "2017-07-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028908"
+soort: "ministeriele-regeling"
+stam_id: "11065413"
+version_id: "18079112"
+internal_id: "C25130841"
+label_id: "11039834"
+dtd_version: "2.0"
+original_entry_into_force: "2010-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028908/2017-07-26/0"
+intitule_bron: "Stcrt.2010-16993"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-10-26"
+intitule_published: "2010-10-29"
+intitule_in_force: "2010-10-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-16993"
+original_signed_date: "2010-10-26"
+original_published_date: "2010-10-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-16993"
+entry_into_force_date: "2010-11-01"
+jci_1_3: "jci1.3:c:BWBR0028908&z=2017-07-26&g=2017-07-26"
+jci_1_0: "1.0:c:BWBR0028908&g=2017-07-26"
+citeertitel_status: "officieel"
+short_title: "Regeling griffierechten burgerlijke zaken"
+signed_date: "2010-10-26"
+entry_into_force: "2010-11-01"
 ---
-
 # Regeling van de Minister van Veiligheid en Justitie van 26 oktober 2010, nr. 5673146/10/6 houdende de invoering van de Regeling griffierechten burgerlijke zaken (Regeling griffierechten burgerlijke zaken)
 
 Gelet op de [artikelen 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028899&artikel=4), en [21, tweede lid, van de Wet griffierechten burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0028899&artikel=21), [28, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=28), en [838 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=838) en [1 van het Besluit griffierechten burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0028901&artikel=1), juncto [12, vijfde lid, van het Besluit tarieven in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&artikel=12);
@@ -16,7 +42,7 @@ Besluit:
 
 Treedt in werking op het tijdstip waarop de artikelen 4, derde lid, en 21, tweede lid, van de Wet griffierechten burgerlijke zaken in werking treden.
 
-#### Artikel 1
+##### Artikel 1
 
 1. Geen griffierecht wordt geheven voor:
 
@@ -54,25 +80,25 @@ Treedt in werking op het tijdstip waarop de artikelen 4, derde lid, en 21, tweed
 
 - c. ingeval van verzet tegen een dwangbevel als bedoeld in [artikel 21 van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=21).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Met toepassing van [artikel 1 van het Besluit griffierechten burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0028901&artikel=1) juncto [artikel 12, vijfde lid, van het Besluit tarieven in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&artikel=12) kunnen personen en instellingen voor doeleinden van algemeen belang op hun verzoek worden vrijgesteld van de heffing van griffierecht.
 
 2. Het verzoek, bedoeld in het eerste lid, moet schriftelijk worden gedaan aan de Minister van Veiligheid en Justitie en duidelijk vermelden ten behoeve van welk doel de vrijstelling wordt gevraagd.
 
-#### Artikel 3
+##### Artikel 3
 
 De Ministeriële [regeling tarieven in burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0013656) wordt ingetrokken.
 
-#### Artikel 4
+##### Artikel 4
 
 In zaken waarop op grond van [artikel 56a van de Wet griffierechten in burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0028899&artikel=56a) de [Wet tarieven in burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0001852) van toepassing blijft, blijft tevens de [Regeling tarieven in burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0013656) van toepassing.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking op het tijdstip waarop de [artikelen 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028899&artikel=4), en [21, tweede lid, van de Wet griffierechten burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0028899&artikel=21) in werking treden.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling wordt aangehaald als Regeling griffierechten burgerlijke zaken.
 

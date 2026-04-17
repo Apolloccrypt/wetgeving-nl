@@ -1,13 +1,38 @@
 ---
 title: "Inkomstenbelasting, vennootschapsbelasting, winst uit zeescheepvaart, afschrijving op zeeschepen, samenwerkingsverbanden in zeescheepvaartondernemingen en forfaitaire winstvaststelling"
 identifier: "BWBR0050418"
-categorie: "Belastingrecht"
-publicatiedatum: 2024-11-16
-laatste_update: 2024-11-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050418"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2024-11-16"
+last_updated: "2024-11-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050418"
+soort: "beleidsregel"
+stam_id: "17270543"
+version_id: "30419082"
+internal_id: "C43623661"
+label_id: "17176514"
+dtd_version: "2.0"
+original_entry_into_force: "2024-11-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050418/2024-11-16/0"
+intitule_bron: "Stcrt.2024-35278"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-10-22"
+intitule_published: "2024-11-15"
+intitule_in_force: "2024-11-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-35278"
+original_signed_date: "2024-10-22"
+original_published_date: "2024-11-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-35278"
+entry_into_force_date: "2024-11-16"
+jci_1_3: "jci1.3:c:BWBR0050418&z=2024-11-16&g=2024-11-16"
+jci_1_0: "1.0:c:BWBR0050418&g=2024-11-16"
+citeertitel_status: "redactioneel"
+signed_date: "2024-10-22"
+entry_into_force: "2024-11-16"
 ---
-
 # Inkomstenbelasting, vennootschapsbelasting, winst uit zeescheepvaart, afschrijving op zeeschepen, samenwerkingsverbanden in zeescheepvaartondernemingen en forfaitaire winstvaststelling
 
 **De Minister van Financiën heeft het volgende besloten.**

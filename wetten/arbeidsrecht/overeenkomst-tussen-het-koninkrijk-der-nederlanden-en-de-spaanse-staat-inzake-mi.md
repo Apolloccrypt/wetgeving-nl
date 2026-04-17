@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Spaanse Staat inzake migratie, aanwerving en tewerkstelling van Spaanse arbeiders in Nederland"
 identifier: "BWBV0004184"
-categorie: "Arbeidsrecht"
-publicatiedatum: 1961-04-08
-laatste_update: 1961-04-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004184"
+country: "nl"
+rank: "verdrag"
+publication_date: "1961-04-08"
+last_updated: "1961-04-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004184"
+soort: "verdrag"
+stam_id: "10003991183"
+version_id: "10004146972"
+internal_id: "C10008364801"
+label_id: "10003975944"
+dtd_version: "2.0"
+original_entry_into_force: "1961-04-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004184/1961-04-08/0"
+intitule_bron: "Trb.1961-59"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1961-06-07"
+intitule_in_force: "1961-06-07"
+intitule_status: "goed"
+original_publication: "Trb.1961-59"
+original_published_date: "1961-06-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1961-59"
+entry_into_force_date: "1961-04-08"
+jci_1_3: "jci1.3:c:BWBV0004184&z=1961-04-08&g=1961-04-08"
+jci_1_0: "1.0:c:BWBV0004184&g=1961-04-08"
+citeertitel_status: "redactioneel"
+entry_into_force: "1961-04-08"
 ---
-
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Spaanse Staat inzake migratie, aanwerving en tewerkstelling van Spaanse arbeiders in Nederland
 
 De Regering van het Koninkrijk der Nederlanden en
@@ -24,7 +46,7 @@ Zijn de volgende bepalingen overeengekomen:
 
 ### Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 Ter zake van de migratie, de aanwerving en de tewerkstelling van Spaanse arbeiders in Nederland zijn bevoegd:
 
@@ -32,13 +54,13 @@ Aan Spaanse zijde, het Instituto Español de Emigración (in het vervolg te noem
 
 Aan Nederlandse zijde, de Directie Arbeidsvoorziening van het Ministerie van Sociale Zaken en Volksgezondheid (in het vervolg te noemen Directie).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Opdat de bevoegde Spaanse autoriteiten tijdig de nodige voorzieningen kunnen treffen en aan de aanvragen voldoen, zal de Directie aan het Instituto ten minste eens in de zes maanden inlichtingen verstrekken over de geraamde behoeften van het Nederlandse bedrijfsleven aan Spaanse arbeiders, onderverdeeld naar takken der economische bedrijvigheid, naar bedrijfsklassen en naar beroepen.
 
 2. Het Instituto zal aan de Directie zo spoedig mogelijk doen weten in hoeverre aan de aanvragen zal kunnen worden voldaan.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De Directie zal aan het Instituto alle inlichtingen verschaffen betreffende de algemene loons- en arbeidsvoorwaarden en de levensomstandigheden, die kunnen strekken tot voorlichting van de arbeiders.
 
@@ -48,7 +70,7 @@ Aan Nederlandse zijde, de Directie Arbeidsvoorziening van het Ministerie van Soc
 
 ### Aanwerving en tewerkstelling
 
-#### Artikel 4
+##### Artikel 4
 
 1. Rekening houdende met de opgaven vermeld in artikel 2, zendt de Directie aan het Instituto de aanbiedingen van werk der Nederlandse werkgevers.
 
@@ -56,7 +78,7 @@ Aan Nederlandse zijde, de Directie Arbeidsvoorziening van het Ministerie van Soc
 
 3. Indien naar het zich laat aanzien aan de aanvrage kan worden voldaan, zal het Instituto, in samenwerking met de Servicio, de noodzakelijke maatregelen treffen voor snelle bekendmaking der aanbiedingen van werk en van de voor de arbeiders van belang zijnde gegevens en inlichtingen.
 
-#### Artikel 5
+##### Artikel 5
 
 De leeftijdsgrenzen waarbinnen de Spaanse arbeiders werk in Nederland kunnen verkrijgen, zijn vastgesteld als volgt:
 
@@ -66,7 +88,7 @@ De leeftijdsgrenzen waarbinnen de Spaanse arbeiders werk in Nederland kunnen ver
 
 Deze leeftijdsgrenzen kunnen worden gewijzigd voor de op naam aangevraagde arbeiders of, in bijzondere gevallen, in overleg tussen het Instituto en de Directie.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De kandidaten die zich voor tewerkstelling in Nederland melden, zullen door het Instituto, in samenwerking met de Servicio, worden onderzocht op hun gezondheidstoestand, vakbekwaamheid en met betrekking tot de overige bijzondere voorwaarden, die door de Directie zijn gesteld.
 
@@ -76,23 +98,23 @@ Deze leeftijdsgrenzen kunnen worden gewijzigd voor de op naam aangevraagde arbei
 
 4. De lijst van de geschikt bevonden kandidaten zal door het Instituto, onder bijvoeging van de voor ieder hunner ingevulde formulieren, aan de Directie worden toegezonden.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De Directie kan een delegatie naar Spanje zenden, die belast is met de definitieve selectie van de door het Instituto voorgedragen kandidaten.
 
 2. Opdat genoemde delegatie, indien dit wenselijk wordt geacht, een medisch en vakbekwaamheidsonderzoek snel en afdoende kan verrichten, zal het Instituto in de, in onderling overleg vast te stellen, selectie-plaatsen lokaliteiten en apparatuur beschikbaar stellen.
 
-#### Artikel 8
+##### Artikel 8
 
 De Directie zal aan het Instituto zo spoedig mogelijk een lijst van definitief aanvaarde arbeiders en een lijst van afgewezen kandidaten toezenden.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Ten behoeve van iedere arbeider die definitief voor tewerkstelling in aanmerking komt, zal de Directie aan het Instituto een arbeidscontract in tweevoud met een geldigheidsduur van een jaar zenden, getekend door de werkgever en gesteld in het Nederlands en het Spaans, overeenkomstig een model dat in overleg tussen het Instituto en de Directie wordt vastgesteld. Het contract zal door de arbeider voor zijn vertrek uit Spanje dienen te worden getekend.
 
 2. De bevoegde Nederlandse autoriteiten zullen gratis aan bovengenoemde arbeiders alle documenten verstrekken om in Nederland te verblijven en te werken.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Na ontvangst van het arbeidscontract bedoeld in artikel 9, zal het Instituto ervoor zorgdragen, dat de arbeider in het bezit is van een paspoort.
 
@@ -100,7 +122,7 @@ De Directie zal aan het Instituto zo spoedig mogelijk een lijst van definitief a
 
 3. Het consulaire visum in het paspoort is kosteloos.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Het Instituto zal ervoor zorgdragen, dat de aangeworven arbeiders aanwezig zijn op de met de Directie overeengekomen data en plaatsen van vertrek naar Nederland.
 
@@ -110,17 +132,17 @@ De Directie zal aan het Instituto zo spoedig mogelijk een lijst van definitief a
 
 4. Alle vervoerskosten vermeld in dit artikel zullen ten laste van de werkgevers komen en zullen door de Directie van hen worden teruggevorderd.
 
-#### Artikel 12
+##### Artikel 12
 
 De Nederlandse werkgevers kunnen bij de Nederlandse Arbeidsbureaus het oordeel van de Directie of van de delegatie inzake de arbeidsgeschiktheid slechts weigeren te aanvaarden in de gevallen, waarin de ongeschiktheid van de arbeider bij de uitoefening van zijn werk onmiskenbaar blijkt.
 
 In die gevallen zullen de Nederlandse Arbeidsbureaus zich beijveren aan de betrokkenen een betrekking aan te bieden, welke overeenkomt met hun vakbekwaamheid.
 
-#### Artikel 13
+##### Artikel 13
 
 Ingeval Nederlandse werkgevers met name aangeduide Spaanse arbeiders aanvragen, op grond van persoonlijke betrekkingen, kan de procedure van selectie en aanwerving vereenvoudigd worden, in overeenstemming tussen het Instituto en de Directie.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Voor Spaanse rekening zullen komen de kosten van de keuring die door het instituto verricht wordt, waaronder verstaan wordt de kosten van de medische en beroepskeuringen, van de reizen der arbeiders van hun woonplaatsen naar de plaats waar de keuringen plaatsvinden, en die van hun voeding en onderdak gedurende het verblijf in de selectieplaatsen.
 
@@ -130,11 +152,11 @@ Ingeval Nederlandse werkgevers met name aangeduide Spaanse arbeiders aanvragen, 
 
 ### Algemene arbeidsvoorwaarden
 
-#### Artikel 15
+##### Artikel 15
 
 De Directie zal aan het desbetreffende Spaanse Consulaat lijsten toezenden van de arbeiders die binnen het raam van deze overeenkomst zijn aangekomen, met het adres van de werkgever en het eerste adres van iedere arbeider.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De Spaanse arbeiders zullen in Nederland tewerk worden gesteld onder dezelfde loon- en arbeidsvoorwaarden als de Nederlandse arbeiders, volgens de wettelijke bepalingen, de collectieve arbeidscontracten, de beroepsgebruiken en plaatselijke gewoonten.
 
@@ -146,17 +168,17 @@ De Directie zal aan het desbetreffende Spaanse Consulaat lijsten toezenden van d
 
 5. De Spaanse consuls kunnen, in geschillen als bedoeld in de vorige paragraaf, de Spaanse arbeiders bijstaan, met inachtneming van de grenzen gesteld door de Nederlandse wetgeving.
 
-#### Artikel 17
+##### Artikel 17
 
 De Spaanse arbeiders zullen naar Spanje het totale bedrag van hun spaargelden kunnen overmaken, in overeenstemming met de in Nederland geldende regelingen.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De Nederlandse Arbeidsbureaus en de Nederlandse werkgevers zullen aan de Spaanse arbeiders alle noodzakelijke hulp verschaffen om hen vertrouwd te maken met de nieuwe omgeving waarin zij zich bevinden, in het bijzonder in de eerste tijd van hun tewerkstelling.
 
 2. De bevoegde autoriteiten van beide Overeenkomstsluitende Partijen zullen met welwillendheid alle initiatieven onderzoeken van maatschappelijke en godsdienstige organisaties, zowel Nederlandse als Spaanse, die ten doel hebben de aanpassing van de Spaanse arbeiders te vergemakkelijken. Eveneens zal de samenwerking tussen de vermelde Spaanse en Nederlandse organisaties worden vergemakkelijkt.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Bij het beëindigen van het contract zal de arbeider terugkeren naar Spanje, tenzij zijn contract vernieuwd wordt of tenzij hij met machtiging van de Nederlandse autoriteiten een nieuwe tewerkstelling aanvaardt.
 
@@ -166,11 +188,11 @@ De Spaanse arbeiders zullen naar Spanje het totale bedrag van hun spaargelden ku
 
 ### Slotbepalingen
 
-#### Artikel 20
+##### Artikel 20
 
 De bevoegde Nederlandse autoriteiten zullen, om redenen van openbare orde, openbare veiligheid of volksgezondheid, arbeiders die binnen het raam van deze Overeenkomst zijn aangeworven, naar Spanje kunnen repatriëren.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Op verzoek van een der beide Overeenkomstsluitende Partijen zal een Gemengde Commissie ingesteld kunnen worden, bestaande ten hoogste uit drie vertegenwoordigers van iedere Partij. Iedere afvaardiging kan worden bijgestaan door de nodige deskundigen.
 
@@ -182,11 +204,11 @@ Indien hiertoe aanleiding bestaat, zal zij aan beide Partijen voorstellen doen i
 
 3. De gemengde Commissie zal haar eigen inwendige organisatie en haar werkwijze vaststellen. Haar vergaderingen zullen afwisselend plaatshebben in Spanje en in Nederland.
 
-#### Artikel 22
+##### Artikel 22
 
 Wat het Koninkrijk der Nederlanden betreft, zal deze Overeenkomst alleen van toepassing zijn op het in Europa gelegen gebied van het Koninkrijk.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Deze Overeenkomst treedt in werking op de datum van ondertekening.
 
@@ -194,15 +216,15 @@ Wat het Koninkrijk der Nederlanden betreft, zal deze Overeenkomst alleen van toe
 
 Ter gelegenheid van de ondertekening op rieden van de Overeenkomst tussen het Koninkrijk der Nederlanden en de Spaanse Staat inzake migratie, aanwerving en tewerkstelling van Spaanse arbeiders in Nederland, zijn de gevolmachtigden van de beide Overeenkomstsluitende Partijen het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 Vastgesteld wordt, dat de Nederlandse wetgeving inzake sociale zekerheid van toepassing is op de Spaanse arbeiders die op het grondgebied van Nederland worden tewerkgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 Beide Overeenkomstsluitende Partijen nemen de verplichtingen op zich de totstandkoming op korte termijn van een Algemeen Verdrag inzake sociale zekerheid te bevorderen.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit Protocol zal in werking treden tegelijk met de Overeenkomst inzake migratie, aanwerving en tewerkstelling van Spaanse arbeiders in Nederland en zal dezelfde geldigheidsduur hebben als genoemde Overeenkomst.
 

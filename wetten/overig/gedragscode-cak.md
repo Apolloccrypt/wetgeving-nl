@@ -1,20 +1,46 @@
 ---
-title: "Gedragscode CAK"
+title: "Besluit van het CAK van 13 januari 2015, tot vaststelling van een gedragscode (Gedragscode CAK)"
 identifier: "BWBR0036206"
-categorie: "Overig"
-publicatiedatum: 2015-02-02
-laatste_update: 2015-02-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036206"
+country: "nl"
+rank: "zbo"
+publication_date: "2015-02-02"
+last_updated: "2015-02-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036206"
+soort: "zbo"
+stam_id: "12970033"
+version_id: "22121082"
+internal_id: "C31721961"
+label_id: "12939154"
+dtd_version: "2.0"
+original_entry_into_force: "2015-02-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036206/2015-02-02/0"
+intitule_bron: "Stcrt.2015-2473"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-01-13"
+intitule_published: "2015-02-02"
+intitule_in_force: "2015-02-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-2473"
+original_signed_date: "2015-01-13"
+original_published_date: "2015-02-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-2473"
+entry_into_force_date: "2015-02-02"
+jci_1_3: "jci1.3:c:BWBR0036206&z=2015-02-02&g=2015-02-02"
+jci_1_0: "1.0:c:BWBR0036206&g=2015-02-02"
+citeertitel_status: "officieel"
+short_title: "Gedragscode CAK"
+signed_date: "2015-01-13"
+entry_into_force: "2015-02-02"
 ---
-
 # Besluit van het CAK van 13 januari 2015, tot vaststelling van een gedragscode (Gedragscode CAK)
 
 Het CAK,
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze gedragscode wordt verstaan onder:
 
@@ -24,13 +50,13 @@ In deze gedragscode wordt verstaan onder:
 
 - c. **minister:** de Minister van Volksgezondheid, Welzijn en Sport.
 
-#### Artikel 2. Algemene bepalingen
+##### Artikel 2. Algemene bepalingen
 
 1. De leden ontvangen een exemplaar van deze gedragscode.
 
 2. De leden zijn aanspreekbaar op de naleving van deze gedragscode door de minister.
 
-#### Artikel 3. Belangenverstrengeling
+##### Artikel 3. Belangenverstrengeling
 
 1. De leden vervullen geen nevenfuncties, die ongewenst zijn met het oog op een goede vervulling van hun functie of de handhaving van hun onafhankelijkheid of van het vertrouwen daarin.1Artikel 13 lid 1 Kaderwet zelfstandige bestuursorganen.
 
@@ -52,7 +78,7 @@ In deze gedragscode wordt verstaan onder:
 
 7. Het is de leden niet toegestaan gedurende het eerste jaar na afloop van hun benoemingstermijn tegen beloning werkzaamheden te verrichten voor het CAK, tenzij de minister hiervan beargumenteerd op de hoogte wordt gesteld.
 
-#### Artikel 4. Informatie
+##### Artikel 4. Informatie
 
 1. De leden gaan zorgvuldig en correct om met informatie waarover zij uit hoofde van hun functie beschikken. Ook betrachten ze geheimhouding ten aanzien van informatie, die hen vertrouwelijk wordt verstrekt. Deze geheimhoudingsplicht blijft gelden na beëindiging van hun functie bij het CAK.
 
@@ -68,17 +94,17 @@ In deze gedragscode wordt verstaan onder:
 
 7. De leden gaan verantwoord om met de e-mail en internetfaciliteiten van het CAK en met social media.
 
-#### Artikel 5. Geschenken, diensten en uitnodigingen
+##### Artikel 5. Geschenken, diensten en uitnodigingen
 
 1. De leden accepteren geen geschenken, faciliteiten, uitnodigingen of diensten, indien hun onafhankelijke positie hierdoor kan worden beïnvloed. In onderhandelingssituaties weigeren zij door betrokken relaties aangeboden geschenken en/of andere voordelen.
 
-#### Artikel 6. Bestuurlijke uitgaven
+##### Artikel 6. Bestuurlijke uitgaven
 
 1. Uitgaven van de leden worden uitsluitend vergoed als de hoogte en de functionaliteit ervan kunnen worden aangetoond.
 
 2. De leden declareren geen kosten, die reeds op andere wijze zijn of worden vergoed.
 
-#### Artikel 7. Slotbepalingen
+##### Artikel 7. Slotbepalingen
 
 Deze gedragscode wordt aangehaald als: Gedragscode CAK.
 

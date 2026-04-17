@@ -1,13 +1,38 @@
 ---
 title: "Besluit Bestuurlijke Boeten Douane"
 identifier: "BWBR0050041"
-categorie: "Strafrecht"
-publicatiedatum: 2024-07-19
-laatste_update: 2024-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050041"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2024-07-19"
+last_updated: "2024-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050041"
+soort: "beleidsregel"
+stam_id: "17185313"
+version_id: "30253432"
+internal_id: "C43331631"
+label_id: "17093454"
+dtd_version: "2.0"
+original_entry_into_force: "2024-07-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050041/2024-07-19/0"
+intitule_bron: "Stcrt.2024-22736"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-07-16"
+intitule_published: "2024-07-18"
+intitule_in_force: "2024-07-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-22736"
+original_signed_date: "2024-07-16"
+original_published_date: "2024-07-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-22736"
+entry_into_force_date: "2024-07-19"
+jci_1_3: "jci1.3:c:BWBR0050041&z=2024-07-19&g=2024-07-19"
+jci_1_0: "1.0:c:BWBR0050041&g=2024-07-19"
+citeertitel_status: "officieel"
+signed_date: "2024-07-16"
+entry_into_force: "2024-07-19"
 ---
-
 # Besluit Bestuurlijke Boeten Douane
 
 De Staatssecretaris van Financiën heeft het volgende besloten.

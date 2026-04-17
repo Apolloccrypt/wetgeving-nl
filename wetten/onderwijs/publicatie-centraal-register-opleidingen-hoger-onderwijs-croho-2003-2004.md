@@ -1,13 +1,36 @@
 ---
 title: "Publicatie Centraal Register Opleidingen Hoger Onderwijs (CROHO) 2003 - 2004"
 identifier: "BWBR0015195"
-categorie: "Onderwijs"
-publicatiedatum: 2003-07-01
-laatste_update: 2003-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015195"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2003-07-01"
+last_updated: "2003-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015195"
+soort: "beleidsregel"
+stam_id: "6474063"
+version_id: "11151962"
+internal_id: "C17598821"
+label_id: "6462594"
+original_entry_into_force: "2003-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015195/2003-07-01/0"
+intitule_bron: "Uitleg.2003-17"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-06-11"
+intitule_published: "2003-06-25"
+intitule_in_force: "2003-06-25"
+intitule_status: "goed"
+original_publication: "Uitleg.2003-17"
+original_signed_date: "2003-06-11"
+original_published_date: "2003-06-25"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2003-07-01"
+jci_1_3: "jci1.3:c:BWBR0015195&z=2003-07-01&g=2003-07-01"
+jci_1_0: "1.0:c:BWBR0015195&g=2003-07-01"
+citeertitel_status: "redactioneel"
+signed_date: "2003-06-11"
+entry_into_force: "2003-07-01"
 ---
-
 # Publicatie Centraal Register Opleidingen Hoger Onderwijs (CROHO) 2003 - 2004
 
 De Informatie Beheer Groep is belast met de aanleg, het beheer en de bekendmaking van het Centraal Register Opleideingen Hoger Onderwijs (CROHO) en met het verstrekken van informatie uit het register.

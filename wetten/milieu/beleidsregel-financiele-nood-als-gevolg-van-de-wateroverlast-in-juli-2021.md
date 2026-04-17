@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregel financiële nood als gevolg van de wateroverlast in juli 2021"
+title: "Besluit van de Minister van Justitie en Veiligheid van 5 juni 2024, nr. 5462324, houdende bekendmaking van een beleidsregel voor het verstrekken van een eenmalige financiële bijdrage aan gedupeerden in financiële nood (Beleidsregel financiële nood als gevolg van de wateroverlast in juli 2021)"
 identifier: "BWBR0049967"
-categorie: "Milieu"
-publicatiedatum: 2024-09-01
-laatste_update: 2024-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049967"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2024-09-01"
+last_updated: "2024-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049967"
+soort: "beleidsregel"
+stam_id: "17167353"
+version_id: "30218722"
+internal_id: "C43289141"
+label_id: "17075454"
+dtd_version: "2.0"
+original_entry_into_force: "2024-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049967/2024-09-01/0"
+intitule_bron: "Stcrt.2024-20307"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-06-05"
+intitule_published: "2024-07-02"
+intitule_in_force: "2024-07-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-20307"
+original_signed_date: "2024-06-05"
+original_published_date: "2024-07-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-20307"
+entry_into_force_date: "2024-09-01"
+jci_1_3: "jci1.3:c:BWBR0049967&z=2024-09-01&g=2024-09-01"
+jci_1_0: "1.0:c:BWBR0049967&g=2024-09-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel financiële nood als gevolg van de wateroverlast in juli 2021"
+signed_date: "2024-06-05"
+entry_into_force: "2024-09-01"
 ---
-
 # Besluit van de Minister van Justitie en Veiligheid van 5 juni 2024, nr. 5462324, houdende bekendmaking van een beleidsregel voor het verstrekken van een eenmalige financiële bijdrage aan gedupeerden in financiële nood (Beleidsregel financiële nood als gevolg van de wateroverlast in juli 2021)
 
 Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) en de [Regeling tegemoetkoming waterschade in Limburg en het onbedijkte gebied langs de Maas in Noord-Brabant in juli 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045602);
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 Voor deze beleidsregel wordt verstaan onder:
 
@@ -38,11 +64,11 @@ Voor deze beleidsregel wordt verstaan onder:
 
 - j. **verstrekking:** eenmalige financiële bijdrage ter leniging van financiële nood, zoals omschreven in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049967&artikel=3&z=2024-09-01&g=2024-09-01).
 
-#### Artikel 2. Doelstelling
+##### Artikel 2. Doelstelling
 
 De Minister kan, met inachtneming van de [artikelen 3 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0049967&artikel=3&z=2024-09-01&g=2024-09-01) van deze beleidsregel, een verstrekking doen aan de aanvrager.
 
-#### Artikel 3. Financiële nood
+##### Artikel 3. Financiële nood
 
 1. Van financiële nood is sprake als de aanvrager in één of meer van de volgende situaties verkeert:
 
@@ -60,17 +86,17 @@ De Minister kan, met inachtneming van de [artikelen 3 tot en met 9](https://wett
 
 3. De aanvrager is verplicht alle inlichtingen te verstrekken over alle feiten en omstandigheden, waarvan het hem duidelijk is of redelijkerwijs duidelijk kan zijn dat zij van invloed kunnen zijn op de berekening van de financiële nood.
 
-#### Artikel 4. Aanvraag
+##### Artikel 4. Aanvraag
 
 1. Degene die aanspraak wenst te maken op een eenmalige financiële verstrekking meldt zich aan bij de stichting Sociale Banken Nederland en doet voor 1 maart 2025 een aanvraag via de website van de stichting Sociale Banken Nederland.
 
 2. De Minister beslist binnen 26 weken na ontvangst van de aanvraag.
 
-#### Artikel 5. Hardheidsclausule
+##### Artikel 5. Hardheidsclausule
 
 Van het bepaalde in deze beleidsregel kan worden afgeweken, indien onverkorte toepassing daarvan, gelet op de doelstelling van deze beleidsregel, zal leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 6. Inhoud beschikking
+##### Artikel 6. Inhoud beschikking
 
 De beschikking op een aanvraag, waarbij de verstrekking op nul of hoger wordt bepaald, bevat in ieder geval:
 
@@ -78,7 +104,7 @@ De beschikking op een aanvraag, waarbij de verstrekking op nul of hoger wordt be
 
 - b. de berekening ten behoeve van de verstrekking.
 
-#### Artikel 7. Wijzigen of intrekken beschikking
+##### Artikel 7. Wijzigen of intrekken beschikking
 
 1. De beschikking tot het toekennen van een verstrekking kan worden gewijzigd of ingetrokken, indien:
 
@@ -90,15 +116,15 @@ De beschikking op een aanvraag, waarbij de verstrekking op nul of hoger wordt be
 
 2. Onverschuldigde verstrekkingen kunnen worden teruggevorderd voor zover na de dag waarop de verstrekking is toegekend, nog geen vijf jaren zijn verstreken.
 
-#### Artikel 8. Uitvoering
+##### Artikel 8. Uitvoering
 
 De Minister heeft de stichting Sociale Banken Nederland gemandateerd om deze beleidsregel uit te voeren.
 
-#### Artikel 9. Inwerkingtreding en looptijd
+##### Artikel 9. Inwerkingtreding en looptijd
 
 Deze beleidsregel treedt in werking met ingang van 1 september 2024. Uiterlijk tot 6 maanden na inwerkingtreding kan een aanvraag worden gedaan op grond van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049967&artikel=4&z=2024-09-01&g=2024-09-01), van deze beleidsregel.
 
-#### Artikel 10. Citeertitel
+##### Artikel 10. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel financiële nood als gevolg van de wateroverlast in juli 2021.
 

@@ -1,13 +1,35 @@
 ---
-title: "Besluit omrekening in goud uitgedrukte rekeneenheden"
+title: "Besluit van 19 januari 1982, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 1 van de Wet omrekening in goud uitgedrukte rekeneenheden"
 identifier: "BWBR0003477"
-categorie: "Bestuursrecht"
-publicatiedatum: 1982-03-15
-laatste_update: 1982-03-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003477"
+country: "nl"
+rank: "amvb"
+publication_date: "1982-03-15"
+last_updated: "1982-03-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003477"
+soort: "AMvB"
+stam_id: "739953"
+version_id: "1081412"
+internal_id: "C1081411"
+label_id: "716994"
+dtd_version: "2.0"
+original_entry_into_force: "1982-03-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003477/1982-03-15/0"
+intitule_bron: "Stb.1982-5"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1982-01-19"
+intitule_status: "goed"
+original_publication: "Stb.1982-5"
+original_signed_date: "1982-01-19"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1982-03-15"
+jci_1_3: "jci1.3:c:BWBR0003477&z=1982-03-15&g=1982-03-15"
+jci_1_0: "1.0:c:BWBR0003477&g=1982-03-15"
+citeertitel_status: "officieel"
+short_title: "Besluit omrekening in goud uitgedrukte rekeneenheden"
+signed_date: "1982-01-19"
+entry_into_force: "1982-03-15"
 ---
-
 # Besluit van 19 januari 1982, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 1 van de Wet omrekening in goud uitgedrukte rekeneenheden
 
 Op de voordracht van Onze Minister van Justitie van 5 november 1981, Stafafdeling Wetgeving Privaatrecht, Nr. 521/681;
@@ -20,7 +42,7 @@ Gezien het nader rapport van Onze Minister van Justitie a.i. van 5 januari 1982,
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 De wijze van omrekening in Nederlands geld, bedoeld in [artikel 1 van de Wet omrekening in goud uitgedrukte rekeneenheden](https://wetten.overheid.nl/jci1.3:c:BWBR0003401&artikel=1) (**Stb.** 1981, 295), wordt toegepast op de rekeneenheden, die zijn omschreven in de volgende bepalingen:
 
@@ -52,11 +74,11 @@ De wijze van omrekening in Nederlands geld, bedoeld in [artikel 1 van de Wet omr
 
 - n. artikel 3, onder **g**, van het op 31 januari 1963 te Brussel tot stand gekomen Verdrag tot aanvulling van het Verdrag van Parijs van 29 juli 1960 inzake wettelijke aansprakelijkheid op het gebied van de kernenergie, zoals gewijzigd door het op 28 januari 1964 te Parijs tot stand gekomen Aanvullend Protocol bij dit verdrag (**Trb.** 1964, 176).
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit kan worden aangehaald als Besluit omrekening in goud uitgedrukte rekeneenheden.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking op een door Ons te bepalen tijdstip.
 

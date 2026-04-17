@@ -1,13 +1,38 @@
 ---
 title: "Europese Overeenkomst voor de bescherming van gewervelde dieren die worden gebruikt voor experimentele en andere wetenschappelijke doeleinden, zoals gewijzigd door het Protocol tot wijziging"
 identifier: "BWBV0002789"
-categorie: "Internationaal recht"
-publicatiedatum: 2005-12-02
-laatste_update: 2005-12-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002789"
+country: "nl"
+rank: "verdrag"
+publication_date: "2005-12-02"
+last_updated: "2005-12-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002789"
+soort: "verdrag"
+stam_id: "10003115153"
+version_id: "10003120292"
+internal_id: "C10006979691"
+label_id: "10003102314"
+dtd_version: "2.0"
+original_entry_into_force: "1997-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002789/2005-12-02/0"
+intitule_bron: "Trb.1986-197"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-01-21"
+intitule_published: "1986-12-24"
+intitule_in_force: "1997-03-10"
+intitule_status: "goed"
+original_publication: "Trb.1986-197"
+original_signed_date: "1997-01-21"
+original_published_date: "1986-12-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1986-197"
+entry_into_force_date: "1997-08-01"
+jci_1_3: "jci1.3:c:BWBV0002789&z=2005-12-02&g=2005-12-02"
+jci_1_0: "1.0:c:BWBV0002789&g=2005-12-02"
+citeertitel_status: "officieel"
+signed_date: "1997-01-21"
+entry_into_force: "1997-08-01"
 ---
-
 # Europese Overeenkomst voor de bescherming van gewervelde dieren die worden gebruikt voor experimentele en andere wetenschappelijke doeleinden, zoals gewijzigd door het Protocol tot wijziging
 
 Preambule
@@ -28,7 +53,7 @@ Zijn als volgt overeengekomen:
 
 ## DEEL I. Algemene principes
 
-#### Artikel 1
+##### Artikel 1
 
 1. Deze Overeenkomst is van toepassing op elk dier dat wordt gebruikt of is bestemd voor gebruik in enige experimentele of andere wetenschappelijke procedure, welke pijn, lijden, angst of blijvend letsel teweeg kan brengen. Zij is niet van toepassing op niet-experimenteel agrarisch of clinisch veterinair gebruik.
 
@@ -54,7 +79,7 @@ Zijn als volgt overeengekomen:
 
 - j. **„humane methode van doden”:** het doden van een dier met een minimum aan fysiek en mentaal lijden, gelet op de soort.
 
-#### Artikel 2
+##### Artikel 2
 
 Een procedure mag alleen worden verricht ten behoeve van één of meer van de volgende doelstellingen en onder de beperkingen vastgelegd in deze Overeenkomst:
 
@@ -74,17 +99,17 @@ Een procedure mag alleen worden verricht ten behoeve van één of meer van de vo
 
 - f. forensisch onderzoek.
 
-#### Artikel 3
+##### Artikel 3
 
 Iedere Partij verbindt zich, zo spoedig mogelijk en in ieder geval binnen een periode van vijf jaar vanaf de datum van inwerkingtreding van deze Overeenkomst, alle maatregelen te nemen, nodig om uitvoering te geven aan de bepalingen van deze Overeenkomst en om een doeltreffend systeem van controle en toezicht te verzekeren.
 
-#### Artikel 4
+##### Artikel 4
 
 Geen enkele bepaling van deze Overeenkomst tast de vrijheid van Partijen aan striktere maatregelen te treffen ter bescherming van dieren gebruikt in procedures of ter controle op en ter beperking van het gebruik van dieren in procedures.
 
 ## DEEL II. Algemene verzorging en huisvesting der dieren
 
-#### Artikel 5
+##### Artikel 5
 
 1. Elk dier, gebruikt of bestemd voor gebruik in een procedure, krijgt een onderkomen, een omgeving, ten minste een zekere bewegingsvrijheid, voedsel, water en verzorging passend bij zijn gezondheid en zijn welzijn. Iedere beperking van de mate waarin het dier aan zijn fysiologische en ethologische behoeften kan voldoen, dient zo gering mogelijk te zijn. Bij de naleving van deze bepaling ware acht te slaan op de richtlijnen voor huisvesting en verzorging van dieren, vervat in Bijlage A bij deze Overeenkomst.
 
@@ -96,17 +121,17 @@ Geen enkele bepaling van deze Overeenkomst tast de vrijheid van Partijen aan str
 
 ## DEEL III. Het verrichten van procedures
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een procedure mag niet worden verricht voor enige doelstelling, genoemd in artikel 2, indien een andere wetenschappelijk bevredigende methode redelijkerwijs en practisch gezien voor handen is, welke niet het gebruik van een dier met zich brengt.
 
 2. Iedere Partij zou het wetenschappelijk onderzoek moeten aanmoedigen naar de ontwikkeling van methoden, die dezelfde informatie zouden kunnen verschaffen als die verkregen in procedures.
 
-#### Artikel 7
+##### Artikel 7
 
 Wanneer een procedure moet worden verricht, dient de keuze van de soort zorgvuldig overwogen te worden en, idien vereist, dient de motivering uiteengezet te worden aan de verantwoordelijke autoriteit; bij een keuze tussen procedures dienen die gekozen te worden, die het kleinste aantal dieren gebruiken, het minste pijn, lijden, angst of blijvend letsel veroorzaken en die, naar verwachting, de meest bevredigende resultaten opleveren.
 
-#### Artikel 8
+##### Artikel 8
 
 Een procedure dient te worden verricht onder algehele of plaatselijke anaesthesie of analgesie of middels andere methoden gericht op het zoveel mogelijk uitschakelen van pijn, lijden, angst of blijvend letsel, toegepast gedurende de gehele procedure, tenzij:
 
@@ -114,7 +139,7 @@ Een procedure dient te worden verricht onder algehele of plaatselijke anaesthesi
 
 - b. de toepassing van anaesthesie of analgesie onverenigbaar is met het doel van de procedure. In een dergelijk geval dienen passende wettelijke en/of administratieve maatregelen getroffen te worden om te verzekeren dat een dergelijke procedure niet onnodig wordt verricht.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Waar het voornemen bestaat een dier te onderwerpen aan een procedure waarin het hevige pijn zal of kan ervaren, welke waarschijnlijk zal aanhouden, moet die procedure uitdrukkelijk worden aangemeld bij en gerechtvaardigd tegenover, of uitdrukkelijk worden toegestaan door de verantwoordelijke autoriteit.
 
@@ -126,11 +151,11 @@ Zulke maatregelen dienen te omvatten:
 
 - -. danwel uitdrukkelijk aanmelden van zo'n procedure bij de verantwoordelijke autoriteit en gerechtelijk of administratief ingrijpen door die autoriteit indien hij niet overtuigd is dat de procedure voldoende belangrijk is voor de essentiële behoeften van mens of dier, met inbegrip van de oplossing van wetenschappelijke problemen.
 
-#### Artikel 10
+##### Artikel 10
 
 Gedurende een procedure blijft ieder dier dat daarbij wordt gebruikt, onderworpen aan de bepalingen van artikel 5, behalve wanneer die bepalingen onverenigbaar zijn met het doel van de procedure.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Aan het einde van een procedure dient te worden beslist of het dier in leven zal worden gehouden of zal worden gedood volgens een humane methode. Een dier zal niet in leven worden gelaten, zelfs al is zijn gezondheidstoestand hersteld tot normaal in alle andere opzichten, indien het waarschijnlijk is, dat het blijvend pijn of angst zal ondervinden.
 
@@ -148,27 +173,27 @@ Gedurende een procedure blijft ieder dier dat daarbij wordt gebruikt, onderworpe
 
 - b. de nieuwe procedure slechts geringe ingrepen behelst.
 
-#### Artikel 12
+##### Artikel 12
 
 Niettegenstaande de overige bepalingen van deze Overeenkomst, kan de verantwoordelijke autoriteit, waar noodzakelijk voor de legitieme doelstellingen van de procedure, toestaan dat het dier in kwestie wordt vrijgelaten, op voorwaarde dat hij zich ervan verzekerd heeft dat de grootst mogelijke zorg is aangewend ter bescherming van het welzijn van het dier. Procedures die de vrijlating van het dier met zich brengen zijn niet toegestaan voor het enkele doel van onderwijs en opleiding.
 
 ## DEEL IV. Vergunning
 
-#### Artikel 13
+##### Artikel 13
 
 Een procedure binnen de doelstellingen genoemd in artikel 2 mag slechts worden verricht door personen aan wie vergunning is verleend, ofwel onder de directe verantwoordelijkheid van een persoon aan wie vergunning is verleend, danwel indien voor het experimentele of wetenschappelijke project vergunning verleend is overeenkomstig de bepalingen van de nationale wetgeving. Deze vergunning wordt slechts toegekend aan personen die door de verantwoordelijke autoriteit deskundig worden geacht.
 
 ## DEEL V. Fokinstellingen of toeleverende instellingen
 
-#### Artikel 14
+##### Artikel 14
 
 Fok- en toeleverende instellingen dienen geregistreerd te staan bij de verantwoordelijke autoriteit, behoudens verlening van een vrijstelling onder artikel 21 of 22. Dergelijke geregistreerde instellingen dienen te voldoen aan de vereisten van artikel 5.
 
-#### Artikel 15
+##### Artikel 15
 
 De registratie, voorzien in artikel 14, dient de persoon aan het hoofd van de instelling te vermelden, welke deskundig dient te zijn in het op passende wijze verzorgen of doen verzorgen van de dieren of de soorten, die in de instelling worden gefokt of gehouden.
 
-#### Artikel 16
+##### Artikel 16
 
 1. In geregistreerde fokinstellingen dienen regelingen te worden getroffen voor het bijhouden van een register, waarin worden ingeschreven alle dieren die er zijn gefokt, en waarin wordt aangegeven het aantal en de soort dieren die de instelling verlaten, de datum van hun vertrek en de naam en het adres van de ontvanger.
 
@@ -176,7 +201,7 @@ De registratie, voorzien in artikel 14, dient de persoon aan het hoofd van de in
 
 3. De verantwoordelijke autoriteit schrijft de aard van de registers voor, die dienen te worden bijgehouden en te zijner beschikking gesteld door de persoon aan het hoofd van de instellingen, genoemd in de leden 1 en 2 van dit artikel. Deze registers dienen te worden bewaard gedurende een periode van minimaal drie jaar te rekenen vanaf de datum van de laatste aantekening.
 
-#### Artikel 17
+##### Artikel 17
 
 1. In iedere instelling dient elke hond of kat, voordat hij wordt gespeend, individueel en permanent van een merkteken te worden voorzien op de minst pijnlijke wijze die mogelijk is.
 
@@ -188,15 +213,15 @@ De registratie, voorzien in artikel 14, dient de persoon aan het hoofd van de in
 
 ## DEEL VI. Gebruikende instellingen
 
-#### Artikel 18
+##### Artikel 18
 
 De gebruikende instellingen dienen geregistreerd te staan bij de verantwoordelijke autoriteit of anderszins door deze te zijn goedgekeurd en dienen te voldoen aan de voorwaarden vastgelegd in artikel 5.
 
-#### Artikel 19
+##### Artikel 19
 
 Maatregelen dienen te worden getroffen die ertoe moeten leiden dat gebruikende instellingen beschikken over installaties en apparatuur, aangepast aan de diersoorten die worden gebruikt en de procedures die worden uitgevoerd. Het ontwerp, de constructie en de manier van functioneren van die installaties en apparatuur dienen zodanig te zijn dat zij verzekeren dat de procedures zo doelmatig mogelijk worden uitgevoerd met als doel het verkrijgen van samenhangende resultaten met zo min mogelijk dieren en een minimum aan pijn, lijden, angst of blijvend letsel.
 
-#### Artikel 20
+##### Artikel 20
 
 In gebruikende instellingen:
 
@@ -208,7 +233,7 @@ In gebruikende instellingen:
 
 - d. dient een dierenarts of een ander deskundig persoon belast te zijn met adviserende taken inzake het welzijn van de dieren.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Dieren van de onderstaande soorten, die zijn bestemd om gebruikt te worden in procedures dienen direct te worden betrokken van geregistreerde fokinstellingen of uit dergelijke instellingen afkomstig te zijn, tenzij een algemene of bijzondere vrijstelling is verkregen in overeenstemming met door de Partij te nemen maatregelen:
 
@@ -219,21 +244,21 @@ In gebruikende instellingen:
 
 3. Zwervende dieren van gedomesticeerde soorten mogen niet in procedures worden gebruikt. De algemene vrijstelling, voorzien in het eerste lid van dit artikel, mag niet worden uitgebreid tot zwerfhonden en -katten.
 
-#### Artikel 22
+##### Artikel 22
 
 In gebruikende instellingen mogen uitsluitend dieren worden gebruikt, afkomstig uit geregistreerde fokinstellingen of geregistreerde toeleverende instellingen, tenzij een algemene of bijzondere vrijstelling is verkregen in overeenstemming met door de Partij te treffen regels.
 
-#### Artikel 23
+##### Artikel 23
 
 Procedures mogen, wanneer de verantwoordelijke autoriteit daartoe vergunning heeft verleend, buiten de gebruikende instellingen worden uitgevoerd.
 
-#### Artikel 24
+##### Artikel 24
 
 Er dienen regelingen te worden getroffen opdat in de gebruikende instellingen registers worden bijgehouden en voorgelegd op ieder verzoek van de verantwoordelijke autoriteit. Deze registers dienen met name te voldoen aan de vereisten van artikel 27 en dienen bovendien voor alle verkregen dieren melding te maken van het aantal, de soort, de leverancier en de datum van aankomst.
 
 ## DEEL VII. Onderwijs en opleiding
 
-#### Artikel 25
+##### Artikel 25
 
 1. De procedures, uitgevoerd voor onderwijsdoeleinden, voor opleiding of voor bijscholing voor een beroep of andere activiteiten, daaronder begrepen de verzorging van dieren, die worden gebruikt of bestemd zijn voor gebruik, dienen te worden aangemeld bij de verantwoordelijke autoriteit en te worden uitgevoerd door of onder de supervisie van een deskundige, die de verantwoordelijkheid heeft erop toe te zien dat de procedures in overeenstemming zijn met de nationale wetgeving in de zin van deze Overeenkomst.
 
@@ -241,13 +266,13 @@ Er dienen regelingen te worden getroffen opdat in de gebruikende instellingen re
 
 3. De procedures genoemd in het eerste lid van dit artikel dienen beperkt te blijven tot die, welke strikt noodzakelijk zijn voor het doel van het betrokken onderwijs of de opleiding en dienen niet te worden toegestaan tenzij hun doel niet kan worden bereikt met even waardevolle audiovisuele middelen of op welke andere passende manier dan ook.
 
-#### Artikel 26
+##### Artikel 26
 
 De personen die de procedures uitvoeren of er aan deelnemen, alsmede de personen, die de verzorging verzekeren van dieren gebruikt in procedures, met inbegrip van het toezicht, moeten een passende scholing en opleiding ontvangen hebben.
 
 ## DEEL VIII. Statistische informatie
 
-#### Artikel 27
+##### Artikel 27
 
 1. Iedere Partij dient de statistische gegevens te verzamelen over het gebruik van dieren in procedures; deze gegevens dienen openbaar te worden gemaakt aan het publiek wanneer die openbaarmaking geoorloofd is.
 
@@ -261,7 +286,7 @@ De personen die de procedures uitvoeren of er aan deelnemen, alsmede de personen
 
 - d. het aantal dieren in onderscheiden categorieën gebruikt in bij wet voorgeschreven procedures.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Onder voorbehoud van bepalingen in de nationale wetgeving omtrent geheimhouding en vertrouwelijkheid, dient iedere Partij elk jaar de Secretaris-Generaal van de Raad van Europa gegevens te doen toekomen inzake de punten, genoemd in het tweede lid van artikel 27, aangeboden in de vorm voorzien in Bijlage B bij deze Overeenkomst.
 
@@ -271,7 +296,7 @@ De personen die de procedures uitvoeren of er aan deelnemen, alsmede de personen
 
 ## DEEL IX. Erkenning van procedures uitgevoerd op het grondgebied van een andere Partij
 
-#### Artikel 29
+##### Artikel 29
 
 1. Met het oog op het vermijden van onnodige herhalingen van bij wet vereiste procedures op het gebied van gezondheid en van veiligheid, dient iedere Partij, wanneer zulks mogelijk is, de resultaten te erkennen van procedures uitgevoerd op het grondgebied van een andere Partij.
 
@@ -279,7 +304,7 @@ De personen die de procedures uitvoeren of er aan deelnemen, alsmede de personen
 
 ## DEEL X. Multilaterale consultaties
 
-#### Artikel 30
+##### Artikel 30
 
 1. De Partijen dienen binnen vijf jaar vanaf de inwerkingtreding van deze Overeenkomst en daarna iedere vijf jaar, of vaker indien de meerderheid der Partijen dat vraagt, multilaterale consultaties te houden in het kader van de Raad van Europa, om de toepassing van deze Overeenkomst te bezien, alsmede de wenselijkheid van herziening of een verruiming van enige van haar bepalingen.
 
@@ -289,7 +314,7 @@ De personen die de procedures uitvoeren of er aan deelnemen, alsmede de personen
 
 ## DEEL XI. Wijzigingen
 
-#### Artikel 31
+##### Artikel 31
 
 1. Iedere wijziging op de Bijlagen A en B die wordt voorgesteld door een Partij of door het Comité van Ministers van de Raad van Europa wordt medegedeeld aan de Secretaris-Generaal van de Raad van Europa en door hem gezonden naar de lidstaten van de Raad van Europa, naar de Europese Gemeenschap en naar iedere niet-lidstaat van de Raad die is toegetreden of is uitgenodigd toe te treden tot de Overeenkomst overeenkomstig de bepalingen van artikel 34.
 
@@ -297,23 +322,23 @@ De personen die de procedures uitvoeren of er aan deelnemen, alsmede de personen
 
 3. Twaalf maanden na de aanneming van een wijziging tijdens een multilaterale consultatie, treedt deze in werking tenzij een derde van de Partijen bezwaren heeft kenbaar gemaakt.
 
-#### Artikel 32
+##### Artikel 32
 
 Deze Overeenkomst staat open voor ondertekening door de Lid-staten van de Raad van Europa en door de Europese Gemeenschappen. Zij dient te worden bekrachtigd, aanvaard of goedgekeurd. De akten van bekrachtiging, aanvaarding of goedkeuring dienen te worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Deze Overeenkomst treedt in werking op de eerste dag van de maand die volgt op het verstrijken van een termijn van zes maanden na de datum waarop vier Lidstaten van de Raad van Europa hun instemming tot uiting hebben gebracht te worden gebonden door deze Overeenkomst in overeenstemming met de bepalingen van artikel 31.
 
 2. Voor iedere Ondertekenaar, die later zijn instemming betuigt door de Overeenkomst te worden gebonden, zal deze in werking treden op de eerste dag van de maand die volgt op het verstrijken van een termijn van zes maanden na de datum van de nederlegging van de akte van bekrachtiging, aanvaarding of goedkeuring.
 
-#### Artikel 34
+##### Artikel 34
 
 1. Na de inwerkingtreding van deze Overeenkomst kan het Comité van Ministers van de Raad van Europa iedere Staat, die geen lid is van de Raad, uitnodigen toe te treden tot deze Overeenkomst, middels een besluit, genomen bij de meerderheid van stemmen voorzien in [artikel 20.d van het Statuut van de Raad van Europa](https://wetten.overheid.nl/jci1.3:c:BWBV0005506&artikel=20), en bij unanimiteit van de vertegenwoordigers van de Overeenkomstsluitende Staten, die gerechtigd zijn zitting te hebben in het Comité.
 
 2. Voor iedere toetredende Staat treedt de Overeenkomst in werking op de eerste dag van de maand die volgt op het verstrijken van een termijn van zes maanden na de datum van nederlegging van de akte van toetreding bij de Secretaris-Generaal van de Raad van Europa.
 
-#### Artikel 35
+##### Artikel 35
 
 1. Iedere Ondertekenaar mag, ten tijde van de ondertekening of ten tijde van de nederlegging van zijn akte van bekrachtiging, aanvaarding of goedkeuring, één of meer voorbehouden maken; geen voorbehoud mag evenwel worden gemaakt ten aanzien van de artikelen 1 tot 14 en 18 tot 20.
 
@@ -321,7 +346,7 @@ Deze Overeenkomst staat open voor ondertekening door de Lid-staten van de Raad v
 
 3. De Partij die een voorbehoud heeft gemaakt met betrekking tot een bepaling van deze Overeenkomst mag naleving van die bepaling door een andere Partij niet vorderen; zij mag evenwel, indien het voorbehoud gedeeltelijk of voorwaardelijk is, naleving vorderen van die bepaling in de mate waarin zij zelf deze heeft aanvaard.
 
-#### Artikel 36
+##### Artikel 36
 
 1. Iedere Ondertekenaar mag, ten tijde van ondertekening of ten tijde van de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, het gebied of de gebieden aangeven waarop deze Overeenkomst van toepassing zal zijn.
 
@@ -329,7 +354,7 @@ Deze Overeenkomst staat open voor ondertekening door de Lid-staten van de Raad v
 
 3. Iedere verklaring, afgelegd onder de vorige twee leden mag worden ingetrokken met betrekking tot ieder gebied in die verklaring genoemd, door middel van een kennisgeving gericht aan de Secretaris-Generaal. De intrekking wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een termijn van zes maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 37
+##### Artikel 37
 
 1. Iedere Partij mag op elk moment deze Overeenkomst opzeggen door een kennisgeving te richten aan de Secretaris-generaal van de Raad van Europa.
 
@@ -341,7 +366,7 @@ DONE at Strasbourg, this 18th day of March 1986, in English and French, both tex
 
 ## DEEL XII. Slotbepalingen
 
-#### Artikel 38
+##### Artikel 38
 
 De Secretaris-Generaal van de Raad van Europa dient de Lidstaten van de Raad van Europa, de Europese Gemeenschappen en iedere Staat die is toegetreden tot deze Overeenkomst in kennis te stellen van:
 

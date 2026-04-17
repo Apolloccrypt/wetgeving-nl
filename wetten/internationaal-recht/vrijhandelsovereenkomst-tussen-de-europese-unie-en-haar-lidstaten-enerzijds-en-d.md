@@ -1,13 +1,35 @@
 ---
 title: "Vrijhandelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Korea, anderzijds"
 identifier: "BWBV0005188"
-categorie: "Internationaal recht"
-publicatiedatum: 2016-01-01
-laatste_update: 2016-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005188"
+country: "nl"
+rank: "verdrag"
+publication_date: "2016-01-01"
+last_updated: "2016-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005188"
+soort: "verdrag"
+stam_id: "10004505193"
+version_id: "10004724752"
+internal_id: "C10009040741"
+label_id: "10004493904"
+dtd_version: "2.0"
+original_entry_into_force: "2015-12-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005188/2016-01-01/0"
+intitule_bron: "Trb.2011-62"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2011-04-01"
+intitule_in_force: "2016-02-24"
+intitule_status: "goed"
+original_publication: "Trb.2011-62"
+original_published_date: "2011-04-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2011-62"
+entry_into_force_date: "2015-12-13"
+jci_1_3: "jci1.3:c:BWBV0005188&z=2016-01-01&g=2016-01-01"
+jci_1_0: "1.0:c:BWBV0005188&g=2016-01-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2015-12-13"
 ---
-
 # Vrijhandelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Korea, anderzijds
 
 Het Koninkrijk België,
@@ -104,7 +126,7 @@ Zijn het volgende overeengekomen1)[Red: De Bijlagen, Aanhangsels en Aantekeninge
 
 ### HOOFDSTUK EEN. DOELSTELLINGEN EN ALGEMENE DEFINITIES
 
-#### Artikel 1.1. Doelstellingen
+##### Artikel 1.1. Doelstellingen
 
 1. De partijen brengen hiermee overeenkomstig deze overeenkomst een vrijhandelsgebied met betrekking tot goederen, diensten en vestiging alsmede bijbehorende regels tot stand.
 
@@ -126,7 +148,7 @@ Zijn het volgende overeengekomen1)[Red: De Bijlagen, Aanhangsels en Aantekeninge
 
 - h. buitenlandse directe investeringen aan te moedigen zonder dat, bij de toepassing en handhaving van milieu- en arbeidswetgeving van de partijen, milieunormen, arbeidsnormen of normen inzake gezondheid en veiligheid op het werk naar beneden worden bijgesteld of worden afgezwakt.
 
-#### Artikel 1.2. Algemene definities
+##### Artikel 1.2. Algemene definities
 
 In deze overeenkomst wordt verstaan onder:
 
@@ -140,15 +162,15 @@ de douaneovereenkomst: de Overeenkomst tussen de Europese Gemeenschap en de Repu
 
 ### AFDELING A. GEMEENSCHAPPELIJKE BEPALINGEN
 
-#### Artikel 2.1. Doel
+##### Artikel 2.1. Doel
 
 Gedurende een overgangsperiode die aanvangt bij de inwerkingtreding van deze overeenkomst, wordt de handel in goederen door de partijen geleidelijk en wederzijds geliberaliseerd, overeenkomstig het bepaalde in deze overeenkomst en in overeenstemming met artikel XXIV van de GATT 1994.
 
-#### Artikel 2.2. Toepassingsgebied
+##### Artikel 2.2. Toepassingsgebied
 
 De bepalingen van dit hoofdstuk zijn van toepassing op de handel in goederen1)In deze overeenkomst wordt onder goederen verstaan producten als bedoeld in de GATT 1994, tenzij in deze overeenkomst anders is bepaald.tussen de partijen.
 
-#### Artikel 2.3. Douanerechten
+##### Artikel 2.3. Douanerechten
 
 Voor de toepassing van dit hoofdstuk worden onder douanerechten verstaan alle rechten en heffingen ter zake van of in verband met de invoer van goederen, met inbegrip van alle aanvullende belastingen of heffingen ter zake van dergelijke invoer2)De partijen zijn het erover eens dat deze definitie de behandeling door de partijen, in overeenstemming met de WTO-Overeenkomst, van handel op basis van de meestbegunstigingsclausule, onverlet laat.. Onder douanerechten worden niet verstaan:
 
@@ -160,13 +182,13 @@ Voor de toepassing van dit hoofdstuk worden onder douanerechten verstaan alle re
 
 - d. rechten opgelegd ingevolge de wet- en regelgeving van een partij in overeenstemming met [artikel 5 van de Overeenkomst inzake de landbouw](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=5), die is opgenomen in [bijlage 1A bij de WTO-Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBR0014814&paragraaf=4).
 
-#### Artikel 2.4. Indeling van goederen
+##### Artikel 2.4. Indeling van goederen
 
 De indeling van goederen in het handelsverkeer tussen de partijen geschiedt overeenkomstig de tariefnomenclatuur van elk van beide partijen, uitgelegd in overeenstemming met het geharmoniseerde systeem, hierna „GS” genoemd, dat is ingesteld bij het op 14 juni 1983 te Brussel ondertekende [Internationaal Verdrag betreffende het geharmoniseerde systeem inzake de omschrijving en de codering van goederen](https://wetten.overheid.nl/jci1.3:c:BWBV0002538).
 
 ### AFDELING B. AFSCHAFFING VAN DOUANERECHTEN
 
-#### Artikel 2.5. Afschaffing van douanerechten
+##### Artikel 2.5. Afschaffing van douanerechten
 
 1. Tenzij in deze overeenkomst anders is bepaald, schaft elk van beide partijen haar douanerechten op goederen van oorsprong uit de andere partij af, overeenkomstig haar lijst die is opgenomen in bijlage 2-A.
 
@@ -176,11 +198,11 @@ De indeling van goederen in het handelsverkeer tussen de partijen geschiedt over
 
 4. Drie jaar na de inwerkingtreding van deze overeenkomst treden de partijen, indien een van hen daarom verzoekt, in overleg om te bezien of douanerechten ter zake van invoer tussen hen versneld en in ruimere mate kunnen worden afgeschaft. Met een besluit van de partijen in het Handelscomité, naar aanleiding van zulk overleg, dat een douanerecht op een goed versneld en in ruimere mate wordt afgeschaft, worden douanerechten of afbouwcategorieën die voor dat goed overeenkomstig hun lijsten in bijlage 2-A zijn vastgesteld, vervangen.
 
-#### Artikel 2.6. Status-quo
+##### Artikel 2.6. Status-quo
 
 Tenzij in deze overeenkomst anders is bepaald, met inbegrip van hetgeen uitdrukkelijk in de in bijlage 2-A opgenomen lijst van elk van beide partijen is vermeld, mag geen van hen bestaande douanerechten verhogen of nieuwe douanerechten vaststellen op een goed van oorsprong uit de andere partij. Dit sluit niet uit dat elk van beide partijen een douanerecht na een eenzijdige verlaging mag verhogen tot het in haar lijst in bijlage 2-A vastgelegde niveau.
 
-#### Artikel 2.7. Beheer en toepassing van tariefcontingenten
+##### Artikel 2.7. Beheer en toepassing van tariefcontingenten
 
 1. Elk van beide partijen beheert en past de tariefcontingenten toe die zijn vastgelegd in aanhangsel 2-A-1 van haar in bijlage 2-A opgenomen lijst, in overeenstemming met artikel XIII van de GATT 1994, met inbegrip van de aantekeningen erop en de in [bijlage 1A bij de WTO-Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBR0014814&paragraaf=4) opgenomen [Overeenkomst inzake procedures op het gebied van invoervergunningen](onbekend).
 
@@ -206,33 +228,33 @@ Tenzij in deze overeenkomst anders is bepaald, met inbegrip van hetgeen uitdrukk
 
 ### AFDELING C. NIET-TARIFAIRE MAATREGELEN
 
-#### Artikel 2.8. Nationale behandeling
+##### Artikel 2.8. Nationale behandeling
 
 Elk van beide partijen behandelt goederen van de andere partij als nationale goederen, in overeenstemming met artikel III van de GATT 1994, met inbegrip van de aantekeningen erop. Hiertoe worden artikel III van de GATT 1994 en de aantekeningen erop mutatis mutandis in deze overeenkomst opgenomen.
 
-#### Artikel 2.9. Invoer- en uitvoerbeperkingen
+##### Artikel 2.9. Invoer- en uitvoerbeperkingen
 
 In overeenstemming met artikel XI van de GATT 1994 en de aantekeningen erop mag geen van beide partijen verboden of beperkingen invoeren of handhaven, tenzij het gaat om rechten, belastingen of andere heffingen, ter zake van de invoer van een goed uit de andere partij of van de uitvoer of verkoop ten uitvoer van een goed dat voor het grondgebied van de andere partij is bestemd. Hiertoe worden artikel XI van de GATT 1994 en de aantekeningen erop mutatis mutandis in deze overeenkomst opgenomen.
 
-#### Artikel 2.10. Vergoedingen en andere heffingen ter zake van de invoer
+##### Artikel 2.10. Vergoedingen en andere heffingen ter zake van de invoer
 
 Elk van beide partijen draagt er zorg voor dat alle vergoedingen en heffingen van welke aard ook (andere dan douanerechten en de items die niet onder de definitie van een douanerecht in de zin van [artikel 2.3, onder a), b) en d)](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=TWEE&afdeling=A&artikel=2.3&z=2016-01-01&g=2016-01-01), vallen) ter zake van of in verband met invoer worden beperkt tot, bij benadering, de kosten van de verleende diensten, niet op een ad-valorembasis worden berekend en geen indirecte bescherming van interne producten of een belasting op de invoer voor fiscale doeleinden vormen.
 
-#### Artikel 2.11. Rechten, belastingen en andere vergoedingen en heffingen ter zake van de uitvoer
+##### Artikel 2.11. Rechten, belastingen en andere vergoedingen en heffingen ter zake van de uitvoer
 
 Geen van beide partijen mag rechten, belastingen of andere vergoedingen en heffingen handhaven of instellen ter zake van of in verband met de uitvoer van goederen naar de andere partij; hetzelfde geldt voor interne belastingen, vergoedingen en heffingen ter zake van de uitvoer van goederen naar de andere partij die hoger zijn dan de rechten of belastingen die op soortgelijke, voor verkoop in het binnenland bestemde producten worden geheven.
 
-#### Artikel 2.12. Douanewaarde
+##### Artikel 2.12. Douanewaarde
 
 De [Overeenkomst inzake de toepassing van artikel VII van GATT 1994](onbekend), die zich in [bijlage IA bij de WTO-Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBR0014814&paragraaf=4) bevindt, hierna „Overeenkomst inzake de douanewaarde” genoemd, wordt mutatis mutandis in deze overeenkomst opgenomen. De voorbehouden en opties van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=20) en de punten 2 tot en met 4 van [bijlage III bij de Overeenkomst inzake de douanewaarde](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&bijlage=III) zijn niet van toepassing.
 
-#### Artikel 2.13. Staatshandelsondernemingen
+##### Artikel 2.13. Staatshandelsondernemingen
 
 1. De partijen bevestigen hun bestaande rechten en verplichtingen ingevolge artikel XVII van de GATT 1994, de aantekeningen erop en het in [bijlage IA bij de WTO-Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBR0014814&paragraaf=4) opgenomen [Memorandum van Overeenstemming betreffende de interpretatie van artikel XVII van de GATT 1994](onbekend), welke mutatis mutandis in deze overeenkomst zijn opgenomen.
 
 2. Indien een partij de andere partij verzoekt om inlichtingen over individuele staatshandelsondernemingen, hun activiteiten en de gevolgen daarvan voor de bilaterale handel, houdt de partij aan wie inlichtingen zijn gevraagd, rekening met de noodzaak een zo groot mogelijke transparantie te waarborgen, onverminderd artikel XVII, lid 4, onder d), van de GATT 1994 betreffende vertrouwelijke inlichtingen.
 
-#### Artikel 2.14. Afschaffing van sectorspecifieke niet-tarifaire maatregelen
+##### Artikel 2.14. Afschaffing van sectorspecifieke niet-tarifaire maatregelen
 
 1. De partijen komen hun verbintenissen na ten aanzien van sectorspecifieke niet-tarifaire maatregelen met betrekking tot goederen overeenkomstig de bijlagen 2-B tot en met 2-E.
 
@@ -240,7 +262,7 @@ De [Overeenkomst inzake de toepassing van artikel VII van GATT 1994](onbekend), 
 
 ### AFDELING D. SPECIFIEKE UITZONDERINGEN MET BETREKKING TOT GOEDEREN
 
-#### Artikel 2.15. Algemene uitzonderingen
+##### Artikel 2.15. Algemene uitzonderingen
 
 1. De partijen bevestigen dat hun bestaande rechten en verplichtingen ingevolge artikel XX van de GATT 1994 en de aantekeningen erop, die in deze overeenkomst zijn opgenomen, van overeenkomstige toepassing zijn op de onder deze overeenkomst vallende handel in goederen.
 
@@ -248,7 +270,7 @@ De [Overeenkomst inzake de toepassing van artikel VII van GATT 1994](onbekend), 
 
 ### AFDELING E. INSTITUTIONELE BEPALINGEN
 
-#### Artikel 2.16. Comité voor de handel in goederen
+##### Artikel 2.16. Comité voor de handel in goederen
 
 1. Het Comité voor de handel in goederen dat is opgericht krachtens [lid 1 van artikel 15.2](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=VIJFTIEN&artikel=15.2&z=2016-01-01&g=2016-01-01) (Gespecialiseerde comités), komt bijeen indien een partij of het Handelscomité hierom verzoekt, teneinde alle aangelegenheden te behandelen waarop dit hoofdstuk van toepassing is, en bestaat uit vertegenwoordigers van de partijen.
 
@@ -260,7 +282,7 @@ De [Overeenkomst inzake de toepassing van artikel VII van GATT 1994](onbekend), 
 
 voor zover deze taken niet zijn opgelegd aan de desbetreffende, krachtens [lid 1 van artikel 15.3](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=VIJFTIEN&artikel=15.3&z=2016-01-01&g=2016-01-01) opgerichte werkgroepen, hierna „werkgroepen” genoemd.
 
-#### Artikel 2.17. Bijzondere bepalingen inzake administratieve samenwerking
+##### Artikel 2.17. Bijzondere bepalingen inzake administratieve samenwerking
 
 1. De partijen zijn het erover eens dat administratieve samenwerking van essentieel belang is voor de tenuitvoerlegging van en de controle op de preferentiële tariefbehandeling die op grond van dit hoofdstuk wordt verleend, en zij benadrukken dat zij gebonden zijn om onregelmatigheden en fraude op het gebied van douane- en aanverwante aangelegenheden te bestrijden.
 
@@ -270,7 +292,7 @@ voor zover deze taken niet zijn opgelegd aan de desbetreffende, krachtens [lid 1
 
 ### AFDELING A. BILATERALE VRIJWARINGSMAATREGELEN
 
-#### Artikel 3.1. Toepassing van bilaterale vrijwaringsmaatregelen
+##### Artikel 3.1. Toepassing van bilaterale vrijwaringsmaatregelen
 
 1. Indien, wegens de verlaging of afschaffing van een douanerecht ingevolge deze overeenkomst, goederen van oorsprong uit een partij naar het grondgebied van een andere partij in dermate toegenomen hoeveelheden, in absolute zin of in verhouding tot de interne productie, en onder zodanige voorwaarden worden ingevoerd dat de interne industrie die soortgelijke of rechtstreeks concurrerende producten vervaardigt, ernstige schade lijdt of dreigt te lijden, kan de partij van invoer in overeenstemming met de in deze afdeling vervatte voorwaarden en procedures maatregelen vaststellen als bedoeld in lid 2.
 
@@ -284,7 +306,7 @@ voor zover deze taken niet zijn opgelegd aan de desbetreffende, krachtens [lid 1
 
 - ii. het basisdouanerecht dat overeenkomstig [lid 2 van artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=TWEE&afdeling=B&artikel=2.5&z=2016-01-01&g=2016-01-01) (Afschaffing van douanerechten) is vastgelegd in de lijsten in bijlage 2-A (Afschaffing van douanerechten).
 
-#### Artikel 3.2. Voorwaarden en beperkingen
+##### Artikel 3.2. Voorwaarden en beperkingen
 
 1. Een partij stelt de andere partij schriftelijk in kennis van de opening van een onderzoek als omschreven in lid 2, en overlegt met haar zo vroeg mogelijk vóór de toepassing van een bilaterale vrijwaringsmaatregel, teneinde de informatie die uit het onderzoek naar voren komt, te toetsen en standpunten over de maatregel uit te wisselen.
 
@@ -304,11 +326,11 @@ voor zover deze taken niet zijn opgelegd aan de desbetreffende, krachtens [lid 1
 
 6. Wanneer een partij een bilaterale vrijwaringsmaatregel niet langer toepast, is het douanerecht het recht dat overeenkomstig de lijst van die partij in bijlage 2-A (Afschaffing van douanerechten) bij ontbreken van de maatregel van kracht zou zijn geweest.
 
-#### Artikel 3.3. Voorlopige maatregelen
+##### Artikel 3.3. Voorlopige maatregelen
 
 In kritieke omstandigheden waarin uitstel moeilijk te herstellen schade zou veroorzaken, mag een partij een voorlopige bilaterale vrijwaringsmaatregel toepassen nadat voorlopig is vastgesteld dat er duidelijke bewijzen zijn voor een toename van de invoer van een goed van oorsprong uit de andere partij als gevolg van de verlaging of afschaffing van een douanerecht ingevolge deze overeenkomst, en dat dergelijke invoer ernstige schade veroorzaakt of dreigt te veroorzaken voor de interne industrie. De duur van een voorlopige maatregel mag niet meer bedragen dan 200 dagen, gedurende welke periode de partij aan de voorschriften van [artikel 3.2, leden 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=DRIE&afdeling=A&artikel=3.2&z=2016-01-01&g=2016-01-01), moet voldoen. De partij betaalt tariefverhogingen onverwijld terug indien het in artikel 3.2, lid 2, omschreven onderzoek niet uitwijst dat de voorwaarden van [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=DRIE&afdeling=A&artikel=3.1&z=2016-01-01&g=2016-01-01) zijn vervuld. De duur van een voorlopige maatregel wordt gerekend als een deel van de in artikel 3.2, lid 5, onder b), vastgelegde periode.
 
-#### Artikel 3.4. Compensatie
+##### Artikel 3.4. Compensatie
 
 1. Een partij die een bilaterale vrijwaringsmaatregel toepast, treedt in overleg met de andere partij, teneinde overeenstemming te bereiken over een passende compensatie in het kader van de liberalisering van de handel die de vorm heeft van concessies met in wezen gelijkwaardige gevolgen voor de handel of die gelijkwaardig is aan de bijkomende rechten die de vrijwaringsmaatregel naar verwachting met zich zal brengen. De partij biedt uiterlijk 30 dagen na de toepassing van de bilaterale vrijwaringsmaatregel gelegenheid voor dergelijk overleg.
 
@@ -316,7 +338,7 @@ In kritieke omstandigheden waarin uitstel moeilijk te herstellen schade zou vero
 
 3. Het in lid 2 bedoelde opschortingsrecht wordt niet uitgeoefend in de eerste 24 maanden waarin een bilaterale vrijwaringsmaatregel van kracht is, mits de vrijwaringsmaatregel in overeenstemming is met deze overeenkomst.
 
-#### Artikel 3.5. Definities
+##### Artikel 3.5. Definities
 
 Voor de toepassing van deze afdeling:
 
@@ -326,7 +348,7 @@ wordt onder overgangsperiode verstaan een periode met betrekking tot een goed va
 
 ### AFDELING B. LANDBOUWVRIJWARINGSMAATREGELEN
 
-#### Artikel 3.6. Landbouwvrijwaringsmaatregelen
+##### Artikel 3.6. Landbouwvrijwaringsmaatregelen
 
 1. Een maatregel in de vorm van een hoger invoerrecht op een landbouwproduct van oorsprong dat in de in bijlage 3 opgenomen lijst van een partij wordt vermeld, kan door die partij in overeenstemming met de leden 2 tot en met 8 worden toegepast, indien het totale invoervolume voor dat product in een jaar een drempelvolume als vastgelegd in haar lijst in bijlage 3 overstijgt.
 
@@ -356,7 +378,7 @@ wordt onder overgangsperiode verstaan een periode met betrekking tot een goed va
 
 ### AFDELING C. ALGEMENE VRIJWARINGSMAATREGELEN
 
-#### Artikel 3.7. Algemene vrijwaringsmaatregelen
+##### Artikel 3.7. Algemene vrijwaringsmaatregelen
 
 1. Elk van beide partijen behoudt haar rechten en verplichtingen ingevolge artikel XIX van de GATT 1994 en de [Overeenkomst inzake vrijwaringsmaatregelen](onbekend). Tenzij in het onderhavige artikel anders is bepaald, verleent de onderhavige overeenkomst de partijen geen aanvullende rechten en legt hen geen aanvullende verplichtingen op met betrekking tot maatregelen getroffen op grond van artikel XIX van de GATT 1994 en de Overeenkomst inzake vrijwaringsmaatregelen.
 
@@ -374,7 +396,7 @@ wordt onder overgangsperiode verstaan een periode met betrekking tot een goed va
 
 ### AFDELING D. ANTIDUMPINGRECHTEN EN COMPENSERENDE RECHTEN
 
-#### Artikel 3.8. Algemene bepalingen
+##### Artikel 3.8. Algemene bepalingen
 
 1. Tenzij in dit hoofdstuk anders is bepaald, behouden de partijen hun rechten en verplichtingen ingevolge artikel VI van de GATT 1994, de in [bijlage IA bij de WTO-Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBR0014814&paragraaf=4) opgenomen [Overeenkomst inzake de toepassing van artikel VI van de GATT 1994](onbekend), hierna „Antidumpingovereenkomst” genoemd, en de in bijlage 1A bij de WTO-Overeenkomst opgenomen [Overeenkomst inzake subsidies en compenserende maatregelen](onbekend), hierna „SCM-overeenkomst” genoemd.
 
@@ -388,41 +410,41 @@ wordt onder overgangsperiode verstaan een periode met betrekking tot een goed va
 
 4. Belanghebbenden krijgen, mits zulks het onderzoek niet onnodig vertraagt, de gelegenheid te worden gehoord opdat zij gedurende het antidumping- of antisubsidieonderzoek hun standpunt kenbaar kunnen maken.
 
-#### Artikel 3.9. Kennisgeving
+##### Artikel 3.9. Kennisgeving
 
 1. Nadat de bevoegde autoriteiten van een partij een naar behoren gestaafd verzoek tot instelling van antidumpingmaatregelen ter zake van invoer uit de andere partij hebben ontvangen, stelt die partij uiterlijk 15 dagen voor opening van een onderzoek de andere partij er schriftelijk van in kennis dat zij het verzoek heeft ontvangen.
 
 2. Na ontvangst door de bevoegde autoriteiten van een partij van een naar behoren gestaafd verzoek tot instelling van compenserende maatregelen ter zake van invoer uit de andere partij, en alvorens een onderzoek te openen, stelt die partij de andere partij er schriftelijk van in kennis dat zij het verzoek heeft ontvangen, en biedt zij de andere partij gelegenheid haar bevoegde autoriteiten voor overleg over het verzoek te ontmoeten.
 
-#### Artikel 3.10. Algemene belangen
+##### Artikel 3.10. Algemene belangen
 
 De partijen trachten rekening te houden met de algemene belangen alvorens antidumping- of compenserende maatregelen in te stellen.
 
-#### Artikel 3.11. Onderzoek na beëindiging van een maatregel naar aanleiding van een nieuw onderzoek
+##### Artikel 3.11. Onderzoek na beëindiging van een maatregel naar aanleiding van een nieuw onderzoek
 
 De partijen komen overeen om elk verzoek tot opening van een antidumpingonderzoek met betrekking tot een goed van oorsprong uit de andere partij ten aanzien waarvan antidumpingmaatregelen in de voorafgaande 12 maanden naar aanleiding van een nieuw onderzoek zijn beëindigd, met bijzondere aandacht te onderzoeken. Tenzij hierbij blijkt dat de omstandigheden zijn gewijzigd, vindt het antidumpingonderzoek niet plaats.
 
-#### Artikel 3.12. Cumulatieve beoordeling
+##### Artikel 3.12. Cumulatieve beoordeling
 
 Indien invoer uit meer dan één land gelijktijdig voorwerp is van een antidumping- of antisubsidieonderzoek, gaat een partij bijzonder zorgvuldig na of het in het licht van de concurrentievoorwaarden tussen de ingevoerde goederen en die tussen de ingevoerde en de soortgelijke interne goederen passend is, de gevolgen van de invoer van de andere partij cumulatief te beoordelen.
 
-#### Artikel 3.13. De-minimisnorm voor nieuw onderzoek
+##### Artikel 3.13. De-minimisnorm voor nieuw onderzoek
 
 1. Een maatregel die ingevolge [artikel 11 van de Antidumpingovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=11) voorwerp van een nieuw onderzoek is, wordt beëindigd wanneer wordt vastgesteld dat de dumpingmarge die zich waarschijnlijk weer zal voordoen, lager is dan de de-minimisdrempel die in artikel [5.8 van de Antidumpingovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=5) is vastgelegd.
 
 2. Indien individuele marges worden vastgesteld overeenkomstig [artikel 9.5 van de Antidumpingovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=9), wordt geen recht opgelegd aan de exporteurs of producenten in de partij van uitvoer voor wie op basis van de representatieve exportverkoop wordt vastgesteld dat de dumpingmarge lager is dan de de-minimisdrempel die is vastgelegd in artikel [5.8 van de Antidumpingovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=5).
 
-#### Artikel 3.14. Regel van het laagste recht
+##### Artikel 3.14. Regel van het laagste recht
 
 Indien een partij besluit om een antidumping- of compenserend recht in te stellen, overschrijdt het bedrag van dit recht niet de dumping- of subsidiemarge, en is het lager dan die marge wanneer door een lager recht de schade voor de interne industrie kan worden opgeheven.
 
-#### Artikel 3.15. Beslechting van geschillen
+##### Artikel 3.15. Beslechting van geschillen
 
 Geen van beide partijen kan voor geschillen die in het kader van deze afdeling ontstaan, een beroep doen op [hoofdstuk veertien](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=VEERTIEN&z=2016-01-01&g=2016-01-01) (Beslechting van geschillen).
 
 ### AFDELING E. INSTITUTIONELE BEPALINGEN
 
-#### Artikel 3.16. Werkgroep samenwerking bij handelsmaatregelen
+##### Artikel 3.16. Werkgroep samenwerking bij handelsmaatregelen
 
 1. De Werkgroep samenwerking bij handelsmaatregelen, die is opgericht krachtens [lid 1 van artikel 15.3](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=VIJFTIEN&artikel=15.3&z=2016-01-01&g=2016-01-01) (Werkgroepen), is een forum voor dialoog over samenwerking bij handelsmaatregelen.
 
@@ -448,11 +470,11 @@ Geen van beide partijen kan voor geschillen die in het kader van deze afdeling o
 
 ### HOOFDSTUK VIER. TECHNISCHE HANDELSBELEMMERINGEN
 
-#### Artikel 4.1. Bevestiging van de TBT-Overeenkomst
+##### Artikel 4.1. Bevestiging van de TBT-Overeenkomst
 
 De partijen bevestigen hun bestaande wederzijdse rechten en verplichtingen ingevolge de [Overeenkomst inzake technische handelsbelemmeringen](onbekend), hierna „TBT-Overeenkomst” genoemd, die zich bevindt in [bijlage 1A bij de WTO-Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBR0014814&paragraaf=4) en mutatis mutandis in deze overeenkomst is opgenomen.
 
-#### Artikel 4.2. Toepassingsgebied en definities
+##### Artikel 4.2. Toepassingsgebied en definities
 
 1. Dit hoofdstuk is van toepassing op het opstellen, het aannemen en de toepassing van normen, technische voorschriften en conformiteitsbeoordelingsprocedures zoals omschreven in de [TBT-Overeenkomst](onbekend), die de handel in goederen tussen de partijen kunnen beïnvloeden.
 
@@ -464,7 +486,7 @@ De partijen bevestigen hun bestaande wederzijdse rechten en verplichtingen ingev
 
 3. Voor de toepassing van dit hoofdstuk gelden de definities van [bijlage 1 bij de TBT-Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&bijlage=1).
 
-#### Artikel 4.3. Samenwerking
+##### Artikel 4.3. Samenwerking
 
 1. De partijen versterken hun samenwerking op het gebied van normen, technische voorschriften en conformiteitsbeoordelingsprocedures, teneinde het wederzijdse begrip van hun respectieve systemen te verbeteren en de toegang tot hun respectieve markten te vergemakkelijken. Hiertoe kunnen zij zowel op horizontaal als op sectorniveau dialogen over regelgeving tot stand brengen.
 
@@ -480,7 +502,7 @@ De partijen bevestigen hun bestaande wederzijdse rechten en verplichtingen ingev
 
 3. Indien een partij voorstellen doet voor samenwerking in het kader van dit hoofdstuk, zal de andere partij deze desgevraagd naar behoren in overweging nemen.
 
-#### Artikel 4.4. Technische voorschriften
+##### Artikel 4.4. Technische voorschriften
 
 1. De partijen komen overeen dat zij optimaal gebruik maken van goede regelgevingspraktijken als bedoeld in de [TBT-Overeenkomst](onbekend). De partijen komen met name overeen:
 
@@ -502,7 +524,7 @@ De partijen bevestigen hun bestaande wederzijdse rechten en verplichtingen ingev
 
 3. Elk van beide partijen streeft ernaar om technische voorschriften op haar gehele grondgebied op eenvormige wijze en consequent toe te passen. Indien Korea de EU in kennis stelt van een handelskwestie die lijkt voort te vloeien uit afwijkingen tussen de wet- en regelgevingen van de lidstaten van de Europese Unie, die Korea niet verenigbaar met het [Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) acht, zal de EU alles in het werk stellen om tijdig aandacht aan deze kwestie te besteden.
 
-#### Artikel 4.5. Normen
+##### Artikel 4.5. Normen
 
 1. De partijen herbevestigen dat zij ingevolge [artikel 4.1 van de TBT-Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=4) dienen te waarborgen dat hun normalisatie-instellingen de in [bijlage 3 bij de TBT-Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&bijlage=3) opgenomen praktijkrichtlijn voor het opstellen, het aannemen en de toepassing van normen aanvaarden en naleven, en zij slaan tevens acht op de beginselen die sinds 1 januari 1995 zijn uiteengezet in de Besluiten en aanbevelingen van de WTO-Commissie technische handelsbelemmeringen, G/TBT/1/rev. 8, van 23 mei 2002, Afdeling IX (Besluit van de Commissie inzake de beginselen voor de ontwikkeling van internationale normen, richtsnoeren en aanbevelingen met betrekking tot de artikelen 2 en 5 en bijlage 3 [bij] de overeenkomst).
 
@@ -514,7 +536,7 @@ De partijen bevestigen hun bestaande wederzijdse rechten en verplichtingen ingev
 
 - c. samenwerkingsovereenkomsten die door een van de partijen in het kader van normalisatie ten uitvoer worden gelegd, bijvoorbeeld wisselen zij informatie uit over normalisatiekwesties in het kader van vrijhandelsovereenkomsten met derden.
 
-#### Artikel 4.6. Conformiteitsbeoordeling en accreditatie
+##### Artikel 4.6. Conformiteitsbeoordeling en accreditatie
 
 1. De partijen erkennen dat er een brede verscheidenheid aan mechanismen bestaat die ervoor zorgen dat de resultaten van de op het grondgebied van de andere partij verrichte conformiteitsbeoordelingen gemakkelijker worden aanvaard, waaronder:
 
@@ -542,15 +564,15 @@ De partijen bevestigen hun bestaande wederzijdse rechten en verplichtingen ingev
 
 3. Principes en procedures die in verband met de ontwikkeling en de vaststelling van technische voorschriften in [artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=VIER&artikel=4.4&z=2016-01-01&g=2016-01-01) zijn neergelegd om onnodige handelsbelemmeringen te vermijden en transparantie en non-discriminatie te waarborgen, zijn tevens op verplichte conformiteitsbeoordelingsprocedures van toepassing.
 
-#### Artikel 4.7. Markttoezicht
+##### Artikel 4.7. Markttoezicht
 
 De partijen wisselen van gedachten over markttoezicht en handhavend optreden.
 
-#### Artikel 4.8. Vergoedingen voor conformiteitsbeoordeling
+##### Artikel 4.8. Vergoedingen voor conformiteitsbeoordeling
 
 De partijen herbevestigen dat zij ingevolge [artikel 5.2.5 van de TBT-Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=5) erop moeten toezien dat vergoedingen voor de verplichte conformiteitsbeoordeling van ingevoerde producten billijk zijn in vergelijking met de vergoedingen die voor de conformiteitsbeoordeling van soortgelijke producten van nationale oorsprong of van producten van oorsprong uit andere landen worden gevraagd, met inachtneming van de kosten van communicatie, vervoer en andere kosten die het gevolg zijn van het feit dat de bedrijfsruimten van de aanvrager en die van de conformiteitsbeoordelingsinstantie op verschillende plaatsen zijn gevestigd, en zij verbinden zich ertoe, dit beginsel op de door dit hoofdstuk bestreken gebieden toe te passen.
 
-#### Artikel 4.9. Merktekens en etikettering
+##### Artikel 4.9. Merktekens en etikettering
 
 1. De partijen nemen nota van [punt 1 van bijlage 1 bij de TBT-Overeenkomst](onbekend), waarin is vermeld dat een technisch voorschrift geheel of ten dele betrekking kan hebben op merktekens of etikettering, en zij zijn het erover eens dat voor zover hun technische voorschriften voorzien in verplichte merktekens of etikettering, zij de beginselen van [artikel 2.2 van de TBT-Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=2) zullen eerbiedigen dat technische voorschriften niet worden opgesteld met het doel onnodige belemmeringen voor de internationale handel te creëren en dat zij evenmin tot het ontstaan van dergelijke belemmeringen mogen leiden, en dat die voorschriften niet meer beperkingen voor het handelsverkeer mogen inhouden dan nodig is om een legitiem doel te bereiken.
 
@@ -566,7 +588,7 @@ De partijen herbevestigen dat zij ingevolge [artikel 5.2.5 van de TBT-Overeenkom
 
 - e. deze partij ernaar streeft om, wanneer zij meent dat legitieme doelstellingen van de [TBT-Overeenkomst](onbekend) hierdoor niet in gevaar komen, niet-permanente of verwijderbare etiketten dan wel merktekens of etiketten in de begeleidende documentatie in plaats van op of aan het product zelf of aan het product verbonden te aanvaarden.
 
-#### Artikel 4.10. Coördinatiemechanisme
+##### Artikel 4.10. Coördinatiemechanisme
 
 1. De partijen komen overeen TBT-coördinatoren te benoemen en de andere partij naar behoren in kennis te stellen van eventuele wijzigingen terzake. De TBT-coördinatoren werken nauw samen om de tenuitvoerlegging van dit hoofdstuk en samenwerking tussen de partijen bij alle aangelegenheden die met dit hoofdstuk verband houden, te vergemakkelijken.
 
@@ -588,25 +610,25 @@ De partijen herbevestigen dat zij ingevolge [artikel 5.2.5 van de TBT-Overeenkom
 
 ### HOOFDSTUK VIJF. SANITAIRE EN FYTOSANITAIRE MAATREGELEN
 
-#### Artikel 5.1. Doel
+##### Artikel 5.1. Doel
 
 1. Het doel van dit hoofdstuk is om de negatieve gevolgen van sanitaire en fytosanitaire maatregelen voor de handel te beperken en tegelijkertijd het leven of de gezondheid van mens, dier of plant op de grondgebieden van de partijen te beschermen.
 
 2. Voorts heeft dit hoofdstuk tot doel de samenwerking tussen de partijen op het gebied van vraagstukken van dierenwelzijn te versterken, waarbij acht wordt geslagen op diverse factoren, zoals de voorwaarden waaronder op het grondgebied van de partijen veehouderij kan worden bedreven.
 
-#### Artikel 5.2. Toepassingsgebied
+##### Artikel 5.2. Toepassingsgebied
 
 Dit hoofdstuk is van toepassing op alle sanitaire en fytosanitaire maatregelen van een partij die de handel tussen de partijen al dan niet rechtstreeks kunnen beïnvloeden.
 
-#### Artikel 5.3. Definitie
+##### Artikel 5.3. Definitie
 
 Voor de toepassing van dit hoofdstuk wordt onder sanitaire of fytosanitaire maatregel verstaan een maatregel als omschreven in [punt 1 van bijlage A bij de SPS-Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=1).
 
-#### Artikel 5.4. Rechten en verplichtingen
+##### Artikel 5.4. Rechten en verplichtingen
 
 De partijen bevestigen hun bestaande rechten en verplichtingen ingevolge de [SPS-overeenkomst](onbekend).
 
-#### Artikel 5.5. Transparantie en uitwisseling van informatie
+##### Artikel 5.5. Transparantie en uitwisseling van informatie
 
 De partijen:
 
@@ -618,7 +640,7 @@ De partijen:
 
 - d. delen op verzoek van een partij de op de invoer van specifieke producten toepasselijke voorschriften mede.
 
-#### Artikel 5.6. Internationale normen
+##### Artikel 5.6. Internationale normen
 
 De partijen:
 
@@ -626,13 +648,13 @@ De partijen:
 
 - b. werken samen aan de ontwikkeling van internationale normen, richtsnoeren en aanbevelingen.
 
-#### Artikel 5.7. Invoervereisten
+##### Artikel 5.7. Invoervereisten
 
 1. De algemene invoervereisten van een partij gelden voor het gehele grondgebied van de andere partij.
 
 2. De partij van invoer mag jegens de gehele of een deel van de partij van uitvoer specifieke invoervereisten opleggen op basis van de vaststelling van de dier- of plantgezondheidsstatus in de partij van uitvoer of een deel daarvan, overeenkomstig de richtsnoeren en normen van de [SPS-Overeenkomst](onbekend), de Codex Alimentarius Commissie, de Wereldorganisatie voor diergezondheid en het [Internationaal Verdrag voor de Bescherming van Planten](https://wetten.overheid.nl/jci1.3:c:BWBV0003652).
 
-#### Artikel 5.8. Maatregelen in verband met de gezondheid van planten en dieren
+##### Artikel 5.8. Maatregelen in verband met de gezondheid van planten en dieren
 
 1. De partijen aanvaarden het concept van ziekte- of plagenvrije gebieden en gebieden met een lage prevalentie van ziekten of plagen overeenkomstig de normen van de [SPS-Overeenkomst](onbekend), de Wereldorganisatie voor diergezondheid alsmede het [Internationaal Verdrag voor de Bescherming van Planten](https://wetten.overheid.nl/jci1.3:c:BWBV0003652), en voeren een passende procedure in ter erkenning van die gebieden, waarbij met relevante internationale normen, richtsnoeren en aanbevelingen rekening wordt gehouden.
 
@@ -644,7 +666,7 @@ De partijen:
 
 5. De partij van uitvoer levert aan de partij van invoer het nodige bewijs dat de desbetreffende gebieden ziekte- of plagenvrij, respectievelijk gebieden met een lage prevalentie van ziekten of plagen zijn en dat waarschijnlijk ook blijven. Hiertoe wordt aan de partij van invoer desgevraagd redelijke toegang verleend voor inspectie, proeven en andere relevante procedures.
 
-#### Artikel 5.9. Samenwerking op het gebied van dierenwelzijn
+##### Artikel 5.9. Samenwerking op het gebied van dierenwelzijn
 
 De partijen:
 
@@ -652,7 +674,7 @@ De partijen:
 
 - b. werken voor de ontwikkeling van normen voor dierenwelzijn in internationale fora samen, met name op het gebied van het verdoven en slachten van dieren.
 
-#### Artikel 5.10. Comité voor sanitaire en fytosanitaire maatregelen
+##### Artikel 5.10. Comité voor sanitaire en fytosanitaire maatregelen
 
 1. Het Comité voor sanitaire en fytosanitaire maatregelen dat is opgericht overeenkomstig [lid 1 van artikel 15.2](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=VIJFTIEN&artikel=15.2&z=2016-01-01&g=2016-01-01) (Gespecialiseerde comités) kan:
 
@@ -668,13 +690,13 @@ De partijen:
 
 2. De Commissie is samengesteld uit vertegenwoordigers van de partijen en komt eens per jaar op een onderling afgesproken datum bijeen. De plaats van vergadering wordt in onderling overleg bepaald. De agenda wordt vóór de vergadering overeengekomen. Het voorzitterschap wordt door de partijen beurtelings vervuld.
 
-#### Artikel 5.11. Beslechting van geschillen
+##### Artikel 5.11. Beslechting van geschillen
 
 Geen van beide partijen kan voor geschillen die in het kader van dit hoofdstuk ontstaan, een beroep doen op [hoofdstuk veertien](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=VEERTIEN&z=2016-01-01&g=2016-01-01) (Beslechting van geschillen)
 
 ### HOOFDSTUK ZES. DOUANE EN HANDELSBEVORDERING
 
-#### Artikel 6.1. Doelstellingen en beginselen
+##### Artikel 6.1. Doelstellingen en beginselen
 
 De partijen komen, ter vergemakkelijking van de handel en ter bevordering van douanesamenwerking op een bilaterale en multilaterale basis, overeen om samen te werken en hun invoer-, uitvoer- en doorvoervoorschriften en -procedures voor goederen op basis van de volgende doelstellingen en beginselen vast te stellen en toe te passen:
 
@@ -708,7 +730,7 @@ De partijen komen, ter vergemakkelijking van de handel en ter bevordering van do
 
 - g. handelsbevorderende maatregelen ondermijnen niet het bereiken van legitieme beleidsdoelstellingen, zoals de bescherming van de nationale veiligheid, gezondheid en het milieu.
 
-#### Artikel 6.2. In het vrije verkeer brengen van goederen
+##### Artikel 6.2. In het vrije verkeer brengen van goederen
 
 1. Elk van beide partijen stelt vereenvoudigde en doelmatige douane- en andere handelsgerelateerde voorschriften en procedures vast om de handel tussen de partijen te bevorderen.
 
@@ -722,15 +744,15 @@ De partijen komen, ter vergemakkelijking van de handel en ter bevordering van do
 
 - d. waardoor goederen in het vrije verkeer kunnen worden gebracht op de plaats van aankomst, zonder tijdelijke verplaatsing naar entrepots of andere faciliteiten.
 
-#### Artikel 6.3. Vereenvoudigde douaneprocedure
+##### Artikel 6.3. Vereenvoudigde douaneprocedure
 
 De partijen streven ernaar voor handelaren of marktdeelnemers die aan specifieke, door een partij vastgestelde criteria voldoen, vereenvoudigde invoer- en uitvoerprocedures toe te passen waardoor in het bijzonder goederen sneller kunnen worden vrijgegeven en ingeklaard, met onder meer elektronische indiening en verwerking van informatie vóór de fysieke aankomst van zendingen, minder fysieke inspecties en bevordering van de handel door bijvoorbeeld vereenvoudigde aangiften met een minimum aan documentatie.
 
-#### Artikel 6.4. Risicobeheersing
+##### Artikel 6.4. Risicobeheersing
 
 Elk van beide partijen maakt, voor zover mogelijk langs elektronische weg, gebruik van risicobeheersingsystemen voor de risicoanalyse en -oriëntatie zodat haar douaneautoriteiten hun inspectiewerkzaamheden kunnen concentreren op goederen met een hoog risico, en de inklaring en het in het verkeer brengen van goederen met een laag risico worden vereenvoudigd. Elk van beide partijen zal voor haar risicobeheersingprocedures de herziene [Overeenkomst inzake de vereenvoudiging en harmonisatie van douaneprocedures](https://wetten.overheid.nl/jci1.3:c:BWBV0001015) van 1999, hierna „Overeenkomst van Kyoto” genoemd, alsmede de WDO-Richtsnoeren voor risicobeheersing, als uitgangspunt nemen.
 
-#### Artikel 6.5. Transparantie
+##### Artikel 6.5. Transparantie
 
 1. Elk van beide partijen waarborgt dat haar douane- en andere handelsgerelateerde wet- en regelgeving, haar algemene administratieve procedures en andere voorschriften, met inbegrip van die inzake vergoedingen en heffingen, voor alle belanghebbenden via een officieel aangewezen medium en waar haalbaar en mogelijk via een officiële website, gemakkelijk toegankelijk zijn.
 
@@ -738,7 +760,7 @@ Elk van beide partijen maakt, voor zover mogelijk langs elektronische weg, gebru
 
 3. Elk van beide partijen overlegt met en verstrekt informatie aan vertegenwoordigers van de handelssector en andere belanghebbenden. Dat overleg en deze informatie hebben betrekking op belangrijke nieuwe of gewijzigde voorschriften en procedures, waarbij vóórr de vaststelling hiervan de mogelijkheid tot het maken van opmerkingen wordt geboden.
 
-#### Artikel 6.6. Besluiten vooraf
+##### Artikel 6.6. Besluiten vooraf
 
 1. Op schriftelijk verzoek van handelaren brengt elk van beide partijen via haar douaneautoriteiten voorafgaand aan de invoer van een goed in haar grondgebied en overeenkomstig haar wet- en regelgeving, een schriftelijk besluit uit over de tariefindeling, de oorsprong of enige andere aangelegenheid als die haars inziens hiervoor in aanmerking komt.
 
@@ -746,13 +768,13 @@ Elk van beide partijen maakt, voor zover mogelijk langs elektronische weg, gebru
 
 3. Ter bevordering van de handel houden de partijen elkaar in hun bilaterale dialoog regelmatig op de hoogte van wijzigingen in hun respectieve wetgeving met betrekking tot de in de leden 1 en 2 bedoelde aangelegenheden.
 
-#### Artikel 6.7. Beroepsprocedures
+##### Artikel 6.7. Beroepsprocedures
 
 1. Elk van beide partijen waarborgt dat de betrokkenen ten aanzien waarvan door haar vaststellingen in douanezaken en andere invoer-, uitvoer- en doorvoervoorschriften en -procedures worden gedaan, tegen die vaststellingen bezwaar kunnen aantekenen of in beroep kunnen gaan. Een partij mag verlangen dat alvorens tegen een beslissing bij een hogere onafhankelijke instantie, bijvoorbeeld een rechterlijke autoriteit of een bestuursrechter beroep kan worden ingesteld, daartegen eerst bij dezelfde instelling, de toezichthoudende autoriteit daarvan of een rechterlijke autoriteit moet worden opgekomen.
 
 2. De producent of exporteur kan, indien de autoriteit waarbij tegen de beslissing wordt opgekomen hem daarom verzoekt, informatie rechtstreeks verstrekken aan de partij waarin het administratieve bezwaar of beroep wordt behandeld. De producent of exporteur die de informatie verschaft, mag de partij waarin het administratieve bezwaar of beroep wordt behandeld, verzoeken die informatie overeenkomstig haar wet- en regelgeving vertrouwelijk te behandelen.
 
-#### Artikel 6.8. Vertrouwelijkheid
+##### Artikel 6.8. Vertrouwelijkheid
 
 1. Informatie die overeenkomstig dit hoofdstuk door personen of autoriteiten van een partij aan de autoriteiten van de andere partij is verstrekt, wordt, onder meer wanneer daarom krachtens [artikel 6.7](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=ZES&artikel=6.7&z=2016-01-01&g=2016-01-01) wordt verzocht, vertrouwelijk behandeld in overeenstemming met de in elk van beide partijen toepasselijke wet- en regelgeving. Zij valt onder de officiële geheimhoudingsplicht en wordt beschermd overeenkomstig de wet- en regelgeving voor dergelijke informatie op het grondgebied van de ontvangende partij.
 
@@ -766,7 +788,7 @@ Elk van beide partijen maakt, voor zover mogelijk langs elektronische weg, gebru
 
 6. Tenzij anders overeengekomen met de persoon die de informatie heeft verstrekt, treft de verzoekende partij in voorkomend geval alle krachtens haar wet- en regelgeving mogelijke maatregelen om de informatie geheim te houden, en beschermt zij persoonsgegevens tegen verzoeken van derden of van andere autoriteiten om bekendmaking van die informatie.
 
-#### Artikel 6.9. Vergoedingen en heffingen
+##### Artikel 6.9. Vergoedingen en heffingen
 
 Met betrekking tot alle in verband met in- of uitvoer opgelegde vergoedingen en heffingen, van welke aard ook, andere dan douanerechten en zaken die van de definitie van een douanerecht in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=TWEE&afdeling=A&artikel=2.3&z=2016-01-01&g=2016-01-01) (Douanerechten) zijn uitgesloten, geldt het volgende:
 
@@ -782,19 +804,19 @@ Met betrekking tot alle in verband met in- of uitvoer opgelegde vergoedingen en 
 
 - f. nieuwe of gewijzigde vergoedingen en heffingen worden niet opgelegd totdat informatie overeenkomstig e) bekend is gemaakt en gemakkelijk beschikbaar is.
 
-#### Artikel 6.10. Inspectie vóór verzending
+##### Artikel 6.10. Inspectie vóór verzending
 
 Geen der partijen zal inspecties of gelijkwaardige maatregelen vóór verzending verlangen.
 
-#### Artikel 6.11. Douanecontrole achteraf
+##### Artikel 6.11. Douanecontrole achteraf
 
 Elk van beide partijen zorgt ervoor dat handelaren kunnen verzoeken om douanecontrole achteraf. Het verzoek om douanecontrole achteraf mag voor handelaren geen ongegronde of ongerechtvaardigde eisen of lasten meebrengen.
 
-#### Artikel 6.12. Douanewaarde
+##### Artikel 6.12. Douanewaarde
 
 De [Overeenkomst inzake de douanewaarde](onbekend) wordt, zonder de voorbehouden en opties waarin in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=20) en de [leden 2 tot en met 4 van bijlage III bij die Overeenkomst](onbekend) is voorzien, mutatis mutandis in deze overeenkomst opgenomen.
 
-#### Artikel 6.13. Douanesamenwerking
+##### Artikel 6.13. Douanesamenwerking
 
 1. De partijen breiden hun samenwerking op het gebied van douane en daarmee verband houdende aangelegenheden uit.
 
@@ -830,19 +852,19 @@ De [Overeenkomst inzake de douanewaarde](onbekend) wordt, zonder de voorbehouden
 
 7. De partijen verlenen elkaar bijstand bij de tenuitvoerlegging en de handhaving van dit hoofdstuk, het Protocol betreffende de definitie van „producten van oorsprong'” en methoden van administratieve samenwerking, en hun respectieve douanewet- en regelgeving.
 
-#### Artikel 6.14. Wederzijdse administratieve bijstand in douanezaken
+##### Artikel 6.14. Wederzijdse administratieve bijstand in douanezaken
 
 1. De partijen verlenen elkaar in douaneaangelegenheden administratieve bijstand overeenkomstig het bepaalde in het Protocol betreffende wederzijdse administratieve bijstand in douanezaken.
 
 2. Geen van beide partijen kan voor geschillen die door [artikel 9.1 van het Protocol betreffende wederzijdse administratieve bijstand in douanezaken](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&artikel=9&z=2016-01-01&g=2016-01-01) worden bestreken, een beroep doen op [hoofdstuk veertien](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=VEERTIEN&z=2016-01-01&g=2016-01-01) (Beslechting van geschillen) van deze overeenkomst.
 
-#### Artikel 6.15. Douanecontactcentra
+##### Artikel 6.15. Douanecontactcentra
 
 1. De partijen wisselen lijsten uit van contactcentra die zijn aangewezen voor aangelegenheden die zich in verband met dit hoofdstuk en het Protocol betreffende de definitie van „producten van oorsprong'” en methoden van administratieve samenwerking voordoen.
 
 2. De contactcentra streven ernaar operationele aangelegenheden die door dit hoofdstuk worden bestreken, door middel van overleg op te lossen. Indien een aangelegenheid niet door de contactcentra kan worden opgelost, wordt deze naar het in dit hoofdstuk bedoelde Douanecomité verwezen.
 
-#### Artikel 6.16. Douanecomité
+##### Artikel 6.16. Douanecomité
 
 1. Het krachtens [lid 1 van artikel 15.2](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=VIJFTIEN&artikel=15.2&z=2016-01-01&g=2016-01-01) (Gespecialiseerde comités) opgerichte Douanecomité waarborgt de goede werking van dit hoofdstuk en van het Protocol betreffende de definitie van „producten van oorsprong” en methoden van administratieve samenwerking, alsmede die van het Protocol betreffende wederzijdse administratieve bijstand in douanezaken, en onderzoekt alle kwesties die zich naar aanleiding van de toepassing ervan voordoen. Het brengt over onder deze overeenkomst vallende aangelegenheden verslag uit aan het krachtens [lid 1 van artikel 15.1](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=VIJFTIEN&artikel=15.1&z=2016-01-01&g=2016-01-01) (Handelscomité) opgerichte Handelscomité.
 
@@ -858,7 +880,7 @@ De [Overeenkomst inzake de douanewaarde](onbekend) wordt, zonder de voorbehouden
 
 ### AFDELING A. ALGEMENE BEPALINGEN
 
-#### Artikel 7.1. Doelstelling en toepassingsgebied
+##### Artikel 7.1. Doelstelling en toepassingsgebied
 
 1. De partijen herbevestigen hun respectieve rechten en verplichtingen ingevolge de [WTO-Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160), en leggen hierbij de noodzakelijke regels vast voor geleidelijke wederzijdse liberalisering van de handel in diensten, van het recht van vestiging en voor samenwerking op het gebied van elektronische handel.
 
@@ -872,7 +894,7 @@ De [Overeenkomst inzake de douanewaarde](onbekend) wordt, zonder de voorbehouden
 
 6. Geen enkele bepaling van dit hoofdstuk belet een partij maatregelen toe te passen tot regeling van de toegang of het tijdelijke verblijf van natuurlijke personen op haar grondgebied, daarbij inbegrepen maatregelen die nodig zijn voor het beschermen van de integriteit van haar grenzen of voor het verzekeren van het ordelijke verkeer van natuurlijke personen over haar grenzen, maar deze maatregelen mogen niet zodanig worden toegepast dat de voordelen die de andere partij op grond van een specifieke verbintenis in dit hoofdstuk en de bijlagen erbij toekomen, daardoor worden teniet gedaan of uitgehold4)Het feit alleen dat voor natuurlijke personen afkomstig uit bepaalde landen wel en voor die uit andere landen niet een visum vereist is, wordt niet geacht voordelen op grond van een specifieke verbintenis in dit hoofdstuk en de bijlagen erbij teniet te doen of uit te hollen..
 
-#### Artikel 7.2. Definities
+##### Artikel 7.2. Definities
 
 Voor de toepassing van dit hoofdstuk geldt het volgende:
 
@@ -914,7 +936,7 @@ Voor de toepassing van dit hoofdstuk geldt het volgende:
 
 - l. onder dienstverlener wordt verstaan een persoon die een dienst verleent of aanbiedt, met inbegrip van personen die dit als investeerder doen.
 
-#### Artikel 7.3. Comité voor de handel in diensten en voor vestiging en elektronische handel
+##### Artikel 7.3. Comité voor de handel in diensten en voor vestiging en elektronische handel
 
 1. Het krachtens [lid 1 van artikel 15.2](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=VIJFTIEN&artikel=15.2&z=2016-01-01&g=2016-01-01) (Gespecialiseerde comités) opgerichte Comité voor de handel in diensten en voor vestiging en elektronische handel bestaat uit vertegenwoordigers van de partijen. De hoofdvertegenwoordiger van een partij in het Comité is een ambtenaar van de met de tenuitvoerlegging van dit hoofdstuk belaste autoriteit van die partij.
 
@@ -928,7 +950,7 @@ Voor de toepassing van dit hoofdstuk geldt het volgende:
 
 ### AFDELING B. GRENSOVERSCHRIJDENDE DIENSTVERLENING
 
-#### Artikel 7.4. Toepassingsgebied en definities
+##### Artikel 7.4. Toepassingsgebied en definities
 
 1. Deze afdeling is van toepassing op maatregelen van de partijen die van invloed zijn op alle grensoverschrijdende dienstverlening met uitzondering van:
 
@@ -968,7 +990,7 @@ Voor de toepassing van dit hoofdstuk geldt het volgende:
 
 - c. een bij de uitoefening van overheidsgezag verleende dienst: elke dienst die noch op commerciële basis, noch in concurrentie met een of meer dienstverleners wordt verleend.
 
-#### Artikel 7.5. Markttoegang
+##### Artikel 7.5. Markttoegang
 
 1. Ten aanzien van de markttoegang voor grensoverschrijdende dienstverlening behandelt elk van beide partijen diensten en dienstverleners uit de andere partij niet minder gunstig dan is voorzien in de voorwaarden en beperkingen die zijn overeengekomen en opgenomen in de in bijlage 7-A vermelde specifieke verbintenissen.
 
@@ -980,7 +1002,7 @@ Voor de toepassing van dit hoofdstuk geldt het volgende:
 
 - c. beperkingen van het totale aantal dienstentransacties of het totale volume van de dienstenoutput, in bepaalde numerieke eenheden uitgedrukt in de vorm van quota of van de eis van een onderzoek naar de economische behoefte10)Dit punt geldt niet voor maatregelen van een partij die de input voor de verlening van grensoverschrijdende diensten beperken..
 
-#### Artikel 7.6. Nationale behandeling
+##### Artikel 7.6. Nationale behandeling
 
 1. Elk van beide partijen behandelt in de sectoren waarvoor verbintenissen inzake de markttoegang in bijlage 7-A zijn opgenomen, met inachtneming van de daarin vermelde voorwaarden en kwalificaties, diensten en dienstverleners uit de andere partij in het kader van alle maatregelen die op de grensoverschrijdende dienstverlening van invloed zijn, niet minder gunstig dan haar eigen soortgelijke diensten en dienstverleners.
 
@@ -990,13 +1012,13 @@ Voor de toepassing van dit hoofdstuk geldt het volgende:
 
 4. De op grond van dit artikel aangegane specifieke verbintenissen worden niet zodanig uitgelegd dat een partij verplicht is tot compensatie van concurrentienadelen die inherent zijn aan het buitenlandse karakter van de desbetreffende diensten of dienstverleners.
 
-#### Artikel 7.7. Lijsten van verbintenissen
+##### Artikel 7.7. Lijsten van verbintenissen
 
 1. De door elk van beide partijen ingevolge deze afdeling geliberaliseerde sectoren en de beperkingen, door middel van voorbehouden, van de markttoegang en van de nationale behandeling voor diensten en dienstverleners uit de andere partij in die sectoren, worden in de lijsten van verbintenissen in bijlage 7-A vermeld.
 
 2. Geen van beide partijen mag, met betrekking tot diensten of dienstverleners uit de andere partij, nieuwe of meer maatregelen vaststellen die discrimineren ten opzichte van de behandeling die uit hoofde van de overeenkomstig lid 1 aangegane specifieke verbintenissen wordt toegekend.
 
-#### Artikel 7.8. Meestbegunstiging11)Niets in dit artikel mag zodanig worden uitgelegd dat het toepassingsgebied van deze afdeling hierdoor wordt uitgebreid.
+##### Artikel 7.8. Meestbegunstiging11)Niets in dit artikel mag zodanig worden uitgelegd dat het toepassingsgebied van deze afdeling hierdoor wordt uitgebreid.
 
 1. Wat onder deze afdeling vallende maatregelen die van invloed zijn op de grensoverschrijdende dienstverlening betreft, behandelt elk van beide partijen, tenzij in dit artikel anders is bepaald, diensten en dienstverleners uit de andere partij niet minder gunstig dan dat zij soortgelijke diensten en dienstverleners uit derde landen in het kader van een na de inwerkingtreding van deze overeenkomst ondertekende overeenkomst inzake economische integratie behandelt.
 
@@ -1014,7 +1036,7 @@ Voor de toepassing van dit hoofdstuk geldt het volgende:
 
 ### AFDELING C. VESTIGING
 
-#### Artikel 7.9. Definities
+##### Artikel 7.9. Definities
 
 Voor de toepassing van deze afdeling geldt het volgende:
 
@@ -1032,7 +1054,7 @@ Voor de toepassing van deze afdeling geldt het volgende:
 
 - e. onder filiaal van een rechtspersoon wordt verstaan een vestiging zonder rechtspersoonlijkheid die kennelijk een permanent karakter bezit, zoals een agentschap van een moedermaatschappij, een eigen management heeft en over de nodige materiële voorzieningen beschikt om zaken te doen met derden, zodanig dat laatstgenoemden, hoewel zij ervan op de hoogte zijn dat er indien nodig een rechtsverhouding is met de moedermaatschappij waarvan het hoofdkantoor zich in het buitenland bevindt, geen rechtstreeks contact met deze moedermaatschappij behoeven te hebben, maar hun transacties kunnen afhandelen met de vestiging die de voorpost vormt.
 
-#### Artikel 7.10. Toepassingsgebied
+##### Artikel 7.10. Toepassingsgebied
 
 Deze afdeling heeft tot doel het onderlinge investeringsklimaat en met name de wederzijdse voorwaarden voor vestiging te verbeteren en is van toepassing op maatregelen van de partijen die van invloed zijn op vestiging14)Dit hoofdstuk is niet van toepassing op bescherming van investeringen, anders dan de behandeling ingevolge artikel 7.12, procedures voor de beslechting van geschillen tussen investeerders en staat daaronder begrepen.in alle economische activiteiten, met uitzondering van:
 
@@ -1054,7 +1076,7 @@ Deze afdeling heeft tot doel het onderlinge investeringsklimaat en met name de w
 
 - iv. andere aan luchtvervoerdiensten verwante diensten zoals grondafhandelingsdiensten, verhuur van luchtvaartuigen met bemanning en luchthavenbeheer.
 
-#### Artikel 7.11. Markttoegang
+##### Artikel 7.11. Markttoegang
 
 1. Ten aanzien van de markttoegang in het kader van vestiging behandelt elk van beide partijen vestigingen en investeerders uit de andere partij niet minder gunstig dan is voorzien in de voorwaarden en beperkingen die zijn overeengekomen en opgenomen in de in bijlage 7-A vermelde specifieke verbintenissen.
 
@@ -1072,7 +1094,7 @@ Deze afdeling heeft tot doel het onderlinge investeringsklimaat en met name de w
 
 - f. beperkingen van het totale aantal natuurlijke personen, anders dan stafpersoneel en afgestudeerde stagiairs als omschreven in [artikel 7.17](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=ZEVEN&afdeling=D&artikel=7.17&z=2016-01-01&g=2016-01-01), dat in een bepaalde sector in dienst mag zijn of dat een investeerder in dienst mag hebben, en dat nodig is voor en rechtstreeks verband houdt met het uitvoeren van de economische activiteit, in de vorm van een maximum aantal of van de eis van een onderzoek naar de economische behoefte.
 
-#### Artikel 7.12. Nationale behandeling19)Dit artikel is van toepassing op maatregelen ten aanzien van de samenstelling van raden van bestuur van een vestiging, zoals nationaliteits- en woonplaatsvereisten.
+##### Artikel 7.12. Nationale behandeling19)Dit artikel is van toepassing op maatregelen ten aanzien van de samenstelling van raden van bestuur van een vestiging, zoals nationaliteits- en woonplaatsvereisten.
 
 1. Elk van beide partijen behandelt in de in bijlage 7-A vermelde sectoren en met inachtneming van de daarin vermelde voorwaarden en kwalificaties, vestigingen en investeerders uit de andere partij in het kader van alle maatregelen die van invloed op vestiging zijn, niet minder gunstig dan haar soortgelijke eigen vestigingen en investeerders.
 
@@ -1082,13 +1104,13 @@ Deze afdeling heeft tot doel het onderlinge investeringsklimaat en met name de w
 
 4. De op grond van dit artikel aangegane specifieke verbintenissen worden niet zodanig uitgelegd dat een partij verplicht is tot compensatie van concurrentienadelen die inherent zijn aan het buitenlandse karakter van de desbetreffende vestigingen of investeerders.
 
-#### Artikel 7.13. Lijsten van verbintenissen
+##### Artikel 7.13. Lijsten van verbintenissen
 
 1. De door elk van beide partijen ingevolge deze afdeling geliberaliseerde sectoren en de beperkingen, door middel van voorbehouden, van de markttoegang en van de nationale behandeling voor vestigingen en investeerders uit de andere partij in die sectoren, worden in de lijsten van verbintenissen in bijlage 7-A vermeld.
 
 2. Geen van beide partijen mag, met betrekking tot vestigingen en investeerders uit de andere partij, nieuwe of meer maatregelen vaststellen die discrimineren ten opzichte van de behandeling die uit hoofde van de overeenkomstig lid 1 aangegane specifieke verbintenissen wordt toegekend.
 
-#### Artikel 7.14. Meestbegunstiging20)Niets in dit artikel mag zodanig worden uitgelegd dat het toepassingsgebied van deze afdeling hierdoor wordt uitgebreid.
+##### Artikel 7.14. Meestbegunstiging20)Niets in dit artikel mag zodanig worden uitgelegd dat het toepassingsgebied van deze afdeling hierdoor wordt uitgebreid.
 
 1. Wat onder deze afdeling vallende maatregelen die van invloed zijn op vestiging betreft, behandelt elk van beide partijen tenzij in dit artikel anders is bepaald, vestigingen en investeerders uit de andere partij niet minder gunstig dan dat zij soortgelijke vestigingen en investeerders uit derde landen in het kader van een na de inwerkingtreding van deze overeenkomst ondertekende overeenkomst inzake economische integratie behandelt21)De in dit lid neergelegde verplichting geldt niet voor niet onder dit hoofdstuk vallende bepalingen inzake de bescherming van investeringen, bepalingen inzake procedures voor de beslechting van geschillen tussen investeerders en staat daaronder begrepen..
 
@@ -1104,7 +1126,7 @@ Deze afdeling heeft tot doel het onderlinge investeringsklimaat en met name de w
 
 4. De bepalingen van dit hoofdstuk worden niet zodanig uitgelegd dat een partij hierdoor wordt verhinderd aangrenzende landen voordelen toe te staan of te verlenen om het handelsverkeer dat beperkt is tot plaatselijk voortgebrachte en verbruikte diensten in naast elkaar liggende grenszones, te vergemakkelijken.
 
-#### Artikel 7.15. Andere overeenkomsten
+##### Artikel 7.15. Andere overeenkomsten
 
 Geen enkele bepaling in deze overeenkomst wordt geacht:
 
@@ -1112,7 +1134,7 @@ Geen enkele bepaling in deze overeenkomst wordt geacht:
 
 - b. af te wijken van de internationale juridische verplichtingen van de partijen ingevolge die overeenkomsten die investeerders uit de partijen een gunstigere behandeling toekennen dan door de onderhavige overeenkomst wordt toegekend.
 
-#### Artikel 7.16. Evaluatie van het rechtskader voor investeringen
+##### Artikel 7.16. Evaluatie van het rechtskader voor investeringen
 
 1. Met het oog op de geleidelijke liberalisering van investeringen evalueren de partijen de wetgeving inzake investeringen22)Dit omvat tevens dit hoofdstuk en de bijlagen 7-A en 7-C., het investeringsklimaat en de onderlinge investeringsstromen uiterlijk drie jaar na de inwerkingtreding van deze overeenkomst en vervolgens met regelmatige tussenpozen in overeenstemming met hun uit internationale overeenkomsten voortvloeiende verbintenissen.
 
@@ -1120,7 +1142,7 @@ Geen enkele bepaling in deze overeenkomst wordt geacht:
 
 ### AFDELING D. TIJDELIJKE AANWEZIGHEID VAN NATUURLIJKE PERSONEN VOOR ZAKEN
 
-#### Artikel 7.17. Toepassingsgebied en definities
+##### Artikel 7.17. Toepassingsgebied en definities
 
 1. Deze afdeling is van toepassing op maatregelen van de partijen betreffende de toegang tot en het tijdelijke verblijf op hun grondgebied van stafpersoneel, afgestudeerde stagiairs, verkopers van zakelijke diensten, dienstverleners op contractbasis en beoefenaars van een vrij beroep waarop [artikel 7.1, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=ZEVEN&afdeling=A&artikel=7.1&z=2016-01-01&g=2016-01-01), van toepassing is.
 
@@ -1146,17 +1168,17 @@ Geen enkele bepaling in deze overeenkomst wordt geacht:
 
 - e. beoefenaars van een vrij beroep: natuurlijke personen die als zelfstandige dienstverlener op het grondgebied van een partij zijn gevestigd, geen vestiging op het grondgebied van de andere partij hebben en een bonafide contract voor de verlening van diensten aan een eindverbruiker in die andere partij hebben gesloten, zodat hun tijdelijke aanwezigheid aldaar vereist is voor de uitvoering van het dienstverleningscontract24)Het in dit punt bedoelde dienstencontract moet in overeenstemming zijn met de wet- en regelgeving en de eisen van de partij waar het contract wordt uitgevoerd..
 
-#### Artikel 7.18. Stafpersoneel en afgestudeerde stagiairs
+##### Artikel 7.18. Stafpersoneel en afgestudeerde stagiairs
 
 1. Voor elke overeenkomstig [afdeling C](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=ZEVEN&afdeling=C&z=2016-01-01&g=2016-01-01) geliberaliseerde sector staat elk van beide partijen, behoudens de in bijlage 7-A opgenomen voorbehouden, investeerders van de andere partij toe natuurlijke personen uit die andere partij naar hun vestiging over te plaatsen, mits die werknemers behoren tot het stafpersoneel dan wel afgestudeerd stagiair als omschreven in [artikel 7.17](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=ZEVEN&afdeling=D&artikel=7.17&z=2016-01-01&g=2016-01-01) zijn. De duur van het tijdelijke verblijf van stafpersoneel en afgestudeerde stagiairs bedraagt ten hoogste drie jaar voor binnen de onderneming overgeplaatste personen25)Een partij kan toestaan dat de periode overeenkomstig de op haar grondgebied toepasselijke wet- en regelgeving wordt verlengd., ten hoogste negentig dagen gedurende een periode van twaalf maanden voor zakelijke bezoekers26)Het in dit lid bepaalde doet geen afbreuk aan de rechten en verplichtingen die uit bilaterale overeenkomsten tot afschaffing van de visumplicht tussen Korea en de lidstaten van de Europese Unie voortvloeien.en ten hoogste een jaar voor afgestudeerde stagiairs.
 
 2. Voor elke overeenkomstig [afdeling C](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=ZEVEN&afdeling=C&z=2016-01-01&g=2016-01-01) geliberaliseerde sector worden de maatregelen (tenzij anders bepaald in bijlage 7-A) die een partij niet mag handhaven of vaststellen, omschreven als beperkingen van het totale aantal natuurlijke personen dat een investeerder als stafpersoneel of als afgestudeerde stagiairs in een bepaalde sector mag overplaatsen, in de vorm van numerieke quota of van de eis van een onderzoek naar de economische behoefte, en als discriminerende beperkingen27)Tenzij in bijlage 7-A anders is bepaald, mag geen der partijen verlangen dat een vestiging op hogere managementposities natuurlijke personen benoemt die een bepaalde nationaliteit hebben of op haar grondgebied woonachtig zijn..
 
-#### Artikel 7.19. Verkopers van zakelijke diensten
+##### Artikel 7.19. Verkopers van zakelijke diensten
 
 Voor elke overeenkomstig [afdeling B](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=ZEVEN&afdeling=B&z=2016-01-01&g=2016-01-01) of [C](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=ZEVEN&afdeling=C&z=2016-01-01&g=2016-01-01) geliberaliseerde sector staat elk van beide partijen, behoudens de in bijlage 7-A opgenomen voorbehouden, de toegang en het tijdelijke verblijf van verkopers van zakelijke diensten toe voor een periode van ten hoogste negentig dagen gedurende een periode van twaalf maanden28)Het in dit artikel bepaalde doet geen afbreuk aan de rechten en verplichtingen die uit bilaterale overeenkomsten tot afschaffing van de visumplicht tussen Korea en de lidstaten van de Europese Unie voortvloeien..
 
-#### Artikel 7.20. Dienstverleners op contractbasis en beoefenaars van een vrij beroep
+##### Artikel 7.20. Dienstverleners op contractbasis en beoefenaars van een vrij beroep
 
 1. De partijen herbevestigen hun respectieve verplichtingen ingevolge de door hen in het kader van de [GATS](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&bijlage=1B) aangegane verbintenissen ten aanzien van de toegang en het tijdelijke verblijf van dienstverleners op contractbasis en beoefenaars van een vrij beroep.
 
@@ -1166,7 +1188,7 @@ Voor elke overeenkomstig [afdeling B](https://wetten.overheid.nl/jci1.3:c:BWBV00
 
 #### ONDERAFDELING A. ALGEMENE BEPALINGEN
 
-#### Artikel 7.21. Wederzijdse erkenning
+##### Artikel 7.21. Wederzijdse erkenning
 
 1. Geen enkele bepaling in dit hoofdstuk belet een partij te eisen dat natuurlijke personen de kwalificaties en/of de beroepservaring hebben die op het grondgebied waar de dienst wordt verleend, voor de betrokken sector van activiteit zijn voorgeschreven.
 
@@ -1188,7 +1210,7 @@ Voor elke overeenkomstig [afdeling B](https://wetten.overheid.nl/jci1.3:c:BWBV00
 
 - b. De werkgroep fungeert als contactpunt voor door de desbetreffende beroepsorganisaties uit een partij aan de orde gestelde kwesties betreffende wederzijdse erkenning.
 
-#### Artikel 7.22. Transparantie en vertrouwelijke informatie
+##### Artikel 7.22. Transparantie en vertrouwelijke informatie
 
 1. De partijen beantwoorden met gebruikmaking van de krachtens hoofdstuk twaalf (Transparantie) ingevoerde mechanismen onverwijld alle verzoeken van de andere partij om specifieke informatie over:
 
@@ -1206,7 +1228,7 @@ Voor elke overeenkomstig [afdeling B](https://wetten.overheid.nl/jci1.3:c:BWBV00
 
 6. De regelgevende autoriteit van een partij neemt over een ingediende aanvraag van een investeerder of een verlener van grensoverschrijdende diensten uit de andere partij binnen 120 dagen een administratief besluit inzake het verlenen van diensten, en stelt de aanvrager onverwijld van dat besluit in kennis. Een aanvraag wordt pas als ingediend beschouwd wanneer alle relevante hoorzittingen zijn gehouden en alle vereiste informatie is ontvangen. Wanneer een besluit niet binnen 120 dagen kan worden genomen, stelt de regelgevende autoriteit de aanvrager hiervan onverwijld in kennis en tracht zij het besluit binnen een redelijk tijdvak daarna te nemen.
 
-#### Artikel 7.23. Interne regelgeving
+##### Artikel 7.23. Interne regelgeving
 
 1. Indien voor de verlening van een dienst of voor vestiging waarvoor een specifieke verbintenis is aangegaan een vergunning vereist is, delen de bevoegde autoriteiten van een partij de aanvrager binnen een redelijke termijn na de indiening van de volgens de interne wet- en regelgeving als ingediend beschouwde aanvraag mede welk besluit zij ten aanzien van die aanvraag hebben genomen. De bevoegde autoriteiten van de partij geven de aanvrager, op diens verzoek, zonder onredelijke vertraging informatie over de stand van zaken betreffende de aanvraag.
 
@@ -1220,13 +1242,13 @@ Voor elke overeenkomstig [afdeling B](https://wetten.overheid.nl/jci1.3:c:BWBV00
 
 4. Dit artikel wordt naar gelang van het geval, na overleg tussen de partijen, gewijzigd om de resultaten van de onderhandelingen ingevolge [lid 4 van artikel VI van de GATS](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=VI) of de resultaten van soortgelijke onderhandelingen die in andere multilaterale fora zijn gevoerd en waaraan beide partijen deelnemen, in deze overeenkomst te integreren zodra zij rechtswerking hebben.
 
-#### Artikel 7.24. Governance
+##### Artikel 7.24. Governance
 
 Elk van beide partijen waarborgt voor zover uitvoerbaar dat internationaal overeengekomen normen voor de regelgeving en het toezicht in de financiëledienstensector en voor de strijd tegen belastingfraude en -ontwijking op haar grondgebied ten uitvoer worden gelegd en worden toegepast. Dergelijke internationaal overeengekomen normen zijn onder meer de Core Principle for Effective Banking Supervision van het Bazels Comité voor het bankentoezicht, de Insurance Core Principles and Methodology, te Singapore op 3 oktober 2003 goedgekeurd door de International Association of Insurance Supervisors, de Objectives and Principles of Securities Regulation van de International Organisation of Securities Commissions, de Agreement on Exchange of Information on Tax Matters van de Organisatie voor Economische Samenwerking en Ontwikkeling, hierna „OESO” genoemd, de Statement on Transparency and Exchange of Information for Tax Purposes van de G20, en de Veertig aanbevelingen inzake het witwassen van geld en de Negen bijzondere aanbevelingen inzake terrorismefinanciering van de Financial Action Task Force.
 
 #### ONDERAFDELING B. DIENSTEN IN VERBAND MET COMPUTERS
 
-#### Artikel 7.25. Diensten in verband met computers
+##### Artikel 7.25. Diensten in verband met computers
 
 1. Bij de liberalisering van de handel in diensten in verband met computers overeenkomstig de afdelingen B tot en met D, onderschrijven de partijen de in de volgende leden neergelegde afspraak.
 
@@ -1248,13 +1270,13 @@ Elk van beide partijen waarborgt voor zover uitvoerbaar dat internationaal overe
 
 #### ONDERAFDELING C. POST- EN KOERIERSDIENSTEN
 
-#### Artikel 7.26. Uitgangspunten van de regelgeving
+##### Artikel 7.26. Uitgangspunten van de regelgeving
 
 Het Handelscomité legt ter waarborging van de mededinging in de post- en koeriersdiensten waarvoor in elk van beide partijen geen monopoliepositie is voorbehouden, uiterlijk drie jaar na de inwerkingtreding van deze overeenkomst de uitgangspunten voor het ten aanzien van die diensten toepasselijke regelgevingskader vast. Met deze uitgangspunten wordt beoogd te reageren op kwesties als met de mededinging strijdige praktijken, universele dienst, afzonderlijke vergunningen en de aard van de regelgevende autoriteit30)Voor alle duidelijkheid zij opgemerkt dat niets in dit artikel mag worden uitgelegd als dat daarmee, bij de inwerkingtreding van deze overeenkomst, een wijziging wordt beoogd van het regelgevingskader van de huidige regelgevende instantie in Korea die regels stelt voor particuliere koeriersdiensten..
 
 #### ONDERAFDELING D. TELECOMMUNICATIEDIENSTEN
 
-#### Artikel 7.27. Toepassingsgebied en definities
+##### Artikel 7.27. Toepassingsgebied en definities
 
 1. Deze onderafdeling bevat de beginselen van het regelgevingskader voor de basistelecommunicatiediensten31)Deze omvatten diensten die zijn vermeld in 2. Communicatiediensten, onder C. Telecommunicatiediensten, categorieën a tot en met g, in de MTN/GNS/W/120., met uitzondering van uitzendingen, die in overeenstemming met de afdelingen B tot en met D van dit hoofdstuk zijn geliberaliseerd.
 
@@ -1286,7 +1308,7 @@ Het Handelscomité legt ter waarborging van de mededinging in de post- en koerie
 
 - k. nummerportabiliteit: de mogelijkheid voor eindgebruikers van openbare telecommunicatiediensten om op dezelfde locatie dezelfde telefoonnummers te houden zonder dat de kwaliteit, de betrouwbaarheid of het gemak er onder leidt wanneer binnen dezelfde categorie leveranciers van openbare telecommunicatiediensten van leverancier wordt veranderd.
 
-#### Artikel 7.28. Regelgevende autoriteit
+##### Artikel 7.28. Regelgevende autoriteit
 
 1. Regelgevende autoriteiten voor telecommunicatiediensten zijn juridisch en functioneel onafhankelijk van leveranciers van telecommunicatiediensten.
 
@@ -1294,7 +1316,7 @@ Het Handelscomité legt ter waarborging van de mededinging in de post- en koerie
 
 3. De besluiten die de regelgevende autoriteit neemt en de procedures die zij toepast, zijn voor alle marktdeelnemers gelijk.
 
-#### Artikel 7.29. Vergunning voor telecommunicatiediensten
+##### Artikel 7.29. Vergunning voor telecommunicatiediensten
 
 1. Vergunningen voor het verlenen van diensten worden zoveel mogelijk via een vereenvoudigde vergunningprocedure afgegeven.
 
@@ -1308,7 +1330,7 @@ Het Handelscomité legt ter waarborging van de mededinging in de post- en koerie
 
 - c. zijn de door een partij verlangde vergoedingen voor het verlenen van een vergunning33)Tarieven voor het verlenen van vergunningen omvatten niet betalingen in verband met veiling, aanbesteding of andere niet-discriminerende middelen om concessies te verlenen, of verplichte bijdragen voor het verlenen van een universele dienst.niet hoger dan de administratieve kosten die normaliter met het beheer van, het toezicht op en de handhaving van de desbetreffende vergunningen gemoeid zijn34)Dit punt treedt uiterlijk vijf jaar na de inwerkingtreding van deze overeenkomst in werking. Elk van beide partijen waarborgt dat vergoedingen voor vergunningen met de inwerkingtreding van deze overeenkomst op niet-discriminerende wijze worden geheven en toegepast..
 
-#### Artikel 7.30. Concurrentiewaarborgen ten aanzien van grote leveranciers
+##### Artikel 7.30. Concurrentiewaarborgen ten aanzien van grote leveranciers
 
 Er zullen passende maatregelen worden gehandhaafd om te voorkomen dat leveranciers die alleen of met anderen gezamenlijk een grote leverancier zijn, concurrentiebeperkende praktijken toepassen of blijven toepassen. In dit verband wordt onder meer onder concurrentiebeperkende praktijken verstaan:
 
@@ -1318,7 +1340,7 @@ Er zullen passende maatregelen worden gehandhaafd om te voorkomen dat leverancie
 
 - c. het niet tijdig aan andere dienstverleners beschikbaar stellen van technische informatie over essentiële faciliteiten en van commercieel relevante informatie die deze dienstverleners voor het leveren van hun diensten nodig hebben.
 
-#### Artikel 7.31. Interconnectie
+##### Artikel 7.31. Interconnectie
 
 1. Elk van beide partijen waarborgt dat leveranciers van openbare telecommunicatienetwerken of -diensten op haar grondgebied al dan niet rechtstreeks op dat grondgebied aan leveranciers van openbare telecommunicatiediensten uit de andere partij de gelegenheid bieden om te onderhandelen over interconnectie. In beginsel worden afspraken over interconnectie gemaakt op basis van commerciële onderhandelingen tussen de betrokken ondernemingen.
 
@@ -1336,27 +1358,27 @@ Er zullen passende maatregelen worden gehandhaafd om te voorkomen dat leverancie
 
 5. Grote leveranciers maken hun interconnectieovereenkomsten of hun referentie-aanbiedingen voor interconnectie algemeen bekend36)Elk van beide partijen geeft aan deze verplichting uitvoering overeenkomstig haar desbetreffende regelgeving..
 
-#### Artikel 7.32. Nummerportabiliteit
+##### Artikel 7.32. Nummerportabiliteit
 
 Elk van beide partijen waarborgt dat verleners van openbare telecommunicatiediensten op haar grondgebied, andere dan verleners van diensten in verband met het „Voice over Internet Protocol”, voor zover technisch haalbaar en onder redelijke voorwaarden nummerportabiliteit aanbieden.
 
-#### Artikel 7.33. Toewijzing en gebruik van schaarse middelen
+##### Artikel 7.33. Toewijzing en gebruik van schaarse middelen
 
 1. Alle procedures voor de toewijzing en het gebruik van schaarse middelen, zoals frequenties, nummers en doorgangsrechten, worden tijdig op objectieve, transparante en niet-discriminerende wijze toegepast.
 
 2. De stand van zaken met betrekking tot toegewezen frequentiebanden wordt algemeen bekendgemaakt, maar een gedetailleerde vermelding van de frequenties die voor specifiek gebruik door de overheid zijn toegewezen, is niet vereist.
 
-#### Artikel 7.34. Universele dienst
+##### Artikel 7.34. Universele dienst
 
 1. Elk van beide partijen heeft het recht vast te stellen welke universeledienstverplichtingen zij wenst te handhaven.
 
 2. Deze verplichtingen worden op zich niet concurrentiebeperkend geacht, mits zij op transparante, objectieve en niet-discriminerende wijze worden uitgevoerd. De uitvoering van dergelijke verplichtingen is ook neutraal met betrekking tot de mededinging en niet belastender dan nodig is voor de soort universele dienst die door elk van beide partijen wordt vastgesteld.
 
-#### Artikel 7.35. Vertrouwelijke informatie
+##### Artikel 7.35. Vertrouwelijke informatie
 
 Elk van beide partijen waarborgt het vertrouwelijke karakter van het telecommunicatieverkeer dat via een openbaar telecommunicatienetwerk en via openbare telecommunicatiediensten plaatsvindt, alsmede van de gegevens over dat verkeer, zonder daardoor de handel in diensten te beperken.
 
-#### Artikel 7.36. Beslechting van telecommunicatiegeschillen
+##### Artikel 7.36. Beslechting van telecommunicatiegeschillen
 
 1. Elk van beide partijen waarborgt dat:
 
@@ -1372,7 +1394,7 @@ Elk van beide partijen waarborgt het vertrouwelijke karakter van het telecommuni
 
 #### ONDERAFDELING E. FINANCIËLE DIENSTEN
 
-#### Artikel 7.37. Toepassingsgebied en definities
+##### Artikel 7.37. Toepassingsgebied en definities
 
 1. Deze onderafdeling bevat de beginselen van het regelgevingskader voor alle financiële diensten die in overeenstemming met de afdelingen B tot en met D zijn geliberaliseerd.
 
@@ -1442,7 +1464,7 @@ openbare instantie:
 
 nieuwe financiële dienst: een dienst van financiële aard, met inbegrip van diensten in verband met bestaande of nieuwe producten of de wijze waarop een product wordt geleverd, die niet wordt verleend door verleners van financiële diensten op het grondgebied van een partij, doch die op het grondgebied van de andere partij wordt verleend.
 
-#### Artikel 7.38. Prudentiële uitzonderingsbepaling38)Een maatregel die wordt toegepast ten aanzien van in een partij gevestigde dienstverleners die niet door de financiële toezichthoudende autoriteit van die partij worden gereglementeerd en evenmin onder haar toezicht staan, wordt voor de toepassing van deze overeenkomst als prudentiële maatregel aangemerkt. Met het oog op de rechtszekerheid moet een dergelijke maatregel in overeenstemming met dit artikel worden getroffen.
+##### Artikel 7.38. Prudentiële uitzonderingsbepaling38)Een maatregel die wordt toegepast ten aanzien van in een partij gevestigde dienstverleners die niet door de financiële toezichthoudende autoriteit van die partij worden gereglementeerd en evenmin onder haar toezicht staan, wordt voor de toepassing van deze overeenkomst als prudentiële maatregel aangemerkt. Met het oog op de rechtszekerheid moet een dergelijke maatregel in overeenstemming met dit artikel worden getroffen.
 
 1. Elk van beide partijen kan maatregelen vaststellen of handhaven om prudentiële redenen39)Overeengekomen is dat de uitdrukking „prudentiële redenen” het handhaven van de veiligheid, degelijkheid, integriteit of financiële verantwoordelijkheid van individuele verleners van financiële diensten kan omvatten., waaronder:
 
@@ -1456,23 +1478,23 @@ nieuwe financiële dienst: een dienst van financiële aard, met inbegrip van die
 
 4. Onverminderd andere prudentiële regelgeving inzake grensoverschrijdende financiële dienstverlening, kan een partij registratie van verleners van grensoverschrijdende financiële diensten uit de andere partij verlangen.
 
-#### Artikel 7.39. Transparantie
+##### Artikel 7.39. Transparantie
 
 De partijen erkennen dat transparante regels en een transparant beleid ten aanzien van de activiteiten van verleners van financiële diensten van belang zijn om de toegang van buitenlandse verleners van financiële diensten tot, en hun activiteiten op, elkaars markten te bevorderen. Elke partij verbindt zich ertoe transparantie van regelgeving inzake financiële diensten te bevorderen.
 
-#### Artikel 7.40. Zelfregulerende organisaties
+##### Artikel 7.40. Zelfregulerende organisaties
 
 Wanneer een partij het lidmaatschap van of deelneming in, dan wel toegang tot een zelfregulerende organisatie, effecten- of termijnbeurs of effecten- of termijnmarkt, verrekenkantoor of een andere organisatie of vereniging als voorwaarde stelt voor verleners van financiële diensten uit de andere partij om op voet van gelijkheid met haar eigen verleners van financiële diensten financiële diensten te kunnen verlenen, of wanneer zij dergelijke entiteiten direct of indirect voorrechten of voordelen voor de verlening van financiële diensten toekent, waarborgt zij dat de verplichtingen van de [artikelen 7.6](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=ZEVEN&afdeling=B&artikel=7.6&z=2016-01-01&g=2016-01-01), [7.8](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=ZEVEN&afdeling=B&artikel=7.8&z=2016-01-01&g=2016-01-01), [7.12](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=ZEVEN&afdeling=C&artikel=7.12&z=2016-01-01&g=2016-01-01) en [7.14](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=ZEVEN&afdeling=C&artikel=7.14&z=2016-01-01&g=2016-01-01) door een dergelijke zelfregulerende organisatie worden nageleefd.
 
-#### Artikel 7.41. Betalings- en clearingsystemen
+##### Artikel 7.41. Betalings- en clearingsystemen
 
 Onder voorwaarden die nationale behandeling toelaat, verschaft elk van beide partijen aan op zijn grondgebied gevestigde verleners van financiële diensten uit de andere partij voor de toekenning van nationale behandeling toegang tot betalings- en clearingsystemen van openbare instanties, alsmede tot voor de normale bedrijfsvoering beschikbare officiële financierings- en herfinancieringsfaciliteiten. Dit artikel beoogt niet toegang te verschaffen tot de kredietfaciliteiten in laatste instantie van een partij.
 
-#### Artikel 7.42. Nieuwe financiële diensten
+##### Artikel 7.42. Nieuwe financiële diensten
 
 Elk van beide partijen staat op haar grondgebied gevestigde verleners van financiële diensten uit de andere partij toe nieuwe financiële diensten te verlenen waarvoor de partij haar eigen verleners van financiële diensten krachtens haar interne wetgeving onder soortgelijke omstandigheden toestemming zou geven, tenzij de introductie van de nieuwe financiële dienst tot nieuwe wetgeving of een wetswijziging noodzaakt. De partijen kunnen de institutionele en rechtsvorm vaststellen waarin de dienst kan worden verleend en kunnen de betrokken dienstverlening aan een vergunningsplicht onderwerpen. Wanneer een vergunning vereist is, wordt hieromtrent binnen een redelijke termijn een besluit genomen en kan de vergunning uitsluitend worden geweigerd om prudentiële redenen.
 
-#### Artikel 7.43. Gegevensverwerking
+##### Artikel 7.43. Gegevensverwerking
 
 Uiterlijk twee jaar na de inwerkingtreding van deze overeenkomst en uiterlijk op de datum waarop soortgelijke verbintenissen op grond van andere overeenkomsten inzake economische integratie van kracht worden:
 
@@ -1480,7 +1502,7 @@ Uiterlijk twee jaar na de inwerkingtreding van deze overeenkomst en uiterlijk op
 
 - b. stelt elk van beide partijen, herbevestigend dat zij zich heeft verbonden40)Met het oog op de rechtszekerheid betreft deze verbintenis de rechten en vrijheden die zijn vermeld in de Universele Verklaring van de Rechten van de Mens, de Guidelines for the Regulation of Computerized Personal Data Files (aangenomen bij resolutie 45/95 van de Algemene Vergadering van de VN van 14 december 1990), en de OESO-richtsnoeren inzake de bescherming van de persoonlijke levenssfeer en van grensoverschrijdend verkeer van persoonsgegevens (aangenomen door de OESO-Raad op 23 september 1980).tot bescherming van de fundamentele rechten en vrijheden van natuurlijke personen, passende waarborgen vast voor de bescherming van de persoonlijke levenssfeer, in het bijzonder met betrekking tot de overdracht van persoonsgegevens.
 
-#### Artikel 7.44. Specifieke uitzonderingen
+##### Artikel 7.44. Specifieke uitzonderingen
 
 1. Geen enkele bepaling van dit hoofdstuk kan zodanig worden uitgelegd dat zij voor een partij, met inbegrip van haar openbare instanties, een beletsel vormt om op haar grondgebied exclusief activiteiten of diensten aan te bieden in het kader van een pensioenregeling van de overheid of een wettelijk stelsel van sociale zekerheid, tenzij verleners van financiële diensten deze activiteiten krachtens haar interne regelgeving in concurrentie met openbare instanties of particuliere instellingen kunnen aanbieden.
 
@@ -1488,7 +1510,7 @@ Uiterlijk twee jaar na de inwerkingtreding van deze overeenkomst en uiterlijk op
 
 3. Geen enkele bepaling van dit hoofdstuk kan zodanig worden uitgelegd dat zij voor een partij, met inbegrip van haar openbare instanties, een beletsel vormt om op haar grondgebied uitsluitend activiteiten of diensten aan te bieden voor rekening van of met garantiestelling door of gebruikmaking van de financiële middelen van de partij, tenzij verleners van financiële diensten deze activiteiten krachtens haar interne regelgeving in concurrentie met openbare instanties of particuliere instellingen kunnen aanbieden.
 
-#### Artikel 7.45. Beslechting van geschillen
+##### Artikel 7.45. Beslechting van geschillen
 
 1. Tenzij in dit artikel anders wordt bepaald is [hoofdstuk veertien](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=VEERTIEN&z=2016-01-01&g=2016-01-01) (Beslechting van geschillen) van toepassing op de beslechting van geschillen over financiële diensten die uitsluitend in het kader van dit hoofdstuk ontstaan.
 
@@ -1498,7 +1520,7 @@ Uiterlijk twee jaar na de inwerkingtreding van deze overeenkomst en uiterlijk op
 
 4. In afwijking van [artikel 14.11](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=VEERTIEN&afdeling=C&paragraaf=B&artikel=14.11&z=2016-01-01&g=2016-01-01) mag de klagende partij, indien een panel tot de conclusie komt dat een maatregel niet in overeenstemming met deze overeenkomst is en de maatregel waartegen wordt opgekomen, de financiële-dienstensector en enige andere sector beïnvloedt, voordelen in de financiële-dienstensector van gelijke werking als de maatregel in haar financiële-dienstensector opschorten. Wanneer een dergelijke maatregel uitsluitend een andere sector dan de financiële-dienstensector beïnvloedt, mag de klagende partij de voordelen in de financiële-dienstensector niet opschorten.
 
-#### Artikel 7.46. Erkenning
+##### Artikel 7.46. Erkenning
 
 1. Een partij kan prudentiële maatregelen van de andere partij erkennen door te bepalen op welke wijze de maatregelen van de partij met betrekking tot financiële diensten worden toegepast. Deze erkenning, door harmonisatie of op andere wijze, kan op een overeenkomst of regeling tussen de partijen worden gebaseerd of autonoom geschieden.
 
@@ -1506,7 +1528,7 @@ Uiterlijk twee jaar na de inwerkingtreding van deze overeenkomst en uiterlijk op
 
 #### ONDERAFDELING F. INTERNATIONAAL ZEEVERVOER
 
-#### Artikel 7.47. Toepassingsgebied, definities en beginselen
+##### Artikel 7.47. Toepassingsgebied, definities en beginselen
 
 1. Deze onderafdeling bevat de beginselen voor de liberalisering, in overeenstemming met de afdelingen B tot en met D, van diensten die verband houden met internationaal zeevervoer.
 
@@ -1566,7 +1588,7 @@ Uiterlijk twee jaar na de inwerkingtreding van deze overeenkomst en uiterlijk op
 
 ### AFDELING F. ELEKTRONISCHE HANDEL
 
-#### Artikel 7.48. Doelstellingen en beginselen
+##### Artikel 7.48. Doelstellingen en beginselen
 
 1. De partijen erkennen dat elektronische handel tot economische groei leidt en handelsmogelijkheden biedt, dat het van belang is belemmeringen voor het gebruik en de ontwikkeling ervan te vermijden, en dat de [WTO-Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160) op maatregelen met betrekking tot elektronische handel van toepasssing is, en komen overeen de ontwikkeling van hun onderlinge elektronische handel te bevorderen, met name door samenwerking op het gebied van de vraagstukken die in het kader van dit hoofdstuk door de elektronische handel worden opgeworpen.
 
@@ -1574,7 +1596,7 @@ Uiterlijk twee jaar na de inwerkingtreding van deze overeenkomst en uiterlijk op
 
 3. De partijen komen overeen geen douanerechten te heffen op leveringen langs elektronische weg41De opname van de elektronische handel in dit hoofdstuk doet geen afbreuk aan het Koreaanse standpunt over de vraag of leveringen langs elektronische weg als handel in diensten of als handel in goederen moeten worden beschouwd..
 
-#### Artikel 7.49. Samenwerking op het gebied van regelgeving
+##### Artikel 7.49. Samenwerking op het gebied van regelgeving
 
 1. De partijen onderhouden een dialoog over regelgevingskwesties in verband met de elektronische handel, onder meer over:
 
@@ -1594,7 +1616,7 @@ Uiterlijk twee jaar na de inwerkingtreding van deze overeenkomst en uiterlijk op
 
 ### AFDELING G. UITZONDERINGEN
 
-#### Artikel 7.50. Uitzonderingen
+##### Artikel 7.50. Uitzonderingen
 
 Mits de hieronder bedoelde maatregelen niet zodanig worden toegepast dat zij een middel tot een willekeurige of ongerechtvaardigde discriminatie tussen landen bij soortgelijke omstandigheden, of een verkapte beperking van het recht van vestiging of van grensoverschrijdende diensten vormen, wordt geen bepaling van dit hoofdstuk uitgelegd als beletsel voor het vaststellen of toepassen door een van de partijen van maatregelen die:
 
@@ -1618,11 +1640,11 @@ Mits de hieronder bedoelde maatregelen niet zodanig worden toegepast dat zij een
 
 ### HOOFDSTUK ACHT. BETALINGS- EN KAPITAALVERKEER
 
-#### Artikel 8.1. Lopende betalingen
+##### Artikel 8.1. Lopende betalingen
 
 De partijen verbinden zich ertoe overeenkomstig de Statuten van het Internationaal Monetair Fonds toe te staan dat alle betalingen en overboekingen op de lopende rekening van de betalingsbalans tussen ingezetenen van de partijen worden verricht in vrij converteerbare valuta, en geen beperkingen dienaangaande vast te stellen.
 
-#### Artikel 8.2. Kapitaalverkeer
+##### Artikel 8.2. Kapitaalverkeer
 
 1. Wat de verrichtingen op de kapitaalrekening en de financiële rekening van de betalingsbalans betreft, verbinden de partijen zich ertoe het vrije kapitaalverkeer niet te beperken ten aanzien van in overeenstemming met de wetgeving van het gastland verrichte directe investeringen, overeenkomstig [hoofdstuk zeven](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=ZEVEN&z=2016-01-01&g=2016-01-01) (Handel in diensten, vestiging en elektronische handel) geliberaliseerde investeringen en andere transacties, en de liquidatie en repatriëring van het aldus geïnvesteerde kapitaal en de opbrengsten daarvan.
 
@@ -1638,7 +1660,7 @@ De partijen verbinden zich ertoe overeenkomstig de Statuten van het Internationa
 
 4. De partijen kunnen overleg plegen teneinde hun onderlinge kapitaalverkeer verder te vergemakkelijken met het oog op de verwezenlijking van de doelstellingen van deze overeenkomst.
 
-#### Artikel 8.3. Uitzonderingen
+##### Artikel 8.3. Uitzonderingen
 
 Mits de hieronder bedoelde maatregelen niet zodanig worden toegepast dat zij een middel tot willekeurige of ongerechtvaardigde discriminatie tussen landen bij soortgelijke omstandigheden, of een verkapte beperking van het kapitaalverkeer vormen, wordt geen bepaling van dit hoofdstuk uitgelegd als beletsel voor het vaststellen of toepassen door een van de partijen van maatregelen die:
 
@@ -1656,7 +1678,7 @@ Mits de hieronder bedoelde maatregelen niet zodanig worden toegepast dat zij een
 
 - v. het verzekeren dat wordt voldaan aan beschikkingen of uitspraken in gerechtelijke of administratieve procedures.
 
-#### Artikel 8.4. Vrijwaringsmaatregelen
+##### Artikel 8.4. Vrijwaringsmaatregelen
 
 1. Wanneer in uitzonderlijke omstandigheden betalingen en kapitaalbewegingen tussen de partijen ernstige moeilijkheden veroorzaken of dreigen te veroorzaken voor het monetair beleid of het wisselkoersbeleid44)Onder „ernstige moeilijkheden voor het monetair beleid of het wisselkoersbeleid” wordt onder meer begrepen: ernstige betalingsbalans- of externe financiële moeilijkheden, en de vrijwaringsmaatregelen krachtens dit artikel zijn niet van toepassing op buitenlandse directe investeringen.van Korea of van een of meer van de lidstaten van de Europese Unie, kunnen strikt noodzakelijke vrijwaringsmaatregelen45)De in dit artikel bedoelde vrijwaringsmaatregelen dienen met name zodanig te worden toegepast dat zij:a.niet tot confiscatie leiden;b.in de praktijk niet tot een duaal of meervoudig koersstelsel leiden;c.niet anderszins interfereren met het vermogen van de investeerder om een marktrendement te behalen op het grondgebied van de partij die vrijwaringsmaatregelen heeft genomen ten aanzien van de activa waarop de beperkingen zien;d.geen onnodig nadeel toebrengen aan de commerciële, economische en financiële belangen van de andere partij;e.van tijdelijke aard zijn en geleidelijk worden afgebouwd wanneer de situatie die tot dergelijke maatregelen noopt, verbetert; enf.door de voor het wisselkoersbeleid bevoegde autoriteiten onverwijld worden bekendgemaakt.ten aanzien van kapitaalbewegingen worden genomen door de betrokken partijen46)De Europese Unie of lidstaten van de Europese Unie of Korea., voor een periode van ten hoogste zes maanden47)Zolang de omstandigheden van het tijdstip waarop de vrijwaringsmaatregelen of daarmee gelijkwaardige maatregelen zijn genomen, voortduren, kan de toepassing van vrijwaringsmaatregelen door de betrokken partij met nog eens zes maanden worden verlengd. Indien een partij in uiterst uitzonderlijke omstandigheden de vrijwaringsmaatregelen nog verder wil verlengen, pleegt zij vooraf overleg met de andere partij over de tenuitvoerlegging van de voorgestelde verlenging..
 
@@ -1664,7 +1686,7 @@ Mits de hieronder bedoelde maatregelen niet zodanig worden toegepast dat zij een
 
 ### HOOFDSTUK NEGEN. OVERHEIDSOPDRACHTEN
 
-#### Artikel 9.1. ALGEMENE BEPALINGEN
+##### Artikel 9.1. ALGEMENE BEPALINGEN
 
 1. De partijen bevestigen hun rechten en verplichtingen uit hoofde van de [Overeenkomst inzake overheidsopdrachten](https://wetten.overheid.nl/jci1.3:c:BWBV0001159), die is opgenomen in bijlage 4 bij de WTO-Overeenkomst, hierna „de GPA 1994” genoemd, en hun belang bij een verdere uitbreiding van bilaterale handelsmogelijkheden op de markt voor overheidsopdrachten van elk van beide partijen.
 
@@ -1692,13 +1714,13 @@ Mits de hieronder bedoelde maatregelen niet zodanig worden toegepast dat zij een
 
 - c. „het comité” in de herziene GPA: „de werkgroep”.
 
-#### Artikel 9.2. Toepassingsgebied en dekking
+##### Artikel 9.2. Toepassingsgebied en dekking
 
 1. Dit hoofdstuk is van toepassing op alle opdrachten waarop de bijlagen bij de [GPA 1994](https://wetten.overheid.nl/jci1.3:c:BWBV0001159) van elk van beide partijen alsmede alle aan die bijlagen gehechte aantekeningen, met inbegrip van de wijzigingen of vervangingen daarvan, van toepassing zijn.
 
 2. Voor de toepassing van deze overeenkomst is bijlage 9 van toepassing op build-operate-transfer-contracten, hierna „BOT-contracten” genoemd, en op concessies voor openbare werken, zoals gedefinieerd in bijlage 9.
 
-#### Artikel 9.3. Werkgroep overheidsopdrachten
+##### Artikel 9.3. Werkgroep overheidsopdrachten
 
 De Werkgroep overheidsopdrachten, opgericht krachtens [lid 1 van artikel 15.3](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=VIJFTIEN&artikel=15.3&z=2016-01-01&g=2016-01-01) (Werkgroepen) komt in onderling overleg of op verzoek van een van de partijen bijeen om:
 
@@ -1712,7 +1734,7 @@ De Werkgroep overheidsopdrachten, opgericht krachtens [lid 1 van artikel 15.3](h
 
 ### AFDELING A. ALGEMENE BEPALINGEN
 
-#### Artikel 10.1. Doelstellingen
+##### Artikel 10.1. Doelstellingen
 
 De doelstellingen van dit hoofdstuk zijn:
 
@@ -1720,7 +1742,7 @@ De doelstellingen van dit hoofdstuk zijn:
 
 - b. het bereiken van een adequaat en doeltreffend beschermings- en handhavingsniveau voor intellectuele-eigendomsrechten.
 
-#### Artikel 10.2. Aard en toepassingsgebied van de verplichtingen
+##### Artikel 10.2. Aard en toepassingsgebied van de verplichtingen
 
 1. De partijen waarborgen een adequate en doeltreffende tenuitvoerlegging van de internationale verdragen inzake intellectuele eigendom waarbij zij partij zijn, met inbegrip van de Overeenkomst inzake de handelsaspecten van de intellectuele eigendom, die is opgenomen in [bijlage 1C bij de WTO-Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&bijlage=IC), hierna de „TRIPs-overeenkomst” genoemd. De bepalingen van dit hoofdstuk vormen een aanvulling op en specificatie van de tussen de partijen geldende rechten en verplichtingen uit hoofde van de TRIPs-overeenkomst.
 
@@ -1746,13 +1768,13 @@ De doelstellingen van dit hoofdstuk zijn:
 
 3. De bescherming van intellectuele eigendom omvat ook de bescherming tegen oneerlijke concurrentie zoals bedoeld in [artikel 10 bis van het Verdrag van Parijs tot bescherming van de industriële eigendom (1967)](https://wetten.overheid.nl/jci1.3:c:BWBV0004120&artikel=10bis), hierna „het Verdrag van Parijs” genoemd.
 
-#### Artikel 10.3. Overdracht van technologie
+##### Artikel 10.3. Overdracht van technologie
 
 1. De partijen komen overeen standpunten en informatie uit te wisselen over hun praktijk en beleid met betrekking tot de overdracht van technologie, zowel binnen hun respectieve grondgebied als met derde landen. Dit omvat in het bijzonder maatregelen om informatiestromen, zakelijke partnerschappen, de verlening van licenties en onderaanbesteding te vergemakkelijken. Er wordt bijzondere aandacht besteed aan de voorwaarden die nodig zijn voor het scheppen van een passend gunstig klimaat voor technologieoverdracht in de gastlanden, met inbegrip van onder meer kwesties als de ontwikkeling van menselijk kapitaal en een juridisch kader.
 
 2. Elk van beide partijen neemt passende maatregelen om licentiepraktijken of -voorwaarden met betrekking tot intellectuele-eigendomsrechten te voorkomen of te regelen, voor zover deze praktijken of voorwaarden de internationale technologieoverdracht kunnen schaden en een misbruik van intellectuele-eigendomsrechten door de houders van die rechten vormen.
 
-#### Artikel 10.4. Uitputting
+##### Artikel 10.4. Uitputting
 
 Het staat de partijen vrij hun eigen regeling voor de uitputting van intellectuele-eigendomsrechten vast te stellen.
 
@@ -1760,7 +1782,7 @@ Het staat de partijen vrij hun eigen regeling voor de uitputting van intellectue
 
 #### ONDERAFDELING A. AUTEURSRECHT EN NABURIGE RECHTEN
 
-#### Artikel 10.5. Geboden bescherming
+##### Artikel 10.5. Geboden bescherming
 
 De partijen leven de volgende bepalingen na:
 
@@ -1772,21 +1794,21 @@ De partijen leven de volgende bepalingen na:
 
 - d. de [artikelen 1 tot en met 23 van het WIPO-verdrag inzake uitvoeringen en fonogrammen (1996)](https://wetten.overheid.nl/jci1.3:c:BWBR0005843&afdeling=1), hierna „het WPPT” genoemd.
 
-#### Artikel 10.6. Duur van auteursrechten
+##### Artikel 10.6. Duur van auteursrechten
 
 Elk van beide partijen zorgt ervoor dat wanneer de duur van de bescherming van een werk op basis van het leven van een natuurlijk persoon moet worden berekend, deze duur niet korter is dan het leven van de auteur plus 70 jaar na de dood van de auteur.
 
-#### Artikel 10.7. Omroeporganisaties
+##### Artikel 10.7. Omroeporganisaties
 
 1. De rechten van omroeporganisaties vervallen niet eerder dan 50 jaar na de eerste transmissie van een uitzending, ongeacht of de transmissie van deze uitzendingen plaatsvindt via de kabel of via de ether, via satelliet daaronder begrepen.
 
 2. Geen van beide partijen staat retransmissie van televisiesignalen (via terrestrische, kabel- of satellietverbinding) op internet toe zonder vergunning van de houder of houders (zo die er zijn) van het recht op de inhoud van het signaal en van het signaal zelf49)Voor de toepassing van dit lid is retransmissie op het grondgebied van een partij via een gesloten en welbepaald netwerk van abonnees dat niet toegankelijk is van buiten het grondgebied van de partij, geen retransmissie op internet..
 
-#### Artikel 10.8. Samenwerking bij het collectieve beheer van rechten
+##### Artikel 10.8. Samenwerking bij het collectieve beheer van rechten
 
 De partijen streven ernaar de vaststelling van regelingen tussen hun respectieve auteursrechtenorganisaties te bevorderen, teneinde de toegang tot en de levering van inhoud tussen de partijen te vergemakkelijken en de wederzijdse overdracht van royalty's voor het gebruik van werken of ander door auteursrechten beschermd materiaal van de partijen te waarborgen. De partijen streven ernaar een hoog niveau van rationalisatie te bereiken en de transparantie met betrekking tot de uitvoering van de taak van hun respectieve auteursrechtenorganisaties te verbeteren.
 
-#### Artikel 10.9. Uitzending en mededeling aan het publiek
+##### Artikel 10.9. Uitzending en mededeling aan het publiek
 
 1. Voor de toepassing van dit artikel wordt verstaan onder:
 
@@ -1808,15 +1830,15 @@ De partijen streven ernaar de vaststelling van regelingen tussen hun respectieve
 
 - c. mededeling aan het publiek van hun televisie-uitzendingen indien die mededeling geschiedt op plaatsen die tegen betaling van een entreeprijs voor het publiek toegankelijk zijn. De voorwaarden waaronder dit recht kan worden uitgeoefend, worden bepaald door het interne recht van de staat waar bescherming van dit recht wordt gevraagd.
 
-#### Artikel 10.10. Volgrecht van kunstenaars
+##### Artikel 10.10. Volgrecht van kunstenaars
 
 De partijen komen overeen van gedachten te wisselen en informatie uit te wisselen over de praktijk en het beleid met betrekking tot het volgrecht van kunstenaars. De partijen treden binnen twee jaar na de inwerkingtreding van deze overeenkomst opnieuw in overleg over de wenselijkheid en haalbaarheid van de invoering van het volgrecht van kunstenaars in Korea.
 
-#### Artikel 10.11. Beperkingen en uitzonderingen
+##### Artikel 10.11. Beperkingen en uitzonderingen
 
 De partijen kunnen in hun wetgeving voorzien in beperkingen van en uitzonderingen op de in de artikelen 10.5 tot en met 10.10 bedoelde aan de houders van een recht verleende rechten in bepaalde bijzondere gevallen die niet in strijd zijn met een normale exploitatie van het werk en geen onredelijke inbreuk zijn op de rechtmatige belangen van de houders van het recht.
 
-#### Artikel 10.12. Bescherming van technische voorzieningen
+##### Artikel 10.12. Bescherming van technische voorzieningen
 
 1. Elk van beide partijen voorziet in een passende rechtsbescherming tegen het omzeilen van doeltreffende technische voorzieningen door een persoon die weet of redelijkerwijs behoort te weten dat hij aldus handelt.
 
@@ -1834,7 +1856,7 @@ doeltreffende technische voorzieningen.
 
 4. Elk van beide partijen kan in overeenstemming met haar wetgeving en de in [artikel 10.5](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=TIEN&afdeling=B&paragraaf=A&artikel=10.5&z=2016-01-01&g=2016-01-01) genoemde internationale overeenkomsten ter zake voorzien in uitzonderingen op en beperkingen van maatregelen ter uitvoering van de leden 1 en 2.
 
-#### Artikel 10.13. Bescherming van informatie over het beheer van rechten
+##### Artikel 10.13. Bescherming van informatie over het beheer van rechten
 
 1. Elk van beide partijen voorziet in een passende rechtsbescherming tegen eenieder die opzettelijk op ongeoorloofde wijze een van de volgende handelingen verricht:
 
@@ -1848,27 +1870,27 @@ en die weet of redelijkerwijs behoort te weten dat hij zodoende aanzet tot een i
 
 3. Lid 2 is van toepassing wanneer bestanddelen van deze informatie zijn verbonden met een kopie, of kenbaar worden bij de mededeling aan het publiek, van een werk of ander materiaal bedoeld in deze overeenkomst.
 
-#### Artikel 10.14. Overgangsbepaling
+##### Artikel 10.14. Overgangsbepaling
 
 Korea legt de in de [artikelen 10.6](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=TIEN&afdeling=B&paragraaf=A&artikel=10.6&z=2016-01-01&g=2016-01-01) en [10.7](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=TIEN&afdeling=B&paragraaf=A&artikel=10.7&z=2016-01-01&g=2016-01-01) bedoelde verplichtingen binnen twee jaar na de inwerkingtreding van deze overeenkomst volledig ten uitvoer.
 
 #### ONDERAFDELING B. HANDELSMERKEN
 
-#### Artikel 10.15. Registratieprocedure
+##### Artikel 10.15. Registratieprocedure
 
 De Europese Unie en Korea voorzien in een systeem voor de registratie van handelsmerken waarbij de redenen voor een weigering een handelsmerk te registreren schriftelijk aan de aanvrager wordt medegedeeld en hem ook elektronisch kan worden verstrekt, en de aanvrager de mogelijkheid krijgt die weigering aan te vechten en bij de rechter in beroep te gaan tegen een definitieve weigering. De Europese Unie en Korea zien er ook op toe dat belanghebbenden zich tegen aanvragen voor een handelsmerk kunnen verzetten. De Europese Unie en Korea voorzien in een openbaar toegankelijke databank voor aanvragen voor en de registratie van handelsmerken.
 
-#### Artikel 10.16. Internationale overeenkomsten
+##### Artikel 10.16. Internationale overeenkomsten
 
 De Europese Unie en Korea nemen het [Verdrag inzake het handelsmerkenrecht (1994)](https://wetten.overheid.nl/jci1.3:c:BWBV0001253) in acht en stellen alles wat redelijkerwijs mogelijk is in het werk om het [Verdrag van Singapore inzake handelsmerkenrecht (2006)](https://wetten.overheid.nl/jci1.3:c:BWBV0004115) in acht te nemen.
 
-#### Artikel 10.17. Uitzonderingen op de rechten die zijn verbonden aan een handelsmerk
+##### Artikel 10.17. Uitzonderingen op de rechten die zijn verbonden aan een handelsmerk
 
 Elk van beide partijen voorziet in een eerlijk gebruik van beschrijvende termen als beperkte uitzondering op de rechten die verbonden zijn aan een handelsmerk en kan voorzien in andere beperkte uitzonderingen, mits bij die beperkte uitzonderingen rekening wordt gehouden met de legitieme belangen van de houder van het handelsmerk en van derden.
 
 #### ONDERAFDELING C. GEOGRAFISCHE AANDUIDINGEN50)In deze onderafdeling heeft „geografische aanduiding” betrekking op:a.geografische aanduidingen, oorsprongsbenamingen, in bepaalde gebieden voortgebrachte kwaliteitswijn en tafelwijn met een geografische aanduiding, zoals bedoeld in Verordening (EG) nr. 510/2006 van de Raad van 20 maart 2006, Verordening (EG) nr. 110/2008 van het Europees Parlement en de Raad van 15 januari 2008, Verordening (EEG) nr. 1601/1991 van de Raad van 10 juni 1991, Verordening (EG) nr. 1493/1999 van de Raad van 17 mei 1999 en Verordening (EG) nr. 1234/2007 van de Raad van 22 oktober 2007, of bepalingen die deze verordeningen vervangen; enb.geografische aanduidingen als bedoeld in de Wet op de kwaliteitscontrole van landbouwproducten (Wet nr. 9759 van 9 juni 2009) en de Wet op de alcoholbelasting (Wet nr. 8852 van 29 februari 2008) van Korea.51)De bescherming van een geografische aanduiding krachtens deze onderafdeling doet geen afbreuk aan andere bepalingen in deze overeenkomst.
 
-#### Artikel 10.18. Erkenning van geografische aanduidingen voor landbouwproducten, levensmiddelen en wijn
+##### Artikel 10.18. Erkenning van geografische aanduidingen voor landbouwproducten, levensmiddelen en wijn
 
 1. Na onderzoek van de Wet op de kwaliteitscontrole van landbouwproducten en de uitvoeringsbepalingen daarvan, voor zover deze betrekking hebben op de registratie van, het toezicht op en de bescherming van geografische aanduidingen van landbouwproducten en levensmiddelen in Korea, concludeert de Europese Unie dat deze wetgeving beantwoordt aan de in lid 6 neergelegde elementen.
 
@@ -1894,17 +1916,17 @@ Elk van beide partijen voorziet in een eerlijk gebruik van beschrijvende termen 
 
 - f. een bezwaarprocedure waarbij rekening wordt gehouden met de legitieme belangen van vroegere gebruikers van namen, ongeacht of deze namen als een vorm van intellectuele eigendom worden beschermd.
 
-#### Artikel 10.19. Erkenning van specifieke geografische aanduidingen voor wijn52)Wijn in de zin van deze onderafdeling is een product dat valt onder post 22.04 van het GS en dat:a.voldoet aan Verordening (EG) nr. 1234/2007 van de Raad van 22 oktober 2007, Verordening (EG) nr. 606/2009 van de Commissie van 10 juli 2009 en Verordening (EG) nr. 607/2009 van de Commissie van 14 juli 2009 of wetgeving ter vervanging daarvan, ofb.voldoet aan de Wet op de kwaliteitscontrole van landbouwproducten (Wet nr. 9759 van 9 juni 2009) en de Wet op de alcoholbelasting (Wet nr. 8852 van 29 februari 2008) van Korea., gearomatiseerde wijn53)Gearomatiseerde wijn in de zin van deze onderafdeling is een product dat valt onder post 22.05 van het GS en dat:a.voldoet aan Verordening (EG) nr. 1601/1991 van de Raad van 10 juni 1991 of wetgeving ter vervanging daarvan, ofb.voldoet aan de Wet op de kwaliteitscontrole van landbouwproducten (Wet nr. 9759 van 9 juni 2009) en de Wet op de alcoholbelasting (Wet nr. 8852 van 29 februari 2008) van Korea.en gedistilleerde dranken54)Gedistilleerde dranken in de zin van deze onderafdeling zijn producten die vallen onder post 22.08 van het GS en die:a.voldoen aan Verordening (EG) nr. 110/2008 van het Europees Parlement en de Raad van 15 januari 2008 en Verordening (EEG) nr. 1014/90 van de Commissie van 24 april 1990, of wetgeving ter vervanging daarvan, ofb.voldoen aan de Wet op de kwaliteitscontrole van landbouwproducten (Wet nr. 9759 van 9 juni 2009) en de Wet op de alcoholbelasting (Wet nr. 8852 van 29 februari 2008) van Korea.
+##### Artikel 10.19. Erkenning van specifieke geografische aanduidingen voor wijn52)Wijn in de zin van deze onderafdeling is een product dat valt onder post 22.04 van het GS en dat:a.voldoet aan Verordening (EG) nr. 1234/2007 van de Raad van 22 oktober 2007, Verordening (EG) nr. 606/2009 van de Commissie van 10 juli 2009 en Verordening (EG) nr. 607/2009 van de Commissie van 14 juli 2009 of wetgeving ter vervanging daarvan, ofb.voldoet aan de Wet op de kwaliteitscontrole van landbouwproducten (Wet nr. 9759 van 9 juni 2009) en de Wet op de alcoholbelasting (Wet nr. 8852 van 29 februari 2008) van Korea., gearomatiseerde wijn53)Gearomatiseerde wijn in de zin van deze onderafdeling is een product dat valt onder post 22.05 van het GS en dat:a.voldoet aan Verordening (EG) nr. 1601/1991 van de Raad van 10 juni 1991 of wetgeving ter vervanging daarvan, ofb.voldoet aan de Wet op de kwaliteitscontrole van landbouwproducten (Wet nr. 9759 van 9 juni 2009) en de Wet op de alcoholbelasting (Wet nr. 8852 van 29 februari 2008) van Korea.en gedistilleerde dranken54)Gedistilleerde dranken in de zin van deze onderafdeling zijn producten die vallen onder post 22.08 van het GS en die:a.voldoen aan Verordening (EG) nr. 110/2008 van het Europees Parlement en de Raad van 15 januari 2008 en Verordening (EEG) nr. 1014/90 van de Commissie van 24 april 1990, of wetgeving ter vervanging daarvan, ofb.voldoen aan de Wet op de kwaliteitscontrole van landbouwproducten (Wet nr. 9759 van 9 juni 2009) en de Wet op de alcoholbelasting (Wet nr. 8852 van 29 februari 2008) van Korea.
 
 1. In Korea worden de in bijlage 10-B opgenomen geografische aanduidingen van de Europese Unie beschermd voor producten waarvoor deze geografische aanduidingen overeenkomstig de desbetreffende wetgeving van de Europese Unie inzake geografische aanduidingen worden gebruikt.
 
 2. In de Europese Unie worden de in bijlage 10-B opgenomen geografische aanduidingen van Korea beschermd voor producten waarvoor deze geografische aanduidingen overeenkomstig de desbetreffende wetgeving van Korea inzake geografische aanduidingen worden gebruikt.
 
-#### Artikel 10.20. Gebruiksrecht
+##### Artikel 10.20. Gebruiksrecht
 
 Een uit hoofde van deze onderafdeling beschermde naam mag worden gebruikt door iedere marktdeelnemer die landbouwproducten, levensmiddelen, wijn, gearomatiseerde wijn of gedistilleerde dranken overeenkomstig de desbetreffende specificatie in de handel brengt.
 
-#### Artikel 10.21. Omvang van de bescherming
+##### Artikel 10.21. Omvang van de bescherming
 
 1. De in de [artikelen 10.18](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=TIEN&afdeling=B&paragraaf=C&artikel=10.18&z=2016-01-01&g=2016-01-01) en [10.19](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=TIEN&afdeling=B&paragraaf=C&artikel=10.19&z=2016-01-01&g=2016-01-01) bedoelde geografische aanduidingen worden beschermd tegen:
 
@@ -1922,11 +1944,11 @@ Een uit hoofde van deze onderafdeling beschermde naam mag worden gebruikt door i
 
 5. De bescherming van een geografische aanduiding uit hoofde van dit artikel doet geen afbreuk aan het voortgezette gebruik van een handelsmerk dat op het grondgebied van een partij werd aangevraagd, geregistreerd of, indien de toepasselijke wetgeving in die mogelijkheid voorziet, door gebruik werd verworven vóór de datum waarop bescherming of erkenning van de geografische aanduiding werd aangevraagd, mits er in de wetgeving van de betrokken partij geen redenen voor de ongeldigheid of de herroeping van het handelsmerk zijn. De datum waarop de bescherming of erkenning van de geografische aanduiding werd aangevraagd, wordt bepaald overeenkomstig [artikel 10.23, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=TIEN&afdeling=B&paragraaf=C&artikel=10.23&z=2016-01-01&g=2016-01-01).
 
-#### Artikel 10.22. Handhaving van bescherming
+##### Artikel 10.22. Handhaving van bescherming
 
 De partijen handhaven de in de artikelen 10.18 tot en met 10.23 bedoelde bescherming op eigen initiatief door passend optreden van hun autoriteiten. Ook handhaven zij die bescherming op verzoek van een belanghebbende.
 
-#### Artikel 10.23. Verband met handelsmerken
+##### Artikel 10.23. Verband met handelsmerken
 
 1. Wanneer registratie van een handelsmerk leidt tot een van de in [artikel 10.21, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=TIEN&afdeling=B&paragraaf=C&artikel=10.21&z=2016-01-01&g=2016-01-01), bedoelde situaties in verband met een beschermde geografische aanduiding voor soortgelijke waren, wordt deze registratie door de partijen alleen geweigerd of nietig verklaard mits de registratie van het handelsmerk is aangevraagd na de datum waarop bescherming of erkenning van de geografische aanduiding op het betrokken grondgebied werd aangevraagd.
 
@@ -1936,7 +1958,7 @@ De partijen handhaven de in de artikelen 10.18 tot en met 10.23 bedoelde bescher
 
 - b. voor de in [artikel 10.24](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=TIEN&afdeling=B&paragraaf=C&artikel=10.24&z=2016-01-01&g=2016-01-01) bedoelde geografische aanduidingen de datum waarop een partij een verzoek van de andere partij ontvangt om een geografische aanduiding te beschermen of te erkennen.
 
-#### Artikel 10.24. Toevoeging van beschermde geografische aanduidingen56)De partijen komen overeen om, indien een voorstel wordt gedaan door:a.Korea voor een product van oorsprong dat binnen het toepassingsgebied van de in artikel 10.18, lid 2, en de voetnoten bij artikel 10.19 genoemde wetgeving van de Europese Unie valt; ofb.de Europese Unie voor een product van oorsprong dat binnen het toepassingsgebied van de in artikel 10.18, lid 1, en de voetnoten bij artikel 10.19 genoemde wetgeving van Korea valt,om een oorsprongsbenaming aan deze overeenkomst toe te voegen, die door een van beide partijen door middel van een andere wet dan de wetten die bedoeld zijn in artikel 10.18, leden 1 en 2, en de voetnoten bij artikel 10.19 als geografische aanduiding in de zin van artikel 22, lid 1, van de TRIPs-overeenkomst is erkend, te onderzoeken of die geografische aanduiding krachtens deze onderafdeling aan deze overeenkomst kan worden toegevoegd.
+##### Artikel 10.24. Toevoeging van beschermde geografische aanduidingen56)De partijen komen overeen om, indien een voorstel wordt gedaan door:a.Korea voor een product van oorsprong dat binnen het toepassingsgebied van de in artikel 10.18, lid 2, en de voetnoten bij artikel 10.19 genoemde wetgeving van de Europese Unie valt; ofb.de Europese Unie voor een product van oorsprong dat binnen het toepassingsgebied van de in artikel 10.18, lid 1, en de voetnoten bij artikel 10.19 genoemde wetgeving van Korea valt,om een oorsprongsbenaming aan deze overeenkomst toe te voegen, die door een van beide partijen door middel van een andere wet dan de wetten die bedoeld zijn in artikel 10.18, leden 1 en 2, en de voetnoten bij artikel 10.19 als geografische aanduiding in de zin van artikel 22, lid 1, van de TRIPs-overeenkomst is erkend, te onderzoeken of die geografische aanduiding krachtens deze onderafdeling aan deze overeenkomst kan worden toegevoegd.
 
 1. De Europese Unie en Korea komen overeen om te beschermen geografische aanduidingen volgens de procedure van [artikel 10.25](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=TIEN&afdeling=B&paragraaf=C&artikel=10.25&z=2016-01-01&g=2016-01-01) aan de bijlagen 10-A en 10-B toe te voegen.
 
@@ -1944,7 +1966,7 @@ De partijen handhaven de in de artikelen 10.18 tot en met 10.23 bedoelde bescher
 
 3. Een naam kan niet als geografische aanduiding worden geregistreerd indien hij strijdig is met de naam van een plantenras, met inbegrip van een druivenras, of een dierenras en de consument daardoor zou kunnen worden misleid met betrekking tot de werkelijke oorsprong van het product.
 
-#### Artikel 10.25. Werkgroep geografische aanduidingen
+##### Artikel 10.25. Werkgroep geografische aanduidingen
 
 1. De Werkgroep geografische aanduidingen, die is opgericht ingevolge lid 1 van [artikel 15.3](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=VIJFTIEN&artikel=15.3&z=2016-01-01&g=2016-01-01) (Werkgroepen), komt in onderling overleg of op verzoek van een van de partijen bijeen om de samenwerking tussen de partijen en de dialoog over geografische aanduidingen te intensiveren. De werkgroep kan bij consensus aanbevelingen doen en besluiten nemen.
 
@@ -1968,33 +1990,33 @@ De partijen handhaven de in de artikelen 10.18 tot en met 10.23 bedoelde bescher
 
 5. De werkgroep kan iedere kwestie van wederzijds belang op het gebied van geografische aanduidingen bespreken.
 
-#### Artikel 10.26. Individuele toepassingen van de bescherming van geografische aanduidingen
+##### Artikel 10.26. Individuele toepassingen van de bescherming van geografische aanduidingen
 
 De bepalingen van deze onderafdeling laten het recht om te streven naar erkenning en bescherming van een geografische aanduiding krachtens de wetgeving van de Europese Unie of Korea ter zake onverlet.
 
 #### ONDERAFDELING D. MODELLEN
 
-#### Artikel 10.27. Bescherming van geregistreerde modellen
+##### Artikel 10.27. Bescherming van geregistreerde modellen
 
 1. De Europese Unie en Korea voorzien in de bescherming van onafhankelijk ontworpen modellen die nieuw of oorspronkelijk zijn en een eigen karakter hebben59)Korea beschouwt modellen niet als nieuw indien een identiek of soortgelijk model algemeen bekend of algemeen in bedrijf genomen was voordat de registratieaanvraag voor het model werd ingediend. Korea beschouwt modellen niet als origineel als zij eenvoudig hadden kunnen worden ontworpen aan de hand van combinaties van modellen die algemeen bekend of algemeen in bedrijf genomen waren voordat de registratieaanvraag voor het model werd ingediend. De Europese Unie beschouwt modellen niet als nieuw indien een identiek model algemeen beschikbaar was voor de datum van indiening van een geregistreerd model of voor de datum van openbaarmaking van een niet-geregistreerd model. Een model wordt volgens de Europese Unie niet geacht een eigen karakter te hebben als de algemene indruk die het bij de geïnformeerde gebruiker wekt, niet verschilt van de algemene indruk die bij die gebruiker wordt gewekt door een model dat algemeen beschikbaar is..
 
 2. In deze bescherming wordt voorzien door registratie, die de houder van het recht uitsluitende rechten overeenkomstig het bepaalde in deze onderafdeling verleent.
 
-#### Artikel 10.28. Door registratie verkregen rechten
+##### Artikel 10.28. Door registratie verkregen rechten
 
 De eigenaar van een beschermd model heeft het recht derden die daartoe niet zijn toestemming hebben, ten minste te beletten artikelen te vervaardigen, op de markt aan te bieden, te verkopen, in of uit te voeren of te gebruiken, die het beschermde model vertonen of incorporeren, wanneer dit om commerciële redenen gebeurt, wanneer hiermee zonder noodzaak afbreuk wordt gedaan aan de normale exploitatie van het model of wanneer dit niet in overeenstemming is met een eerlijke handelspraktijk.
 
-#### Artikel 10.29. Bescherming van niet-geregistreerde verschijningsvormen
+##### Artikel 10.29. Bescherming van niet-geregistreerde verschijningsvormen
 
 De Europese Unie en Korea voorzien in rechtsmiddelen ter voorkoming van het gebruik van niet-geregistreerde verschijningsvormen van een product, mits het omstreden gebruik voortvloeit uit het kopiëren van de niet-geregistreerde verschijningsvorm van het product60)Voor de toepassing van dit artikel kennen de Europese Unie en Korea aan „niet-geregistreerd model” en „niet-geregistreerde verschijningsvorm” dezelfde betekenis toe. De voorwaarden voor bescherming van een „niet-geregistreerd model” of een „niet-geregistreerde verschijningsvorm” zijn vastgelegd:a.voor Korea, in de Wet ter voorkoming van oneerlijke concurrentie en ter bescherming van handelsgeheimen (Wet nr. 8767 van 21 december 2007);b.voor de Europese Unie, in Verordening (EG) nr. 6/2002 van de Raad van 12 december 2001 betreffende Gemeenschapsmodellen, laatstelijk gewijzigd bij Verordening (EG) nr. 1891/2006 van de Raad van 18 december 2006.. Een dergelijk gebruik omvat ten minste het aanbieden61)Voor de toepassing van dit artikel wordt „aanbieden” door de Europese Unie beschouwd als „in de handel brengen” en door Korea als „overdragen, leasen of tentoonstellen met het oog op overdracht of lease”.en het in- en uitvoeren van goederen.
 
-#### Artikel 10.30. Duur van de bescherming
+##### Artikel 10.30. Duur van de bescherming
 
 1. Na registratie bieden de partijen bescherming voor de duur van ten minste 15 jaar.
 
 2. Niet-geregistreerde verschijningsvormen worden in de Europese Unie en Korea gedurende ten minste drie jaar beschermd.
 
-#### Artikel 10.31. Uitzonderingen
+##### Artikel 10.31. Uitzonderingen
 
 1. De Europese Unie en Korea kunnen voorzien in beperkte uitzonderingen op de bescherming van modellen, mits deze uitzonderingen niet op onredelijke wijze strijdig zijn met de normale exploitatie van beschermde modellen en niet op onredelijke wijze de legitieme belangen van de eigenaar van het beschermde model schaden, rekening houdend met de legitieme belangen van derden.
 
@@ -2002,29 +2024,29 @@ De Europese Unie en Korea voorzien in rechtsmiddelen ter voorkoming van het gebr
 
 3. Een model dat strijdig is met de openbare orde of de goede zeden, is niet vatbaar voor bescherming door een recht inzake modellen.
 
-#### Artikel 10.32. Verband met auteursrecht
+##### Artikel 10.32. Verband met auteursrecht
 
 Een model dat overeenkomstig deze onderafdeling door een in de Europese Unie of in Korea ingeschreven modelrecht wordt beschermd, kan vanaf de datum waarop het model is ontworpen of in een vorm is vastgelegd tevens beschermd worden krachtens het auteursrecht dat op het grondgebied van de partijen van toepassing is62)De bescherming van een model uit hoofde van de auteursrechtwetgeving wordt niet automatisch verleend, maar alleen als een model in overeenstemming met die wetgeving voor bescherming in aanmerking komt..
 
 #### ONDERAFDELING E. OCTROOIEN
 
-#### Artikel 10.33. Internationale overeenkomst
+##### Artikel 10.33. Internationale overeenkomst
 
 De partijen stellen, binnen redelijke grenzen, alles in het werk om te voldoen aan de [artikelen 1 tot en met 16 van het Verdrag inzake octrooirecht](onbekend) (2000).
 
-#### Artikel 10.34. Octrooien en volksgezondheid
+##### Artikel 10.34. Octrooien en volksgezondheid
 
 1. De partijen erkennen het belang van de Verklaring inzake de TRIPs-Overeenkomst en de volksgezondheid, die op 14 november 2001 werd goedgekeurd door de ministeriële conferentie van de WTO (hierna de „Verklaring van Doha” genoemd). Voor de interpretatie en uitvoering van de rechten en verplichtingen uit hoofde van deze onderafdeling zijn de partijen gerechtigd zich op de Verklaring van Doha te beroepen.
 
 2. Elk van beide partijen draagt bij aan de uitvoering van het Besluit van de Algemene Raad van de WTO van 30 augustus 2003 over punt 6 van de Verklaring van de Doha en het Protocol tot wijziging van de TRIPs-overeenkomst, dat op 6 december 2005 in Genève werd vastgesteld, en neemt deze in acht.
 
-#### Artikel 10.35. Verlenging van de duur van de door de octrooibescherming verkregen rechten
+##### Artikel 10.35. Verlenging van de duur van de door de octrooibescherming verkregen rechten
 
 1. De partijen erkennen dat farmaceutische producten63)Zoals gedefinieerd in bijlage 2-D (Farmaceutische producten en medische hulpmiddelen).en gewasbeschermingsmiddelen64)Gewasbeschermingsmiddelen, in de vorm waarin zij aan de gebruiker worden geleverd, bestaan geheel of gedeeltelijk uit werkzame stoffen, beschermstoffen of synergisten, en zijn bestemd voor een van de volgende toepassingen:a.de bescherming van gewassen of plantaardige producten tegen alle schadelijke organismen of het verhinderen van de werking van dergelijke organismen, tenzij deze middelen worden beschouwd als middelen die vooral om hygiënische redenen worden gebruikt en niet ter bescherming van gewassen of plantaardige producten;b.het beïnvloeden van de levensprocessen van planten, zoals het beïnvloeden van hun groei, voor zover het niet gaat om nutritieve stoffen;c.conservering van plantaardige producten, voor zover die stoffen of producten niet onder bijzondere bepalingen van de Europese Unie inzake conserveermiddelen vallen;d.de vernietiging van ongewenste planten of delen van planten, met uitzondering van algen, tenzij de producten op de bodem of in water worden gebruikt ter bescherming van planten; ofe.de beperking of voorkoming van de ongewenste groei van planten, met uitzondering van algen, tenzij de producten op de bodem of in water worden gebruikt ter bescherming van planten.die op hun respectieve grondgebied door een octrooi worden beschermd, aan een administratieve vergunnings- en registratieprocedure moeten worden onderworpen voordat zij er in de handel mogen worden gebracht.
 
 2. Op verzoek van de octrooihouder verlengen de partijen de duur van de door de octrooibescherming verleende rechten om hem te compenseren voor de verkorting van de effectieve duur van het octrooi als gevolg van de eerste vergunning voor het in de handel brengen van het product op hun respectieve markt. De duur van de door de octrooibescherming verleende rechten mag met niet meer dan vijf jaar worden verlengd65)Dit laat een mogelijke verlenging voor pediatrisch gebruik onverlet, indien hierin door de partijen is voorzien..
 
-#### Artikel 10.36. Bescherming van gegevens die zijn ingediend om een vergunning voor het in de handel brengen van farmaceutische producten66)Zoals gedefinieerd in bijlage 2-D (Farmaceutische producten en medische hulpmiddelen).te verkrijgen
+##### Artikel 10.36. Bescherming van gegevens die zijn ingediend om een vergunning voor het in de handel brengen van farmaceutische producten66)Zoals gedefinieerd in bijlage 2-D (Farmaceutische producten en medische hulpmiddelen).te verkrijgen
 
 1. De partijen garanderen gegevens die zijn ingediend om een vergunning voor het in de handel brengen van een farmaceutisch product te verkrijgen, geheim te houden en niet openbaar te maken en de exclusiviteit ervan te waarborgen.
 
@@ -2032,7 +2054,7 @@ De partijen stellen, binnen redelijke grenzen, alles in het werk om te voldoen a
 
 3. De gegevens worden vanaf de datum van de eerste vergunning voor het in de handel brengen die op het grondgebied van de respectieve partij wordt verkregen, gedurende ten minste vijf jaar beschermd.
 
-#### Artikel 10.37. Bescherming van gegevens die zijn ingediend om een vergunning voor het in de handel brengen van gewasbeschermingsmiddelen te verkrijgen
+##### Artikel 10.37. Bescherming van gegevens die zijn ingediend om een vergunning voor het in de handel brengen van gewasbeschermingsmiddelen te verkrijgen
 
 1. De partijen stellen veiligheids- en doeltreffendheidsvereisten vast voordat zij vergunning verlenen voor het in de handel brengen van gewasbeschermingsmiddelen op hun respectieve markt.
 
@@ -2040,17 +2062,17 @@ De partijen stellen, binnen redelijke grenzen, alles in het werk om te voldoen a
 
 3. De gegevensbescherming geldt voor een periode van ten minste tien jaar vanaf de datum van de eerste vergunning voor het in de handel brengen bij de respectieve partij.
 
-#### Artikel 10.38. Tenuitvoerlegging
+##### Artikel 10.38. Tenuitvoerlegging
 
 De partijen nemen de nodige maatregelen om de volledige doeltreffendheid van de in deze onderafdeling bedoelde bescherming te waarborgen; zij werken op dit gebied actief samen en gaan een constructieve dialoog ter zake aan.
 
 #### ONDERAFDELING F. ANDERE BEPALINGEN
 
-#### Artikel 10.39. Kwekersrechten
+##### Artikel 10.39. Kwekersrechten
 
 Elk van beide partijen voorziet in de bescherming van kwekersrechten en voldoet aan haar verplichtingen uit hoofde van het Internationaal Verdrag tot bescherming van kweekproducten (1991).
 
-#### Artikel 10.40. Genetische hulpbronnen, traditionele kennis en folklore
+##### Artikel 10.40. Genetische hulpbronnen, traditionele kennis en folklore
 
 1. Met inachtneming van hun wetgeving zorgen de partijen voor de eerbiediging, bescherming en instandhouding van de kennis, vernieuwingen en gebruiken van autochtone en plaatselijke gemeenschappen, waarop tradities zijn gebaseerd die van belang zijn voor het behoud en het duurzame gebruik van de biologische diversiteit en voor de bevordering van de toepassing daarvan op grotere schaal, met de deelneming en instemming van de dragers van die kennis, vernieuwingen en gebruiken, alsmede voor de stimulering van de eerlijke verdeling van de voordelen van de toepassing van die kennis, vernieuwingen en gebruiken.
 
@@ -2066,7 +2088,7 @@ Elk van beide partijen voorziet in de bescherming van kwekersrechten en voldoet 
 
 ### AFDELING C. HANDHAVING VAN INTELLECTUELE-EIGENDOMSRECHTEN
 
-#### Artikel 10.41. Algemene verplichtingen
+##### Artikel 10.41. Algemene verplichtingen
 
 1. De partijen bevestigen hun verbintenissen uit hoofde van de [TRIPs-overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&bijlage=IC), en met name [deel III](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&deel=III); zij vergewissen zich ervan dat hun wetgeving de volgende aanvullende maatregelen, procedures en rechtsmiddelen biedt, zodat doeltreffend actie kan worden ondernomen tegen elke inbreuk op intellectuele-eigendomsrechten67)Zoals gedefinieerd in artikel 10.2, lid 2, onder a) tot en met h).waarop deze overeenkomst van toepassing is.
 
@@ -2080,7 +2102,7 @@ Elk van beide partijen voorziet in de bescherming van kwekersrechten en voldoet 
 
 - d. zijn doeltreffend, evenredig en afschrikwekkend en worden zodanig toegepast dat geen belemmeringen voor legitiem handelsverkeer worden gecreëerd en wordt voorzien in waarborgen tegen misbruik van deze maatregelen, procedures en rechtsmiddelen.
 
-#### Artikel 10.42. Rechthebbenden
+##### Artikel 10.42. Rechthebbenden
 
 Elk van beide partijen erkent dat de volgende personen en instanties gerechtigd zijn te verzoeken om toepassing van de in deze afdeling en in [deel III van de TRIPs-overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&deel=III) bedoelde maatregelen, procedures en rechtsmiddelen:
 
@@ -2094,17 +2116,17 @@ Elk van beide partijen erkent dat de volgende personen en instanties gerechtigd 
 
 #### ONDERAFDELING A. CIVIELE MAATREGELEN, PROCEDURES EN RECHTSMIDDELEN
 
-#### Artikel 10.43. Bewijsmateriaal
+##### Artikel 10.43. Bewijsmateriaal
 
 Elk van beide partijen treft de nodige maatregelen teneinde de bevoegde rechterlijke instanties in staat te stellen om, in geval van een inbreuk op een intellectuele-eigendomsrecht op commerciële schaal, in voorkomend geval op verzoek van een partij overlegging te kunnen gelasten van bancaire, financiële of handelsdocumenten die zich in de macht van de tegenpartij bevinden, mits de bescherming van vertrouwelijke informatie wordt gewaarborgd.
 
-#### Artikel 10.44. Voorlopige maatregelen ter bescherming van bewijsmateriaal
+##### Artikel 10.44. Voorlopige maatregelen ter bescherming van bewijsmateriaal
 
 1. Elk van beide partijen zorgt ervoor dat de bevoegde rechterlijke instanties, al voordat een bodemprocedure is begonnen, op verzoek van een partij die redelijkerwijs beschikbaar bewijsmateriaal heeft overgelegd tot staving van haar beweringen dat er inbreuk op haar intellectuele-eigendomsrecht is gemaakt of zal worden gemaakt, onmiddellijk afdoende voorlopige maatregelen kunnen gelasten om het relevante bewijsmateriaal in verband met de vermeende inbreuk te beschermen, mits de bescherming van vertrouwelijke informatie wordt gewaarborgd.
 
 2. Elk van beide partijen kan erin voorzien dat deze maatregelen de gedetailleerde beschrijving, met of zonder monsterneming, dan wel de fysieke inbeslagneming van de inbreuk makende goederen en, in voorkomend geval, de bij de productie of distributie daarvan gebruikte materialen en werktuigen en de desbetreffende documenten omvatten. Die maatregelen worden met name genomen, zo nodig zonder dat de wederpartij wordt gehoord, wanneer het aannemelijk is dat uitstel de houder van het recht onherstelbare schade zal berokkenen, of indien er een aantoonbaar gevaar bestaat dat bewijsmateriaal wordt vernietigd.
 
-#### Artikel 10.45. Recht op informatie
+##### Artikel 10.45. Recht op informatie
 
 1. Elk van beide partijen ziet erop toe dat de bevoegde rechterlijke instanties in het kader van civiele procedures wegens inbreuk op een intellectuele-eigendomsrecht naar aanleiding van een met redenen omkleed en proportioneel verzoek van de eiser kunnen gelasten dat de inbreukmaker en/of iedere andere persoon die partij of getuige bij een geschil is, informatie verstrekt over de oorsprong en het distributienetwerk van de goederen of diensten die een inbreuk op het intellectuele-eigendomsrecht vormen.
 
@@ -2136,7 +2158,7 @@ Elk van beide partijen treft de nodige maatregelen teneinde de bevoegde rechterl
 
 - e. de bescherming van de vertrouwelijkheid van informatiebronnen of de verwerking van persoonsgegevens wordt geregeld.
 
-#### Artikel 10.46. Voorlopige en conservatoire maatregelen
+##### Artikel 10.46. Voorlopige en conservatoire maatregelen
 
 1. Elk van beide partijen ziet erop toe dat de rechterlijke instanties, op verzoek van de eiser, een voorlopig bevel kunnen uitvaardigen dat bedoeld is om een dreigende inbreuk op een intellectuele-eigendomsrecht te voorkomen of om, indien wenselijk en indien haar wetgeving erin voorziet, op straffe van een dwangsom tijdelijk voortzetting van de vermeende inbreuk op dat intellectuele-eigendomsrecht te verbieden, dan wel om aan voortzetting de voorwaarde te verbinden dat zekerheid wordt gesteld voor schadeloosstelling van de houder van het recht. Een voorlopig bevel kan ook worden uitgevaardigd tegen een tussenpersoon68)Voor de toepassing van dit lid wordt de reikwijdte van „tussenpersoon” bepaald door de wetgeving van elk van beide partijen, maar omvat deze in elk geval degene die de inbreuk makende goederen levert of distribueert, en naar gelang van het geval ook aanbieders van onlinediensten.wiens diensten door een derde worden gebruikt om inbreuk te maken op een auteursrecht of naburig recht, handelsmerk of geografische aanduiding.
 
@@ -2144,7 +2166,7 @@ Elk van beide partijen treft de nodige maatregelen teneinde de bevoegde rechterl
 
 3. Elk van beide partijen zorgt ervoor dat, in geval van inbreuk op commerciële schaal en indien de indiener van het verzoek omstandigheden aantoont die de schadevergoeding in gevaar dreigen te brengen, de rechterlijke instanties conservatoir beslag kunnen laten leggen op de roerende en onroerende goederen van de vermeende inbreukmaker, met inbegrip van het blokkeren van zijn bankrekeningen en andere tegoeden.
 
-#### Artikel 10.47. Corrigerende maatregelen
+##### Artikel 10.47. Corrigerende maatregelen
 
 1. Elk van beide partijen ziet erop toe dat de bevoegde rechterlijke instanties op verzoek van de eiser, onverminderd de aan de houder van het recht wegens de inbreuk verschuldigde schadevergoeding en zonder schadeloosstelling van welke aard ook, de vernietiging kunnen gelasten van de goederen waarvan zij hebben vastgesteld dat zij een inbreuk op een intellectuele-eigendomsrecht vormen, dan wel andere maatregelen om die goederen definitief uit het handelsverkeer te verwijderen. In voorkomend geval kunnen de bevoegde rechterlijke instanties ook de vernietiging gelasten van materialen en werktuigen die hoofdzakelijk worden gebruikt voor het ontwerpen of vervaardigen van die goederen.
 
@@ -2152,17 +2174,17 @@ Elk van beide partijen treft de nodige maatregelen teneinde de bevoegde rechterl
 
 3. Bij de behandeling van een verzoek om corrigerende maatregelen wordt rekening gehouden met de noodzakelijke evenredigheid tussen de ernst van de inbreuk en de gelaste maatregelen en met de belangen van derden.
 
-#### Artikel 10.48. Rechterlijke bevelen
+##### Artikel 10.48. Rechterlijke bevelen
 
 1. Elk van beide partijen zorgt ervoor dat, wanneer bij rechterlijke uitspraak een inbreuk op een intellectuele-eigendomsrecht is vastgesteld, de rechterlijke instanties een bevel tot staking van de inbreuk tegen de inbreukmaker kunnen uitvaardigen.
 
 2. Wanneer de wetgeving erin voorziet, wordt bij niet-naleving van een rechterlijk bevel in voorkomend geval een dwangsom tot naleving van het verbod opgelegd. Elk van beide partijen zorgt ervoor dat de houders van het recht kunnen verzoeken om een rechterlijk bevel ten aanzien van tussenpersonen69)Voor de toepassing van dit lid wordt de reikwijdte van „tussenpersoon” bepaald door de wetgeving van elk van beide partijen, maar omvat deze in elk geval degene die de inbreuk makende goederen levert of distribueert, en naar gelang van het geval ook verstrekkers van onlinediensten.wier diensten door een derde worden gebruikt om inbreuk te maken op een auteursrecht of naburig recht, een handelsmerk of een geografische aanduiding.
 
-#### Artikel 10.49. Alternatieve maatregelen
+##### Artikel 10.49. Alternatieve maatregelen
 
 Elk van beide partijen kan bepalen dat de bevoegde rechterlijke instanties, in voorkomend geval en op verzoek van degene aan wie de in [artikel 10.47](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=TIEN&afdeling=C&paragraaf=A&artikel=10.47&z=2016-01-01&g=2016-01-01) of [10.48](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=TIEN&afdeling=C&paragraaf=A&artikel=10.48&z=2016-01-01&g=2016-01-01) vastgelegde maatregelen kunnen worden opgelegd, kunnen gelasten dat aan de benadeelde partij een geldelijke schadeloosstelling wordt betaald in plaats van toepassing van de maatregelen uit artikel 10.47 of 10.48, indien de betrokkene zonder opzet en zonder nalatigheid heeft gehandeld, indien uitvoering van de maatregelen hem onevenredige schade zou berokkenen en indien geldelijke schadeloosstelling van de benadeelde partij redelijkerwijs bevredigend lijkt.
 
-#### Artikel 10.50. Schadevergoeding
+##### Artikel 10.50. Schadevergoeding
 
 1. Elk van beide partijen ziet erop toe dat wanneer de rechterlijke autoriteiten een schadevergoeding vaststellen:
 
@@ -2174,47 +2196,47 @@ Elk van beide partijen kan bepalen dat de bevoegde rechterlijke instanties, in v
 
 3. In het geval van civiele procedures kan elk van beide partijen, ten minste met betrekking tot door auteursrechten of naburige rechten beschermde werken, fonogrammen en uitvoeringen, alsmede in geval van de namaak van handelsmerken, vooraf vastgestelde schadevergoedingen vaststellen of handhaven, waarvan de houder van het recht desgewenst gebruik kan maken.
 
-#### Artikel 10.51. Gerechtskosten
+##### Artikel 10.51. Gerechtskosten
 
 Elk van beide partijen zorgt ervoor dat, als algemene regel, redelijke en proportionele gerechtskosten en andere kosten die de in het gelijk gestelde partij heeft gemaakt, door de verliezende partij worden gedragen, tenzij de billijkheid zich daartegen verzet.
 
-#### Artikel 10.52. Openbaarmaking van rechterlijke uitspraken
+##### Artikel 10.52. Openbaarmaking van rechterlijke uitspraken
 
 Elk van beide partijen zorgt ervoor dat de rechterlijke instanties in het geval van inbreuken op een intellectuele-eigendomsrecht in voorkomend geval op verzoek van de eiser kunnen gelasten dat op kosten van de inbreukmaker passende maatregelen tot verspreiding van informatie over de uitspraak worden getroffen, met inbegrip van volledige of gedeeltelijke bekendmaking en publicatie van de uitspraak. Elk van beide partijen kan voorzien in andere bijkomende vormen van bekendmaking, zoals opvallende publiciteit, die passend zijn in de omstandigheden van het geval.
 
-#### Artikel 10.53. Vermoeden van auteurschap of houderschap van rechten
+##### Artikel 10.53. Vermoeden van auteurschap of houderschap van rechten
 
 Met betrekking tot civiele procedures over auteursrechten of naburige rechten voorziet elk van beide partijen erin dat, zolang het tegendeel niet is bewezen, er een vermoeden bestaat dat de persoon of de entiteit waarvan de naam op de gebruikelijke wijze als de auteur van of houder van een naburig recht op een werk of ander materiaal is aangeduid, de aangewezen houder van het recht op dat werk of materiaal is.
 
 #### ONDERAFDELING B. STRAFRECHTELIJKE HANDHAVING
 
-#### Artikel 10.54. Toepassingsgebied
+##### Artikel 10.54. Toepassingsgebied
 
 Elk van beide partijen voorziet ten minste in gevallen van opzettelijke namaak van een handelsmerk of opzettelijke inbreuk op auteursrechten en naburige rechten70)De term „naburige rechten” wordt door elk van beide partijen gedefinieerd overeenkomstig haar internationale verplichtingen.op commerciële schaal in strafrechtelijke procedures en sancties.
 
-#### Artikel 10.55. Namaak van geografische aanduidingen en modellen
+##### Artikel 10.55. Namaak van geografische aanduidingen en modellen
 
 Elk van beide partijen overweegt, met inachtneming van haar grondwet en andere nationale wet- en regelgeving, de goedkeuring van maatregelen ter vaststelling van de strafrechtelijke aansprakelijkheid voor het namaken van geografische aanduidingen en modellen.
 
-#### Artikel 10.56. Aansprakelijkheid van rechtspersonen
+##### Artikel 10.56. Aansprakelijkheid van rechtspersonen
 
 1. Elk van beide partijen keurt in overeenstemming met haar rechtsbeginselen de maatregelen goed die nodig kunnen zijn om de aansprakelijkheid van rechtspersonen voor de in [artikel 10.54](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=TIEN&afdeling=C&paragraaf=B&artikel=10.54&z=2016-01-01&g=2016-01-01) bedoelde misdrijven vast te stellen.
 
 2. Die aansprakelijkheid doet geen afbreuk aan de strafrechtelijke aansprakelijkheid van natuurlijke personen die misdrijven hebben gepleegd.
 
-#### Artikel 10.57. Medeplichtigheid en uitlokking
+##### Artikel 10.57. Medeplichtigheid en uitlokking
 
 Deze onderafdeling is ook van toepassing op medeplichtigheid bij en uitlokking van de in [artikel 10.54](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=TIEN&afdeling=C&paragraaf=B&artikel=10.54&z=2016-01-01&g=2016-01-01) bedoelde misdrijven.
 
-#### Artikel 10.58. Inbeslagneming
+##### Artikel 10.58. Inbeslagneming
 
 Elk van beide partijen zorgt ervoor dat haar bevoegde autoriteiten in geval van een in [artikel 10.54](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=TIEN&afdeling=C&paragraaf=B&artikel=10.54&z=2016-01-01&g=2016-01-01) bedoeld misdrijf bevoegd zijn de inbeslagneming van goederen te gelasten wanneer de verdenking bestaat dat het gaat om nagemaakte merkartikelen of onrechtmatig gereproduceerde goederen waarop een auteursrecht rust, van materialen en werktuigen die hoofdzakelijk zijn gebruikt voor het begaan van het vermeende misdrijf, van bewijsmateriaal met betrekking tot het vermeende misdrijf en van alle vermogensbestanddelen die stammen uit of die direct of indirect zijn verkregen door de inbreuk makende activiteit.
 
-#### Artikel 10.59. Sancties
+##### Artikel 10.59. Sancties
 
 Ten aanzien van de in [artikel 10.54](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=TIEN&afdeling=C&paragraaf=B&artikel=10.54&z=2016-01-01&g=2016-01-01) bedoelde misdrijven, voorziet elk van beide partijen in sancties, met inbegrip van gevangenisstraffen en/of geldboeten, die doeltreffend, evenredig en afschrikkend zijn.
 
-#### Artikel 10.60. Verbeurdverklaring
+##### Artikel 10.60. Verbeurdverklaring
 
 1. Elk van beide partijen zorgt ervoor dat haar bevoegde autoriteiten in geval van de in [artikel 10.54](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=TIEN&afdeling=C&paragraaf=B&artikel=10.54&z=2016-01-01&g=2016-01-01) bedoelde misdrijven bevoegd zijn de verbeurdverklaring en/of vernietiging te gelasten van alle nagemaakte merkartikelen of onrechtmatig gereproduceerde goederen waarop een auteursrecht rust, van materialen en werktuigen die hoofdzakelijk zijn gebruikt voor de vervaardiging van de nagemaakte merkartikelen of onrechtmatig gereproduceerde goederen waarop een auteursrecht rust en van alle vermogensbestanddelen die stammen uit of die direct of indirect zijn verkregen door de inbreuk makende activiteit.
 
@@ -2224,17 +2246,17 @@ Ten aanzien van de in [artikel 10.54](https://wetten.overheid.nl/jci1.3:c:BWBV00
 
 4. Elk van beide partijen kan erin voorzien dat haar rechterlijke autoriteiten bevoegd zijn de verbeurdverklaring te gelasten van vermogensbestanddelen ter waarde van de vermogensbestanddelen die stammen uit of die direct of indirect zijn verkregen door de inbreuk makende activiteit.
 
-#### Artikel 10.61. Rechten van derden
+##### Artikel 10.61. Rechten van derden
 
 Elk van beide partijen vergewist zich ervan dat de rechten van derden naar behoren worden beschermd en gevrijwaard.
 
 #### ONDERAFDELING C. AANSPRAKELIJKHEID VAN AANBIEDERS VAN ONLINEDIENSTEN
 
-#### Artikel 10.62. Aansprakelijkheid van aanbieders van onlinediensten71)Met betrekking tot de in artikel 10.63 bedoelde functie wordt onder een aanbieder van diensten verstaan een aanbieder van de doorgifte of routering van of van verbindingen voor digitale onlinecommunicatie, tussen door de gebruiker gespecificeerde punten, van door de gebruiker gekozen materiaal, zonder wijziging van de inhoud, en met betrekking tot de in de artikelen 10.64 en 10.65 bedoelde functies wordt onder een aanbieder van diensten verstaan een aanbieder of exploitant van faciliteiten voor onlinediensten of netwerktoegang.
+##### Artikel 10.62. Aansprakelijkheid van aanbieders van onlinediensten71)Met betrekking tot de in artikel 10.63 bedoelde functie wordt onder een aanbieder van diensten verstaan een aanbieder van de doorgifte of routering van of van verbindingen voor digitale onlinecommunicatie, tussen door de gebruiker gespecificeerde punten, van door de gebruiker gekozen materiaal, zonder wijziging van de inhoud, en met betrekking tot de in de artikelen 10.64 en 10.65 bedoelde functies wordt onder een aanbieder van diensten verstaan een aanbieder of exploitant van faciliteiten voor onlinediensten of netwerktoegang.
 
 De partijen erkennen dat derden voor inbreuk makende activiteiten gebruik kunnen maken van de diensten van tussenpersonen. Om het vrije verkeer van informatiediensten te waarborgen en terzelfder tijd intellectuele-eigendomsrechten in de digitale omgeving te handhaven, voorziet elk van beide partijen in de in de artikelen 10.63 tot en met 10.66 genoemde maatregelen voor aanbieders van intermediaire diensten, wanneer deze op generlei wijze betrokken zijn bij de doorgegeven informatie.
 
-#### Artikel 10.63. Aansprakelijkheid van aanbieders van onlinediensten: „mere conduit” (doorgeefluik)
+##### Artikel 10.63. Aansprakelijkheid van aanbieders van onlinediensten: „mere conduit” (doorgeefluik)
 
 1. De partijen zorgen ervoor dat, wanneer een dienst van de informatiemaatschappij bestaat in het doorgeven in een communicatienetwerk van door een afnemer van de dienst verstrekte informatie, of in het verschaffen van toegang tot een communicatienetwerk, de aanbieder van de dienst niet aansprakelijk is voor de doorgegeven informatie, op voorwaarde dat:
 
@@ -2248,7 +2270,7 @@ De partijen erkennen dat derden voor inbreuk makende activiteiten gebruik kunnen
 
 3. Dit artikel is niet van invloed op de mogelijkheid dat, in overeenstemming met het rechtssysteem van de partijen, een rechterlijke of administratieve autoriteit van de aanbieder van de dienst verlangt dat hij een inbreuk beëindigt of verhindert.
 
-#### Artikel 10.64. Aansprakelijkheid van aanbieders van onlinediensten: „caching” (wijze van opslag)
+##### Artikel 10.64. Aansprakelijkheid van aanbieders van onlinediensten: „caching” (wijze van opslag)
 
 1. De partijen zorgen ervoor dat, wanneer een dienst van de informatiemaatschappij bestaat in het doorgeven in een communicatienetwerk van door een afnemer van de dienst verstrekte informatie, de aanbieder van de dienst niet aansprakelijk is voor de automatische, tussentijdse en tijdelijke opslag van die informatie, wanneer deze opslag enkel geschiedt om latere doorgifte van die informatie aan andere afnemers van de dienst op hun verzoek doeltreffender te maken, op voorwaarde dat de aanbieder van de dienst:
 
@@ -2264,7 +2286,7 @@ De partijen erkennen dat derden voor inbreuk makende activiteiten gebruik kunnen
 
 2. Dit artikel is niet van invloed op de mogelijkheid dat, in overeenstemming met het rechtssysteem van de partijen, een rechterlijke of administratieve autoriteit van de aanbieder van de dienst verlangt dat hij een inbreuk beëindigt of verhindert.
 
-#### Artikel 10.65. Aansprakelijkheid van aanbieders van onlinediensten: „hosting”
+##### Artikel 10.65. Aansprakelijkheid van aanbieders van onlinediensten: „hosting”
 
 1. De partijen zorgen ervoor dat, wanneer een dienst van de informatiemaatschappij bestaat in de opslag van de door een afnemer van de dienst verstrekte informatie, de aanbieder van de dienst niet aansprakelijk is voor de op verzoek van de afnemer van de dienst opgeslagen informatie, op voorwaarde dat de aanbieder van de dienst:
 
@@ -2276,7 +2298,7 @@ De partijen erkennen dat derden voor inbreuk makende activiteiten gebruik kunnen
 
 3. Dit artikel doet geen afbreuk aan de mogelijkheid dat, in overeenstemming met het rechtsstelsel van de partijen, een rechterlijke of administratieve autoriteit van de aanbieder van een dienst verlangt dat hij een inbreuk beëindigt of voorkomt, en evenmin aan de mogelijkheid dat partijen procedures vaststellen om informatie te verwijderen of de toegang daartoe onmogelijk te maken.
 
-#### Artikel 10.66. Geen algemene toezichtverplichting
+##### Artikel 10.66. Geen algemene toezichtverplichting
 
 1. De partijen leggen de aanbieders van de diensten geen algemene verplichting op om bij het aanbieden van de in de artikelen 10.63 tot en met 10.65 bedoelde diensten toezicht te houden op de informatie die zij doorgeven of opslaan, noch om actief te gaan zoeken naar feiten of omstandigheden die op onwettige activiteiten duiden.
 
@@ -2284,7 +2306,7 @@ De partijen erkennen dat derden voor inbreuk makende activiteiten gebruik kunnen
 
 #### ONDERAFDELING D. ANDERE BEPALINGEN
 
-#### Artikel 10.67. Grensmaatregelen
+##### Artikel 10.67. Grensmaatregelen
 
 1. Tenzij in deze afdeling anderszins wordt bepaald, stelt elk van beide partijen procedures72)Er bestaat overeenstemming over het feit dat er geen verplichting bestaat om deze procedures toe te passen op de invoer van goederen die door de houder van het recht of met diens toestemming in een ander land in de handel worden gebracht.vast om een houder van een recht die geldige gronden heeft om te vermoeden dat goederen worden ingevoerd, uitgevoerd of wederuitgevoerd, onder de regeling douanevervoer worden vervoerd, worden overgeslagen, in een vrije zone worden gebracht73)„Douanevervoer, overslag en in een vrije zone brengen” zoals gedefinieerd in de Overeenkomst van Kyoto., onder een schorsingsregeling worden gebracht74)Voor Korea omvat „onder een schorsingsregeling brengen” tijdelijke invoer en fabrieksentrepots. Voor de Europese Unie omvat „onder een schorsingsregeling brengen” tijdelijke invoer, actieve veredeling en behandeling onder douanetoezicht.of in een douane-entrepot worden geplaatst, terwijl met die goederen een inbreuk op een intellectuele-eigendomsrecht wordt gemaakt75)Voor de toepassing van dit artikel wordt onder goederen waarmee een inbreuk op een intellectuele-eigendomsrecht wordt gemaakt verstaan:a.nagemaakte goederen, namelijk:i.goederen, met inbegrip van hun verpakking, waarop zonder toestemming een handelsmerk is aangebracht dat identiek is aan het naar behoren geregistreerde handelsmerk voor dergelijke goederen of daarvan niet wezenlijk kan worden onderscheiden, en dat zodoende inbreuk maakt op de rechten van de houder van het betrokken merk;ii.beeldmerken (logo, etiket, sticker, prospectus, gebruiksaanwijzing of garantiebewijs), zelfs indien deze afzonderlijk worden aangeboden, waarvoor hetzelfde geldt als voor de onder a) i) bedoelde goederen;iii.afzonderlijk aangeboden verpakkingen waarop merken van nagemaakte goederen zijn aangebracht en waarvoor hetzelfde geldt als voor de onder i) bedoelde goederen;b.„onrechtmatig gereproduceerde goederen waarop een auteursrecht rust”, namelijk: goederen die kopieën zijn of bevatten, die zijn vervaardigd zonder toestemming van hetzij de houder van een al dan niet overeenkomstig de wetgeving van elk van beide partijen geregistreerd auteursrecht of naburig recht, hetzij een naar behoren door de houder van het recht gemachtigd persoon in het productieland;c.goederen die volgens de wetgeving van de partij waar het verzoek om optreden van de douane wordt ingediend, inbreuk maken op:i.een octrooi;ii.een kwekersrecht;iii.een geregistreerd model; ofiv.een geografische aanduiding., in staat te stellen bij de bevoegde administratieve of rechterlijke autoriteiten een schriftelijk verzoek in te dienen tot opschorting van het in het vrije verkeer brengen van deze goederen dan wel tot het vasthouden ervan door de douaneautoriteiten.
 
@@ -2294,7 +2316,7 @@ De partijen erkennen dat derden voor inbreuk makende activiteiten gebruik kunnen
 
 4. Korea legt binnen twee jaar na de inwerkingtreding van deze overeenkomst de in de leden 1 en 2 bedoelde verplichting met betrekking tot punt c), onder i) en iii), van voetnoot 75 lees: voetnoot 77 volledig ten uitvoer.
 
-#### Artikel 10.68. Gedragscodes
+##### Artikel 10.68. Gedragscodes
 
 De partijen stimuleren:
 
@@ -2302,7 +2324,7 @@ De partijen stimuleren:
 
 - b. de indiening bij de bevoegde autoriteiten van de partijen van ontwerpgedragscodes en van evaluaties van de toepassing van deze gedragscodes.
 
-#### Artikel 10.69. Samenwerking
+##### Artikel 10.69. Samenwerking
 
 1. De partijen komen overeen samen te werken bij de ondersteuning van de tenuitvoerlegging van de verbintenissen en verplichtingen uit hoofde van dit hoofdstuk. De samenwerking strekt zich uit, maar is niet beperkt tot de volgende activiteiten:
 
@@ -2322,7 +2344,7 @@ De partijen stimuleren:
 
 ### AFDELING A. MEDEDINGING
 
-#### Artikel 11.1. Beginselen
+##### Artikel 11.1. Beginselen
 
 1. De partijen erkennen het belang van een vrije en onvervalste mededinging voor hun handelsbetrekkingen. De partijen verbinden zich ertoe hun respectieve mededingingswetgeving zo toe te passen dat wordt voorkomen dat de voordelen van de handelsliberalisering op het gebied van goederen, diensten en vestiging door concurrentieverstorend gedrag van ondernemingen of concurrentieverstorende transacties worden opgeheven of tenietgedaan.
 
@@ -2336,7 +2358,7 @@ De partijen stimuleren:
 
 - c. concentraties tussen ondernemingen die aanzienlijke hinder veroorzaken voor een doeltreffende mededinging, in het bijzonder als gevolg van de totstandbrenging of versterking van een machtspositie op het grondgebied van een van de partijen als geheel of in een aanzienlijk deel daarvan.
 
-#### Artikel 11.2. Definities
+##### Artikel 11.2. Definities
 
 Voor de toepassing van deze afdeling wordt onder mededingingswetgeving verstaan:
 
@@ -2346,7 +2368,7 @@ Voor de toepassing van deze afdeling wordt onder mededingingswetgeving verstaan:
 
 - c. alle wijzigingen van in dit artikel bedoelde instrumenten na de inwerkingtreding van deze overeenkomst.
 
-#### Artikel 11.3. Tenuitvoerlegging
+##### Artikel 11.3. Tenuitvoerlegging
 
 1. De partijen houden een autoriteit of autoriteiten in stand die verantwoordelijk is of zijn, dan wel goed is of zijn uitgerust voor de tenuitvoerlegging van de in [artikel 11.2](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=ELF&afdeling=A&artikel=11.2&z=2016-01-01&g=2016-01-01) bedoelde mededingingswetgeving.
 
@@ -2354,7 +2376,7 @@ Voor de toepassing van deze afdeling wordt onder mededingingswetgeving verstaan:
 
 3. Op verzoek van een van de partijen verschaft de andere partij de verzoekende partij openbare informatie over haar activiteiten en wetgeving inzake de handhaving van de mededingingswetgeving voor zover deze betrekking hebben op haar verplichtingen uit hoofde van deze afdeling.
 
-#### Artikel 11.4. Overheidsondernemingen en ondernemingen met speciale rechten78)Een partij verleent speciale rechten wanneer zij ondernemingen aanwijst die toestemming hebben goederen te leveren of diensten te verlenen of hun aantal tot twee of meer beperkt, zonder daarbij objectieve, evenredige en niet-discriminerende criteria aan te houden, of wanneer zij ondernemingen voordelen op wet- of regelgevingsgebied toekent die een grote invloed hebben op het vermogen van andere ondernemingen om dezelfde goederen te leveren of diensten te verlenen.of exclusieve rechten
+##### Artikel 11.4. Overheidsondernemingen en ondernemingen met speciale rechten78)Een partij verleent speciale rechten wanneer zij ondernemingen aanwijst die toestemming hebben goederen te leveren of diensten te verlenen of hun aantal tot twee of meer beperkt, zonder daarbij objectieve, evenredige en niet-discriminerende criteria aan te houden, of wanneer zij ondernemingen voordelen op wet- of regelgevingsgebied toekent die een grote invloed hebben op het vermogen van andere ondernemingen om dezelfde goederen te leveren of diensten te verlenen.of exclusieve rechten
 
 1. Ten aanzien van overheidsondernemingen en ondernemingen waaraan speciale of exclusieve rechten zijn toegekend,
 
@@ -2364,7 +2386,7 @@ Voor de toepassing van deze afdeling wordt onder mededingingswetgeving verstaan:
 
 2. Lid 1 wordt niet zo uitgelegd dat een partij hierdoor wordt verhinderd een overheidsonderneming op te richten of in stand te houden, speciale of exclusieve rechten aan ondernemingen toe te vertrouwen of dergelijke rechten te handhaven.
 
-#### Artikel 11.5. Staatsmonopolies
+##### Artikel 11.5. Staatsmonopolies
 
 1. Elk van beide partijen past commerciële staatsmonopolies zodanig aan dat wordt gewaarborgd dat er geen maatregelen betreffende de voorwaarden waaronder goederen worden ingekocht of in de handel worden gebracht, bestaan die discrimineren79)Discriminerende maatregelen zijn maatregelen die niet voldoen aan de bepalingen in deze overeenkomst inzake nationale behandeling, met inbegrip van de voorwaarden die worden bedoeld in de desbetreffende bijlagen bij deze overeenkomst.tussen natuurlijke of rechtspersonen van de partijen.
 
@@ -2372,13 +2394,13 @@ Voor de toepassing van deze afdeling wordt onder mededingingswetgeving verstaan:
 
 3. Dit artikel laat de in [hoofdstuk negen](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=NEGEN&z=2016-01-01&g=2016-01-01) (Overheidsopdrachten) bedoelde rechten en verplichtingen onverlet.
 
-#### Artikel 11.6. Samenwerking
+##### Artikel 11.6. Samenwerking
 
 1. De partijen erkennen het belang van samenwerking en coördinatie tussen hun respectieve mededingingsautoriteiten met het oog op het verder verbeteren van een doeltreffende handhaving van de mededingingswetgeving en het bereiken van de doelstellingen van deze overeenkomst door middel van de bevordering van mededinging en de inperking van concurrentieverstorende zakelijke activiteiten of transacties.
 
 2. De partijen werken samen bij hun respectieve handhavingsbeleid en bij de handhaving van hun respectieve mededingingswetgeving, onder meer door samenwerking bij de handhaving, door kennisgeving, door overleg en door uitwisseling van niet-vertrouwelijke informatie in het kader van de Overeenkomst tussen de Europese Gemeenschap en de regering van de Republiek Korea betreffende samenwerking ter bestrijding van concurrentieverstorende activiteiten, die is ondertekend op 23 mei 2009.
 
-#### Artikel 11.7. Overleg
+##### Artikel 11.7. Overleg
 
 1. Wanneer in de in [artikel 11.6, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=ELF&afdeling=A&artikel=11.6&z=2016-01-01&g=2016-01-01), genoemde overeenkomst specifiekere regels ontbreken, treedt een partij, op verzoek van de andere partij, in overleg over bedenkingen van de andere partij, teneinde het wederzijdse begrip te bevorderen of specifieke aangelegenheden in verband met deze afdeling aan de orde te stellen. In haar verzoek geeft de andere partij, indien nodig, aan in welk opzicht de aangelegenheid van invloed is op de handel tussen de partijen.
 
@@ -2386,23 +2408,23 @@ Voor de toepassing van deze afdeling wordt onder mededingingswetgeving verstaan:
 
 3. Ter vergemakkelijking van de bespreking van de aangelegenheid die het onderwerp van het overleg is, stelt elk van beide partijen alles in het werk om de andere parij van relevante niet-vertrouwelijke informatie te voorzien.
 
-#### Artikel 11.8. Beslechting van geschillen
+##### Artikel 11.8. Beslechting van geschillen
 
 Geen van beide partijen kan voor geschillen die in het kader van deze afdeling ontstaan een beroep doen op [hoofdstuk veertien](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=VEERTIEN&z=2016-01-01&g=2016-01-01) (Beslechting van geschillen).
 
 ### AFDELING B. SUBSIDIES
 
-#### Artikel 11.9. Beginselen
+##### Artikel 11.9. Beginselen
 
 De partijen komen overeen alles in het werk te stellen om door toepassing van hun mededingingswetgeving of anderszins verstoringen van de mededinging als gevolg van subsidies, voor zover deze van invloed zijn op de internationale handel, ongedaan te maken of op te heffen en te verhinderen dat dergelijke situaties zich voordoen.
 
-#### Artikel 11.10. Definitie van subsidie en specificiteit
+##### Artikel 11.10. Definitie van subsidie en specificiteit
 
 1. Een subsidie is een maatregel die beantwoordt aan de in [artikel 1, lid 1, van de SCM-overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=1) genoemde voorwaarden.
 
 2. Een subsidie is specifiek als deze valt onder het toepassingsgebied van [artikel 2 van de SCM-overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=2). Deze afdeling is alleen van toepassing op specifieke subsidies in de zin van artikel 2 van de SCM-overeenkomst.
 
-#### Artikel 11.11. Verboden subsidies80)De partijen komen overeen dat dit artikel alleen van toepassing is op subsidies die na de datum van inwerkingtreding van deze overeenkomst worden ontvangen.81)Voor de toepassing van deze overeenkomst geldt dit artikel voor subsidies aan kleine en middelgrote ondernemingen die worden gegeven volgens de objectieve criteria of voorwaarden zoals bedoeld in artikel 2, lid 1, onder b), van de SCM-overeenkomst en voetnoot 2 daarbij.
+##### Artikel 11.11. Verboden subsidies80)De partijen komen overeen dat dit artikel alleen van toepassing is op subsidies die na de datum van inwerkingtreding van deze overeenkomst worden ontvangen.81)Voor de toepassing van deze overeenkomst geldt dit artikel voor subsidies aan kleine en middelgrote ondernemingen die worden gegeven volgens de objectieve criteria of voorwaarden zoals bedoeld in artikel 2, lid 1, onder b), van de SCM-overeenkomst en voetnoot 2 daarbij.
 
 De volgende subsidies worden geacht specifiek te zijn onder de voorwaarden van [artikel 2 van de SCM-overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=2) en zijn voor de toepassing van deze overeenkomst verboden voor zover zij schadelijk zijn voor de internationale handel van de partijen82)De internationale handel van de partijen omvat zowel de binnenlandse als de exportmarkt.:
 
@@ -2410,7 +2432,7 @@ De volgende subsidies worden geacht specifiek te zijn onder de voorwaarden van [
 
 - b. subsidies (zoals leningen en garantstellingen, uitkeringen in contanten, kapitaalinjecties, verstrekkingen van activa onder de marktprijs of belastingvrijstellingen) aan insolvente of noodlijdende ondernemingen, zonder dat er een geloofwaardig herstructureringsprogramma op basis van realistische vooronderstellingen bestaat dat ervoor moet zorgen dat de insolvente of noodlijdende onderneming binnen redelijke tijd weer op lange termijn levensvatbaar wordt, en zonder dat de onderneming zelf op significante wijze bijdraagt aan de kosten van de herstructurering. Dit belet de partijen niet subsidies te verlenen bij wijze van tijdelijke liquiditeitssteun in de vorm van kredietgaranties of leningen die beperkt zijn tot het bedrag dat nodig is om een noodlijdende onderneming boven water te houden voor de tijd die nodig is om een herstructurerings- of liquidatieplan uit te werken. Dit punt is niet van toepassing op subsidies die worden verleend als vergoeding voor de uitvoering van openbaredienstverplichtingen en op subsidies voor de kolenindustrie.
 
-#### Artikel 11.12. Transparantie
+##### Artikel 11.12. Transparantie
 
 1. Elk van beide partijen zorgt voor transparantie op subsidiegebied. Daartoe brengen zij elk jaar aan de andere partij verslag uit over het totale bedrag aan specifieke subsidies die van invloed kunnen zijn op de internationale handel, de aard van die subsidies en de verdeling ervan over de verschillende sectoren. Het verslag moet informatie bevatten over het doel, de vorm, het bedrag of budget en zo mogelijk de ontvanger van de door een regering of overheidsinstantie verleende subsidie.
 
@@ -2418,15 +2440,15 @@ De volgende subsidies worden geacht specifiek te zijn onder de voorwaarden van [
 
 3. Op verzoek van een partij verstrekt de andere partij nadere informatie over subsidieregelingen en over bijzondere individuele gevallen van specifieke subsidies. De partijen wisselen deze informatie uit met inachtneming van de beperkingen die voortvloeien uit het beroeps- of zakengeheim.
 
-#### Artikel 11.13. Verband met de WTO-Overeenkomst
+##### Artikel 11.13. Verband met de WTO-Overeenkomst
 
 De bepalingen van deze afdeling doen geen afbreuk aan het recht van een partij om uit hoofde van de desbetreffende bepalingen van de [WTO-Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160) handelsmaatregelen toe te passen, een geschillenbeslechtingsprocedure in te leiden of een andere passende maatregel te treffen wanneer door de andere partij een subsidie wordt verleend.
 
-#### Artikel 11.14. Monitoring
+##### Artikel 11.14. Monitoring
 
 De partijen volgen nauwgezet de aangelegenheden waarnaar in deze afdeling wordt verwezen. Elk van beide partijen kan dergelijke aangelegenheden voorleggen aan het Handelscomité. De partijen komen overeen om, tenzij zij anderszins besluiten, na de inwerkingtreding van deze overeenkomst om het andere jaar na te gaan welke vorderingen bij de tenuitvoerlegging van deze afdeling zijn gemaakt.
 
-#### Artikel 11.15. Toepassingsgebied
+##### Artikel 11.15. Toepassingsgebied
 
 1. De artikelen 11.9 tot en met 11.14 zijn van toepassing op subsidies voor goederen met uitzondering van subsidies voor de visserij, subsidies voor producten die vallen onder [bijlage 1 bij de Overeenkomst inzake de landbouw](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&bijlage=1) en andere subsidies die vallen onder de [Overeenkomst inzake de landbouw](onbekend).
 
@@ -2434,7 +2456,7 @@ De partijen volgen nauwgezet de aangelegenheden waarnaar in deze afdeling wordt 
 
 ### HOOFDSTUK TWAALF. TRANSPARANTIE
 
-#### Artikel 12.1. Definities
+##### Artikel 12.1. Definities
 
 Voor de toepassing van dit hoofdstuk wordt verstaan onder:
 
@@ -2442,11 +2464,11 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder:
 
 - belanghebbende, iedere natuurlijke of rechtspersoon op wie rechten en verplichtingen uit hoofde van een algemene maatregel van toepassing kunnen zijn in de zin van [artikel 12.2](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=TWAALF&artikel=12.2&z=2016-01-01&g=2016-01-01).
 
-#### Artikel 12.2. Doel en toepassingsgebied
+##### Artikel 12.2. Doel en toepassingsgebied
 
 De partijen erkennen dat hun respectieve regelgeving gevolgen voor hun onderlinge handel kan hebben en streven daarom naar een doeltreffende en voorspelbare regelgeving voor marktdeelnemers, en met name voor kleine bedrijven die op hun respectieve grondgebied zaken doen. De partijen bevestigen hun respectieve verbintenissen uit hoofde van de [WTO-Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160) en leggen verduidelijkingen en verbeterde regelingen vast op het gebied van de transparantie, de raadpleging en een beter beheer van algemene maatregelen, voor zover deze gevolgen kunnen hebben voor enige onder deze overeenkomst vallende aangelegenheid.
 
-#### Artikel 12.3. Publicatie
+##### Artikel 12.3. Publicatie
 
 1. Elk van beide partijen zorgt ervoor dat algemene maatregelen die gevolgen kunnen hebben voor enige onder deze overeenkomst vallende aangelegenheid:
 
@@ -2464,7 +2486,7 @@ De partijen erkennen dat hun respectieve regelgeving gevolgen voor hun onderling
 
 - c. streeft ernaar rekening te houden met het commentaar op de voorgestelde maatregelen dat zij van de belanghebbenden ontvangt.
 
-#### Artikel 12.4. Vragen en contactpunten
+##### Artikel 12.4. Vragen en contactpunten
 
 1. Elk van beide partijen voert passende mechanismen in, of handhaven dergelijke mechanismen, om vragen van belanghebbenden te beantwoorden over voorgestelde of van kracht zijnde algemene maatregelen die gevolgen kunnen hebben voor aangelegenheden waarop deze overeenkomst van toepassing is, en over de wijze waarop deze maatregelen worden toegepast. De vragen kunnen worden ingediend via uit hoofde van deze overeenkomst opgerichte informatie- of contactpunten of via een ander geschikt mechanisme.
 
@@ -2474,7 +2496,7 @@ De partijen erkennen dat hun respectieve regelgeving gevolgen voor hun onderling
 
 4. Elk van beide partijen streeft ernaar informatie- of contactpunten voor belanghebbenden van de andere partij aan te wijzen of op te richten, die tot taak hebben te proberen voor belanghebbenden een doeltreffende oplossing te vinden voor problemen die kunnen voortvloeien uit de toepassing van algemene maatregelen. Dergelijke procedures moeten gemakkelijk toegankelijk, tijdgebonden, op resultaat gericht en transparant zijn. Zij doen geen afbreuk aan beroeps- of herzieningsprocedures die de partijen invoeren of handhaven. Ook doen zij geen afbreuk aan de rechten en verplichtingen van de partijen uit hoofde van [hoofdstuk veertien](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=VEERTIEN&z=2016-01-01&g=2016-01-01) (Beslechting van geschillen) en bijlage 14-A (Bemiddelingsmechanisme voor niet-tarifaire maatregelen).
 
-#### Artikel 12.5. Administratieve procedures
+##### Artikel 12.5. Administratieve procedures
 
 Teneinde alle algemene maatregelen die gevolgen kunnen hebben voor aangelegenheden waarop deze overeenkomst van toepassing is, consequent, onpartijdig en op redelijke wijze uit te voeren, ziet elk van beide partijen erop toe dat zij in specifieke gevallen bij de toepassing van die maatregelen op bepaalde personen, goederen of diensten van de andere partij:
 
@@ -2484,7 +2506,7 @@ Teneinde alle algemene maatregelen die gevolgen kunnen hebben voor aangelegenhed
 
 - c. erop toeziet dat haar procedures gebaseerd zijn op de wet en hiermee in overeenstemming zijn.
 
-#### Artikel 12.6. Herziening en beroep
+##### Artikel 12.6. Herziening en beroep
 
 1. Elk van beide partijen voert rechterlijke, semi-rechterlijke of administratieve instanties of procedures in of handhaaft deze, met het oog op een onverwijlde herziening en, indien gerechtvaardigd, correctie van het administratieve optreden met betrekking tot aangelegenheden waarop deze overeenkomst van toepassing is. De instanties zijn onpartijdig en onafhankelijk van de dienst of de autoriteit die belast is met de administratieve handhaving en hebben geen materieel belang bij de uitkomst van de aangelegenheid.
 
@@ -2496,19 +2518,19 @@ Teneinde alle algemene maatregelen die gevolgen kunnen hebben voor aangelegenhed
 
 3. Elk van beide partijen zorgt ervoor dat, behoudens beroep of latere herziening overeenkomstig de wet, de beslissing ten uitvoer wordt gelegd door de dienst of de autoriteit die voor het administratieve optreden ter zake bevoegd is en dat die beslissing ook ten grondslag komt te liggen aan de praktijk van de dienst of autoriteit ter zake.
 
-#### Artikel 12.7. Regelgevingskwaliteit en -efficiency en goed bestuur
+##### Artikel 12.7. Regelgevingskwaliteit en -efficiency en goed bestuur
 
 1. De partijen komen overeen samen te werken bij de bevordering van de kwaliteit en efficiency van de regelgeving, onder meer door de uitwisseling van informatie en van optimale praktijken over de bij hen doorgevoerde hervorming van de regelgeving en de effectbeoordeling ter zake.
 
 2. De partijen onderschrijven de beginselen van goed bestuurlijk gedrag en komen overeen samen te werken bij de bevordering daarvan, onder meer door de uitwisseling van informatie en van optimale praktijken.
 
-#### Artikel 12.8. Discriminatieverbod
+##### Artikel 12.8. Discriminatieverbod
 
 Elk van beide partijen past op belanghebbenden van de andere partij normen inzake transparantie toe die niet minder gunstig zijn dan die welke gelden voor hun eigen belanghebbenden, of, indien deze beter zijn, voor belanghebbenden uit derde landen of voor derde landen.
 
 ### HOOFDSTUK DERTIEN. HANDEL EN DUURZAME ONTWIKKELING
 
-#### Artikel 13.1. Context en doelstellingen
+##### Artikel 13.1. Context en doelstellingen
 
 1. De partijen herbevestigen hun verbintenissen uit hoofde van Agenda 21 over milieu en ontwikkeling van 1992, het Uitvoeringsplan van Johannesburg over duurzame ontwikkeling van 2002 en de Ministeriële Verklaring van 2006 van de Economische en Sociale Raad van de VN over volledige werkgelegenheid en fatsoenlijk werk om de ontwikkeling van de internationale handel op zodanige wijze te bevorderen dat deze bijdraagt tot de doelstelling van duurzame ontwikkeling, en streven ernaar erop toe te zien dat deze doelstelling op elk niveau integraal deel uitmaakt van hun handelsrelatie en hierin tot uiting komt.
 
@@ -2516,17 +2538,17 @@ Elk van beide partijen past op belanghebbenden van de andere partij normen inzak
 
 3. De partijen erkennen dat het in dit hoofdstuk niet hun bedoeling is om de arbeids- of milieunormen van de partijen te harmoniseren, maar om hun handelsbetrekkingen en samenwerking zodanig te versterken dat de duurzame ontwikkeling in de context van de leden 1 en 2 wordt bevorderd.
 
-#### Artikel 13.2. Toepassingsgebied
+##### Artikel 13.2. Toepassingsgebied
 
 1. Tenzij in dit hoofdstuk anders wordt bepaald, is dit hoofdstuk van toepassing op door de partijen vastgetstede83)Redactie Tractatenblad: kennelijk dient hier „vastgestelde” te worden gelezen.of gehandhaafde maatregelen die betrekking hebben op handelsgerelateerde aspecten van arbeids-84)Wanneer in dit hoofdstuk wordt verwezen naar arbeid en werknemers, gaat het om kwesties die betrekking hebben op het in het kader van de Internationale Arbeidsorganisatie, hierna „de ILO” genoemd, overeengekomen Programma voor fatsoenlijk werk en de Ministeriële Verklaring van 2006 van de Economische en Sociale Raad van de VN over volledige werkgelegenheid en fatsoenlijk werk.en milieukwesties in de context van [artikel 13.1, leden 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=DERTIEN&artikel=13.1&z=2016-01-01&g=2016-01-01).
 
 2. De partijen benadrukken dat milieu- en arbeidsnormen niet mogen worden gebruikt voor protectionistische handelsdoeleinden. Zij merken op dat hun comparatieve voordeel in geen geval ter discussie mag worden gesteld.
 
-#### Artikel 13.3. Regelgevingsrecht en beschermingsniveaus
+##### Artikel 13.3. Regelgevingsrecht en beschermingsniveaus
 
 Gezien het recht van elk van beide partijen haar eigen beschermingsniveaus voor milieu en werknemers te bepalen en dienovereenkomstig haar wetgeving en beleid ter zake vast te stellen en te wijzigen, proberen zij te waarborgen dat die wetgeving en dat beleid in hoge beschermingsniveaus voor milieu en werknemers voorzien en deze bevorderen, in overeenstemming met de in de [artikelen 13.4](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=DERTIEN&artikel=13.4&z=2016-01-01&g=2016-01-01) en [13.5](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=DERTIEN&artikel=13.5&z=2016-01-01&g=2016-01-01) genoemde internationaal erkende normen of overeenkomsten, en streven zij naar een voortdurende verbetering van die wetgeving en dat beleid.
 
-#### Artikel 13.4. Multilaterale arbeidsnormen en -overeenkomsten
+##### Artikel 13.4. Multilaterale arbeidsnormen en -overeenkomsten
 
 1. De partijen erkennen de waarde van internationale samenwerking en overeenkomsten op het gebied van werkgelegenheid en arbeid als antwoord van de internationale gemeenschap op de uitdagingen en mogelijkheden die uit de mondialisering op economisch en sociaal gebied en op het gebied van de werkgelegenheid voortvloeien. Zij verbinden zich ertoe in voorkomend geval elkaar te raadplegen en samen te werken bij handelsgerelateerde vraagstukken op het gebied van arbeid en werkgelegenheid van wederzijds belang.
 
@@ -2544,7 +2566,7 @@ Gezien het recht van elk van beide partijen haar eigen beschermingsniveaus voor 
 
 De partijen herbevestigen hun verbintenis de ILO-overeenkomsten die Korea en de lidstaten van de Europese Unie geratificeerd hebben, daadwerkelijk uit te voeren. Zij streven voortdurend en consequent naar ratificatie van de fundamentele ILO-overeenkomsten en van andere overeenkomsten die door de ILO als „up-to-date” zijn geclassificeerd.
 
-#### Artikel 13.5. Multilaterale milieuovereenkomsten
+##### Artikel 13.5. Multilaterale milieuovereenkomsten
 
 1. De partijen erkennen de waarde van internationale governance en overeenkomsten op milieugebied als antwoord van de internationale gemeenschap op mondiale of regionale milieuproblemen en zij verbinden zich ertoe in voorkomend geval elkaar te raadplegen en samen te werken bij onderhandelingen over handelsgerelateerde milieuvraagstukken van wederzijds belang.
 
@@ -2552,35 +2574,35 @@ De partijen herbevestigen hun verbintenis de ILO-overeenkomsten die Korea en de 
 
 3. De partijen herbevestigen hun verbintenis ten aanzien van het bereiken van de uiteindelijke doelstelling van het [Raamverdrag van de Verenigde Naties inzake klimaatverandering](https://wetten.overheid.nl/jci1.3:c:BWBV0001115) en het bijbehorende [Protocol van Kyoto](https://wetten.overheid.nl/jci1.3:c:BWBV0001538). Zij verbinden zich ertoe samen te werken bij de ontwikkeling van het toekomstige kader inzake klimaatverandering in overeenstemming met het Actieplan van Bali85)UNFCCC-besluit 1/CP.13, aangenomen tijdens de dertiende vergadering van de conferentie van de partijen bij het Raamverdrag van de Verenigde Naties inzake klimaatverandering (UNFCCC)..
 
-#### Artikel 13.6. Handel ten behoeve van duurzame ontwikkeling
+##### Artikel 13.6. Handel ten behoeve van duurzame ontwikkeling
 
 1. De partijen herbevestigen dat de handel de duurzame ontwikkeling in al haar aspecten moet bevorderen. Zij erkennen het positieve effect dat fundamentele arbeidsnormen en fatsoenlijk werk op economische efficiëntie, innovatie en productiviteit kunnen hebben en benadrukken de waarde van een grotere politieke coherentie tussen het handelsbeleid enerzijds en het werkgelegenheids- en arbeidsbeleid anderzijds.
 
 2. De partijen streven ernaar de handel en de buitenlandse directe investeringen in milieugoederen en -diensten, waaronder milieutechnologieën, duurzame energie, energie-efficiënte goederen en diensten en goederen met een milieukeur te vergemakkelijken en te bevorderen, onder meer door de aanpak van niet-tarifaire belemmeringen ter zake. Zij streven er voorts naar de handel in goederen die bijdragen tot een duurzame ontwikkeling, waaronder goederen die onder programma's voor eerlijke en ethische handel vallen of waarvoor een verplichting tot maatschappelijk verantwoord ondernemen geldt, te vergemakkelijken en te bevorderen.
 
-#### Artikel 13.7. Handhaving van beschermingsniveaus bij de toepassing en handhaving van wet- en regelgeving en normen
+##### Artikel 13.7. Handhaving van beschermingsniveaus bij de toepassing en handhaving van wet- en regelgeving en normen
 
 1. De partijen doen geen afbreuk aan de daadwerkelijke handhaving van hun milieu- en arbeidswetgeving door een onafgebroken of herhaald handelen of nalaten, op een wijze die van invloed is op de handel of de investeringen tussen de partijen.
 
 2. De partijen zwakken de in hun wetgeving verleende bescherming van het milieu of van de werknemers niet af, noch verminderen zij deze om de handel of investeringen te bevorderen, door af te zien van toepassing van of anderszins af te wijken van, of door aan te bieden af te zien van toepassing van of anderszins af te wijken van hun wet- en regelgeving of normen, op een wijze die van invloed is op de handel of de investeringen tussen de partijen.
 
-#### Artikel 13.8. Wetenschappelijke informatie
+##### Artikel 13.8. Wetenschappelijke informatie
 
 De partijen erkennen dat het belangrijk is om bij de opstelling en tenuitvoerlegging van maatregelen ter bescherming van het milieu en de sociale omstandigheden die van invloed zijn op de handel tussen de partijen, rekening te houden met wetenschappelijke en technische informatie, en internationale normen, richtsnoeren en aanbevelingen ter zake.
 
-#### Artikel 13.9. Transparantie
+##### Artikel 13.9. Transparantie
 
 De partijen komen overeen alle maatregelen ter bescherming van het milieu en de arbeidsomstandigheden die van invloed zijn op de handel tussen de partijen, in overeenstemming met hun respectieve interne wetgeving op transparante wijze op te stellen, in te voeren en ten uitvoer te leggen, deze maatregelen tijdig aan te kondigen, hierover een openbare raadpleging te houden en niet-overheidsactoren, waaronder de particuliere sector, op passende wijze tijdig te informeren en te consulteren.
 
-#### Artikel 13.10. Evaluatie van effecten op de duurzaamheid
+##### Artikel 13.10. Evaluatie van effecten op de duurzaamheid
 
 De partijen verbinden zich ertoe het effect van de tenuitvoerlegging van deze overeenkomst op de duurzame ontwikkeling, waaronder de bevordering van fatsoenlijk werk, te evalueren, te beoordelen en te volgen via hun bestaande participatieprocessen en participatieve instellingen en die welke in het kader van deze overeenkomst in het leven zijn geroepen, bijvoorbeeld door handelsgerelateerde beoordelingen van het effect op de duurzaamheid.
 
-#### Artikel 13.11. Samenwerking
+##### Artikel 13.11. Samenwerking
 
 Gezien het belang van samenwerking bij handelsgerelateerde aspecten van het sociale en milieubeleid om de doelstellingen van deze overeenkomst te bereiken, verbinden de partijen zich tot de in bijlage 13 bedoelde samenwerkingsactiviteiten.
 
-#### Artikel 13.12. Institutioneel mechanisme
+##### Artikel 13.12. Institutioneel mechanisme
 
 1. Elk van beide partijen wijst binnen haar diensten een instantie aan voor contacten met de andere partij over de tenuitvoerlegging van dit hoofdstuk.
 
@@ -2592,7 +2614,7 @@ Gezien het belang van samenwerking bij handelsgerelateerde aspecten van het soci
 
 5. De interne adviesgroep(en) bestaat (bestaan) uit onafhankelijke representatieve organisaties uit het maatschappelijk middenveld, met een evenwichtige vertegenwoordiging van milieu-, arbeids- en bedrijfsorganisaties, alsmede andere belanghebbenden.
 
-#### Artikel 13.13. Mechanisme voor de dialoog met het maatschappelijk middenveld
+##### Artikel 13.13. Mechanisme voor de dialoog met het maatschappelijk middenveld
 
 1. Leden van de interne adviesgroep(en) van elk van beide partijen komen bijeen in een forum van het maatschappelijk middenveld om te discussiëren over de duurzameontwikkelingsaspecten van de handelsbetrekkingen tussen de partijen. Het forum komt eenmaal per jaar bijeen, tenzij de partijen anders overeenkomen. De partijen nemen binnen een jaar na de inwerkingtreding van deze overeenkomst in het kader van het Comité voor handel en duurzame ontwikkeling een besluit over de functionering van het forum.
 
@@ -2600,7 +2622,7 @@ Gezien het belang van samenwerking bij handelsgerelateerde aspecten van het soci
 
 3. De partijen kunnen de meest recente gegevens over de tenuitvoerlegging van dit hoofdstuk aan het forum van het maatschappelijk middenveld voorleggen. De standpunten, opinies of bevindingen van het forum kunnen rechtstreeks of via de interne adviesgroep(en) aan de partijen worden voorgelegd.
 
-#### Artikel 13.14. Overleg op regeringsniveau
+##### Artikel 13.14. Overleg op regeringsniveau
 
 1. Een partij kan de andere partij verzoeken om overleg over alle aangelegenheden van wederzijds belang die zich in verband met dit hoofdstuk voortdoen, met inbegrip van de mededelingen van de in [artikel 13.12](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=DERTIEN&artikel=13.12&z=2016-01-01&g=2016-01-01) bedoelde interne adviesgroep(en), door hiertoe een schriftelijk verzoek in te dienen bij het contactpunt van de andere partij. Het overleg begint terstond na de indiening van het verzoek om overleg.
 
@@ -2610,7 +2632,7 @@ Gezien het belang van samenwerking bij handelsgerelateerde aspecten van het soci
 
 4. Het comité kan de interne adviesgroep(en) van een of van beide partijen om advies vragen en elk van beide partijen kan zijn eigen interne adviesgroep(en) om advies vragen. Een interne adviesgroep van een partij kan ook op eigen initiatief mededelingen aan die partij of aan het comité doen.
 
-#### Artikel 13.15. Deskundigenpanel
+##### Artikel 13.15. Deskundigenpanel
 
 1. Tenzij de partijen anders overeenkomen, kan een partij 90 dagen na de indiening van een verzoek om overleg ingevolge [artikel 13.14, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=DERTIEN&artikel=13.14&z=2016-01-01&g=2016-01-01), verzoeken een deskundigenpanel bijeen te roepen om een aangelegenheid, die tijdens het overleg op regeringsniveau niet op bevredigende wijze werd opgelost, te onderzoeken. De partijen kunnen documenten aan het deskundigenpanel voorleggen. Het deskundigenpanel verzoekt de partijen, de interne adviesgroep(en) of internationale organisaties overeenkomstig artikel 13.14 om informatie en advies indien het dit nuttig acht. Het deskundigenpanel komt bijeen binnen twee maanden nadat een partij een verzoek daartoe heeft ingediend.
 
@@ -2618,7 +2640,7 @@ Gezien het belang van samenwerking bij handelsgerelateerde aspecten van het soci
 
 3. Na de inwerkingtreding van deze overeenkomst stellen de partijen in onderling overleg een lijst met ten minste 15 personen op die deskundig zijn op het door dit hoofdstuk bestreken gebied; ten minste vijf van deze personen, die het voorzitterschap van het deskundigenpanel zullen bekleden, zijn geen onderdaan van een van de partijen. De deskundigen zijn onafhankelijk van, hebben geen banden met en ontvangen geen instructies van een van de partijen of van de organisaties die in de interne adviesgroep(en) vertegenwoordigd zijn. Elk van beide partijen selecteert binnen 30 dagen na de ontvangst van het verzoek om samenstelling van een deskundigenpanel een deskundige uit de lijst van deskundigen. Indien een partij verzuimt haar deskundige binnen die periode te selecteren, selecteert de andere partij uit de lijst van deskundigen een onderdaan van de partij die verzuimt heeft een deskundige te selecteren. De twee geselecteerde deskundigen kiezen een voorzitter, die geen onderdaan van een van de partijen mag zijn.
 
-#### Artikel 13.16. Beslechting van geschillen
+##### Artikel 13.16. Beslechting van geschillen
 
 Voor alle aangelegenheden die zich in verband met dit hoofdstuk voordoen, doen de partijen een beroep op de in de [artikelen 13.14](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=DERTIEN&artikel=13.14&z=2016-01-01&g=2016-01-01) en [13.15](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=DERTIEN&artikel=13.15&z=2016-01-01&g=2016-01-01) opgenomen procedures.
 
@@ -2626,17 +2648,17 @@ Voor alle aangelegenheden die zich in verband met dit hoofdstuk voordoen, doen d
 
 ### AFDELING A. DOEL EN TOEPASSINGSGEBIED
 
-#### Artikel 14.1. Doel
+##### Artikel 14.1. Doel
 
 Het doel van dit hoofdstuk is geschillen tussen de partijen over de toepassing te goeder trouw van deze overeenkomst te vermijden en te beslechten en waar mogelijk tot een onderling overeengekomen oplossing te komen.
 
-#### Artikel 14.2. Toepassingsgebied
+##### Artikel 14.2. Toepassingsgebied
 
 Dit hoofdstuk is van toepassing op elk geschil over de interpretatie en toepassing van de bepalingen van deze overeenkomst, tenzij anders is bepaald86)Voor geschillen over het protocol betreffende culturele samenwerking worden alle verwijzingen in dit hoofdstuk naar het Handelscomité verstaan als verwijzingen naar het Comité voor culturele samenwerking..
 
 ### AFDELING B. OVERLEG
 
-#### Artikel 14.3. Overleg
+##### Artikel 14.3. Overleg
 
 1. De partijen streven ernaar elk geschil over de interpretatie en toepassing van de in [artikel 14.2](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=VEERTIEN&afdeling=A&artikel=14.2&z=2016-01-01&g=2016-01-01) bedoelde bepalingen op te lossen door te goeder trouw overleg te voeren, teneinde tot een onderling overeengekomen oplossing te komen.
 
@@ -2652,13 +2674,13 @@ Dit hoofdstuk is van toepassing op elk geschil over de interpretatie en toepassi
 
 #### ONDERAFDELING A. ARBITRAGEPROCEDURE
 
-#### Artikel 14.4. Inleiding van de arbitrageprocedure
+##### Artikel 14.4. Inleiding van de arbitrageprocedure
 
 1. Wanneer de partijen er niet in zijn geslaagd het geschil door middel van het in [artikel 14.3](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=VEERTIEN&afdeling=B&artikel=14.3&z=2016-01-01&g=2016-01-01) bedoelde overleg op te lossen, kan de klagende partij verzoeken om de instelling van een arbitragepanel.
 
 2. Het verzoek om instelling van een arbitragepanel wordt schriftelijk gedaan bij de partij waartegen de klacht gericht is en bij het Handelscomité. De klagende partij vermeldt in haar verzoek welke specifieke maatregel in het geding is en legt uit waarom die maatregel een inbreuk op de in [artikel 14.2](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=VEERTIEN&afdeling=A&artikel=14.2&z=2016-01-01&g=2016-01-01) bedoelde bepalingen is.
 
-#### Artikel 14.5. Instelling van het arbitragepanel
+##### Artikel 14.5. Instelling van het arbitragepanel
 
 1. Een arbitragepanel bestaat uit drie scheidsrechters.
 
@@ -2668,7 +2690,7 @@ Dit hoofdstuk is van toepassing op elk geschil over de interpretatie en toepassi
 
 4. De datum van instelling van het arbitragepanel is die waarop de drie scheidsrechters worden aangewezen.
 
-#### Artikel 14.6. Tussentijds panelverslag
+##### Artikel 14.6. Tussentijds panelverslag
 
 1. Het arbitragepanel legt binnen 90 dagen na zijn instelling een tussentijds verslag aan de partijen voor, dat de resultaten van het feitenonderzoek, de toepasbaarheid van de desbetreffende bepalingen, alsmede de beweeggronden die aan de conclusies en aanbevelingen van het panel ten grondslag liggen, vermeldt. Wanneer het van oordeel is dat deze termijn niet kan worden gehaald, stelt de voorzitter van het arbitragepanel de partijen en het Handelscomité hiervan schriftelijk in kennis, met opgave van de redenen voor de vertraging en de datum waarop het panel zijn tussentijds verslag denkt te kunnen voorleggen. In geen geval mag het tussentijds verslag later dan 120 dagen na de instelling van het arbitragepanel worden voorgelegd.
 
@@ -2678,7 +2700,7 @@ Dit hoofdstuk is van toepassing op elk geschil over de interpretatie en toepassi
 
 4. Het arbitragepanel kan het tussentijds verslag naar aanleiding van schriftelijk commentaar van de partijen wijzigen, en wanneer het dat zinvol acht, de zaak nader onderzoeken. In de definitieve uitspraak van het arbitragepanel worden de in de tussentijdse fase naar voren gebrachte argumenten besproken.
 
-#### Artikel 14.7. Uitspraak van het arbitragepanel
+##### Artikel 14.7. Uitspraak van het arbitragepanel
 
 1. Het arbitragepanel maakt zijn uitspraak binnen 120 dagen na zijn instelling aan de partijen en aan het Handelscomité bekend. Wanneer het van oordeel is dat deze termijn niet kan worden gehaald, stelt de voorzitter van het arbitragepanel de partijen en het Handelscomité hiervan schriftelijk in kennis, met opgave van de redenen voor de vertraging en de datum waarop het panel zijn uitspraak denkt te kunnen bekendmaken. In geen geval mag de uitspraak later dan 150 dagen na de instelling van het arbitragepanel worden bekendgemaakt.
 
@@ -2686,11 +2708,11 @@ Dit hoofdstuk is van toepassing op elk geschil over de interpretatie en toepassi
 
 #### ONDERAFDELING B. NALEVING
 
-#### Artikel 14.8. Naleving van de uitspraak van het arbitragepanel
+##### Artikel 14.8. Naleving van de uitspraak van het arbitragepanel
 
 Elk van beide partijen neemt de nodige maatregelen om de uitspraak van het arbitragepanel te goeder trouw na te leven; zij streven ernaar overeenstemming te bereiken over de termijn waarbinnen zij de uitspraak zullen naleven.
 
-#### Artikel 14.9. Redelijke termijn voor naleving
+##### Artikel 14.9. Redelijke termijn voor naleving
 
 1. Uiterlijk 30 dagen na de bekendmaking van de uitspraak van het arbitragepanel aan de partijen stelt de partij waartegen de klacht gericht is de klagende partij en het Handelscomité in kennis van de tijd die zij nodig heeft om de uitspraak na te leven.
 
@@ -2702,7 +2724,7 @@ Elk van beide partijen neemt de nodige maatregelen om de uitspraak van het arbit
 
 5. De partijen kunnen de redelijke termijn in onderling overleg verlengen.
 
-#### Artikel 14.10. Onderzoek van maatregelen getroffen tot naleving van de uitspraak van het arbitragepanel
+##### Artikel 14.10. Onderzoek van maatregelen getroffen tot naleving van de uitspraak van het arbitragepanel
 
 1. De partij waartegen de klacht gericht is, stelt de klagende partij en het Handelscomité voor afloop van de redelijke termijn in kennis van de maatregelen die zij heeft getroffen om de uitspraak van het arbitragepanel na te leven.
 
@@ -2710,7 +2732,7 @@ Elk van beide partijen neemt de nodige maatregelen om de uitspraak van het arbit
 
 3. Wanneer een van de leden van het oorspronkelijke arbitragepanel niet meer beschikbaar is, zijn de in [artikel 14.5](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=VEERTIEN&afdeling=C&paragraaf=A&artikel=14.5&z=2016-01-01&g=2016-01-01) beschreven procedures van toepassing. De termijn voor de bekendmaking van de uitspraak bedraagt 60 dagen na de datum van indiening van het in lid 2 bedoelde verzoek.
 
-#### Artikel 14.11. Tijdelijke maatregelen bij niet-naleving
+##### Artikel 14.11. Tijdelijke maatregelen bij niet-naleving
 
 1. Indien de partij waartegen de klacht gericht is niet voor afloop van de redelijke termijn kennis geeft van een maatregel die zij heeft genomen om de uitspraak van het arbitragepanel na te leven, of indien het arbitragepanel oordeelt dat er geen maatregel is genomen om aan de uitspraak te voldoen of dat de maatregel waarvan overeenkomstig [artikel 14.10, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=VEERTIEN&afdeling=C&paragraaf=B&artikel=14.10&z=2016-01-01&g=2016-01-01), is kennisgegeven, niet in overeenstemming is met de verplichtingen van de partij krachtens de in [artikel 14.2](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=VEERTIEN&afdeling=A&artikel=14.2&z=2016-01-01&g=2016-01-01) bedoelde bepalingen, biedt de partij waartegen de klacht gericht is de klagende partij, als die erom verzoekt, een tijdelijke compensatie aan.
 
@@ -2724,7 +2746,7 @@ Elk van beide partijen neemt de nodige maatregelen om de uitspraak van het arbit
 
 6. De opschorting van verplichtingen is van tijdelijke aard en wordt slechts toegepast totdat de maatregel waarvan is vastgesteld dat deze niet in overeenstemming is met de in [artikel 14.2](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=VEERTIEN&afdeling=A&artikel=14.2&z=2016-01-01&g=2016-01-01) bedoelde bepalingen, is ingetrokken of gewijzigd en overeenkomstig [artikel 14.12](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=VEERTIEN&afdeling=C&paragraaf=B&artikel=14.12&z=2016-01-01&g=2016-01-01) met die bepalingen in overeenstemming is gebracht, of totdat de partijen zijn overeengekomen hun geschil bij te leggen.
 
-#### Artikel 14.12. Onderzoek van nalevingsmaatregelen getroffen na de opschorting van verplichtingen
+##### Artikel 14.12. Onderzoek van nalevingsmaatregelen getroffen na de opschorting van verplichtingen
 
 1. De partij waartegen de klacht gericht is, stelt de klagende partij en het Handelscomité in kennis van elke maatregel die zij heeft getroffen om de uitspraak van het arbitragepanel na te leven, alsmede van haar verzoek om beëindiging van de opschorting van de verplichtingen door de klagende partij.
 
@@ -2734,25 +2756,25 @@ Elk van beide partijen neemt de nodige maatregelen om de uitspraak van het arbit
 
 #### ONDERAFDELING C. GEMEENSCHAPPELIJKE BEPALINGEN
 
-#### Artikel 14.13. Onderling overeengekomen oplossing
+##### Artikel 14.13. Onderling overeengekomen oplossing
 
 De partijen kunnen te allen tijde onderling een oplossing voor een onder dit hoofdstuk vallend geschil overeenkomen. Zij stellen het Handelscomité van die oplossing in kennis. Na kennisgeving van de onderling overeengekomen oplossing is de procedure beëindigd.
 
-#### Artikel 14.14. Reglement van orde
+##### Artikel 14.14. Reglement van orde
 
 1. Op de procedures voor de beslechting van geschillen in het kader van dit hoofdstuk is bijlage 14-B van toepassing.
 
 2. De hoorzittingen van het arbitragepanel staan, in overeenstemming met bijlage 14-B, open voor het publiek.
 
-#### Artikel 14.15. Inlichtingen en technisch advies
+##### Artikel 14.15. Inlichtingen en technisch advies
 
 Het arbitragepanel kan op verzoek van een partij of op eigen initiatief bij alle bronnen, met inbegrip van de bij het geschil betrokken partijen, de inlichtingen inwinnen die het nuttig acht voor de arbitrageprocedure. Het arbitragepanel heeft tevens het recht deskundigen om advies te vragen wanneer het dat nuttig acht. Alle op deze manier verkregen inlichtingen worden medegedeeld aan beide partijen, die hierover opmerkingen kunnen indienen. Belanghebbende natuurlijke of rechtspersonen van de partijen kunnen in overeenstemming met bijlage 14-B als amicus curiae opmerkingen bij het arbitragepanel indienen.
 
-#### Artikel 14.16. Interpretatieregels
+##### Artikel 14.16. Interpretatieregels
 
 Arbitragepanels leggen de in [artikel 14.2](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=VEERTIEN&afdeling=A&artikel=14.2&z=2016-01-01&g=2016-01-01) bedoelde bepalingen uit volgens de gebruikelijke regels voor de interpretatie van het internationaal publiekrecht, met inbegrip van die in het [Verdrag van Wenen inzake het verdragenrecht](https://wetten.overheid.nl/jci1.3:c:BWBV0003441). Wanneer een verplichting uit hoofde van deze overeenkomst identiek is aan een verplichting uit hoofde van de [WTO-Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160), legt het arbitragepanel zich vast op een interpretatie die in overeenstemming is met een eventuele relevante interpretatie die is vastgesteld in uitspraken van het Orgaan voor geschillenbeslechting van de WTO, hierna „het DSB” (Dispute Settlement Body) genoemd. Uitspraken van een arbitragepanel kunnen de rechten en verplichtingen uit hoofde van de in artikel 14.2 bedoelde bepalingen niet verruimen of beperken.
 
-#### Artikel 14.17. Besluiten en uitspraken van het arbitragepanel
+##### Artikel 14.17. Besluiten en uitspraken van het arbitragepanel
 
 1. Het arbitragepanel stelt alles in het werk om elk besluit bij consensus te nemen. Wanneer het evenwel niet mogelijk is bij consensus tot een besluit te komen, wordt een besluit bij meerderheid van stemmen genomen. In geen geval worden afwijkende meningen van scheidsrechters gepubliceerd.
 
@@ -2760,13 +2782,13 @@ Arbitragepanels leggen de in [artikel 14.2](https://wetten.overheid.nl/jci1.3:c:
 
 ### AFDELING D. ALGEMENE BEPALINGEN
 
-#### Artikel 14.18. Lijst van scheidsrechters
+##### Artikel 14.18. Lijst van scheidsrechters
 
 1. Het Handelscomité stelt uiterlijk zes maanden na de inwerkintreding van deze overeenkomst een lijst op van vijftien personen die bereid en in staat zijn om als scheidsrechter op te treden. Elk van beide partijen stelt vijf personen voor die als scheidsrechter kunnen optreden. De partijen kiezen in onderling overleg bovendien vijf personen die geen onderdaan van een van de partijen zijn en als voorzitter van het arbitragepanel kunnen fungeren. Het Handelscomité ziet erop toe dat de lijst te allen tijde uit dit aantal personen blijft bestaan.
 
 2. De scheidsrechters hebben gespecialiseerde kennis of ervaring op het gebied van het recht en de internationale handel. Zij zijn onafhankelijk, treden op persoonlijke titel op, nemen geen instructies met betrekking tot het onderwerp van het geschil aan van enige organisatie of regering, zijn niet verbonden aan de regering van een van de partijen en nemen bijlage 14-C in acht.
 
-#### Artikel 14.19. Relatie tot WTO-verplichtingen
+##### Artikel 14.19. Relatie tot WTO-verplichtingen
 
 1. Een beroep op de bepalingen in dit hoofdstuk over de beslechting van geschillen doet geen afbreuk aan enige rechtsvordering in het kader van de WTO, met inbegrip van die tot beslechting van een geschil.
 
@@ -2780,7 +2802,7 @@ Arbitragepanels leggen de in [artikel 14.2](https://wetten.overheid.nl/jci1.3:c:
 
 4. Geen enkele bepaling in deze overeenkomst belet een partij de opschorting van verplichtingen die is toegestaan door het DSB, ten uitvoer te leggen. Er kan geen beroep op de [WTO-Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160) worden gedaan om een partij te beletten verplichtingen uit hoofde van dit hoofdstuk op te schorten.
 
-#### Artikel 14.20. Termijnen
+##### Artikel 14.20. Termijnen
 
 1. Alle in dit hoofdstuk vastgestelde termijnen, met inbegrip van die waarbinnen arbitragepanels hun uitspraken moeten bekendmaken, worden gerekend in kalenderdagen waarbij de eerste dag de dag is volgende op die waarop het desbetreffende besluit werd genomen of het desbetreffende feit plaatsvond.
 
@@ -2788,7 +2810,7 @@ Arbitragepanels leggen de in [artikel 14.2](https://wetten.overheid.nl/jci1.3:c:
 
 ### HOOFDSTUK VIJFTIEN. INSTITUTIONELE, ALGEMENE EN SLOTBEPALINGEN
 
-#### Artikel 15.1. Handelscomité
+##### Artikel 15.1. Handelscomité
 
 1. De partijen richten een Handelscomité88)Zoals in het protocol betreffende culturele samenwerking is uiteengezet, is het Handelscomité niet bevoegd voor dat protocol; het Comité voor culturele samenwerking oefent ten aanzien van dat protocol alle functies van het Handelscomité uit, voor zover die functies van belang zijn voor de uitvoering van dat protocol.op, bestaande uit vertegenwoordigers van de EU en vertegenwoordigers van Korea.
 
@@ -2834,7 +2856,7 @@ Arbitragepanels leggen de in [artikel 14.2](https://wetten.overheid.nl/jci1.3:c:
 
 8. Omdat de partijen zich ervan bewust zijn dat transparantie en openheid belangrijk zijn, bevestigen zij dat zij elk rekening houden met de mening van hun bevolking, teneinde de uitvoering van de overeenkomst op een breed spectrum van standpunten te baseren.
 
-#### Artikel 15.2. Gespecialiseerde comités
+##### Artikel 15.2. Gespecialiseerde comités
 
 1. De volgende gespecialiseerde comités, die onder toezicht van het Handelscomité staan, worden opgericht:
 
@@ -2860,7 +2882,7 @@ De opdracht en de taken van deze gespecialiseerde comités worden in de desbetre
 
 5. Het Handelscomité kan besluiten de taak van een gespecialiseerd comité te wijzigen of zelf uit te voeren, dan wel een gespecialiseerd comité op te heffen.
 
-#### Artikel 15.3. Werkgroepen
+##### Artikel 15.3. Werkgroepen
 
 1. De volgende werkgroepen, die onder toezicht van het Handelscomité staan, worden opgericht:
 
@@ -2886,7 +2908,7 @@ De opdracht en de taken van deze gespecialiseerde comités worden in de desbetre
 
 5. Het Handelscomité kan besluiten de taak van een werkgroep te wijzigen of zelf uit te voeren, dan wel een werkgroep op te heffen.
 
-#### Artikel 15.4. Besluitvorming
+##### Artikel 15.4. Besluitvorming
 
 1. Om de doelstellingen van deze overeenkomst te bereiken, krijgt het Handelscomité de bevoegdheid besluiten te nemen ten aanzien van alle in deze overeenkomst bedoelde aangelegenheden.
 
@@ -2894,13 +2916,13 @@ De opdracht en de taken van deze gespecialiseerde comités worden in de desbetre
 
 3. De besluiten en aanbevelingen van het Handelscomité worden vastgesteld in onderlinge overeenstemming tussen de partijen.
 
-#### Artikel 15.5. Wijzigingen
+##### Artikel 15.5. Wijzigingen
 
 1. De partijen kunnen schriftelijk overeenkomen deze overeenkomst te wijzigen. Een wijziging treedt op een door de partijen overeengekomen datum in werking nadat de partijen schriftelijke kennisgevingen met elkaar hebben uitgewisseld waarin zij verklaren dat hun respectieve toepasselijke wettelijke vereisten en procedures volledig zijn afgerond.
 
 2. Onverminderd lid 1 kan het Handelscomité besluiten de bijlagen, aanhangsels, protocollen en aantekeningen bij deze overeenkomst te wijzigen. De partijen kunnen het besluit goedkeuren volgens hun respectieve toepasselijke wettelijke vereisten en procedures.
 
-#### Artikel 15.6. Contactpunten
+##### Artikel 15.6. Contactpunten
 
 1. Om de communicatie te vergemakkelijken en de doeltreffende uitvoering van deze overeenkomst te waarborgen, wijzen de partijen bij de inwerkingtreding van deze overeenkomst coördinatoren aan. De aanwijzing van coördinatoren doet geen afbreuk aan de specifieke aanwijzing van bevoegde autoriteiten in het kader van specifieke hoofdstukken van deze overeenkomst.
 
@@ -2908,7 +2930,7 @@ De opdracht en de taken van deze gespecialiseerde comités worden in de desbetre
 
 3. Voor zover het krachtens hun wetgeving mogelijk is, verschaft elk van de partijen op verzoek van de andere partij via haar coördinatoren informatie, en antwoordt zij onverwijld op elke vraag van de andere partij met betrekking tot een bestaande of voorgestelde maatregel die van invloed kan zijn op de handel tussen de partijen.
 
-#### Artikel 15.7. Belastingen
+##### Artikel 15.7. Belastingen
 
 1. Deze overeenkomst is alleen van toepassing op belastingmaatregelen wanneer dat nodig is om de bepalingen van deze overeenkomst uit te voeren.
 
@@ -2918,7 +2940,7 @@ De opdracht en de taken van deze gespecialiseerde comités worden in de desbetre
 
 4. Geen enkele bepaling in deze overeenkomst wordt uitgelegd als beletsel voor het vaststellen of toepassen van maatregelen ter voorkoming van belastingontwijking of -ontduiking in overeenstemming met de fiscale bepalingen van overeenkomsten inzake voorkoming van dubbele belastingheffing, andere belastingregelingen of interne belastingwetten.
 
-#### Artikel 15.8. Uitzonderingen in verband met de betalingsbalans
+##### Artikel 15.8. Uitzonderingen in verband met de betalingsbalans
 
 1. In geval van ernstige problemen of dreigende ernstige problemen op het gebied van de betalingsbalans en de buitenlandse financiële positie mag een partij beperkende maatregelen ten aanzien van de handel in goederen en diensten en de vestiging instellen of handhaven.
 
@@ -2938,7 +2960,7 @@ Beperkende maatregelen die krachtens dit artikel worden ingesteld of gehandhaafd
 
 Het overleg heeft betrekking op de verenigbaarheid van de beperkende maatregelen met de leden 3 en 4. Alle bevindingen van statistische en andere aard met betrekking tot deviezen, monetaire reserves en de betalingsbalans die van het Internationaal Monetair Fonds afkomstig zijn, worden aanvaard, en de conclusies worden gebaseerd op het oordeel van het Fonds over de betalingsbalans en de externe financiële positie van de betrokken partij.
 
-#### Artikel 15.9. Uitzonderingen op grond van veiligheidsoverwegingen
+##### Artikel 15.9. Uitzonderingen op grond van veiligheidsoverwegingen
 
 Geen enkele bepaling in deze overeenkomst wordt zodanig uitgelegd dat:
 
@@ -2954,7 +2976,7 @@ Geen enkele bepaling in deze overeenkomst wordt zodanig uitgelegd dat:
 
 - c. een partij belet wordt maatregelen te nemen tot uitvoering van haar internationale verplichtingen met het oog op de handhaving van de internationale vrede en veiligheid.
 
-#### Artikel 15.10. Inwerkingtreding
+##### Artikel 15.10. Inwerkingtreding
 
 1. Deze overeenkomst wordt door de partijen goedgekeurd volgens hun eigen procedures.
 
@@ -2972,7 +2994,7 @@ Geen enkele bepaling in deze overeenkomst wordt zodanig uitgelegd dat:
 
 - d. Wanneer deze overeenkomst of sommige bepalingen ervan voorlopig worden toegepast, wordt onder „inwerkingtreding van deze overeenkomst” verstaan de datum van voorlopige toepassing.
 
-#### Artikel 15.11. Duur
+##### Artikel 15.11. Duur
 
 1. Deze overeenkomst geldt voor onbepaalde tijd.
 
@@ -2980,17 +3002,17 @@ Geen enkele bepaling in deze overeenkomst wordt zodanig uitgelegd dat:
 
 3. De opzegging wordt zes maanden na de datum van de in lid 2 bedoelde kennisgeving van kracht.
 
-#### Artikel 15.12. Voldoen aan verplichtingen
+##### Artikel 15.12. Voldoen aan verplichtingen
 
 1. De partijen treffen alle algemene en bijzondere maatregelen die nodig zijn om aan hun verplichtingen krachtens deze overeenkomst te voldoen. Zij zien erop toe dat de in deze overeenkomst genoemde doelstellingen worden bereikt.
 
 2. Elk van beide partijen kan onmiddellijk passende maatregelen in overeenstemming met het internationale recht nemen wanneer deze overeenkomst niet volgens de algemene regels van het internationale recht wordt opgezegd.
 
-#### Artikel 15.13. Bijlagen, aanhangsels, protocollen en aantekeningen
+##### Artikel 15.13. Bijlagen, aanhangsels, protocollen en aantekeningen
 
 De bijlagen, aanhangsels, protocollen en aantekeningen bij deze overeenkomst vormen daarvan een integrerend onderdeel.
 
-#### Artikel 15.14. Relatie tot andere overeenkomsten
+##### Artikel 15.14. Relatie tot andere overeenkomsten
 
 1. Tenzij anders is bepaald, worden eerdere overeenkomsten tussen de lidstaten van de Europese Unie en/of de Europese Gemeenschap en/of de Europese Unie en Korea niet vervangen of beëindigd door deze overeenkomst.
 
@@ -3000,13 +3022,13 @@ De bijlagen, aanhangsels, protocollen en aantekeningen bij deze overeenkomst vor
 
 4. De partijen komen overeen dat geen enkele bepaling in deze overeenkomst hen verplicht te handelen op een wijze die in strijd is met hun verplichtingen uit hoofde van de [WTO-Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160).
 
-#### Artikel 15.15. Territoriale toepassing
+##### Artikel 15.15. Territoriale toepassing
 
 1. Deze overeenkomst is van toepassing, enerzijds, op elk grondgebied waarop het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) en het [Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) van toepassing zijn, onder de in die verdragen neergelegde voorwaarden, en, anderzijds, op het grondgebied van Korea. Verwijzingen naar „grondgebied” in deze overeenkomst wordt in deze zin begrepen, tenzij uitdrukkelijk anders is bepaald.
 
 2. Voor de bepalingen met betrekking tot de tariefbehandeling van goederen is deze overeenkomst ook van toepassing op gebieden die tot het douanegebied van de EU behoren maar niet onder lid 1 vallen.
 
-#### Artikel 15.16. Authentieke teksten
+##### Artikel 15.16. Authentieke teksten
 
 Deze overeenkomst is opgesteld in tweevoud, in de volgende talen: Bulgaars, Deens, Duits, Engels, Ests, Fins, Frans, Grieks, Hongaars, Italiaans, Kroatisch, Lets, Litouws, Maltees, Nederlands, Pools, Portugees, Roemeens, Sloveens, Slowaaks, Spaans, Tsjechisch, Zweeds en Koreaans, zijnde alle teksten gelijkelijk authentiek.
 
@@ -3014,7 +3036,7 @@ Deze overeenkomst is opgesteld in tweevoud, in de volgende talen: Bulgaars, Deen
 
 ## TITEL I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit protocol wordt verstaan onder:
 
@@ -3046,7 +3068,7 @@ In dit protocol wordt verstaan onder:
 
 ## TITEL II. DEFINITIE VAN „PRODUCTEN VAN OORSPRONG”
 
-#### Artikel 2. Producten van oorsprong
+##### Artikel 2. Producten van oorsprong
 
 Voor de toepassing van een preferentiële tariefbehandeling worden de volgende producten als van oorsprong uit een partij beschouwd:
 
@@ -3056,11 +3078,11 @@ Voor de toepassing van een preferentiële tariefbehandeling worden de volgende p
 
 - c. in een partij verkregen producten die uitsluitend bestaan uit materialen die krachtens dit protocol als van oorsprong worden aangemerkt.
 
-#### Artikel 3. Cumulatie van de oorsprong
+##### Artikel 3. Cumulatie van de oorsprong
 
 Onverminderd [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&afdeling=A&titeldeel=II&artikel=2&z=2016-01-01&g=2016-01-01) worden producten als van oorsprong uit een partij beschouwd als zij daar zijn verkregen en in die producten materialen zijn verwerkt die van oorsprong zijn uit de andere partij, mits de be- of verwerking ingrijpender is dan de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&afdeling=A&titeldeel=II&artikel=6&z=2016-01-01&g=2016-01-01) genoemde be- of verwerkingen. Het is niet noodzakelijk dat deze materialen toereikende be- of verwerkingen hebben ondergaan.
 
-#### Artikel 4. Volledig verkregen producten
+##### Artikel 4. Volledig verkregen producten
 
 1. Voor de toepassing van [artikel 2, onder a)](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&afdeling=A&titeldeel=II&artikel=2&z=2016-01-01&g=2016-01-01), worden als volledig in een partij verkregen beschouwd:
 
@@ -3106,7 +3128,7 @@ Onverminderd [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&afdelin
 
 - B. die voor ten minste 50% toebehoort aan een van de lidstaten van de Europese Unie of aan Korea, overheidsorganen van een lidstaat van de Europese Unie of van Korea of onderdanen van een van de lidstaten van de Europese Unie of van Korea.
 
-#### Artikel 5. Toereikende be- of verwerking
+##### Artikel 5. Toereikende be- of verwerking
 
 1. Voor de toepassing van [artikel 2, onder b)](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&afdeling=A&titeldeel=II&artikel=2&z=2016-01-01&g=2016-01-01), worden niet volledig verkregen producten geacht een toereikende be- of verwerking te hebben ondergaan wanneer aan de voorwaarden in de lijsten in bijlage II of II(a) is voldaan. Deze voorwaarden geven voor alle onder deze overeenkomst vallende producten aan welke be- of verwerkingen bij de vervaardiging gebruikte, niet van oorsprong zijnde materialen moeten hebben ondergaan, en gelden slechts voor die materialen. Hieruit volgt dat als:
 
@@ -3124,7 +3146,7 @@ Onverminderd [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&afdelin
 
 4. De leden 1 tot en met 3 zijn van toepassing behoudens het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&afdeling=A&titeldeel=II&artikel=6&z=2016-01-01&g=2016-01-01).
 
-#### Artikel 6. Ontoereikende be- of verwerking
+##### Artikel 6. Ontoereikende be- of verwerking
 
 1. Onverminderd lid 2 worden de volgende be- of verwerkingen als ontoereikend beschouwd om de oorsprongsstatus te verlenen, ongeacht of aan de voorwaarden van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&afdeling=A&titeldeel=II&artikel=5&z=2016-01-01&g=2016-01-01) is voldaan:
 
@@ -3164,7 +3186,7 @@ Onverminderd [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&afdelin
 
 2. Alle be- of verwerkingen die een product in een partij heeft ondergaan, worden tezamen genomen om te bepalen of deze als ontoereikend in de zin van lid 1 moeten worden beschouwd.
 
-#### Artikel 7. In aanmerking te nemen eenheid
+##### Artikel 7. In aanmerking te nemen eenheid
 
 1. De voor de toepassing van dit protocol in aanmerking te nemen eenheid is het product dat bij het vaststellen van de indeling aan de hand van de nomenclatuur van het GS als de basiseenheid wordt beschouwd. Hieruit volgt dat:
 
@@ -3174,19 +3196,19 @@ Onverminderd [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&afdelin
 
 2. Wanneer volgens algemene regel 5 van het GS de verpakking meetelt voor het vaststellen van de indeling van het product, telt deze ook mee voor het vaststellen van de oorsprong en wordt deze als van oorsprong beschouwd wanneer het product van oorsprong is.
 
-#### Artikel 8. Toebehoren, vervangingsonderdelen en gereedschappen
+##### Artikel 8. Toebehoren, vervangingsonderdelen en gereedschappen
 
 Toebehoren, vervangingsonderdelen en gereedschappen die samen met een product worden geleverd en deel uitmaken van de normale uitrusting daarvan en die in de prijs ervan zijn begrepen of niet afzonderlijk in rekening worden gebracht, worden geacht een geheel te vormen met het product in kwestie.
 
-#### Artikel 9. Stellen en assortimenten
+##### Artikel 9. Stellen en assortimenten
 
 Stellen en assortimenten in de zin van algemene regel 3 van het GS worden als van oorsprong beschouwd wanneer alle samenstellende delen van oorsprong zijn en het product aan alle andere toepasselijke eisen van dit protocol voldoet. Een stel of assortiment bestaande uit producten van oorsprong en producten die niet van oorsprong zijn, wordt evenwel als van oorsprong beschouwd indien de waarde van de producten die niet van oorsprong zijn niet meer dan 15% van de prijs af fabriek van het stel of assortiment bedraagt.
 
-#### Artikel 10. Neutrale elementen
+##### Artikel 10. Neutrale elementen
 
 Om de oorsprong van een product te bepalen, behoeft niet te worden vastgesteld wat de oorsprong is van de goederen die bij de vervaardiging ervan worden gebruikt, maar die in de uiteindelijke samenstelling van het product niet voorkomen en ook niet bedoeld waren om daarin voor te komen.
 
-#### Artikel 11. Gescheiden boekhouding van materialen
+##### Artikel 11. Gescheiden boekhouding van materialen
 
 1. Wanneer bij de vervaardiging van een product identieke en onderling verwisselbare van oorsprong zijnde en niet van oorsprong zijnde materialen worden gebruikt, worden die materialen tijdens de opslag naargelang van hun oorsprong fysiek gescheiden.
 
@@ -3200,7 +3222,7 @@ Om de oorsprong van een product te bepalen, behoeft niet te worden vastgesteld w
 
 ## TITEL III. TERRITORIALE VOORWAARDEN
 
-#### Artikel 12. Territorialiteitsbeginsel
+##### Artikel 12. Territorialiteitsbeginsel
 
 1. Aan de in titel II genoemde voorwaarden voor het verkrijgen van de oorsprongsstatus moet zonder onderbreking in een partij zijn voldaan, behoudens het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&afdeling=A&titeldeel=II&artikel=3&z=2016-01-01&g=2016-01-01) en lid 3 van dit artikel.
 
@@ -3212,7 +3234,7 @@ Om de oorsprong van een product te bepalen, behoeft niet te worden vastgesteld w
 
 3. In afwijking van de leden 1 en 2 van dit artikel komen de partijen overeen dat bepaalde goederen als van oorsprong worden aangemerkt, hoewel zij voor een be- of verwerking uit Korea zijn uitgevoerd en vervolgens weer zijn ingevoerd, mits de be- of verwerking plaatsvindt in de ingevolge bijlage IV door de partijen aangewezen gebieden.
 
-#### Artikel 13. Rechtstreeks vervoer
+##### Artikel 13. Rechtstreeks vervoer
 
 1. De preferentiële regeling waarin deze overeenkomstig voorziet, is uitsluitend van toepassing op producten die aan de voorwaarden van dit protocol voldoen en die rechtstreeks tussen de partijen zijn vervoerd. Producten die een enkele zending vormen, kunnen evenwel via een ander grondgebied worden vervoerd, eventueel met overslag of tijdelijke opslag op dat grondgebied, mits zij in het land van doorvoer of opslag niet in het vrije verkeer worden gebracht en aldaar geen andere behandelingen ondergaan dan lossen en opnieuw laden of be- of verwerkingen om ze in goede staat te bewaren.
 
@@ -3234,7 +3256,7 @@ Om de oorsprong van een product te bepalen, behoeft niet te worden vastgesteld w
 
 ## TITEL IV. TERUGGAVE OF VRIJSTELLING VAN RECHTEN
 
-#### Artikel 14. Teruggave of vrijstelling van douanerechten
+##### Artikel 14. Teruggave of vrijstelling van douanerechten
 
 1. Vijf jaar na de inwerkingtreding van deze overeenkomst evalueren de partijen, op verzoek van een van hen, gezamenlijk hun regelingen voor de teruggave van douanerechten en voor actieve veredeling. Een jaar na de inwerkingtreding en vervolgens elk jaar, geven de partijen elkaar de beschikbare informatie over de werking van hun regelingen voor de teruggave van douanerechten en voor actieve veredeling, alsmede de volgende gedetailleerde statistiek:
 
@@ -3260,13 +3282,13 @@ Om de oorsprong van een product te bepalen, behoeft niet te worden vastgesteld w
 
 ## TITEL V. BEWIJS VAN OORSPRONG
 
-#### Artikel 15. Algemene voorwaarden
+##### Artikel 15. Algemene voorwaarden
 
 1. Producten van oorsprong uit de EU komen bij invoer in Korea en producten van oorsprong uit Korea komen bij invoer in de EU voor de preferentiële tariefbehandeling krachtens deze overeenkomst in aanmerking op vertoon van een verklaring van de exporteur op een factuur, pakbon of ander handelsdocument, waarin de producten voldoende duidelijk zijn omschreven om ze te kunnen identificeren, hierna „oorsprongsverklaring” genoemd. De tekst van de oorsprongsverklaring is opgenomen in bijlage III.
 
 2. In afwijking van lid 1 komen producten van oorsprong in de zin van dit protocol in de in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&afdeling=B&titeldeel=V&artikel=21&z=2016-01-01&g=2016-01-01) bedoelde gevallen voor de preferentiële tariefbehandeling krachtens deze overeenkomst in aanmerking zonder dat een van de in lid 1 genoemde documenten behoeft te worden overgelegd.
 
-#### Artikel 16. Voorwaarden voor het opstellen van een oorsprongsverklaring
+##### Artikel 16. Voorwaarden voor het opstellen van een oorsprongsverklaring
 
 1. De in [artikel 15, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&afdeling=B&titeldeel=V&artikel=15&z=2016-01-01&g=2016-01-01), van dir protocol bedoelde oorsprongsverklaring kan worden opgesteld:
 
@@ -3284,7 +3306,7 @@ Om de oorsprong van een product te bepalen, behoeft niet te worden vastgesteld w
 
 6. Een oorsprongsverklaring kan door de exporteur worden opgesteld bij of na de uitvoer van de producten waarop zij betrekking heeft, maar moet uiterlijk twee jaar, of binnen de in de wetgeving van de partij van invoer genoemde periode, na de invoer van de producten waarop zij betrekking heeft in de partij van invoer worden aangeboden.
 
-#### Artikel 17. Toegelaten exporteur
+##### Artikel 17. Toegelaten exporteur
 
 1. De douaneautoriteiten van de partij van uitvoer kunnen iedere exporteur, hierna „toegelaten exporteur” genoemd, die producten uitvoert waarop deze overeenkomst van toepassing is, vergunning verlenen oorsprongsverklaringen op te stellen, ongeacht de waarde van de betrokken producten, een en ander in overeenstemming met de desbetreffende voorwaarden in de wet- en regelgeving van de partij van uitvoer. Een exporteur die een dergelijke vergunning aanvraagt, moet ten genoegen van de douaneautoriteiten alle waarborgen bieden die nodig zijn voor de controle op de oorsprongsstatus van de producten en de naleving van de andere voorwaarden van dit protocol.
 
@@ -3296,7 +3318,7 @@ Om de oorsprong van een product te bepalen, behoeft niet te worden vastgesteld w
 
 5. De douaneautoriteiten kunnen de vergunning te allen tijde intrekken. Zij zijn verplicht dit te doen wanneer de toegelaten exporteur niet langer de in lid 1 bedoelde garanties biedt, niet meer aan de in lid 2 bedoelde voorwaarden voldoet of de vergunning niet op de juiste wijze gebruikt.
 
-#### Artikel 18. Geldigheid van het bewijs van oorsprong
+##### Artikel 18. Geldigheid van het bewijs van oorsprong
 
 1. Een bewijs van oorsprong is 12 maanden geldig vanaf de datum van afgifte in de partij van uitvoer; binnen deze periode moet de preferentiële tariefbehandeling worden aangevraagd bij de douaneautoriteiten van de partij van invoer.
 
@@ -3304,15 +3326,15 @@ Om de oorsprong van een product te bepalen, behoeft niet te worden vastgesteld w
 
 3. In andere gevallen van verlate indiening dan die bedoeld in lid 2 kunnen de douaneautoriteiten van de partij van invoer de bewijzen van oorsprong in overeenstemming met de procedures van de partijen aanvaarden wanneer de producten vóór het verstrijken van genoemde termijn bij hen waren aangebracht.
 
-#### Artikel 19. Aanspraak op preferentiële tariefbehandeling en indiening van bewijs van oorsprong
+##### Artikel 19. Aanspraak op preferentiële tariefbehandeling en indiening van bewijs van oorsprong
 
 Om aanspraak te kunnen maken op een preferentiële tariefbehandeling worden, indien de wet- en regelgeving van de partij van invoer dat vereist, bewijzen van oorsprong bij de douaneautoriteiten van de partij van invoer ingediend. Die kunnen eisen dat het bewijs van oorsprong wordt vertaald en dat de aangifte ten invoer vergezeld gaat van een verklaring van de importeur dat de producten aan de voorwaarden voor de toepassing van deze overeenkomst voldoen.
 
-#### Artikel 20. Invoer in deelzendingen
+##### Artikel 20. Invoer in deelzendingen
 
 Wanneer, op verzoek van de importeur en op de door de douaneautoriteiten van de partij van invoer vastgestelde voorwaarden, gedemonteerde of niet-gemonteerde producten in de zin van algemene regel 2 a) van het GS, vallende onder Afdeling XVI of XVII, dan wel post 7308 of 9406 van het GS, in deelzendingen worden ingevoerd, wordt een enkel bewijs van oorsprong bij de douaneautoriteiten ingediend bij de invoer van de eerste deelzending.
 
-#### Artikel 21. Vrijstelling van het bewijs van oorsprong
+##### Artikel 21. Vrijstelling van het bewijs van oorsprong
 
 1. Producten die door particulieren in kleine colli aan particulieren worden verzonden of die deel uitmaken van de persoonlijke bagage van reizigers worden als producten van oorsprong toegelaten zonder dat een bewijs van oorsprong behoeft te worden overgelegd, mits deze goederen niet als handelsgoederen worden ingevoerd en bij hun aangifte verklaard is dat zij aan de voorwaarden van dit protocol voldoen en er over de juistheid van deze verklaring geen twijfel bestaat. Voor postzendingen kan deze verklaring op een douaneaangifteformulier voor de post of op een daaraan gehecht blad worden gesteld.
 
@@ -3326,7 +3348,7 @@ Wanneer, op verzoek van de importeur en op de door de douaneautoriteiten van de 
 
 4. Voor de toepassing van lid 3 wordt, wanneer de producten in een andere valuta dan in euro of de VS-dollar gefactureerd zijn, de tegenwaarde van de in euro of VS-dollar uitgedrukte bedragen in de nationale valuta van de partijen volgens de in de partij van invoer toepasselijke wisselkoers van dat moment vastgesteld.
 
-#### Artikel 22. Bewijsstukken
+##### Artikel 22. Bewijsstukken
 
 De in [artikel 16, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&afdeling=B&titeldeel=V&artikel=16&z=2016-01-01&g=2016-01-01), bedoelde documenten aan de hand waarvan wordt aangetoond dat producten waarvoor een bewijs van oorsprong is verstrekt, producten van oorsprong uit de EU of uit Korea zijn die aan de andere voorwaarden van dit protocol voldoen, kunnen onder meer de volgende zijn:
 
@@ -3340,7 +3362,7 @@ De in [artikel 16, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&afdeli
 
 - e. passende bewijsstukken inzake be- of verwerking buiten het grondgebied van de partijen overeenkomstig [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&afdeling=A&titeldeel=III&artikel=12&z=2016-01-01&g=2016-01-01), waaruit blijkt dat aan de eisen van dat artikel is voldaan.
 
-#### Artikel 23. Bewaring van het bewijs van oorsprong en de bewijsstukken
+##### Artikel 23. Bewaring van het bewijs van oorsprong en de bewijsstukken
 
 1. Exporteurs die een oorsprongsverklaring opstellen, bewaren gedurende vijf jaar een kopie van deze oorsprongsverklaring alsmede van de in [artikel 16, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&afdeling=B&titeldeel=V&artikel=16&z=2016-01-01&g=2016-01-01), bedoelde documenten.
 
@@ -3350,13 +3372,13 @@ De in [artikel 16, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&afdeli
 
 4. De ingevolge de leden 1 tot en met 3 te bewaren stukken kunnen ook elektronische documenten omvatten.
 
-#### Artikel 24. Verschillen en vormfouten
+##### Artikel 24. Verschillen en vormfouten
 
 1. Geringe verschillen tussen de gegevens op het bewijs van oorsprong en die op de documenten die voor het vervullen van de invoerformaliteiten bij de douaneautoriteiten worden ingediend, maken het bewijs van oorsprong niet automatisch ongeldig indien blijkt dat dit document wel degelijk met de aangebrachte goederen overeenstemt.
 
 2. Kennelijke vormfouten, zoals typefouten op een bewijs van oorsprong, mogen niet tot weigering van dit document leiden indien deze fouten niet van dien aard zijn dat zij twijfel doen rijzen over de juistheid van de daarin vermelde gegevens.
 
-#### Artikel 25. In euro uitgedrukte bedragen
+##### Artikel 25. In euro uitgedrukte bedragen
 
 1. Voor de toepassing van [artikel 16, lid 1, onder b)](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&afdeling=B&titeldeel=V&artikel=16&z=2016-01-01&g=2016-01-01), wordt, in gevallen waarin de producten gefactureerd zijn in een andere valuta dan de euro, de tegenwaarde van de in euro uitgedrukte bedragen in de nationale valuta van de lidstaten van de Europese Unie jaarlijks door de EU vastgesteld en aan Korea medegedeeld.
 
@@ -3370,11 +3392,11 @@ De in [artikel 16, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&afdeli
 
 ## TITEL VI. REGELINGEN VOOR ADMINISTRATIEVE SAMENWERKING
 
-#### Artikel 26. Uitwisseling van adressen
+##### Artikel 26. Uitwisseling van adressen
 
 De douaneautoriteiten van de partijen verstrekken elkaar, via de Europese Commissie, de adressen van de douaneautoriteiten die voor de controle van de bewijzen van oorsprong verantwoordelijk zijn.
 
-#### Artikel 27. Controle van de bewijzen van oorsprong
+##### Artikel 27. Controle van de bewijzen van oorsprong
 
 1. Met het oog op de correcte toepassing van dit protocol verlenen de partijen elkaar via hun douaneautoriteiten bijstand bij de controle van de echtheid van de bewijzen van oorsprong en de juistheid van de in deze documenten verstrekte inlichtingen.
 
@@ -3392,17 +3414,17 @@ De douaneautoriteiten van de partijen verstrekken elkaar, via de Europese Commis
 
 8. Onverminderd [artikel 2 van het Protocol betreffende wederzijdse administratieve bijstand in douanezaken](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&artikel=2&z=2016-01-01&g=2016-01-01) verwijzen de partijen naar [artikel 7 van dat protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&artikel=7&z=2016-01-01&g=2016-01-01) voor gezamenlijk onderzoek in verband met bewijzen van oorsprong.
 
-#### Artikel 28. Beslechting van geschillen
+##### Artikel 28. Beslechting van geschillen
 
 1. Geschillen ten aanzien van de in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&afdeling=B&titeldeel=VI&artikel=27&z=2016-01-01&g=2016-01-01) bedoelde controleprocedures die de douaneautoriteiten die om de controle verzoeken en de douaneautoriteiten die de controle moeten uitvoeren die niet onderling kunnen regelen, alsmede problemen in verband met de interpretatie van dit protocol worden voorgelegd aan het Douanecomité.
 
 2. Op de regeling van geschillen tussen de importeur en de douaneautoriteiten van de partij van invoer is in alle gevallen de wetgeving van de partij van invoer van toepassing.
 
-#### Artikel 29. Sancties
+##### Artikel 29. Sancties
 
 Er worden, in overeenstemming met de wetgeving van de partijen, sancties getroffen tegen eenieder die een document met onjuiste gegevens opstelt of laat opstellen met het doel een preferentiële behandeling voor producten te verkrijgen.
 
-#### Artikel 30. Vrije zones
+##### Artikel 30. Vrije zones
 
 1. De partijen nemen alle nodige maatregelen om te voorkomen dat producten die onder geleide van een bewijs van oorsprong worden verhandeld en die tijdens het vervoer in een op hun grondgebied gelegen vrije zone verblijven, door andere goederen worden vervangen of andere behandelingen ondergaan dan die welke gebruikelijk zijn om ze in goede staat te bewaren.
 
@@ -3412,7 +3434,7 @@ Er worden, in overeenstemming met de wetgeving van de partijen, sancties getroff
 
 ## TITEL VII. CEUTA EN MELILLA
 
-#### Artikel 31. Toepassing van het protocol
+##### Artikel 31. Toepassing van het protocol
 
 1. De term „EU” omvat niet Ceuta en Melilla.
 
@@ -3420,7 +3442,7 @@ Er worden, in overeenstemming met de wetgeving van de partijen, sancties getroff
 
 3. Voor de toepassing van lid 2 op producten van oorsprong uit Ceuta en Mellilla is dit protocol van overeenkomstige toepassing met inachtneming van de in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&afdeling=C&titeldeel=VII&artikel=32&z=2016-01-01&g=2016-01-01) opgenomen bijzondere voorwaarden.
 
-#### Artikel 32. Bijzondere voorwaarden
+##### Artikel 32. Bijzondere voorwaarden
 
 1. Mits zij rechtstreeks zijn vervoerd overeenkomstig het bepaalde in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&afdeling=A&titeldeel=III&artikel=13&z=2016-01-01&g=2016-01-01), worden beschouwd als:
 
@@ -3454,15 +3476,15 @@ Er worden, in overeenstemming met de wetgeving van de partijen, sancties getroff
 
 ## TITEL VIII. SLOTBEPALINGEN
 
-#### Artikel 33. Wijzigingen van het protocol
+##### Artikel 33. Wijzigingen van het protocol
 
 Het Handelscomité kan besluiten dit protocol te wijzigen.
 
-#### Artikel 34. Overgangsbepalingen voor de doorvoer of opslag van goederen
+##### Artikel 34. Overgangsbepalingen voor de doorvoer of opslag van goederen
 
 Deze overeenkomst kan worden toegepast op goederen die aan de bepalingen van dit protocol voldoen en die op de datum van inwerkingtreding van de overeenkomst in de partijen in doorvoer zijn of zich in tijdelijke opslag in een douane-entrepot of in een vrije zone bevinden, mits binnen 12 maanden na die datum een achteraf opgesteld bewijs van oorsprong bij de douaneautoriteiten van de partij van invoer wordt ingediend, tezamen met de documenten waaruit blijkt dat de goederen rechtstreeks zijn vervoerd overeenkomstig [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&afdeling=A&titeldeel=III&artikel=13&z=2016-01-01&g=2016-01-01).
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 Voor de toepassing van dit protocol wordt verstaan onder:
 
@@ -3476,7 +3498,7 @@ Voor de toepassing van dit protocol wordt verstaan onder:
 
 - e. met de douanewetgeving strijdige handeling: elke overtreding of poging tot overtreding van de douanewetgeving.
 
-#### Artikel 2. Toepassingsgebied
+##### Artikel 2. Toepassingsgebied
 
 1. De partijen verlenen elkaar bijstand om op de onder hun bevoegdheid vallende gebieden en op de wijze en voorwaarden die bij dit protocol zijn vastgesteld, een correcte toepassing van de douanewetgeving te waarborgen, in het bijzonder door met die wetgeving strijdige handelingen te voorkomen, op te sporen en te bestrijden.
 
@@ -3484,7 +3506,7 @@ Voor de toepassing van dit protocol wordt verstaan onder:
 
 3. Bijstand bij de invordering van rechten, heffingen en boetes valt niet onder dit protocol.
 
-#### Artikel 3. Bijstand op verzoek
+##### Artikel 3. Bijstand op verzoek
 
 1. Op aanvraag van de verzoekende autoriteit verstrekt de aangezochte autoriteit eerstgenoemde alle ter zake dienende informatie die deze nodig heeft om erop toe te zien dat de douanewetgeving correct wordt toegepast, met inbegrip van informatie betreffende vastgestelde of voorgenomen activiteiten die met deze wetgeving strijdige handelingen zijn of kunnen zijn.
 
@@ -3504,7 +3526,7 @@ Voor de toepassing van dit protocol wordt verstaan onder:
 
 - d. vervoermiddelen die op zodanige wijze worden of kunnen worden gebruikt dat redelijkerwijs kan worden vermoed dat zij bedoeld zijn om te worden gebruikt bij met de douanewetgeving strijdige handelingen.
 
-#### Artikel 4. Ongevraagde bijstand
+##### Artikel 4. Ongevraagde bijstand
 
 De partijen verlenen elkaar, in overeenstemming met hun wettelijke en bestuursrechtelijke bepalingen, op eigen initiatief bijstand indien zij dit noodzakelijk achten voor de correcte toepassing van de douanewetgeving, in het bijzonder indien zij informatie hebben verkregen over:
 
@@ -3518,7 +3540,7 @@ De partijen verlenen elkaar, in overeenstemming met hun wettelijke en bestuursre
 
 - e. vervoermiddelen waarvan redelijkerwijs kan worden vermoed dat zij zijn, worden of kunnen worden gebruikt bij met de douanewetgeving strijdige handelingen.
 
-#### Artikel 5. Verstrekking van documenten en kennisgeving van besluiten
+##### Artikel 5. Verstrekking van documenten en kennisgeving van besluiten
 
 Op aanvraag van de verzoekende autoriteit neemt de aangezochte autoriteit, in overeenstemming met haar wettelijke en bestuursrechtelijke bepalingen, alle maatregelen die nodig zijn voor
 
@@ -3530,7 +3552,7 @@ van de verzoekende autoriteit in verband met de toepassing van dit protocol aan 
 
 Verzoeken om de verstrekking van documenten of de kennisgeving van besluiten worden schriftelijk aan de aangezochte autoriteit gericht in een officiële taal van die autoriteit of in een voor die autoriteit aanvaardbare taal.
 
-#### Artikel 6. Vorm en inhoud van verzoeken om bijstand
+##### Artikel 6. Vorm en inhoud van verzoeken om bijstand
 
 1. Verzoeken in het kader van dit protocol worden schriftelijk gedaan. Zij gaan vergezeld van de documenten die voor de behandeling van het verzoek noodzakelijk zijn. In spoedeisende gevallen kunnen verzoeken ook mondeling worden gedaan, mits zij onmiddellijk schriftelijk worden bevestigd.
 
@@ -3552,7 +3574,7 @@ Verzoeken om de verstrekking van documenten of de kennisgeving van besluiten wor
 
 4. Indien een verzoek niet aan de hierboven vermelde vormvereisten voldoet, kan worden verzocht het te corrigeren of aan te vullen; in de tussentijd kan opdracht worden gegeven tot conservatoire maatregelen.
 
-#### Artikel 7. Uitvoering van verzoeken
+##### Artikel 7. Uitvoering van verzoeken
 
 1. Binnen de grenzen van haar bevoegdheden en de haar ten dienste staande middelen behandelt de aangezochte autoriteit een verzoek om bijstand alsof zij voor eigen rekening of op verzoek van een andere autoriteit van dezelfde partij handelt, en verstrekt zij de al beschikbare informatie en verricht zij het nodige onderzoek of laat zij dit verrichten. Deze bepaling is eveneens van toepassing op instanties waaraan de aangezochte autoriteit het verzoek doorstuurt wanneer zij dit niet zelf kan afhandelen.
 
@@ -3562,7 +3584,7 @@ Verzoeken om de verstrekking van documenten of de kennisgeving van besluiten wor
 
 4. Daartoe gemachtigde ambtenaren van een betrokken partij kunnen, met instemming van de andere betrokken partij en op de door deze gestelde voorwaarden, aanwezig zijn bij onderzoek dat op het gebied van laatstgenoemde wordt verricht.
 
-#### Artikel 8. Vorm waarin de informatie moet worden verstrekt
+##### Artikel 8. Vorm waarin de informatie moet worden verstrekt
 
 1. De aangezochte autoriteit deelt de uitslag van het ingestelde onderzoek schriftelijk aan de verzoekende autoriteit mede en voegt daarbij de relevante documenten, gewaarmerkte afschriften of andere stukken.
 
@@ -3570,7 +3592,7 @@ Verzoeken om de verstrekking van documenten of de kennisgeving van besluiten wor
 
 3. Originelen van documenten worden uitsluitend op verzoek verstrekt wanneer gewaarmerkte afschriften niet toereikend zijn. Deze originelen worden ten spoedigste geretourneerd.
 
-#### Artikel 9. Gevallen waarin geen bijstand behoeft te worden verleend
+##### Artikel 9. Gevallen waarin geen bijstand behoeft te worden verleend
 
 1. Bijstand kan worden geweigerd of van bepaalde voorwaarden of eisen afhankelijk worden gesteld wanneer een partij van oordeel is dat bijstand op grond van dit protocol:
 
@@ -3586,7 +3608,7 @@ Verzoeken om de verstrekking van documenten of de kennisgeving van besluiten wor
 
 4. In de in de leden 1 en 2 bedoelde gevallen moeten het besluit van de aangezochte autoriteit en de redenen ervan onverwijld aan de verzoekende autoriteit worden medegedeeld.
 
-#### Artikel 10. Doorgifte van informatie en geheimhoudingsplicht
+##### Artikel 10. Doorgifte van informatie en geheimhoudingsplicht
 
 1. Alle informatie die, in welke vorm dan ook, op grond van dit protocol wordt verstrekt, heeft een vertrouwelijk karakter of is alleen bestemd voor beperkte verspreiding, afhankelijk van de toepasselijke voorschriften van elk van de partijen. De verstrekte gegevens vallen onder de geheimhoudingsplicht en genieten de bescherming die door de desbetreffende wetgeving van de ontvangende partij, dan wel door de desbetreffende bepalingen die op de instellingen van de Europese Unie van toepassing zijn, aan dergelijke gegevens wordt geboden.
 
@@ -3596,21 +3618,21 @@ Verzoeken om de verstrekking van documenten of de kennisgeving van besluiten wor
 
 4. De verkregen informatie wordt uitsluitend voor de toepassing van dit protocol gebruikt. Indien een van de partijen dergelijke informatie voor andere doeleinden wenst te gebruiken, moet zij de autoriteit die de informatie heeft verstrekt vooraf om schriftelijke toestemming vragen. Voor dit gebruik gelden dan de eventueel door deze instantie vastgestelde beperkingen.
 
-#### Artikel 11. Deskundigen en getuigen
+##### Artikel 11. Deskundigen en getuigen
 
 Een onder een aangezochte autoriteit ressorterende ambtenaar kan worden gemachtigd om, binnen de grenzen van de hem verleende machtiging, als deskundige of getuige te verschijnen in gerechtelijke of administratieve procedures betreffende onder dit protocol vallende aangelegenheden en daarbij de voor de procedure noodzakelijke voorwerpen, documenten of gewaarmerkte afschriften voor te leggen. In de dagvaarding dient uitdrukkelijk te worden vermeld voor welke rechterlijke of administratieve instantie de ambtenaar moet verschijnen en over welke aangelegenheid en in welke functie of hoedanigheid hij zal worden ondervraagd.
 
-#### Artikel 12. Kosten van de bijstand
+##### Artikel 12. Kosten van de bijstand
 
 De partijen brengen elkaar geen kosten in rekening voor uitgaven die op grond van dit protocol worden gedaan, met uitzondering van eventuele uitgaven voor deskundigen en getuigen en voor tolken en vertalers die niet in overheidsdienst zijn.
 
-#### Artikel 13. Tenuitvoerlegging
+##### Artikel 13. Tenuitvoerlegging
 
 1. Dit protocol wordt ten uitvoer gelegd door de douaneautoriteiten van Korea, enerzijds, en de bevoegde diensten van de Europese Commissie en, in voorkomend geval, de douaneautoriteiten van de lidstaten van de Europese Unie, anderzijds. Zij stellen alle voor de toepassing van dit protocol noodzakelijke praktische maatregelen en regelingen vast, rekening houdend met de geldende voorschriften, met name op het gebied van de gegevensbescherming. Zij kunnen de bevoegde instanties aanbevelingen doen over wijzigingen die naar hun oordeel in dit protocol moeten worden aangebracht.
 
 2. De partijen plegen onderling overleg en lichten elkaar in over alle uitvoeringsbepalingen die zij op grond van dit protocol vaststellen.
 
-#### Artikel 14. Andere overeenkomsten
+##### Artikel 14. Andere overeenkomsten
 
 1. Met inachtneming van de respectieve bevoegdheden van de Europese Unie en de lidstaten van de Europese Unie:
 
@@ -3646,7 +3668,7 @@ Erop wijzend dat de culturele samenwerking tussen de partijen moet worden vergem
 
 Komen het volgende overeen:
 
-#### Artikel 1. Toepassingsgebied, doelstellingen en definities
+##### Artikel 1. Toepassingsgebied, doelstellingen en definities
 
 1. Onverminderd de andere bepalingen van deze overeenkomst stelt dit protocol het kader vast waarbinnen de partijen samenwerken om de uitwisseling van culturele activiteiten, goederen en diensten, onder meer in de audiovisuele sector, te vergemakkelijken.
 
@@ -3660,13 +3682,13 @@ gelden voor culturele diversiteit, culturele inhoud, cultuuruitingen, culturele 
 
 ### AFDELING A. HORIZONTALE BEPALINGEN
 
-#### Artikel 2. Culturele uitwisseling en dialoog
+##### Artikel 2. Culturele uitwisseling en dialoog
 
 1. De partijen streven ernaar hun capaciteit voor de vaststelling en ontwikkeling van hun cultuurbeleid te cultiveren, hun cultuurindustrie te ontwikkelen en meer mogelijkheden te bieden voor de uitwisseling van culturele goederen en diensten van de partijen, onder meer door ervoor te zorgen dat aanspraak kan worden gemaakt op regelingen ter bevordering van plaatselijke en regionale culturele inhoud.
 
 2. De partijen werken samen bij de bevordering van de ontwikkeling van een gemeenschappelijke benadering en een ruimere uitwisseling van informatie, zowel op het gebied van culturele en audiovisuele aangelegenheden door middel van een dialoog, als op het gebied van goede praktijken bij de bescherming van de intellectuele-eigendomsrechten. Deze dialoog vindt plaats in het Comité voor culturele samenwerking en, waar en wanneer nodig, in andere relevante fora.
 
-#### Artikel 3. Comité voor culturele samenwerking
+##### Artikel 3. Comité voor culturele samenwerking
 
 1. Uiterlijk zes maanden na de toepassing van dit protocol wordt een Comité voor culturele samenwerking opgericht. Dit comité bestaat uit hoge ambtenaren uit de overheidsdiensten van elk van beide partijen, die over deskundigheid en ervaring op het gebied van culturele aangelegenheden en praktijken beschikken.
 
@@ -3680,7 +3702,7 @@ gelden voor culturele diversiteit, culturele inhoud, cultuuruitingen, culturele 
 
 6. Een partij kan om overleg met de andere partij in het Comité voor culturele samenwerking verzoeken over aangelegenheden van wederzijds belang die zich in verband met dit protocol voordoen. Het comité komt in dat geval onverwijld bijeen en stelt alles in het werk om een voor beide partijen bevredigende oplossing te vinden. Het kan daarbij aan de interne adviesgroep(en) van een van de partijen of van beide partijen advies vragen en elk van beide partijen kan zijn eigen interne adviesgroep(en) om advies vragen.
 
-#### Artikel 3 bis. Beslechting van geschillen
+##### Artikel 3 bis. Beslechting van geschillen
 
 Tenzij de partijen anders overeenkomen, en alleen wanneer een in [artikel 3, lid 6](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&afdeling=A&artikel=3&z=2016-01-01&g=2016-01-01), van dit protocol bedoelde aangelegenheid niet op bevredigende wijze kon worden opgelost door middel van de in dat artikel beschreven overlegprocedure, is [hoofdstuk veertien](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=VEERTIEN&z=2016-01-01&g=2016-01-01) (Beslechting van geschillen) op dit protocol van toepassing, met inachtneming van de volgende wijzigingen:
 
@@ -3694,7 +3716,7 @@ Tenzij de partijen anders overeenkomen, en alleen wanneer een in [artikel 3, lid
 
 - e. onverminderd [artikel 14.11, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=VEERTIEN&afdeling=C&paragraaf=B&artikel=14.11&z=2016-01-01&g=2016-01-01), mag de klagende partij geen uit dit protocol voortvloeiende verplichtingen opschorten bij geschillen die zich niet in verband met dit protocol voordoen.
 
-#### Artikel 4. Kunstenaars en andere professionals uit de cultuursector en cultuurbeoefenaars
+##### Artikel 4. Kunstenaars en andere professionals uit de cultuursector en cultuurbeoefenaars
 
 1. De partijen streven naar vergemakkelijking, in overeenstemming met hun respectieve wetgeving, van de toegang tot en het tijdelijke verblijf op hun grondgebied van kunstenaars en andere professionals uit de cultuursector en cultuurbeoefenaars uit de andere partij, die niet in aanmerking komen voor voordelen uit ingevolge [hoofdstuk zeven](https://wetten.overheid.nl/jci1.3:c:BWBV0005188&hoofdstuk=ZEVEN&z=2016-01-01&g=2016-01-01) (Handel in diensten, vestiging en elektronische handel) aangegane verbintenissen en die:
 
@@ -3720,7 +3742,7 @@ mits zij hun diensten niet aan het grote publiek verkopen of deze niet zelf verl
 
 #### ONDERAFDELING A. BEPALINGEN BETREFFENDE AUDIOVISUELE WERKEN
 
-#### Artikel 5. Audiovisuele coproducties
+##### Artikel 5. Audiovisuele coproducties
 
 1. Voor de toepassing van dit protocol wordt onder coproductie verstaan een audiovisueel werk dat door producenten uit Korea en de EU gezamenlijk wordt geproduceerd en waarin die producenten in overeenstemming met dit protocol hebben geïnvesteerd1)In Korea worden coproducties erkend volgens een procedure die voor radio- en televisieprogramma’s door de Koreaanse Communicatiecommissie en voor films door de Koreaanse Filmraad wordt afgewikkeld. Deze erkenningsprocedure bestaat slechts uit een technische controle om te zien of de coproductie aan de criteria van lid 6 voldoet. Alle coproducties die aan die criteria voldoen, worden erkend..
 
@@ -3758,7 +3780,7 @@ mits zij hun diensten niet aan het grote publiek verkopen of deze niet zelf verl
 
 10. Op voorwaarde dat zij ten minste twee maanden van tevoren hiervan kennis geeft, kan een partij het recht van aanspraak op haar in de leden 4 en 5 bedoelde regeling(en) voor de bevordering van plaatselijke en regionale culturele inhoud opschorten indien de rechten die op grond van deze leden aan coproducties zijn voorbehouden negatief beïnvloed worden door een wijziging van de in deze leden bedoelde wetgeving door de andere partij. Voordat zij tot opschorting overgaat, bespreekt en onderzoekt de kennisgevende partij in het Comité voor culturele samenwerking samen met de andere partij de aard en gevolgen van de wetswijzigingen.
 
-#### Artikel 6. Andere audiovisuele samenwerking
+##### Artikel 6. Andere audiovisuele samenwerking
 
 1. De partijen streven ernaar audiovisuele werken van de andere partij door de organisatie van festivals, seminars en dergelijke initiatieven te bevorderen.
 
@@ -3778,7 +3800,7 @@ mits zij hun diensten niet aan het grote publiek verkopen of deze niet zelf verl
 
 5. De partijen streven ernaar de digitalisering van audiovisuele archieven te vergemakkelijken.
 
-#### Artikel 7. Tijdelijke invoer van materiaal en uitrusting voor de opname van audiovisuele werken
+##### Artikel 7. Tijdelijke invoer van materiaal en uitrusting voor de opname van audiovisuele werken
 
 1. Elk van beide partijen stimuleert waar passend de bevordering van zijn grondgebied als locatie voor de opname van speelfilms en televisieprogramma’s.
 
@@ -3786,7 +3808,7 @@ mits zij hun diensten niet aan het grote publiek verkopen of deze niet zelf verl
 
 #### ONDERAFDELING B. BEVORDERING VAN CULTURELE SECTOREN ANDERE DAN DE AUDIOVISUELE SECTOR
 
-#### Artikel 8. Uitvoerende kunsten
+##### Artikel 8. Uitvoerende kunsten
 
 1. De partijen vergemakkelijken door middel van passende programma’s en in overeenstemming met hun respectieve wetgeving de totstandbrenging van nauwere contacten tussen beoefenaren van de uitvoerende kunsten op gebieden als beroepsuitwisselingen en -opleiding, onder meer ten aanzien van de deelname aan audities, de ontwikkeling van netwerken en de bevordering van netwerking.
 
@@ -3794,7 +3816,7 @@ mits zij hun diensten niet aan het grote publiek verkopen of deze niet zelf verl
 
 3. De partijen stimuleren de ontwikkeling van internationale normen op het gebied van de theatertechnologie en de voor toneeluitvoeringen gebruikte tekens, onder meer via passende normalisatie-instellingen. Zij vergemakkelijken hiertoe de samenwerking.
 
-#### Artikel 9. Publicaties
+##### Artikel 9. Publicaties
 
 De partijen vergemakkelijken, in overeenstemming met hun respectieve wetgeving, de uitwisseling van publicaties met de andere partij en de verspreiding van publicaties van de andere partij door, onder meer:
 
@@ -3804,6 +3826,6 @@ De partijen vergemakkelijken, in overeenstemming met hun respectieve wetgeving, 
 
 - c. de vergemakkelijking van beroepsuitwisselingen en -opleiding voor bibliothecarissen, schrijvers, vertalers, boekhandelaren en uitgevers.
 
-#### Artikel 10. Bescherming van cultureel erfgoed en historische monumenten
+##### Artikel 10. Bescherming van cultureel erfgoed en historische monumenten
 
 De partijen stimuleren, in overeenstemming met hun respectieve wetgeving en onverminderd de voorbehouden in hun verbintenissen in de andere bepalingen van deze overeenkomst, door middel van passende programma’s de uitwisseling van kennis en goede praktijken betreffende de bescherming van cultureel erfgoed en historische monumenten met het oog op de werelderfgoedlijst van de Unesco; hiertoe bevorderen zij de uitwisseling van deskundigen, werken zij samen op het gebied van beroepsopleiding, organiseren zij bewustmakingscampagnes onder de plaatselijke bevolking en adviseren zij over de bescherming van historische monumenten en beschermde zones en over wetgeving en maatregelen inzake het culturele erfgoed, en met name de integratie van dat erfgoed in het lokale leven.

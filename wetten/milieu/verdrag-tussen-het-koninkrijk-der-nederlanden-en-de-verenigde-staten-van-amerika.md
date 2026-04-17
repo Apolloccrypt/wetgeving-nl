@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika inzake samenwerking bij de veiligheid van de burgerluchtvaart"
 identifier: "BWBV0006162"
-categorie: "Milieu"
-publicatiedatum: 2014-02-01
-laatste_update: 2014-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006162"
+country: "nl"
+rank: "verdrag"
+publication_date: "2014-02-01"
+last_updated: "2014-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006162"
+soort: "verdrag"
+stam_id: "10005065563"
+version_id: "10005401292"
+internal_id: "C10008518961"
+label_id: "10005048504"
+dtd_version: "2.0"
+original_entry_into_force: "2014-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006162/2014-02-01/0"
+intitule_bron: "Trb.2013-86"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2013-05-27"
+intitule_in_force: "2014-01-30"
+intitule_status: "goed"
+original_publication: "Trb.2013-86"
+original_published_date: "2013-05-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2013-86"
+entry_into_force_date: "2014-02-01"
+jci_1_3: "jci1.3:c:BWBV0006162&z=2014-02-01&g=2014-02-01"
+jci_1_0: "1.0:c:BWBV0006162&g=2014-02-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2014-02-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika inzake samenwerking bij de veiligheid van de burgerluchtvaart
 
 The Kingdom of the Netherlands and the United States of America (hereinafter referred to collectively as the “Parties” and individually as a “Party”);
@@ -24,7 +46,7 @@ Seeking to promote continued cooperation in the orderly, efficient, and safe con
 
 Have agreed as follows:
 
-#### Article I
+##### Article I
 
 1. The Agencies responsible for implementing this Agreement on behalf of the Parties (hereinafter the “Implementing Authorities”) shall be:
 
@@ -54,19 +76,19 @@ In respect of Curaçao and the Netherlands island of Bonaire: the Dutch Caribbea
 
 - D. The exchange of information on the regulation and oversight of aviation safety.
 
-#### Article II
+##### Article II
 
 Each of the Implementing Authorities of the Kingdom of the Netherlands, on the one hand, and the FAA, on the other, shall take the necessary measures to assure continual cooperation with respect to safety of civil aviation in, but not limited to, managerial, operational, and technical areas.
 
-#### Article III
+##### Article III
 
 Any activities undertaken pursuant to this Agreement shall be subject to the availability of funds and resources of the Implementing Authorities of the Parties. Any contractual agreements or other arrangements referred to in [Article I.3](https://wetten.overheid.nl/jci1.3:c:BWBV0006162&artikel=I&z=2014-02-01&g=2014-02-01), shall specify that all activities implementing this Agreement shall be subject to the availability of funds and resources of the Implementing Authorities.
 
-#### Article IV
+##### Article IV
 
 Any equipment imported into the Kingdom of the Netherlands by the FAA pursuant to the contractual agreements or arrangements referred to in [Article I.3](https://wetten.overheid.nl/jci1.3:c:BWBV0006162&artikel=I&z=2014-02-01&g=2014-02-01), shall be exempt from custom tax or tariffs.
 
-#### Article V
+##### Article V
 
 1. Subject to paragraph 2 of this Article, the Government of Aruba, the Government of Curaçao, the Government of Sint Maarten, and the Government of the Netherlands, as the case may be, acting on behalf of the Kingdom of the Netherlands, shall hold the Government of the United States of America, any agency, contractor or employee thereof harmless from any and all claims and legal proceedings arising out of work performed on behalf of, or equipment provided to, Aruba, Curaçao, Sint Maarten and the Caribbean part of the Netherlands pursuant to this Agreement and any contractual agreement or arrangement referred to in [Article I.3.C](https://wetten.overheid.nl/jci1.3:c:BWBV0006162&artikel=I&z=2014-02-01&g=2014-02-01).
 
@@ -74,23 +96,23 @@ Any equipment imported into the Kingdom of the Netherlands by the FAA pursuant t
 
 3. Contractual claims shall be settled by the arrangements set forth in the respective contracts.
 
-#### Article VI
+##### Article VI
 
 Each Party and its Implementing Authorities may at any time request consultations relating to this Agreement with the other Party or its Implementing Authorities. Such consultations shall begin at the earliest possible date, but not later than 60 days from the date the other Implementing Authority or Party receives the request unless otherwise agreed. Requests for consultations shall be forwarded through diplomatic channels.
 
-#### Article VII
+##### Article VII
 
 1. Any amendments to this Agreement shall be mutually agreed upon by the Parties and shall come into force on the date on which the Parties have informed each other in writing, through the exchange of diplomatic notes, of the completion of their respective internal procedures for entry into force of the amendment.
 
 2. The Implementing Authorities may agree in writing to amend any contractual agreement or non-binding arrangement referred to in [Article I.3](https://wetten.overheid.nl/jci1.3:c:BWBV0006162&artikel=I&z=2014-02-01&g=2014-02-01)**.**
 
-#### Article VIII
+##### Article VIII
 
 1. Any disagreement concerning the interpretation or application of this Agreement shall be resolved by consultation between the Parties and shall not be referred to any international tribunal, arbitration, or third party for settlement.
 
 2. The Parties shall ensure that any disagreement concerning the interpretation or application of the contractual agreements or arrangements referred to in [Article I.3](https://wetten.overheid.nl/jci1.3:c:BWBV0006162&artikel=I&z=2014-02-01&g=2014-02-01) shall be resolved by consultation between the appropriate authorities of the Parties and shall not be referred to any international tribunal, arbitration, or third party for settlement.
 
-#### Article IX
+##### Article IX
 
 1. Pending its entry into force, this Agreement shall be applied provisionally from the date of its signature.
 

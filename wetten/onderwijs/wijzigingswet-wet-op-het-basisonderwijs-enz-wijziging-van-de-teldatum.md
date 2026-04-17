@@ -1,14 +1,38 @@
 ---
-title: "Wijzigingswet Wet op het basisonderwijs, enz. (wijziging van de teldatum)"
+title: "Wet van 28 oktober 1991, houdende wijziging van de Wet op het basisonderwijs en de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs in verband met wijziging van de teldatum"
 identifier: "BWBR0005243"
-categorie: "Onderwijs"
-publicatiedatum: 2013-07-04
-laatste_update: 2013-07-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005243"
+country: "nl"
+rank: "wet"
+publication_date: "2013-07-04"
+last_updated: "2013-07-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005243"
+soort: "wet"
+stam_id: "548373"
+version_id: "800522"
+internal_id: "C800521"
+label_id: "532384"
+dtd_version: "2.0"
+original_entry_into_force: "1991-11-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005243/2013-07-04/0"
+intitule_bron: "Stb.1991-543"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1991-10-28"
+intitule_status: "goed"
+original_publication: "Stb.1991-543"
+original_signed_date: "1991-10-28"
+original_effect: "nieuwe-regeling"
+original_dossier: "22106"
+entry_into_force_date: "1991-11-08"
+entry_into_force_dossier: "22106"
+jci_1_3: "jci1.3:c:BWBR0005243&z=2013-07-04&g=2013-07-04"
+jci_1_0: "1.0:c:BWBR0005243&g=2013-07-04"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet Wet op het basisonderwijs, enz. (wijziging van de teldatum)"
+signed_date: "1991-10-28"
+entry_into_force: "1991-11-08"
 ---
-
-# Wijzigingswet Wet op het basisonderwijs, enz. (wijziging van de teldatum)
+# Wet van 28 oktober 1991, houdende wijziging van de Wet op het basisonderwijs en de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs in verband met wijziging van de teldatum
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,39 +42,39 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs omgezet naar de daarmee overeenkomende verwijzingen naar artikelen van de Wet op het primair onderwijs en Wet op de expertisecentra.
 
-#### Artikel I
+##### Artikel I
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel II
+##### Artikel II
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel III
+##### Artikel III
 
 Vervallen
 
-#### Artikel IV
+##### Artikel IV
 
 Vervallen
 
-#### Artikel V
+##### Artikel V
 
 Vervallen
 
-#### Artikel VI
+##### Artikel VI
 
 Vervallen
 
-#### Artikel VII
+##### Artikel VII
 
 Vervallen
 
-#### Artikel VIII
+##### Artikel VIII
 
 Vervallen
 
-#### Artikel IX
+##### Artikel IX
 
 1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst.
 

@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst tussen de Europese Economische Gemeenschap (EEG) en België, Denemarken, de Bondsrepubliek Duitsland, Frankrijk, Ierland, Italië, Luxemburg, Nederland en het Verenigd Koninkrijk, Lid-Staten van deze Gemeenschap (Lid-Staten), enerzijds en de Internationale Ontwikkelingsassociatie (Associatie) anderzijds"
 identifier: "BWBV0003396"
-categorie: "Internationaal recht"
-publicatiedatum: 1979-01-01
-laatste_update: 1979-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003396"
+country: "nl"
+rank: "verdrag"
+publication_date: "1979-01-01"
+last_updated: "1979-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003396"
+soort: "verdrag"
+stam_id: "10003511783"
+version_id: "10003559252"
+internal_id: "C10006980971"
+label_id: "10003497374"
+dtd_version: "2.0"
+original_entry_into_force: "1979-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003396/1979-01-01/0"
+intitule_bron: "Trb.1978-97"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1978-07-31"
+intitule_in_force: "1979-03-30"
+intitule_status: "goed"
+original_publication: "Trb.1978-97"
+original_published_date: "1978-07-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1978-97"
+entry_into_force_date: "1979-01-01"
+jci_1_3: "jci1.3:c:BWBV0003396&z=1979-01-01&g=1979-01-01"
+jci_1_0: "1.0:c:BWBV0003396&g=1979-01-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1979-01-01"
 ---
-
 # Overeenkomst tussen de Europese Economische Gemeenschap (EEG) en België, Denemarken, de Bondsrepubliek Duitsland, Frankrijk, Ierland, Italië, Luxemburg, Nederland en het Verenigd Koninkrijk, Lid-Staten van deze Gemeenschap (Lid-Staten), enerzijds en de Internationale Ontwikkelingsassociatie (Associatie) anderzijds
 
 Overwegende dat:
@@ -24,11 +46,11 @@ Komen de partijen het volgende overeen:
 
 ### AFDELING I. Opening en beheer van de Speciale-Actierekening
 
-#### Artikel 1
+##### Artikel 1
 
 Hierbij wordt door de Associatie een speciale rekening geopend onder de naam „Speciale-Actierekening” bestaande uit de gelden die de Lid-Staten zullen bijdragen aan de Speciale-Actierekening overeenkomstig de bepalingen van deze Overeenkomst, welke wordt beheerd en gebruikt door de Associatie, die als beheerder optreedt (de Associatie in die hoedanigheid wordt hierna de Beheerder genoemd), uitsluitend voor de toepassing van, en in overeenstemming met, de bepalingen van deze Overeenkomst. De Speciale-Actierekening wordt afzonderlijk en gescheiden gehouden van alle andere rekeningen en activa van de Associatie.
 
-#### Artikel 2
+##### Artikel 2
 
 Elke Lid-Staat levert een bijdrage aan de Speciale-Actierekening in een bedrag van zijn eigen valuta dat op de datum van ondertekening van deze Overeenkomst gelijk is aan het bedrag in US-dollar dat hieronder naast zijn naam is aangegeven.
 
@@ -45,7 +67,7 @@ Elke Lid-Staat levert een bijdrage aan de Speciale-Actierekening in een bedrag v
 | Verenigd Koninkrijk | 115,00 |
 |   | 385,00. |
 
-#### Artikel 3
+##### Artikel 3
 
 De betaling van elke bijdrage geschiedt als volgt:
 
@@ -59,13 +81,13 @@ De betaling van elke bijdrage geschiedt als volgt:
 
 - c). De Lid-Staat die dat wenst, kan zijn betalingen eerder doen dan boven aangegeven.
 
-#### Artikel 4
+##### Artikel 4
 
 De Beheerder neemt gelden op uit de in contanten of in promessen beschikbaar gestelde bedragen op min of meer **pro rata** -basis in overeenstemming met de normale procedures van de Associatie ten einde de nodige Speciale-Actiekredieten uit te betalen en een redelijk werksaldo op de Speciale-Actierekening te handhaven.
 
 ### AFDELING II. Gebruik van de Speciale-Actierekening
 
-#### Artikel 1
+##### Artikel 1
 
 Alle bedragen die in het credit van de Speciale-Actierekening worden geboekt, worden, in overeenstemming met de door de EEG gestelde voorwaarden, door de Beheerder uitsluitend gebruikt om Speciale-Actiekredieten te verlenen aan lid-landen van de Associatie met geringe inkomsten die onmiddellijk behoeften hebben, in het bijzonder onder de minst ontwikkelde1)Zoals deze termen van tijd tot tijd worden omschreven in of ingevolge resoluties van de Algemene Vergadering van de Verenigde Naties.en de meest getroffen1)Zoals deze termen van tijd tot tijd worden omschreven in of ingevolge resoluties van de Algemene Vergadering van de Verenigde Naties. ontwikkelingslanden, waarvan de ontwikkelingsvooruitzichten door externe factoren ernstig zijn beperkt en die te kampen hebben met algemene problemen op het gebied van de overdracht van middelen en die als gevolg daarvan voor moeilijkheden kunnen komen te staan bij de schulden dienst. Bij het toekennen van deze kredieten zal de Beheerder zich, in overeenstemming met de door de EEG gestelde voorwaarden, laten leiden door de volgende factoren:
 
@@ -83,73 +105,73 @@ Alle bedragen die in het credit van de Speciale-Actierekening worden geboekt, wo
 
 - vii). de mate waarin de problemen van de betrokken landen zouden kunnen worden opgelost via bijdragen uit andere bronnen.
 
-#### Artikel 2
+##### Artikel 2
 
 Elk Speciale-Actiekrediet wordt verleend voor de financiering van duidelijk identificeerbare, snel te betalen ontwikkelingsprogramma's of -projecten (inclusief sectoriële projecten) die, ongeacht of zij al dan niet in het eigen leningsprogramma van de Associatie zijn opgenomen, worden beoordeeld, goedgekeurd en beheerd overeenkomstig de procedures en gebruiken die gelden voor de ontwikkelingskredieten uit de gewone middelen van de Associatie, waarbij rekening wordt gehouden met de doelstelling van het aanvullende karakter van de steun, bedoeld in punt b) van de preambule van deze Overeenkomst. De middelen van de Speciale-Actierekening worden niet gebruikt ter vervanging van de gewone middelen van de Internationale Bank voor Herstel en Ontwikkeling (de Bank) of van de Associatie die zijn vastgesteld voor een lening of krediet voor een programma of project dat, op de datum waarop deze Overeenkomst van kracht wordt, zal zijn goedgekeurd door de uitvoerende directeuren van de Bank of de Associatie.
 
-#### Artikel 3
+##### Artikel 3
 
 Behoudens het bepaalde in artikel 4 zijn de voorwaarden voor de terugbetaling van elk Speciale-Actiekrediet dezelfde als die welke in de regel gelden voor door de Associatie verleende ontwikkelingskredieten, dat wil zeggen dat het krediet over een periode van vijftig jaar moet worden terugbetaald met een respijt van tien jaar. De Speciale-Actiekredieten dragen geen rente.
 
-#### Artikel 4
+##### Artikel 4
 
 De Speciale-Actiekredieten worden verleend in een of meer valuta's van de Lid-Staten en moeten in die valuta's worden terugbetaald.
 
-#### Artikel 5
+##### Artikel 5
 
 In overeenstemming met de normale procedures van de Associatie is de Beheerder gemachtigd van iedere kredietnemer in het kader van een Speciale-Actiekrediet te verlangen dat hij de Associatie provisiekosten betaalt tegen een bedrag van drievierde van één procent (3/4 van 1%) per jaar, betaalbaar in een voor de Associatie aanvaardbare valuta, op het hoofdbedrag van het opgenomen en op een bepaald moment uitstaande krediet, ter compensatie van de uit hoofde van de overeenkomst verleende diensten. De bedragen voor deze provisie worden rechtstreeks aan de Associatie betaald en door de Associatie behouden.
 
-#### Artikel 6
+##### Artikel 6
 
 Ten bewijze van elk Speciale-Actiekrediet wordt een afzonderlijke kredietovereenkomst gesloten tussen het kredietnemende land en de Beheerder, waarin met name de oorsprong van de middelen wordt aangegeven.
 
-#### Artikel 7
+##### Artikel 7
 
 De opbrengsten van elk Speciale-Actiekrediet mogen worden gebruikt voor uitgaven in de valuta van het kredietnemende land of voor goederen geproduceerd in of diensten verleend vanuit i) een van de Lid-Staten; ii) tot de Associatie behorende ontwikkelingslanden die voor een Speciale-Actiekrediet in aanmerking zouden kunnen komen, zoals door de Beheerder ten tijde van de goedkeuring van het krediet vastgesteld.
 
-#### Artikel 8
+##### Artikel 8
 
 De terugbetalingen van de hoofdsom van de Speciale-Actiekredieten worden betaalbaar gesteld aan de Speciale-Actierekening en het aldus terugbetaalde bedrag in de valuta van een Lid-Staat wordt zo spoedig mogelijk daarna door de Beheerder aan deze Lid-Staat overgedragen. De Associatie is niet aansprakelijk voor tekorten in de terugbetaling van de Speciale-Actiekredieten.
 
 ### AFDELING III. Verslagen; overleg
 
-#### Artikel 1
+##### Artikel 1
 
 Totdat alle Speciale-Actiekredieten zijn vastgelegd, houdt de Beheerder de EEG op de hoogte van de projecten en programma's die ter beoordeling door de uitvoerende directeuren worden voorbereid en van die welke door de uitvoerende directeuren zijn goedgekeurd. Tijdens de periode waarin de Speciale-Actiekredieten worden besteed, stelt de Beheerder de EEG elk kwartaal in kennis van de stand van de Speciale-Actiekredieten en van de bestedingen uit hoofde daarvan. Zo spoedig mogelijk na het einde van elk boekjaar van de Associatie verstrekt de Beheerder de EEG een gedetailleerd overzicht van de Speciale-Actierekening te zamen met een advies van de externe accountants van de Associatie zelf over dat overzicht. Nadat de Speciale-Actiekredieten volledig zijn besteed, verstrekt de Beheerder de EEG zo spoedig mogelijk een gedetailleerd verslag over de projecten en programma's die uit de Speciale-Actierekening zijn gefinancierd.
 
-#### Artikel 2
+##### Artikel 2
 
 De Beheerder zal een passende boekhouding instellen en bijhouden om vast te stellen welke bijdragen op de Speciale Actierekening zijn gestort, welke verplichtingen uit de Rekening moeten worden gefinancierd, welke ontvangsten en betalingen op de Rekening zijn geboekt en welke terugbetalingen aan de Lid-Staten zijn gedaan.
 
-#### Artikel 3
+##### Artikel 3
 
 De EEG en de Beheerder werken volledig met elkaar samen om de doelstellingen van deze regeling te verwezenlijken. Totdat de Speciale-Actierekening volledig is besteed, wisselen de EEG (via de Commissie der Europese Gemeenschappen) en de Beheerder hiertoe van tijd tot tijd van gedachten over de stand en positie van de Speciale-Actierekening, over de vorderingen van de programma's of projecten die uit de Speciale-Actiekredieten zijn gefinancierd en over alle andere aangelegenheden in verband met deze regeling.
 
 ### AFDELING IV. Beëindiging; verdeling
 
-#### Artikel 1
+##### Artikel 1
 
 Indien deze Overeenkomst op 31 december 1978 of op een latere door de EEG en de Associatie overeengekomen datum niet van kracht is geworden, nemen deze Overeenkomst en alle verplichtingen die de partijen uit hoofde daarvan op zich hebben genomen onmiddellijk een einde.
 
-#### Artikel 2
+##### Artikel 2
 
 Indien en wanneer het gehele bedrag van de hoofdsom van alle Speciale-Actiekredieten die door de kredietnemers uit hoofde daarvan zijn opgenomen, is terugbetaald en is overgedragen aan de Lid-Staten overeenkomstig afdeling II, artikel 8, van deze Overeenkomst, nemen deze Overeenkomst en alle verplichtingen die de partijen uit hoofde daarvan op zich hebben genomen een einde.
 
 ### AFDELING V. Slotbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 Deze Overeenkomst wordt door elke Lid-Staat en de EEG goedgekeurd overeenkomstig de procedures van elke partij.
 
-#### Artikel 2
+##### Artikel 2
 
 De Regering van elke Lid-Staat stelt het Secretariaat-Generaal van de Raad van de Europese Gemeenschappen in kennis van de voltooiing van deze procedures. Het Secretariaat-Generaal zendt deze kennisgevingen te zamen met een kennisgeving dat de EEG deze Overeenkomst heeft goedgekeurd, aan de Associatie.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze Overeenkomst wordt van kracht en treedt in werking op de eerste dag van de maand volgende op die waarop deze kennisgevingen door de Associatie zijn ontvangen.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze Overeenkomst is opgesteld in twee exemplaren, in de Deense, de Duitse, de Engelse, de Franse, de Italiaanse en de Nederlandse taal, zijnde alle teksten gelijkelijk authentiek.
 

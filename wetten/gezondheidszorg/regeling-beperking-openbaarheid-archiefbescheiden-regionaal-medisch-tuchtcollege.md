@@ -1,20 +1,46 @@
 ---
-title: "Regeling beperking openbaarheid archiefbescheiden (Regionaal Medisch Tuchtcollege Groningen periode (1930) 1931–1985 (1986)"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 20 januari 2010, nr. DBV/IenA/I , houdende beperking van de openbaarheid van archiefbescheiden, opgenomen in het archief van het Regionaal Medisch Tuchtcollege Groningen, over de periode (1930) 1931–1985 (1986)"
 identifier: "BWBR0027128"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2010-01-29
-laatste_update: 2010-01-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027128"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2010-01-29"
+last_updated: "2010-01-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027128"
+soort: "ministeriele-regeling"
+stam_id: "10405533"
+version_id: "17114972"
+internal_id: "C23618091"
+label_id: "10380944"
+dtd_version: "2.0"
+original_entry_into_force: "2010-01-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027128/2010-01-29/0"
+intitule_bron: "Stcrt.2010-1170"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-01-20"
+intitule_published: "2010-01-28"
+intitule_in_force: "2010-01-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-1170"
+original_signed_date: "2010-01-20"
+original_published_date: "2010-01-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-1170"
+entry_into_force_date: "2010-01-29"
+jci_1_3: "jci1.3:c:BWBR0027128&z=2010-01-29&g=2010-01-29"
+jci_1_0: "1.0:c:BWBR0027128&g=2010-01-29"
+citeertitel_status: "redactioneel"
+short_title: "Regeling beperking openbaarheid archiefbescheiden (Regionaal Medisch Tuchtcollege Groningen periode (1930) 1931–1985 (1986)"
+signed_date: "2010-01-20"
+entry_into_force: "2010-01-29"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 20 januari 2010, nr. DBV/IenA/I , houdende beperking van de openbaarheid van archiefbescheiden, opgenomen in het archief van het Regionaal Medisch Tuchtcollege Groningen, over de periode (1930) 1931–1985 (1986)
 
 Gelet op [artikel 15, eerste lid, onder a en c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Met het oog op de bescherming van de persoonlijke levenssfeer en het anderszins voorkomen van onevenredige bevoordeling of benadeling van betrokken natuurlijke personen of rechtspersonen dan wel derden worden de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027128&artikel=2&z=2010-01-29&g=2010-01-29) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0027128&artikel=3&z=2010-01-29&g=2010-01-29) genoemde beperkingen gesteld aan de openbaarheid van de naar het Regionaal Historisch Centrum Groninger Archieven over te brengen archiefbescheiden van het Regionaal Medisch Tuchtcollege Groningen, over de periode (1930) 1931–1985 (1986), die zijn opgenomen in de inventaris onder de in kolom 1 van onderstaande tabel genoemde inventarisnummers. Deze beperkingen gelden tot 1 januari van het in kolom 2 van onderstaande tabel genoemde jaartal.
 
@@ -72,15 +98,15 @@ Met het oog op de bescherming van de persoonlijke levenssfeer en het anderszins 
 | 375 | 2061 |
 | 293 | 2062 |
 
-#### Artikel 2
+##### Artikel 2
 
 Raadpleging van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027128&artikel=1&z=2010-01-29&g=2010-01-29) bedoelde archiefbescheiden is slechts mogelijk na ondertekening van het door het Regionaal Historisch Centrum Groninger Archieven gehanteerde formulier ‘Raadpleging niet-openbare archieven’; een exemplaar van dit formulier is als bijlage bij deze regeling gevoegd.
 
-#### Artikel 3
+##### Artikel 3
 
 Het is niet toegestaan reproducties te vervaardigen van archiefbescheiden uit dossiers waarop deze beperkende bepalingen van toepassing zijn, zonder toestemming van de rijksarchivaris in de provincie Groningen. De rijksarchivaris in de provincie Groningen kan voorwaarden verbinden aan het verlenen van zijn toestemming.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 

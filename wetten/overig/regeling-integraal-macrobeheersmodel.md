@@ -1,13 +1,38 @@
 ---
 title: "Regeling Integraal macrobeheersmodel"
 identifier: "BWBR0035410"
-categorie: "Overig"
-publicatiedatum: 2015-01-01
-laatste_update: 2015-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035410"
+country: "nl"
+rank: "zbo"
+publication_date: "2015-01-01"
+last_updated: "2015-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035410"
+soort: "zbo"
+stam_id: "12747863"
+version_id: "21583142"
+internal_id: "C30989471"
+label_id: "12717594"
+dtd_version: "2.0"
+original_entry_into_force: "2015-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035410/2015-01-01/0"
+intitule_bron: "Stcrt.2014-21273"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-07-15"
+intitule_published: "2014-07-30"
+intitule_in_force: "2014-07-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-21273"
+original_signed_date: "2014-07-15"
+original_published_date: "2014-07-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-21273"
+entry_into_force_date: "2015-01-01"
+jci_1_3: "jci1.3:c:BWBR0035410&z=2015-01-01&g=2015-01-01"
+jci_1_0: "1.0:c:BWBR0035410&g=2015-01-01"
+citeertitel_status: "officieel"
+signed_date: "2014-07-15"
+entry_into_force: "2015-01-01"
 ---
-
 # Regeling Integraal macrobeheersmodel
 
 Gelet op:
@@ -30,7 +55,7 @@ en op:
 
 heeft de Nederlandse Zorgautoriteit (NZa) de volgende regeling vastgesteld.
 
-#### Artikel 1. Reikwijdte
+##### Artikel 1. Reikwijdte
 
 1. Deze regeling is van toepassing op de volgende zorgverleners:
 
@@ -56,7 +81,7 @@ heeft de Nederlandse Zorgautoriteit (NZa) de volgende regeling vastgesteld.
 
 2. Deze regeling is niet van toepassing op zorgverleners die geneeskundige geestelijke gezondheidszorg zoals bedoeld in de “Wet tot wijziging van het tijdstip waarop de geneeskundige geestelijke gezondheidszorg deel uitmaakt van de aanspraken ingevolge een zorgverzekering als bedoeld in de Zorgverzekeringswet” van 22 november 2006 (Stb. 2006, 630) leveren.
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 Deze regeling heeft tot doel de (macro)kosten van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035410&artikel=1&z=2015-01-01&g=2015-01-01) genoemde vormen van zorg te beheersen door middel van een integraal macrobeheersmodel, respectievelijk macrobeheersinstrument (MBI).
 
@@ -70,7 +95,7 @@ Hierin zijn voorschriften opgenomen op het gebied van:
 
 - −. afdracht van geldbedragen in verband met overschrijding van een bovengrens.
 
-#### Artikel 3. Begripsbepalingen
+##### Artikel 3. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -100,7 +125,7 @@ In deze regeling wordt verstaan onder:
 
 - m. **Zorgverzekeringsfonds:** het fonds bedoeld in [artikel 39 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=39).
 
-#### Artikel 4. Administratievoorschriften
+##### Artikel 4. Administratievoorschriften
 
 De zorgverlener richt haar administratie op een zodanige wijze in dat daaruit kan worden afgeleid:
 
@@ -110,7 +135,7 @@ De zorgverlener richt haar administratie op een zodanige wijze in dat daaruit ka
 
 - (3). in hoeverre (1) en (2) zorg betreffen waarop aanspraak bestaat ingevolge een zorgverzekering als bedoeld in de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) (Zvw).
 
-#### Artikel 5. Gegevensverstrekking
+##### Artikel 5. Gegevensverstrekking
 
 1. De zorgverlener informeert de NZa uiterlijk twee maanden na dagtekening van de brief waarmee de minister de overschrijding over het jaar t bekend maakt over het totaal van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035410&artikel=4&z=2015-01-01&g=2015-01-01) bedoelde tariefopbrengst over het jaar t. Als er geen sprake is van een overschrijding vervalt de verplichting tot gegevensverstrekking.
 
@@ -124,23 +149,23 @@ De zorgverlener richt haar administratie op een zodanige wijze in dat daaruit ka
 
 - −. een accountantsverklaring als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035410&artikel=6&z=2015-01-01&g=2015-01-01).
 
-#### Artikel 6. Accountantcontrole gegevensverstrekking
+##### Artikel 6. Accountantcontrole gegevensverstrekking
 
 De zorgverlener draagt er zorg voor dat een accountant als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) de juistheid van de op grond van de [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035410&artikel=5&z=2015-01-01&g=2015-01-01) verstrekte gegevens en inlichtingen vaststelt, overeenkomstig de wijze die in de genoemde formulieren en het daarbij beschikbaar te stellen controleprotocol is aangegeven.
 
-#### Artikel 7. Wijze van gegevensverstrekking
+##### Artikel 7. Wijze van gegevensverstrekking
 
 1. De zorgverlener verzendt de opgave als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035410&artikel=5&z=2015-01-01&g=2015-01-01) naar het emailadres info@nza.nl.
 
 2. Het in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035410&artikel=5&z=2015-01-01&g=2015-01-01) bedoelde formulier en het in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035410&artikel=6&z=2015-01-01&g=2015-01-01) bedoelde controleprotocol worden beschikbaar gesteld op de website van de NZa (www.nza.nl).
 
-#### Artikel 8. Afdracht overschrijding
+##### Artikel 8. Afdracht overschrijding
 
 1. Op grond van een aanwijzing als bedoeld in [artikel 76, tweede lid, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=76), dient de zorgverlener haar op grond van de beleidsregel ‘Integraal macrobeheersmodel’ vastgestelde aandeel in de overschrijding van de bovengrens binnen een in de aanwijzing genoemde termijn af te dragen aan het Zorgverzekeringsfonds.
 
 2. Een afdracht als bedoeld in het eerste lid blijft achterwege, indien de kosten in verband met de afdracht en inning van het af te dragen bedrag hoger zijn dan de baten. Indien naar het oordeel van de NZa sprake is van een situatie als beschreven in de vorige zin, doet zij daarvan mededeling in de in het eerste lid bedoelde aanwijzing onder vermelding dat de zorgverlener het door de NZa vastgestelde bedrag ter zake zijn aandeel in de overschrijding niet hoeft af te dragen aan het Zorgverzekeringsfonds.
 
-#### Artikel 9. Inwerkingtreding en citeertitel
+##### Artikel 9. Inwerkingtreding en citeertitel
 
 Deze regeling treedt in werking op 1 januari 2015.
 

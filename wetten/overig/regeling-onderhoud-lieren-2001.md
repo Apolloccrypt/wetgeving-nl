@@ -1,28 +1,52 @@
 ---
 title: "Regeling onderhoud lieren 2001"
 identifier: "BWBR0012883"
-categorie: "Overig"
-publicatiedatum: 2008-09-11
-laatste_update: 2008-09-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012883"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2008-09-11"
+last_updated: "2008-09-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012883"
+soort: "ministeriele-regeling"
+stam_id: "4014973"
+version_id: "5778022"
+internal_id: "C5980761"
+label_id: "3994954"
+dtd_version: "2.0"
+original_entry_into_force: "2001-10-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012883/2008-09-11/0"
+intitule_bron: "Stcrt.2001-198"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-10-08"
+intitule_published: "2001-10-12"
+intitule_in_force: "2001-10-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2001-198"
+original_signed_date: "2001-10-08"
+original_published_date: "2001-10-12"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2001-10-15"
+jci_1_3: "jci1.3:c:BWBR0012883&z=2008-09-11&g=2008-09-11"
+jci_1_0: "1.0:c:BWBR0012883&g=2008-09-11"
+citeertitel_status: "officieel"
+signed_date: "2001-10-08"
+entry_into_force: "2001-10-15"
 ---
-
 # Regeling onderhoud lieren 2001
 
 Gelet op de [artikel 45 van het Besluit luchtwaardigheid](https://wetten.overheid.nl/jci1.3:c:BWBR0012651&artikel=45);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder liertechnicus: een persoon die bevoegd is een lier te onderhouden.
 
-#### Artikel 2
+##### Artikel 2
 
 De eigenaar of houder van een lier is verplicht ervoor te zorgen dat het onderhoud, de revisie en de herstelling van de lier zodanig wordt uitgevoerd dat de deugdelijkheid van de lier is gewaarborgd, met inachtneming van het gestelde in deze regeling.
 
-#### Artikel 3
+##### Artikel 3
 
 De eigenaar of houder is verplicht:
 
@@ -38,19 +62,19 @@ De eigenaar of houder is verplicht:
 
 - c. ervoor te zorgen dat de verrichte werkzaamheden aan de lier en de bevindingen daarbij, schriftelijk worden vastgelegd en ondertekend door een liertechnicus; voor de dagelijkse inspectie kan dit de houder van een geldig RPL(G) met de bevoegdverklaring RFI(G) zijn, of een door de liertechnicus schriftelijk daartoe gemachtigde houder van een geldig RPL(G).
 
-#### Artikel 4
+##### Artikel 4
 
 De liertechnicus wordt aangewezen door de eigenaar of houder van de lier.
 
-#### Artikel 5
+##### Artikel 5
 
 De Minister van Verkeer en Waterstaat kan nadere aanwijzingen geven betreffende het onderhoud van lieren.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling treedt in werking met ingang van 15 oktober 2001.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling wordt aangehaald als: Regeling onderhoud lieren 2001.
 

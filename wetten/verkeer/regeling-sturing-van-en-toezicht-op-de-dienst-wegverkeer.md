@@ -1,13 +1,39 @@
 ---
-title: "Regeling sturing van en toezicht op de Dienst Wegverkeer"
+title: "Regeling van de Minister van Infrastructuur en Milieu, van 5 december 2012, nr. IENM/BSK-2012/241282, houdende vaststelling van regels in verband met de implementatie van de Kaderwet zelfstandige bestuursorganen en de sturing van en het toezicht op de Dienst Wegverkeer (Regeling sturing van en toezicht op de Dienst Wegverkeer)"
 identifier: "BWBR0032488"
-categorie: "Verkeer"
-publicatiedatum: 2013-01-01
-laatste_update: 2013-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032488"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2013-01-01"
+last_updated: "2013-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032488"
+soort: "ministeriele-regeling"
+stam_id: "11967803"
+version_id: "19895492"
+internal_id: "C27938801"
+label_id: "11939864"
+dtd_version: "2.0"
+original_entry_into_force: "2013-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032488/2013-01-01/0"
+intitule_bron: "Stcrt.2012-25315"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-12-05"
+intitule_published: "2012-12-18"
+intitule_in_force: "2012-12-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-25315"
+original_signed_date: "2012-12-05"
+original_published_date: "2012-12-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-25315"
+entry_into_force_date: "2013-01-01"
+jci_1_3: "jci1.3:c:BWBR0032488&z=2013-01-01&g=2013-01-01"
+jci_1_0: "1.0:c:BWBR0032488&g=2013-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling sturing van en toezicht op de Dienst Wegverkeer"
+signed_date: "2012-12-05"
+entry_into_force: "2013-01-01"
 ---
-
 # Regeling van de Minister van Infrastructuur en Milieu, van 5 december 2012, nr. IENM/BSK-2012/241282, houdende vaststelling van regels in verband met de implementatie van de Kaderwet zelfstandige bestuursorganen en de sturing van en het toezicht op de Dienst Wegverkeer (Regeling sturing van en toezicht op de Dienst Wegverkeer)
 
 Gelet op de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=26) en [32 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=32) en de [artikelen 4l, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4l), [4t, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4t) en [4u, eerste en derde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4u);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -26,21 +52,21 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Directie en raad van toezicht van de Dienst Wegverkeer
 
-#### Artikel 2. Ontstentenis directie
+##### Artikel 2. Ontstentenis directie
 
 De dienst informeert de minister onverwijld over de ontstentenis van een lid van de directie met het oog op de conform [artikel 4h van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4h) te treffen voorziening.
 
-#### Artikel 3. Rol raad van toezicht
+##### Artikel 3. Rol raad van toezicht
 
 De raad van toezicht oefent onafhankelijk van bestuur en minister toezicht uit. De raad van toezicht heeft een interne toezichtfunctie en is daarbij gericht op het beleid van de directie en op de algemene gang van zaken in de dienst. De raad van toezicht richt zich bij de vervulling van de taak naar het belang van de dienst en weegt daartoe de in aanmerking komende belangen van de bij de dienst betrokkenen af.
 
 #### § 3. Financieel toezicht
 
-#### Artikel 4. Begroting
+##### Artikel 4. Begroting
 
 De dienst zendt jaarlijks voor 1 oktober de begroting voor het daaropvolgende jaar aan de minister.
 
-#### Artikel 5. Financieel meerjarenbeleidsplan
+##### Artikel 5. Financieel meerjarenbeleidsplan
 
 1. Het aan de minister voor te leggen financieel meerjarenbeleidsplan omvat de periode van het laatst afgesloten boekjaar, het lopende jaar, het komende begrotingsjaar en de vier volgende jaren.
 
@@ -68,7 +94,7 @@ De dienst zendt jaarlijks voor 1 oktober de begroting voor het daaropvolgende ja
 
 - k. de hoogte van de na te streven efficiency en de te behalen besparingen.
 
-#### Artikel 6. Aandachtspunten voor de accountantscontrole
+##### Artikel 6. Aandachtspunten voor de accountantscontrole
 
 1. De aandachtspunten voor de accountantscontrole zijn uitgewerkt in de bijlage bij deze regeling.
 
@@ -82,7 +108,7 @@ De dienst zendt jaarlijks voor 1 oktober de begroting voor het daaropvolgende ja
 
 - c. dat de kostprijzen van de taakclusters zijn berekend op basis van het vastgestelde kostprijscalculatiemodel.
 
-#### Artikel 7. Invulling van [artikel 4l, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4l) juncto [artikel 32 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=32)
+##### Artikel 7. Invulling van [artikel 4l, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4l) juncto [artikel 32 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=32)
 
 1. De dienst behoeft de voorafgaande instemming van de minister voor:
 
@@ -110,11 +136,11 @@ De dienst zendt jaarlijks voor 1 oktober de begroting voor het daaropvolgende ja
 
 #### § 4. Informatie-uitwisseling
 
-#### Artikel 8. Jaarrekening
+##### Artikel 8. Jaarrekening
 
 Bij de inrichting van de jaarrekening wordt onderscheid gemaakt tussen de baten en lasten, alsook tussen de ontvangsten en uitgaven uit de bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622) aan de dienst opgedragen taken dan wel uit andere activiteiten.
 
-#### Artikel 9. Jaarverslag
+##### Artikel 9. Jaarverslag
 
 1. In aanvulling op [titel 9, van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9), en de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18) en [19 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=19) bevat het jaarverslag in ieder geval de volgende onderdelen:
 
@@ -150,11 +176,11 @@ Bij de inrichting van de jaarrekening wordt onderscheid gemaakt tussen de baten 
 
 - c. het aantal ingediende schadeclaims, onderverdeeld naar taak, en de resultaten daarvan.
 
-#### Artikel 10. Toepassing internationale wet- en regelgeving
+##### Artikel 10. Toepassing internationale wet- en regelgeving
 
 De dienst informeert de minister ten minste één maal per jaar over de wijze waarop de dienst van toepassing zijnde of wordende internationale wet- en regelgeving toepast en uitvoert respectievelijk gaat toepassen en uitvoeren.
 
-#### Artikel 11. Uitvoeringstoets Dienst Wegverkeer
+##### Artikel 11. Uitvoeringstoets Dienst Wegverkeer
 
 1. De minister legt de volgende voornemens tijdig aan de dienst voor met het oog op een uitvoeringstoets:
 
@@ -172,7 +198,7 @@ De dienst informeert de minister ten minste één maal per jaar over de wijze wa
 
 4. Indien in de loop van het besluitvormingsproces het aan de dienst voorgelegde voornemen op voor de dienst relevante punten wordt gewijzigd, legt de minister de wijzigingen ten behoeve van een finale uitvoeringstoets voor aan de dienst.
 
-#### Artikel 12. Uitvoeringsevaluaties
+##### Artikel 12. Uitvoeringsevaluaties
 
 1. De dienst evalueert op een daartoe door de minister gedaan verzoek of uit eigen beweging de uitvoering van nieuw of bijgesteld beleid dan wel nieuwe of bijgestelde wet- en regelgeving.
 
@@ -180,23 +206,23 @@ De dienst informeert de minister ten minste één maal per jaar over de wijze wa
 
 3. De minister reageert op de door de dienst toegezonden rapportage en geeft daarbij in ieder geval aan hoe de rapportage in de besluitvorming is of zal worden betrokken.
 
-#### Artikel 13. ICT-projecten
+##### Artikel 13. ICT-projecten
 
 De dienst verschaft de minister structureel informatie over lopende dan wel in voorbereiding zijnde ICT-projecten waarover aan de Tweede Kamer der Staten-Generaal wordt gerapporteerd.
 
-#### Artikel 14. Integriteit
+##### Artikel 14. Integriteit
 
 De dienst informeert de minister over het gevoerde integriteitsbeleid.
 
-#### Artikel 15. Reglement financieel beheer
+##### Artikel 15. Reglement financieel beheer
 
 De dienst verstrekt de minister zijn reglement financieel beheer.
 
-#### Artikel 16. Onderzoek door derden ten behoeve van toezicht
+##### Artikel 16. Onderzoek door derden ten behoeve van toezicht
 
 Indien de minister na overleg met het zbo een derde aanwijst om in het kader van het toezicht op het functioneren van de dienst onderzoek te doen naar een door de minister te bepalen onderdeel van de dienst of van de taakuitoefening door de dienst, verstrekt de dienst aan deze derde op de door de derde te bepalen wijze de ter zake van het onderzoek gevraagde informatie voor zover dit niet beperkt is door de wet of contract.
 
-#### Artikel 17. Informatieverstrekking van de minister aan de dienst
+##### Artikel 17. Informatieverstrekking van de minister aan de dienst
 
 De minister verstrekt de dienst informatie met betrekking tot:
 
@@ -212,7 +238,7 @@ De minister verstrekt de dienst informatie met betrekking tot:
 
 - f. klachten over het functioneren van de dienst.
 
-#### Artikel 18. Instemmingstoets van de minister
+##### Artikel 18. Instemmingstoets van de minister
 
 1. De dienst legt tot hem gerichte voorstellen tot taakopdracht door een ander bestuursorgaan tijdig voor aan de minister met het oog op het verkrijgen van diens instemming.
 
@@ -220,7 +246,7 @@ De minister verstrekt de dienst informatie met betrekking tot:
 
 #### § 5. Overige bepalingen
 
-#### Artikel 19. Intrekking van regeling en besluiten
+##### Artikel 19. Intrekking van regeling en besluiten
 
 1. Het [Informatiestatuut Dienst Wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0008129) wordt ingetrokken.
 
@@ -230,17 +256,17 @@ De minister verstrekt de dienst informatie met betrekking tot:
 
 - b. Schets raad van toezicht RDW.
 
-#### Artikel 20. Citeertitel
+##### Artikel 20. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling sturing van en toezicht op de Dienst Wegverkeer.
 
-#### Artikel 21. Overgangsrecht
+##### Artikel 21. Overgangsrecht
 
 1. Op de jaarstukken 2012 worden de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0032488&paragraaf=3&artikel=6&z=2013-01-01&g=2013-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0032488&paragraaf=4&artikel=8&z=2013-01-01&g=2013-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0032488&paragraaf=4&artikel=9&z=2013-01-01&g=2013-01-01) niet toegepast voor zover deze bepalingen afwijken van de eerdere met de dienst gemaakte afspraken en de dienst heeft aangegeven voor de jaarstukken 2012 niet te kunnen voldoen aan de onderhavige regeling.
 
 2. Indien de dienst heeft aangegeven voor de jaarstukken 2012 niet te kunnen voldoen aan de onderhavige regeling, geldt voor de jaarstukken 2012 [artikel 9 van het Informatiestatuut Dienst Wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0008129&artikel=9).
 
-#### Artikel 22. Inwerkingtreding
+##### Artikel 22. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2013.
 

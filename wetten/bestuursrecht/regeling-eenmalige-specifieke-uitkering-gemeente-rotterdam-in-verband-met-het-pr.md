@@ -1,20 +1,44 @@
 ---
-title: "Regeling eenmalige specifieke uitkering Gemeente Rotterdam in verband met het Project ontwikkeling programma beveiligingsplannen havenfaciliteiten"
+title: "Regeling, houdende toekenning van een eenmalige specifieke uitkering aan de Gemeente Rotterdam in verband met het Project ontwikkeling programma beveiligingsplannen voor havenfaciliteiten"
 identifier: "BWBR0016000"
-categorie: "Bestuursrecht"
-publicatiedatum: 2003-12-14
-laatste_update: 2003-12-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0016000"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2003-12-14"
+last_updated: "2003-12-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0016000"
+soort: "ministeriele-regeling"
+stam_id: "5535203"
+version_id: "9931612"
+internal_id: "C13410271"
+label_id: "5507424"
+original_entry_into_force: "2003-12-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0016000/2003-12-14/0"
+intitule_bron: "Stcrt.2003-241"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-12-04"
+intitule_published: "2003-12-12"
+intitule_in_force: "2003-12-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2003-241"
+original_signed_date: "2003-12-04"
+original_published_date: "2003-12-12"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2003-12-14"
+jci_1_3: "jci1.3:c:BWBR0016000&z=2003-12-14&g=2003-12-14"
+jci_1_0: "1.0:c:BWBR0016000&g=2003-12-14"
+citeertitel_status: "officieel"
+short_title: "Regeling eenmalige specifieke uitkering Gemeente Rotterdam in verband met het Project ontwikkeling programma beveiligingsplannen havenfaciliteiten"
+signed_date: "2003-12-04"
+entry_into_force: "2003-12-14"
 ---
-
 # Regeling, houdende toekenning van een eenmalige specifieke uitkering aan de Gemeente Rotterdam in verband met het Project ontwikkeling programma beveiligingsplannen voor havenfaciliteiten
 
 Gelet op [artikel 17, vijfde lid, Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -28,27 +52,27 @@ In deze regeling wordt verstaan onder:
 
 - e. uitkering: uitkering als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016000&artikel=2&z=2003-12-14&g=2003-12-14).
 
-#### Artikel 2
+##### Artikel 2
 
 De Minister verstrekt aan de Gemeente een eenmalige specifieke uitkering van honderdachttienduizend Euro (€ 118.000) als bijdrage in het nationaal toepasbaar maken van het programma.
 
-#### Artikel 3
+##### Artikel 3
 
 De Gemeente stelt het programma ter beschikking van de beheerders van de andere Nederlandse zeehavens.
 
-#### Artikel 4
+##### Artikel 4
 
 De Gemeente neemt de toepasselijke Europese regelgeving in acht.
 
-#### Artikel 5
+##### Artikel 5
 
 De Gemeente draagt ervoor zorg dat het programma niet ter beschikking wordt gesteld van organisaties, personen of buitenlandse overheden die voorkomen op een lijst, welke door de Minister, gelet op de veiligheid van de Staat, na overleg met de Minister van Binnenlandse Zaken en Koninkrijksrelaties, aan de Gemeente wordt medegedeeld.
 
-#### Artikel 6
+##### Artikel 6
 
 Binnen vier weken na het tijdstip van inwerkingtreding van deze regeling wordt aan de gemeente een voorschot betaald van negentig procent van de verstrekte uitkering.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De gemeente legt binnen drie maanden na afloop van het project en uiterlijk op 31 maart 2004 aan de Minister over:
 
@@ -58,7 +82,7 @@ Binnen vier weken na het tijdstip van inwerkingtreding van deze regeling wordt a
 
 2. De financiële verantwoording, bedoeld in het eerste lid, onderdeel b, wordt voorzien van een schriftelijke accountantsverklaring als bedoeld in [artikel 4:78, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:78).
 
-#### Artikel 8
+##### Artikel 8
 
 1. De Minister stelt de uitkering vast binnen een maand na de ontvangst van de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0016000&artikel=7&z=2003-12-14&g=2003-12-14) bedoelde bescheiden.
 
@@ -66,7 +90,7 @@ Binnen vier weken na het tijdstip van inwerkingtreding van deze regeling wordt a
 
 3. De in het tweede lid bedoelde uitkering wordt binnen vier weken na de vaststelling betaald.
 
-#### Artikel 9
+##### Artikel 9
 
 De Minister kan de verstrekte uitkering op een lager bedrag vaststellen indien:
 
@@ -76,15 +100,15 @@ De Minister kan de verstrekte uitkering op een lager bedrag vaststellen indien:
 
 - c. indien de verstrekte uitkering onjuist was en de gemeente dit wist of behoorde te weten.
 
-#### Artikel 10
+##### Artikel 10
 
 Onverschuldigd betaalde uitkeringsbedragen en voorschotten kunnen worden teruggevorderd voorzover na de dag waarop de beschikking waarbij de uitkering wordt vastgesteld is bekendgemaakt, nog geen vijf jaren zijn verstreken.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 12
+##### Artikel 12
 
 Deze regeling wordt aangehaald als: Regeling eenmalige specifieke uitkering Gemeente Rotterdam in verband met het Project ontwikkeling programma beveiligingsplannen voor havenfaciliteiten.
 

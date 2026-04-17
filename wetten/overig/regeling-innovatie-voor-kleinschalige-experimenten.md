@@ -1,18 +1,43 @@
 ---
 title: "Regeling innovatie voor kleinschalige experimenten"
 identifier: "BWBR0050211"
-categorie: "Overig"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050211"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050211"
+soort: "zbo"
+stam_id: "17219003"
+version_id: "30326052"
+internal_id: "C43501041"
+label_id: "17124754"
+dtd_version: "2.0"
+original_entry_into_force: "2025-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050211/2025-01-01/0"
+intitule_bron: "Stcrt.2024-30193"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-09-03"
+intitule_published: "2024-09-19"
+intitule_in_force: "2024-09-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-30193"
+original_signed_date: "2024-09-03"
+original_published_date: "2024-09-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-30193"
+entry_into_force_date: "2025-01-01"
+jci_1_3: "jci1.3:c:BWBR0050211&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0050211&g=2025-01-01"
+citeertitel_status: "officieel"
+signed_date: "2024-09-03"
+entry_into_force: "2025-01-01"
 ---
-
 # Regeling innovatie voor kleinschalige experimenten
 
 Gelet op [artikel 36, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=36), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=37), [38, derde en zevende lid van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=38) (Wmg), is de Nederlandse Zorgautoriteit (NZa) bevoegd tot het stellen van regels op het gebied van administratie- en declaratievoorschriften.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt, tenzij anders vermeld, verstaan onder:
 
@@ -38,7 +63,7 @@ In deze regeling wordt, tenzij anders vermeld, verstaan onder:
 
 - k). **Individuele beschikking:** de beschikking op basis waarvan de innovatieve zorgprestatie zoals overeengekomen tussen zorgaanbieder(s) en ziektekostenverzekeraar(s), gedeclareerd en vergoed kan worden. Voor experimenten met Wlz-zorg is dit een beschikking en voor experimenten met Zvw- en overige Wmg-zorg wordt een prestatiebeschrijvingbeschikking afgegeven;
 
-#### Artikel 2. Doel van de regeling
+##### Artikel 2. Doel van de regeling
 
 Deze regeling heeft tot doel het stellen van de navolgende voorschriften met betrekking tot kortdurende kleinschalige experimenten:
 
@@ -46,11 +71,11 @@ Deze regeling heeft tot doel het stellen van de navolgende voorschriften met bet
 
 - b. Declaratievoorschriften, als genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0050211&artikel=5&z=2025-01-01&g=2025-01-01) van deze regeling, bedoeld om inzichtelijke, rechtmatige declaraties mogelijk te maken en dubbele bekostiging te voorkomen.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze regeling is van toepassing op partijen die deelnemen aan een kortdurend kleinschalig experiment op grond van de [Beleidsregel innovatie voor kleinschalige experimenten](https://wetten.overheid.nl/jci1.3:c:BWBR0050215) of de Beleidsregel tijdelijke instandlating gevolgen experimenten en die daartoe een individuele beschikking van de NZa hebben ontvangen.
 
-#### Artikel 4. Administratievoorschriften
+##### Artikel 4. Administratievoorschriften
 
 1. Zorgaanbieders voeren een administratie van het kortdurende kleinschalige experiment zodanig dat de experimentevaluatie tijdig kan worden uitgevoerd. Zorgaanbieders registreren ten behoeve van het experiment tenminste alle benodigde gegevens om de resultaten van het experiment te kunnen meten en aantonen. Zorgaanbieders registreren in ieder geval per experiment:
 
@@ -60,7 +85,7 @@ Het tarief van de innovatieve zorgprestatie.
 
 2. De verplichting om te registreren omvat alleen de onderwerpen voor registratie. De wijze waarop registratie plaatsvindt, is aan de experimenteerpartijen zelf.
 
-#### Artikel 5. Declaratievoorschriften
+##### Artikel 5. Declaratievoorschriften
 
 1. De zorgaanbieder declareert geen innovatieve zorgprestatie indien de zorg reeds op andere wijze wordt gedeclareerd dan wel bekostigd.
 
@@ -74,15 +99,15 @@ Het tarief van de innovatieve zorgprestatie.
 
 4. De zorgaanbieder declareert de innovatieve zorgprestatie van experimenten met Zvw of overige Wmg-zorg aan de hand van de codes zoals deze zijn op te vragen bij Vektis.
 
-#### Artikel 6. Intrekken oude regelingen
+##### Artikel 6. Intrekken oude regelingen
 
 Gelijktijdig met de inwerkingtreding van deze regeling wordt de [Regeling innovatie voor kleinschalige experimenten](https://wetten.overheid.nl/jci1.3:c:BWBR0041644), met kenmerk NR/REG-1928 ingetrokken.
 
-#### Artikel 7. Toepasselijkheid voorafgaande regeling
+##### Artikel 7. Toepasselijkheid voorafgaande regeling
 
 De [Regeling innovatie voor kleinschalige experimenten](https://wetten.overheid.nl/jci1.3:c:BWBR0041644), met kenmerk NR/REG-1928, blijft van toepassing op gedragingen (handelen en nalaten) van zorgaanbieders en ziektekostenverzekeraars die onder de werkingssfeer van die regeling vielen en die zijn aangevangen – en al dan niet beëindigd – in de periode dat die regeling gold.
 
-#### Artikel 8. Inwerkingtreding / Bekendmaking
+##### Artikel 8. Inwerkingtreding / Bekendmaking
 
 Deze regeling treedt in werking met ingang van 1 januari 2025. Deze regeling wordt bekendgemaakt door plaatsing in de Staatscourant op grond van [artikel 5, aanhef en onder d, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5).
 

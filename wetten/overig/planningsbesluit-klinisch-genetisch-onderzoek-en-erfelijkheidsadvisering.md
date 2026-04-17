@@ -1,13 +1,37 @@
 ---
 title: "Planningsbesluit klinisch genetisch onderzoek en erfelijkheidsadvisering"
 identifier: "BWBR0014594"
-categorie: "Overig"
-publicatiedatum: 2024-06-05
-laatste_update: 2024-06-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0014594"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-06-05"
+last_updated: "2024-06-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0014594"
+soort: "ministeriele-regeling"
+stam_id: "4150333"
+version_id: "5903682"
+internal_id: "C6106511"
+label_id: "4129804"
+dtd_version: "2.0"
+original_entry_into_force: "2003-01-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0014594/2024-06-05/0"
+intitule_bron: "Stcrt.2003-16"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-01-14"
+intitule_published: "2003-01-23"
+intitule_in_force: "2003-01-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2003-16"
+original_signed_date: "2003-01-14"
+original_published_date: "2003-01-23"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2003-01-25"
+jci_1_3: "jci1.3:c:BWBR0014594&z=2024-06-05&g=2024-06-05"
+jci_1_0: "1.0:c:BWBR0014594&g=2024-06-05"
+citeertitel_status: "officieel"
+signed_date: "2003-01-14"
+entry_into_force: "2003-01-25"
 ---
-
 # Planningsbesluit klinisch genetisch onderzoek en erfelijkheidsadvisering
 
 Gezien de adviezen van de Gezondheidsraad (advies van 28 april 1998 inzake DNA-diagnostiek, advies van 27 mei 1999 inzake Klinisch-genetisch onderzoek en erfelijkheidsadvisering. Nadere advisering voor een nieuwe planningsregeling en advies inzake IVF: afrondende advisering van 1998); en het advies van het College voor zorgverzekeringen (advies inzake Evaluatie planningsregeling klinisch genetisch onderzoek en erfelijkheidsadvisering van 1998);
@@ -16,27 +40,27 @@ Gelet op de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&artike
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Vervallen
 
-#### Artikel 2
+##### Artikel 2
 
 Er is behoefte aan ten hoogste acht centra voor het uitvoeren van klinisch genetisch onderzoek en erfelijkheidsadvisering als bedoeld in [artikel 1, onderdeel h, van het Besluit aanwijzing bijzondere medische verrichtingen 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022191&artikel=1).
 
-#### Artikel 3
+##### Artikel 3
 
 De wijze waarop in de behoefte kan worden voorzien en de voorschriften waaraan bij het uitvoeren van de in [artikel 1, onderdeel h, van het Besluit aanwijzing bijzondere medische verrichtingen 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022191&artikel=1) bedoelde verrichtingen dient te worden voldaan, zijn neergelegd in de bijlage bij deze regeling.
 
-#### Artikel 4
+##### Artikel 4
 
 De Regeling klinisch genetisch onderzoek en erfelijkheidsadvisering van 30 maart 1994 (Stcrt. 68) wordt ingetrokken.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling wordt aangehaald als: Planningsbesluit klinisch genetisch onderzoek en erfelijkheidsadvisering.
 

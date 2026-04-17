@@ -1,13 +1,35 @@
 ---
 title: "Verdrag inzake het verbod of de beperking van het gebruik van bepaalde conventionele wapens die geacht kunnen worden buitensporig leed te veroorzaken of een niet-onderscheidende werking te hebben"
 identifier: "BWBV0003694"
-categorie: "Internationaal recht"
-publicatiedatum: 2004-11-19
-laatste_update: 2004-11-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003694"
+country: "nl"
+rank: "verdrag"
+publication_date: "2004-11-19"
+last_updated: "2004-11-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003694"
+soort: "verdrag"
+stam_id: "10003654233"
+version_id: "10003714362"
+internal_id: "C10006980121"
+label_id: "10003639324"
+dtd_version: "2.0"
+original_entry_into_force: "1987-12-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003694/2004-11-19/0"
+intitule_bron: "Trb.1981-154"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1981-07-10"
+intitule_in_force: "1987-07-06"
+intitule_status: "goed"
+original_publication: "Trb.1981-154"
+original_published_date: "1981-07-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1981-154"
+entry_into_force_date: "1987-12-18"
+jci_1_3: "jci1.3:c:BWBV0003694&z=2004-11-19&g=2004-11-19"
+jci_1_0: "1.0:c:BWBV0003694&g=2004-11-19"
+citeertitel_status: "redactioneel"
+entry_into_force: "1987-12-18"
 ---
-
 # Verdrag inzake het verbod of de beperking van het gebruik van bepaalde conventionele wapens die geacht kunnen worden buitensporig leed te veroorzaken of een niet-onderscheidende werking te hebben
 
 De Hoge Verdragsluitende Partijen,
@@ -38,7 +60,7 @@ Voorts indachtig het feit dat de Ontwapeningscommissie 1)Hier is bedoeld de Gene
 
 Zijn overeengekomen als volgt:
 
-#### Artikel 1. Toepassingsgebied
+##### Artikel 1. Toepassingsgebied
 
 1. Dit Verdrag en de daaraan gehechte Protocollen zijn van toepassing in de situaties bedoeld in de artikelen 2 van de Verdragen van Genève van 12 augustus 1949 voor de bescherming van oorlogsslachtoffers, met inbegrip van de situaties zoals beschreven in [artikel 1, vierde lid, van Aanvullend Protocol I bij deze Verdragen](https://wetten.overheid.nl/jci1.3:c:BWBV0004091&artikel=1).
 
@@ -54,15 +76,15 @@ Zijn overeengekomen als volgt:
 
 7. De bepalingen van het tweede tot en met het zesde lid van dit artikel doen geen afbreuk aan aanvullende Protocollen die na 1 januari 2002 worden aangenomen en waarvan de werkingssfeer met betrekking tot dit artikel kan worden toegepast, uitgesloten of gewijzigd.
 
-#### Artikel 2. Verhouding tot andere internationale overeenkomsten
+##### Artikel 2. Verhouding tot andere internationale overeenkomsten
 
 Geen enkele bepaling in dit Verdrag of de daaraan gehechte Protocollen mag zo worden uitgelegd als zou daardoor afbreuk worden gedaan aan andere verplichtingen, die de Hoge Verdragsluitende Partijen zijn opgelegd door het internationaal humanitair recht dat van toepassing is in gewapende conflicten.
 
-#### Artikel 3. Ondertekening
+##### Artikel 3. Ondertekening
 
 Dit Verdrag staat gedurende een tijdvak van twaalf maanden te rekenen van 10 april 1981 open voor ondertekening door alle Staten op het Hoofdkwartier van de Verenigde Naties in New York.
 
-#### Artikel 4. Bekrachtiging, aanvaarding, goedkeuring of toetreding
+##### Artikel 4. Bekrachtiging, aanvaarding, goedkeuring of toetreding
 
 1. Dit Verdrag is onderworpen aan bekrachtiging, aanvaarding of goedkeuring door de ondertekenaars. Een Staat die dit Verdrag niet heeft ondertekend, kan tot het Verdrag toetreden.
 
@@ -74,7 +96,7 @@ Dit Verdrag staat gedurende een tijdvak van twaalf maanden te rekenen van 10 apr
 
 5. Een Protocol waardoor een Hoge Verdragsluitende Partij is gebonden, vormt voor die Partij een integrerend deel van dit Verdrag.
 
-#### Artikel 5. Inwerkingtreding
+##### Artikel 5. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking zes maanden na de datum van nederlegging van de twintigste akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
 
@@ -84,11 +106,11 @@ Dit Verdrag staat gedurende een tijdvak van twaalf maanden te rekenen van 10 apr
 
 4. Voor elke Staat die kennis geeft van zijn instemming te zijn gebonden door een aan dit Verdrag gehecht Protocol na de datum waarop twintig Staten hebben kennis gegeven van hun instemming daardoor te zijn gebonden, treedt het Protocol in werking zes maanden na de datum waarop die Staat heeft kennisgegeven van zijn instemming aldus te zijn gebonden.
 
-#### Artikel 6. Verspreiding
+##### Artikel 6. Verspreiding
 
 De Hoge Verdragsluitende Partijen verbinden zich, zowel in vredestijd als ten tijde van een gewapend conflict, dit Verdrag en die van de daaraan gehechte Protocollen waardoor zij gebonden zijn, op zo ruim mogelijke schaal in hun onderscheiden landen te verspreiden en in het bijzonder de bestudering ervan op te nemen in hun militaire opleidingsprogramma’s, zodat de strijdkrachten van die akten op de hoogte kunnen zijn.
 
-#### Artikel 7. Verdragsbetrekkingen na de inwerkingtreding van dit Verdrag
+##### Artikel 7. Verdragsbetrekkingen na de inwerkingtreding van dit Verdrag
 
 1. Wanneer één van de partijen bij een conflict niet is gebonden door een aangehecht Protocol, blijven de door dit Verdrag en dat aangehechte Protocol gebonden partijen daardoor gebonden in hun onderlinge betrekkingen.
 
@@ -110,7 +132,7 @@ De Hoge Verdragsluitende Partijen verbinden zich, zowel in vredestijd als ten ti
 
 De Hoge Verdragsluitende Partij en de autoriteit kunnen ook overeenkomen de verplichtingen van [Aanvullend Protocol I bij de Verdragen van Genève](https://wetten.overheid.nl/jci1.3:c:BWBV0004091) op basis van wederkerigheid te aanvaarden en toe te passen.
 
-#### Artikel 8. Herziening en wijzigingen
+##### Artikel 8. Herziening en wijzigingen
 
 - a. Na de inwerkingtreding van dit Verdrag kan iedere Hoge Verdragsluitende Partij te allen tijde wijzigingen van dit Verdrag of een daaraan gehecht Protocol waardoor zij is gebonden, voorstellen. Elk wijzigingsvoorstel wordt toegezonden aan de depositaris, die alle Hoge Verdragsluitende Partijen ervan in kennis stelt en vraagt of er naar hun mening een conferentie ter bestudering van het voorstel dient te worden bijeen geroepen. Indien een meerderheid van niet minder dan achttien van de Hoge Verdragsluitende Partijen daarmede instemt, roept hij onverwijld een conferentie bijeen, waarvoor alle Hoge Verdragsluitende Partijen worden uitgenodigd. Staten die geen partij bij dit Verdrag zijn, worden voor de conferentie als waarnemers uitgenodigd.
 
@@ -126,7 +148,7 @@ De Hoge Verdragsluitende Partij en de autoriteit kunnen ook overeenkomen de verp
 
 - c. Een zodanige conferentie kan overwegen of voorzien moet worden in de mogelijkheid van bijeenroeping van een volgende conferentie op verzoek van een Hoge Verdragsluitende Partij indien, na een tijdvak overeenkomend met dat bedoeld in het derde lid, letter a van dit artikel, geen conferentie is bijeengeroepen overeenkomstig het eerste lid, letter a of het tweede lid, letter a van dit artikel.
 
-#### Artikel 9. Opzegging
+##### Artikel 9. Opzegging
 
 1. Een Hoge Verdragsluitende Partij kan dit Verdrag of elk van de daaraan gehechte Protocollen opzeggen door kennisgeving aan de depositaris.
 
@@ -138,7 +160,7 @@ De Hoge Verdragsluitende Partij en de autoriteit kunnen ook overeenkomen de verp
 
 5. Geen enkele opzegging tast, met betrekking tot welke handeling ook die is verricht voordat de opzegging van kracht wordt, verplichtingen aan die ten gevolge van een gewapend conflict krachtens dit Verdrag en de daaraan gehechte Protocollen reeds rusten op de Hoge Verdragsluitende Partij die opzegt.
 
-#### Artikel 10. Depositaris
+##### Artikel 10. Depositaris
 
 1. De Secretaris-Generaal van de Verenigde Naties is depositaris van dit Verdrag en van de daaraan gehechte Protocollen.
 
@@ -154,6 +176,6 @@ De Hoge Verdragsluitende Partij en de autoriteit kunnen ook overeenkomen de verp
 
 - e. elke kennisgeving van opzegging ontvangen ingevolge artikel 9 en de datum waarop deze van kracht wordt.
 
-#### Artikel 11. Authentieke teksten
+##### Artikel 11. Authentieke teksten
 
 Het origineel van dit Verdrag met de daaraan gehechte Protocollen, waarvan de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse teksten gelijkelijk authentiek zijn, wordt nedergelegd bij de depositaris, die voor eensluidend gewaarmerkte afschriften daarvan toezendt aan alle Staten.

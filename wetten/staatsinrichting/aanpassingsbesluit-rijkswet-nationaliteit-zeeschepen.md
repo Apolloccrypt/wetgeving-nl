@@ -1,13 +1,39 @@
 ---
-title: "Aanpassingsbesluit Rijkswet nationaliteit zeeschepen"
+title: "Besluit van 6 mei 2025, houdende aanpassing van diverse algemene maatregelen van bestuur en de intrekking van het Besluit nationaliteitstoets zeeschepen in verband met de Rijkswet nationaliteit zeeschepen (Aanpassingsbesluit Rijkswet nationaliteit zeeschepen)"
 identifier: "BWBR0051040"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051040"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051040"
+soort: "AMvB"
+stam_id: "17428983"
+version_id: "30730842"
+internal_id: "C44044381"
+label_id: "17332054"
+dtd_version: "2.0"
+original_entry_into_force: "2025-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051040/2025-07-01/0"
+intitule_bron: "Stb.2025-131"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-05-06"
+intitule_published: "2025-05-15"
+intitule_in_force: "2025-05-15"
+intitule_status: "goed"
+original_publication: "Stb.2025-131"
+original_signed_date: "2025-05-06"
+original_published_date: "2025-05-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2025-131"
+entry_into_force_date: "2025-07-01"
+jci_1_3: "jci1.3:c:BWBR0051040&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0051040&g=2025-07-01"
+citeertitel_status: "officieel"
+short_title: "Aanpassingsbesluit Rijkswet nationaliteit zeeschepen"
+signed_date: "2025-05-06"
+entry_into_force: "2025-07-01"
 ---
-
 # Besluit van 6 mei 2025, houdende aanpassing van diverse algemene maatregelen van bestuur en de intrekking van het Besluit nationaliteitstoets zeeschepen in verband met de Rijkswet nationaliteit zeeschepen (Aanpassingsbesluit Rijkswet nationaliteit zeeschepen)
 
 Op de voordracht van Onze Minister van Infrastructuur en Waterstaat van 7 maart 2023, nr. IENW/BSK-2022/309803, Hoofddirectie Bestuurlijke en Juridische Zaken;
@@ -22,67 +48,67 @@ Hebben goedgevonden en verstaan:
 
 Treedt in werking op het tijdstip waarop de Rijkswet nationaliteitzeeschepen in werking treedt.
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Arbeidsomstandighedenbesluit.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Arbeidstijdenbesluit vervoer.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Besluit activiteiten leefomgeving.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het Besluit bescherming koopvaardij.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Besluit ex artikel 539n Wetboek van Strafvordering.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt het Besluit meldingsformaliteiten en gegevensverwerkingen scheepvaart.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt het Besluit Onderzoeksraad voor veiligheid.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt het Besluit op de lijkbezorging.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt het Besluit toepassingverklaring Internationale Bepalingen ter voorkoming van aanvaringen op zee, 1972.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt het Besluit uitvoering Wet arbeid vreemdelingen 2022.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt het Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt de Maatregel teboekgestelde schepen 1992.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt het Vreemdelingenbesluit 2000.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Het [Besluit nationaliteitstoets zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0006752) wordt ingetrokken.
 
-#### Artikel XV
+##### Artikel XV
 
 Dit besluit treedt in werking op het tijdstip dat de [Rijkswet nationaliteit zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0048148) in werking treedt.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Dit besluit wordt aangehaald als: Aanpassingsbesluit Rijkswet nationaliteit zeeschepen.
 

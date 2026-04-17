@@ -1,13 +1,39 @@
 ---
-title: "Circulaire (onkosten)vergoedingen burgemeesters, wethouders, raadsleden en commissieleden per 1 januari 2014"
+title: "Circulaire van 29 november 2013, nr. 2013-0000685101, inhoudende wijzigingen van de bedragen per 1 januari 2014 van de (onkosten)vergoedingen voor burgemeesters, wethouders, raadsleden en commissieleden"
 identifier: "BWBR0034315"
-categorie: "Bestuursrecht"
-publicatiedatum: 2013-12-10
-laatste_update: 2013-12-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034315"
+country: "nl"
+rank: "circulaire"
+publication_date: "2013-12-10"
+last_updated: "2013-12-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034315"
+soort: "circulaire"
+stam_id: "12457963"
+version_id: "20944022"
+internal_id: "C30064091"
+label_id: "12428874"
+dtd_version: "2.0"
+original_entry_into_force: "2013-12-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034315/2013-12-10/0"
+intitule_bron: "Stcrt.2013-34414"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-11-29"
+intitule_published: "2013-12-10"
+intitule_in_force: "2013-12-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-34414"
+original_signed_date: "2013-11-29"
+original_published_date: "2013-12-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-34414"
+entry_into_force_date: "2013-12-10"
+jci_1_3: "jci1.3:c:BWBR0034315&z=2013-12-10&g=2013-12-10"
+jci_1_0: "1.0:c:BWBR0034315&g=2013-12-10"
+citeertitel_status: "redactioneel"
+short_title: "Circulaire (onkosten)vergoedingen burgemeesters, wethouders, raadsleden en commissieleden per 1 januari 2014"
+signed_date: "2013-11-29"
+entry_into_force: "2013-12-10"
 ---
-
 # Circulaire van 29 november 2013, nr. 2013-0000685101, inhoudende wijzigingen van de bedragen per 1 januari 2014 van de (onkosten)vergoedingen voor burgemeesters, wethouders, raadsleden en commissieleden
 
 Door middel van deze circulaire wordt u, zoals elk jaar gebruikelijk, geïnformeerd over de wijzigingen van de bedragen van de (onkosten)vergoedingen voor burgemeesters, wethouders, raadsleden en commissieleden.

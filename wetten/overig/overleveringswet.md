@@ -1,14 +1,41 @@
 ---
-title: "Overleveringswet"
+title: "Wet van 29 april 2004 tot implementatie van het kaderbesluit van de Raad van de Europese Unie betreffende het Europees aanhoudingsbevel en de procedures van overlevering tussen de lidstaten van de Europese Unie (Overleveringswet)"
 identifier: "BWBR0016664"
-categorie: "Overig"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0016664"
+country: "nl"
+rank: "wet"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0016664"
+soort: "wet"
+stam_id: "5862763"
+version_id: "10426912"
+internal_id: "C14145751"
+label_id: "5843654"
+original_entry_into_force: "2004-05-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0016664/2025-07-01/0"
+intitule_bron: "Stb.2004-195"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-04-29"
+intitule_published: "2004-05-11"
+intitule_in_force: "2004-05-11"
+intitule_status: "goed"
+original_publication: "Stb.2004-195"
+original_signed_date: "2004-04-29"
+original_published_date: "2004-05-11"
+original_effect: "nieuwe-regeling"
+original_dossier: "29042"
+original_url_id: "stb-2004-195"
+entry_into_force_date: "2004-05-12"
+entry_into_force_dossier: "29042"
+jci_1_3: "jci1.3:c:BWBR0016664&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0016664&g=2025-07-01"
+citeertitel_status: "officieel"
+short_title: "Overleveringswet"
+signed_date: "2004-04-29"
+entry_into_force: "2004-05-12"
 ---
-
-# Overleveringswet
+# Wet van 29 april 2004 tot implementatie van het kaderbesluit van de Raad van de Europese Unie betreffende het Europees aanhoudingsbevel en de procedures van overlevering tussen de lidstaten van de Europese Unie (Overleveringswet)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -20,7 +47,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Afdeling 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet wordt verstaan onder:
 
@@ -56,7 +83,7 @@ In deze wet wordt verstaan onder:
 
 ### Afdeling 2. Europees aanhoudingsbevel
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een Europees aanhoudingsbevel kan slechts worden afgegeven wegens feiten die door de wet van de uitvaardigende lidstaat strafbaar zijn gesteld en waarop een vrijheidsstraf met een maximum van ten minste twaalf maanden is gesteld of indien een straf of maatregel is opgelegd, wanneer deze een duur heeft van ten minste vier maanden.
 
@@ -80,7 +107,7 @@ In deze wet wordt verstaan onder:
 
 4. Het Europees aanhoudingsbevel dient te zijn vertaald in de officiële taal of in een van de officiële talen van de uitvoerende lidstaat, dan wel in de taal die deze lidstaat in een bij het secretariaat-generaal van de Raad van de Europese Unie neergelegde verklaring heeft aangegeven.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het Europees aanhoudingsbevel kan, indien de verblijfplaats van de opgeëiste persoon bekend is, door de uitvaardigende justitiële autoriteit rechtstreeks worden toegezonden aan de uitvoerende justitiële autoriteit in de lidstaat van verblijf.
 
@@ -88,7 +115,7 @@ In deze wet wordt verstaan onder:
 
 3. De toezending kan plaatsvinden per gewone post, telefax of, mits de mogelijkheid bestaat om de echtheid van de herkomst vast te stellen, per elektronische post.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De uitvaardigende justitiële autoriteit kan besluiten de opgeëiste persoon te doen signaleren in het Schengen-informatiesysteem, overeenkomstig artikel 95 van de Uitvoeringsovereenkomst van Schengen.
 
@@ -102,11 +129,11 @@ In deze wet wordt verstaan onder:
 
 ### Afdeling 1. Voorwaarden voor overlevering
 
-#### Artikel 5
+##### Artikel 5
 
 Overlevering geschiedt uitsluitend aan uitvaardigende justitiële autoriteiten van andere lidstaten van de Europese Unie en met inachtneming van het bepaalde bij of krachtens deze wet.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Overlevering van een Nederlander kan worden toegestaan voor zover deze is gevraagd ten behoeve van een tegen hem gericht strafrechtelijk onderzoek. De rechtbank kan, voor het geval dat de Nederlander ter zake van de feiten waarvoor de overlevering kan worden toegestaan in de uitvaardigende lidstaat tot een onvoorwaardelijke vrijheidsstraf wordt veroordeeld, de voorwaarde stellen dat de opgeëiste persoon zijn straf in Nederland mag ondergaan. De rechtbank beoordeelt daarbij in het bijzonder of het ondergaan van de straf in Nederland zal bijdragen aan de maatschappelijke re-integratie van de Nederlander.
 
@@ -114,7 +141,7 @@ Overlevering geschiedt uitsluitend aan uitvaardigende justitiële autoriteiten v
 
 3. Het eerste lid is eveneens van toepassing op een vreemdeling die tijdens het verhoor door de rechtbank aantoont dat hij ten minste vijf jaren ononderbroken rechtmatig in Nederland heeft verbleven als bedoeld in [artikel 8, onder a tot en met e en l, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), voor zover ten aanzien van hem de verwachting bestaat dat hij niet zijn recht van verblijf in Nederland verliest ten gevolge van een hem na overlevering opgelegde straf of maatregel. Eventuele bewijsstukken dienen tijdig voorafgaand aan het verhoor door de rechtbank te worden overlegd.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Overlevering kan worden toegestaan ten behoeve van:
 
@@ -142,11 +169,11 @@ Overlevering geschiedt uitsluitend aan uitvaardigende justitiële autoriteiten v
 
 7. [Artikel 51a van de Uitleveringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=51a) is van overeenkomstige toepassing op overlevering tussen de lidstaten van de Europese Unie.
 
-#### Artikel 8
+##### Artikel 8
 
 Met vrijheidsstraffen van langere duur dan twaalf maanden worden voor de toepassing van deze wet gelijkgesteld: levenslange vrijheidsstraffen en vrijheidsstraffen van onbepaalde duur.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Overlevering van de opgeëiste persoon kan worden geweigerd voor een feit ter zake waarvan:
 
@@ -182,11 +209,11 @@ Met vrijheidsstraffen van langere duur dan twaalf maanden worden voor de toepass
 
 4. Onderdeel c van het tweede lid lijdt uitzondering in gevallen waarin de vervolging in Nederland is gestaakt, hetzij omdat de Nederlandse strafwet op grond van een van de [artikelen 2 tot en met 8d van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=2) niet van toepassing bleek te zijn, hetzij omdat aan berechting in het buitenland de voorkeur werd gegeven.
 
-#### Artikel 10
+##### Artikel 10
 
 Overlevering wordt niet toegestaan indien de opgeëiste persoon ten tijde van het begaan van het strafbare feit de leeftijd van twaalf jaren nog niet heeft bereikt.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Aan een Europees aanhoudingsbevel wordt geen gevolg gegeven in gevallen, waarin naar het oordeel van de rechtbank zwaarwegende en op feiten berustende gronden bestaan dat de opgeëiste persoon na overlevering een reëel gevaar loopt dat zijn door het Handvest van de grondrechten van de Europese Unie gewaarborgde grondrechten zullen worden geschonden.
 
@@ -196,7 +223,7 @@ Overlevering wordt niet toegestaan indien de opgeëiste persoon ten tijde van he
 
 4. Indien na toepassing van het derde lid niet binnen een redelijke termijn het reële gevaar van de in het eerste lid bedoelde schending kan worden uitgesloten, doet de rechtbank uitspraak als bedoeld in [artikel 28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofdstuk=II&afdeling=2&paragraaf=C&artikel=28&z=2025-07-01&g=2025-07-01).
 
-#### Artikel 12
+##### Artikel 12
 
 Overlevering kan worden geweigerd indien het Europees aanhoudingsbevel strekt tot de tenuitvoerlegging van een vrijheidsbenemende straf of maatregel terwijl de verdachte niet in persoon is verschenen bij het proces dat tot de beslissing heeft geleid, tenzij in het Europees aanhoudingsbevel is vermeld dat overeenkomstig de procedurevoorschriften van de uitvaardigende lidstaat:
 
@@ -216,7 +243,7 @@ Overlevering kan worden geweigerd indien het Europees aanhoudingsbevel strekt to
 
 - 2°. hij wordt geïnformeerd over de termijn waarbinnen hij verzet of hoger beroep dient aan te tekenen, als vermeld in het desbetreffende Europees aanhoudingsbevel.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Overlevering kan worden geweigerd indien het Europees aanhoudingsbevel betrekking heeft op een strafbaar feit dat:
 
@@ -226,7 +253,7 @@ Overlevering kan worden geweigerd indien het Europees aanhoudingsbevel strekt to
 
 2. Vervallen.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Overlevering wordt niet toegestaan dan onder het algemene beding, dat de opgeëiste persoon niet zal worden vervolgd, gestraft of op enige andere wijze in zijn persoonlijke vrijheid beperkt, ter zake van feiten die vóór het tijdstip van zijn overlevering zijn begaan en waarvoor hij niet is overgeleverd, tenzij:
 
@@ -262,17 +289,17 @@ Overlevering kan worden geweigerd indien het Europees aanhoudingsbevel strekt to
 
 #### § A. Voorlopige aanhouding
 
-#### Artikel 15
+##### Artikel 15
 
 1. Op basis van een signalering als bedoeld in [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofdstuk=I&afdeling=2&artikel=4&z=2025-07-01&g=2025-07-01), kan de voorlopige aanhouding worden bevolen van een zich in Nederland bevindende opgeëiste persoon.
 
 2. [Artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofdstuk=II&afdeling=2&paragraaf=B&artikel=21&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
 
-#### Artikel 16
+##### Artikel 16
 
 Een vreemdeling die op grond van [artikel 54, vijfde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=54) is aangehouden, kan op bevel van de officier of hulpofficier van justitie in het arrondissement waar hij werd aangehouden worden opgehouden, indien gegronde redenen bestaan voor de verwachting dat te zijnen aanzien onverwijld een signalering als bedoeld in [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofdstuk=I&afdeling=2&artikel=4&z=2025-07-01&g=2025-07-01), zal worden gedaan dan wel een Europees aanhoudingsbevel zal worden ontvangen. [Artikel 56a, eerste tot en met derde lid, van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=56a) is van overeenkomstige toepassing.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Elke officier van justitie of hulpofficier van justitie is bevoegd de voorlopige aanhouding van een opgeëiste persoon overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofdstuk=II&afdeling=2&paragraaf=A&artikel=15&z=2025-07-01&g=2025-07-01) te bevelen.
 
@@ -300,13 +327,13 @@ Aan de opgeëiste persoon die de Nederlandse taal niet of onvoldoende beheerst, 
 
 7. De opgeëiste persoon kan te allen tijde door de officier van justitie bij het arrondissementsparket te Amsterdam in vrijheid worden gesteld.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De rechter-commissaris kan, op vordering van de officier van justitie bij het arrondissementsparket te Amsterdam, de bewaring van de opgeëiste persoon bevelen.
 
 2. Alvorens een bevel ingevolge het eerste lid te geven, hoort de rechter-commissaris zo mogelijk de opgeëiste persoon. Bij zijn verhoor kan de opgeëiste persoon zich door zijn raadsman doen bijstaan.
 
-#### Artikel 19
+##### Artikel 19
 
 Een opgeëiste persoon wiens bewaring overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofdstuk=II&afdeling=2&paragraaf=A&artikel=18&z=2025-07-01&g=2025-07-01) is bevolen, wordt – behoudens de mogelijkheid van verdere vrijheidsbeneming uit anderen hoofde – in vrijheid gesteld:
 
@@ -316,7 +343,7 @@ Een opgeëiste persoon wiens bewaring overeenkomstig [artikel 18](https://wetten
 
 #### § B. Aanhouding
 
-#### Artikel 20
+##### Artikel 20
 
 1. Een Europees aanhoudingsbevel wordt, zo het niet aan de officier van justitie is toegezonden, onverwijld aan hem doorgezonden.
 
@@ -326,7 +353,7 @@ Een opgeëiste persoon wiens bewaring overeenkomstig [artikel 18](https://wetten
 
 4. Indien naar het oordeel van de officier van justitie, dan wel naar het oordeel van de rechtbank naast het Europees aanhoudingsbevel aanvullende gegevens noodzakelijk zijn, met name in verband met de [artikelen 7 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofdstuk=II&afdeling=1&artikel=7&z=2025-07-01&g=2025-07-01) en [11 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofdstuk=II&afdeling=1&artikel=11&z=2025-07-01&g=2025-07-01), stelt de officier van justitie de uitvaardigende justitiële autoriteit in de gelegenheid tot completering of verbetering, rekening houdend met de in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofdstuk=II&afdeling=2&paragraaf=C&artikel=22&z=2025-07-01&g=2025-07-01) genoemde termijnen.
 
-#### Artikel 21
+##### Artikel 21
 
 1. De opgeëiste persoon wordt op basis van een Europees aanhoudingsbevel dat voldoet aan de vereisten omschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofdstuk=I&afdeling=2&artikel=2&z=2025-07-01&g=2025-07-01) zonder verdere formaliteiten aangehouden. [Artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofdstuk=II&afdeling=2&paragraaf=A&artikel=17&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
 
@@ -350,7 +377,7 @@ Een opgeëiste persoon wiens bewaring overeenkomstig [artikel 18](https://wetten
 
 #### § B. Aanhouding
 
-#### Artikel 22
+##### Artikel 22
 
 1. De uitspraak, houdende de beslissing over de overlevering dient door de rechtbank te worden gedaan uiterlijk zestig dagen na de aanhouding van de opgeëiste persoon, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofdstuk=II&afdeling=2&paragraaf=B&artikel=21&z=2025-07-01&g=2025-07-01).
 
@@ -370,7 +397,7 @@ Een opgeëiste persoon wiens bewaring overeenkomstig [artikel 18](https://wetten
 
 6. In geval van verlenging van de termijn als bedoeld in het vierde en vijfde lid stelt de officier van justitie Eurojust en de uitvaardigende justitiële autoriteit daarvan onverwijld in kennis, onder opgave van de redenen voor de vertraging.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Indien de officier van justitie reeds aanstonds van oordeel is dat de overlevering niet kan worden toegestaan op grond van het voorliggende Europees aanhoudingsbevel, brengt hij dit oordeel uiterlijk op de derde dag na ontvangst van het Europees aanhoudingsbevel ter kennis van de rechtbank, onder overlegging van het Europees aanhoudingsbevel met bijbehorende vertaling. De rechtbank kan in dat geval het bepaalde in [artikel 23, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=23) buiten toepassing laten. De rechtbank beslist binnen een termijn van tien dagen over het reeds aanstonds weigeren van de overlevering. Indien de rechtbank beslist dat het Europees aanhoudingsbevel wordt geweigerd, stelt de officier van justitie de uitvaardigende justitiële autoriteit onmiddellijk in kennis van deze beslissing.
 
@@ -384,7 +411,7 @@ Een opgeëiste persoon wiens bewaring overeenkomstig [artikel 18](https://wetten
 
 6. Indien tegen de opgeëiste persoon in Nederland een strafvervolging gaande is voor een ander feit dan aan het Europees aanhoudingsbevel ten grondslag ligt, zendt de officier van justitie eveneens een afschrift van zijn vordering ter kennisneming aan de officier van justitie die met de vervolging is belast, met het verzoek hem onverwijld te informeren over de stand van zaken met betrekking tot die vervolging.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Dadelijk na de ontvangst van de in [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofdstuk=II&afdeling=2&paragraaf=C&artikel=23&z=2025-07-01&g=2025-07-01), bedoelde vordering bepaalt de voorzitter van de rechtbank, rekening houdend met de termijnen, genoemd in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofdstuk=II&afdeling=2&paragraaf=C&artikel=22&z=2025-07-01&g=2025-07-01), het tijdstip waarop de opgeëiste persoon door de rechtbank zal worden gehoord. Hij kan daarbij diens medebrenging bevelen.
 
@@ -394,7 +421,7 @@ Een opgeëiste persoon wiens bewaring overeenkomstig [artikel 18](https://wetten
 
 4. Indien de opgeëiste persoon minderjarig is, wordt de raad voor de kinderbescherming van de tijd en plaats van het verhoor op de hoogte gesteld. Indien de identiteit en verblijfplaats van de ouders of voogd bekend zijn, worden de ouders of voogd eveneens van de tijd en plaats van het verhoor op de hoogte gesteld.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Het verhoor van de opgeëiste persoon geschiedt in het openbaar, tenzij deze een behandeling van de zaak met gesloten deuren verlangt of de rechtbank om gewichtige, in het proces-verbaal der zitting te vermelden redenen sluiting der deuren beveelt.
 
@@ -406,7 +433,7 @@ Een opgeëiste persoon wiens bewaring overeenkomstig [artikel 18](https://wetten
 
 5. Indien de opgeëiste persoon minderjarig is, worden verschenen ouders of voogd en de verschenen vertegenwoordiger van de raad voor de kinderbescherming in de gelegenheid gesteld de minderjarige bij te staan.
 
-#### Artikel 26
+##### Artikel 26
 
 1. De rechtbank onderzoekt de identiteit van de opgeëiste persoon op de wijze, bedoeld in [artikel 27a, eerste lid, eerste volzin, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=27a), alsmede de ontvankelijkheid van het Europees aanhoudingsbevel en de mogelijkheid van overlevering. De rechtbank is tevens bevoegd de identiteit van de opgeëiste persoon vast te stellen op de wijze, bedoeld in artikel 27a, tweede lid, van dat wetboek, indien over zijn identiteit twijfel bestaat. [Artikel 29c, tweede lid, van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=29c) is van overeenkomstige toepassing.
 
@@ -428,7 +455,7 @@ Een opgeëiste persoon wiens bewaring overeenkomstig [artikel 18](https://wetten
 
 4. Indien de rechtbank zulks met het oog op het door haar krachtens het eerste lid in te stellen onderzoek noodzakelijk acht, gelast zij, rekening houdend met de termijnen, genoemd in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofdstuk=II&afdeling=2&paragraaf=C&artikel=22&z=2025-07-01&g=2025-07-01), – zo nodig onder bijvoeging van een bevel tot medebrenging – tegen een door haar te bepalen tijdstip de dagvaarding of schriftelijke oproeping van getuigen of deskundigen.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Op vordering van de officier van justitie kan de rechtbank ter zitting de gevangenneming van de opgeëiste persoon bevelen.
 
@@ -438,7 +465,7 @@ Een opgeëiste persoon wiens bewaring overeenkomstig [artikel 18](https://wetten
 
 4. In geval van weigering van de overlevering als bedoeld in [artikel 6a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofdstuk=II&afdeling=1&artikel=6a&z=2025-07-01&g=2025-07-01), kan de rechtbank de gevangenhouding van de opgeëiste persoon bevelen tot aan de tenuitvoerlegging van de vrijheidsstraf.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Uiterlijk veertien dagen na de sluiting van het onderzoek ter zitting doet de rechtbank uitspraak over de overlevering. De uitspraak wordt met redenen omkleed.
 
@@ -450,19 +477,19 @@ Een opgeëiste persoon wiens bewaring overeenkomstig [artikel 18](https://wetten
 
 5. In een uitspraak als bedoeld in dit artikel worden de toepasselijke wetsbepalingen, alsmede – in voorkomend geval – het feit of de feiten waarvoor de overlevering wordt toegestaan en de letterlijke tekst van de door de uitvaardigende justitiële autoriteit afgegeven garanties, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofdstuk=II&afdeling=1&artikel=6&z=2025-07-01&g=2025-07-01), en in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofdstuk=II&afdeling=1&artikel=12&z=2025-07-01&g=2025-07-01) vermeld.
 
-#### Artikel 29
+##### Artikel 29
 
 1. De uitspraak van de rechtbank is dadelijk uitvoerbaar, tenzij er ten aanzien van de opgeëiste persoon een concurrerend uitleveringsverzoek of overleveringsverzoek van het Internationaal Strafhof of van een ander internationaal tribunaal is ontvangen, dat in behandeling is genomen.
 
 2. Tegen de uitspraak van de rechtbank staat geen rechtsmiddel open, anders dan beroep in cassatie in het belang der wet, bedoeld in [artikel 456 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=456).
 
-#### Artikel 30
+##### Artikel 30
 
 1. De artikelen [21 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=21), [260, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=260), [268](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=268), [269, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=269), [271](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=271), [272](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=272), [273, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=273), [274 tot en met 277](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=274), [279](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=279), [281](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=281), [286](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=286), [288, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=288), [289, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=289), [290 tot en met 301](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=290), [318 tot en met 322](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=318), [324 tot en met 327](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=324), [328 tot en met 331](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=328), [345, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=345), [346](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=346), [357](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=357), [362](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=362), [363](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=363) en [365, eerste tot en met vijfde lid van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=365) zijn van overeenkomstige toepassing.
 
 2. De in het eerste lid genoemde artikelen vinden geen toepassing voor zover deze betrekking hebben op een getuige wiens identiteit niet of slechts ten dele blijkt.
 
-#### Artikel 31
+##### Artikel 31
 
 1. De uitspraak van de rechtbank wordt aan de opgeëiste persoon die bij de voorlezing daarvan niet tegenwoordig is geweest, betekend. Daarbij wordt hem meegedeeld dat hij tegen de uitspraak geen rechtsmiddel kan instellen.
 
@@ -474,13 +501,13 @@ Een opgeëiste persoon wiens bewaring overeenkomstig [artikel 18](https://wetten
 
 5. In de gevallen bedoeld in het tweede en derde lid zendt de griffier van de rechtbank tevens een afschrift van het Europees aanhoudingsbevel met de daarbij behorende stukken aan Onze Minister.
 
-#### Artikel 32
+##### Artikel 32
 
 De officier van justitie brengt de uitspraak van de rechtbank onverwijld ter kennis van de uitvaardigende justitiële autoriteit. Indien de overlevering is toegestaan, vermeldt hij hetzij de termijn waarbinnen de overlevering dient plaats te vinden, hetzij het bestaan van een concurrerend uitleveringsverzoek of een overleveringsverzoek van het Internationaal Strafhof of een ander internationaal tribunaal.
 
 #### § D. Voortgezette vrijheidsbeneming en feitelijke overlevering
 
-#### Artikel 33
+##### Artikel 33
 
 Een krachtens [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofdstuk=II&afdeling=2&paragraaf=C&artikel=27&z=2025-07-01&g=2025-07-01) bevolen vrijheidsbeneming wordt – behoudens de mogelijkheid van verdere vrijheidsbeneming uit anderen hoofde – beëindigd zodra:
 
@@ -488,7 +515,7 @@ Een krachtens [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofd
 
 - b. zij sedert de dag van de uitspraak tien dagen heeft geduurd, tenzij de rechtbank, op vordering van de officier van justitie, de vrijheidsbeneming inmiddels heeft verlengd overeenkomstig [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofdstuk=II&afdeling=2&paragraaf=D&artikel=34&z=2025-07-01&g=2025-07-01).
 
-#### Artikel 34
+##### Artikel 34
 
 1. De voortgezette vrijheidsbeneming kan telkens worden verlengd met ten hoogste dertig dagen indien:
 
@@ -498,7 +525,7 @@ Een krachtens [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofd
 
 2. De opgeëiste persoon wordt in de gelegenheid gesteld op de vordering tot verlenging te worden gehoord.
 
-#### Artikel 35
+##### Artikel 35
 
 1. Zo spoedig mogelijk na de uitspraak waarbij de overlevering geheel of gedeeltelijk is toegestaan, maar niet later dan tien dagen na de datum van deze uitspraak, wordt de opgeëiste persoon feitelijk overgeleverd. De officier van justitie bepaalt, na overleg met de uitvaardigende justitiële autoriteit, de tijd en plaats.
 
@@ -520,7 +547,7 @@ Een krachtens [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofd
 
 6. De officier van justitie stelt de uitvaardigende justitiële autoriteit onverwijld in kennis van een invrijheidstelling als bedoeld in het vierde lid en van daarbij gestelde voorwaarden.
 
-#### Artikel 36
+##### Artikel 36
 
 1. De beslissing omtrent de tijd en de plaats van de feitelijke overlevering kan door de rechtbank, op vordering van de officier van justitie of op verzoek van de opgeëiste persoon of diens raadsman worden aangehouden, indien en zolang tegen de opgeëiste persoon een strafrechtelijke vervolging in Nederland gaande is, of een door een Nederlandse rechter tegen hem gewezen strafvonnis nog geheel of ten dele voor tenuitvoerlegging vatbaar is.
 
@@ -540,7 +567,7 @@ Een krachtens [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofd
 
 7. De inverzekeringstelling kan worden opgeheven zodra de officier van justitie bericht ontvangt dat de gronden voor de detentie in het buitenland niet langer bestaan.
 
-#### Artikel 37
+##### Artikel 37
 
 1. Indien zulks voor de toepassing van [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofdstuk=II&afdeling=2&paragraaf=D&artikel=35&z=2025-07-01&g=2025-07-01), tenzij de vrijheidsbeneming op grond van artikel 35, vierde lid, is beëindigd, of van [artikel 36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofdstuk=II&afdeling=2&paragraaf=D&artikel=36&z=2025-07-01&g=2025-07-01), noodzakelijk is, wordt de opgeëiste persoon op bevel van de officier van justitie aangehouden voor ten hoogste drie dagen. Indien de feitelijke overlevering niet binnen de termijn van drie dagen heeft kunnen plaatsvinden, kan het bevel tot aanhouding door de officier van justitie eenmaal voor ten hoogste drie dagen worden verlengd.
 
@@ -548,13 +575,13 @@ Een krachtens [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofd
 
 3. Een verlenging als bedoeld in het tweede lid kan alleen geschieden wanneer de feitelijke overlevering door omstandigheden buiten de macht van enige lidstaat of door ernstige humanitaire redenen niet binnen de termijn van zes dagen, ingevolge het eerste lid, heeft kunnen plaatshebben.
 
-#### Artikel 38
+##### Artikel 38
 
 Bij de feitelijke overlevering deelt de officier van justitie aan de uitvaardigende justitiële autoriteit of, in voorkomend geval, aan de bevoegde centrale autoriteit de duur van de vrijheidsbeneming van de opgeëiste persoon met het oog op zijn overlevering, mee.
 
 #### § E. Verkorte procedure
 
-#### Artikel 39
+##### Artikel 39
 
 1. De opgeëiste persoon die overeenkomstig [artikel 4, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofdstuk=I&afdeling=2&artikel=4&z=2025-07-01&g=2025-07-01), is gesignaleerd ter fine van aanhouding met het oog op zijn overlevering of ten aanzien van wie een Europees aanhoudingsbevel is ontvangen, kan, uiterlijk op de dag voorafgaande aan die welke overeenkomstig [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofdstuk=II&afdeling=2&paragraaf=C&artikel=24&z=2025-07-01&g=2025-07-01) is bepaald voor zijn verhoor door de rechtbank, verklaren dat hij instemt met zijn onmiddellijke overlevering en, in voorkomend geval, dat hij afstand doet van de bescherming van het specialiteitsbeginsel.
 
@@ -568,7 +595,7 @@ Bij de feitelijke overlevering deelt de officier van justitie aan de uitvaardige
 
 6. De rechtbank waarvoor de verklaring is afgelegd, zendt het proces-verbaal daarvan onverwijld aan de officier van justitie.
 
-#### Artikel 40
+##### Artikel 40
 
 1. Uiterlijk tien dagen nadat een verklaring overeenkomstig [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofdstuk=II&afdeling=2&paragraaf=E&artikel=39&z=2025-07-01&g=2025-07-01) is afgelegd, beslist de rechtbank of de opgeëiste persoon ter beschikking zal worden gesteld van de uitvaardigende justitiële autoriteit van wie de signalering als bedoeld in [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofdstuk=I&afdeling=2&artikel=4&z=2025-07-01&g=2025-07-01), of het Europees aanhoudingsbevel is uitgegaan.
 
@@ -580,7 +607,7 @@ Bij de feitelijke overlevering deelt de officier van justitie aan de uitvaardige
 
 5. Van elke beslissing, genomen krachtens het eerste lid van dit artikel, geeft de officier van justitie onverwijld kennis aan de opgeëiste persoon en de uitvaardigende justitiële autoriteit.
 
-#### Artikel 41
+##### Artikel 41
 
 1. Indien de rechtbank overeenkomstig [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofdstuk=II&afdeling=2&paragraaf=E&artikel=40&z=2025-07-01&g=2025-07-01) heeft beslist dat de opgeëiste persoon ter beschikking zal worden gesteld van de uitvaardigende justitiële autoriteit van de andere lidstaat, blijft [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofdstuk=II&afdeling=2&paragraaf=C&artikel=23&z=2025-07-01&g=2025-07-01), buiten toepassing.
 
@@ -588,7 +615,7 @@ Bij de feitelijke overlevering deelt de officier van justitie aan de uitvaardige
 
 3. Van het intrekken van de vordering geeft de officier van justitie kennis aan de opgeëiste persoon.
 
-#### Artikel 42
+##### Artikel 42
 
 1. Na de dag waarop hij de in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofdstuk=II&afdeling=2&paragraaf=E&artikel=39&z=2025-07-01&g=2025-07-01) bedoelde verklaring heeft afgelegd, kan de opgeëiste persoon nog slechts gedurende ten hoogste twintig dagen in bewaring of in verzekering gesteld blijven.
 
@@ -596,7 +623,7 @@ Bij de feitelijke overlevering deelt de officier van justitie aan de uitvaardige
 
 3. De in het eerste lid van dit artikel gestelde termijn kan, op vordering van de officier van justitie, door de rechtbank telkens met ten hoogste dertig dagen worden verlengd uitsluitend wanneer de feitelijke overlevering door omstandigheden buiten de macht van enige lidstaat of door ernstige humanitaire redenen niet binnen de termijn van twintig dagen, bedoeld in het eerste lid, heeft kunnen plaatsvinden. [Artikel 35, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofdstuk=II&afdeling=2&paragraaf=D&artikel=35&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
 
-#### Artikel 43
+##### Artikel 43
 
 1. In geval van toepassing van [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofdstuk=II&afdeling=2&paragraaf=E&artikel=40&z=2025-07-01&g=2025-07-01), bepaalt de officier van justitie, na overleg met de bevoegde buitenlandse autoriteiten, onverwijld de tijd en de plaats waarop de feitelijke overlevering zal geschieden.
 
@@ -604,11 +631,11 @@ Bij de feitelijke overlevering deelt de officier van justitie aan de uitvaardige
 
 ### Hoofdstuk III. Overlevering aan Nederland
 
-#### Artikel 44
+##### Artikel 44
 
 Elke rechter-commissaris kan fungeren als uitvaardigende justitiële autoriteit.
 
-#### Artikel 45
+##### Artikel 45
 
 1. Bij of in een Europees aanhoudingsbevel dient door de uitvaardigende rechter-commissaris te worden verklaard:
 
@@ -618,7 +645,7 @@ Elke rechter-commissaris kan fungeren als uitvaardigende justitiële autoriteit.
 
 2. Aan een verklaring, bedoeld in het eerste lid, is iedere persoon of instantie die in Nederland is belast met een publieke taak, gebonden.
 
-#### Artikel 46
+##### Artikel 46
 
 1. De uitvaardigende rechter-commissaris is bevoegd rechtstreeks contact te onderhouden met de uitvoerende justitiële autoriteit.
 
@@ -626,11 +653,11 @@ Elke rechter-commissaris kan fungeren als uitvaardigende justitiële autoriteit.
 
 3. Een signalering als bedoeld in [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofdstuk=I&afdeling=2&artikel=4&z=2025-07-01&g=2025-07-01), draagt de uitvaardigende rechter-commissaris, zo veel mogelijk door tussenkomst van de officier van justitie op aan een of meerdere landelijke eenheden van de politie, onder overlegging van een gewaarmerkt afschrift van het door hem afgegeven Europees aanhoudingsbevel.
 
-#### Artikel 47
+##### Artikel 47
 
 De uitvaardigende rechter-commissaris is met het oog op de behandeling en uitvoering van het door hem afgegeven Europees aanhoudingsbevel bevoegd de uitvoerende justitiële autoriteit op verzoek of eigener beweging aanvullende informatie te verstrekken en, in voorkomend geval, schriftelijk de voorwaarden overeen te komen in het geval de opgeëiste persoon voorlopig ter beschikking wordt gesteld.
 
-#### Artikel 48
+##### Artikel 48
 
 De voorwaarden die door de buitenlandse uitvoerende justitiële autoriteit in overeenstemming met het op 13 juni 2002 door de Raad vastgestelde kaderbesluit betreffende het Europees aanhoudingsbevel en de procedures van overlevering tussen de lidstaten van de Europese Unie (PbEG L 190) worden gesteld bij de overlevering van de opgeëiste persoon aan Nederland, zijn verbindend voor iedere persoon of instantie die in Nederland is belast met een publieke taak.
 
@@ -638,7 +665,7 @@ De voorwaarden die door de buitenlandse uitvoerende justitiële autoriteit in ov
 
 ### Afdeling 1. Op verzoek van het buitenland
 
-#### Artikel 49
+##### Artikel 49
 
 1. Voorwerpen, aangetroffen in het bezit van de opgeëiste persoon, kunnen op verzoek van de uitvaardigende justitiële autoriteit in beslag worden genomen. De inbeslagneming kan door elke officier of hulpofficier van justitie worden gelast.
 
@@ -648,7 +675,7 @@ De voorwaarden die door de buitenlandse uitvoerende justitiële autoriteit in ov
 
 4. In geval van overlevering overeenkomstig [§ E van afdeling 2 van hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofdstuk=II&afdeling=2&paragraaf=E&z=2025-07-01&g=2025-07-01), legt de officier van justitie tijdig voorafgaand aan de beslissing van de rechtbank, genoemd in [artikel 50, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofdstuk=IV&afdeling=1&artikel=50&z=2025-07-01&g=2025-07-01), in samenhang met [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofdstuk=II&afdeling=2&paragraaf=E&artikel=40&z=2025-07-01&g=2025-07-01), een lijst van de in beslag genomen voorwerpen aan de rechtbank over.
 
-#### Artikel 50
+##### Artikel 50
 
 1. De rechtbank beslist bij haar uitspraak over de overlevering tevens over de afgifte dan wel de teruggave van de in beslag genomen voorwerpen en vermeldt dit in haar uitspraak. Afgifte van die voorwerpen aan de uitvaardigende justitiële autoriteit kan alleen worden bevolen in het geval van inwilliging van het verzoek tot overlevering.
 
@@ -658,7 +685,7 @@ De voorwaarden die door de buitenlandse uitvoerende justitiële autoriteit in ov
 
 4. Voorwerpen ten aanzien waarvan de rechtbank de overdracht heeft toegestaan, worden ook overgedragen indien de opgeëiste persoon wegens overlijden of ontsnapping niet feitelijk kan worden overgeleverd.
 
-#### Artikel 51
+##### Artikel 51
 
 1. Opgeëiste personen die, ten behoeve van een strafrechtelijk onderzoek of de tenuitvoerlegging van een strafvonnis, door de uitvoerende justitiële autoriteit van een lidstaat feitelijk worden overgeleverd aan de uitvaardigende justitiële autoriteit van een andere lidstaat of door een derde staat aan een andere lidstaat worden uitgeleverd, kunnen met toestemming van de officier van justitie over Nederlands grondgebied worden vervoerd.
 
@@ -680,19 +707,19 @@ De voorwaarden die door de buitenlandse uitvoerende justitiële autoriteit in ov
 
 6. Het vervoer van de voorlopig aangehouden opgeëiste persoon kan worden voortgezet, zodra de officier van justitie de in het tweede lid bedoelde informatie heeft ontvangen en daartoe toestemming verleent. Is de toestemming na afloop van de termijn van inverzekeringstelling nog niet verleend of binnen die termijn geweigerd, dan wordt de opgeëiste persoon terstond in vrijheid gesteld, behoudens de mogelijkheid van verdere vrijheidsbeneming uit anderen hoofde.
 
-#### Artikel 52
+##### Artikel 52
 
 1. Bij vervoer te land, overeenkomstig [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofdstuk=IV&afdeling=1&artikel=51&z=2025-07-01&g=2025-07-01), is de bewaking van de opgeëiste persoon opgedragen aan Nederlandse ambtenaren die bevoegd zijn alle dienstige maatregelen te nemen ter beveiliging van de opgeëiste persoon en ter voorkoming van zijn ontvluchting.
 
 2. Indien het ten gevolge van bijzondere omstandigheden niet mogelijk is het vervoer door Nederland zonder onderbreking voort te zetten, kan de opgeëiste persoon, in afwachting van een passende gelegenheid tot vertrek naar elders, zo nodig worden opgenomen in een huis van bewaring, zulks op vertoon van een stuk waaruit de door de officier van justitie verleende toestemming tot het vervoer blijkt.
 
-#### Artikel 53
+##### Artikel 53
 
 1. Aan een verzoek van de uitvaardigende justitiële autoriteit om een opgeëiste persoon die op basis van een door hem afgegeven Europees aanhoudingsbevel ten behoeve van een tegen hem gericht strafrechtelijk onderzoek is aangehouden voorafgaand aan diens overlevering te horen, geeft de officier van justitie zo veel mogelijk gevolg.
 
 2. Op het verhoor zijn de [artikelen 5.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=5.1.8) en [5.1.9 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=5.1.9) en artikel 4, eerste tot en met derde lid, van de EU-rechtshulpovereenkomst 2000 van toepassing.
 
-#### Artikel 54
+##### Artikel 54
 
 1. De rechtbank staat op verzoek van de uitvaardigende justitiële autoriteit, gehoord de officier van justitie, toe dat een opgeëiste persoon die op basis van een Europees aanhoudingsbevel ten behoeve van een tegen hem gericht strafrechtelijk onderzoek is aangehouden, voorafgaand aan de beslissing over de overlevering, tijdelijk ter beschikking wordt gesteld van de uitvaardigende justitiële autoriteit voor het afleggen van een verklaring.
 
@@ -702,11 +729,11 @@ De voorwaarden die door de buitenlandse uitvoerende justitiële autoriteit in ov
 
 ### Afdeling 2. Op verzoek van Nederland
 
-#### Artikel 55
+##### Artikel 55
 
 Elke rechter-commissaris kan de uitvoerende justitiële autoriteit verzoeken voorwerpen, aangetroffen in het bezit van degene wiens overlevering hij op basis van een signalering als bedoeld in [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofdstuk=I&afdeling=2&artikel=4&z=2025-07-01&g=2025-07-01) of van een Europees aanhoudingsbevel heeft gevraagd, in beslag te nemen en aan hem over te dragen.
 
-#### Artikel 56
+##### Artikel 56
 
 1. De rechter-commissaris die een Europees aanhoudingsbevel heeft uitgevaardigd of de officier van justitie die een Europees aanhoudingsbevel of uitleveringsverzoek in behandeling heeft genomen, zendt een verzoek om doorvoer van een opgeëiste persoon aan de bevoegde autoriteit van de lidstaat van de Europese Unie over wiens grondgebied betrokkene moet worden vervoerd.
 
@@ -720,7 +747,7 @@ Elke rechter-commissaris kan de uitvoerende justitiële autoriteit verzoeken voo
 
 - d. een beschrijving van de omstandigheden waaronder het strafbare feit is begaan, met inbegrip van tijd en plaats.
 
-#### Artikel 57
+##### Artikel 57
 
 De rechter-commissaris kan de uitvoerende justitiële autoriteit verzoeken om de persoon die op basis van een door hem afgegeven Europees aanhoudingsbevel ten behoeve van een tegen hem gericht strafrechtelijk onderzoek is aangehouden, voorafgaand aan de beslissing over diens overlevering:
 
@@ -728,7 +755,7 @@ De rechter-commissaris kan de uitvoerende justitiële autoriteit verzoeken om de
 
 - b. tijdelijk over te brengen naar Nederland.
 
-#### Artikel 58
+##### Artikel 58
 
 1. In de gevallen bedoeld in [artikel 57, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofdstuk=IV&afdeling=2&artikel=57&z=2025-07-01&g=2025-07-01), bepaalt de rechter-commissaris die het Europees aanhoudingsbevel heeft uitgevaardigd in overleg met de uitvoerende justitiële autoriteit de duur van de terbeschikkingstelling en de voorwaarden waaronder de terbeschikkingstelling plaatsvindt.
 
@@ -738,11 +765,11 @@ De rechter-commissaris kan de uitvoerende justitiële autoriteit verzoeken om de
 
 ### Hoofdstuk V. Slotbepalingen
 
-#### Artikel 59
+##### Artikel 59
 
 Krachtens deze wet gegeven bevelen tot inverzekeringstelling of bewaring, dan wel tot verlenging van een termijn van vrijheidsbeneming, worden gedagtekend en ondertekend. De grond voor uitvaardiging wordt in het bevel vermeld. Aan degene op wie het bevel betrekking heeft, wordt onverwijld een afschrift daarvan uitgereikt.
 
-#### Artikel 60
+##### Artikel 60
 
 1. De bevelen tot vrijheidsbeneming, gegeven krachtens deze wet, zijn dadelijk uitvoerbaar.
 
@@ -750,19 +777,19 @@ Krachtens deze wet gegeven bevelen tot inverzekeringstelling of bewaring, dan we
 
 3. Op de tenuitvoerlegging van een Europees aanhoudingsbevel, de in het eerste lid bedoelde bevelen tot vrijheidsbeneming en de last daartoe zijn de [artikelen 6:1:6](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:6), [6:1:7](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:7), [6:1:9](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:9), [6:1:15](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:15) en [6:2:1 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:1) van toepassing.
 
-#### Artikel 61
+##### Artikel 61
 
 Personen die krachtens deze wet in verzekering of in bewaring zijn gesteld, of wier gevangenneming of gevangenhouding is bevolen, worden behandeld als verdachten die krachtens het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) aan een overeenkomstige maatregel zijn onderworpen.
 
-#### Artikel 62
+##### Artikel 62
 
 [Artikel 490, eerste lid, eerste volzin en derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=490) is van overeenkomstige toepassing.
 
-#### Artikel 63
+##### Artikel 63
 
 Op de bevelen tot bewaring en gevangenhouding, krachtens deze wet gegeven, is [artikel 66a van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=66a) van overeenkomstige toepassing.
 
-#### Artikel 64
+##### Artikel 64
 
 1. In gevallen waarin krachtens deze wet een beslissing omtrent de vrijheidsbeneming kan of moet worden genomen, kan worden bevolen dat die vrijheidsbeneming voorwaardelijk wordt opgeschort of geschorst tot het moment van de uitspraak van de rechtbank waarbij de overlevering wordt toegestaan. De te stellen voorwaarden mogen alleen strekken ter voorkoming van vlucht.
 
@@ -770,25 +797,25 @@ Op de bevelen tot bewaring en gevangenhouding, krachtens deze wet gegeven, is [a
 
 3. De officier van justitie stelt de uitvaardigende justitiële autoriteit onverwijld in kennis van een bevel van de rechtbank, respectievelijk, de rechter-commissaris als bedoeld in het eerste lid, en van de daaraan ten grondslag liggende redenen.
 
-#### Artikel 65
+##### Artikel 65
 
 Op bevelen tot beëindiging van vrijheidsbeneming, krachtens deze wet gegeven, en op de tenuitvoerlegging van zodanige bevelen zijn de [artikelen 73](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=73), [79](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=79), [6:2:5 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:5) van overeenkomstige toepassing.
 
-#### Artikel 66
+##### Artikel 66
 
 De termijnen, genoemd in de [artikelen 19, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofdstuk=II&afdeling=2&paragraaf=A&artikel=19&z=2025-07-01&g=2025-07-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofdstuk=II&afdeling=2&paragraaf=C&artikel=22&z=2025-07-01&g=2025-07-01), en [37, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofdstuk=II&afdeling=2&paragraaf=D&artikel=37&z=2025-07-01&g=2025-07-01), lopen niet gedurende de tijd dat de betrokkene zich aan de verdere tenuitvoerlegging van de in die artikelen bedoelde bevelen heeft onttrokken.
 
-#### Artikel 67
+##### Artikel 67
 
 1. In gevallen waarin de overlevering is geweigerd, kan de rechtbank, op verzoek van de opgeëiste persoon, hem een vergoeding ten laste van de Staat toekennen voor de schade die hij heeft geleden ten gevolge van vrijheidsbeneming, bevolen krachtens deze wet. Onder schade is begrepen het nadeel dat niet in vermogensschade bestaat. De [artikelen 533, derde, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=533), [534](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=534), [535](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=535) en [536 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=536) zijn van overeenkomstige toepassing.
 
 2. In gevallen als bedoeld in het eerste lid vinden de [artikelen 529](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=529) en [530 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=530) overeenkomstige toepassing op vergoeding van kosten en schaden voor de opgeëiste persoon of diens erfgenamen. In de plaats van het in die artikelen bedoelde gerecht treedt de rechtbank.
 
-#### Artikel 68
+##### Artikel 68
 
 Op betekeningen, kennisgevingen en oproepingen, gedaan krachtens deze wet, zijn de [artikelen 36b tot en met 36e](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=36b), [36g](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=36g), [36h](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=36h) en [36n van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=36n) van overeenkomstige toepassing.
 
-#### Artikel 69
+##### Artikel 69
 
 De bepalingen van deze wet zijn niet van toepassing op:
 
@@ -796,7 +823,7 @@ De bepalingen van deze wet zijn niet van toepassing op:
 
 - b. overlevering van leden van een vreemde krijgsmacht en van personen die met hen zijn gelijkgesteld, aan de bevoegde militaire autoriteiten, voor zover die overlevering geschiedt krachtens een overeenkomst met een of meer staten waarmee Nederland bondgenootschappelijke betrekkingen onderhoudt.
 
-#### Artikel 70
+##### Artikel 70
 
 De officier van justitie draagt zorg voor een halfjaarlijkse rapportage aan Onze Minister over:
 
@@ -810,19 +837,19 @@ De officier van justitie draagt zorg voor een halfjaarlijkse rapportage aan Onze
 
 - e. de gemiddelde duur van de procedures, bedoeld onder b en c.
 
-#### Artikel 71
+##### Artikel 71
 
 Wijzigt de Uitleveringswet.
 
-#### Artikel 72
+##### Artikel 72
 
 Wijzigt het Wetboek van Strafrecht.
 
-#### Artikel 73
+##### Artikel 73
 
 Onze Minister zendt binnen drie jaren na inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de toepassing van deze wet op de overlevering door Nederland, in het bijzonder over de effecten van de behandeling van overleveringsverzoeken in één instantie.
 
-#### Artikel 74
+##### Artikel 74
 
 1. Deze wet treedt in de relatie met de lidstaten van de Europese Unie in de plaats van de [Uitleveringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002559), met uitzondering van de [artikelen 50a](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=50a) en [51 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=51), en van de in de relatie tussen Nederland en de lidstaten van de Europese Unie geldende verdragen inzake de uitlevering, te weten:
 
@@ -848,11 +875,11 @@ Onze Minister zendt binnen drie jaren na inwerkingtreding van deze wet aan de St
 
 5. Een opgeëiste persoon die op het tijdstip van het in werking treden van deze wet is gedetineerd ingevolge een bevel gegeven krachtens [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=14), [13a](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=13a) of [15 van de Uitleveringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=15), wordt, zo het Europees aanhoudingsbevel nog niet is ontvangen, beschouwd en behandeld als een persoon die krachtens [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofdstuk=II&afdeling=2&paragraaf=A&artikel=16&z=2025-07-01&g=2025-07-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofdstuk=II&afdeling=2&paragraaf=A&artikel=17&z=2025-07-01&g=2025-07-01) of [18](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofdstuk=II&afdeling=2&paragraaf=A&artikel=18&z=2025-07-01&g=2025-07-01) van deze wet in bewaring wordt gehouden of in verzekering is gesteld.
 
-#### Artikel 75
+##### Artikel 75
 
 Deze wet treedt in werking met ingang van 1 januari 2004. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 31 december 2003, treedt zij in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 
-#### Artikel 76
+##### Artikel 76
 
 Deze wet wordt aangehaald als: Overleveringswet.
 
@@ -1106,7 +1133,7 @@ Fax: (landnummer) (netnummer) (...) ............................................
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 66a
+##### Artikel 66a
 
 Waar in deze wet de bevoegdheid wordt gegeven tot het horen van personen, is [artikel 131a van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=131a) van overeenkomstige toepassing.
 
@@ -1122,7 +1149,7 @@ E-mailadres: ...................................................................
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 12a
+##### Artikel 12a
 
 1. In de gevallen als bedoeld in [artikel 12, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofdstuk=II&afdeling=1&artikel=12&z=2025-07-01&g=2025-07-01), kan de persoon tegen wie het Europees aanhoudingsbevel is uitgevaardigd en die nog niet officieel van de tegen hem ingestelde strafprocedure in kennis is gesteld, hetzij rechtstreeks hetzij door tussenkomst van de officier van justitie aan de uitvaardigende justitiële autoriteit om een afschrift van het vonnis dat ten grondslag ligt aan het Europees aanhoudingsbevel, verzoeken.
 
@@ -1144,7 +1171,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ### Hoofdstuk III. Overlevering aan Nederland
 
-#### Artikel 45a
+##### Artikel 45a
 
 1. Indien het Europees aanhoudingsbevel strekt tot tenuitvoerlegging van een beslissing terwijl de verdachte niet in persoon is verschenen bij het proces dat tot de beslissing heeft geleid, verklaart de uitvaardigende rechter-commissaris in het Europees aanhoudingsbevel dat:
 
@@ -1162,7 +1189,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 2. Aan een verklaring als bedoeld in onderdeel d van het eerste lid, is iedere persoon of instantie die in Nederland is belast met een publieke taak, gebonden.
 
-#### Artikel 45b
+##### Artikel 45b
 
 In de gevallen als bedoeld in [artikel 45a, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofdstuk=III&artikel=45a&z=2025-07-01&g=2025-07-01), verstrekt de uitvaardigende rechter-commissaris op verzoek van de persoon tegen wie het Europees aanhoudingsbevel is uitgevaardigd en die nog niet officieel van de tegen hem ingestelde strafprocedure in kennis is gesteld, onverwijld en door tussenkomst van de uitvoerende justitiële autoriteit, een afschrift van het vonnis, dat ten grondslag ligt aan het Europees aanhoudingsbevel. [Artikel 408, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=408) is in dit geval niet van toepassing.
 
@@ -1184,7 +1211,7 @@ In de gevallen als bedoeld in [artikel 45a, eerste lid, onderdeel d](https://wet
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 21a
+##### Artikel 21a
 
 De opgeëiste persoon die is aangehouden, kan verzoeken een advocaat in de uitvaardigende lidstaat aan te wijzen met het oog op het, door het verstrekken van informatie en advies, verlenen van bijstand aan zijn raadsman in Nederland ten behoeve van de procedure voor overlevering in Nederland. De officier van justitie stelt na ontvangst van het verzoek de uitvaardigende justitiële autoriteit terstond van het verzoek in kennis; de termijnen voor de behandeling van het Europees aanhoudingsbevel gelden onverkort.
 
@@ -1196,7 +1223,7 @@ De opgeëiste persoon die is aangehouden, kan verzoeken een advocaat in de uitva
 
 #### § F. Recht op rechtsbijstand
 
-#### Artikel 43a
+##### Artikel 43a
 
 1. De opgeëiste persoon heeft in de procedure voor overlevering door Nederland het recht zich door een raadsman te doen bijstaan. De [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=28), [28a](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=28a), [28c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=28c), [29a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=29a), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=37), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=38), [43 tot en met 45](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=43) en [124 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=124) zijn van overeenkomstige toepassing.
 
@@ -1210,7 +1237,7 @@ De opgeëiste persoon die is aangehouden, kan verzoeken een advocaat in de uitva
 
 ### Hoofdstuk III. Overlevering aan Nederland
 
-#### Artikel 48a
+##### Artikel 48a
 
 Na ontvangst van een kennisgeving van de uitvoerende justitiële autoriteit dat de opgeëiste persoon heeft verzocht om aanwijzing van een in Nederland ingeschreven advocaat met het oog op het, door het verstrekken van informatie en advies, verlenen van bijstand aan zijn raadsman in de uitvoerende lidstaat ten behoeve van de procedure voor overlevering in die lidstaat, verstrekt de uitvaardigende rechter-commissaris, al dan niet door tussenkomst van die autoriteit, de daarvoor benodigde gegevens aan de opgeëiste persoon. Deze verstrekking vindt onverwijld plaats; de termijnen voor behandeling van het Europees aanhoudingsbevel gelden onverkort.
 
@@ -1238,7 +1265,7 @@ Naam: ..........................................................................
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 1a
+##### Artikel 1a
 
 In afwijking van de [onderdelen b, i en j van artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofdstuk=I&afdeling=1&artikel=1&z=2025-07-01&g=2025-07-01) wordt voor de toepassing van [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofdstuk=II&z=2025-07-01&g=2025-07-01) van deze wet ten behoeve van de uitoefening van de taken van het Europees Openbaar Ministerie als bedoeld in artikel 4 van de Verordening EOM, gelezen voor:
 
@@ -1254,7 +1281,7 @@ In afwijking van de [onderdelen b, i en j van artikel 1](https://wetten.overheid
 
 ### Afdeling 1. Voorwaarden voor overlevering
 
-#### Artikel 6a
+##### Artikel 6a
 
 1. Overlevering van een Nederlander ten behoeve van de tenuitvoerlegging van een bij onherroepelijk vonnis aan hem opgelegde vrijheidsstraf kan worden geweigerd, indien de rechtbank van oordeel is dat de tenuitvoerlegging van die straf kan worden overgenomen. In geval van een weigering van de overlevering, beveelt de rechtbank, gelijktijdig met de weigering, de tenuitvoerlegging van de opgelegde vrijheidsstraf.
 
@@ -1314,7 +1341,7 @@ Datum: .........................................................................
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 61a
+##### Artikel 61a
 
 Bij de feitelijke overlevering van of naar Nederland is de bewaking van de opgeëiste persoon opgedragen aan Nederlandse ambtenaren die bevoegd zijn alle dienstige maatregelen te nemen ter beveiliging van de opgeëiste persoon en ter voorkoming van zijn ontvluchting.
 

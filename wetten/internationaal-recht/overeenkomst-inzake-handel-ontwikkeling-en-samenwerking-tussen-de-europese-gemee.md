@@ -1,13 +1,38 @@
 ---
 title: "Overeenkomst inzake handel, ontwikkeling en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek Zuid-Afrika, anderzijds"
 identifier: "BWBV0001476"
-categorie: "Internationaal recht"
-publicatiedatum: 2016-03-01
-laatste_update: 2016-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001476"
+country: "nl"
+rank: "verdrag"
+publication_date: "2016-03-01"
+last_updated: "2016-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001476"
+soort: "verdrag"
+stam_id: "10001556703"
+version_id: "10001647312"
+internal_id: "C10006992211"
+label_id: "10001559324"
+dtd_version: "2.0"
+original_entry_into_force: "2004-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001476/2016-03-01/0"
+intitule_bron: "Trb.2000-45"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-04-10"
+intitule_published: "2000-05-01"
+intitule_in_force: "2004-07-16"
+intitule_status: "goed"
+original_publication: "Trb.2000-45"
+original_signed_date: "2001-04-10"
+original_published_date: "2000-05-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2000-45"
+entry_into_force_date: "2004-05-01"
+jci_1_3: "jci1.3:c:BWBV0001476&z=2016-03-01&g=2016-03-01"
+jci_1_0: "1.0:c:BWBV0001476&g=2016-03-01"
+citeertitel_status: "redactioneel"
+signed_date: "2001-04-10"
+entry_into_force: "2004-05-01"
 ---
-
 # Overeenkomst inzake handel, ontwikkeling en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek Zuid-Afrika, anderzijds
 
 Het Koninkrijk België,
@@ -88,7 +113,7 @@ Zijn als volgt overeengekomen[Red: De oorspronkelijke Bijlagen bij de Overeenkom
 
 ## TITEL I. ALGEMENE DOELSTELLINGEN EN BEGINSELEN
 
-#### Artikel 1. Doelstellingen
+##### Artikel 1. Doelstellingen
 
 De doelstellingen van deze Overeenkomst zijn:
 
@@ -104,13 +129,13 @@ De doelstellingen van deze Overeenkomst zijn:
 
 - f. het bevorderen van de samenwerking tussen de Gemeenschap en Zuid-Afrika, binnen de begrenzingen van de bevoegdheden van beide partijen en in wederzijds belang.
 
-#### Artikel 2. Essentieel onderdeel
+##### Artikel 2. Essentieel onderdeel
 
 De eerbiediging van de democratische beginselen en fundamentele mensenrechten die zijn opgenomen in de [Universele Verklaring van de rechten van de mens](https://wetten.overheid.nl/jci1.3:c:BWBV0001008), en de eerbiediging van de rechtsstaat vormen de grondslag van het binnen- en buitenlands beleid van de Gemeenschap en Zuid-Afrika en zijn een essentieel onderdeel van deze Overeenkomst.
 
 De partijen bevestigen tevens hun gehechtheid aan de beginselen van behoorlijk bestuur.
 
-#### Artikel 3. Niet-uitvoering
+##### Artikel 3. Niet-uitvoering
 
 1. Indien een van de partijen van mening is dat de andere partij haar verplichtingen in het kader van deze Overeenkomst niet is nagekomen, kan deze partij passende maatregelen nemen.
 
@@ -126,7 +151,7 @@ De partijen bevestigen tevens hun gehechtheid aan de beginselen van behoorlijk b
 
 5. De partijen komen overeen dat zij onder de in lid 1 van dit artikel genoemde passende maatregelen verstaan maatregelen die in overeenstemming met het internationale recht zijn genomen. Bij het nemen van de maatregelen dient voorrang te worden gegeven aan die maatregelen die de werking van de Overeenkomst het minst verstoren.
 
-#### Artikel 4. Politieke dialoog
+##### Artikel 4. Politieke dialoog
 
 1. Er wordt een regelmatige politieke dialoog ingesteld tussen de partijen. Deze dialoog verloopt parallel met de samenwerking en draagt ertoe bij deze te consolideren. Tevens moet de dialoog bijdragen tot de totstandkoming van duurzame solidariteit en nieuwe vormen van samenwerking.
 
@@ -160,7 +185,7 @@ De partijen nemen tevens deel aan de politieke dialoog in breder ACS/EU-verband,
 
 ### AFDELING A. ALGEMEEN
 
-#### Artikel 5. Vrijhandelszone
+##### Artikel 5. Vrijhandelszone
 
 1. De Gemeenschap en Zuid-Afrika komen overeen een vrijhandelszone tot stand te brengen overeenkomstig de bepalingen van deze Overeenkomst en met inachtneming van de voorschriften van de [WTO](onbekend).
 
@@ -168,11 +193,11 @@ De partijen nemen tevens deel aan de politieke dialoog in breder ACS/EU-verband,
 
 3. De vrijhandelszone omvat het vrije verkeer van goederen in alle sectoren. Deze Overeenkomst heeft eveneens betrekking op de liberalisering van de handel in diensten en het vrije verkeer van kapitaal.
 
-#### Artikel 6. Goederenindeling
+##### Artikel 6. Goederenindeling
 
 De Gemeenschap past de gecombineerde nomenclatuur toe bij de invoer van goederen uit Zuid-Afrika. Zuid-Afrika past het geharmoniseerd systeem toe bij de invoer van goederen uit de Gemeenschap.
 
-#### Artikel 7. Basisrecht
+##### Artikel 7. Basisrecht
 
 1. Voor elk product is het basisrecht waarop de in de Overeenkomst vermelde achtereenvolgende verminderingen worden toegepast, het recht dat op de dag van inwerkingtreding van de Overeenkomst daadwerkelijk van toepassing is.
 
@@ -180,21 +205,21 @@ De Gemeenschap past de gecombineerde nomenclatuur toe bij de invoer van goederen
 
 3. Wanneer de geleidelijke afschaffing van de douanerechten niet bij de inwerkingtreding van de Overeenkomst aanvangt (met name voor de in bijlage II, lijsten 3, 4 en 5; bijlage III, lijsten 2, 3, 4 en 6; bijlage IV, lijsten 3, 4, 7 en 8; bijlage V; bijlage VI, lijsten 2, 3 en 5; en bijlage VII vermelde producten) is het recht waarop de in de Overeenkomst vermelde achtereenvolgende verminderingen van toepassing zijn het in lid 1 genoemde basisrecht of, indien dit lager is, het recht dat „erga omnes” van toepassing is op de dag waarop de geleidelijke afschaffing van de desbetreffende douanerechten een aanvang neemt.
 
-#### Artikel 8. Douanerechten van fiscale aard
+##### Artikel 8. Douanerechten van fiscale aard
 
 De bepalingen inzake de afschaffing van douanerechten bij invoer zijn ook van toepassing op douanerechten van fiscale aard, met uitzondering van niet-discriminerende accijnzen die overeenkomstig [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=A&artikel=21&z=2016-03-01&g=2016-03-01) van deze Overeenkomst zowel op ingevoerde als van plaatselijk geproduceerde goederen worden geheven.
 
-#### Artikel 9. Heffingen van gelijke werking als invoerrechten
+##### Artikel 9. Heffingen van gelijke werking als invoerrechten
 
 Bij de inwerkingtreding van de Overeenkomst schaffen de Gemeenschap en Zuid-Afrika de heffingen van gelijke werking als douanerechten bij invoer af.
 
 ### AFDELING B. INDUSTRIEPRODUCTEN
 
-#### Artikel 10. Definitie
+##### Artikel 10. Definitie
 
 De bepalingen van deze afdeling zijn van toepassing op producten van oorsprong uit de Gemeenschap en Zuid-Afrika, met uitzondering van producten die volgens de in deze Overeenkomst opgenomen definitie landbouwproducten zijn.
 
-#### Artikel 11. Afschaffing van de douanerechten door de Gemeenschap
+##### Artikel 11. Afschaffing van de douanerechten door de Gemeenschap
 
 1. De douanerechten die bij invoer in de Gemeenschap van toepassing zijn op andere dan de in bijlage II vermelde industrieproducten van oorsprong uit Zuid-Afrika, worden afgeschaft bij de inwerkingtreding van deze Overeenkomst.
 
@@ -246,7 +271,7 @@ Een nauwkeurige opgave van de basisrechten en een tijdschema voor de afschaffing
 
 6. De douanerechten die bij invoer in de Gemeenschap van toepassing zijn op de in bijlage II, lijst 5, vermelde producten zullen in het vijfde jaar van deze Overeenkomst worden onderzocht teneinde deze eventueel af te schaffen.
 
-#### Artikel 12. Afschaffing van de douanerechten door Zuid-Afrika
+##### Artikel 12. Afschaffing van de douanerechten door Zuid-Afrika
 
 1. De douanerechten die bij invoer in Zuid-Afrika van toepassing zijn op andere dan de in bijlage III vermelde industrieproducten van oorsprong uit de Gemeenschap, worden afgeschaft bij de inwerkingtreding van deze Overeenkomst.
 
@@ -316,11 +341,11 @@ Zuid-Afrika zal de Gemeenschap in kennis stellen van de resultaten van de herzie
 
 ### AFDELING C. LANDBOUWPRODUCTEN
 
-#### Artikel 13. Definitie
+##### Artikel 13. Definitie
 
 De bepalingen van deze afdeling zijn van toepassing op producten van oorsprong uit de Europese Gemeenschap en Zuid-Afrika die onder de WTO-definitie van landbouwproducten vallen en op vis en visserijproducten (hoofdstuk 3, 1604, 1605 en producten 05119110, 05119190, 19022010 en 23012000).
 
-#### Artikel 14. Afschaffing van de douanerechten door de Gemeenschap
+##### Artikel 14. Afschaffing van de douanerechten door de Gemeenschap
 
 1. De douanerechten die bij invoer in de Gemeenschap van toepassing zijn op andere dan de in bijlage IV vermelde landbouwproducten van oorsprong uit Zuid-Afrika, worden afgeschaft bij de inwerkingtreding van deze Overeenkomst.
 
@@ -410,7 +435,7 @@ De Samenwerkingsraad kan besluiten tot
 
 10. Tariefconcessies die bij invoer in de Gemeenschap van toepassing zijn op de in bijlage V vermelde producten van oorsprong uit Zuid-Afrika, zullen overeenkomstig de daarin omschreven voorwaarden worden toegepast.
 
-#### Artikel 15. Afschaffing van de douanerechten door Zuid-Afrika
+##### Artikel 15. Afschaffing van de douanerechten door Zuid-Afrika
 
 1. De douanerechten die bij invoer in Zuid-Afrika van toepassing zijn op andere dan de in bijlage VI vermelde landbouwproducten van oorsprong uit de Gemeenschap, worden afgeschaft bij de inwerkingtreding van deze Overeenkomst.
 
@@ -456,11 +481,11 @@ Voor enkele in deze bijlage vermelde producten geldt vanaf de inwerkingtreding v
 
 6. De douanerechten die bij invoer in Zuid-Afrika van toepassing zijn op de in bijlage VII vermelde visserijproducten van oorsprong uit de Gemeenschap worden geleidelijk afgeschaft, parallel met de afschaffing van de douanerechten van de overeenkomstige tariefposten door de Gemeenschap.
 
-#### Artikel 16. Vrijwaringsclausule landbouwproducten
+##### Artikel 16. Vrijwaringsclausule landbouwproducten
 
 Onverminderd de andere bepalingen van deze Overeenkomst en met name [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=A&artikel=24&z=2016-03-01&g=2016-03-01), pleegt de Samenwerkingsraad, gezien de bijzondere gevoeligheid van de landbouwmarkten, terstond overleg om een passende oplossing te vinden indien de invoer van producten van oorsprong uit een partij de markten van de andere partij ernstig verstoort of ernstig dreigt te verstoren. In afwachting van een besluit van de Samenwerkingsraad kan de getroffen partij, indien buitengewone omstandigheden een onmiddellijk handelen noodzakelijk maken, voorlopige maatregelen nemen om de verstoring te beperken of te herstellen. Bij het nemen van deze voorlopige maatregelen zal de getroffen partij de belangen van beide partijen in aanmerking nemen.
 
-#### Artikel 17. Versnelde afschaffing van de douanerechten door Zuid-Afrika
+##### Artikel 17. Versnelde afschaffing van de douanerechten door Zuid-Afrika
 
 1. Indien Zuid-Afrika hierom verzoekt zal de Gemeenschap voorstellen in overweging nemen over een versneld tijdschema voor de afschaffing van de douanerechten op de invoer van landbouwproducten in Zuid-Afrika, gekoppeld aan de afschaffing van alle restituties bij uitvoer naar Zuid-Afrika van dezelfde producten die uit de Europese Gemeenschap van oorsprong zijn.
 
@@ -468,7 +493,7 @@ Onverminderd de andere bepalingen van deze Overeenkomst en met name [artikel 24]
 
 3. Indien de Gemeenschap geen gunstig gevolg geeft aan dit verzoek, zullen de bepalingen van deze Overeenkomst over de afschaffing van de douanerechten van toepassing blijven.
 
-#### Artikel 18. Herzieningsclausule
+##### Artikel 18. Herzieningsclausule
 
 Uiterlijk vijf jaar na de inwerkingtreding van deze Overeenkomst zullen de Gemeenschap en Zuid-Afrika zich beraden over verdere stappen om hun wederzijdse handel te liberaliseren. Te dien einde zullen met name, doch niet uitsluitend, de douanerechten worden onderzocht die van toepassing zijn op de producten die zijn vermeld in bijlage II, lijst 5, bijlage III, lijsten 5 en 6, bijlage IV, lijsten 5, 6 en 7, bijlage V, lijsten 1, 2, 3 en 4, bijlage VI, lijsten 4 en 5 en bijlage VII.
 
@@ -476,7 +501,7 @@ Uiterlijk vijf jaar na de inwerkingtreding van deze Overeenkomst zullen de Gemee
 
 ### AFDELING A. ALGEMENE BEPALINGEN
 
-#### Artikel 19. Grensmaatregelen
+##### Artikel 19. Grensmaatregelen
 
 1. Kwantitatieve in- of uitvoerbeperkingen en maatregelen van gelijke werking in het handelsverkeer tussen Zuid-Afrika en de Gemeenschap worden bij de inwerkingtreding van deze Overeenkomst afgeschaft.
 
@@ -484,7 +509,7 @@ Uiterlijk vijf jaar na de inwerkingtreding van deze Overeenkomst zullen de Gemee
 
 3. In het handelsverkeer tussen de Gemeenschap en Zuid-Afrika worden vanaf de inwerkingtreding van deze Overeenkomst geen nieuwe in- of uitvoerrechten of heffingen van gelijke werking ingevoerd.
 
-#### Artikel 20. Landbouwbeleid
+##### Artikel 20. Landbouwbeleid
 
 1. De partijen kunnen in het kader van de Samenwerkingsraad regelmatig overleg plegen over de strategie en praktische uitwerking van hun landbouwbeleid.
 
@@ -492,25 +517,25 @@ Uiterlijk vijf jaar na de inwerkingtreding van deze Overeenkomst zullen de Gemee
 
 3. Indien de Gemeenschap of Zuid-Afrika de regelingen voor landbouwproducten van deze Overeenkomst in toepassing van lid 2 wijzigt, past deze partij door de Samenwerkingsraad goed te keuren aanpassingen toe om de concessies ten aanzien van de invoer uit de andere partij op een niveau te handhaven dat gelijkwaardig is met het niveau waarin deze Overeenkomst voorziet.
 
-#### Artikel 21. Fiscale maatregelen
+##### Artikel 21. Fiscale maatregelen
 
 1. De partijen onthouden zich van alle binnenlandse maatregelen of praktijken van fiscale aard die, rechtstreeks of onrechtstreeks, discrimineren tussen de producten van de ene partij en de producten van oorsprong uit het grondgebied van de andere partij.
 
 2. Het bedrag van de indirecte binnenlandse belastingen dat wordt terugbetaald bij de uitvoer van producten naar het grondgebied van een van de partijen mag niet hoger zijn dan het bedrag aan indirecte belastingen dat rechtstreeks of onrechtstreeks op deze producten was geheven.
 
-#### Artikel 22. Douane-unies en vrijhandelszones
+##### Artikel 22. Douane-unies en vrijhandelszones
 
 1. Deze Overeenkomst vormt geen beletsel voor de handhaving of oprichting van douane-unies, vrijhandelszones of andere regelingen tussen een van de partijen en een derde land, mits zij geen afbreuk doen aan de rechten en plichten waarin deze Overeenkomst voorziet.
 
 2. De Gemeenschap en Zuid-Afrika plegen in de Samenwerkingsraad overleg over overeenkomsten tot instelling of wijziging van douane-unies of vrijhandelszones en, desgewenst, over andere belangrijke onderwerpen in verband met hun handelsbeleid ten aanzien van derde landen. Een dergelijk overleg vindt met name plaats bij de toetreding van een derde land tot de Europese Unie zodat rekening kan worden gehouden met de onderlinge belangen van de Gemeenschap en Zuid-Afrika.
 
-#### Artikel 23. Antidumpingmaatregelen en compenserende maatregelen
+##### Artikel 23. Antidumpingmaatregelen en compenserende maatregelen
 
 1. Geen van de bepalingen in deze Overeenkomst doet afbreuk aan de mogelijkheid van beide partijen antidumpingmaatregelen en compenserende maatregelen te nemen overeenkomstig artikel VI van de GATT-Overeenkomst van 1994, de [Overeenkomst inzake de Tenuitvoerlegging van artikel VI van de GATT-Overeenkomst van 1994](onbekend) en de [Overeenkomst inzake Subsidies en Compenserende Maatregelen](onbekend) die een bijlage vormt bij de [Overeenkomst van Marrakesh tot oprichting van de WTO](onbekend).
 
 2. Voordat definitieve antidumpingrechten of compenserende rechten worden ingesteld ten aanzien van producten uit Zuid-Afrika kunnen de partijen de mogelijkheid in overweging nemen constructieve maatregelen te nemen zoals bepaald in de [Overeenkomst inzake de Tenuitvoerlegging van artikel VI van de GATT-Overeenkomst van 1994](onbekend) en de [Overeenkomst inzake Subsidies en Compenserende Maatregelen](onbekend).
 
-#### Artikel 24. Vrijwaringsclausule
+##### Artikel 24. Vrijwaringsclausule
 
 1. Wanneer een product in zulke toegenomen hoeveelheden en onder zulke omstandigheden wordt ingevoerd dat de binnenlandse producenten van soortgelijke of rechtstreeks concurrerende producten op het grondgebied van een van de Overeenkomstsluitende partijen daardoor schade lijden of dreigen te lijden, kan de Gemeenschap of Zuid-Afrika, al naar gelang van het geval, passende maatregelen nemen overeenkomstig de voorwaarden die zijn neergelegd in de [WTO-Overeenkomst inzake Vrijwaringsmaatregelen](onbekend) of de [Overeenkomst inzake de Landbouw](onbekend) die een bijlage vormen bij de [Overeenkomst van Marrakesh tot instelling van de WTO](https://wetten.overheid.nl/jci1.3:c:BWBV0001160) en overeenkomstig de in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=A&artikel=26&z=2016-03-01&g=2016-03-01) omschreven procedures.
 
@@ -518,7 +543,7 @@ Uiterlijk vijf jaar na de inwerkingtreding van deze Overeenkomst zullen de Gemee
 
 3. Wanneer een product in zulke hoeveelheden en onder zulke omstandigheden wordt ingevoerd dat de economische situatie van een of meer leden van de Zuidelijk-Afrikaanse Douane-unie daardoor ernstige schade lijdt of dreigt te lijden, kan Zuid-Afrika op verzoek van het betrokken land of de betrokken landen, bij wijze van uitzondering en na andere oplossingen te hebben onderzocht, toezichts- of vrijwaringsmaatregelen nemen overeenkomstig de in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=A&artikel=26&z=2016-03-01&g=2016-03-01) omschreven procedures.
 
-#### Artikel 25. Vrijwaringsmaatregelen voor de overgangsperiode
+##### Artikel 25. Vrijwaringsmaatregelen voor de overgangsperiode
 
 1. Onverminderd het bepaalde in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=A&artikel=24&z=2016-03-01&g=2016-03-01) kunnen buitengewone maatregelen van beperkte duur die afwijken van het bepaalde in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&afdeling=B&artikel=12&z=2016-03-01&g=2016-03-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&afdeling=C&artikel=15&z=2016-03-01&g=2016-03-01) door Zuid-Afrika worden genomen in de vorm van verhoging of wederinstelling van douanerechten.
 
@@ -534,7 +559,7 @@ Uiterlijk vijf jaar na de inwerkingtreding van deze Overeenkomst zullen de Gemee
 
 7. Indien binnen 30 dagen na kennisgeving geen overeenstemming is bereikt over de in lid 6 bedoelde voorgenomen maatregelen, kan Zuid-Afrika passende maatregelen nemen om het probleem op te lossen, en legt het de Samenwerkingsraad het definitieve tijdschema voor voor de afschaffing van de op grond van dat artikel ingestelde douanerechten. Volgens dit tijdschema worden de rechten uiterlijk een jaar na instelling geleidelijk in gelijke jaarfasen afgeschaft. De Samenwerkingsraad kan besluiten dat een ander tijdschema moet worden gevolgd.
 
-#### Artikel 26. Vrijwaringsprocedures
+##### Artikel 26. Vrijwaringsprocedures
 
 1. Wanneer de Gemeenschap of Zuid-Afrika naar aanleiding van de in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=A&artikel=24&z=2016-03-01&g=2016-03-01) bedoelde problemen toezicht instelt teneinde snel gegevens te verkrijgen over de ontwikkeling van de handelsstromen, stelt deze partij de andere partij daarvan in kennis en pleegt met de andere partij overleg indien deze hierom verzoekt.
 
@@ -550,17 +575,17 @@ Uiterlijk vijf jaar na de inwerkingtreding van deze Overeenkomst zullen de Gemee
 
 - b. Indien het in buitengewone omstandigheden noodzakelijk is onmiddellijk maatregelen te nemen waardoor voorafgaande kennisgeving of voorafgaand onderzoek niet mogelijk is, kan de Gemeenschap of Zuid-Afrika, al naar gelang het geval, in de in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=A&artikel=24&z=2016-03-01&g=2016-03-01) vermelde omstandigheden terstond de nodige voorzorgsmaatregelen nemen, waarvan de andere partij terstond in kennis wordt gesteld.
 
-#### Artikel 27. Uitzonderingen
+##### Artikel 27. Uitzonderingen
 
 Deze Overeenkomst vormt geen beletsel voor verboden of beperkingen op de invoer, uitvoer of doorvoer of de handel in gebruikte goederen uit hoofde van de bescherming van de openbare zedelijkheid, de openbare orde, de openbare veiligheid, de gezondheid en het leven van personen, dieren of planten, het nationaal artistiek, historisch en archeologisch erfgoed, de intellectuele, industriële en commerciële eigendom of op grond van de voorschriften betreffende goud en zilver. Deze verboden of beperkingen mogen echter geen middel tot willekeurige of ongerechtvaardigde discriminatie in gelijkaardige situatie zijn of een verkapte beperking van het handelsverkeer tussen partijen.
 
-#### Artikel 28. Regels van oorsprong
+##### Artikel 28. Regels van oorsprong
 
 De voor de toepassing van tariefpreferenties geldende regels van oorsprong waarin deze Overeenkomst voorziet zijn opgenomen in Protocol 1.
 
 ### AFDELING B. RECHT VAN VESTIGING EN VAN DIENSTVERLENING
 
-#### Artikel 29. Herbevestiging van de verplichtingen uit hoofde van de GATS
+##### Artikel 29. Herbevestiging van de verplichtingen uit hoofde van de GATS
 
 1. Daar zij erkennen dat de dienstensector van steeds groter belang is voor de ontwikkeling van hun economieën, onderstrepen de partijen, binnen de grenzen van hun bevoegdheden, het belang van strikte naleving van de [Algemene Overeenkomst betreffende de handel in diensten](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&bijlage=1B) (General Agreement on Trade in Services – GATS), en met name het beginsel van de meestbegunstigingsbehandeling en met inbegrip van de toepasselijke protocollen met de daaraan gehechte verbintenissen.
 
@@ -572,7 +597,7 @@ De voor de toepassing van tariefpreferenties geldende regels van oorsprong waari
 
 3. De partijen herbevestigen hun respectieve verbintenissen die als bijlage aan het vierde protocol bij de GATS zijn gehecht betreffende basistelecommunicatiediensten en het vijfde protocol betreffende financiële diensten.
 
-#### Artikel 30. Verdere liberalisering van de dienstverlening
+##### Artikel 30. Verdere liberalisering van de dienstverlening
 
 1. Binnen de begrenzingen van hun respectieve bevoegdheden streven de partijen naar uitbreiding van het toepassingsgebied van de Overeenkomst teneinde hun onderlinge handel in diensten verder te liberaliseren. Bij een dergelijke uitbreiding voorziet het liberaliseringsproces in de afschaffing van nagenoeg alle discriminatie tussen de partijen in de betrokken dienstensectoren. Dit proces dient betrekking te hebben op alle wijzen van levering, met inbegrip van de levering van een dienst:
 
@@ -590,7 +615,7 @@ De voor de toepassing van tariefpreferenties geldende regels van oorsprong waari
 
 4. De in lid 1 omschreven doelstelling wordt uiterlijk vijf jaar na de inwerkingtreding van de Overeenkomst voor de eerste maal door de Samenwerkingsraad onderzocht.
 
-#### Artikel 31. Vervoer over zee
+##### Artikel 31. Vervoer over zee
 
 1. De partijen streven ernaar het beginsel toe te passen van onbeperkte toegang tot de internationale zeevaartmarkt en zeevaart op basis van eerlijke concurrentie op commerciële grondslag.
 
@@ -600,25 +625,25 @@ De voor de toepassing van tariefpreferenties geldende regels van oorsprong waari
 
 ### AFDELING C. LOPENDE BETALINGEN EN KAPITAALVERKEER
 
-#### Artikel 32. Lopende betalingen
+##### Artikel 32. Lopende betalingen
 
 1. Onder voorbehoud van het bepaalde in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=C&artikel=34&z=2016-03-01&g=2016-03-01) staan de partijen toe dat betalingen voor lopende transacties tussen inwoners van de Gemeenschap en van Zuid-Afrika in vrij converteerbare valuta geschieden.
 
 2. Zuid-Afrika kan de nodige maatregelen nemen om ervoor te zorgen dat het bepaalde in lid 1, waarbij de lopende betalingen worden geliberaliseerd, door zijn inwoners niet op zodanige wijze wordt gebruikt dat een kapitaalvlucht plaatsvindt.
 
-#### Artikel 33. Kapitaalverkeer
+##### Artikel 33. Kapitaalverkeer
 
 1. Met betrekking tot de verrichtingen op de kapitaalrekening van de betalingsbalans garanderen de Gemeenschap en Zuid-Afrika vanaf de inwerkingtreding van deze Overeenkomst het vrije verkeer van kapitaal ten behoeve van directe investeringen in Zuid-Afrika in ondernemingen die overeenkomstig de geldende wetgeving zijn opgericht en dat deze investeringen en de daaruit voortvloeiende winsten geliquideerd en gerepatrieerd kunnen worden.
 
 2. De partijen plegen overleg om het kapitaalverkeer tussen de Gemeenschap en Zuid-Afrika te vergemakkelijken en uiteindelijk volledig te liberaliseren.
 
-#### Artikel 34. Betalingsbalansproblemen
+##### Artikel 34. Betalingsbalansproblemen
 
 Indien een of meer lidstaten van de Gemeenschap of Zuid-Afrika ernstige betalingsbalansproblemen ondervindt of dreigt te ondervinden, kan de Gemeenschap respectievelijk Zuid-Afrika, in overeenstemming met de voorwaarden van de [Algemene Overeenkomst betreffende Tarieven en Handel](onbekend) en met de [artikelen VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0005521&artikel=VIII) en [XIV van de statuten van het Internationaal Monetair Fonds](https://wetten.overheid.nl/jci1.3:c:BWBV0005521&artikel=XIV) de lopende transacties voor kortere duur beperken, welke beperkingen slechts zover mogen gaan als tot hetgeen noodzakelijk is om de betalingsbalans te herstellen. De Gemeenschap of Zuid-Afrika, al naar gelang van het geval, deelt dit terstond mede aan de andere partij en doet deze partij zo spoedig mogelijk een tijdschema toekomen voor de opheffing van deze maatregelen.
 
 ### AFDELING D. MEDEDINGINGSBELEID
 
-#### Artikel 35. Definitie
+##### Artikel 35. Definitie
 
 Onverenigbaar met de goede werking van deze Overeenkomst, voorzover de handel tussen de Gemeenschap en Zuid-Afrika daardoor ongunstig kan worden beïnvloed, zijn:
 
@@ -626,11 +651,11 @@ Onverenigbaar met de goede werking van deze Overeenkomst, voorzover de handel tu
 
 - b. misbruik van een machtspositie door een of meer ondernemingen op het gehele grondgebied van de Gemeenschap of van Zuid-Afrika, of op een wezenlijk deel daarvan.
 
-#### Artikel 36. Tenuitvoerlegging
+##### Artikel 36. Tenuitvoerlegging
 
 Indien een partij bij de inwerkingtreding van de Overeenkomst nog niet de nodige wettelijke en bestuursrechtelijke bepalingen heeft vastgesteld om [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=D&artikel=35&z=2016-03-01&g=2016-03-01) in haar rechtsgebied ten uitvoer te kunnen leggen, zal zij dit binnen drie jaar doen.
 
-#### Artikel 37. Passende maatregelen
+##### Artikel 37. Passende maatregelen
 
 Indien de Gemeenschap of Zuid-Afrika van oordeel is dat een bepaalde praktijk op haar of zijn binnenlandse markt in strijd is met de [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=D&artikel=35&z=2016-03-01&g=2016-03-01), en:
 
@@ -640,7 +665,7 @@ Indien de Gemeenschap of Zuid-Afrika van oordeel is dat een bepaalde praktijk op
 
 kan de betrokken partij overeenkomstig haar eigen wetgeving passende maatregelen nemen, na overleg in de Samenwerkingsraad, of na afloop van een termijn van 30 werkdagen nadat de kwestie voor overleg aan de Samenwerkingsraad is voorgelegd. Bij het nemen van passende maatregelen worden de bevoegdheden van de betrokken Mededingingsautoriteit in acht genomen.
 
-#### Artikel 38. Wederzijds respect
+##### Artikel 38. Wederzijds respect
 
 1. De partijen komen overeen dat, wanneer de Commissie of de Zuid-Afrikaanse Mededingingsautoriteit redenen heeft om aan te nemen dat op het grondgebied van de andere autoriteit praktijken plaatsvinden die strijdig zijn met een eerlijke concurrentie in de zin van [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=D&artikel=35&z=2016-03-01&g=2016-03-01) en die de wezenlijke belangen van de partijen ernstig schaden, zij de mededingingsautoriteit van de andere partij kan verzoeken passende maatregelen te nemen om aan deze praktijken een einde te maken volgens de mededingingsregels van die autoriteit.
 
@@ -650,7 +675,7 @@ kan de betrokken partij overeenkomstig haar eigen wetgeving passende maatregelen
 
 4. Wanneer de Commissie of de Zuid-Afrikaanse Mededingingsautoriteit besluit een onderzoek in te stellen of een actie te ondernemen die een aanmerkelijke invloed kan uitoefenen op de belangen van de andere partij, moeten de partijen op verzoek van een van hen overleg plegen, waarbij zij zullen trachten een voor hen beide aanvaardbare oplossing te vinden in het licht van hun wederzijdse aanmerkelijke belangen en waarbij de wetgeving en de soevereiniteit van beide partijen en de onafhankelijkheid van hun mededingingsautoriteiten en het wederzijds respect in aanmerking worden genomen.
 
-#### Artikel 39. Technische bijstand
+##### Artikel 39. Technische bijstand
 
 De Gemeenschap verschaft Zuid-Afrika technische bijstand bij de herstructurering van de mededingingswetgeving en het mededingingsbeleid, die onder meer het volgende kan inhouden:
 
@@ -660,29 +685,29 @@ De Gemeenschap verschaft Zuid-Afrika technische bijstand bij de herstructurering
 
 - c. opleidingsactivititeiten.
 
-#### Artikel 40. Uitwisseling van gegevens
+##### Artikel 40. Uitwisseling van gegevens
 
 De partijen wisselen gegevens uit, rekening houdend met de beperkingen uit hoofde van het zaken- en beroepsgeheim.
 
 ### AFDELING E. OVERHEIDSSTEUN
 
-#### Artikel 41. Overheidssteun
+##### Artikel 41. Overheidssteun
 
 1. Voor zover deze van nadelige invloed kan zijn op het handelsverkeer tussen de Gemeenschap en Zuid-Afrika, is overheidssteun die bepaalde ondernemingen of de productie van bepaalde goederen bevoordeelt, waardoor de concurrentie wordt vervalst of kan worden vervalst, en die geen ondersteuning vormt van een beleidsdoelstelling van een partij, strijdig met de goede werking van deze Overeenkomst.
 
 2. De partijen komen overeen dat het in hun belang is ervoor te zorgen dat overheidssteun op een billijke en doorzichtige wijze wordt toegekend.
 
-#### Artikel 42. Herstelmaatregelen
+##### Artikel 42. Herstelmaatregelen
 
 1. Indien de Gemeenschap of Zuid-Afrika van oordeel is dat een bepaalde praktijk in strijd is met [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=E&artikel=41&z=2016-03-01&g=2016-03-01) en dat de belangen van de andere partij of een binnenlandse bedrijfstak door deze praktijk ernstige schade lijden of dreigen te lijden, komen de partijen overeen, wanneer dit probleem op grond van de bestaande voorschriften en procedures niet op bevredigende wijze kan worden behandeld, overleg te plegen teneinde een voor hen beide bevredigende oplossing te vinden. Dit overleg doet geen afbreuk aan de rechten en plichten van de partijen in het kader van hun eigen wetgeving en internationale verplichtingen.
 
 2. Elke partij kan de Samenwerkingsraad, in het kader van een dergelijk overleg, vragen te onderzoeken of de beleidsdoelstellingen van een partij de in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=E&artikel=41&z=2016-03-01&g=2016-03-01) bedoelde toekenning van overheidssteun rechtvaardigen.
 
-#### Artikel 43. Transparantie
+##### Artikel 43. Transparantie
 
 Elke partij draagt zorg voor transparantie op het gebied van overheidssteun. Met name verstrekt een partij op verzoek van de andere partij gegevens over steunregelingen, over bepaalde afzonderlijke gevallen waarin overheidssteun is verleend of over het totale bedrag en de verdeling van de verleende steun. Bij de uitwisseling van gegevens tussen de partijen wordt rekening gehouden met de wettelijke vereisten van elke partij ter bescherming van het zaken- en beroepsgeheim.
 
-#### Artikel 44. Onderzoek
+##### Artikel 44. Onderzoek
 
 1. Bij afwezigheid van regels of procedures voor de tenuitvoerlegging van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=E&artikel=41&z=2016-03-01&g=2016-03-01) zijn artikel VI en XVI van de Algemene Overeenkomst inzake Tarieven en Handel 1994 en de [WTO-Overeenkomst inzake Subsidies en Compenserende Maatregelen](onbekend) van toepassing op overheidssteun en subsidies.
 
@@ -690,13 +715,13 @@ Elke partij draagt zorg voor transparantie op het gebied van overheidssteun. Met
 
 ### AFDELING F. ANDERE MET DE HANDEL VERBAND HOUDENDE BEPALINGEN
 
-#### Artikel 45. Overheidsopdrachten
+##### Artikel 45. Overheidsopdrachten
 
 1. De partijen komen overeen samen te werken om te garanderen dat de toegang tot overheidsopdrachten van de partijen op billijke en transparante wijze wordt geregeld.
 
 2. De Samenwerkingsraad stelt regelmatig een onderzoek in naar de vorderingen die op dit gebied zijn gemaakt.
 
-#### Artikel 46. Intellectuele eigendom
+##### Artikel 46. Intellectuele eigendom
 
 1. De partijen zien toe op een adequate en effectieve bescherming van de intellectuele eigendomsrechten die aan de strengste internationale normen voldoet. De partijen passen de [WTO-Overeenkomst inzake de handelsaspecten van de intellectuele eigendom](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&bijlage=IC) (TRIPs) vanaf 1 januari 1996 toe en verbinden zich ertoe de bescherming die op grond van die Overeenkomst wordt verleend zo nodig te verbeteren.
 
@@ -730,7 +755,7 @@ Elke partij draagt zorg voor transparantie op het gebied van overheidssteun. Met
 
 7. De partijen komen overeen dat intellectuele eigendom, voor de toepassing van deze Overeenkomst, met name het volgende inhoudt: auteursrechten, met inbegrip van auteursrechten op computerprogramma's en naburige rechten, gebruiksmodellen, octrooien, met inbegrip van biotechnologische uitvindingen, industriële ontwerpen, geografische aanduidingen, met inbegrip van oorsprongsbenamingen, handels- en dienstenmerken, topografieën van geïntegreerde schakelingen, alsmede de wettelijke bescherming van gegevensbanken en de bescherming tegen oneerlijke concurrentie als bedoeld in [artikel 10 bis van het Verdrag van Parijs inzake de bescherming van de industriële eigendom](https://wetten.overheid.nl/jci1.3:c:BWBV0004120&artikel=10bis) en de eigendom van niet openbaar gemaakte informatie over knowhow.
 
-#### Artikel 47. Normalisering en conformiteitsbeoordeling
+##### Artikel 47. Normalisering en conformiteitsbeoordeling
 
 De partijen werken samen op het gebied van normalisering, metrologie, certificatie en kwaliteitsborging teneinde de verschillen tussen hen op deze gebieden te verminderen, technische belemmeringen op te heffen en de bilaterale handel te vergemakkelijken. Deze samenwerking houdt onder meer het volgende in:
 
@@ -744,23 +769,23 @@ De partijen werken samen op het gebied van normalisering, metrologie, certificat
 
 - e. de ontwikkeling van praktische banden tussen Zuid-Afrikaanse en Europese normaliserings-, erkennings- en certificatie-instellingen.
 
-#### Artikel 48. Douane
+##### Artikel 48. Douane
 
 1. De partijen bevorderen en vergemakkelijken de samenwerking tussen hun douanediensten om te bewerkstelligen dat de bepalingen inzake de handel worden nageleefd en dat eerlijke handelspraktijken worden toegepast. Deze samenwerking leidt onder meer tot de uitwisseling van gegevens en het organiseren van opleidingsprogramma's.
 
 2. Onverminderd de andere samenwerkingsvormen waarin deze Overeenkomst voorziet, met name op grond van [artikel 90](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=VI&artikel=90&z=2016-03-01&g=2016-03-01), geven de administratieve instanties van de Overeenkomstsluitende partijen elkaar bijstand overeenkomstig de bepalingen van Protocol 2 bij deze Overeenkomst.
 
-#### Artikel 49. Statistieken
+##### Artikel 49. Statistieken
 
 De partijen komen overeen op dit gebied samen te werken. De samenwerking is vooral gericht op harmonisering van de statistische methoden en praktijken zodat gegevens over de handel in goederen en diensten en, meer in het algemeen over alle gebieden waarop deze Overeenkomst betrekking heeft en die zich tot statistische verwerking lenen, op een in onderling overleg overeengekomen basis kunnen worden verwerkt.
 
 ## TITEL IV. ECONOMISCHE SAMENWERKING
 
-#### Artikel 50. Inleiding
+##### Artikel 50. Inleiding
 
 Binnen de begrenzingen van hun respectieve bevoegdheden komen de partijen overeen de samenwerking op economisch en industrieel gebied te ontwikkelen en bevorderen, tot wederzijds voordeel en in het belang van geheel zuidelijk Afrika, door hun economische banden te diversifiëren en versterken, duurzame ontwikkeling in hun economieën te stimuleren, structuren voor regionale samenwerking te ondersteunen, de samenwerking in het midden- en kleinbedrijf te bevorderen, het milieu te beschermen en verbeteren, de economische positie van voorheen achtergestelde bevolkingsgroepen, waaronder vrouwen, te verbeteren, en de rechten van werknemers, alsmede vakbondsrechten, te beschermen en te bevorderen.
 
-#### Artikel 51. Industrie
+##### Artikel 51. Industrie
 
 De samenwerking op dit terrein beoogt de herstructurering en modernisering van de Zuid-Afrikaanse industrie te vergemakkelijken en tezelfdertijd haar concurrentievermogen en groei te stimuleren, alsmede de voorwaarden te scheppen voor wederzijds voordelige vormen van samenwerking tussen de industrie van Zuid-Afrika en die van de Europese Unie.
 
@@ -774,7 +799,7 @@ De samenwerking is onder meer gericht op:
 
 - d. het stimuleren van betere benutting van het menselijk en industrieel potentieel van Zuid-Afrika, onder meer door het vergemakkelijken van de toegang tot kredietfaciliteiten en investeringen en het ondersteunen van industriële innovatie, overdracht van technologie, opleiding, onderzoek en technologische ontwikkeling.
 
-#### Artikel 52. Stimulering en bescherming van investeringen
+##### Artikel 52. Stimulering en bescherming van investeringen
 
 Doel van de samenwerking tussen de partijen is, binnen de begrenzingen van hun respectieve bevoegdheden, het vestigen van een klimaat dat gunstig en bevorderlijk is voor binnenlandse en buitenlandse investeringen tot wederzijds voordeel, met name door verbetering van de voorwaarden voor de bescherming van investeringen, de stimulering van investeringen, de overdracht van kapitaal en de uitwisseling van informatie over investeringsmogelijkheden.
 
@@ -790,7 +815,7 @@ De samenwerking is onder meer gericht op het vergemakkelijken en aanmoedigen van
 
 - e. ondersteuning voor investeringen in Zuid-Afrika en de regio zuidelijk Afrika.
 
-#### Artikel 53. Ontwikkeling van het handelsverkeer
+##### Artikel 53. Ontwikkeling van het handelsverkeer
 
 1. De partijen komen overeen hun onderlinge handelsverkeer te ontwikkelen, te diversifiëren en te intensiveren, en de concurrentiepositie van Zuid-Afrikaanse producten op de binnenlandse, regionale en internationale markt te versterken.
 
@@ -810,7 +835,7 @@ De samenwerking is onder meer gericht op het vergemakkelijken en aanmoedigen van
 
 - g. regionale samenwerking ten behoeve van de ontwikkeling van het handelsverkeer en met de handel verband houdende infrastructuur en diensten in zuidelijk Afrika.
 
-#### Artikel 54. Microbedrijven en kleine en middelgrote ondernemingen
+##### Artikel 54. Microbedrijven en kleine en middelgrote ondernemingen
 
 De partijen streven naar ontwikkeling en versterking van microbedrijven en kleine en middelgrote ondernemingen in Zuid-Afrika en naar stimulering van de samenwerking tussen kleine en middelgrote ondernemingen in de Gemeenschap en in Zuid-Afrika en de regio, daarbij toeziend op de gelijkheid van vrouwen en mannen. De partijen komen overeen onder meer:
 
@@ -822,7 +847,7 @@ De partijen streven naar ontwikkeling en versterking van microbedrijven en klein
 
 - d. passende banden tot stand te brengen en te stimuleren tussen marktdeelnemers in de particuliere sector van Zuid-Afrika, zuidelijk Afrika en de Gemeenschap, teneinde de doorstroom van informatie te verbeteren (met betrekking tot de formulering en implementatie van strategieën, zakelijke ontwikkelingen en mogelijkheden, netwerkvorming, gezamenlijke ondernemingen en de overdracht van vaardigheden).
 
-#### Artikel 55. Informatiemaatschappij – telecommunicatie- en informatietechnologie
+##### Artikel 55. Informatiemaatschappij – telecommunicatie- en informatietechnologie
 
 1. De partijen komen overeen samen te werken op het gebied van informatie- en communicatietechnologie, een sector die zij voor de moderne samenleving van het grootste belang achten en die cruciaal is voor de economische en sociale ontwikkeling en de ontwikkeling van een informatiemaatschappij. Communicatie in dit verband omvat de posterijen, de omroep, telecommunicatie en informatietechnologieën. Doel van de samenwerking is:
 
@@ -844,7 +869,7 @@ De partijen streven naar ontwikkeling en versterking van microbedrijven en klein
 
 - e. toegang voor Zuid-Afrikaanse organisaties tot projecten en programma's van de Gemeenschap op basis van regelingen voor de diverse betrokken terreinen, alsmede, onder dezelfde voorwaarden, toegang voor organisaties uit de Europese Unie tot door Zuid-Afrika geïnitieerde activiteiten.
 
-#### Artikel 56. Samenwerking op het gebied van de post
+##### Artikel 56. Samenwerking op het gebied van de post
 
 Binnen de begrenzingen van de respectieve bevoegdheden van de partijen omvat de samenwerking op dit gebied onder meer:
 
@@ -854,7 +879,7 @@ Binnen de begrenzingen van de respectieve bevoegdheden van de partijen omvat de 
 
 - c. stimulering en implementatie van gezamenlijke projecten, waaronder onderzoeksprojecten, met betrekking tot de technologische ontwikkeling in deze sector.
 
-#### Artikel 57. Energie
+##### Artikel 57. Energie
 
 1. Binnen de begrenzingen van de respectieve bevoegdheden van de partijen beoogt de samenwerking op dit gebied onder meer:
 
@@ -882,7 +907,7 @@ Binnen de begrenzingen van de respectieve bevoegdheden van de partijen omvat de 
 
 - h. stimulering van de regionale samenwerking op energiegebied in zuidelijk Afrika.
 
-#### Artikel 58. Mijnbouw en winning van delfstoffen
+##### Artikel 58. Mijnbouw en winning van delfstoffen
 
 1. Doel van de samenwerking op dit terrein is onder meer:
 
@@ -896,7 +921,7 @@ Binnen de begrenzingen van de respectieve bevoegdheden van de partijen omvat de 
 
 2. De samenwerking strekt zich uit tot Zuid-Afrikaanse activiteiten in het kader van de Mining Co-ordination Unit (Eenheid Mijnbouwcoördinatie) van de Southern African Development Community.
 
-#### Artikel 59. Vervoer
+##### Artikel 59. Vervoer
 
 1. Doel van de samenwerking op dit terrein is:
 
@@ -912,7 +937,7 @@ Binnen de begrenzingen van de respectieve bevoegdheden van de partijen omvat de 
 
 - c. verhoging van de veiligheid van het lucht- en zeeverkeer door verbetering van navigatiehulpmiddelen en het mogelijk maken van de invoering van doeltreffende programma's door scholing.
 
-#### Artikel 60. Toerisme
+##### Artikel 60. Toerisme
 
 1. Binnen de begrenzingen van hun respectieve bevoegdheden werken de partijen samen om de ontwikkeling van een concurrerende toeristische bedrijfstak te bevorderen. In dit verband komen de partijen in het bijzonder overeen:
 
@@ -940,7 +965,7 @@ Binnen de begrenzingen van de respectieve bevoegdheden van de partijen omvat de 
 
 - e. stimulering van de regionale samenwerking in zuidelijk Afrika.
 
-#### Artikel 61. Landbouw
+##### Artikel 61. Landbouw
 
 1. De samenwerking op dit terrein is gericht op de stimulering van geïntegreerde, harmonieuze en duurzame ontwikkeling van het platteland in Zuid-Afrika. De samenwerking concentreert zich op:
 
@@ -956,11 +981,11 @@ Binnen de begrenzingen van de respectieve bevoegdheden van de partijen omvat de 
 
 2. De samenwerking krijgt onder meer gestalte door de overdracht van kennis, de oprichting van gezamenlijke ondernemingen en het opzetten van programma's voor capaciteitsopbouw.
 
-#### Artikel 62. Visserij
+##### Artikel 62. Visserij
 
 Doel van de samenwerking op dit gebied is de bevordering van het duurzaam beheer en gebruik van de visbestanden, zulks in het belang van beide partijen op de lange termijn. Dit doel dient te worden bereikt door de uitwisseling van informatie en de totstandkoming en tenuitvoerlegging van overeenkomsten waarin aan de economische, wetenschappelijke, technische, handels- en ontwikkelingsdoelstellingen van beide partijen recht wordt gedaan. Deze overeenkomsten worden gesloten in het kader van een afzonderlijke, tot voordeel van beide partijen strekkende visserijovereenkomst, die de partijen zo spoedig mogelijk trachten te sluiten.
 
-#### Artikel 63. Diensten
+##### Artikel 63. Diensten
 
 De partijen komen overeen de samenwerking in de dienstensector in het algemeen en in de banksector, het verzekeringswezen en bepaalde andere sectoren van de financiële dienstverlening in het bijzonder te stimuleren, onder meer door:
 
@@ -970,7 +995,7 @@ De partijen komen overeen de samenwerking in de dienstensector in het algemeen e
 
 - c. het verbeteren van de boekhouding, de financiële controle, het toezicht en de regulering van de financiële dienstverlening en het financieel toezicht, bijvoorbeeld door het ondersteunen van opleidingsprogramma's.
 
-#### Artikel 64. Consumentenbeleid en bescherming van de gezondheid van de consument
+##### Artikel 64. Consumentenbeleid en bescherming van de gezondheid van de consument
 
 De partijen komen overeen samen te werken op het gebied van het consumentenbeleid en de bescherming van de gezondheid van de consument, onder meer met het oog op:
 
@@ -994,7 +1019,7 @@ De partijen komen overeen samen te werken op het gebied van het consumentenbelei
 
 ### AFDELING A. ALGEMEEN
 
-#### Artikel 65. Doelstellingen
+##### Artikel 65. Doelstellingen
 
 1. De ontwikkelingssamenwerking tussen de Gemeenschap en Zuid-Afrika heeft plaats in een context van beleidsdialoog en partnerschap, en is gericht op ondersteuning van de door de nationale autoriteiten uitgevoerde beleidsmaatregelen en hervormingen.
 
@@ -1002,7 +1027,7 @@ De partijen komen overeen samen te werken op het gebied van het consumentenbelei
 
 3. In deze context wordt voorrang gegeven aan steun voor projecten die armoede helpen bestrijden.
 
-#### Artikel 66. Prioriteiten
+##### Artikel 66. Prioriteiten
 
 1. De ontwikkelingssamenwerking heeft in hoofdzaak betrekking op de volgende gebieden:
 
@@ -1016,11 +1041,11 @@ De partijen komen overeen samen te werken op het gebied van het consumentenbelei
 
 3. De programma's worden in hoofdzaak afgestemd op de basisbehoeften van de in het voormalige stelsel benadeelde gemeenschappen en omvatten tevens de gender- en milieuaspecten van de ontwikkeling.
 
-#### Artikel 67. Begunstigden
+##### Artikel 67. Begunstigden
 
 De voor financiële en technische bijstand in aanmerking komende samenwerkingspartners zijn nationale, provinciale en lokale overheden en overheidsinstanties, niet-gouvernementele organisaties en organisaties van de lokale gemeenschappen, regionale en internationale organisaties, instellingen en publieke of particuliere bedrijven. Andere instanties kunnen in aanmerking komen, indien zij door beide partijen als geschikt worden aangewezen.
 
-#### Artikel 68. Middelen en methodiek
+##### Artikel 68. Middelen en methodiek
 
 1. De middelen die in het kader van de in [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=V&afdeling=A&artikel=66&z=2016-03-01&g=2016-03-01) bedoelde samenwerking kunnen worden gebruikt, omvatten met name studies, technische bijstand, opleiding of andere dienstverlening, leveranties en werken, alsmede financiële controles en evaluatie- en controlemissies.
 
@@ -1038,13 +1063,13 @@ De voor financiële en technische bijstand in aanmerking komende samenwerkingspa
 
 5. Beide partijen nemen passende maatregelen om algemene bekendheid te geven aan de communautaire aspecten van de in het kader van deze Overeenkomst tot stand komende ontwikkelingssamenwerking.
 
-#### Artikel 69. Programmering
+##### Artikel 69. Programmering
 
 1. De meerjarige indicatieve programmering op basis van specifieke doelstellingen gekozen in overeenstemming met de in [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=V&afdeling=A&artikel=66&z=2016-03-01&g=2016-03-01) aangegeven prioriteiten, waarbij voor een referentieperiode de voorwaarden worden vastgesteld met betrekking tot de opzet, de tenuitvoerlegging en de follow-up van de ontwikkelingssamenwerking en de in het kader daarvan gevoerde acties, heeft plaats in intensief overleg tussen de Gemeenschap en de regering van Zuid-Afrika en met de medewerking van de Europese Investeringsbank. De resultaten van de programmeringsgesprekken worden opgenomen in een door beide partijen ondertekend meerjarig indicatief programma.
 
 2. Aan het meerjarig indicatief programma worden een gedetailleerde omschrijving van procedures en bepalingen betreffende de tenuitvoerlegging van en het toezicht op de ontwikkelingssamenwerking gehecht.
 
-#### Artikel 70. Selectie, voorbereiding en beoordeling van projecten
+##### Artikel 70. Selectie, voorbereiding en beoordeling van projecten
 
 1. De verantwoordelijkheid voor het selecteren en voorbereiden van ontwikkelingsprojecten berust bij de regering van Zuid-Afrika (nationale ordonnateur als bedoeld in [artikel 80](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=V&afdeling=B&artikel=80&z=2016-03-01&g=2016-03-01)) of bij een andere in [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=V&afdeling=A&artikel=67&z=2016-03-01&g=2016-03-01) vermelde begunstigde instantie.
 
@@ -1052,13 +1077,13 @@ De voor financiële en technische bijstand in aanmerking komende samenwerkingspa
 
 3. De ontwikkelingsprojecten worden door de nationale ordonnateur en/of de andere in aanmerking komende instanties en de Gemeenschap gezamenlijk beoordeeld.
 
-#### Artikel 71. Financieringsvoorstel en besluit
+##### Artikel 71. Financieringsvoorstel en besluit
 
 1. De conclusies van de beoordeling worden door het hoofd van de delegatie samengevat in een in nauwe samenwerking met de nationale ordonnateur en/of de kandidaat-partner opgesteld financieringsvoorstel.
 
 2. De Commissie geeft het financieringsvoorstel zijn definitieve vorm en doet het toekomen aan het met de besluitvorming belaste orgaan van de Gemeenschap.
 
-#### Artikel 72. Financieringsovereenkomsten
+##### Artikel 72. Financieringsovereenkomsten
 
 1. Met betrekking tot alle door de Gemeenschap goedgekeurde projecten of programma's wordt:
 
@@ -1070,47 +1095,47 @@ De voor financiële en technische bijstand in aanmerking komende samenwerkingspa
 
 ### AFDELING B. TENUITVOERLEGGING
 
-#### Artikel 73. Ontvankelijkheid van inschrijvingen en leveringen
+##### Artikel 73. Ontvankelijkheid van inschrijvingen en leveringen
 
 1. De deelneming aan aanbestedingen en opdrachten staat onder gelijke voorwaarden open voor alle natuurlijke personen en rechtspersonen van de lidstaten van de Europese Unie, Zuid-Afrika en de ACS-Staten. Zij kan in naar behoren gemotiveerde gevallen en om de beste kosten/baten-verhouding tot stand te brengen, worden uitgebreid tot andere ontwikkelingslanden.
 
 2. Leveringen moeten van oorsprong zijn uit de lidstaten, Zuid-Afrika, of de ACS-Staten. In naar behoren gemotiveerde uitzonderlijke gevallen kunnen zij van oorsprong zijn uit andere landen.
 
-#### Artikel 74. Aanbestedende instantie
+##### Artikel 74. Aanbestedende instantie
 
 1. Contracten voor werken, leveranties en diensten worden uitgewerkt, via onderhandelingen gespecificeerd en afgesloten door de begunstigde in overleg en in samenwerking met de Commissie.
 
 2. De begunstigde kan de Commissie verzoeken, zelf of via de door haar daartoe aangewezen instantie, namens hem dienstverleningscontracten uit te werken, via onderhandelingen definitieve vorm te geven en af te sluiten.
 
-#### Artikel 75. Procedures voor aankopen
+##### Artikel 75. Procedures voor aankopen
 
 De procedures voor door de Gemeenschap gefinancierde aankopen of contracten worden in de aan de financieringsovereenkomsten gehechte algemene bepalingen vastgelegd.
 
-#### Artikel 76. Algemene bepalingen en voorwaarden
+##### Artikel 76. Algemene bepalingen en voorwaarden
 
 Met betrekking tot de gunning en uitvoering van de door de Gemeenschap gefinancierde contracten inzake werken, leveranties en diensten zijn de bepalingen van deze Overeenkomst evenals de respectieve bij besluit van de samenwerkingsraad vastgestelde algemene voorschriften voor contracten inzake werken, leveranties en diensten, en algemene voorwaarden van toepassing.
 
-#### Artikel 77. Beslechting van geschillen
+##### Artikel 77. Beslechting van geschillen
 
 Geschillen die bij de uitvoering van een door de Gemeenschap gefinancierd contract rijzen tussen Zuid-Afrika en een aannemer, leverancier of dienstverstrekker, worden beslecht via arbitrage overeenkomstig de door de samenwerkingsraad bij besluit vastgestelde procedurele voorschriften inzake bemiddeling en arbitrage met betrekking tot contracten.
 
-#### Artikel 78. Fiscale aangelegenheden en douaneregelingen
+##### Artikel 78. Fiscale aangelegenheden en douaneregelingen
 
 1. De Zuid-Afrikaanse regering verleent met betrekking tot alle door de Gemeenschap gefinancierde contracten volledige vrijstelling van belastingen en douanerechten en/of -heffingen dan wel lasten van gelijke werking.
 
 2. De bijzonderheden betreffende de in lid 1 bedoelde regeling worden vastgelegd in de vorm van een briefwisseling tussen de Zuid-Afrikaanse regering en de Commissie.
 
-#### Artikel 79. Hoofdordonnateur
+##### Artikel 79. Hoofdordonnateur
 
 De Commissie wijst een hoofdordonnateur aan, die belast wordt met het beheer van de door de Gemeenschap voor ontwikkelingssamenwerking met Zuid-Afrika ter beschikking gestelde middelen.
 
-#### Artikel 80. Nationale ordonnateur en betalingsgemachtigde
+##### Artikel 80. Nationale ordonnateur en betalingsgemachtigde
 
 1. De Zuid-Afrikaanse regering wijst een nationale ordonnateur aan, die haar vertegenwoordigt bij alle verrichtingen betreffende door de Commissie gefinancierde projecten waarvoor Zuid-Afrika en de Gemeenschap een financieringsovereenkomst hebben gesloten. Er wordt tevens een betalingsgemachtigde aangewezen.
 
 2. De plichten en taken van de hoofdordonnateur, van de nationale ordonnateur en van de betalingsgemachtigde worden vastgelegd in een uitwisseling van nota's tussen de Zuid-Afrikaanse regering en de Commissie overeenkomstig de bepalingen van de op preferentiële overeenkomsten toepasselijke financiële regelingen van de Commissie.
 
-#### Artikel 81. Hoofd van de delegatie
+##### Artikel 81. Hoofd van de delegatie
 
 1. De Commissie wordt in Zuid-Afrika vertegenwoordigd door het hoofd van de delegatie, die tezamen met de nationale ordonnateur erop toeziet dat tenuitvoerlegging, controleverrichtingen en follow-up betreffende de financiële en technische samenwerking plaatshebben in overeenstemming met de beginselen van goed financieel beheer en de bepalingen van deze Overeenkomst. Aan het hoofd van de delegatie worden met name bevoegdheden verleend voor het bevorderen van een vlot verloop van de voorbereiding, het onderzoek en de uitvoering van de projecten en programma's.
 
@@ -1118,7 +1143,7 @@ De Commissie wijst een hoofdordonnateur aan, die belast wordt met het beheer van
 
 3. Bij het omschrijven van de taken en plichten van de nationale ordonnateur en van het hoofd van de delegatie streven de partijen naar een zo groot mogelijke lokale betrokkenheid bij het beheer van de projecten en programma's, evenals naar compatibiliteit en samenhang met de in de andere ACS-Staten gebruikelijke handelwijzen.
 
-#### Artikel 82. Controle en evaluatie
+##### Artikel 82. Controle en evaluatie
 
 1. Controle en evaluatie hebben tot doel de ontwikkelingsactiviteiten (voorbereiding, uitvoering en daaropvolgende activiteiten) op onafhankelijke wijze te evalueren, teneinde de doeltreffendheid van lopende en toekomstige ontwikkelingsactiviteiten te verbeteren. De daarop betrekking hebbende werkzaamheden worden door Zuid-Afrika en de Gemeenschap gezamenlijk verricht.
 
@@ -1126,11 +1151,11 @@ De Commissie wijst een hoofdordonnateur aan, die belast wordt met het beheer van
 
 ## TITEL VI. SAMENWERKING OP ANDERE GEBIEDEN
 
-#### Artikel 83. Wetenschap en Technologie
+##### Artikel 83. Wetenschap en Technologie
 
 De partijen verbinden zich ertoe de wetenschappelijke en technologische samenwerking te versterken. Gedetailleerde regelingen voor de tenuitvoerlegging van deze doelstelling zijn uiteengezet in een afzonderlijke overeenkomst die in november 1997 in werking is getreden.
 
-#### Artikel 84. Milieu
+##### Artikel 84. Milieu
 
 1. De partijen werken samen bij het streven naar duurzame ontwikkeling aan de hand van een rationeel gebruik van niet-hernieuwbare natuurlijke hulpbronnen en het duurzaam gebruik van hernieuwbare natuurlijke hulpbronnen en bevorderen op deze wijze de milieubescherming, de preventie van milieubeschadiging en de bestrijding van milieuvervuiling. De partijen streven ernaar de kwaliteit van het milieu op een hoger peil te brengen en samen te werken bij de aanpak van mondiale milieuproblemen.
 
@@ -1138,7 +1163,7 @@ De partijen verbinden zich ertoe de wetenschappelijke en technologische samenwer
 
 3. De samenwerking zal onder meer betrekking hebben op kwesties in verband met stadsontwikkeling en landbenutting al dan niet voor landbouwdoeleinden; woestijnvorming, afvalbeheer, met inbegrip van gevaarlijk afval en kernafval; beheer van gevaarlijke chemische stoffen; instandhouding en duurzaam gebruik van biologische diversiteit; duurzame bosbouw; waterkwaliteitscontrole; bestrijding van verontreiniging door onder meer de industrie; bestrijding van de verontreiniging van kust- en zeewater en het beheer van de rijkdommen van de zee; geïntegreerd beheer van stroomgebieden met inbegrip van het beheer van internationale rivierbekkens; beheer van de watervraag en vraagstukken rond de vermindering van broeikasgasemissies.
 
-#### Artikel 85. Cultuur
+##### Artikel 85. Cultuur
 
 1. De partijen werken samen op cultuurgebied om een grondige kennis en een beter begrip van de culturele diversiteit binnen Zuid-Afrika en de Europese Unie te bevorderen. De partijen elimineren belemmeringen voor de interculturele communicatie en samenwerking en bevorderen het besef voor de onderlinge afhankelijkheid van volkeren met verschillende culturen. Zij moedigen de bevolking van Zuid-Afrika en de Europese Unie aan deel te nemen aan het proces van wederzijdse culturele verrijking.
 
@@ -1146,17 +1171,17 @@ De partijen verbinden zich ertoe de wetenschappelijke en technologische samenwer
 
 3. De partijen werken samen aan culturele evenementen en uitwisselingen tussen instellingen en verenigingen uit Zuid-Afrika en de Europese Unie.
 
-#### Artikel 86. Sociale vraagstukken
+##### Artikel 86. Sociale vraagstukken
 
 1. De partijen gaan een dialoog aan over sociale samenwerking. Deze dialoog betreft onder meer vraagstukken met betrekking tot sociale problemen in verband met de samenleving na het apartheidtijdperk, armoedebestrijding, werkloosheid, gelijkheid van vrouwen en mannen, geweld tegen vrouwen, rechten van kinderen, arbeidsbetrekkingen, gezondheidszorg, veiligheid op het werk en bevolking.
 
 2. De partijen zijn van oordeel dat economische ontwikkeling gepaard moet gaan met sociale vooruitgang. Zij erkennen de noodzaak de sociale basisrechten te waarborgen die specifiek gericht zijn op de vrijheid van vereniging van werknemers, het recht op collectieve onderhandelingen, de afschaffing van dwangarbeid, de afschaffing van discriminatie op het gebied van de werkgelegenheid en beroepsbezigheid en de daadwerkelijke afschaffing van kinderarbeid. De relevante normen van de IAO zijn het uitgangspunt voor de ontwikkeling van deze rechten.
 
-#### Artikel 87. Voorlichting
+##### Artikel 87. Voorlichting
 
 De partijen nemen passende maatregelen om een doelmatige wederzijdse uitwisseling van informatie te bevorderen en aan te moedigen. Prioriteit zal onder meer worden verleend aan de verspreiding van informatie over samenwerking tussen Zuid-Afrika en de Gemeenschap. Voorts streven de partijen ernaar het grote publiek basisinformatie te verstrekken over Zuid-Afrika en de EU, en specifieke doelgroepen in Zuid-Afrika en de Europese Unie op hen toegespitste informatie te verschaffen over respectievelijk het EU-beleid en het beleid van Zuid-Afrika.
 
-#### Artikel 88. Pers en audiovisuele media
+##### Artikel 88. Pers en audiovisuele media
 
 De partijen bevorderen samenwerking op het gebied van pers en audiovisuele media om de verdere ontwikkeling van de media te steunen en een onafhankelijke opstelling van en pluralisme in de media aan te moedigen. Gestreefd wordt naar totstandbrenging van samenwerking door onder meer:
 
@@ -1168,7 +1193,7 @@ De partijen bevorderen samenwerking op het gebied van pers en audiovisuele media
 
 - d. de productie van audiovisuele programma's.
 
-#### Artikel 89. Menselijke hulpbronnen
+##### Artikel 89. Menselijke hulpbronnen
 
 1. De partijen werken samen om de menselijke hulpbronnen in Zuid-Afrika op alle door de Overeenkomst bestreken gebieden te ontwikkelen. De samenwerking zal er op gericht zijn de institutionele capaciteit van de overheid op de voornaamste gebieden van de ontwikkeling van menselijke hulpbronnen te versterken en bijzondere aandacht te besteden aan de minst bevoorrechte bevolkingsgroepen.
 
@@ -1178,7 +1203,7 @@ De partijen bevorderen samenwerking op het gebied van pers en audiovisuele media
 
 4. De partijen stimuleren de totstandkoming van banden en samenwerking tussen instellingen voor hoger onderwijs, bijvoorbeeld universiteiten.
 
-#### Artikel 90. Bestrijding van drugs en het witwassen van geld
+##### Artikel 90. Bestrijding van drugs en het witwassen van geld
 
 Binnen de grenzen van hun respectieve bevoegdheden verbinden de partijen zich ertoe samen te werken bij het bestrijden van drugs en het witwassen van geld door:
 
@@ -1188,7 +1213,7 @@ Binnen de grenzen van hun respectieve bevoegdheden verbinden de partijen zich er
 
 - c. de preventie van de verspreiding van precursoren en andere stoffen die worden gebruikt voor de illegale productie van drugs en psychotrope stoffen op grond van de normen die door de desbetreffende internationale autoriteiten zijn vastgesteld, met name door de Chemical Action Task Force (CATF).
 
-#### Artikel 91. Gegevensbescherming
+##### Artikel 91. Gegevensbescherming
 
 1. De partijen werken samen aan de verbetering van de bescherming van de verwerking van persoonsgegevens, met inachtneming van de internationale normen.
 
@@ -1196,7 +1221,7 @@ Binnen de grenzen van hun respectieve bevoegdheden verbinden de partijen zich er
 
 3. De Samenwerkingsraad zal de vorderingen hierbij periodiek onderzoeken.
 
-#### Artikel 92. Gezondheidszorg
+##### Artikel 92. Gezondheidszorg
 
 1. De partijen werken samen aan de verbetering van de geestelijke en lichamelijke gezondheidszorg van de bevolking door de gezondheidszorg te bevorderen en zich te richten op de preventie van ziekten.
 
@@ -1208,11 +1233,11 @@ Binnen de grenzen van hun respectieve bevoegdheden verbinden de partijen zich er
 
 ## TITEL VII. FINANCIËLE ASPECTEN VAN DE SAMENWERKING
 
-#### Artikel 93. Doel
+##### Artikel 93. Doel
 
 Om de doelstellingen van deze Overeenkomst te bereiken, ontvangt Zuid-Afrika financiële en technische bijstand van de Gemeenschap in de vorm van schenkingen en leningen ter ondersteuning van zijn sociaal-economische ontwikkelingsbehoeften.
 
-#### Artikel 94. Schenkingen
+##### Artikel 94. Schenkingen
 
 De financiële bijstand in de vorm van schenkingen wordt gedekt door:
 
@@ -1220,17 +1245,17 @@ De financiële bijstand in de vorm van schenkingen wordt gedekt door:
 
 - b. financiële middelen uit andere posten van de begroting van de Gemeenschap voor onder het toepassingsgebied van deze begrotingslijnen vallende ontwikkelings- en internationale samenwerkingsactiviteiten. Voor de indiening en goedkeuring van aanvragen, de uitvoering en de controle en evaluatie geldt de procedure overeenkomstig de algemene voorwaarden voor de desbetreffende begrotingslijn.
 
-#### Artikel 95. Leningen
+##### Artikel 95. Leningen
 
 Wat de financiële bijstand in de vorm van leningen betreft kan de Europese Investeringsbank, op verzoek van de Raad van de Europese Unie, uitbreiding overwegen van haar financiering van investeringsprojecten in Zuid-Afrika door middel van langlopende leningen, met inachtneming van de ter uitvoering van de desbetreffende bepalingen van het EG-Verdrag vast te stellen maximale bedragen en geldigheidsperioden.
 
-#### Artikel 96. Regionale samenwerking
+##### Artikel 96. Regionale samenwerking
 
 De in de voorgaande artikelen bedoelde financiële bijstand van de Gemeenschap kan worden benut voor de financiering van projecten of programma's van nationaal of lokaal belang in Zuid-Afrika en deelneming van Zuid-Afrika aan regionale samenwerkingsactiviteiten die het land tezamen met andere ontwikkelingslanden onderneemt.
 
 ## TITEL VIII. SLOTBEPALINGEN
 
-#### Artikel 97. Institutionele structuur
+##### Artikel 97. Institutionele structuur
 
 1. De partijen komen overeen een Samenwerkingsraad in te stellen, die de volgende taken zal vervullen:
 
@@ -1250,7 +1275,7 @@ De in de voorgaande artikelen bedoelde financiële bijstand van de Gemeenschap k
 
 5. De partijen stimuleren tevens contacten tussen andere soortgelijke en relevante instellingen in Zuid-Afrika en de Europese Unie, zoals het Economisch en Sociaal Comité van de Europese Gemeenschap en de Nationale Economische Ontwikkelings- en Arbeidsraad (National Economic Development and Labour Council – NEDLAC) van Zuid-Afrika.
 
-#### Artikel 98. Clausule inzake belastingen
+##### Artikel 98. Clausule inzake belastingen
 
 1. De meestbegunstigingsbehandeling die overeenkomstig het bepaalde in deze Overeenkomst of in in het kader van deze Overeenkomst getroffen regelingen wordt toegekend, is niet van toepassing op belastingvoordelen die Zuid-Afrika en de lidstaten van de Europese Unie verlenen of in de toekomst kunnen verlenen op basis van overeenkomsten inzake voorkoming van dubbele belastingheffing of andere belastingregelingen, of de interne belastingwetgeving.
 
@@ -1258,11 +1283,11 @@ De in de voorgaande artikelen bedoelde financiële bijstand van de Gemeenschap k
 
 3. Niets in deze Overeenkomst of in in het kader van deze Overeenkomst getroffen regelingen mag worden geïnterpreteerd als een beletsel voor de lidstaten van de Europese Unie of Zuid-Afrika om bij de toepassing van de relevante bepalingen van hun belastingwetgeving onderscheid te maken tussen belastingplichtigen die in een verschillende situatie verkeren, in het bijzonder ten aanzien van hun woonplaats of de plaats waar hun kapitaal is geïnvesteerd.
 
-#### Artikel 99. Looptijd
+##### Artikel 99. Looptijd
 
 Deze Overeenkomst wordt voor onbepaalde tijd gesloten. Elk van beide partijen kan deze Overeenkomst opzeggen door de andere partij hiervan schriftelijk kennis te geven. De Overeenkomst houdt op van toepassing te zijn zes maanden na de datum van die kennisgeving.
 
-#### Artikel 100. Non-discriminatie
+##### Artikel 100. Non-discriminatie
 
 Op de onder deze Overeenkomst vallende terreinen en onverminderd daarin vervatte bijzondere bepalingen:
 
@@ -1270,21 +1295,21 @@ Op de onder deze Overeenkomst vallende terreinen en onverminderd daarin vervatte
 
 - b. mogen de door de Gemeenschap jegens Zuid-Afrika toegepaste regelingen niet leiden tot discriminatie tussen Zuid-Afrikaanse onderdanen of Zuid-Afrikaanse bedrijven.
 
-#### Artikel 101. Territoriale toepassing
+##### Artikel 101. Territoriale toepassing
 
 Deze Overeenkomst is van toepassing op het grondgebied waarop het [Verdrag tot oprichting van de Europese Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) van toepassing is, onder de in die verdragen neergelegde voorwaarden, enerzijds, en, wat Zuid-Afrika betreft, op de grondgebieden zoals deze in de Zuid-Afrikaanse grondwet worden omschreven, anderzijds.
 
-#### Artikel 102. Toekomstige ontwikkelingen
+##### Artikel 102. Toekomstige ontwikkelingen
 
 De partijen kunnen de Overeenkomst met wederzijdse instemming en binnen hun respectieve bevoegdheidsterreinen uitbreiden om het niveau van samenwerking te verhogen en hieraan elementen toevoegen door middel van overeenkomsten inzake specifieke sectoren of activiteiten.
 
 Elk van beide partijen mag binnen het kader van deze Overeenkomst voorstellen doen voor uitbreiding van het toepassingsgebied van de samenwerking met inachtneming van de bij de toepassing van de Overeenkomst opgedane ervaring.
 
-#### Artikel 103. Herziening
+##### Artikel 103. Herziening
 
 De partijen zullen deze Overeenkomst binnen vijf jaar na haar vankrachtwording opnieuw bezien in verband met de mogelijke implicaties van andere regelingen die op deze Overeenkomst van invloed kunnen zijn. Met wederzijdse instemming kan worden besloten tot verdere herzieningen.
 
-#### Artikel 104. Beslechting van geschillen
+##### Artikel 104. Beslechting van geschillen
 
 1. Elke partij kan ieder geschil betreffende de toepassing of interpretatie van deze Overeenkomst aan de Samenwerkingsraad voorleggen.
 
@@ -1316,31 +1341,31 @@ De partijen zullen deze Overeenkomst binnen vijf jaar na haar vankrachtwording o
 
 10. Onverminderd hun recht een beroep te doen op de geschillenbeslechtingsprocedures van de WTO streven de Europese Gemeenschap en Zuid-Afrika ernaar geschillen met betrekking tot specifieke verplichtingen voortvloeiende uit de [Titels II](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&z=2016-03-01&g=2016-03-01) en [III](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&z=2016-03-01&g=2016-03-01) van deze Overeenkomst te beslechten door een beroep te doen op de specifieke geschillenbeslechtingsbepalingen van deze Overeenkomst. In het kader van krachtens deze Overeenkomst vastgestelde arbitrageprocedures zullen geen kwesties betreffende de WTO-rechten en -plichten van elke partij aan de orde worden gesteld, tenzij de partijen overeenkomen dergelijke kwesties aan arbitrage te onderwerpen.
 
-#### Artikel 105. Clausule betreffende bilaterale overeenkomsten
+##### Artikel 105. Clausule betreffende bilaterale overeenkomsten
 
 Behalve wanneer zij soortgelijke of grotere rechten voor de betrokken partijen in het leven roept, doet deze Overeenkomst geen afbreuk aan de rechten vervat in bestaande overeenkomsten die een of meerdere lidstaten enerzijds en Zuid-Afrika anderzijds binden.
 
-#### Artikel 106. Amenderingsclausule
+##### Artikel 106. Amenderingsclausule
 
 1. Een partij die deze Overeenkomst wenst te amenderen, kan haar voorstel voor amendering tezamen met haar motivering ter overweging en goedkeuring voorleggen aan de Samenwerkingsraad.
 
 2. Indien de andere partij meent dat de voorgestelde amendering afbreuk doet aan haar rechten uit hoofde van de Overeenkomst, kan zij een voorstel voor compenserende aanpassingen van de Overeenkomst ter overweging en goedkeuring voorleggen aan de Samenwerkingsraad.
 
-#### Artikel 107. Bijlagen
+##### Artikel 107. Bijlagen
 
 De protocollen en bijlagen vormen een integrerend deel van de Overeenkomst.
 
-#### Artikel 108
+##### Artikel 108
 
 Deze overeenkomst is opgesteld in twee exemplaren in de Bulgaarse, de Deense, de Duitse, de Engelse, de Estse, de Finse, de Franse, de Griekse, de Hongaarse, de Italiaanse, de Kroatische, de Letse, de Litouwse, de Maltese, de Nederlandse, de Poolse, de Portugese, de Roemeense, de Sloveense, de Slowaakse, de Spaanse, de Tsjechische en de Zweedse taal en in de officiële talen van Zuid-Afrika andere dan het Engels, namelijk het Sepedi, het Sesotho, het Setswana, het siSwati, het Tshivenda, het Xitsonga, het Afrikaans, het isiNdebele, het isiXhosa en het isiZulu, waarbij alle teksten gelijkelijk authentiek zijn.
 
-#### Artikel 109. Inwerkingtreding
+##### Artikel 109. Inwerkingtreding
 
 Deze Overeenkomst treedt in werking op de eerste dag van de maand volgende op die waarin de overeenkomstsluitende partijen elkaar in kennis hebben gesteld van de voltooiing van de noodzakelijke procedures.
 
 ## TITEL I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 Voor de toepassing van dit Protocol wordt verstaan onder:
 
@@ -1376,7 +1401,7 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 ## TITEL II. DEFINITIE VAN HET BEGRIP „PRODUCT VAN OORSPRONG"
 
-#### Artikel 2. Algemene voorwaarden
+##### Artikel 2. Algemene voorwaarden
 
 1. Voor de toepassing van deze Overeenkomst worden de volgende producten beschouwd van oorsprong te zijn uit de Gemeenschap:
 
@@ -1390,7 +1415,7 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 - b. in Zuid-Afrika verkregen producten, waarin materialen zijn verwerkt die daar niet geheel en al zijn verkregen, mits deze materialen in Zuid-Afrika een be- of verwerking hebben ondergaan die toereikend is in de zin van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=5&z=2016-03-01&g=2016-03-01) van dit Protocol.
 
-#### Artikel 3. Cumulatie van de oorsprong
+##### Artikel 3. Cumulatie van de oorsprong
 
 1. Materialen van oorsprong uit de Gemeenschap worden beschouwd materialen van oorsprong uit Zuid-Afrika te zijn indien ze in een aldaar verkregen product zijn opgenomen. Het is niet noodzakelijk dat deze materialen een toereikende be- of verwerking hebben ondergaan, mits ze evenwel een be- of verwerking hebben ondergaan die meer omvat dan de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=6&z=2016-03-01&g=2016-03-01) van dit Protocol genoemde be- of verwerkingen.
 
@@ -1406,7 +1431,7 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 7. Zodra aan de voorwaarden in lid 6 is voldaan en overeenstemming is bereikt over de datum van inwerkingtreding van deze bepalingen, neemt elke partij de nodige maatregelen om aan haar verplichtingen inzake kennisgeving en informatie te voldoen.
 
-#### Artikel 4. Geheel en al verkregen producten
+##### Artikel 4. Geheel en al verkregen producten
 
 1. Als geheel en al in de Gemeenschap of in Zuid-Afrika verkregen worden beschouwd:
 
@@ -1448,7 +1473,7 @@ Bij de inwerkingtreding van de tariefconcessies voor visserijproducten wordt lid
 
 - d. waarvan de bemanning, kapitein en officieren inbegrepen, voor ten minste 50 procent uit onderdanen van lidstaten van de Gemeenschap of van Zuid-Afrika bestaat.
 
-#### Artikel 5. Toereikende bewerking of verwerking
+##### Artikel 5. Toereikende bewerking of verwerking
 
 1. Niet geheel en al verkregen producten worden geacht een toereikende bewerking of verwerking te hebben ondergaan in de zin van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=2&z=2016-03-01&g=2016-03-01), indien aan de voorwaarden van de lijst in bijlage II is voldaan.
 
@@ -1464,7 +1489,7 @@ Dit lid is niet van toepassing op de producten die onder de hoofdstukken 50 tot 
 
 3. De leden 1 en 2 zijn van toepassing onder voorbehoud van het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=6&z=2016-03-01&g=2016-03-01).
 
-#### Artikel 6. Ontoereikende bewerking of verwerking
+##### Artikel 6. Ontoereikende bewerking of verwerking
 
 1. Behoudens het bepaalde in lid 2 worden de volgende be- of verwerkingen als ontoereikend beschouwd om de oorsprong te verlenen, ongeacht of aan de voorwaarden van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=5&z=2016-03-01&g=2016-03-01) is voldaan:
 
@@ -1490,7 +1515,7 @@ Dit lid is niet van toepassing op de producten die onder de hoofdstukken 50 tot 
 
 2. Alle be- of verwerkingen die een product in de Gemeenschap of in Zuid-Afrika heeft ondergaan worden tezamen genomen om te bepalen of de be- of verwerkingen die het heeft ondergaan ontoereikend zijn in de zin van lid 1.
 
-#### Artikel 7. Determinerende eenheid
+##### Artikel 7. Determinerende eenheid
 
 1. De determinerende eenheid voor de toepassing van de bepalingen van dit Protocol is het product dat volgens de nomenclatuur van het geharmoniseerde systeem als de basiseenheid wordt beschouwd.
 
@@ -1502,15 +1527,15 @@ Hieruit volgt dat:
 
 2. Wanneer volgens algemene regel 5 voor de interpretatie van het geharmoniseerde systeem de verpakking meetelt voor het vaststellen van de indeling, telt deze ook mee voor het vaststellen van de oorsprong.
 
-#### Artikel 8. Accessoires, vervangingsonderdelen en gereedschappen
+##### Artikel 8. Accessoires, vervangingsonderdelen en gereedschappen
 
 Accessoires, vervangingsonderdelen en gereedschappen die samen met materieel, machines, apparaten of voertuigen worden geleverd en deel uitmaken van de normale uitrusting daarvan en in de prijs daarvan zijn begrepen of niet afzonderlijk in rekening worden gebracht, worden geacht één geheel te vormen met het materieel en de machines, apparaten of voertuigen in kwestie.
 
-#### Artikel 9. Stellen of assortimenten
+##### Artikel 9. Stellen of assortimenten
 
 Stellen of assortimenten in de zin van algemene regel 3 voor de interpretatie van het geharmoniseerde systeem, worden als van oorsprong beschouwd indien alle samenstellende delen van oorsprong zijn. Een stel of assortiment bestaande uit producten van oorsprong en producten die niet van oorsprong zijn, wordt evenwel als van oorsprong beschouwd indien de waarde van de producten die niet van oorsprong zijn niet meer dan 15 procent van de prijs af fabriek van het stel of assortiment bedraagt.
 
-#### Artikel 10. Neutrale elementen
+##### Artikel 10. Neutrale elementen
 
 Om te bepalen of een product van oorsprong is, is het niet noodzakelijk de oorsprong na te gaan van de volgende zaken die bij de vervaardiging gebruikt kunnen zijn:
 
@@ -1524,7 +1549,7 @@ Om te bepalen of een product van oorsprong is, is het niet noodzakelijk de oorsp
 
 ## TITEL III. TERRITORIALE VOORWAARDEN
 
-#### Artikel 11. Territorialiteitsbeginsel
+##### Artikel 11. Territorialiteitsbeginsel
 
 1. Behoudens het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=3&z=2016-03-01&g=2016-03-01), moet aan de in titel II genoemde voorwaarden met betrekking tot het verkrijgen van de oorsprong zonder onderbreking in de Gemeenschap of in Zuid-Afrika zijn voldaan.
 
@@ -1534,7 +1559,7 @@ Om te bepalen of een product van oorsprong is, is het niet noodzakelijk de oorsp
 
 - b. dat zij tijdens de periode dat ze waren uitgevoerd geen andere be- of verwerkingen hebben ondergaan dan die welke noodzakelijk waren om ze in goede staat te bewaren.
 
-#### Artikel 12. Rechtstreeks vervoer
+##### Artikel 12. Rechtstreeks vervoer
 
 1. De bij deze Overeenkomst vastgestelde preferentiële regeling is uitsluitend van toepassing op producten die aan de voorwaarden van dit Protocol voldoen en die rechtstreeks tussen de Gemeenschap en Zuid-Afrika, of via het grondgebied van de andere in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=3&z=2016-03-01&g=2016-03-01) bedoelde landen zijn vervoerd. Producten die één enkele zending vormen, kunnen via een ander grondgebied worden vervoerd, eventueel met overslag of tijdelijke opslag op dit grondgebied, voorzover ze in het land van doorvoer of opslag onder toezicht van de douane blijven en aldaar geen andere behandelingen ondergaan dan lossen en opnieuw laden of behandelingen om ze in goede staat te bewaren.
 
@@ -1554,7 +1579,7 @@ Het vervoer per pijpleiding van producten van oorsprong mag via een ander grondg
 
 - c. hetzij, bij gebreke van bovengenoemde stukken, enig ander bewijsstuk.
 
-#### Artikel 13. Tentoonstellingen
+##### Artikel 13. Tentoonstellingen
 
 1. De Overeenkomst is van toepassing op producten van oorsprong die naar een tentoonstelling in een ander dan een van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=3&z=2016-03-01&g=2016-03-01) bedoeld landen zijn verzonden en die na de tentoonstelling in de Gemeenschap of in Zuid-Afrika worden ingevoerd, mits ten genoegen van de douaneautoriteiten wordt aangetoond dat:
 
@@ -1572,7 +1597,7 @@ Het vervoer per pijpleiding van producten van oorsprong mag via een ander grondg
 
 ## TITEL IV. BEWIJS VAN DE OORSPRONG
 
-#### Artikel 14. Algemene voorwaarden
+##### Artikel 14. Algemene voorwaarden
 
 1. Deze Overeenkomst is van toepassing op producten van oorsprong uit de Gemeenschap die in Zuid-Afrika worden ingevoerd en producten van oorsprong uit Zuid-Afrika die in de Gemeenschap worden ingevoerd, op vertoon van:
 
@@ -1582,7 +1607,7 @@ Het vervoer per pijpleiding van producten van oorsprong mag via een ander grondg
 
 2. In afwijking van lid 1 vallen producten van oorsprong in de zin van dit Protocol in de in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=IV&artikel=24&z=2016-03-01&g=2016-03-01) bedoelde gevallen onder de toepassing van deze Overeenkomst zonder dat een van de hierboven genoemde documenten behoeft te worden overgelegd.
 
-#### Artikel 15. Procedure voor de afgifte van een certificaat inzake goederenverkeer EUR.1
+##### Artikel 15. Procedure voor de afgifte van een certificaat inzake goederenverkeer EUR.1
 
 1. Een certificaat inzake goederenverkeer EUR.1 (hierna „EUR.1-certificaat" genoemd) wordt afgegeven door de douaneautoriteiten van het land van uitvoer op schriftelijke aanvraag van de exporteur of, onder diens verantwoordelijkheid, van zijn gemachtigde vertegenwoordiger.
 
@@ -1598,7 +1623,7 @@ Het vervoer per pijpleiding van producten van oorsprong mag via een ander grondg
 
 7. Een EUR.1-certificaat wordt door de douaneautoriteiten afgegeven en ter beschikking van de exporteur gesteld zodra de goederen werkelijk worden uitgevoerd of wanneer het zeker is dat zij zullen worden uitgevoerd.
 
-#### Artikel 16. Afgifte achteraf van een EUR.1-certificaat
+##### Artikel 16. Afgifte achteraf van een EUR.1-certificaat
 
 1. In afwijking van [artikel 15, lid 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=IV&artikel=15&z=2016-03-01&g=2016-03-01), kan een EUR.1-certificaat bij wijze van uitzondering worden afgegeven na de uitvoer van de goederen waarop het betrekking heeft, indien
 
@@ -1639,7 +1664,7 @@ Het vervoer per pijpleiding van producten van oorsprong mag via een ander grondg
 
 5. De in lid 4 bedoelde aantekening wordt aangebracht in het vak „Opmerkingen” van het EUR.1-certificaat.
 
-#### Artikel 17. Afgifte van een duplicaat van een EUR.1-certificaat
+##### Artikel 17. Afgifte van een duplicaat van een EUR.1-certificaat
 
 1. In geval van diefstal, verlies of vernietiging van een EUR.1-certificaat, kan de exporteur de douaneautoriteiten die dit certificaat hadden afgegeven, verzoeken een duplicaat op te maken aan de hand van de uitvoerdocumenten die in hun bezit zijn.
 
@@ -1674,11 +1699,11 @@ Het vervoer per pijpleiding van producten van oorsprong mag via een ander grondg
 
 4. Het duplicaat, dat dezelfde datum van afgifte draagt als het oorspronkelijke EUR.1-certificaat geldt vanaf die datum.
 
-#### Artikel 18. Afgifte van een EUR.1-certificaat aan de hand van een eerder opgesteld of afgegeven bewijs van oorsprong
+##### Artikel 18. Afgifte van een EUR.1-certificaat aan de hand van een eerder opgesteld of afgegeven bewijs van oorsprong
 
 Voor producten van oorsprong die in de Gemeenschap of Zuid-Afrika onder toezicht van een douanekantoor zijn geplaatst, kan het oorspronkelijke bewijs van oorsprong door een of meer EUR.1-certificaten worden vervangen bij verzending van deze producten of een gedeelte daarvan naar een andere plaats in de Gemeenschap of in Zuid-Afrika. Dit certificaat of deze certificaten worden afgegeven door het douanekantoor dat op de producten toezicht houdt.
 
-#### Artikel 19. Voorwaarden voor het opstellen van een factuurverklaring
+##### Artikel 19. Voorwaarden voor het opstellen van een factuurverklaring
 
 1. De in artikel 14, lid 1, onder b), genoemde factuurverklaring kan worden opgesteld door:
 
@@ -1696,7 +1721,7 @@ Voor producten van oorsprong die in de Gemeenschap of Zuid-Afrika onder toezicht
 
 6. Een factuurverklaring kan door de exporteur worden opgesteld bij de uitvoer van de producten waarop zij betrekking heeft of later, maar moet uiterlijk twee jaar na de invoer van de producten waarop ze betrekking heeft in het land van invoer worden aangeboden.
 
-#### Artikel 20. Toegelaten exporteur
+##### Artikel 20. Toegelaten exporteur
 
 1. De douaneautoriteiten van het land van uitvoer kunnen een exporteur die veelvuldig producten verzendt waarop de Overeenkomst van toepassing is, vergunning verlenen factuurverklaringen op te stellen, ongeacht de waarde van de betrokken producten. Om voor een dergelijke vergunning in aanmerking te komen, moet de exporteur naar het oordeel van de douaneautoriteiten de nodige waarborgen bieden met betrekking tot de controle op de oorsprong van de producten en de naleving van alle andere voorwaarden van dit Protocol.
 
@@ -1708,7 +1733,7 @@ Voor producten van oorsprong die in de Gemeenschap of Zuid-Afrika onder toezicht
 
 5. De douaneautoriteiten kunnen de vergunning steeds intrekken. Zij zijn verplicht dit te doen wanneer de toegelaten exporteur niet langer de in lid 1 bedoelde garanties biedt, niet langer aan de in lid 2 bedoelde voorwaarden voldoet of de vergunning niet op de juiste wijze gebruikt.
 
-#### Artikel 21. Geldigheid van het bewijs van de oorsprong
+##### Artikel 21. Geldigheid van het bewijs van de oorsprong
 
 1. Een bewijs van oorsprong is vier maanden geldig vanaf de datum van afgifte in het land van uitvoer. Het moet binnen deze periode worden ingediend bij de douaneautoriteiten van het land van invoer.
 
@@ -1716,15 +1741,15 @@ Voor producten van oorsprong die in de Gemeenschap of Zuid-Afrika onder toezicht
 
 3. In andere gevallen van verlate indiening kunnen de douaneautoriteiten van het land van invoer de bewijzen van oorsprong aanvaarden indien de producten vóór het verstrijken van genoemde termijn bij hen zijn aangebracht.
 
-#### Artikel 22. Overlegging van het bewijs van de oorsprong
+##### Artikel 22. Overlegging van het bewijs van de oorsprong
 
 Bewijzen van oorsprong worden bij de douaneautoriteiten van het land van invoer ingediend overeenkomstig de aldaar geldende procedures. Deze autoriteiten kunnen een vertaling van dit certificaat verlangen. Zij kunnen voorts eisen dat de aangifte ten invoer vergezeld gaat van een verklaring van de importeur dat de producten aan de voorwaarden voor de toepassing van deze Overeenkomst voldoen.
 
-#### Artikel 23. Invoer in deelzendingen
+##### Artikel 23. Invoer in deelzendingen
 
 Wanneer, op verzoek van de importeur en op de door de douaneautoriteiten van het land van invoer vastgestelde voorwaarden, gedemonteerde of niet-gemonteerde producten in de zin van algemene regel 2 a voor de interpretatie van het geharmoniseerd systeem, vallende onder de afdelingen XVI en XVII of de posten 7308 en 9406 van het geharmoniseerd systeem, in deelzendingen worden ingevoerd, wordt één enkel bewijs van oorsprong bij de douaneautoriteiten ingediend bij de invoer van de eerste deelzending.
 
-#### Artikel 24. Vrijstelling van bewijs van de oorsprong
+##### Artikel 24. Vrijstelling van bewijs van de oorsprong
 
 1. Producten die in kleine zendingen door particulieren aan particulieren worden verzonden of die deel uitmaken van de persoonlijke bagage van reizigers worden als producten van oorsprong toegelaten zonder dat het nodig is een formeel bewijs van oorsprong over te leggen, voorzover aan zulke producten ieder handelskarakter vreemd is en verklaard wordt dat zij aan de voorwaarden voor de toepassing van dit Protocol voldoen en er over de juistheid van een dergelijke verklaring geen twijfel bestaat. Voor postzendingen kan deze verklaring op het douaneaangifteformulier C2/CP3 of op een daaraan gehecht blad worden gesteld.
 
@@ -1732,7 +1757,7 @@ Wanneer, op verzoek van de importeur en op de door de douaneautoriteiten van het
 
 3. Voorts mag de totale waarde van deze producten niet meer bedragen dan 500 euro voor kleine zendingen of 1200 euro voor producten die deel uitmaken van de persoonlijke bagage van reizigers.
 
-#### Artikel 25. Leveranciersverklaring
+##### Artikel 25. Leveranciersverklaring
 
 1. Bij het opstellen van een bewijs van de oorsprong in Zuid-Afrika voor producten van oorsprong, bij de vervaardiging waarvan goederen uit de SACU zijn gebruikt en die daar be- of verwerkingen hebben ondergaan zonder het karakter van preferentiële oorsprong te hebben verkregen, wordt rekening gehouden met de leveranciersverklaringen die in overeenstemming met dit artikel voor deze goederen zijn afgegeven.
 
@@ -1744,7 +1769,7 @@ Wanneer, op verzoek van de importeur en op de door de douaneautoriteiten van het
 
 5. Zuid-Afrika treft de nodige administratieve regelingen met de bevoegde autoriteiten in de SACU om te waarborgen dat het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=4&z=2016-03-01&g=2016-03-01) volledig wordt nageleefd.
 
-#### Artikel 26. Bewijsstukken
+##### Artikel 26. Bewijsstukken
 
 De in [artikel 15, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=IV&artikel=15&z=2016-03-01&g=2016-03-01), en [artikel 19, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=IV&artikel=19&z=2016-03-01&g=2016-03-01), bedoelde documenten aan de hand waarvan wordt aangetoond dat producten die door een EUR.1-certificaat of een factuurverklaring worden gedekt producten van oorsprong zijn uit de Gemeenschap, uit Zuid-Afrika of uit een van de andere in lid 3 bedoelde landen en aan de andere voorwaarden van dit Protocol voldoen, kunnen onder meer de volgende zijn:
 
@@ -1758,7 +1783,7 @@ De in [artikel 15, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeld
 
 - e. leveranciersverklaringen waaruit de be- of verwerkingen blijken die de gebruikte materialen in de SACU hebben ondergaan overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=3&z=2016-03-01&g=2016-03-01).
 
-#### Artikel 27. Bewaring van oorsprongsbewijzen, leveranciersverklaringen en andere bewijsstukken
+##### Artikel 27. Bewaring van oorsprongsbewijzen, leveranciersverklaringen en andere bewijsstukken
 
 1. De exporteur die om de afgifte van een EUR.1-certificaat verzoekt, bewaart de in [artikel 15, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=IV&artikel=15&z=2016-03-01&g=2016-03-01), bedoelde bewijsstukken gedurende ten minste drie jaar.
 
@@ -1770,13 +1795,13 @@ De in [artikel 15, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeld
 
 5. De douaneautoriteiten van het land van invoer bewaren de EUR.1-certificaten en factuurverklaringen die bij hen werden ingediend gedurende ten minste drie jaar.
 
-#### Artikel 28. Verschillen en vormfouten
+##### Artikel 28. Verschillen en vormfouten
 
 1. Worden geringe verschillen vastgesteld tussen de gegevens in het bewijs van oorsprong en de gegevens in de documenten die in verband met de formaliteiten bij invoer bij het douanekantoor worden ingediend, dan is het bewijs van oorsprong daardoor niet automatisch ongeldig, indien blijkt dat het wel degelijk met de aangebrachte producten overeenstemt.
 
 2. Kennelijke vormfouten zoals typefouten op het bewijs van oorsprong maken dit document niet ongeldig, indien deze fouten niet van dien aard zijn dat zij twijfel doen rijzen over de juistheid van de in daarin vermelde gegevens.
 
-#### Artikel 29. In euro uitgedrukte bedragen
+##### Artikel 29. In euro uitgedrukte bedragen
 
 1. Het land van uitvoer stelt de tegenwaarde vast in zijn nationale valuta van de in euro uitgedrukte bedragen en deelt deze via de Europese Commissie aan de landen van invoer mede.
 
@@ -1788,13 +1813,13 @@ De in [artikel 15, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeld
 
 ## TITEL V. ADMINISTRATIEVE SAMENWERKING
 
-#### Artikel 30. Wederzijdse bijstand
+##### Artikel 30. Wederzijdse bijstand
 
 1. De douaneautoriteiten van de lidstaten van de Gemeenschap en van Zuid-Afrika doen elkaar, via de Europese Commissie, afdrukken toekomen van de stempels die in hun douanekantoren worden gebruikt bij de afgifte van EUR.1-certificaten, alsmede de adressen van de douaneautoriteiten die belast zijn met de controle van deze certificaten en de factuurverklaringen.
 
 2. Met het oog op de correcte toepassing van dit Protocol verlenen de Gemeenschap en Zuid-Afrika elkaar, via de bevoegde douane-instanties, bijstand bij de controle op de echtheid van de EUR.1-certificaten en de factuurverklaringen en de juistheid van de daarin vermelde gegevens.
 
-#### Artikel 31. Controle van oorsprongsbewijzen
+##### Artikel 31. Controle van oorsprongsbewijzen
 
 1. Bewijzen van oorsprong worden achteraf door middel van steekproeven gecontroleerd, alsmede wanneer de douaneautoriteiten van het land van invoer redenen hebben om te twijfelen aan de echtheid van deze documenten, de oorsprong van de betrokken producten of de naleving van de andere voorwaarden van dit Protocol.
 
@@ -1808,17 +1833,17 @@ De in [artikel 15, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeld
 
 6. Indien bij gegronde twijfel binnen tien maanden na het verzoek om controle geen antwoord is ontvangen, of indien het antwoord niet voldoende gegevens bevat om de echtheid van het betrokken document of de werkelijke oorsprong van de producten vast te stellen, kennen de aanvragende douaneautoriteiten de preferentiële behandeling niet toe, behoudens buitengewone omstandigheden.
 
-#### Artikel 32. Regeling van geschillen
+##### Artikel 32. Regeling van geschillen
 
 1. Geschillen ten aanzien van de in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=V&artikel=31&z=2016-03-01&g=2016-03-01) bedoelde controles die niet onderling geregeld kunnen worden tussen de douaneautoriteiten die de controle hebben aangevraagd en de douaneautoriteiten die deze hebben moeten uitvoeren, en problemen in verband met de interpretatie van dit Protocol, worden aan de Samenwerkingsraad voorgelegd.
 
 2. In alle gevallen is de wetgeving van het land van invoer van toepassing op de regeling van geschillen tussen een importeur en de douaneautoriteiten van het land van invoer.
 
-#### Artikel 33. Sancties
+##### Artikel 33. Sancties
 
 Tegen eenieder die een document met onjuiste gegevens opstelt of laat opstellen met het doel producten onder de preferentiële regeling te doen vallen, worden sancties getroffen.
 
-#### Artikel 34. Vrije zones
+##### Artikel 34. Vrije zones
 
 1. De Gemeenschap en Zuid-Afrika nemen alle nodige maatregelen om te voorkomen dat producten die onder geleide van een bewijs van de oorsprong worden verhandeld en die tijdens het vervoer in een op hun grondgebied gelegen vrije zone verblijven, door andere goederen worden vervangen of andere behandelingen ondergaan dan die welke gebruikelijk zijn om ze in goede staat te bewaren.
 
@@ -1826,7 +1851,7 @@ Tegen eenieder die een document met onjuiste gegevens opstelt of laat opstellen 
 
 ## TITEL VI. CEUTA EN MELILLA
 
-#### Artikel 35. Toepassing van het Protocol
+##### Artikel 35. Toepassing van het Protocol
 
 1. De in artikel 2 gebruikte term „Gemeenschap” heeft geen betrekking op Ceuta en Melilla.
 
@@ -1834,7 +1859,7 @@ Tegen eenieder die een document met onjuiste gegevens opstelt of laat opstellen 
 
 3. Bij toepassing van lid 2 op producten van oorsprong uit Ceuta en Melilla, is dit Protocol van overeenkomstige toepassing met inachtneming van de bijzondere voorwaarden van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=VI&artikel=36&z=2016-03-01&g=2016-03-01).
 
-#### Artikel 36. Bijzondere voorwaarden
+##### Artikel 36. Bijzondere voorwaarden
 
 1. Mits zij rechtstreeks zijn vervoerd overeenkomstig het bepaalde in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&artikel=12&z=2016-03-01&g=2016-03-01), worden beschouwd als:
 
@@ -1866,19 +1891,19 @@ Tegen eenieder die een document met onjuiste gegevens opstelt of laat opstellen 
 
 ## TITEL VII. SLOTBEPALINGEN
 
-#### Artikel 37. Wijziging van het Protocol
+##### Artikel 37. Wijziging van het Protocol
 
 Het Gemengd Comité kan besluiten de bepalingen van dit Protocol te wijzigen.
 
-#### Artikel 38. Tenuitvoerlegging van het Protocol
+##### Artikel 38. Tenuitvoerlegging van het Protocol
 
 De Gemeenschap en Zuid-Afrika nemen, ieder voor zich, de maatregelen die nodig zijn voor de tenuitvoerlegging van dit Protocol.
 
-#### Artikel 39. Goederen in doorvoer of in opslag
+##### Artikel 39. Goederen in doorvoer of in opslag
 
 De Overeenkomst kan worden toegepast op goederen die aan de bepalingen van dit Protocol voldoen en die op de datum van inwerkingtreding van de Overeenkomst onderweg zijn of die in de Gemeenschap of in Zuid-Afrika tijdelijk zijn opgeslagen of zich daar in een douane-entrepot of vrije zone bevinden, mits binnen vier maanden na die datum een EUR.1-certificaat bij de douaneautoriteiten van de Staat van invoer wordt ingediend dat achteraf door de bevoegde instanties van de Staat van uitvoer is opgesteld, tezamen met de documenten waaruit blijkt dat de goederen rechtstreeks zijn vervoerd.
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 Voor de toepassing van dit protocol wordt verstaan onder:
 
@@ -1892,7 +1917,7 @@ Voor de toepassing van dit protocol wordt verstaan onder:
 
 - e. „met de douanewetgeving strijdige handeling”: elke overtreding of poging tot overtreding van de douanewetgeving.
 
-#### Artikel 2. Draagwijdte
+##### Artikel 2. Draagwijdte
 
 1. De Overeenkomstsluitende Partijen verlenen elkaar bijstand op de gebieden die onder hun bevoegdheid vallen, op de wijze en onder de voorwaarden vastgesteld in dit protocol, teneinde de correcte toepassing van de douanewetgeving te waarborgen, inzonderheid met het oog op het voorkomen, opsporen en bestrijden van met de douanewetgeving strijdige handelingen.
 
@@ -1900,7 +1925,7 @@ Voor de toepassing van dit protocol wordt verstaan onder:
 
 3. De bijstand inzake het innen van heffingen, belastingen en boetes valt niet onder dit protocol.
 
-#### Artikel 3. Bijstand op verzoek
+##### Artikel 3. Bijstand op verzoek
 
 1. Op aanvraag van de verzoekende autoriteit verschaft de aangezochte autoriteit haar alle ter zake dienende informatie die zij nodig kan hebben om te waarborgen dat de douanewetgeving correct wordt toegepast, met inbegrip van informatie betreffende geconstateerde of voorgenomen daden die met de douanewetgeving strijdige handelingen vormen of zouden kunnen vormen.
 
@@ -1920,7 +1945,7 @@ Voor de toepassing van dit protocol wordt verstaan onder:
 
 - d. vervoermiddelen die op zodanige wijze worden gebruikt of kunnen worden gebruikt dat redelijkerwijs kan worden aangenomen dat zij bedoeld zijn om te worden gebruikt bij met de douanewetgeving strijdige handelingen.
 
-#### Artikel 4. Bijstand op eigen initiatief
+##### Artikel 4. Bijstand op eigen initiatief
 
 De Overeenkomstsluitende Partijen staan elkaar op eigen initiatief, overeenkomstig hun wettelijke of bestuursrechtelijke bepalingen, bij indien zij zulks noodzakelijk achten voor de correcte toepassing van de douanewetgeving, in het bijzonder door het verschaffen van informatie die zij verkrijgen omtrent:
 
@@ -1934,7 +1959,7 @@ De Overeenkomstsluitende Partijen staan elkaar op eigen initiatief, overeenkomst
 
 - –. vervoermiddelen waarvan redelijkerwijs kan worden aangenomen dat zij voor het verrichten van met de douanewetgeving strijdige handelingen zijn gebruikt, worden gebruikt of kunnen worden gebruikt.
 
-#### Artikel 5. Afgifte van documenten/Kennisgeving van besluiten
+##### Artikel 5. Afgifte van documenten/Kennisgeving van besluiten
 
 Op aanvraag van de verzoekende autoriteit neemt de aangezochte autoriteit, overeenkomstig de voor haar geldende wettelijke of bestuursrechtelijke bepalingen, alle nodige maatregelen voor:
 
@@ -1946,7 +1971,7 @@ die van de verzoekende autoriteit uitgaan en waarop het bepaalde in dit protocol
 
 De verzoeken om afgifte van documenten en om kennisgeving van besluiten moeten schriftelijk worden ingediend in een officiële taal van de aangezochte autoriteit of in een voor deze autoriteit aanvaardbare taal.
 
-#### Artikel 6. Vorm en inhoud van verzoeken om bijstand
+##### Artikel 6. Vorm en inhoud van verzoeken om bijstand
 
 1. Verzoeken in het kader van dit protocol worden schriftelijk gedaan. Zij gaan vergezeld van de bescheiden die voor de behandeling ervan dienstig worden geacht. In spoedeisende gevallen kunnen mondelinge verzoeken worden aanvaard, mits zij onmiddellijk schriftelijk worden bevestigd.
 
@@ -1968,7 +1993,7 @@ De verzoeken om afgifte van documenten en om kennisgeving van besluiten moeten s
 
 4. Indien een verzoek niet in de hierboven omschreven juiste vorm wordt gedaan, kan om correctie of aanvulling worden verzocht; inmiddels kunnen reeds conservatoire maatregelen worden genomen.
 
-#### Artikel 7. Behandeling van verzoeken
+##### Artikel 7. Behandeling van verzoeken
 
 1. De aangezochte autoriteit beantwoordt het verzoek om bijstand, binnen de grenzen van haar bevoegdheden en van haar middelen, als handelde zij voor eigen rekening of op verzoek van een andere autoriteit van dezelfde Overeenkomstsluitende Partij, door de informatie die haar reeds ter beschikking staat mee te delen en door het nodige onderzoek te verrichten of te doen verrichten. Deze bepaling is ook van toepassing op elke andere autoriteit tot welke de aangezochte autoriteit krachtens dit protocol het verzoek richt indien zij niet zelfstandig kan handelen.
 
@@ -1978,7 +2003,7 @@ De verzoeken om afgifte van documenten en om kennisgeving van besluiten moeten s
 
 4. Naar behoren gemachtigde ambtenaren van een Overeenkomstsluitende Partij kunnen, met instemming van de andere Overeenkomstsluitende Partij en onder de voorwaarden die laatstgenoemde stelt, aanwezig zijn bij onderzoek dat op het grondgebied van laatstgenoemde wordt verricht.
 
-#### Artikel 8. Vorm waarin de informatie dient te worden verstrekt
+##### Artikel 8. Vorm waarin de informatie dient te worden verstrekt
 
 1. De aangezochte autoriteit deelt de resultaten van het onderzoek schriftelijk mee aan de verzoekende autoriteit, samen met documenten, gewaarmerkte afschriften of andere ter zake dienende voorwerpen.
 
@@ -1986,7 +2011,7 @@ De verzoeken om afgifte van documenten en om kennisgeving van besluiten moeten s
 
 3. De originelen van documenten worden slechts op verzoek toegezonden wanneer gewaarmerkte afschriften ontoereikend blijken. Deze originelen worden zo spoedig mogelijk geretourneerd.
 
-#### Artikel 9. Gevallen waarin geen bijstand behoeft te worden verleend
+##### Artikel 9. Gevallen waarin geen bijstand behoeft te worden verleend
 
 1. De bijstand kan worden geweigerd of van het voldoen aan bepaalde voorwaarden of vereisten afhankelijk worden gesteld wanneer een Overeenkomstsluitende Partij van mening is dat het verlenen van bijstand in het kader van deze overeenkomst:
 
@@ -2002,7 +2027,7 @@ De verzoeken om afgifte van documenten en om kennisgeving van besluiten moeten s
 
 4. In de in lid 1 en 2 bedoelde gevallen dienen het besluit van de aangezochte autoriteit en de redenen die het besluit ervoor verklaren, onverwijld aan de verzoekende autoriteit te worden meegedeeld.
 
-#### Artikel 10. Uitwisseling van informatie en vertrouwelijkheid
+##### Artikel 10. Uitwisseling van informatie en vertrouwelijkheid
 
 1. Alle informatie die in welke vorm dan ook op grond van dit protocol wordt verstrekt, is vertrouwelijk of bestemd voor beperkte verspreiding, overeenkomstig de regels die bij elk van de Overeenkomstsluitende Partijen gelden. Zij valt onder de geheimhoudingsplicht en geniet de bescherming waarin wordt voorzien door de wetgeving terzake van de Overeenkomstsluitende Partij die de informatie heeft ontvangen, alsmede door de overeenkomstige bepalingen die op de communautaire instanties van toepassing zijn.
 
@@ -2012,21 +2037,21 @@ De verzoeken om afgifte van documenten en om kennisgeving van besluiten moeten s
 
 4. De verkregen informatie wordt uitsluitend voor de in dit protocol omschreven doeleinden gebruikt. Wanneer een Overeenkomstsluitende Partij dergelijke gegevens voor andere doeleinden wenst te gebruiken, dient zij de voorafgaande schriftelijke instemming te krijgen van de autoriteit die de informatie heeft verstrekt. Het gebruik van die informatie is dan onderworpen aan de door deze autoriteit opgelegde beperkingen.
 
-#### Artikel 11. Deskundigen en getuigen
+##### Artikel 11. Deskundigen en getuigen
 
 Een ambtenaar van een aangezochte autoriteit kan worden gemachtigd, binnen de grenzen van de hem verleende machtiging, als getuige of deskundige op te treden in gerechtelijke of administratieve procedures die betrekking hebben op aangelegenheden waarop dit protocol van toepassing is, en daarbij de voor deze procedures noodzakelijke voorwerpen, bescheiden of gewaarmerkte afschriften van bescheiden voor te leggen. In de convocatie dient uitdrukkelijk te worden vermeld voor welke gerechtelijke of administratieve instantie de betrokken ambtenaar moet verschijnen en over welk onderwerp en in welke functie of hoedanigheid de ambtenaar zal worden gehoord.
 
-#### Artikel 12. Kosten van de bijstand
+##### Artikel 12. Kosten van de bijstand
 
 De Overeenkomstsluitende Partijen eisen van elkaar geen terugbetaling voor uitgaven die bij de toepassing van het bepaalde in dit protocol zijn gemaakt, met uitzondering, in voorkomend geval, van uitgaven voor deskundigen en getuigen, en uitgaven voor tolken en vertalers die niet in overheidsdienst zijn.
 
-#### Artikel 13. Uitvoering
+##### Artikel 13. Uitvoering
 
 1. De uitvoering van dit protocol wordt toevertrouwd aan enerzijds de douaneautoriteiten van Zuid-Afrika, en anderzijds aan de bevoegde diensten van de Commissie van de Europese Gemeenschappen en, zo nodig, aan de douaneautoriteiten van de lidstaten. Deze instanties stellen alle praktische maatregelen en regelingen vast voor de toepassing van dit protocol, met inachtneming van de vigerende voorschriften op met name het gebied van de gegevensbescherming. Zij kunnen aan de bevoegde instanties wijzigingen voorstellen die volgens hen in dit protocol moeten worden aangebracht.
 
 2. De Overeenkomstsluitende Partijen plegen onderling overleg en stellen elkaar in kennis van alle uitvoeringsbepalingen die overeenkomstig dit protocol worden vastgesteld.
 
-#### Artikel 14. Andere overeenkomsten
+##### Artikel 14. Andere overeenkomsten
 
 1. Rekening houdend met de respectieve bevoegdheden van de Europese Gemeenschap en van haar lidstaten, geldt voor de bepalingen van dit protocol dat zij:
 

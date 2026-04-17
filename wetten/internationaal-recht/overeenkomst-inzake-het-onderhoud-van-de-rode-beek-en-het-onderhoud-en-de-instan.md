@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst inzake het onderhoud van de Rode Beek en het onderhoud en de instandhouding van de afvoerregulerende kunstwerken bij de Dalheimer Molenvijver"
 identifier: "BWBV0002668"
-categorie: "Internationaal recht"
-publicatiedatum: 1988-01-21
-laatste_update: 1988-01-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002668"
+country: "nl"
+rank: "verdrag"
+publication_date: "1988-01-21"
+last_updated: "1988-01-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002668"
+soort: "verdrag"
+stam_id: "10002964373"
+version_id: "10002966942"
+internal_id: "C10008163751"
+label_id: "10002950984"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002668/1988-01-21/0"
+intitule_bron: "Trb.1989-72"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1988-09-21"
+intitule_published: "1989-06-06"
+intitule_status: "nogniet"
+original_publication: "Trb.1989-72"
+original_signed_date: "1988-09-21"
+original_published_date: "1989-06-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1989-72"
+jci_1_3: "jci1.3:c:BWBV0002668&z=1988-01-21&g=1988-01-21"
+jci_1_0: "1.0:c:BWBV0002668&g=1988-01-21"
+citeertitel_status: "officieel"
+signed_date: "1988-09-21"
+entry_into_force: "1989-06-06"
 ---
-
 # Overeenkomst inzake het onderhoud van de Rode Beek en het onderhoud en de instandhouding van de afvoerregulerende kunstwerken bij de Dalheimer Molenvijver
 
 De stad Wassenberg, vertegenwoordigd door de Stadtdirektor Windeln en de stad Wegberg, vertegenwoordigd door de Stadtdirektor Soemers alsook het waterschap Roer en Overmaas, gevestigd te Sittard, vertegenwoordigd door de voorzitter, drs. F. W. G. Laarakker;
@@ -16,13 +38,13 @@ verder Partijen genoemd,
 
 sluiten, gelet op Hoofdstuk 4, artikel 59, lid 2, van het op 8 april 1960 tussen de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden gesloten Grensverdrag, de volgende overeenkomst:
 
-#### Artikel 1
+##### Artikel 1
 
 De partijen verplichten zich de Rode Beek tussen grenssteen 373 tot grenssteen 377 te onderhouden voor wat betreft het op de bijgevoegde overzichtskaart aangeduide beekgedeelte, de meanderende staat van de waterlossing in de toekomst te behouden en het afvoerprofiel vrij te houden.
 
 De overzichtskaart - schaal 1:25.000 - maakt deel uit van deze overeenkomst (Bijlage 1).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het onderhoud omvat:
 
@@ -54,7 +76,7 @@ De onderhoudsplichtigen werden beschikbaar gesteld:
 
 Het tijdstip van het uitvoeren van de gezamenlijk vastgelegde onderhoudswerkzaamheden dient met de landschapsinstanties te worden afgestemd.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Voor wat betreft de beekvakken en de kunstwerken, welke geheel op Duits of Nederlands gebied liggen, is telkens die partij onderhoudsplichtig, in wiens gebied het betreffende gedeelte of kunstwerk ligt.
 
@@ -70,7 +92,7 @@ Het tijdstip van het uitvoeren van de gezamenlijk vastgelegde onderhoudswerkzaam
 
 4. De partijen verplichten zich, het in haar gebied ertoe te leiden, dat de niet door haar te onderhouden werken in en aan de waterlossing, door de daartoe verplichte derden worden onderhouden.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Voor het toezicht op het onderhoud wordt een commissie van vier leden gevormd. Zij bestaat uit een vertegenwoordiger van de stad Wassenberg en een vertegenwoordiger van de stad Wegberg en twee vertegenwoordigers van het Waterschap Roer en Overmaas. Het voorzitterschap wordt jaarlijks afwisselend bekleed door een vertegenwoordiger van de Duitse en de Nederlandse partij.
 
@@ -92,17 +114,17 @@ De toezichthoudende organen - Kreis Heinsberg, 5138 Heinsberg, en de Provincie L
 
 9. De partijen verbinden zich elkaar behulpzaam te zijn bij het verkrijgen van de vereiste grensbescheiden voor de leden van de schouwcommissie en de deskundigen die hun terzijde staan.
 
-#### Artikel 5
+##### Artikel 5
 
 Wijzigingen in de overeenkomst behoeven de goedkeuring van de regeringen van de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De overeenkomt wordt gesloten voor de tijdsduur van tien jaren. Wordt zij niet drie jaren voor de expiratiedatum opgezegd, dan wordt zij geacht stilzwijgend te zijn verlengd met telkens tien jaren.
 
 2. De opzegging dient te geschieden bij aangetekend schrijven.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze overeenkomst behoeft de goedkeuring van de regeringen van de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden. Zij treedt in werking een maand na ontvangst van de laatste kennisgeving van goedkeuring bij één van de partijen. De partijen stellen het tijdstip van inwerkingtreding schriftelijk vast.
 

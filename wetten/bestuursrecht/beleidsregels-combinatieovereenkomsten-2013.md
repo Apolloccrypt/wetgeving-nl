@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregels combinatieovereenkomsten 2013"
+title: "Beleidsregels van de Minister van Economische Zaken van 31 maart 2013, nr. WJZ / 12354959, met betrekking tot de toepassing door de Autoriteit Consument en Markt van artikel 6 van de Mededingingswet ten aanzien van combinatieovereenkomsten (Beleidsregels Combinatieovereenkomsten 2013)"
 identifier: "BWBR0033160"
-categorie: "Bestuursrecht"
-publicatiedatum: 2013-04-06
-laatste_update: 2013-04-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033160"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2013-04-06"
+last_updated: "2013-04-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033160"
+soort: "beleidsregel"
+stam_id: "12180203"
+version_id: "20347192"
+internal_id: "C28624891"
+label_id: "12152054"
+dtd_version: "2.0"
+original_entry_into_force: "2013-04-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033160/2013-04-06/0"
+intitule_bron: "Stcrt.2013-9223"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-03-31"
+intitule_published: "2013-04-05"
+intitule_in_force: "2013-04-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-9223"
+original_signed_date: "2013-03-31"
+original_published_date: "2013-04-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-9223"
+entry_into_force_date: "2013-04-06"
+jci_1_3: "jci1.3:c:BWBR0033160&z=2013-04-06&g=2013-04-06"
+jci_1_0: "1.0:c:BWBR0033160&g=2013-04-06"
+citeertitel_status: "officieel"
+short_title: "Beleidsregels combinatieovereenkomsten 2013"
+signed_date: "2013-03-31"
+entry_into_force: "2013-04-06"
 ---
-
 # Beleidsregels van de Minister van Economische Zaken van 31 maart 2013, nr. WJZ / 12354959, met betrekking tot de toepassing door de Autoriteit Consument en Markt van artikel 6 van de Mededingingswet ten aanzien van combinatieovereenkomsten (Beleidsregels Combinatieovereenkomsten 2013)
 
 De Minister van Economische Zaken,

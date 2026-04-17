@@ -1,20 +1,46 @@
 ---
-title: "Instellingsbesluit kwaliteitscommissie Bibob"
+title: "Besluit van de Minister van Veiligheid en Justitie van 10 december 2013, nr. 462409, houdende instelling van de kwaliteitscommissie Bibob (Instellingsbesluit kwaliteitscommissie Bibob)"
 identifier: "BWBR0034492"
-categorie: "Overig"
-publicatiedatum: 2014-01-01
-laatste_update: 2014-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034492"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2014-01-01"
+last_updated: "2014-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034492"
+soort: "ministeriele-regeling"
+stam_id: "12504373"
+version_id: "21047832"
+internal_id: "C30226921"
+label_id: "12475034"
+dtd_version: "2.0"
+original_entry_into_force: "2014-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034492/2014-01-01/0"
+intitule_bron: "Stcrt.2013-35904"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-12-10"
+intitule_published: "2013-12-23"
+intitule_in_force: "2013-12-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-35904"
+original_signed_date: "2013-12-10"
+original_published_date: "2013-12-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-35904"
+entry_into_force_date: "2014-01-01"
+jci_1_3: "jci1.3:c:BWBR0034492&z=2014-01-01&g=2014-01-01"
+jci_1_0: "1.0:c:BWBR0034492&g=2014-01-01"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit kwaliteitscommissie Bibob"
+signed_date: "2013-12-10"
+entry_into_force: "2014-01-01"
 ---
-
 # Besluit van de Minister van Veiligheid en Justitie van 10 december 2013, nr. 462409, houdende instelling van de kwaliteitscommissie Bibob (Instellingsbesluit kwaliteitscommissie Bibob)
 
 Overwegende dat het wenselijk is een externe kwaliteitscommissie Bibob in te stellen om de kwaliteit van de adviezen van het Bureau Bibob, alsmede de zorgvuldigheid waarmee deze tot stand komen, periodiek te toetsen;
 
 Besluit:
 
-#### Artikel 1. Begripsbepaling
+##### Artikel 1. Begripsbepaling
 
 In dit besluit wordt verstaan onder:
 
@@ -30,11 +56,11 @@ In dit besluit wordt verstaan onder:
 
 - f. **De kwaliteitscommissie:** de kwaliteitscommissie Bibob.
 
-#### Artikel 2. Instelling
+##### Artikel 2. Instelling
 
 Er is een kwaliteitscommissie Bibob.
 
-#### Artikel 3. Samenstelling
+##### Artikel 3. Samenstelling
 
 1. De kwaliteitscommissie bestaat uit personen met uiteenlopende deskundigheid en ervaring, bij voorkeur op het terrein van het openbaar bestuur, het bestuursrecht, de politie en het openbaar ministerie.
 
@@ -52,7 +78,7 @@ Er is een kwaliteitscommissie Bibob.
 
 6. Aanstelling als lid van de kwaliteitscommissie vindt pas plaats nadat de Algemene Inlichtingen- en Veiligheidsdienst (AIVD) op basis van een ingesteld veiligheidsonderzoek (middels een zogeheten B-screening) een ‘Verklaring van geen bezwaar’ heeft afgegeven.
 
-#### Artikel 4. Ontslag
+##### Artikel 4. Ontslag
 
 1. De voorzitter en overige leden van de kwaliteitscommissie kunnen op eigen verzoek door Onze Minister tussentijds worden ontslagen.
 
@@ -60,7 +86,7 @@ Er is een kwaliteitscommissie Bibob.
 
 3. De voorzitter kan tevens ontslagen worden door Onze Minister wegens ongeschiktheid, onbekwaamheid of op andere zwaarwegende gronden.
 
-#### Artikel 5. Taken en verantwoordelijkheden
+##### Artikel 5. Taken en verantwoordelijkheden
 
 1. De kwaliteitscommissie draagt zorg voor een onafhankelijke, systematische en deskundige toetsing van de kwaliteit van adviezen van het Bureau, met het oog op de doorlopende verbetering van de kwaliteit van die adviezen.
 
@@ -70,11 +96,11 @@ Er is een kwaliteitscommissie Bibob.
 
 4. De kwaliteitscommissie rapporteert rechtstreeks aan Onze Minister. Indien de adviezen hiertoe aanleiding geven, doet de kwaliteitscommissie aanbevelingen aan de directeur. Daarnaast brengt de kwaliteitscommissie een jaarverslag uit. De rapportages en het jaarverslag bevatten geen informatie die herleidbaar is tot personen of instanties.
 
-#### Artikel 6. Werkwijze
+##### Artikel 6. Werkwijze
 
 De kwaliteitscommissie bepaalt met in achtneming van de overige bepalingen van dit besluit, onafhankelijk van het Bureau haar werkwijze, haar keuze voor de te onderzoeken adviezen en de prioriteit van haar werkzaamheden.
 
-#### Artikel 7. Bevoegdheden en verplichtingen
+##### Artikel 7. Bevoegdheden en verplichtingen
 
 1. De leden van de kwaliteitscommissie hebben, conform [artikel 20, derde lid, onderdeel e, van de Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=20), toegang tot alle gegevens die door het Bureau zijn gebruikt voor de adviezen die door de kwaliteitscommissie worden beoordeeld. Daarnaast kan de kwaliteitscommissie informatie inwinnen bij de directeur of de teammanager Bibob.
 
@@ -86,17 +112,17 @@ De kwaliteitscommissie bepaalt met in achtneming van de overige bepalingen van d
 
 5. De leden van de kwaliteitscommissie, verkerende in een omstandigheid welke een goede taakvervulling van de kwaliteitscommissie kan schaden, doen daarvan onverwijld mededeling aan de voorzitter.
 
-#### Artikel 8. Vergoeding
+##### Artikel 8. Vergoeding
 
 1. De voorzitter en overige leden van de kwaliteitscommissie, voor zover niet vallend onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2), ontvangen een vergoeding per maand op basis van een arbeidsduur van 2 uur per week (arbeidsduurfactor 2/36) respectievelijk 1,5 uur per week (arbeidsduurfactor 1,5/36) van het maximum van salarisschaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
 
 2. De voorzitter en overige leden ontvangen een vergoeding voor reis- en verblijfkosten conform [artikel 2, tweede lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2).
 
-#### Artikel 9. Inwerkingtreding
+##### Artikel 9. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 januari 2014.
 
-#### Artikel 10. Citeertitel
+##### Artikel 10. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit kwaliteitscommissie Bibob.
 

@@ -1,16 +1,42 @@
 ---
-title: "Stimuleringsregeling Technologie in Ondersteuning en Zorg"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 9 april 2024, kenmerk 3796593-1063655-DMO, houdende stimulering van activiteiten ten behoeve van het implementeren en opschalen van digitale en hybride processen in zorg en ondersteuning (Stimuleringsregeling Technologie in Ondersteuning en Zorg)"
 identifier: "BWBR0049581"
-categorie: "Sociaal recht"
-publicatiedatum: 2025-07-12
-laatste_update: 2025-07-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049581"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-07-12"
+last_updated: "2025-07-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049581"
+soort: "ministeriele-regeling"
+stam_id: "17075633"
+version_id: "30050502"
+internal_id: "C43068641"
+label_id: "16984524"
+dtd_version: "2.0"
+original_entry_into_force: "2024-04-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049581/2025-07-12/0"
+intitule_bron: "Stcrt.2024-12591"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-04-09"
+intitule_published: "2024-04-18"
+intitule_in_force: "2024-04-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-12591"
+original_signed_date: "2024-04-09"
+original_published_date: "2024-04-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-12591"
+entry_into_force_date: "2024-04-19"
+jci_1_3: "jci1.3:c:BWBR0049581&z=2025-07-12&g=2025-07-12"
+jci_1_0: "1.0:c:BWBR0049581&g=2025-07-12"
+citeertitel_status: "officieel"
+short_title: "Stimuleringsregeling Technologie in Ondersteuning en Zorg"
+signed_date: "2024-04-09"
+entry_into_force: "2024-04-19"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 9 april 2024, kenmerk 3796593-1063655-DMO, houdende stimulering van activiteiten ten behoeve van het implementeren en opschalen van digitale en hybride processen in zorg en ondersteuning (Stimuleringsregeling Technologie in Ondersteuning en Zorg)
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -62,11 +88,11 @@ In deze regeling wordt verstaan onder:
 
 - **zorg- of ondersteuningsmedewerker:** medewerker werkzaam in zorg of ondersteuning.
 
-#### Artikel 2. Toepasselijkheid Kaderregeling
+##### Artikel 2. Toepasselijkheid Kaderregeling
 
 Op subsidies verstrekt op grond van deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) van toepassing, met uitzondering van [artikel 10.1 van die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=10.1).
 
-#### Artikel 3. Doel van de regeling
+##### Artikel 3. Doel van de regeling
 
 1. Deze regeling heeft als doel het stimuleren van activiteiten ten behoeve van het transformeren en anders organiseren van zorg- of ondersteuningsprocessen zodat aanbieders:
 
@@ -82,7 +108,7 @@ Op subsidies verstrekt op grond van deze regeling is de [Kaderregeling subsidies
 
 - c. het duurzaam borgen van digitale of hybride processen in zorg of ondersteuning in inkoop- en contractafspraken met inkopers.
 
-#### Artikel 4. Subsidiabele activiteiten
+##### Artikel 4. Subsidiabele activiteiten
 
 De minister kan op aanvraag voor maximaal drie jaar subsidie verstrekken voor activiteiten die bijdragen aan het realiseren van het doel van de regeling en die betrekking hebben op:
 
@@ -94,7 +120,7 @@ De minister kan op aanvraag voor maximaal drie jaar subsidie verstrekken voor ac
 
 - d. strategievorming.
 
-#### Artikel 5. Subsidieaanvrager
+##### Artikel 5. Subsidieaanvrager
 
 De minister kan subsidie verstrekken aan:
 
@@ -106,7 +132,7 @@ De minister kan subsidie verstrekken aan:
 
 - d. een clusterorganisatie, een individuele aanbieder of een penvoerder ten behoeve van een of meer deelnemers van een samenwerkingsverband voor strategievorming.
 
-#### Artikel 6. Subsidiabele kosten
+##### Artikel 6. Subsidiabele kosten
 
 1. Als subsidiabele kosten komen uitsluitend in aanmerking:
 
@@ -118,7 +144,7 @@ De minister kan subsidie verstrekken aan:
 
 - d. voor strategievorming: personeelskosten en kosten voor het verstrekken van advies en procesbegeleiding door kennisinstellingen of door onafhankelijke adviesorganisaties.
 
-#### Artikel 7. Hoogte van de subsidie
+##### Artikel 7. Hoogte van de subsidie
 
 1. Het maximale percentage subsidie voor investering in of exploitatie van een innovatiecluster is 50% van de in aanmerking komende kosten, met inachtneming van artikel 27, zesde en negende lid, van de algemene groepsvrijstellingsverordening, waarbij het maximale percentage subsidie voor in aanmerking komende kosten als bedoeld in artikel 27, vijfde lid, van de algemene groepsvrijstellingsverordening 20% bedraagt.
 
@@ -134,7 +160,7 @@ De minister kan subsidie verstrekken aan:
 
 7. In afwijking van het zesde lid kan de hoogte van de personele kosten worden berekend op basis van de laagste trede van de functieschaal of salarisschaal van de toepasselijke collectieve arbeidsovereenkomst.
 
-#### Artikel 8. Subsidieplafond
+##### Artikel 8. Subsidieplafond
 
 1. Het subsidieplafond bedraagt:
 
@@ -144,7 +170,7 @@ De minister kan subsidie verstrekken aan:
 
 2. De minister verdeelt het ingevolge het subsidieplafond beschikbare bedrag op volgorde van binnenkomst van volledige aanvragen.
 
-#### Artikel 9. Subsidieaanvraag
+##### Artikel 9. Subsidieaanvraag
 
 1. Voor de aanvraag tot verlening van de subsidie wordt een door de minister vastgesteld formulier gebruikt.
 
@@ -168,11 +194,11 @@ De minister kan subsidie verstrekken aan:
 
 - c. een offerte als gebruikgemaakt wordt van externe inhuur voor advies.
 
-#### Artikel 10. Advies
+##### Artikel 10. Advies
 
 Bij aanvragen vanaf € 125.000 wint de minister advies in bij de adviescommissie STOZ.
 
-#### Artikel 11. Voorwaarden en weigeringsgronden
+##### Artikel 11. Voorwaarden en weigeringsgronden
 
 1. Van digitale of hybride processen in zorg of ondersteuning kan bewezen worden dat deze processen en de daarbij noodzakelijke gebruikte toepassingen een substantiële impact hebben gehad:
 
@@ -210,7 +236,7 @@ Bij aanvragen vanaf € 125.000 wint de minister advies in bij de adviescommissi
 
 - f. de verstrekking van een subsidie voor strategievorming niet in overeenstemming is met de de­minimisverordening.
 
-#### Artikel 12. Verplichtingen
+##### Artikel 12. Verplichtingen
 
 In aanvulling op [hoofdstuk 5 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=5) is de subsidieontvanger verplicht:
 
@@ -222,19 +248,19 @@ In aanvulling op [hoofdstuk 5 van de Kaderregeling subsidies OCW, SZW en VWS](ht
 
 - d. mee te werken aan de monitoring van de voortgang van de beoogde tussen- en eindresultaten zoals opgenomen in de subsidieaanvraag.
 
-#### Artikel 13. Aanvraagtermijn subsidievaststelling
+##### Artikel 13. Aanvraagtermijn subsidievaststelling
 
 Een aanvraag tot vaststelling van de subsidie voor subsidies van meer dan € 25.000 wordt ingediend binnen 22 weken na de datum waarop de activiteiten waarvoor subsidie is verleend, uiterlijk moeten zijn verricht.
 
-#### Artikel 14. Hardheidsclausule
+##### Artikel 14. Hardheidsclausule
 
 De minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat de desbetreffende bepaling beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 15. Inwerkingtreding en vervaldatum
+##### Artikel 15. Inwerkingtreding en vervaldatum
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 april 2029.
 
-#### Artikel 16. Citeertitel
+##### Artikel 16. Citeertitel
 
 Deze regeling wordt aangehaald als: Stimuleringsregeling Technologie in Ondersteuning en Zorg.
 

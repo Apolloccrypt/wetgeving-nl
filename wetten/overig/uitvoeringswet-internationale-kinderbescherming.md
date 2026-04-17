@@ -1,14 +1,41 @@
 ---
-title: "Uitvoeringswet internationale kinderbescherming"
+title: "Wet van 16 februari 2006 tot uitvoering van het op 19 oktober 1996 te ’s-Gravenhage tot stand gekomen verdrag inzake de bevoegdheid, het toepasselijke recht, de erkenning, de tenuitvoerlegging en de samenwerking op het gebied van ouderlijke verantwoordelijkheid en maatregelen ter bescherming van kinderen alsmede van de verordening (EG) nr. 2201/2003 van de Raad van de Europese Unie van 27 november 2003 betreffende de bevoegdheid en de erkenning van beslissingen in huwelijkszaken en inzake de ouderlijke verantwoordelijkheid, en tot intrekking van Verordening (EG) nr. 1347/2000 (PbEU L 338), en wijziging van het Burgerlijk Wetboek, het Wetboek van Burgerlijke Rechtsvordering en de Uitvoeringswet EG-executieverordening (Uitvoeringswet internationale kinderbescherming)"
 identifier: "BWBR0019574"
-categorie: "Overig"
-publicatiedatum: 2022-10-01
-laatste_update: 2022-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019574"
+country: "nl"
+rank: "wet"
+publication_date: "2022-10-01"
+last_updated: "2022-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019574"
+soort: "wet"
+stam_id: "8085213"
+version_id: "12929972"
+internal_id: "C17571581"
+label_id: "8066644"
+dtd_version: "2.0"
+original_entry_into_force: "2006-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019574/2022-10-01/0"
+intitule_bron: "Stb.2006-123"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-02-16"
+intitule_published: "2006-03-07"
+intitule_in_force: "2006-04-20"
+intitule_status: "goed"
+original_publication: "Stb.2006-123"
+original_signed_date: "2006-02-16"
+original_published_date: "2006-03-07"
+original_effect: "nieuwe-regeling"
+original_dossier: "29980"
+original_url_id: "stb-2006-123"
+entry_into_force_date: "2006-05-01"
+jci_1_3: "jci1.3:c:BWBR0019574&z=2022-10-01&g=2022-10-01"
+jci_1_0: "1.0:c:BWBR0019574&g=2022-10-01"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringswet internationale kinderbescherming"
+signed_date: "2006-02-16"
+entry_into_force: "2006-05-01"
 ---
-
-# Uitvoeringswet internationale kinderbescherming
+# Wet van 16 februari 2006 tot uitvoering van het op 19 oktober 1996 te ’s-Gravenhage tot stand gekomen verdrag inzake de bevoegdheid, het toepasselijke recht, de erkenning, de tenuitvoerlegging en de samenwerking op het gebied van ouderlijke verantwoordelijkheid en maatregelen ter bescherming van kinderen alsmede van de verordening (EG) nr. 2201/2003 van de Raad van de Europese Unie van 27 november 2003 betreffende de bevoegdheid en de erkenning van beslissingen in huwelijkszaken en inzake de ouderlijke verantwoordelijkheid, en tot intrekking van Verordening (EG) nr. 1347/2000 (PbEU L 338), en wijziging van het Burgerlijk Wetboek, het Wetboek van Burgerlijke Rechtsvordering en de Uitvoeringswet EG-executieverordening (Uitvoeringswet internationale kinderbescherming)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet wordt verstaan onder:
 
@@ -26,11 +53,11 @@ In deze wet wordt verstaan onder:
 
 - –. **de verordening:** de Verordening (EU) nr. 2019/1111 van de Raad van 25 juni 2019 betreffende de bevoegdheid, de erkenning en tenuitvoerlegging van beslissingen in huwelijkszaken en inzake de ouderlijke verantwoordelijkheid, en betreffende internationale kinderontvoering (PbEU L 178).
 
-#### Artikel 2
+##### Artikel 2
 
 De [hoofdstukken 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=1&z=2022-10-01&g=2022-10-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=2&z=2022-10-01&g=2022-10-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=4&z=2022-10-01&g=2022-10-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=7&z=2022-10-01&g=2022-10-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=8&z=2022-10-01&g=2022-10-01) zijn mede van toepassing op internationale kwesties van ouderlijke verantwoordelijkheid en maatregelen ter bescherming van kinderen die niet door het verdrag of de verordening worden beheerst.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Onverminderd het bepaalde in artikel 1, onder a, van het op 20 mei 1980 te Luxemburg tot stand gekomen Europese verdrag betreffende de erkenning en de tenuitvoerlegging van beslissingen inzake het gezag over kinderen en betreffende het herstel van het gezag over kinderen (Trb. 1981, 10), artikel 4 van het op 25 oktober 1980 te ’s-Gravenhage tot stand gekomen verdrag inzake de burgerrechtelijke aspecten van internationale ontvoering van kinderen (Trb. 1987, 139) en [artikel 2 van de Wet van 2 mei 1990 tot uitvoering van die verdragen](https://wetten.overheid.nl/jci1.3:c:BWBR0004746&artikel=2) (Stb. 202), is [deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004746) van toepassing op kinderen die de leeftijd van achttien jaren nog niet hebben bereikt.
 
@@ -38,7 +65,7 @@ De [hoofdstukken 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=1&
 
 ### Hoofdstuk 2. Taak en bevoegdheden van de centrale autoriteit
 
-#### Artikel 4
+##### Artikel 4
 
 1. Onze Minister van Justitie wordt voor Nederland aangewezen als centrale autoriteit, bedoeld in artikel 29 van het verdrag en in artikel 76 van de verordening.
 
@@ -48,21 +75,21 @@ De [hoofdstukken 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=1&
 
 4. De aanwijzing van de centrale autoriteit staat er niet aan in de weg dat een persoon zich rechtstreeks tot de rechter of andere autoriteiten wendt teneinde de erkenning van de ouderlijke verantwoordelijkheid over een kind, het herstel van die verantwoordelijkheid over een kind te bereiken, of de vaststelling of wijziging van een beslissing inzake ouderlijke verantwoordelijkheid dan wel een maatregel ter bescherming van een kind te verkrijgen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De centrale autoriteit is bevoegd, zonodig ook zonder uitdrukkelijke volmacht van degene die zich met een verzoek tot haar heeft gewend, namens hem, anders dan in rechte, op te treden.
 
 2. Onverminderd het bepaalde in artikel 5, derde lid, van het op 20 mei 1980 te Luxemburg tot stand gekomen Europese verdrag betreffende de erkenning en de tenuitvoerlegging van beslissingen inzake het gezag over kinderen en betreffende het herstel van het gezag over kinderen (Trb. 1981, 10) en artikel 26 van het op 25 oktober 1980 te ’s-Gravenhage tot stand gekomen verdrag inzake de burgerrechtelijke aspecten van internationale ontvoering van kinderen (Trb. 1987, 139), draagt de centrale autoriteit zelf alle kosten die aan de uitvoering van haar taak zijn verbonden.
 
-#### Artikel 6
+##### Artikel 6
 
 De centrale autoriteit kan de uitvoering van bepaalde handelingen, overeenkomstig door haar te geven aanwijzingen opdragen aan de raad voor de kinderbescherming. De bepalingen van dit hoofdstuk zijn mede van toepassing ten aanzien van de raad.
 
-#### Artikel 7
+##### Artikel 7
 
 De gemeentebesturen en de ambtenaren van de burgerlijke stand verschaffen de centrale autoriteit kosteloos alle inlichtingen en verstrekken haar kosteloos en vrij van zegel alle afschriften en uittreksels uit hun registers die deze autoriteit van hen vraagt in verband met de uitvoering van haar taak.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Indien de centrale autoriteit voor het vinden van de verblijfplaats van een kind in Nederland medewerking behoeft van dienaren van de openbare macht, kan zij zich voor het verkrijgen daarvan wenden tot de officier van justitie in het arrondissement waar het kind vermoedelijk verblijft, of anders in het arrondissement Den Haag. De officier van justitie kan de zaak overeenkomstig door hem te geven aanwijzingen overdragen aan een officier van justitie in een ander arrondissement, indien de opsporing vermoedelijk in dat arrondissement moet geschieden.
 
@@ -72,7 +99,7 @@ De gemeentebesturen en de ambtenaren van de burgerlijke stand verschaffen de cen
 
 ### Hoofdstuk 3. Procedure in geval van plaatsing van een kind vanuit Nederland in een andere staat en in geval van plaatsing van een kind vanuit een andere staat in Nederland
 
-#### Artikel 9
+##### Artikel 9
 
 1. De beslissing tot plaatsing van, of tot verstrekking van zorg aan een uit Nederland afkomstig kind in een pleeggezin of in een instelling in een andere staat ingevolge artikel 33 van het verdrag dan wel artikel 82 van de verordening, wordt in Nederland genomen door de centrale autoriteit, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=2&artikel=4&z=2022-10-01&g=2022-10-01).
 
@@ -88,7 +115,7 @@ De gemeentebesturen en de ambtenaren van de burgerlijke stand verschaffen de cen
 
 - d. indien toepasselijk, bescheiden waaruit blijkt dat het kind vergunning heeft of zal verkrijgen om de staat waar de plaatsing of de verstrekking van zorg zal plaatsvinden, binnen te komen en met het oog op de plaatsing of de verstrekking van zorg een verblijfsrecht in die staat heeft of zal verkrijgen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. In geval van plaatsing van een kind vanuit een andere staat in Nederland of verstrekking van zorg aan een zodanig kind in een pleeggezin of in een instelling in Nederland ingevolge artikel 33 van het verdrag dan wel artikel 82 van de verordening, dient de instemming dan wel goedkeuring, bedoeld in de genoemde artikelen, te worden gegeven door de centrale autoriteit, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=2&artikel=4&z=2022-10-01&g=2022-10-01).
 
@@ -100,7 +127,7 @@ De gemeentebesturen en de ambtenaren van de burgerlijke stand verschaffen de cen
 
 - c. indien van toepassing, bescheiden waaruit blijkt dat het kind vergunning heeft of zal verkrijgen om Nederland binnen te komen en met het oog op de plaatsing of de verstrekking van zorg een verblijfsrecht in Nederland heeft of zal verkrijgen.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Indien de voorschriften van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=3&artikel=10&z=2022-10-01&g=2022-10-01) niet in acht zijn genomen, kan de officier van justitie of de centrale autoriteit de kinderrechter verzoeken een gecertificeerde instelling als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1) te belasten met de voorlopige voogdij over het kind. Dit verzoek kan ook worden gedaan door de raad voor de kinderbescherming. Tenzij de kinderrechter een langere termijn van verval van de voorlopige voogdij heeft bepaald, wendt de raad zich binnen zes weken na de beslissing over de voorlopige voogdij tot de rechter ten einde een voorziening in het gezag over de minderjarige te verkrijgen. [Artikel 241, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=241), alsmede [artikel 306a van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=306a) zijn van overeenkomstige toepassing. [Artikel 813, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=813) is van overeenkomstige toepassing.
 
@@ -110,23 +137,23 @@ De gemeentebesturen en de ambtenaren van de burgerlijke stand verschaffen de cen
 
 ### Hoofdstuk 4. Rechtspleging ter zake van ouderlijke verantwoordelijkheid en maatregelen ter bescherming van kinderen
 
-#### Artikel 12
+##### Artikel 12
 
 1. Onverminderd de bevoegdheid van de voorzieningenrechter in kort geding, is de rechtbank bevoegd tot kennisneming van alle zaken met betrekking tot de regeling en de uitoefening van ouderlijke verantwoordelijkheid en maatregelen ter bescherming van kinderen in internationale gevallen, behoudens voor zover het betreft de erkenning, de niet-erkenning en de tenuitvoerlegging van buitenlandse beslissingen.
 
 2. De rechtbank is bevoegd tot kennisneming van een zaak als bedoeld in het eerste lid indien het kind binnen haar rechtsgebied gewone verblijfplaats heeft. In gevallen waarin het verdrag of de verordening een bevoegdheid toekent aan de autoriteiten van de verdragsstaat waar het kind niet zijn gewone verblijfplaats heeft, maar zich bevindt, is tot kennisneming daarvan bevoegd de rechtbank binnen wier rechtsgebied het kind zich bevindt. In gevallen waarin het verdrag of de verordening een bevoegdheid toekent aan de autoriteiten van een staat waar het kind noch zijn gewone verblijfplaats heeft noch zich bevindt, is tot kennisneming daarvan bevoegd de rechtbank Den Haag.
 
-#### Artikel 13
+##### Artikel 13
 
 De zaken tot kennisneming waarvan de rechtbank op grond van [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=4&artikel=12&z=2022-10-01&g=2022-10-01), bevoegd is, worden ingeleid met een verzoekschrift. Het verzoekschrift wordt ingediend door een advocaat. Het verzoekschrift houdt tevens in de keuze van een woonplaats binnen het arrondissement van de rechtbank.
 
-#### Artikel 14
+##### Artikel 14
 
 [Artikel 14 van de Uitvoeringswet internationale kinderontvoering](https://wetten.overheid.nl/jci1.3:c:BWBR0004746&artikel=14) (Stb. 1990, 202) is van overeenkomstige toepassing in gevallen die door het verdrag, de verordening of deze wet worden bestreken.
 
 ### Hoofdstuk 5. Erkenning, niet-erkenning en tenuitvoerlegging van beslissingen op grond van het verdrag
 
-#### Artikel 15
+##### Artikel 15
 
 1. De voorzieningenrechter van de rechtbank is bevoegd tot kennisneming van alle verzoeken die betrekking hebben op de erkenning, de niet-erkenning en de tenuitvoerlegging van beslissingen inzake ouderlijke verantwoordelijkheid en maatregelen ter bescherming van kinderen die op grond van het verdrag zijn gegeven, voor zover de erkenning, de niet-erkenning en de tenuitvoerlegging daarvan niet door de verordening worden beheerst. Ten aanzien van het verlof tot tenuitvoerlegging zijn de [artikelen 985 tot en met 990 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=985) niet van toepassing.
 
@@ -134,13 +161,13 @@ De zaken tot kennisneming waarvan de rechtbank op grond van [artikel 12, eerste 
 
 3. Een beslissing op een verzoek als bedoeld in het eerste lid, wordt gevraagd bij verzoekschrift. Het wordt ingediend door een advocaat. Het verzoekschrift houdt tevens in de keuze van een woonplaats binnen het arrondissement van de rechtbank.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De voorzieningenrechter bij wie een verzoek als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=5&artikel=15&z=2022-10-01&g=2022-10-01), is ingediend, doet daarover onverwijld uitspraak.
 
 2. Het verlof tot tenuitvoerlegging is uitvoerbaar bij voorraad.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De rechtbank waarvan de voorzieningenrechter op een verzoek als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=5&artikel=15&z=2022-10-01&g=2022-10-01), heeft beschikt, neemt kennis van het hoger beroep van die beschikking. Alleen de partijen kunnen hoger beroep tegen de beschikking instellen.
 
@@ -160,7 +187,7 @@ De zaken tot kennisneming waarvan de rechtbank op grond van [artikel 12, eerste 
 
 ### Hoofdstuk 6. Erkenning, niet-erkenning en tenuitvoerlegging van beslissingen op grond van de verordening
 
-#### Artikel 18
+##### Artikel 18
 
 1. Ten aanzien van beslissingen inzake ouderlijke verantwoordelijkheid is de voorzieningenrechter van de rechtbank bevoegd tot kennisneming van:
 
@@ -176,7 +203,7 @@ De zaken tot kennisneming waarvan de rechtbank op grond van [artikel 12, eerste 
 
 4. Onverminderd het bepaalde bij artikel 32 van de verordening, wordt bij ongenoegzaamheid van de bij het verzoekschrift overgelegde stukken aan de verzoeker gelegenheid tot aanvulling gegeven met de stukken, bedoeld in artikel 31, eerste lid, van de verordening.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Ten aanzien van beslissingen in huwelijkszaken is de voorzieningenrechter van de rechtbank binnen wiens rechtsgebied de verzoeker zijn woonplaats dan wel zijn verblijfplaats heeft, of bij gebreke daarvan in Nederland, de voorzieningenrechter van de rechtbank Den Haag, bevoegd tot kennisneming van een verzoek tot erkenning of de weigering daarvan, als bedoeld in artikel 30, derde lid, respectievelijk 40, eerste lid, van de verordening. [Artikel 18, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=6&artikel=18&z=2022-10-01&g=2022-10-01), is van overeenkomstige toepassing. De in het verzoekschrift genoemde belanghebbenden worden in de procedure niet opgeroepen.
 
@@ -184,13 +211,13 @@ De zaken tot kennisneming waarvan de rechtbank op grond van [artikel 12, eerste 
 
 3. [Artikel 26e van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=26e) is van overeenkomstige toepassing op een beslissing als bedoeld in het eerste lid.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Het afschrift van de rechterlijke beslissing en het certificaat, bedoeld in artikel 35, eerste lid, onder a en b, respectievelijk artikel 46, eerste lid, onder a en b, van de verordening vormen telkens tezamen een executoriale titel in de zin van [artikel 430 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=430).
 
 2. Een authentieke akte of overeenkomst, als bedoeld in artikel 64 van de verordening vormt tezamen met het certificaat, bedoeld in artikel 66, eerste lid, onder b, van de verordening een executoriale titel in de zin van [artikel 430 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=430).
 
-#### Artikel 21
+##### Artikel 21
 
 1. Heeft de partij tegen wie de tenuitvoerlegging zich richt woonplaats in Nederland, dan kan de in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=6&artikel=20&z=2022-10-01&g=2022-10-01) bedoelde executoriale titel niet dan na verloop van een maand na betekening, als bedoeld in artikel 55 van de verordening, tegen die partij ten uitvoer worden gelegd.
 
@@ -200,7 +227,7 @@ De zaken tot kennisneming waarvan de rechtbank op grond van [artikel 12, eerste 
 
 4. Bij toepassing van het derde lid vermeldt het exploot van de gerechtsdeurwaarder waarmee het certificaat wordt betekend, bedoeld in artikel 55 van de verordening, het door de voorzieningenrechter verleende verlof voor verkorting van de termijn.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Op de tenuitvoerlegging van een rechterlijke beslissing inzake ouderlijke verantwoordelijkheid, bedoeld in de verordening, zijn de [artikelen 812](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=812) en [813 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=813) van overeenkomstige toepassing.
 
@@ -208,7 +235,7 @@ De zaken tot kennisneming waarvan de rechtbank op grond van [artikel 12, eerste 
 
 3. Een beslissing op een verzoek als bedoeld in het tweede lid wordt gevraagd bij verzoekschrift door tussenkomst van een advocaat. Het verzoekschrift houdt tevens de keuze in van een woonplaats binnen het arrondissement van de rechtbank.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Het gerecht dat bevoegd is kennis te nemen van het rechtsmiddel, bedoeld in artikel 61 van de verordening, is het gerechtshof.
 
@@ -216,7 +243,7 @@ De zaken tot kennisneming waarvan de rechtbank op grond van [artikel 12, eerste 
 
 ### Hoofdstuk 7. Internationale samenwerking van gerechten
 
-#### Artikel 24
+##### Artikel 24
 
 1. De Raad voor de Rechtspraak wijst een of meer kinderrechters aan, die in het bijzonder belast zijn met het faciliteren van contacten van rechters in Nederland bij wie op grond van het verdrag, de verordening of deze wet procedures aanhangig zijn met rechters in het buitenland die terzake bevoegd zijn, alsmede contacten van rechters in het buitenland bij wie zodanige procedures aanhangig zijn, met rechters in Nederland die terzake bevoegd zijn.
 
@@ -232,7 +259,7 @@ De zaken tot kennisneming waarvan de rechtbank op grond van [artikel 12, eerste 
 
 ### Hoofdstuk 8. Verklaring inzake ouderlijke verantwoordelijkheid
 
-#### Artikel 25
+##### Artikel 25
 
 1. Tot de afgifte van een verklaring als bedoeld in artikel 40, van het verdrag, is bevoegd de notaris.
 
@@ -240,27 +267,27 @@ De zaken tot kennisneming waarvan de rechtbank op grond van [artikel 12, eerste 
 
 ### Hoofdstuk 9. Samenloop met andere internationale regelingen
 
-#### Artikel 26
+##### Artikel 26
 
 In de betrekkingen tussen Nederland en andere staten die partij zijn zowel bij het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=1&artikel=1&z=2022-10-01&g=2022-10-01) bedoelde verdrag als bij het op 20 mei 1980 te Luxemburg tot stand gekomen Europese verdrag betreffende de erkenning en de tenuitvoerlegging van beslissingen inzake het gezag over kinderen en betreffende het herstel van het gezag over kinderen (Trb. 1981, 10) gaat het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=1&artikel=1&z=2022-10-01&g=2022-10-01) bedoelde verdrag voor.
 
 ### Hoofdstuk 10. Wijziging van andere wetten
 
-#### Artikel 27
+##### Artikel 27
 
 Wijzigt het Burgerlijk Wetboek Boek 1.
 
-#### Artikel 28
+##### Artikel 28
 
 Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
 
-#### Artikel 29
+##### Artikel 29
 
 Wijzigt de Uitvoeringswet EG-executieverordening.
 
 ### Hoofdstuk 11. Slotbepalingen
 
-#### Artikel 30
+##### Artikel 30
 
 1. [Artikel 28, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=10&artikel=28&z=2022-10-01&g=2022-10-01), van deze wet is van toepassing op procedures inzake echtscheiding, scheiding van tafel en bed en ontbinding van het huwelijk na scheiding van tafel en bed, nietigverklaring alsmede nietigheid en geldigheid van het huwelijk die worden ingesteld op of na 1 maart 2005.
 
@@ -270,17 +297,17 @@ Wijzigt de Uitvoeringswet EG-executieverordening.
 
 4. Vanaf het tijdstip van de inwerkingtreding in Nederland van het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=1&artikel=1&z=2022-10-01&g=2022-10-01) bedoelde verdrag wordt het van rechtswege ontstaan van ouderlijke verantwoordelijkheid van een persoon die deze niet reeds heeft, door dat verdrag beheerst.
 
-#### Artikel 31
+##### Artikel 31
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 32
+##### Artikel 32
 
 Deze wet wordt aangehaald als: Uitvoeringswet internationale kinderbescherming
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 23a
+##### Artikel 23a
 
 1. De rechter die de beslissing heeft gegeven, is bevoegd kennis te nemen van een verzoek tot afgifte van een certificaat, als bedoeld in artikel 36, eerste lid, van de verordening.
 

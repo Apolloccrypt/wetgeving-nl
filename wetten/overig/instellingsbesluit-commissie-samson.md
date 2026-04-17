@@ -1,20 +1,46 @@
 ---
-title: "Instellingsbesluit Commissie Samson"
+title: "Besluit van de Minister van Justitie en de Minister voor Jeugd en Gezin van 16 augustus 2010, nr. DDS 5663593, houdende instelling van de Commissie onderzoek seksueel misbruik van minderjarigen die onder verantwoordelijkheid van de overheid in instellingen zijn geplaatst (Instellingsbesluit Commissie Samson)"
 identifier: "BWBR0028140"
-categorie: "Overig"
-publicatiedatum: 2012-03-22
-laatste_update: 2012-03-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028140"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2012-03-22"
+last_updated: "2012-03-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028140"
+soort: "ministeriele-regeling"
+stam_id: "10672243"
+version_id: "17627142"
+internal_id: "C24389551"
+label_id: "10646924"
+dtd_version: "2.0"
+original_entry_into_force: "2010-09-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028140/2012-03-22/0"
+intitule_bron: "Stcrt.2010-13487"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-08-16"
+intitule_published: "2010-09-01"
+intitule_in_force: "2010-09-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-13487"
+original_signed_date: "2010-08-16"
+original_published_date: "2010-09-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-13487"
+entry_into_force_date: "2010-09-02"
+jci_1_3: "jci1.3:c:BWBR0028140&z=2012-03-22&g=2012-03-22"
+jci_1_0: "1.0:c:BWBR0028140&g=2012-03-22"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Commissie Samson"
+signed_date: "2010-08-16"
+entry_into_force: "2010-09-02"
 ---
-
 # Besluit van de Minister van Justitie en de Minister voor Jeugd en Gezin van 16 augustus 2010, nr. DDS 5663593, houdende instelling van de Commissie onderzoek seksueel misbruik van minderjarigen die onder verantwoordelijkheid van de overheid in instellingen zijn geplaatst (Instellingsbesluit Commissie Samson)
 
 Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
 
 Besluiten:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -22,11 +48,11 @@ In dit besluit wordt verstaan onder:
 
 - b. **de Commissie:** de Commissie onderzoek seksueel misbruik van minderjarigen die onder verantwoordelijkheid van de overheid in instellingen zijn geplaatst.
 
-#### Artikel 2. Instelling
+##### Artikel 2. Instelling
 
 Er is een Commissie onderzoek seksueel misbruik van minderjarigen die onder verantwoordelijkheid van de overheid in instellingen zijn geplaatst.
 
-#### Artikel 3. Taak
+##### Artikel 3. Taak
 
 De Commissie heeft tot taak onderzoek te doen naar:
 
@@ -38,7 +64,7 @@ De Commissie heeft tot taak onderzoek te doen naar:
 
 - d. huidige mechanismen voor signalering van seksueel misbruik van minderjarigen als bedoeld onder a.
 
-#### Artikel 4. Samenstelling
+##### Artikel 4. Samenstelling
 
 1. De Commissie bestaat uit een voorzitter en ten hoogste zeven andere leden.
 
@@ -50,7 +76,7 @@ De Commissie heeft tot taak onderzoek te doen naar:
 
 5. Nieuwe leden van de Commissie worden, op aanbeveling van de voorzitter, door de Ministers benoemd.
 
-#### Artikel 5. Leden
+##### Artikel 5. Leden
 
 Als leden van de Commissie worden benoemd:
 
@@ -66,7 +92,7 @@ Als leden van de Commissie worden benoemd:
 
 - f. De heer prof. dr. H.E.M. Baartman, emeritus hoogleraar Preventie en Hulpverlening inzake Kindermishandeling aan de Vrije Universiteit.
 
-#### Artikel 6. Secretariaat
+##### Artikel 6. Secretariaat
 
 1. De Commissie heeft een secretaris.
 
@@ -78,11 +104,11 @@ Als leden van de Commissie worden benoemd:
 
 5. De Ministers dragen, na overleg met de Commissie, zorg voor de nodige voorzieningen ten behoeve van de werkzaamheden van de Commissie.
 
-#### Artikel 7. Inbreng deskundigen
+##### Artikel 7. Inbreng deskundigen
 
 De Commissie kan zich op onderdelen van haar taak laten bijstaan door personen van zowel binnen als buiten de overheid, van wie de deskundige inbreng van belang kan zijn voor het onderzoek.
 
-#### Artikel 8. Rapport
+##### Artikel 8. Rapport
 
 1. De Commissie brengt uiterlijk 31 december 2012 een rapport uit aan de Ministers.
 
@@ -94,19 +120,19 @@ De Commissie kan zich op onderdelen van haar taak laten bijstaan door personen v
 
 5. De Ministers beslissen over de eventuele verlenging van de termijn bedoeld in het eerste lid en brengen de Commissie daarvan schriftelijk op de hoogte.
 
-#### Artikel 9. Vergoeding
+##### Artikel 9. Vergoeding
 
 De leden van de Commissie, voor zover niet vallend onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2), ontvangen een vaste vergoeding per maand, gebaseerd op salarisschaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) en een arbeidsduurfactor van 8/36.
 
-#### Artikel 10. Archivering
+##### Artikel 10. Archivering
 
 De archiefbescheiden van de Commissie worden na haar opheffing of, zo de omstandigheden daartoe eerder aanleiding geven, zoveel eerder, overgebracht naar het archief van het ministerie van Veiligheid en Justitie.
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 10 augustus 2010.
 
-#### Artikel 12. Citeertitel
+##### Artikel 12. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie Samson.
 

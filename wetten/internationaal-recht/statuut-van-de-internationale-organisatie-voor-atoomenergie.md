@@ -1,24 +1,46 @@
 ---
 title: "Statuut van de Internationale Organisatie voor Atoomenergie"
 identifier: "BWBV0004777"
-categorie: "Internationaal recht"
-publicatiedatum: 1989-12-28
-laatste_update: 1989-12-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004777"
+country: "nl"
+rank: "verdrag"
+publication_date: "1989-12-28"
+last_updated: "1989-12-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004777"
+soort: "verdrag"
+stam_id: "10004310853"
+version_id: "10004510312"
+internal_id: "C10007051061"
+label_id: "10004296204"
+dtd_version: "2.0"
+original_entry_into_force: "1956-10-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004777/1989-12-28/0"
+intitule_bron: "Trb.1957-50"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1957-04-04"
+intitule_in_force: "1957-11-19"
+intitule_status: "goed"
+original_publication: "Trb.1957-50"
+original_published_date: "1957-04-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1957-50"
+entry_into_force_date: "1956-10-26"
+jci_1_3: "jci1.3:c:BWBV0004777&z=1989-12-28&g=1989-12-28"
+jci_1_0: "1.0:c:BWBV0004777&g=1989-12-28"
+citeertitel_status: "redactioneel"
+entry_into_force: "1956-10-26"
 ---
-
 # Statuut van de Internationale Organisatie voor Atoomenergie
 
-#### Artikel I. Oprichting van de Organisatie
+##### Artikel I. Oprichting van de Organisatie
 
 Partijen hierbij richten een Internationale Organisatie voor Atoomenergie op (hierna te noemen „de Organisatie”), op hierna uiteen te zetten voorwaarden.
 
-#### Artikel II. Doelstellingen
+##### Artikel II. Doelstellingen
 
 De Organisatie zal er naar streven de bijdrage van de atoomenergie tot de vrede, de gezondheid en de welvaart in de gehele wereld op te voeren en te verhogen. Zij zal er, naar vermogen, voor zorgdragen dat hulp welke door, of op verzoek, of onder toezicht of controle van de Organisatie wordt verleend niet wordt aangewend ten behoeve van enig militair doel.
 
-#### Artikel III. Functies
+##### Artikel III. Functies
 
 A. De Organisatie is gemachtigd:
 
@@ -52,7 +74,7 @@ C. Bij het uitoefenen van haar functies zal de Organisatie geen hulp aan leden v
 
 D. Behoudens de bepalingen van dit Statuut en van de tussen een Staat of groep van Staten en de Organisatie gesloten overeenkomsten die in overeenstemming dienen te zijn met de bepalingen van het Statuut, zullen de activiteiten van de Organisatie worden uitgevoerd met volledige inachtneming van de soevereine rechten der Staten.
 
-#### Artikel IV. Lidmaatschap
+##### Artikel IV. Lidmaatschap
 
 A. De oorspronkelijke leden van de Organisatie zijn die Staten welke lid zijn van de Verenigde Naties of van een der gespecialiseerde organisaties en dit Statuut hebben ondertekend binnen negentig dagen nadat het voor ondertekening is opengesteld en die een akte van bekrachtiging hebben nedergelegd.
 
@@ -60,7 +82,7 @@ B. Andere leden van de Organisatie zijn die Staten welke, ongeacht of zij lid zi
 
 C. De Organisatie is gebaseerd op het beginsel der soevereine gelijkheid van alle leden en alle leden dienen derhalve, opdat zij allen de rechten en voordelen van het lidmaatschap zullen genieten, de verplichtingen welke zij overeenkomstig dit Statuut op zich hebben genomen te goeder trouw na te komen.
 
-#### Artikel V. De Algemene Conferentie
+##### Artikel V. De Algemene Conferentie
 
 A. Een Algemene Conferentie, bestaande uit vertegenwoordigers van alle leden, komt elk jaar in gewone zitting bijeen en kan door de Directeur-Generaal op verzoek van de Raad van Beheer of van de meerderheid der leden eveneens in buitengewone zittingen bijeengeroepen worden. De zittingen vinden plaats op het hoofdbureau van de Organisatie, tenzij door de Algemene Conferentie anders wordt bepaald.
 
@@ -98,7 +120,7 @@ F. De Algemene Conferentie heeft de bevoegdheid:
 
 - 2. onderwerpen voor te leggen ter bestudering door de Raad van Beheer, en de Raad om rapporten te verzoeken inzake elke aangelegenheid welke betrekking heeft op de functies van de Organisatie.
 
-#### Artikel VI. De Raad van Beheer
+##### Artikel VI. De Raad van Beheer
 
 A. De Raad van Beheer is als volgt samengesteld:
 
@@ -146,7 +168,7 @@ I. De Raad van Beheer kan commissies instellen indien hij dit raadzaam acht. De 
 
 J. De Raad van Beheer stelt een jaarrapport voor de Algemene Conferentie samen betreffende de zaken van de Organisatie, alsmede betreffende alle door de Organisatie goedgekeurde projecten. De Raad stelt ook ter indiening bij de Algemene Conferentie die rapporten samen, welke de Organisatie moet of kan moeten indienen bij de Verenigde Naties of bij enige andere organisatie waarvan het werk verband houdt met dat van de Organisatie. Deze rapporten, alsmede de jaarrapporten, worden tenminste een maand voor de gewone jaarlijkse zitting van de Algemene Conferentie aan de leden van de Organisatie voorgelegd.
 
-#### Artikel VII. Personeel
+##### Artikel VII. Personeel
 
 A. Aan het hoofd van het personeel van de Organisatie staat een Directeur-Generaal. De Directeur-Generaal wordt door de Raad van Beheer met goedkeuring van de Algemene Conferentie voor een tijdvak van vier jaren benoemd. Hij is de voornaamste bestuursfunctionaris van de Organisatie.
 
@@ -162,7 +184,7 @@ F. Bij het verrichten van hun werkzaamheden mogen de Directeur-Generaal en net p
 
 G. In dit artikel omvat de uitdrukking „personeel” eveneens de bewakers.
 
-#### Artikel VIII. Uitwisseling van gegevens
+##### Artikel VIII. Uitwisseling van gegevens
 
 A. Elk lid stelle die gegevens beschikbaar die naar zijn overtuiging voor de Organisatie van nut zijn.
 
@@ -170,7 +192,7 @@ B. Elk lid stelt aan de Organisatie alle wetenschappelijke gegevens beschikbaar,
 
 C. De krachtens lid A en B van dit artikel aan de Organisatie beschikbaar gestelde gegevens worden door de Organisatie verzameld en op toegankelijke wijze beschikbaar gesteld. De Organisatie neemt alle maatregelen die ertoe strekken om de uitwisseling onder de leden van gegevens welke betrekking hebben op de aard en het vreedzaam gebruik van atoomenergie daadwerkelijk te bevorderen en treedt ter verwezenlijking van dit doel als tussenpersoon tussen de leden op.
 
-#### Artikel IX. Het leveren van materialen
+##### Artikel IX. Het leveren van materialen
 
 A. De leden kunnen aan de Organisatie die hoeveelheden splijtstoffen beschikbaar stellen als zij raadzaam achten en op met de Organisatie overeen te komen voorwaarden. De aan de Organisatie beschikbaar gestelde materialen mogen, met goedvinden van het lid dat de materialen beschikbaar stelt, bij het betrokken lid worden opgeslagen of, met toestemming van de Organisatie, in de depots van de Organisatie.
 
@@ -202,11 +224,11 @@ I. De Organisatie dient zodra zulks uitvoerbaar is van het volgende, voorzover n
 
 J. De ingevolge dit artikel beschikbaar gestelde materialen worden gebruikt op de door de Raad van Beheer overeenkomstig de bepalingen van dit Statuut vastgestelde wijze. Geen der leden heeft het recht te eisen dat de materialen welke het aan de Organisatie beschikbaar stelt door de Organisatie gescheiden worden gehouden of het project aan te wijzen waarin zij moeten worden gebruikt.
 
-#### Artikel X. Diensten, uitrusting en installaties
+##### Artikel X. Diensten, uitrusting en installaties
 
 De leden kunnen aan de Organisatie diensten, uitrusting en installaties beschikbaar stellen, welke nuttig kunnen zijn om de doelstellingen en de functies van de Organisatie te bereiken en te vervullen.
 
-#### Artikel XI. Projecten van de Organisatie
+##### Artikel XI. Projecten van de Organisatie
 
 A. Elk lid of elke groep leden van de Organisatie, welke een project voor onderzoek op het gebied van, of ontwikkeling of praktische toepassing van de atoomenergie voor vreedzame doeleinden wenst te ondernemen, kan ter verkrijging van splijtstoffen en andere materialen, diensten, uitrusting en installaties welke voor dit doel nodig zijn, de bemiddeling van de Organisatie inroepen. Elk zodanig verzoek dient te worden vergezeld van een toelichting van het doel en de omvang van het project en zal door de Raad van Beheer worden bestudeerd.
 
@@ -250,7 +272,7 @@ F. Wanneer de Organisatie haar goedkeuring aan een project hecht, gaat zij een o
 
 G. De bepalingen van dit artikel gelden ook, waar nodig, voor een verzoek om materialen, diensten, installaties of uitrusting in verband met een bestaand project gedaan.
 
-#### Artikel XII. Waarborgen van de Organisatie
+##### Artikel XII. Waarborgen van de Organisatie
 
 A. Met betrekking tot elk project van de Organisatie of tot een andere regeling waarbij de Organisatie door de betrokken partijen wordt verzocht veiligheidsvoorschriften toe te passen, heeft de Organisatie de volgende rechten en verantwoordelijkheden ten opzichte van het project of de regeling:
 
@@ -272,11 +294,11 @@ B. De Organisatie stelt naar behoefte een inspectie-apparaat in. De inspecteurs 
 
 C. Het inspectie-apparaat heeft eveneens tot taak er voor te zorgen dat de in lid A sub 6 van dit artikel bedoelde verantwoording inderdaad wordt afgelegd, alsmede deze aan controle te onderwerpen en na te gaan of de in artikel XI, lid F sub 4 bedoelde belofte wordt nageleefd, of aan de in lid A sub 2 van dit artikel bedoelde maatregelen de hand wordt gehouden en of aan alle andere in de overeenkomst tussen de Organisatie en de betrokken Staat of de betrokken Staten voorgeschreven voorwaarden met betrekking tot het project wordt voldaan. De inspecteurs rapporteren elk geval van niet-naleving aan de Directeur-Generaal, die vervolgens het rapport aan de Raad van Beheer doorgeeft. De Raad van Beheer nodigt de ontvangende Staat of Staten uit onmiddellijk elke niet-naleving die hij aldus heeft geconstateerd te corrigeren. De Raad rapporteert de niet-naleving aan alle leden, alsmede aan de Veiligheidsraad en de Algemene Vergadering der Verenigde Naties. Bij verzuim door de ontvangende Staat of Staten om binnen redelijke tijd alle maatregelen te nemen, welke nodig zijn ter correctie van de situatie kan de Raad een der volgende of beide volgende maatregelen nemen: onmiddellijke besnoeiing of opschorting der door de Organisatie of door een lid verleende bijstand en teruggave eisen der aan een ontvangend lid of aan een groep ontvangende leden beschikbaar gestelde materialen en uitrusting. De Organisatie kan eveneens, overeenkomstig artikel XIX, elk lid dat zich niet aan de naleving der voorschriften houdt, tijdelijk van de rechten en voorrechten van het lidmaatschap ontheffen.
 
-#### Artikel XIII. Vergoeding aan leden
+##### Artikel XIII. Vergoeding aan leden
 
 Tenzij tussen de Raad van Beheer en het lid dat aan de Organisatie materialen, diensten, uitrusting of installaties verschaft anderszins is overeengekomen, gaat de Raad met dat lid een overeenkomst aan ter vergoeding van het geleverde.
 
-#### Artikel XIV. Financiën
+##### Artikel XIV. Financiën
 
 A. De Raad van Beheer dient bij de Algemene Conferentie de jaarlijkse begroting voor de uitgaven van de Organisatie in. Ten einde in deze het werk van de Raad van Beheer te vergemakkelijken wordt de begroting in eerste instantie door de Directeur-Generaal opgesteld. Indien de Algemene Conferentie de begroting niet goedkeurt, zendt zij deze vergezeld van haar aanbevelingen aan de Raad van Beheer terug. De Raad van Beheer dient daarna wederom een begroting bij de Algemene Conferentie ter goedkeuring in.
 
@@ -302,7 +324,7 @@ G. Behoudens de door de Algemene Conferentie goedgekeurde regelingen en beperkin
 
 H. De beslissingen van de Algemene Conferentie inzake financiële aangelegenheden en van de Raad van Beheer inzake het bedrag der begroting van de Organisatie worden genomen met een tweederde meerderheid der aanwezige, hun stem uitbrengende leden.
 
-#### Artikel XV. Voorrechten en immuniteiten
+##### Artikel XV. Voorrechten en immuniteiten
 
 A. De Organisatie bezit op het grondgebied van elk lid die rechtsbevoegdheid en geniet die voorrechten en immuniteiten welke voor de uitoefening van haar functies nodig zijn.
 
@@ -310,7 +332,7 @@ B. De afgevaardigden der leden, alsmede hun plaatsvervangers en adviseurs, leden
 
 C. De in dit artikel bedoelde rechtsbevoegdheid, voorrechten en immuniteiten zullen in een afzonderlijke overeenkomst of overeenkomsten tussen de Organisatie, in deze vertegenwoordigd door de Directeur-Generaal optredend op last van de Raad van Beheer, en de leden, worden omschreven.
 
-#### Artikel XVI. De betrekkingen met andere organisaties
+##### Artikel XVI. De betrekkingen met andere organisaties
 
 A. De Raad van Beheer is, met goedkeuring van de Algemene Conferentie, bevoegd een overeenkomst of overeenkomsten aan te gaan tot regeling van de betrekkingen tussen de Organisatie en de Verenigde Naties en alle andere organisaties waarvan de werkzaamheden verband houden met die van de Organisatie.
 
@@ -320,13 +342,13 @@ B. De overeenkomst of overeenkomsten tot regeling van de betrekkingen tussen de 
 
 - 2. Overweging door de Organisatie van op haar betrekking hebbende resoluties welke door de Algemene Vergadering of door een of meer der Raden van de Verenigde Naties zijn aanvaard en de indiening, wanneer daartoe het verzoek wordt gedaan, van rapporten aan het daarvoor aangewezen orgaan van de Verenigde Naties inzake de stappen door de Organisatie of haar leden genomen overeenkomstig dit Statuut als gevolg van bovenbedoelde overweging.
 
-#### Artikel XVII. Regeling van geschillen
+##### Artikel XVII. Regeling van geschillen
 
 A. Elk vraagpunt of geschil betreffende de interpretatie of toepassing van dit Statuut dat niet door onderhandeling wordt geregeld, wordt verwezen naar het Internationale Gerechtshof overeenkomstig het [Statuut van dit Hof](https://wetten.overheid.nl/jci1.3:c:BWBV0005509), tenzij de betrokken partijen overeenstemming bereiken over een andere wijze van regeling.
 
 B. De Algemene Conferentie en de Raad van Beheer hebben beiden afzonderlijk de bevoegdheid, behoudens machtiging van de Algemene Vergadering der Verenigde Naties, het Internationale Gerechtshof te verzoeken advies te geven over alle juridische vraagstukken welke zich binnen het kader van de werkzaamheden van de Organisatie kunnen voordoen.
 
-#### Artikel XVIII. Wijzigingen en uittredingen
+##### Artikel XVIII. Wijzigingen en uittredingen
 
 A. Elk lid mag voorstellen doen tot het aanbrengen van wijzigingen in dit Statuut. De Directeur-Generaal verzorgt de gewaarmerkte afschriften van de tekst van elke voorgestelde wijziging en zendt deze tekst tenminste negentig dagen voordat hij door de Algemene Conferentie zal worden bestudeerd, ter kennisneming aan alle leden toe.
 
@@ -342,13 +364,13 @@ D. Op ieder ogenblik na de datum waarop het vijf jaar geleden zal zijn dat dit S
 
 E. Uittreding door een lid uit de Organisatie heeft geen invloed op zijn krachtens artikel XI aangegane contractuele verplichtingen of op zijn financiële verplichtingen voor het jaar waarin het zich terugtrekt.
 
-#### Artikel XIX. Tijdelijk vervallen der voorrechten
+##### Artikel XIX. Tijdelijk vervallen der voorrechten
 
 A. Een lid van de Organisatie dat achterstallig is in de betaling van zijn financiële bijdragen aan de Organisatie heeft geen stem meer in de Organisatie indien het bedrag van zijn achterstallige betalingen gelijk is aan het bedrag der over de twee afgelopen jaren door het lid verschuldigde bijdragen of dit overtreft. De Algemene Conferentie kan evenwel zulk een lid toch toestemming verlenen te stemmen indien zij ervan overtuigd is dat het niet voldoen door het lid aan zijn financiële verplichtingen een gevolg is van omstandigheden waarop het lid zelf geen invloed kan uitoefenen.
 
 B. Een lid dat de bepalingen van dit Statuut of van enigerlei door dat lid krachtens dit Statuut aangegane overeenkomst bij herhaling geschonden heeft kan door de Algemene Conferentie, handelend met tweederde meerderheid der aanwezige, hun stem uitbrengende leden, op aanbeveling van de Raad van Beheer tijdelijk van de rechten en voorrechten van het lidmaatschap worden ontheven.
 
-#### Artikel XX. Definities
+##### Artikel XX. Definities
 
 Zoals in deze Statuten gebruikt:
 
@@ -358,7 +380,7 @@ Zoals in deze Statuten gebruikt:
 
 - 3. betekent de uitdrukking „basis-materiaal”: uranium dat het mengsel van de in de natuur voorkomende isotopen bevat; uranium waaraan het isotoop 235 is onttrokken; thorium; elk der bovengenoemde stoffen in de vorm van metaal, alliage, scheikundige samenstelling of scheikundig concentraat; elk ander materiaal dat een of meer der bovengenoemde stoffen bevat in die concentratie als de Raad van Beheer van tijd tot tijd zal vaststellen; alsmede zulk ander materiaal als de Raad van Beheer van tijd tot tijd zal bepalen.
 
-#### Artikel XXI. Ondertekening, aanvaarding en inwerkingtreding
+##### Artikel XXI. Ondertekening, aanvaarding en inwerkingtreding
 
 A. Dit Statuut wordt op 26 oktober 1956 ter ondertekening opengesteld voor alle Staten welke lid zijn van de Verenigde Naties of van een of meer der gespecialiseerde organisaties en zal ter ondertekening door die Staten gedurende een tijdvak van negentig dagen open blijven staan.
 
@@ -374,13 +396,13 @@ F. De depot-Regering stelt onmiddellijk alle Staten welke dit Statuut hebben ond
 
 G. De Bijlage bij dit Statuut wordt van kracht op de eerste dag dat dit Statuut voor ondertekening openstaat.
 
-#### Artikel XXII. Registratie bij de Verenigde Naties
+##### Artikel XXII. Registratie bij de Verenigde Naties
 
 A. Dit Statuut wordt door de depot-Regering geregistreerd krachtens [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
 B. Overeenkomsten tussen de Organisatie en een of meer der leden, overeenkomsten tussen de Organisatie en een andere organisatie of andere organisaties, alsmede overeenkomsten tussen leden welke onderworpen zijn aan de goedkeuring van de Organisatie, worden bij de Organisatie geregistreerd. Zulke overeenkomsten worden bij de Verenigde Naties geregistreerd indien registratie krachtens [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102) verplicht is.
 
-#### Artikel XXIII. Authentieke teksten en gewaarmerkte afschriften
+##### Artikel XXIII. Authentieke teksten en gewaarmerkte afschriften
 
 Dit Statuut, gedaan in de Chinese, Engelse, Franse, Russische en Spaanse taal, zijnde al deze teksten gelijkelijk authentiek, wordt in het archief van de depot-Regering nedergelegd. Behoorlijk gewaarmerkte afschriften van dit Statuut worden door de depot-Regering aan de Regeringen van de andere ondertekenende Staten, alsmede aan de Regeringen der krachtens lid B van artikel IV tot het lidmaatschap toegelaten Staten, toegezonden.
 

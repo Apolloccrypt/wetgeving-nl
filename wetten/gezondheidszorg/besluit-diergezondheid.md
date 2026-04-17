@@ -1,13 +1,39 @@
 ---
-title: "Besluit diergezondheid"
+title: "Besluit van 24 maart 2021, houdende regels met betrekking tot de preventie en bestrijding van dierziekten en tot wijziging van het Besluit dierlijke producten, het Besluit diergeneesmiddelen, het Besluit handhaving en overige zaken Wet dieren en het Besluit houders van dieren (Besluit diergezondheid)"
 identifier: "BWBR0045039"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045039"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045039"
+soort: "AMvB"
+stam_id: "15925833"
+version_id: "27694202"
+internal_id: "C39071421"
+label_id: "15860654"
+dtd_version: "2.0"
+original_entry_into_force: "2021-04-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045039/2026-01-01/0"
+intitule_bron: "Stb.2021-169"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-03-24"
+intitule_published: "2021-04-06"
+intitule_in_force: "2021-04-06"
+intitule_status: "goed"
+original_publication: "Stb.2021-169"
+original_signed_date: "2021-03-24"
+original_published_date: "2021-04-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2021-169"
+entry_into_force_date: "2021-04-21"
+jci_1_3: "jci1.3:c:BWBR0045039&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0045039&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit diergezondheid"
+signed_date: "2021-03-24"
+entry_into_force: "2021-04-21"
 ---
-
 # Besluit van 24 maart 2021, houdende regels met betrekking tot de preventie en bestrijding van dierziekten en tot wijziging van het Besluit dierlijke producten, het Besluit diergeneesmiddelen, het Besluit handhaving en overige zaken Wet dieren en het Besluit houders van dieren (Besluit diergezondheid)
 
 Op de voordracht van Onze Minister van Landbouw, Natuur en Voedselkwaliteit van 16 november 2020, nr. WJZ / 20277340, gedaan in overeenstemming met Onze Minister voor Medische Zorg en Sport en na overleg met Onze Minister van Sociale Zaken en Werkgelegenheid;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemeen
 
-#### Artikel 1.1. Begripsbepaling
+##### Artikel 1.1. Begripsbepaling
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -38,7 +64,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 2. Besmette en van besmetting verdachte dieren
 
-#### Artikel 2.1. Verdenking
+##### Artikel 2.1. Verdenking
 
 1. Onze Minister wijst een dier of groep dieren aan als verdacht van besmetting met een dierziekte of zoönose als bedoeld in [artikel 5.3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.3), anders dan een ziekte als bedoeld in artikel 9, eerste lid, van verordening (EU) nr. 2016/429, indien:
 
@@ -54,7 +80,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. Onze Minister anderszins de overtuiging heeft gekregen dat het dier niet aan een ziekte als bedoeld in de aanhef van het eerste lid lijdt.
 
-#### Artikel 2.2. Besmetting
+##### Artikel 2.2. Besmetting
 
 Onze Minister wijst een dier of een groep dieren aan als besmet met een dierziekte of zoönose als bedoeld in [artikel 5.3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.3), anders dan een ziekte als bedoeld in artikel 9, eerste lid, van verordening (EU) nr. 2016/429, indien:
 
@@ -64,13 +90,13 @@ Onze Minister wijst een dier of een groep dieren aan als besmet met een dierziek
 
 - c. een positief resultaat van een indirecte diagnostische methode dat niet het gevolg is van vaccinatie, is verkregen in een monster van een dier of een groep dieren waarbij klinische symptomen die bij de ziekte passen of een epidemiologisch verband met een vermoedelijk of bevestigd geval zijn vastgesteld.
 
-#### Artikel 2.3. Borden en kentekenen
+##### Artikel 2.3. Borden en kentekenen
 
 Vervallen
 
 ### Hoofdstuk 3. Uitvoering monitoringsprogramma’s door aangewezen laboratoria
 
-#### Artikel 3.1. Aanwijzing laboratorium en monitoringsprogramma’s
+##### Artikel 3.1. Aanwijzing laboratorium en monitoringsprogramma’s
 
 Voor daartoe aangewezen monitoringsprogramma’s wijst Onze Minister een instelling met een laboratorium aan die:
 
@@ -82,21 +108,21 @@ Voor daartoe aangewezen monitoringsprogramma’s wijst Onze Minister een instell
 
 - d. rapportages maakt over de verrichte werkzaamheden.
 
-#### Artikel 3.2. Instructies
+##### Artikel 3.2. Instructies
 
 Onze Minister kan aan een aangewezen instelling als bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&hoofdstuk=3&artikel=3.1&z=2026-01-01&g=2026-01-01) algemene en bijzondere instructies geven over de uitvoering en verantwoording van de aangewezen monitoringsprogramma’s.
 
-#### Artikel 3.3. Meewerkverplichting exploitant
+##### Artikel 3.3. Meewerkverplichting exploitant
 
 Een exploitant als bedoeld in artikel 4, onderdeel 24, van verordening nr. (EU) 2016/429 verleent medewerking ten behoeve van het nemen van monsters van de door hem gehouden dieren, kadavers, delen van dieren of dierlijke producten en staat deze af aan het op grond van [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&hoofdstuk=3&artikel=3.1&z=2026-01-01&g=2026-01-01) aangewezen instelling ter uitvoering van de aangewezen monitoringsprogramma’s.
 
 ### Hoofdstuk 4. Waardevaststelling bij ziektebestrijdingsmaatregelen
 
-#### Artikel 4.1. IJkmoment waardevaststelling dieren, producten en voorwerpen
+##### Artikel 4.1. IJkmoment waardevaststelling dieren, producten en voorwerpen
 
 Het moment waarop aan de houder is meegedeeld dat ten aanzien van een dier, product of voorwerp een bestrijdingsmaatregel als bedoeld in [artikel 5.4, derde lid, onderdelen h of i](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.4), of [artikel 5.5, tweede lid, onderdelen c of d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.5) wordt of is toegepast, geldt als ijkmoment voor de waardevaststelling, bedoeld in [artikel 9.8, zesde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=9.8).
 
-#### Artikel 4.2. Waardevaststelling dieren, producten en voorwerpen
+##### Artikel 4.2. Waardevaststelling dieren, producten en voorwerpen
 
 1. De waardevaststelling, bedoeld in [artikel 9.8, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=9.8) geschiedt op basis van:
 
@@ -108,7 +134,7 @@ Het moment waarop aan de houder is meegedeeld dat ten aanzien van een dier, prod
 
 3. De deskundige, bedoeld in [artikel 9.8, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=9.8), verstrekt de houder van het dier, product of voorwerp een afschrift van het formulier, bedoeld in artikel 9.8, zevende lid, van de wet.
 
-#### Artikel 4.3. Waarden dieren, producten en voorwerpen
+##### Artikel 4.3. Waarden dieren, producten en voorwerpen
 
 1. De waarde van een verdacht dier en de marktwaarde van een product, bedoeld in [artikel 9.8, eerste lid, onderdelen a en c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=9.8), zijn het bedrag dat de eigenaar onder normale omstandigheden voor dat dier of product had kunnen ontvangen op de markt, al naar gelang de conditie, de kwaliteit, het gewicht, het ras of type, de leeftijd of ouderdom.
 
@@ -120,7 +146,7 @@ Het moment waarop aan de houder is meegedeeld dat ten aanzien van een dier, prod
 
 5. De waarde van een dood dier, bedoeld in [artikel 9.8, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=9.8), is nihil.
 
-#### Artikel 4.4. Maximale tegemoetkoming voor dieren
+##### Artikel 4.4. Maximale tegemoetkoming voor dieren
 
 1.
 
@@ -128,7 +154,7 @@ De tegemoetkoming in de schade bedraagt voor alle dieren ten hoogste tienduizend
 
 2. In afwijking van het eerste lid bedraagt de tegemoetkoming in de schade voor pluimvee als bedoeld in artikel 4, onderdeel 9, van [verordening (EU) nr. 2016/429](32016R0429), honderd euro per dier.
 
-#### Artikel 4.5. Herwaardering
+##### Artikel 4.5. Herwaardering
 
 1. Een houder die zich niet met het advies van de deskundige, bedoeld in [artikel 9.8, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=9.8), kan verenigen, kan Onze Minister gemotiveerd verzoeken om een herwaardering.
 
@@ -140,7 +166,7 @@ De tegemoetkoming in de schade bedraagt voor alle dieren ten hoogste tienduizend
 
 5. De drie deskundigen verstrekken de houder van het dier, product of voorwerp afschriften van de formulieren, bedoeld in [artikel 9.8, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=9.8).
 
-#### Artikel 4.6. Vakbekwaamheidseisen deskundige
+##### Artikel 4.6. Vakbekwaamheidseisen deskundige
 
 1. Een deskundige heeft in ieder geval theoretische kennis over:
 
@@ -168,7 +194,7 @@ De tegemoetkoming in de schade bedraagt voor alle dieren ten hoogste tienduizend
 
 - e. mondeling, schriftelijk of digitaal rapporteren in de Nederlandse taal over uitgevoerde en uit te voeren werkzaamheden.
 
-#### Artikel 4.7. Onpartijdigheid deskundige
+##### Artikel 4.7. Onpartijdigheid deskundige
 
 Een deskundige adviseert onpartijdig en naar beste weten over de waardevaststelling.
 
@@ -176,33 +202,33 @@ Een deskundige adviseert onpartijdig en naar beste weten over de waardevaststell
 
 ### Hoofdstuk 6. Wijziging andere besluiten
 
-#### Artikel 6.1. Wijziging [Besluit dierlijke producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032335)
+##### Artikel 6.1. Wijziging [Besluit dierlijke producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032335)
 
 Wijzigt het Besluit dierlijke producten.
 
-#### Artikel 6.2. Wijziging [Besluit handhaving en overige zaken Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0032334)
+##### Artikel 6.2. Wijziging [Besluit handhaving en overige zaken Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0032334)
 
 Wijzigt het Besluit handhaving en overige zaken Wet dieren.
 
-#### Artikel 6.3. Wijziging [Besluit diergeneesmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0032386)
+##### Artikel 6.3. Wijziging [Besluit diergeneesmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0032386)
 
 Wijzigt het Besluit diergeneesmiddelen.
 
-#### Artikel 6.4. Wijziging [Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217)
+##### Artikel 6.4. Wijziging [Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217)
 
 Wijzigt het Besluit houders van dieren.
 
-#### Artikel 6.5. Wijziging [Besluit diergezondheidsheffing](https://wetten.overheid.nl/jci1.3:c:BWBR0040317)
+##### Artikel 6.5. Wijziging [Besluit diergezondheidsheffing](https://wetten.overheid.nl/jci1.3:c:BWBR0040317)
 
 Wijzigt het Besluit diergezondheidsheffing.
 
 ### Hoofdstuk 7. Slotbepalingen
 
-#### Artikel 7.1. Overgangsrecht
+##### Artikel 7.1. Overgangsrecht
 
 Besluiten die op grond van artikel 13 van uitvoeringsverordening (EU) 2015/262 van de Commissie van 17 februari 2015 tot vaststelling van voorschriften overeenkomstig de [Richtlijnen 90/427/EEG](31990L0427) en [2009/156/EG](32009L0156) van de Raad met betrekking tot de methoden voor de identificatie van paardachtigen (verordening paardenpaspoort) (Pb EU 2015, L 59) zijn genomen, worden geacht te zijn genomen op grond van artikel 60 van verordening (EU) [2019/2035](32019L2035) onder dezelfde voorschriften, beperkingen en voorwaarden.
 
-#### Artikel 7.2. Intrekken besluiten
+##### Artikel 7.2. Intrekken besluiten
 
 De volgende besluiten worden ingetrokken:
 
@@ -230,15 +256,15 @@ De volgende besluiten worden ingetrokken:
 
 - l. het [Embryobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006426).
 
-#### Artikel 7.3. Vervallen van [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&hoofdstuk=2&artikel=2.3&z=2026-01-01&g=2026-01-01)
+##### Artikel 7.3. Vervallen van [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&hoofdstuk=2&artikel=2.3&z=2026-01-01&g=2026-01-01)
 
 Wijzigt dit besluit.
 
-#### Artikel 7.4. Besluit identificatie en registratie van dieren
+##### Artikel 7.4. Besluit identificatie en registratie van dieren
 
 Wijzigt het Besluit identificatie en registratie van dieren.
 
-#### Artikel 7.5. Inwerkingtreding
+##### Artikel 7.5. Inwerkingtreding
 
 1. Dit besluit treedt in werking met ingang van 21 april 2021, met uitzondering van [artikel 6.4, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&hoofdstuk=6&artikel=6.4&z=2026-01-01&g=2026-01-01), ten aanzien van de [artikelen 1.29](onbekend), [1.30](onbekend) en [1.31 van het Besluit houders van dieren](onbekend), en van [artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&hoofdstuk=6&artikel=6.5&z=2026-01-01&g=2026-01-01).
 
@@ -246,7 +272,7 @@ Wijzigt het Besluit identificatie en registratie van dieren.
 
 3. [Artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&hoofdstuk=6&artikel=6.5&z=2026-01-01&g=2026-01-01) treedt in werking op het tijdstip dat artikel I, onderdeel A, onderdeel 3, van het besluit van 15 oktober 2020 tot wijziging van het Besluit diergezondheidsheffing in verband met de vaststelling van de tarieven voor 2021 (Stb. 399) in werking treedt.
 
-#### Artikel 7.6. Citeertitel
+##### Artikel 7.6. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit diergezondheid.
 
@@ -254,7 +280,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 5.1. Begripsbepaling en grondslag
+##### Artikel 5.1. Begripsbepaling en grondslag
 
 In dit hoofdstuk wordt verstaan onder:
 
@@ -296,7 +322,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 - **zeug:** varken van het vrouwelijk geslacht na de worp van haar eerste biggen.
 
-#### Artikel 5.2. Ondergrens heffingsplicht
+##### Artikel 5.2. Ondergrens heffingsplicht
 
 De aan te wijzen diersoorten en het voor die diersoorten te bepalen aantal, bedoeld in:
 
@@ -322,13 +348,13 @@ De aan te wijzen diersoorten en het voor die diersoorten te bepalen aantal, bedo
 
 - 2. 25 geiten.
 
-#### Artikel 5.3. Aantal gehouden dieren
+##### Artikel 5.3. Aantal gehouden dieren
 
 1. Het aantal in een kalenderjaar gehouden varkens wordt bepaald op basis van het aantal dieren dat in het kalenderjaar uit de stal is afgevoerd.
 
 2. Het aantal in een kalenderjaar gehouden runderen, jonger dan een jaar, wordt bepaald op basis van het aantal dieren dat in het kalenderjaar uit de stal is afgevoerd om te worden geëxporteerd of om te worden vervoerd naar een slachthuis, al dan niet via een verzamelcentrum.
 
-#### Artikel 5.4. Plafondbedragen
+##### Artikel 5.4. Plafondbedragen
 
 De tarieven voor de diergezondheidsheffing worden voor de jaren 2025 tot en met 2029 zodanig vastgesteld dat de totale opbrengst in die periode niet meer bedraagt dan:
 
@@ -342,7 +368,7 @@ De tarieven voor de diergezondheidsheffing worden voor de jaren 2025 tot en met 
 
 - e. voor schapen: € 8.900.000.
 
-#### Artikel 5.5. Crisisreserve
+##### Artikel 5.5. Crisisreserve
 
 De omvang van de in [artikel 9.23, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=9.23) bedoelde reserve bedraagt:
 
@@ -358,7 +384,7 @@ De omvang van de in [artikel 9.23, derde lid, van de wet](https://wetten.overhei
 
 #### § 2. Tarieven diergezondheidsheffing
 
-#### Artikel 5.6. Kippen vleesras
+##### Artikel 5.6. Kippen vleesras
 
 1. Het tarief voor de diergezondheidsheffing ter zake van het houden van kippen die behoren tot een vleesras bedraagt:
 
@@ -384,7 +410,7 @@ De omvang van de in [artikel 9.23, derde lid, van de wet](https://wetten.overhei
 
 - b. nihil per broedei voor gebruikspluimvee.
 
-#### Artikel 5.7. Kippen legras
+##### Artikel 5.7. Kippen legras
 
 1. Het tarief voor de diergezondheidsheffing ter zake van het houden van kippen die behoren tot een legras bedraagt:
 
@@ -420,7 +446,7 @@ De omvang van de in [artikel 9.23, derde lid, van de wet](https://wetten.overhei
 
 5. Het tarief voor de diergezondheidsheffing ter zake van het houden van leghanen bedraagt € 0,023217 per leghaan.
 
-#### Artikel 5.8. Kalkoenen
+##### Artikel 5.8. Kalkoenen
 
 1. Het tarief voor de diergezondheidsheffing ter zake van het houden van vleeskalkoenen bedraagt:
 
@@ -430,25 +456,25 @@ De omvang van de in [artikel 9.23, derde lid, van de wet](https://wetten.overhei
 
 2. Het tarief voor de diergezondheidsheffing voor de inleg van broedeieren, afkomstig van kalkoenen, bedraagt nihil per broedei.
 
-#### Artikel 5.9. Eenden
+##### Artikel 5.9. Eenden
 
 1. Het tarief voor de diergezondheidsheffing ter zake van het houden van eenden bedraagt € 0,020061 per eend.
 
 2. Het tarief voor de diergezondheidsheffing voor de inleg van broedeieren, afkomstig van eenden, bedraagt nihil per broedei.
 
-#### Artikel 5.10. Runderen
+##### Artikel 5.10. Runderen
 
 1. Het tarief voor de diergezondheidsheffing ter zake van het houden van runderen van 1 jaar of ouder bedraagt € 5,075 per rund.
 
 2. Het tarief voor de diergezondheidsheffing ter zake van het houden van runderen, jonger dan 1 jaar, bedraagt € 0,607 per rund.
 
-#### Artikel 5.11. Schapen en geiten
+##### Artikel 5.11. Schapen en geiten
 
 1. Het tarief voor de diergezondheidsheffing ter zake van het houden van schapen bedraagt € 1,231 per schaap.
 
 2. Het tarief voor de diergezondheidsheffing ter zake van het houden van geiten bedraagt € 1,918 per geit.
 
-#### Artikel 5.12. Varkens
+##### Artikel 5.12. Varkens
 
 1. Het tarief voor de diergezondheidsheffing ter zake van het houden van varkens op een A-bedrijf bedraagt:
 

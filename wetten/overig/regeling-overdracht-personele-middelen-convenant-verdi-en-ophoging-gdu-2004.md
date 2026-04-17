@@ -1,13 +1,38 @@
 ---
-title: "Regeling overdracht personele middelen convenant VERDI en ophoging GDU 2004"
+title: "Regeling van de Minister van Verkeer en Waterstaat, houdende beleidsregels ten aanzien van het verlenen van subsidies aan samenwerkingsgebieden ten behoeve van de kosten gemoeid met de uitvoering van het convenant VERDI voor het jaar 2004 en ten behoeve van de aanloopkosten van het verhogen van de drempel van de gebundelde doeluitkering voor infrastructuurprojecten alsmede verlening van eenmalige specifieke uitkeringen aan de provincies ten behoeve van de aanloopkosten van het verhogen van de drempel van de gebundelde doeluitkering voor infrastructuurprojecten (Regeling overdracht personele middelen convenant VERDI en ophoging GDU 2004)"
 identifier: "BWBR0017153"
-categorie: "Overig"
-publicatiedatum: 2004-09-10
-laatste_update: 2004-09-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0017153"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2004-09-10"
+last_updated: "2004-09-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0017153"
+soort: "ministeriele-regeling"
+stam_id: "6087903"
+version_id: "10748972"
+internal_id: "C14587351"
+label_id: "6077194"
+original_entry_into_force: "2004-09-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0017153/2004-09-10/0"
+intitule_bron: "Stcrt.2004-172"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-08-31"
+intitule_published: "2004-09-08"
+intitule_in_force: "2004-09-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2004-172"
+original_signed_date: "2004-08-31"
+original_published_date: "2004-09-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2004-172-p11-SC66418"
+entry_into_force_date: "2004-09-10"
+jci_1_3: "jci1.3:c:BWBR0017153&z=2004-09-10&g=2004-09-10"
+jci_1_0: "1.0:c:BWBR0017153&g=2004-09-10"
+citeertitel_status: "redactioneel"
+short_title: "Regeling overdracht personele middelen convenant VERDI en ophoging GDU 2004"
+signed_date: "2004-08-31"
+entry_into_force: "2004-09-10"
 ---
-
 # Regeling van de Minister van Verkeer en Waterstaat, houdende beleidsregels ten aanzien van het verlenen van subsidies aan samenwerkingsgebieden ten behoeve van de kosten gemoeid met de uitvoering van het convenant VERDI voor het jaar 2004 en ten behoeve van de aanloopkosten van het verhogen van de drempel van de gebundelde doeluitkering voor infrastructuurprojecten alsmede verlening van eenmalige specifieke uitkeringen aan de provincies ten behoeve van de aanloopkosten van het verhogen van de drempel van de gebundelde doeluitkering voor infrastructuurprojecten (Regeling overdracht personele middelen convenant VERDI en ophoging GDU 2004)
 
 Gelet op [artikel 17, vijfde lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17);
@@ -16,7 +41,7 @@ Besluit:
 
 #### § 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -30,11 +55,11 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Subsidie ten behoeve van de samenwerkingsgebieden
 
-#### Artikel 2
+##### Artikel 2
 
 De minister verleent voor het jaar 2004 aan de samenwerkingsgebieden een subsidie in het kader van de ontwikkeling van regionaal verkeer- en vervoerbeleid ten behoeve van de personeelskosten die verbonden zijn aan de overdracht van fte’s in het kader van het convenant VERDI en ten behoeve van de aanloopkosten van de ophoging van de drempel van de gebundelde doeluitkering voor infrastructuurprojecten.
 
-#### Artikel 3
+##### Artikel 3
 
 De subsidie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017153&paragraaf=2&artikel=2&z=2004-09-10&g=2004-09-10), bedraagt voor het samenwerkingsgebied:
 
@@ -52,11 +77,11 @@ De subsidie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017
 
 - g. Samenwerkingsverband Regio Eindhoven: € 512.896.
 
-#### Artikel 4
+##### Artikel 4
 
 De minister verleent bij de beschikking tot subsidieverlening een voorschot ter grootte van het bedrag, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017153&paragraaf=2&artikel=3&z=2004-09-10&g=2004-09-10). De minister kan bij de subsidieverlening bepalen dat de subsidie tussentijds wordt aangepast aan de ontwikkelingen van het loon- en prijspeil.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De subsidie-ontvangers, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017153&paragraaf=2&artikel=3&z=2004-09-10&g=2004-09-10), leggen vóór 15 september 2005 aan de minister rekening en verantwoording af omtrent de aan de activiteiten verbonden kosten en opbrengsten.
 
@@ -68,11 +93,11 @@ De minister verleent bij de beschikking tot subsidieverlening een voorschot ter 
 
 3. De accountant, bedoeld in het tweede lid, onderdeel b, hanteert bij de controle van de besteding van de subsidie het in de bijlage opgenomen controleprotocol. Het financiële eindverslag en de goedkeurende accountantsverklaring, bedoeld in het tweede lid, onderdeel b, worden opgesteld overeenkomstig de in de bijlage opgenomen modellen.
 
-#### Artikel 6
+##### Artikel 6
 
 De minister stelt de subsidie ambtshalve vast binnen zes weken nadat de subsidie-ontvanger de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017153&paragraaf=2&artikel=5&z=2004-09-10&g=2004-09-10) bedoelde rekening en verantwoording heeft afgelegd.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De subsidie-ontvanger vormt een egalisatiereserve als bedoeld in [artikel 4:72 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:72).
 
@@ -80,11 +105,11 @@ De minister stelt de subsidie ambtshalve vast binnen zes weken nadat de subsidie
 
 #### § 3. Eenmalige specifieke uitkering ten behoeve van de provincies
 
-#### Artikel 8
+##### Artikel 8
 
 De minister verleent aan de provincies een eenmalige specifieke uitkering ten behoeve van de aanloopkosten van de ophoging van de drempel van de gebundelde doeluitkering voor infrastructuurprojecten.
 
-#### Artikel 9
+##### Artikel 9
 
 De uitkering, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0017153&paragraaf=3&artikel=8&z=2004-09-10&g=2004-09-10), bedraagt voor de provincie:
 
@@ -112,15 +137,15 @@ De uitkering, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR001
 
 - l. Zeeland: € 65.000.
 
-#### Artikel 10
+##### Artikel 10
 
 De minister verleent bij de beschikking tot verlening van de uitkering een voorschot ter grootte van het bedrag, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0017153&paragraaf=3&artikel=9&z=2004-09-10&g=2004-09-10). De minister kan bij de verlening van de uitkering bepalen dat de uitkering tussentijds wordt aangepast aan de ontwikkelingen van het loon- en prijspeil.
 
-#### Artikel 11
+##### Artikel 11
 
 Ten aanzien van de uitkeringen aan de provincies zijn de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0017153&paragraaf=2&artikel=5&z=2004-09-10&g=2004-09-10) van deze regeling van overeenkomstige toepassing, met dien verstande dat de provincies de in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017153&paragraaf=2&artikel=5&z=2004-09-10&g=2004-09-10), en de in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017153&paragraaf=2&artikel=7&z=2004-09-10&g=2004-09-10), bedoelde rekening en verantwoording vóór 15 november 2005 onderscheidenlijk vóór 15 november 2006 afleggen.
 
-#### Artikel 12
+##### Artikel 12
 
 Ten aanzien van de uitkeringen aan de provincies zijn de volgende artikelen van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) van overeenkomstige toepassing:
 
@@ -130,11 +155,11 @@ Ten aanzien van de uitkeringen aan de provincies zijn de volgende artikelen van 
 
 - c. de [artikelen 4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49), [4:52](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:52), [4:55](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:55) en [4:57](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57).
 
-#### Artikel 13
+##### Artikel 13
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 14
+##### Artikel 14
 
 Deze regeling wordt aangehaald als: Regeling overdracht personele middelen convenant VERDI en ophoging GDU 2004.
 

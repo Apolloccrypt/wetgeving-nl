@@ -1,38 +1,64 @@
 ---
-title: "Beleidsregel boeteoplegging Arbeidstijdenwet en Arbeidstijdenbesluit vervoer (binnenvaart)"
+title: "Beleidsregel van de minister van Infrastructuur en Milieu en de minister van Sociale Zaken en Werkgelegenheid van 16 augustus 2013, nr. ILT-2013/22979.01 betreffende boeteoplegging Arbeidstijdenwet en Arbeidstijdenbesluit vervoer (binnenvaart)"
 identifier: "BWBR0034083"
-categorie: "Strafrecht"
-publicatiedatum: 2020-10-28
-laatste_update: 2020-10-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034083"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2020-10-28"
+last_updated: "2020-10-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034083"
+soort: "beleidsregel"
+stam_id: "12408943"
+version_id: "20832332"
+internal_id: "C29914451"
+label_id: "12379864"
+dtd_version: "2.0"
+original_entry_into_force: "2013-10-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034083/2020-10-28/0"
+intitule_bron: "Stcrt.2013-30042"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-08-16"
+intitule_published: "2013-10-29"
+intitule_in_force: "2013-10-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-30042"
+original_signed_date: "2013-08-16"
+original_published_date: "2013-10-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-30042"
+entry_into_force_date: "2013-10-30"
+jci_1_3: "jci1.3:c:BWBR0034083&z=2020-10-28&g=2020-10-28"
+jci_1_0: "1.0:c:BWBR0034083&g=2020-10-28"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel boeteoplegging Arbeidstijdenwet en Arbeidstijdenbesluit vervoer (binnenvaart)"
+signed_date: "2013-08-16"
+entry_into_force: "2013-10-30"
 ---
-
 # Beleidsregel van de minister van Infrastructuur en Milieu en de minister van Sociale Zaken en Werkgelegenheid van 16 augustus 2013, nr. ILT-2013/22979.01 betreffende boeteoplegging Arbeidstijdenwet en Arbeidstijdenbesluit vervoer (binnenvaart)
 
 Gelet op [artikel 10:7, zesde lid van de Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=10:7);
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 Deze beleidsregel is van toepassing op alle overtredingen die als zodanig bij of krachtens de [Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671) zijn aangemerkt en die betrekking hebben op arbeid verricht door personen op binnenschepen bedoeld in [artikel 5:12, tweede lid, onderdeel b, van de Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:12).
 
-#### Artikel 2
+##### Artikel 2
 
 Bij de berekening van een bestuurlijke boete als bedoeld in [artikel 10:5 van de Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=10:5) worden voor alle overtredingen de normbedragen gehanteerd die gelden voor de onderscheiden onderwerpen in de Tarieflijst normbedragen bestuurlijke boete binnenvaart die als bijlage bij deze beleidsregel is gevoegd.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De totale bij een boetebeschikking op te leggen bestuurlijke boete bestaat, in geval er sprake is van meerdere overtredingen, uit de som van de per overtreding berekende boetebedragen.
 
 2. De bestuurlijke boete die per boetebeschikking kan worden opgelegd bedraagt minimaal € 50,–.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel boeteoplegging Arbeidstijdenwet en Arbeidstijdenbesluit vervoer (binnenvaart).
 

@@ -1,13 +1,39 @@
 ---
-title: "Besluit opheffen beperkingen openbaarheid archief Kabinet der Koningin 1898–1945"
+title: "Besluit houdende het opheffen van de beperkingen, gesteld aan de openbaarheid van het archief van het Kabinet der Koningin 1898–1945"
 identifier: "BWBR0037477"
-categorie: "Overig"
-publicatiedatum: 2016-01-01
-laatste_update: 2016-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037477"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2016-01-01"
+last_updated: "2016-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037477"
+soort: "ministeriele-regeling"
+stam_id: "13375193"
+version_id: "22938252"
+internal_id: "C33165721"
+label_id: "13342864"
+dtd_version: "2.0"
+original_entry_into_force: "2016-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037477/2016-01-01/0"
+intitule_bron: "Stcrt.2015-44910"
+intitule_effect: "wijziging"
+intitule_signed: "2015-12-02"
+intitule_published: "2015-12-30"
+intitule_in_force: "2015-12-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-44910"
+original_signed_date: "2015-12-02"
+original_published_date: "2015-12-30"
+original_effect: "wijziging"
+original_url_id: "stcrt-2015-44910"
+entry_into_force_date: "2016-01-01"
+jci_1_3: "jci1.3:c:BWBR0037477&z=2016-01-01&g=2016-01-01"
+jci_1_0: "1.0:c:BWBR0037477&g=2016-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Besluit opheffen beperkingen openbaarheid archief Kabinet der Koningin 1898–1945"
+signed_date: "2015-12-02"
+entry_into_force: "2016-01-01"
 ---
-
 # Besluit houdende het opheffen van de beperkingen, gesteld aan de openbaarheid van het archief van het Kabinet der Koningin 1898–1945
 
 Gelet op [artikel 15, derde lid Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15);

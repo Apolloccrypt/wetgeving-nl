@@ -1,28 +1,53 @@
 ---
-title: "Regeling formulieren voor verklaring arts/verloskundige bij aangifte geboorte"
+title: "Regeling betreffende de formulieren bestemd voor het opmaken van de in verband met de aangifte van de geboorte over te leggen verklaring van een arts of een verloskundige en de daarbij behorende enveloppe"
 identifier: "BWBR0007014"
-categorie: "Overig"
-publicatiedatum: 2020-01-01
-laatste_update: 2020-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007014"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-01-01"
+last_updated: "2020-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007014"
+soort: "ministeriele-regeling"
+stam_id: "3569713"
+version_id: "5352812"
+internal_id: "C5545901"
+label_id: "3549694"
+dtd_version: "2.0"
+original_entry_into_force: "1995-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007014/2020-01-01/0"
+intitule_bron: "Stcrt.1994-223"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-11-14"
+intitule_published: "1994-11-18"
+intitule_in_force: "1994-11-18"
+intitule_status: "goed"
+original_publication: "Stcrt.1994-223"
+original_signed_date: "1994-11-14"
+original_published_date: "1994-11-18"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1995-01-01"
+jci_1_3: "jci1.3:c:BWBR0007014&z=2020-01-01&g=2020-01-01"
+jci_1_0: "1.0:c:BWBR0007014&g=2020-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Regeling formulieren voor verklaring arts/verloskundige bij aangifte geboorte"
+signed_date: "1994-11-14"
+entry_into_force: "1995-01-01"
 ---
-
 # Regeling betreffende de formulieren bestemd voor het opmaken van de in verband met de aangifte van de geboorte over te leggen verklaring van een arts of een verloskundige en de daarbij behorende enveloppe
 
 Gelet op [artikel 27, derde lid, van het Besluit burgerlijke stand 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006493&artikel=27);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De verklaring van een arts of een verloskundige, bedoeld in [artikel 19e, elfde lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=19), wordt opgemaakt door invulling van een formulier ingericht overeenkomstig het als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007014&bijlage=1&z=2020-01-01&g=2020-01-01) aangehechte model (formaat A4, 297 × 210 mm). Het formulier wordt vervaardigd als doordrukformulier met twee kopieën, waarvan de ene door de arts of de verloskundige kan worden gehouden en de andere aan de moeder of de aangever kan worden uitgereikt.
 
-#### Artikel 2
+##### Artikel 2
 
 De in artikel 27, tweede lid, van het Besluit burgerlijke stand bedoelde enveloppe is ingericht overeenkomstig het als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007014&bijlage=2&z=2020-01-01&g=2020-01-01) aangehechte model (formaat A5, 162 × 229 mm).
 
-#### Artikel 3
+##### Artikel 3
 
 Indien de Wet van 14 oktober 1993 tot herziening van Titel 4 van Boek 1 van het Burgerlijk Wetboek en wijziging van enige andere bepalingen van Boek 1 van dat wetboek, het Wetboek van Burgerlijke Rechtsvordering en het Wetboek van Strafvordering in werking treedt, treedt deze regeling op dezelfde datum in werking.
 

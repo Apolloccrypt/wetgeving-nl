@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie (EURATOM)"
 identifier: "BWBV0004033"
-categorie: "Internationaal recht"
-publicatiedatum: 2013-07-01
-laatste_update: 2013-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004033"
+country: "nl"
+rank: "verdrag"
+publication_date: "2013-07-01"
+last_updated: "2013-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004033"
+soort: "verdrag"
+stam_id: "10003834633"
+version_id: "10003906872"
+internal_id: "C10006990701"
+label_id: "10003822134"
+dtd_version: "2.0"
+original_entry_into_force: "1958-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004033/2013-07-01/0"
+intitule_bron: "Trb.1957-92"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1957-07-12"
+intitule_in_force: "1957-12-27"
+intitule_status: "goed"
+original_publication: "Trb.1957-92"
+original_published_date: "1957-07-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1957-92"
+entry_into_force_date: "1958-01-01"
+jci_1_3: "jci1.3:c:BWBV0004033&z=2013-07-01&g=2013-07-01"
+jci_1_0: "1.0:c:BWBV0004033&g=2013-07-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1958-01-01"
 ---
-
 # Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie (EURATOM)
 
 Zijne Majesteit de Koning der Belgen, de President van de Bondsrepubliek Duitsland, de President van de Franse Republiek, de President van de Italiaanse Republiek, Hare Koninklijke Hoogheid de Groothertogin van Luxemburg, Hare Majesteit de Koningin der Nederlanden,
@@ -64,13 +86,13 @@ Die, na overlegging van hun in goede en behoorlijke vorm bevonden volmachten, om
 
 ## TITEL EERSTE. TAKEN VAN DE GEMEENSCHAP
 
-#### Artikel 1
+##### Artikel 1
 
 De Hoge Verdragsluitende Partijen richten bij dit Verdrag tezamen een Europese Gemeenschap voor Atoomenergie (Euratom) op.
 
 De Gemeenschap heeft tot taak, door het scheppen van de voorwaarden noodzakelijk voor de snelle totstandkoming en groei van de industrie op het gebied van de kernenergie, bij te dragen tot de verhoging van de levensstandaard in de Lid-Staten en de ontwikkeling van de betrekkingen met andere landen.
 
-#### Artikel 2
+##### Artikel 2
 
 Voor de vervulling van haar taak moet de Gemeenschap onder de in dit Verdrag bepaalde voorwaarden:
 
@@ -90,7 +112,7 @@ Voor de vervulling van haar taak moet de Gemeenschap onder de in dit Verdrag bep
 
 - h). met andere landen en met internationale organisaties alle betrekkingen tot stand brengen, welke de vooruitgang in het vreedzame gebruik van de kernenergie kunnen bevorderen.
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
@@ -98,7 +120,7 @@ Vervallen
 
 ### HOOFDSTUK I. Ontwikkeling van het onderzoek
 
-#### Artikel 4
+##### Artikel 4
 
 1. De Commissie is er mede belast het onderzoek op het gebied van de kernenergie in de Lid-Staten te bevorderen en te vergemakkelijken en het aan te vullen door het ten uitvoer brengen van het onderzoek- en onderwijsprogramma van de Gemeenschap.
 
@@ -106,7 +128,7 @@ Vervallen
 
 Deze lijst kan door de Raad met gekwalificeerde meerderheid van stemmen worden gewijzigd op voorstel van de Commissie, die het in artikel 134 genoemde Wetenschappelijk en Technisch Comité raadpleegt.
 
-#### Artikel 5
+##### Artikel 5
 
 Ten einde de coördinatie van de in de Lid-Staten ondernomen onderzoekingen te bevorderen en om deze te kunnen aanvullen, nodigt de Commissie, hetzij door een aan een bepaalde geadresseerde gericht speciaal verzoek dat ter kennis wordt gebracht van de Lid-Staat waaronder de geadresseerde ressorteert, hetzij door een openbaargemaakt algemeen verzoek, de Lid-Staten, personen of ondernemingen uit, haar hun programma’s met betrekking tot de onderzoekingen die zij in haar verzoek omschrijft, mede te delen.
 
@@ -118,7 +140,7 @@ De Commissie publiceert op gezette tijden een lijst van de sectoren van het onde
 
 Ten einde te geraken tot wederzijds overleg en tot uitwisseling van inlichtingen kan de Commissie de vertegenwoordigers van de openbare en particuliere onderzoekcentra bijeenroepen, alsmede alle deskundigen die onderzoek verrichten op dezelfde of aanverwante gebieden.
 
-#### Artikel 6
+##### Artikel 6
 
 Ter bevordering van de uitvoering van de haar medegedeelde onderzoekprogramma’s kan de Commissie:
 
@@ -130,7 +152,7 @@ Ter bevordering van de uitvoering van de haar medegedeelde onderzoekprogramma’
 
 - d). een gemeenschappelijke financiering door de betrokken Lid-Staten, personen of ondernemingen bewerkstelligen.
 
-#### Artikel 7
+##### Artikel 7
 
 Met eenparigheid van stemmen stelt de Raad, op voorstel van de Commissie, welke het Wetenschappelijk en Technisch Comité raadpleegt, de onderzoek- en onderwijsprogramma’s van de Gemeenschap vast.
 
@@ -142,7 +164,7 @@ De Commissie zorgt voor de uitvoering van de programma’s en legt daaromtrent i
 
 De Commissie houdt het Economisch en Sociaal Comité op de hoogte van de grote lijnen van de onderzoek- en onderwijsprogramma’s van de Gemeenschap.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Na raadpleging van het Wetenschappelijk en Technisch Comité richt de Commissie een Gemeenschappelijk Centrum voor Onderzoek op het Gebied van de Kernenergie op.
 
@@ -154,7 +176,7 @@ Het richt een centraal bureau op voor metingen op het gebied van de kernenergie.
 
 2. De werkzaamheden van het Centrum kunnen om geografische of organisatorische redenen in afzonderlijke inrichtingen worden verricht.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Na advies van het Economisch en Sociaal Comité te hebben ingewonnen, kan de Commissie, in het kader van het Gemeenschappelijk Centrum voor Onderzoek op het Gebied van de Kernenergie, scholen stichten voor de opleiding van specialisten, met name op het gebied van de opsporing van delfstoffen, de produktie van kernmateriaal van grote zuiverheid, de behandeling van bestraalde splijtstoffen, de techniek van de kernenergie, de bescherming van de gezondheid, de vervaardiging en het gebruik van radioactieve isotopen.
 
@@ -162,11 +184,11 @@ De Commissie regelt de wijze waarop het onderwijs wordt ingericht.
 
 2. Een instelling op universitair niveau wordt opgericht, waarvan de werkwijze door de Raad met gekwalificeerde meerderheid van stemmen, op voorstel van de Commissie, zal worden bepaald.
 
-#### Artikel 10
+##### Artikel 10
 
 De Commissie kan bij contract de uitvoering van bepaalde delen van het onderzoekprogramma van de Gemeenschap toevertrouwen aan Lid-Staten, personen of ondernemingen, alsmede aan derde Staten, aan internationale organisaties of aan onderdanen van derde Staten.
 
-#### Artikel 11
+##### Artikel 11
 
 De Commissie publiceert de in de artikelen 7, 8 en 10 bedoelde onderzoekprogramma’s, alsmede periodieke verslagen over de stand van de uitvoering daarvan.
 
@@ -174,7 +196,7 @@ De Commissie publiceert de in de artikelen 7, 8 en 10 bedoelde onderzoekprogramm
 
 ### Afdeling I. - Kennis waarover de Gemeenschap beschikt
 
-#### Artikel 12
+##### Artikel 12
 
 De Lid-Staten, personen en ondernemingen hebben op hun tot de Commissie gericht verzoek het recht, niet-uitsluitende licenties op octrooien, voorlopig bescherminggevende rechten, gebruiksmodellen of octrooi-aanvragen, die eigendom der Gemeenschap zijn, te verkrijgen, voor zover zij in staat zijn de desbetreffende uitvindingen daadwerkelijk te exploiteren.
 
@@ -184,7 +206,7 @@ Op voorwaarden, welke in onderlinge overeenstemming met de gegadigden worden vas
 
 Bij gebreke van overeenstemming over de vaststelling van de in de derde alinea bedoelde voorwaarden, kunnen de gegadigden zich wenden tot het Hof van Justitie van de Europese Unie, ten einde passende voorwaarden te doen vaststellen.
 
-#### Artikel 13
+##### Artikel 13
 
 De Commissie moet aan de Lid-Staten, personen en ondernemingen mededeling doen van door de Gemeenschap verkregen kennis, welke niet onder de bepalingen van artikel 12 valt, onverschillig of deze voortvloeit uit de uitvoering van haar onderzoekprogramma dan wel aan haar is medegedeeld met de bevoegdheid er vrijelijk over te beschikken.
 
@@ -196,11 +218,11 @@ De Commissie kan kennis welke zij heeft verkregen onder beperkende voorwaarden t
 
 #### a). Verspreiding langs minnelijke weg
 
-#### Artikel 14
+##### Artikel 14
 
 De Commissie beijvert zich langs minnelijke weg mededeling te verkrijgen of te doen verkrijgen van kennis, die van nut is voor het bereiken der doelstellingen van de Gemeenschap, en verlening van tot exploitatie strekkende licenties op octrooien, voorlopig bescherminggevende rechten, gebruiksmodellen of octrooi-aanvragen, die deze kennis tot onderwerp hebben.
 
-#### Artikel 15
+##### Artikel 15
 
 De Commissie stelt een procedure vast, volgens welke de Lid-Staten, personen en ondernemingen, door haar bemiddeling, de voorlopige of uiteindelijke resultaten van hun onderzoekingen kunnen uitwisselen, voor zover het niet betreft resultaten door de Gemeenschap verkregen krachtens door de Commissie verstrekte opdrachten tot onderzoek.
 
@@ -208,7 +230,7 @@ Deze procedure moet de vertrouwelijke aard van de uitwisseling waarborgen. De me
 
 #### b). Ambtshalve mededeling aan de Commissie
 
-#### Artikel 16
+##### Artikel 16
 
 1. Zodra een aanvrage om octrooi of om een gebruiksmodel waarvan het onderwerp valt binnen het specifiek kernenergetische terrein, bij een Lid-Staat wordt ingediend, vraagt deze Staat toestemming aan de aanvrager om de inhoud der aanvrage onmiddellijk aan de Commissie mede te delen.
 
@@ -234,7 +256,7 @@ Op verzoek van de Commissie wordt haar de inhoud daarvan binnen twee maanden med
 
 #### c). Licentieverlening bij wege van arbitrage of ambtshalve
 
-#### Artikel 17
+##### Artikel 17
 
 1. Bij gebreke van een minnelijke schikking kunnen niet-uitsluitende licenties worden verleend bij wege van arbitrage of ambtshalve, volgens de bepalingen van de artikelen 18 tot en met 23:
 
@@ -258,7 +280,7 @@ Zonder voorafgaand verzoek van de Commissie kunnen de Lid-Staten, om in die zelf
 
 4. De bepalingen van dit artikel doen geen afbreuk aan de bepalingen van het Unieverdrag van Parijs tot de bescherming van de industriële eigendom.
 
-#### Artikel 18
+##### Artikel 18
 
 Voor de in deze afdeling gestelde doeleinden wordt een Arbitrage-Commissie ingesteld, waarvan de leden worden benoemd en waarvan het reglement wordt vastgesteld door de Raad, op voorstel van het Hof van Justitie van de Europese Unie.
 
@@ -266,11 +288,11 @@ Binnen een maand na de kennisgeving staat tegen de beslissingen van de Arbitrage
 
 De eindbeslissingen van de Arbitrage-Commissie hebben voor de betrokken partijen kracht van gewijsde. Zij zijn uitvoerbaar onder de in artikel 164 gestelde voorwaarden.
 
-#### Artikel 19
+##### Artikel 19
 
 Wanneer, bij gebreke van een minnelijke schikking, de Commissie in een geval als bedoeld in artikel 17 verlening van licenties wenst te verkrijgen, geeft zij daarvan bericht aan de houder van het octrooi, het voorlopig bescherminggevende recht, het gebruiksmodel of de octrooi-aanvrage onder gelijktijdige vermelding van de gegadigde en de omvang van de licentie.
 
-#### Artikel 20
+##### Artikel 20
 
 De houder kan binnen een maand na ontvangst van het in artikel 19 genoemde bericht, aan de Commissie en in voorkomende gevallen aan de gegadigde derde, voorstellen een compromis te sluiten met het doel, zich tot de Arbitrage-Commissie te wenden.
 
@@ -278,7 +300,7 @@ Indien de Commissie of de gegadigde derde weigert een compromis te sluiten, kan 
 
 Indien de Arbitrage-Commissie, waaraan het geschil krachtens het compromis is voorgelegd, erkent dat het verzoek van de Commissie in overeenstemming is met de bepalingen van artikel 17, doet zij een met redenen omklede uitspraak, die verlening van de licentie aan de gegadigde medebrengt en waarbij de voorwaarden en vergoeding voor deze licentie worden vastgesteld, voor zover partijen daaromtrent niet tot overeenstemming zijn gekomen.
 
-#### Artikel 21
+##### Artikel 21
 
 Wanneer de houder niet voorstelt het geschil aan de Arbitrage-Commissie voor te leggen, kan de Commissie de betrokken Lid-Staat of zijn bevoegde instanties verzoeken de licentie te verlenen of te doen verlenen.
 
@@ -290,7 +312,7 @@ De houder moet worden gehoord in het geding voor het Hof van Justitie van de Eur
 
 Indien het arrest van het Hof van Justitie van de Europese Unie vaststelt, dat aan de in artikel 17 gestelde voorwaarden is voldaan, zijn de betrokken Lid-Staat of zijn bevoegde instanties gehouden de nodige maatregelen te nemen om dit arrest ten uitvoer te leggen.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Bij gebreke van overeenstemming over het bedrag der vergoeding tussen de houder van het octrooi, van het voorlopig bescherminggevende recht of van het gebruiksmodel en de licentiehouder, kunnen de betrokkenen een compromis sluiten met het doel zich tot de Arbitrage-Commissie te wenden.
 
@@ -300,7 +322,7 @@ Partijen zien hierdoor af van elk beroep, met uitzondering van dat bedoeld in ar
 
 Indien de houder van het octrooi, van het voorlopig bescherminggevende recht of van het gebruiksmodel weigert een compromis te sluiten, wordt de in dit artikel bedoelde vergoeding door de bevoegde nationale instanties vastgesteld.
 
-#### Artikel 23
+##### Artikel 23
 
 De beslissingen van de Arbitrage-Commissie of van de bevoegde nationale instanties kunnen, wat de licentievoorwaarden betreft, na één jaar worden herzien, voor zover nieuwe feiten dit rechtvaardigen.
 
@@ -308,7 +330,7 @@ De herziening dient te geschieden door de instantie waarvan de beslissing uitgaa
 
 ### Afdeling III. - Bepalingen betreffende de geheimhouding
 
-#### Artikel 24
+##### Artikel 24
 
 De kennis, welke de Gemeenschap dank zij de uitvoering van haar onderzoekprogramma heeft verkregen en waarvan de openbaarmaking de defensiebelangen van een of meer Lid-Staten zou kunnen schaden, wordt onderworpen aan een stelsel van geheimhouding volgens de volgende bepalingen:
 
@@ -328,7 +350,7 @@ De kennis, welke de Gemeenschap dank zij de uitvoering van haar onderzoekprogram
 
 - c). heeft elke Lid-Staat bovendien het recht, van de Commissie de verlening van een licentie overeenkomstig artikel 12 te eisen, voor zijn eigen behoeften of voor die van een persoon of onderneming, welke werkzaam zijn op het grondgebied van deze Staat.
 
-#### Artikel 25
+##### Artikel 25
 
 1. De Lid-Staat, die mededeling doet van het bestaan of van de inhoud van een aanvrage om octrooi of om gebruiksmodel betreffende een in artikel 16, lid 1 of 2 bedoeld onderwerp, geeft in voorkomend geval kennis van de noodzaak deze aanvrage om defensieredenen te onderwerpen aan het stelsel van geheimhouding, dat deze Staat aanwijst onder vermelding van de vermoedelijke duur daarvan.
 
@@ -344,7 +366,7 @@ Zij behoeven in alle gevallen de toestemming van de Staat van oorsprong. Mededel
 
 3. Op verzoek van de Commissie of van een Lid-Staat kan de Raad, te allen tijde, met eenparigheid van stemmen een ander stelsel toepassen of de geheimhouding opheffen. De Raad wint het advies van de Commissie in, alvorens zich uit te spreken over het verzoek van een Lid-Staat.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Wanneer kennis welke het onderwerp is van octrooien, octrooi-aanvragen, voorlopig bescherminggevende rechten, gebruiksmodellen of aanvragen om gebruiksmodel aan geheimhouding wordt onderworpen overeenkomstig de bepalingen van de artikelen 24 en 25, kunnen de Staten die de toepassing van dit stelsel gevraagd hebben, niet weigeren hun toestemming te geven om overeenkomstige aanvragen in de overige Lid-Staten in te dienen.
 
@@ -352,7 +374,7 @@ Elke Lid-Staat neemt de nodige maatregelen om de geheimhouding van dergelijke re
 
 2. De overeenkomstig artikel 24 aan geheimhouding onderworpen kennis kan niet dan met algemene instemming van de Lid-Staten in aanmerking komen voor indiening van aanvragen buiten die Staten. Spreken die Staten zich niet uit, dan wordt deze instemming geacht verkregen te zijn, zes maanden na de datum waarop de Commissie deze kennis medegedeeld heeft aan de Lid-Staten.
 
-#### Artikel 27
+##### Artikel 27
 
 De vergoeding van de schade welke de aanvrager heeft geleden uit hoofde van de geheimverklaring om defensieredenen, is onderworpen aan de bepalingen van de nationale wetten der Lid-Staten en komt ten laste van de Staat die de geheimverklaring gevraagd heeft, of die hetzij de verzwaring of de verlenging van de geheimhouding, hetzij het verbod van indiening van aanvragen buiten de Gemeenschap uitgelokt heeft.
 
@@ -362,13 +384,13 @@ De Gemeenschap kan uit hoofde van dit artikel geen aanspraak maken op enige verg
 
 ### Afdeling IV. - Bijzondere bepalingen
 
-#### Artikel 28
+##### Artikel 28
 
 Indien nog niet gepubliceerde aanvragen om octrooi of gebruiksmodel, of octrooien of gebruiksmodellen welke geheim gehouden worden om defensieredenen ten gevolge van een mededeling aan de Commissie onrechtmatig worden toegepast of ter kennis van een niet bevoegde derde komen, is de Gemeenschap gehouden de door de betrokkene geleden schade te vergoeden.
 
 Onverminderd haar eigen rechten tegen de veroorzaker van de schade, treedt de Gemeenschap in de rechten op verhaal van belanghebbenden tegenover derden, voor zover zij de schade heeft vergoed. Het recht van de Gemeenschap om, overeenkomstig de van kracht zijnde algemene bepalingen, op te treden tegen de veroorzaker, blijft onverlet.
 
-#### Artikel 29
+##### Artikel 29
 
 Elk akkoord of contract, dat uitwisseling van wetenschappelijke of industriële kennis op het gebied van de kernenergie ten doel heeft tussen een Lid-Staat, een persoon of een onderneming enerzijds en een derde Staat, een internationale organisatie of een onderdaan van een derde Staat anderzijds, waarvoor van één van beide zijden de ondertekening door een Staat, handelende in de uitoefening van zijn soevereiniteit, vereist is, moet door de Commissie worden gesloten.
 
@@ -376,7 +398,7 @@ De Commissie kan echter een Lid-Staat, een persoon of een onderneming machtigen,
 
 ### HOOFDSTUK III. Bescherming van de gezondheid
 
-#### Artikel 30
+##### Artikel 30
 
 Voor de bescherming van de gezondheid der bevolking en der werknemers tegen de aan ioniserende straling verbonden gevaren worden binnen de Gemeenschap basisnormen vastgesteld.
 
@@ -388,19 +410,19 @@ Onder basisnormen wordt verstaan:
 
 - c). de grondbeginselen van het medisch toezicht op de werknemers.
 
-#### Artikel 31
+##### Artikel 31
 
 De basisnormen worden voorbereid door de Commissie, na advies van een groep personen, aangewezen door het Wetenschappelijk en Technisch Comité uit wetenschappelijke deskundigen van de Lid-Staten, met name uit de deskundigen op het gebied van de volksgezondheid. De Commissie vraagt over de aldus voorbereide basisnormen het advies van het Economisch en Sociaal Comité.
 
 Na raadpleging van het Europees Parlement stelt de Raad met gekwalificeerde meerderheid van stemmen de basisnormen vast op voorstel van de Commissie, die hem de adviezen doorgeeft welke zij bij de Comités heeft ingewonnen.
 
-#### Artikel 32
+##### Artikel 32
 
 Op verzoek van de Commissie of van een Lid-Staat kunnen de basisnormen worden herzien of aangevuld volgens de in artikel 31 bepaalde procedure.
 
 De Commissie moet ieder door een Lid-Staat ingediend verzoek in behandeling nemen.
 
-#### Artikel 33
+##### Artikel 33
 
 Elke Lid-Staat vaardigt passende wettelijke en bestuursrechtelijke bepalingen uit om de vastgestelde basisnormen te doen naleven en neemt de nodige maatregelen met betrekking tot het onderwijs, de opvoeding en de beroepsopleiding.
 
@@ -410,29 +432,29 @@ Hiertoe moeten de Lid-Staten deze bepalingen, zoals zij van toepassing zijn bij 
 
 De eventuele aanbevelingen van de Commissie, die betrekking hebben op de ontwerp-bepalingen, moeten worden gedaan binnen drie maanden na de mededeling van deze ontwerpen.
 
-#### Artikel 34
+##### Artikel 34
 
 Elke Lid-Staat op wiens grondgebied bijzonder gevaarlijke proefnemingen moeten plaatsvinden, is verplicht aanvullende maatregelen te treffen voor de bescherming van de gezondheid, omtrent welke hij vooraf het advies van de Commissie inwint.
 
 De instemming van de Commissie is noodzakelijk, indien de gevolgen van deze proefnemingen zich kunnen doen gevoelen op het grondgebied van de andere Lid-Staten.
 
-#### Artikel 35
+##### Artikel 35
 
 Elke Lid-Staat richt de nodige installaties op, om een voortdurende controle uit te oefenen op de radioactiviteit van de lucht, het water en de bodem, evenals om controle uit te oefenen op de inachtneming van de basisnormen.
 
 De Commissie heeft toegang tot deze controle-installaties; zij kan de werking en de doeltreffendheid van deze installaties nagaan.
 
-#### Artikel 36
+##### Artikel 36
 
 De inlichtingen betreffende de in artikel 35 bedoelde controle worden door de bevoegde autoriteiten regelmatig aan de Commissie medegedeeld, ten einde deze op de hoogte te houden van de mate van radioactiviteit, die van invloed kan zijn op de bevolking.
 
-#### Artikel 37
+##### Artikel 37
 
 Iedere Lid-Staat is gehouden, aan de Commissie de algemene gegevens te verstrekken van elk plan voor de lozing van radioactieve afvalstoffen, in welke vorm ook, om vast te kunnen stellen of de uitvoering van dat plan een radioactieve besmetting van het water, de bodem of het luchtruim van een andere Lid-Staat tengevolge zou kunnen hebben.
 
 De Commissie brengt, na raadpleging van de in artikel 31 bedoelde groep van deskundigen, binnen zes maanden haar advies uit.
 
-#### Artikel 38
+##### Artikel 38
 
 De Commissie richt tot de Lid-Staten alle aanbevelingen over de mate van radioactiviteit van de lucht, het water en de bodem.
 
@@ -440,7 +462,7 @@ In spoedeisende gevallen stelt de Commissie een richtlijn vast, waarbij zij de b
 
 Indien die Staat binnen de gestelde termijn de richtlijn van de Commissie niet volgt, kan deze of elke betrokken Lid-Staat, in afwijking van de [artikelen 258](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=258) en [259 van het Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=259), de zaak onmiddellijk bij het Hof van Justitie van de Europese Unie aanhangig maken.
 
-#### Artikel 39
+##### Artikel 39
 
 In het kader van het Gemeenschappelijk Centrum voor Onderzoek op het Gebied van de Kernenergie richt de Commissie, zodra dit Centrum is gesticht, een afdeling op voor documentatie en studie van vraagstukken betreffende de bescherming van de volksgezondheid.
 
@@ -448,41 +470,41 @@ Deze afdeling heeft in het bijzonder de opdracht de in de artikelen 33, 36 en 37
 
 ### HOOFDSTUK IV. Investeringen
 
-#### Artikel 40
+##### Artikel 40
 
 Ten einde het initiatief van personen en ondernemingen aan te wakkeren en een gecoördineerde ontwikkeling van hun investeringen op het gebied van de kernenergie te vergemakkelijken, publiceert de Commissie op gezette tijden programma’s van indicatieve aard, die met name betrekking hebben op doeleinden van de produktie van kernenergie en op de voor hun verwezenlijking nodige investeringen van welke aard ook.
 
 Alvorens deze programma’s te publiceren, wint de Commissie het advies in van het Economisch en Sociaal Comité.
 
-#### Artikel 41
+##### Artikel 41
 
 De personen en ondernemingen, die behoren tot de takken van industrie genoemd in bijlage II van dit Verdrag, zijn gehouden aan de Commissie mededeling te doen van de investeringsprojecten voor nieuwe installaties alsmede voor vervanging of verbouwing, welke naar aard en omvang beantwoorden aan de criteria door de Raad op voorstel van de Commissie vastgesteld.
 
 De lijst der bovenbedoelde takken van industrie kan door de Raad met gekwalificeerde meerderheid van stemmen worden gewijzigd op voorstel van de Commissie, die vooraf het advies van het Economisch en Sociaal Comité inwint.
 
-#### Artikel 42
+##### Artikel 42
 
 Van de in artikel 41 bedoelde projecten moet mededeling worden gedaan aan de Commissie en, ter informatie, aan de betrokken Lid-Staat en wel uiterlijk drie maanden vóór het afsluiten van de eerste contracten met de leveranciers of drie maanden vóór de aanvang der werkzaamheden, indien deze met eigen middelen van de onderneming moeten worden verricht.
 
 De Raad kan op voorstel van de Commissie deze termijn wijzigen.
 
-#### Artikel 43
+##### Artikel 43
 
 De Commissie bespreekt met de personen of ondernemingen alle aspecten van de investeringsprojecten, welke in verband staan met de doelstellingen van dit Verdrag.
 
 De Commissie deelt haar standpunt mede aan de betrokken Lid-Staat.
 
-#### Artikel 44
+##### Artikel 44
 
 De Commissie kan, met goedvinden van de betrokken Lid-Staten, personen en ondernemingen, de investeringsprojecten, die haar zijn medegedeeld, bekendmaken.
 
 ### HOOFDSTUK V. Gemeenschappelijke Ondernemingen
 
-#### Artikel 45
+##### Artikel 45
 
 Ondernemingen welke van fundamenteel belang zijn voor de ontwikkeling van de industrie op het gebied van de kernenergie binnen de Gemeenschap, kunnen worden opgericht als Gemeenschappelijke Ondernemingen in de zin van dit Verdrag, overeenkomstig de bepalingen van de hiernavolgende artikelen.
 
-#### Artikel 46
+##### Artikel 46
 
 1. Elk project voor een Gemeenschappelijke Onderneming, dat uitgaat van de Commissie, van een Lid-Staat, of voortvloeit uit enig ander initiatief, wordt door de Commissie aan een onderzoek onderworpen.
 
@@ -506,7 +528,7 @@ Indien zij een gunstig advies uitbrengt over de noodzakelijkheid van de beoogde 
 
 Zij voegt daaraan een uitvoerig rapport toe over het gehele project.
 
-#### Artikel 47
+##### Artikel 47
 
 Wanneer de Commissie zich tot de Raad heeft gewend, kan deze haar verzoeken om de nadere inlichtingen en het aanvullend onderzoek, die hij noodzakelijk acht.
 
@@ -520,13 +542,13 @@ De Raad beslist echter met eenparigheid van stemmen over:
 
 - b). de deelneming van een derde Staat, een internationale organisatie of een onderdaan van een derde Staat aan de financiering of aan het beheer van de Gemeenschappelijke Onderneming.
 
-#### Artikel 48
+##### Artikel 48
 
 De Raad kan met eenparigheid van stemmen op voorstel van de Commissie alle of een gedeelte van de in bijlage III van dit Verdrag genoemde gunsten van toepassing verklaren op iedere Gemeenschappelijke Onderneming; de Lid -Staten zijn, ieder wat hem betreft, gehouden de toepassing daarvan te verzekeren.
 
 De Raad kan op dezelfde wijze de voorwaarden vaststellen, waaraan de toekenning van deze gunsten wordt verbonden.
 
-#### Artikel 49
+##### Artikel 49
 
 De oprichting van een Gemeenschappelijke Onderneming geschiedt ingevolge besluit van de Raad.
 
@@ -538,19 +560,19 @@ Voor zover in dit Verdrag of in haar statuten niet anders is bepaald, valt elke 
 
 Onder voorbehoud van de krachtens dit Verdrag aan het Hof van Justitie van de Europese Unie verleende bevoegdheden worden de geschillen, waarbij de Gemeenschappelijke Ondernemingen betrokken zijn, door de bevoegde nationale rechterlijke instanties beslecht.
 
-#### Artikel 50
+##### Artikel 50
 
 De statuten van de Gemeenschappelijke Ondernemingen worden in voorkomende gevallen gewijzigd overeenkomstig de bijzondere bepalingen, welke daarin voor dat doel zijn opgenomen.
 
 Deze wijzigingen kunnen echter eerst van kracht worden, nadat zij op voorstel van de Commissie door de Raad, die beslist overeenkomstig de bepalingen van artikel 47, zijn goedgekeurd.
 
-#### Artikel 51
+##### Artikel 51
 
 De Commissie zorgt voor de uitvoering van alle besluiten van de Raad betreffende de oprichting van Gemeenschappelijke Ondernemingen, totdat de organen belast met de werking van deze Ondernemingen tot stand zijn gebracht.
 
 ### HOOFDSTUK VI. Voorziening
 
-#### Artikel 52
+##### Artikel 52
 
 1. De voorziening van ertsen, grondstoffen en bijzondere splijtstoffen geschiedt, overeenkomstig de bepalingen van dit hoofdstuk, volgens het beginsel van gelijke toegang tot de hulpbronnen en door middel van een gemeenschappelijk voorzieningsbeleid.
 
@@ -564,13 +586,13 @@ Het Agentschap mag tussen de gebruikers niet discrimineren op grond van het gebr
 
 ### Afdeling I. - Het Agentschap
 
-#### Artikel 53
+##### Artikel 53
 
 Het Agentschap staat onder toezicht van de Commissie; deze geeft richtlijnen aan het Agentschap, heeft het recht van veto over zijn beslissingen en benoemt zijn directeur-generaal, alsmede zijn adjunct-directeur-generaal.
 
 Iedere stilzwijgende of uitdrukkelijke handeling door het Agentschap verricht in de uitoefening van zijn optierecht of van zijn uitsluitend recht om leveringscontracten te sluiten, kan door belanghebbenden aan de Commissie worden voorgelegd; de Commissie neemt binnen een maand een besluit.
 
-#### Artikel 54
+##### Artikel 54
 
 Het Agentschap bezit rechtspersoonlijkheid en financiële zelfstandigheid.
 
@@ -582,11 +604,11 @@ De statuten bepalen het kapitaal van het Agentschap en de wijze waarop het ingeb
 
 De statuten regelen de wijze waarop het commerciële beheer van het Agentschap wordt gevoerd. Zij kunnen ter bestrijding van de bedrijfskosten van het Agentschap in een heffing van de transacties voorzien.
 
-#### Artikel 55
+##### Artikel 55
 
 De Lid-Staten moeten aan het Agentschap alle inlichtingen verstrekken of doen verstrekken die noodzakelijk zijn voor de uitoefening van zijn optierecht en zijn uitsluitend recht om leveringscontracten te sluiten.
 
-#### Artikel 56
+##### Artikel 56
 
 De Lid-Staten waarborgen de vrije uitoefening van de functies van het Agentschap op hun grondgebied.
 
@@ -594,7 +616,7 @@ Zij kunnen een orgaan of organen oprichten, die bevoegd zijn, om de producenten 
 
 ### Afdeling II. Ertsen, grondstoffen en bijzondere splijtstoffen herkomstig uit de Gemeenschap
 
-#### Artikel 57
+##### Artikel 57
 
 1. Het optierecht van het Agentschap geldt:
 
@@ -606,13 +628,13 @@ Zij kunnen een orgaan of organen oprichten, die bevoegd zijn, om de producenten 
 
 Behoudens de bepalingen van de artikelen 58, 62 en 63 is iedere producent gehouden de ertsen, grondstoffen en bijzondere splijtstoffen welke hij voortbrengt op het grondgebied van de Lid-Staten, aan het Agentschap aan te bieden, alvorens deze ertsen of stoffen worden gebruikt, overgedragen of opgeslagen.
 
-#### Artikel 58
+##### Artikel 58
 
 Wanneer een producent verscheidene bewerkingen verricht vanaf de ertswinning tot en met de produktie van metaal, is hij slechts gehouden het produkt aan het Agentschap aan te bieden in het produktiestadium dat hij zelf kiest.
 
 Hetzelfde geldt voor verschillende ondernemingen, waartussen bindingen bestaan, welke tijdig aan de Commissie zijn medegedeeld en met deze besproken zijn volgens de in de artikelen 43 en 44 bepaalde procedure.
 
-#### Artikel 59
+##### Artikel 59
 
 Wanneer het Agentschap zijn optierecht niet uitoefent ten aanzien van de gehele produktie of een gedeelte daarvan:
 
@@ -622,7 +644,7 @@ Wanneer het Agentschap zijn optierecht niet uitoefent ten aanzien van de gehele 
 
 De Commissie mag haar toestemming niet verlenen, indien de ontvangers van deze leveranties niet alle waarborgen bieden dat de algemene belangen van de Gemeenschap zullen worden geëerbiedigd of indien de bepalingen en voorwaarden van deze contracten in strijd zijn met de doelstellingen van dit Verdrag.
 
-#### Artikel 60
+##### Artikel 60
 
 De eventuele gebruikers delen aan het Agentschap op gezette tijden hun behoeften aan materialen mede, onder opgave van de hoeveelheden, de natuurkundige en scheikundige aard, de plaatsen van herkomst, het gebruik, de leveringstermijnen en de prijzen, welke de bepalingen en voorwaarden zouden uitmaken van een leveringscontract, waarvan zij de afsluiting wensen.
 
@@ -636,13 +658,13 @@ Indien het Agentschap niet in staat is aan alle ontvangen bestellingen volledig 
 
 Een reglement van het Agentschap, dat de goedkeuring van de Commissie behoeft, bepaalt de wijze waarop vraag en aanbod tegen elkaar worden afgewogen.
 
-#### Artikel 61
+##### Artikel 61
 
 Het Agentschap is verplicht aan alle bestellingen te voldoen, tenzij juridische of materiële bezwaren zich daartegen verzetten.
 
 Het Agentschap kan, met inachtneming van de voorschriften van artikel 52, bij het sluiten van een contract de gebruikers verzoeken een passend voorschot te storten, hetzij als waarborg, hetzij ter verlichting van de eigen verplichtingen op lange termijn die het Agentschap voor het voldoen aan deze bestelling ten opzichte van de producenten op zich heeft genomen.
 
-#### Artikel 62
+##### Artikel 62
 
 1. Het Agentschap oefent zijn optierecht uit op de bijzondere splijtstoffen welke op het grondgebied van de Lid-Staten worden voortgebracht,
 
@@ -662,23 +684,23 @@ Het Agentschap kan, met inachtneming van de voorschriften van artikel 52, bij he
 
 3. De bepalingen van artikel 89 lid 1**a** ) zijn van toepassing op bijzondere splijtstoffen, welke op het grondgebied van de Lid-Staten zijn voortgebracht en waarop het Agentschap zijn optierecht niet heeft uitgeoefend.
 
-#### Artikel 63
+##### Artikel 63
 
 De ertsen, grondstoffen of bijzondere splijtstoffen, voortgebracht door de Gemeenschappelijke Ondernemingen, worden aan de gebruikers toegewezen volgens de regels, vastgesteld in de statuten of overeenkomsten welke voor deze Ondernemingen gelden.
 
 ### Afdeling III. Ertsen, grondstoffen en bijzondere splijtstoffen niet uit de Gemeenschap herkomstig
 
-#### Artikel 64
+##### Artikel 64
 
 Het Agentschap heeft, eventueel optredend in het kader van de tussen de Gemeenschap en een derde Staat of een internationale organisatie gesloten akkoorden, het uitsluitend recht, behoudens de in dit Verdrag bepaalde uitzonderingen, akkoorden of overeenkomsten te sluiten, welke leveringen van ertsen, grondstoffen of bijzondere splijtstoffen, herkomstig van buiten de Gemeenschap, als hoofddoel hebben.
 
-#### Artikel 65
+##### Artikel 65
 
 Artikel 60 is van toepassing op de aanvragen van de gebruikers en op de contracten tussen de gebruikers en het Agentschap, betreffende de levering van ertsen, grondstoffen of bijzondere splijtstoffen, herkomstig van buiten de Gemeenschap.
 
 Het Agentschap kan echter bepalen, welke de geografische oorsprong van de te leveren goederen zal zijn, voor zover het daardoor aan de gebruiker ten minste even gunstige voorwaarden verzekert als die welke in de bestelling zijn neergelegd.
 
-#### Artikel 66
+##### Artikel 66
 
 Indien de Commissie op verzoek van de betrokken gebruikers vaststelt, dat het Agentschap niet in staat is binnen een redelijke termijn het bestelde materiaal geheel of gedeeltelijk te leveren, of dit slechts kan doen tegen onredelijke prijzen, hebben de gebruikers het recht rechtstreeks contracten te sluiten voor leveringen van buiten de Gemeenschap, voor zover deze contracten wezenlijk beantwoorden aan de in hun bestelling tot uiting gebrachte behoeften.
 
@@ -688,11 +710,11 @@ De gebruikers die van het in dit artikel bedoelde recht gebruik maken, zijn geho
 
 ### Afdeling IV. - Prijzen
 
-#### Artikel 67
+##### Artikel 67
 
 Behoudens de in dit Verdrag bepaalde uitzonderingen, komen de prijzen tot stand door afweging tegen elkaar van vraag en aanbod, volgens de bepalingen van artikel 60; hierop mogen de Lid-Staten geen inbreuk maken door middel van hun nationale regelingen.
 
-#### Artikel 68
+##### Artikel 68
 
 Prijsmanipulaties die ten doel hebben, in strijd met het beginsel van gelijke toegang dat uit dit hoofdstuk voortvloeit, aan bepaalde verbruikers een bevoorrechte positie te verschaffen, zijn verboden.
 
@@ -700,7 +722,7 @@ Indien het Agentschap dergelijke manipulaties vaststelt, meldt het deze aan de C
 
 Indien de Commissie de vaststelling gegrond acht, kan zij voor de betwiste aanbiedingen de prijzen wederom op een peil brengen, dat met het beginsel van gelijke toegang strookt.
 
-#### Artikel 69
+##### Artikel 69
 
 De Raad kan met eenparigheid van stemmen op voorstel van de Commissie prijzen vaststellen.
 
@@ -708,7 +730,7 @@ Wanneer het Agentschap met toepassing van artikel 60 de voorwaarden vaststelt, w
 
 ### Afdeling V. - Bepalingen betreffende het voorzieningsbeleid
 
-#### Artikel 70
+##### Artikel 70
 
 De Commissie kan, binnen de in de begroting van de Gemeenschap bepaalde grenzen en onder door haar vast te stellen voorwaarden, financieel bijdragen tot de opsporing van delfstoffen op het grondgebied van de Lid-Staten.
 
@@ -718,11 +740,11 @@ De Lid-Staten zijn gehouden jaarlijks aan de Commissie een rapport toe te zenden
 
 Indien de Raad met gekwalificeerde meerderheid van stemmen op verzoek van de Commissie vaststelt, dat ondanks op lange termijn economisch verantwoord schijnende delvingsmogelijkheden, de opsporingsmaatregelen en de toeneming van de mijnontginning aanmerkelijk onvoldoende blijven, wordt de betrokken Lid-Staat, zolang hij geen verbetering in deze toestand brengt, geacht af te zien van het recht van gelijke toegang tot de andere hulpbronnen binnen de Gemeenschap zowel voor hemzelf als voor zijn onderdanen.
 
-#### Artikel 71
+##### Artikel 71
 
 De Commissie doet aan de Lid-Staten alle dienstige aanbevelingen over de belasting- of mijnbouwregelingen.
 
-#### Artikel 72
+##### Artikel 72
 
 Het Agentschap kan uit de binnen en buiten de Gemeenschap beschikbare hoeveelheden de nodige handelsvoorraden aanleggen om de voorziening of de lopende leveringen van de Gemeenschap te vergemakkelijken.
 
@@ -730,17 +752,17 @@ De Commissie kan eventueel tot het aanleggen van veiligheidsvoorraden besluiten.
 
 ### Afdeling VI. - Bijzondere bepalingen
 
-#### Artikel 73
+##### Artikel 73
 
 Indien een akkoord of overeenkomst tussen een Lid-Staat, een persoon of een onderneming enerzijds, en een derde Staat, een internationale organisatie of een onderdaan van een derde Staat anderzijds, tevens levering inhoudt van produkten, welke onder de bevoegdheid van het Agentschap vallen is wat de levering van deze produkten betreft, voorafgaande instemming van de Commissie nodig voor het sluiten of het verlengen van dat akkoord of die overeenkomst.
 
-#### Artikel 74
+##### Artikel 74
 
 De Commissie kan de overdracht, de invoer- of de uitvoer van kleine hoeveelheden ertsen, grondstoffen of bijzondere splijtstoffen, zoals die gewoonlijk worden gebruikt voor het onderzoek, vrijstellen van de toepassing der bepalingen van dit hoofdstuk.
 
 Van iedere overdracht, invoer of uitvoer, welke geschiedt krachtens deze bepaling, moet aan het Agentschap kennis worden gegeven.
 
-#### Artikel 75
+##### Artikel 75
 
 De bepalingen van dit hoofdstuk zijn niet van toepassing op de verbintenissen tot het behandelen, bewerken of verwerken van ertsen, grondstoffen of bijzondere splijtstoffen
 
@@ -754,7 +776,7 @@ De betrokken personen of ondernemingen moeten echter aan het Agentschap kennis g
 
 De materialen, waarvoor deze verbintenissen zijn aangegaan, worden op het grondgebied van de Lid-Staten aan de in hoofdstuk VII bepaalde controlemaatregelen onderworpen. De bepalingen van hoofdstuk VIII zijn echter niet van toepassing op de bijzondere splijtstoffen waarvoor de onder **c)** bedoelde verbintenissen zijn aangegaan.
 
-#### Artikel 76
+##### Artikel 76
 
 De bepalingen van dit hoofdstuk kunnen, met name ingeval door onvoorziene omstandigheden een toestand van algemene schaarste zou ontstaan, door de Raad met eenparigheid van stemmen worden gewijzigd op voorstel van de Commissie en na raadpleging van het Europees Parlement; het initiatief daartoe kan van een Lid-Staat of van de Commissie uitgaan. De Commissie is gehouden ieder verzoek van een Lid-Staat in behandeling te nemen.
 
@@ -762,7 +784,7 @@ Na verloop van zeven jaar na 1 januari 1958 kan de Raad deze bepalingen in hun g
 
 ### HOOFDSTUK VII. Veiligheidscontrole
 
-#### Artikel 77
+##### Artikel 77
 
 Overeenkomstig de bepalingen van dit hoofdstuk moet de Commissie zich ervan vergewissen of op het grondgebied van de Lid-Staten
 
@@ -770,13 +792,13 @@ Overeenkomstig de bepalingen van dit hoofdstuk moet de Commissie zich ervan verg
 
 - b). de bepalingen met betrekking tot de voorziening en elke bijzondere verbintenis betreffende controle, die de Gemeenschap heeft aangegaan in een akkoord met een derde Staat of een internationale organisatie, worden nageleefd.
 
-#### Artikel 78
+##### Artikel 78
 
 Ieder die een installatie voor de produktie, de afscheiding of enige aanwending van grondstoffen of bijzondere splijtstoffen of voor de behandeling van bestraalde splijtstoffen opricht of in gebruik heeft, is gehouden aan de Commissie de fundamentele technische kenmerken van die installatie mede te delen, voor zover de kennis daarvan noodzakelijk is voor de verwezenlijking van de in artikel 77 omschreven doelstellingen.
 
 De Commissie moet de werkwijzen voor de regeneratie der bestraalde stoffen goedkeuren, voor zover dit noodzakelijk is voor de verwezenlijking van de in artikel 77 omschreven doelstellingen.
 
-#### Artikel 79
+##### Artikel 79
 
 De Commissie verlangt het bijhouden en overleggen van werkstaten, om de rekening en verantwoording der gebruikte of geproduceerde ertsen, grondstoffen en bijzondere splijtstoffen mogelijk te maken. Hetzelfde geldt voor de vervoerde grondstoffen en bijzondere splijtstoffen.
 
@@ -784,13 +806,13 @@ Degenen die aan de controle onderworpen zijn, geven aan de autoriteiten van de b
 
 De aard en de strekking van de in de eerste alinea van dit artikel bedoelde verplichtingen worden omschreven in een door de Commissie op te maken en door de Raad goed te keuren verordening.
 
-#### Artikel 80
+##### Artikel 80
 
 De Commissie kan verlangen, dat elk overschot aan bijzondere splijtstoffen, die als bijprodukt teruggewonnen of verkregen zijn en niet daadwerkelijk gebruikt worden of voor het doel gereed zijn, bij het Agentschap worden opgeslagen dan wel in andere bewaarplaatsen, die door de Commissie worden of kunnen worden gecontroleerd.
 
 De bijzondere splijtstoffen, die aldus zijn opgeslagen, moeten op verzoek van belanghebbenden onverwijld aan deze worden teruggegeven.
 
-#### Artikel 81
+##### Artikel 81
 
 De Commissie kan inspecteurs zenden naar het grondgebied van de Lid-Staten. De Commissie raadpleegt iedere betrokken Lid-Staat, voordat zij de eerste opdracht aan een inspecteur verleent op het grondgebied van die Staat; deze raadpleging geldt voor alle latere opdrachten aan die inspecteur.
 
@@ -802,7 +824,7 @@ Indien uitstel gevaar oplevert, kan de Commissie zelf een schriftelijk controleb
 
 Na afgifte van het bevelschrift of van het besluit dragen de instanties van de betrokken Staat er zorg voor dat de inspecteurs toegang krijgen tot de in het bevelschrift of het besluit bepaalde plaatsen.
 
-#### Artikel 82
+##### Artikel 82
 
 De inspecteurs worden door de Commissie in dienst genomen.
 
@@ -812,7 +834,7 @@ De Commissie kan een richtlijn vaststellen waarbij zij de betrokken lidstaat gel
 
 Indien de lidstaat zich binnen de gestelde termijn niet aan deze richtlijn van de Commissie onderwerpt, kan de Commissie of elke betrokken lidstaat, in afwijking van de [artikelen 258](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=258) en [259 van het Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=259), de zaak onmiddellijk aanhangig maken bij het Hof van Justitie van de Europese Unie.
 
-#### Artikel 83
+##### Artikel 83
 
 1. Ingeval personen of ondernemingen inbreuk maken op de verplichtingen welke hun door dit hoofdstuk worden opgelegd, kan de Commissie sancties tegen hen uitspreken.
 
@@ -836,7 +858,7 @@ De bescherming der geschade belangen moet door een passende rechtsprocedure word
 
 4. De Lid-Staten zijn gehouden er voor te zorgen, dat de sancties ten uitvoer worden gelegd en, in voorkomende gevallen, dat schade, veroorzaakt door de inbreuken, wordt hersteld door hen die zich aan deze inbreuken hebben schuldig gemaakt.
 
-#### Artikel 84
+##### Artikel 84
 
 Bij de uitoefening van de controle wordt niet gediscrimineerd op grond van de bestemming welke is gegeven aan de ertsen, grondstoffen en bijzondere splijtstoffen.
 
@@ -844,27 +866,27 @@ Het gebied waarover de controle zich uitstrekt, en de wijze waarop deze wordt ui
 
 De controle mag zich niet uitstrekken tot materialen bestemd voor defensiedoeleinden, welke voor die doeleinden in bijzondere bewerking zijn of welke na die bewerking, krachtens een operatieplan, in een militaire inrichting worden geplaatst of opgeslagen.
 
-#### Artikel 85
+##### Artikel 85
 
 Indien nieuwe omstandigheden zulks noodzakelijk zouden maken, kan de in dit hoofdstuk bepaalde wijze van uitoefening van de controle door de Raad met eenparigheid van stemmen worden aangepast op voorstel van de Commissie en na raadpleging van het Europees Parlement; het initiatief daartoe kan van een Lid-Staat of van de Commissie uitgaan. De Commissie is gehouden elk verzoek van een Lid-Staat in behandeling te nemen.
 
 ### HOOFDSTUK VIII. Regeling van het eigendomsrecht
 
-#### Artikel 86
+##### Artikel 86
 
 De bijzondere splijtstoffen zijn eigendom van de Gemeenschap.
 
 Het eigendomsrecht van de Gemeenschap strekt zich uit tot alle bijzondere splijtstoffen die zijn voortgebracht of ingevoerd door een Lid-Staat, een persoon of een onderneming, en die onderworpen zijn aan de veiligheidscontrole bepaald in hoofdstuk VII.
 
-#### Artikel 87
+##### Artikel 87
 
 De Lid-Staten, personen of ondernemingen hebben op de op regelmatige wijze in hun bezit gekomen bijzondere splijtstoffen het meest uitgebreide recht tot gebruik en verbruik, onder voorbehoud van de verplichtingen welke voor hen voortvloeien uit de bepalingen van dit Verdrag, met name wat de veiligheidscontrole, het aan het Agentschap toegekende optierecht en de gezondheidsbescherming betreft.
 
-#### Artikel 88
+##### Artikel 88
 
 Het Agentschap houdt namens de Gemeenschap een bijzondere administratie bij, genaamd „Financiële administratie van de bijzondere splijtstoffen”.
 
-#### Artikel 89
+##### Artikel 89
 
 1. In de financiële administratie van de bijzondere splijtstoffen
 
@@ -878,23 +900,23 @@ Het Agentschap houdt namens de Gemeenschap een bijzondere administratie bij, gen
 
 4. Voor de toepassing van dit hoofdstuk wordt het Agentschap als een onderneming beschouwd wat betreft de verrichtingen voor eigen rekening.
 
-#### Artikel 90
+##### Artikel 90
 
 Indien nieuwe omstandigheden zulks noodzakelijk zouden maken, kunnen de bepalingen van dit hoofdstuk betreffende het eigendomsrecht van de Gemeenschap door de Raad met eenparigheid van stemmen worden aangepast op voorstel van de Commissie en na raadpleging van het Europees Parlement; het initiatief daartoe kan van een Lid-Staat of van de Commissie uitgaan. De Commissie is gehouden elk verzoek van een Lid-Staat in behandeling te nemen.
 
-#### Artikel 91
+##### Artikel 91
 
 Het eigendomsrecht, dat van toepassing is op alle voorwerpen, materialen en goederen die krachtens dit hoofdstuk niet in eigendom toebehoren aan de Gemeenschap, wordt geregeld door de wetgeving van elke Lid-Staat.
 
 ### HOOFDSTUK IX. De gemeenschappelijke markt op het gebied van de kernenergie
 
-#### Artikel 92
+##### Artikel 92
 
 De bepalingen van dit hoofdstuk zijn van toepassing op de goederen en produkten, die voorkomen op de lijsten die als bijlage IV aan dit Verdrag zijn gehecht.
 
 Deze lijsten kunnen op initiatief van de Commissie of van een Lid-Staat door de Raad op voorstel van de Commissie worden gewijzigd.
 
-#### Artikel 93
+##### Artikel 93
 
 De lidstaten verbieden onderling alle douanerechten op de in- en uitvoer, of heffingen van gelijke werking en elke kwantitatieve beperking van de in- en uitvoer:
 
@@ -904,41 +926,41 @@ De lidstaten verbieden onderling alle douanerechten op de in- en uitvoer, of hef
 
 De niet-Europese grondgebieden, welke vallen onder de rechtsmacht van een Lid-Staat, kunnen echter in- en uitvoerrechten of heffingen van gelijke werking met een uitsluitend fiscaal karakter blijven heffen. De hoogte en de wijze van heffing dezer rechten en heffingen mogen geen discriminatie teweegbrengen tussen deze Staat en de overige Lid-Staten.
 
-#### Artikel 94
+##### Artikel 94
 
 Vervallen
 
-#### Artikel 95
+##### Artikel 95
 
 Vervallen
 
-#### Artikel 96
+##### Artikel 96
 
 De Lid-Staten schaffen elke op de nationaliteit gegronde beperking van de toegang tot gekwalificeerde arbeid op het gebied van de kernenergie af ten aanzien van hen die de nationaliteit van een van de Lid-Staten bezitten, behoudens de beperkingen welke voortvloeien uit de fundamentele eisen van openbare orde, openbare veiligheid en volksgezondheid.
 
 Na raadpleging van het Europees Parlement kan de Raad met gekwalificeerde meerderheid van stemmen op voorstel van de Commissie, die vooraf het advies van het Economisch en Sociaal Comité inwint, de richtlijnen betreffende de wijze van toepassing van dit artikel vaststellen.
 
-#### Artikel 97
+##### Artikel 97
 
 Geen enkele op de nationaliteit gegronde beperking kan worden aangevoerd tegen natuurlijke personen of rechtspersonen, naar publiek- of privaatrecht, die onder de rechtsmacht van een Lid-Staat vallen, wanneer zij aan de bouw van installaties van wetenschappelijke of industriële aard op het gebied van de kernenergie binnen de Gemeenschap wensen deel te nemen.
 
-#### Artikel 98
+##### Artikel 98
 
 De Lid-Staten nemen alle nodige maatregelen om het afsluiten van verzekeringscontracten ter dekking van de atoomrisico’s te vergemakkelijken.
 
 De Raad stelt, na raadpleging van het Europees Parlement, met gekwalificeerde meerderheid van stemmen, op voorstel van de Commissie, die vooraf het advies van het Economisch en Sociaal Comité inwint, de richtlijnen vast betreffende de wijze van toepassing van dit artikel.
 
-#### Artikel 99
+##### Artikel 99
 
 De Commissie kan ter vergemakkelijking van het kapitaalverkeer, bestemd voor de financiering van de takken van industrie, vermeld in de lijst die als bijlage II aan dit Verdrag is gehecht, alle nodige aanbevelingen doen.
 
-#### Artikel 100
+##### Artikel 100
 
 Vervallen
 
 ### HOOFDSTUK X. Betrekkingen met derden
 
-#### Artikel 101
+##### Artikel 101
 
 Binnen de grenzen van haar bevoegdheid kan de Gemeenschap verplichtingen aangaan door het sluiten van akkoorden of overeenkomsten met een derde Staat, een internationale organisatie of een onderdaan van een derde Staat.
 
@@ -946,11 +968,11 @@ Met het oog op deze akkoorden of overeenkomsten worden door de Commissie onderha
 
 Het onderhandelen over en het sluiten van akkoorden of overeenkomsten welke zonder tussenkomst van de Raad en binnen de grenzen van de betreffende begroting kunnen worden uitgevoerd, geschiedt evenwel door de Commissie, die verplicht is de Raad daarvan op de hoogte te houden.
 
-#### Artikel 102
+##### Artikel 102
 
 De akkoorden of overeenkomsten gesloten met een derde Staat, een internationale organisatie of een onderdaan van een derde Staat, waarbij behalve de Gemeenschap een of meer Lid-Staten partij zijn, kunnen eerst in werking treden, nadat alle betrokken Lid-Staten aan de Commissie hebben medegedeeld, dat deze akkoorden of overeenkomsten volgens de bepalingen van hun onderscheidene nationale wetgevingen van toepassing zijn geworden.
 
-#### Artikel 103
+##### Artikel 103
 
 De Lid-Staten zijn gehouden aan de Commissie mededeling te doen van hun ontwerp-akkoorden of ontwerp-overeenkomsten met een derde Staat, een internationale organisatie of een onderdaan van een derde Staat, voor zover deze akkoorden of overeenkomsten verband houden met de werkingssfeer van dit Verdrag.
 
@@ -958,7 +980,7 @@ Wanneer een ontwerp-akkoord of ontwerp-overeenkomst bepalingen bevat welke een b
 
 Deze Staat kan het ontworpen akkoord of de ontworpen overeenkomst niet sluiten dan na de bezwaren van de Commissie te hebben opgeheven of zich te hebben geschikt naar de uitspraak die het Hof van Justitie van de Europese Unie op zijn verzoek onverwijld heeft gedaan ten aanzien van de verenigbaarheid der ontworpen clausules met de bepalingen van dit Verdrag. Het verzoek kan bij het Hof van Justitie van de Europese Unie worden ingediend op ieder tijdstip nadat de Staat de opmerkingen van de Commissie heeft ontvangen.
 
-#### Artikel 104
+##### Artikel 104
 
 Geen persoon of onderneming die na 1 januari 1958 of, voor de toetredende staten, na de datum van hun toetreding, akkoorden of overeenkomsten met een derde Staat, een internationale organisatie of een onderdaan van een derde Staat sluit of verlengt, kan zich op deze akkoorden of overeenkomsten beroepen ten einde zich te onttrekken aan de hun door dit Verdrag opgelegde verplichtingen.
 
@@ -966,13 +988,13 @@ Iedere Lid-Staat neemt alle maatregelen welke hij noodzakelijk oordeelt om aan d
 
 Op verzoek van de Commissie spreekt het Hof van Justitie van de Europese Unie zich uit over de verenigbaarheid van deze akkoorden of overeenkomsten met de bepalingen van dit Verdrag.
 
-#### Artikel 105
+##### Artikel 105
 
 De bepalingen van dit Verdrag kunnen niet worden ingeroepen tegen de uitvoering van akkoorden of overeenkomsten die een Lid-Staat, een persoon of een onderneming vóór 1 januari 1958 of, voor de toetredende staten, vóór de datum van hun toetreding, van dit Verdrag heeft gesloten met een derde Staat, een internationale organisatie of een onderdaan van een derde Staat, indien van deze akkoorden of overeenkomsten uiterlijk dertig dagen na de genoemde data aan de Commissie mededeling is gedaan.
 
 Nochtans kunnen akkoorden of overeenkomsten die een persoon of een onderneming tussen 25 maart 1957 en 1 januari 1958 of, voor de toetredende staten, tussen de ondertekening van de Toetredingsakte en de datum van hun toetreding, heeft gesloten met een derde Staat, een internationale organisatie of een onderdaan van een derde Staat, niet worden ingeroepen tegen dit Verdrag, indien naar het oordeel van het Hof van Justitie van de Europese Unie, dat op verzoek van de Commissie uitspraak doet, de bedoeling zich aan de bepalingen van dit Verdrag te onttrekken voor een van beide partijen een der doorslaggevende beweegredenen tot het aangaan van het akkoord of de overeenkomst is geweest.
 
-#### Artikel 106
+##### Artikel 106
 
 De Lid-Staten die vóór 1 januari 1958 of, voor de toetredende staten, vóór de datum van hun toetreding, met derde Staten akkoorden hebben gesloten betreffende de samenwerking op het gebied van de kernenergie, zijn gehouden tezamen met de Commissie de noodzakelijke onderhandelingen te voeren met deze derde Staten, ten einde de rechten en verplichtingen welke uit deze akkoorden voortvloeien, voor zover zulks mogelijk is te doen overnemen door de Gemeenschap.
 
@@ -984,135 +1006,135 @@ Ieder nieuw akkoord dat uit deze onderhandelingen voortvloeit behoeft de toestem
 
 ### Afdeling I. - De Vergadering
 
-#### Artikel 107
+##### Artikel 107
 
 Vervallen
 
-#### Artikel 107 A
+##### Artikel 107 A
 
 Vervallen
 
-#### Artikel 107 B
+##### Artikel 107 B
 
 Vervallen
 
-#### Artikel 107 C
+##### Artikel 107 C
 
 Vervallen
 
-#### Artikel 107 D
+##### Artikel 107 D
 
 Vervallen
 
-#### Artikel 108
+##### Artikel 108
 
 Vervallen
 
-#### Artikel 109
+##### Artikel 109
 
 Vervallen
 
-#### Artikel 110
+##### Artikel 110
 
 Vervallen
 
-#### Artikel 111
+##### Artikel 111
 
 Vervallen
 
-#### Artikel 112
+##### Artikel 112
 
 Vervallen
 
-#### Artikel 113
+##### Artikel 113
 
 Vervallen
 
-#### Artikel 114
+##### Artikel 114
 
 Vervallen
 
 ### Afdeling II. - De Raad
 
-#### Artikel 115
+##### Artikel 115
 
 Vervallen
 
-#### Artikel 116
+##### Artikel 116
 
 Vervallen
 
-#### Artikel 117
+##### Artikel 117
 
 Vervallen
 
-#### Artikel 118
+##### Artikel 118
 
 Vervallen
 
-#### Artikel 119
+##### Artikel 119
 
 Vervallen
 
-#### Artikel 120
+##### Artikel 120
 
 Vervallen
 
-#### Artikel 121
+##### Artikel 121
 
 Vervallen
 
-#### Artikel 122
+##### Artikel 122
 
 Vervallen
 
-#### Artikel 123
+##### Artikel 123
 
 Vervallen
 
 ### Afdeling III. - De Commissie
 
-#### Artikel 124
+##### Artikel 124
 
 Vervallen
 
-#### Artikel 125
+##### Artikel 125
 
 Vervallen
 
-#### Artikel 126
+##### Artikel 126
 
 Vervallen
 
-#### Artikel 127
+##### Artikel 127
 
 Vervallen
 
-#### Artikel 128
+##### Artikel 128
 
 Vervallen
 
-#### Artikel 129
+##### Artikel 129
 
 Vervallen
 
-#### Artikel 130
+##### Artikel 130
 
 Vervallen
 
-#### Artikel 131
+##### Artikel 131
 
 Vervallen
 
-#### Artikel 132
+##### Artikel 132
 
 Vervallen
 
-#### Artikel 133
+##### Artikel 133
 
 Vervallen
 
-#### Artikel 134
+##### Artikel 134
 
 1. Bij de Commissie wordt een Wetenschappelijk en Technisch Comité van raadgevende aard ingesteld.
 
@@ -1124,53 +1146,53 @@ De leden van het Comité worden in hun persoonlijke hoedanigheid benoemd voor de
 
 Het Wetenschappelijk en Technisch Comité wijst ieder jaar uit zijn leden zijn voorzitter en zijn bureau aan.
 
-#### Artikel 135
+##### Artikel 135
 
 De Commissie kan een ieder raadplegen en alle studiecomités instellen noodzakelijk voor de vervulling van haar taak.
 
 ### Afdeling IV. - Het Hof van Justitie
 
-#### Artikel 136
+##### Artikel 136
 
 Vervallen
 
-#### Artikel 137
+##### Artikel 137
 
 Vervallen
 
-#### Artikel 138
+##### Artikel 138
 
 Vervallen
 
-#### Artikel 139
+##### Artikel 139
 
 Vervallen
 
-#### Artikel 140
+##### Artikel 140
 
 Vervallen
 
-#### Artikel 140 A
+##### Artikel 140 A
 
 Vervallen
 
-#### Artikel 140 B
+##### Artikel 140 B
 
 Vervallen
 
-#### Artikel 141
+##### Artikel 141
 
 Vervallen
 
-#### Artikel 142
+##### Artikel 142
 
 Vervallen
 
-#### Artikel 143
+##### Artikel 143
 
 Vervallen
 
-#### Artikel 144
+##### Artikel 144
 
 Het Hof van Justitie van de Europese Unie oefent volledige rechtsmacht uit ten aanzien van
 
@@ -1178,101 +1200,101 @@ Het Hof van Justitie van de Europese Unie oefent volledige rechtsmacht uit ten a
 
 - b). het beroep, ingesteld door personen of ondernemingen tegen de sancties die hun zijn opgelegd door de Commissie op grond van artikel 83.
 
-#### Artikel 145
+##### Artikel 145
 
 Indien de Commissie meent dat een persoon of een onderneming zich schuldig heeft gemaakt aan een schending van dit Verdrag op welke schending de bepalingen van artikel 83 niet van toepassing zijn, verzoekt zij de Lid-Staat waaronder die persoon of die onderneming ressorteert, ter zake van deze schending maatregelen te nemen op grond van zijn nationale wetgeving.
 
 Indien de betrokken Staat op dit verzoek, binnen de door de Commissie gestelde termijn, geen maatregelen neemt, kan de Commissie zich tot het Hof van Justitie van de Europese Unie wenden ten einde de aan de betrokken persoon of onderneming verweten schending te doen vaststellen.
 
-#### Artikel 146
+##### Artikel 146
 
 Vervallen
 
-#### Artikel 147
+##### Artikel 147
 
 Vervallen
 
-#### Artikel 148
+##### Artikel 148
 
 Vervallen
 
-#### Artikel 149
+##### Artikel 149
 
 Vervallen
 
-#### Artikel 150
+##### Artikel 150
 
 Vervallen
 
-#### Artikel 151
+##### Artikel 151
 
 Vervallen
 
-#### Artikel 152
+##### Artikel 152
 
 Vervallen
 
-#### Artikel 153
+##### Artikel 153
 
 Vervallen
 
-#### Artikel 154
+##### Artikel 154
 
 Vervallen
 
-#### Artikel 155
+##### Artikel 155
 
 Vervallen
 
-#### Artikel 156
+##### Artikel 156
 
 Vervallen
 
-#### Artikel 157
+##### Artikel 157
 
 Voor zover in dit Verdrag niet anders wordt bepaald, heeft een bij het Hof van Justitie van de Europese Unie ingesteld beroep geen schorsende werking. Het Hof van Justitie van de Europese Unie kan echter, indien het van oordeel is dat de omstandigheden zulks vereisen, opschorting van de uitvoering van de bestreden handeling gelasten.
 
-#### Artikel 158
+##### Artikel 158
 
 Vervallen
 
-#### Artikel 159
+##### Artikel 159
 
 Vervallen
 
-#### Artikel 160
+##### Artikel 160
 
 Vervallen
 
 ### Afdeling V. DE REKENKAMER
 
-#### Artikel 160 A
+##### Artikel 160 A
 
 Vervallen
 
-#### Artikel 160 B
+##### Artikel 160 B
 
 Vervallen
 
-#### Artikel 160 C
+##### Artikel 160 C
 
 Vervallen
 
 ### HOOFDSTUK II. Bepalingen welke verscheidene instellingen gemeen hebben
 
-#### Artikel 161
+##### Artikel 161
 
 Vervallen
 
-#### Artikel 162
+##### Artikel 162
 
 Vervallen
 
-#### Artikel 163
+##### Artikel 163
 
 Vervallen
 
-#### Artikel 164
+##### Artikel 164
 
 De tenuitvoerlegging geschiedt volgens de bepalingen van burgerlijke rechtsvordering die van kracht zijn in de Staat op wiens grondgebied zij plaatsvindt. De formule van tenuitvoerlegging wordt, zonder andere controle dan de verificatie van de authenticiteit van de titel, aangebracht door de nationale autoriteit die door de regering van elke Lid-Staat daartoe wordt aangewezen. Van die aanwijzing geeft zij kennis aan de Commissie, het Hof van Justitie van de Europese Unie en de Arbitrage-Commissie ingesteld krachtens artikel 18.
 
@@ -1282,33 +1304,33 @@ De tenuitvoerlegging kan niet worden geschorst dan krachtens een beschikking van
 
 ### HOOFDSTUK III. Het Economisch en Sociaal Comité
 
-#### Artikel 165
+##### Artikel 165
 
 Vervallen
 
-#### Artikel 166
+##### Artikel 166
 
 Vervallen
 
-#### Artikel 167
+##### Artikel 167
 
 Vervallen
 
-#### Artikel 168
+##### Artikel 168
 
 Vervallen
 
-#### Artikel 169
+##### Artikel 169
 
 Vervallen
 
-#### Artikel 170
+##### Artikel 170
 
 Vervallen
 
 ## TITEL VIERDE. FINANCIËLE BEPALINGEN
 
-#### Artikel 171
+##### Artikel 171
 
 1. Alle ontvangsten en uitgaven van de Gemeenschap, behalve die van het Agentschap en van de Gemeenschappelijke Ondernemingen, moeten voor elk begrotingsjaar worden geraamd; zij moeten worden opgenomen hetzij in de huishoudelijke begroting hetzij in de begroting voor onderzoek en investeringen.
 
@@ -1320,7 +1342,7 @@ De voorwaarden betreffende de raming, de uitvoering en de controle op deze ontva
 
 3. De op ieder dienstjaar betrekking hebbende ramingen van ontvangsten en uitgaven alsmede de verlies- en winstrekeningen en de balansen der Gemeenschappelijke Ondernemingen worden medegedeeld aan de Commissie, de Raad en het Europees Parlement, overeenkomstig de bepalingen opgenomen in de statuten van deze Ondernemingen.
 
-#### Artikel 172
+##### Artikel 172
 
 1. Vervallen.
 
@@ -1334,15 +1356,15 @@ De Gemeenschap kan leningen opnemen op de kapitaalmarkt van een Lid-Staat in het
 
 De toestemming van de bevoegde autoriteiten van de Lid-Staat mag alleen worden geweigerd indien ernstige storingen op de kapitaalmarkt van deze Staat zijn te vrezen.
 
-#### Artikel 173
+##### Artikel 173
 
 Vervallen
 
-#### Artikel 173 A
+##### Artikel 173 A
 
 Vervallen
 
-#### Artikel 174
+##### Artikel 174
 
 1. De uitgaven voorkomende op de huishoudelijke begroting omvatten met name:
 
@@ -1360,11 +1382,11 @@ Vervallen
 
 - d). de eventuele deelneming aan de Gemeenschappelijke Ondernemingen en aan bepaalde gemeenschappelijke werkzaamheden.
 
-#### Artikel 175
+##### Artikel 175
 
 Vervallen
 
-#### Artikel 176
+##### Artikel 176
 
 1. De toewijzingen ten behoeve van uitgaven voor onderzoek en investeringen omvatten, binnen de grenzen van de programma’s of van betalingsbesluiten die op grond van dit Verdrag eenstemmigheid van de Raad vereisen:
 
@@ -1378,43 +1400,43 @@ Vervallen
 
 4. De beschikbare betalingskredieten worden naar het volgende dienstjaar overgedragen bij besluit van de Commissie voor zover door de Raad niet anders wordt besloten.
 
-#### Artikel 177
+##### Artikel 177
 
 Vervallen
 
-#### Artikel 177 bis
+##### Artikel 177 bis
 
 Vervallen
 
-#### Artikel 178
+##### Artikel 178
 
 Vervallen
 
-#### Artikel 179
+##### Artikel 179
 
 Vervallen
 
-#### Artikel 179 bis
+##### Artikel 179 bis
 
 Vervallen
 
-#### Artikel 180
+##### Artikel 180
 
 Vervallen
 
-#### Artikel 180 bis
+##### Artikel 180 bis
 
 Vervallen
 
-#### Artikel 180 ter
+##### Artikel 180 ter
 
 Vervallen
 
-#### Artikel 181
+##### Artikel 181
 
 Vervallen
 
-#### Artikel 182
+##### Artikel 182
 
 1. De Commissie kan, onder voorbehoud dat zij daarvan de bevoegde instanties der betrokken Staten in kennis stelt, de saldi, welke zij in de valuta van een der Lid-Staten in haar bezit heeft, overmaken in de valuta van een andere Lid-Staat, voor zover zij gebruikt moeten worden voor de doeleinden die in dit Verdrag zijn aangewezen. De Commissie vermijdt dergelijke overmakingen zoveel mogelijk, indien zij saldi beschikbaar heeft of beschikbaar kan maken in de valuta waaraan zij behoefte heeft.
 
@@ -1430,33 +1452,33 @@ Dit programma wordt door de Raad met gekwalificeerde meerderheid van stemmen goe
 
 6. De Raad kan met eenparigheid van stemmen op voorstel van de Commissie de in de voorgaande leden bepaalde deviezenregeling geheel of gedeeltelijk op het Agentschap en op de Gemeenschappelijke Ondernemingen van toepassing verklaren en eventueel aan de behoeften van hun werkzaamheid aanpassen.
 
-#### Artikel 183
+##### Artikel 183
 
 Vervallen
 
-#### Artikel 183 A
+##### Artikel 183 A
 
 Vervallen
 
 ## TITEL VIJFDE. ALGEMENE BEPALINGEN
 
-#### Artikel 184
+##### Artikel 184
 
 De Gemeenschap bezit rechtspersoonlijkheid.
 
-#### Artikel 185
+##### Artikel 185
 
 In elk der Lid-Staten heeft de Gemeenschap de ruimste handelingsbevoegdheid welke door de nationale wetgevingen aan rechtspersonen wordt toegekend; zij kan met name roerende en onroerende goederen verkrijgen of vervreemden en in rechte optreden. Te dien einde wordt zij door de Commissie vertegenwoordigd.
 
-#### Artikel 186
+##### Artikel 186
 
 Vervallen
 
-#### Artikel 187
+##### Artikel 187
 
 Voor de vervulling van de haar opgedragen taken kan de Commissie, binnen de grenzen en onder de voorwaarden door de Raad overeenkomstig de bepalingen van dit Verdrag vastgesteld, alle gegevens verzamelen en alle noodzakelijke verificaties verrichten.
 
-#### Artikel 188
+##### Artikel 188
 
 De contractuele aansprakelijkheid van de Gemeenschap wordt beheerst door de wet welke op het betrokken contract van toepassing is.
 
@@ -1464,29 +1486,29 @@ Inzake de niet-contractuele aansprakelijkheid moet de Gemeenschap overeenkomstig
 
 De persoonlijke aansprakelijkheid der personeelsleden jegens de Gemeenschap wordt geregeld bij de bepalingen welke hun statuut of de op hen toepasselijke regeling vaststellen.
 
-#### Artikel 189
+##### Artikel 189
 
 De zetel van de instellingen der Gemeenschap wordt in onderlinge overeenstemming door de regeringen der Lid-Staten vastgesteld.
 
-#### Artikel 190
+##### Artikel 190
 
 Vervallen
 
-#### Artikel 191
+##### Artikel 191
 
 De Gemeenschap geniet op het grondgebied van de lidstaten de voorrechten en immuniteiten die nodig zijn voor de uitvoering van haar taak, overeenkomstig de voorwaarden van het protocol betreffende de voorrechten en immuniteiten van de Europese Unie.
 
-#### Artikel 192
+##### Artikel 192
 
 De Lid-Staten treffen alle algemene of bijzondere maatregelen ter uitvoering van de verplichtingen welke voortvloeien uit het Verdrag of het gevolg zijn van de handelingen der instellingen van de Gemeenschap. Zij vergemakkelijken de vervulling van haar taak.
 
 Zij onthouden zich van alle maatregelen die de verwezenlijking van de doelstellingen van dit Verdrag in gevaar kunnen brengen.
 
-#### Artikel 193
+##### Artikel 193
 
 De Lid-Staten verbinden zich, een geschil betreffende de uitlegging of de toepassing van dit Verdrag niet op andere wijze te doen beslechten dan in dit Verdrag is voorgeschreven.
 
-#### Artikel 194
+##### Artikel 194
 
 1. De leden van de instellingen der Gemeenschap, de leden van de comités, de ambtenaren en personeelsleden van de Gemeenschap alsook alle andere personen die hetzij door hun functie, hetzij door hun openbare of particuliere betrekkingen met de instellingen of installaties van de Gemeenschap of met de Gemeenschappelijke Ondernemingen, in aanmerking komen om inzage te nemen of te krijgen van feiten, inlichtingen, kennis, documenten of voorwerpen die geheim moeten worden gehouden krachtens de door een Lid-Staat of een instelling van de Gemeenschap getroffen voorzieningen, zijn verplicht deze zelfs na afloop van die functies of betrekkingen geheim te houden voor elke onbevoegde persoon alsook voor het publiek.
 
@@ -1504,11 +1526,11 @@ Ten einde de geleidelijke invoering van een zo eenvormig en zo ruim mogelijke be
 
 5. De bepalingen van dit artikel vormen geen beletsel voor de toepassing van de bijzondere bepalingen voortvloeiende uit akkoorden tussen een Lid-Staat en een derde Staat of een internationale organisatie.
 
-#### Artikel 195
+##### Artikel 195
 
 De instellingen van de Gemeenschap alsook het Agentschap en de Gemeenschappelijke Ondernemingen moeten bij de toepassing van dit Verdrag de voorwaarden in acht nemen welke in de nationale regelingen om redenen van openbare orde of volksgezondheid gesteld zijn voor de toegang tot de ertsen, grondstoffen en bijzondere splijtstoffen.
 
-#### Artikel 196
+##### Artikel 196
 
 Voor de toepassing van dit Verdrag en voor zover hierin niet anders is bepaald, wordt verstaan onder:
 
@@ -1516,7 +1538,7 @@ Voor de toepassing van dit Verdrag en voor zover hierin niet anders is bepaald, 
 
 - b). **„onderneming”:** iedere onderneming of instelling welke haar werkzaamheden geheel of gedeeltelijk uitoefent onder dezelfde voorwaarden als bedoeld onder **a)**, ongeacht haar publiek- of privaatrechtelijke positie.
 
-#### Artikel 197
+##### Artikel 197
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -1528,7 +1550,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - 4. **„ertsen”:** elk erts dat een door de Raad met gekwalificeerde meerderheid van stemmen op voorstel van de Commissie vast te stellen gemiddeld gehalte aan bestanddelen bevat, die het mogelijk maken om door doelmatige scheikundige en natuurkundige behandeling grondstoffen te verkrijgen als hierboven zijn omschreven.
 
-#### Artikel 198
+##### Artikel 198
 
 Voor zover in het Verdrag niet anders is bepaald, zijn de bepalingen van dit Verdrag van toepassing op de Europese grondgebieden van de Lid-Staten en op de niet-Europese grondgebieden welke onder hun rechtsmacht vallen.
 
@@ -1546,37 +1568,37 @@ In afwijking van de voorgaande alinea's:
 
 - d). Zijn de bepalingen van dit Verdrag op de Kanaaleilanden en op het eiland Man slechts van toepassing voor zover noodzakelijk ter verzekering van de toepassing van de regeling die voor deze eilanden is vastgesteld in het op 22 januari 1972 ondertekende Verdrag betreffende de toetreding van nieuwe Lid-Staten tot de Europese Economische Gemeenschap en de Europese Gemeenschap voor Atoomenergie.
 
-#### Artikel 199
+##### Artikel 199
 
 De Commissie is belast met de zorg voor alle dienstige betrekkingen met de organen van de Verenigde Naties, van hun gespecialiseerde organisaties en van de Wereldhandelsorganisatie.
 
 Zij onderhoudt bovendien de wenselijk geachte betrekkingen met alle internationale organisaties.
 
-#### Artikel 200
+##### Artikel 200
 
 De Gemeenschap brengt elke dienstige samenwerking tot stand met de Raad van Europa.
 
-#### Artikel 201
+##### Artikel 201
 
 De Gemeenschap brengt met de Organisatie voor Economische Samenwerking en Ontwikkeling een nauwe samenwerking tot stand welke zal plaatsvinden op de wijze die in onderlinge overeenstemming wordt vastgesteld.
 
-#### Artikel 202
+##### Artikel 202
 
 De bepalingen van dit Verdrag vormen geen beletsel voor het bestaan en de voltooiing van de regionale unies tussen België en Luxemburg alsmede tussen België, Luxemburg en Nederland, voor zover de doelstellingen van die regionale unies niet bereikt zijn door toepassing van dit Verdrag.
 
-#### Artikel 203
+##### Artikel 203
 
 Indien een optreden van de Gemeenschap noodzakelijk blijkt ter verwezenlijking van een der doelstellingen van de Gemeenschap zonder dat dit Verdrag in de daartoe vereiste bevoegdheden voorziet, neemt de Raad met eenparigheid van stemmen op voorstel van de Commissie en na raadpleging van het Europees Parlement, de passende maatregelen.
 
-#### Artikel 204
+##### Artikel 204
 
 Vervallen
 
-#### Artikel 205
+##### Artikel 205
 
 Vervallen
 
-#### Artikel 206
+##### Artikel 206
 
 De Gemeenschap kan met een of meer staten of internationale organisaties overeenkomsten sluiten waarbij een associatie wordt ingesteld die wordt gekenmerkt door wederkerige rechten en verplichtingen, gemeenschappelijk optreden en bijzondere procedures.
 
@@ -1584,11 +1606,11 @@ Die overeenkomsten worden gesloten door de Raad krachtens een na raadpleging van
 
 Wanneer die overeenkomsten wijzigingen van dit Verdrag vergen, moeten die wijzigingen vooraf volgens de procedure van [artikel 48, leden 2 tot en met 5, van het Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=48) worden aangenomen.
 
-#### Artikel 207
+##### Artikel 207
 
 De protocollen die, in onderlinge overeenstemming tussen de Lid-Staten, aan dit Verdrag worden gehecht, maken een integrerend deel daarvan uit.
 
-#### Artikel 208
+##### Artikel 208
 
 Dit Verdrag wordt voor onbeperkte tijd gesloten.
 
@@ -1596,79 +1618,79 @@ Dit Verdrag wordt voor onbeperkte tijd gesloten.
 
 ### Afdeling I. - Oprichting van de instellingen
 
-#### Artikel 209
+##### Artikel 209
 
 Vervallen
 
-#### Artikel 210
+##### Artikel 210
 
 Vervallen
 
-#### Artikel 211
+##### Artikel 211
 
 Vervallen
 
-#### Artikel 212
+##### Artikel 212
 
 Vervallen
 
-#### Artikel 213
+##### Artikel 213
 
 Vervallen
 
-#### Artikel 214
+##### Artikel 214
 
 Vervallen
 
 ### Afdeling II. - Bepalingen voor de eerste toepassing van het Verdrag
 
-#### Artikel 215
+##### Artikel 215
 
 Vervallen
 
-#### Artikel 216
+##### Artikel 216
 
 Vervallen
 
-#### Artikel 217
+##### Artikel 217
 
 Vervallen
 
-#### Artikel 218
+##### Artikel 218
 
 Vervallen
 
-#### Artikel 219
+##### Artikel 219
 
 Vervallen
 
-#### Artikel 220
+##### Artikel 220
 
 Vervallen
 
 ### Afdeling III. - Overgangsbepalingen
 
-#### Artikel 221
+##### Artikel 221
 
 Vervallen
 
-#### Artikel 222
+##### Artikel 222
 
 Vervallen
 
-#### Artikel 223
+##### Artikel 223
 
 Vervallen
 
 ### SLOTBEPALINGEN
 
-#### Artikel 224
+##### Artikel 224
 
 Dit Verdrag zal door de Hoge Verdragsluitende Partijen worden bekrachtigd overeenkomstig hun onderscheidene grondwettelijke bepalingen. De akten van bekrachtiging zullen worden nedergelegd bij de Regering van de Italiaanse Republiek.
 
 Dit Verdrag treedt in werking op de eerste dag van de maand die volgt op het nederleggen van de akte van bekrachtiging door de ondertekenende Staat die als laatste deze handeling verricht. Indien deze nederlegging echter minder dan vijftien dagen vóór het begin van de eerstvolgende maand plaatsvindt wordt de inwerkingtreding van het Verdrag verschoven naar de eerste dag van de tweede maand volgende op die nederlegging.
 
-#### Artikel 225
+##### Artikel 225
 
 Dit Verdrag, opgesteld in één exemplaar, in de Duitse, de Franse, de Italiaanse en de Nederlandse taal, zijnde de vier teksten gelijkelijk authentiek, zal worden nedergelegd in het archief van de Regering van de Italiaanse Republiek, die een voor eensluidend gewaarmerkt afschrift daarvan toezendt aan de Regeringen der andere ondertekenende Staten.
 
@@ -1678,7 +1700,7 @@ TEN BLIJKE WAARVAN de ondergetekende gevolmachtigden hun handtekening onder dit 
 
 Gedaan te Rome, de vijfentwintigste maart negentienhonderd zevenenvijftig.
 
-#### Artikel 106 bis
+##### Artikel 106 bis
 
 1. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=7), de [artikelen 13 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=13), [artikel 48, leden 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=48), en de [artikelen 49 en 50 van het Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=49), [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=15), de [artikelen 223 tot en met 236](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=223), de [artikelen 237 tot en met 244](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=237), [artikel 245](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=245), de [artikelen 246 tot en met 270](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=246), de [artikelen 272, 273 en 274](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=272), de [artikelen 277 tot en met 281](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=277), de [artikelen 285 tot en met 304](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=285), de [artikelen 310 tot en met 320](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=310), de [artikelen 322 tot en met 325](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=322) en de [artikelen 336](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=336), [342](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=342) en [344 van het Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=344), alsmede het Protocol betreffende de overgangsbepalingen, zijn van toepassing op dit Verdrag.
 

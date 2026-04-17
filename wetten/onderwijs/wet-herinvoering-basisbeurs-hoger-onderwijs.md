@@ -1,14 +1,41 @@
 ---
-title: "Wet herinvoering basisbeurs hoger onderwijs"
+title: "Wet van 6 juni 2023, houdende wijziging van onder meer de Wet studiefinanciering 2000 in verband met de herinvoering van de basisbeurs in het hoger onderwijs, de verstrekking van een tegemoetkoming aan studenten die onder het studievoorschotstelsel hebben gestudeerd en de verruiming van de 1-februariregeling voor ho-studenten die zijn doorgestroomd vanuit het mbo (Wet herinvoering basisbeurs hoger onderwijs)"
 identifier: "BWBR0048256"
-categorie: "Onderwijs"
-publicatiedatum: 2024-07-18
-laatste_update: 2024-07-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048256"
+country: "nl"
+rank: "wet"
+publication_date: "2024-07-18"
+last_updated: "2024-07-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048256"
+soort: "wet"
+stam_id: "16767343"
+version_id: "29447752"
+internal_id: "C42114461"
+label_id: "16682714"
+dtd_version: "2.0"
+original_entry_into_force: "2023-06-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048256/2024-07-18/0"
+intitule_bron: "Stb.2023-186"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-06-06"
+intitule_published: "2023-06-08"
+intitule_in_force: "2023-06-08"
+intitule_status: "goed"
+original_publication: "Stb.2023-186"
+original_signed_date: "2023-06-06"
+original_published_date: "2023-06-08"
+original_effect: "nieuwe-regeling"
+original_dossier: "36229"
+original_url_id: "stb-2023-186"
+entry_into_force_date: "2023-06-09"
+jci_1_3: "jci1.3:c:BWBR0048256&z=2024-07-18&g=2024-07-18"
+jci_1_0: "1.0:c:BWBR0048256&g=2024-07-18"
+citeertitel_status: "officieel"
+short_title: "Wet herinvoering basisbeurs hoger onderwijs"
+signed_date: "2023-06-06"
+entry_into_force: "2023-06-09"
 ---
-
-# Wet herinvoering basisbeurs hoger onderwijs
+# Wet van 6 juni 2023, houdende wijziging van onder meer de Wet studiefinanciering 2000 in verband met de herinvoering van de basisbeurs in het hoger onderwijs, de verstrekking van een tegemoetkoming aan studenten die onder het studievoorschotstelsel hebben gestudeerd en de verruiming van de 1-februariregeling voor ho-studenten die zijn doorgestroomd vanuit het mbo (Wet herinvoering basisbeurs hoger onderwijs)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,27 +43,27 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is te komen tot een and
 
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I. Wijziging [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453)
+##### Artikel I. Wijziging [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453)
 
 Wijzigt de Wet studiefinanciering 2000.
 
-#### Artikel II. Wijziging [Wet tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012438)
+##### Artikel II. Wijziging [Wet tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012438)
 
 Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.
 
-#### Artikel III. Wijziging [Wet register onderwijsdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0042012)
+##### Artikel III. Wijziging [Wet register onderwijsdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0042012)
 
 Wijzigt de Wet register onderwijsdeelnemers.
 
-#### Artikel IV. Wijziging [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682)
+##### Artikel IV. Wijziging [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682)
 
 Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
 
-#### Artikel V. Inwerkingtreding
+##### Artikel V. Inwerkingtreding
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. In dat besluit kan worden bepaald dat [artikel I, onderdeel Y](https://wetten.overheid.nl/jci1.3:c:BWBR0048256&artikel=I&z=2024-07-18&g=2024-07-18), voor zover het betreft [artikel 12.30, derde en zesde lid, van de Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=12.30), terugwerkt tot en met 1 september 2023.
 
-#### Artikel VI. Citeertitel
+##### Artikel VI. Citeertitel
 
 Deze wet wordt aangehaald als: Wet herinvoering basisbeurs hoger onderwijs.
 

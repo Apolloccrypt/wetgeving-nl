@@ -1,16 +1,41 @@
 ---
 title: "Besluit bevoegdheid verloskundigen BES"
 identifier: "BWBR0028370"
-categorie: "Overig"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028370"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028370"
+soort: "AMvB-BES"
+stam_id: "10761913"
+version_id: "17737342"
+internal_id: "C24792571"
+label_id: "10736604"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028370/2010-10-10/0"
+intitule_bron: "Stb.2010-649"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-16"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-649"
+original_signed_date: "2010-09-16"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-649"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028370&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028370&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-16"
+entry_into_force: "2010-10-10"
 ---
-
 # Besluit bevoegdheid verloskundigen BES
 
-#### Artikel 1
+##### Artikel 1
 
 1. Tot de uitoefening van de praktijk als verloskundige zijn bevoegd:
 
@@ -24,25 +49,25 @@ bron: "https://wetten.overheid.nl/BWBR0028370"
 
 2. Dit besluit berust op [artikel 18.4.4 van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=18.4.4).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Onze Minister kan zich voor het afgeven van de in [artikel 1, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0028370&artikel=1&z=2010-10-10&g=2010-10-10), bedoelde verklaring laten adviseren door een bij ministeriële regeling aangewezen commissie.
 
 2. Bij de aanvrage bedoeld in [artikel 1, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0028370&artikel=1&z=2010-10-10&g=2010-10-10), worden de bij ministeriële regeling aangewezen gegevens overgelegd.
 
-#### Artikel 3
+##### Artikel 3
 
 [vervallen]
 
-#### Artikel 4
+##### Artikel 4
 
 [vervallen]
 
-#### Artikel 5
+##### Artikel 5
 
 [vervallen]
 
-#### Artikel 6
+##### Artikel 6
 
 Het is aan een verloskundige als in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028370&artikel=1&z=2010-10-10&g=2010-10-10) bedoeld, verboden de praktijk als verloskundige uit te oefenen alvorens:
 
@@ -50,7 +75,7 @@ Het is aan een verloskundige als in [artikel 1](https://wetten.overheid.nl/jci1.
 
 - 2°. in handen van den betrokken gezaghebber den volgende eed (belofte) te hebben afgelegd: «Ik zweer (beloof), dat ik de verloskunst volgens de daar op wettelijk vastgestelde bepalingen naar mijn beste weten en vermogen zal uitoefenen en dat ik aan niemand zal openbaren wat in die uitoefening als geheim mij is toevertrouwd of te mijner kennis is gekomen, tenzij mijne verklaring als getuige of deskundige in rechten of ik anderszins tot het geven van mededeeling door een algemeene verordening verplicht worde. Zoo waarlijk helpe mij God Almachtig! (Dat beloof ik)».
 
-#### Artikel 7
+##### Artikel 7
 
 De verloskundigen zijn bevoegd:
 
@@ -62,17 +87,17 @@ De verloskundigen zijn bevoegd:
 
 Zoodra de verloskundige bemerkt, dat het verrichten van eenige verloskundige kunstbewerking noodig is of zal worden, draagt zij zorg, dat ten spoedigste de hulp van een geneeskundige wordt ingeroepen.
 
-#### Artikel 8
+##### Artikel 8
 
 Zoodra de verloskundige bemerkt, dat in verband met de baring het toedienen van eenig geneesmiddel noodig is of zal worden, draagt zij zorg, dat ten spoedigste de hulp van een geneeskundige wordt ingeroepen. Indien een geneeskundige niet aanwezig is op een tijdstip waarop de toediening van één van de bij ministeriële regeling aan te wijzen geneesmiddelen moet plaats vinden, gaat de verloskundige zelve tot de toediening van het geneesmiddel over.
 
-#### Artikel 9
+##### Artikel 9
 
 De verloskundigen zijn bevoegd de kraamvrouwen gedurende tien dagen of zooveel langer als voor het herstel noodig is te behandelen.
 
 Bij de waarneming van afwijkingen zijn zij verplicht de hulp van een geneeskundige in te roepen.
 
-#### Artikel 9a
+##### Artikel 9a
 
 De verloskundige, die na 23 juli 1951 in Nederland een geldig diploma als zodanig heeft behaald, of die een aantekening op haar diploma heeft gekregen ingevolge de Beschikking van de Staatssecretaris van Sociale Zaken van 12 juli 1951, Afdeling Volksgezondheid 1, No. 13150 (Ned. Stcrt. 1951, nr. 135), bezit naast de bevoegdheid tot het verrichten van de handelingen als in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028370&artikel=7&z=2010-10-10&g=2010-10-10), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0028370&artikel=8&z=2010-10-10&g=2010-10-10) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0028370&artikel=9&z=2010-10-10&g=2010-10-10) van dit besluit bedoeld, daarenboven nog de bevoegdheid tot:
 
@@ -80,21 +105,21 @@ De verloskundige, die na 23 juli 1951 in Nederland een geldig diploma als zodani
 
 - b. het hechten van inscheuringen van beperkte omvang volgens bij ministeriele regeling vast te stellen regels;
 
-#### Artikel 10
+##### Artikel 10
 
 De verloskundigen geven een door Onze Minister aangewezen ambtenaar. alle door hen verlangde inlichtingen in den vorm en binnen den tijd, door hen vastgesteld.
 
 Van al hare verrichtingen houden zij een dagboek aan, waarvan de inrichting door een door Onze Minister aangewezen ambtenaar wordt vastgesteld.
 
-#### Artikel 11
+##### Artikel 11
 
 Overtreding van enige bepaling van dit besluit wordt gestraft met een geldboete van ten hoogste de eerste categorie.
 
-#### Artikel 12
+##### Artikel 12
 
 Degene die tot het moment van inwerkingtreding van dit besluit op grond van de tot dan toe geldende wet- en regelgeving beschikte over de bevoegdheid de verloskundige praktijk uit te oefenen en die niet voldoet aan de eisen genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028370&artikel=1&z=2010-10-10&g=2010-10-10) van dit besluit, mag na de inwerkingtreding van dit besluit, tot een bij ministeriële regeling nader te bepalen datum, de verloskundige praktijk blijven uitoefenen.
 
-#### Artikel 13
+##### Artikel 13
 
 Dit besluit wordt aangehaald als: Besluit bevoegdheid verloskundigen BES.
 

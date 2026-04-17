@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst inzake economische samenwerking tussen de Regering van het Koninkrijk der Nederlanden en de Regering van het Koninkrijk Marokko"
 identifier: "BWBV0003596"
-categorie: "Internationaal recht"
-publicatiedatum: 1978-07-27
-laatste_update: 1978-07-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003596"
+country: "nl"
+rank: "verdrag"
+publication_date: "1978-07-27"
+last_updated: "1978-07-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003596"
+soort: "verdrag"
+stam_id: "10003599373"
+version_id: "10003659072"
+internal_id: "C10006983711"
+label_id: "10003585124"
+dtd_version: "2.0"
+original_entry_into_force: "1978-07-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003596/1978-07-27/0"
+intitule_bron: "Trb.1972-14"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1972-02-07"
+intitule_in_force: "1978-07-20"
+intitule_status: "goed"
+original_publication: "Trb.1972-14"
+original_published_date: "1972-02-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1972-14"
+entry_into_force_date: "1978-07-27"
+jci_1_3: "jci1.3:c:BWBV0003596&z=1978-07-27&g=1978-07-27"
+jci_1_0: "1.0:c:BWBV0003596&g=1978-07-27"
+citeertitel_status: "redactioneel"
+entry_into_force: "1978-07-27"
 ---
-
 # Overeenkomst inzake economische samenwerking tussen de Regering van het Koninkrijk der Nederlanden en de Regering van het Koninkrijk Marokko
 
 De Regering van het Koninkrijk der Nederlanden en de Regering van het Koninkrijk Marokko,
@@ -20,7 +42,7 @@ Voor voorlopige toepassing zie ook Trb. 1973/11 en Trb. 1974/8.
 
 Voor voorlopige toepassing zie ook Trb. 1973/11 en Trb. 1974/8.
 
-#### Artikel I
+##### Artikel I
 
 Voor de toepassing van deze Overeenkomst:
 
@@ -40,25 +62,25 @@ Voor de toepassing van deze Overeenkomst:
 
 - v). publiekrechtelijke commerciële concessies, waaronder concessies betreffende het zoeken naar, of de winning van, natuurlijke rijkdommen.
 
-#### Artikel II
+##### Artikel II
 
 (1). De Overeenkomstsluitende Partijen verbinden zich hun samenwerking op economisch gebied te bevorderen.
 
 (2). De Overeenkomstsluitende Partijen werken samen teneinde de deelneming van hun beider onderdanen aan werkzaamheden in de produktieve en de dienstverlenende sector te vergemakkelijken.
 
-#### Artikel III
+##### Artikel III
 
 (1). Teneinde de verwezenlijking van de in de onderhavige Overeenkomst voorziene doeleinden te bevorderen, geven de Overeenkomstsluitende Partijen, binnen de grenzen hunner wetgeving, hun onderdanen vergunning tot de aanvaarding van betalingen in termijnen wegens de levering van kapitaalgoederen aan Overheids- en particuliere ondernemingen van het andere land, alsook wegens de uitvoering van openbare werken voor die ondernemingen.
 
 (2). Elke Overeenkomstsluitende Partij waarborgt overeenkomstig haar wetgeving de overmaking van opeisbare bedragen welke verschuldigd zijn aan de crediteuren die onderdanen van de andere Overeenkomstsluitende Partij zijn.
 
-#### Artikel IV
+##### Artikel IV
 
 (1). De Overeenkomstsluitende Partijen vergemakkelijken de versterking van de handelsbetrekkingen tussen hun landen teneinde deze op een zo hoog mogelijk niveau te brengen.
 
 (2). In het kader en binnen de grenzen van hun nationale wetgeving en met het oog op de ontwikkeling van hun hulpbronnen, begunstigen zij de samenwerking tussen de vennootschappen, verenigingen, stichtingen en andere organisaties welke verband houden met het economische leven, alsook de samenwerking tussen al hun onderscheiden onderdanen die economische werkzaamheden uitoefenen.
 
-#### Artikel V
+##### Artikel V
 
 (1). De Overeenkomstsluitende Partijen bevestigen opnieuw de waarde welke zij toekennen aan het beginsel van de vrijheid der koopvaardij en komen overeen zich van alle discriminatoire handelingen op dit gebied te onthouden.
 
@@ -78,17 +100,17 @@ Voor de toepassing van deze Overeenkomst:
 
 - b). wordt onder de term „bemanning” verstaan de kapitein van het schip en elke persoon die gedurende de reis aan boord van het schip belast is met de uitoefening van een functie welke verband houdt met het in de vaart zijn van het schip of met deszelfs onderhoud en die vermeld is op de monsterrol.
 
-#### Artikel VI
+##### Artikel VI
 
 (1). Wat betreft de invordering van belastingen, rechten of heffingen, alsmede de toekenning van fiscale aftrekposten en vrijstellingen, kent elke Overeenkomstsluitende Partij binnen haar grondgebied aan onderdanen van de andere Overeenkomstsluitende Partij die economische werkzaamheden verrichten de behandeling toe, welke zij toekent hetzij aan haar eigen onderdanen, hetzij aan onderdanen van derde Staten, indien deze laatste behandeling voor de betrokkene gunstiger is.
 
 (2). Elke Overeenkomstsluitende Partij is vrij uit hoofde van internationale overeenkomsten ter voorkoming van dubbele belastingheffing bijzondere fiscale voordelen toe te kennen.
 
-#### Artikel VII
+##### Artikel VII
 
 Onderdanen van elke Overeenkomstsluitende Partij genieten, wat betreft de bescherming van de industriële eigendom, binnen het grondgebied van de andere Overeenkomstsluitende Partij een bescherming welke niet minder gunstig is dan die welke onderdanen van die andere Overeenkomstsluitende Partij genieten, zonder dat hierdoor inbreuk wordt gemaakt op de rechten welke voortvloeien uit internationale overeenkomsten welke op het gebied van de industriële eigendom zijn gesloten en voor de Overeenkomstsluitende Partijen verbindend zijn.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Elke Overeenkomstsluitende Partij verbindt zich, overeenkomstig haar van kracht zijnde wetgeving en haar internationale formele verbintenissen, ten opzichte van de andere Overeenkomstsluitende Partij te vergemakkelijken:
 
@@ -96,13 +118,13 @@ Elke Overeenkomstsluitende Partij verbindt zich, overeenkomstig haar van kracht 
 
 - b). de invoer op haar grondgebied en de wederuitvoer van beroepsmateriaal en van materialen en uitrustingsstukken, welke bestemd zijn om bij technische werkzaamheden voor Overheidsinstellingen en particuliere ondernemingen te worden gebruikt.
 
-#### Artikel IX
+##### Artikel IX
 
 (1). Elke Overeenkomstsluitende Partij waarborgt de rechtvaardige en billijke behandeling van de investeringen van onderdanen van de andere Overeenkomstsluitende Partij en belemmert niet, door ongerechtvaardigde of discriminatoire maatregelen, het beheer, de instandhouding, het gebruik, het genot of de liquidatie daarvan.
 
 (2). Meer inzonderheid verleent elke Overeenkomstsluitende Partij aan die investeringen dezelfde beveiliging en bescherming als die welke zij verleent hetzij aan investeringen van haar eigen onderdanen hetzij aan investeringen van derde Staten1)[Red: Lees: „hetzij aan investeringen van onderdanen van derde Staten”.], indien deze laatste behandeling voor de investeerder gunstiger is.
 
-#### Artikel X
+##### Artikel X
 
 Ten aanzien van de binnen het grondgebied van één der Overeenkomstsluitende Partijen onder de voorwaarden van derzelver wetgeving door een onderdaan van de andere Overeenkomstsluitende Partij gedane investeringen, verbindt die eerste Overeenkomstsluitende Partij zich om, overeenkomstig de bijzondere voorwaarden van de op haar grondgebied ten tijde van de goedkeuring van de betrokken investering van kracht zijnde wetgeving of overeenkomstig een latere gunstiger wetgeving en binnen de normaal voor de vervulling van de noodzakelijke formaliteiten vereiste termijnen, de overmaking, naar het land van de andere Overeenkomstsluitende Partij en in de munteenheid waarin de oorspronkelijke investering is gedaan, met name toe te staan van:
 
@@ -114,7 +136,7 @@ Ten aanzien van de binnen het grondgebied van één der Overeenkomstsluitende Pa
 
 - -. gelden voor de terugbetaling van leningen welke de Overeenkomstsluitende Partijen als investeringen hebben erkend.
 
-#### Artikel XI
+##### Artikel XI
 
 Geen der Overeenkomstsluitende Partijen kan maatregelen nemen om onderdanen van de andere Overeenkomstsluitende Partij direct of indirect hun investeringen te ontnemen, tenzij wordt voldaan aan de volgende voorwaarden:
 
@@ -124,19 +146,19 @@ Geen der Overeenkomstsluitende Partijen kan maatregelen nemen om onderdanen van 
 
 - c). de maatregelen voorzien in de betaling van een rechtvaardige schadeloosstelling welke overeenkomt met de werkelijke waarde van de getroffen investering en welke, teneinde voor de daartoe gerechtigde onderdanen daadwerkelijk te zijn, binnen de normaal voor de vervulling van de noodzakelijke formaliteiten vereiste termijnen in dezelfde munteenheid als die waarin de oorspronkelijke investering is gedaan, zal worden uitgekeerd en transferabel gesteld.
 
-#### Artikel XII
+##### Artikel XII
 
 De Overeenkomstsluitende Partij binnen wier grondgebied een investering is gedaan ten aanzien waarvan de andere Overeenkomstsluitende Partij of één harer onderdanen enige financiële zekerheid tegen niet-commerciële risico's heeft gesteld, erkent de subrogatie van degene die deze zekerheid heeft gesteld in de rechten van de investeerder met betrekking tot schadevergoeding indien op grond van deze zekerheidstelling een betaling is gedaan, en ten belope van de som dier betaling.
 
-#### Artikel XIII
+##### Artikel XIII
 
 De Overeenkomstsluitende Partij binnen wier grondgebied een onderdaan van de andere Overeenkomstsluitende Partij een investering doet of voornemens is te doen, zal instemmen met elk voorstel van de zijde van die onderdaan om enig geschil dat zich terzake van die investering kan voordoen, ter bemiddeling of arbitrage voor te leggen aan het ingevolge het Verdrag van Washington van 18 maart 1965 opgerichte Internationaal Centrum voor Beslechting van Investeringsgeschillen.
 
-#### Artikel XIV
+##### Artikel XIV
 
 De onderhavige Overeenkomst is van toepassing op alle investeringen welke binnen het grondgebied van de ene Overeenkomstsluitende Partij onder de in derzelver wetgeving voorziene voorwaarden door onderdanen van de andere Overeenkomstsluitende Partij zijn gedaan.
 
-#### Artikel XV
+##### Artikel XV
 
 (1). De Overeenkomstsluitende Partijen stellen hiermede een Gemengde Commissie in, welke is samengesteld uit door hen benoemde vertegenwoordigers.
 
@@ -144,11 +166,11 @@ De onderhavige Overeenkomst is van toepassing op alle investeringen welke binnen
 
 (3). De Gemengde Commissie volgt daartoe de ontwikkeling van de economische betrekkingen tussen de beide landen zowel in bilateraal als in multilateraal verband. Daarnaast doet zij aanbevelingen aan de onderscheiden Regeringen in gevallen waarin het mogelijk zou zijn de doeleinden dezer Overeenkomst te bevorderen en een meerdere mate van economische samenwerking te bereiken.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wanneer een aangelegenheid tegelijk is geregeld bij de onderhavige Overeenkomst en bij een andere internationale overeenkomst welke voor de Overeenkomstsluitende Partijen verbindend is, doet geen enkele bepaling van de onderhavige Overeenkomst afbreuk aan het recht van een onderdaan van een Overeenkomstsluitende Partij om zich op de voor hem gunstigste bepalingen te beroepen.
 
-#### Artikel XVII
+##### Artikel XVII
 
 (1). Elk geschil tussen de Overeenkomstsluitende Partijen ter zake van de uitlegging of de toepassing van de onderhavige Overeenkomst dat niet op andere wijze kan worden geregeld, wordt, ten verzoeke van een der partijen bij het geschil, aan een uit drie leden bestaand scheidsgerecht voorgelegd. Elke partij wijst een scheidsman aan. De aldus aangewezen scheidsmannen benoemen een derde scheidsman, die geen onderdaan van een der partijen is.
 
@@ -164,11 +186,11 @@ Wanneer een aangelegenheid tegelijk is geregeld bij de onderhavige Overeenkomst 
 
 (7). Het scheidsgerecht doet zijn uitspraak bij meerderheid van stemmen. Deze uitspraak is onherroepelijk en bindend voor de partijen bij het geschil.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Wat het Koninkrijk der Nederlanden betreft, is de onderhavige Overeenkomst van toepassing op het in Europa gelegen grondgebied van het Koninkrijk, op Suriname en op de Nederlandse Antillen, tenzij de akte van bekrachtiging van het Koninkrijk der Nederlanden anders bepaalt.
 
-#### Artikel XIX
+##### Artikel XIX
 
 (1). De onderhavige Overeenkomst wordt bekrachtigd en de akten van bekrachtiging worden zo spoedig mogelijk te 's-Gravenhage uitgewisseld.
 

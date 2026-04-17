@@ -1,18 +1,40 @@
 ---
 title: "Overeenkomst inzake de culturele samenwerking tussen het Koninkrijk der Nederlanden en de Unie van Socialistische Sowjet-republieken"
 identifier: "BWBV0005025"
-categorie: "Internationaal recht"
-publicatiedatum: 1970-03-17
-laatste_update: 1970-03-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005025"
+country: "nl"
+rank: "verdrag"
+publication_date: "1970-03-17"
+last_updated: "1970-03-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005025"
+soort: "verdrag"
+stam_id: "10004437133"
+version_id: "10004643532"
+internal_id: "C10006997921"
+label_id: "10004421834"
+dtd_version: "2.0"
+original_entry_into_force: "1970-03-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005025/1970-03-17/0"
+intitule_bron: "Trb.1967-115"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1967-08-24"
+intitule_in_force: "1970-03-19"
+intitule_status: "goed"
+original_publication: "Trb.1967-115"
+original_published_date: "1967-08-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1967-115"
+entry_into_force_date: "1970-03-17"
+jci_1_3: "jci1.3:c:BWBV0005025&z=1970-03-17&g=1970-03-17"
+jci_1_0: "1.0:c:BWBV0005025&g=1970-03-17"
+citeertitel_status: "redactioneel"
+entry_into_force: "1970-03-17"
 ---
-
 # Overeenkomst inzake de culturele samenwerking tussen het Koninkrijk der Nederlanden en de Unie van Socialistische Sowjet-republieken
 
 De Regering van het Koninkrijk der Nederlanden en de Regering van de Unie van Socialistische Sowjet-republieken, de wens koesterend de ontwikkeling van de samenwerking tussen beide landen op het gebied van onderwijs, wetenschap en cultuur te bevorderen, ervan overtuigd dat deze samenwerking een beter wederzijds begrip tussen de volken van beide landen zal bevorderen, hebben besloten de onderhavige Overeenkomst te sluiten en zijn de volgende bepalingen overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 Teneinde de samenwerking tussen beide landen op het gebied van wetenschap, onderwijs en opvoeding te ontwikkelen zullen de Overeenkomstsluitende Partijen bevorderen:
 
@@ -34,7 +56,7 @@ Iedere Partij zal aan alle personen en delegaties die uit het andere land komen 
 
 De Partijen zullen studie maken van de voorwaarden op basis waarvan zij de gelijkwaardigheid zullen kunnen erkennen der diploma's en academische titels welke door de universiteiten en andere onderwijsinstellingen van elk der beide landen worden verstrekt of toegekend.
 
-#### Artikel 2
+##### Artikel 2
 
 Met het doel de betrekkingen op het gebied van cultuur en kunst te ontwikkelen zullen de Overeenkomstsluitende Partijen bevorderen:
 
@@ -60,7 +82,7 @@ Met het doel de betrekkingen op het gebied van cultuur en kunst te ontwikkelen z
 
 - k). het ontwikkelen van de uitwisseling op het gebied van de sport.
 
-#### Artikel 3
+##### Artikel 3
 
 Ter uitvoering van de onderhavige Overeenkomst hebben de Overeenkomstsluitende Partijen besloten een Gemengde Commissie op te richten, bestaande uit vijf vertegenwoordigers van elk der beide Partijen.
 
@@ -72,17 +94,17 @@ Het door de Gemengde Commissie voor een periode van twee jaar opgestelde program
 
 Het door de Gemengde Commissie opgestelde programma sluit het houden van manifestaties, welke niet in het programma zijn opgenomen doch waarop de onderhavige Overeenkomst betrekking heeft, niet uit.
 
-#### Artikel 4
+##### Artikel 4
 
 De Overeenkomstsluitende Partijen zijn van oordeel dat de in de onderhavige Overeenkomst voorziene uitwisselingen en andere vormen van samenwerking worden verwezenlijkt op basis van wederkerigheid en met inachtneming van de in elk der beide landen geldende wetten en regelen.
 
-#### Artikel 5
+##### Artikel 5
 
 De Overeenkomstsluitende Partijen zijn van inzicht dat door talrijke organisaties, welke zich in elk der beide landen bezighouden met maatschappelijke activiteiten, in de geest van deze Overeenkomst een nuttige bijdrage kan worden geleverd terzake van de culturele betrekkingen tussen het Koninkrijk der Nederlanden en de Sowjet-Unie.
 
 Genoemde organisaties zullen kwesties, hun onderlinge culturele contacten betreffende, zelf regelen.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze Overeenkomst, welke wat het Koninkrijk der Nederlanden betreft zal gelden voor het Rijk in Europa, zal worden bekrachtigd.
 
@@ -90,7 +112,7 @@ De akten van bekrachtiging zullen zo spoedig mogelijk te Moskou worden uitgewiss
 
 De Overeenkomst zal in werking treden op de datum van de uitwisseling van de akten van bekrachtiging.
 
-#### Artikel 7
+##### Artikel 7
 
 De onderhavige Overeenkomst zal van kracht blijven voor een tijdvak van zes jaar. Indien zij niet zes maanden vóór de datum van beëindiging door een van beide Partijen is opgezegd, zal zij stilzwijgend worden verlengd, met dien verstande dat elk van de Overeenkomstsluitende Partijen zich in dat geval het recht voorbehoudt haar op ieder tijdstip op te zeggen met inachtneming van een termijn van zes maanden.
 

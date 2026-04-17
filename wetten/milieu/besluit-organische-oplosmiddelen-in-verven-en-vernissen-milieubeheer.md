@@ -1,13 +1,39 @@
 ---
-title: "Besluit organische oplosmiddelen in verven en vernissen milieubeheer"
+title: "Besluit van 28 november 2005, houdende regels met betrekking tot het gebruik van organische oplosmiddelen in verven en vernissen en producten voor het overspuiten van voertuigen en tot wijziging van het Oplosmiddelenbesluit omzetting EG-VOS-richtlijn milieubeheer (Besluit organische oplosmiddelen in verven en vernissen Wms)"
 identifier: "BWBR0019122"
-categorie: "Milieu"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019122"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019122"
+soort: "AMvB"
+stam_id: "7666883"
+version_id: "29341522"
+internal_id: "C41862611"
+label_id: "7654624"
+dtd_version: "2.0"
+original_entry_into_force: "2023-04-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019122/2024-01-01/0"
+intitule_bron: "Stb.2005-632"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-11-28"
+intitule_published: "2005-12-13"
+intitule_in_force: "2005-12-13"
+intitule_status: "goed"
+original_publication: "Stb.2023-124"
+original_signed_date: "2023-04-12"
+original_published_date: "2023-04-18"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2023-124"
+entry_into_force_date: "2023-04-12"
+jci_1_3: "jci1.3:c:BWBR0019122&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0019122&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit organische oplosmiddelen in verven en vernissen milieubeheer"
+signed_date: "2023-04-12"
+entry_into_force: "2023-04-12"
 ---
-
 # Besluit van 28 november 2005, houdende regels met betrekking tot het gebruik van organische oplosmiddelen in verven en vernissen en producten voor het overspuiten van voertuigen en tot wijziging van het Oplosmiddelenbesluit omzetting EG-VOS-richtlijn milieubeheer (Besluit organische oplosmiddelen in verven en vernissen Wms)
 
 Op de voordracht van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 23 september 2005, nr. DJZ2005181912, Directie Juridische Zaken, Afdeling Wetgeving, gedaan mede namens de Staatssecretaris van Sociale Zaken en Werkgelegenheid en Onze Minister van Volksgezondheid, Welzijn en Sport;
@@ -20,7 +46,7 @@ Gezien het nader rapport van de Staatssecretaris van Volkshuisvesting, Ruimtelij
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -40,7 +66,7 @@ In dit besluit wordt verstaan onder:
 
 - g. op de markt aanbieden: op de markt aanbieden als bedoeld in artikel 3, onderdeel 1, van de EU-verordening markttoezicht.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het is verboden de producten, genoemd in de bij [richtlijn 2004/42](32004L0042) behorende bijlage I na de data, genoemd in de bij die richtlijn behorende bijlage II, in Nederland in te voeren of aan een ander ter beschikking te stellen, indien zij een VOS-gehalte hebben dat de grenswaarde, genoemd in die bijlage II, te boven gaat.
 
@@ -52,43 +78,43 @@ In dit besluit wordt verstaan onder:
 
 3. Het eerste lid is van overeenkomstige toepassing op de producten, genoemd in de bij [richtlijn 2004/42](32004L0042) behorende bijlage I, waaraan oplosmiddelen of andere bestanddelen die oplosmiddelen bevatten, worden toegevoegd om het product gebruiksklaar te maken.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het verbod, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019122&artikel=2&z=2024-01-01&g=2024-01-01), geldt niet voor producten die worden verhandeld om uitsluitend te worden gebruikt bij een activiteit die wordt verricht in een installatie die zich bevindt op een locatie waarop een milieubelastende activiteit die is aangewezen in [hoofdstuk 3 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=3) wordt verricht, voor zover zich op die locatie een installatie bevindt.
 
 2. Het verbod, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019122&artikel=2&z=2024-01-01&g=2024-01-01) geldt, tot de dag met ingang waarvan een jaar is verstreken na de data, genoemd in de bij [richtlijn 2004/42](32004L0042) behorende bijlage II, niet voor producten die niet voldoen aan de voorwaarden, bedoeld in artikel 2 en die kennelijk zijn geproduceerd vóór die data.
 
-#### Artikel 4
+##### Artikel 4
 
 De methoden, genoemd in de bij [richtlijn 2004/42](32004L0042) behorende bijlage III, worden gebruikt om vast te stellen of het VOS-gehalte van de producten, genoemd in de bij die richtlijn behorende bijlage I, voldoet aan de grenswaarden, genoemd in de bij die richtlijn behorende bijlage II.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een wijziging van [richtlijn 2004/42](32004L0042) gaat voor de toepassing van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019122&artikel=1&z=2024-01-01&g=2024-01-01) gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
 2. Een wijziging van een van de bijlagen bij [richtlijn 2004/42](32004L0042) gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
-#### Artikel 6
+##### Artikel 6
 
 Wijzigt het Oplosmiddelenbesluit omzetting EG-VOS-richtlijn milieubeheer.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit wordt aangehaald als: Besluit organische oplosmiddelen in verven en vernissen milieubeheer.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 6a
+##### Artikel 6a
 
 Dit besluit berust mede op de [artikelen 9.2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.2.1) en [9.2.3.2 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.3.2).
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 3a
+##### Artikel 3a
 
 1. Het is marktdeelnemers die betrokken zijn of zijn geweest bij het op de markt aanbieden van producten, bedoeld in artikel 2, verboden te handelen in strijd met artikel 7, eerste lid, van de EU-verordening markttoezicht.
 

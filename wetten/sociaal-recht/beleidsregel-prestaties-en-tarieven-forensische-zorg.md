@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregel ‘Prestaties en tarieven forensische zorg’"
 identifier: "BWBR0046056"
-categorie: "Sociaal recht"
-publicatiedatum: 2021-12-21
-laatste_update: 2021-12-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046056"
+country: "nl"
+rank: "zbo"
+publication_date: "2021-12-21"
+last_updated: "2021-12-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046056"
+soort: "zbo"
+stam_id: "16192593"
+version_id: "28260572"
+internal_id: "C39847021"
+label_id: "16121434"
+dtd_version: "2.0"
+original_entry_into_force: "2021-12-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046056/2021-12-21/0"
+intitule_bron: "Stcrt.2021-47396"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-09-21"
+intitule_published: "2021-12-20"
+intitule_in_force: "2021-12-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-47396"
+original_signed_date: "2021-09-21"
+original_published_date: "2021-12-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-47396"
+entry_into_force_date: "2021-12-21"
+jci_1_3: "jci1.3:c:BWBR0046056&z=2021-12-21&g=2021-12-21"
+jci_1_0: "1.0:c:BWBR0046056&g=2021-12-21"
+citeertitel_status: "officieel"
+signed_date: "2021-09-21"
+entry_into_force: "2021-12-21"
 ---
-
 # Beleidsregel ‘Prestaties en tarieven forensische zorg’
 
 Gelet op [artikel 57 eerste lid onderdeel b en c, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) (Wmg) juncto [artikel 6 van het Besluit uitbreiding en beperking werkingssfeer Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020326&artikel=6) (Bub Wmg), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot het uitoefenen van de bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen.

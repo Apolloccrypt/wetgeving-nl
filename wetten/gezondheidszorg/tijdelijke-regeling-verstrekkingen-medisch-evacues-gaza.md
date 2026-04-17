@@ -1,20 +1,46 @@
 ---
-title: "Tijdelijke regeling verstrekkingen medisch evacués Gaza"
+title: "HERDRUK Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 3 november 2025, nr. 2025-0000243803, tot het tijdelijk doen van verstrekkingen aan personen in verband met een medische evacuatie uit Gaza (Tijdelijke regeling verstrekkingen medisch evacués Gaza) [KetenID WGK028395]"
 identifier: "BWBR0051700"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2025-11-06
-laatste_update: 2025-11-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051700"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-11-06"
+last_updated: "2025-11-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051700"
+soort: "ministeriele-regeling"
+stam_id: "17582273"
+version_id: "31042772"
+internal_id: "C44450461"
+label_id: "17483164"
+dtd_version: "2.0"
+original_entry_into_force: "2025-11-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051700/2025-11-06/0"
+intitule_bron: "Stcrt.2025-37907-n1"
+intitule_effect: "wijziging"
+intitule_signed: "2025-11-03"
+intitule_published: "2025-11-05"
+intitule_in_force: "2025-11-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-37907-n1"
+original_signed_date: "2025-11-03"
+original_published_date: "2025-11-05"
+original_effect: "wijziging"
+original_url_id: "stcrt-2025-37907-n1"
+entry_into_force_date: "2025-11-06"
+jci_1_3: "jci1.3:c:BWBR0051700&z=2025-11-06&g=2025-11-06"
+jci_1_0: "1.0:c:BWBR0051700&g=2025-11-06"
+citeertitel_status: "officieel"
+short_title: "Tijdelijke regeling verstrekkingen medisch evacués Gaza"
+signed_date: "2025-11-03"
+entry_into_force: "2025-11-06"
 ---
-
 # HERDRUK Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 3 november 2025, nr. 2025-0000243803, tot het tijdelijk doen van verstrekkingen aan personen in verband met een medische evacuatie uit Gaza (Tijdelijke regeling verstrekkingen medisch evacués Gaza) [KetenID WGK028395]
 
 Gelet op de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=3), en [9 van de Kaderwet SZW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=9);
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -30,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 - –. **minister:** de Minister van Sociale Zaken en Werkgelegenheid.
 
-#### Artikel 2. Verstrekkingen
+##### Artikel 2. Verstrekkingen
 
 1. De medisch geëvacueerde en een begeleider van die geëvacueerde hebben gedurende hun tijdelijk verblijf in Nederland recht op de volgende verstrekkingen:
 
@@ -44,7 +70,7 @@ In deze regeling wordt verstaan onder:
 
 - b. een verzekering tegen de financiële gevolgen van wettelijke aansprakelijkheid voor zover deze kosten niet uit hoofde van een andere verzekering worden vergoed.
 
-#### Artikel 3. Aanvraag
+##### Artikel 3. Aanvraag
 
 1. De minister stelt het recht op de verstrekkingen, bedoeld in [artikel |2, eerste lid, en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=2&z=2025-11-06&g=2025-11-06), op aanvraag vast.
 
@@ -52,13 +78,13 @@ In deze regeling wordt verstaan onder:
 
 3. Een aanvraag wordt bij de SVB ingediend door middel van een door de SVB beschikbaar gesteld aanvraagformulier.
 
-#### Artikel 4. Onthouden verstrekkingen
+##### Artikel 4. Onthouden verstrekkingen
 
 1. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=2&z=2025-11-06&g=2025-11-06) bedoelde verstrekkingen kunnen geheel of gedeeltelijk aan een medisch geëvacueerde en diens begeleider worden onthouden, indien zij niet desgevraagd de gegevens verstrekken die nodig zijn voor het vaststellen van het recht op verstrekkingen. Daartoe behoren in ieder geval gegevens die noodzakelijk zijn voor het vaststellen van de naam, de geboortedatum, de nationaliteit, het land van herkomst, en de aanwezige verzekering voor wettelijke aansprakelijkheid.
 
 2. De minister kan een verstrekking als bedoeld in [artikel 2, eerste lid, en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=2&z=2025-11-06&g=2025-11-06), geheel of gedeeltelijk weigeren, indien blijkt dat de medisch geëvacueerde en begeleider hier te lande redelijkerwijs over voldoende middelen kunnen beschikken om geheel of gedeeltelijk in de kosten van die verstrekking te voorzien.
 
-#### Artikel 5. Beëindiging verstrekkingen
+##### Artikel 5. Beëindiging verstrekkingen
 
 1. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=2&z=2025-11-06&g=2025-11-06) bedoelde verstrekkingen eindigen in ieder geval met ingang van de dag waarop de begunstigde:
 
@@ -70,7 +96,7 @@ In deze regeling wordt verstaan onder:
 
 2. De minister kan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=2&z=2025-11-06&g=2025-11-06) bedoelde verstrekkingen beëindigen indien, naar diens oordeel, blijkt dat een medisch geëvacueerde of diens begeleider in strijd met de waarheid gegevens heeft verstrekt of verzwegen waardoor hij ten onrechte, of tot een te hoog bedrag, verstrekkingen heeft verkregen.
 
-#### Artikel 6. Hoogte en betaling eenmalige en wekelijkse verstrekkingen
+##### Artikel 6. Hoogte en betaling eenmalige en wekelijkse verstrekkingen
 
 1. De hoogte van de in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=2&z=2025-11-06&g=2025-11-06), bedoelde eenmalige tegemoetkoming voor de aanloopkosten bedraagt: € 70 per persoon.
 
@@ -84,7 +110,7 @@ In deze regeling wordt verstaan onder:
 
 4. De verstrekkingen, bedoeld in [artikel 2, eerste lid, en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=2&z=2025-11-06&g=2025-11-06), worden uitbetaald aan de meerderjarige begeleider.
 
-#### Artikel 7. Buitengewone kosten
+##### Artikel 7. Buitengewone kosten
 
 1. Buitengewone kosten komen slechts voor vergoeding in aanmerking voor zover vooraf door de minister aan de medisch geëvacueerde en diens begeleider toestemming is verleend voor het maken van deze kosten, met uitzondering van kosten die voortvloeien uit noodsituaties waarin naar redelijkheid geen mogelijkheid bestond tot het verzoeken om toestemming.
 
@@ -92,17 +118,17 @@ In deze regeling wordt verstaan onder:
 
 3. Kosten die samenhangen met een door de medisch geëvacueerde of diens begeleider gepleegde onrechtmatige daad, gepleegd misdrijf of begane overtreding zijn in ieder geval geen buitengewone kosten.
 
-#### Artikel 8. Verzekeringen
+##### Artikel 8. Verzekeringen
 
 1. Het verzekeren tegen de financiële gevolgen van wettelijke aansprakelijkheid, bedoeld in [artikel 2, tweede lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=2&z=2025-11-06&g=2025-11-06), houdt in het door de minister ten behoeve van de medisch geëvacueerde en diens begeleider afsluiten van een verzekering voor de wettelijke aansprakelijkheid van de medisch geëvacueerde en diens begeleider jegens een derde voor een som van maximaal € 1.000.000 per gebeurtenis, alsmede het door de minister betalen van de daarvoor verschuldigde kosten.
 
 2. Ten behoeve van de in het eerste lid bedoelde verzekering is een mantelovereenkomst afgesloten.
 
-#### Artikel 9. Terugvordering
+##### Artikel 9. Terugvordering
 
 Indien blijkt dat een medisch geëvacueerde of diens begeleider in strijd met de waarheid gegevens heeft verstrekt of verzwegen, waardoor zij of anderen ten onrechte, of tot een te hoog bedrag, de verstrekkingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051700&artikel=2&z=2025-11-06&g=2025-11-06), hebben verkregen, of dit op andere wijze hebben bewerkstelligd, is de minister bevoegd de waarde van de ten onrechte toegekende verstrekkingen terug te vorderen.
 
-#### Artikel 10. Mandaat
+##### Artikel 10. Mandaat
 
 1. De minister verleent aan de Raad van Bestuur van de SVB:
 
@@ -132,7 +158,7 @@ namens deze,
 
 (functie)
 
-#### Artikel 11. Rijksbijdrage en verantwoording
+##### Artikel 11. Rijksbijdrage en verantwoording
 
 1. De lasten van deze regeling voor de SVB worden gefinancierd door een rijksbijdrage aan de SVB.
 
@@ -146,7 +172,7 @@ namens deze,
 
 6. Bij de lasten, zoals genoemd in lid 2 en 5, wordt onderscheid gemaakt tussen de verzekeringen, verstrekkingen en de uitvoeringskosten.
 
-#### Artikel 12. Inwerkingtreding en beëindiging regeling
+##### Artikel 12. Inwerkingtreding en beëindiging regeling
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, werkt terug tot en met 30 oktober 2025 en vervalt met ingang van 30 april 2027.
 
@@ -154,7 +180,7 @@ namens deze,
 
 3. De regeling, zoals die voor de datum waarop deze vervalt geldt, blijft van toepassing op de financiële afwikkeling van deze regeling.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Deze regeling wordt aangehaald als: Tijdelijke regeling verstrekkingen medisch evacués Gaza.
 

@@ -1,13 +1,39 @@
 ---
-title: "Besluit toezicht trustkantoren 2018"
+title: "Besluit van 3 december 2018, houdende regels met betrekking tot onder meer een aanvullende trustdienst en nadere regels over de beoordeling van de betrouwbaarheid van beleidsbepalers, de integere en beheerste bedrijfsuitoefening, de compliance- en auditfunctie en uitbesteding door trustkantoren (Besluit toezicht trustkantoren 2018)"
 identifier: "BWBR0041680"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-07-01
-laatste_update: 2024-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041680"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-07-01"
+last_updated: "2024-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041680"
+soort: "AMvB"
+stam_id: "14904353"
+version_id: "25500932"
+internal_id: "C36407411"
+label_id: "14855924"
+dtd_version: "2.0"
+original_entry_into_force: "2019-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041680/2024-07-01/0"
+intitule_bron: "Stb.2018-463"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-12-03"
+intitule_published: "2018-12-14"
+intitule_in_force: "2018-12-14"
+intitule_status: "goed"
+original_publication: "Stb.2018-463"
+original_signed_date: "2018-12-03"
+original_published_date: "2018-12-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2018-463"
+entry_into_force_date: "2019-01-01"
+jci_1_3: "jci1.3:c:BWBR0041680&z=2024-07-01&g=2024-07-01"
+jci_1_0: "1.0:c:BWBR0041680&g=2024-07-01"
+citeertitel_status: "officieel"
+short_title: "Besluit toezicht trustkantoren 2018"
+signed_date: "2018-12-03"
+entry_into_force: "2019-01-01"
 ---
-
 # Besluit van 3 december 2018, houdende regels met betrekking tot onder meer een aanvullende trustdienst en nadere regels over de beoordeling van de betrouwbaarheid van beleidsbepalers, de integere en beheerste bedrijfsuitoefening, de compliance- en auditfunctie en uitbesteding door trustkantoren (Besluit toezicht trustkantoren 2018)
 
 Op de voordracht van Onze Minister van Financiën van 5 oktober 2018, 2018-0000164042, directie Financiële Markten;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -32,21 +58,21 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2. Aanvullende trustdiensten
 
-#### Artikel 2. Aanvullende trustdienst
+##### Artikel 2. Aanvullende trustdienst
 
 In aanvulling op [artikel 1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&artikel=1) wordt als trustdienst aangewezen het zijn van gevolmachtigde of anderszins rechtsgeldig vertegenwoordiger die algemene bestuurshandelingen kan verrichten voor een rechtspersoon of vennootschap in opdracht van een natuurlijke persoon, rechtspersoon, of vennootschap die niet tot dezelfde groep behoort als de gevolmachtigde of vertegenwoordiger.
 
-#### Artikel 3. Cliëntenonderzoek
+##### Artikel 3. Cliëntenonderzoek
 
 [Artikel 27 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&artikel=27) is van overeenkomstige toepassing op het cliëntenonderzoek bij de trustdienst, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041680&paragraaf=2&artikel=2&z=2024-07-01&g=2024-07-01).
 
 #### § 3. Nadere regels betrouwbaarheid
 
-#### Artikel 4. Vaststelling betrouwbaarheid
+##### Artikel 4. Vaststelling betrouwbaarheid
 
 De Nederlandsche Bank stelt vast of de betrouwbaarheid van een persoon als bedoeld in [artikel 10, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&artikel=10) buiten twijfel staat op basis van diens voornemens, handelingen en antecedenten.
 
-#### Artikel 5. Antecedenten
+##### Artikel 5. Antecedenten
 
 De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041680&paragraaf=3&artikel=4&z=2024-07-01&g=2024-07-01), in ieder geval in aanmerking:
 
@@ -60,7 +86,7 @@ De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 4](https://
 
 - e. de in onderdeel 6 van de bijlage genoemde overige antecedenten.
 
-#### Artikel 6. Inlichtingen
+##### Artikel 6. Inlichtingen
 
 1. De Nederlandsche Bank verkrijgt inzicht in de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041680&paragraaf=3&artikel=4&z=2024-07-01&g=2024-07-01) bedoelde voornemens, handelingen en antecedenten op grond van:
 
@@ -94,7 +120,7 @@ De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 4](https://
 
 - c. de aard van de nadere gegevens of inlichtingen.
 
-#### Artikel 7. Betrouwbaarheid niet buiten twijfel
+##### Artikel 7. Betrouwbaarheid niet buiten twijfel
 
 1. De betrouwbaarheid van de betrokkene staat niet buiten twijfel indien:
 
@@ -108,7 +134,7 @@ De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 4](https://
 
 2. De Nederlandsche Bank kan op grond van de omstandigheden of belangen, genoemd in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0041680&paragraaf=3&artikel=8&z=2024-07-01&g=2024-07-01), afwijken van het eerste lid, ten aanzien van de onderdelen b, c en d.
 
-#### Artikel 8. Te betrekken belangen
+##### Artikel 8. Te betrekken belangen
 
 De Nederlandsche Bank neemt bij de vaststelling van de betrouwbaarheid in aanmerking:
 
@@ -120,7 +146,7 @@ De Nederlandsche Bank neemt bij de vaststelling van de betrouwbaarheid in aanmer
 
 #### § 4. Integere en beheerste bedrijfsvoering
 
-#### Artikel 9. Zorgplicht bestuur trustkantoor
+##### Artikel 9. Zorgplicht bestuur trustkantoor
 
 Het bestuur van een trustkantoor is belast met de dagelijkse leiding over de werkzaamheden van het trustkantoor en draagt zorg voor:
 
@@ -132,7 +158,7 @@ Het bestuur van een trustkantoor is belast met de dagelijkse leiding over de wer
 
 - d. een deugdelijke administratie.
 
-#### Artikel 10. Sira en beleid
+##### Artikel 10. Sira en beleid
 
 Een trustkantoor draagt zorg voor:
 
@@ -148,7 +174,7 @@ Een trustkantoor draagt zorg voor:
 
 - f. procedures die erin voorzien dat gesignaleerde tekortkomingen of gebreken met betrekking tot de integere uitoefening van het bedrijf tot een gepaste bijstelling leiden.
 
-#### Artikel 11. Voorkoming belangenverstrengeling
+##### Artikel 11. Voorkoming belangenverstrengeling
 
 Een trustkantoor beschikt over procedures en maatregelen met betrekking tot het tegengaan van verstrengeling van privébelangen van:
 
@@ -160,11 +186,11 @@ Een trustkantoor beschikt over procedures en maatregelen met betrekking tot het 
 
 - d. andere werknemers of personen die in opdracht van het trustkantoor werkzaamheden verrichten met een taak of functie waarin belangenverstrengeling zich redelijkerwijs zou kunnen voordoen.
 
-#### Artikel 12. Aanwijzen integriteitgevoelige functies
+##### Artikel 12. Aanwijzen integriteitgevoelige functies
 
 Een trustkantoor maakt ten behoeve van een integere bedrijfsvoering onderscheid tussen integriteitgevoelige functies en niet-integriteitgevoelige functies. Hiertoe hanteert een trustkantoor objectieve, kenbare criteria.
 
-#### Artikel 13. Invulling integriteitgevoelige functies
+##### Artikel 13. Invulling integriteitgevoelige functies
 
 1. Een trustkantoor maakt een onderbouwde beoordeling van de betrouwbaarheid van personen die het wil benoemen in een integriteitgevoelige functie. Daartoe draagt het trustkantoor in elk geval zorg voor:
 
@@ -178,13 +204,13 @@ Een trustkantoor maakt ten behoeve van een integere bedrijfsvoering onderscheid 
 
 3. Een trustkantoor voert een administratie waaruit blijkt dat met betrekking tot ieder personeelslid of derde die werkzaamheden verricht voor het trustkantoor is voldaan aan het eerste of het tweede lid.
 
-#### Artikel 14. Risicoclassificaties
+##### Artikel 14. Risicoclassificaties
 
 1. Een trustkantoor beschikt ten behoeve van een integere bedrijfsvoering over organisatorische en administratieve procedures en maatregelen die betrekking hebben op risicoclassificaties ten aanzien van cliënten, producten of diensten.
 
 2. Een trustkantoor beschikt over procedures en maatregelen met betrekking tot de analyse van gegevens van cliënten, mede in relatie tot de door de cliënt afgenomen producten of diensten, en ter zake van de detectie van afwijkende transactiepatronen.
 
-#### Artikel 15. Interne organisatie van een trustkantoor
+##### Artikel 15. Interne organisatie van een trustkantoor
 
 1. De bedrijfsvoering van een trustkantoor bestaat tenminste uit:
 
@@ -206,7 +232,7 @@ Een trustkantoor maakt ten behoeve van een integere bedrijfsvoering onderscheid 
 
 5. Een trustkantoor voorziet erin dat gesignaleerde tekortkomingen worden opgeheven.
 
-#### Artikel 16. Procedurehandboek
+##### Artikel 16. Procedurehandboek
 
 Een trustkantoor beschikt over een actueel procedurehandboek dat voorziet in:
 
@@ -228,7 +254,7 @@ Een trustkantoor beschikt over een actueel procedurehandboek dat voorziet in:
 
 #### § 5. Compliance en auditfunctie
 
-#### Artikel 17. Eisen compliancefunctie
+##### Artikel 17. Eisen compliancefunctie
 
 1. Het organisatieonderdeel dat de compliancefunctie uitoefent beschikt over de nodige autoriteit, middelen, deskundigheid en toegang tot alle noodzakelijke informatie om zijn taken onafhankelijk en effectief te kunnen uitoefenen.
 
@@ -254,7 +280,7 @@ Een trustkantoor beschikt over een actueel procedurehandboek dat voorziet in:
 
 5. Een trustkantoor legt de omvang van de compliancefunctie schriftelijk vast en onderbouwt daarbij de omvang aan de hand van de elementen, bedoeld in her vierde lid.
 
-#### Artikel 18. Eisen auditfunctie
+##### Artikel 18. Eisen auditfunctie
 
 1. De auditfunctie voert ten minste een maal per jaar een controle uit.
 
@@ -262,7 +288,7 @@ Een trustkantoor beschikt over een actueel procedurehandboek dat voorziet in:
 
 3. Onze Minister kan bij ministeriele regeling nadere regels stellen met betrekking tot de uitvoering van de auditfunctie.
 
-#### Artikel 19. Functiescheiding
+##### Artikel 19. Functiescheiding
 
 1. Een trustkantoor zorgt voor een adequate functiescheiding, waarmee het de onafhankelijke uitvoering van de compliancefunctie en de auditfunctie waarborgt.
 
@@ -282,7 +308,7 @@ Een trustkantoor beschikt over een actueel procedurehandboek dat voorziet in:
 
 #### § 6. Uitbesteding
 
-#### Artikel 20. Voorschriften bij uitbesteding
+##### Artikel 20. Voorschriften bij uitbesteding
 
 1. Indien een trustkantoor werkzaamheden uitbesteedt aan een derde, legt het trustkantoor de overeenkomst met de derde schriftelijk vast.
 
@@ -292,31 +318,31 @@ Een trustkantoor beschikt over een actueel procedurehandboek dat voorziet in:
 
 #### § 7. Periodieke rapportages
 
-#### Artikel 21. Inhoud rapportage
+##### Artikel 21. Inhoud rapportage
 
 De rapportage, bedoeld in [artikel 18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&artikel=18), geschiedt op een door de Nederlandsche Bank te bepalen wijze en kan betrekking hebben op kwantitatieve en kwalitatieve gegevens van het trustkantoor, zijn dienstverlening of zijn cliënten.
 
-#### Artikel 22. Frequentie rapportage
+##### Artikel 22. Frequentie rapportage
 
 De Nederlandsche Bank stelt de termijnen vast voor indiening van de rapportage, bedoeld in [artikel 18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&artikel=18), evenals de wijze waarop de indiening geschiedt.
 
 #### § 8. Wijziging andere besluiten
 
-#### Artikel 23. Wijziging [Besluit bestuurlijke boetes financiële sector](https://wetten.overheid.nl/jci1.3:c:BWBR0026204)
+##### Artikel 23. Wijziging [Besluit bestuurlijke boetes financiële sector](https://wetten.overheid.nl/jci1.3:c:BWBR0026204)
 
 Wijzigt het Besluit bestuurlijke boetes financiële sector.
 
-#### Artikel 24. Wijziging [Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086)
+##### Artikel 24. Wijziging [Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086)
 
 Wijzigt het Besluit politiegegevens.
 
 #### § 9. Slotbepalingen
 
-#### Artikel 25. Inwerkingtreding
+##### Artikel 25. Inwerkingtreding
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 26. Citeertitel
+##### Artikel 26. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit toezicht trustkantoren 2018
 

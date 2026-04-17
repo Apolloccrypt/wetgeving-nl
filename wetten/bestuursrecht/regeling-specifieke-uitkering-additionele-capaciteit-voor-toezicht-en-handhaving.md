@@ -1,20 +1,46 @@
 ---
-title: "Regeling specifieke uitkering additionele capaciteit voor toezicht en handhaving energiebesparing"
+title: "Regeling van de Minister voor Klimaat en Energie van 30 juni 2022, nr. WJZ/ 22076980, houdende regels over het verstrekken van eenmalige specifieke uitkeringen ten behoeve van extra ondersteuning voor toezicht op en handhaving van de energiebesparingsplicht"
 identifier: "BWBR0046881"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046881"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046881"
+soort: "ministeriele-regeling"
+stam_id: "16413993"
+version_id: "28747612"
+internal_id: "C40673891"
+label_id: "16338184"
+dtd_version: "2.0"
+original_entry_into_force: "2022-07-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046881/2024-01-01/0"
+intitule_bron: "Stcrt.2022-17828"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-06-30"
+intitule_published: "2022-07-11"
+intitule_in_force: "2022-07-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-17828"
+original_signed_date: "2022-06-30"
+original_published_date: "2022-07-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-17828"
+entry_into_force_date: "2022-07-12"
+jci_1_3: "jci1.3:c:BWBR0046881&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0046881&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling specifieke uitkering additionele capaciteit voor toezicht en handhaving energiebesparing"
+signed_date: "2022-06-30"
+entry_into_force: "2022-07-12"
 ---
-
 # Regeling van de Minister voor Klimaat en Energie van 30 juni 2022, nr. WJZ/ 22076980, houdende regels over het verstrekken van eenmalige specifieke uitkeringen ten behoeve van extra ondersteuning voor toezicht op en handhaving van de energiebesparingsplicht
 
 Gelet op [artikel 3, eerste lid, van de Kaderwet EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -42,15 +68,15 @@ In deze regeling wordt verstaan onder:
 
 - **VUE:** Versterkte uitvoering energiebesparings- en informatieplicht.
 
-#### Artikel 2. Doel van de regeling
+##### Artikel 2. Doel van de regeling
 
 Deze regeling heeft tot doel om meerjarig additionele capaciteit voor toezicht en handhaving op de energiebesparingsplicht te realiseren.
 
-#### Artikel 3. Activiteiten
+##### Artikel 3. Activiteiten
 
 De minister kan op aanvraag aan een omgevingsdienst een specifieke uitkering verstrekken voor de uitvoering van activiteiten in de periode 2022 tot en met 2026 die bijdragen aan het doel zoals genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&artikel=2&z=2024-01-01&g=2024-01-01) en zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&bijlage=1&z=2024-01-01&g=2024-01-01).
 
-#### Artikel 4. Hoogte, plafond en verdeling
+##### Artikel 4. Hoogte, plafond en verdeling
 
 1. Het bedrag dat voor de jaren 2022 tot en met 2026 voor de specifieke uitkeringen beschikbaar is gesteld is € 56 miljoen.
 
@@ -64,7 +90,7 @@ De minister kan op aanvraag aan een omgevingsdienst een specifieke uitkering ver
 
 6. De kosten worden in aanmerking genomen met inbegrip van omzetbelasting, indien de omgevingsdienst die de kosten heeft gemaakt, omzetbelasting niet in aftrek kan brengen.
 
-#### Artikel 5. Aanvraag
+##### Artikel 5. Aanvraag
 
 1. Een specifieke uitkering wordt op aanvraag aan een omgevingsdienst verstrekt.
 
@@ -100,7 +126,7 @@ De minister kan op aanvraag aan een omgevingsdienst een specifieke uitkering ver
 
 6. Een aanvraag wordt ingediend met gebruikmaking van een daartoe door de minister beschikbaar gesteld digitaal formulier dat is geplaatst op de website van de Rijksdienst voor Ondernemend Nederland.
 
-#### Artikel 6. Verplichtingen
+##### Artikel 6. Verplichtingen
 
 1. De omgevingsdienst draagt er zorg voor dat de specifieke uitkering uitsluitend aan de in het projectplan opgenomen activiteiten en in de jaren 2022 tot en met 2026 wordt besteed.
 
@@ -122,7 +148,7 @@ De minister kan op aanvraag aan een omgevingsdienst een specifieke uitkering ver
 
 8. De omgevingsdienst werkt gedurende de looptijd van de specifieke uitkering jaarlijks, met startdatum 1 oktober 2023, de onderdelen van het projectplan, bedoeld in [artikel 5, vijfde lid, onder b, c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&artikel=5&z=2024-01-01&g=2024-01-01) bij.
 
-#### Artikel 7. Monitoring
+##### Artikel 7. Monitoring
 
 1. De omgevingsdienst rapporteert uiterlijk op 1 april en 1 oktober van het desbetreffende kalenderjaar aan de minister over de voortgang van de in het projectplan opgenomen activiteiten.
 
@@ -160,7 +186,7 @@ De minister kan op aanvraag aan een omgevingsdienst een specifieke uitkering ver
 
 4. Indien de rapportages, bedoeld in het tweede en derde lid, niet overeenkomen met de in het projectplan beoogde uitvoering van de activiteiten kan de minister hierover in overleg treden met de omgevingsdienst.
 
-#### Artikel 8. Afwijzingsgronden
+##### Artikel 8. Afwijzingsgronden
 
 De minister wijst een aanvraag af indien:
 
@@ -168,7 +194,7 @@ De minister wijst een aanvraag af indien:
 
 - b. er gegronde redenen bestaan om aan te nemen dat de activiteiten waarvoor de specifieke uitkering wordt aangevraagd niet of niet geheel zullen worden uitgevoerd of de omgevingsdienst niet zal voldoen aan de in deze regeling opgenomen verplichtingen.
 
-#### Artikel 9. Informatieverplichtingen
+##### Artikel 9. Informatieverplichtingen
 
 De omgevingsdienst doet onverwijld schriftelijk mededeling aan de minister zodra aannemelijk is dat:
 
@@ -176,13 +202,13 @@ De omgevingsdienst doet onverwijld schriftelijk mededeling aan de minister zodra
 
 - b. niet, niet tijdig of niet geheel aan de aan de specifieke uitkering verbonden verplichtingen zal worden voldaan.
 
-#### Artikel 10. Verantwoording en terugvordering
+##### Artikel 10. Verantwoording en terugvordering
 
 1. De omgevingsdienst legt verantwoording af over de besteding van de specifieke uitkering op de wijze, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
 2. Indien uit de verantwoordingsinformatie blijkt dat de specifieke uitkering niet volledig is besteed aan uitvoeringsactiviteiten waarvoor deze is verstrekt, of onrechtmatig is besteed, kan de uitkering ter hoogte van het niet of onrechtmatig bestede deel door de minister worden teruggevorderd. De minister doet binnen een jaar na ontvangst van de verantwoordingsinformatie mededeling van de terugvordering aan de omgevingsdienst als ontvanger van de specifieke uitkering.
 
-#### Artikel 11. Vaststelling
+##### Artikel 11. Vaststelling
 
 De minister stelt de specifieke uitkering overeenkomstig de verlening vast, tenzij:
 
@@ -190,15 +216,15 @@ De minister stelt de specifieke uitkering overeenkomstig de verlening vast, tenz
 
 - b. niet is voldaan aan de verplichtingen en monitoringseisen, bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&artikel=6&z=2024-01-01&g=2024-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&artikel=7&z=2024-01-01&g=2024-01-01).
 
-#### Artikel 12. Wijziging van de Regeling specifieke uitkering additionele capaciteit voor toezicht en handhaving energiebesparing
+##### Artikel 12. Wijziging van de Regeling specifieke uitkering additionele capaciteit voor toezicht en handhaving energiebesparing
 
 Wijzigt deze regeling.
 
-#### Artikel 13. Inwerkingtreding
+##### Artikel 13. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met uitzondering van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&artikel=12&z=2024-01-01&g=2024-01-01), dat in werking treedt per 1 januari 2024.
 
-#### Artikel 14. Citeertitel
+##### Artikel 14. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering additionele capaciteit voor toezicht en handhaving energiebesparing.
 

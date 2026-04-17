@@ -1,13 +1,35 @@
 ---
-title: "Uitvoeringsbesluit ex artikel IV Wet van 26-06-1975, Stb. 384"
+title: "Besluit van 17 augustus 1976, houdende uitvoering van artikel IV, tweede lid, van de wet van 26 juni 1975 (Stb. 384), tot wijziging van de Woningwet en de Overgangswet ruimtelijke ordening en volkshuisvesting"
 identifier: "BWBR0003049"
-categorie: "Bestuursrecht"
-publicatiedatum: 1977-05-01
-laatste_update: 1977-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003049"
+country: "nl"
+rank: "amvb"
+publication_date: "1977-05-01"
+last_updated: "1977-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003049"
+soort: "AMvB"
+stam_id: "985153"
+version_id: "1446272"
+internal_id: "C1446271"
+label_id: "954724"
+dtd_version: "2.0"
+original_entry_into_force: "1977-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003049/1977-05-01/0"
+intitule_bron: "Stb.1976-471"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1976-08-17"
+intitule_status: "goed"
+original_publication: "Stb.1976-471"
+original_signed_date: "1976-08-17"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1977-05-01"
+jci_1_3: "jci1.3:c:BWBR0003049&z=1977-05-01&g=1977-05-01"
+jci_1_0: "1.0:c:BWBR0003049&g=1977-05-01"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsbesluit ex artikel IV Wet van 26-06-1975, Stb. 384"
+signed_date: "1976-08-17"
+entry_into_force: "1977-05-01"
 ---
-
 # Besluit van 17 augustus 1976, houdende uitvoering van artikel IV, tweede lid, van de wet van 26 juni 1975 (Stb. 384), tot wijziging van de Woningwet en de Overgangswet ruimtelijke ordening en volkshuisvesting
 
 Op de voordracht van de Staatssecretaris van Volkshuisvesting en Ruimtelijke Ordening, drs. M. P. A. van Dam, van 6 mei 1976, nr. 0405939, Centrale Afdeling Juridische Zaken;
@@ -20,7 +42,7 @@ Gezien het nader rapport van voornoemde Staatssecretaris van 12 augustus 1976, n
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 1. De geldmiddelen, bedoeld in artikel IV, tweede lid, van de wet van 26 juni 1975 (**Stb.** 384), worden aangewend tot dekking van:
 
@@ -32,11 +54,11 @@ Hebben goedgevonden en verstaan:
 
 3. Het bepaalde in het tweede lid vindt slechts toepassing bij onderlinge overeenstemming tussen burgemeester en wethouders van de gemeente en de toegelaten instellingen, waaraan in de gemeente gelegen woningen of woongebouwen, als bedoeld in het eerste lid, onder **a**, toebehoren.
 
-#### Artikel 2
+##### Artikel 2
 
 Burgemeester en wethouders van de gemeente zenden jaarlijks voor 1 mei aan Onze Minister, belast met de zorg voor de volkshuisvesting, alsmede aan de toegelaten instellingen, bedoeld in [artikel 59, eerste lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=59), die in de gemeente werkzaam zijn, een verslag omtrent het gemeenschappelijke fonds.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking op een door Ons te bepalen tijdstip.
 

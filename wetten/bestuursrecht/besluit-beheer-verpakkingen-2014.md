@@ -1,13 +1,39 @@
 ---
-title: "Besluit beheer verpakkingen 2014"
+title: "Besluit van 27 oktober 2014, houdende regels voor verpakkingen en verpakkingsafval (Besluit beheer verpakkingen 2014)"
 identifier: "BWBR0035711"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035711"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035711"
+soort: "AMvB"
+stam_id: "12827213"
+version_id: "29340762"
+internal_id: "C41860811"
+label_id: "12797034"
+dtd_version: "2.0"
+original_entry_into_force: "2023-04-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035711/2024-01-01/0"
+intitule_bron: "Stb.2014-409"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-10-27"
+intitule_published: "2014-10-31"
+intitule_in_force: "2014-10-31"
+intitule_status: "goed"
+original_publication: "Stb.2023-124"
+original_signed_date: "2023-04-12"
+original_published_date: "2023-04-18"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2023-124"
+entry_into_force_date: "2023-04-12"
+jci_1_3: "jci1.3:c:BWBR0035711&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0035711&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit beheer verpakkingen 2014"
+signed_date: "2023-04-12"
+entry_into_force: "2023-04-12"
 ---
-
 # Besluit van 27 oktober 2014, houdende regels voor verpakkingen en verpakkingsafval (Besluit beheer verpakkingen 2014)
 
 Op de voordracht van de Staatssecretaris van Infrastructuur en Milieu van 16 juli 2014, nr. IenM/BSK-2014/145462, Hoofddirectie Bestuurlijke en Juridische Zaken;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -82,7 +108,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 2. Eisen aan verpakkingen en preventie
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het is verboden een verpakking in de Europese Unie op de markt aan te bieden of met dat doel voorhanden te hebben waarvan de totale concentratie van lood, cadmium, kwik, zeswaardig chroom of verbindingen daarvan in die verpakking of in een verpakkingscomponent meer dan 100 ppm-gewicht bedraagt.
 
@@ -98,7 +124,7 @@ Hebben goedgevonden en verstaan:
 
 4. De vermelding, bedoeld in het derde lid, is duidelijk zichtbaar, goed leesbaar en blijvend herkenbaar, ook wanneer de verpakking is geopend.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het is verboden om een verpakking die niet voldoet aan bijlage II van de richtlijn verpakkingen in de Europese Unie op de markt aan te bieden of met dat doel voorhanden te hebben.
 
@@ -124,7 +150,7 @@ Hebben goedgevonden en verstaan:
 
 6. Bepaalde bij ministeriële regeling aangewezen ongevulde verpakkingen worden door een producent of importeur niet om niet onder de in die regeling aangegeven omstandigheden aan een eindgebruiker verstrekt.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een producent of importeur verstrekt op een met redenen omkleed verzoek van Onze Minister, binnen een bij dat verzoek te bepalen termijn, aan hem alle benodigde informatie en documentatie om het voldoen aan de [artikelen 2, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=2&artikel=2&z=2024-01-01&g=2024-01-01), en [artikel 3, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01), aan te tonen.
 
@@ -132,11 +158,11 @@ Hebben goedgevonden en verstaan:
 
 #### § 3. Hergebruik en recycling
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 1. De producent of importeur draagt er zorg voor dat per kalenderjaar van het totaal van de door hem in dat kalenderjaar, voor het insluiten, beschermen, verladen, afleveren of aanbieden van in de handel gebrachte producten, gebruikte verpakkingen die afval zijn geworden ten minste 70 gewichtsprocent wordt gerecycled.
 
@@ -174,13 +200,13 @@ Vervallen
 
 4. Onverminderd het eerste en tweede lid, onder a, en indien er overeenkomstig [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=5&artikel=9&z=2024-01-01&g=2024-01-01), gezamenlijk uitvoering wordt gegeven aan het eerste en tweede lid, dragen producenten en importeurs er gezamenlijk zorg voor dat per kalenderjaar ten minste een bij ministeriële regeling bepaalde gewichtshoeveelheid kunststof verpakkingsafval dat bij huishoudens vrijkomt, wordt gerecycled.
 
-#### Artikel 7
+##### Artikel 7
 
 De producent of importeur draagt er zorg voor dat per kalenderjaar van de door hem in Nederland in dat kalenderjaar in de handel gebrachte hoeveelheid drankenkartons ten minste het bij ministeriële regeling vastgestelde percentage wordt gerecycled.
 
 #### § 4. Verslaglegging
 
-#### Artikel 8
+##### Artikel 8
 
 1. De producent of importeur van wie het totaal van de door hem in de handel gebrachte verpakkingen en van de door hem ingevoerde verpakkingen waarvan hij zich heeft ontdaan jaarlijks meer dan 50.000 kilogram bedraagt, zendt elk jaar voor 1 augustus aan Onze Minister een verslag over de uitvoering in het voorafgaande kalenderjaar van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01).
 
@@ -190,11 +216,11 @@ De producent of importeur draagt er zorg voor dat per kalenderjaar van de door h
 
 #### § 5. Collectieve uitvoering en melding aan collectieve uitvoerder door verwerkers en inzamelaars
 
-#### Artikel 9
+##### Artikel 9
 
 De melding bedoeld in [artikel 4 van het Besluit regeling voor uitgebreide producentenverantwoordelijkheid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=4) geldt niet voor een producent of importeur van wie het totaal van de door hem in de handel gebrachte verpakkingen en van de door hem ingevoerde verpakkingen die afval zijn geworden, jaarlijks minder dan 50.000 kilogram bedraagt tenzij de producent of importeur deel uitmaakt van een fiscale eenheid als bedoeld in [artikel 7, vierde lid, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=7) en die eenheid in totaal jaarlijks meer dan 50.000 kilogram verpakkingen in de handel brengt of invoert en zich daarvan heeft ontdaan.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Een persoon als bedoeld in [artikel 10.40, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.40), meldt elk jaar voor 1 april met betrekking tot de in het voorgaande kalenderjaar aan hem afgeleverde bedrijfsafvalstoffen, voor zover het verpakkingen betreft, de volgende gegevens aan de rechtspersoon die belast is met de uitvoering van een op grond van [artikel 15.36, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.36), algemeen verbindend verklaarde overeenkomst over een afvalbeheerbijdrage inzake verpakkingen:
 
@@ -212,11 +238,11 @@ De melding bedoeld in [artikel 4 van het Besluit regeling voor uitgebreide produ
 
 #### § 6. Statiegeld op drankverpakkingen
 
-#### Artikel 11
+##### Artikel 11
 
 In deze paragraaf wordt verstaan onder frisdrank: drinkwaar als bedoeld in [artikel 7a van het Warenwetbesluit Gereserveerde aanduidingen](https://wetten.overheid.nl/jci1.3:c:BWBR0009499&artikel=7a).
 
-#### Artikel 12
+##### Artikel 12
 
 1. De producent of importeur die water of frisdrank in een kunststof fles met een inhoud van 3 liter of minder in Nederland in de handel brengt, brengt op die fles statiegeld in rekening.
 
@@ -224,17 +250,17 @@ In deze paragraaf wordt verstaan onder frisdrank: drinkwaar als bedoeld in [arti
 
 3. De kosten voor handelingen in het kader van de uitvoering van de in het eerste en tweede lid bedoelde verplichtingen, komen ten laste van de in het eerste lid bedoelde producent of importeur.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De producent of importeur die drank in een metalen drankverpakking met een inhoud van 3 liter of minder in Nederland in de handel brengt, brengt op die drankverpakking statiegeld in rekening.
 
 2. [Artikel 12, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=6&artikel=12&z=2024-01-01&g=2024-01-01), is van overeenkomstige toepassing met dien verstande dat voor fles wordt gelezen metalen drankverpakking.
 
-#### Artikel 14
+##### Artikel 14
 
 Bij ministeriële regeling wordt de minimale hoogte van het statiegeld, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=6&artikel=12&z=2024-01-01&g=2024-01-01), bepaald. In die regeling kan per soort drankverpakking of per volume van de drankverpakking de minimale hoogte van het statiegeld worden vastgesteld.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Indien de verplichting, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=6&artikel=12&z=2024-01-01&g=2024-01-01), en [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=6&artikel=13&z=2024-01-01&g=2024-01-01), van toepassing is, voorziet de producent of importeur de verpakking van een aanduiding omtrent het statiegeld. Onze Minister kan vorm en inhoud van deze aanduiding vaststellen.
 
@@ -242,19 +268,19 @@ Bij ministeriële regeling wordt de minimale hoogte van het statiegeld, bedoeld 
 
 #### § 7. Slotbepalingen
 
-#### Artikel 16
+##### Artikel 16
 
 Onze Minister zendt uiterlijk in 2024 een verslag over de doeltreffendheid en de effecten van de [artikelen 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=5a&z=2024-01-01&g=2024-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=6&z=2024-01-01&g=2024-01-01), [6a](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=6a&z=2024-01-01&g=2024-01-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=6&artikel=12&z=2024-01-01&g=2024-01-01) van dit besluit aan de Staten-Generaal.
 
-#### Artikel 17
+##### Artikel 17
 
 Een wijziging van de richtlijn verpakkingen of van de beschikkingen, genoemd in [artikel 2, tweede lid, onder b onderscheidenlijk onder c, en in het derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=2&artikel=2&z=2024-01-01&g=2024-01-01), gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de desbetreffende wijziging uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
-#### Artikel 19
+##### Artikel 19
 
 1. Het [Besluit beheer verpakkingen en papier en karton](https://wetten.overheid.nl/jci1.3:c:BWBR0018139) wordt ingetrokken.
 
@@ -262,7 +288,7 @@ Vervallen
 
 3. [Artikel 6, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=6&z=2024-01-01&g=2024-01-01), zoals gewijzigd ingevolge [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=7&artikel=18&z=2024-01-01&g=2024-01-01), is niet van toepassing op verplichtingen ten aanzien van kalenderjaren die zijn verstreken voor 1 januari 2022.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Dit besluit treedt, met uitzondering van de [artikelen 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=6&z=2024-01-01&g=2024-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=7&z=2024-01-01&g=2024-01-01) en [11 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=6&artikel=11&z=2024-01-01&g=2024-01-01), in werking op 1 januari 2015.
 
@@ -270,13 +296,13 @@ Vervallen
 
 3. De artikelen [7](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=7&z=2024-01-01&g=2024-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=6&artikel=11&z=2024-01-01&g=2024-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=6&artikel=12&z=2024-01-01&g=2024-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=6&artikel=14&z=2024-01-01&g=2024-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=6&artikel=15&z=2024-01-01&g=2024-01-01) treden in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 21
+##### Artikel 21
 
 Dit besluit wordt aangehaald als: Besluit beheer verpakkingen 2014.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 6a
+##### Artikel 6a
 
 1. De producent of importeur die drank in een kunststof fles met een inhoud van 3 liter of minder in Nederland in de handel brengt, draagt er zorg voor dat per kalenderjaar ten minste 90 gewichtsprocent van het totaal van deze door hem in dat kalenderjaar in Nederland in de handel gebrachte flessen, doppen en deksels inbegrepen, gescheiden wordt ingezameld.
 
@@ -292,7 +318,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 5a
+##### Artikel 5a
 
 1. Onverminderd [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&paragraaf=3&artikel=6&z=2024-01-01&g=2024-01-01), draagt de producent of importeur er zorg voor dat per kalenderjaar van het totaal van de door hem in dat kalenderjaar, voor het insluiten, beschermen, verladen, afleveren of aanbieden van in de handel gebrachte producten, gebruikte verpakkingen tenminste het volgende gewichtspercentage wordt hergebruikt of gerecycled:
 
@@ -340,19 +366,19 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - f. van de ferrometalen in de verpakkingen ten minste 94 gewichtsprocent wordt hergebruikt of gerecycled.
 
-#### Artikel 6b
+##### Artikel 6b
 
 1. De producent of importeur die drank in een metalen drankverpakking met een inhoud van 3 liter of minder in Nederland in de handel brengt, draagt er zorg voor dat per kalenderjaar ten minste 90 gewichtsprocent van het totaal van deze door hem in dat kalenderjaar in Nederland in de handel gebrachte metalen drankverpakkingen gescheiden wordt ingezameld.
 
 2. In afwijking van het eerste lid kan volstaan worden met gescheiden inzameling als bedoeld in dat lid van ten minste 80 gewichtsprocent, mits ten minste 10 gewichtsprocent van het totaal van de in de handel gebrachte metalen drankverpakkingen, dat niet gescheiden is ingezameld, niet minder potentieel bevat om voorbereiding voor hergebruik, recycling of andere behandelingen voor nuttige toepassing te ondergaan en de producten die uit die handelingen voortkomen een vergelijkbare kwaliteit hebben als producten die voortvloeien uit gescheiden ingezamelde metalen drankverpakkingen.
 
-#### Artikel 8a
+##### Artikel 8a
 
 1. Het verslag bedoeld in [artikel 5 van het Besluit regeling voor uitgebreide producentenverantwoordelijkheid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=5) wordt jaarlijks voor 1 augustus over het voorafgaande kalenderjaar uitgebracht.
 
 2. [Artikel 5 van het Besluit regeling voor uitgebreide producentenverantwoordelijkheid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=5) geldt niet voor een producent of importeur van wie het totaal van de door hem in de handel gebrachte verpakkingen en van de door hem ingevoerde verpakkingen die afval zijn geworden jaarlijks minder dan 50.000 kilogram bedraagt tenzij de producent of importeur deel uitmaakt van een fiscale eenheid als bedoeld in [artikel 7, vierde lid, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=7) en die eenheid in totaal jaarlijks meer dan 50.000 kilogram verpakkingen in de handel brengt of invoert en zich daarvan heeft ontdaan.
 
-#### Artikel 10a
+##### Artikel 10a
 
 Bij de gezamenlijke uitvoering als bedoeld in [artikel 6 van het Besluit regeling voor uitgebreide producentenverantwoordelijkheid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=6) wordt er zorg voor gedragen dat er geen handelsbelemmeringen of vervalsing van de mededinging als bedoeld in artikel 7, eerste lid, van de richtlijn verpakkingen wordt veroorzaakt.
 
@@ -364,7 +390,7 @@ Bij de gezamenlijke uitvoering als bedoeld in [artikel 6 van het Besluit regelin
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 15a
+##### Artikel 15a
 
 In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -380,7 +406,7 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. **verordening (EU) 2020/2151:** Uitvoeringsverordening (EU) 2020/2151 van de Commissie van 17 december 2020 tot vaststelling van regels inzake geharmoniseerde markeringsspecificaties voor kunststofproducten voor eenmalig gebruik die zijn opgenomen in deel D van de bijlage bij Richtlijn (EU) 2019/904 van het Europees Parlement en de Raad betreffende de vermindering van de effecten van bepaalde kunststofproducten op het milieu (PbEU 2020, L 428).
 
-#### Artikel 15b
+##### Artikel 15b
 
 Het is verboden verpakkingen vervaardigd uit oxo-degradeerbare kunststoffen en de volgende kunststofverpakkingen voor eenmalig gebruik in Nederland in de handel te brengen:
 
@@ -396,7 +422,7 @@ Het is verboden verpakkingen vervaardigd uit oxo-degradeerbare kunststoffen en d
 
 - c. drinkbekers gemaakt van geëxpandeerd polystyreen, inclusief doppen en deksels.
 
-#### Artikel 15c
+##### Artikel 15c
 
 1. Het is met ingang van 3 juli 2024 verboden kunststof drankverpakkingen en samengestelde drankverpakkingen van ten hoogste 3 liter, voor eenmalig gebruik, inclusief doppen en deksels, in Nederland in de handel te brengen indien deze niet zijn voorzien van doppen en deksels die tijdens het beoogd gebruik bevestigd blijven aan de verpakking.
 
@@ -418,7 +444,7 @@ Het is verboden verpakkingen vervaardigd uit oxo-degradeerbare kunststoffen en d
 
 7. Producenten of importeurs kunnen gezamenlijk uitvoering geven aan de verplichtingen, bedoeld in het vierde, vijfde en zesde lid, waarbij de percentages, genoemd in het vierde en vijfde lid, worden berekend als gemiddelde van alle drankflessen, bedoeld in die artikelen.
 
-#### Artikel 15d
+##### Artikel 15d
 
 1. De producent of importeur van de volgende kunststofverpakkingen voor eenmalig gebruik, levert met ingang van het daarvoor vastgestelde kalenderjaar in overeenstemming met het daarvoor geldende format aan Onze Minister de gegevens aan over de door hem jaarlijks in Nederland in de handel gebrachte hoeveelheid van die kunststofverpakkingen:
 
@@ -440,7 +466,7 @@ Het is verboden verpakkingen vervaardigd uit oxo-degradeerbare kunststoffen en d
 
 - c. het verbod tot het verstrekken aan de eindgebruiker op bepaalde locaties of bij bepaalde gelegenheden.
 
-#### Artikel 15e
+##### Artikel 15e
 
 De producent of importeur van kunststof drinkbekers voor eenmalig gebruik voorziet in overeenstemming met verordening (EU) 2020/2151 die drinkbekers van markeringen waarmee opvallende, duidelijk leesbare en onuitwisbare informatie wordt verstrekt over:
 
@@ -448,7 +474,7 @@ De producent of importeur van kunststof drinkbekers voor eenmalig gebruik voorzi
 
 - b. de aanwezigheid van kunststoffen in de drinkbekers en de negatieve effecten op het milieu van zwerfafval of andere ongepaste manieren om zich van de drinkbekers te ontdoen.
 
-#### Artikel 15f
+##### Artikel 15f
 
 1. Dit artikel is met ingang van 5 januari 2023 van toepassing op de producent of importeur die de volgende kunststofverpakkingen voor eenmalig gebruik in Nederland in de handel brengt:
 
@@ -484,7 +510,7 @@ De producent of importeur van kunststof drinkbekers voor eenmalig gebruik voorzi
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 15g
+##### Artikel 15g
 
 1. Het is marktdeelnemers die betrokken zijn of zijn geweest bij het op de markt aanbieden van verpakkingen en herbruikbare verpakkingen, verboden te handelen in strijd met artikel 7, eerste lid, van de EU-verordening markttoezicht.
 

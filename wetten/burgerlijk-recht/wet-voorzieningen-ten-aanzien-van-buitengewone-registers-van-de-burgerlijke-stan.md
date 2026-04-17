@@ -1,14 +1,36 @@
 ---
-title: "Wet voorzieningen ten aanzien van buitengewone registers van de burgerlijke stand"
+title: "Wet van 23 december 1953, houdende voorzieningen ten aanzien van enige tijdens de oorlog gehouden registers van de burgerlijke stand"
 identifier: "BWBR0002124"
-categorie: "Burgerlijk recht"
-publicatiedatum: 1954-01-07
-laatste_update: 1954-01-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002124"
+country: "nl"
+rank: "wet"
+publication_date: "1954-01-07"
+last_updated: "1954-01-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002124"
+soort: "wet"
+stam_id: "461153"
+version_id: "680332"
+internal_id: "C680331"
+label_id: "448244"
+dtd_version: "2.0"
+original_entry_into_force: "1953-01-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002124/1954-01-07/0"
+intitule_bron: "Stb.1953-621"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1953-12-23"
+intitule_status: "goed"
+original_publication: "Stb.1953-621"
+original_signed_date: "1953-12-23"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1953-01-07"
+jci_1_3: "jci1.3:c:BWBR0002124&z=1954-01-07&g=1954-01-07"
+jci_1_0: "1.0:c:BWBR0002124&g=1954-01-07"
+citeertitel_status: "officieel"
+short_title: "Wet voorzieningen ten aanzien van buitengewone registers van de burgerlijke stand"
+signed_date: "1953-12-23"
+entry_into_force: "1953-01-07"
 ---
-
-# Wet voorzieningen ten aanzien van buitengewone registers van de burgerlijke stand
+# Wet van 23 december 1953, houdende voorzieningen ten aanzien van enige tijdens de oorlog gehouden registers van de burgerlijke stand
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +38,7 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is voorzieningen te tre
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Te rekenen van de inwerkingtreding van deze wet is uitsluitend de ambtenaar van de burgerlijke stand te 's-Gravenhage buitengewoon ambtenaar van de burgerlijke stand in de zin van het besluit van 26 Maart 1942, **Stb.** C 20. Hij bewaart de buitengewone registers van de burgerlijke stand, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002124&artikel=1&z=1954-01-07&g=1954-01-07) van genoemd besluit, alsmede het buitengewone register van echtscheidingen bedoeld in artikel 3 van het besluit van 28 Maart 1945, **Stb.** F 30.
 
@@ -24,15 +46,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 3. Onze Minister van Justitie treft nadere voorzieningen ten aanzien van de dubbelen der buitengewone registers.
 
-#### Artikel 2
+##### Artikel 2
 
 Akten van geboorte, van gesloten huwelijk en van overlijden worden in de buitengewone registers niet meer opgenomen, tenzij deze gebeurtenissen plaats vonden vóór 1 Juni 1945 en aan de buitengewone ambtenaar van de burgerlijke stand blijkt, dat in een bepaald geval bij de inschrijving belang bestaat.
 
-#### Artikel 3
+##### Artikel 3
 
 Het Koninklijk besluit van 28 Maart 1945 (**Stb.** F 30) wordt ingetrokken.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De tijdens de bezetting hier te lande door Duitse ambtenaren van de burgerlijke stand gehouden registers worden afgesloten en bewaard door de Nederlandse ambtenaren van de burgerlijke stand in de gemeenten, waar de Duitse ambtenaren waren gevestigd.
 
@@ -42,7 +64,7 @@ Het Koninklijk besluit van 28 Maart 1945 (**Stb.** F 30) wordt ingetrokken.
 
 4. Uittreksels uit Duitse akten worden afgegeven in de Nederlandse taal.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze wet treedt in werking met ingang van de dag na die van haar afkondiging.
 

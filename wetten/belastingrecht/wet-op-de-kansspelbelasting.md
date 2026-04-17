@@ -1,14 +1,38 @@
 ---
-title: "Wet op de kansspelbelasting"
+title: "Wet van 14 september 1961, houdende regelen inzake de belastingheffing met betrekking tot kansspelen"
 identifier: "BWBR0002359"
-categorie: "Belastingrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002359"
+country: "nl"
+rank: "wet"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002359"
+soort: "wet"
+stam_id: "1274783"
+version_id: "1893252"
+internal_id: "C1893251"
+label_id: "1234584"
+dtd_version: "2.0"
+original_entry_into_force: "1961-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002359/2026-01-01/0"
+intitule_bron: "Stb.1961-313"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1961-09-14"
+intitule_status: "goed"
+original_publication: "Stb.1961-313"
+original_signed_date: "1961-09-14"
+original_effect: "nieuwe-regeling"
+original_dossier: "5787"
+entry_into_force_date: "1961-11-01"
+entry_into_force_dossier: "5787"
+jci_1_3: "jci1.3:c:BWBR0002359&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0002359&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet op de kansspelbelasting"
+signed_date: "1961-09-14"
+entry_into_force: "1961-11-01"
 ---
-
-# Wet op de kansspelbelasting
+# Wet van 14 september 1961, houdende regelen inzake de belastingheffing met betrekking tot kansspelen
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +42,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk I. Belastingplicht
 
-#### Artikel 1
+##### Artikel 1
 
 Onder de naam kansspelbelasting wordt een belasting geheven van:
 
@@ -44,7 +68,7 @@ Onder de naam kansspelbelasting wordt een belasting geheven van:
 
 - i. de in Nederland wonende of gevestigde gerechtigden tot de prijzen van kansspelen op afstand, niet zijnde kansspelen op afstand als bedoeld in onderdeel d.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Onder kansspelen worden verstaan gelegenheden, gegeven tot mededinging naar:
 
@@ -66,7 +90,7 @@ Onder de naam kansspelbelasting wordt een belasting geheven van:
 
 ### Hoofdstuk II. Voorwerp van de belasting
 
-#### Artikel 3
+##### Artikel 3
 
 1. De belasting wordt geheven:
 
@@ -82,7 +106,7 @@ Onder de naam kansspelbelasting wordt een belasting geheven van:
 
 ### Hoofdstuk III. Vrijstellingen
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien [artikel 1, onderdeel g of h](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=I&artikel=1&z=2026-01-01&g=2026-01-01), van toepassing is, is van de belasting vrijgesteld:
 
@@ -94,7 +118,7 @@ Onder de naam kansspelbelasting wordt een belasting geheven van:
 
 ### Hoofdstuk IV. Tarief
 
-#### Artikel 5
+##### Artikel 5
 
 1. De belasting bedraagt 37,8 percent.
 
@@ -102,17 +126,17 @@ Onder de naam kansspelbelasting wordt een belasting geheven van:
 
 ### Hoofdstuk V. Wijze van heffing
 
-#### Artikel 5a
+##### Artikel 5a
 
 1. In de gevallen waarin [artikel 1, onderdeel a, b, c, d, e of f](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=I&artikel=1&z=2026-01-01&g=2026-01-01), van toepassing is, moet de in een tijdvak verschuldigd geworden belasting op aangifte worden voldaan.
 
 2. De belasting is verschuldigd op de laatste dag van het tijdvak, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=II&artikel=3&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 5b
+##### Artikel 5b
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 1. In de gevallen waarin [artikel 1, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=I&artikel=1&z=2026-01-01&g=2026-01-01), van toepassing is, wordt de belasting geheven door inhouding op de prijs.
 
@@ -124,11 +148,11 @@ Vervallen
 
 5. De inhoudingsplichtige is verplicht de ingehouden belasting op aangifte af te dragen. Het tijdstip waarop de belasting is verschuldigd, is het tijdstip waarop de prijs ter beschikking is gesteld of, onder bij ministeriële regeling te stellen voorwaarden, de laatste dag van de kalendermaand of van het kalenderkwartaal waarin de prijs ter beschikking is gesteld.
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 1. In de gevallen waarin [artikel 1, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=I&artikel=1&z=2026-01-01&g=2026-01-01), van toepassing is, moet de belasting op aangifte worden voldaan.
 
@@ -138,63 +162,63 @@ Vervallen
 
 - b. vorderbaar en tevens inbaar wordt.
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
 ### Hoofdstuk VI. Strafbepaling
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
 ### Hoofdstuk VII. Overgangs- en slotbepalingen
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
-#### Artikel 17
+##### Artikel 17
 
 Vervallen
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
-#### Artikel 19
+##### Artikel 19
 
 1. Deze wet treedt in werking met ingang van een door Ons te bepalen tijdstip.
 
 2. Haar bepalingen zijn van toepassing, indien de gerechtigdheid tot de prijs op of na dat tijdstip ontstaat.
 
-#### Artikel 20
+##### Artikel 20
 
 Deze wet kan worden aangehaald als: Wet op de kansspelbelasting.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 8a
+##### Artikel 8a
 
 1. In de gevallen waarin [artikel 1, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=I&artikel=1&z=2026-01-01&g=2026-01-01), van toepassing is, moet de belasting op aangifte worden voldaan.
 

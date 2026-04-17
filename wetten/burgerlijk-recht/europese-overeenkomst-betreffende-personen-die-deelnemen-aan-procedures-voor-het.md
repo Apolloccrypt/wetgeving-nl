@@ -1,13 +1,37 @@
 ---
 title: "Europese Overeenkomst betreffende personen die deelnemen aan procedures voor het Europese Hof voor de Rechten van de Mens"
 identifier: "BWBV0001270"
-categorie: "Burgerlijk recht"
-publicatiedatum: 1999-01-01
-laatste_update: 1999-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001270"
+country: "nl"
+rank: "verdrag"
+publication_date: "1999-01-01"
+last_updated: "1999-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001270"
+soort: "verdrag"
+stam_id: "10000136313"
+version_id: "10000156402"
+internal_id: "C10006987561"
+label_id: "10000136484"
+original_entry_into_force: "1999-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001270/1999-01-01/0"
+intitule_bron: "Trb.1996-130"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-01-21"
+intitule_published: "1996-05-09"
+intitule_in_force: "1999-01-29"
+intitule_status: "goed"
+original_publication: "Trb.1996-130"
+original_signed_date: "1997-01-21"
+original_published_date: "1996-05-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1996-130"
+entry_into_force_date: "1999-01-01"
+jci_1_3: "jci1.3:c:BWBV0001270&z=1999-01-01&g=1999-01-01"
+jci_1_0: "1.0:c:BWBV0001270&g=1999-01-01"
+citeertitel_status: "officieel"
+signed_date: "1997-01-21"
+entry_into_force: "1999-01-01"
 ---
-
 # Europese Overeenkomst betreffende personen die deelnemen aan procedures voor het Europese Hof voor de Rechten van de Mens
 
 De Lidstaten van de Raad van Europa, die deze Overeenkomst hebben ondertekend,
@@ -22,7 +46,7 @@ Overwegende, in het licht van deze ontwikkeling, dat het voor een betere verweze
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 1. De personen op wie deze Overeenkomst van toepassing is, zijn:
 
@@ -34,13 +58,13 @@ Zijn het volgende overeengekomen:
 
 3. Indien bij de uitoefening door het Comité van Ministers van zijn bevoegdheden ingevolge [artikel 46, tweede lid, van het Verdrag](onbekend) een der personen genoemd in het eerste lid van dit artikel wordt opgeroepen om te verschijnen voor of schriftelijke verklaringen in te dienen bij het Comité van Ministers, zijn ook op hem de bepalingen van dit Verdrag van toepassing.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De personen bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001270&artikel=1&z=1999-01-01&g=1999-01-01), van deze Overeenkomst genieten immuniteit van rechtsvervolging ten aanzien van mondelinge of schriftelijke verklaringen afgelegd tegenover, of ten aanzien van documenten of ander bewijsmateriaal door hen overgelegd aan het Hof.
 
 2. Deze immuniteit geldt niet voor het mededelen buiten het Hof van tegenover het Hof afgelegde verklaringen of aan het Hof overgelegde documenten of ander bewijsmateriaal.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De Overeenkomstsluitende Partijen eerbiedigen het recht van de personen bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001270&artikel=1&z=1999-01-01&g=1999-01-01), van deze Overeenkomst, om vrijelijk te corresponderen met het Hof.
 
@@ -54,7 +78,7 @@ Zijn het volgende overeengekomen:
 
 3. Bij de toepassing van de voorgaande leden van dit artikel onthoudt het openbaar gezag zich van inmenging, tenzij de wet daarin voorziet en het betrokken optreden in een democratische samenleving noodzakelijk is voor de nationale veiligheid, de opsporing en de vervolging van een strafbaar feit of de bescherming van de gezondheid.
 
-#### Artikel 4
+##### Artikel 4
 
 - a. De Overeenkomstsluitende Partijen nemen de verplichting op zich aan de in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001270&artikel=1&z=1999-01-01&g=1999-01-01), van deze Overeenkomst bedoelde personen geen beperkingen op te leggen wat betreft hun vrijheid van beweging en het maken van reizen met het doel aan procedures voor het Hof deel te nemen en daarvan terug te keren.
 
@@ -70,7 +94,7 @@ Zijn het volgende overeengekomen:
 
 5. In geval van tegenstrijdigheid tussen de verplichtingen van een Overeenkomstsluitende Partij die voortvloeien uit het tweede lid van dit artikel en die welke voortvloeien uit een verdrag van de Raad van Europa, een uitleveringsverdrag of enig ander verdrag betreffende wederzijdse rechtshulp in strafzaken dat is gesloten met andere Overeenkomstsluitende Partijen, gelden de bepalingen van het tweede lid van dit artikel.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De immuniteiten en faciliteiten worden aan de in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001270&artikel=1&z=1999-01-01&g=1999-01-01), van deze Overeenkomst bedoelde personen verleend, uitsluitend teneinde hun de vrijheid van spreken en de onafhankelijkheid te waarborgen die noodzakelijk zijn voor de uitoefening van hun functies, taak of verplichtingen, of voor de uitoefening van hun rechten met betrekking tot het Hof.
 
@@ -84,11 +108,11 @@ Zijn het volgende overeengekomen:
 
 4. Indien een feit aan het licht komt dat vanwege zijn aard van beslissende betekenis kan zijn en waarvan ten tijde dat besloten werd te weigeren deze immuniteit op te heffen de indiener van het verzoek geen kennis droeg, kan deze een nieuw verzoek tot het Hof richten.
 
-#### Artikel 6
+##### Artikel 6
 
 Geen enkele bepaling van deze Overeenkomst mag zo worden uitgelegd dat zij een ingevolge het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001000) en de Protocollen daarbij door de Overeenkomstsluitende Partijen aangegane verplichting zou beperken of daaraan afbreuk zou doen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Deze Overeenkomst staat open voor ondertekening door de Lidstaten van de Raad van Europa die hun instemming te worden gebonden tot uitdrukking brengen door middel van:
 
@@ -98,13 +122,13 @@ Geen enkele bepaling van deze Overeenkomst mag zo worden uitgelegd dat zij een i
 
 2. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Deze Overeenkomst treedt in werking op de eerste dag van de maand die volgt na het verstrijken van een tijdvak van een maand na de datum waarop tien Lidstaten van de Raad van Europa hun instemming door deze Overeenkomst te worden gebonden tot uitdrukking hebben gebracht overeenkomstig het bepaalde in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001270&artikel=7&z=1999-01-01&g=1999-01-01), indien op die datum Protocol nr. 11 bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001000) in werking is getreden of, indien dit niet het geval is, op de datum van inwerkingtreding van Protocol nr. 11.
 
 2. Voor elke Lidstaat die later zijn instemming door deze Overeenkomst te worden gebonden tot uitdrukking brengt, treedt deze Overeenkomst in werking op de eerste dag van de maand die volgt na het verstrijken van een tijdvak van een maand na de datum van de ondertekening of van de nederlegging van de akte van bekrachtiging, aanvaarding of goedkeuring.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Elke Overeenkomstsluitende Staat kan bij de nederlegging van zijn akte van bekrachtiging, aanvaarding of goedkeuring of op elk later tijdstip, door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte verklaring de toepasselijkheid van deze Overeenkomst uitbreiden tot het gebied of de gebieden genoemd in die verklaring en voor de internationale betrekkingen waarvan hij verantwoordelijk is of waarvoor hij bevoegd is verplichtingen aan te gaan.
 
@@ -112,7 +136,7 @@ Geen enkele bepaling van deze Overeenkomst mag zo worden uitgelegd dat zij een i
 
 3. Iedere ingevolge het eerste lid afgelegde verklaring kan ten aanzien van elk in die verklaring genoemd gebied overeenkomstig de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001270&artikel=10&z=1999-01-01&g=1999-01-01) van deze Overeenkomst omschreven procedure worden ingetrokken.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Deze Overeenkomst blijft voor onbepaalde tijd van kracht.
 
@@ -120,7 +144,7 @@ Geen enkele bepaling van deze Overeenkomst mag zo worden uitgelegd dat zij een i
 
 3. De opzegging wordt van kracht zes maanden na de datum waarop de Secretaris-Generaal de kennisgeving heeft ontvangen. De opzegging kan er echter niet toe leiden dat de betrokken Overeenkomstsluitende Partij wordt ontslagen van enige verplichting die uit deze Overeenkomst zou kunnen zijn ontstaan met betrekking tot personen bedoeld in artikel 1, eerste lid.
 
-#### Artikel 11
+##### Artikel 11
 
 De Secretaris-Generaal van de Raad van Europa stelt de Lidstaten van de Raad in kennis van:
 

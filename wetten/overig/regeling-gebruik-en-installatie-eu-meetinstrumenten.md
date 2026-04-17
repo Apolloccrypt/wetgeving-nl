@@ -1,13 +1,39 @@
 ---
-title: "Regeling gebruik en installatie EU-meetinstrumenten"
+title: "Regeling van de Minister van Economische Zaken van 23 november 2006, nr. WJZ 6098739, houdende regels omtrent de eisen bij het gebruik van in Europese richtlijnen opgenomen en in het Meetinstrumentenbesluit I en Meetinstrumentenbesluit II geregelde meetinstrumenten en houdende enkele voorschriften inzake de installatie van die instrumenten (Regeling gebruik en installatie EU-meetinstrumenten)"
 identifier: "BWBR0020566"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020566"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020566"
+soort: "ministeriele-regeling"
+stam_id: "8739073"
+version_id: "13794222"
+internal_id: "C18618791"
+label_id: "8719234"
+dtd_version: "2.0"
+original_entry_into_force: "2006-11-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020566/2026-01-01/0"
+intitule_bron: "Stcrt.2006-231"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-11-23"
+intitule_published: "2006-11-27"
+intitule_in_force: "2006-11-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-231"
+original_signed_date: "2006-11-23"
+original_published_date: "2006-11-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-231-p11-SC77904"
+entry_into_force_date: "2006-11-29"
+jci_1_3: "jci1.3:c:BWBR0020566&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0020566&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling gebruik en installatie EU-meetinstrumenten"
+signed_date: "2006-11-23"
+entry_into_force: "2006-11-29"
 ---
-
 # Regeling van de Minister van Economische Zaken van 23 november 2006, nr. WJZ 6098739, houdende regels omtrent de eisen bij het gebruik van in Europese richtlijnen opgenomen en in het Meetinstrumentenbesluit I en Meetinstrumentenbesluit II geregelde meetinstrumenten en houdende enkele voorschriften inzake de installatie van die instrumenten (Regeling gebruik en installatie EU-meetinstrumenten)
 
 Gelet op de[artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0019897&artikel=9) en [14 van het Meetinstrumentenbesluit I](https://wetten.overheid.nl/jci1.3:c:BWBR0019897&artikel=14) en [artikel 8 van het Meetinstrumentenbesluit II](https://wetten.overheid.nl/jci1.3:c:BWBR0020554&artikel=8);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -38,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Algemene bepalingen
 
-#### Artikel 2
+##### Artikel 2
 
 Meetinstrumenten als bedoeld in [artikel 5 van het Besluit meetinstrumenten en marktdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&artikel=5) en niet-automatische weegwerktuigen als bedoeld in [artikel 6 van het Besluit meetinstrumenten en marktdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&artikel=6) voldoen na ingebruikneming aan de volgende voorschriften:
 
@@ -52,23 +78,23 @@ Meetinstrumenten als bedoeld in [artikel 5 van het Besluit meetinstrumenten en m
 
 - e. zij zijn zodanig opgesteld dat, indien zij aanwezig zijn op plaatsen van verkoop aan particulieren van goederen die bij de maat of het gewicht worden verkocht, de koper de aanwijzing van het betrokken meetinstrument of niet-automatisch weegwerktuig onbelemmerd kan waarnemen.
 
-#### Artikel 3
+##### Artikel 3
 
 Meetinstrumenten als bedoeld in [artikel 5 van het Besluit meetinstrumenten en marktdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&artikel=5) voldoen na ingebruikneming aan de in bijlage I van de richtlijn meetinstrumenten opgenomen essentiële eisen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Niet-automatische weegwerktuigen als bedoeld in [artikel 6 van het Besluit meetinstrumenten en marktdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&artikel=6) voldoen na ingebruikneming aan de essentiële eisen van bijlagen I en III van de richtlijn niet-automatische weegwerktuigen.
 
 2. [Artikel 6, tweede lid, van het Besluit meetinstrumenten en marktdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&artikel=6) is van toepassing.
 
-#### Artikel 5
+##### Artikel 5
 
 Indien ten aanzien van het gebruik een specifieke nauwkeurigheidsklasse voor een meetinstrument is voorgeschreven, mag ook een meetinstrument worden gebruikt dat in een hogere nauwkeurigheidsklasse valt.
 
 #### § 3. Specifieke bepalingen inzake meetinstrumenten van de richtlijn meetinstrumenten
 
-#### Artikel 6
+##### Artikel 6
 
 1. Gasmeters en volumeherleidingsinstrumenten voldoen na ingebruikneming aan de toepasselijke essentiële eisen van bijlage IV van de richtlijn meetinstrumenten met dien verstande dat:
 
@@ -78,7 +104,7 @@ Indien ten aanzien van het gebruik een specifieke nauwkeurigheidsklasse voor een
 
 2. Voordat een gasmeter op de bestemde plaats in gebruik wordt genomen, stelt degene die zorg draagt voor de installatie van de meter vast of de meter geschikt is voor de omstandigheden met het oog op een correcte meting van het te verwachten gebruik.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Kilowattuurmeters voldoen na ingebruikneming aan de toepasselijke essentiële eisen van bijlage V van de richtlijn meetinstrumenten, met dien verstande dat:
 
@@ -90,7 +116,7 @@ Indien ten aanzien van het gebruik een specifieke nauwkeurigheidsklasse voor een
 
 2. Voordat een kilowattuurmeter op de bestemde plaats in gebruik wordt genomen, stelt degene die zorgdraagt voor de installatie hiervan vast of in de gegeven omstandigheden de kilowattuurmeter geschikt is voor een correcte meting van het te verwachten gebruik.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Indien meerdere kilowattuurmeters ingevolge [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&artikel=7) opnieuw een overeenstemmingsbeoordeling moet ondergaan, kan de overeenstemmingsbeoordeling op verzoek van de aanvrager worden uitgevoerd door middel van een beoordeling van een aantal meters dat is geselecteerd door middel van een representatieve steekproef, indien de kilowattuurmeters de volgende eigenschappen hebben:
 
@@ -104,7 +130,7 @@ Indien ten aanzien van het gebruik een specifieke nauwkeurigheidsklasse voor een
 
 2. Bijlage II, module F, onderdelen 5.2, 5.3 en 5.4, eerste volzin, van de richtlijn meetinstrumenten is van overeenkomstige toepassing.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Vloeistofmeetinstallaties voldoen na ingebruikneming aan de toepasselijke essentiële eisen van bijlage VII van de richtlijn meetinstrumenten.
 
@@ -118,7 +144,7 @@ Indien ten aanzien van het gebruik een specifieke nauwkeurigheidsklasse voor een
 
 3. Indien een vloeistofmeetinstallatie wordt aangesloten op onder de werking van de [IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082) toegelaten andere apparatuur en deze apparatuur eveneens het meetresultaat vastlegt en weergeeft, voldoet deze apparatuur wat betreft het vastleggen en weergeven van het meetresultaat aan de eisen van de richtlijn meetinstrumenten en mag de weergave van het meetresultaat op die andere apparatuur niet afwijken van het door de vloeistofmeetinstallatie vastgestelde meetresultaat.
 
-#### Artikel 10
+##### Artikel 10
 
 Automatische weeginstrumenten met een in [artikel 2, onderdeel e, onder 1°,](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&artikel=2) of [artikel 2a van het Besluit meetinstrumenten en marktdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&artikel=2a) bedoelde taak voldoen na ingebruikneming aan de toepasselijke essentiële eisen van bijlage VIII van de richtlijn meetinstrumenten, met dien verstande dat:
 
@@ -142,7 +168,7 @@ Automatische weeginstrumenten met een in [artikel 2, onderdeel e, onder 1°,](ht
 | 10.000 g < m ≤ 15.000g | 10 g |
 | 15.000 g < m | 0,067 % |
 
-#### Artikel 11
+##### Artikel 11
 
 Automatische weeginstrumenten met een in [artikel 2, onderdeel e, onder 2°, van het Besluit meetinstrumenten en marktdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&artikel=2) bedoelde taak voldoen na ingebruikneming aan de toepasselijke essentiële eisen van bijlage VIII van de richtlijn meetinstrumenten, met dien verstande dat:
 
@@ -150,15 +176,15 @@ Automatische weeginstrumenten met een in [artikel 2, onderdeel e, onder 2°, van
 
 - b. bij de berekening van de instelfout, bedoeld in hoofdstuk III, onderdeel 2.3, uitgegaan wordt van het in hoofdstuk III, onderdeel 2.2, in tabel 5 vermelde percentage, zonder toepassing van de hiervoor in onderdeel a vermelde vermenigvuldigingsfactor.
 
-#### Artikel 12
+##### Artikel 12
 
 Automatische weeginstrumenten met een in [artikel 2, onderdeel e, onder 3°, van het Besluit meetinstrumenten en marktdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&artikel=2) bedoelde taak voldoen na ingebruikneming aan de toepasselijke essentiële eisen van bijlage VIII van de richtlijn meetinstrumenten, met dien verstande dat de in hoofdstuk IV, onderdeel 2, tabel 6, opgenomen maximaal toelaatbare fout van de getotaliseerde last telkens met een factor 2 wordt vermenigvuldigd.
 
-#### Artikel 13
+##### Artikel 13
 
 Automatische weeginstrumenten met een in [artikel 2, onderdeel e, onder 4°, van het Besluit meetinstrumenten en marktdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&artikel=2) bedoelde taak voldoen na ingebruikneming aan de toepasselijke essentiële eisen van bijlage VIII van de richtlijn meetinstrumenten, met dien verstande dat de in hoofdstuk V, onderdeel 3, tabel 8, opgenomen maximaal toelaatbare fout voor de totale last telkens met een factor 2 wordt vermenigvuldigd.
 
-#### Artikel 14
+##### Artikel 14
 
 Automatische weeginstrumenten met een in [artikel 2, onderdeel e, onder 5°, van het Besluit meetinstrumenten en marktdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&artikel=2) bedoelde taak voldoen na ingebruikneming aan de toepasselijke essentiële eisen van bijlage VIII van de richtlijn meetinstrumenten, met dien verstande dat:
 
@@ -166,7 +192,7 @@ Automatische weeginstrumenten met een in [artikel 2, onderdeel e, onder 5°, van
 
 - b. bij de berekeningen bedoeld in hoofdstuk VI, onderdeel 2.2, 2.3 en 2.4, uitgegaan wordt van de maximaal toelaatbare fout, zoals vastgesteld na de hiervoor in onderdeel a aangegeven vermenigvuldiging.
 
-#### Artikel 15
+##### Artikel 15
 
 Een automatisch weegwerktuig dat niet in een hogere nauwkeurigheidsklasse valt dan, wat betreft:
 
@@ -190,7 +216,7 @@ mag slechts worden gebruikt voor:
 
 - 5°. het wegen van beladen containers, bedoeld in hoofdstuk VI, deel A, voorschrift 2, vierde lid, onderdeel 1, van de bijlage van het SOLAS-verdrag.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Nadat een taxameter in combinatie met een afstandssignaalgenerator is ingebouwd, wordt zij in een taxi niet eerder gebruikt dan nadat door een aangewezen instantie of een natuurlijke persoon of een rechtspersoon die beschikt over een erkenning als bedoeld in [artikel 11 van de Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&artikel=11) is onderzocht, dat de meting op correcte wijze geschiedt en dat de taxameter onder deze omstandigheden aan de in deze regeling gestelde eisen voldoet.
 
@@ -228,17 +254,17 @@ mag slechts worden gebruikt voor:
 
 - f. de type-aanduiding en fabrieksnummer van de betrokken taxameter.
 
-#### Artikel 17
+##### Artikel 17
 
 Multidimensionale meetinstrumenten voldoen na ingebruikneming aan de toepasselijke essentiële eisen van bijlage XI, hoofdstukken I en IV, van de richtlijn meetinstrumenten.
 
 #### § 4. Specifieke bepalingen inzake niet-automatische weegwerktuigen
 
-#### Artikel 18
+##### Artikel 18
 
 Een niet-automatisch weegwerktuig dat wordt gebruikt voor weging van edele metalen, parels, edelgesteenten of munten voldoet aan de eisen voor weegwerktuigen met een nauwkeurigheidsklasse I of II als bedoeld in onderdeel 2.1 van bijlage I van de richtlijn niet-automatische weegwerktuigen.
 
-#### Artikel 19
+##### Artikel 19
 
 Een niet-automatisch weegwerktuig dat niet voldoet aan een hogere nauwkeurigheidsklasse dan klasse IIII, bedoeld in onderdeel 2.1 van bijlage I van de richtlijn niet-automatische weegwerktuigen, mag slechts worden gebruikt voor:
 
@@ -256,27 +282,27 @@ Een niet-automatisch weegwerktuig dat niet voldoet aan een hogere nauwkeurigheid
 
 #### § 5. Specifieke bepalingen inzake korenschalen, alcoholmeters en areometers voor alcohol
 
-#### Artikel 20
+##### Artikel 20
 
 Vervallen
 
-#### Artikel 21
+##### Artikel 21
 
 Vervallen
 
 #### § 6. Slotbepalingen
 
-#### Artikel 22
+##### Artikel 22
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 23
+##### Artikel 23
 
 Deze regeling wordt aangehaald als: Regeling gebruik en installatie EU-meetinstrumenten.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 19a
+##### Artikel 19a
 
 Een niet-automatisch weegwerktuig dat wordt gebruikt voor het wegen van visserijproducten aan boord van een vissersvaartuig is deiningsgecompenseerd.
 
@@ -286,7 +312,7 @@ Een niet-automatisch weegwerktuig dat wordt gebruikt voor het wegen van visserij
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 8a
+##### Artikel 8a
 
 1. Thermische energiemeters voldoen na ingebruikneming aan de toepasselijke essentiële eisen van bijlage VI van de richtlijn meetinstrumenten met dien verstande dat de maximaal toelaatbare fout in onderdeel 3 telkens met de factor 2 wordt vermenigvuldigd.
 
@@ -302,7 +328,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 21a
+##### Artikel 21a
 
 Deze regeling berust op de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&artikel=11) en [14, derde lid, van het Besluit meetinstrumenten en marktdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&artikel=14).
 

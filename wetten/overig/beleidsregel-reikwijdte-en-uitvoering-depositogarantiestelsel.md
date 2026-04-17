@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel Reikwijdte en Uitvoering Depositogarantiestelsel"
+title: "Beleidsregel van De Nederlandsche Bank N.V. inzake de reikwijdte en uitvoering van het depositogarantiestelsel als bedoeld in artikel 3:259, lid 2 van de Wft (Beleidsregel Reikwijdte en Uitvoering Depositogarantiestelsel)"
 identifier: "BWBR0039820"
-categorie: "Overig"
-publicatiedatum: 2025-04-01
-laatste_update: 2025-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039820"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-04-01"
+last_updated: "2025-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039820"
+soort: "zbo"
+stam_id: "14078383"
+version_id: "24243032"
+internal_id: "C34822291"
+label_id: "14039354"
+dtd_version: "2.0"
+original_entry_into_force: "2017-07-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039820/2025-04-01/0"
+intitule_bron: "Stcrt.2017-41453"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-07-10"
+intitule_published: "2017-07-21"
+intitule_in_force: "2017-07-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-41453"
+original_signed_date: "2017-07-10"
+original_published_date: "2017-07-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-41453"
+entry_into_force_date: "2017-07-22"
+jci_1_3: "jci1.3:c:BWBR0039820&z=2025-04-01&g=2025-04-01"
+jci_1_0: "1.0:c:BWBR0039820&g=2025-04-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel Reikwijdte en Uitvoering Depositogarantiestelsel"
+signed_date: "2017-07-10"
+entry_into_force: "2017-07-22"
 ---
-
 # Beleidsregel van De Nederlandsche Bank N.V. inzake de reikwijdte en uitvoering van het depositogarantiestelsel als bedoeld in artikel 3:259, lid 2 van de Wft (Beleidsregel Reikwijdte en Uitvoering Depositogarantiestelsel)
 
 Na overleg met representatieve organisaties;
@@ -18,7 +44,7 @@ Besluit tot het vaststellen van de volgende Beleidsregel reikwijdte en uitvoerin
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1
+##### Artikel 1.1
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -46,7 +72,7 @@ In deze beleidsregel wordt verstaan onder:
 
 ### Afdeling 2.1. Derdengelden
 
-#### Artikel 2.1
+##### Artikel 2.1
 
 Van het kunnen vaststellen van de identiteit van een derde, voorafgaand aan de datum van het oordeel of uitspraak welke heeft geleid tot toepassing van het depositogarantiestelsel als bedoeld in [artikel 29.02, derde lid van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=29.02), is sprake indien de identiteit van de derde blijkt uit:
 
@@ -54,13 +80,13 @@ Van het kunnen vaststellen van de identiteit van een derde, voorafgaand aan de d
 
 - b. een door de rekeninghouder gevoerde professionele administratie, mits voor of op de datum van het oordeel of uitspraak welke heeft geleid tot toepassing van het depositogarantiestelsel uit de administratie van de bank blijkt dat het deposito ten behoeve van één of meer derden wordt gehouden.
 
-#### Artikel 2.2
+##### Artikel 2.2
 
 DNB kent vergoedingen uit hoofde van het DGS aan een derde toe indien aangetoond is of kan worden dat de informatie die DNB nodig heeft voor het vaststellen van de hoogte van de aanspraak van de derde reeds bestond voor de datum van het oordeel of uitspraak welke heeft geleid tot toepassing van het depositogarantiestelsel.
 
 ### Hoofdstuk 3. Uitvoering
 
-#### Artikel 3.1
+##### Artikel 3.1
 
 1. DNB hanteert een rangorde van in aanmerking komende deposito’s:
 
@@ -86,17 +112,17 @@ DNB kent vergoedingen uit hoofde van het DGS aan een derde toe indien aangetoond
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 4.1
+##### Artikel 4.1
 
 Deze beleidsregel treedt in werking met ingang van de dag na publicatie daarvan in de Staatscourant.
 
-#### Artikel 4.2
+##### Artikel 4.2
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel Reikwijdte en Uitvoering Depositogarantiestelsel.
 
 De beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3.2
+##### Artikel 3.2
 
 In het geval van deposito’s die worden aangehouden in een vreemde valuta waarvoor de Europese Centrale Bank geen referentiekoers bepaalt, stelt DNB de referentiekoers vast die gold op de datum bedoeld in het tweede lid van [artikel 29.06 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=29.06), aan de hand van:
 
@@ -106,7 +132,7 @@ In het geval van deposito’s die worden aangehouden in een vreemde valuta waarv
 
 - 3. Valutakoersen zoals gepubliceerd door een koersinformatieleverancier, in het geval het niet mogelijk is om een referentiekoers vast te stellen aan de hand van de mogelijkheden in het eerste of tweede lid.
 
-#### Artikel 3.3
+##### Artikel 3.3
 
 Bij het vaststellen van de vergoeding uit hoofde van het depositogarantiestelsel, als bedoeld in [artikel 3:261 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:261), worden verplichtingen van de depositohouder jegens de bank als volgt buiten beschouwing gelaten:
 
@@ -114,7 +140,7 @@ Bij het vaststellen van de vergoeding uit hoofde van het depositogarantiestelsel
 
 - b. indien het bedrag aan aangegroeide maar nog niet gecrediteerde rente negatief is, veronderstelt DNB bij de bepaling van de vergoeding het te crediteren rentebedrag als nihil.
 
-#### Artikel 3.4
+##### Artikel 3.4
 
 1. Bij toepassing van het depositogarantiestelsel dient een depositohouder DNB op de hoogte te stellen van de aanwezigheid van een tijdelijk hoog deposito. DNB stelt daartoe een formulier beschikbaar.
 
@@ -128,13 +154,13 @@ Bij het vaststellen van de vergoeding uit hoofde van het depositogarantiestelsel
 
 4. Ten behoeve van het onderzoek naar het bestaan van een tijdelijk hoog deposito, kan DNB een depositohouder verzoeken om aanvullende informatie te verstrekken die samenhangt met het tijdelijk hoog deposito.
 
-#### Artikel 3.5
+##### Artikel 3.5
 
 1. In het geval een depositohouder over één of meerdere rekeningen beschikt bij een bank in Nederland en tevens over één of meerdere rekeningen beschikt bij een bijkantoor van dezelfde bank in een andere lidstaat, keert DNB het toegekende bedrag aan de deposant uit en geschiedt de uitkering niet via het DGS van de lidstaat waar het bijkantoor is gevestigd.
 
 2. In het geval een depositohouder over rekeningen beschikt bij bijkantoren van dezelfde bank in verschillende andere lidstaten dan Nederland, keert DNB het gedekte bedrag aan de deposant uit en geschiedt de uitkering niet via één van de DGS-autoriteiten van de lidstaat waar het bijkantoor is gevestigd.
 
-#### Artikel 3.6
+##### Artikel 3.6
 
 De berekening van aangegroeide rente, zoals vastgelegd in [artikel 29.06, tweede lid van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=29.06), wordt als volgt toegepast in het geval sprake is van een gestructureerd deposito als bedoeld in artikel 4, eerste lid, onderdeel 43, van de richtlijn markten voor financiële instrumenten 2014:
 
@@ -148,7 +174,7 @@ De beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Afdeling 2.2. Overleden depositohouders
 
-#### Artikel 2.3
+##### Artikel 2.3
 
 1. In het geval een depositohouder is overleden en er nog geen wijziging van de tenaamstelling van het deposito uit de administratie van de bank blijkt of indien er sprake is van een zogenoemde ‘ervenrekening’, beoordeelt DNB de eventuele aanspraak van de erfgenamen op een vergoeding aan de hand van de door DNB te bepalen documentatie.
 
@@ -158,7 +184,7 @@ De beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
 
 4. Indien en zolang de nalatenschap van de overleden depositohouder nog niet is verdeeld, zijn de erfgenamen de gezamenlijke rechtsopvolgers van de overleden depositohouder voor wat betreft de gerechtigdheid tot een vergoeding uit hoofde van het depositogarantiestelsel. De vergoeding zal worden toegekend aan de erfgenamen gezamenlijk en worden uitbetaald op één door of namens de gezamenlijke erfgenamen op te geven bankrekening. Bij het vaststellen van de hoogte van de vergoeding uit hoofde van het depositogarantiestelsel die wordt toegekend aan de gezamenlijke erfgenamen wordt gekeken naar de vergoeding die aan de overleden depositohouder zou zijn toegekend ware deze nog in leven. Deze vergoeding staat los van en zal geen invloed hebben op de hoogte van een eventuele vergoeding van de betreffende erfgena(a)m(en) in verband met één of meer andere door de betreffende erfgenaam bij de bank aangehouden deposito’s.
 
-#### Artikel 2.4
+##### Artikel 2.4
 
 1. Bij het vaststellen van de vergoeding uit hoofde van het depositogarantiestelsel, als bedoeld in [artikel 3:261, eerste lid van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:261), beschouwt DNB de volgende overheden als overheden op wie het depositogarantiestelsel niet van toepassing is, als bedoeld in [artikel 29.01, tweede lid, aanhef en onderdeel a, sub 8 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=29.01):
 
@@ -178,7 +204,7 @@ De beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 3. Uitvoering
 
-#### Artikel 3.7
+##### Artikel 3.7
 
 1. In het geval van deposito’s die conform [artikel 6, eerste lid, onderdeel i van de Beleidsregel Individueel Klantbeeld Wft 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&artikel=6) zijn gemarkeerd als lijfrenterekeningen als bedoeld in de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) of stamrechtspaarrekeningen als bedoeld in de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471), stelt DNB de bijbehorende toegekende vergoeding uit hoofde van het depositogarantiestelsel niet automatisch beschikbaar voor uitkering via de website als bedoeld in [artikel 29.07, eerste lid van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=29.07).
 
@@ -192,13 +218,13 @@ De beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Afdeling 2.3. Uitsluitingen
 
-#### Artikel 2.5
+##### Artikel 2.5
 
 Vervallen
 
 ### Hoofdstuk 3. Uitvoering
 
-#### Artikel 3.8
+##### Artikel 3.8
 
 Bij het vaststellen van de uitkeringstermijn classificeert DNB als werkdag alle dagen van maandag tot en met vrijdag die niet zijn aangemerkt als feestdag conform de cao van DNB.
 

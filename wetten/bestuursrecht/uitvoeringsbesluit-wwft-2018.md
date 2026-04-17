@@ -1,13 +1,39 @@
 ---
-title: "Uitvoeringsbesluit Wwft 2018"
+title: "Besluit van 17 juli 2018, houdende nadere regels met betrekking tot uiteindelijk belanghebbenden en politiek prominente personen, het vaststellen van indicatoren voor het melden van ongebruikelijke transacties en tot wijziging van enige andere besluiten in verband met de implementatie van de vierde anti-witwasrichtlijn en de verordening betreffende bij geldovermakingen te voegen informatie (Uitvoeringsbesluit Wwft 2018)"
 identifier: "BWBR0041193"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-02-04
-laatste_update: 2025-02-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041193"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-02-04"
+last_updated: "2025-02-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041193"
+soort: "AMvB"
+stam_id: "14687423"
+version_id: "26722792"
+internal_id: "C37878701"
+label_id: "14639934"
+dtd_version: "2.0"
+original_entry_into_force: "2020-05-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041193/2025-02-04/0"
+intitule_bron: "Stb.2018-241"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-07-17"
+intitule_published: "2018-07-24"
+intitule_in_force: "2018-07-24"
+intitule_status: "goed"
+original_publication: "Stb.2020-147"
+original_signed_date: "2020-05-11"
+original_published_date: "2020-05-20"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2020-147"
+entry_into_force_date: "2020-05-21"
+jci_1_3: "jci1.3:c:BWBR0041193&z=2025-02-04&g=2025-02-04"
+jci_1_0: "1.0:c:BWBR0041193&g=2025-02-04"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsbesluit Wwft 2018"
+signed_date: "2020-05-11"
+entry_into_force: "2020-05-21"
 ---
-
 # Besluit van 17 juli 2018, houdende nadere regels met betrekking tot uiteindelijk belanghebbenden en politiek prominente personen, het vaststellen van indicatoren voor het melden van ongebruikelijke transacties en tot wijziging van enige andere besluiten in verband met de implementatie van de vierde anti-witwasrichtlijn en de verordening betreffende bij geldovermakingen te voegen informatie (Uitvoeringsbesluit Wwft 2018)
 
 Op de voordracht van Onze Minister van Financiën van 31 mei 2018, 2018-0000071536, directie Financiële Markten, gedaan mede namens Onze Minister van Justitie en Veiligheid;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 Treedt in werking op het tijdstip waarop de Implementatiewet vierde anti-witwasrichtlijn in werking treedt.
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -40,7 +66,7 @@ In dit besluit wordt verstaan onder:
 
 - **wet:** [Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Prominente publieke functies als bedoeld in de definitie van politiek prominente persoon in de zin van [artikel 1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1) zijn in elk geval:
 
@@ -76,7 +102,7 @@ In dit besluit wordt verstaan onder:
 
 - b. een natuurlijke persoon die de enige uiteindelijk belanghebbende is van een juridische entiteit of juridische constructie waarvan bekend is dat deze is opgezet ten behoeve van de feitelijke begunstiging van een politiek prominente persoon.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Categorieën van natuurlijke personen die in elk geval moeten worden aangemerkt als uiteindelijk belanghebbende zijn:
 
@@ -144,45 +170,45 @@ In dit besluit wordt verstaan onder:
 
 7. Het eerste lid, onderdelen a, b, c en d, het tweede, derde, vierde en zesde lid, zijn van overeenkomstige toepassing op een juridische entiteit die is aangewezen als uiteindelijk belanghebbende als bedoeld in het eerste lid, onderdeel e.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De indicatoren, bedoeld in [artikel 15, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=15), zijn vastgesteld in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0041193&bijlage=1&z=2025-02-04&g=2025-02-04) bij dit besluit.
 
 2. Voor bijkantoren in Nederland van een bank of andere financiële onderneming met zetel buiten Nederland als bedoeld in [artikel 1a, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1a), gelden de indicatoren die van toepassing zijn voor een bank of het type financiële onderneming waarvan het bijkantoor deel uitmaakt.
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 Dit besluit treedt in werking op het tijdstip waarop de Implementatiewet vierde anti-witwasrichtlijn in werking treedt.
 
-#### Artikel 13
+##### Artikel 13
 
 Dit besluit wordt aangehaald als: Uitvoeringsbesluit Wwft 2018.
 
@@ -234,7 +260,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### § 1. Inleidende bepalingen
 
-#### Artikel 1a
+##### Artikel 1a
 
 Vervallen
 
@@ -244,7 +270,7 @@ Vervallen
 
 #### § 4. Integere en beheerste bedrijfsvoering
 
-#### Artikel 10a
+##### Artikel 10a
 
 Vervallen
 

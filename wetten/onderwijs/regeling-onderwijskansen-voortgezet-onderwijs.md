@@ -1,20 +1,46 @@
 ---
-title: "Regeling onderwijskansen voortgezet onderwijs"
+title: "Regeling van de Minister voor Primair en Voortgezet Onderwijs van 18 januari 2024 nr. 43197358, houdende de vaststelling van een nieuwe Regeling onderwijskansen voortgezet onderwijs ter vervanging van de Regeling leerplusarrangement vo (Regeling onderwijskansen voortgezet onderwijs)"
 identifier: "BWBR0049325"
-categorie: "Onderwijs"
-publicatiedatum: 2026-01-30
-laatste_update: 2026-01-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049325"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-30"
+last_updated: "2026-01-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049325"
+soort: "ministeriele-regeling"
+stam_id: "17022733"
+version_id: "29948592"
+internal_id: "C42928731"
+label_id: "16932444"
+dtd_version: "2.0"
+original_entry_into_force: "2024-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049325/2026-01-30/0"
+intitule_bron: "Stcrt.2024-2569"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-01-18"
+intitule_published: "2024-02-01"
+intitule_in_force: "2024-02-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-2569"
+original_signed_date: "2024-01-18"
+original_published_date: "2024-02-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-2569"
+entry_into_force_date: "2024-02-01"
+jci_1_3: "jci1.3:c:BWBR0049325&z=2026-01-30&g=2026-01-30"
+jci_1_0: "1.0:c:BWBR0049325&g=2026-01-30"
+citeertitel_status: "officieel"
+short_title: "Regeling onderwijskansen voortgezet onderwijs"
+signed_date: "2024-01-18"
+entry_into_force: "2024-02-01"
 ---
-
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 18 januari 2024 nr. 43197358, houdende de vaststelling van een nieuwe Regeling onderwijskansen voortgezet onderwijs ter vervanging van de Regeling leerplusarrangement vo (Regeling onderwijskansen voortgezet onderwijs)
 
 Gelet op [artikel 5.9, eerste lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.9);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -36,15 +62,15 @@ In deze regeling wordt verstaan onder:
 
 - **wet:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
-#### Artikel 2. Toepassing Kaderregeling
+##### Artikel 2. Toepassing Kaderregeling
 
 Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
-#### Artikel 3. Doelomschrijving
+##### Artikel 3. Doelomschrijving
 
 De minister verstrekt op grond van deze regeling aanvullende bekostiging, met als doel te voorkomen dat leerlingen, die door omgevingsfactoren een verhoogd risico lopen op het niet optimaal kunnen benutten van hun leerpotentie, afstromen, onnodig doubleren of voortijdig de school verlaten.
 
-#### Artikel 4. Aanvullende bekostiging
+##### Artikel 4. Aanvullende bekostiging
 
 1. De verstrekking van aanvullende bekostiging op grond van deze regeling vindt telkens plaats voor één kalenderjaar.
 
@@ -56,7 +82,7 @@ De minister verstrekt op grond van deze regeling aanvullende bekostiging, met al
 
 5. De aanvullende bekostiging kan uiterlijk in de maand december van het jaar waarop de bekostiging betrekking heeft gewijzigd worden vastgesteld op basis van een bijdrage voor loon- en prijsontwikkeling.
 
-#### Artikel 5. Berekening aanvullende bekostiging
+##### Artikel 5. Berekening aanvullende bekostiging
 
 1. Een vestiging wordt aanvullend bekostigd met een bedrag per eenheid onderwijskansenscore. Indien de vestiging een onderwijskansenscore heeft van nul, of die op grond van het vijfde lid wordt gelijkgesteld aan nul, dan wordt voor de desbetreffende vestiging geen aanvullende bekostiging verstrekt.
 
@@ -106,13 +132,13 @@ De minister verstrekt op grond van deze regeling aanvullende bekostiging, met al
 
 10. Voor de toepassing van deze regeling wordt een vestiging waar zowel praktijkonderwijs als een andere schoolsoort wordt aangeboden, aangemerkt als twee vestigingen, te weten een vestiging voor praktijkonderwijs en een vestiging voor vmbo, havo en vwo.
 
-#### Artikel 6. Betaling
+##### Artikel 6. Betaling
 
 1. De minister verstrekt de aanvullende bekostiging voor alle vestigingen met een onderwijskansenscore van hoger dan 0, aan het bevoegd gezag van de school waar de vestiging aan toebehoort op 1 januari van het jaar waarop de bekostiging betrekking heeft.
 
 2. Het recht van het bevoegd gezag op de aanvullende bekostiging voor een school vervalt, indien de school wordt opgeheven of de bekostiging wordt beëindigd.
 
-#### Artikel 7. Beleid en verantwoording
+##### Artikel 7. Beleid en verantwoording
 
 1. Het bevoegd gezag van de school geeft in het schoolplan aan hoe het de aanvullende bekostiging op grond van deze regeling inzet voor het onderwijskundig beleid, de bewaking en de verbetering van de kwaliteit van het onderwijs.
 
@@ -122,27 +148,27 @@ De minister verstrekt op grond van deze regeling aanvullende bekostiging, met al
 
 4. Het bevoegd gezag verstrekt via XBRL aanvullende informatie over de activiteiten die met de aanvullende bekostiging zijn ondernomen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049325&artikel=3&z=2026-01-30&g=2026-01-30).
 
-#### Artikel 8. Financiële verantwoording
+##### Artikel 8. Financiële verantwoording
 
 1. De verantwoording van de besteding van de bekostiging geschiedt in de jaarverslaggeving overeenkomstig de [Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132).
 
 2. De aanvullende bekostiging kan ook worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt. Verrekening van de eventueel niet-bestede middelen of overschotten vindt niet plaats.
 
-#### Artikel 9. Wijziging [Regeling aanvullende bekostiging vo-scholen in uitzonderlijke omstandigheden](https://wetten.overheid.nl/jci1.3:c:BWBR0045607)
+##### Artikel 9. Wijziging [Regeling aanvullende bekostiging vo-scholen in uitzonderlijke omstandigheden](https://wetten.overheid.nl/jci1.3:c:BWBR0045607)
 
 Wijzigt de Regeling aanvullende bekostiging vo-scholen in uitzonderlijke omstandigheden.
 
-#### Artikel 10. Intrekking [Regeling leerplusarrangement vo](https://wetten.overheid.nl/jci1.3:c:BWBR0025977)
+##### Artikel 10. Intrekking [Regeling leerplusarrangement vo](https://wetten.overheid.nl/jci1.3:c:BWBR0025977)
 
 De [Regeling leerplusarrangement vo](https://wetten.overheid.nl/jci1.3:c:BWBR0025977) wordt ingetrokken.
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van 1 februari 2024 en werkt terug tot en met 1 januari 2024.
 
 2. In afwijking van het eerste lid treedt [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0049325&artikel=9&z=2026-01-30&g=2026-01-30) in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze regeling wordt geplaatst.
 
-#### Artikel 12. Citeertitel
+##### Artikel 12. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling onderwijskansen voortgezet onderwijs.
 

@@ -1,18 +1,40 @@
 ---
 title: "Culturele Overeenkomst tussen het Koninkrijk der Nederlanden en de Socialistische Federale Republiek Zuidslavië"
 identifier: "BWBV0005023"
-categorie: "Internationaal recht"
-publicatiedatum: 1967-05-29
-laatste_update: 1967-05-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005023"
+country: "nl"
+rank: "verdrag"
+publication_date: "1967-05-29"
+last_updated: "1967-05-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005023"
+soort: "verdrag"
+stam_id: "10004436173"
+version_id: "10004642702"
+internal_id: "C10006997911"
+label_id: "10004421004"
+dtd_version: "2.0"
+original_entry_into_force: "1967-05-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005023/1967-05-29/0"
+intitule_bron: "Trb.1966-196"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1966-09-02"
+intitule_in_force: "1967-06-14"
+intitule_status: "goed"
+original_publication: "Trb.1966-196"
+original_published_date: "1966-09-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1966-196"
+entry_into_force_date: "1967-05-29"
+jci_1_3: "jci1.3:c:BWBV0005023&z=1967-05-29&g=1967-05-29"
+jci_1_0: "1.0:c:BWBV0005023&g=1967-05-29"
+citeertitel_status: "redactioneel"
+entry_into_force: "1967-05-29"
 ---
-
 # Culturele Overeenkomst tussen het Koninkrijk der Nederlanden en de Socialistische Federale Republiek Zuidslavië
 
 De Regering van het Koninkrijk der Nederlanden en de Regering van de Socialistische Federale Republiek Zuidslavië, de wens koesterend de samenwerking tussen beide landen op het gebied van onderwijs, wetenschap en cultuur te bevorderen, ervan overtuigd dat deze samenwerking mede zal kunnen bijdragen tot een beter begrip tussen de volken van de beide landen, hebben besloten een culturele overeenkomst te sluiten, en zijn de volgende bepalingen overeengekomen:
 
-#### Artikel I
+##### Artikel I
 
 Ten einde de samenwerking tussen beide landen op het gebied van de wetenschapsbeoefening en het onderwijs te bevorderen, verbinden de Overeenkomstsluitende Partijen zich met name ertoe op basis van wederkerigheid:
 
@@ -24,7 +46,7 @@ Ten einde de samenwerking tussen beide landen op het gebied van de wetenschapsbe
 
 - d. na te gaan onder welke voorwaarden het mogelijk zou zijn de gelijkwaardigheid te erkennen van door universiteiten en andere instellingen van hoger onderwijs van het andere land verleende diploma's en de mogelijkheid te onderzoeken daartoe afzonderlijke regelingen te treffen.
 
-#### Artikel II
+##### Artikel II
 
 Ten einde in hun onderscheiden landen een betere kennis van de cultuur van het andere land te bevorderen, zullen de Overeenkomstsluitende Partijen wederkerig de uitwisseling van bezoeken en andere contacten aanmoedigen tussen vooraanstaande persoonlijkheden uit het culturele leven, zoals schrijvers, componisten, choreografen, beeldende kunstenaars, kunstcritici, tussen deskundigen op het gebied van de massamedia, het volksontwikkelingswerk, de jeugdvorming en de sportbeoefening.
 
@@ -44,15 +66,15 @@ Met hetzelfde doel zullen de Overeenkomstsluitende Partijen elkaar op basis van 
 
 - g. het vertonen van films met een wetenschappelijk, opvoedkundig of cultureel karakter.
 
-#### Artikel III
+##### Artikel III
 
 De Overeenkomstsluitende Partijen besluiten een gemengde commissie in te stellen die tot taak zal hebben ter uitvoering van de artikelen I en II van deze Overeenkomst aan de beide regeringen een programma van activiteiten telkens voor een periode van twee jaar aan te bevelen, vergezeld van suggesties betreffende de financiering van de verschillende onderdelen daarvan. Elke Overeenkomstsluitende Partij zal via de normale diplomatieke kanalen haar beslissing ten aanzien van de aanbevelingen en suggesties van de gemengde commissie aan de andere partij kenbaar maken.
 
-#### Artikel IV
+##### Artikel IV
 
 De commissie zal bestaan uit ten hoogste 10 leden; elke Overeenkomstsluitende Partij zal een gelijk aantal leden benoemen.
 
-#### Artikel V
+##### Artikel V
 
 De gemengde commissie zal in beginsel eenmaal in de twee jaar bijeenkomen, beurtelings in Nederland en in Zuidslavië.
 
@@ -62,17 +84,17 @@ De leden kunnen zich ter vergadering doen bijstaan door een beperkt aantal desku
 
 De bijeenkomsten zullen worden voorgezeten door een commissielid van het land waar zij worden gehouden.
 
-#### Artikel VI
+##### Artikel VI
 
 Wat het Koninkrijk der Nederlanden betreft, zal de onderhavige Overeenkomst gelden voor het Rijk in Europa.
 
-#### Artikel VII
+##### Artikel VII
 
 De onderhavige Overeenkomst zal worden bekrachtigd en de akten van bekrachtiging zullen zo spoedig mogelijk te 's-Gravenhage worden uitgewisseld.
 
 De Overeenkomst zal in werking treden op de datum van de uitwisseling van de akten van bekrachtiging.
 
-#### Artikel VIII
+##### Artikel VIII
 
 De onderhavige Overeenkomst zal van kracht blijven voor een tijdvak van vijf jaar. Indien zij niet zes maanden voor de datum van beëindiging is opgezegd, zal zij stilzwijgend worden verlengd, met dien verstande dat elk van de Overeenkomstsluitende Partijen zich in dat geval het recht voorbehoudt haar op ieder tijdstip op te zeggen met inachtneming van een termijn van zes maanden.
 

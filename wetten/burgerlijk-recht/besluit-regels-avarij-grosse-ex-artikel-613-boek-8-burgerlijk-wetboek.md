@@ -1,13 +1,39 @@
 ---
-title: "Besluit regels avarij-grosse ex artikel 613 Boek 8 Burgerlijk Wetboek"
+title: "Besluit van 5 februari 2000, houdende regels inzake avarij-grosse ter uitvoering van artikel 613 van Boek 8 van het Burgerlijk Wetboek"
 identifier: "BWBR0011151"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2000-05-01
-laatste_update: 2000-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011151"
+country: "nl"
+rank: "amvb"
+publication_date: "2000-05-01"
+last_updated: "2000-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011151"
+soort: "AMvB"
+stam_id: "2284783"
+version_id: "3503922"
+internal_id: "C3503921"
+label_id: "2234764"
+dtd_version: "2.0"
+original_entry_into_force: "2000-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011151/2000-05-01/0"
+intitule_bron: "Stb.2000-111"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-02-05"
+intitule_published: "2000-03-14"
+intitule_in_force: "2000-03-14"
+intitule_status: "goed"
+original_publication: "Stb.2000-111"
+original_signed_date: "2000-02-05"
+original_published_date: "2000-03-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2000-111"
+entry_into_force_date: "2000-05-01"
+jci_1_3: "jci1.3:c:BWBR0011151&z=2000-05-01&g=2000-05-01"
+jci_1_0: "1.0:c:BWBR0011151&g=2000-05-01"
+citeertitel_status: "officieel"
+short_title: "Besluit regels avarij-grosse ex artikel 613 Boek 8 Burgerlijk Wetboek"
+signed_date: "2000-02-05"
+entry_into_force: "2000-05-01"
 ---
-
 # Besluit van 5 februari 2000, houdende regels inzake avarij-grosse ter uitvoering van artikel 613 van Boek 8 van het Burgerlijk Wetboek
 
 Op de voordracht van Onze Minister van Justitie van 10 december 1999, gedaan mede namens Onze Minister van Verkeer en Waterstaat;
@@ -20,15 +46,15 @@ Gezien het nader rapport van Onze Minister van Justitie van 2 februari 2000, nr.
 
 Hebben goedgevonden en verstaan:
 
-#### ARTIKEL I
+##### ARTIKEL I
 
 Onder de «York-Antwerp Rules», bedoeld in [artikel 613 van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=613), worden verstaan de York-Antwerp Rules, 1994, zoals vastgesteld door het Comité Maritime International en zulks in de Engelstalige tekst daarvan, welke is opgenomen als bijlage bij dit besluit.
 
-#### ARTIKEL II
+##### ARTIKEL II
 
 Het koninklijk besluit van de Minister van Justitie van 22 maart 1991, ter uitvoering van artikel 613 van Boek 8 van het Burgerlijk Wetboek (Stb. 144), wordt ingetrokken.
 
-#### ARTIKEL III
+##### ARTIKEL III
 
 Dit besluit treedt in werking met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 

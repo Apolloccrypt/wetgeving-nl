@@ -1,20 +1,45 @@
 ---
 title: "Subtaakbesluit Commando Landstrijdkrachten 2015"
 identifier: "BWBR0039474"
-categorie: "Overig"
-publicatiedatum: 2017-04-19
-laatste_update: 2017-04-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039474"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-04-19"
+last_updated: "2017-04-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039474"
+soort: "ministeriele-regeling"
+stam_id: "13983333"
+version_id: "24059402"
+internal_id: "C34569621"
+label_id: "13945944"
+dtd_version: "2.0"
+original_entry_into_force: "2017-04-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039474/2017-04-19/0"
+intitule_bron: "Stcrt.2017-21269"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-06-04"
+intitule_published: "2017-04-18"
+intitule_in_force: "2017-04-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-21269"
+original_signed_date: "2015-06-04"
+original_published_date: "2017-04-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-21269"
+entry_into_force_date: "2017-04-19"
+jci_1_3: "jci1.3:c:BWBR0039474&z=2017-04-19&g=2017-04-19"
+jci_1_0: "1.0:c:BWBR0039474&g=2017-04-19"
+citeertitel_status: "officieel"
+signed_date: "2015-06-04"
+entry_into_force: "2017-04-19"
 ---
-
 # Subtaakbesluit Commando Landstrijdkrachten 2015
 
 gelet op [artikel 25 van het Algemeen Organisatiebesluit Defensie 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034157&artikel=25),
 
 Besluit:
 
-#### Artikel 1. De Koninklijke Landmacht
+##### Artikel 1. De Koninklijke Landmacht
 
 1. De Koninklijke Landmacht staat onder leiding van de Commandant Landstrijdkrachten. Onverminderd [artikel 15 van het Algemeen Organisatiebesluit Defensie 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034157&artikel=15) is de Commandant Landstrijdkrachten belast met:
 
@@ -48,7 +73,7 @@ Het gezamenlijke 1 (GE/NL) Corps – hoofdkwartier is gevestigd te Münster.
 
 4. Het Commando Landstrijdkrachten vormt samen met de buiten het Commando Landstrijdkrachten geplaatste KL-militairen de Koninklijke Landmacht.
 
-#### Artikel 2. Organisatie van het Commando Landstrijdkrachten
+##### Artikel 2. Organisatie van het Commando Landstrijdkrachten
 
 1. De Commandant Landstrijdkrachten vormt samen met de Plaatsvervangend Commandant Landstrijdkrachten één bestuurlijke eenheid in het geven van leiding aan het Commando Landstrijdkrachten.
 
@@ -96,7 +121,7 @@ Het gezamenlijke 1 (GE/NL) Corps – hoofdkwartier is gevestigd te Münster.
 
 - j. het Defensie Cyber Commando.
 
-#### Artikel 3. Het Kabinet
+##### Artikel 3. Het Kabinet
 
 Het Kabinet staat onder leiding van de Chef Kabinet die is belast met:
 
@@ -116,7 +141,7 @@ Het Kabinet staat onder leiding van de Chef Kabinet die is belast met:
 
 - h. het – doen – adviseren van Commandant Landstrijdkrachten, staf Commando Landstrijdkrachten en de ondercommandanten over aangelegenheden van het reservepersoneel van het Commando Landstrijdkrachten.
 
-#### Artikel 4. De afdeling Financiën en Control
+##### Artikel 4. De afdeling Financiën en Control
 
 De afdeling Financiën en Control (F&C) staat onder leiding van het Hoofd Afdeling Financiën en Control die is belast met:
 
@@ -132,7 +157,7 @@ De afdeling Financiën en Control (F&C) staat onder leiding van het Hoofd Afdeli
 
 - f. de doelmatige inrichting, de bedrijfsvoering en het interne beheer van de afdeling Financiën en Control.
 
-#### Artikel 5. De afdeling Integratie
+##### Artikel 5. De afdeling Integratie
 
 De afdeling Integratie (AI) staat onder leiding van het Hoofd Afdeling Integratie (AI), tevens Director of Staff (DOS) die is belast met:
 
@@ -154,7 +179,7 @@ De afdeling Integratie (AI) staat onder leiding van het Hoofd Afdeling Integrati
 
 - i. de doelmatige inrichting, de bedrijfsvoering en het interne beheer van de afdeling Integratie.
 
-#### Artikel 6. De afdeling Bestuursondersteuning
+##### Artikel 6. De afdeling Bestuursondersteuning
 
 De afdeling Bestuursondersteuning (BO) staat onder leiding van het Hoofd Afdeling BO die is belast met:
 
@@ -174,7 +199,7 @@ De afdeling Bestuursondersteuning (BO) staat onder leiding van het Hoofd Afdelin
 
 - h. de doelmatige inrichting, de bedrijfsvoering en het interne beheer van de afdeling Bestuursondersteuning.
 
-#### Artikel 7. De directie Training en Operaties
+##### Artikel 7. De directie Training en Operaties
 
 De directie Training en Operaties (DT&O) staat onder leiding van de Directeur Training en Operaties die is belast met:
 
@@ -198,7 +223,7 @@ De directie Training en Operaties (DT&O) staat onder leiding van de Directeur Tr
 
 - j. de doelmatige inrichting, de bedrijfsvoering en het interne beheer van de directie Training en Operaties.
 
-#### Artikel 8. De directie Materieel en Diensten
+##### Artikel 8. De directie Materieel en Diensten
 
 De directie Materieel en Diensten (DM&D) staat onder leiding van de Directeur Materieel en Diensten die is belast met:
 
@@ -216,7 +241,7 @@ De directie Materieel en Diensten (DM&D) staat onder leiding van de Directeur Ma
 
 - g. de doelmatige inrichting, de bedrijfsvoering en het interne beheer van de directie Materieel en Diensten.
 
-#### Artikel 9. De directie Personeel en Organisatie
+##### Artikel 9. De directie Personeel en Organisatie
 
 De directie Personeel en Organisatie (DP&O) staat onder leiding van de Directeur Personeel en Organisatie die is belast met:
 
@@ -234,7 +259,7 @@ De directie Personeel en Organisatie (DP&O) staat onder leiding van de Directeur
 
 - g. de doelmatige inrichting, de bedrijfsvoering en het interne beheer van de directie Personeel en Organisatie.
 
-#### Artikel 10. De brigades (11-13-43)
+##### Artikel 10. De brigades (11-13-43)
 
 De brigades staan onder leiding van de brigadecommandanten die allen zijn belast met:
 
@@ -258,7 +283,7 @@ De brigades staan onder leiding van de brigadecommandanten die allen zijn belast
 
 - j. het leveren van een bijdrage aan de informatiebehoefte van de Commandant Landstrijdkrachten, gegeven het eigen terrein van verantwoordelijkheid.
 
-#### Artikel 11. Het Korps Commando Troepen
+##### Artikel 11. Het Korps Commando Troepen
 
 Het Korps Commando Troepen staat onder leiding van de commandant Korps Commando Troepen die is belast met:
 
@@ -278,7 +303,7 @@ Het Korps Commando Troepen staat onder leiding van de commandant Korps Commando 
 
 - h. het leveren van een bijdrage aan de informatiebehoefte van de Commandant Landstrijdkrachten, gegeven het eigen terrein van verantwoordelijkheid.
 
-#### Artikel 12. Het Operationeel Ondersteuningscommando Land
+##### Artikel 12. Het Operationeel Ondersteuningscommando Land
 
 Het Operationeel Ondersteuningscommando Land staat onder leiding van de Commandant Operationeel Ondersteuningscommando Land die is belast met:
 
@@ -310,7 +335,7 @@ Het Operationeel Ondersteuningscommando Land staat onder leiding van de Commanda
 
 - n. het leveren van een bijdrage aan de informatiebehoefte van de Commandant Landstrijdkrachten, gegeven het eigen terrein van verantwoordelijkheid.
 
-#### Artikel 13. Het 1 (GE/NL) Corps
+##### Artikel 13. Het 1 (GE/NL) Corps
 
 Het Nederlands deel van het 1 (GE/NL) Corps (High Readiness Forces (Land) Headquarters) staat onder leiding van de Senior National Officer (NL) die is belast met:
 
@@ -324,7 +349,7 @@ Het Nederlands deel van het 1 (GE/NL) Corps (High Readiness Forces (Land) Headqu
 
 - e. het leveren van een bijdrage aan de informatiebehoefte van de Commandant Landstrijdkrachten, gegeven het eigen terrein van verantwoordelijkheid.
 
-#### Artikel 14. Het Opleidings- en Trainingscommando
+##### Artikel 14. Het Opleidings- en Trainingscommando
 
 Het Opleidings- en Trainingscommando staat onder leiding van de Commandant Opleidings- en Trainingscommando die is belast met:
 
@@ -348,7 +373,7 @@ Het Opleidings- en Trainingscommando staat onder leiding van de Commandant Oplei
 
 - j. het leveren van een bijdrage aan de informatiebehoefte van de Commandant Landstrijdkrachten, gegeven het eigen terrein van verantwoordelijkheid.
 
-#### Artikel 15. Het Defensie Grondgebonden Luchtverdedigings Commando
+##### Artikel 15. Het Defensie Grondgebonden Luchtverdedigings Commando
 
 Het Defensie Grondgebonden Luchtverdedigings Commando staat onder leiding van de Commandant Defensie Grondgebonden Luchtverdedigings Commando die is belast met:
 
@@ -370,7 +395,7 @@ Het Defensie Grondgebonden Luchtverdedigings Commando staat onder leiding van de
 
 - i. het leveren van een bijdrage aan de informatiebehoefte van de Commandant Landstrijdkrachten, gegeven het eigen terrein van verantwoordelijkheid.
 
-#### Artikel 16. Het Materieel Logistiek Commando Land
+##### Artikel 16. Het Materieel Logistiek Commando Land
 
 Het Materieel Logistiek Commando Land staat onder leiding van de Commandant Materieel Logistiek Commando Land die is belast met:
 
@@ -388,7 +413,7 @@ Het Materieel Logistiek Commando Land staat onder leiding van de Commandant Mate
 
 - g. het leveren van een bijdrage aan de informatiebehoefte van de Commandant Landstrijdkrachten, gegeven het eigen terrein van verantwoordelijkheid.
 
-#### Artikel 17. Het Defensie Cyber Commando
+##### Artikel 17. Het Defensie Cyber Commando
 
 Het Defensie Cyber Commando Land staat onder leiding van de Commandant Cyber Commando die is belast met:
 
@@ -412,14 +437,14 @@ Het Defensie Cyber Commando Land staat onder leiding van de Commandant Cyber Com
 
 - j. het leveren van een bijdrage aan de informatiebehoefte van de Commandant Landstrijdkrachten, gegeven het eigen terrein van verantwoordelijkheid.
 
-#### Artikel 18. Intrekking oude subtaakbesluit
+##### Artikel 18. Intrekking oude subtaakbesluit
 
 Het Subtaakbesluit Commando Landstrijdkrachten 2009 wordt ingetrokken.
 
-#### Artikel 19. Inwerkingtreding
+##### Artikel 19. Inwerkingtreding
 
 Dit subtaakbesluit treedt in werking de dag na de datum van uitgifte van de Staatscourant waarin melding wordt gedaan van plaatsing van dit besluit in de reeks ministeriële publicaties van het Ministerie van Defensie.
 
-#### Artikel 20. Citeertitel
+##### Artikel 20. Citeertitel
 
 Dit subtaakbesluit wordt aangehaald als Subtaakbesluit Commando Landstrijdkrachten 2015.

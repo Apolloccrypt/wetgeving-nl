@@ -1,14 +1,42 @@
 ---
-title: "Wet op de parlementaire enquête 2008"
+title: "Wet van 1 april 2008, houdende regels over de parlementaire enquête (Wet op de parlementaire enquête 2008)"
 identifier: "BWBR0023825"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2025-02-12
-laatste_update: 2025-02-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0023825"
+country: "nl"
+rank: "wet"
+publication_date: "2025-02-12"
+last_updated: "2025-02-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023825"
+soort: "wet"
+stam_id: "9493803"
+version_id: "15309942"
+internal_id: "C20857261"
+label_id: "9471724"
+dtd_version: "2.0"
+original_entry_into_force: "2008-05-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023825/2025-02-12/0"
+intitule_bron: "Stb.2008-148"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-04-01"
+intitule_published: "2008-05-08"
+intitule_in_force: "2008-05-08"
+intitule_status: "goed"
+original_publication: "Stb.2008-148"
+original_signed_date: "2008-04-01"
+original_published_date: "2008-05-08"
+original_effect: "nieuwe-regeling"
+original_dossier: "30415"
+original_url_id: "stb-2008-148"
+entry_into_force_date: "2008-05-09"
+entry_into_force_dossier: "30415"
+jci_1_3: "jci1.3:c:BWBR0023825&z=2025-02-12&g=2025-02-12"
+jci_1_0: "1.0:c:BWBR0023825&g=2025-02-12"
+citeertitel_status: "officieel"
+short_title: "Wet op de parlementaire enquête 2008"
+signed_date: "2008-04-01"
+entry_into_force: "2008-05-09"
 ---
-
-# Wet op de parlementaire enquête 2008
+# Wet van 1 april 2008, houdende regels over de parlementaire enquête (Wet op de parlementaire enquête 2008)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +46,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk 1. Algemene bepaling
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze wet wordt verstaan onder:
 
@@ -32,7 +60,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk 2. De instelling van een parlementaire enquête
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Kamer kan op voorstel van één of meer leden besluiten een parlementaire enquête te houden.
 
@@ -44,7 +72,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 5. De voorzitter van de Kamer doet van de besluiten, bedoeld in dit artikel, mededeling in de Staatscourant.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De Kamer stelt de raming op van de uitgaven, uitgesplitst naar begrotingsjaren, die naar haar oordeel voor een parlementaire enquête nodig zijn, en brengt deze ter kennis van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
@@ -54,7 +82,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### Paragraaf 1. Algemene bepaling
 
-#### Artikel 4
+##### Artikel 4
 
 1. De commissie kan de haar bij deze wet verleende bevoegdheden uitoefenen met ingang van de dag na de dagtekening van de Staatscourant waarin het besluit tot het houden van een parlementaire enquête bekend is gemaakt tot de dag met ingang waarvan de enquête door de Kamer wordt beëindigd.
 
@@ -66,19 +94,19 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### Paragraaf 2. De bevoegdheden van de enquêtecommissie
 
-#### Artikel 5
+##### Artikel 5
 
 1. De commissie kan schriftelijke inlichtingen vorderen.
 
 2. De commissie kan de wijze waarop de schriftelijke inlichtingen worden verstrekt bepalen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De commissie kan afschrift van, inzage in of kennisneming van documenten vorderen.
 
 2. De commissie kan bepalen op welke wijze afschriften worden verstrekt, inzage wordt gegeven onderscheidenlijk kennisneming wordt verleend.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De commissie kan, zonder toestemming van de rechthebbende, met de door haar aangewezen personen elke plaats in Nederland, daaronder begrepen de openbare lichamen Bonaire, Sint Eustatius en Saba, betreden.
 
@@ -92,7 +120,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 6. Voor de toepassing van dit artikel is de [Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763) tevens van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De commissie kan een besloten voorgesprek houden met personen die zij mogelijk als getuige of deskundige zal horen.
 
@@ -104,7 +132,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 5. Van het voorgesprek worden een vertrouwelijke geluidsregistratie en een vertrouwelijk verslag gemaakt.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De commissie kan personen als getuige of deskundige horen.
 
@@ -112,7 +140,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### Paragraaf 3. Bijzondere bepalingen ten aanzien van de bevoegdheid van de commissie getuigen en deskundigen te horen
 
-#### Artikel 10
+##### Artikel 10
 
 1. De voorzitter van de commissie roept een persoon die zij als getuige of deskundige wil horen bij aangetekende brief op, hetzij in persoon, hetzij op de woonplaats, hetzij op het werkadres van de persoon. De voorzitter kan de oproeping bij deurwaardersexploot doen betekenen.
 
@@ -126,7 +154,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - b. de betrokken getuige of deskundige met een kortere termijn instemt.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Een getuige of deskundige wordt in een openbare zitting van de commissie gehoord.
 
@@ -134,7 +162,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 3. Van een openbare zitting worden een geluidsregistratie en een openbaar verslag gemaakt.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De commissie kan, al dan niet op verzoek van de getuige of deskundige, om gewichtige redenen besluiten een verhoor of een gedeelte daarvan in een besloten zitting van de commissie af te nemen.
 
@@ -142,7 +170,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 3. Van een besloten zitting worden een vertrouwelijke geluidsregistratie en een vertrouwelijk verslag gemaakt.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Voorafgaande aan het verhoor legt een getuige, mits deze de leeftijd van zestien jaar heeft bereikt, in handen van de voorzitter de eed of de belofte af dat hij de gehele waarheid en niets dan de waarheid zal zeggen, tenzij de commissie besluit het verhoor zonder voorafgaande eed of belofte te doen plaatsvinden.
 
@@ -152,7 +180,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 14
+##### Artikel 14
 
 1. Elke Nederlander, elke ingezetene van Nederland, elke natuurlijke persoon die in Nederland verblijf houdt, elke rechtspersoon die in Nederland is gevestigd en elke rechtspersoon die haar bedrijfsactiviteiten geheel of gedeeltelijk in Nederland uitoefent, is verplicht de commissie binnen de door haar gestelde termijn alle medewerking te verlenen die deze vordert bij de uitoefening van de haar bij deze wet verleende bevoegdheden, behoudens de mogelijkheid van verschoning overeenkomstig de [artikelen 19 tot en met 24](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=4&paragraaf=2&artikel=19&z=2025-02-12&g=2025-02-12).
 
@@ -160,19 +188,19 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 3. Voor de toepassing van het eerste lid worden zij die als ingezetene zijn ingeschreven in de basisregistratie personen of in de basisadministratie persoonsgegevens van een van de openbare lichamen Bonaire, Sint Eustatius of Saba, geacht ingezetene van Nederland te zijn.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De verplichting tot medewerking geldt eveneens voor degene voor wie een verplichting tot geheimhouding geldt, ook indien deze verplichting bij wet is opgelegd, behoudens de mogelijkheid van verschoning overeenkomstig de [artikelen 19 tot en met 24](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=4&paragraaf=2&artikel=19&z=2025-02-12&g=2025-02-12).
 
 2. Degene die bij wet verplicht is tot geheimhouding en ten behoeve van een ander werkzaam is of is geweest, is slechts verplicht tot medewerking voor zover de persoon ten behoeve van wie hij werkzaam is of is geweest, hem op vordering van de commissie schriftelijk van de verplichting tot geheimhouding heeft ontheven. Indien de commissie ontheffing van de geheimhoudingsverplichting vordert, is de persoon ten behoeve van wie hij werkzaam is of is geweest, verplicht deze ontheffing te verlenen, behoudens de mogelijkheid van verschoning overeenkomstig de [artikelen 19 tot en met 24](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=4&paragraaf=2&artikel=19&z=2025-02-12&g=2025-02-12).
 
-#### Artikel 16
+##### Artikel 16
 
 1. Een gewezen minister of gewezen staatssecretaris verleent ten aanzien van informatie die betrekking heeft op de periode van zijn ambtsvervulling uitsluitend door tussenkomst van Onze Minister-President medewerking aan vorderingen van de commissie als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=3&paragraaf=2&artikel=5&z=2025-02-12&g=2025-02-12) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=3&paragraaf=2&artikel=6&z=2025-02-12&g=2025-02-12).
 
 2. Een ambtenaar die ten behoeve van een minister werkzaam is of is geweest, verleent ten aanzien van informatie die betrekking heeft op de periode van zijn ambtsvervulling uitsluitend door tussenkomst van Onze Minister wie het aangaat medewerking aan een vordering van de commissie als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=3&paragraaf=2&artikel=5&z=2025-02-12&g=2025-02-12) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=3&paragraaf=2&artikel=6&z=2025-02-12&g=2025-02-12).
 
-#### Artikel 17
+##### Artikel 17
 
 1. Een ieder kan zich in het verkeer met de commissie doen bijstaan.
 
@@ -180,7 +208,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 3. De commissie stelt de betrokkene onverwijld van een weigering in kennis.
 
-#### Artikel 18
+##### Artikel 18
 
 Voor een vergoeding van de commissie overeenkomstig het krachtens [artikel 26 van de Wet griffierechten burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0028899&artikel=26) bepaalde komen in aanmerking:
 
@@ -190,7 +218,7 @@ Voor een vergoeding van de commissie overeenkomstig het krachtens [artikel 26 va
 
 #### Paragraaf 2. Verschoningsgronden
 
-#### Artikel 19
+##### Artikel 19
 
 1. Een minister, een gewezen minister, een staatssecretaris, een gewezen staatssecretaris, een lid of bestuurder van een tot de staat behorend orgaan, een gewezen lid of bestuurder van een tot de staat behorend orgaan en een ambtenaar, werkzaam of werkzaam geweest ten behoeve van een tot de staat behorend orgaan, zijn niet verplicht informatie aan de commissie te verstrekken, voor zover deze verstrekking in strijd met het belang van de staat is.
 
@@ -198,13 +226,13 @@ Voor een vergoeding van de commissie overeenkomstig het krachtens [artikel 26 va
 
 3. Indien een gewezen minister of gewezen staatssecretaris zich beroept op het belang van de staat ten aanzien van informatie die betrekking heeft op de periode van zijn ambtsvervulling, kan de commissie verlangen dat de gegrondheid van zijn beroep op verschoning wordt bevestigd door Onze Minister-President.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Een minister, een gewezen minister, een staatssecretaris, een gewezen staatssecretaris en een ambtenaar die ten behoeve van een minister werkzaam is of is geweest, zijn niet verplicht informatie aan de commissie te verstrekken over de beraadslagingen in een vergadering van de ministerraad. Een ambtenaar die ten behoeve van een minister werkzaam is of is geweest, is evenmin verplicht informatie aan de commissie te verstrekken over de in een vergadering van de ministerraad genomen beslissingen en de gronden waarop zij berusten.
 
 2. Onverminderd [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=4&paragraaf=2&artikel=19&z=2025-02-12&g=2025-02-12), verstrekt een minister, een gewezen minister, een staatssecretaris of een gewezen staatssecretaris aan de commissie op haar vordering informatie over de in die vergadering genomen beslissingen en de gronden waarop zij berusten. Voor zover deze informatie schriftelijk wordt verlangd, geschiedt dit door Onze Minister-President.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Niemand is verplicht informatie aan de commissie te verstrekken, voor zover het informatie betreft over de beraadslagingen in een vergadering van een college en bij wet een verplichting tot geheimhouding over die beraadslagingen is opgelegd.
 
@@ -212,21 +240,21 @@ Voor een vergoeding van de commissie overeenkomstig het krachtens [artikel 26 va
 
 3. Het tweede lid is niet van toepassing ten aanzien van een gerechtelijke raadkamer of de Afdeling bestuursrechtspraak van de Raad van State.
 
-#### Artikel 22
+##### Artikel 22
 
 Niemand is verplicht informatie aan de commissie te verstrekken, voor zover deze informatie geheime bedrijfs- en fabricagegegevens of anderszins bedrijfsvertrouwelijke en concurrentiegevoelige informatie van een onderneming betreft en het belang van informatieverkrijging door de commissie niet opweegt tegen het belang van de vertrouwelijkheid van deze informatie.
 
-#### Artikel 23
+##### Artikel 23
 
 Niemand is verplicht informatie aan de commissie te verstrekken, voor zover deze informatie de persoonlijke levenssfeer betreft en het belang van informatieverkrijging door de commissie niet opweegt tegen het belang van de bescherming van de persoonlijke levenssfeer.
 
-#### Artikel 24
+##### Artikel 24
 
 Niemand is verplicht informatie aan de commissie te verstrekken, voor zover hij uit hoofde van zijn ambt of beroep tot geheimhouding verplicht is en het informatie betreft die aan hem in die hoedanigheid is toevertrouwd.
 
 ### Hoofdstuk 5. Dwangmiddelen
 
-#### Artikel 25
+##### Artikel 25
 
 1. De voorzieningenrechter van de rechtbank Den Haag kan op verzoek van de commissie een persoon die weigert haar medewerking te verlenen bij de uitoefening van de haar bij deze wet verleende bevoegdheden bevelen deze medewerking alsnog te verlenen. Het verzoek wordt ingeleid bij verzoekschrift.
 
@@ -246,15 +274,15 @@ Niemand is verplicht informatie aan de commissie te verstrekken, voor zover hij 
 
 6. De uitspraak van de voorzieningenrechter is uitvoerbaar bij voorraad.
 
-#### Artikel 26
+##### Artikel 26
 
 De voorzieningenrechter kan op verzoek van de commissie aan een bevel als bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=5&artikel=25&z=2025-02-12&g=2025-02-12), een dwangsom verbinden. De derde afdeling van de [vijfde titel van Boek 2 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&titeldeel=Vijfde) is van toepassing.
 
-#### Artikel 27
+##### Artikel 27
 
 De voorzieningenrechter kan op verzoek van de commissie bepalen, dat een bevel als bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=5&artikel=25&z=2025-02-12&g=2025-02-12), met ondersteuning van de openbare macht ten uitvoer kan worden gelegd.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Indien een getuige of deskundige voor de commissie is verschenen, maar zonder wettelijke grond weigert zijn verklaring af te leggen, kan de voorzieningenrechter van de rechtbank Den Haag op verzoek van de commissie bevelen dat hij op kosten van de staat in gijzeling zal worden gesteld totdat hij aan zijn verplichting zal hebben voldaan. Het verzoek wordt ingeleid bij verzoekschrift.
 
@@ -276,23 +304,23 @@ De voorzieningenrechter kan op verzoek van de commissie bepalen, dat een bevel a
 
 8. De gijzeling kan ten hoogste dertig dagen duren. De voorzieningenrechter beëindigt ambtshalve, op verzoek van de commissie of op verzoek van de getuige of deskundige de gijzeling indien voortzetting ervan naar zijn oordeel niet meer door het belang dat met de toepassing van de gijzeling werd gediend, wordt gerechtvaardigd, of hem blijkt dat de getuige of deskundige een wettige grond tot weigering heeft.
 
-#### Artikel 29
+##### Artikel 29
 
 Dit hoofdstuk is niet van toepassing op een lid van de Kamer, een minister of een staatssecretaris.
 
 ### Hoofdstuk 6. De verhouding tot andere procedures
 
-#### Artikel 30
+##### Artikel 30
 
 In een civielrechtelijke, strafrechtelijke, bestuursrechtelijke of tuchtrechtelijke procedure kunnen verklaringen en documenten die op vordering van de commissie zijn afgelegd onderscheidenlijk verstrekt, niet als bewijs worden gebruikt behoudens de uitzonderingen, bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=6&artikel=32&z=2025-02-12&g=2025-02-12). Evenmin kan op zulke verklaringen en documenten een disciplinaire maatregel, een bestuurlijke sanctie of een bestuurlijke maatregel worden gebaseerd.
 
-#### Artikel 31
+##### Artikel 31
 
 1. De commissie verstrekt geen informatie aan andere personen of organen ten behoeve van een strafrechtelijk, tuchtrechtelijke of civielrechtelijke procedure of een procedure tot oplegging van een disciplinaire maatregel, een bestuurlijke sanctie of een bestuurlijke maatregel, ook niet indien de commissie of het lid op grond van een wettelijk voorschrift tot het verstrekken van informatie is verplicht.
 
 2. In afwijking van het eerste lid verstrekt de commissie informatie aan andere personen of organen indien degene die de informatie heeft verstrekt en degene op wie de informatie betrekking heeft, daarvoor schriftelijk toestemming hebben verleend.
 
-#### Artikel 32
+##### Artikel 32
 
 1. In afwijking van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=6&artikel=30&z=2025-02-12&g=2025-02-12) kunnen verklaringen en documenten die in het kader van een parlementaire enquête zijn afgelegd onderscheidenlijk verstrekt als bewijs worden gebruikt in een strafrechtelijke procedure naar meineed, naar omkoping van een getuige of deskundige bij een parlementaire enquête of naar de delicten, bedoeld in de [artikelen 192 tot en met 192c van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=192), dan wel de delicten, bedoeld in de artikelen 198 tot en met 198c van het Wetboek van Strafrecht BES.
 
@@ -300,11 +328,11 @@ In een civielrechtelijke, strafrechtelijke, bestuursrechtelijke of tuchtrechteli
 
 ### Hoofdstuk 7. De beëindiging van een parlementaire enquête en het einde van het lidmaatschap van de commissie
 
-#### Artikel 33
+##### Artikel 33
 
 De commissie legt haar bevindingen vast in een openbaar rapport dat zij aan de Kamer aanbiedt.
 
-#### Artikel 34
+##### Artikel 34
 
 1. Nadat de commissie aan de Kamer verantwoording over haar werkzaamheden heeft afgelegd, beëindigt de Kamer de enquête.
 
@@ -312,7 +340,7 @@ De commissie legt haar bevindingen vast in een openbaar rapport dat zij aan de K
 
 3. De voorzitter van de Kamer doet van het besluit tot beëindiging van de enquête mededeling in de Staatscourant.
 
-#### Artikel 35
+##### Artikel 35
 
 Met ingang van de dag dat de Kamer de enquête beëindigt, gaan van rechtswege over op de Kamer:
 
@@ -324,7 +352,7 @@ Met ingang van de dag dat de Kamer de enquête beëindigt, gaan van rechtswege o
 
 - d. andere documenten die de commissie van belang acht.
 
-#### Artikel 36
+##### Artikel 36
 
 Het lidmaatschap van de commissie eindigt op de dag met ingang waarvan:
 
@@ -338,13 +366,13 @@ Het lidmaatschap van de commissie eindigt op de dag met ingang waarvan:
 
 ### Hoofdstuk 8. Openbaarheid en vertrouwelijkheid van documenten
 
-#### Artikel 37
+##### Artikel 37
 
 1. Onverminderd [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=3&paragraaf=3&artikel=11&z=2025-02-12&g=2025-02-12), heeft niemand tot op de dag waarop de commissie haar rapport aanbiedt aan de Kamer recht op inzage in documenten die onder de commissie berusten.
 
 2. De commissie kan getuigen, deskundigen en personen die in opdracht van de commissie werkzaamheden verrichten inzage verlenen in documenten die op haar vordering aan de commissie zijn verstrekt. Degenen die de documenten inzien bewaren geheimhouding over de inhoud van deze documenten.
 
-#### Artikel 38
+##### Artikel 38
 
 1. Met ingang van de dag na de dag waarop de commissie haar rapport aan de Kamer aanbiedt kan elk lid van de Kamer de documenten die op vordering van de commissie aan haar zijn verstrekt, inzien, behoudens de afschriften die zijn verstrekt op basis van [artikel 1:93f van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:93f), de [artikelen 22a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=22a) en [22b, eerste lid onderdeel d, van de Wet ter voorkoming van witwassen en terrorismefinanciering](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=22b) en [artikel 58a, eerste lid, onderdeel c, van de Wet toezicht trustkantoren 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&artikel=58a).
 
@@ -352,7 +380,7 @@ Het lidmaatschap van de commissie eindigt op de dag met ingang waarvan:
 
 3. Met ingang van de dag na de dag waarop de commissie haar rapport aan de Kamer aanbiedt, kan elk lid van de Kamer een vertrouwelijk verslag van een besloten verhoor inzien. De leden van de Kamer bewaren geheimhouding over de inhoud van het verslag.
 
-#### Artikel 39
+##### Artikel 39
 
 1. Een ieder heeft behoudens de beperkingen die de commissie op grond van [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=8&artikel=40&z=2025-02-12&g=2025-02-12) aan de openbaarheid heeft gesteld, met ingang van de dag na de dag waarop de commissie haar rapport aanbiedt aan de Kamer recht op inzage in de documenten, bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=7&artikel=35&z=2025-02-12&g=2025-02-12). Dit inzagerecht geldt zolang deze documenten onder de commissie onderscheidenlijk de Kamer berusten.
 
@@ -360,7 +388,7 @@ Het lidmaatschap van de commissie eindigt op de dag met ingang waarvan:
 
 3. Het tweede lid is niet van toepassing op vertrouwelijke verslagen en geluidsregistraties van besloten voorgesprekken als bedoeld in [artikel 8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=3&paragraaf=2&artikel=8&z=2025-02-12&g=2025-02-12).
 
-#### Artikel 40
+##### Artikel 40
 
 1. De commissie kan voor de periode na de dag waarop zij haar rapport aanbiedt aan de Kamer beperkingen stellen aan de openbaarheid van documenten die onder de commissie berusten of, nadat deze documenten op grond van [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=7&artikel=35&z=2025-02-12&g=2025-02-12) zijn overgegaan op de Kamer, hebben berust. Deze beperkingen gelden zolang de documenten onder de commissie onderscheidenlijk de Kamer berusten.
 
@@ -406,41 +434,41 @@ Het lidmaatschap van de commissie eindigt op de dag met ingang waarvan:
 
 ### Hoofdstuk 9. Slot- en overgangsbepalingen
 
-#### Artikel 41
+##### Artikel 41
 
 Wijzigt de Wet ministeriële verantwoordelijkheid.
 
-#### Artikel 42
+##### Artikel 42
 
 Wijzigt het Wetboek van Strafrecht.
 
-#### Artikel 43
+##### Artikel 43
 
 Wijzigt het Wetboek van Strafvordering.
 
-#### Artikel 44
+##### Artikel 44
 
 Wijzigt deze wet.
 
-#### Artikel 45
+##### Artikel 45
 
 Indien op het tijdstip van inwerkingtreding van deze wet de Kamer op grond van de [Wet op de Parlementaire Enquête](https://wetten.overheid.nl/jci1.3:c:BWBR0001841) een enquête heeft ingesteld, blijft [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001841) op die enquête van toepassing.
 
-#### Artikel 46
+##### Artikel 46
 
 De [Wet op de Parlementaire Enquête](https://wetten.overheid.nl/jci1.3:c:BWBR0001841) wordt ingetrokken.
 
-#### Artikel 47
+##### Artikel 47
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 
-#### Artikel 48
+##### Artikel 48
 
 Deze wet wordt aangehaald als: Wet op de parlementaire enquête, met vermelding van het jaartal van het Staatsblad waarin zij zal worden geplaatst.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 9a
+##### Artikel 9a
 
 1. De commissie kan bij het college van burgemeester en wethouders van de gemeente ’s-Gravenhage dan wel, indien het niet-ingezetenen betreft, bij de Minister van Binnenlandse Zaken en Koninkrijksrelaties een verzoek indienen tot het verstrekken van adresgegevens van:
 
@@ -460,7 +488,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 #### Paragraaf 2. Verschoningsgronden
 
-#### Artikel 24a
+##### Artikel 24a
 
 Indien een persoon van wie informatie wordt gevorderd zich genoodzaakt ziet de gevorderde informatie te weigeren op grond van een van de verschoningsgronden genoemd in de [artikelen 19 tot en met 24](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=4&paragraaf=2&artikel=19&z=2025-02-12&g=2025-02-12), verstrekt hij bij zijn weigering een deugdelijke motivering.
 

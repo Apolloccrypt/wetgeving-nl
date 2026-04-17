@@ -1,13 +1,39 @@
 ---
-title: "Besluit meldingsregeling Wet Bpf 2000"
+title: "Besluit van 21 december 2000, houdende vaststelling van het Besluit meldingsregeling Wet Bpf 2000 (Besluit meldingsregeling Wet Bpf 2000)"
 identifier: "BWBR0012093"
-categorie: "Bestuursrecht"
-publicatiedatum: 2007-01-01
-laatste_update: 2007-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012093"
+country: "nl"
+rank: "amvb"
+publication_date: "2007-01-01"
+last_updated: "2007-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012093"
+soort: "AMvB"
+stam_id: "1500103"
+version_id: "2238592"
+internal_id: "C2238591"
+label_id: "1456724"
+dtd_version: "2.0"
+original_entry_into_force: "2001-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012093/2007-01-01/0"
+intitule_bron: "Stb.2000-631"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-12-21"
+intitule_published: "2000-12-28"
+intitule_in_force: "2000-12-28"
+intitule_status: "goed"
+original_publication: "Stb.2000-631"
+original_signed_date: "2000-12-21"
+original_published_date: "2000-12-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2000-631"
+entry_into_force_date: "2001-01-01"
+jci_1_3: "jci1.3:c:BWBR0012093&z=2007-01-01&g=2007-01-01"
+jci_1_0: "1.0:c:BWBR0012093&g=2007-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit meldingsregeling Wet Bpf 2000"
+signed_date: "2000-12-21"
+entry_into_force: "2001-01-01"
 ---
-
 # Besluit van 21 december 2000, houdende vaststelling van het Besluit meldingsregeling Wet Bpf 2000 (Besluit meldingsregeling Wet Bpf 2000)
 
 Op de voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, J. F. Hoogervorst, van 11 oktober 2000, Directie Sociale Verzekeringen, Nr. SV/V&P/00/64573;
@@ -20,7 +46,7 @@ Gezien het nader rapport van de Staatssecretaris van Sociale Zaken en Werkgelege
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
@@ -30,7 +56,7 @@ In dit besluit wordt verstaan onder:
 
 - c. bijdrage: iedere ineens of periodiek verschuldigde geldsom bestemd voor de verzekering van pensioen.
 
-#### Artikel 2. De mededeling
+##### Artikel 2. De mededeling
 
 1. De mededeling, bedoeld in [artikel 23, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=23) wordt schriftelijk gedaan uiterlijk veertien kalenderdagen na de dag waarop op grond van de regeling omtrent de betaling van de premies, bedoeld in [artikel 26 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=26), dan wel op grond van de statuten en reglementen van het bedrijfstakpensioenfonds de bijdrage behoorde te zijn voldaan.
 
@@ -38,7 +64,7 @@ In dit besluit wordt verstaan onder:
 
 3. Bij de mededeling wordt inzicht gegeven in de omstandigheden die ertoe hebben geleid dat de bijdrage niet kan worden betaald.
 
-#### Artikel 3. Verstrekking van inlichtingen en gegevens
+##### Artikel 3. Verstrekking van inlichtingen en gegevens
 
 1. Het lichaam, bedoeld in [artikel 23, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=23) verstrekt desgevraagd aan het bedrijfstakpensioenfonds:
 
@@ -50,11 +76,11 @@ In dit besluit wordt verstaan onder:
 
 3. Het bedrijfstakpensioenfonds kan afschrift nemen en uittreksels maken van de boeken, bescheiden en andere informatiedragers, die ter inzage worden verstrekt. Ter zake verleent het lichaam de medewerking die door het bedrijfstakpensioenfonds wordt verlangd.
 
-#### Artikel 4. Inwerkingtreding
+##### Artikel 4. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 januari 2001.
 
-#### Artikel 5. Citeertitel
+##### Artikel 5. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit meldingsregeling Wet Bpf 2000.
 

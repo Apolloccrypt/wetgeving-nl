@@ -1,13 +1,39 @@
 ---
-title: "Besluit gemeentelijke antidiscriminatievoorzieningen"
+title: "Besluit van 25 augustus 2009, houdende regels betreffende de inrichting van en de onafhankelijke bijstandsverlening door antidiscriminatievoorzieningen alsmede de verslaglegging over de door de antidiscriminatievoorziening geregistreerde klachten door gemeenten (Besluit gemeentelijke antidiscriminatievoorzieningen)"
 identifier: "BWBR0026353"
-categorie: "Bestuursrecht"
-publicatiedatum: 2020-01-01
-laatste_update: 2020-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026353"
+country: "nl"
+rank: "amvb"
+publication_date: "2020-01-01"
+last_updated: "2020-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026353"
+soort: "AMvB"
+stam_id: "10171333"
+version_id: "16644022"
+internal_id: "C22914651"
+label_id: "10147364"
+dtd_version: "2.0"
+original_entry_into_force: "2009-09-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026353/2020-01-01/0"
+intitule_bron: "Stb.2009-373"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-08-25"
+intitule_published: "2009-09-15"
+intitule_in_force: "2009-09-15"
+intitule_status: "goed"
+original_publication: "Stb.2009-373"
+original_signed_date: "2009-08-25"
+original_published_date: "2009-09-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2009-373"
+entry_into_force_date: "2009-09-16"
+jci_1_3: "jci1.3:c:BWBR0026353&z=2020-01-01&g=2020-01-01"
+jci_1_0: "1.0:c:BWBR0026353&g=2020-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit gemeentelijke antidiscriminatievoorzieningen"
+signed_date: "2009-08-25"
+entry_into_force: "2009-09-16"
 ---
-
 # Besluit van 25 augustus 2009, houdende regels betreffende de inrichting van en de onafhankelijke bijstandsverlening door antidiscriminatievoorzieningen alsmede de verslaglegging over de door de antidiscriminatievoorziening geregistreerde klachten door gemeenten (Besluit gemeentelijke antidiscriminatievoorzieningen)
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 30 juni 2009 (nr. 2009-0000340189), gedaan mede namens Onze Minister voor Wonen, Wijken en Integratie;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijks
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -36,7 +62,7 @@ In dit besluit wordt verstaan onder:
 
 - f. **wet:** [Wet gemeentelijke antidiscriminatievoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0026168).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een klachtbehandelaar is niet tevens lid van het college van burgemeester en wethouders van een gemeente, voor zover hij werkzaam is onder de verantwoordelijkheid van de antidiscriminatievoorziening van die gemeente.
 
@@ -50,11 +76,11 @@ In dit besluit wordt verstaan onder:
 
 6. De antidiscriminatievoorziening waakt ertegen dat een klachtbehandelaar die een persoonlijk belang bij een ingediende klacht heeft, deze klacht in behandeling neemt of op een andere manier de behandeling van de klacht beïnvloedt.
 
-#### Artikel 3
+##### Artikel 3
 
 Bij de inrichting van de antidiscriminatievoorziening worden in ieder geval de deskundigheid van de klachtbehandelaars en de toegankelijkheid van de antidiscriminatievoorziening gewaarborgd.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De antidiscriminatievoorziening verleent onafhankelijke bijstand door:
 
@@ -70,7 +96,7 @@ Bij de inrichting van de antidiscriminatievoorziening worden in ieder geval de d
 
 - c. te bemiddelen tussen de klager en de beklaagde.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De klager heeft de mogelijkheid om geheel anoniem te blijven of uitsluitend ten opzichte van derden.
 
@@ -80,21 +106,21 @@ Bij de inrichting van de antidiscriminatievoorziening worden in ieder geval de d
 
 4. Indien de klager te kennen geeft geheel anoniem te willen blijven of uitsluitend ten opzichte van derden, stelt de antidiscriminatievoorziening geen onderzoek in en bemiddelt zij niet.
 
-#### Artikel 6
+##### Artikel 6
 
 De antidiscriminatievoorziening heeft een protocol voor de behandeling van klachten.
 
-#### Artikel 7
+##### Artikel 7
 
 De antidiscriminatievoorziening biedt de klager de mogelijkheid per post, elektronisch, telefonisch en persoonlijk klachten te melden.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Een advies van de antidiscriminatievoorziening berust op een deugdelijke motivering.
 
 2. De antidiscriminatievoorziening maakt het advies en de motivering daarvan bekend aan de klager.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Een vooronderzoek is er op gericht om te beoordelen of er aanleiding is om een onderzoek in te stellen of de klager te adviseren.
 
@@ -102,7 +128,7 @@ De antidiscriminatievoorziening biedt de klager de mogelijkheid per post, elektr
 
 3. Tijdens een vooronderzoek worden er geen gegevens over de beklaagde aan derden kenbaar gemaakt.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Indien de antidiscriminatievoorziening onderzoek instelt, worden de klager en de beklaagde, in kennis gesteld van de start van het onderzoek.
 
@@ -116,13 +142,13 @@ De antidiscriminatievoorziening biedt de klager de mogelijkheid per post, elektr
 
 6. De antidiscriminatievoorziening maakt de conclusie van het onderzoek en de motivering daarvan schriftelijk bekend aan de klager en de beklaagde.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Indien de klager en de beklaagde daarmee instemmen, kan de antidiscriminatievoorziening overgaan tot bemiddeling.
 
 2. Voordat de antidiscriminatievoorziening over gaat tot bemiddeling, worden de klager en de beklaagde in de gelegenheid gesteld hun zienswijze naar voren te brengen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Een klager en een beklaagde hebben het recht de antidiscriminatievoorziening te verzoeken een onderzoek in te stellen naar de wijze waarop een persoon, werkzaam onder verantwoordelijkheid van de antidiscriminatievoorziening, zich jegens hem heeft gedragen.
 
@@ -130,7 +156,7 @@ De antidiscriminatievoorziening biedt de klager de mogelijkheid per post, elektr
 
 3. Voor de behandeling van een verzoek als bedoeld in het eerste lid heeft de antidiscriminatievoorziening een protocol.
 
-#### Artikel 13
+##### Artikel 13
 
 Het verslag, bedoeld in [artikel 3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0026168&artikel=3), omvat geanonimiseerde gegevens over het aantal klachten dat door de antidiscriminatievoorziening in het voorafgaande kalenderjaar is geregistreerd en deze worden onderverdeeld naar:
 
@@ -144,15 +170,15 @@ Het verslag, bedoeld in [artikel 3, eerste lid, van de wet](https://wetten.overh
 
 - e. wijze van behandeling.
 
-#### Artikel 14
+##### Artikel 14
 
 Uiterlijk zes maanden na het tijdstip van inwerkingtreding van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0026168), geven het college van burgemeester en wethouders en de antidiscriminatievoorziening uitvoering aan dit besluit.
 
-#### Artikel 15
+##### Artikel 15
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-#### Artikel 16
+##### Artikel 16
 
 Dit besluit wordt aangehaald als: Besluit gemeentelijke antidiscriminatievoorzieningen.
 

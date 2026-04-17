@@ -1,13 +1,37 @@
 ---
 title: "Paspoortclausules/geregistreerd partnerschap"
 identifier: "BWBR0008932"
-categorie: "Bestuursrecht"
-publicatiedatum: 1998-01-01
-laatste_update: 1998-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008932"
+country: "nl"
+rank: "circulaire"
+publication_date: "1998-01-01"
+last_updated: "1998-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008932"
+soort: "circulaire"
+stam_id: "6340103"
+version_id: "10994152"
+internal_id: "C14886891"
+label_id: "6328924"
+original_entry_into_force: "1998-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008932/1998-01-01/0"
+intitule_bron: "Stcrt.1997-207"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-09-25"
+intitule_published: "1997-10-28"
+intitule_in_force: "1997-10-28"
+intitule_status: "goed"
+original_publication: "Stcrt.1997-207"
+original_signed_date: "1997-09-25"
+original_published_date: "1997-10-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1997-207-p8-SC11042"
+entry_into_force_date: "1998-01-01"
+jci_1_3: "jci1.3:c:BWBR0008932&z=1998-01-01&g=1998-01-01"
+jci_1_0: "1.0:c:BWBR0008932&g=1998-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "1997-09-25"
+entry_into_force: "1998-01-01"
 ---
-
 # Paspoortclausules/geregistreerd partnerschap
 
 Circulaire aan de burgemeesters

@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregel werkgeversrapportage onderzoek arbeidsongevallen"
+title: "Beleidsregel van de Minister van Sociale Zaken en Werkgelegenheid van 5 juni 2024, nr. 2024-0000154060, over het gebruik van een werkgeversrapportage bij een onderzoek naar een meldingsplichtig arbeidsongeval in het kader van de bestuursrechtelijke handhaving van de Arbeidsomstandighedenwetgeving (Beleidsregel werkgeversrapportage onderzoek meldingsplichtige arbeidsongevallen)"
 identifier: "BWBR0049803"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2024-06-14
-laatste_update: 2024-06-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049803"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2024-06-14"
+last_updated: "2024-06-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049803"
+soort: "beleidsregel"
+stam_id: "17127293"
+version_id: "30143402"
+internal_id: "C43184411"
+label_id: "17035724"
+dtd_version: "2.0"
+original_entry_into_force: "2024-06-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049803/2024-06-14/0"
+intitule_bron: "Stcrt.2024-18881"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-06-05"
+intitule_published: "2024-06-13"
+intitule_in_force: "2024-06-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-18881"
+original_signed_date: "2024-06-05"
+original_published_date: "2024-06-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-18881"
+entry_into_force_date: "2024-06-14"
+jci_1_3: "jci1.3:c:BWBR0049803&z=2024-06-14&g=2024-06-14"
+jci_1_0: "1.0:c:BWBR0049803&g=2024-06-14"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel werkgeversrapportage onderzoek arbeidsongevallen"
+signed_date: "2024-06-05"
+entry_into_force: "2024-06-14"
 ---
-
 # Beleidsregel van de Minister van Sociale Zaken en Werkgelegenheid van 5 juni 2024, nr. 2024-0000154060, over het gebruik van een werkgeversrapportage bij een onderzoek naar een meldingsplichtig arbeidsongeval in het kader van de bestuursrechtelijke handhaving van de Arbeidsomstandighedenwetgeving (Beleidsregel werkgeversrapportage onderzoek meldingsplichtige arbeidsongevallen)
 
 Gelet op [artikel 9, eerste lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=9) en [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
 
 Besluit:
 
-#### Artikel 1. Instellen onderzoek door werkgever en opstellen werkgeversrapportage
+##### Artikel 1. Instellen onderzoek door werkgever en opstellen werkgeversrapportage
 
 1. Na de melding bij de toezichthouder van een arbeidsongeval als bedoeld in [artikel 9, eerste lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=9), en een feitenonderzoek door de toezichthouder ter plaatse, wordt de werkgever door de toezichthouder in de gelegenheid gesteld zelf een onderzoek uit te voeren naar de oorzaken van het ongeval en naar aanleiding daarvan een rapportage en verbeterplan in te dienen bij de toezichthouder.
 
@@ -26,7 +52,7 @@ Besluit:
 
 5. Indien een werkgever op grond van het vierde lid in de gelegenheid is gesteld om de werkgeversrapportage alsnog toe te zenden en de werkgeversrapportage niet binnen de daarvoor gestelde termijn is ontvangen, hervat de toezichthouder het ongevalsonderzoek en stelt deze zo nodig een boeterapport op. De werkgever wordt hier per brief van op de hoogte gesteld.
 
-#### Artikel 2. Beoordeling werkgeversrapportage
+##### Artikel 2. Beoordeling werkgeversrapportage
 
 1. Na ontvangst van de werkgeversrapportage, toetst de toezichthouder deze aan de criteria, die nader zijn uitgewerkt in de bijlage bij deze beleidsregel.
 
@@ -38,7 +64,7 @@ Besluit:
 
 5. De toezichthouder kan te allen tijde een onderzoek instellen om te beoordelen of de concrete maatregelen tot verbetering van de arbeidsomstandigheden na een arbeidsongeval hebben plaatsgevonden. Indien de verbeteringen niet zijn gerealiseerd kan de toezichthouder handhaven.
 
-#### Artikel 3. Uitzonderingen onderzoek werkgever en werkgeversrapportage
+##### Artikel 3. Uitzonderingen onderzoek werkgever en werkgeversrapportage
 
 1. In afwijking van [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049803&artikel=1&z=2024-06-14&g=2024-06-14), krijgt een werkgever geen gelegenheid om zelf een onderzoek uit te voeren en een werkgeversrapportage op te stellen indien het een arbeidsongeval betreft waarbij:
 
@@ -60,11 +86,11 @@ Besluit:
 
 - c. dit gelet op alle omstandigheden van het geval naar het oordeel van de toezichthouder niet passend is.
 
-#### Artikel 4. Inwerkingtreding
+##### Artikel 4. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin hij wordt geplaatst.
 
-#### Artikel 5. Citeertitel
+##### Artikel 5. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel werkgeversrapportage onderzoek arbeidsongevallen.
 

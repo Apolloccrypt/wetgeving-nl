@@ -1,14 +1,41 @@
 ---
-title: "Wet forensische zorg"
+title: "Wet van 24 januari 2018 tot vaststelling van een Wet forensische zorg en daarmee verband houdende wijzigingen in diverse andere wetten (Wet forensische zorg)"
 identifier: "BWBR0040634"
-categorie: "Sociaal recht"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040634"
+country: "nl"
+rank: "wet"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040634"
+soort: "wet"
+stam_id: "14549253"
+version_id: "24899372"
+internal_id: "C36462391"
+label_id: "14503694"
+dtd_version: "2.0"
+original_entry_into_force: "2019-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040634/2025-07-01/0"
+intitule_bron: "Stb.2018-38"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-01-24"
+intitule_published: "2018-02-16"
+intitule_in_force: "2018-12-24"
+intitule_status: "goed"
+original_publication: "Stb.2018-38"
+original_signed_date: "2018-01-24"
+original_published_date: "2018-02-16"
+original_effect: "nieuwe-regeling"
+original_dossier: "32398"
+original_url_id: "stb-2018-38"
+entry_into_force_date: "2019-01-01"
+jci_1_3: "jci1.3:c:BWBR0040634&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0040634&g=2025-07-01"
+citeertitel_status: "officieel"
+short_title: "Wet forensische zorg"
+signed_date: "2018-01-24"
+entry_into_force: "2019-01-01"
 ---
-
-# Wet forensische zorg
+# Wet van 24 januari 2018 tot vaststelling van een Wet forensische zorg en daarmee verband houdende wijzigingen in diverse andere wetten (Wet forensische zorg)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1.1
+##### Artikel 1.1
 
 1. In deze wet en de daarop rustende bepalingen wordt verstaan onder:
 
@@ -58,13 +85,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk 2. Doelstelling, reikwijdte en zorgcontinuïteit en algemene bepalingen
 
-#### Artikel 2.1
+##### Artikel 2.1
 
 1. Met inachtneming van het karakter van de vrijheidsbenemende straf of maatregel wordt de tenuitvoerlegging hiervan zo veel als mogelijk aangewend voor herstel van de forensische patiënt en vermindering van de kans op recidive, ten behoeve van de veiligheid van de samenleving.
 
 2. De forensische zorg voorziet in de noodzakelijke aansluiting met andere vormen van geestelijke gezondheidszorg.
 
-#### Artikel 2.2
+##### Artikel 2.2
 
 1. Aan de forensische patiënt wordt de forensische zorg verleend, waarop hij blijkens de strafrechtelijke titel is aangewezen.
 
@@ -76,7 +103,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 5. De voordracht voor een krachtens het vierde lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
-#### Artikel 2.3
+##### Artikel 2.3
 
 1. Indien de rechter van oordeel is, dat voldaan is aan de criteria voor het afgeven van een zorgmachtiging krachtens de [Wet verplichte geestelijke gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040635), kan hij, ambtshalve of na een verzoekschrift van de officier van justitie, met toepassing van die wet een zorgmachtiging ingevolge die wet afgeven als bedoeld in [artikel 6:5, aanhef en onderdeel a, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&artikel=6:5). Aan deze bevoegdheid kan in het kader van de strafrechtelijke handhaving van de rechtsorde bij afzonderlijke beslissing toepassing worden gegeven:
 
@@ -106,11 +133,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2. Indien de rechter van oordeel is, dat voldaan is aan de criteria voor het afgeven van een rechterlijke machtiging voor opname en verblijf als bedoeld in [artikel 24 van de Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=24), kan hij, ambtshalve of na een verzoekschrift van de officier van justitie, met toepassing van die wet een rechterlijke machtiging ingevolge die wet afgeven voor de maximale duur van zes maanden. Aan deze bevoegdheid kan in het kader van de strafrechtelijke handhaving van de rechtsorde bij afzonderlijke beslissing toepassing worden gegeven op een van de in het eerste lid genoemde gronden.
 
-#### Artikel 2.4
+##### Artikel 2.4
 
 Vervallen
 
-#### Artikel 2.5
+##### Artikel 2.5
 
 1. Zes weken voor afloop van de justitiële titel treft de zorgaanbieder voorbereidingen voor aansluitende zorg, indien de zorgverlener of de behandelaar van oordeel is dat na afloop van de strafrechtelijke titel verdere zorg als bedoeld in [artikel 3.2, eerste lid, van de Wet verplichte geestelijke gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&artikel=3:2) of [artikel 1, derde lid, van de Wet zorg en dwang psychogeriatrische en verstandelijke gehandicapte cliënten](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=1) nodig is.
 
@@ -122,7 +149,7 @@ Vervallen
 
 - b. het CIZ, de officier van justitie, de ter zake kundige arts belast met de medische verklaring, de zorgaanbieder, en de zorgverantwoordelijke, in de zin van de [Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten](https://wetten.overheid.nl/jci1.3:c:BWBR0040632).
 
-#### Artikel 2.6
+##### Artikel 2.6
 
 1. Ten behoeve van de indicatiestelling, de plaatsing van forensische patiënten bij zorgaanbieders, de verlening van forensische zorg, de declaratie en de betaling van de forensische zorg en het toezicht op de forensische zorg zoals deze op grond van deze wet wordt verleend, worden persoonsgegevens van forensische patiënten, met inbegrip van bijzondere categorieën van persoonsgegevens als bedoeld in [paragraaf 3.1 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&paragraaf=3.1) en van justitiële gegevens in de zin van de Wet justitiële en strafvorderlijke gegevens, verwerkt.
 
@@ -136,7 +163,7 @@ Vervallen
 
 6. Indien noodzakelijk ten behoeve van het toezicht op de naleving van de voorwaarden inzake de verlening van forensische zorg verstrekt de zorgaanbieder aan het openbaar ministerie dan wel aan de reclasseringsinstelling de bij algemene maatregel van bestuur aan te wijzen gegevens betreffende de behandeltrouw van de forensische patiënt. Dit betreft in ieder geval gegevens betreffende de data dat de forensische patiënt zorg heeft genoten, dan wel afwezig was en gegevens betreffende de medewerking van de forensische patiënt aan de verleende forensische zorg. Tevens verstrekt de zorgaanbieder na het voltooien van de forensische zorg, of in een eerder stadium op verzoek van het openbaar ministerie of uit eigen beweging indien dit naar zijn oordeel noodzakelijk is in verband met het voorkomen van recidive, een advies over de kans op herhaling van het gedrag in verband waarmee de forensische zorg is opgelegd.
 
-#### Artikel 2.7
+##### Artikel 2.7
 
 Bij of krachtens algemene maatregel van bestuur worden regels gesteld over:
 
@@ -152,7 +179,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld over:
 
 ### Hoofdstuk 3. Instellingen
 
-#### Artikel 3.1
+##### Artikel 3.1
 
 1. Onze Minister wijst de instellingen aan welke bestemd zijn als rijksinstelling voor forensische zorg.
 
@@ -164,11 +191,11 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld over:
 
 5. Het hoofd van de instelling wijst, met machtiging van Onze Minister, één of meer personen als zijn vervanger aan.
 
-#### Artikel 3.2
+##### Artikel 3.2
 
 Onze Minister wijst de instellingen aan welke bestemd zijn als private instelling voor forensische zorg.
 
-#### Artikel 3.3
+##### Artikel 3.3
 
 1. Onze Minister kan in de aanwijzing, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&hoofdstuk=3&artikel=3.2&z=2025-07-01&g=2025-07-01), bepalen dat deze instelling in het bijzonder bestemd is als private instelling voor de verpleging van ter beschikking gestelden.
 
@@ -190,13 +217,13 @@ Onze Minister wijst de instellingen aan welke bestemd zijn als private instellin
 
 10. Wijziging van de statuten, juridische fusie en of splitsing van de private instelling geschiedt niet zonder voorafgaande toestemming van Onze Minister.
 
-#### Artikel 3.4
+##### Artikel 3.4
 
 1. Het hoofd van de instelling voor de verpleging van ter beschikking gestelden stelt huisregels vast voor de instelling of voor een of meer afdelingen daarvan, met inachtneming van het bij regeling van Onze Minister vast te stellen model.
 
 2. Het hoofd van de instelling voor de verpleging van ter beschikking gestelden is, voor zover dit noodzakelijk is in het belang van de handhaving van de orde of de veiligheid in de instelling of een ongestoord verloop van de verpleging of behandeling, bevoegd aan de forensische patiënten aanwijzingen te geven. De forensische patiënten zijn verplicht deze aanwijzingen op te volgen.
 
-#### Artikel 3.5
+##### Artikel 3.5
 
 1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet, de [Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765) en de [Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709), zijn belast de bij besluit van Onze Minister aangewezen ambtenaren voor zover het bepaalde betrekking heeft op:
 
@@ -224,7 +251,7 @@ Onze Minister wijst de instellingen aan welke bestemd zijn als private instellin
 
 ### Hoofdstuk 4. Inkoop
 
-#### Artikel 4.1
+##### Artikel 4.1
 
 1. Onze Minister koopt forensische zorg in bij zorgaanbieders, met uitzondering van rijksinstellingen, op basis van schriftelijke overeenkomsten.
 
@@ -232,13 +259,13 @@ Onze Minister wijst de instellingen aan welke bestemd zijn als private instellin
 
 3. De Nederlandse Zorgautoriteit geeft advies aan Onze Minister over de uitoefening van de taak, bedoeld in het eerste lid.
 
-#### Artikel 4.2
+##### Artikel 4.2
 
 Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de inhoud van de schriftelijke overeenkomst, bedoeld in [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&hoofdstuk=4&artikel=4.1&z=2025-07-01&g=2025-07-01).
 
 ### Hoofdstuk 5. Indicatiestelling
 
-#### Artikel 5.1
+##### Artikel 5.1
 
 1. Ten behoeve van de strafrechtelijke titel, de plaatsing, de zorgverlening en de declaratie daarvan, wordt een indicatiestelling opgemaakt.
 
@@ -250,7 +277,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de in
 
 5. Onze Minister zendt de indicatiestelling die hij heeft ontvangen door aan de zorgaanbieder, waar de forensische patiënt is geplaatst, ten behoeve van de zorgverlening en de declaratie daarvan.
 
-#### Artikel 5.2
+##### Artikel 5.2
 
 1. Een door Onze Minister aan te wijzen orgaan is bevoegd een indicatiestelling af te geven aan de rechter, officier van justitie of Onze Minister.
 
@@ -260,7 +287,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de in
 
 4. In spoedeisende gevallen kan de officier van justitie gelasten dat forensische zorg wordt verleend, alvorens een indicatiestelling is afgegeven en de strafrechtelijke titel is verleend.
 
-#### Artikel 5.3
+##### Artikel 5.3
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld ten aanzien van de organisaties die de indicatiestelling verrichten en kunnen nadere regels worden gesteld over de deskundigheid van de personen die het onderzoek verrichten, de kwaliteit van de indicatiestelling, het toezicht op de kwaliteitseisen die aan de indicatiestelling worden gesteld en de ontwikkeling en de implementatie van kwaliteitsinstrumenten, scholing, deskundigheidsbevordering en onderzoek.
 
@@ -270,7 +297,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de in
 
 ### Hoofdstuk 6. Plaatsing, overplaatsing en overbrenging
 
-#### Artikel 6.1
+##### Artikel 6.1
 
 1. De plaatsing van forensische patiënten bij een zorgaanbieder geschiedt door of vanwege Onze Minister, op basis van een gedagtekend besluit. Onze Minister neemt het besluit bedoeld in de eerste volzin slechts nadat hij zich een indicatiestelling heeft doen overleggen.
 
@@ -280,7 +307,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de in
 
 4. Onze Minister kan de zorgaanbieder een bestuurlijke boete opleggen, indien de zorgaanbieder niet voldoet aan de verplichting tot opneming en verlening van forensische zorg bedoeld in het derde lid.
 
-#### Artikel 6.2
+##### Artikel 6.2
 
 1. Bij de plaatsing, bedoeld in [artikel 6.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&hoofdstuk=6&artikel=6.1&z=2025-07-01&g=2025-07-01), worden in ieder geval in de overwegingen betrokken:
 
@@ -298,13 +325,13 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de in
 
 5. De gegevens welke zijn opgenomen in de indicatiestelling worden door Onze Minister slechts gebruikt ten behoeve van het besluit, bedoeld in [artikel 6.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&hoofdstuk=6&artikel=6.1&z=2025-07-01&g=2025-07-01) en voor het maken van prognoses.
 
-#### Artikel 6.3
+##### Artikel 6.3
 
 1. De plaatsing, bedoeld in [artikel 6.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&hoofdstuk=6&artikel=6.1&z=2025-07-01&g=2025-07-01), van een ter beschikking gestelde in een instelling geschiedt binnen een termijn van vier maanden na aanvang van de termijn van terbeschikkingstelling. Deze termijn kan telkens worden verlengd met vier maanden. Met een beslissing tot verlenging wordt gelijk gesteld een weigering om binnen de in de eerste volzin genoemde termijn te beslissen.
 
 2. Zolang de opname van ter beschikking gestelden in een voor hen bestemde plaats niet mogelijk is, is Onze Minister bevoegd om hen, gedurende een termijn van maximaal één jaar, te plaatsen in een instelling die als organisatorisch verband deel uitmaakt van een penitentiaire inrichting.
 
-#### Artikel 6.4
+##### Artikel 6.4
 
 1. Opneming van ter beschikking gestelden in een rijksinstelling of een private instelling met een aanwijzing als bedoeld in [artikel 3.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&hoofdstuk=3&artikel=3.3&z=2025-07-01&g=2025-07-01), aan wie door de rechter een voorwaarde is opgelegd op grond van [artikel 38, eerste lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=38), ter beschikking gestelden die op eigen verzoek opnieuw in een instelling willen worden opgenomen, personen aan wie door de rechter een voorwaarde is opgelegd op grond van [artikel 14c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=14c) en [artikel 38p van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=38p) of [artikel 6:6:10 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:10) en voortzetting van het verblijf van ter beschikking gestelden die opnieuw in een instelling opgenomen willen worden, geschiedt niet zonder machtiging van Onze Minister.
 
@@ -328,7 +355,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de in
 
 4. De machtiging tot beëindiging van de behandeling en het ontslag, bedoeld in het derde lid, onderdeel c, onder 1°, wordt niet eerder afgegeven dan nadat Onze Minister het openbaar ministerie heeft geïnformeerd over de voorgenomen beëindiging van de behandeling en ontslag bij een persoon aan wie door de rechter een voorwaarde is opgelegd op grond van [artikel 14c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=14c), [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=38), [artikel 38p van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=38p) of [artikel 6:6:10 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:10). Indien het openbaar ministerie niet besluit een vordering in te stellen als bedoeld in [artikel 6:6:11](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:11) of [artikel 6:6:21, derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:21) kan Onze Minister de machtiging tot beëindiging en ontslag verlenen.
 
-#### Artikel 6.5
+##### Artikel 6.5
 
 1. Indien het belang van de veiligheid van anderen dan wel de algemene veiligheid van personen of goederen zulks eist, kan Onze Minister bepalen dat een forensische patiënt tijdelijk voor een periode van ten hoogste zeven weken wordt geplaatst in een andere instelling dan de instelling waar de forensische patiënt is geplaatst, teneinde te bezien of een overplaatsing met het oog op de veiligheid nodig is.
 
@@ -338,23 +365,23 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de in
 
 4. Onze Minister kan, indien dit met het oog op de voorbereiding van de terugkeer van de forensische patiënt naar de instelling waarin hij was geplaatst noodzakelijk is, de termijn, bedoeld in het derde lid, met ten hoogste vier weken verlengen.
 
-#### Artikel 6.6
+##### Artikel 6.6
 
 Forensische patiënten die hiervoor ingevolge [artikel 4, vijfde lid, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=4), in aanmerking komen, kunnen in het kader van de verlening van forensische zorg door Onze Minister in de gelegenheid worden gesteld tot deelname aan een penitentiair programma en daarbij voor de duur van het programma of een gedeelte daarvan onder elektronisch toezicht worden gesteld. Bij het niet voldoen aan de voorwaarden voor deelname, bedoeld in artikel 4, derde lid, Penitentiaire beginselenwet kan de deelname worden beëindigd.
 
-#### Artikel 6.7
+##### Artikel 6.7
 
 Indien de aard van de bij de forensische patiënt geconstateerde psychische stoornis, verslaving daaronder begrepen, psychogeriatrische aandoening of verstandelijke handicap daartoe aanleiding geeft, kan Onze Minister bepalen dat de forensische patiënt naar een private instelling, niet zijnde een private instelling met een bijzondere aanwijzing als bedoeld in [artikel 3.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&hoofdstuk=3&artikel=3.3&z=2025-07-01&g=2025-07-01), zal worden overgebracht om daar zolang dat noodzakelijk is, te worden verpleegd. Voor deze overbrenging is een zorgmachtiging vereist op grond van de [Wet verplichte geestelijke gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040635) of een rechterlijke machtiging voor onvrijwillige opname op grond van de [Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten](https://wetten.overheid.nl/jci1.3:c:BWBR0040632). Een zorgmachtiging of rechterlijke machtiging als bedoeld in de vorige volzin kan achterwege blijven indien de forensische patiënt schriftelijk en vrijwillig met de overbrenging instemt.
 
-#### Artikel 6.8
+##### Artikel 6.8
 
 Onze Minister draagt zorg voor overbrenging van de forensische patiënt naar de daartoe bestemde plaats, indien dit vanuit het oogpunt van sociale verzorging en hulpverlening noodzakelijk is en een dergelijke overbrenging zich verdraagt met de ongestoorde tenuitvoerlegging van de vrijheidsbeneming.
 
-#### Artikel 6.9
+##### Artikel 6.9
 
 Onze Minister is bevoegd om een forensische patiënt over te brengen naar een instelling, indien dit ten behoeve van de indicatiestelling noodzakelijk is.
 
-#### Artikel 6.10
+##### Artikel 6.10
 
 1. Het hoofd van de instelling bij welke de algemene verantwoordelijkheid ligt voor de tenuitvoerlegging van de vrijheidsstraf of vrijheidsbenemende maatregel meldt ongeoorloofde afwezigheid en andere bijzondere voorvallen betreffende de forensische patiënt aan Onze Minister.
 
@@ -364,7 +391,7 @@ Onze Minister is bevoegd om een forensische patiënt over te brengen naar een in
 
 4. De zorgaanbieder die forensische zorg verleent of doet verlenen aan een forensische patiënt, die buiten de instelling of de penitentiaire inrichting verblijft bij welke de algemene verantwoordelijkheid ligt voor de tenuitvoerlegging van de vrijheidsstraf of vrijheidsbenemende maatregel, draagt er zorg voor, met het oog op de in de voorgaande leden bedoelde verplichtingen, dat het hoofd van die instelling of de directeur van die penitentiaire inrichting in kennis wordt gesteld van de ongeoorloofde afwezigheid en andere bijzondere voorvallen die de forensische patiënt betreffen. De zorgaanbieder meldt de ongeoorloofde afwezigheid en andere bijzondere voorvallen tevens aan de persoon of de instelling die is belast met begeleiding van en het toezicht op de forensische patiënt.
 
-#### Artikel 6.10a
+##### Artikel 6.10a
 
 1. Het hoofd van de instelling stelt voor personeelsleden en medewerkers een meldcode vast waarin stapsgewijs wordt aangegeven hoe met signalen van huiselijk geweld of kindermishandeling wordt omgegaan en die er redelijkerwijs aan bijdraagt dat zo snel en adequaat mogelijk hulp kan worden geboden.
 
@@ -376,7 +403,7 @@ Onze Minister is bevoegd om een forensische patiënt over te brengen naar een in
 
 5. Bij of krachtens algemene maatregel van bestuur wordt vastgesteld uit welke elementen een meldcode in ieder geval bestaat.
 
-#### Artikel 6.11
+##### Artikel 6.11
 
 1. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over:
 
@@ -392,69 +419,69 @@ Onze Minister is bevoegd om een forensische patiënt over te brengen naar een in
 
 #### Paragraaf 1. Justitie
 
-#### Artikel 7.1
+##### Artikel 7.1
 
 wijzigt het Wetboek van Strafrecht.
 
-#### Artikel 7.2
+##### Artikel 7.2
 
 wijzigt de Wet verplichte geestelijke gezondheidszorg.
 
-#### Artikel 7.3
+##### Artikel 7.3
 
 wijzigt het Wetboek van Strafvordering.
 
-#### Artikel 7.3a
+##### Artikel 7.3a
 
 wijzigt de Wet op de rechterlijke organisatie.
 
-#### Artikel 7.4
+##### Artikel 7.4
 
 Vervallen
 
-#### Artikel 7.7
+##### Artikel 7.7
 
 wijzigt de Beginselenwet verpleging ter beschikking gestelden.
 
-#### Artikel 7.7a
+##### Artikel 7.7a
 
 wijzigt de Beginselenwet verpleging ter beschikking gestelden.
 
-#### Artikel 7.8
+##### Artikel 7.8
 
 wijzigt de Penitentiaire beginselenwet.
 
-#### Artikel 7.8a
+##### Artikel 7.8a
 
 wijzigt de Penitentiaire beginselenwet.
 
-#### Artikel 7.8b
+##### Artikel 7.8b
 
 wijzigt de Beginselenwet justitiële jeugdinrichtingen.
 
-#### Artikel 7.9
+##### Artikel 7.9
 
 wijzigt de Wet DNA-onderzoek bij veroordeelden.
 
 #### Paragraaf 2. Volksgezondheid, Welzijn en Sport
 
-#### Artikel 7.10
+##### Artikel 7.10
 
 wijzigt de Algemene Wet Bijzondere Ziektekosten.
 
-#### Artikel 7.11
+##### Artikel 7.11
 
 wijzigt de Zorgverzekeringswet.
 
-#### Artikel 7.12
+##### Artikel 7.12
 
 wijzigt de Wet medezeggenschap cliënten zorginstellingen.
 
-#### Artikel 7:13a
+##### Artikel 7:13a
 
 wijzigt de Wet marktordening gezondheidszorg.
 
-#### Artikel 7:13b
+##### Artikel 7:13b
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2015/407.
 
@@ -462,7 +489,7 @@ Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 20
 
 wijzigt de Wet cliëntenrechten zorg.
 
-#### Artikel 7.13c
+##### Artikel 7.13c
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2015/407.
 
@@ -470,7 +497,7 @@ Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 20
 
 wijzigt de Wet cliëntenrechten zorg.
 
-#### Artikel 7.13d
+##### Artikel 7.13d
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2015/407.
 
@@ -478,63 +505,63 @@ Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 20
 
 wijzigt de Wet cliëntenrechten zorg.
 
-#### Artikel 7.13e
+##### Artikel 7.13e
 
 wijzigt de Wijzigingswet Wet maatschappelijke ondersteuning (uitbreiding gemeentelijke taken, enz).
 
 #### Paragraaf 3. Sociale Zaken en Werkgelegenheid
 
-#### Artikel 7.14
+##### Artikel 7.14
 
 wijzigt de Algemene nabestaandenwet.
 
-#### Artikel 7.15
+##### Artikel 7.15
 
 wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
 
-#### Artikel 7.16
+##### Artikel 7.16
 
 wijzigt de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.
 
-#### Artikel 7.17
+##### Artikel 7.17
 
 wijzigt de Wet arbeidsongeschiktheidsverzekering zelfstandigen.
 
-#### Artikel 7.18
+##### Artikel 7.18
 
 wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.
 
-#### Artikel 7.19
+##### Artikel 7.19
 
 wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers.
 
-#### Artikel 7.20
+##### Artikel 7.20
 
 wijzigt de Wet financiering sociale verzekeringen.
 
 #### Paragraaf 4. Onderwijs, Cultuur en Wetenschap
 
-#### Artikel 7.21
+##### Artikel 7.21
 
 wijzigt de Wet op het voortgezet onderwijs.
 
 ### Hoofdstuk 8. Overgangs- en slotbepalingen
 
-#### Artikel 8.1
+##### Artikel 8.1
 
 Onze Minister zendt binnen drie jaar na de inwerkingtreding van deze wet, en vervolgens telkens na vijf jaar, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-#### Artikel 8.2
+##### Artikel 8.2
 
 Deze wet wordt aangehaald als: Wet forensische zorg.
 
-#### Artikel 8.3
+##### Artikel 8.3
 
 De artikelen (hoofdstukken) van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen (hoofdstukken) of onderdelen daarvan verschillend kan worden vastgesteld.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 2.8
+##### Artikel 2.8
 
 1. Onze Minister verwerkt gegevens die betrekking hebben op forensische zorg met het oog op het beleid van die forensische zorg.
 
@@ -550,7 +577,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ### Hoofdstuk 3. Instellingen
 
-#### Artikel 3.6
+##### Artikel 3.6
 
 1. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over:
 

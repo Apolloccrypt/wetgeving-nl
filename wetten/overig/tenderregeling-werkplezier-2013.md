@@ -1,13 +1,35 @@
 ---
 title: "Tenderregeling Werkplezier 2013"
 identifier: "BWBR0034274"
-categorie: "Overig"
-publicatiedatum: 2016-03-04
-laatste_update: 2016-03-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034274"
+country: "nl"
+rank: "zbo"
+publication_date: "2016-03-04"
+last_updated: "2016-03-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034274"
+soort: "zbo"
+stam_id: "12447533"
+version_id: "20924232"
+internal_id: "C30040491"
+label_id: "12418454"
+dtd_version: "2.0"
+original_entry_into_force: "2013-03-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034274/2016-03-04/0"
+intitule_bron: "Stcrt.2013-6608"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2013-03-14"
+intitule_in_force: "2013-03-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-6608"
+original_published_date: "2013-03-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-6608"
+entry_into_force_date: "2013-03-15"
+jci_1_3: "jci1.3:c:BWBR0034274&z=2016-03-04&g=2016-03-04"
+jci_1_0: "1.0:c:BWBR0034274&g=2016-03-04"
+citeertitel_status: "officieel"
+entry_into_force: "2013-03-15"
 ---
-
 # Tenderregeling Werkplezier 2013
 
 gelet op [artikel 183, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=183) jo [artikel 187, zesde lid van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=187),
@@ -16,7 +38,7 @@ besluit vast te stellen:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 In deze regeling wordt verstaan onder:
 
@@ -36,11 +58,11 @@ In deze regeling wordt verstaan onder:
 
 - e. **Werkgever:** bestuur van het bevoegd gezag.
 
-#### Artikel 2. Subsidiabele activiteiten
+##### Artikel 2. Subsidiabele activiteiten
 
 Een projectplan van een werkgever komt voor subsidiering in aanmerking indien het projectplan ten doel heeft door werknemer(s) ervaren werkdruk naar meer werkplezier om te buigen.
 
-#### Artikel 3. Niet-subsidiabele activiteiten
+##### Artikel 3. Niet-subsidiabele activiteiten
 
 1. Een projectplan komt niet voor subsidiering in aanmerking indien een daarin genoemde activiteit reeds is aangevangen dan wel daarin genoemde activiteiten reeds zijn aangevangen op de datum waarop de aanvraag is ingediend.
 
@@ -54,7 +76,7 @@ Een projectplan van een werkgever komt voor subsidiering in aanmerking indien he
 
 - 4. die zich richten op het oplossen van externe factoren zoals maatschappelijke, bestuurlijke en/of wettelijke ontwikkelingen komen niet voor vergoeding in aanmerking.
 
-#### Artikel 4. Niet-subsidiabele kosten
+##### Artikel 4. Niet-subsidiabele kosten
 
 De volgende kosten komen niet voor subsidiëring in aanmerking:
 
@@ -64,7 +86,7 @@ De volgende kosten komen niet voor subsidiëring in aanmerking:
 
 - 3. kosten die schoolbesturen/bureaus in rekening brengen, voor het indienen van de aanvraag rondom de Tenderregeling Werkplezier.
 
-#### Artikel 5. Subsidieplafond
+##### Artikel 5. Subsidieplafond
 
 1. Het Vervangingsfonds stelt bij de vaststelling van de jaarlijkse begroting het budget vast, dat per tranche maximaal voor de subsidie Werkplezier beschikbaar is.
 
@@ -72,13 +94,13 @@ De volgende kosten komen niet voor subsidiëring in aanmerking:
 
 3. Het Vervangingsfonds maakt via de site www.vervaningsfonds.nl het beschikbare budget per tranche bekend voor aanvang van iedere tranche.
 
-#### Artikel 6. Begrotingsvoorbehoud
+##### Artikel 6. Begrotingsvoorbehoud
 
 Het Vervangingsfonds verleent een subsidie ten laste van een begroting, die nog niet is vastgesteld, onder de voorwaarde dat voldoende middelen op de begroting beschikbaar zullen worden gesteld.
 
 ### Hoofdstuk 2. Subsidie
 
-#### Artikel 7. Criteria
+##### Artikel 7. Criteria
 
 Een aanvraag voor subsidie voldoet in ieder geval aan de volgende criteria:
 
@@ -94,7 +116,7 @@ Een aanvraag voor subsidie voldoet in ieder geval aan de volgende criteria:
 
 - 6. een soortgelijk projectplan is niet eerder voor subsidiering vanuit de Tenderregeling Werkplezier ingediend.
 
-#### Artikel 8. Grondslag
+##### Artikel 8. Grondslag
 
 1. De subsidie bedraagt minimaal € 4.000,– en maximaal € 30.000,– per project.
 
@@ -104,7 +126,7 @@ Een aanvraag voor subsidie voldoet in ieder geval aan de volgende criteria:
 
 4. Het Vervangingsfonds kent geen subsidiebedragen toe die hoger zijn dan de totale kosten van het project.
 
-#### Artikel 9. Volgorde van behandeling
+##### Artikel 9. Volgorde van behandeling
 
 1. Het Vervangingsfonds plaatst de subsidieaanvragen in een prioriteitsvolgorde en verlenen de subsidie in volgorde van vastgestelde prioriteit voor zover het subsidieplafond dat toelaat.
 
@@ -126,7 +148,7 @@ Een aanvraag voor subsidie voldoet in ieder geval aan de volgende criteria:
 
 ### Hoofdstuk 3. Procedure van aanvraag
 
-#### Artikel 10. Indieningstermijn aanvraag
+##### Artikel 10. Indieningstermijn aanvraag
 
 1. Een werkgever dient een aanvraag in:
 
@@ -138,7 +160,7 @@ Een aanvraag voor subsidie voldoet in ieder geval aan de volgende criteria:
 
 2. De werkgever kan een onvolledige aanvraag na sluitingsdatum van iedere tranche uitsluitend op de voet van [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) aanvullen voor zover het geen inhoudelijke aanvulling of wijziging van de aanvraag betreft.
 
-#### Artikel 11. Beslistermijn aanvraag en betaling voorschotten
+##### Artikel 11. Beslistermijn aanvraag en betaling voorschotten
 
 1. Het Vervangingsfonds beslist binnen acht weken na sluiting van de tranche over de verlening en hoogte van de subsidie.
 
@@ -146,7 +168,7 @@ Een aanvraag voor subsidie voldoet in ieder geval aan de volgende criteria:
 
 3. Als het Vervangingsfonds de subsidie verleent, betaalt het binnen 6 weken na ontvangst van de bescheiden als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0034274&hoofdstuk=3&artikel=12&z=2016-03-04&g=2016-03-04) 75% van het voorlopig toegekende subsidiebedrag.
 
-#### Artikel 12. Benodigde bescheiden na verlening
+##### Artikel 12. Benodigde bescheiden na verlening
 
 1. De werkgever legt na verlening van de subsidie de gegevens van de 0-meting op basis van de Quick Scan van de Arbomeester over.
 
@@ -156,7 +178,7 @@ Een aanvraag voor subsidie voldoet in ieder geval aan de volgende criteria:
 
 ### Hoofdstuk 4. Verantwoording, vaststelling en betaling van de subsidie
 
-#### Artikel 13. Verantwoording van de subsidie
+##### Artikel 13. Verantwoording van de subsidie
 
 1. De werkgever dient uiterlijk binnen zestien maanden na de datum van verlening van de subsidie een aanvraag tot definitieve vaststelling in bij het Vervangingsfonds.
 
@@ -170,7 +192,7 @@ Een aanvraag voor subsidie voldoet in ieder geval aan de volgende criteria:
 
 6. Als de werkgever de in het eerste lid bedoelde termijn overschrijdt, stelt het Vervangingsfonds de subsidie ambtshalve op nihil vast, tenzij redelijkerwijs niet kan worden geoordeeld dat de werkgever in verzuim is geweest.
 
-#### Artikel 14. Vaststelling van de subsidie en betalingen
+##### Artikel 14. Vaststelling van de subsidie en betalingen
 
 1. Het Vervangingsfonds stelt binnen vier weken na ontvangst van de originele factuur/facturen en de gegevens van de 1-meting op basis van de Quick Scan van de Arbomeester de subsidie definitief vast.
 
@@ -184,11 +206,11 @@ Een aanvraag voor subsidie voldoet in ieder geval aan de volgende criteria:
 
 ### Hoofdstuk 5. Verplichtingen van de werkgever
 
-#### Artikel 15. Meldingsplicht
+##### Artikel 15. Meldingsplicht
 
 De werkgever doet onverwijld melding aan het Vervangingsfonds, zodra aannemelijk is dat de activiteiten, waarvoor de subsidie is verleend, niet of niet geheel zullen worden verricht of dat niet geheel aan de in de beschikking tot subsidieverlening verbonden verplichtingen zal worden voldaan.
 
-#### Artikel 16. Overige verplichtingen van de werkgever
+##### Artikel 16. Overige verplichtingen van de werkgever
 
 1. De werkgever verleent aan de derde, die de offerte heeft uitgebracht, opdracht de activiteiten uit te voeren.
 
@@ -200,14 +222,14 @@ De werkgever doet onverwijld melding aan het Vervangingsfonds, zodra aannemelijk
 
 ### Hoofdstuk 6. Overige bepalingen
 
-#### Artikel 17. Inwerkingtreding
+##### Artikel 17. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 15 maart 2013.
 
-#### Artikel 18. Kaderregeling
+##### Artikel 18. Kaderregeling
 
 Op deze regeling zijn de voorwaarden van toepassing als vermeld in de kaderregeling Subsidieverstrekking Vervangingsfonds en Participatiefonds.
 
-#### Artikel 19. Citeertitel
+##### Artikel 19. Citeertitel
 
 Deze regeling wordt aangehaald als Tenderregeling Werkplezier 2013.

@@ -1,13 +1,38 @@
 ---
 title: "Circulaire wijzigingen bedrag vergoeding lid algemeen bestuur waterschap ex art. 3.2, tweede lid, Waterschapsbesluit, enz per 1 januari 2014"
 identifier: "BWBR0034310"
-categorie: "Bestuursrecht"
-publicatiedatum: 2013-12-10
-laatste_update: 2013-12-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034310"
+country: "nl"
+rank: "circulaire"
+publication_date: "2013-12-10"
+last_updated: "2013-12-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034310"
+soort: "circulaire"
+stam_id: "12455883"
+version_id: "20940802"
+internal_id: "C30060811"
+label_id: "12426704"
+dtd_version: "2.0"
+original_entry_into_force: "2013-12-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034310/2013-12-10/0"
+intitule_bron: "Stcrt.2013-34417"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-12-02"
+intitule_published: "2013-12-10"
+intitule_in_force: "2013-12-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-34417"
+original_signed_date: "2013-12-02"
+original_published_date: "2013-12-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-34417"
+entry_into_force_date: "2013-12-10"
+jci_1_3: "jci1.3:c:BWBR0034310&z=2013-12-10&g=2013-12-10"
+jci_1_0: "1.0:c:BWBR0034310&g=2013-12-10"
+citeertitel_status: "redactioneel"
+signed_date: "2013-12-02"
+entry_into_force: "2013-12-10"
 ---
-
 # Circulaire wijzigingen bedrag vergoeding lid algemeen bestuur waterschap ex art. 3.2, tweede lid, Waterschapsbesluit, enz per 1 januari 2014
 
 ### Algemene informatie

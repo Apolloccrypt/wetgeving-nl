@@ -1,13 +1,39 @@
 ---
-title: "Besluit diervoeders 2012"
+title: "Besluit van 12 november 2012, houdende regels inzake diervoeders (Besluit diervoeders 2012)"
 identifier: "BWBR0032346"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-05-05
-laatste_update: 2022-05-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032346"
+country: "nl"
+rank: "amvb"
+publication_date: "2022-05-05"
+last_updated: "2022-05-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032346"
+soort: "AMvB"
+stam_id: "11931053"
+version_id: "19829842"
+internal_id: "C27962451"
+label_id: "11903174"
+dtd_version: "2.0"
+original_entry_into_force: "2013-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032346/2022-05-05/0"
+intitule_bron: "Stb.2012-611"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-11-12"
+intitule_published: "2012-12-06"
+intitule_in_force: "2012-12-20"
+intitule_status: "goed"
+original_publication: "Stb.2012-611"
+original_signed_date: "2012-11-12"
+original_published_date: "2012-12-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2012-611"
+entry_into_force_date: "2013-01-01"
+jci_1_3: "jci1.3:c:BWBR0032346&z=2022-05-05&g=2022-05-05"
+jci_1_0: "1.0:c:BWBR0032346&g=2022-05-05"
+citeertitel_status: "officieel"
+short_title: "Besluit diervoeders 2012"
+signed_date: "2012-11-12"
+entry_into_force: "2013-01-01"
 ---
-
 # Besluit van 12 november 2012, houdende regels inzake diervoeders (Besluit diervoeders 2012)
 
 Op de voordracht van de Staatssecretaris van Economische Zaken, Landbouw en Innovatie van 12 juli 2012, nr. 283165, Directie Wetgeving en Juridische Zaken, gedaan in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport, en na overleg met de Staatssecretaris van Sociale Zaken en Werkgelegenheid;
@@ -52,7 +78,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemeen
 
-#### Artikel 1.1. Begripsbepalingen
+##### Artikel 1.1. Begripsbepalingen
 
 In dit besluit en daarop berustende bepalingen wordt verstaan onder:
 
@@ -90,7 +116,7 @@ In dit besluit en daarop berustende bepalingen wordt verstaan onder:
 
 #### § 1. Uitvoering van EU-rechtshandelingen over diervoeders
 
-#### Artikel 2.1. Uitvoering van EU-rechtshandelingen
+##### Artikel 2.1. Uitvoering van EU-rechtshandelingen
 
 1. Bij ministeriële regeling worden ter uitvoering van EU-verordeningen over diervoeders en krachtens die EU-verordeningen vastgestelde EU-rechtshandelingen regels gesteld over diervoeders met betrekking tot de onderwerpen, bedoeld in [artikel 2.18, tweede lid, onderdelen a tot en met l, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.18) voor zover die EU-rechtshandelingen verplichten tot invulling van een onderdeel van die rechtshandelingen.
 
@@ -98,19 +124,19 @@ In dit besluit en daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2. Uitvoering van EU-rechtshandelingen over biologische diervoeders
 
-#### Artikel 2.2. Toepasselijkheid van deze paragraaf
+##### Artikel 2.2. Toepasselijkheid van deze paragraaf
 
 Deze paragraaf is van toepassing op biologische diervoeders, onverminderd EU-verordeningen, EU-besluiten, of bij of krachtens de [artikelen 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.17), [2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.18) of [6.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=6.4) gestelde bepalingen betreffende diervoeders.
 
-#### Artikel 2.3. Uitvoering bindende onderdelen EU-rechtshandelingen
+##### Artikel 2.3. Uitvoering bindende onderdelen EU-rechtshandelingen
 
 Bij ministeriële regeling worden regels gesteld ter uitvoering van bindende onderdelen van EU-rechtshandelingen met betrekking tot de productie van biologische diervoeders.
 
-#### Artikel 2.4. Biologische diervoeders voor gezelschapsdieren
+##### Artikel 2.4. Biologische diervoeders voor gezelschapsdieren
 
 Vervallen
 
-#### Artikel 2.5. Controles en bewijsstukken
+##### Artikel 2.5. Controles en bewijsstukken
 
 De Stichting Skal is overeenkomstig [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=15) en [16, tweede lid, van het Landbouwkwaliteitsbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=16):
 
@@ -118,7 +144,7 @@ De Stichting Skal is overeenkomstig [artikelen 15](https://wetten.overheid.nl/jc
 
 - b. bevoegd tot het uitreiken van bewijsstukken ten aanzien van de kwaliteit van volgens de biologische productie geproduceerde diervoeders, indien daarover in de ministeriële regeling, bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032346&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2022-05-05&g=2022-05-05), regels zijn gesteld.
 
-#### Artikel 2.6. Overeenkomstige toepassing [Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755)
+##### Artikel 2.6. Overeenkomstige toepassing [Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755)
 
 Op de uitvoering van het toezicht en de keuring, bedoeld in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032346&hoofdstuk=2&paragraaf=2&artikel=2.4&z=2022-05-05&g=2022-05-05) door de Stichting Skal, zijn van overeenkomstige toepassing:
 
@@ -128,7 +154,7 @@ Op de uitvoering van het toezicht en de keuring, bedoeld in [artikel 2.4](https:
 
 ### Hoofdstuk 3. [Richtlijn 2002/32/eg](32002L0032) inzake ongewenste stoffen
 
-#### Artikel 3.1. Begripsbepalingen
+##### Artikel 3.1. Begripsbepalingen
 
 In dit hoofdstuk en daarop berustende bepalingen wordt verstaan onder:
 
@@ -148,11 +174,11 @@ In dit hoofdstuk en daarop berustende bepalingen wordt verstaan onder:
 
 - –. **volledige diervoeders:** mengsels van diervoeders die door hun samenstelling op zichzelf een totaal dagrantsoen vormen.
 
-#### Artikel 3.2. Bijlage maximumgehalte ongewenste stoffen en producten
+##### Artikel 3.2. Bijlage maximumgehalte ongewenste stoffen en producten
 
 Een ieder die met een diervoeder een handeling als bedoeld in [artikel 2.17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.17) verricht, verricht die handeling slechts met een product dat bedoeld is voor het voederen van dieren dat het in bijlage I bij Richtlijn nr. 2002/32/EG vastgestelde gehalte aan ongewenste stoffen niet overschrijdt.
 
-#### Artikel 3.3. Onderzoek bij overschrijding maximumgehalten
+##### Artikel 3.3. Onderzoek bij overschrijding maximumgehalten
 
 1. Wanneer in producten die bedoeld zijn voor het voederen van dieren, maximumgehalten als bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032346&hoofdstuk=3&artikel=3.2&z=2022-05-05&g=2022-05-05) zijn overschreden, verricht Onze Minister onderzoek om de bronnen van ongewenste stoffen te identificeren, daarbij rekening houdend met de achtergrondniveaus.
 
@@ -160,7 +186,7 @@ Een ieder die met een diervoeder een handeling als bedoeld in [artikel 2.17, eer
 
 3. In afwijking van [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032346&hoofdstuk=3&artikel=3.2&z=2022-05-05&g=2022-05-05) kunnen bij ministeriële regeling regels worden gesteld voor proefnemingen bij dieren met producten die bedoeld zijn voor het voederen van dieren om de bronnen van ongewenste stoffen te identificeren in verband met de overschrijding van een maximumgehalte.
 
-#### Artikel 3.4. Onderzoek bij constatering verhoogde gehalten
+##### Artikel 3.4. Onderzoek bij constatering verhoogde gehalten
 
 1. Wanneer in producten die bedoeld zijn voor het voederen van dieren, verhoogde gehalten van ongewenste stoffen zijn geconstateerd, verricht Onze Minister onderzoek om de bronnen van ongewenste stoffen te identificeren, daarbij rekening houdend met de achtergrondniveaus.
 
@@ -170,19 +196,19 @@ Een ieder die met een diervoeder een handeling als bedoeld in [artikel 2.17, eer
 
 4. In afwijking van [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032346&hoofdstuk=3&artikel=3.2&z=2022-05-05&g=2022-05-05) kunnen bij ministeriële regeling regels worden gesteld voor proefnemingen bij dieren met producten die bedoeld zijn voor het voederen van dieren om maatregelen te kunnen nemen om een verhoogd gehalte aan ongewenste stoffen te beperken of deze weg te nemen.
 
-#### Artikel 3.5. Informatie aan andere lidstaten van de Europese Unie en Europese Commissie
+##### Artikel 3.5. Informatie aan andere lidstaten van de Europese Unie en Europese Commissie
 
 Onze Minister zendt jaarlijks informatie over de resultaten van het onderzoek, bedoeld in de [artikelen 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032346&hoofdstuk=3&artikel=3.3&z=2022-05-05&g=2022-05-05) en [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032346&hoofdstuk=3&artikel=3.4&z=2022-05-05&g=2022-05-05), alsmede andere nuttige informatie en bevindingen, waaronder informatie over de bron en de maatregelen die zijn genomen om het gehalte aan ongewenste stoffen te beperken of weg te nemen, aan de Commissie van de Europese Unie en de andere lidstaten van de Europese Unie. De toezending is onverwijld, indien deze onmiddellijk van belang is voor de andere lidstaten van de Europese Unie.
 
-#### Artikel 3.6. Verdunning
+##### Artikel 3.6. Verdunning
 
 Producten die bedoeld zijn voor het voederen van dieren, met een gehalte aan een ongewenste stof dat het in kolom 3 van de tabel in bijlage I van [Richtlijn 2002/32/EG](32002L0032) vastgestelde maximumgehalte overschrijdt, mogen niet met het oog op verdunning worden vermengd met hetzelfde product of met andere producten die bedoeld zijn voor het voederen van dieren.
 
-#### Artikel 3.7. Aanvullende diervoeders
+##### Artikel 3.7. Aanvullende diervoeders
 
 In aanvullende diervoeders mag het gehalte aan de in bijlage I van [Richtlijn 2002/32/EG](32002L0032) genoemde ongewenste stoffen niet hoger zijn dan het voor volledige diervoeders vastgestelde gehalte, rekening houdend met het voor het gebruik ervan voorgeschreven aandeel in een dagrantsoen.
 
-#### Artikel 3.8. Nieuwe gegevens
+##### Artikel 3.8. Nieuwe gegevens
 
 1. Bij ministeriële regeling kan, wegens gevaar voor de gezondheid van mens of dier of voor het milieu, indien nieuwe gegevens beschikbaar zijn gekomen of een nieuwe beoordeling van bestaande gegevens is uitgevoerd:
 
@@ -196,25 +222,25 @@ In aanvullende diervoeders mag het gehalte aan de in bijlage I van [Richtlijn 20
 
 3. In afwijking van [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032346&hoofdstuk=3&artikel=3.2&z=2022-05-05&g=2022-05-05) kan Onze Minister regels stellen voor proefnemingen bij dieren met producten die bedoeld zijn voor het voederen van dieren en die in verband met nieuwe gegevens of een nieuwe beoordeling van bestaande gegevens over stoffen in diervoeders mogelijk een gevaar opleveren als bedoeld in het eerste lid.
 
-#### Artikel 3.9. Zuiveringsprocedés
+##### Artikel 3.9. Zuiveringsprocedés
 
 Bij ministeriële regeling kunnen regels worden gesteld voor het doen treffen van de nodige maatregelen om te garanderen dat door de Europese Commissie vastgestelde criteria voor de aanvaardbaarheid van zuiveringsprocedés correct worden toegepast en gezuiverde producten die bedoeld zijn voor het voederen van dieren voldoen aan de bepalingen van bijlage I bij [Richtlijn 2002/32/EG](32002L0032).
 
 ### Hoofdstuk 4. Overige bepalingen
 
-#### Artikel 4.1. Wijziging delegatiegrondslag Regeling diervoeders 2012
+##### Artikel 4.1. Wijziging delegatiegrondslag Regeling diervoeders 2012
 
 Na de inwerkingtreding van dit besluit berust de Regeling diervoeders 2012 op de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032346&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2022-05-05&g=2022-05-05), [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032346&hoofdstuk=2&paragraaf=2&artikel=2.3&z=2022-05-05&g=2022-05-05) en [2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032346&hoofdstuk=2&paragraaf=2&artikel=2.4&z=2022-05-05&g=2022-05-05) van dit besluit.
 
-#### Artikel 4.2. Betrokkenheid van andere minister
+##### Artikel 4.2. Betrokkenheid van andere minister
 
 Een krachtens dit besluit vast te stellen ministeriële regeling wordt vastgesteld door Onze Minister in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport.
 
-#### Artikel 4.3. Inwerkingtreding
+##### Artikel 4.3. Inwerkingtreding
 
 De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 4.4. Citeertitel
+##### Artikel 4.4. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit diervoeders 2012.
 

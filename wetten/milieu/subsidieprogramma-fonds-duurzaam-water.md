@@ -1,13 +1,39 @@
 ---
-title: "Subsidieprogramma Fonds Duurzaam Water"
+title: "Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 18 juli 2016, nr. IGG-2016.380605, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieprogramma Fonds Duurzaam Water)"
 identifier: "BWBR0038441"
-categorie: "Milieu"
-publicatiedatum: 2017-09-30
-laatste_update: 2017-09-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038441"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-09-30"
+last_updated: "2017-09-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038441"
+soort: "ministeriele-regeling"
+stam_id: "13738343"
+version_id: "23547642"
+internal_id: "C33904541"
+label_id: "13704554"
+dtd_version: "2.0"
+original_entry_into_force: "2016-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038441/2017-09-30/0"
+intitule_bron: "Stcrt.2016-44953"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-07-18"
+intitule_published: "2016-08-31"
+intitule_in_force: "2016-08-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-44953"
+original_signed_date: "2016-07-18"
+original_published_date: "2016-08-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-44953"
+entry_into_force_date: "2016-09-01"
+jci_1_3: "jci1.3:c:BWBR0038441&z=2017-09-30&g=2017-09-30"
+jci_1_0: "1.0:c:BWBR0038441&g=2017-09-30"
+citeertitel_status: "redactioneel"
+short_title: "Subsidieprogramma Fonds Duurzaam Water"
+signed_date: "2016-07-18"
+entry_into_force: "2016-09-01"
 ---
-
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 18 juli 2016, nr. IGG-2016.380605, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieprogramma Fonds Duurzaam Water)
 
 Gelet op de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=6) en [7 van het Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=7);
@@ -16,11 +42,11 @@ Gelet op [artikel 5.1 van de Subsidieregeling Ministerie van Buitenlandse Zaken 
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor subsidieverlening op grond van [artikel 5.1 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artikel=5.1) met het oog op subsidiëring van activiteiten op het gebied van waterveiligheid en waterzekerheid die strekken tot inclusieve groene groei gelden de als bijlage bij dit besluit gevoegde beleidsregels.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Aanvragen voor subsidie in het kader van het Subsidieprogramma Fonds Duurzaam Water worden ingediend in twee openstellingen.
 
@@ -32,7 +58,7 @@ Voor subsidieverlening op grond van [artikel 5.1 van de Subsidieregeling Ministe
 
 5. Aanvragen voor subsidies en vouchers in het kader van het Subsidieprogramma Fonds Duurzaam water worden ingediend aan de hand van een door de minister beschikbaar gesteld formulier en voorzien van de op het aanvraagformulier gevraagde bescheiden.1english.rvo.nl/FDW
 
-#### Artikel 3
+##### Artikel 3
 
 1. Voor subsidieverlening in het kader van het Subsidieprogramma Fonds Duurzaam Water geldt voor aanvragen bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038441&artikel=2&z=2017-09-30&g=2017-09-30), voor de periode vanaf de inwerkingtreding van dit besluit tot en met 31/12/2017 een subsidieplafond van € 30 miljoen.
 
@@ -42,11 +68,11 @@ Voor subsidieverlening op grond van [artikel 5.1 van de Subsidieregeling Ministe
 
 4. Voor subsidieverlening in het kader van het Subsidieprogramma Fonds Duurzaam Water geldt voor aanvragen bedoeld in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038441&artikel=2&z=2017-09-30&g=2017-09-30), voor de periode vanaf de inwerkingtreding van dit besluit tot en met 31/12/2018 een subsidieplafond van € 500.000.
 
-#### Artikel 4
+##### Artikel 4
 
 De verdeling van de subsidieplafonds bedoeld in [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038441&artikel=2&z=2017-09-30&g=2017-09-30), vindt plaats op grond van een beoordeling overeenkomstig de maatstaven die in de bijlage bij dit besluit zijn neergelegd, met dien verstande dat uit alle aanvragen die voldoen aan de maatstaven, de aanvragen die het beste voldoen aan die maatstaven het eerst voor subsidieverlening in aanmerking komen, binnen het raam van een evenwichtige spreiding als bedoeld in [artikel 8, derde lid, onderdeel d, van het Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=8).
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het wordt geplaatst en vervalt met ingang van 1 januari 2021, met dien verstande dat het van toepassing blijft op subsidies die voor die tijd zijn verleend.
 

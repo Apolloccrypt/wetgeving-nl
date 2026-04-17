@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregel Integriteitbeleid ten aanzien van zakelijke vastgoedactiviteiten"
 identifier: "BWBR0029590"
-categorie: "Overig"
-publicatiedatum: 2011-02-17
-laatste_update: 2011-02-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029590"
+country: "nl"
+rank: "zbo"
+publication_date: "2011-02-17"
+last_updated: "2011-02-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029590"
+soort: "zbo"
+stam_id: "11234503"
+version_id: "18395232"
+internal_id: "C25621301"
+label_id: "11208574"
+dtd_version: "2.0"
+original_entry_into_force: "2011-02-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029590/2011-02-17/0"
+intitule_bron: "Stcrt.2011-2641"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-02-07"
+intitule_published: "2011-02-16"
+intitule_in_force: "2011-02-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-2641"
+original_signed_date: "2011-02-07"
+original_published_date: "2011-02-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-2641"
+entry_into_force_date: "2011-02-17"
+jci_1_3: "jci1.3:c:BWBR0029590&z=2011-02-17&g=2011-02-17"
+jci_1_0: "1.0:c:BWBR0029590&g=2011-02-17"
+citeertitel_status: "officieel"
+signed_date: "2011-02-07"
+entry_into_force: "2011-02-17"
 ---
-
 # Beleidsregel Integriteitbeleid ten aanzien van zakelijke vastgoedactiviteiten
 
 Gelet op [artikel 143 Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=143), [artikel 138 Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=138) en [artikel 3:10](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:10) en [3:17, tweede lid, onderdeel b, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:17);
@@ -16,7 +41,7 @@ Gelet op [artikel 8 van de Wet ter voorkoming van witwassen en financieren van t
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -56,19 +81,19 @@ In deze regeling wordt verstaan onder:
 
 - l. **transactie:** transactie, bedoeld in [artikel 1, eerste lid, onderdeel m, van de Wwft](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het integriteitbeleid van een instelling omvat de integriteitrisico’s en afgeleide integriteitrisico’s van de instelling die gemoeid zijn met zakelijke vastgoedactiviteiten van de instelling of van haar cliënten.
 
 2. De procedures en maatregelen waarin het beleid, bedoeld in het eerste lid, zijn weerslag vindt, omvatten in ieder geval de vastlegging in welke gevallen de relatie met een potentiële cliënt geweigerd wordt, dan wel de bestaande relatie met een cliënt wordt beëindigd, in die gevallen waarin deze relatie een bedreiging vormt voor de integere uitoefening van het bedrijf van de instelling.
 
-#### Artikel 3
+##### Artikel 3
 
 1. DNB merkt een zakelijke relatie die een Wwft-instelling aangaat met een derde die in de uitoefening van zijn beroep of bedrijf zakelijke vastgoedactiviteiten verricht aan als een zakelijke relatie die naar zijn aard een hoger risico op witwassen met zich meebrengt als bedoeld in [artikel 8, 1e lid, Wwft](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=8).
 
 2. DNB merkt een transactie die een Wwft-instelling verricht ten behoeve van of met een cliënt die in de uitoefening van zijn of haar beroep of bedrijf zakelijke vastgoedactiviteiten verricht aan als een transactie die naar zijn aard een hoger risico op witwassen met zich meebrengt als bedoeld in [artikel 8, 1e lid, van de Wwft](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=8).
 
-#### Artikel 4
+##### Artikel 4
 
 1. De integriteitanalyse en de procedures en maatregelen, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029590&artikel=2&z=2011-02-17&g=2011-02-17), zien mede op het handelen van cliënten van de instelling die in de uitoefening van hun beroep of bedrijf zakelijke vastgoedactiviteiten verrichten.
 
@@ -80,11 +105,11 @@ In deze regeling wordt verstaan onder:
 
 3. In de documentatie en vastlegging met betrekking tot de indeling naar risico van cliënten als bedoeld in [artikel 14, vijfde lid, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=14) wordt mede betrokken het handelen van een cliënt jegens derden die zakelijke vastgoedactiviteiten verrichten of anderszins in de zakelijke vastgoedsector actief zijn.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze beleidsregel treedt in werking met ingang van de dag na publicatie daarvan in de Staatscourant.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel Integriteitbeleid ten aanzien van zakelijke vastgoedactiviteiten.
 

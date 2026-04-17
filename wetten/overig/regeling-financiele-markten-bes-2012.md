@@ -1,13 +1,39 @@
 ---
-title: "Regeling financiële markten BES 2012"
+title: "Regeling houdende nadere regels ter uitvoering van de Wet financiële markten BES en het Besluit financiële markten BES (Regeling financiële markten BES 2012)"
 identifier: "BWBR0031617"
-categorie: "Overig"
-publicatiedatum: 2026-04-01
-laatste_update: 2026-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031617"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2026-04-01"
+last_updated: "2026-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031617"
+soort: "ministeriele-regeling-BES"
+stam_id: "11746023"
+version_id: "19413302"
+internal_id: "C27199071"
+label_id: "11718724"
+dtd_version: "2.0"
+original_entry_into_force: "2012-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031617/2026-04-01/0"
+intitule_bron: "Stcrt.2012-10818"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-05-25"
+intitule_published: "2012-06-04"
+intitule_in_force: "2012-06-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-10818"
+original_signed_date: "2012-05-25"
+original_published_date: "2012-06-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-10818"
+entry_into_force_date: "2012-07-01"
+jci_1_3: "jci1.3:c:BWBR0031617&z=2026-04-01&g=2026-04-01"
+jci_1_0: "1.0:c:BWBR0031617&g=2026-04-01"
+citeertitel_status: "officieel"
+short_title: "Regeling financiële markten BES 2012"
+signed_date: "2012-05-25"
+entry_into_force: "2012-07-01"
 ---
-
 # Regeling houdende nadere regels ter uitvoering van de Wet financiële markten BES en het Besluit financiële markten BES (Regeling financiële markten BES 2012)
 
 Gelet op de [artikelen 1:10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=1:10), [1:26](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=1:26), [4:19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=4:19), en [6:1, eerste lid, van de Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=6:1) en de [artikelen 2:17, eerste lid, onderdeel a, en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031636&artikel=2:17), [3:4](https://wetten.overheid.nl/jci1.3:c:BWBR0031636&artikel=3:4), [3:18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031636&artikel=3:18), [6:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031636&artikel=6:3), [7:17, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031636&artikel=7:17), en [8:1, eerste lid, van het Besluit financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0031636&artikel=8:1);
@@ -16,11 +42,11 @@ Besluit:
 
 #### § 1. Inleidende bepalingen
 
-#### Artikel 1:1. (begripsbepalingen)
+##### Artikel 1:1. (begripsbepalingen)
 
 In deze regeling wordt, tenzij anders bepaald, verstaan onder**besluit** : [Besluit financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0031636).
 
-#### Artikel 1:2. (tarieven eenmalige toezichthandelingen)
+##### Artikel 1:2. (tarieven eenmalige toezichthandelingen)
 
 1. Voor het in behandeling nemen van een aanvraag van een beschikking op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030883) is het ingevolge [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&bijlage=1&z=2026-04-01&g=2026-04-01) toepasselijke tarief verschuldigd.
 
@@ -28,11 +54,11 @@ In deze regeling wordt, tenzij anders bepaald, verstaan onder**besluit** : [Besl
 
 3. De toezichtautoriteit kan afwijken van de in het eerste lid bedoelde tarieven voor zover toepassing daarvan, gelet op het belang van een reële en rechtvaardige kostendoorberekening, zal leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 1:3. (tarieven doorlopende toezichtkosten)
+##### Artikel 1:3. (tarieven doorlopende toezichtkosten)
 
 Ter zake van de kosten, bedoeld in [artikel 1:10, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=1:10), is jaarlijks het ingevolge [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&bijlage=2&z=2026-04-01&g=2026-04-01) toepasselijke tarief verschuldigd.
 
-#### Artikel 1:4. (vrijstelling assurantiebemiddelaars)
+##### Artikel 1:4. (vrijstelling assurantiebemiddelaars)
 
 Bemiddelaars in verzekeringen zijn vrijgesteld van [artikel 2:3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&paragraaf=2&artikel=2:3&z=2026-04-01&g=2026-04-01), voor zover:
 
@@ -40,7 +66,7 @@ Bemiddelaars in verzekeringen zijn vrijgesteld van [artikel 2:3, eerste lid, ond
 
 - b. zij reisbureau of reisorganisatie zijn en de verzekeringen waarin zij bemiddelen annuleringsverzekeringen zijn of verzekeringen die met het oog op een reis of vakantie worden afgesloten, indien op de desbetreffende vestiging van het reisbureau of de reisorganisatie ten minste een medewerker beschikt over voldoende door een financiële onderneming of derde verzorgde opleiding of daaraan gelijk te stellen ervaring.
 
-#### Artikel 1:5. (vrijstelling kredietinstellingen en verzekeraars)
+##### Artikel 1:5. (vrijstelling kredietinstellingen en verzekeraars)
 
 1. Kredietinstellingen met zetel in het buitenland zijn vrijgesteld van [artikel 5:5, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031636&artikel=5:5).
 
@@ -48,13 +74,13 @@ Bemiddelaars in verzekeringen zijn vrijgesteld van [artikel 2:3, eerste lid, ond
 
 #### § 2. Bepalingen betreffende specifieke categorieën financiële ondernemingen
 
-#### Artikel 2:1. (bijkantorengrens kredietinstellingen en verzekeraars)
+##### Artikel 2:1. (bijkantorengrens kredietinstellingen en verzekeraars)
 
 1. Het bedrag, bedoeld in [artikel 2:17, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031636&artikel=2:17) wordt vastgesteld op USD 600 miljoen.
 
 2. Het bedrag, bedoeld in [artikel 2:17, tweede lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031636&artikel=2:17) wordt vastgesteld op USD 35 miljoen.
 
-#### Artikel 2:2. (erkende assurantiediploma’s)
+##### Artikel 2:2. (erkende assurantiediploma’s)
 
 1. Erkende diploma’s als bedoeld in [artikel 3:4 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031636&artikel=3:4) ter zake van bemiddeling in levensverzekeringen onderscheidenlijk het optreden als gevolmachtigd agent met betrekking tot levensverzekeringen zijn:
 
@@ -70,7 +96,7 @@ Bemiddelaars in verzekeringen zijn vrijgesteld van [artikel 2:3, eerste lid, ond
 
 3. Een diploma als bedoeld in het eerste of tweede lid dat meer dan tien jaar geleden is behaald, is slechts geldig indien de houder van het diploma in de laatste vijf jaar ten minste twee jaar relevante werkervaring heeft opgedaan.
 
-#### Artikel 2:3. (gegevens en bescheiden trustkantoren)
+##### Artikel 2:3. (gegevens en bescheiden trustkantoren)
 
 De door een trustkantoor voor de toezichtautoriteit beschikbaar te houden bescheiden en gegevens bedoeld in [artikel 3:18, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031636&artikel=3:18), zijn:
 
@@ -102,11 +128,11 @@ De door een trustkantoor voor de toezichtautoriteit beschikbaar te houden besche
 
 - n. een actueel overzicht van de formele en feitelijke zeggenschapsstructuur en zeggenschapsverhoudingen van het trustkantoor en van de groep waartoe het trustkantoor behoort.
 
-#### Artikel 2:4. (prospectus beleggingsinstellingen)
+##### Artikel 2:4. (prospectus beleggingsinstellingen)
 
 Het prospectus, bedoeld in [artikel 6:3, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031636&artikel=6:3), bevat ten minste de gegevens die zijn opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&bijlage=3&z=2026-04-01&g=2026-04-01).
 
-#### Artikel 2:5. (normbedragen kredietwaardigheidstoets)
+##### Artikel 2:5. (normbedragen kredietwaardigheidstoets)
 
 De normbedragen en de daarin begrepen woonlasten, bedoeld in [artikel 7:17, zesde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031636&artikel=7:17), worden, rekening houdend met de samenstelling van het huishouden van de aanvrager en het openbaar lichaam waar hij woonachtig is, vastgesteld overeenkomstig onderstaande tabel:
 
@@ -121,11 +147,11 @@ De normbedragen en de daarin begrepen woonlasten, bedoeld in [artikel 7:17, zesd
 | 3 volwassenen | 1.752 | 1.744 | 1.763 | 275 | 274 | 277 |
 | 2 volwassenen, 2 kinderen | 1.839 | 1.832 | 1.852 | 290 | 288 | 291 |
 
-#### Artikel 2:6. (prospectus bij aanbieden effecten)
+##### Artikel 2:6. (prospectus bij aanbieden effecten)
 
 Het prospectus, bedoeld in [artikel 8:1, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031636&artikel=8:1), bevat ten minste de gegevens die zijn opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&bijlage=4&z=2026-04-01&g=2026-04-01).
 
-#### Artikel 2:7. (erkende effectenbeurzen)
+##### Artikel 2:7. (erkende effectenbeurzen)
 
 Erkende effectenbeurzen als bedoeld in [artikel 6:1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=6:1), zijn de beurzen van:
 
@@ -141,7 +167,7 @@ Erkende effectenbeurzen als bedoeld in [artikel 6:1 van de wet](https://wetten.o
 
 #### § 3. Informatie over betaler bij geldovermakingen
 
-#### Artikel 3:1. (begripsbepalingen)
+##### Artikel 3:1. (begripsbepalingen)
 
 Voor de toepassing van deze paragraaf wordt verstaan onder:
 
@@ -159,7 +185,7 @@ Voor de toepassing van deze paragraaf wordt verstaan onder:
 
 - **unieke identificatiecode:** een combinatie van letters, cijfers of symbolen, door de betalingsdienstaanbieder bepaald, overeenkomstig de protocollen van het betalings- en afwikkelingssysteem of het berichtensysteem dat voor de geldelijke overmaking is gebruikt.
 
-#### Artikel 3:2. (krediet- en debetkaarten)
+##### Artikel 3:2. (krediet- en debetkaarten)
 
 Deze paragraaf is niet van toepassing op geldelijke overmakingen die met behulp van een krediet- of debetkaart worden verricht, mits:
 
@@ -167,11 +193,11 @@ Deze paragraaf is niet van toepassing op geldelijke overmakingen die met behulp 
 
 - b. bij de geldelijke overmaking een unieke identificatiecode is gevoegd die het mogelijk maakt deze geldelijke overmaking te herleiden tot de betaler.
 
-#### Artikel 3:3. (overmakingen met behulp van IT)
+##### Artikel 3:3. (overmakingen met behulp van IT)
 
 Deze paragraaf is niet van toepassing op geldelijke overmakingen die via een mobiele telefoon of een ander digitaal of Informatie Technologie (IT)-toestel werden verricht, indien dergelijke geldelijke overmakingen vooraf zijn betaald en het bedrag van USD 150 niet overschrijden.
 
-#### Artikel 3:4. (overige uitgezonderde overmakingen)
+##### Artikel 3:4. (overige uitgezonderde overmakingen)
 
 De bepalingen van deze paragraaf zijn niet van toepassing op:
 
@@ -185,7 +211,7 @@ De bepalingen van deze paragraaf zijn niet van toepassing op:
 
 - e. geldelijke overmakingen waarbij zowel de betaler als de begunstigde betalingsdienstaanbieders zijn die voor eigen rekening handelen.
 
-#### Artikel 3:5. (volledige informatie over de betaler)
+##### Artikel 3:5. (volledige informatie over de betaler)
 
 1. De volledige informatie over de betaler bestaat uit zijn volledige naam of namen, adres en rekeningnummer.
 
@@ -193,7 +219,7 @@ De bepalingen van deze paragraaf zijn niet van toepassing op:
 
 3. Bij gebreke van het rekeningnummer van de betaler vervangt de betalingsdienstaanbieder van de betaler dit door een unieke identificatiecode aan de hand waarvan de geldelijke overmaking kan worden herleid tot de betaler.
 
-#### Artikel 3:6. (gegevens betaler bijvoegen)
+##### Artikel 3:6. (gegevens betaler bijvoegen)
 
 1. Een betalingsdienstaanbieder zorgt ervoor dat de volledige informatie over de betaler bij de geldovermakingen wordt gevoegd.
 
@@ -203,15 +229,15 @@ De bepalingen van deze paragraaf zijn niet van toepassing op:
 
 4. In geval het derde lid toepasselijk is, stelt de betalingsdienstaanbieder van de betaler evenwel op verzoek van de betalingsdienstaanbieder van de begunstigde uiterlijk drie werkdagen na ontvangst van dit verzoek de volledige informatie over de betaler ter beschikking van de betalingsdienstaanbieder van de begunstigde.
 
-#### Artikel 3:7. (geldovermakingen naar het buitenland)
+##### Artikel 3:7. (geldovermakingen naar het buitenland)
 
 Indien de betalingsdienstaanbieders van de begunstigden buiten de openbare lichamen zijn gevestigd, is bij blokovermakingen die afkomstig zijn van één betaler [artikel 3:6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&paragraaf=3&artikel=3:6&z=2026-04-01&g=2026-04-01), niet van toepassing op de gebundelde afzonderlijke geldovermakingen, mits het batchbestand de in dat lid bedoelde informatie bevat en bij de afzonderlijke geldovermakingen het rekeningnummer van de betaler of een unieke identificatiecode is gevoegd.
 
-#### Artikel 3:8. (ontbrekende informatie over de betaler)
+##### Artikel 3:8. (ontbrekende informatie over de betaler)
 
 Een betalingsdienstaanbieder beschikt over procedures en maatregelen die ertoe strekken dat hij, indien een andere betalingsdienstaanbieder regelmatig nalaat de vereiste informatie over de betaler te verstrekken, overweegt te besluiten alle toekomstige geldovermakingen van deze betalingsdienstaanbieder te weigeren of zijn relatie met die betalingsdienstaanbieder al dan niet te beperken of te beëindigen.
 
-#### Artikel 3:9. (opmerken ontbrekende informatie over de betaler)
+##### Artikel 3:9. (opmerken ontbrekende informatie over de betaler)
 
 1. De betalingsdienstaanbieder van de begunstigde controleert of de velden voor informatie over de betaler in het berichtensysteem of het betalings- en afwikkelingssysteem dat voor de geldovermaking gebruikt wordt, zijn ingevuld met karakters of invoer die toegelaten zijn volgens de procedures van het berichten- of het betalings- en afwikkelingssysteem. Deze betalingsdienstaanbieder beschikt over effectieve procedures om het ontbreken van de volgende informatie over de betaler op te merken:
 
@@ -221,19 +247,19 @@ Een betalingsdienstaanbieder beschikt over procedures en maatregelen die ertoe s
 
 2. Bij blokovermakingen waarbij de betalingsdienstaanbieder van de betaler buiten de openbare lichamen is gevestigd, dient de in [artikel 3:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&paragraaf=3&artikel=3:5&z=2026-04-01&g=2026-04-01), bedoelde volledige informatie over de betaler alleen in de blokovermaking te staan, en niet bij de daarin gebundelde afzonderlijke geldovermakingen.
 
-#### Artikel 3:10. (onvolledige informatie)
+##### Artikel 3:10. (onvolledige informatie)
 
 Ingeval de betalingsdienstaanbieder van de begunstigde bij de ontvangst van geldelijke overmakingen constateert dat de krachtens de bepalingen van deze paragraaf vereiste informatie over de betaler onvolledig is, weigert hij de overmaking tot hij de bedoelde informatie heeft ontvangen.
 
-#### Artikel 3:11. (bewaarplicht)
+##### Artikel 3:11. (bewaarplicht)
 
 De betalingsdienstaanbieder van de begunstigde houdt alle over de betaler ontvangen informatie gedurende vijf jaar bij.
 
-#### Artikel 3:12. (intermediaire betalingsdienstaanbieders)
+##### Artikel 3:12. (intermediaire betalingsdienstaanbieders)
 
 Intermediaire betalingsdienstaanbieders dragen ervoor zorg dat alle ontvangen informatie over de betaler welke bij een geldelijke overmaking is gevoegd, bij die overmaking blijft.
 
-#### Artikel 3:13. (technische beperkingen)
+##### Artikel 3:13. (technische beperkingen)
 
 1. Dit artikel is van toepassing wanneer de betalingsdienstaanbieder van de betaler buiten de openbare lichamen is gevestigd en de intermediaire betalingsdienstaanbieder in een openbaar lichaam is gevestigd.
 
@@ -245,23 +271,23 @@ Intermediaire betalingsdienstaanbieders dragen ervoor zorg dat alle ontvangen in
 
 5. In de in het tweede en derde lid vermelde gevallen bewaart de intermediaire betalingsdienstaanbieder alle ontvangen informatie gedurende vijf jaar.
 
-#### Artikel 3:14. (informatie ten behoeve van de toezichtautoriteit)
+##### Artikel 3:14. (informatie ten behoeve van de toezichtautoriteit)
 
 Een instelling beschikt over procedures en maatregelen die waarborgen dat zij op verzoek van de toezichtautoriteit onverwijld de bij geldovermakingen te voegen informatie over de betaler en de daarop betrekking hebbende bewijsstukken verstrekt aan de toezichtautoriteit.
 
 #### § 4. Overgangs- en slotbepalingen
 
-#### Artikel 4:1. (nieuwe categorieën financiële ondernemingen)
+##### Artikel 4:1. (nieuwe categorieën financiële ondernemingen)
 
 1. Degene die reeds op 31 mei 2012 in de openbare lichamen het bedrijf van elektronischgeldinstelling uitoefende, optrad als adviseur, als bemiddelaar in andere financiële producten dan verzekeringen, of als vermogensbeheerder, dan wel krediet aanbood anders dan als kredietinstelling of verzekeraar, is tot en met 31 december 2012 vrijgesteld van de eisen die ingevolge de wet aan de uitoefening van het bedrijf van elektronischgeldinstelling, het optreden als adviseur, bemiddelaar of vermogensbeheerder, onderscheidenlijk het aanbieden van krediet worden gesteld.
 
 2. In geval de betrokken financiële onderneming voor 1 oktober 2012 een aanvraag voor een vergunning tot uitoefening van het bedrijf van elektronischgeldinstelling, om op te treden als adviseur, bemiddelaar of vermogensbeheerder dan wel om krediet aan te bieden heeft ingediend die voldoet aan de bij of krachtens [artikel 2:6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=2:6) aan de aanvraag gestelde eisen, geldt in afwijking van het eerste lid de in dat lid bedoelde vrijstelling tot en met de dag waarop de vergunning wordt verleend, dan wel tot en met de eerste dag van de derde kalendermaand na het tijdstip van afwijzing van de aanvraag. Indien de betrokken financiële onderneming niet voor 1 oktober 2012 een aanvraag voor een vergunning heeft ingediend die voldoet aan het ingevolge artikel 2:6 van de wet bepaalde, vervalt de vrijstelling met ingang van die datum. Voor die afwikkeling kan de bevoegde autoriteit een termijn stellen of een aanwijzing geven.
 
-#### Artikel 4:2. (inwerkingtreding)
+##### Artikel 4:2. (inwerkingtreding)
 
 Deze regeling treedt in werking met ingang van 1 juli 2012, met uitzondering van [artikel 1:3](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&paragraaf=1&artikel=1:3&z=2026-04-01&g=2026-04-01), dat in werking treedt met ingang van 1 januari 2013.
 
-#### Artikel 4:3. (citeertitel)
+##### Artikel 4:3. (citeertitel)
 
 Deze regeling wordt aangehaald als: Regeling financiële markten BES 2012.
 
@@ -345,7 +371,7 @@ Bijlage als bedoeld in [artikel 2:19](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 Deze regeling wordt met toelichting in de Staatscourant geplaatst.
 
-#### Artikel 1:6. (staat van zetel geldtransactiekantoren)
+##### Artikel 1:6. (staat van zetel geldtransactiekantoren)
 
 Het is geldtransactiekantoren tevens toegestaan hun zetel te hebben in Nederland, Aruba, de Verenigde Staten van Amerika of Canada.
 
@@ -375,7 +401,7 @@ Bijlage als bedoeld in [artikel 2:19](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 Deze regeling wordt met toelichting in de Staatscourant geplaatst.
 
-#### Artikel 2:5a
+##### Artikel 2:5a
 
 1. De ten hoogste toegelaten kredietvergoeding, bedoeld in [artikel 7:20, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031636&artikel=7:20), bedraagt 21 procent op jaarbasis.
 
@@ -387,7 +413,7 @@ Deze regeling wordt met toelichting in de Staatscourant geplaatst.
 
 - c. voor overeenkomsten, afgesloten tussen 1 januari 2020 en 1 april 2024: 22 procent op jaarbasis.
 
-#### Artikel 2:5b. (maximale vertragingsvergoeding)
+##### Artikel 2:5b. (maximale vertragingsvergoeding)
 
 De ten hoogste toegelaten vertragingsvergoeding, bedoeld in [artikel 7:21 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031636&artikel=7:21), wordt op dagbasis berekend. De ten hoogste toegelaten vertragingsvergoeding per dag wordt als volgt berekend:
 
@@ -439,7 +465,7 @@ Bijlage als bedoeld in [artikel 2:21](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 Deze regeling wordt met toelichting in de Staatscourant geplaatst.
 
-#### Artikel 1:4a. (vrijstelling grote posities)
+##### Artikel 1:4a. (vrijstelling grote posities)
 
 Voor de volgende grote posities geldt een vrijstelling van de verplichting in [artikel 4:19, eerste en tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031636&artikel=4:19):
 
@@ -477,7 +503,7 @@ Bijlage als bedoeld in [artikel 2:21](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 Deze regeling wordt met toelichting in de Staatscourant geplaatst.
 
-#### Artikel 1.7. (staat van zetel kredietinstellingen Sint Eustatius en Saba)
+##### Artikel 1.7. (staat van zetel kredietinstellingen Sint Eustatius en Saba)
 
 Het is kredietinstellingen tevens toegestaan hun zetel te hebben in het Europese deel van Nederland, indien zij het bedrijf van kredietinstelling uitoefenen vanuit een bijkantoor op Sint Eustatius of Saba en de uitoefening van het bedrijf van kredietinstelling vanuit dat bijkantoor beperkt blijft tot Sint Eustatius en Saba.
 
@@ -499,7 +525,7 @@ Bijlage als bedoeld in [artikel 2:21](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 Deze regeling wordt met toelichting in de Staatscourant geplaatst.
 
-#### Artikel 1.8. (betrouwbaarheid)
+##### Artikel 1.8. (betrouwbaarheid)
 
 De toezichtautoriteit kan bij het verkrijgen van inzicht als bedoeld in [artikel 3:3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031636&artikel=3:3) gebruik maken van desgevraagd verstrekte justitiële gegevens met betrekking tot de antecedenten genoemd in [bijlage 1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031636&bijlage=1).
 

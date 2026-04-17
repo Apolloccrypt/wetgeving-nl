@@ -1,13 +1,39 @@
 ---
-title: "Aanbestedingsbesluit"
+title: "Besluit van 11 februari 2013, houdende de regeling van enkele onderwerpen van de Aanbestedingswet 2012 (Aanbestedingsbesluit)"
 identifier: "BWBR0032919"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-01-01
-laatste_update: 2022-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032919"
+country: "nl"
+rank: "amvb"
+publication_date: "2022-01-01"
+last_updated: "2022-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032919"
+soort: "AMvB"
+stam_id: "12113043"
+version_id: "23393862"
+internal_id: "C33718361"
+label_id: "12084674"
+dtd_version: "2.0"
+original_entry_into_force: "2016-06-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032919/2022-01-01/0"
+intitule_bron: "Stb.2013-58"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-02-11"
+intitule_published: "2013-02-19"
+intitule_in_force: "2013-02-19"
+intitule_status: "goed"
+original_publication: "Stb.2016-242"
+original_signed_date: "2016-06-24"
+original_published_date: "2016-06-30"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2016-242"
+entry_into_force_date: "2016-06-24"
+jci_1_3: "jci1.3:c:BWBR0032919&z=2022-01-01&g=2022-01-01"
+jci_1_0: "1.0:c:BWBR0032919&g=2022-01-01"
+citeertitel_status: "officieel"
+short_title: "Aanbestedingsbesluit"
+signed_date: "2016-06-24"
+entry_into_force: "2016-06-24"
 ---
-
 # Besluit van 11 februari 2013, houdende de regeling van enkele onderwerpen van de Aanbestedingswet 2012 (Aanbestedingsbesluit)
 
 Op de voordracht van Onze Minister van Economische Zaken, Landbouw en Innovatie van 5 november 2012, nr. WJZ / 12338533 gedaan, in overeenstemming met het gevoelen van de Ministerraad;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -44,7 +70,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 2. Eigen verklaring
 
-#### Artikel 2
+##### Artikel 2
 
 1. In de eigen verklaring, bedoeld in [artikel 2.84 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=2.84), worden ten minste de volgende gegevens opgenomen:
 
@@ -68,7 +94,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 2a. Officiële lijsten en certificering
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een aanbestedende dienst of speciale-sectorbedrijf gebruikt voor communicatie langs elektronische weg middelen en instrumenten die, evenals de technische kenmerken daarvan:
 
@@ -78,11 +104,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 2. Een aanbestedende dienst of speciale-sectorbedrijf waarborgt bij de mededelingen, uitwisselingen en opslag van informatie de integriteit van de gegevens en de vertrouwelijkheid van de inschrijvingen en van de verzoeken tot deelneming.
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 1. Dit artikel is van toepassing op middelen en instrumenten voor elektronische toezending en ontvangst van inschrijvingen en voor elektronische ontvangst van verzoeken tot deelneming.
 
@@ -122,7 +148,7 @@ Vervallen
 
 8. Een wijziging van het besluit, bedoeld in het vierde lid, onderdeel a, of van de bijlage van het besluit, bedoeld in het vierde lid, onderdeel b, gaat voor de toepassing van het vierde lid, onderdeel a respectievelijk onderdeel b, gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Aanbestedende diensten en speciale-sectorbedrijven ontvangen en verwerken elektronische facturen die worden opgesteld ter uitvoering van overeenkomsten waarop [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2), [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a) of [deel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3) van toepassing is en die voldoen aan de Europese norm voor elektronische facturering en aan syntaxen die zijn opgenomen in de Europese lijst van syntaxen.
 
@@ -130,13 +156,13 @@ Vervallen
 
 3. Onze Minister doet mededeling in de Staatscourant van een actualisatie of herziening als bedoeld in het tweede lid.
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
 ### Hoofdstuk 4. Gedragsverklaring aanbesteden
 
-#### Artikel 8
+##### Artikel 8
 
 Als misdrijven als bedoeld in [artikel 4.7, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=4.7) worden aangewezen de misdrijven omschreven in:
 
@@ -150,7 +176,7 @@ Als misdrijven als bedoeld in [artikel 4.7, eerste lid, onderdeel b, van de wet]
 
 - e. [artikel 10:5, derde lid, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=10:5).
 
-#### Artikel 9
+##### Artikel 9
 
 1. Bij regeling van Onze Minister van Veiligheid en Justitie wordt de vergoeding vastgesteld die de aanvrager is verschuldigd voor de behandeling van een aanvraag om de afgifte van een gedragsverklaring aanbesteden.
 
@@ -158,13 +184,13 @@ Als misdrijven als bedoeld in [artikel 4.7, eerste lid, onderdeel b, van de wet]
 
 ### Hoofdstuk 4. Gedragsverklaring aanbesteden
 
-#### Artikel 10
+##### Artikel 10
 
 1. Als richtsnoer, bedoeld in de [artikelen 1.10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=1.10), [1.13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=1.13), en [artikel 1.16, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=1.16) wordt aangewezen: de Gids proportionaliteit, zoals gepubliceerd in Staatscourant 2021, nr. 41481.
 
 2. Als aanbestedende diensten en speciale-sectorbedrijven, bedoeld in de [artikelen 1.10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=1.10), [1.13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=1.13), en [1.16, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=1.16) worden aangewezen: alle aanbestedende diensten en speciale-sectorbedrijven als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=1.1).
 
-#### Artikel 11
+##### Artikel 11
 
 1. Als richtsnoer bedoeld in [artikel 1.22, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=1.22) wordt aangewezen het Aanbestedingsreglement Werken 2016, zoals gepubliceerd in Staatscourant 2020, nr. 30657.
 
@@ -172,17 +198,17 @@ Als misdrijven als bedoeld in [artikel 4.7, eerste lid, onderdeel b, van de wet]
 
 ### Hoofdstuk 5. Aanwijzing richtsnoeren
 
-#### Artikel 12
+##### Artikel 12
 
 Dit besluit treedt in werking op 1 april 2013.
 
-#### Artikel 13
+##### Artikel 13
 
 Dit besluit wordt aangehaald als: Aanbestedingsbesluit.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 2a
+##### Artikel 2a
 
 1. Een ondernemer die beschikt over een bewijs van registratie op een officiële lijst met erkende aannemers, leveranciers of dienstverleners van een instelling die belast is met de vaststelling van die lijst door de lidstaat van de Europese Unie waar hij is gevestigd of die beschikt over een certificaat van een certificeringsinstelling die voldoet aan de Europese certificeringsnormen in de zin van bijlage VII van richtlijn 2014/24/EU, kan bij een overheidsopdracht het bewijs van registratie of het certificaat overleggen, indien:
 
@@ -200,7 +226,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Hoofdstuk 3. Communicatie
 
-#### Artikel 3a
+##### Artikel 3a
 
 1. In afwijking van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032919&hoofdstuk=3&artikel=3&z=2022-01-01&g=2022-01-01), kan een aanbestedende dienst of een speciale-sectorbedrijf het gebruik van een niet algemeen beschikbaar middel of instrument eisen, indien de aanbestedende dienst of het speciale-sectorbedrijf een alternatief toegangsmiddel aanbiedt.
 

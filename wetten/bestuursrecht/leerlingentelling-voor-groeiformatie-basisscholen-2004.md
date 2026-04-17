@@ -1,13 +1,37 @@
 ---
-title: "Leerlingentelling voor groeiformatie basisscholen (2004)"
+title: "Leerlingentelling voor groeiformatie basisscholen"
 identifier: "BWBR0016797"
-categorie: "Bestuursrecht"
-publicatiedatum: 2004-07-07
-laatste_update: 2004-07-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0016797"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2004-07-07"
+last_updated: "2004-07-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0016797"
+soort: "beleidsregel"
+stam_id: "6499663"
+version_id: "11186422"
+internal_id: "C15114651"
+label_id: "6488404"
+original_entry_into_force: "2004-07-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0016797/2004-07-07/0"
+intitule_bron: "Uitleg.2004-11/12"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-06-02"
+intitule_published: "2004-07-07"
+intitule_in_force: "2004-07-07"
+intitule_status: "goed"
+original_publication: "Uitleg.2004-11/12"
+original_signed_date: "2004-06-02"
+original_published_date: "2004-07-07"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2004-07-07"
+jci_1_3: "jci1.3:c:BWBR0016797&z=2004-07-07&g=2004-07-07"
+jci_1_0: "1.0:c:BWBR0016797&g=2004-07-07"
+citeertitel_status: "redactioneel"
+short_title: "Leerlingentelling voor groeiformatie basisscholen (2004)"
+signed_date: "2004-06-02"
+entry_into_force: "2004-07-07"
 ---
-
 # Leerlingentelling voor groeiformatie basisscholen
 
 ### 1. Inleiding

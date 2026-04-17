@@ -1,13 +1,39 @@
 ---
-title: "Boetebeleidsregels illegaal aanbod kansspelen op afstand 2021"
+title: "Boetebeleidsregels voor het aanbieden van kansspelen op afstand zonder vergunning, Kansspelautoriteit"
 identifier: "BWBR0045639"
-categorie: "Strafrecht"
-publicatiedatum: 2021-10-01
-laatste_update: 2021-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045639"
+country: "nl"
+rank: "zbo"
+publication_date: "2021-10-01"
+last_updated: "2021-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045639"
+soort: "zbo"
+stam_id: "16081863"
+version_id: "28014062"
+internal_id: "C39518061"
+label_id: "16012694"
+dtd_version: "2.0"
+original_entry_into_force: "2021-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045639/2021-10-01/0"
+intitule_bron: "Stcrt.2021-41413"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-09-14"
+intitule_published: "2021-09-22"
+intitule_in_force: "2021-09-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-41413"
+original_signed_date: "2021-09-14"
+original_published_date: "2021-09-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-41413"
+entry_into_force_date: "2021-10-01"
+jci_1_3: "jci1.3:c:BWBR0045639&z=2021-10-01&g=2021-10-01"
+jci_1_0: "1.0:c:BWBR0045639&g=2021-10-01"
+citeertitel_status: "officieel"
+short_title: "Boetebeleidsregels illegaal aanbod kansspelen op afstand 2021"
+signed_date: "2021-09-14"
+entry_into_force: "2021-10-01"
 ---
-
 # Boetebeleidsregels voor het aanbieden van kansspelen op afstand zonder vergunning, Kansspelautoriteit
 
 Kansspelautoriteit

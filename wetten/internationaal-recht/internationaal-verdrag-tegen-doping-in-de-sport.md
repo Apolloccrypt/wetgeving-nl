@@ -1,13 +1,38 @@
 ---
 title: "Internationaal Verdrag tegen doping in de sport"
 identifier: "BWBV0001829"
-categorie: "Internationaal recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001829"
+country: "nl"
+rank: "verdrag"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001829"
+soort: "verdrag"
+stam_id: "10002533383"
+version_id: "10002522132"
+internal_id: "C10006995541"
+label_id: "10002523304"
+dtd_version: "2.0"
+original_entry_into_force: "2007-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001829/2026-01-01/0"
+intitule_bron: "Trb.2006-194"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-11-17"
+intitule_published: "2006-09-15"
+intitule_in_force: "2007-01-18"
+intitule_status: "goed"
+original_publication: "Trb.2006-194"
+original_signed_date: "2006-11-17"
+original_published_date: "2006-09-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2006-194"
+entry_into_force_date: "2007-02-01"
+jci_1_3: "jci1.3:c:BWBV0001829&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBV0001829&g=2026-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "2006-11-17"
+entry_into_force: "2007-02-01"
 ---
-
 # Internationaal Verdrag tegen doping in de sport
 
 **Preambule**
@@ -54,11 +79,11 @@ Neemt dit Verdrag aan op 19 oktober 2005.
 
 ## DEEL I. REIKWIJDTE
 
-#### Artikel 1. Doelstelling van het Verdrag
+##### Artikel 1. Doelstelling van het Verdrag
 
 De doelstelling van dit Verdrag, in het kader van de strategie en het activiteitenprogramma van UNESCO op het gebied van lichamelijke opvoeding en sport, is het bevorderen van het voorkomen en bestrijden van doping in de sport, met het oog op de uitbanning ervan.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 Deze begripsomschrijvingen dienen begrepen te worden in de context van de Wereldantidopingcode. Indien de bepalingen daarvan in strijd zijn met die van het Verdrag, zijn de bepalingen van het Verdrag doorslaggevend.
 
@@ -130,7 +155,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - 25. „Mondiaal Antidopingagentschap (WADA)’’ de stichting die op 10 november 1999 onder deze naam werd opgericht naar Zwitsers recht.
 
-#### Artikel 3. Middelen om het doel van het Verdrag te verwezenlijken
+##### Artikel 3. Middelen om het doel van het Verdrag te verwezenlijken
 
 Ter verwezenlijking van het doel van het Verdrag verplichten de Staten die Partij zijn zich tot het:
 
@@ -140,7 +165,7 @@ Ter verwezenlijking van het doel van het Verdrag verplichten de Staten die Parti
 
 - c. bevorderen van internationale samenwerking tussen de Staten die Partij zijn en organisaties die een leidende rol hebben bij de bestrijding van doping in de sport, met name Mondiaal Antidopingagentschap.
 
-#### Artikel 4. Verhouding van het Verdrag tot de Code
+##### Artikel 4. Verhouding van het Verdrag tot de Code
 
 1. Teneinde de implementatie van de bestrijding van doping in de sport op nationaal en internationaal niveau te coördineren verplichten de Staten die Partij zijn zich de beginselen van de Code te eerbiedigen, als basis voor de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&deel=I&artikel=5&z=2026-01-01&g=2026-01-01) van dit Verdrag vervatte maatregelen. Niets in dit Verdrag belet de Staten die Partij zijn andere maatregelen te nemen ter aanvulling van de Code.
 
@@ -148,21 +173,21 @@ Ter verwezenlijking van het doel van het Verdrag verplichten de Staten die Parti
 
 3. De Bijlagen vormen een integrerend onderdeel van dit Verdrag.
 
-#### Artikel 5. Maatregelen om de doelstellingen van dit Verdrag te verwezenlijken
+##### Artikel 5. Maatregelen om de doelstellingen van dit Verdrag te verwezenlijken
 
 Door de in dit Verdrag vervatte verplichtingen te eerbiedigen, verplicht elke Staat die Partij is zich passende maatregelen in te voeren. Dergelijke maatregelen kunnen wetgeving, regulering, beleid of administratieve praktijken inhouden.
 
-#### Artikel 6. Verhouding tot andere internationale instrumenten
+##### Artikel 6. Verhouding tot andere internationale instrumenten
 
 Dit Verdrag heeft geen verandering tot gevolg van de rechten en verplichtingen van Staten die Partij zijn die voortvloeien uit eerder gesloten verdragen die verenigbaar zijn met het onderwerp en het doel van dit Verdrag. Dit doet geen afbreuk aan het genot van hun rechten door andere Staten die Partij zijn of de nakoming van hun verplichtingen uit hoofde van dit Verdrag.
 
 ## DEEL II. ANTIDOPINGACTIVITEITEN OP NATIONAAL NIVEAU
 
-#### Artikel 7. Coördinatie op nationaal niveau
+##### Artikel 7. Coördinatie op nationaal niveau
 
 De Staten die Partij zijn, waarborgen de toepassing van dit Verdrag in het bijzonder door coördinatie op nationaal niveau. Teneinde hun verplichtingen ingevolge dit Verdrag na te komen, kunnen de Staten die Partij zijn zich verlaten op antidopingorganisaties alsmede op sportautoriteiten en -organisaties.
 
-#### Artikel 8. Beperking van de beschikbaarheid en het gebruik in de sport van verboden stoffen en methoden
+##### Artikel 8. Beperking van de beschikbaarheid en het gebruik in de sport van verboden stoffen en methoden
 
 1. De Staten die Partij zijn, nemen, wanneer van toepassing, maatregelen om de beschikbaarheid van verboden stoffen en methoden te beperken teneinde het gebruik ervan door sporters in de sport aan banden te leggen, tenzij er sprake is van dispensatie voor therapeutisch gebruik. Hieronder vallen maatregelen tegen de op sporters gerichte illegale handel in deze stoffen en methoden, en daaruit voortvloeiend, maatregelen om de productie, het verkeer, de invoer, distributie en verkoop ervan te controleren.
 
@@ -170,15 +195,15 @@ De Staten die Partij zijn, waarborgen de toepassing van dit Verdrag in het bijzo
 
 3. Geen van de uit hoofde van dit Verdrag genomen maatregelen beperkt de beschikbaarheid voor legitieme doeleinden van stoffen en methoden die in de sport verboden of aan banden gelegd zijn.
 
-#### Artikel 9. Maatregelen tegen begeleiders van sporters
+##### Artikel 9. Maatregelen tegen begeleiders van sporters
 
 De Staten die Partij zijn, nemen zelf maatregelen, met inbegrip van sancties of straffen, tegen begeleiders van sporters die het antidopingreglement schenden of een ander strafbaar feit met betrekking tot doping in de sport begaan, of moedigen sportorganisaties of antidopingorganisaties aan zulks te doen.
 
-#### Artikel 10. Voedingssupplementen
+##### Artikel 10. Voedingssupplementen
 
 De Staten die Partij zijn, moedigen, wanneer van toepassing, producenten en distributeurs van voedingssupplementen aan beste praktijken in te stellen op het gebied van marketing en distributie van voedingssupplementen, met inbegrip van informatie over hun analytische samenstelling en kwaliteitsborging.
 
-#### Artikel 11. Financiële maatregelen
+##### Artikel 11. Financiële maatregelen
 
 De Staten die Partij zijn,
 
@@ -188,7 +213,7 @@ De Staten die Partij zijn,
 
 - c). trekken, wanneer van toepassing, een gedeelte van of de volledige financiële steun of andere op de sport betrekking hebbende steun in voor elke sportorganisatie of antidopingorganisatie die zich niet aan de Code of het ingevolge de Code aangenomen antidopingreglement houdt.
 
-#### Artikel 12. Maatregelen om dopingcontrole te vergemakkelijken
+##### Artikel 12. Maatregelen om dopingcontrole te vergemakkelijken
 
 De Staten die Partij zijn,
 
@@ -200,19 +225,19 @@ De Staten die Partij zijn,
 
 ## DEEL III. INTERNATIONALE SAMENWERKING
 
-#### Artikel 13. Samenwerking tussen antidopingorganisaties en sportorganisaties
+##### Artikel 13. Samenwerking tussen antidopingorganisaties en sportorganisaties
 
 De Staten die Partij zijn, bevorderen de samenwerking tussen antidopingorganisaties, overheidsinstanties en sportorganisaties onder hun rechtsmacht en die onder de rechtsmacht van andere Staten die Partij zijn, teneinde, op internationaal niveau, de doelstellingen van dit Verdrag te verwezenlijken.
 
-#### Artikel 14. Ondersteuning van de missie van het Mondiaal Antidopingagentschap
+##### Artikel 14. Ondersteuning van de missie van het Mondiaal Antidopingagentschap
 
 De Staten die Partij zijn, verplichten zich de belangrijke missie van het Mondiaal Antidopingagentschap in de internationale dopingbestrijding te ondersteunen.
 
-#### Artikel 15. Evenredige financiering van het Mondiaal Antidopingagentschap
+##### Artikel 15. Evenredige financiering van het Mondiaal Antidopingagentschap
 
 De Staten die Partij zijn, ondersteunen het beginsel van evenredige financiering van de goedgekeurde jaarlijkse basisbegroting van het Mondiaal Antidopingagentschap door overheidsinstanties en de Olympische Beweging.
 
-#### Artikel 16. Internationale samenwerking bij dopingcontrole
+##### Artikel 16. Internationale samenwerking bij dopingcontrole
 
 Erkennend dat de bestrijding van doping in de sport slechts doeltreffend kan zijn wanneer sporters onaangekondigd kunnen worden gecontroleerd en de monsters tijdig voor analyse naar laboratoria kunnen worden verzonden, nemen de Staten die Partij zijn, wanneer van toepassing en in overeenstemming met hun nationale wetgeving en procedures, de volgende maatregelen:
 
@@ -230,7 +255,7 @@ Erkennend dat de bestrijding van doping in de sport slechts doeltreffend kan zij
 
 - g. wederzijdse erkenning van de dopingcontroleprocedures en het resultatenbeheer van elke antidopingorganisatie, met inbegrip van de daaruit voortvloeiende sancties op sportgebied, die in overeenstemming zijn met de Code.
 
-#### Artikel 17. Vrijwillig Fonds
+##### Artikel 17. Vrijwillig Fonds
 
 1. Hierbij wordt een „Fonds voor de uitbanning van doping in de sport’’, hierna te noemen „het Vrijwillig Fonds’’, ingesteld. Het Vrijwillig Fonds bestaat uit funds-in-trust ingesteld in overeenstemming met het Financieel Reglement van UNESCO. Alle bijdragen van Staten die Partij zijn en van andere actoren zijn vrijwillig.
 
@@ -254,13 +279,13 @@ Erkennend dat de bestrijding van doping in de sport slechts doeltreffend kan zij
 
 3. Bijdragen van de Staten die Partij zijn aan het Vrijwillig Fonds zijn geen vervanging voor de verplichting van de Staten die Partij zijn hun deel van de jaarbegroting van het Mondiaal Antidopingagentschap te betalen.
 
-#### Artikel 18. Inzet en bestuur van het Vrijwillig Fonds
+##### Artikel 18. Inzet en bestuur van het Vrijwillig Fonds
 
 Middelen van het Vrijwillig Fonds worden door de Conferentie van Partijen toegewezen ten behoeve van de financiering van door hen goedgekeurde activiteiten, in het bijzonder het ondersteunen van Staten die Partij zijn bij het ontwikkelen en implementeren van antidopingprogramma’s, in overeenstemming met de bepalingen van dit Verdrag, daarbij rekening houdend met de doelstelling van het Mondiaal Antidopingagentschap, en kunnen worden ingezet om de operationele kosten van dit Verdrag te dekken. Aan bijdragen aan het Vrijwillig Fonds mogen geen politieke, economische of andere voorwaarden verbonden worden.
 
 ## DEEL IV. VOORLICHTING EN TRAINING
 
-#### Artikel 19. Algemene beginselen inzake voorlichting en training
+##### Artikel 19. Algemene beginselen inzake voorlichting en training
 
 1. De Staten die Partij zijn, verplichten zich, binnen hun mogelijkheden, voorlichtings- en trainingprogramma’s op het gebied van dopingbestrijding te ondersteunen, ontwikkelen of implementeren. Voor de sportgemeenschap in het algemeen dienen deze programma’s gericht te zijn op het bieden van actuele en accurate informatie over:
 
@@ -278,25 +303,25 @@ Middelen van het Vrijwillig Fonds worden door de Conferentie van Partijen toegew
 
 - d. voedingssupplementen.
 
-#### Artikel 20. Professionele gedragscodes
+##### Artikel 20. Professionele gedragscodes
 
 De Staten die Partij zijn, moedigen relevante bevoegde sportbonden en -instellingen aan passende gedragscodes, goede praktijken en ethische normen inzake de bestrijding van doping in de sport die in overeenstemming zijn met de Code te ontwikkelen en te implementeren.
 
-#### Artikel 21. Betrokkenheid van sporters en begeleiders van sporters
+##### Artikel 21. Betrokkenheid van sporters en begeleiders van sporters
 
 De Staten die Partij zijn, bevorderen en ondersteunen, binnen hun mogelijkheden, de actieve betrokkenheid van sporters en begeleiders van sporters bij alle facetten van dopingbestrijding door sportorganisaties en andere relevante organisaties en moedigen sportorganisaties onder hun rechtsmacht aan hetzelfde te doen.
 
-#### Artikel 22. Sportorganisaties en permanente voorlichting en training op het gebied van dopingbestrijding
+##### Artikel 22. Sportorganisaties en permanente voorlichting en training op het gebied van dopingbestrijding
 
 De Staten die Partij zijn, moedigen sportorganisaties en antidopingorganisaties aan permanente voorlichtings- en trainingsprogramma’s te implementeren voor alle sporters en begeleiders van sporters inzake de in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&deel=IV&artikel=19&z=2026-01-01&g=2026-01-01) genoemde gebieden.
 
-#### Artikel 23. Samenwerking bij voorlichting en training
+##### Artikel 23. Samenwerking bij voorlichting en training
 
 De Staten die Partij zijn, werken met elkaar en met de relevante organisaties samen om, wanneer van toepassing, informatie, expertise en ervaringen met betrekking tot doeltreffende programma’s om doping te bestrijden uit te wisselen.
 
 ## DEEL V. ONDERZOEK
 
-#### Artikel 24. Bevorderen van onderzoek naar dopingbestrijding
+##### Artikel 24. Bevorderen van onderzoek naar dopingbestrijding
 
 De Staten die Partij zijn, verplichten zich, binnen hun mogelijkheden, onderzoek naar dopingbestrijding in samenwerking met sportorganisaties en andere organisaties aan te moedigen en te bevorderen met betrekking tot:
 
@@ -306,7 +331,7 @@ De Staten die Partij zijn, verplichten zich, binnen hun mogelijkheden, onderzoek
 
 - c. het gebruik van alle nieuwe stoffen en methoden die uit wetenschappelijke ontwikkelingen resulteren.
 
-#### Artikel 25. De aard van onderzoek ten behoeve van dopingbestrijding
+##### Artikel 25. De aard van onderzoek ten behoeve van dopingbestrijding
 
 Bij het bevorderen van onderzoek ten behoeve van dopingbestrijding, als vervat in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&deel=V&artikel=24&z=2026-01-01&g=2026-01-01), waarborgen de Staten die Partij zijn dat dergelijk onderzoek:
 
@@ -316,11 +341,11 @@ Bij het bevorderen van onderzoek ten behoeve van dopingbestrijding, als vervat i
 
 - c. uitsluitend wordt uitgevoerd na instelling van adequate voorzorgsmaatregelen teneinde te voorkomen dat de resultaten van onderzoek ten behoeve van dopingbestrijding worden misbruikt en voor dopingdoeleinden worden toegepast.
 
-#### Artikel 26. Delen van de resultaten van onderzoek ten behoeve van dopingbestrijding
+##### Artikel 26. Delen van de resultaten van onderzoek ten behoeve van dopingbestrijding
 
 Met inachtneming van het toepasselijke nationaal en internationaal recht, delen de Staten die Partij zijn, wanneer van toepassing, de resultaten van beschikbaar onderzoek ten behoeve van dopingbestrijding met de andere Staten die Partij zijn en met het Mondiaal Antidopingsagentschap.
 
-#### Artikel 27. Sportwetenschappelijk onderzoek
+##### Artikel 27. Sportwetenschappelijk onderzoek
 
 De Staten die Partij zijn, moedigen:
 
@@ -330,7 +355,7 @@ De Staten die Partij zijn, moedigen:
 
 ## DEEL VI. TOEZICHT OP HET VERDRAG
 
-#### Artikel 28. Conferentie van Partijen
+##### Artikel 28. Conferentie van Partijen
 
 1. Hierbij wordt een Conferentie van Partijen ingesteld. De Conferentie van Partijen is het hoogste orgaan van dit Verdrag.
 
@@ -340,11 +365,11 @@ De Staten die Partij zijn, moedigen:
 
 4. De Conferentie stelt haar eigen reglement van orde vast.
 
-#### Artikel 29. Adviesorgaan van en waarnemers bij de Conferentie van Partijen
+##### Artikel 29. Adviesorgaan van en waarnemers bij de Conferentie van Partijen
 
 Het Mondiaal Antidopingagentschap wordt uitgenodigd als adviesorgaan van de Conferentie van Partijen. Het Internationaal Olympisch Comité, het Internationaal Paralympisch Comité, de Raad van Europa en het Intergovernmental Committee for Physical Education and Sport (CIGEPS) worden als waarnemers uitgenodigd. De Conferentie van Partijen kan besluiten andere relevante organisaties als waarnemers uit te nodigen.
 
-#### Artikel 30. Taken van de Conferentie van Partijen
+##### Artikel 30. Taken van de Conferentie van Partijen
 
 1. Naast de taken vervat in de andere bepalingen van dit Verdrag, heeft de Conferentie van Partijen de volgende taken:
 
@@ -368,11 +393,11 @@ Het Mondiaal Antidopingagentschap wordt uitgenodigd als adviesorgaan van de Conf
 
 2. De Conferentie van Partijen kan bij de uitoefening van haar taken samenwerken met andere intergouvernementele instanties.
 
-#### Artikel 31. Nationale verslagen aan de Conferentie van Partijen
+##### Artikel 31. Nationale verslagen aan de Conferentie van Partijen
 
 De Staten die Partij zijn, zenden de Conferentie van Partijen elke twee jaar via het Secretariaat, in een van de officiële talen van UNESCO, alle relevante informatie toe betreffende door hen getroffen maatregelen te behoeve van de naleving van de bepalingen van dit Verdrag.
 
-#### Artikel 32. Secretariaat van de Conferentie van Partijen
+##### Artikel 32. Secretariaat van de Conferentie van Partijen
 
 1. Het Secretariaat van de Conferentie van Partijen wordt verzorgd door de Directeur-Generaal van UNESCO.
 
@@ -382,7 +407,7 @@ De Staten die Partij zijn, zenden de Conferentie van Partijen elke twee jaar via
 
 4. Het Secretariaat stelt de documentatie van de Conferentie van Partijen op, alsmede de ontwerpagenda van haar bijeenkomsten, en waarborgt de implementatie van de beslissingen ervan.
 
-#### Artikel 33. Wijzigingen
+##### Artikel 33. Wijzigingen
 
 1. Elke Staat die Partij is, kan door middel van een schriftelijke mededeling gericht aan de Directeur-Generaal van UNESCO voorstellen doen tot wijziging van dit Verdrag. De Directeur-Generaal verzendt deze mededeling aan alle Staten die Partij zijn. Indien, binnen zes maanden na de datum van verzending van de mededeling, ten minste de helft van de Staten die Partij zijn ermee instemmen, legt de Directeur-Generaal dergelijke voorstellen voor aan de volgende zitting van de Conferentie van Partijen.
 
@@ -398,7 +423,7 @@ De Staten die Partij zijn, zenden de Conferentie van Partijen elke twee jaar via
 
 - b. Partij te zijn bij het ongewijzigde Verdrag ten aanzien van elke Staat die Partij is die niet gebonden is door de wijzigingen; tenzij hij blijk geeft van een andere bedoeling.
 
-#### Artikel 34. Specifieke wijzigingsprocedure voor de Bijlagen bij het Verdrag
+##### Artikel 34. Specifieke wijzigingsprocedure voor de Bijlagen bij het Verdrag
 
 1. Indien het Mondiaal Antidopingagentschap de Lijst van verboden middelen en methoden of de Normen voor het verlenen van dispensatie voor therapeutisch gebruik wijzigt, kan hij, door middel van een schriftelijke kennisgeving gericht aan de Directeur-Generaal van UNESCO, hem of haar in kennis stellen van deze wijzigingen. De Directeur-Generaal brengt deze veranderingen als voorgestelde wijzigingen van de desbetreffende Bijlagen bij dit Verdrag onverwijld ter kennis van alle Staten die Partij zijn. Wijzigingen van de Bijlagen worden door de Conferentie van Partijen goedgekeurd, hetzij tijdens een van haar zittingen, hetzij door middel van schrifteljk overleg.
 
@@ -410,7 +435,7 @@ De Staten die Partij zijn, zenden de Conferentie van Partijen elke twee jaar via
 
 ## DEEL VII. SLOTBEPALINGEN
 
-#### Artikel 35. Federale of niet-unitaire constitutionele stelsels
+##### Artikel 35. Federale of niet-unitaire constitutionele stelsels
 
 De volgende bepalingen zijn van toepassing op Staten die Partij zijn met een federaal of niet-unitair constitutioneel systeem:
 
@@ -418,17 +443,17 @@ De volgende bepalingen zijn van toepassing op Staten die Partij zijn met een fed
 
 - b. Ten aanzien van de bepalingen van dit Verdrag, waarvan de implementatie onder de rechtsmacht valt van de afzonderlijke Staten, landen, provincies of kantons die door het constitutionele stelsel van de federatie niet verplicht zijn wetgevende maatregelen te treffen, stelt de federale regering de bevoegde autoriteiten van dergelijke Staten, landen, provincies of kantons in kennis van genoemde bepalingen, tezamen met haar aanbeveling deze aan te nemen.
 
-#### Artikel 36. Bekrachtiging, aanvaarding, goedkeuring of toetreding
+##### Artikel 36. Bekrachtiging, aanvaarding, goedkeuring of toetreding
 
 Dit Verdrag dient te worden bekrachtigd, aanvaard, goedgekeurd of hiertoe dient te worden toegetreden door de lidstaten van UNESCO in overeenstemming met hun onderscheiden grondwettelijke procedures. De akten van bekrachtiging, aanvaarding, goedkeuring of toetreding dienen te worden nedergelegd bij de Directeur-Generaal van UNESCO.
 
-#### Artikel 37. Inwerkingtreding
+##### Artikel 37. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking op de eerste dag van de maand die volgt op het verstrijken van een maand na de datum van nederlegging van de dertigste akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
 
 2. Ten aanzien van elke Staat die later zijn instemming door het Verdrag te worden gebonden tot uitdrukking brengt, treedt het Verdrag in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van een maand na de datum van nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
 
-#### Artikel 38. Uitbreiding tot andere gebieden van het Verdrag
+##### Artikel 38. Uitbreiding tot andere gebieden van het Verdrag
 
 1. Elke Staat kan bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding het grondgebied of de grondgebieden aanduiden voor de internationale betrekkingen waarvan hij verantwoordelijk is en waarop dit Verdrag van toepassing is.
 
@@ -436,11 +461,11 @@ Dit Verdrag dient te worden bekrachtigd, aanvaard, goedgekeurd of hiertoe dient 
 
 3. Elke verklaring die wordt gedaan uit hoofde van de twee voorgaande leden kan, met betrekking tot elk grondgebied dat in de verklaring wordt genoemd, worden ingetrokken door middel van een aan UNESCO gerichte kennisgeving. De intrekking wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van een maand na de datum van ontvangst van een dergelijke kennisgeving door de Depositaris.
 
-#### Artikel 39. Opzegging
+##### Artikel 39. Opzegging
 
 Elke Staat die Partij is, kan dit Verdrag opzeggen. De opzegging wordt door middel van een schriftelijke akte ter kennis gebracht en bij de Directeur-Generaal van UNESCO nedergelegd. De opzegging wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van zes maanden na ontvangst van de akte van opzegging. Dit heeft in geen geval gevolgen voor de financiële verplichtingen van de desbetreffende Staat die Partij is tot de datum waarop de opzegging van kracht wordt.
 
-#### Artikel 40. Depositaris
+##### Artikel 40. Depositaris
 
 De Directeur-Generaal van UNESCO is de Depositaris van dit Verdrag en de wijzigingen daarvan. De Directeur-Generaal van UNESCO stelt als Depositaris alle Staten die Partij zijn bij dit Verdrag alsmede de andere lidstaten van de Organisatie in kennis van:
 
@@ -458,17 +483,17 @@ De Directeur-Generaal van UNESCO is de Depositaris van dit Verdrag en de wijzigi
 
 - g. elke andere akte, kennisgeving of mededeling met betrekking tot dit Verdrag.
 
-#### Artikel 41. Registratie
+##### Artikel 41. Registratie
 
 In overeenstemming met [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102) wordt dit Verdrag geregistreerd bij het Secretariaat van de Verenigde Naties op verzoek van de Directeur-Generaal van UNESCO.
 
-#### Artikel 42. Gezaghebbende teksten
+##### Artikel 42. Gezaghebbende teksten
 
 1. Dit Verdrag met inbegrip van de Bijlagen daarbij is opgesteld in de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse taal, zijnde alle teksten gelijkelijk gezaghebbend.
 
 2. De Aanhangsels bij dit Verdrag zijn opgesteld in de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse taal.
 
-#### Artikel 43. Voorbehouden
+##### Artikel 43. Voorbehouden
 
 Voorbehouden die onverenigbaar zijn met het onderwerp en het doel van dit Verdrag zijn niet toegestaan.
 

@@ -1,13 +1,39 @@
 ---
-title: "Aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (beschikbaarheidbijdrage (medische) vervolgopleidingen 2019 en verder)"
+title: "Aanwijzing van de Minister voor Medische Zorg van 26 juni 2018, kenmerk 1355023-177350-PZo, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake beschikbaarheidbijdrage (medische) vervolgopleidingen 2019 en verder"
 identifier: "BWBR0041116"
-categorie: "Sociaal recht"
-publicatiedatum: 2018-09-01
-laatste_update: 2018-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041116"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2018-09-01"
+last_updated: "2018-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041116"
+soort: "ministeriele-regeling"
+stam_id: "14668583"
+version_id: "25115592"
+internal_id: "C35915821"
+label_id: "14621134"
+dtd_version: "2.0"
+original_entry_into_force: "2018-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041116/2018-09-01/0"
+intitule_bron: "Stcrt.2018-37253"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-06-26"
+intitule_published: "2018-07-05"
+intitule_in_force: "2018-07-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-37253"
+original_signed_date: "2018-06-26"
+original_published_date: "2018-07-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-37253"
+entry_into_force_date: "2018-09-01"
+jci_1_3: "jci1.3:c:BWBR0041116&z=2018-09-01&g=2018-09-01"
+jci_1_0: "1.0:c:BWBR0041116&g=2018-09-01"
+citeertitel_status: "redactioneel"
+short_title: "Aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (beschikbaarheidbijdrage (medische) vervolgopleidingen 2019 en verder)"
+signed_date: "2018-06-26"
+entry_into_force: "2018-09-01"
 ---
-
 # Aanwijzing van de Minister voor Medische Zorg van 26 juni 2018, kenmerk 1355023-177350-PZo, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake beschikbaarheidbijdrage (medische) vervolgopleidingen 2019 en verder
 
 Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
@@ -16,15 +42,15 @@ Na op 17 april 2018 schriftelijk mededeling te hebben gedaan aan de Eerste en de
 
 Besluit:
 
-#### Artikel 1. werkingssfeer
+##### Artikel 1. werkingssfeer
 
 Deze aanwijzing is van toepassing op activiteiten, ten behoeve van het beschikbaar hebben van zorg als bedoeld in [artikel 2 van het Besluit beschikbaarheidbijdrage WMG](https://wetten.overheid.nl/jci1.3:c:BWBR0031971&artikel=2), en [onderdeel B, onder 1, sub a en b, van de bijlage bij dat besluit](onbekend).
 
-#### Artikel 2. verstrekken beschikbaarheidbijdrage
+##### Artikel 2. verstrekken beschikbaarheidbijdrage
 
 De Nederlandse Zorgautoriteit verstrekt jaarlijks beschikbaarheidbijdragen op basis van de verdeelplannen en opleidingsoverzichten die gelden in het desbetreffende jaar vanaf 2019 voor activiteiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041116&artikel=1&z=2018-09-01&g=2018-09-01) door daartoe erkende zorgaanbieders, op vergelijkbare wijze als omschreven in de [Aanwijzing beschikbaarheidbijdrage (medische) vervolgopleidingen 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032024) (Stcrt. 2012, 20041). Zij neemt bij de berekening van de beschikbaarheidbijdragen de bedragen genoemd onder [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041116&artikel=3&z=2018-09-01&g=2018-09-01) als uitgangspunt.
 
-#### Artikel 3. hoogte bedragen per fte in 2019 en verder (prijspeil 2017)
+##### Artikel 3. hoogte bedragen per fte in 2019 en verder (prijspeil 2017)
 
 | Vervolgopleiding | Academische ziekenhuizen | Algemene ziekenhuizen | Algemene ziekenhuizen | Algemene ziekenhuizen |
 | --- | --- | --- | --- | --- |

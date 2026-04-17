@@ -1,24 +1,48 @@
 ---
 title: "Instellingsbesluit ministeriële commissie voor marktwerking, deregulering en wetgevingskwaliteit"
 identifier: "BWBR0007201"
-categorie: "Overig"
-publicatiedatum: 1995-01-22
-laatste_update: 1995-01-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007201"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1995-01-22"
+last_updated: "1995-01-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007201"
+soort: "ministeriele-regeling"
+stam_id: "3535653"
+version_id: "5318802"
+internal_id: "C5511891"
+label_id: "3515674"
+dtd_version: "2.0"
+original_entry_into_force: "1995-01-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007201/1995-01-22/0"
+intitule_bron: "Stcrt.1995-15"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-01-10"
+intitule_published: "1995-01-20"
+intitule_in_force: "1995-01-20"
+intitule_status: "goed"
+original_publication: "Stcrt.1995-15"
+original_signed_date: "1995-01-10"
+original_published_date: "1995-01-20"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1995-01-22"
+jci_1_3: "jci1.3:c:BWBR0007201&z=1995-01-22&g=1995-01-22"
+jci_1_0: "1.0:c:BWBR0007201&g=1995-01-22"
+citeertitel_status: "officieel"
+signed_date: "1995-01-10"
+entry_into_force: "1995-01-22"
 ---
-
 # Instellingsbesluit ministeriële commissie voor marktwerking, deregulering en wetgevingskwaliteit
 
 Handelende in overeenstemming met het gevoelen van de ministerraad; Gelet op [artikel 25, eerste lid, van het Reglement van Orde voor de Ministerraad](https://wetten.overheid.nl/jci1.3:c:BWBR0006501&artikel=25);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Er is een ministeriële commissie voor marktwerking, deregulering en wetgevingskwaliteit.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De commissie heeft ten aanzien van bestaande en voorgenomen wet- en regelgeving tot taak het ten behoeve van de ministerraad doen van voorstellen:
 
@@ -30,7 +54,7 @@ Er is een ministeriële commissie voor marktwerking, deregulering en wetgevingsk
 
 2. Met betrekking tot voorgenomen wet- en regelgeving heeft de commissie tot taak aan te geven in welke mate aandacht moet worden gegeven aan aspecten die een evenwichtige belangenafweging bevorderen in het licht van de doelstellingen van de commissie.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Vaste leden van de commissie zijn:
 
@@ -48,21 +72,21 @@ Er is een ministeriële commissie voor marktwerking, deregulering en wetgevingsk
 
 4. De in het tweede en derde lid genoemde ministers hebben dezelfde rechten als de vaste leden.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Als secretaris wordt aangewezen een ambtenaar van het Ministerie van Algemene Zaken.
 
 2. Als adjunct-secretarissen worden aangewezen een ambtenaar van het Ministerie van Justitie en een ambtenaar van het Ministerie van Economische Zaken.
 
-#### Artikel 5
+##### Artikel 5
 
 Het [Instellingsbesluit ministeriële commissie voor wetgevingsbeleid en rechtshandhaving](https://wetten.overheid.nl/jci1.3:c:BWBR0006579) wordt ingetrokken.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit wordt aangehaald als: Instellingsbesluit ministeriële commissie voor marktwerking, deregulering en wetgevingskwaliteit.
 

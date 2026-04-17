@@ -1,14 +1,42 @@
 ---
-title: "Wet samenvoeging gemeenten Alkmaar, Graft-De Rijp en Schermer"
+title: "Wet van 14 mei 2014 tot samenvoeging van de gemeenten Alkmaar, Graft-De Rijp en Schermer"
 identifier: "BWBR0035173"
-categorie: "Bestuursrecht"
-publicatiedatum: 2014-06-06
-laatste_update: 2014-06-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035173"
+country: "nl"
+rank: "wet"
+publication_date: "2014-06-06"
+last_updated: "2014-06-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035173"
+soort: "wet"
+stam_id: "12682073"
+version_id: "21430892"
+internal_id: "C30773711"
+label_id: "12652214"
+dtd_version: "2.0"
+original_entry_into_force: "2014-06-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035173/2014-06-06/0"
+intitule_bron: "Stb.2014-190"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-05-14"
+intitule_published: "2014-06-05"
+intitule_in_force: "2014-06-05"
+intitule_status: "goed"
+original_publication: "Stb.2014-190"
+original_signed_date: "2014-05-14"
+original_published_date: "2014-06-05"
+original_effect: "nieuwe-regeling"
+original_dossier: "33790"
+original_url_id: "stb-2014-190"
+entry_into_force_date: "2014-06-06"
+entry_into_force_dossier: "33790"
+jci_1_3: "jci1.3:c:BWBR0035173&z=2014-06-06&g=2014-06-06"
+jci_1_0: "1.0:c:BWBR0035173&g=2014-06-06"
+citeertitel_status: "redactioneel"
+short_title: "Wet samenvoeging gemeenten Alkmaar, Graft-De Rijp en Schermer"
+signed_date: "2014-05-14"
+entry_into_force: "2014-06-06"
 ---
-
-# Wet samenvoeging gemeenten Alkmaar, Graft-De Rijp en Schermer
+# Wet van 14 mei 2014 tot samenvoeging van de gemeenten Alkmaar, Graft-De Rijp en Schermer
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,21 +46,21 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 #### § 1. Opheffing en instelling van gemeenten
 
-#### artikel 1
+##### artikel 1
 
 Met ingang van de datum van herindeling worden de gemeenten Alkmaar, Graft-De Rijp en Schermer opgeheven.
 
-#### artikel 2
+##### artikel 2
 
 Met ingang van de datum van herindeling wordt de nieuwe gemeente Alkmaar ingesteld, bestaande uit het grondgebied van de op te heffen gemeenten Alkmaar, Graft-De Rijp en Schermer, zoals aangegeven op de bij deze wet behorende kaart.
 
 #### § 2. Overige bepalingen
 
-#### Artikel 3
+##### Artikel 3
 
 Voor de nieuwe gemeente Alkmaar wordt de op te heffen gemeente Alkmaar aangewezen voor de toepassing van [artikel 36 van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=36), in verband met de toepassing van de instructies en reglementen, bedoeld in dat artikel.
 
-#### Artikel 4
+##### Artikel 4
 
 Voor de op te heffen gemeenten Alkmaar, Graft-De Rijp en Schermer wordt de nieuwe gemeente Alkmaar aangewezen voor de toepassing van de volgende bepalingen van de [Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718):
 
@@ -42,7 +70,7 @@ Voor de op te heffen gemeenten Alkmaar, Graft-De Rijp en Schermer wordt de nieuw
 
 - c. [artikel 45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=45), in verband met de overgang van rechten en verplichtingen in verband met de voorziening van drinkwater, elektriciteit en gas.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Voor de nieuwe gemeente Alkmaar wordt een tussentijdse raadsverkiezing als bedoeld in [artikel 52, tweede lid, onderdeel a, van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=52) gehouden.
 
@@ -52,15 +80,15 @@ Voor de op te heffen gemeenten Alkmaar, Graft-De Rijp en Schermer wordt de nieuw
 
 4. De zittingsperiode van de leden van de raad van de nieuwe gemeente eindigt in de in het derde lid bedoelde situatie gelijk met de zittingsperiode van de leden van de raden van de overige gemeenten die volgt op de eerste verkiezingen voor de gemeenteraden na de datum van herindeling.
 
-#### Artikel 6
+##### Artikel 6
 
 Wijzigt de Wet op de rechterlijke indeling.
 
-#### Artikel 7
+##### Artikel 7
 
 Wijzigt de Wet veiligheidsregio’s.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 

@@ -1,13 +1,38 @@
 ---
 title: "Regeling Macrobeheersinstrument geneeskundige geestelijke gezondheidszorg vanaf 2023"
 identifier: "BWBR0047970"
-categorie: "Sociaal recht"
-publicatiedatum: 2023-03-22
-laatste_update: 2023-03-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047970"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-03-22"
+last_updated: "2023-03-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047970"
+soort: "zbo"
+stam_id: "16696783"
+version_id: "29289052"
+internal_id: "C41719231"
+label_id: "16614274"
+dtd_version: "2.0"
+original_entry_into_force: "2023-03-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047970/2023-03-22/0"
+intitule_bron: "Stcrt.2023-8454"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-03-07"
+intitule_published: "2023-03-21"
+intitule_in_force: "2023-03-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-8454"
+original_signed_date: "2023-03-07"
+original_published_date: "2023-03-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-8454"
+entry_into_force_date: "2023-03-22"
+jci_1_3: "jci1.3:c:BWBR0047970&z=2023-03-22&g=2023-03-22"
+jci_1_0: "1.0:c:BWBR0047970&g=2023-03-22"
+citeertitel_status: "officieel"
+signed_date: "2023-03-07"
+entry_into_force: "2023-03-22"
 ---
-
 # Regeling Macrobeheersinstrument geneeskundige geestelijke gezondheidszorg vanaf 2023
 
 Gelet op de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=36), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=62) en [68 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=68) besluit de Nederlandse Zorgautoriteit (NZa) tot vaststelling van de navolgende regeling.

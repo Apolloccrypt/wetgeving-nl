@@ -1,13 +1,39 @@
 ---
-title: "Bestuursreglement College voor Toetsen en Examens"
+title: "Besluit van het College voor Toetsen en Examens van 8 februari 2021, nummer CvTE-21.00407, tot vaststelling van het Bestuursreglement College voor Toetsen en Examens (Bestuursreglement College voor Toetsen en Examens)"
 identifier: "BWBR0045003"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-06-15
-laatste_update: 2024-06-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045003"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-06-15"
+last_updated: "2024-06-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045003"
+soort: "zbo"
+stam_id: "15912653"
+version_id: "27659362"
+internal_id: "C39020821"
+label_id: "15848114"
+dtd_version: "2.0"
+original_entry_into_force: "2021-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045003/2024-06-15/0"
+intitule_bron: "Stcrt.2021-15575"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-02-08"
+intitule_published: "2021-03-31"
+intitule_in_force: "2021-03-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-15575"
+original_signed_date: "2021-02-08"
+original_published_date: "2021-03-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-15575"
+entry_into_force_date: "2021-04-01"
+jci_1_3: "jci1.3:c:BWBR0045003&z=2024-06-15&g=2024-06-15"
+jci_1_0: "1.0:c:BWBR0045003&g=2024-06-15"
+citeertitel_status: "officieel"
+short_title: "Bestuursreglement College voor Toetsen en Examens"
+signed_date: "2021-02-08"
+entry_into_force: "2021-04-01"
 ---
-
 # Besluit van het College voor Toetsen en Examens van 8 februari 2021, nummer CvTE-21.00407, tot vaststelling van het Bestuursreglement College voor Toetsen en Examens (Bestuursreglement College voor Toetsen en Examens)
 
 Gelet op [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3) en [10:9 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:9) en [7 van de Wet College voor Toetsen en Examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=7);
@@ -18,7 +44,7 @@ Besluit:
 
 ### Hoofdstuk 1. Organisatie- en mandaatregeling
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -46,15 +72,15 @@ In dit besluit wordt verstaan onder:
 
 - **wet:** de [Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364).
 
-#### Artikel 2. Mandaat en machtiging
+##### Artikel 2. Mandaat en machtiging
 
 Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met de verlening van mandaat gelijkgesteld de verlening van machtiging om in naam van het college handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn.
 
-#### Artikel 3. Organisatie van het College voor Toetsen en Examens
+##### Artikel 3. Organisatie van het College voor Toetsen en Examens
 
 De organisatie van het bureau van het college wordt vastgesteld overeenkomstig de bij dit besluit behorende bijlage.
 
-#### Artikel 4. Voorbehouden aan voorzitter en overige leden
+##### Artikel 4. Voorbehouden aan voorzitter en overige leden
 
 1. De voorzitter heeft mandaat voor al hetgeen het college betreft.
 
@@ -74,7 +100,7 @@ De organisatie van het bureau van het college wordt vastgesteld overeenkomstig d
 
 4. Bij ontstentenis van de voorzitter oefent een van de overige leden diens taken uit. Hij handelt daarbij met het mandaat dat de voorzitter op grond van het eerste en tweede lid heeft.
 
-#### Artikel 5. Mandaat secretaris-directeur
+##### Artikel 5. Mandaat secretaris-directeur
 
 1. De secretaris-directeur heeft, onverminderd het mandaat aan de voorzitter van het college, mandaat ten aanzien van alle aangelegenheden voortvloeiend uit zijn functie.
 
@@ -88,17 +114,17 @@ De organisatie van het bureau van het college wordt vastgesteld overeenkomstig d
 
 - d. het namens het college afdoen en ondertekenen van stukken.
 
-#### Artikel 6. Voorbehouden aan de secretaris-directeur
+##### Artikel 6. Voorbehouden aan de secretaris-directeur
 
 1. Aan de secretaris-directeur is voorbehouden het namens het college afdoen en ondertekenen van stukken houdende de gehele of gedeeltelijke afwijzing van een verzoek om informatie ingevolge de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754).
 
 2. Een afdelingshoofd of teamleider kan de stukken bij afwezigheid van de secretaris-directeur afdoen en ondertekenen indien daarover afspraken zijn gemaakt tussen de secretaris-directeur en het betreffende afdelingshoofd of teamleider.
 
-#### Artikel 7. Mandaat afdelingshoofden en clustermanagers
+##### Artikel 7. Mandaat afdelingshoofden en clustermanagers
 
 De afdelingshoofden en clustermanagers hebben, onverminderd het mandaat aan de voorzitter en de secretaris-directeur, mandaat ten aanzien van alle aangelegenheden voortvloeiend uit hun functie.
 
-#### Artikel 8. Mandaat directeur-generaal DUO
+##### Artikel 8. Mandaat directeur-generaal DUO
 
 1. Aan de directeur-generaal van DUO wordt mandaat en machtiging verleend tot het nemen van besluiten op grond van [artikel 2.82, tweede lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.82), de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=4.1), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=4.2) en [4.34 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=4.34), de [artikelen 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&artikel=4), [9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&artikel=9), en [20 van het Staatsexamenbesluit Nederlands als tweede taal](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&artikel=20), de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029980&artikel=3), [8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029980&artikel=8), en [19 van het Staatsexamenbesluit Nederlands als vreemde taal BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029980&artikel=19) en de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) over informatie die verband houdt met de uitvoering van deze bevoegdheid.
 
@@ -108,7 +134,7 @@ De afdelingshoofden en clustermanagers hebben, onverminderd het mandaat aan de v
 
 4. Alvorens wordt beslist op een verzoek op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754), dan wel op een bezwaarschrift, treedt de directeur-generaal van DUO in overleg met de secretaris-directeur.
 
-#### Artikel 9. Mandaat vaststellingscommissies en vakcommissies
+##### Artikel 9. Mandaat vaststellingscommissies en vakcommissies
 
 1. De vaststellingscommissie of de vakcommissie heeft mandaat ten aanzien van alle aangelegenheden met betrekking tot haar taak.
 
@@ -120,7 +146,7 @@ De afdelingshoofden en clustermanagers hebben, onverminderd het mandaat aan de v
 
 ### Hoofdstuk 2. Werkwijze en procedures
 
-#### Artikel 10. Vergaderingen
+##### Artikel 10. Vergaderingen
 
 1. Het college vergadert ten minste vier maal per jaar en voorts wanneer een van de leden daarom verzoekt.
 
@@ -136,7 +162,7 @@ De afdelingshoofden en clustermanagers hebben, onverminderd het mandaat aan de v
 
 7. Vergaderingen zijn niet openbaar.
 
-#### Artikel 11. Besluitvorming
+##### Artikel 11. Besluitvorming
 
 1. Ieder lid heeft het recht een voorstel te doen om een beslissing te nemen.
 
@@ -152,7 +178,7 @@ De afdelingshoofden en clustermanagers hebben, onverminderd het mandaat aan de v
 
 7. In spoedeisende gevallen kan de voorzitter besluiten van dit artikel af te wijken en bepalen op welke wijze een beslissing genomen wordt.
 
-#### Artikel 12. Beslissingen van het college
+##### Artikel 12. Beslissingen van het college
 
 1. Het college stelt, zo mogelijk met algemeen goedvinden, de volgende stukken in een vergadering vast:
 
@@ -176,31 +202,31 @@ De afdelingshoofden en clustermanagers hebben, onverminderd het mandaat aan de v
 
 ### Hoofdstuk 3. Klachten
 
-#### Artikel 13. Reikwijdte
+##### Artikel 13. Reikwijdte
 
 De [artikelen 14 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0045003&hoofdstuk=3&artikel=14&z=2024-06-15&g=2024-06-15) zijn van toepassing op de behandeling van de klachten, bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:1).
 
-#### Artikel 14. Klachtbehandeling
+##### Artikel 14. Klachtbehandeling
 
 1. De behandeling van de klacht geschiedt door een persoon die niet bij de gedraging waarop de klacht betrekking heeft, betrokken is geweest.
 
 2. Het eerste lid is niet van toepassing indien de klacht betrekking heeft op een gedraging van het college zelf dan wel de voorzitter of een lid ervan.
 
-#### Artikel 15. Klachtafdoening
+##### Artikel 15. Klachtafdoening
 
 Een klacht wordt onverlet [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045003&hoofdstuk=1&artikel=8&z=2024-06-15&g=2024-06-15), afgedaan door de secretaris-directeur, tenzij de klacht naar aard of inhoud een zodanig gewicht heeft dat de voorzitter deze behoort af te doen.
 
-#### Artikel 16. Klachtregistratie
+##### Artikel 16. Klachtregistratie
 
 De secretaris-directeur draagt zorg voor de registratie van de klachten. Een overzicht van de geregistreerde klachten wordt gepubliceerd in het jaarverslag.
 
-#### Artikel 17. Klachtenprocedure
+##### Artikel 17. Klachtenprocedure
 
 Het college stelt een procedure vast voor de behandeling en afdoening van klachten.
 
 ### Hoofdstuk 4. Integriteit
 
-#### Artikel 18. Nevenfuncties leden
+##### Artikel 18. Nevenfuncties leden
 
 Met nevenfuncties van een lid die ongewenst zijn voor een goede vervulling van zijn taak, als bedoeld in [artikel 13 van de kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=13), worden in elk geval bedoeld:
 
@@ -210,15 +236,15 @@ Met nevenfuncties van een lid die ongewenst zijn voor een goede vervulling van z
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 19. Intrekking eerder bestuursreglement
+##### Artikel 19. Intrekking eerder bestuursreglement
 
 Het [Bestuursreglement College voor Toetsen en Examens](https://wetten.overheid.nl/jci1.3:c:BWBR0036585) wordt ingetrokken.
 
-#### Artikel 20. Inwerkingtreding
+##### Artikel 20. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 21. Citeertitel
+##### Artikel 21. Citeertitel
 
 Dit besluit wordt aangehaald als: Bestuursreglement College voor Toetsen en Examens.
 

@@ -1,13 +1,38 @@
 ---
 title: "Afspraken over de harmonisatie arbeidsvoorwaarden politie, tweede tranche"
 identifier: "BWBR0029054"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2010-12-08
-laatste_update: 2010-12-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029054"
+country: "nl"
+rank: "circulaire"
+publication_date: "2010-12-08"
+last_updated: "2010-12-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029054"
+soort: "circulaire"
+stam_id: "11099283"
+version_id: "18147652"
+internal_id: "C25229921"
+label_id: "11074934"
+dtd_version: "2.0"
+original_entry_into_force: "2010-12-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029054/2010-12-08/0"
+intitule_bron: "Stcrt.2010-19782"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-11-01"
+intitule_published: "2010-12-08"
+intitule_in_force: "2010-12-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-19782"
+original_signed_date: "2010-11-01"
+original_published_date: "2010-12-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-19782"
+entry_into_force_date: "2010-12-08"
+jci_1_3: "jci1.3:c:BWBR0029054&z=2010-12-08&g=2010-12-08"
+jci_1_0: "1.0:c:BWBR0029054&g=2010-12-08"
+citeertitel_status: "redactioneel"
+signed_date: "2010-11-01"
+entry_into_force: "2010-12-08"
 ---
-
 # Afspraken over de harmonisatie arbeidsvoorwaarden politie, tweede tranche
 
 ### Algemeen

@@ -1,13 +1,39 @@
 ---
-title: "Besluit Participatiewet"
+title: "Besluit van 16 augustus 2006, houdende regels ter uitvoering van de Wet werk en bijstand (Besluit WWB 2007)"
 identifier: "BWBR0020183"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020183"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020183"
+soort: "AMvB"
+stam_id: "8565453"
+version_id: "31192252"
+internal_id: "C44623601"
+label_id: "8545834"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020183/2026-01-01/0"
+intitule_bron: "Stb.2006-379"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-08-16"
+intitule_published: "2006-08-29"
+intitule_in_force: "2006-08-29"
+intitule_status: "goed"
+original_publication: "Stb.2025-430"
+original_signed_date: "2025-12-04"
+original_published_date: "2025-12-11"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2025-430"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0020183&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0020183&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit Participatiewet"
+signed_date: "2025-12-04"
+entry_into_force: "2026-01-01"
 ---
-
 # Besluit van 16 augustus 2006, houdende regels ter uitvoering van de Wet werk en bijstand (Besluit WWB 2007)
 
 Op de voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 3 juli 2006, Directie Werk en Bijstand, nr. W&B/SFI/06/54989;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -60,13 +86,13 @@ In dit besluit wordt verstaan onder:
 
 #### Werkdeel
 
-#### Artikel 2. Vaststelling aantal inwoners
+##### Artikel 2. Vaststelling aantal inwoners
 
 1. Voor de vaststelling van het aantal inwoners in dit besluit geldt als peildatum 1 januari van het jaar voorafgaand aan het jaar waarvoor de uitkering wordt vastgesteld.
 
 2. Het aantal inwoners wordt ontleend aan de statistiek «Demografische kerncijfers per gemeente» van het Centraal Bureau voor de Statistiek.
 
-#### Artikel 3. Berekening uitkering gemeente
+##### Artikel 3. Berekening uitkering gemeente
 
 1. De uitkering voor een gemeente wordt bepaald aan de hand van de volgende formule:
 
@@ -190,15 +216,15 @@ SOM [m * GU/TGU] * (TB-BLKS)
 
 #### § 2. Uitkering
 
-#### Artikel 4. Berekening budgetgrondslag middelgrote gemeenten
+##### Artikel 4. Berekening budgetgrondslag middelgrote gemeenten
 
 Vervallen
 
-#### Artikel 5. Berekening budgetgrondslag grote gemeenten
+##### Artikel 5. Berekening budgetgrondslag grote gemeenten
 
 Vervallen
 
-#### Artikel 6. Objectief verdeelmodel en macrobudget
+##### Artikel 6. Objectief verdeelmodel en macrobudget
 
 1. Aan de hand van het verdeelmodel dat is opgenomen in de bijlage bij dit besluit worden de objectief bepaalde kosten voor algemene bijstand en uitkeringen, bedoeld in [artikel 69, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=69), waaronder de algemene bijstand ten behoeve van zelfstandigen op grond van het [Bbz 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711) vastgesteld.
 
@@ -212,7 +238,7 @@ Vervallen
 
 6. Bij een wijziging van de gemeentelijke indeling wordt voor de budgetberekening uitgegaan van een redelijke inschatting van de situatie zoals die zou zijn geweest als de instelling, splitsing of opheffing van gemeenten in de van belang zijnde jaren al was ingegaan.
 
-#### Artikel 7. Termijnen verantwoordingsinformatie
+##### Artikel 7. Termijnen verantwoordingsinformatie
 
 1. Bij de toepassing van [artikel 69, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=69), wordt uitgegaan van de gegevens waarvan Onze Minister kennis heeft op 15 augustus van het jaar volgend op het verantwoordingsjaar, met dien verstande dat gegevens die het college op verzoek van Onze Minister op een latere datum verstrekt mede in aanmerking worden genomen.
 
@@ -222,7 +248,7 @@ Vervallen
 
 4. Bij ministeriële regeling wordt een correctiefactor bij de toepassing van het derde lid vastgesteld.
 
-#### Artikel 8. Gemeenschappelijke regelingen
+##### Artikel 8. Gemeenschappelijke regelingen
 
 1. Indien [artikel 8c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=8c), onderscheidenlijk [artikel 40 van de IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=40) en [artikel 40 van de IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=40) van toepassing is, kan voor de toepassing van [artikel 3, derde en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01), en [artikel 8a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=2&artikel=8a&z=2026-01-01&g=2026-01-01) voor:
 
@@ -246,17 +272,17 @@ de informatie in aanmerking worden genomen die het openbaar lichaam heeft verant
 
 - b. de gemeentelijke baten op grond van het [Bbz 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711), de informatie in aanmerking worden genomen die het openbaar lichaam heeft verantwoord over het jaar waarop de vaststelling betrekking heeft. De eerste zin is slechts van toepassing indien de bedoelde informatie is vastgesteld overeenkomstig [artikel 34a van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=34a).
 
-#### Artikel 8a. Overgangsrecht voor het jaar 2017
+##### Artikel 8a. Overgangsrecht voor het jaar 2017
 
 Vervallen
 
-#### Artikel 9. Toetsingscommissie
+##### Artikel 9. Toetsingscommissie
 
 1. De toetsingscommissie bestaat uit een voorzitter en vier leden. Onze Minister benoemt de voorzitter en de leden, die tevens door hem kunnen worden geschorst en ontslagen.
 
 2. De toetsingscommissie beoordeelt of een verzoek tot een vangnetuitkering voldoet aan de voorwaarden, genoemd in de [artikelen 9b](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=9b&z=2026-01-01&g=2026-01-01) en [9c, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=9c&z=2026-01-01&g=2026-01-01), en adviseert Onze Minister daar over.
 
-#### Artikel 10. De hoogte van de vangnetuitkering
+##### Artikel 10. De hoogte van de vangnetuitkering
 
 1. Een vangnetuitkering op grond van [artikel 9b, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=9b&z=2026-01-01&g=2026-01-01), bedraagt:
 
@@ -284,25 +310,25 @@ Vervallen
 
 #### § 4. Overige en slotbepalingen
 
-#### Artikel 11. : Niet-ingeschrevenen
+##### Artikel 11. : Niet-ingeschrevenen
 
 1. Voor de verlening van bijstand op grond van de wet aan de belanghebbende die niet is ingeschreven als ingezetene met een woonadres of briefadres worden aangewezen de gemeenten opgenomen in [Bijlage 29xx-c van het Besluit decentralisatie- en integratie-uitkeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29xx-c).
 
 2. De bijstand, bedoeld in het eerste lid, wordt verleend door het college van de gemeente waar de belanghebbende zich op het moment van zijn aanvraag bevindt.
 
-#### Artikel 12. Grondslagwijziging
+##### Artikel 12. Grondslagwijziging
 
 Dit besluit berust op de [artikelen 7a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7a), [40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=40), [69, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=69), [73, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=73), en [74, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=74).
 
-#### Artikel 13. Intrekking [Besluit WWB](https://wetten.overheid.nl/jci1.3:c:BWBR0015709)
+##### Artikel 13. Intrekking [Besluit WWB](https://wetten.overheid.nl/jci1.3:c:BWBR0015709)
 
 Het [Besluit WWB](https://wetten.overheid.nl/jci1.3:c:BWBR0015709) wordt ingetrokken.
 
-#### Artikel 14. Inwerkingtreding
+##### Artikel 14. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 januari 2007.
 
-#### Artikel 15. Citeertitel
+##### Artikel 15. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit Participatiewet.
 
@@ -482,7 +508,7 @@ De bedragen per eenheid voor het model voor de gemeenten met meer dan 25.000 inw
 
 Lasten en bevelen dat dit besluit en de bijlagen met de daarbij behorende nota van toelichting in het Staatsblad zullen worden geplaatst.
 
-#### Artikel 11a. Minimumbescherming inkomensdeel voor het jaar 2009
+##### Artikel 11a. Minimumbescherming inkomensdeel voor het jaar 2009
 
 Vervallen
 
@@ -502,15 +528,15 @@ Bij een stijgend aantal inwoners loopt het aandeel dat objectief wordt bepaald l
 
 Lasten en bevelen dat dit besluit en de bijlagen met de daarbij behorende nota van toelichting in het Staatsblad zullen worden geplaatst.
 
-#### Artikel 10a. Overgangsrecht vangnetuitkering 2017 en 2018
+##### Artikel 10a. Overgangsrecht vangnetuitkering 2017 en 2018
 
 Op aanvragen om een vangnetuitkering over de uitkeringsjaren 2017 en 2018 blijft dit besluit van toepassing zoals het luidde op 31 december 2018.
 
-#### Artikel 10c. Hoogte meerjarige aanvullende uitkering
+##### Artikel 10c. Hoogte meerjarige aanvullende uitkering
 
 Vervallen
 
-#### Artikel 10d. Aanpassing berekeningen meerjarige aanvullende uitkering
+##### Artikel 10d. Aanpassing berekeningen meerjarige aanvullende uitkering
 
 Vervallen
 
@@ -524,7 +550,7 @@ Vervallen
 
 Lasten en bevelen dat dit besluit en de bijlagen met de daarbij behorende nota van toelichting in het Staatsblad zullen worden geplaatst.
 
-#### Artikel 10b. Taak centrumgemeente
+##### Artikel 10b. Taak centrumgemeente
 
 De centrumgemeente van de betrokken arbeidsmarktregio’s, vastgesteld krachtens [artikel 10, tweede lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013061&artikel=10):
 
@@ -536,7 +562,7 @@ De centrumgemeente van de betrokken arbeidsmarktregio’s, vastgesteld krachtens
 
 #### § 4. Overige en slotbepalingen
 
-#### Artikel 13a
+##### Artikel 13a
 
 1. Onze Minister zendt voor 1 januari 2025 een verslag over de doeltreffendheid en de effecten in de praktijk van [artikel 3, vijfde en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01).
 
@@ -570,7 +596,7 @@ Lasten en bevelen dat dit besluit en de bijlagen met de daarbij behorende nota v
 
 Lasten en bevelen dat dit besluit en de bijlagen met de daarbij behorende nota van toelichting in het Staatsblad zullen worden geplaatst.
 
-#### Artikel 8b. Voorschot uitkering wegens kosten in de jaren 2016 en 2017 ten behoeve van vergunninghouders
+##### Artikel 8b. Voorschot uitkering wegens kosten in de jaren 2016 en 2017 ten behoeve van vergunninghouders
 
 1. Onze Minister verleent in 2016 en 2017 indien het college hiertoe een aanvraag heeft ingediend een voorschot voor de uitkering, bedoeld in [artikel 69 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=69), die in de jaren 2018 tot en met 2026, aan het college zal worden verstrekt om het college van middelen te voorzien voor kosten van algemene bijstand, uitkeringen en loonkostensubsidies als bedoeld in dit besluit ten behoeve van vergunninghouders.
 
@@ -604,13 +630,13 @@ Waarbij:
 
 Lasten en bevelen dat dit besluit en de bijlagen met de daarbij behorende nota van toelichting in het Staatsblad zullen worden geplaatst.
 
-#### Artikel 10e. Voortzetting meerjarige aanvullende uitkering over 2012
+##### Artikel 10e. Voortzetting meerjarige aanvullende uitkering over 2012
 
 Vervallen
 
 #### § 4. Overige en slotbepalingen
 
-#### Artikel 12. Het [Besluit uitkeringen gemeenten IOAW en IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0015710)
+##### Artikel 12. Het [Besluit uitkeringen gemeenten IOAW en IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0015710)
 
 Wijzigt het Besluit uitkeringen gemeenten IOAW en IOAZ.
 
@@ -650,7 +676,7 @@ Lasten en bevelen dat dit besluit en de bijlagen met de daarbij behorende nota v
 
 Lasten en bevelen dat dit besluit en de bijlagen met de daarbij behorende nota van toelichting in het Staatsblad zullen worden geplaatst.
 
-#### Artikel 9a. Berekening in aanmerking komende netto lasten
+##### Artikel 9a. Berekening in aanmerking komende netto lasten
 
 1. Voor de toepassing van de [artikelen 9b](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=9b&z=2026-01-01&g=2026-01-01), [9c](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=9c&z=2026-01-01&g=2026-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10&z=2026-01-01&g=2026-01-01) worden de in aanmerking komende netto lasten berekend door de netto uitkeringslasten en de netto uitgaven aan loonkostensubsidies op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) en de netto lasten op grond van de [IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044), de [IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0004163) en het [Bbz 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711) te verminderen met de bedragen die blijkens het verslag van bevindingen, bedoeld in [artikel 5, eerste lid, van het Besluit accountantscontrole decentrale overheden](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&artikel=5), als fout of onzeker zijn aangemerkt.
 
@@ -658,7 +684,7 @@ Lasten en bevelen dat dit besluit en de bijlagen met de daarbij behorende nota v
 
 #### § 4. Overige en slotbepalingen
 
-#### Artikel 12. Het [Besluit uitkeringen gemeenten IOAW en IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0015710)
+##### Artikel 12. Het [Besluit uitkeringen gemeenten IOAW en IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0015710)
 
 Wijzigt het Besluit uitkeringen gemeenten IOAW en IOAZ.
 
@@ -684,7 +710,7 @@ Lasten en bevelen dat dit besluit en de bijlagen met de daarbij behorende nota v
 
 Lasten en bevelen dat dit besluit en de bijlagen met de daarbij behorende nota van toelichting in het Staatsblad zullen worden geplaatst.
 
-#### Artikel 9b. Financiële voorwaarden van de vangnetuitkering
+##### Artikel 9b. Financiële voorwaarden van de vangnetuitkering
 
 Onze Minister kan een vangnetuitkering als bedoeld in [artikel 74 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=74) verlenen, indien de in aanmerking komende netto lasten de verstrekte uitkering:
 
@@ -698,7 +724,7 @@ Onze Minister kan een vangnetuitkering als bedoeld in [artikel 74 van de wet](ht
 
 - 2°. het daaraan voorafgaande jaar gebruik heeft gemaakt van een vangnetuitkering op grond van dit onderdeel.
 
-#### Artikel 9c. Procedurele voorwaarden van de vangnetuitkering
+##### Artikel 9c. Procedurele voorwaarden van de vangnetuitkering
 
 1. Een verzoek als bedoeld in [artikel 74 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=74) voldoet aan de volgende voorwaarden:
 

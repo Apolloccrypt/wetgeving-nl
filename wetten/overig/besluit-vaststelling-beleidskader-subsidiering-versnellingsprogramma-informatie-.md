@@ -1,28 +1,54 @@
 ---
-title: "Besluit vaststelling beleidskader subsidiëring Versnellingsprogramma Informatie-uitwisseling Patiënt en Professional"
+title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 14 december 2016, kenmerk 159145-CZ houdende vaststelling van beleidsregels voor het subsidiëren van ziekenhuizen en de NVZ voor het stimuleren van elektronische gegevensuitwisseling tussen patiënt en zorgaanbieder (Besluit vaststelling beleidskader subsidiëring Versnellingsprogramma Informatie-uitwisseling Patiënt en Professional)"
 identifier: "BWBR0038920"
-categorie: "Overig"
-publicatiedatum: 2019-10-19
-laatste_update: 2019-10-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038920"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2019-10-19"
+last_updated: "2019-10-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038920"
+soort: "ministeriele-regeling"
+stam_id: "13832613"
+version_id: "23743172"
+internal_id: "C34172291"
+label_id: "13798084"
+dtd_version: "2.0"
+original_entry_into_force: "2017-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038920/2019-10-19/0"
+intitule_bron: "Stcrt.2016-68985"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-12-14"
+intitule_published: "2016-12-21"
+intitule_in_force: "2016-12-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-68985"
+original_signed_date: "2016-12-14"
+original_published_date: "2016-12-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-68985"
+entry_into_force_date: "2017-01-01"
+jci_1_3: "jci1.3:c:BWBR0038920&z=2019-10-19&g=2019-10-19"
+jci_1_0: "1.0:c:BWBR0038920&g=2019-10-19"
+citeertitel_status: "officieel"
+short_title: "Besluit vaststelling beleidskader subsidiëring Versnellingsprogramma Informatie-uitwisseling Patiënt en Professional"
+signed_date: "2016-12-14"
+entry_into_force: "2017-01-01"
 ---
-
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 14 december 2016, kenmerk 159145-CZ houdende vaststelling van beleidsregels voor het subsidiëren van ziekenhuizen en de NVZ voor het stimuleren van elektronische gegevensuitwisseling tussen patiënt en zorgaanbieder (Besluit vaststelling beleidskader subsidiëring Versnellingsprogramma Informatie-uitwisseling Patiënt en Professional)
 
 Gelet op [artikel 1.3 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De beleidsregels voor het verstrekken van subsidies aan ziekenhuizen en de NVZ voor het stimuleren van elektronische gegevensuitwisseling tussen patiënt en zorgaanbieder worden vastgesteld overeenkomstig de bijlage bij dit besluit.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking op 1 januari 2017 en vervalt met ingang van 1 april 2020.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit wordt aangehaald als: Besluit vaststelling beleidskader subsidiëring Versnellingsprogramma Informatie-uitwisseling Patiënt en Professional.
 

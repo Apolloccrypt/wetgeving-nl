@@ -1,13 +1,39 @@
 ---
-title: "Warenwetbesluit toegankelijkheidsvoorschriften 2024"
+title: "Besluit van 3 mei 2024, houdende regels inzake de toegankelijkheid van producten in verband met de implementatie van Richtlijn (EU) 2019/882 van het Europees Parlement en de Raad van 17 april 2019 inzake toegankelijkheidsvoorschriften voor producten en diensten (PbEU 2019, L 151) (Warenwetbesluit toegankelijkheidsvoorschriften 2024)"
 identifier: "BWBR0049688"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-11-26
-laatste_update: 2025-11-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049688"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-11-26"
+last_updated: "2025-11-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049688"
+soort: "AMvB"
+stam_id: "17100123"
+version_id: "30094892"
+internal_id: "C43612881"
+label_id: "17008894"
+dtd_version: "2.0"
+original_entry_into_force: "2025-06-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049688/2025-11-26/0"
+intitule_bron: "Stb.2024-123"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-05-03"
+intitule_published: "2024-05-10"
+intitule_in_force: "2024-11-13"
+intitule_status: "goed"
+original_publication: "Stb.2024-123"
+original_signed_date: "2024-05-03"
+original_published_date: "2024-05-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2024-123"
+entry_into_force_date: "2025-06-28"
+jci_1_3: "jci1.3:c:BWBR0049688&z=2025-11-26&g=2025-11-26"
+jci_1_0: "1.0:c:BWBR0049688&g=2025-11-26"
+citeertitel_status: "officieel"
+short_title: "Warenwetbesluit toegankelijkheidsvoorschriften 2024"
+signed_date: "2024-05-03"
+entry_into_force: "2025-06-28"
 ---
-
 # Besluit van 3 mei 2024, houdende regels inzake de toegankelijkheid van producten in verband met de implementatie van Richtlijn (EU) 2019/882 van het Europees Parlement en de Raad van 17 april 2019 inzake toegankelijkheidsvoorschriften voor producten en diensten (PbEU 2019, L 151) (Warenwetbesluit toegankelijkheidsvoorschriften 2024)
 
 Op de voordracht van Onze Minister voor Langdurige Zorg van 3 juli 2023, kenmerk 3613514-1049681-WJZ;
@@ -24,7 +50,7 @@ Treedt in werking op het tijdstip waarop artikel I van de Implementatiewet toega
 
 ### Hoofdstuk 1. Inleidende bepalingen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
@@ -62,7 +88,7 @@ In dit besluit wordt verstaan onder:
 
 - **uit de handel nemen:** maatregel om te voorkomen dat producten in de toeleveringsketen op de markt wordt aangeboden.
 
-#### Artikel 2. Toepassingsgebied
+##### Artikel 2. Toepassingsgebied
 
 1. Dit besluit is van toepassing op de volgende producten:
 
@@ -86,11 +112,11 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 2. Verplichtingen voor marktdeelnemers
 
-#### Artikel 3. Verbod op het in de handel brengen van producten
+##### Artikel 3. Verbod op het in de handel brengen van producten
 
 Het is verboden om producten als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049688&hoofdstuk=1&artikel=2&z=2025-11-26&g=2025-11-26), die niet voldoen aan de in dit besluit gestelde voorschriften, in de handel te brengen.
 
-#### Artikel 4. Verplichtingen fabrikanten
+##### Artikel 4. Verplichtingen fabrikanten
 
 1. Fabrikanten voldoen bij het ontwerpen, vervaardigen en in de handel brengen van producten als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049688&hoofdstuk=1&artikel=2&z=2025-11-26&g=2025-11-26), van dit besluit aan artikel 7 van de richtlijn en aan afdeling I en II van bijlage I bij de richtlijn.
 
@@ -100,7 +126,7 @@ Het is verboden om producten als bedoeld in [artikel 2, eerste lid](https://wett
 
 4. De in artikel 7, zesde en zevende lid, van de richtlijn voorgeschreven taal is Nederlands. De in artikel 7, negende lid, en artikel 16, tweede lid, van de richtlijn voorgeschreven taal is Nederlands of Engels.
 
-#### Artikel 5. Gemachtigden
+##### Artikel 5. Gemachtigden
 
 1. Een fabrikant kan met inachtneming van artikel 8 van de richtlijn, schriftelijk een gemachtigde aanwijzen.
 
@@ -110,7 +136,7 @@ Het is verboden om producten als bedoeld in [artikel 2, eerste lid](https://wett
 
 4. De in artikel 8, tweede lid, onder a, voorgeschreven EU-conformiteitsverklaring voldoet aan artikel 16 van de richtlijn. De in artikel 16, tweede lid, van de richtlijn voorgeschreven taal is Nederlands of Engels.
 
-#### Artikel 6. Verplichtingen importeurs
+##### Artikel 6. Verplichtingen importeurs
 
 1. Importeurs voldoen bij het in de handel brengen van producten als bedoeld in artikel 2, aan artikel 9 van de richtlijn.
 
@@ -120,7 +146,7 @@ Het is verboden om producten als bedoeld in [artikel 2, eerste lid](https://wett
 
 4. De in artikel 9, zevende lid, van de richtlijn voorgeschreven EU-conformiteitsverklaring voldoet aan artikel 16 van de richtlijn. De in artikel 16, tweede lid, van de richtlijn voorgeschreven taal is Nederlands of Engels.
 
-#### Artikel 7. Verplichtingen distributeurs
+##### Artikel 7. Verplichtingen distributeurs
 
 1. Distributeurs voldoen aan artikel 10 van de richtlijn.
 
@@ -128,7 +154,7 @@ Het is verboden om producten als bedoeld in [artikel 2, eerste lid](https://wett
 
 3. In afwijking van het eerste lid voldoen distributeurs, voor zover zij ingevolge artikel 11 van de richtlijn als fabrikant worden beschouwd, aan de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049688&hoofdstuk=2&artikel=3&z=2025-11-26&g=2025-11-26) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0049688&hoofdstuk=2&artikel=4&z=2025-11-26&g=2025-11-26) van dit besluit.
 
-#### Artikel 8. Fundamentele wijziging en onevenredige last
+##### Artikel 8. Fundamentele wijziging en onevenredige last
 
 1. De in [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049688&hoofdstuk=2&artikel=4&z=2025-11-26&g=2025-11-26), [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049688&hoofdstuk=2&artikel=6&z=2025-11-26&g=2025-11-26), en [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049688&hoofdstuk=2&artikel=7&z=2025-11-26&g=2025-11-26), bedoelde toegankelijkheidsvoorschriften zijn uitsluitend van toepassing voor zover de naleving ervan:
 
@@ -146,11 +172,11 @@ Het is verboden om producten als bedoeld in [artikel 2, eerste lid](https://wett
 
 6. Marktdeelnemers, met uitzondering van micro-ondernemingen, die voor een specifiek product een beroep doen op het eerste lid, verstrekken informatie daartoe aan de in [artikel 35c, van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=35c) bedoelde ambtenaren.
 
-#### Artikel 9. Bevoegde nationale autoriteit
+##### Artikel 9. Bevoegde nationale autoriteit
 
 De bevoegde nationale autoriteit, bedoeld in de artikelen 7, achtste en negende lid, 8, tweede lid, onder b en c, 9, achtste en negende lid, 10, vijfde en zesde lid, 13, vierde en vijfde lid, van de richtlijn is Onze Minister van Volksgezondheid, Welzijn en Sport.
 
-#### Artikel 10. Vermoeden van EU-conformiteit van producten
+##### Artikel 10. Vermoeden van EU-conformiteit van producten
 
 1. Producten die voldoen aan geharmoniseerde normen of delen daarvan waarvan de referenties in het Publicatieblad van de Europese Unie zijn bekendgemaakt, worden geacht in overeenstemming te zijn met de in [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049688&hoofdstuk=2&artikel=4&z=2025-11-26&g=2025-11-26) bedoelde toegankelijkheidsvoorschriften voor zover die voorschriften door deze normen of delen daarvan worden bestreken.
 
@@ -162,17 +188,17 @@ De bevoegde nationale autoriteit, bedoeld in de artikelen 7, achtste en negende 
 
 ### Hoofdstuk 3. Overige bepalingen
 
-#### Artikel 11. Overige bepalingen in verband met markttoezicht
+##### Artikel 11. Overige bepalingen in verband met markttoezicht
 
 1. In het kader van het markttoezicht op producten handelen de in [artikel 35c van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=35c) bedoelde ambtenaren en marktdeelnemers overeenkomstig de artikelen 19, eerste en tweede lid, 20 en 22 van de richtlijn.
 
 2. Onverminderd het bij of krachtens dit besluit bepaalde en [artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), voldoen marktdeelnemers aan artikel 12 van de richtlijn.
 
-#### Artikel 12
+##### Artikel 12
 
 Indien het bij koninklijke boodschap van 14 juni 2023 ingediende voorstel van wet tot wijziging van diverse wetten ter implementatie van [Richtlijn (EU) 2019/882](32019L0882) van het Europees Parlement en de Raad van 17 april 2019 betreffende toegankelijkheidsvoorschriften voor producten en diensten (Implementatiewet toegankelijkheidsvoorschriften producten en diensten) (Kamerstukken 36 380) tot wet is of wordt verheven en [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0049571&artikel=I) van die wet in werking treedt, treedt dit besluit op hetzelfde tijdstip in werking.
 
-#### Artikel 13
+##### Artikel 13
 
 Dit besluit wordt aangehaald als Warenwetbesluit toegankelijkheidsvoorschriften 2024.
 

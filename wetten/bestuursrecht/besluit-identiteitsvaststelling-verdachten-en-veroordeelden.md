@@ -1,13 +1,39 @@
 ---
-title: "Besluit identiteitsvaststelling verdachten en veroordeelden"
+title: "Besluit van 6 augustus 2009, houdende vaststelling van het Besluit identiteitsvaststelling verdachten en veroordeelden"
 identifier: "BWBR0026302"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-07-01
-laatste_update: 2024-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026302"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-07-01"
+last_updated: "2024-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026302"
+soort: "AMvB"
+stam_id: "10162163"
+version_id: "16627192"
+internal_id: "C22893181"
+label_id: "10138364"
+dtd_version: "2.0"
+original_entry_into_force: "2009-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026302/2024-07-01/0"
+intitule_bron: "Stb.2009-352"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-08-06"
+intitule_published: "2009-08-26"
+intitule_in_force: "2009-08-26"
+intitule_status: "goed"
+original_publication: "Stb.2009-352"
+original_signed_date: "2009-08-06"
+original_published_date: "2009-08-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2009-352"
+entry_into_force_date: "2009-09-01"
+jci_1_3: "jci1.3:c:BWBR0026302&z=2024-07-01&g=2024-07-01"
+jci_1_0: "1.0:c:BWBR0026302&g=2024-07-01"
+citeertitel_status: "officieel"
+short_title: "Besluit identiteitsvaststelling verdachten en veroordeelden"
+signed_date: "2009-08-06"
+entry_into_force: "2009-09-01"
 ---
-
 # Besluit van 6 augustus 2009, houdende vaststelling van het Besluit identiteitsvaststelling verdachten en veroordeelden
 
 Op de voordracht van Onze Minister van Justitie van 17 april 2009, directie Wetgeving, nr. 5596690/09/6;
@@ -28,7 +54,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 4. De berichtenvoorziening ten behoeve van de strafrechtsketen
 
-#### Artikel 11
+##### Artikel 11
 
 1. Onze Minister van Veiligheid en Justitie is verantwoordelijk voor de inrichting en instandhouding van een berichtenvoorziening voor de strafrechtsketen met behulp waarvan de voorzieningen, bedoeld in [artikel 3, eerste lid, onder c en d, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=3) kunnen worden geraadpleegd. Hij stelt voor de berichtenvoorziening een systeembeschrijving op die de onderdelen, bedoeld in [artikel 3 van het Besluit burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022829&artikel=3), bevat en zorgt ervoor dat de berichtenvoorziening overeenkomstig deze systeembeschrijving functioneert.
 
@@ -40,21 +66,21 @@ Hebben goedgevonden en verstaan:
 
 #### § 5. Wijzigingen in andere besluiten
 
-#### Artikel 12
+##### Artikel 12
 
 Wijzigt het Besluit DNA-onderzoek in strafzaken.
 
-#### Artikel 13
+##### Artikel 13
 
 Wijzigt het Besluit kennisgeving gerechtelijke mededelingen.
 
-#### Artikel 14
+##### Artikel 14
 
 Wijzigt het Besluit politiegegevens.
 
 #### § 6. Overgangs- en slotbepalingen
 
-#### Artikel 15
+##### Artikel 15
 
 1. De vingerafdrukken, de DNA-profielen en de persoonsgegevens in de Verwijsindex Personen die voor de inwerkingtreding van dit besluit zijn verwerkt, worden vernietigd overeenkomstig de termijnen die voor de inwerkingtreding van dit besluit golden.
 
@@ -62,17 +88,17 @@ Wijzigt het Besluit politiegegevens.
 
 3. Indien tegen een verdachte na de inwerkingtreding van dit besluit een einduitspraak als bedoeld in de [artikelen 351](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=351) en [352, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=352) in verband met een ander misdrijf is gedaan of een strafbeschikking in verband met een ander misdrijf is uitgevaardigd dan het misdrijf in het kader waarvan het DNA-profiel voor de inwerkingtreding van dit besluit is verwerkt, is [artikel 18, tweede lid, van het Besluit DNA-onderzoek in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=18) van toepassing.
 
-#### Artikel 16
+##### Artikel 16
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip met uitzondering van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=4&artikel=11&z=2024-07-01&g=2024-07-01) en [12, onderdeel C, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=5&artikel=12&z=2024-07-01&g=2024-07-01), die in werking treden op 1 september 2009.
 
-#### Artikel 17
+##### Artikel 17
 
 Dit besluit wordt aangehaald als: Besluit identiteitsvaststelling verdachten en veroordeelden.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -84,7 +110,7 @@ In dit besluit wordt verstaan onder:
 
 - d. **onbekende verdachte:** een persoon van wie vingerafdrukken zijn aangetroffen op de plaats van een strafbaar feit, op het slachtoffer van een strafbaar feit of op een andere derde of een voorwerp dat in verband staat met dat strafbare feit en van wie vermoed wordt dat hij de verdachte, bedoeld in [artikel 27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=27), van dat strafbare feit is of kan zijn.
 
-#### Artikel 2
+##### Artikel 2
 
 In de strafrechtsketendatabank worden de volgende gegevens die noodzakelijk zijn voor de vaststelling van de identiteit van een verdachte of veroordeelde, verwerkt:
 
@@ -110,7 +136,7 @@ In de strafrechtsketendatabank worden de volgende gegevens die noodzakelijk zijn
 
 - k. verwijzingen naar andere bestanden waarin gegevens over hem ten behoeve van de toepassing van het strafrecht zijn verwerkt.
 
-#### Artikel 3
+##### Artikel 3
 
 Het strafrechtsketennummer mag voor het uitwisselen van persoonsgegevens van verdachten en veroordeelden ten behoeve van de uitvoering van de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) worden gebruikt in geval van:
 
@@ -128,7 +154,7 @@ Het strafrechtsketennummer mag voor het uitwisselen van persoonsgegevens van ver
 
 - g. beoordeling tot ongewenstverklaring of een aanvraag om de opheffing daarvan.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De ambtenaren die bij de Justitiële Informatiedienst werkzaam zijn, hebben rechtstreekse toegang tot de strafrechtsketendatabank, voor zover zij die toegang nodig hebben voor een goede vervulling van hun taak.
 
@@ -136,7 +162,7 @@ Het strafrechtsketennummer mag voor het uitwisselen van persoonsgegevens van ver
 
 3. Bij iedere verwerking wordt aantekening gehouden van de datum van de verwerking en de identiteit van de functionaris.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Zodra zich een omstandigheid voordoet die meebrengt dat degene wiens gegevens in de strafrechtsketendatabank zijn verwerkt, niet langer als een verdachte van een strafbaar feit kan worden aangemerkt, worden zijn gegevens, bedoeld in [artikel 2, onder g tot en met j](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=2&artikel=2&z=2024-07-01&g=2024-07-01), vernietigd. De gegevens, bedoeld in [artikel 2, onder a tot en met f en k](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=2&artikel=2&z=2024-07-01&g=2024-07-01), worden overeenkomstig de termijnen, genoemd in de [artikelen 6, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=2&artikel=6&z=2024-07-01&g=2024-07-01), en [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=2&artikel=7&z=2024-07-01&g=2024-07-01), vernietigd.
 
@@ -152,7 +178,7 @@ Het strafrechtsketennummer mag voor het uitwisselen van persoonsgegevens van ver
 
 - b. ingeval van een vergelijking als bedoeld in [artikel 9, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=3&artikel=9&z=2024-07-01&g=2024-07-01), of als bedoeld in [artikel 14, zevende lid, van het Besluit DNA-onderzoek in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=14).
 
-#### Artikel 6
+##### Artikel 6
 
 1. De gegevens, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=2&artikel=2&z=2024-07-01&g=2024-07-01), van verdachten en veroordeelden wegens misdrijven worden vernietigd:
 
@@ -168,7 +194,7 @@ Het strafrechtsketennummer mag voor het uitwisselen van persoonsgegevens van ver
 
 4. In afwijking van het eerste tot en met derde lid worden gegevens van verdachten en veroordeelden wegens misdrijven als bedoeld in de [artikelen 241](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=241), [243](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=243) en [245 tot en met 253 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=241) na tachtig jaar vernietigd.
 
-#### Artikel 7
+##### Artikel 7
 
 De gegevens, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=2&artikel=2&z=2024-07-01&g=2024-07-01), van verdachten en veroordeelden wegens overtredingen worden vernietigd:
 
@@ -180,13 +206,13 @@ De gegevens, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026
 
 - d. na het vervallen van het recht tot strafvordering door verjaring.
 
-#### Artikel 8
+##### Artikel 8
 
 Het openbaar ministerie verstrekt de Justitiële Informatiedienst de informatie die nodig is om te kunnen voldoen aan de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=2&artikel=5&z=2024-07-01&g=2024-07-01).
 
 #### § 3. De databanken met vingerafdrukken
 
-#### Artikel 9
+##### Artikel 9
 
 1. Er is een databank met vingerafdrukken die tot doel heeft de vaststelling van de identiteit van verdachten en veroordeelden te bevorderen. Deze databank bevat slechts de vingerafdrukken van:
 
@@ -222,7 +248,7 @@ Het openbaar ministerie verstrekt de Justitiële Informatiedienst de informatie 
 
 7. In geval van toepassing van het zesde lid geeft de rechter-commissaris die de opdracht tot de vergelijking heeft gegeven de gewezen verdachte, zodra het belang van het onderzoek dat toelaat, schriftelijk kennis van de uitslag van het onderzoek.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De vingerafdrukken die overeenkomstig [artikel 28, derde lid, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=28), zijn genomen, worden na het verstrijken van de termijn, bedoeld in [artikel 39, eerste of derde lid, van de Penitentiaire maatregel](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&artikel=39), vernietigd.
 
@@ -240,7 +266,7 @@ Het openbaar ministerie verstrekt de Justitiële Informatiedienst de informatie 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 7a
+##### Artikel 7a
 
 1. De gegevens, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=2&artikel=2&z=2024-07-01&g=2024-07-01), van gewezen verdachten worden vernietigd:
 
@@ -256,7 +282,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 2. De in het eerste lid, onder a, b en c, genoemde termijnen belopen zes, tien, respectievelijk twintig jaar indien de gewezen verdachte ten tijde van het begaan van het feit waarop de rechterlijke uitspraak betrekking heeft de leeftijd van achttien jaar nog niet had bereikt.
 
-#### Artikel 7b
+##### Artikel 7b
 
 1. De Justitiële Informatiedienst houdt aantekening van iedere vernietiging ingevolge de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=2&artikel=6&z=2024-07-01&g=2024-07-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=2&artikel=7&z=2024-07-01&g=2024-07-01) en [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=2&artikel=7a&z=2024-07-01&g=2024-07-01).
 
@@ -264,7 +290,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### § 3. De databanken met vingerafdrukken
 
-#### Artikel 9a
+##### Artikel 9a
 
 1. Op het verwerken van de vingerafdrukken, bedoeld in [artikel 2, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=2&artikel=2&z=2024-07-01&g=2024-07-01), van degene die niet langer als een verdachte van een strafbaar feit kan worden aangemerkt, of van degene die met goed gevolg een project als bedoeld in [artikel 77e, eerste lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77e) heeft afgerond, is [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=2&artikel=5&z=2024-07-01&g=2024-07-01) van overeenkomstige toepassing.
 
@@ -296,7 +322,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 8a
+##### Artikel 8a
 
 1. Laboratoriumonderzoek op het terrein van vingerafdrukken, waaronder alle activiteiten vallen die worden uitgevoerd bij het lokaliseren en veiligstellen van vingersporen op voorwerpen, alsmede het ontwikkelen, analyseren en interpreteren daarvan, wordt in het kader van de uitwisseling van informatie aangaande vingerafdrukken met lidstaten van de Europese Unie slechts uitgevoerd door:
 

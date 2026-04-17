@@ -1,13 +1,39 @@
 ---
-title: "Warenwetbesluit explosieveilig materieel 2016"
+title: "Besluit van 17 februari 2016, houdende vaststelling van het Warenwetbesluit explosieveilig materieel 2016 en wijziging van het Warenwetbesluit bestuurlijke boeten (Warenwetbesluit explosieveilig materieel 2016)"
 identifier: "BWBR0037644"
-categorie: "Bestuursrecht"
-publicatiedatum: 2020-02-01
-laatste_update: 2020-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037644"
+country: "nl"
+rank: "amvb"
+publication_date: "2020-02-01"
+last_updated: "2020-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037644"
+soort: "AMvB"
+stam_id: "13418033"
+version_id: "23025862"
+internal_id: "C33287211"
+label_id: "13385594"
+dtd_version: "2.0"
+original_entry_into_force: "2016-02-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037644/2020-02-01/0"
+intitule_bron: "Stb.2016-78"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-02-17"
+intitule_published: "2016-02-22"
+intitule_in_force: "2016-02-22"
+intitule_status: "goed"
+original_publication: "Stb.2016-78"
+original_signed_date: "2016-02-17"
+original_published_date: "2016-02-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2016-78"
+entry_into_force_date: "2016-02-23"
+jci_1_3: "jci1.3:c:BWBR0037644&z=2020-02-01&g=2020-02-01"
+jci_1_0: "1.0:c:BWBR0037644&g=2020-02-01"
+citeertitel_status: "officieel"
+short_title: "Warenwetbesluit explosieveilig materieel 2016"
+signed_date: "2016-02-17"
+entry_into_force: "2016-02-23"
 ---
-
 # Besluit van 17 februari 2016, houdende vaststelling van het Warenwetbesluit explosieveilig materieel 2016 en wijziging van het Warenwetbesluit bestuurlijke boeten (Warenwetbesluit explosieveilig materieel 2016)
 
 Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 18 december 2015, nr. 2015-0000309188;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister van Sociale Zaken en Werkgelegenheid 
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1. Begripsbepaling
+##### Artikel 1. Begripsbepaling
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -70,7 +96,7 @@ Hebben goedgevonden en verstaan:
 
 2. Dit besluit is niet van toepassing op producten als bedoeld in artikel 1, tweede lid, van de richtlijn.
 
-#### Artikel 2. Algemene verplichtingen
+##### Artikel 2. Algemene verplichtingen
 
 1. Het is verboden producten in de handel te brengen, in bedrijf te stellen, op de markt aan te bieden of te gebruiken die niet voldoen aan de bij of krachtens dit besluit gestelde voorschriften.
 
@@ -80,7 +106,7 @@ Hebben goedgevonden en verstaan:
 
 4. Het is verboden producten te gebruiken anders dan met inachtneming van de voorschriften bij of krachtens dit besluit gesteld met betrekking tot het voorhanden zijn van documenten.
 
-#### Artikel 3. Verplichtingen fabrikant
+##### Artikel 3. Verplichtingen fabrikant
 
 1. Fabrikanten voldoen bij het ontwerpen, vervaardigen, in de handel brengen en gebruiken voor eigen doeleinden van producten aan de volgende bepalingen van de richtlijn:
 
@@ -108,13 +134,13 @@ Hebben goedgevonden en verstaan:
 
 3. De EU-conformiteitsverklaring, bedoeld in de artikelen 6, tweede lid, en 14, tweede lid, van de richtlijn, is in ieder geval gesteld in de Nederlandse of Engelse taal.
 
-#### Artikel 4. Gemachtigde van de fabrikant
+##### Artikel 4. Gemachtigde van de fabrikant
 
 1. De fabrikant die een gemachtigde vertegenwoordiger aanstelt, voldoet en zorgt dat wordt voldaan aan artikel 7 van de richtlijn.
 
 2. De gemachtigde vertegenwoordiger, bedoeld in het eerste lid, voldoet aan de artikelen 7, tweede lid, en 11 van de richtlijn.
 
-#### Artikel 5. Verplichtingen importeur
+##### Artikel 5. Verplichtingen importeur
 
 1. Importeurs voldoen bij het in de handel brengen van producten aan de volgende bepalingen van de richtlijn:
 
@@ -134,7 +160,7 @@ Hebben goedgevonden en verstaan:
 
 2. Instructies en informatie aangaande de veiligheid, bedoeld in artikel 8, vierde lid, van de richtlijn, zijn in ieder geval gesteld in de Nederlandse taal.
 
-#### Artikel 6. Verplichtingen distributeur
+##### Artikel 6. Verplichtingen distributeur
 
 1. Distributeurs voldoen bij het op de markt aanbieden van producten aan de volgende bepalingen van de richtlijn:
 
@@ -154,19 +180,19 @@ Hebben goedgevonden en verstaan:
 
 2. Instructies en informatie aangaande de veiligheid, bedoeld in artikel 9, tweede lid, van de richtlijn, zijn in ieder geval gesteld in de Nederlandse taal.
 
-#### Artikel 7. EU-conformiteit
+##### Artikel 7. EU-conformiteit
 
 1. Producten voldoen aan de essentiële veiligheids- en gezondheidseisen als vermeld in bijlage II van de richtlijn.
 
 2. Producten die door de fabrikanten en importeurs in de handel worden gebracht, of die door de distributeurs op de markt worden aangeboden, die in overeenstemming zijn met geharmoniseerde normen of delen daarvan, waarvan de referentienummers in het Publicatieblad van de Europese Unie zijn bekendgemaakt, worden vermoed te voldoen aan de eisen die door die normen of delen daarvan worden bestreken, zoals beschreven in artikel 12 en bijlage II van de richtlijn.
 
-#### Artikel 8. CE-markering
+##### Artikel 8. CE-markering
 
 1. Producten die op de markt worden aangeboden, zijn overeenkomstig de artikelen 15 en 16 van de richtlijn, voorzien van de CE-markering.
 
 2. Producten die niet zijn voorzien van de CE-markering of anderszins niet aan dit besluit voldoen, mogen op beurzen en exposities en bij demonstraties worden tentoongesteld met inachtneming van artikel 3, derde lid, van de richtlijn.
 
-#### Artikel 9. Procedure EU-conformiteitsbeoordeling
+##### Artikel 9. Procedure EU-conformiteitsbeoordeling
 
 1. De beoordeling van de conformiteit van een apparaat, beveiligingssysteem, voorziening als bedoeld in artikel 1, eerste lid, onder b, van de richtlijn, of component, en de afgifte van verklaringen en de verlening van goedkeuring ter zake vinden plaats met inachtneming van artikel 13 van de richtlijn.
 
@@ -174,11 +200,11 @@ Hebben goedgevonden en verstaan:
 
 3. De bescheiden en briefwisseling, bedoeld in artikel 13, zesde lid, van de richtlijn, zijn in ieder geval gesteld in de Nederlandse taal of in een door de EU-conformiteitsbeoordelingsinstantie, bedoeld in het tweede lid, aanvaarde taal.
 
-#### Artikel 10. Intrekking verklaringen en goedkeuringen
+##### Artikel 10. Intrekking verklaringen en goedkeuringen
 
 De EU-conformiteitsbeoordelingsinstantie trekt een door haar afgegeven verklaring van EU-typeonderzoek of EU-ontwerponderzoek of een verleende goedkeuring van een kwaliteitssysteem als bedoeld in bijlagen III tot en met VII en IX bij de richtlijn, in als de essentiële veiligheidseisen of voorgeschreven gebruiksomstandigheden, bedoeld in bijlage II bij de richtlijn, zodanig zijn gewijzigd dat het type, ontwerp of kwaliteitssysteem niet meer voldoet aan de gewijzigde eisen of voorgeschreven gebruiksomstandigheden op het tijdstip waarop deze volgens de richtlijn van toepassing zijn.
 
-#### Artikel 11. Aanwijzingsprocedure
+##### Artikel 11. Aanwijzingsprocedure
 
 1. Bij een verzoek aan Onze Minister als bedoeld in [artikel 7a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=7a), voldoet de aanvrager aan artikel 24, eerste en tweede lid, van de richtlijn.
 
@@ -196,7 +222,7 @@ De EU-conformiteitsbeoordelingsinstantie trekt een door haar afgegeven verklarin
 
 5. Indien de EU-conformiteitsbeoordelingsinstantie geen bewijs van accreditatie kan overleggen, verschaft zij Onze Minister alle bewijsstukken die nodig zijn om aan te tonen dat zij voldoet aan de criteria, genoemd in het eerste, tweede en derde lid.
 
-#### Artikel 12. Weigering, schorsing, wijziging of intrekking aanwijzing
+##### Artikel 12. Weigering, schorsing, wijziging of intrekking aanwijzing
 
 1. Onze Minister weigert een aanwijzing als EU-conformiteitsbeoordelingsinstantie indien de aanvrager niet heeft voldaan aan het bepaalde bij of krachtens [artikel 11, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037644&artikel=11&z=2020-02-01&g=2020-02-01).
 
@@ -208,13 +234,13 @@ De EU-conformiteitsbeoordelingsinstantie trekt een door haar afgegeven verklarin
 
 - c. indien de EU-conformiteitsbeoordelingsinstantie haar wettelijke verplichtingen niet naar behoren nakomt of de taken waarvoor zij is aangewezen, niet naar behoren uitvoert.
 
-#### Artikel 13. Aanmeldende autoriteit
+##### Artikel 13. Aanmeldende autoriteit
 
 1. Bij de uitoefening van zijn taken als aanmeldende autoriteit voldoet Onze Minister aan de artikelen 19 en 25 van de richtlijn.
 
 2. Onze Minister verricht de taken, bedoeld in artikel 18, tweede lid, van de richtlijn.
 
-#### Artikel 14. Periodieke controle
+##### Artikel 14. Periodieke controle
 
 1. Tijdens de looptijd van de aanwijzing stelt Onze Minister periodiek vast of de EU-conformiteitsbeoordelingsinstantie:
 
@@ -226,31 +252,31 @@ De EU-conformiteitsbeoordelingsinstantie trekt een door haar afgegeven verklarin
 
 3. Een EU-conformiteitsbeoordelingsinstantie die haar taken waarvoor zij is aangewezen, beëindigt, of waarvan de aanwijzing door Onze Minister wordt ingetrokken, is verplicht tijdig voorafgaand aan de beëindiging van de werkzaamheden respectievelijk de datum, waarop de aanwijzing eindigt, haar dossiers over te dragen aan een andere EU-conformiteitsbeoordelingsinstantie waarmee de marktdeelnemer een overeenkomst is aangegaan. Indien er geen andere EU-conformiteitsbeoordelingsinstantie is, draagt de EU-conformiteitsbeoordelingsinstantie de dossiers over aan Onze Minister.
 
-#### Artikel 15. Wijziging richtlijn
+##### Artikel 15. Wijziging richtlijn
 
 Een wijziging van de richtlijn gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
-#### Artikel 16. Wijziging van het [Warenwetbesluit bestuurlijke boeten](https://wetten.overheid.nl/jci1.3:c:BWBR0011841)
+##### Artikel 16. Wijziging van het [Warenwetbesluit bestuurlijke boeten](https://wetten.overheid.nl/jci1.3:c:BWBR0011841)
 
 Wijzigt het Warenwetbesluit bestuurlijke boeten.
 
-#### Artikel 17. Overgangsbepaling
+##### Artikel 17. Overgangsbepaling
 
 1. Producten die voldoen aan het [Warenwetbesluit explosieveilig materieel](https://wetten.overheid.nl/jci1.3:c:BWBR0007497), zoals dat onmiddellijk vóór 20 april 2016 luidde, en vóór dat tijdstip in de handel zijn gebracht, mogen ook na dat tijdstip op de markt worden aangeboden of in bedrijf worden gesteld.
 
 2. Een certificaat afgegeven op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969), en geldend op de dag voorafgaand aan de datum van inwerkingtreding, genoemd in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037644&artikel=19&z=2020-02-01&g=2020-02-01), van dit besluit wordt geacht te zijn afgegeven met inachtneming van de bij of krachtens dit besluit gestelde bepalingen, onverminderd het bepaalde bij of krachtens de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037644&artikel=9&z=2020-02-01&g=2020-02-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037644&artikel=10&z=2020-02-01&g=2020-02-01).
 
-#### Artikel 18. Intrekking [Warenwetbesluit explosieveilig materieel](https://wetten.overheid.nl/jci1.3:c:BWBR0007497)
+##### Artikel 18. Intrekking [Warenwetbesluit explosieveilig materieel](https://wetten.overheid.nl/jci1.3:c:BWBR0007497)
 
 Het [Warenwetbesluit explosieveilig materieel](https://wetten.overheid.nl/jci1.3:c:BWBR0007497) wordt ingetrokken.
 
-#### Artikel 19. Inwerkingtreding
+##### Artikel 19. Inwerkingtreding
 
 1. De [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037644&artikel=1&z=2020-02-01&g=2020-02-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0037644&artikel=11&z=2020-02-01&g=2020-02-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0037644&artikel=12&z=2020-02-01&g=2020-02-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0037644&artikel=13&z=2020-02-01&g=2020-02-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0037644&artikel=14&z=2020-02-01&g=2020-02-01) van dit besluit treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
 2. De [artikelen 2 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0037644&artikel=2&z=2020-02-01&g=2020-02-01) en [15 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0037644&artikel=15&z=2020-02-01&g=2020-02-01) van dit besluit treden in werking met ingang van 20 april 2016.
 
-#### Artikel 20. Citeertitel
+##### Artikel 20. Citeertitel
 
 Dit besluit wordt aangehaald als: Warenwetbesluit explosieveilig materieel 2016.
 

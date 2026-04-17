@@ -1,13 +1,37 @@
 ---
 title: "Controletarieven Skal 2004"
 identifier: "BWBR0015967"
-categorie: "Overig"
-publicatiedatum: 2004-02-24
-laatste_update: 2004-02-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015967"
+country: "nl"
+rank: "zbo"
+publication_date: "2004-02-24"
+last_updated: "2004-02-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015967"
+soort: "zbo"
+stam_id: "6649543"
+version_id: "11485962"
+internal_id: "C15485461"
+label_id: "6637974"
+original_entry_into_force: "2004-02-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015967/2004-02-24/0"
+intitule_bron: "Stcrt.2004-37"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-11-27"
+intitule_published: "2004-02-24"
+intitule_in_force: "2004-02-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2004-37"
+original_signed_date: "2003-11-27"
+original_published_date: "2004-02-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2004-37-p13-SC63901"
+entry_into_force_date: "2004-02-24"
+jci_1_3: "jci1.3:c:BWBR0015967&z=2004-02-24&g=2004-02-24"
+jci_1_0: "1.0:c:BWBR0015967&g=2004-02-24"
+citeertitel_status: "redactioneel"
+signed_date: "2003-11-27"
+entry_into_force: "2004-02-24"
 ---
-
 # Controletarieven Skal 2004
 
 Tarievenblad 2004

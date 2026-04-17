@@ -1,13 +1,39 @@
 ---
-title: "Wijzigingsbesluit Besluit basisvoorwaarden kwaliteit voorschoolse educatie (aanscherping kwaliteitseisen beroepskrachten voorschoolse educatie)"
+title: "Besluit van 26 april 2017, houdende wijziging van het Besluit basisvoorwaarden kwaliteit voorschoolse educatie in verband met aanscherping van de kwaliteitseisen aan beroepskrachten voorschoolse educatie"
 identifier: "BWBR0039549"
-categorie: "Onderwijs"
-publicatiedatum: 2018-08-01
-laatste_update: 2018-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039549"
+country: "nl"
+rank: "amvb"
+publication_date: "2018-08-01"
+last_updated: "2018-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039549"
+soort: "AMvB"
+stam_id: "14003443"
+version_id: "24096992"
+internal_id: "C34626141"
+label_id: "13965274"
+dtd_version: "2.0"
+original_entry_into_force: "2017-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039549/2018-08-01/0"
+intitule_bron: "Stb.2017-184"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-04-26"
+intitule_published: "2017-05-12"
+intitule_in_force: "2017-05-12"
+intitule_status: "goed"
+original_publication: "Stb.2017-184"
+original_signed_date: "2017-04-26"
+original_published_date: "2017-05-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2017-184"
+entry_into_force_date: "2017-08-01"
+jci_1_3: "jci1.3:c:BWBR0039549&z=2018-08-01&g=2018-08-01"
+jci_1_0: "1.0:c:BWBR0039549&g=2018-08-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsbesluit Besluit basisvoorwaarden kwaliteit voorschoolse educatie (aanscherping kwaliteitseisen beroepskrachten voorschoolse educatie)"
+signed_date: "2017-04-26"
+entry_into_force: "2017-08-01"
 ---
-
 # Besluit van 26 april 2017, houdende wijziging van het Besluit basisvoorwaarden kwaliteit voorschoolse educatie in verband met aanscherping van de kwaliteitseisen aan beroepskrachten voorschoolse educatie
 
 Op de voordracht van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, van 31 januari 2017, nr. WJZ/1139788 (B7197), directie Wetgeving en Juridische Zaken;
@@ -20,11 +46,11 @@ Gezien het nader rapport van de Staatsecretaris van Onderwijs, Cultuur en Wetens
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I. Wijziging [Besluit basisvoorwaarden kwaliteit voorschoolse educatie](https://wetten.overheid.nl/jci1.3:c:BWBR0027961)
+##### Artikel I. Wijziging [Besluit basisvoorwaarden kwaliteit voorschoolse educatie](https://wetten.overheid.nl/jci1.3:c:BWBR0027961)
 
 Wijzigt het Besluit basisvoorwaarden kwaliteit voorschoolse educatie.
 
-#### Artikel II. Invoerings- en overgangsrecht
+##### Artikel II. Invoerings- en overgangsrecht
 
 1. Tot het tijdstip waarop [artikel I, onderdeel B, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039549&artikel=I&z=2018-08-01&g=2018-08-01), in werking treedt, heeft de verwijzing naar kennis en vaardigheden in artikel I, onderdeel B, onder 3 en 5, betrekking op de kennis en vaardigheden, genoemd in [artikel 4, tweede lid, onder a tot en met e, van het Besluit basisvoorwaarden kwaliteit voorschoolse educatie](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=4) zoals dat met ingang van 1 augustus 2018 komt te luiden ingevolge dit besluit, en is in artikel I, onderdeel B, onder 3, de zinsnede «, onverminderd de eerste volzin» niet van toepassing.
 
@@ -36,7 +62,7 @@ Wijzigt het Besluit basisvoorwaarden kwaliteit voorschoolse educatie.
 
 - b. op de datum van inwerkingtreding van [artikel 4, derde lid, tweede en derde volzin, van het Besluit basisvoorwaarden kwaliteit voorschoolse educatie](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=4) zoals gewijzigd door [artikel I, onderdeel B, onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039549&artikel=I&z=2018-08-01&g=2018-08-01), scholing volgt als bedoeld in artikel 4, derde lid, van genoemd besluit zoals luidend tot die datum en deze scholing binnen twee jaren na die datum met gunstig gevolg afrondt.
 
-#### Artikel III. Inwerkingtreding
+##### Artikel III. Inwerkingtreding
 
 Dit besluit treedt in werking:
 

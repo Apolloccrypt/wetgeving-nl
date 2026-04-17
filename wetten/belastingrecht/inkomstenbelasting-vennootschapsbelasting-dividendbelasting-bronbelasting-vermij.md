@@ -1,13 +1,38 @@
 ---
 title: "Inkomstenbelasting, vennootschapsbelasting, dividendbelasting, bronbelasting. Vermijden van dubbele belasting onder de toepassing van de belastingverdragen en andere regelingen ter vermijding van dubbele belasting"
 identifier: "BWBR0050635"
-categorie: "Belastingrecht"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050635"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050635"
+soort: "beleidsregel"
+stam_id: "17330193"
+version_id: "30538342"
+internal_id: "C43775191"
+label_id: "17234864"
+dtd_version: "2.0"
+original_entry_into_force: "2025-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050635/2025-01-01/0"
+intitule_bron: "Stcrt.2024-38766"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-12-13"
+intitule_published: "2024-12-27"
+intitule_in_force: "2024-12-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-38766"
+original_signed_date: "2024-12-13"
+original_published_date: "2024-12-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-38766"
+entry_into_force_date: "2025-01-01"
+jci_1_3: "jci1.3:c:BWBR0050635&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0050635&g=2025-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "2024-12-13"
+entry_into_force: "2025-01-01"
 ---
-
 # Inkomstenbelasting, vennootschapsbelasting, dividendbelasting, bronbelasting. Vermijden van dubbele belasting onder de toepassing van de belastingverdragen en andere regelingen ter vermijding van dubbele belasting
 
 De Staatssecretaris van Financiën heeft het volgende besloten.

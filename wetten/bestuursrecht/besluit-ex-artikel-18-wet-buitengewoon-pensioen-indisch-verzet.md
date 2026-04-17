@@ -1,13 +1,35 @@
 ---
-title: "Besluit ex artikel 18 Wet buitengewoon pensioen Indisch verzet"
+title: "Besluit van 23 oktober 1986, houdende regels betreffende het geneeskundig onderzoek, bedoeld in artikel 18 van de Wet buitengewoon pensioen Indisch verzet"
 identifier: "BWBR0004039"
-categorie: "Bestuursrecht"
-publicatiedatum: 2011-01-01
-laatste_update: 2011-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004039"
+country: "nl"
+rank: "amvb"
+publication_date: "2011-01-01"
+last_updated: "2011-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004039"
+soort: "AMvB"
+stam_id: "391263"
+version_id: "576532"
+internal_id: "C27837221"
+label_id: "381634"
+dtd_version: "2.0"
+original_entry_into_force: "1986-12-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004039/2011-01-01/0"
+intitule_bron: "Stb.1986-596"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1986-10-23"
+intitule_status: "goed"
+original_publication: "Stb.1986-596"
+original_signed_date: "1986-10-23"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1986-12-25"
+jci_1_3: "jci1.3:c:BWBR0004039&z=2011-01-01&g=2011-01-01"
+jci_1_0: "1.0:c:BWBR0004039&g=2011-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit ex artikel 18 Wet buitengewoon pensioen Indisch verzet"
+signed_date: "1986-10-23"
+entry_into_force: "1986-12-25"
 ---
-
 # Besluit van 23 oktober 1986, houdende regels betreffende het geneeskundig onderzoek, bedoeld in artikel 18 van de Wet buitengewoon pensioen Indisch verzet
 
 Op de voordracht van Onze Minister van Welzijn, Volksgezondheid en Cultuur van 17 juli 1986, Directie Verzetsdeelnemers en Vervolgden, nr. U 8604 I;
@@ -22,7 +44,7 @@ Gezien het nader rapport van Onze Minister van Welzijn, Volksgezondheid en Cultu
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -34,7 +56,7 @@ In dit besluit wordt verstaan onder:
 
 - d. de belanghebbende: de deelnemer aan het verzet in de zin van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003968).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het geneeskundig onderzoek bedoeld in [artikel 18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&artikel=18), geschiedt door een geneeskundig adviseur, door de Raad of de Sociale verzekeringsbank aan te wijzen, of diens plaatsvervanger.
 
@@ -42,11 +64,11 @@ In dit besluit wordt verstaan onder:
 
 3. Bij de aanvrage om pensioen voegt de belanghebbende een omschrijving van de omstandigheden waaronder de verwonding of verminking, of de ziekten of gebreken, naar zijn mening zijn ontstaan, alsmede van de nadelige gevolgen welke hij daarvan ondervindt, zo mogelijk gestaafd door bewijsstukken.
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 1. De artsen brengen zo spoedig mogelijk een met redenen omkleed rapport uit aan de Raad of de Sociale verzekeringsbank, ten minste houdende:
 
@@ -62,19 +84,19 @@ Vervallen
 
 2. Bij hun rapport leggen de artsen, desgewenst in gewaarmerkt afschrift, de stukken over waarvan voor het opmaken van het rapport is gebruik gemaakt.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het invaliditeitspercentage bedoeld in [artikel 4, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0004039&artikel=4&z=2011-01-01&g=2011-01-01), wordt bepaald in verband met het beroep dat belanghebbende vóór het intreden van zijn invaliditeit laatstelijk heeft vervuld (beroepsinvaliditeit) en met de algemene invaliditeit, met dien verstande, dat bij verschil het hoogste percentage wordt aangehouden.
 
 2. Na omscholing tot een nieuw beroep, wordt, indien dit voor belanghebbende voordeliger is, de invaliditeit bepaald naar het nieuwe beroep.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De Raad of de Sociale verzekeringsbank is bevoegd over het rapport van de artsen een rapport van één of meer andere deskundigen te vragen. Wijkt het gevoelen van deze deskundigen af van dat van de artsen, over wier rapport zij werden gehoord, dan wordt van het gevoelen van de deskundigen geen gebruik gemaakt dan nadat de artsen tegenover de Raad of de Sociale verzekeringsbank hun gevoelen nader schriftelijk hebben kunnen verdedigen.
 
 2. De Raad of de Sociale verzekeringsbank is mede bevoegd de belanghebbende nogmaals geneeskundig te doen onderzoeken of hem voor de tijd van ten hoogste drie maanden in een inrichting ter observatie te doen opnemen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De vergoeding voor de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004039&artikel=2&z=2011-01-01&g=2011-01-01), bedoelde arts wordt door de Sociale verzekeringsbank vastgesteld.
 
@@ -82,7 +104,7 @@ Vervallen
 
 3. Indien de belanghebbende tengevolge van een geneeskundig onderzoek of van een observatie inkomsten derft, wordt hem een vergoeding gegeven. Deze vergoeding wordt, gehoord de belanghebbende, door de Sociale verzekeringsbank ten laste van het Rijk vastgesteld.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst en werkt terug tot en met 1 januari 1983.
 

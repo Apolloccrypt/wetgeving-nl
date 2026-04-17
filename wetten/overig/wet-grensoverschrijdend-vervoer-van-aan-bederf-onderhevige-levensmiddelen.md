@@ -1,14 +1,37 @@
 ---
-title: "Wet grensoverschrijdend vervoer van aan bederf onderhevige levensmiddelen"
+title: "Wet van 29 juni 1978, houdende goedkeuring en uitvoering van de op 1 september 1970 te Genève tot stand gekomen Overeenkomst inzake het internationale vervoer van aan bederf onderhevige levensmiddelen en het gebruik van speciale vervoermiddelen bij dit vervoer (ATP), met Bijlagen"
 identifier: "BWBR0003186"
-categorie: "Overig"
-publicatiedatum: 1998-01-01
-laatste_update: 1998-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003186"
+country: "nl"
+rank: "wet"
+publication_date: "1998-01-01"
+last_updated: "1998-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003186"
+soort: "wet"
+stam_id: "364553"
+version_id: "536752"
+internal_id: "C536751"
+label_id: "356344"
+dtd_version: "2.0"
+original_entry_into_force: "1979-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003186/1998-01-01/0"
+intitule_bron: "Stb.1978-430"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1978-06-29"
+intitule_status: "goed"
+original_publication: "Stb.1978-430"
+original_signed_date: "1978-06-29"
+original_effect: "nieuwe-regeling"
+original_dossier: "14414"
+entry_into_force_date: "1979-06-01"
+jci_1_3: "jci1.3:c:BWBR0003186&z=1998-01-01&g=1998-01-01"
+jci_1_0: "1.0:c:BWBR0003186&g=1998-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet grensoverschrijdend vervoer van aan bederf onderhevige levensmiddelen"
+signed_date: "1978-06-29"
+entry_into_force: "1979-06-01"
 ---
-
-# Wet grensoverschrijdend vervoer van aan bederf onderhevige levensmiddelen
+# Wet van 29 juni 1978, houdende goedkeuring en uitvoering van de op 1 september 1970 te Genève tot stand gekomen Overeenkomst inzake het internationale vervoer van aan bederf onderhevige levensmiddelen en het gebruik van speciale vervoermiddelen bij dit vervoer (ATP), met Bijlagen
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,11 +41,11 @@ dat zodanige bekrachtiging het stellen van regelen ter uitvoering van de Overeen
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 De op 1 september 1970 te Genève tot stand gekomen Overeenkomst inzake het internationaal vervoer van aan bederf onderhevige levensmiddelen en het gebruik van speciale vervoermiddelen bij dit vervoer (ATP), met Bijlagen, waarvan de Engelse en Franse tekst en de vertaling in het Nederlands in **Tractatenblad** 1972, 112 zijn geplaatst, wordt goedgekeurd voor Nederland.
 
-#### Artikel 2
+##### Artikel 2
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -42,25 +65,25 @@ De op 1 september 1970 te Genève tot stand gekomen Overeenkomst inzake het inte
 
 3. In deze wet wordt onder grensoverschrijdend vervoer niet begrepen vervoer van goederen waarbij de plaats van inlading en de plaats van lossing in Nederland zijn gelegen.
 
-#### Artikel 3
+##### Artikel 3
 
 Het is verboden voor het grensoverschrijdend vervoer van aan bederf onderhevige levensmiddelen bestemde vervoermiddelen aan te duiden als "geïsoleerde", "niet mechanisch gekoelde", "mechanisch gekoelde" of "verwarmde" vervoermiddelen tenzij zij beantwoorden aan de in Bijlage 1 van de Overeenkomst vastgelegde definities en normen.
 
-#### Artikel 4
+##### Artikel 4
 
 Tijdens het grensoverschrijdend vervoer van aan bederf onderhevige levensmiddelen moeten de voorschriften in de Bijlagen 2 en 3 van de Overeenkomst worden gehandhaafd.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Voor het verrichten van grensoverschrijdend vervoer van aan bederf onderhevige levensmiddelen moet gebruik worden gemaakt van de vervoermiddelen die beantwoorden aan de in Bijlage 1 van de Overeenkomst vastgelegde definities en normen. Het voorgaande is niet van toepassing indien de temperaturen welke kunnen worden verwacht tijdens de gehele duur van het vervoer deze verplichting onnodig maken voor de naleving van de in Bijlagen 2 en 3 van de Overeenkomst vastgestelde temperatuurvoorschriften. De keuze en het gebruik van het vervoermiddel moet in elk geval zodanig zijn dat het mogelijk is de temperatuurvoorschriften tijdens de gehele duur van het vervoer in acht te nemen.
 
 2. Tevens dienen alle nodige maatregelen te worden genomen om de voorgeschreven temperaturen tijdens het vervoer te handhaven.
 
-#### Artikel 6
+##### Artikel 6
 
 Met het toezicht op de naleving van het bepaalde in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003186&artikel=3&z=1998-01-01&g=1998-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003186&artikel=4&z=1998-01-01&g=1998-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0003186&artikel=5&z=1998-01-01&g=1998-01-01), alsmede bij of krachtens [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0003186&artikel=12&z=1998-01-01&g=1998-01-01), zijn belast de bij besluit van Onze Minister van Landbouw, Natuurbeheer en Visserij aangewezen ambtenaren.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Indien tijdens het vervoer de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003186&artikel=4&z=1998-01-01&g=1998-01-01) bedoelde voorschriften niet in acht zijn genomen dan wel redelijkerwijs moet worden vermoed dat zulks niet is geschied, mogen de levensmiddelen niet in het verkeer worden gebracht dan nadat door Onze Ministers van Volksgezondheid en Milieuhygiëne en van Landbouw en Visserij daartoe machtiging is verleend. Aan de machtiging kunnen voorwaarden worden verbonden. Zij kan slechts worden geweigerd in het belang van de volksgezondheid of ter voorkoming van dierziekten.
 
@@ -68,7 +91,7 @@ Met het toezicht op de naleving van het bepaalde in de [artikelen 3](https://wet
 
 3. Het bepaalde in het eerste lid geldt niet indien en voor zover bij of krachtens enig wettelijk voorschrift de invoer of het in het verkeer brengen van een levensmiddel als in dat lid bedoeld aan een keuring of onderzoek is onderworpen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Een vervoermiddel wordt slechts geacht te beantwoorden aan de omschrijving en normen als vastgelegd in bijlage 1 van de overeenkomst indien dit vervoermiddel is gekeurd en ten blijke daarvan is voorzien van een geldig keuringscertificaat, afgegeven door een daartoe bevoegde keuringsinstelling overeenkomstig het bij of krachtens de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0003186&artikel=9&z=1998-01-01&g=1998-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0003186&artikel=10&z=1998-01-01&g=1998-01-01) bepaalde, of een fotocopie daarvan.
 
@@ -76,7 +99,7 @@ Met het toezicht op de naleving van het bepaalde in de [artikelen 3](https://wet
 
 3. Als bevoegde keuringsinstelling voor vrachtauto's wordt aangemerkt de Dienst Wegverkeer, bedoeld in [artikel 4**a** van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4a).
 
-#### Artikel 9
+##### Artikel 9
 
 1. Met betrekking tot
 
@@ -94,7 +117,7 @@ Met het toezicht op de naleving van het bepaalde in de [artikelen 3](https://wet
 
 5. Voor de behandeling van een verzoek om keuring van een vervoermiddel is een vergoeding verschuldigd. Voor goederenwagens stelt Onze Minister de hoogte van de vergoeding alsmede de wijze van betaling vast. Voor vrachtauto's stelt de Dienst Wegverkeer de hoogte van de vergoeding alsmede de wijze van betaling vast, waarbij [artikel 4**q**, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4q) van overeenkomstige toepassing is.
 
-#### Artikel 10
+##### Artikel 10
 
 Met een door de in [artikel 8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003186&artikel=8&z=1998-01-01&g=1998-01-01), bedoelde keuringsinstelling afgegeven keuringscertificaat wordt gelijkgesteld:
 
@@ -102,17 +125,17 @@ Met een door de in [artikel 8, tweede en derde lid](https://wetten.overheid.nl/j
 
 - b. een keuringscertificaat, afgegeven overeenkomstig de Bijlage I aanhangsel 1 en 2 van de Overeenkomst, door een bevoegde keuringsinstelling in een van de door Onze vorengenoemde Minister aangewezen landen, niet zijnde partij bij de Overeenkomst.
 
-#### Artikel 11
+##### Artikel 11
 
 De bestuurder van een vrachtauto waarmede door een in Nederland gevestigde ondernemer grensoverschrijdend vervoer van aan bederf onderhevige levensmiddelen wordt verricht is verplicht in het buitenland op eerste vordering van de in het betrokken land bevoegde ambtenaren de vrachtauto te doen stilhouden en het keuringscertificaat voor het desbetreffende vervoermiddel of een fotocopie daarvan behoorlijk ter inzage af te geven.
 
-#### Artikel 12
+##### Artikel 12
 
 Bij algemene maatregel van bestuur kunnen voorschriften worden gegeven ter uitvoering van deze wet dan wel de Overeenkomst of regelingen als bedoeld in artikel 7 van de Overeenkomst.
 
 Daarbij kan worden afgeweken van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003186&artikel=3&z=1998-01-01&g=1998-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003186&artikel=4&z=1998-01-01&g=1998-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0003186&artikel=7&z=1998-01-01&g=1998-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0003186&artikel=8&z=1998-01-01&g=1998-01-01), [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003186&artikel=9&z=1998-01-01&g=1998-01-01), en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0003186&artikel=10&z=1998-01-01&g=1998-01-01).
 
-#### Artikel 13
+##### Artikel 13
 
 1. Het bepaalde bij of krachtens de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003186&artikel=3&z=1998-01-01&g=1998-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003186&artikel=4&z=1998-01-01&g=1998-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0003186&artikel=5&z=1998-01-01&g=1998-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0003186&artikel=8&z=1998-01-01&g=1998-01-01), en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0003186&artikel=12&z=1998-01-01&g=1998-01-01) is mede van toepassing op grensoverschrijdend vervoer, dat door een in Nederland gevestigde ondernemer geheel of ten dele in het buitenland wordt verricht.
 
@@ -122,11 +145,11 @@ Daarbij kan worden afgeweken van de [artikelen 3](https://wetten.overheid.nl/jci
 
 4. Het bepaalde bij of krachtens de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003186&artikel=3&z=1998-01-01&g=1998-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003186&artikel=4&z=1998-01-01&g=1998-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0003186&artikel=5&z=1998-01-01&g=1998-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0003186&artikel=8&z=1998-01-01&g=1998-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0003186&artikel=11&z=1998-01-01&g=1998-01-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0003186&artikel=12&z=1998-01-01&g=1998-01-01) is niet van toepassing op vervoer over land dat zonder tussentijdse verlading van de goederen met gebruikmaking van laadkisten geschiedt, mits deze transporten worden voorafgegaan of gevolgd door zeereizen anders dan die welke bedoeld in het tweede lid van dit artikel.
 
-#### Artikel 14
+##### Artikel 14
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 15
+##### Artikel 15
 
 Deze wet kan worden aangehaald onder de titel "Wet grensoverschrijdend vervoer van aan bederf onderhevige levensmiddelen".
 

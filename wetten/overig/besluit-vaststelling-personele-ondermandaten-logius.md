@@ -1,13 +1,35 @@
 ---
 title: "Besluit vaststelling personele ondermandaten Logius"
 identifier: "BWBR0049684"
-categorie: "Overig"
-publicatiedatum: 2026-03-07
-laatste_update: 2026-03-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049684"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-03-07"
+last_updated: "2026-03-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049684"
+soort: "ministeriele-regeling"
+stam_id: "17099443"
+version_id: "30093972"
+internal_id: "C43120161"
+label_id: "17008074"
+dtd_version: "2.0"
+original_entry_into_force: "2024-03-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049684/2026-03-07/0"
+intitule_bron: "Stcrt.2024-8257"
+intitule_effect: "nieuw"
+intitule_published: "2024-03-27"
+intitule_in_force: "2024-03-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-8257"
+original_published_date: "2024-03-27"
+original_effect: "nieuw"
+original_url_id: "stcrt-2024-8257"
+entry_into_force_date: "2024-03-27"
+jci_1_3: "jci1.3:c:BWBR0049684&z=2026-03-07&g=2026-03-07"
+jci_1_0: "1.0:c:BWBR0049684&g=2026-03-07"
+citeertitel_status: "officieel"
+entry_into_force: "2024-03-27"
 ---
-
 # Besluit vaststelling personele ondermandaten Logius
 
 gelet op [artikel 6.5 van het Mandaatbesluit BZK 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048593&artikel=6.5),

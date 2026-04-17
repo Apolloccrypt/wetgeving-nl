@@ -1,20 +1,43 @@
 ---
-title: "Beleidsregel handhaving verordening (EG) nr. 261/2004 en verordening (EG) nr. 1107/2006 inzake passagiersrechten luchtvaart"
+title: "Beleidsregel van de Minister van Infrastructuur en Waterstaat, houdende bepalingen in verband met de handhaving van twee Europese verordeningen inzake passagiersrechten in de luchtvaart (Beleidsregel handhaving verordening (EG) nr. 261/2004 en verordening (EG) nr. 1107/2006 inzake passagiersrechten luchtvaartpassagiers)"
 identifier: "BWBR0043670"
-categorie: "Bestuursrecht"
-publicatiedatum: 2020-06-19
-laatste_update: 2020-06-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043670"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2020-06-19"
+last_updated: "2020-06-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043670"
+soort: "beleidsregel"
+stam_id: "15498323"
+version_id: "26782732"
+internal_id: "C37956281"
+label_id: "15440954"
+dtd_version: "2.0"
+original_entry_into_force: "2020-06-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043670/2020-06-19/0"
+intitule_bron: "Stcrt.2020-32676"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2020-06-18"
+intitule_in_force: "2020-06-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-32676"
+original_published_date: "2020-06-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-32676"
+entry_into_force_date: "2020-06-19"
+jci_1_3: "jci1.3:c:BWBR0043670&z=2020-06-19&g=2020-06-19"
+jci_1_0: "1.0:c:BWBR0043670&g=2020-06-19"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel handhaving verordening (EG) nr. 261/2004 en verordening (EG) nr. 1107/2006 inzake passagiersrechten luchtvaart"
+entry_into_force: "2020-06-19"
 ---
-
 # Beleidsregel van de Minister van Infrastructuur en Waterstaat, houdende bepalingen in verband met de handhaving van twee Europese verordeningen inzake passagiersrechten in de luchtvaart (Beleidsregel handhaving verordening (EG) nr. 261/2004 en verordening (EG) nr. 1107/2006 inzake passagiersrechten luchtvaartpassagiers)
 
 Gelet op de artikelen 2, onderdeel j, 4, derde lid, 5, derde lid en 7 van [Verordening (EG) nr. 261/2004](32004R0261) van het Europees Parlement en de Raad van 11 februari 2004 tot vaststelling van gemeenschappelijke regels inzake compensatie en bijstand aan luchtreizigers bij instapweigering en annulering of langdurige vertraging van vluchten en tot intrekking van [Verordening (EEG) nr. 295/91](31991R0295) (PbEU 2004, L 46), [verordening (EG) nr. 1107/2006](32006R1107) van het Europees Parlement en de Raad van de Europese Unie van 5 juli 2006 inzake de rechten van gehandicapten en personen met beperkte mobiliteit die per luchtvervoer reizen (PbEU 2006, L 204), de [artikelen 11.15](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=11.15) en [11.16 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=11.16) en [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -26,7 +49,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - d. **verordening PRM:** [verordening (EG) nr. 1107/2006](32006R1107) van het Europees parlement en de Raad van 5 juli 2006 inzake de rechten van gehandicapten en personen met beperkte mobiliteit die per luchtvervoer reizen (PbEU2006, L204).
 
-#### Artikel 2
+##### Artikel 2
 
 Redelijke gronden voor de weigering om een passagier op een vlucht te vervoeren als bedoeld in artikel 2, onderdeel j, van verordening DBC zijn in elk geval:
 
@@ -36,7 +59,7 @@ Redelijke gronden voor de weigering om een passagier op een vlucht te vervoeren 
 
 - c. de gezondheidstoestand van de passagier levert, gelet op zijn aanwezigheid in het vliegtuig, een gezondheidsrisico voor hemzelf, voor zijn medepassagiers of voor de bemanning op.
 
-#### Artikel 3
+##### Artikel 3
 
 Van buitengewone omstandigheden is in elk geval sprake in de navolgende gevallen:
 
@@ -54,7 +77,7 @@ Van buitengewone omstandigheden is in elk geval sprake in de navolgende gevallen
 
 - g. wanneer een staking gevolgen heeft voor de vluchtuitvoering van de luchtvaartmaatschappij die de vlucht uitvoert, indien die vanwege haar aard of oorsprong niet inherent is aan de normale uitoefening van het bedrijf van de betrokken luchtvaartmaatschappij en waarop laatstgenoemde geen daadwerkelijke invloed kan uitoefenen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Bij de berekening van een bestuurlijke boete als bedoeld in [artikel 11.16 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=11.16) worden voor alle overtredingen van de verordening DBC en verordening PRM als uitgangspunt gehanteerd:
 
@@ -64,7 +87,7 @@ Van buitengewone omstandigheden is in elk geval sprake in de navolgende gevallen
 
 2. De totale boete die kan worden opgelegd per vlucht, is niet hoger dan het bedrag genoemd in [artikel 11.16, derde lid onder e, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=11.16) (€ 74.000).
 
-#### Artikel 5
+##### Artikel 5
 
 1. Indien een inspecteur heeft geconstateerd dat een luchtvaartmaatschappij de compensatieplicht overtreedt bij een instapweigering kan de Minister van Infrastructuur en Waterstaat aan de desbetreffende luchtvaartmaatschappij een bestuurlijke boete opleggen, zoals omschreven in de boetecatalogus in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0043670&bijlage=1&z=2020-06-19&g=2020-06-19) bij deze beleidsregel onder nummer DBC 7.1.1.
 
@@ -72,11 +95,11 @@ Van buitengewone omstandigheden is in elk geval sprake in de navolgende gevallen
 
 3. Compensatie mag in de vorm van een directe storting op de bankrekening of creditcardrekening van de passagier, het uitreiken van een creditcard met tegoed, in contanten of na voorafgaande goedkeuring van de passagier in de vorm van een tegoedbon met een waarde van minstens de van toepassing zijnde compensatiebedragen.
 
-#### Artikel 6
+##### Artikel 6
 
 Een luchtvaartmaatschappij, een luchthaven, een agent van een luchtvaartmaatschappij dan wel een touroperator worden in de gelegenheid gesteld om haar zienswijze naar voren te brengen over het voornemen tot het opleggen van een bestuurlijke boete.
 
-#### Artikel 7
+##### Artikel 7
 
 Indien een inspecteur heeft geconstateerd dat een luchtvaartmaatschappij de compensatieplicht stelselmatig overtreedt bij vertraagde of geannuleerde vluchten, zoals omgeschreven in de nummers DBC 7.1.2 of DBC 7.1.3 van de boetecatalogus in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0043670&bijlage=1&z=2020-06-19&g=2020-06-19) bij deze beleidsregel, kan de Minister van Infrastructuur en Waterstaat aan de desbetreffende luchtvaartmaatschappij een bestuurlijke boete opleggen per vlucht volgens de volgende tabel:
 
@@ -90,15 +113,15 @@ Indien een inspecteur heeft geconstateerd dat een luchtvaartmaatschappij de comp
 
 Deze tabel wordt toegepast voor alle vluchtafstanden uit verordening DBC, ongeacht het compensatiebedrag. Met het aantal stoelen op de vlucht wordt bedoeld het aantal stoelen in het vliegtuig dat voor de vlucht wordt ingezet die commercieel beschikbaar zijn, ongeacht de bezetting.
 
-#### Artikel 8
+##### Artikel 8
 
 De [Beleidsregel handhaving Verordening (EG) nr. 261/2004 inzake passagiersrechten luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0030430) wordt ingetrokken.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel handhaving [verordening (EG) nr. 261/2004](32004R0261) en [verordening (EG) nr. 1107/2006](32006R1107) inzake passagiersrechten luchtvaart.
 

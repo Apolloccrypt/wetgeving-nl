@@ -1,20 +1,46 @@
 ---
-title: "Besluit verlengbaarheid vergunningen 2.100 MHz 2014"
+title: "Besluit van de Minister van Economische Zaken van 11 december 2014, nr. DGETM-TM / 14200794, tot verlengbaarheid van de vergunningen voor de frequenties in de 2.100 MHz-band (Besluit verlengbaarheid vergunningen 2.100 MHz 2014)"
 identifier: "BWBR0035914"
-categorie: "Bestuursrecht"
-publicatiedatum: 2014-12-17
-laatste_update: 2014-12-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035914"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2014-12-17"
+last_updated: "2014-12-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035914"
+soort: "ministeriele-regeling"
+stam_id: "12878703"
+version_id: "21894642"
+internal_id: "C31421211"
+label_id: "12848184"
+dtd_version: "2.0"
+original_entry_into_force: "2014-12-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035914/2014-12-17/0"
+intitule_bron: "Stcrt.2014-35958"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-12-11"
+intitule_published: "2014-12-16"
+intitule_in_force: "2014-12-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-35958"
+original_signed_date: "2014-12-11"
+original_published_date: "2014-12-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-35958"
+entry_into_force_date: "2014-12-17"
+jci_1_3: "jci1.3:c:BWBR0035914&z=2014-12-17&g=2014-12-17"
+jci_1_0: "1.0:c:BWBR0035914&g=2014-12-17"
+citeertitel_status: "officieel"
+short_title: "Besluit verlengbaarheid vergunningen 2.100 MHz 2014"
+signed_date: "2014-12-11"
+entry_into_force: "2014-12-17"
 ---
-
 # Besluit van de Minister van Economische Zaken van 11 december 2014, nr. DGETM-TM / 14200794, tot verlengbaarheid van de vergunningen voor de frequenties in de 2.100 MHz-band (Besluit verlengbaarheid vergunningen 2.100 MHz 2014)
 
 Gelet op [artikel 18, tweede, derde, en vierde lid, van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=18);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. De vergunningen, genoemd in kolom 1 van tabel 1, zijn verlengbaar om redenen van algemeen maatschappelijk en economisch belang als bedoeld in [artikel 18, tweede lid, onderdeel a, van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=18).
 
@@ -31,15 +57,15 @@ Besluit:
 | AT-EZ/6781557 – E2 | Vodafone Libertel B.V. |
 | AT-EZ/6781535 – E1 | KPN B.V. |
 
-#### Artikel 2
+##### Artikel 2
 
 De vergunningen, genoemd in tabel 1 van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035914&artikel=1&z=2014-12-17&g=2014-12-17), worden gewijzigd overeenkomstig de wijzigingen aangegeven in de [bijlagen A tot en met F](https://wetten.overheid.nl/jci1.3:c:BWBR0035914&bijlage=A&z=2014-12-17&g=2014-12-17), met dien verstande dat de houders van de vergunningen met kenmerk 2000/DGTP/00/3951/TvM en kenmerk 2000/DGTP/00/3949/TvM vanwege het bevorderen van een doelmatig frequentiegebruik beiden de mogelijkheid hebben om bij de aanvraag tot verlenging te kiezen het frequentiegebruik van het gepaarde spectrum met 2 keer 0,3 MHz te vergroten, zoals aangegeven in artikel 2 van de [bijlagen A](https://wetten.overheid.nl/jci1.3:c:BWBR0035914&bijlage=A&z=2014-12-17&g=2014-12-17) en [D](https://wetten.overheid.nl/jci1.3:c:BWBR0035914&bijlage=D&z=2014-12-17&g=2014-12-17).
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit wordt aangehaald als: Besluit verlengbaarheid vergunningen 2.100 MHz 2014.
 

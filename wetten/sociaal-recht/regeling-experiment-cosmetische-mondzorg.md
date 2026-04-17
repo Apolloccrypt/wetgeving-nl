@@ -1,20 +1,45 @@
 ---
 title: "Regeling experiment cosmetische mondzorg"
 identifier: "BWBR0047733"
-categorie: "Sociaal recht"
-publicatiedatum: 2023-01-01
-laatste_update: 2023-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047733"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-01-01"
+last_updated: "2023-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047733"
+soort: "zbo"
+stam_id: "16630343"
+version_id: "29164372"
+internal_id: "C41435041"
+label_id: "16548984"
+dtd_version: "2.0"
+original_entry_into_force: "2023-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047733/2023-01-01/0"
+intitule_bron: "Stcrt.2022-35134"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-12-06"
+intitule_published: "2022-12-29"
+intitule_in_force: "2022-12-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-35134"
+original_signed_date: "2022-12-06"
+original_published_date: "2022-12-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-35134"
+entry_into_force_date: "2023-01-01"
+jci_1_3: "jci1.3:c:BWBR0047733&z=2023-01-01&g=2023-01-01"
+jci_1_0: "1.0:c:BWBR0047733&g=2023-01-01"
+citeertitel_status: "officieel"
+signed_date: "2022-12-06"
+entry_into_force: "2023-01-01"
 ---
-
 # Regeling experiment cosmetische mondzorg
 
 Gelet op [artikel 36, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=36), jo. [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=37), jo. [artikel 38, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=38), jo. [artikelen 62](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=62) en [68, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=68) (Wmg), is de Nederlandse Zorgautoriteit (NZa) bevoegd tot het stellen van regels op het gebied van cosmetische mondzorg.
 
 besluit
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt, tenzij anders vermeld, verstaan onder:
 
@@ -38,7 +63,7 @@ In deze regeling wordt, tenzij anders vermeld, verstaan onder:
 
 - **kwartaal:** een periode van drie kalendermaanden, startend op 1 januari, 1 april, 1 juli of 1 oktober.
 
-#### Artikel 2. Doel van de regeling
+##### Artikel 2. Doel van de regeling
 
 Deze regeling beoogt de navolgende voorschriften met betrekking tot de verlening van cosmetische mondzorg onder het experiment te stellen:
 
@@ -50,11 +75,11 @@ Deze regeling beoogt de navolgende voorschriften met betrekking tot de verlening
 
 - –. transparantievoorschriften, zoals genoemd in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0047733&artikel=8&z=2023-01-01&g=2023-01-01) van deze regeling.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze regeling is van toepassing op zorgaanbieders die cosmetische mondzorg leveren en de cosmetische mondzorgprestaties, die zijn opgenomen in de [Beleidsregel experiment cosmetische mondzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0047734), in rekening brengen.
 
-#### Artikel 4. Meldplicht
+##### Artikel 4. Meldplicht
 
 1. Een zorgaanbieder die deel wil nemen aan het experiment cosmetische mondzorg (hierna: de ‘deelnemende zorgaanbieder(s)’) dient zich, voorafgaand aan het leveren van zorg in het kader van de [Beleidsregel experiment cosmetische mondzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0047734), aan te melden bij de NZa. Aanmelden kan door de volgende gegevens aan te leveren bij de NZa:
 
@@ -70,7 +95,7 @@ Deze regeling is van toepassing op zorgaanbieders die cosmetische mondzorg lever
 
 2. De wijze waarop de informatie in dit artikel moet worden aangeleverd staat beschreven in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0047733&artikel=6&z=2023-01-01&g=2023-01-01).
 
-#### Artikel 5. Administratie, registratie- en aanleververplichtingen
+##### Artikel 5. Administratie, registratie- en aanleververplichtingen
 
 1. **Administratieverplichting**
 
@@ -116,7 +141,7 @@ De gegevens die op grond van artikel 5.2 zijn geregistreerd worden per kwartaal 
 
 De wijze waarop de informatie in dit artikel moet worden aangeleverd staat beschreven in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0047733&artikel=6&z=2023-01-01&g=2023-01-01).
 
-#### Artikel 6. Wijze van melden en aanlevering
+##### Artikel 6. Wijze van melden en aanlevering
 
 1. **Wijze van melden artikel 4.1**
 
@@ -126,7 +151,7 @@ Het aanmelden als deelnemende zorgaanbieder aan het experiment cosmetische mondz
 
 De NZa stuurt na afloop van ieder kwartaal een bericht aan de deelnemende zorgaanbieders van het experiment cosmetische mondzorg. Via dat bericht krijgt de deelnemende zorgaanbieder de mogelijkheid om het format te downloaden, in te vullen en vervolgens, binnen een termijn van één maand na versturing van het bericht, te uploaden om deze aan te leveren bij de NZa. Het format betreft een MS Excel bestand.
 
-#### Artikel 7. Declaratievoorschriften
+##### Artikel 7. Declaratievoorschriften
 
 1. De zorgaanbieder maakt in zijn declaratie aan een patiënt zichtbaar welk tarief voor een prestatie in rekening is gebracht.
 
@@ -150,7 +175,7 @@ De NZa stuurt na afloop van ieder kwartaal een bericht aan de deelnemende zorgaa
 
 5. De prestatie wordt door de zorgaanbieder, of via een factoringmaatschappij, of via een ziektekostenverzekeraar éénmaal in rekening gebracht aan de patiënt.
 
-#### Artikel 8. Transparantievoorschriften
+##### Artikel 8. Transparantievoorschriften
 
 1. **Informatie over tarieven**
 
@@ -178,7 +203,7 @@ De prijsopgave en de wijze waarop de zorgaanbieder hierover communiceert voldoen
 
 - h. De zorgaanbieder legt de gemaakte afspraken met betrekking tot de prijsopgave, en de prijsopgave zelf, vast in de administratie.
 
-#### Artikel 9. Inwerkingtreding, bekendmaking, terugwerkende kracht en citeertitel
+##### Artikel 9. Inwerkingtreding, bekendmaking, terugwerkende kracht en citeertitel
 
 Deze regeling treedt in werking met ingang van 1 januari 2023 en vervalt met ingang van 1 januari 2028.
 

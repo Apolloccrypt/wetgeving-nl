@@ -1,13 +1,38 @@
 ---
 title: "Vreemdelingencirculaire 2000 (C)"
 identifier: "BWBR0012288"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-04-04
-laatste_update: 2026-04-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012288"
+country: "nl"
+rank: "circulaire"
+publication_date: "2026-04-04"
+last_updated: "2026-04-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012288"
+soort: "circulaire"
+stam_id: "7254803"
+version_id: "21331862"
+internal_id: "C30632461"
+label_id: "7264674"
+dtd_version: "2.0"
+original_entry_into_force: "2014-03-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012288/2026-04-04/0"
+intitule_bron: "Supplement-Stcrt.2001-64"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-03-02"
+intitule_published: "2001-03-30"
+intitule_in_force: "2001-03-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-8529"
+original_signed_date: "2014-03-20"
+original_published_date: "2014-03-28"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2014-8529"
+entry_into_force_date: "2014-03-29"
+jci_1_3: "jci1.3:c:BWBR0012288&z=2026-04-04&g=2026-04-04"
+jci_1_0: "1.0:c:BWBR0012288&g=2026-04-04"
+citeertitel_status: "redactioneel"
+signed_date: "2014-03-20"
+entry_into_force: "2014-03-29"
 ---
-
 # Vreemdelingencirculaire 2000 (C)
 
 ### C1. Asiel algemeen

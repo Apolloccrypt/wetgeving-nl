@@ -1,13 +1,39 @@
 ---
-title: "Besluit EU-verordeningen Wft"
+title: "Besluit van 15 maart 2024, houdende regels met betrekking tot de uitvoering en handhaving van EU-verordeningen met betrekking tot de financiële markten of de op die markten werkzame personen (Besluit EU-verordeningen Wft)"
 identifier: "BWBR0049497"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-07-15
-laatste_update: 2025-07-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049497"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-07-15"
+last_updated: "2025-07-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049497"
+soort: "AMvB"
+stam_id: "17057973"
+version_id: "30649312"
+internal_id: "C43940061"
+label_id: "16967814"
+dtd_version: "2.0"
+original_entry_into_force: "2025-02-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049497/2025-07-15/0"
+intitule_bron: "Stb.2024-68"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-03-15"
+intitule_published: "2024-03-25"
+intitule_in_force: "2024-03-25"
+intitule_status: "goed"
+original_publication: "Stb.2025-67"
+original_signed_date: "2025-02-26"
+original_published_date: "2025-03-17"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2025-67"
+entry_into_force_date: "2025-02-26"
+jci_1_3: "jci1.3:c:BWBR0049497&z=2025-07-15&g=2025-07-15"
+jci_1_0: "1.0:c:BWBR0049497&g=2025-07-15"
+citeertitel_status: "officieel"
+short_title: "Besluit EU-verordeningen Wft"
+signed_date: "2025-02-26"
+entry_into_force: "2025-02-26"
 ---
-
 # Besluit van 15 maart 2024, houdende regels met betrekking tot de uitvoering en handhaving van EU-verordeningen met betrekking tot de financiële markten of de op die markten werkzame personen (Besluit EU-verordeningen Wft)
 
 Op de voordracht van Onze Minister van Financiën van 2 januari 2024, 2023-0000276513, directie Financiële Markten;
@@ -20,11 +46,11 @@ Gezien het nader rapport van Onze Minister van Financiën van 14 maart 2023, 202
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1. Begripsbepaling
+##### Artikel 1. Begripsbepaling
 
 In dit besluit wordt onder wet verstaan: [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368).
 
-#### Artikel 2. Aanwijzing bevoegde autoriteiten
+##### Artikel 2. Aanwijzing bevoegde autoriteiten
 
 1. Als bevoegde autoriteiten, belast met de uitvoering en handhaving van de in de bijlagen bij dit besluit genoemde verordeningen, worden aangewezen de in de desbetreffende bijlagen vermelde bestuursorganen.
 
@@ -32,7 +58,7 @@ In dit besluit wordt onder wet verstaan: [Wet op het financieel toezicht](https:
 
 3. Als afwikkelingsautoriteit wordt, in de gevallen vermeld in de bijlagen, aangewezen de Nederlandsche Bank.
 
-#### Artikel 3. Handhaving
+##### Artikel 3. Handhaving
 
 1. De bevoegde autoriteit kan, ter handhaving van de in de bijlagen aangegeven voorschriften, een last onder dwangsom of een bestuurlijke boete opleggen wegens overtreding van het bij of krachtens die voorschriften bepaalde.
 
@@ -46,11 +72,11 @@ In dit besluit wordt onder wet verstaan: [Wet op het financieel toezicht](https:
 
 - c. de bevoegdheid, bedoeld in [artikel 1:97, derde lid, aanhef en onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:97), om besluiten tot het opleggen van een bestuurlijke boete ter zake van een overtreding, gerangschikt in de tweede boetecategorie, zo spoedig mogelijk openbaar te maken.
 
-#### Artikel 4. Buitengerechtelijke geschillenbeslechting
+##### Artikel 4. Buitengerechtelijke geschillenbeslechting
 
 Als orgaan, belast met de in een verordening voorgeschreven buitengerechtelijke geschillenbeslechting, wordt aangewezen het in de desbetreffende bijlage vermelde orgaan.
 
-#### Artikel 5. Overige bepalingen
+##### Artikel 5. Overige bepalingen
 
 De toepassing van een verordening geschiedt met inachtneming van de in de desbetreffende bijlage opgenomen regels:
 
@@ -58,23 +84,23 @@ De toepassing van een verordening geschiedt met inachtneming van de in de desbet
 
 - b. voor de goede uitvoering van de verordening.
 
-#### Artikel 6. Wijziging [Besluit Gedragstoezicht financiële ondernemingen Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020421)
+##### Artikel 6. Wijziging [Besluit Gedragstoezicht financiële ondernemingen Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020421)
 
 Wijzigt het Besluit Gedragstoezicht financiële ondernemingen Wft.
 
-#### Artikel 7. Wijziging [Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420)
+##### Artikel 7. Wijziging [Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420)
 
 Wijzigt het Besluit prudentiële regels Wft.
 
-#### Artikel 8. Wijziging [Besluit marktmisbruik Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020417)
+##### Artikel 8. Wijziging [Besluit marktmisbruik Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020417)
 
 Wijzigt het Besluit marktmisbruik Wft.
 
-#### Artikel 9. Wijziging [Wijzigingsbesluit financiële markten 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0049313)
+##### Artikel 9. Wijziging [Wijzigingsbesluit financiële markten 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0049313)
 
 Wijzigt het Wijzigingsbesluit financiële markten 2023.
 
-#### Artikel 10. Intrekken besluiten
+##### Artikel 10. Intrekken besluiten
 
 De volgende besluiten worden ingetrokken:
 
@@ -84,15 +110,15 @@ De volgende besluiten worden ingetrokken:
 
 - c. het [Uitvoeringsbesluit verordening prudentiële vereisten beleggingsondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0045382).
 
-#### Artikel 11. Overgangsrecht
+##### Artikel 11. Overgangsrecht
 
 Op overtredingen van verordeningen als bedoeld in het [Besluit uitvoering EU-verordeningen financiële markten](https://wetten.overheid.nl/jci1.3:c:BWBR0032230), begaan of aangevangen voor de inwerkingtreding van dit besluit, blijft het Besluit uitvoering EU-verordeningen financiële markten zoals dat onmiddellijk voor inwerkingtreding van dit besluit luidde van toepassing.
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit EU-verordeningen Wft.
 

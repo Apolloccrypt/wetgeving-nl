@@ -1,14 +1,42 @@
 ---
-title: "Wet aanpassing fonds voor gemene rekening en vrijgestelde beleggingsinstelling"
+title: "Wet van 20 december 2023 tot wijziging van de Wet op de vennootschapsbelasting 1969 en enige andere wetten tot aanpassing van de regelingen voor het fonds voor gemene rekening en de vrijgestelde beleggingsinstelling (Wet aanpassing fonds voor gemene rekening en vrijgestelde beleggingsinstelling)"
 identifier: "BWBR0049131"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049131"
+country: "nl"
+rank: "wet"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049131"
+soort: "wet"
+stam_id: "16978433"
+version_id: "31251412"
+internal_id: "C44690461"
+label_id: "16888894"
+dtd_version: "2.0"
+original_entry_into_force: "2025-12-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049131/2026-01-01/0"
+intitule_bron: "Stb.2023-503"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-12-20"
+intitule_published: "2023-12-27"
+intitule_in_force: "2023-12-27"
+intitule_status: "goed"
+original_publication: "Stb.2025-445"
+original_signed_date: "2025-12-17"
+original_published_date: "2025-12-23"
+original_effect: "structuurwijziging"
+original_dossier: "36813"
+original_url_id: "stb-2025-445"
+entry_into_force_date: "2025-12-17"
+entry_into_force_dossier: "36813"
+jci_1_3: "jci1.3:c:BWBR0049131&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0049131&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet aanpassing fonds voor gemene rekening en vrijgestelde beleggingsinstelling"
+signed_date: "2025-12-17"
+entry_into_force: "2025-12-17"
 ---
-
-# Wet aanpassing fonds voor gemene rekening en vrijgestelde beleggingsinstelling
+# Wet van 20 december 2023 tot wijziging van de Wet op de vennootschapsbelasting 1969 en enige andere wetten tot aanpassing van de regelingen voor het fonds voor gemene rekening en de vrijgestelde beleggingsinstelling (Wet aanpassing fonds voor gemene rekening en vrijgestelde beleggingsinstelling)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,19 +44,19 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is om in enkele belasti
 
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Invorderingswet 1990.
 
-#### Artikel IV
+##### Artikel IV
 
 1. Voor de toepassing van de [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672) wordt een fonds voor gemene rekening of een daarmee qua rechtsvorm vergelijkbaar naar het recht van een andere staat opgericht of aangegaan lichaam dat als gevolg van deze wet met ingang van 1 januari 2025 niet langer onderworpen is aan de vennootschapsbelasting op grond van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=2) of [3 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=3), geacht op het tijdstip onmiddellijk voorafgaand aan 1 januari 2025 al zijn vermogensbestanddelen tegen de waarde in het economische verkeer te hebben overgedragen aan de natuurlijk personen of lichamen die participeren in dat fonds voor gemene rekening naar rato van ieders gerechtigdheid en wordt dat fonds voor gemene rekening geacht te zijn opgehouden in Nederland belastbare winst te genieten.
 
@@ -40,7 +68,7 @@ Wijzigt de Invorderingswet 1990.
 
 5. Een fonds voor gemene rekening als bedoeld in het eerste lid dat op het tijdstip onmiddellijk voorafgaand aan 1 januari 2025 is aangemerkt als beleggingsinstelling als bedoeld in [artikel 28 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=28) wordt geacht op het tijdstip onmiddellijk voorafgaand aan 1 januari 2025 te hebben voldaan aan de uitdelingsverplichting, bedoeld in artikel 28, tweede lid, onderdeel b, van de Wet op de vennootschapsbelasting 1969, met betrekking tot het laatste boekjaar of de laatste boekjaren dat is, onderscheidenlijk die zijn, aangevangen voor 1 januari 2025 en ter zake waarvan de achtmaandentermijn, bedoeld in artikel 28, tweede lid, onderdeel b, van die wet, eindigt op of na 1 januari 2025.
 
-#### Artikel V
+##### Artikel V
 
 1. De door een fonds voor gemene rekening als gevolg van de toepassing van [artikel IV, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049131&artikel=IV&z=2026-01-01&g=2026-01-01), behaalde winst behoeft niet in aanmerking te worden genomen, mits alle deelgerechtigden in het fonds voor gemene rekening op het tijdstip onmiddellijk voorafgaand aan 1 januari 2025 zijn onderworpen aan de vennootschapsbelasting zonder ervan te zijn vrijgesteld, dan wel op 1 januari 2025 als gevolg van het niet langer aan de vennootschapsbelasting onderworpen zijn van dat fonds zijn onderworpen aan de vennootschapsbelasting zonder ervan te zijn vrijgesteld, en voor het bepalen van de winst bij het fonds voor gemene rekening op het tijdstip onmiddellijk voorafgaand aan 1 januari 2025 en bij al die deelgerechtigden dezelfde bepalingen van toepassing zijn, noch bij dat fonds, noch bij die deelgerechtigden aanspraak bestaat op voorwaartse verrekening van verliezen op de voet van [artikel 20 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=20), op vermindering ter voorkoming van dubbele belasting ter zake van buitenlandse resultaten, op toepassing van de innovatiebox op de voet van [artikel 12b van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=12b), op voortwenteling van een saldo aan renten op de voet van [artikel 15b van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15b), op toepassing van de objectvrijstelling voor buitenlandse ondernemingswinsten op de voet van [artikel 15e van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15e), op toepassing van de deelnemingsverrekening op de voet van [artikel 23c van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=23c), op toepassing van de verrekening bij buitenlandse ondernemingswinsten op de voet van [artikel 23d van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=23d), of op voortwenteling van voorheffingen op de voet van [artikel 25a, vierde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=25a) en mits latere heffing van vennootschapsbelasting is verzekerd. Indien de winst ingevolge de eerste zin niet in aanmerking wordt genomen, treden de deelgerechtigden met betrekking tot al hetgeen als gevolg van de toepassing van artikel IV, eerste lid, aan hen wordt geacht te zijn overgedragen in de plaats van het fonds voor gemene rekening.
 
@@ -50,7 +78,7 @@ Wijzigt de Invorderingswet 1990.
 
 4. Het verzoek, bedoeld in het tweede lid, wordt uiterlijk op het tijdstip van het doen van de aangifte vennootschapsbelasting van het fonds voor gemene rekening over het boekjaar dat eindigt op 31 december 2024 schriftelijk gedaan.
 
-#### Artikel VI
+##### Artikel VI
 
 1. Voor de toepassing van de [afdelingen 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=3.2) en [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=3.4), [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4) en de [afdelingen 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=7.2), [7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=7.3) en [7.5 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=7.5) en de [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672) behoeft het voordeel dat is behaald door een deelgerechtigde ter zake van de vervreemding van zijn bewijs van deelgerechtigdheid in een fonds voor gemene rekening als bedoeld in [artikel IV, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049131&artikel=IV&z=2026-01-01&g=2026-01-01), in het kader van een aandelenfusie als bedoeld in het tweede lid niet in aanmerking te worden genomen indien die aandelenfusie uiterlijk op 31 december 2024 plaatsvindt en latere heffing is verzekerd. De eerste zin is niet van toepassing op een in het kader van een aandelenfusie genoten bijbetaling.
 
@@ -68,11 +96,11 @@ Wijzigt de Invorderingswet 1990.
 
 5. De [artikelen 13h](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13h) en [13i van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13i) zijn van overeenkomstige toepassing.
 
-#### Artikel VII
+##### Artikel VII
 
 Indien een lichaam als gevolg van de inwerkingtreding van [artikel II, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0049131&artikel=II&z=2026-01-01&g=2026-01-01), niet langer kwalificeert als vrijgestelde beleggingsinstelling als bedoeld in [artikel 6a van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=6a) en het boekjaar van dat lichaam niet gelijk is aan het kalenderjaar, wordt dat lichaam, in afwijking in zoverre van artikel 6a, zesde lid, van die wet, met ingang van het tijdstip van inwerkingtreding van artikel II, onderdeel B, niet langer als vrijgestelde beleggingsinstelling aangemerkt.
 
-#### Artikel VIII
+##### Artikel VIII
 
 1. In het kader van een aandelenfusie als bedoeld in [artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0049131&artikel=VI&z=2026-01-01&g=2026-01-01) is van overdrachtsbelasting als bedoeld in [artikel 1, onderdeel a, van de Wet op belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=1) vrijgesteld:
 
@@ -104,7 +132,7 @@ mits in het kader van de aandelenfusie de verkrijgende vennootschap aan de inbre
 
 8. [Artikel 15, negende lid, van de Wet op belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15) is van overeenkomstige toepassing op de vrijstelling, bedoeld in het eerste lid, met dien verstande dat aangifte wordt gedaan op een door de inspecteur aangegeven wijze.
 
-#### Artikel IX
+##### Artikel IX
 
 1. Indien de bewijzen van deelgerechtigdheid die worden vervreemd in het kader van een aandelenfusie als bedoeld in [artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0049131&artikel=VIII&z=2026-01-01&g=2026-01-01) ten grondslag liggen aan uitstel van betaling dat is verleend op grond van [artikel 25, achtste lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25), kan de ontvanger het uitstel voortzetten op schriftelijk verzoek van de belastingschuldige aan wie het uitstel is verleend, in welk geval de aandelen in of winstbewijzen van de bij de aandelenfusie verkrijgende vennootschap voortaan worden geacht aan het verleende uitstel ten grondslag te liggen.
 
@@ -116,19 +144,19 @@ mits in het kader van de aandelenfusie de verkrijgende vennootschap aan de inbre
 
 3. Indien de belastingschuldige niet voldoet aan de voorwaarden die de ontvanger aan het voortzetten van het uitstel van betaling heeft gesteld, kan de ontvanger het uitstel van betaling intrekken.
 
-#### Artikel X
+##### Artikel X
 
 1. Deze wet treedt in werking met ingang van 1 januari 2024.
 
 2. In afwijking van het eerste lid treden de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0049131&artikel=I&z=2026-01-01&g=2026-01-01), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0049131&artikel=II&z=2026-01-01&g=2026-01-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0049131&artikel=III&z=2026-01-01&g=2026-01-01), [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0049131&artikel=VII&z=2026-01-01&g=2026-01-01) en [IXA](https://wetten.overheid.nl/jci1.3:c:BWBR0049131&artikel=IXa&z=2026-01-01&g=2026-01-01) in werking met ingang van 1 januari 2025.
 
-#### Artikel XI
+##### Artikel XI
 
 Deze wet wordt aangehaald als: Wet aanpassing fonds voor gemene rekening en vrijgestelde beleggingsinstelling.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel IXa
+##### Artikel IXa
 
 De bewijzen van deelgerechtigdheid in een fonds worden geacht met ingang van 1 januari 2025 niet verhandelbaar te zijn indien:
 
@@ -142,7 +170,7 @@ De bewijzen van deelgerechtigdheid in een fonds worden geacht met ingang van 1 j
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel IXb
+##### Artikel IXb
 
 1. Indien een lichaam daarvoor kiest wordt dat lichaam met ingang van 1 januari 2025 niet aangemerkt als fonds voor gemene rekening of lichaam opgericht of aangegaan naar het recht van een andere staat dat een met een fonds voor gemene rekening vergelijkbare rechtsvorm heeft, mits:
 

@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk België, het Koninkrijk der Nederlanden en het Groothertogdom Luxemburg inzake de integratie van de luchtruimbewaking tegen dreigingen die uitgaan van niet-militaire luchtvaartuigen (renegades)"
 identifier: "BWBV0006450"
-categorie: "Milieu"
-publicatiedatum: 2017-01-01
-laatste_update: 2017-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006450"
+country: "nl"
+rank: "verdrag"
+publication_date: "2017-01-01"
+last_updated: "2017-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006450"
+soort: "verdrag"
+stam_id: "10005268543"
+version_id: "10005661242"
+internal_id: "C10009174881"
+label_id: "10005251434"
+dtd_version: "2.0"
+original_entry_into_force: "2017-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006450/2017-01-01/0"
+intitule_bron: "Trb.2015-36"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2015-03-04"
+intitule_in_force: "2016-11-29"
+intitule_status: "goed"
+original_publication: "Trb.2015-36"
+original_published_date: "2015-03-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2015-36"
+entry_into_force_date: "2017-01-01"
+jci_1_3: "jci1.3:c:BWBV0006450&z=2017-01-01&g=2017-01-01"
+jci_1_0: "1.0:c:BWBV0006450&g=2017-01-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2017-01-01"
 ---
-
 # Verdrag tussen het Koninkrijk België, het Koninkrijk der Nederlanden en het Groothertogdom Luxemburg inzake de integratie van de luchtruimbewaking tegen dreigingen die uitgaan van niet-militaire luchtvaartuigen (renegades)
 
 Het Koninkrijk België,
@@ -46,7 +68,7 @@ Geleid door de wens een passend wettelijk kader vast te stellen voor de integrat
 
 Zijn het volgende overeengekomen:
 
-#### Artikel I. Begripsomschrijvingen
+##### Artikel I. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag hebben de gebruikte uitdrukkingen de volgende betekenis:
 
@@ -92,21 +114,21 @@ Voor de toepassing van dit Verdrag hebben de gebruikte uitdrukkingen de volgende
 
 - 17. „TACON”: Tactical control, het bevel over gekoppelde of gedetacheerde strijdkrachten of commandoposten, of over militaire capaciteit dan wel strijdkrachten die ter beschikking zijn gesteld voor uitvoering van taken, en dat zich beperkt tot de gedetailleerde aanwijzing en aansturing van bewegingen of manoeuvres binnen het operationele gebied die nodig is voor het uitvoeren van die toegewezen missies of taken.
 
-#### Artikel II. Doel
+##### Artikel II. Doel
 
 Dit Verdrag verschaft het benodigde juridische kader voor de integratie van de luchtbewaking in antwoord op dreigingen die uitgaan van renegades en heeft ten doel de interventiecapaciteit van de partijen ten aanzien van renegades te verbeteren via synergie van de inzet en het bundelen en delen van middelen.
 
-#### Artikel III. Reikwijdte
+##### Artikel III. Reikwijdte
 
 1. Dit Verdrag is van toepassing op alle militaire middelen van de partijen die bijdragen aan de uitvoering van GASM en AASM en nodig zijn voor het bewerkstelligen van de geïntegreerde bewaking van het luchtruim, om dreigingen die uitgaan van renegades binnen het gemeenschappelijk interessegebied van de partijen het hoofd te kunnen bieden.
 
 2. De toepassing van dit Verdrag strekt zich uit tot het gemeenschappelijk interessegebied.
 
-#### Artikel IV. Uitwisseling van informatie
+##### Artikel IV. Uitwisseling van informatie
 
 De partijen wisselen de informatie uit over de RAP die nodig is ter voorkoming van en de reactie op bedreigingen voor de veiligheid vanuit het luchtruim in het gemeenschappelijk interessegebied en om de NGA in staat te stellen de nodige of juiste maatregelen uit hoofde van dit Verdrag te nemen.
 
-#### Artikel V. Operationele bepalingen
+##### Artikel V. Operationele bepalingen
 
 1. Ten behoeve van dit Verdrag monitoren België en Nederland de bewegingen in het gemeenschappelijk interessegebied en beschermen zij het gemeenschappelijk interessegebied door uitvoering van GASM en AASM, zoals omschreven in [artikel 1, negende en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006450&artikel=I&z=2017-01-01&g=2017-01-01). Voor Luxemburg zullen de monitoring en bescherming van het gemeenschappelijk interessegebied gewaarborgd worden door België en Nederland conform de modaliteiten vastgelegd in dit Verdrag en in de regeling(en) omschreven in [artikel XI van dit Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006450&artikel=XI&z=2017-01-01&g=2017-01-01), hierna te noemen de „technical arrangement(s)”.
 
@@ -126,27 +148,27 @@ Nadere regelingen met betrekking tot het gebruik van geweld door AAC worden neer
 
 5. De bepalingen van het NAVO Statusverdrag zijn van toepassing op alle aspecten van de integratie en samenwerking zoals omschreven in dit Verdrag, tenzij in dit Verdrag uitdrukkelijk anders wordt bepaald.
 
-#### Artikel VI. Ondersteunende diensten en oefeningen
+##### Artikel VI. Ondersteunende diensten en oefeningen
 
 1. Ten behoeve van de uitvoering van dit Verdrag voorzien de partijen elkaar binnen hun middelen en mogelijkheden van ondersteunende diensten. Deze ondersteunende diensten alsmede de voorwaarden voor het verstrekken ervan worden nader geregeld in technical arrangements die dienen te worden gesloten door de onderscheiden ministers van Defensie.
 
 2. De partijen verplichten zich regelmatig grensoverschrijdende oefeningen uit te voeren teneinde de benodigde staat van paraatheid te waarborgen om bij te dragen aan de AAC-Rotation. Nadere regelingen worden vastgelegd in technical arrangements die dienen te worden gesloten door de onderscheiden ministers van Defensie.
 
-#### Artikel VII. Maatregelen ten behoeve van bewaking, veiligheid en milieubescherming
+##### Artikel VII. Maatregelen ten behoeve van bewaking, veiligheid en milieubescherming
 
 De partijen eerbiedigen de desbetreffende voorschriften en instructies inzake bewaking, veiligheid en milieubescherming die van kracht zijn in de ontvangende staat, in het bijzonder ter zake van wapens, munitie en luchtvaartuigen. Op het gebruik van wapens en munitie is het recht van de ontvangende staat van toepassing.
 
-#### Artikel VIII. Financiële bepalingen
+##### Artikel VIII. Financiële bepalingen
 
 Elke partij draagt haar eigen kosten die ontstaan in verband met de implementatie en uitvoering van dit Verdrag.
 
-#### Artikel IX. Schade en schadevergoeding
+##### Artikel IX. Schade en schadevergoeding
 
 1. De partijen zien af van onderlinge vorderingen tot vergoeding van schade (met inbegrip van verlies van gebruik), letsel of overlijden ten gevolge van de uitvoering van dit Verdrag in overeenstemming met de desbetreffende bepalingen van [artikel VIII van het NAVO Statusverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004785&artikel=VIII).
 
 2. Vorderingen van derden tot vergoeding van schade (met inbegrip van verlies van gebruik), letsel of overlijden ten gevolge van de uitvoering van dit Verdrag worden afgehandeld in overeenstemming met de van toepassing zijnde internationale en nationale wet- en regelgeving. In het geval van schade, letsel of overlijden ten gevolge van de uitvoering van dit Verdrag kunnen de betrokken partijen derden vrijwillig schadeloos stellen via een gelijkelijk tussen de zendende en ontvangende staat te verdelen bedrag aan schadevergoeding zonder prejudiciële erkenning van de verantwoordelijkheid. In dat geval kan de partij in het luchtruim of op het grondgebied waarvan de schade, het letsel of overlijden optrad of plaatsvond het bedrag van deze vrijwillig te betalen schadevergoeding voorstellen.
 
-#### Artikel X. Onderzoek van luchtvaartongevallen en -incidenten
+##### Artikel X. Onderzoek van luchtvaartongevallen en -incidenten
 
 Bij luchtvaartongevallen of -incidenten die plaatsvinden in het nationale luchtruim of op het nationale grondgebied van een van de partijen, waarbij een luchtvaartuig van een andere partij betrokken is, zal een vliegveiligheidsonderzoek plaatsvinden in overeenstemming met:
 
@@ -154,31 +176,31 @@ Bij luchtvaartongevallen of -incidenten die plaatsvinden in het nationale luchtr
 
 - b. de desbetreffende NAVO-standaardisatieovereenkomsten (STANAGs), waaronder STANAG 3531.
 
-#### Artikel XI. Technical arrangements
+##### Artikel XI. Technical arrangements
 
 Voor dit Verdrag kunnen technical arrangements gesloten worden. De technical arrangements kunnen in onderling overleg worden gewijzigd of aangevuld.
 
-#### Artikel XII. Beslechting van geschillen
+##### Artikel XII. Beslechting van geschillen
 
 Elk geschil omtrent de uitlegging of toepassing van dit Verdrag wordt uitsluitend in overleg tussen de partijen opgelost en niet ter beslechting voorgelegd aan een nationaal of internationaal scheidsgerecht of een andere derde.
 
-#### Artikel XIII. Wijziging
+##### Artikel XIII. Wijziging
 
 Iedere partij kan te allen tijde verzoeken om wijziging van dit Verdrag door middel van een schriftelijke kennisgeving aan de andere partijen. Indien een dergelijk verzoek wordt gedaan, treden de partijen onverwijld met elkaar in onderhandeling. Wijzigingen worden van kracht overeenkomstig de procedure omschreven in [artikel XIV, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006450&artikel=XIV&z=2017-01-01&g=2017-01-01).
 
-#### Artikel XIV. Inwerkingtreding en beëindiging
+##### Artikel XIV. Inwerkingtreding en beëindiging
 
 1. Dit Verdrag treedt in werking op de eerste dag van de tweede maand volgend op de datum waarop de partijen de depositaris in kennis hebben gesteld van de voltooiing van de noodzakelijke nationale procedures voor de inwerkingtreding van dit Verdrag.
 
 2. Dit Verdrag blijft van kracht totdat het wordt opgezegd met wederzijdse schriftelijke instemming van de partijen of door een schriftelijke kennisgeving aan de depositaris van een partij inzake haar voornemen tot opzegging met een opzegtermijn van ten minste 180 dagen. De beëindiging van dit Verdrag laat alle betalingsverplichtingen van een partij uit hoofde van de bepalingen van dit Verdrag onverlet totdat deze zijn voldaan.
 
-#### Artikel XV. Depositaris
+##### Artikel XV. Depositaris
 
 1. Het Koninkrijk der Nederlanden is depositaris van dit Verdrag.
 
 2. De depositaris laat dit Verdrag bij de Verenigde Naties registreren overeenkomstig [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-#### Artikel XVI. Toepassing van het Verdrag met betrekking tot het Koninkrijk der Nederlanden
+##### Artikel XVI. Toepassing van het Verdrag met betrekking tot het Koninkrijk der Nederlanden
 
 1. Wat het Koninkrijk der Nederlanden betreft zijn op maatregelen of acties uit hoofde van dit Verdrag door de AAC in zijn nationale luchtruim en onder zijn nationale gezag de regels van toepassing die gelden voor de nationale strijdkrachten indien zij militaire bijstand verlenen aan de politie bij de strafrechtelijke handhaving.
 

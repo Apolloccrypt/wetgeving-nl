@@ -1,20 +1,46 @@
 ---
-title: "Regeling verzoek algemeen verbindend verklaring overeenkomst afvalbeheerbijdrage"
+title: "Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 29 juni 2020, nr. IENW/BSK-2020/117591, met betrekking tot een algemeen verbindend verklaring van een overeenkomst over een afvalbeheerbijdrage, tot intrekking van de Regeling verzoek afvalbeheersbijdragen en tot wijziging van enkele regelingen ter implementatie van Richtlijn (EU) 2018/851 van het Europees Parlement en de Raad van 30 mei 2018 tot wijziging van Richtlijn 2008/98/EG betreffende afvalstoffen (PbEU 2018, L 150) (Regeling verzoek algemeen verbindend verklaring overeenkomst afvalbeheerbijdrage)"
 identifier: "BWBR0043795"
-categorie: "Milieu"
-publicatiedatum: 2020-07-08
-laatste_update: 2020-07-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043795"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-07-08"
+last_updated: "2020-07-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043795"
+soort: "ministeriele-regeling"
+stam_id: "15542553"
+version_id: "26851722"
+internal_id: "C38036721"
+label_id: "15484554"
+dtd_version: "2.0"
+original_entry_into_force: "2020-07-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043795/2020-07-08/0"
+intitule_bron: "Stcrt.2020-34945"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-06-29"
+intitule_published: "2020-07-07"
+intitule_in_force: "2020-07-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-34945"
+original_signed_date: "2020-06-29"
+original_published_date: "2020-07-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-34945"
+entry_into_force_date: "2020-07-08"
+jci_1_3: "jci1.3:c:BWBR0043795&z=2020-07-08&g=2020-07-08"
+jci_1_0: "1.0:c:BWBR0043795&g=2020-07-08"
+citeertitel_status: "officieel"
+short_title: "Regeling verzoek algemeen verbindend verklaring overeenkomst afvalbeheerbijdrage"
+signed_date: "2020-06-29"
+entry_into_force: "2020-07-08"
 ---
-
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 29 juni 2020, nr. IENW/BSK-2020/117591, met betrekking tot een algemeen verbindend verklaring van een overeenkomst over een afvalbeheerbijdrage, tot intrekking van de Regeling verzoek afvalbeheersbijdragen en tot wijziging van enkele regelingen ter implementatie van Richtlijn (EU) 2018/851 van het Europees Parlement en de Raad van 30 mei 2018 tot wijziging van Richtlijn 2008/98/EG betreffende afvalstoffen (PbEU 2018, L 150) (Regeling verzoek algemeen verbindend verklaring overeenkomst afvalbeheerbijdrage)
 
 Gelet op [artikelen 1.1, vijfde, zevende, achtste en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1), [10.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.29), [15.36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.36), [21.6, zesde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=21.6); [artikelen 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=3), en [5, derde lid, van het Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=5); en [artikel 2.12, zesde lid, van het Activiteitenbesluit milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0022762&artikel=2.12);
 
 BESLUIT:
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze regeling wordt verstaan onder:
 
@@ -32,7 +58,7 @@ BESLUIT:
 
 - **op de markt aanbieden:** het in het kader van een handelsactiviteit verstrekken van een product voor distributie, consumptie of gebruik op de markt nadat het product in de handel is gebracht.
 
-#### Artikel 2
+##### Artikel 2
 
 1. In een overeenkomst over een afvalbeheerbijdrage als bedoeld in [artikel 15.36 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.36) komen in ieder geval de volgende onderwerpen aan bod:
 
@@ -88,49 +114,49 @@ BESLUIT:
 
 - j. overige gegevens die nodig zijn voor de beoordeling van het verzoek en de uitvoering van de overeenkomst voor een afvalbeheerbijdrage waarop de algemeen verbindend verklaring betrekking heeft.
 
-#### Artikel 3
+##### Artikel 3
 
 Wijzigt de Activiteitenregeling milieubeheer.
 
-#### Artikel 4
+##### Artikel 4
 
 Wijzigt de Binnenvaartregeling.
 
-#### Artikel 5
+##### Artikel 5
 
 Wijzigt de Regeling afgedankte elektrische en elektronische apparatuur.
 
-#### Artikel 6
+##### Artikel 6
 
 Wijzigt de Regeling criteria bijproducten kaderrichtlijn afvalstoffen.
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel 7
+##### Artikel 7
 
 Wijzigt de Regeling Europese afvalstoffenlijst.
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel 8
+##### Artikel 8
 
 Wijzigt de Regeling melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen.
 
-#### Artikel 9
+##### Artikel 9
 
 Wijzigt de Regeling vaststelling van de status einde-afval van recyclinggranulaat.
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel 10
+##### Artikel 10
 
 Wijzigt de Regeling verzoek afvalbeheersbijdragen.
 
-#### Artikel 11
+##### Artikel 11
 
 Wijzigt de Scheepsafvalstoffenregeling Rijn- en binnenvaart.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Deze regeling treedt in werking met ingang van de datum waarop de [Implementatiewet wijziging EU-kaderrichtlijn afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0043601) in werking treedt. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na de in de eerste volzin bedoelde datum, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt zij terug tot en met de in de eerste volzin bedoelde datum.
 
@@ -138,7 +164,7 @@ Wijzigt de Scheepsafvalstoffenregeling Rijn- en binnenvaart.
 
 3. Een ministerieel besluit als bedoeld in het tweede lid wordt in de Staatscourant bekendgemaakt.
 
-#### Artikel 13
+##### Artikel 13
 
 Deze regeling wordt aangehaald als: Regeling verzoek algemeen verbindend verklaring overeenkomst afvalbeheerbijdrage.
 

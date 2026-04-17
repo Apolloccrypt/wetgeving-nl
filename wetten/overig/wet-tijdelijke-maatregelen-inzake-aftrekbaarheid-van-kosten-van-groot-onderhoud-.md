@@ -1,14 +1,38 @@
 ---
-title: "Wet tijdelijke maatregelen inzake aftrekbaarheid van kosten van groot onderhoud en van schilderwerk"
+title: "Wet van 29 juni 1983, houdende tijdelijke maatregelen inzake de aftrekbaarheid van de kosten van groot onderhoud en van schilderwerk en in verband daarmee tijdelijke verhoging van het huurwaardeforfait in de inkomstenbelasting"
 identifier: "BWBR0003600"
-categorie: "Overig"
-publicatiedatum: 1983-07-01
-laatste_update: 1983-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003600"
+country: "nl"
+rank: "wet"
+publication_date: "1983-07-01"
+last_updated: "1983-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003600"
+soort: "wet"
+stam_id: "186223"
+version_id: "253892"
+internal_id: "C253891"
+label_id: "183664"
+dtd_version: "2.0"
+original_entry_into_force: "1983-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003600/1983-07-01/0"
+intitule_bron: "Stb.1983-305"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1983-06-29"
+intitule_status: "goed"
+original_publication: "Stb.1983-305"
+original_signed_date: "1983-06-29"
+original_effect: "nieuwe-regeling"
+original_dossier: "17803"
+entry_into_force_date: "1983-07-01"
+entry_into_force_dossier: "17803"
+jci_1_3: "jci1.3:c:BWBR0003600&z=1983-07-01&g=1983-07-01"
+jci_1_0: "1.0:c:BWBR0003600&g=1983-07-01"
+citeertitel_status: "officieel"
+short_title: "Wet tijdelijke maatregelen inzake aftrekbaarheid van kosten van groot onderhoud en van schilderwerk"
+signed_date: "1983-06-29"
+entry_into_force: "1983-07-01"
 ---
-
-# Wet tijdelijke maatregelen inzake aftrekbaarheid van kosten van groot onderhoud en van schilderwerk
+# Wet van 29 juni 1983, houdende tijdelijke maatregelen inzake de aftrekbaarheid van de kosten van groot onderhoud en van schilderwerk en in verband daarmee tijdelijke verhoging van het huurwaardeforfait in de inkomstenbelasting
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +40,7 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is met het oog op de we
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Voor de toepassing van artikel 42**a,** eerste lid, aanhef en letter **a,** van de Wet op de inkomstenbelasting 1964 (**Stb.** 519) wordt, in afwijking in zoverre van het in letter **a** van dat lid bepaalde, bij een waarde in het economische verkeer van de eigen woning van:
 
@@ -37,7 +61,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2. Voor de toepassing van artikel 42**a,** achtste lid, van de Wet op de inkomstenbelasting 1964 wordt, in afwijking in zoverre van het in de letters **b** en **c** van dat lid bepaalde, de huurwaarde gesteld op onderscheidenlijk f 795 en 3½ maal de met overeenkomstige toepassing van het vorige lid bepaalde huurwaarde.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Voor de toepassing van artikel 42**a,** eerste lid, aanhef en letter **b,** van de Wet op de inkomstenbelasting 1964 worden, in afwijking in zoverre van het in letter **b** van dat lid bepaalde, kosten ter zake van het grote onderhoud van een eigen woning die de belastingplichtige reeds ten minste een jaar als hoofdverblijf ter beschikking staat in aanmerking genomen voor zover:
 
@@ -79,11 +103,11 @@ Het bepaalde in de vorige volzin is van overeenkomstige toepassing op kosten van
 
 7. Kosten van schilderwerk die als aftrekbare kosten in aanmerking komen ingevolge zowel dit artikel als artikel 42**a,** zesde lid, van de Wet op de inkomstenbelasting 1964 worden slechts eenmaal in aanmerking genomen en wel op de voet van de bepaling die voor de belastingplichtige tot de gunstigste uitkomst leidt.
 
-#### Artikel 3
+##### Artikel 3
 
 Voor de toepassing van artikel 42**a,** zesde lid, van de Wet op de inkomstenbelasting 1964 geldt, in afwijking in zoverre van het in letter **c** van dat lid bepaalde, dat de in dat lid bedoelde kosten, lasten en afschrijvingen in aanmerking worden genomen voor zover deze 2½ maal de met toepassing van [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003600&artikel=1&z=1983-07-01&g=1983-07-01), te bepalen huurwaarde te boven gaan.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze wet treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst en vindt toepassing voor de kalenderjaren 1983, 1984 en 1985, met dien verstande dat uitsluitend voor de op de voet van artikel 42**a,** eerste lid, letter **a,** en achtste lid, van de Wet op de inkomstenbelasting 1964 in aanmerking te nemen huurwaarde van een eigen woning [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003600&artikel=1&z=1983-07-01&g=1983-07-01) eerst toepassing vindt met ingang van 1 juli 1983.
 

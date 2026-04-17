@@ -1,13 +1,34 @@
 ---
 title: "Uitvoeringsregeling uitgezonderde objecten Wet waardering onroerende zaken"
 identifier: "BWBR0007142"
-categorie: "Overig"
-publicatiedatum: 2008-01-01
-laatste_update: 2008-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007142"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2008-01-01"
+last_updated: "2008-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007142"
+soort: "ministeriele-regeling"
+stam_id: "1085633"
+version_id: "1599782"
+internal_id: "C13179721"
+label_id: "1052114"
+dtd_version: "2.0"
+original_entry_into_force: "1995-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007142/2008-01-01/0"
+intitule_bron: "Stcrt.1994-252"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-12-21"
+intitule_status: "goed"
+original_publication: "Stcrt.1994-252"
+original_signed_date: "1994-12-21"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1995-01-01"
+jci_1_3: "jci1.3:c:BWBR0007142&z=2008-01-01&g=2008-01-01"
+jci_1_0: "1.0:c:BWBR0007142&g=2008-01-01"
+citeertitel_status: "officieel"
+signed_date: "1994-12-21"
+entry_into_force: "1995-01-01"
 ---
-
 # Uitvoeringsregeling uitgezonderde objecten Wet waardering onroerende zaken
 
 Handelende in overeenstemming met de Staatssecretaris van Binnenlandse Zaken A.G.M. van de Vondervoort;
@@ -18,11 +39,11 @@ Besluit:
 
 De wijziging bij Stcrt. 1998/247 is voor de waardebepaling, bedoeld in hoofdstuk III van de Wet waardering onroerende zaken, ten behoeve van het tijdvak dat aanvangt op 1-1-2001, van toepassing vanaf 01-01-1999.
 
-#### Artikel 1
+##### Artikel 1
 
 Deze regeling geeft uitvoering aan [artikel 18, vierde lid, van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=18).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Bij de bepaling van de waarde wordt buiten aanmerking gelaten de waarde van:
 
@@ -44,10 +65,10 @@ Deze regeling geeft uitvoering aan [artikel 18, vierde lid, van de Wet waarderin
 
 2. Voor de toepassing van het eerste lid, onderdeel a, wordt onder landbouw verstaan landbouw in de zin van [artikel 312 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=312).
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling treedt in werking met ingang van 1 januari 1995.
 
-#### Artikel 4
+##### Artikel 4
 
 De regeling wordt aangehaald als: Uitvoeringsregeling uitgezonderde objecten Wet waardering onroerende zaken.

@@ -1,13 +1,32 @@
 ---
 title: "Verdrag tot verbod van kernwapens in Latijns-Amerika"
 identifier: "BWBV0006343"
-categorie: "Internationaal recht"
-publicatiedatum: 1967-02-14
-laatste_update: 1967-02-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006343"
+country: "nl"
+rank: "verdrag"
+publication_date: "1967-02-14"
+last_updated: "1967-02-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006343"
+soort: "verdrag"
+stam_id: "10005183673"
+version_id: "10005562532"
+internal_id: "C10008595971"
+label_id: "10005167724"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006343/1967-02-14/0"
+intitule_bron: "Trb.1968-145"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1968-11-01"
+intitule_status: "nogniet"
+original_publication: "Trb.1968-145"
+original_published_date: "1968-11-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1968-145"
+jci_1_3: "jci1.3:c:BWBV0006343&z=1967-02-14&g=1967-02-14"
+jci_1_0: "1.0:c:BWBV0006343&g=1967-02-14"
+citeertitel_status: "redactioneel"
+entry_into_force: "1968-11-01"
 ---
-
 # Verdrag tot verbod van kernwapens in Latijns-Amerika
 
 Preambule
@@ -56,7 +75,7 @@ Zijn als volgt overeengekomen:
 
 #### Verplichtingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. De Verdragsluitende Partijen nemen hierbij de verplichting op zich de nucleaire materialen en installaties die onder hun rechtsmacht vallen uitsluitend voor vreedzame doeleinden te gebruiken, en op hun onderscheiden grondgebieden te verbieden en te voorkomen:
 
@@ -68,19 +87,19 @@ Zijn als volgt overeengekomen:
 
 #### Begripsomschrijving van de Verdragsluitende Partijen
 
-#### Artikel 2
+##### Artikel 2
 
 In dit Verdrag wordt onder Verdragsluitende Partijen die partijen verstaan voor wie het Verdrag van kracht is.
 
 #### Begripsomschrijving van grondgebied
 
-#### Artikel 3
+##### Artikel 3
 
 In dit Verdrag wordt onder de term „grondgebied” mede verstaan de territoriale wateren, het territoriale luchtruim en iedere andere ruimte waarover de Staat overeenkomstig zijn eigen wetgeving soevereiniteit uitoefent.
 
 #### Toepassingsgebied
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het toepassingsgebied van dit Verdrag wordt gevormd door de gezamenlijke grondgebieden waarvoor dit Verdrag van kracht is.
 
@@ -88,19 +107,19 @@ In dit Verdrag wordt onder de term „grondgebied” mede verstaan de territoria
 
 #### Begripsomschrijving van kernwapens
 
-#### Artikel 5
+##### Artikel 5
 
 In dit Verdrag wordt onder „kernwapen” verstaan elk apparaat dat in staat is tot niet-beheerste vrijmaking van kernenergie, en dat een groep eigenschappen bezit die het geschikt maken voor gebruik voor oorlogsdoeleinden. Een instrument dat kan worden gebruikt voor het vervoer of de voortbeweging van het apparaat wordt door deze begripsomschrijving niet gedekt, indien het van het apparaat kan worden gescheiden en er geen onverbrekelijk geheel mee vormt.
 
 #### Bijeenkomst der ondertekenende partijen
 
-#### Artikel 6
+##### Artikel 6
 
 Op verzoek van een der ondertekenende Staten, of indien de ingevolge artikel 7 ingestelde Organisatie daartoe besluit, kan een bijeenkomst van alle ondertekenende partijen worden belegd ter gezamenlijke bespreking van vraagstukken die raken aan de essentie van dit Verdrag, met inbegrip van eventuele amendementen daarop. In beide gevallen wordt de bijeenkomst belegd door de Algemene Secretaris.
 
 #### Organisatie
 
-#### Artikel 7
+##### Artikel 7
 
 1. Ten einde naleving van de verplichtingen van dit Verdrag te verzekeren, richten de Verdragsluitende Partijen hierbij een internationale organisatie op die de „Organisatie voor het Verbod van Kernwapens in Latijns-Amerika” zal heten en hierna „de Organisatie” zal worden genoemd. Haar besluiten gelden alleen de Verdragsluitenden Partijen.
 
@@ -112,7 +131,7 @@ Op verzoek van een der ondertekenende Staten, of indien de ingevolge artikel 7 i
 
 #### Organen
 
-#### Artikel 8
+##### Artikel 8
 
 1. Als de voornaamste organen van de Organisatie worden hierbij ingesteld een Algemene Conferentie, een Raad en een Secretariaat.
 
@@ -120,7 +139,7 @@ Op verzoek van een der ondertekenende Staten, of indien de ingevolge artikel 7 i
 
 #### De Algemene Conferentie
 
-#### Artikel 9
+##### Artikel 9
 
 1. De Algemene Conferentie, het hoogste orgaan van de Organisatie, is samengesteld uit alle Verdragsluitende Partijen; zij houdt regelmatig om de twee jaar zittingen en kan ook, wanneer zulks in het Verdrag wordt bepaald of wanneer naar het oordeel van de Raad de omstandigheden dit gebieden, buitengewone zittingen houden.
 
@@ -150,7 +169,7 @@ Op verzoek van een der ondertekenende Staten, of indien de ingevolge artikel 7 i
 
 #### De Raad
 
-#### Artikel 10
+##### Artikel 10
 
 1. De Raad bestaat uit vijf leden van de Organisatie, die door de Algemene Conferentie uit de Verdragsluitende Partijen worden gekozen, waarbij wordt gelet op een billijke geografische vertegenwoordiging.
 
@@ -172,7 +191,7 @@ Op verzoek van een der ondertekenende Staten, of indien de ingevolge artikel 7 i
 
 #### Het Secretariaat
 
-#### Artikel 11
+##### Artikel 11
 
 1. Het Secretariaat bestaat uit een Algemene Secretaris, die de voornaamste administratieve functionaris van de Organisatie is, en het personeel dat de Organisatie nodig oordeelt. De ambtstermijn van de Algemene Secretaris is vier jaar en hij kan worden herkozen voor een enkel aansluitend tijdvak. De Algemene Secretaris mag geen onderdaan zijn van het land waar de Organisatie haar zetel heeft. Ingeval het ambt van de Algemene Secretaris openvalt, wordt een nieuwe verkiezing gehouden om het ambt te doen bezetten voor de resterende periode.
 
@@ -190,7 +209,7 @@ Op verzoek van een der ondertekenende Staten, of indien de ingevolge artikel 7 i
 
 #### Controlestelsel
 
-#### Artikel 12
+##### Artikel 12
 
 1. Ten einde na te gaan of de verplichtingen die de Verdragsluitende Partijen overeenkomstig het bepaalde in artikel 1 zijn aangegaan, worden nageleefd, wordt een controlestelsel ingevoerd, dat zal worden toegepast in overeenstemming met het bepaalde in de artikelen 13 tot en met 18 van dit Verdrag.
 
@@ -204,13 +223,13 @@ Op verzoek van een der ondertekenende Staten, of indien de ingevolge artikel 7 i
 
 #### IAEA waarborgen
 
-#### Artikel 13
+##### Artikel 13
 
 Elke Verdragsluitende Partij gaat met de Internationale Organisatie voor Atoomenergie multilaterale of bilaterale overeenkomsten aan voor de toepassing van de waarborgen van die Organisatie op haar nucleaire werkzaamheden. Elke Verdragsluitende Partij vangt onderhandelingen aan binnen een tijdvak van 180 dagen na de datum van nederlegging van haar akte van bekrachtiging van dit Verdrag. Voor elke Partij treden deze overeenkomsten uiterlijk achttien maanden na de datum waarop zodanige onderhandelingen een aanvang hebben genomen in werking, behalve in geval van onvoorziene omstandigheden of van overmacht.
 
 #### Door de Partijen uitgebrachte verslagen
 
-#### Artikel 14
+##### Artikel 14
 
 1. De Verdragsluitende Partijen leggen aan de Organisatie en aan de Internationale Organisatie voor Atoomenergie te hunner informatie halfjaarlijkse verslagen voor, waarin wordt verklaard dat zich op hun onderscheiden grondgebieden geen ingevolge dit Verdrag verboden activiteiten hebben voorgedaan.
 
@@ -220,7 +239,7 @@ Elke Verdragsluitende Partij gaat met de Internationale Organisatie voor Atoomen
 
 #### Bijzondere door de Algemeen Secretaris aangevraagde verslagen
 
-#### Artikel 15
+##### Artikel 15
 
 1. Met goedvinden van de Raad kan de Algemene Secretaris, met opgaaf van redenen, aan een Verdragsluitende Partij verzoeken de Organisatie aanvullende of nadere gegevens te verschaffen met betrekking tot gebeurtenissen of omstandigheden die verband houden met de naleving van dit Verdrag. De Verdragsluitende Partijen nemen op zich, onverwijld en volledig hun medewerking te geven aan de Algemene Secretaris.
 
@@ -228,7 +247,7 @@ Elke Verdragsluitende Partij gaat met de Internationale Organisatie voor Atoomen
 
 #### Bijzondere inspecties
 
-#### Artikel 16
+##### Artikel 16
 
 1. De Internationale Organisatie voor Atoomenergie en de bij dit Verdrag ingestelde Raad zijn bevoegd in de volgende gevallen bijzondere inspecties te doen uitvoeren:
 
@@ -258,13 +277,13 @@ De bovenstaande verzoeken worden aan de Raad gericht door tussenkomst van de Alg
 
 #### Vreedzaam gebruik van kernenergie
 
-#### Artikel 17
+##### Artikel 17
 
 Geen enkele bepaling van dit Verdrag tast het recht aan van de Verdragsluitende Partijen om, in overeenstemming met de bepalingen van dit Verdrag, kernenergie aan te wenden voor vreedzame doeleinden, in het bijzonder ter bevordering van hun economische ontwikkeling en sociale vooruitgang.
 
 #### Explosies voor vreedzame doeleinden
 
-#### Artikel 18
+##### Artikel 18
 
 1. De Verdragsluitende Partijen kunnen voor vreedzame doeleinden explosies van nucleaire apparaten uitvoeren – met inbegrip van explosies, waarbij gebruik wordt gemaakt van apparaten die gelijken op die welke bij de kernbewapening worden gebruikt – of voor dit doel met anderen samenwerken, mits zij dit doen overeenkomstig het bepaalde in dit artikel en de andere bepalingen van het Verdrag, met name de artikelen 1 en 5.
 
@@ -286,7 +305,7 @@ Geen enkele bepaling van dit Verdrag tast het recht aan van de Verdragsluitende 
 
 #### Betrekkingen met andere internationale organisaties
 
-#### Artikel 19
+##### Artikel 19
 
 1. De Organisatie kan overeenkomsten aangaan met de Internationale Organisatie voor Atoomenergie voor zover zij zijn goedgekeurd door de Algemene Conferentie en de Organisatie deze bevorderlijk acht voor het doelmatig functioneren van het bij dit Verdrag ingestelde controlestelsel.
 
@@ -296,7 +315,7 @@ Geen enkele bepaling van dit Verdrag tast het recht aan van de Verdragsluitende 
 
 #### Maatregelen in geval van schending van het Verdrag
 
-#### Artikel 20
+##### Artikel 20
 
 1. De Algemene Conferentie neemt kennis van alle gevallen waarin, naar haar mening, een Verdragsluitende Partij haar verplichtingen ingevolge dit Verdrag niet volledig nakomt, en brengt de zaak onder de aandacht van de betrokken Partij, waarbij door haar passend geachte aanbevelingen worden gedaan.
 
@@ -304,13 +323,13 @@ Geen enkele bepaling van dit Verdrag tast het recht aan van de Verdragsluitende 
 
 #### Verenigde Naties en Organisatie van Amerikaanse Staten
 
-#### Artikel 21
+##### Artikel 21
 
 Geen van de bepalingen van dit Verdrag mag worden uitgelegd als een aantasting van de rechten en plichten van de Partijen ingevolge het [Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143) of indien het Lid-Staten van de Organisatie van Amerikaanse Staten betreft, ingevolge bestaande regionale verdragen.
 
 #### Voorrechten en immuniteiten
 
-#### Artikel 22
+##### Artikel 22
 
 1. De Organisatie geniet op het grondgebied van elk der Verdragsluitende Partijen de rechtsbevoegdheid en de voorrechten en immuniteiten die noodzakelijk zijn voor de uitoefening van haar functies en de verwezenlijking van haar doelstellingen.
 
@@ -320,19 +339,19 @@ Geen van de bepalingen van dit Verdrag mag worden uitgelegd als een aantasting v
 
 #### Kennisgeving van andere overeenkomsten
 
-#### Artikel 23
+##### Artikel 23
 
 Wanneer dit Verdrag eenmaal van kracht is, wordt het Secretariaat onverwijld op de hoogte gebracht indien een der Verdragsluitende Partijen een internationale overeenkomst sluit inzake aangelegenheden waarop dit Verdrag betrekking heeft; het Secretariaat houdt hiervan aantekening en stelt de andere Verdragsluitende Partijen ervan in kennis.
 
 #### Regeling van geschillen
 
-#### Artikel 24
+##### Artikel 24
 
 Tenzij de betrokken Partijen tot overeenstemming komen omtrent een andere wijze van vreedzame regeling, wordt iedere kwestie of ieder geschil betreffende de uitleg of toepassing van dit Verdrag, voor zover niet geregeld, met voorafgaande toestemming van de partijen bij het geschil voorgelegd aan het Internationale Gerechtshof.
 
 #### Ondertekening
 
-#### Artikel 25
+##### Artikel 25
 
 1. Dit Verdrag staat te allen tijde open voor ondertekening door:
 
@@ -344,7 +363,7 @@ Tenzij de betrokken Partijen tot overeenstemming komen omtrent een andere wijze 
 
 #### Bekrachtiging en nederlegging
 
-#### Artikel 26
+##### Artikel 26
 
 1. Dit Verdrag dient te worden bekrachtigd door de ondertekenende Staten overeenkomstig hun onderscheiden grondwettelijke procedures.
 
@@ -354,13 +373,13 @@ Tenzij de betrokken Partijen tot overeenstemming komen omtrent een andere wijze 
 
 #### Voorbehouden
 
-#### Artikel 27
+##### Artikel 27
 
 Ten aanzien van dit Verdrag kunnen geen voorbehouden worden gemaakt.
 
 #### Inwerkingtreding
 
-#### Artikel 28
+##### Artikel 28
 
 1. Behoudens het bepaalde in het tweede lid van dit artikel treedt dit Verdrag tussen de Staten die het hebben bekrachtigd in werking zodra aan de volgende vereisten is voldaan:
 
@@ -380,7 +399,7 @@ Ten aanzien van dit Verdrag kunnen geen voorbehouden worden gemaakt.
 
 #### Amendementen
 
-#### Artikel 29
+##### Artikel 29
 
 1. Elke Verdragsluitende Partij kan amendementen op dit Verdrag voorstellen en zijn voorstellen voorleggen aan de Raad door tussenkomst van de Algemene Secretaris, die deze aan alle andere Verdragsluitende Partijen en bovendien aan alle andere ondertekenende Staten toezendt in overeenstemming met het bepaalde in artikel 6. Door bemiddeling van de Algemene Secretaris belegt de Raad onmiddellijk na de vergadering van de ondertekenaars een bijzondere zitting van de Algemene Conferentie ter bestudering van de ingediende voorstellen, voor het aannemen waarvan een twee derde meerderheid is vereist van de Verdragsluitende Partijen die aanwezig zijn en hun stem uitbrengen.
 
@@ -388,7 +407,7 @@ Ten aanzien van dit Verdrag kunnen geen voorbehouden worden gemaakt.
 
 #### Looptijd en opzegging
 
-#### Artikel 30
+##### Artikel 30
 
 1. Dit verdrag is van permanente aard en blijft voor onbepaalde tijd: van kracht, doch een Partij kan het opzeggen door kennisgeving aan de Algemene Secretaris van de Organisatie, indien naar het oordeel van de opzeggende Staat er zich omstandigheden voordoen of kunnen voordoen, verband houdende met de inhoud van dit Verdrag of van de aangehechte [Aanvullende Protocollen I](https://wetten.overheid.nl/jci1.3:c:BWBV0004245) en [II](https://wetten.overheid.nl/jci1.3:c:BWBV0006344), die een nadelige invloed uitoefenen op haar hoogste belangen of op de vrede en de veiligheid vans een of meer Verdragsluitende Partijen.
 
@@ -396,7 +415,7 @@ Ten aanzien van dit Verdrag kunnen geen voorbehouden worden gemaakt.
 
 #### Authentieke teksten en registratie
 
-#### Artikel 31
+##### Artikel 31
 
 Dit Verdrag waarvan de Spaanse, de Chinese, de Engelse, de Franse, de Portugese en de Russische tekst gelijkelijk authentiek zijn, wordt door de Depot-regering geregistreerd overeenkomstig het bepaalde in [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102). De Depot-regering geeft de Secretaris-Generaal van de Verenigde Naties kennis van de ondertekeningen, bekrachtigingen en amenderingen van dit Verdrag: en deelt deze ter kennisneming mede aan de Secretaris-Generaal van de Organisatie van Amerikaanse Staten.
 

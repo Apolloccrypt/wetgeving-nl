@@ -1,13 +1,39 @@
 ---
-title: "Wijzigingsbesluit Besluit justitiële en strafvorderlijke gegevens, enz. (aanscherping sanctiebeleid SZW-wetgeving)"
+title: "Besluit van 28 januari 2013, houdende wijziging van het Besluit justitiële en strafvorderlijke gegevens en het Besluit SUWI in verband met de aanscherping van het sanctiebeleid van de SZW-wetgeving"
 identifier: "BWBR0032886"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2013-07-01
-laatste_update: 2013-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032886"
+country: "nl"
+rank: "amvb"
+publication_date: "2013-07-01"
+last_updated: "2013-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032886"
+soort: "AMvB"
+stam_id: "12103243"
+version_id: "20172552"
+internal_id: "C28925531"
+label_id: "12074754"
+dtd_version: "2.0"
+original_entry_into_force: "2013-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032886/2013-07-01/0"
+intitule_bron: "Stb.2013-30"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-01-28"
+intitule_published: "2013-02-08"
+intitule_in_force: "2013-06-14"
+intitule_status: "goed"
+original_publication: "Stb.2013-30"
+original_signed_date: "2013-01-28"
+original_published_date: "2013-02-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2013-30"
+entry_into_force_date: "2013-07-01"
+jci_1_3: "jci1.3:c:BWBR0032886&z=2013-07-01&g=2013-07-01"
+jci_1_0: "1.0:c:BWBR0032886&g=2013-07-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsbesluit Besluit justitiële en strafvorderlijke gegevens, enz. (aanscherping sanctiebeleid SZW-wetgeving)"
+signed_date: "2013-01-28"
+entry_into_force: "2013-07-01"
 ---
-
 # Besluit van 28 januari 2013, houdende wijziging van het Besluit justitiële en strafvorderlijke gegevens en het Besluit SUWI in verband met de aanscherping van het sanctiebeleid van de SZW-wetgeving
 
 Op de voordracht van Onze Minister van Veiligheid en Justitie van 18 oktober 2012, Directie Wetgeving en Juridische Zaken, nr. 313452, gedaan mede namens de Staatssecretaris van Sociale Zaken en Werkgelegenheid;
@@ -20,19 +46,19 @@ Gezien het nader rapport van Onze Minister van Veiligheid en Justitie van 17 jan
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Besluit justitiële en strafvorderlijke gegevens.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Besluit SUWI.
 
-#### Artikel III
+##### Artikel III
 
 De Minister van Sociale Zaken en Werkgelegenheid zendt binnen vijf jaar na de inwerkingtreding van dit besluit aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van dit besluit in de praktijk.
 
-#### Artikel IV
+##### Artikel IV
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 

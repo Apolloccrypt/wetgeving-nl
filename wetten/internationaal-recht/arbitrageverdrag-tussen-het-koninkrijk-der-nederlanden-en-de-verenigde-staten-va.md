@@ -1,13 +1,37 @@
 ---
 title: "Arbitrageverdrag tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika"
 identifier: "BWBV0006114"
-categorie: "Internationaal recht"
-publicatiedatum: 1930-07-17
-laatste_update: 1930-07-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006114"
+country: "nl"
+rank: "verdrag"
+publication_date: "1930-07-17"
+last_updated: "1930-07-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006114"
+soort: "verdrag"
+stam_id: "10005037893"
+version_id: "10005367282"
+internal_id: "C10008270571"
+label_id: "10005020874"
+dtd_version: "2.0"
+original_entry_into_force: "1930-07-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006114/1930-07-17/0"
+intitule_bron: "Stb.1930-359"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1930-08-08"
+intitule_published: "1930-08-28"
+intitule_in_force: "1930-08-28"
+intitule_status: "goed"
+original_publication: "Stb.1930-359"
+original_signed_date: "1930-08-08"
+original_published_date: "1930-08-28"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1930-07-17"
+jci_1_3: "jci1.3:c:BWBV0006114&z=1930-07-17&g=1930-07-17"
+jci_1_0: "1.0:c:BWBV0006114&g=1930-07-17"
+citeertitel_status: "redactioneel"
+signed_date: "1930-08-08"
+entry_into_force: "1930-07-17"
 ---
-
 # Arbitrageverdrag tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika
 
 Hare Majesteit de Koningin der Nederlanden en de President van de Vereenigde Staten van Amerika;
@@ -26,13 +50,13 @@ De President van de Vereenigde Staten van Amerika: JOSEPH P. COTTON, waarnemend 
 
 die, na elkander hunne volmachten te hebben medegedeeld en in goede en behoorlijke orde bevonden, omtrent de volgende artikelen zijn overeengekomen:
 
-#### Artikel I
+##### Artikel I
 
 Alle geschillen betreffende internationale aangelegenheden, welke tusschen de Hooge Verdragsluitende Partijen mochten rijzen als gevolg van eenen door de eene Partij aan de andere op grond van een verdrag of uit anderen hoofde gestelden rechtseisch en welke door hunnen aard, als vatbaar voor eene beslissing door toepassing van de beginselen van recht en billijkheid, berechtbaar zijn, zullen, wanneer zij niet langs diplomatieken weg zijn kunnen worden geregeld, noch door onderwerping aan de Permanente Internationale Commissie, ingesteld ingevolge het op 18 December 1913 te Washington geteekende verdrag, vereffend zijn, worden onderworpen aan het door het Verdrag van 18 October 1907 te 's-Gravenhage ingestelde Permanente Hof van Arbitrage of aan zoodanig ander bevoegd rechtscollege als in elk geval door bijzondere overeenkomst zal worden bepaald, welke bijzondere overeenkomst in de samenstelling, zoo noodig, van zoodanig college zal voorzien, de bevoegdheden daarvan zal omschrijven, het punt of de punten in geschil zal vaststellen en den inhoud der opdracht zal regelen.
 
 De voor elk geval tot stand te brengen bijzondere overeenkomst zal aan de zijde van Nederland in overeenstemming met de voorschriften der Grondwet en van de zijde der Vereenigde Staten van Amerika door den President der Vereenigde Staten van Amerika op advies en met goedkeuring van den Senaat der Vereenigde Staten gesloten worden.
 
-#### Artikel II
+##### Artikel II
 
 De bepalingen van dit verdrag zullen niet worden ingeroepen met betrekking tot eenig geschil, waarvan het onderwerp
 
@@ -44,7 +68,7 @@ De bepalingen van dit verdrag zullen niet worden ingeroepen met betrekking tot e
 
 - d). beheerscht wordt door de inachtneming van de verplichtingen van Nederland in overeenstemming met het Handvest van den Volkenbond of aan die inachtneming raakt.
 
-#### Artikel III
+##### Artikel III
 
 Dit verdrag zal worden bekrachtigd door Hare Majesteit de Koningin der Nederlanden en door den President der Vereenigde Staten van Amerika op advies en met goedkeuring van den Senaat der Vereenigde Staten.
 

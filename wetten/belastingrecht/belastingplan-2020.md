@@ -1,112 +1,140 @@
 ---
-title: "Belastingplan 2020"
+title: "Wet van 18 december 2019 tot wijziging van enkele belastingwetten en enige andere wetten (Belastingplan 2020)"
 identifier: "BWBR0042946"
-categorie: "Belastingrecht"
-publicatiedatum: 2021-01-01
-laatste_update: 2021-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042946"
+country: "nl"
+rank: "wet"
+publication_date: "2021-01-01"
+last_updated: "2021-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042946"
+soort: "wet"
+stam_id: "15287063"
+version_id: "26340932"
+internal_id: "C37438511"
+label_id: "15233124"
+dtd_version: "2.0"
+original_entry_into_force: "2020-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042946/2021-01-01/0"
+intitule_bron: "Stb.2019-510"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-12-18"
+intitule_published: "2019-12-27"
+intitule_in_force: "2019-12-27"
+intitule_status: "goed"
+original_publication: "Stb.2019-510"
+original_signed_date: "2019-12-18"
+original_published_date: "2019-12-27"
+original_effect: "nieuwe-regeling"
+original_dossier: "35302"
+original_url_id: "stb-2019-510"
+entry_into_force_date: "2020-01-01"
+entry_into_force_dossier: "35302"
+jci_1_3: "jci1.3:c:BWBR0042946&z=2021-01-01&g=2021-01-01"
+jci_1_0: "1.0:c:BWBR0042946&g=2021-01-01"
+citeertitel_status: "officieel"
+short_title: "Belastingplan 2020"
+signed_date: "2019-12-18"
+entry_into_force: "2020-01-01"
 ---
+# Wet van 18 december 2019 tot wijziging van enkele belastingwetten en enige andere wetten (Belastingplan 2020)
 
-# Belastingplan 2020
-
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel II
+##### Artikel II
 
 Vervallen
 
-#### Artikel III
+##### Artikel III
 
 Vervallen
 
-#### Artikel IV
+##### Artikel IV
 
 Vervallen
 
-#### Artikel V
+##### Artikel V
 
 Vervallen
 
-#### Artikel VI
+##### Artikel VI
 
 Vervallen
 
-#### Artikel VII
+##### Artikel VII
 
 Vervallen
 
-#### Artikel VIII
+##### Artikel VIII
 
 Vervallen
 
-#### Artikel IX
+##### Artikel IX
 
 Vervallen
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Invoeringswet Wet inkomstenbelasting 2001.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt de Mijnbouwwet.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt de Wet maatregelen woningmarkt 2014 II.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt de Wet op belastingen van rechtsverkeer.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt de Wet op de omzetbelasting 1968.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Wijzigt de Wet op de accijns.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Wijzigt de Wet op de accijns.
 
-#### Artikel XIX
+##### Artikel XIX
 
 Wijzigt het Belastingplan 2018.
 
-#### Artikel XX
+##### Artikel XX
 
 Wijzigt het Belastingplan 2019.
 
-#### Artikel XXI
+##### Artikel XXI
 
 Wijzigt de Wet bedrijfsleven 2019.
 
-#### Artikel XXII
+##### Artikel XXII
 
 Wijzigt de Belastingwet BES.
 
-#### Artikel XXIII
+##### Artikel XXIII
 
 Wijzigt de Wet inkomstenbelasting BES.
 
-#### Artikel XXIV
+##### Artikel XXIV
 
 Ingeval de samenloop van wetten die in 2019 in het Staatsblad zijn of worden gepubliceerd en wijzigingen aanbrengen in een of meer belastingwetten, niet of niet juist is geregeld, of indien als gevolg van die samenloop onjuistheden ontstaan in de aanduiding van artikelen, artikelonderdelen, verwijzingen en dergelijke in de desbetreffende wetten, kunnen die wetten op dit punt bij ministeriële regeling worden gewijzigd.
 
-#### Artikel XXV
+##### Artikel XXV
 
 Deze wet treedt in werking met ingang van 1 januari 2020, met dien verstande dat:
 
@@ -124,7 +152,7 @@ Deze wet treedt in werking met ingang van 1 januari 2020, met dien verstande dat
 
 - e. [artikel XXI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0042946&artikel=XXI&z=2021-01-01&g=2021-01-01), toepassing vindt voordat [artikel 7.4, onderdeel I, van de Wet bedrijfsleven 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041758&artikel=7.4) wordt toegepast.
 
-#### Artikel XXVI
+##### Artikel XXVI
 
 Deze wet wordt aangehaald als: Belastingplan 2020.
 

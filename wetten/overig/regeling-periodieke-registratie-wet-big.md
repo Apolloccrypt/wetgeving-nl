@@ -1,20 +1,46 @@
 ---
-title: "Regeling periodieke registratie Wet BIG"
+title: "Regeling van de minister van Volksgezondheid, Welzijn en Sport van 18 maart 2009, MEVA/BO-2819721, houdende regels inzake de periodieke registratie op grond van de Wet op de beroepen in de individuele gezondheidszorg"
 identifier: "BWBR0025605"
-categorie: "Overig"
-publicatiedatum: 2024-10-01
-laatste_update: 2024-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0025605"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-10-01"
+last_updated: "2024-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0025605"
+soort: "ministeriele-regeling"
+stam_id: "9965383"
+version_id: "30328732"
+internal_id: "C43504421"
+label_id: "9941744"
+dtd_version: "2.0"
+original_entry_into_force: "2024-09-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0025605/2024-10-01/0"
+intitule_bron: "Stcrt.2009-65"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-03-18"
+intitule_published: "2009-04-03"
+intitule_in_force: "2009-04-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-30417"
+original_signed_date: "2024-09-13"
+original_published_date: "2024-09-20"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2024-30417"
+entry_into_force_date: "2024-09-13"
+jci_1_3: "jci1.3:c:BWBR0025605&z=2024-10-01&g=2024-10-01"
+jci_1_0: "1.0:c:BWBR0025605&g=2024-10-01"
+citeertitel_status: "officieel"
+short_title: "Regeling periodieke registratie Wet BIG"
+signed_date: "2024-09-13"
+entry_into_force: "2024-09-13"
 ---
-
 # Regeling van de minister van Volksgezondheid, Welzijn en Sport van 18 maart 2009, MEVA/BO-2819721, houdende regels inzake de periodieke registratie op grond van de Wet op de beroepen in de individuele gezondheidszorg
 
 Gelet op [artikel 8, tweede lid, onderdeel b, en zevende lid, van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -26,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 - d. **cliënt:** een ieder die zorg vraagt of aan wie zorg wordt verleend.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Voor de opname van een aantekening in een van de registers op basis van [artikel 8, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8) is een periodiek registratie certificaat vereist waaruit blijkt dat betrokkene beschikt over de voor het betrokken beroep benodigde kerncompetenties, genoemd in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=4&z=2024-10-01&g=2024-10-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=5&z=2024-10-01&g=2024-10-01), [6a tot en met 6h](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=6a&z=2024-10-01&g=2024-10-01). Het periodiek registratie certificaat is op het moment van het indienen van de aanvrage voor opname van een aantekening in een van de registers op basis van artikel 8, tweede lid, onderdeel b, van de wet, niet ouder dan twee jaar.
 
@@ -48,7 +74,7 @@ In deze regeling wordt verstaan onder:
 
 - b. een getuigschrift waaruit blijkt dat de betrokkene met goed gevolg het examen ter afsluiting van een opleiding tot verpleegkundige heeft afgelegd die is opgenomen in het Centrale register voor opleidingen hoger onderwijs, genoemd in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13). Het hiervoor vermelde getuigschrift is op het moment van het indienen van de aanvrage voor opname van een aantekening in het register van verpleegkundigen op basis van [artikel 8, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8), niet ouder dan twee jaar.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De in [artikel 8, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8) bedoelde werkzaamheden,
 
@@ -58,7 +84,7 @@ In deze regeling wordt verstaan onder:
 
 2. Indien de werkzaamheden worden uitgeoefend in een ander beroep dan het beroep waarvoor betrokkene is geregistreerd in het bedoelde register, geldt naast de in het eerste lid genoemde eisen, de eis dat de werkzaamheden worden verricht op tenminste hetzelfde niveau als het niveau van de opleiding tot het beroep dat leidt tot een getuigschrift dat recht geeft op inschrijving in het register, waarin betrokkene is geregistreerd.
 
-#### Artikel 4
+##### Artikel 4
 
 Voor het beroep van fysiotherapeut gelden de volgende kerncompetenties en kernvaardigheden:
 
@@ -66,7 +92,7 @@ Voor het beroep van fysiotherapeut gelden de volgende kerncompetenties en kernva
 
 - b. De fysiotherapeut voert, op methodische wijze en in samenwerking met de cliënt, naar de laatste stand van de kennis het behandelplan uit. De cliënt wordt geïnformeerd, begeleid en ondersteund door de fysiotherapeut tijdens de behandeling. De fysiotherapeut evalueert daarbij periodiek de effecten van interventies op het bewegen en de gezondheidstoestand van de cliënt en stelt het behandelplan zonodig bij om optimale resultaten te bereiken.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Voor het beroep van verloskundige gelden de volgende kerncompetenties en kernvaardigheden:
 
@@ -88,7 +114,7 @@ De verloskundige stelt een behandelplan op, bespreekt dat met de vrouw en consul
 
 5. Het in het eerste lid, onderdeel d, genoemde aspect is zodanig ingericht dat de verloskundige in staat is om periodiek de effecten van de zorginterventies op de gezondheidstoestand van de vrouw te evalueren en het behandelplan zodanig bij te stellen dat optimale resultaten bereikt kunnen worden.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Voor het beroep van verpleegkundige gelden de volgende kerncompetenties en kernvaardigheden:
 
@@ -112,7 +138,7 @@ De verloskundige stelt een behandelplan op, bespreekt dat met de vrouw en consul
 
 6. Het in het eerste lid, onderdeel e, genoemde aspect is zodanig ingericht dat een verpleegkundige in staat is om periodiek de effecten van de zorgverlening op de gezondheidstoestand van de cliënt te evalueren en het behandelplan zodanig bij te stellen dat optimale resultaten bereikt kunnen worden. De verpleegkundige roept de beroepsbeoefenaar die de cliënt heeft toegewezen in consult, wanneer er sprake is van veranderingen in de zorgvraag of in de omgeving van de cliënt die de competentie of de verantwoordelijkheid van de verpleegkundige te boven gaan.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Als werkzaamheden die worden gelijkgesteld met werkzaamheden op het gebied van de beroepsuitoefening van de fysiotherapeut wordt aangewezen het verzorgen van onderwijs in het centrale vakgebied fysiotherapie, voor zover onderwijs gegeven wordt in de vakken genoemd in [artikel 3, eerste lid, van het Besluit opleidingseisen en deskundigheidsgebied fysiotherapeut](https://wetten.overheid.nl/jci1.3:c:BWBR0008962&artikel=3) en voor zover het onderwijs wordt gegeven aan een onderwijsinstelling die opleidingen verzorgt die leiden tot een getuigschrift dat recht geeft op inschrijving in het register van fysiotherapeut.
 
@@ -152,17 +178,17 @@ De verloskundige stelt een behandelplan op, bespreekt dat met de vrouw en consul
 
 11. Als werkzaamheden die worden gelijkgesteld met werkzaamheden op het gebied van de beroepsuitoefening van klinisch technoloog wordt aangewezen het verzorgen van onderwijs dat gericht is op het verwerven van kennis van en inzicht en vaardigheid in de competenties genoemd in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043300&artikel=3) en [4 van het Besluit opleidingseisen en deskundigheidsgebied klinisch technoloog](https://wetten.overheid.nl/jci1.3:c:BWBR0043300&artikel=4), voor zover het onderwijs wordt gegeven aan een onderwijsinstelling die opleidingen verzorgt die leiden tot een getuigschrift dat recht geeft op inschrijving in het register van klinisch technologen, bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3).
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling wordt aangehaald als: Regeling periodieke registratie Wet BIG.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 6a
+##### Artikel 6a
 
 1. Voor het beroep van arts gelden de volgende kerncompetenties en kernvaardigheden:
 
@@ -194,7 +220,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - d. betrekt de arts de persoonlijke omstandigheden en voorkeuren van de cliënt en houdt de arts rekening met de fysieke en emotionele belastbaarheid van de cliënt.
 
-#### Artikel 6b
+##### Artikel 6b
 
 1. Voor het beroep van tandarts gelden de volgende kerncompetenties en kernvaardigheden:
 
@@ -218,7 +244,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 5. De in het eerste lid, onderdeel d, genoemde aspecten worden zodanig ingericht dat de tandarts in staat is om periodiek de effecten van zorginterventies op de gezondheidstoestand van de cliënt te evalueren en het behandelplan zodanig bij te stellen dat optimale resultaten bereikt kunnen worden.
 
-#### Artikel 6c
+##### Artikel 6c
 
 1. Voor het beroep van apotheker gelden de volgende kerncompetenties en kernvaardigheden:
 
@@ -238,7 +264,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 5. De in het eerste lid, onderdeel d, genoemde aspecten worden zodanig ingericht dat de apotheker in staat is om aan de hand van de uitslag van wetenschappelijk, laboratorium- en klinisch onderzoek de werking en bijwerkingen van geneesmiddelen te beoordelen en deze te interpreteren voor de individuele situatie van een cliënt.
 
-#### Artikel 6d
+##### Artikel 6d
 
 1. Voor het beroep van gezondheidszorgpsycholoog gelden de volgende kerncompetenties en kernvaardigheden:
 
@@ -258,7 +284,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 5. Het in het eerste lid, onderdeel d, genoemde aspect wordt zodanig ingericht dat de gezondheidszorgpsycholoog in staat is om periodiek de effecten van de zorginterventies op de geestelijke gezondheidstoestand van de cliënt te evalueren en het behandelplan zodanig bij te stellen dat optimale resultaten bereikt kunnen worden.
 
-#### Artikel 6e
+##### Artikel 6e
 
 1. Voor het beroep van psychotherapeut gelden de volgende kerncompetenties en kernvaardigheden:
 
@@ -284,13 +310,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 7a
+##### Artikel 7a
 
 1. Als werkzaamheden die worden gelijkgesteld met werkzaamheden op het gebied van de beroepsuitoefening van een van de in [artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) genoemde beroepen, worden aangewezen de werkzaamheden die worden verricht ten behoeve van een beroepsgerelateerde promotie ter verkrijging van de graad Doctor.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 6f
+##### Artikel 6f
 
 1. Voor het beroep van physician assistant gelden de volgende kerncompetenties en kernvaardigheden:
 
@@ -324,7 +350,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 6g
+##### Artikel 6g
 
 1. Voor het beroep van orthopedagoog-generalist gelden de volgende kerncompetenties en kernvaardigheden:
 
@@ -348,7 +374,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 5. De in het eerste lid, onderdeel d, genoemde kerncompetenties en kernvaardigheden worden zodanig ingericht dat de orthopedagoog-generalist in staat is om leerkrachten en zorg- en hulpverleners die betrokken zijn bij het opstellen en evalueren van een behandelings- of begeleidingsplan van een cliënt te begeleiden, aan te sturen of te ondersteunen.
 
-#### Artikel 6h
+##### Artikel 6h
 
 1. Voor het beroep van klinisch technoloog gelden de volgende kerncompetenties en kernvaardigheden:
 

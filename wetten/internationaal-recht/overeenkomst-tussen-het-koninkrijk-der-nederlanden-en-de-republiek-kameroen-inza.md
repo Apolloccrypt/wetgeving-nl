@@ -1,13 +1,38 @@
 ---
-title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Kameroen inzake het programma van wetenschappelijk en technisch onderzoek en ontwikkeling betreffende tropische regenwouden, genaamd "Tropenbos Kameroen""
+title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Kameroen inzake het programma van wetenschappelijk en technisch onderzoek en ontwikkeling betreffende tropische regenwouden, genaamd \"Tropenbos Kameroen\""
 identifier: "BWBV0001054"
-categorie: "Internationaal recht"
-publicatiedatum: 1995-07-06
-laatste_update: 1995-07-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001054"
+country: "nl"
+rank: "verdrag"
+publication_date: "1995-07-06"
+last_updated: "1995-07-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001054"
+soort: "verdrag"
+stam_id: "10002289663"
+version_id: "10002313542"
+internal_id: "C10006976251"
+label_id: "10002279654"
+dtd_version: "2.0"
+original_entry_into_force: "1995-07-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001054/1995-07-06/0"
+intitule_bron: "Trb.1992-205"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-07-24"
+intitule_published: "1992-12-24"
+intitule_in_force: "1995-08-17"
+intitule_status: "goed"
+original_publication: "Trb.1992-205"
+original_signed_date: "1992-07-24"
+original_published_date: "1992-12-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1992-205"
+entry_into_force_date: "1995-07-06"
+jci_1_3: "jci1.3:c:BWBV0001054&z=1995-07-06&g=1995-07-06"
+jci_1_0: "1.0:c:BWBV0001054&g=1995-07-06"
+citeertitel_status: "redactioneel"
+signed_date: "1992-07-24"
+entry_into_force: "1995-07-06"
 ---
-
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Kameroen inzake het programma van wetenschappelijk en technisch onderzoek en ontwikkeling betreffende tropische regenwouden, genaamd "Tropenbos Kameroen"
 
 De Regering van het Koninkrijk der Nederlanden, enerzijds, en de Regering van de Republiek Kameroen, anderzijds (hierna te noemen de „Overeenkomstsluitende Partijen");
@@ -20,11 +45,11 @@ Strevend naar het bevorderen van de samenwerking tussen hun beide landen op het 
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 De Overeenkomstsluitende Partijen stemmen toe gezamenlijk pogingen in het werk te stellen om het Tropenbosprogramma voor Kameroen te bevorderen en uit te voeren. De activiteiten van het Tropenbosprogramma voor Kameroen vormen een integrerend deel van het nationale programma voor bosinventarisatie en herbebossing, welk programma is gericht op het behoud en de ontwikkeling van de bossen in Kameroen.
 
-#### Artikel 2
+##### Artikel 2
 
 De doelstellingen van het Tropenbosprogramma voor Kameroen zijn:
 
@@ -34,7 +59,7 @@ De doelstellingen van het Tropenbosprogramma voor Kameroen zijn:
 
 - c. de specifieke programma's voor wetenschappelijk en technisch onderzoek voor het behoud van de bossen in Kameroen op te stellen en uit te voeren.
 
-#### Artikel 3
+##### Artikel 3
 
 De volgende werkzaamheden zullen worden verricht:
 
@@ -54,7 +79,7 @@ De volgende werkzaamheden zullen worden verricht:
 
 - h. alle overige werkzaamheden zoals tussen de Overeenkomstsluitende Partijen overeengekomen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De Overeenkomstsluitende Partijen stellen een Commissie Tropenbos voor Kameroen in (hierna te noemen de Commissie), die uit ten hoogste 15 leden bestaat.
 
@@ -84,11 +109,11 @@ De Commissie komt ten minste twee maal per jaar bijeen.
 
 3. De Commissie stelt technische sub-commissies in, bestaande uit leden van de Commissie. Iedere technische sub-commissie dient zich bezig te houden hetzij met specifieke Tropenbos-werkzaamheden, hetzij mede onderling samenhangende werkzaamheden op een bepaalde plaats. De technische sub-commissies kunnen vertegenwoordigers van samenwerkende organisaties uitnodigen aan hun besprekingen deel te nemen. De aldus ingestelde technische sub-commissies adviseren de Commissie met betrekking tot de Tropenbos-werkzaamheden, de voorgestelde projecten en de daarmee samenhangende administratieve akkoorden.
 
-#### Artikel 5
+##### Artikel 5
 
 Alle uitgaven voor de werkzaamheden vermeld in artikel 3 hierboven worden overeengekomen tussen de bevoegde autoriteiten volgens de in de onderscheiden landen gebruikelijke procedures, op grond van de aanbevelingen van de Commissie. De aanbevelingen dienen een samenhangend plan van activiteiten te vormen.
 
-#### Artikel 6
+##### Artikel 6
 
 Ten aanzien van het niet-Kameroense personeel dat in Kameroen te werk wordt gesteld in het kader van het Tropenbosprogramma, zal de Regering van Kameroen:
 
@@ -108,7 +133,7 @@ Ten aanzien van het niet-Kameroense personeel dat in Kameroen te werk wordt gest
 
 - h. de voorwerpen en uitrustingen die uitsluitend zijn bestemd voor officieel gebruik in het kader van het Tropenbosprogramma, vrijstellen van douanerechten, met inachtneming van de Kameroense voorschriften.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Deze Overeenkomst treedt voorlopig in werking op de datum van ondertekening en zal definitief in werking treden wanneer beide Overeenkomstsluitende Partijen elkaar schriftelijk ervan in kennis hebben gesteld dat aan de in hun onderscheiden landen constitutioneel vereiste formaliteiten is voldaan.
 
@@ -116,15 +141,15 @@ Ten aanzien van het niet-Kameroense personeel dat in Kameroen te werk wordt gest
 
 3. Deze Overeenkomst kan bij onderlinge overeenstemming tussen de Overeenkomstsluitende Partijen worden gewijzigd.
 
-#### Artikel 8
+##### Artikel 8
 
 Geschillen die zich mochten voordoen bij de toepassing of de uitlegging van deze Overeenkomst worden geregeld via rechtstreekse onderhandelingen dan wel op iedere andere door de Overeenkomstsluitende Partijen aanvaarde wijze.
 
-#### Artikel 9
+##### Artikel 9
 
 Wat het Koninkrijk der Nederlanden betreft, is deze Overeenkomst slechts van toepassing op het Rijk in Europa.
 
-#### Artikel 10
+##### Artikel 10
 
 Indien deze Overeenkomst wordt opgezegd terwijl er nog werkzaamheden in uitvoering zijn, blijven de bepalingen van de Overeenkomst van kracht totdat ieder project, zoals dit is omschreven in de op dat project van toepassing zijnde administratieve akkoorden, volledig is uitgevoerd.
 

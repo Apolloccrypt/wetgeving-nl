@@ -1,96 +1,123 @@
 ---
-title: "Reparatiewet VWS 2006"
+title: "Wet van 30 november 2006 tot wijziging van diverse wetten op of in verband met het terrein van VWS, ten einde wetstechnische gebreken te herstellen en andere wijzigingen van ondergeschikte aard aan te brengen (Reparatiewet VWS 2006)"
 identifier: "BWBR0023289"
-categorie: "Overig"
-publicatiedatum: 2013-01-01
-laatste_update: 2013-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0023289"
+country: "nl"
+rank: "wet"
+publication_date: "2013-01-01"
+last_updated: "2013-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023289"
+soort: "wet"
+stam_id: "9376183"
+version_id: "15092732"
+internal_id: "C20599811"
+label_id: "9354444"
+dtd_version: "2.0"
+original_entry_into_force: "2007-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023289/2013-01-01/0"
+intitule_bron: "Stb.2006-644"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-11-30"
+intitule_published: "2006-12-19"
+intitule_in_force: "2006-12-22"
+intitule_status: "goed"
+original_publication: "Stb.2006-644"
+original_signed_date: "2006-11-30"
+original_published_date: "2006-12-19"
+original_effect: "nieuwe-regeling"
+original_dossier: "30831"
+original_url_id: "stb-2006-644"
+entry_into_force_date: "2007-01-01"
+jci_1_3: "jci1.3:c:BWBR0023289&z=2013-01-01&g=2013-01-01"
+jci_1_0: "1.0:c:BWBR0023289&g=2013-01-01"
+citeertitel_status: "officieel"
+short_title: "Reparatiewet VWS 2006"
+signed_date: "2006-11-30"
+entry_into_force: "2007-01-01"
 ---
+# Wet van 30 november 2006 tot wijziging van diverse wetten op of in verband met het terrein van VWS, ten einde wetstechnische gebreken te herstellen en andere wijzigingen van ondergeschikte aard aan te brengen (Reparatiewet VWS 2006)
 
-# Reparatiewet VWS 2006
-
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Algemene nabestaandenwet.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Algemene wet bestuursrecht.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Algemene Wet Bijzondere Ziektekosten.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Beroepswet.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Infectieziektenwet.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Invoerings- en aanpassingswet Zorgverzekeringswet.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Invoeringswet Wet financiering sociale verzekeringen.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Verzamelwet sociale verzekeringen 2006 (Stb. 2005/708).
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Warenwet.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Wet financiering sociale verzekeringen.
 
-#### Artikel XI
+##### Artikel XI
 
 De Wet herziening overeenkomstenstelsel zorg wordt ingetrokken.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt de Wet inzake bloedvoorziening.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt de Wet kinderopvang.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt de Wet klachtrecht cliënten zorgsector.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt de Wet marktordening gezondheidszorg.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Wijzigt de Wet medisch-wetenschappelijk onderzoek met mensen.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Wijzigt de Wet op de orgaandonatie.
 
-#### Artikel XIX
+##### Artikel XIX
 
 Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.
 
-#### Artikel XX
+##### Artikel XX
 
 Wijzigt de Wet toelating zorginstellingen.
 
-#### Artikel XXI
+##### Artikel XXI
 
 Ingetrokken worden:
 
@@ -102,35 +129,35 @@ Ingetrokken worden:
 
 - d. de [Wet van 26 september 2002 tot wijziging van de Wet op de jeugdhulpverlening in verband met de advies- en meldpunten kindermishandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0014071) (Stb. 515).
 
-#### Artikel XXII
+##### Artikel XXII
 
 Wijzigt de Wijzigingswet Wet bijzondere opnemingen in psychiatrische ziekenhuizen (voorwaardelijke machtiging en observatiemachtiging).
 
-#### Artikel XXIII
+##### Artikel XXIII
 
 De [Wet van 14 november 2002 tot wijziging van de Ziekenfondswet in verband met het opheffen van de afzonderlijke kas van het Algemeen Ziekenfonds voor Zeelieden (opheffing kas zeelieden)](https://wetten.overheid.nl/jci1.3:c:BWBR0014281) (Stb. 583) wordt ingetrokken.
 
-#### Artikel XXV
+##### Artikel XXV
 
 Wijzigt de Wijzigingswet Wet op de orgaandonatie (evaluatie).
 
-#### Artikel XXVI
+##### Artikel XXVI
 
 Wijzigt de Zorgverzekeringswet.
 
-#### Artikel XXVII
+##### Artikel XXVII
 
 Wijzigt de Wet voorzieningen gehandicapten.
 
-#### Artikel XXVIII
+##### Artikel XXVIII
 
 Wijzigt de Wet maatschappelijke ondersteuning.
 
-#### Artikel XXIX
+##### Artikel XXIX
 
 Wijzigt de Opiumwet.
 
-#### Artikel XXX
+##### Artikel XXX
 
 1. De artikelen van deze wet, met uitzondering van artikel XXIV, dat in werking treedt met ingang van 1 januari 2009, treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
@@ -140,7 +167,7 @@ Wijzigt de Opiumwet.
 
 4. Indien deze wet niet eerder in werking treedt dan 1 januari 2007, werkt [Artikel XXVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0023289&artikel=XXVIII&z=2013-01-01&g=2013-01-01) terug tot dit tijdstip.
 
-#### Artikel XXXI
+##### Artikel XXXI
 
 Deze wet wordt aangehaald als: Reparatiewet VWS 2006.
 

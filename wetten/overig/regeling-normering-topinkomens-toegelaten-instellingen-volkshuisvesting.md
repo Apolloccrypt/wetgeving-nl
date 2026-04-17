@@ -1,20 +1,46 @@
 ---
-title: "Regeling normering topinkomens toegelaten instellingen volkshuisvesting"
+title: "Regeling van de Minister voor Wonen en Rijksdienst van 22 november 2013, nr. 2013 – 0000717365, houdende vaststelling van de indeling van de toegelaten instellingen volkshuisvesting in klassen met daarbij toepasselijke bezoldigingsmaxima ten aanzien van hun topfunctionarissen (Regeling bezoldigingsmaxima topfunctionarissen toegelaten instellingen volkshuisvesting 2014)"
 identifier: "BWBR0034245"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034245"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034245"
+soort: "ministeriele-regeling"
+stam_id: "12442313"
+version_id: "20910952"
+internal_id: "C30023731"
+label_id: "12413124"
+dtd_version: "2.0"
+original_entry_into_force: "2014-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034245/2026-01-01/0"
+intitule_bron: "Stcrt.2013-33942"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-11-22"
+intitule_published: "2013-11-29"
+intitule_in_force: "2013-11-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-33942"
+original_signed_date: "2013-11-22"
+original_published_date: "2013-11-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-33942"
+entry_into_force_date: "2014-01-01"
+jci_1_3: "jci1.3:c:BWBR0034245&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0034245&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling normering topinkomens toegelaten instellingen volkshuisvesting"
+signed_date: "2013-11-22"
+entry_into_force: "2014-01-01"
 ---
-
 # Regeling van de Minister voor Wonen en Rijksdienst van 22 november 2013, nr. 2013 – 0000717365, houdende vaststelling van de indeling van de toegelaten instellingen volkshuisvesting in klassen met daarbij toepasselijke bezoldigingsmaxima ten aanzien van hun topfunctionarissen (Regeling bezoldigingsmaxima topfunctionarissen toegelaten instellingen volkshuisvesting 2014)
 
 Gelet op de [artikelen 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.7) en [2.9 van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.9);
 
 Besluit:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 In deze regeling wordt verstaan onder:
 
@@ -22,11 +48,11 @@ In deze regeling wordt verstaan onder:
 
 - b. **wet:** [Wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249).
 
-#### Artikel 2. Indeling in bezoldigingsklassen
+##### Artikel 2. Indeling in bezoldigingsklassen
 
 Een toegelaten instelling wordt ingedeeld in een bezoldigingsklasse overeenkomstig de bij deze regeling behorende tabel.
 
-#### Artikel 3. Bezoldigingsmaxima
+##### Artikel 3. Bezoldigingsmaxima
 
 De bezoldiging van een topfunctionaris van een toegelaten instelling bedraagt per bezoldigingsklasse in 2026 ten hoogste:
 
@@ -41,7 +67,7 @@ De bezoldiging van een topfunctionaris van een toegelaten instelling bedraagt pe
 | G | € 245.000 |
 | H | De maximale bezoldiging, bedoeld in [artikel 2.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.3). |
 
-#### Artikel 4. Indeling in een andere klasse
+##### Artikel 4. Indeling in een andere klasse
 
 1. Een aanvraag als bedoeld in [artikel 2.7, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.7) van een toegelaten instelling om met ingang van een kalenderjaar te worden ingedeeld in een andere klasse dan die waarin zij volgens de bij deze regeling behorende tabel is ingedeeld, wordt ingediend voor 1 maart van het kalenderjaar.
 
@@ -49,15 +75,15 @@ De bezoldiging van een topfunctionaris van een toegelaten instelling bedraagt pe
 
 3. Bij een aanvraag als bedoeld in het eerste lid wordt een verklaring van het toezichthoudende orgaan van de toegelaten instelling gevoegd waaruit zijn instemming met de aanvraag blijkt.
 
-#### Artikel 5. Digitale melding
+##### Artikel 5. Digitale melding
 
 De verantwoordelijke, bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=1.1), verstrekt langs elektronische weg op uiterlijk 1 juli van het jaar volgend op het boekjaar, in aanvulling op de openbaarmakingsplicht, bedoeld in [artikel 4.1, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=4.1), de gegevens bedoeld in artikel 4.1, eerste en tweede lid, van de wet, aan de minister.
 
-#### Artikel 6. Inwerkingtreding
+##### Artikel 6. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2014.
 
-#### Artikel 7. Citeertitel
+##### Artikel 7. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling normering topinkomens toegelaten instellingen volkshuisvesting.
 

@@ -1,13 +1,37 @@
 ---
-title: "Warenwetbesluit draagbaar klimmaterieel"
+title: "Besluit van 29 januari 1986, houdende regelen met betrekking tot bepaalde ladders en trappen"
 identifier: "BWBR0003914"
-categorie: "Bestuursrecht"
-publicatiedatum: 2021-07-01
-laatste_update: 2021-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003914"
+country: "nl"
+rank: "amvb"
+publication_date: "2021-07-01"
+last_updated: "2021-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003914"
+soort: "AMvB"
+stam_id: "349323"
+version_id: "26417972"
+internal_id: "C37533731"
+label_id: "341364"
+dtd_version: "2.0"
+original_entry_into_force: "2019-12-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003914/2021-07-01/0"
+intitule_bron: "Stb.1986-86"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1986-01-29"
+intitule_status: "goed"
+original_publication: "Stb.2020-5"
+original_signed_date: "2019-12-18"
+original_published_date: "2020-01-20"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2020-5"
+entry_into_force_date: "2019-12-18"
+jci_1_3: "jci1.3:c:BWBR0003914&z=2021-07-01&g=2021-07-01"
+jci_1_0: "1.0:c:BWBR0003914&g=2021-07-01"
+citeertitel_status: "officieel"
+short_title: "Warenwetbesluit draagbaar klimmaterieel"
+signed_date: "2019-12-18"
+entry_into_force: "2019-12-18"
 ---
-
 # Besluit van 29 januari 1986, houdende regelen met betrekking tot bepaalde ladders en trappen
 
 Op de voordracht van de Staatssecretaris van Welzijn, Volksgezondheid en Cultuur van 24 januari 1985, DG Vgz/VVP/P, nr. 80093, gedaan mede namens de Staatssecretaris van Economische Zaken, P. H. van Zeil en de Staatssecretaris van Sociale Zaken en Werkgelegenheid, A. Kappeyne van de Coppello;
@@ -24,7 +48,7 @@ Gezien het nader rapport van de Staatssecretaris van Welzijn, Volksgezondheid en
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -44,7 +68,7 @@ Hebben goedgevonden en verstaan:
 
 - b. door Onze Ministers van Volksgezondheid, Welzijn en Sport en van Sociale Zaken en Werkgelegenheid tezamen aan te wijzen draagbaar klimmaterieel.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Draagbaar klimmaterieel moet:
 
@@ -54,7 +78,7 @@ Hebben goedgevonden en verstaan:
 
 2. Onze Ministers van Volksgezondheid, Welzijn en Sport en van Sociale Zaken en Werkgelegenheid tezamen kunnen omtrent het in het eerste lid bepaalde nadere regelen stellen. Deze regelen worden in de **Staatscourant** bekend gemaakt.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Draagbaar klimmaterieel moet zijn voorzien van de volgende aanduidingen:
 
@@ -68,17 +92,17 @@ Hebben goedgevonden en verstaan:
 
 3. Draagbaar klimmaterieel moet zijn vergezeld van een handleiding welke tenminste de in de bij dit besluit behorende bijlage "Voorschriften inzake de inhoud van de gebruiksaanwijzing en de handleiding voor draagbaar klimmaterieel" genoemde voorschriften bevat, of voorschriften van gelijke strekking, voorzover deze betrekking hebben op het betreffende materieel. Deze handleiding moet duidelijk leesbaar zijn en in de Nederlandse taal zijn gesteld.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Voor de beoordeling of draagbaar klimmaterieel voldoet aan het bij of krachtens dit besluit bepaalde, moet worden gebruik gemaakt van de terzake door Onze Ministers van Volksgezondheid, Welzijn en Sport en van Sociale Zaken en Werkgelegenheid vastgestelde onderzoekingsmethoden voorzover deze daarvoor toereikend zijn.
 
 2. Deze onderzoekingsmethoden worden in de **Staatscourant** bekend gemaakt.
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit wordt aangehaald als: Warenwetbesluit draagbaar klimmaterieel.
 
@@ -180,7 +204,7 @@ D. 9. Berg houten draagbaar klimmaterieel op in een koele en voldoende geventile
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Het is verboden draagbaar klimmaterieel te verhandelen, te vervaardigen of binnen Nederlands grondgebied te brengen anders dan met inachtneming van de bij of krachtens dit besluit gestelde voorschriften.
 

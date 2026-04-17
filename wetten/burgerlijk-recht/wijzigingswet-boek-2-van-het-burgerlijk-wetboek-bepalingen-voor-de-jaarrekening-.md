@@ -1,14 +1,38 @@
 ---
-title: "Wijzigingswet Boek 2 van het Burgerlijk Wetboek (bepalingen voor de jaarrekening van banken)"
+title: "Wet van 17 maart 1993, houdende bepalingen voor de jaarrekening van banken"
 identifier: "BWBR0005916"
-categorie: "Burgerlijk recht"
-publicatiedatum: 1993-05-28
-laatste_update: 1993-05-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005916"
+country: "nl"
+rank: "wet"
+publication_date: "1993-05-28"
+last_updated: "1993-05-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005916"
+soort: "wet"
+stam_id: "496523"
+version_id: "734392"
+internal_id: "C734391"
+label_id: "482614"
+dtd_version: "2.0"
+original_entry_into_force: "1993-05-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005916/1993-05-28/0"
+intitule_bron: "Stb.1993-258"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1993-03-17"
+intitule_status: "goed"
+original_publication: "Stb.1993-258"
+original_signed_date: "1993-03-17"
+original_effect: "nieuwe-regeling"
+original_dossier: "22169"
+entry_into_force_date: "1993-05-28"
+entry_into_force_dossier: "22169"
+jci_1_3: "jci1.3:c:BWBR0005916&z=1993-05-28&g=1993-05-28"
+jci_1_0: "1.0:c:BWBR0005916&g=1993-05-28"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet Boek 2 van het Burgerlijk Wetboek (bepalingen voor de jaarrekening van banken)"
+signed_date: "1993-03-17"
+entry_into_force: "1993-05-28"
 ---
-
-# Wijzigingswet Boek 2 van het Burgerlijk Wetboek (bepalingen voor de jaarrekening van banken)
+# Wet van 17 maart 1993, houdende bepalingen voor de jaarrekening van banken
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,29 +40,29 @@ Alzo Wij in overweging genomen hebben, dat de wet moet worden aangepast aan de r
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel II
+##### Artikel II
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel III
+##### Artikel III
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel IV
+##### Artikel IV
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel V
+##### Artikel V
 
 Bevat wijzigingen in andere regelgeving.
 
 #### Overgangs- en slotbepalingen
 
-#### Artikel VI
+##### Artikel VI
 
 1. Tot aan het boekjaar dat aanvangt op of na 1 januari 1998 mogen banken als bedoeld in [artikel 415](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=415), voor zover dit geboden is om redenen van voorzichtigheid wegens de algemene risico's van haar bankbedrijf, de niet tot de vaste activa, en evenmin tot de handelsportefeuille behorende effecten als omschreven in het tweede lid, alsmede de vorderingen op bankiers en cliënten met ten hoogste 4% onderwaarderen van de verkrijgingsprijs of lagere marktwaarde of wat betreft de vorderingen van de boekwaarde.
 
@@ -62,7 +86,7 @@ Bevat wijzigingen in andere regelgeving.
 
 8. Indien lid 1 wordt toegepast, wordt het totale bedrag van de onderwaardering alsmede dat van de terugnemingen gemeld aan De Nederlandsche Bank N.V.
 
-#### Artikel VII
+##### Artikel VII
 
 1. Deze wet treedt in werking met ingang van de dag na de datum van het **Staatsblad** waarin zij wordt geplaatst.
 

@@ -1,13 +1,35 @@
 ---
 title: "Vierde Aanvullend Protocol bij het Algemeen Verdrag nopens de voorrechten en immuniteiten van de Raad van Europa"
 identifier: "BWBV0004574"
-categorie: "Internationaal recht"
-publicatiedatum: 1961-12-16
-laatste_update: 1961-12-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004574"
+country: "nl"
+rank: "verdrag"
+publication_date: "1961-12-16"
+last_updated: "1961-12-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004574"
+soort: "verdrag"
+stam_id: "10004198423"
+version_id: "10004374742"
+internal_id: "C10006999901"
+label_id: "10004183364"
+dtd_version: "2.0"
+original_entry_into_force: "1961-12-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004574/1961-12-16/0"
+intitule_bron: "Trb.1962-56"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1962-06-28"
+intitule_in_force: "1962-06-28"
+intitule_status: "goed"
+original_publication: "Trb.1962-56"
+original_published_date: "1962-06-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1962-56"
+entry_into_force_date: "1961-12-16"
+jci_1_3: "jci1.3:c:BWBV0004574&z=1961-12-16&g=1961-12-16"
+jci_1_0: "1.0:c:BWBV0004574&g=1961-12-16"
+citeertitel_status: "redactioneel"
+entry_into_force: "1961-12-16"
 ---
-
 # Vierde Aanvullend Protocol bij het Algemeen Verdrag nopens de voorrechten en immuniteiten van de Raad van Europa
 
 The Governments signatory hereto, being Members of the Council of Europe,
@@ -18,11 +40,11 @@ Considering that it is necessary to specify and define the said privileges and i
 
 Have agreed as follows:
 
-#### Article 1
+##### Article 1
 
 For the purposes of this Protocol, the term “judges” means judges elected in accordance with [Article 39 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001000&artikel=39) as well as any **ad hoc** judge appointed by a State party concerned in pursuance of [Article 43 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001000&artikel=43).
 
-#### Article 2
+##### Article 2
 
 The judges shall, while exercising their functions and during journeys made in the exercise of their functions, enjoy the following privileges and immunities:
 
@@ -30,7 +52,7 @@ The judges shall, while exercising their functions and during journeys made in t
 
 - (b). exemption in respect of themselves and their spouses as regards any restrictions on their freedom of movement on exit from and return to their country of residence, and entry into and exit from the country in which they exercise their functions; and from aliens' registration in the country which they are visiting or through which they are passing in the exercise of their functions.
 
-#### Article 3
+##### Article 3
 
 In the course of journeys undertaken in the exercise of their functions, the judges shall, in the matter of customs and exchange control, be accorded:
 
@@ -38,21 +60,21 @@ In the course of journeys undertaken in the exercise of their functions, the jud
 
 - (b). by the Governments of other Members, the same facilities as those accorded to heads of diplomatic missions.
 
-#### Article 4
+##### Article 4
 
 1. Documents and papers of the Court, judges and Registry, in so far as they relate to the business of the Court, shall be inviolable.
 
 2. The official correspondence and other official communications of the Court, its members and the Registry may not be held up or subjected to censorship.
 
-#### Article 5
+##### Article 5
 
 In order to secure for the judges complete freedom of speech and complete independence in the discharge of their duties, the immunity from legal process in respect of words spoken or written and all acts done by them in discharging their duties shall continue to be accorded, notwithstanding that the persons concerned are no longer engaged in the discharge of such duties.
 
-#### Article 6
+##### Article 6
 
 Privileges and immunities are accorded to judges not for the personal benefit of the individuals themselves, but in order to safeguard the independent exercise of their functions. The Court alone, sitting in plenary session, shall be competent to waive the immunity of judges; it has not only the right, but is under a duty, to waive the immunity of a judge in any case where, in its opinion, the immunity would impede the course of justice, and where it can be waived without prejudice to the purpose for which the immunity is accorded.
 
-#### Article 7
+##### Article 7
 
 1. The provisions of Articles 2 to 5 of this Protocol shall apply to the Registrar of the Court and to the Deputy Registrar when he is acting as the Registrar, without prejudice to any privileges and immunities to which they may be entitled under [Article 18 of the General Agreement on Privileges and Immunities of the Council of Europe](https://wetten.overheid.nl/jci1.3:c:BWBV0005781&artikel=18).
 
@@ -60,13 +82,13 @@ Privileges and immunities are accorded to judges not for the personal benefit of
 
 3. The privileges and immunities referred to in paragraphs 1 and 2 of this Article are accorded to the Registrar and Deputy Registrar, not for the personal benefit of the individuals themselves, but to facilitate the discharge of their duties. The Court alone, sitting in plenary session, shall be competent to waive the immunity of its Registrar and Deputy Registrar; it has not only the right, but is under a duty, to waive such immunity in any case where, in its opinion, the immunity would impede the course of justice, and where it can be waived without prejudice to the purpose for which the immunity is accorded.
 
-#### Article 8
+##### Article 8
 
 1. Any State may, at the time of its signature without reservation in respect of ratification, of its ratification or at any time thereafter, declare, by notification addressed to the Secretary-General of the Council of Europe, that the present Protocol shall extend to all or any of the territories for whose international relations it is responsible and where, according to [Article 63 of the Convention for the Protection of Human Rights and Fundamental Freedoms](https://wetten.overheid.nl/jci1.3:c:BWBV0001000&artikel=63), the said [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001000) applies.
 
 2. The Protocol shall extend to the territory or territories named in the notification as from the thirtieth day after the receipt of this notification by the Secretary-General of the Council of Europe.
 
-#### Article 9
+##### Article 9
 
 This Protocol shall be open to the signature of the Members of the Council of Europe who may become parties to it either by:
 
@@ -76,13 +98,13 @@ This Protocol shall be open to the signature of the Members of the Council of Eu
 
 Instruments of ratification shall be deposited with the Secretary-General of the Council of Europe.
 
-#### Article 10
+##### Article 10
 
 1. This Protocol shall enter into force as soon as three Members of the Council of Europe shall, in accordance with Article 9, have signed it without reservation in respect of ratification or shall have ratified it.
 
 2. As regards any Member subsequently signing it without reservation in respect of ratification, or ratifying it, this Protocol shall enter into force at the date of signature or deposit of the instrument of ratification.
 
-#### Article 11
+##### Article 11
 
 The Secretary-General of the Council of Europe shall notify Members of the Council of:
 

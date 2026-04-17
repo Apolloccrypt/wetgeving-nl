@@ -1,13 +1,38 @@
 ---
 title: "Omzetbelasting, artiesten"
 identifier: "BWBR0022135"
-categorie: "Belastingrecht"
-publicatiedatum: 2007-06-29
-laatste_update: 2007-06-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0022135"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2007-06-29"
+last_updated: "2007-06-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0022135"
+soort: "beleidsregel"
+stam_id: "9127863"
+version_id: "14591902"
+internal_id: "C29351931"
+label_id: "9106904"
+dtd_version: "2.0"
+original_entry_into_force: "2007-06-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0022135/2007-06-29/0"
+intitule_bron: "Stcrt.2007-121"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-06-13"
+intitule_published: "2007-06-27"
+intitule_in_force: "2007-06-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-121"
+original_signed_date: "2007-06-13"
+original_published_date: "2007-06-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2007-121-p7-SC81029"
+entry_into_force_date: "2007-06-29"
+jci_1_3: "jci1.3:c:BWBR0022135&z=2007-06-29&g=2007-06-29"
+jci_1_0: "1.0:c:BWBR0022135&g=2007-06-29"
+citeertitel_status: "redactioneel"
+signed_date: "2007-06-13"
+entry_into_force: "2007-06-29"
 ---
-
 # Omzetbelasting, artiesten
 
 De Staatssecretaris van Financiën heeft het volgende besloten.

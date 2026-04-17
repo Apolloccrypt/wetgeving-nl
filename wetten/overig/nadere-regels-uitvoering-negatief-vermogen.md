@@ -1,20 +1,45 @@
 ---
-title: "Nadere regels uitvoering negatief vermogen"
+title: "Nadere regels inzake de wijze waarop het College sanering ziekenhuisvoorzieningen uitvoering geeft aan artikel 7a, eerste lid, van het Besluit sanering instellingen voor gezondheidszorg (Nadere regels uitvoering negatief vermogen)"
 identifier: "BWBR0013460"
-categorie: "Overig"
-publicatiedatum: 2002-11-28
-laatste_update: 2002-11-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013460"
+country: "nl"
+rank: "zbo"
+publication_date: "2002-11-28"
+last_updated: "2002-11-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013460"
+soort: "zbo"
+stam_id: "6349423"
+version_id: "11005792"
+internal_id: "C14898711"
+label_id: "6338254"
+original_entry_into_force: "2002-11-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013460/2002-11-28/0"
+intitule_bron: "Stcrt.2002-230"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-02-27"
+intitule_published: "2002-11-28"
+intitule_in_force: "2002-11-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2002-230"
+original_signed_date: "2002-02-27"
+original_published_date: "2002-11-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2002-230-p30-SC37258"
+entry_into_force_date: "2002-11-28"
+jci_1_3: "jci1.3:c:BWBR0013460&z=2002-11-28&g=2002-11-28"
+jci_1_0: "1.0:c:BWBR0013460&g=2002-11-28"
+citeertitel_status: "redactioneel"
+short_title: "Nadere regels uitvoering negatief vermogen"
+signed_date: "2002-02-27"
+entry_into_force: "2002-11-28"
 ---
-
 # Nadere regels inzake de wijze waarop het College sanering ziekenhuisvoorzieningen uitvoering geeft aan artikel 7a, eerste lid, van het Besluit sanering instellingen voor gezondheidszorg (Nadere regels uitvoering negatief vermogen)
 
 Gelet op [artikel 18b, lid 4, Wet ziekenhuisvoorzieningen](onbekend) jo[artikel 7a van het Besluit sanering instellingen voor gezondheidszorg](onbekend);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze Nadere regels uitvoering negatief vermogen wordt verstaan onder:
 
@@ -32,7 +57,7 @@ In deze Nadere regels uitvoering negatief vermogen wordt verstaan onder:
 
 - g. **Sluitingsbalans** de balans per datum beëindiging dienstverlening inzake ambulancehulpverlening.
 
-#### Artikel 2
+##### Artikel 2
 
 - a. Het genormaliseerde vermogen op 31 december 2000 moet negatief zijn om in aanmerking te komen voor subsidieverlening. Voorwaarde is voorts dat een goedkeurende accountantsverklaring bij de jaarrekening 2000 alsmede bij de genormaliseerde vermogensopstelling per 31 december 2000 wordt overgelegd waaruit dit genormaliseerde negatieve vermogen blijkt;
 
@@ -44,7 +69,7 @@ In deze Nadere regels uitvoering negatief vermogen wordt verstaan onder:
 
 - e. Indien door de accountant géén goedkeurende accountantsverklaring bij de jaarrekening 2000 alsmede bij de genormaliseerde vermogensopstelling per 31 december 2000 is afgegeven, dan komt het genormaliseerde negatief vermogen niet voor compensatie in aanmerking.
 
-#### Artikel 3
+##### Artikel 3
 
 Het College zal niet eerder tot subsidievaststelling overgaan dan nadat de definitieve aanvaardbare kosten en de opbrengstresultaten tot en met de sluitingsbalans door het College tarieven gezondheidszorg zijn vastgesteld.
 

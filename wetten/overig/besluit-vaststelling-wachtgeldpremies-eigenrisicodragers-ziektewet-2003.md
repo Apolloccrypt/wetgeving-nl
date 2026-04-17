@@ -1,28 +1,52 @@
 ---
 title: "Besluit vaststelling wachtgeldpremies eigenrisicodragers Ziektewet 2003"
 identifier: "BWBR0014793"
-categorie: "Overig"
-publicatiedatum: 2003-07-01
-laatste_update: 2003-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0014793"
+country: "nl"
+rank: "zbo"
+publication_date: "2003-07-01"
+last_updated: "2003-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0014793"
+soort: "zbo"
+stam_id: "6581923"
+version_id: "11407712"
+internal_id: "C15359831"
+label_id: "6570314"
+original_entry_into_force: "2003-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0014793/2003-07-01/0"
+intitule_bron: "Stcrt.2003-93"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-03-10"
+intitule_published: "2003-05-15"
+intitule_in_force: "2003-05-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2003-93"
+original_signed_date: "2003-03-10"
+original_published_date: "2003-05-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2003-093-p21-SC39964"
+entry_into_force_date: "2003-07-01"
+jci_1_3: "jci1.3:c:BWBR0014793&z=2003-07-01&g=2003-07-01"
+jci_1_0: "1.0:c:BWBR0014793&g=2003-07-01"
+citeertitel_status: "officieel"
+signed_date: "2003-03-10"
+entry_into_force: "2003-07-01"
 ---
-
 # Besluit vaststelling wachtgeldpremies eigenrisicodragers Ziektewet 2003
 
 Gelet op [artikel 85, eerste lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=85);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De premies ten aanzien van eigenrisicodragers als bedoeld in [artikel 63 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63), die ten gunste komen van de wachtgeldfondsen, bedoeld in [artikel 85, eerste lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=85), worden voor het tweede halfjaar van 2003 vastgesteld op de percentages, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014793&bijlage=1&z=2003-07-01&g=2003-07-01) bij dit besluit.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit wordt aangehaald als: Besluit vaststelling wachtgeldpremies eigenrisicodragers Ziektewet 2003.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt, onder voorbehoud van goedkeuring door de Minister van Sociale Zaken en Werkgelegenheid, in werking met ingang van 1 juli 2003.
 

@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregel handhaving toezicht recirculatie munten"
 identifier: "BWBR0036413"
-categorie: "Bestuursrecht"
-publicatiedatum: 2015-03-18
-laatste_update: 2015-03-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036413"
+country: "nl"
+rank: "zbo"
+publication_date: "2015-03-18"
+last_updated: "2015-03-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036413"
+soort: "zbo"
+stam_id: "13011053"
+version_id: "22234282"
+internal_id: "C31879261"
+label_id: "12980064"
+dtd_version: "2.0"
+original_entry_into_force: "2015-03-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036413/2015-03-18/0"
+intitule_bron: "Stcrt.2015-7165"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-03-03"
+intitule_published: "2015-03-17"
+intitule_in_force: "2015-03-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-7165"
+original_signed_date: "2015-03-03"
+original_published_date: "2015-03-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-7165"
+entry_into_force_date: "2015-03-18"
+jci_1_3: "jci1.3:c:BWBR0036413&z=2015-03-18&g=2015-03-18"
+jci_1_0: "1.0:c:BWBR0036413&g=2015-03-18"
+citeertitel_status: "officieel"
+signed_date: "2015-03-03"
+entry_into_force: "2015-03-18"
 ---
-
 # Beleidsregel handhaving toezicht recirculatie munten
 
 ### 1. Inleiding

@@ -1,26 +1,52 @@
 ---
-title: "Besluit aanscherping handhaving en sanctiebeleid SZW-wetgeving"
+title: "Besluit van 13 oktober 2012, houdende wijziging van een aantal algemene maatregelen van bestuur in verband met de Wet aanscherping handhaving en sanctiebeleid SZW-wetgeving (Besluit aanscherping handhaving en sanctiebeleid SZW-wetgeving)"
 identifier: "BWBR0032115"
-categorie: "Bestuursrecht"
-publicatiedatum: 2013-01-01
-laatste_update: 2013-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032115"
+country: "nl"
+rank: "amvb"
+publication_date: "2013-01-01"
+last_updated: "2013-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032115"
+soort: "AMvB"
+stam_id: "11876873"
+version_id: "19718902"
+internal_id: "C27666381"
+label_id: "11849044"
+dtd_version: "2.0"
+original_entry_into_force: "2012-10-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032115/2013-01-01/0"
+intitule_bron: "Stb.2012-484"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-10-13"
+intitule_published: "2012-10-19"
+intitule_in_force: "2012-10-19"
+intitule_status: "goed"
+original_publication: "Stb.2012-484"
+original_signed_date: "2012-10-13"
+original_published_date: "2012-10-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2012-484"
+entry_into_force_date: "2012-10-20"
+jci_1_3: "jci1.3:c:BWBR0032115&z=2013-01-01&g=2013-01-01"
+jci_1_0: "1.0:c:BWBR0032115&g=2013-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit aanscherping handhaving en sanctiebeleid SZW-wetgeving"
+signed_date: "2012-10-13"
+entry_into_force: "2012-10-20"
 ---
-
 # Besluit van 13 oktober 2012, houdende wijziging van een aantal algemene maatregelen van bestuur in verband met de Wet aanscherping handhaving en sanctiebeleid SZW-wetgeving (Besluit aanscherping handhaving en sanctiebeleid SZW-wetgeving)
 
 ### Hoofdstuk I. Werknemersverzekeringen, volksverzekeringen en sociale voorzieningen
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Besluit bijstandverlening zelfstandigen 2004.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Besluit WWB 2007.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Boetebesluit socialezekerheidswetten.
 
@@ -44,39 +70,39 @@ Hebben goedgevonden en verstaan:
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het Arbeidsomstandighedenbesluit.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Arbeidstijdenbesluit.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt het Besluit aanwijzing aantal arbeidsverhoudingen die als dienstbetrekking ex artikel 2 Wet minimumloon en minimumvakantiebijslag worden beschouwd.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt het Besluit risico’s zware ongevallen 1999.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt het Besluit uitvoering Wet arbeid vreemdelingen.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt het Besluit arbeidsbemiddeling.
 
 ### Hoofdstuk III. Slotbepalingen
 
-#### Artikel X. Inwerkingtreding
+##### Artikel X. Inwerkingtreding
 
 1. De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
 2. In afwijking van het eerste lid treedt [artikel III, onderdelen D, E en F](https://wetten.overheid.nl/jci1.3:c:BWBR0032115&hoofdstuk=I&artikel=III&z=2013-01-01&g=2013-01-01) met betrekking tot artikel 6a, in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst en werkt het terug tot en met 1 januari 2011.
 
-#### Artikel XI. Citeertitel
+##### Artikel XI. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit aanscherping handhaving en sanctiebeleid SZW-wetgeving.
 

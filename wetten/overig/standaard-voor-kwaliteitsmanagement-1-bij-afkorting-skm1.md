@@ -1,13 +1,35 @@
 ---
 title: "Standaard voor Kwaliteitsmanagement 1, bij afkorting SKM1"
 identifier: "BWBR0052132"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2025-12-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052132"
+country: "nl"
+rank: "pbo"
+publication_date: "2026-01-01"
+last_updated: "2025-12-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052132"
+soort: "pbo"
+stam_id: "17726983"
+version_id: "31284362"
+internal_id: "C44734951"
+label_id: "17625554"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052132/2026-01-01/0"
+intitule_bron: "Stcrt.2025-44926"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2025-12-31"
+intitule_in_force: "2025-12-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-44926"
+original_published_date: "2025-12-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-44926"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0052132&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0052132&g=2026-01-01"
+citeertitel_status: "officieel"
+entry_into_force: "2026-01-01"
 ---
-
 # Standaard voor Kwaliteitsmanagement 1, bij afkorting SKM1
 
 ### Preambule

@@ -1,13 +1,39 @@
 ---
-title: "Omzettingsregeling luchthaven Maastricht"
+title: "Regeling van de Staatssecretaris van Infrastructuur en Milieu van 10 december 2013, nr. IENM/BSK-2013/287792, houdende omzetting van bepalingen omtrent het luchthavenluchtverkeer uit het aanwijzingsbesluit van de luchthaven Maastricht, in verband met de vernieuwing van de regelgeving voor burgerluchthavens (Omzettingsregeling luchthaven Maastricht)"
 identifier: "BWBR0034339"
-categorie: "Milieu"
-publicatiedatum: 2014-01-01
-laatste_update: 2014-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034339"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2014-01-01"
+last_updated: "2014-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034339"
+soort: "ministeriele-regeling"
+stam_id: "12472773"
+version_id: "20971972"
+internal_id: "C30120351"
+label_id: "12443594"
+dtd_version: "2.0"
+original_entry_into_force: "2014-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034339/2014-01-01/0"
+intitule_bron: "Stcrt.2013-35008"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-12-10"
+intitule_published: "2013-12-31"
+intitule_in_force: "2013-12-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-35008"
+original_signed_date: "2013-12-10"
+original_published_date: "2013-12-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-35008"
+entry_into_force_date: "2014-01-01"
+jci_1_3: "jci1.3:c:BWBR0034339&z=2014-01-01&g=2014-01-01"
+jci_1_0: "1.0:c:BWBR0034339&g=2014-01-01"
+citeertitel_status: "officieel"
+short_title: "Omzettingsregeling luchthaven Maastricht"
+signed_date: "2013-12-10"
+entry_into_force: "2014-01-01"
 ---
-
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu van 10 december 2013, nr. IENM/BSK-2013/287792, houdende omzetting van bepalingen omtrent het luchthavenluchtverkeer uit het aanwijzingsbesluit van de luchthaven Maastricht, in verband met de vernieuwing van de regelgeving voor burgerluchthavens (Omzettingsregeling luchthaven Maastricht)
 
 Gelet op [artikel X van de Wet van 18 december 2008 houdende wijziging van de Wet luchtvaart inzake vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens en de decentralisatie van bevoegdheden voor burgerluchthavens naar het provinciaal bestuur (Regelgeving burgerluchthavens en militaire luchthavens)](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=X) (Stb. 2008, 561);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze regeling wordt verstaan onder:
 
@@ -42,13 +68,13 @@ Besluit:
 
 ### Hoofdstuk 2. Luchthaven
 
-#### Artikel 2
+##### Artikel 2
 
 1. Deze regeling is van toepassing op de luchthaven Maastricht.
 
 2. Het luchthavengebied is aangegeven op de kaart in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034339&bijlage=1&z=2014-01-01&g=2014-01-01) bij deze regeling.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Op de luchthaven is de verharde start- en landingsbaan gelegen in de geografische richting 03°-21°, met een lengte van 2.500 meter en een breedte van 45 meter, met de daarbij behorende rijbanen die voor het gebruik door het luchtverkeer is ingedeeld onder codenummer 4 en codeletter E, als bedoeld in bijlage 14, deel 1, van het verdrag.
 
@@ -56,7 +82,7 @@ Besluit:
 
 ### Hoofdstuk 3. Regels en grenswaarden
 
-#### Artikel 4
+##### Artikel 4
 
 1. In de periode van 23.00 uur tot 06.00 uur plaatselijke tijd doet noch laat de exploitant de baan bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034339&hoofdstuk=2&artikel=3&z=2014-01-01&g=2014-01-01) gebruiken voor starts en landingen met luchtvaartuigen.
 
@@ -74,29 +100,29 @@ Besluit:
 
 - 3°. een zodanige toekenning van ATC-slots op de luchthaven van bestemming dat de vlucht bij een vertrek vóór 23.00 uur plaatselijke tijd kunstmatig lang zou worden.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het uitvoeren van circuitvluchten in het kader van proef-, les- of oefenvluchten vindt uitsluitend plaats van maandag tot en vrijdag van 09.00 uur tot 19.00 uur plaatselijke tijd, niet zijnde officiële feestdagen.
 
 2. Het uitvoeren van circuits in het kader van proef-, les- en oefenvluchten met vliegtuigen met schroefaandrijving met een toegelaten totaal gewicht van maximaal 6.000 kilogram kan met goedkeuring van de exploitant in aanvulling op de tijden zoals aangegeven in lid 1 van dit artikel plaatsvinden van maandag tot en met vrijdag 19.00 uur tot 23.00 uur plaatselijke tijd, niet zijnde officiële feestdagen.
 
-#### Artikel 6
+##### Artikel 6
 
 De ligging van de handhavingspunten, bedoeld in [artikel X, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=X), en de grenswaarden voor de geluidbelasting op die punten, zijn opgenomen op de kaart onderscheidenlijk in de tabel in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034339&bijlage=1&z=2014-01-01&g=2014-01-01) bij deze regeling.
 
 ### Hoofdstuk 4. Ruimtelijke beperkingen
 
-#### Artikel 7
+##### Artikel 7
 
 De beperkingengebieden, bedoeld in [artikel X, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=X), zijn aangegeven op de kaarten in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034339&bijlage=2&z=2014-01-01&g=2014-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0034339&bijlage=3&z=2014-01-01&g=2014-01-01) bij deze regeling.
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling treedt in werking met ingang van de eerste dag na plaatsing in de Staatscourant.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling wordt aangehaald als: Omzettingsregeling luchthaven Maastricht.
 

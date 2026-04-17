@@ -1,14 +1,41 @@
 ---
-title: "Erfgoedwet"
+title: "Wet van 9 december 2015, houdende bundeling en aanpassing van regels op het terrein van cultureel erfgoed (Erfgoedwet)"
 identifier: "BWBR0037521"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037521"
+country: "nl"
+rank: "wet"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037521"
+soort: "wet"
+stam_id: "13388433"
+version_id: "22961982"
+internal_id: "C33204301"
+label_id: "13357674"
+dtd_version: "2.0"
+original_entry_into_force: "2016-02-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037521/2026-01-01/0"
+intitule_bron: "Stb.2015-511"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-12-09"
+intitule_published: "2015-12-18"
+intitule_in_force: "2016-01-12"
+intitule_status: "goed"
+original_publication: "Stb.2015-511"
+original_signed_date: "2015-12-09"
+original_published_date: "2015-12-18"
+original_effect: "nieuwe-regeling"
+original_dossier: "34109"
+original_url_id: "stb-2015-511"
+entry_into_force_date: "2016-02-08"
+jci_1_3: "jci1.3:c:BWBR0037521&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0037521&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Erfgoedwet"
+signed_date: "2015-12-09"
+entry_into_force: "2016-02-08"
 ---
-
-# Erfgoedwet
+# Wet van 9 december 2015, houdende bundeling en aanpassing van regels op het terrein van cultureel erfgoed (Erfgoedwet)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1. Begripsbepalingen
+##### Artikel 1.1. Begripsbepalingen
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -74,11 +101,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **verzameling:** cultuurgoederen die uit cultuurhistorisch of wetenschappelijk oogpunt bij elkaar horen.
 
-#### Artikel 1.2. Reikwijdte
+##### Artikel 1.2. Reikwijdte
 
 De bepalingen van [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=2&z=2026-01-01&g=2026-01-01) zijn van toepassing in de aansluitende zone, bedoeld in [artikel 1 van de rijkswet instelling aansluitende zone](https://wetten.overheid.nl/jci1.3:c:BWBR0018265&artikel=1).
 
-#### Artikel 1.3. Rapportage staat van het cultureel erfgoed
+##### Artikel 1.3. Rapportage staat van het cultureel erfgoed
 
 Onze Minister brengt ten minste eenmaal in de vier jaar een wetenschappelijk rapport uit, waarin de ontwikkeling van de staat van het cultureel erfgoed in Nederland wordt beschreven.
 
@@ -88,7 +115,7 @@ Onze Minister brengt ten minste eenmaal in de vier jaar een wetenschappelijk rap
 
 #### § 2.2. Taak tot beheer van collecties
 
-#### Artikel 2.8. Belasten met een taak
+##### Artikel 2.8. Belasten met een taak
 
 1. Onze Minister kan bij besluit een instelling belasten met de zorg voor het beheer van museale cultuurgoederen van de Staat of andere cultuurgoederen.
 
@@ -106,7 +133,7 @@ Onze Minister brengt ten minste eenmaal in de vier jaar een wetenschappelijk rap
 
 - e. de doelmatige besteding van middelen.
 
-#### Artikel 2.9. Te beheren cultuurgoederen
+##### Artikel 2.9. Te beheren cultuurgoederen
 
 1. Het besluit, bedoeld in [artikel 2.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=2&paragraaf=2.2&artikel=2.8&z=2026-01-01&g=2026-01-01), vermeldt op welke cultuurgoederen of verzamelingen het besluit ziet.
 
@@ -116,13 +143,13 @@ Onze Minister brengt ten minste eenmaal in de vier jaar een wetenschappelijk rap
 
 4. Voor zover het besluit betrekking heeft op andere cultuurgoederen of verzamelingen, is [paragraaf 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=2&paragraaf=2.1&z=2026-01-01&g=2026-01-01) op die cultuurgoederen en verzamelingen van overeenkomstige toepassing, met uitzondering van [artikel 2.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=2&paragraaf=2.1&artikel=2.6&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 2.10. Planmatig beleid
+##### Artikel 2.10. Planmatig beleid
 
 1. Een instelling die is belast met de zorg, bedoeld in [artikel 2.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=2&paragraaf=2.2&artikel=2.8&z=2026-01-01&g=2026-01-01), voert planmatig beleid voor het behoud en beheer van de cultuurgoederen of verzamelingen.
 
 2. Onze Minister kan nadere regels stellen voor het planmatig beleid of kan daarvoor verplichtingen verbinden aan het besluit, bedoeld in [artikel 2.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=2&paragraaf=2.2&artikel=2.8&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 2.11. Intrekken taak
+##### Artikel 2.11. Intrekken taak
 
 1. Onze Minister kan een besluit als bedoeld in [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=2&paragraaf=2.2&artikel=2.8&z=2026-01-01&g=2026-01-01) intrekken:
 
@@ -146,15 +173,15 @@ Onze Minister brengt ten minste eenmaal in de vier jaar een wetenschappelijk rap
 
 #### § 7.1. Subsidiegrondslagen
 
-#### Artikel 7.1. Algemene grondslag
+##### Artikel 7.1. Algemene grondslag
 
 Onze Minister kan ten behoeve van het behoud van cultureel erfgoed subsidie verstrekken.
 
-#### Artikel 7.2. Beheer collecties
+##### Artikel 7.2. Beheer collecties
 
 Onze Minister verstrekt subsidie aan een instelling die is belast met een taak als bedoeld in [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=2&paragraaf=2.2&artikel=2.8&z=2026-01-01&g=2026-01-01) voor de zorg voor het beheer van museale cultuurgoederen van de Staat of andere cultuurgoederen.
 
-#### Artikel 7.3. Instandhouding monumenten
+##### Artikel 7.3. Instandhouding monumenten
 
 1. Onze Minister kan op aanvraag meerjarige subsidie verstrekken voor het normale onderhoud van rijksmonumenten.
 
@@ -164,23 +191,23 @@ Onze Minister verstrekt subsidie aan een instelling die is belast met een taak a
 
 #### § 7.2. Regels voor subsidieverstrekking
 
-#### Artikel 7.4. Begrotingsvoorbehoud
+##### Artikel 7.4. Begrotingsvoorbehoud
 
 1. Een subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verleend onder de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:34).
 
 2. In geval van het niet vervullen van die voorwaarde worden de verleende subsidiebedragen verlaagd tot het bedrag van de subsidie dat na de vaststelling of goedkeuring van de begroting ter beschikking staat, een en ander naar rato van het aantal subsidieaanvragers aan wie subsidie is verleend en van de hoogte van de verleende subsidiebedragen.
 
-#### Artikel 7.5. Subsidieplafonds
+##### Artikel 7.5. Subsidieplafonds
 
 1. Onze Minister kan een of meer subsidieplafonds vaststellen voor de verstrekking van subsidies.
 
 2. Indien Onze Minister een subsidieplafond vaststelt, wordt tegelijkertijd vermeld op welke wijze het beschikbare bedrag wordt verdeeld.
 
-#### Artikel 7.6. Weigeringsgrond subsidie instandhouding rijksmonument
+##### Artikel 7.6. Weigeringsgrond subsidie instandhouding rijksmonument
 
 Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) wordt ten behoeve van een rijksmonument in ieder geval geen subsidie verleend indien voor de werkzaamheden waarvoor subsidie wordt gevraagd een lening op grond van [artikel 7.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=7&paragraaf=7.3&artikel=7.8&z=2026-01-01&g=2026-01-01) is verstrekt en de werkzaamheden waarvoor de lening is verstrekt nog niet zijn afgerond.
 
-#### Artikel 7.7. Nadere regels
+##### Artikel 7.7. Nadere regels
 
 1. Onze Minister stelt nadere regels voor de verstrekking van subsidies als bedoeld in de [artikelen 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=7&paragraaf=7.1&artikel=7.2&z=2026-01-01&g=2026-01-01) en [7.3, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=7&paragraaf=7.1&artikel=7.3&z=2026-01-01&g=2026-01-01).
 
@@ -198,31 +225,31 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 ### Hoofdstuk 11. Slotbepalingen
 
-#### Artikel 11.1. Citeertitel
+##### Artikel 11.1. Citeertitel
 
 Deze wet wordt aangehaald als: Erfgoedwet.
 
-#### Artikel 11.2. Inwerkingtreding
+##### Artikel 11.2. Inwerkingtreding
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 2.1. In goede staat houden
+##### Artikel 2.1. In goede staat houden
 
 Onze Minister wie het aangaat, een college van staat of een instelling zorgt dat museale cultuurgoederen van de Staat in beheer in goede staat zijn.
 
-#### Artikel 2.2. Toegankelijkheid
+##### Artikel 2.2. Toegankelijkheid
 
 Onze Minister wie het aangaat, een college van staat of een instelling bevordert de toegankelijkheid van museale cultuurgoederen van de Staat in beheer.
 
-#### Artikel 2.3. Veilig stellen
+##### Artikel 2.3. Veilig stellen
 
 1. Onze Minister wie het aangaat, een college van staat of een instelling treft maatregelen ter voorkoming van diefstal, verlies, beschadiging of vernietiging van museale cultuurgoederen van de Staat in beheer.
 
 2. Onze Minister wie het aangaat, een college van staat of een instelling meldt de vermissing of het tenietgaan van een museaal cultuurgoed van de Staat onverwijld aan de inspecteur.
 
-#### Artikel 2.4. Registratie en administratie
+##### Artikel 2.4. Registratie en administratie
 
 Onze Minister wie het aangaat, een college van staat of een instelling zorgt voor:
 
@@ -230,11 +257,11 @@ Onze Minister wie het aangaat, een college van staat of een instelling zorgt voo
 
 - b. beschrijving van de administratieve organisatie van het beheer met inachtneming van deze paragraaf en toepassing van de procedures die in de administratieve organisatie zijn vastgelegd.
 
-#### Artikel 2.5. Beëindigen van het beheer
+##### Artikel 2.5. Beëindigen van het beheer
 
 Onze Minister wie het aangaat of een college van staat beëindigt het beheer van een museaal cultuurgoed van de Staat of het verstrekken van middelen aan een instelling ten behoeve daarvan slechts na overleg met Onze Minister.
 
-#### Artikel 2.6. Rol Minister van OCW
+##### Artikel 2.6. Rol Minister van OCW
 
 1. Onze Minister is belast met het privaatrechtelijk beheer van de museale cultuurgoederen van de Staat.
 
@@ -248,7 +275,7 @@ Onze Minister wie het aangaat of een college van staat beëindigt het beheer van
 
 6. Onze Minister kan het vijfde lid buiten toepassing laten of daarvan afwijken voor zover onverkorte toepassing daarvan, gelet op daarmee verband houdende kosten, in redelijkheid niet kan worden gevergd.
 
-#### Artikel 2.7. Nadere regels
+##### Artikel 2.7. Nadere regels
 
 1. Onze Minister stelt nadere regels over het beheer van museale cultuurgoederen van de Staat.
 
@@ -270,7 +297,7 @@ Onze Minister wie het aangaat of een college van staat beëindigt het beheer van
 
 #### § 3.1. Aanwijzing van monument en archeologisch monument
 
-#### Artikel 3.1. Aanwijzing als rijksmonument
+##### Artikel 3.1. Aanwijzing als rijksmonument
 
 1. Onze Minister kan ambtshalve besluiten een monument of archeologisch monument dat van algemeen belang is vanwege zijn schoonheid, betekenis voor de wetenschap of cultuurhistorische waarde aan te wijzen als rijksmonument.
 
@@ -280,7 +307,7 @@ Onze Minister wie het aangaat of een college van staat beëindigt het beheer van
 
 4. Onze Minister besluit over aanwijzing van een kerkelijk monument na overleg met de eigenaar.
 
-#### Artikel 3.2. UOV van toepassing
+##### Artikel 3.2. UOV van toepassing
 
 1. Op de voorbereiding van het besluit over aanwijzing als rijksmonument is [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing.
 
@@ -292,7 +319,7 @@ Onze Minister wie het aangaat of een college van staat beëindigt het beheer van
 
 5. Onze Minister zendt een exemplaar van zijn besluit aan het college van burgemeester en wethouders van de gemeente waar het monument of archeologisch monument zich bevindt.
 
-#### Artikel 3.3. Rijksmonumentenregister
+##### Artikel 3.3. Rijksmonumentenregister
 
 1. Onze Minister houdt een register van de rijksmonumenten bij.
 
@@ -304,23 +331,23 @@ Onze Minister wie het aangaat of een college van staat beëindigt het beheer van
 
 5. Onze Minister zendt een afschrift van de inschrijving in het register aan het college van burgemeester en wethouders van de gemeente waar het rijksmonument zich bevindt of, indien het rijksmonument zich niet bevindt op het grondgebied van een gemeente, aan de Minister van Infrastructuur en Waterstaat.
 
-#### Artikel 3.4. Wijziging rijksmonumentenregister
+##### Artikel 3.4. Wijziging rijksmonumentenregister
 
 1. Onze Minister kan ambtshalve wijzigingen aanbrengen in het rijksmonumentenregister.
 
 2. Indien de wijziging ziet op het schrappen uit het register van een rijksmonument zijn de [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2026-01-01&g=2026-01-01) en [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=3&paragraaf=3.1&artikel=3.2&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing, tenzij dat rijksmonument als zodanig is tenietgegaan.
 
-#### Artikel 3.5. Wijziging kadastrale aanduiding
+##### Artikel 3.5. Wijziging kadastrale aanduiding
 
 De bewaarder van het kadaster en de openbare registers doet binnen veertien dagen mededeling van een wijziging in de kadastrale aanduiding van een rijksmonument aan Onze Minister, die deze wijziging overneemt in het rijksmonumentenregister.
 
-#### Artikel 3.6. Openbare registers leidend
+##### Artikel 3.6. Openbare registers leidend
 
 Ingeval het rijksmonumentenregister niet gelijkluidend is aan een afschrift van dat register in de openbare registers, bedoeld in [artikel 1, onder c, van de Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0016876&artikel=1), bepaalt het afschrift in de openbare registers of een monument of archeologisch monument wordt aangemerkt als rijksmonument.
 
 #### § 3.2. Aanwijzing van cultuurgoed en verzameling
 
-#### Artikel 3.7. Aanwijzing als beschermd cultuurgoed of beschermde verzameling
+##### Artikel 3.7. Aanwijzing als beschermd cultuurgoed of beschermde verzameling
 
 1. Onze Minister kan ambtshalve besluiten een cultuurgoed dat van bijzondere cultuurhistorische of wetenschappelijke betekenis of uitzonderlijke schoonheid is en dat als onvervangbaar en onmisbaar behoort te worden behouden voor het Nederlands cultuurbezit aan te wijzen als beschermd cultuurgoed.
 
@@ -336,13 +363,13 @@ Ingeval het rijksmonumentenregister niet gelijkluidend is aan een afschrift van 
 
 5. Bij de aanwijzing als beschermde verzameling is het vierde lid van overeenkomstige toepassing.
 
-#### Artikel 3.8. Spoedaanwijzing als beschermde verzameling
+##### Artikel 3.8. Spoedaanwijzing als beschermde verzameling
 
 1. In een spoedeisend geval kan Onze Minister bij het besluit tot aanwijzing als beschermde verzameling, in afwijking van [artikel 3.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=3&paragraaf=3.2&artikel=3.7&z=2026-01-01&g=2026-01-01), volstaan met een algemene omschrijving van de verzameling.
 
 2. Onze Minister stelt in een geval als bedoeld in het eerste lid zo spoedig mogelijk na het besluit tot aanwijzing een opsomming vast van de cultuurgoederen die tot de verzameling behoren.
 
-#### Artikel 3.9. Toestemming eigenaar nodig voor aanwijzing
+##### Artikel 3.9. Toestemming eigenaar nodig voor aanwijzing
 
 1. Voor aanwijzing van een cultuurgoed als beschermd cultuurgoed of opneming van een cultuurgoed in de opsomming van een beschermde verzameling is toestemming van de eigenaar vereist indien deze:
 
@@ -358,7 +385,7 @@ Ingeval het rijksmonumentenregister niet gelijkluidend is aan een afschrift van 
 
 5. Het terugbrengen naar Nederland van een cultuurgoed dat zich tijdelijk buiten Nederland heeft bevonden, geldt niet als het in Nederland brengen, bedoeld in het eerste lid, onder b.
 
-#### Artikel 3.10. Niet-aanwijzing
+##### Artikel 3.10. Niet-aanwijzing
 
 1. Onze Minister gaat niet over tot aanwijzing als beschermd cultuurgoed of als beschermde verzameling indien een cultuurgoed als bedoeld in [artikel 3.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=3&paragraaf=3.2&artikel=3.7&z=2026-01-01&g=2026-01-01), een verzameling of een deel daarvan:
 
@@ -370,7 +397,7 @@ Ingeval het rijksmonumentenregister niet gelijkluidend is aan een afschrift van 
 
 2. Onze Minister gaat niet eerder dan een jaar nadat de omstandigheden, bedoeld in het eerste lid, onder a tot en met c, zich niet meer hebben voorgedaan over tot aanwijzing als beschermd cultuurgoed of als beschermde verzameling.
 
-#### Artikel 3.11. Register beschermde cultuurgoederen en beschermde verzamelingen
+##### Artikel 3.11. Register beschermde cultuurgoederen en beschermde verzamelingen
 
 1. Onze Minister houdt een register van de beschermde cultuurgoederen en beschermde verzamelingen bij.
 
@@ -382,7 +409,7 @@ Ingeval het rijksmonumentenregister niet gelijkluidend is aan een afschrift van 
 
 - b. beschermde verzameling: algemene omschrijving, opsomming van de cultuurgoederen die behoren tot de verzameling en motivering van de aanwijzing van de verzameling.
 
-#### Artikel 3.12. Wijziging in aanwijzing
+##### Artikel 3.12. Wijziging in aanwijzing
 
 1. Onze Minister kan een besluit tot aanwijzing als beschermd cultuurgoed of als beschermde verzameling ambtshalve wijzigen of intrekken.
 
@@ -390,11 +417,11 @@ Ingeval het rijksmonumentenregister niet gelijkluidend is aan een afschrift van 
 
 #### § 3.3. Aanwijzing van ensemble
 
-#### Artikel 3.13. Aanwijzing als ensemble
+##### Artikel 3.13. Aanwijzing als ensemble
 
 Onze Minister kan ambtshalve besluiten een rijksmonument tezamen met cultuurgoederen aan te wijzen als ensemble, indien het geheel van rijksmonument en de cultuurgoederen in onderlinge samenhang van bijzondere cultuurhistorische of wetenschappelijke betekenis is.
 
-#### Artikel 3.14. Informatiesysteem en rijksmonumentenregister
+##### Artikel 3.14. Informatiesysteem en rijksmonumentenregister
 
 1. Onze Minister houdt een informatiesysteem van aangewezen ensembles bij dat is gekoppeld aan het rijksmonumentenregister.
 
@@ -402,7 +429,7 @@ Onze Minister kan ambtshalve besluiten een rijksmonument tezamen met cultuurgoed
 
 3. Het informatiesysteem bevat voor een opgenomen ensemble in ieder geval een algemene omschrijving, een opsomming van het rijksmonument en, voor zover de eigenaar daarmee heeft ingestemd, de cultuurgoederen die behoren tot het ensemble en de motivering van de aanwijzing van het ensemble.
 
-#### Artikel 3.15. Wijziging in aanwijzing
+##### Artikel 3.15. Wijziging in aanwijzing
 
 1. Onze Minister kan een besluit tot aanwijzing als ensemble ambtshalve wijzigen of intrekken.
 
@@ -410,7 +437,7 @@ Onze Minister kan ambtshalve besluiten een rijksmonument tezamen met cultuurgoed
 
 #### § 3.4. Gemeentelijk en provinciaal erfgoed
 
-#### Artikel 3.16. Gemeentelijk erfgoed
+##### Artikel 3.16. Gemeentelijk erfgoed
 
 1. De gemeenteraad kan een erfgoedverordening vaststellen.
 
@@ -418,7 +445,7 @@ Onze Minister kan ambtshalve besluiten een rijksmonument tezamen met cultuurgoed
 
 3. Het college van burgemeester en wethouders houdt een gemeentelijk erfgoedregister van aangewezen cultureel erfgoed bij.
 
-#### Artikel 3.17. Provinciaal erfgoed
+##### Artikel 3.17. Provinciaal erfgoed
 
 1. Provinciale staten kunnen een erfgoedverordening vaststellen.
 
@@ -430,7 +457,7 @@ Onze Minister kan ambtshalve besluiten een rijksmonument tezamen met cultuurgoed
 
 #### § 3.5. Aanwijzing van internationaal en Europees cultuurgoed
 
-#### Artikel 3.18. Aanwijzing als cultuurgoed UNESCO-verdrag 1970 en [Richtlijn 2014/60](32014L0060)/EU
+##### Artikel 3.18. Aanwijzing als cultuurgoed UNESCO-verdrag 1970 en [Richtlijn 2014/60](32014L0060)/EU
 
 Als cultuurgoederen als bedoeld in artikel 6.1, onder c, en artikel 2, onder 1, van [Richtlijn 2014/60](32014L0060)/EU van het Europees parlement en de Raad van 15 mei 2014 betreffende de teruggave van cultuurgoederen die op onrechtmatige wijze buiten het grondgebied van een lidstaat zijn gebracht en houdende wijziging van Verordening (EU) nr. 1024/2012 (PbEU 2014, L 159) worden voor Nederland aangewezen:
 
@@ -442,19 +469,19 @@ Als cultuurgoederen als bedoeld in artikel 6.1, onder c, en artikel 2, onder 1, 
 
 #### § 4.1. Beschermd cultuurgoed
 
-#### Artikel 4.1. Begripsbepaling
+##### Artikel 4.1. Begripsbepaling
 
 In deze paragraaf wordt verstaan onder handeling: handeling als bedoeld in [artikel 4.4, onder a tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=4&paragraaf=4.1&artikel=4.4&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 4.2. Mededelingsplicht eigenaar
+##### Artikel 4.2. Mededelingsplicht eigenaar
 
 De eigenaar van een beschermd cultuurgoed deelt degene aan wie hij het cultuurgoed vervreemdt of aan wie hij met betrekking tot het cultuurgoed rechten verleent vooraf mee dat het cultuurgoed is aangewezen als beschermd cultuurgoed.
 
-#### Artikel 4.3. Medewerking aan toezicht
+##### Artikel 4.3. Medewerking aan toezicht
 
 Degene die een beschermd cultuurgoed onder zich heeft, toont het desgevraagd aan de inspecteur en meldt deze onverwijld de vermissing of het tenietgaan van het cultuurgoed.
 
-#### Artikel 4.4. Verbod op handeling zonder melding
+##### Artikel 4.4. Verbod op handeling zonder melding
 
 Zonder voorafgaande schriftelijke melding aan de inspecteur is het verboden een beschermd cultuurgoed:
 
@@ -472,25 +499,25 @@ Zonder voorafgaande schriftelijke melding aan de inspecteur is het verboden een 
 
 - g. bij boedelscheiding aan een niet-ingezetene toe te delen.
 
-#### Artikel 4.5. Verbod op handeling zonder toestemming
+##### Artikel 4.5. Verbod op handeling zonder toestemming
 
 1. Gedurende zes weken na de verzending van de melding, bedoeld in [artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=4&paragraaf=4.1&artikel=4.4&z=2026-01-01&g=2026-01-01), is een handeling verboden zonder de toestemming van de inspecteur of van Onze Minister, tenzij die melding alleen het voornemen tot verplaatsing binnen Nederland betreft.
 
 2. Indien een handeling strekt tot het buiten Nederland brengen van een beschermd cultuurgoed, kan alleen Onze Minister toestemming geven.
 
-#### Artikel 4.6. Verbod op handeling na bedenkingen
+##### Artikel 4.6. Verbod op handeling na bedenkingen
 
 1. Indien Onze Minister binnen de termijn, bedoeld in [artikel 4.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=4&paragraaf=4.1&artikel=4.5&z=2026-01-01&g=2026-01-01), bij degene die de melding heeft gedaan schriftelijk bedenkingen tegen de handeling heeft aangevoerd, is die handeling verboden.
 
 2. De bedenkingen kunnen alleen zijn gegrond op de overweging dat er gevaar is voor het verlies van het beschermd cultuurgoed voor het in Nederland aanwezige cultuurbezit.
 
-#### Artikel 4.7. Voorschriften bij bedenkingen
+##### Artikel 4.7. Voorschriften bij bedenkingen
 
 1. Onze Minister kan bij het aanvoeren van bedenkingen meedelen dat het verbod niet geldt voor zover aan de handeling uitvoering wordt gegeven met inachtneming van door hem daarbij gestelde voorschriften.
 
 2. De voorschriften strekken alleen ter voorkoming van het verlies van het beschermd cultuurgoed voor het in Nederland aanwezige cultuurbezit.
 
-#### Artikel 4.8. Geen bedenkingen
+##### Artikel 4.8. Geen bedenkingen
 
 1. Indien Onze Minister geen bedenkingen heeft aangevoerd, is een handeling na een jaar na de verzending van de melding opnieuw verboden.
 
@@ -498,7 +525,7 @@ Zonder voorafgaande schriftelijke melding aan de inspecteur is het verboden een 
 
 3. Indien Onze Minister eerder aangevoerde bedenkingen intrekt, is een handeling na een jaar na de intrekking opnieuw verboden.
 
-#### Artikel 4.9. Mededeling bedenkingen in Staatscourant
+##### Artikel 4.9. Mededeling bedenkingen in Staatscourant
 
 1. Onze Minister doet door plaatsing in de Staatscourant mededeling van de bedenkingen die hij met betrekking tot een beschermd cultuurgoed heeft aangevoerd tegen:
 
@@ -512,7 +539,7 @@ Zonder voorafgaande schriftelijke melding aan de inspecteur is het verboden een 
 
 3. De mededeling bevat geen gegevens over betrokken partijen of over de verblijfplaats van het beschermd cultuurgoed.
 
-#### Artikel 4.10. Aanmelding van mogelijke kopers; aanbod tot aankoop door Staat
+##### Artikel 4.10. Aanmelding van mogelijke kopers; aanbod tot aankoop door Staat
 
 1. Gedurende zes weken na de publicatie in de Staatscourant kunnen mogelijke kopers van het beschermd cultuurgoed zich aanmelden bij Onze Minister.
 
@@ -526,11 +553,11 @@ Zonder voorafgaande schriftelijke melding aan de inspecteur is het verboden een 
 
 6. Onze Minister en de eigenaar kunnen de termijn, bedoeld in het vierde lid, in onderling overleg verlengen.
 
-#### Artikel 4.11. Uitzondering bij voorschriften
+##### Artikel 4.11. Uitzondering bij voorschriften
 
 De [artikelen 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2026-01-01&g=2026-01-01) en [4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=4&paragraaf=4.1&artikel=4.10&z=2026-01-01&g=2026-01-01) zijn niet van toepassing indien Onze Minister bij het aanvoeren van bedenkingen een mededeling heeft gedaan als bedoeld in [artikel 4.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=4&paragraaf=4.1&artikel=4.7&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 4.12. Opschorten termijn
+##### Artikel 4.12. Opschorten termijn
 
 De in [artikel 4.10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=4&paragraaf=4.1&artikel=4.10&z=2026-01-01&g=2026-01-01), bedoelde termijn wordt opgeschort, zolang over een aanbod van de Staat tot aankoop van een beschermd cultuurgoed:
 
@@ -538,11 +565,11 @@ De in [artikel 4.10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037521
 
 - b. tussen de Staat en de eigenaar een overeenkomst tot arbitrage bestaat.
 
-#### Artikel 4.13. Minister treedt in onderhandeling
+##### Artikel 4.13. Minister treedt in onderhandeling
 
 Onze Minister treedt onverwijld na aanvang van de termijn, bedoeld in [artikel 4.10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=4&paragraaf=4.1&artikel=4.10&z=2026-01-01&g=2026-01-01), met de eigenaar in onderhandeling over de koopprijs en de overige verkoopvoorwaarden.
 
-#### Artikel 4.14. Rechtbank Den Haag stelt prijs vast
+##### Artikel 4.14. Rechtbank Den Haag stelt prijs vast
 
 1. Indien de onderhandelingen, bedoeld in [artikel 4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=4&paragraaf=4.1&artikel=4.13&z=2026-01-01&g=2026-01-01), niet tot overeenstemming leiden, wordt de prijs op verzoek van een van de partijen vastgesteld door de rechtbank Den Haag, tenzij de eigenaar te kennen geeft af te zien van de handeling of Onze Minister de daartegen aangevoerde bedenkingen intrekt.
 
@@ -552,13 +579,13 @@ Onze Minister treedt onverwijld na aanvang van de termijn, bedoeld in [artikel 4
 
 4. Tegen beschikkingen op grond van dit artikel staat uitsluitend beroep in cassatie open.
 
-#### Artikel 4.15. Afzien van bedenkingen of handeling
+##### Artikel 4.15. Afzien van bedenkingen of handeling
 
 1. Binnen een maand nadat de koopprijs ingevolge [artikel 4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=4&paragraaf=4.1&artikel=4.14&z=2026-01-01&g=2026-01-01) onherroepelijk is vastgesteld, kan Onze Minister aan de eigenaar meedelen van het aanvoeren van bedenkingen af te zien en kan de eigenaar aan Onze Minister meedelen van het verrichten van de gemelde handeling af te zien.
 
 2. Indien aan het eerste lid geen uitvoering wordt gegeven, geldt de vastgestelde koopprijs als overeengekomen tussen partijen.
 
-#### Artikel 4.16. Vergoeding uitgaven door Minister
+##### Artikel 4.16. Vergoeding uitgaven door Minister
 
 1. Onze Minister vergoedt desgevraagd uitgaven van een belanghebbende voor zover het nut daarvan is teniet gedaan door bedenkingen die zijn aangevoerd op grond van [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=4&paragraaf=4.1&artikel=4.16&z=2026-01-01&g=2026-01-01).
 
@@ -568,7 +595,7 @@ Onze Minister treedt onverwijld na aanvang van de termijn, bedoeld in [artikel 4
 
 #### § 4.2. Cultuurgoed van Staat, provincie, gemeente of andere publiekrechtelijke rechtspersoon
 
-#### Artikel 4.17. Bekendmaking voornemen tot vervreemding
+##### Artikel 4.17. Bekendmaking voornemen tot vervreemding
 
 1. Een voorgenomen besluit tot vervreemding van een cultuurgoed of een verzameling wordt door Onze Minister, gedeputeerde staten of het college van burgemeester en wethouders bekendgemaakt op een door Onze Minister aangewezen wijze.
 
@@ -578,7 +605,7 @@ Onze Minister treedt onverwijld na aanvang van de termijn, bedoeld in [artikel 4
 
 4. Gedurende de termijn, bedoeld in het derde lid, wordt niet overgegaan tot vervreemding van het cultuurgoed of de verzameling. Na deze termijn worden ingediende zienswijzen door Onze Minister, gedeputeerde staten onderscheidenlijk het college van burgemeester en wethouders beoordeeld en wordt zo nodig alsnog advies gevraagd als bedoeld in [artikel 4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=4&paragraaf=4.2&artikel=4.18&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 4.18. Advies bij vervreemding cultuurgoed of verzameling
+##### Artikel 4.18. Advies bij vervreemding cultuurgoed of verzameling
 
 Over een besluit tot vervreemding van een cultuurgoed of verzameling wordt door Onze Minister, gedeputeerde staten, het college van burgemeester en wethouders of het bevoegde orgaan van een andere publiekrechtelijke rechtspersoon advies gevraagd aan een commissie van onafhankelijke deskundigen, indien:
 
@@ -586,11 +613,11 @@ Over een besluit tot vervreemding van een cultuurgoed of verzameling wordt door 
 
 - b. vervreemding wordt overwogen aan een andere partij dan de Staat, een provincie, een gemeente, of een andere publiekrechtelijke rechtspersoon.
 
-#### Artikel 4.19. Reikwijdte advies
+##### Artikel 4.19. Reikwijdte advies
 
 De commissie adviseert over de vraag of de voorgenomen vervreemding een cultuurgoed of verzameling betreft van bijzondere cultuurhistorische of wetenschappelijke betekenis dat of die onvervangbaar en onmisbaar is voor het Nederlands cultuurbezit.
 
-#### Artikel 4.20. Adviescommissie
+##### Artikel 4.20. Adviescommissie
 
 1. De commissie bestaat uit ten minste drie leden, de voorzitter inbegrepen.
 
@@ -598,13 +625,13 @@ De commissie adviseert over de vraag of de voorgenomen vervreemding een cultuurg
 
 3. De leden verrichten anders dan uit hoofde van het lidmaatschap van de commissie geen werkzaamheden voor de betrokken publiekrechtelijke rechtspersoon. Ook anderszins hebben deze leden geen belangen of functies waardoor de onafhankelijkheid van hun inbreng of het vertrouwen in die onafhankelijkheid in het geding kan zijn.
 
-#### Artikel 4.21. Verplichting om Minister te informeren
+##### Artikel 4.21. Verplichting om Minister te informeren
 
 Indien het advies van de commissie de strekking heeft dat het een cultuurgoed of verzameling betreft van bijzondere cultuurhistorische of wetenschappelijke betekenis dat of die onvervangbaar en onmisbaar is voor het Nederlands cultuurbezit, wordt daarvan, onder toezending van een afschrift van het advies, aan Onze Minister melding gedaan door gedeputeerde staten, het college van burgemeester en wethouders of het bevoegde orgaan van een andere publiekrechtelijke rechtspersoon ten minste dertien weken voordat wordt overgegaan tot vervreemding aan een andere partij dan de Staat, een provincie, gemeente of andere publiekrechtelijke rechtspersoon.
 
 #### § 4.3. Cultuurgoed in openbare of kerkelijke collectie
 
-#### Artikel 4.22. Verbod op buiten Nederland brengen zonder toestemming
+##### Artikel 4.22. Verbod op buiten Nederland brengen zonder toestemming
 
 1. Het is verboden een cultuurgoed dat deel uitmaakt van een openbare collectie die is vermeld in de inventarislijst van een museum, een archief of een vaste collectie van een bibliotheek, en waarvan de Staat of een ander openbaar lichaam eigenaar is, buiten Nederland te brengen zonder dat de eigenaar daarvoor schriftelijk toestemming heeft gegeven.
 
@@ -630,7 +657,7 @@ Indien het advies van de commissie de strekking heeft dat het een cultuurgoed of
 
 #### § 4.4. [Verordening (EG) nr. 116/2009](32009R0116) en [Verordening (EU) nr. 2019/880](32780R2019)
 
-#### Artikel 4.23. Verbod op uitvoer buiten EU zonder vergunning
+##### Artikel 4.23. Verbod op uitvoer buiten EU zonder vergunning
 
 1. Het is verboden zonder vergunning van Onze Minister of van een andere bevoegde autoriteit als bedoeld in artikel 2, tweede lid, van [Verordening (EG) nr. 116/2009](32009R0116) van de Raad van 18 december 2008 betreffende de uitvoer van cultuurgoederen (PbEU 2009, L 39), cultuurgoederen die behoren tot een categorie, vermeld in bijlage I van genoemde verordening, uit te voeren buiten de gebieden waarop het Verdrag betreffende de Europese Unie van toepassing is.
 
@@ -646,13 +673,13 @@ Indien het advies van de commissie de strekking heeft dat het een cultuurgoed of
 
 #### § 5.1. Het verrichten van opgravingen
 
-#### Artikel 5.1. Opgravingsverbod
+##### Artikel 5.1. Opgravingsverbod
 
 1. Het is verboden zonder certificaat daartoe handelingen te verrichten met betrekking tot het opsporen, onderzoeken of verwerven van cultureel erfgoed of onderdelen daarvan, waardoor verstoring van de bodem, of verstoring of gehele of gedeeltelijke verplaatsing of verwijdering van een archeologisch monument of cultureel erfgoed onder water optreedt.
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen gevallen worden geregeld waarop het eerste lid niet van toepassing is. Voor die gevallen kunnen bepaalde onderdelen van dit hoofdstuk worden uitgesloten of van overeenkomstige toepassing worden verklaard.
 
-#### Artikel 5.2. Certificerende instellingen
+##### Artikel 5.2. Certificerende instellingen
 
 1. Een certificaat als bedoeld in [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=5&paragraaf=5.1&artikel=5.1&z=2026-01-01&g=2026-01-01), wordt op aanvraag verstrekt door een instelling die door Onze Minister hiertoe is aangewezen.
 
@@ -662,11 +689,11 @@ Indien het advies van de commissie de strekking heeft dat het een cultuurgoed of
 
 4. De Kaderwet zelfstandige bestuursorganen is niet van toepassing op instellingen die op grond van het eerste lid zijn aangewezen.
 
-#### Artikel 5.3. Verstrekken certificaat
+##### Artikel 5.3. Verstrekken certificaat
 
 Een certificerende instelling verstrekt een certificaat slechts indien de aanvrager voldoende aantoont opgravingen en de daarbij behorende handelingen, bedoeld in [artikel 5.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=5&paragraaf=5.1&artikel=5.4&z=2026-01-01&g=2026-01-01), op professionele wijze te zullen verrichten.
 
-#### Artikel 5.4. Voorwaarden certificaat
+##### Artikel 5.4. Voorwaarden certificaat
 
 1. Een certificaathouder zorgt ervoor dat bij het verrichten van een opgraving de verrichte handelingen en aangetroffen archeologische vondsten worden gedocumenteerd, de vondsten worden geconserveerd en een rapport wordt opgesteld waarin de resultaten van de handelingen zijn beschreven.
 
@@ -674,7 +701,7 @@ Een certificerende instelling verstrekt een certificaat slechts indien de aanvra
 
 3. Een certificerende instelling treft passende maatregelen indien een certificaathouder opgravingen of de overige handelingen, bedoeld in het eerste lid, niet op professionele wijze verricht en schorst of trekt een certificaat zo nodig in.
 
-#### Artikel 5.5. Nadere regels rond de certificering
+##### Artikel 5.5. Nadere regels rond de certificering
 
 Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over:
 
@@ -694,7 +721,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gest
 
 - h. de uitwisseling van informatie tussen certificerende instellingen onderling en met Onze Minister in het kader van toezicht en handhaving.
 
-#### Artikel 5.6. Melden opgraving en overdragen vondsten en rapporten
+##### Artikel 5.6. Melden opgraving en overdragen vondsten en rapporten
 
 1. Een certificaathouder meldt de aanvang van een opgraving aan Onze Minister.
 
@@ -708,7 +735,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gest
 
 #### § 5.2. Eigendom van vondsten bij het verrichten van opgravingen
 
-#### Artikel 5.7. Eigendom van archeologische vondsten
+##### Artikel 5.7. Eigendom van archeologische vondsten
 
 Een archeologische vondst die is aangetroffen bij een opgraving en waarop niemand zijn recht van eigendom kan bewijzen, is eigendom van:
 
@@ -720,7 +747,7 @@ Een archeologische vondst die is aangetroffen bij een opgraving en waarop nieman
 
 #### § 5.3. Depots voor vondsten bij het verrichten van opgravingen
 
-#### Artikel 5.8. In stand houden depots
+##### Artikel 5.8. In stand houden depots
 
 1. Gedeputeerde staten houden een depot in stand waarin archeologische vondsten die zijn aangetroffen bij opgravingen binnen die provincie kunnen worden opgeslagen op een wijze die uit een oogpunt van behoud en toegankelijkheid verantwoord is.
 
@@ -730,7 +757,7 @@ Een archeologische vondst die is aangetroffen bij een opgraving en waarop nieman
 
 4. Bij of krachtens algemene maatregel van bestuur kunnen voor een verantwoorde opslag van archeologische vondsten en de daarbij behorende opgravingsdocumentatie en rapporten eisen worden gesteld met het oog op behoud en toegankelijkheid.
 
-#### Artikel 5.9. Opslag archeologische vondsten
+##### Artikel 5.9. Opslag archeologische vondsten
 
 1. Archeologische vondsten die op grond van [artikel 5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=5&paragraaf=5.2&artikel=5.7&z=2026-01-01&g=2026-01-01) eigendom van een gemeente, provincie of de Staat zijn alsmede de daarbij behorende opgravingsdocumentatie en rapporten, bedoeld in [artikel 5.6, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=5&paragraaf=5.1&artikel=5.6&z=2026-01-01&g=2026-01-01), worden opgeslagen in depots als bedoeld in [artikel 5.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=5&paragraaf=5.3&artikel=5.8&z=2026-01-01&g=2026-01-01).
 
@@ -742,19 +769,19 @@ Een archeologische vondst die is aangetroffen bij een opgraving en waarop nieman
 
 #### § 5.4. Meldingsplicht archeologische toevalsvondst of waarneming
 
-#### Artikel 5.10. Archeologische toevalsvondst
+##### Artikel 5.10. Archeologische toevalsvondst
 
 1. Degene die anders dan bij het verrichten van opgravingen een vondst doet waarvan hij weet dan wel redelijkerwijs moet vermoeden dat het een archeologische vondst betreft, meldt dit zo spoedig mogelijk bij Onze Minister.
 
 2. De gerechtigde tot een archeologische vondst als bedoeld in het eerste lid, is gehouden de vondst gedurende zes maanden, te rekenen van de dag van de in het eerste lid bedoelde melding, ter beschikking te houden of te stellen voor wetenschappelijk onderzoek.
 
-#### Artikel 5.11. Waarneming
+##### Artikel 5.11. Waarneming
 
 Degene die bij het opsporen van archeologische monumenten, zonder het verrichten van een opgraving, waarnemingen doet, waarvan hij weet dan wel redelijkerwijs moet vermoeden dat die waarnemingen van belang zijn voor de archeologische monumentenzorg, meldt die waarnemingen zo spoedig mogelijk bij Onze Minister.
 
 #### § 5.5. Centraal archeologisch informatiesysteem en wijze van melding
 
-#### Artikel 5.12. Informatiesysteem
+##### Artikel 5.12. Informatiesysteem
 
 1. Onze Minister houdt een Centraal archeologisch informatiesysteem in stand waarin in ieder geval worden opgenomen:
 
@@ -774,7 +801,7 @@ Degene die bij het opsporen van archeologische monumenten, zonder het verrichten
 
 5. Voor de verstrekking van informatie uit het Centraal archeologisch informatiesysteem kunnen kosten in rekening worden gebracht, volgens door Onze Minister vast te stellen tarieven.
 
-#### Artikel 5.13. Wijze van melding
+##### Artikel 5.13. Wijze van melding
 
 Onze Minister kan regels stellen over de wijze waarop een melding als bedoeld in [artikel 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=5&paragraaf=5.1&artikel=5.6&z=2026-01-01&g=2026-01-01), [5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=5&paragraaf=5.4&artikel=5.10&z=2026-01-01&g=2026-01-01) of [5.11](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=5&paragraaf=5.4&artikel=5.11&z=2026-01-01&g=2026-01-01) plaatsvindt.
 
@@ -782,7 +809,7 @@ Onze Minister kan regels stellen over de wijze waarop een melding als bedoeld in
 
 #### § 6.1. Teruggave cultuurgoederen uit partijstaten UNESCO-verdrag 1970
 
-#### Artikel 6.1. Begripsbepalingen
+##### Artikel 6.1. Begripsbepalingen
 
 In deze paragraaf wordt verstaan onder:
 
@@ -792,13 +819,13 @@ In deze paragraaf wordt verstaan onder:
 
 - c. **cultuurgoed:** zaak die door elke verdragsstaat om godsdienstige of wereldlijke redenen is aangewezen als belangrijk voor de oudheidkunde, de prehistorie, de geschiedenis, de letterkunde, de kunst of de wetenschap en derhalve van wezenlijk belang is voor zijn cultureel erfgoed en die behoort tot de in artikel 1 van het Unesco-verdrag 1970 opgesomde categorieën.
 
-#### Artikel 6.2. Uitvoering verplichtingen Unesco-verdrag 1970
+##### Artikel 6.2. Uitvoering verplichtingen Unesco-verdrag 1970
 
 1. Onze Minister verricht hetgeen in aanmerking komt ter uitvoering van de artikelen 2, 5, 6, 7, 9, 10, 13, onder a, b en d, en 14 van het Unesco-verdrag 1970, behoudens voor zover het betreft het in artikel 10, onder a, van het Verdrag bedoelde opleggen aan antiekhandelaren van regels, waarvan de overtreding strafbaar is.
 
 2. Onze Minister kan nadere regels stellen in verband met de uitvoering.
 
-#### Artikel 6.3. Verbod binnenbrengen onrechtmatig uitgevoerde of ontvreemde cultuurgoederen
+##### Artikel 6.3. Verbod binnenbrengen onrechtmatig uitgevoerde of ontvreemde cultuurgoederen
 
 Het is verboden een cultuurgoed binnen Nederland te brengen dat:
 
@@ -806,13 +833,13 @@ Het is verboden een cultuurgoed binnen Nederland te brengen dat:
 
 - b. in een verdragsstaat is ontvreemd.
 
-#### Artikel 6.4. In bewaring nemen
+##### Artikel 6.4. In bewaring nemen
 
 1. Onze Minister kan een cultuurgoed ten aanzien waarvan een redelijk vermoeden bestaat dat daarmee het verbod, bedoeld in [artikel 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2026-01-01&g=2026-01-01), is overtreden, in bewaring nemen voor de tijd die Onze Minister nodig acht om de verdragsstaat waaruit het cultuurgoed afkomstig is, in staat te stellen op dit cultuurgoed beslag te doen leggen. Deze tijd mag niet langer zijn dan twaalf weken.
 
 2. De inbewaringneming kan eenmaal voor ten hoogste twaalf weken worden verlengd.
 
-#### Artikel 6.5. Op schrift stellen inbewaringneming
+##### Artikel 6.5. Op schrift stellen inbewaringneming
 
 1. Onze Minister stelt voorafgaand aan de inbewaringneming of een verlenging daarvan zijn beslissing daartoe op schrift. De schriftelijke beslissing is een beschikking.
 
@@ -824,23 +851,23 @@ Het is verboden een cultuurgoed binnen Nederland te brengen dat:
 
 3. Indien de situatie dermate spoedeisend is dat Onze Minister de beslissing tot inbewaringneming niet tevoren op schrift kan stellen, zorgt hij alsnog zo spoedig mogelijk voor opschriftstelling en voor de bekendmaking.
 
-#### Artikel 6.6. Eindigen van de inbewaringneming
+##### Artikel 6.6. Eindigen van de inbewaringneming
 
 1. De inbewaringneming eindigt doordat op het cultuurgoed in opdracht van de staat waaruit het afkomstig is, beslag wordt gelegd, of de tijd waarvoor de inbewaringneming geldt, ongebruikt is verstreken.
 
 2. Indien de inbewaringneming eindigt zonder dat beslag wordt gelegd op het cultuurgoed, wordt het afgegeven aan degene die het cultuurgoed bij de aanvang van de inbewaringneming onder zich hield, dan wel aan degene die redelijkerwijs als rechthebbende kan worden aangemerkt.
 
-#### Artikel 6.7. Vordering tot teruggave
+##### Artikel 6.7. Vordering tot teruggave
 
 Van een cultuurgoed dat in strijd met het verbod, bedoeld in [artikel 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2026-01-01&g=2026-01-01), binnen Nederland is gebracht, kan met inachtneming van de [artikelen 1011a tot en met 1011d van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=1011a) teruggave worden gevorderd door de verdragsstaat waaruit het cultuurgoed afkomstig is of door de rechthebbende op dat cultuurgoed.
 
-#### Artikel 6.8. Beperking toepassing
+##### Artikel 6.8. Beperking toepassing
 
 Deze paragraaf is niet van toepassing, wanneer de schending van de in [artikel 6.3, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2026-01-01&g=2026-01-01), bedoelde bepalingen dan wel de in artikel 6.3, onder b, bedoelde ontvreemding vóór 1 juli 2009 heeft plaatsgevonden.
 
 #### § 6.2. Teruggave cultuurgoederen uit bezet gebied
 
-#### Artikel 6.9. Begripsbepalingen
+##### Artikel 6.9. Begripsbepalingen
 
 In deze paragraaf wordt verstaan onder:
 
@@ -850,11 +877,11 @@ In deze paragraaf wordt verstaan onder:
 
 - c. **cultuurgoed:** zaak als bedoeld in artikel 1, onder a, van het Verdrag inzake de bescherming van culturele goederen in geval van een gewapend conflict (Trb. 1955, 47).
 
-#### Artikel 6.10. Verbod binnenbrengen of onder zich houden cultuurgoed uit bezet gebied
+##### Artikel 6.10. Verbod binnenbrengen of onder zich houden cultuurgoed uit bezet gebied
 
 Het is verboden om een cultuurgoed dat afkomstig is uit een bezet gebied Nederland binnen te brengen of in Nederland onder zich te houden.
 
-#### Artikel 6.11. In bewaring nemen cultuurgoed uit bezet gebied
+##### Artikel 6.11. In bewaring nemen cultuurgoed uit bezet gebied
 
 1. Onze Minister neemt een cultuurgoed ten aanzien waarvan een redelijk vermoeden bestaat dat daarmee het verbod, bedoeld in [artikel 6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=6&paragraaf=6.2&artikel=6.10&z=2026-01-01&g=2026-01-01), wordt overtreden in bewaring:
 
@@ -864,7 +891,7 @@ Het is verboden om een cultuurgoed dat afkomstig is uit een bezet gebied Nederla
 
 2. Onze Minister kan in Nederland aangetroffen cultuurgoederen ten aanzien waarvan het redelijke vermoeden, bedoeld in het eerste lid, bestaat, eveneens uit eigen beweging in bewaring nemen, indien een redelijke verwachting bestaat dat een verzoek als bedoeld in het eerste lid, onder b, zal worden gedaan.
 
-#### Artikel 6.12. Op schrift stellen inbewaringneming
+##### Artikel 6.12. Op schrift stellen inbewaringneming
 
 1. [Artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=6&paragraaf=6.1&artikel=6.5&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing op een inbewaringneming als bedoeld in [artikel 6.11](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=6&paragraaf=6.2&artikel=6.11&z=2026-01-01&g=2026-01-01).
 
@@ -876,7 +903,7 @@ Het is verboden om een cultuurgoed dat afkomstig is uit een bezet gebied Nederla
 
 - c. beperkt gerechtigden met betrekking tot het cultuurgoed, voor zover deze bekend zijn.
 
-#### Artikel 6.13
+##### Artikel 6.13
 
 1. De kosten verbonden aan de toepassing van inbewaringneming als bedoeld in [artikel 6.11](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=6&paragraaf=6.2&artikel=6.11&z=2026-01-01&g=2026-01-01), kunnen, indien daartoe aanleiding bestaat, bij beschikking van Onze Minister geheel of ten dele ten laste worden gebracht van degene die het verbod van [artikel 6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=6&paragraaf=6.2&artikel=6.10&z=2026-01-01&g=2026-01-01) overtreedt.
 
@@ -898,7 +925,7 @@ Het is verboden om een cultuurgoed dat afkomstig is uit een bezet gebied Nederla
 
 8. Het verzet schorst de tenuitvoerlegging. Op verzoek van Onze Minister kan de rechter de schorsing van de tenuitvoerlegging opheffen.
 
-#### Artikel 6.14. Eindigen van de inbewaringneming
+##### Artikel 6.14. Eindigen van de inbewaringneming
 
 1. De inbewaringneming, bedoeld in [artikel 6.11](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=6&paragraaf=6.2&artikel=6.11&z=2026-01-01&g=2026-01-01), eindigt:
 
@@ -912,7 +939,7 @@ Het is verboden om een cultuurgoed dat afkomstig is uit een bezet gebied Nederla
 
 2. Indien de inbewaringneming, bedoeld in [artikel 6.11](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=6&paragraaf=6.2&artikel=6.11&z=2026-01-01&g=2026-01-01), eindigt zonder dat het cultuurgoed wordt teruggegeven aan de in het eerste lid, onder a, bedoelde autoriteiten, wordt het afgegeven aan degene die het cultuurgoed bij de aanvang van de inbewaringneming onder zich hield, dan wel aan degene die redelijkerwijs als rechthebbende kan worden aangemerkt.
 
-#### Artikel 6.15. Vordering tot teruggave
+##### Artikel 6.15. Vordering tot teruggave
 
 1. Onze Minister stelt, nadat hij een cultuurgoed in bewaring heeft genomen als bedoeld in [artikel 6.11](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=6&paragraaf=6.2&artikel=6.11&z=2026-01-01&g=2026-01-01), voor de rechter die naar de regels van het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) bevoegd is, een rechtsvordering tot teruggave van dat cultuurgoed in tegen de bezitter, of bij ontstentenis van een bezitter, tegen de houder.
 
@@ -936,7 +963,7 @@ Het is verboden om een cultuurgoed dat afkomstig is uit een bezet gebied Nederla
 
 #### § 7.3. Leningen voor de instandhouding van rijksmonumenten
 
-#### Artikel 7.8. Lening
+##### Artikel 7.8. Lening
 
 1. Onze Minister zorgt dat ter financiering van de kosten van de instandhouding van rijksmonumenten een lening kan worden verkregen.
 
@@ -952,7 +979,7 @@ Het is verboden om een cultuurgoed dat afkomstig is uit een bezet gebied Nederla
 
 #### § 8.1. Algemene bepalingen
 
-#### Artikel 8.1. Handhavingstaak
+##### Artikel 8.1. Handhavingstaak
 
 Onze Minister is belast met de bestuursrechtelijke handhaving van het bepaalde bij of krachtens deze wet. Deze taak omvat:
 
@@ -960,17 +987,17 @@ Onze Minister is belast met de bestuursrechtelijke handhaving van het bepaalde b
 
 - b. het opleggen van een bestuurlijke sanctie wegens een gedraging die in strijd is met het bepaalde bij of krachtens deze wet.
 
-#### Artikel 8.2. Last onder bestuursdwang
+##### Artikel 8.2. Last onder bestuursdwang
 
 Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van het bepaalde bij of krachtens deze wet.
 
 #### § 8.2. Aanwijzing toezichthouders en opsporingsambtenaren
 
-#### Artikel 8.3. Toezichthouders
+##### Artikel 8.3. Toezichthouders
 
 Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de bij besluit door Onze Minister aangewezen inspecteurs en andere bij besluit van Onze Minister daartoe aangewezen ambtenaren.
 
-#### Artikel 8.4. Opsporingsambtenaren
+##### Artikel 8.4. Opsporingsambtenaren
 
 1. Met de opsporing van de strafbaar gestelde overtredingen van het bepaalde bij of krachtens deze wet zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), belast:
 
@@ -980,13 +1007,13 @@ Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn 
 
 2. De ambtenaren, bedoeld in het eerste lid, onder a en b, zijn tevens belast met de opsporing van de feiten strafbaar gesteld in de [artikelen 179 tot en met 182](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=179) en [184 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=184), voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.
 
-#### Artikel 8.5. Plaatsing in de Staatscourant
+##### Artikel 8.5. Plaatsing in de Staatscourant
 
 Van een besluit als bedoeld in [artikel 8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=8&paragraaf=8.2&artikel=8.3&z=2026-01-01&g=2026-01-01) of [artikel 8.4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=8&paragraaf=8.2&artikel=8.4&z=2026-01-01&g=2026-01-01), wordt mededeling gedaan door plaatsing in de Staatscourant.
 
 #### § 8.3. Bijzondere bevoegdheden en taken toezichthouders
 
-#### Artikel 8.6. Bijzondere bevoegdheden
+##### Artikel 8.6. Bijzondere bevoegdheden
 
 1. De ambtenaren, bedoeld in de [artikelen 8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=8&paragraaf=8.2&artikel=8.3&z=2026-01-01&g=2026-01-01) en [8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=8&paragraaf=8.2&artikel=8.4&z=2026-01-01&g=2026-01-01), zijn bevoegd:
 
@@ -1000,7 +1027,7 @@ Van een besluit als bedoeld in [artikel 8.3](https://wetten.overheid.nl/jci1.3:c
 
 - b. zo nodig met behulp van de sterke arm de bevoegdheid, bedoeld in [artikel 5:17 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) uit te oefenen.
 
-#### Artikel 8.7. Bijzondere bepalingen voor toezicht op beheer collecties
+##### Artikel 8.7. Bijzondere bepalingen voor toezicht op beheer collecties
 
 1. Onze Minister wie het aangaat, een college van staat of een instelling die museale cultuurgoederen van de Staat beheert, verstrekt desgevraagd de inlichtingen die de toezichthouders, bedoeld in [artikel 8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=8&paragraaf=8.2&artikel=8.3&z=2026-01-01&g=2026-01-01), voor de uitoefening van het toezicht nodig hebben.
 
@@ -1012,7 +1039,7 @@ Van een besluit als bedoeld in [artikel 8.3](https://wetten.overheid.nl/jci1.3:c
 
 5. Dit artikel is van overeenkomstige toepassing op een instelling die op grond van [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=2&paragraaf=2.2&artikel=2.8&z=2026-01-01&g=2026-01-01) is belast met de zorg voor het beheer van andere cultuurgoederen.
 
-#### Artikel 8.8. Opsporen beschermde cultuurgoederen lidstaten EU
+##### Artikel 8.8. Opsporen beschermde cultuurgoederen lidstaten EU
 
 1. De ambtenaren, bedoeld in [artikel 8.4, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=8&paragraaf=8.2&artikel=8.4&z=2026-01-01&g=2026-01-01), zijn belast met het op verzoek van een lidstaat van de Europese Unie of van een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte opsporen van een door die staat in het verzoek omschreven roerende zaak die krachtens de nationale wetgeving van die staat een cultuurgoed is in de zin van artikel 2, onder 1, van [Richtlijn 2014/60](32014L0060)/EU van het Europees parlement en de Raad van 15 mei 2014 betreffende de teruggave van cultuurgoederen die op onrechtmatige wijze buiten het grondgebied van een lidstaat zijn gebracht en houdende wijziging van Verordening (EU) nr. 1024/2012 (PbEU 2014, L 159), mits die zaak in de zin van die richtlijn op onrechtmatige wijze buiten het grondgebied van die staat is gebracht.
 
@@ -1020,7 +1047,7 @@ Van een besluit als bedoeld in [artikel 8.3](https://wetten.overheid.nl/jci1.3:c
 
 ### Hoofdstuk 9. Overgangsrecht
 
-#### Artikel 9.1. Omgevingswet
+##### Artikel 9.1. Omgevingswet
 
 1. Tot het tijdstip waarop het bij koninklijke boodschap van 16 juni 2014 ingediende voorstel van wet houdende regels over het beschermen en benutten van de fysieke leefomgeving (Omgevingswet) (Kamerstukken 33 962) tot wet is verheven en in werking is getreden:
 
@@ -1034,13 +1061,13 @@ Van een besluit als bedoeld in [artikel 8.3](https://wetten.overheid.nl/jci1.3:c
 
 - b. [artikel 1a, onderdeel 2, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1a).
 
-#### Artikel 9.2. Beschermde zaken
+##### Artikel 9.2. Beschermde zaken
 
 1. Monumenten die zijn ingeschreven als bedoeld in de [artikelen 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=6), en [7, derde lid, van de Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=7), zoals die luidden voor de inwerkingtreding van deze wet, worden geacht te zijn ingeschreven op grond van [artikel 3.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=3&paragraaf=3.1&artikel=3.3&z=2026-01-01&g=2026-01-01), van deze wet.
 
 2. Roerende zaken en verzamelingen die als beschermde voorwerpen onderscheidenlijk beschermde verzamelingen zijn aangewezen op grond van de [Wet tot behoud van cultuurbezit](https://wetten.overheid.nl/jci1.3:c:BWBR0003659) worden geacht te zijn aangewezen als beschermde cultuurgoederen onderscheidenlijk beschermde verzamelingen op grond van deze wet.
 
-#### Artikel 9.3. Eerbiedigende werking [Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471)
+##### Artikel 9.3. Eerbiedigende werking [Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471)
 
 1. De [Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471), zoals die wet luidde voor inwerkingtreding van deze wet, blijft van toepassing op:
 
@@ -1050,7 +1077,7 @@ Van een besluit als bedoeld in [artikel 8.3](https://wetten.overheid.nl/jci1.3:c
 
 2. Op subsidies verstrekt op grond van [artikel 34 van de Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=34) blijven de regels van toepassing die op de dag voor inwerkingtreding van deze wet op die subsidies van kracht waren.
 
-#### Artikel 9.4. Eerbiedigende werking [Wet tot behoud van cultuurbezit](https://wetten.overheid.nl/jci1.3:c:BWBR0003659)
+##### Artikel 9.4. Eerbiedigende werking [Wet tot behoud van cultuurbezit](https://wetten.overheid.nl/jci1.3:c:BWBR0003659)
 
 1. De [Wet tot behoud van cultuurbezit](https://wetten.overheid.nl/jci1.3:c:BWBR0003659), zoals die wet luidde voor inwerkingtreding van deze wet, blijft van toepassing op:
 
@@ -1066,11 +1093,11 @@ Van een besluit als bedoeld in [artikel 8.3](https://wetten.overheid.nl/jci1.3:c
 
 2. Een vergunning die is verleend op grond van [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0003659&artikel=14a) of [artikel 14b van de Wet tot behoud van cultuurbezit](https://wetten.overheid.nl/jci1.3:c:BWBR0003659&artikel=14b) wordt geacht een vergunning als bedoeld in [artikel 4.22](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=4&paragraaf=4.3&artikel=4.22&z=2026-01-01&g=2026-01-01) onderscheidenlijk [artikel 4.23](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=4&paragraaf=4.4&artikel=4.23&z=2026-01-01&g=2026-01-01) van deze wet te zijn.
 
-#### Artikel 9.5. Besluiten tot inbewaringneming
+##### Artikel 9.5. Besluiten tot inbewaringneming
 
 Besluiten tot inbewaringneming van cultuurgoederen op grond van de Wet tot teruggave cultuurgoederen afkomstig uit bezet gebied of de [Uitvoeringswet UNESCO-verdrag 1970 inzake onrechtmatige invoer, uitvoer of eigendomsoverdracht van cultuurgoederen](https://wetten.overheid.nl/jci1.3:c:BWBR0025996) worden geacht te zijn genomen op grond van deze wet.
 
-#### Artikel 9.6. Opgravingsvergunning
+##### Artikel 9.6. Opgravingsvergunning
 
 1. Op een opgraving die is aangevangen voor inwerkingtreding van deze wet blijft [hoofdstuk V van de Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&hoofdstuk=V) zoals die wet luidde voor inwerkingtreding van deze wet van toepassing.
 
@@ -1082,7 +1109,7 @@ Besluiten tot inbewaringneming van cultuurgoederen op grond van de Wet tot terug
 
 #### § 10.1. Intrekken en omhangen wettelijke regelingen
 
-#### Artikel 10.1. Intrekking
+##### Artikel 10.1. Intrekking
 
 De volgende wetten worden ingetrokken:
 
@@ -1098,7 +1125,7 @@ De volgende wetten worden ingetrokken:
 
 - f. [Wet verzelfstandiging rijksmuseale diensten](https://wetten.overheid.nl/jci1.3:c:BWBR0006030).
 
-#### Artikel 10.2. Nieuwe grondslag
+##### Artikel 10.2. Nieuwe grondslag
 
 Na de inwerkingtreding van deze wet berusten de volgende regelingen op [artikel 7.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&hoofdstuk=7&paragraaf=7.2&artikel=7.7&z=2026-01-01&g=2026-01-01), van deze wet:
 
@@ -1108,67 +1135,67 @@ Na de inwerkingtreding van deze wet berusten de volgende regelingen op [artikel 
 
 #### § 10.2. Wijziging van andere wetten
 
-#### Artikel 10.3. [Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746)
+##### Artikel 10.3. [Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746)
 
 Wijzigt de Algemene douanewet.
 
-#### Artikel 10.4. [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
+##### Artikel 10.4. [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
 
 Wijzigt de Algemene wet bestuursrecht.
 
-#### Artikel 10.5. [Burgerlijk Wetboek Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291)
+##### Artikel 10.5. [Burgerlijk Wetboek Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291)
 
 Wijzigt het Burgerlijk Wetboek Boek 3.
 
-#### Artikel 10.6. [Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891)
+##### Artikel 10.6. [Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891)
 
 Wijzigt de Comptabiliteitswet 2001.
 
-#### Artikel 10.7. [Crisis- en herstelwet](https://wetten.overheid.nl/jci1.3:c:BWBR0027431)
+##### Artikel 10.7. [Crisis- en herstelwet](https://wetten.overheid.nl/jci1.3:c:BWBR0027431)
 
 Wijzigt de Crisis- en herstelwet.
 
-#### Artikel 10.8. [Ontgrondingenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002505)
+##### Artikel 10.8. [Ontgrondingenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002505)
 
 Wijzigt de Ontgrondingenwet.
 
-#### Artikel 10.9. [Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779)
+##### Artikel 10.9. [Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779)
 
 Wijzigt de Wet algemene bepalingen omgevingsrecht.
 
-#### Artikel 10.10. [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353)
+##### Artikel 10.10. [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353)
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel 10.11. [Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0016876)
+##### Artikel 10.11. [Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0016876)
 
 Wijzigt de Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken.
 
-#### Artikel 10.12. [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245)
+##### Artikel 10.12. [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245)
 
 Wijzigt de Wet milieubeheer.
 
-#### Artikel 10.13. [Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063)
+##### Artikel 10.13. [Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063)
 
 Wijzigt de Wet op de economische delicten.
 
-#### Artikel 10.14. [Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904)
+##### Artikel 10.14. [Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904)
 
 Wijzigt de Wet op het specifiek cultuurbeleid.
 
-#### Artikel 10.15. [Wet tot oprichting van de naamloze vennootschap De Nederlandse Munt N.V.](https://wetten.overheid.nl/jci1.3:c:BWBR0006636)
+##### Artikel 10.15. [Wet tot oprichting van de naamloze vennootschap De Nederlandse Munt N.V.](https://wetten.overheid.nl/jci1.3:c:BWBR0006636)
 
 Wijzigt de Wet tot oprichting van de naamloze vennootschap De Nederlandse Munt N.V.
 
-#### Artikel 10.16. [Wetboek van burgerlijke rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827)
+##### Artikel 10.16. [Wetboek van burgerlijke rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827)
 
 Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
 
-#### Artikel 10.17. [Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119)
+##### Artikel 10.17. [Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119)
 
 Wijzigt de Wet waardering onroerende zaken.
 
-#### Artikel 10.18. [Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471)
+##### Artikel 10.18. [Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471)
 
 Wijzigt de Monumentenwet 1988.
 
@@ -1176,7 +1203,7 @@ Wijzigt de Monumentenwet 1988.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 4.23a. Verbod binnenbrengen cultuurgoederen
+##### Artikel 4.23a. Verbod binnenbrengen cultuurgoederen
 
 1. Het is verboden om cultuurgoederen als bedoeld in artikel 3, eerste lid, van de [Verordening (EU) 2019/880](32780R2019), binnen te brengen vanuit gebieden buiten het douanegebied van de Europese Unie.
 

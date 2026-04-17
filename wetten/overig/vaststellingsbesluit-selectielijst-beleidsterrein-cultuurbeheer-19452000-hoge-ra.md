@@ -1,13 +1,39 @@
 ---
-title: "Vaststellingsbesluit selectielijst beleidsterrein Cultuurbeheer 1945–2000 (Hoge Raad van Adel)"
+title: "Besluit van 16 maart 2006, nr. 06.000754, houdende vaststelling van een selectielijst van de Hoge Raad van Adel op het beleidsterrein Cultuurbeheer over de periode 1945–2000"
 identifier: "BWBR0019667"
-categorie: "Overig"
-publicatiedatum: 2006-04-21
-laatste_update: 2006-04-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019667"
+country: "nl"
+rank: "kb"
+publication_date: "2006-04-21"
+last_updated: "2006-04-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019667"
+soort: "KB"
+stam_id: "8215423"
+version_id: "13025352"
+internal_id: "C17532681"
+label_id: "8196524"
+dtd_version: "2.0"
+original_entry_into_force: "2006-04-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019667/2006-04-21/0"
+intitule_bron: "Stcrt.2006-76"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-03-16"
+intitule_published: "2006-04-19"
+intitule_in_force: "2006-04-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-76"
+original_signed_date: "2006-03-16"
+original_published_date: "2006-04-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-76-p30-SC74538"
+entry_into_force_date: "2006-04-21"
+jci_1_3: "jci1.3:c:BWBR0019667&z=2006-04-21&g=2006-04-21"
+jci_1_0: "1.0:c:BWBR0019667&g=2006-04-21"
+citeertitel_status: "redactioneel"
+short_title: "Vaststellingsbesluit selectielijst beleidsterrein Cultuurbeheer 1945–2000 (Hoge Raad van Adel)"
+signed_date: "2006-03-16"
+entry_into_force: "2006-04-21"
 ---
-
 # Besluit van 16 maart 2006, nr. 06.000754, houdende vaststelling van een selectielijst van de Hoge Raad van Adel op het beleidsterrein Cultuurbeheer over de periode 1945–2000
 
 Op de voordracht van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, van 16 februari 2006, nr. C/S&A/05/2141, gedaan in overeenstemming met de Hoge Raad van Adel;
@@ -18,11 +44,11 @@ Gezien het advies van de Raad voor Cultuur van 18 december 2003, nr. arc-2003.64
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde ‘Selectielijst voor de handelingen van de Hoge Raad van Adel op het beleidsterrein Cultuurbeheer over de periode 1945–2000’ en de daarbij behorende toelichting worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

@@ -1,13 +1,39 @@
 ---
-title: "Besluit medegebruik omroepzendernetwerken en fysieke en publieke infrastructuur"
+title: "Besluit van 21 maart 2018, houdende regels inzake het medegebruik van antenne-opstelpunten, antennesystemen en antennes bestemd voor omroepzendernetwerken en medegebruik van fysieke infrastructuur ter bevordering van de aanleg van elektronische communicatienetwerken met hoge snelheid (Besluit medegebruik omroepzendernetwerken en fysieke infrastructuur)"
 identifier: "BWBR0040788"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-03-02
-laatste_update: 2022-03-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040788"
+country: "nl"
+rank: "amvb"
+publication_date: "2022-03-02"
+last_updated: "2022-03-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040788"
+soort: "AMvB"
+stam_id: "14584613"
+version_id: "28451492"
+internal_id: "C40147521"
+label_id: "14538244"
+dtd_version: "2.0"
+original_entry_into_force: "2022-02-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040788/2022-03-02/0"
+intitule_bron: "Stb.2018-91"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-03-21"
+intitule_published: "2018-03-30"
+intitule_in_force: "2018-03-30"
+intitule_status: "goed"
+original_publication: "Stb.2022-95"
+original_signed_date: "2022-02-24"
+original_published_date: "2022-03-01"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2022-95"
+entry_into_force_date: "2022-02-24"
+jci_1_3: "jci1.3:c:BWBR0040788&z=2022-03-02&g=2022-03-02"
+jci_1_0: "1.0:c:BWBR0040788&g=2022-03-02"
+citeertitel_status: "officieel"
+short_title: "Besluit medegebruik omroepzendernetwerken en fysieke en publieke infrastructuur"
+signed_date: "2022-02-24"
+entry_into_force: "2022-02-24"
 ---
-
 # Besluit van 21 maart 2018, houdende regels inzake het medegebruik van antenne-opstelpunten, antennesystemen en antennes bestemd voor omroepzendernetwerken en medegebruik van fysieke infrastructuur ter bevordering van de aanleg van elektronische communicatienetwerken met hoge snelheid (Besluit medegebruik omroepzendernetwerken en fysieke infrastructuur)
 
 Op de voordracht van de Staatssecretaris van Economische Zaken en Klimaat van 8 december 2017, nr. WJZ / 17196656;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 Treedt in werking op het tijdstip waarop de Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken in werking treedt.
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -36,7 +62,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - **wet:** [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een ontvanger beslist of aan een verzoek tot medegebruik kan worden voldaan binnen:
 
@@ -52,7 +78,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. een week, indien het een verzoek om medegebruik van een omroepzendernetwerk betreft.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Indien onvoldoende gegevens zijn verstrekt voor de beoordeling van het verzoek tot medegebruik, brengt de ontvanger binnen een week na ontvangst van het verzoek de verzoeker hiervan schriftelijk op de hoogte. De ontvanger geeft daarbij aan welke gegevens ontbreken en geeft daarbij een deugdelijke motivering waarom de ontbrekende gegevens noodzakelijk zijn voor de beslissing op het verzoek tot medegebruik.
 
@@ -62,7 +88,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Bij ministeriële regeling worden nadere regels gesteld met betrekking tot de door de verzoeker te overleggen gegevens bij de indiening van een verzoek tot medegebruik.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een houder verstrekt op verzoek van een andere houder, teneinde deze in staat te stellen met betrekking tot zijn omroepzendernetwerk een verzoek tot medegebruik in te dienen, binnen twee weken na ontvangst van dat verzoek, de daartoe benodigde gegevens. Bij ministeriële regeling worden nadere regels gesteld met betrekking tot de te verstrekken gegevens.
 
@@ -92,29 +118,29 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. de vergoeding, bedoeld in het vijfde lid.
 
-#### Artikel 5
+##### Artikel 5
 
 De gegevens die worden verstrekt om met betrekking tot een omroepzendernetwerk een verzoek tot medegebruik te kunnen indienen en de gegevens die worden verstrekt in het kader van een dergelijk verzoek, worden door degene aan wie de gegevens zijn verstrekt slechts gebruikt voor het doel waarvoor de gegevens zijn verstrekt. Alle informatie wordt vertrouwelijk behandeld.
 
-#### Artikel 6
+##### Artikel 6
 
 Wijzigt het Frequentiebesluit 2013.
 
-#### Artikel 7
+##### Artikel 7
 
 Het [Besluit medegebruik omroepzendernetwerken](https://wetten.overheid.nl/jci1.3:c:BWBR0015153) wordt ingetrokken.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit treedt in werking op het tijdstip waarop de [Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken](https://wetten.overheid.nl/jci1.3:c:BWBR0040728) in werking treedt.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit medegebruik omroepzendernetwerken en fysieke en publieke infrastructuur.
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 2a
+##### Artikel 2a
 
 Een publiekrechtelijke rechtspersoon maakt de voorwaarden waaronder hij instemt met een verzoek tot medegebruik van publieke infrastructuur als bedoeld in [artikel 5c.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=5c.2) openbaar overeenkomstig de wijze, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5), onderscheidenlijk [6 van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=6).
 

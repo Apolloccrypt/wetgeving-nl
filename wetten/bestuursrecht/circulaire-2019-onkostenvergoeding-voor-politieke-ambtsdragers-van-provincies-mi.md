@@ -1,13 +1,35 @@
 ---
 title: "Circulaire 2019 (onkosten)vergoeding voor politieke ambtsdragers van provincies, Ministerie van Binnenlandse Zaken en Koninkrijksrelaties"
 identifier: "BWBR0041749"
-categorie: "Bestuursrecht"
-publicatiedatum: 2019-01-01
-laatste_update: 2019-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041749"
+country: "nl"
+rank: "circulaire"
+publication_date: "2019-01-01"
+last_updated: "2019-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041749"
+soort: "circulaire"
+stam_id: "14926433"
+version_id: "25547902"
+internal_id: "C36468501"
+label_id: "14877694"
+dtd_version: "2.0"
+original_entry_into_force: "2019-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041749/2019-01-01/0"
+intitule_bron: "Stcrt.2018-72288"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2018-12-24"
+intitule_in_force: "2018-12-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-72288"
+original_published_date: "2018-12-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-72288"
+entry_into_force_date: "2019-01-01"
+jci_1_3: "jci1.3:c:BWBR0041749&z=2019-01-01&g=2019-01-01"
+jci_1_0: "1.0:c:BWBR0041749&g=2019-01-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2019-01-01"
 ---
-
 # Circulaire 2019 (onkosten)vergoeding voor politieke ambtsdragers van provincies, Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
 
 **Met ingang van 1 januari 2019 zullen circulaires met betrekking tot de rechtspositie van politieke ambtsdragers uitsluitend nog bekend worden gemaakt op de site van de officiële bekendmakingen (Staatscourant) en op de website** **www.politiekeambtsdragers.nl** **. U kunt zich met een RSS-feed abonneren op deze site. Als er een circulaire op deze site wordt gepubliceerd, ontvangt u een attendering. Gedurende het jaar 2018 worden bij wijze van overgangsmaatregel de circulaires ook nog per post verzonden.**

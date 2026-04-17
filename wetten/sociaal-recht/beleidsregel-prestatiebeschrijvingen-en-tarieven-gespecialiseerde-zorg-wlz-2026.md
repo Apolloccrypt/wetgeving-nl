@@ -1,18 +1,43 @@
 ---
 title: "Beleidsregel prestatiebeschrijvingen en tarieven gespecialiseerde zorg Wlz 2026"
 identifier: "BWBR0051662"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051662"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051662"
+soort: "zbo"
+stam_id: "17567753"
+version_id: "30997422"
+internal_id: "C44391101"
+label_id: "17468854"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051662/2026-01-01/0"
+intitule_bron: "Stcrt.2025-36594"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-10-21"
+intitule_published: "2025-10-29"
+intitule_in_force: "2025-10-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-36594"
+original_signed_date: "2025-10-21"
+original_published_date: "2025-10-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-36594"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051662&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051662&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2025-10-21"
+entry_into_force: "2026-01-01"
 ---
-
 # Beleidsregel prestatiebeschrijvingen en tarieven gespecialiseerde zorg Wlz 2026
 
 Gelet op [artikel 57, eerste lid, onderdelen b en c van de Wet marktordening gezondheidszorg (Wmg)](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot het uitoefenen van de bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
@@ -24,19 +49,19 @@ In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
 - **zorgaanbieder:** de natuurlijke persoon of rechtspersoon die beroeps- of bedrijfsmatig zorg verleent, als bedoeld in [artikel 1, onderdeel c, onder 1°, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1).
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 Het doel van deze beleidsregel is om vast te leggen op welke wijze de NZa gebruik maakt van haar bevoegdheid om prestatiebeschrijvingen en tarieven vast te stellen voor gespecialiseerde zorg in verband met het syndroom van Korsakov, de ziekte van Huntington, een langdurige bewustzijnsstoornis (LBS), dementie met zeer ernstig probleemgedrag die gericht is op verbetering van het probleemgedrag (D-zep), een zeer ernstige gerontopsychiatrische aandoening (GP+), multiple sclerose met ernstige motorische beperkingen (MS+), of niet-aangeboren hersenletsel met zeer ernstig probleemgedrag (NAH+).
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze beleidsregel is van toepassing op de zorg of dienst als omschreven bij of krachtens de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) die wordt geleverd door zorgaanbieders.
 
-#### Artikel 4. Prijspeil
+##### Artikel 4. Prijspeil
 
 De loon- en materiële kosten van de beleidsregelwaarden bevatten de definitieve percentages 2025 en de voorschotpercentages 2026. De NHC bevat de jaarlijkse index van 2,5% en de NIC bevat de index voor de materiële kosten.
 
-#### Artikel 5. Beleidsregelwaarden voor tariefvaststelling
+##### Artikel 5. Beleidsregelwaarden voor tariefvaststelling
 
 De NZa stelt de tarieven in een tariefbeschikking vast op de bedragen zoals vermeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0051662&artikel=6&z=2026-01-01&g=2026-01-01) (beleidsregelwaarden).
 
@@ -110,7 +135,7 @@ De onderbouwing van de rekenmethode die gehanteerd wordt door de NZa om tot de i
 
 Voor de opbouw van de beleidsregelwaarden in loon, materieel, NIC en NHC wordt verwezen naar bijlage 1.
 
-#### Artikel 6. Beleidsregelwaarden
+##### Artikel 6. Beleidsregelwaarden
 
 De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0051662&artikel=5&z=2026-01-01&g=2026-01-01) beschreven beleidsregelwaarden voor tariefvaststelling zijn:
 
@@ -147,7 +172,7 @@ De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0051662&artikel=5&z=20
 | --- | --- | --- |
 | Reiskosten prestaties consultatie en advies (CCA1 t/m CCA8) | CCAR | € 40,03 |
 
-#### Artikel 7. Prestatiebeschrijvingen
+##### Artikel 7. Prestatiebeschrijvingen
 
 De NZa stelt de navolgende prestatiebeschrijvingen per doelgroep vast. Deze prestaties zijn alleen van toepassing indien is voldaan aan de voorwaarden als weergegeven in de onderstaande overzichten.
 
@@ -407,15 +432,15 @@ De NZa stelt de navolgende prestatiebeschrijvingen per doelgroep vast. Deze pres
 |   |
 | Aanvullende voorwaarden: – De reistoeslag kan alleen in rekening worden gebracht in combinatie met de prestaties CCA1 t/m CCA8. – De reistoeslag zorgverlener geldt per bezoek per cliënt. |
 
-#### Artikel 8. Prestaties en toeslagen
+##### Artikel 8. Prestaties en toeslagen
 
 De prestaties gespecialiseerde zorg kunnen alleen in combinatie met de toeslagen genoemd in de [Beleidsregel prestatiebeschrijvingen en tarieven zorgzwaartepakketten en volledig pakket thuis](https://wetten.overheid.nl/jci1.3:c:BWBR0051621) of de [Beleidsregel prestatiebeschrijving en tarief zzp-meerzorg Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0051345) worden gedeclareerd indien de toeslagen geen relatie hebben tot de aandoening van de doelgroep.
 
-#### Artikel 9. Intrekken oude beleidsregel
+##### Artikel 9. Intrekken oude beleidsregel
 
 Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt de [Beleidsregel prestatiebeschrijvingen en tarieven gespecialiseerde zorg Wlz 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0050694), met kenmerk BR/REG-25133a, ingetrokken.
 
-#### Artikel 10. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding, terugwerkende kracht en citeertitel
+##### Artikel 10. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding, terugwerkende kracht en citeertitel
 
 De [Beleidsregel prestatiebeschrijvingen en tarieven gespecialiseerde zorg Wlz 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0050694), met kenmerk BR/REG-25133a, blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die beleidsregel en die betrekking hebben op de periode waarvoor die beleidsregel gold.
 

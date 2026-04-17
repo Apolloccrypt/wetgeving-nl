@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregel prestaties en tarieven medisch-specialistische zorg"
 identifier: "BWBR0048679"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048679"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048679"
+soort: "zbo"
+stam_id: "16869273"
+version_id: "30075692"
+internal_id: "C43099661"
+label_id: "16781664"
+dtd_version: "2.0"
+original_entry_into_force: "2025-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048679/2026-01-01/0"
+intitule_bron: "Stcrt.2023-26739"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-09-19"
+intitule_published: "2023-10-02"
+intitule_in_force: "2023-10-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-14273"
+original_signed_date: "2024-04-23"
+original_published_date: "2024-05-01"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2024-14273"
+entry_into_force_date: "2025-01-01"
+jci_1_3: "jci1.3:c:BWBR0048679&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0048679&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2024-04-23"
+entry_into_force: "2025-01-01"
 ---
-
 # Beleidsregel prestaties en tarieven medisch-specialistische zorg
 
 Gelet op [artikel 57, eerste lid, onderdelen b en c, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot het uitoefenen van de bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen.
@@ -18,7 +43,7 @@ Gelet op [artikel 59, onder a en b van de Wmg](https://wetten.overheid.nl/jci1.3
 
 Gelet op [artikel 7 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7), heeft de Minister van VWS met brief van 21 mei 2014, met kenmerk 371987-120847-MC en met brief van 29 november 2016, met kenmerk 1051065-157688-MC, ten behoeve van de voorliggende beleidsregel een algemene aanwijzing aan de NZa gegeven.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -136,11 +161,11 @@ In deze beleidsregel wordt verstaan onder:
 
 - xx. **Zorgverlener** Een natuurlijk persoon die beroepsmatig zorg verleent.
 
-#### Artikel 2. Doel van de beleidsregel
+##### Artikel 2. Doel van de beleidsregel
 
 Het doel van deze beleidsregel is inzicht te verschaffen in de manier waarop de prestatie- en tariefregulering, oftewel de bekostiging, van de medisch-specialistische zorg is vormgegeven en hoe de NZa gebruik maakt van de – voor dit specifieke doel – aan haar toegekende wettelijke bevoegdheden. Een hiervan afgeleid beleidsdoel is het tot stand brengen van een evenwichtige set prestaties en tarieven voor de medisch-specialistische zorg, waarmee de kwaliteit, betaalbaarheid en toegankelijkheid van deze zorg structureel wordt geborgd.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 1. Deze beleidsregel is van toepassing op:
 
@@ -182,11 +207,11 @@ Het doel van deze beleidsregel is inzicht te verschaffen in de manier waarop de 
 
 ### Hoofdstuk I. Prestaties
 
-#### Artikel 4. Prestatiebeschrijvingen
+##### Artikel 4. Prestatiebeschrijvingen
 
 Prestaties binnen de medisch-specialistische zorg worden door de NZa – in beginsel jaarlijks – vastgesteld in de ‘[Prestatie- en tariefbeschikking medisch-specialistische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0041394)’. Prestaties worden onderscheiden in dbc-zorgproducten en overige zorgproducten.
 
-#### Artikel 5. Dbc-zorgproducten
+##### Artikel 5. Dbc-zorgproducten
 
 1. De NZa verdeelt de zorg in zorgactiviteiten. Iedere zorgactiviteit wordt voorzien van een unieke zorgactiviteitcode en is enkelzijdig omschreven.
 
@@ -220,7 +245,7 @@ Prestaties binnen de medisch-specialistische zorg worden door de NZa – in begi
 
 11. Alle dbc-zorgproducten en daarbij behorende voorschriften, voorwaarden en beperkingen worden vastgesteld in de ‘[Prestatie- en tariefbeschikking medisch-specialistische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0041394)’ en omschreven in de [Regeling medisch-specialistische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0041392). De door de NZa vastgestelde dbc-zorgproducten zijn weergegeven in de zorgproducten tabel (te raadplegen via [puc.overheid.nl/nza](https://puc.overheid.nl/nza/)).
 
-#### Artikel 6. Subtraject
+##### Artikel 6. Subtraject
 
 1. Een gestart zorgtraject kan bestaan uit één of meerdere subtrajecten die leiden tot een declarabel dbc-zorgproduct of een uitvalproduct (niet-declarabel product).
 
@@ -256,7 +281,7 @@ Prestaties binnen de medisch-specialistische zorg worden door de NZa – in begi
 
 3. De diagnosecodes zijn opgenomen in de typeringslijsten per specialisme (te raadplegen via [puc.overheid.nl/nza](https://puc.overheid.nl/nza/)).
 
-#### Artikel 7. Overige zorgproducten
+##### Artikel 7. Overige zorgproducten
 
 1. De prestaties binnen de medisch-specialistische zorg, niet zijnde dbc-zorgproducten, worden overige zorgproducten genoemd.
 
@@ -318,7 +343,7 @@ Qua inhoud kunnen facultatieve prestaties msz, ongeacht tot welke subcategorie z
 
 5. In afwijking van het vorige lid geldt dat voor facultatieve prestaties separate beschikkingen worden vastgesteld. Zij maken dus geen deel uit van de Prestatie- en tariefbeschikking medisch-specialistische zorg. Ook zijn de facultatieve prestaties, op een drietal uitzonderingen voor eerstelijnsdiagnostiek na, niet omschreven in de Regeling medisch-specialistische zorg, maar in de beschikking die voor de facultatieve prestatie is vastgesteld. Omdat facultatieve prestaties behoren tot de categorie overige zorgproducten worden zij ook opgenomen in het ‘Overzicht overige zorgproducten’ dat als bijlage aan de Regeling medisch-specialistische zorg is gekoppeld.
 
-#### Artikel 7a. Beschrijvingen van overige zorgproducten
+##### Artikel 7a. Beschrijvingen van overige zorgproducten
 
 1. De hoofdcategorie supplementaire producten bestaat uit overige zorgproducten die zowel los als additioneel bij een dbc-zorgproduct gedeclareerd kunnen worden.
 
@@ -370,7 +395,7 @@ Qua inhoud kunnen facultatieve prestaties msz, ongeacht tot welke subcategorie z
 
 - c. De rekennorm is minimaal 1.106 declarabele stoeluren per jaar per 1,0 fte tandarts voor grotere instellingen (≥ 2,0 fte tandarts) en is gebaseerd op 201 werkbare dagen per jaar en 5,5 declarabele stoeluren per werkdag. Voor de onderbouwing van het gezamenlijk aangevraagde individuele stoeluurtarief bijzondere tandheelkunde, dient de berekeningssystematiek aangehouden te worden zoals vermeld in de [Beleidsregel Bijzondere tandheelkunde instellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0048460).
 
-#### Artikel 8. Onderlinge dienstverlening
+##### Artikel 8. Onderlinge dienstverlening
 
 Voor onderlinge dienstverlening is één algemene prestatie (genaamd: 'onderlinge dienstverlening (190064)') vastgesteld met een vrij tarief. De prestatie wordt gebruikt voor het in rekening brengen van:
 
@@ -382,13 +407,13 @@ Voor onderlinge dienstverlening is één algemene prestatie (genaamd: 'onderling
 
 ### Hoofdstuk II. Procedure dbc-productstructuur en overige zorgproducten
 
-#### Artikel 9. Algemeen
+##### Artikel 9. Algemeen
 
 1. De procedure omtrent wijzigingen van de dbc-productstructuur en overige zorgproducten staat beschreven in de Beleidsregel toetsingskader dbc-systeem.
 
 2. Voor add-ongeneesmiddelen en ozp-stollingsfactoren geldt een bijzondere procedure, die is beschreven in de artikelen 10 tot en met 11 van deze beleidsregel.
 
-#### Artikel 10. Add-ongeneesmiddelen en ozp-stollingsfactoren
+##### Artikel 10. Add-ongeneesmiddelen en ozp-stollingsfactoren
 
 1. Add-ongeneesmiddelen en ozp-stollingsfactoren zijn geneesmiddelen (geregistreerde geneesmiddelen of apotheekbereidingen) die als overige zorgproducten in rekening worden gebracht. De prestatiebeschrijving van deze overige zorgproducten wordt gevormd door de artikelomschrijving van het geneesmiddel zoals opgenomen in de G-standaard.
 
@@ -418,7 +443,7 @@ Bij een apotheekbereiding:
 
 5. Een geneesmiddel verliest van rechtswege de status van add-on of ozp-stollingsfactor vanaf de datum waarop het geneesmiddel niet meer in de G-standaard is opgenomen. Vanaf die datum vervalt eveneens van rechtswege de door de NZa afgegeven prestatie- en tariefbeschikking waarmee het geneesmiddel de status van add-on of ozp-stollingsfactor verkreeg.
 
-#### Artikel 11. Procedure tot vaststelling, wijziging of intrekking van een add-ongeneesmiddel of ozp-stollingsfactor
+##### Artikel 11. Procedure tot vaststelling, wijziging of intrekking van een add-ongeneesmiddel of ozp-stollingsfactor
 
 1. De NZa besluit voor welke geneesmiddelen (geregistreerde geneesmiddelen of apotheekbereidingen) een add-on of een ozp-stollingsfactor wordt vastgesteld, gewijzigd of ingetrokken. Zo’n besluit kan op twee manieren tot stand komen:
 
@@ -462,7 +487,7 @@ Bij een apotheekbereiding:
 
 13. De omstandigheid dat voor een geneesmiddel een add-on of ozp-stollingsfactor is vastgesteld, wil niet zeggen dat daarmee ook een duiding is vastgesteld omtrent de aanspraak, c.q. het recht op vergoeding ingevolge de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) (Zvw).
 
-#### Artikel 12. Aanvraagprocedure facultatieve prestatie msz
+##### Artikel 12. Aanvraagprocedure facultatieve prestatie msz
 
 1. Een facultatieve prestatie medisch-specialistische zorg (msz) wordt aangevraagd via een gezamenlijke aanvraag van ten minste één zorgaanbieder en één zorgverzekeraar.
 
@@ -480,7 +505,7 @@ Het besluit waarmee de facultatieve prestatie is vastgesteld, wordt gepubliceerd
 
 7. Het besluit waarmee de facultatieve prestatie wordt vastgesteld, wordt door de NZa verwerkt in de zorgactiviteitentabel behorend bij het eerste msz-releasepakket volgend op de datum van inwerkingtreding van dat besluit.
 
-#### Artikel 12a. Voorwaarden bij indiening van een aanvraag facultatieve prestatie msz
+##### Artikel 12a. Voorwaarden bij indiening van een aanvraag facultatieve prestatie msz
 
 1. Een aanvraag voor een facultatieve prestatie voldoet, naast de criteria genoemd in [artikel 12b, eerste, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048679&hoofdstuk=II&artikel=12b&z=2026-01-01&g=2026-01-01), aan de onderstaande cumulatieve voorwaarden:
 
@@ -492,7 +517,7 @@ Het besluit waarmee de facultatieve prestatie is vastgesteld, wordt gepubliceerd
 
 - d. de aanvragers verklaren dat declaraties van de beoogde facultatieve prestatie herleidbaar zijn tot het niveau van de individuele verzekerde.
 
-#### Artikel 12b. Toetsingscriteria en overig beleid m.b.t. de facultatieve prestatie msz
+##### Artikel 12b. Toetsingscriteria en overig beleid m.b.t. de facultatieve prestatie msz
 
 1. De NZa onthoudt goedkeuring aan een aanvraag voor een facultatieve prestatie, indien:
 
@@ -522,7 +547,7 @@ Het besluit waarmee de facultatieve prestatie is vastgesteld, wordt gepubliceerd
 
 ### Hoofdstuk III. Tarieven
 
-#### Artikel 13. Tariefopbouw en tariefsoorten
+##### Artikel 13. Tariefopbouw en tariefsoorten
 
 1. Het tarief voor een dbc-zorgproduct of overig zorgproduct is een integraal tarief en is opgebouwd uit meerdere kostencomponenten. Tot die componenten behoren ook de bedragen die dienen ter dekking van de kosten van (voorheen vrijgevestigde) medisch specialisten.
 
@@ -584,7 +609,7 @@ Het in rekening te brengen maximale tarief is de som van het maximumtarief en in
 | Overige verrichtingen | Maximum of vrij |
 | Facultatieve prestatie msz (add-on fp en losse fp) | Vrij |
 
-#### Artikel 14. Tariefberekening
+##### Artikel 14. Tariefberekening
 
 1. Het integrale tarief is een optelsom van het kostentarief en het honorariumtarief, inclusief indexatie.
 
@@ -600,7 +625,7 @@ Voor de volgende overige zorgproducten wordt aangesloten bij de tarieven voor de
 
 - c. Mondzorg (195005, 239472, 239275) uit de categorie ‘ozp overige verrichtingen’.
 
-#### Artikel 15. Tarief add-ongeneesmiddelen en ozp-stollingsfactoren
+##### Artikel 15. Tarief add-ongeneesmiddelen en ozp-stollingsfactoren
 
 1. De tarieven voor add-ongeneesmiddelen en ozp-stollingsfactoren zijn maximumtarieven als bedoeld in [artikel 50, eerste lid, onder c, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50) en worden met inachtneming van de volgende criteria vastgesteld:
 
@@ -632,7 +657,7 @@ Voor de volgende overige zorgproducten wordt aangesloten bij de tarieven voor de
 
 ### Hoofdstuk IV. Positie van solisten
 
-#### Artikel 16. Criteria solist
+##### Artikel 16. Criteria solist
 
 1. Een beroepsbeoefenaar die de poortfunctie uitvoert (of kaakchirurg) kan in aanmerking komen voor een beschikking solist, indien aan de volgende voorwaarden is voldaan:
 
@@ -654,7 +679,7 @@ Voor de volgende overige zorgproducten wordt aangesloten bij de tarieven voor de
 
 ### Hoofdstuk V. Slotbepalingen
 
-#### Artikel 17. Wijzigen prestaties en tarieven met terugwerkende kracht
+##### Artikel 17. Wijzigen prestaties en tarieven met terugwerkende kracht
 
 De NZa kan besluiten om prestaties en tarieven die op grond van deze beleidsregel zijn vastgesteld met terugwerkende kracht te wijzigen, indien zich één of meer van de volgende situaties voordoen:
 
@@ -662,15 +687,15 @@ De NZa kan besluiten om prestaties en tarieven die op grond van deze beleidsrege
 
 - •. er is sprake van het herstellen van een kennelijke misslag.
 
-#### Artikel 18. Intrekking voorgaande beleidsregel(s)
+##### Artikel 18. Intrekking voorgaande beleidsregel(s)
 
 De beleidsregel Prestaties en tarieven medisch-specialistische zorg, met kenmerk BR/REG-23113a, en de gelijknamige beleidsregel, met kenmerk BR/REG-24102, zijn ingetrokken.
 
-#### Artikel 19. Overgangsbepaling
+##### Artikel 19. Overgangsbepaling
 
 Voor subtrajecten gestart in jaar t-1 en doorlopend in jaar t, geldt dat de beleidsregel van jaar t-1 van toepassing is. Op zorgactiviteiten, inclusief overige zorgproducten, is de beleidsregel van toepassing die geldend was op de datum van uitvoering van de zorgactiviteit.
 
-#### Artikel 20. Inwerkingtreding en citeertitel
+##### Artikel 20. Inwerkingtreding en citeertitel
 
 Deze beleidsregel treedt in werking met ingang van 1 januari 2024.
 

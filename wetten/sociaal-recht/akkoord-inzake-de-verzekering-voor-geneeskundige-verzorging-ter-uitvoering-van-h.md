@@ -1,13 +1,38 @@
 ---
 title: "Akkoord inzake de verzekering voor geneeskundige verzorging, ter uitvoering van het op 29 augustus 1947 te 's-Gravenhage ondertekende Verdrag tussen Nederland en België betreffende de toepassing der wederzijdse wetgeving op het punt der sociale verzekering"
 identifier: "BWBV0002626"
-categorie: "Sociaal recht"
-publicatiedatum: 1981-04-06
-laatste_update: 1981-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002626"
+country: "nl"
+rank: "verdrag"
+publication_date: "1981-04-06"
+last_updated: "1981-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002626"
+soort: "verdrag"
+stam_id: "10002954353"
+version_id: "10002956942"
+internal_id: "C10006979541"
+label_id: "10002940984"
+dtd_version: "2.0"
+original_entry_into_force: "1981-04-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002626/1981-04-06/0"
+intitule_bron: "Trb.1981-147"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1981-04-06"
+intitule_published: "1981-07-10"
+intitule_in_force: "1981-07-10"
+intitule_status: "goed"
+original_publication: "Trb.1981-147"
+original_signed_date: "1981-04-06"
+original_published_date: "1981-07-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1981-147"
+entry_into_force_date: "1981-04-06"
+jci_1_3: "jci1.3:c:BWBV0002626&z=1981-04-06&g=1981-04-06"
+jci_1_0: "1.0:c:BWBV0002626&g=1981-04-06"
+citeertitel_status: "officieel"
+signed_date: "1981-04-06"
+entry_into_force: "1981-04-06"
 ---
-
 # Akkoord inzake de verzekering voor geneeskundige verzorging, ter uitvoering van het op 29 augustus 1947 te 's-Gravenhage ondertekende Verdrag tussen Nederland en België betreffende de toepassing der wederzijdse wetgeving op het punt der sociale verzekering
 
 De ondergetekenden:
@@ -22,7 +47,7 @@ anderzijds,
 
 zijn ter uitvoering van de artikelen 12 en 16, eerste lid, van het 29 augustus 1947 te 's-Gravenhage tussen Nederland en België ondertekende Verdrag betreffende de toepassing der wederzijdse wetgeving op het punt der sociale verzekering, mede gelet op de Europese Interimovereenkomst betreffende de sociale zekerheid met uitsluiting van de regelingen betreffende ouderdom, invaliditeit en overlijden, het navolgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 Op de werknemers en gepensioneerden en hun gezinsleden die rechten op verstrekkingen verwerven bij toepassing van het Verdrag van 29 augustus 1947 tussen Nederland en België betreffende de toepassing der wederzijdse wetgeving op het punt der sociale verzekering worden voor zoveel mogelijk op overeenkomstige wijze toegepast:
 
@@ -30,7 +55,7 @@ Op de werknemers en gepensioneerden en hun gezinsleden die rechten op verstrekki
 
 - 2. het Akkoord van 24 december 1980 inzake de verzekering voor geneeskundige verzorging.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Dit Akkoord treedt in werking op het ogenblik van de ondertekening met terugwerkende kracht tot 1 januari 1981.
 

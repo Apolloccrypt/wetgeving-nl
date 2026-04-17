@@ -1,13 +1,37 @@
 ---
 title: "Overdracht goederen voor de loodsdienst"
 identifier: "BWBR0004377"
-categorie: "Overig"
-publicatiedatum: 1988-09-01
-laatste_update: 1988-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004377"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1988-09-01"
+last_updated: "1988-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004377"
+soort: "ministeriele-regeling"
+stam_id: "4015763"
+version_id: "5778802"
+internal_id: "C5981541"
+label_id: "3995734"
+dtd_version: "2.0"
+original_entry_into_force: "1988-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004377/1988-09-01/0"
+intitule_bron: "Stcrt.1988-168"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1988-08-18"
+intitule_published: "1988-08-31"
+intitule_in_force: "1988-08-31"
+intitule_status: "goed"
+original_publication: "Stcrt.1988-168"
+original_signed_date: "1988-08-18"
+original_published_date: "1988-08-31"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1988-09-01"
+jci_1_3: "jci1.3:c:BWBR0004377&z=1988-09-01&g=1988-09-01"
+jci_1_0: "1.0:c:BWBR0004377&g=1988-09-01"
+citeertitel_status: "officieel"
+signed_date: "1988-08-18"
+entry_into_force: "1988-09-01"
 ---
-
 # Overdracht goederen voor de loodsdienst
 
 Handelende in overeenstemming met De Vereniging Nederlandse Loodsensociëteit, de Nederlandse loodsencorporatie, en de Loodswezen Nederland B.V.;
@@ -16,23 +40,23 @@ Gelet op [artikel 67, derde lid, van de Loodsenwet](https://wetten.overheid.nl/j
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 De aanwijzing van goederen, bedoeld in [artikel 67, derde lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=67) (Stb. 1988, 353) omvat de goederen, genoemd in de bij deze regeling behorende bijlage.
 
-#### Artikel 2
+##### Artikel 2
 
 De organisaties, bedoeld in [artikel 67, vierde lid, onderdeel a, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=67) zijn de in de bijlage genoemde organisaties.
 
-#### Artikel 3
+##### Artikel 3
 
 De overdrachtsdatum, bedoeld in [artikel 67, vierde lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=67) is 1 september 1988.
 
-#### Artikel 4
+##### Artikel 4
 
 De waarde van de aangewezen goederen, bedoeld in [artikel 67, vijfde lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=67) is de waarde, zoals vermeld in de bijlage.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling treedt in werking met ingang van 1 september 1988.
 

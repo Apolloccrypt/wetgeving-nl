@@ -1,13 +1,35 @@
 ---
 title: "Verdrag inzake de bescherming van trekkende wilde diersoorten"
 identifier: "BWBV0004769"
-categorie: "Internationaal recht"
-publicatiedatum: 2006-02-23
-laatste_update: 1994-09-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004769"
+country: "nl"
+rank: "verdrag"
+publication_date: "2006-02-23"
+last_updated: "1994-09-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004769"
+soort: "verdrag"
+stam_id: "10004309213"
+version_id: "10004508132"
+internal_id: "C10006981951"
+label_id: "10004294274"
+dtd_version: "2.0"
+original_entry_into_force: "1983-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004769/2006-02-23/0"
+intitule_bron: "Trb.1980-145"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1980-09-08"
+intitule_in_force: "1983-10-20"
+intitule_status: "goed"
+original_publication: "Trb.1980-145"
+original_published_date: "1980-09-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1980-145"
+entry_into_force_date: "1983-11-01"
+jci_1_3: "jci1.3:c:BWBV0004769&z=2006-02-23&g=2006-02-23"
+jci_1_0: "1.0:c:BWBV0004769&g=2006-02-23"
+citeertitel_status: "redactioneel"
+entry_into_force: "1983-11-01"
 ---
-
 # Verdrag inzake de bescherming van trekkende wilde diersoorten
 
 De Verdragsluitende Partijen,
@@ -28,7 +50,7 @@ Herinnerend aan Aanbeveling 32 van het Actieplan, aanvaard door de Conferentie v
 
 Zijn overeengekomen als volgt:
 
-#### Artikel I. Uitlegging
+##### Artikel I. Uitlegging
 
 1. Voor de toepassing van dit Verdrag, wordt verstaan onder:
 
@@ -66,7 +88,7 @@ Zijn overeengekomen als volgt:
 
 3. Wanneer in dit Verdrag wordt bepaald dat een besluit wordt genomen met een meerderheid van twee derde of met algemene stemmen van de „aanwezige en stem uitbrengende Partijen”, dan betekent dit „de Partijen die aanwezig zijn en die een positieve of negatieve stem hebben uitgebracht”. Voor het bepalen van de meerderheid wordt bij het tellen van de stemmen van de „aanwezige en stem uitbrengende Partijen” geen rekening gehouden met onthoudingen.
 
-#### Artikel II. Grondbeginselen
+##### Artikel II. Grondbeginselen
 
 1. De Partijen erkennen dat het van belang is dat trekkende soorten worden behouden en dat de Staten die deel uitmaken van het verspreidingsgebied, telkens wanneer dit mogelijk en wenselijk is, overeenstemming bereiken over de daartoe te nemen maatregelen, waarbij zij bijzondere aandacht dienen te besteden aan die trekkende soorten waarvan de mate en de aard van de bescherming niet-gunstig is en waarbij ieder afzonderlijk of in onderlinge samenwerking de passende en noodzakelijke maatregelen dient te nemen voor het behoud van deze soorten en hun leefgebieden.
 
@@ -80,7 +102,7 @@ Zijn overeengekomen als volgt:
 
 - c. alles in het werk te stellen om overeenkomsten te sluiten betreffende het behoud en het beheer van de in Bijlage II vermelde trekkende soorten.
 
-#### Artikel III. Bedreigde trekkende soorten: Bijlage I
+##### Artikel III. Bedreigde trekkende soorten: Bijlage I
 
 1. In Bijlage I worden de bedreigde trekkende soorten vermeld.
 
@@ -116,7 +138,7 @@ mits deze uitzonderingen, wat de aard ervan betreft, nauwkeurig zijn omschreven 
 
 7. De Partijen doen zo spoedig mogelijk het Secretariaat mededeling van iedere uitzondering, toegestaan krachtens het bepaalde in het vijfde lid van dit artikel.
 
-#### Artikel IV. Trekkende soorten waarvoor overeenkomsten dienen te worden gesloten: Bijlage II
+##### Artikel IV. Trekkende soorten waarvoor overeenkomsten dienen te worden gesloten: Bijlage II
 
 1. In Bijlage II worden de trekkende soorten vermeld waarvan de mate en aard van de bescherming niet-gunstig is en waarvoor, in verband met het behoud en het beheer ervan, internationale overeenkomsten moeten worden gesloten, alsmede de trekkende soorten waarvan de mate en de aard van de bescherming aanzienlijk gebaat zouden zijn bij de internationale samenwerking die uit een internationale overeenkomst zou voortvloeien.
 
@@ -128,7 +150,7 @@ mits deze uitzonderingen, wat de aard ervan betreft, nauwkeurig zijn omschreven 
 
 5. Een afschrift van iedere overeenkomst die is gesloten overeenkomstig het bepaalde in dit artikel, wordt aan het Secretariaat toegezonden.
 
-#### Artikel V. Richtlijnen voor het sluiten van overeenkomsten
+##### Artikel V. Richtlijnen voor het sluiten van overeenkomsten
 
 1. Het doel van iedere overeenkomst is het herstellen of het handhaven van een voldoende mate en aard van bescherming voor iedere desbetreffende trekkende soort. Iedere overeenkomst dient die aspecten van het behoud en het beheer van deze trekkende soort, die het mogelijk maken dit doel te bereiken, tot onderwerp te hebben.
 
@@ -180,7 +202,7 @@ mits deze uitzonderingen, wat de aard ervan betreft, nauwkeurig zijn omschreven 
 
 - n. maatregelen die erop zijn gericht om bij het publiek bekendheid te geven aan de inhoud en doelstellingen van de overeenkomst.
 
-#### Artikel VI. Staten die deel uitmaken van het verspreidingsgebied
+##### Artikel VI. Staten die deel uitmaken van het verspreidingsgebied
 
 1. Het Secretariaat houdt, aan de hand van de gegevens die het van de Partijen ontvangt, een lijst bij van de Staten die van het verspreidingsgebied van de trekkende soorten, vermeld in de Bijlagen I en II deel uitmaken.
 
@@ -188,7 +210,7 @@ mits deze uitzonderingen, wat de aard ervan betreft, nauwkeurig zijn omschreven 
 
 3. De Partijen die Staten zijn die deel uitmaken van het verspreidingsgebied van trekkende soorten, vermeld in de Bijlagen I en II, dienen de Conferentie der Partijen, door tussenkomst van het Secretariaat en ten minste zes maanden voor iedere gewone vergadering van de Conferentie, op de hoogte te stellen van de maatregelen die zij voor de toepassing van de bepalingen van dit Verdrag ten aanzien van deze soorten nemen.
 
-#### Artikel VII. Conferentie der Partijen
+##### Artikel VII. Conferentie der Partijen
 
 1. De Conferentie der Partijen is het besluitvormingsorgaan van dit Verdrag.
 
@@ -230,7 +252,7 @@ mits deze uitzonderingen, wat de aard ervan betreft, nauwkeurig zijn omschreven 
 
 Wanneer deze waarnemers eenmaal zijn toegelaten, hebben zij het recht aan de vergaderingen deel te nemen, evenwel zonder stemrecht.
 
-#### Artikel VIII. Wetenschappelijke Raad
+##### Artikel VIII. Wetenschappelijke Raad
 
 1. De Conferentie der Partijen stelt, tijdens haar eerste vergadering, een Wetenschappelijke Raad in die belast zal zijn met het geven van adviezen over wetenschappelijke aangelegenheden.
 
@@ -252,7 +274,7 @@ Wanneer deze waarnemers eenmaal zijn toegelaten, hebben zij het recht aan de ver
 
 - e. het doen van aanbevelingen aan de Conferentie der Partijen inzake de maatregelen waardoor de problemen met betrekking tot de wetenschappelijke aspecten van de uitvoering van dit Verdrag, met name ten aanzien van de leefgebieden van de trekkende soorten, zouden kunnen worden opgelost.
 
-#### Artikel IX. Het Secretariaat
+##### Artikel IX. Het Secretariaat
 
 1. Voor de toepassing van dit Verdrag wordt een Secretariaat ingesteld.
 
@@ -288,7 +310,7 @@ Wanneer deze waarnemers eenmaal zijn toegelaten, hebben zij het recht aan de ver
 
 - k. het vervullen van alle andere taken aan het Secretariaat opgedragen krachtens dit Verdrag of door de Conferentie der Partijen.
 
-#### Artikel X. Wijzigingen van het Verdrag
+##### Artikel X. Wijzigingen van het Verdrag
 
 1. Dit Verdrag kan worden gewijzigd tijdens iedere gewone of buitengewone vergadering van de Conferentie der Partijen.
 
@@ -300,7 +322,7 @@ Wanneer deze waarnemers eenmaal zijn toegelaten, hebben zij het recht aan de ver
 
 5. Iedere aangenomen wijziging wordt ten aanzien van alle Partijen die deze hebben aanvaard, van kracht op de eerste dag van de derde maand na het tijdstip waarop twee derde van de Partijen bij de Depositaris hun akte van aanvaarding hebben nedergelegd. Ten aanzien van iedere Partij die een akte van aanvaarding nederlegt na het tijdstip waarop twee derde van de Partijen een akte van aanvaarding heeft nedergelegd, wordt de wijziging van kracht op de eerste dag van de derde maand na de nederlegging van haar akte van aanvaarding.
 
-#### Artikel XI. Wijzigingen van de Bijlagen
+##### Artikel XI. Wijzigingen van de Bijlagen
 
 1. De Bijlagen I en II kunnen worden gewijzigd tijdens iedere gewone of buitengewone vergadering van de Conferentie der Partijen.
 
@@ -314,7 +336,7 @@ Wanneer deze waarnemers eenmaal zijn toegelaten, hebben zij het recht aan de ver
 
 6. Tijdens de termijn van negentig dagen bedoeld in het vijfde lid van dit artikel, kan iedere Partij door middel van een schriftelijke kennisgeving aan de Depositaris een voorbehoud maken ten aanzien van deze wijziging. Een voorbehoud op een wijziging kan door middel van een aan de Depositaris gerichte schriftelijke kennisgeving worden ingetrokken. De wijziging wordt dan ten aanzien van bedoelde Partij van kracht negentig dagen na intrekking van dit voorbehoud.
 
-#### Artikel XII. Gevolgen voor internationale overeenkomsten en andere wetgeving
+##### Artikel XII. Gevolgen voor internationale overeenkomsten en andere wetgeving
 
 1. De bepalingen van dit Verdrag laten onverlet de codificatie en nadere uitwerking van het zeerecht door de Conferentie der Verenigde Naties over het Zeerecht, bijeengeroepen op grond van Resolutie 2750 C (XXV) van de Algemene Vergadering der Verenigde Naties, alsmede de huidige of toekomstige aanspraken en juridische standpunten van elke Staat inzake het zeerecht en de aard en omvang van de rechtsmacht van een kuststaat en een vlaggestaat.
 
@@ -322,43 +344,43 @@ Wanneer deze waarnemers eenmaal zijn toegelaten, hebben zij het recht aan de ver
 
 3. De bepalingen van dit Verdrag zijn geenszins van invloed op het recht dat de Partijen hebben om strengere nationale maatregelen te nemen ten aanzien van het behoud van de trekkende soorten vermeld in de Bijlagen I en II alsmede nationale maatregelen ten aanzien van het behoud van soorten die niet voorkomen in de Bijlagen I en II.
 
-#### Artikel XIII. Regeling van geschillen
+##### Artikel XIII. Regeling van geschillen
 
 1. Over elk tussen twee of meer Partijen bij dit Verdrag gerezen geschil ten aanzien van de uitlegging of de toepassing van de bepalingen ervan, wordt tussen de bij het geschil betrokken Partijen onderhandeld.
 
 2. Indien het geschil niet overeenkomstig de in het eerste lid van dit artikel bedoelde wijze kan worden geregeld, kunnen de Partijen in onderling overleg het geschil ter arbitrage voorleggen, met name aan het Permanent Hof van Arbitrage te 's-Gravenhage; de Partijen die het geschil ter arbitrage hebben voorgelegd, zijn door de scheidsrechterlijke uitspraak gebonden.
 
-#### Artikel XIV. Voorbehouden
+##### Artikel XIV. Voorbehouden
 
 1. Ten aanzien van de bepalingen van dit Verdrag kunnen geen algemene voorbehouden worden gemaakt. Bijzondere voorbehouden kunnen worden gemaakt overeenkomstig het bepaalde in dit artikel en het bepaalde in artikel XI.
 
 2. Iedere Staat of iedere regionale organisatie voor economische integratie kan bij de nederlegging van de akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, een bijzonder voorbehoud maken ten aanzien van de vermelding van iedere trekkende soort in Bijlage I of Bijlage II of in beide, en wordt alsdan ten aanzien van het onderwerp van dit voorbehoud niet als Partij beschouwd tot negentig dagen na het tijdstip waarop de Depositaris de Partijen in kennis heeft gesteld van de intrekking van dit voorbehoud.
 
-#### Artikel XV. Ondertekening
+##### Artikel XV. Ondertekening
 
 Dit Verdrag staat te Bonn open voor ondertekening door alle Staten en door alle regionale organisaties voor economische integratie, en wel tot tweeëntwintig juni 1980.
 
-#### Artikel XVI. Bekrachtiging, aanvaarding, goedkeuring
+##### Artikel XVI. Bekrachtiging, aanvaarding, goedkeuring
 
 Dit Verdrag dient te worden bekrachtigd, aanvaard of goedgekeurd. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Regering van de Bondsrepubliek Duitsland, die optreedt als depositaris.
 
-#### Artikel XVII. Toetreding
+##### Artikel XVII. Toetreding
 
 Dit Verdrag staat vanaf tweeëntwintig juni 1980 open voor toetreding door alle Staten en regionale organisaties voor economische integratie, die het Verdrag niet hebben ondertekend.
 
 De akten van toetreding worden nedergelegd bij de depositaris.
 
-#### Artikel XVIII. Inwerkingtreding
+##### Artikel XVIII. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking op de eerste dag van de derde maand na het tijdstip van nederlegging van de vijftiende akte van bekrachtiging, aanvaarding, goedkeuring of toetreding bij de depositaris.
 
 2. Ten aanzien van iedere Staat en iedere regionale organisatie voor economische integratie, die dit Verdrag bekrachtigt, aanvaardt, goedkeurt of ertoe toetreedt na de nederlegging van de vijftiende akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, treedt dit Verdrag in werking op de eerste dag van de derde maand na de nederlegging door die Staat of door die organisatie van de akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
 
-#### Artikel XIX. Opzegging
+##### Artikel XIX. Opzegging
 
 Elke Partij kan dit Verdrag te allen tijde opzeggen door middel van een aan de depositaris gerichte schriftelijke kennisgeving. Deze opzegging wordt van kracht twaalf maanden nadat de depositaris deze kennisgeving heeft ontvangen.
 
-#### Artikel XX. Depositaris
+##### Artikel XX. Depositaris
 
 1. Het oorspronkelijke exemplaar van dit Verdrag, waarvan de Duitse, de Engelse, de Franse, de Russische en de Spaanse tekst gelijkelijk authentiek zijn, wordt nedergelegd bij de depositaris. De depositaris doet van al deze versies een voor eensluidend gewaarmerkt afschrift toekomen aan alle Staten en regionale organisaties voor economische integratie, die het Verdrag hebben ondertekend of een akte van toetreding hebben nedergelegd.
 

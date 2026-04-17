@@ -1,13 +1,35 @@
 ---
 title: "Plaatselijke regelingen Eemsmonding"
 identifier: "BWBR0044341"
-categorie: "Overig"
-publicatiedatum: 2020-06-28
-laatste_update: 2020-06-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044341"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-06-28"
+last_updated: "2020-06-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044341"
+soort: "ministeriele-regeling"
+stam_id: "15698253"
+version_id: "27201832"
+internal_id: "C38434011"
+label_id: "15637214"
+dtd_version: "2.0"
+original_entry_into_force: "2020-06-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044341/2020-06-28/0"
+intitule_bron: "Stcrt.2020-34232"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2020-06-26"
+intitule_in_force: "2020-06-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-34232"
+original_published_date: "2020-06-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-34232"
+entry_into_force_date: "2020-06-28"
+jci_1_3: "jci1.3:c:BWBR0044341&z=2020-06-28&g=2020-06-28"
+jci_1_0: "1.0:c:BWBR0044341&g=2020-06-28"
+citeertitel_status: "officieel"
+entry_into_force: "2020-06-28"
 ---
-
 # Plaatselijke regelingen Eemsmonding
 
 Gelet op artikel 5, eerste lid, van de Overeenkomst tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake een scheepvaartreglement voor de Eemsmonding, met bijlagen ( **Trb. 1987, 15**) en [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=1), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=15), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=17), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=18), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=20), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=21), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=22), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=23), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=26), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=28), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=29) en [38](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=38) van het Scheepvaartreglement Eemsmonding ( **Stb.1989, 237**);
@@ -16,7 +38,7 @@ Besluit de volgende plaatselijke regelingen bekend te maken:
 
 #### A. Bekendmakingen aan de scheepvaart
 
-#### Artikel 1. Reden voor schepen die geen gevaarlijke goederen vervoeren of gelost hebben
+##### Artikel 1. Reden voor schepen die geen gevaarlijke goederen vervoeren of gelost hebben
 
 De reden als bedoeld in [artikel 1, eerste lid, sub c](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=1), en [artikel 23, derde lid, van het Scheepvaartreglement Eemsmonding](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=23) worden door de bevoegde autoriteit als hieronder vastgesteld voor schepen die geen gevaarlijke goederen vervoeren of gelost hebben.
 
@@ -44,7 +66,7 @@ Zo spoedig mogelijk na het ankeren wordt de ankerpositie aan de Verkeerscentrale
 
 - 1.6. Emden-Reede (Emdenrede) Deze rede is bestemd voor schepen met een lengte van ten hoogste 50 m. **Begrenzing:** De verbindingslijn tussen de tonnen “75/E.-Reede”, “77/E.-Reede”, “E.-Reede 1”, en “E.-Reede 3”.
 
-#### Artikel 2. Reden voor schepen met bepaalde gevaarlijke goederen
+##### Artikel 2. Reden voor schepen met bepaalde gevaarlijke goederen
 
 De reden als bedoeld in [artikel 1, eerste lid, sub c](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=1), en [artikel 26, eerste lid, van het Scheepvaartreglement Eemsmonding](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=26) worden door mij, de bevoegde autoriteit, als hieronder vastgesteld voor schepen die stoffen van klasse 1.3 (explosieven) of klasse 1.4 (zware explosieven) van de IMDG-Code vervoeren of gelost hebben.
 
@@ -66,13 +88,13 @@ Zo spoedig mogelijk na het ankeren wordt de ankerpositie aan de Verkeerscentrale
 
 - d. 53°24,340’ N; 006°56,975’ O (ton 40/Gastanker-Reede).
 
-#### Artikel 3. Uitzonderingen op de verplichting om aan de rechterzijde te varen
+##### Artikel 3. Uitzonderingen op de verplichting om aan de rechterzijde te varen
 
 - 3.1. Op grond van [artikel 15, tweede lid, van het Scheepvaartreglement Eemsmonding](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=15) mogen, vanaf het tonnenpaar “68” en “69”, zeeschepen met een lengte van meer dan 50 meter die de Eemskade willen aanlopen of de haven van Emden binnenlopen aan de linkerzijde varen. De eenmaal gekozen linkerzijde van het vaarwater moet worden aangehouden.
 
 - 3.2. Voordat een zeeschip van deze
 
-#### Artikel 4. Oploop- en ontmoetingsverboden, voorrang
+##### Artikel 4. Oploop- en ontmoetingsverboden, voorrang
 
 - 4.1. Ontmoeten en oplopen van bovenmaatse schepen onderling is, op grond van [artikel 17, eerste lid, van het Scheepvaartreglement Eemsmonding](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=17), verboden op de volgende gedeelten van het vaarwater:
 
@@ -92,7 +114,7 @@ Zo spoedig mogelijk na het ankeren wordt de ankerpositie aan de Verkeerscentrale
 
 - e. mogelijkheid gebruik maakt wordt dit tijdig aan de Verkeerscentrale Eems (**Ems Traffic**), op VHF-kanaal 74, gemeld.
 
-#### Artikel 5. Permanente marifoonverbinding
+##### Artikel 5. Permanente marifoonverbinding
 
 De permanente marifoonverbinding die op grond van [artikel 21, tweede lid, onder b, van het Scheepvaartreglement Eemsmonding](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=21) met de Verkeerscentrale Eems (**Ems Traffic**) wordt onderhouden is via onderstaande vastgestelde posities.
 
@@ -104,17 +126,17 @@ De permanente marifoonverbinding die op grond van [artikel 21, tweede lid, onder
 
 - d. Vanaf ton “77“ tot km0 op VHF-Kanaal 15.
 
-#### Artikel 6. Permanente marifoonverbinding in verband met afstemming
+##### Artikel 6. Permanente marifoonverbinding in verband met afstemming
 
 - 6.1. Op grond van [artikel 21, tweede en vierde lid, van het Scheepvaartreglement Eemsmonding](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=21), wordt, in verband met de overeenkomstig artikel 4 ingestelde ontmoetings- en oploopverboden, door een in artikel 4 genoemd schip tijdig contact opgenomen met de Verkeerscentrale Eems (**Ems Traffic**), op VHF-kanaal 74, voor overleg.
 
 - 6.2. Aanwijzingen door of namens de bevoegde autoriteit moeten onmiddellijk opgevolgd worden.
 
-#### Artikel 7. Voorwaarden voor het bevaren van de Eemsmonding met snelle schepen
+##### Artikel 7. Voorwaarden voor het bevaren van de Eemsmonding met snelle schepen
 
 Gereserveerd
 
-#### Artikel 8. Waterskiën, waterscooters, en plankzeilen
+##### Artikel 8. Waterskiën, waterscooters, en plankzeilen
 
 - 8.1. Op grond van [artikel 22, eerste en vierde lid, van het Scheepvaartreglement Eemsmonding](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=22) stelt de bevoegde autoriteit de volgende wateroppervlakken vast waar het buiten het vaarwater is verboden te waterskiën of te varen met een waterscooter of met een zeilplank:
 
@@ -122,7 +144,7 @@ Gereserveerd
 
 - b. Het gedeelte van de Eems vanaf de verbindingslijn tussen ton “58” en ton “59” tot het oostelijke havenhoofd van de haveningang naar Emden.
 
-#### Artikel 9. Buitengewoon grote schepen
+##### Artikel 9. Buitengewoon grote schepen
 
 Buitengewoon grote schepen, als bedoeld in [artikel 28, eerste lid, sub a, van het Scheepvaartreglement Eemsmonding](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=28), zijn schepen die de onderstaande afmetingen met betrekking tot de lengte, breedte of de diepgang overschrijden:
 
@@ -142,7 +164,7 @@ Buitengewoon grote schepen, als bedoeld in [artikel 28, eerste lid, sub a, van h
 
 - 9.2. Gereserveerd
 
-#### Artikel 10. Meldingen
+##### Artikel 10. Meldingen
 
 - 10.1. De op grond van [artikel 29, eerste lid, van het Scheepvaartreglement Eemsmonding](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=29), vastgestelde afmeting is een lengte van meer dan 40 meter, met inbegrip van duwstellen en slepen.
 

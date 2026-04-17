@@ -1,120 +1,146 @@
 ---
-title: "Wijzigingsregeling enige uitvoeringsregelingen 2018 (belastingen en toeslagen)"
+title: "Regeling van de Staatssecretaris van Financiën van 31 december 2018 tot wijziging van enige uitvoeringsregelingen op het gebied van belastingen en toeslagen"
 identifier: "BWBR0041799"
-categorie: "Belastingrecht"
-publicatiedatum: 2021-01-01
-laatste_update: 2021-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041799"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-01-01"
+last_updated: "2021-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041799"
+soort: "ministeriele-regeling"
+stam_id: "14943223"
+version_id: "25593862"
+internal_id: "C36523051"
+label_id: "14893724"
+dtd_version: "2.0"
+original_entry_into_force: "2019-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041799/2021-01-01/0"
+intitule_bron: "Stcrt.2018-72059"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-12-31"
+intitule_published: "2018-12-31"
+intitule_in_force: "2018-12-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-72059"
+original_signed_date: "2018-12-31"
+original_published_date: "2018-12-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-72059"
+entry_into_force_date: "2019-01-01"
+jci_1_3: "jci1.3:c:BWBR0041799&z=2021-01-01&g=2021-01-01"
+jci_1_0: "1.0:c:BWBR0041799&g=2021-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsregeling enige uitvoeringsregelingen 2018 (belastingen en toeslagen)"
+signed_date: "2018-12-31"
+entry_into_force: "2019-01-01"
 ---
-
 # Regeling van de Staatssecretaris van Financiën van 31 december 2018 tot wijziging van enige uitvoeringsregelingen op het gebied van belastingen en toeslagen
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Uitvoeringsregeling inkomstenbelasting 2001.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Uitvoeringsregeling willekeurige afschrijving 2001.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Uitvoeringsregeling Algemene wet inkomensafhankelijke regelingen.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Uitvoeringsregeling loonbelasting 2011.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Regeling loonbelasting- en premietabellen 1990.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Uitvoeringsbeschikking vennootschapsbelasting 1971.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Uitvoeringsbeschikking dividendbelasting 1965.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Uitvoeringsregeling Registratiewet 1970.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Uitvoeringsbeschikking omzetbelasting 1968.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Algemene douaneregeling.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt de Uitvoeringsregeling accijns.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt de Uitvoeringsregeling verbruiksbelasting van alcoholvrije dranken.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt de Uitvoeringsregeling belasting van personenauto's en motorrijwielen 1992.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt de Uitvoeringsregeling belasting zware motorrijtuigen.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt de Uitvoeringsregeling belastingen op milieugrondslag.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt de Meldingsregeling milieu-investeringsaftrek 2001.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Wijzigt de Uitvoeringsregeling kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Wijzigt de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994.
 
-#### Artikel XIX
+##### Artikel XIX
 
 Wijzigt de Uitvoeringsregeling Invorderingswet 1990.
 
-#### Artikel XX
+##### Artikel XX
 
 Wijzigt de Uitvoeringsregeling Belastingdienst 2003.
 
-#### Artikel XXI
+##### Artikel XXI
 
 Wijzigt de Uitvoeringsregeling Wob Financiën.
 
-#### Artikel XXII
+##### Artikel XXII
 
 Wijzigt de Regeling aanwijzing rechtsgebieden Common Reporting Standard.
 
-#### Artikel XXIII
+##### Artikel XXIII
 
 Wijzigt de Regeling groenprojecten buitenland 2002.
 
-#### Artikel XXIV
+##### Artikel XXIV
 
 Wijzigt de Regeling team criminele inlichtingen FIOD.
 
-#### Artikel XXV
+##### Artikel XXV
 
 Wijzigt de Uitvoeringsregeling loonbelasting BES.
 
-#### Artikel XXVI
+##### Artikel XXVI
 
 Wijzigt de Uitvoeringsregeling Douane- en Accijnswet BES
 
-#### Artikel XXVII
+##### Artikel XXVII
 
 Als bestaande langlopende openbare-infrastructuurprojecten als bedoeld in [artikel IIA van de Wet implementatie eerste EU-richtlijn antibelastingontwijking](https://wetten.overheid.nl/jci1.3:c:BWBR0041756&artikel=IIa) worden aangewezen:
 
@@ -162,7 +188,7 @@ Als bestaande langlopende openbare-infrastructuurprojecten als bedoeld in [artik
 
 - v. Infraprovider HSL-zuid.
 
-#### Artikel XXVIII
+##### Artikel XXVIII
 
 [Artikel 3.0 van de Uitvoeringsregeling loonbelasting 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&artikel=3.0) is van overeenkomstige toepassing met betrekking tot de toepassing van [artikel 10a, negende tot en met elfde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=10a) ter zake van de uitoefening of vervreemding van een aandelenoptierecht in 2018, met dien verstande dat:
 
@@ -170,11 +196,11 @@ Als bestaande langlopende openbare-infrastructuurprojecten als bedoeld in [artik
 
 - b. [artikel 10a, negende lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=10a) uitsluitend van toepassing is indien de Minister van Economische Zaken en Klimaat ter zake van de de-minimisverklaring, bedoeld in onderdeel a, aan de inhoudingsplichtige heeft gemeld dat uitgaande van de berekening, bedoeld in artikel 10a, tiende lid, van die wet, de toepassing van artikel 10a, negende lid, van die wet niet tot gevolg heeft dat het de-minimisplafond, bedoeld in artikel 10a, tiende lid, van die wet, wordt overschreden.
 
-#### Artikel XXIX
+##### Artikel XXIX
 
 Op een recht op teruggaaf van omzetbelasting dat is ontstaan vóór 1 januari 2019 blijft [artikel 3 van de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&artikel=3) zoals dat artikel luidde op 31 december 2018 van toepassing tot 1 juli 2019.
 
-#### Artikel XXX
+##### Artikel XXX
 
 De volgende regelingen worden ingetrokken:
 
@@ -182,7 +208,7 @@ De volgende regelingen worden ingetrokken:
 
 - b. [Regeling Duitse strijdkrachten Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0004762).
 
-#### Artikel XXXI
+##### Artikel XXXI
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2019, met dien verstande dat:
 

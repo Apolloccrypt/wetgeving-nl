@@ -1,13 +1,38 @@
 ---
 title: "Regeling Verantwoording bbaz 2025 compartiment 1"
 identifier: "BWBR0052496"
-categorie: "Overig"
-publicatiedatum: 2026-04-04
-laatste_update: 2026-04-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052496"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-04-04"
+last_updated: "2026-04-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052496"
+soort: "zbo"
+stam_id: "17826973"
+version_id: "31513992"
+internal_id: "C45000641"
+label_id: "17724394"
+dtd_version: "2.0"
+original_entry_into_force: "2026-04-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052496/2026-04-04/0"
+intitule_bron: "Stcrt.2026-12800"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2026-03-24"
+intitule_published: "2026-04-03"
+intitule_in_force: "2026-04-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-12800"
+original_signed_date: "2026-03-24"
+original_published_date: "2026-04-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-12800"
+entry_into_force_date: "2026-04-04"
+jci_1_3: "jci1.3:c:BWBR0052496&z=2026-04-04&g=2026-04-04"
+jci_1_0: "1.0:c:BWBR0052496&g=2026-04-04"
+citeertitel_status: "officieel"
+signed_date: "2026-03-24"
+entry_into_force: "2026-04-04"
 ---
-
 # Regeling Verantwoording bbaz 2025 compartiment 1
 
 Gelet op de [artikelen 61](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=61), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=62) en [68, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=68) (Wmg), is de Nederlandse Zorgautoriteit (NZa) bevoegd tot het stellen van regels op het gebied van informatie die benodigd is om de beschikbaarheidbijdrage academische zorg (bbaz) te kunnen vaststellen.

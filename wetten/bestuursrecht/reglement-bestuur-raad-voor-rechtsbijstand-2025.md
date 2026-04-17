@@ -1,13 +1,38 @@
 ---
 title: "Reglement Bestuur Raad voor Rechtsbijstand 2025"
 identifier: "BWBR0050822"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-03-05
-laatste_update: 2025-03-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050822"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-03-05"
+last_updated: "2025-03-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050822"
+soort: "zbo"
+stam_id: "17378953"
+version_id: "30637492"
+internal_id: "C43918971"
+label_id: "17282094"
+dtd_version: "2.0"
+original_entry_into_force: "2025-03-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050822/2025-03-05/0"
+intitule_bron: "Stcrt.2025-7510"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-02-23"
+intitule_published: "2025-03-04"
+intitule_in_force: "2025-03-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-7510"
+original_signed_date: "2024-02-23"
+original_published_date: "2025-03-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-7510"
+entry_into_force_date: "2025-03-05"
+jci_1_3: "jci1.3:c:BWBR0050822&z=2025-03-05&g=2025-03-05"
+jci_1_0: "1.0:c:BWBR0050822&g=2025-03-05"
+citeertitel_status: "officieel"
+signed_date: "2024-02-23"
+entry_into_force: "2025-03-05"
 ---
-
 # Reglement Bestuur Raad voor Rechtsbijstand 2025
 
 Overwegende dat de Raad voor Rechtsbijstand op grond van [artikel 2, vierde lid, Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=2) bestaat uit een bestuur en een Raad van Advies,
@@ -22,7 +47,7 @@ Heeft het volgende reglement vastgesteld:
 
 ### Algemeen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit reglement wordt verstaan onder:
 
@@ -48,7 +73,7 @@ In dit reglement wordt verstaan onder:
 
 - k. **Hoofd:** leidinggevende van een deel van de organisatie, bijvoorbeeld een team of afdeling en verantwoordelijk voor de realisering van de werkzaamheden in dit deel van de organisatie.
 
-#### Artikel 2. Verdeling van taken en verantwoordelijkheden binnen de Raad voor Rechtsbijstand
+##### Artikel 2. Verdeling van taken en verantwoordelijkheden binnen de Raad voor Rechtsbijstand
 
 1. De algemeen directeur/bestuurder van de Raad voor Rechtsbijstand staat aan het hoofd van de werkorganisatie en is eigenaar van het Kenniscentrum.
 
@@ -58,13 +83,13 @@ In dit reglement wordt verstaan onder:
 
 De algemeen directeur/bestuurder van de Raad voor Rechtsbijstand is eigenaar van het Kenniscentrum. Voor de taken en organisatie van het Kenniscentrum en verhouding tot het bestuur van de Raad voor Rechtsbijstand, wordt verwezen naar het [Reglement Kenniscentrum](https://wetten.overheid.nl/jci1.3:c:BWBR0050143).
 
-#### Artikel 3. Benoeming en ontslag algemeen directeur/bestuurder Raad voor Rechtsbijstand
+##### Artikel 3. Benoeming en ontslag algemeen directeur/bestuurder Raad voor Rechtsbijstand
 
 1. De Minister van Justitie en Veiligheid werft en benoemt de algemeen directeur/bestuurder op grond van [artikel 12 Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=12).
 
 2. De Minister van Justitie en Veiligheid kan de algemeen directeur/bestuurder op grond van [artikel 12 Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=12) schorsen en ontslaan.
 
-#### Artikel 4. Verantwoordelijkheden algemeen directeur/bestuurder en taken managementteam
+##### Artikel 4. Verantwoordelijkheden algemeen directeur/bestuurder en taken managementteam
 
 1. De Raad voor Rechtsbijstand heeft een eenhoofdig bestuur. De algemeen directeur/bestuurder is belast met het behartigen van de belangen van de Raad voor Rechtsbijstand.
 
@@ -104,13 +129,13 @@ De algemeen directeur/bestuurder van de Raad voor Rechtsbijstand is eigenaar van
 
 - l. Het (laten) aanschaffen en beheren van (productie)middelen;
 
-#### Artikel 5. Adviserende rol Raad van Advies
+##### Artikel 5. Adviserende rol Raad van Advies
 
 1. De Raad van Advies adviseert de algemeen directeur/bestuurder over de maatschappelijke taak van de Raad voor Rechtsbijstand die volgt uit [artikel 7 van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=7). Bij het adviseren vanuit de maatschappelijke taak betrekt de Raad van Advies verschillende invalshoeken. Hierbij wordt voorts verwezen naar het Reglement Raad van Advies.
 
 2. De algemeen directeur/bestuurder betrekt de adviezen van de Raad van Advies bij de opstelling van het jaarplan.
 
-#### Artikel 6. Taken Kenniscentrum
+##### Artikel 6. Taken Kenniscentrum
 
 1. Het Kenniscentrum heeft 3 hoofdtaken:
 
@@ -122,7 +147,7 @@ De algemeen directeur/bestuurder van de Raad voor Rechtsbijstand is eigenaar van
 
 Hierbij wordt voorts verwezen naar het [Reglement Kenniscentrum](https://wetten.overheid.nl/jci1.3:c:BWBR0050143).
 
-#### Artikel 7. Communicatie algemeen directeur/bestuurder en managementteam
+##### Artikel 7. Communicatie algemeen directeur/bestuurder en managementteam
 
 1. Het managementteam is verantwoordelijk voor de communicatie naar de werkorganisatie van de besluiten die door de algemeen directeur/bestuurder en het managementteam zijn genomen.
 
@@ -130,13 +155,13 @@ Hierbij wordt voorts verwezen naar het [Reglement Kenniscentrum](https://wetten.
 
 3. De algemeen directeur/bestuurder onderhoudt samen met de leden van het managementteam het contact met het Ministerie van Justitie en Veiligheid en de ketenpartners. Daarnaast onderhouden de algemeen directeur/bestuurder en de leden van het managementteam op individuele basis de relaties met instellingen en organisaties die in het kader van hun portefeuille noodzakelijk zijn.
 
-#### Artikel 8. Besluitvorming managementteam
+##### Artikel 8. Besluitvorming managementteam
 
 1. Over onderwerpen waarover het managementteam besluit, heeft de algemeen directeur/bestuurder een doorslaggevende stem.
 
 2. Het lid van het managementteam op wiens portefeuille een besluit van het bestuur betrekking heeft, draagt zorg voor de uitvoering van het genomen besluit en de terugkoppeling naar de werkorganisatie. Dit lid is binnen zijn portefeuille bevoegd om op basis van het door het managementteam genomen besluit de Raad voor Rechtsbijstand intern en extern te binden. Hij is verantwoordelijk voor de communicatie van het besluit naar de werkorganisatie en de uitvoering daarvan.
 
-#### Artikel 9. Vergaderingen managementteam
+##### Artikel 9. Vergaderingen managementteam
 
 1. De algemeen directeur/bestuurder is de voorzitter van het managementteam.
 
@@ -148,7 +173,7 @@ Hierbij wordt voorts verwezen naar het [Reglement Kenniscentrum](https://wetten.
 
 5. De vergaderingen van het managementteam zijn niet openbaar.
 
-#### Artikel 10. Vertegenwoordiging
+##### Artikel 10. Vertegenwoordiging
 
 1. De algemeen directeur/bestuurder vertegenwoordigt de Raad voor Rechtsbijstand in en buiten rechte. Hij kan een schriftelijke machtiging tot vertegenwoordiging verlenen aan een of meer leden van het managementteam of aan een medewerker van de Raad voor Rechtsbijstand. De Raad kan zich in rechte ook door een advocaat laten vertegenwoordigen.
 
@@ -158,7 +183,7 @@ Hierbij wordt voorts verwezen naar het [Reglement Kenniscentrum](https://wetten.
 
 4. Een betalingsopdracht wordt steeds door 2 personen ondertekend. Tekeningsbevoegd zijn de algemeen directeur/bestuurder, de leden van het managementteam, de concernliaison en het hoofd financiën, faciliteiten en inkoop.
 
-#### Artikel 11. Regeling vertegenwoordigingsbevoegdheid
+##### Artikel 11. Regeling vertegenwoordigingsbevoegdheid
 
 1. De managers Dienstverlening, Bedrijfsvoering, Kwaliteit, Strategie en Beleid, de transitiemanagers en de Chief Science Officer zijn bevoegd om de Raad te vertegenwoordigen bij rechtshandelingen met een belang van maximaal € 25.000.
 
@@ -170,7 +195,7 @@ Hierbij wordt voorts verwezen naar het [Reglement Kenniscentrum](https://wetten.
 
 5. Iedere manager of hoofd genoemd in lid 1 en lid 2 van dit artikel zijn in dringende gevallen tot schorsing van een personeelslid bevoegd.
 
-#### Artikel 12. Ondernemingsraad
+##### Artikel 12. Ondernemingsraad
 
 1. De algemeen directeur/bestuurder wordt aangemerkt als ondernemer in de zin van de [Wet op de Ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747) en voert het overleg met de Ondernemingsraad. Dit overleg wordt beurtelings voorgezeten door de algemeen directeur/bestuurder en de voorzitter of de plaatsvervangend voorzitter van de ondernemingsraad.
 
@@ -178,7 +203,7 @@ Hierbij wordt voorts verwezen naar het [Reglement Kenniscentrum](https://wetten.
 
 3. De ambtelijk secretaris/adviseur medezeggenschap van de Ondernemingsraad notuleert deze overleggen. De notulen worden zo spoedig mogelijk na de overleggen vastgesteld.
 
-#### Artikel 13. Opgave nevenfuncties en vermijding van tegenstrijdige belangen
+##### Artikel 13. Opgave nevenfuncties en vermijding van tegenstrijdige belangen
 
 1. De algemeen directeur/bestuurder maakt bij het Minister van Justitie en Veiligheid melding van hoofd- en nevenfuncties.
 
@@ -186,17 +211,17 @@ Hierbij wordt voorts verwezen naar het [Reglement Kenniscentrum](https://wetten.
 
 3. De algemeen directeur/bestuurder, de leden van het managementteam en CSO vermijden elke vorm en schijn van belangenverstrengeling. Elk potentieel tegenstrijd belang van betekenis wordt zo spoedig mogelijk aan de algemeen directeur/bestuurder gemeld inclusief alle bijbehorende informatie.
 
-#### Artikel 14. Onkostennota’s
+##### Artikel 14. Onkostennota’s
 
 1. Het hoofd Financiën, Faciliteiten en Inkoop tekent de onkostennota’s van de algemeen directeur/bestuurder voor akkoord.
 
 2. De algemeen directeur/bestuurder tekent de onkostennota’s van de leden van het managementteam en CSO voor akkoord.
 
-#### Artikel 15. Citeertitel
+##### Artikel 15. Citeertitel
 
 Dit reglement wordt aangehaald als: Reglement Bestuur Raad voor Rechtsbijstand 2025.
 
-#### Artikel 16. Inwerkingtreding
+##### Artikel 16. Inwerkingtreding
 
 1. Dit reglement vervangt het Reglement Bestuur Raad voor Rechtsbijstand dat op 27 juli 2020 werd gepubliceerd in de Staatscourant (Staatscourant 2020, 39755).
 

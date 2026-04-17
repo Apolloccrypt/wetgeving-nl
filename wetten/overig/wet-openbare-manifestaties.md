@@ -1,14 +1,39 @@
 ---
-title: "Wet openbare manifestaties"
+title: "Wet van 20 april 1988, houdende bepalingen betreffende de uitoefening van de vrijheid van godsdienst en levensovertuiging en van het recht tot vergadering en betoging"
 identifier: "BWBR0004318"
-categorie: "Overig"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004318"
+country: "nl"
+rank: "wet"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004318"
+soort: "wet"
+stam_id: "1822063"
+version_id: "17606632"
+internal_id: "C24982931"
+label_id: "1777194"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004318/2010-10-10/0"
+intitule_bron: "Stb.1988-157"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1988-04-20"
+intitule_status: "goed"
+original_publication: "Stb.2010-350"
+original_signed_date: "2010-05-17"
+original_published_date: "2010-09-01"
+original_effect: "structuurwijziging"
+original_dossier: "31959"
+original_url_id: "stb-2010-350"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0004318&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0004318&g=2010-10-10"
+citeertitel_status: "officieel"
+short_title: "Wet openbare manifestaties"
+signed_date: "2010-05-17"
+entry_into_force: "2010-10-10"
 ---
-
-# Wet openbare manifestaties
+# Wet van 20 april 1988, houdende bepalingen betreffende de uitoefening van de vrijheid van godsdienst en levensovertuiging en van het recht tot vergadering en betoging
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,11 +41,11 @@ Alzo Wij in overweging genomen hebben, dat het gelet op de [artikelen 6](https:/
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I. Wet openbare manifestaties
+##### Artikel I. Wet openbare manifestaties
 
 #### Paragraaf I. Begripsbepaling
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze wet wordt verstaan onder openbare plaats: plaats die krachtens bestemming of vast gebruik openstaat voor het publiek.
 
@@ -28,11 +53,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### Paragraaf II. Bepalingen voor openbare plaatsen
 
-#### Artikel 2
+##### Artikel 2
 
 De bij of krachtens de bepalingen uit deze paragraaf aan overheidsorganen gegeven bevoegdheden tot beperking van het recht tot het belijden van godsdienst of levensovertuiging en het recht tot vergadering en betoging, kunnen slechts worden aangewend ter bescherming van de gezondheid, in het belang van het verkeer en ter bestrijding of voorkoming van wanordelijkheden.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De gemeenteraad stelt bij verordening regels vast met betrekking tot de gevallen waarin voor samenkomsten tot het belijden van godsdienst of levensovertuiging op openbare plaatsen een voorafgaande kennisgeving vereist is.
 
@@ -46,7 +71,7 @@ De bij of krachtens de bepalingen uit deze paragraaf aan overheidsorganen gegeve
 
 4. Over de inhoud van hetgeen wordt beleden worden geen gegevens verlangd.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De gemeenteraad stelt bij verordening regels vast met betrekking tot de gevallen waarin voor vergaderingen en betogingen op openbare plaatsen een voorafgaande kennisgeving vereist is.
 
@@ -58,7 +83,7 @@ De bij of krachtens de bepalingen uit deze paragraaf aan overheidsorganen gegeve
 
 3. Over de inhoud van de te openbaren gedachten of gevoelens worden geen gegevens verlangd.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De burgemeester kan naar aanleiding van een kennisgeving voorschriften en beperkingen stellen of een verbod geven.
 
@@ -74,11 +99,11 @@ De bij of krachtens de bepalingen uit deze paragraaf aan overheidsorganen gegeve
 
 4. Beschikkingen als bedoeld in het eerste lid worden zo spoedig mogelijk bekendgemaakt aan degene die de kennisgeving heeft gedaan.
 
-#### Artikel 6
+##### Artikel 6
 
 De burgemeester kan tijdens een samenkomst tot het belijden van godsdienst of levensovertuiging, vergadering of betoging aanwijzingen geven, die degenen die deze houden of daaraan deelnemen in acht moeten nemen.
 
-#### Artikel 7
+##### Artikel 7
 
 De burgemeester kan aan degenen die een samenkomst tot het belijden van godsdienst of levensovertuiging, vergadering of betoging houden of daaraan deelnemen opdracht geven deze terstond te beëindigen en uiteen te gaan, indien:
 
@@ -90,7 +115,7 @@ De burgemeester kan aan degenen die een samenkomst tot het belijden van godsdien
 
 #### Paragraaf III. Bepalingen voor andere dan openbare plaatsen
 
-#### Artikel 8
+##### Artikel 8
 
 1. De burgemeester kan aan degenen die een voor publiek toegankelijke vergadering of betoging op een andere dan openbare plaats houden of daaraan deelnemen opdracht geven deze terstond te beëindigen en uiteen te gaan, indien de bescherming van de gezondheid of de bestrijding of voorkoming van wanordelijkheden dat vordert.
 
@@ -98,7 +123,7 @@ De burgemeester kan aan degenen die een samenkomst tot het belijden van godsdien
 
 #### Paragraaf IV. Bijzondere bepalingen
 
-#### Artikel 9
+##### Artikel 9
 
 1. Degenen die in de nabijheid van een gebouw in gebruik bij het Internationaal Gerechtshof, een diplomatieke vertegenwoordiging of een consulaire vertegenwoordiging een samenkomst tot het belijden van godsdienst of levensovertuiging, vergadering of betoging houden of daaraan deelnemen, onthouden zich van gedragingen die het functioneren van de desbetreffende instelling aantasten.
 
@@ -110,13 +135,13 @@ De burgemeester kan aan degenen die een samenkomst tot het belijden van godsdien
 
 5. De in het vierde lid bedoelde gebouwen worden door Onze Ministers van Binnenlandse Zaken en van Buitenlandse Zaken in de **Nederlandse Staatscourant** bekendgemaakt.
 
-#### Artikel 10
+##### Artikel 10
 
 Klokgelui ter gelegenheid van godsdienstige en levensbeschouwelijke plechtigheden en lijkplechtigheden, alsmede oproepen tot het belijden van godsdienst of levensovertuiging, zijn toegestaan. De gemeenteraad is bevoegd ter zake regels te stellen met betrekking tot duur en geluidsniveau.
 
 #### Paragraaf V. Strafbepalingen
 
-#### Artikel 11
+##### Artikel 11
 
 1. Met hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie wordt gestraft:
 
@@ -126,23 +151,23 @@ Klokgelui ter gelegenheid van godsdienstige en levensbeschouwelijke plechtighede
 
 2. De feiten zijn overtredingen.
 
-#### Artikel II
+##### Artikel II
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel III
+##### Artikel III
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel IV. Wet op de kerkgenootschappen
+##### Artikel IV. Wet op de kerkgenootschappen
 
 De Wet van 10 september 1853, **Stb.** 102, tot regeling van het toezigt op de onderscheidene kerkgenootschappen wordt ingetrokken.
 
-#### Artikel V. Wet vereniging en vergadering
+##### Artikel V. Wet vereniging en vergadering
 
 De Wet van 22 april 1855, **Stb.** 32, tot regeling en beperking der uitoefening van het regt van vereeniging en vergadering wordt ingetrokken.
 
-#### Artikel VI
+##### Artikel VI
 
 Tot de inwerkingtreding van de door de gemeenteraad vast te stellen regels bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004318&paragraaf=II&artikel=3&z=2010-10-10&g=2010-10-10) en [4 van artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0004318&paragraaf=II&artikel=4&z=2010-10-10&g=2010-10-10) van deze wet, doch uiterlijk tot drie maanden na de inwerkingtreding van deze wet, gelden met betrekking tot de voorafgaande kennisgeving van samenkomsten tot het belijden van godsdienst of levensovertuiging, vergaderingen en betogingen, de volgende bepalingen:
 
@@ -168,11 +193,11 @@ Tot de inwerkingtreding van de door de gemeenteraad vast te stellen regels bedoe
 
 - e. Degene die de kennisgeving doet ontvangt daarvan een bewijs waarin het tijdstip van de kennisgeving is vermeld.
 
-#### Artikel VII. Inwerkingtreding
+##### Artikel VII. Inwerkingtreding
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst.
 
-#### Artikel VIII. Slotbepaling
+##### Artikel VIII. Slotbepaling
 
 Deze wet kan worden aangehaald als:
 
@@ -182,7 +207,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 #### Paragraaf VI. Bonaire, Sint Eustatius en Saba
 
-#### Artikel 12
+##### Artikel 12
 
 Deze wet is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba, met dien verstande dat telkens wordt gelezen voor:
 

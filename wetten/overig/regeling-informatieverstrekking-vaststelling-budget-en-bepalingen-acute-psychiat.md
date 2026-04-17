@@ -1,13 +1,38 @@
 ---
 title: "Regeling informatieverstrekking vaststelling budget en bepalingen acute psychiatrische hulpverlening"
 identifier: "BWBR0046902"
-categorie: "Overig"
-publicatiedatum: 2022-08-01
-laatste_update: 2022-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046902"
+country: "nl"
+rank: "zbo"
+publication_date: "2022-08-01"
+last_updated: "2022-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046902"
+soort: "zbo"
+stam_id: "16418533"
+version_id: "28754762"
+internal_id: "C40688571"
+label_id: "16342734"
+dtd_version: "2.0"
+original_entry_into_force: "2022-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046902/2022-08-01/0"
+intitule_bron: "Stcrt.2022-17652"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-06-28"
+intitule_published: "2022-07-06"
+intitule_in_force: "2022-07-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-17652"
+original_signed_date: "2022-06-28"
+original_published_date: "2022-07-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-17652"
+entry_into_force_date: "2022-08-01"
+jci_1_3: "jci1.3:c:BWBR0046902&z=2022-08-01&g=2022-08-01"
+jci_1_0: "1.0:c:BWBR0046902&g=2022-08-01"
+citeertitel_status: "officieel"
+signed_date: "2022-06-28"
+entry_into_force: "2022-08-01"
 ---
-
 # Regeling informatieverstrekking vaststelling budget en bepalingen acute psychiatrische hulpverlening
 
 Gelet op [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=61) en [62 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=62) (Wmg), is de Nederlandse Zorgautoriteit (NZa) bevoegd tot het stellen van regels op het gebied van informatieverstrekking voor de vaststelling van het budget/een grens.

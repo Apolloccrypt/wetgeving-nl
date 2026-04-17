@@ -1,13 +1,37 @@
 ---
 title: "Wijziging Huurprijzenwet woonruimte (onderhoud, vergoeding aan de Staat en toezicht)"
 identifier: "BWBR0010888"
-categorie: "Bestuursrecht"
-publicatiedatum: 1999-11-26
-laatste_update: 1999-11-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010888"
+country: "nl"
+rank: "circulaire"
+publication_date: "1999-11-26"
+last_updated: "1999-11-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010888"
+soort: "circulaire"
+stam_id: "6336413"
+version_id: "10990402"
+internal_id: "C14882631"
+label_id: "6325324"
+original_entry_into_force: "1999-11-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010888/1999-11-26/0"
+intitule_bron: "Stcrt.1999-229"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-11-23"
+intitule_published: "1999-11-26"
+intitule_in_force: "1999-11-26"
+intitule_status: "goed"
+original_publication: "Stcrt.1999-229"
+original_signed_date: "1999-11-23"
+original_published_date: "1999-11-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1999-229-p9-SC21340"
+entry_into_force_date: "1999-11-26"
+jci_1_3: "jci1.3:c:BWBR0010888&z=1999-11-26&g=1999-11-26"
+jci_1_0: "1.0:c:BWBR0010888&g=1999-11-26"
+citeertitel_status: "redactioneel"
+signed_date: "1999-11-23"
+entry_into_force: "1999-11-26"
 ---
-
 # Wijziging Huurprijzenwet woonruimte (onderhoud, vergoeding aan de Staat en toezicht)
 
 Geacht College,

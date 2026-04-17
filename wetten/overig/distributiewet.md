@@ -1,14 +1,40 @@
 ---
-title: "Distributiewet"
+title: "Wet van 24 juni 1939, houdende regelen teneinde in geval van oorlog, oorlogsgevaar of andere buitengewone omstandigheden een doelmatige distributie van goederen in het belang van volkshuishouding, landsverdediging en veiligheid van niet-militaire personen of lichamen mogelijk te maken"
 identifier: "BWBR0001997"
-categorie: "Overig"
-publicatiedatum: 2020-07-17
-laatste_update: 2020-07-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0001997"
+country: "nl"
+rank: "wet"
+publication_date: "2020-07-17"
+last_updated: "2020-07-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0001997"
+soort: "wet"
+stam_id: "1272563"
+version_id: "11333112"
+internal_id: "C15269751"
+label_id: "1232424"
+dtd_version: "2.0"
+original_entry_into_force: "2004-12-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0001997/2020-07-17/0"
+intitule_bron: "Stb.1939-633"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1939-06-24"
+intitule_status: "goed"
+original_publication: "Stb.2004-686"
+original_signed_date: "2004-12-02"
+original_published_date: "2004-12-28"
+original_effect: "structuurwijziging"
+original_dossier: "29514"
+original_url_id: "stb-2004-686"
+entry_into_force_date: "2004-12-02"
+entry_into_force_dossier: "29514"
+jci_1_3: "jci1.3:c:BWBR0001997&z=2020-07-17&g=2020-07-17"
+jci_1_0: "1.0:c:BWBR0001997&g=2020-07-17"
+citeertitel_status: "officieel"
+short_title: "Distributiewet"
+signed_date: "2004-12-02"
+entry_into_force: "2004-12-02"
 ---
-
-# Distributiewet
+# Wet van 24 juni 1939, houdende regelen teneinde in geval van oorlog, oorlogsgevaar of andere buitengewone omstandigheden een doelmatige distributie van goederen in het belang van volkshuishouding, landsverdediging en veiligheid van niet-militaire personen of lichamen mogelijk te maken
 
 Allen, die deze zullen zien of hooren lezen, saluut! doen te weten:
 
@@ -18,27 +44,27 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 #### § 1. Algemeene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. Voor de toepassing van deze wet wordt verstaan onder «Onze Minister»: Onze Minister van Economische Zaken en Klimaat, dan wel, voor zover het betreft de toepassing van de [artikelen 3 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0001997&paragraaf=1&artikel=3&z=2020-07-17&g=2020-07-17), [15, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001997&paragraaf=2&artikel=15&z=2020-07-17&g=2020-07-17), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0001997&paragraaf=2&artikel=17&z=2020-07-17&g=2020-07-17) en [18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001997&paragraaf=2a&artikel=18&z=2020-07-17&g=2020-07-17), met betrekking tot de voedselvoorziening, Onze Minister van Landbouw, Natuur en Voedselkwaliteit.
 
 2. In deze wet en de daarop berustende bepalingen wordt mede verstaan onder goederen: elektriciteit.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel 3
+##### Artikel 3
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel 4
+##### Artikel 4
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
 De soorten van goederen, welke worden beschouwd als distributiegoederen in den zin dezer wet, worden door Onzen Minister aangewezen. Ten aanzien van deze soorten van goederen stelt hij een distributieregeling vast, waarbij aan de voorziening in de behoefte van de landsverdediging voorrang verleend wordt.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
@@ -46,7 +72,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 2. Hij kan daarbij bepalen, dat de in lid 1 genoemde handelingen niet zullen mogen geschieden zonder schriftelijke vergunning, door of namens hem verleend; aan deze vergunning kunnen voorwaarden worden verbonden. In spoedeischende gevallen kan zij ook anders dan schriftelijk worden verleend.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
@@ -54,7 +80,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 2. Hij kan daarbij het gebruik, het verbruik, de bewerking of de verwerking dier goederen tot bepaalde doeleinden verbieden, dan wel uitsluitend tot bepaalde doeleinden, al dan niet voorwaardelijk, toestaan.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
@@ -62,7 +88,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 2. Hij kan dat vervoer in door hem aan te wijzen gebieden geheel of gedeeltelijk verbieden, of niet dan voorwaardelijk toestaan.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
@@ -72,17 +98,17 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 3. De in lid 1 bedoelde verplichting kan door of namens den Minister ook aan bepaalde personen of lichamen worden opgelegd.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel 10
+##### Artikel 10
 
 Dit onderdeel is nog niet inwerking getreden
 
 #### § 1a. Prestatieplicht
 
-#### Artikel 11
+##### Artikel 11
 
 1. Voor de toepassing van deze wet wordt het Rijk verdeeld in distributiekringen.
 
@@ -94,7 +120,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 - b. dat, met inachtneming van door Onzen Minister te bepalen grenzen, een gemeente in twee of meer kringen zal worden verdeeld.
 
-#### Artikel 12
+##### Artikel 12
 
 1. In elken kring is een distributiedienst.
 
@@ -108,57 +134,57 @@ Dit onderdeel is nog niet inwerking getreden
 
 6. Het bepaalde in de leden 4 en 5 vindt overeenkomstige toepassing ten aanzien van wijziging en opheffing van een gemeenschappelijke regeling.
 
-#### Artikel 13
+##### Artikel 13
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel 14
+##### Artikel 14
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel 15
+##### Artikel 15
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel 16
+##### Artikel 16
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel 17
+##### Artikel 17
 
 Dit onderdeel is nog niet inwerking getreden
 
 #### § 2a. Toezicht
 
-#### Artikel 18
+##### Artikel 18
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel 22a
+##### Artikel 22a
 
 Vervallen
 
-#### Artikel 22b
+##### Artikel 22b
 
 Vervallen
 
 #### § 2a. Toezicht
 
-#### Artikel 22c
+##### Artikel 22c
 
 Vervallen
 
-#### Artikel 23
+##### Artikel 23
 
 Deze wet wordt aangehaald als: Distributiewet.
 
-#### Artikel 24
+##### Artikel 24
 
 Deze wet treedt in werking, voor wat betreft de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001997&paragraaf=1&artikel=1&z=2020-07-17&g=2020-07-17), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0001997&paragraaf=2&artikel=11&z=2020-07-17&g=2020-07-17) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0001997&paragraaf=2&artikel=12&z=2020-07-17&g=2020-07-17), met ingang van den dag na dien harer afkondiging. De overige artikelen treden in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 10a
+##### Artikel 10a
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
@@ -174,11 +200,11 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 6. Bij algemene maatregel van bestuur kunnen op voordracht van Onze Minister regels worden gesteld ter zake van de toepassing van het vijfde lid.
 
-#### Artikel 10b
+##### Artikel 10b
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel 10c
+##### Artikel 10c
 
 Dit onderdeel is nog niet inwerking getreden
 
@@ -186,7 +212,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 #### § 3. Straf- en slotbepalingen
 
-#### Artikel 22c
+##### Artikel 22c
 
 1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, voor het gehele land of een gedeelte daarvan de [artikelen 4 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0001997&paragraaf=1&artikel=4&z=2020-07-17&g=2020-07-17) en [artikel 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0001997&paragraaf=1a&artikel=10a&z=2020-07-17&g=2020-07-17) gezamenlijk of afzonderlijk in werking worden gesteld.
 

@@ -1,13 +1,39 @@
 ---
-title: "Instellingsbesluit Monitoring Commissie Corporate Governance Code"
+title: "Besluit van de Minister van Economische Zaken van 29 november 2013, nr. WJZ / 13183060, houdende instelling van de Monitoring Commissie Corporate Governance Code"
 identifier: "BWBR0034295"
-categorie: "Overig"
-publicatiedatum: 2024-06-20
-laatste_update: 2024-06-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034295"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-06-20"
+last_updated: "2024-06-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034295"
+soort: "ministeriele-regeling"
+stam_id: "12451443"
+version_id: "20933412"
+internal_id: "C30052071"
+label_id: "12422214"
+dtd_version: "2.0"
+original_entry_into_force: "2013-12-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034295/2024-06-20/0"
+intitule_bron: "Stcrt.2013-34316"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-11-29"
+intitule_published: "2013-12-10"
+intitule_in_force: "2013-12-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-34316"
+original_signed_date: "2013-11-29"
+original_published_date: "2013-12-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-34316"
+entry_into_force_date: "2013-12-11"
+jci_1_3: "jci1.3:c:BWBR0034295&z=2024-06-20&g=2024-06-20"
+jci_1_0: "1.0:c:BWBR0034295&g=2024-06-20"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Monitoring Commissie Corporate Governance Code"
+signed_date: "2013-11-29"
+entry_into_force: "2013-12-11"
 ---
-
 # Besluit van de Minister van Economische Zaken van 29 november 2013, nr. WJZ / 13183060, houdende instelling van de Monitoring Commissie Corporate Governance Code
 
 Handelende in overeenstemming met de Ministers van Veiligheid en Justitie en van Financiën;
@@ -18,7 +44,7 @@ Overwegende dat het wenselijk is de instelling van de Monitoring Commissie Corpo
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -26,7 +52,7 @@ In dit besluit wordt verstaan onder:
 
 - b. **commissie:** de Monitoring Commissie Corporate Governance Code.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een Monitoring Commissie Corporate Governance Code.
 
@@ -42,11 +68,11 @@ In dit besluit wordt verstaan onder:
 
 4. De commissie kan de code gemotiveerd herzien.
 
-#### Artikel 3
+##### Artikel 3
 
 De commissie doet ten minste eenmaal per jaar verslag aan de minister en de Ministers voor Rechtsbescherming en van Financiën van haar bevindingen, vergezeld van commentaar op het gebruik van de gedragscode door vennootschappen en op de toereikendheid van de code aan de maatschappelijke en internationale corporate governance standaarden en praktijken. Het commentaar kan tevens, als richtlijn voor naleving, de visie van de commissie omvatten op de naleving van een of meer voorschriften van de gedragscode.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De commissie bestaat uit een voorzitter en ten hoogste zeven andere leden.
 
@@ -58,7 +84,7 @@ De commissie doet ten minste eenmaal per jaar verslag aan de minister en de Mini
 
 5. De leden brengen op persoonlijke titel hun kennis en ervaring in en treden niet op als vertegenwoordiger van een specifieke belangengroep.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De commissie stelt haar eigen werkwijze schriftelijk vast.
 
@@ -68,7 +94,7 @@ De commissie doet ten minste eenmaal per jaar verslag aan de minister en de Mini
 
 4. De commissie verstrekt desgevraagd aan de minister de voor de uitoefening van zijn taak benodigde inlichtingen. De minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de invulling van zijn taak redelijkerwijs nodig is.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Aan de voorzitter van de commissie wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op het maximum van schaal 18 van paragraaf 6.3 van de CAO Rijk en de arbeidsduurfactor op 0,167 (6/36 uur).
 
@@ -76,15 +102,15 @@ De commissie doet ten minste eenmaal per jaar verslag aan de minister en de Mini
 
 3. Gastdeskundigen ontvangen per vergadering een vergoeding van 3% van het maximum van salarisschaal 18, zoals overeengekomen in de CAO Rijk.
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Monitoring Commissie Corporate Governance Code.
 

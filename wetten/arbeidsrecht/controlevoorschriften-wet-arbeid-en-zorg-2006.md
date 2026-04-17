@@ -1,20 +1,45 @@
 ---
 title: "Controlevoorschriften Wet arbeid en zorg 2006"
 identifier: "BWBR0020117"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2006-08-03
-laatste_update: 2006-08-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020117"
+country: "nl"
+rank: "zbo"
+publication_date: "2006-08-03"
+last_updated: "2006-08-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020117"
+soort: "zbo"
+stam_id: "8549583"
+version_id: "13476292"
+internal_id: "C18092801"
+label_id: "8529954"
+dtd_version: "2.0"
+original_entry_into_force: "2006-08-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020117/2006-08-03/0"
+intitule_bron: "Stcrt.2006-147"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-07-18"
+intitule_published: "2006-08-01"
+intitule_in_force: "2006-08-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-147"
+original_signed_date: "2006-07-18"
+original_published_date: "2006-08-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-147-p13-SC76205"
+entry_into_force_date: "2006-08-03"
+jci_1_3: "jci1.3:c:BWBR0020117&z=2006-08-03&g=2006-08-03"
+jci_1_0: "1.0:c:BWBR0020117&g=2006-08-03"
+citeertitel_status: "officieel"
+signed_date: "2006-07-18"
+entry_into_force: "2006-08-03"
 ---
-
 # Controlevoorschriften Wet arbeid en zorg 2006
 
 Gelet op [artikel 3:28 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:28);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -32,11 +57,11 @@ In dit besluit wordt verstaan onder:
 
 - g. aanvrager: degene die de aanvraag doet als bedoeld in de [artikelen 3:11](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:11), [3:12](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:12) of [3:22 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:22).
 
-#### Artikel 2. De aanvraag van uitkering
+##### Artikel 2. De aanvraag van uitkering
 
 De aanvrager maakt met betrekking tot haar aanvraag voor toekenning van de uitkering gebruik van een daartoe door het UWV beschikbaar gesteld formulier. Het formulier is door de aanvrager ondertekend.
 
-#### Artikel 3. Bij de aanvraag over te leggen stukken
+##### Artikel 3. Bij de aanvraag over te leggen stukken
 
 1. De aanvrager voegt bij de aanvraag van uitkering in verband met adoptie of pleegzorg documenten waaruit blijkt dat een kind ter adoptie of pleegzorg is of zal worden opgenomen en wanneer die opneming ter adoptie of pleegzorg heeft plaatsgevonden of zal plaatsvinden. Bij de aanvraag vermeldt de aanvrager de datum waarop het verlof in verband met adoptie of pleegzorg ingaat dan wel de datum waarop het recht op uitkering moet ingaan.
 
@@ -44,17 +69,17 @@ De aanvrager maakt met betrekking tot haar aanvraag voor toekenning van de uitke
 
 3. Bij de aanvraag van vervangingsuitkering bedoeld in de [artikelen 3:21](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:21) en [3:22 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:22) worden de begin- en einddatum van de periode van de vervanging vermeld.
 
-#### Artikel 4. De aanvrager stelt het UWV in staat controle uit te voeren
+##### Artikel 4. De aanvrager stelt het UWV in staat controle uit te voeren
 
 De aanvrager zorgt er voor – voor zover dat in haar vermogen ligt – dat het UWV in staat is om de juistheid en volledigheid van de gegevens die bij de aanvraag zijn verstrekt te onderzoeken.
 
-#### Artikel 5. De verplichting om op het spreekuur te verschijnen
+##### Artikel 5. De verplichting om op het spreekuur te verschijnen
 
 1. De aanvrager of de uitkeringsgerechtigde geeft gevolg aan een oproep om te verschijnen op het spreekuur van de verzekeringsarts of de medewerker.
 
 2. Indien de aanvrager of de uitkeringsgerechtigde verhinderd is te voldoen aan een oproep als bedoeld in het eerste lid deelt zij dit onverwijld en uiterlijk 24 uur voor het tijdstip waartegen zij is opgeroepen mee aan het UWV, onder opgave van de oorzaak van de verhindering.
 
-#### Artikel 6. Controle in verband met het recht op uitkering
+##### Artikel 6. Controle in verband met het recht op uitkering
 
 De aanvrager en de uitkeringsgerechtigde voldoen aan een verzoek van het UWV of van een daartoe schriftelijk door of vanwege het UWV gemachtigd persoon om ten behoeve van de uitvoering van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013008):
 
@@ -66,19 +91,19 @@ De aanvrager en de uitkeringsgerechtigde voldoen aan een verzoek van het UWV of 
 
 - d. op door of namens het UWV aan te wijzen dagen c.q. uren thuis te zijn en de door of namens het UWV aangewezen personen gelegenheid te geven tot controle.
 
-#### Artikel 7. Wijziging van woon- of verblijfplaats
+##### Artikel 7. Wijziging van woon- of verblijfplaats
 
 De aanvrager en de uitkeringsgerechtigde zijn verplicht onverwijld mededeling te doen van een wijziging van hun woon- of verblijfplaats.
 
-#### Artikel 8. Inwerkingtreding
+##### Artikel 8. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 9. Intrekking controlevoorschriften Wet arbeid en zorg 2001
+##### Artikel 9. Intrekking controlevoorschriften Wet arbeid en zorg 2001
 
 De Controlevoorschriften Wet arbeid en zorg 2001 worden ingetrokken.
 
-#### Artikel 10. Citeertitel
+##### Artikel 10. Citeertitel
 
 Dit besluit wordt aangehaald als: Controlevoorschriften Wet arbeid en zorg 2006.
 

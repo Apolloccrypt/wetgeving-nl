@@ -1,20 +1,46 @@
 ---
-title: "IKAP-regeling Rechterlijke Macht"
+title: "Regeling van de Minister van Justitie van 26 juli 2004, nr. 5296620/804, houdende regels inzake individuele keuzen in het arbeidsvoorwaardenpakket (IKAP) voor de sector Rechterlijke Macht"
 identifier: "BWBR0017067"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2020-05-30
-laatste_update: 2020-05-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0017067"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-05-30"
+last_updated: "2020-05-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0017067"
+soort: "ministeriele-regeling"
+stam_id: "5976633"
+version_id: "26737072"
+internal_id: "C37895181"
+label_id: "5966064"
+dtd_version: "2.0"
+original_entry_into_force: "2020-05-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0017067/2020-05-30/0"
+intitule_bron: "Stcrt.2004-141"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-07-26"
+intitule_published: "2004-07-27"
+intitule_in_force: "2004-07-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-28557"
+original_signed_date: "2020-05-14"
+original_published_date: "2020-05-29"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2020-28557"
+entry_into_force_date: "2020-05-14"
+jci_1_3: "jci1.3:c:BWBR0017067&z=2020-05-30&g=2020-05-30"
+jci_1_0: "1.0:c:BWBR0017067&g=2020-05-30"
+citeertitel_status: "redactioneel"
+short_title: "IKAP-regeling Rechterlijke Macht"
+signed_date: "2020-05-14"
+entry_into_force: "2020-05-14"
 ---
-
 # Regeling van de Minister van Justitie van 26 juli 2004, nr. 5296620/804, houdende regels inzake individuele keuzen in het arbeidsvoorwaardenpakket (IKAP) voor de sector Rechterlijke Macht
 
 Gelet op [artikel 38k, tweede lid, van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=38k);
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
@@ -30,13 +56,13 @@ In dit besluit wordt verstaan onder:
 
 - f. **plaats van tewerkstelling:** de gebruikelijke ingang van het gebouw, gebouwencomplex, terrein of vaartuig waar de betrokkene gewoonlijk zijn werkzaamheden verricht, dan wel, indien de uitoefening van het ambt zich uitstrekt over een ambtsgebied, de door de functionele autoriteit aangewezen plaats.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2004.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a. Algemene bepalingen
+##### Artikel 1a. Algemene bepalingen
 
 1. De rechterlijk ambtenaar maakt zijn keuze(n) in het kader van IKAP kenbaar door middel van een aanvraag. De aanvraag wordt ingediend op een door de functionele autoriteit aangegeven wijze.
 
@@ -60,7 +86,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 9. De vergoeding voor meer uren werken, bedoeld in [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0017067&artikel=1b&z=2020-05-30&g=2020-05-30), alsmede de inhouding voor minder uren werken, bedoeld in [artikel 1c](https://wetten.overheid.nl/jci1.3:c:BWBR0017067&artikel=1c&z=2020-05-30&g=2020-05-30), worden berekend op basis van het salaris per uur dat de rechterlijk ambtenaar geniet op de peildatum. Eventuele aanpassingen van het salaris met terugwerkende kracht naar een datum op of voor de peildatum hebben geen invloed op het per de peildatum vastgestelde salaris per uur.
 
-#### Artikel 1b. Meer uren werken
+##### Artikel 1b. Meer uren werken
 
 1. De rechterlijk ambtenaar kan een aanvraag indienen om in een bepaalde periode meer uren te werken dan de voor hem geldende arbeidsduur. Het aantal meer te werken uren is maximaal 200 uur per kalenderjaar. Bij een onvolledige arbeidsduur geldt een naar evenredigheid vastgesteld lager aantal hele uren als maximum. De uitkomst wordt zo nodig afgerond op hele uren naar boven. Het totaal van de arbeidsduur en het ingevolge dit lid toegewezen aantal meer te werken uren bedraagt niet meer dan gemiddeld 40 uur per week. Voor dezelfde periode kan niet een tweede aanvraag om nog meer uren te mogen werken worden ingediend.
 
@@ -74,13 +100,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - c. die buitengewoon verlof van lange duur geniet.
 
-#### Artikel 1c. Minder uren werken
+##### Artikel 1c. Minder uren werken
 
 1. De rechterlijk ambtenaar kan een aanvraag indienen om in een bepaalde periode minder uren te werken dan de voor hem geldende arbeidsduur. Indien sprake is van een arbeidsduur van meer dan 36 uur per week dient, alvorens de aanvraag in behandeling kan worden genomen, die arbeidsduur teruggebracht te worden tot ten hoogste gemiddeld 36 uur per week. Het aantal minder te werken uren is maximaal 80 uur per kalenderjaar. Bij een onvolledige arbeidsduur geldt een naar evenredigheid vastgesteld lager aantal hele uren als maximum. De uitkomst wordt zo nodig afgerond op hele uren naar boven. Voor dezelfde periode kan niet een tweede aanvraag om nog minder uren te mogen werken worden ingediend.
 
 2. Per minder gewerkt uur vindt een inhouding op het salaris plaats. Het bedrag van de inhouding wordt verrekend in de resterende maanden van het kalenderjaar.
 
-#### Artikel 1d. Afzien van aanspraken ten behoeve van vastgestelde bestemmingsmogelijkheden
+##### Artikel 1d. Afzien van aanspraken ten behoeve van vastgestelde bestemmingsmogelijkheden
 
 1. De rechterlijk ambtenaar kan bij de functionele autoriteit een aanvraag indienen om in ruil voor een belastingvrije vergoeding voor een of meer in het tweede en derde lid genoemde bestemmingsmogelijkheden geheel of gedeeltelijk af te zien van een of meer van de volgende aanspraken tot de hoogte van het bedrag van die vergoeding:
 
@@ -120,7 +146,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 5. De rechterlijk ambtenaar dient bij de in het eerste lid bedoelde aanvraag bewijsstukken te overleggen waaruit blijkt dat de kosten waarvoor die vergoeding is verstrekt daadwerkelijk zijn gemaakt.
 
-#### Artikel 1e
+##### Artikel 1e
 
 1. Voor de in [artikel 1d, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017067&artikel=1d&z=2020-05-30&g=2020-05-30), genoemde belastingvrije vergoeding voor de bedrijfsfitness gelden de volgende voorwaarden:
 
@@ -154,7 +180,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - b. Indien de rechterlijk ambtenaar geheel of gedeeltelijk afziet van de automatische vergoeding, bedoeld in het eerste lid, dan meldt hij dit, voor 1 november van het kalenderjaar waarin wordt overgegaan tot uitkering van deze belastingvrije bestemmingsmogelijkheid bij de functionele autoriteit. De melding wordt gedaan op een door de functionele autoriteit aan te geven wijze.
 
-#### Artikel 1f. Opschorting als gevolg van het niet verrichten van arbeid
+##### Artikel 1f. Opschorting als gevolg van het niet verrichten van arbeid
 
 1. Zodra de rechterlijk ambtenaar in verband met ziekte gedurende een aaneengesloten periode van vier weken geheel of gedeeltelijk ongeschikt is zijn dienst te verrichten, wordt voor de verdere duur van de arbeidsongeschiktheid de uitbetaling van de maandelijkse vergoeding voor meer uren werken of de inhouding voor minder uren werken, stopgezet.
 
@@ -162,7 +188,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 3. De voorgaande leden worden op overeenkomstige wijze toegepast zodra de rechterlijk ambtenaar om bijzondere redenen, anders dan vanwege arbeidsongeschiktheid wegens ziekte, vakantie of verlof, gedurende een aaneengesloten periode van tenminste vier weken geen arbeid verricht.
 
-#### Artikel 1g. Inhouding, verrekening of uitbetaling
+##### Artikel 1g. Inhouding, verrekening of uitbetaling
 
 1. In geval van:
 
@@ -182,13 +208,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 3. Bij overlijden van de rechterlijk ambtenaar wordt gehandeld zoals in het tweede lid is aangegeven, waarbij een eventueel saldo ten gunste van de werkgever niet wordt ingevorderd.
 
-#### Artikel 1h. Meldingsplicht en verhaal loonheffing
+##### Artikel 1h. Meldingsplicht en verhaal loonheffing
 
 1. De rechterlijk ambtenaar is verplicht alle omstandigheden die van betekenis zijn voor de uitvoering van de toegewezen IKAP-aanvraag in het kader van dit besluit terstond bij de functionele autoriteit te melden.
 
 2. Indien achteraf blijkt dat door onjuiste informatie van de rechterlijk ambtenaar een vergoeding ten onrechte belastingvrij is verstrekt, zullen de loonheffingen die over die vergoeding verschuldigd zijn, alsmede de eventuele boetes, op de rechterlijk ambtenaar worden verhaald.
 
-#### Artikel 1i. Hardheidsclausule
+##### Artikel 1i. Hardheidsclausule
 
 In geval van bijzondere omstandigheden waardoor een strikte toepassing van deze regeling besluit naar het oordeel van de functionele autoriteit in strijd zou zijn met de redelijkheid of de billijkheid, kan door de functionele autoriteit van dit besluit worden afgeweken.
 

@@ -1,14 +1,38 @@
 ---
-title: "Wijzigingswet Waterleidingwet, enz. (Versobering en harmonisatie externe adviesorganen VROM)"
+title: "Wet van 13 oktober 1994, houdende uitbreiding en wijziging van wettelijke regelingen inzake externe advisering op het terrein van volkshuisvesting, ruimtelijke ordening en milieubeheer (Versobering en harmonisatie externe adviesorganen VROM)"
 identifier: "BWBR0006967"
-categorie: "Milieu"
-publicatiedatum: 1995-01-01
-laatste_update: 1995-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006967"
+country: "nl"
+rank: "wet"
+publication_date: "1995-01-01"
+last_updated: "1995-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006967"
+soort: "wet"
+stam_id: "518753"
+version_id: "760202"
+internal_id: "C760201"
+label_id: "503914"
+dtd_version: "2.0"
+original_entry_into_force: "1995-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006967/1995-01-01/0"
+intitule_bron: "Stb.1994-766"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-10-13"
+intitule_status: "goed"
+original_publication: "Stb.1994-766"
+original_signed_date: "1994-10-13"
+original_effect: "nieuwe-regeling"
+original_dossier: "23487"
+entry_into_force_date: "1995-01-01"
+entry_into_force_dossier: "23487"
+jci_1_3: "jci1.3:c:BWBR0006967&z=1995-01-01&g=1995-01-01"
+jci_1_0: "1.0:c:BWBR0006967&g=1995-01-01"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet Waterleidingwet, enz. (Versobering en harmonisatie externe adviesorganen VROM)"
+signed_date: "1994-10-13"
+entry_into_force: "1995-01-01"
 ---
-
-# Wijzigingswet Waterleidingwet, enz. (Versobering en harmonisatie externe adviesorganen VROM)
+# Wet van 13 oktober 1994, houdende uitbreiding en wijziging van wettelijke regelingen inzake externe advisering op het terrein van volkshuisvesting, ruimtelijke ordening en milieubeheer (Versobering en harmonisatie externe adviesorganen VROM)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,59 +40,59 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is te komen tot versobe
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel II
+##### Artikel II
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel III
+##### Artikel III
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel IV
+##### Artikel IV
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel V
+##### Artikel V
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel VI
+##### Artikel VI
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel VII
+##### Artikel VII
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel IX
+##### Artikel IX
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel X
+##### Artikel X
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XI
+##### Artikel XI
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XII
+##### Artikel XII
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XIV
+##### Artikel XIV
 
 1. De Commissie drinkwatervoorziening, bedoeld in [artikel 2 van de Waterleidingwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002246&artikel=2), zet de lopende werkzaamheden van de Raad voor de Drinkwatervoorziening voort.
 
@@ -104,13 +128,13 @@ Bevat wijzigingen in andere regelgeving.
 
 11. Personen die onmiddellijk voor het tijdstip van inwerkingtreding van deze wet de functie bekleden van voorzitter, plaatsvervangend voorzitter, lid of plaatsvervangend lid van de Raad voor de Drinkwatervoorziening of de Voorlopige commissie genetische modificatie, zetten de uitoefening van die functie voort als voorzitter, plaatsvervangend voorzitter, lid, onderscheidenlijk plaatsvervangend lid, van de Commissie drinkwatervoorziening, onderscheidenlijk de Commissie genetische modificatie, voor de duur van hun benoeming.
 
-#### Artikel XV
+##### Artikel XV
 
 1. Voor de plaatsing van deze wet in het **Staatsblad** brengt Onze Minister de in deze wet voorkomende aanhalingen van artikelen van de [Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994) in overeenstemming met de door Onze Minister opnieuw vastgestelde nummering daarvan.
 
 2. Deze wet treedt in werking met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst.
 
-#### Artikel XVI
+##### Artikel XVI
 
 De tekst van de [Waterleidingwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002246) wordt door Onze Minister van Justitie in het **Staatsblad** geplaatst.
 

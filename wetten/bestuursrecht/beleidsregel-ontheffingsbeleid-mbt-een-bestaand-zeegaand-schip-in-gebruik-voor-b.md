@@ -1,13 +1,37 @@
 ---
 title: "Beleidsregel 'Ontheffingsbeleid m.b.t. een bestaand zeegaand schip in gebruik voor bedrijfsmatige recreatie t.b.v. de sportvisserij'"
 identifier: "BWBR0016572"
-categorie: "Bestuursrecht"
-publicatiedatum: 2004-08-10
-laatste_update: 2004-08-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0016572"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2004-08-10"
+last_updated: "2004-08-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0016572"
+soort: "beleidsregel"
+stam_id: "6697993"
+version_id: "11533282"
+internal_id: "C15550721"
+label_id: "6686334"
+original_entry_into_force: "2004-08-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0016572/2004-08-10/0"
+intitule_bron: "Stcrt.2004-151"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-03-31"
+intitule_published: "2004-08-10"
+intitule_in_force: "2004-08-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2004-151"
+original_signed_date: "2004-03-31"
+original_published_date: "2004-08-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2004-151-p7-SC66200"
+entry_into_force_date: "2004-08-10"
+jci_1_3: "jci1.3:c:BWBR0016572&z=2004-08-10&g=2004-08-10"
+jci_1_0: "1.0:c:BWBR0016572&g=2004-08-10"
+citeertitel_status: "redactioneel"
+signed_date: "2004-03-31"
+entry_into_force: "2004-08-10"
 ---
-
 # Beleidsregel 'Ontheffingsbeleid m.b.t. een bestaand zeegaand schip in gebruik voor bedrijfsmatige recreatie t.b.v. de sportvisserij'
 
 Gelet op:
@@ -18,7 +42,7 @@ Gelet op:
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Om een bestaand schip waarvan de lengte tussen de loodlijnen ingevolge artikel 2, eerste lid, van Bijlage I, van het Schepenbesluit, 24 meter of meer bedraagt, en welke uitsluitend bestemd wordt voor gebruik als bedrijfsmatig zeegaand recreatie vaartuig ten behoeve van de sportvisserij en welk schip op de dag van de inwerkingtreding van de '[Regeling zeegaande passagiersschepen in nationale vaart](https://wetten.overheid.nl/jci1.3:c:BWBR0011573)' (zijnde op17 augustus 2000) beschikte over een geldig Certificaat van Deugdelijkheid dan wel waarvoor op of voor deze datum aantoonbaar een aanvraag was ingediend teneinde het schip als zodanig te certificeren, ontheffing te verlenen van:
 

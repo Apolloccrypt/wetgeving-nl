@@ -1,13 +1,38 @@
 ---
 title: "Omzetbelasting, beheer van gemeenschappelijke beleggingsfondsen; bijzonder overheidstoezicht"
 identifier: "BWBR0045760"
-categorie: "Belastingrecht"
-publicatiedatum: 2021-11-03
-laatste_update: 2020-12-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045760"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2021-11-03"
+last_updated: "2020-12-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045760"
+soort: "beleidsregel"
+stam_id: "16116993"
+version_id: "28114592"
+internal_id: "C39647761"
+label_id: "16047694"
+dtd_version: "2.0"
+original_entry_into_force: "2021-11-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045760/2021-11-03/0"
+intitule_bron: "Stcrt.2021-44815"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-10-20"
+intitule_published: "2021-11-02"
+intitule_in_force: "2021-11-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-44815"
+original_signed_date: "2021-10-20"
+original_published_date: "2021-11-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-44815"
+entry_into_force_date: "2021-11-03"
+jci_1_3: "jci1.3:c:BWBR0045760&z=2021-11-03&g=2021-11-03"
+jci_1_0: "1.0:c:BWBR0045760&g=2021-11-03"
+citeertitel_status: "redactioneel"
+signed_date: "2021-10-20"
+entry_into_force: "2021-11-03"
 ---
-
 # Omzetbelasting, beheer van gemeenschappelijke beleggingsfondsen; bijzonder overheidstoezicht
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

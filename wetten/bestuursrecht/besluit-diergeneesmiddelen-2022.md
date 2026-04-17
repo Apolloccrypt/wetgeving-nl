@@ -1,13 +1,39 @@
 ---
-title: "Besluit diergeneesmiddelen 2022"
+title: "Besluit van 25 februari 2022, houdende regels over diergeneesmiddelen en gemedicineerde diervoeders (Besluit diergeneesmiddelen 2022)"
 identifier: "BWBR0046416"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-03-01
-laatste_update: 2025-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046416"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-03-01"
+last_updated: "2025-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046416"
+soort: "AMvB"
+stam_id: "16295673"
+version_id: "28474042"
+internal_id: "C40175371"
+label_id: "16221784"
+dtd_version: "2.0"
+original_entry_into_force: "2022-03-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046416/2025-03-01/0"
+intitule_bron: "Stb.2022-107"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-02-25"
+intitule_published: "2022-03-10"
+intitule_in_force: "2022-03-10"
+intitule_status: "goed"
+original_publication: "Stb.2022-107"
+original_signed_date: "2022-02-25"
+original_published_date: "2022-03-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2022-107"
+entry_into_force_date: "2022-03-11"
+jci_1_3: "jci1.3:c:BWBR0046416&z=2025-03-01&g=2025-03-01"
+jci_1_0: "1.0:c:BWBR0046416&g=2025-03-01"
+citeertitel_status: "officieel"
+short_title: "Besluit diergeneesmiddelen 2022"
+signed_date: "2022-02-25"
+entry_into_force: "2022-03-11"
 ---
-
 # Besluit van 25 februari 2022, houdende regels over diergeneesmiddelen en gemedicineerde diervoeders (Besluit diergeneesmiddelen 2022)
 
 Op de voordracht van Onze Minister van Landbouw, Natuur en Voedselkwaliteit van 8 december 2021, nr. WJZ / 21298679, gedaan in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport en na overleg met Onze Minister van Sociale Zaken en Werkgelegenheid;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemeen
 
-#### Artikel 1.1. Begripsbepalingen
+##### Artikel 1.1. Begripsbepalingen
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -38,7 +64,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 2. Proeven met diergeneesmiddelen
 
-#### Artikel 2.1. Vergunning voor het gebruik van diergeneesmiddelen, diervoeders of andere stoffen in een proef
+##### Artikel 2.1. Vergunning voor het gebruik van diergeneesmiddelen, diervoeders of andere stoffen in een proef
 
 1. Een diergeneesmiddel, diervoeder, gemedicineerd diervoeder of andere stof wordt niet in een dierproef toegepast zonder vergunning van Onze Minister.
 
@@ -46,13 +72,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Bij ministeriële regeling kunnen onderzoeksinstellingen worden aangewezen die voor wetenschappelijk onderzoek, kwaliteitscontrole of toezicht op de naleving onder bij die regeling te stellen regels zijn uitgezonderd van het eerste lid.
 
-#### Artikel 2.2. In de handel brengen van een dier na een proef
+##### Artikel 2.2. In de handel brengen van een dier na een proef
 
 Een dier waarop een diergeneesmiddel, diervoeder, gemedicineerd diervoeder of een andere stof met mogelijk farmacologische werking is beproefd, of een levensmiddel van een dergelijk dier wordt niet in de handel gebracht, tenzij Onze Minister hiervoor vergunning heeft verleend.
 
 ### Hoofdstuk 3. Vervaardiging van diergeneesmiddelen
 
-#### Artikel 3.1. Vergunning voor de vervaardiging
+##### Artikel 3.1. Vergunning voor de vervaardiging
 
 1. Op een aanvraag voor een vergunning voor de vervaardiging als bedoeld in artikel 88, eerste lid, van verordening (EU) nr. 2019/6 wordt binnen een termijn van negentig dagen beslist.
 
@@ -64,7 +90,7 @@ Een dier waarop een diergeneesmiddel, diervoeder, gemedicineerd diervoeder of ee
 
 3. Geen vergunning voor de vervaardiging is vereist voor het bereiden, het verdelen en het veranderen van de verpakking of aanbiedingsvorm van diergeneesmiddelen wanneer die verrichtingen overeenkomstig de artikelen 103 en 104 van verordening (EU) nr. 2019/6 uitsluitend voor de rechtstreekse kleinhandel aan het publiek worden uitgevoerd.
 
-#### Artikel 3.2. Intrekking van een vergunning voor de vervaardiging
+##### Artikel 3.2. Intrekking van een vergunning voor de vervaardiging
 
 1. Een aanvraag voor het intrekken van een vergunning voor de vervaardiging wordt ingediend bij Onze Minister.
 
@@ -72,7 +98,7 @@ Een dier waarop een diergeneesmiddel, diervoeder, gemedicineerd diervoeder of ee
 
 ### Hoofdstuk 4. Vergunning voor groothandel en vergunning voor kleinhandel
 
-#### Artikel 4.1. Vergunning voor groothandel
+##### Artikel 4.1. Vergunning voor groothandel
 
 1. Een vergunning voor groothandel wordt verstrekt indien de aanvrager voldoet aan de voorschriften, genoemd in de artikelen 100, tweede lid, onderdelen a tot en met e, en 101 van verordening (EU) nr. 2019/6.
 
@@ -80,7 +106,7 @@ Een dier waarop een diergeneesmiddel, diervoeder, gemedicineerd diervoeder of ee
 
 3. Voor incidentele leveringen van kleine hoeveelheden diergeneesmiddelen tussen kleinhandelaars in Nederland is geen vergunning voor groothandel vereist.
 
-#### Artikel 4.2. Vergunning voor kleinhandel
+##### Artikel 4.2. Vergunning voor kleinhandel
 
 1. Voor kleinhandel in diergeneesmiddelen is een vergunning voor kleinhandel vereist.
 
@@ -100,29 +126,29 @@ Een dier waarop een diergeneesmiddel, diervoeder, gemedicineerd diervoeder of ee
 
 5. In afwijking van het eerste lid is geen vergunning voor kleinhandel vereist voor de kleinhandel in niet-voorschriftplichtige diergeneesmiddelen die zijn bestemd voor niet-voedselproducerende dieren.
 
-#### Artikel 4.3. Vergunning van rechtswege voor apotheker en dierenarts
+##### Artikel 4.3. Vergunning van rechtswege voor apotheker en dierenarts
 
 1. Een apotheker die is ingeschreven in het door de Inspectie gezondheidszorg en jeugd ingestelde register van gevestigde apothekers, bedoeld in [artikel 61, vijfde lid, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=61) heeft van rechtswege een vergunning voor kleinhandel.
 
 2. Een dierenarts heeft van rechtswege een vergunning voor kleinhandel voor het afleveren van diergeneesmiddelen aan houders van dieren voor die dieren waarvoor de dierenarts in de uitoefening van zijn beroep de medische zorg op zich heeft genomen.
 
-#### Artikel 4.4. Kleinhandel op afstand in diergeneesmiddelen
+##### Artikel 4.4. Kleinhandel op afstand in diergeneesmiddelen
 
 1. Een persoon met een vergunning voor kleinhandel kan, in afwijking van artikel 104, eerste lid, van verordening (EU) nr. 2019/6, via diensten van de informatiemaatschappij als bedoeld in artikel 1, eerste lid, onderdeel b, van [Richtlijn (EU) 2015/1535](32015L1535) van het Europees Parlement en de Raad van 9 september 2015 betreffende een informatieprocedure op het gebied van technische voorschriften en regels betreffende de diensten van de informatiemaatschappij (PbEU 2015, L 241) diergeneesmiddelen aanbieden die zijn aangewezen op grond van [artikel 5.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046416&hoofdstuk=5&artikel=5.1&z=2025-03-01&g=2025-03-01).
 
 2. Het eerste lid is uitsluitend van toepassing op personen die in Nederland gevestigd zijn en enkel ten aanzien van levering in Nederland.
 
-#### Artikel 4.5. Schorsing, intrekking of wijziging van een vergunning voor groothandel
+##### Artikel 4.5. Schorsing, intrekking of wijziging van een vergunning voor groothandel
 
 1. Een aanvraag voor het wijzigen van een vergunning voor groothandel wordt ingediend bij Onze Minister.
 
 2. Op de aanvraag wordt binnen een termijn van negentig dagen beslist.
 
-#### Artikel 4.6. Ambtshalve wijziging van een vergunning voor groothandel
+##### Artikel 4.6. Ambtshalve wijziging van een vergunning voor groothandel
 
 Onze Minister kan een vergunning voor groothandel wijzigen indien de groothandelaar niet voldoet aan artikel 101 van verordening (EU) nr. 2019/6.
 
-#### Artikel 4.7. Schorsing, intrekking of wijziging van een vergunning voor kleinhandel
+##### Artikel 4.7. Schorsing, intrekking of wijziging van een vergunning voor kleinhandel
 
 1. Een aanvraag voor het wijzigen van een vergunning voor kleinhandel wordt ingediend bij Onze Minister.
 
@@ -144,7 +170,7 @@ Onze Minister kan een vergunning voor groothandel wijzigen indien de groothandel
 
 ### Hoofdstuk 5. Levering, bewaring en gebruik van diergeneesmiddelen
 
-#### Artikel 5.1. Levering van diergeneesmiddelen
+##### Artikel 5.1. Levering van diergeneesmiddelen
 
 1. Een voorschriftplichtig diergeneesmiddel wordt uitsluitend geleverd door een dierenarts of een apotheker.
 
@@ -152,11 +178,11 @@ Onze Minister kan een vergunning voor groothandel wijzigen indien de groothandel
 
 3. Een dierenarts kan het afleveren van een diergeneesmiddel door een andere persoon, in afwijking van het eerste en tweede lid en [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046416&hoofdstuk=4&artikel=4.2&z=2025-03-01&g=2025-03-01), uit laten voeren voor zover dit in overeenstemming is met de zorgplichten, bedoeld in [artikel 4.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=4.2) en regels die bij ministeriële regeling kunnen worden gesteld over het afleveren door een persoon zonder kleinhandelsvergunning.
 
-#### Artikel 5.2. Bewaren en behandelen van diergeneesmiddelen
+##### Artikel 5.2. Bewaren en behandelen van diergeneesmiddelen
 
 Bij ministeriële regeling kunnen regels worden gesteld over het bewaren en behandelen van diergeneesmiddelen.
 
-#### Artikel 5.3. Gebruik van diergeneesmiddelen
+##### Artikel 5.3. Gebruik van diergeneesmiddelen
 
 1. Onze Minister kan voorschriftplichtige diergeneesmiddelen aanwijzen waarvan toepassing is voorbehouden aan een dierenarts of een andere persoon die is toegelaten tot het beroepsmatig verrichten van diergeneeskundige handelingen vanwege een gevaar voor de volksgezondheid, diergezondheid, het dierenwelzijn of milieu.
 
@@ -166,7 +192,7 @@ Bij ministeriële regeling kunnen regels worden gesteld over het bewaren en beha
 
 ### Hoofdstuk 6. Ziekteverwekkers
 
-#### Artikel 6.1. Meldplicht ziekteverwekkers
+##### Artikel 6.1. Meldplicht ziekteverwekkers
 
 1. Degene die verantwoordelijk is voor een laboratorium, voorziening of andere ruimte waar zich een bij ministeriële regeling aangewezen ziekteverwekker bevindt, meldt dit bij Onze Minister, indien de ziekteverwekker:
 
@@ -178,7 +204,7 @@ Bij ministeriële regeling kunnen regels worden gesteld over het bewaren en beha
 
 3. De meldingen, bedoeld in het eerste en tweede lid, geschieden met gebruikmaking van een middel dat daartoe door Onze Minister beschikbaar is gesteld.
 
-#### Artikel 6.2. Erkenning voorhanden of in voorraad houden ziekteverwekker
+##### Artikel 6.2. Erkenning voorhanden of in voorraad houden ziekteverwekker
 
 1. Bij ministeriële regeling kan worden geregeld dat het voorhanden of in voorraad hebben van bij die regeling aangewezen ziekteverwekkers uitsluitend is toegestaan aan door Onze Minister erkende laboratoria, voorzieningen of andere natuurlijke of rechtspersonen als bedoeld in artikel 16, eerste lid, van [verordening (EU) 2016/429](32329R2016) van het Europees Parlement en de Raad van 9 maart 2016 betreffende overdraagbare dierziekten en tot wijziging en intrekking van bepaalde handelingen op het gebied van diergezondheid («diergezondheidswetgeving») (PbEU 2016, L 84).
 
@@ -186,7 +212,7 @@ Bij ministeriële regeling kunnen regels worden gesteld over het bewaren en beha
 
 ### Hoofdstuk 7. Controle en onderzoek
 
-#### Artikel 7.1. Diergeneesmiddelen met aangewezen substanties
+##### Artikel 7.1. Diergeneesmiddelen met aangewezen substanties
 
 Bij ministeriële regeling worden regels gesteld voor de uitvoering van EU-rechtshandelingen die betrekking hebben op bij die EU-rechtshandelingen aangewezen substanties over:
 
@@ -198,23 +224,23 @@ Bij ministeriële regeling worden regels gesteld voor de uitvoering van EU-recht
 
 ### Hoofdstuk 8. Overige bepalingen
 
-#### Artikel 8.1. Procedures voor de registratie van homeopathische diergeneesmiddelen
+##### Artikel 8.1. Procedures voor de registratie van homeopathische diergeneesmiddelen
 
 Bij ministeriële regeling kan worden geregeld in welke gevallen homeopathische diergeneesmiddelen worden geregistreerd als bedoeld in artikel 85, eerste lid, van verordening (EU) nr. 2019/6.
 
-#### Artikel 8.2. Reclame voor diergeneesmiddelen
+##### Artikel 8.2. Reclame voor diergeneesmiddelen
 
 Het maken van reclame voor diergeneesmiddelen waarvoor een diergeneeskundig voorschrift vereist is, is enkel toegestaan bij professionele houders van dieren, voor zover de voorwaarden van artikel 120, tweede lid, onderdelen a en b, van verordening (EU) nr. 2019/6 worden nageleefd.
 
-#### Artikel 8.3. Mededeling van besluiten
+##### Artikel 8.3. Mededeling van besluiten
 
 Van een besluit dat Onze Minister neemt krachtens verordening (EU) nr. 2019/6 wordt mededeling gedaan op een daartoe door Onze Minister bij ministeriële regeling aangewezen website.
 
-#### Artikel 8.4. Positieve fictieve beschikking bij eerste vergunning voor kleinhandel
+##### Artikel 8.4. Positieve fictieve beschikking bij eerste vergunning voor kleinhandel
 
 [Artikel 28, eerste lid, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is niet van toepassing op een aanvraag voor een eerste vergunning voor kleinhandel.
 
-#### Artikel 8.5. Uitvoering van EU-rechtshandelingen
+##### Artikel 8.5. Uitvoering van EU-rechtshandelingen
 
 Bij ministeriële regeling worden regels gesteld voor de uitvoering van de volgende EU-rechtshandelingen en de krachtens die EU-rechtshandelingen vastgestelde EU-rechtshandelingen:
 
@@ -222,7 +248,7 @@ Bij ministeriële regeling worden regels gesteld voor de uitvoering van de volge
 
 - b. Verordening (EG) nr. 470/2009 van het Europees Parlement en de Raad van 6 mei 2009 tot vaststelling van communautaire procedures voor het vaststellen van grenswaarden voor residuen van farmacologisch werkzame stoffen in levensmiddelen van dierlijke oorsprong, tot intrekking van Verordening (EEG) nr. 2377/90 van de Raad en tot wijziging van [Richtlijn 2001/82/EG](32001L0082) van het Europees Parlement en de Raad en van Verordening (EG) nr. 726/2004 van het Europees Parlement en de Raad.
 
-#### Artikel 8.6. Betrokkenheid van Onze Minister van Volksgezondheid, Welzijn en Sport bij de totstandkoming van ministeriële regelingen en vergunningen voor het in de handel brengen
+##### Artikel 8.6. Betrokkenheid van Onze Minister van Volksgezondheid, Welzijn en Sport bij de totstandkoming van ministeriële regelingen en vergunningen voor het in de handel brengen
 
 1. Een krachtens dit besluit vast te stellen ministeriële regeling wordt vastgesteld door Onze Minister in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport.
 
@@ -230,25 +256,25 @@ Bij ministeriële regeling worden regels gesteld voor de uitvoering van de volge
 
 ### Hoofdstuk 9. Wijziging andere besluiten
 
-#### Artikel 9.1. Wijziging [Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217)
+##### Artikel 9.1. Wijziging [Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217)
 
 Wijzigt het Besluit houders van dieren.
 
-#### Artikel 9.2. Wijziging [Besluit diergeneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0035091)
+##### Artikel 9.2. Wijziging [Besluit diergeneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0035091)
 
 Wijzigt het Besluit diergeneeskundigen.
 
-#### Artikel 9.3. Wijziging [Besluit handhaving en overige zaken Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0032334)
+##### Artikel 9.3. Wijziging [Besluit handhaving en overige zaken Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0032334)
 
 Wijzigt het Besluit handhaving en overige zaken Wet dieren.
 
-#### Artikel 9.4. Wijziging [Opiumwetbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014405)
+##### Artikel 9.4. Wijziging [Opiumwetbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014405)
 
 Wijzigt het Opiumwetbesluit.
 
 ### Hoofdstuk 10. Slotbepalingen
 
-#### Artikel 10.1. Overgangsrecht kanalisatie
+##### Artikel 10.1. Overgangsrecht kanalisatie
 
 1. Zolang Onze Minister nog geen aanwijzingsbesluit heeft genomen als bedoeld in de [artikelen 5.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046416&hoofdstuk=5&artikel=5.1&z=2025-03-01&g=2025-03-01), en [5.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046416&hoofdstuk=5&artikel=5.3&z=2025-03-01&g=2025-03-01), gelden de voorschriften die zijn verbonden aan de vergunningen voor het in de handel brengen van diergeneesmiddelen, bedoeld in de [artikelen 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=2.15), [2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=2.17) en [2.18 van de Regeling diergeneesmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=2.18), zoals die regeling luidde op 27 januari 2022, als aanwijzingen als bedoeld in de artikelen 5.1, tweede lid, en 5.3, eerste lid.
 
@@ -258,19 +284,19 @@ Wijzigt het Opiumwetbesluit.
 
 - b. immunologische diergeneesmiddelen voor varkens.
 
-#### Artikel 10.2. Overgangsrecht dierverloskundigen en castreurs
+##### Artikel 10.2. Overgangsrecht dierverloskundigen en castreurs
 
 Vervallen
 
-#### Artikel 10.3. Intrekken [Besluit diergeneesmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0035091)
+##### Artikel 10.3. Intrekken [Besluit diergeneesmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0035091)
 
 Het [Besluit diergeneesmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0035091) wordt ingetrokken.
 
-#### Artikel 10.4. Inwerkingtreding
+##### Artikel 10.4. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-#### Artikel 10.5. Citeertitel
+##### Artikel 10.5. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit diergeneesmiddelen 2022.
 

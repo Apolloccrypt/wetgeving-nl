@@ -1,14 +1,37 @@
 ---
-title: "Herindelingswet noordoostelijk en midden Zuid-Holland"
+title: "Wet van 4 juli 1990, tot gemeentelijke herindeling noordoostelijk en midden Zuid-Holland"
 identifier: "BWBR0004813"
-categorie: "Overig"
-publicatiedatum: 1990-07-28
-laatste_update: 1990-07-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004813"
+country: "nl"
+rank: "wet"
+publication_date: "1990-07-28"
+last_updated: "1990-07-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004813"
+soort: "wet"
+stam_id: "1380993"
+version_id: "2071902"
+internal_id: "C2071901"
+label_id: "1339244"
+dtd_version: "2.0"
+original_entry_into_force: "1990-07-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004813/1990-07-28/0"
+intitule_bron: "Stb.1990-376"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1990-07-04"
+intitule_status: "goed"
+original_publication: "Stb.1990-376"
+original_signed_date: "1990-07-04"
+original_effect: "nieuwe-regeling"
+original_dossier: "20886"
+entry_into_force_date: "1990-07-28"
+jci_1_3: "jci1.3:c:BWBR0004813&z=1990-07-28&g=1990-07-28"
+jci_1_0: "1.0:c:BWBR0004813&g=1990-07-28"
+citeertitel_status: "officieel"
+short_title: "Herindelingswet noordoostelijk en midden Zuid-Holland"
+signed_date: "1990-07-04"
+entry_into_force: "1990-07-28"
 ---
-
-# Herindelingswet noordoostelijk en midden Zuid-Holland
+# Wet van 4 juli 1990, tot gemeentelijke herindeling noordoostelijk en midden Zuid-Holland
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +41,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### § 1. Grenswijzigingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. Met ingang van de datum van herindeling worden de gemeenten Benthuizen, Hazerswoude, Koudekerk aan den Rijn, Leimuiden, Moerkapelle, Nieuwveen, Rijnsaterwoude, Woubrugge, Zevenhoven en Zevenhuizen opgeheven.
 
@@ -101,7 +124,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - 7°. Grens met de nieuwe gemeente Rijneveld. Deze komt te lopen zoals bij **a**, onder 4°, is beschreven.
 
-#### Artikel 2
+##### Artikel 2
 
 Met ingang van de datum van herindeling worden de grenzen van de hierna te noemen gemeenten gewijzigd op de wijze als bij elk afzonderlijk is aangegeven.
 
@@ -236,13 +259,13 @@ Met ingang van de datum van herindeling worden de grenzen van de hierna te noeme
 
 #### § 2. Overige bepalingen
 
-#### Artikel 3
+##### Artikel 3
 
 1. Voor de secretaris en de ontvanger, dan wel de met toepassing van [artikel 127**a** van de gemeentewet](onbekend) aangewezen ambtenaar of ambtenaren, belast met de taak van ontvanger, van de nieuwe gemeenten Nieuwveen, Rijneveld, Jacobswoude en Moerhuizen gelden de instructies voor evenbedoelde functionarissen van onderscheidenlijk de op te heffen gemeenten Nieuwveen, Hazerswoude, Woubrugge en Zevenhuizen, totdat zij door andere zijn vervangen.
 
 2. Voor de vergaderingen van de raad en van burgemeester en wethouders van de nieuwe gemeenten Nieuwveen, Rijneveld, Jacobswoude en Moerhuizen gelden de reglementen van orde voor de vergaderingen van die colleges van onderscheidenlijk de op te heffen gemeenten Nieuwveen, Hazerswoude, Woubrugge en Zevenhuizen, totdat zij door andere zijn vervangen.
 
-#### Artikel 4
+##### Artikel 4
 
 Ingevolge artikel 12, tweede lid, van de Wet algemene regelen gemeentelijke indeling (**Stb.** 1984, 475) treden de organen en ambtenaren van de nieuwe gemeente:
 
@@ -254,7 +277,7 @@ Ingevolge artikel 12, tweede lid, van de Wet algemene regelen gemeentelijke inde
 
 - d. Moerhuizen, in de plaats van die van de op te heffen gemeenten Moerkapelle en Zevenhuizen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Gemeenschappelijke regelingen waaraan uitsluitend wordt deelgenomen door:
 
@@ -266,7 +289,7 @@ vervallen met ingang van de datum van herindeling. De besturen van onderscheiden
 
 2. Voor de overige gemeenschappelijke regelingen treden, zolang nog geen uitvoering is gegeven aan artikel 14, vierde of vijfde lid, van de Wet algemene regelen gemeentelijke indeling, onderscheidenlijk de bovengenoemde nieuwe gemeenten in de plaats van de bovengenoemde op te heffen gemeenten.
 
-#### Artikel 6
+##### Artikel 6
 
 De in artikel 16, eerste lid, van de Wet algemene regelen gemeentelijke indeling bedoelde rechten en verplichtingen gaan van:
 
@@ -278,7 +301,7 @@ De in artikel 16, eerste lid, van de Wet algemene regelen gemeentelijke indeling
 
 - d. de op te heffen gemeenten Moerkapelle en Zevenhuizen over naar de nieuwe gemeente Moerhuizen.
 
-#### Artikel 7
+##### Artikel 7
 
 Voor de toepassing van de artikelen 17, tweede lid, en 20, tweede lid, van de Wet algemene regelen gemeentelijke indeling treedt de nieuwe gemeente:
 
@@ -290,11 +313,11 @@ Voor de toepassing van de artikelen 17, tweede lid, en 20, tweede lid, van de We
 
 - d. Moerhuizen in de plaats van de op te heffen gemeenten Moerkapelle en Zevenhuizen.
 
-#### Artikel 8
+##### Artikel 8
 
 Een verkiezing als bedoeld in artikel 24, eerste lid, van de Wet algemene regelen gemeentelijke indeling wordt gehouden in de gemeenten Alkemade en Ter Aar alsmede in de nieuwe gemeenten Nieuwveen, Rijneveld, Jacobswoude en Moerhuizen, met de voorbereiding waarvan onderscheidenlijk zijn belast de op te heffen gemeenten Nieuwveen, Hazerswoude, Woubrugge en Zevenhuizen.
 
-#### Artikel 9
+##### Artikel 9
 
 De in artikel 31, eerste lid, van de Wet algemene regelen gemeentelijke indeling bedoelde ambtenaren gaan voorlopig over in dienst van de nieuwe gemeente:
 
@@ -306,7 +329,7 @@ De in artikel 31, eerste lid, van de Wet algemene regelen gemeentelijke indeling
 
 - d. Moerhuizen voor zover het betreft de ambtenaren van de op te heffen gemeenten Moerkapelle en Zevenhuizen.
 
-#### Artikel 10
+##### Artikel 10
 
 De in artikel 42, eerste lid, van de Wet algemene regelen gemeentelijke indeling bedoelde archiefbescheiden gaan van de op te heffen gemeenten:
 
@@ -318,23 +341,23 @@ De in artikel 42, eerste lid, van de Wet algemene regelen gemeentelijke indeling
 
 - d. Moerkapelle en Zevenhuizen over naar de nieuwe gemeente Moerhuizen.
 
-#### Artikel 11
+##### Artikel 11
 
 In het gebied waarop deze wet van toepassing is blijft de organisatie van het Korps Rijkspolitie gelijk aan die op de dag voorafgaande aan de datum van herindeling tot het tijdstip waarop Onze Minister van Justitie de organisatie van dat Korps in overeenstemming met het bepaalde in [artikel 13 van de Politiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=13) heeft gebracht.
 
-#### Artikel 12
+##### Artikel 12
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 13
+##### Artikel 13
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 14
+##### Artikel 14
 
 Door Onze Minister van Binnenlandse Zaken wordt voor zover nodig binnen één maand na inwerkingtreding van deze wet de definitieve grensbeschrijving vastgelegd.
 
-#### Artikel 15
+##### Artikel 15
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 

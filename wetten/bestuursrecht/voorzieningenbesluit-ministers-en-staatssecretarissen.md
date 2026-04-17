@@ -1,13 +1,39 @@
 ---
-title: "Voorzieningenbesluit ministers en staatssecretarissen"
+title: "Besluit van 7 juni 2002, houdende bepalingen met betrekking tot voorzieningen voor ministers en staatssecretarissen (Voorzieningenbesluit ministers en staatssecretarissen)"
 identifier: "BWBR0013753"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013753"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013753"
+soort: "AMvB"
+stam_id: "2645583"
+version_id: "18136952"
+internal_id: "C25217551"
+label_id: "2590304"
+dtd_version: "2.0"
+original_entry_into_force: "2010-11-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013753/2026-01-01/0"
+intitule_bron: "Stb.2002-369"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-06-07"
+intitule_published: "2002-07-16"
+intitule_in_force: "2002-07-16"
+intitule_status: "goed"
+original_publication: "Stb.2010-795"
+original_signed_date: "2010-11-22"
+original_published_date: "2010-12-03"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2010-795"
+entry_into_force_date: "2010-11-22"
+jci_1_3: "jci1.3:c:BWBR0013753&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0013753&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Voorzieningenbesluit ministers en staatssecretarissen"
+signed_date: "2010-11-22"
+entry_into_force: "2010-11-22"
 ---
-
 # Besluit van 7 juni 2002, houdende bepalingen met betrekking tot voorzieningen voor ministers en staatssecretarissen (Voorzieningenbesluit ministers en staatssecretarissen)
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 8 maart 2002, directoraat-generaal Constitutionele Zaken en Koninkrijksrelaties, directie Constitutionele Zaken en Wetgeving, nr. CW02/U61907;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 Werkt terug tot en met 1 januari 2001.
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -40,7 +66,7 @@ In dit besluit wordt verstaan onder:
 
 - g. ROB: prijs van reparatie, onderhoud en banden.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Ministers en staatssecretarissen die in verband met de vervulling van hun ambt zijn verhuisd, ontvangen een verhuiskostenvergoeding indien zij zich met de verhuizing binnen een afstand van 25 kilometer van het ministerie hebben gevestigd en de afstand tussen de oude woning en het ministerie ten minste 50 kilometer bedroeg;
 
@@ -54,7 +80,7 @@ In dit besluit wordt verstaan onder:
 
 3. Het bedrag, bedoeld in het tweede lid, onder c, wordt vastgesteld op tien procent van de jaarlijkse bezoldiging op de dag waarop de nieuwe woning wordt betrokken.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Aan ministers en staatssecretarissen die niet zijn verhuisd en van wie de woning zich op een afstand van ten minste 50 kilometer van het ministerie bevindt, wordt op hun verzoek voor de duur van de vervulling van hun ambt een gemeubileerde verblijfsvoorziening binnen een afstand van 25 kilometer van het ministerie ter beschikking gesteld.
 
@@ -92,7 +118,7 @@ waarbij X gelijk is aan het voor dienstreizen van ambtenaren, die krachtens een 
 
 5. Een verstrekking als bedoeld in het eerste of tweede lid of een vergoeding als bedoeld in het tweede of derde lid wordt in aanmerking genomen als eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31).
 
-#### Artikel 4
+##### Artikel 4
 
 1. Ten behoeve van ministers en staatssecretarissen en hun gezinsleden worden passende beveiligingsmaatregelen getroffen.
 
@@ -100,15 +126,15 @@ waarbij X gelijk is aan het voor dienstreizen van ambtenaren, die krachtens een 
 
 3. [Artikel 3, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013753&artikel=3&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 5
+##### Artikel 5
 
 Aan ministers en staatssecretarissen worden informatie- en communicatievoorzieningen en lectuur, daarbij inbegrepen de hiervoor benodigde aansluitingen en abonnementen, ter beschikking gesteld voor de duur van de vervulling van hun ambt.
 
-#### Artikel 6
+##### Artikel 6
 
 In het geval van binnenlandse en buitenlandse dienstreizen worden de noodzakelijke faciliteiten ter beschikking gesteld ten behoeve van vervoer en verblijf voor ministers en staatssecretarissen en voor degenen die hen vergezellen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Ministers en staatssecretarissen hebben voor de duur van de vervulling van hun ambt een dienstauto met chauffeur ter beschikking.
 
@@ -164,7 +190,7 @@ m = jaarkilometrage.
 
 5. De dienstauto wordt slechts in gebruik genomen nadat is vastgesteld dat aan de voorschriften van het tweede tot en met vierde lid is voldaan, tenzij afwijking van deze voorschriften noodzakelijk is om redenen van veiligheid of wegens een individuele werkplekanalyse, verricht of getoetst door een deskundige persoon als bedoeld in [artikel 14, eerste lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14). [Artikel 14, tweede lid, onderdelen b en c, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14) is in het tweede geval van overeenkomstige toepassing.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Ministers en staatssecretarissen ontvangen een maandelijkse vergoeding voor de door hen verschuldigde loonbelasting over het gebruik van de dienstauto. De vergoeding wordt berekend aan de hand van de formule
 
@@ -190,11 +216,11 @@ T = het hoogste van de in de tarieftabel van [artikel 20a, eerste lid, van de We
 
 - b. het tot het belastbare loon in de zin van de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) van de minister of staatssecretaris behorend voordeel ter zake van de dienstauto toerekenbaar aan buitengewone beveiligingsmaatregelen.
 
-#### Artikel 9
+##### Artikel 9
 
 Aan ministers en staatssecretarissen worden de overige voorzieningen ter beschikking gesteld die noodzakelijk zijn voor het vervullen van hun ambt.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Ministers en staatssecretarissen ontvangen een maandelijkse vergoeding voor de kosten van voorzieningen die voor hun eigen rekening komen en door hen mede worden aangewend ten behoeve van de vervulling van hun ambt.
 
@@ -212,41 +238,41 @@ Aan ministers en staatssecretarissen worden de overige voorzieningen ter beschik
 
 4. De in het tweede lid genoemde bedragen worden per 1 januari van elk jaar bij ministeriële regeling gewijzigd overeenkomstig de procentuele wijziging van de door het Centraal Bureau voor de Statistiek vastgestelde consumentenprijsindex, geldend voor de maand september van het tweede kalenderjaar voorafgaand aan die datum ten opzichte van hetzelfde indexcijfer geldend voor de maand september van het daaraan voorafgaande kalenderjaar.
 
-#### Artikel 11
+##### Artikel 11
 
 Ministers en staatssecretarissen ontvangen een vergoeding voor de door hen gemaakte kosten van voorzieningen die niet voor hun eigen rekening komen en die aantoonbaar door hen zijn aangewend voor de vervulling van hun ambt.
 
-#### Artikel 12
+##### Artikel 12
 
 Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties treft voor de ministers en staatssecretarissen een voorziening voor bedrijfsgeneeskundige zorg.
 
-#### Artikel 13
+##### Artikel 13
 
 Wijzigt het Reisbesluit binnenland.
 
-#### Artikel 14
+##### Artikel 14
 
 Wijzigt het Reisbesluit buitenland.
 
-#### Artikel 15
+##### Artikel 15
 
 [Het Verhuis- en verblijfkostenbesluit Ministers en Staatssecretarissen](https://wetten.overheid.nl/jci1.3:c:BWBR0002556) en het [besluit van 15 mei 1992, houdende vergoeding voor ministers en staatssecretarissen voor de kosten die aan de vervulling van het ambt zijn verbonden](https://wetten.overheid.nl/jci1.3:c:BWBR0005514) (Stb. 255) worden ingetrokken.
 
-#### Artikel 16
+##### Artikel 16
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2001.
 
-#### Artikel 17
+##### Artikel 17
 
 Dit besluit wordt aangehaald als: Voorzieningenbesluit ministers en staatssecretarissen.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 6a
+##### Artikel 6a
 
 Ministers en staatssecretarissen hebben recht op de vergoeding van gemaakte kosten voor verlies, diefstal of beschadiging van voor de dienstreis meegenomen noodzakelijke bagage tot ten hoogste het bedrag zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
-#### Artikel 15a
+##### Artikel 15a
 
 Vervallen
 

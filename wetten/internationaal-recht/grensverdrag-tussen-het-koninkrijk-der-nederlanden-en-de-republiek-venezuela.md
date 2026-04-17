@@ -1,13 +1,35 @@
 ---
 title: "Grensverdrag tussen het Koninkrijk der Nederlanden en de Republiek Venezuela"
 identifier: "BWBV0003552"
-categorie: "Internationaal recht"
-publicatiedatum: 1978-12-15
-laatste_update: 1978-12-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003552"
+country: "nl"
+rank: "verdrag"
+publication_date: "1978-12-15"
+last_updated: "1978-12-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003552"
+soort: "verdrag"
+stam_id: "10003585133"
+version_id: "10003643102"
+internal_id: "C10006981091"
+label_id: "10003570594"
+dtd_version: "2.0"
+original_entry_into_force: "1978-12-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003552/1978-12-15/0"
+intitule_bron: "Trb.1978-61"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1978-05-19"
+intitule_in_force: "1979-01-29"
+intitule_status: "goed"
+original_publication: "Trb.1978-61"
+original_published_date: "1978-05-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1978-61"
+entry_into_force_date: "1978-12-15"
+jci_1_3: "jci1.3:c:BWBV0003552&z=1978-12-15&g=1978-12-15"
+jci_1_0: "1.0:c:BWBV0003552&g=1978-12-15"
+citeertitel_status: "redactioneel"
+entry_into_force: "1978-12-15"
 ---
-
 # Grensverdrag tussen het Koninkrijk der Nederlanden en de Republiek Venezuela
 
 Hare Majesteit de Koningin der Nederlanden
@@ -40,13 +62,13 @@ de Heer S. A. Consalvi, Minister van Buitenlandse Zaken van de Republiek Venezue
 
 Die, na hun in behoorlijke en goede vorm bevonden volmachten te hebben uitgewisseld, zijn overeengekomen als volgt:
 
-#### Artikel 1
+##### Artikel 1
 
 1. De zeegrenzen zoals vastgesteld in het onderhavige Verdrag, vormen tussen de Hoge Verdragsluitende Partijen de grenzen van de territoriale zeeën, de continentale platten, de exclusieve economische zones of enige andere zeegebieden met inbegrip van de daaronder gelegen zeebodem en ondergrond die de Partijen, in overeenstemming met het internationale recht, hebben ingesteld of zouden kunnen instellen.
 
 2. Waar in dit Verdrag sprake is van zeegebieden en van de daaronder gelegen zeebodem en ondergrond, worden uitsluitend bedoeld zodanige gebieden in de Caraïbische Zee.
 
-#### Artikel 2
+##### Artikel 2
 
 De zeegrenzen tussen de Nederlandse Antillen en Venezuela zijn:
 
@@ -86,7 +108,7 @@ De zeegrenzen tussen de Nederlandse Antillen en Venezuela zijn:
 
 - 4.2. – van het punt no. 15 een boog van de grootcirkel tot het punt no. 16, op 16°40'01" noorderbreedte en 63°35'20" westerlengte, of tot het punt op deze grootcirkel dat wordt bereikt in de afbakening met derde Staten.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De ligging van de in artikel 2, Sectoren A, B en C beschreven punten is uitgedrukt in breedte en lengte volgens Zuidamerikaanse Coördinaten (Voorlopige Vereffening 1956) (Provisional South American Datum 1956).
 
@@ -94,7 +116,7 @@ De zeegrenzen tussen de Nederlandse Antillen en Venezuela zijn:
 
 3. De grenslijnen zijn bij wijze van illustratie getrokken op de zeekaart nr. 25000 uitgegeven door het Defense Mapping Agency Hydrographic Center, Washington, D.C., 6e uitgave, 12 februari 1977, die wordt toegevoegd aan het onderhavige Verdrag en er een integrerend deel van uitmaakt.1)[Red: De zeekaart is los bij het Tractatenblad gevoegd.]
 
-#### Artikel 4
+##### Artikel 4
 
 1. Ingeval de Nederlandse Antillen, in overeenstemming met het internationale recht, de territoriale zee van de Benedenwindse Eilanden (Aruba, Bonaire, Curaçao) uitbreiden buiten de huidige breedte van drie (3) zeemijlen gemeten van de laagwaterlijn langs de kust, of een rechtsregime instellen in zeegebieden gelegen buiten de huidige territoriale zee van de Benedenwindse Eilanden, zal het regime voor de betrokken zeegebieden, gelegen buiten bovengenoemde afstand van drie (3) zeemijlen, de voorwaarden in acht nemen neergelegd in dit artikel voor de vrijheid van scheepvaart en overvlucht van en naar Venezuela.
 
@@ -122,25 +144,25 @@ De zeegrenzen tussen de Nederlandse Antillen en Venezuela zijn:
 
 8. Maatregelen ter voorkoming, vermindering en beteugeling van verontreiniging, voor zover die van invloed zijn op de scheepvaart in de uitoefening van het recht van doortocht, dienen in onderling goedvinden tussen de Partijen te worden genomen. Dit geldt in het bijzonder ten aanzien van de internationale scheepvaartroutes gelegen in het zeegebied dat zich uitstrekt tussen de Archipiélago de Los Monjes en het eiland Aruba. Het voornoemde vereiste van onderling goedvinden is niet van toepassing voor wetten en voorschriften waarmede de Nederlandse Antillen uitvoering geven aan algemeen aanvaarde internationale voorschriften met betrekking tot de lozing van olie, oliehoudend afval en andere schadelijke stoffen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De betreffende Hoge Verdragsluitende Partij dient een openbare kennisgeving te doen van de bouw of aanwezigheid, in haar territoriale zee of exclusieve economische zone of in de zeegebieden waarop artikel 4 van toepassing is, van kunstmatige eilanden, installaties of inrichtingen onder haar rechtsmacht. Zij dient een permanent waarschuwingssysteem in stand te houden of te doen houden ter aanduiding van de aanwezigheid van voornoemde kunstmatige eilanden, installaties of inrichtingen.
 
 2. Kunstmatige eilanden, installaties en inrichtingen alsmede de veiligheidszones eromheen, waarvan de oprichting of instelling in een zeegebied van een Partij een belemmering kan vormen voor het gebruik van erkende scheepvaartroutes die van wezenlijk belang zijn voor de scheepvaart van en naar de andere Partij, zullen alleen worden opgericht of ingesteld in onderlinge overeenstemming tussen de Partijen.
 
-#### Artikel 6
+##### Artikel 6
 
 Indien eenzelfde geologische structuur of geologisch veld waarin mineralen, aardolie of aardgas voorkomen, zich over de grenslijn uitstrekt en het gedeelte van deze structuur of dit veld dat aan een zijde van de grenslijn is gelegen, geheel of ten dele van de andere zijde van de grenslijn af kan worden geëxploiteerd, streven de Hoge Verdragsluitende Partijen, na het inwinnen van advies op het daarvoor in aanmerking komende technische niveau, ernaar overeenstemming te bereiken zowel over de wijze waarop deze structuur of dit veld zo doelmatig mogelijk kan worden geëxploiteerd als over de wijze waarop de kosten en opbrengsten die daarmede verband houden zullen worden verdeeld.
 
-#### Artikel 7
+##### Artikel 7
 
 Indien een van de Hoge Verdragsluitende Partijen mocht besluiten binnen de afstand van een (1) zeemijl van de grenslijn boorwerkzaamheden voor exploratie of exploitatie uit te voeren of toe te staan, dient zij van deze werkzaamheden kennis te geven aan de andere Partij.
 
-#### Artikel 8
+##### Artikel 8
 
 Indien er een geschil mocht rijzen met betrekking tot de positie van een installatie of andere inrichting, dan wel van een drainagepunt van een boring, ten opzichte van de grenslijn, stellen de Hoge Verdragsluitende Partijen in onderling goedvinden vast aan welke zijde van de grenslijn de installatie of de andere inrichting, dan wel het drainagepunt van de boring, is gelegen.
 
-#### Artikel 9
+##### Artikel 9
 
 Behoudens het bepaalde in artikel 4, achtste lid, zal elke Hoge Verdragsluitende Partij de noodzakelijke maatregelen treffen teneinde het zeemilieu te beschermen tegen vervuiling in de zeegebieden waarop dit Verdrag betrekking heeft. Dientengevolge komen de Partijen overeen:
 
@@ -152,15 +174,15 @@ Behoudens het bepaalde in artikel 4, achtste lid, zal elke Hoge Verdragsluitende
 
 - d. zo spoedig mogelijk een gezamenlijk plan voor noodgevallen op te stellen teneinde handelend op te treden ingeval van vervuiling veroorzaakt door ernstige olielekkages of andere ongevallen van gelijke omvang in het gebied. In dit verband zullen de Partijen gezamenlijk maatregelen vaststellen gericht op het voorkomen of het ongedaan maken van voornoemde vervuiling en op het elkaar verlenen van mogelijke bijstand.
 
-#### Artikel 10
+##### Artikel 10
 
 Teneinde tot een doelmatige instandhouding en exploitatie te geraken van de levende rijkdommen in de wateren grenzend aan beide landen, komen de Hoge Verdragsluitende Partijen overeen, daar waar mogelijk, de wettelijke maatregelen en voorschriften te coördineren die elke Partij neemt.
 
-#### Artikel 11
+##### Artikel 11
 
 De Hoge Verdragsluitende Partijen komen overeen de totstandkoming van wetenschappelijke onderzoekingen van de zee te bevorderen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Enig verschil over de uitlegging of toepassing van de bepalingen vervat in de artikelen 4, 5 en 6 van dit Verdrag, welke artikelen betrekking hebben op scheep- en luchtvaart of op eenzelfde geologische structuur of geologisch veld, dat niet door onderhandelingen tussen de Hoge Verdragsluitende Partijen kon worden geregeld, zal, tenzij de Partijen een andere wijze van beslechting overeenkomen, op verzoek van een hunner worden voorgelegd aan een commissie van deskundigen bestaande uit drie (3) leden. Iedere Partij benoemt een 1 (lid) in de commissie en de twee (2) aldus benoemde leden benoemen samen het derde lid.
 
@@ -168,7 +190,7 @@ De Hoge Verdragsluitende Partijen komen overeen de totstandkoming van wetenschap
 
 3. De commissie van deskundigen stelt haar eigen procedure vast. Alle beslissingen van de commissie worden genomen met meerderheid van stemmen. De beslissingen van de commissie binden de Partijen.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Het onderhavige Verdrag dient te worden bekrachtigd. De akten van bekrachtiging worden zo spoedig mogelijk te Caracas uitgewisseld.
 

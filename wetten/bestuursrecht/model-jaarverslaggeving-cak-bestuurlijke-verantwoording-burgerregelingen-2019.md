@@ -1,13 +1,38 @@
 ---
 title: "Model jaarverslaggeving CAK bestuurlijke verantwoording burgerregelingen 2019"
 identifier: "BWBR0043592"
-categorie: "Bestuursrecht"
-publicatiedatum: 2020-05-30
-laatste_update: 2020-05-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043592"
+country: "nl"
+rank: "zbo"
+publication_date: "2020-05-30"
+last_updated: "2020-05-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043592"
+soort: "zbo"
+stam_id: "15475573"
+version_id: "26743332"
+internal_id: "C37903231"
+label_id: "15419454"
+dtd_version: "2.0"
+original_entry_into_force: "2020-05-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043592/2020-05-30/0"
+intitule_bron: "Stcrt.2020-28911"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-05-12"
+intitule_published: "2020-05-29"
+intitule_in_force: "2020-05-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-28911"
+original_signed_date: "2020-05-12"
+original_published_date: "2020-05-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-28911"
+entry_into_force_date: "2020-05-30"
+jci_1_3: "jci1.3:c:BWBR0043592&z=2020-05-30&g=2020-05-30"
+jci_1_0: "1.0:c:BWBR0043592&g=2020-05-30"
+citeertitel_status: "redactioneel"
+signed_date: "2020-05-12"
+entry_into_force: "2020-05-30"
 ---
-
 # Model jaarverslaggeving CAK bestuurlijke verantwoording burgerregelingen 2019
 
 ### 1. Algemeen

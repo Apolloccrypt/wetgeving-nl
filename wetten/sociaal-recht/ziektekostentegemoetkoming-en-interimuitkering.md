@@ -1,13 +1,37 @@
 ---
 title: "Ziektekostentegemoetkoming en interimuitkering"
 identifier: "BWBR0007287"
-categorie: "Sociaal recht"
-publicatiedatum: 1995-01-01
-laatste_update: 1995-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007287"
+country: "nl"
+rank: "circulaire"
+publication_date: "1995-01-01"
+last_updated: "1995-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007287"
+soort: "circulaire"
+stam_id: "6267103"
+version_id: "10950732"
+internal_id: "C14848241"
+label_id: "6255994"
+original_entry_into_force: "1995-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007287/1995-01-01/0"
+intitule_bron: "Stcrt.1995-62"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-03-16"
+intitule_published: "1995-03-28"
+intitule_in_force: "1995-03-28"
+intitule_status: "goed"
+original_publication: "Stcrt.1995-62"
+original_signed_date: "1995-03-16"
+original_published_date: "1995-03-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1995-62-p12-SC2250"
+entry_into_force_date: "1995-01-01"
+jci_1_3: "jci1.3:c:BWBR0007287&z=1995-01-01&g=1995-01-01"
+jci_1_0: "1.0:c:BWBR0007287&g=1995-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "1995-03-16"
+entry_into_force: "1995-01-01"
 ---
-
 # Ziektekostentegemoetkoming en interimuitkering
 
 Circulaire aan de ministers

@@ -1,13 +1,38 @@
 ---
 title: "Overeenkomst inzake het fonds voor de bestrijding van rivierblindheid (onchocerciasis) 1992"
 identifier: "BWBV0001079"
-categorie: "Internationaal recht"
-publicatiedatum: 1993-03-09
-laatste_update: 1993-03-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001079"
+country: "nl"
+rank: "verdrag"
+publication_date: "1993-03-09"
+last_updated: "1993-03-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001079"
+soort: "verdrag"
+stam_id: "10002334903"
+version_id: "10002345092"
+internal_id: "C10006976351"
+label_id: "10002324974"
+dtd_version: "2.0"
+original_entry_into_force: "1993-03-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001079/1993-03-09/0"
+intitule_bron: "Trb.1992-200"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1993-03-09"
+intitule_published: "1992-12-10"
+intitule_in_force: "1993-05-04"
+intitule_status: "goed"
+original_publication: "Trb.1992-200"
+original_signed_date: "1993-03-09"
+original_published_date: "1992-12-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1992-200"
+entry_into_force_date: "1993-03-09"
+jci_1_3: "jci1.3:c:BWBV0001079&z=1993-03-09&g=1993-03-09"
+jci_1_0: "1.0:c:BWBV0001079&g=1993-03-09"
+citeertitel_status: "redactioneel"
+signed_date: "1993-03-09"
+entry_into_force: "1993-03-09"
 ---
-
 # Overeenkomst inzake het fonds voor de bestrijding van rivierblindheid (onchocerciasis) 1992
 
 Agreement dated February 25, 1992 between the Governments of the Kingdom of Belgium, the French Republic, the Federal Republic of Germany, the Italian Republic, Japan, the State of Kuwait, the Grand Duchy of Luxembourg, the Kingdom of the Netherlands, Portugal, the Kingdom of Saudi Arabia, the Swiss Confederation, the United Kingdom of Great Britain and Northern Ireland, and the United States of America, the African Development Bank, the Commission of the European Economic Communities, the Organization of Petroleum Exporting Countries Fund for International Development (the OPEC Fund), the United Nations Development Programme (UNDP), the World Health Organization (WHO), the International Bank for Reconstruction and Development (the Bank) and the International Development Association (the Association).
@@ -26,7 +51,7 @@ WHO has agreed to continue to serve as Executing Agency for the Programme and in
 
 Now therefore, the parties hereto hereby agree as follows:
 
-#### Article I. Definitions
+##### Article I. Definitions
 
 Unless the context otherwise requires, wherever used in this Agreement, the several terms defined in the Preamble to this Agreement have the respective meanings therein set forth and the following additonal terms have the following meaning:
 
@@ -40,7 +65,7 @@ Unless the context otherwise requires, wherever used in this Agreement, the seve
 
 - 5. "Phase III Fund" means the Fund established under the Onchocerciasis Fund Agreement of February 4, 1986 for the purpose of financing the third phase of the Programme.
 
-#### Article II. Onchocerciasis Fund
+##### Article II. Onchocerciasis Fund
 
 The Phase III Fund shall be closed upon the entry into force of this Agreement. Any monies contributed to the Phase III Fund and remaining undisbursed shall be credited to the Phase IV Fund, together with any other assets or receipts of the Phase III Fund. The Phase IV Fund shall be held in trust and administered by the Bank and used only for the purposes, and in accordance with the provisions, of this Agreement.
 
@@ -48,7 +73,7 @@ The Phase IV Fund and its assets and accounts shall be kept separate and apart f
 
 The Bank shall exercise the same care in the administration and management of the Phase IV Fund and in the discharge of its other functions under this Agreement as it exercises in respect of the administration and management of its own affairs.
 
-#### Article III. Contributions to the Phase IV Fund; Disbursements from the Phase IV Fund; Annual Report
+##### Article III. Contributions to the Phase IV Fund; Disbursements from the Phase IV Fund; Annual Report
 
 The Contributing Parties undertake, subject to the conditions set forth in this Agreement, to assist in financing the cost of the fourth phase of the Programme. The following contributions have been announced:
 
@@ -102,7 +127,7 @@ The Bank shall pay to, or on the order of, WHO out of the monies of the Phase IV
 
 When WHO shall desire to withdraw any amount from the Phase IV Fund, WHO shall deliver to the Bank a written application therefor. Except as the Bank and WHO shall otherwise agree, any such application shall be submitted on a quarterly basis on account of estimated payments to be made during the following quarter.
 
-#### Article IV. Undertakings of WHO
+##### Article IV. Undertakings of WHO
 
 - a). Amounts disbursed from the Phase IV Fund to WHO and any interest earned by such amounts shall be used by WHO exclusively to finance the cost of goods and services required to carry out the fourth phase of the Programme.
 
@@ -114,7 +139,7 @@ WHO shall not, in respect of any year of the fourth phase of the Programme, incu
 
 - b). The CSA will review those documents in time to allow their distribution to all members of the JPC not less than 30 days before the date of the meeting of the JPC at which they will be considered.
 
-#### Article V. Consultation and Termination
+##### Article V. Consultation and Termination
 
 In the event that WHO and/or the Bank shall have determined that circumstances have arisen which lead either party to conclude that it should no longer carry out its obligations hereunder:
 
@@ -124,13 +149,13 @@ In the event that WHO and/or the Bank shall have determined that circumstances h
 
 Without limitation upon the provisions of Section 5.01, this Agreement shall terminate upon completion of the fourth phase of the Programme or upon disbursement from the Phase IV Fund of all amounts required to meet payments to be made by WHO for the fourth phase of the Programme, whichever shall come later.
 
-#### Article VI. Additonal Parties and Contributions
+##### Article VI. Additonal Parties and Contributions
 
 Any government, institution or entity not a Party to this Agreement, may in accordance with such arrangements as shall be agreed with the Bank, become a Contributing Party and shall be bound by this Agreement on the date specified in such arrangements. The Bank shall promptly after such date notify the other Contributing Parties and WHO.
 
 The Bank may receive on behalf of the Phase IV Fund from any government, institution or entity, not wishing to become a Contributing Party, amounts not provided for herein to be held and used as part of the Phase IV Fund subject to the provisions hereof, in accordance with such arrangements, not inconsistent herewith, as the Bank may approve.
 
-#### Article VII. Notices and requests
+##### Article VII. Notices and requests
 
 Any notice or request required or permitted to be given or made under this Agreement shall be in writing.
 
@@ -490,7 +515,7 @@ Fax:
 
 473-8216
 
-#### Article VIII. Entry into force
+##### Article VIII. Entry into force
 
 This Agreement shall enter into force when it shall have been signed without reservation as to acceptance by not less than ten of the Parties named in the Preamble to this Agreement. The Bank shall, on such date, notify all the Parties named in the Preamble.
 
@@ -500,25 +525,25 @@ This Memorandum of Agreement describes the institutional and operational arrange
 
 ## GENERAL PROVISIONS
 
-#### 1
+##### 1
 
 The Programme initiated on 1 January 1974 is a collaborative undertaking of (i) Governments of West Africa in the Programme Area (hereinafter referred to as "Participating Governments"), (ii) the Governments and Organizations contributing to the Onchocerciasis Fund and bound by the Onchocerciasis Fund Agreement (hereinafter referred to as "Contributing Parties") and (iii) UNDP, FAO, the World Bank and WHO (hereinafter referred to as "Sponsoring Agencies").
 
-#### 2
+##### 2
 
 Each Participating Government undertakes to provide the Programme with full support, to honour the commitments laid down in Appendix I, and, as far as its territory is concerned, to maintain the achievements of the Programme, to ensure that there is no recrudescence of the disease following cessation of the operations implemented by the Programme in its area and to promote and support socioeconomic development therein.
 
-#### 3
+##### 3
 
 WHO is the executing agency for the Programme. WHO is also responsible for advising countries in the carrying out of their responsibilities as they relate to the Programme operations and maintenance of disease control and for coordinating any intercountry efforts that may be required in this connection. The World Bank undertakes to use its best efforts to mobilize international resources for the Programme of which the objective and plan of action are described in Appendix II. UNDP, FAO, the World Bank and WHO, within each agency's sphere of competence, assist with socioeconomic development of the areas controlled.
 
-#### 4
+##### 4
 
 The Programme area is that delineated on the map attached as Appendix III. Should the Programme area be modified on approval of the Joint Programme Committee, the new limits shall be delineated on a revised map.
 
 ## PART II. INSTITUTIONAL PROVISIONS
 
-#### 1. Joint Programme Committee (JPC)
+##### 1. Joint Programme Committee (JPC)
 
 1.1. The JPC, consisting of representatives of the Participating Governments, of all Contributing Parties and of the four Sponsoring Agencies shall have the following functions, namely to:
 
@@ -540,7 +565,7 @@ The Programme area is that delineated on the map attached as Appendix III. Shoul
 
 1.5. WHO shall provide the secretariat of the JPC.
 
-#### 2. The Committee of Sponsoring Agencies (CSA)
+##### 2. The Committee of Sponsoring Agencies (CSA)
 
 2.1. This Committee, composed of members appointed by each of the four Sponsoring Agencies, is an organ of preparation and execution.
 
@@ -558,11 +583,11 @@ The Programme area is that delineated on the map attached as Appendix III. Shoul
 
 - (iii). Each Sponsoring Agency shall bear the cost of the expenses incurred by its representative to the Committee in attending meetings of the Committee.
 
-#### 3. Executing Agency
+##### 3. Executing Agency
 
 WHO, as the Executing Agency, shall appoint the Programme Director, shall assign other international staff and other personnel to the Programme as specified in the plans of action, shall provide the Programme with permanent technical and administrative assistance, and shall be responsible for the work plans and budgets and for the implementation of the Programme as approved by the CSA and the JPC.
 
-#### 4. Expert Advisory Committee (EAC)
+##### 4. Expert Advisory Committee (EAC)
 
 4.1. To provide the JPC with independent advice on and evaluation of scientific, technical and ecological matters related to the Programme, the CSA shall appoint an Expert Advisory Committee:
 
@@ -586,7 +611,7 @@ WHO, as the Executing Agency, shall appoint the Programme Director, shall assign
 
 - (v). Costs related to the EAC shall be borne by the Fund.
 
-#### 5. National Onchocerciasis Committee (NOC)
+##### 5. National Onchocerciasis Committee (NOC)
 
 5.1. The major coordinating element at government level shall be the NOC set up by each of the Participating Governments.
 
@@ -612,7 +637,7 @@ WHO, as the Executing Agency, shall appoint the Programme Director, shall assign
 
 5.3. The Programme Director shall be closely associated with the coordination of the work of the different NOCs. The local representatives of the Sponsoring Agencies may assist the respective NOCs as necessary.
 
-#### 1. Legal arrangements
+##### 1. Legal arrangements
 
 Legal arrangements to cover the operations undertaken under the Programme shall be governed by the provisions of the respective standard and basic agreements concluded between each of the Sponsoring Agencies and the Participating Governments.
 
@@ -620,7 +645,7 @@ Without restricting their generality, these agreements shall cover the privilege
 
 Nationals and permanent residents of the Participating Countries appointed by the Executing Agency to serve on the staff of the Programme shall be employed in accordance with the Staff Regulations and Rules of the World Health Organization.
 
-#### 2. Sub-Contractors and their personnel
+##### 2. Sub-Contractors and their personnel
 
 Sub-Contractors of the Executing Agency or of any other Sponsoring Agency and their staff (except for nationals of the countries concerned employed on a local basis):
 
@@ -650,37 +675,37 @@ The privileges and immunities to which such firm or organization and its personn
 
 The Executing Agency shall provide the Participating Governments with the list of personnel to whom the privileges and immunities enumerated above shall apply.
 
-#### 3. Customs and tax exemption
+##### 3. Customs and tax exemption
 
 The Participating Governments shall waive or defray any customs duties and other charges related to the clearance of the equipment and supplies including spare parts, fuel, lubricants, insecticides, imported for the purposes of the Programme.
 
-#### 4. Documentation, technical information and reports
+##### 4. Documentation, technical information and reports
 
 Subject to security regulations in force, the Participating Governments shall provide access to all technical reports, maps, files and other items of information, whether published or not, that may be regarded as necessary for the execution of the Programme.
 
 The Participating Governments shall provide the Programme free of charge, by the swiftest means, with the meteorological and hydrological information needed for the proper execution of the operations.
 
-#### 5. Overflight and landing rights
+##### 5. Overflight and landing rights
 
 Each Participating Government shall take the necessary steps to facilitate the crossing of borders by the Programme's aircraft on flights from or to adjacent countries, it being understood that full flight plan information shall be made available by the Programme to the national civil aviation authorities involved. Similarly, the crossing of borders by ground teams shall be facilitated by each Participating Government.
 
-#### 6. Assistance from aviation services
+##### 6. Assistance from aviation services
 
 The Participating Governments shall make the necessary arrangements to ensure that the aircraft used by the Programme can receive assistance from the national civil (and possibly military) aviation services and use the corresponding infrastructure free of charge.
 
-#### 7. Telecommunication network
+##### 7. Telecommunication network
 
 The Participating Governments agree that an intercountry telecommunications network for the Programme may be maintained by the Executing Agency as Operating Agency for this purpose. The Governments, having reached agreement on the frequencies that may be allocated to the Programme for this network, shall authorize the Executing Agency to use them continuously for technical requirements within the Programme area free of charge.
 
-#### 8. Sites and constructions
+##### 8. Sites and constructions
 
 The Participating Governments shall make available to the Programme, for the whole period of its execution, the land needed for constructions required by the Programme, where such constructions do not exist and cannot be provided by the national authorities.
 
-#### 9. Water, electricity, postal services and telecommunications
+##### 9. Water, electricity, postal services and telecommunications
 
 The Participating Governments shall ensure that the headquarters, sectors and subsectors of the Programme are supplied where available with water and electricity and with telephone and telegraph services within their territories.
 
-#### 10. Disposition of equipment and supplies
+##### 10. Disposition of equipment and supplies
 
 All material, equipment and supplies which are purchased from the resources of the Programme shall be used exclusively for the execution of the project, and shall remain the property of the Programme in whose name it shall be held by the Executing Agency.
 
@@ -688,7 +713,7 @@ Arrangements may be made, if necessary, for a temporary transfer of custody of e
 
 Prior to the completion of the Programme, the Participating Governments and the Executing Agency shall consult as to the disposition of all project equipment provided by the Programme. Title to such equipment shall normally be transferred to the Participating Governments or to entities nominated by them, when it is required for continued operation of the Programme or for activities following directly therefrom. The Executing Agency may, however, at its discretion, retain title to part or all of such equipment.
 
-#### 11. Contributions of the Participating Governments
+##### 11. Contributions of the Participating Governments
 
 During the fourth stage of the Programme, the Participating Governments shall become increasingly involved in undertaking control activities in the context of devolution, including the provision of national staff at the operational disposal of the Programme. The specific contributions of each Participating Government are fixed in special protocols covering operations in each country concluded between the Government and the Executing Agency.
 

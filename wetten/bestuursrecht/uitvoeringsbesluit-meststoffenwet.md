@@ -1,13 +1,39 @@
 ---
-title: "Uitvoeringsbesluit Meststoffenwet"
+title: "Besluit van 9 november 2005, houdende regels ter uitvoering van de Meststoffenwet (Uitvoeringsbesluit Meststoffenwet)"
 identifier: "BWBR0019031"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-12-09
-laatste_update: 2025-12-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019031"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-12-09"
+last_updated: "2025-12-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019031"
+soort: "AMvB"
+stam_id: "7773673"
+version_id: "24059902"
+internal_id: "C34570161"
+label_id: "7762054"
+dtd_version: "2.0"
+original_entry_into_force: "2017-04-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019031/2025-12-09/0"
+intitule_bron: "Stb.2005-645"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-11-09"
+intitule_published: "2005-12-29"
+intitule_in_force: "2005-12-29"
+intitule_status: "goed"
+original_publication: "Stb.2017-165"
+original_signed_date: "2017-04-07"
+original_published_date: "2017-04-18"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2017-165"
+entry_into_force_date: "2017-04-19"
+jci_1_3: "jci1.3:c:BWBR0019031&z=2025-12-09&g=2025-12-09"
+jci_1_0: "1.0:c:BWBR0019031&g=2025-12-09"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsbesluit Meststoffenwet"
+signed_date: "2017-04-07"
+entry_into_force: "2017-04-19"
 ---
-
 # Besluit van 9 november 2005, houdende regels ter uitvoering van de Meststoffenwet (Uitvoeringsbesluit Meststoffenwet)
 
 Op de voordracht van Onze Minister van Landbouw, Natuur en Voedselkwaliteit van 5 juli 2005, nr. TRCJZ/2005/848, Directie Juridische Zaken, gedaan mede namens de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
@@ -24,7 +50,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk I. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -94,29 +120,29 @@ Hebben goedgevonden en verstaan:
 
 2. Onder primaire nutriënten, secundaire nutriënten, micronutriënten, vloeibare meststof en fabrikant wordt verstaan hetgeen daaronder in de meststoffenverordening wordt verstaan.
 
-#### Artikel 2
+##### Artikel 2
 
 Voor de toepassing van dit besluit, met uitzondering van [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=V&z=2025-12-09&g=2025-12-09), worden de hoeveelheden meststoffen uitgedrukt in kilogrammen of liters alsmede in kilogrammen stikstof en kilogrammen fosfaat.
 
 ### Hoofdstuk II. Aanwijzing veengronden, zand- of lössgronden en kleigronden
 
-#### Artikel 3
+##### Artikel 3
 
 Als de kaarten, bedoeld in [artikel 1, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=1), worden vastgesteld de kaarten die zijn opgenomen als bijlage I bij dit besluit.
 
 ### Hoofdstuk III. Verhandelen van meststoffen
 
-#### Artikelen 4 t/m 21
+##### Artikelen 4 t/m 21
 
 (gereserveerd)
 
 ### Hoofdstuk IV. Gebruiksnormen en opgave basisregistratie percelen
 
-#### Artikel 22
+##### Artikel 22
 
 Voor de toepassing van [artikel 9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=9) is de tot het bedrijf behorende oppervlakte landbouwgrond in enig kalenderjaar de oppervlakte landbouwgrond die op 15 mei van dat jaar tot het bedrijf behoort.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Voor de toepassing van [artikel 10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=10) is de tot het bedrijf behorende oppervlakte landbouwgrond in enig kalenderjaar de op 15 mei van dat jaar beteelde oppervlakte landbouwgrond die tot het bedrijf behoort.
 
@@ -124,15 +150,15 @@ Voor de toepassing van [artikel 9 van de wet](https://wetten.overheid.nl/jci1.3:
 
 3. De beteelde oppervlakte landbouwgrond wordt onderscheiden naar de geteelde gewassen, de toegepaste landbouwpraktijk, de ecologische kenmerken van een waterlichaam, de kenmerken van de bodem en de desbetreffende grondsoorten, bedoeld in [artikel 10, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=10), voor zover dit onderscheid wordt gemaakt in de krachtens [artikel 10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=10), vastgestelde ministeriële regeling.
 
-#### Artikel 24
+##### Artikel 24
 
 Voor de toepassing van [artikel 11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=11), en de krachtens artikel 11, tweede lid, van de wet vastgestelde ministeriële regeling is de tot het bedrijf behorende oppervlakte grasland of bouwland in enig kalenderjaar de oppervlakte grasland onderscheidenlijk bouwland die op 15 mei van dat jaar tot het bedrijf behoort.
 
-#### Artikel 25
+##### Artikel 25
 
 Voor de toepassing van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=9), [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=10), [11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=11) en de krachtens artikel 11, tweede lid, van de wet vastgestelde ministeriële regeling worden de bufferstroken, bedoeld in de [artikelen 4.1199c](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1199c) en [4.1212b van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1212b), niet aangemerkt als tot het bedrijf behorende oppervlakte landbouwgrond.
 
-#### Artikel 26
+##### Artikel 26
 
 1. De landbouwer verstrekt elk kalenderjaar aan Onze Minister gegevens met betrekking tot:
 
@@ -152,13 +178,13 @@ Voor de toepassing van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 ### Hoofdstuk V. Opslagcapaciteit dierlijke meststoffen
 
-#### Artikel 27
+##### Artikel 27
 
 1. Voor de toepassing van dit hoofdstuk wordt als opslagruimte voor meststoffen uitsluitend in aanmerking genomen de opslagruimte voor dierlijke meststoffen die onder de reikwijdte van [paragraaf 3.3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&paragraaf=3.3.14), [3.6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&paragraaf=3.6.1) of [3.6.8 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&paragraaf=3.6.8) valt.
 
 2. Voor de toepassing van dit hoofdstuk wordt de hoeveelheid dierlijke meststoffen uitgedrukt in kubieke meters.
 
-#### Artikel 28
+##### Artikel 28
 
 1. De producent van dierlijke meststoffen draagt er zorg voor dat de capaciteit van de opslagruimte voor dierlijke meststoffen op het bedrijf voldoende is voor de opslag van de hoeveelheid dierlijke meststoffen die in de periode van augustus tot en met februari op het bedrijf wordt geproduceerd.
 
@@ -172,7 +198,7 @@ Voor de toepassing van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 4. De in het tweede lid, onderdeel b, bedoelde productienormen kunnen verschillend worden vastgesteld al naar gelang het gehanteerde bedrijfssysteem.
 
-#### Artikel 29
+##### Artikel 29
 
 1. De capaciteit van de opslagruimte voor dierlijke meststoffen kan kleiner zijn dan de ingevolge [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=V&artikel=28&z=2025-12-09&g=2025-12-09) vereiste capaciteit, voor zover de producent van dierlijke meststoffen kan aantonen dat:
 
@@ -186,13 +212,13 @@ Voor de toepassing van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 2. Het eerste lid, aanhef en onderdeel b, geldt niet voor de hoeveelheid dierlijke meststoffen die in februari wordt geproduceerd.
 
-#### Artikel 30
+##### Artikel 30
 
 Ingeval de producent kan aantonen dat, als gevolg van bijzondere omstandigheden betreffende de soort of de categorie van de gehouden dieren, het huisvestingssysteem, het drinkwatersysteem, de samenstelling van het diervoeder of andere aspecten van het bedrijfssysteem, de hoeveelheid dierlijke meststoffen per dier lager is dan de krachtens [artikel 28, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=V&artikel=28&z=2025-12-09&g=2025-12-09), vastgestelde norm, geldt deze lagere waarde voor de toepassing van de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=V&artikel=28&z=2025-12-09&g=2025-12-09) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=V&artikel=29&z=2025-12-09&g=2025-12-09).
 
 ### Hoofdstuk VI. Administratieve verplichtingen landbouwbedrijven
 
-#### Artikel 31
+##### Artikel 31
 
 1. De landbouwer meldt elk van zijn bedrijven afzonderlijk ter registratie aan bij Onze Minister.
 
@@ -214,7 +240,7 @@ Ingeval de producent kan aantonen dat, als gevolg van bijzondere omstandigheden 
 
 4. Voor zover de in het tweede lid bedoelde gegevens worden verstrekt op grond van de krachtens de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&artikel=24) en [25 van de Landbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&artikel=25) of de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005662&artikel=4), [10 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005662&artikel=10) en [96 van de Gezondheids- en welzijnswet voor dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0005662&artikel=96) gestelde regels, behoeven deze niet nogmaals te worden verstrekt. De registratie van deze gegevens geldt als registratie in de zin van het eerste en tweede lid.
 
-#### Artikel 32
+##### Artikel 32
 
 1. De landbouwer houdt per bedrijf en per kalenderjaar een inzichtelijke administratie bij.
 
@@ -254,7 +280,7 @@ Ingeval de producent kan aantonen dat, als gevolg van bijzondere omstandigheden 
 
 3. De landbouwer bewaart de mestverwerkingsovereenkomsten, en de overeenkomsten, bedoeld in [artikel 21, tweede lid, onderdeel d, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=21) en [artikel 33a, tweede lid, onderdeel e, en derde lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=33a), als onderdeel van zijn administratie.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Indien op een bedrijf dierlijke meststoffen worden geproduceerd afkomstig van melkkoeien, bevat de administratie, bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=32&z=2025-12-09&g=2025-12-09), tevens gegevens over:
 
@@ -286,7 +312,7 @@ Ingeval de producent kan aantonen dat, als gevolg van bijzondere omstandigheden 
 
 4. De gegevens inzake de hoeveelheden koemelk, diervoeders, eieren en de stoffen, bedoeld in het derde lid, onderdeel c, worden uitgedrukt in kilogrammen en, met uitzondering van koemelk, in kilogrammen stikstof en fosfaat.
 
-#### Artikel 34
+##### Artikel 34
 
 1. De administratie wordt per kalenderjaar, tijdig, volledig en naar waarheid bijgehouden.
 
@@ -298,7 +324,7 @@ Ingeval de producent kan aantonen dat, als gevolg van bijzondere omstandigheden 
 
 - b. voor zover het de gegevens, bedoeld in de [artikelen 32, tweede lid, aanhef en onderdelen b en e](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=32&z=2025-12-09&g=2025-12-09), en [33, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=33&z=2025-12-09&g=2025-12-09), betreft.
 
-#### Artikel 35
+##### Artikel 35
 
 1. De landbouwer verstrekt jaarlijks gegevens uit de administratie aan Onze Minister. Verstrekking geschiedt uitsluitend langs elektronische weg.
 
@@ -306,7 +332,7 @@ Ingeval de producent kan aantonen dat, als gevolg van bijzondere omstandigheden 
 
 3. De ingevolge het eerste en tweede lid verstrekte gegevens kunnen mede worden gebruikt voor de kwaliteitsbeoordeling van een PRTR-verslag, bedoeld in artikel 9, tweede lid, van de EG-verordening PRTR.
 
-#### Artikel 36
+##### Artikel 36
 
 Bij ministeriële regeling kunnen regels worden gesteld over:
 
@@ -322,13 +348,13 @@ Bij ministeriële regeling kunnen regels worden gesteld over:
 
 - f. de omvang van het grensgebied, bedoeld in [artikel 32, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=32&z=2025-12-09&g=2025-12-09).
 
-#### Artikel 37
+##### Artikel 37
 
 De op grond van dit hoofdstuk en [hoofdstuk IX](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&z=2025-12-09&g=2025-12-09) bij te houden of te verstrekken gegevens worden desgevraagd ten genoegen van Onze Minister gestaafd met bewijsstukken.
 
 ### Hoofdstuk VII. Administratieve verplichtingen intermediairs
 
-#### Artikel 38
+##### Artikel 38
 
 1. De intermediair meldt elk van zijn intermediaire ondernemingen afzonderlijk ter registratie aan bij Onze Minister.
 
@@ -354,7 +380,7 @@ De op grond van dit hoofdstuk en [hoofdstuk IX](https://wetten.overheid.nl/jci1.
 
 3. Voor zover de in het tweede lid bedoelde gegevens zijn verstrekt op grond van de [Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054) en niet zijn gewijzigd, behoeven deze niet opnieuw te worden verstrekt. De registratie van deze gegevens geldt als registratie in de zin van het eerste en tweede lid.
 
-#### Artikel 39
+##### Artikel 39
 
 1. De intermediair houdt per onderneming een inzichtelijke administratie bij.
 
@@ -388,13 +414,13 @@ De op grond van dit hoofdstuk en [hoofdstuk IX](https://wetten.overheid.nl/jci1.
 
 - b. de positiegegevens van het betreffende transportmiddel waarmee de gedurende het vervoer afgelegde route inzichtelijk kan worden gemaakt.
 
-#### Artikel 40
+##### Artikel 40
 
 1. De intermediair verstrekt jaarlijks gegevens uit de administratie aan Onze Minister.
 
 2. De intermediair verstrekt desgevraagd door Onze Minister gegevens uit de administratie, binnen een door Onze Minister bepaalde termijn en op een door Onze Minister bepaalde wijze. Verstrekking geschiedt uitsluitend langs elektronische weg.
 
-#### Artikel 41
+##### Artikel 41
 
 Bij ministeriële regeling kunnen regels worden gesteld over:
 
@@ -410,13 +436,13 @@ Bij ministeriële regeling kunnen regels worden gesteld over:
 
 - f. het aanbrengen van aanduidingen op de opslagruimten voor meststoffen ter identificatie van deze ruimten.
 
-#### Artikel 42
+##### Artikel 42
 
 De op grond van dit hoofdstuk en [hoofdstuk IX](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&z=2025-12-09&g=2025-12-09) bij te houden of te verstrekken gegevens worden desgevraagd ten genoegen van Onze Minister gestaafd met bewijsstukken.
 
 ### Hoofdstuk IV. Gebruiksnormen, tot het bedrijf behorende oppervlakte landbouwgrond en opgave basisregistratie percelen
 
-#### Artikel 43
+##### Artikel 43
 
 1. De ondernemer, die een of meer ondernemingen voert in het kader waarvan diervoeders worden afgeleverd aan een bedrijf met staldieren of runderen, of in het kader waarvan van bedrijven afgenomen koemelk wordt verwerkt, meldt elk van deze ondernemingen afzonderlijk ter registratie aan bij Onze Minister.
 
@@ -438,7 +464,7 @@ De op grond van dit hoofdstuk en [hoofdstuk IX](https://wetten.overheid.nl/jci1.
 
 5. Voor zover de in het derde lid bedoelde gegevens worden verstrekt op grond van de krachtens [artikel 6.4 van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=6.4) met betrekking tot diervoeders gestelde regels of de krachtens de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&artikel=27) en [28 van de Landbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&artikel=28) gestelde regels, behoeven deze niet nogmaals te worden verstrekt. De registratie van deze gegevens geldt als registratie in de zin van het eerste en tweede lid.
 
-#### Artikel 44
+##### Artikel 44
 
 1. De ondernemer, bedoeld in [artikel 43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=43&z=2025-12-09&g=2025-12-09), houdt per onderneming een inzichtelijke administratie bij.
 
@@ -472,7 +498,7 @@ De op grond van dit hoofdstuk en [hoofdstuk IX](https://wetten.overheid.nl/jci1.
 
 7. [Artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=34&z=2025-12-09&g=2025-12-09) is op de administratie, bedoeld in het eerste en derde lid, van overeenkomstige toepassing.
 
-#### Artikel 45
+##### Artikel 45
 
 1. De ondernemer, bedoeld in [artikel 43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=43&z=2025-12-09&g=2025-12-09) en de ondernemer in het kader van wiens onderneming zuiveringsslib wordt verhandeld, verstrekt jaarlijks gegevens uit de administratie aan Onze Minister.
 
@@ -484,7 +510,7 @@ De op grond van dit hoofdstuk en [hoofdstuk IX](https://wetten.overheid.nl/jci1.
 
 5. De ondernemer, bedoeld in [artikel 43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=43&z=2025-12-09&g=2025-12-09), of [artikel 44, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=44&z=2025-12-09&g=2025-12-09), verstrekt desgevraagd door Onze Minister gegevens uit de administratie, binnen een door Onze Minister bepaalde termijn en op een door Onze Minister bepaalde wijze.
 
-#### Artikel 46
+##### Artikel 46
 
 1. Bij ministeriële regeling kunnen regels worden gesteld over:
 
@@ -500,7 +526,7 @@ De op grond van dit hoofdstuk en [hoofdstuk IX](https://wetten.overheid.nl/jci1.
 
 2. Bij ministeriële regeling kan het hebben van een identificatienummer worden voorgeschreven voor bij die ministeriële regeling omschreven gevallen waarin meststoffen worden aangevoerd dan wel afgevoerd naar een persoon, niet zijnde een landbouwer of ondernemer.
 
-#### Artikel 47
+##### Artikel 47
 
 De op grond van dit hoofdstuk bij te houden of te verstrekken gegevens worden desgevraagd ten genoegen van Onze Minister gestaafd met bewijsstukken.
 
@@ -508,11 +534,11 @@ De op grond van dit hoofdstuk bij te houden of te verstrekken gegevens worden de
 
 #### Paragraaf 1. Vervoer van dierlijke meststoffen, zuiveringsslib en compost
 
-#### Artikel 48
+##### Artikel 48
 
 Dierlijke meststoffen worden vervoerd door een intermediair wiens onderneming in het kader waarvan het vervoer plaatsvindt overeenkomstig [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VII&artikel=38&z=2025-12-09&g=2025-12-09) is geregistreerd.
 
-#### Artikel 49
+##### Artikel 49
 
 1. Vervoer van dierlijke meststoffen geschiedt met behulp van een satellietvolgsysteem en apparatuur voor gegevensregistratie.
 
@@ -528,7 +554,7 @@ Dierlijke meststoffen worden vervoerd door een intermediair wiens onderneming in
 
 4. De krachtens het derde lid te stellen regels kunnen voor verschillende categorieën vervoerders, mestsoorten, herkomst of beoogde bestemming verschillend worden vastgesteld.
 
-#### Artikel 50
+##### Artikel 50
 
 1. Voorafgaand aan het vervoer van dierlijke meststoffen doet de vervoerder langs elektronische weg daarvan mededeling aan de minister.
 
@@ -550,7 +576,7 @@ Dierlijke meststoffen worden vervoerd door een intermediair wiens onderneming in
 
 5. Bij ministeriële regeling kunnen regels worden gesteld over de mogelijkheid tot het wijzigen, aanvullen dan wel intrekken van de mededeling en de gegevens die daarbij zijn verstrekt en het moment waarop dit kan plaatsvinden.
 
-#### Artikel 51
+##### Artikel 51
 
 1. Bij het vervoer van dierlijke meststoffen wordt gebruik gemaakt van een door de minister beschikbaar gesteld systeem.
 
@@ -588,7 +614,7 @@ Dierlijke meststoffen worden vervoerd door een intermediair wiens onderneming in
 
 11. Bij ministeriële regeling kunnen regels worden gesteld over de wijze waarop toegang tot het systeem kan worden verkregen.
 
-#### Artikel 52
+##### Artikel 52
 
 1. Bij ministeriële regeling worden regels gesteld voor situaties waarin het niet mogelijk is om gebruik te maken van dan wel gegevens te verstrekken aan het door de minister beschikbaar gestelde systeem, bedoeld in [artikel 51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=1&artikel=51&z=2025-12-09&g=2025-12-09).
 
@@ -620,17 +646,17 @@ Dierlijke meststoffen worden vervoerd door een intermediair wiens onderneming in
 
 #### Paragraaf 2. Vervoersbewijs dierlijke meststoffen
 
-#### Artikel 53
+##### Artikel 53
 
 Vervallen
 
-#### Artikel 54
+##### Artikel 54
 
 Vervallen
 
 #### Paragraaf 3. Afleveringsbewijs zuiveringsslib en compost
 
-#### Artikel 55
+##### Artikel 55
 
 1. Ter zake van het vervoer van zuiveringsslib, compost en bij ministeriële regeling aangewezen overige organische meststoffen, wordt door de leverancier, de vervoerder en de afnemer gezamenlijk een vervoersbewijs opgemaakt.
 
@@ -654,7 +680,7 @@ Vervallen
 
 7. Voor de ondertekening van het vervoersbewijs kunnen de leverancier, de vervoerder en de afnemer elkaar niet machtigen.
 
-#### Artikel 56
+##### Artikel 56
 
 Bij ministeriële regeling kunnen regels worden gesteld over:
 
@@ -670,19 +696,19 @@ Bij ministeriële regeling kunnen regels worden gesteld over:
 
 #### Paragraaf 4. Grensoverschrijdende overbrenging
 
-#### Artikel 57
+##### Artikel 57
 
 Een verwerker verwerkt de hoeveelheid dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat, waarvoor hij met betrekking tot een kalenderjaar mestverwerkingsovereenkomsten heeft gesloten, binnen een bij ministeriële regeling te stellen periode.
 
-#### Artikel 58
+##### Artikel 58
 
 Bij ministeriële regeling aan te wijzen soorten dierlijke meststoffen tellen niet mee voor het voldoen aan de verplichting, bedoeld in [artikel 33d, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=33d).
 
-#### Artikel 59
+##### Artikel 59
 
 Een overeenkomst gesloten tussen een landbouwer die op zijn bedrijf voor meer dan de helft dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat, van kippen of kalkoenen produceert, en een landbouwer die op zijn bedrijf voor meer dan de helft dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat, van één of meer andere diersoorten of diercategorieën produceert, geldt niet als overeenkomst als bedoeld in [artikel 33a, derde lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=33a).
 
-#### Artikel 60
+##### Artikel 60
 
 Bij ministeriële regeling kunnen nadere regels worden gesteld inzake:
 
@@ -690,29 +716,29 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld inzake:
 
 - b. de elektronische melding, bedoeld in [artikel 33b, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=33b).
 
-#### Artikel 61
+##### Artikel 61
 
 Als huisvestingssysteem als bedoeld in [artikel 33a, tweede lid, onderdeel d, onder 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=33a) wordt aangewezen een huisvestingssysteem waarbij minimaal tweederde van de oppervlakte van de leefruimte van de dieren is ingestrooid met stro.
 
-#### Artikel 62
+##### Artikel 62
 
 Vervallen
 
-#### Artikel 63
+##### Artikel 63
 
 Vervallen
 
-#### Artikel 64
+##### Artikel 64
 
 Vervallen
 
 ### Hoofdstuk VIII. Administratieve verplichtingen overige leveranciers en afnemers bedrijven
 
-#### Artikel 65
+##### Artikel 65
 
 De aantallen dieren en hoeveelheden meststoffen, diervoeders, melk en eieren, de fosfaattoestand van de bodem en de gewasopbrengst ter zake waarvan een landbouwer of een ondernemer ingevolge de bij of krachtens dit besluit gestelde regels gegevens in zijn administratie moet opnemen of gegevens moet verstrekken worden bepaald overeenkomstig dit hoofdstuk.
 
-#### Artikel 66
+##### Artikel 66
 
 1. De door graasdieren, niet zijnde melkkoeien, in een kalenderjaar op een bedrijf geproduceerde hoeveelheid dierlijke meststoffen wordt bepaald op basis van het gemiddelde aantal in het desbetreffende kalenderjaar op het bedrijf gehouden of anderszins aanwezige dieren, onderscheiden naar diersoort en diercategorieën per soort, voor zover dit onderscheid wordt gemaakt in de krachtens de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=36&z=2025-12-09&g=2025-12-09) of [70, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=70&z=2025-12-09&g=2025-12-09), gestelde regels en op basis van forfaitaire productienormen, uitgedrukt in kilogrammen stikstof en in kilogrammen fosfaat, per dier per jaar.
 
@@ -740,7 +766,7 @@ De aantallen dieren en hoeveelheden meststoffen, diervoeders, melk en eieren, de
 
 - 5°. de aan het eind van het desbetreffende kalenderjaar op het bedrijf aanwezige voorraden diervoeders bestemd voor de staldieren en door de staldieren geproduceerde eieren alsmede de aanwezige staldieren.
 
-#### Artikel 67
+##### Artikel 67
 
 1. De in [artikel 66, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=66&z=2025-12-09&g=2025-12-09), bedoelde hoeveelheid stikstof en de hoeveelheid fosfaat in de op een bedrijf aan- of afgevoerde, dan wel de op het bedrijf aanwezige voorraden diervoeders worden bepaald op basis van het gewicht of het volume en het stikstofgehalte, onderscheidenlijk fosfaatgehalte van de desbetreffende diervoeders.
 
@@ -752,7 +778,7 @@ De aantallen dieren en hoeveelheden meststoffen, diervoeders, melk en eieren, de
 
 5. De in [artikel 66, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=66&z=2025-12-09&g=2025-12-09), bedoelde hoeveelheid stikstof die in gasvorm verloren gaat wordt bepaald op basis van het gemiddelde aantal in het desbetreffende kalenderjaar op het bedrijf gehouden of anderszins aanwezige dieren en forfaitaire stikstofgehalten per dier.
 
-#### Artikel 68
+##### Artikel 68
 
 1. De op een bedrijf of onderneming in het kader waarvan meststoffen worden verhandeld aangevoerde hoeveelheid meststoffen, de van een bedrijf of onderneming afgevoerde hoeveelheid meststoffen en de binnen een onderneming in het kader waarvan meststoffen worden verhandeld vervoerde hoeveelheid meststoffen worden bepaald op basis van het gewicht of het volume en het stikstofgehalte, onderscheidenlijk fosfaatgehalte van de desbetreffende meststoffen.
 
@@ -764,13 +790,13 @@ De aantallen dieren en hoeveelheden meststoffen, diervoeders, melk en eieren, de
 
 5. De op een onderneming in het kader waarvan meststoffen worden verhandeld of op een bedrijf waar geen dierlijke meststoffen worden geproduceerd opgeslagen hoeveelheid meststoffen wordt bepaald op basis van het gewicht of het volume en het stikstofgehalte, onderscheidenlijk fosfaatgehalte van de desbetreffende meststoffen.
 
-#### Artikel 69
+##### Artikel 69
 
 1. Het gemiddelde aantal in een kalenderjaar op een bedrijf gehouden varkens, kippen en kalkoenen, onderscheiden naar diercategorieën per soort overeenkomstig [bijlage II van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&bijlage=II), alsmede runderen, onderscheiden naar diercategorie, voor zover dit onderscheid wordt gemaakt in de krachtens de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=36&z=2025-12-09&g=2025-12-09) of [70, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=70&z=2025-12-09&g=2025-12-09), gestelde regels, wordt bepaald door de som van de dagelijkse aanwezige aantallen van deze dieren, te delen door het aantal dagen van het desbetreffende kalenderjaar.
 
 2. Het gemiddelde aantal in een kalenderjaar voor gebruiks- en winstdoeleinden op het bedrijf gehouden dan wel anderszins aanwezige dieren, anders dan runderen, varkens, kippen en kalkoenen, onderscheiden naar diersoorten en diercategorieën per soort, voor zover dit onderscheid wordt gemaakt in de krachtens de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=36&z=2025-12-09&g=2025-12-09) of [70](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=70&z=2025-12-09&g=2025-12-09) gestelde regels, wordt bepaald door de som van de op de eerste dag van iedere maand aanwezige aantallen van deze dieren, te delen door twaalf.
 
-#### Artikel 70
+##### Artikel 70
 
 1. Bij ministeriële regeling worden vastgesteld:
 
@@ -802,11 +828,11 @@ De aantallen dieren en hoeveelheden meststoffen, diervoeders, melk en eieren, de
 
 ### Hoofdstuk IX. Vervoer van meststoffen
 
-#### Artikel 71
+##### Artikel 71
 
 Vervallen
 
-#### Artikel 72
+##### Artikel 72
 
 1. Op verzoek van een landbouwer met een nieuw gestart bedrijf, verhoogt Onze Minister het fosfaatrecht, bedoeld in [artikel 23, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=23).
 
@@ -830,7 +856,7 @@ Vervallen
 
 6. Een bedrijf dat op 2 juli 2015 vrouwelijk jongvee voor de melkveehouderij hield en dat tussen 2 juli 2015 en 1 januari 2018 is gestart met de productie van melk bestemd voor consumptie of verwerking, wordt in afwijking van het tweede lid, onderdeel c, aangemerkt als nieuw gestart bedrijf. In afwijking van het vijfde lid, wordt het verzoek door een landbouwer op grond van dit artikellid ingediend voor 15 oktober 2018.
 
-#### Artikel 73
+##### Artikel 73
 
 1. De hoogte van de op grond van [artikel 62, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=62) te bepalen bestuurlijke boete bedraagt voor de volgende categorieën:
 
@@ -846,7 +872,7 @@ Vervallen
 
 2. Bij ministeriële regeling wordt per overtreding de hoogte van de bestuurlijke boete aangewezen overeenkomstig het eerste lid.
 
-#### Artikel 74
+##### Artikel 74
 
 1. Het percentage, bedoeld in [artikel 32, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=32), waartoe de vergroting van het varkensrecht wordt beperkt, bedraagt 100 procent.
 
@@ -854,7 +880,7 @@ Vervallen
 
 3. Het percentage, bedoeld in [artikel 32a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=32a), waartoe de vergroting van het fosfaatrecht wordt beperkt, bedraagt 70 procent.
 
-#### Artikel 75
+##### Artikel 75
 
 Het percentage, bedoeld in [artikel 33, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=33), waarmee het op het bedrijf rustende productierecht op het moment van de bedrijfsoverdracht wordt verlaagd, bedraagt:
 
@@ -864,19 +890,19 @@ Het percentage, bedoeld in [artikel 33, eerste lid, van de wet](https://wetten.o
 
 - c. 30 procent in geval van een fosfaatrecht.
 
-#### Artikel 76
+##### Artikel 76
 
 Wijzigt het Destructiebesluit.
 
-#### Artikel 77
+##### Artikel 77
 
 Vervallen
 
-#### Artikel 78
+##### Artikel 78
 
 Dit besluit treedt in werking met ingang van 1 januari 2006.
 
-#### Artikel 79
+##### Artikel 79
 
 Dit besluit wordt aangehaald als: Uitvoeringsbesluit Meststoffenwet.
 
@@ -912,7 +938,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### Paragraaf 1. Algemene eisen
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het is verboden meststoffen te verhandelen.
 
@@ -940,7 +966,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 4. Het is verboden meststoffen, niet zijnde EG-meststoffen, met de aanduiding «EG-meststof» te verhandelen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Meststoffen, met uitzondering van zuiveringsslib, compost en herwonnen fosfaten, zijn niet geheel of gedeeltelijk geproduceerd uit afvalstoffen of uit reststoffen, tenzij het betreft de krachtens het tweede lid aangewezen stoffen.
 
@@ -952,7 +978,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - b. afvalwaterstromen die gelet op de op grond van [artikel 4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.3), of [artikel 4.6, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.6) gestelde regels of de op grond van [artikel 4.5, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.5) gestelde maatwerkvoorschriften of vergunningvoorschriften gelijkmatig over de landbouwgronden verspreid mogen worden.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De meststof verkeert in een voor de praktijk bruikbare toestand en is gelijkmatig van samenstelling.
 
@@ -960,17 +986,17 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 3. De meststof heeft onder normale gebruiksomstandigheden geen schadelijke gevolgen voor de gezondheid van mens, dier of plant of voor het milieu.
 
-#### Artikel 7
+##### Artikel 7
 
 Bij ministeriële regeling kunnen regels worden gesteld omtrent de toelaatbaarheid van het onderling mengen van meststoffen.
 
 #### Paragraaf 2. Landbouwkundige eisen
 
-#### Artikel 8
+##### Artikel 8
 
 Ten aanzien van overige anorganische meststoffen op basis van ammoniumnitraat die meer dan 28 gewichtsprocenten stikstof in verhouding tot het ammoniumnitraat bevatten, is voldaan aan Titel II, Hoofdstuk IV, van de meststoffenverordening.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Overige anorganische meststoffen die hoofdzakelijk zijn bedoeld om primaire nutriënten te leveren, bevatten ten minste één van de volgende nutriënten, in de daarbij vermelde minimale hoeveelheid, uitgedrukt in gewichtsprocenten van de droge stof:
 
@@ -982,15 +1008,15 @@ Ten aanzien van overige anorganische meststoffen op basis van ammoniumnitraat di
 
 2. Overige anorganische meststoffen die hoofdzakelijk zijn bedoeld om secundaire nutriënten of micronutriënten te leveren, bevatten ten minste één van de bij ministeriële regeling aangewezen secundaire nutriënten of micronutriënten, in de bij deze regeling vastgestelde minimale hoeveelheid.
 
-#### Artikel 10
+##### Artikel 10
 
 Kalkmeststoffen hebben een neutraliserende waarde van ten minste 25 op basis van de droge stof.
 
-#### Artikel 11
+##### Artikel 11
 
 Overige organische meststoffen die hoofdzakelijk zijn bedoeld om organische stof te leveren, bevatten ten minste twintig gewichtsprocenten organische stof van de droge stof.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Vaste overige organische meststoffen die hoofdzakelijk zijn bedoeld om primaire nutriënten te leveren, bevatten ten minste één van de volgende nutriënten, in de daarbij vermelde minimale hoeveelheid, uitgedrukt in gewichtsprocenten:
 
@@ -1012,17 +1038,17 @@ Overige organische meststoffen die hoofdzakelijk zijn bedoeld om organische stof
 
 #### Paragraaf 3. Milieueisen
 
-#### Artikel 13
+##### Artikel 13
 
 Overige organische meststoffen bevatten geen biologisch afbreekbare delen met een diameter groter dan 50 millimeter en niet meer dan 0,5 gewichtsprocent aan bodemvreemde niet-biologisch afbreekbare delen.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Overige anorganische meststoffen die hoofdzakelijk zijn bedoeld om primaire nutriënten te leveren, overige organische meststoffen, kalkmeststoffen, alsmede de krachtens [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=1&artikel=5&z=2025-12-09&g=2025-12-09), aangewezen stoffen die als meststof of bij de productie van meststoffen worden gebruikt, overschrijden niet de in [bijlage II, onder tabel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&bijlage=II&z=2025-12-09&g=2025-12-09), bij dit besluit opgenomen maximale waarden voor zware metalen, uitgedrukt in milligrammen per kilogram van het desbetreffende waardegevende bestanddeel.
 
 2. Overige anorganische meststoffen die hoofdzakelijk zijn bedoeld om secundaire nutriënten of micronutriënten te leveren overschrijden niet de bij ministeriële regeling vastgestelde maximale waarden voor zware metalen, uitgedrukt in milligrammen per kilogram van het desbetreffende waardegevende bestanddeel.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Overige organische meststoffen alsmede de krachtens [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=1&artikel=5&z=2025-12-09&g=2025-12-09), aangewezen stoffen die als meststof of bij de productie van meststoffen worden gebruikt, overschrijden niet de in [bijlage II, onder tabel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&bijlage=II&z=2025-12-09&g=2025-12-09), bij dit besluit opgenomen maximale waarden voor organische microverontreinigingen, uitgedrukt in milligrammen per kilogram van het desbetreffende waardegevende bestanddeel.
 
@@ -1030,7 +1056,7 @@ Overige organische meststoffen bevatten geen biologisch afbreekbare delen met ee
 
 #### Paragraaf 4. Eisen zuiveringsslib en compost
 
-#### Artikel 16
+##### Artikel 16
 
 1. Zuiveringsslib is behandeld langs biologische, chemische of thermische weg, door langdurige opslag of volgens enig ander geschikt procédé, dat tot gevolg heeft dat het grootste deel van de in het zuiveringsslib aanwezige pathogene organismen afsterft.
 
@@ -1038,7 +1064,7 @@ Overige organische meststoffen bevatten geen biologisch afbreekbare delen met ee
 
 3. Zuiveringsslib overschrijdt niet de in [bijlage II, onder tabel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&bijlage=II&z=2025-12-09&g=2025-12-09), bij dit besluit opgenomen maximale waarden voor zware metalen, uitgedrukt in milligrammen per kilogram droge stof.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Compost bevat geen biologisch afbreekbare delen met een diameter groter dan 50 millimeter en niet meer dan 0,5 gewichtsprocent aan bodemvreemde niet-biologisch afbreekbare delen.
 
@@ -1050,13 +1076,13 @@ Overige organische meststoffen bevatten geen biologisch afbreekbare delen met ee
 
 #### Paragraaf 5. Verpakking en etikettering
 
-#### Artikel 18
+##### Artikel 18
 
 1. Overige anorganische meststoffen die hoofdzakelijk zijn bedoeld om micronutriënten te leveren en overige anorganische meststoffen op basis van ammoniumnitraat die meer dan 28 gewichtsprocenten stikstof in verhouding tot het ammoniumnitraat bevatten, zijn verpakt.
 
 2. De verpakking van de in het eerste lid bedoelde meststoffen wordt op zodanige wijze of met een zodanig systeem gesloten dat door het openen ervan de sluiting, het sluitzegel of de verpakking zelf onherstelbaar wordt beschadigd.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Meststoffen zijn in ieder geval voorzien van gegevens over:
 
@@ -1086,7 +1112,7 @@ Overige organische meststoffen bevatten geen biologisch afbreekbare delen met ee
 
 #### Paragraaf 6. Overige bepalingen
 
-#### Artikel 20
+##### Artikel 20
 
 [Artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=1&artikel=4&z=2025-12-09&g=2025-12-09), is niet van toepassing op meststoffen:
 
@@ -1096,7 +1122,7 @@ Overige organische meststoffen bevatten geen biologisch afbreekbare delen met ee
 
 - c. die vergezeld gaan van een analyserapport dat voldoende informatie verschaft over de samenstelling van het product en is afgegeven door een in die lidstaat of staat erkend laboratorium dat gelijkwaardig is aan een in Nederland voor dit doel erkend laboratorium.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Bij ministeriële regeling kunnen regels worden gesteld over:
 
@@ -1166,7 +1192,7 @@ Kaart 13 West niet opgenomen.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Dit besluit berust mede op [artikel 20.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=20.6) in verbinding met [artikel 20.7, aanhef en onder a, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=20.7).
 
@@ -1281,7 +1307,7 @@ Voor de toepassing van deze tabel zijn de maximale waarden van toepassing die be
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 21a
+##### Artikel 21a
 
 1. Voor de toepassing van [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=11) worden voor de fosfaattoestand van de bodem de volgende klassen onderscheiden: arm, laag, neutraal, ruim en hoog.
 
@@ -1305,7 +1331,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Hoofdstuk X. Regels inzake de hoeveelheidbepaling
 
-#### Artikel 69a
+##### Artikel 69a
 
 Vervallen
 
@@ -1390,7 +1416,7 @@ Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 25a
+##### Artikel 25a
 
 1. Voor de toepassing van [artikel 1, eerste lid, onderdeel ll, onder 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=1) is de tot het bedrijf behorende oppervlakte landbouwgrond in enig kalenderjaar de oppervlakte landbouwgrond die ingevolge de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IV&artikel=24&z=2025-12-09&g=2025-12-09) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IV&artikel=25&z=2025-12-09&g=2025-12-09) in het desbetreffende kalenderjaar tot het bedrijf behoort.
 
@@ -1402,7 +1428,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Hoofdstuk VII. Administratieve verplichtingen intermediairs
 
-#### Artikel 38a
+##### Artikel 38a
 
 1. Een registratie kan worden geweigerd of geschrapt in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3).
 
@@ -1416,7 +1442,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### Paragraaf 1. Vervoer van dierlijke meststoffen, zuiveringsslib en compost
 
-#### Artikel 48a
+##### Artikel 48a
 
 Een intermediair laat dierlijke meststoffen slechts aanvoeren bij zijn intermediaire onderneming indien deze overeenkomstig [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VII&artikel=38&z=2025-12-09&g=2025-12-09) is geregistreerd.
 
@@ -1505,7 +1531,7 @@ Voor de toepassing van deze tabel zijn de maximale waarden van toepassing die be
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 17a
+##### Artikel 17a
 
 1. Herwonnen fosfaten overschrijden niet de in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&bijlage=II&z=2025-12-09&g=2025-12-09), in tabel 1, opgenomen maximale waarden voor zware metalen, uitgedrukt in milligrammen per kilogram van het desbetreffende waardegevende bestanddeel.
 
@@ -1541,7 +1567,7 @@ Kaart 12 Oost niet opgenomen.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 70a
+##### Artikel 70a
 
 Vervallen
 
@@ -1622,7 +1648,7 @@ Kaart 12 Oost niet opgenomen.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 21aa
+##### Artikel 21aa
 
 Vervallen
 
@@ -1638,7 +1664,7 @@ Vervallen
 
 ### Hoofdstuk XI. Overige bepalingen
 
-#### Artikel 78a
+##### Artikel 78a
 
 Vervallen
 
@@ -1717,7 +1743,7 @@ Kaart 12 Oost niet opgenomen.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 72a
+##### Artikel 72a
 
 1. Indien op een bedrijf op 2 juli 2015 tijdelijk minder melkvee werd gehouden of over minder fosfaatruimte werd beschikt door de realisatie van een natuurgebied of de aanleg of onderhoud van publieke infrastructuur, verhoogt Onze Minister op verzoek van de landbouwer het fosfaatrecht dat uit hoofde van [artikel 23, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=23), wordt vastgesteld.
 
@@ -1727,7 +1753,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 4. Het verzoek, bedoeld in het eerste lid, wordt voor 1 april 2018 ingediend met gebruikmaking van een door Onze Minister elektronisch beschikbaar gesteld middel.
 
-#### Artikel 72b
+##### Artikel 72b
 
 1. Het fosfaatrecht, bedoeld in [artikel 23, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=23), en de verhoging van het fosfaatrecht, bedoeld in artikel 23, vierde en negende lid, van de wet, wordt verminderd met 8,3 procent.
 
@@ -1810,13 +1836,13 @@ Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 48b
+##### Artikel 48b
 
 1. Het vervoer van een vracht drijfmest door een intermediair geschiedt met een transportmiddel dat is uitgerust met de krachtens [artikel 70, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=70&z=2025-12-09&g=2025-12-09), voorgeschreven apparatuur die op naam van de intermediair is geregistreerd.
 
 2. Bij ministeriële regeling kunnen regels worden gesteld over de wijze waarop de apparatuur, bedoeld in het eerste lid is bevestigd en op welke wijze deze apparatuur is verbonden met de apparatuur, bedoeld in [artikel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=1&artikel=49&z=2025-12-09&g=2025-12-09).
 
-#### Artikel 52a
+##### Artikel 52a
 
 1. Bij ministeriële regeling kunnen regels worden gesteld over de gevallen waarin en de voorwaarden waaronder de [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=1&artikel=48&z=2025-12-09&g=2025-12-09), [48b](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=1&artikel=48b&z=2025-12-09&g=2025-12-09), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=1&artikel=49&z=2025-12-09&g=2025-12-09), [50](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=1&artikel=50&z=2025-12-09&g=2025-12-09) en [51](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=1&artikel=51&z=2025-12-09&g=2025-12-09) geheel of gedeeltelijk niet van toepassing zijn.
 
@@ -1824,7 +1850,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### Paragraaf 3. Vervoersbewijs zuiveringsslib, compost en overige organische meststoffen
 
-#### Artikel 54a
+##### Artikel 54a
 
 Een vracht zuiveringsslib, compost, mengsels van zuiveringsslib en compost, of krachtens [artikel 55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=3&artikel=55&z=2025-12-09&g=2025-12-09), aangewezen overige organische meststoffen gaat tijdens het vervoer vergezeld van een op de vracht betrekking hebbend vervoersbewijs, dat overeenkomstig de regels, gesteld bij of krachtens deze paragraaf, is opgemaakt.
 
@@ -1832,11 +1858,11 @@ Een vracht zuiveringsslib, compost, mengsels van zuiveringsslib en compost, of k
 
 ### Hoofdstuk XI. Overige bepalingen
 
-#### Artikel 72c
+##### Artikel 72c
 
 In geval van overtreding van [artikel 51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=1&artikel=51&z=2025-12-09&g=2025-12-09), bedraagt de bestuurlijke boete voor de vervoerder € 1.500.
 
-#### Artikel 73a
+##### Artikel 73a
 
 1. Het Uitvoeringsbesluit Meststoffenwet, zoals dit zal luiden na volledige inwerkingtreding van het Besluit van 8 april 2021, houdende wijziging van het Uitvoeringsbesluit Meststoffenwet in verband met het stellen van regels over digitale verantwoording van het vervoer van dierlijke meststoffen (Stb. 2021, 192) zoals gewijzigd bij Besluit van 7 juli 2022, houdende wijziging van het Besluit van 8 april 2021, houdende wijziging van het Uitvoeringsbesluit Meststoffenwet in verband met het stellen van regels over digitale verantwoording van het vervoer van dierlijke meststoffen (Stb. 2021, 192) in verband met enkele aanpassingen ten aanzien van de startmelding en de noodvoorziening (Stb. 2022, 297), kan voorafgaand aan die volledige inwerkingtreding van toepassing zijn op een leverancier, vervoerder of afnemer van dierlijke meststoffen, indien hij zich met het oog op vroegtijdige toepassing van de regels van het rVDM-systeem eenmalig bij de minister heeft gemeld.
 

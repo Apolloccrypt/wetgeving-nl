@@ -1,16 +1,42 @@
 ---
-title: "Besluit erkende organisaties Schepenwet"
+title: "Besluit ter uitvoering van de artikelen 6, tweede lid, van de Schepenwet en 6 van het Schepenbesluit 1965, alsmede de artikelen 23, eerste lid, 36, 48, tweede lid en 59, eerste lid, van het Schepenbesluit 2004 (Besluit erkende organisaties Schepenwet)"
 identifier: "BWBR0019673"
-categorie: "Overig"
-publicatiedatum: 2026-01-17
-laatste_update: 2026-01-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019673"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-17"
+last_updated: "2026-01-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019673"
+soort: "ministeriele-regeling"
+stam_id: "8167433"
+version_id: "18938232"
+internal_id: "C26431501"
+label_id: "8148574"
+dtd_version: "2.0"
+original_entry_into_force: "2011-11-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019673/2026-01-17/0"
+intitule_bron: "Stcrt.2006-60"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-03-17"
+intitule_published: "2006-03-24"
+intitule_in_force: "2006-03-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-21354"
+original_signed_date: "2011-11-21"
+original_published_date: "2011-11-29"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2011-21354"
+entry_into_force_date: "2011-11-30"
+jci_1_3: "jci1.3:c:BWBR0019673&z=2026-01-17&g=2026-01-17"
+jci_1_0: "1.0:c:BWBR0019673&g=2026-01-17"
+citeertitel_status: "officieel"
+short_title: "Besluit erkende organisaties Schepenwet"
+signed_date: "2011-11-21"
+entry_into_force: "2011-11-30"
 ---
-
 # Besluit ter uitvoering van de artikelen 6, tweede lid, van de Schepenwet en 6 van het Schepenbesluit 1965, alsmede de artikelen 23, eerste lid, 36, 48, tweede lid en 59, eerste lid, van het Schepenbesluit 2004 (Besluit erkende organisaties Schepenwet)
 
-#### Artikel 1. Erkende organisaties
+##### Artikel 1. Erkende organisaties
 
 1. Als rechtspersonen waarvan de regels kunnen gelden als eisen als bedoeld in [artikel 3a van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=3a), worden aangewezen:
 
@@ -32,7 +58,7 @@ bron: "https://wetten.overheid.nl/BWBR0019673"
 
 2. De in het eerste lid genoemde rechtspersonen zijn tevens bevoegd tot het verrichten van de bij of krachtens de [artikelen 8 van het Schepenbesluit 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&artikel=8) en [13 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=13) en [19a van het Schepenbesluit 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=19a) voorgeschreven onderzoeken.
 
-#### Artikel 2. Bijzondere onderzoeken
+##### Artikel 2. Bijzondere onderzoeken
 
 1. Onverminderd [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019673&artikel=1&z=2026-01-17&g=2026-01-17), is tot het verrichten van onderzoeken van elektronisch aangedreven liften, personenliften, niet zijnde elektrisch aangedreven liften, en roltrappen tevens bevoegd de Stichting Nederlands Instituut voor Lifttechniek (Liftinstituut) te Amsterdam.
 
@@ -110,7 +136,7 @@ bron: "https://wetten.overheid.nl/BWBR0019673"
 
 10. Buiten het Koninkrijk zijn aangewezen als keuringsinstantie voor opblaasbare reddingsmiddelen en keuringsinstantie voor reddingsmiddelen als bedoeld in het tweede respectievelijk het zesde lid, de door de bevoegde autoriteiten ter plaatse erkende organisaties.
 
-#### Artikel 3. Onderzoeken ingevolge de IMDG-Code
+##### Artikel 3. Onderzoeken ingevolge de IMDG-Code
 
 1. In dit artikel wordt onder de IMDG-Code verstaan: de International Maritime Dangerous Goods Code, bedoeld in hoofdstuk VII, deel A, van het SOLAS-verdrag.
 
@@ -126,23 +152,23 @@ bron: "https://wetten.overheid.nl/BWBR0019673"
 | SGS Redwood B.V | 6.7.2.19.5 |
 | RDW | 4.2.1.7; 4.2.1.9; 4.2.3.6.4*; 4.2.3.7.1*; 4.2.5.3 (TP4, TP10, TP16 en TP24); 6.7.2.2; 6.7.2.3; 6.7.2.6; 6.7.2.7; 6.7.2.8; 6.7.2.10; 6.7.2.12; 6.7.2.18; 6.7.2.19.4; 6.7.2.19.5; 6.7.2.19.9; 6.7.2.19.10; 6.7.3.2; 6.7.3.7; 6.7.3.8; 6.7.3.14; 6.7.3.15.3; 6.7.3.15.5; 6.7.3.15.9; 6.7.3.15.10; 6.7.4.2; 6.7.4.3; 6.7.4.6; 6.7.4.7; 6.7.4.13; 6.7.4.14.10; 6.7.4.14.11; 6.7.5; 6.8.2.2.3; 6.8.3.1; 6.8.3.2.1; 6.8.3.2.2.1; 6.8.3.2.3; 6.8.3.3.2.1; 6.8.3.3.3; 6.9.4.3; 6.9.4.4 |
 
-#### Artikel 4. Erkende beveiligingsorganisaties
+##### Artikel 4. Erkende beveiligingsorganisaties
 
 Als erkende beveiligingsorganisaties, bevoegd tot het verrichten van onderzoeken als bedoeld in [artikel 19 van het Schepenbesluit 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=19), worden aangewezen de in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019673&artikel=1&z=2026-01-17&g=2026-01-17), genoemde rechtspersonen.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit wordt aangehaald als: Besluit erkende organisaties Schepenwet.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst, en werkt ten aanzien van de [artikelen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019673&artikel=1&z=2026-01-17&g=2026-01-17) en, voor zover betrekking hebbende op de aanwijzing van Registro Italiano Navale (RINA) als erkende beveiligingsorganisatie, bevoegd tot het verrichten van onderzoeken als bedoeld in [artikel 19 van het Schepenbesluit 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=19), [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019673&artikel=4&z=2026-01-17&g=2026-01-17), terug tot en met 1 januari 2005.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit wordt aangehaald als: Besluit erkende organisaties Schepenwet.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst, en werkt ten aanzien van de [artikelen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019673&artikel=1&z=2008-12-25&g=2008-12-25) en, voor zover betrekking hebbende op de aanwijzing van Registro Italiano Navale (RINA) als erkende beveiligingsorganisatie, bevoegd tot het verrichten van onderzoeken als bedoeld in [artikel 19 van het Schepenbesluit 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=19), [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019673&artikel=4&z=2008-12-25&g=2008-12-25), terug tot en met 1 januari 2005.
 

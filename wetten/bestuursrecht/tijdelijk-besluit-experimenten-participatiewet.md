@@ -1,13 +1,39 @@
 ---
-title: "Tijdelijk besluit experimenten Participatiewet"
+title: "Besluit van 22 februari 2017, houdende vaststelling van het Tijdelijk besluit experimenten Participatiewet (Tijdelijk besluit experimenten Participatiewet)"
 identifier: "BWBR0039258"
-categorie: "Bestuursrecht"
-publicatiedatum: 2019-10-01
-laatste_update: 2019-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039258"
+country: "nl"
+rank: "amvb"
+publication_date: "2019-10-01"
+last_updated: "2019-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039258"
+soort: "AMvB"
+stam_id: "13926833"
+version_id: "23943742"
+internal_id: "C34428981"
+label_id: "13890864"
+dtd_version: "2.0"
+original_entry_into_force: "2017-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039258/2019-10-01/0"
+intitule_bron: "Stb.2017-69"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-02-22"
+intitule_published: "2017-03-01"
+intitule_in_force: "2017-03-01"
+intitule_status: "goed"
+original_publication: "Stb.2017-69"
+original_signed_date: "2017-02-22"
+original_published_date: "2017-03-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2017-69"
+entry_into_force_date: "2017-04-01"
+jci_1_3: "jci1.3:c:BWBR0039258&z=2019-10-01&g=2019-10-01"
+jci_1_0: "1.0:c:BWBR0039258&g=2019-10-01"
+citeertitel_status: "officieel"
+short_title: "Tijdelijk besluit experimenten Participatiewet"
+signed_date: "2017-02-22"
+entry_into_force: "2017-04-01"
 ---
-
 # Besluit van 22 februari 2017, houdende vaststelling van het Tijdelijk besluit experimenten Participatiewet (Tijdelijk besluit experimenten Participatiewet)
 
 Op de voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 9 november 2016, nr. 2016-0000231828;
@@ -20,7 +46,7 @@ Gezien het nader rapport van de Staatssecretaris van Sociale Zaken en Werkgelege
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit en de daarop gebaseerde regelingen wordt verstaan onder:
 
@@ -30,13 +56,13 @@ In dit besluit en de daarop gebaseerde regelingen wordt verstaan onder:
 
 - –. **wet:** [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703).
 
-#### Artikel 2. Aanwijzing gemeenten
+##### Artikel 2. Aanwijzing gemeenten
 
 1. Onze Minister kan een gemeente aanwijzen, die bij wijze van experiment gedurende een periode van drie jaar na inwerkingtreding van dit besluit naar aanleiding van het door het college van die gemeente ingediende verzoek op basis van dit besluit, voor een periode van maximaal 2 jaar en 3 maanden kan afwijken van de [artikelen 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=9), en [31, tweede lid, onderdeel n, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=31).
 
 2. Bij ministeriële regeling worden nadere regels gesteld met betrekking tot de toepassing van de bevoegdheid bedoeld in het eerste lid.
 
-#### Artikel 3. Verzoek gemeenten
+##### Artikel 3. Verzoek gemeenten
 
 Het schriftelijke verzoek, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039258&artikel=2&z=2019-10-01&g=2019-10-01), bevat:
 
@@ -56,7 +82,7 @@ Het schriftelijke verzoek, bedoeld in [artikel 2](https://wetten.overheid.nl/jci
 
 - b. een wetenschappelijk onderbouwde analyse en opzet van het onderzoek, waaronder het monitoren en evalueren van het experiment, waarin wordt onderbouwd dat het wetenschappelijk karakter van het experiment gewaarborgd is en dat getoetst kan worden aan alle punten van het door het Ministerie van Sociale Zaken en Werkgelegenheid op de website van de Rijksoverheid gepubliceerde beoordelingskader experimenten Pw.
 
-#### Artikel 4. Afwijzing verzoek
+##### Artikel 4. Afwijzing verzoek
 
 1. Onze Minister kan het verzoek afwijzen indien naar zijn oordeel:
 
@@ -74,7 +100,7 @@ Het schriftelijke verzoek, bedoeld in [artikel 2](https://wetten.overheid.nl/jci
 
 3. Onze Minister wijst het verzoek af indien het maximaal aantal deelnemers van 4% van de totale bijstandspopulatie, verdeeld over de experimentgroepen van alle deelnemende gemeenten, is bereikt.
 
-#### Artikel 5. Inhoud experiment
+##### Artikel 5. Inhoud experiment
 
 1. Een experiment als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039258&artikel=2&z=2019-10-01&g=2019-10-01) betreft:
 
@@ -88,7 +114,7 @@ Het schriftelijke verzoek, bedoeld in [artikel 2](https://wetten.overheid.nl/jci
 
 2. Indien in een experiment gebruik wordt gemaakt van de voorziening genoemd in het eerste lid, onderdeel a, bevat het experiment ook ten minste de voorziening genoemd in het eerste lid, onderdeel b.
 
-#### Artikel 6. Vorm experiment
+##### Artikel 6. Vorm experiment
 
 1. Een experiment wordt uitgevoerd met personen die vrijwillig mee doen aan het experiment, en aselect in verschillende groepen zijn opgenomen.
 
@@ -98,7 +124,7 @@ Het schriftelijke verzoek, bedoeld in [artikel 2](https://wetten.overheid.nl/jci
 
 4. De resultaten van de experimentgroepen worden ook vergeleken met de referentiegroep, bestaande uit bijstandsgerechtigden woonachtig in dezelfde gemeente die niet deelnemen aan het experiment.
 
-#### Artikel 7. Verplichting gemeenten
+##### Artikel 7. Verplichting gemeenten
 
 1. Het college draagt er ten behoeve van het wetenschappelijk onderzoek zorg voor dat de administratie met betrekking tot de uitvoering van dat experiment zodanig wordt ingericht, dat alle van belang zijnde vastleggingen en bewijsstukken met betrekking tot het verloop van het experiment tijdig, volledig en controleerbaar zijn opgenomen.
 
@@ -106,7 +132,7 @@ Het schriftelijke verzoek, bedoeld in [artikel 2](https://wetten.overheid.nl/jci
 
 3. Het college zendt uiterlijk 1 februari 2020 aan Onze Minister een verslag over de doeltreffendheid en de effecten van het experiment in de praktijk. Indien een experiment eerder wordt beëindigd dan oorspronkelijk was beoogd, zendt het college, in afwijking van de eerste zin, uiterlijk twee maanden na de beëindiging van dat experiment een verslag als bedoeld in de eerste zin aan Onze Minister.
 
-#### Artikel 8. Beëindiging experiment
+##### Artikel 8. Beëindiging experiment
 
 1. De deelnemer aan een experiment wordt vooraf door het college volledig geïnformeerd over de aspecten die van belang zijn bij deelname aan het experiment.
 
@@ -114,11 +140,11 @@ Het schriftelijke verzoek, bedoeld in [artikel 2](https://wetten.overheid.nl/jci
 
 3. Onze Minister kan een college opdragen een lopend experiment te beëindigen indien er naar zijn oordeel niet langer aan de voorwaarden van dit besluit wordt voldaan.
 
-#### Artikel 9. Inwerkingtreding
+##### Artikel 9. Inwerkingtreding
 
 Dit besluit treedt in werking op 1 april 2017 en vervalt op 1 april 2021.
 
-#### Artikel 10. Citeertitel
+##### Artikel 10. Citeertitel
 
 Dit besluit wordt aangehaald als: Tijdelijk besluit experimenten Participatiewet.
 

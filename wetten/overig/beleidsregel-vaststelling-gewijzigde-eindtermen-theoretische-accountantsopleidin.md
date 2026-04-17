@@ -1,13 +1,36 @@
 ---
-title: "Beleidsregel vaststelling gewijzigde eindtermen theoretische accountantsopleiding 2008"
+title: "Vaststelling gewijzigde eindtermen theoretische accountantsopleiding 2008"
 identifier: "BWBR0033424"
-categorie: "Overig"
-publicatiedatum: 2013-04-16
-laatste_update: 2013-04-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033424"
+country: "nl"
+rank: "zbo"
+publication_date: "2013-04-16"
+last_updated: "2013-04-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033424"
+soort: "zbo"
+stam_id: "12259053"
+version_id: "20516802"
+internal_id: "C28855571"
+label_id: "12231094"
+dtd_version: "2.0"
+original_entry_into_force: "2013-04-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033424/2013-04-16/0"
+intitule_bron: "Stcrt.2013-9877"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2013-04-16"
+intitule_in_force: "2013-04-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-9877"
+original_published_date: "2013-04-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-9877"
+entry_into_force_date: "2013-04-16"
+jci_1_3: "jci1.3:c:BWBR0033424&z=2013-04-16&g=2013-04-16"
+jci_1_0: "1.0:c:BWBR0033424&g=2013-04-16"
+citeertitel_status: "redactioneel"
+short_title: "Beleidsregel vaststelling gewijzigde eindtermen theoretische accountantsopleiding 2008"
+entry_into_force: "2013-04-16"
 ---
-
 # Vaststelling gewijzigde eindtermen theoretische accountantsopleiding 2008
 
 De Commissie Eindtermen Accountantsopleiding (CEA) is een bij wet ingesteld zelfstandig bestuursorgaan dat tot taak heeft om eindtermen voor de opleiding tot accountant-administratieconsulent en registeraccountant ([artikel 46 Wet op het Accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=46)) vast te stellen. In 2007 heeft de CEA de eindtermen 2008 voor de theoretische opleiding tot accountant-administratieconsulent en registeraccountant vastgesteld.

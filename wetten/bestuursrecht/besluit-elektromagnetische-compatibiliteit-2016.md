@@ -1,13 +1,39 @@
 ---
-title: "Besluit elektromagnetische compatibiliteit 2016"
+title: "Besluit van 12 december 2016, houdende regels inzake elektromagnetische compatibiliteit van uitrusting ter implementatie van richtlijn 2014/30/EU (Besluit elektromagnetische compatibiliteit 2016)"
 identifier: "BWBR0038913"
-categorie: "Bestuursrecht"
-publicatiedatum: 2016-12-28
-laatste_update: 2016-12-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038913"
+country: "nl"
+rank: "amvb"
+publication_date: "2016-12-28"
+last_updated: "2016-12-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038913"
+soort: "AMvB"
+stam_id: "13830533"
+version_id: "23738172"
+internal_id: "C34166921"
+label_id: "13796324"
+dtd_version: "2.0"
+original_entry_into_force: "2016-12-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038913/2016-12-28/0"
+intitule_bron: "Stb.2016-523"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-12-12"
+intitule_published: "2016-12-21"
+intitule_in_force: "2016-12-27"
+intitule_status: "goed"
+original_publication: "Stb.2016-523"
+original_signed_date: "2016-12-12"
+original_published_date: "2016-12-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2016-523"
+entry_into_force_date: "2016-12-28"
+jci_1_3: "jci1.3:c:BWBR0038913&z=2016-12-28&g=2016-12-28"
+jci_1_0: "1.0:c:BWBR0038913&g=2016-12-28"
+citeertitel_status: "officieel"
+short_title: "Besluit elektromagnetische compatibiliteit 2016"
+signed_date: "2016-12-12"
+entry_into_force: "2016-12-28"
 ---
-
 # Besluit van 12 december 2016, houdende regels inzake elektromagnetische compatibiliteit van uitrusting ter implementatie van richtlijn 2014/30/EU (Besluit elektromagnetische compatibiliteit 2016)
 
 Op de voordracht van Onze Minister van Economische Zaken van 29 juni 2016, nr. WJZ / 16097720;
@@ -24,7 +50,7 @@ Treedt in werking op het tijdstip waarop de Wijzigingswet Telecommunicatiewet (i
 
 ### Hoofdstuk 1. Begripsomschrijvingen en toepassingsbereik
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -62,7 +88,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - q. **veiligheidsdoeleinden:** de doeleinden van de bescherming van menselijk leven of bezittingen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De verboden in [artikel 10.1, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=10.1), en het bij of krachtens dit besluit bepaalde zijn niet van toepassing op producten als bedoeld in artikel 2, tweede lid, van [richtlijn nr. 2014/30](32014L0030)/EU.
 
@@ -74,7 +100,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 2. Uitrusting
 
-#### Artikel 3
+##### Artikel 3
 
 1. Uitrusting voldoet aan de eisen, bedoeld in bijlage I, onder 1, van [richtlijn nr. 2014/30](32014L0030)/EU.
 
@@ -84,7 +110,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Overeenstemming van apparaten met de in het eerste lid bedoelde eisen, wordt aangetoond door gebruik te maken van een van de conformiteitsbeoordelingsprocedures, bedoeld in artikel 14 van [richtlijn 2014/30](32014L0030)/EU.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het is verboden uitrusting die niet voldoet aan de eisen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038913&hoofdstuk=2&artikel=3&z=2016-12-28&g=2016-12-28), tentoon te stellen of te demonstreren, tenzij:
 
@@ -94,7 +120,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 2. Uitrusting als bedoeld in het eerste lid mag slechts worden gedemonstreerd indien passende maatregelen zijn genomen om elektromagnetische verstoring te voorkomen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Uitrusting wordt vermoed te voldoen aan de in [artikel 3, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038913&hoofdstuk=2&artikel=3&z=2016-12-28&g=2016-12-28), bedoelde eisen, indien is voldaan aan de met betrekking tot [richtlijn nr. 2014/30](32014L0030)/EU vastgestelde geharmoniseerde normen of delen daarvan, die betrekking hebben op de desbetreffende eisen.
 
@@ -104,13 +130,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Paragraaf 3.1. CE-markering en informatie over het gebruik van apparaten
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een fabrikant of zijn gemachtigde brengt de CE-markering zichtbaar, leesbaar en onuitwisbaar aan op het apparaat of op het gegevensplaatje. Wanneer dit gezien de aard van het apparaat niet mogelijk of niet verantwoord is, wordt de CE-markering aangebracht op de verpakking en in de begeleidende documenten.
 
 2. De CE-markering wordt aangebracht voordat het apparaat in de handel wordt gebracht.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Een apparaat gaat vergezeld van informatie over specifieke voorzorgsmaatregelen die tijdens de assemblage, de installatie, het onderhoud of het gebruik van het apparaat moeten worden getroffen om ervoor te zorgen dat het apparaat bij ingebruikneming aan de eisen, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038913&hoofdstuk=2&artikel=3&z=2016-12-28&g=2016-12-28), voldoet.
 
@@ -120,7 +146,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Paragraaf 3.2. Apparaten bestemd voor integratie in vaste installaties
 
-#### Artikel 8
+##### Artikel 8
 
 1. De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038913&hoofdstuk=2&artikel=3&z=2016-12-28&g=2016-12-28) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0038913&hoofdstuk=3&paragraaf=3.1&artikel=6&z=2016-12-28&g=2016-12-28) en de [artikelen 10.3 tot en met 10.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=10.3) zijn niet van toepassing op een apparaat dat bestemd is om in een bepaalde vaste installatie te worden geïntegreerd en anderszins niet op de markt wordt aangeboden.
 
@@ -130,13 +156,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 4. Vaste installaties
 
-#### Artikel 9
+##### Artikel 9
 
 1. De goede technologische praktijken, bedoeld in artikel 19, eerste lid, vijfde volzin, van [richtlijn nr. 2014/30](32014L0030)/EU, worden gedocumenteerd.
 
 2. De voor de conformiteit van de vaste installatie verantwoordelijke persoon houdt de documentatie, bedoeld in het eerste lid, zolang de vaste installatie in bedrijf is, voor toezicht op de naleving ter beschikking van Onze Minister.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Indien er aanwijzingen zijn dat de vaste installatie niet voldoet aan de eisen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038913&hoofdstuk=2&artikel=3&z=2016-12-28&g=2016-12-28), in het bijzonder indien sprake is van klachten over verstoringen die door de vaste installatie zouden worden veroorzaakt, kan Onze Minister eisen dat de persoon die verantwoordelijk is voor de conformiteit van de vaste installatie met de eisen, bedoeld in artikel 3, een bewijs van overeenstemming van de vaste installatie levert.
 
@@ -146,7 +172,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 5. Aangemelde instanties en overeenstemmingsbeoordelingsorganen
 
-#### Artikel 11
+##### Artikel 11
 
 1. Onze Minister kan een instantie aanwijzen en bij de Europese Commissie aanmelden voor het uitvoeren van conformiteitsbeoordelingsprocedures als bedoeld in bijlage III, deel A, van [richtlijn nr. 2014/30](32014L0030)/EU, indien uit de aanvraag tot aanwijzing volgt dat de instantie blijkens accreditatie aantoonbaar voldoet aan de eisen in artikel 24 van [richtlijn nr. 2014/30](32014L0030)/EU.
 
@@ -154,15 +180,15 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Een aangemelde instantie verricht conformiteitsbeoordelingsprocedures waarvoor ze is aangewezen niet eerder dan twee weken na de datum van de aanmelding van de aangemelde instantie bij de Europese Commissie, en indien binnen deze periode de Europese Commissie en de lidstaten van de Europese Unie geen bezwaar hebben ingediend tegen de aanmelding.
 
-#### Artikel 12
+##### Artikel 12
 
 Onverminderd [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038913&hoofdstuk=5&artikel=11&z=2016-12-28&g=2016-12-28), voldoet een aangemelde instantie blijkens accreditatie tevens aan de eisen, bedoeld in de artikelen 26, 32 en 34, tweede lid, van [richtlijn nr. 2014/30](32014L0030)/EU.
 
-#### Artikel 13
+##### Artikel 13
 
 Bij ministeriële regeling kunnen regels worden gesteld over de wijze waarop een aanvraag tot aanwijzing en aanmelding als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038913&hoofdstuk=5&artikel=11&z=2016-12-28&g=2016-12-28), wordt ingediend.
 
-#### Artikel 14
+##### Artikel 14
 
 Een aangemelde instantie informeert Onze Minister over:
 
@@ -174,7 +200,7 @@ Een aangemelde instantie informeert Onze Minister over:
 
 - d. op verzoek van Onze Minister, de binnen de werkingssfeer van hun aanmelding verrichte conformiteitsbeoordelingsactiviteiten en andere activiteiten, waaronder grensoverschrijdende activiteiten en uitbesteding.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Onze Minister kan de aanwijzing en aanmelding beperken, schorsen of intrekken, indien:
 
@@ -186,7 +212,7 @@ Een aangemelde instantie informeert Onze Minister over:
 
 2. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de overdracht van dossiers van een aangemelde instantie wier aanwijzing is beperkt, geschorst of ingetrokken of die haar activiteiten heeft gestaakt.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Onze Minister kan een instantie aanwijzen als overeenstemmingsbeoordelingsorgaan.
 
@@ -200,7 +226,7 @@ Een aangemelde instantie informeert Onze Minister over:
 
 ### Hoofdstuk 6. Speciale maatregelen voor conforme uitrusting
 
-#### Artikel 17
+##### Artikel 17
 
 Bij ministeriële regeling kunnen regels worden gesteld over speciale maatregelen betreffende de ingebruikneming of het gebruik van uitrusting die voldoet aan de bij of krachtens dit besluit gestelde voorschriften. Deze regels betreffen:
 
@@ -210,7 +236,7 @@ Bij ministeriële regeling kunnen regels worden gesteld over speciale maatregele
 
 ### Hoofdstuk 7. Handhaving
 
-#### Artikel 18
+##### Artikel 18
 
 1. Indien er aanwijzingen zijn dat een apparaat een risico vormt voor de onder [richtlijn nr. 2014/30](32014L0030)/EU vallende aspecten van de bescherming van algemene belangen, waaronder de gezondheid of veiligheid van personen, en inbegrepen de situatie dat door een apparaat ontoelaatbare belemmeringen worden veroorzaakt in het etherverkeer of in andere apparaten, kan Onze Minister een beoordeling van het apparaat uitvoeren. Marktdeelnemers verlenen Onze Minister de nodige medewerking voor het uitvoeren van de beoordeling.
 
@@ -228,31 +254,31 @@ Bij ministeriële regeling kunnen regels worden gesteld over speciale maatregele
 
 ### Hoofdstuk 8. Behandeling van klachten
 
-#### Artikel 19
+##### Artikel 19
 
 Bij ministeriële regeling kunnen regels worden gesteld inzake de behandeling van klachten over elektromagnetische verstoring, ondervonden van het gebruik van uitrusting.
 
 ### Hoofdstuk 9. Handelsreclame
 
-#### Artikel 20
+##### Artikel 20
 
 Het is verboden handelsreclame te maken voor uitrusting die niet voldoet aan de eisen van dit besluit en waarvan het in de handel brengen, het op de markt aanbieden of het in gebruik nemen op grond van [artikel 10.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=10.1) is verboden.
 
 ### Hoofdstuk 10. Overgangs- en slotbepalingen
 
-#### Artikel 21
+##### Artikel 21
 
 Na de inwerkingtreding van dit besluit berust de [Regeling storingsklachten](https://wetten.overheid.nl/jci1.3:c:BWBR0026550) mede op [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0038913&hoofdstuk=8&artikel=19&z=2016-12-28&g=2016-12-28) van dit besluit.
 
-#### Artikel 22
+##### Artikel 22
 
 Het [Besluit elektromagnetische compatibiliteit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021041) wordt ingetrokken.
 
-#### Artikel 23
+##### Artikel 23
 
 Dit besluit treedt in werking op het tijdstip waarop de Wet van 3 februari 2016 tot wijziging van de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) in verband met de implementatie van [richtlijn 2014/30](32014L0030)/EU en [richtlijn 2014/53](32014L0053)/EU in werking treedt.
 
-#### Artikel 24
+##### Artikel 24
 
 Dit besluit wordt aangehaald als: Besluit elektromagnetische compatibiliteit 2016.
 

@@ -1,13 +1,37 @@
 ---
 title: "Nigeriaanse uitvoeringsvoorschriften belastingovereenkomst Nederland-Nigeria"
 identifier: "BWBR0005892"
-categorie: "Belastingrecht"
-publicatiedatum: 1993-03-06
-laatste_update: 1993-03-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005892"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1993-03-06"
+last_updated: "1993-03-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005892"
+soort: "ministeriele-regeling"
+stam_id: "3734933"
+version_id: "5517792"
+internal_id: "C5710881"
+label_id: "3714674"
+dtd_version: "2.0"
+original_entry_into_force: "1993-03-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005892/1993-03-06/0"
+intitule_bron: "Stcrt.1993-44"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1993-03-04"
+intitule_published: "1993-03-04"
+intitule_in_force: "1993-03-04"
+intitule_status: "goed"
+original_publication: "Stcrt.1993-44"
+original_signed_date: "1993-03-04"
+original_published_date: "1993-03-04"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1993-03-06"
+jci_1_3: "jci1.3:c:BWBR0005892&z=1993-03-06&g=1993-03-06"
+jci_1_0: "1.0:c:BWBR0005892&g=1993-03-06"
+citeertitel_status: "officieel"
+signed_date: "1993-03-04"
+entry_into_force: "1993-03-06"
 ---
-
 # Nigeriaanse uitvoeringsvoorschriften belastingovereenkomst Nederland-Nigeria
 
 Besluit:
@@ -16,7 +40,7 @@ Door plaatsing in de Staatscourant het navolgende ter kennis van belanghebbende 
 
 Regeling inzake vermindering en vrijstelling van Nigeriaanse belasting op dividenden, interest en royalty's, genoten door inwoners van Nederland.
 
-#### Artikel 1. Aanspraken van inwoners van Nederland
+##### Artikel 1. Aanspraken van inwoners van Nederland
 
 Aan de op 11 december 1991 tussen Nederland en Nigeria gesloten Overeenkomst tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar vermogenswinsten (Trb. 1992, 12) kunnen inwoners van Nederland onder meer de volgende aanspraken ontlenen, geregeld in de hieronder tussen haakjes vermelde artikelen van de Overeenkomst:
 
@@ -34,7 +58,7 @@ De in de onderdelen a, b, d en e van dit artikel vermelde verminderingen worden 
 
 De in onderdelen a, b, d en e van dit artikel vermelde verminderingen zijn niet van toepassing indien de uiteindelijk gerechtigde tot de dividenden, de interest of de royalty's in Nigeria een bedrijf uitoefent door middel van een aldaar gevestigde vaste inrichting of in Nigeria zelfstandige arbeid verricht vanuit een aldaar gevestigd vast middelpunt, en het aandelenbezit uit hoofde waarvan de dividenden worden betaald, de vordering uit hoofde waarvan de interest wordt betaald of het recht of de zaak uit hoofde waarvan de royalty's worden betaald, tot het bedrijfsvermogen van die vaste inrichting of tot het beroepsvermogen van dat vaste middelpunt behoort (artikel 10, vijfde lid, respectievelijk artikel 11, vijfde lid, en artikel 12, vierde lid).
 
-#### Artikel 2. Nigeriaanse regeling
+##### Artikel 2. Nigeriaanse regeling
 
 Ter uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005892&artikel=1&z=1993-03-06&g=1993-03-06) is van Nigeriaanse zijde de volgende regeling getroffen:
 
@@ -56,7 +80,7 @@ Ter uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005892&a
 
 - 3. Termijn van indiening van verzoeken om teruggaaf van belasting Verzoeken om teruggaaf van Nigeriaanse belasting moeten worden ingediend binnen een tijdvak van drie jaren na af- loop van het kalenderjaar waarin de belasting is geheven (Artikel V (ii) van het Protocol).
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 1. Deze regeling kan worden aangehaald als: Nigeriaanse uitvoeringsvoorschriften belastingovereenkomst Nederland-Nigeria.
 

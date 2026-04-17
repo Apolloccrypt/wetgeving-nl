@@ -1,13 +1,38 @@
 ---
 title: "Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005"
 identifier: "BWBR0017959"
-categorie: "Overig"
-publicatiedatum: 2025-11-26
-laatste_update: 2025-11-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0017959"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-11-26"
+last_updated: "2025-11-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0017959"
+soort: "ministeriele-regeling"
+stam_id: "6727093"
+version_id: "29946512"
+internal_id: "C42924561"
+label_id: "6715694"
+dtd_version: "2.0"
+original_entry_into_force: "2024-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0017959/2025-11-26/0"
+intitule_bron: "Stcrt.2005-24"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-01-26"
+intitule_published: "2005-02-03"
+intitule_in_force: "2005-02-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-3299"
+original_signed_date: "2024-01-29"
+original_published_date: "2024-01-31"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2024-3299"
+entry_into_force_date: "2024-02-01"
+jci_1_3: "jci1.3:c:BWBR0017959&z=2025-11-26&g=2025-11-26"
+jci_1_0: "1.0:c:BWBR0017959&g=2025-11-26"
+citeertitel_status: "officieel"
+signed_date: "2024-01-29"
+entry_into_force: "2024-02-01"
 ---
-
 # Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005
 
 Gelet op [artikel 12 van de Wet Centraal Orgaan opvang asielzoekers](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&artikel=12);
@@ -16,7 +41,7 @@ Besluit:
 
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van deze regeling wordt verstaan onder:
 
@@ -58,7 +83,7 @@ Voor de toepassing van deze regeling wordt verstaan onder:
 
 ### Hoofdstuk II. Toelating tot de opvang
 
-#### Artikel 2
+##### Artikel 2
 
 1. Deze regeling heeft uitsluitend betrekking op een asielzoeker en de daarmee gelijkgestelde categorieën, als bedoeld in [artikel 3 derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=II&artikel=3&z=2025-11-26&g=2025-11-26) van deze regeling, die niet beschikt over voldoende middelen om in de noodzakelijke kosten van het bestaan te voorzien, als bedoeld in de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703).
 
@@ -74,7 +99,7 @@ Voor de toepassing van deze regeling wordt verstaan onder:
 
 4. Het COA zorgt ervoor dat de in het derde lid bedoelde informatie schriftelijk wordt verstrekt in een taal die de asielzoeker verstaat of waarvan redelijkerwijs kan worden aangenomen dat hij deze verstaat. In voorkomend geval kan deze informatie tevens mondeling verstrekt worden.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het COA draagt zorg voor de centrale opvang van asielzoekers door erin te voorzien dat hen opvang wordt geboden in een opvangvoorziening.
 
@@ -126,7 +151,7 @@ Voor de toepassing van deze regeling wordt verstaan onder:
 
 4. Het COA draagt zorg voor de centrale opvang van andere categorieën vreemdelingen, als bedoeld in [artikel 3, tweede, lid, van de Wet Centraal Orgaan opvang asielzoekers](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&artikel=3), na een verzoek hiertoe van Onze Minister.
 
-#### Artikel 4
+##### Artikel 4
 
 1. In naar behoren gemotiveerde gevallen kan de Minister andere regels inzake materiële opvangvoorzieningen vaststellen en aan het COA de bevoegdheid verlenen om bepaalde categorieën asielzoekers uit te sluiten van opvang indien:
 
@@ -148,11 +173,11 @@ Voor de toepassing van deze regeling wordt verstaan onder:
 
 ### Hoofdstuk III. Het eindigen van de opvang
 
-#### Artikel 5
+##### Artikel 5
 
 Het recht op opvang van een asielzoeker wiens asielaanvraag die recht op opvang heeft gegeven is afgewezen, eindigt indien de vertrektermijn als bedoeld in [artikel 62 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=62) is verstreken, tenzij de uitzetting van betrokkene ingevolge de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) of een rechterlijke uitspraak achterwege dient te blijven.
 
-#### Artikel 6
+##### Artikel 6
 
 Het recht op opvang van een alleenstaande minderjarige vreemdeling eindigt:
 
@@ -162,7 +187,7 @@ Het recht op opvang van een alleenstaande minderjarige vreemdeling eindigt:
 
 - c. op de dag na de dag waarop de 18-jarige leeftijd is bereikt, dan wel indien in de vreemdelingrechtelijke procedure onaantastbaar is vastgesteld dat de vreemdeling meerderjarig is, en de vreemdeling ook op grond van zijn asielaanvraag geen recht op opvang heeft.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het recht op opvang eindigt in de volgende gevallen:
 
@@ -196,13 +221,13 @@ Het recht op opvang van een alleenstaande minderjarige vreemdeling eindigt:
 
 3. In afwijking van het eerste lid, aanhef en onder e, eindigt het recht op opvang indien het een uitgeprocedeerde asielzoeker betreft, die voorafgaand aan de aanvraag op medische gronden zijn complete en actuele medische gegevens heeft overgelegd, aan wie met toepassing van [artikel 3, derde lid, aanhef en onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=II&artikel=3&z=2025-11-26&g=2025-11-26), van deze regeling opvang is geboden: vier weken nadat het rechtmatig verblijf als bedoeld in [artikel 8, aanhef en onder f, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) is geëindigd.
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
 ### Hoofdstuk IV. De verstrekkingen gedurende de opvang
 
-#### Artikel 9
+##### Artikel 9
 
 1. Behoudens de uitzondering genoemd in het vijfde lid, omvat de opvang in een opvangvoorziening in elk geval de volgende verstrekkingen:
 
@@ -260,7 +285,7 @@ Vervallen
 
 11. Het personeel dat in de opvangvoorziening werkt moet een passende opleiding hebben. Personen die met niet-begeleide minderjarigen werken, moeten passend onderricht over hun behoeften gevolgd hebben en blijven volgen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het COA kan de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=IV&artikel=9&z=2025-11-26&g=2025-11-26), bedoelde verstrekkingen beperken of, in uitzonderlijke gevallen intrekken indien de asielzoeker:
 
@@ -292,21 +317,21 @@ Vervallen
 
 6. De verstrekkingen bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=IV&artikel=9&z=2025-11-26&g=2025-11-26), worden niet beperkt of ingetrokken voordat de beslissing, bedoeld in het eerste en tweede lid is genomen.
 
-#### Artikel 11
+##### Artikel 11
 
 Een asielzoeker wordt alleen overgeplaatst indien dit noodzakelijk is.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De asielzoeker aan wie een verblijfsvergunning is verleend en die in afwachting is van het betrekken van woonruimte in een gemeente krijgt de verstrekkingen, bedoeld in [artikel 9 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=IV&artikel=9&z=2025-11-26&g=2025-11-26) van deze regeling, aangeboden indien het COA hiermee heeft ingestemd.
 
 2. De asielzoeker, bedoeld in het eerste lid, zal zich iedere twee weken bij het COA moeten melden en de instemming bedoeld in het eerste lid moeten hebben verkregen.
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
-#### Artikel 14
+##### Artikel 14
 
 1. De door de asielzoeker te ontvangen wekelijkse financiële toelage, bedoeld in [artikel 9, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=IV&artikel=9&z=2025-11-26&g=2025-11-26), van deze regeling, bestaat uit een bedrag ten behoeve van voedsel en een bedrag ten behoeve van kleding en andere persoonlijke uitgaven.
 
@@ -344,17 +369,17 @@ Vervallen
 
 - b. de wekelijkse financiële toelage ten behoeve van kleding en andere persoonlijke uitgaven als bedoeld in artikel 14, vierde lid, indien de genoemde vreemdeling in de procesopvanglocatie verblijft en de beoogde verblijfsduur in die opvangvoorziening substantieel wordt overschreden.
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
-#### Artikel 16
+##### Artikel 16
 
 1. Het treffen van een ziektekostenregeling bedoeld in [artikel 9 eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=IV&artikel=9&z=2025-11-26&g=2025-11-26) van deze regeling, houdt in het afsluiten van een ziektekostencontract ter dekking van de kosten van het door Onze Minister vastgestelde pakket medische verstrekkingen.
 
 2. Het verzekeren tegen de financiële gevolgen van wettelijke aansprakelijkheid, bedoeld in [artikel 9, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=IV&artikel=9&z=2025-11-26&g=2025-11-26) van deze regeling, houdt in het ten behoeve van de asielzoeker afsluiten van een verzekering voor de wettelijke aansprakelijkheid van de asielzoeker jegens een derde voor een som van maximaal € 453.780 per gebeurtenis per jaar, alsmede het betalen van de daarvoor verschuldigde premie.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Een asielzoeker kan een vergoeding ontvangen voor buitengewone kosten, bedoeld in [artikel 9, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=IV&artikel=9&z=2025-11-26&g=2025-11-26) van deze regeling, die hij heeft gemaakt.
 
@@ -384,7 +409,7 @@ Vervallen
 
 - c. een onderzoek, als bedoeld in [artikel 3.109e, vierde lid, van het Vreemdelingenbesluit 2000](onbekend).
 
-#### Artikel 18
+##### Artikel 18
 
 1. Een asielzoeker kan door het COA nader aan te wijzen werkzaamheden verrichten in en rondom de opvangvoorziening, voor de uitvoering waarvan een vergoeding kan worden gegeven.
 
@@ -396,7 +421,7 @@ Vervallen
 
 ### Hoofdstuk V. Verplichtingen gedurende de opvang
 
-#### Artikel 19
+##### Artikel 19
 
 1. Behoudens de uitzondering genoemd in lid 2 is de asielzoeker die onderdak heeft in een opvangvoorziening verplicht:
 
@@ -426,7 +451,7 @@ Vervallen
 
 3. In afwijking van het eerste lid, onder e, en het derde lid dient de asielzoeker wiens asielaanvraag versneld zal worden afgedaan en een daartoe strekkende aanwijzing van de IND heeft gekregen in de zin van [artikel 55, eerste lid, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=55) zich dagelijks tweemaal te melden bij het COA, ten einde vast te stellen dat de vreemdeling gebruik maakt van de faciliteiten van het COA en hij daarmee beschikbaar is voor de afhandeling van zijn asielprocedure.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De asielzoeker is verplicht onverwijld uit eigen beweging, of op verzoek van het COA, mededeling te doen van alle feiten of omstandigheden waarvan hem redelijkerwijs duidelijk moet zijn dat zij van invloed kunnen zijn op het recht op verstrekkingen, het geldend maken van het recht op verstrekkingen, de duur van verstrekkingen of de hoogte van de toelagen die aan hem worden betaald. Indien deze feiten of omstandigheden betrekking hebben op een kind dan wordt de mededeling gedaan door de asielzoeker te wiens laste het kind komt en in het geval dit meer dan één asielzoeker betreft, door één van die asielzoekers.
 
@@ -434,17 +459,17 @@ Vervallen
 
 3. Indien na zijn verblijf in een opvangvoorziening of de handhavings- en toezichtlocatie blijkt dat een vreemdeling tijdens dit verblijf beschikte over een vermogen of inkomsten, bedoeld in het tweede lid, kan het COA de kosten van de opvang van deze vreemdeling alsmede de kosten van opvang van zijn gezinsleden van hem terugvorderen. De terug te vorderen kosten per maand zijn niet hoger dan de economische waarde van de aan de vreemdeling feitelijk geboden verstrekkingen, vermeerderd met de economische waarde van de aan ieder gezinslid feitelijk geboden verstrekkingen, met dien verstande dat het terug te vorderen bedrag niet meer bedraagt dan het bedrag van het in het tweede lid bedoelde vermogen of de in het tweede lid bedoelde inkomsten.
 
-#### Artikel 21
+##### Artikel 21
 
 Indien blijkt dat een asielzoeker in strijd met de waarheid gegevens heeft verstrekt of verzwegen, waardoor hij of zijn gezinsleden ten onrechte, of tot een te hoog bedrag, de verstrekkingen, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=IV&artikel=9&z=2025-11-26&g=2025-11-26), hebben verkregen, dan wel dit op andere wijze heeft bewerkstelligd, is het COA bevoegd de waarde van de ten onrechte toegekende verstrekkingen terug te vorderen en in het geval van de vergunninghouder bedoeld in [artikel 3, derde lid, en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=II&artikel=3&z=2025-11-26&g=2025-11-26), de verstrekkingen tevens direct stop te zetten.
 
-#### Artikel 22
+##### Artikel 22
 
 Voor de verstrekkingen op basis van deze regeling geldt een beslagvrije voet ten aanzien van alle verstrekkingen die in natura geschieden en viervijfde deel van de verstrekkingen op grond van [artikel 9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=IV&artikel=9&z=2025-11-26&g=2025-11-26) van deze regeling.
 
 ### Hoofdstuk V. Verplichtingen gedurende de opvang
 
-#### Artikel 23
+##### Artikel 23
 
 Indien er ten aanzien van een asielzoeker
 
@@ -456,7 +481,7 @@ Indien er ten aanzien van een asielzoeker
 
 eindigen de verstrekkingen, in afwijking van [artikel 7, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=III&artikel=7&z=2025-11-26&g=2025-11-26) van deze regeling, op de dag waarop de asielzoeker Nederland ingevolge de mededeling van de korpschef dient te verlaten.
 
-#### Artikel 24
+##### Artikel 24
 
 [Artikel 7, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=III&artikel=7&z=2025-11-26&g=2025-11-26) van deze regeling is, in afwijking van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=VII&artikel=23&z=2025-11-26&g=2025-11-26) van deze regeling, eveneens van toepassing op de vreemdeling ten aanzien van wie:
 
@@ -466,19 +491,19 @@ eindigen de verstrekkingen, in afwijking van [artikel 7, eerste lid, aanhef en o
 
 - c. op of na 1 januari 2000 de vergunning tot verblijf, daaronder begrepen de voorwaardelijke vergunning tot verblijf, is ingetrokken of niet is verlengd, of de toelating als vluchteling is ingetrokken.
 
-#### Artikel 25
+##### Artikel 25
 
 De [Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 1997](https://wetten.overheid.nl/jci1.3:c:BWBR0009205) wordt ingetrokken.
 
-#### Artikel 26
+##### Artikel 26
 
 Deze regeling treedt in werking de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst
 
-#### Artikel 27
+##### Artikel 27
 
 Deze regeling kan wordt aangehaald als de Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005.
 
-#### Artikel 9a
+##### Artikel 9a
 
 Vervallen
 
@@ -486,7 +511,7 @@ Vervallen
 
 ### Hoofdstuk VI. Overgangs- en slotbepalingen
 
-#### Artikel 18a
+##### Artikel 18a
 
 1. Het COA zorgt ervoor dat tijdens het verblijf in de opvangvoorziening rekening wordt gehouden met de specifieke situatie van kwetsbare personen als bedoeld in artikel 21 van de Opvangrichtlijn.
 
@@ -496,7 +521,7 @@ Vervallen
 
 4. Onze Minister kan een uitzondering maken op het eerste tot en met derde lid indien de materiële opvang wordt verstrekt in particuliere huizen, appartementen, hotels of andere voor de huisvesting van verzoekers aangepaste ruimten.
 
-#### Artikel 18b
+##### Artikel 18b
 
 1. Bij de uitoefening van de bevoegdheid, bedoeld in [artikel 3a, van de Wet Centraal Orgaan opvang asielzoekers](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&artikel=3a), zorgt het COA ervoor dat:
 
@@ -518,7 +543,7 @@ Vervallen
 
 3. Voor zover mogelijk worden broers en zussen bij elkaar gehuisvest, rekening houdend met het belang van de betrokken minderjarige en in het bijzonder met zijn leeftijd en maturiteit.
 
-#### Artikel 18c
+##### Artikel 18c
 
 1. Het COA zorgt er tijdens het verblijf in de opvangvoorziening voor dat:
 
@@ -532,21 +557,21 @@ Vervallen
 
 ### Hoofdstuk VI. Exploitatie van een opvangvoorziening door het college van burgemeester en wethouders
 
-#### Artikel 22a
+##### Artikel 22a
 
 Indien het COA met het college is overeengekomen dat het college verantwoordelijk is voor de exploitatie van een opvangvoorziening en het COA de asielzoeker heeft geplaatst in of overgeplaatst naar een door het college geëxploiteerde opvangvoorziening zijn van toepassing of van overeenkomstige toepassing de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=I&artikel=1&z=2025-11-26&g=2025-11-26), [3, eerste lid, tweede lid, onder a, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=II&artikel=3&z=2025-11-26&g=2025-11-26), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=II&artikel=4&z=2025-11-26&g=2025-11-26), met dien verstande dat uitsluitend het COA bepaalde categorieën kan uitsluiten van opvang, tweede lid en derde lid, onder a, [5](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=III&artikel=5&z=2025-11-26&g=2025-11-26), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=III&artikel=7&z=2025-11-26&g=2025-11-26), [9, eerste, derde en vierde lid, achtste tot en met elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=IV&artikel=9&z=2025-11-26&g=2025-11-26), [10, eerste tot en met derde lid, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=IV&artikel=10&z=2025-11-26&g=2025-11-26), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=IV&artikel=12&z=2025-11-26&g=2025-11-26), [14, eerste tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=IV&artikel=14&z=2025-11-26&g=2025-11-26), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=IV&artikel=16&z=2025-11-26&g=2025-11-26), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=IV&artikel=17&z=2025-11-26&g=2025-11-26), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=IV&artikel=18&z=2025-11-26&g=2025-11-26), [18a](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=IVa&artikel=18a&z=2025-11-26&g=2025-11-26), [18c](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=IVa&artikel=18c&z=2025-11-26&g=2025-11-26), [19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=V&artikel=19&z=2025-11-26&g=2025-11-26), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=V&artikel=20&z=2025-11-26&g=2025-11-26), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=V&artikel=21&z=2025-11-26&g=2025-11-26) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&hoofdstuk=V&artikel=22&z=2025-11-26&g=2025-11-26).
 
-#### Artikel 22b
+##### Artikel 22b
 
 Van exploitatie door het college zijn uitgezonderd de opvangvoorzieningen met opvangplaatsen van bijzondere aard, bedoeld in [artikel 1.1 van het Besluit gemeentelijke taak mogelijk maken asielopvangvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0049310&artikel=1.1).
 
-#### Artikel 22c
+##### Artikel 22c
 
 1. Het college faciliteert de taken die voor de relevante uitvoeringsorganisaties in de migratieketen voortvloeien uit de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823), de [Wet Centraal Orgaan opvang asielzoekers](https://wetten.overheid.nl/jci1.3:c:BWBR0006685) of uit Unierechtelijke verplichtingen, zodat zij deze taken doelmatig en doeltreffend kunnen uitvoeren.
 
 2. De tussen het college en de uitvoeringsorganisaties in de migratieketen gemaakte werkafspraken worden schriftelijk vastgelegd.
 
-#### Artikel 22d
+##### Artikel 22d
 
 1. Indien het college voornemens is derden in te zetten bij het voorzien in de materiële en immateriële opvang van asielzoekers, legt het Centraal Orgaan opvang asielzoekers dat voornemen voor aan Onze Minister. Derden worden niet ingezet dan na toestemming van Onze Minister.
 

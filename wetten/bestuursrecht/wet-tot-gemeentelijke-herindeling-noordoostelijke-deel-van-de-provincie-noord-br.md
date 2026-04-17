@@ -1,14 +1,37 @@
 ---
-title: "Wet tot gemeentelijke herindeling noordoostelijke deel van de provincie Noord-Brabant"
+title: "Wet van 9 september 1993, tot gemeentelijke herindeling in het noordoostelijke deel van de provincie Noord-Brabant"
 identifier: "BWBR0006137"
-categorie: "Bestuursrecht"
-publicatiedatum: 1994-04-01
-laatste_update: 1994-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006137"
+country: "nl"
+rank: "wet"
+publication_date: "1994-04-01"
+last_updated: "1994-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006137"
+soort: "wet"
+stam_id: "313343"
+version_id: "454822"
+internal_id: "C454821"
+label_id: "306974"
+dtd_version: "2.0"
+original_entry_into_force: "1993-09-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006137/1994-04-01/0"
+intitule_bron: "Stb.1993-476"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1993-09-09"
+intitule_status: "goed"
+original_publication: "Stb.1993-476"
+original_signed_date: "1993-09-09"
+original_effect: "nieuwe-regeling"
+original_dossier: "22989"
+entry_into_force_date: "1993-09-17"
+jci_1_3: "jci1.3:c:BWBR0006137&z=1994-04-01&g=1994-04-01"
+jci_1_0: "1.0:c:BWBR0006137&g=1994-04-01"
+citeertitel_status: "officieel"
+short_title: "Wet tot gemeentelijke herindeling noordoostelijke deel van de provincie Noord-Brabant"
+signed_date: "1993-09-09"
+entry_into_force: "1993-09-17"
 ---
-
-# Wet tot gemeentelijke herindeling noordoostelijke deel van de provincie Noord-Brabant
+# Wet van 9 september 1993, tot gemeentelijke herindeling in het noordoostelijke deel van de provincie Noord-Brabant
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,15 +41,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### § 1. Opheffing gemeenten en instelling nieuwe gemeenten
 
-#### Artikel 1
+##### Artikel 1
 
 Met ingang van de datum van herindeling worden de gemeenten Megen c.a., Oss, Berghem, Schaijk, Zeeland, Grave, Beers, Cuijk c.a., Haps, Heesch, Nistelrode, Heeswijk-Dinther, Oeffelt, Boxmeer, Wanroij, Oploo c.a., Veghel en Erp opgeheven.
 
-#### Artikel 2
+##### Artikel 2
 
 Met ingang van de datum van herindeling worden de nieuwe gemeenten Oss, Landerd, Grave, Cuijk, Boxmeer, St. Anthonis, Veghel en Heesch ingesteld.
 
-#### Artikel 3
+##### Artikel 3
 
 1. **De nieuwe gemeente Oss** bestaat uit het gebied van de op te heffen gemeenten Oss, Berghem en Megen c.a. en delen van de op te heffen gemeenten Heesch, Schaijk en Nistelrode en van de gemeenten Lith en Ravenstein, met dien verstande dat haar grens komt te lopen als beschreven in het tweede tot en met het zevende lid.
 
@@ -72,7 +95,7 @@ Met ingang van de datum van herindeling worden de nieuwe gemeenten Oss, Landerd,
 
 7. De grens met de gemeente Maasdonk volgt vanaf het punt, dat in het zesde lid onder **d** het laatst is beschreven, in noordelijke richting de bestaande grens tot aan de gemeente Lith.
 
-#### Artikel 4
+##### Artikel 4
 
 1. **De nieuwe gemeente Landerd** bestaat uit het gebied van de op te heffen gemeenten Schaijk en Zeeland, delen van de op te heffen gemeenten Grave, Oss en Nistelrode en een deel van de gemeenten Ravenstein en Uden, met dien verstande dat haar grens komt te lopen als beschreven in het tweede tot en met het zevende lid.
 
@@ -130,7 +153,7 @@ Met ingang van de datum van herindeling worden de nieuwe gemeenten Oss, Landerd,
 
 7. De grens met de nieuwe gemeente Oss komt te lopen als beschreven in [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006137&paragraaf=1&artikel=3&z=1994-04-01&g=1994-04-01).
 
-#### Artikel 5
+##### Artikel 5
 
 1. De **nieuwe gemeente Grave** bestaat uit het gebied van de op te heffen gemeente Grave en delen van de op te heffen gemeenten Beers en Schaijk en van de gemeente Mill c.a., met dien verstande dat haar grens komt te lopen als beschreven in het tweede tot en met zesde lid.
 
@@ -162,7 +185,7 @@ Met ingang van de datum van herindeling worden de nieuwe gemeenten Oss, Landerd,
 
 6. De grens met de nieuwe gemeente Landerd komt te lopen als beschreven in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006137&paragraaf=1&artikel=4&z=1994-04-01&g=1994-04-01).
 
-#### Artikel 6
+##### Artikel 6
 
 1. De **nieuwe gemeente Cuijk** bestaat uit het gebied van de op te heffen gemeenten Cuijk c.a. en Haps en delen van de op te heffen gemeente Beers en van de gemeente Mill c.a., met dien verstande dat haar grens komt te lopen als beschreven in het tweede tot en met het zesde lid.
 
@@ -190,7 +213,7 @@ Met ingang van de datum van herindeling worden de nieuwe gemeenten Oss, Landerd,
 
 6. De grens met de nieuwe gemeente Grave komt te lopen als beschreven in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006137&paragraaf=1&artikel=5&z=1994-04-01&g=1994-04-01).
 
-#### Artikel 7
+##### Artikel 7
 
 1. De **nieuwe gemeente Boxmeer** bestaat uit het gebied van de op te heffen gemeenten Boxmeer en Oeffelt en delen van de op te heffen gemeente Wanroij en van de gemeente Vierlingsbeek, met dien verstande dat haar grens komt te lopen als beschreven in het tweede tot en met het vijfde lid.
 
@@ -230,7 +253,7 @@ Met ingang van de datum van herindeling worden de nieuwe gemeenten Oss, Landerd,
 
 5. De grens met de nieuwe gemeente Cuijk komt te lopen als beschreven in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006137&paragraaf=1&artikel=6&z=1994-04-01&g=1994-04-01).
 
-#### Artikel 8
+##### Artikel 8
 
 1. De **nieuwe gemeente St. Anthonis** bestaat uit het gebied van de op te heffen gemeente Oploo c.a., een deel van de op te heffen gemeente Wanroij en een deel van het gebied van de gemeente Vierlingsbeek met dien verstande dat haar grens komt te lopen als beschreven in het tweede tot en met het tiende lid.
 
@@ -262,7 +285,7 @@ Met ingang van de datum van herindeling worden de nieuwe gemeenten Oss, Landerd,
 
 10. De grens met de gemeente Mill c.a. volgt beginnend op de bestaande grens tussen de op te heffen gemeente Wanroij en de gemeente Uden en Mill c.a. in noordoostelijke richting de bestaande grens tot in het punt, waar de percelen, kadastraal bekend gemeente Wanroij, sectie K, nr. 731 en Mill, sectie D, nr. 2084 aan elkaar grenzen. Vervolgens in noordwestelijke, noordelijke, noordoostelijke, noordwestelijke en noordoostelijke richting de gemeenschappelijke grens van de percelen, kadastraal bekend gemeente Mill, sectie D, nrs. 2084 en 2085 tot de bestaande grens. Vervolgens in noordoostelijke richting tot in het punt, waar de percelen, kadastraal bekend gemeente Wanroij, sectie K, nrs. 78 en 490 en Mill, sectie C, nr. 1087 aan elkaar grenzen. Vervolgens in oostelijke, zuidelijke, oostelijke, noordwestelijke, noordoostelijke, en zuidoostelijke richting de gemeenschappelijke grens van de percelen, kadastraal bekend gemeente Wanroij, sectie K, nrs. 490, 8, 623, 9, 5 en 621 en Mill, sectie C, nrs. 1466 en 1454 enerzijds en Wanroij, sectie K, nrs. 78, 678, 11, 4 en 413 en Mill, sectie C, nrs. 1528 en 1464 anderzijds tot de bestaande grens.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De **nieuwe gemeente Veghel** bestaat uit het gebied van de op te heffen gemeenten Veghel en Erp en delen van de gemeenten Uden en Sint-Oedenrode, met dien verstande dat haar grens komt te lopen als beschreven in het tweede tot en met het negende lid.
 
@@ -308,7 +331,7 @@ Met ingang van de datum van herindeling worden de nieuwe gemeenten Oss, Landerd,
 
 - c. Van daar af in noordelijke richting de middellijn van deze waterloop, kadastraal bekend gemeente Sint-Oedenrode, sectie D, nr. 2772, Veghel, sectie E, nr. 3962 en Sint-Oedenrode, sectie D, nr. 2732 tot de verlengde noordgrens van het perceel, kadastraal bekend gemeente Sint-Oedenrode, sectie D, nr. 2838. Vervolgens in westelijke richting in een rechte lijn tot in het punt, waar de percelen, kadastraal bekend gemeente Sint-Oedenrode, sectie D, nrs. 2732, 2838 en 2841 aan elkaar grenzen en vervolgens in overwegend westelijke richting de gemeenschappelijke grens van de percelen, kadastraal bekend gemeente Sint-Oedenrode, sectie D, nrs. 2838, 2842 en 2660 enerzijds en nrs. 2841, 2840, 2518 en 2678 anderzijds tot de bestaande grens.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De **nieuwe gemeente Heesch** bestaat uit het gebied van de op te heffen gemeenten Heesch, Heeswijk-Dinther en Nistelrode, delen van de op te heffen gemeenten Schaijk en Veghel en delen van het gebied van de gemeente Uden, met dien verstande dat haar grens komt te lopen als beschreven in het tweede tot en met het achtste lid.
 
@@ -348,13 +371,13 @@ Met ingang van de datum van herindeling worden de nieuwe gemeenten Oss, Landerd,
 
 #### § 2. Grenswijzigingen van niet op te heffen gemeenten
 
-#### Artikel 11
+##### Artikel 11
 
 1. De grenzen van de gemeente Lith worden gewijzigd als beschreven in het tweede en derde lid.
 
 2. De grens met de nieuwe gemeente Oss komt te lopen als beschreven in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006137&paragraaf=1&artikel=3&z=1994-04-01&g=1994-04-01).
 
-#### Artikel 12
+##### Artikel 12
 
 1. De grenzen van de gemeente Ravenstein worden gewijzigd als beschreven in het tweede en het derde lid.
 
@@ -362,7 +385,7 @@ Met ingang van de datum van herindeling worden de nieuwe gemeenten Oss, Landerd,
 
 3. De grens met de nieuwe gemeente Oss komt te lopen als aangegeven in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006137&paragraaf=1&artikel=3&z=1994-04-01&g=1994-04-01).
 
-#### Artikel 13
+##### Artikel 13
 
 1. De grenzen van de gemeente Mill c.a. worden gewijzigd als beschreven in het tweede, derde lid en vierde lid.
 
@@ -372,7 +395,7 @@ Met ingang van de datum van herindeling worden de nieuwe gemeenten Oss, Landerd,
 
 4. De grens met de nieuwe gemeente St. Anthonis komt te lopen als beschreven in [artikel 8, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006137&paragraaf=1&artikel=8&z=1994-04-01&g=1994-04-01).
 
-#### Artikel 14
+##### Artikel 14
 
 1. De grenzen van de gemeente Vierlingsbeek worden gewijzigd als beschreven in het tweede en het derde lid.
 
@@ -380,7 +403,7 @@ Met ingang van de datum van herindeling worden de nieuwe gemeenten Oss, Landerd,
 
 3. De grens met de nieuwe gemeente St. Anthonis komt te lopen als beschreven in [artikel 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006137&paragraaf=1&artikel=8&z=1994-04-01&g=1994-04-01).
 
-#### Artikel 15
+##### Artikel 15
 
 1. De grens van de gemeente Boekel wordt gewijzigd als beschreven in het tweede lid.
 
@@ -396,7 +419,7 @@ Met ingang van de datum van herindeling worden de nieuwe gemeenten Oss, Landerd,
 
 - e. Van daar af in oostelijke richting de gemeenschappelijke grens van de percelen, kadastraal bekend gemeente Boekel, sectie L, nr. 8 enerzijds en nr. 33 anderzijds tot de bestaande grens en vervolgens deze bestaande grens tot de bestaande grens tussen de gemeente Boekel en de op te heffen gemeente Wanroij.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De grenzen van de gemeente Uden worden gewijzigd als beschreven in het tweede tot en met het vijfde lid.
 
@@ -408,19 +431,19 @@ Met ingang van de datum van herindeling worden de nieuwe gemeenten Oss, Landerd,
 
 5. De grens met de nieuwe gemeente Heesch komt te lopen als beschreven in [artikel 10, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006137&paragraaf=1&artikel=10&z=1994-04-01&g=1994-04-01).
 
-#### Artikel 17
+##### Artikel 17
 
 1. De grenzen van de gemeente Sint-Oedenrode worden gewijzigd als beschreven in het tweede lid.
 
 2. De grens met de nieuwe gemeente Veghel komt te lopen als beschreven in [artikel 9, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006137&paragraaf=1&artikel=9&z=1994-04-01&g=1994-04-01).
 
-#### Artikel 18
+##### Artikel 18
 
 De grens van de gemeente Maasdonk wordt gewijzigd als beschreven in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006137&paragraaf=1&artikel=10&z=1994-04-01&g=1994-04-01).
 
 #### § 3. Overige bepalingen
 
-#### Artikel 19
+##### Artikel 19
 
 Krachtens [artikel 36, eerste en tweede lid, van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=36) wordt aangewezen de op te heffen gemeente:
 
@@ -440,7 +463,7 @@ Krachtens [artikel 36, eerste en tweede lid, van de Wet algemene regels herindel
 
 - h. Heesch, voor de toepassing van die leden op de nieuwe gemeente Heesch.
 
-#### Artikel 20
+##### Artikel 20
 
 Krachtens [artikel 39, tweede lid, van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=39), wordt aangewezen de nieuwe gemeente:
 
@@ -460,7 +483,7 @@ Krachtens [artikel 39, tweede lid, van de Wet algemene regels herindeling](https
 
 - h. Heesch voor het gebied van de op te heffen gemeenten Heesch, Heeswijk-Dinther en Nistelrode.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Met ingang van de datum van herindeling vervallen de gemeenschappelijke regelingen waaraan uitsluitend wordt deelgenomen door:
 
@@ -500,7 +523,7 @@ Krachtens [artikel 39, tweede lid, van de Wet algemene regels herindeling](https
 
 - h. Heesch in de plaats van de op te heffen gemeenten Heesch, Heeswijk-Dinther en Nistelrode.
 
-#### Artikel 22
+##### Artikel 22
 
 Krachtens [artikel 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=44), en [45, tweede lid, van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=45) wordt aangewezen de nieuwe gemeente:
 
@@ -520,7 +543,7 @@ Krachtens [artikel 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR00037
 
 - h. Heesch, met betrekking tot rechten en verplichtingen van de op te heffen gemeenten Heesch, Heeswijk-Dinther en Nistelrode.
 
-#### Artikel 23
+##### Artikel 23
 
 Krachtens [artikel 48, tweede lid, van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=48) treedt de nieuwe gemeente:
 
@@ -540,7 +563,7 @@ Krachtens [artikel 48, tweede lid, van de Wet algemene regels herindeling](https
 
 - h. Heesch in de plaats van de op te heffen gemeenten Heesch, Heeswijk-Dinther en Nistelrode.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Een verkiezing als bedoeld in [artikel 52, eerste lid, van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=52) wordt gehouden voor de nieuwe gemeenten die bij deze wet worden ingesteld. Krachtens hetzelfde lid wordt aangewezen de op te heffen gemeente:
 
@@ -562,13 +585,13 @@ Krachtens [artikel 48, tweede lid, van de Wet algemene regels herindeling](https
 
 2. Indien de datum van herindeling valt binnen een jaar voor de datum waarop de verkiezingen voor de leden van de gemeenteraden ingevolge de [Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627) moeten worden gehouden, vinden deze verkiezingen niet plaats in de gemeenten die bij deze wet zijn ingesteld.
 
-#### Artikel 25
+##### Artikel 25
 
 1. De gewone zittingsperiode van de gemeenteraadsleden die zijn gekozen bij een verkiezing als bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006137&paragraaf=3&artikel=24&z=1994-04-01&g=1994-04-01), eindigt tegelijk met de zittingsperiode van de gemeenteraadsleden die zijn gekozen bij de reguliere verkiezingen ingevolge de [Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627).
 
 2. Het eerste lid is van overeenkomstige toepassing op de wethouders die zijn benoemd uit gemeenteraden die zijn gekozen bij verkiezingen als bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006137&paragraaf=3&artikel=24&z=1994-04-01&g=1994-04-01).
 
-#### Artikel 26
+##### Artikel 26
 
 Krachtens [artikel 59, eerste lid, van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=59) wordt aangewezen de nieuwe gemeente:
 
@@ -588,7 +611,7 @@ Krachtens [artikel 59, eerste lid, van de Wet algemene regels herindeling](https
 
 - h. Heesch, wat betreft de ambtenaren van de op te heffen gemeenten Heesch, Heeswijk-Dinther en Nistelrode.
 
-#### Artikel 27
+##### Artikel 27
 
 Krachtens [artikel 70, eerste lid, van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=70) wordt aangewezen de nieuwe gemeente:
 
@@ -608,23 +631,23 @@ Krachtens [artikel 70, eerste lid, van de Wet algemene regels herindeling](https
 
 - h. Heesch, wat betreft de archiefbescheiden van de op te heffen gemeenten Heesch, Heeswijk-Dinther en Nistelrode.
 
-#### Artikel 28
+##### Artikel 28
 
 Vervallen
 
-#### Artikel 29
+##### Artikel 29
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 30
+##### Artikel 30
 
 Ter voldoening aan het bepaalde in artikel 17, eerste lid, van de Tijdelijke wet bekostiging nieuwe basisscholen wordt de stichtingsnorm voor de nieuwe gemeente Oss met ingang van de datum van herindeling vastgesteld op 250.
 
-#### Artikel 31
+##### Artikel 31
 
 Onze Minister van Binnenlandse Zaken kan, indien nodig, binnen dertig dagen na inwerkingtreding van deze wet verbeteringen aanbrengen in de grensbeschrijving.
 
-#### Artikel 32
+##### Artikel 32
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 

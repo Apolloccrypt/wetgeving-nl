@@ -1,13 +1,38 @@
 ---
 title: "Internationaal Verdrag inzake burgerrechten en politieke rechten"
 identifier: "BWBV0001017"
-categorie: "Internationaal recht"
-publicatiedatum: 1979-03-11
-laatste_update: 1979-03-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001017"
+country: "nl"
+rank: "verdrag"
+publication_date: "1979-03-11"
+last_updated: "1979-03-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001017"
+soort: "verdrag"
+stam_id: "10002359663"
+version_id: "10002364132"
+internal_id: "C10006984731"
+label_id: "10002350044"
+dtd_version: "2.0"
+original_entry_into_force: "1979-03-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001017/1979-03-11/0"
+intitule_bron: "Trb.1969-99"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1978-12-11"
+intitule_published: "1969-07-16"
+intitule_in_force: "1978-12-16"
+intitule_status: "goed"
+original_publication: "Trb.1969-99"
+original_signed_date: "1978-12-11"
+original_published_date: "1969-07-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1969-99"
+entry_into_force_date: "1979-03-11"
+jci_1_3: "jci1.3:c:BWBV0001017&z=1979-03-11&g=1979-03-11"
+jci_1_0: "1.0:c:BWBV0001017&g=1979-03-11"
+citeertitel_status: "redactioneel"
+signed_date: "1978-12-11"
+entry_into_force: "1979-03-11"
 ---
-
 # Internationaal Verdrag inzake burgerrechten en politieke rechten
 
 **Preambule**
@@ -28,7 +53,7 @@ Zijn overeengekomen als volgt:
 
 ## DEEL I
 
-#### Artikel 1
+##### Artikel 1
 
 1. Alle volken bezitten het zelfbeschikkingsrecht. Uit hoofde van dit recht bepalen zij in alle vrijheid hun politieke status en streven zij vrijelijk hun economische, sociale en culturele ontwikkeling na.
 
@@ -38,7 +63,7 @@ Zijn overeengekomen als volgt:
 
 ## DEEL II
 
-#### Artikel 2
+##### Artikel 2
 
 1. Iedere Staat die partij is bij dit Verdrag verbindt zich de in dit Verdrag erkende rechten te eerbiedigen en deze aan een ieder die binnen zijn grondgebied verblijft en aan zijn rechtsmacht is onderworpen te verzekeren, zonder onderscheid van welke aard ook, zoals ras, huidskleur, geslacht, taal, godsdienst, politieke of andere overtuiging, nationale of maatschappelijke afkomst, welstand, geboorte of enige andere omstandigheid.
 
@@ -52,11 +77,11 @@ Zijn overeengekomen als volgt:
 
 - (c). Te verzekeren dat de bevoegde autoriteiten daadwerkelijk rechtsherstel verlenen, in geval het beroep gegrond wordt verklaard.
 
-#### Artikel 3
+##### Artikel 3
 
 De Staten die partij zijn bij dit Verdrag verbinden zich het gelijke recht van mannen en vrouwen op het genot van alle in dit Verdrag genoemde burgerrechten en politieke rechten te verzekeren.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Bij een algemene noodtoestand, die een bedreiging vormt voor het bestaan van het volk en die officieel is afgekondigd, kunnen de Staten die partij zijn bij dit Verdrag maatregelen nemen, die afwijken van hun verplichtingen ingevolge dit Verdrag, mits deze maatregelen niet verder gaan dan de toestand vereist en niet in strijd zijn met andere verplichtingen welke voortvloeien uit het internationale recht en geen discriminatie uitsluitend op grond van ras, huidskleur, geslacht, taal, godsdienst of maatschappelijke afkomst inhouden.
 
@@ -64,7 +89,7 @@ De Staten die partij zijn bij dit Verdrag verbinden zich het gelijke recht van m
 
 3. Iedere Staat die partij is bij dit Verdrag die gebruik maakt van het recht tot afwijking van de bepalingen daarvan stelt de andere Staten die partij zijn bij dit Verdrag, door tussenkomst van de Secretaris-Generaal van de Verenigde Naties, onverwijld in kennis van de bepalingen waarvan hij is afgeweken, alsmede van de redenen die hem daartoe hebben genoopt. Eveneens door tussenkomst van de Secretaris-Generaal wordt een volgende kennisgeving gedaan op de datum waarop de afwijking ophoudt van kracht te zijn.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Geen bepaling van dit Verdrag mag zodanig worden uitgelegd als zou zij voor een Staat, een groep of een persoon het recht inhouden enige activiteit te ontplooien of enige daad te verrichten, die ten doel heeft de rechten en vrijheden welke in dit Verdrag zijn erkend, te vernietigen of deze rechten en vrijheden meer te beperken dan bij dit Verdrag is voorzien.
 
@@ -72,7 +97,7 @@ De Staten die partij zijn bij dit Verdrag verbinden zich het gelijke recht van m
 
 ## DEEL III
 
-#### Artikel 6
+##### Artikel 6
 
 1. Ieder heeft het recht op leven. Dit recht wordt door de wet beschermd. Niemand mag naar willekeur van zijn leven worden beroofd.
 
@@ -86,11 +111,11 @@ De Staten die partij zijn bij dit Verdrag verbinden zich het gelijke recht van m
 
 6. Op geen enkele bepaling van dit artikel kan een beroep worden gedaan om de afschaffing van de doodstraf door een Staat die partij is bij dit Verdrag op te schorten of te voorkomen.
 
-#### Artikel 7
+##### Artikel 7
 
 Niemand mag worden onderworpen aan folteringen, of aan wrede, onmenselijke of vernederende behandeling of bestraffing. In het bijzonder mag niemand, zonder zijn in vrijheid gegeven toestemming, worden onderworpen aan medische of wetenschappelijke experimenten.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Niemand mag in slavernij worden gehouden; slavernij en slavenhandel in iedere vorm zijn verboden.
 
@@ -110,7 +135,7 @@ Niemand mag worden onderworpen aan folteringen, of aan wrede, onmenselijke of ve
 
 - (iv). alle arbeid of elke dienst die deel uitmaakt van de normale burgerplichten.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Een ieder heeft recht op vrijheid en veiligheid van zijn persoon. Niemand mag worden onderworpen aan willekeurige arrestatie of gevangenhouding. Niemand mag zijn vrijheid worden ontnomen, behalve op wettige gronden en op wettige wijze.
 
@@ -122,7 +147,7 @@ Niemand mag worden onderworpen aan folteringen, of aan wrede, onmenselijke of ve
 
 5. Een ieder die het slachtoffer is geweest van een onwettige arrestatie of gevangenhouding heeft recht op schadeloosstelling.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Allen die van hun vrijheid zijn beroofd dienen te worden behandeld met menselijkheid en met eerbied voor de waardigheid, inherent aan de menselijke persoon.
 
@@ -132,11 +157,11 @@ Niemand mag worden onderworpen aan folteringen, of aan wrede, onmenselijke of ve
 
 3. Het gevangenisstelsel dient te voorzien in een behandeling van gevangenen die in de eerste plaats is gericht op heropvoeding en reclassering. Jeugdige overtreders dienen gescheiden te worden gehouden van volwassenen en behandeld te worden in overeenstemming met hun leeftijd en wettelijke staat.
 
-#### Artikel 11
+##### Artikel 11
 
 Niemand mag gevangen worden genomen uitsluitend omdat hij niet in staat is een uit een overeenkomst voortvloeiende verplichting na te komen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Een ieder die wettig op het grondgebied van een Staat verblijft, heeft, binnen dit grondgebied, het recht zich vrijelijk te verplaatsen en er zijn verblijfplaats vrijelijk te kiezen.
 
@@ -146,11 +171,11 @@ Niemand mag gevangen worden genomen uitsluitend omdat hij niet in staat is een u
 
 4. Aan niemand mag willekeurig het recht worden ontnomen naar zijn eigen land terug te keren.
 
-#### Artikel 13
+##### Artikel 13
 
 Een vreemdeling die wettig op het grondgebied verblijft van een Staat die partij is bij dit Verdrag, kan slechts uit die Staat worden gezet krachtens een overeenkomstig de wet genomen beslissing, terwijl het hem, tenzij dwingende redenen van nationale veiligheid een tegengestelde beslissing rechtvaardigen, is toegestaan zijn bezwaren tegen zijn uitzetting kenbaar te maken en zijn geval opnieuw te doen beoordelen door, en zich met dit doel te doen vertegenwoordigen bij de bevoegde autoriteit dan wel door een of meer personen die daartoe speciaal door de bevoegde autoriteit zijn aangewezen.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Allen zijn gelijk voor de rechter en de rechterlijke instanties. Bij het bepalen van de gegrondheid van een tegen hem ingestelde strafvervolging, of het vaststellen van zijn burgerlijke rechten en verplichtingen in een rechtsgeding, heeft een ieder recht op een eerlijke en openbare behandeling door een bevoegde, onafhankelijke en onpartijdige bij de wet ingestelde rechterlijke instantie. De terechtzitting kan geheel of ten dele met gesloten deuren plaatsvinden, hetzij in het belang van de goede zeden, de openbare orde of de nationale veiligheid in een democratische samenleving, hetzij wanneer het belang van het privé leven van de partijen bij het proces dit vereist, hetzij voorzover de rechter dit strikt noodzakelijk acht op grond van de overweging, dat een openbare behandeling het belang van de rechtspraak zou schaden; evenwel zal elk vonnis dat wordt gewezen in een strafrechtelijk of burgerrechtelijk geding openbaar zijn, tenzij het belang van jeugdige personen zich daartegen verzet of het proces echtelijke twisten of de voogdij over kinderen betreft.
 
@@ -180,23 +205,23 @@ Een vreemdeling die wettig op het grondgebied verblijft van een Staat die partij
 
 7. Niemand mag voor een tweede keer worden berecht of gestraft voor een strafbaar feit waarvoor hij reeds overeenkomstig de wet en het procesrecht van elk land bij onherroepelijke uitspraak is veroordeeld of waarvan hij is vrijgesproken.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Niemand kan worden veroordeeld wegens een handelen of nalaten, dat geen strafbaar feit naar nationaal of internationaal recht uitmaakte ten tijde dat het handelen of nalaten geschiedde. Evenmin mag een zwaardere straf worden opgelegd dan die welke ten tijde van het begaan van het strafbare feit van toepassing was. Indien, na het begaan van het strafbare feit de wet mocht voorzien in de oplegging van een lichtere straf, dient de overtreder daarvan te profiteren.
 
 2. Geen enkele bepaling van dit artikel staat in de weg aan het vonnis en de straf van iemand die schuldig is aan een handelen of nalaten, hetwelk ten tijde dat het handelen of nalaten geschiedde, van strafrechtelijke aard was overeenkomstig de algemene rechtsbeginselen die door de volkerengemeenschap worden erkend.
 
-#### Artikel 16
+##### Artikel 16
 
 Een ieder heeft, waar hij zich ook bevindt, het recht als persoon erkend te worden voor de wet.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Niemand mag worden onderworpen aan willekeurige of onwettige inmenging in zijn privé leven, zijn gezinsleven, zijn huis en zijn briefwisseling, noch aan onwettige aantasting van zijn eer en goede naam.
 
 2. Een ieder heeft recht op bescherming door de wet tegen zodanige inmenging of aantasting.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Een ieder heeft het recht op vrijheid van denken, geweten en godsdienst. Dit recht omvat mede de vrijheid een zelf gekozen godsdienst of levensovertuiging te hebben of te aanvaarden, alsmede de vrijheid hetzij alleen, hetzij met anderen, zowel in het openbaar als in zijn particuliere leven zijn godsdienst of levensovertuiging tot uiting te brengen door de eredienst, het onderhouden van de geboden en voorschriften, door praktische toepassing en het onderwijzen ervan.
 
@@ -206,7 +231,7 @@ Een ieder heeft, waar hij zich ook bevindt, het recht als persoon erkend te word
 
 4. De Staten die partij zijn bij dit Verdrag verbinden zich de vrijheid te eerbiedigen van ouders of wettige voogden, de godsdienstige en morele opvoeding van hun kinderen overeenkomstig hun eigen levensovertuiging te verzekeren.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Een ieder heeft het recht zonder inmenging een mening te koesteren.
 
@@ -218,17 +243,17 @@ Een ieder heeft, waar hij zich ook bevindt, het recht als persoon erkend te word
 
 - (b). in het belang van de nationale veiligheid of ter bescherming van de openbare orde, de volksgezondheid of de goede zeden.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Alle oorlogspropaganda wordt bij de wet verboden.
 
 2. Het propageren van op nationale afkomst, ras of godsdienst gebaseerde haatgevoelens die aanzetten tot discriminatie, vijandigheid of geweld, wordt bij de wet verboden.
 
-#### Artikel 21
+##### Artikel 21
 
 Het recht van vreedzame vergadering wordt erkend. De uitoefening van dit recht kan aan geen andere beperkingen worden onderworpen dan die welke in overeenstemming met de wet worden opgelegd en die in een democratische samenleving geboden zijn in het belang van de nationale veiligheid of de openbare veiligheid, de openbare orde, de bescherming van de volksgezondheid of de goede zeden of de bescherming van de rechten en vrijheden van anderen.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Een ieder heeft het recht op vrijheid van vereniging, met inbegrip van het recht vakverenigingen op te richten en zich bij vakverenigingen aan te sluiten voor de bescherming van zijn belangen.
 
@@ -236,7 +261,7 @@ Het recht van vreedzame vergadering wordt erkend. De uitoefening van dit recht k
 
 3. Geen bepaling in dit artikel geeft de Staten die partij zijn bij het [Verdrag van 1948 van de Internationale Arbeidsorganisatie betreffende de vrijheid tot het oprichten van vakverenigingen en de bescherming van het vakverenigingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBV0005545) de bevoegdheid wettelijke maatregelen te treffen, die de in dat Verdrag voorziene waarborgen in gevaar zouden brengen, of de wet zodanig toe te passen dat deze in gevaar zouden worden gebracht.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Het gezin vormt de natuurlijke en fundamentele kern van de maatschappij en heeft recht op bescherming door de maatschappij en de Staat.
 
@@ -246,7 +271,7 @@ Het recht van vreedzame vergadering wordt erkend. De uitoefening van dit recht k
 
 4. De Staten die partij zijn bij dit Verdrag nemen passende maatregelen ter verzekering van de gelijke rechten en verantwoordelijkheden van de echtgenoten wat het huwelijk betreft, tijdens het huwelijk en bij de ontbinding ervan. In geval van ontbinding van het huwelijk wordt voorzien in de noodzakelijke bescherming van eventuele kinderen.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Elk kind heeft, zonder onderscheid naar ras, huidskleur, geslacht, taal, godsdienst, nationale of maatschappelijke afkomst, eigendom of geboorte, recht op die beschermende maatregelen van de zijde van het gezin waartoe het behoort, de gemeenschap en de Staat, waarop het in verband met zijn minderjarigheid recht heeft.
 
@@ -254,7 +279,7 @@ Het recht van vreedzame vergadering wordt erkend. De uitoefening van dit recht k
 
 3. Elk kind heeft het recht een nationaliteit te verwerven.
 
-#### Artikel 25
+##### Artikel 25
 
 Elke burger heeft het recht en dient in de gelegenheid te worden gesteld, zonder dat het onderscheid bedoeld in artikel 2 wordt gemaakt en zonder onredelijke beperkingen:
 
@@ -264,17 +289,17 @@ Elke burger heeft het recht en dient in de gelegenheid te worden gesteld, zonder
 
 - (c). op algemene voet van gelijkheid te worden toegelaten tot de overheidsdiensten van zijn land.
 
-#### Artikel 26
+##### Artikel 26
 
 Allen zijn gelijk voor de wet en hebben zonder discriminatie aanspraak op gelijke bescherming door de wet. In dit verband verbiedt de wet discriminatie van welke aard ook en garandeert een ieder gelijke en doelmatige bescherming tegen discriminatie op welke grond ook, zoals ras, huidskleur, geslacht, taal, godsdienst, politieke of andere overtuiging, nationale of maatschappelijke afkomst, eigendom, geboorte of andere status.
 
-#### Artikel 27
+##### Artikel 27
 
 In Staten waar zich etnische, godsdienstige of linguïstische minderheden bevinden, mag aan personen die tot die minderheden behoren niet het recht worden ontzegd, in gemeenschap met de andere leden van hun groep, hun eigen cultuur te beleven, hun eigen godsdienst te belijden en in de praktijk toe te passen, of zich van hun eigen taal te bedienen.
 
 ## DEEL IV
 
-#### Artikel 28
+##### Artikel 28
 
 1. Er wordt een Comité voor de rechten van de mens (hierna in dit Verdrag te noemen „het Comité") ingesteld. Het bestaat uit achttien leden en oefent de hierna te noemen functies uit.
 
@@ -282,7 +307,7 @@ In Staten waar zich etnische, godsdienstige of linguïstische minderheden bevind
 
 3. De leden van het Comité worden gekozen en treden op in hun persoonlijke hoedanigheid.
 
-#### Artikel 29
+##### Artikel 29
 
 1. De leden van het Comité worden bij geheime stemming gekozen uit een lijst van personen die de kwaliteiten bezitten die in artikel 28 worden genoemd en met dit doel zijn voorgedragen door de Staten die partij zijn bij dit Verdrag.
 
@@ -290,7 +315,7 @@ In Staten waar zich etnische, godsdienstige of linguïstische minderheden bevind
 
 3. Een persoon kan opnieuw worden voorgedragen.
 
-#### Artikel 30
+##### Artikel 30
 
 1. De eerste verkiezing wordt niet later gehouden dan zes maanden na de datum van inwerkingtreding van dit Verdrag.
 
@@ -300,25 +325,25 @@ In Staten waar zich etnische, godsdienstige of linguïstische minderheden bevind
 
 4. De verkiezingen van de leden van het Comité worden gehouden op een door de Secretaris-Generaal van de Verenigde Naties ten hoofdkantore van de Verenigde Naties te beleggen vergadering van de Staten die partij zijn bij dit Verdrag. Op die vergadering, waarvoor twee derde van de Staten die partij zijn bij dit Verdrag het quorum vormen, zijn degenen die in het Comité zijn gekozen die voorgedragen personen die het grootste aantal stemmen op zich hebben verenigd, alsmede een absolute meerderheid van de stemmen van de aanwezige vertegenwoordigers van de Staten die partij zijn en hun stem uitbrengen.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Er mag niet meer dan één onderdaan van een zelfde Staat lid van het Comité zijn.
 
 2. Bij het kiezen van het Comité dient aandacht te worden geschonken aan een billijke geografische verdeling van het lidmaatschap en aan de vertegenwoordiging der verschillende beschavingsvormen en der voornaamste rechtsstelsels.
 
-#### Artikel 32
+##### Artikel 32
 
 1. De leden van het Comité worden gekozen voor een tijdvak van vier jaar. Zij zijn herkiesbaar indien zij opnieuw worden voorgedragen. De ambtstermijn van negen der bij de eerste verkiezing benoemde leden loopt evenwel na twee jaar af; terstond na de eerste verkiezing worden deze negen leden bij loting aangewezen door de voorzitter van de in artikel 30, lid 4, bedoelde vergadering.
 
 2. Verkiezingen na afloop van een ambtstermijn worden gehouden overeenkomstig de voorgaande artikelen van dit deel van dit Verdrag.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Indien, naar het eenstemmige oordeel van de andere leden, een lid van het Comité door enige oorzaak, waaronder niet is te verstaan tijdelijke afwezigheid, heeft opgehouden zijn functie uit te oefenen, geeft de voorzitter van het Comité daarvan kennis aan de Secretaris-Generaal der Verenigde Naties, die vervolgens mededeling doet van het openvallen van de zetel van dat lid.
 
 2. Indien een lid van het Comité overlijdt of ontslag neemt, geeft de voorzitter daarvan onverwijld kennis aan de Secretaris-Generaal van de Verenigde Naties, die mededeling doet van het openvallen van de zetel met ingang van de datum van het overlijden of de datum waarop het genomen ontslag ingaat.
 
-#### Artikel 34
+##### Artikel 34
 
 1. Indien een vacature wordt bekendgemaakt overeenkomstig het bepaalde in artikel 33 en indien de ambtstermijn van het te vervangen lid niet afloopt binnen een tijdvak van zes maanden na de bekendmaking van de vacature, geeft de Secretaris-Generaal van de Verenigde Naties daarvan bericht aan elk der Staten die partij zijn bij dit Verdrag, die binnen twee maanden overeenkomstig het bepaalde in artikel 29 personen kunnen voordragen ter voorziening in de vacature.
 
@@ -326,15 +351,15 @@ In Staten waar zich etnische, godsdienstige of linguïstische minderheden bevind
 
 3. Een lid van het Comité dat is gekozen ter voorziening in een vacature die is bekendgemaakt overeenkomstig het bepaalde in artikel 33, blijft in functie voor de rest van de ambtstermijn van het lid wiens zetel in het Comité is opengevallen overeenkomstig de bepalingen van dat artikel.
 
-#### Artikel 35
+##### Artikel 35
 
 De leden van het Comité ontvangen, met goedkeuring van de Algemene Vergadering van de Verenigde Naties, uit de middelen van de Verenigde Naties emolumenten op door de Algemene Vergadering vast te stellen voorwaarden, waarbij rekening wordt gehouden met de belangrijkheid van de taken van het Comité.
 
-#### Artikel 36
+##### Artikel 36
 
 De Secretaris-Generaal van de Verenigde Naties zorgt voor het personeel en de andere voorzieningen benodigd voor een doelmatige uitoefening van de taken van het Comité krachtens dit Verdrag.
 
-#### Artikel 37
+##### Artikel 37
 
 1. De Secretaris-Generaal van de Verenigde Naties belegt de eerste vergadering van het Comité ten hoofdkantore van de Verenigde Naties.
 
@@ -342,11 +367,11 @@ De Secretaris-Generaal van de Verenigde Naties zorgt voor het personeel en de an
 
 3. Normaal komt het Comité bijeen ten hoofdkantore van de Verenigde Naties of op het kantoor van de Verenigde Naties te Genève.
 
-#### Artikel 38
+##### Artikel 38
 
 Elk lid van het Comité verklaart, alvorens zijn taak aan te vangen, ten overstaan van het Comité plechtig dat hij zich onpartijdig en nauwgezet van zijn taak zal kwijten.
 
-#### Artikel 39
+##### Artikel 39
 
 1. Het Comité kiest zijn functionarissen voor een ambtstermijn van twee jaar. Zij zijn herkiesbaar.
 
@@ -356,7 +381,7 @@ Elk lid van het Comité verklaart, alvorens zijn taak aan te vangen, ten oversta
 
 - (b). besluiten van het Comité worden genomen met een meerderheid van het aantal door de aanwezige leden uitgebrachte stemmen.
 
-#### Artikel 40
+##### Artikel 40
 
 1. De Staten die partij zijn bij dit Verdrag nemen de verplichting op zich verslag uit te brengen over de maatregelen die zij hebben genomen en die uitvoering geven aan de in dit Verdrag erkende rechten, alsmede over de vooruitgang die valt waar te nemen in het genot van die rechten:
 
@@ -372,7 +397,7 @@ Elk lid van het Comité verklaart, alvorens zijn taak aan te vangen, ten oversta
 
 5. De Staten die partij zijn bij dit Verdrag kunnen opmerkingen ten aanzien van eventueel commentaar dat overeenkomstig het bepaalde in lid 4 van dit artikel wordt geleverd, voorleggen aan het Comité.
 
-#### Artikel 41
+##### Artikel 41
 
 1. Een Staat die partij is bij dit Verdrag kan, krachtens dit artikel, te allen tijde verklaren, dat hij de bevoegdheid van het Comité erkent kennisgevingen waarin een Staat die partij is beweert dat een andere Staat die partij is diens uit dit Verdrag voortvloeiende verplichtingen niet nakomt, in ontvangst te nemen en te behandelen. Kennisgevingen als bedoeld in dit artikel kunnen alleen in ontvangst worden genomen en worden behandeld indien zij zijn ingezonden door een Staat die partij is, die een verklaring heeft afgelegd dat hij ten aanzien van zichzelf deze bevoegdheid van het Comité erkent. Geen kennisgeving wordt door het Comité in ontvangst genomen, indien het een Staat die partij is betreft, die zulk een verklaring niet heeft afgelegd. Kennisgevingen die krachtens het bepaalde in dit artikel worden ontvangen worden overeenkomstig de volgende procedure behandeld:
 
@@ -398,7 +423,7 @@ Elk lid van het Comité verklaart, alvorens zijn taak aan te vangen, ten oversta
 
 2. De bepalingen van dit artikel treden in werking wanneer tien Staten die partij zijn bij dit Verdrag verklaringen hebben afgelegd krachtens het eerste lid van dit artikel. Deze verklaringen worden door de Staten die partij zijn nedergelegd bij de Secretaris-Generaal van de Verenigde Naties, die afschrift daarvan doet toekomen aan de andere Staten die partij zijn. Een zodanige verklaring kan te allen tijde, door middel van een aan de Secretaris-Generaal gerichte kennisgeving, worden ingetrokken. Een zodanige intrekking heeft geen invloed op de behandeling van een zaak die het onderwerp vormt van een kennisgeving die reeds is gedaan krachtens dit artikel; geen enkele volgende kennisgeving door een Staat die partij is wordt in ontvangst genomen nadat de kennisgeving van intrekking van de verklaring door de Secretaris-Generaal is ontvangen, tenzij de betrokken Staat die partij is een nieuwe verklaring heeft afgelegd.
 
-#### Artikel 42
+##### Artikel 42
 
 - (a). Indien een zaak die, overeenkomstig het bepaalde in artikel 41, bij het Comité aanhangig is gemaakt, niet is afgewikkeld naar genoegen van de betrokken Staten die partij zijn, kan het Comité mits daartoe vooraf de toestemming van de betrokken Staten die partij zijn is verkregen, een conciliatiecommissie ad hoc (hierna te noemen de Conciliatiecommissie) benoemen. De goede diensten der Conciliatiecommissie staan ter beschikking van de betrokken Staten die partij zijn met het oog op een minnelijke schikking van de zaak op basis van eerbiediging van de bepalingen van dit Verdrag;
 
@@ -430,31 +455,31 @@ Elk lid van het Comité verklaart, alvorens zijn taak aan te vangen, ten oversta
 
 10. De Secretaris-Generaal van de Verenigde Naties is bevoegd de onkosten van de leden van de Conciliatiecommissie te betalen, zo nodig, voordat deze, overeenkomstig het bepaalde in lid 9 van dit artikel, door de betrokken Staten die partij zijn worden vergoed.
 
-#### Artikel 43
+##### Artikel 43
 
 De leden van het Comité en van de conciliatiecommissies ad hoc die kunnen worden ingesteld krachtens het bepaalde in artikel 42, genieten de faciliteiten, voorrechten en immuniteiten van deskundigen die zijn uitgezonden door de Verenigde Naties, zoals die zijn vastgesteld in de desbetreffende delen van het Verdrag nopens de voorrechten en immuniteiten van de Verenigde Naties.
 
-#### Artikel 44
+##### Artikel 44
 
 De bepalingen voor de uitvoering van dit Verdrag zijn van toepassing, onverminderd de procedures die ter zake van de rechten van de mens worden voorgeschreven door of krachtens de oprichtingsakten en de overeenkomsten van de Verenigde Naties en de gespecialiseerde organisaties en vormen geen beletsel voor de Staten die partij zijn bij dit Verdrag hun toevlucht te nemen tot andere procedures ter regeling van een geschil, overeenkomstig tussen hen van kracht zijnde algemene of bijzondere internationale overeenkomsten.
 
-#### Artikel 45
+##### Artikel 45
 
 Het Comité doet, door tussenkomst van de Economische en Sociale Raad, de Algemene Vergadering van de Verenigde Naties een jaarverslag van zijn werkzaamheden toekomen.
 
 ## DEEL V
 
-#### Artikel 46
+##### Artikel 46
 
 Geen bepaling van dit Verdrag mag worden uitgelegd als zijnde een aantasting van de bepalingen van het [Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143) en van de statuten van de gespecialiseerde organisaties, waarin de onderscheiden verantwoordelijkheden van de verschillende organen van de Verenigde Naties en van de gespecialiseerde organisaties met betrekking tot de in dit Verdrag geregelde materie zijn omschreven.
 
-#### Artikel 47
+##### Artikel 47
 
 Geen bepaling in dit Verdrag mag worden uitgelegd als zijnde een aantasting van het inherente recht van alle volken hun natuurlijke rijkdommen en hulpbronnen volledig en vrijelijk te benutten en hiervan volledig en vrijelijk te profiteren.
 
 ## DEEL VI
 
-#### Artikel 48
+##### Artikel 48
 
 1. Dit Verdrag staat open voor ondertekening door iedere Staat die lid is van de Verenigde Naties of van een of meer der gespecialiseerde organisaties daarvan, door elke Staat die partij is bij het Statuut van het Internationale Gerechtshof, alsmede door iedere andere Staat die door de Algemene Vergadering van de Verenigde Naties is uitgenodigd bij dit Verdrag partij te worden.
 
@@ -466,17 +491,17 @@ Geen bepaling in dit Verdrag mag worden uitgelegd als zijnde een aantasting van 
 
 5. De Secretaris-Generaal van de Verenigde Naties stelt alle Staten die dit Verdrag hebben ondertekend of tot dit Verdrag zijn toegetreden, in kennis van de nederlegging van iedere akte van bekrachtiging of akte van toetreding.
 
-#### Artikel 49
+##### Artikel 49
 
 1. Dit Verdrag treedt in werking drie maanden na de datum van nederlegging bij de Secretaris-Generaal van de Verenigde Naties van de vijfendertigste akte van bekrachtiging of akte van toetreding.
 
 2. Ten aanzien van iedere Staat die na nederlegging van de vijfendertigste akte van bekrachtiging of akte van toetreding dit Verdrag bekrachtigt of tot dit Verdrag toetreedt, treedt dit Verdrag in werking drie maanden na de datum van nederlegging van zijn akte van bekrachtiging of akte van toetreding.
 
-#### Artikel 50
+##### Artikel 50
 
 De bepalingen van dit Verdrag strekken zich uit tot alle delen van federale Staten, zonder enige beperking of uitzondering.
 
-#### Artikel 51
+##### Artikel 51
 
 1. Iedere Staat die partij is bij dit Verdrag kan een wijziging daarvan voorstellen en deze indienen bij de Secretaris-Generaal van de Verenigde Naties. De Secretaris-Generaal van de Verenigde Naties deelt vervolgens iedere voorgestelde wijziging aan de Staten die partij zijn bij dit Verdrag mede, met het verzoek hem te berichten of zij een conferentie van Staten die partij zijn verlangen ten einde dit voorstel te bestuderen en in stemming te brengen. Indien ten minste een derde van de Staten die partij zijn zulk een conferentie verlangt, roept de Secretaris-Generaal deze conferentie onder auspiciën van de Verenigde Naties bijeen. Iedere wijziging die door een meerderheid van de ter conferentie aanwezige Staten die partij zijn en die hun stem uitbrengen wordt aangenomen, wordt ter goedkeuring voorgelegd aan de Algemene Vergadering van de Verenigde Naties.
 
@@ -484,7 +509,7 @@ De bepalingen van dit Verdrag strekken zich uit tot alle delen van federale Stat
 
 3. Wanneer wijzigingen van kracht worden zijn zij bindend voor die Staten die partij zijn die ze hebben aangenomen, terwijl de andere Staten die partij zijn gebonden zullen blijven door de bepalingen van dit Verdrag en door iedere voorgaande wijziging die zij hebben aangenomen.
 
-#### Artikel 52
+##### Artikel 52
 
 Ongeacht de krachtens artikel 48, lid 5, gedane kennisgevingen, stelt de Secretaris-Generaal van de Verenigde Naties alle in het eerste lid van hetzelfde artikel bedoelde Staten van het volgende in kennis:
 
@@ -492,7 +517,7 @@ Ongeacht de krachtens artikel 48, lid 5, gedane kennisgevingen, stelt de Secreta
 
 - (b). de datum van inwerkingtreding van dit Verdrag krachtens artikel 49 en de datum van het van kracht worden van eventuele wijzigingen krachtens artikel 51.
 
-#### Artikel 53
+##### Artikel 53
 
 1. Dit Verdrag, waarvan de Chinese, de Engelse, de Franse, de Russische en de Spaanse tekst gelijkelijk authentiek zijn, wordt nedergelegd in het archief van de Verenigde Naties.
 
@@ -504,25 +529,25 @@ Overwegende, dat, ten einde de doelstellingen van het Verdrag inzake burgerrecht
 
 Zijn overeengekomen als volgt:
 
-#### Artikel 1
+##### Artikel 1
 
 Een Staat die partij is bij het Verdrag en die partij wordt bij dit Protocol erkent de bevoegdheid van het Comité kennisgevingen van individuele personen die onder zijn rechtsmacht vallen en die beweren het slachtoffer te zijn van schending door die Staat, die partij is, van enig in dat Verdrag genoemd recht, in ontvangst te nemen en te behandelen. Het Comité neemt geen kennisgeving in ontvangst indien deze betrekking heeft op een Staat die partij is bij het Verdrag doch niet tevens partij is bij dit Protocol.
 
-#### Artikel 2
+##### Artikel 2
 
 Met inachtneming van de bepalingen van artikel 1 kunnen individuele personen die beweren dat enig in het Verdrag genoemd hun toekomend recht geschonden is en die alle hun ter beschikking staande nationale rechtsmiddelen hebben uitgeput, het Comité een schriftelijke kennisgeving ter behandeling doen toekomen.
 
-#### Artikel 3
+##### Artikel 3
 
 Het Comité verklaart elke krachtens dit Protocol toegezonden kennisgeving die anoniem is of welker inzending het beschouwt als misbruik van het recht zodanige kennisgevingen in te zenden of die het in strijd acht met de bepalingen van het Verdrag niet ontvankelijk.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Met inachtneming van de bepalingen van artikel 3, brengt het Comité alle hem krachtens het bepaalde in dit Protocol toegezonden kennisgevingen onder de aandacht van de Staat die partij is bij dit Protocol, waarvan wordt beweerd dat hij enige bepaling van het Verdrag overtreedt.
 
 2. Binnen zes maanden doet de ontvangende Staat het Comité schriftelijke uiteenzettingen of verklaringen toekomen waarin de zaak en het rechtsmiddel dat eventueel door die Staat is toegepast nader worden toegelicht.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het Comité behandelt krachtens dit Protocol ontvangen kennisgevingen in het licht van alle hem door de betrokken persoon en de betrokken Staat die partij is ter beschikking gestelde schriftelijke gegevens.
 
@@ -538,15 +563,15 @@ Dit is evenwel niet het geval indien de toepassing der rechtsmiddelen onredelijk
 
 4. Het Comité maakt zijn inzichten bekend aan de desbetreffende Staat die partij is en aan de betrokken persoon.
 
-#### Artikel 6
+##### Artikel 6
 
 In zijn krachtens artikel 45 van het Verdrag uitgebrachte jaarverslag neemt het Comité een samenvatting op van zijn uit dit Protocol voortvloeiende werkzaamheden.
 
-#### Artikel 7
+##### Artikel 7
 
 Zolang de doelstellingen van resolutie 1514 (XV), betreffende de Verklaring inzake het verlenen van onafhankelijkheid aan koloniale landen en volkeren, op 14 december 1960 door de Algemene Vergadering van de Verenigde Naties aangenomen, niet zijn verwezenlijkt, beperken de bepalingen van dit Protocol op geen enkele wijze het recht tot het indienen van verzoekschriften dat deze volkeren is toegekend op grond van het [Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143) en andere internationale overeenkomsten en akten der Verenigde Naties en de gespecialiseerde organisaties daarvan.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Dit Protocol staat open ter ondertekening door elke Staat die het Verdrag heeft ondertekend.
 
@@ -558,17 +583,17 @@ Zolang de doelstellingen van resolutie 1514 (XV), betreffende de Verklaring inza
 
 5. De Secretaris-Generaal van de Verenigde Naties stelt alle Staten die dit Protocol hebben ondertekend of tot dit Protocol zijn toegetreden in kennis van de nederlegging van iedere akte van bekrachtiging of toetreding.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Mits het Verdrag in werking is getreden, treedt dit Protocol in werking drie maanden na de datum van nederlegging bij de Secretaris-Generaal van de Verenigde Naties van de tiende akte van bekrachtiging of van toetreding.
 
 2. Voor elke Staat die na de nederlegging van de tiende akte van bekrachtiging of van toetreding dit Protocol bekrachtigt of tot dit Protocol toetreedt, treedt dit Protocol in werking drie maanden na de datum van nederlegging van zijn akte van bekrachtiging of toetreding.
 
-#### Artikel 10
+##### Artikel 10
 
 De bepalingen van dit Protocol strekken zich uit tot alle delen van federale Staten, zonder enige beperking of uitzondering.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Iedere Staat die partij is bij dit Protocol kan een wijziging daarvan voorstellen en deze indienen bij de Secretaris-Generaal van de Verenigde Naties. De Secretaris-Generaal deelt vervolgens iedere voorgestelde wijziging aan de Staten die partij zijn bij dit Protocol mede, met het verzoek hem te berichten of zij een conferentie van Staten die partij zijn verlangen ten einde dit voorstel te bestuderen en in stemming te brengen. Indien ten minste een derde van de Staten die partij zijn zulk een conferentie verlangt, roept de Secretaris-Generaal deze conferentie onder auspiciën van de Verenigde Naties bijeen. Iedere wijziging die door een meerderheid van de ter conferentie aanwezige Staten die partij zijn en die hun stem uitbrengen wordt aangenomen, wordt ter goedkeuring voorgelegd aan de Algemene Vergadering van de Verenigde Naties.
 
@@ -576,13 +601,13 @@ De bepalingen van dit Protocol strekken zich uit tot alle delen van federale Sta
 
 3. Wanneer wijzigingen van kracht worden, zijn zij bindend voor de Staten die partij zijn en die ze hebben aangenomen, terwijl de andere Staten die partij zijn, gebonden zullen blijven door de bepalingen van dit Protocol en door iedere voorgaande wijziging die zij wel hebben aangenomen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Iedere Staat die partij is, kan dit Protocol te allen tijde opzeggen door middel van een schriftelijke aan de Secretaris-Generaal van de Verenigde Naties gerichte kennisgeving. De opzegging wordt van kracht drie maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
 2. Opzegging heeft geen invloed op de verdere toepassing van de bepalingen van dit Protocol op een kennisgeving die vóór de datum waarop de opzegging van kracht wordt krachtens artikel 2 is ingediend.
 
-#### Artikel 13
+##### Artikel 13
 
 Ongeacht de krachtens artikel 8, lid 5, van dit Protocol gedane kennisgevingen, stelt de Secretaris-Generaal van de Verenigde Naties alle in artikel 48, eerste lid, van het Verdrag bedoelde Staten van het volgende in kennis:
 
@@ -592,7 +617,7 @@ Ongeacht de krachtens artikel 8, lid 5, van dit Protocol gedane kennisgevingen, 
 
 - (c). opzeggingen krachtens artikel 12.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Dit Protocol, waarvan de Chinese, de Engelse, de Franse, de Russische en de Spaanse tekst gelijkelijk authentiek zijn, wordt nedergelegd in het archief van de Verenigde Naties.
 

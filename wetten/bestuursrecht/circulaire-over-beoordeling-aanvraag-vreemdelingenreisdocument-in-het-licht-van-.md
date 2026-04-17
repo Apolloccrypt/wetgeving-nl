@@ -1,13 +1,38 @@
 ---
 title: "Circulaire over beoordeling aanvraag vreemdelingenreisdocument in het licht van internationale betrekkingen"
 identifier: "BWBR0041504"
-categorie: "Bestuursrecht"
-publicatiedatum: 2018-10-01
-laatste_update: 2018-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041504"
+country: "nl"
+rank: "circulaire"
+publication_date: "2018-10-01"
+last_updated: "2018-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041504"
+soort: "circulaire"
+stam_id: "14847523"
+version_id: "25382132"
+internal_id: "C36245061"
+label_id: "14799204"
+dtd_version: "2.0"
+original_entry_into_force: "2018-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041504/2018-10-01/0"
+intitule_bron: "Stcrt.2018-61066"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-09-28"
+intitule_published: "2018-11-01"
+intitule_in_force: "2018-11-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-61066"
+original_signed_date: "2018-09-28"
+original_published_date: "2018-11-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-61066"
+entry_into_force_date: "2018-10-01"
+jci_1_3: "jci1.3:c:BWBR0041504&z=2018-10-01&g=2018-10-01"
+jci_1_0: "1.0:c:BWBR0041504&g=2018-10-01"
+citeertitel_status: "redactioneel"
+signed_date: "2018-09-28"
+entry_into_force: "2018-10-01"
 ---
-
 # Circulaire over beoordeling aanvraag vreemdelingenreisdocument in het licht van internationale betrekkingen
 
 ### 1. Inleiding

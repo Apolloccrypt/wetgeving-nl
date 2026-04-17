@@ -1,14 +1,42 @@
 ---
-title: "Implementatiewet buitengerechtelijke geschillenbeslechting consumenten"
+title: "Wet van 16 april 2015 tot implementatie van de Richtlijn 2013/11/EU van het Europees Parlement en de Raad van 21 mei 2013 betreffende alternatieve beslechting van consumentengeschillen en tot wijziging van Verordening (EG) nr. 2006/2004 en Richtlijn 2009/22/EG en uitvoering van de Verordening (EU) nr. 524/2013 van het Europees Parlement en de Raad van 21 mei 2013 betreffende onlinebeslechting van consumentengeschillen en tot wijziging van Verordening (EG) nr. 2006/2004 en Richtlijn 2009/22/EG (Implementatiewet buitengerechtelijke geschillenbeslechting consumenten)"
 identifier: "BWBR0036550"
-categorie: "Overig"
-publicatiedatum: 2018-09-19
-laatste_update: 2018-09-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036550"
+country: "nl"
+rank: "wet"
+publication_date: "2018-09-19"
+last_updated: "2018-09-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036550"
+soort: "wet"
+stam_id: "13143913"
+version_id: "22402582"
+internal_id: "C32091321"
+label_id: "13112914"
+dtd_version: "2.0"
+original_entry_into_force: "2015-07-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036550/2018-09-19/0"
+intitule_bron: "Stb.2015-160"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-04-16"
+intitule_published: "2015-04-30"
+intitule_in_force: "2015-04-30"
+intitule_status: "goed"
+original_publication: "Stb.2015-160"
+original_signed_date: "2015-04-16"
+original_published_date: "2015-04-30"
+original_effect: "nieuwe-regeling"
+original_dossier: "33982"
+original_url_id: "stb-2015-160"
+entry_into_force_date: "2015-07-09"
+entry_into_force_dossier: "33982"
+jci_1_3: "jci1.3:c:BWBR0036550&z=2018-09-19&g=2018-09-19"
+jci_1_0: "1.0:c:BWBR0036550&g=2018-09-19"
+citeertitel_status: "officieel"
+short_title: "Implementatiewet buitengerechtelijke geschillenbeslechting consumenten"
+signed_date: "2015-04-16"
+entry_into_force: "2015-07-09"
 ---
-
-# Implementatiewet buitengerechtelijke geschillenbeslechting consumenten
+# Wet van 16 april 2015 tot implementatie van de Richtlijn 2013/11/EU van het Europees Parlement en de Raad van 21 mei 2013 betreffende alternatieve beslechting van consumentengeschillen en tot wijziging van Verordening (EG) nr. 2006/2004 en Richtlijn 2009/22/EG en uitvoering van de Verordening (EU) nr. 524/2013 van het Europees Parlement en de Raad van 21 mei 2013 betreffende onlinebeslechting van consumentengeschillen en tot wijziging van Verordening (EG) nr. 2006/2004 en Richtlijn 2009/22/EG (Implementatiewet buitengerechtelijke geschillenbeslechting consumenten)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +46,7 @@ Zo is het, dat Wij, de Afdeling Advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk 1. Definities en toepassingsbereik
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze wet wordt verstaan onder:
 
@@ -60,7 +88,7 @@ Zo is het, dat Wij, de Afdeling Advisering van de Raad van State gehoord, en met
 
 - –. indien de werking ervan wordt verzekerd door een overheidsinstantie of ander publiekrechtelijk lichaam, op de plaats waar de zetel is van die overheidsinstantie of dat publiekrechtelijk lichaam.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Deze wet is van toepassing op procedures tot buitengerechtelijke beslechting van binnenlandse en grensoverschrijdende geschillen die voortvloeien uit een koopovereenkomst of een overeenkomst tot het verrichten van diensten tussen een in Nederland gevestigde ondernemer en een in de Europese Unie woonachtige consument, door tussenkomst van een instantie tot buitengerechtelijke geschillenbeslechting die een oplossing voorstelt of oplegt, of die de partijen bijeenbrengt teneinde een minnelijke schikking te vergemakkelijken.
 
@@ -84,7 +112,7 @@ Zo is het, dat Wij, de Afdeling Advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk 2. Toegang tot en eisen aan instanties en procedures tot buitengerechtelijke geschillenbeslechting
 
-#### Artikel 3
+##### Artikel 3
 
 1. Geschillen als bedoeld in [artikel 2 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036550&hoofdstuk=1&artikel=2&z=2018-09-19&g=2018-09-19) kunnen worden voorgelegd aan een instantie tot buitengerechtelijke geschillenbeslechting. Is voor een geschil geen specifieke instantie aanwezig, dan kan het geschil worden voorgelegd aan een daartoe specifiek door de Stichting Geschillencommissies voor Consumentenzaken ingestelde geschillencommissie.
 
@@ -106,7 +134,7 @@ Zo is het, dat Wij, de Afdeling Advisering van de Raad van State gehoord, en met
 
 4. Procedurevoorschriften als bedoeld in lid 2 mogen de toegang van consumenten tot procedures tot buitengerechtelijke geschillenbeslechting niet aanzienlijk belemmeren.
 
-#### Artikel 4
+##### Artikel 4
 
 De instantie tot buitengerechtelijke geschillenbeslechting:
 
@@ -120,7 +148,7 @@ De instantie tot buitengerechtelijke geschillenbeslechting:
 
 - e. neemt zowel binnenlandse als grensoverschrijdende geschillen in behandeling, met inbegrip van geschillen die vallen onder Verordening (EU) nr. 524/ 2013.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De noodzakelijke deskundigheid, onafhankelijkheid en onpartijdigheid van de met de buitengerechtelijke geschillenbeslechting belaste natuurlijke personen wordt gewaarborgd door de instantie tot buitengerechtelijke geschillenbeslechting, die ervoor zorg draagt dat die personen:
 
@@ -150,7 +178,7 @@ De instantie tot buitengerechtelijke geschillenbeslechting:
 
 6. Onze Minister die het aangaat houdt toezicht op eventuele opleidingsprogramma’s van de instanties tot buitengerechtelijke geschillenbeslechting ten behoeve van de met de buitengerechtelijke geschillenbeslechting belaste natuurlijke personen op basis van de informatie verstrekt op grond van [artikel 18, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0036550&hoofdstuk=4&paragraaf=3&artikel=18&z=2018-09-19&g=2018-09-19).
 
-#### Artikel 6
+##### Artikel 6
 
 1. De instanties tot buitengerechtelijke geschillenbeslechting maken op hun website, op een duurzame gegevensdrager indien daarom wordt verzocht, en op elke andere wijze die zij geschikt, duidelijk en gemakkelijk te begrijpen achten, de volgende informatie voor het publiek toegankelijk:
 
@@ -198,7 +226,7 @@ De instantie tot buitengerechtelijke geschillenbeslechting:
 
 - g. of er, voor zover van toepassing, sprake was van samenwerking binnen netwerken van instanties tot buitengerechtelijke geschillenbeslechting ter vergemakkelijking van de beslechting van grensoverschrijdende geschillen.
 
-#### Artikel 7
+##### Artikel 7
 
 De instantie tot buitengerechtelijke geschillenbeslechting draagt er in haar procesreglement zorg voor dat de procedures tot buitengerechtelijke geschillenbeslechting doeltreffend zijn en voldoen aan de volgende vereisten:
 
@@ -212,7 +240,7 @@ De instantie tot buitengerechtelijke geschillenbeslechting draagt er in haar pro
 
 - e. de uitkomst van de procedure wordt beschikbaar gesteld binnen een termijn van 90 kalenderdagen vanaf de datum waarop de instantie tot buitengerechtelijke geschillenbeslechting het volledige dossier van de klacht heeft ontvangen. In het geval van zeer complexe geschillen kan de met de klacht belaste instantie de termijn van 90 kalenderdagen verlengen. De partijen worden van elke verlenging van die termijn op de hoogte gesteld, alsmede van de tijd die nodig wordt geacht om het geschil te kunnen beëindigen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De instantie tot buitengerechtelijke geschillenbeslechting draagt er in haar procesreglement zorg voor dat in procedures tot buitengerechtelijke geschillenbeslechting:
 
@@ -238,13 +266,13 @@ De instantie tot buitengerechtelijke geschillenbeslechting draagt er in haar pro
 
 - d. partijen, voordat zij met een voorgestelde oplossing of minnelijke schikking instemmen, voldoende tijd krijgen om over het voorstel na te denken.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Een vóór het ontstaan van het geschil gesloten overeenkomst tussen een consument en een ondernemer om geschillen voor te leggen aan een instantie tot buitengerechtelijke geschillenbeslechting kan niet aan de consument worden tegengeworpen, indien die overeenkomst tot gevolg heeft dat de consument het recht wordt ontnomen zich voor de beslechting van het geschil tot de rechter te wenden. Van dit lid kan niet ten nadele van de consument worden afgeweken.
 
 2. Een beslissing, gegeven in een procedure tot buitengerechtelijke geschillenbeslechting, kan alleen bindend zijn voor partijen als partijen vooraf zijn geïnformeerd over het bindende karakter van de beslissing en zij daarmee uitdrukkelijk hebben ingestemd.
 
-#### Artikel 10
+##### Artikel 10
 
 1. In procedures tot buitengerechtelijke geschillenbeslechting die erop gericht zijn het geschil te beslechten door aan de consument een oplossing op te leggen, mag de oplossing er niet toe leiden dat voor de consument de bescherming weg valt van:
 
@@ -256,7 +284,7 @@ De instantie tot buitengerechtelijke geschillenbeslechting draagt er in haar pro
 
 2. Op procedures tot buitengerechtelijke geschilbeslechting die beslecht worden door een vaststelling als bedoeld in [artikel 7: 900 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=900) is [artikel 7: 902 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=902) niet van toepassing.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De verjaring van een rechtsvordering wordt gestuit door de aanvang van een procedure tot buitengerechtelijke geschillenbeslechting waarvan de uitkomst niet bindend is.
 
@@ -264,7 +292,7 @@ De instantie tot buitengerechtelijke geschillenbeslechting draagt er in haar pro
 
 ### Hoofdstuk 3. Informatie en samenwerking
 
-#### Artikel 12
+##### Artikel 12
 
 1. Een in Nederland gevestigde ondernemer informeert de consument over de instantie tot buitengerechtelijke geschillenbeslechting waaronder hij valt, indien hij zich ertoe verbindt of verplicht is gebruik te maken van deze instantie. De informatie omvat het website-adres van de betrokken instantie.
 
@@ -272,17 +300,17 @@ De instantie tot buitengerechtelijke geschillenbeslechting draagt er in haar pro
 
 3. Wanneer het niet mogelijk is gebleken een geschil tussen een consument en een in Nederland gevestigde ondernemer naar aanleiding van een rechtstreeks door de consument bij de ondernemer ingediende klacht te beslechten, verstrekt de ondernemer de in lid 1 bedoelde informatie aan de consument en vermeldt hij daarbij of hij voor het beslechten van het geschil gebruik zal maken van de relevante instantie tot buitengerechtelijke geschillenbeslechting. Deze informatie wordt op papier of op een andere duurzame drager verstrekt.
 
-#### Artikel 13
+##### Artikel 13
 
 Het Europees Consumenten Centrum staat consumenten bij om in geschillen die voortvloeien uit grensoverschrijdende koopovereenkomsten of overeenkomsten tot het verrichten van diensten toegang te verkrijgen tot instanties tot buitengerechtelijke geschillenbeslechting die in een andere lidstaat bevoegd zijn.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De instanties tot buitengerechtelijke geschillenbeslechting en het Europees Consumenten Centrum maken de in artikel 20 lid 4 van de [Richtlijn 2013/11](32013L0011) EU bedoelde lijst van instanties tot buitengerechtelijke geschillenbeslechting voor het publiek toegankelijk. Dit geschiedt door middel van een link op hun website naar de website van de Europese Commissie, en voor zover mogelijk, op een duurzame gegevensdrager in hun ruimten.
 
 2. Onze Minister die het aangaat bevordert dat betrokken consumenten- en bedrijfsorganisaties de lijst, genoemd in lid 1, eveneens voor het publiek toegankelijk maken.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Onze Minister die het aangaat bevordert de samenwerking tussen de instanties tot buitengerechtelijke geschillenbeslechting en de nationale instanties belast met de handhaving van rechtshandelingen van de Unie inzake consumentenbescherming.
 
@@ -294,7 +322,7 @@ Het Europees Consumenten Centrum staat consumenten bij om in geschillen die voor
 
 #### 1. **Bevoegdheid tot aanwijzing en intrekking van een aanwijzing**
 
-#### Artikel 16
+##### Artikel 16
 
 1. Onze Minister die het aangaat kan een instantie aanwijzen als instantie tot buitengerechtelijke geschillenbeslechting als bedoeld in deze wet of een aanwijzing intrekken. Van een besluit tot aanwijzing of intrekking van een aanwijzing wordt mededeling gedaan door plaatsing in de Staatscourant.
 
@@ -306,7 +334,7 @@ Het Europees Consumenten Centrum staat consumenten bij om in geschillen die voor
 
 #### 2. **Gronden voor aanwijzing en intrekking van een aanwijzing**
 
-#### Artikel 17
+##### Artikel 17
 
 1. Instanties die voor aanwijzing als instantie tot buitengerechtelijke geschillenbeslechting in aanmerking wensen te komen, doen hiertoe een aanvraag bij Onze Minister die het aangaat, onder verstrekking van de volgende gegevens:
 
@@ -342,7 +370,7 @@ Het Europees Consumenten Centrum staat consumenten bij om in geschillen die voor
 
 #### 3. **Rapportageplicht**
 
-#### Artikel 18
+##### Artikel 18
 
 Instanties tot buitengerechtelijke geschillenbeslechting verstrekken aan Onze Minister die het aangaat ten minste iedere twee jaar de volgende gegevens:
 
@@ -364,7 +392,7 @@ Instanties tot buitengerechtelijke geschillenbeslechting verstrekken aan Onze Mi
 
 ### Hoofdstuk 5. Informatie ten behoeve van kennisgeving aan de Europese Commissie
 
-#### Artikel 19
+##### Artikel 19
 
 1. Onze Minister van Veiligheid en Justitie stelt een lijst op van de op grond van [artikel 16 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036550&hoofdstuk=4&paragraaf=1&artikel=16&z=2018-09-19&g=2018-09-19) aangewezen instanties tot buitengerechtelijke geschillenbeslechting. Deze lijst bevat de volgende gegevens:
 
@@ -386,7 +414,7 @@ Instanties tot buitengerechtelijke geschillenbeslechting verstrekken aan Onze Mi
 
 2. Onze Minister van Veiligheid en Justitie deelt de in lid 1 genoemde lijst, alsmede wijzigingen hiervan op grond van [artikel 17 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036550&hoofdstuk=4&paragraaf=2&artikel=17&z=2018-09-19&g=2018-09-19) mee aan de Europese Commissie.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Onze Minister van Veiligheid en Justitie, maakt de lijst, genoemd in artikel 20 lid 4 van de [Richtlijn 2013/11](32013L0011)/EU op zijn website voor het publiek beschikbaar door middel van een link naar de website van de Europese Commissie. Daarnaast maakt Onze Minister die het aangaat deze lijst op een duurzame gegevensdrager voor het publiek beschikbaar.
 
@@ -400,25 +428,25 @@ Instanties tot buitengerechtelijke geschillenbeslechting verstrekken aan Onze Mi
 
 ### Hoofdstuk 6. Wijziging van andere wetten
 
-#### Artikel 21
+##### Artikel 21
 
 Wijzigt de Wet handhaving consumentenbescherming.
 
-#### Artikel 22
+##### Artikel 22
 
 Wijzigt de Wet op het financieel toezicht.
 
 ### Hoofdstuk 7. Overgangsrecht, inwerkingtreding en citeertitel
 
-#### Artikel 23
+##### Artikel 23
 
 [Hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036550&hoofdstuk=2&z=2018-09-19&g=2018-09-19) van deze wet is van toepassing op procedures tot buitengerechtelijke geschillenbeslechting die bij een instantie tot buitengerechtelijke geschillenbeslechting aanhangig zijn geworden op of na de datum van inwerkingtreding van deze wet.
 
-#### Artikel 24
+##### Artikel 24
 
 Deze wet treedt in werking op 9 juli 2015. Wordt het Staatsblad waarin deze wet wordt geplaatst later uitgegeven dan 8 juli 2015, dan treedt zij in werking op de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 
-#### Artikel 25
+##### Artikel 25
 
 Deze wet wordt aangehaald als: Implementatiewet buitengerechtelijke geschillenbeslechting consumenten.
 

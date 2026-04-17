@@ -1,13 +1,37 @@
 ---
 title: "WHO-Kaderverdrag inzake tabaksontmoediging"
 identifier: "BWBV0001706"
-categorie: "Internationaal recht"
-publicatiedatum: 2005-04-27
-laatste_update: 2003-05-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001706"
+country: "nl"
+rank: "verdrag"
+publication_date: "2005-04-27"
+last_updated: "2003-05-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001706"
+soort: "verdrag"
+stam_id: "10001148543"
+version_id: "10001179522"
+internal_id: "C10006993411"
+label_id: "10001149084"
+original_entry_into_force: "2005-04-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001706/2005-04-27/0"
+intitule_bron: "Trb.2003-127"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-01-27"
+intitule_published: "2003-08-11"
+intitule_in_force: "2005-03-11"
+intitule_status: "goed"
+original_publication: "Trb.2004-269"
+original_signed_date: "2005-01-27"
+original_published_date: "2004-11-08"
+original_effect: "structuurwijziging"
+original_url_id: "trb-2004-269"
+entry_into_force_date: "2005-04-27"
+jci_1_3: "jci1.3:c:BWBV0001706&z=2005-04-27&g=2005-04-27"
+jci_1_0: "1.0:c:BWBV0001706&g=2005-04-27"
+citeertitel_status: "officieel"
+signed_date: "2005-01-27"
+entry_into_force: "2005-04-27"
 ---
-
 # WHO-Kaderverdrag inzake tabaksontmoediging
 
 **Preambule**
@@ -64,7 +88,7 @@ Zijn het volgende overeengekomen:
 
 ## DEEL I. INLEIDING
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit Verdrag wordt verstaan onder:
 
@@ -82,7 +106,7 @@ In dit Verdrag wordt verstaan onder:
 
 - g. tabakssponsoring: elke vorm van bijdrage aan een evenement, activiteit of individu, met het doel, effect of mogelijk effect dat een tabaksproduct of tabaksgebruik direct of indirect wordt aangemoedigd.
 
-#### Artikel 2. Verhouding tussen dit Verdrag en andere overeenkomsten en juridische instrumenten
+##### Artikel 2. Verhouding tussen dit Verdrag en andere overeenkomsten en juridische instrumenten
 
 1. Teneinde de gezondheid van de mens beter te beschermen, worden de Partijen aangemoedigd maatregelen te nemen die verder gaan dan de in dit Verdrag en de protocollen daarbij vereiste maatregelen, en niets in deze instrumenten belet een Partij strengere eisen op te leggen die stroken met de bepalingen ervan en in overeenstemming zijn met het internationale recht.
 
@@ -90,11 +114,11 @@ In dit Verdrag wordt verstaan onder:
 
 ## DEEL II. DOEL, RICHTSNOEREN EN ALGEMENE VERPLICHTINGEN
 
-#### Artikel 3. Doel
+##### Artikel 3. Doel
 
 Het doel van dit Verdrag en de protocollen daarbij is de huidige en toekomstige generaties te beschermen tegen de verwoestende gezondheidseffecten en sociale, milieu- en economische gevolgen van tabaksconsumptie en blootstelling aan tabaksrook door een kader te bieden voor maatregelen ten behoeve van tabaksontmoediging die door de Partijen op nationaal, regionaal en internationaal niveau moeten worden uitgevoerd om het wijdverbreide tabaksgebruik en de blootstelling aan tabaksrook permanent en substantieel te verminderen.
 
-#### Artikel 4. Richtsnoeren
+##### Artikel 4. Richtsnoeren
 
 Teneinde het doel van dit Verdrag en de protocollen daarbij te bereiken en de bepalingen ervan uit te voeren, worden de Partijen, onder andere, geleid door de onderstaande beginselen:
 
@@ -120,7 +144,7 @@ Teneinde het doel van dit Verdrag en de protocollen daarbij te bereiken en de be
 
 - 7. De participatie van maatschappelijke organisaties is van wezenlijk belang voor de verwezenlijking van het doel van het Verdrag en de protocollen daarbij.
 
-#### Artikel 5. Algemene verplichtingen
+##### Artikel 5. Algemene verplichtingen
 
 1. Elke Partij ontwikkelt in overeenstemming met dit Verdrag en de protocollen waarbij zij Partij is, allesomvattende multisectorale nationale strategieën, plannen en programma's voor tabaksontmoediging, voert deze uit, en actualiseert en herziet deze strategieën periodiek.
 
@@ -140,7 +164,7 @@ Teneinde het doel van dit Verdrag en de protocollen daarbij te bereiken en de be
 
 ## DEEL III. MAATREGELEN MET BETREKKING TOT DE VERMINDERING VAN DE VRAAG NAAR TABAK
 
-#### Artikel 6. Prijs- en belastingmaatregelen om de vraag naar tabak te verminderen
+##### Artikel 6. Prijs- en belastingmaatregelen om de vraag naar tabak te verminderen
 
 1. De Partijen erkennen dat prijs- en belastingmaatregelen een doeltreffend en belangrijk instrument zijn om de tabaksconsumptie door diverse geledingen van de bevolking, in het bijzonder jongeren, te verminderen.
 
@@ -152,25 +176,25 @@ Teneinde het doel van dit Verdrag en de protocollen daarbij te bereiken en de be
 
 3. In hun periodieke verslagen aan de Conferentie van de Partijen, in overeenstemming met artikel 21, overleggen de Partijen de belastingtarieven voor tabaksproducten en de trends in de tabaksconsumptie.
 
-#### Artikel 7. Niet-prijsmaatregelen om de vraag naar tabak te verminderen
+##### Artikel 7. Niet-prijsmaatregelen om de vraag naar tabak te verminderen
 
 De Partijen erkennen dat allesomvattende niet-prijsmaatregelen een doeltreffend en belangrijk instrument zijn ter vermindering van de tabaksconsumptie. Elke Partij neemt doeltreffende wetgevende, uitvoerende, bestuurlijke of andere maatregelen die nodig zijn om uitvoering te geven aan haar verplichtingen ingevolge de artikelen 8 tot en met 13, voert deze uit, en werkt, naar gelang van het geval, bij de uitvoering van deze maatregelen rechtstreeks of via bevoegde internationale instanties met de andere Partijen samen. De Conferentie van de Partijen stelt passende richtlijnen voor de uitvoering van de bepalingen van deze artikelen voor.
 
-#### Artikel 8. Bescherming tegen de blootstelling aan tabaksrook
+##### Artikel 8. Bescherming tegen de blootstelling aan tabaksrook
 
 1. De Partijen erkennen dat wetenschappelijk bewijsmateriaal onomstotelijk heeft aangetoond dat blootstelling aan tabaksrook leidt tot dood, ziekte en arbeidsongeschiktheid.
 
 2. Elke Partij neemt binnen de bestaande nationale rechtsbevoegdheid zoals bepaald in het nationaal recht doeltreffende wetgevende, uitvoerende, bestuurlijke en/of andere maatregelen aan, voert deze uit, en bevordert deze maatregelen op andere niveaus van rechtsbevoegdheid. Deze maatregelen voorzien in bescherming tegen blootstelling aan tabaksrook in binnen gebouwen gelegen werkplekken, het openbaar vervoer, binnen openbare gebouwen en, naar gelang van het geval, op andere openbare plaatsen.
 
-#### Artikel 9. Regulering van de inhoud van tabaksproducten
+##### Artikel 9. Regulering van de inhoud van tabaksproducten
 
 De Conferentie van de Partijen doet, in overleg met bevoegde internationale instanties, voorstellen voor richtlijnen voor het testen en meten van de inhoud en emissies van tabaksproducten, en voor de regulering hiervan. Elke Partij neemt, wanneer goedgekeurd door bevoegde nationale autoriteiten, doeltreffende wetgevende, uitvoerende en bestuurlijke of andere maatregelen, en voert deze uit, ten behoeve van deze tests en metingen, en ten behoeve van genoemde regulering.
 
-#### Artikel 10. Regulering van informatieverschaffing over tabaksproducten
+##### Artikel 10. Regulering van informatieverschaffing over tabaksproducten
 
 Elke Partij neemt, in overeenstemming met haar nationaal recht, doeltreffende wetgevende, uitvoerende, bestuurlijke of andere maatregelen aan, en voert deze uit, waarmee fabrikanten en importeurs van tabaksproducten worden verplicht aan de regeringsautoriteiten informatie te verschaffen over de inhoud en emissies van tabaksproducten. Elke Partij neemt voorts doeltreffende maatregelen aan, en voert deze uit, voor het verschaffen van informatie aan het publiek over de giftige bestanddelen in tabaksproducten en de emissies die deze producten kunnen voortbrengen.
 
-#### Artikel 11. Verpakking en etikettering van tabaksproducten
+##### Artikel 11. Verpakking en etikettering van tabaksproducten
 
 1. Elke Partij neemt, binnen een tijdvak van drie jaar nadat dit Verdrag voor die Partij in werking is getreden, in overeenstemming met haar nationaal recht, doeltreffende maatregelen aan, en voert deze uit, om te waarborgen dat:
 
@@ -194,7 +218,7 @@ Elke Partij neemt, in overeenstemming met haar nationaal recht, doeltreffende we
 
 4. Voor de toepassing van dit artikel is het begrip „omverpakking en etikettering" met betrekking tot tabaksproducten van toepassing op elke omverpakking en etikettering die in de detailhandel voor het product worden gebruikt.
 
-#### Artikel 12. Educatie, communicatie, training en publiek bewustzijn
+##### Artikel 12. Educatie, communicatie, training en publiek bewustzijn
 
 Elke Partij bevordert en versterkt het publieke bewustzijn op het gebied van tabaksontmoediging, hierbij gebruik makend van alle beschikbare en geschikte communicatiemiddelen. Hiertoe neemt elke Partij doeltreffende wetgevende, uitvoerende, bestuurlijke of andere maatregelen, en voert deze uit, ter bevordering van:
 
@@ -210,7 +234,7 @@ Elke Partij bevordert en versterkt het publieke bewustzijn op het gebied van tab
 
 - f. het publieke bewustzijn over en toegang tot informatie met betrekking tot de schadelijke gevolgen voor gezondheid, economie en milieu van de productie en consumptie van tabak.
 
-#### Artikel 13. Tabaksreclame, -promotie en -sponsoring
+##### Artikel 13. Tabaksreclame, -promotie en -sponsoring
 
 1. De Partijen erkennen dat een allesomvattend verbod op reclame, promotie en sponsoring de consumptie van tabaksproducten zal verminderen.
 
@@ -240,7 +264,7 @@ Elke Partij bevordert en versterkt het publieke bewustzijn op het gebied van tab
 
 8. De Partijen overwegen de opstelling van een protocol waarin passende maatregelen worden neergelegd waarvoor internationale samenwerking vereist is voor een allesomvattend verbod op grensoverschrijdende reclame, promotie en sponsoring.
 
-#### Artikel 14. Maatregelen ter vermindering van de vraag in verband met tabaksverslaving en stoppen
+##### Artikel 14. Maatregelen ter vermindering van de vraag in verband met tabaksverslaving en stoppen
 
 1. Elke Partij ontwikkelt en verspreidt, met inachtneming van de nationale omstandigheden en prioriteiten, passende, op wetenschappelijk bewijs en „goede voorbeelden" gebaseerde allesomvattende en geïntegreerde richtlijnen, en neemt doeltreffende maatregelen om het stoppen met tabaksgebruik en adequate behandeling voor tabaksverslaving te bevorderen.
 
@@ -256,7 +280,7 @@ Elke Partij bevordert en versterkt het publieke bewustzijn op het gebied van tab
 
 ## DEEL IV. MAATREGELEN TER VERMINDERING VAN HET AANBOD VAN TABAK
 
-#### Artikel 15. Illegale handel in tabaksproducten
+##### Artikel 15. Illegale handel in tabaksproducten
 
 1. De Partijen erkennen dat de uitbanning van alle vormen van illegale handel in tabaksproducten, waaronder smokkel, illegale vervaardiging en imitatie, en de ontwikkeling en uitvoering van daarmee samenhangend nationaal recht, naast subregionale, regionale en mondiale overeenkomsten, essentiële onderdelen van het tabaksontmoedigingsbeleid zijn.
 
@@ -286,7 +310,7 @@ Elke Partij bevordert en versterkt het publieke bewustzijn op het gebied van tab
 
 7. Elke Partij streeft ernaar nadere maatregelen aan te nemen en uit te voeren, waaronder – waar dienstig – de instelling van een vergunningenstelsel om de vervaardiging en distributie van tabaksproducten te beheersen of te reguleren teneinde illegale handel te voorkomen.
 
-#### Artikel 16. Verkoop aan en door minderjarigen
+##### Artikel 16. Verkoop aan en door minderjarigen
 
 1. Elke Partij neemt op het aangewezen bestuurlijke niveau doeltreffende wetgevende, uitvoerende, bestuurlijke of andere maatregelen aan, en voert deze uit, om de verkoop te verbieden van tabaksproducten aan personen jonger dan de in de binnenlandse of nationale wetgeving vastgestelde leeftijd of personen jonger dan achttien jaar. Deze maatregelen kunnen bestaan uit:
 
@@ -310,19 +334,19 @@ Elke Partij bevordert en versterkt het publieke bewustzijn op het gebied van tab
 
 7. Elke Partij neemt waar nodig doeltreffende wetgevende, uitvoerende, bestuurlijke of andere maatregelen aan, en voert deze uit, om de verkoop van tabaksproducten door personen jonger dan de in de binnenlandse of nationale wetgeving vastgestelde leeftijd of achttien jaar te verbieden.
 
-#### Artikel 17. Steunverlening aan economisch haalbare alternatieve activiteiten
+##### Artikel 17. Steunverlening aan economisch haalbare alternatieve activiteiten
 
 De Partijen bevorderen, in samenwerking met elkaar en met bevoegde internationale en regionale intergouvernementele organisaties, naar gelang van het geval, economisch haalbare alternatieven voor werknemers in de tabaksindustrie, tabakstelers en, naar gelang van het geval, individuele verkopers.
 
 ## DEEL V. MILIEUBESCHERMING
 
-#### Artikel 18. Bescherming van het milieu en van de volksgezondheid
+##### Artikel 18. Bescherming van het milieu en van de volksgezondheid
 
 De Partijen komen overeen dat zij bij de nakoming van hun verplichtingen uit hoofde van dit Verdrag op het terrein van de tabaksteelt en -vervaardiging binnen hun respectieve grondgebieden naar behoren rekening houden met de bescherming van het milieu en van de volksgezondheid.
 
 ## DEEL VI. KWESTIES MET BETREKKING TOT AANSPRAKELIJKHEID
 
-#### Artikel 19. Aansprakelijkheid
+##### Artikel 19. Aansprakelijkheid
 
 1. Ten behoeve van het ontmoedigen van tabaksgebruik overwegen de Partijen wetgevende maatregelen te nemen of de handhaving van hun bestaande wetgeving te bevorderen en, waar nodig, uit te breiden om te voorzien in strafrechtelijke en civiele aansprakelijkheid, met inbegrip van schadevergoedingsregelingen.
 
@@ -340,7 +364,7 @@ De Partijen komen overeen dat zij bij de nakoming van hun verplichtingen uit hoo
 
 ## DEEL VII. WETENSCHAPPELIJKE EN TECHNISCHE SAMENWERKING EN VERSTREKKING VAN INFORMATIE
 
-#### Artikel 20. Onderzoek, toezicht en uitwisseling van informatie
+##### Artikel 20. Onderzoek, toezicht en uitwisseling van informatie
 
 1. De Partijen verplichten zich ertoe nationaal onderzoek te ontwikkelen en te bevorderen, en onderzoeksprogramma's op regionaal en internationaal niveau op het terrein van tabaksontmoediging te coördineren. Met het oog hierop is elke Partij gehouden:
 
@@ -368,7 +392,7 @@ De Partijen komen overeen dat zij bij de nakoming van hun verplichtingen uit hoo
 
 5. De Partijen dienen samen te werken in regionale en internationale intergouvernementele organisaties en in financiële en ontwikkelingsorganisaties, waarvan zij lid zijn, om het verschaffen van technische en financiële middelen ten behoeve van het Secretariaat te bevorderen en aan te moedigen, teneinde ontwikkelingslanden die Partij zijn en Partijen met een overgangseconomie te helpen hun verplichtingen inzake onderzoek, toezicht en uitwisseling van informatie na te komen.
 
-#### Artikel 21. Verslaglegging en uitwisseling van informatie
+##### Artikel 21. Verslaglegging en uitwisseling van informatie
 
 1. Elke Partij dient bij de Conferentie van de Partijen, via het Secretariaat, periodieke verslagen in met betrekking tot de uitvoering van dit Verdrag, die het volgende moet omvatten:
 
@@ -388,7 +412,7 @@ De Partijen komen overeen dat zij bij de nakoming van hun verplichtingen uit hoo
 
 4. De verslaglegging en uitwisseling van informatie uit hoofde van het Verdrag zijn onderworpen aan het nationaal recht met betrekking tot vertrouwelijkheid en privacy. De Partijen zorgen, op onderling overeengekomen wijze, voor de bescherming van vertrouwelijke informatie die wordt uitgewisseld.
 
-#### Artikel 22. Samenwerking op wetenschappelijk, technisch en juridisch gebied en verschaffing van daaraan gerelateerde expertise
+##### Artikel 22. Samenwerking op wetenschappelijk, technisch en juridisch gebied en verschaffing van daaraan gerelateerde expertise
 
 1. De Partijen werken rechtstreeks of via bevoegde internationale instanties samen ter versterking van hun capaciteit om de verplichtingen krachtens dit Verdrag na te komen, met inachtneming van de behoeften van ontwikkelingslanden die Partij zijn en van Partijen met een overgangseconomie. Deze samenwerking bevordert de overdracht van technische, wetenschappelijke en juridische expertise en technologie, op onderling overeengekomen wijze, ten dienste van de instelling en aanscherping van nationale strategieën, plannen en programma's voor tabaksontmoediging, die onder meer gericht zijn op:
 
@@ -414,7 +438,7 @@ De Partijen komen overeen dat zij bij de nakoming van hun verplichtingen uit hoo
 
 ## DEEL VIII. INSTITUTIONELE REGELINGEN EN FINANCIËLE MIDDELEN
 
-#### Artikel 23. Conferentie van de Partijen
+##### Artikel 23. Conferentie van de Partijen
 
 1. Hierbij wordt een Conferentie van de Partijen ingesteld. De eerste zitting van de Conferentie wordt uiterlijk een jaar na de inwerkingtreding van dit Verdrag bijeengeroepen door de Wereldgezondheidsorganisatie. De Conferentie stelt tijdens haar eerste zitting het tijdstip en de plaats van de volgende reguliere zittingen vast.
 
@@ -444,7 +468,7 @@ De Partijen komen overeen dat zij bij de nakoming van hun verplichtingen uit hoo
 
 6. De Conferentie van de Partijen stelt criteria vast voor de deelname van waarnemers aan haar bijeenkomsten.
 
-#### Artikel 24. Secretariaat
+##### Artikel 24. Secretariaat
 
 1. De Conferentie van de Partijen wijst een permanent secretariaat aan en treft regelingen voor het functioneren daarvan. De Conferentie van de Partijen streeft ernaar dit tijdens haar eerste zitting te doen.
 
@@ -466,11 +490,11 @@ De Partijen komen overeen dat zij bij de nakoming van hun verplichtingen uit hoo
 
 - g. andere in het Verdrag en in de protocollen daarbij vermelde secretariaatstaken te verrichten, alsmede andere eventueel door de Conferentie van de Partijen vast te stellen taken.
 
-#### Artikel 25. Verhouding tussen de Conferentie van de Partijen en intergouvernementele organisaties
+##### Artikel 25. Verhouding tussen de Conferentie van de Partijen en intergouvernementele organisaties
 
 Teneinde de technische en financiële medewerking te kunnen verlenen voor het bereiken van het doel van dit Verdrag, kan de Conferentie van de Partijen verzoeken om de medewerking van bevoegde internationale en regionale intergouvernementele organisaties, met inbegrip van financiële en ontwikkelingorganisaties.
 
-#### Artikel 26. Financiële middelen
+##### Artikel 26. Financiële middelen
 
 1. De Partijen erkennen de belangrijke rol van financiële middelen bij het bereiken van het doel van dit Verdrag.
 
@@ -492,7 +516,7 @@ Teneinde de technische en financiële medewerking te kunnen verlenen voor het be
 
 ## DEEL IX. REGELING VAN GESCHILLEN
 
-#### Artikel 27. Regeling van geschillen
+##### Artikel 27. Regeling van geschillen
 
 1. Ingeval tussen twee of meerdere Partijen een geschil ontstaat met betrekking tot de interpretatie of toepassing van dit Verdrag, trachten de betrokken Partijen langs diplomatieke weg tot een regeling van het geschil te komen door middel van onderhandeling of andere vreedzame middelen van hun eigen keuze, met inbegrip van goede diensten, bemiddeling of verzoening. Indien geen overeenstemming kan worden bereikt door middel van goede diensten, bemiddeling of verzoening, worden de partijen bij het geschil niet ontheven van de verplichting te blijven zoeken naar een oplossing voor het geschil.
 
@@ -502,7 +526,7 @@ Teneinde de technische en financiële medewerking te kunnen verlenen voor het be
 
 ## DEEL X. ONTWIKKELING VAN HET VERDRAG
 
-#### Artikel 28. Wijzigingen van dit Verdrag
+##### Artikel 28. Wijzigingen van dit Verdrag
 
 1. Elke Partij kan wijzigingen van dit Verdrag voorstellen. Deze voorstellen worden door de Conferentie van de Partijen beschouwd.
 
@@ -514,7 +538,7 @@ Teneinde de technische en financiële medewerking te kunnen verlenen voor het be
 
 5. Een wijziging treedt ten aanzien van elke andere Partij in werking negentig dagen na de datum waarop die Partij haar akte van aanvaarding betreffende de bedoelde wijziging heeft nedergelegd bij de Depositaris.
 
-#### Artikel 29. Aanneming en wijziging van bijlagen bij dit Verdrag
+##### Artikel 29. Aanneming en wijziging van bijlagen bij dit Verdrag
 
 1. Bijlagen bij dit Verdrag en de wijzigingen daarvan worden voorgesteld, aangenomen en van kracht in overeenstemming met de in artikel 28 uiteengezette procedure.
 
@@ -524,11 +548,11 @@ Teneinde de technische en financiële medewerking te kunnen verlenen voor het be
 
 ## DEEL XI. SLOTBEPALINGEN
 
-#### Artikel 30. Voorbehouden
+##### Artikel 30. Voorbehouden
 
 Ten aanzien van dit Verdrag kan geen enkel voorbehoud worden gemaakt.
 
-#### Artikel 31. Opzegging
+##### Artikel 31. Opzegging
 
 1. Twee jaar na de datum waarop dit Verdrag voor een Partij in werking is getreden, kan die Partij het te allen tijde opzeggen door middel van een schriftelijke kennisgeving aan de Depositaris.
 
@@ -536,13 +560,13 @@ Ten aanzien van dit Verdrag kan geen enkel voorbehoud worden gemaakt.
 
 3. Een Partij die het Verdrag heeft opgezegd, wordt geacht ook elk protocol waarbij zij Partij is te hebben opgezegd.
 
-#### Artikel 32. Stemrecht
+##### Artikel 32. Stemrecht
 
 1. Elke Partij bij dit Verdrag heeft één stem, behoudens het bepaalde in het tweede lid van dit artikel.
 
 2. Regionale organisaties voor economische integratie beschikken ter zake van binnen hun bevoegdheid vallende aangelegenheden over een aantal stemmen dat gelijk is aan het aantal van hun lidstaten die Partij bij het Verdrag zijn. Bedoelde organisaties oefenen hun stemrecht niet uit indien een van hun lidstaten zijn stemrecht uitoefent, en omgekeerd.
 
-#### Artikel 33. Protocollen
+##### Artikel 33. Protocollen
 
 1. Elke Partij kan protocollen voorstellen. Zulke voorstellen worden door de Conferentie van de Partijen beschouwd.
 
@@ -556,11 +580,11 @@ Ten aanzien van dit Verdrag kan geen enkel voorbehoud worden gemaakt.
 
 6. De vereisten voor de inwerkingtreding van een protocol worden in het protocol zelf vastgelegd.
 
-#### Artikel 34. Ondertekening
+##### Artikel 34. Ondertekening
 
 Dit Verdrag staat van 16 juni 2003 tot en met 22 juni 2003 op het Hoofdkwartier van de Wereldgezondheidsorganisatie te Genève open voor ondertekening door alle leden van de Wereldgezondheidsorganisatie en door alle Staten die geen lid van de Wereldgezondheidsorganisatie zijn, maar wel lid van de Verenigde Naties zijn, en door regionale organisaties voor economische integratie, en daarna van 30 juni 2003 tot en met 29 juni 2004 op het Hoofdkwartier van de Verenigde Naties te New York.
 
-#### Artikel 35. Bekrachtiging, aanvaarding, goedkeuring, formele bevestiging of toetreding
+##### Artikel 35. Bekrachtiging, aanvaarding, goedkeuring, formele bevestiging of toetreding
 
 1. Dit Verdrag behoeft bekrachtiging, aanvaarding, goedkeuring of toetreding door Staten en formele bevestiging of toetreding door regionale organisaties voor economische integratie. Het Verdrag staat open voor toetreding vanaf de dag na de datum waarop dit Verdrag niet langer kan worden ondertekend. De akten van bekrachtiging, aanvaarding, goedkeuring, formele bevestiging of toetreding worden nedergelegd bij de Depositaris.
 
@@ -568,7 +592,7 @@ Dit Verdrag staat van 16 juni 2003 tot en met 22 juni 2003 op het Hoofdkwartier 
 
 3. Regionale organisaties voor economische integratie verklaren, in hun akte met betrekking tot formele bevestiging of in hun akte van toetreding, de reikwijdte van hun bevoegdheid ten aanzien van de in dit Verdrag geregelde aangelegenheden. Deze organisaties doen tevens kennisgeving aan de Depositaris, die op zijn beurt de Partijen in kennis stelt, van belangrijke wijzigingen betreffende de omvang van hun bevoegdheid.
 
-#### Artikel 36. Inwerkingtreding
+##### Artikel 36. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking negentig dagen na de datum van de nederlegging van de veertigste akte van bekrachtiging, aanvaarding, goedkeuring, formele bevestiging of toetreding bij de Depositaris.
 
@@ -578,11 +602,11 @@ Dit Verdrag staat van 16 juni 2003 tot en met 22 juni 2003 op het Hoofdkwartier 
 
 4. Voor de toepassing van dit artikel wordt een door een regionale organisatie voor economische integratie nedergelegde akte niet meegeteld naast de door haar lidstaten nedergelegde akten.
 
-#### Artikel 37. Depositaris
+##### Artikel 37. Depositaris
 
 De Secretaris-Generaal van de Verenigde Naties is de Depositaris van dit Verdrag, wijzigingen daarvan en van in overeenstemming met de artikelen 28, 29 en 33 aangenomen protocollen en bijlagen.
 
-#### Artikel 38. Authentieke teksten
+##### Artikel 38. Authentieke teksten
 
 Het origineel van dit Verdrag, waarvan de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse tekst gelijkelijk authentiek zijn, wordt nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
 

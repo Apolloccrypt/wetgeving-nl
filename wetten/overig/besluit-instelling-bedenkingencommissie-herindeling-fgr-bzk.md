@@ -1,20 +1,42 @@
 ---
 title: "Besluit instelling Bedenkingencommissie Herindeling FGR BZK"
 identifier: "BWBR0039535"
-categorie: "Overig"
-publicatiedatum: 2017-05-11
-laatste_update: 2017-05-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039535"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-05-11"
+last_updated: "2017-05-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039535"
+soort: "ministeriele-regeling"
+stam_id: "13998523"
+version_id: "24087342"
+internal_id: "C34613271"
+label_id: "13960424"
+dtd_version: "2.0"
+original_entry_into_force: "2017-05-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039535/2017-05-11/0"
+intitule_bron: "Stcrt.2017-25884"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2017-05-10"
+intitule_in_force: "2017-05-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-25884"
+original_published_date: "2017-05-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-25884"
+entry_into_force_date: "2017-05-11"
+jci_1_3: "jci1.3:c:BWBR0039535&z=2017-05-11&g=2017-05-11"
+jci_1_0: "1.0:c:BWBR0039535&g=2017-05-11"
+citeertitel_status: "officieel"
+entry_into_force: "2017-05-11"
 ---
-
 # Besluit instelling Bedenkingencommissie Herindeling FGR BZK
 
 Gelet op [afdeling 4.1.2 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.1.2) en [artikel 2 Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
 
 Besluit
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -30,13 +52,13 @@ In dit besluit wordt verstaan onder:
 
 - f. **bedenking:** bedenking tegen een voorgenomen besluit tot herindeling van de functie van de medewerker in het Functiegebouw Rijk.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een Bedenkingencommissie Herindeling FGR BZK.
 
 2. De commissie heeft tot taak de medewerker te horen over zijn bedenkingen tegen een voorgenomen besluit van het bevoegd gezag tot herindeling van zijn functie in het Functiegebouw Rijk en daarover advies uit te brengen aan het bevoegd gezag.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De commissie bestaat uit:
 
@@ -48,15 +70,15 @@ In dit besluit wordt verstaan onder:
 
 3. De benoeming geldt, behoudens tussentijds ontslag, voor drie jaar en kan aansluitend eenmaal voor drie jaar worden verlengd. Ingeval van tussentijds ontslag vindt een benoeming plaats van een nieuw lid.
 
-#### Artikel 4
+##### Artikel 4
 
 De commissie wordt bijgestaan door een secretaris die wordt aangewezen door het hoofd van het expertisecentrum Organisatie en Personeel/arbeidsjuridisch.
 
-#### Artikel 5
+##### Artikel 5
 
 De leden van de commissie verschonen zich van behandeling van zaken waarbij zij in enig opzicht betrokken zijn geweest.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De commissie behandelt een verzoek om het horen over een bedenking in de volgende samenstelling: de voorzitter en ten minste twee leden.
 
@@ -72,7 +94,7 @@ De leden van de commissie verschonen zich van behandeling van zaken waarbij zij 
 
 7. Voor het overige regelt de commissie zelf haar werkwijze en legt deze schriftelijk vast.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De voorzitter ontvangt een vergoeding voor iedere dag waarop de voorzitter één of meer hoorzittingen of vergaderingen van de commissie voorzit.
 
@@ -80,19 +102,19 @@ De leden van de commissie verschonen zich van behandeling van zaken waarbij zij 
 
 3. De voorzitter ontvangt een vergoeding van reis- en verblijfkosten op de voet van de regeling voor het personeel werkzaam bij de sector Rijk.
 
-#### Artikel 8
+##### Artikel 8
 
 De commissie kan van het betrokken bevoegd gezag de medewerking verlangen die zij nodig acht voor de behandeling van een bedenking.
 
-#### Artikel 9
+##### Artikel 9
 
 De commissie behandelt bedenkingen die op of na 1 december 2016 zijn ingediend.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 11
+##### Artikel 11
 
 Dit besluit wordt aangehaald als: Besluit instelling Bedenkingencommissie Herindeling FGR BZK.
 

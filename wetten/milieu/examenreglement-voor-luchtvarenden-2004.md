@@ -1,13 +1,39 @@
 ---
-title: "Examenreglement voor luchtvarenden 2004"
+title: "Regeling tot vaststelling van een nieuw examenreglement met betrekking tot bewijzen van bevoegdheid voor de luchtvaart (Examenreglement voor luchtvarenden 2004)"
 identifier: "BWBR0017237"
-categorie: "Milieu"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0017237"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0017237"
+soort: "ministeriele-regeling"
+stam_id: "6156433"
+version_id: "27718822"
+internal_id: "C39100541"
+label_id: "6145834"
+dtd_version: "2.0"
+original_entry_into_force: "2021-04-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0017237/2024-01-01/0"
+intitule_bron: "Stcrt.2004-187"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-09-24"
+intitule_published: "2004-09-29"
+intitule_in_force: "2004-09-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-18496"
+original_signed_date: "2021-04-15"
+original_published_date: "2021-04-19"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2021-18496"
+entry_into_force_date: "2021-04-20"
+jci_1_3: "jci1.3:c:BWBR0017237&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0017237&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Examenreglement voor luchtvarenden 2004"
+signed_date: "2021-04-15"
+entry_into_force: "2021-04-20"
 ---
-
 # Regeling tot vaststelling van een nieuw examenreglement met betrekking tot bewijzen van bevoegdheid voor de luchtvaart (Examenreglement voor luchtvarenden 2004)
 
 Gelet op de [artikelen 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=14), en [16 van het Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=16);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 1. Deze regeling berust mede op [artikel 1.5 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.5) en [artikel 14, vijfde lid, van het Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=14).
 
@@ -76,7 +102,7 @@ Besluit:
 
 #### § 2. Theorie-examen
 
-#### Artikel 2
+##### Artikel 2
 
 Van de theorie-examens wordt informatie over de examenplanning en de examenlocaties bekendgemaakt door:
 
@@ -86,7 +112,7 @@ Van de theorie-examens wordt informatie over de examenplanning en de examenlocat
 
 - 3. een houder van het examinatorcertificaat RFE(GC) voor het theorie-examen bedoeld in [artikel 1a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=1a&z=2024-01-01&g=2024-01-01).
 
-#### Artikel 3
+##### Artikel 3
 
 1. De kandidaat of de door hem gemachtigde opleidingsinstelling doet een aanvraag voor het afleggen van een theorie-examen bij het CBR op de door het CBR vastgestelde wijze.
 
@@ -100,7 +126,7 @@ Van de theorie-examens wordt informatie over de examenplanning en de examenlocat
 
 3. Het in het tweede lid bedoelde toelatingsbewijs vermeldt het persoonsgebonden registratienummer en de geldigheidsduur van het toelatingsbewijs, te weten 18 maanden, gerekend vanaf de laatste dag van de kalendermaand waarin de kandidaat voor het eerst aan een examenzitting heeft deelgenomen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De kandidaat wordt slechts toegelaten tot het examen indien hij:
 
@@ -112,19 +138,19 @@ Van de theorie-examens wordt informatie over de examenplanning en de examenlocat
 
 2. Aanvullende eisen voor toelating tot het theorie-examen worden vastgesteld en bekendgemaakt door het CBR, de stichting, of de houder van het examinatorcertificaat RFE(GC).
 
-#### Artikel 5
+##### Artikel 5
 
 Voor het afleggen van een theorie-examen is de kandidaat examengeld verschuldigd.
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 1. De theorie-examens worden schriftelijk afgenomen.
 
@@ -140,11 +166,11 @@ Vervallen
 
 4. In afwijking van het derde lid worden de gyrokoptertheorie-examens georganiseerd volgens de in de bijlage bij deze regeling gestelde regels.
 
-#### Artikel 9
+##### Artikel 9
 
 De minister kan de uitslag van het theorie-examen ongeldig verklaren en een kandidaat tijdelijk uitsluiten van het theorie-examen indien de kandidaat tijdens het afleggen van het theorie-examen onregelmatigheden pleegt.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De beoordeling in hoeverre de kandidaat aan de kenniseisen voldoet, wordt uitgedrukt in een percentage van het totaal per vak toe te kennen aantal punten.
 
@@ -156,11 +182,11 @@ De minister kan de uitslag van het theorie-examen ongeldig verklaren en een kand
 
 3. Voor de beoordeling van het theorie-examen, bedoeld in [artikel 1a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=1a&z=2024-01-01&g=2024-01-01), geldt dat een kandidaat slaagt voor een examenonderdeel wanneer hij een score van tenminste 75% behaalt van het aantal punten dat voor dat examenonderdeel kan worden behaald.
 
-#### Artikel 11
+##### Artikel 11
 
 Na het afleggen van een of meer vakken dan wel de afronding van het theorie-examen voor de in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01), bedoelde bewijzen van bevoegdheid, voorziet het CBR de kandidaat van een resultaatbrief.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De kandidaat die het niet eens is met de uitslag van het schriftelijk theorie-examen kan een verzoek om herziening indienen bij het CBR, de stichting dan wel de houder van het examinatorcertificaat RFE(GC).
 
@@ -174,15 +200,15 @@ Na het afleggen van een of meer vakken dan wel de afronding van het theorie-exam
 
 #### § 3. Praktijkexamen
 
-#### Artikel 13
+##### Artikel 13
 
 Een praktijkexamen en een proeve van bekwaamheid worden afgenomen op een luchtvaartuig dan wel een daartoe gekwalificeerde FSTD.
 
-#### Artikel 14
+##### Artikel 14
 
 De minister stelt de examenformulieren ter beschikking aan de examinator van een praktijkexamen of een proeve van bekwaamheid.
 
-#### Artikel 15
+##### Artikel 15
 
 1. In bijzondere gevallen kan de minister een examinator toedelen.
 
@@ -190,15 +216,15 @@ De minister stelt de examenformulieren ter beschikking aan de examinator van een
 
 3. De datum, het tijdstip en de locatie waarop het praktijkexamen of de proeve van bekwaamheid wordt afgelegd, worden vastgesteld door de examinator.
 
-#### Artikel 16
+##### Artikel 16
 
 Een kandidaat is voor het afleggen van een praktijkexamen of proeve van bekwaamheid een vergoeding verschuldigd aan de examinator.
 
-#### Artikel 17
+##### Artikel 17
 
 De kandidaat wordt slechts toegelaten tot het praktijkexamen of de proeve van bekwaamheid indien hij voor aanvang aan de examinator, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=3&artikel=15&z=2024-01-01&g=2024-01-01), een wettig en geldig legitimatiebewijs overlegt en het examengeld heeft betaald
 
-#### Artikel 18
+##### Artikel 18
 
 1. De kandidaat dan wel de opleidingsinstelling draagt zorg voor de beschikbaarheid van een luchtvaartuig of FSTD, voor zover van toepassing, voor het afleggen van een praktijkexamen of een proeve van bekwaamheid.
 
@@ -206,11 +232,11 @@ De kandidaat wordt slechts toegelaten tot het praktijkexamen of de proeve van be
 
 3. De examenonderdelen die niet geëxamineerd kunnen worden in een FSTD, worden afgenomen in een luchtvaartuig van het desbetreffende type of de desbetreffende klasse.
 
-#### Artikel 19
+##### Artikel 19
 
 Vervallen
 
-#### Artikel 20
+##### Artikel 20
 
 Voor de praktijkexamens of proeven van bekwaamheid voor RPL geldt dat:
 
@@ -236,15 +262,15 @@ Voor de praktijkexamens of proeven van bekwaamheid voor RPL geldt dat:
 
 - 7°. de examinator niet betrokken is bij de bediening van het luchtvaartuig tenzij diens tussenkomst noodzakelijk is in het belang van de veiligheid of teneinde vertraging van overig verkeer te voorkomen.
 
-#### Artikel 21
+##### Artikel 21
 
 Vervallen
 
-#### Artikel 22
+##### Artikel 22
 
 De uitslag van een praktijkexamen voor RPL wordt door de examinator namens de minister vastgesteld en vastgelegd op het examenformulier aan de hand van de gegevens die door de examinator op het vaardigheidstestschema zijn aangetekend.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Met betrekking tot de vaststelling van de uitslag van een proeve van bekwaamheid is [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=3&artikel=22&z=2024-01-01&g=2024-01-01) van overeenkomstige toepassing.
 
@@ -252,23 +278,23 @@ De uitslag van een praktijkexamen voor RPL wordt door de examinator namens de mi
 
 3. Indien de examinator een proeve van bekwaamheid negatief beoordeelt, tekent hij dit aan op het examenformulier.
 
-#### Artikel 24
+##### Artikel 24
 
 Vervallen
 
-#### Artikel 25
+##### Artikel 25
 
 Vervallen
 
 #### § 4. Nationaal Expert Team
 
-#### Artikel 26
+##### Artikel 26
 
 1. Om de minister desgevraagd van advies te dienen en bij te staan wat betreft het standaardiseren en bewaken van de kwaliteit van de praktijkexamens kan de minister een Nationaal Expert Team-Praktijk instellen.
 
 2. Het Nationaal Expert Team-Praktijk kan subcommissies, met de benaming standaardisatiecommissies instellen.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Een Nationaal Expert Team-Praktijk bestaat uit een door de minister vast te stellen aantal leden, die door de minister worden benoemd voor een periode van ten hoogste 3 jaar. De leden kunnen telkens voor ten hoogste 3 jaar worden herbenoemd.
 
@@ -282,7 +308,7 @@ Vervallen
 
 4. Elk Nationaal Expert Team-Praktijk stelt een reglement vast ter nadere regeling van haar werkzaamheden. Het reglement behoeft de goedkeuring van de minister.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Een lid van een Nationaal Expert Team-Praktijk kan voor op verzoek van de minister uit te voeren taken een vergoeding declareren bij de minister.
 
@@ -296,15 +322,15 @@ Vervallen
 
 #### § 4. Nationaal Expert Team
 
-#### Artikel 29
+##### Artikel 29
 
 Het [Examenreglement voor luchtvarenden 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012924) wordt ingetrokken.
 
-#### Artikel 30
+##### Artikel 30
 
 Deze regeling treedt in werking met ingang van 1 oktober 2004. Indien de Staatscourant, waarin deze regeling wordt geplaatst, wordt uitgegeven na 29 september 2004, treedt zij in werking met ingang van de tweede dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 oktober 2004.
 
-#### Artikel 31
+##### Artikel 31
 
 Deze regeling wordt aangehaald als: Examenreglement voor luchtvarenden 2004.
 
@@ -318,7 +344,7 @@ Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, die ter inzage worden gelegd bij het Ministerie van Verkeer en Waterstaat.
 
-#### Artikel 28a
+##### Artikel 28a
 
 Vervallen
 
@@ -330,7 +356,7 @@ Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, die ter inzage worden gelegd bij het Ministerie van Verkeer en Waterstaat.
 
-#### Artikel 1a
+##### Artikel 1a
 
 1. Het theorie-examen voor de in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01), bedoelde bewijzen van bevoegdheid wordt afgenomen door het CBR.
 
@@ -350,17 +376,17 @@ Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, die ter inzage worden gelegd bij het Ministerie van Verkeer en Waterstaat.
 
-#### Artikel 3a
+##### Artikel 3a
 
 1. De kandidaat die beschikt over een voordracht van een daartoe bevoegde opleidingsinstelling voor het doen van theorie-examen voor de brevetten BPL en SPL meldt zich aan voor het afleggen van het betreffende examen bij de stichting op de door de stichting vastgestelde wijze.
 
 2. De toegelaten kandidaat ontvangt van de stichting een toelatingsbewijs, dat geldig is conform deel BFCL of deel SFCL, en het persoonsgebonden registratienummer en de geldigheidsduur van het toelatingsbewijs vermeldt.
 
-#### Artikel 8a
+##### Artikel 8a
 
 Vervallen
 
-#### Artikel 11a
+##### Artikel 11a
 
 1. Ter beoordeling van de resultaten van het theorie-examen BPL en SPL doet de stichting de in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=10&z=2024-01-01&g=2024-01-01), bedoelde percentages, alsmede de bevestiging dat de scores binnen de daarvoor gestelde termijn zijn behaald, onder vermelding van de examendatum aan de minister toekomen.
 
@@ -380,13 +406,13 @@ Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, die ter inzage worden gelegd bij het Ministerie van Verkeer en Waterstaat.
 
-#### Artikel 3b
+##### Artikel 3b
 
 1. De kandidaat die beschikt over een voordracht van een daartoe bevoegde opleidingsinstelling voor het doen van het theorie-examen voor het RPL(GC), meldt zich voor het afleggen van het deel van het theorie-examen, bedoeld in [artikel 1a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=1a&z=2024-01-01&g=2024-01-01), aan bij de houder van het examinatorcertificaat RFE(GC). De voordracht is twaalf maanden geldig.
 
 2. De toegelaten kandidaat ontvangt van de houder van het examinatorcertificaat RFE(GC) een toelatingsbewijs, dat het persoonsgebonden registratienummer en de geldigheidsduur van het toelatingsbewijs vermeldt.
 
-#### Artikel 11b
+##### Artikel 11b
 
 Na de afronding van het specifieke GC-deel van het theorie-examen RPL(GC), bedoeld in [artikel 1a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=1a&z=2024-01-01&g=2024-01-01), voorziet de houder van het examinatorcertificaat RFE(GC) de kandidaat van een resultaatbrief.
 

@@ -1,18 +1,43 @@
 ---
 title: "Regeling aanlevering declaratiegegevens door ziektekostenverzekeraars"
 identifier: "BWBR0050285"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2024-10-11
-laatste_update: 2024-10-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050285"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-10-11"
+last_updated: "2024-10-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050285"
+soort: "zbo"
+stam_id: "17238413"
+version_id: "30358952"
+internal_id: "C43543841"
+label_id: "17144174"
+dtd_version: "2.0"
+original_entry_into_force: "2024-10-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050285/2024-10-11/0"
+intitule_bron: "Stcrt.2024-32811"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-09-24"
+intitule_published: "2024-10-10"
+intitule_in_force: "2024-10-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-32811"
+original_signed_date: "2024-09-24"
+original_published_date: "2024-10-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-32811"
+entry_into_force_date: "2024-10-11"
+jci_1_3: "jci1.3:c:BWBR0050285&z=2024-10-11&g=2024-10-11"
+jci_1_0: "1.0:c:BWBR0050285&g=2024-10-11"
+citeertitel_status: "officieel"
+signed_date: "2024-09-24"
+entry_into_force: "2024-10-11"
 ---
-
 # Regeling aanlevering declaratiegegevens door ziektekostenverzekeraars
 
 Gelet op [artikel 62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=62) jo. [65](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=65) en [artikel 68 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=68) (Wmg) is de Nederlandse Zorgautoriteit (NZa) bevoegd tot het stellen van regels op het gebied van informatieverstrekking door ziektekostenverzekeraars aan de NZa.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt, tenzij anders vermeld, verstaan onder:
 
@@ -46,15 +71,15 @@ In deze regeling wordt, tenzij anders vermeld, verstaan onder:
 
 - **Ziektekostenverzekeraar(s):** ziektekostenverzekeraar(s) als bedoeld in [artikel 1, eerste lid, onderdeel f, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1).
 
-#### Artikel 2. Doel van de regeling
+##### Artikel 2. Doel van de regeling
 
 Deze regeling verplicht ziektekostenverzekeraars periodiek declaratiegegevens bij de NZa aan te leveren. Deze gegevens gebruikt de NZa voor het onderhoud van prestatiebeschrijvingen en tarieven, de monitoring van marktontwikkelingen en voor de uitvoering van de overige wettelijke taken van de NZa.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze regeling is van toepassing op ziektekostenverzekeraars als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050285&artikel=1&z=2024-10-11&g=2024-10-11) van deze regeling.
 
-#### Artikel 4. Declaratieset
+##### Artikel 4. Declaratieset
 
 1. De navolgende declaratiesets worden onderscheiden:
 
@@ -94,7 +119,7 @@ De informatie-elementen die in een declaratieset zijn opgenomen worden in [bijla
 
 2. Voordat een declaratieset met BSN informatie-elementen aan de NZa wordt aangeleverd wordt het BSN gepseudonimiseerd. Pseudonimisering gebeurt door bestanden aan ZorgTTP te versturen middels de daarvoor ingerichte Privacy Verzend Module van ZorgTTP.
 
-#### Artikel 5. Aanlevering declaratieset
+##### Artikel 5. Aanlevering declaratieset
 
 1. **Aanleverplicht declaratieset**
 
@@ -142,7 +167,7 @@ De in dit lid genoemde declaratiesets worden per kwartaal binnen 2 maanden na af
 
 Iedere declaratieset bevat de declaratiegegevens en/of verzekerdengegevens en /of gegevens betreffende het persoonsgebonden budget over zowel het lopende jaar (t) als het jaar daarvoor (t-1). De declaratieset over het eerste kwartaal van jaar (t) bevat ook gegevens over het jaar (t-2). De declaratieset medisch-specialistische zorg bevat gegevens over het lopende jaar (t), jaar (t-1) en jaar (t-2).
 
-#### Artikel 6. Wijze van aanlevering
+##### Artikel 6. Wijze van aanlevering
 
 1. De aanlevering bij de NZa vindt uitsluitend plaats op een wijze die voldoet aan gegevensaanleverstandaard als opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050285&bijlage=2&z=2024-10-11&g=2024-10-11) (gegevensaanleverstandaard).
 
@@ -152,7 +177,7 @@ Iedere declaratieset bevat de declaratiegegevens en/of verzekerdengegevens en /o
 
 4. Indien uit de in 6.2 en 6.3 bedoelde controle of de daarop volgende inhoudelijke beoordeling komt vast te staan dat de kwaliteit van de gegevensaanlevering onvoldoende is, zal de NZa verzoeken een correcte aanlevering te doen.
 
-#### Artikel 7. Bekendmaking, inwerkingtreding en citeertitel
+##### Artikel 7. Bekendmaking, inwerkingtreding en citeertitel
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin de regeling ingevolge [artikel 5, aanhef en onder d, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5) wordt geplaatst.
 

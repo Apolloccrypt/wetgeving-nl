@@ -1,14 +1,41 @@
 ---
-title: "Aanvullingswet geluid Omgevingswet"
+title: "Wet van 19 februari 2020 tot wijziging van de Omgevingswet en enkele andere wetten met het oog op de beheersing van geluid afkomstig van wegen, spoorwegen en industrieterreinen (Aanvullingswet geluid Omgevingswet)"
 identifier: "BWBR0043247"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043247"
+country: "nl"
+rank: "wet"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043247"
+soort: "wet"
+stam_id: "15357253"
+version_id: "26550122"
+internal_id: "C42076071"
+label_id: "15302274"
+dtd_version: "2.0"
+original_entry_into_force: "2024-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043247/2024-01-01/0"
+intitule_bron: "Stb.2020-83"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-02-19"
+intitule_published: "2020-03-09"
+intitule_in_force: "2023-04-07"
+intitule_status: "goed"
+original_publication: "Stb.2020-83"
+original_signed_date: "2020-02-19"
+original_published_date: "2020-03-09"
+original_effect: "nieuwe-regeling"
+original_dossier: "35054"
+original_url_id: "stb-2020-83"
+entry_into_force_date: "2024-01-01"
+jci_1_3: "jci1.3:c:BWBR0043247&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0043247&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Aanvullingswet geluid Omgevingswet"
+signed_date: "2020-02-19"
+entry_into_force: "2024-01-01"
 ---
-
-# Aanvullingswet geluid Omgevingswet
+# Wet van 19 februari 2020 tot wijziging van de Omgevingswet en enkele andere wetten met het oog op de beheersing van geluid afkomstig van wegen, spoorwegen en industrieterreinen (Aanvullingswet geluid Omgevingswet)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk 1. Wijzigingen in de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885)
 
-#### Artikel 1.1. ([Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885))
+##### Artikel 1.1. ([Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885))
 
 Wijzigt de Omgevingswet.
 
@@ -26,27 +53,27 @@ Wijzigt de Omgevingswet.
 
 #### Paragraaf 2.1. Intrekken van de [Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227)
 
-#### Artikel 2.1. (Intrekken [wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227))
+##### Artikel 2.1. (Intrekken [wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227))
 
 De [Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227) wordt ingetrokken.
 
 #### Paragraaf 2.2. Wijziging van andere wetten
 
-#### Artikel 2.2. ([Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746))
+##### Artikel 2.2. ([Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746))
 
 Wijzigt de Algemene douanewet.
 
-#### Artikel 2.3. ([Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537))
+##### Artikel 2.3. ([Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537))
 
 Wijzigt de Algemene wet bestuursrecht.
 
-#### Artikel 2.4. ([Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245))
+##### Artikel 2.4. ([Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245))
 
 Wijzigt de Wet milieubeheer.
 
 ### Hoofdstuk 3. Overgangsrecht
 
-#### Artikel 3.1. (algemeen overgangsrecht [hoofdstuk 11 Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=11))
+##### Artikel 3.1. (algemeen overgangsrecht [hoofdstuk 11 Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=11))
 
 1. Het recht zoals dat gold voor het tijdstip van inwerkingtreding van deze wet blijft van toepassing op de onderstaande besluiten totdat deze onherroepelijk zijn:
 
@@ -62,7 +89,7 @@ Wijzigt de Wet milieubeheer.
 
 3. [Artikel 11.22 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=11.22) blijft van toepassing totdat de in dat artikel bedoelde beheerder over het laatste volledige kalenderjaar waarop [hoofdstuk 11 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=11) van toepassing was een verslag over de naleving van de geluidproductieplafonds in dat kalenderjaar aan Onze Minister van Infrastructuur en Waterstaat heeft gezonden.
 
-#### Artikel 3.2. (overgangsrecht geluidproductieplafonds)
+##### Artikel 3.2. (overgangsrecht geluidproductieplafonds)
 
 1. De volgende geluidproductieplafonds worden door Onze Minister van Infrastructuur en Waterstaat met bij ministeriële regeling gestelde rekenvoorschriften herberekend:
 
@@ -78,7 +105,7 @@ Wijzigt de Wet milieubeheer.
 
 4. Als in een ontheffing als bedoeld in het derde lid een voorschrift is opgenomen over de mate van overschrijding van het geluidproductieplafond, wordt die mate van overschrijding door Onze Minister van Infrastructuur en Waterstaat herberekend met de in het eerste lid bedoelde rekenmethode.
 
-#### Artikel 3.2a. (overgangsrecht geluidproductieplafonds langs overgedragen wegen en lokale spoorwegen)
+##### Artikel 3.2a. (overgangsrecht geluidproductieplafonds langs overgedragen wegen en lokale spoorwegen)
 
 1. De op grond van [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043247&hoofdstuk=3&artikel=3.2&z=2024-01-01&g=2024-01-01), herberekende geluidproductieplafonds gelden:
 
@@ -90,7 +117,7 @@ Wijzigt de Wet milieubeheer.
 
 2. [Artikel 3.2, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043247&hoofdstuk=3&artikel=3.2&z=2024-01-01&g=2024-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 3.3. (overgangsrecht geluidsanering [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245))
+##### Artikel 3.3. (overgangsrecht geluidsanering [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245))
 
 1. [Afdeling 11.3.6 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&afdeling=11.3.6) blijft van toepassing tot voor alle wegen en spoorwegen als bedoeld in [artikel 11.56, eerste en tweede lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=11.56) een besluit op een verzoek tot vaststelling van een saneringsplan dan wel een tracébesluit of een besluit op een verzoek tot wijziging van een geluidproductieplafond, beide als bedoeld in [artikel 11.42, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=11.42), onherroepelijk is en de saneringsmaatregelen uit dat besluit, alsmede de geluidwerende maatregelen voor de saneringsobjecten volgend uit dat besluit, zijn uitgevoerd.
 
@@ -108,7 +135,7 @@ Wijzigt de Wet milieubeheer.
 
 4. Een vastgesteld saneringsplan wordt voor de toepassing van [artikel 11.6 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=11.6) als een onteigeningsbelang aangemerkt.
 
-#### Artikel 3.4. (algemeen overgangsrecht [Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227))
+##### Artikel 3.4. (algemeen overgangsrecht [Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227))
 
 1. Het recht zoals dat gold voor het tijdstip van inwerkingtreding van deze wet blijft van toepassing op de onderstaande besluiten totdat deze onherroepelijk zijn:
 
@@ -118,7 +145,7 @@ Wijzigt de Wet milieubeheer.
 
 2. Als op grond van de [Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227) zoals die gold voor het tijdstip van inwerkingtreding van deze wet een plicht bestond tot het treffen van maatregelen als bedoeld in het eerste lid op grond van een onherroepelijk besluit, of op grond van een besluit dat onder de werking van dit artikel valt, en die maatregelen op dat tijdstip nog niet zijn getroffen, blijft op die plicht de [Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227) van toepassing.
 
-#### Artikel 3.5. (overgangsrecht wegen [Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227) en invoering geluidproductieplafonds langs provinciale wegen)
+##### Artikel 3.5. (overgangsrecht wegen [Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227) en invoering geluidproductieplafonds langs provinciale wegen)
 
 1. Het recht zoals dat gold voor het tijdstip van inwerkingtreding van deze wet blijft van toepassing op:
 
@@ -150,7 +177,7 @@ Wijzigt de Wet milieubeheer.
 
 4. Het eerste en tweede lid zijn niet van toepassing op een weg waarvoor geluidproductieplafonds als omgevingswaarden gelden op grond van [artikel 3.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0043247&hoofdstuk=3&artikel=3.2a&z=2024-01-01&g=2024-01-01).
 
-#### Artikel 3.6. (overgangsrecht industrieterreinen [Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227) en invoering geluidproductieplafonds rondom industrieterreinen)
+##### Artikel 3.6. (overgangsrecht industrieterreinen [Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227) en invoering geluidproductieplafonds rondom industrieterreinen)
 
 1. Het recht zoals dat gold voor het tijdstip van inwerkingtreding van deze wet blijft van toepassing op:
 
@@ -188,7 +215,7 @@ Wijzigt de Wet milieubeheer.
 
 6. Het eerste, tweede en derde lid zijn niet van toepassing op een op het tijdstip van inwerkingtreding van deze wet bestaand industrieterrein als bedoeld in [artikel 1 van de Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=1) als na dat tijdstip het omgevingsplan als bedoeld in [artikel 2.4 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.4) wordt vastgesteld en daarin is bepaald dat de bij algemene maatregel van bestuur op grond van [artikel 2.11a van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.11a) aangewezen activiteiten die in aanzienlijke mate geluid kunnen veroorzaken niet worden verricht.
 
-#### Artikel 3.6a. (overgangsrecht spoorwegen [Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227))
+##### Artikel 3.6a. (overgangsrecht spoorwegen [Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227))
 
 Het recht zoals dat gold voor het tijdstip van inwerkingtreding van deze wet blijft van toepassing op de onderstaande besluiten op grond van [hoofdstuk VII van de Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&hoofdstuk=VII), totdat deze onherroepelijk zijn:
 
@@ -196,7 +223,7 @@ Het recht zoals dat gold voor het tijdstip van inwerkingtreding van deze wet bli
 
 - b. het beslissen op een aanvraag om een omgevingsvergunning, waarvoor voor dat tijdstip de aanvraag is ingediend.
 
-#### Artikel 3.6b. (overgangsrecht in verband met actualisatie basisregistratie Kadaster)
+##### Artikel 3.6b. (overgangsrecht in verband met actualisatie basisregistratie Kadaster)
 
 Onze Minister van Infrastructuur en Waterstaat doet zo spoedig mogelijk na het hierna onder a en b genoemde tijdstip mededeling aan de Dienst voor het kadaster en de openbare registers dat de inschrijving in die registers van een saneringsplan als bedoeld in [artikel 11.60 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=11.60), een besluit tot wijziging van een geluidproductieplafond als bedoeld in [artikel 11.42 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=11.42) of een tracébesluit als bedoeld in artikel 11.42 van de Wet milieubeheer, zoals die gold voor het tijdstip van inwerkingtreding van deze wet, moet worden beëindigd:
 
@@ -212,19 +239,19 @@ Onze Minister van Infrastructuur en Waterstaat doet zo spoedig mogelijk na het h
 
 nadat de saneringsmaatregelen en de eventuele geluidwerende maatregelen zijn getroffen.
 
-#### Artikel 3.7. (vangnetbepaling)
+##### Artikel 3.7. (vangnetbepaling)
 
 Bij algemene maatregel van bestuur kan overgangsrecht worden geregeld voor een bepaling in de [Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227) of [hoofdstuk 11 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=11), die wordt vervangen door een bepaling in een algemene maatregel van bestuur op grond van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), voor zover hierin niet is voorzien in het overgangsrecht in deze wet.
 
 ### Hoofdstuk 3a. Overige bepalingen
 
-#### Artikel 3a.1. (wijziging Aanvullingswet bodem Omgevingswet)
+##### Artikel 3a.1. (wijziging Aanvullingswet bodem Omgevingswet)
 
 Wijzigt de Aanvullingswet bodem Omgevingswet (Kst. 34864).
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 4.1. (internetpublicatie, voorhang en andere totstandkomingsvereisten [Aanvullingsbesluit geluid Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0044679) en [Aanvullingsregeling geluid Omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0045504))
+##### Artikel 4.1. (internetpublicatie, voorhang en andere totstandkomingsvereisten [Aanvullingsbesluit geluid Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0044679) en [Aanvullingsregeling geluid Omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0045504))
 
 1. Op de voorbereiding van een algemene maatregel van bestuur in verband met de invoering van de Aanvullingswet geluid Omgevingswet zijn de [artikelen 23.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=23.4) en [23.5 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=23.5) van overeenkomstige toepassing. Op de voorbereiding van een ministeriële regeling in verband met de invoering van de Aanvullingswet geluid Omgevingswet is artikel 23.4 van de Omgevingswet van overeenkomstige toepassing.
 
@@ -244,11 +271,11 @@ Wijzigt de Aanvullingswet bodem Omgevingswet (Kst. 34864).
 
 3. Het tweede lid, aanhef en onder a, is niet van toepassing op het vragen van advies aan de Afdeling advisering van de Raad van State.
 
-#### Artikel 4.2. (inwerkingtreding)
+##### Artikel 4.2. (inwerkingtreding)
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende hoofdstukken, artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 4.3. (citeertitel)
+##### Artikel 4.3. (citeertitel)
 
 Deze wet wordt aangehaald als: Aanvullingswet geluid Omgevingswet.
 

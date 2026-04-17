@@ -1,13 +1,37 @@
 ---
 title: "Toepassing oudedagsvrijstelling bij WUV-uitkering"
 identifier: "BWBR0010541"
-categorie: "Sociaal recht"
-publicatiedatum: 1999-06-23
-laatste_update: 1999-06-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010541"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "1999-06-23"
+last_updated: "1999-06-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010541"
+soort: "beleidsregel"
+stam_id: "8405413"
+version_id: "13278432"
+internal_id: "C17849021"
+label_id: "8386164"
+dtd_version: "2.0"
+original_entry_into_force: "1999-06-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010541/1999-06-23/0"
+intitule_bron: "Infob.1999-6"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-06-23"
+intitule_published: "1999-01-01"
+intitule_in_force: "1999-01-01"
+intitule_status: "goed"
+original_publication: "Infob.1999-6"
+original_signed_date: "1999-06-23"
+original_published_date: "1999-01-01"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1999-06-23"
+jci_1_3: "jci1.3:c:BWBR0010541&z=1999-06-23&g=1999-06-23"
+jci_1_0: "1.0:c:BWBR0010541&g=1999-06-23"
+citeertitel_status: "redactioneel"
+signed_date: "1999-06-23"
+entry_into_force: "1999-06-23"
 ---
-
 # Toepassing oudedagsvrijstelling bij WUV-uitkering
 
 De plv. Directeur-Generaal der Belastingen heeft namens de Staatssecretaris van Financiën het volgende besloten.

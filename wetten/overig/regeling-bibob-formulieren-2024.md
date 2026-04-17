@@ -1,20 +1,46 @@
 ---
-title: "Regeling Bibob-formulieren 2024"
+title: "Regeling van de Minister van Justitie en Veiligheid en de Minister voor Rechtsbescherming van 31 januari 2024, nr. 3337747, tot vaststelling van formulieren voor het verstrekken van gegevens en bescheiden alsmede voor de bevindingen van het eigen onderzoek op grond van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur (Regeling Bibob-formulieren 2024)"
 identifier: "BWBR0049314"
-categorie: "Overig"
-publicatiedatum: 2024-02-01
-laatste_update: 2024-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049314"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-02-01"
+last_updated: "2024-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049314"
+soort: "ministeriele-regeling"
+stam_id: "17020143"
+version_id: "29942802"
+internal_id: "C42916801"
+label_id: "16929904"
+dtd_version: "2.0"
+original_entry_into_force: "2024-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049314/2024-02-01/0"
+intitule_bron: "Stcrt.2024-2733"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-01-31"
+intitule_published: "2024-01-31"
+intitule_in_force: "2024-01-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-2733"
+original_signed_date: "2024-01-31"
+original_published_date: "2024-01-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-2733"
+entry_into_force_date: "2024-02-01"
+jci_1_3: "jci1.3:c:BWBR0049314&z=2024-02-01&g=2024-02-01"
+jci_1_0: "1.0:c:BWBR0049314&g=2024-02-01"
+citeertitel_status: "officieel"
+short_title: "Regeling Bibob-formulieren 2024"
+signed_date: "2024-01-31"
+entry_into_force: "2024-02-01"
 ---
-
 # Regeling van de Minister van Justitie en Veiligheid en de Minister voor Rechtsbescherming van 31 januari 2024, nr. 3337747, tot vaststelling van formulieren voor het verstrekken van gegevens en bescheiden alsmede voor de bevindingen van het eigen onderzoek op grond van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur (Regeling Bibob-formulieren 2024)
 
 Gelet op [artikel 7a, vijfde lid, van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=7a);
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -30,27 +56,27 @@ In deze regeling wordt verstaan onder:
 
 - **Wet Bibob:** [Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798).
 
-#### Artikel 2
+##### Artikel 2
 
 Het formulier voor het verstrekken van gegevens en bescheiden, bedoeld in [artikel 7a, tweede en derde lid, van de Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=7a), wordt vastgesteld overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049314&bijlage=1&z=2024-02-01&g=2024-02-01) bij deze regeling.
 
-#### Artikel 3
+##### Artikel 3
 
 Het formulier voor de bevindingen van het eigen onderzoek, bedoeld in [artikel 7a, vierde lid, van de Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=7a), wordt vastgesteld overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049314&bijlage=2&z=2024-02-01&g=2024-02-01) bij deze regeling.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het is de bevoegde instantie toegestaan om op basis van het Bibob-vragenformulier een vragenlijst samen te stellen en in de plaats van het Bibob-vragenformulier te gebruiken voor het verkrijgen van gegevens en bescheiden, bedoeld in [artikel 7a, tweede en derde lid, van de Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=7a).
 
 2. Het is het Bureau toegestaan om op basis van het formulier bevindingen eigen onderzoek een vragenlijst samen te stellen en in de plaats van het formulier bevindingen eigen onderzoek te gebruiken voor het verkrijgen van gegevens en bescheiden, bedoeld in [artikel 7a, vierde lid, van de Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=7a).
 
-#### Artikel 5
+##### Artikel 5
 
 1. Bij het samenstellen van een vragenlijst voor een Bibob-rechtshandeling dient de bevoegde instantie uitsluitend uit het Bibob-vragenformulier, overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049314&bijlage=1&z=2024-02-01&g=2024-02-01) bij deze regeling, vragen en deelvragen te selecteren.
 
 2. Bij het samenstellen van een vragenlijst ten behoeve van de bevindingen van het eigen onderzoek dient het Bureau uitsluitend uit het formulier bevindingen eigen onderzoek, overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049314&bijlage=2&z=2024-02-01&g=2024-02-01) bij deze regeling, vragen en deelvragen te selecteren.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Onverminderd [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049314&artikel=5&z=2024-02-01&g=2024-02-01), is de bevoegde instantie bij het samenstellen van een vragenlijst toegestaan vragen uit het Bibob-vragenformulier te herformuleren voor zover:
 
@@ -68,19 +94,19 @@ Het formulier voor de bevindingen van het eigen onderzoek, bedoeld in [artikel 7
 
 - c. de strekking van de vragen in de vragenlijst niet inhoudelijk anders wordt ten opzichte van de vragen uit het formulier bevindingen eigen onderzoek.
 
-#### Artikel 7
+##### Artikel 7
 
 Tot 1 augustus 2024 is het de bevoegde instantie en het Bureau toegestaan vragenlijsten te gebruiken overeenkomstig de [Regeling Bibob-formulieren](https://wetten.overheid.nl/jci1.3:c:BWBR0033634).
 
-#### Artikel 8
+##### Artikel 8
 
 De [Regeling Bibob-formulieren](https://wetten.overheid.nl/jci1.3:c:BWBR0033634) wordt ingetrokken.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling treedt in werking met ingang van 1 februari 2024.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling Bibob-formulieren 2024.
 

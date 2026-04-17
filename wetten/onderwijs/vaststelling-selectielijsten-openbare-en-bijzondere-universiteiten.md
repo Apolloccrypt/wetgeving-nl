@@ -1,13 +1,37 @@
 ---
 title: "Vaststelling selectielijsten Openbare en Bijzondere Universiteiten"
 identifier: "BWBR0009361"
-categorie: "Onderwijs"
-publicatiedatum: 2001-04-29
-laatste_update: 2001-04-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009361"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2001-04-29"
+last_updated: "2001-04-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009361"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "4604963"
+version_id: "6421192"
+internal_id: "C25308761"
+label_id: "4583264"
+dtd_version: "2.0"
+original_entry_into_force: "1999-02-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009361/2001-04-29/0"
+intitule_bron: "Stcrt.1999-22"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-02-02"
+intitule_published: "1999-02-02"
+intitule_in_force: "1999-02-02"
+intitule_status: "goed"
+original_publication: "Stcrt.1999-22"
+original_signed_date: "1998-02-02"
+original_published_date: "1999-02-02"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1999-02-04"
+jci_1_3: "jci1.3:c:BWBR0009361&z=2001-04-29&g=2001-04-29"
+jci_1_0: "1.0:c:BWBR0009361&g=2001-04-29"
+citeertitel_status: "officieel"
+signed_date: "1998-02-02"
+entry_into_force: "1999-02-04"
 ---
-
 # Vaststelling selectielijsten Openbare en Bijzondere Universiteiten
 
 Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
@@ -16,15 +40,15 @@ De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 4 november 199
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Vast te stellen de selectielijst voor de neerslag van de handelingen van de Openbare en Bijzondere Universiteiten op het beleidsterrein Wetenschappelijk Onderwijsvanaf 1985, overeenkomstig de bij dit besluit gevoegde bijlage.
 
-#### Artikel 2
+##### Artikel 2
 
 In te trekken de lijst van te bewaren en te vernietigen archiefbescheiden van de Rijksuniversiteiten (vastgesteld bij beschikking van de Minister van Onderwijs, no. Fac/DBA 94049687 d.d. 01-12-1994 (gepubliceerd in Staatscourant 1995, 5))
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit wordt gepubliceerd in de Staatscourant en treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het is gepubliceerd.
 

@@ -1,16 +1,42 @@
 ---
-title: "Regeling specifieke uitkering kwijtschelding schulden SZW in verband met de hersteloperatie toeslagen"
+title: "Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 16 november 2021, 2021-0000180781, tot de verstrekking van een specifieke uitkering aan gemeenten voor compensatie van de kosten die verband houden met het kwijtschelden van publieke schulden binnen het SZW-domein in het kader van de hersteloperatie kinderopvangtoeslagaffaire toeslagen (Regeling specifieke uitkering kwijtschelding schulden SZW in verband met de hersteloperatie toeslagen)"
 identifier: "BWBR0045861"
-categorie: "Sociaal recht"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045861"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045861"
+soort: "ministeriele-regeling"
+stam_id: "16143603"
+version_id: "28984062"
+internal_id: "C41035611"
+label_id: "16072804"
+dtd_version: "2.0"
+original_entry_into_force: "2022-10-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045861/2025-01-01/0"
+intitule_bron: "Stcrt.2021-47169"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-11-16"
+intitule_published: "2021-11-19"
+intitule_in_force: "2021-11-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-28436"
+original_signed_date: "2022-10-19"
+original_published_date: "2022-10-27"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2022-28436"
+entry_into_force_date: "2022-10-19"
+jci_1_3: "jci1.3:c:BWBR0045861&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0045861&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling specifieke uitkering kwijtschelding schulden SZW in verband met de hersteloperatie toeslagen"
+signed_date: "2022-10-19"
+entry_into_force: "2022-10-19"
 ---
-
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 16 november 2021, 2021-0000180781, tot de verstrekking van een specifieke uitkering aan gemeenten voor compensatie van de kosten die verband houden met het kwijtschelden van publieke schulden binnen het SZW-domein in het kader van de hersteloperatie kinderopvangtoeslagaffaire toeslagen (Regeling specifieke uitkering kwijtschelding schulden SZW in verband met de hersteloperatie toeslagen)
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -30,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 - **toeslagpartner:** persoon, bedoeld in [artikel 3.1, eerste lid, onderdelen b en c, van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=3.1).
 
-#### Artikel 2. Verstrekking van een specifieke uitkering
+##### Artikel 2. Verstrekking van een specifieke uitkering
 
 De Minister verstrekt aan gemeenten een specifieke uitkering ter bekostiging van:
 
@@ -38,19 +64,19 @@ De Minister verstrekt aan gemeenten een specifieke uitkering ter bekostiging van
 
 - b. de kosten die samenhangen met de uitvoering van deze kwijtschelding en restitutie door het college.
 
-#### Artikel 3. Hoogte van de specifieke uitkering
+##### Artikel 3. Hoogte van de specifieke uitkering
 
 1. De hoogte van de uitkeringscomponent, bedoeld in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045861&artikel=2&z=2025-01-01&g=2025-01-01), bedraagt per gemeente honderd procent van de gederfde inkomsten in een begrotingsjaar die het rechtstreekse gevolg zijn van het kwijtschelden of restitueren van de verschuldigde schulden van gedupeerden, nabestaanden, toeslagpartners en ex-partners.
 
 2. Gemeenten ontvangen ter compensatie van de kosten, bedoeld in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045861&artikel=2&z=2025-01-01&g=2025-01-01), een forfaitaire vergoeding van € 275,00 per gedupeerde en ex-partner die woonachtig is in de betreffende gemeente. Per gedupeerde wordt het forfaitaire bedrag, bedoeld in de eerste zin, eenmalig uitgekeerd.
 
-#### Artikel 4. Verantwoording
+##### Artikel 4. Verantwoording
 
 1. Het college legt verantwoording af over de besteding van de specifieke uitkering op de wijze, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
 2. Indien de uitvoering van een wet als genoemd in paragraaf 2 van de bijlage bij deze regeling volledig aan het bestuur van een openbaar lichaam als bedoeld in [artikel 8 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8) is opgedragen kan voor de vaststelling van de gederfde inkomsten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045861&artikel=3&z=2025-01-01&g=2025-01-01), de informatie in aanmerking worden genomen die het openbaar lichaam heeft verantwoord over het jaar waarop de vaststelling betrekking heeft. De eerste zin is slechts van toepassing indien de bedoelde informatie is vastgesteld overeenkomstig [artikel 34a van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=34a).
 
-#### Artikel 5. Procedure tot vaststelling van de uitkering
+##### Artikel 5. Procedure tot vaststelling van de uitkering
 
 1. De Minister stelt de hoogte van de specifieke uitkering per gemeente vast door de uitkeringscomponenten, bedoeld in [artikel 2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045861&artikel=2&z=2025-01-01&g=2025-01-01), bij elkaar op te tellen.
 
@@ -66,15 +92,15 @@ De Minister verstrekt aan gemeenten een specifieke uitkering ter bekostiging van
 
 7. Bij de toepassing van dit artikel wordt uitgegaan van de gegevens waarvan de Minister kennis heeft op 30 september van het jaar volgend op het verantwoordingsjaar, met dien verstande dat gegevens die de gemeente op verzoek van de Minister op een latere datum verstrekt mede in aanmerking worden genomen.
 
-#### Artikel 5a
+##### Artikel 5a
 
 Deze regeling berust op [artikel 7.3 van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=7.3).
 
-#### Artikel 6. Inwerkingtreding
+##### Artikel 6. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 7. Citeertitel
+##### Artikel 7. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering kwijtschelding schulden SZW in verband met de hersteloperatie toeslagen
 

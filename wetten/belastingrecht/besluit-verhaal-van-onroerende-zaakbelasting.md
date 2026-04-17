@@ -1,13 +1,39 @@
 ---
-title: "Besluit verhaal van onroerende-zaakbelasting"
+title: "Besluit van 30 september 1999, houdende nadere regels inzake het verhaal van onroerende-zaakbelasting als bedoeld in artikel 220b, eerste lid, onderdeel b, van de Gemeentewet (Besluit verhaal van onroerende-zaakbelasting)"
 identifier: "BWBR0010748"
-categorie: "Belastingrecht"
-publicatiedatum: 2017-12-09
-laatste_update: 2017-12-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010748"
+country: "nl"
+rank: "amvb"
+publication_date: "2017-12-09"
+last_updated: "2017-12-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010748"
+soort: "AMvB"
+stam_id: "1173223"
+version_id: "1733492"
+internal_id: "C1733491"
+label_id: "1136784"
+dtd_version: "2.0"
+original_entry_into_force: "2000-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010748/2017-12-09/0"
+intitule_bron: "Stb.1999-436"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-09-30"
+intitule_published: "1999-10-26"
+intitule_in_force: "1999-10-26"
+intitule_status: "goed"
+original_publication: "Stb.1999-436"
+original_signed_date: "1999-09-30"
+original_published_date: "1999-10-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-1999-436"
+entry_into_force_date: "2000-01-01"
+jci_1_3: "jci1.3:c:BWBR0010748&z=2017-12-09&g=2017-12-09"
+jci_1_0: "1.0:c:BWBR0010748&g=2017-12-09"
+citeertitel_status: "officieel"
+short_title: "Besluit verhaal van onroerende-zaakbelasting"
+signed_date: "1999-09-30"
+entry_into_force: "2000-01-01"
 ---
-
 # Besluit van 30 september 1999, houdende nadere regels inzake het verhaal van onroerende-zaakbelasting als bedoeld in artikel 220b, eerste lid, onderdeel b, van de Gemeentewet (Besluit verhaal van onroerende-zaakbelasting)
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 16 juli 1999, nr. FO99/U77120;
@@ -20,7 +46,7 @@ Gezien het nader rapport van de Minister van Binnenlandse Zaken en Koninkrijksre
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Verhaal van de onroerende-zaakbelasting, als bedoeld in [artikel 220b, eerste lid, onderdeel a, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=220b) vindt plaats naar evenredigheid van
 
@@ -30,11 +56,11 @@ Hebben goedgevonden en verstaan:
 
 2. Partijen kunnen bij overeenkomst afwijken van het eerste lid.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van 1 januari 2000.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit wordt aangehaald als: Besluit verhaal van onroerende-zaakbelasting.
 

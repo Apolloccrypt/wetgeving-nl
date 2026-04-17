@@ -1,14 +1,41 @@
 ---
-title: "Invoeringswet Invorderingswet 1990"
+title: "Wet van 30 mei 1990, houdende inwerkingtreding van en aanpassing van wetgeving aan de Invorderingswet 1990 (Invoeringswet Invorderingswet 1990)"
 identifier: "BWBR0004771"
-categorie: "Overig"
-publicatiedatum: 1990-06-01
-laatste_update: 1990-06-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004771"
+country: "nl"
+rank: "wet"
+publication_date: "1990-06-01"
+last_updated: "1990-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004771"
+soort: "wet"
+stam_id: "3309773"
+version_id: "5078772"
+internal_id: "C5259161"
+label_id: "3290434"
+dtd_version: "2.0"
+original_entry_into_force: "1990-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004771/1990-06-01/0"
+intitule_bron: "Stb.1990-222"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1990-05-30"
+intitule_published: "1990-05-31"
+intitule_in_force: "1990-05-31"
+intitule_status: "goed"
+original_publication: "Stb.1990-222"
+original_signed_date: "1990-05-30"
+original_published_date: "1990-05-31"
+original_effect: "nieuwe-regeling"
+original_dossier: "21135"
+entry_into_force_date: "1990-06-01"
+entry_into_force_dossier: "21135"
+jci_1_3: "jci1.3:c:BWBR0004771&z=1990-06-01&g=1990-06-01"
+jci_1_0: "1.0:c:BWBR0004771&g=1990-06-01"
+citeertitel_status: "officieel"
+short_title: "Invoeringswet Invorderingswet 1990"
+signed_date: "1990-05-30"
+entry_into_force: "1990-06-01"
 ---
-
-# Invoeringswet Invorderingswet 1990
+# Wet van 30 mei 1990, houdende inwerkingtreding van en aanpassing van wetgeving aan de Invorderingswet 1990 (Invoeringswet Invorderingswet 1990)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,227 +43,227 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is de inwerkingtreding 
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Natuurschoonwet 1928.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Successiewet 1956.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Algemene wet inzake rijksbelastingen.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Algemene wet inzake de douane en de accijnzen.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Wet op de kansspelbelasting.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Wet op de inkomstenbelasting 1964.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Wet op de vermogensbelasting 1964.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Wet op de dividendbelasting 1965.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Wet op de motorrijtuigenbelasting 1966.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt de Wet op de omzetbelasting 1968.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt de Kostenwet invordering rijksbelastingen.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt de Wet op belastingen van rechtsverkeer.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt de Wet wederzijdse bijstand bij de invordering van enkele EEG-heffingen en de omzetbelasting.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt de Wet tijdelijke fiscale maatregelen betreffende auto en milieu na 1988.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Wijzigt de Waterstaatswet 1990.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Wijzigt de Medische Tuchtwet.
 
-#### Artikel XIX
+##### Artikel XIX
 
 Wijzigt de Ambtenarenwet 1929.
 
-#### Artikel XX
+##### Artikel XX
 
 Wijzigt de Wegenwet.
 
-#### Artikel XXI
+##### Artikel XXI
 
 Wijzigt de Gemeentewet.
 
-#### Artikel XXII
+##### Artikel XXII
 
 Wijzigt de Herverkavelingswet Walcheren 1947.
 
-#### Artikel XXIII
+##### Artikel XXIII
 
 Wijzigt de Dienstplichtwet.
 
-#### Artikel XXIV
+##### Artikel XXIV
 
 Wijzigt de Wet betreffende verplichte deelneming in een bedrijfspensioenfonds.
 
-#### Artikel XXV
+##### Artikel XXV
 
 Wijzigt de Wet op de Bedrijfsorganisatie.
 
-#### Artikel XXVI
+##### Artikel XXVI
 
 Wijzigt de Wet buitengewone bevoegdheden burgerlijk gezag.
 
-#### Artikel XXVII
+##### Artikel XXVII
 
 Wijzigt de Landbouwwet.
 
-#### Artikel XXVIII
+##### Artikel XXVIII
 
 Wijzigt de Provinciewet.
 
-#### Artikel XXIX
+##### Artikel XXIX
 
 Wijzigt de Wet op de paramedische beroepen.
 
-#### Artikel XXX
+##### Artikel XXX
 
 Wijzigt de Oorlogswet voor Nederland.
 
-#### Artikel XXXI
+##### Artikel XXXI
 
 Wijzigt de Ontgrondingenwet.
 
-#### Artikel XXXII
+##### Artikel XXXII
 
 Wijzigt de Jeugdspaarwet.
 
-#### Artikel XXXIII
+##### Artikel XXXIII
 
 Wijzigt de Wet sloopregeling binnenvaart.
 
-#### Artikel XXXIV
+##### Artikel XXXIV
 
 Wijzigt de Wet op de dierproeven.
 
-#### Artikel XXXV
+##### Artikel XXXV
 
 Wijzigt de Wet Bezitsvormingsfonds.
 
-#### Artikel XXXVI
+##### Artikel XXXVI
 
 Wijzigt de Reconstructiewet Midden-Delfland.
 
-#### Artikel XXXVII
+##### Artikel XXXVII
 
 Wijzigt de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën.
 
-#### Artikel XXXVIII
+##### Artikel XXXVIII
 
 Wijzigt de Bevoegdhedenwet waterschappen.
 
-#### Artikel XXXIX
+##### Artikel XXXIX
 
 Wijzigt de Wet verontreiniging oppervlaktewateren.
 
-#### Artikel XL
+##### Artikel XL
 
 Wijzigt de Prijzennoodwet.
 
-#### Artikel XLI
+##### Artikel XLI
 
 Wijzigt de Landinrichtingswet.
 
-#### Artikel XLII
+##### Artikel XLII
 
 Wijzigt de Wet van 21 mei 1986, houdende nadere wijziging van enige sociale verzekeringswetten, de Wet betreffende verplichte deelneming in een bedrijfspensioenfonds en enige fiscale wetten in verband met het misbruik van rechtspersonen.
 
-#### Artikel XLIII
+##### Artikel XLIII
 
 Wijzigt de Wet Arbeid Gehandicapte Werknemers.
 
-#### Artikel XLIV
+##### Artikel XLIV
 
 Wijzigt de Ziekenfondswet.
 
-#### Artikel XLV
+##### Artikel XLV
 
 Wijzigt de Meststoffenwet.
 
-#### Artikel XLVI
+##### Artikel XLVI
 
 Wijzigt de Ziektewet.
 
-#### Artikel XLVII
+##### Artikel XLVII
 
 Wijzigt de Wet op de Arbeidsongeschiktheidsverzekering.
 
-#### Artikel XLVIII
+##### Artikel XLVIII
 
 Wijzigt de Werkloosheidswet.
 
-#### Artikel XLIX
+##### Artikel XLIX
 
 Wijzigt de Wet Autovervoer Goederen.
 
-#### Artikel L
+##### Artikel L
 
 Wijzigt de Coördinatiewet Sociale Verzekering.
 
-#### Artikel LI
+##### Artikel LI
 
 Wijzigt de Wet algemene bepalingen milieuhygiëne.
 
-#### Artikel LII
+##### Artikel LII
 
 Wijzigt de In- en uitvoerwet.
 
-#### Artikel LIII
+##### Artikel LIII
 
 Wijzigt de Wet financiering volksverzekering.
 
-#### Artikel LIV
+##### Artikel LIV
 
 Wijzigt de Wet van 29 October 1948 tot goedkeuring van het op 29 April 1948 te Washington tussen Nederland en de Verenigde Staten van Amerika gesloten verdrag ter voorkoming van dubbele belasting en ter vermijding van het ontgaan van belasting met betrekking tot belastingen van inkomsten en bepaalde andere belastingen, benevens het treffen van enige voorzieningen in verband met genoemd verdrag.
 
-#### Artikel LV
+##### Artikel LV
 
 Wijzigt de Wet van 23 oktober 1957, houdende goedkeuring van de op 20 februari 1957 te Kopenhagen tussen het Koninkrijk der Nederlanden en het Koninkrijk Denemarken gesloten Overeenkomst tot het vermijden van dubbele belasting en ter voorkoming van het ontgaan van belasting met betrekking tot belastingen van inkomsten en van vermogen.
 
-#### Artikel LVI
+##### Artikel LVI
 
 De wet van 22 mei 1845 (Stb. 1926, 334) op de invordering van 's Rijks directe belastingen wordt ingetrokken. De bepalingen van die wet blijven van toepassing met betrekking tot:
 
@@ -244,7 +271,7 @@ De wet van 22 mei 1845 (Stb. 1926, 334) op de invordering van 's Rijks directe b
 
 - b. een verzetsprocedure die is aangespannen op de voet van artikel 15 van die wet.
 
-#### Artikel LVII
+##### Artikel LVII
 
 1. De [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) en deze wet treden in werking met ingang van 1 juni 1990, met uitzondering van artikel LXII van deze wet dat in werking treedt met ingang van de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 
@@ -268,7 +295,7 @@ De wet van 22 mei 1845 (Stb. 1926, 334) op de invordering van 's Rijks directe b
 
 6. Met betrekking tot een aanslag in de inkomstenbelasting waarmee een teruggaaf voetoverheveling is verrekend, geldt voor de invordering als aanslag de aanslag omschreven in artikel 62b, vierde lid, van de Wet op de inkomstenbelasting 1964 (Stb. 521) zoals dat luidde op 31 december 1989.
 
-#### Artikel LVIII
+##### Artikel LVIII
 
 1. Met betrekking tot de door de rijksbelastingdienst ingevorderde belastingaanslagen die zijn vastgesteld vóór de dag van de inwerkingtreding van de Wet van 26 maart 1987 (Stb. 120) tot berekening van rente inzake belastingen en premies volksverzekeringen blijft artikel 17, tweede lid, van de wet van 22 mei 1845 (Stb. 1926, 334) op de invordering van 's Rijks directe belastingen, zoals dat lid luidde vóór de inwerkingtreding van de eerstgenoemde wet, van toepassing en blijft [hoofdstuk V van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=V) buiten toepassing.
 
@@ -282,7 +309,7 @@ De wet van 22 mei 1845 (Stb. 1926, 334) op de invordering van 's Rijks directe b
 
 4. Met betrekking tot gemeentelijke belastingen en waterschapsbelastingen vindt [hoofdstuk V van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=V) inzake de berekening van invorderingsrente eerst toepassing met ingang van 1 januari 1997, met dien verstande dat wel invorderingsrente in rekening wordt gebracht in de gevallen waarin op de voet van [artikel 25 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) uitstel van betaling is verleend. De invorderingsrente wordt berekend vanaf de dag na de vervaldag van de voor de belastingaanslag geldende enige of laatste betalingstermijn tot aan de dag van de betaling. Het percentage van de invorderingsrente is gelijk aan dat van de wettelijke rente. In de belastingverordening kan worden bepaald dat [hoofdstuk V van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&hoofdstuk=V) op een eerder tijdstip dan 1 januari 1997 toepassing vindt.
 
-#### Artikel LIX
+##### Artikel LIX
 
 1. In dit artikel wordt:
 
@@ -304,27 +331,27 @@ De wet van 22 mei 1845 (Stb. 1926, 334) op de invordering van 's Rijks directe b
 
 4. Vóór 1 juni 1990 aan de ontvanger betekende rechtsgeldige overdrachten onder bijzondere titel van vorderingen ter zake van beschikkingen die een uit te betalen bedrag behelzen, voor zover dat bedrag betrekking heeft op omstandigheden die zich hebben voorgedaan vóór 1 juni 1990, worden geacht de in artikel 156a van de AWDA bedoelde instemming van de ontvanger te hebben verkregen, tenzij met betrekking tot die vorderingen schuldvergelijking op de voet van artikel 1467, tweede lid, van het Burgerlijk Wetboek ook na 31 mei 1990 mogelijk zou zijn, indien het genoemde artikel 156a niet van toepassing zou zijn.
 
-#### Artikel LX
+##### Artikel LX
 
 Ingeval vóór 1 juni 1990 een verzetsprocedure is aangespannen op de voet van [artikel 15a van de Coördinatiewet Sociale Verzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002126&artikel=15a), blijven met betrekking tot die verzetsprocedure de bepalingen van toepassing zoals die luidden op 31 mei 1990.
 
-#### Artikel LXI
+##### Artikel LXI
 
 Bij ministeriële regeling kunnen ter zake van belastingaanslagen en andere schuldvorderingen die zijn ontstaan vóór 1 juni 1990 nadere regels worden gesteld met betrekking tot de uitvoering van de [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) en de regelingen ingevolge deze wet.
 
-#### Artikel LXII
+##### Artikel LXII
 
 Waar in deze wet de [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) is aangehaald als Invorderingswet 1990 met vermelding van het Staatsblad waarin die wet is geplaatst, wordt bij plaatsing van deze wet in het Staatsblad na "Stb. ..." ingevoegd het nummer van het Staatsblad waarin de [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) wordt geplaatst.
 
-#### Artikel LXIII
+##### Artikel LXIII
 
 Wijzigt de Invorderingswet 1990.
 
-#### Artikel LXIV
+##### Artikel LXIV
 
 Wijzigt de Invorderingswet 1990 en deze wet.
 
-#### Artikel LXV
+##### Artikel LXV
 
 Deze wet kan worden aangehaald als: Invoeringswet Invorderingswet 1990.
 

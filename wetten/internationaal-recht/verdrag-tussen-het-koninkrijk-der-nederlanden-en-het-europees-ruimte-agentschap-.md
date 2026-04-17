@@ -1,13 +1,38 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Europees Ruimte Agentschap inzake het Europees Centrum voor onderzoek en technologie-ontwikkeling op ruimtevaartgebied"
 identifier: "BWBV0003016"
-categorie: "Internationaal recht"
-publicatiedatum: 2008-02-21
-laatste_update: 2008-02-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003016"
+country: "nl"
+rank: "verdrag"
+publication_date: "2008-02-21"
+last_updated: "2008-02-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003016"
+soort: "verdrag"
+stam_id: "10003292723"
+version_id: "10003317682"
+internal_id: "C10008430171"
+label_id: "10003278694"
+dtd_version: "2.0"
+original_entry_into_force: "2008-02-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003016/2008-02-21/0"
+intitule_bron: "Trb.2008-33"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-02-21"
+intitule_published: "2008-03-04"
+intitule_in_force: "2008-03-04"
+intitule_status: "goed"
+original_publication: "Trb.2008-33"
+original_signed_date: "2008-02-21"
+original_published_date: "2008-03-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2008-33"
+entry_into_force_date: "2008-02-21"
+jci_1_3: "jci1.3:c:BWBV0003016&z=2008-02-21&g=2008-02-21"
+jci_1_0: "1.0:c:BWBV0003016&g=2008-02-21"
+citeertitel_status: "redactioneel"
+signed_date: "2008-02-21"
+entry_into_force: "2008-02-21"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en het Europees Ruimte Agentschap inzake het Europees Centrum voor onderzoek en technologie-ontwikkeling op ruimtevaartgebied
 
 The Kingdom of the Netherlands,
@@ -28,7 +53,7 @@ Having regard in particular to [Article XV.3 of the Convention for the establish
 
 Have agreed as follows:
 
-#### Article 1. Definitions
+##### Article 1. Definitions
 
 For the purposes of this Agreement:
 
@@ -58,11 +83,11 @@ For the purposes of this Agreement:
 
 - m). “Members of the family forming part of a staff member’s household” has the meaning specified in Article 11 of this Agreement.
 
-#### Article 2. Application of [Annex I to the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003813&bijlage=I)
+##### Article 2. Application of [Annex I to the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003813&bijlage=I)
 
 For the pursuit of its official activities within the territory of the Netherlands, the Agency shall enjoy the privileges and immunities defined in [Annex I to the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003813&bijlage=I) and in any relevant complementary agreement in force between the Government and the Agency in accordance with the provisions for its implementation, set out in this Agreement. This Agreement shall not detract from Annex I to the Convention.
 
-#### Article 3. Rights incidental to use of the site
+##### Article 3. Rights incidental to use of the site
 
 1. The Agency shall have the right to build, within the bounds of the site, such installations as it deems necessary for carrying out its activities. Unless otherwise agreed, it shall have exclusive ownership of such installations.
 
@@ -72,11 +97,11 @@ For the pursuit of its official activities within the territory of the Netherlan
 
 4. As soon as a planned change in use or in the scale of activities undertaken at ESTEC results in the identification of requirements for expansion of the site or of the buildings thereon, the Agency shall consult with the Government through the Consultative Committee, referred to in Article 25. The Government shall make every effort to accommodate such requirements on terms which are not less favourable than those applicable to the site under this Agreement.
 
-#### Article 4. Permits
+##### Article 4. Permits
 
 The Government undertakes to issue in a timely fashion the necessary permits for the buildings and installations the Agency requires for its operation and their expansion as provided for in Article 3. Charges for permits shall be proportional to the service rendered.
 
-#### Article 5. Communications
+##### Article 5. Communications
 
 1. The Agency shall have the right to install and to operate telecommunications systems on the site. The Government shall arrange for the necessary authorisations to be issued in good time to the Agency for the installation and operation of fixed and mobile antennas and other equipment related to satellite communications and ensure that the Agency is able to make use of the radio frequencies it requires for its operations. Those frequencies shall be chosen by the Agency in agreement with the competent authorities of the Netherlands and in accordance with the rules of the International Telecommunications Union. The competent authorities of the Netherlands shall be responsible for taking any necessary national or international steps.
 
@@ -86,27 +111,27 @@ In accordance with the rules of the International Telecommunications Union, the 
 
 2. The Agency shall be consulted if any new air traffic route passing over the site is proposed.
 
-#### Article 6. Inviolability of the premises
+##### Article 6. Inviolability of the premises
 
 1. Any person authorised to enter any place under any legal provision shall not exercise that authority in respect of the premises of the Agency unless permission to do so has been given by or on behalf of the Director General of the Agency or the Head of ESTEC acting on his behalf. Such permission may, however, be presumed in the event of fire or other emergencies requiring prompt protective action. Any person who has entered the premises with the presumed permission of the Director General of the Agency or the Head of ESTEC acting on his behalf shall, if so requested by the Director General of the Agency or the Head of ESTEC acting on his behalf, leave the premises immediately.
 
 2. In other cases, the Director General of the Agency or the Head of ESTEC acting on his behalf shall give serious consideration to a request for permission from the authorities of the Netherlands to enter the premises without prejudice to the interests of the Agency.
 
-#### Article 7. Inviolability of the archives
+##### Article 7. Inviolability of the archives
 
 The inviolability of the archives referred to in [Article III of Annex I to the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003813&artikel=III) shall apply to the entire archives, correspondence, documents, manuscripts, photographs, films, recordings, computer and media data, data carriers and any other similar material belonging to or held by the Agency, wherever they are located and by whomsoever they are held, and all the information contained therein.
 
-#### Article 8. Applicable law
+##### Article 8. Applicable law
 
 Without prejudice to the provisions of the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003813) and [Annex I thereto](https://wetten.overheid.nl/jci1.3:c:BWBV0003813&bijlage=I) and to any relevant complementary agreement between the Government and the Agency, the laws of the Netherlands shall apply within the premises and to the activities of the Agency carried out on the territory of the Netherlands.
 
-#### Article 9. Liability for injury or damage
+##### Article 9. Liability for injury or damage
 
 1. The Agency shall be liable for any injury or damage resulting from activities, on the territory of the Netherlands, of the Agency, its staff or its experts, acting or failing to act within the limits of their functions. Without prejudice to the provisions of [Annex I to the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003813&bijlage=I) such liability shall be governed by the laws of the Netherlands and be without prejudice to any rights of recourse contracted by the Agency.
 
 2. The Agency shall hold the Government harmless from any obligation arising out of a claim made against the Government at the request of a third party, as a consequence of the activities mentioned in paragraph 1 of this Article.
 
-#### Article 10. Exemption from taxes and duties
+##### Article 10. Exemption from taxes and duties
 
 1. For the purposes of [Article V.1 of Annex I to the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003813&artikel=V), “direct taxes” shall embrace all direct State taxes (**Rijksbelastingen**) and all direct taxes, dues and levies imposed by a province, municipality or district water board (**waterschap**) without prejudice to the provisions of[Article VII.3 of Annex I to the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003813&artikel=VII).
 
@@ -144,7 +169,7 @@ This Article shall not apply to taxes and duties that are no more than charges f
 
 5. Goods acquired or imported under the terms set out in paragraph 3 of this Article shall not be sold, let, given away or otherwise disposed of, except in accordance with the conditions agreed upon with the Government.
 
-#### Article 11. Members of the Family
+##### Article 11. Members of the Family
 
 1. For the purposes of the Agreement between the Netherlands and the Agency, the following persons shall be recognised as members of the family forming part of a staff member’s household:
 
@@ -166,7 +191,7 @@ This Article shall not apply to taxes and duties that are no more than charges f
 
 2. Children of a staff member, of his spouse or of his registered partner who are between 18 and 24 years of age shall also be recognised as members of the family forming part of the household if they do not fulfil the condition set out in paragraph 1, subparagraph c), item iii) of this Article, as long as they fulfil the other conditions set out in that subparagraph.
 
-#### Article 12. Work permit, residence permit, compulsory registration
+##### Article 12. Work permit, residence permit, compulsory registration
 
 1. Staff members:
 
@@ -180,7 +205,7 @@ This Article shall not apply to taxes and duties that are no more than charges f
 
 3. The rights granted to staff members during their period of employment and to the members of their family forming part of their household shall expire on the staff member’s final departure or on expiry of a reasonable period as referred to in [Article 39, paragraphs 2 and 3, of the Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345&artikel=39), such period being counted from the date on which the staff member relinquishes his duties or the family members cease to form part of their household.
 
-#### Article 13. Identity cards
+##### Article 13. Identity cards
 
 1. The Agency shall promptly notify the Government of: the names of staff members and the dates on which they take up and relinquish their duties; their arrival and final departure; the names and arrival and final departure of members of the family forming part of a staff member’s household and the fact that a person has ceased to form part of the household and; the names and arrival and final departure of domestic and private servants of staff members and the fact that they have left the employment of a staff member.
 
@@ -202,7 +227,7 @@ This Article shall not apply to taxes and duties that are no more than charges f
 
 7. The Agency shall promptly return the identity cards of the persons mentioned in paragraph 2 of this Article after termination of employment of the staff member concerned, with due regard to the reasonable period stipulated in Article 12, paragraph 3 of this Agreement. The same shall apply to the identity cards of the persons mentioned in paragraph 2, subparagraph c of this Article after termination of their employment with a staff member.
 
-#### Article 14. Director General and Head of ESTEC
+##### Article 14. Director General and Head of ESTEC
 
 1. The Director General of the Agency shall, when visiting the Netherlands, enjoy the same privileges and immunities as the Netherlands accords to heads of diplomatic missions in the Netherlands in accordance with the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345).
 
@@ -210,7 +235,7 @@ This Article shall not apply to taxes and duties that are no more than charges f
 
 3. The same provisions shall apply to the members of their families forming part of their respective households.
 
-#### Article 15. Privileges and immunities of staff members
+##### Article 15. Privileges and immunities of staff members
 
 1. Staff members, having the professional grade of A4/10 and above shall enjoy the same privileges and immunities as the Netherlands grants to diplomatic agents of the diplomatic missions established in the Netherlands, in accordance with the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345), except that immunity from jurisdiction and personal inviolability shall not extend to acts performed outside the course of their official functions.
 
@@ -222,19 +247,19 @@ This Article shall not apply to taxes and duties that are no more than charges f
 
 5. Immunity from jurisdiction shall not apply in the case of a motor traffic offence committed by a staff member nor in the case of damage caused by a motor vehicle belonging to or driven by a staff member.
 
-#### Article 16. Servants
+##### Article 16. Servants
 
 1. For the duration of their employment with the Agency in the Netherlands, staff members shall be allowed to employ domestic servants or, where applicable, private servants.
 
 2. The domestic or private servants referred to in paragraph 1 of this Article shall be required to hold neither a work permit nor a residence permit.
 
-#### Article 17. Experts
+##### Article 17. Experts
 
 1. The Government recognises the importance of the presence at ESTEC of experts, and therefore undertakes to use its best efforts to facilitate their unimpeded entry into and departure from the Netherlands, and to provide, upon request, administrative assistance in connection with their stay in the Netherlands (including, where necessary, the provision of work and/or residence permits).
 
 2. Paragraph 1 of this Article shall also apply to the members of their families forming part of their respective households.
 
-#### Article 18. Nationals, Permanent Residents and Staff on short-term contracts
+##### Article 18. Nationals, Permanent Residents and Staff on short-term contracts
 
 1. Articles 14 to 17 shall not apply to nationals and permanent residents of the Netherlands and staff members having an initial contract of less than two years, for the duration of that contract and without prejudice to privileges and immunities that subsequently may be enjoyed. They shall only enjoy immunity from jurisdiction, and inviolability, in respect of official acts performed in the exercise of their functions.
 
@@ -242,11 +267,11 @@ This Article shall not apply to taxes and duties that are no more than charges f
 
 3. Nationals or permanent residents covered by [Article XV](https://wetten.overheid.nl/jci1.3:c:BWBV0003813&artikel=XV) or [XVI of Annex I to the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003813&artikel=XVI) shall have the right specified under g) of Article XVI.
 
-#### Article 19. Use of privileges and immunities
+##### Article 19. Use of privileges and immunities
 
 The privileges and immunities granted under the provisions of this Agreement are conferred in the interests of the Agency and not for the personal benefit of the individuals themselves. It is the duty of the Agency and all persons enjoying such privileges and immunities to observe the laws and regulations of the Netherlands.
 
-#### Article 20. Entry, stay and departure
+##### Article 20. Entry, stay and departure
 
 1. The Government shall facilitate the entry, stay and departure of the persons listed below:
 
@@ -264,29 +289,29 @@ The privileges and immunities granted under the provisions of this Agreement are
 
 4. The provisions under paragraphs 1 to 3 of this Article shall not preclude a request for presentation of reasonable evidence to establish that persons claiming the treatment provided for in these paragraphs fall within the categories described in paragraph 1 of this Article.
 
-#### Article 21. Social security
+##### Article 21. Social security
 
 As long as the Agency has its own social security system or adheres to a social security system offering comparable coverage to the coverage under the legislation of the Netherlands, the Agency and its staff members shall be exempt from social security provisions in the Netherlands, except if a staff member takes up gainful employment in the Netherlands other than employment with the Agency.
 
-#### Article 22. Progression
+##### Article 22. Progression
 
 The Government shall not take into account any of the salaries and emoluments paid by the Agency which are exempt from national income tax pursuant to [Article XVIII of Annex I to the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003813&artikel=XVIII) when assessing the amount of tax to be applied to income from other sources.
 
-#### Article 23. Driving licence
+##### Article 23. Driving licence
 
 During their period of employment, staff members, experts and the members of their family forming part of their household, and their domestic or private servants shall be allowed to obtain a Dutch driving licence on presentation of their valid foreign driving licence or to continue to drive using their own valid foreign driving licence, provided the holder is in possession of an identity card issued by the Government.
 
-#### Article 24. Most favourable treatment
+##### Article 24. Most favourable treatment
 
 If and to the extent that the Government, in the future, enters into an agreement with, or changes its policy with respect to any intergovernmental organisation, and said agreement or policy contains terms or conditions more favourable to that organisation than comparable terms or conditions in this Agreement, consultations shall be entered into at the request of the Agency with a view to discussing whether the same treatment may be extended to the Agency.
 
-#### Article 25. Joint Consultative Committee
+##### Article 25. Joint Consultative Committee
 
 1. The Joint Consultative Committee shall facilitate the implementation of this Agreement through consultation between the relevant authorities of the Netherlands and the Agency and shall meet as frequently as necessary for that purpose. The Chairman of the Committee shall be appointed by the Government.
 
 2. The Government recognises that certain services, amenities and support are required for the proper and efficient operation of ESTEC. The Government shall make every effort to assist the Agency in establishing and maintaining the proper functioning of the Agency’s facilities in the Netherlands.
 
-#### Article 26. Entry into force and duration
+##### Article 26. Entry into force and duration
 
 1. This Agreement shall enter into force upon signature.
 
@@ -294,19 +319,19 @@ If and to the extent that the Government, in the future, enters into an agreemen
 
 3. With respect to the Kingdom of the Netherlands this Agreement shall apply to the part of the Kingdom in Europe only.
 
-#### Article 27. Amendments
+##### Article 27. Amendments
 
 1. At the request of either Party, this Agreement may be amended by mutual consent at any time.
 
 2. Any such amendment may be effected by an exchange of notes.
 
-#### Article 28. Denunciation
+##### Article 28. Denunciation
 
 1. Either Party may terminate this Agreement by giving three years’ notice which shall start to run from the first day of January of the year following the year in which such notice is given.
 
 2. The Netherlands shall have the right to denounce this Agreement if the site referred to in paragraph i) of Article 1 of this Agreement is either not being used for the Agency’s purposes as described in the Convention or will evidently no longer be used at all. In such case, this Agreement shall terminate one year after the date on which the Netherlands gives notice of denunciation to the Agency.
 
-#### Article 29. Termination
+##### Article 29. Termination
 
 1. In the event of the Netherlands denouncing the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003813) in accordance with paragraph 1 of Article XXIV of the Convention, this Agreement shall terminate on the date on which the denunciation takes effect.
 
@@ -314,15 +339,15 @@ If and to the extent that the Government, in the future, enters into an agreemen
 
 3. Pending the outcome of those negotiations the provisions of this Agreement shall remain applicable.
 
-#### Article 30. Dissolution
+##### Article 30. Dissolution
 
 This Agreement shall terminate on the dissolution of the Agency under the conditions set out in [Article XXV of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003813&artikel=XXV).
 
-#### Article 31. Consultations
+##### Article 31. Consultations
 
 The Parties shall use their best endeavours to overcome any difficulties arising with regard to the interpretation and implementation of this Agreement through early and full consultations.
 
-#### Article 32. Arbitration
+##### Article 32. Arbitration
 
 Any dispute arising out of the interpretation or application of this Agreement that cannot be settled between the Parties in any other way shall be submitted to arbitration at the request of either Party for resolution in accordance with [paragraphs 2 to 6 of Article XVII of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003813&artikel=XVII) and such additional rules as may have been promulgated under the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003813) at the time of submission. If either Party intends to submit a dispute to arbitration, it shall notify the other Party.
 

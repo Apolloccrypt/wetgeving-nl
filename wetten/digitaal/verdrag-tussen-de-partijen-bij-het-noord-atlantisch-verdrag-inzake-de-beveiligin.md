@@ -1,13 +1,37 @@
 ---
 title: "Verdrag tussen de Partijen bij het Noord-Atlantisch Verdrag inzake de beveiliging van gegevens"
 identifier: "BWBV0001372"
-categorie: "Digitaal en privacy"
-publicatiedatum: 1999-03-26
-laatste_update: 1999-03-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001372"
+country: "nl"
+rank: "verdrag"
+publication_date: "1999-03-26"
+last_updated: "1999-03-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001372"
+soort: "verdrag"
+stam_id: "10000011313"
+version_id: "10000015412"
+internal_id: "C10006989291"
+label_id: "10000011524"
+original_entry_into_force: "1999-03-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001372/1999-03-26/0"
+intitule_bron: "Trb.1998-187"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-02-24"
+intitule_published: "1998-07-23"
+intitule_in_force: "1999-03-26"
+intitule_status: "goed"
+original_publication: "Trb.1998-187"
+original_signed_date: "1999-02-24"
+original_published_date: "1998-07-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1998-187"
+entry_into_force_date: "1999-03-26"
+jci_1_3: "jci1.3:c:BWBV0001372&z=1999-03-26&g=1999-03-26"
+jci_1_0: "1.0:c:BWBV0001372&g=1999-03-26"
+citeertitel_status: "officieel"
+signed_date: "1999-02-24"
+entry_into_force: "1999-03-26"
 ---
-
 # Verdrag tussen de Partijen bij het Noord-Atlantisch Verdrag inzake de beveiliging van gegevens
 
 De Partijen bij het [Noord-Atlantisch Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005760), ondertekend te Washington op 4 april 1949;
@@ -20,7 +44,7 @@ Zich ervan bewust dat een algemeen kader voor beveiligingsnormen en -procedures 
 
 Handelend namens zichzelf en namens de Noord-Atlantische Verdragsorganisatie, zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 De Partijen:
 
@@ -36,11 +60,11 @@ De Partijen:
 
 - iv. stellen de onder i bedoelde gegevens niet ter beschikking aan niet-NAVO-Partijen zonder toestemming van de opsteller of verstrekker.
 
-#### Artikel 2
+##### Artikel 2
 
 Overeenkomstig het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001372&artikel=1&z=1999-03-26&g=1999-03-26) van dit Verdrag gestelde dragen de Partijen zorg voor de oprichting van een Nationale beveiligingsautoriteit voor NAVO-activiteiten, die beschermende beveiligingsmaatregelen implementeert. De Partijen zullen beveiligingsnormen die een gelijkwaardig beschermingsniveau voor gerubriceerde gegevens waarborgen, opstellen en implementeren.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De Partijen dragen er zorg voor dat alle personen die de nationaliteit van hun respectieve landen bezitten en die voor de uitoefening van hun officiële werkzaamheden toegang hebben of moeten hebben tot gegevens die zijn gerubriceerd als CONFIDENTIEEL of hoger, vóór de uitvoering van hun werkzaamheden naar behoren zijn onderworpen aan een veiligheidsonderzoek.
 
@@ -48,15 +72,15 @@ Overeenkomstig het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV000137
 
 3. Op verzoek werkt elk der Partijen samen met de andere Partijen bij de uitvoering van hun respectieve veiligheidsonderzoeken.
 
-#### Artikel 4
+##### Artikel 4
 
 De Secretaris-Generaal draagt er zorg voor dat de relevante bepalingen van dit Verdrag door de NAVO worden toegepast ([zie Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001372&bijlage=III&z=1999-03-26&g=1999-03-26)).
 
-#### Artikel 5
+##### Artikel 5
 
 Dit Verdrag vormt geen belemmering voor de Partijen om andere verdragen betreffende de uitwisseling van door hen opgestelde of verstrekte gerubriceerde gegevens te sluiten, mits deze de reikwijdte van dit Verdrag niet aantasten.
 
-#### Artikel 6
+##### Artikel 6
 
 a. Dit Verdrag staat open voor ondertekening door de Partijen bij het [Noord-Atlantisch Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005760) en dient te worden bekrachtigd, aanvaard of goedgekeurd. De akten van bekrachtiging, aanvaarding of goedkeuring dienen te worden nedergelegd bij de Regering van de Verenigde Staten van Amerika;
 
@@ -64,15 +88,15 @@ b. Dit Verdrag treedt in werking dertig dagen na de datum waarop twee onderteken
 
 c. Ten aanzien van de Partijen voor welke dit Verdrag in werking is getreden, vervangt dit Verdrag de „Security Agreement by the Parties to the North Atlantic Treaty Organization”, die op 19 april 1952 door de Noord-Atlantische Raad is goedgekeurd in Bijlage A (eerste lid) van het Aanhangsel bij de Toevoeging bij D.C. 2/7, en vervolgens is opgenomen in Toevoeging „A” (eerste lid) bij C-M(55)15(Definitief), die op 2 maart 1955 door de Noord-Atlantische Raad is goedgekeurd.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit Verdrag blijft open voor toetreding door elke nieuwe Partij bij het [Noord-Atlantisch Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005760), in overeenstemming met haar eigen constitutionele procedures. Haar akte van toetreding wordt nedergelegd bij de Regering van de Verenigde Staten van Amerika. Het Verdrag treedt ten aanzien van elke toetredende Staat in werking dertig dagen na de datum van nederlegging van zijn akte van toetreding.
 
-#### Artikel 8
+##### Artikel 8
 
 De Regering van de Verenigde Staten van Amerika stelt de Regeringen van de andere Partijen in kennis van de nederlegging van elke akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit Verdrag kan worden opgezegd door middel van schriftelijke kennisgeving van opzegging door elk der Partijen aan de depositaris, die de andere Partijen van deze opzegging in kennis stelt. De opzegging wordt van kracht een jaar na de ontvangst van de kennisgeving door de depositaris, maar doet geen afbreuk aan reeds aangegane verplichtingen en de door de Partijen krachtens de bepalingen van dit Verdrag reeds verworven rechten of prerogatieven.
 

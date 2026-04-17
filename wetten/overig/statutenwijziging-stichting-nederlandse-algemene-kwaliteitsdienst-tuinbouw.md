@@ -1,26 +1,48 @@
 ---
 title: "Statutenwijziging Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw"
 identifier: "BWBR0052315"
-categorie: "Overig"
-publicatiedatum: 2026-02-20
-laatste_update: 2026-02-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052315"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-02-20"
+last_updated: "2026-02-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052315"
+soort: "zbo"
+stam_id: "17762833"
+version_id: "31388012"
+internal_id: "C44855041"
+label_id: "17661024"
+dtd_version: "2.0"
+original_entry_into_force: "2026-02-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052315/2026-02-20/0"
+intitule_bron: "Stcrt.2026-7253"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2026-02-20"
+intitule_in_force: "2026-02-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-7253"
+original_published_date: "2026-02-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-7253"
+entry_into_force_date: "2026-02-20"
+jci_1_3: "jci1.3:c:BWBR0052315&z=2026-02-20&g=2026-02-20"
+jci_1_0: "1.0:c:BWBR0052315&g=2026-02-20"
+citeertitel_status: "redactioneel"
+entry_into_force: "2026-02-20"
 ---
-
 # Statutenwijziging Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw
 
 **Naktuinbouw**
 
 ### Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 De Stichting draagt de naam:
 
 “**Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw**”, bij afkorting Naktuinbouw; zij is gevestigd te Roelofarendsveen (gemeente Kaag en Braassem).
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Statuten en Reglementen van de Stichting nemen over de terminologie van de [Zaaizaad- en Plantgoedwet 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018040) en de [Plantgezondheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043194) met de daarop gebaseerde uitvoeringsvoorschriften, tenzij anders bepaald.
 
@@ -28,7 +50,7 @@ De Stichting draagt de naam:
 
 ### Doel en middelen
 
-#### Artikel 3
+##### Artikel 3
 
 De Stichting stelt zich ten doel:
 
@@ -40,7 +62,7 @@ De Stichting stelt zich ten doel:
 
 - 4. rassenregistratie- en kwekersrechtonderzoek te verrichten in cultuurgewassen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De Stichting verricht uitsluitend werkzaamheden van openbaar belang en streeft haar doelstelling na met onder meer de navolgende middelen:
 
@@ -114,7 +136,7 @@ De Stichting stelt zich ten doel:
 
 ### Het Bestuur van de Stichting
 
-#### Artikel 5
+##### Artikel 5
 
 1. Alle bevoegdheden, voor zover niet uitdrukkelijk aan andere organen opgedragen, komen toe aan het Bestuur.
 
@@ -132,7 +154,7 @@ De Stichting stelt zich ten doel:
 
 6. Het Bestuur wordt bijgestaan door een secretaris, wiens taak nader wordt geregeld in het Huishoudelijk Reglement en het Bestuursreglement.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het Bestuur benoemt en ontslaat de voorzitter. De benoeming en het ontslag behoeven de voorafgaande goedkeuring van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur. De benoeming vindt plaats voor een periode van vijf jaren. De voorzitter is na zijn aftreden eenmaal herbenoembaar voor een periode van ten hoogste vijf jaren.
 
@@ -152,7 +174,7 @@ De Stichting stelt zich ten doel:
 
 9. Een bestuurslid dat een direct of indirect persoonlijk belang heeft dat tegenstrijdig is met het belang van Naktuinbouw, geeft daarvan kennis aan het Bestuur zodra beraadslaging of de besluitvorming daarover worden geagendeerd. Een bestuurslid neemt niet deel aan de beraadslaging en de besluitvorming als hij daarbij een direct of indirect persoonlijk belang heeft dat strijdig is met het belang van Naktuinbouw of met het openbaar belang als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052315&artikel=4&z=2026-02-20&g=2026-02-20) van deze Statuten.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het bestuurslidmaatschap eindigt door:
 
@@ -182,17 +204,17 @@ De Stichting stelt zich ten doel:
 
 6. Bij belet en/of ontstentenis van alle bestuursleden, als bedoeld in [artikel 2:291 vijfde lid Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=291), is de directie bevoegd tot het verrichten van bestuursdaden. Zij betrekt daarbij steeds de sectorraden die van het belet en/of de ontstentenis van alle bestuursleden onverwijld op de hoogte worden gesteld. Voor wat deze bestuursdaden betreft wordt de directeur in dat geval met een bestuurder gelijkgesteld. Ook meldt de directie de ontstentenis van alle bestuursleden onverwijld aan de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur en wendt zich tot de competente rechtbank met het verzoek om op de kortst mogelijke termijn één of meerdere bestuurders te benoemen als bedoeld in [artikel 2:299 Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=299). De door de directie te verrichten bestuursdaden kunnen slechts worden verricht tot aan de datum van uitspraak van de rechtbank.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het Bestuur en bovendien de voorzitter dan wel de ondervoorzitter tezamen met een ander bestuurslid vertegenwoordigt/vertegenwoordigen de Stichting.
 
 2. Het Bestuur kan besluiten deze vertegenwoordigingsbevoegdheid in een omvang als daarbij aangegeven al dan niet tijdelijk over te dragen aan de directie dan wel aan de secretaris of aan de secretaris met de directie gezamenlijk. Deze personen worden daartoe dan schriftelijk gemachtigd door de in lid 1 van dit artikel genoemde bestuursleden.
 
-#### Artikel 9
+##### Artikel 9
 
 Een aankoop, vervreemding en bezwaring van een onroerende zaak, en ook het aangaan van een verbintenis, waarmede zijdens de Stichting een prestatie gemoeid is van een bedrag, dat € 150.000,– te boven gaat, zal slechts kunnen plaatshebben met instemming van het Bestuur.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De bestuursleden zijn allen natuurlijke personen. Met inachtneming van [artikel 4 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052315&artikel=4&z=2026-02-20&g=2026-02-20) van deze Statuten stemmen zij zonder last en ruggespraak; zij zijn met name niet gebonden aan het inzicht of enige opdracht van een representatieve vakorganisatie of van de sectorraad die hen voor benoeming in het Bestuur heeft voorgedragen.
 
@@ -208,7 +230,7 @@ Een aankoop, vervreemding en bezwaring van een onroerende zaak, en ook het aanga
 
 ### Sectoren
 
-#### Artikel 11
+##### Artikel 11
 
 1. De Stichting heeft de volgende sectoren:
 
@@ -222,7 +244,7 @@ Een aankoop, vervreemding en bezwaring van een onroerende zaak, en ook het aanga
 
 ### Sectorraden
 
-#### Artikel 12
+##### Artikel 12
 
 1. Een cultuurgewas (of een groep van cultuurgewassen) dat in de keuring betrokken is, zal het Bestuur naar gelang de aard van het gewas of de groep van gewassen onderbrengen in één van de sectoren bloemisterijgewassen, boomkwekerijgewassen of groentegewassen.
 
@@ -240,7 +262,7 @@ Een aankoop, vervreemding en bezwaring van een onroerende zaak, en ook het aanga
 
 ### Adviescommissies
 
-#### Artikel 13
+##### Artikel 13
 
 1. De directie kan, als zij dit wenselijk acht, een adviescommissie instellen voor een bepaald gewas, een groep van gewassen, een technische aangelegenheid of een activiteit welke Naktuinbouw verricht binnen kaders van openbaar belang, ter advisering van directie of management.
 
@@ -250,7 +272,7 @@ Een aankoop, vervreemding en bezwaring van een onroerende zaak, en ook het aanga
 
 ### Directie
 
-#### Artikel 14
+##### Artikel 14
 
 1. De dagelijkse leiding van de Stichting berust bij de directie, bestaande uit één of meer personen.
 
@@ -262,7 +284,7 @@ Een aankoop, vervreemding en bezwaring van een onroerende zaak, en ook het aanga
 
 ### Geldmiddelen
 
-#### Artikel 15
+##### Artikel 15
 
 1. De inkomsten van de Stichting bestaan uit:
 
@@ -282,17 +304,17 @@ Een aankoop, vervreemding en bezwaring van een onroerende zaak, en ook het aanga
 
 4. Ter zake van de geldelijke verplichtingen, de wijze van betalen en de inning van gelden als bedoeld in lid 1, onderdeel d. kan het Bestuur nadere voorschriften geven.
 
-#### Artikel 16
+##### Artikel 16
 
 Het boekjaar loopt van één januari tot en met éénendertig december.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De Stichting zet zich in voor de beheersing en de kwaliteit van de door haar te verrichten processen, in het bijzonder die over keuringen en inspecties, (laboratorium)onderzoek en rassenregistratie- en kwekersrechtonderzoek, met name op aspecten van deskundigheid en onafhankelijkheid. Het Bestuur kan besluiten deze processen en werkwijzen te onderwerpen aan toetsingen naar (inter)nationaal erkende normen door onafhankelijke bureaus.
 
 2. De Stichting beoogt niet het behalen van winst. Haar inkomsten strekken tot bestrijding der uitgaven. Van eventuele overschotten worden door het Bestuur fondsen en reserves gevormd, welke, behalve voor het dekken van eventuele tekorten van een boekjaar, dienstbaar zullen worden gemaakt aan de bevordering van het doel van de Stichting, overeenkomstig de besluiten van het Bestuur.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Telkenjare wordt door het Bestuur een begroting vastgesteld, omvattend onder meer gespecificeerde begrotingen van de sectorraden als bedoeld in [artikel 12 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052315&artikel=12&z=2026-02-20&g=2026-02-20). Met het oog op het bepaalde in [artikel 15 leden 1, onderdeel a. en 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052315&artikel=15&z=2026-02-20&g=2026-02-20) wordt de begroting overgelegd aan de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur en dient het besluit tot vaststelling van de begroting door genoemde Minister te worden goedgekeurd.
 
@@ -302,7 +324,7 @@ Het boekjaar loopt van één januari tot en met éénendertig december.
 
 ### Statutenwijziging en opheffing
 
-#### Artikel 19
+##### Artikel 19
 
 1. Op voorstel van het Bestuur of van meer dan de helft van de bestuursleden kan worden besloten de Stichting op te heffen, voorafgaand aan het te nemen besluit tot opheffing gehoord elke sectorraad. Een dergelijk voorstel kan slechts behandeld worden als het in de oproepbrief is vermeld en deze ten minste drie weken voor de vergadering aan de bestuursleden is verzonden. In de eerste vergadering, waar een voorstel als hier bedoeld in behandeling is genomen, moeten voor een geldig besluit alle stemgerechtigde bestuursleden aanwezig zijn.
 
@@ -312,7 +334,7 @@ Het boekjaar loopt van één januari tot en met éénendertig december.
 
 4. Voor wijziging van deze Statuten is het bepaalde in de leden 1, 2 en 3 van dit artikel van overeenkomstige toepassing.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Na opheffing zal de liquidatie geschieden door het Bestuur, tenzij in het opheffingsbesluit anders mocht worden bepaald.
 
@@ -320,7 +342,7 @@ Het boekjaar loopt van één januari tot en met éénendertig december.
 
 ### Uitvoerings- en slotbepalingen
 
-#### Artikel 21
+##### Artikel 21
 
 1. Het Bestuur stelt binnen de door deze Statuten gegeven grenzen een Huishoudelijk Reglement en een Bestuursreglement vast.
 

@@ -1,13 +1,38 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake de wederzijdse administratieve bijstand bij de invordering van belastingschulden en de uitreiking van documenten"
 identifier: "BWBV0001478"
-categorie: "Belastingrecht"
-publicatiedatum: 2001-06-23
-laatste_update: 2001-06-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001478"
+country: "nl"
+rank: "verdrag"
+publication_date: "2001-06-23"
+last_updated: "2001-06-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001478"
+soort: "verdrag"
+stam_id: "10000187013"
+version_id: "10000187382"
+internal_id: "C10009546361"
+label_id: "10000187314"
+dtd_version: "2.0"
+original_entry_into_force: "2001-06-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001478/2001-06-23/0"
+intitule_bron: "Trb.1999-113"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-05-21"
+intitule_published: "1999-07-02"
+intitule_in_force: "2001-06-22"
+intitule_status: "goed"
+original_publication: "Trb.1999-113"
+original_signed_date: "1999-05-21"
+original_published_date: "1999-07-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1999-113"
+entry_into_force_date: "2001-06-23"
+jci_1_3: "jci1.3:c:BWBV0001478&z=2001-06-23&g=2001-06-23"
+jci_1_0: "1.0:c:BWBV0001478&g=2001-06-23"
+citeertitel_status: "officieel"
+signed_date: "1999-05-21"
+entry_into_force: "2001-06-23"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake de wederzijdse administratieve bijstand bij de invordering van belastingschulden en de uitreiking van documenten
 
 Het Koninkrijk der Nederlanden
@@ -22,7 +47,7 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. REIKWIJDTE VAN HET VERDRAG
 
-#### Artikel 1. Onderwerp van het Verdrag en personen waarop het Verdrag van toepassing is
+##### Artikel 1. Onderwerp van het Verdrag en personen waarop het Verdrag van toepassing is
 
 1. De Verdragsluitende Staten verlenen elkaar administratieve bijstand bij de invordering van belastingvorderingen en bij de uitreiking van documenten.
 
@@ -30,7 +55,7 @@ Zijn het volgende overeengekomen:
 
 3. Dit Verdrag heeft voorrang boven de bepalingen van andere bilaterale regelingen tussen de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden over de wederzijdse administratieve bijstand bij de invordering van belastingvorderingen en de uitreiking van documenten, die een beperktere reikwijdte hebben.
 
-#### Artikel 2. Belastingen waarop het Verdrag van toepassing is
+##### Artikel 2. Belastingen waarop het Verdrag van toepassing is
 
 1. De bestaande belastingen waarop het Verdrag van toepassing is, zijn
 
@@ -64,7 +89,7 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK II
 
-#### Artikel 3. Begripsbepalingen
+##### Artikel 3. Begripsbepalingen
 
 1. Voor de toepassing van dit Verdrag, tenzij de context anders vereist:
 
@@ -98,7 +123,7 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK III. ADMINISTRATIEVE BIJSTAND BIJ DE INVORDERING
 
-#### Artikel 4. Invordering van belastingvorderingen
+##### Artikel 4. Invordering van belastingvorderingen
 
 1. Behoudens het bepaalde in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001478&hoofdstuk=III&artikel=5&z=2001-06-23&g=2001-06-23) en [6](https://wetten.overheid.nl/jci1.3:c:BWBV0001478&hoofdstuk=III&artikel=6&z=2001-06-23&g=2001-06-23), vordert een Verdragsluitende Staat op verzoek van de andere Verdragsluitende Staat belastingvorderingen van de eerstgenoemde Verdragsluitende Staat in als betrof het zijn eigen belastingvorderingen.
 
@@ -108,7 +133,7 @@ Zijn het volgende overeengekomen:
 
 4. De verplichting om bijstand te verlenen bij het invorderen van belastingvorderingen betreffende een overledene of zijn nalatenschap is beperkt tot de waarde van de nalatenschap of dat deel van het vermogen dat door iedere begunstigde tot de nalatenschap wordt verkregen, afhankelijk van de vraag of de vorderingen dienen te worden ingevorderd uit de nalatenschap of bij de begunstigden daartoe.
 
-#### Artikel 5. Verjaringstermijnen
+##### Artikel 5. Verjaringstermijnen
 
 1. Verjaringstermijnen van belastingvorderingen worden beheerst door het recht van de verzoekende Staat. Het verzoek om invordering bevat gegevens over de verjaringstermijnen die voor de belastingvorderingen gelden.
 
@@ -116,15 +141,15 @@ Zijn het volgende overeengekomen:
 
 3. De aangezochte Staat is niet verplicht een verzoek om administratieve bijstand in te willigen dat wordt gedaan na het verstrijken van een tijdvak van 15 jaren vanaf de datum van de oorspronkelijke executoriale titel.
 
-#### Artikel 6. Prioriteit
+##### Artikel 6. Prioriteit
 
 De belastingvorderingen waarvoor bijstand bij invordering wordt verleend, genieten in de aangezochte Verdragsluitende Staat niet de voorrang die speciaal geldt voor belastingvorderingen van deze Staat.
 
-#### Artikel 7. Uitstel van betaling
+##### Artikel 7. Uitstel van betaling
 
 De aangezochte Verdragsluitende Staat kan uitstel van betaling of betaling in termijnen toestaan, indien zijn wetgeving of zijn administratieve praktijk dit in soortgelijke omstandigheden toestaat; hij doet hiervan mededeling aan de andere Verdragsluitende Staat.
 
-#### Artikel 8. Conservatoire maatregelen
+##### Artikel 8. Conservatoire maatregelen
 
 1. Op verzoek van een Verdragsluitende Staat neemt de andere Verdragsluitende Staat met het oog op de invordering van belastingvorderingen zo spoedig mogelijk, doch uiterlijk binnen een maand na ontvangst van het verzoek, conservatoire maatregelen, zelfs als de belastingvorderingen worden bestreden of als slechts een voorlopige, dan wel een met het oog op beslaglegging tot zekerheid uitgevaardigde, executoriale titel uitgevaardigd is.
 
@@ -132,7 +157,7 @@ De aangezochte Verdragsluitende Staat kan uitstel van betaling of betaling in te
 
 ### HOOFDSTUK IV
 
-#### Artikel 9. Uitreiking van documenten
+##### Artikel 9. Uitreiking van documenten
 
 1. Elke Verdragsluitende Staat kan een persoon op het grondgebied van de andere Verdragsluitende Staat documenten met betrekking tot belastingvorderingen rechtstreeks per post uitreiken, ook voorzover die betrekking hebben op andere belastingen dan waarop het Verdrag van toepassing is.
 
@@ -150,7 +175,7 @@ De aangezochte Verdragsluitende Staat kan uitstel van betaling of betaling in te
 
 ### HOOFDSTUK V. BEPALINGEN BETREFFENDE ALLE VORMEN VAN ADMINISTRATIEVE BIJSTAND
 
-#### Artikel 10. Inhoud, omzetting en beantwoording van een verzoek
+##### Artikel 10. Inhoud, omzetting en beantwoording van een verzoek
 
 1. Voor zover nodig wordt in het verzoek vermeld
 
@@ -178,7 +203,7 @@ De aangezochte Verdragsluitende Staat kan uitstel van betaling of betaling in te
 
 6. De in de verzoekende Staat geldige executoriale titel wordt, indien noodzakelijk in overeenstemming met de in de aangezochte Staat van kracht zijnde bepalingen, zo spoedig mogelijk, doch uiterlijk binnen twee maanden na de datum van ontvangst van het verzoek om administratieve bijstand, erkend, aangevuld dan wel vervangen door een in de laatstgenoemde Staat geldige executoriale titel.
 
-#### Artikel 11. Grenzen aan de verplichting tot het verlenen van bijstand
+##### Artikel 11. Grenzen aan de verplichting tot het verlenen van bijstand
 
 1. Geen enkele bepaling van dit Verdrag tast de rechten en waarborgen aan die personen hebben volgens de wetgeving of de administratieve praktijk van de aangezochte Staat.
 
@@ -200,7 +225,7 @@ De aangezochte Verdragsluitende Staat kan uitstel van betaling of betaling in te
 
 4. Indien het verzoek om administratieve bijstand wordt afgewezen, doet de aangezochte Staat zo spoedig mogelijk mededeling van deze beslissing en de redenen daarvan.
 
-#### Artikel 12. Uitwisseling van inlichtingen
+##### Artikel 12. Uitwisseling van inlichtingen
 
 1. De bevoegde autoriteiten van de Verdragsluitende Staten wisselen de inlichtingen uit die nodig zijn voor het uitvoeren van de bepalingen van dit Verdrag of van de nationale wetgeving van de beide Staten met betrekking tot de invordering van de belastingen waarop het Verdrag van toepassing is of voor de uitreiking van documenten.
 
@@ -210,7 +235,7 @@ De aangezochte Verdragsluitende Staat kan uitstel van betaling of betaling in te
 
 - b. inlichtingen te verstrekken die een handels-, bedrijfs-, nijverheids- of beroepsgeheim of een fabrieks- of handelswerkwijze zouden onthullen, of inlichtingen waarvan het verstrekken in strijd zou zijn met de openbare orde.
 
-#### Artikel 13. Geheimhouding en bescherming van gegevens
+##### Artikel 13. Geheimhouding en bescherming van gegevens
 
 1. Alle door een Verdragsluitende Staat krachtens dit Verdrag verkregen inlichtingen worden op dezelfde wijze geheim gehouden als inlichtingen die krachtens de nationale wetgeving van deze Staat zijn verkregen. Zodanige gegevens worden in ieder geval slechts ter kennis gebracht van personen of autoriteiten (met inbegrip van rechterlijke instanties en administratiefrechtelijke instanties of lichamen) die betrokken zijn bij de heffing of invordering van, de tenuitvoerlegging van of de vervolging ter zake van, of de beslissing in beroepszaken met betrekking tot de belastingen van deze Staat waarop het Verdrag van toepassing is. Deze personen, autoriteiten of instanties mogen van die inlichtingen alleen voor deze doeleinden gebruik maken. Zij kunnen de inlichtingen echter, na voorafgaande toestemming van de Staat die de inlichtingen heeft verstrekt, bekend maken in openbare rechtszittingen of in rechterlijke beslissingen met betrekking tot deze belastingen. Een verdere overdracht aan andere instanties mag slechts plaatsvinden na voorafgaande toestemming van de bevoegde autoriteit.
 
@@ -228,7 +253,7 @@ De aangezochte Verdragsluitende Staat kan uitstel van betaling of betaling in te
 
 8. De verstrekkende en de ontvangende Staat zijn verplicht uitgewisselde gegevens die op personen betrekking hebben op doeltreffende wijze te beschermen tegen onbevoegde toegang, onbevoegde wijziging en onbevoegde bekendmaking.
 
-#### Artikel 14. Rechtsmiddelen
+##### Artikel 14. Rechtsmiddelen
 
 1. Een bezwaar tegen de door de aangezochte Staat op grond van dit Verdrag genomen maatregelen kan slechts worden ingediend bij de daarvoor bevoegde instantie van deze Staat.
 
@@ -236,13 +261,13 @@ De aangezochte Verdragsluitende Staat kan uitstel van betaling of betaling in te
 
 3. Zodra met betrekking tot het bezwaar een uitspraak is gedaan doet de verzoekende Staat of de aangezochte Staat mededeling aan de andere Staat over die uitspraak en de gevolgen daarvan ten aanzien van het verzoek om administratieve bijstand.
 
-#### Artikel 15. Kosten
+##### Artikel 15. Kosten
 
 1. Gewone kosten, gemaakt in verband met het verlenen van administratieve bijstand, worden gedragen door de aangezochte Staat. Buitengewone kosten, gemaakt in verband met het verlenen van administratieve bijstand, worden gedragen door de verzoekende Staat.
 
 2. De verzoekende Staat blijft jegens de aangezochte Staat verantwoordelijk voor de geldelijke gevolgen van verzoeken om invordering die onterecht zijn gebleken vanwege het niet bestaan van de belastingvordering of ten aanzien van de rechtsgeldigheid van de executoriale titel.
 
-#### Artikel 16. Tenuitvoerlegging van het Verdrag
+##### Artikel 16. Tenuitvoerlegging van het Verdrag
 
 1. De Verdragsluitende Staten plegen onderling overleg met betrekking tot de tenuitvoerlegging van dit Verdrag door tussenkomst van de bevoegde autoriteiten. De bevoegde autoriteiten kunnen hiertoe rechtstreeks met elkaar overleg plegen.
 
@@ -254,13 +279,13 @@ De aangezochte Verdragsluitende Staat kan uitstel van betaling of betaling in te
 
 ### HOOFDSTUK VI. SLOTBEPALINGEN
 
-#### Artikel 17. Inwerkingtreding
+##### Artikel 17. Inwerkingtreding
 
 Teneinde in werking te kunnen treden dient dit Verdrag te worden bekrachtigd. De akten van bekrachtiging zullen zo spoedig mogelijk worden uitgewisseld.
 
 Dit Verdrag treedt een maand na de uitwisseling van de akten van bekrachtiging in werking.
 
-#### Artikel 18. Geldigheidsduur
+##### Artikel 18. Geldigheidsduur
 
 Dit Verdrag geldt voor onbepaalde tijd; het kan evenwel door elk van de Verdragsluitende Staten langs diplomatieke weg worden opgezegd door vóór 30 juni van enig kalenderjaar na het verstrijken van een periode van vijf jaar na de datum van inwerkingtreding van het Verdrag de andere Staat schriftelijk kennis te geven van opzegging. In dat geval vindt het Verdrag in beide Verdragsluitende Staten voor het laatst toepassing met betrekking tot handelingen in het kader van administratieve bijstand die worden verricht vóór 1 januari van het kalenderjaar dat volgt op het jaar waarin de kennisgeving van opzegging is gedaan.
 

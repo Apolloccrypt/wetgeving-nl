@@ -1,13 +1,32 @@
 ---
 title: "Verdrag van de Verenigde Naties inzake de overeenkomsten voor het internationaal vervoer van goederen geheel of gedeeltelijk over zee"
 identifier: "BWBV0005538"
-categorie: "Internationaal recht"
-publicatiedatum: 2008-12-11
-laatste_update: 2008-12-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005538"
+country: "nl"
+rank: "verdrag"
+publication_date: "2008-12-11"
+last_updated: "2008-12-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005538"
+soort: "verdrag"
+stam_id: "10004695493"
+version_id: "10004960202"
+internal_id: "C10007477221"
+label_id: "10004681554"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005538/2008-12-11/0"
+intitule_bron: "Trb.2011-222"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2011-11-09"
+intitule_status: "nogniet"
+original_publication: "Trb.2011-222"
+original_published_date: "2011-11-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2011-222"
+jci_1_3: "jci1.3:c:BWBV0005538&z=2008-12-11&g=2008-12-11"
+jci_1_0: "1.0:c:BWBV0005538&g=2008-12-11"
+citeertitel_status: "redactioneel"
+entry_into_force: "2011-11-09"
 ---
-
 # Verdrag van de Verenigde Naties inzake de overeenkomsten voor het internationaal vervoer van goederen geheel of gedeeltelijk over zee
 
 De Staten die Partij zijn bij dit Verdrag,
@@ -28,7 +47,7 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK 1. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag:
 
@@ -112,15 +131,15 @@ Voor de toepassing van dit Verdrag:
 
 - 30. Wordt verstaan onder „bevoegd gerecht” een rechter in een Verdragsluitende Staat die, volgens de regels inzake interne toekenning van bevoegdheid tussen de gerechten van die Staat, bevoegd is over het geschil te oordelen.
 
-#### Artikel 2. Uitlegging van dit Verdrag
+##### Artikel 2. Uitlegging van dit Verdrag
 
 Bij de uitlegging van dit Verdrag dient rekening te worden gehouden met het internationale karakter en met de noodzaak tot zowel het bevorderen van de uniforme toepassing ervan als het in acht nemen van de goede trouw in de internationale handel.
 
-#### Artikel 3. Vormvereisten
+##### Artikel 3. Vormvereisten
 
 De kennisgevingen, bevestiging, instemming, afspraak, verklaring en andere communicatie bedoeld in de [artikelen 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=5&artikel=19&z=2008-12-11&g=2008-12-11), [23, eerste tot en met vierde lid, 36, eerste lid, onderdelen b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=5&artikel=23&z=2008-12-11&g=2008-12-11), [40, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=8&artikel=40&z=2008-12-11&g=2008-12-11), [44](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=9&artikel=44&z=2008-12-11&g=2008-12-11), [48, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=9&artikel=48&z=2008-12-11&g=2008-12-11), [51, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=10&artikel=51&z=2008-12-11&g=2008-12-11), [59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=12&artikel=59&z=2008-12-11&g=2008-12-11), [63](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=13&artikel=63&z=2008-12-11&g=2008-12-11), [66](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=14&artikel=66&z=2008-12-11&g=2008-12-11), [67, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=14&artikel=67&z=2008-12-11&g=2008-12-11), [75, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=15&artikel=75&z=2008-12-11&g=2008-12-11), en [80, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=16&artikel=80&z=2008-12-11&g=2008-12-11), geschieden schriftelijk. Elektronische communicatie mag voor deze doeleinden worden gebruikt op voorwaarde dat zowel de verzender als degene voor wie zij bestemd is, hiermee instemmen.
 
-#### Artikel 4. Toepasselijkheid van verweermiddelen en beperking van aansprakelijkheid
+##### Artikel 4. Toepasselijkheid van verweermiddelen en beperking van aansprakelijkheid
 
 1. Elke bepaling van dit Verdrag waaraan een vervoerder een verweermiddel kan ontlenen of die zijn aansprakelijkheid kan beperken, is van toepassing in elke gerechtelijke of arbitrageprocedure, ongeacht of deze is gebaseerd op overeenkomst, onrechtmatige daad of anderszins, die aanhangig wordt gemaakt wegens verlies van, schade aan of vertraging in de aflevering van goederen waarop een vervoerovereenkomst van toepassing is of wegens een tekortkoming in de nakoming van enige andere verplichting uit hoofde van dit Verdrag jegens:
 
@@ -134,7 +153,7 @@ De kennisgevingen, bevestiging, instemming, afspraak, verklaring en andere commu
 
 ### HOOFDSTUK 2. WERKINGSSFEER
 
-#### Artikel 5. Algemene reikwijdte
+##### Artikel 5. Algemene reikwijdte
 
 1. Met inachtneming van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=2&artikel=6&z=2008-12-11&g=2008-12-11) is dit Verdrag van toepassing op vervoerovereenkomsten waarbij zowel de plaats van inontvangstneming en de plaats van aflevering als de haven van inlading van een vervoer over zee en de haven van lossing van dat vervoer in verschillende Staten zijn gelegen, indien, volgens de vervoerovereenkomst, één van de onderstaande plaatsen in een Verdragsluitende Staat is gelegen:
 
@@ -148,7 +167,7 @@ De kennisgevingen, bevestiging, instemming, afspraak, verklaring en andere commu
 
 2. Dit Verdrag is van toepassing, ongeacht de nationaliteit van het schip, de vervoerder, de uitvoerende partijen, de afzender, de geadresseerde of enige andere belanghebbende partij.
 
-#### Artikel 6. Specifieke uitsluitingen
+##### Artikel 6. Specifieke uitsluitingen
 
 1. Dit Verdrag is niet van toepassing op de volgende overeenkomsten in de lijnvaart:
 
@@ -162,13 +181,13 @@ De kennisgevingen, bevestiging, instemming, afspraak, verklaring en andere commu
 
 - b. een vervoerdocument of elektronisch vervoerbestand is afgegeven.
 
-#### Artikel 7. Toepassing op bepaalde partijen
+##### Artikel 7. Toepassing op bepaalde partijen
 
 Niettegenstaande [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=2&artikel=6&z=2008-12-11&g=2008-12-11) is dit Verdrag van toepassing op de betrekkingen tussen de vervoerder en de geadresseerde, de partij met zeggenschap of de houder die niet een oorspronkelijke partij is bij de bevrachtingsovereenkomst of andere vervoerovereenkomst die uitgesloten is van toepassing van dit Verdrag. Het Verdrag is evenwel niet van toepassing op de betrekkingen tussen de oorspronkelijke partijen bij een vervoerovereenkomst die uit hoofde van artikel 6 is uitgesloten.
 
 ### HOOFDSTUK 3. ELEKTRONISCHE VERVOERBESTANDEN
 
-#### Artikel 8. Gebruik en werking van elektronische vervoerbestanden
+##### Artikel 8. Gebruik en werking van elektronische vervoerbestanden
 
 Met inachtneming van de in dit Verdrag vervatte vereisten:
 
@@ -176,7 +195,7 @@ Met inachtneming van de in dit Verdrag vervatte vereisten:
 
 - b. hebben de afgifte van, exclusieve zeggenschap over of overdracht van een elektronisch vervoerbestand dezelfde werking als de afgifte, het bezit of de overdracht van een vervoerdocument.
 
-#### Artikel 9. Procedures voor het gebruik van verhandelbare elektronische vervoerbestanden
+##### Artikel 9. Procedures voor het gebruik van verhandelbare elektronische vervoerbestanden
 
 1. Het gebruik van een verhandelbaar elektronisch vervoerbestand is onderworpen aan procedures die in het volgende voorzien:
 
@@ -190,7 +209,7 @@ Met inachtneming van de in dit Verdrag vervatte vereisten:
 
 2. In de overeenkomstgegevens wordt verwezen naar de in het eerste lid van dit artikel bedoelde procedures en deze zijn eenvoudig te achterhalen.
 
-#### Artikel 10. Vervanging van een verhandelbaar vervoerdocument of een verhandelbaar elektronisch vervoerbestand
+##### Artikel 10. Vervanging van een verhandelbaar vervoerdocument of een verhandelbaar elektronisch vervoerbestand
 
 1. Indien een verhandelbaar vervoerdocument is afgegeven en de vervoerder en de houder overeenkomen dit document te vervangen door een verhandelbaar elektronisch vervoerbestand:
 
@@ -208,11 +227,11 @@ Met inachtneming van de in dit Verdrag vervatte vereisten:
 
 ### HOOFDSTUK 4. VERPLICHTINGEN VAN DE VERVOERDER
 
-#### Artikel 11. Vervoer en aflevering van de goederen
+##### Artikel 11. Vervoer en aflevering van de goederen
 
 De vervoerder vervoert de goederen naar de plaats van bestemming en levert deze af aan de geadresseerde, met inachtneming van dit Verdrag en in overeenstemming met de voorwaarden van de vervoerovereenkomst.
 
-#### Artikel 12. Periode van de verantwoordelijkheid van de vervoerder
+##### Artikel 12. Periode van de verantwoordelijkheid van de vervoerder
 
 1. De periode waarin de vervoerder uit hoofde van dit Verdrag verantwoordelijk is voor de goederen vangt aan op het tijdstip waarop de vervoerder of een uitvoerende partij de goederen voor vervoer ontvangt en eindigt op het tijdstip waarop de goederen worden afgeleverd.
 
@@ -226,13 +245,13 @@ De vervoerder vervoert de goederen naar de plaats van bestemming en levert deze 
 
 - b. het tijdstip van aflevering van de goederen eerder is dan het tijdstip waarop de laatste lossing uit hoofde van de vervoerovereenkomst wordt voltooid.
 
-#### Artikel 13. Specifieke verplichtingen
+##### Artikel 13. Specifieke verplichtingen
 
 1. Gedurende de periode waarin de vervoerder verantwoordelijk is, zoals omschreven in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=4&artikel=12&z=2008-12-11&g=2008-12-11), en met inachtneming van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=6&artikel=26&z=2008-12-11&g=2008-12-11), dient de vervoerder de goederen behoorlijk en zorgvuldig te ontvangen, laden, behandelen, stuwen, vervoeren, bewaren, verzorgen, lossen en af te leveren.
 
 2. Niettegenstaande het eerste lid van dit artikel en onverminderd de overige bepalingen in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=4&z=2008-12-11&g=2008-12-11) en de [hoofdstukken 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=5&z=2008-12-11&g=2008-12-11), kunnen de vervoerder en de afzender overeenkomen dat het laden, behandelen, stuwen of lossen van de goederen door de afzender, de documentaire afzender of de geadresseerde wordt uitgevoerd. Naar een dergelijke afspraak wordt in de overeenkomstgegevens verwezen.
 
-#### Artikel 14. Specifieke verplichtingen van toepassing op de reis over zee
+##### Artikel 14. Specifieke verplichtingen van toepassing op de reis over zee
 
 De vervoerder is gehouden voor, bij aanvang van, en tijdens de reis over zee redelijke zorg aan te wenden voor:
 
@@ -242,17 +261,17 @@ De vervoerder is gehouden voor, bij aanvang van, en tijdens de reis over zee red
 
 - c. het geschikt maken en in goede staat brengen en het geschikt en in goede staat houden van de ruimen en alle andere delen van het schip waarin de goederen worden vervoerd alsmede van door de vervoerder ter beschikking gestelde containers waarin of waarop de goederen worden vervoerd, om de goederen daarin te bergen, te vervoeren en goed te houden.
 
-#### Artikel 15. Goederen die gevaar kunnen opleveren
+##### Artikel 15. Goederen die gevaar kunnen opleveren
 
 Niettegenstaande de artikelen 11 en [13](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=4&artikel=13&z=2008-12-11&g=2008-12-11) mag de vervoerder of een uitvoerende partij weigeren de goederen in ontvangst te nemen of te laden, en kan hij elke andere redelijke maatregel treffen, waaronder het lossen, vernietigen of onschadelijk maken van de goederen, indien deze gedurende het tijdvak waarin de vervoerder voor deze goederen verantwoordelijk is, daadwerkelijk gevaar opleveren, of redelijkerwijs kan worden aangenomen dat zij waarschijnlijk gevaar gaan opleveren, voor personen, zaken of het milieu.
 
-#### Artikel 16. Opoffering van goederen tijdens de zeereis
+##### Artikel 16. Opoffering van goederen tijdens de zeereis
 
 Niettegenstaande de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=4&artikel=11&z=2008-12-11&g=2008-12-11), [13](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=4&artikel=13&z=2008-12-11&g=2008-12-11) en [14](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=4&artikel=14&z=2008-12-11&g=2008-12-11) kan de vervoerder of een uitvoerende partij de goederen op zee opofferen indien deze maatregel redelijk is met het oog op de gemeenschappelijke veiligheid of om personen of andere zaken die bij de gemeenschappelijke onderneming betrokken zijn te behoeden voor gevaar.
 
 ### HOOFDSTUK 5. AANSPRAKELIJKHEID VAN DE VERVOERDER VOOR VERLIES, SCHADE OF VERTRAGING
 
-#### Artikel 17. Grondslag van de aansprakelijkheid
+##### Artikel 17. Grondslag van de aansprakelijkheid
 
 1. De vervoerder is aansprakelijk voor verlies van of schade aan de goederen, alsmede voor vertraging in de aflevering daarvan, indien de rechthebbende bewijst dat het verlies, de schade of de vertraging of de gebeurtenis of omstandigheid die dit of deze heeft veroorzaakt of eraan heeft bijgedragen, plaats vond gedurende het tijdvak waarin de vervoerder verantwoordelijk was, zoals omschreven in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=4&z=2008-12-11&g=2008-12-11).
 
@@ -304,7 +323,7 @@ Niettegenstaande de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBV00055
 
 6. Wanneer de vervoerder uit hoofde van dit artikel gedeeltelijk van zijn aansprakelijk is ontheven, is hij slechts aansprakelijk voor dat deel van het verlies, de schade of de vertraging dat kan worden toegerekend aan de gebeurtenis of omstandigheid waarvoor hij uit hoofde van dit artikel aansprakelijk is.
 
-#### Artikel 18. Aansprakelijkheid van de vervoerder voor andere personen
+##### Artikel 18. Aansprakelijkheid van de vervoerder voor andere personen
 
 De vervoerder is aansprakelijk voor de tekortkoming in de nakoming van zijn verplichtingen uit hoofde van dit Verdrag als gevolg van het handelen of nalaten van:
 
@@ -316,7 +335,7 @@ De vervoerder is aansprakelijk voor de tekortkoming in de nakoming van zijn verp
 
 - d. elke andere persoon die één van de verplichtingen van de vervoerder ingevolge de vervoerovereenkomst uitvoert of zich tot uitvoering ervan verbindt, voor zover de persoon, hetzij direct hetzij indirect, op verzoek van de vervoerder of onder diens toezicht of leiding handelt.
 
-#### Artikel 19. Aansprakelijkheid van maritieme uitvoerende partijen
+##### Artikel 19. Aansprakelijkheid van maritieme uitvoerende partijen
 
 1. Op een maritieme uitvoerende partij rusten de verplichtingen en aansprakelijkheden die de vervoerder uit hoofde van dit Verdrag worden opgelegd en deze partij kan zich beroepen op de verweermiddelen en aansprakelijkheidsbeperkingen van de vervoerder zoals vervat in dit Verdrag indien:
 
@@ -330,17 +349,17 @@ De vervoerder is aansprakelijk voor de tekortkoming in de nakoming van zijn verp
 
 4. Geen van de bepalingen in dit Verdrag legt de kapitein of bemanning van het schip of een ondergeschikte van de vervoerder of van een maritieme uitvoerende partij enige aansprakelijkheid op.
 
-#### Artikel 20. Hoofdelijke aansprakelijkheid
+##### Artikel 20. Hoofdelijke aansprakelijkheid
 
 1. Indien de vervoerder en één of meer maritieme uitvoerende partijen aansprakelijk zijn voor het verlies van, schade aan of de vertraging in de aflevering van de goederen, zijn zij hiervoor hoofdelijk aansprakelijk, maar niet verder dan de door dit Verdrag voorziene beperkingen.
 
 2. Onverminderd [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=12&artikel=61&z=2008-12-11&g=2008-12-11) mag de som van de vergoedingsplichten van alle bedoelde personen de algemene aansprakelijkheidsbeperkingen uit hoofde van dit Verdrag niet overschrijden.
 
-#### Artikel 21. Vertraging
+##### Artikel 21. Vertraging
 
 Er is vertraging in de aflevering wanneer de goederen niet binnen de afgesproken tijd op de in de vervoerovereenkomst voorziene bestemming worden afgeleverd.
 
-#### Artikel 22. Berekening van de schadevergoeding
+##### Artikel 22. Berekening van de schadevergoeding
 
 1. Met inachtneming van [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=12&artikel=59&z=2008-12-11&g=2008-12-11) wordt de schadevergoeding die de vervoerder verschuldigd is voor het verlies van of de schade aan de goederen, berekend op basis van de waarde van deze goederen op de plaats en het tijdstip van aflevering zoals vastgesteld in overeenstemming met [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=9&artikel=43&z=2008-12-11&g=2008-12-11).
 
@@ -348,7 +367,7 @@ Er is vertraging in de aflevering wanneer de goederen niet binnen de afgesproken
 
 3. In geval van verlies van of schade aan de goederen is de vervoerder niet verplicht tot betaling van enige verdere schadevergoeding dan die vervat in het eerste en tweede lid van dit artikel, tenzij de vervoerder en de afzender zijn overeengekomen de schadevergoeding op een andere wijze te berekenen binnen de grenzen van [hoofdstuk 16](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=16&z=2008-12-11&g=2008-12-11).
 
-#### Artikel 23. Kennisgeving in geval van verlies, schade of vertraging
+##### Artikel 23. Kennisgeving in geval van verlies, schade of vertraging
 
 1. De vervoerder wordt verondersteld, bij ontbreken van bewijs van het tegendeel, de goederen conform hun omschrijving in de overeenkomstgegevens te hebben afgeleverd, tenzij aan de vervoerder of de uitvoerende partij die de goederen heeft afgeleverd vóór of op het tijdstip van aflevering kennis is gegeven van verlies van of schade aan de goederen onder vermelding van de algemene aard van dit verlies of de schade, of, indien het verlies of de schade niet waarneembaar is, binnen zeven werkdagen op de plaats van aflevering na aflevering van de goederen.
 
@@ -364,11 +383,11 @@ Er is vertraging in de aflevering wanneer de goederen niet binnen de afgesproken
 
 ### HOOFDSTUK 6. AANVULLENDE BEPALINGEN BETREFFENDE BEPAALDE TRAJECTEN VAN HET VERVOER
 
-#### Artikel 24. Deviaties
+##### Artikel 24. Deviaties
 
 Wanneer het toepasselijke recht deviaties beschouwt als een tekortkoming in de nakoming van de verplichtingen van de vervoerder, worden de vervoerder of een maritieme uitvoerende partij door deze deviatie op zich geen in dit Verdrag opgenomen verweermiddelen of beperkingen ontzegd, behoudens voor zover bepaald in [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=12&artikel=61&z=2008-12-11&g=2008-12-11).
 
-#### Artikel 25. Deklading op schepen
+##### Artikel 25. Deklading op schepen
 
 1. Goederen mogen slechts aan dek van een schip worden vervoerd indien:
 
@@ -386,7 +405,7 @@ Wanneer het toepasselijke recht deviaties beschouwt als een tekortkoming in de n
 
 5. Indien de vervoerder en de afzender uitdrukkelijk zijn overeengekomen dat de goederen onderdeks worden vervoerd, kan de vervoerder zich niet beroepen op beperking van zijn aansprakelijkheid voor verlies van, schade aan of vertraging in de aflevering van de goederen voor zover het verlies, de schade of de vertraging het gevolg is van het aan dek vervoeren van de goederen.
 
-#### Artikel 26. Vervoer voorafgaand aan of volgend op het vervoer over zee
+##### Artikel 26. Vervoer voorafgaand aan of volgend op het vervoer over zee
 
 Wanneer verlies van of schade aan de goederen, of een gebeurtenis of omstandigheid die tot vertraging in de aflevering daarvan leidt, optreedt gedurende de periode waarin de vervoerder verantwoordelijk is maar uitsluitend vóór het inladen van de goederen aan boord van het schip of uitsluitend na het lossen ervan uit het schip, hebben de bepalingen van dit Verdrag geen voorrang boven de bepalingen van een ander internationaal instrument die ten tijde van een het verlies, de schade of de gebeurtenis of omstandigheid die tot de vertraging heeft geleid:
 
@@ -398,7 +417,7 @@ Wanneer verlies van of schade aan de goederen, of een gebeurtenis of omstandighe
 
 ### HOOFDSTUK 7. VERPLICHTINGEN VAN DE AFZENDER JEGENS DE VERVOERDER
 
-#### Artikel 27. Aanlevering voor vervoer
+##### Artikel 27. Aanlevering voor vervoer
 
 1. Tenzij anderszins in de vervoerovereenkomst is overeengekomen, levert de afzender de goederen gereed voor vervoer aan. De afzender levert de goederen in ieder geval in een zodanige toestand aan dat zij bestand zijn tegen het beoogde vervoer, met inbegrip van het laden, behandelen, stuwen, sjorren en vastzetten, en lossen ervan, en dat zij geen schade berokkenen aan personen of zaken.
 
@@ -406,11 +425,11 @@ Wanneer verlies van of schade aan de goederen, of een gebeurtenis of omstandighe
 
 3. Wanneer de afzender een container of een voertuig belaadt, dient hij de inhoud behoorlijk en zorgvuldig te stuwen, te sjorren en vast te zetten in of op de container of het voertuig, zodanig dat de goederen geen schade berokkenen aan personen of zaken.
 
-#### Artikel 28. Samenwerking tussen de afzender en de vervoerder bij het verstrekken van informatie en aanwijzingen
+##### Artikel 28. Samenwerking tussen de afzender en de vervoerder bij het verstrekken van informatie en aanwijzingen
 
 De vervoerder en de afzender beantwoorden elkaars verzoeken om informatie en aanwijzingen die nodig zijn voor het op de juiste wijze behandelen en vervoeren van de goederen, indien deze informatie in het bezit is van de aangezochte partij of de aangezochte partij redelijkerwijs in staat is deze aanwijzingen te geven en deze niet redelijkerwijs op andere wijze beschikbaar zijn voor de verzoekende partij.
 
-#### Artikel 29. Verplichting van de afzender om informatie, aanwijzingen en documenten te verstrekken
+##### Artikel 29. Verplichting van de afzender om informatie, aanwijzingen en documenten te verstrekken
 
 1. De afzender voorziet de vervoerder tijdig van de op de goederen betrekking hebbende informatie, aanwijzingen en documenten waarover de vervoerder niet redelijkerwijs op andere wijze kan beschikken en die redelijkerwijs noodzakelijk zijn:
 
@@ -420,7 +439,7 @@ De vervoerder en de afzender beantwoorden elkaars verzoeken om informatie en aan
 
 2. Geen van de bepalingen in dit artikel doet afbreuk aan een specifieke verplichting om bepaalde informatie, aanwijzingen en documenten met betrekking tot de goederen te verstrekken uit hoofde van de wet- en regelgeving en overige vereisten van het openbaar gezag in verband met het beoogde vervoer.
 
-#### Artikel 30. Grondslag voor aansprakelijkheid van de afzender jegens de vervoerder
+##### Artikel 30. Grondslag voor aansprakelijkheid van de afzender jegens de vervoerder
 
 1. De afzender is aansprakelijk voor door de vervoerder geleden verlies of schade indien de vervoerder bewijst dat het verlies of de schade werd veroorzaakt door een tekortkoming in de nakoming van de verplichtingen van de afzender uit hoofde van dit Verdrag.
 
@@ -428,13 +447,13 @@ De vervoerder en de afzender beantwoorden elkaars verzoeken om informatie en aan
 
 3. Wanneer de afzender gedeeltelijk van zijn aansprakelijkheid uit hoofde van dit artikel is ontheven, is hij slechts aansprakelijk voor het deel van het verlies of de schade dat toe te rekenen is aan zijn schuld of aan de schuld van een in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=7&artikel=34&z=2008-12-11&g=2008-12-11) bedoelde persoon.
 
-#### Artikel 31. Informatie voor het vastleggen van de overeenkomstgegevens
+##### Artikel 31. Informatie voor het vastleggen van de overeenkomstgegevens
 
 1. De afzender voorziet de vervoerder tijdig van de juiste informatie die nodig is voor het vastleggen van de overeenkomstgegevens en de afgifte van de vervoerdocumenten of elektronische vervoerbestanden, met inbegrip van de in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=8&artikel=36&z=2008-12-11&g=2008-12-11), bedoelde gegevens; de naam van de partij die als afzender in de overeenkomstgegevens wordt vermeld; in voorkomend geval, de naam van de geadresseerde; en de naam van de persoon aan wiens order het vervoerdocument of elektronisch vervoerbestand in voorkomend geval dient te worden afgegeven.
 
 2. De afzender wordt geacht in te staan voor de juistheid van de uit hoofde van het eerste lid van dit artikel verstrekte informatie op het tijdstip waarop deze informatie door de vervoerder wordt ontvangen. De afzender stelt de vervoerder schadeloos voor het verlies dat of de schade die voortvloeit uit de onjuistheid van deze informatie.
 
-#### Artikel 32. Bijzondere regels inzake gevaarlijke goederen
+##### Artikel 32. Bijzondere regels inzake gevaarlijke goederen
 
 Wanneer goederen vanwege hun aard of eigenschappen gevaar opleveren voor personen, zaken of het milieu, of redelijkerwijs kan worden aangenomen dat zij daarvoor waarschijnlijk gevaar gaan opleveren:
 
@@ -442,19 +461,19 @@ Wanneer goederen vanwege hun aard of eigenschappen gevaar opleveren voor persone
 
 - b. voorziet de afzender de gevaarlijke goederen van merktekens of etiketten in overeenstemming met de wet- of regelgeving of andere vereisten van het openbaar gezag die van toepassing zijn tijdens enig traject van het beoogde vervoer van de goederen. Indien de afzender dit verzuimt is hij jegens de vervoerder aansprakelijk voor het verlies dat of de schade die uit dit verzuim voortvloeit.
 
-#### Artikel 33. Verkrijging door de documentaire afzender van de rechten en verplichtingen van de afzender
+##### Artikel 33. Verkrijging door de documentaire afzender van de rechten en verplichtingen van de afzender
 
 1. Een documentaire afzender is onderworpen aan de verplichtingen en aansprakelijkheden die de afzender uit hoofde van dit hoofdstuk en [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=10&artikel=55&z=2008-12-11&g=2008-12-11) zijn opgelegd en kan zich beroepen op de rechten en verweermiddelen van de afzender zoals voorzien in dit hoofdstuk en in [hoofdstuk 13](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=13&z=2008-12-11&g=2008-12-11).
 
 2. Het eerste lid van dit artikel doet geen afbreuk aan de verplichtingen, aansprakelijkheden, rechten of verweermiddelen van de afzender.
 
-#### Artikel 34. Aansprakelijkheid van de afzender voor andere personen
+##### Artikel 34. Aansprakelijkheid van de afzender voor andere personen
 
 De afzender is aansprakelijk voor de tekortkoming in de nakoming van zijn verplichtingen uit hoofde van dit Verdrag als gevolg van het handelen of nalaten van een persoon, met inbegrip van ondergeschikten, agenten en niet ondergeschikte hulppersonen, aan wie hij de uitvoering van één van zijn verplichtingen heeft toevertrouwd. De afzender is evenwel niet aansprakelijk voor het handelen of nalaten van de vervoerder of een uitvoerende partij die namens de vervoerder handelt, aan wie de afzender de uitvoering van zijn verplichtingen heeft toevertrouwd.
 
 ### HOOFDSTUK 8. VERVOERDOCUMENTEN EN ELEKTRONISCHE VERVOERBESTANDEN
 
-#### Artikel 35. Afgifte van het vervoerdocument of elektronisch vervoerbestand
+##### Artikel 35. Afgifte van het vervoerdocument of elektronisch vervoerbestand
 
 Tenzij de afzender en de vervoerder zijn overeengekomen geen gebruik te maken van een vervoerdocument of elektronisch vervoerbestand of het de gewoonte, het gebruik of de handelspraktijk is hier geen gebruik van te maken, is de afzender of, indien de afzender daarmee instemt, de documentaire afzender, bij aanlevering van de goederen voor vervoer aan de vervoerder of uitvoerende partij, gerechtigd één van de onderstaande documenten van de vervoerder te ontvangen, naar keuze van de afzender:
 
@@ -462,7 +481,7 @@ Tenzij de afzender en de vervoerder zijn overeengekomen geen gebruik te maken va
 
 - b. een geëigend verhandelbaar vervoerdocument of, met inachtneming van [artikel 8, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=3&artikel=8&z=2008-12-11&g=2008-12-11), een verhandelbaar elektronisch vervoerbestand, tenzij de afzender en de vervoerder zijn overeengekomen geen gebruik te maken van een verhandelbaar vervoerdocument of verhandelbaar elektronisch vervoerbestand of het de gewoonte, het gebruik of de handelspraktijk is hier geen gebruik van te maken.
 
-#### Artikel 36. Overeenkomstgegevens
+##### Artikel 36. Overeenkomstgegevens
 
 1. De overeenkomstgegevens in het in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=8&artikel=35&z=2008-12-11&g=2008-12-11) bedoelde vervoerdocument of elektronische vervoerbestand bevatten onder meer de volgende informatie, zoals die door de afzender is verstrekt:
 
@@ -500,7 +519,7 @@ Tenzij de afzender en de vervoerder zijn overeengekomen geen gebruik te maken va
 
 - b. een eventuele aanvullende inspectie die de vervoerder of een uitvoerende partij feitelijk uitvoert voorafgaande aan afgifte van het vervoerdocument of elektronische vervoerbestand.
 
-#### Artikel 37. Identiteit van de vervoerder
+##### Artikel 37. Identiteit van de vervoerder
 
 1. Indien een vervoerder met naam wordt vermeld in de overeenkomstgegevens, heeft alle andere informatie in het vervoerdocument of het elektronische vervoerbestand die betrekking heeft op de identiteit van de vervoerder geen gevolgen voor zover deze informatie niet verenigbaar is met deze vermelding.
 
@@ -508,13 +527,13 @@ Tenzij de afzender en de vervoerder zijn overeengekomen geen gebruik te maken va
 
 3. Geen van de bepalingen van dit artikel belet de rechthebbende te bewijzen dat een andere persoon dan de in de overeenkomstgegevens of uit hoofde van het tweede lid genoemde persoon de vervoerder is.
 
-#### Artikel 38. Ondertekening
+##### Artikel 38. Ondertekening
 
 1. Een vervoerdocument wordt ondertekend door de vervoerder of een persoon die namens hem optreedt.
 
 2. Een elektronisch vervoerbestand bevat de elektronische handtekening van de vervoerder of een persoon die namens hem optreedt. Deze elektronische handtekening identificeert de ondertekenaar in relatie tot het elektronische vervoerbestand en geeft aan dat de vervoerder zijn goedkeuring aan het elektronische vervoerbestand verleent.
 
-#### Artikel 39. Onvolkomenheden in de overeenkomstgegevens
+##### Artikel 39. Onvolkomenheden in de overeenkomstgegevens
 
 1. Het ontbreken of de onjuistheid van één of meer van de in [artikel 36, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=8&artikel=36&z=2008-12-11&g=2008-12-11), genoemde overeenkomstgegevens doet op zichzelf geen afbreuk aan het rechtskarakter of de geldigheid van het vervoerdocument of het elektronische vervoerbestand.
 
@@ -526,7 +545,7 @@ Tenzij de afzender en de vervoerder zijn overeengekomen geen gebruik te maken va
 
 3. Indien in de overeenkomstgegevens geen verklaring is opgenomen inzake de uiterlijke staat en gesteldheid van de goederen op het tijdstip waarop de vervoerder of een uitvoerende partij deze in ontvangst neemt, worden de overeenkomstgegevens geacht de verklaring te bevatten dat de goederen in goede uiterlijke staat en gesteldheid verkeerden op het tijdstip waarop zij door de vervoerder of een uitvoerende partij in ontvangst zijn genomen.
 
-#### Artikel 40. Voorbehouden bij de informatie inzake de goederen in de overeenkomstgegevens
+##### Artikel 40. Voorbehouden bij de informatie inzake de goederen in de overeenkomstgegevens
 
 1. De vervoerder maakt een voorbehoud bij de in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=8&artikel=36&z=2008-12-11&g=2008-12-11), bedoelde informatie om aan te geven dat hij geen verantwoordelijkheid aanvaardt voor de juistheid van de door de afzender verstrekte informatie indien:
 
@@ -556,7 +575,7 @@ Tenzij de afzender en de vervoerder zijn overeengekomen geen gebruik te maken va
 
 - ii. het vanuit fysiek oogpunt niet doenlijk of vanuit commercieel oogpunt onredelijk was om het gewicht van de container of het voertuig te controleren.
 
-#### Artikel 41. Bewijskracht van de overeenkomstgegevens
+##### Artikel 41. Bewijskracht van de overeenkomstgegevens
 
 Behoudens voor zover er voorbehouden zijn gemaakt bij de overeenkomstgegevens in de omstandigheden en op de wijze zoals vervat in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=8&artikel=40&z=2008-12-11&g=2008-12-11):
 
@@ -576,21 +595,21 @@ Behoudens voor zover er voorbehouden zijn gemaakt bij de overeenkomstgegevens in
 
 - iii. de in [artikel 36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=8&artikel=36&z=2008-12-11&g=2008-12-11), bedoelde overeenkomstgegevens.
 
-#### Artikel 42. „Vooruitbetaalde vracht”
+##### Artikel 42. „Vooruitbetaalde vracht”
 
 Indien in de overeenkomstgegevens de vermelding „vooruitbetaalde vracht” of een soortgelijke vermelding is opgenomen kan de vervoerder zich jegens de houder of de geadresseerde niet beroepen op het feit dat de vracht niet is betaald. Dit artikel is niet van toepassing indien de houder of de geadresseerde tevens de afzender is.
 
 ### HOOFDSTUK 9. AFLEVERING VAN DE GOEDEREN
 
-#### Artikel 43. Verplichting tot inontvangstneming
+##### Artikel 43. Verplichting tot inontvangstneming
 
 Wanneer de goederen op de plaats van bestemming zijn aangekomen neemt de geadresseerde die aflevering van de goederen uit hoofde van de vervoerovereenkomst vordert, de goederen in ontvangst op het tijdstip of binnen het tijdsbestek en op de plaats zoals overeengekomen in de vervoerovereenkomst of, bij gebreke van een dergelijke afspraak, op het tijdstip en de plaats waarop, gezien de voorwaarden van de overeenkomst, de gebruiken, gewoonten en handelspraktijk en de vervoersomstandigheden, aflevering redelijkerwijs verwacht zou kunnen worden.
 
-#### Artikel 44. Verplichting de ontvangst te bevestigen
+##### Artikel 44. Verplichting de ontvangst te bevestigen
 
 Op verzoek van de vervoerder of de uitvoerende partij die de goederen aflevert, bevestigt de geadresseerde de ontvangst van de goederen van de vervoerder of de uitvoerende partij op de wijze die gebruikelijk is op de plaats van aflevering. De vervoerder mag aflevering weigeren indien de geadresseerde weigert de ontvangst te bevestigen.
 
-#### Artikel 45. Aflevering in geval er geen verhandelbaar vervoerdocument of verhandelbaar elektronisch vervoerbestand is afgegeven
+##### Artikel 45. Aflevering in geval er geen verhandelbaar vervoerdocument of verhandelbaar elektronisch vervoerbestand is afgegeven
 
 Wanneer er geen verhandelbaar vervoerdocument of verhandelbaar elektronisch vervoerbestand is afgegeven:
 
@@ -602,7 +621,7 @@ Wanneer er geen verhandelbaar vervoerdocument of verhandelbaar elektronisch verv
 
 - d. wordt de vervoerder die de goederen aflevert op instructies van de partij met zeggenschap, de afzender of documentaire afzender ingevolge onderdeel c van dit artikel, ontheven van zijn verplichting de goederen uit hoofde van de vervoerovereenkomst af te leveren.
 
-#### Artikel 46. Aflevering in geval van afgifte van een niet-verhandelbaar vervoerdocument dat overhandigd dient te worden
+##### Artikel 46. Aflevering in geval van afgifte van een niet-verhandelbaar vervoerdocument dat overhandigd dient te worden
 
 Wanneer een niet-verhandelbaar vervoerdocument is afgegeven dat aangeeft dat het dient te worden overhandigd teneinde aflevering van de goederen te verkrijgen:
 
@@ -612,7 +631,7 @@ Wanneer een niet-verhandelbaar vervoerdocument is afgegeven dat aangeeft dat het
 
 - c. wordt de vervoerder die de goederen aflevert op instructies van de afzender of documentaire afzender ingevolge onderdeel b van dit artikel, ontheven van zijn verplichting de goederen uit hoofde van de vervoerovereenkomst af te leveren, ongeacht of het niet-verhandelbare vervoerdocument aan hem is overhandigd.
 
-#### Artikel 47. Aflevering in geval van afgifte van een verhandelbaar vervoerdocument of verhandelbaar elektronisch vervoerbestand
+##### Artikel 47. Aflevering in geval van afgifte van een verhandelbaar vervoerdocument of verhandelbaar elektronisch vervoerbestand
 
 1. Wanneer een verhandelbaar vervoerdocument of verhandelbaar elektronisch vervoerbestand is afgegeven:
 
@@ -638,7 +657,7 @@ Wanneer een niet-verhandelbaar vervoerdocument is afgegeven dat aangeeft dat het
 
 - e. Niettegenstaande het tweede lid, onderdelen b en d, van dit artikel verkrijgt een houder die houder wordt na een dergelijke aflevering en geen kennis had van een dergelijke aflevering op het tijdstip waarop hij houder werd en evenmin redelijkerwijs over deze kennis had kunnen beschikken, de rechten die zijn vervat in het verhandelbare vervoerdocument of verhandelbare elektronische vervoerbestand. Wanneer in de overeenkomstgegevens de verwachte aankomsttijd van de goederen vermeld staat of is aangegeven hoe informatie verkregen kan worden of de goederen zijn afgeleverd, wordt de houder op het tijdstip waarop hij houder werd, vermoed kennis van de aflevering van de goederen te hebben gehad of redelijkerwijs over kennis daarvan te hebben kunnen beschikken.
 
-#### Artikel 48. Niet-afgeleverde goederen
+##### Artikel 48. Niet-afgeleverde goederen
 
 1. Voor de toepassing van dit artikel worden goederen slechts geacht niet te zijn afgeleverd indien, na hun aankomst op de plaats van bestemming:
 
@@ -666,13 +685,13 @@ Wanneer een niet-verhandelbaar vervoerdocument is afgegeven dat aangeeft dat het
 
 5. De vervoerder is niet aansprakelijk voor verlies van of schade aan goederen dat of die optreedt gedurende de tijd dat zij overeenkomstig dit artikel niet zijn afgeleverd, tenzij de rechthebbende bewijst dat het verlies of de schade voortvloeit uit het verzuim van de vervoerder redelijkerwijs van hem te vergen maatregelen te nemen om de goederen te behouden en dat de vervoerder wist of had moeten weten dat het achterwege laten van dergelijke maatregelen tot het verlies van of de schade aan de goederen zou leiden.
 
-#### Artikel 49. Retentie van goederen
+##### Artikel 49. Retentie van goederen
 
 Geen van de bepalingen van dit Verdrag doet afbreuk aan een retentierecht op de goederen dat door de vervoerder of een uitvoerende partij uit hoofde van de vervoerovereenkomst of de toepasselijke wetgeving kan worden uitgeoefend tot zekerheid van de betaling van hetgeen verschuldigd is.
 
 ### HOOFDSTUK 10. RECHTEN VAN DE PARTIJ MET ZEGGENSCHAP
 
-#### Artikel 50. Uitoefening en omvang van de zeggenschap
+##### Artikel 50. Uitoefening en omvang van de zeggenschap
 
 1. De zeggenschap mag uitsluitend worden uitgeoefend door de partij met zeggenschap en is beperkt tot:
 
@@ -684,7 +703,7 @@ Geen van de bepalingen van dit Verdrag doet afbreuk aan een retentierecht op de 
 
 2. De zeggenschap kan worden uitgeoefend gedurende de gehele periode waarin de vervoerder verantwoordelijk is, zoals bepaald in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=4&artikel=12&z=2008-12-11&g=2008-12-11), en eindigt wanneer deze periode verstrijkt.
 
-#### Artikel 51. Identiteit van de partij met zeggenschap en overdracht van de zeggenschap
+##### Artikel 51. Identiteit van de partij met zeggenschap en overdracht van de zeggenschap
 
 1. Behoudens in de in het tweede, derde en vierde lid van dit artikel genoemde gevallen:
 
@@ -716,7 +735,7 @@ Geen van de bepalingen van dit Verdrag doet afbreuk aan een retentierecht op de 
 
 - c. toont de houder, teneinde de zeggenschap uit te oefenen, in overeenstemming met de in [artikel 9, eerst lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=3&artikel=9&z=2008-12-11&g=2008-12-11) bedoelde procedures aan, dat hij de houder is.
 
-#### Artikel 52. Uitvoering van instructies door de vervoerder
+##### Artikel 52. Uitvoering van instructies door de vervoerder
 
 1. Met inachtneming van het tweede en derde lid van dit artikel voert de vervoerder de in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=10&artikel=50&z=2008-12-11&g=2008-12-11) bedoelde instructies uit indien:
 
@@ -732,29 +751,29 @@ Geen van de bepalingen van dit Verdrag doet afbreuk aan een retentierecht op de 
 
 4. Wanneer de vervoerder de instructies van de partij met zeggenschap niet heeft uitgevoerd en daarmee zijn verplichtingen uit hoofde van het eerste lid van dit artikel niet is nagekomen, zijn de [artikelen 17 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=5&artikel=17&z=2008-12-11&g=2008-12-11) van toepassing op zijn aansprakelijkheid voor verlies van of schade aan de goederen of voor vertraging in de aflevering daarvan en zijn de [artikelen 59 tot en met 61](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=12&artikel=59&z=2008-12-11&g=2008-12-11) van toepassing op het bedrag aan schadevergoeding dat de vervoerder dient te betalen.
 
-#### Artikel 53. Als afgeleverd beschouwde goederen
+##### Artikel 53. Als afgeleverd beschouwde goederen
 
 Goederen die zijn afgeleverd volgens een instructie in overeenstemming met [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=10&artikel=52&z=2008-12-11&g=2008-12-11), worden geacht te zijn afgeleverd op de plaats van bestemming en de bepalingen van [hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=9&z=2008-12-11&g=2008-12-11) die betrekking hebben op een dergelijke aflevering zijn van toepassing op deze goederen.
 
-#### Artikel 54. Wijzigingen van de vervoerovereenkomst
+##### Artikel 54. Wijzigingen van de vervoerovereenkomst
 
 1. De partij met zeggenschap is de enige persoon die met de vervoerder wijzigingen van de vervoerovereenkomst kan overeenkomen anders dan de wijzigingen bedoeld in [artikel 50, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=10&artikel=50&z=2008-12-11&g=2008-12-11).
 
 2. Wijzigingen van de vervoerovereenkomst, met inbegrip van die bedoeld in [artikel 50, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=10&artikel=50&z=2008-12-11&g=2008-12-11), worden vermeld in een verhandelbaar vervoerdocument of niet-verhandelbaar vervoerdocument dat overhandigd dient te worden, of worden opgenomen in een verhandelbaar elektronisch vervoerbestand, of worden, op verzoek van de partij met zeggenschap, vermeld in een niet-verhandelbaar vervoerdocument of opgenomen in een niet-verhandelbaar elektronisch vervoerbestand. Dergelijke aldus vermelde of opgenomen wijzigingen worden in overeenstemming met [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=8&artikel=38&z=2008-12-11&g=2008-12-11) ondertekend.
 
-#### Artikel 55. Verstrekken van aanvullende informatie, instructies of documenten aan de vervoerder
+##### Artikel 55. Verstrekken van aanvullende informatie, instructies of documenten aan de vervoerder
 
 1. De partij met zeggenschap verstrekt, op verzoek van de vervoerder of een uitvoerende partij, tijdig informatie, instructies of documenten met betrekking tot de goederen die niet reeds door de afzender is of zijn verstrekt en niet redelijkerwijs op andere wijze voor de vervoerder beschikbaar is of zijn, en die de vervoerder redelijkerwijs nodig kan hebben voor het nakomen van zijn verplichtingen uit hoofde van de vervoerovereenkomst.
 
 2. Indien de vervoerder, na redelijke inspanningen, niet in staat is vast te stellen waar de partij met zeggenschap zich bevindt of de partij met zeggenschap niet in staat is de vervoerder passende informatie, instructies of documenten te verstrekken, worden deze door de afzender verstrekt. Indien de vervoerder, na redelijke inspanningen, niet in staat is vast te stellen waar de afzender zich bevindt, verstrekt de documentaire afzender deze informatie, instructies of documenten.
 
-#### Artikel 56. Overeengekomen afwijking
+##### Artikel 56. Overeengekomen afwijking
 
 De partijen bij de vervoerovereenkomst mogen afwijken van de bepalingen van de [artikelen 50, eerste lid, onderdelen b en c, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=10&artikel=50&z=2008-12-11&g=2008-12-11), en [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=10&artikel=52&z=2008-12-11&g=2008-12-11). De partijen mogen tevens de overdraagbaarheid van de zeggenschap bedoeld in [artikel 51, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=10&artikel=51&z=2008-12-11&g=2008-12-11), beperken of uitsluiten.
 
 ### HOOFDSTUK 11. OVERDRACHT VAN RECHTEN
 
-#### Artikel 57. Overdracht wanneer een verhandelbaar vervoerdocument of verhandelbaar elektronisch vervoerbestand is afgegeven
+##### Artikel 57. Overdracht wanneer een verhandelbaar vervoerdocument of verhandelbaar elektronisch vervoerbestand is afgegeven
 
 1. Wanneer een verhandelbaar vervoerdocument is afgegeven, kan de houder de in het document belichaamde rechten overdragen door het document op de volgende wijze aan een andere persoon over te dragen:
 
@@ -764,7 +783,7 @@ De partijen bij de vervoerovereenkomst mogen afwijken van de bepalingen van de [
 
 2. Wanneer een verhandelbaar elektronisch vervoerbestand is afgegeven, kan de houder de daarin belichaamde rechten overdragen, ongeacht of het aan order of aan de order van een met naam genoemde persoon is gesteld, door het elektronisch vervoerbestand in overeenstemming met de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=3&artikel=9&z=2008-12-11&g=2008-12-11), bedoelde procedures over te dragen.
 
-#### Artikel 58. Verplichtingen van de houder
+##### Artikel 58. Verplichtingen van de houder
 
 1. Onverminderd [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=10&artikel=55&z=2008-12-11&g=2008-12-11) verkrijgt een houder die niet de afzender is en die geen enkel recht uitoefent uit hoofde van de vervoerovereenkomst, geen verplichtingen uit hoofde van de vervoerovereenkomst uitsluitend vanwege het feit dat hij houder is.
 
@@ -778,7 +797,7 @@ De partijen bij de vervoerovereenkomst mogen afwijken van de bepalingen van de [
 
 ### HOOFDSTUK 12. BEPERKING VAN AANSPRAKELIJKHEID
 
-#### Artikel 59. Beperking van aansprakelijkheid
+##### Artikel 59. Beperking van aansprakelijkheid
 
 1. Met inachtneming van de [artikelen 60](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=12&artikel=60&z=2008-12-11&g=2008-12-11) en [61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=12&artikel=61&z=2008-12-11&g=2008-12-11), is de aansprakelijkheid van de vervoerder voor tekortkomingen in de nakoming van zijn verplichtingen uit hoofde van dit Verdrag beperkt tot 875 rekeneenheden per collo of andere laadeenheid, of 3 rekeneenheden per kilogram van het brutogewicht van de goederen die het voorwerp van de vordering of het geschil zijn, naargelang welk bedrag het hoogste is, tenzij de waarde van de goederen door de afzender is aangegeven en in de overeenkomstgegevens is vastgelegd, of wanneer een hoger bedrag dan de aansprakelijkheidsbeperking vervat in dit artikel tussen de vervoerder en de afzender is overeengekomen.
 
@@ -786,11 +805,11 @@ De partijen bij de vervoerovereenkomst mogen afwijken van de bepalingen van de [
 
 3. De rekeneenheid bedoeld in dit artikel is het Bijzondere Trekkingsrecht zoals dit is omschreven door het Internationale Monetaire Fonds. De in dit artikel bedoelde bedragen worden omgerekend in de nationale munteenheid van een Staat overeenkomstig de waarde van de desbetreffende munteenheid op de datum van de uitspraak of op de door de partijen overeengekomen datum. De waarde van de nationale munteenheid, uitgedrukt in Bijzondere Trekkingsrechten, van een Verdragsluitende Staat die lid is van het Internationale Monetaire Fonds, wordt berekend overeenkomstig de waarderingsmethode die door het Internationale Monetaire Fonds op de desbetreffende datum wordt gehanteerd voor zijn eigen verrichtingen en transacties. De waarde van de nationale munteenheid, uitgedrukt in Bijzondere Trekkingsrechten, van een Verdragsluitende Staat die geen lid is van het Internationale Monetaire Fonds, wordt berekend op een door die Verdragsluitende Staat vastgestelde wijze.
 
-#### Artikel 60. Beperking van de aansprakelijkheid voor verlies als gevolg van vertraging
+##### Artikel 60. Beperking van de aansprakelijkheid voor verlies als gevolg van vertraging
 
 Met inachtneming van [artikel 61, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=12&artikel=61&z=2008-12-11&g=2008-12-11), wordt de schadevergoeding voor verlies van of schade aan goederen als gevolg van vertraging overeenkomstig [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=5&artikel=22&z=2008-12-11&g=2008-12-11) berekend en is de aansprakelijkheid voor zuivere vermogensschade als gevolg van vertraging beperkt tot een bedrag gelijk aan twee en een half maal de vracht voor de vertraagde goederen. Het totale bedrag dat ingevolge dit artikel en [artikel 59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=12&artikel=59&z=2008-12-11&g=2008-12-11), verschuldigd is, mag de beperking die ingevolge artikel 59, eerste lid, vastgesteld zou worden voor het volledige verlies van de betrokken goederen niet overschrijden.
 
-#### Artikel 61. Verlies van het recht op beperking van aansprakelijkheid
+##### Artikel 61. Verlies van het recht op beperking van aansprakelijkheid
 
 1. De vervoerder noch één van de in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=5&artikel=18&z=2008-12-11&g=2008-12-11) bedoelde personen kan zich beroepen op de beperking van aansprakelijkheid zoals voorzien in [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=12&artikel=59&z=2008-12-11&g=2008-12-11) of zoals vastgelegd in de vervoerovereenkomst, indien de rechthebbende aantoont dat de schade die het gevolg is van de tekortkoming in de nakoming van de verplichting van de vervoerder uit hoofde van dit Verdrag, toe te rekenen is aan een persoonlijk handelen of nalaten van degene die zich beroept op beperking van zijn aansprakelijkheid, geschied hetzij met het opzet die schade te veroorzaken, hetzij roekeloos en met de wetenschap dat die schade er waarschijnlijk uit zou voortvloeien.
 
@@ -798,7 +817,7 @@ Met inachtneming van [artikel 61, tweede lid](https://wetten.overheid.nl/jci1.3:
 
 ### HOOFDSTUK 13. TERMIJN VOOR HET INSTELLEN VAN RECHTSVORDERINGEN
 
-#### Artikel 62. Duur van de termijn voor het instellen van rechtsvorderingen
+##### Artikel 62. Duur van de termijn voor het instellen van rechtsvorderingen
 
 1. Na het verstrijken van een termijn van twee jaar kunnen geen gerechtelijke procedures of arbitrageprocedures met betrekking tot vorderingen of geschillen die voortvloeien uit een tekortkoming in de nakoming van een verplichting uit hoofde van dit Verdrag aanhangig worden gemaakt.
 
@@ -806,11 +825,11 @@ Met inachtneming van [artikel 61, tweede lid](https://wetten.overheid.nl/jci1.3:
 
 3. Niettegenstaande het verstrijken van de in het eerste lid van dit artikel voorziene termijn, kan een partij de vordering jegens de andere partij inroepen als verweermiddel of ter verrekening.
 
-#### Artikel 63. Verlenging van de termijn voor het instellen van rechtsvorderingen
+##### Artikel 63. Verlenging van de termijn voor het instellen van rechtsvorderingen
 
 De in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=13&artikel=62&z=2008-12-11&g=2008-12-11) voorziene termijn kan niet worden geschorst of gestuit, maar degene tegen wie een vordering is gericht mag deze op elk tijdstip gedurende de loop van de termijn verlengen door middel van een aan de rechthebbende gerichte verklaring. De termijn kan door middel van één of meer verklaringen verder worden verlengd.
 
-#### Artikel 64. Rechtsvordering tot verhaal
+##### Artikel 64. Rechtsvordering tot verhaal
 
 Een rechtsvordering tot verhaal door een persoon die aansprakelijk wordt gesteld, kan ook na het verstrijken van de in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=13&artikel=62&z=2008-12-11&g=2008-12-11) bedoelde termijn worden ingesteld, indien de rechtsvordering tot verhaal wordt ingesteld binnen:
 
@@ -818,7 +837,7 @@ Een rechtsvordering tot verhaal door een persoon die aansprakelijk wordt gesteld
 
 - b. negentig dagen te rekenen vanaf de dag waarop degene die de rechtsvordering tot verhaal instelt ten aanzien van het van hemzelf gevorderde de zaak heeft geregeld of waarop hij te dien aanzien in rechte is aangesproken, naargelang welk geval zich het eerst voordoet.
 
-#### Artikel 65. Rechtsvorderingen tegen de persoon die als vervoerder is geïdentificeerd
+##### Artikel 65. Rechtsvorderingen tegen de persoon die als vervoerder is geïdentificeerd
 
 Een rechtsvordering tegen de rompbevrachter of de persoon die uit hoofde van [artikel 37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=8&artikel=37&z=2008-12-11&g=2008-12-11), als vervoerder is geïdentificeerd, kan worden ingesteld na het verstrijken van de in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=13&artikel=62&z=2008-12-11&g=2008-12-11) voorziene termijn, indien de rechtsvordering wordt ingesteld binnen:
 
@@ -828,7 +847,7 @@ Een rechtsvordering tegen de rompbevrachter of de persoon die uit hoofde van [ar
 
 ### HOOFDSTUK 14. RECHTSMACHT
 
-#### Artikel 66. Rechtsvorderingen tegen de vervoerder
+##### Artikel 66. Rechtsvorderingen tegen de vervoerder
 
 Tenzij in de vervoerovereenkomst een beding van exclusieve forumkeuze is opgenomen dat voldoet aan [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=14&artikel=67&z=2008-12-11&g=2008-12-11) of [72](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=14&artikel=72&z=2008-12-11&g=2008-12-11), heeft de eiser het recht uit hoofde van dit Verdrag een gerechtelijke procedure tegen de vervoerder aanhangig te maken:
 
@@ -844,7 +863,7 @@ Tenzij in de vervoerovereenkomst een beding van exclusieve forumkeuze is opgenom
 
 - b. bij een bevoegde rechter of bevoegde rechters die door de afzender en de vervoerder gezamenlijk zijn aangewezen om te beslissen over vorderingen tegen de vervoerder die uit hoofde van dit Verdrag kunnen ontstaan.
 
-#### Artikel 67. Forumkeuzebeding
+##### Artikel 67. Forumkeuzebeding
 
 1. De bevoegdheid van een in overeenstemming met [artikel 66, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=14&artikel=66&z=2008-12-11&g=2008-12-11), gekozen rechter is voor geschillen tussen de partijen bij de overeenkomst alleen exclusief indien de partijen zulks zijn overeengekomen en het beding waarin de bevoegdheid wordt toegekend:
 
@@ -862,7 +881,7 @@ Tenzij in de vervoerovereenkomst een beding van exclusieve forumkeuze is opgenom
 
 - d. het recht van de aangezochte rechter erkent dat deze persoon gebonden kan zijn aan het beding van exclusieve forumkeuze.
 
-#### Artikel 68. Rechtsvorderingen tegen de maritieme uitvoerende partij
+##### Artikel 68. Rechtsvorderingen tegen de maritieme uitvoerende partij
 
 De eiser is gerechtigd uit hoofde van dit Verdrag een gerechtelijke procedure tegen de maritieme uitvoerende partij aanhangig te maken bij een bevoegde rechter in wiens rechtsgebied zich één van de volgende plaatsen bevindt:
 
@@ -870,11 +889,11 @@ De eiser is gerechtigd uit hoofde van dit Verdrag een gerechtelijke procedure te
 
 - b. de haven waar de goederen door de maritieme uitvoerende partij in ontvangst worden genomen, de haven waar de goederen door de maritieme uitvoerende partij worden afgeleverd of de haven waar de maritieme uitvoerende partij zijn werkzaamheden met betrekking tot de goederen uitvoert.
 
-#### Artikel 69. Geen verdere gronden voor bevoegdheid
+##### Artikel 69. Geen verdere gronden voor bevoegdheid
 
 Met inachtneming van de artikelen 71 en [72](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=14&artikel=72&z=2008-12-11&g=2008-12-11) kunnen geen gerechtelijke procedures uit hoofde van dit Verdrag tegen de vervoerder of een maritieme uitvoerende partij aanhangig worden gemaakt bij een rechter die niet ingevolge [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=14&artikel=66&z=2008-12-11&g=2008-12-11) of [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=14&artikel=68&z=2008-12-11&g=2008-12-11) is aangewezen.
 
-#### Artikel 70. Conservatoir beslag en voorlopige of beschermende maatregelen
+##### Artikel 70. Conservatoir beslag en voorlopige of beschermende maatregelen
 
 Niets in dit Verdrag doet afbreuk aan de bevoegdheid ter zake van voorlopige of beschermende maatregelen, met inbegrip van conservatoir beslag. Een rechter in een Staat waarin een voorlopige of beschermende maatregel is genomen, is niet bevoegd tot het doen van een uitspraak over de zaak ten gronde, tenzij:
 
@@ -882,19 +901,19 @@ Niets in dit Verdrag doet afbreuk aan de bevoegdheid ter zake van voorlopige of 
 
 - b. een internationaal verdrag dat in die Staat van toepassing is, daarin voorziet.
 
-#### Artikel 71. Voeging en intrekking van rechtsvorderingen
+##### Artikel 71. Voeging en intrekking van rechtsvorderingen
 
 1. Behoudens wanneer er een beding van exclusieve forumkeuze is gemaakt dat bindend is ingevolge [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=14&artikel=67&z=2008-12-11&g=2008-12-11) of [72](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=14&artikel=72&z=2008-12-11&g=2008-12-11), mag, indien er één rechtsvordering tegen zowel de vervoerder als de maritieme uitvoerende partij wordt ingesteld die voortvloeit uit één en dezelfde gebeurtenis, deze rechtsvordering uitsluitend bij een rechter worden ingesteld die in overeenstemming met zowel [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=14&artikel=66&z=2008-12-11&g=2008-12-11) als [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=14&artikel=68&z=2008-12-11&g=2008-12-11) is aangewezen. Bij gebreke van een dergelijke rechter, mag deze rechtsvordering worden ingesteld bij een rechter die in overeenstemming met artikel 68, onderdeel b, is aangewezen, indien er een dergelijke rechter is.
 
 2. Behoudens wanneer er een beding van exclusieve forumkeuze is gemaakt dat bindend is ingevolge [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=14&artikel=67&z=2008-12-11&g=2008-12-11) of [72](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=14&artikel=72&z=2008-12-11&g=2008-12-11), trekt een vervoerder of een maritieme uitvoerende partij die een rechtsvordering tot verklaring van niet-aansprakelijkheid instelt of een andere rechtsvordering die een persoon het recht zou ontnemen in overeenstemming met [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=14&artikel=66&z=2008-12-11&g=2008-12-11) of [68](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=14&artikel=68&z=2008-12-11&g=2008-12-11) een forum te kiezen, op verzoek van de verweerder deze rechtsvordering in, zodra de verweerder een in overeenstemming met artikel 66 of 68, al naar gelang, aangewezen rechter heeft gekozen, bij wie de rechtsvordering opnieuw ingesteld kan worden.
 
-#### Artikel 72. Overeenkomst na het ontstaan van een geschil en bevoegdheid indien de verweerder is verschenen
+##### Artikel 72. Overeenkomst na het ontstaan van een geschil en bevoegdheid indien de verweerder is verschenen
 
 1. Na het ontstaan van een geschil kunnen de daarbij betrokken partijen overeenkomen het geschil aan elke bevoegde rechter voor te leggen.
 
 2. Een bevoegde rechter voor wie een verweerder verschijnt zonder zijn bevoegdheid in overeenstemming met de regels van die rechter te betwisten, is bevoegd.
 
-#### Artikel 73. Erkenning en tenuitvoerlegging
+##### Artikel 73. Erkenning en tenuitvoerlegging
 
 1. Een beslissing die in een Verdragsluitende Staat wordt gegeven door een rechter die uit hoofde van dit Verdrag bevoegd is, wordt in een andere Verdragsluitende Staat erkend en ten uitvoer gelegd in overeenstemming met de wetgeving van laatstgenoemde Verdragsluitende Staat wanneer beide Staten een verklaring hebben afgelegd in overeenstemming met [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=14&artikel=74&z=2008-12-11&g=2008-12-11).
 
@@ -902,13 +921,13 @@ Niets in dit Verdrag doet afbreuk aan de bevoegdheid ter zake van voorlopige of 
 
 3. Dit hoofdstuk doet geen afbreuk aan de toepassing van de regels van een regionale organisatie voor economische integratie die partij is bij dit Verdrag ter zake van de erkenning of tenuitvoerlegging van vonnissen tussen de lidstaten van de regionale organisatie voor economische integratie, ongeacht of deze voor of na dit Verdrag zijn aangenomen.
 
-#### Artikel 74. Toepassing van [hoofdstuk 14](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=14&z=2008-12-11&g=2008-12-11)
+##### Artikel 74. Toepassing van [hoofdstuk 14](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=14&z=2008-12-11&g=2008-12-11)
 
 De bepalingen van dit hoofdstuk zijn slechts verbindend voor de Verdragsluitende Staten die in overeenstemming met [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=18&artikel=91&z=2008-12-11&g=2008-12-11) hebben verklaard hierdoor gebonden te worden.
 
 ### HOOFDSTUK 15. ARBITRAGE
 
-#### Artikel 75. Arbitrageovereenkomsten
+##### Artikel 75. Arbitrageovereenkomsten
 
 1. Met inachtneming van dit hoofdstuk kunnen de partijen overeenkomen dat elk geschil dat mocht ontstaan over het vervoer van goederen uit hoofde van dit Verdrag aan arbitrage wordt onderworpen.
 
@@ -944,7 +963,7 @@ De bepalingen van dit hoofdstuk zijn slechts verbindend voor de Verdragsluitende
 
 5. De bepalingen van het eerste, tweede, derde en vierde lid van dit artikel worden geacht deel uit te maken van elke arbitrageclausule of -overeenkomst en elke bepaling in die clausule of overeenkomst voor zover die hiermee onverenigbaar is, is nietig.
 
-#### Artikel 76. Arbitrageoverenkomst in de niet-lijnvaart
+##### Artikel 76. Arbitrageoverenkomst in de niet-lijnvaart
 
 1. Niets in dit Verdrag doet afbreuk aan het verbindend karakter van een arbitrageovereenkomst in een vervoerovereenkomst in de niet-lijnvaart waarop dit Verdrag of de bepalingen daarvan van toepassing zijn vanwege:
 
@@ -958,17 +977,17 @@ De bepalingen van dit hoofdstuk zijn slechts verbindend voor de Verdragsluitende
 
 - b. door middel van een specifieke verwijzing de clausule uit de bevrachtingsovereenkomst of andere overeenkomst is opgenomen waarin de inhoud van de arbitrageovereenkomst vermeld staat.
 
-#### Artikel 77. Arbitrageovereenkomst na het ontstaan van een geschil
+##### Artikel 77. Arbitrageovereenkomst na het ontstaan van een geschil
 
 Niettegenstaande de bepalingen van dit hoofdstuk en van [hoofdstuk 14](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=14&z=2008-12-11&g=2008-12-11), kunnen, na het ontstaan van een geschil, de partijen bij dat geschil overeenkomen het geschil op elke plaats aan arbitrage te onderwerpen.
 
-#### Artikel 78. Toepassing van [hoofdstuk 15](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=15&z=2008-12-11&g=2008-12-11)
+##### Artikel 78. Toepassing van [hoofdstuk 15](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=15&z=2008-12-11&g=2008-12-11)
 
 De bepalingen van dit hoofdstuk zijn slechts verbindend voor de Verdragsluitende Staten die in overeenstemming met [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=18&artikel=91&z=2008-12-11&g=2008-12-11) hebben verklaard hierdoor gebonden te worden.
 
 ### HOOFDSTUK 16. GELDIGHEID VAN CONTRACTUELE BEPALINGEN
 
-#### Artikel 79. Algemene bepalingen
+##### Artikel 79. Algemene bepalingen
 
 1. Tenzij in dit Verdrag anders is bepaald, is elke bepaling in een vervoerovereenkomst nietig voor zover deze:
 
@@ -984,7 +1003,7 @@ De bepalingen van dit hoofdstuk zijn slechts verbindend voor de Verdragsluitende
 
 - b. direct of indirect de aansprakelijkheid van de afzender, geadresseerde, partij met zeggenschap, houder of documentaire afzender voor tekortkomingen in de nakoming van zijn of haar verplichtingen uit hoofde van dit Verdrag uitsluit, beperkt of uitbreidt.
 
-#### Artikel 80. Bijzondere regels voor volumeovereenkomsten
+##### Artikel 80. Bijzondere regels voor volumeovereenkomsten
 
 1. Niettegenstaande [artikel 79](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=16&artikel=79&z=2008-12-11&g=2008-12-11) kan, in de betrekkingen tussen de vervoerder en de afzender, een volumeovereenkomst waarop dit Verdrag van toepassing is voorzien in meer of minder rechten, verplichtingen en aansprakelijkheden dan door dit Verdrag opgelegd.
 
@@ -1014,7 +1033,7 @@ De bepalingen van dit hoofdstuk zijn slechts verbindend voor de Verdragsluitende
 
 6. De bewijslast dat aan de voorwaarden voor de afwijking is voldaan, rust op de partij die zich op de afwijking beroept.
 
-#### Artikel 81. Bijzondere regels voor levende dieren en bepaalde andere goederen
+##### Artikel 81. Bijzondere regels voor levende dieren en bepaalde andere goederen
 
 Niettegenstaande [artikel 79](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=16&artikel=79&z=2008-12-11&g=2008-12-11) en onverminderd [artikel 80](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=16&artikel=80&z=2008-12-11&g=2008-12-11) kunnen de verplichtingen of de aansprakelijkheid van zowel de vervoerder als een maritieme uitvoerende partij in de vervoerovereenkomst worden uitgesloten of beperkt indien:
 
@@ -1024,7 +1043,7 @@ Niettegenstaande [artikel 79](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&ho
 
 ### HOOFDSTUK 17. AANGELEGENHEDEN WAAROP DIT VERDRAG NIET VAN TOEPASSING IS
 
-#### Artikel 82. Verdragen inzake het vervoer van goederen op andere wijze
+##### Artikel 82. Verdragen inzake het vervoer van goederen op andere wijze
 
 Niets in dit Verdrag doet afbreuk aan de toepassing van de volgende verdragen die van kracht zijn op het tijdstip van inwerkingtreding van dit Verdrag, met inbegrip van toekomstige wijzigingen van deze verdragen, en die de aansprakelijkheid van de vervoerder voor het verlies van of de schade aan de goederen regelen:
 
@@ -1036,19 +1055,19 @@ Niets in dit Verdrag doet afbreuk aan de toepassing van de volgende verdragen di
 
 - d. een verdrag dat van toepassing is op het vervoer van goederen over binnenwateren voor zover dat verdrag, overeenkomstig de bepalingen ervan, van toepassing is op het vervoer van goederen zonder overlading zowel over binnenwateren als over zee.
 
-#### Artikel 83. Globale beperking van de aansprakelijkheid
+##### Artikel 83. Globale beperking van de aansprakelijkheid
 
 Niets in dit Verdrag doet afbreuk aan de toepassing van een verdrag of nationaal recht inzake de globale beperking van de aansprakelijkheid van scheepseigenaren.
 
-#### Artikel 84. Averij-grosse
+##### Artikel 84. Averij-grosse
 
 Niets in dit Verdrag doet afbreuk aan de toepassing van de bepalingen van de vervoerovereenkomst of de bepalingen van nationaal recht inzake het regelen van averij-grosse.
 
-#### Artikel 85. Passagiers en bagage
+##### Artikel 85. Passagiers en bagage
 
 Dit Verdrag is niet van toepassing op een overeenkomst van vervoer van passagiers en hun bagage.
 
-#### Artikel 86. Schade veroorzaakt door een kernongeval
+##### Artikel 86. Schade veroorzaakt door een kernongeval
 
 Geen aansprakelijkheid ontstaat uit hoofde van dit Verdrag voor schade veroorzaakt door een kernongeval indien de exploitant van een kerninstallatie voor deze schade aansprakelijk is:
 
@@ -1058,11 +1077,11 @@ Geen aansprakelijkheid ontstaat uit hoofde van dit Verdrag voor schade veroorzaa
 
 ### HOOFDSTUK 18. SLOTBEPALINGEN
 
-#### Artikel 87. Depositaris
+##### Artikel 87. Depositaris
 
 De Secretaris-Generaal van de Verenigde Naties wordt hierbij aangewezen als depositaris van dit Verdrag.
 
-#### Artikel 88. Ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding
+##### Artikel 88. Ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding
 
 1. Dit Verdrag staat open voor ondertekening voor alle Staten op 23 september 2009 te Rotterdam, Nederland, en vervolgens op het Hoofdkwartier van de Verenigde Naties te New York.
 
@@ -1072,7 +1091,7 @@ De Secretaris-Generaal van de Verenigde Naties wordt hierbij aangewezen als depo
 
 4. De akten van bekrachtiging, aanvaarding, goedkeuring en toetreding worden nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
 
-#### Artikel 89. Opzegging van andere verdragen
+##### Artikel 89. Opzegging van andere verdragen
 
 1. Een Staat die dit Verdrag bekrachtigt, aanvaardt, goedkeurt of ertoe toetreedt en partij is bij het Verdrag ter vaststelling van enige eenvormige regelen betreffende het cognossement, ondertekend te Brussel op 25 augustus 1924, bij het Protocol tot wijziging van het Internationale Verdrag ter vaststelling van enige eenvormige regelen betreffende het cognossement, ondertekend te Brussel op 23 februari 1968, of bij het Protocol tot wijziging van het Internationale Verdrag ter vaststelling van enige eenvormige regelen betreffende het cognossement, zoals gewijzigd bij het Protocol van 23 februari 1968, ondertekend te Brussel op 21 december 1979, zegt tegelijkertijd dat verdrag en het protocol of de protocollen daarbij waar de Staat partij bij is, op door de Regering van België hiervan in kennis te stellen, daarbij verklarend dat de opzegging dient in te gaan op de datum waarop dit Verdrag voor de desbetreffende Staat in werking treedt.
 
@@ -1080,11 +1099,11 @@ De Secretaris-Generaal van de Verenigde Naties wordt hierbij aangewezen als depo
 
 3. Ten behoeve van de toepassing van dit artikel hebben bekrachtigingen, aanvaardingen, goedkeuringen en toetredingen ten aanzien van dit Verdrag die door Staten die partij zijn bij de in het eerste en tweede lid van dit artikel genoemde instrumenten ter kennis van de depositaris worden gebracht na de inwerkingtreding van dit Verdrag geen gevolg voordat de eventueel benodigde opzeggingen van deze Staten van deze instrumenten van kracht zijn geworden. De depositaris van dit Verdrag overlegt met de Regering van België, als depositaris van de in het eerste lid van dit artikel genoemde instrumenten, teneinde op dit gebied voor de noodzakelijke coördinatie te zorgen.
 
-#### Artikel 90. Voorbehouden
+##### Artikel 90. Voorbehouden
 
 Ten aanzien van dit Verdrag kunnen geen voorbehouden worden gemaakt.
 
-#### Artikel 91. Procedure en rechtsgevolgen van verklaringen
+##### Artikel 91. Procedure en rechtsgevolgen van verklaringen
 
 1. De krachtens de [artikelen 74](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=14&artikel=74&z=2008-12-11&g=2008-12-11) en [78](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=15&artikel=78&z=2008-12-11&g=2008-12-11) toegestane verklaringen kunnen te allen tijde worden afgelegd. De krachtens [artikel 92, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=18&artikel=92&z=2008-12-11&g=2008-12-11), en [artikel 93, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005538&hoofdstuk=18&artikel=93&z=2008-12-11&g=2008-12-11), toegestane eerste verklaringen worden afgelegd op het tijdstip van ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding. Andere verklaringen zijn niet toegestaan krachtens dit Verdrag.
 
@@ -1096,7 +1115,7 @@ Ten aanzien van dit Verdrag kunnen geen voorbehouden worden gemaakt.
 
 5. Een Staat die krachtens dit Verdrag een verklaring aflegt mag deze te allen tijde intrekken door middel van een formele schriftelijke kennisgeving gericht aan de depositaris. De intrekking van een verklaring, of de aanpassing ervan wanneer dat door dit Verdrag wordt toegestaan, wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van zes maanden na de datum van ontvangst van de kennisgeving door de depositaris.
 
-#### Artikel 92. Rechtsgevolgen in nationale territoriale eenheden
+##### Artikel 92. Rechtsgevolgen in nationale territoriale eenheden
 
 1. Indien een Verdragsluitende Staat twee of meer territoriale eenheden heeft waarin verschillende rechtsstelsels van toepassing zijn ter zake van de in dit Verdrag geregelde aangelegenheden, kan hij op het tijdstip van ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding verklaren dat dit Verdrag op al deze territoriale eenheden of slechts op één of meer daarvan van toepassing is en kan hij deze verklaring te allen tijde wijzigen door een nieuwe verklaring af te leggen.
 
@@ -1106,7 +1125,7 @@ Ten aanzien van dit Verdrag kunnen geen voorbehouden worden gemaakt.
 
 4. Indien een Staat geen verklaring aflegt krachtens het eerste lid van dit artikel, is het Verdrag van toepassing op alle territoriale eenheden van die Staat.
 
-#### Artikel 93. Deelname door regionale organisaties voor economische integratie
+##### Artikel 93. Deelname door regionale organisaties voor economische integratie
 
 1. Een regionale organisatie voor economische integratie die door soevereine Staten is ingesteld en bevoegd is ter zake van bepaalde door dit Verdrag beheerste aangelegenheden, kan dit Verdrag eveneens ondertekenen, aanvaarden, bekrachtigen, goedkeuren of ertoe toetreden. De regionale organisatie voor economische integratie heeft in dat geval de rechten en verplichtingen van een Verdragsluitende Staat, voor zover de organisatie bevoegd is ter zake van de aangelegenheden waarop dit Verdrag van toepassing is. Indien het aantal Verdragsluitende Staten in dit Verdrag van belang is, telt de organisatie voor regionale economische integratie niet als een Verdragsluitende Staat die Partij is naast haar lidstaten die Verdragsluitende Staten zijn.
 
@@ -1114,7 +1133,7 @@ Ten aanzien van dit Verdrag kunnen geen voorbehouden worden gemaakt.
 
 3. Elke verwijzing in dit Verdrag naar „Verdragsluitende Staat” of „Verdragsluitende Staten” is, indien de context zulks vereist, eveneens van toepassing op een regionale organisatie voor economische integratie.
 
-#### Artikel 94. Inwerkingtreding
+##### Artikel 94. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking op de eerste dag van de maand die volgt op het verstrijken van een jaar na de datum van nederlegging van de twintigste akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
 
@@ -1122,13 +1141,13 @@ Ten aanzien van dit Verdrag kunnen geen voorbehouden worden gemaakt.
 
 3. Dit Verdrag wordt door elke Verdragsluitende Staat toegepast op alle vervoerovereenkomsten die worden gesloten op of na de datum waarop dit Verdrag voor de betrokken Staat in werking treedt.
 
-#### Artikel 95. Herziening en wijziging
+##### Artikel 95. Herziening en wijziging
 
 1. Op verzoek van ten minste een derde van de Verdragsluitende Staten die Partij zijn bij dit Verdrag roept de Secretaris-Generaal van de Verenigde Naties een conferentie van de Verdragsluitende Staten bijeen ten behoeve van herziening of wijziging van dit Verdrag.
 
 2. Een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding die wordt nedergelegd na de inwerkingtreding van een wijziging van dit Verdrag wordt geacht betrekking te hebben op het Verdrag zoals gewijzigd.
 
-#### Artikel 96. Opzegging van dit Verdrag
+##### Artikel 96. Opzegging van dit Verdrag
 
 1. Elke Verdragsluitende Staat kan dit Verdrag te allen tijde opzeggen door middel van een schriftelijke kennisgeving gericht aan de depositaris.
 

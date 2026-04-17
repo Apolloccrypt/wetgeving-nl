@@ -1,13 +1,39 @@
 ---
-title: "Regeling aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (experiment bekostiging regionale eerstelijns samenwerkingsverbanden)"
+title: "Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 15 december 2025, kenmerk 4315206-1091945-PZO, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake het experiment bekostiging van regionale eerstelijns samenwerkingsverbanden"
 identifier: "BWBR0052157"
-categorie: "Sociaal recht"
-publicatiedatum: 2025-12-19
-laatste_update: 2025-12-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052157"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-12-19"
+last_updated: "2025-12-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052157"
+soort: "ministeriele-regeling"
+stam_id: "17729663"
+version_id: "31288662"
+internal_id: "C44734741"
+label_id: "17628214"
+dtd_version: "2.0"
+original_entry_into_force: "2025-12-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052157/2025-12-19/0"
+intitule_bron: "Stcrt.2025-44153"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-12-15"
+intitule_published: "2025-12-19"
+intitule_in_force: "2025-12-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-44153"
+original_signed_date: "2025-12-15"
+original_published_date: "2025-12-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-44153"
+entry_into_force_date: "2025-12-19"
+jci_1_3: "jci1.3:c:BWBR0052157&z=2025-12-19&g=2025-12-19"
+jci_1_0: "1.0:c:BWBR0052157&g=2025-12-19"
+citeertitel_status: "redactioneel"
+short_title: "Regeling aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (experiment bekostiging regionale eerstelijns samenwerkingsverbanden)"
+signed_date: "2025-12-15"
+entry_into_force: "2025-12-19"
 ---
-
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 15 december 2025, kenmerk 4315206-1091945-PZO, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake het experiment bekostiging van regionale eerstelijns samenwerkingsverbanden
 
 Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
@@ -16,7 +42,7 @@ Na op 10 november 2025 schriftelijk mededeling te hebben gedaan aan de Eerste en
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze aanwijzing wordt verstaan onder:
 
@@ -40,7 +66,7 @@ In deze aanwijzing wordt verstaan onder:
 
 - h). **zorgautoriteit:** Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3).
 
-#### Artikel 2. Werkingssfeer
+##### Artikel 2. Werkingssfeer
 
 Deze aanwijzing is van toepassing op RESV-activiteiten.
 
@@ -62,11 +88,11 @@ De hechte wijkverbanden kennen twee taken, in de Visie eerstelijnszorg 2030 en d
 
 - 2). gestructureerd ontwikkelingen bespreken en knelpunten verzamelen in de wijk.
 
-#### Artikel 3. Opdracht experiment
+##### Artikel 3. Opdracht experiment
 
 De zorgautoriteit voorziet met ingang van 1 januari 2027 in een experiment voor de bekostiging van RESV-activiteiten.
 
-#### Artikel 4. Uitgangspunten experiment
+##### Artikel 4. Uitgangspunten experiment
 
 1. Doel van het experiment is om door middel van een prestatiebeschrijving zorgaanbieders de mogelijkheid te geven om invulling te geven aan de RESV-activiteiten die bijdragen aan de toegankelijkheid en kwaliteit van de zorg in de eerste lijn.
 
@@ -84,11 +110,11 @@ De zorgautoriteit voorziet met ingang van 1 januari 2027 in een experiment voor 
 
 6. De zorgautoriteit informeert de Minister onmiddellijk indien zij het niet langer verantwoord vindt het experiment onveranderd voort te zetten.
 
-#### Artikel 5. Looptijd
+##### Artikel 5. Looptijd
 
 Het experiment heeft een looptijd van maximaal vijf jaar en eindigt uiterlijk op 1 januari 2032.
 
-#### Artikel 6. Evaluatie en rapportage
+##### Artikel 6. Evaluatie en rapportage
 
 De zorgautoriteit evalueert de effecten van het experiment jaarlijks overeenkomstig het bepaalde in [artikel 58, zesde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=58). Daarnaast rapporteert de zorgautoriteit over de uitslag van het experiment overeenkomstig het bepaalde in artikel 58, zevende lid van de wet. De zorgautoriteit heeft de ruimte hier zelf invulling aan te geven maar rapporteert in elk geval wel jaarlijks over de voortgang van het experiment en de praktische invulling die eraan wordt gegeven met inbegrip van:
 

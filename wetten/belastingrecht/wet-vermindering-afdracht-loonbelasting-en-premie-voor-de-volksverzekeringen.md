@@ -1,14 +1,42 @@
 ---
-title: "Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen"
+title: "Wet van 15 december 1995, houdende vermindering afdracht loonbelasting en premie voor de volksverzekeringen"
 identifier: "BWBR0007746"
-categorie: "Belastingrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007746"
+country: "nl"
+rank: "wet"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007746"
+soort: "wet"
+stam_id: "372733"
+version_id: "27347242"
+internal_id: "C38625631"
+label_id: "364814"
+dtd_version: "2.0"
+original_entry_into_force: "2021-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007746/2026-01-01/0"
+intitule_bron: "Stb.1995-635"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-12-15"
+intitule_published: "1995-12-27"
+intitule_in_force: "1995-12-27"
+intitule_status: "goed"
+original_publication: "Stb.2020-540"
+original_signed_date: "2020-12-16"
+original_published_date: "2020-12-23"
+original_effect: "structuurwijziging"
+original_dossier: "35572"
+original_url_id: "stb-2020-540"
+entry_into_force_date: "2021-01-01"
+entry_into_force_dossier: "35572"
+jci_1_3: "jci1.3:c:BWBR0007746&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0007746&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen"
+signed_date: "2020-12-16"
+entry_into_force: "2021-01-01"
 ---
-
-# Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen
+# Wet van 15 december 1995, houdende vermindering afdracht loonbelasting en premie voor de volksverzekeringen
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +46,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk I. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -148,7 +176,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 5. De ministeriële regelingen, bedoeld in deze wet, worden, voor zover niet anders is bepaald, uitgevaardigd door Onze Minister, wat betreft de regelingen, bedoeld in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VII&artikel=17&z=2026-01-01&g=2026-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VII&artikel=18&z=2026-01-01&g=2026-01-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VII&artikel=20&z=2026-01-01&g=2026-01-01), in overeenstemming met Onze Minister van Infrastructuur en Waterstaat en Onze Minister van Sociale Zaken en Werkgelegenheid.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Werknemer is de natuurlijke persoon die tot een inhoudingsplichtige in privaatrechtelijke of publiekrechtelijke dienstbetrekking staat.
 
@@ -158,7 +186,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk II. Verminderingen af te dragen loonbelasting en premie voor de volksverzekeringen
 
-#### Artikel 3
+##### Artikel 3
 
 1. De inhoudingsplichtige kan de over een tijdvak af te dragen loonbelasting, dan wel af te dragen loonbelasting en premie voor de volksverzekeringen verminderen, doch niet verder dan tot nihil, met:
 
@@ -170,95 +198,95 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 3. De afdrachtvermindering zeevaart komt in mindering op de af te dragen loonbelasting en premie voor de volksverzekeringen.
 
-#### Artikel 4
+##### Artikel 4
 
 Voor zover loon in aanmerking is genomen voor de toepassing van de S&O-afdrachtvermindering vindt de afdrachtvermindering zeevaart geen toepassing.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De afdrachtvermindering zeevaart beloopt een bedrag te bepalen op de voet van [hoofdstuk VII](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VII&z=2026-01-01&g=2026-01-01).
 
 2. De S&O-afdrachtvermindering beloopt een bedrag te bepalen op de voet van [hoofdstuk VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
 ### Hoofdstuk III. Afdrachtvermindering lage lonen
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 7a
+##### Artikel 7a
 
 Vervallen
 
 ### Hoofdstuk IV. Afdrachtvermindering langdurig werklozen
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
 ### Hoofdstuk V. Afdrachtvermindering onderwijs
 
-#### Artikel 13a
+##### Artikel 13a
 
 Vervallen
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
 ### Hoofdstuk VA. Afdrachtvermindering scholing
 
-#### Artikel 15a
+##### Artikel 15a
 
 Vervallen
 
 ### Hoofdstuk VI. Afdrachtvermindering kinderopvang
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
-#### Artikel 16a
+##### Artikel 16a
 
 Vervallen
 
 ### Hoofdstuk VIA. Afdrachtvermindering betaald ouderschapsverlof
 
-#### Artikel 16b
+##### Artikel 16b
 
 Vervallen
 
 ### Hoofdstuk VII. Afdrachtvermindering zeevaart
 
-#### Artikel 17
+##### Artikel 17
 
 1. De afdrachtvermindering zeevaart is van toepassing met betrekking tot zeevarenden. De afdrachtvermindering beloopt een bedrag ter grootte van het in het tweede lid genoemde percentage van het loon van de zeevarenden in het loontijdvak. Bij zeevarenden op schepen bestemd voor baggerwerkzaamheden, onderscheidenlijk schepen bestemd voor sleep- en hulpverleningswerkzaamheden wordt als loon niet in aanmerking genomen het gedeelte van het loon dat toerekenbaar is aan andere werkzaamheden dan vervoer van opgebaggerd materiaal over zee, onderscheidenlijk andere werkzaamheden dan sleep- en hulpverleningswerkzaamheden op zee.
 
@@ -272,7 +300,7 @@ Vervallen
 
 4. Uiterlijk binnen drie maanden na het tijdstip waarop de krachtens het derde lid vastgestelde ministeriële regeling in werking treedt, wordt een voorstel van wet tot goedkeuring van die regeling aan de Tweede Kamer der Staten-Generaal gezonden. Indien het voorstel wordt ingetrokken of indien een van de Kamers der Staten-Generaal besluit tot het niet aannemen van het voorstel, worden bij ministeriële regeling de krachtens het derde lid vervangen percentages met ingang van het eerstvolgende kalenderkwartaal vervangen door de percentages zoals die golden onmiddellijk vóór het in de eerste volzin bedoelde tijdstip.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Volgens bij ministeriële regeling te stellen regels maakt de inhoudingsplichtige per loontijdvak een berekening van het in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VII&artikel=17&z=2026-01-01&g=2026-01-01), bedoelde loon alsmede het gedeelte van dat loon dat niet in aanmerking is genomen en van het bedrag van de afdrachtvermindering zeevaart.
 
@@ -290,17 +318,17 @@ Vervallen
 
 6. Bij ministeriële regeling kunnen regels worden gesteld ten aanzien van de in dit artikel genoemde verplichtingen.
 
-#### Artikel 19
+##### Artikel 19
 
 Indien de inhoudingsplichtige niet voldoet aan de in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VII&artikel=18&z=2026-01-01&g=2026-01-01) bedoelde verplichtingen, wordt de afdrachtvermindering zeevaart geacht ten onrechte te hebben plaatsgevonden.
 
-#### Artikel 20
+##### Artikel 20
 
 Bij ministeriële regeling kunnen regels worden gesteld ter bevordering van een goede uitvoering van dit hoofdstuk.
 
 ### Hoofdstuk VIII. S&O-afdrachtvermindering
 
-#### Artikel 21
+##### Artikel 21
 
 1. De S&O-afdrachtvermindering is met betrekking tot een aangiftetijdvak van toepassing indien de S&O-inhoudingsplichtige beschikt over een of meerdere ten name van hem afgegeven S&O-verklaringen die betrekking hebben op dit aangiftetijdvak. Het totaal van de S&O-afdrachtvermindering beloopt de bij die S&O-verklaringen ter zake vastgestelde bedragen.
 
@@ -308,7 +336,7 @@ Bij ministeriële regeling kunnen regels worden gesteld ter bevordering van een 
 
 3. Ingeval na afloop van het kalenderjaar waarop een of meerdere S&O-verklaringen betrekking hebben een nog niet verrekend bedrag aan S&O-afdrachtvermindering resteert, wordt dit bedrag verrekend met de loonbelasting en de premie voor de volksverzekeringen die zijn verschuldigd over een aangiftetijdvak binnen het kalenderjaar waarop die S&O-verklaringen betrekking hebben. De aangifte over dat aangiftetijdvak wordt voor de toepassing van [artikel 28a van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=28a) aangemerkt als een onjuiste of onvolledige aangifte.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De S&O-inhoudingsplichtige mag voor een aaneengesloten periode van ten minste drie kalendermaanden binnen een kalenderjaar, die loopt tot en met 31 december van dat kalenderjaar, een S&O-verklaring aanvragen en in totaal voor niet meer dan vier perioden per kalenderjaar.
 
@@ -318,7 +346,7 @@ Bij ministeriële regeling kunnen regels worden gesteld ter bevordering van een 
 
 4. De aanvraag wordt in de situatie waarin de S&O-inhoudingsplichtige in het S&O-referentiejaar speur- en ontwikkelingswerk heeft verricht waarvoor een S&O-verklaring is verstrekt, slechts in behandeling genomen indien hij uiterlijk bij de indiening van de aanvraag opgave heeft gedaan van de burgerservicenummers van zijn werknemers die dat speur- en ontwikkelingswerk hebben verricht.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Onze Minister van Economische Zaken en Klimaat verstrekt aan een S&O-inhoudingsplichtige die voornemens is in een periode van een kalenderjaar speur- en ontwikkelingswerk te verrichten, op zijn aanvraag op de voet van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=22&z=2026-01-01&g=2026-01-01) een S&O-verklaring.
 
@@ -360,7 +388,7 @@ vermeerderd met 20 percent van de som van de bedragen, bedoeld in de onderdelen 
 
 9. Kosten en uitgaven kunnen slechts bij één S&O-inhoudingsplichtige tot het bedrag, bedoeld in het derde lid, onderdeel b, gerekend worden.
 
-#### Artikel 24
+##### Artikel 24
 
 1. De S&O-inhoudingsplichtige aan wie een S&O-verklaring is afgegeven, houdt een overeenkomstig bij regeling van Onze Minister van Economische Zaken en Klimaat vast te stellen regels ingerichte administratie bij omtrent de aard, de inhoud, de omvang en de voortgang van het werk dat in de verklaring is aangemerkt als speur- en ontwikkelingswerk. Ingeval aan de S&O-inhoudingsplichtige een S&O-verklaring is afgegeven die ook een bedrag aan kosten en uitgaven als bedoeld in [artikel 23, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=23&z=2026-01-01&g=2026-01-01), bevat, houdt de S&O-inhoudingsplichtige ook een overeenkomstig bij regeling van Onze Minister van Economische Zaken en Klimaat vast te stellen regels ingerichte administratie bij omtrent de in de verklaring omschreven kosten en uitgaven die zijn gemaakt voor het speur- en ontwikkelingswerk waarvoor hij de verklaring heeft ontvangen.
 
@@ -370,7 +398,7 @@ vermeerderd met 20 percent van de som van de bedragen, bedoeld in de onderdelen 
 
 4. Bij het eindigen van de inhoudingsplicht vóór het tijdstip, bedoeld in het derde lid, wordt in afwijking van dat lid de mededeling gedaan binnen één kalendermaand nadat de inhoudingsplicht is geëindigd.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Onze Minister van Economische Zaken en Klimaat geeft aan de S&O-inhoudingsplichtige die de mededeling, bedoeld in [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=24&z=2026-01-01&g=2026-01-01), heeft gedaan, zo nodig een correctie-S&O-verklaring af voor alle op het kalenderjaar betrekking hebbende S&O-verklaringen gezamenlijk, waarbij hij het bedrag van de correctie-S&O-verklaring vaststelt op basis van de voor dat kalenderjaar toegekende uren, kosten en uitgaven, maar volgens die mededeling niet-bestede uren en niet-gerealiseerde kosten en uitgaven.
 
@@ -384,7 +412,7 @@ vermeerderd met 20 percent van de som van de bedragen, bedoeld in de onderdelen 
 
 4. Een bedrag vastgesteld bij een correctie-S&O-verklaring komt zoveel mogelijk in mindering op het bij één of meer S&O-verklaringen waarop de correctie-S&O-verklaring betrekking heeft, vastgestelde bedrag aan S&O-afdrachtvermindering dat nog niet in mindering is gebracht op de af te dragen belasting en premie. Voorzover dat niet mogelijk is, is sprake van een negatieve S&O-afdrachtvermindering welke er toe leidt dat de over het aangiftetijdvak waarin de correctie-S&O-verklaring is gedagtekend of het daaropvolgende aangiftetijdvak af te dragen loonbelasting, dan wel af te dragen loonbelasting en premie voor de volksverzekeringen, wordt vermeerderd met dat bedrag aan negatieve S&O-afdrachtvermindering.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Bij overtreding van het bij of krachtens [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=24&z=2026-01-01&g=2026-01-01), bepaalde of indien sprake is van het geval, bedoeld in [artikel 25, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=25&z=2026-01-01&g=2026-01-01), kan Onze Minister van Economische Zaken en Klimaat aan de S&O-inhoudingsplichtige een bestuurlijke boete opleggen ter hoogte van maximaal € 100 000, of, wanneer dat meer is, 20% van het in de S&O-verklaring als afdrachtvermindering vastgestelde bedrag.
 
@@ -396,13 +424,13 @@ vermeerderd met 20 percent van de som van de bedragen, bedoeld in de onderdelen 
 
 ### Hoofdstuk VIIIA. Arbo-afdrachtvermindering
 
-#### Artikel 26a
+##### Artikel 26a
 
 Vervallen
 
 ### Hoofdstuk IX. Bestuurlijke boeten inzake speur- en ontwikkelingswerk
 
-#### Artikel 27
+##### Artikel 27
 
 1. Aan een S&O-belastingplichtige die voornemens is in een kalenderjaar ten minste 500 uren van zijn voor werkzaamheden beschikbare tijd te besteden aan speur- en ontwikkelingswerk geeft Onze Minister van Economische Zaken en Klimaat op aanvraag een S&O-verklaring af.
 
@@ -430,13 +458,13 @@ Vervallen
 
 8. Een aanvraag als bedoeld in het eerste lid en een mededeling als bedoeld in het vierde lid geschieden uitsluitend langs elektronische weg met gebruikmaking van de hiervoor door Onze Minister van Economische Zaken en Klimaat beschikbaar gestelde voorziening en door opvolging van de daarbij opgenomen aanwijzingen. Daarbij kan worden afgeweken van de [artikelen 2:7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:7), en [2:8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:8).
 
-#### Artikel 28
+##### Artikel 28
 
 1. De in de [artikelen 47 tot en met 51](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=47) en [53, eerste en vierde lid, tot en met 56 van Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=53) jegens de inspecteur opgelegde verplichtingen gelden mede jegens de door Onze Minister van Economische Zaken en Klimaat met betrekking tot de toepassing van in dit hoofdstuk aangewezen ambtenaren.
 
 2. De [artikelen 68](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=68), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=69) en [72 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=72) zijn van overeenkomstige toepassing.
 
-#### Artikel 29
+##### Artikel 29
 
 Teneinde zo veel mogelijk evenwicht te bereiken tussen de S&O-afdrachtverminderingen en het hiervoor in de rijksbegroting opgenomen bedrag, kan bij regeling van Onze Minister van Economische Zaken en Klimaat, onder overeenkomstige aanpassing van dit artikel, met ingang van 1 januari van enig jaar:
 
@@ -450,7 +478,7 @@ Teneinde zo veel mogelijk evenwicht te bereiken tussen de S&O-afdrachtverminderi
 
 ### Hoofdstuk XI. Aanvullende regelingen
 
-#### Artikel 30
+##### Artikel 30
 
 1. De [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320), met uitzondering van de [artikelen 63](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) en [67](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67), is niet van toepassing met betrekking tot de uitvoering van deze wet door andere dan de in [artikel 2, derde lid, onderdelen a en b, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2) genoemde bestuursorganen.
 
@@ -462,79 +490,79 @@ Teneinde zo veel mogelijk evenwicht te bereiken tussen de S&O-afdrachtverminderi
 
 ### Hoofdstuk IX. Bestuurlijke boeten inzake speur- en ontwikkelingswerk
 
-#### Artikel 30a
+##### Artikel 30a
 
 Vervallen
 
-#### Artikel 31
+##### Artikel 31
 
 Vervallen
 
-#### Artikel 32
+##### Artikel 32
 
 Ter bevordering van een goede uitvoering van deze wet kunnen bij ministeriële regeling nadere regels worden gesteld.
 
 ### Hoofdstuk XI. Aanvullende regelingen
 
-#### Artikel 33
+##### Artikel 33
 
 Vervallen
 
-#### Artikel 34
+##### Artikel 34
 
 Vervallen
 
-#### Artikel 35
+##### Artikel 35
 
 Vervallen
 
-#### Artikel 36
+##### Artikel 36
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 37
+##### Artikel 37
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 38
+##### Artikel 38
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 39
+##### Artikel 39
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 40
+##### Artikel 40
 
 Vervallen
 
-#### Artikel 41
+##### Artikel 41
 
 Vervallen
 
-#### Artikel 42
+##### Artikel 42
 
 De Wet belasting- en premiefaciliteit voor de zeevaart 1995 wordt ingetrokken.
 
-#### Artikel 43
+##### Artikel 43
 
 1. Met betrekking tot gevallen waarin een verrekeningsbijdrage zeevaart als bedoeld in artikel III van de Wet faciliteit voor de zeevaart zoals deze luidde op 31 december 1994, is ingehouden, blijven de bepalingen welke ingevolge de Wet belasting- en premiefaciliteit voor de zeevaart 1995 zijn vervallen, ingetrokken of gewijzigd, van kracht zoals deze luidden op 31 december 1994.
 
 2. Met betrekking tot gevallen waarin artikel 2 van de Wet belasting- en premiefaciliteit voor de zeevaart 1995 toepassing heeft gevonden, blijven de bepalingen van die wet van kracht naar de tekst zoals die luidde op 31 december 1995.
 
-#### Artikel 44
+##### Artikel 44
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 45
+##### Artikel 45
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 46
+##### Artikel 46
 
 De Wet bevordering speur- en ontwikkelingswerk wordt ingetrokken.
 
-#### Artikel 47
+##### Artikel 47
 
 1. Voor de toepassing van [artikel 1, eerste lid, onderdeel t, onder 1°, en onderdeel u, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=I&artikel=1&z=2026-01-01&g=2026-01-01), worden onder kosten en uitgaven die eerder in aanmerking zijn genomen voor een S&O-verklaring mede verstaan: kosten en uitgaven die eerder in aanmerking zijn genomen voor een beschikking als bedoeld in [artikel 3.52a, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.52a) zoals deze luidde tot en met 31 december 2015.
 
@@ -548,35 +576,35 @@ De Wet bevordering speur- en ontwikkelingswerk wordt ingetrokken.
 
 3. Met betrekking tot de toepassing van deze wet ter zake van speur- en ontwikkelingswerk dat is verricht voor 1 januari 2016, blijven de bepalingen bij of krachtens de [hoofdstukken I](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=I&z=2026-01-01&g=2026-01-01), [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&z=2026-01-01&g=2026-01-01) en [XII](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=XII&z=2026-01-01&g=2026-01-01) zoals deze luidden voor de wijzigingen ingevolge het [Belastingplan 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0036644) van toepassing.
 
-#### Artikel 48
+##### Artikel 48
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 49
+##### Artikel 49
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 50
+##### Artikel 50
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 51
+##### Artikel 51
 
 Vervallen
 
-#### Artikel 52
+##### Artikel 52
 
 Vervallen
 
-#### Artikel 53
+##### Artikel 53
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 54
+##### Artikel 54
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 55
+##### Artikel 55
 
 1. Deze wet treedt in werking met ingang van 1 januari 1996.
 
@@ -584,13 +612,13 @@ Bevat wijzigingen in andere regelgeving.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 41a
+##### Artikel 41a
 
 Vervallen
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 34
+##### Artikel 34
 
 De Wet bevordering arbeidsinpassing wordt ingetrokken.
 
@@ -604,7 +632,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 14a
+##### Artikel 14a
 
 Vervallen
 
@@ -624,7 +652,7 @@ Vervallen
 
 ### Hoofdstuk XI. Aanvullende regelingen
 
-#### Artikel 23a
+##### Artikel 23a
 
 1. Uitgaven die gedeeltelijk direct toerekenbaar zijn aan door de S&O-inhoudingsplichtige verricht speur- en ontwikkelingswerk, komen slechts voor dat deel als uitgaven als bedoeld in [artikel 23, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=23&z=2026-01-01&g=2026-01-01), in aanmerking.
 
@@ -634,7 +662,7 @@ Vervallen
 
 4. In afwijking van het tweede lid kunnen uitgaven als bedoeld in het derde lid gedurende 5 jaar maximaal eenmaal per kalenderjaar in een S&O-verklaring worden opgenomen.
 
-#### Artikel 23b
+##### Artikel 23b
 
 1. Voor de toepassing van dit hoofdstuk worden niet tot de kosten gerekend:
 
@@ -658,11 +686,11 @@ Vervallen
 
 2. Voor de toepassing van dit hoofdstuk worden niet tot de uitgaven gerekend investeringen die in aanmerking komen voor energie-investeringsaftrek als bedoeld in [artikel 3.42 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) of voor milieu-investeringsaftrek als bedoeld in [artikel 3.42a van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a).
 
-#### Artikel 23c
+##### Artikel 23c
 
 Indien tussen twee lichamen waarvan een van de lichamen onmiddellijk of middellijk deelneemt aan de leiding van of toezicht op, dan wel in het kapitaal van het andere lichaam ter zake van hun onderlinge rechtsverhoudingen voorwaarden worden overeengekomen of opgelegd die afwijken van voorwaarden die in het economische verkeer door onafhankelijke partijen zouden zijn overeengekomen, worden de kosten en uitgaven van deze lichamen voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen bepaald alsof die laatstbedoelde voorwaarden zijn overeengekomen. De eerste volzin is van overeenkomstige toepassing indien een derde onmiddellijk of middellijk deelneemt aan de leiding van of het toezicht op, dan wel in het kapitaal van twee lichamen.
 
-#### Artikel 23d
+##### Artikel 23d
 
 1. Kosten die in enig kalenderjaar in een S&O-verklaring zijn opgenomen worden betaald voordat de mededeling, bedoeld in [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=24&z=2026-01-01&g=2026-01-01), voor deze S&O-verklaring wordt gedaan.
 
@@ -674,7 +702,7 @@ Indien tussen twee lichamen waarvan een van de lichamen onmiddellijk of middelli
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 27a
+##### Artikel 27a
 
 Bij regeling van Onze Minister van Economische Zaken en Klimaat kunnen regels worden gesteld op grond waarvan wordt vastgesteld in hoeverre bij een verstoring van de voorziening, bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=22&z=2026-01-01&g=2026-01-01), of [artikel 27, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=27&z=2026-01-01&g=2026-01-01), sprake is van verschoonbaarheid van een termijnoverschrijding ter zake van:
 
@@ -688,51 +716,51 @@ Bij regeling van Onze Minister van Economische Zaken en Klimaat kunnen regels wo
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 29a
+##### Artikel 29a
 
 Vervallen
 
-#### Artikel 29b
+##### Artikel 29b
 
 Vervallen
 
-#### Artikel 29c
+##### Artikel 29c
 
 Vervallen
 
-#### Artikel 29d
+##### Artikel 29d
 
 Vervallen
 
-#### Artikel 29e
+##### Artikel 29e
 
 Vervallen
 
-#### Artikel 29f
+##### Artikel 29f
 
 Vervallen
 
-#### Artikel 29g
+##### Artikel 29g
 
 Vervallen
 
-#### Artikel 29h
+##### Artikel 29h
 
 Vervallen
 
-#### Artikel 29i
+##### Artikel 29i
 
 Vervallen
 
-#### Artikel 29j
+##### Artikel 29j
 
 Vervallen
 
-#### Artikel 29k
+##### Artikel 29k
 
 Vervallen
 
-#### Artikel 29l
+##### Artikel 29l
 
 Vervallen
 

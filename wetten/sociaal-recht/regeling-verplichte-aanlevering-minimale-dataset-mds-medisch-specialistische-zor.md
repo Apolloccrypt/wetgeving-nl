@@ -1,18 +1,43 @@
 ---
 title: "Regeling verplichte aanlevering minimale dataset (mds) medisch-specialistische zorg"
 identifier: "BWBR0050918"
-categorie: "Sociaal recht"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050918"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050918"
+soort: "zbo"
+stam_id: "17397723"
+version_id: "30672892"
+internal_id: "C43972701"
+label_id: "17300994"
+dtd_version: "2.0"
+original_entry_into_force: "2025-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050918/2025-07-01/0"
+intitule_bron: "Stcrt.2025-11727"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-03-25"
+intitule_published: "2025-04-04"
+intitule_in_force: "2025-04-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-11727"
+original_signed_date: "2025-03-25"
+original_published_date: "2025-04-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-11727"
+entry_into_force_date: "2025-07-01"
+jci_1_3: "jci1.3:c:BWBR0050918&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0050918&g=2025-07-01"
+citeertitel_status: "officieel"
+signed_date: "2025-03-25"
+entry_into_force: "2025-07-01"
 ---
-
 # Regeling verplichte aanlevering minimale dataset (mds) medisch-specialistische zorg
 
 Ingevolge de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=36) en [62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=62), juncto [63](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=63), [65](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=65), en [68 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=68) (Wmg), is de Nederlandse Zorgautoriteit (NZa) bevoegd tot het stellen van regels op het gebied van de aanlevering van gegevens zoals de minimale dataset (mds) medisch-specialistische zorg.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt, tenzij anders vermeld, verstaan onder:
 
@@ -66,11 +91,11 @@ In deze regeling wordt, tenzij anders vermeld, verstaan onder:
 
 - **zorgverlener:** Een natuurlijk persoon die beroepsmatig zorg verleent.
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 Deze regeling heeft als primaire doel het waarborgen van volledige en tijdige aanlevering van de minimale dataset medisch-specialistische zorg door zorgaanbieders die onder de reikwijdte van deze regeling vallen. Om dit doel te bereiken zijn in deze regeling voorschriften, voorwaarden of beperkingen opgenomen met betrekking tot welke gegevens, wanneer en op welke wijze moeten worden aangeleverd. Een afgeleid doel van deze regeling is de verkregen mds-gegevens te kunnen gebruiken voor het onderhoud van prestatiebeschrijvingen en tarieven, het monitoren van marktontwikkelingen en het uitvoeren van de overige wettelijke taken van de NZa.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 1. Deze regeling is van toepassing op:
 
@@ -102,7 +127,7 @@ Deze regeling heeft als primaire doel het waarborgen van volledige en tijdige aa
 
 4. Deze regeling is niet van toepassing op abortusklinieken.
 
-#### Artikel 4. Aanlevering mds
+##### Artikel 4. Aanlevering mds
 
 1. De zorgaanbieder is verplicht om van alle gedeclareerde dbc-zorgproducten en overige zorgproducten – die worden gerekend tot de omzet van de kalendermaand (m-2) – vóór de eerste dag van elke kalendermaand (m) de Minimale Dataset (mds) aan te leveren. De bijlage bij deze regeling bevat de informatie-elementen die tot de mds behoren, en welke periodiek door de zorgaanbieders aangeleverd dienen te worden.
 
@@ -110,23 +135,23 @@ Deze regeling heeft als primaire doel het waarborgen van volledige en tijdige aa
 
 3. De zorgaanbieder levert mutaties en aanvullingen op al aangeleverde mds-informatie van productie die is afgesloten in jaar t-1, uiterlijk 1 oktober van jaar t bij het DIS aan.
 
-#### Artikel 5. Wijze van aanlevering
+##### Artikel 5. Wijze van aanlevering
 
 1. Gegevensaanlevering bij DIS vindt uitsluitend plaats via de door DIS gespecificeerde gegevensaanleverstandaard (GA DBC-SZG)). De aangeleverde gegevens worden voorzien van een technische controle door het DIS.
 
 2. De NZa voert een inhoudelijke beoordeling uit op de kwaliteit van de gegevensaanlevering aan het DIS.
 
-#### Artikel 6. Controle en handhaving
+##### Artikel 6. Controle en handhaving
 
 1. Onjuiste, niet of niet tijdige aanlevering van de gegevens bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050918&artikel=4&z=2025-07-01&g=2025-07-01) kan tot gevolg hebben dat de NZa correcte aanlevering afdwingt met gebruikmaking van de haar toekomende wettelijke handhavingsinstrumenten zoals genoemd in [hoofdstuk 6 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6).
 
 2. Indien uit de technische controle van [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0050918&artikel=5&z=2025-07-01&g=2025-07-01) of de daaropvolgende inhoudelijke beoordeling van artikel 5.2 komt vast te staan dat de kwaliteit van de gegevensaanlevering onvoldoende is, kan de NZa correcte aanlevering afdwingen met gebruikmaking van de haar toekomende wettelijke handhavingsinstrumenten zoals genoemd in [hoofdstuk 6 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6).
 
-#### Artikel 7. Intrekking oude regeling
+##### Artikel 7. Intrekking oude regeling
 
 Gelijktijdig met de inwerkingtreding van deze regeling wordt de [Regeling verplichte aanlevering minimale dataset (mds) medisch-specialistische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0047545), met kenmerk NR/REG-2317, ingetrokken.
 
-#### Artikel 8. Toepasselijkheid voorafgaande regeling, bekendmaking, inwerkingtreding en citeertitel
+##### Artikel 8. Toepasselijkheid voorafgaande regeling, bekendmaking, inwerkingtreding en citeertitel
 
 De [Regeling verplichte aanlevering minimale dataset (mds) medisch-specialistische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0047545), met kenmerk NR/REG-2317, blijft van toepassing op gedragingen (handelen en nalaten) van zorgaanbieders die onder de werkingssfeer van die regeling vallen en die zijn aangevangen – en al dan niet beëindigd – in de periode dat die regeling gold.
 

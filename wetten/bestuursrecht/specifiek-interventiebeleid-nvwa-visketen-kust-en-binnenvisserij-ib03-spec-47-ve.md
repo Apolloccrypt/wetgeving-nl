@@ -1,13 +1,39 @@
 ---
-title: "Specifiek interventiebeleid NVWA visketen kust- en binnenvisserij (IB03-SPEC 47, versie 05)"
+title: "Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur van 11 juli 2025 tot vaststelling van het Specifiek interventiebeleid NVWA visketen kust- en binnenvisserij (IB03-SPEC 47, versie 05)"
 identifier: "BWBR0051308"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-08-15
-laatste_update: 2025-08-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051308"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2025-08-15"
+last_updated: "2025-08-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051308"
+soort: "beleidsregel"
+stam_id: "17482733"
+version_id: "30833902"
+internal_id: "C44186831"
+label_id: "17385144"
+dtd_version: "2.0"
+original_entry_into_force: "2025-08-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051308/2025-08-15/0"
+intitule_bron: "Stcrt.2025-25101"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-07-11"
+intitule_published: "2025-07-23"
+intitule_in_force: "2025-07-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-25101"
+original_signed_date: "2025-07-11"
+original_published_date: "2025-07-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-25101"
+entry_into_force_date: "2025-08-15"
+jci_1_3: "jci1.3:c:BWBR0051308&z=2025-08-15&g=2025-08-15"
+jci_1_0: "1.0:c:BWBR0051308&g=2025-08-15"
+citeertitel_status: "officieel"
+short_title: "Specifiek interventiebeleid NVWA visketen kust- en binnenvisserij (IB03-SPEC 47, versie 05)"
+signed_date: "2025-07-11"
+entry_into_force: "2025-08-15"
 ---
-
 # Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur van 11 juli 2025 tot vaststelling van het Specifiek interventiebeleid NVWA visketen kust- en binnenvisserij (IB03-SPEC 47, versie 05)
 
 De Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur;

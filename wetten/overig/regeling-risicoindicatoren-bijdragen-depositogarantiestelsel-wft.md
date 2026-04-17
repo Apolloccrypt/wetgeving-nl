@@ -1,13 +1,39 @@
 ---
-title: "Regeling risicoindicatoren bijdragen depositogarantiestelsel Wft"
+title: "Regeling van De Nederlandsche Bank N.V. van 18 juni 2024 houdende regels inzake het gebruik van de risicoindicatoren bij het berekenen van risicoscores van banken ten behoeve van het depositogarantiestelsel (Regeling risicoindicatoren bijdragen depositogarantiestelsel Wft 2024)"
 identifier: "BWBR0050060"
-categorie: "Overig"
-publicatiedatum: 2024-09-01
-laatste_update: 2024-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050060"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-09-01"
+last_updated: "2024-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050060"
+soort: "zbo"
+stam_id: "17188963"
+version_id: "30260492"
+internal_id: "C43339621"
+label_id: "17096874"
+dtd_version: "2.0"
+original_entry_into_force: "2024-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050060/2024-09-01/0"
+intitule_bron: "Stcrt.2024-24163"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-06-18"
+intitule_published: "2024-07-24"
+intitule_in_force: "2024-07-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-24163"
+original_signed_date: "2024-06-18"
+original_published_date: "2024-07-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-24163"
+entry_into_force_date: "2024-09-01"
+jci_1_3: "jci1.3:c:BWBR0050060&z=2024-09-01&g=2024-09-01"
+jci_1_0: "1.0:c:BWBR0050060&g=2024-09-01"
+citeertitel_status: "officieel"
+short_title: "Regeling risicoindicatoren bijdragen depositogarantiestelsel Wft"
+signed_date: "2024-06-18"
+entry_into_force: "2024-09-01"
 ---
-
 # Regeling van De Nederlandsche Bank N.V. van 18 juni 2024 houdende regels inzake het gebruik van de risicoindicatoren bij het berekenen van risicoscores van banken ten behoeve van het depositogarantiestelsel (Regeling risicoindicatoren bijdragen depositogarantiestelsel Wft 2024)
 
 Gelet op [artikel 29.12, vierde lid, van het Besluit bijzondere prudentiële maatregelen, beleggerscompensatie en depositogarantie Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=29.12);
@@ -18,7 +44,7 @@ Besluit:
 
 Treedt in werking op het tijdstip waarop het Wijzigingsbesluit depositogarantie 2024 in werking treedt.
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -26,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 - **besluit:** [Besluit bijzondere prudentiële maatregelen, beleggerscompensatie en depositogarantie Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020414).
 
-#### Artikel 2
+##### Artikel 2
 
 1. De risicoscore van een bank, bedoeld in [bijlage C van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&bijlage=C), wordt berekend aan de hand van de waarde op toetsmoment (t) van de volgende indicatoren, bedoeld in die bijlage, alsmede de indicatoren, genoemd in het tweede lid:
 
@@ -56,7 +82,7 @@ In deze regeling wordt verstaan onder:
 
 - g. **passiva:** totale activa als bedoeld in onderdeel c.
 
-#### Artikel 3
+##### Artikel 3
 
 De score op de risicoindicatoren, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050060&artikel=2&z=2024-09-01&g=2024-09-01), wordt als volgt genormaliseerd en gewogen, met dien verstande dat de genormaliseerde risicoscore niet lager is dan 0 en niet hoger is dan 1:
 
@@ -71,7 +97,7 @@ De score op de risicoindicatoren, bedoeld in [artikel 2](https://wetten.overheid
 | Mate van activabeklemming | 10% | 30% | (mate van activabeklemming – 10%) / (30% – 10%) | 0,05 |
 | Gegarandeerde deposito’s / totale activa | 0% | 100% | Niet van toepassing | 0,15 |
 
-#### Artikel 4
+##### Artikel 4
 
 Een bank wordt ingedeeld in een risicocategorie als bedoeld in [bijlage C van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&bijlage=C) overeenkomstig de volgende tabel:
 
@@ -82,11 +108,11 @@ Een bank wordt ingedeeld in een risicocategorie als bedoeld in [bijlage C van he
 | 0,45 – < 0,55 | III |
 | ≥ 0,55 | IV |
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling treedt in werking op het tijdstip waarop het Besluit tot wijziging van het Besluit bijzondere prudentiële maatregelen, beleggerscompensatie en depositogarantie Wft in verband met aanpassingen aan de regels ten aanzien van het depositogarantiestelsel ([Wijzigingsbesluit depositogarantie 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049944)) in werking treedt. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven op of na de dag waarop het Wijzigingsbesluit depositogarantie 2024 in werking treedt, treedt deze regeling in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling wordt aangehaald als: Regeling risicoindicatoren bijdragen depositogarantiestelsel Wft.
 

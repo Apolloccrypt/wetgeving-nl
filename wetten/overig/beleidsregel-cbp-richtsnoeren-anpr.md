@@ -1,13 +1,35 @@
 ---
 title: "Beleidsregel CBP richtsnoeren ANPR"
 identifier: "BWBR0033241"
-categorie: "Overig"
-publicatiedatum: 2009-07-14
-laatste_update: 2009-07-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033241"
+country: "nl"
+rank: "zbo"
+publication_date: "2009-07-14"
+last_updated: "2009-07-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033241"
+soort: "zbo"
+stam_id: "12204313"
+version_id: "20418152"
+internal_id: "C28701341"
+label_id: "12176574"
+dtd_version: "2.0"
+original_entry_into_force: "2009-07-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033241/2009-07-14/0"
+intitule_bron: "Stcrt.2009-10464"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2009-07-14"
+intitule_in_force: "2009-07-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-10464"
+original_published_date: "2009-07-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-10464"
+entry_into_force_date: "2009-07-14"
+jci_1_3: "jci1.3:c:BWBR0033241&z=2009-07-14&g=2009-07-14"
+jci_1_0: "1.0:c:BWBR0033241&g=2009-07-14"
+citeertitel_status: "redactioneel"
+entry_into_force: "2009-07-14"
 ---
-
 # Beleidsregel CBP richtsnoeren ANPR
 
 ### De toepassing van automatische kentekenherkenning door de politie

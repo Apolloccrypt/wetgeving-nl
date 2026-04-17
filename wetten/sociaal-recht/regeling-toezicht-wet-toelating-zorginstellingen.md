@@ -1,20 +1,46 @@
 ---
-title: "Regeling toezicht Wet toelating zorginstellingen"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 8 januari 2007, nr. MC/U-2736874, houdende aanwijzing van toezichthouders op de naleving van de Wet toelating zorginstellingen"
 identifier: "BWBR0020970"
-categorie: "Sociaal recht"
-publicatiedatum: 2018-08-01
-laatste_update: 2018-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020970"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2018-08-01"
+last_updated: "2018-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020970"
+soort: "ministeriele-regeling"
+stam_id: "8859113"
+version_id: "14072262"
+internal_id: "C29319121"
+label_id: "8838484"
+dtd_version: "2.0"
+original_entry_into_force: "2007-01-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020970/2018-08-01/0"
+intitule_bron: "Stcrt.2007-7"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-01-08"
+intitule_published: "2007-01-10"
+intitule_in_force: "2007-01-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-7"
+original_signed_date: "2007-01-08"
+original_published_date: "2007-01-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2007-7-p13-SC78771"
+entry_into_force_date: "2007-01-12"
+jci_1_3: "jci1.3:c:BWBR0020970&z=2018-08-01&g=2018-08-01"
+jci_1_0: "1.0:c:BWBR0020970&g=2018-08-01"
+citeertitel_status: "officieel"
+short_title: "Regeling toezicht Wet toelating zorginstellingen"
+signed_date: "2007-01-08"
+entry_into_force: "2007-01-12"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 8 januari 2007, nr. MC/U-2736874, houdende aanwijzing van toezichthouders op de naleving van de Wet toelating zorginstellingen
 
 Gelet op [artikel 35 van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=35);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Als personen, belast met het toezicht op de naleving van het bepaalde bij of krachtens de [Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906) naast de ambtenaren van de Inspectie gezondheidszorg en jeugd, worden aangewezen:
 
@@ -42,11 +68,11 @@ Als personen, belast met het toezicht op de naleving van het bepaalde bij of kra
 
 - –. de gemachtigden van het college (onder verantwoordelijkheid van het college).
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 1 januari 2006.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling wordt aangehaald als: Regeling toezicht Wet toelating zorginstellingen.
 

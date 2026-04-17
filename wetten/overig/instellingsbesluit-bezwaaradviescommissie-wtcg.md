@@ -1,18 +1,44 @@
 ---
-title: "Instellingsbesluit Bezwaaradviescommissie Wtcg"
+title: "Besluit van het bestuur van het CAK van 10 januari 2011, houdende instelling van een bezwaaradviescommissie (Instellingsbesluit Bezwaaradviescommissie Wtcg)"
 identifier: "BWBR0033432"
-categorie: "Overig"
-publicatiedatum: 2011-01-22
-laatste_update: 2011-01-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033432"
+country: "nl"
+rank: "zbo"
+publication_date: "2011-01-22"
+last_updated: "2011-01-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033432"
+soort: "zbo"
+stam_id: "12261613"
+version_id: "20520832"
+internal_id: "C28861121"
+label_id: "12233064"
+dtd_version: "2.0"
+original_entry_into_force: "2011-01-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033432/2011-01-22/0"
+intitule_bron: "Stcrt.2011-995"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-01-10"
+intitule_published: "2011-01-21"
+intitule_in_force: "2011-01-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-995"
+original_signed_date: "2011-01-10"
+original_published_date: "2011-01-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-995"
+entry_into_force_date: "2011-01-22"
+jci_1_3: "jci1.3:c:BWBR0033432&z=2011-01-22&g=2011-01-22"
+jci_1_0: "1.0:c:BWBR0033432&g=2011-01-22"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Bezwaaradviescommissie Wtcg"
+signed_date: "2011-01-10"
+entry_into_force: "2011-01-22"
 ---
-
 # Besluit van het bestuur van het CAK van 10 januari 2011, houdende instelling van een bezwaaradviescommissie (Instellingsbesluit Bezwaaradviescommissie Wtcg)
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -20,11 +46,11 @@ In dit besluit wordt verstaan onder:
 
 - b. **commissie:** de Bezwaaradviescommissie Wtcg.
 
-#### Artikel 2. Instelling
+##### Artikel 2. Instelling
 
 Er is een bezwaaradviescommissie in de zin van [artikel 7:13 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:13), zoals bedoeld in de motie van Eerste Kamerlid Klein Breteler c.s. en de brief van de Staatssecretaris van Volksgezondheid, Welzijn en Sport d.d. 22 december 20081Kamerstukken I, 2008–2009, 31 706, J en L..
 
-#### Artikel 3. Taak
+##### Artikel 3. Taak
 
 1. De commissie heeft tot taak het bestuur van het CAK te adviseren over de door het bestuur van het CAK te nemen beslissingen op bezwaar, voor zover de bezwaren zijn gericht tegen besluiten die het bestuur van het CAK heeft genomen op grond van [artikel 3, eerste lid, van de Wet tegemoetkoming chronisch zieken en gehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0025003&artikel=3).
 
@@ -32,7 +58,7 @@ Er is een bezwaaradviescommissie in de zin van [artikel 7:13 van de Algemene wet
 
 3. Bezwaren die naar het oordeel van het bestuur van het CAK niet-ontvankelijk zijn en bezwaren die naar het oordeel van het CAK gegrond zijn, worden zonder advies van de commissie afgehandeld.
 
-#### Artikel 4. Leden
+##### Artikel 4. Leden
 
 1. De commissie bestaat uit een voorzitter en ten minste twee leden.
 
@@ -52,7 +78,7 @@ Er is een bezwaaradviescommissie in de zin van [artikel 7:13 van de Algemene wet
 
 4. De commissie regelt de vervanging van de voorzitter.
 
-#### Artikel 5. Secretaris
+##### Artikel 5. Secretaris
 
 1. De commissie wordt bijgestaan door ten minste één secretaris.
 
@@ -60,19 +86,19 @@ Er is een bezwaaradviescommissie in de zin van [artikel 7:13 van de Algemene wet
 
 3. Het bestuur van het CAK wijst tevens een of meer plaatsvervangers van de secretaris aan.
 
-#### Artikel 6. Ingediend bezwaarschrift
+##### Artikel 6. Ingediend bezwaarschrift
 
 1. Op ingediende bezwaren wordt de datum van ontvangst aangetekend.
 
 2. De bezwaren met de daarbij overgelegde stukken worden zo spoedig mogelijk in handen van de commissie gesteld.
 
-#### Artikel 7. Vooronderzoek
+##### Artikel 7. Vooronderzoek
 
 1. De voorzitter van de commissie is bevoegd rechtstreeks alle gewenste inlichtingen in te winnen of te laten inwinnen.
 
 2. De voorzitter kan uit eigen beweging of op verlangen van de commissie bij deskundigen advies of inlichtingen inwinnen en hen zonodig uitnodigen daartoe op de hoorzitting te verschijnen. Indien de daaraan verbonden kosten hoger zijn dan € 200,– is vooraf machtiging van het bestuur vereist.
 
-#### Artikel 8. Hoorzitting
+##### Artikel 8. Hoorzitting
 
 1. De commissie bepaalt of er gebruik wordt gemaakt van de mogelijkheid om een hoorzitting te houden teneinde belanghebbenden te horen inzake een bezwaar.
 
@@ -88,21 +114,21 @@ Er is een bezwaaradviescommissie in de zin van [artikel 7:13 van de Algemene wet
 
 7. De voorzitter is bevoegd toepassing te geven aan [artikel 2:1, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:1).
 
-#### Artikel 9. Quorum
+##### Artikel 9. Quorum
 
 Voor het houden van een zitting is vereist, dat minimaal drie leden, waaronder in elk geval de voorzitter of een als plaatsvervanger van de voorzitter aangewezen lid, aanwezig zijn.
 
-#### Artikel 10. Niet-deelneming aan de behandeling
+##### Artikel 10. Niet-deelneming aan de behandeling
 
 De voorzitter en de leden van de commissie nemen niet deel aan de behandeling van een bezwaar indien hun onpartijdigheid in het geding kan zijn.
 
-#### Artikel 11. Openbaarheid zitting
+##### Artikel 11. Openbaarheid zitting
 
 1. De hoorzitting van de commissie is openbaar.
 
 2. Indien de commissie gewichtige redenen aanwezig acht die zich tegen openbaarheid van de zitting verzetten, vindt de zitting plaats met gesloten deuren.
 
-#### Artikel 12. Schriftelijke verslaglegging
+##### Artikel 12. Schriftelijke verslaglegging
 
 1. Het verslag als bedoeld in [artikel 7:7 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:7) vermeldt de namen van de aanwezigen en hun hoedanigheid.
 
@@ -114,7 +140,7 @@ De voorzitter en de leden van de commissie nemen niet deel aan de behandeling va
 
 5. Het verslag wordt ondertekend door de voorzitter en de secretaris van de commissie.
 
-#### Artikel 13. Nader onderzoek
+##### Artikel 13. Nader onderzoek
 
 1. Indien na afloop van de zitting, maar voordat het advies wordt opgesteld, nader onderzoek wenselijk blijkt te zijn, kan de voorzitter uit eigen beweging of op verlangen van de andere commissieleden dit onderzoek houden.
 
@@ -124,7 +150,7 @@ De voorzitter en de leden van de commissie nemen niet deel aan de behandeling va
 
 4. Op een nieuwe hoorzitting zijn de bepalingen van dit besluit zoveel mogelijk van overeenkomstige toepassing.
 
-#### Artikel 14. Beraadslaging en advies
+##### Artikel 14. Beraadslaging en advies
 
 1. De commissie beraadslaagt en beslist achter gesloten deuren over het door haar uit te brengen advies.
 
@@ -136,7 +162,7 @@ De voorzitter en de leden van de commissie nemen niet deel aan de behandeling va
 
 5. Het advies wordt door de voorzitter en de secretaris van de commissie ondertekend.
 
-#### Artikel 15. Uitbrengen advies, verdaging en naar aanleiding van het advies
+##### Artikel 15. Uitbrengen advies, verdaging en naar aanleiding van het advies
 
 1. Het advies wordt, onder medezending van het verslag als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0033432&artikel=12&z=2011-01-22&g=2011-01-22) en eventueel door de commissie ontvangen nadere informatie en nader verslag, tijdig uitgebracht aan het bestuur van het CAK.
 
@@ -146,14 +172,14 @@ De voorzitter en de leden van de commissie nemen niet deel aan de behandeling va
 
 4. Indien het bestuur van het CAK besluit in afwijking van het advies van de commissie, stelt het de commissie daarvan op de hoogte.
 
-#### Artikel 16. Overgangsbepaling
+##### Artikel 16. Overgangsbepaling
 
 Bezwaren als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033432&artikel=3&z=2011-01-22&g=2011-01-22), en die zijn ingediend vóór inwerkingtreding van dit besluit, en waarop het bestuur van het CAK nog geen besluit heeft genomen, worden krachtens dit besluit verder in behandeling genomen.
 
-#### Artikel 17. Inwerkingtreding
+##### Artikel 17. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de eerstvolgende dag na publicatie in de Staatscourant.
 
-#### Artikel 18. Citeertitel
+##### Artikel 18. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Bezwaaradviescommissie Wtcg.

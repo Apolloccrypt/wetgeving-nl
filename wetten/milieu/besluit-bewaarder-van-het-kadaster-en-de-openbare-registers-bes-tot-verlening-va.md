@@ -1,20 +1,45 @@
 ---
 title: "Besluit bewaarder van het kadaster en de openbare registers BES tot verlening van mandaat en machtiging ten aanzien van het beslissen op verzoeken tot inschrijving in de openbare registers voor onroerende zaken en voor schepen en luchtvaartuigen, het verstrekken van inlichtingen uit de kadastrale registratie, de registraties voor schepen en luchtvaartuigen en het bijwerken van de kadastrale registratie en registraties voor schepen en luchtvaartuigen in verband met het inwerkingtreden van de Regels met betrekking tot de openbare registers voor registergoederen en de kadasters op Bonaire, Sint Eustatius en Saba (Kadasterwet BES)"
 identifier: "BWBR0044452"
-categorie: "Milieu"
-publicatiedatum: 2020-12-09
-laatste_update: 2020-12-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044452"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2020-12-09"
+last_updated: "2020-12-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044452"
+soort: "ministeriele-regeling-BES"
+stam_id: "15739603"
+version_id: "27271532"
+internal_id: "C38530051"
+label_id: "15677954"
+dtd_version: "2.0"
+original_entry_into_force: "2020-12-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044452/2020-12-09/0"
+intitule_bron: "Stcrt.2020-63619"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-11-25"
+intitule_published: "2020-12-07"
+intitule_in_force: "2020-12-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-63619"
+original_signed_date: "2020-11-25"
+original_published_date: "2020-12-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-63619"
+entry_into_force_date: "2020-12-09"
+jci_1_3: "jci1.3:c:BWBR0044452&z=2020-12-09&g=2020-12-09"
+jci_1_0: "1.0:c:BWBR0044452&g=2020-12-09"
+citeertitel_status: "officieel"
+signed_date: "2020-11-25"
+entry_into_force: "2020-12-09"
 ---
-
 # Besluit bewaarder van het kadaster en de openbare registers BES tot verlening van mandaat en machtiging ten aanzien van het beslissen op verzoeken tot inschrijving in de openbare registers voor onroerende zaken en voor schepen en luchtvaartuigen, het verstrekken van inlichtingen uit de kadastrale registratie, de registraties voor schepen en luchtvaartuigen en het bijwerken van de kadastrale registratie en registraties voor schepen en luchtvaartuigen in verband met het inwerkingtreden van de Regels met betrekking tot de openbare registers voor registergoederen en de kadasters op Bonaire, Sint Eustatius en Saba (Kadasterwet BES)
 
 Gelet op het [artikel 10, tweede lid, Regels met betrekking tot de openbare registers voor registergoederen en de kadasters op Bonaire, Sint Eustatius en Saba (Kadasterwet BES)](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&artikel=10);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -42,11 +67,11 @@ In dit besluit wordt verstaan onder:
 
 - l. **openbare registers:** de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&afdeling=2).
 
-#### Artikel 2. Omvang van de mandaten en machtigingen (algemeen)
+##### Artikel 2. Omvang van de mandaten en machtigingen (algemeen)
 
 De machtigingen en mandaten, omschreven in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044452&artikel=3&z=2020-12-09&g=2020-12-09), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0044452&artikel=4&z=2020-12-09&g=2020-12-09), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0044452&artikel=5&z=2020-12-09&g=2020-12-09), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0044452&artikel=6&z=2020-12-09&g=2020-12-09), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0044452&artikel=7&z=2020-12-09&g=2020-12-09), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0044452&artikel=8&z=2020-12-09&g=2020-12-09) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0044452&artikel=9&z=2020-12-09&g=2020-12-09) betreffen bij wettelijk voorschrift aan de bewaarders toegekende bevoegdheden en opgedragen werkzaamheden.
 
-#### Artikel 3. Inhoud van de machtiging met betrekking tot aangelegenheden inzake openbare registers
+##### Artikel 3. Inhoud van de machtiging met betrekking tot aangelegenheden inzake openbare registers
 
 De bewaarder verleent, wat betreft inschrijvingen in de openbare registers voor registergoederen, machtiging tot:
 
@@ -58,7 +83,7 @@ De bewaarder verleent, wat betreft inschrijvingen in de openbare registers voor 
 
 - d. het stellen van aantekeningen in de openbare registers, bedoeld onder a tot en met c.
 
-#### Artikel 4. Inhoud van het mandaat en de machtiging met betrekking tot het verstrekken van inlichtingen uit de openbare registers voor onroerende zaken en met betrekking tot de kadastrale registratie.
+##### Artikel 4. Inhoud van het mandaat en de machtiging met betrekking tot het verstrekken van inlichtingen uit de openbare registers voor onroerende zaken en met betrekking tot de kadastrale registratie.
 
 1. De bewaarder verstrekt op grond van [artikel 7, eerste lid, onder g van de Kadasterwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&artikel=7) inlichtingen omtrent gegevens die de Dienst heeft gekregen in het kader van de uitvoering van de taken, bedoeld in de [onderdelen a, b, e en f van artikel 7, eerste lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&artikel=7) met betrekking tot:
 
@@ -70,7 +95,7 @@ De bewaarder verleent, wat betreft inschrijvingen in de openbare registers voor 
 
 - d. Uittreksels uit de kadastrale registratie, bedoeld in [artikel 75, eerste lid, van de Kadasterwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&artikel=75).
 
-#### Artikel 5. Inhoud van het mandaat en de machtiging met betrekking tot het verstrekken van inlichtingen uit de registratie voor schepen en luchtvaartuigen en uit de openbare registers voor schepen en luchtvaartuigen.
+##### Artikel 5. Inhoud van het mandaat en de machtiging met betrekking tot het verstrekken van inlichtingen uit de registratie voor schepen en luchtvaartuigen en uit de openbare registers voor schepen en luchtvaartuigen.
 
 1. De bewaarder verstrekt op grond van [artikel 7, eerste lid, onder g van de Kadasterwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&artikel=7) inlichtingen omtrent gegevens die de Dienst heeft gekregen in het kader van de uitvoering van de taken, bedoeld in de onderdelen a, e en f van artikel 7, eerste lid, van de Kadasterwet BES met betrekking tot:
 
@@ -78,7 +103,7 @@ De bewaarder verleent, wat betreft inschrijvingen in de openbare registers voor 
 
 - b. Afschriften betreffende de in de openbare registers voor luchtvaartuigen ingeschreven stukken, dan wel getuigschriften omtrent het al dan niet bestaan van inschrijvingen betreffende luchtvaartuigen, bedoeld in [artikel 75, eerste lid, Kadasterwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&artikel=75).
 
-#### Artikel 6. Inhoud van het mandaat en de machtiging met betrekking tot aangelegenheden inzake de kadastrale registratie en kadastrale kaarten
+##### Artikel 6. Inhoud van het mandaat en de machtiging met betrekking tot aangelegenheden inzake de kadastrale registratie en kadastrale kaarten
 
 De bewaarder verleent, wat betreft de bijwerking op grond van [artikel 10, eerste lid, onder b Kadasterwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&artikel=10) van de kadastrale registratie, mandaat en machtiging tot:
 
@@ -86,7 +111,7 @@ De bewaarder verleent, wat betreft de bijwerking op grond van [artikel 10, eerst
 
 - b. het nemen van de beslissing omtrent de acceptatie van landmeetkundige documenten, meetgegevens en de toepassing van digitale metingstaten.
 
-#### Artikel 7. Inhoud van het mandaat en de machtiging met betrekking tot aangelegenheden inzake de vaststelling van een complexnummer van een appartementsrecht en het nummer van een netwerk, de splitsing en ondersplitsing in appartementsrechten en de wijziging van zodanige splitsingen
+##### Artikel 7. Inhoud van het mandaat en de machtiging met betrekking tot aangelegenheden inzake de vaststelling van een complexnummer van een appartementsrecht en het nummer van een netwerk, de splitsing en ondersplitsing in appartementsrechten en de wijziging van zodanige splitsingen
 
 De bewaarder verleent, wat betreft splitsing, wijziging splitsing en ondersplitsing in appartementsrechten en het vaststellen van het nummer van een netwerk, mandaat en machtiging tot:
 
@@ -94,11 +119,11 @@ De bewaarder verleent, wat betreft splitsing, wijziging splitsing en ondersplits
 
 - b. het vaststellen van het onder a bedoelde complexnummer en nummer van een netwerk.
 
-#### Artikel 8. Aanwijzing van gemandateerde en gemachtigde personen
+##### Artikel 8. Aanwijzing van gemandateerde en gemachtigde personen
 
 De bewaarder verleent, wat betreft de in [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044452&artikel=3&z=2020-12-09&g=2020-12-09), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0044452&artikel=4&z=2020-12-09&g=2020-12-09), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0044452&artikel=5&z=2020-12-09&g=2020-12-09), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0044452&artikel=6&z=2020-12-09&g=2020-12-09) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0044452&artikel=7&z=2020-12-09&g=2020-12-09) omschreven handelingen mandaat en machtiging aan de in het mandaatregister genoemde personen. De bewaarder kan het mandaat en machtiging beperken tot een deel van de in artikelen 3, 4, 5, 6 en 7 omschreven handelingen. Tevens kan de bewaarder aan de aanwijzing de voorwaarde verbinden dat hiervan uitsluitend gebruik gemaakt mag worden bij belet of ontstentenis van een gemandateerde of gemachtigde.
 
-#### Artikel 9. Algemene aanwijzingen voor de uitoefening van het mandaat en machtiging
+##### Artikel 9. Algemene aanwijzingen voor de uitoefening van het mandaat en machtiging
 
 1. De uitoefening van de bevoegdheid verkregen bij de mandaten en machtigingen geschiedt door de gemandateerde en gemachtigde binnen de grenzen van de hem opgedragen taken.
 
@@ -108,7 +133,7 @@ De bewaarder verleent, wat betreft de in [artikelen 3](https://wetten.overheid.n
 
 4. Indien toepassing van de in dit besluit omschreven mandaten en machtigingen zou leiden tot het nemen van een beslissing die niet in overeenstemming zou zijn met de door de bewaarder vastgestelde instructies, omdat ter zake de instructie voor meerdere uitleg vatbaar is of er geen instructie is vastgesteld of indien er geen instructie aanwezig is, dient het geval aan de betrokken bewaarder te worden voorgelegd voor het (nader) uitleggen en/of vaststellen van instructies, op grond waarvan de gemandateerde en gemachtigde vervolgens een beslissing neemt.
 
-#### Artikel 10. Mandaat- en machtigingsregister
+##### Artikel 10. Mandaat- en machtigingsregister
 
 1. Er is een openbaar mandaat - en machtigingsregister, waarin alle verleende mandaten en machtigingen en wijzigingen worden opgenomen.
 
@@ -122,16 +147,16 @@ De bewaarder verleent, wat betreft de in [artikelen 3](https://wetten.overheid.n
 
 3. De gemandateerde is verantwoordelijk voor een, op verzoek van de bewaarder, juiste, volledige en tijdige aanlevering van de gegevens die met betrekking tot een mandaat en machtiging in het mandaat- en machtigingsregister moeten worden opgenomen.
 
-#### Artikel 11. Intrekking mandaat en machtiging
+##### Artikel 11. Intrekking mandaat en machtiging
 
 Intrekking van het mandaat en/of machtiging vindt plaats bij het niet voldoen aan de in de mandaat verlening opgenomen voorwaarden.
 
 Intrekking van een mandaat en/of machtiging geschiedt bij een afzonderlijk, schriftelijk, besluit waarin de minimaal vereiste persoonsgegevens ter identificatie en de functie van de in [artikel 1, onder g onderscheidenlijk h](https://wetten.overheid.nl/jci1.3:c:BWBR0044452&artikel=1&z=2020-12-09&g=2020-12-09), bedoelde functionaris worden vermeld onder toevoeging van de ingetrokken mandaten en/of machtigingen.
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit bewaarder van het kadaster en de openbare registers BES tot verlening van mandaat en machtiging ten aanzien van het beslissen op verzoeken tot inschrijving in de openbare registers voor onroerende zaken en voor schepen en luchtvaartuigen, het verstrekken van inlichtingen uit de kadastrale registratie, de registraties voor schepen en luchtvaartuigen en het bijwerken van de kadastrale registratie en registraties voor schepen en luchtvaartuigen in verband met het inwerkingtreden van de Regels met betrekking tot de openbare registers voor registergoederen en de kadasters op Bonaire, Sint Eustatius en Saba (Kadasterwet BES)

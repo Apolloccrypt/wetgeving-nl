@@ -1,13 +1,38 @@
 ---
 title: "Europees Verdrag inzake de schadeloosstelling van slachtoffers van geweldmisdrijven"
 identifier: "BWBV0002622"
-categorie: "Internationaal recht"
-publicatiedatum: 1988-02-01
-laatste_update: 1988-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002622"
+country: "nl"
+rank: "verdrag"
+publication_date: "1988-02-01"
+last_updated: "1988-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002622"
+soort: "verdrag"
+stam_id: "10002951853"
+version_id: "10002954962"
+internal_id: "C10006979531"
+label_id: "10002939004"
+dtd_version: "2.0"
+original_entry_into_force: "1988-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002622/1988-02-01/0"
+intitule_bron: "Trb.1984-2"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1984-07-16"
+intitule_published: "1984-01-05"
+intitule_in_force: "1987-11-30"
+intitule_status: "goed"
+original_publication: "Trb.1984-2"
+original_signed_date: "1984-07-16"
+original_published_date: "1984-01-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1984-2"
+entry_into_force_date: "1988-02-01"
+jci_1_3: "jci1.3:c:BWBV0002622&z=1988-02-01&g=1988-02-01"
+jci_1_0: "1.0:c:BWBV0002622&g=1988-02-01"
+citeertitel_status: "officieel"
+signed_date: "1984-07-16"
+entry_into_force: "1988-02-01"
 ---
-
 # Europees Verdrag inzake de schadeloosstelling van slachtoffers van geweldmisdrijven
 
 De Staten die Lid zijn van de Raad van Europa en dit Verdrag hebben ondertekend,
@@ -26,11 +51,11 @@ Zijn het volgende overeengekomen:
 
 ## DEEL I. Grondbeginselen
 
-#### Artikel 1
+##### Artikel 1
 
 De Partijen verbinden zich de noodzakelijke maatregelen te nemen om de in Deel I van dit Verdrag opgenomen beginselen uit te voeren.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Wanneer schadeloosstelling niet volledig uit andere bron kan worden verzekerd, draagt de Staat bij aan de schadeloosstelling:
 
@@ -40,7 +65,7 @@ De Partijen verbinden zich de noodzakelijke maatregelen te nemen om de in Deel I
 
 2. In de bovenvermelde gevallen wordt schadeloosstelling toegekend zelfs indien de dader niet kan worden vervolgd of gestraft.
 
-#### Artikel 3
+##### Artikel 3
 
 De schadeloosstelling wordt betaald door de Staat op het grondgebied waarvan het misdrijf werd gepleegd:
 
@@ -48,23 +73,23 @@ De schadeloosstelling wordt betaald door de Staat op het grondgebied waarvan het
 
 - b. aan onderdanen van alle Lid-Staten van de Raad van Europa, die permanent verblijven in de Staat op het grondgebied waarvan het misdrijf werd gepleegd.
 
-#### Artikel 4
+##### Artikel 4
 
 De schadeloosstelling omvat, afhankelijk van het desbetreffende geval, ten minste de volgende bestanddelen: verlies van inkomsten, medische kosten, ziekenhuiskosten en begrafeniskosten, alsmede, wat de nabestaanden betreft die ten laste van het slachtoffer kwamen, het verlies van inkomsten ter zake van levensonderhoud.
 
-#### Artikel 5
+##### Artikel 5
 
 In de regeling van schadeloosstelling kan, indien nodig, voor een of meer bestanddelen van de schadeloosstelling een boven- en een benedengrens worden vastgesteld, waarboven en waarbeneden geen schadeloosstelling wordt toegekend.
 
-#### Artikel 6
+##### Artikel 6
 
 In de regeling van schadeloosstelling kan een termijn worden vastgesteld waarbinnen de verzoeken tot schadeloosstelling moeten worden gedaan.
 
-#### Artikel 7
+##### Artikel 7
 
 De schadeloosstelling kan worden verminderd of geweigerd op grond van de financiële situatie van de verzoeker.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De schadeloosstelling kan worden verminderd of geweigerd op grond van het gedrag van het slachtoffer of de verzoeker vóór, tijdens of na het misdrijf, dan wel met betrekking tot het letsel of het overlijden.
 
@@ -72,25 +97,25 @@ De schadeloosstelling kan worden verminderd of geweigerd op grond van de financi
 
 3. De schadeloosstelling kan eveneens worden verminderd of geweigerd indien toekenning - al dan niet volledig - in strijd zou zijn met het rechtsgevoel of met de openbare orde („ordre public").
 
-#### Artikel 9
+##### Artikel 9
 
 Ten einde dubbele schadeloosstelling te vermijden, kan de Staat of de bevoegde autoriteit eventuele bedragen die tengevolge van het letsel of het overlijden, van de dader, de sociale zekerheid, een verzekering, of uit welke andere bron ook, zijn ontvangen, van de toegekende schadeloosstelling aftrekken of deze van de degene die schadeloos is gesteld, terugvorderen.
 
-#### Artikel 10
+##### Artikel 10
 
 De Staat of de bevoegde autoriteit kan worden gesubrogeerd in de rechten van degene die schadeloos is gesteld voor het bedrag van de betaalde schadeloosstelling.
 
-#### Artikel 11
+##### Artikel 11
 
 Elke Partij neemt de nodige maatregelen om te verzekeren dat gegevens over de regeling voor eventuele verzoekers beschikbaar zijn.
 
 ## DEEL II. Internationale samenwerking
 
-#### Artikel 12
+##### Artikel 12
 
 Onder voorbehoud van de toepassing van tussen de Verdragsluitende Staten gesloten bilaterale of multilaterale overeenkomsten inzake wederzijdse bijstand verlenen de bevoegde autoriteiten van elke Partij, op verzoek van de desbetreffende autoriteiten van elke andere Partij, bijstand van de grootst mogelijke omvang in verband met de aangelegenheden waarop dit Verdrag betrekking heeft. Met het oog hierop wijst elke Verdragsluitende Partij een centrale autoriteit aan voor het in ontvangst nemen van verzoeken om dergelijke bijstand en voor het treffen van maatregelen naar aanleiding daarvan, en stelt zij de Secretaris-Generaal van de Raad van Europa hiervan in kennis bij het nederleggen van haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Het Europese Comité voor strafrechtelijke vraagstukken (CDPC) van de Raad van Europa wordt op de hoogte gehouden van de toepassing van het Verdrag.
 
@@ -98,23 +123,23 @@ Onder voorbehoud van de toepassing van tussen de Verdragsluitende Staten geslote
 
 ## DEEL III. Slotbepalingen
 
-#### Artikel 14
+##### Artikel 14
 
 Dit Verdrag staat open voor ondertekening door de Lid-Staten van de Raad van Europa en dient te worden bekrachtigd, aanvaard of goedgekeurd. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Dit Verdrag treedt in werking op de eerste dag van de maand die volgt op het verstrijken van een periode van drie maanden na de datum waarop drie Lid-Staten van de Raad van Europa hun instemming door het Verdrag te worden gebonden tot uiting hebben gebracht overeenkomstig het bepaalde in artikel 14.
 
 2. Ten aanzien van elke andere Lid-Staat die daarna zijn instemming door het Verdrag te worden gebonden tot uiting brengt, treedt deze in werking op de eerste dag van de maand die volgt op het verstrijken van een periode van drie maanden na de datum van de nederlegging van de akte van bekrachtiging, aanvaarding of goedkeuring.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Na de inwerkingtreding van dit Verdrag kan het Comité van Ministers van de Raad van Europa elke Staat die geen Lid is van de Raad van Europa uitnodigen tot dit Verdrag toe te treden, bij een besluit, genomen door de in [artikel 20(d) van het Statuut van de Raad van Europa](https://wetten.overheid.nl/jci1.3:c:BWBV0005506&artikel=20) voorziene meerderheid, en bij algemene stemmen van de vertegenwoordigers van de Verdragsluitende Partijen die gerechtigd zijn in het Comité zitting te hebben.
 
 2. Ten aanzien van elke toetredende Staat treedt het Verdrag in werking op de eerste dag van de maand die volgt op het verstrijken van een periode van drie maanden na de datum van de nederlegging van de akte van toetreding bij de Secretaris-Generaal van de Raad van Europa.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Elke Staat kan bij de ondertekening of de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding het grondgebied of de grondgebieden aanwijzen waarop dit Verdrag van toepassing zal zijn.
 
@@ -122,7 +147,7 @@ Dit Verdrag staat open voor ondertekening door de Lid-Staten van de Raad van Eur
 
 3. Elke krachtens de twee voorgaande leden afgelegde verklaring kan, ten aanzien van elk in een dergelijke verklaring aangewezen grondgebied, worden ingetrokken door middel van een kennisgeving, gericht aan de Secretaris-Generaal. De intrekking wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een periode van zes maanden na de datum van ontvangst van die verklaring door de Secretaris-Generaal.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Elke Staat kan bij de ondertekening of de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding verklaren een of meer voorbehouden te maken.
 
@@ -130,13 +155,13 @@ Dit Verdrag staat open voor ondertekening door de Lid-Staten van de Raad van Eur
 
 3. Een Partij die een voorbehoud heeft gemaakt met betrekking tot een bepaling van dit Verdrag kan niet de toepassing van die bepaling door een andere Partij eisen; indien haar voorbehoud gedeeltelijk of voorwaardelijk is, kan zij evenwel de toepassing van die bepaling eisen voor zo ver zij deze zelf heeft aanvaard.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Elke Partij kan dit Verdrag op elk ogenblik opzeggen door middel van een kennisgeving, gericht aan de Secretaris-Generaal van de Raad van Europa.
 
 2. Een dergelijke opzegging wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een periode van zes maanden na ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 20
+##### Artikel 20
 
 De Secretaris-Generaal van de Raad van Europa stelt de Lid-Staten van de Raad en elke Staat die tot dit Verdrag is toegetreden in kennis van:
 

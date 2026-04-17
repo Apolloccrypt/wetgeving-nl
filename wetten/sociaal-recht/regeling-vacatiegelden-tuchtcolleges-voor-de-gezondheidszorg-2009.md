@@ -1,20 +1,46 @@
 ---
-title: "Regeling vacatiegelden tuchtcolleges voor de gezondheidszorg 2009"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 23 oktober 2009, nr. MEVA/BO-2919631, houdende vaststelling van de vacatiegelden voor personen die lid, plaatsvervangend lid of plaatsvervangend secretaris zijn van een tuchtcollege als bedoeld in artikel 47, derde lid, van de Wet op de beroepen in de individuele gezondheidszorg (Regeling vacatiegelden tuchtcolleges voor de gezondheidszorg 2009)"
 identifier: "BWBR0026608"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-04-01
-laatste_update: 2026-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026608"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-04-01"
+last_updated: "2026-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026608"
+soort: "ministeriele-regeling"
+stam_id: "10268123"
+version_id: "26325762"
+internal_id: "C37418221"
+label_id: "10243594"
+dtd_version: "2.0"
+original_entry_into_force: "2019-12-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026608/2026-04-01/0"
+intitule_bron: "Stcrt.2009-16766"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-10-23"
+intitule_published: "2009-11-06"
+intitule_in_force: "2009-11-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-67441"
+original_signed_date: "2019-12-03"
+original_published_date: "2019-12-11"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2019-67441"
+entry_into_force_date: "2019-12-03"
+jci_1_3: "jci1.3:c:BWBR0026608&z=2026-04-01&g=2026-04-01"
+jci_1_0: "1.0:c:BWBR0026608&g=2026-04-01"
+citeertitel_status: "officieel"
+short_title: "Regeling vacatiegelden tuchtcolleges voor de gezondheidszorg 2009"
+signed_date: "2019-12-03"
+entry_into_force: "2019-12-03"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 23 oktober 2009, nr. MEVA/BO-2919631, houdende vaststelling van de vacatiegelden voor personen die lid, plaatsvervangend lid of plaatsvervangend secretaris zijn van een tuchtcollege als bedoeld in artikel 47, derde lid, van de Wet op de beroepen in de individuele gezondheidszorg (Regeling vacatiegelden tuchtcolleges voor de gezondheidszorg 2009)
 
 Gelet op [artikel 62, eerste lid, van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=62);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -38,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 - 7. een beslissing wordt genomen op een voordracht als bedoeld in [artikel 79, eerste en tweede lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=79).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Aan de leden van een tuchtcollege wordt vacatiegeld toegekend.
 
@@ -82,23 +108,23 @@ In deze regeling wordt verstaan onder:
 
 12. Het vierde en elfde lid zijn voor de toekenning van vacatiegeld van overeenkomstige toepassing op de leden van een tuchtcollege dat een advies uitbrengt als bedoeld in [artikel 50, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=50).
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 Indien een vooronderzoek als bedoeld in [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=66) onderscheidenlijk [artikel 74 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=74) is uitgevoerd door een lid of plaatsvervangend lid van een regionaal tuchtcollege dan wel van het centrale tuchtcollege, bedraagt het vacatiegeld voor zodanig vooronderzoek € 193,–.
 
-#### Artikel 5
+##### Artikel 5
 
 Voor het beoordelen of een zaak in raadkamer kan worden behandeld of naar een terechtzitting van een tuchtcollege moet worden verwezen, dan wel voor het geven van een advies aan de voorzitter of diens plaatsvervanger, bedraagt het vacatiegeld € 193,– per schriftelijk gemotiveerd advies, indien dit is verricht door een lid-beroepsgenoot, een plaatsvervangend lid-beroepsgenoot, een rechtsgeleerd lid of een plaatsvervangend rechtsgeleerd lid.
 
-#### Artikel 6
+##### Artikel 6
 
 Reis- en verblijfkosten van leden en plaatsvervangende leden die niet in vaste, algemene dienst van het Rijk zijn aangesteld, worden vergoed per zittingsdag of per dag dat is deelgenomen aan een selectiecommissie als bedoeld in [artikel 5bis](https://wetten.overheid.nl/jci1.3:c:BWBR0026608&artikel=5bis&z=2026-04-01&g=2026-04-01), overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Deze regeling is niet van toepassing op leden van tuchtcolleges die op grond van enige benoeming bij een tuchtcollege, daarvoor uit andere hoofde dan deze regeling een bezoldiging of tegemoetkoming ontvangen.
 
@@ -108,23 +134,23 @@ Reis- en verblijfkosten van leden en plaatsvervangende leden die niet in vaste, 
 
 - b. waarvoor zij niet reeds uit andere hoofde aanspraak hebben op een bezoldiging of tegemoetkoming.
 
-#### Artikel 8
+##### Artikel 8
 
 De volgende regelingen worden ingetrokken: de [Regeling vergoedingen leden-beroepsgenoten](https://wetten.overheid.nl/jci1.3:c:BWBR0009296), de [Regeling vacatiegelden secretarissen](https://wetten.overheid.nl/jci1.3:c:BWBR0010104) en de [Regeling vacatiegelden voorzitters en rechtsgeleerde leden](https://wetten.overheid.nl/jci1.3:c:BWBR0011675).
 
-#### Artikel 9
+##### Artikel 9
 
 1. Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
 2. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0026608&artikel=7&z=2026-04-01&g=2026-04-01) werkt terug tot en met 1 januari 2008
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling vacatiegelden tuchtcolleges voor de gezondheidszorg 2009.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 5a
+##### Artikel 5a
 
 1. Degene die in aanmerking komt voor vacatiegeld op grond van deze regeling, dient daarvoor een declaratie in binnen zes maanden na de datum van de eindbeslissing of het advies als, bedoeld in [artikel 50, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=50).
 
@@ -138,7 +164,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 5bis
+##### Artikel 5bis
 
 Aan de leden-beroepsgenoten en plaatsvervangende leden-beroepsgenoten van een tuchtcollege wordt vacatiegeld ten bedrage van € 295 toegekend voor het als lid-beroepsgenoot van een selectiecommissie bijwonen van per selectieronde een of meer selectiegesprekken met een of meer kandidaten die in aanmerking willen komen voor benoeming tot lid-beroepsgenoot of plaatsvervangend lid-beroepsgenoot.
 

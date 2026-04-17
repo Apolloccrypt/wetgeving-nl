@@ -1,13 +1,37 @@
 ---
 title: "Erkenning ECN als instelling bevoegd tot verstrekken persoonlijke controlemiddelen"
 identifier: "BWBR0004115"
-categorie: "Overig"
-publicatiedatum: 1987-02-25
-laatste_update: 1987-02-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004115"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1987-02-25"
+last_updated: "1987-02-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004115"
+soort: "ministeriele-regeling"
+stam_id: "3710083"
+version_id: "5492972"
+internal_id: "C5686061"
+label_id: "3689854"
+dtd_version: "2.0"
+original_entry_into_force: "1987-02-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004115/1987-02-25/0"
+intitule_bron: "Stcrt.1987-36"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1987-02-05"
+intitule_published: "1987-02-20"
+intitule_in_force: "1987-02-20"
+intitule_status: "goed"
+original_publication: "Stcrt.1987-36"
+original_signed_date: "1987-02-05"
+original_published_date: "1987-02-20"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1987-02-25"
+jci_1_3: "jci1.3:c:BWBR0004115&z=1987-02-25&g=1987-02-25"
+jci_1_0: "1.0:c:BWBR0004115&g=1987-02-25"
+citeertitel_status: "officieel"
+signed_date: "1987-02-05"
+entry_into_force: "1987-02-25"
 ---
-
 # Erkenning ECN als instelling bevoegd tot verstrekken persoonlijke controlemiddelen
 
 Gelezen het verzoek van de Stichting Energieonderzoek Centrum Nederland te Petten van 29 augustus 1986, ref. ASB/lw, om krachtens de [Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402) erkend te worden als instelling bevoegd tot het verstrekken van persoonlijke controlemiddelen (thermoluminescentie-dosismeters);
@@ -18,11 +42,11 @@ Gelet op artikel 32b, eerste lid, van het Radioactieve-stoffenbesluit Kernenergi
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Als instelling, bevoegd tot het verstrekken van persoonlijke controlemiddelen, bedoeld in artikel 32b, eerste lid, van het Radioactieve-stoffenbesluit Kernenergiewet, artikel 23c, eerste lid, van het Toestellenbesluit Kernenergiewet, onderscheidenlijk artikel 25, eerste lid, van het Besluit stralenbescherming Kernenergiewet, wordt erkend de Stichting Energieonderzoek Centrum Nederland te Petten.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004115&artikel=1&z=1987-02-25&g=1987-02-25) bedoelde erkenning wordt verleend voor zover betreft het verstrekken van persoonlijke controlemiddelen, bestaande in thermoluminescentie-dosismeters voor het bepalen van doses:
 
@@ -34,7 +58,7 @@ Als instelling, bevoegd tot het verstrekken van persoonlijke controlemiddelen, b
 
 2. Ten aanzien van het bepalen van doses fotonenstraling geldt de erkenning alleen indien de controlemiddelen zijn bestemd om te worden gedragen door personen die tevens, hetzij tegelijkertijd, hetzij op een ander tijdstip, aan de onder a en/of b genoemde straling zijn blootgesteld of kunnen zijn blootgesteld.
 
-#### Artikel 3
+##### Artikel 3
 
 Aan de erkenning worden de volgende voorschriften verbonden:
 
@@ -56,6 +80,6 @@ Aan de erkenning worden de volgende voorschriften verbonden:
 
 - g. aan de directeur-generaal van de Arbeid worden op zijn verzoek alle inlichtingen verstrekt omtrent onderwerpen, verband houdende met de bij deze beschikking verleende erkenning.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze beschikking wordt in de Nederlandse Staatscourant bekendgemaakt.

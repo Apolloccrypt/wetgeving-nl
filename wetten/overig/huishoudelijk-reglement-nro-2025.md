@@ -1,20 +1,45 @@
 ---
 title: "Huishoudelijk reglement NRO 2025"
 identifier: "BWBR0052364"
-categorie: "Overig"
-publicatiedatum: 2026-02-26
-laatste_update: 2026-02-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052364"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-02-26"
+last_updated: "2026-02-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052364"
+soort: "zbo"
+stam_id: "17780793"
+version_id: "31442782"
+internal_id: "C44912181"
+label_id: "17678934"
+dtd_version: "2.0"
+original_entry_into_force: "2025-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052364/2026-02-26/0"
+intitule_bron: "Stcrt.2025-25755"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-07-09"
+intitule_published: "2025-08-01"
+intitule_in_force: "2025-08-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-25755"
+original_signed_date: "2025-07-09"
+original_published_date: "2025-08-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-25755"
+entry_into_force_date: "2025-08-01"
+jci_1_3: "jci1.3:c:BWBR0052364&z=2026-02-26&g=2026-02-26"
+jci_1_0: "1.0:c:BWBR0052364&g=2026-02-26"
+citeertitel_status: "officieel"
+signed_date: "2025-07-09"
+entry_into_force: "2025-08-01"
 ---
-
 # Huishoudelijk reglement NRO 2025
 
 Vastgesteld door de raad van bestuur van NWO op 9 juli 2025
 
 ### 1. Inleiding
 
-#### Artikel 1.1. – Begripsbepalingen
+##### Artikel 1.1. – Begripsbepalingen
 
 In dit huishoudelijk reglement wordt verstaan onder:
 
@@ -44,7 +69,7 @@ In dit huishoudelijk reglement wordt verstaan onder:
 
 - m. **Wet:** de [Wet op de Nederlandse Organisatie voor Wetenschappelijk Onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0004191).
 
-#### Artikel 1.2. – Juridische grondslag
+##### Artikel 1.2. – Juridische grondslag
 
 1. Zoals vastgelegd in artikel 3 aanhef en onder h, van het Convenant stelt het NRO een huishoudelijk reglement op voor het uitvoeren van de programma’s.
 
@@ -54,21 +79,21 @@ In dit huishoudelijk reglement wordt verstaan onder:
 
 4. Dit huishoudelijk reglement is op 27 juni 2025 vastgesteld door de Stuurgroep en is op 9 juli 2025 vastgesteld door de raad van bestuur.
 
-#### Artikel 1.3. – Citeertitel en inwerkingtreding
+##### Artikel 1.3. – Citeertitel en inwerkingtreding
 
 Dit huishoudelijk reglement kan worden aangehaald als ‘Huishoudelijk reglement NRO 2025’ en treedt in werking op 1 augustus 2025.
 
-#### Artikel 1.4. – Intrekking oude reglement
+##### Artikel 1.4. – Intrekking oude reglement
 
 Het Huishoudelijk reglement Stuurgroep Nationaal Regieorgaan Onderwijsonderzoek (NRO) komt op het moment van inwerkingtreding van dit huishoudelijk reglement te vervallen.
 
 ### 2. Het wetenschappelijk werkterrein van het regieorgaan
 
-#### Artikel 2.1. – De grenzen van het wetenschappelijk werkterrein
+##### Artikel 2.1. – De grenzen van het wetenschappelijk werkterrein
 
 Het wetenschappelijk werkterrein van het NRO omvat al het onderwijsonderzoek, zowel op microniveau (leerprocessen en onderwijsopbrengsten “in de klas”), mesoniveau (organisatie en effectiviteit “op schoolniveau”) als macroniveau (onderwijs “in de samenleving”). Het onderwijsonderzoek heeft betrekking op alle onderwijssectoren in Nederland, dus van vroeg- en voorschoolse educatie tot en met het hoger onderwijs en de aansluiting met leven lang leren. Daarbij gaat het om onderzoek naar vragen in een bepaalde onderwijssector en vragen die sector-overstijgend zijn.
 
-#### Artikel 2.2. – Missie van het regieorgaan
+##### Artikel 2.2. – Missie van het regieorgaan
 
 De missie van het NRO luidt als volgt:
 
@@ -76,7 +101,7 @@ Het Nationaal Regieorgaan Onderwijsonderzoek werkt aan de verbetering en vernieu
 
 ### 3. Stuurgroep
 
-#### Artikel 3.1. – Taken, verantwoordelijkheden en bevoegdheden Stuurgroep
+##### Artikel 3.1. – Taken, verantwoordelijkheden en bevoegdheden Stuurgroep
 
 1. De Stuurgroep ziet toe op het strategisch, inhoudelijk en bedrijfseconomisch functioneren van het NRO.
 
@@ -100,7 +125,7 @@ Het Nationaal Regieorgaan Onderwijsonderzoek werkt aan de verbetering en vernieu
 
 5. Bij de ondertekening neemt de directeur, dan wel de ondergemandateerde, het bepaalde in [artikel 6.5 van de Bevoegdhedenregeling](onbekend) in acht, waarin staat bepaald dat de ondertekenaar van een besluit onder zijn handtekening zijn naam en functie vermeldt en aangeeft namens wie of welk orgaan het besluit is genomen.
 
-#### Artikel 3.2. – Samenstelling en benoeming Stuurgroep
+##### Artikel 3.2. – Samenstelling en benoeming Stuurgroep
 
 1. De Stuurgroep bestaat uit een voorzitter en maximaal acht leden.
 
@@ -112,7 +137,7 @@ Het Nationaal Regieorgaan Onderwijsonderzoek werkt aan de verbetering en vernieu
 
 5. De Stuurgroep kiest uit haar midden een vicevoorzitter.
 
-#### Artikel 3.3. – Besluitvorming en vergaderwijze
+##### Artikel 3.3. – Besluitvorming en vergaderwijze
 
 1. De Stuurgroep vergadert zo dikwijls als zij dit wenselijk acht, doch tenminste viermaal per jaar. De agenda wordt door de voorzitter vastgesteld en bij de uitnodiging verstuurd.
 
@@ -138,7 +163,7 @@ Het Nationaal Regieorgaan Onderwijsonderzoek werkt aan de verbetering en vernieu
 
 10. De Stuurgroep kan ook buiten vergadering besluiten nemen door schriftelijk of per e-mail alle leden van de Stuurgroep te consulteren. Indien een lid hiertegen per ommegaande bezwaar maakt, wordt het besluit aangehouden tot de volgende vergadering, tenzij dit naar het oordeel van de voorzitter niet mogelijk is, gelet op de spoedeisendheid. Indien de stemmen staken kan de voorzitter beslissen.
 
-#### Artikel 3.4. – Persoonlijke belangen en stemprocedure
+##### Artikel 3.4. – Persoonlijke belangen en stemprocedure
 
 1. Ieder lid van de Stuurgroep maakt daarvan deel uit zonder last of ruggespraak.
 
@@ -156,7 +181,7 @@ Het Nationaal Regieorgaan Onderwijsonderzoek werkt aan de verbetering en vernieu
 
 ### 4. Programmaraad voor Wetenschappelijk Onderwijsonderzoek (Prowo)
 
-#### Artikel 4.1. – Taken, verantwoordelijkheden en bevoegdheden Prowo
+##### Artikel 4.1. – Taken, verantwoordelijkheden en bevoegdheden Prowo
 
 1. In overeenstemming met artikel 5, derde lid, van het Convenant heeft de Prowo tot taak het inrichten van programma’s en procedures voor de verdeling van financiële middelen. De Prowo doet dit met inachtneming van de door de Stuurgroep vastgestelde meerjarenbegroting.
 
@@ -182,7 +207,7 @@ Het Nationaal Regieorgaan Onderwijsonderzoek werkt aan de verbetering en vernieu
 
 7. Bij de ondertekening neemt de directeur, dan wel de ondergemandateerde, het bepaalde in [artikel 6.5 van de Bevoegdhedenregeling](onbekend) in acht, waarin staat bepaald dat de ondertekenaar van een besluit onder zijn handtekening diens naam en functie vermeldt en aangeeft namens wie of welk orgaan het besluit is genomen.
 
-#### Artikel 4.2. – Samenstelling en benoeming Prowo
+##### Artikel 4.2. – Samenstelling en benoeming Prowo
 
 1. De Prowo bestaat uit een voorzitter en maximaal tien leden.
 
@@ -194,7 +219,7 @@ Het Nationaal Regieorgaan Onderwijsonderzoek werkt aan de verbetering en vernieu
 
 5. De Prowo kiest uit zijn midden een vicevoorzitter.
 
-#### Artikel 4.3. – Besluitvorming en vergaderwijze
+##### Artikel 4.3. – Besluitvorming en vergaderwijze
 
 1. De Prowo vergadert zo dikwijls als hij dit wenselijk acht, doch tenminste viermaal per jaar. De agenda wordt door de voorzitter vastgesteld en bij de uitnodiging verstuurd.
 
@@ -220,7 +245,7 @@ Het Nationaal Regieorgaan Onderwijsonderzoek werkt aan de verbetering en vernieu
 
 10. De Prowo kan ook buiten vergadering besluiten nemen door schriftelijk of per e-mail alle leden van de Prowo te consulteren. Indien een lid hiertegen per ommegaande bezwaar maakt, wordt het besluit aangehouden tot de volgende vergadering, tenzij dit naar het oordeel van de voorzitter niet mogelijk is, gelet op de spoedeisendheid. Indien de stemmen staken kan de voorzitter beslissen.
 
-#### Artikel 4.4. – Persoonlijke belangen en stemprocedure
+##### Artikel 4.4. – Persoonlijke belangen en stemprocedure
 
 1. Ieder lid van de Prowo maakt daarvan deel uit zonder last of ruggespraak.
 
@@ -236,7 +261,7 @@ Het Nationaal Regieorgaan Onderwijsonderzoek werkt aan de verbetering en vernieu
 
 ### 5. De Kennisbenuttingsraad
 
-#### Artikel 5.1. – Taken, verantwoordelijkheden en bevoegdheden Kennisbenuttingsraad
+##### Artikel 5.1. – Taken, verantwoordelijkheden en bevoegdheden Kennisbenuttingsraad
 
 1. Ten behoeve van het opstellen en uitvoeren van het beleid voor bevordering van kennisbenutting en communicatie is een Kennisbenuttingsraad ingesteld.
 
@@ -258,7 +283,7 @@ Het Nationaal Regieorgaan Onderwijsonderzoek werkt aan de verbetering en vernieu
 
 7. De directeur ondertekent de in het derde en het vierde lid van dit artikel bedoelde besluiten namens de Kennisbenuttingsraad. De directeur kan hiervoor ondermandaat verlenen. Daarbij draagt hij er zorg voor dat het ondermandaat is opgenomen in het register zoals bedoeld in [artikel 6.4 van de Bevoegdhedenregeling](onbekend).
 
-#### Artikel 5.2. – Samenstelling en benoeming Kennisbenuttingsraad
+##### Artikel 5.2. – Samenstelling en benoeming Kennisbenuttingsraad
 
 1. De Kennisbenuttingsraad bestaat uit een voorzitter en maximaal tien leden.
 
@@ -272,7 +297,7 @@ Het Nationaal Regieorgaan Onderwijsonderzoek werkt aan de verbetering en vernieu
 
 6. De Kennisbenuttingsraad kiest uit haar midden een vicevoorzitter.
 
-#### Artikel 5.3. – Besluitvorming en vergaderwijze
+##### Artikel 5.3. – Besluitvorming en vergaderwijze
 
 1. De Kennisbenuttingsraad vergadert zo dikwijls als hij dit wenselijk acht, doch tenminste viermaal per jaar. De agenda wordt door de voorzitter vastgesteld en bij de uitnodiging verstuurd.
 
@@ -300,7 +325,7 @@ Het Nationaal Regieorgaan Onderwijsonderzoek werkt aan de verbetering en vernieu
 
 ### 6. Directeur NRO
 
-#### Artikel 6.1. – Taken, verantwoordelijkheden en bevoegdheden directeur NRO
+##### Artikel 6.1. – Taken, verantwoordelijkheden en bevoegdheden directeur NRO
 
 1. De taken, verantwoordelijkheden en bevoegdheden van de directeur zijn vastgelegd in artikel 6.5 van het Convenant. De bevoegdheden zijn nader uitgewerkt in [artikel 3.4. van de Bevoegdhedenregeling](onbekend).
 
@@ -312,7 +337,7 @@ Het Nationaal Regieorgaan Onderwijsonderzoek werkt aan de verbetering en vernieu
 
 ### 7. Advisering aan de Stuurgroep inzake strategie en beleid
 
-#### Artikel 7.1. – Adviesraad: Taken, verantwoordelijkheden en bevoegdheden
+##### Artikel 7.1. – Adviesraad: Taken, verantwoordelijkheden en bevoegdheden
 
 1. De Stuurgroep kan een of meer adviesraden instellen, die haar adviseert over voor het NRO relevante ontwikkelingen in samenleving en wetenschap.
 
@@ -322,7 +347,7 @@ Het Nationaal Regieorgaan Onderwijsonderzoek werkt aan de verbetering en vernieu
 
 ### 8. Advisering aan de Programmaraad voor Wetenschappelijk Onderwijsonderzoek inzake onderzoeksprogramma’s
 
-#### Artikel 8.1. – Commissies belast met de beoordeling van subsidieaanvragen
+##### Artikel 8.1. – Commissies belast met de beoordeling van subsidieaanvragen
 
 1. De Prowo stelt voor elk subsidie-instrument ten behoeve van de beoordeling van subsidieaanvragen een van de hierna te noemen onafhankelijke adviescommissies in:
 
@@ -346,7 +371,7 @@ Het Nationaal Regieorgaan Onderwijsonderzoek werkt aan de verbetering en vernieu
 
 9. Alle correspondentie van een commissie wordt ondertekend door de secretaris van de commissie.
 
-#### Artikel 8.2. – Voorbereidingscommissie
+##### Artikel 8.2. – Voorbereidingscommissie
 
 1. De Prowo kan, al dan niet samen met andere organen, een voorbereidingscommissie instellen, die een (onderzoeks)programma opstelt voor een bepaald onderwerp, waaronder onder meer begrepen een multidisciplinair onderzoeksterrein. Deze commissie functioneert onder de verantwoordelijkheid van de Prowo.
 
@@ -362,7 +387,7 @@ Het Nationaal Regieorgaan Onderwijsonderzoek werkt aan de verbetering en vernieu
 
 7. Alle correspondentie van een voorbereidingscommissie wordt ondertekend door de secretaris van de voorbereidingscommissie.
 
-#### Artikel 8.3. – Programmacommissie
+##### Artikel 8.3. – Programmacommissie
 
 1. De Prowo kan, al dan niet gezamenlijk met andere organen, een programmacommissie instellen die wordt belast met de uitvoering van programma-activiteiten. Deze commissie functioneert onder de verantwoordelijkheid van de Prowo.
 
@@ -384,7 +409,7 @@ Het Nationaal Regieorgaan Onderwijsonderzoek werkt aan de verbetering en vernieu
 
 10. Alle correspondentie, waaronder niet begrepen besluiten, van een programmacommissie wordt ondertekend door de secretaris van de programmacommissie.
 
-#### Artikel 8.4. – Begeleidingscommissie
+##### Artikel 8.4. – Begeleidingscommissie
 
 1. De Prowo kan, al dan niet gezamenlijk met andere organen, na de toekenning van één of meer onderzoeksprojecten binnen een programma een begeleidingscommissie instellen: een commissie van deskundigen die de uitvoering van de projecten monitort, de uitvoerders van feedback voorziet en toeziet op de kwaliteit van tussen en eindproducten.
 

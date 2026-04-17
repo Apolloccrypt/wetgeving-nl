@@ -1,13 +1,35 @@
 ---
 title: "Verdrag inzake sociale zekerheid tussen het Koninkrijk der Nederlanden en de Federatieve Republiek Brazilië"
 identifier: "BWBV0001477"
-categorie: "Sociaal recht"
-publicatiedatum: 2002-03-07
-laatste_update: 2002-03-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001477"
+country: "nl"
+rank: "verdrag"
+publication_date: "2002-03-07"
+last_updated: "2002-03-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001477"
+soort: "verdrag"
+stam_id: "10001469863"
+version_id: "10001548282"
+internal_id: "C10006993741"
+label_id: "10001470304"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001477/2002-03-07/0"
+intitule_bron: "Trb.2002-79"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-05-01"
+intitule_published: "2002-04-17"
+intitule_status: "nogniet"
+original_publication: "Trb.2002-79"
+original_signed_date: "2001-05-01"
+original_published_date: "2002-04-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2002-79"
+jci_1_3: "jci1.3:c:BWBV0001477&z=2002-03-07&g=2002-03-07"
+jci_1_0: "1.0:c:BWBV0001477&g=2002-03-07"
+citeertitel_status: "redactioneel"
+signed_date: "2001-05-01"
+entry_into_force: "2002-04-17"
 ---
-
 # Verdrag inzake sociale zekerheid tussen het Koninkrijk der Nederlanden en de Federatieve Republiek Brazilië
 
 Het Koninkrijk der Nederlanden
@@ -24,7 +46,7 @@ Vastbesloten een Verdrag inzake sociale zekerheid te sluiten onder de hierna bep
 
 ## TITEL I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 1. Voor de toepassing van dit Verdrag, hebben de onderstaande termen de volgende betekenis:
 
@@ -62,7 +84,7 @@ Vastbesloten een Verdrag inzake sociale zekerheid te sluiten onder de hierna bep
 
 2. De overige termen of uitdrukkingen die in dit Verdrag worden gebruikt hebben de betekenis die daaraan in de wetgeving van de Verdragsluitende Partijen wordt toegekend.
 
-#### Artikel 2. Materiële werkingssfeer
+##### Artikel 2. Materiële werkingssfeer
 
 Dit Verdrag is van toepassing:
 
@@ -94,11 +116,11 @@ Dit Verdrag is van toepassing:
 
 - g. werkloosheidsuitkeringen.
 
-#### Artikel 3. Personele werkingssfeer
+##### Artikel 3. Personele werkingssfeer
 
 Dit Verdrag is van toepassing op alle personen die aan de wetgeving van een van beide of beide Verdragsluitende Partijen onderworpen zijn of zijn geweest, alsmede op gezinsleden en nabestaanden van deze personen voor zover zij rechten aan die personen ontlenen.
 
-#### Artikel 4. Gelijke behandeling
+##### Artikel 4. Gelijke behandeling
 
 De volgende personen die wonen op het grondgebied van een Verdragsluitende Partij hebben dezelfde rechten en verplichtingen uit hoofde van de wetgeving van die Verdragsluitende Partij als haar eigen onderdanen:
 
@@ -108,7 +130,7 @@ De volgende personen die wonen op het grondgebied van een Verdragsluitende Parti
 
 - c. gezinsleden van de onder a of b bedoelde personen, ongeacht hun nationaliteit, wier rechten afhankelijk zijn van die van de verzekerde.
 
-#### Artikel 5. Export van uitkeringen
+##### Artikel 5. Export van uitkeringen
 
 Bepalingen van de wetgeving die uitsluitend omdat de rechthebbende of een lid van zijn gezin buiten het grondgebied van een Verdragsluitende Partij woont of verblijft, betaling van uitkeringen beperken, zijn niet van toepassing indien de rechthebbende of dit gezinslid woont of verblijft op het grondgebied van de andere Verdragsluitende Partij.
 
@@ -116,7 +138,7 @@ Bepalingen van de wetgeving die uitsluitend omdat de rechthebbende of een lid va
 
 ### HOOFDSTUK I
 
-#### Artikel 6. Algemene bepalingen inzake het grondbeginsel van verzekering
+##### Artikel 6. Algemene bepalingen inzake het grondbeginsel van verzekering
 
 1. De personen op wie dit Verdrag van toepassing is zijn uitsluitend onderworpen aan de wetgeving van de Verdragsluitende Partij op het grondgebied waarvan zij werkzaam zijn, tenzij anders bepaald in de artikelen 7 tot en met 11.
 
@@ -128,25 +150,25 @@ Bepalingen van de wetgeving die uitsluitend omdat de rechthebbende of een lid va
 
 ### HOOFDSTUK II. UITZONDERINGEN OP DE ALGEMENE BEPALINGEN
 
-#### Artikel 7. Ambtenaren
+##### Artikel 7. Ambtenaren
 
 De ambtenaren van een Verdragsluitende Partij, of andere als zodanig aangestelde personen die worden gedetacheerd op het grondgebied van de andere Verdragsluitende Partij, blijven onderworpen aan de wetgeving van de eerstgenoemde Verdragsluitende Partij, zelfs als zij inwoner zijn van de andere Verdragsluitende Partij. Wanneer echter een ambtenaar of een ander als zodanig aangesteld persoon een of meerdere activiteiten verricht waarop de sociale zekerheidswetgeving van de Verdragsluitende Partij waar hij woont van toepassing is, is hij ten aanzien van deze activiteiten onderworpen aan de wetgeving van de Verdragsluitende Partij waar hij woont.
 
-#### Artikel 8. Werknemers
+##### Artikel 8. Werknemers
 
 1. Een persoon die als werknemer werkzaam is op het grondgebied van een Verdragsluitende Partij en die wordt gedetacheerd om voor zijn of haar werkgever werkzaamheden te verrichten op het grondgebied van de andere Verdragsluitende Partij is voor die werkzaamheden alleen onderworpen aan de wetgeving van de eerstgenoemde Verdragsluitende Partij als zouden die werkzaamheden worden verricht op haar grondgebied en mits deze detachering niet langer duurt dan 24 maanden en de betrokkene niet tevens tewerk wordt gesteld op het grondgebied van de andere Verdragsluitende Partij door een andere werkgever die zich op dat grondgebied bevindt.
 
 2. Het in het eerste lid genoemde tijdvak kan voor een gelijke periode worden verlengd, mits dit wordt toegestaan door de bevoegde autoriteiten of door eenieder die op grond van een volmacht bevoegd is deze toestemming te verlenen.
 
-#### Artikel 9. Personeel van internationale luchttransportondernemingen
+##### Artikel 9. Personeel van internationale luchttransportondernemingen
 
 Een persoon die deel uitmaakt van het vliegend personeel van een onderneming die tegen betaling of voor eigen rekening internationale vervoersdiensten exploiteert voor passagiers of goederen door de lucht en haar zetel heeft op het grondgebied van een Verdragsluitende Partij is onderworpen aan de wetgeving van die Verdragsluitende Partij. Indien de genoemde onderneming evenwel een filiaal of een permanente vertegenwoordiging heeft op het grondgebied van de andere Verdragsluitende Partij dan die waar zij haar zetel heeft, is een persoon die als werknemer werkzaam is bij een dergelijk filiaal of een dergelijke permanente vertegenwoordiging onderworpen aan de wetgeving van de Verdragsluitende Partij op het grondgebied waarvan dit filiaal of deze permanente vertegenwoordiging zich bevindt.
 
-#### Artikel 10. Bemanningsleden aan boord van schepen
+##### Artikel 10. Bemanningsleden aan boord van schepen
 
 Een persoon die als werknemer werkzaam is aan boord van een schip en op het grondgebied van een Verdragsluitende Partij woont, is onderworpen aan de wetgeving van de Verdragsluitende Partij op het grondgebied waarvan de werkgever zijn zetel of domicilie heeft.
 
-#### Artikel 11. Personeel van diplomatieke en consulaire zendingen
+##### Artikel 11. Personeel van diplomatieke en consulaire zendingen
 
 1. Onderdanen van een Verdragsluitende Partij die door de regering van die Verdragsluitende Partij worden uitgezonden naar het grondgebied van de andere Verdragsluitende Partij als lid van een diplomatieke zending of consulaire post zijn onderworpen aan de wetgeving van de eerstgenoemde Verdragsluitende Partij.
 
@@ -158,7 +180,7 @@ Een persoon die als werknemer werkzaam is aan boord van een schip en op het gron
 
 5. Het bepaalde in het eerste lid is niet van toepassing op honoraire leden van een consulaire post of op personen die als werknemer werkzaam zijn in persoonlijke dienst van dergelijke personen. Zij zijn onderworpen aan artikel 6.
 
-#### Artikel 12. Uitzonderingen op de bepalingen van de artikelen 6 tot en met 11
+##### Artikel 12. Uitzonderingen op de bepalingen van de artikelen 6 tot en met 11
 
 De bevoegde autoriteiten van beide Verdragsluitende Partijen of de door de bevoegde autoriteiten aangewezen lichamen kunnen ten behoeve van de betrokkenen uitzonderingen op de bepalingen van de artikelen 6 tot en met 11 overeenkomen.
 
@@ -166,13 +188,13 @@ De bevoegde autoriteiten van beide Verdragsluitende Partijen of de door de bevoe
 
 ### HOOFDSTUK I. BEPALINGEN INZAKE BRAZILIË
 
-#### Artikel 13. Samentelling van de verzekeringstijdvakken
+##### Artikel 13. Samentelling van de verzekeringstijdvakken
 
 1. Voor het verkrijgen, behouden of herstellen van het recht op betalingen onder de voorwaarden van de wetgeving van Brazilië worden, indien nodig, de op grond van deze wetgeving vervulde verzekeringstijdvakken samengeteld met de op grond van de Nederlandse wetgeving vervulde verzekeringstijdvakken, mits deze niet samenvallen, als was over het gehele tijdvak premie of bijdrage betaald ingevolge de wetgeving van Brazilië.
 
 2. Wanneer de wetgeving van Brazilië het recht op een bijzondere uitkering ondergeschikt maakt aan de voorwaarde dat de verzekeringstijdvakken zijn vervuld onder bijzondere omstandigheden met gevaar voor de gezondheid of het lichamelijk welzijn, worden de in de andere Verdragsluitende Partij onder soortgelijke omstandigheden vervulde tijdvakken met deze tijdvakken samengeteld. Indien blootstelling aan deze bijzondere omstandigheden in de andere Verdragsluitende Partij evenwel niet kan worden aangetoond, worden de tijdvakken in aanmerking genomen voor gewone uitkeringen.
 
-#### Artikel 14. Berekening van de betaling van uitkeringen
+##### Artikel 14. Berekening van de betaling van uitkeringen
 
 1. Het Braziliaanse bevoegde orgaan, gebruik makend van de samentelling van de in het vorige artikel bedoelde berekende tijdvakken, stelt de hoogte van de uitkering vast waarop de belanghebbenden recht zouden hebben krachtens de Braziliaanse wetgeving.
 
@@ -182,13 +204,13 @@ De bevoegde autoriteiten van beide Verdragsluitende Partijen of de door de bevoe
 
 - b. op basis van de theoretische betaling wordt de waarde van het door Brazilië verschuldigde deel van de uitkering vastgesteld door middel van een „pro-rata temporis" berekening, waarvan het resultaat de verhouding is tussen het feitelijk in Brazilië vervulde verzekeringstijdvak en de samentelling van de in de twee Verdragsluitende Partijen vervulde verzekeringstijdvakken.
 
-#### Artikel 15. Behoud van status
+##### Artikel 15. Behoud van status
 
 Indien de wetgeving van Brazilië vereist dat voor het toekennen van het recht op uitkeringen de aanvrager onderworpen dient te zijn aan haar wetgeving, wordt aan deze voorwaarde geacht voldaan te zijn indien de verzekerde onderworpen is aan de wetgeving van Nederland of recht heeft op uitkeringen, met uitzondering van uitkeringen wegens overlijden.
 
 ### HOOFDSTUK II. Bepalingen met betrekking tot nederland
 
-#### Artikel 16. Ouderdoms- en nabestaandenpensioenen en arbeidsongeschiktheidsuitkeringen
+##### Artikel 16. Ouderdoms- en nabestaandenpensioenen en arbeidsongeschiktheidsuitkeringen
 
 1. Het bevoegde orgaan van Nederland stelt het ouderdomspensioen rechtstreeks en uitsluitend vast op basis van de ingevolge de Nederlandse Algemene Ouderdomswet vervulde verzekeringstijdvakken.
 
@@ -198,7 +220,7 @@ Indien de wetgeving van Brazilië vereist dat voor het toekennen van het recht o
 
 ## TITEL IV. HANDHAVING
 
-#### Artikel 17. Verificatie van aanvragen en betalingen
+##### Artikel 17. Verificatie van aanvragen en betalingen
 
 1. Voor de toepassing van dit artikel wordt verstaan onder „inlichtingen": alle gegevens met betrekking tot identiteit, adres, gezinssituatie, werk, opleiding, inkomen, gezondheidstoestand, overlijden en detentie, of andere gegevens die van belang zijn voor de uitvoering van dit Verdrag.
 
@@ -210,7 +232,7 @@ Indien de wetgeving van Brazilië vereist dat voor het toekennen van het recht o
 
 5. Onverminderd het tweede lid stelt het bevoegde orgaan van een Verdragsluitende Partij voor zover mogelijk en zonder voorafgaand verzoek, het bevoegde orgaan van de andere Verdragsluitende Partij in kennis van veranderingen in de in het eerste lid bedoelde inlichtingen.
 
-#### Artikel 18. Verificatie van inlichtingen in geval van ziekte en arbeidsongeschiktheid
+##### Artikel 18. Verificatie van inlichtingen in geval van ziekte en arbeidsongeschiktheid
 
 1. Op verzoek van het bevoegde orgaan van een Verdragsluitende Partij wordt het medisch onderzoek met betrekking tot een aanvrager of een rechthebbende die of een lid van zijn gezin dat op het grondgebied van de andere Verdragsluitende Partij woont of verblijft, uitgevoerd door het bevoegde orgaan van de laatstgenoemde Verdragsluitende Partij.
 
@@ -220,7 +242,7 @@ Indien de wetgeving van Brazilië vereist dat voor het toekennen van het recht o
 
 4. De kosten voor het vereiste onderzoek, in voorkomend geval, en de reis- en verblijfkosten worden betaald door het bevoegde orgaan op verzoek waarvan het medisch onderzoek wordt uitgevoerd.
 
-#### Artikel 19. Weigering te betalen, schorsing, intrekking
+##### Artikel 19. Weigering te betalen, schorsing, intrekking
 
 Het bevoegde orgaan van een Verdragsluitende Staat kan, binnen de grenzen van zijn bevoegdheid, weigeren een uitkering toe te kennen, of de betaling van een uitkering schorsen of intrekken indien:
 
@@ -228,7 +250,7 @@ Het bevoegde orgaan van een Verdragsluitende Staat kan, binnen de grenzen van zi
 
 - b. indien het bevoegde orgaan van de andere Verdragsluitende Partij verzuimt inlichtingen te verstrekken of onderzoeken uit te voeren zoals vereist ingevolge dit Verdrag binnen een termijn van zes maanden.
 
-#### Artikel 20. Identificatie
+##### Artikel 20. Identificatie
 
 1. Voor de toepassing van dit Verdrag dient de rechthebbende te worden geïdentificeerd door het bevoegde orgaan van de Verdragsluitende Partij waar hij zijn woonplaats heeft, door overlegging van het originele identiteitsbewijs afgegeven door de hiertoe gemachtigde overheidsinstanties.
 
@@ -238,7 +260,7 @@ Het bevoegde orgaan van een Verdragsluitende Staat kan, binnen de grenzen van zi
 
 ### HOOFDSTUK I
 
-#### Artikel 21. Taken van de bevoegde autoriteiten
+##### Artikel 21. Taken van de bevoegde autoriteiten
 
 1. De bevoegde autoriteiten van beide Verdragsluitende Partijen:
 
@@ -258,13 +280,13 @@ Het bevoegde orgaan van een Verdragsluitende Staat kan, binnen de grenzen van zi
 
 4. De Verdragsluitende Partijen kunnen langs diplomatieke weg andere bevoegde organen en overeenkomstige autoriteiten en verbindingsorganen aanwijzen in het geval van opheffing, samenvoeging, oprichting of naamsverandering van de in dit artikel aangewezen organen.
 
-#### Artikel 22. Administratieve samenwerking tussen de bevoegde organen
+##### Artikel 22. Administratieve samenwerking tussen de bevoegde organen
 
 1. Voor de uitvoering van dit Verdrag zijn de bevoegde organen behulpzaam en handelen als voerden zij hun eigen wetgeving uit. De door de bevoegde organen verleende administratieve bijstand is in het algemeen kosteloos.
 
 2. De bevoegde organen van beide Verdragsluitende Partijen kunnen te allen tijde verzoeken om de documenten, medische rapporten en bewijzen van feiten en handelingen die kunnen leiden tot het verkrijgen, wijzigen, opschorten, uitbreiden, vervallen of behouden van door hen erkende rechten op uitkeringen. In ieder geval geschiedt de inwilliging van verzoeken door de bevoegde organen wanneer zij worden gedaan via de socialezekerheidsorganen kosteloos.
 
-#### Artikel 23. Dienstverlening en afgifte van documenten en hun rechtsgevolgen
+##### Artikel 23. Dienstverlening en afgifte van documenten en hun rechtsgevolgen
 
 1. Verzoeken, verklaringen, beroepschriften en andere documenten die voor de toepassing van de wetgeving van een Verdragsluitende Partij binnen een vastgestelde termijn bij de autoriteiten, het bevoegde orgaan of verbindingsorgaan van die Verdragsluitende Partij dienen te worden ingediend, worden geacht bij de voornoemde autoriteit of het voornoemde verbindingsorgaan te zijn ingediend indien zij binnen dezelfde termijn bij de autoriteit of het bevoegde orgaan of verbindingsorgaan van de andere Verdragsluitende Partij zijn ingediend.
 
@@ -276,7 +298,7 @@ Het bevoegde orgaan van een Verdragsluitende Staat kan, binnen de grenzen van zi
 
 5. Voor de administratieve akten en de voor de uitvoering van dit Verdrag verzonden documenten gelden niet de gewone procedures van legalisering en echting door de Verdragsluitende Partijen.
 
-#### Artikel 24. De gemengde commissie
+##### Artikel 24. De gemengde commissie
 
 1. De gemengde commissie voert de volgende taken uit:
 
@@ -294,7 +316,7 @@ Het bevoegde orgaan van een Verdragsluitende Staat kan, binnen de grenzen van zi
 
 ### HOOFDSTUK II. OVERGANGSBEPALINGEN
 
-#### Artikel 25. Beoordeling van aan de inwerkingtreding van dit Verdrag voorafgaande tijdvakken en vaststelling van aan de inwerkingtreding van dit Verdrag voorafgaande oorspronkelijke rechten
+##### Artikel 25. Beoordeling van aan de inwerkingtreding van dit Verdrag voorafgaande tijdvakken en vaststelling van aan de inwerkingtreding van dit Verdrag voorafgaande oorspronkelijke rechten
 
 1. De voorafgaand aan de inwerkingtreding van dit Verdrag vervulde verzekeringstijdvakken worden in aanmerking genomen ten behoeve van de vaststelling van rechten die voortvloeien uit dit Verdrag, mits de rechthebbende ten tijde van de inwerkingtreding van dit Verdrag verzekerd is krachtens de socialezekerheidswetgeving van een van de Verdragsluitende Partijen.
 
@@ -308,7 +330,7 @@ Het bevoegde orgaan van een Verdragsluitende Staat kan, binnen de grenzen van zi
 
 ### HOOFDSTUK III. SLOTBEPALINGEN
 
-#### Artikel 26. Bekrachtiging en inwerkingtreding
+##### Artikel 26. Bekrachtiging en inwerkingtreding
 
 1. Dit Verdrag wordt bekrachtigd door beide Verdragsluitende Partijen in overeenstemming met de constitutionele vereisten van elke Verdragsluitende Partij en treedt in werking op de eerste dag van de tweede maand volgend op de uitwisseling van de akten van bekrachtiging.
 
@@ -318,7 +340,7 @@ Het bevoegde orgaan van een Verdragsluitende Staat kan, binnen de grenzen van zi
 
 4. In geval van opzegging blijven verworven rechten behouden en worden de in opbouw zijnde rechten vastgesteld overeenkomstig het bepaalde in het Verdrag tot maximaal een jaar na beëindiging hiervan.
 
-#### Artikel 27. Toepassing van het Verdrag
+##### Artikel 27. Toepassing van het Verdrag
 
 Met betrekking tot het Koninkrijk der Nederlanden is dit Verdrag alleen van toepassing op het grondgebied van het Koninkrijk in Europa.
 

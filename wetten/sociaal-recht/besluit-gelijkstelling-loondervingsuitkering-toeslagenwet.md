@@ -1,13 +1,37 @@
 ---
-title: "Besluit gelijkstelling loondervingsuitkering Toeslagenwet"
+title: "Besluit van 24 december 1986, tot vaststelling van regels als bedoeld in artikel 6, tweede lid, van de Toeslagenwet"
 identifier: "BWBR0004092"
-categorie: "Sociaal recht"
-publicatiedatum: 2016-12-28
-laatste_update: 2016-12-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004092"
+country: "nl"
+rank: "amvb"
+publication_date: "2016-12-28"
+last_updated: "2016-12-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004092"
+soort: "AMvB"
+stam_id: "2048703"
+version_id: "23748512"
+internal_id: "C34178721"
+label_id: "1997024"
+dtd_version: "2.0"
+original_entry_into_force: "2016-12-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004092/2016-12-28/0"
+intitule_bron: "Stb.1986-659"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1986-12-24"
+intitule_status: "goed"
+original_publication: "Stb.2016-536"
+original_signed_date: "2016-12-20"
+original_published_date: "2016-12-27"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2016-536"
+entry_into_force_date: "2016-12-28"
+jci_1_3: "jci1.3:c:BWBR0004092&z=2016-12-28&g=2016-12-28"
+jci_1_0: "1.0:c:BWBR0004092&g=2016-12-28"
+citeertitel_status: "officieel"
+short_title: "Besluit gelijkstelling loondervingsuitkering Toeslagenwet"
+signed_date: "2016-12-20"
+entry_into_force: "2016-12-28"
 ---
-
 # Besluit van 24 december 1986, tot vaststelling van regels als bedoeld in artikel 6, tweede lid, van de Toeslagenwet
 
 Op de voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 6 november 1986, Directoraat-Generaal Sociale Zekerheid, nr. SZ/SV/VV/SVV/86/09223;
@@ -22,7 +46,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 1. Dit besluit is uitsluitend van toepassing op de persoon wiens dagloon of grondslag, vermeerderd met het inkomen uit arbeid of overig inkomen anders dan de loondervingsuitkering op grond waarvan aanspraak op toeslag wordt gemaakt, minder bedraagt dan het voor hem van toepassing zijnde norminkomen, bedoeld in [artikel 2 van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=2).
 
@@ -34,11 +58,11 @@ Hebben goedgevonden en verstaan:
 
 #### § 2.1. Inkomen uit arbeid
 
-#### Artikel 2
+##### Artikel 2
 
 Voor de toepassing van [artikel 8a, eerste lid, van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=8a) wordt met de loondervingsuitkering gelijkgesteld een aanvulling op de loondervingsuitkering op grond waarvan aanspraak op toeslag wordt gemaakt.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Voor de toepassing van [artikel 8a, eerste lid, van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=8a) wordt met de loondervingsuitkering gelijkgesteld al het inkomen uit arbeid of overig inkomen van de persoon die aanspraak maakt op toeslag, indien die persoon:
 
@@ -50,19 +74,19 @@ Voor de toepassing van [artikel 8a, eerste lid, van de Toeslagenwet](https://wet
 
 2. Indien de toepassing van het eerste lid er toe leidt dat de toeslag minder bedraagt dan het verschil tussen 100/70 maal de loondervingsuitkering en de som van de loondervingsuitkering en een aanvulling daarop, wordt de gelijkstelling, bedoeld in het eerste lid zodanig beperkt, dat de toeslag gelijk is aan het verschil tussen 100/70 maal de loondervingsuitkering en de som van de loondervingsuitkering en een aanvulling daarop.
 
-#### Artikel 4
+##### Artikel 4
 
 Voor de toepassing van [artikel 8a, eerste lid, van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=8a) wordt voor de persoon die loon of bezoldiging ontvangt op grond van [artikel 629, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629) of [artikel 76a, eerste lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=76a), dat loon of die bezoldiging gelijkgesteld met de op het dagloon of de grondslag in mindering te brengen loondervingsuitkering.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit wordt aangehaald als: Besluit gelijkstelling loondervingsuitkering Toeslagenwet.
 
-#### Artikel 5a
+##### Artikel 5a
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 1. Onder winst als bedoeld in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004092&paragraaf=2&sub-paragraaf=2.1&artikel=2&z=2011-06-01&g=2011-06-01), wordt verstaan de belastbare winst uit onderneming, bedoeld in [paragraaf 3.2.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&paragraaf=3.2.1), vermeerderd met de ondernemersaftrek, bedoeld in [paragraaf 3.2.4 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&paragraaf=3.2.4), en de MKB-winstvrijstelling, bedoeld in [paragraaf 3.2.5 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&paragraaf=3.2.5), met dien verstande dat de bestanddelen van de winst, bedoeld in [artikel 3.78, derde lid, onderdelen a, b en c, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.78), niet geacht worden te behoren tot die winst.
 
@@ -74,7 +98,7 @@ Vervallen
 
 #### § 2.2. Overig inkomen
 
-#### Artikel 7
+##### Artikel 7
 
 1. Voor de toepassing van [artikel 6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=6) wordt onder overig inkomen verstaan:
 
@@ -132,7 +156,7 @@ Vervallen
 
 #### § 3. Bepaling van het inkomen
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het inkomen uit arbeid of overig inkomen wordt vastgesteld op het tot een bedrag per dag herleide inkomen, bedoeld in [de artikelen 3 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004092&paragraaf=2&sub-paragraaf=2.1&artikel=3&z=2011-06-01&g=2011-06-01), dat degene, die aanspraak maakt op een toeslag, en zijn echtgenoot verwerven in het betalingstijdvak, waarover de loondervingsuitkering wordt uitbetaald.
 
@@ -148,7 +172,7 @@ Vervallen
 
 7. Indien de toepassing van de leden 1 tot en met 6, gelet op het tijdstip van verwerving van een inkomensbestanddeel, tot een kennelijk onredelijk resultaat leidt, bepaalt het Uitvoeringsinstituut werknemersverzekeringen op welke periode dat inkomensbestanddeel geacht moet worden betrekking te hebben en hoe dit bestanddeel geacht moet worden over deze periode te zijn verdeeld.
 
-#### Artikel 8a
+##### Artikel 8a
 
 1. 1. De bij de toepassing van de voorgaande artikelen noodzakelijke omrekening in euro van een niet in euro uitgedrukt inkomen uit arbeid of overig inkomen in de Nederlandse munteenheid geschiedt met behulp van de door de Europese Centrale Bank geadviseerde wisselkoersen.
 
@@ -160,33 +184,33 @@ Vervallen
 
 #### § 3a. Bijzondere bepalingen
 
-#### Artikel 8b
+##### Artikel 8b
 
 1. Voor de toepassing van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004092&paragraaf=2&sub-paragraaf=2.1&artikel=6&z=2011-06-01&g=2011-06-01), van de wet wordt de overhevelingstoeslag op grond van artikel 1 van de Wet overhevelingstoeslag opslagpremies (**Stb.** 1989, 128), alsmede het bedrag, waarmee ingevolge artikel 81, derde lid, van de Wet aanpassing uitkeringsregelingen overheveling opslagpremies (**Stb.** 1989, 127) een uitkering ingevolge de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) en een pensioenuitkering ingevolge de Algemene Weduwen- en Wezenwet is verhoogd, buiten beschouwing gelaten.
 
 2. Voor de toepassing van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004092&paragraaf=2&sub-paragraaf=2.1&artikel=6&z=2011-06-01&g=2011-06-01), van de wet wordt gedurende het jaar 1991 het bedrag waarmee ingevolge artikel 81, vierde lid, van de Wet aanpassing uitkeringsregelingen overheveling opslagpremies een uitkering ingevolge de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) is verhoogd, buiten beschouwing gelaten.
 
-#### Artikel 8c
+##### Artikel 8c
 
 Voor de toepassing van [artikel 5, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0004092&paragraaf=2&sub-paragraaf=2.1&artikel=5&z=2011-06-01&g=2011-06-01), en [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004092&paragraaf=2&sub-paragraaf=2.1&artikel=6&z=2011-06-01&g=2011-06-01), van dit besluit wordt op het inkomen een bedrag in mindering gebracht, gelijk aan de overhevelingstoeslag, berekend overeenkomstig de bij en krachtens [artikel 2 van de Wet brutering overhevelingstoeslag lonen](https://wetten.overheid.nl/jci1.3:c:BWBR0006353&artikel=2) gestelde regels.
 
 #### § 3b. Gelijkstelling ander inkomen met loondervingsuitkering
 
-#### Artikel 9
+##### Artikel 9
 
 In afwijking van het bepaalde in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004092&paragraaf=2&sub-paragraaf=2.1&artikel=3&z=2011-06-01&g=2011-06-01), en [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004092&paragraaf=2&sub-paragraaf=2.2&artikel=7&z=2011-06-01&g=2011-06-01), wordt de eenmalige uitkering op grond van artikel XV van de Wet premieheffing over uitkeringen (**Stb.** 1986, 639) niet als opbrengst van arbeid onderscheidenlijk als overig inkomen beschouwd.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit treedt in werking met ingang van 1 januari 1987.
 
-#### Artikel 11
+##### Artikel 11
 
 Dit besluit kan worden aangehaald als Inkomensbesluit Toeslagenwet.
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.
 
-#### Artikel 8d
+##### Artikel 8d
 
 1. De artikelen van deze paragraaf zijn uitsluitend van toepassing op de persoon wiens dagloon of grondslag, vermeerderd met het inkomen uit arbeid of overig inkomen anders dan de loondervingsuitkering op grond waarvan aanspraak op toeslag wordt gemaakt, minder bedraagt dan het voor hem van toepassing zijnde norminkomen, bedoeld in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=2).
 
@@ -194,11 +218,11 @@ Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in 
 
 3. [Artikel 8a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=8a) is van overeenkomstige toepassing ten aanzien van het dagloon, bedoeld in het eerste lid.
 
-#### Artikel 8e
+##### Artikel 8e
 
 Voor de toepassing van [artikel 8a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=8a) wordt met de loondervingsuitkering gelijkgesteld een aanvulling op de loondervingsuitkering op grond waarvan aanspraak op toeslag wordt gemaakt
 
-#### Artikel 8f
+##### Artikel 8f
 
 1. Voor de toepassing van [artikel 8a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=8a) wordt met de loondervingsuitkering gelijkgesteld al het inkomen uit arbeid of overig inkomen van de persoon die aanspraak maakt op toeslag, indien die persoon:
 
@@ -210,19 +234,19 @@ Voor de toepassing van [artikel 8a, eerste lid, van de wet](https://wetten.overh
 
 2. Indien de toepassing van het eerste lid er toe leidt dat de toeslag minder bedraagt dan het verschil tussen 100/70 maal de loondervingsuitkering en de som van de loondervingsuitkering en een aanvulling daarop, wordt de gelijkstelling, bedoeld in het eerste lid zodanig beperkt, dat de toeslag gelijk is aan het verschil tussen 100/70 maal de loondervingsuitkering en de som van de loondervingsuitkering en een aanvulling daarop.
 
-#### Artikel 8g
+##### Artikel 8g
 
 Voor de toepassing van [artikel 8a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=8a) wordt voor de persoon die loon of bezoldiging ontvangt op grond van [artikel 629, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629) of [artikel 76a, eerste lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=76a), dat loon of die bezoldiging gelijkgesteld met de op het dagloon of de grondslag in mindering te brengen loondervingsuitkering
 
 #### § 4. Slotbepalingen
 
-#### Artikel 9a
+##### Artikel 9a
 
 Dit besluit berust mede op [artikel 8a, derde lid, van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=8a).
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Dit besluit berust mede op [artikel 8a, derde lid, van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=8a).
 
@@ -246,7 +270,7 @@ Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in 
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.
 
-#### Artikel 4a
+##### Artikel 4a
 
 [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004092&artikel=3&z=2016-12-28&g=2016-12-28), zoals dat luidde voor de inwerkingtreding van het besluit van 18 juni 2015, houdende wijziging van enige algemene maatregelen van bestuur in verband met de Wet werk en zekerheid, het invoeren van een ontheffing in verband met de zorg voor een pasgeboren kind bij overlijden van de moeder, een wijziging van het Remigratiebesluit in verband met de berekenwijze van de jaarlijkse indexatie van de remigratie-uitkeringen, het vrijlaten van de afkoopsom klein pensioen voor verschillende uitkeringen in het Algemeen inkomensbesluit socialezekerheidswetten alsmede enige technische wijzigingen in enkele besluiten (Stb. 242), blijft van toepassing als de loondervingsuitkering een uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) betreft en het recht op die uitkering is ontstaan voor 1 juli 2015.
 

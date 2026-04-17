@@ -1,13 +1,37 @@
 ---
 title: "Circulaire bekwaamheidseisen buitengewoon opsporingsambtenaar"
 identifier: "BWBR0018536"
-categorie: "Bestuursrecht"
-publicatiedatum: 2005-07-04
-laatste_update: 2005-07-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0018536"
+country: "nl"
+rank: "circulaire"
+publication_date: "2005-07-04"
+last_updated: "2005-07-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0018536"
+soort: "circulaire"
+stam_id: "7158323"
+version_id: "12068262"
+internal_id: "C16176481"
+label_id: "7146224"
+original_entry_into_force: "2005-07-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0018536/2005-07-04/0"
+intitule_bron: "Stcrt.2005-135"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-07-04"
+intitule_published: "2005-07-15"
+intitule_in_force: "2005-07-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-135"
+original_signed_date: "2005-07-04"
+original_published_date: "2005-07-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2005-135-p11-SC70714"
+entry_into_force_date: "2005-07-04"
+jci_1_3: "jci1.3:c:BWBR0018536&z=2005-07-04&g=2005-07-04"
+jci_1_0: "1.0:c:BWBR0018536&g=2005-07-04"
+citeertitel_status: "redactioneel"
+signed_date: "2005-07-04"
+entry_into_force: "2005-07-04"
 ---
-
 # Circulaire bekwaamheidseisen buitengewoon opsporingsambtenaar
 
 ### Samenvatting

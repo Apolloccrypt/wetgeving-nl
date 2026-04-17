@@ -1,13 +1,36 @@
 ---
-title: "Onderlinge regeling vergelijking DNA-profielen tussen Nederland, Aruba, Curaçao en Sint Maarten"
+title: "Onderlinge regeling als bedoeld in artikel 38, eerste lid, van het Statuut voor het Koninkrijk der Nederlanden, regelende de samenwerking tussen Nederland, Aruba, Curaçao en Sint Maarten op het gebied van de onderlinge vergelijking van DNA-profielen ten behoeve van de opsporing, vervolging en berechting van strafbare feiten (Onderlinge regeling vergelijking DNA-profielen tussen Nederland, Aruba, Curaçao en Sint Maarten)"
 identifier: "BWBR0040318"
-categorie: "Overig"
-publicatiedatum: 2017-09-01
-laatste_update: 2017-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040318"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-09-01"
+last_updated: "2017-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040318"
+soort: "ministeriele-regeling"
+stam_id: "14439813"
+version_id: "24693092"
+internal_id: "C35327731"
+label_id: "14400414"
+dtd_version: "2.0"
+original_entry_into_force: "2017-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040318/2017-09-01/0"
+intitule_bron: "Stcrt.2017-69892"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2017-12-07"
+intitule_in_force: "2017-12-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-69892"
+original_published_date: "2017-12-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-69892"
+entry_into_force_date: "2017-09-01"
+jci_1_3: "jci1.3:c:BWBR0040318&z=2017-09-01&g=2017-09-01"
+jci_1_0: "1.0:c:BWBR0040318&g=2017-09-01"
+citeertitel_status: "officieel"
+short_title: "Onderlinge regeling vergelijking DNA-profielen tussen Nederland, Aruba, Curaçao en Sint Maarten"
+entry_into_force: "2017-09-01"
 ---
-
 # Onderlinge regeling als bedoeld in artikel 38, eerste lid, van het Statuut voor het Koninkrijk der Nederlanden, regelende de samenwerking tussen Nederland, Aruba, Curaçao en Sint Maarten op het gebied van de onderlinge vergelijking van DNA-profielen ten behoeve van de opsporing, vervolging en berechting van strafbare feiten (Onderlinge regeling vergelijking DNA-profielen tussen Nederland, Aruba, Curaçao en Sint Maarten)
 
 Overwegende dat de vier Ministers van Justitie van het Koninkrijk der Nederlanden in het Justitieel Vierpartijenoverleg (JVO) van 5 januari 2016 hebben uitgesproken dat de onderlinge vergelijking van DNA-profielen ten behoeve van de opsporing, vervolging en berechting van strafbare feiten mogelijk moet worden gemaakt;
@@ -22,7 +45,7 @@ Komen het volgende overeen:
 
 De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -36,13 +59,13 @@ In deze regeling wordt verstaan onder:
 
 - e. **betrokkene:** degene op wie een DNA-profiel betrekking heeft.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De landen stellen hun DNA-databanken met DNA-profielen ter beschikking voor onderlinge vergelijking op de wijze zoals in hun nationale regelingen en deze onderlinge regeling is bepaald.
 
 2. Elk land draagt er zorg voor dat de bevoegde instantie zijn DNA-databank beheert volgens de daaraan gestelde nationale en internationale normen.
 
-#### Artikel 3
+##### Artikel 3
 
 De onderlinge vergelijking van DNA-profielen is uitsluitend toegestaan met het oog op:
 
@@ -50,13 +73,13 @@ De onderlinge vergelijking van DNA-profielen is uitsluitend toegestaan met het o
 
 - b. de voorbereiding en indiening van een politieel of justitieel verzoek om rechtshulp conform het toepasselijke nationale recht in het geval de vergeleken DNA-profielen overeenstemmen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het resultaat van de onderlinge vergelijking van DNA-profielen mag uitsluitend door de autoriteiten, instanties en rechterlijke autoriteiten worden verwerkt die een taak hebben in het kader van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040318&artikel=3&z=2017-09-01&g=2017-09-01) genoemde doeleinden.
 
 2. Het resultaat van de onderlinge vergelijking van DNA-profielen mag alleen aan andere autoriteiten en instanties dan de autoriteiten en instanties, bedoeld in het eerste lid, worden doorgezonden, indien het verstrekkende land daarvoor toestemming heeft verleend en met inachtneming van het recht van het bevragende land.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De landen staan borg voor de juistheid en actualiteit van de DNA-profielen.
 
@@ -66,7 +89,7 @@ De onderlinge vergelijking van DNA-profielen is uitsluitend toegestaan met het o
 
 4. Een DNA-profiel waarvan de betrokkene de juistheid aanvecht en waarvan de juistheid of onjuistheid op dat moment niet kan worden vastgesteld, wordt met inachtneming van het nationale recht van het land dat verantwoordelijk is voor de verwerking van die DNA-profielen, zolang de procedure loopt waarin de betrokkene de juistheid van een DNA-profiel aanvecht en de bevoegde rechterlijke autoriteit of de voor de gegevensbescherming bevoegde onafhankelijke instantie geen beslissing in dat kader heeft genomen, van onderlinge vergelijking uitgesloten. De eerste volzin is van overeenkomstige toepassing indien de onderlinge vergelijking al tot een positief resultaat heeft geleid.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De landen zijn verplicht om de resultaten van de onderlinge vergelijking van DNA-profielen effectief te beschermen tegen toevallige of onbevoegde vernietiging, toevallig verlies, onbevoegde toegang, onbevoegde of toevallige verandering en onbevoegde bekendmaking.
 
@@ -78,7 +101,7 @@ De onderlinge vergelijking van DNA-profielen is uitsluitend toegestaan met het o
 
 - c. dat de toelaatbaarheid van de onderlinge vergelijkingen in overeenstemming met [artikel 7, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040318&artikel=7&z=2017-09-01&g=2017-09-01), kan worden gecontroleerd.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De onderlinge vergelijking van DNA-profielen mag alleen geschieden door speciaal daartoe gemachtigde ambtenaren van de instantie die de DNA-databank van het land beheert.
 
@@ -110,15 +133,15 @@ Het land dat de melding ontvangt kan vervolgens via een rechtshulpverzoek de zaa
 
 10. De voor de gegevensbescherming bevoegde onafhankelijke instanties van de landen dragen zorg voor de ter vervulling van hun controletaken noodzakelijke wederzijdse samenwerking, in het bijzonder door het uitwisselen van relevante informatie alsmede het uitbrengen van een jaarlijks verslag, waaruit blijkt in hoeverre de controle, bedoeld in het zesde lid, heeft plaatsgevonden. Het verslag wordt voor het eerst, binnen een jaar na de inwerkingtreding van deze onderlinge regeling uitgebracht.
 
-#### Artikel 8
+##### Artikel 8
 
 Binnen vijf jaar na inwerkingtreding van deze onderlinge regeling evalueren de Ministers van Justitie van de landen de werking van deze regeling.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze onderlinge regeling treedt in werking met ingang van 1 september 2017.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze onderlinge regeling wordt aangehaald als: Onderlinge regeling vergelijking DNA-profielen tussen Nederland, Aruba, Curaçao en Sint Maarten.
 

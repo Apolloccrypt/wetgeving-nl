@@ -1,13 +1,39 @@
 ---
-title: "Besluit buitengewoon opsporingsambtenaar van de gemeente Steenwijkerland 2021"
+title: "Besluit van de Minister voor Rechtsbescherming van 7 juni 2021 nr. BOACAT2021/022, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Steenwijkerland"
 identifier: "BWBR0045473"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-05-17
-laatste_update: 2024-05-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045473"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-05-17"
+last_updated: "2024-05-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045473"
+soort: "ministeriele-regeling"
+stam_id: "16037963"
+version_id: "27931912"
+internal_id: "C39384651"
+label_id: "15970884"
+dtd_version: "2.0"
+original_entry_into_force: "2021-11-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045473/2024-05-17/0"
+intitule_bron: "Stcrt.2021-36556"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-06-07"
+intitule_published: "2021-07-27"
+intitule_in_force: "2021-07-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-36556"
+original_signed_date: "2021-06-07"
+original_published_date: "2021-07-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-36556"
+entry_into_force_date: "2021-11-10"
+jci_1_3: "jci1.3:c:BWBR0045473&z=2024-05-17&g=2024-05-17"
+jci_1_0: "1.0:c:BWBR0045473&g=2024-05-17"
+citeertitel_status: "officieel"
+short_title: "Besluit buitengewoon opsporingsambtenaar van de gemeente Steenwijkerland 2021"
+signed_date: "2021-06-07"
+entry_into_force: "2021-11-10"
 ---
-
 # Besluit van de Minister voor Rechtsbescherming van 7 juni 2021 nr. BOACAT2021/022, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Steenwijkerland
 
 Gelezen het verzoek van gemeente Steenwijkerland van 21 april 2021 en de adviezen van de hoofdofficier van justitie bij het arrondissementsparket Oost-Nederland en de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
@@ -26,11 +52,11 @@ de [Beleidsregels Buitengewoon Opsporingsambtenaar](https://wetten.overheid.nl/j
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045473&artikel=2&z=2024-05-17&g=2024-05-17).
 
-#### Artikel 2
+##### Artikel 2
 
 De personen, werkzaam in de functie van
 
@@ -40,7 +66,7 @@ De personen, werkzaam in de functie van
 
 in dienst van de gemeente Steenwijkerland, zijn aangewezen als buitengewoon opsporingsambtenaar.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein I, Openbare ruimte, II Milieu welzijn en infrastructuur, zoals opgenomen in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](onbekend).
 
@@ -50,11 +76,11 @@ in dienst van de gemeente Steenwijkerland, zijn aangewezen als buitengewoon opsp
 
 4. De buitengewoon opsporingsambtenaar vermeldt in zijn processen-verbaal en schriftelijke verslagleggingen het in het eerste lid of tweede lid genoemde domein.
 
-#### Artikel 4
+##### Artikel 4
 
 Op grond van dit besluit kunnen maximaal 20 personen als buitengewoon opsporingsambtenaar worden beëdigd.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Als toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36) is voor de buitengewoon opsporingsambtenaar genoemd in lid 3, onder 1, aangewezen de hoofdofficier van justitie bij het arrondissementsparket Oost-Nederland.
 
@@ -62,7 +88,7 @@ Op grond van dit besluit kunnen maximaal 20 personen als buitengewoon opsporings
 
 3. Als direct toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36) is aangewezen de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27).
 
-#### Artikel 6
+##### Artikel 6
 
 1. De gemeente Steenwijkerland brengt jaarlijks, voor 1 april, verslag uit over:
 
@@ -74,19 +100,19 @@ Op grond van dit besluit kunnen maximaal 20 personen als buitengewoon opsporings
 
 2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045473&artikel=5&z=2024-05-17&g=2024-05-17) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Justitie en Veiligheid, Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
 
-#### Artikel 7
+##### Artikel 7
 
 De op naam gestelde akten van beëdiging en de overige benoemingsbescheiden, afgegeven mede op basis van het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045473&artikel=8&z=2024-05-17&g=2024-05-17) genoemde besluit, worden geacht mede te zijn afgegeven op basis van dit besluit.
 
 Dit artikel brengt geen wijziging in de resterende looptijd van de afgegeven aktes.
 
-#### Artikel 8
+##### Artikel 8
 
 Het [Besluit buitengewoon opsporingsambtenaar van de gemeente Steenwijkerland 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038465) van 10 november 2016 nr. BOACAT2016/052 zal vervallen op 10 november 2021.
 
 Dit besluit treedt in werking met ingang van 10 november 2021 en vervalt met ingang van 10 november 2026.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar van de gemeente Steenwijkerland 2021.
 

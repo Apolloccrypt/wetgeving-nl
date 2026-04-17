@@ -1,13 +1,38 @@
 ---
 title: "Regeling film HGIS-cultuurmiddelen mei 2006"
 identifier: "BWBR0019877"
-categorie: "Overig"
-publicatiedatum: 2006-06-27
-laatste_update: 2006-06-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019877"
+country: "nl"
+rank: "zbo"
+publication_date: "2006-06-27"
+last_updated: "2006-06-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019877"
+soort: "zbo"
+stam_id: "8411003"
+version_id: "13285202"
+internal_id: "C17855871"
+label_id: "8391754"
+dtd_version: "2.0"
+original_entry_into_force: "2006-06-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019877/2006-06-27/0"
+intitule_bron: "Stcrt.2006-121"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-05-18"
+intitule_published: "2006-06-26"
+intitule_in_force: "2006-06-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-121"
+original_signed_date: "2006-05-18"
+original_published_date: "2006-06-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-121-p16-SC75652"
+entry_into_force_date: "2006-06-27"
+jci_1_3: "jci1.3:c:BWBR0019877&z=2006-06-27&g=2006-06-27"
+jci_1_0: "1.0:c:BWBR0019877&g=2006-06-27"
+citeertitel_status: "redactioneel"
+signed_date: "2006-05-18"
+entry_into_force: "2006-06-27"
 ---
-
 # Regeling film HGIS-cultuurmiddelen mei 2006
 
 Deze regeling geldt, voor zover van toepassing, onverminderd en in aanvulling op het bepaalde in het bijdragenreglement van het Nederlands Fonds voor de Film (hierna: het fonds).

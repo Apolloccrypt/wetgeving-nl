@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregel Handhaving jaarverantwoording over het overgangsjaar 2021"
 identifier: "BWBR0046208"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-01-01
-laatste_update: 2022-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046208"
+country: "nl"
+rank: "zbo"
+publication_date: "2022-01-01"
+last_updated: "2022-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046208"
+soort: "zbo"
+stam_id: "16237583"
+version_id: "28350802"
+internal_id: "C39982181"
+label_id: "16164964"
+dtd_version: "2.0"
+original_entry_into_force: "2022-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046208/2022-01-01/0"
+intitule_bron: "Stcrt.2022-878"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-12-21"
+intitule_published: "2022-01-17"
+intitule_in_force: "2022-01-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-878"
+original_signed_date: "2021-12-21"
+original_published_date: "2022-01-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-878"
+entry_into_force_date: "2022-01-01"
+jci_1_3: "jci1.3:c:BWBR0046208&z=2022-01-01&g=2022-01-01"
+jci_1_0: "1.0:c:BWBR0046208&g=2022-01-01"
+citeertitel_status: "officieel"
+signed_date: "2021-12-21"
+entry_into_force: "2022-01-01"
 ---
-
 # Beleidsregel Handhaving jaarverantwoording over het overgangsjaar 2021
 
 Gelet op [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) (hierna: Awb), stelt de Nederlandse Zorgautoriteit (hierna: NZa) beleidsregels op met betrekking tot de volgende haar toekomende of onder haar verantwoordelijkheid uitgeoefende bevoegdheden.
@@ -16,7 +41,7 @@ De NZa houdt op grond van [artikel 16, sub e van de Wet marktordening gezondheid
 
 De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
@@ -82,15 +107,15 @@ In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
 - **Zorgaanbieder:** De zorgaanbieder, als bedoeld in [artikel 1, eerste lid, onderdeel c, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1) en [40b, zesde lid, Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40b).
 
-#### Artikel 2. Doel van de beleidsregel
+##### Artikel 2. Doel van de beleidsregel
 
 Het doel van deze beleidsregel is om vast te leggen op welke wijze de NZa in het overgangsjaar (verslagjaar 2021) toeziet op de naleving van de verplichting van zorgaanbieders om een jaarverantwoording openbaar te maken. Ook beschrijft deze beleidsregel de wijze waarop de NZa deze verplichting handhaaft en hoe zij daarbij de haar in [hoofdstuk 6 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6) toegekende bevoegdheden inzet.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze beleidsregel is van toepassing op zorgaanbieders als bedoeld in [artikel 1, eerste lid, sub c](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1) en [40b, zesde lid, Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40b). Op grond van [artikel 2, lid 2 Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=2) jo [artikel 5b Bub WMG](https://wetten.overheid.nl/jci1.3:c:BWBR0020326&artikel=5b) blijft artikel 40b Wmg buiten toepassing voor zorgaanbieders waarop op het onmiddellijk aan de inwerkingtreding van [artikel II, onderdeel C, van de Aanpassingswet Wet toetreding zorgaanbieders](https://wetten.overheid.nl/jci1.3:c:BWBR0043812&artikel=II) voorafgaand tijdstip, de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=15) en [16 WTZi](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=16) niet van toepassing waren.
 
-#### Artikel 4. Toezicht op de verplichting een jaarverantwoording openbaar te maken
+##### Artikel 4. Toezicht op de verplichting een jaarverantwoording openbaar te maken
 
 1. De NZa houdt toezicht op de naleving van de verplichting van [artikel 40b, eerste lid, Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40b). Op grond van voornoemd artikel dient een zorgaanbieder jaarlijks vóór 1 juni een jaarverantwoording openbaar te maken. Ter uitvoering van haar toezichtstaak ontvangt de NZa van het CIBG een overzicht van zorgaanbieders die op 31 december 2021 beschikte over een toelating als bedoeld in [artikel 5, eerste lid van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=5) en behoren tot de in [artikel 2.1, vijfde lid van het Uitvoeringsbesluit WTZi](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&artikel=2.1) (oud) genoemde categorieen van zorgaanbieders, alsmede Regionale ambulancevoorzieningen als bedoeld in de [Wet ambulancezorgvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0043925), als ook een overzicht waarin is vermeld welke zorgaanbieders aan de openbaarmakingsverplichting hebben voldaan.
 
@@ -100,7 +125,7 @@ Deze beleidsregel is van toepassing op zorgaanbieders als bedoeld in [artikel 1,
 
 4. De NZa controleert ten aanzien van de zorgaanbieders, vermeld in het tweede en derde lid, de procedurele en materiële nakoming van de jaarverantwoording, overeenkomstig de bepalingen van de [Regeling verslaggeving WTZi](https://wetten.overheid.nl/jci1.3:c:BWBR0019252), zoals die regeling luidde op 31 december 2021.
 
-#### Artikel 5. Handhaving
+##### Artikel 5. Handhaving
 
 1. Indien een zorgaanbieder [artikel 40b, eerste lid, Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40b) niet naleeft, kan de NZa een last onder dwangsom opleggen. Alvorens een last onder dwangsom op te leggen aan de zorgaanbieder stelt de NZa in beginsel middels een voornemen tot het opleggen van een last onder dwangsom de zorgaanbieder in de gelegenheid om aan te geven waarom de NZa af zou moeten zien van het opleggen van een last onder dwangsom.
 
@@ -126,16 +151,16 @@ Deze beleidsregel is van toepassing op zorgaanbieders als bedoeld in [artikel 1,
 
 12. Inning en incasso van verbeurde dwangsommen geschiedt door het CJIB, namens de NZa.
 
-#### Artikel 6. Publicatie sancties
+##### Artikel 6. Publicatie sancties
 
 1. De NZa kan, overeenkomstig wet- en regelgeving en haar daarop gebaseerde beleid inzake openbaarmaking, handhavingsbesluiten openbaar maken door publicatie op haar website.
 
-#### Artikel 7. Inwerkingtreding / Bekendmaking
+##### Artikel 7. Inwerkingtreding / Bekendmaking
 
 Deze beleidsregel treedt in werking met ingang van 1 januari 2022.
 
 Ingevolge [artikel 5, aanhef en onder e, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5), zal deze beleidsregel in de Staatscourant worden geplaatst. De beleidsregel ligt ter inzage bij de NZa en is te raadplegen op [www.nza.nl](onbekend).
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel Handhaving jaarverantwoording over het overgangsjaar 2021.

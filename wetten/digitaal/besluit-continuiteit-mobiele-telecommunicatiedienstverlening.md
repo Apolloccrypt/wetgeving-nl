@@ -1,13 +1,39 @@
 ---
-title: "Besluit continuïteit mobiele telecommunicatiedienstverlening"
+title: "Besluit van 17 juli 2012 tot vaststelling van de procedure voor verlenging van vergunningen als bedoeld in artikel 20.2 van de Telecommunicatiewet ten behoeve van de continuïteit van dienstverlening (Besluit continuïteit mobiele telecommunicatiedienstverlening)"
 identifier: "BWBR0031844"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2012-09-27
-laatste_update: 2012-09-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031844"
+country: "nl"
+rank: "amvb"
+publication_date: "2012-09-27"
+last_updated: "2012-09-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031844"
+soort: "AMvB"
+stam_id: "11813143"
+version_id: "19567952"
+internal_id: "C27573891"
+label_id: "11785334"
+dtd_version: "2.0"
+original_entry_into_force: "2012-09-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031844/2012-09-27/0"
+intitule_bron: "Stb.2012-352"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-07-17"
+intitule_published: "2012-07-27"
+intitule_in_force: "2012-09-26"
+intitule_status: "goed"
+original_publication: "Stb.2012-352"
+original_signed_date: "2012-07-17"
+original_published_date: "2012-07-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2012-352"
+entry_into_force_date: "2012-09-27"
+jci_1_3: "jci1.3:c:BWBR0031844&z=2012-09-27&g=2012-09-27"
+jci_1_0: "1.0:c:BWBR0031844&g=2012-09-27"
+citeertitel_status: "officieel"
+short_title: "Besluit continuïteit mobiele telecommunicatiedienstverlening"
+signed_date: "2012-07-17"
+entry_into_force: "2012-09-27"
 ---
-
 # Besluit van 17 juli 2012 tot vaststelling van de procedure voor verlenging van vergunningen als bedoeld in artikel 20.2 van de Telecommunicatiewet ten behoeve van de continuïteit van dienstverlening (Besluit continuïteit mobiele telecommunicatiedienstverlening)
 
 Op de voordracht van Onze Minister van Economische Zaken, Landbouw en Innovatie van 9 mei 2012, nr. WJZ/12046260;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Verlenging ten behoeve van de continuïteit van dienstverlening
 
-#### Artikel 1
+##### Artikel 1
 
 1. Indien zich rondom een procedure van vergunningverlening omstandigheden voordoen die dat naar het oordeel van Onze Minister van Economische Zaken, Landbouw en Innovatie nodig maken, kan Onze Minister besluiten dat een vergunning als bedoeld in [artikel 20.2 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=20.2) voor een door Onze Minister te bepalen termijn kan worden verlengd om te voorkomen dat de continuïteit van de dienstverlening in gevaar kan komen.
 
@@ -36,21 +62,21 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 2. Wijzigingen in andere regelgeving
 
-#### Artikel 2
+##### Artikel 2
 
 Wijzigt het Frequentiebesluit.
 
 ### Hoofdstuk 3. Slotbepalingen
 
-#### Artikel 3
+##### Artikel 3
 
 Het [Besluit vergunningen mobiele telecommunicatievoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0006857) wordt ingetrokken.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip en vervalt op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit wordt aangehaald als: Besluit continuïteit mobiele telecommunicatiedienstverlening.
 

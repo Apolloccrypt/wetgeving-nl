@@ -1,13 +1,35 @@
 ---
-title: "Regeling uitkeringen niet-pensioengerechtigden van land- en zeemacht 1948, Stb. I 543"
+title: "Besluit van 13 december 1948, houdende hernieuwde vaststelling van een regeling tot toekenning van geldelijke uitkeringen aan niet-pensioengerechtigden van land- en zeemacht"
 identifier: "BWBR0002044"
-categorie: "Sociaal recht"
-publicatiedatum: 1974-07-27
-laatste_update: 1974-07-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002044"
+country: "nl"
+rank: "amvb"
+publication_date: "1974-07-27"
+last_updated: "1974-07-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002044"
+soort: "AMvB"
+stam_id: "775013"
+version_id: "1125272"
+internal_id: "C1125271"
+label_id: "751034"
+dtd_version: "2.0"
+original_entry_into_force: "1948-12-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002044/1974-07-27/0"
+intitule_bron: "Stb.1948-I 543"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1948-12-13"
+intitule_status: "goed"
+original_publication: "Stb.1948-I 543"
+original_signed_date: "1948-12-13"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1948-12-31"
+jci_1_3: "jci1.3:c:BWBR0002044&z=1974-07-27&g=1974-07-27"
+jci_1_0: "1.0:c:BWBR0002044&g=1974-07-27"
+citeertitel_status: "officieel"
+short_title: "Regeling uitkeringen niet-pensioengerechtigden van land- en zeemacht 1948, Stb. I 543"
+signed_date: "1948-12-13"
+entry_into_force: "1948-12-31"
 ---
-
 # Besluit van 13 december 1948, houdende hernieuwde vaststelling van een regeling tot toekenning van geldelijke uitkeringen aan niet-pensioengerechtigden van land- en zeemacht
 
 Op de voordracht van Onze Ministers van Oorlog en van Marine a.i. van 23 Juni 1948, Directie Administratieve Diensten, Afdeling B 4, Bureau 1**a**, Nr. 192;
@@ -22,7 +44,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Uitkeringen aan gewezen vrijwillig dienende militairen
 
-#### Artikel 1
+##### Artikel 1
 
 Een vrijwillig dienend militair van land- of zeemacht, die met ingang van een datum vóór 1 Juli 1925 uit de militaire dienst is ontslagen en op de datum van zijn ontslag een werkelijke dienst in de zin der Pensioenwetten voor de land- en zeemacht 1922 kon doen gelden van ten minste:
 
@@ -38,7 +60,7 @@ heeft, behoudens het bepaalde in [artikel 7](https://wetten.overheid.nl/jci1.3:c
 
 - 2°. hij niet is of wordt herplaatst in een betrekking, welke uitzicht geeft op pensioen krachtens een der genoemde wetten, de Pensioenwet 1922 (**Stb.** 240), de Pensioenwet voor de Spoorwegambtenaren 1925 (**Stb.** 194), de Algemene burgerlijke pensioenwet of de Spoorwegpensioenwet.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De uitkering, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002044&paragraaf=1&artikel=1&z=1974-07-27&g=1974-07-27), bedraagt voor
 
@@ -58,7 +80,7 @@ en wel voor elk jaar geldige diensttijd in de zin der Pensioenwetten voor de lan
 
 2. Indien het eindcijfer van de diensttijd, bedoeld in het vorige lid, een gedeelte van een jaar oplevert van zes maanden of meer, wordt dit gedeelte als een vol jaar in berekening genomen; een gedeelte van een jaar kleiner dan zes maanden wordt verwaarloosd.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De uitkering, bedoeld in [artikel 1, onder **a** of **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002044&paragraaf=1&artikel=1&z=1974-07-27&g=1974-07-27), gaat, behoudens het tweede lid en [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002044&paragraaf=3&artikel=9&z=1974-07-27&g=1974-07-27), in te rekenen van de datum, waarop de rechthebbende de leeftijd van zestig jaren heeft bereikt. Indien hij blijvend ongeschikt wordt verklaard om in zijn onderhoud te voorzien uit hoofde van ziekten of gebreken, niet het gevolg van eigen moedwillige handelingen of ongeregeld gedrag, gaat de uitkering in op de dag, waarop de aanvrage daartoe is ingekomen. De datum van ingang der uitkering wordt in vorenbedoelde gevallen nimmer gesteld op een eerder tijdstip dan 1 Januari 1947.
 
@@ -66,7 +88,7 @@ en wel voor elk jaar geldige diensttijd in de zin der Pensioenwetten voor de lan
 
 #### § 2. Uitkeringen aan weduwen
 
-#### Artikel 4
+##### Artikel 4
 
 - a. De weduwe van een vrijwillig dienend militair van land- of zeemacht, die - indien haar echtgenoot was overleden onder de werking van de Weduwenwetten voor de land- en zeemacht 1909 - aan een dier wetten aanspraak op pensioen had kunnen ontlenen;
 
@@ -84,7 +106,7 @@ en wel voor elk jaar geldige diensttijd in de zin der Pensioenwetten voor de lan
 
 2. Voor de toepassing van het bepaalde in het vorige lid, onder **b**, wordt een uitkering, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002044&paragraaf=1&artikel=1&z=1974-07-27&g=1974-07-27), aangemerkt als een pensioen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De uitkering, bedoeld in [artikel 4, eerste lid, onder **a, b, c,** of **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0002044&paragraaf=2&artikel=4&z=1974-07-27&g=1974-07-27), bedraagt:
 
@@ -98,7 +120,7 @@ een en ander zonder de verhoging, bedoeld in de wet van 29 Mei 1920 (**Staatsbla
 
 3. De uitkering bedoeld in de vorige leden gaat, zonder toepassing van [artikel 6**c**](https://wetten.overheid.nl/jci1.3:c:BWBR0002044&paragraaf=2a&artikel=6c&z=1974-07-27&g=1974-07-27), niet te boven een bedrag van **een duizend vierhonderd** gulden per jaar, indien het betreft een weduwe van een officier of een gewezen officier, en een bedrag van **duizend** gulden per jaar, indien het betreft een andere weduwe.
 
-#### Artikel 6
+##### Artikel 6
 
 De uitkering, bedoeld in [artikel 4, eerste lid, onder **a, b, c** of **d.**](https://wetten.overheid.nl/jci1.3:c:BWBR0002044&paragraaf=2&artikel=4&z=1974-07-27&g=1974-07-27) gaat, behoudens het bepaalde in artikel 9, in met de dag, volgende op die van het overlijden van hem, aan wie krachtens dit besluit de uitkering wordt ontleend, met dien verstande, dat de datum van ingang der uitkering nimmer wordt gesteld op een eerder tijdstip dan 1 Januari 1947.
 
@@ -106,7 +128,7 @@ De vorige volzin vindt mede toepassing op de uitkering, bedoeld in [artikel 4, e
 
 #### § 2a. Bijzondere bepalingen
 
-#### Artikel 6a
+##### Artikel 6a
 
 1. Op de uitkering zijn mede van toepassing de bepalingen, vervat in het Eerste Hoofdstuk A, het Tweede Hoofdstuk A en het Tweede Hoofdstuk B van de Pensioenwet voor de zeemacht 1922 of van de Pensioenwet voor de landmacht 1922, al naar gelang de gewezen vrijwillig dienend militair tot de zeemacht of tot de landmacht heeft behoord.
 
@@ -140,11 +162,11 @@ De vorige volzin vindt mede toepassing op de uitkering, bedoeld in [artikel 4, e
 
 - b. de uitkering, toegekend krachtens artikel 4, eerste lid, onder **e**, geacht te zijn berekend naar de diensttijd, welke voor de berekening van de uitkering, waarvan zij is afgeleid, in aanmerking is of had kunnen worden genomen.
 
-#### Artikel 6b
+##### Artikel 6b
 
 Op de uitkering is mede van toepassing artikel 46**a** van de Pensioenwet voor de zeemacht 1922 of van de Pensioenwet voor de landmacht 1922, al naar gelang de gewezen vrijwillig dienend militair tot de zeemacht of tot de landmacht heeft behoord.
 
-#### Artikel 6c
+##### Artikel 6c
 
 1. Het Tweede Hoofdstuk van de Aanpassingsregeling pensioenen, is mede van toepassing op de uitkering, waarop krachtens [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002044&paragraaf=1&artikel=1&z=1974-07-27&g=1974-07-27) dan wel [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002044&paragraaf=2&artikel=4&z=1974-07-27&g=1974-07-27) recht bestaat, met dien verstande, dat daarbij:
 
@@ -160,7 +182,7 @@ Op de uitkering is mede van toepassing artikel 46**a** van de Pensioenwet voor d
 
 #### § 3. Algemene bepalingen
 
-#### Artikel 7
+##### Artikel 7
 
 1. De uitkering wordt niet verleend, indien ter zake van de door de militair, minder geëmployeerde, werkman of bediende vervulde dienst of van zijn overlijden aanspraak op pensioen bestaat op grond van een wettelijke regeling.
 
@@ -168,13 +190,13 @@ Op de uitkering is mede van toepassing artikel 46**a** van de Pensioenwet voor d
 
 3. Het recht op de uitkering vervalt met ingang van de dag waarop een ter zake van de in het eerste lid bedoelde diensttijd of overlijden krachtens de Algemene burgerlijke pensioenwet of de Spoorwegpensioenwet verleend pensioen ingaat.
 
-#### Artikel 8
+##### Artikel 8
 
 De toekenning van de uitkering geschiedt door Onze Minister van Defensie op een daartoe tot die Minister te richten aanvrage en onder overlegging van de ter beoordeling benodigde bewijsstukken.
 
 De toekenning kan door Onze voornoemde minister ook ambtshalve geschieden.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De uitkering gaat in met de dag, waarop het recht daarop is ontstaan.
 
@@ -182,33 +204,33 @@ De toekenning kan door Onze voornoemde minister ook ambtshalve geschieden.
 
 3. Indien een uitkering ambtshalve wordt toegekend, gaat de uitkering in met ingang van een door Onze minister van defensie te bepalen dag.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De uitkering, toegekend krachtens [artikel 4, eerste lid, onder **a, b, c** of **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0002044&paragraaf=2&artikel=4&z=1974-07-27&g=1974-07-27), wordt bij een volgend huwelijk van de weduwe, gesloten na 31 december 1965, met ingang van de eerste dag van de maand volgende op die, waarin dat huwelijk is voltrokken, nader vastgesteld op zoveel veertigste gedeelten van de uitkering als wordt aangegeven door het aantal jaren, wanneer de uitkering van de overleden echtgenoot is of zou zijn berekend.
 
 2. De artikelen I 1, I 4, I 5, I 6, K 3, U 2, U 4, U 8, V 1, V 2, V 3, V 10, V 12, V 13, W 4, W 5, X 3 en Y 33 van de Algemene militaire pensioenwet zijn in daartoe leidende gevallen van overeenkomstige toepassing.
 
-#### Artikel 11
+##### Artikel 11
 
 De kosten van de uitkering komen ten laste van Hoofdstuk X der Rijksbegroting.
 
 #### § 4. Slotbepalingen
 
-#### Artikel 12
+##### Artikel 12
 
 1. De Koninklijke besluiten van 9 Mei 1931 (**Staatsblad** nos. 186 en 187) worden ingetrokken.
 
 2. Het Achtste Uitvoeringsbesluit van de Commissaris voor de belangen van de Nederlandse Weermacht (**Verordeningenblad** 62/1942) vervalt.
 
-#### Artikel 13
+##### Artikel 13
 
 Een uitkering, verstrekt krachtens de in het vorige artikel genoemde besluiten, vallende over een tijdvak nà 31 December 1946, dient te worden aangemerkt als een voorschot op de uitkering, waarop krachtens dit besluit aanspraak bestaat.
 
-#### Artikel 14
+##### Artikel 14
 
 Dit besluit kan worden aangehaald onder de titel "Regeling uitkeringen niet-pensioengerechtigden van land- en zeemacht", met vermelding van het jaartal en het nummer van het **Staatsblad**, waarin het is geplaatst.
 
-#### Artikel 15
+##### Artikel 15
 
 Dit besluit treedt in werking met ingang van de tweede dag na die der dagtekening van het **Staatsblad**, waarin het is geplaatst.
 

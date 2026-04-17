@@ -1,13 +1,39 @@
 ---
-title: "Circulaire Gelijke behandeling van Gereinigd gas uit B-hout met ongereinigd gas uit A-hout"
+title: "Circulaire van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 2 oktober 2006, inzake Gereinigd gas uit B-hout"
 identifier: "BWBR0020378"
-categorie: "Bestuursrecht"
-publicatiedatum: 2006-10-03
-laatste_update: 2006-10-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020378"
+country: "nl"
+rank: "circulaire"
+publication_date: "2006-10-03"
+last_updated: "2006-10-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020378"
+soort: "circulaire"
+stam_id: "8636383"
+version_id: "13622072"
+internal_id: "C18314191"
+label_id: "8616614"
+dtd_version: "2.0"
+original_entry_into_force: "2006-10-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020378/2006-10-03/0"
+intitule_bron: "Stcrt.2006-192"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-10-02"
+intitule_published: "2006-10-03"
+intitule_in_force: "2006-10-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-192"
+original_signed_date: "2006-10-02"
+original_published_date: "2006-10-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-192-p32-SC77105"
+entry_into_force_date: "2006-10-03"
+jci_1_3: "jci1.3:c:BWBR0020378&z=2006-10-03&g=2006-10-03"
+jci_1_0: "1.0:c:BWBR0020378&g=2006-10-03"
+citeertitel_status: "redactioneel"
+short_title: "Circulaire Gelijke behandeling van Gereinigd gas uit B-hout met ongereinigd gas uit A-hout"
+signed_date: "2006-10-02"
+entry_into_force: "2006-10-03"
 ---
-
 # Circulaire van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 2 oktober 2006, inzake Gereinigd gas uit B-hout
 
 ### 1. Inleiding

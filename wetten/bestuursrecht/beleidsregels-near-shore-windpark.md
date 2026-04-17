@@ -1,13 +1,37 @@
 ---
 title: "Beleidsregels near shore windpark"
 identifier: "BWBR0012921"
-categorie: "Bestuursrecht"
-publicatiedatum: 2001-10-28
-laatste_update: 2001-10-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012921"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2001-10-28"
+last_updated: "2001-10-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012921"
+soort: "beleidsregel"
+stam_id: "6227463"
+version_id: "10899872"
+internal_id: "C14770221"
+label_id: "6216634"
+original_entry_into_force: "2001-10-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012921/2001-10-28/0"
+intitule_bron: "Stcrt.2001-208"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-10-25"
+intitule_published: "2001-10-26"
+intitule_in_force: "2001-10-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2001-208"
+original_signed_date: "2001-10-25"
+original_published_date: "2001-10-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2001-208-p9-SC31467"
+entry_into_force_date: "2001-10-28"
+jci_1_3: "jci1.3:c:BWBR0012921&z=2001-10-28&g=2001-10-28"
+jci_1_0: "1.0:c:BWBR0012921&g=2001-10-28"
+citeertitel_status: "officieel"
+signed_date: "2001-10-25"
+entry_into_force: "2001-10-28"
 ---
-
 # Beleidsregels near shore windpark
 
 Gelet op [artikel 4:81, eerste lid van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81),
@@ -16,7 +40,7 @@ Besluiten:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze beleidsregels wordt verstaan onder:
 
@@ -50,7 +74,7 @@ In deze beleidsregels wordt verstaan onder:
 
 #### § 2. Van selectie naar overeenkomst
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Staatssecretaris van Financiën en de Minister van Economische Zaken sluiten de overeenkomst met de deelnemer die door de Adviescommissie near shore windpark het hoogst gerangschikt wordt, overeenkomstig de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012921&paragraaf=4&artikel=6&z=2001-10-28&g=2001-10-28) opgenomen selectiecriteria.
 
@@ -60,7 +84,7 @@ In deze beleidsregels wordt verstaan onder:
 
 #### § 3. Adviescommissie near shore windpark
 
-#### Artikel 3
+##### Artikel 3
 
 1. Er is een Adviescommissie near shore windpark die tot taak heeft de Minister van Economische Zaken op zijn verzoek te adviseren omtrent de deelnemingen in de selectieprocedure.
 
@@ -84,7 +108,7 @@ In deze beleidsregels wordt verstaan onder:
 
 #### § 4. Selectieprocedure
 
-#### Artikel 4
+##### Artikel 4
 
 1. Deelnemingen aan de selectie op grond van deze beleidsregels moeten zijn ontvangen in de periode van 1 november 2001 tot en met 11 januari 2002.
 
@@ -94,7 +118,7 @@ In deze beleidsregels wordt verstaan onder:
 
 4. Indien de deelneming is ingediend door een samenwerkingsverband, dient een der deelnemers in het samenwerkingsverband de deelneming mede namens de andere deelnemers in en gaat de deelneming vergezeld van de samenwerkingsovereenkomst waarin de samenwerking tussen de deelnemers in het samenwerkingsverband is geregeld, overeenkomstig hetgeen in het formulier is vermeld.
 
-#### Artikel 5
+##### Artikel 5
 
 Een deelneming wordt in ieder geval uitgesloten van de selectie indien:
 
@@ -102,7 +126,7 @@ Een deelneming wordt in ieder geval uitgesloten van de selectie indien:
 
 - b. in het projectplan niet wordt voorzien in de volledige uitvoering van de onderdelen die in het monitoring- en evaluatieprogramma zijn aangeduid als: Kwantitatieve uitwerking 'verplicht'.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De Minister van Economische Zaken wint omtrent de deelnemingen die niet op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012921&paragraaf=4&artikel=5&z=2001-10-28&g=2001-10-28) zijn uitgesloten van de selectie het advies in van de Adviescommissie near shore windpark.
 
@@ -128,7 +152,7 @@ Een deelneming wordt in ieder geval uitgesloten van de selectie indien:
 
 met dien verstande dat op de totale waardering op de onderdelen a tot en met d steeds 3 punten in aftrek gebracht worden voor iedere € 907.560,43 subsidie die nodig is boven een subsidiebedrag van € 9.075.604,32 om het windpark overeenkomstig het projectplan te realiseren en exploiteren.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het resultaat van de selectie wordt binnen dertien weken na het einde van de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012921&paragraaf=4&artikel=4&z=2001-10-28&g=2001-10-28), genoemde termijn bekend gemaakt door de Minister van Economische Zaken.
 
@@ -136,7 +160,7 @@ met dien verstande dat op de totale waardering op de onderdelen a tot en met d s
 
 #### § 5. Overgangsbepaling
 
-#### Artikel 8
+##### Artikel 8
 
 Tot en met 31 december 2001 geldt het volgende:
 
@@ -144,11 +168,11 @@ in afwijking van [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 #### § 6. Slotbepalingen
 
-#### Artikel 9
+##### Artikel 9
 
 Deze beleidsregels treden in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij worden geplaatst.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze beleidsregels worden aangehaald als: Beleidsregels near shore windpark.
 

@@ -1,13 +1,39 @@
 ---
-title: "Rijksbesluit rechtsopvolging burgerlijke rechten en verplichtingen Nederlandse Antillen"
+title: "Besluit van 21 september 2010, houdende regels met betrekking tot de opvolging onder algemene titel in de rechten en verplichtingen van het land de Nederlandse Antillen naar burgerlijk recht (Rijksbesluit rechtsopvolging burgerlijke rechten en verplichtingen Nederlandse Antillen)"
 identifier: "BWBR0028594"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028594"
+country: "nl"
+rank: "rijks_kb"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028594"
+soort: "rijksKB"
+stam_id: "10888333"
+version_id: "17870742"
+internal_id: "C24657141"
+label_id: "10863024"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028594/2010-10-10/0"
+intitule_bron: "Stb.2010-355"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-21"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-01"
+intitule_status: "goed"
+original_publication: "Stb.2010-355"
+original_signed_date: "2010-09-21"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-355"
+entry_into_force_date: "2010-10-02"
+jci_1_3: "jci1.3:c:BWBR0028594&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028594&g=2010-10-10"
+citeertitel_status: "officieel"
+short_title: "Rijksbesluit rechtsopvolging burgerlijke rechten en verplichtingen Nederlandse Antillen"
+signed_date: "2010-09-21"
+entry_into_force: "2010-10-02"
 ---
-
 # Besluit van 21 september 2010, houdende regels met betrekking tot de opvolging onder algemene titel in de rechten en verplichtingen van het land de Nederlandse Antillen naar burgerlijk recht (Rijksbesluit rechtsopvolging burgerlijke rechten en verplichtingen Nederlandse Antillen)
 
 Op de voordracht van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 13 juli 2010, nr. 2010-0000483371, Directie Constitutionele Zaken en Wetgeving, gedaan in overeenstemming met de regering van de Nederlandse Antillen en de bestuurscolleges van de eilandgebieden Curaçao en Sint Maarten;
@@ -24,7 +50,7 @@ De bepalingen van het [Statuut voor het Koninkrijk](https://wetten.overheid.nl/j
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -36,13 +62,13 @@ In dit besluit wordt verstaan onder:
 
 - **verkrijgende land:** het land waarop een recht of verplichting naar burgerlijk recht overgaat.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Overeenkomstig de [artikelen 3 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028594&artikel=3&z=2010-10-10&g=2010-10-10) gaan op het tijdstip van transitie alle rechten en verplichtingen van het land Nederlandse Antillen naar burgerlijk recht over op de landen, zonder dat daarvoor een nadere akte wordt gevorderd.
 
 2. De [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028594&artikel=3&z=2010-10-10&g=2010-10-10) zijn niet van toepassing op aandelen en deelnemingen als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028594&artikel=6&z=2010-10-10&g=2010-10-10) en de daaruit voortvloeiende rechten en verplichtingen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De eigendom van aan het land Nederlandse Antillen toebehorende zaken gaat over op:
 
@@ -56,7 +82,7 @@ In dit besluit wordt verstaan onder:
 
 4. Tezamen met de eigendom van een zaak of het beperkte recht waaraan een zaak is onderworpen, gaan op het verkrijgende land alle met betrekking tot die zaak of dat beperkte recht op het land Nederlandse Antillen rustende rechten en verplichtingen over.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Rechten en verplichtingen van het land Nederlandse Antillen, voortvloeiend uit een door of namens dat land gesloten overeenkomst, gaan over op:
 
@@ -68,11 +94,11 @@ In dit besluit wordt verstaan onder:
 
 2. Het eerste lid is niet van toepassing op rechten en verplichtingen als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028594&artikel=3&z=2010-10-10&g=2010-10-10).
 
-#### Artikel 5
+##### Artikel 5
 
 Overige rechten en verplichtingen van het land Nederlandse Antillen naar burgerlijk recht gaan over op het land Curacao, tenzij uit de aard van het recht of de verplichting voortvloeit dat het recht uitsluitend kan worden uitgeoefend, dan wel de verplichting uitsluitend kan worden nagekomen, in of door een ander land. Alsdan gaat het recht of de verplichting over op dat andere land.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De aan het land Nederlandse Antillen toebehorende aandelen in de naamloze vennootschappen, genoemd in de bijlage bij dit besluit, gaan over op de in die bijlage genoemde rechtsopvolger of rechtsopvolgers.
 
@@ -82,7 +108,7 @@ Overige rechten en verplichtingen van het land Nederlandse Antillen naar burgerl
 
 4. De uit de deelneming van het land Nederlandse Antillen in de commanditaire vennootschap Antilliaanse Luchtvaartmaatschappij CV voortvloeiende rechten en verplichtingen gaan over op het land Curaçao.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Op de in de [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028594&artikel=3&z=2010-10-10&g=2010-10-10) bedoelde rechten en verplichtingen is, tenzij door partijen anders is overeengekomen of uit internationaal privaatrecht anders voortvloeit, na het tijdstip van transitie het recht van het verkrijgende land van toepassing. Op de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028594&artikel=6&z=2010-10-10&g=2010-10-10) bedoelde rechten en verplichtingen is het recht van toepassing van het land van de statutaire zetel van de desbetreffende vennootschap.
 
@@ -90,7 +116,7 @@ Overige rechten en verplichtingen van het land Nederlandse Antillen naar burgerl
 
 3. Indien op het tijdstip van transitie het land Nederlandse Antillen als partij betrokken is bij een geschil of rechtsgeding ter zake van rechten of verplichtingen als bedoeld in het eerste lid, treedt met ingang van het tijdstip van transitie het verkrijgende land in de plaats van het land Nederlandse Antillen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Alle rechten en verplichtingen naar burgerlijk recht van de in het tweede lid genoemde, bij landsverordening van de Nederlandse Antillen ingestelde, rechtspersonen gaan op het tijdstip van transitie over op de door Curaçao in te stellen of aan te wijzen rechtsopvolgers van de desbetreffende rechtspersonen, zonder dat daarvoor een nadere akte wordt gevorderd.
 
@@ -114,7 +140,7 @@ Overige rechten en verplichtingen van het land Nederlandse Antillen naar burgerl
 
 6. Indien op het tijdstip van transitie een in het tweede of vierde lid genoemde rechtspersoon als partij betrokken is bij een geschil of rechtsgeding ter zake van rechten of verplichtingen als bedoeld in het eerste lid, treedt met ingang van het tijdstip van transitie de rechtsopvolger van die rechtspersoon in zijn plaats.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De landen Curaçao en Sint Maarten en de Staat der Nederlanden hebben elk recht op een aandeel in het vermogen van het Algemeen Pensioenfonds van de Nederlandse Antillen, naar de waarde van dat vermogen op de dag voorafgaand aan het tijdstip van transitie. De vaststelling van de omvang en de verdeling van dat vermogen geschieden overeenkomstig de daartoe in de Onderlinge regeling opvolging en boedelscheiding Algemeen Pensioenfonds Nederlandse Antillen en opvolging van enkele andere aanverwante regelingen vastgelegde afspraken.
 
@@ -126,17 +152,17 @@ Overige rechten en verplichtingen van het land Nederlandse Antillen naar burgerl
 
 5. De in het tweede lid bedoelde verplichtingen rusten, indien voor het Algemeen Pensioenfonds van de Nederlandse Antillen geen rechtsopvolger is aangewezen, vanaf het tijdstip van transitie op het land Curaçao.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit is niet van toepassing op geldleningen als bedoeld in [artikel 2 van het Rijksbesluit overname geldleningen Nederlandse Antillen, Curacao en Sint Maarten](https://wetten.overheid.nl/jci1.3:c:BWBR0028560&artikel=2).
 
-#### Artikel 11
+##### Artikel 11
 
 1. Dit besluit treedt in werking op het tijdstip waarop [artikel I, derde lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=I) in werking treedt.
 
 2. In afwijking van het eerste lid treedt [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028594&artikel=9&z=2010-10-10&g=2010-10-10) in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-#### Artikel 12
+##### Artikel 12
 
 Dit besluit wordt aangehaald als: Rijksbesluit rechtsopvolging burgerlijke rechten en verplichtingen Nederlandse Antillen.
 

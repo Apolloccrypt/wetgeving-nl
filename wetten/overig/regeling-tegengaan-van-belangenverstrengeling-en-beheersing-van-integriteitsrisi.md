@@ -1,20 +1,45 @@
 ---
-title: "Regeling tegengaan van belangenverstrengeling en beheersing van integriteitsrisico's verzekeraars"
+title: "Regeling van de Pensioen- & Verzekeringskamer van 18 december 2003, nr. 0.851.3/03-8451, houdende uitvoering van de artikelen 2 lid 2 en 3 lid 3 van het Besluit integere bedrijfsvoering kredietinstellingen en verzekeraars (Regeling tegengaan van belangenverstrengeling en beheersing van integriteitsrisico's verzekeraars)"
 identifier: "BWBR0016194"
-categorie: "Overig"
-publicatiedatum: 2004-01-01
-laatste_update: 2004-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0016194"
+country: "nl"
+rank: "zbo"
+publication_date: "2004-01-01"
+last_updated: "2004-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0016194"
+soort: "zbo"
+stam_id: "6576313"
+version_id: "11398712"
+internal_id: "C15348601"
+label_id: "6564814"
+original_entry_into_force: "2004-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0016194/2004-01-01/0"
+intitule_bron: "Stcrt.2003-248"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-12-18"
+intitule_published: "2003-12-23"
+intitule_in_force: "2003-12-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2003-248"
+original_signed_date: "2003-12-18"
+original_published_date: "2003-12-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2003-248-p61-SC63064"
+entry_into_force_date: "2004-01-01"
+jci_1_3: "jci1.3:c:BWBR0016194&z=2004-01-01&g=2004-01-01"
+jci_1_0: "1.0:c:BWBR0016194&g=2004-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling tegengaan van belangenverstrengeling en beheersing van integriteitsrisico's verzekeraars"
+signed_date: "2003-12-18"
+entry_into_force: "2004-01-01"
 ---
-
 # Regeling van de Pensioen- & Verzekeringskamer van 18 december 2003, nr. 0.851.3/03-8451, houdende uitvoering van de artikelen 2 lid 2 en 3 lid 3 van het Besluit integere bedrijfsvoering kredietinstellingen en verzekeraars (Regeling tegengaan van belangenverstrengeling en beheersing van integriteitsrisico's verzekeraars)
 
 Gelet op de [artikelen 2 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015712&artikel=2) en [3 lid 3 van het Besluit integere bedrijfsvoering kredietinstellingen en verzekeraars](https://wetten.overheid.nl/jci1.3:c:BWBR0015712&artikel=3);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -28,7 +53,7 @@ In deze regeling wordt verstaan onder:
 
 - e). **compliance**: de naleving van wet- en regelgeving, alsmede het werken volgens de normen, gedragsregels, voorschriften en procedures die de verzekeraar zelf heeft opgesteld;
 
-#### Artikel 2
+##### Artikel 2
 
 De verzekeraar stelt beleid vast met betrekking tot de wijze waarop hij de (schijn van) verstrengeling van privé-belangen van bestuurders, van leden van de raad van commissarissen, van zijn personeelsleden of van andere personen die in opdracht van de verzekeraar op structurele basis werkzaamheden voor hem verrichten, met de belangen van de verzekeraar tegengaat. Het beleid betreft in ieder geval:
 
@@ -38,13 +63,13 @@ De verzekeraar stelt beleid vast met betrekking tot de wijze waarop hij de (schi
 
 - c. het bekendmaken van de normen en regels aan alle relevante geledingen van de verzekeraar.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De verzekeraar draagt zorg voor de uitwerking en implementatie van het beleid als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016194&artikel=2&z=2004-01-01&g=2004-01-01) in organisatorische en administratieve procedures en maatregelen. Deze procedures en maatregelen zijn geïntegreerd in de bedrijfsprocessen en dragen bij aan een integriteitsbewuste bedrijfscultuur.
 
 2. De verzekeraar draagt zorg voor een systematisch toezicht op de naleving van organisatorische en administratieve procedures en maatregelen inzake het tegengaan van belangenverstrengeling.
 
-#### Artikel 4
+##### Artikel 4
 
 De verzekeraar stelt beleid vast ter beheersing van integriteitsrisico's. Het beleid betreft in ieder geval:
 
@@ -54,15 +79,15 @@ De verzekeraar stelt beleid vast ter beheersing van integriteitsrisico's. Het be
 
 - c. het bekendmaken van de normen en regels aan alle relevante geledingen van de verzekeraar.
 
-#### Artikel 5
+##### Artikel 5
 
 De verzekeraar draagt zorg voor een systematische analyse van integriteitsrisico's. De analyse wordt uitgevoerd zowel voor het totale bedrijf van de verzekeraar als op het niveau van de onderscheiden bedrijfsonderdelen.
 
-#### Artikel 6
+##### Artikel 6
 
 De verzekeraar draagt zorg voor de uitwerking en implementatie van het beleid als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0016194&artikel=4&z=2004-01-01&g=2004-01-01) in organisatorische en administratieve procedures en maatregelen. Deze procedures en maatregelen zijn geïntegreerd in de bedrijfsprocessen en dragen bij aan een integriteitsbewuste bedrijfscultuur.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De verzekeraar draagt zorg voor een systematisch toezicht op de naleving van organisatorische en administratieve procedures en maatregelen inzake de beheersing van integriteitsrisico's.
 
@@ -70,7 +95,7 @@ De verzekeraar draagt zorg voor de uitwerking en implementatie van het beleid al
 
 3. De verzekeraar draagt er zorg voor dat gesignaleerde en gerapporteerde tekortkomingen en gebreken, mede onder toezicht van de compliance-functie als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0016194&artikel=8&z=2004-01-01&g=2004-01-01), tot een gepaste bijstelling leiden.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De verzekeraar beschikt over een onafhankelijke compliance-functie voor het toezicht op de naleving van wet- en regelgeving, alsmede het werken volgens de normen, gedragsregels, voorschriften en procedures die de verzekeraar zelf heeft opgesteld.
 
@@ -78,17 +103,17 @@ De verzekeraar draagt zorg voor de uitwerking en implementatie van het beleid al
 
 3. De verzekeraar zorgt dat ten minste één bestuurder het aandachtsgebied compliance in portefeuille heeft.
 
-#### Artikel 9
+##### Artikel 9
 
 De verzekeraar draagt zorg voor een systematische toetsing en beoordeling van de toereikendheid van de opzet en de werking van organisatorische en administratieve procedures en maatregelen inzake de beheersing van integriteitsrisico's. De verzekeraar beschikt over vervolgprocedures die erin voorzien dat gesignaleerde tekortkomingen en gebreken tot een gepaste bijstelling leiden.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Deze regeling treedt in werking met ingang van de tweede dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst dan wel, indien deze datum voor 1 januari 2004 ligt, op 1 januari 2004.
 
 2. Verzekeraars die op het tijdstip van inwerkingtreding van deze regeling als verzekeraar werkzaam zijn, dienen uiterlijk op 1 juli 2004 aan het bepaalde in deze regeling te voldoen.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze regeling wordt aangehaald als: Regeling tegengaan van belangenverstrengeling en beheersing van integriteitsrisico's verzekeraars.
 

@@ -1,14 +1,41 @@
 ---
-title: "Wet bemanning zeeschepen"
+title: "Wet van 11 december 2024, houdende regels over het bemannen van zeeschepen (Wet bemanning zeeschepen)"
 identifier: "BWBR0050681"
-categorie: "Overig"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050681"
+country: "nl"
+rank: "wet"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050681"
+soort: "wet"
+stam_id: "17341883"
+version_id: "30565012"
+internal_id: "C44059011"
+label_id: "17246994"
+dtd_version: "2.0"
+original_entry_into_force: "2025-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050681/2025-07-01/0"
+intitule_bron: "Stb.2025-9"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-12-11"
+intitule_published: "2025-01-17"
+intitule_in_force: "2025-05-28"
+intitule_status: "goed"
+original_publication: "Stb.2025-9"
+original_signed_date: "2024-12-11"
+original_published_date: "2025-01-17"
+original_effect: "nieuwe-regeling"
+original_dossier: "36440"
+original_url_id: "stb-2025-9"
+entry_into_force_date: "2025-07-01"
+jci_1_3: "jci1.3:c:BWBR0050681&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0050681&g=2025-07-01"
+citeertitel_status: "officieel"
+short_title: "Wet bemanning zeeschepen"
+signed_date: "2024-12-11"
+entry_into_force: "2025-07-01"
 ---
-
-# Wet bemanning zeeschepen
+# Wet van 11 december 2024, houdende regels over het bemannen van zeeschepen (Wet bemanning zeeschepen)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -124,7 +151,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **zeilvaart:** bedrijfsmatige vaart met zeilschepen op zee.
 
-#### Artikel 2. Reikwijdte en uitzonderingen
+##### Artikel 2. Reikwijdte en uitzonderingen
 
 1. Het bepaalde bij of krachtens deze wet is van toepassing ten aanzien van zeeschepen, voor zover ten aanzien van vissersvaartuigen niet anders is bepaald en, in de bij of krachtens deze wet aangewezen gevallen, op Caribisch-Nederlandse zeeschepen.
 
@@ -152,7 +179,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 7. Bij ministeriële regeling kunnen, na overleg met de betrokken organisaties van scheepsbeheerders en zeevarenden, categorieën van personen worden aangewezen die in afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&hoofdstuk=1&artikel=1&z=2025-07-01&g=2025-07-01) niet worden aangemerkt als zeevarenden, als bedoeld in artikel II, derde lid, van het MLC-verdrag.
 
-#### Artikel 3. Ontheffing ten behoeve van experimenten
+##### Artikel 3. Ontheffing ten behoeve van experimenten
 
 1. Indien er sprake is van aantoonbare technologische innovatie kan Onze Minister na overleg met de betrokken organisaties van scheepsbeheerders en zeevarenden en andere betrokken belangenorganisaties ten behoeve van de uitvoering van een experiment gedurende ten hoogste drie jaar ontheffing verlenen van het bepaalde in de [artikelen 9, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&hoofdstuk=2&paragraaf=2&artikel=9&z=2025-07-01&g=2025-07-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&hoofdstuk=2&paragraaf=3&artikel=20&z=2025-07-01&g=2025-07-01), [23, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&hoofdstuk=3&artikel=23&z=2025-07-01&g=2025-07-01), [24, eerste tot en met het derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&hoofdstuk=3&artikel=24&z=2025-07-01&g=2025-07-01), [25, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&hoofdstuk=3&artikel=25&z=2025-07-01&g=2025-07-01), of [71](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&hoofdstuk=7&artikel=71&z=2025-07-01&g=2025-07-01) en de daarop berustende bepalingen. Aan deze ontheffing worden ter waarborging van de veiligheid beperkingen en voorwaarden verbonden.
 
@@ -170,7 +197,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Paragraaf 1. Bepalingen met betrekking tot de scheepsbeheerder
 
-#### Artikel 4. Zorgplicht scheepsbeheerder
+##### Artikel 4. Zorgplicht scheepsbeheerder
 
 1. De scheepsbeheerder draagt er zorg voor dat zijn zeeschip of zeeschepen zodanig zijn bemand dat redelijkerwijs alle werkzaamheden aan boord kunnen worden verricht gelet op de bedrijfsvoering, het voorkomen van oververmoeidheid van zeevarenden, zonder gevaar voor de opvarenden, het zeeschip, de lading, het milieu of het scheepvaartverkeer en met inachtneming van de geldende arbeids- en rusttijden.
 
@@ -184,7 +211,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 6. Bij ministeriële regeling kunnen in het belang van een goede uitvoering nadere regels worden gesteld met betrekking tot de uitvoering van het gestelde in het eerste tot en met het vijfde lid.
 
-#### Artikel 5. Overzicht opleiding en diensttijd zeevarenden aan boord
+##### Artikel 5. Overzicht opleiding en diensttijd zeevarenden aan boord
 
 1. De scheepsbeheerder houdt, ten behoeve van de met het toezicht op de naleving van deze wet belaste autoriteiten, per schip van elk daarop dienstdoend bemanningslid een overzicht bij van ten minste het volgende:
 
@@ -202,13 +229,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Persoonsgegevens bedoeld in het eerste lid worden zo spoedig mogelijk en in ieder geval binnen vier weken vernietigd nadat deze niet langer nodig zijn ten behoeve van de met het toezicht op de naleving van deze wet belaste autoriteiten.
 
-#### Artikel 6. Afhandeling klachten zeevarenden aan boord
+##### Artikel 6. Afhandeling klachten zeevarenden aan boord
 
 1. De scheepsbeheerder van een zeeschip draagt zorg voor de afhandeling van klachten over schending of vermoedelijke schending van het MLC-verdrag of het C188-verdrag volgens een door de scheepsbeheerder vastgestelde klachtenprocedure als bedoeld in voorschrift 5.1.5 van het MLC-verdrag.
 
 2. Bij ministeriële regeling worden regels gesteld waaraan de in het eerste lid bedoelde klachtenprocedure moet voldoen.
 
-#### Artikel 7. Nakoming verplichtingen BW
+##### Artikel 7. Nakoming verplichtingen BW
 
 1. De scheepsbeheerder van een zeeschip, anders dan een vissersvaartuig, draagt zorg voor de nakoming van zijn verplichtingen op grond van [Boek 7, Titel 10, Afdeling 12, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&afdeling=12) en handelt overeenkomstig de voor het desbetreffende zeeschip afgegeven verklaring naleving maritieme arbeid deel I.
 
@@ -218,11 +245,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Paragraaf 2. Bepalingen met betrekking tot de kapitein en de officieren
 
-#### Artikel 8. Goed zeemanschap
+##### Artikel 8. Goed zeemanschap
 
 De kapitein en de officieren gedragen zich aan boord ten opzichte van de opvarenden, het schip, de lading, het milieu en het scheepvaartverkeer zoals het een goed zeeman betaamt.
 
-#### Artikel 9. Zorgplicht kapitein
+##### Artikel 9. Zorgplicht kapitein
 
 1. De kapitein draagt er zorg voor dat de bemanning van het zeeschip te allen tijde berekend is op het verrichten van de werkzaamheden aan boord gelet op de bedrijfsvoering van het zeeschip, de lading, het milieu of het scheepvaartverkeer en kan daartoe noodzakelijke maatregelen nemen, waaronder de maatregel om het schip niet te laten uitvaren.
 
@@ -236,37 +263,37 @@ De kapitein en de officieren gedragen zich aan boord ten opzichte van de opvaren
 
 6. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de uitvoering van het eerste tot en met vierde lid.
 
-#### Artikel 10. Openbare orde
+##### Artikel 10. Openbare orde
 
 1. De kapitein is belast met de handhaving van de openbare orde aan boord van het zeeschip en oefent aan boord over alle opvarenden disciplinair gezag uit. Hij kan tot handhaving van dit gezag de maatregelen nemen die redelijkerwijs nodig zijn.
 
 2. De opvarenden zijn verplicht de bevelen op te volgen die door de kapitein worden gegeven in het belang van de veiligheid of tot handhaving van de orde, met inbegrip van de openbare orde.
 
-#### Artikel 11. Werkzaamheden waarvoor een vaarbevoegdheidsbewijs is vereist of andere beroepseisen zijn vastgesteld
+##### Artikel 11. Werkzaamheden waarvoor een vaarbevoegdheidsbewijs is vereist of andere beroepseisen zijn vastgesteld
 
 De kapitein belast een zeevarende met werkzaamheden aan boord waarvoor een vaarbevoegdheidsbewijs is vereist of andere beroepseisen zijn vastgesteld alleen voor zover die zeevarende beschikt over het daarvoor benodigde geldig vaarbevoegdheidsbewijs of voldoet aan de daarvoor benodigde beroepseisen.
 
-#### Artikel 12. Verlaten zeeschip
+##### Artikel 12. Verlaten zeeschip
 
 1. Een opvarende verlaat het zeeschip niet zonder toestemming van de kapitein.
 
 2. Toestemming van de kapitein is niet nodig voor het in een haven verlaten van het zeeschip voor het, wanneer dit mogelijk is, onverwijld raadplegen van een arts of tandarts door een zeevarende.
 
-#### Artikel 13. Weigering toestemming om het zeeschip te verlaten
+##### Artikel 13. Weigering toestemming om het zeeschip te verlaten
 
 De kapitein vermeldt een weigering van toestemming om het zeeschip te verlaten aan een zeevarende en de reden daarvoor in het scheepsdagboek en verstrekt desgevraagd aan de zeevarende binnen twaalf uur een schriftelijke bevestiging daarvan.
 
-#### Artikel 14. Aanvang uitoefening gezag kapitein
+##### Artikel 14. Aanvang uitoefening gezag kapitein
 
 De kapitein oefent zijn gezag uit zodra hij aan boord is en het gezag heeft aanvaard of overgenomen, en zolang hij het gezag niet heeft overgedragen of de scheepsbeheerder hem het gezag niet heeft ontnomen.
 
-#### Artikel 15. Niet functionerende kapitein
+##### Artikel 15. Niet functionerende kapitein
 
 1. In geval de kapitein aan boord van een zeeschip niet meer kan functioneren, treedt als kapitein op de eerste stuurman, onderscheidenlijk de eerste maritiem officier. Indien geen eerste stuurman of eerste maritiem officier aanwezig is, treedt als kapitein op een door de scheepsbeheerder aangewezen persoon.
 
 2. In geval de schipper aan boord van een vissersvaartuig niet meer kan functioneren, treedt als schipper op de plaatsvervangend schipper of, bij afwezigheid van een plaatsvervangend schipper, een door de scheepsbeheerder aangewezen persoon.
 
-#### Artikel 16. Verplichtingen kapitein jegens scheepsbeheerder
+##### Artikel 16. Verplichtingen kapitein jegens scheepsbeheerder
 
 1. De kapitein is tegenover de scheepsbeheerder verplicht te handelen overeenkomstig de hem door de scheepsbeheerder gegeven orders, mits deze orders niet in strijd zijn met de verplichtingen, hem als kapitein door de wet opgelegd.
 
@@ -276,11 +303,11 @@ De kapitein oefent zijn gezag uit zodra hij aan boord is en het gezag heeft aanv
 
 4. Indien de scheepsbeheerder niet tijdig of geen gevolg geeft aan het verzoek, bedoeld in het derde lid, stelt de kapitein Onze Minister daarvan in kennis.
 
-#### Artikel 17. Bescherming kapitein
+##### Artikel 17. Bescherming kapitein
 
 De scheepsbeheerder draagt er zorg voor dat de kapitein vanwege de toepassing van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&hoofdstuk=2&paragraaf=2&artikel=9&z=2025-07-01&g=2025-07-01), niet benadeeld wordt.
 
-#### Artikel 18. Nationaliteit kapitein
+##### Artikel 18. Nationaliteit kapitein
 
 1. Op een zeeschip worden alleen personen als kapitein aangesteld die de nationaliteit bezitten van:
 
@@ -292,7 +319,7 @@ De scheepsbeheerder draagt er zorg voor dat de kapitein vanwege de toepassing va
 
 2. Bij ministeriële regeling kan, onder het stellen van voorwaarden of beperkingen, ten behoeve van vissersvaartuigen vrijstelling worden verleend van het in het eerste lid bedoelde vereiste.
 
-#### Artikel 19. Vrijstellingsregeling nationaliteit kapitein
+##### Artikel 19. Vrijstellingsregeling nationaliteit kapitein
 
 1. Aan personen die de nationaliteit bezitten van een andere staat dan genoemd in [artikel 18, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&hoofdstuk=2&paragraaf=2&artikel=18&z=2025-07-01&g=2025-07-01), kan bij ministeriële regeling vrijstellingworden verleend van de nationaliteitseis, bedoeld in artikel 18, eerste lid, voor het dienstdoen op een zeeschip dat geen vissersvaartuig is.
 
@@ -310,7 +337,7 @@ De scheepsbeheerder draagt er zorg voor dat de kapitein vanwege de toepassing va
 
 #### Paragraaf 3. Bepalingen met betrekking tot de bemanningssterkte
 
-#### Artikel 20. Bemanningssamenstelling en bemanningscertificaat
+##### Artikel 20. Bemanningssamenstelling en bemanningscertificaat
 
 1. Een zeeschip is voorzien van een geldig bemanningscertificaat afgegeven door Onze Minister.
 
@@ -324,7 +351,7 @@ De scheepsbeheerder draagt er zorg voor dat de kapitein vanwege de toepassing va
 
 6. Bij ministeriële regeling kan onder het stellen van regels worden bepaald dat een bemanningscertificaat geheel of gedeeltelijk wordt vervangen door een geautomatiseerd bestand.
 
-#### Artikel 21. Bemanningslijst
+##### Artikel 21. Bemanningslijst
 
 1. Een zeeschip is voorzien van een actuele bemanningslijst.
 
@@ -336,7 +363,7 @@ De scheepsbeheerder draagt er zorg voor dat de kapitein vanwege de toepassing va
 
 5. Bij ministeriële regeling kan onder het stellen van regels worden bepaald dat een bemanningslijst geheel of gedeeltelijk wordt vervangen door een geautomatiseerd bestand.
 
-#### Artikel 22. Monsterboekje en alternatieve diensttijdverklaring
+##### Artikel 22. Monsterboekje en alternatieve diensttijdverklaring
 
 1. Een zeevarende, als bedoeld in [artikel 23, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&hoofdstuk=3&artikel=23&z=2025-07-01&g=2025-07-01), is in het bezit van een geldig monsterboekje.
 
@@ -350,7 +377,7 @@ De scheepsbeheerder draagt er zorg voor dat de kapitein vanwege de toepassing va
 
 ### Hoofdstuk 3. Vaarbevoegdheden en beroepseisen
 
-#### Artikel 23. Bezit vaarbevoegdheidsbewijs
+##### Artikel 23. Bezit vaarbevoegdheidsbewijs
 
 1. Een zeevarende die aan boord van een zeeschip een functie vervult van kapitein of officier als bedoeld in:
 
@@ -368,7 +395,7 @@ is in het bezit van een vaarbevoegdheidsbewijs of door Onze Minister erkend buit
 
 5. Van de in het eerste lid bedoelde verplichting kan ten aanzien van een zeevarende, met inachtneming van bij algemene maatregel van bestuur te stellen regels, voor een bepaald zeeschip, een bepaalde functie of een bepaalde periode van niet meer dan zes maanden, door Onze Minister ontheffing worden verleend. Aan een besluit tot ontheffing kunnen ter waarborging van de veiligheid voorschriften worden verbonden.
 
-#### Artikel 24. Bijzondere beroepseisen bepaalde scheepstypen
+##### Artikel 24. Bijzondere beroepseisen bepaalde scheepstypen
 
 1. Een zeevarende die aan boord van een zeeschip een functie of taak vervult als bedoeld in hoofdstuk V van de bijlage bij het STCW-verdrag is in het bezit van een bekwaamheidsbewijs of schriftelijk bewijs voor die functie of taak en voldoet alvorens hij deze aanvangt aan de overige bijzondere eisen voor die functie of taak.
 
@@ -380,7 +407,7 @@ is in het bezit van een vaarbevoegdheidsbewijs of door Onze Minister erkend buit
 
 5. Bij ministeriële regeling worden regels gesteld met betrekking tot de aanvraag en de intrekking van een erkenning van een training als bedoeld in het vierde lid.
 
-#### Artikel 25. Aanvullende beroepseisen
+##### Artikel 25. Aanvullende beroepseisen
 
 1. Een zeevarende die aan boord van een zeeschip een functie of taak vervult als bedoeld in hoofdstuk VI van het STCW-verdrag, de hoofdstukken III en IV van het STCW F-verdrag, voorschrift 1.3, eerste en tweede lid, van de code bij het MLC-verdrag, artikel 31, onderdeel b, van het C188-verdrag of [richtlijn 92/29/EEG](31992L0029) is in het bezit van een bekwaamheidsbewijs of schriftelijk bewijs voor die functie of taak en voldoet alvorens hij deze aanvangt aan de overige aanvullende eisen voor die functie of taak.
 
@@ -394,7 +421,7 @@ is in het bezit van een vaarbevoegdheidsbewijs of door Onze Minister erkend buit
 
 6. Bij ministeriële regeling worden regels gesteld met betrekking tot de aanvraag en de intrekking van een erkenning van een training als bedoeld in het vierde lid.
 
-#### Artikel 26. Afgifte vaarbevoegdheidsbewijs, bekwaamheidsbewijs of schriftelijk bewijs
+##### Artikel 26. Afgifte vaarbevoegdheidsbewijs, bekwaamheidsbewijs of schriftelijk bewijs
 
 1. Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot de geldigheid, de vernieuwing, ophoging, schorsing of intrekking van een vaarbevoegdheidsbewijs, een bekwaamheidsbewijs of schriftelijk bewijs.
 
@@ -402,7 +429,7 @@ is in het bezit van een vaarbevoegdheidsbewijs of door Onze Minister erkend buit
 
 3. Bij ministeriële regeling kan onder het stellen van regels worden bepaald dat een vaarbevoegdheidsbewijs, een bekwaamheidsbewijs of schriftelijk bewijs geheel of gedeeltelijk wordt vervangen door een geautomatiseerd bestand.
 
-#### Artikel 27. Erkenning buitenlands vaarbevoegdheidsbewijs of bekwaamheidsbewijs
+##### Artikel 27. Erkenning buitenlands vaarbevoegdheidsbewijs of bekwaamheidsbewijs
 
 1. Onze Minister kan een vaarbevoegdheidsbewijs of bekwaamheidsbewijs als bedoeld in artikel 20 van [richtlijn (EU) 2022/993](32022L0993) of een vaarbevoegdheidsbewijs als bedoeld in hoofdstuk II van de bijlage bij het STCW F-verdrag dat is afgegeven door of namens de bevoegde autoriteit van een staat die verdragspartij is bij het STCW-verdrag of het STCW F-verdrag erkennen.
 
@@ -414,15 +441,15 @@ is in het bezit van een vaarbevoegdheidsbewijs of door Onze Minister erkend buit
 
 5. Bij ministeriële regeling worden de voorwaarden vastgesteld waaronder een bewijs van aanvraag om erkenning van een vaarbevoegdheidsbewijs of bekwaamheidsbewijs wordt afgegeven.
 
-#### Artikel 28. Aanvaarding buitenlands vaarbevoegdheidsbewijs of bekwaamheidsbewijs
+##### Artikel 28. Aanvaarding buitenlands vaarbevoegdheidsbewijs of bekwaamheidsbewijs
 
 Bij algemene maatregel van bestuur kunnen in overeenstemming met [richtlijn (EU) 2022/993](32022L0993) en het STCW-verdrag regels worden gesteld met betrekking tot de aanvaarding van een vaarbevoegdheidsbewijs of een bekwaamheidsbewijs dat is afgegeven door of namens de bevoegde autoriteit van een staat die verdragspartij is bij het STCW-verdrag, anders dan een vaarbevoegdheidsbewijs of bekwaamheidsbewijs als bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&hoofdstuk=3&artikel=27&z=2025-07-01&g=2025-07-01).
 
-#### Artikel 29. Beroepseisen Caribisch-Nederlandse zeeschepen
+##### Artikel 29. Beroepseisen Caribisch-Nederlandse zeeschepen
 
 Bij ministeriële regeling kan worden bepaald voor welke functies of werkzaamheden van zeevarenden aan boord van een Caribisch-Nederlands zeeschip het bezit van een bekwaamheidsbewijs of enig ander document inzake beroepseisen voorgeschreven is, alsmede welke beroepseisen daarvoor gelden.
 
-#### Artikel 30. Examen bekwaamheidsbewijzen zeilvaart
+##### Artikel 30. Examen bekwaamheidsbewijzen zeilvaart
 
 1. Onze Minister kan een examencommissie aanwijzen bij welke gelegenheid wordt geboden examen af te leggen voor de hierna genoemde bekwaamheidsbewijzen:
 
@@ -436,7 +463,7 @@ Bij ministeriële regeling kan worden bepaald voor welke functies of werkzaamhed
 
 4. Bij ministeriële regeling worden de beroepseisen vastgesteld om in aanmerking te kunnen komen voor een in het eerste lid, onder b, genoemd bekwaamheidsbewijs.
 
-#### Artikel 31. Medische geschiktheid
+##### Artikel 31. Medische geschiktheid
 
 1. Elke zeevarende is in het bezit van een geldige geneeskundige verklaring zeevaart waaruit blijkt dat hij voldoet aan de voor zijn functie vereiste medische geschiktheid.
 
@@ -456,7 +483,7 @@ Bij ministeriële regeling kan worden bepaald voor welke functies of werkzaamhed
 
 9. Bij ministeriële regeling kan onder het stellen van regels worden bepaald dat een geneeskundige verklaring zeevaart geheel of gedeeltelijk wordt vervangen door een geautomatiseerd bestand.
 
-#### Artikel 32. Medisch scheidsrechter
+##### Artikel 32. Medisch scheidsrechter
 
 1. Indien de keuringsarts na de keuring aan de gekeurde de vereiste geneeskundige verklaring zeevaart niet kan afgeven, heeft de gekeurde het recht zich te laten herkeuren door een door Onze Minister als scheidsrechter aangewezen keuringsarts.
 
@@ -474,7 +501,7 @@ Bij ministeriële regeling kan worden bepaald voor welke functies of werkzaamhed
 
 - b. de aanwijzing en erkenning van een als scheidsrechter aangewezen keuringsarts, alsmede de intrekking van deze aanwijzing en erkenning.
 
-#### Artikel 33. Aanwijzingen van medische ongeschiktheid of onbekwaamheid
+##### Artikel 33. Aanwijzingen van medische ongeschiktheid of onbekwaamheid
 
 1. Onze Minister onderzoekt schriftelijke verklaringen over of aanwijzingen van medische ongeschiktheid of onbekwaamheid tot het uitoefenen van een functie aan boord van houders van een vaarbevoegdheidsbewijs of bekwaamheidsbewijs als bedoeld in [artikel 23, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&hoofdstuk=3&artikel=23&z=2025-07-01&g=2025-07-01), [24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&hoofdstuk=3&artikel=24&z=2025-07-01&g=2025-07-01) en [25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&hoofdstuk=3&artikel=25&z=2025-07-01&g=2025-07-01).
 
@@ -492,7 +519,7 @@ Bij ministeriële regeling kan worden bepaald voor welke functies of werkzaamhed
 
 8. Indien de houder van een vaarbevoegdheidsbewijs niet aan de in het tweede lid bedoelde verplichting voldoet zonder dat van een geldige reden daartoe blijkt, kan Onze Minister zonder nader onderzoek het afgegeven vaarbevoegdheidsbewijs of bekwaamheidsbewijs ongeldig verklaren.
 
-#### Artikel 34. Verwerking persoonsgegevens
+##### Artikel 34. Verwerking persoonsgegevens
 
 1. Ter uitvoering van de [artikelen 23 tot en met 32](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&hoofdstuk=3&artikel=23&z=2025-07-01&g=2025-07-01) worden persoonsgegevens en persoonsgegevens betreffende de gezondheid verwerkt. De verwerking van deze gegevens vindt plaats teneinde te kunnen beoordelen of degene die aan boord van een zeeschip werkzaamheden verricht waarvoor het bezit van een vaarbevoegdheidsbewijs of bekwaamheidsbewijs is vereist, voldoet of niet meer voldoet aan de wettelijke eisen betreffende de medische geschiktheid in verband met de afgifte of het behoud van een vaarbevoegdheidsbewijs. Onze Minister is verantwoordelijk voor deze verwerking.
 
@@ -502,13 +529,13 @@ Bij ministeriële regeling kan worden bepaald voor welke functies of werkzaamhed
 
 ### Hoofdstuk 4. Werk- en leefomstandigheden
 
-#### Artikel 35. Verklaring naleving maritieme arbeid deel I
+##### Artikel 35. Verklaring naleving maritieme arbeid deel I
 
 1. Onze Minister geeft op aanvraag van de scheepsbeheerder van een zeeschip van 500 GT of meer dat internationale reizen maakt, anders dan een vissersvaartuig, een verklaring naleving maritieme arbeid deel I af als bedoeld in het MLC-verdrag.
 
 2. Bij ministeriële regeling kunnen regels worden gesteld over de aanvraag, de inhoud en het model van de verklaring naleving maritieme arbeid deel I.
 
-#### Artikel 36. Verklaring naleving maritieme arbeid deel II
+##### Artikel 36. Verklaring naleving maritieme arbeid deel II
 
 1. De scheepsbeheerder van een zeeschip van 500 GT of meer dat internationale reizen maakt, anders dan een vissersvaartuig, stelt een verklaring naleving maritieme arbeid deel II op waarin maatregelen zijn opgenomen om te waarborgen dat de voorschriften bedoeld in Aanhangsel A5-1 van het MLC-verdrag voortdurend worden nageleefd.
 
@@ -516,7 +543,7 @@ Bij ministeriële regeling kan worden bepaald voor welke functies of werkzaamhed
 
 3. Bij ministeriële regeling kunnen regels worden gesteld over de inhoud en het model van de verklaring naleving maritieme arbeid deel II.
 
-#### Artikel 37. Certificaat maritieme arbeid
+##### Artikel 37. Certificaat maritieme arbeid
 
 1. Onze Minister geeft op aanvraag van de scheepbeheerder een certificaat maritieme arbeid af voor een zeeschip van 500 GT of meer dat internationale reizen maakt, anders dan een vissersvaartuig, indien de door de scheepsbeheerder opgestelde verklaring naleving maritieme arbeid deel II ten minste voldoet aan het bepaalde krachtens [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&hoofdstuk=4&artikel=35&z=2025-07-01&g=2025-07-01) of [36](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&hoofdstuk=4&artikel=36&z=2025-07-01&g=2025-07-01) en na onderzoek is gebleken dat het desbetreffende zeeschip voldoet aan de eisen, bedoeld in aanhangsel A5-I van het MLC-verdrag.
 
@@ -528,7 +555,7 @@ Bij ministeriële regeling kan worden bepaald voor welke functies of werkzaamhed
 
 5. Op verzoek van de scheepsbeheerder geeft Onze Minister voor een zeeschip kleiner dan 500 GT, anders dan een vissersvaartuig, overeenkomstig het bepaalde bij of krachtens dit artikel een certificaat maritieme arbeid af. De [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&hoofdstuk=4&artikel=35&z=2025-07-01&g=2025-07-01) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&hoofdstuk=4&artikel=36&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing.
 
-#### Artikel 38. Visserij-arbeidscertificaat
+##### Artikel 38. Visserij-arbeidscertificaat
 
 1. Onze Minister geeft op aanvraag van de scheepsbeheerder een visserij-arbeidscertificaat af voor een vissersvaartuig dat gewoonlijk per reis meer dan drie dagen op zee verblijft en een lengte heeft van 24 meter of meer dan wel normaliter vaart op een afstand van meer dan 200 zeemijl tot de Nederlandse kustlijn, indien na onderzoek is gebleken dat het desbetreffende vissersvaartuig ten minste voldoet aan de eisen van het C188-verdrag.
 
@@ -538,7 +565,7 @@ Bij ministeriële regeling kan worden bepaald voor welke functies of werkzaamhed
 
 4. Bij ministeriële regeling worden regels gesteld met betrekking tot de eisen voor de verkrijging, geldigheid, verlenging en intrekking van een visserij-arbeidscertificaat.
 
-#### Artikel 39. Onderzoek en afgifte certificaat maritieme arbeid en visserij-arbeidscertificaat
+##### Artikel 39. Onderzoek en afgifte certificaat maritieme arbeid en visserij-arbeidscertificaat
 
 1. Onze Minister wijst ambtenaren aan die worden belast met de behandeling van een aanvraag als bedoeld in [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&hoofdstuk=4&artikel=35&z=2025-07-01&g=2025-07-01), [37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&hoofdstuk=4&artikel=37&z=2025-07-01&g=2025-07-01), of [38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&hoofdstuk=4&artikel=38&z=2025-07-01&g=2025-07-01), en met het verrichten van het onderzoek als bedoeld in artikel 37, eerste, derde en vijfde lid, of 38, eerste lid. De behandeling van de aanvraag of het onderzoek kunnen tevens geheel of ten dele worden verricht door daartoe door Onze Minister aangewezen rechtspersonen.
 
@@ -554,7 +581,7 @@ Bij ministeriële regeling kan worden bepaald voor welke functies of werkzaamhed
 
 - b. de registratie van de bij de inspectie verzamelde onderzoeksgegevens.
 
-#### Artikel 40. Klacht zeevarende aan de wal
+##### Artikel 40. Klacht zeevarende aan de wal
 
 1. Elke zeevarende aan boord van een Nederlands zeeschip of zijn vertegenwoordiger kan een klacht betreffende de vermoedelijke schending van het MLC-verdrag of het C188-verdrag of een klacht betreffende een vermeend onrechtmatig bevel van de kapitein melden bij een daartoe aangewezen ambtenaar.
 
@@ -564,7 +591,7 @@ Bij ministeriële regeling kan worden bepaald voor welke functies of werkzaamhed
 
 #### Paragraaf 1. Algemeen
 
-#### Artikel 41. Tuchtrechtspraak en tuchtcollege
+##### Artikel 41. Tuchtrechtspraak en tuchtcollege
 
 1. De kapitein en de officieren zijn aan tuchtrechtspraak onderworpen ter zake van enig handelen of nalaten in strijd met de zorg die zij als een goed zeeman in acht behoren te nemen ten opzichte van de opvarenden, het zeeschip, de lading, het milieu of het scheepvaartverkeer.
 
@@ -574,7 +601,7 @@ Bij ministeriële regeling kan worden bepaald voor welke functies of werkzaamhed
 
 #### Paragraaf 2. Het tuchtcollege voor de scheepvaart
 
-#### Artikel 42. Samenstelling tuchtcollege
+##### Artikel 42. Samenstelling tuchtcollege
 
 1. Het tuchtcollege bestaat uit een voorzitter, twee plaatsvervangende voorzitters, veertien leden en twintig plaatsvervangende leden. Zij worden door Onze Minister benoemd voor een periode van vier jaren en zijn terstond herbenoembaar.
 
@@ -582,13 +609,13 @@ Bij ministeriële regeling kan worden bepaald voor welke functies of werkzaamhed
 
 3. Onze Minister verleent aan de voorzitter, een plaatsvervangend voorzitter, een lid of plaatsvervangend lid in elk geval ontslag met ingang van de maand, volgende op die waarin de betrokkene de leeftijd van zeventig jaren heeft bereikt, en op eigen verzoek tussentijds.
 
-#### Artikel 43. Integriteit leden
+##### Artikel 43. Integriteit leden
 
 1. Tussen de voorzitter, de plaatsvervangende voorzitters, de leden, en de plaatsvervangende leden, de secretarissen en de plaatsvervangend secretarissen van het tuchtcollege mag geen nauwe persoonlijke of zakelijke betrekking bestaan.
 
 2. Voor de aanvang van hun werkzaamheden leggen zij in handen van de president van het College van Beroep voor het bedrijfsleven de eed of belofte af. Het formulier voor de eed of belofte wordt bij ministeriële regeling vastgesteld.
 
-#### Artikel 44. Toepassing artikelen [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365)
+##### Artikel 44. Toepassing artikelen [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365)
 
 1. Het voor de leden van de rechterlijke macht bepaalde in de [artikelen 46c, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46c), [46ca, eerste lid, onderdeel a en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46ca), [46f](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46f), [46g, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46g), [46i, eerste lid, aanhef en onderdelen a en b, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46i), [46l, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46l), [46m](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46m), [46o](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46o) en [46p, eerste tot en met vijfde lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46p) is van overeenkomstige toepassing ten aanzien van de voorzitter, de plaatsvervangende voorzitters, de leden en de plaatsvervangende leden van het tuchtcollege.
 
@@ -600,11 +627,11 @@ Bij ministeriële regeling kan worden bepaald voor welke functies of werkzaamhed
 
 - b. de procureur-generaal niet verplicht is aan het verzoek, bedoeld in [artikel 13a van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=13a) te voldoen, indien de verzoeker redelijkerwijs onvoldoende belang heeft bij een onderzoek als bedoeld in datzelfde artikel.
 
-#### Artikel 45. Vacatiegeld
+##### Artikel 45. Vacatiegeld
 
 De voorzitter, de plaatsvervangende voorzitters, de leden, de plaatsvervangende leden van het tuchtcollege ontvangen een bij ministeriële regeling vast te stellen vacatiegeld, alsmede een vergoeding van reis- en verblijfkosten en van verdere verschotten.
 
-#### Artikel 46. Secretaris
+##### Artikel 46. Secretaris
 
 1. Het tuchtcollege heeft een secretaris en twee plaatsvervangende secretarissen.
 
@@ -612,7 +639,7 @@ De voorzitter, de plaatsvervangende voorzitters, de leden, de plaatsvervangende 
 
 3. De secretaris en de plaatsvervangende secretarissen worden door Onze Minister benoemd, geschorst en ontslagen.
 
-#### Artikel 47. Geheimhouding
+##### Artikel 47. Geheimhouding
 
 1. De voorzitter, de leden en de secretaris, alsmede hun plaatsvervangers, mogen zich niet op enige wijze inlaten met partijen of hun raadslieden of gemachtigden over enige zaak die bij het tuchtcollege voor de scheepvaart aanhangig is, of waarvan zij weten of kunnen vermoeden dat deze bij het tuchtcollege voor de scheepvaart aanhangig zal worden gemaakt.
 
@@ -622,7 +649,7 @@ De voorzitter, de plaatsvervangende voorzitters, de leden, de plaatsvervangende 
 
 #### Paragraaf 3. De procedure in eerste aanleg
 
-#### Artikel 48. Aanhangig maken
+##### Artikel 48. Aanhangig maken
 
 1. Een zaak wordt in eerste aanleg bij het tuchtcollege aanhangig gemaakt op verzoek van Onze Minister of door een klacht van een belanghebbende.
 
@@ -630,7 +657,7 @@ De voorzitter, de plaatsvervangende voorzitters, de leden, de plaatsvervangende 
 
 3. Het tuchtcollege neemt een verzoek of een klacht niet in behandeling indien de gedraging waarop het verzoek of de klacht betrekking heeft meer dan twee jaren voor de indiening van het verzoek of de klacht heeft plaats gevonden.
 
-#### Artikel 49. Ontvankelijkheid
+##### Artikel 49. Ontvankelijkheid
 
 1. De voorzitter kan een verzoek of een klacht na een summier onderzoek terstond afwijzen bij een met redenen omklede beslissing indien hij van oordeel is dat de klager kennelijk niet ontvankelijk is, dan wel het verzoek of de klacht kennelijk ongegrond is.
 
@@ -642,7 +669,7 @@ De voorzitter, de plaatsvervangende voorzitters, de leden, de plaatsvervangende 
 
 5. De voorzitter brengt verzoeken en klachten die niet door hem zijn afgewezen of niet in der minne zijn geschikt, onverwijld ter kennis van het tuchtcollege.
 
-#### Artikel 50. In behandeling name verzoek of de klacht
+##### Artikel 50. In behandeling name verzoek of de klacht
 
 1. Zodra het tuchtcollege een verzoek of een klacht in behandeling heeft genomen, deelt de secretaris dit schriftelijk mede aan de betrokken kapitein of officier en zendt de secretaris daarbij een afschrift van het verzoek of de klacht.
 
@@ -650,7 +677,7 @@ De voorzitter, de plaatsvervangende voorzitters, de leden, de plaatsvervangende 
 
 3. De secretaris zendt een afschrift van het verweerschrift aan degene die het verzoek of de klacht bij de voorzitter heeft ingediend.
 
-#### Artikel 51. Vooronderzoek
+##### Artikel 51. Vooronderzoek
 
 1. De voorzitter kan ambtshalve of op gemotiveerd verzoek van Onze Minister, de klager of de betrokkene besluiten tot het instellen van een vooronderzoek, in welk geval hij de uitvoering van het vooronderzoek opdraagt aan een of meer leden of plaatsvervangende leden of aan de secretaris of een plaatsvervangende secretaris van het tuchtcollege.
 
@@ -670,7 +697,7 @@ De voorzitter, de plaatsvervangende voorzitters, de leden, de plaatsvervangende 
 
 4. Betrokkenen ontvangen van de secretaris een verslag van het vooronderzoek.
 
-#### Artikel 52. Behandeling ter zitting
+##### Artikel 52. Behandeling ter zitting
 
 1. Aan de behandeling van een zaak ter zitting van het tuchtcollege nemen vijf leden deel, te weten de voorzitter of een van zijn plaatsvervangers, alsmede:
 
@@ -684,13 +711,13 @@ De voorzitter, de plaatsvervangende voorzitters, de leden, de plaatsvervangende 
 
 4. Bij de behandeling van een zaak ter zitting van het tuchtcollege na verzet als bedoeld in [artikel 49, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&hoofdstuk=5&paragraaf=3&artikel=49&z=2025-07-01&g=2025-07-01), wordt de voorzitter vervangen door een van zijn plaatsvervangers.
 
-#### Artikel 53. Verschoning en wraking
+##### Artikel 53. Verschoning en wraking
 
 1. De voorzitter en de leden, alsmede hun plaatsvervangers, kunnen het tuchtcollege verzoeken zich te laten verschonen en kunnen worden gewraakt indien er te hunnen aanzien feiten of omstandigheden bestaan, waardoor de onpartijdigheid van het tuchtcollege schade zou kunnen lijden.
 
 2. De overige leden van het tuchtcollege die belast zijn met de behandeling van de zaak beslissen zo spoedig mogelijk over een verzoek tot verschoning of wraking van hun medelid. Bij staking van stemmen wordt het verzoek tot verschoning of wraking toegewezen.
 
-#### Artikel 54. Mondelinge behandeling
+##### Artikel 54. Mondelinge behandeling
 
 1. De voorzitter bepaalt het tijdstip voor de mondelinge behandeling van de zaak ter zitting. De secretaris roept degene die het verzoek of de klacht heeft ingediend en de betrokken kapitein of officier ten minste vier weken van tevoren bij zowel aangetekende brief als niet-aangetekende brief op voor de zitting. De betrokken kapitein of officier is verplicht aan de oproeping gevolg te geven.
 
@@ -712,7 +739,7 @@ De voorzitter, de plaatsvervangende voorzitters, de leden, de plaatsvervangende 
 
 10. De secretaris maakt van het verhandelde ter zitting een proces-verbaal op dat door de voorzitter en de secretaris wordt ondertekend.
 
-#### Artikel 55. Getuigen en deskundigen
+##### Artikel 55. Getuigen en deskundigen
 
 1. Het tuchtcollege kan getuigen en deskundigen voor de zitting oproepen en horen. De leden en de buitengewone leden van de Onderzoeksraad voor veiligheid, de algemeen secretaris en de medewerkers van het bureau van de raad, alsmede de door Onze Minister wie het aangaat op verzoek van de raad aangewezen deskundigen kunnen door het tuchtcollege niet als getuige of deskundige worden opgeroepen.
 
@@ -730,7 +757,7 @@ De voorzitter, de plaatsvervangende voorzitters, de leden, de plaatsvervangende 
 
 8. De getuigen en deskundigen ontvangen desgevraagd op vertoon van hun oproep of dagvaarding een door de voorzitter vast te stellen schadeloosstelling overeenkomstig het bepaalde bij of krachtens de [Wet tarieven in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0002406).
 
-#### Artikel 56. Tuchtmaatregelen
+##### Artikel 56. Tuchtmaatregelen
 
 1. Het tuchtcollege kan, indien het van oordeel is dat een tegen een kapitein of een officier gerezen bezwaar gegrond is, een of meer van de volgende tuchtmaatregelen opleggen:
 
@@ -750,7 +777,7 @@ De voorzitter, de plaatsvervangende voorzitters, de leden, de plaatsvervangende 
 
 5. De tuchtmaatregelen, genoemd in het eerste lid onder c en d, en de bijkomende maatregel van openbaarmaking, genoemd in het tweede lid, kunnen eerst worden ten uitvoer gelegd nadat de beslissing van het tuchtcollege onherroepelijk is geworden.
 
-#### Artikel 57. Beslissing
+##### Artikel 57. Beslissing
 
 1. De beslissing van het tuchtcollege berust op een deugdelijke motivering. Zij wordt in een openbare zitting uitgesproken. Indien de betrokken kapitein of officier niet ter zitting is verschenen, kan het tuchtcollege bij verstek uitspraak doen.
 
@@ -764,7 +791,7 @@ De voorzitter, de plaatsvervangende voorzitters, de leden, de plaatsvervangende 
 
 #### Paragraaf 4. De procedure in hoger beroep
 
-#### Artikel 58. Termijn hoger beroep
+##### Artikel 58. Termijn hoger beroep
 
 Tegen een beslissing van het tuchtcollege kan binnen zes weken na de dag van de verzending van de in [artikel 57, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&hoofdstuk=5&paragraaf=3&artikel=57&z=2025-07-01&g=2025-07-01), bedoelde beslissing hoger beroep worden ingesteld bij het College van Beroep voor het bedrijfsleven:
 
@@ -774,7 +801,7 @@ Tegen een beslissing van het tuchtcollege kan binnen zes weken na de dag van de 
 
 - c. door de klager, indien zijn klacht geheel of ten dele ongegrond is verklaard.
 
-#### Artikel 59. Behandeling hoger beroep
+##### Artikel 59. Behandeling hoger beroep
 
 1. Het hoger beroep wordt ingesteld bij beroepschrift. Bij het beroepschrift wordt overgelegd een afschrift van de schriftelijke beslissing van het tuchtcollege, waartegen het hoger beroep is gericht.
 
@@ -786,7 +813,7 @@ Tegen een beslissing van het tuchtcollege kan binnen zes weken na de dag van de 
 
 #### Paragraaf 5. Herziening
 
-#### Artikel 60. Herziening tuchtmaatregel
+##### Artikel 60. Herziening tuchtmaatregel
 
 1. Het College van Beroep voor het bedrijfsleven kan op verzoek van een kapitein of een officier aan wie een tuchtmaatregel is opgelegd een onherroepelijk geworden beslissing van het tuchtcollege of van het College van Beroep voor het bedrijfsleven herzien op grond van feiten of omstandigheden die:
 
@@ -800,7 +827,7 @@ Tegen een beslissing van het tuchtcollege kan binnen zes weken na de dag van de 
 
 ### Hoofdstuk 6. Toezicht en opsporing
 
-#### Artikel 61. Aanwijzing toezichthouders
+##### Artikel 61. Aanwijzing toezichthouders
 
 1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de ambtenaren van de Inspectie Leefomgeving en Transport, alsmede de bij besluit van Onze Minister aangewezen ambtenaren.
 
@@ -808,7 +835,7 @@ Tegen een beslissing van het tuchtcollege kan binnen zes weken na de dag van de 
 
 3. Onze Minister kan de aan een toezichthouder toekomende bevoegdheden als bedoeld in [artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&hoofdstuk=6&artikel=63&z=2025-07-01&g=2025-07-01) beperken.
 
-#### Artikel 62. Aanwijzing opsporingsambtenaren
+##### Artikel 62. Aanwijzing opsporingsambtenaren
 
 Met het opsporen van feiten, die bij of krachtens deze wet strafbaar zijn gesteld, zijn belast:
 
@@ -816,7 +843,7 @@ Met het opsporen van feiten, die bij of krachtens deze wet strafbaar zijn gestel
 
 - b. de opsporingsambtenaren van de Inspectie Leefomgeving en Transport.
 
-#### Artikel 63. Bevoegdheden toezichthouder
+##### Artikel 63. Bevoegdheden toezichthouder
 
 1. De in [artikel 61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&hoofdstuk=6&artikel=61&z=2025-07-01&g=2025-07-01), bedoelde toezichthouder is bevoegd zaken en zeeschepen te onderzoeken met betrekking waartoe hij een toezichthoudende taak heeft.
 
@@ -824,7 +851,7 @@ Met het opsporen van feiten, die bij of krachtens deze wet strafbaar zijn gestel
 
 3. Hij is bevoegd ter uitoefening van zijn bevoegdheden ingevolge deze wet elke plaats te betreden, met inbegrip van woongedeelten van zeeschepen.
 
-#### Artikel 64. Gronden aanhouding zeeschip
+##### Artikel 64. Gronden aanhouding zeeschip
 
 1. De ambtenaar van de Inspectie Leefomgeving en Transport is bevoegd een zeeschip aan te houden, indien er voorafgaand aan het vertrek naar zee:
 
@@ -846,7 +873,7 @@ Met het opsporen van feiten, die bij of krachtens deze wet strafbaar zijn gestel
 
 3. De aanhouding wordt opgeheven, zodra de reden voor de aanhouding is komen te vervallen.
 
-#### Artikel 65. In kennisstelling aanhouding
+##### Artikel 65. In kennisstelling aanhouding
 
 1. De ambtenaar van de Inspectie Leefomgeving en Transport stelt Onze Minister onverwijld in kennis van de aanhouding en van de redenen voor de aanhouding.
 
@@ -854,21 +881,21 @@ Met het opsporen van feiten, die bij of krachtens deze wet strafbaar zijn gestel
 
 3. De in het tweede lid bedoelde ambtenaar verleent geen expeditie voor het betrokken zeeschip indien hij een mededeling van aanhouding heeft ontvangen en zolang hij geen mededeling van opheffing heeft ontvangen.
 
-#### Artikel 66. Administratief beroep
+##### Artikel 66. Administratief beroep
 
 Tegen een op grond van deze wet genomen besluit van een ambtenaar van de Inspectie Leefomgeving en Transport tot aanhouding van een zeeschip, kan iedere belanghebbende administratief beroep instellen bij Onze Minister.
 
 ### Hoofdstuk 7. Verbodsbepalingen
 
-#### Artikel 67. Bescherming klager
+##### Artikel 67. Bescherming klager
 
 Het is verboden zeevarenden te straffen of op enige andere wijze te benadelen voor het indienen van een klacht als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&hoofdstuk=2&paragraaf=1&artikel=6&z=2025-07-01&g=2025-07-01), of [40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&hoofdstuk=4&artikel=40&z=2025-07-01&g=2025-07-01).
 
-#### Artikel 68. Verbod varen zonder geldig bemanningscertificaat
+##### Artikel 68. Verbod varen zonder geldig bemanningscertificaat
 
 Het is verboden met een zeeschip naar zee te gaan, een zeeschip naar zee te doen gaan of op zee dan wel op buiten Nederland gelegen wateren die ter plaatse als binnenwater worden aangemerkt, te gebruiken of te doen gebruiken, zonder dat aan boord van het zeeschip een geldig bemanningscertificaat voorhanden is.
 
-#### Artikel 69. Verbod niet naleven bemanningseisen
+##### Artikel 69. Verbod niet naleven bemanningseisen
 
 Het is verboden:
 
@@ -878,11 +905,11 @@ Het is verboden:
 
 - c. het zeeschip te gebruiken in strijd met de voorwaarden van het bemanningscertificaat of de voorschriften van een ontheffing als bedoeld in [artikel 20, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&hoofdstuk=2&paragraaf=3&artikel=20&z=2025-07-01&g=2025-07-01).
 
-#### Artikel 70. Verbod nalaten opmaken bemanningslijst
+##### Artikel 70. Verbod nalaten opmaken bemanningslijst
 
 Het is verboden om na te laten de bemanningslijst, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&hoofdstuk=2&paragraaf=3&artikel=21&z=2025-07-01&g=2025-07-01), op te maken, opnieuw op te maken of bij te stellen.
 
-#### Artikel 71. Verbod niet naleven wachtverplichting
+##### Artikel 71. Verbod niet naleven wachtverplichting
 
 1. Het is verboden het houden van uitkijk, dan wel het optreden als verantwoordelijke voor de wacht op de brug of als verantwoordelijke voor de wacht in de machinekamer of machinekamers, op te dragen aan of te laten verrichten door bemanningsleden die tot het verrichten van die werkzaamheden niet bevoegd zijn.
 
@@ -890,17 +917,17 @@ Het is verboden om na te laten de bemanningslijst, bedoeld in [artikel 21](https
 
 3. Het is verboden aan boord werkzaamheden waarvoor ingevolge [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&hoofdstuk=3&artikel=24&z=2025-07-01&g=2025-07-01), of [25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&hoofdstuk=3&artikel=25&z=2025-07-01&g=2025-07-01), een bekwaamheidsbewijs of een ander document is vereist, te verrichten, indien men hiertoe niet door middel van een geldig bekwaamheidsbewijs of document bevoegd is verklaard.
 
-#### Artikel 72. Verbod varen zonder geldig certificaat maritieme arbeid of visserij-arbeidscertificaat
+##### Artikel 72. Verbod varen zonder geldig certificaat maritieme arbeid of visserij-arbeidscertificaat
 
 1. Het is verboden met een zeeschip, anders dan een vissersvaartuig als bedoeld in [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&hoofdstuk=4&artikel=37&z=2025-07-01&g=2025-07-01), een internationale reis te maken indien het zeeschip niet is voorzien van een geldig certificaat maritieme arbeid, een verklaring naleving maritieme arbeid en een geldend exemplaar van het MLC-verdrag.
 
 2. Het is verboden met een vissersvaartuig als bedoeld in [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&hoofdstuk=4&artikel=38&z=2025-07-01&g=2025-07-01), te varen indien het vaartuig niet is voorzien van een geldig visserij-arbeidscertificaat.
 
-#### Artikel 73. Verbod niet naleven aanhouding
+##### Artikel 73. Verbod niet naleven aanhouding
 
 Het is verboden met een zeeschip naar zee te gaan of een zeeschip naar zee te doen gaan indien en zolang het op grond van [artikel 64, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&hoofdstuk=6&artikel=64&z=2025-07-01&g=2025-07-01), door een ambtenaar van de Inspectie Leefomgeving en Transport is aangehouden.
 
-#### Artikel 74. Verbod gebruik drugs en alcohol
+##### Artikel 74. Verbod gebruik drugs en alcohol
 
 1. Het is een kapitein, een officier of een andere zeevarende, die op een zeeschip buiten de Nederlandse territoriale zee veiligheidstaken, beveiligingstaken of taken die verband houden met het mariene milieu uitvoert, verboden dit te doen terwijl hij verkeert onder zodanige invloed van een stof waarvan hij weet of redelijkerwijze moet weten dat het gebruik daarvan – al dan niet in combinatie met het gebruik van een andere stof – de vaardigheid voor die taak kan verminderen, dat hij niet in staat moet worden geacht die taak naar behoren te kunnen uitvoeren.
 
@@ -910,7 +937,7 @@ Het is verboden met een zeeschip naar zee te gaan of een zeeschip naar zee te do
 
 - b. het alcoholgehalte van zijn bloed bij een onderzoek hoger blijkt te zijn dan 0,5 milligram (0,5 mg) alcohol per milliliter bloed.
 
-#### Artikel 75. Verbodsbepalingen
+##### Artikel 75. Verbodsbepalingen
 
 Het is verboden te handelen in strijd met de verplichtingen ingevolge de [artikelen 4, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&hoofdstuk=2&paragraaf=1&artikel=4&z=2025-07-01&g=2025-07-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&hoofdstuk=2&paragraaf=1&artikel=5&z=2025-07-01&g=2025-07-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&hoofdstuk=2&paragraaf=1&artikel=7&z=2025-07-01&g=2025-07-01), [9, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&hoofdstuk=2&paragraaf=2&artikel=9&z=2025-07-01&g=2025-07-01), [18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&hoofdstuk=2&paragraaf=2&artikel=18&z=2025-07-01&g=2025-07-01), [36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&hoofdstuk=4&artikel=36&z=2025-07-01&g=2025-07-01), en [38, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&hoofdstuk=4&artikel=38&z=2025-07-01&g=2025-07-01).
 
@@ -918,7 +945,7 @@ Het is verboden te handelen in strijd met de verplichtingen ingevolge de [artike
 
 #### Paragraaf 8.1. Registers
 
-#### Artikel 76. Centraal register bemanningsgegevens
+##### Artikel 76. Centraal register bemanningsgegevens
 
 1. Er is een Centraal register bemanningsgegevens, waarin Onze Minister de gegevens omtrent de afgegeven vaarbevoegdheidsbewijzen, bekwaamheidsbewijzen en monsterboekjes, alsmede de ten aanzien van deze bewijzen gegeven vrijstellingen en ontheffingen registreert.
 
@@ -930,13 +957,13 @@ Het is verboden te handelen in strijd met de verplichtingen ingevolge de [artike
 
 5. Persoonsgegevens bedoeld in het eerste lid worden zo spoedig mogelijk en in ieder geval binnen vier weken vernietigd nadat deze niet langer nodig zijn ten behoeve van het register.
 
-#### Artikel 77. Centraal inspectieregister
+##### Artikel 77. Centraal inspectieregister
 
 1. Er is een Centraal inspectieregister, waarin Onze Minister de inspectierapporten met betrekking tot de werk- en leefomstandigheden van zeevarenden aan boord registreert.
 
 2. Bij ministeriële regeling worden nadere regels gesteld met betrekking tot de registratie van gegevens in het register.
 
-#### Artikel 78. Openbare registers
+##### Artikel 78. Openbare registers
 
 1. Er is een openbaar register van bemanningscertificaten, waarin Onze Minister de bemanningscertificaten van zeeschepen registreert.
 
@@ -948,7 +975,7 @@ Het is verboden te handelen in strijd met de verplichtingen ingevolge de [artike
 
 #### Paragraaf 8.2. Tarieven
 
-#### Artikel 79. Vaststelling tarieven documenten
+##### Artikel 79. Vaststelling tarieven documenten
 
 1. Bij ministeriële regeling worden tarieven vastgesteld voor:
 
@@ -982,35 +1009,35 @@ Het is verboden te handelen in strijd met de verplichtingen ingevolge de [artike
 
 ### Hoofdstuk 9. Overgangsbepalingen
 
-#### Artikel 80. Geldigheid bemanningscertificaat
+##### Artikel 80. Geldigheid bemanningscertificaat
 
 1. Een bemanningscertificaat afgegeven voor het tijdstip van inwerkingtreding van deze wet behoudt zijn geldigheid tot de daarop aangegeven einddatum.
 
 2. Op een aanvraag voor een bemanningscertificaat ingediend voor het tijdstip van inwerkingtreding van deze wet, blijft het recht van toepassing zoals dat gold onmiddellijk voorafgaand aan de inwerkingtreding van deze wet.
 
-#### Artikel 81. Geldigheid vaarbevoegdheidsbewijs of bekwaamheidsbewijs
+##### Artikel 81. Geldigheid vaarbevoegdheidsbewijs of bekwaamheidsbewijs
 
 1. Een vaarbevoegdheidsbewijs, een bekwaamheidsbewijs, een geneeskundige verklaring of een schriftelijk bewijs, afgegeven aan een zeevarende voor het tijdstip van inwerkingtreding van deze wet behoudt zijn geldigheid tot de daarop aangegeven einddatum.
 
 2. Op een aanvraag voor een vaarbevoegdheidsbewijs of een bekwaamheidsbewijs die is ingediend voor het tijdstip van inwerkingtreding van deze wet, blijft het recht van toepassing zoals dat gold onmiddellijk voorafgaand aan de inwerkingtreding van deze wet.
 
-#### Artikel 82. Geldigheid certificaat maritieme arbeid of een visserij-arbeidscertificaat
+##### Artikel 82. Geldigheid certificaat maritieme arbeid of een visserij-arbeidscertificaat
 
 1. Een certificaat maritieme arbeid of een visserij-arbeidscertificaat, afgegeven voor het tijdstip van inwerkingtreding van deze wet behoudt zijn geldigheid tot de daarop aangegeven einddatum.
 
 2. Op aanvragen voor een certificaat maritieme arbeid of een visserij-arbeidscertificaat die zijn ingediend voor het tijdstip van inwerkingtreding van deze wet, blijft het recht van toepassing zoals dat gold onmiddellijk voorafgaand aan de inwerkingtreding van deze wet.
 
-#### Artikel 83. privaatrechtelijke regeling nationaliteit kapiteins
+##### Artikel 83. privaatrechtelijke regeling nationaliteit kapiteins
 
 Een privaatrechtelijke regeling als bedoeld in [artikel 30, vijfde lid, van de Wet zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=30) wordt gelezen als een privaatrechtelijke regeling als bedoeld in [artikel 19, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&hoofdstuk=2&paragraaf=2&artikel=19&z=2025-07-01&g=2025-07-01).
 
 ### Hoofdstuk 10. Slotbepalingen
 
-#### Artikel 84. Uitvoering van verdragen en besluiten van volkenrechtelijke organisaties
+##### Artikel 84. Uitvoering van verdragen en besluiten van volkenrechtelijke organisaties
 
 Bij of krachtens algemene maatregel van bestuur kunnen, ter uitvoering van verdragen of besluiten van volkenrechtelijke organisaties, regels worden gesteld ter waarborging van de veilige en milieuverantwoorde vaart alsmede de gezondheid, de veiligheid en behoorlijke leef- en werkomstandigheden van zeevarenden.
 
-#### Artikel 85. Dynamische verwijzing (wijzigingen)
+##### Artikel 85. Dynamische verwijzing (wijzigingen)
 
 1. Een wijziging van [richtlijn (EU) 2022/993](32022L0993), [richtlijn 2009/13/EG](32009L0013) of [richtlijn (EU) 2017/159](32017L0159), gaat voor de toepassing van deze wet gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
@@ -1018,47 +1045,47 @@ Bij of krachtens algemene maatregel van bestuur kunnen, ter uitvoering van verdr
 
 3. Bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, kunnen de benaming van [richtlijn (EU) 2022/993](32022L0993) en de verwijzing naar onderdelen daarvan worden gewijzigd.
 
-#### Artikel 86. Gebruik Engelse taal
+##### Artikel 86. Gebruik Engelse taal
 
 Ingeval bij of krachtens deze wet regels worden gesteld ter uitvoering van het STCW-verdrag, het STCW F-verdrag, het MLC-verdrag, C188-verdrag, het SOLAS-verdrag of de SCV-code, kan overtreding van die regels ook als strafbaar feit worden aangemerkt dan wel worden bestraft met een bestuurlijke sanctie indien deze regels in de Engelse taal zijn gesteld en bekend gemaakt.
 
-#### Artikel 87. Intrekken [Wet zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009124)
+##### Artikel 87. Intrekken [Wet zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009124)
 
 De [Wet zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009124) wordt ingetrokken.
 
-#### Artikel 88. Wijziging [Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746)
+##### Artikel 88. Wijziging [Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746)
 
 Wijzigt de Algemene douanewet.
 
-#### Artikel 89. Wijziging [Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947)
+##### Artikel 89. Wijziging [Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947)
 
 Wijzigt de Ambtenarenwet 2017.
 
-#### Artikel 90. Wijziging [Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290)
+##### Artikel 90. Wijziging [Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290)
 
 Wijzigt het Burgerlijk Wetboek Boek 7.
 
-#### Artikel 91. Wijziging [Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063)
+##### Artikel 91. Wijziging [Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063)
 
 Wijzigt de Wet op de economische delicten.
 
-#### Artikel 92. Wijziging [Wet ruimtevaartactiviteiten](https://wetten.overheid.nl/jci1.3:c:BWBR0021418)
+##### Artikel 92. Wijziging [Wet ruimtevaartactiviteiten](https://wetten.overheid.nl/jci1.3:c:BWBR0021418)
 
 Wijzigt de Wet ruimtevaartactiviteiten.
 
-#### Artikel 93. Wijziging [Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0007746)
+##### Artikel 93. Wijziging [Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0007746)
 
 Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
 
-#### Artikel 94. Wijziging [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854)
+##### Artikel 94. Wijziging [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854)
 
 Wijzigt het Wetboek van Strafrecht.
 
-#### Artikel 95. Citeertitel
+##### Artikel 95. Citeertitel
 
 Deze wet wordt aangehaald als: Wet bemanning zeeschepen.
 
-#### Artikel 96. Inwerkingtreding
+##### Artikel 96. Inwerkingtreding
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 

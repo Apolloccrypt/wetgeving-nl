@@ -1,20 +1,44 @@
 ---
 title: "Regeling NVC 2001"
 identifier: "BWBR0012948"
-categorie: "Overig"
-publicatiedatum: 2013-11-30
-laatste_update: 2013-11-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012948"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2013-11-30"
+last_updated: "2013-11-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012948"
+soort: "ministeriele-regeling"
+stam_id: "5518893"
+version_id: "9911702"
+internal_id: "C13387071"
+label_id: "5491324"
+dtd_version: "2.0"
+original_entry_into_force: "2001-11-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012948/2013-11-30/0"
+intitule_bron: "Stcrt.2001-222"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-11-01"
+intitule_published: "2001-11-15"
+intitule_in_force: "2001-11-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2001-222"
+original_signed_date: "2001-11-01"
+original_published_date: "2001-11-15"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2001-11-17"
+jci_1_3: "jci1.3:c:BWBR0012948&z=2013-11-30&g=2013-11-30"
+jci_1_0: "1.0:c:BWBR0012948&g=2013-11-30"
+citeertitel_status: "officieel"
+signed_date: "2001-11-01"
+entry_into_force: "2001-11-17"
 ---
-
 # Regeling NVC 2001
 
 Handelende in overeenstemming met het gevoelen van de ministerraad,
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Er is een Nationaal Voorlichtingscentrum, hierna te noemen NVC, dat kan worden geactiveerd met het oog op de ontwikkeling, de coördinatie en de uitvoering van de voorlichting door de rijksoverheid bij een crisis.
 
@@ -36,7 +60,7 @@ Besluit:
 
 5. Het NVC bestaat uit twee eenheden, te weten de Eenheid Persvoorlichting en de Eenheid Publieksvoorlichting. Beide eenheden worden aangestuurd door en werken onder verantwoordelijkheid van het Coördinatieteam NVC.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het Coördinatieteam NVC bestaat uit:
 
@@ -50,7 +74,7 @@ Besluit:
 
 - e. de coördinator van de Eenheid Publieksvoorlichting.
 
-#### Artikel 3
+##### Artikel 3
 
 De Eenheid Persvoorlichting heeft tot taak:
 
@@ -58,7 +82,7 @@ De Eenheid Persvoorlichting heeft tot taak:
 
 - b. het afstemmen van de voorlichtingsactiviteiten van het NVC met de voorlichtingsdiensten van andere bestuurslagen en eventuele speciale doelgroepen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De Eenheid Publieksvoorlichting omvat de reguliere publieksvoorlichting en daarnaast ook de component verwanteninformatie. De Eenheid heeft tot taak:
 
@@ -70,7 +94,7 @@ De Eenheid Persvoorlichting heeft tot taak:
 
 2. De Eenheid Publieksvoorlichting heeft ook tot taak om de publieksinformatie af te stemmen met die van de officiële woordvoering. Daarnaast zal de eenheid de decentraal gesitueerde publieksvoorlichters van informatie moeten voorzien.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Zodra het NVC is geactiveerd, wordt een vast team van speciaal daartoe opgeleide crisisvoorlichters – bestaande uit voorlichters van de departementen – samengesteld.
 
@@ -82,16 +106,16 @@ De Eenheid Persvoorlichting heeft tot taak:
 
 - c). bij een ramp van nationale omvang in een gemeente danwel provincie, waar het voorlichtingsapparaat onvoldoende is; in dat geval kan eveneens een beroep worden gedaan op het team van crisisvoorlichters ter ondersteuning. Deze voorlichters werken vervolgens onder de bestuurlijke verantwoordelijkheid van de burgemeester c.q. de commissaris van de Koning.
 
-#### Artikel 6
+##### Artikel 6
 
 De Regeling NVC (Stcrt. 1997, 74) wordt ingetrokken.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling wordt aangehaald als: Regeling NVC 2001.

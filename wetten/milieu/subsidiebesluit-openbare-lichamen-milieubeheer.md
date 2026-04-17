@@ -1,13 +1,37 @@
 ---
-title: "Subsidiebesluit openbare lichamen milieubeheer"
+title: "Besluit van 6 april 1990, houdende regelen inzake bijdragen aan de provincies, gemeenten en andere openbare lichamen in de kosten van door hen getroffen maatregelen in het belang van het voorkomen, beperken of ongedaan maken van verontreiniging of aantasting van het milieu"
 identifier: "BWBR0004739"
-categorie: "Milieu"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004739"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004739"
+soort: "AMvB"
+stam_id: "2838393"
+version_id: "4378522"
+internal_id: "C14004791"
+label_id: "2790954"
+dtd_version: "2.0"
+original_entry_into_force: "2003-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004739/2024-01-01/0"
+intitule_bron: "Stb.1990-174"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1990-04-06"
+intitule_status: "goed"
+original_publication: "Stb.1998-720"
+original_signed_date: "1998-12-08"
+original_published_date: "1998-12-29"
+original_effect: "structuurwijziging"
+original_url_id: "stb-1998-720"
+entry_into_force_date: "2003-01-01"
+jci_1_3: "jci1.3:c:BWBR0004739&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0004739&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Subsidiebesluit openbare lichamen milieubeheer"
+signed_date: "1998-12-08"
+entry_into_force: "2003-01-01"
 ---
-
 # Besluit van 6 april 1990, houdende regelen inzake bijdragen aan de provincies, gemeenten en andere openbare lichamen in de kosten van door hen getroffen maatregelen in het belang van het voorkomen, beperken of ongedaan maken van verontreiniging of aantasting van het milieu
 
 Op de voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 2 december 1988, no. MJZ 05D8002, Centrale Directie Juridische Zaken, afdeling Wetgeving;
@@ -24,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -60,7 +84,7 @@ In dit besluit wordt verstaan onder:
 
 #### § 1.1. Inleidende bepalingen
 
-#### Artikel 2
+##### Artikel 2
 
 In deze afdeling en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -72,11 +96,11 @@ In deze afdeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. fase III van het akoestisch onderzoek: het deel van het akoestisch onderzoek dat plaatsvindt met het oog op de uitwerking van de keuze en de beschrijving van de mogelijkheden om de uitvoering van de gekozen maatregelen te faseren.
 
-#### Artikel 2a
+##### Artikel 2a
 
 Vervallen
 
-#### Artikel 2b
+##### Artikel 2b
 
 1. Onze Minister kan regels stellen omtrent het verstrekken van extra informatie indien hij zulks noodzakelijk acht vanwege onvoldoende herkenbaarheid van de toepassing en besteding van een subsidie als bedoeld in artikel 6**a**, eerste lid, in de informatie die gedeputeerde staten krachtens [artikel 27, eerste lid van het Besluit financiële verhouding 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&artikel=27), aan hem verstrekken.
 
@@ -84,73 +108,73 @@ Vervallen
 
 #### § 1.2
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 3a
+##### Artikel 3a
 
 Vervallen
 
-#### Artikel 3b
+##### Artikel 3b
 
 Vervallen
 
-#### Artikel 3c
+##### Artikel 3c
 
 Vervallen
 
-#### Artikel 3d
+##### Artikel 3d
 
 Vervallen
 
-#### Artikel 3e
+##### Artikel 3e
 
 Vervallen
 
-#### Artikel 3f
+##### Artikel 3f
 
 Vervallen
 
-#### Artikel 3g
+##### Artikel 3g
 
 Vervallen
 
-#### Artikel 3h
+##### Artikel 3h
 
 Vervallen
 
-#### Artikel 3i
+##### Artikel 3i
 
 Vervallen
 
-#### Artikel 3j
+##### Artikel 3j
 
 Vervallen
 
-#### Artikel 3k
+##### Artikel 3k
 
 Vervallen
 
-#### Artikel 3l
+##### Artikel 3l
 
 Vervallen
 
-#### Artikel 3m
+##### Artikel 3m
 
 Vervallen
 
-#### Artikel 3n
+##### Artikel 3n
 
 Vervallen
 
-#### Artikel 3o
+##### Artikel 3o
 
 Vervallen
 
 #### § 1.3. Bijdrage aan het Interprovinciaal Overleg in verband met rapportages op het gebied van geluidhinderbestrijding industrielawaai
 
-#### Artikel 4
+##### Artikel 4
 
 Onze Minister geeft aan het Interprovinciaal Overleg in het kalenderjaar 1994 een beschikking tot vaststelling van een bijdrage ten bedrage van € 453 780,22 ten behoeve van:
 
@@ -158,13 +182,13 @@ Onze Minister geeft aan het Interprovinciaal Overleg in het kalenderjaar 1994 ee
 
 - b. een jaarlijkse rapportage vóór 1 juli in 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007 en 2008 over de voortgang van de uitvoering van de programma’s van maatregelen.
 
-#### Artikel 4a
+##### Artikel 4a
 
 1. Het Interprovinciaal Overleg richt de rapportage, bedoeld in [artikel 4, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4&z=2024-01-01&g=2024-01-01), in overeenkomstig [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=3a&z=2024-01-01&g=2024-01-01).
 
 2. Onze Minister kan aan het Interprovinciaal Overleg aanwijzingen geven omtrent de inhoud van en de wijze waarop de rapportage, bedoeld in [artikel 4, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4&z=2024-01-01&g=2024-01-01), wordt ingericht.
 
-#### Artikel 4b
+##### Artikel 4b
 
 1. Indien een rapportage als bedoeld in [artikel 4, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4&z=2024-01-01&g=2024-01-01), te laat of in het geheel niet over een kalenderjaar wordt toegezonden, dan wel niet is opgesteld overeenkomstig [artikel 4a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4a&z=2024-01-01&g=2024-01-01), kan Onze Minister de beschikking tot vaststelling van de bijdrage, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4&z=2024-01-01&g=2024-01-01), geheel of gedeeltelijk intrekken. Onze Minister kan het betaalde bedrag geheel of gedeeltelijk terugvorderen.
 
@@ -174,13 +198,13 @@ Onze Minister geeft aan het Interprovinciaal Overleg in het kalenderjaar 1994 ee
 
 4. Het eerste, tweede en derde lid zijn van overeenkomstige toepassing indien een rapportage als bedoeld in [artikel 4, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4&z=2024-01-01&g=2024-01-01), te laat of in het geheel niet in één van de in dat artikel, onder **b** , bedoelde kalenderjaren is ontvangen, dan wel die rapportage niet is opgesteld overeenkomstig de [artikelen 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4a&z=2024-01-01&g=2024-01-01) en [4d](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4d&z=2024-01-01&g=2024-01-01).
 
-#### Artikel 4c
+##### Artikel 4c
 
 1. Gedeputeerde staten verstrekken aan het Interprovinciaal Overleg ten behoeve van de rapportage, bedoeld in [artikel 4, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4&z=2024-01-01&g=2024-01-01), met ingang van 1996 telkens in januari van het lopende kalenderjaar de gegevens over de voortgang in hun provincie van het akoestisch onderzoek met betrekking tot de in [artikel 3a, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=3a&z=2024-01-01&g=2024-01-01), bedoelde industrieterreinen.
 
 2. Indien de gegevens niet of onvolledig zijn verstrekt, doet het Interprovinciaal Overleg daarvan mededeling in de rapportage.
 
-#### Artikel 4d
+##### Artikel 4d
 
 1. Gedeputeerde staten verstrekken aan het Interprovinciaal Overleg in januari 1996 gegevens omtrent de stand van zaken per 1 januari 1996 met betrekking tot de uitvoering van de saneringprogramma's.
 
@@ -210,31 +234,31 @@ Onze Minister geeft aan het Interprovinciaal Overleg in het kalenderjaar 1994 ee
 
 #### § 1.4
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 5a
+##### Artikel 5a
 
 Vervallen
 
-#### Artikel 5b
+##### Artikel 5b
 
 Vervallen
 
 #### § 1.5. Subsidie terzake van de kosten van uitvoering van het saneringsprogramma
 
-#### Artikel 6
+##### Artikel 6
 
 Voorafgaand aan de subsidievaststelling wordt geen beschikking tot subsidieverlening gegeven.
 
-#### Artikel 6a
+##### Artikel 6a
 
 1. Onze Minister geeft aan het provinciaal bestuur jaarlijks in de kalenderjaren 1995 tot en met 2002 ambtshalve een beschikking tot subsidievaststelling terzake van de kosten van het terugbrengen, vóór 1 januari 2003, van de geluidsbelasting vanwege alle in de provincie gelegen industrieterreinen, voor zover deze voorkomen op de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=3&z=2024-01-01&g=2024-01-01) bedoelde lijst en het in [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=3b&z=2024-01-01&g=2024-01-01) bedoelde overzicht, van de binnen de zone rond die industrieterreinen gelegen woningen en andere geluidsgevoelige gebouwen.
 
 2. De subsidie kan uitsluitend worden besteed aan kosten van uiterlijk vóór 1 januari 2008 te treffen maatregelen als bedoeld in [artikel 2, eerste lid, onder a tot en met e, van het Besluit saneringsmaatregelen industrieterreinen 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0007107&artikel=2). Voor zover het maatregelen betreft als bedoeld in [artikel 2, eerste lid, onder b en c, van het Besluit saneringsmaatregelen industrieterreinen 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0007107&artikel=2) kan ten hoogste 20% van de met betrekking tot die maatregelen vastgestelde subsidie tevens worden besteed aan kosten van voorbereiding, begeleiding en toezicht van deze maatregelen.
 
-#### Artikel 6b
+##### Artikel 6b
 
 1. Onze Minister stelt ieder jaar voor 1 mei per provincie de subsidie ambtshalve vast op eennegende van het voor iedere provincie achter die provincie vermelde bedrag:
 
@@ -260,7 +284,7 @@ Voorafgaand aan de subsidievaststelling wordt geen beschikking tot subsidieverle
 
 5. Het eerste lid blijft buiten toepassing met ingang van 1 januari 2004.
 
-#### Artikel 6c
+##### Artikel 6c
 
 1. Onze Minister stelt de subsidie per provincie ambtshalve vast op het voor iedere provincie achter die provincie vermelde bedrag:
 
@@ -282,21 +306,21 @@ Voorafgaand aan de subsidievaststelling wordt geen beschikking tot subsidieverle
 
 3. Voor zover het in het eerste lid vermelde bedrag hoger is dan het voor de desbetreffende provincie vermelde bedrag in [artikel 6b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=6b&z=2024-01-01&g=2024-01-01), is Onze Minister dat bedrag verschuldigd aan die provincie.
 
-#### Artikel 6d
+##### Artikel 6d
 
 De betaling van de voor iedere provincie voor de uitvoering van het saneringsprogramma krachtens [artikel 6b](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=6b&z=2024-01-01&g=2024-01-01) vastgestelde subsidie, vindt telkens uiterlijk in mei plaats.
 
-#### Artikel 6e
+##### Artikel 6e
 
 1. Indien uit de jaarlijkse rapportage, bedoeld in [artikel 4, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4&z=2024-01-01&g=2024-01-01), in 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006 of 2007 blijkt dat er nagenoeg geen kans is dat ten aanzien van alle in [artikel 4d , tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4d&z=2024-01-01&g=2024-01-01), bedoelde saneringsprogramma’s de daarin genoemde maatregelen vóór 1 januari 2008 zijn uitgevoerd, kan Onze Minister gedeputeerde staten de verplichting opleggen om op eigen kosten, met inachtneming van door Onze Minister te stellen richtlijnen, een onderzoek in te stellen naar de factoren die de oorzaak zijn van dit dreigend tekortschieten en de mogelijkheden deze weg te nemen, dan wel daarin verbetering te brengen.
 
 2. Onze Minister maakt uiterlijk binnen 12 weken na ontvangst van de rapportage gebruik van zijn bevoegdheid, bedoeld in het eerste lid, of van de hem toekomende bevoegdheden met betrekking tot de vastgestelde subsidie.
 
-#### Artikel 6f
+##### Artikel 6f
 
 Indien gedeputeerde staten blijkens een rapportage als bedoeld in [artikel 4, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4&z=2024-01-01&g=2024-01-01), de gegevens, bedoeld in [artikel 4d, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4d&z=2024-01-01&g=2024-01-01), niet of onvolledig hebben verstrekt aan het Interprovinciaal Overleg, of die rapportage op 1 oktober van het kalenderjaar waarin zij op 1 juli ontvangen had moeten zijn, niet ontvangen is, kan Onze Minister gedeputeerde staten verplichten uiterlijk op de eerstvolgende 1 februari te rapporteren over de voortgang van de afronding van de uitvoering van de saneringsprogramma's. Artikel 3m, tweede en derde lid, is van overeenkomstige toepassing.
 
-#### Artikel 6g
+##### Artikel 6g
 
 1. In afwijking van [artikel 6**a**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=6a&z=2024-01-01&g=2024-01-01), geeft Onze Minister in het vervolg geen ambtshalve beschikking tot subsidievaststelling indien:
 
@@ -306,17 +330,17 @@ Indien gedeputeerde staten blijkens een rapportage als bedoeld in [artikel 4, on
 
 2. [Artikel 3**o**, tweede tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=3o&z=2024-01-01&g=2024-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 6h
+##### Artikel 6h
 
 1. Indien de informatie, bedoeld in [artikel 27, eerste lid van het Besluit financiële verhouding 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&artikel=27), over het jaar waarin de beschikking tot subsidievaststelling, bedoeld in [artikel 6a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=6a&z=2024-01-01&g=2024-01-01), is genomen, niet vóór 15 september is toegezonden, doet Onze Minister daarvan binnen vier weken na het verstrijken van die termijn mededeling aan gedeputeerde staten.
 
 2. Onze Minister stelt bij de in het eerste lid bedoelde mededeling een termijn van ten hoogste acht weken binnen welke de ontbrekende informatie alsnog moet worden verstrekt.
 
-#### Artikel 6i
+##### Artikel 6i
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
@@ -324,105 +348,105 @@ Vervallen
 
 #### § 2.1. Algemene bepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 8a
+##### Artikel 8a
 
 Vervallen
 
-#### Artikel 8b
+##### Artikel 8b
 
 Vervallen
 
-#### Artikel 8c
+##### Artikel 8c
 
 Vervallen
 
-#### Artikel 8d
+##### Artikel 8d
 
 Vervallen
 
 #### § 2.2
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 9a
+##### Artikel 9a
 
 Vervallen
 
-#### Artikel 9b
+##### Artikel 9b
 
 Vervallen
 
-#### Artikel 9c
+##### Artikel 9c
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 10a
+##### Artikel 10a
 
 Vervallen
 
-#### Artikel 10b
+##### Artikel 10b
 
 Vervallen
 
-#### Artikel 10c
+##### Artikel 10c
 
 Vervallen
 
-#### Artikel 10d
+##### Artikel 10d
 
 Vervallen
 
-#### Artikel 10e
+##### Artikel 10e
 
 Vervallen
 
-#### Artikel 10f
+##### Artikel 10f
 
 Vervallen
 
-#### Artikel 10g
+##### Artikel 10g
 
 Vervallen
 
-#### Artikel 10h
+##### Artikel 10h
 
 Vervallen
 
-#### Artikel 10i
+##### Artikel 10i
 
 Vervallen
 
-#### Artikel 10j
+##### Artikel 10j
 
 Vervallen
 
-#### Artikel 10k
+##### Artikel 10k
 
 Vervallen
 
-#### Artikel 10l
+##### Artikel 10l
 
 Vervallen
 
-#### Artikel 10m
+##### Artikel 10m
 
 Vervallen
 
-#### Artikel 10n
+##### Artikel 10n
 
 Vervallen
 
-#### Artikel 10o
+##### Artikel 10o
 
 Vervallen
 
@@ -430,109 +454,109 @@ Vervallen
 
 #### § 2.3.1. Subsidie voor voorbereiding, begeleiding en toezicht
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 11a
+##### Artikel 11a
 
 Vervallen
 
-#### Artikel 11b
+##### Artikel 11b
 
 Vervallen
 
-#### Artikel 11c
+##### Artikel 11c
 
 Vervallen
 
-#### Artikel 11d
+##### Artikel 11d
 
 Vervallen
 
-#### Artikel 11e
+##### Artikel 11e
 
 Vervallen
 
 #### § 2.3.2. Subsidie voor geluidwerende maatregelen
 
-#### Artikel 11f
+##### Artikel 11f
 
 Vervallen
 
-#### Artikel 11g
+##### Artikel 11g
 
 Vervallen
 
-#### Artikel 11h
+##### Artikel 11h
 
 Vervallen
 
-#### Artikel 11i
+##### Artikel 11i
 
 Vervallen
 
-#### Artikel 11j
+##### Artikel 11j
 
 Vervallen
 
-#### Artikel 11k
+##### Artikel 11k
 
 Vervallen
 
-#### Artikel 11l
+##### Artikel 11l
 
 Vervallen
 
 #### § 2.4. Verkeersmaatregelen en afschermende maatregelen
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
-#### Artikel 12a
+##### Artikel 12a
 
 Vervallen
 
-#### Artikel 12b
+##### Artikel 12b
 
 Vervallen
 
-#### Artikel 12c
+##### Artikel 12c
 
 Vervallen
 
-#### Artikel 12d
+##### Artikel 12d
 
 Vervallen
 
-#### Artikel 12e
+##### Artikel 12e
 
 Vervallen
 
-#### Artikel 12f
+##### Artikel 12f
 
 Vervallen
 
 #### § 3.2
 
-#### Artikel 12g
+##### Artikel 12g
 
 Vervallen
 
-#### Artikel 12h
+##### Artikel 12h
 
 Vervallen
 
-#### Artikel 12i
+##### Artikel 12i
 
 Vervallen
 
-#### Artikel 12j
+##### Artikel 12j
 
 Vervallen
 
-#### Artikel 12k
+##### Artikel 12k
 
 Vervallen
 
@@ -540,223 +564,223 @@ Vervallen
 
 #### § 3.1. Algemene bepalingen
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
-#### Artikel 13a
+##### Artikel 13a
 
 Vervallen
 
-#### Artikel 13b
+##### Artikel 13b
 
 Vervallen
 
-#### Artikel 13c
+##### Artikel 13c
 
 Vervallen
 
 #### § 3.2
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
 #### § 3.3. Geluidwerende maatregelen aan andere geluidsgevoelige gebouwen
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
 #### § 3.4. Afschermende en geluidreducerende maatregelen
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
-#### Artikel 17
+##### Artikel 17
 
 Vervallen
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
 #### § 3.5. Onttrekking aan de bestemming van woningen en andere geluidsgevoelige gebouwen vanwege spoorweglawaai.
 
-#### Artikel 19
+##### Artikel 19
 
 Vervallen
 
 ### Afdeling 4
 
-#### Artikel 20
+##### Artikel 20
 
 Vervallen
 
-#### Artikel 21
+##### Artikel 21
 
 Vervallen
 
-#### Artikel 22
+##### Artikel 22
 
 Vervallen
 
-#### Artikel 23
+##### Artikel 23
 
 Vervallen
 
-#### Artikel 24
+##### Artikel 24
 
 Vervallen
 
-#### Artikel 25
+##### Artikel 25
 
 Vervallen
 
 ### Afdeling 5
 
-#### Artikel 26
+##### Artikel 26
 
 Vervallen
 
-#### Artikel 27
+##### Artikel 27
 
 Vervallen
 
 ### Afdeling 6
 
-#### Artikel 27a
+##### Artikel 27a
 
 Vervallen
 
-#### Artikel 27b
+##### Artikel 27b
 
 Vervallen
 
-#### Artikel 27c
+##### Artikel 27c
 
 Vervallen
 
-#### Artikel 27d
+##### Artikel 27d
 
 Vervallen
 
-#### Artikel 27e
+##### Artikel 27e
 
 Vervallen
 
-#### Artikel 27f
+##### Artikel 27f
 
 Vervallen
 
-#### Artikel 27g
+##### Artikel 27g
 
 Vervallen
 
-#### Artikel 28
+##### Artikel 28
 
 Vervallen
 
-#### Artikel 29
+##### Artikel 29
 
 Vervallen
 
-#### Artikel 30
+##### Artikel 30
 
 Vervallen
 
-#### Artikel 31
+##### Artikel 31
 
 Vervallen
 
-#### Artikel 32
+##### Artikel 32
 
 Vervallen
 
-#### Artikel 33
+##### Artikel 33
 
 Vervallen
 
-#### Artikel 34
+##### Artikel 34
 
 Vervallen
 
-#### Artikel 35
+##### Artikel 35
 
 Vervallen
 
-#### Artikel 36
+##### Artikel 36
 
 Vervallen
 
-#### Artikel 37
+##### Artikel 37
 
 Vervallen
 
-#### Artikel 38
+##### Artikel 38
 
 Vervallen
 
-#### Artikel 39
+##### Artikel 39
 
 Vervallen
 
-#### Artikel 39a
+##### Artikel 39a
 
 Vervallen
 
-#### Artikel 39b
+##### Artikel 39b
 
 Vervallen
 
-#### Artikel 39c
+##### Artikel 39c
 
 Vervallen
 
-#### Artikel 39d
+##### Artikel 39d
 
 Vervallen
 
-#### Artikel 39e
+##### Artikel 39e
 
 Vervallen
 
 ### Afdeling 7
 
-#### Artikel 40
+##### Artikel 40
 
 Vervallen
 
-#### Artikel 41
+##### Artikel 41
 
 Vervallen
 
-#### Artikel 42
+##### Artikel 42
 
 Vervallen
 
-#### Artikel 43
+##### Artikel 43
 
 Vervallen
 
-#### Artikel 44
+##### Artikel 44
 
 Vervallen
 
-#### Artikel 45
+##### Artikel 45
 
 Vervallen
 
-#### Artikel 46
+##### Artikel 46
 
 Vervallen
 
-#### Artikel 47
+##### Artikel 47
 
 Vervallen
 
-#### Artikel 48
+##### Artikel 48
 
 Vervallen
 
@@ -764,103 +788,103 @@ Vervallen
 
 #### § 8.1. Subsidie terzake van de kosten voor gebieden waarin de kwaliteit van het milieu bijzondere aandacht behoeft
 
-#### Artikel 48a
+##### Artikel 48a
 
 Vervallen
 
-#### Artikel 48b
+##### Artikel 48b
 
 Vervallen
 
-#### Artikel 48c
+##### Artikel 48c
 
 Vervallen
 
-#### Artikel 48d
+##### Artikel 48d
 
 Vervallen
 
-#### Artikel 48e
+##### Artikel 48e
 
 Vervallen
 
-#### Artikel 48f
+##### Artikel 48f
 
 Vervallen
 
-#### Artikel 48g
+##### Artikel 48g
 
 Vervallen
 
-#### Artikel 48h
+##### Artikel 48h
 
 Vervallen
 
-#### Artikel 48i
+##### Artikel 48i
 
 Vervallen
 
-#### Artikel 48j
+##### Artikel 48j
 
 Vervallen
 
-#### Artikel 48j1
+##### Artikel 48j1
 
 Vervallen
 
-#### Artikel 48j2
+##### Artikel 48j2
 
 Vervallen
 
-#### Artikel 48j3
+##### Artikel 48j3
 
 Vervallen
 
 #### § 8.2. Bijdragen in de kosten van bepaalde maatregelen ter uitvoering van het saneringsplan van de proefprojecten integrale milieuzonering (IMZ) Arnhem-Noord, IJmond en Maastricht
 
-#### Artikel 48k
+##### Artikel 48k
 
 Vervallen
 
-#### Artikel 48l
+##### Artikel 48l
 
 Vervallen
 
-#### Artikel 48m
+##### Artikel 48m
 
 Vervallen
 
-#### Artikel 48n
+##### Artikel 48n
 
 Vervallen
 
-#### Artikel 48o
+##### Artikel 48o
 
 Vervallen
 
-#### Artikel 48p
+##### Artikel 48p
 
 Vervallen
 
-#### Artikel 48q
+##### Artikel 48q
 
 Vervallen
 
-#### Artikel 48r
+##### Artikel 48r
 
 Vervallen
 
 ### Hoofdstuk 3. Algemene voorschriften met betrekking tot de beslissing op aanvragen om subsidie als bedoeld in hoofdstuk 2
 
-#### Artikel 49
+##### Artikel 49
 
 Vervallen
 
-#### Artikel 50
+##### Artikel 50
 
 Indien de aanvraag tot subsidieverlening als bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&z=2024-01-01&g=2024-01-01) betrekking heeft op een activiteit die nog niet geheel is uitgevoerd, is de aanvrager verplicht zodra de activiteit is uitgevoerd of is stopgezet Onze Minister daarvan in kennis te stellen.
 
-#### Artikel 51
+##### Artikel 51
 
 1. Onze Minister geeft de beschikking op de aanvraag tot verlening van subsidie als bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&z=2024-01-01&g=2024-01-01) binnen vijf maanden na de datum waarop de aanvraag is ontvangen.
 
@@ -868,7 +892,7 @@ Indien de aanvraag tot subsidieverlening als bedoeld in [hoofdstuk 2](https://we
 
 3. In de gevallen, bedoeld in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=3&artikel=50&z=2024-01-01&g=2024-01-01), geeft Onze Minister de beschikking tot subsidievaststelling binnen vijf maanden na de ontvangst van de mededeling van de aanvrager dat de activiteit is uitgevoerd of stopgezet.
 
-#### Artikel 52
+##### Artikel 52
 
 1. De beschikking tot subsidieverlening bevat de verplichting voor de subsidie-ontvanger om mededeling te doen van gewijzigde omstandigheden die van belang kunnen zijn voor de uitvoering van de activiteit.
 
@@ -878,143 +902,143 @@ Indien de aanvraag tot subsidieverlening als bedoeld in [hoofdstuk 2](https://we
 
 - b. betrekking hebben op de wijze waarop of de middelen waarmee de gesubsidieerde activiteit wordt verricht.
 
-#### Artikel 53
+##### Artikel 53
 
 Vervallen
 
-#### Artikel 54
+##### Artikel 54
 
 Vervallen
 
-#### Artikel 55
+##### Artikel 55
 
 In afwijking van [artikel 51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=3&artikel=51&z=2024-01-01&g=2024-01-01), kan Onze Minister, in afwachting van een wijziging van het voor dat jaar vastgestelde subsidieplafond de beslissing op een subsidie-aanvraag geheel of gedeeltelijk aanhouden tot uiterlijk 15 december van het kalenderjaar waarin de subsidie is aangevraagd. Hij deelt de aanhouding aan de aanvrager mee.
 
-#### Artikel 56
+##### Artikel 56
 
 Indien Onze Minister toepassing heeft gegeven aan [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=3&artikel=55&z=2024-01-01&g=2024-01-01) geeft hij uiterlijk binnen acht weken na afloop van de aanhouding een beschikking op de aanvraag.
 
-#### Artikel 57
+##### Artikel 57
 
 Vervallen
 
-#### Artikel 58
+##### Artikel 58
 
 Vervallen
 
-#### Artikel 59
+##### Artikel 59
 
 Vervallen
 
-#### Artikel 60
+##### Artikel 60
 
 Vervallen
 
 ### Hoofdstuk 6
 
-#### Artikel 61
+##### Artikel 61
 
 Vervallen
 
 ### Hoofdstuk 5
 
-#### Artikel 62
+##### Artikel 62
 
 Vervallen
 
-#### Artikel 63
+##### Artikel 63
 
 Vervallen
 
-#### Artikel 64
+##### Artikel 64
 
 Vervallen
 
-#### Artikel 65
+##### Artikel 65
 
 Vervallen
 
-#### Artikel 66
+##### Artikel 66
 
 Vervallen
 
-#### Artikel 67
+##### Artikel 67
 
 Vervallen
 
-#### Artikel 68
+##### Artikel 68
 
 Vervallen
 
-#### Artikel 69
+##### Artikel 69
 
 Vervallen
 
-#### Artikel 70
+##### Artikel 70
 
 Vervallen
 
 ### Hoofdstuk 6
 
-#### Artikel 71
+##### Artikel 71
 
 Vervallen
 
-#### Artikel 72
+##### Artikel 72
 
 Vervallen
 
-#### Artikel 73
+##### Artikel 73
 
 Vervallen
 
-#### Artikel 74
+##### Artikel 74
 
 Vervallen
 
 ### Hoofdstuk 7. Slotbepalingen
 
-#### Artikel 75
+##### Artikel 75
 
 Vervallen
 
-#### Artikel 76
+##### Artikel 76
 
 Vervallen
 
-#### Artikel 77
+##### Artikel 77
 
 Vervallen
 
-#### Artikel 77a
+##### Artikel 77a
 
 Vervallen
 
-#### Artikel 78
+##### Artikel 78
 
 Vervallen
 
-#### Artikel 79
+##### Artikel 79
 
 Vervallen
 
-#### Artikel 80
+##### Artikel 80
 
 Vervallen
 
-#### Artikel 81
+##### Artikel 81
 
 Vervallen
 
-#### Artikel 81a
+##### Artikel 81a
 
 Dit besluit berust op de [artikelen 17, eerste en tweede lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17), 15.13, [eerste](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=7&artikel=81a&z=2024-01-01&g=2024-01-01) en [tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=7&artikel=81a&z=2024-01-01&g=2024-01-01), en 21.8 van de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245) en 106, 126a, 129 en 174 van de [Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227).
 
-#### Artikel 82
+##### Artikel 82
 
 Vervallen
 
-#### Artikel 83
+##### Artikel 83
 
 Dit besluit wordt aangehaald als: Subsidiebesluit openbare lichamen milieubeheer.
 

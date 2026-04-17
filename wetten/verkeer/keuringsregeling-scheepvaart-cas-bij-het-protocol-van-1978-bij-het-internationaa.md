@@ -1,13 +1,35 @@
 ---
 title: "Keuringsregeling scheepvaart (CAS) bij het Protocol van 1978 bij het Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973 (Keuringsregeling scheepvaart (CAS))"
 identifier: "BWBV0006313"
-categorie: "Verkeer"
-publicatiedatum: 2014-10-01
-laatste_update: 2004-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006313"
+country: "nl"
+rank: "verdrag"
+publication_date: "2014-10-01"
+last_updated: "2004-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006313"
+soort: "verdrag"
+stam_id: "10005159183"
+version_id: "10005524072"
+internal_id: "C10008533351"
+label_id: "10005142814"
+dtd_version: "2.0"
+original_entry_into_force: "2002-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006313/2014-10-01/0"
+intitule_bron: "Trb.2003-116"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2003-08-04"
+intitule_in_force: "2006-12-21"
+intitule_status: "goed"
+original_publication: "Trb.2003-116"
+original_published_date: "2003-08-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2003-116"
+entry_into_force_date: "2002-09-01"
+jci_1_3: "jci1.3:c:BWBV0006313&z=2014-10-01&g=2014-10-01"
+jci_1_0: "1.0:c:BWBV0006313&g=2014-10-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2002-09-01"
 ---
-
 # Keuringsregeling scheepvaart (CAS) bij het Protocol van 1978 bij het Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973 (Keuringsregeling scheepvaart (CAS))
 
 ### 1. PREAMBULE

@@ -1,13 +1,37 @@
 ---
-title: "Wet militair tuchtrecht"
+title: "Rijkswet van 14 juni 1990, tot herziening van het militair tuchtrecht"
 identifier: "BWBR0004788"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2020-04-01
-laatste_update: 2020-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004788"
+country: "nl"
+rank: "rijkswet"
+publication_date: "2020-04-01"
+last_updated: "2020-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004788"
+soort: "rijkswet"
+stam_id: "213863"
+version_id: "295242"
+internal_id: "C295241"
+label_id: "211414"
+dtd_version: "2.0"
+original_entry_into_force: "1991-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004788/2020-04-01/0"
+intitule_bron: "Stb.1990-367"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1990-06-14"
+intitule_in_force: "1990-12-18"
+intitule_status: "goed"
+original_publication: "Stb.1990-367"
+original_signed_date: "1990-06-14"
+original_effect: "nieuwe-regeling"
+original_dossier: "16813"
+entry_into_force_date: "1991-01-01"
+jci_1_3: "jci1.3:c:BWBR0004788&z=2020-04-01&g=2020-04-01"
+jci_1_0: "1.0:c:BWBR0004788&g=2020-04-01"
+citeertitel_status: "officieel"
+short_title: "Wet militair tuchtrecht"
+signed_date: "1990-06-14"
+entry_into_force: "1991-01-01"
 ---
-
 # Rijkswet van 14 juni 1990, tot herziening van het militair tuchtrecht
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
@@ -18,15 +42,15 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 De zowel in deze rijkswet als in het [Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869) voorkomende uitdrukkingen hebben in beide dezelfde betekenis. [Artikel 61 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=61) is van toepassing.
 
-#### Artikel 2
+##### Artikel 2
 
 De straffen, in deze rijkswet voorzien, zijn van toepassing op de militair die een gedragsregel van deze rijkswet schendt.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De gedragsregels van deze rijkswet zijn van toepassing:
 
@@ -40,17 +64,17 @@ De straffen, in deze rijkswet voorzien, zijn van toepassing op de militair die e
 
 3. Onder militaire plaats wordt in deze rijkswet verstaan een gebouw, terrein, vaartuig, luchtvaartuig of voertuig, dat in gebruik is bij of ten behoeve van de krijgsmacht, of dat de militair tot verblijf of gebruik dient bij de vervulling van zijn taak in internationaal verband of waar de militair zich in krijgsgevangenschap bevindt.
 
-#### Artikel 4
+##### Artikel 4
 
 1. In deze rijkswet wordt onder commandant verstaan de militair die ingevolge [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=IV&artikel=49&z=2020-04-01&g=2020-04-01) tot straffen bevoegd is.
 
 2. In deze rijkswet wordt onder beklagmeerdere verstaan de onmiddellijk boven de commandant gestelde bevelvoerende meerdere. Onze Minister van Defensie kan bij ministeriële regeling andere militairen aanwijzen als beklagmeerderen. In dat geval treedt de onmiddellijk boven de commandant gestelde bevelvoerende meerdere niet meer op als beklagmeerdere.
 
-#### Artikel 5
+##### Artikel 5
 
 In deze rijkswet wordt onder beschuldigde verstaan de militair aan wie een beschuldiging is uitgereikt op grond van het op feiten of omstandigheden gebaseerde vermoeden dat hij een in deze rijkswet omschreven gedragsregel heeft geschonden.
 
-#### Artikel 5a
+##### Artikel 5a
 
 Indien een Nederlandse militair behoort tot een internationaal militair samenwerkingsverband wordt ten aanzien van die Nederlandse militair voor de toepassing van [Hoofdstuk II van deze rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=II&z=2020-04-01&g=2020-04-01) mede verstaan onder:
 
@@ -62,7 +86,7 @@ Indien een Nederlandse militair behoort tot een internationaal militair samenwer
 
 #### § 1. Gedragingen tegen de geheimhoudingsplicht
 
-#### Artikel 6
+##### Artikel 6
 
 1. In strijd met de militaire tucht gedraagt zich de militair die enig gegeven, de dienst betreffende, mededeelt aan of ter beschikking stelt van iemand die tot kennisneming daarvan niet bevoegd is, voor zover de verplichting tot geheimhouding uit de aard der zaak volgt.
 
@@ -70,39 +94,39 @@ Indien een Nederlandse militair behoort tot een internationaal militair samenwer
 
 #### § 2. Gedragingen waardoor de militair dienstverplichtingen niet nakomt
 
-#### Artikel 7
+##### Artikel 7
 
 In strijd met de militaire tucht gedraagt zich de militair die ongeoorloofd afwezig is.
 
-#### Artikel 8
+##### Artikel 8
 
 In strijd met de militaire tucht gedraagt zich de militair aan wiens schuld het is te wijten dat hij niet in staat is dienstverplichtingen te vervullen.
 
-#### Artikel 9
+##### Artikel 9
 
 In strijd met de militaire tucht gedraagt zich de militair die zich onttrekt aan dienstverplichtingen, deze verplichtingen zonder toestemming niet vervult of ophoudt te vervullen.
 
-#### Artikel 10
+##### Artikel 10
 
 In strijd met de militaire tucht gedraagt zich hij die zijn taak als militair onzorgvuldig verricht.
 
-#### Artikel 11
+##### Artikel 11
 
 In strijd met de militaire tucht gedraagt zich de militair die een andere militair of iemand, die anderszins bij of ten behoeve van de krijgsmacht werkzaam is, geen hulp verleent, indien en voor zover deze nodig is en kan worden gevergd.
 
 #### § 3. Gedragingen waardoor de militair het functioneren van de krijgsmacht belemmert
 
-#### Artikel 12
+##### Artikel 12
 
 In strijd met de militaire tucht gedraagt zich de militair die zich door lijdelijkheid of onwilligheid tegen militaire diensten verzet.
 
-#### Artikel 13
+##### Artikel 13
 
 1. In strijd met de militaire tucht gedraagt zich de militair die de uitvoering van een in het belang van de militaire dienst genomen maatregel belet, belemmert of verijdelt.
 
 2. Het eerste lid is mede van toepassing op de militair die geen dienst doet of behoort te doen, en zich niet bevindt op een militaire plaats.
 
-#### Artikel 14
+##### Artikel 14
 
 1. In strijd met de militaire tucht gedraagt zich de militair die een andere militair of iemand, die anderszins bij of ten behoeve van de krijgsmacht werkzaam is, zonder noodzaak hindert bij de uitoefening van zijn taak.
 
@@ -110,61 +134,61 @@ In strijd met de militaire tucht gedraagt zich de militair die zich door lijdeli
 
 #### § 4. Gedragingen tegen het dienstbevel
 
-#### Artikel 15
+##### Artikel 15
 
 In strijd met de militaire tucht gedraagt zich de militair die een dienstbevel niet opvolgt.
 
-#### Artikel 16
+##### Artikel 16
 
 Het voorgaande artikel is niet toepasselijk indien de bevolen gedraging onrechtmatig is of door de militair te goeder trouw als onrechtmatig werd beschouwd.
 
-#### Artikel 17
+##### Artikel 17
 
 Indien twee of meer onderling strijdige dienstbevelen zijn gegeven, is het niet opvolgen van een bevel dat voorafgaat aan het laatst gehandhaafde geen met de militaire tucht strijdige gedraging.
 
 #### § 5. Gedragingen tegen het dienstvoorschrift
 
-#### Artikel 18
+##### Artikel 18
 
 1. In strijd met de militaire tucht gedraagt zich de militair die een dienstvoorschrift niet opvolgt.
 
 2. Het eerste lid is mede van toepassing op de militair die geen dienst doet of behoort te doen, en zich niet bevindt op een militaire plaats, indien het in het dienstvoorschrift gegeven ge- of verbod betrekking heeft op het gedrag van de militair die zich voor de uitoefening van zijn dienst buiten Nederland bevindt.
 
-#### Artikel 19
+##### Artikel 19
 
 Het voorgaande artikel is niet toepasselijk indien een van het dienstvoorschrift afwijkend dienstbevel is opgevolgd.
 
 #### § 6. Gedragingen tegen de persoon
 
-#### Artikel 20
+##### Artikel 20
 
 In strijd met de militaire tucht gedraagt zich de militair die een andere militair of iemand, die anderszins bij of ten behoeve van de krijgsmacht werkzaam is, in het openbaar of in zijn tegenwoordigheid met enig kwaad bedreigt, uitscheldt of bespot.
 
-#### Artikel 21
+##### Artikel 21
 
 In strijd met de militaire tucht gedraagt zich de militair die tegen beter weten in een aantijging tegen of een klacht over een andere militair of iemand, die anderszins bij of ten behoeve van de krijgsmacht werkzaam is inbrengt of inzendt.
 
-#### Artikel 22
+##### Artikel 22
 
 In strijd met de militaire tucht gedraagt zich de militair die de persoon van een andere militair of iemand, die anderszins bij of ten behoeve van de krijgsmacht werkzaam is, aantast.
 
-#### Artikel 23
+##### Artikel 23
 
 In strijd met de militaire tucht gedraagt zich de militair die een andere militair of iemand, die anderszins bij of ten behoeve van de krijgsmacht werkzaam is, nodeloos in gevaar brengt.
 
 #### § 7. Ambtsmisdragingen
 
-#### Artikel 24
+##### Artikel 24
 
 In strijd met de militaire tucht gedraagt zich de militair die een mededeling, die hij uit hoofde van zijn ambt moet doen, niet of onjuist doet.
 
-#### Artikel 25
+##### Artikel 25
 
 1. In strijd met de militaire tucht gedraagt zich de militair die door misbruik van zijn invloed als meerdere tegenover een mindere deze overhaalt iets te doen, niet te doen of te dulden, indien daaruit enig nadeel voor de dienst, de mindere of een derde kan ontstaan.
 
 2. Het eerste lid is mede van toepassing op de militair die geen dienst doet of behoort te doen, en zich niet bevindt op een militaire plaats.
 
-#### Artikel 26
+##### Artikel 26
 
 1. In strijd met de militaire tucht gedraagt zich de militair die door gift, belofte, bedreiging of misleiding een andere militair:
 
@@ -176,45 +200,45 @@ In strijd met de militaire tucht gedraagt zich de militair die een mededeling, d
 
 2. Het eerste lid is mede van toepassing op de militair die geen dienst doet of behoort te doen, en zich niet bevindt op een militaire plaats.
 
-#### Artikel 27
+##### Artikel 27
 
 In strijd met de militaire tucht gedraagt zich de militair die, wetende dat een mindere inbreuk maakt of heeft gemaakt op een gedragsregel van deze rijkswet, nalaat maatregelen te nemen.
 
-#### Artikel 28
+##### Artikel 28
 
 In strijd met de militaire tucht gedraagt zich de militair die een onrechtmatig bevel geeft aan een mindere.
 
 #### § 8. Gedragingen tegen de orde
 
-#### Artikel 29
+##### Artikel 29
 
 In strijd met de militaire tucht gedraagt zich de militair die wanordelijkheden veroorzaakt of daaraan deelneemt.
 
-#### Artikel 30
+##### Artikel 30
 
 1. In strijd met de militaire tucht gedraagt zich de militair die een andere militair mondeling of bij geschrifte opruit tot een inbreuk op enige in deze rijkswet omschreven gedragsregel, alsmede de militair die een dergelijk geschrift verspreidt.
 
 2. Het eerste lid is mede van toepassing op de militair die geen dienst doet of behoort te doen, en zich niet bevindt op een militaire plaats.
 
-#### Artikel 31
+##### Artikel 31
 
 In strijd met de militaire tucht gedraagt zich de militair die een geschrift verspreidt of op enige andere wijze openbaar maakt op een plaats, een tijdstip of een wijze, waaromtrent bij dienstvoorschrift een verbod is gegeven in het belang van het verkeer of ter voorkoming van belemmering van de dienst of ter bescherming van rijksgoederen of goederen van derden.
 
-#### Artikel 32
+##### Artikel 32
 
 In strijd met de militaire tucht gedraagt zich de militair die inbreuk maakt op de regels die bij dienstvoorschrift zijn vastgelegd inzake meningsuiting die anders dan door middel van geschrift plaatsvindt, voorzover die regels niet de inhoud van de uiting betreffen, en zijn gegeven in het belang van het verkeer of ter bestrijding of voorkoming van ongeregeldheden en verstoringen van het ordelijk verloop van de dienst.
 
-#### Artikel 33
+##### Artikel 33
 
 1. In strijd met de militaire tucht gedraagt zich de militair die een betoging organiseert of daaraan deelneemt, indien deze op een militaire plaats gehouden wordt zonder dat toestemming is gevraagd van het bevoegd gezag, dan wel indien de toestemming is geweigerd in het belang van het verkeer, of omdat redelijkerwijs is te verwachten dat ongeregeldheden zullen plaatsvinden of het ordelijk verloop van de dienst zal worden verstoord.
 
 2. In strijd met de militaire tucht gedraagt zich de militair die buiten een militaire plaats in uniform deelneemt aan een betoging, tenzij deze in het land waar de militair is aangesteld dan wel waar hij als dienstplichtige in werkelijke dienst is gekomen plaatsvindt en uitsluitend tot onderwerp heeft de voor de militairen algemeen geldende arbeidsvoorwaarden.
 
-#### Artikel 34
+##### Artikel 34
 
 In strijd met de militaire tucht gedraagt zich de militair die een vergadering organiseert of daaraan deelneemt, indien die op een militaire plaats wordt gehouden zonder dat toestemming is gevraagd van het bevoegd gezag, dan wel indien de toestemming is geweigerd in het belang van het verkeer, of omdat redelijkerwijs is te verwachten dat ongeregeldheden zullen plaatsvinden of het ordelijk verloop van de dienst zal worden verstoord.
 
-#### Artikel 35
+##### Artikel 35
 
 1. In strijd met de militaire tucht gedraagt zich de militair die, zich voor de uitoefening van de dienst op het gebied van een vreemde mogendheid bevindend, enige, niet het Koninkrijk betreffende, politieke activiteit ontplooit. Onder politieke activiteit is niet begrepen het uitoefenen van het actief en passief kiesrecht.
 
@@ -222,33 +246,33 @@ In strijd met de militaire tucht gedraagt zich de militair die een vergadering o
 
 #### § 9. Misdragingen in verband met goederen en diensten
 
-#### Artikel 36
+##### Artikel 36
 
 1. In strijd met de militaire tucht gedraagt zich de militair die zonder daartoe gerechtigd te zijn gebruik maakt van goederen of diensten van de krijgsmacht, van een andere militair of van iemand, die anderszins bij of ten behoeve van de krijgsmacht werkzaam is, dan wel deze goederen wegneemt.
 
 2. Voorzover het goederen of diensten van de krijgsmacht betreft is het eerste lid mede van toepassing op de militair die geen dienst doet of behoort te doen, en die zich niet bevindt op een militaire plaats.
 
-#### Artikel 37
+##### Artikel 37
 
 In strijd met de militaire tucht gedraagt zich de militair die enig goed, in gebruik bij of ten behoeve van de krijgsmacht, onzorgvuldig behandelt of onderhoudt.
 
-#### Artikel 38
+##### Artikel 38
 
 In strijd met de militaire tucht gedraagt zich de militair die in uniform nodeloos slordig gekleed gaat.
 
-#### Artikel 39
+##### Artikel 39
 
 1. In strijd met de militaire tucht gedraagt zich de militair die enig goed, in gebruik bij of ten behoeve van de krijgsmacht, van een andere militair of van iemand, die anderszins bij of ten behoeve van de krijgsmacht werkzaam is, vernielt, beschadigt, onbruikbaar of onklaar maakt dan wel wegmaakt.
 
 2. Voorzover het een goed in gebruik bij of ten behoeve van de krijgsmacht betreft is het eerste lid mede van toepassing op de militair die geen dienst doet of behoort te doen, en zich niet bevindt op een militaire plaats.
 
-#### Artikel 40
+##### Artikel 40
 
 In strijd met de militaire tucht gedraagt zich de militair die de aan een andere militair of iemand, die anderszins bij of ten behoeve van de krijgsmacht werkzaam is, voor persoonlijk gebruik ter beschikking gestelde ruimte niet respecteert.
 
 ### Hoofdstuk III. Straffen
 
-#### Artikel 41
+##### Artikel 41
 
 De straffen zijn:
 
@@ -260,13 +284,13 @@ De straffen zijn:
 
 - d. uitgaansverbod.
 
-#### Artikel 42
+##### Artikel 42
 
 1. De berisping bestaat uit een geschrift waarvan het model door Onze Minister van Defensie wordt vastgesteld.
 
 2. De tenuitvoerlegging van de berisping geschiedt door de uitreiking van het geschrift tegelijk met de uitreiking van het afschrift van de uitspraak.
 
-#### Artikel 43
+##### Artikel 43
 
 1. Het bedrag van de geldboete is ten minste € 3 en ten hoogste € 350. In Aruba zijn deze bedragen AWG 6 en AWG 770. In Curaçao en Sint Maarten zijn deze bedragen ANG 6 en ANG 770. In de openbare lichamen Bonaire, Sint Eustatius en Saba zijn deze bedragen USD 3 en USD 430.
 
@@ -274,7 +298,7 @@ De straffen zijn:
 
 3. Ingeval de schending van een gedragsregel plaatsvindt terwijl de militair deelneemt aan een operatie in internationaal verband buiten het Koninkrijk is, in afwijking van het eerste lid, het bedrag van de geldboete ten hoogste € 700 dan wel ANG 1540, AWG 1540 onderscheidenlijk USD 860. Een geldboete met toepassing van de voorgaande volzin kan niet worden opgelegd indien daardoor de som, bedoeld in het tweede lid, een bedrag van € 1400 dan wel ANG 3080, AWG 3080 onderscheidenlijk USD 1720 te boven zou gaan.
 
-#### Artikel 44
+##### Artikel 44
 
 1. De geldboete moet binnen drie dagen na de uitreiking van het afschrift van de uitspraak door de gestrafte worden betaald.
 
@@ -282,7 +306,7 @@ De straffen zijn:
 
 3. De geldboete moet in ieder geval worden betaald als het feitelijk verblijf onder de wapenen van de gestrafte eindigt.
 
-#### Artikel 45
+##### Artikel 45
 
 1. Bij gebreke van betaling binnen de bij of ingevolge het voorgaand artikel gestelde termijn worden de niet betaalde geldboetes op de militaire bezoldiging van de gestrafte ingehouden.
 
@@ -290,11 +314,11 @@ De straffen zijn:
 
 3. Op het in te houden bedrag wordt een toeslag berekend van tien procent met een minimum van € 0,45, ANG 1, AWG 1, onderscheidenlijk USD 1 welke op gelijke wijze als de geldboete op de aan een gestrafte toekomende bezoldiging wordt ingehouden.
 
-#### Artikel 46
+##### Artikel 46
 
 Bij of krachtens algemene maatregel van Rijksbestuur worden regels gesteld met betrekking tot de invordering, de inhouding, de verantwoording en de bestemming van de ingevorderde of ingehouden gelden.
 
-#### Artikel 47
+##### Artikel 47
 
 1. De strafdienst bestaat uit het verrichten van dienst door de gestrafte in overeenstemming met zijn rang, stand of functie, buiten de voor hem geldende diensturen.
 
@@ -318,7 +342,7 @@ Bij of krachtens algemene maatregel van Rijksbestuur worden regels gesteld met b
 
 11. Onttrekking aan strafdienst schorst van rechtswege de straf.
 
-#### Artikel 48
+##### Artikel 48
 
 1. Het uitgaansverbod bestaat uit de verplichting om op de door de commandant aan te wijzen militaire plaats of gedeelten daarvan aanwezig te zijn en te blijven.
 
@@ -334,7 +358,7 @@ Bij of krachtens algemene maatregel van Rijksbestuur worden regels gesteld met b
 
 ### Hoofdstuk IV. Strafbevoegdheid
 
-#### Artikel 49
+##### Artikel 49
 
 1. De bevoegdheid tot het opleggen van straffen aan onder zijn bevelen staande militairen komt toe aan:
 
@@ -356,7 +380,7 @@ Bij of krachtens algemene maatregel van Rijksbestuur worden regels gesteld met b
 
 - b. deze termijn verlengd met 21 dagen in de gevallen bedoeld in het derde of vijfde lid.
 
-#### Artikel 50
+##### Artikel 50
 
 1. De bevoegdheid om, hetzij de tenuitvoerlegging van een straf van een geldboete hoger dan € 35, ANG 75, AWG 75, onderscheidenlijk USD 42, van strafdienst of van uitgaansverbod op te schorten of te schorsen, hetzij, na verloop van de termijn bedoeld in [artikel 80a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=IA&paragraaf=1&artikel=80a&z=2020-04-01&g=2020-04-01), en buiten het geval dat tegen de uitspraak beklag is gedaan, een strafoplegging teniet te doen, te wijzigen in de straf van berisping, binnen de opgelegde strafsoort de strafmaat te verminderen of te wijzigen in een beslissing als bedoeld in [artikel 74, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=6&artikel=74&z=2020-04-01&g=2020-04-01), komt toe aan:
 
@@ -372,7 +396,7 @@ Bij of krachtens algemene maatregel van Rijksbestuur worden regels gesteld met b
 
 #### § 1. Begin en einde van het tuchtproces in eerste aanleg
 
-#### Artikel 51
+##### Artikel 51
 
 1. Het tuchtproces in eerste aanleg vangt aan met de uitreiking door of namens de commandant aan de militair, van wie wordt vermoed dat hij een in deze rijkswet omschreven gedragsregel heeft geschonden, van een schriftelijk stuk, de beschuldiging, hetwelk een omschrijving inhoudt van deze schending.
 
@@ -384,7 +408,7 @@ Bij of krachtens algemene maatregel van Rijksbestuur worden regels gesteld met b
 
 5. Wijziging van de beschuldiging is voor de aanvang van het onderzoek mogelijk. In geen geval worden wijzigingen toegelaten die ten gevolge hebben dat de beschuldiging niet langer dezelfde gedraging in de zin van [artikel 52, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=1&artikel=52&z=2020-04-01&g=2020-04-01) zou inhouden. De wijziging wordt onverwijld, doch in ieder geval voor de aanvang van het onderzoek, aan de beschuldigde schriftelijk meegedeeld.
 
-#### Artikel 52
+##### Artikel 52
 
 De beschuldiging vermeldt:
 
@@ -396,7 +420,7 @@ De beschuldiging vermeldt:
 
 - d. het artikel of de artikelen op grond waarvan de beschuldiging wordt uitgereikt.
 
-#### Artikel 53
+##### Artikel 53
 
 1. Behoudens [artikel 49, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=IV&artikel=49&z=2020-04-01&g=2020-04-01), wordt geen beschuldiging uitgereikt indien er 21 dagen zijn verlopen nadat de gedraging heeft plaatsgevonden of, voor zover het betreft een vermoedelijke schending van een van de gedragsregels omschreven in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=II&paragraaf=1&artikel=6&z=2020-04-01&g=2020-04-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=II&paragraaf=6&artikel=23&z=2020-04-01&g=2020-04-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=II&paragraaf=7&artikel=26&z=2020-04-01&g=2020-04-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=II&paragraaf=9&artikel=37&z=2020-04-01&g=2020-04-01) of [39](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=II&paragraaf=9&artikel=39&z=2020-04-01&g=2020-04-01), indien er 21 dagen zijn verlopen nadat de gedraging werd ontdekt of, indien toepassing is gegeven aan [artikel 78, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=7&artikel=78&z=2020-04-01&g=2020-04-01), of [79, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=7&artikel=79&z=2020-04-01&g=2020-04-01), indien er 21 dagen zijn verlopen nadat de beslissing van het openbaar ministerie ter kennis is gekomen van de commandant.
 
@@ -412,7 +436,7 @@ De beschuldiging vermeldt:
 
 7. Een beschuldiging, uitgereikt in strijd met de voorgaande leden, wordt ingetrokken.
 
-#### Artikel 54
+##### Artikel 54
 
 1. Het tuchtproces in eerste aanleg eindigt:
 
@@ -424,41 +448,41 @@ De beschuldiging vermeldt:
 
 2. Behoudens in het geval uitspraak is gedaan als bedoeld in [artikel 76, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=6&artikel=76&z=2020-04-01&g=2020-04-01), deelt de commandant aan de beschuldigde schriftelijk mee dat het tuchtproces is geëindigd.
 
-#### Artikel 55
+##### Artikel 55
 
 Het feitelijk verblijf onder de wapenen kan door de beklagmeerdere worden verlengd voor het houden van een tuchtproces in eerste aanleg, behoudens in het geval bedoeld in [artikel 80, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=7&artikel=80&z=2020-04-01&g=2020-04-01).
 
 #### § 2. De vertrouwensman
 
-#### Artikel 56
+##### Artikel 56
 
 1. De beschuldigde kan zich in ieder stadium van het tuchtproces in eerste aanleg doen bijstaan door een vertrouwensman.
 
 2. Het bepaalde in het voorgaande lid wordt de beschuldigde bij het uitreiken van de beschuldiging medegedeeld.
 
-#### Artikel 57
+##### Artikel 57
 
 1. De vertrouwensman kan door de beschuldigde worden gekozen uit het militair en burgerpersoneel, in dienstbetrekking bij het departement van defensie en gelegerd of tewerkgesteld op hetzelfde schip, in dezelfde inrichting of kazerne, dan wel op dezelfde basis of bij hetzelfde onderdeel als de beschuldigde.
 
 2. In bijzondere gevallen kan de commandant ook andere personen als vertrouwensman toelaten.
 
-#### Artikel 58
+##### Artikel 58
 
 Medebeschuldigden in dezelfde zaak worden niet als vertrouwensman toegelaten.
 
-#### Artikel 59
+##### Artikel 59
 
 1. De commandant kan de vertrouwensman voor de verdere duur van het tuchtproces in eerste aanleg uitsluiten wegens verstoring van de ordelijke behandeling van de zaak.
 
 2. Ingeval van uitsluiting van zijn vertrouwensman wordt de beschuldigde op zijn verzoek in de gelegenheid gesteld binnen 24 uur een nieuwe vertrouwensman te kiezen. De termijn bedoeld in [artikel 54, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=1&artikel=54&z=2020-04-01&g=2020-04-01), wordt in dat geval met een dag verlengd.
 
-#### Artikel 60
+##### Artikel 60
 
 Het optreden als vertrouwensman is dienst.
 
 #### § 3. Enige bevoegdheden tijdens het tuchtproces in eerste aanleg
 
-#### Artikel 61
+##### Artikel 61
 
 1. De commandant kan de beschuldigde doen horen ter voorbereiding van het onderzoek. [Artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=4&artikel=67&z=2020-04-01&g=2020-04-01) is van overeenkomstige toepassing.
 
@@ -466,13 +490,13 @@ Het optreden als vertrouwensman is dienst.
 
 3. De verklaringen van de op grond van het eerste of tweede lid gehoorde personen worden schriftelijk vastgelegd.
 
-#### Artikel 62
+##### Artikel 62
 
 De beschuldigde en zijn vertrouwensman kunnen na de uitreiking van de beschuldiging de op de zaak betrekking hebbende stukken inzien, tenzij het belang van geheimhouding van gegevens of het belang van derden zich daartegen verzet.
 
 #### § 4. Het onderzoek
 
-#### Artikel 63
+##### Artikel 63
 
 1. De commandant roept de beschuldigde schriftelijk op voor het onderzoek.
 
@@ -480,7 +504,7 @@ De beschuldigde en zijn vertrouwensman kunnen na de uitreiking van de beschuldig
 
 3. Indien de beschuldigde om een eerdere behandeling verzoekt, kan de commandant daartoe besluiten.
 
-#### Artikel 64
+##### Artikel 64
 
 1. De beschuldigde is verplicht te verschijnen.
 
@@ -488,7 +512,7 @@ De beschuldigde en zijn vertrouwensman kunnen na de uitreiking van de beschuldig
 
 3. Indien de beschuldigde niet verschijnt zonder een gewichtige reden van verhindering, schort de commandant het onderzoek op of schorst hij dit voor bepaalde tijd en wordt de beschuldigde nogmaals schriftelijk opgeroepen. Hij is bevoegd de medebrenging van de beschuldigde te gelasten. De tweede volzin van het voorgaande lid is van toepassing.
 
-#### Artikel 65
+##### Artikel 65
 
 1. De commandant roept de getuigen en deskundigen op wier verschijning hij nodig oordeelt.
 
@@ -500,17 +524,17 @@ De beschuldigde en zijn vertrouwensman kunnen na de uitreiking van de beschuldig
 
 5. De vergoeding van door getuigen en deskundigen gemaakte onkosten geschiedt volgens regelen te stellen bij algemene maatregel van Rijksbestuur.
 
-#### Artikel 66
+##### Artikel 66
 
 1. De commandant houdt het onderzoek op de grondslag van de beschuldiging.
 
 2. Het onderzoek is niet openbaar.
 
-#### Artikel 67
+##### Artikel 67
 
 De beschuldigde is niet verplicht te antwoorden. Dit wordt hem voor of bij de aanvang van het onderzoek ter kennis gebracht.
 
-#### Artikel 68
+##### Artikel 68
 
 1. De commandant hoort de beschuldigde, de getuigen en de deskundigen.
 
@@ -518,13 +542,13 @@ De beschuldigde is niet verplicht te antwoorden. Dit wordt hem voor of bij de aa
 
 3. Hij stelt de vertrouwensman in de gelegenheid het woord te voeren.
 
-#### Artikel 69
+##### Artikel 69
 
 De beschuldigde wordt voor de sluiting van het onderzoek in de gelegenheid gesteld het laatste woord te voeren.
 
 #### § 5. De bewijsmiddelen
 
-#### Artikel 70
+##### Artikel 70
 
 Als bewijsmiddelen worden alleen erkend:
 
@@ -540,7 +564,7 @@ Als bewijsmiddelen worden alleen erkend:
 
 - f. geschriften.
 
-#### Artikel 71
+##### Artikel 71
 
 Op zichzelf leveren voldoende grondslag voor de overtuiging dat de in de beschuldiging omschreven gedraging heeft plaatsgevonden:
 
@@ -548,17 +572,17 @@ Op zichzelf leveren voldoende grondslag voor de overtuiging dat de in de beschul
 
 - b. de in een getuigenverklaring of in een geschrift opgenomen waarneming van een in de beschuldiging omschreven gedraging, door een militair of andere ambtenaar, die uit hoofde van zijn functie of rang met enig toezicht op de naleving van gedragsregels is belast.
 
-#### Artikel 72
+##### Artikel 72
 
 Feiten of omstandigheden van algemene bekendheid behoeven geen bewijs.
 
 #### § 6. Beraad en uitspraak
 
-#### Artikel 73
+##### Artikel 73
 
 Na sluiting van het onderzoek beraadt de commandant zich of hij door de inhoud van de in [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=5&artikel=70&z=2020-04-01&g=2020-04-01) genoemde bewijsmiddelen de overtuiging heeft gekregen dat een in de beschuldiging omschreven gedraging van de beschuldigde heeft plaatsgevonden en, in bevestigend geval, of zulks de schending van een gedragsregel oplevert.
 
-#### Artikel 74
+##### Artikel 74
 
 1. Is de commandant van oordeel dat een gedragsregel is geschonden, dan beraadt hij zich over de oplegging van straf.
 
@@ -568,11 +592,11 @@ Na sluiting van het onderzoek beraadt de commandant zich of hij door de inhoud v
 
 4. In andere gevallen dan bedoeld in het tweede en derde lid spreekt de commandant de beschuldigde vrij.
 
-#### Artikel 75
+##### Artikel 75
 
 Bij bestraffing van een militair die een of meer in deze rijkswet genoemde gedragsregels heeft geschonden, wordt slechts een straf opgelegd.
 
-#### Artikel 76
+##### Artikel 76
 
 1. Na het sluiten van het onderzoek beslist de commandant uiterlijk op de eerstvolgende werkdag. Deze beslissing wordt vastgelegd in een schriftelijk stuk, de uitspraak.
 
@@ -580,7 +604,7 @@ Bij bestraffing van een militair die een of meer in deze rijkswet genoemde gedra
 
 3. De datum van uitreiking wordt op de uitspraak en op het afschrift bedoeld in het tweede lid aangetekend.
 
-#### Artikel 77
+##### Artikel 77
 
 De uitspraak vermeldt in ieder geval:
 
@@ -594,13 +618,13 @@ De uitspraak vermeldt in ieder geval:
 
 #### § 7. Bijzondere bepalingen
 
-#### Artikel 78
+##### Artikel 78
 
 1. Is de commandant van oordeel dat een hem ter kennis gekomen gedraging een strafbaar feit betreft, dan is hij verplicht daarvan onverwijld aangifte te doen bij een opsporingsambtenaar, behoudens in het geval dat voldaan wordt aan de voorwaarden gesteld op grond van het bepaalde in [artikel 59 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=59).
 
 2. Indien de commandant na de uitreiking van de beschuldiging tot het oordeel komt dat de gedraging een strafbaar feit betreft, trekt hij de beschuldiging in, indien hij nog niet tot een uitspraak is gekomen.
 
-#### Artikel 79
+##### Artikel 79
 
 1. Indien een gedraging naar het oordeel van de commandant een van de strafbare feiten oplevert omschreven in de [artikelen 267, aanhef en onder 1° en 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=267), [300, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=300), [310](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=310), [311, eerste lid, aanhef en onder 4° en 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=311), [321](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=321) of [350 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=350) of omschreven in de [artikelen 96, aanhef en onder 2° en 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=96), [98, aanhef en onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=98), [166](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=166) of [169 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=169) met dien verstande dat de duur van de in de [artikelen 96](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=96) en [98 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=98) genoemde ongeoorloofde afwezigheid ten hoogste acht dagen is en het openbaar ministerie bij het in [artikel 81, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=II&paragraaf=1&artikel=81&z=2020-04-01&g=2020-04-01), bedoelde gerecht de commandant mededeelt dat het voorshands instemt met tuchtrechtelijke afdoening, kan de commandant een beschuldiging uitreiken, voor zover de gedraging tevens de schending van een gedragsregel van deze rijkswet inhoudt. Van de mededeling van het openbaar ministerie wordt aantekening gedaan in het stuk, bedoeld in [artikel 76, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=6&artikel=76&z=2020-04-01&g=2020-04-01).
 
@@ -608,7 +632,7 @@ De uitspraak vermeldt in ieder geval:
 
 3. De toepassing van het bepaalde in het eerste lid doet niet af aan het formele recht tot strafvordering van het openbaar ministerie. Indien het strafbare feit wordt afgedaan met toepassing van [artikel 74 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74) of indien een vervolging terzake leidt tot een schuldigverklaring door de rechter, wordt bij het stellen van voorwaarden onderscheidenlijk bij de oplegging van een straf rekening gehouden met de wegens de schending van een gedragsregel van deze rijkswet opgelegde straf.
 
-#### Artikel 80
+##### Artikel 80
 
 1. Indien de commandant gedurende het tuchtproces meent dat een in de beschuldiging omschreven gedraging niet de schending van een dienstvoorschrift oplevert, omdat dit dienstvoorschrift naar zijn oordeel in strijd is met een hogere regeling, schorst hij het tuchtproces, voorzover het deze gedraging betreft. De termijn bedoeld in [artikel 54, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=1&artikel=54&z=2020-04-01&g=2020-04-01), wordt in dat geval met de duur van de schorsing verlengd.
 
@@ -628,7 +652,7 @@ De uitspraak vermeldt in ieder geval:
 
 #### § 1. Het doen van beklag
 
-#### Artikel 80a
+##### Artikel 80a
 
 1. De gestrafte kan binnen vijf dagen na de uitreiking van het afschrift van de uitspraak beklag doen bij de beklagmeerdere.
 
@@ -636,7 +660,7 @@ De uitspraak vermeldt in ieder geval:
 
 3. De gestrafte kan in beklag ook de beslissing van de commandant met betrekking tot de wijze van tenuitvoerlegging van een straf van strafdienst of van uitgaansverbod aan het oordeel van de beklagmeerdere onderwerpen.
 
-#### Artikel 80b
+##### Artikel 80b
 
 1. Het beklag wordt gedaan bij beklagschrift, dat bij de commandant wordt ingediend.
 
@@ -644,25 +668,25 @@ De uitspraak vermeldt in ieder geval:
 
 3. Als dag van indiening geldt de dag van ontvangst van het beklagschrift door of namens de commandant. De dag van ontvangst wordt terstond op het beklagschrift aangetekend.
 
-#### Artikel 80c
+##### Artikel 80c
 
 1. De commandant zendt het beklagschrift onverwijld door naar de beklagmeerdere.
 
 2. Hij voegt daarbij alle op de zaak betrekking hebbende stukken met opgave van de bewijsmiddelen op grond waarvan hij tot de overtuiging is gekomen dat een in de beschuldiging omschreven gedraging heeft plaatsgevonden.
 
-#### Artikel 80d
+##### Artikel 80d
 
 1. Indien het beklagschrift na de beklagtermijn bedoeld in [artikel 80a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=IA&paragraaf=1&artikel=80a&z=2020-04-01&g=2020-04-01), is ingediend, verklaart de beklagmeerdere het beklag niet ontvankelijk. Deze verklaring wordt vastgelegd in een schriftelijk stuk dat aan de gestrafte wordt uitgereikt. De datum van de uitreiking wordt op het schriftelijk stuk aangetekend.
 
 2. Ten aanzien van een na afloop van de beklagtermijn ingediend beklagschrift blijft niet-ontvankelijkverklaring achterwege indien redelijkerwijs niet kan worden geoordeeld dat de gestrafte in verzuim is geweest. Een beslissing ter zake is gemotiveerd.
 
-#### Artikel 80e
+##### Artikel 80e
 
 1. De gestrafte kan zich in ieder stadium van de beklagprocedure doen bijstaan door een vertrouwensman.
 
 2. De [artikelen 57](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=2&artikel=57&z=2020-04-01&g=2020-04-01), [58](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=2&artikel=58&z=2020-04-01&g=2020-04-01), [59, met uitzondering van de laatste volzin van het tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=2&artikel=59&z=2020-04-01&g=2020-04-01), en [60](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=2&artikel=60&z=2020-04-01&g=2020-04-01) zijn van overeenkomstige toepassing met dien verstande dat voor commandant wordt gelezen beklagmeerdere.
 
-#### Artikel 80f
+##### Artikel 80f
 
 1. De beklagmeerdere kan de gestrafte doen horen ter voorbereiding van het onderzoek op beklag.
 
@@ -674,13 +698,13 @@ De uitspraak vermeldt in ieder geval:
 
 #### § 2. Het onderzoek op beklag en de afdoening
 
-#### Artikel 80g
+##### Artikel 80g
 
 1. De beklagmeerdere bepaalt op welke dag het onderzoek op beklag zal aanvangen. Deze dag kan niet later worden bepaald dan uiterlijk de dertigste dag na de dag van indiening van het beklagschrift.
 
 2. De dagen waarop de gestrafte en de beklagmeerdere zich om redenen van dienst niet in hetzelfde land bevinden, tellen niet mee voor de bepaling van de termijn genoemd in het eerste lid.
 
-#### Artikel 80h
+##### Artikel 80h
 
 1. De gestrafte wordt door of namens de beklagmeerdere schriftelijk opgeroepen voor het onderzoek op beklag. Dit onderzoek vangt niet eerder aan dan op de tweede dag na de dag waarop de oproeping aan de gestrafte is uitgereikt, tenzij de gestrafte om eerdere behandeling verzoekt.[Artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=3&artikel=62&z=2020-04-01&g=2020-04-01) is van overeenkomstige toepassing met dien verstande dat voor beschuldiging wordt gelezen oproeping.
 
@@ -690,7 +714,7 @@ De uitspraak vermeldt in ieder geval:
 
 4. [Artikel 65, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=4&artikel=65&z=2020-04-01&g=2020-04-01), is van toepassing.
 
-#### Artikel 80i
+##### Artikel 80i
 
 1. De beklagmeerdere is verplicht de gestrafte in persoon te horen tijdens het onderzoek op beklag, tenzij deze is gehoord als bedoeld in [artikel 80f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=IA&paragraaf=1&artikel=80f&z=2020-04-01&g=2020-04-01), en te kennen heeft gegeven op horen in persoon geen prijs te stellen en de beklagmeerdere het horen in persoon niet nodig oordeelt.
 
@@ -698,17 +722,17 @@ De uitspraak vermeldt in ieder geval:
 
 3. Indien de gestrafte niet verschijnt zonder een gewichtige reden van verhindering, doet de beklagmeerdere het beklag verder af.
 
-#### Artikel 80j
+##### Artikel 80j
 
 1. De beklagmeerdere houdt het onderzoek op beklag op de grondslag van de beschuldiging.
 
 2. Het onderzoek op beklag is niet openbaar.
 
-#### Artikel 80k
+##### Artikel 80k
 
 De gestrafte is niet verplicht te antwoorden. Dit wordt hem voor of bij aanvang van het onderzoek op beklag ter kennis gebracht.
 
-#### Artikel 80l
+##### Artikel 80l
 
 1. De beklagmeerdere hoort de commandant, de getuigen en de deskundigen indien zij zijn opgeroepen.
 
@@ -716,21 +740,21 @@ De gestrafte is niet verplicht te antwoorden. Dit wordt hem voor of bij aanvang 
 
 3. Hij stelt de vertrouwensman in de gelegenheid het woord te voeren.
 
-#### Artikel 80m
+##### Artikel 80m
 
 De gestrafte wordt voor de sluiting van het onderzoek op beklag in de gelegenheid gesteld het laatste woord te voeren.
 
-#### Artikel 80n
+##### Artikel 80n
 
 Ten aanzien van de bewijsmiddelen zijn de bepalingen van paragraaf 5 van Titel I van dit hoofdstuk van toepassing. Als bewijsmiddel wordt tevens erkend de eigen waarneming door de beklagmeerdere tijdens het onderzoek op beklag.
 
-#### Artikel 80o
+##### Artikel 80o
 
 1. Na sluiting van het onderzoek beraadt de beklagmeerdere zich of hij door de inhoud van de in [artikel 80n](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=IA&paragraaf=2&artikel=80n&z=2020-04-01&g=2020-04-01) bedoelde bewijsmiddelen de overtuiging heeft gekregen dat een in de beschuldiging omschreven gedraging van de gestrafte heeft plaatsgevonden en of zulks een schending van een gedragsregel oplevert.
 
 2. Met betrekking tot een beklag als bedoeld in [artikel 80a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=IA&paragraaf=1&artikel=80a&z=2020-04-01&g=2020-04-01), wordt door de beklagmeerdere aan de hand van de door de commandant opgegeven motivering beoordeeld of de wijze van de tenuitvoerlegging als passend kan worden beschouwd.
 
-#### Artikel 80p
+##### Artikel 80p
 
 1. Na het sluiten van het onderzoek op beklag beslist de beklagmeerdere uiterlijk op de eerstvolgende werkdag.
 
@@ -756,7 +780,7 @@ Ten aanzien van de bewijsmiddelen zijn de bepalingen van paragraaf 5 van Titel I
 
 - b. indien enige andere vorm dan onder a bedoeld, is verzuimd en redelijkerwijs kan worden aangenomen dat de gestrafte daardoor in zijn verdediging is geschaad.
 
-#### Artikel 80q
+##### Artikel 80q
 
 1. De beslissing wordt vastgelegd in een schriftelijk stuk, de uitspraak op beklag. [Artikel 77](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=6&artikel=77&z=2020-04-01&g=2020-04-01) is van toepassing.
 
@@ -764,7 +788,7 @@ Ten aanzien van de bewijsmiddelen zijn de bepalingen van paragraaf 5 van Titel I
 
 3. Indien de uitspraak op beklag een verwijzing inhoudt wordt daarvan bij de uitreiking aan de gestrafte mededeling gedaan.
 
-#### Artikel 80r
+##### Artikel 80r
 
 1. De beklagprocedure eindigt met een beslissing als bedoeld in de [artikelen 80d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=IA&paragraaf=1&artikel=80d&z=2020-04-01&g=2020-04-01), of [80p, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=IA&paragraaf=2&artikel=80p&z=2020-04-01&g=2020-04-01).
 
@@ -778,13 +802,13 @@ Het feit dat de beklagprocedure van rechtswege is geëindigd, wordt vastgelegd i
 
 3. [Artikel 50, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=IV&artikel=50&z=2020-04-01&g=2020-04-01), is van overeenkomstige toepassing met dien verstande dat de beklagmeerdere is belast met de uitvoering.
 
-#### Artikel 80s
+##### Artikel 80s
 
 1. Nadat aan de gestrafte een afschrift van de uitspraak op beklag als bedoeld in [artikel 80p, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=IA&paragraaf=2&artikel=80p&z=2020-04-01&g=2020-04-01), is uitgereikt, zendt de commandant de uitspraak op beklag onverwijld naar het gerecht.
 
 2. Bij de behandeling en afdoening van het beklag na verwijzing zijn de bepalingen van paragraaf 2 van Titel II van overeenkomstige toepassing.
 
-#### Artikel 80t
+##### Artikel 80t
 
 Indien de tenuitvoerlegging van de opgelegde straf is opgeschort of geschorst, wordt, als de beslissing van de beklagmeerdere daartoe aanleiding geeft, de straf of het resterende deel van de straf zo spoedig mogelijk ten uitvoer gelegd.
 
@@ -792,7 +816,7 @@ Indien de tenuitvoerlegging van de opgelegde straf is opgeschort of geschorst, w
 
 #### § 1. Instelling van het beroep
 
-#### Artikel 81
+##### Artikel 81
 
 1. De gestrafte kan beroep instellen bij het gerecht, dat ingevolge de bepalingen van de [Wet militaire strafrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0004789) bevoegd zou zijn geweest, indien de desbetreffende gedraging een misdrijf zou hebben opgeleverd. Dit beroep wordt ingesteld binnen vijf dagen na de uitreiking:
 
@@ -806,7 +830,7 @@ Indien de tenuitvoerlegging van de opgelegde straf is opgeschort of geschorst, w
 
 4. Indien de beklagmeerdere een oordeel heeft gegeven over de wijze van tenuitvoerlegging als bedoeld in [het derde lid van artikel 80a](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=IA&paragraaf=1&artikel=80a&z=2020-04-01&g=2020-04-01), kan in beroep eveneens de wijze van tenuitvoerlegging van de straf van strafdienst of van uitgaansverbod aan het oordeel van het gerecht worden onderworpen.
 
-#### Artikel 82
+##### Artikel 82
 
 1. Het beroep wordt ingesteld bij beroepschrift, dat bij de commandant moet worden ingediend.
 
@@ -814,25 +838,25 @@ Indien de tenuitvoerlegging van de opgelegde straf is opgeschort of geschorst, w
 
 3. Indien het beroep is ingesteld door de beklagmeerdere, doet de commandant daarvan mededeling aan degene op wie de uitspraak betrekking heeft.
 
-#### Artikel 83
+##### Artikel 83
 
 Als dag van indiening geldt de dag van ontvangst van het beroepschrift door of namens de commandant. De dag van ontvangst wordt terstond op het beroepschrift aangetekend.
 
-#### Artikel 84
+##### Artikel 84
 
 Ten aanzien van een na afloop van de beroepstermijn ingediend beroepschrift blijft niet-ontvankelijkverklaring achterwege indien redelijkerwijs niet kan worden geoordeeld dat de indiener in verzuim is geweest. Een beslissing ter zake is gemotiveerd.
 
-#### Artikel 85
+##### Artikel 85
 
 Zodra het beroepschrift is ingediend, kan de voorzitter van de militaire kamer, bedoeld in [artikel 87](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=II&paragraaf=2&artikel=87&z=2020-04-01&g=2020-04-01), de tenuitvoerlegging van een straf van strafdienst of van uitgaansverbod opschorten of schorsen. Hiervan wordt aantekening gesteld op het beroepschrift.
 
-#### Artikel 86
+##### Artikel 86
 
 De griffier van het gerecht stelt zo spoedig mogelijk afschriften van het beroepschrift en van de op de zaak betrekking hebbende stukken ter beschikking van het openbaar ministerie.
 
 #### § 2. De behandeling en afdoening van het beroep
 
-#### Artikel 87
+##### Artikel 87
 
 1. Het beroep wordt zo spoedig mogelijk behandeld door een meervoudige militaire kamer bij het in [artikel 81](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=II&paragraaf=1&artikel=81&z=2020-04-01&g=2020-04-01) bedoelde gerecht.
 
@@ -840,7 +864,7 @@ De griffier van het gerecht stelt zo spoedig mogelijk afschriften van het beroep
 
 3. [Artikel 17, elfde lid, van de Wet militaire strafrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&artikel=17) is van overeenkomstige toepassing, met dien verstande dat de uitvoering van de overdracht geschiedt door de griffier.
 
-#### Artikel 88
+##### Artikel 88
 
 1. De oproeping van de gestrafte geschiedt door de griffier.
 
@@ -850,7 +874,7 @@ De griffier van het gerecht stelt zo spoedig mogelijk afschriften van het beroep
 
 4. Indien de gestrafte wederom niet verschijnt, kan het gerecht het beroep vervallen verklaren.
 
-#### Artikel 89
+##### Artikel 89
 
 1. Indien beroep is ingesteld door de beklagmeerdere worden deze en degene op wie de uitspraak betrekking heeft, door de griffier opgeroepen. De termijn van oproeping is tenminste zes dagen.
 
@@ -858,7 +882,7 @@ De griffier van het gerecht stelt zo spoedig mogelijk afschriften van het beroep
 
 3. Indien de beklagmeerdere wederom niet verschijnt, kan het gerecht het beroep vervallen verklaren.
 
-#### Artikel 90
+##### Artikel 90
 
 1. De voorzitter bepaalt welke getuigen en deskundigen zullen worden opgeroepen. [Artikel 65, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=4&artikel=65&z=2020-04-01&g=2020-04-01), is van overeenkomstige toepassing met dien verstande dat het verzoek tenminste drie dagen voor de behandeling dient te zijn binnengekomen.
 
@@ -870,11 +894,11 @@ De griffier van het gerecht stelt zo spoedig mogelijk afschriften van het beroep
 
 5. [Artikel 65, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=4&artikel=65&z=2020-04-01&g=2020-04-01), is van toepassing.
 
-#### Artikel 91
+##### Artikel 91
 
 Het openbaar ministerie kan desgewenst bij de behandeling van het beroep zijn oordeel over de zaak kenbaar maken aan de militaire kamer.
 
-#### Artikel 92
+##### Artikel 92
 
 1. De gestrafte kan zich bij de behandeling van zijn beroep doen bijstaan door een vertrouwensman.
 
@@ -890,7 +914,7 @@ Het openbaar ministerie kan desgewenst bij de behandeling van het beroep zijn oo
 
 7. De voorgaande bepalingen zijn van overeenkomstige toepassing op degene op wie de uitspraak betrekking heeft, indien het beroep is ingesteld door de beklagmeerdere.
 
-#### Artikel 93
+##### Artikel 93
 
 1. De behandeling van het beroep geschiedt ter openbare terechtzitting. De voorzitter heeft de leiding van de behandeling. Hij kan op verzoek van de gestrafte, de commandant of de beklagmeerdere, of om redenen aan de openbare orde ontleend gelasten dat de behandeling achter gesloten deuren plaatsvindt.
 
@@ -900,7 +924,7 @@ Het openbaar ministerie kan desgewenst bij de behandeling van het beroep zijn oo
 
 4. Na sluiting van het onderzoek beraadt de militaire kamer zich of zij door de inhoud van de in het derde lid genoemde bewijsmiddelen de overtuiging heeft gekregen dat een in de beschuldiging omschreven gedraging van de gestrafte heeft plaatsgevonden en, in bevestigend geval, of zulks de schending van een gedragsregel oplevert.
 
-#### Artikel 94
+##### Artikel 94
 
 1. De militaire kamer kan een verhoor schriftelijk doen geschieden dan wel de ondervraging opdragen aan een van haar leden of aan een opsporingsambtenaar.
 
@@ -910,7 +934,7 @@ Het openbaar ministerie kan desgewenst bij de behandeling van het beroep zijn oo
 
 4. Van de reden van de beëdiging als bedoeld in het tweede lid wordt in het proces-verbaal melding gemaakt.
 
-#### Artikel 95
+##### Artikel 95
 
 1. Het gerecht beslist uiterlijk 14 dagen na afloop van de behandeling van het beroep in een schriftelijke, met redenen omklede uitspraak.
 
@@ -918,13 +942,13 @@ Het openbaar ministerie kan desgewenst bij de behandeling van het beroep zijn oo
 
 3. Een afschrift van de uitspraak wordt toegezonden aan de commandant, de beklagmeerdere, en aan Onze Minister van Defensie.
 
-#### Artikel 96
+##### Artikel 96
 
 1. Het gerecht verklaart zich onbevoegd van het beroep kennis te nemen, verklaart het beroep niet ontvankelijk, of bevestigt de beslissing waartegen beroep is ingesteld, zonodig met verbetering of aanvulling daarvan, of doet de zaak af met gehele of gedeeltelijke vernietiging van die beslissing.
 
 2. Indien een beroep is ingesteld als bedoeld in [artikel 81, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=II&paragraaf=1&artikel=81&z=2020-04-01&g=2020-04-01), verklaart het gerecht bij gemotiveerde beslissing dit beroep geheel of gedeeltelijk gegrond of ongegrond.
 
-#### Artikel 97
+##### Artikel 97
 
 De beslissing waartegen beroep is ingesteld wordt vernietigd:
 
@@ -932,25 +956,25 @@ De beslissing waartegen beroep is ingesteld wordt vernietigd:
 
 - b. indien enige andere vorm dan onder **a** bedoeld, is verzuimd en redelijkerwijs kan worden aangenomen dat de gestrafte daardoor in zijn verdediging is geschaad.
 
-#### Artikel 98
+##### Artikel 98
 
 Indien bij de beslissing in beroep een reeds geheel of gedeeltelijk tenuitvoergelegde straf van strafdienst of van uitgaansverbod wordt tenietgedaan of verminderd, of een beroep als bedoeld in [artikel 81, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=II&paragraaf=1&artikel=81&z=2020-04-01&g=2020-04-01), geheel of gedeeltelijk gegrond wordt verklaard, bepaalt het gerecht, volgens bij of krachtens algemene maatregel van Rijksbestuur te stellen regelen, op welke wijze het door de gestrafte geleden nadeel zal worden hersteld.
 
-#### Artikel 99
+##### Artikel 99
 
 Indien de tenuitvoerlegging van de opgelegde straf is opgeschort of geschorst, wordt, als de beslissing van het gerecht daartoe aanleiding geeft, de straf of het resterende deel van de straf zo spoedig mogelijk ten uitvoer gelegd.
 
-#### Artikel 100
+##### Artikel 100
 
 Tegen de beslissing in beroep staat geen verdere voorziening open, onverminderd de bevoegdheid van de Procureur-Generaal bij de Hoge Raad om zich in het belang der wet in cassatie te voorzien.
 
-#### Artikel 101
+##### Artikel 101
 
 Indien het beroep is ingesteld bij een mobiele rechtbank, is het bepaalde in deze paragraaf omtrent de militaire kamer van overeenkomstige toepassing.
 
 ### Hoofdstuk VI. Dwangmiddelen
 
-#### Artikel 102
+##### Artikel 102
 
 1. In geval van ontdekking op heterdaad is, indien bijzondere omstandigheden dat onverwijld vorderen, iedere meerdere bevoegd degene die wordt verdacht van de schending van een gedragsregel aan te houden en hem naar een plaats van verhoor te geleiden. [Artikel 128 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=128) is van overeenkomstige toepassing.
 
@@ -958,7 +982,7 @@ Indien het beroep is ingesteld bij een mobiele rechtbank, is het bepaalde in dez
 
 3. Indien de meerdere de plaats van aanhouding niet terstond kan verlaten, is hij bevoegd van iedere mindere te vorderen voor de geleiding zorg te dragen.
 
-#### Artikel 103
+##### Artikel 103
 
 1. De commandant is bevoegd een geschrift als bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=II&paragraaf=8&artikel=30&z=2020-04-01&g=2020-04-01) of [31](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=II&paragraaf=8&artikel=31&z=2020-04-01&g=2020-04-01), dan wel een ander voorwerp waarvan hij redelijkerwijs mag aannemen dat het tot bewijs kan dienen van de schending van een gedragsregel, in te nemen of te doen innemen.
 
@@ -982,7 +1006,7 @@ Indien het beroep is ingesteld bij een mobiele rechtbank, is het bepaalde in dez
 
 5. Het in het eerste lid bedoelde geschrift of voorwerp wordt op de wijze te bepalen bij algemene maatregel van Rijksbestuur gedurende zes maanden ter beschikking gehouden van de rechthebbende. Is teruggave alsdan niet mogelijk gebleken dan wordt het geschrift of voorwerp vernietigd.
 
-#### Artikel 104
+##### Artikel 104
 
 1. Over de inneming van een geschrift of voorwerp als bedoeld in [artikel 103](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=VI&artikel=103&z=2020-04-01&g=2020-04-01) kan de rechthebbende zich binnen 5 dagen schriftelijk beklagen bij de voorzitter van de militaire kamer als bedoeld in [artikel 87](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=II&paragraaf=2&artikel=87&z=2020-04-01&g=2020-04-01).
 
@@ -998,7 +1022,7 @@ Indien het beroep is ingesteld bij een mobiele rechtbank, is het bepaalde in dez
 
 ### Hoofdstuk VII. Krijgsgevangenen en geïnterneerde personen
 
-#### Artikel 105
+##### Artikel 105
 
 Onverminderd de bepalingen van het Verdrag van Genève betreffende de behandeling van krijgsgevangenen, van 12 augustus 1949, is deze rijkswet, met uitzondering van [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=III&z=2020-04-01&g=2020-04-01), van overeenkomstige toepassing op krijgsgevangenen en andere geïnterneerde personen die ingevolge [artikel 65 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=65) gedeeltelijk met Nederlandse militairen zijn gelijkgesteld, met dien verstande dat:
 
@@ -1012,11 +1036,11 @@ Onverminderd de bepalingen van het Verdrag van Genève betreffende de behandelin
 
 ### Hoofdstuk VIII. Slotbepalingen
 
-#### Artikel 106
+##### Artikel 106
 
 De Wet op de Krijgstucht wordt ingetrokken, behoudens het bepaalde in de volgende artikelen.
 
-#### Artikel 107
+##### Artikel 107
 
 1. De op het tijdstip van inwerkingtreden van deze Rijkswet bij de ingevolge de artikelen 39-43 van de Wet op de Krijgstucht tot straffen bevoegde autoriteiten, of bij de ingevolge artikel 61 van die wet tot behandeling van een beklag bevoegde meerdere, aanhangige zaken betreffende krijgstuchtelijke vergrijpen als bedoeld in artikel 2 van die wet, worden behandeld en afgedaan op de wijze, als bepaald in die wet, door die autoriteit onderscheidenlijk meerdere. Andere straffen dan die voorzien bij deze wet kunnen niet worden opgelegd.
 
@@ -1024,7 +1048,7 @@ De Wet op de Krijgstucht wordt ingetrokken, behoudens het bepaalde in de volgend
 
 3. Zaken betreffende de inroeping van een eindbeslissing ingevolge artikel 67 van de Wet op de Krijgstucht, die op het tijdstip van inwerkingtreden van deze Rijkswet bij het Hoog Militair Gerechtshof aanhangig zijn, worden in de stand waarin zij zich bevinden overgedragen aan het gerecht dat uit hoofde van [artikel 81 van deze Rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=II&paragraaf=1&artikel=81&z=2020-04-01&g=2020-04-01) bevoegd is het beroep inzake tuchtrechtelijke uitspraken te behandelen, en door dat gerecht behandeld en afgedaan.
 
-#### Artikel 108
+##### Artikel 108
 
 1. Tegen beslissingen van het Hoog Militair Gerechtshof, genomen ingevolge artikel 67 van de Wet op de Krijgstucht, die op het tijdstip van inwerkingtreden van deze Rijkswet nog niet onherroepelijk zijn geworden en waartegen nog geen beroep in cassatie is ingesteld, kan binnen 14 dagen na de uitspraak zulk beroep worden ingesteld op de wijze als voorgeschreven voor het instellen van cassatie tegen arresten van het gerechtshof Arnhem-Leeuwarden.
 
@@ -1032,19 +1056,19 @@ De Wet op de Krijgstucht wordt ingetrokken, behoudens het bepaalde in de volgend
 
 3. In de zaken, waarin toepassing is gegeven aan [artikel 107, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=VIII&artikel=107&z=2020-04-01&g=2020-04-01), van deze Rijkswet, voorzover deze een strafbaar feit betreffen, blijven de bepalingen van de Rijkswet van 22 februari 1979 (**Stb.** 69) tot invoering van de rechtsmiddelen van cassatie, cassatie in het belang der wet en herziening in het militair strafprocesrecht op de beslissing van het gerecht van kracht. Het voorgaande lid is van overeenkomstige toepassing.
 
-#### Artikel 109
+##### Artikel 109
 
 De krijgstuchtelijke straffen, op grond van de Wet op de Krijgstucht opgelegd voor het tijdstip van inwerkingtreden van deze Rijkswet, of met toepassing van [artikel 107, eerste lid, van deze Rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=VIII&artikel=107&z=2020-04-01&g=2020-04-01) opgelegd, worden ten uitvoer gelegd op de wijze als bij of krachtens die wet bepaald.
 
-#### Artikel 110
+##### Artikel 110
 
 De [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) (wet van 25 juli 1964, **Stb.** 314) is van toepassing.
 
-#### Artikel 111
+##### Artikel 111
 
 Deze Rijkswet kan worden aangehaald als "Wet militair tuchtrecht".
 
-#### Artikel 112
+##### Artikel 112
 
 Deze Rijkswet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 

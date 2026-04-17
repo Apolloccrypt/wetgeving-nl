@@ -1,18 +1,43 @@
 ---
 title: "Regeling verpleegkundige dagopvang en verblijf bij medische kindzorg"
 identifier: "BWBR0051203"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051203"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051203"
+soort: "zbo"
+stam_id: "17465133"
+version_id: "30802662"
+internal_id: "C44147531"
+label_id: "17367464"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051203/2026-01-01/0"
+intitule_bron: "Stcrt.2025-23039"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-06-17"
+intitule_published: "2025-07-08"
+intitule_in_force: "2025-07-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-23039"
+original_signed_date: "2025-06-17"
+original_published_date: "2025-07-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-23039"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051203&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051203&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2025-06-17"
+entry_into_force: "2026-01-01"
 ---
-
 # Regeling verpleegkundige dagopvang en verblijf bij medische kindzorg
 
 Gelet op [artikel 36, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=36), [37 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=37) en [38 derde lid, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=38) (Wmg), is de Nederlandse Zorgautoriteit (NZa) bevoegd tot het stellen van regels op het gebied van verpleegkundige dagopvang en verblijf bij medische kindzorg.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt, tenzij anders vermeld, verstaan onder:
 
@@ -34,7 +59,7 @@ In deze regeling wordt, tenzij anders vermeld, verstaan onder:
 
 - **Algemeen gegevensbeheer code (AGB-code):** Unieke code die aan iedere zorgaanbieder wordt toegekend, waarmee deze kan worden geïdentificeerd.
 
-#### Artikel 2. Doel van de regeling
+##### Artikel 2. Doel van de regeling
 
 Deze regeling beoogt voorschriften te stellen voor verpleegkundige dagopvang of verblijfszorg bij kinderen met een medische zorgvraag over:
 
@@ -44,11 +69,11 @@ Deze regeling beoogt voorschriften te stellen voor verpleegkundige dagopvang of 
 
 - –. declaratiewijze.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze regeling is van toepassing op zorgaanbieders die medische kindzorg en daarmee gepaard gaand verblijf leveren waarop aanspraak bestaat op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) (Zvw), en waarbij deze zorg wordt geleverd door een rechtspersoonlijkheid bezittend organisatorisch verband ten behoeve van verpleegkundige dagopvang of verblijfszorg.
 
-#### Artikel 4. Registratievoorschriften
+##### Artikel 4. Registratievoorschriften
 
 1. De registratie van de prestaties en tarieven in de administratie van de zorgaanbieder is volledig, juist en actueel.
 
@@ -56,11 +81,11 @@ Deze regeling is van toepassing op zorgaanbieders die medische kindzorg en daarm
 
 3. Bij dagopvang wordt het tijdstip van aankomst en vertrek en de betreffende datum geregistreerd.
 
-#### Artikel 5. Administratievoorschriften
+##### Artikel 5. Administratievoorschriften
 
 De administratieve organisatie is zodanig ingericht dat een audit-trail mogelijk is. De ziektekostenverzekeraar en de NZa moeten te allen tijde de mogelijkheid hebben om vastlegging van de uitgevoerde behandeltrajecten op volledigheid, juistheid en actualiteit te controleren.
 
-#### Artikel 6. Declaratievoorschriften
+##### Artikel 6. Declaratievoorschriften
 
 1. De prestaties als bedoeld in de Beleidsregel verpleegkundige dagopvang en verblijf bij medische kindzorg worden niet eerder in rekening gebracht dan nadat de zorg geleverd is.
 
@@ -70,11 +95,11 @@ De administratieve organisatie is zodanig ingericht dat een audit-trail mogelijk
 
 4. Indien sprake is van onderlinge dienstverlening mag de zorgaanbieder die de (deel)prestatie levert deze uitsluitend in rekening brengen aan de opdrachtgevende zorgaanbieder. De opdrachtgevende zorgaanbieder declareert de prestatie (vermeld onder artikel 4.1 en 4.2 van de Beleidsregel verpleegkundige dagopvang en verblijf bij medische kindzorg) bij de patiënt of diens ziektekostenverzekeraar. De uitvoerende zorgaanbieder(s) lever(t)(en) aan de opdrachtgevende zorgaanbieder de daarvoor benodigde persoonsgegevens aan.
 
-#### Artikel 7. Verplichting
+##### Artikel 7. Verplichting
 
 De verplichtingen als genoemd in deze regeling zijn van toepassing op het moment dat sprake is van levering van de prestaties, genoemd in de Beleidsregel verpleegkundige dagopvang en verblijf bij medische kindzorg.
 
-#### Artikel 8. Verantwoordelijkheid
+##### Artikel 8. Verantwoordelijkheid
 
 1. De zorgaanbieder is verantwoordelijk voor de goede opvolging van de in deze regeling genoemde bepalingen.
 
@@ -84,11 +109,11 @@ De verplichtingen als genoemd in deze regeling zijn van toepassing op het moment
 
 4. Bij onderlinge dienstverlening draagt de opdrachtgevende zorgaanbieder zorg voor de uitvoering van de in deze regeling genoemde bepalingen.
 
-#### Artikel 9. Intrekken oude regeling
+##### Artikel 9. Intrekken oude regeling
 
 Gelijktijdig met de inwerkingtreding van deze regeling wordt de [Regeling verpleegkundige dagopvang en verblijf bij intensieve kindzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0042356), met kenmerk NR/REG-2003, ingetrokken.
 
-#### Artikel 10. Toepasselijkheid voorgaande beleidsregel, bekendmaking, inwerkingtreding en citeertitel
+##### Artikel 10. Toepasselijkheid voorgaande beleidsregel, bekendmaking, inwerkingtreding en citeertitel
 
 De [Regeling verpleegkundige dagopvang en verblijf bij intensieve kindzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0042356), met kenmerk NR/REG-2003, blijft van toepassing op gedragingen (handelen en nalaten) van zorgaanbieders die onder de werkingssfeer van die regeling vielen en die zijn aangevangen – en al dan niet beëindigd – in de periode dat die regeling gold.
 

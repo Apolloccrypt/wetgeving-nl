@@ -1,13 +1,35 @@
 ---
 title: "Reglement commissie toetsing rechtsbijstandverlening"
 identifier: "BWBR0042086"
-categorie: "Sociaal recht"
-publicatiedatum: 2019-04-02
-laatste_update: 2019-04-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042086"
+country: "nl"
+rank: "zbo"
+publication_date: "2019-04-02"
+last_updated: "2019-04-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042086"
+soort: "zbo"
+stam_id: "15045603"
+version_id: "25781142"
+internal_id: "C36759891"
+label_id: "14995014"
+dtd_version: "2.0"
+original_entry_into_force: "2019-04-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042086/2019-04-02/0"
+intitule_bron: "Stcrt.2019-17452"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2019-04-02"
+intitule_in_force: "2019-04-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-17452"
+original_published_date: "2019-04-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-17452"
+entry_into_force_date: "2019-04-02"
+jci_1_3: "jci1.3:c:BWBR0042086&z=2019-04-02&g=2019-04-02"
+jci_1_0: "1.0:c:BWBR0042086&g=2019-04-02"
+citeertitel_status: "officieel"
+entry_into_force: "2019-04-02"
 ---
-
 # Reglement commissie toetsing rechtsbijstandverlening
 
 In aanmerking nemend de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=8), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=15) en [17 van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=17) en het [Maatregelbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0042090);
@@ -16,17 +38,17 @@ Overwegende, dat het wenselijk is de wijze waarop een per geval in te stellen on
 
 Stelt het volgende Reglement vast.
 
-#### Artikel 1
+##### Artikel 1
 
 Het bestuur van de Raad voor Rechtsbijstand (hierna: de Raad) kan naar aanleiding van hem bekend geworden feiten en omstandigheden besluiten de werkzaamheden van een bepaalde rechtsbijstandverlener op zorgvuldigheid en doelmatigheid te onderzoeken. Dit onderzoek ziet in beginsel op de rechtsbijstand die de betrokken rechtsbijstandverlener in een bepaalde periode in het algemeen heeft verleend, maar kan ook betrekking hebben op de aan een specifieke rechtzoekende verleende rechtsbijstand.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Indien de Raad het voornemen heeft een onderzoek in te stellen, informeert de Raad de betrokken rechtsbijstandverlener hierover, waarbij hij toelicht welke feiten en omstandigheden hebben geleid tot dit voornemen.
 
 2. De rechtsbijstandverlener wordt geïnformeerd over de wijze waarop het onderzoek zal plaatsvinden.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het onderzoek wordt verricht door een commissie bestaande uit 3 advocaten. Deze commissie wordt door de Raad benoemd voor de duur van het onderzoek naar een bepaalde rechtsbijstandverlener.
 
@@ -34,7 +56,7 @@ Het bestuur van de Raad voor Rechtsbijstand (hierna: de Raad) kan naar aanleidin
 
 3. Alle leden van de commissie zijn in de uitoefening van hun taak in het kader van het onderzoek onafhankelijk en functioneren zonder last of ruggespraak.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De commissie wordt administratief ondersteund door een secretaris, die in dienst is van de Raad.
 
@@ -42,15 +64,15 @@ Het bestuur van de Raad voor Rechtsbijstand (hierna: de Raad) kan naar aanleidin
 
 3. De secretaris is geen lid van de commissie en neemt geen deel aan de besluitvorming.
 
-#### Artikel 5
+##### Artikel 5
 
 Een lid van de commissie kan zich verschonen op grond van feiten of omstandigheden, die zijn onpartijdigheid zouden kunnen aantasten.
 
-#### Artikel 6
+##### Artikel 6
 
 De leden van de commissie en de secretaris zijn verplicht tot geheimhouding van gegevens die zij bij de uitvoering van hun taak tot hun beschikking krijgen en waarvan zij het vertrouwelijke karakter kennen of redelijkerwijs kunnen vermoeden.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het onderzoek zal in beginsel vijftien recente en afgeronde dossiers, omvatten. De dossiers worden getrokken aan de hand van de lijst van door de Raad vastgestelde toevoegingen. Deze dossiers betreffen in beginsel verschillende rechtzoekenden, tenzij het onderzoek zich richt op de rechtsbijstandverlening aan een specifieke rechtzoekende.
 
@@ -58,7 +80,7 @@ De leden van de commissie en de secretaris zijn verplicht tot geheimhouding van 
 
 3. De commissie vraagt de rechtsbijstandverlener de volledige, bij de getrokken toevoegingen behorende dossiers klaar te leggen. Het onderzoek vindt in beginsel plaats op het kantoor van de rechtsbijstandverlener.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Indien de rechtsbijstandverlener weigert mee te werken aan het onderzoek, daaronder begrepen de weigering de leden van de commissie tot het kantoor toe te laten, meldt de commissie dit aan de Raad.
 
@@ -68,7 +90,7 @@ De leden van de commissie en de secretaris zijn verplicht tot geheimhouding van 
 
 4. Volharding in de weigering leidt in beginsel tot doorhaling van de inschrijving op grond van [artikel 17, tweede lid, onder a, van de Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=17).
 
-#### Artikel 9
+##### Artikel 9
 
 1. De commissieleden bestuderen ieder 5 van de opgevraagde dossiers. Zij leggen hun bevindingen vast in een gezamenlijke rapportage.
 
@@ -78,17 +100,17 @@ De leden van de commissie en de secretaris zijn verplicht tot geheimhouding van 
 
 4. De commissie zendt de uitkomst van het onderzoek aan de rechtsbijstandverlener. De rechtsbijstandverlener wordt in de gelegenheid gesteld binnen vier weken schriftelijk hierop te reageren.
 
-#### Artikel 10
+##### Artikel 10
 
 De commissie zendt binnen twee weken na ontvangst van de reactie van de rechtsbijstandverlener haar definitieve uitkomst van het onderzoek aan de Raad. De commissie kan de termijn verlengen met twee weken.
 
 De commissie stuurt de rechtsbijstandverlener een afschrift van de uitkomst van het onderzoek.
 
-#### Artikel 11
+##### Artikel 11
 
 De Raad beslist hierna binnen vier weken of hij voornemens is om een maatregel in het kader van het [Maatregelbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0042090) op te leggen.
 
-#### Artikel 12
+##### Artikel 12
 
 Dit reglement wordt aangehaald als: Reglement commissie toetsing rechtsbijstandverlening.
 

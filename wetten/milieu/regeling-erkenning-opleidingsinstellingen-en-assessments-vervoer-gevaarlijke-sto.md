@@ -1,13 +1,39 @@
 ---
-title: "Regeling erkenning opleidingsinstellingen en assessments vervoer gevaarlijke stoffen door de lucht"
+title: "Regeling van de Minister van Infrastructuur en Waterstaat, van 17 februari 2023, nr. IENW/BSK-2023/14107, houdende vaststelling van regels met betrekking tot de erkenning van opleidingsinstellingen en het afnemen van assessments inzake het vervoer van gevaarlijke stoffen door de lucht en enkele overige bepalingen (Regeling erkenning opleidingsinstellingen en assessments vervoer gevaarlijke stoffen door de lucht)"
 identifier: "BWBR0047902"
-categorie: "Milieu"
-publicatiedatum: 2023-06-13
-laatste_update: 2023-06-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047902"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-06-13"
+last_updated: "2023-06-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047902"
+soort: "ministeriele-regeling"
+stam_id: "16680893"
+version_id: "29260892"
+internal_id: "C41661391"
+label_id: "16598614"
+dtd_version: "2.0"
+original_entry_into_force: "2023-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047902/2023-06-13/0"
+intitule_bron: "Stcrt.2023-5346"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-02-17"
+intitule_published: "2023-02-22"
+intitule_in_force: "2023-02-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-5346"
+original_signed_date: "2023-02-17"
+original_published_date: "2023-02-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-5346"
+entry_into_force_date: "2023-04-01"
+jci_1_3: "jci1.3:c:BWBR0047902&z=2023-06-13&g=2023-06-13"
+jci_1_0: "1.0:c:BWBR0047902&g=2023-06-13"
+citeertitel_status: "officieel"
+short_title: "Regeling erkenning opleidingsinstellingen en assessments vervoer gevaarlijke stoffen door de lucht"
+signed_date: "2023-02-17"
+entry_into_force: "2023-04-01"
 ---
-
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 17 februari 2023, nr. IENW/BSK-2023/14107, houdende vaststelling van regels met betrekking tot de erkenning van opleidingsinstellingen en het afnemen van assessments inzake het vervoer van gevaarlijke stoffen door de lucht en enkele overige bepalingen (Regeling erkenning opleidingsinstellingen en assessments vervoer gevaarlijke stoffen door de lucht)
 
 Gelet op de [artikelen 6.55, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=6.55), en [6.56, derde lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=6.56);
@@ -16,7 +42,7 @@ BESLUIT:
 
 ### Hoofdstuk 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -32,11 +58,11 @@ In deze regeling wordt verstaan onder:
 
 #### § 2.1. Aanvraag van een erkenning
 
-#### Artikel 2
+##### Artikel 2
 
 Een erkenning wordt aangevraagd door elektronische of schriftelijke indiening bij de minister van een volledig ingevuld en ondertekend aanvraagformulier.
 
-#### Artikel 3
+##### Artikel 3
 
 De aanvraag voor een erkenning gaat vergezeld van:
 
@@ -54,7 +80,7 @@ De aanvraag voor een erkenning gaat vergezeld van:
 
 #### § 2.2. Verlening van een erkenning
 
-#### Artikel 4
+##### Artikel 4
 
 De minister verleent een erkenning indien de aanvrager:
 
@@ -66,11 +92,11 @@ De minister verleent een erkenning indien de aanvrager:
 
 - d. wat betreft de assessments voldoet aan de eisen bedoeld in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&hoofdstuk=3&z=2023-06-13&g=2023-06-13) van deze regeling.
 
-#### Artikel 5
+##### Artikel 5
 
 Van een erkenning geeft de minister een bewijs af waarop is aangegeven voor welke opleiding de erkenning is afgegeven.
 
-#### Artikel 6
+##### Artikel 6
 
 Op de website van de Inspectie Leefomgeving en Transport wordt een overzicht van de afgegeven erkenningen gepubliceerd, met daarbij de volgende gegevens:
 
@@ -80,7 +106,7 @@ Op de website van de Inspectie Leefomgeving en Transport wordt een overzicht van
 
 #### § 2.3. Wijziging van een erkenning
 
-#### Artikel 7
+##### Artikel 7
 
 1. De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2023-06-13&g=2023-06-13) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2023-06-13&g=2023-06-13) zijn van toepassing op een wijziging van een erkenning, met dien verstande dat kan worden volstaan met de gegevens die voor de aangevraagde wijziging relevant zijn.
 
@@ -90,7 +116,7 @@ Op de website van de Inspectie Leefomgeving en Transport wordt een overzicht van
 
 #### § 3.1. Algemeen
 
-#### Artikel 8
+##### Artikel 8
 
 1. De assessments ter verkrijging van een certificaat als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&hoofdstuk=3&paragraaf=3.2&artikel=9&z=2023-06-13&g=2023-06-13), worden uitgevoerd conform de toetsmatrijs in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&bijlage=B&z=2023-06-13&g=2023-06-13).
 
@@ -102,19 +128,19 @@ Op de website van de Inspectie Leefomgeving en Transport wordt een overzicht van
 
 #### § 3.2. Certificaat
 
-#### Artikel 9
+##### Artikel 9
 
 1. Wanneer de kandidaat een assessment met goed gevolg heeft afgelegd, verstrekt de erkende opleidingsinstelling de kandidaat een certificaat inzake het vervoer van gevaarlijke stoffen door de lucht.
 
 2. Op het certificaat worden in ieder geval vermeld voor welke erkenning als bedoeld in [artikel 9 van het Besluit vervoer gevaarlijke stoffen door de lucht](https://wetten.overheid.nl/jci1.3:c:BWBR0013514&artikel=9), en voor welke taken en verantwoordelijkheden het certificaat is afgegeven, de behaalde score bij de assessments en de geldigheidsduur van het certificaat.
 
-#### Artikel 10
+##### Artikel 10
 
 Een certificaat als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&hoofdstuk=3&paragraaf=3.2&artikel=9&z=2023-06-13&g=2023-06-13) wordt afgegeven voor een periode van 24 maanden.
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 11
+##### Artikel 11
 
 1. Een erkenning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2023-06-13&g=2023-06-13) afgegeven vóór de inwerkingtreding van onderhavige regelingingevolge de [Regeling erkenning opleidingsinstellingen en examinering vervoer gevaarlijke stoffen door de lucht](https://wetten.overheid.nl/jci1.3:c:BWBR0014765), wordt geacht te zijn afgegeven conform deze regeling met dien verstande dat:
 
@@ -126,21 +152,21 @@ Een certificaat als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:B
 
 3. Een certificaat als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&hoofdstuk=3&paragraaf=3.2&artikel=9&z=2023-06-13&g=2023-06-13) dat zijn geldigheid niet heeft verloren, behoudt vanaf de inwerkingtreding van deze regeling zijn geldigheid voor zover gedurende die periode de geldigheidsduur overeenkomstig de voorwaarden waaronder het certificaat is afgegeven niet is verlopen, en voor zover aan hetgeen ingevolge de [Regeling erkenning opleidingsinstellingen en examinering vervoer gevaarlijke stoffen door de lucht](https://wetten.overheid.nl/jci1.3:c:BWBR0014765), zoals deze gold voor de inwerkingtreding van deze regeling, is voldaan.
 
-#### Artikel 12. Wijziging van de [Regeling erkenningen vervoer gevaarlijke stoffen door de lucht](https://wetten.overheid.nl/jci1.3:c:BWBR0014764)
+##### Artikel 12. Wijziging van de [Regeling erkenningen vervoer gevaarlijke stoffen door de lucht](https://wetten.overheid.nl/jci1.3:c:BWBR0014764)
 
 Wijzigt de Regeling erkenningen vervoer gevaarlijke stoffen door de lucht.
 
-#### Artikel 13
+##### Artikel 13
 
 De [Regeling erkenning opleidingsinstellingen en examinering vervoer gevaarlijke stoffen door de lucht](https://wetten.overheid.nl/jci1.3:c:BWBR0014765) wordt ingetrokken.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Deze regeling treedt in werking met ingang van 1 april 2023.
 
 2. In afwijking van het eerste lid treedt onderdeel IV van [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&bijlage=B&z=2023-06-13&g=2023-06-13) bij de Regeling erkenning opleidingsinstellingen en assessments vervoer gevaarlijke stoffen door de lucht in werking op het tijdstip waarop het Besluit tot wijziging van het Besluit vervoer gevaarlijke stoffen door de lucht in verband met de introductie van de D-erkenning inzake het vervoer van gevaarlijke stoffen door de lucht en enkele andere aanpassingen in werking treedt.
 
-#### Artikel 15
+##### Artikel 15
 
 Deze regeling wordt aangehaald als: Regeling erkenning opleidingsinstellingen en assessments vervoer gevaarlijke stoffen door de lucht.
 

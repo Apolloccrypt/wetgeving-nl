@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tot oprichting van een Europese Organisatie voor kernphysisch onderzoek"
 identifier: "BWBV0004885"
-categorie: "Internationaal recht"
-publicatiedatum: 1971-01-17
-laatste_update: 1971-01-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004885"
+country: "nl"
+rank: "verdrag"
+publication_date: "1971-01-17"
+last_updated: "1971-01-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004885"
+soort: "verdrag"
+stam_id: "10004362873"
+version_id: "10004564822"
+internal_id: "C10007263181"
+label_id: "10004347984"
+dtd_version: "2.0"
+original_entry_into_force: "1954-09-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004885/1971-01-17/0"
+intitule_bron: "Trb.1953-64"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1953-08-20"
+intitule_in_force: "1955-09-26"
+intitule_status: "goed"
+original_publication: "Trb.1953-64"
+original_published_date: "1953-08-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1953-64"
+entry_into_force_date: "1954-09-29"
+jci_1_3: "jci1.3:c:BWBV0004885&z=1971-01-17&g=1971-01-17"
+jci_1_0: "1.0:c:BWBV0004885&g=1971-01-17"
+citeertitel_status: "redactioneel"
+entry_into_force: "1954-09-29"
 ---
-
 # Verdrag tot oprichting van een Europese Organisatie voor kernphysisch onderzoek
 
 De Staten welke partij zijn bij dit Verdrag,
@@ -20,13 +42,13 @@ Verlangende ingevolge lid 2 van artikel III van genoemde Overeenkomst van 15 feb
 
 Zijn overeengekomen als volgt:
 
-#### Artikel I. Oprichting van de Organisatie
+##### Artikel I. Oprichting van de Organisatie
 
 1. Hierbij wordt een Europese Organisatie voor kernfysisch onderzoek (hierna te noemen „de Organisatie”) opgericht.
 
 2. De Organisatie is gevestigd te Genève, tenzij de in artikel IV genoemde Raad op een later tijdstip met een twee derde meerderheid van alle Lidstaten besluit de zetel van de Organisatie te verplaatsen naar de plaats waar een der andere in artikel II, lid 2, onder **a** bedoelde laboratoria is gevestigd.
 
-#### Artikel II. Doelstellingen
+##### Artikel II. Doelstellingen
 
 1. De Organisatie draagt zorg voor de samenwerking tussen de Europese Staten op het gebied van kernfysisch onderzoek van zuiver wetenschappelijke en fundamentele aard en onderzoekingen welke daar wezenlijk mee in verband staan. De Organisatie houdt zich niet bezig met werk voor militaire behoeften en de resultaten van haar proefondervindelijk en theoretisch werk worden gepubliceerd of op andere wijze voor iedereen toegankelijk gemaakt.
 
@@ -70,7 +92,7 @@ Zijn overeengekomen als volgt:
 
 Voor zover zulks in overeenstemming is met de doelstellingen van de Organisatie, trachten de Laboratoria dubbel werk te vermijden ten aanzien van de onderzoekingen welke in bedoelde laboratoria of instellingen worden verricht.
 
-#### Artikel III. Voorwaarden voor het lidmaatschap
+##### Artikel III. Voorwaarden voor het lidmaatschap
 
 1. Staten welke partij zijn bij de in de Preambule van dit Verdrag bedoelde Overeenkomst van 15 februari 1952, of welke in geld of in natura hebben bijgedragen tot de bij die Overeenkomst ingestelde Raad en daadwerkelijk aan het werk van de Raad hebben deelgenomen, hebben het recht lid te worden van de Organisatie door partij te worden bij dit Verdrag in overeenstemming met de bepalingen van de artikelen XV, XVI en XVII.
 
@@ -90,11 +112,11 @@ Voor zover zulks in overeenstemming is met de doelstellingen van de Organisatie,
 
 - b. van enige Lidstaat eist het verstrekken of doen verstrekken van in zijn eigen bezit zijnde inlichtingen voor zover hij van mening is, dat een zodanige verstrekking strijdig zou zijn met de belangen van zijn veiligheid.
 
-#### Artikel IV. Organen
+##### Artikel IV. Organen
 
 De Organisatie bestaat uit een Raad en, voor elk der Laboratoria, een Directeur-Generaal, die wordt bijgestaan door een staf.
 
-#### Artikel V. De Raad
+##### Artikel V. De Raad
 
 1. Van iedere Staat welke lid is van de Organisatie hebben niet meer dan twee afgevaardigden zitting in de Raad; tijdens zittingen van de Raad kunnen deze afgevaardigden zich doen vergezellen van adviseurs.
 
@@ -136,7 +158,7 @@ De Organisatie bestaat uit een Raad en, voor elk der Laboratoria, een Directeur-
 
 13. In afwachting van de nederlegging van de akten van bekrachtiging of van toetreding kunnen de in lid 1 van artikel III bedoelde Staten zich doen vertegenwoordigen op de bijeenkomsten van de Raad en deelnemen aan het werk van de Raad tot 31 december 1954. Dit recht omvat niet het stemrecht tenzij de betreffende Staat tot de Organisatie heeft bijgedragen in overeenstemming met de bepalingen van lid 1 van artikel 4 van het aan dit Verdrag gehechte Financieel Protocol.
 
-#### Artikel VI. Directeuren-Generaal en personeel
+##### Artikel VI. Directeuren-Generaal en personeel
 
 - a. De Raad benoemt, met een twee derde meerderheid van stemmen van alle Lidstaten, voor elk der Laboratoria een Directeur-Generaal voor een vastgesteld tijdvak; de Raad kan, eveneens met een twee derde meerderheid van stemmen van alle Lidstaten, de Directeur-Generaal ontslaan. Met betrekking tot het onder zijn leiding staande Laboratorium, is elke Directeur-Generaal de voornaamste uitvoerende persoon van de Organisatie en de wettelijke vertegenwoordiger van de Organisatie. Met betrekking tot het financieel bestuur van de Organisatie handelt hij overeenkomstig de bepalingen van het aan dit Verdrag gehechte Financieel Protocol. De Raad kan, met een twee derde meerderheid van alle Lidstaten, aan de Directeuren-Generaal, hetzij aan elk van hen afzonderlijk, hetzij hun tezamen, de bevoegdheid overdragen, in andere aangelegenheden namens de Organisatie op te treden. Elk der Directeuren-Generaal legt tevens een jaarverslag over aan de Raad en woont, zonder zelf stemrecht te hebben, alle vergaderingen van de Raad bij.
 
@@ -148,7 +170,7 @@ De Organisatie bestaat uit een Raad en, voor elk der Laboratoria, een Directeur-
 
 4. De verantwoordelijkheden van de Directeuren-Generaal, de staf en het personeel voor secretariaatswerkzaamheden ten aanzien van de Organisatie zullen uitsluitend van internationale aard zijn. Bij het uitoefenen van hun functie zullen zij geen instructies vragen aan, noch instructies ontvangen van, een bepaalde regering of een niet bij de Organisatie betrokken instantie. Alle Lid-staten zullen de internationale aard van de verantwoordelijkheden van de Directeuren-Generaal en de staf eerbiedigen, en niet trachten hen in de uitoefening van hun functie te beïnvloeden.
 
-#### Artikel VII. Financiële bijdragen
+##### Artikel VII. Financiële bijdragen
 
 1. Alle Lidstaten dragen bij in de kapitaalsuitgaven en in lopende bedrijfsonkosten van de Organisatie
 
@@ -172,15 +194,15 @@ De Organisatie bestaat uit een Raad en, voor elk der Laboratoria, een Directeur-
 
 6. Binnen de krachtens het bepaalde onder **a** van lid 1 van artikel VI aan hem overgedragen bevoegdheid, en met inachtneming van eventueel door de Raad te geven aanwijzingen, kan een Directeur-Generaal voor de Organisatie bestemde giften en legaten aanvaarden mits aan zodanige giften en legaten geen voorwaarden verbonden zijn welke onverenigbaar zijn met de doelstellingen van de Organisatie.
 
-#### Artikel VIII. Samenwerking met de UNESCO en met andere organisaties
+##### Artikel VIII. Samenwerking met de UNESCO en met andere organisaties
 
 De Organisatie werkt samen met de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur. Zij kan, na een met een meerderheid van twee derde van alle Lidstaten genomen beslissing van de Raad, ook samenwerken met andere organisaties en instellingen.
 
-#### Artikel IX. Status
+##### Artikel IX. Status
 
 De Organisatie bezit rechtspersoonlijkheid op het grondgebied van het moederland van alle Lidstaten. Aan de Organisatie en de vertegenwoordigers van Lidstaten in de Raad, de leden van de krachtens lid 12 van artikel V ingestelde hulporganen, de Directeuren-Generaal en de leden van het personeel van de Organisatie worden op het grondgebied van het moederland van de Lidstaten krachtens tussen de Organisatie en elke betreffende Staat welke lid is van de Organisatie te sluiten overeenkomsten, eventueel die voorrechten en immuniteiten toegekend welke naar hun mening nodig zijn voor de uitoefening van de functies van de Organisatie. De overeenkomsten te sluiten tussen de Organisatie en de Lidstaten op wier grondgebied de Laboratoria van de Organisatie gevestigd zullen zijn, zullen behalve bepalingen betreffende voorrechten en immuniteiten, eveneens bepalingen bevatten ter regeling van de speciale verhoudingen tussen de Organisatie en die Lidstaten.
 
-#### Artikel X. Wijzigingen
+##### Artikel X. Wijzigingen
 
 1. De Raad kan aan de Lidstaten wijzigingen aanbevelen van dit Verdrag. Iedere Staat welke lid is van de Organisatie en welke een wijziging wil voorstellen, doet daarvan mededeling aan de President van de Raad. Uiterlijk drie maanden voor een zodanig voorstel door de Raad wordt besproken, stelt de President alle Lidstaten in kennis van de hem meegedeelde wijziging.
 
@@ -188,39 +210,39 @@ De Organisatie bezit rechtspersoonlijkheid op het grondgebied van het moederland
 
 3. De Raad kan met een twee derde meerderheid van alle Lidstaten het aan dit Verdrag gehechte Financieel Protocol wijzigen mits een zodanige wijziging niet strijdig is met het Verdrag. Elke zodanige wijziging wordt van kracht op een door de Raad met dezelfde meerderheid van stemmen te bepalen datum. De President van de Raad stelt alle Lidstaten, alsmede de Directeur-Generaal van de Organisatie van de Verenigde Naties voor Onderwijs, Wetenschap en Cultuur, van een zodanige wijziging in kennis alsmede van de datum waarop zij van kracht wordt.
 
-#### Artikel XI. Geschillen
+##### Artikel XI. Geschillen
 
 Ieder geschil tussen twee of meer Lidstaten betreffende de uitlegging of toepassing van dit Verdrag dat niet beslecht wordt door de goede diensten van de Raad, wordt voorgelegd aan het Internationale Gerechtshof, tenzij de betrokken Lidstaten overeenstemming bereiken over een andere wijze van beslechting.
 
-#### Artikel XII. Terugtrekking
+##### Artikel XII. Terugtrekking
 
 Nadat dit Verdrag zeven jaar van kracht is geweest, kan een Lidstaat, met inachtneming van het bepaalde in lid 4 van artikel III, de President van de Raad er schriftelijk van in kennis stellen dat hij zich uit de Organisatie terugtrekt; een zodanige terugtrekking wordt van kracht; aan het einde van het boekjaar volgend op dat waarin van de terugtrekking kennis is gegeven, of op een daarvoor door de betrokken Lidstaat voorgesteld later tijdstip.
 
-#### Artikel XIII. Het niet-voldoen aan verplichtingen
+##### Artikel XIII. Het niet-voldoen aan verplichtingen
 
 Indien een Staat welke lid is van de Organisatie niet voldoet aan zijn uit dit Verdrag voortvloeiende verplichtingen, houdt hij op lid te zijn van de Organisatie krachtens een besluit van de Raad genomen met een twee derde meerderheid van alle Lidstaten.
 
-#### Artikel XIV. Ontbinding
+##### Artikel XIV. Ontbinding
 
 De Organisatie wordt ontbonden indien er op een bepaald ogenblik minder dan vijf Lidstaten zijn. De Organisatie kan te allen tijde worden ontbonden indien daaromtrent overeenstemming wordt bereikt door de Lidstaten. Met inachtneming van een eventuele overeenkomst welke ten tijde van de ontbinding tussen de Lidstaten gesloten kan worden, is de Staat op wiens grondgebied de Organisatie op dat ogenblik is gevestigd, belast met de afwikkeling, en het overschot zal worden verdeeld onder die Staten welke ten tijde van de ontbinding lid van de Organisatie zijn, in de verhouding van de daadwerkelijk door hen betaalde bijdragen vanaf de data waarop zij partij bij dit Verdrag zijn geworden. In het geval dat er een tekort mocht zijn, wordt dit door de Staten welke op dat ogenblik lid zijn van de Organisatie aangevuld, en wel in dezelfde verhouding als die van hun voor het op dat ogenblik lopende boekjaar vastgestelde bijdragen.
 
-#### Artikel XV. Ondertekening
+##### Artikel XV. Ondertekening
 
 Dit Verdrag en het daaraan gehechte Financieel Protocol dat daarvan een integrerend onderdeel is zal ter ondertekening worden opengesteld tot 31 december 1953 voor iedere Staat welke voldoet aan de in lid 1 van artikel III neergelegde voorwaarden.
 
-#### Artikel XVI. Bekrachtiging
+##### Artikel XVI. Bekrachtiging
 
 1. Dit Verdrag en het daaraan gehechte Financieel Protocol moeten worden bekrachtigd.
 
 2. De akten van bekrachtiging worden nedergelegd bij de Directeur-Generaal van de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur.
 
-#### Artikel XVII. Toetreding
+##### Artikel XVII. Toetreding
 
 1. Voor iedere Staat welke dit Verdrag niet heeft ondertekend en welke voldoet aan de in lid 1 of 2 van artikel III neergelegde voorwaarden, is het met ingang van 1 januari 1954 mogelijk, tot dit Verdrag en het Financieel Protocol toe te treden.
 
 2. De akten van toetreding worden nedergelegd bij de Directeur-Generaal van de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur.
 
-#### Artikel XVIII. Inwerkingtreding
+##### Artikel XVIII. Inwerkingtreding
 
 1. Dit Verdrag en het daaraan gehechte Financieel Protocol treden in werking wanneer zeven Staten ze hebben bekrachtigd of er toe zijn toegetreden mits
 
@@ -230,13 +252,13 @@ Dit Verdrag en het daaraan gehechte Financieel Protocol dat daarvan een integrer
 
 2. Dit Verdrag en het daaraan gehechte Financieel Protocol treden ten aanzien van alle andere ondertekenende of toetredende Staten inwerking bij de nederlegging van hun akte van bekrachtiging, respectievelijk toetreding.
 
-#### Artikel XIX. Mededelingen
+##### Artikel XIX. Mededelingen
 
 1. De Directeur-Generaal van de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur doet van de nederlegging van iedere akte van bekrachtiging of toetreding en het inwerkingtreden van dit Verdrag mededeling aan alle ondertekenende en toetredende Staten en aan alle andere Staten welke hebben deelgenomen aan de in december 1951 te Parijs en in februari 1952 te Genève gehouden Conferentie betreffende de organisatie van studies omtrent de instelling van een Europees Laboratorium voor kernfysisch onderzoek.
 
 2. De President van de Raad stelt alle Lidstaten en de Directeur-Generaal van de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur in kennis van iedere terugtrekking uit de Organisatie of beëindiging van het lidmaatschap.
 
-#### Artikel XX. Registratie
+##### Artikel XX. Registratie
 
 De Directeur-Generaal van de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur doet dit Verdrag bij zijn inwerkingtreding registreren bij de Secretaris-Generaal van de Verenigde Naties overeenkomstig [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
@@ -246,7 +268,7 @@ Verlangende voorzieningen te treffen voor de financiële administraties van geno
 
 Zijn overeengekomen als volgt:
 
-#### Artikel 1. Begroting
+##### Artikel 1. Begroting
 
 1. Het boekjaar van de Organisatie loopt van 1 januari tot 31 december.
 
@@ -254,11 +276,11 @@ Zijn overeengekomen als volgt:
 
 3. Ramingen van inkomsten en uitgaven zullen in algemene hoofdstukken worden verdeeld. Overboekingen binnen de begroting zijn niet toegestaan behalve met machtiging van de Financiële Commissie bedoeld in artikel 3. De nauwkeurige vorm van de ramingen wordt bepaald door de Financiële Commissie op advies van de Directeuren-Generaal.
 
-#### Artikel 2. Aanvullende begroting
+##### Artikel 2. Aanvullende begroting
 
 Indien de omstandigheden zulks nodig maken kan de Raad van een Directeur-Generaal verlangen dat deze aanvullende of herziene begrotingen indient. Een voorstel dat extra uitgaven met zich meebrengt, zal niet worden geacht te zijn goedgekeurd door de Raad, tenzij de Raad een door de bevoegde Directeur-Generaal ingediende raming van de extra uitgaven in kwestie heeft goedgekeurd.
 
-#### Artikel 3. Financiële Commissie
+##### Artikel 3. Financiële Commissie
 
 1. De ingevolge het bepaalde in lid 12 van artikel V van het Verdrag ingestelde Financiële Commissie is samengesteld uit vertegenwoordigers van alle Lidstaten.
 
@@ -266,7 +288,7 @@ Indien de omstandigheden zulks nodig maken kan de Raad van een Directeur-Generaa
 
 3. Deze Commissie onderzoekt de begrotingen der Directeuren-Generaal, waarna ze worden doorgezonden aan de Raad, vergezeld van het verslag dat de Commissie daarover heeft uitgebracht.
 
-#### Artikel 4. Bijdragen
+##### Artikel 4. Bijdragen
 
 1. Voor de periode welke eindigt op 31 december 1954 stelt de Raad voorlopige begrotingsregelingen vast, waarvan de kosten bestreden zullen worden uit bijdragen vastgesteld in overeenstemming met lid 1 van de Bijlage bij dit Protocol.
 
@@ -280,21 +302,21 @@ Indien de omstandigheden zulks nodig maken kan de Raad van een Directeur-Generaa
 
 - b. Elk der Directeuren-Generaal stelt daarna de Lidstaten in kennis van het bedrag van hun bijdragen en van de data waarop de betalingen dienen plaats te vinden.
 
-#### Artikel 5. Valuta waarin de bijdragen betaald moeten worden
+##### Artikel 5. Valuta waarin de bijdragen betaald moeten worden
 
 1. De begroting van de Organisatie wordt uitgedrukt in de valuta van het land waarin de Organisatie is gevestigd.
 
 2. De Raad stelt, met een twee derde meerderheid van alle Lidstaten, de betalingsregelingen vast, alsmede de valuta of de valuta's waarin de bijdragen van de Lidstaten dienen te worden betaald.
 
-#### Artikel 6. Bedrijfskapitaalfondsen
+##### Artikel 6. Bedrijfskapitaalfondsen
 
 De Raad kan bedrijfskapitaalfondsen instellen.
 
-#### Artikel 7. Financieel Reglement
+##### Artikel 7. Financieel Reglement
 
 Na overleg met de Financiële Commissie aanvaardt de Raad, met een twee derde meerderheid van alle Lidstaten, een reglement voor de financiële administratie van de Organisatie, dat het Financieel Reglement zal heten.
 
-#### Artikel 8. Boekhouding en controle
+##### Artikel 8. Boekhouding en controle
 
 1. Elk der Directeuren-Generaal houdt nauwkeurig aantekening van alle ontvangsten en uitgaven.
 
@@ -304,7 +326,7 @@ De accountants controleren de boeken van de Organisatie vooral met het doel na t
 
 3. Elk der Directeuren-Generaal verschaft de accountants al die inlichtingen en hulp welke zij voor het uitoefenen van hun functie nodig hebben.
 
-#### (1). Bijdragen voor de periode eindigende 31 December 1954.
+##### (1). Bijdragen voor de periode eindigende 31 December 1954.
 
 (a). De Staten welke partij zijn bij dit Verdrag op de datum van zijn inwerkingtreding en alle andere Staten welke tijdens de periode welke eindigt op 31 December 1954 lid worden van de Organisatie, dragen gezamenlijk het totaal der bedragen bij welke nodig zijn volgens de door de Raad krachtens lid 1 van Artikel 4 vastgestelde voorlopige begrotingsregelingen.
 
@@ -316,7 +338,7 @@ De accountants controleren de boeken van de Organisatie vooral met het doel na t
 
 (e). Indien alle Staten genoemd in de in lid (2) van deze Bijlage vermelde schaal, voor 31 December 1954 lid zijn geworden van de Organisatie, zullen hun bijdragen tot de totale begroting voor die periode bepaald worden door in die schaal genoemde percentages.
 
-#### (2). Schaal welke dient als basis voor de vaststelling van de bijdragen gedurende de periode welke eindigt op 31 December 1956.
+##### (2). Schaal welke dient als basis voor de vaststelling van de bijdragen gedurende de periode welke eindigt op 31 December 1956.
 
 | Percentage | Percentage |   |
 | --- | --- | --- |

@@ -1,13 +1,35 @@
 ---
 title: "Protocol Accountantsonderzoek 2014 CAK"
 identifier: "BWBR0035785"
-categorie: "Overig"
-publicatiedatum: 2014-11-24
-laatste_update: 2014-11-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035785"
+country: "nl"
+rank: "zbo"
+publication_date: "2014-11-24"
+last_updated: "2014-11-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035785"
+soort: "zbo"
+stam_id: "12849943"
+version_id: "21883902"
+internal_id: "C31406601"
+label_id: "12820044"
+dtd_version: "2.0"
+original_entry_into_force: "2014-11-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035785/2014-11-24/0"
+intitule_bron: "Stcrt.2014-32962"
+intitule_effect: "wijziging"
+intitule_published: "2014-11-24"
+intitule_in_force: "2014-11-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-32962"
+original_published_date: "2014-11-24"
+original_effect: "wijziging"
+original_url_id: "stcrt-2014-32962"
+entry_into_force_date: "2014-11-24"
+jci_1_3: "jci1.3:c:BWBR0035785&z=2014-11-24&g=2014-11-24"
+jci_1_0: "1.0:c:BWBR0035785&g=2014-11-24"
+citeertitel_status: "redactioneel"
+entry_into_force: "2014-11-24"
 ---
-
 # Protocol Accountantsonderzoek 2014 CAK
 
 ### 1. Inleiding

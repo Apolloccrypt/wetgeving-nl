@@ -1,13 +1,38 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Tunesië inzake sociale zekerheid"
 identifier: "BWBV0001838"
-categorie: "Sociaal recht"
-publicatiedatum: 2004-11-01
-laatste_update: 2004-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001838"
+country: "nl"
+rank: "verdrag"
+publication_date: "2004-11-01"
+last_updated: "2004-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001838"
+soort: "verdrag"
+stam_id: "10002543643"
+version_id: "10002532732"
+internal_id: "C10006980591"
+label_id: "10002533594"
+dtd_version: "2.0"
+original_entry_into_force: "1979-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001838/2004-11-01/0"
+intitule_bron: "Trb.1979-18"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1979-06-20"
+intitule_published: "1979-02-10"
+intitule_in_force: "1979-12-28"
+intitule_status: "goed"
+original_publication: "Trb.1979-18"
+original_signed_date: "1979-06-20"
+original_published_date: "1979-02-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1979-18"
+entry_into_force_date: "1979-12-01"
+jci_1_3: "jci1.3:c:BWBV0001838&z=2004-11-01&g=2004-11-01"
+jci_1_0: "1.0:c:BWBV0001838&g=2004-11-01"
+citeertitel_status: "redactioneel"
+signed_date: "1979-06-20"
+entry_into_force: "1979-12-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Tunesië inzake sociale zekerheid
 
 De Regering van het Koninkrijk der Nederlanden
@@ -22,7 +47,7 @@ Zijn het volgende overeengekomen:
 
 ## TITEL I. ALGEMENE BEPALINGEN
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -56,7 +81,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - o). „prestaties", „uitkeringen", „verstrekkingen", „pensioenen" of „renten": alle prestaties, uitkeringen, verstrekkingen, pensioenen of renten, met inbegrip van alle bedragen ten laste van de openbare middelen, verhogingen in verband met aanpassing aan het loon- of prijsniveau of aanvullende uitkeringen, alsmede uitkeringen ineens in plaats van een pensioen, krachtens de in artikel 2 genoemde wettelijke regelingen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Dit Verdrag is van toepassing:
 
@@ -94,33 +119,33 @@ Het is evenwel slechts van toepassing:
 
 3. Dit Verdrag is niet van toepassing op de sociale bijstand en evenmin op de bijzondere regelingen voor personen in overheidsdienst of met hen gelijkgestelden.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De bepalingen van dit Verdrag zijn van toepassing op de Nederlandse en Tunesische werknemers op wie de wetgeving van een der Verdragsluitende Partijen van toepassing is of geweest is, alsmede op hun gezinsleden en hun nagelaten betrekkingen, voor zover zij hun rechten ontlenen aan de verzekering van de werknemer.
 
 2. De bepalingen van dit Verdrag zijn niet van toepassing op diplomatieke en consulaire beroepsambtenaren, met inbegrip van kanselarijbeambten.
 
-#### Artikel 4
+##### Artikel 4
 
 Behoudens de bepalingen van dit Verdrag hebben de onderdanen van een Verdragsluitende Partij waarop dit Verdrag van toepassing is, de rechten en verplichtingen voortvloeiende uit de wetgeving van de andere Partij onder dezelfde voorwaarden als de onderdanen van deze Partij.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Tenzij in dit Verdrag anders wordt bepaald, worden de uitkeringen bij invaliditeit of ouderdom of de uitkeringen aan nabestaanden, de renten bij arbeidsongevallen of beroepsziekten, de gezinsuitkeringen en de uitkeringen bij overlijden, verkregen op grond van een wettelijke regeling van een Verdragsluitende Partij, zelfs dan aan de betrokken personen uitbetaald indien zij hun woonplaats op het grondgebied van de andere Partij vestigen.
 
 2. Het voorgaande lid is eveneens van toepassing op personen die onderdaan zijn van een derde land, recht hebben op een Nederlandse uitkering en in Tunesië gevestigd zijn.
 
-#### Artikel 6
+##### Artikel 6
 
 De bepalingen inzake vermindering, schorsing of intrekking waarin de wetgeving van een Verdragsluitende Partij voorziet in geval van samenloop van een uitkering met andere uitkeringen of met andere inkomsten, of wegens het verrichten van beroepswerkzaamheden, zijn op de rechthebbende van toepassing, zelfs indien het gaat om uitkeringen welke op grond van de wetgeving van de andere Verdragsluitende Partij zijn verkregen of om inkomsten, welke zijn verworven of werkzaamheden welke zijn verricht op het grondgebied van de andere Verdragsluitende Partij. Voor de toepassing van deze regel wordt evenwel geen rekening gehouden met gelijksoortige uitkeringen bij ouderdom of uitkeringen aan nagelaten betrekkingen, die overeenkomstig hoofdstuk III van Titel III worden vastgesteld.
 
 ## TITEL II. BEPALINGEN TER VASTSTELLING VAN DE TOE TE PASSEN WETGEVING
 
-#### Artikel 7
+##### Artikel 7
 
 Onverminderd het bepaalde in de artikelen 8 tot en met 10 is op werknemers die werkzaam zijn op het grondgebied van een Verdragsluitende Partij, uitsluitend de wetgeving van deze Partij van toepassing, zelfs indien zij op het grondgebied van de andere Partij wonen of indien de zetel van de onderneming of het domicilie van de werkgever waarbij zij werkzaam zijn, zich op het grondgebied van de andere Partij bevindt.
 
-#### Artikel 8
+##### Artikel 8
 
 Op het beginsel neergelegd in artikel 7 gelden de volgende uitzonderingen:
 
@@ -132,7 +157,7 @@ Op het beginsel neergelegd in artikel 7 gelden de volgende uitzonderingen:
 
 - d). de werknemers die wonen op het grondgebied van een Verdragsluitende Partij en die hun werkzaamheden uitoefenen op het grondgebied van beide Verdragsluitende Partijen zijn onderworpen aan de wetgeving van de woonplaats.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Onverminderd het bepaalde in het tweede lid van artikel 3 is artikel 7 van toepassing op werknemers die bij diplomatieke zendingen of consulaire posten der Verdragsluitende Partijen werkzaam zijn en op diegenen die in persoonlijke dienst van ambtenaren van deze zendingen of posten zijn.
 
@@ -140,11 +165,11 @@ Op het beginsel neergelegd in artikel 7 gelden de volgende uitzonderingen:
 
 Dit keuzerecht mag slechts eenmaal worden uitgeoefend en wel binnen drie maanden na de inwerkingtreding van dit Verdrag of het tijdstip waarop de werknemer door de diplomatieke zending of consulaire post, onderscheidenlijk in persoonlijke dienst van ambtenaren van deze zending of post wordt aangesteld.
 
-#### Artikel 10
+##### Artikel 10
 
 De bevoegde autoriteiten van de Verdragsluitende Partijen kunnen in onderlinge overeenstemming, ten behoeve van de belanghebbende werknemers, uitzonderingen op de artikelen 7 tot en met 9 vaststellen.
 
-#### Artikel 11
+##### Artikel 11
 
 Indien krachtens de bepalingen van deze Titel op een werknemer de wetgeving van toepassing is van een Verdragsluitende Partij op het grondgebied waarvan hij niet woont, is deze wetgeving op hem van toepassing alsof hij op het grondgebied van deze Partij woonde.
 
@@ -152,11 +177,11 @@ Indien krachtens de bepalingen van deze Titel op een werknemer de wetgeving van 
 
 ### Hoofdstuk I. Ziekte en moederschap
 
-#### Artikel 12
+##### Artikel 12
 
 Indien de wettelijke regeling van een Verdragsluitende Partij het verkrijgen, het behoud of het herstel van het recht op prestaties afhankelijk stelt van de vervulling van tijdvakken van verzekering, houdt het bevoegde orgaan van die Partij, met het oog op de samentelling van tijdvakken, zo nodig rekening met de krachtens de wettelijke regeling van de andere Verdragsluitende Partij vervulde tijdvakken van verzekering, alsof het tijdvakken van verzekering betrof die krachtens de wettelijke regeling van eerstbedoelde Partij waren vervuld.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De werknemer die tijdvakken van verzekering heeft vervuld krachtens de wettelijke regeling van een der Verdragsluitende Partijen en zich naar het grondgebied van de andere Verdragsluitende Partij begeeft, heeft voor zichzelf en voor zijn gezinsleden die zich op dat grondgebied bevinden, recht op de prestaties ingevolge de wettelijke regeling van deze Partij, voor zover hij voldoet aan de door de wettelijke regeling van laatstbedoelde Verdragsluitende Partij gestelde voorwaarden, eventueel met inachtneming van de samentelling van tijdvakken zoals bedoeld in artikel 12 van het Verdrag.
 
@@ -164,7 +189,7 @@ Indien de wettelijke regeling van een Verdragsluitende Partij het verkrijgen, he
 
 In dat geval is het bepaalde in het eerste, derde, vierde, vijfde, zesde en zevende lid van artikel 14 van overeenkomstige toepassing.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Een werknemer die aan de door de wettelijke regeling van een Verdragsluitende Partij gestelde voorwaarden voor het recht op prestaties voldoet, heeft, tijdens een verblijf op het grondgebied van de andere Verdragsluitende Partij, recht op verstrekkingen, wanneer zijn gezondheidstoestand deze verstrekkingen onmiddellijk noodzakelijk maakt.
 
@@ -184,7 +209,7 @@ Met de goedkeuring van de bevoegde autoriteiten van de Verdragsluitende Partijen
 
 8. Wat de omvang en de wijze van verlening van verstrekkingen betreft, kunnen de bevoegde autoriteiten van de Verdragsluitende Partijen in onderlinge overeenstemming vaststellen dat andere bepalingen worden toegepast dan die welke in het derde lid van dit artikel zijn vermeld.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De werknemer die woont op het grondgebied van een Verdragsluitende Partij anders dan het bevoegde land en die voldoet aan de voorwaarden gesteld in de wettelijke regeling van het bevoegde land om in aanmerking te komen voor prestaties, eventueel rekening houdend met het bepaalde in artikel 12, heeft, op het grondgebied van de Verdragsluitende Partij waar hij woont, recht op:
 
@@ -196,17 +221,17 @@ Deze prestaties kunnen worden verleend door bemiddeling van het orgaan van de wo
 
 2. Het bepaalde in het vorige lid is van overeenkomstige toepassing op de gezinsleden die wonen op het grondgebied van een Verdragsluitende Partij anders dan het bevoegde land, wat betreft het recht op verstrekkingen. Wanneer de gezinsleden evenwel recht hebben op prestaties ingevolge de wettelijke regeling van de Verdragsluitende Partij op het grondgebied waarvan zij wonen, is het bepaalde in dit artikel niet op hen van toepassing.
 
-#### Artikel 15a
+##### Artikel 15a
 
 De gezinsleden van een werknemer die is aangesloten bij het orgaan van een van de Verdragsluitende Partijen en die woont op het grondgebied van die Partij, hebben recht op verstrekkingen wanneer zij wonen op het grondgebied van de andere Verdragsluitende Partij, alsof de werknemer was aangesloten bij het orgaan van hun woonplaats.
 
 Deze verstrekkingen worden ten laste van het bevoegde orgaan verleend door het orgaan van de woonplaats volgens de bepalingen van de wettelijke regeling die dit orgaan toepast.
 
-#### Artikel 16
+##### Artikel 16
 
 De werknemer en zijn gezinsleden bedoeld in artikel 15 en artikel 15a die verblijven op of hun woonplaats overbrengen naar het grondgebied van het bevoegde land, hebben recht op prestaties volgens de bepalingen van de wettelijke regeling van die Verdragsluitende Partij, zelfs indien zij reeds prestaties hebben genoten voor hetzelfde geval van ziekte of moederschap vóór hun verblijf resp. de overbrenging van hun woonplaats. Indien volgens de wettelijke regeling die wordt toegepast door het bevoegde orgaan, aan de verlening van de prestaties een maximum duur is verbonden, wordt het tijdvak waarin deze prestaties zijn verleend en dat onmiddellijk voorafgaat aan de overbrenging van de woonplaats, meegeteld.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Wanneer de pensioengerechtigde aan wie pensioenen zijn verschuldigd krachtens de wettelijke regelingen van beide Verdragsluitende Partijen, recht heeft op verstrekkingen ingevolge de wettelijke regeling van de Verdragsluitende Partij op het grondgebied waarvan hij woont, eventueel rekening houdend met het bepaalde in artikel 12, worden aan deze pensioengerechtigde en zijn gezinsleden door het orgaan van de woonplaats en voor rekening van dit orgaan verstrekkingen verleend alsof hij uitsluitend in het genot was van een pensioen verschuldigd krachtens de wettelijke regeling van laatstbedoelde Partij.
 
@@ -226,41 +251,41 @@ De duur van verlening van deze verstrekkingen is die welke is bepaald in de wett
 
 8. Het bepaalde in dit artikel is niet van toepassing op de gezinsleden die zelf recht hebben op verstrekkingen krachtens de wettelijke regeling van de Verdragsluitende Partij op het grondgebied waarvan zij wonen.
 
-#### Artikel 17a
+##### Artikel 17a
 
 Onverminderd artikel 3, is het bepaalde in artikel 14, eerste en zesde lid, en in artikel 17, vijfde lid, eveneens van toepassing op verzekerden die staatsburger van een derde land zijn.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De krachtens de bepalingen van dit hoofdstuk verleende verstrekkingen worden door de bevoegde organen of de organen van de woonplaats, al naar gelang van het geval, vergoed aan de organen die deze hebben verleend.
 
 2. De vergoedingen worden vastgesteld en vinden plaats volgens de in een administratief akkoord vast te stellen regels, hetzij door het aantonen van de werkelijke kosten, hetzij op grond van vaste bedragen.
 
-#### Artikel 18a
+##### Artikel 18a
 
 De bijzondere wijze van toepassing van de Nederlandse wettelijke regeling betreffende de ziektekostenverzekering is vermeld in een Slotprotocol dat een integrerend deel van dit Verdrag vormt.
 
 ### Hoofdstuk II. Invaliditeit
 
-#### Artikel 19
+##### Artikel 19
 
 Wanneer een verzekerde achtereenvolgens of afwisselend aan de wettelijke regelingen van de beide Verdragsluitende Partijen onderworpen is geweest, worden, met het oog op het verkrijgen, het behoud of het herstel van het recht op prestaties, de tijdvakken van verzekering, als werknemer vervuld krachtens de wettelijke regeling van elk van de Verdragsluitende Partijen, samengeteld, voor zover deze niet samenvallen.
 
-#### Artikel 20
+##### Artikel 20
 
 De uitkeringen worden vastgesteld overeenkomstig de wettelijke regeling die op het tijdstip waarop de arbeidsongeschiktheid met daaropvolgende invaliditeit is ingetreden, op de belanghebbende van toepassing was en komen voor rekening van het volgens deze wettelijke regeling bevoegde orgaan.
 
-#### Artikel 21
+##### Artikel 21
 
 Indien, rekening houdend met de in artikel 19 bedoelde samentelling van tijdvakken van verzekering, de belanghebbende niet voldoet aan de voorwaarden voor het recht op uitkering ingevolge de wettelijke regeling die ten tijde van het intreden van de arbeidsongeschiktheid met daaropvolgende invaliditeit op hem van toepassing was, terwijl hij nog recht heeft op uitkeringen krachtens de wettelijke regeling van de Verdragsluitende Partij op het grondgebied waarvan hij onmiddellijk daaraan voorafgaande was verzekerd, geniet hij deze uitkeringen in het land waarheen hij zich heeft begeven. Deze uitkeringen komen voor rekening van het orgaan van bovenbedoelde Partij, overeenkomstig de wettelijke regeling van deze Partij.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Indien de betaling van uitkeringen na schorsing moet worden hervat, geschiedt dit door het orgaan dat de uitkeringen verschuldigd was op het tijdstip waarop zij werden geschorst.
 
 2. Indien na intrekking van de uitkeringen de toestand van de verzekerde hernieuwde toekenning van uitkeringen rechtvaardigt, worden deze overeenkomstig de artikelen 19 tot en met 21 toegekend.
 
-#### Artikel 23
+##### Artikel 23
 
 Een werknemer die recht op uitkeringen heeft verkregen voor rekening van een orgaan van een der Verdragsluitende Partijen en op het grondgebied van deze Partij woont, behoudt dit recht wanneer hij zijn woonplaats naar het grondgebied van de andere Partij overbrengt. Vóór de overbrenging moet de werknemer echter toestemming van het bevoegde orgaan verkregen hebben. Deze toestemming kan alleen worden geweigerd indien verplaatsing van belanghebbende nadelig is voor zijn gezondheidstoestand of voor het ondergaan van een geneeskundige behandeling.
 
@@ -268,13 +293,13 @@ Een werknemer die recht op uitkeringen heeft verkregen voor rekening van een org
 
 ### Afdeling I. Gemeenschappelijke bepalingen
 
-#### Artikel 24
+##### Artikel 24
 
 1. Indien de wettelijke regeling van een Verdragsluitende Partij het verkrijgen, het behoud of het herstel van het recht op uitkeringen afhankelijk stelt van de vervulling van tijdvakken van verzekering, houdt het orgaan dat deze wettelijke regeling toepast daartoe, met het oog op de samentelling van tijdvakken, rekening met de krachtens de wettelijke regeling van de andere Verdragsluitende Partij vervulde tijdvakken van verzekering, alsof het tijdvakken van verzekering betrof welke krachtens de wettelijke regeling van eerstbedoelde Partij waren vervuld.
 
 2. Indien in de wettelijke regeling van een Verdragsluitende Partij, welke voor het verkrijgen en het vaststellen van het recht op uitkeringen generlei eisen stelt omtrent de duur van de verzekering, de toekenning van uitkeringen afhankelijk wordt gesteld van de voorwaarde dat de werknemer op het tijdstip waarop de verzekerde gebeurtenis zich heeft voorgedaan, ingevolge deze wettelijke regeling verzekerd was, wordt aan deze voorwaarde geacht te zijn voldaan indien de werknemer op dat tijdstip aan de wettelijke regeling van de andere Partij onderworpen was.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Het orgaan van elke Verdragsluitende Partij stelt overeenkomstig de door dit orgaan toegepaste wettelijke regeling vast of de belanghebbende aan de gestelde voorwaarden voor het recht op uitkeringen voldoet, eventueel met inachtneming van artikel 24.
 
@@ -288,37 +313,37 @@ Een werknemer die recht op uitkeringen heeft verkregen voor rekening van een org
 
 6. De wijze waarop voor het toepassen van de in de vorige leden aangegeven methode van berekening tijdvakken worden medegerekend, welke geheel of gedeeltelijk samenvallen, wordt in een administratief akkoord geregeld.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Indien de totale duur van de krachtens de wettelijke regeling van een Verdragsluitende Partij vervulde tijdvakken van verzekering minder dan een jaar bedraagt en indien, uitsluitend rekening houdend met deze tijdvakken, krachtens die wettelijke regeling geen enkel recht op uitkeringen bestaat, is het orgaan van die Partij, ongeacht het bepaalde in artikel 25, niet verplicht op grond van bedoelde tijdvakken uitkeringen toe te kennen.
 
 2. Voor de toepassing van artikel 25, met uitzondering van het bepaalde in het vierde lid, houdt de andere Verdragsluitende Partij rekening met de in het voorgaande lid bedoelde tijdvakken.
 
-#### Artikel 27
+##### Artikel 27
 
 Indien de belanghebbende, met inachtneming van artikel 24 van dit Verdrag, op een bepaald tijdstip niet ten volle voldoet aan de voorwaarden die door de wettelijke regelingen van beide Verdragsluitende Partijen worden gesteld, doch alleen voldoet aan de voorwaarden van een van deze wettelijke regelingen, wordt zijn recht op uitkeringen vastgesteld ten aanzien van de wettelijke regeling aan de voorwaarden waarvan is voldaan. De uitkering wordt opnieuw berekend overeenkomstig artikel 25 van dit Verdrag, wanneer ook aan de voorwaarden die door de wettelijke regeling van de andere Partij worden vastgesteld, met inachtneming van artikel 24, wordt voldaan.
 
-#### Artikel 28
+##### Artikel 28
 
 Indien het bedrag van de uitkeringen waarop de belanghebbende zonder toepassing van de artikelen 24 en 25 krachtens de wettelijke regeling van een Verdragsluitende Partij aanspraak zou kunnen maken, hoger is dan het totale bedrag van de overeenkomstig deze artikelen verschuldigde uitkeringen, is het bevoegde orgaan van deze Partij verplicht hem een aanvulling te verlenen die gelijk is aan het verschil tussen deze beide bedragen. Deze. aanvulling komt geheel voor rekening van dit orgaan.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Indien, door stijging van de kosten van levensonderhoud of een schommeling van het loonpeil, de uitkeringen met een bepaald percentage of bedrag worden gewijzigd, moet dit percentage of bedrag rechtstreeks in de overeenkomstig de artikelen 25 en 28 vastgestelde uitkeringen worden verwerkt, zonder dat er een herberekening volgens de genoemde artikelen behoeft plaats te vinden.
 
 2. Daarentegen vindt bij herziening van de uitkering hetzij van de ene hetzij van de andere Verdragsluitende Partij ten einde rekening te houden met een wijziging van de persoonlijke omstandigheden van de belanghebbende, een herberekening plaats overeenkomstig de artikelen 25 en 28.
 
-#### Artikel 30
+##### Artikel 30
 
 Het weduwenpensioen wordt eventueel tussen de rechthebbenden verdeeld naar de omstandigheden bepaald door de persoonlijke rechtstoestand van de verzekerde. De wijze van toepassing van dit artikel wordt in een administratief akkoord geregeld.
 
 ### Afdeling II. Bijzondere bepalingen met betrekking tot de toepassing van de Nederlandse wettelijke regelingen
 
-#### Artikel 31
+##### Artikel 31
 
 Ongeacht het bepaalde in artikel 25, berekenen de Nederlandse organen de ouderdomspensioenen rechtstreeks en uitsluitend op basis van de krachtens de Nederlandse wettelijke regeling vervulde tijdvakken van verzekering.
 
-#### Artikel 32
+##### Artikel 32
 
 1. De korting bedoeld in artikel 13, eerste lid, van de AOW wordt niet toegepast voor de tijdvakken voorafgaand aan het tijdstip van inwerkingtreding van dit Verdrag, gedurende welke de echtgenote of de weduwe tussen de 15- en 65-jarige leeftijd niet was verzekerd krachtens voornoemde wettelijke regeling terwijl zij gedurende het huwelijk woonde op het grondgebied van de Republiek Tunesië, voor zover deze tijdvakken samenvallen met de tijdvakken van verzekering die haar echtgenoot heeft vervuld onder bedoelde wettelijke regeling.
 
@@ -342,7 +367,7 @@ in alle andere gevallen:
 
 6. Het bepaalde in het eerste en tweede lid is slechts van toepassing op de echtgeno(o)t(e) die zich vrijwillig heeft verzekerd ingevolge het derde lid.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Voor de toepassing van artikel 25, vijfde lid, worden eveneens beschouwd als tijdvakken van verzekering, vervuld krachtens de Nederlandse wetgeving zoals bedoeld in artikel 2, eerste lid, sub A, letter d), de tijdvakken gelegen vóór 1 oktober 1959 gedurende welke de overledene na het bereiken van de 15-jarige leeftijd in Nederland heeft gewoond of gedurende welke hij in Nederland betaalde arbeid heeft verricht in dienst van een in Nederland gevestigde werkgever.
 
@@ -350,11 +375,11 @@ in alle andere gevallen:
 
 ### Hoofdstuk IV. Gezinsuitkeringen
 
-#### Artikel 34
+##### Artikel 34
 
 Indien de wettelijke regeling van een Verdragsluitende Partij het verkrijgen van het recht op gezinsuitkeringen afhankelijk stelt van de vervulling van tijdvakken van verzekering, houdt het orgaan dat deze wettelijke regeling toepast daartoe, voor zover nodig, rekening met de tijdvakken van verzekering die krachtens de wettelijke regeling van de andere Partij zijn vervuld, alsof het tijdvakken betrof welke krachtens de wettelijke regeling van eerstbedoelde Partij waren vervuld.
 
-#### Artikel 35
+##### Artikel 35
 
 1. Een ingevolge de Tunesische wettelijke regeling verzekerde werknemer die kinderen heeft die op Nederlands grondgebied wonen of aldaar worden opgevoed, heeft, eventueel rekening houdend met de in artikel 34 bedoelde samentelling van tijdvakken, voor deze kinderen recht op gezinsuitkeringen volgens de bepalingen van de Tunesische wettelijke regeling.
 
@@ -362,17 +387,17 @@ Indien de wettelijke regeling van een Verdragsluitende Partij het verkrijgen van
 
 3. Indien volgens de wettelijke regeling van een Verdragsluitende Partij gezinsuitkeringen worden toegekend aan hen die een pensioen of een uitkering genieten, hebben zij die een pensioen of een uitkering genieten terwijl zij op het grondgebied van de andere Partij wonen, eveneens recht op gezinsuitkeringen.
 
-#### Artikel 36
+##### Artikel 36
 
 De wijze van betaling van de gezinsuitkeringen die krachtens dit hoofdstuk verschuldigd zijn, alsmede de voorschriften inzake samenloop van deze uitkeringen die krachtens de wettelijke regelingen van de beide Verdragsluitende Partijen verschuldigd zijn, worden in een administratief akkoord geregeld.
 
 ### Hoofdstuk V. Werkloosheid
 
-#### Artikel 37
+##### Artikel 37
 
 Met het oog op het verkrijgen van het recht op werkloosheidsuitkeringen ingevolge de Nederlandse wettelijke regeling, worden de tijdvakken van dienstbetrekking in Tunesië en de tijdvakken van dienstbetrekking in Nederland samengeteld.
 
-#### Artikel 38
+##### Artikel 38
 
 Een werknemer, die onderdaan van een van de Verdragsluitende Partijen is en zich naar het grondgebied van de andere Partij heeft begeven, heeft gedurende zijn verblijf op dit grondgebied recht op werkloosheidsuitkeringen ingevolge de wettelijke regeling van laatstbedoelde Verdragsluitende Partij, onder de volgende voorwaarden:
 
@@ -382,7 +407,7 @@ Een werknemer, die onderdaan van een van de Verdragsluitende Partijen is en zich
 
 ## TITEL IV. DIVERSE BEPALINGEN
 
-#### Artikel 39
+##### Artikel 39
 
 1. De bevoegde autoriteiten
 
@@ -394,31 +419,31 @@ Een werknemer, die onderdaan van een van de Verdragsluitende Partijen is en zich
 
 2. De bevoegde autoriteiten regelen, in voorkomende gevallen, in onderling overleg de situatie van bijzondere categorieën werknemers,
 
-#### Artikel 40
+##### Artikel 40
 
 Bij de toepassing van dit Verdrag zijn de autoriteiten en de met de uitvoering van dit Verdrag belaste organen elkaar behulpzaam en handelen als betrof het de toepassing van hun eigen wetgeving. De wederzijdse administratieve hulp van deze autoriteiten en organen is in beginsel kosteloos. De bevoegde autoriteiten van de Verdragsluitende Partijen kunnen evenwel overeenkomen bepaalde kosten te vergoeden.
 
-#### Artikel 41
+##### Artikel 41
 
 1. De vrijstelling of verlaging van rechten, zegelrechten, griffie- of registratierechten, waarin bij de wetgeving van een Verdragsluitende Partij is voorzien voor bescheiden of documenten die ter uitvoering van de wetgeving van deze Partij dienen te worden overgelegd, geldt eveneens voor overeenkomstige bescheiden en documenten die ter uitvoering van de wetgeving van de andere Verdragsluitende Partij of van dit Verdrag dienen te worden overgelegd.
 
 2. Alle akten, documenten en overige bescheiden van officiële aard die voor de toepassing van dit Verdrag dienen te worden overgelegd, zijn vrijgesteld van legalisatie en van alle andere soortgelijke formaliteiten.
 
-#### Artikel 42
+##### Artikel 42
 
 1. Voor de toepassing van dit Verdrag kunnen de organen van de Verdragsluitende Partijen zich in de Franse taal rechtstreeks met elkaar in verbinding stellen.
 
 2. De autoriteiten, organen of rechterlijke instanties van een Verdragsluitende Partij mogen verzoekschriften of andere documenten die hun worden toegezonden, niet afwijzen op grond van het feit dat zij in de officiële taal van de andere Verdragsluitende Partij zijn gesteld.
 
-#### Artikel 43
+##### Artikel 43
 
 Aanvragen, verklaringen of beroepschriften die volgens de wetgeving van een Verdragsluitende Partij binnen een bepaalde termijn moeten worden ingediend bij een autoriteit, een orgaan of een rechterlijke instantie van die Partij, zijn ontvankelijk indien zij binnen dezelfde termijn bij een autoriteit, orgaan of rechterlijke instantie van de andere Verdragsluitende Partij worden ingediend. In dat geval zal de autoriteit, het orgaan of de rechterlijke instantie waarop aldus een beroep wordt gedaan, deze aanvragen, verklaringen of beroepschriften onverwijld doen toekomen aan de bevoegde autoriteit, het bevoegde orgaan of de bevoegde rechterlijke instantie van eerstbedoelde Partij.
 
-#### Artikel 44
+##### Artikel 44
 
 Het uit de toepassing van dit Verdrag voortvloeiende overmaken van bedragen geschiedt volgens de overeenkomsten die op het tijdstip van overmaking ter zake tussen de beide Verdragsluitende Partijen van kracht zijn.
 
-#### Artikel 45
+##### Artikel 45
 
 1. Indien, bij de vaststelling of de herziening van ouderdomsuitkeringen of de uitkeringen aan nagelaten betrekkingen (pensioenen) krachtens Titel III, hoofdstuk III, het orgaan van een Verdragsluitende Partij aan een rechthebbende op uitkeringen een hoger bedrag heeft uitbetaald dan waarop hij recht heeft, kan dit orgaan aan het orgaan van de andere Verdragsluitende Partij dat overeenkomstige uitkeringen aan deze rechthebbende verschuldigd is, verzoeken het teveel betaalde bedrag in te houden op de aan bedoelde rechthebbende verschuldigde achterstallige termijnen. Laatstbedoeld orgaan houdt het bedrag in en maakt het aldus ingehouden bedrag over aan het orgaan dat de vordering heeft. Indien de terugvordering niet met de achterstallige termijnen kan worden verrekend, is het volgende lid van toepassing.
 
@@ -428,7 +453,7 @@ Het uit de toepassing van dit Verdrag voortvloeiende overmaken van bedragen gesc
 
 4. Wanneer een persoon op het grondgebied van een Verdragsluitende Partij sociale bijstand heeft genoten gedurende een tijdvak waarin deze persoon krachtens de wetgeving van de andere Verdragsluitende Partij recht op uitkeringen had, kan de instelling die de sociale bijstand heeft verleend, indien deze een wettelijk verhaalsrecht heeft op uitkeringen die verschuldigd zijn aan personen die sociale bijstand genieten, aan het orgaan van de andere Verdragsluitende Partij dat uitkeringen aan de betrokken persoon verschuldigd is, verzoeken het bedrag van de over genoemd tijdvak verleende sociale bijstand in te houden op de bedragen die het aan bedoelde persoon betaalt. Laatstbedoeld orgaan houdt het bedrag in op de wijze en binnen de grenzen waarin de door dit orgaan toegepaste wetgeving voorziet en maakt het aldus ingehouden bedrag over aan de instelling welke de vordering heeft.
 
-#### Artikel 46
+##### Artikel 46
 
 1. Over ieder geschil dat tussen de Verdragsluitende Partijen met betrekking tot de uitlegging of de toepassing van dit Verdrag mocht ontstaan, wordt rechtstreeks tussen de bevoegde autoriteiten van de Verdragsluitende Partijen onderhandeld.
 
@@ -436,7 +461,7 @@ Het uit de toepassing van dit Verdrag voortvloeiende overmaken van bedragen gesc
 
 ## TITEL V. OVERGANGS- EN SLOTBEPALINGEN
 
-#### Artikel 47
+##### Artikel 47
 
 1. Aan dit Verdrag kan geen enkel recht op betaling van uitkeringen worden ontleend voor een tijdvak dat aan zijn inwerkingtreding voorafgaat.
 
@@ -452,27 +477,27 @@ Het uit de toepassing van dit Verdrag voortvloeiende overmaken van bedragen gesc
 
 7. Indien het in het vierde of het vijfde lid van dit artikel bedoelde verzoek na afloop van een termijn van twee jaar na de inwerkingtreding van dit Verdrag wordt ingediend, wordt voor het verkrijgen van de niet vervallen of verjaarde rechten alleen rekening gehouden met de datum waarop het verzoek is ingediend, tenzij gunstiger bepalingen van de wetgeving van de betrokken Verdragsluitende Partij van toepassing zijn.
 
-#### Artikel 48
+##### Artikel 48
 
 De Regeringen van de Verdragsluitende Partijen stellen elkaar ervan in kennis dat de grondwettelijke procedures vereist voor de inwerkingtreding van dit Verdrag, in hun onderscheiden landen zijn vervuld.
 
 Dit Verdrag treedt in werking op de eerste dag van de tweede maand volgende op de datum van de laatste van deze kennisgevingen.
 
-#### Artikel 49
+##### Artikel 49
 
 Dit Verdrag wordt voor onbepaalde tijd gesloten. Het kan door elk van de Verdragsluitende Partijen worden opgezegd. Opzegging dient te geschieden uiterlijk zes maanden vóór het einde van het lopende kalenderjaar; het Verdrag houdt alsdan op van kracht te zijn aan het einde van dat jaar.
 
-#### Artikel 50
+##### Artikel 50
 
 1. Bij opzegging van dit Verdrag wordt elk recht dat met toepassing van dit Verdrag is verkregen, gehandhaafd.
 
 2. Aanspraken op grond van tijdvakken, vervuld vóór de datum waarop de opzegging van kracht wordt, worden niet door de opzegging teniet gedaan; het behoud ervan wordt in onderlinge overeenstemming vastgesteld of bij gebreke daarvan door de wetgeving die het betrokken orgaan toepast.
 
-#### 1
+##### 1
 
 Wat betreft het recht op verstrekkingen krachtens de Nederlandse wettelijke regeling, dient voor de toepassing van Hoofdstuk 1 van Titel III van het Verdrag onder "rechthebbende op verstrekkingen" te worden verstaan de persoon die is verzekerd of medeverzekerd krachtens de verzekering bedoeld in de Nederlandse Ziekenfondswet.
 
-#### 2
+##### 2
 
 Voor de toepassing van artikel 17 van het Verdrag worden met de pensioenen verschuldigd krachtens de wettelijke regelingen bedoeld in artikel 2, eerste lid, sub A, letter b) prestaties bij arbeidsongeschiktheid, letter c) uitkeringen bij ouderdom en letter d) uitkeringen aan nagelaten betrekkingen, van het Verdrag gelijkgesteld:
 
@@ -488,11 +513,11 @@ Voor de toepassing van artikel 17 van het Verdrag worden met de pensioenen versc
 
 - -. een uitkering terzake van vervroegd uittreden uit het arbeisproces ingevolge een door de Staat uitgevaardigde regeling of ingevolge een collectieve arbeidsovereenkomst waarbij een regeling voor vervroegde uittreding is vastgesteld, of ingevolge een door de Ziekenfondsraad aan te wijzen regeling.
 
-#### 3
+##### 3
 
 De werknemer of zijn gezinsleden bedoeld in de artikelen 13, tweede lid en 14, tweede lid, van het Verdrag alsmede de gezinsleden bedoeld in artikel 15, tweede lid, en artikel 15a van het Verdrag en de pensioengerechtigde of zijn gezinsleden bedoeld in artikel 17, tweede en derde lid, van het Verdrag, die wonen op het grondgebied van Nederland, zijn niet verzekerd ingevolge de AWBZ.
 
-#### Artikel 1. Verificatie van aanvragen en betalingen
+##### Artikel 1. Verificatie van aanvragen en betalingen
 
 1. Het bevoegde orgaan van de ondertekenende Staat waarbij een aanvraag om uitkering is ingediend, is verplicht de juistheid van de inlichtingen met betrekking tot de aanvrager en, in voorkomend geval, tot de gezinsleden te verifiëren en moet bewijsstukken of vergelijkbare stukken verstrekken aan het bevoegde orgaan van de andere ondertekenende Staat, zodanig dat deze laatste de behandeling van de aanvraag kan voortzetten.
 
@@ -514,7 +539,7 @@ Indien het inlichtingen betreft die behoren tot de bevoegdheid van andere autori
 
 In alle gevallen dienen de antwoorden op de verzoeken om inlichtingen door het Ministerie van Buitenlandse Zaken te worden gezonden aan de diplomatieke en consulaire vertegenwoordigers die deze verzoeken hebben ingediend.
 
-#### Artikel 2. Identificatie
+##### Artikel 2. Identificatie
 
 Om het recht op een uitkering en de rechtmatigheid van de betaling krachtens de Nederlandse wetgeving te kunnen vaststellen, zijn de personen op wie het Verdrag van toepassing is verplicht hun identiteit aan te tonen bij het bevoegde orgaan van Tunesië door overlegging van een officieel identiteitsbewijs.
 
@@ -522,7 +547,7 @@ Het bevoegde orgaan van Tunesië kan aldus de persoon naar behoren identificeren
 
 Een geldig paspoort of geldige identiteitskaart afgegeven door een bevoegde autoriteit van de woonplaats van de belanghebbende vormt een identiteitsbewijs.
 
-#### Artikel 3. Terugvordering van onverschuldigde betalingen
+##### Artikel 3. Terugvordering van onverschuldigde betalingen
 
 1. De voor tenuitvoerlegging vatbare rechterlijke uitspraken en beslissingen alsmede die van de organen of autoriteiten van een van de ondertekenende Staten betreffende de terugvordering van onverschuldigd betaalde bedragen terzake van sociale zekerheid worden door de andere Staat erkend.
 
@@ -534,7 +559,7 @@ Het gewaarmerkt afschrift van de beslissing of uitspraak moet worden voorzien va
 
 4. Wanneer het bevoegde orgaan van een ondertekenende Staat met toepassing van het Verdrag of van de nationale wetgeving aan een rechthebbende een invaliditeits-, ouderdoms- of nabestaandenuitkering heeft betaald, en het betaalde bedrag onverschuldigd is of hoger dan dat waarop hij recht had, kan dit orgaan het orgaan van de bevoegde Staat dat aan de belanghebbende een uitkering verstrekt, verzoeken het onverschuldigde of te veel betaalde bedrag in mindering te brengen op aan de belanghebbende te betalen achterstallige bedragen of uitkeringen. Dit orgaan houdt het betrokken bedrag in overeenkomstig de voorwaarden vastgesteld in de bepalingen die het toepast en betaalt het ingehouden bedrag aan het orgaan dat een vordering heeft.
 
-#### Artikel 4. Inning van premies
+##### Artikel 4. Inning van premies
 
 1. De voor tenuitvoerlegging vatbare rechterlijke uitspraken en beslissingen alsmede die van de organen of autoriteiten van een van de ondertekenende Staten betreffende de inning van premies terzake van sociale zekerheid worden door de andere Staat erkend.
 
@@ -544,7 +569,7 @@ Het gewaarmerkt afschrift van de beslissing of uitspraak moet worden voorzien va
 
 Het gewaarmerkte afschrift van de beslissing of uitspraak moet worden voorzien van de uitvoerbaarheidverklaring.
 
-#### Artikel 5. Weigering, opschorting, intrekking
+##### Artikel 5. Weigering, opschorting, intrekking
 
 Het bevoegde orgaan van een van de Verdragsluitende Partijen is gerechtigd de invaliditeits-, ouderdoms- of nabestaandenuitkering, alsmede de kinderbijslagen te weigeren, op te schorten of in te trekken indien, als gevolg van zijn verzoek, de belanghebbende, de rechthebbende of het bevoegde orgaan van de andere Partij verzuimt inlichtingen te verstrekken binnen een termijn van drie maanden volgend op dat verzoek.
 

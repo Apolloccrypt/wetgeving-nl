@@ -1,13 +1,38 @@
 ---
 title: "Tweede Aanvullend Protocol bij het Europees Verdrag betreffende uitlevering"
 identifier: "BWBV0001026"
-categorie: "Internationaal recht"
-publicatiedatum: 1982-01-12
-laatste_update: 1982-01-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001026"
+country: "nl"
+rank: "verdrag"
+publication_date: "1982-01-12"
+last_updated: "1982-01-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001026"
+soort: "verdrag"
+stam_id: "10002519823"
+version_id: "10002506162"
+internal_id: "C10006980581"
+label_id: "10002509394"
+dtd_version: "2.0"
+original_entry_into_force: "1982-01-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001026/1982-01-12/0"
+intitule_bron: "Trb.1979-120"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1982-01-12"
+intitule_published: "1979-08-14"
+intitule_in_force: "1983-04-22"
+intitule_status: "goed"
+original_publication: "Trb.1979-120"
+original_signed_date: "1982-01-12"
+original_published_date: "1979-08-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1979-120"
+entry_into_force_date: "1982-01-12"
+jci_1_3: "jci1.3:c:BWBV0001026&z=1982-01-12&g=1982-01-12"
+jci_1_0: "1.0:c:BWBV0001026&g=1982-01-12"
+citeertitel_status: "redactioneel"
+signed_date: "1982-01-12"
+entry_into_force: "1982-01-12"
 ---
-
 # Tweede Aanvullend Protocol bij het Europees Verdrag betreffende uitlevering
 
 De Lid-Staten van de Raad van Europa die dit Protocol hebben ondertekend,
@@ -20,19 +45,19 @@ Zijn als volgt overeengekomen:
 
 ### HOOFDSTUK I
 
-#### Artikel 1
+##### Artikel 1
 
 Wijzigt het Europees Verdrag betreffende uitlevering; Parijs, 13-12-1957.
 
 ### HOOFDSTUK II
 
-#### Artikel 2
+##### Artikel 2
 
 Wijzigt het Europees Verdrag betreffende uitlevering; Parijs, 13-12-1957.
 
 ### HOOFDSTUK III
 
-#### Artikel 3
+##### Artikel 3
 
 Het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001010) wordt aangevuld met de volgende bepalingen:
 
@@ -44,7 +69,7 @@ Het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001010) wordt aangevuld m
 
 ### HOOFDSTUK IV
 
-#### Artikel 4
+##### Artikel 4
 
 Het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001010) wordt aangevuld met de volgende bepalingen:
 
@@ -54,13 +79,13 @@ Uitlevering wordt niet toegestaan voor een strafbaar feit met betrekking waartoe
 
 ### HOOFDSTUK V
 
-#### Artikel 5
+##### Artikel 5
 
 Wijzigt het Europees Verdrag betreffende uitlevering; Parijs, 13-12-1957.
 
 ### HOOFDSTUK VI
 
-#### Artikel 6
+##### Artikel 6
 
 1. Dit Protocol staat open voor ondertekening door de Lid-Staten van de Raad van Europa die het Verdrag hebben ondertekend. Het dient te worden bekrachtigd, aanvaard of goedgekeurd. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
 
@@ -70,13 +95,13 @@ Wijzigt het Europees Verdrag betreffende uitlevering; Parijs, 13-12-1957.
 
 4. Een Lid-Staat van de Raad van Europa kan dit Protocol niet bekrachtigen, aanvaarden of goedkeuren zonder tegelijkertijd of eerder het Verdrag te hebben bekrachtigd.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Iedere Staat die tot het Verdrag is toegetreden kan tot dit Protocol toetreden, nadat dit in werking is getreden.
 
 2. De toetreding geschiedt door nederlegging bij de Secretaris-Generaal van de Raad van Europa van een akte van toetreding, die van kracht wordt 90 dagen na de datum van nederlegging.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Een Staat kan op het ogenblik van ondertekening of op dat van nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding het grondgebied of de grondgebieden aanwijzen, waarop dit Protocol van toepassing zal zijn.
 
@@ -84,7 +109,7 @@ Wijzigt het Europees Verdrag betreffende uitlevering; Parijs, 13-12-1957.
 
 3. Iedere verklaring, afgelegd krachtens het voorgaande lid, kan, wat betreft ieder in die verklaring aangewezen grondgebied, worden ingetrokken door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte kennisgeving. De intrekking wordt van kracht zes maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal van de Raad van Europa.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Voorbehouden, door een Staat ten aanzien van een bepaling van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001010) gemaakt, zijn eveneens van toepassing op dit Protocol, tenzij die Staat bij de ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding het tegendeel verklaart.
 
@@ -106,11 +131,11 @@ Wijzigt het Europees Verdrag betreffende uitlevering; Parijs, 13-12-1957.
 
 5. Op de bepalingen van dit Protocol is geen ander voorbehoud toegestaan.
 
-#### Artikel 10
+##### Artikel 10
 
 De Europese Commissie voor Strafrechtelijke Vraagstukken van de Raad van Europa wordt op de hoogte gehouden van de toepassing van dit Protocol en vergemakkelijkt, voor zover nodig, een minnelijke schikking van iedere moeilijkheid die ten gevolge van de toepassing van dit Protocol mocht ontstaan.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Een Verdragsluitende Partij kan dit Protocol wat haar betreft opzeggen door middel van een kennisgeving, gericht aan de Secretaris-Generaal van de Raad van Europa.
 
@@ -118,7 +143,7 @@ De Europese Commissie voor Strafrechtelijke Vraagstukken van de Raad van Europa 
 
 3. Opzegging van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001010) heeft automatisch opzegging van dit Protocol ten gevolge.
 
-#### Artikel 12
+##### Artikel 12
 
 De Secretaris-Generaal van de Raad van Europa geeft de Lid-Staten van de Raad en iedere Staat die tot het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001010)is toegetreden kennis van:
 

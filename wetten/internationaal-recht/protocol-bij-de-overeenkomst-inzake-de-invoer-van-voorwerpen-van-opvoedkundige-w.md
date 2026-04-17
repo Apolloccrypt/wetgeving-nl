@@ -1,13 +1,35 @@
 ---
 title: "Protocol bij de Overeenkomst inzake de invoer van voorwerpen van opvoedkundige, wetenschappelijke of culturele aard"
 identifier: "BWBV0003924"
-categorie: "Internationaal recht"
-publicatiedatum: 1982-01-15
-laatste_update: 1982-01-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003924"
+country: "nl"
+rank: "verdrag"
+publication_date: "1982-01-15"
+last_updated: "1982-01-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003924"
+soort: "verdrag"
+stam_id: "10003773293"
+version_id: "10003838072"
+internal_id: "C10006981681"
+label_id: "10003758324"
+dtd_version: "2.0"
+original_entry_into_force: "1982-01-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003924/1982-01-15/0"
+intitule_bron: "Trb.1980-118"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1980-07-25"
+intitule_in_force: "1981-08-18"
+intitule_status: "goed"
+original_publication: "Trb.1980-118"
+original_published_date: "1980-07-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1980-118"
+entry_into_force_date: "1982-01-15"
+jci_1_3: "jci1.3:c:BWBV0003924&z=1982-01-15&g=1982-01-15"
+jci_1_0: "1.0:c:BWBV0003924&g=1982-01-15"
+citeertitel_status: "redactioneel"
+entry_into_force: "1982-01-15"
 ---
-
 # Protocol bij de Overeenkomst inzake de invoer van voorwerpen van opvoedkundige, wetenschappelijke of culturele aard
 
 The contracting States parties to the Agreement on the Importation of Educational, Scientific and Cultural Materials, adopted by the General Conference of the United Nations Educational, Scientific and Cultural Organization at its fifth session held in Florence in 1950,

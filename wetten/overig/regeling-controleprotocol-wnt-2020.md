@@ -1,28 +1,54 @@
 ---
-title: "Regeling Controleprotocol WNT 2020"
+title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 9 juni 2020, nr 2020-0000351254, houdende vaststelling van het Controleprotocol Wet normering topinkomens 2020 (Regeling Controleprotocol WNT 2020)"
 identifier: "BWBR0043725"
-categorie: "Overig"
-publicatiedatum: 2020-07-01
-laatste_update: 2020-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043725"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-07-01"
+last_updated: "2020-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043725"
+soort: "ministeriele-regeling"
+stam_id: "15516013"
+version_id: "26811872"
+internal_id: "C37988951"
+label_id: "15458414"
+dtd_version: "2.0"
+original_entry_into_force: "2020-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043725/2020-07-01/0"
+intitule_bron: "Stcrt.2020-31379"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-06-09"
+intitule_published: "2020-06-22"
+intitule_in_force: "2020-06-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-31379"
+original_signed_date: "2020-06-09"
+original_published_date: "2020-06-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-31379"
+entry_into_force_date: "2020-07-01"
+jci_1_3: "jci1.3:c:BWBR0043725&z=2020-07-01&g=2020-07-01"
+jci_1_0: "1.0:c:BWBR0043725&g=2020-07-01"
+citeertitel_status: "officieel"
+short_title: "Regeling Controleprotocol WNT 2020"
+signed_date: "2020-06-09"
+entry_into_force: "2020-07-01"
 ---
-
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 9 juni 2020, nr 2020-0000351254, houdende vaststelling van het Controleprotocol Wet normering topinkomens 2020 (Regeling Controleprotocol WNT 2020)
 
 Gelet op [artikel 1.9, onderdeel d, van de Wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=1.9);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Het protocol voor controle van het financieel verslaggevingsdocument door de accountant over het jaar 2020 op de naleving van de [Wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) en de daarop rustende bepalingen wordt vastgesteld overeenkomstig de bijlage bij deze regeling.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling treedt in werking met ingang van 1 juli 2020.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling wordt aangehaald als: Regeling Controleprotocol WNT 2020.
 

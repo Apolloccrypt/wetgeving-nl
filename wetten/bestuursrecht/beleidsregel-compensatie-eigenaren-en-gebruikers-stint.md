@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregel compensatie eigenaren en gebruikers Stint"
+title: "Beleidsregel van de Minister van Infrastructuur en Waterstaat, van 25 september 2023, nr. IENW/BSK-2023/266714, houdende vaststelling van regels wat betreft de compensatie van eigenaren en gebruikers van bijzondere bromfietsen van het merk Stint voor schade die samenhangt met de schorsing en intrekking van de aanwijzing van dit voertuig (Beleidsregel compensatie eigenaren en gebruikers Stint)"
 identifier: "BWBR0048692"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-10-03
-laatste_update: 2023-10-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048692"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2023-10-03"
+last_updated: "2023-10-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048692"
+soort: "beleidsregel"
+stam_id: "16872193"
+version_id: "29652742"
+internal_id: "C42435521"
+label_id: "16784434"
+dtd_version: "2.0"
+original_entry_into_force: "2023-10-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048692/2023-10-03/0"
+intitule_bron: "Stcrt.2023-27085"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-09-25"
+intitule_published: "2023-10-02"
+intitule_in_force: "2023-10-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-27085"
+original_signed_date: "2023-09-25"
+original_published_date: "2023-10-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-27085"
+entry_into_force_date: "2023-10-03"
+jci_1_3: "jci1.3:c:BWBR0048692&z=2023-10-03&g=2023-10-03"
+jci_1_0: "1.0:c:BWBR0048692&g=2023-10-03"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel compensatie eigenaren en gebruikers Stint"
+signed_date: "2023-09-25"
+entry_into_force: "2023-10-03"
 ---
-
 # Beleidsregel van de Minister van Infrastructuur en Waterstaat, van 25 september 2023, nr. IENW/BSK-2023/266714, houdende vaststelling van regels wat betreft de compensatie van eigenaren en gebruikers van bijzondere bromfietsen van het merk Stint voor schade die samenhangt met de schorsing en intrekking van de aanwijzing van dit voertuig (Beleidsregel compensatie eigenaren en gebruikers Stint)
 
 Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
 
 BESLUIT:
 
-#### Artikel 1. (Begripsbepalingen)
+##### Artikel 1. (Begripsbepalingen)
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -46,7 +72,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - −. **waardevermindering:** schade van de eigenaar bestaande uit de daling van de waarde van de Stint of startset, vanwege het in werking treden van het schorsingsbesluit.
 
-#### Artikel 2. (Verstrekking en hoogte compensatie)
+##### Artikel 2. (Verstrekking en hoogte compensatie)
 
 1. De Minister verstrekt, onder de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048692&artikel=3&z=2023-10-03&g=2023-10-03) genoemde voorwaarden, op aanvraag een compensatie aan de aanvrager:
 
@@ -62,7 +88,7 @@ In deze beleidsregel wordt verstaan onder:
 
 4. De Minister verstrekt voor andere schade dan bedoeld in het eerste tot en met derde lid van deze bepaling geen compensatie.
 
-#### Artikel 3. (Voorwaarden compensatie)
+##### Artikel 3. (Voorwaarden compensatie)
 
 De aanvrager komt voor een compensatie in aanmerking uitsluitend onder de voorwaarden dat:
 
@@ -74,7 +100,7 @@ De aanvrager komt voor een compensatie in aanmerking uitsluitend onder de voorwa
 
 - d. de aanvrager, die om compensatie vraagt vanwege een niet aangewezen type, de akte van cessie, bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0048692&bijlage=II&z=2023-10-03&g=2023-10-03), volledig ingevuld toezendt waarmee de aanvrager zijn vorderingen op derden, niet zijnde de Staat der Nederlanden, tot vergoeding van de waardevermindering of gevolgschade als gevolg van het niet kunnen gebruiken van een Stint of startset, ter hoogte van het bedrag dat op grond van deze beleidsregel wordt gecompenseerd, zal overdragen aan de Staat der Nederlanden.
 
-#### Artikel 4. (Indienen aanvraag)
+##### Artikel 4. (Indienen aanvraag)
 
 1. Een aanvraag voor een compensatie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048692&artikel=2&z=2023-10-03&g=2023-10-03), wordt ingediend bij de Minister, waarbij gebruik wordt gemaakt van het door de Minister vastgestelde formulier dat elektronisch beschikbaar wordt gesteld.
 
@@ -110,21 +136,21 @@ De aanvrager komt voor een compensatie in aanmerking uitsluitend onder de voorwa
 
 - c). de aanvraag is ontvangen na de datum waarop een aanvraag om een compensatie uiterlijk kan worden ingediend, als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048692&artikel=5&z=2023-10-03&g=2023-10-03).
 
-#### Artikel 5. (Aanvraagperiode)
+##### Artikel 5. (Aanvraagperiode)
 
 Een aanvraag om een compensatie kan worden ingediend van 16 oktober 2023 tot en met uiterlijk 15 januari 2024.
 
-#### Artikel 6. (Besluit)
+##### Artikel 6. (Besluit)
 
 1. De Minister besluit binnen acht weken na het verstrijken van de aanvraagperiode als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048692&artikel=5&z=2023-10-03&g=2023-10-03) of een compensatie wordt verstrekt. Bij een aanvraag als bedoeld [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048692&artikel=2&z=2023-10-03&g=2023-10-03), besluit de Minister binnen een redelijke termijn na het verstrijken van de aanvraagperiode.
 
 2. De Minister kan de beslissing bedoeld in het eerste lid, onder opgaaf van redenen, eenmaal voor ten hoogste acht weken verdagen. Van de verdaging wordt schriftelijk mededeling gedaan.
 
-#### Artikel 7. (Informatieverplichting)
+##### Artikel 7. (Informatieverplichting)
 
 De aanvrager verstrekt op verzoek of uit eigen beweging alle inlichtingen en bewijsstukken die nodig zijn voor de uitvoering en besluitvorming op grond van deze beleidsregel en verleent ook overigens de medewerking die redelijkerwijs nodig is.
 
-#### Artikel 8. (Wijziging, intrekking en terugvordering)
+##### Artikel 8. (Wijziging, intrekking en terugvordering)
 
 1. De Minister kan een besluit tot verstrekking van een compensatie wijzigen of intrekken indien:
 
@@ -136,11 +162,11 @@ De aanvrager verstrekt op verzoek of uit eigen beweging alle inlichtingen en bew
 
 2. De Minister vordert het bedrag dat als gevolg van een besluit als bedoeld in het eerste lid ten onrechte is uitbetaald terug van degene aan wie is uitbetaald.
 
-#### Artikel 9. (Inwerkingtreding)
+##### Artikel 9. (Inwerkingtreding)
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin hij wordt geplaatst.
 
-#### Artikel 10. (Citeertitel)
+##### Artikel 10. (Citeertitel)
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel compensatie eigenaren en gebruikers Stint.
 

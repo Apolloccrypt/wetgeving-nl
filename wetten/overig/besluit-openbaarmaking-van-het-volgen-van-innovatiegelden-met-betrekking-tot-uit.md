@@ -1,13 +1,39 @@
 ---
-title: "Besluit openbaarmaking van het volgen van innovatiegelden met betrekking tot uiteenlopende innovatiedoeleinden"
+title: "Besluit van de Minister van Economische Zaken, Landbouw en Innovatie van 11 april 2012, nr DII1235364, houdende openbaarmaking van het volgen van innovatiegelden met betrekking tot uiteenlopende innovatiedoeleinden"
 identifier: "BWBR0031474"
-categorie: "Overig"
-publicatiedatum: 2012-04-20
-laatste_update: 2012-04-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031474"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2012-04-20"
+last_updated: "2012-04-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031474"
+soort: "ministeriele-regeling"
+stam_id: "11713473"
+version_id: "19343012"
+internal_id: "C27026811"
+label_id: "11686044"
+dtd_version: "2.0"
+original_entry_into_force: "2012-04-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031474/2012-04-20/0"
+intitule_bron: "Stcrt.2012-7695"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-04-11"
+intitule_published: "2012-04-19"
+intitule_in_force: "2012-04-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-7695"
+original_signed_date: "2012-04-11"
+original_published_date: "2012-04-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-7695"
+entry_into_force_date: "2012-04-20"
+jci_1_3: "jci1.3:c:BWBR0031474&z=2012-04-20&g=2012-04-20"
+jci_1_0: "1.0:c:BWBR0031474&g=2012-04-20"
+citeertitel_status: "redactioneel"
+short_title: "Besluit openbaarmaking van het volgen van innovatiegelden met betrekking tot uiteenlopende innovatiedoeleinden"
+signed_date: "2012-04-11"
+entry_into_force: "2012-04-20"
 ---
-
 # Besluit van de Minister van Economische Zaken, Landbouw en Innovatie van 11 april 2012, nr DII1235364, houdende openbaarmaking van het volgen van innovatiegelden met betrekking tot uiteenlopende innovatiedoeleinden
 
 Gelet op [titel 4.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2);
@@ -166,7 +192,7 @@ Gelet op de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artike
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Op grond van het vorenstaande worden van alle verleende innovatiegelden in het kader van de uitvoering van bovengenoemde regelingen, de gegevens met betrekking tot :
 
@@ -198,7 +224,7 @@ drie weken na de bekendmaking van deze beslissing gepubliceerd op website www.ag
 
 2. De gegevens, bedoeld in het eerste lid, hebben uitsluitend betrekking op rechtspersonen.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 

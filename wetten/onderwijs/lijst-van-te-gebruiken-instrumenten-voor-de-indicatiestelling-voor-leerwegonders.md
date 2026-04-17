@@ -1,13 +1,36 @@
 ---
 title: "Lijst van te gebruiken instrumenten voor de indicatiestelling voor leerwegondersteunend onderwijs (lwoo) en praktijkonderwijs (pro) schooljaar 2003 - 2004"
 identifier: "BWBR0014114"
-categorie: "Onderwijs"
-publicatiedatum: 2002-10-30
-laatste_update: 2002-10-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0014114"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2002-10-30"
+last_updated: "2002-10-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0014114"
+soort: "beleidsregel"
+stam_id: "6496913"
+version_id: "11183242"
+internal_id: "C15110281"
+label_id: "6485534"
+original_entry_into_force: "2002-10-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0014114/2002-10-30/0"
+intitule_bron: "Uitleg.2002-24"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-10-10"
+intitule_published: "2002-10-30"
+intitule_in_force: "2002-10-30"
+intitule_status: "goed"
+original_publication: "Uitleg.2002-24"
+original_signed_date: "2002-10-10"
+original_published_date: "2002-10-30"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2002-10-30"
+jci_1_3: "jci1.3:c:BWBR0014114&z=2002-10-30&g=2002-10-30"
+jci_1_0: "1.0:c:BWBR0014114&g=2002-10-30"
+citeertitel_status: "redactioneel"
+signed_date: "2002-10-10"
+entry_into_force: "2002-10-30"
 ---
-
 # Lijst van te gebruiken instrumenten voor de indicatiestelling voor leerwegondersteunend onderwijs (lwoo) en praktijkonderwijs (pro) schooljaar 2003 - 2004
 
 ### 1. Inleiding

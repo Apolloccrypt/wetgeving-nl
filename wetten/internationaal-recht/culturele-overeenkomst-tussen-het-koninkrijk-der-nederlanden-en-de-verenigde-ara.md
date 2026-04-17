@@ -1,18 +1,40 @@
 ---
 title: "Culturele Overeenkomst tussen het Koninkrijk der Nederlanden en de Verenigde Arabische Republiek"
 identifier: "BWBV0004833"
-categorie: "Internationaal recht"
-publicatiedatum: 1962-08-08
-laatste_update: 1962-08-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004833"
+country: "nl"
+rank: "verdrag"
+publication_date: "1962-08-08"
+last_updated: "1962-08-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004833"
+soort: "verdrag"
+stam_id: "10004342753"
+version_id: "10004542802"
+internal_id: "C10006694521"
+label_id: "10004327674"
+dtd_version: "2.0"
+original_entry_into_force: "1962-08-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004833/1962-08-08/0"
+intitule_bron: "Trb.1961-2"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1961-01-11"
+intitule_in_force: "1962-09-27"
+intitule_status: "goed"
+original_publication: "Trb.1961-2"
+original_published_date: "1961-01-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1961-2"
+entry_into_force_date: "1962-08-08"
+jci_1_3: "jci1.3:c:BWBV0004833&z=1962-08-08&g=1962-08-08"
+jci_1_0: "1.0:c:BWBV0004833&g=1962-08-08"
+citeertitel_status: "redactioneel"
+entry_into_force: "1962-08-08"
 ---
-
 # Culturele Overeenkomst tussen het Koninkrijk der Nederlanden en de Verenigde Arabische Republiek
 
 De Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Arabische Republiek, de wens koesterende de culturele banden tussen de beide Landen te versterken en een nauwe samenwerking op het gebied van het onderwijs, de wetenschappen en de kunsten te bewerkstelligen, en om de vriendschappelijke verstandhouding te bevestigen en een zo volledig mogelijk begrip tussen de beide volken te handhaven, hebben besloten een culturele overeenkomst te sluiten en zijn de volgende bepalingen overeengekomen:
 
-#### Artikel I
+##### Artikel I
 
 De Overeenkomstsluitende Partijen verbinden zich de culturele, wetenschappelijke en kunstzinnige samenwerking tussen de beide Landen aan te moedigen en wel door het nemen van alle daartoe noodzakelijke maatregelen. Zij verbinden zich met name ertoe:
 
@@ -28,11 +50,11 @@ De Overeenkomstsluitende Partijen verbinden zich de culturele, wetenschappelijke
 
 - f). elk op Haar eigen grondgebied, en overeenkomstig de in elk der beide Landen van kracht zijnde wetten, werkzaamheden op het gebied der oudheidkunde door het andere Land ondernomen te vergemakkelijken.
 
-#### Artikel II
+##### Artikel II
 
 De bevoegde Autoriteiten in elk der beide Landen zullen de maatregelen nemen die noodzakelijk zijn om de waarde der door de instellingen van het andere Land verleende diploma's en akademische titels te bepalen.
 
-#### Artikel III
+##### Artikel III
 
 De Overeenkomstsluitende Partijen zullen bijzondere aandacht besteden aan het vraagstuk van de herziening van leerboeken op het gebied van de geschiedenis en de aardrijkskunde der beide Landen.
 
@@ -40,15 +62,15 @@ Zij zullen met name alle faciliteiten verlenen aan organen en personen, die zich
 
 Deze herziening zou zich eveneens moeten uitstrekken tot het audiovisuele materiaal dat gebruikt wordt bij het geschiedenis- en aardrijkskunde-onderwijs, in het bijzonder kaarten, wandplaten, diapositieven en films.
 
-#### Artikel IV
+##### Artikel IV
 
 Elk der Overeenkomstsluitende Partijen verbindt zich - voor zover zulks binnen Haar bevoegdheid ligt - faciliteiten te verlenen aan de burgers van het andere Land die de wens koesteren theoretische studiën te ondernemen of een praktische leertijd te doorlopen in Haar universiteiten, instellingen van wetenschap, fabrieken en laboratoria.
 
-#### Artikel V
+##### Artikel V
 
 Teneinde bij te dragen tot een goede uitvoering dezer Overeenkomst in overeenstemming met haar doeleinden keuren de Overeenkomstsluitende Partijen ter verwezenlijking der wetenschappelijke en culturele samenwerking tussen de beide Landen de oprichting van bilaterale genootschappen op hun onderscheidene grondgebieden goed. Deze genootschappen zullen aan de in elk Land van kracht zijnde wetten en voorschriften worden onderworpen.
 
-#### Artikel VI
+##### Artikel VI
 
 Elk der Overeenkomstsluitende Partijen zal in Haar eigen Land jegens de andere Partij alle mogelijke faciliteiten verlenen wat betreft:
 
@@ -56,15 +78,15 @@ Elk der Overeenkomstsluitende Partijen zal in Haar eigen Land jegens de andere P
 
 - II). de onderwijsinstellingen.
 
-#### Artikel VII
+##### Artikel VII
 
 De onderhavige Overeenkomst zal worden bekrachtigd en de akten van bekrachtiging zullen zo spoedig mogelijk te Cairo worden uitgewisseld. De Overeenkomst zal in werking treden op de datum van de uitwisseling van de akten van bekrachtiging.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wat het Koninkrijk der Nederlanden betreft, zal de onderhavige Overeenkomst van toepassing zijn op het in Europa gelegen gebied.
 
-#### Artikel IX
+##### Artikel IX
 
 De onderhavige Overeenkomst zal van kracht blijven voor een tijdvak van vijf jaar. Indien zij niet zes maanden voor de datum van haar beëindiging is opgezegd, zal zij stilzwijgend worden verlengd, met dien verstande dat elk van de Overeenkomstsluitende Partijen zich in dat geval het recht voorbehoudt haar op ieder tijdstip op te zeggen met inachtneming van een termijn van zes maanden.
 

@@ -1,14 +1,42 @@
 ---
-title: "Wet inkomstenbelasting 2001"
+title: "Wet van 11 mei 2000 tot vaststelling van de Wet inkomstenbelasting 2001 (Belastingherziening 2001)"
 identifier: "BWBR0011353"
-categorie: "Belastingrecht"
-publicatiedatum: 2026-02-21
-laatste_update: 2026-02-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011353"
+country: "nl"
+rank: "wet"
+publication_date: "2026-02-21"
+last_updated: "2026-02-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011353"
+soort: "wet"
+stam_id: "2833443"
+version_id: "20009702"
+internal_id: "C33893291"
+label_id: "2787014"
+dtd_version: "2.0"
+original_entry_into_force: "2012-12-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011353/2026-02-21/0"
+intitule_bron: "Stb.2000-215"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-05-11"
+intitule_published: "2000-05-30"
+intitule_in_force: "2000-05-30"
+intitule_status: "goed"
+original_publication: "Stb.2012-670"
+original_signed_date: "2012-12-20"
+original_published_date: "2012-12-27"
+original_effect: "structuurwijziging"
+original_dossier: "33405"
+original_url_id: "stb-2012-670"
+entry_into_force_date: "2012-12-20"
+entry_into_force_dossier: "33405"
+jci_1_3: "jci1.3:c:BWBR0011353&z=2026-02-21&g=2026-02-21"
+jci_1_0: "1.0:c:BWBR0011353&g=2026-02-21"
+citeertitel_status: "officieel"
+short_title: "Wet inkomstenbelasting 2001"
+signed_date: "2012-12-20"
+entry_into_force: "2012-12-20"
 ---
-
-# Wet inkomstenbelasting 2001
+# Wet van 11 mei 2000 tot vaststelling van de Wet inkomstenbelasting 2001 (Belastingherziening 2001)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -20,11 +48,11 @@ De inwerkingtredingsdatum van de artikelen 3.16, 3.120, 4.15 en 5.4 is gewijzigd
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1. Inkomstenbelasting
+##### Artikel 1.1. Inkomstenbelasting
 
 Onder de naam inkomstenbelasting wordt een belasting geheven van natuurlijke personen.
 
-#### Artikel 1.2. Uitbreiding en beperking partnerregeling
+##### Artikel 1.2. Uitbreiding en beperking partnerregeling
 
 1. In aanvulling op [artikel 5a van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5a) wordt voor de toepassing van deze wet en de daarop berustende bepalingen onder partner mede verstaan degene die op hetzelfde woonadres als de belastingplichtige staat ingeschreven in de basisregistratie personen en:
 
@@ -64,27 +92,27 @@ Onder de naam inkomstenbelasting wordt een belasting geheven van natuurlijke per
 
 10. Op een verzoek als bedoeld in het eerste lid, onderdeel e, het vierde lid, onderdeel c, of het achtste lid beslist de inspecteur bij voor bezwaar vatbare beschikking.
 
-#### Artikel 1.3. De keuze voor kwalificatie als partner
+##### Artikel 1.3. De keuze voor kwalificatie als partner
 
 Vervallen
 
-#### Artikel 1.4. Pleegkind
+##### Artikel 1.4. Pleegkind
 
 Voor de toepassing van deze wet en de daarop berustende bepalingen wordt onder een **kind** mede verstaan een pleegkind, ook wat betreft bloed- en aanverwantschap.
 
-#### Artikel 1.5. In belangrijke mate onderhouden van kinderen
+##### Artikel 1.5. In belangrijke mate onderhouden van kinderen
 
 Voor de toepassing van deze wet en de daarop berustende bepalingen kunnen bij ministeriële regeling regels worden gesteld op grond waarvan wordt beoordeeld of een **kind** in belangrijke mate wordt onderhouden.
 
-#### Artikel 1.6. Mogendheid
+##### Artikel 1.6. Mogendheid
 
 Voor de toepassing van deze wet en de daarop berustende bepalingen worden de landen van het Koninkrijk der Nederlanden aangemerkt als afzonderlijke mogendheden.
 
-#### Artikel 1.6a. Levensverzekering
+##### Artikel 1.6a. Levensverzekering
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder levensverzekering een overeenkomst van levensverzekering als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1).
 
-#### Artikel 1.7. Lijfrenten en pensioenen
+##### Artikel 1.7. Lijfrenten en pensioenen
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder lijfrente:
 
@@ -112,15 +140,15 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder levensverzek
 
 6. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld op grond waarvan een regeling als bedoeld in het tweede lid, onderdeel b, die vrijwillig wordt voortgezet nadat de arbeidsverhouding op grond waarvan deelneming aan die pensioenregeling was verplicht is geëindigd, tevens als pensioenregeling wordt aangemerkt.
 
-#### Artikel 1.7a. Gelijkstelling met inkomen uit tegenwoordige arbeid
+##### Artikel 1.7a. Gelijkstelling met inkomen uit tegenwoordige arbeid
 
 Vervallen
 
-#### Artikel 1.7b. Gelijkstelling met de premie voor een verzekering
+##### Artikel 1.7b. Gelijkstelling met de premie voor een verzekering
 
 Vervallen
 
-#### Artikel 1.8. Wederzijdse erkenning
+##### Artikel 1.8. Wederzijdse erkenning
 
 Waar in deze wet en de daarop berustende bepalingen wordt verwezen naar Nederlandse voorschriften of verklaringen van Nederlandse instellingen, worden voorschriften van of verklaringen van instellingen in een van de lidstaten van de Europese Unie die naar aard en strekking overeenkomen met eerstbedoelde Nederlandse voorschriften of verklaringen van Nederlandse instellingen daarmee gelijkgesteld:
 
@@ -128,13 +156,13 @@ Waar in deze wet en de daarop berustende bepalingen wordt verwezen naar Nederlan
 
 - b. in overige gevallen: voorzover dat bij ministeriële regeling is bepaald.
 
-#### Artikel 1.9. Gelijkstelling met basisregistratie personen
+##### Artikel 1.9. Gelijkstelling met basisregistratie personen
 
 1. Voor de toepassing van deze wet en de daarop berustende bepalingen wordt met de basisregistratie personen gelijkgesteld een daarmee naar aard en strekking overeenkomende registratie buiten Nederland.
 
 2. Bij ministeriële regeling kunnen nadere regels worden gesteld voor de situatie dat een persoon niet in Nederland woont en niet is ingeschreven in een naar aard en strekking met de basisregistratie personen overeenkomende registratie buiten Nederland.
 
-#### Artikel 1.10. Vaste inrichting of vaste vertegenwoordiger
+##### Artikel 1.10. Vaste inrichting of vaste vertegenwoordiger
 
 Voor de toepassing van deze wet en de daarop berustende bepalingen wordt onder vaste inrichting of vaste vertegenwoordiger verstaan een vaste inrichting of vaste vertegenwoordiger als bedoeld in [artikel 3, vierde tot en met twaalfde lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=3).
 
@@ -142,7 +170,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt onder v
 
 ### Afdeling 2.1. Belastingplichtigen
 
-#### Artikel 2.1. Belastingplichtigen
+##### Artikel 2.1. Belastingplichtigen
 
 1. Belastingplichtigen voor de inkomstenbelasting zijn de natuurlijke personen die:
 
@@ -152,7 +180,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt onder v
 
 2. Nederlands inkomen is inkomen bedoeld in [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=7&z=2026-02-21&g=2026-02-21).
 
-#### Artikel 2.2. Woonplaatsfictie
+##### Artikel 2.2. Woonplaatsfictie
 
 1. Een persoon die ophoudt in Nederland te wonen en binnen een jaar daarna weer in Nederland gaat wonen zonder intussen in een andere mogendheid of op de BES eilanden te hebben gewoond, wordt ook tijdens zijn afwezigheid geacht in Nederland te hebben gewoond. De vorige volzin is niet van toepassing indien de bedoelde persoon aannemelijk maakt dat hij in een lidstaat van de Europese Unie of een bij ministeriële regeling aangewezen mogendheid waarmee Nederland een regeling ter voorkoming van dubbele belasting is overeengekomen die voorziet in de uitwisseling van inlichtingen, als inwoner aan de belastingheffing is onderworpen en de heffingsgrondslagen in die lidstaat of andere mogendheid hoofdzakelijk gelijk zijn aan de in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=2&afdeling=2.2&artikel=2.3&z=2026-02-21&g=2026-02-21) genoemde heffingsgrondslagen. De eerste volzin is evenmin van toepassing indien de bedoelde persoon aannemelijk maakt dat hij op de BES eilanden als inwoner onderworpen is aan de [Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281).
 
@@ -166,7 +194,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt onder v
 
 ### Afdeling 2.2. Heffingsgrondslagen
 
-#### Artikel 2.3. Heffingsgrondslagen
+##### Artikel 2.3. Heffingsgrondslagen
 
 De inkomstenbelasting wordt geheven over het door de belastingplichtige in het kalenderjaar genoten:
 
@@ -176,7 +204,7 @@ De inkomstenbelasting wordt geheven over het door de belastingplichtige in het k
 
 - c. belastbare inkomen uit sparen en beleggen.
 
-#### Artikel 2.4. Bepalingen heffingsgrondslagen
+##### Artikel 2.4. Bepalingen heffingsgrondslagen
 
 1. Het belastbare inkomen uit werk en woning wordt bepaald:
 
@@ -196,17 +224,17 @@ De inkomstenbelasting wordt geheven over het door de belastingplichtige in het k
 
 - b. voor buitenlandse belastingplichtigen: volgens de regels van de [afdelingen 7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=7&afdeling=7.4&z=2026-02-21&g=2026-02-21) en [7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=7&afdeling=7.5&z=2026-02-21&g=2026-02-21).
 
-#### Artikel 2.5. Keuzerecht voor buitenlandse belastingplichtigen
+##### Artikel 2.5. Keuzerecht voor buitenlandse belastingplichtigen
 
 Vervallen
 
-#### Artikel 2.6. Keuzerecht voor in het buitenland geworven deskundigen
+##### Artikel 2.6. Keuzerecht voor in het buitenland geworven deskundigen
 
 Vervallen
 
 ### Afdeling 2.3. Verschuldigde inkomstenbelasting
 
-#### Artikel 2.7. Verschuldigde inkomstenbelasting; hoofdregel
+##### Artikel 2.7. Verschuldigde inkomstenbelasting; hoofdregel
 
 1. De over een kalenderjaar verschuldigde inkomstenbelasting is het gezamenlijke bedrag van de over het kalenderjaar berekende belasting op:
 
@@ -220,7 +248,7 @@ Vervallen
 
 3. Indien de belastingplichtige ook premieplichtig is voor de volksverzekeringen en de volgens [artikel 12, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=12) berekende heffingskorting voor de volksverzekeringen niet volledig kan worden verrekend met de volgens [artikel 10 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=10) berekende premie voor de volksverzekeringen, wordt het bedrag van de verschuldigde inkomstenbelasting, na toepassing van regelingen ter voorkoming van dubbele belasting, ook met dat niet verrekende deel verminderd.
 
-#### Artikel 2.8. Verschuldigde inkomstenbelasting op gewone aanslag
+##### Artikel 2.8. Verschuldigde inkomstenbelasting op gewone aanslag
 
 1. Indien in het belastbare inkomen uit werk en woning of het belastbare inkomen uit aanmerkelijk belang te conserveren inkomen is begrepen, is de verschuldigde belasting voorzover deze bij wege van aanslag wordt geheven de belasting die wordt berekend over de belastbare inkomens, verminderd met het daarin begrepen te conserveren inkomen.
 
@@ -236,7 +264,7 @@ Vervallen
 
 7. Op verzoek van de gezamenlijke belanghebbenden wordt als te conserveren inkomen aangemerkt het in de tweede volzin aangeduide gedeelte van het vervreemdingsvoordeel uit aanmerkelijk belang wegens een vervreemding aan een natuurlijk persoon die niet in Nederland woont en bij welke vervreemding [artikel 4.22](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.2&artikel=4.22&z=2026-02-21&g=2026-02-21) toepassing heeft gevonden. Als te conserveren inkomen wordt aangemerkt het deel dat uitgaat boven het vervreemdingsvoordeel dat ingevolge [artikel 4.17c](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.1&artikel=4.17c&z=2026-02-21&g=2026-02-21) in aanmerking zou zijn genomen wanneer de natuurlijk persoon, bedoeld in de eerste volzin, in Nederland zou hebben gewoond ten tijde van de vervreemding.
 
-#### Artikel 2.9. Verschuldigde belasting op conserverende aanslag
+##### Artikel 2.9. Verschuldigde belasting op conserverende aanslag
 
 1. De over te conserveren inkomen verschuldigde belasting is het volgens [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=2&afdeling=2.3&artikel=2.7&z=2026-02-21&g=2026-02-21) bepaalde bedrag aan belasting verminderd met het volgens [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=2&afdeling=2.3&artikel=2.8&z=2026-02-21&g=2026-02-21) bepaalde bedrag aan belasting, met dien verstande dat de belasting ten minste wordt gesteld op het bedrag aan belasting dat verschuldigd zou zijn indien het te conserveren inkomen het enige inkomen zou zijn.
 
@@ -244,7 +272,7 @@ Vervallen
 
 3. In afwijking van het eerste lid is de verschuldigde belasting over inkomen dat op grond van [artikel 7.2, twintigste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=7&afdeling=7.2&artikel=7.2&z=2026-02-21&g=2026-02-21), in aanmerking wordt genomen en dat op grond van [artikel 2.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=2&afdeling=2.3&artikel=2.8&z=2026-02-21&g=2026-02-21), wordt aangemerkt als te conserveren inkomen gelijk aan het bedrag dat volgt uit de overeenkomstige toepassing van [artikel 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=2&afdeling=2.3&artikel=2.12&z=2026-02-21&g=2026-02-21), geldend in het kalenderjaar van de omzetting, bedoeld in [artikel 3.65, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.65&z=2026-02-21&g=2026-02-21), op dat te conserveren inkomen, na vermindering van dat inkomen met het bedrag dat volgt uit de toepassing op dat te conserveren inkomen van [artikel 22 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=22), geldend in het jaar van de omzetting.
 
-#### Artikel 2.10. Tarief belastbaar inkomen uit werk en woning
+##### Artikel 2.10. Tarief belastbaar inkomen uit werk en woning
 
 1. De belasting op het belastbare inkomen uit werk en woning ([afdeling 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.1&z=2026-02-21&g=2026-02-21) respectievelijk [afdeling 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=7&afdeling=7.2&z=2026-02-21&g=2026-02-21)) wordt bepaald aan de hand van de volgende tabel.
 
@@ -269,7 +297,7 @@ Vervallen
 
 - e. de persoonsgebonden aftrek, bedoeld in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=6&afdeling=6.1&artikel=6.1&z=2026-02-21&g=2026-02-21).
 
-#### Artikel 2.10a. Tarief belastbaar inkomen uit werk en woning voor belastingplichtigen geboren vóór 1 januari 1946
+##### Artikel 2.10a. Tarief belastbaar inkomen uit werk en woning voor belastingplichtigen geboren vóór 1 januari 1946
 
 1. In afwijking van [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=2&afdeling=2.3&artikel=2.10&z=2026-02-21&g=2026-02-21) wordt voor de belastingplichtige die geboren is vóór 1 januari 1946 de belasting op het belastbare inkomen uit werk en woning ([afdeling 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.1&z=2026-02-21&g=2026-02-21) respectievelijk [afdeling 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=7&afdeling=7.2&z=2026-02-21&g=2026-02-21)) bepaald aan de hand van de volgende tabel.
 
@@ -294,11 +322,11 @@ Vervallen
 
 - e. de persoonsgebonden aftrek, bedoeld in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=6&afdeling=6.1&artikel=6.1&z=2026-02-21&g=2026-02-21).
 
-#### Artikel 2.11. Overschrijding pensioenmaximum
+##### Artikel 2.11. Overschrijding pensioenmaximum
 
 Vervallen
 
-#### Artikel 2.11a. Verrekening belastingkorting voor verlies uit aanmerkelijk belang
+##### Artikel 2.11a. Verrekening belastingkorting voor verlies uit aanmerkelijk belang
 
 1. De belasting op het belastbare inkomen uit werk en woning nadat de regelingen ter voorkoming van dubbele belasting zijn toegepast, wordt verminderd op de voet van artikel 4.53 met een nog niet in aanmerking genomen belastingkorting voor verlies uit aanmerkelijk belang. De in de eerste volzin bedoelde belasting op het belastbare inkomen uit werk en woning wordt bepaald zonder rekening te houden met te conserveren inkomen.
 
@@ -312,7 +340,7 @@ Vervallen
 
 6. Rechtsmiddelen tegen de beschikking kunnen uitsluitend betrekking hebben op de toepassing van artikel 4.53, alsmede, indien geen belasting is verschuldigd, tegen de grootte van het verrekende bedrag.
 
-#### Artikel 2.12. Tarief belastbaar inkomen uit aanmerkelijk belang
+##### Artikel 2.12. Tarief belastbaar inkomen uit aanmerkelijk belang
 
 De belasting op het belastbare inkomen uit aanmerkelijk belang ([afdeling 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.1&z=2026-02-21&g=2026-02-21) respectievelijk [afdeling 7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=7&afdeling=7.3&z=2026-02-21&g=2026-02-21)) wordt bepaald aan de hand van de volgende tabel.
 
@@ -322,13 +350,13 @@ De belasting op het belastbare inkomen uit aanmerkelijk belang ([afdeling 4.1](h
 | – | € 68.843 | – | 24,5% |
 | € 68.843 | – | € 16.866 | 31% |
 
-#### Artikel 2.13. Tarief belastbaar inkomen uit sparen en beleggen
+##### Artikel 2.13. Tarief belastbaar inkomen uit sparen en beleggen
 
 De belasting op het belastbare inkomen uit sparen en beleggen ([afdeling 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.1&z=2026-02-21&g=2026-02-21) respectievelijk [afdeling 7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=7&afdeling=7.4&z=2026-02-21&g=2026-02-21)) bedraagt 36%.
 
 ### Afdeling 2.4. Toerekeningsregels
 
-#### Artikel 2.14. Toerekening tussen en binnen de belastbare inkomens
+##### Artikel 2.14. Toerekening tussen en binnen de belastbare inkomens
 
 1. Indien een voordeel op grond van meer dan een hoofdstuk, afdeling of paragraaf als bestanddeel, al dan niet vrijgesteld, van een van de belastbare inkomens zou kunnen worden aangemerkt, wordt het voordeel uitsluitend op grond van het als eerste opgenomen hoofdstuk of de als eerste opgenomen afdeling of paragraaf aangemerkt als bestanddeel van het desbetreffende belastbare inkomen.
 
@@ -352,7 +380,7 @@ De belasting op het belastbare inkomen uit sparen en beleggen ([afdeling 5.1](ht
 
 4. Met betrekking tot het derde lid, onderdeel e, is [artikel 3.16, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.16&z=2026-02-21&g=2026-02-21), van overeenkomstige toepassing.
 
-#### Artikel 2.14a. Toerekening afgezonderd particulier vermogen
+##### Artikel 2.14a. Toerekening afgezonderd particulier vermogen
 
 1. Voor de toepassing van deze wet en de daarop berustende bepalingen worden de bezittingen en schulden alsmede de opbrengsten en uitgaven van een afgezonderd particulier vermogen als bedoeld in het tweede lid, geacht bij degene die dat vermogen bij leven of bij overlijden heeft afgezonderd tot zijn bezit te behoren, onderscheidenlijk op te komen (toerekening). Na het overlijden van de persoon, bedoeld in de eerste volzin, worden de bezittingen en schulden alsmede de opbrengsten en uitgaven van een afgezonderd particulier vermogen als bedoeld in het tweede lid, toegerekend aan diens erfgenamen, per erfgenaam in dezelfde verhouding als hij verkrijger krachtens erfrecht is van de overledene. Vanaf het moment dat de in de vorige volzin bedoelde erfgenaam is overleden, treden diens erfgenamen en de daaropvolgende erfgenamen in de plaats van de overleden erfgenaam, per erfgenaam in dezelfde verhouding als hij erfgenaam is van de overleden erfgenaam waarvoor hij in de plaats treedt.
 
@@ -378,7 +406,7 @@ De belasting op het belastbare inkomen uit sparen en beleggen ([afdeling 5.1](ht
 
 8. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de in dit artikel bedoelde toerekening.
 
-#### Artikel 2.15. Toerekening inkomensbestanddelen, rendementsgrondslag en geheven dividendbelasting van een minderjarig kind
+##### Artikel 2.15. Toerekening inkomensbestanddelen, rendementsgrondslag en geheven dividendbelasting van een minderjarig kind
 
 1. Voor de toepassing van deze wet, behoudens voorzover het de toepassing van [artikel 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=2&afdeling=2.4&artikel=2.16&z=2026-02-21&g=2026-02-21) betreft, wordt geen rekening gehouden met het wettelijk vruchtgenot van het vermogen van een minderjarig **kind**.
 
@@ -388,7 +416,7 @@ De belasting op het belastbare inkomen uit sparen en beleggen ([afdeling 5.1](ht
 
 4. Indien het gezag over het kind aan meer dan één ouder toekomt, worden de in het tweede lid bedoelde inkomensbestanddelen, rendementsgrondslag en geheven dividendbelasting in gelijke delen aan ieder van hen toegerekend.
 
-#### Artikel 2.16. Verhaalsrecht
+##### Artikel 2.16. Verhaalsrecht
 
 1. De belastingplichtige aan wie inkomensbestanddelen van een **kind** zijn toegerekend en die daarvan niet het vruchtgenot heeft, heeft verhaal op dat kind voor een gedeelte van de door hem verschuldigde inkomstenbelasting, voorzover deze is voldaan.
 
@@ -398,7 +426,7 @@ De belasting op het belastbare inkomen uit sparen en beleggen ([afdeling 5.1](ht
 
 4. Van het eerste lid kan bij overeenkomst worden afgeweken.
 
-#### Artikel 2.17. Toerekening inkomensbestanddelen, bestanddelen van de rendementsgrondslag, geheven dividendbelasting en korting voor groene beleggingen van de belastingplichtige en zijn partner
+##### Artikel 2.17. Toerekening inkomensbestanddelen, bestanddelen van de rendementsgrondslag, geheven dividendbelasting en korting voor groene beleggingen van de belastingplichtige en zijn partner
 
 1. Inkomensbestanddelen van de belastingplichtige en zijn **partner** worden in aanmerking genomen bij degene door wie de inkomensbestanddelen zijn genoten of op wie deze drukken. Bestanddelen van de rendementsgrondslag van de belastingplichtige en zijn partner worden in aanmerking genomen bij degene tot wiens bezit die bestanddelen behoren.
 
@@ -426,7 +454,7 @@ De belasting op het belastbare inkomen uit sparen en beleggen ([afdeling 5.1](ht
 
 ### Afdeling 2.5. Verzamelinkomen
 
-#### Artikel 2.18. Verzamelinkomen
+##### Artikel 2.18. Verzamelinkomen
 
 Verzamelinkomen is het gezamenlijke bedrag van:
 
@@ -440,7 +468,7 @@ Verzamelinkomen is het gezamenlijke bedrag van:
 
 ### Afdeling 3.1. Belastbaar inkomen uit werk en woning
 
-#### Artikel 3.1. Belastbaar inkomen uit werk en woning
+##### Artikel 3.1. Belastbaar inkomen uit werk en woning
 
 1. Belastbaar inkomen uit werk en woning is het inkomen uit werk en woning verminderd met de te verrekenen verliezen uit werk en woning ([afdeling 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.13&z=2026-02-21&g=2026-02-21)).
 
@@ -472,11 +500,11 @@ Verzamelinkomen is het gezamenlijke bedrag van:
 
 #### Paragraaf 3.2.1. Belastbare winst uit onderneming
 
-#### Artikel 3.2. Belastbare winst uit onderneming
+##### Artikel 3.2. Belastbare winst uit onderneming
 
 Belastbare winst uit onderneming is het gezamenlijke bedrag van de winst die de belastingplichtige als **ondernemer** geniet uit een of meer ondernemingen ([paragraaf 3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&z=2026-02-21&g=2026-02-21)) verminderd met de ondernemersaftrek ([paragraaf 3.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.4&z=2026-02-21&g=2026-02-21)) en de MKB-winstvrijstelling ([paragraaf 3.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.5&z=2026-02-21&g=2026-02-21)).
 
-#### Artikel 3.3. Uitbreiding begrip belastbare winst uit onderneming
+##### Artikel 3.3. Uitbreiding begrip belastbare winst uit onderneming
 
 1. Belastbare winst uit onderneming is mede:
 
@@ -498,17 +526,17 @@ Belastbare winst uit onderneming is het gezamenlijke bedrag van de winst die de 
 
 6. De in het eerste lid, onderdeel b, bedoelde voordelen worden bepaald alsof de schuldvordering een onderneming vormt.
 
-#### Artikel 3.4. Begrip ondernemer
+##### Artikel 3.4. Begrip ondernemer
 
 In deze afdeling en de daarop berustende bepalingen wordt verstaan onder **ondernemer**: de belastingplichtige voor rekening van wie een onderneming wordt gedreven en die rechtstreeks wordt verbonden voor verbintenissen betreffende die onderneming.
 
-#### Artikel 3.5. Zelfstandig uitgeoefend beroep
+##### Artikel 3.5. Zelfstandig uitgeoefend beroep
 
 1. In deze afdeling en de daarop berustende bepalingen wordt mede verstaan onder onderneming: het zelfstandig uitgeoefende beroep.
 
 2. In deze afdeling en de daarop berustende bepalingen wordt mede verstaan onder **ondernemer**: de beoefenaar van een zelfstandig beroep.
 
-#### Artikel 3.6. Begrip urencriterium
+##### Artikel 3.6. Begrip urencriterium
 
 1. In deze afdeling en de daarop berustende bepalingen wordt verstaan onder **urencriterium**: het gedurende het kalenderjaar besteden van ten minste 1225 uren aan werkzaamheden voor een of meer ondernemingen waaruit de belastingplichtige als **ondernemer** winst geniet, indien:
 
@@ -532,17 +560,17 @@ In deze afdeling en de daarop berustende bepalingen wordt verstaan onder **onder
 
 5. Indien de werkzaamheden, bedoeld in het eerste lid, worden onderbroken vanwege zwangerschap van de belastingplichtige, worden deze tijdens de periode die overeenkomt met het zwangerschaps- en bevallingsverlof zoals dat geldt voor werkneemsters, voor de bepaling van het aantal gewerkte uren geacht niet te zijn onderbroken.
 
-#### Artikel 3.7. Begrippen reisafstand en regelmatig woon-werkverkeer
+##### Artikel 3.7. Begrippen reisafstand en regelmatig woon-werkverkeer
 
 Vervallen
 
 #### Paragraaf 3.2.2. Winst uit een onderneming
 
-#### Artikel 3.8. Winst
+##### Artikel 3.8. Winst
 
 Winst uit een onderneming (winst) is het bedrag van de gezamenlijke voordelen die, onder welke naam en in welke vorm ook, worden verkregen uit een onderneming.
 
-#### Artikel 3.9. Maximum verlies
+##### Artikel 3.9. Maximum verlies
 
 1. Voorzover de winst van de belastingplichtige, bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=3.3&z=2026-02-21&g=2026-02-21) in het jaar, vóór toepassing van dit lid, tezamen met de winst van alle daaraan voorafgaande jaren waarin dat artikel op hem van toepassing was, negatief is en in absolute zin uitgaat boven het in het tweede lid bedoelde bedrag, wordt het verschil ten bate van de winst van het jaar gebracht.
 
@@ -550,11 +578,11 @@ Winst uit een onderneming (winst) is het bedrag van de gezamenlijke voordelen di
 
 3. Hetgeen op grond van het eerste lid ten bate van de winst van het jaar is gebracht, wordt ten laste van de winst van het volgende jaar gebracht indien [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=3.3&z=2026-02-21&g=2026-02-21) bij de aanvang van dat volgende jaar nog op de belastingplichtige van toepassing is.
 
-#### Artikel 3.10. Verliezen uit de aanloopfase van een onderneming
+##### Artikel 3.10. Verliezen uit de aanloopfase van een onderneming
 
 Bij ministeriële regeling kunnen regels worden gesteld volgens welke, onder te stellen voorwaarden, de **ondernemer** bij het bepalen van de winst de per saldo resterende kosten en lasten in aftrek kan brengen die zijn gemaakt in de vijf kalenderjaren die onmiddellijk voorafgaan aan het eerste kalenderjaar als **ondernemer**, verband houden met het starten van de onderneming en niet ten laste van het belastbaar inkomen uit werk en woning kunnen of konden worden gebracht.
 
-#### Artikel 3.11. Vrijstelling voor bosbedrijf
+##### Artikel 3.11. Vrijstelling voor bosbedrijf
 
 1. Tot de winst behoren niet voordelen uit bosbedrijf.
 
@@ -564,17 +592,17 @@ Bij ministeriële regeling kunnen regels worden gesteld volgens welke, onder te 
 
 4. De voordelen die worden behaald onmiddellijk voorafgaand aan het tijdstip met ingang waarvan het eerste lid weer van toepassing is, kunnen onder bij algemene maatregel van bestuur te stellen voorwaarden buiten aanmerking blijven.
 
-#### Artikel 3.12. Landbouwvrijstelling
+##### Artikel 3.12. Landbouwvrijstelling
 
 1. Tot de winst behoren niet voordelen uit landbouwbedrijf ter zake van waardeveranderingen van gronden – daaronder begrepen de ondergrond van gebouwen – voorzover de waardeverandering van de grond is toe te rekenen aan de ontwikkeling van de waarde in het economische verkeer bij voortzetting van de aanwending van de grond in het kader van een landbouwbedrijf, en niet is ontstaan in de uitoefening van het bedrijf.
 
 2. Voor de toepassing van dit artikel wordt onder landbouwbedrijf verstaan een bedrijf dat is gericht op het voortbrengen van producten van akkerbouw, van weidebouw of van tuinbouw – daaronder begrepen fruitteelt en het kweken van bomen, bloemen, bloembollen en paddestoelen – of op het in het kader van veehouderij fokken, mesten of houden van dieren. Met landbouwbedrijf worden gelijkgesteld binnenvisserij en visteelt.
 
-#### Artikel 3.12a. Filmexploitatievrijstelling
+##### Artikel 3.12a. Filmexploitatievrijstelling
 
 Vervallen
 
-#### Artikel 3.13. Overige vrijstellingen
+##### Artikel 3.13. Overige vrijstellingen
 
 1. Tot de winst behoren niet:
 
@@ -606,7 +634,7 @@ Vervallen
 
 2. Op de voordelen bedoeld in het eerste lid, onderdeel d, en de voordelen op grond van een buitenlandse regeling die naar aard en strekking overeenkomt met een regeling als bedoeld in dat onderdeel, is [artikel 2.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=2&afdeling=2.4&artikel=2.14&z=2026-02-21&g=2026-02-21), niet van toepassing.
 
-#### Artikel 3.14. Van aftrek uitgesloten algemene kosten
+##### Artikel 3.14. Van aftrek uitgesloten algemene kosten
 
 1. Bij het bepalen van de winst komen niet in aftrek kosten en lasten die verband houden met de volgende posten:
 
@@ -646,7 +674,7 @@ Vervallen
 
 - b. belastingen die buiten Nederland in enige vorm naar de winst of bestanddelen van de winst worden geheven, indien voor de belastingplichtige ter zake daarvan een regeling ter voorkoming van dubbele belasting van toepassing is.
 
-#### Artikel 3.15. In aftrek beperkte algemene kosten
+##### Artikel 3.15. In aftrek beperkte algemene kosten
 
 1. Bij het bepalen van de winst komen, onverminderd [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.14&z=2026-02-21&g=2026-02-21), tot een bedrag van € 5.700 niet in aftrek kosten en lasten die verband houden met de volgende posten:
 
@@ -668,7 +696,7 @@ Vervallen
 
 7. Voor de toepassing van het zesde lid worden met de belastingplichtige gelijkgesteld personen die behoren tot zijn huishouden.
 
-#### Artikel 3.16. Van aftrek uitgesloten kosten ten behoeve van de belastingplichtige
+##### Artikel 3.16. Van aftrek uitgesloten kosten ten behoeve van de belastingplichtige
 
 1. Bij het bepalen van de winst komen mede niet in aftrek kosten en lasten die verband houden met een werkruimte, de inrichting daaronder begrepen, ten behoeve van de belastingplichtige zelf in zijn niet tot zijn ondernemingsvermogen behorende woning, tenzij de werkruimte een naar verkeersopvatting zelfstandig gedeelte van de woning vormt en:
 
@@ -722,7 +750,7 @@ Vervallen
 
 14. Bij het bepalen van de winst komen mede niet in aftrek kosten en lasten die verband houden met een tot het ondernemingsvermogen van de belastingplichtige behorende woning die de belastingplichtige anders dan tijdelijk als hoofdverblijf ter beschikking staat, indien die kosten en lasten ingevolge het eerste lid niet in aftrek zouden komen als de woning niet tot het ondernemingsvermogen zou behoren.
 
-#### Artikel 3.17. In aftrek beperkte kosten ten behoeve van de belastingplichtige
+##### Artikel 3.17. In aftrek beperkte kosten ten behoeve van de belastingplichtige
 
 1. Bij het bepalen van de winst komen, onverminderd de [artikelen 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.14&z=2026-02-21&g=2026-02-21), [3.15](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.15&z=2026-02-21&g=2026-02-21) en [3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.16&z=2026-02-21&g=2026-02-21), kosten en lasten die verband houden met de volgende posten, tot het bij die posten aangegeven gedeelte in aftrek:
 
@@ -746,7 +774,7 @@ Vervallen
 
 4. Voor de toepassing van dit artikel, behoudens het eerste lid, onderdeel c, worden met de belastingplichtige gelijkgesteld personen die behoren tot zijn huishouden.
 
-#### Artikel 3.18. Premies voor beroeps- of bedrijfstakpensioenregeling
+##### Artikel 3.18. Premies voor beroeps- of bedrijfstakpensioenregeling
 
 1. Bij het bepalen van de winst komen premies voor een **pensioenregeling** als bedoeld in [artikel 1.7, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=1&artikel=1.7&z=2026-02-21&g=2026-02-21), van de belastingplichtige uitsluitend in aftrek indien die regeling voldoet aan de in de [artikelen 18, eerste en tweede lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18)[18a](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18a), [18b](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18b), [18c](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18c), [18d](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18d), [18f](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18f), [18ga](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18ga), [38b](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=38b), [38c](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=38c), [38r](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=38r), [38s](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=38s) en [38t van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=38t) en de bij of krachtens het vijfde lid gestelde normeringen en beperkingen. Bij de toepassing van de eerste zin zijn de [artikelen 19a, eerste lid, onderdelen a, b, c en d, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=19a), [19c](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=19c) en [19d van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=19d) van overeenkomstige toepassing.
 
@@ -780,7 +808,7 @@ Vervallen
 
 - f. de overeenkomstige toepassing van [artikel 19a, eerste lid, onderdeel d, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=19a).
 
-#### Artikel 3.19. Bijtelling privé-gebruik woning
+##### Artikel 3.19. Bijtelling privé-gebruik woning
 
 1. Bij het bepalen van de winst met betrekking tot een woning die de belastingplichtige of personen die behoren tot zijn huishouden, anders dan tijdelijk als hoofdverblijf ter beschikking staat, wordt de waarde van de onttrekking gesteld op het bedrag in het tweede lid. Met betrekking tot een woning waarop een tot het ondernemingsvermogen van de belastingplichtige behorend huurrecht of soortgelijk recht betrekking heeft ter zake waarvan de met dat recht verband houdende kosten en lasten ingevolge [artikel 3.16, dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.16&z=2026-02-21&g=2026-02-21), geheel of gedeeltelijk niet in aftrek komen, is de eerste volzin niet van toepassing.
 
@@ -805,7 +833,7 @@ Vervallen
 
 - b. blijft onder woning begrepen een werkruimte waarvan de kosten en lasten, indien die werkruimte niet tot het ondernemingsvermogen zou behoren, ingevolge [artikel 3.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.16&z=2026-02-21&g=2026-02-21), niet in aftrek zouden komen.
 
-#### Artikel 3.20. Bijtelling privégebruik auto
+##### Artikel 3.20. Bijtelling privégebruik auto
 
 1. Indien aan de belastingplichtige ook voor privédoeleinden een auto ter beschikking staat, wordt op jaarbasis ten minste:
 
@@ -841,11 +869,11 @@ De auto wordt in ieder geval geacht ook voor privédoeleinden ter beschikking te
 
 12. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot een auto waarvan de datum van de eerste tenaamstelling in het kentekenregister niet overeenkomt met de datum van eerste toelating op de weg van die auto.
 
-#### Artikel 3.21. Bonusaandelen van beleggingsinstellingen
+##### Artikel 3.21. Bonusaandelen van beleggingsinstellingen
 
 Bij het bepalen van de winst wordt mede in aanmerking genomen de nominale waarde van aandelen die worden uitgereikt door een lichaam dat wordt aangemerkt als beleggingsinstelling als bedoeld in [artikel 28 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=28), voorzover niet blijkt dat storting heeft plaatsgevonden of zal plaatsvinden. Bijschrijving op die aandelen wordt met uitreiking van aandelen gelijkgesteld.
 
-#### Artikel 3.22. Winst uit zeescheepvaart aan de hand van tonnage
+##### Artikel 3.22. Winst uit zeescheepvaart aan de hand van tonnage
 
 1. Op verzoek van de belastingplichtige wordt, in afwijking van de [artikelen 3.8 tot en met 3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.8&z=2026-02-21&g=2026-02-21), [3.25 tot en met 3.65](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.25&z=2026-02-21&g=2026-02-21), en [3.79](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.4&artikel=3.79&z=2026-02-21&g=2026-02-21), de winst uit zeescheepvaart bepaald aan de hand van de tonnage van de schepen waarmee die winst wordt behaald.
 
@@ -915,7 +943,7 @@ Bij het bepalen van de winst wordt mede in aanmerking genomen de nominale waarde
 
 13. Voor de toepassing van dit artikel, [artikel 3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.23&z=2026-02-21&g=2026-02-21) en [artikel 3.24](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.24&z=2026-02-21&g=2026-02-21), kunnen bij ministeriële regeling nadere regels worden gesteld.
 
-#### Artikel 3.23. Bepaling van de winst aan de hand van de tonnage
+##### Artikel 3.23. Bepaling van de winst aan de hand van de tonnage
 
 1. Bij inwilliging van het in [artikel 3.22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.22&z=2026-02-21&g=2026-02-21), bedoelde verzoek wordt de in een kalenderjaar genoten winst uit zeescheepvaart per schip vastgesteld aan de hand van de in de volgende tabel aangegeven bedragen per dag.
 
@@ -959,7 +987,7 @@ De volgens de vorige volzinnen vastgestelde winst wordt met betrekking tot schep
 
 4. Bij ministeriële regeling kunnen regels worden gesteld voor de toepassing van het eerste lid, vierde volzin, alsmede ter voorkoming van cumulatie tussen de eerste drie volzinnen en de vierde volzin van dat lid.
 
-#### Artikel 3.24. Beëindiging bepaling van de winst aan de hand van de tonnage
+##### Artikel 3.24. Beëindiging bepaling van de winst aan de hand van de tonnage
 
 1. Het bedrag dat op grond van [artikel 3.23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.23&z=2026-02-21&g=2026-02-21), buiten aanmerking is gebleven, wordt alsnog tot de winst gerekend indien de belastingplichtige – anders dan door overlijden – binnen tien jaar na het tijdstip met ingang waarvan de winst uit zeescheepvaart wordt bepaald aan de hand van de tonnage, de onderneming waarmee in Nederland winst uit zeescheepvaart wordt behaald, voor het geheel of voor een gedeelte staakt. In geval van staking voor een gedeelte wordt het in de vorige volzin bedoelde bedrag alleen tot de winst gerekend voorzover dat betrekking heeft op dat gedeelte. Het bedrag dat alsnog tot de winst wordt gerekend, wordt geacht te zijn genoten ten tijde van de staking.
 
@@ -969,11 +997,11 @@ De volgens de vorige volzinnen vastgestelde winst wordt met betrekking tot schep
 
 4. Voor de toepassing van het eerste lid wordt niet als staking aangemerkt een doorschuiving bij ontbinding van de huwelijksgemeenschap als bedoeld in [artikel 3.59](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.59&z=2026-02-21&g=2026-02-21), een doorschuiving naar ondernemers als bedoeld in [artikel 3.63](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.63&z=2026-02-21&g=2026-02-21) of een omzetting als bedoeld in [artikel 3.65](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.65&z=2026-02-21&g=2026-02-21) mits de belastingplichtige, alsmede in geval van een doorschuiving tevens degene aan wie is overgedragen, dit verzoekt. In dat geval wordt degene aan wie is overgedragen, respectievelijk de vennootschap waarin de onderneming is omgezet, voor de toepassing van dit artikel en de [artikelen 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.22&z=2026-02-21&g=2026-02-21) en [3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.23&z=2026-02-21&g=2026-02-21) geacht in de plaats te zijn getreden van de belastingplichtige.
 
-#### Artikel 3.25. Jaarwinst
+##### Artikel 3.25. Jaarwinst
 
 De in een kalenderjaar genoten winst wordt bepaald volgens goed koopmansgebruik, met inachtneming van een bestendige gedragslijn die onafhankelijk is van de vermoedelijke uitkomst. De bestendige gedragslijn kan alleen worden gewijzigd indien goed koopmansgebruik dit rechtvaardigt.
 
-#### Artikel 3.26. Loon- en prijswijzigingen na afloop jaar
+##### Artikel 3.26. Loon- en prijswijzigingen na afloop jaar
 
 1. Bij het bepalen van de in een kalenderjaar genoten winst blijven kosten en lasten voorzover deze, al dan niet door tussenkomst van derden, rechtstreeks of zijdelings verband houden met wijzigingen in de hoogte van lonen of prijzen na afloop van het jaar, buiten aanmerking, ook al zou de omvang van deze kosten en lasten reeds bij het einde van het jaar vaststaan.
 
@@ -981,37 +1009,37 @@ De in een kalenderjaar genoten winst wordt bepaald volgens goed koopmansgebruik,
 
 3. Ten aanzien van een onderneming die het schadeverzekeringsbedrijf uitoefent, is het eerste lid niet van toepassing op kosten en lasten die betrekking hebben op overeenkomsten van schadeverzekering, voorzover uit de overeenkomsten verplichtingen voortvloeien ter zake van schaden aan de gezondheid van natuurlijke personen.
 
-#### Artikel 3.27. Loon- en prijswijzigingen na afloop jaar en betaling
+##### Artikel 3.27. Loon- en prijswijzigingen na afloop jaar en betaling
 
 1. De in [artikel 3.26](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.26&z=2026-02-21&g=2026-02-21) bedoelde kosten en lasten worden in afwijking van dat artikel uiterlijk in aanmerking genomen in het jaar van betaling. Daarbij wordt een betaling vóór de aanvang van het kalenderjaar of binnen zes maanden na afloop van het kalenderjaar gelijkgesteld met een betaling in het jaar.
 
 2. Het eerste lid is voor pensioenvoorzieningen van toepassing indien de betalingen plaatsvinden in de vorm van krachtens een **pensioenregeling** verschuldigde premies of koopsommen aan een pensioenfonds of een verzekeringsmaatschappij. Daarbij blijft het in de premies of koopsommen begrepen bestanddeel voor toekomstige wijzigingen in de hoogte van lonen of prijzen buiten aanmerking voorzover dit bestanddeel uitgaat boven het bedrag dat nodig is om de opgebouwde pensioenrechten, ter zake waarvan aan het fonds of de maatschappij geen premies of koopsommen meer moeten worden betaald, te kunnen aanpassen aan een wijziging in de hoogte van lonen of prijzen van 4% per jaar.
 
-#### Artikel 3.28. Loon- en prijswijzigingen na afloop jaar en rekenrente pensioenvoorzieningen
+##### Artikel 3.28. Loon- en prijswijzigingen na afloop jaar en rekenrente pensioenvoorzieningen
 
 Voor de toepassing van de [artikelen 3.26](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.26&z=2026-02-21&g=2026-02-21) en [3.27](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.27&z=2026-02-21&g=2026-02-21) wordt een verband met wijzigingen in de hoogte van lonen of prijzen na afloop van het jaar ten aanzien van kosten en lasten die betrekking hebben op pensioenvoorzieningen, niet aanwezig geacht, indien die kosten en lasten betrekking hebben op een pensioengrondslag die is gebaseerd op een loon dat niet uitgaat boven het loon bij het einde van het jaar, en bij de berekening van die kosten en lasten in feite een rekenrente in aanmerking is genomen van ten minste 4%.
 
-#### Artikel 3.29. Waardering pensioenverplichtingen en soortgelijke verplichtingen
+##### Artikel 3.29. Waardering pensioenverplichtingen en soortgelijke verplichtingen
 
 De waardering van pensioenverplichtingen en andere soortgelijke verplichtingen vindt plaats met inachtneming van algemeen aanvaarde actuariële grondslagen, waarbij een rekenrente in aanmerking wordt genomen van ten minste 4%.
 
-#### Artikel 3.29a. Waardering van een belang in een vrijgestelde beleggingsinstelling
+##### Artikel 3.29a. Waardering van een belang in een vrijgestelde beleggingsinstelling
 
 1. Een belang in een lichaam dat ingevolge [artikel 6a van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=6a) is vrijgesteld van de heffing van vennootschapsbelasting, wordt gewaardeerd op de waarde in het economische verkeer. De eerste zin is van overeenkomstige toepassing op een belang in een niet in Nederland gevestigde beleggingsinstelling of instelling voor collectieve belegging in effecten, die belegt in financiële instrumenten als bedoeld in [artikel 6a, derde lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=6a), die niet is onderworpen aan een belastingheffing naar de winst en niet verplicht is om jaarlijks de winst aan de aandeelhouders ter beschikking te stellen, om voor de vrijstelling van de belastingheffing naar de winst in aanmerking te komen.
 
 2. Het eerste lid is van overeenkomstige toepassing met betrekking tot een belang in een lichaam indien de bezittingen van dat lichaam in enigszins belangrijke mate bestaan uit een belang in een lichaam als bedoeld in het eerste lid.
 
-#### Artikel 3.29b. Waardering onderhanden werk en onderhanden opdrachten
+##### Artikel 3.29b. Waardering onderhanden werk en onderhanden opdrachten
 
 1. De waardering van onderhanden werk wordt gesteld op het gedeelte van de overeengekomen vergoeding voor het aangenomen werk, dat is toe te rekenen aan dat onderhanden werk.
 
 2. Het eerste lid is van overeenkomstige toepassing met betrekking tot onderhanden opdrachten.
 
-#### Artikel 3.29c. Beperking afwaardering op lagere bedrijfswaarde
+##### Artikel 3.29c. Beperking afwaardering op lagere bedrijfswaarde
 
 Omstandigheden die reeds bekend zijn ten tijde van het investeren in een bedrijfsmiddel kunnen geen aanleiding zijn voor een afwaardering naar lagere bedrijfswaarde.
 
-#### Artikel 3.30. Afschrijving op bedrijfsmiddelen
+##### Artikel 3.30. Afschrijving op bedrijfsmiddelen
 
 1. De afschrijving op goederen die voor het drijven van een onderneming worden gebruikt (bedrijfsmiddelen), wordt jaarlijks gesteld op het gedeelte van de nog niet afgeschreven aanschaffings- of voortbrengingskosten dat aan het kalenderjaar kan worden toegerekend.
 
@@ -1021,7 +1049,7 @@ Omstandigheden die reeds bekend zijn ten tijde van het investeren in een bedrijf
 
 4. De werkelijke aanschaffings- of voortbrengingskosten van voorwerpen van geringe waarde, waarvan de aanschaffings- of voortbrengingskosten gewoonlijk tot de lopende uitgaven van een onderneming worden gerekend, worden in het kalenderjaar van aanschaffing of voortbrenging ineens afgeschreven.
 
-#### Artikel 3.30a. Beperking afschrijving gebouwen
+##### Artikel 3.30a. Beperking afschrijving gebouwen
 
 1. Afschrijving op een gebouw in een kalenderjaar is slechts mogelijk indien de boekwaarde van het gebouw hoger is dan de bodemwaarde daarvan en bedraagt ten hoogste het verschil daartussen.
 
@@ -1055,7 +1083,7 @@ Indien de winst wordt bepaald over een niet met het kalenderjaar samenvallend bo
 
 10. Voor de toepassing van dit artikel wordt onder een verbonden lichaam verstaan: een vennootschap waarin de belastingplichtige of een met de belastingplichtige verbonden persoon een aanmerkelijk belang heeft als bedoeld in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&z=2026-02-21&g=2026-02-21) behoudens indien sprake is van een aanmerkelijk belang op grond van [artikel 4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.3&artikel=4.10&z=2026-02-21&g=2026-02-21) of [artikel 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.3&artikel=4.11&z=2026-02-21&g=2026-02-21).
 
-#### Artikel 3.31. Willekeurige afschrijving milieu-bedrijfsmiddelen
+##### Artikel 3.31. Willekeurige afschrijving milieu-bedrijfsmiddelen
 
 1. De aanschaffings- of voortbrengingskosten van bedrijfsmiddelen met betrekking waartoe op een door de belastingplichtige gedaan verzoek door Onze Minister van Infrastructuur en Waterstaat is verklaard dat sprake is van milieu-bedrijfsmiddelen kunnen door de belastingplichtige voor 75 percent willekeurig worden afgeschreven. [Artikel 3.30a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.30a&z=2026-02-21&g=2026-02-21), is op deze milieu-bedrijfsmiddelen niet van toepassing.
 
@@ -1069,15 +1097,15 @@ Indien de winst wordt bepaald over een niet met het kalenderjaar samenvallend bo
 
 6. Tegen een uitspraak van het College van Beroep voor het bedrijfsleven inzake beroep tegen de verklaring, bedoeld in het eerste lid, kunnen de belanghebbende en Onze Minister van Infrastructuur en Waterstaat beroep in cassatie instellen ter zake van schending of verkeerde toepassing van het begrip bedrijfsmiddelen. Op dit beroep zijn de voorschriften betreffende het beroep in cassatie tegen uitspraken van de gerechtshoven inzake beroepen in belastingzaken van overeenkomstige toepassing, waarbij het College van Beroep voor het bedrijfsleven de plaats inneemt van een gerechtshof.
 
-#### Artikel 3.32. Willekeurige afschrijving arbo-bedrijfsmiddelen
+##### Artikel 3.32. Willekeurige afschrijving arbo-bedrijfsmiddelen
 
 Vervallen
 
-#### Artikel 3.33. Willekeurige afschrijving op films
+##### Artikel 3.33. Willekeurige afschrijving op films
 
 Vervallen
 
-#### Artikel 3.34. Willekeurige afschrijving andere aangewezen bedrijfsmiddelen
+##### Artikel 3.34. Willekeurige afschrijving andere aangewezen bedrijfsmiddelen
 
 1. De aanschaffings- of voortbrengingskosten van bedrijfsmiddelen die door Onze Minister in overeenstemming met Onze Minister van Economische Zaken en Klimaat bij ministeriële regeling zijn aangewezen (andere aangewezen bedrijfsmiddelen) kunnen door de belastingplichtige willekeurig worden afgeschreven.
 
@@ -1085,15 +1113,15 @@ Vervallen
 
 3. In de in het eerste lid bedoelde ministeriële regeling kan worden bepaald dat de willekeurige afschrijving wordt beperkt tot aangewezen gebieden of tot aangewezen groepen van belastingplichtigen. Daarbij kunnen nadere voorwaarden worden gesteld.
 
-#### Artikel 3.34a. Grondslag willekeurige afschrijving bij afboeking herinvesteringsreserve
+##### Artikel 3.34a. Grondslag willekeurige afschrijving bij afboeking herinvesteringsreserve
 
 Voor de willekeurige afschrijving blijft een vermindering van de aanschaffings- of voortbrengingskosten ingevolge een herinvesteringsreserve als bedoeld in de [artikelen 3.54](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.54&z=2026-02-21&g=2026-02-21) en [3.54aa](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.54aa&z=2026-02-21&g=2026-02-21) buiten aanmerking. Daarbij wordt het bedrag van die vermindering geacht willekeurig te zijn afgeschreven.
 
-#### Artikel 3.35. Aanvang willekeurige afschrijving
+##### Artikel 3.35. Aanvang willekeurige afschrijving
 
 Willekeurige afschrijving is mogelijk zodra ter zake van de verwerving of verbetering van het bedrijfsmiddel verplichtingen zijn aangegaan of ter zake van het bedrijfsmiddel voortbrengingskosten zijn gemaakt. Het bedrag van de willekeurige afschrijving kan voor de ingebruikneming van het bedrijfsmiddel niet groter zijn dan het bedrag dat ter zake van de verplichtingen is betaald, of aan voortbrengingskosten is gemaakt.
 
-#### Artikel 3.36. Administratieve verplichtingen willekeurige afschrijving
+##### Artikel 3.36. Administratieve verplichtingen willekeurige afschrijving
 
 1. Willekeurige afschrijving op milieu-bedrijfsmiddelen is alleen mogelijk indien de aangegane verplichtingen of de in het jaar gemaakte voortbrengingskosten langs de daartoe geopende elektronische weg zijn aangemeld bij Onze Minister van Economische Zaken en Klimaat. Daarbij kan worden afgeweken van de artikelen 2:7, tweede lid, en 2:8 van de Algemene wet bestuursrecht.
 
@@ -1105,25 +1133,25 @@ Willekeurige afschrijving is mogelijk zodra ter zake van de verwerving of verbet
 
 - b. indien het andere aangewezen bedrijfsmiddelen betreft: in overeenstemming met Onze Minister van Economische Zaken en Klimaat.
 
-#### Artikel 3.37. Mogelijkheid verplichte verklaring bij willekeurige afschrijving
+##### Artikel 3.37. Mogelijkheid verplichte verklaring bij willekeurige afschrijving
 
 1. Bij ministeriële regeling kan worden bepaald dat de willekeurige afschrijving op andere aangewezen bedrijfsmiddelen alleen van toepassing is indien op een door of namens de belastingplichtige gedaan verzoek door Onze Minister van Economische Zaken en Klimaat is verklaard dat sprake is van een aangewezen bedrijfsmiddel. Bij die regeling kunnen tevens nadere regels worden gesteld met betrekking tot de verklaring.
 
 2. Tegen een uitspraak van het College van Beroep voor het bedrijfsleven inzake beroep tegen de in het eerste lid bedoelde verklaring, kunnen de belanghebbende en Onze Minister van Economische Zaken en Klimaat beroep in cassatie instellen ter zake van schending of verkeerde toepassing van het eerste lid met betrekking tot het begrip bedrijfsmiddelen. Op dit beroep zijn de voorschriften betreffende het beroep in cassatie tegen uitspraken van de gerechtshoven inzake beroepen in belastingzaken van overeenkomstige toepassing, waarbij het College van Beroep voor het bedrijfsleven de plaats inneemt van een gerechtshof.
 
-#### Artikel 3.38. Terugnemen willekeurige afschrijving
+##### Artikel 3.38. Terugnemen willekeurige afschrijving
 
 Indien op een bedrijfsmiddel willekeurig is afgeschreven en op enig tijdstip binnen een bij ministeriële regeling te bepalen periode niet langer wordt voldaan aan de bij of krachtens de [artikelen 3.31](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.31&z=2026-02-21&g=2026-02-21) en [3.34](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.34&z=2026-02-21&g=2026-02-21) gestelde voorwaarden met betrekking tot dat bedrijfsmiddel, wordt op dat tijdstip de boekwaarde van het bedrijfsmiddel gesteld op de boekwaarde die zou zijn bereikt indien geen willekeurige afschrijving zou hebben plaatsgevonden.
 
-#### Artikel 3.39. Toepasselijk regime afschrijvingen
+##### Artikel 3.39. Toepasselijk regime afschrijvingen
 
 Willekeurige afschrijving op bedrijfsmiddelen vindt plaats volgens de regels voor het tijdvak waarin voor de verwerving of de verbetering van het bedrijfsmiddel verplichtingen zijn aangegaan of voortbrengingskosten zijn gemaakt.
 
-#### Artikel 3.40. Investeringsaftrek
+##### Artikel 3.40. Investeringsaftrek
 
 Indien wordt geïnvesteerd in bedrijfsmiddelen kan door de belastingplichtige naast de afschrijvingen een deel van het investeringsbedrag aanvullend ten laste van de winst worden gebracht (investeringsaftrek). Investeringsaftrek kan de vorm hebben van kleinschaligheidsinvesteringsaftrek, van energie-investeringsaftrek en van milieu-investeringsaftrek.
 
-#### Artikel 3.41. Kleinschaligheidsinvesteringsaftrek
+##### Artikel 3.41. Kleinschaligheidsinvesteringsaftrek
 
 1. Indien in een kalenderjaar wordt geïnvesteerd in bedrijfsmiddelen, en de belastingplichtige daarvoor bij de aangifte kiest, wordt een per onderneming op de voet van het tweede lid berekende kleinschaligheidsinvesteringsaftrek ten laste gebracht van de winst over dat jaar.
 
@@ -1139,7 +1167,7 @@ Indien wordt geïnvesteerd in bedrijfsmiddelen kan door de belastingplichtige na
 
 3. Indien de onderneming van de belastingplichtige deel uitmaakt van een samenwerkingsverband met een of meer andere belastingplichtigen die daarbij winst uit onderneming genieten of belastingplichtigen voor de vennootschapsbelasting, worden voor de toepassing van het tweede lid hun investeringen voor het samenwerkingsverband en de door de belastingplichtige voor de betreffende onderneming gedane buitenvennootschappelijke investeringen samengeteld en bedraagt de kleinschaligheidsinvesteringsaftrek het aldus op de voet van het tweede lid bepaalde bedrag vermenigvuldigd met het aan de belastingplichtige toe te rekenen investeringsbedrag en gedeeld door de som van het gezamenlijke investeringsbedrag voor het samenwerkingsverband en het bedrag van de door de belastingplichtige voor de betreffende onderneming gedane buitenvennootschappelijke investeringen.
 
-#### Artikel 3.42. Energie-investeringsaftrek
+##### Artikel 3.42. Energie-investeringsaftrek
 
 1. Indien in een kalenderjaar in een onderneming die de **ondernemer** voor eigen rekening drijft, wordt geïnvesteerd in niet eerder gebruikte bedrijfsmiddelen met betrekking waartoe op een door de **ondernemer**gedaan verzoek door Onze Minister van Economische Zaken en Klimaat is verklaard dat sprake is van energie-investeringen, en de **ondernemer**daarvoor bij de aangifte kiest, wordt een in het derde lid aangewezen percentage van het bedrag aan energie-investeringen ten laste gebracht van de winst over dat jaar (energie-investeringsaftrek).
 
@@ -1165,7 +1193,7 @@ Indien wordt geïnvesteerd in bedrijfsmiddelen kan door de belastingplichtige na
 
 8. Tegen een uitspraak van het College van Beroep voor het bedrijfsleven inzake beroep tegen de in het eerste lid bedoelde verklaring, kunnen de belanghebbende en Onze Minister van Economische Zaken en Klimaat beroep in cassatie instellen ter zake van schending of verkeerde toepassing van de begrippen investeren en bedrijfsmiddelen. Op dit beroep zijn de voorschriften betreffende het beroep in cassatie tegen uitspraken van de gerechtshoven inzake beroepen in belastingzaken van overeenkomstige toepassing, waarbij het College van Beroep voor het bedrijfsleven de plaats inneemt van een gerechtshof.
 
-#### Artikel 3.42a. Milieu-investeringsaftrek
+##### Artikel 3.42a. Milieu-investeringsaftrek
 
 1. Indien in een kalenderjaar in een onderneming die de ondernemer voor eigen rekening drijft, wordt geïnvesteerd in niet eerder gebruikte bedrijfsmiddelen met betrekking waartoe op een door de ondernemer gedaan verzoek door Onze Minister van Infrastructuur en Waterstaat is verklaard dat sprake is van milieu-investeringen, en de ondernemer daarvoor bij de aangifte kiest, wordt een in het derde lid aangewezen percentage van het bedrag aan milieu-investeringen in de onderscheiden categorieën ten laste gebracht van de winst over dat jaar (milieu-investeringsaftrek).
 
@@ -1195,23 +1223,23 @@ mits dat advies op de aangewezen investering of mede op de aangewezen investerin
 
 9. Tegen een uitspraak van het College van Beroep voor het bedrijfsleven inzake beroep tegen de verklaring, bedoeld in het eerste lid, kunnen de belanghebbende en Onze Minister van Infrastructuur en Waterstaat beroep in cassatie instellen ter zake van schending of verkeerde toepassing van de begrippen investeren en bedrijfsmiddelen. Op dit beroep zijn de voorschriften betreffende het beroep in cassatie tegen uitspraken van de gerechtshoven inzake beroepen in belastingzaken van overeenkomstige toepassing, waarbij het College van Beroep voor het bedrijfsleven de plaats inneemt van een gerechtshof.
 
-#### Artikel 3.42b. Filminvesteringsaftrek
+##### Artikel 3.42b. Filminvesteringsaftrek
 
 Vervallen
 
-#### Artikel 3.43. Begrip investeren
+##### Artikel 3.43. Begrip investeren
 
 1. Onder investeren wordt verstaan het aangaan van verplichtingen ter zake van de aanschaffing of de verbetering van een bedrijfsmiddel, alsmede het maken van voortbrengingskosten ter zake van een bedrijfsmiddel, voorzover die verplichtingen en kosten op de belastingplichtige drukken.
 
 2. Onze Minister kan bepalen dat met investeren tot door hem vast te stellen bedragen wordt gelijkgesteld het wijzigen van de bestemming van een bedrijfsmiddel als bedoeld in [artikel 3.45, eerste lid, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.45&z=2026-02-21&g=2026-02-21), zodanig dat het bedrijfsmiddel voortaan hoofdzakelijk wordt gebruikt voor het in Nederland drijven van een onderneming of gedeelte van een onderneming.
 
-#### Artikel 3.44. Investeringsaftrek bij nog niet in gebruik genomen bedrijfsmiddelen
+##### Artikel 3.44. Investeringsaftrek bij nog niet in gebruik genomen bedrijfsmiddelen
 
 1. Indien bij het einde van het kalenderjaar het bedrijfsmiddel nog niet in gebruik is genomen en de investeringsaftrek zou uitgaan boven wat bij het einde van dat kalenderjaar ter zake van de investering is betaald, wordt in afwijking in zoverre van de artikelen [3.41](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.41&z=2026-02-21&g=2026-02-21), [3.42](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.42&z=2026-02-21&g=2026-02-21) en [3.42a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.42a&z=2026-02-21&g=2026-02-21) een bedrag gelijk aan de betaling in aanmerking genomen en wordt het meerdere in aanmerking genomen in de volgende kalenderjaren en wel voorzover betalingen plaatsvinden, maar niet later dan in het kalenderjaar waarin het bedrijfsmiddel in gebruik wordt genomen.
 
 2. Bij het staken van de onderneming en bij de eindafrekening als bedoeld in [artikel 3.61](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.61&z=2026-02-21&g=2026-02-21) wordt de investeringsaftrek voor het geheel in aanmerking genomen in het jaar van staking, respectievelijk eindafrekening.
 
-#### Artikel 3.45. Uitgesloten bedrijfsmiddelen voor investeringsaftrek
+##### Artikel 3.45. Uitgesloten bedrijfsmiddelen voor investeringsaftrek
 
 1. Voor de investeringsaftrek behoren niet tot de bedrijfsmiddelen:
 
@@ -1253,7 +1281,7 @@ Vervallen
 
 5. Onze Minister kan bepalen dat het eerste lid, onderdeel a, onder 2°, en het vierde lid, onderdeel a, niet van toepassing zijn.
 
-#### Artikel 3.46. Uitgesloten verplichtingen voor investeringsaftrek
+##### Artikel 3.46. Uitgesloten verplichtingen voor investeringsaftrek
 
 1. Voor de investeringsaftrek worden niet in aanmerking genomen verplichtingen aangegaan tussen:
 
@@ -1267,7 +1295,7 @@ Vervallen
 
 2. Onze Minister kan bepalen dat het eerste lid niet van toepassing is.
 
-#### Artikel 3.47. Desinvesteringsbijtelling
+##### Artikel 3.47. Desinvesteringsbijtelling
 
 1. Indien in een kalenderjaar tegen overdrachtsprijzen voor een bedrag van meer dan € 2.900 aan goederen wordt vervreemd, wordt van de overdrachtsprijzen een gelijk percentage als ter zake van de investering in die goederen als investeringsaftrek in aanmerking is genomen, ten bate van de winst over dat jaar gebracht (desinvesteringsbijtelling).
 
@@ -1293,27 +1321,27 @@ Vervallen
 
 7. Onze Minister kan bepalen dat het derde lid, onderdeel c, of het zesde lid niet van toepassing is.
 
-#### Artikel 3.47a. Desinvesteringsbijtelling bij film
+##### Artikel 3.47a. Desinvesteringsbijtelling bij film
 
 Vervallen
 
-#### Artikel 3.48. Scholingsaftrek
+##### Artikel 3.48. Scholingsaftrek
 
 Vervallen
 
-#### Artikel 3.49. Delegatiebepaling scholingsaftrek
+##### Artikel 3.49. Delegatiebepaling scholingsaftrek
 
 Vervallen
 
-#### Artikel 3.50. Scholingsbijtelling
+##### Artikel 3.50. Scholingsbijtelling
 
 Vervallen
 
-#### Artikel 3.51. Toepasselijk regime investeringsaftrek
+##### Artikel 3.51. Toepasselijk regime investeringsaftrek
 
 De investeringsaftrek en de desinvesteringsbijtelling vinden plaats volgens de regels voor het tijdvak waarin de investering heeft plaatsgevonden.
 
-#### Artikel 3.52. Wijziging willekeurige afschrijving en investeringsaftrek
+##### Artikel 3.52. Wijziging willekeurige afschrijving en investeringsaftrek
 
 1. Bij ministeriële regeling:
 
@@ -1327,11 +1355,11 @@ De investeringsaftrek en de desinvesteringsbijtelling vinden plaats volgens de r
 
 2. Een regeling als bedoeld in het eerste lid mag slechts strekken tot het bereiken van zoveel mogelijk evenwicht tussen het gebruik van de regeling inzake de willekeurige afschrijving, respectievelijk de investeringsaftrek en de daarvoor uitgetrokken bedragen.
 
-#### Artikel 3.52a. Aanvullende aftrek speur- en ontwikkelingswerk
+##### Artikel 3.52a. Aanvullende aftrek speur- en ontwikkelingswerk
 
 Vervallen
 
-#### Artikel 3.53. Fiscale reserves
+##### Artikel 3.53. Fiscale reserves
 
 1. Bij het bepalen van de in een kalenderjaar genoten winst kan worden gereserveerd:
 
@@ -1343,7 +1371,7 @@ Vervallen
 
 2. Met betrekking tot een in het eerste lid, onderdeel a, bedoelde reserve is [artikel 3.26, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.26&z=2026-02-21&g=2026-02-21), van overeenkomstige toepassing.
 
-#### Artikel 3.54. Herinvesteringsreserve
+##### Artikel 3.54. Herinvesteringsreserve
 
 1. Indien bij vervreemding van een bedrijfsmiddel de opbrengst de boekwaarde van het bedrijfsmiddel overtreft, kan bij het bepalen van de in het kalenderjaar genoten winst het verschil gereserveerd worden en blijven tot vermindering van de in aanmerking te nemen aanschaffings- of voortbrengingskosten van bedrijfsmiddelen die in het jaar van vervreemding of in de daarop volgende drie jaren worden aangeschaft of voortgebracht, indien en zolang het voornemen tot herinvestering van de opbrengst bestaat (herinvesteringsreserve).
 
@@ -1385,7 +1413,7 @@ Vervallen
 
 13. Indien een besluit of regeling als bedoeld in het twaalfde lid, onderdeel b, de mogelijkheden om de onderneming of een gedeelte daarvan op de huidige locatie in de huidige vorm voort te zetten of uit te breiden in belangrijke mate beperkt, wordt voor de toepassing van het negende en tiende lid een vervreemding van bedrijfsmiddelen van de onderneming respectievelijk het gedeelte daarvan die plaatsvindt binnen drie jaar nadat een dergelijk besluit of een dergelijke regeling in werking is getreden, geacht een gevolg te zijn van overheidsingrijpen, met dien verstande dat een latere vervreemding ook nog geacht wordt een gevolg te zijn van overheidsingrijpen indien deze vervreemding door bijzondere omstandigheden is vertraagd en daaraan binnen de hiervoor bedoelde periode van drie jaar reeds een begin van uitvoering is gegeven.
 
-#### Artikel 3.54a. Terugkeerreserve
+##### Artikel 3.54a. Terugkeerreserve
 
 1. Indien de belastingplichtige de onderneming van een vennootschap waarvan hij aandelen of winstbewijzen houdt, in het kader van de ontbinding van die vennootschap met toepassing van [artikel 14c van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14c), voortzet of mede voortzet, wordt op het tijdstip van de voortzetting op de balans van de onderneming een reserve gevormd (positieve of negatieve terugkeerreserve).
 
@@ -1403,7 +1431,7 @@ Vervallen
 
 8. De bevoegdheid tot herziening vervalt door verloop van vijf jaren na de datum van vaststelling van de beschikking.
 
-#### Artikel 3.55. Aandelenfusie
+##### Artikel 3.55. Aandelenfusie
 
 1. De belastingplichtige hoeft bij het bepalen van de in een kalenderjaar genoten winst het voordeel uit de vervreemding van aandelen of winstbewijzen in het kader van een aandelenfusie niet in aanmerking te nemen. De eerste volzin is niet van toepassing op een in het kader van een aandelenfusie genoten bijbetaling.
 
@@ -1435,7 +1463,7 @@ Vervallen
 
 7. De belastingplichtige die zekerheid wenst omtrent de vraag of er sprake is van een aandelenfusie, kan vóór de vervreemding van de aandelen of winstbewijzen een verzoek indienen bij de hierna aangeduide inspecteur. Indien de vennootschap die de aandelen of winstbewijzen verwerft in Nederland is gevestigd, doet de belastingplichtige het verzoek bij de inspecteur belast met de aanslagregeling voor de vennootschapsbelasting van die vennootschap; in andere gevallen bij de inspecteur belast met de aanslagregeling van de belastingplichtige. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking.
 
-#### Artikel 3.56. Juridische splitsing
+##### Artikel 3.56. Juridische splitsing
 
 1. De belastingplichtige die is betrokken bij een overgang onder algemene titel in het kader van een splitsing van een rechtspersoon, wordt geacht zijn aandelen in of zijn schuldvorderingen op de splitsende rechtspersoon ten tijde van de splitsing te hebben vervreemd.
 
@@ -1459,7 +1487,7 @@ Vervallen
 
 7. De belastingplichtige die zekerheid wenst omtrent de vraag of de splitsing niet wordt geacht in overwegende mate te zijn gericht op het ontgaan of uitstellen van belastingheffing, kan vóór de splitsing een verzoek indienen bij de inspecteur belast met de aanslagregeling van de splitsende rechtspersoon, die daarop bij voor bezwaar vatbare beschikking beslist.
 
-#### Artikel 3.57. Juridische fusie
+##### Artikel 3.57. Juridische fusie
 
 1. De belastingplichtige die is betrokken bij een overgang onder algemene titel in het kader van een fusie van een rechtspersoon, wordt geacht zijn aandelen in of zijn schuldvorderingen op de verdwijnende rechtspersoon ten tijde van de fusie te hebben vervreemd.
 
@@ -1481,7 +1509,7 @@ Vervallen
 
 7. De belastingplichtige die zekerheid wenst omtrent de vraag of de fusie niet wordt geacht in overwegende mate te zijn gericht op het ontgaan of uitstellen van belastingheffing, kan vóór de fusie een verzoek indienen bij de inspecteur belast met de aanslagregeling van de verdwijnende rechtspersoon, die daarop bij voor bezwaar vatbare beschikking beslist.
 
-#### Artikel 3.58. Staking door overlijden
+##### Artikel 3.58. Staking door overlijden
 
 1. Bij het staken van een onderneming door het overlijden van de belastingplichtige, wordt, behalve voor de toepassing van de desinvesteringsbijtelling, het vermogen van de onderneming geacht op het onmiddellijk daaraan voorafgaande tijdstip te zijn overgedragen aan degene aan wie het krachtens erfrecht of huwelijksvermogensrecht toekomt en wel tegen de waarde die in het economische verkeer aan dat vermogen kan worden toegekend.
 
@@ -1491,27 +1519,27 @@ Vervallen
 
 4. Voor de toepassing van het tweede en derde lid is [artikel 3.19, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.19&z=2026-02-21&g=2026-02-21), van overeenkomstige toepassing.
 
-#### Artikel 3.59. Doorschuiving of staking door ontbinding huwelijksgemeenschap
+##### Artikel 3.59. Doorschuiving of staking door ontbinding huwelijksgemeenschap
 
 1. Bij ontbinding van een huwelijksgemeenschap waartoe het vermogen van een onderneming behoort, anders dan door het overlijden van de belastingplichtige, wordt, behoudens voor de toepassing van de desinvesteringsbijtelling, het aandeel in dat vermogen dat op het onmiddellijk daaraan voorafgaande tijdstip krachtens huwelijksvermogensrecht toekomt aan de echtgenoot van de belastingplichtige, geacht op dat tijdstip aan hem aan wie het krachtens erfrecht of huwelijksvermogensrecht toekomt, te zijn overgedragen tegen de waarde die daaraan in het economische verkeer kan worden toegekend.
 
 2. Het eerste lid is niet van toepassing op de bestanddelen van het vermogen van de onderneming waarmee degene aan wie die bestanddelen krachtens erfrecht of huwelijksvermogensrecht toekomen, de onderneming rechtstreeks voortzet of mede voortzet. In dat geval wordt degene die de onderneming rechtstreeks voortzet of mede voortzet voor zijn gedeelte, voor het bepalen van de winst geacht in de plaats te zijn getreden van degene van wie de onderneming rechtstreeks wordt voortgezet.
 
-#### Artikel 3.60. Overbrenging vermogensbestanddelen naar het buitenland
+##### Artikel 3.60. Overbrenging vermogensbestanddelen naar het buitenland
 
 Indien bestanddelen van het vermogen van een in Nederland gedreven onderneming of zelfstandig gedeelte van een onderneming, waaruit de belastingplichtige winst geniet, worden overgebracht naar een buiten Nederland gedreven onderneming waaruit de belastingplichtige winst geniet en de belastingplichtige gelijktijdig of daarna ophoudt binnenlands belastingplichtig te zijn, worden die bestanddelen op het tijdstip onmiddellijk voorafgaande aan het ophouden van de binnenlandse belastingplicht en voorzover zij nog behoren tot het vermogen van de onderneming, geacht te zijn vervreemd tegen de waarde in het economische verkeer.
 
-#### Artikel 3.61. Eindafrekening
+##### Artikel 3.61. Eindafrekening
 
 Voordelen uit een onderneming die niet reeds uit anderen hoofde in aanmerking zijn genomen, worden gerekend tot de winst van het kalenderjaar waarin de belastingplichtige ophoudt in Nederland uit de onderneming winst te genieten. In dat geval worden de goederen voor de toepassing van de desinvesteringsbijtelling geacht aan de onderneming te zijn onttrokken.
 
-#### Artikel 3.62. Doorschuiving bij staking door overlijden
+##### Artikel 3.62. Doorschuiving bij staking door overlijden
 
 1. [Artikel 3.58](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.58&z=2026-02-21&g=2026-02-21) vindt geen toepassing met betrekking tot de bestanddelen van het vermogen van een onderneming waarmee een of meer van degenen aan wie die bestanddelen krachtens erfrecht of huwelijksvermogensrecht toekomen, de onderneming rechtstreeks voortzetten of mede voortzetten, mits degenen die de onderneming voortzetten of mede voortzetten dit bij de aangifte van de overleden belastingplichtige verzoeken.
 
 2. Degenen die het verzoek hebben gedaan worden, ieder voor zijn gedeelte, voor het bepalen van de winst geacht in de plaats te zijn getreden van degene van wie de onderneming rechtstreeks wordt voortgezet.
 
-#### Artikel 3.63. Doorschuiving naar ondernemers
+##### Artikel 3.63. Doorschuiving naar ondernemers
 
 1. Indien de belastingplichtige een onderneming waaruit hij als ondernemer of als belastingplichtige als bedoeld in [artikel 3.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=3.3&z=2026-02-21&g=2026-02-21), winst geniet, overdraagt in een geval als bedoeld in het vierde lid of vijfde lid, wordt voor het bepalen van de uit de onderneming in het kalenderjaar van overdracht genoten winst de onderneming, behalve voor de toepassing van [artikel 3.54a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.54a&z=2026-02-21&g=2026-02-21), geacht niet te zijn gestaakt, mits zowel de belastingplichtige als degene die de onderneming voortzet dit bij de aangifte van de belastingplichtige verzoeken.
 
@@ -1525,7 +1553,7 @@ Voordelen uit een onderneming die niet reeds uit anderen hoofde in aanmerking zi
 
 6. Bij ministeriële regeling kan onder nader te stellen voorwaarden worden bepaald dat in bij die regeling te bepalen gevallen de in het vierde lid en vijfde lid bedoelde termijn tot een bij die regeling te bepalen periode wordt verkort.
 
-#### Artikel 3.64. Doorschuiving via te conserveren inkomen naar andere onderneming
+##### Artikel 3.64. Doorschuiving via te conserveren inkomen naar andere onderneming
 
 1. Bij het staken van een onderneming wordt op verzoek van de belastingplichtige bij de aangifte de met of bij de staking behaalde winst die is toe te rekenen aan bedrijfsmiddelen en aan herinvesteringsreserves, afzonderlijk bepaald en behandeld als te conserveren inkomen, voorzover aannemelijk wordt gemaakt dat die afzonderlijk bepaalde winst in het jaar van staking, dan wel binnen een periode van 12 maanden na staking, zal worden geherinvesteerd in een onderneming waaruit de belastingplichtige winst geniet.
 
@@ -1539,7 +1567,7 @@ Voordelen uit een onderneming die niet reeds uit anderen hoofde in aanmerking zi
 
 De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking.
 
-#### Artikel 3.65. Omzetting in een NV of BV
+##### Artikel 3.65. Omzetting in een NV of BV
 
 1. Indien een onderneming wordt omgezet in de vorm van een door een naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid gedreven onderneming, wordt, op verzoek van de belastingplichtige, voor het bepalen van de uit de onderneming in het kalenderjaar van omzetting genoten winst de onderneming, behalve voor de toepassing van [artikel 3.54a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.54a&z=2026-02-21&g=2026-02-21), geacht niet te zijn gestaakt, mits de oprichters van de vennootschap in het aandelenkapitaal geheel of nagenoeg geheel in dezelfde verhouding gerechtigd zijn als in het vermogen van de omgezette onderneming en de door Onze Minister nader te stellen voorwaarden zijn vervuld. De eerste volzin is niet van toepassing in situaties als bedoeld in artikel 3.3, eerste lid, onderdeel b; in situaties als bedoeld in artikel 3.3, eerste lid, onderdeel a, is de eerste volzin slechts van toepassing indien de medegerechtigdheid van de belastingplichtige de rechtstreekse voortzetting vormt van zijn gerechtigdheid of medegerechtigdheid als ondernemer.
 
@@ -1559,7 +1587,7 @@ De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking.
 
 - e. de vervreemding van de aandelen in de opgerichte vennootschap.
 
-#### Artikel 3.66. Niet met het kalenderjaar samenvallend boekjaar
+##### Artikel 3.66. Niet met het kalenderjaar samenvallend boekjaar
 
 1. Indien de aard van de onderneming dit rechtvaardigt, mag de winst worden bepaald over een niet met het kalenderjaar samenvallend boekjaar. In dat geval treedt het boekjaar in de plaats van het kalenderjaar.
 
@@ -1569,37 +1597,37 @@ De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking.
 
 #### Paragraaf 3.2.3. Oudedagsreserve
 
-#### Artikel 3.67. Toegang toevoegingen oudedagsreserve
+##### Artikel 3.67. Toegang toevoegingen oudedagsreserve
 
 Vervallen
 
-#### Artikel 3.68. Toevoegingen
+##### Artikel 3.68. Toevoegingen
 
 Vervallen
 
-#### Artikel 3.69. Extra toevoegingen
+##### Artikel 3.69. Extra toevoegingen
 
 Vervallen
 
-#### Artikel 3.70. Afnemingen
+##### Artikel 3.70. Afnemingen
 
 Vervallen
 
-#### Artikel 3.71. Ondernemingsvermogen
+##### Artikel 3.71. Ondernemingsvermogen
 
 Vervallen
 
-#### Artikel 3.72. Meer dan één onderneming
+##### Artikel 3.72. Meer dan één onderneming
 
 Vervallen
 
-#### Artikel 3.73. Niet met het kalenderjaar samenvallend boekjaar
+##### Artikel 3.73. Niet met het kalenderjaar samenvallend boekjaar
 
 Vervallen
 
 #### Paragraaf 3.2.4. Ondernemersaftrek
 
-#### Artikel 3.74. Berekening ondernemersaftrek
+##### Artikel 3.74. Berekening ondernemersaftrek
 
 De ondernemersaftrek is het gezamenlijke bedrag van:
 
@@ -1613,11 +1641,11 @@ De ondernemersaftrek is het gezamenlijke bedrag van:
 
 - e. de stakingsaftrek.
 
-#### Artikel 3.75. Meer dan één onderneming
+##### Artikel 3.75. Meer dan één onderneming
 
 Voor de toepassing van deze paragraaf en de daarop rustende bepalingen wordt onder een onderneming mede verstaan: de gezamenlijke ondernemingen.
 
-#### Artikel 3.76. Zelfstandigenaftrek
+##### Artikel 3.76. Zelfstandigenaftrek
 
 1. De zelfstandigenaftrek geldt voor de **ondernemer**die aan het **urencriterium**voldoet.
 
@@ -1639,7 +1667,7 @@ Voor de toepassing van deze paragraaf en de daarop rustende bepalingen wordt ond
 
 10. Voor de toepassing van dit artikel wordt onder winst verstaan het gezamenlijke bedrag van de winst die de belastingplichtige als ondernemer uit een of meer ondernemingen geniet.
 
-#### Artikel 3.77. Aftrek speur- en ontwikkelingswerk
+##### Artikel 3.77. Aftrek speur- en ontwikkelingswerk
 
 1. De aftrek voor speur- en ontwikkelingswerk geldt voor de **ondernemer** die aan het **urencriterium** voldoet en in het kalenderjaar ten minste 500 uur besteedt aan werk dat bij een S&O-verklaring als bedoeld in [artikel 27, eerste lid, van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=27) is aangemerkt als speur- en ontwikkelingswerk. De aftrek voor speur- en ontwikkelingswerk bedraagt € 15.979.
 
@@ -1649,7 +1677,7 @@ Voor de toepassing van deze paragraaf en de daarop rustende bepalingen wordt ond
 
 4. Indien op grond van [artikel 29 van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=29) de in [artikel 23, derde, vierde en zevende lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=23) vermelde percentages worden verhoogd, verlaagd of op nihil worden gesteld, kan bij ministeriële regeling van Onze Minister van Economische Zaken en Klimaat het in het eerste lid vermelde bedrag in dezelfde mate worden verhoogd tot maximaal € 18.977, worden verlaagd of op nihil worden gesteld. Het nieuwe bedrag geldt met betrekking tot de S&O-verklaringen die betrekking hebben op een kalenderjaar dat aanvangt op of na de dag waarop de wijziging in werking treedt.
 
-#### Artikel 3.78. Meewerkaftrek
+##### Artikel 3.78. Meewerkaftrek
 
 1. De meewerkaftrek geldt voor de **ondernemer** die aan het **urencriterium** voldoet en van wie de **partner** zonder enige vergoeding arbeid verricht in een onderneming waaruit de belastingplichtige als ondernemer winst geniet.
 
@@ -1670,7 +1698,7 @@ Voor de toepassing van deze paragraaf en de daarop rustende bepalingen wordt ond
 
 - c. winst als gevolg van de overbrenging van vermogensbestanddelen naar het buitenland of als gevolg van eindafrekening bedoeld in [artikel 3.60](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.60&z=2026-02-21&g=2026-02-21) respectievelijk [3.61](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.61&z=2026-02-21&g=2026-02-21).
 
-#### Artikel 3.78a. Startersaftrek bij arbeidsongeschiktheid
+##### Artikel 3.78a. Startersaftrek bij arbeidsongeschiktheid
 
 1. De startersaftrek bij arbeidsongeschiktheid geldt voor de ondernemer die in een of meer van de vijf voorafgaande kalenderjaren geen ondernemer was, in het kalenderjaar recht heeft op een arbeidsongeschiktheidsuitkering als bedoeld in het tweede lid, of in het kalenderjaar recht heeft op arbeidsondersteuning op grond van de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), niet voldoet aan het urencriterium maar wel aan het verlaagde-urencriterium, bedoeld in het derde lid, en bij het begin van het kalenderjaar de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), nog niet heeft bereikt. De eerste volzin is niet van toepassing voor de ondernemer die met toepassing van [artikel 14c van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14c) een onderneming voortzet of mede voortzet waarbij dit voortzetten een aanvang heeft genomen in het kalenderjaar of in een van de vijf daaraan voorafgaande kalenderjaren.
 
@@ -1702,7 +1730,7 @@ Onder een arbeidsongeschiktheidsuitkering wordt mede verstaan het genieten van e
 
 5. Voor de toepassing van dit artikel wordt onder winst verstaan het gezamenlijke bedrag van de winst die de belastingplichtige als ondernemer uit een of meer ondernemingen geniet.
 
-#### Artikel 3.79. Stakingsaftrek
+##### Artikel 3.79. Stakingsaftrek
 
 1. De stakingsaftrek geldt voor de ondernemer die als ondernemer in het kalenderjaar winst behaalt met of bij het staken van een of meer gehele ondernemingen.
 
@@ -1714,7 +1742,7 @@ Onder een arbeidsongeschiktheidsuitkering wordt mede verstaan het genieten van e
 
 #### Paragraaf 3.2.5. MKB-winstvrijstelling
 
-#### Artikel 3.79a. MKB-winstvrijstelling
+##### Artikel 3.79a. MKB-winstvrijstelling
 
 De MKB-winstvrijstelling bedraagt 12,7% van het gezamenlijke bedrag van de winst die de belastingplichtige als **ondernemer** geniet uit een of meer ondernemingen ([paragraaf 3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&z=2026-02-21&g=2026-02-21)) nadat dit bedrag is verminderd met de ondernemersaftrek ([paragraaf 3.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.4&z=2026-02-21&g=2026-02-21)).
 
@@ -1722,15 +1750,15 @@ De MKB-winstvrijstelling bedraagt 12,7% van het gezamenlijke bedrag van de winst
 
 #### Paragraaf 3.3.1. Belastbaar loon
 
-#### Artikel 3.80. Belastbaar loon
+##### Artikel 3.80. Belastbaar loon
 
 Belastbaar loon is **loon** verminderd met de **reisaftrek**([paragraaf 3.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.2&z=2026-02-21&g=2026-02-21)).
 
-#### Artikel 3.81. Loon
+##### Artikel 3.81. Loon
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder **loon:** loon overeenkomstig de wettelijke bepalingen van de loonbelasting, met dien verstande dat, voorzover nodig in afwijking van die bepalingen, fooien en dergelijke prestaties van derden in aanmerking worden genomen voor het werkelijk genoten bedrag.
 
-#### Artikel 3.82. Uitbreiding begrip loon
+##### Artikel 3.82. Uitbreiding begrip loon
 
 Tot **loon** wordt gerekend:
 
@@ -1744,7 +1772,7 @@ Tot **loon** wordt gerekend:
 
 - c. uitkeringen op grond van een pensioenregeling van een internationale organisatie, behoudens voorzover aannemelijk is dat over de aanspraken ingevolge die pensioenregeling een heffing naar het inkomen heeft plaatsgevonden die naar aard en strekking overeenkomt met de loonbelasting of de inkomstenbelasting.
 
-#### Artikel 3.83. Pensioen in grensoverschrijdende situaties
+##### Artikel 3.83. Pensioen in grensoverschrijdende situaties
 
 1. Tot **loon** wordt gerekend de waarde in het economische verkeer van opgebouwde aanspraken uit een **pensioenregeling**, indien de belastingplichtige die werknemer of gewezen werknemer is in de zin van de wettelijke bepalingen van de loonbelasting en aan wie het pensioen is toegezegd, ophoudt binnenlands belastingplichtige te zijn anders dan door overlijden, of indien na zijn overlijden de gerechtigde tot de uitkeringen ophoudt binnenlands belastingplichtige te zijn. Onder ophouden binnenlands belastingplichtig te zijn wordt mede verstaan de situatie waarin de belastingplichtige voor de toepassing van de [Belastingregeling voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002464), de Belastingregeling voor het land Nederland of een verdrag ter voorkoming van dubbele belasting wordt geacht geen inwoner van Nederland meer te zijn.
 
@@ -1766,7 +1794,7 @@ Tot **loon** wordt gerekend:
 
 8. Bij ministeriële regeling kunnen regels worden gesteld op grond waarvan om doelmatigheidsredenen toepassing van het eerste en tweede lid achterwege kan blijven.
 
-#### Artikel 3.84. Vrijstelling eindheffingsbestanddelen
+##### Artikel 3.84. Vrijstelling eindheffingsbestanddelen
 
 1. Tot loon behoren niet voordelen waarover de belasting op grond van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31) of [artikel 32ab](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=32ab) in verbinding met [artikel 31 van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31) is verschuldigd door de inhoudingsplichtige, evenmin als een hierdoor voor de belastingplichtige ontstaan voordeel.
 
@@ -1774,15 +1802,15 @@ Tot **loon** wordt gerekend:
 
 #### Paragraaf 3.3.2. Reisaftrek
 
-#### Artikel 3.85. Werknemersaftrek
+##### Artikel 3.85. Werknemersaftrek
 
 Vervallen
 
-#### Artikel 3.86. Fietsaftrek
+##### Artikel 3.86. Fietsaftrek
 
 Vervallen
 
-#### Artikel 3.87. Reisaftrek
+##### Artikel 3.87. Reisaftrek
 
 1. De reisaftrek geldt bij ten minste eenmaal per week plegen te reizen tussen de woning of verblijfplaats en de plaats of plaatsen van werkzaamheden waarbij binnen een tijdsbestek van 24 uur zowel heen als terug wordt gereisd en wordt in aanmerking genomen voor de per openbaar vervoer afgelegde **reisafstand**, voor zover dat vervoer niet vanwege de inhoudingsplichtige plaatsvindt.
 
@@ -1822,11 +1850,11 @@ Vervallen
 
 10. Bij ministeriële regeling worden regels gesteld met betrekking tot de inhoud van de openbaar-vervoerverklaring en van de reisverklaring en voor de uitvoering van dit artikel.
 
-#### Artikel 3.88. Begrippen woon–werkverkeer
+##### Artikel 3.88. Begrippen woon–werkverkeer
 
 Vervallen
 
-#### Artikel 3.89. Zeedagenaftrek
+##### Artikel 3.89. Zeedagenaftrek
 
 Vervallen
 
@@ -1834,11 +1862,11 @@ Vervallen
 
 #### Paragraaf 3.4.1. Belastbaar resultaat uit overige werkzaamheden
 
-#### Artikel 3.90. Belastbaar resultaat uit overige werkzaamheden
+##### Artikel 3.90. Belastbaar resultaat uit overige werkzaamheden
 
 Belastbaar resultaat uit overige werkzaamheden is het gezamenlijke bedrag van het resultaat uit een of meer werkzaamheden die geen belastbare winst of belastbaar loon genereren verminderd met de terbeschikkingstellingsvrijstelling ([§ 3.4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.4&paragraaf=3.4.3&z=2026-02-21&g=2026-02-21) Terbeschikkingstellingsvrijstelling).
 
-#### Artikel 3.91. Ter beschikking stellen van vermogensbestanddelen aan een onderneming of werkzaamheid
+##### Artikel 3.91. Ter beschikking stellen van vermogensbestanddelen aan een onderneming of werkzaamheid
 
 1. Onder werkzaamheid wordt mede verstaan:
 
@@ -1880,7 +1908,7 @@ Belastbaar resultaat uit overige werkzaamheden is het gezamenlijke bedrag van he
 
 3. Op dezelfde wijze als het ter beschikking stellen van vermogensbestanddelen aan een met de belastingplichtige verbonden persoon wordt behandeld het ter beschikking stellen aan een niet onder het tweede lid, onderdeel b, begrepen bloed- of aanverwant in de rechte lijn van de belastingplichtige of van zijn partner, indien het een in het maatschappelijke verkeer ongebruikelijke terbeschikkingstelling is. Bij ministeriële regeling kunnen regels worden gesteld voor de toepassing van dit lid, waaronder regels of sprake is van een in het maatschappelijk verkeer ongebruikelijke terbeschikkingstelling.
 
-#### Artikel 3.92. Ter beschikking stellen van vermogensbestanddelen aan een vennootschap waarin een aanmerkelijk belang wordt gehouden
+##### Artikel 3.92. Ter beschikking stellen van vermogensbestanddelen aan een vennootschap waarin een aanmerkelijk belang wordt gehouden
 
 1. Voorts wordt onder werkzaamheid mede verstaan:
 
@@ -1920,11 +1948,11 @@ Belastbaar resultaat uit overige werkzaamheden is het gezamenlijke bedrag van he
 
 4. Indien de belastingplichtige in algehele gemeenschap van goederen is gehuwd en tot die gemeenschap een vermogensbestanddeel als bedoeld in het eerste lid of tweede lid behoort, wordt dit vermogensbestanddeel voor de helft toegerekend aan de belastingplichtige en voor de andere helft aan zijn echtgenoot. De eerste volzin is van overeenkomstige toepassing met betrekking tot een vermogensbestanddeel als bedoeld in het eerste of tweede lid dat behoort tot een beperkte gemeenschap van goederen.
 
-#### Artikel 3.92a. Opwaarderingsreserve
+##### Artikel 3.92a. Opwaarderingsreserve
 
 Voorts wordt onder werkzaamheid mede verstaan het hebben van een opwaarderingsreserve als bedoeld in [artikel 3.98a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.4&paragraaf=3.4.2&artikel=3.98a&z=2026-02-21&g=2026-02-21).
 
-#### Artikel 3.92b. Met een werkzaamheid verband houdende lucratieve belangen
+##### Artikel 3.92b. Met een werkzaamheid verband houdende lucratieve belangen
 
 1. Voorts wordt onder werkzaamheid mede verstaan:
 
@@ -1950,7 +1978,7 @@ Voorts wordt onder werkzaamheid mede verstaan het hebben van een opwaarderingsre
 
 - b. een bloed- of aanverwant in de rechte lijn van de belastingplichtige of van zijn partner.
 
-#### Artikel 3.93. Bijzondere bepalingen begrip werkzaamheden
+##### Artikel 3.93. Bijzondere bepalingen begrip werkzaamheden
 
 1. Voor de toepassing van de [artikelen 3.91](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.4&paragraaf=3.4.1&artikel=3.91&z=2026-02-21&g=2026-02-21), [3.92](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.4&paragraaf=3.4.1&artikel=3.92&z=2026-02-21&g=2026-02-21) en [3.92b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.4&paragraaf=3.4.1&artikel=3.92b&z=2026-02-21&g=2026-02-21):
 
@@ -1964,21 +1992,21 @@ Voorts wordt onder werkzaamheid mede verstaan het hebben van een opwaarderingsre
 
 #### Paragraaf 3.4.2. Resultaat uit een werkzaamheid
 
-#### Artikel 3.94. Resultaat uit een werkzaamheid
+##### Artikel 3.94. Resultaat uit een werkzaamheid
 
 Resultaat uit een werkzaamheid (resultaat) is het bedrag van de gezamenlijke voordelen die, onder welke naam en in welke vorm ook, worden behaald met een werkzaamheid.
 
-#### Artikel 3.95. Bepaling van het resultaat
+##### Artikel 3.95. Bepaling van het resultaat
 
 1. Bij de bepaling van het resultaat zijn de [artikelen 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.10&z=2026-02-21&g=2026-02-21), [3.13 tot en met 3.21](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.13&z=2026-02-21&g=2026-02-21), [3.25 tot en met 3.30a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.25&z=2026-02-21&g=2026-02-21) en [3.55 tot en met 3.62](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.55&z=2026-02-21&g=2026-02-21) van overeenkomstige toepassing, alsof de werkzaamheid een onderneming vormt. Voor de overeenkomstige toepassing van [artikel 3.18, vierde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.18&z=2026-02-21&g=2026-02-21), wordt verstaan onder de winst uit onderneming vóór de ondernemersaftrek en vermeerderd met de ten laste van de winst gebrachte premies uit hoofde van een pensioenregeling als bedoeld in [artikel 1.7, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=1&artikel=1.7&z=2026-02-21&g=2026-02-21): het belastbare resultaat uit overige werkzaamheden vermeerderd met de ten laste van dat resultaat gekomen premies uit hoofde van een pensioenregeling als bedoeld in artikel 1.7, tweede lid, onderdeel b.
 
 2. Bij de bepaling van het resultaat met betrekking tot een werkzaamheid als bedoeld in de [artikelen 3.91](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.4&paragraaf=3.4.1&artikel=3.91&z=2026-02-21&g=2026-02-21) en [3.92](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.4&paragraaf=3.4.1&artikel=3.92&z=2026-02-21&g=2026-02-21), met uitzondering van artikel 3.91, eerste lid, onderdeel c, zijn de [artikelen 3.53, eerste lid, onderdelen a en b, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.53&z=2026-02-21&g=2026-02-21), [3.54](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.54&z=2026-02-21&g=2026-02-21) en [3.64](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.64&z=2026-02-21&g=2026-02-21) ook van overeenkomstige toepassing, alsof de werkzaamheid een onderneming vormt.
 
-#### Artikel 3.95a. Aftrek bij het toepassing vinden van [artikel 2.14, derde lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=2&afdeling=2.4&artikel=2.14&z=2026-02-21&g=2026-02-21)
+##### Artikel 3.95a. Aftrek bij het toepassing vinden van [artikel 2.14, derde lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=2&afdeling=2.4&artikel=2.14&z=2026-02-21&g=2026-02-21)
 
 Indien ingevolge [artikel 2.14, derde lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=2&afdeling=2.4&artikel=2.14&z=2026-02-21&g=2026-02-21), door de belastingplichtige genoten vergoedingen ter zake van een werkruimte niet worden aangemerkt als loon doch als voordeel behaald met een werkzaamheid en die werkruimte behoort tot het vermogen van een onderneming van hem of van één met hem verbonden persoon als bedoeld in dat artikelonderdeel, wordt voor de berekening van het resultaat met die werkzaamheid slechts als kosten en lasten in aftrek gebracht een evenredig deel van de op de voet van [artikel 3.19](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.19&z=2026-02-21&g=2026-02-21) berekende bijtelling privé-gebruik woning.
 
-#### Artikel 3.95b. Aanvullende bepaling resultaat bij lucratieve belangen
+##### Artikel 3.95b. Aanvullende bepaling resultaat bij lucratieve belangen
 
 1. Ingeval op enig tijdstip een vermogensbestanddeel tot een werkzaamheid als bedoeld in [artikel 3.92b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.4&paragraaf=3.4.1&artikel=3.92b&z=2026-02-21&g=2026-02-21) gaat behoren, wordt het op dat tijdstip te boek gesteld op het bedrag dat is opgeofferd ter verkrijging van het bestanddeel vermeerderd met het bedrag waarover ter zake van de verkrijging van het bestanddeel inkomstenbelasting is geheven. Indien het in de eerste volzin bedoelde tijdstip samenvalt met het tijdstip waarop de belastingplichtige in Nederland gaat wonen, wordt in afwijking van de eerste volzin het vermogensbestanddeel te boek gesteld op de waarde die op dat tijdstip in het economische verkeer aan dat vermogensbestanddeel kan worden toegekend.
 
@@ -1992,7 +2020,7 @@ Indien ingevolge [artikel 2.14, derde lid, onderdeel e](https://wetten.overheid.
 
 6. Ingeval de tot een werkzaamheid als bedoeld in [artikel 3.92b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.4&paragraaf=3.4.1&artikel=3.92b&z=2026-02-21&g=2026-02-21) behorende vermogensbestanddelen middellijk worden gehouden via een lichaam waarin de belastingplichtige niet een aanmerkelijk belang als bedoeld in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&z=2026-02-21&g=2026-02-21) of [afdeling 7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=7&afdeling=7.3&z=2026-02-21&g=2026-02-21) houdt en die vermogensbestanddelen met ingang van enig tijdstip worden gehouden via een lichaam waarin de belastingplichtige een aanmerkelijk belang houdt, is het vijfde lid ter zake van die vermogensbestanddelen niet van toepassing op voordelen als bedoeld in dat lid, voor zover de waarde in het economische verkeer van deze vermogensbestanddelen op het direct daaraan voorafgaande tijdstip het opgeofferde bedrag van het lucratieve belang overtreft.
 
-#### Artikel 3.96. Vrijstelling
+##### Artikel 3.96. Vrijstelling
 
 Tot het resultaat behoren niet:
 
@@ -2002,7 +2030,7 @@ Tot het resultaat behoren niet:
 
 - c. voordelen die door de belastingplichtige als vrijwilliger, bedoeld in [artikel 2, zesde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=2), worden behaald, waarbij het gezamenlijke bedrag van de vergoedingen en verstrekkingen niet meer bedraagt dan de aldaar genoemde bedragen.
 
-#### Artikel 3.97. Keuzemogelijkheid bij het houden van kostgangers
+##### Artikel 3.97. Keuzemogelijkheid bij het houden van kostgangers
 
 1. Indien de belastingplichtige bij de aangifte daarvoor kiest, worden de door hem uit het houden van kostgangers verkregen opbrengsten voor een deel als voordelen uit **eigen woning** dan wel uit een huurrecht aangemerkt. Dit keuzerecht geldt voor het deel van de opbrengsten dat betrekking heeft op het, anders dan voor korte duur, ter beschikking stellen aan derden van al dan niet gestoffeerde of gemeubileerde woonruimte die niet een zelfstandige woning vormt en deel uitmaakt van de woning die de belastingplichtige tot hoofdverblijf dient.
 
@@ -2012,7 +2040,7 @@ Tot het resultaat behoren niet:
 
 - b. zowel de belastingplichtige als degenen aan wie ter beschikking is gesteld gedurende de periode van de terbeschikkingstelling als ingezetenen op het woonadres ter zake van de woning zijn ingeschreven in de basisregistratie personen.
 
-#### Artikel 3.98. Doorschuiving bij ontbinding van de vennootschap
+##### Artikel 3.98. Doorschuiving bij ontbinding van de vennootschap
 
 1. Indien vermogensbestanddelen als bedoeld in [artikel 3.92](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.4&paragraaf=3.4.1&artikel=3.92&z=2026-02-21&g=2026-02-21) niet langer door de belastingplichtige ter beschikking worden gesteld aan de vennootschap in verband met de toepassing van [artikel 14c van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14c) maar onderdeel gaan uitmaken van de onderneming van de vennootschap die door hem wordt voortgezet, wordt, op verzoek van de belastingplichtige, de daarmee behaalde stakingswinst niet in aanmerking genomen voor het bepalen van het in het jaar uit de werkzaamheid genoten resultaat. In dat geval wordt bij de onderneming de boekwaarde van de vermogensbestanddelen gesteld op de boekwaarde daarvan bij de werkzaamheid.
 
@@ -2020,7 +2048,7 @@ Tot het resultaat behoren niet:
 
 3. Dit artikel is van overeenkomstige toepassing met betrekking tot fiscale reserves als bedoeld in [artikel 3.53](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.53&z=2026-02-21&g=2026-02-21) alsmede voorzieningen die in overeenstemming met [artikel 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.25&z=2026-02-21&g=2026-02-21) zijn gevormd bij de bepaling van het resultaat uit de werkzaamheid. Degene naar wie de reserve of voorziening is overgegaan, wordt geacht in de plaats te zijn getreden van degene die de reserve of voorziening heeft gevormd.
 
-#### Artikel 3.98a. Omzetting van een afgewaardeerde vordering als bedoeld in [artikel 3.92](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.4&paragraaf=3.4.1&artikel=3.92&z=2026-02-21&g=2026-02-21)
+##### Artikel 3.98a. Omzetting van een afgewaardeerde vordering als bedoeld in [artikel 3.92](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.4&paragraaf=3.4.1&artikel=3.92&z=2026-02-21&g=2026-02-21)
 
 1. Indien de belastingplichtige een schuldvordering heeft als bedoeld in [artikel 3.92](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.4&paragraaf=3.4.1&artikel=3.92&z=2026-02-21&g=2026-02-21) en die schuldvordering is afgewaardeerd ten laste van de winst uit een onderneming of het resultaat uit een werkzaamheid van hem of van een met hem verbonden persoon, wordt, indien zich een omstandigheid voordoet als bedoeld in het tweede lid, tot het resultaat van de belastingplichtige gerekend een bedrag gelijk aan die afwaardering. Het in de eerste volzin bedoelde bedrag kan gelijktijdig ten laste van het resultaat worden toegevoegd aan een reserve (opwaarderingsreserve).
 
@@ -2048,7 +2076,7 @@ Tot het resultaat behoren niet:
 
 10. Voor de toepassing van dit artikel wordt onder een met de belastingplichtige verbonden persoon verstaan hetgeen daaronder wordt verstaan in [artikel 3.91, tweede lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.4&paragraaf=3.4.1&artikel=3.91&z=2026-02-21&g=2026-02-21).
 
-#### Artikel 3.98b. Vervreemding van een afgewaardeerde vordering
+##### Artikel 3.98b. Vervreemding van een afgewaardeerde vordering
 
 1. Indien de belastingplichtige een schuldvordering heeft als bedoeld in [artikel 3.91](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.4&paragraaf=3.4.1&artikel=3.91&z=2026-02-21&g=2026-02-21) of [3.92](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.4&paragraaf=3.4.1&artikel=3.92&z=2026-02-21&g=2026-02-21) en die schuldvordering is afgewaardeerd ten laste van de winst uit een onderneming of het resultaat uit een werkzaamheid van hem of van een met hem verbonden persoon, wordt, indien de schuldvordering wordt vervreemd of overgebracht als omschreven in het tweede lid, ter zake van die vervreemding of overbrenging, tot het resultaat van de belastingplichtige gerekend een bedrag gelijk aan die afwaardering voorzover met betrekking tot die schuldvordering niet reeds een bedrag op de voet van dit artikel tot het resultaat van de belastingplichtige of een met hem verbonden persoon is gerekend.
 
@@ -2064,13 +2092,13 @@ Tot het resultaat behoren niet:
 
 5. Voor de toepassing van het tweede lid, onderdeel a, en het derde lid, wordt bij vervreemding aan een niet in Nederland wonend natuurlijk persoon of een niet in Nederland gevestigd lichaam, die persoon onderscheidenlijk dat lichaam geacht een met de belastingplichtige verbonden persoon te zijn onderscheidenlijk een vennootschap te zijn waarin de belastingplichtige of een met hem verbonden persoon, een aanmerkelijk belang heeft als bedoeld in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&z=2026-02-21&g=2026-02-21), tenzij de belastingplichtige het tegendeel aannemelijk maakt.
 
-#### Artikel 3.98c. Doorschuiving bij overgang krachtens huwelijksvermogensrecht
+##### Artikel 3.98c. Doorschuiving bij overgang krachtens huwelijksvermogensrecht
 
 1. De overgang krachtens huwelijksvermogensrecht van een evenredig deel van een vermogensbestanddeel van de belastingplichtige op zijn echtgenoot wordt ten aanzien van hem niet als een staking van een werkzaamheid aangemerkt, mits het evenredig deel bij de echtgenoot tot een werkzaamheid behoort. De echtgenoot stelt het evenredig deel van het vermogensbestanddeel voor de eerste keer te boek op een evenredig deel van de laatste boekwaarde van het vermogensbestanddeel bij de belastingplichtige. De eerste volzin is van overeenkomstige toepassing met betrekking tot fiscale reserves als bedoeld in [artikel 3.53](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.53&z=2026-02-21&g=2026-02-21) alsmede voorzieningen die in overeenstemming met [artikel 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.25&z=2026-02-21&g=2026-02-21) zijn gevormd bij de bepaling van het resultaat uit de werkzaamheid. Degene naar wie de reserve of voorziening is overgegaan, wordt geacht in de plaats te zijn getreden van degene die de reserve of voorziening heeft gevormd.
 
 2. Het eerste lid vindt geen toepassing indien de belastingplichtige en zijn echtgenoot daarvoor kiezen. De keuze wordt gemaakt bij de aangifte van de belastingplichtige.
 
-#### Artikel 3.98d. Doorschuiving bij overgang krachtens verdeling van een huwelijksgemeenschap anders dan door overlijden
+##### Artikel 3.98d. Doorschuiving bij overgang krachtens verdeling van een huwelijksgemeenschap anders dan door overlijden
 
 1. De verdeling van een huwelijksgemeenschap waartoe een ter beschikking gesteld vermogensbestanddeel als bedoeld in [artikel 3.92, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.4&paragraaf=3.4.1&artikel=3.92&z=2026-02-21&g=2026-02-21), behoort binnen twee jaren na de ontbinding van de huwelijksgemeenschap anders dan door overlijden, wordt met betrekking tot dat vermogensbestanddeel niet als een vervreemding aangemerkt mits het vermogensbestanddeel bij de verkrijger tot een werkzaamheid blijft behoren. De verkrijger stelt het deel van het vermogensbestanddeel dat hij verkrijgt te boek op de laatste boekwaarde van dat deel van het vermogensbestanddeel bij degene van wie het is verkregen. De eerste volzin is van overeenkomstige toepassing met betrekking tot fiscale reserves als bedoeld in [artikel 3.53](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.53&z=2026-02-21&g=2026-02-21) alsmede voorzieningen die in overeenstemming met [artikel 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.25&z=2026-02-21&g=2026-02-21) zijn gevormd bij de bepaling van het resultaat uit de werkzaamheid. Degene naar wie de reserve of voorziening is overgegaan, wordt geacht in de plaats te zijn getreden van degene die de reserve of voorziening heeft gevormd.
 
@@ -2078,17 +2106,17 @@ Tot het resultaat behoren niet:
 
 3. De [artikelen 3.98a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.4&paragraaf=3.4.2&artikel=3.98a&z=2026-02-21&g=2026-02-21) en [3.98b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.4&paragraaf=3.4.2&artikel=3.98b&z=2026-02-21&g=2026-02-21) zijn bij een belastingplichtige van overeenkomstige toepassing op een ter beschikking gestelde schuldvordering als bedoeld in [artikel 3.92, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.4&paragraaf=3.4.1&artikel=3.92&z=2026-02-21&g=2026-02-21), die voorafgaande aan de verdeling van een huwelijksgemeenschap is afgewaardeerd ten laste van het resultaat uit een werkzaamheid van zijn gewezen echtgenoot.
 
-#### Artikel 3.99. Overgang werkzaamheid in onderneming
+##### Artikel 3.99. Overgang werkzaamheid in onderneming
 
 Indien een werkzaamheid in een kalenderjaar uitgroeit tot een onderneming waaruit de belastingplichtige als **ondernemer** winst geniet, wordt voor het bepalen van het in het jaar uit de werkzaamheid genoten resultaat, de werkzaamheid geacht niet te zijn gestaakt. In dat geval wordt bij de onderneming de boekwaarde van de vermogensbestanddelen gesteld op de boekwaarde daarvan bij de werkzaamheid.
 
-#### Artikel 3.99a. Doorschuiffaciliteit bij inbreng van ter beschikking gesteld pand in een nv of bv
+##### Artikel 3.99a. Doorschuiffaciliteit bij inbreng van ter beschikking gesteld pand in een nv of bv
 
 Vervallen
 
 #### Paragraaf 3.4.3. Terbeschikkingstellingsvrijstelling
 
-#### Artikel 3.99b. Terbeschikkingstellingsvrijstelling
+##### Artikel 3.99b. Terbeschikkingstellingsvrijstelling
 
 1. De terbeschikkingstellingsvrijstelling geldt voor de belastingplichtige met een werkzaamheid als bedoeld in [artikel 3.91](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.4&paragraaf=3.4.1&artikel=3.91&z=2026-02-21&g=2026-02-21) of [artikel 3.92](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.4&paragraaf=3.4.1&artikel=3.92&z=2026-02-21&g=2026-02-21), met uitzondering van artikel 3.91, eerste lid, onderdeel c.
 
@@ -2096,7 +2124,7 @@ Vervallen
 
 ### Afdeling 3.5. Belastbare periodieke uitkeringen en verstrekkingen
 
-#### Artikel 3.100. Belastbare periodieke uitkeringen en verstrekkingen
+##### Artikel 3.100. Belastbare periodieke uitkeringen en verstrekkingen
 
 1. Belastbare periodieke uitkeringen en verstrekkingen zijn:
 
@@ -2120,7 +2148,7 @@ verminderd met de daarop drukkende aftrekbare kosten, bedoeld in [artikel 3.108]
 
 - b. waarbij zich een omstandigheid heeft voorgedaan als bedoeld in [artikel 3.133, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.8&artikel=3.133&z=2026-02-21&g=2026-02-21), anders dan bedoeld in onderdeel a.
 
-#### Artikel 3.101. Aangewezen periodieke uitkeringen en verstrekkingen
+##### Artikel 3.101. Aangewezen periodieke uitkeringen en verstrekkingen
 
 1. Aangewezen periodieke uitkeringen en verstrekkingen zijn de periodieke uitkeringen en verstrekkingen die:
 
@@ -2134,7 +2162,7 @@ verminderd met de daarop drukkende aftrekbare kosten, bedoeld in [artikel 3.108]
 
 2. Indien verstrekkingen als bedoeld in het eerste lid, onderdelen b of c, worden ontvangen in de vorm van huisvesting ter zake van een woning of een gedeelte van een woning, worden die verstrekkingen voorzover zij afkomstig zijn van een beperkt gerechtigde tot die woning of gedeelte van die woning gesteld op de huurwaarde respectievelijk een evenredig deel van de huurwaarde berekend volgens [artikel 3.112](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.6&artikel=3.112&z=2026-02-21&g=2026-02-21).
 
-#### Artikel 3.102. Algemene uitbreidingen aangewezen uitkeringen
+##### Artikel 3.102. Algemene uitbreidingen aangewezen uitkeringen
 
 1. Tot de aangewezen periodieke uitkeringen en verstrekkingen behoort wat wordt ontvangen ter vervanging van gederfde of te derven periodieke uitkeringen en verstrekkingen.
 
@@ -2150,7 +2178,7 @@ verminderd met de daarop drukkende aftrekbare kosten, bedoeld in [artikel 3.108]
 
 5. Tot wat wordt ontvangen ter zake van het recht op verrekening bedoeld in het derde lid, behoort niet een recht op periodieke uitkeringen en verstrekkingen dat is toegekend door degene die tot de verrekening verplicht is.
 
-#### Artikel 3.103. Specifieke uitbreidingen publiekrechtelijke uitkeringen
+##### Artikel 3.103. Specifieke uitbreidingen publiekrechtelijke uitkeringen
 
 Tot de periodieke uitkeringen en verstrekkingen die worden ontvangen op grond van een publiekrechtelijke regeling behoren:
 
@@ -2164,7 +2192,7 @@ Tot de periodieke uitkeringen en verstrekkingen die worden ontvangen op grond va
 
 - e. uitkeringen op grond van buitenlandse regelingen die naar aard en strekking overeenkomen met uitkeringen als bedoeld in de onderdelen a, b, c en d.
 
-#### Artikel 3.104. Vrijstellingen publiekrechtelijke uitkeringen
+##### Artikel 3.104. Vrijstellingen publiekrechtelijke uitkeringen
 
 Tot de aangewezen periodieke uitkeringen en verstrekkingen behoren niet:
 
@@ -2214,7 +2242,7 @@ Tot de aangewezen periodieke uitkeringen en verstrekkingen behoren niet:
 
 - r. uitkeringen op grond van de overeenkomst tussen de Bondsrepubliek Duitsland en de Conference on Jewish Material Claims Against Germany, gebaseerd op artikel 2 van de Vereinbarung vom 18. September 1990 über die Herstellung der Einheit Deutschlands zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik zur Durchführung und Auslegung des am 31. August 1990 in Berlin unterzeichneten Einigungvertrages.
 
-#### Artikel 3.105. Specifieke uitbreidingen familierechtelijke uitkeringen
+##### Artikel 3.105. Specifieke uitbreidingen familierechtelijke uitkeringen
 
 1. Tot de periodieke uitkeringen en verstrekkingen die worden ontvangen op grond van een rechtstreeks uit het familierecht voortvloeiende verplichting behoren de periodieke uitkeringen en verstrekkingen voorzover zij zijn overeengekomen in het kader van echtscheiding of scheiding van tafel en bed ter verrekening van:
 
@@ -2226,7 +2254,7 @@ Tot de aangewezen periodieke uitkeringen en verstrekkingen behoren niet:
 
 3. Het eerste en het tweede lid zijn uitsluitend van toepassing op periodieke uitkeringen en verstrekkingen die worden gedaan door degene die tot de verrekening respectievelijk de vervanging verplicht is.
 
-#### Artikel 3.106. Uitbreidingen uitkeringen uit inkomensvoorzieningen
+##### Artikel 3.106. Uitbreidingen uitkeringen uit inkomensvoorzieningen
 
 1. Voorzover ter zake van een **lijfrente** of een andere aanspraak uit een inkomensvoorziening als bedoeld in [artikel 3.100, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.5&artikel=3.100&z=2026-02-21&g=2026-02-21), dan wel een aanspraak op grond van een pensioenregeling als bedoeld in [artikel 3.100, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.5&artikel=3.100&z=2026-02-21&g=2026-02-21), op enig moment negatieve uitgaven voor inkomensvoorzieningen in aanmerking worden genomen, behoort op dat tijdstip mede tot de uitkeringen als bedoeld in genoemd onderdeel b of d, de waarde in het economische verkeer van de aanspraak voorzover deze de ter zake van de aanspraak in aanmerking genomen negatieve uitgaven te boven gaat.
 
@@ -2238,13 +2266,13 @@ Tot de aangewezen periodieke uitkeringen en verstrekkingen behoren niet:
 
 3. Voor de toepassing van het tweede lid, onderdeel b, wordt als op het tijdstip van vervreemding of onherroepelijk worden van de begunstiging genoten bedrag aangemerkt, de waarde in het economische verkeer van het in dat onderdeel bedoelde recht. De vorige volzin is niet van toepassing indien de verkrijger of de begunstigde een natuurlijk persoon is en het verkregen recht geen deel uitmaakt van het vermogen van een voor zijn rekening gedreven onderneming. Met vervreemding wordt gelijkgesteld het brengen in het vermogen van een onderneming.
 
-#### Artikel 3.107. Uitgezonderde uitkeringen uit inkomensvoorzieningen
+##### Artikel 3.107. Uitgezonderde uitkeringen uit inkomensvoorzieningen
 
 1. Tot de uitkeringen uit inkomensvoorzieningen bedoeld in [artikel 3.100, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.5&artikel=3.100&z=2026-02-21&g=2026-02-21), en de uitkeringen uit pensioenregelingen als bedoeld in [artikel 3.100, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.5&artikel=3.100&z=2026-02-21&g=2026-02-21), behoren niet uitkeringen op grond van een voorziening waarvan de waarde op grond van [artikel 3.106](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.5&artikel=3.106&z=2026-02-21&g=2026-02-21) in aanmerking is genomen.
 
 2. [Artikel 2.14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=2&afdeling=2.4&artikel=2.14&z=2026-02-21&g=2026-02-21), is niet van toepassing op het recht waaruit deze uitkeringen voortvloeien.
 
-#### Artikel 3.107a. Bepaling omvang belastbare periodieke uitkeringen en verstrekkingen
+##### Artikel 3.107a. Bepaling omvang belastbare periodieke uitkeringen en verstrekkingen
 
 1. Voor het bepalen van de omvang van belastbare periodieke uitkeringen en verstrekkingen als bedoeld in [artikel 3.100, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.5&artikel=3.100&z=2026-02-21&g=2026-02-21), ingevolge een overeenkomst ter zake waarvan de belastingplichtige aannemelijk heeft gemaakt dat de betaalde premies en bedragen geheel of gedeeltelijk niet als uitgave voor inkomensvoorziening in aanmerking zijn genomen, worden op de termijn of uitkering tot het in het tweede lid aangegeven maximum in mindering gebracht de betaalde premies en bedragen waarvan aannemelijk is dat die niet als uitgave voor inkomensvoorziening in aanmerking zijn genomen en voor zover die in mindering te brengen premies en bedragen niet reeds:
 
@@ -2254,17 +2282,17 @@ Tot de aangewezen periodieke uitkeringen en verstrekkingen behoren niet:
 
 2. Van de in een kalenderjaar betaalde premies en bedragen die niet als uitgave voor inkomensvoorziening in aanmerking zijn genomen, kan ten hoogste € 2 269 op de voet van dit artikel en [artikel 3.137](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.8&artikel=3.137&z=2026-02-21&g=2026-02-21) in mindering worden gebracht, met dien verstande dat ingeval in een kalenderjaar ter zake van meerdere overeenkomsten premies en bedragen zijn betaald die niet als uitgave voor inkomensvoorziening in aanmerking zijn genomen het maximum van € 2269 geldt voor het totaal van die premies en bedragen.
 
-#### Artikel 3.108. Aftrekbare kosten van aangewezen uitkeringen en van uitkeringen uit inkomensvoorzieningen
+##### Artikel 3.108. Aftrekbare kosten van aangewezen uitkeringen en van uitkeringen uit inkomensvoorzieningen
 
 Aftrekbare kosten van uitkeringen en verstrekkingen zijn de daarop drukkende kosten voorzover zij zijn gemaakt tot verwerving, inning en behoud van die uitkeringen en verstrekkingen. De kosten kunnen in mindering worden gebracht voorzover zij in hun totale omvang niet overtreffen wat gebruikelijk is.
 
-#### Artikel 3.109. Van aftrek uitgesloten kosten
+##### Artikel 3.109. Van aftrek uitgesloten kosten
 
 Tot de aftrekbare kosten van uitkeringen en verstrekkingen behoren niet renten van schulden, kosten van geldleningen daaronder begrepen. [Artikel 3.14, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.14&z=2026-02-21&g=2026-02-21), en [artikel 3.16, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.16&z=2026-02-21&g=2026-02-21), zijn van overeenkomstige toepassing.
 
 ### Afdeling 3.5a
 
-#### Artikel 3.109a
+##### Artikel 3.109a
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2012/668.
 
@@ -2272,11 +2300,11 @@ Vervallen
 
 ### Afdeling 3.5a
 
-#### Artikel 3.110. Belastbare inkomsten uit eigen woning
+##### Artikel 3.110. Belastbare inkomsten uit eigen woning
 
 Belastbare inkomsten uit eigen woning zijn de voordelen uit eigen woning verminderd met de op die voordelen drukkende aftrekbare kosten ([artikel 3.120](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.6&artikel=3.120&z=2026-02-21&g=2026-02-21)).
 
-#### Artikel 3.111. Eigen woning
+##### Artikel 3.111. Eigen woning
 
 1. In deze afdeling en de daarop berustende bepalingen wordt verstaan onder **eigen woning**: een gebouw, een duurzaam aan een plaats gebonden schip of woonwagen als bedoeld in [artikel 1, onder l, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=1), of een gedeelte van een gebouw, een schip of een woonwagen, met de daartoe behorende aanhorigheden, voorzover dat de belastingplichtige of personen die behoren tot zijn huishouden anders dan tijdelijk als hoofdverblijf ter beschikking staat op grond van:
 
@@ -2324,7 +2352,7 @@ Belastbare inkomsten uit eigen woning zijn de voordelen uit eigen woning vermind
 
 - 3°. in een vennootschap waarin de belastingplichtige of persoon die tot zijn huishouden behoort een aanmerkelijk belang heeft als bedoeld in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&z=2026-02-21&g=2026-02-21), uitgezonderd de [artikelen 4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.3&artikel=4.10&z=2026-02-21&g=2026-02-21) en [4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.3&artikel=4.11&z=2026-02-21&g=2026-02-21), en bij de bepaling van de winst van die vennootschap ter zake van dat gebruik een bedrag ten laste van de winst kan worden gebracht.
 
-#### Artikel 3.112. Eigenwoningforfait
+##### Artikel 3.112. Eigenwoningforfait
 
 1. De voordelen uit eigen woning worden bij een eigenwoningwaarde van:
 
@@ -2347,45 +2375,45 @@ Belastbare inkomsten uit eigen woning zijn de voordelen uit eigen woning vermind
 
 6. Met betrekking tot een eigen woning als bedoeld in [artikel 3.111, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.6&artikel=3.111&z=2026-02-21&g=2026-02-21), wordt de aanvangsdatum, onderscheidenlijk de einddatum van de periode waarover de voordelen uit die eigen woning in aanmerking worden genomen gesteld op de aanvangsdatum, onderscheidenlijk de einddatum waarop het adres van de desbetreffende eigen woning als woonadres van de belastingplichtige is opgenomen in de basisregistratie personen. De eerste volzin is niet van toepassing indien registratie van de belastingplichtige op het adres van de eigen woning in de basisregistratie personen niet mogelijk is of indien artikel 3.111, negende lid, toepassing vindt.
 
-#### Artikel 3.113. Tijdelijke verhuur
+##### Artikel 3.113. Tijdelijke verhuur
 
 Met betrekking tot de **eigen woning** die tijdelijk ter beschikking is gesteld aan derden wordt het ingevolge [artikel 3.112](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.6&artikel=3.112&z=2026-02-21&g=2026-02-21) als voordelen uit **eigen woning** in aanmerking te nemen bedrag vermeerderd met 70 percent van de voordelen ter zake van het ter beschikking stellen.
 
-#### Artikel 3.114. Kamerverhuurvrijstelling
+##### Artikel 3.114. Kamerverhuurvrijstelling
 
 1. Indien de opbrengsten uit het anders dan voor korte duur ter beschikking stellen van al dan niet gestoffeerde of gemeubileerde woonruimte die geen zelfstandige woning vormt en deel uitmaakt van de woning die de belastingplichtige anders dan tijdelijk als hoofdverblijf ter beschikking staat, niet meer bedragen dan € 6.633 per jaar, wordt die woonruimte aangemerkt als onderdeel van de **eigen woning** en worden de voordelen, andere dan bedoeld in [artikel 3.112, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.6&artikel=3.112&z=2026-02-21&g=2026-02-21), niet in aanmerking genomen.
 
 2. Voor toepassing van dit artikel dient zowel de belastingplichtige als degene aan wie ter beschikking is gesteld gedurende de tijd van de terbeschikkingstelling als ingezetene op het woonadres ter zake van de woning te zijn ingeschreven in de basisregistratie personen.
 
-#### Artikel 3.115. Toedeling eigenwoningforfait
+##### Artikel 3.115. Toedeling eigenwoningforfait
 
 De voordelen uit een woning die voor twee of meer belastingplichtigen die geen **partner** van elkaar zijn samen een **eigen woning** is, worden voor elk van hen in aanmerking genomen naar de mate waarin zij op grond van [artikel 3.111, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.6&artikel=3.111&z=2026-02-21&g=2026-02-21), tot de woning gerechtigd zijn.
 
-#### Artikel 3.116. Voordeel uit kapitaalverzekering eigen woning
+##### Artikel 3.116. Voordeel uit kapitaalverzekering eigen woning
 
 Vervallen
 
-#### Artikel 3.116a. Voordeel uit spaarrekening eigen woning of beleggingsrecht eigen woning
+##### Artikel 3.116a. Voordeel uit spaarrekening eigen woning of beleggingsrecht eigen woning
 
 Vervallen
 
-#### Artikel 3.117. Begrip levensverzekering
+##### Artikel 3.117. Begrip levensverzekering
 
 Vervallen
 
-#### Artikel 3.118. Vrijstelling kapitaalverzekering eigen woning
+##### Artikel 3.118. Vrijstelling kapitaalverzekering eigen woning
 
 Vervallen
 
-#### Artikel 3.118a. Vrijstelling spaarrekening eigen woning en vrijstelling beleggingsrecht eigen woning
+##### Artikel 3.118a. Vrijstelling spaarrekening eigen woning en vrijstelling beleggingsrecht eigen woning
 
 Vervallen
 
-#### Artikel 3.119. Omzetting kapitaalverzekering eigen woning, spaarrekening eigen woning of beleggingsrecht eigen woning
+##### Artikel 3.119. Omzetting kapitaalverzekering eigen woning, spaarrekening eigen woning of beleggingsrecht eigen woning
 
 Vervallen
 
-#### Artikel 3.119a. Eigenwoningschuld
+##### Artikel 3.119a. Eigenwoningschuld
 
 1. Voor de toepassing van deze afdeling en de daarop berustende bepalingen wordt onder eigenwoningschuld verstaan het gezamenlijke bedrag van de schulden van de belastingplichtige:
 
@@ -2435,7 +2463,7 @@ Vervallen
 
 10. Indien een schuld van de belastingplichtige uitsluitend niet tot de eigenwoningschuld behoort vanwege een vermindering als bedoeld in het derde lid, aanhef en onderdeel a, en de belastingplichtige deze schuld samen met zijn partner is aangegaan wordt deze schuld mede als eigenwoningschuld aangemerkt voor zover hetgeen bij de belastingplichtige en zijn partner met inachtneming van de vermindering, bedoeld in het derde lid, aanhef en onderdeel a, en de verlaging, bedoeld in het vierde lid, tot de eigenwoningschuld zou kunnen behoren hoger is dan hetgeen bij de belastingplichtige en zijn partner vóór toepassing van dit lid tot de eigenwoningschuld behoort.
 
-#### Artikel 3.119aa. Eigenwoningreserve
+##### Artikel 3.119aa. Eigenwoningreserve
 
 1. Bij de vervreemding van een eigen woning wordt het vervreemdingssaldo eigen woning toegevoegd aan de eigenwoningreserve. Onder vervreemdingssaldo eigen woning wordt verstaan de waarde van de tegenprestatie bij de vervreemding van een eigen woning, verminderd met de kosten ter zake van die vervreemding en verminderd met de eigenwoningschuld voor de woning. Voor de toepassing van de eerste en tweede zin wordt tot de eigenwoningschuld mede gerekend het bedrag van de verlaging, bedoeld in [artikel 3.119a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.6&artikel=3.119a&z=2026-02-21&g=2026-02-21), en het bedrag dat op grond van artikel 3.119a, zesde lid, onderdeel b, niet tot de eigenwoningschuld behoort.
 
@@ -2465,7 +2493,7 @@ wordt bij die boedelmenging bij helfte toegerekend aan elk van de partners.
 
 8. Bij ministeriële regeling kunnen nadere regels worden gesteld voor de toepassing van dit artikel.
 
-#### Artikel 3.119b. Beschikking eigenwoningreserve
+##### Artikel 3.119b. Beschikking eigenwoningreserve
 
 1. De eigenwoningreserve kan naar de stand van het einde van een kalenderjaar, al dan niet op verzoek, door de inspecteur bij voor bezwaar vatbare beschikking worden vastgesteld. Indien er sprake is van een afname van de eigenwoningreserve als bedoeld in [artikel 3.119aa, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.6&artikel=3.119aa&z=2026-02-21&g=2026-02-21), wordt in de beschikking tevens melding gemaakt van het bedrag van die afname.
 
@@ -2475,7 +2503,7 @@ wordt bij die boedelmenging bij helfte toegerekend aan elk van de partners.
 
 4. [Artikel 16, tweede lid, aanhef en onderdeel c, derde en vierde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=16) is van overeenkomstige toepassing op herziening.
 
-#### Artikel 3.119c. Aflossingseis
+##### Artikel 3.119c. Aflossingseis
 
 1. Aan de aflossingseis wordt voldaan indien een tot de eigenwoningschuld behorende schuld op het toetsmoment niet meer bedraagt dan het bedrag dat per schuld volgt uit de formule:
 
@@ -2539,7 +2567,7 @@ n: de maximale looptijd van 360 maanden.
 
 11. Bij ministeriële regeling kunnen nadere regels worden gesteld voor de toepassing van dit artikel.
 
-#### Artikel 3.119d. Aflossingsstand
+##### Artikel 3.119d. Aflossingsstand
 
 1. Indien bij een vervreemding van de eigen woning de eigenwoningschuld van de belastingplichtige direct voorafgaand aan die vervreemding groter is dan de eigenwoningschuld van de belastingplichtige ter zake van een nieuw verworven eigen woning of indien na de vervreemding een eigenwoningschuld ontbreekt, blijven van dat meerdere van de eigenwoningschuld, onderscheidenlijk van de eigenwoningschuld direct voorafgaand aan die vervreemding, het bedrag en de stand van de resterende looptijd in maanden (de aflossingsstand) behouden. De aflossingsstand kan naar de stand van het einde van een kalenderjaar, al dan niet op verzoek, door de inspecteur bij voor bezwaar vatbare beschikking (de beschikking aflossingsstand) worden vastgesteld.
 
@@ -2555,7 +2583,7 @@ n: de maximale looptijd van 360 maanden.
 
 5. [Artikel 3.119b, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.6&artikel=3.119b&z=2026-02-21&g=2026-02-21), is van overeenkomstige toepassing.
 
-#### Artikel 3.119e. Kortstondig afwijken van aflossingsschema en betalingsregelingen
+##### Artikel 3.119e. Kortstondig afwijken van aflossingsschema en betalingsregelingen
 
 1. Indien een tot de eigenwoningschuld behorende schuld van de belastingplichtige in een kalenderjaar op het toetsmoment, bedoeld in [artikel 3.119c, zevende lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.6&artikel=3.119c&z=2026-02-21&g=2026-02-21), meer bedraagt dan het bedrag dat volgt uit [artikel 3.119a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.6&artikel=3.119a&z=2026-02-21&g=2026-02-21), (de aflossingsachterstand) blijft die schuld behoren tot de eigenwoningschuld, indien die schuld op 31 december van het daaropvolgende kalenderjaar niet meer bedraagt dan het bedrag dat volgt uit artikel 3.119a, eerste lid, onderdeel c, voor dat moment. De eerste volzin geldt niet indien de aflossingsachterstand vaker dan incidenteel voorkomt.
 
@@ -2581,7 +2609,7 @@ n: de nog resterende maximale looptijd van de oorspronkelijke looptijd van de sc
 
 6. Bij ministeriële regeling kunnen nadere regels worden gesteld voor de toepassing van dit artikel.
 
-#### Artikel 3.119f. Verhuisregelingen
+##### Artikel 3.119f. Verhuisregelingen
 
 1. Indien nog een andere woning van de belastingplichtige wordt aangemerkt als eigen woning door de toepassing van [artikel 3.111, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.6&artikel=3.111&z=2026-02-21&g=2026-02-21), gaat de aflossingseis, bedoeld in [artikel 3.119a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.6&artikel=3.119a&z=2026-02-21&g=2026-02-21), met toepassing van de stand en looptijd van de aflossing ter zake van de tot de eigenwoningschuld behorende schuld op dat moment over van de te vervreemden eigen woning naar de schuld ter zake van die andere eigen woning, voor zover de schuld ten behoeve van die andere eigen woning de schuld ten behoeve van de te vervreemden eigen woning niet overtreft.
 
@@ -2591,11 +2619,11 @@ n: de nog resterende maximale looptijd van de oorspronkelijke looptijd van de sc
 
 4. Indien ten aanzien van de belastingplichtige twee woningen gelijktijdig als eigen woning worden aangemerkt en vervolgens één van die woningen wordt vervreemd, wordt direct daarna de eigenwoningschuld voor de andere woning opnieuw vastgesteld door toepassing van [artikel 3.119a, tweede lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.6&artikel=3.119a&z=2026-02-21&g=2026-02-21) voor zover de in dat onderdeel c bedoelde kosten betrekking hebben op de verwerving, en derde lid, waarbij de actuele stand van de eigenwoningreserve in de plaats komt van de stand direct voorafgaande aan het moment waarop de woning ten aanzien van de belastingplichtige als een eigen woning is aangemerkt. Vervolgens wordt [artikel 3.119aa, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.6&artikel=3.119aa&z=2026-02-21&g=2026-02-21), opnieuw toegepast. Daarna wordt artikel 3.119a, vierde lid, opnieuw toegepast bij de partner en wordt bij de belastingplichtige vervolgens artikel 3.119aa, tweede lid, onderdeel b, opnieuw toegepast. Daarna wordt artikel 3.119a, tweede lid, onderdelen b en c voor zover de in dat onderdeel c bedoelde kosten betrekking hebben op de verbetering, het onderhoud of de afkoop van de rechten van erfpacht, opstal of beklemming van de woning, en derde lid, opnieuw toegepast, waarbij de actuele stand van de eigenwoningreserve in de plaats komt van de stand direct voorafgaande aan de verbetering, het onderhoud of de afkoop. Ten slotte wordt artikel 3.119aa, tweede lid, onderdeel c, opnieuw toegepast.
 
-#### Artikel 3.119g. Informatieplicht bij schulden bij anderen dan aangewezen administratieplichtigen
+##### Artikel 3.119g. Informatieplicht bij schulden bij anderen dan aangewezen administratieplichtigen
 
 De belastingplichtige die een overeenkomst van geldlening aangaat anders dan met een op grond van [artikel 10.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=10&afdeling=10.2&artikel=10.8&z=2026-02-21&g=2026-02-21) aangewezen administratieplichtige en die de uit deze overeenkomst voortvloeiende schuld wil rekenen tot de eigenwoningschuld, bedoeld in [artikel 3.119a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.6&artikel=3.119a&z=2026-02-21&g=2026-02-21), is gehouden jaarlijks in de aangifte de bij ministeriële regeling aan te wijzen gegevens te verstrekken.
 
-#### Artikel 3.120. Aftrekbare kosten eigen woning
+##### Artikel 3.120. Aftrekbare kosten eigen woning
 
 1. De aftrekbare kosten met betrekking tot een eigen woning zijn het gezamenlijke bedrag van:
 
@@ -2617,7 +2645,7 @@ De belastingplichtige die een overeenkomst van geldlening aangaat anders dan met
 
 5. Afsluitprovisies die zijn voldaan ter zake van schulden die behoren tot de eigenwoningschuld worden niet gerekend tot de bij wijze van vooruitbetaling voldane renten van schulden en kosten van geldleningen, mits de woning in het kalenderjaar of in de daaropvolgende twee jaren de belastingplichtige als hoofdverblijf ter beschikking staat, een en ander voor zover zij niet meer belopen dan 1,5% van het bedrag van de aangegane schulden en tevens gezamenlijk een bedrag van € 3630 niet te boven gaan.
 
-#### Artikel 3.120a. Aftrekbare kosten restschuld vervreemde eigen woning
+##### Artikel 3.120a. Aftrekbare kosten restschuld vervreemde eigen woning
 
 1. Als aftrekbare kosten met betrekking tot een eigen woning als bedoeld in [artikel 3.120](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.6&artikel=3.120&z=2026-02-21&g=2026-02-21) worden voor een periode van vijftien jaar na het tijdstip van vervreemding van een eigen woning mede aangemerkt de renten en kosten van geldleningen voor een restschuld van die vervreemde eigen woning.
 
@@ -2631,21 +2659,21 @@ De belastingplichtige die een overeenkomst van geldlening aangaat anders dan met
 
 6. [Artikel 3.120, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.6&artikel=3.120&z=2026-02-21&g=2026-02-21), is van overeenkomstige toepassing.
 
-#### Artikel 3.121. Aftrekbare kosten gedeelde eigen woning bij gezamenlijke bewoning
+##### Artikel 3.121. Aftrekbare kosten gedeelde eigen woning bij gezamenlijke bewoning
 
 De aftrekbare kosten met betrekking tot een woning die voor twee of meer belastingplichtigen die geen partner van elkaar zijn samen een eigen woning is, worden voor elk van hen bepaald door hun aandeel in de schulden die zij zijn aangegaan ter verwerving van de woning en door de periodieke betalingen voor zover die op hen drukken.
 
-#### Artikel 3.122. Aftrekbare kosten na eerder gebruik vrijstelling kapitaalverzekering, spaarrekening of beleggingsrecht eigen woning
+##### Artikel 3.122. Aftrekbare kosten na eerder gebruik vrijstelling kapitaalverzekering, spaarrekening of beleggingsrecht eigen woning
 
 Vervallen
 
-#### Artikel 3.123. Kosten voor verbetering of onderhoud eigen woning
+##### Artikel 3.123. Kosten voor verbetering of onderhoud eigen woning
 
 In deze afdeling en de daarop berustende bepalingen worden kosten voor verbetering of onderhoud van de woning in aanmerking genomen voorzover de verbetering en het onderhoud met schriftelijke bescheiden zijn te staven.
 
 ### Afdeling 3.6a. Aftrek wegens geen of geringe eigenwoningschuld
 
-#### Artikel 3.123a. Aftrek wegens geen of geringe eigenwoningschuld
+##### Artikel 3.123a. Aftrek wegens geen of geringe eigenwoningschuld
 
 1. Indien de voordelen uit eigen woning, bedoeld in [artikel 3.112](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.6&artikel=3.112&z=2026-02-21&g=2026-02-21), meer bedragen dan de op deze voordelen drukkende aftrekbare kosten, komt de belastingplichtige in aanmerking voor de aftrek wegens geen of geringe eigenwoningschuld.
 
@@ -2657,7 +2685,7 @@ In deze afdeling en de daarop berustende bepalingen worden kosten voor verbeteri
 
 ### Afdeling 3.6a. Aftrek wegens geen of geringe eigenwoningschuld
 
-#### Artikel 3.124. Uitgaven voor inkomensvoorzieningen
+##### Artikel 3.124. Uitgaven voor inkomensvoorzieningen
 
 1. Uitgaven voor inkomensvoorzieningen zijn de op de belastingplichtige drukkende:
 
@@ -2671,7 +2699,7 @@ In deze afdeling en de daarop berustende bepalingen worden kosten voor verbeteri
 
 2. Waar in deze wet en de daarop berustende bepalingen wordt verwezen naar een lijfrente als bedoeld in [artikel 3.124](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.7&artikel=3.124&z=2026-02-21&g=2026-02-21) wordt daaronder tevens verstaan een tegoed van een lijfrenterekening als bedoeld in [artikel 3.126a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.7&artikel=3.126a&z=2026-02-21&g=2026-02-21) of de waarde van een lijfrentebeleggingsrecht als bedoeld in [artikel 3.126a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.7&artikel=3.126a&z=2026-02-21&g=2026-02-21).
 
-#### Artikel 3.125. Lijfrentevoorzieningen
+##### Artikel 3.125. Lijfrentevoorzieningen
 
 1. Als lijfrenten als bedoeld in [artikel 1.7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=1&artikel=1.7&z=2026-02-21&g=2026-02-21), die dienen ter compensatie van een pensioentekort worden aangemerkt:
 
@@ -2685,7 +2713,7 @@ In deze afdeling en de daarop berustende bepalingen worden kosten voor verbeteri
 
 3. In afwijking van [artikel 1.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=1&artikel=1.7&z=2026-02-21&g=2026-02-21), is voor rechten als bedoeld in het eerste lid, onderdeel b, waarvan de termijnen eindigen uiterlijk op het tijdstip waarop de gerechtigde de leeftijd van 30 jaar bereikt de grootte van de kans op overlijden van de gerechtigde niet van belang.
 
-#### Artikel 3.126. Toegelaten aanbieders
+##### Artikel 3.126. Toegelaten aanbieders
 
 1. Premies voor lijfrenten als bedoeld in [artikel 1.7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=1&artikel=1.7&z=2026-02-21&g=2026-02-21), worden alleen in aanmerking genomen indien zij zijn verschuldigd aan:
 
@@ -2709,7 +2737,7 @@ In deze afdeling en de daarop berustende bepalingen worden kosten voor verbeteri
 
 3. Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot de in het eerste lid, onderdeel d, bedoelde aanwijzing.
 
-#### Artikel 3.126a. Uitgaven voor inkomensvoorzieningen via een lijfrenterekening of een lijfrentebeleggingsrecht
+##### Artikel 3.126a. Uitgaven voor inkomensvoorzieningen via een lijfrenterekening of een lijfrentebeleggingsrecht
 
 1. Met premies voor lijfrenten als bedoeld in [artikel 1.7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=1&artikel=1.7&z=2026-02-21&g=2026-02-21), die dienen ter compensatie van een pensioentekort als bedoeld in [artikel 3.124, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.7&artikel=3.124&z=2026-02-21&g=2026-02-21), worden gelijkgesteld de bedragen die door de belastingplichtige zijn overgemaakt naar een door hem bij een bank of beleggingsonderneming als omschreven in het tweede lid aangehouden geblokkeerde rekening waarop gelden worden aangehouden of die wordt aangehouden ter uitvoering van transacties in financiële instrumenten als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) (lijfrenterekening) of die door hem zijn overgemaakt naar een beheerder van een beleggingsinstelling of instelling voor collectieve belegging in effecten als omschreven in dat lid, ter verkrijging van een of meer geblokkeerde rechten van deelneming in die instelling (lijfrentebeleggingsrecht), waarbij:
 
@@ -2771,7 +2799,7 @@ Met betrekking tot deze overgemaakte bedragen is [artikel 3.126](https://wetten.
 
 10. Bij ministeriële regeling kunnen nadere regels worden gesteld voor de toepassing van dit artikel.
 
-#### Artikel 3.127. In aanmerking te nemen premies voor lijfrenten
+##### Artikel 3.127. In aanmerking te nemen premies voor lijfrenten
 
 1. Indien de belastingplichtige bij de aanvang van het kalenderjaar nog niet de leeftijd heeft bereikt die vijf jaar hoger is dan de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), kan hij, vanwege een pensioentekort in het voorafgaande kalenderjaar, premies voor lijfrenten als bedoeld in [artikel 3.124, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.7&artikel=3.124&z=2026-02-21&g=2026-02-21), in aanmerking nemen tot een gezamenlijk bedrag van ten hoogste 30% van de premiegrondslag, waarbij op de uitkomst van deze berekening nog in aftrek komt de volgens het vierde lid bepaalde vermindering in verband met de opbouw van pensioenaanspraken.
 
@@ -2795,11 +2823,11 @@ van de belastingplichtige waarvan ten hoogste € 137.800 in aanmerking wordt ge
 
 6. Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot de bepaling van de in het vierde lid, bedoelde waardeaangroei van pensioenaanspraken en de verstrekking van informatie daaromtrent.
 
-#### Artikel 3.128. Omzetting oudedagsreserve in lijfrente
+##### Artikel 3.128. Omzetting oudedagsreserve in lijfrente
 
 Vervallen
 
-#### Artikel 3.129. Omzetting stakingswinst in lijfrente
+##### Artikel 3.129. Omzetting stakingswinst in lijfrente
 
 1. Een **ondernemer** die in het kalenderjaar een onderneming – of een gedeelte daarvan – waaruit hij als ondernemer winst geniet staakt kan, vanwege de omzetting van de stakingswinst in een **lijfrente**, premies voor lijfrenten als bedoeld in [artikel 3.124, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.7&artikel=3.124&z=2026-02-21&g=2026-02-21), in aanmerking nemen tot een gezamenlijk bedrag van ten hoogste het bedrag van de winst behaald met of bij die staking, maar tot niet meer dan het in het tweede lid aangegeven maximum verminderd met het in het derde lid bedoelde bedrag aan reeds opgebouwde voorzieningen.
 
@@ -2833,7 +2861,7 @@ Vervallen
 
 5. Voor de toepassing van het tweede lid, onderdeel a, onder 2°, wordt de ondernemer beschouwd voor 45% of meer arbeidsongeschikt te zijn indien hij aannemelijk maakt dat hij door ziekte of gebreken niet in staat is om ten minste 55% te verdienen van wat lichamelijk en geestelijk gezonde belastingplichtigen die overigens in gelijke omstandigheden verkeren, kunnen verdienen, en daartoe ook hetzij in het afgelopen jaar niet in staat is geweest hetzij vermoedelijk in het eerstkomende jaar niet in staat zal zijn.
 
-#### Artikel 3.130. Tijdstip aftrek premies voor lijfrenten
+##### Artikel 3.130. Tijdstip aftrek premies voor lijfrenten
 
 1. Premies voor **lijfrenten** komen voor aftrek in aanmerking op het tijdstip waarop deze zijn betaald of verrekend, voorzover de verrekening niet leidt tot een schuldig gebleven bedrag.
 
@@ -2841,7 +2869,7 @@ Vervallen
 
 3. Bij wijziging van binnenlandse belastingplicht in buitenlandse belastingplicht in het kalenderjaar kan de belastingplichtige premies voor lijfrenten naar bij de aangifte gemaakte keuze aanmerken als premies die zijn betaald of verrekend in de periode van binnenlandse belastingplicht in het kalenderjaar, indien de premies zijn betaald of verrekend in de periode van de buitenlandse belastingplicht in het kalenderjaar of, indien het betreft premies voor lijfrenten als bedoeld in het tweede lid, binnen zes maanden na afloop van het kalenderjaar.
 
-#### Artikel 3.131. Aftrek premies voor lijfrenten na overlijden ondernemer
+##### Artikel 3.131. Aftrek premies voor lijfrenten na overlijden ondernemer
 
 1. Een belastingplichtige kan als uitgaven voor inkomensvoorzieningen in aanmerking komende premies voor onmiddellijk ingaande **lijfrenten** op zijn verzoek, in afwijking in zoverre van de [artikel 3.124, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.7&artikel=3.124&z=2026-02-21&g=2026-02-21), [artikel 3.125, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.7&artikel=3.125&z=2026-02-21&g=2026-02-21), en [artikel 3.126a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.7&artikel=3.126a&z=2026-02-21&g=2026-02-21), niet bij hem zelf in aanmerking nemen, maar, als uitgaven voor inkomensvoorzieningen, bij degene door het overlijden van wie een onderneming is gestaakt, waarbij deze wordt geacht de verzekeringnemer te zijn.
 
@@ -2855,13 +2883,13 @@ Hierbij geldt als voorwaarde dat de premies zijn betaald of verrekend binnen zes
 
 5. Het verzoek wordt gedaan bij de aangifte van de overledene.
 
-#### Artikel 3.131a
+##### Artikel 3.131a
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2012/668.
 
 Vervallen
 
-#### Artikel 3.131b
+##### Artikel 3.131b
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2012/668.
 
@@ -2869,11 +2897,11 @@ Vervallen
 
 ### Afdeling 3.8. Negatieve uitgaven voor inkomensvoorzieningen
 
-#### Artikel 3.132. Negatieve uitgaven voor inkomensvoorzieningen
+##### Artikel 3.132. Negatieve uitgaven voor inkomensvoorzieningen
 
 Negatieve uitgaven voor inkomensvoorzieningen zijn teruggaven van uitgaven voor inkomensvoorzieningen.
 
-#### Artikel 3.133. Uitbreiding begrip negatieve uitgaven bij handelen in strijd met de voorwaarden
+##### Artikel 3.133. Uitbreiding begrip negatieve uitgaven bij handelen in strijd met de voorwaarden
 
 1. Voorzover zich met betrekking tot een aanspraak op **lijfrente** of periodieke uitkeringen als bedoeld in [artikel 3.124, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.7&artikel=3.124&z=2026-02-21&g=2026-02-21), [artikel 3.125](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.7&artikel=3.125&z=2026-02-21&g=2026-02-21) of [artikel 3.126a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.7&artikel=3.126a&z=2026-02-21&g=2026-02-21) een in het tweede lid genoemde omstandigheid voordoet, worden de premies en bedragen die zijn betaald voor die aanspraak en het daarover behaalde rendement ([artikel 3.137](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.8&artikel=3.137&z=2026-02-21&g=2026-02-21)) bij de verzekeringnemer dan wel, indien deze is overleden, bij de gerechtigde tot de aanspraak als negatieve uitgaven voor inkomensvoorzieningen in aanmerking genomen.
 
@@ -2925,7 +2953,7 @@ Hetgeen wordt ontvangen ter zake van een afkoop als bedoeld in de eerste volzin,
 
 13. Dit artikel is van overeenkomstige toepassing op een niet of niet langer kwalificerende lijfrente als bedoeld in [artikel 3.100, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.5&artikel=3.100&z=2026-02-21&g=2026-02-21), die is ondergebracht bij een verzekeraar als bedoeld in [artikel 3.126, eerste lid, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.7&artikel=3.126&z=2026-02-21&g=2026-02-21), en waarvan de termijnen niet of niet langer overeenkomstig het derde lid en [artikel 3.125](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.7&artikel=3.125&z=2026-02-21&g=2026-02-21) worden uitgekeerd.
 
-#### Artikel 3.134. Handelingen die niet leiden tot een negatieve uitgave
+##### Artikel 3.134. Handelingen die niet leiden tot een negatieve uitgave
 
 1. Voorzover een **lijfrente** als bedoeld in de [artikelen 3.124](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.7&artikel=3.124&z=2026-02-21&g=2026-02-21) en [3.125](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.7&artikel=3.124&z=2026-02-21&g=2026-02-21) wordt omgezet in een ander zodanig recht, wordt het tweede recht beschouwd als een voortzetting van het eerste.
 
@@ -2945,7 +2973,7 @@ Hetgeen wordt ontvangen ter zake van een afkoop als bedoeld in de eerste volzin,
 
 6. Onze Minister kan onder door hem te stellen voorwaarden bepalen dat [artikel 3.133, tweede lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.8&artikel=3.133&z=2026-02-21&g=2026-02-21), niet van toepassing is indien de lijfrenteverplichting overgaat in verband met de overdracht van de onderneming van een verzekeraar als bedoeld in [artikel 3.126, eerste lid, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.7&artikel=3.126&z=2026-02-21&g=2026-02-21), of [artikel 3.131, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.7&artikel=3.131&z=2026-02-21&g=2026-02-21).
 
-#### Artikel 3.135. Specifieke uitbreiding begrip negatieve uitgaven bij beroepspensioenen
+##### Artikel 3.135. Specifieke uitbreiding begrip negatieve uitgaven bij beroepspensioenen
 
 1. Als negatieve uitgaven voor inkomensvoorzieningen van de verzekeringnemer dan wel, indien deze is overleden, de gerechtigde worden mede in aanmerking genomen de premies voor aanspraken uit een pensioenregeling als bedoeld in [artikel 1.7, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=1&artikel=1.7&z=2026-02-21&g=2026-02-21), en het daarover behaalde rendement ([artikel 3.137](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.8&artikel=3.137&z=2026-02-21&g=2026-02-21)) voorzover:
 
@@ -2973,7 +3001,7 @@ Hetgeen wordt ontvangen ter zake van een afkoop als bedoeld in de eerste volzin,
 
 7. Het eerste lid is niet van toepassing bij een vervreemding als bedoeld in [artikel 57, vijfde lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=57) of [artikel 68, vijfde lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=68) of bij een vermindering als bedoeld in [artikel 134, eerste lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=134) of [artikel 129, eerste lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=129).
 
-#### Artikel 3.136. Uitbreiding begrip negatieve uitgaven bij emigratie
+##### Artikel 3.136. Uitbreiding begrip negatieve uitgaven bij emigratie
 
 1. Bij de belastingplichtige die anders dan door overlijden ophoudt binnenlands belastingplichtige te zijn, worden indien hij verzekeringnemer, dan wel indien deze is overleden, gerechtigde is, de premies voor aanspraken als bedoeld in [artikel 3.124, eerste lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.7&artikel=3.124&z=2026-02-21&g=2026-02-21), die als uitgaven voor inkomensvoorzieningen in aftrek zijn gebracht en de premies voor aanspraken als bedoeld in [artikel 1.7, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=1&artikel=1.7&z=2026-02-21&g=2026-02-21), alsmede het over die premies behaalde rendement als negatieve uitgaven voor inkomensvoorzieningen in aanmerking genomen. Bij de toepassing van de eerste volzin blijven premies voor aanspraken als bedoeld in [artikel 3.124, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.7&artikel=3.124&z=2026-02-21&g=2026-02-21), waarvan de uitkeringen zijn ingegaan buiten beschouwing. Onder ophouden binnenlands belastingplichtig te zijn wordt mede verstaan de situatie waarin de belastingplichtige voor de toepassing van de [Belastingregeling voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002464), de Belastingregeling voor het land Nederland of een verdrag ter voorkoming van dubbele belasting wordt geacht geen inwoner van Nederland meer te zijn.
 
@@ -2991,7 +3019,7 @@ Hetgeen wordt ontvangen ter zake van een afkoop als bedoeld in de eerste volzin,
 
 8. Bij ministeriële regeling kunnen regels worden gesteld op grond waarvan om doelmatigheidsredenen toepassing van het eerste tot en met vijfde lid achterwege kan blijven.
 
-#### Artikel 3.137. In aanmerking te nemen bedrag bij uitbreidingen van het begrip negatieve uitgaven
+##### Artikel 3.137. In aanmerking te nemen bedrag bij uitbreidingen van het begrip negatieve uitgaven
 
 1. Voor de toepassing van de [artikelen 3.133](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.8&artikel=3.133&z=2026-02-21&g=2026-02-21), [3.135](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.8&artikel=3.135&z=2026-02-21&g=2026-02-21) en [3.136, eerste, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.8&artikel=3.136&z=2026-02-21&g=2026-02-21) wordt het bedrag aan in aanmerking te nemen premies en bedragen en het daarover behaalde rendement ter zake van een aanspraak of een gedeelte van een aanspraak gesteld op de waarde in het economische verkeer van die aanspraak of dat gedeelte op het tijdstip dat onmiddellijk voorafgaat aan dat waarop zich de in die artikelen bedoelde omstandigheid voordoet. Daarbij wordt de waarde in het economische verkeer van een aanspraak waarvan nog geen uitkeringen zijn vervallen, tenminste gesteld op de premies en bedragen die voor de aanspraak of een gedeelte van de aanspraak zijn betaald doch niet als negatieve uitgaven voor inkomensvoorzieningen in aanmerking zijn genomen. De tweede volzin is niet van toepassing bij afkoop van aanspraken als bedoeld in artikel 3.133, eerste lid.
 
@@ -3003,7 +3031,7 @@ Hetgeen wordt ontvangen ter zake van een afkoop als bedoeld in de eerste volzin,
 
 3. Voor de toepassing van het eerste lid en de [artikelen 3.133](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.8&artikel=3.133&z=2026-02-21&g=2026-02-21), [3.135](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.8&artikel=3.135&z=2026-02-21&g=2026-02-21) en [3.136, eerste, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.8&artikel=3.136&z=2026-02-21&g=2026-02-21) blijft buiten beschouwing het behaalde rendement over een periode waarin de belastingplichtige geen binnenlands belastingplichtige is geweest.
 
-#### Artikel 3.138. Verminderingen en voorkoming dubbeltellingen
+##### Artikel 3.138. Verminderingen en voorkoming dubbeltellingen
 
 1. Voorzover bij een binnenlandse belastingplichtige de negatieve uitgaven voor inkomensvoorzieningen die op grond van [artikel 3.133, tweede lid, onderdelen h of j](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.8&artikel=3.133&z=2026-02-21&g=2026-02-21), of [artikel 3.136](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.8&artikel=3.136&z=2026-02-21&g=2026-02-21) in aanmerking worden genomen, eveneens zijn begrepen in het belastbare inkomen uit werk en woning van een vorig kalenderjaar, wordt, onder bij ministeriële regeling te stellen voorwaarden, het belastbare inkomen uit werk en woning van dat vorig kalenderjaar met de daarin begrepen negatieve uitgaven verlaagd. De verlaging vindt plaats door vermindering van de conserverende aanslag over dat jaar bij voor bezwaar vatbare beschikking van de inspecteur. Rechtsmiddelen tegen deze beschikking kunnen uitsluitend betrekking hebben op de grootte van de vermindering.
 
@@ -3015,7 +3043,7 @@ Hetgeen wordt ontvangen ter zake van een afkoop als bedoeld in de eerste volzin,
 
 ### Afdeling 3.9. Negatieve persoonsgebonden aftrek
 
-#### Artikel 3.139. Negatieve persoonsgebonden aftrek
+##### Artikel 3.139. Negatieve persoonsgebonden aftrek
 
 Als negatieve persoonsgebonden aftrek van een belastingplichtige wordt in aanmerking genomen:
 
@@ -3027,35 +3055,35 @@ Als negatieve persoonsgebonden aftrek van een belastingplichtige wordt in aanmer
 
 ### Afdeling 3.9. Negatieve persoonsgebonden aftrek
 
-#### Artikel 3.140. Uitgaven voor kinderopvang
+##### Artikel 3.140. Uitgaven voor kinderopvang
 
 Vervallen
 
-#### Artikel 3.141. Voorwaarden
+##### Artikel 3.141. Voorwaarden
 
 Vervallen
 
-#### Artikel 3.142. Arbeidsongeschiktheid of werkloosheid
+##### Artikel 3.142. Arbeidsongeschiktheid of werkloosheid
 
 Vervallen
 
-#### Artikel 3.143. In aanmerking te nemen uitgaven
+##### Artikel 3.143. In aanmerking te nemen uitgaven
 
 Vervallen
 
 ### Afdeling 3.10. Uitgaven voor kinderopvang
 
-#### Artikel 3.144. Waardering niet in geld genoten inkomen
+##### Artikel 3.144. Waardering niet in geld genoten inkomen
 
 Niet in geld genoten **loon**, periodieke uitkeringen en verstrekkingen, voordelen uit **eigen woning** en voordelen uit kapitaalverzekering eigen woning worden – voorzover niet anders is bepaald – in aanmerking genomen naar de waarde die daaraan in het economische verkeer kan worden toegekend, met dien verstande dat voorzover de verwerving van dat inkomen het gebruik of verbruik daarvan meebrengt, de waarde wordt gesteld op ten hoogste het bedrag van de besparing. Deze kan bij ministeriële regeling worden vastgesteld.
 
-#### Artikel 3.145. Privé-gebruik auto
+##### Artikel 3.145. Privé-gebruik auto
 
 Vervallen
 
 ### Afdeling 3.12. Tijdstip genieten en aftrek
 
-#### Artikel 3.146. Tijdstip genieten
+##### Artikel 3.146. Tijdstip genieten
 
 1. Loon, aangewezen periodieke uitkeringen en verstrekkingen, termijnen van **lijfrenten** en andere periodieke uitkeringen en verstrekkingen uit een inkomensvoorziening, uitkeringen op grond van een buitenlandse voorziening die naar aard en strekking overeenkomt met een inkomensvoorziening, voordelen uit eigen woning, voordelen uit kapitaalverzekeringen eigen woning, voordelen uit spaarrekening eigen woning, voordelen uit beleggingsrecht eigen woning en negatieve uitgaven voor inkomensvoorzieningen worden – voorzover niet anders is bepaald – geacht te zijn genoten op het tijdstip waarop zij zijn:
 
@@ -3079,7 +3107,7 @@ Vervallen
 
 6. De in [artikel 3.136, vijfde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.8&artikel=3.136&z=2026-02-21&g=2026-02-21), bedoelde negatieve uitgaven voor inkomensvoorzieningen en de ingevolge [artikel 3.136, vijfde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.8&artikel=3.136&z=2026-02-21&g=2026-02-21), als loon aan te merken aanspraken uit een pensioenregeling worden geacht te zijn genoten op het tijdstip dat onmiddellijk volgt op dat waarop zich de omstandigheid voordoet, bedoeld in die volzin.
 
-#### Artikel 3.147. Tijdstip aftrek
+##### Artikel 3.147. Tijdstip aftrek
 
 Aftrekbare kosten en uitgaven voor inkomensvoorzieningen komen – voorzover niet anders is bepaald – voor aftrek in aanmerking op het tijdstip waarop zij zijn:
 
@@ -3093,17 +3121,17 @@ Aftrekbare kosten en uitgaven voor inkomensvoorzieningen komen – voorzover nie
 
 ### Afdeling 3.13. Verliesverrekening
 
-#### Artikel 3.148. Verlies
+##### Artikel 3.148. Verlies
 
 1. Indien de berekening van het inkomen uit werk en woning leidt tot een negatief bedrag wordt dit aangemerkt als verlies uit werk en woning.
 
 2. Indien de berekening van de belastbare winst uit onderneming leidt tot een negatief bedrag, wordt dit tot ten hoogste het verlies uit werk en woning aangemerkt als ondernemingsverlies.
 
-#### Artikel 3.149. Te conserveren inkomen buiten beschouwing
+##### Artikel 3.149. Te conserveren inkomen buiten beschouwing
 
 Voor de toepassing van deze afdeling worden inkomen uit werk en woning en verlies uit werk en woning bepaald zonder rekening te houden met te conserveren inkomen.
 
-#### Artikel 3.150. Verliesverrekening
+##### Artikel 3.150. Verliesverrekening
 
 1. Het verlies uit werk en woning wordt verrekend met de inkomens uit werk en woning van de drie voorafgaande en de negen volgende kalenderjaren.
 
@@ -3119,7 +3147,7 @@ Voor de toepassing van deze afdeling worden inkomen uit werk en woning en verlie
 
 7. Het ondernemingsverlies dat met toepassing van [artikel 14c, derde lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14c) geacht wordt te zijn geleden door de aandeelhouder die de onderneming voortzet, wordt uitsluitend verrekend met de winst uit de voortgezette onderneming.
 
-#### Artikel 3.151. Vaststelling verlies
+##### Artikel 3.151. Vaststelling verlies
 
 1. De inspecteur stelt het bedrag van een verlies uit werk en woning vast bij voor bezwaar vatbare beschikking.
 
@@ -3133,7 +3161,7 @@ Voor de toepassing van deze afdeling worden inkomen uit werk en woning en verlie
 
 6. [Artikel 16, tweede lid, aanhef en onderdelen b en c, derde en vierde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) is van overeenkomstige toepassing op herziening.
 
-#### Artikel 3.152. Formalisering achterwaartse verliesverrekening
+##### Artikel 3.152. Formalisering achterwaartse verliesverrekening
 
 1. Verrekening van verlies uit werk en woning met het inkomen uit werk en woning van een voorafgaand kalenderjaar vindt plaats door vermindering van de aanslag bij voor bezwaar vatbare beschikking van de inspecteur. In de beschikking wordt tevens vastgesteld welk bedrag aan ondernemingsverlies wordt verrekend.
 
@@ -3147,7 +3175,7 @@ Voor de toepassing van deze afdeling worden inkomen uit werk en woning en verlie
 
 6. Voorlopige verliesverrekeningen worden verrekend bij de in het eerste lid bedoelde beschikking of, indien een dergelijke beschikking niet wordt vastgesteld, met de aanslag over het jaar waarover het verlies dat tot een voorlopige verliesverrekening heeft geleid, is aangegeven.
 
-#### Artikel 3.153. Formalisering voorwaartse verliesverrekening
+##### Artikel 3.153. Formalisering voorwaartse verliesverrekening
 
 1. Verrekening van een verlies uit werk en woning met het inkomen uit werk en woning van een volgend kalenderjaar vindt plaats bij voor bezwaar vatbare beschikking van de inspecteur. In de beschikking wordt tevens vastgesteld welk bedrag aan ondernemingsverlies wordt verrekend.
 
@@ -3159,21 +3187,21 @@ Voor de toepassing van deze afdeling worden inkomen uit werk en woning en verlie
 
 ### Afdeling 3.14. Middeling
 
-#### Artikel 3.154. Middeling
+##### Artikel 3.154. Middeling
 
 Vervallen
 
-#### Artikel 3.155. Te conserveren inkomen buiten beschouwing
+##### Artikel 3.155. Te conserveren inkomen buiten beschouwing
 
 Vervallen
 
 ### Afdeling 3.15. Zekerheid omtrent de aard van de voordelen uit een arbeidsrelatie
 
-#### Artikel 3.156. Vragen van een beschikking
+##### Artikel 3.156. Vragen van een beschikking
 
 Vervallen
 
-#### Artikel 3.157. Zekerheid omtrent de aard van de arbeidsrelatie
+##### Artikel 3.157. Zekerheid omtrent de aard van de arbeidsrelatie
 
 Vervallen
 
@@ -3181,17 +3209,17 @@ Vervallen
 
 ### Afdeling 4.1. Belastbaar inkomen uit aanmerkelijk belang
 
-#### Artikel 4.1. Belastbaar inkomen uit aanmerkelijk belang
+##### Artikel 4.1. Belastbaar inkomen uit aanmerkelijk belang
 
 Belastbaar inkomen uit aanmerkelijk belang is het inkomen uit aanmerkelijk belang verminderd met de te verrekenen verliezen uit aanmerkelijk belang ([afdeling 4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.10&z=2026-02-21&g=2026-02-21)).
 
 ### Afdeling 4.1. Belastbaar inkomen uit aanmerkelijk belang
 
-#### Artikel 4.2. Beëindiging aanverwantschap door echtscheiding
+##### Artikel 4.2. Beëindiging aanverwantschap door echtscheiding
 
 Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen geldt een persoon niet als aanverwant indien het partnerschap waardoor de aanverwantschap is ontstaan, anders dan door overlijden is geëindigd.
 
-#### Artikel 4.3. Genotsrechten
+##### Artikel 4.3. Genotsrechten
 
 Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen:
 
@@ -3199,17 +3227,17 @@ Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen:
 
 - b. wordt met de houder van winstbewijzen gelijkgesteld degene die slechts gerechtigd is tot voordelen uit winstbewijzen en wordt zijn gerechtigdheid aangemerkt als winstbewijs.
 
-#### Artikel 4.4. Koopopties gelijkgesteld met onderliggende waarde
+##### Artikel 4.4. Koopopties gelijkgesteld met onderliggende waarde
 
 Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen, met uitzondering van de [artikelen 4.6 tot en met 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.3&artikel=4.6&z=2026-02-21&g=2026-02-21), wordt een recht om aandelen in of winstbewijzen van een vennootschap te verwerven (koopoptie) aangemerkt als een dergelijk aandeel respectievelijk een dergelijk winstbewijs.
 
-#### Artikel 4.5. Participaties open fondsen voor gemene rekening
+##### Artikel 4.5. Participaties open fondsen voor gemene rekening
 
 1. Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen worden bewijzen van deelgerechtigdheid in fondsen voor gemene rekening gelijkgesteld met aandelen in vennootschappen met een in aandelen verdeeld kapitaal en worden de fondsen gelijkgesteld met vennootschappen.
 
 2. Voor de beoordeling van de vraag of een belastingplichtige een aanmerkelijk belang heeft in een fonds voor gemene rekening wordt zijn bezit aan bewijzen van deelgerechtigdheid in het fonds uitgedrukt als een percentage van de in omloop zijnde bewijzen van deelgerechtigdheid, waarbij andere dan enkelvoudige bewijzen van deelgerechtigdheid worden herleid tot een daarmee overeenstemmend aantal enkelvoudige bewijzen.
 
-#### Artikel 4.5a. Coöperaties
+##### Artikel 4.5a. Coöperaties
 
 1. Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen wordt:
 
@@ -3221,7 +3249,7 @@ Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen, met uit
 
 ### Afdeling 4.3. Aanmerkelijk belang
 
-#### Artikel 4.6. Begrip aanmerkelijk belang
+##### Artikel 4.6. Begrip aanmerkelijk belang
 
 De belastingplichtige heeft een aanmerkelijk belang indien hij, al dan niet tezamen met zijn **partner**, direct of indirect:
 
@@ -3237,7 +3265,7 @@ De belastingplichtige heeft een aanmerkelijk belang indien hij, al dan niet teza
 
 - f. een aandeel heeft in een lichaam als bedoeld in de [artikelen 2, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=2), of [3, tweede lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=3) en daardoor voor ten minste 5% deelt in de winst van dat lichaam, recht heeft op ten minste 5% van wat bij liquidatie wordt uitgekeerd of ten minste 5% van de stemrechten vertegenwoordigt.
 
-#### Artikel 4.7. Gelijkstelling; aandelen met bijzondere rechten
+##### Artikel 4.7. Gelijkstelling; aandelen met bijzondere rechten
 
 1. Indien een vennootschap verschillende soorten aandelen heeft, heeft de belastingplichtige ook een aanmerkelijk belang indien hij, al dan niet tezamen met zijn **partner**, direct of indirect:
 
@@ -3249,25 +3277,25 @@ De belastingplichtige heeft een aanmerkelijk belang indien hij, al dan niet teza
 
 3. Bij ministeriële regeling kunnen regels worden gesteld op grond waarvan aandelen niet worden aangemerkt als aandelen van een soort.
 
-#### Artikel 4.8. Omvang kapitaal
+##### Artikel 4.8. Omvang kapitaal
 
 Voor de vaststelling of een belastingplichtige een aanmerkelijk belang heeft, wordt ingekocht nog in te trekken kapitaal niet in aanmerking genomen.
 
-#### Artikel 4.9. Meesleepregeling
+##### Artikel 4.9. Meesleepregeling
 
 Indien een belastingplichtige een aanmerkelijk belang heeft in een vennootschap, behoren daartoe ook zijn overige aandelen in of winstbewijzen van die vennootschap.
 
-#### Artikel 4.10. Meetrekregeling
+##### Artikel 4.10. Meetrekregeling
 
 De tot het vermogen van de belastingplichtige behorende aandelen in of winstbewijzen van een vennootschap waarin hij geen, maar zijn partner of een van de bloed- of aanverwanten in de rechte lijn van de belastingplichtige of zijn partner wel een aanmerkelijk belang heeft, behoren voor de belastingplichtige tot een aanmerkelijk belang.
 
-#### Artikel 4.11. Fictief aanmerkelijk belang
+##### Artikel 4.11. Fictief aanmerkelijk belang
 
 Indien tot het vermogen van de belastingplichtige behorende aandelen of winstbewijzen niet op grond van de overige artikelen van deze afdeling tot een aanmerkelijk belang behoren, wordt een aanmerkelijk belang aanwezig geacht indien [artikel 3.65](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.56&z=2026-02-21&g=2026-02-21), [4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.1&artikel=4.17&z=2026-02-21&g=2026-02-21), [4.17a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.1&artikel=4.17a&z=2026-02-21&g=2026-02-21), [4.17b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.1&artikel=4.17b&z=2026-02-21&g=2026-02-21), [4.17c](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.1&artikel=4.17c&z=2026-02-21&g=2026-02-21), [4.40](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.8&paragraaf=4.8.2&artikel=4.40&z=2026-02-21&g=2026-02-21) of [4.41](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.8&paragraaf=4.8.3&artikel=4.41&z=2026-02-21&g=2026-02-21) is toegepast.
 
 ### Afdeling 4.4. Inkomen uit aanmerkelijk belang
 
-#### Artikel 4.12. Inkomen uit aanmerkelijk belang
+##### Artikel 4.12. Inkomen uit aanmerkelijk belang
 
 Inkomen uit aanmerkelijk belang is het gezamenlijke bedrag van:
 
@@ -3277,7 +3305,7 @@ Inkomen uit aanmerkelijk belang is het gezamenlijke bedrag van:
 
 verminderd met de persoonsgebonden aftrek ([hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=6&z=2026-02-21&g=2026-02-21)).
 
-#### Artikel 4.12a. Bij een vererfd aanmerkelijk belang, binnen twee jaar afboeking reguliere voordelen op verkrijgingsprijs
+##### Artikel 4.12a. Bij een vererfd aanmerkelijk belang, binnen twee jaar afboeking reguliere voordelen op verkrijgingsprijs
 
 Ingeval de belastingplichtige aandelen of winstbewijzen krachtens erfrecht heeft verkregen en ter zake van die overgang bij de erflater inkomen uit aanmerkelijk belang in aanmerking is genomen, worden binnen 24 maanden na het overlijden van de erflater door die belastingplichtige genoten reguliere voordelen uit die aandelen of winstbewijzen of uit aandelen of winstbewijzen van dezelfde soort in dezelfde vennootschap op verzoek, in afwijking van [artikel 4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.4&artikel=4.12&z=2026-02-21&g=2026-02-21), niet tot het inkomen uit aanmerkelijk belang gerekend voor zover deze voordelen niet uitgaan boven het bedrag dat bij de erflater ter zake van de overgang krachtens erfrecht als inkomen uit aanmerkelijk belang in aanmerking is genomen en voor zover deze voordelen worden afgeboekt op de verkrijgingsprijs van de aandelen of winstbewijzen van die soort in die vennootschap. Voor de toepassing van de eerste volzin blijft inkomen uit aanmerkelijk belang dat bij de erflater ingevolge [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=2&afdeling=2.3&artikel=2.8&z=2026-02-21&g=2026-02-21) als te conserveren inkomen is aangemerkt en waarvoor ten tijde van het genieten van de reguliere voordelen nog uitstel van betaling loopt, buiten beschouwing.
 
@@ -3285,7 +3313,7 @@ Ingeval de belastingplichtige aandelen of winstbewijzen krachtens erfrecht heeft
 
 #### Paragraaf 4.5.1. Reguliere voordelen
 
-#### Artikel 4.13. Reguliere voordelen
+##### Artikel 4.13. Reguliere voordelen
 
 1. Tot de reguliere voordelen bedoeld in [artikel 4.12, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.4&artikel=4.12&z=2026-02-21&g=2026-02-21), behoren mede:
 
@@ -3319,7 +3347,7 @@ Ingeval de belastingplichtige aandelen of winstbewijzen krachtens erfrecht heeft
 
 #### Paragraaf 4.5.1. Reguliere voordelen
 
-#### Artikel 4.14. Forfaitair voordeel uit vrijgestelde beleggingsinstellingen en uit buitenlandse beleggingslichamen
+##### Artikel 4.14. Forfaitair voordeel uit vrijgestelde beleggingsinstellingen en uit buitenlandse beleggingslichamen
 
 1. Het forfaitaire voordeel bedoeld in [artikel 4.13, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.1&artikel=4.13&z=2026-02-21&g=2026-02-21), wordt gesteld op 6% per jaar van de waarde in het economische verkeer die bij het begin van het kalenderjaar aan de tot het aanmerkelijk belang behorende aandelen of winstbewijzen kan worden toegekend, verminderd met de overige op grond van [artikel 4.12, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.4&artikel=4.12&z=2026-02-21&g=2026-02-21), ter zake van die aandelen of winstbewijzen in aanmerking genomen reguliere voordelen, met dien verstande dat het forfaitaire voordeel ten minste op nihil wordt gesteld.
 
@@ -3351,7 +3379,7 @@ Ingeval de belastingplichtige aandelen of winstbewijzen krachtens erfrecht heeft
 
 10. Het vierde tot en met achtste lid van dit artikel zijn niet van toepassing voor de bepaling van het forfaitaire voordeel uit aandelen in of winstbewijzen van een lichaam als bedoeld in [artikel 6a van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=6a). Het negende lid is niet van toepassing met betrekking tot aandelen en winstbewijzen ter zake waarvan bij een in Nederland gevestigde vennootschap [artikel 3.29a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.29a&z=2026-02-21&g=2026-02-21) toepassing vindt, dan wel geen toepassing vindt omdat die vennootschap een lichaam is als bedoeld in artikel 6a van de Wet op de vennootschapsbelasting 1969.
 
-#### Artikel 4.15. Kosten van reguliere voordelen
+##### Artikel 4.15. Kosten van reguliere voordelen
 
 1. Kosten van reguliere voordelen zijn de daarop drukkende kosten voorzover zij zijn gemaakt tot verwerving, inning en behoud van die voordelen en in hun totale omvang niet overtreffen wat gebruikelijk is.
 
@@ -3369,7 +3397,7 @@ Ingeval de belastingplichtige aandelen of winstbewijzen krachtens erfrecht heeft
 
 #### Paragraaf 4.5.1. Reguliere voordelen
 
-#### Artikel 4.16. Fictieve vervreemdingen
+##### Artikel 4.16. Fictieve vervreemdingen
 
 1. Onder vervreemding van aandelen of winstbewijzen wordt mede verstaan:
 
@@ -3407,11 +3435,11 @@ Ingeval de belastingplichtige aandelen of winstbewijzen krachtens erfrecht heeft
 
 7. Het eerste lid, aanhef en onderdeel k, is niet van toepassing als toepassing ervan zou leiden tot een ingevolge [artikel 4.12, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.4&artikel=4.12&z=2026-02-21&g=2026-02-21), in aanmerking te nemen negatief vervreemdingsvoordeel.
 
-#### Artikel 4.17. Uitzondering bij overgang krachtens huwelijksvermogensrecht en verdeling huwelijksgemeenschap anders dan door overlijden
+##### Artikel 4.17. Uitzondering bij overgang krachtens huwelijksvermogensrecht en verdeling huwelijksgemeenschap anders dan door overlijden
 
 De overgang krachtens huwelijksvermogensrecht alsmede de verdeling van een huwelijksgemeenschap binnen twee jaren na de ontbinding van de huwelijksgemeenschap anders dan door overlijden wordt niet als vervreemding aangemerkt, mits de verkrijger binnenlands belastingplichtige is en de verkregen aandelen of winstbewijzen geen deel uitmaken van het vermogen van een voor zijn rekening gedreven onderneming en niet tot het resultaat uit een werkzaamheid van hem behoren.
 
-#### Artikel 4.17a. Uitzondering bij overgang krachtens erfrecht
+##### Artikel 4.17a. Uitzondering bij overgang krachtens erfrecht
 
 1. De overgang krachtens erfrecht onder algemene titel of onder bijzondere titel wordt op verzoek van de gezamenlijke belanghebbenden niet als vervreemding aangemerkt voor het in het tweede lid omschreven deel van de overdrachtsprijs, indien:
 
@@ -3499,7 +3527,7 @@ T: de waarde in het economische verkeer van alle bezittingen en schulden van de 
 
 16. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de toepassing van dit artikel.
 
-#### Artikel 4.17b. Uitzondering bij verdeling nalatenschap binnen twee jaar
+##### Artikel 4.17b. Uitzondering bij verdeling nalatenschap binnen twee jaar
 
 1. De verdeling van een nalatenschap binnen twee jaren na het overlijden van de erflater, wordt op verzoek van de gezamenlijke belanghebbenden niet als vervreemding aangemerkt, mits de verkrijger binnenlands belastingplichtige is en de verkregen aandelen of winstbewijzen geen deel uitmaken van het vermogen van een voor zijn rekening gedreven onderneming en niet tot het resultaat uit een werkzaamheid van hem behoren.
 
@@ -3509,7 +3537,7 @@ T: de waarde in het economische verkeer van alle bezittingen en schulden van de 
 
 4. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de toepassing van dit artikel.
 
-#### Artikel 4.17c. Uitzondering bij overdracht krachtens schenking
+##### Artikel 4.17c. Uitzondering bij overdracht krachtens schenking
 
 1. De overdracht tijdens het leven waarbij [artikel 4.22](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.2&artikel=4.22&z=2026-02-21&g=2026-02-21) toepassing vindt, wordt op verzoek van de gezamenlijke belanghebbenden niet als vervreemding aangemerkt voor het in het tweede lid omschreven deel van de overdrachtsprijs, indien:
 
@@ -3527,23 +3555,23 @@ T: de waarde in het economische verkeer van alle bezittingen en schulden van de 
 
 4. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de toepassing van dit artikel.
 
-#### Artikel 4.18. Passanten
+##### Artikel 4.18. Passanten
 
 [Artikel 4.16, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.1&artikel=4.16&z=2026-02-21&g=2026-02-21), is niet van toepassing bij een aanmerkelijk belang in een niet in Nederland gevestigde vennootschap indien het anders dan door overlijden ophouden binnenlands belastingplichtige te zijn, hieronder begrepen de situatie waarin de belastingplichtige voor de toepassing van de [Belastingregeling voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002464), de Belastingregeling voor het land Nederland of een verdrag ter voorkoming van dubbele belasting wordt geacht geen inwoner van Nederland meer te zijn, plaatsvindt binnen acht jaren nadat de belastingplichtige in Nederland is gaan wonen en de belastingplichtige gedurende de laatste vijfentwintig jaar in totaal niet langer dan tien jaren in Nederland heeft gewoond.
 
 #### Paragraaf 4.6.2. De omvang van vervreemdingsvoordelen
 
-#### Artikel 4.19. Vervreemdingsvoordelen
+##### Artikel 4.19. Vervreemdingsvoordelen
 
 1. De vervreemdingsvoordelen worden gesteld op de overdrachtsprijs verminderd met de verkrijgingsprijs. In geval van vervreemding van een gedeelte van de in aandelen of winstbewijzen besloten rechten wordt een evenredig gedeelte van de verkrijgingsprijs in aanmerking genomen.
 
 2. Ingeval [artikel 4.17a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.1&artikel=4.17a&z=2026-02-21&g=2026-02-21) of [artikel 4.17c](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.1&artikel=4.17c&z=2026-02-21&g=2026-02-21) toepassing vindt, wordt in afwijking van het eerste lid, tweede volzin, als verkrijgingsprijs in aanmerking genomen de verkrijgingsprijs die in aanmerking zou zijn genomen ingeval niet was verzocht om toepassing van artikel 4.17a, onderscheidenlijk artikel 4.17c, met dien verstande dat ingeval alsdan de verkrijgingsprijs meer zou bedragen dan de overdrachtsprijs, als verkrijgingsprijs wordt genomen een bedrag gelijk aan de overdrachtsprijs.
 
-#### Artikel 4.20. Overdrachtsprijs
+##### Artikel 4.20. Overdrachtsprijs
 
 Onder overdrachtsprijs wordt verstaan de tegenprestatie bij de vervreemding, verminderd met de ten laste van de vervreemder komende kosten.
 
-#### Artikel 4.21. Verkrijgingsprijs
+##### Artikel 4.21. Verkrijgingsprijs
 
 1. Onder verkrijgingsprijs wordt verstaan de tegenprestatie bij de verkrijging vermeerderd met de ten laste van de verkrijger gekomen kosten.
 
@@ -3563,17 +3591,17 @@ Onder overdrachtsprijs wordt verstaan de tegenprestatie bij de vervreemding, ver
 
 - d. andere situaties waarin de aandelen krachtens een verdeling van een huwelijksgemeenschap of een verdeling van een nalatenschap weer terechtkomen bij een verkrijger die in Nederland woont.
 
-#### Artikel 4.22. Correctie naar waarde in het economisch verkeer
+##### Artikel 4.22. Correctie naar waarde in het economisch verkeer
 
 1. Indien bij een vervreemding of verkrijging een tegenprestatie ontbreekt of is bedongen bij een niet onder normale omstandigheden gesloten overeenkomst, wordt als tegenprestatie aangemerkt de waarde die ten tijde van de vervreemding, respectievelijk de verkrijging, in het economische verkeer aan de aandelen of winstbewijzen kan worden toegekend.
 
 2. Het eerste lid is ook van toepassing indien bij een vervreemding het belang in de vennootschap wordt behouden, behoudens in geval van uitgifte van aandelen.
 
-#### Artikel 4.23. Verkrijgingsprijs bij ontstaan aanmerkelijk belang na verkrijging
+##### Artikel 4.23. Verkrijgingsprijs bij ontstaan aanmerkelijk belang na verkrijging
 
 Indien een aandeel of winstbewijs op een tijdstip na de verkrijging daarvan tot een aanmerkelijk belang gaat behoren, wordt de verkrijgingsprijs van dat aandeel of winstbewijs gesteld op de waarde in het economische verkeer die op dat tijdstip daaraan kan worden toegekend.
 
-#### Artikel 4.24. Geen tussentijdse verliesneming
+##### Artikel 4.24. Geen tussentijdse verliesneming
 
 1. Indien de belastingplichtige aandelen of winstbewijzen vervreemdt maar zijn belang bij de activiteiten van de vennootschap direct of indirect geheel of nagenoeg geheel behoudt, wordt een negatief vervreemdingsvoordeel niet in aanmerking genomen.
 
@@ -3591,17 +3619,17 @@ Indien een aandeel of winstbewijs op een tijdstip na de verkrijging daarvan tot 
 
 5. Dit artikel is niet van toepassing op vervreemdingen in de zin van [artikel 4.16, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.1&artikel=4.16&z=2026-02-21&g=2026-02-21), [artikel 4.16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.1&artikel=4.16&z=2026-02-21&g=2026-02-21), en [artikel 7.5, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=7&afdeling=7.3&artikel=7.5&z=2026-02-21&g=2026-02-21).
 
-#### Artikel 4.24bis. Negatief vervreemdingsvoordeel in samenhang met een afgezonderd particulier vermogen
+##### Artikel 4.24bis. Negatief vervreemdingsvoordeel in samenhang met een afgezonderd particulier vermogen
 
 1. Bij een vervreemding van aandelen of winstbewijzen als bedoeld in [artikel 4.16, eerste lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.1&artikel=4.16&z=2026-02-21&g=2026-02-21), wordt een negatief vervreemdingsvoordeel niet in aanmerking genomen tenzij deze vervreemding niet in overwegende mate heeft plaatsgevonden met het oog op het in aanmerking nemen van dit negatieve vervreemdingsvoordeel. De inspecteur stelt het bedrag van het niet in aanmerking genomen negatieve vervreemdingsvoordeel op verzoek van de belastingplichtige vast bij voor bezwaar vatbare beschikking.
 
 2. Het negatieve vervreemdingsvoordeel dat bij de belastingplichtige op grond van het eerste lid niet in aanmerking wordt genomen, wordt in aanmerking genomen zodra de aandelen of winstbewijzen ook zonder de toepassing van [artikel 2.14a, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=2&afdeling=2.4&artikel=2.14a&z=2026-02-21&g=2026-02-21), niet langer direct of indirect aan hem zouden worden toegerekend, doch uiterlijk 10 jaar na de vervreemding.
 
-#### Artikel 4.24a. geen negatief vervreemdingsvoordeel bij geruisloze terugkeer uit een BV
+##### Artikel 4.24a. geen negatief vervreemdingsvoordeel bij geruisloze terugkeer uit een BV
 
 Het vervreemdingsvoordeel ter zake van een geruisloze terugkeer als bedoeld in [artikel 14c van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14c) wordt ten minste gesteld op nihil.
 
-#### Artikel 4.25. Verkrijgingsprijs bij het ontstaan van binnenlandse belastingplicht
+##### Artikel 4.25. Verkrijgingsprijs bij het ontstaan van binnenlandse belastingplicht
 
 1. Indien een belastingplichtige in Nederland gaat wonen en hij op dat tijdstip aandelen in of winstbewijzen van een vennootschap heeft, wordt de verkrijgingsprijs van die aandelen of die winstbewijzen gesteld op de waarde die op dat tijdstip in het economische verkeer aan die aandelen of die winstbewijzen kan worden toegekend.
 
@@ -3615,13 +3643,13 @@ Het vervreemdingsvoordeel ter zake van een geruisloze terugkeer als bedoeld in [
 
 6. Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de omvang van de verkrijgingsprijs en het verminderen van belastingaanslagen ter zake van geconserveerd inkomen wegens vervreemdingsvoordeel uit aanmerkelijk belang voor situaties waarin de verkrijger van de aandelen in Nederland gaat wonen.
 
-#### Artikel 4.26. Bonusaandelen en winstbewijzen
+##### Artikel 4.26. Bonusaandelen en winstbewijzen
 
 1. In geval van uitreiking van aandelen, storting op bewijzen van deelgerechtigdheid in een fonds voor gemene rekening of uitreiking van winstbewijzen aan aandeelhouders, wordt als tegenprestatie aangemerkt het bedrag dat ter zake van die uitreiking of storting als regulier voordeel wordt aangemerkt, verhoogd met een eventuele toebetaling door de belastingplichtige.
 
 2. Bijschrijving op aandelen wordt met uitreiking van aandelen gelijkgesteld.
 
-#### Artikel 4.27. Voordelen uit vrijgestelde beleggingsinstellingen en uit buitenlandse beleggingslichamen
+##### Artikel 4.27. Voordelen uit vrijgestelde beleggingsinstellingen en uit buitenlandse beleggingslichamen
 
 1. Indien een voordeel als bedoeld in [artikel 4.13, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.1&artikel=4.13&z=2026-02-21&g=2026-02-21), in aanmerking is genomen, wordt de verkrijgingsprijs van het desbetreffende aandeel of winstbewijs daarmee verhoogd.
 
@@ -3629,7 +3657,7 @@ Het vervreemdingsvoordeel ter zake van een geruisloze terugkeer als bedoeld in [
 
 3. Indien ter zake van een vervreemding als bedoeld in [artikel 4.16, eerste lid, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.1&artikel=4.16&z=2026-02-21&g=2026-02-21), een vervreemdingsvoordeel als bedoeld in [artikel 4.12, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.4&artikel=4.12&z=2026-02-21&g=2026-02-21), in aanmerking is genomen, wordt de verkrijgingsprijs van het desbetreffende aandeel of winstbewijs daarmee verhoogd.
 
-#### Artikel 4.28. Overdrachtsprijs in termijnen
+##### Artikel 4.28. Overdrachtsprijs in termijnen
 
 1. Indien een overdrachtsprijs uit een of meer termijnen bestaat waarvan het aantal of de omvang op het tijdstip van de vervreemding nog niet vaststaat, wordt een geschatte overdrachtsprijs in aanmerking genomen.
 
@@ -3637,37 +3665,37 @@ Het vervreemdingsvoordeel ter zake van een geruisloze terugkeer als bedoeld in [
 
 3. Indien het totaal van de daadwerkelijk genoten termijnen lager is dan de geschatte overdrachtsprijs, wordt het verschil in aanmerking genomen als negatief vervreemdingsvoordeel.
 
-#### Artikel 4.29. Aanpassingen overdrachtsprijs
+##### Artikel 4.29. Aanpassingen overdrachtsprijs
 
 1. Indien na het tijdstip van de vervreemding de overdrachtsprijs wordt verhoogd, wordt het verschil met de oorspronkelijke overdrachtsprijs aangemerkt als vervreemdingsvoordeel.
 
 2. Indien na het tijdstip van de vervreemding de overdrachtsprijs wordt verlaagd, wordt het verschil met de oorspronkelijke overdrachtsprijs als negatief vervreemdingsvoordeel in aanmerking genomen.
 
-#### Artikel 4.30. Verkrijgingsprijs koopopties bij uitoefening of expiratie
+##### Artikel 4.30. Verkrijgingsprijs koopopties bij uitoefening of expiratie
 
 1. Indien een koopoptie wordt uitgeoefend, wordt de verkrijgingsprijs van de koopoptie gerekend tot de verkrijgingsprijs van de verworven aandelen of winstbewijzen.
 
 2. Indien een koopoptie op aandelen of winstbewijzen niet wordt uitgeoefend, wordt de verkrijgingsprijs van het optierecht gevoegd bij de verkrijgingsprijs van de soort aandelen of winstbewijzen waarop het betrekking had, of bij afwezigheid van die soort, bij de verkrijgingsprijs van de aandelen, respectievelijk winstbewijzen die tot het aanmerkelijk belang behoren.
 
-#### Artikel 4.31. Verleende koopopties
+##### Artikel 4.31. Verleende koopopties
 
 Het vervreemdingsvoordeel ter zake van het door de belastingplichtige verlenen van een koopoptie wordt gesteld op het bedrag van de vergoeding.
 
-#### Artikel 4.32. Putopties
+##### Artikel 4.32. Putopties
 
 1. Indien de belastingplichtige een recht verwerft om aandelen of winstbewijzen te vervreemden, wordt de vergoeding daarvoor aangemerkt als kosten ter zake van vervreemding die, indien de belastingplichtige het recht uitoefent, in mindering komen op de overdrachtsprijs.
 
 2. Bij de belastingplichtige aan wie wordt vervreemd, komt de vergoeding in mindering op de verkrijgingsprijs van de verworven aandelen of winstbewijzen.
 
-#### Artikel 4.33. Vermindering verkrijgingsprijs bij terugbetaling aandelenkapitaal
+##### Artikel 4.33. Vermindering verkrijgingsprijs bij terugbetaling aandelenkapitaal
 
 Ingeval van teruggaaf van hetgeen op aandelen is gestort, wordt de verkrijgingsprijs verminderd met de teruggaaf voorzover deze niet als regulier voordeel in aanmerking is genomen. De eerste volzin is van overeenkomstige toepassing in geval van teruggaaf op winstbewijzen.
 
-#### Artikel 4.33a. Vaststelling verkrijgingsprijs bij omzetting afgewaardeerde vordering
+##### Artikel 4.33a. Vaststelling verkrijgingsprijs bij omzetting afgewaardeerde vordering
 
 Indien zich met betrekking tot een schuldvordering een omstandigheid voordoet als bedoeld in [artikel 3.98a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.4&paragraaf=3.4.2&artikel=3.98a&z=2026-02-21&g=2026-02-21), wordt de verkrijgingsprijs van de verkregen aandelen of winstbewijzen onderscheidenlijk de reeds in het bezit van de belastingplichtige zijnde aandelen in of winstbewijzen in de schuldenaar, verhoogd met het ingevolge [artikel 3.98a, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.4&paragraaf=3.4.2&artikel=3.98a&z=2026-02-21&g=2026-02-21), tot het resultaat uit een werkzaamheid gerekende voordeel dan wel, indien een opwaarderingsreserve als bedoeld in [artikel 3.98a, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.4&paragraaf=3.4.2&artikel=3.98a&z=2026-02-21&g=2026-02-21), is gevormd, met het sindsdien ingevolge [artikel 3.98a, vierde, zevende of achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.4&paragraaf=3.4.2&artikel=3.98a&z=2026-02-21&g=2026-02-21), tot het resultaat uit een werkzaamheid gerekende voordeel.
 
-#### Artikel 4.34. Liquidatie-uitkeringen
+##### Artikel 4.34. Liquidatie-uitkeringen
 
 1. In geval van een liquidatie-uitkering wordt als vervreemdingsvoordeel in aanmerking genomen hetgeen wordt uitgekeerd boven de verkrijgingsprijs van de desbetreffende aandelen of winstbewijzen.
 
@@ -3683,17 +3711,17 @@ Indien zich met betrekking tot een schuldvordering een omstandigheid voordoet al
 
 5. Vervreemdingsvoordelen als bedoeld in het vierde lid worden gesteld op de waarde van de vermogensbestanddelen van de onderneming voorzover die door de belastingplichtige wordt voortgezet, vermeerderd met 50% van het verlies dat op grond van [artikel 14c, derde lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14c) wordt aangemerkt als ondernemersverlies in de zin van [artikel 3.148, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.13&artikel=3.148&z=2026-02-21&g=2026-02-21), en verminderd met het laagste tarief, bedoeld in [artikel 22 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=22), geldend op het tijdstip van de voortzetting, vermenigvuldigd met het bedrag dat op grond van [artikel 14c van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14c) wordt vrijgesteld en voorts verminderd met een evenredig deel van de verkrijgingsprijs. De waarde van de vermogensbestanddelen vermeerderd met 50% van het verlies wordt tenminste gesteld op nihil.
 
-#### Artikel 4.35. Vestigingsplaats
+##### Artikel 4.35. Vestigingsplaats
 
 Voor de toepassing van deze afdeling wordt een lichaam waarvan de oprichting heeft plaatsgevonden naar Nederlands recht steeds geacht in Nederland te zijn gevestigd. Een Europese naamloze vennootschap die bij haar oprichting werd beheerst door Nederlands recht, wordt voor de toepassing van de eerste volzin geacht te zijn opgericht naar Nederlands recht.
 
 ### Afdeling 4.7. Vaststellen verkrijgingsprijs
 
-#### Artikel 4.36. Beschikking
+##### Artikel 4.36. Beschikking
 
 De verkrijgingsprijs van aandelen of winstbewijzen die tot een aanmerkelijk belang behoren kan, al dan niet op verzoek, door de inspecteur bij voor bezwaar vatbare beschikking worden vastgesteld.
 
-#### Artikel 4.37. Herziening beschikking
+##### Artikel 4.37. Herziening beschikking
 
 1. Indien enig feit grond oplevert voor het vermoeden dat de verkrijgingsprijs te hoog is vastgesteld, kan de inspecteur de beschikking herzien bij voor bezwaar vatbare beschikking.
 
@@ -3705,7 +3733,7 @@ De verkrijgingsprijs van aandelen of winstbewijzen die tot een aanmerkelijk bela
 
 #### Paragraaf 4.8.1. Afrekening op verzoek bij overgang krachtens huwelijksvermogensrecht
 
-#### Artikel 4.38. Afrekening op verzoek
+##### Artikel 4.38. Afrekening op verzoek
 
 1. Indien de gezamenlijke belanghebbenden daarvoor kiezen, wordt [artikel 4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.1&artikel=4.17&z=2026-02-21&g=2026-02-21) niet toegepast.
 
@@ -3713,7 +3741,7 @@ De verkrijgingsprijs van aandelen of winstbewijzen die tot een aanmerkelijk bela
 
 #### Paragraaf 4.8.1. Afrekening op verzoek bij overgang krachtens huwelijksvermogensrecht
 
-#### Artikel 4.39. Doorschuiving verkrijgingsprijs bij overgang krachtens huwelijksvermogensrecht en verdeling huwelijksgemeenschap
+##### Artikel 4.39. Doorschuiving verkrijgingsprijs bij overgang krachtens huwelijksvermogensrecht en verdeling huwelijksgemeenschap
 
 1. Indien bij de overgang krachtens huwelijksvermogenrecht door toepassing van [artikel 4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.1&artikel=4.17&z=2026-02-21&g=2026-02-21) geen sprake is van een vervreemding, geldt als verkrijgingsprijs de verkrijgingsprijs die gold voor degene van wiens zijde de aandelen of winstbewijzen in de huwelijksgemeenschap zijn gevallen.
 
@@ -3721,13 +3749,13 @@ De verkrijgingsprijs van aandelen of winstbewijzen die tot een aanmerkelijk bela
 
 3. De in het eerste en het tweede lid bedoelde verkrijgingsprijs wordt evenredig over de verkrijgers verdeeld voor zover in het kader van de verdeling van de huwelijksgemeenschap een gerechtigdheid als bedoeld in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.2&artikel=4.3&z=2026-02-21&g=2026-02-21) wordt gevestigd.
 
-#### Artikel 4.39a. Doorschuiving verkrijgingsprijs bij overgang krachtens erfrecht
+##### Artikel 4.39a. Doorschuiving verkrijgingsprijs bij overgang krachtens erfrecht
 
 1. Indien in het kader van een overgang krachtens erfrecht [artikel 4.17a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.1&artikel=4.17a&z=2026-02-21&g=2026-02-21) toepassing vindt, geldt bij de erfgenamen als verkrijgingsprijs voor het deel van de overgang dat ingevolge artikel 4.17a niet als vervreemding wordt aangemerkt, de verkrijgingsprijs die gold voor de erflater, verminderd met het deel daarvan dat ingevolge [artikel 4.19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.2&artikel=4.19&z=2026-02-21&g=2026-02-21), bij hem in aanmerking is genomen voor de bepaling van het vervreemdingsvoordeel.
 
 2. De in het eerste lid bedoelde verkrijgingsprijs wordt evenredig over de verkrijgers verdeeld voor zover bij de overgang een gerechtigdheid als bedoeld in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.2&artikel=4.3&z=2026-02-21&g=2026-02-21) wordt gevestigd.
 
-#### Artikel 4.39b. Doorschuiving verkrijgingsprijs bij verdeling nalatenschap binnen twee jaar
+##### Artikel 4.39b. Doorschuiving verkrijgingsprijs bij verdeling nalatenschap binnen twee jaar
 
 1. Indien in het kader van de verdeling van een nalatenschap [artikel 4.17b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.1&artikel=4.17b&z=2026-02-21&g=2026-02-21), is toegepast, geldt als verkrijgingsprijs de verkrijgingsprijs die gold voor degene van wie in het kader van de verdeling wordt verkregen.
 
@@ -3735,7 +3763,7 @@ De verkrijgingsprijs van aandelen of winstbewijzen die tot een aanmerkelijk bela
 
 3. De in het eerste lid of tweede lid bedoelde verkrijgingsprijs wordt evenredig over de verkrijgers verdeeld voor zover bij de verdeling een gerechtigdheid als bedoeld in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.2&artikel=4.3&z=2026-02-21&g=2026-02-21) wordt gevestigd.
 
-#### Artikel 4.39c. Doorschuiving verkrijgingsprijs bij overdracht krachtens schenking
+##### Artikel 4.39c. Doorschuiving verkrijgingsprijs bij overdracht krachtens schenking
 
 1. Indien [artikel 4.17c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.1&artikel=4.17c&z=2026-02-21&g=2026-02-21), toepassing vindt, geldt als verkrijgingsprijs voor het deel van de overdracht dat ingevolge artikel 4.17c niet als vervreemding wordt aangemerkt, de verkrijgingsprijs die gold voor de vervreemder met betrekking tot overgedragen aandelen, verminderd met het deel daarvan dat ingevolge [artikel 4.19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.2&artikel=4.19&z=2026-02-21&g=2026-02-21), bij hem in aanmerking is genomen voor de bepaling van het vervreemdingsvoordeel.
 
@@ -3743,13 +3771,13 @@ De verkrijgingsprijs van aandelen of winstbewijzen die tot een aanmerkelijk bela
 
 #### Paragraaf 4.8.2. Doorschuiving indien niet langer een aanmerkelijk belang aanwezig is
 
-#### Artikel 4.40. Doorschuiving op verzoek (mogelijk ontstaan fictief aanmerkelijk belang)
+##### Artikel 4.40. Doorschuiving op verzoek (mogelijk ontstaan fictief aanmerkelijk belang)
 
 Op verzoek van de belastingplichtige vindt [artikel 4.16, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.1&artikel=4.16&z=2026-02-21&g=2026-02-21), geen toepassing met betrekking tot aandelen of winstbewijzen die tot zijn vermogen blijven behoren.
 
 #### Paragraaf 4.8.2. Doorschuiving indien niet langer een aanmerkelijk belang aanwezig is
 
-#### Artikel 4.41. Doorschuiving op verzoek (mogelijk ontstaan fictief aanmerkelijk belang)
+##### Artikel 4.41. Doorschuiving op verzoek (mogelijk ontstaan fictief aanmerkelijk belang)
 
 1. Op verzoek van de belastingplichtige wordt het voordeel uit de vervreemding van aandelen of winstbewijzen in het kader van een aandelenfusie als bedoeld in [artikel 3.55](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.55&z=2026-02-21&g=2026-02-21) niet in aanmerking genomen. Artikel 3.55, zevende lid, is van overeenkomstige toepassing.
 
@@ -3759,7 +3787,7 @@ Op verzoek van de belastingplichtige vindt [artikel 4.16, eerste lid, onderdeel 
 
 4. De in de vorige leden bedoelde mogelijkheid het voordeel niet in aanmerking te nemen, geldt niet voor een in het kader van de aandelenfusie, splitsing of juridische fusie genoten bijbetaling.
 
-#### Artikel 4.42. Doorschuiving verkrijgingsprijs
+##### Artikel 4.42. Doorschuiving verkrijgingsprijs
 
 1. Indien door toepassing van [artikel 4.41](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.8&paragraaf=4.8.3&artikel=4.41&z=2026-02-21&g=2026-02-21) het voordeel in het kader van een aandelenfusie buiten aanmerking blijft, wordt als verkrijgingsprijs van de verworven aandelen of winstbewijzen aangemerkt de verkrijgingsprijs van de in het kader van de aandelenfusie vervreemde aandelen of winstbewijzen.
 
@@ -3769,7 +3797,7 @@ Op verzoek van de belastingplichtige vindt [artikel 4.16, eerste lid, onderdeel 
 
 #### Paragraaf 4.8.1a. Doorschuiving verkrijgingsprijs bij overgang krachtens huwelijksvermogensrecht en erfrecht alsmede bij overdracht krachtens schenking
 
-#### Artikel 4.42a. Doorschuiving vervreemdingsvoordeel bij geruisloze terugkeer
+##### Artikel 4.42a. Doorschuiving vervreemdingsvoordeel bij geruisloze terugkeer
 
 1. Op verzoek van de belastingplichtige worden de voordelen in verband met de vervreemding in het kader van de ontbinding van een vennootschap met toepassing van [artikel 14c, eerste lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14c), niet in aanmerking genomen.
 
@@ -3777,7 +3805,7 @@ Op verzoek van de belastingplichtige vindt [artikel 4.16, eerste lid, onderdeel 
 
 ### Afdeling 4.9. Genietingstijdstip
 
-#### Artikel 4.43. Genietingstijdstip reguliere voordelen
+##### Artikel 4.43. Genietingstijdstip reguliere voordelen
 
 1. Reguliere voordelen worden geacht te zijn genoten op het tijdstip waarop zij zijn:
 
@@ -3795,11 +3823,11 @@ Op verzoek van de belastingplichtige vindt [artikel 4.16, eerste lid, onderdeel 
 
 3. Een fictief regulier voordeel als bedoeld in [artikel 4.13, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.1&artikel=4.13&z=2026-02-21&g=2026-02-21), wordt geacht uiterlijk te zijn genoten bij het einde van het kalenderjaar of, indien de belastingplichtige in de loop van het kalenderjaar is overleden, het moment onmiddellijk voorafgaand aan het moment van overlijden.
 
-#### Artikel 4.44. Betalingstijdstip aftrekbare kosten
+##### Artikel 4.44. Betalingstijdstip aftrekbare kosten
 
 De op reguliere voordelen in mindering te brengen aftrekbare kosten worden in aanmerking genomen op het tijdstip waarop zij betaald of verrekend zijn, door de belastingplichtige ter beschikking zijn gesteld of rentedragend zijn geworden.
 
-#### Artikel 4.45. Vooruitbetaalde rente
+##### Artikel 4.45. Vooruitbetaalde rente
 
 1. In een kalenderjaar worden bij wijze van vooruitbetaling voldane renten van schulden, kosten van geldleningen daaronder begrepen (vooruitbetaalde rente), niet in aanmerking genomen indien zij betrekking hebben op tijdvakken die eindigen later dan zes maanden na afloop van het kalenderjaar waarin zij zijn voldaan en voorzover zij betrekking hebben op de periode die aanvangt na afloop van het kalenderjaar, waarbij die renten naar evenredigheid worden toegerekend aan kalendermaanden en gedeelten van kalendermaanden als kalendermaand worden aangemerkt.
 
@@ -3807,7 +3835,7 @@ De op reguliere voordelen in mindering te brengen aftrekbare kosten worden in aa
 
 3. In het jaar waarin de belastingplichtige overlijdt wordt hetgeen ter zake van vooruitbetaalde rente in dat jaar door hem is of wordt geacht te zijn voldaan en de vooruitbetaalde rente die in daaropvolgende jaren wordt geacht te zijn voldaan, geheel in aanmerking genomen.
 
-#### Artikel 4.46. Genietingstijdstip vervreemdingsvoordelen
+##### Artikel 4.46. Genietingstijdstip vervreemdingsvoordelen
 
 1. Vervreemdingsvoordelen worden geacht te zijn genoten op het tijdstip van de vervreemding.
 
@@ -3827,15 +3855,15 @@ De op reguliere voordelen in mindering te brengen aftrekbare kosten worden in aa
 
 ### Afdeling 4.10. Verliesverrekening
 
-#### Artikel 4.47. Verlies
+##### Artikel 4.47. Verlies
 
 Indien de berekening van het inkomen uit aanmerkelijk belang leidt tot een negatief bedrag wordt dit aangemerkt als verlies uit aanmerkelijk belang.
 
-#### Artikel 4.48. Te conserveren inkomen buiten beschouwing
+##### Artikel 4.48. Te conserveren inkomen buiten beschouwing
 
 Voor de toepassing van deze afdeling worden inkomen uit aanmerkelijk belang en verlies uit aanmerkelijk belang bepaald zonder rekening te houden met te conserveren inkomen.
 
-#### Artikel 4.49. Verliesverrekening
+##### Artikel 4.49. Verliesverrekening
 
 1. Het verlies uit aanmerkelijk belang wordt verrekend met de inkomens uit aanmerkelijk belang van het voorafgaande kalenderjaar en de zes volgende kalenderjaren.
 
@@ -3845,7 +3873,7 @@ Voor de toepassing van deze afdeling worden inkomen uit aanmerkelijk belang en v
 
 4. Het verlies uit aanmerkelijk belang voorzover dit is voortgevloeid uit de toerekening van gemeenschappelijke inkomensbestanddelen aan de belastingplichtige en niet kan worden verrekend met inkomens uit aanmerkelijk belang van de jaren waarin de belastingplichtige een partner heeft, wordt ingeval het partnerschap door het overlijden van de belastingplichtige eindigt aangemerkt als verlies uit aanmerkelijk belang van de partner mits zowel de belastingplichtige als zijn partner op het tijdstip van beëindiging binnenlandse belastingplichtige of kwalificerende buitenlandse belastingplichtige als bedoeld in [artikel 7.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=7&afdeling=7.5&artikel=7.8&z=2026-02-21&g=2026-02-21) was.
 
-#### Artikel 4.50. Vaststelling verlies
+##### Artikel 4.50. Vaststelling verlies
 
 1. De inspecteur stelt het bedrag van een verlies uit aanmerkelijk belang vast bij voor bezwaar vatbare beschikking.
 
@@ -3859,7 +3887,7 @@ Voor de toepassing van deze afdeling worden inkomen uit aanmerkelijk belang en v
 
 6. [Artikel 16, tweede lid, aanhef en onderdelen b en c, derde en vierde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=16) is van overeenkomstige toepassing op herziening.
 
-#### Artikel 4.51. Formalisering achterwaartse verliesverrekening
+##### Artikel 4.51. Formalisering achterwaartse verliesverrekening
 
 1. Verrekening van verlies uit aanmerkelijk belang met inkomen uit aanmerkelijk belang van een voorafgaand kalenderjaar vindt plaats door vermindering van de aanslag bij voor bezwaar vatbare beschikking van de inspecteur.
 
@@ -3873,7 +3901,7 @@ Voor de toepassing van deze afdeling worden inkomen uit aanmerkelijk belang en v
 
 6. Voorlopige verliesverrekeningen worden verrekend bij de in het eerste lid bedoelde beschikking of, indien een dergelijke beschikking niet wordt vastgesteld, met de aanslag over het jaar waarover het verlies dat tot een voorlopige verliesverrekening heeft geleid, is aangegeven.
 
-#### Artikel 4.52. Formalisering voorwaartse verliesverrekening
+##### Artikel 4.52. Formalisering voorwaartse verliesverrekening
 
 1. Verrekening van een verlies uit aanmerkelijk belang met het inkomen uit aanmerkelijk belang van een volgend kalenderjaar vindt plaats bij voor bezwaar vatbare beschikking van de inspecteur.
 
@@ -3883,7 +3911,7 @@ Voor de toepassing van deze afdeling worden inkomen uit aanmerkelijk belang en v
 
 4. Rechtsmiddelen tegen de beschikking kunnen uitsluitend betrekking hebben op de toepassing van [artikel 4.49](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.10&artikel=4.49&z=2026-02-21&g=2026-02-21), en, indien geen belasting is verschuldigd, tegen de grootte van het verrekende bedrag.
 
-#### Artikel 4.53. Omzetting verlies bij einde aanmerkelijk belang in een belastingkorting
+##### Artikel 4.53. Omzetting verlies bij einde aanmerkelijk belang in een belastingkorting
 
 1. Indien de belastingplichtige en zijn **partner** in het kalenderjaar en het daaraan voorafgaande kalenderjaar geen aanmerkelijk belang hebben, wordt een nog niet verrekend verlies uit aanmerkelijk belang op verzoek van de belastingplichtige omgezet in een belastingkorting voor verlies uit aanmerkelijk belang. Ingeval de belastingplichtige geen partner heeft en in het kalenderjaar is overleden, geldt in afwijking van de eerste volzin slechts als voorwaarde voor het indienen van een verzoek tot omzetting van een nog niet verrekend verlies uit aanmerkelijk belang in een belastingkorting, dat de belastingplichtige ten tijde van het overlijden geen aanmerkelijk belang heeft.
 
@@ -3899,11 +3927,11 @@ Voor de toepassing van deze afdeling worden inkomen uit aanmerkelijk belang en v
 
 ### Afdeling 5.1. Belastbaar inkomen uit sparen en beleggen
 
-#### Artikel 5.1. Belastbaar inkomen uit sparen en beleggen
+##### Artikel 5.1. Belastbaar inkomen uit sparen en beleggen
 
 Belastbaar inkomen uit sparen en beleggen is het voordeel uit sparen en beleggen verminderd met de persoonsgebonden aftrek ([hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=6&z=2026-02-21&g=2026-02-21)).
 
-#### Artikel 5.2. Voordeel uit sparen en beleggen
+##### Artikel 5.2. Voordeel uit sparen en beleggen
 
 1. Het voordeel uit sparen en beleggen wordt gesteld op het product van het effectieve rendementspercentage, bedoeld in het tweede lid, en de grondslag sparen en beleggen. De grondslag sparen en beleggen is de rendementsgrondslag aan het begin van het kalenderjaar (peildatum) voor zover die rendementsgrondslag meer bedraagt dan het heffingvrije vermogen.
 
@@ -3929,7 +3957,7 @@ Belastbaar inkomen uit sparen en beleggen is het voordeel uit sparen en beleggen
 
 6. Indien de belastingplichtige bij het begin van het kalenderjaar nog niet binnenlands belastingplichtig is, of indien de binnenlandse belastingplicht gedurende het kalenderjaar anders dan door overlijden eindigt, wordt eveneens uitgegaan van de rendementsgrondslag aan het begin van het kalenderjaar maar wordt het voordeel uit sparen en beleggen naar tijdsgelang herleid, waarbij gedeelten van kalendermaanden worden verwaarloosd.
 
-#### Artikel 5.3. Rendementsgrondslag
+##### Artikel 5.3. Rendementsgrondslag
 
 1. De rendementsgrondslag is de waarde van de bezittingen verminderd met de waarde van de schulden.
 
@@ -3965,7 +3993,7 @@ Bezittingen die voortvloeien uit de [Algemene wet inzake rijksbelastingen](https
 
 4. In afwijking van het derde lid, aanhef en onderdeel d, wordt niet in aanmerking genomen de verplichting die voortvloeit uit de [Successiewet 1956](onbekend) met betrekking tot de toepassing van [artikel 7 van de Natuurschoonwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=7) voor zover er geen sprake is van terstond invorderbare belasting als bedoeld in artikel 7, vijfde lid, van de Natuurschoonwet 1928.
 
-#### Artikel 5.4. Toedeling bij bepaalde verkrijgingen krachtens erfrecht
+##### Artikel 5.4. Toedeling bij bepaalde verkrijgingen krachtens erfrecht
 
 1. Tot de bezittingen behoren niet niet opeisbare geldvorderingen op de echtgenoot van een overleden ouder van de belastingplichtige:
 
@@ -4001,17 +4029,17 @@ Bezittingen die voortvloeien uit de [Algemene wet inzake rijksbelastingen](https
 
 8. Bezittingen die zijn verkregen onder de ontbindende voorwaarde van overlijden waarop een opschortende voorwaarde ten gunste van een verwachter aansluit, worden in aanmerking genomen als waren zij onvoorwaardelijk verkregen.
 
-#### Artikel 5.5. Heffingvrij vermogen
+##### Artikel 5.5. Heffingvrij vermogen
 
 Het heffingvrije vermogen bedraagt € 59.357.
 
-#### Artikel 5.6. Ouderentoeslag
+##### Artikel 5.6. Ouderentoeslag
 
 Vervallen
 
 ### Afdeling 5.2. Vrijstellingen
 
-#### Artikel 5.7. Vrijstelling bos- en natuurterreinen en landgoederen
+##### Artikel 5.7. Vrijstelling bos- en natuurterreinen en landgoederen
 
 1. Tot de bezittingen behoren niet:
 
@@ -4023,7 +4051,7 @@ Vervallen
 
 2. Bij algemene maatregel van bestuur kunnen regels worden gesteld over hetgeen onder natuurterrein wordt verstaan.
 
-#### Artikel 5.8. Vrijstelling voorwerpen van kunst en wetenschap
+##### Artikel 5.8. Vrijstelling voorwerpen van kunst en wetenschap
 
 1. Tot de bezittingen behoren niet voorwerpen van kunst en wetenschap, tenzij deze hoofdzakelijk als belegging dienen.
 
@@ -4031,11 +4059,11 @@ Vervallen
 
 3. Voorwerpen van kunst en wetenschap die deel uitmaken van een verzameling worden niet door dit enkele feit aangemerkt als belegging.
 
-#### Artikel 5.9. Vrijstelling rechten op roerende zaken krachtens erfrecht
+##### Artikel 5.9. Vrijstelling rechten op roerende zaken krachtens erfrecht
 
 Tot de bezittingen behoren niet de rechten op roerende zaken die krachtens erfrecht bij de belastingplichtige zijn opgekomen voorzover deze zaken door de belastingplichtige of personen die behoren tot zijn huishouden voor persoonlijke doeleinden worden gebruikt of verbruikt, tenzij deze rechten hoofdzakelijk als belegging dienen.
 
-#### Artikel 5.10. Vrijstelling bepaalde rechten
+##### Artikel 5.10. Vrijstelling bepaalde rechten
 
 Tot de bezittingen behoren niet:
 
@@ -4059,23 +4087,23 @@ Tot de bezittingen behoren niet:
 
 - 3°. aanspraken op vergoeding als bedoeld in de [artikelen 13ia, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13ia), [13ib, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13ib), en [13j, eerste lid, onderdeel b, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13j) voor zover deze aanspraken niet zijn gericht op de uitbetaling van geld aan de eigenaar.
 
-#### Artikel 5.11. Vrijstelling inzake spaarloonregeling
+##### Artikel 5.11. Vrijstelling inzake spaarloonregeling
 
 Vervallen
 
-#### Artikel 5.12. Vrijstelling kortlopende termijnen van inkomsten en verplichtingen
+##### Artikel 5.12. Vrijstelling kortlopende termijnen van inkomsten en verplichtingen
 
 Tot de bezittingen en schulden behoren niet lopende termijnen van inkomsten en verplichtingen die betrekking hebben op een tijdvak van een jaar of korter en waarvan het achterliggende vermogensbestanddeel eveneens in het bezit is van de belastingplichtige.
 
 ### Afdeling 5.2. Vrijstellingen
 
-#### Artikel 5.13. Vrijstelling groene beleggingen
+##### Artikel 5.13. Vrijstelling groene beleggingen
 
 1. Tot de bezittingen behoren niet groene beleggingen voor een bedrag van in totaal € 26.715. Indien de belastingplichtige het gehele kalenderjaar dezelfde **partner** heeft of voor de toepassing van [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=2&afdeling=2.4&artikel=2.17&z=2026-02-21&g=2026-02-21) geacht wordt te hebben gehad, wordt het in de eerste volzin genoemde bedrag voor de belastingplichtige en zijn partner gezamenlijk op € 53.430 gesteld.
 
 2. Indien een belastingplichtige zowel groene beleggingen in de vorm van een of meer banktegoeden als groene beleggingen in de vorm van overige bezittingen heeft, wordt het eerste lid toegepast op die overige bezittingen en uitsluitend voor de resterende ruimte op die banktegoeden.
 
-#### Artikel 5.14. Vrijstelling groene beleggingen
+##### Artikel 5.14. Vrijstelling groene beleggingen
 
 1. Groene beleggingen zijn aandelen in, winstbewijzen van en geldleningen aan aangewezen groene fondsen. Aanwijzing geschiedt op verzoek van het fonds bij voor bezwaar vatbare beschikking van de inspecteur. Bij ministeriële regeling worden regels gesteld met betrekking tot de aanwijzing en de intrekking van de aanwijzing.
 
@@ -4101,13 +4129,13 @@ Tot de bezittingen en schulden behoren niet lopende termijnen van inkomsten en v
 
 8. Bij ministeriële regeling kunnen in overeenstemming met Onze Minister van Infrastructuur en Waterstaat of Onze Minister van Landbouw, Natuur en Voedselkwaliteit nadere regels worden gesteld met betrekking tot de verklaring bedoeld in het derde lid. Het ontwerp van een ministeriële regeling bedoeld in het derde lid of in de vorige volzin wordt ten minste vier weken voordat de regeling wordt vastgesteld, toegezonden aan de Staten-Generaal.
 
-#### Artikel 5.15. Vrijstelling sociaal-ethische beleggingen
+##### Artikel 5.15. Vrijstelling sociaal-ethische beleggingen
 
 Vervallen
 
 ### Afdeling 5.2. Vrijstellingen
 
-#### Artikel 5.16. Vrijstelling nettolijfrenten
+##### Artikel 5.16. Vrijstelling nettolijfrenten
 
 1. Tot de bezittingen behoren niet nettolijfrenten.
 
@@ -4133,7 +4161,7 @@ indien de ter zake daarvan verschuldigde premie voldoet aan de in het derde lid 
 
 5. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de toepassing van dit artikel.
 
-#### Artikel 5.17. Vrijstelling nettopensioen
+##### Artikel 5.17. Vrijstelling nettopensioen
 
 1. Tot de bezittingen behoren niet aanspraken ingevolge een nettopensioenregeling.
 
@@ -4155,15 +4183,15 @@ indien de ter zake daarvan verschuldigde premie voldoet aan de in het derde lid 
 
 - c. nettowezenpensioen ([artikel 5.17c](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.3B&artikel=5.17c&z=2026-02-21&g=2026-02-21)).
 
-#### Artikel 5.18. Vrijstelling indirecte beleggingen in durfkapitaal
+##### Artikel 5.18. Vrijstelling indirecte beleggingen in durfkapitaal
 
 Vervallen
 
-#### Artikel 5.18a. Vrijstelling culturele beleggingen
+##### Artikel 5.18a. Vrijstelling culturele beleggingen
 
 Vervallen
 
-#### Artikel 5.18b. Vrijstelling MKB-beleggingen
+##### Artikel 5.18b. Vrijstelling MKB-beleggingen
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2012/321.
 
@@ -4199,7 +4227,7 @@ Een MKB-fonds is een op grond van het derde lid aangewezen beleggingsinstelling 
 
 ### Afdeling 5.3A. Vrijstelling nettolijfrenten
 
-#### Artikel 5.19. Waardering bezittingen en schulden; algemeen
+##### Artikel 5.19. Waardering bezittingen en schulden; algemeen
 
 1. Bezittingen en schulden worden in aanmerking genomen voor de waarde in het economische verkeer.
 
@@ -4209,7 +4237,7 @@ Een MKB-fonds is een op grond van het derde lid aangewezen beleggingsinstelling 
 
 4. **Genotsrechten** die zijn verleend tegen een zakelijke vergoeding die wordt voldaan in regelmatig vervallende termijnen die betrekking hebben op een tijdvak van ten hoogste een jaar, worden gewaardeerd op nihil. De eerste volzin is van overeenkomstige toepassing op schulden die corresponderen met de aldaar bedoelde genotsrechten.
 
-#### Artikel 5.20. Waardering woningen andere dan eigen woningen
+##### Artikel 5.20. Waardering woningen andere dan eigen woningen
 
 1. De waarde van een woning, wordt, in afwijking van [artikel 5.19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.4&artikel=5.19&z=2026-02-21&g=2026-02-21), gesteld op de volgens [hoofdstuk IV van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV) voor die woning vastgestelde waarde of waarden voor het kalenderjaar. Indien de woning deel uitmaakt van een onroerende zaak als bedoeld in [artikel 16 van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=16), wordt de waarde van de woning gesteld op het gedeelte van de waarde van de onroerende zaak dat kan worden toegerekend aan de woning.
 
@@ -4225,11 +4253,11 @@ Een MKB-fonds is een op grond van het derde lid aangewezen beleggingsinstelling 
 
 - b. gelieerde partijen die een zodanige huurprijs of pachtprijs zijn overeengekomen dat deze tussen willekeurige derden niet zou zijn overeengekomen.
 
-#### Artikel 5.21. Waardering effecten
+##### Artikel 5.21. Waardering effecten
 
 Voor de waardering van effecten die zijn opgenomen in enige bij ministeriële regeling aangewezen prijscourant wordt de waarde in het economische verkeer op de peildatum gesteld op de slotnotering die is vermeld in de prijscourant die betrekking heeft op de laatste beursdag van het voorafgaande kalenderjaar.
 
-#### Artikel 5.22. Waardering genotsrechten
+##### Artikel 5.22. Waardering genotsrechten
 
 1. Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot de in aanmerking te nemen waarde van **genotsrechten**.
 
@@ -4239,7 +4267,7 @@ Voor de waardering van effecten die zijn opgenomen in enige bij ministeriële re
 
 4. Indien een genotsrecht is gevestigd in de vorm van verstrekkingen als bedoeld in [artikel 3.101, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.5&artikel=3.101&z=2026-02-21&g=2026-02-21), wordt voor de toepassing van het tweede lid de waarde van het genotsrecht op nihil gesteld.
 
-#### Artikel 5.23. Waardering: aanvullende regels
+##### Artikel 5.23. Waardering: aanvullende regels
 
 Bij algemene maatregel van bestuur kunnen, in het kader van dit hoofdstuk passende, regels worden gesteld ten behoeve van de waardering van bezittingen en schulden.
 
@@ -4247,7 +4275,7 @@ Bij algemene maatregel van bestuur kunnen, in het kader van dit hoofdstuk passen
 
 ### Afdeling 5.4. Waardering
 
-#### Artikel 6.1. Persoonsgebonden aftrek
+##### Artikel 6.1. Persoonsgebonden aftrek
 
 1. Persoonsgebonden aftrek is het gezamenlijke bedrag van:
 
@@ -4277,7 +4305,7 @@ Bij algemene maatregel van bestuur kunnen, in het kader van dit hoofdstuk passen
 
 4. Bij algemene maatregel van bestuur kunnen aanspraken op vergoedingen of tegemoetkomingen alsmede genoten of te genieten vergoedingen of tegemoetkomingen worden aangewezen die buiten beschouwing blijven bij de bepaling van de omvang van hetgeen op de belastingplichtige aan uitgaven drukt.
 
-#### Artikel 6.2. In aanmerking nemen persoonsgebonden aftrek
+##### Artikel 6.2. In aanmerking nemen persoonsgebonden aftrek
 
 1. De persoonsgebonden aftrek vermindert het inkomen uit werk en woning van het kalenderjaar, maar niet verder dan tot nihil.
 
@@ -4289,7 +4317,7 @@ Bij algemene maatregel van bestuur kunnen, in het kader van dit hoofdstuk passen
 
 5. Bij een vermindering worden allereerst de uitgaven voor specifieke zorgkosten, bedoeld in [artikel 6.1, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=6&afdeling=6.1&artikel=6.1&z=2026-02-21&g=2026-02-21), in aanmerking genomen.
 
-#### Artikel 6.2a. Vaststelling niet in aanmerking genomen persoonsgebonden aftrek
+##### Artikel 6.2a. Vaststelling niet in aanmerking genomen persoonsgebonden aftrek
 
 1. De inspecteur stelt het bedrag van de op enig tijdstip niet in aanmerking genomen persoonsgebonden aftrek vast bij voor bezwaar vatbare beschikking.
 
@@ -4303,13 +4331,13 @@ Bij algemene maatregel van bestuur kunnen, in het kader van dit hoofdstuk passen
 
 6. Rechtsmiddelen tegen de in het eerste lid bedoelde beschikking kunnen uitsluitend betrekking hebben op het bedrag, bedoeld in [artikel 6.1, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=6&afdeling=6.1&artikel=6.1&z=2026-02-21&g=2026-02-21). Rechtsmiddelen tegen de in het derde lid, tweede volzin, bedoelde beschikking kunnen uitsluitend betrekking hebben op het bedrag van de herziening.
 
-#### Artikel 6.2b. Vaststelling in aanmerking genomen buitengewone uitgaven bij nihil aanslag
+##### Artikel 6.2b. Vaststelling in aanmerking genomen buitengewone uitgaven bij nihil aanslag
 
 Vervallen
 
 ### Afdeling 6.2. Onderhoudsverplichtingen
 
-#### Artikel 6.3. Onderhoudsverplichtingen
+##### Artikel 6.3. Onderhoudsverplichtingen
 
 1. Onderhoudsverplichtingen zijn:
 
@@ -4327,7 +4355,7 @@ Vervallen
 
 2. Onderhoudsverplichtingen als bedoeld in het eerste lid, onderdeel a, e of f, worden ingeval deze de vorm hebben van periodieke verstrekkingen van huisvesting in een woning of een gedeelte van een woning en indien zij worden verstrekt door een beperkt gerechtigde tot die woning of dat gedeelte van een woning, bij hem in aanmerking genomen voor het bedrag waarvoor die verstrekkingen bij degene die deze geniet, in aanmerking worden genomen op de voet van [artikel 3.101, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.5&artikel=3.101&z=2026-02-21&g=2026-02-21).
 
-#### Artikel 6.4. Uitgesloten onderhoudsverplichtingen
+##### Artikel 6.4. Uitgesloten onderhoudsverplichtingen
 
 1. Tot de onderhoudsverplichtingen, bedoeld in [artikel 6.3, eerste lid, onderdelen e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=6&afdeling=6.2&artikel=6.3&z=2026-02-21&g=2026-02-21), behoren niet de periodieke uitkeringen en verstrekkingen die worden gedaan aan:
 
@@ -4339,7 +4367,7 @@ Vervallen
 
 3. Tot de onderhoudsverplichtingen, bedoeld in [artikel 6.3, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=6&afdeling=6.2&artikel=6.3&z=2026-02-21&g=2026-02-21), behoren niet rechten op periodieke uitkeringen en verstrekkingen die zijn toegekend door degene die tot de verrekening verplicht is.
 
-#### Artikel 6.5. Afkoop alimentatie door betaling lijfrentepremie
+##### Artikel 6.5. Afkoop alimentatie door betaling lijfrentepremie
 
 1. Tot de onderhoudsverplichtingen, bedoeld in [artikel 6.3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=6&afdeling=6.2&artikel=6.3&z=2026-02-21&g=2026-02-21), behoren afkoopsommen die worden gedaan in de vorm van een betaling van een premie voor een lijfrente aan een verzekeraar als bedoeld in [artikel 3.126, eerste lid, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.7&artikel=3.126&z=2026-02-21&g=2026-02-21).
 
@@ -4357,7 +4385,7 @@ Vervallen
 
 5. Dit artikel is van overeenkomstige toepassing met betrekking tot bedragen die worden overgemaakt naar een lijfrenterekening of een lijfrentebeleggingsrecht bij een bank, een beleggingsonderneming, een beheerder van een beleggingsinstelling of een instelling voor collectieve belegging in effecten als bedoeld in [artikel 3.126a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.7&artikel=3.126a&z=2026-02-21&g=2026-02-21), waarbij in afwijking van het tweede lid, onderdeel c, bij overlijden van de gewezen echtgenoot het recht op de nog niet uitgekeerde termijnen overgaat op een of meer erfgenamen of legatarissen van de gewezen echtgenoot.
 
-#### Artikel 6.6. Verrekening van pensioenrechten door betaling lijfrentepremie
+##### Artikel 6.6. Verrekening van pensioenrechten door betaling lijfrentepremie
 
 1. Tot de onderhoudsverplichtingen, bedoeld in [artikel 6.3, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=6&afdeling=6.2&artikel=6.3&z=2026-02-21&g=2026-02-21), behoren bedragen die worden voldaan ter zake van de verrekening van pensioenrechten in de vorm van een betaling van een premie voor een **lijfrente** als bedoeld in [artikel 3.125, eerste lid, aan een verzekeraar als bedoeld in artikel 3.126, eerste lid, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.7&artikel=3.125&z=2026-02-21&g=2026-02-21).
 
@@ -4371,7 +4399,7 @@ Vervallen
 
 6. Dit artikel is van overeenkomstige toepassing met betrekking tot bedragen die worden overgemaakt naar een lijfrenterekening of een lijfrentebeleggingsrecht bij een bank, een beleggingsonderneming, een beheerder van een beleggingsinstelling of een instelling voor collectieve belegging in effecten als bedoeld in [artikel 3.126a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.7&artikel=3.126a&z=2026-02-21&g=2026-02-21).
 
-#### Artikel 6.7. Uitbreiding familierechtelijke uitkeringen
+##### Artikel 6.7. Uitbreiding familierechtelijke uitkeringen
 
 1. Tot de onderhoudsverplichtingen, bedoeld in [artikel 6.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=6&afdeling=6.2&artikel=6.3&z=2026-02-21&g=2026-02-21), behoren de periodieke uitkeringen en verstrekkingen voorzover die zijn overeengekomen in het kader van echtscheiding of scheiding van tafel en bed ter verrekening van:
 
@@ -4385,47 +4413,47 @@ Vervallen
 
 ### Afdeling 5.4. Waardering
 
-#### Artikel 6.8. Verliezen op beleggingen in durfkapitaal
+##### Artikel 6.8. Verliezen op beleggingen in durfkapitaal
 
 Vervallen
 
-#### Artikel 6.9. Kwijtschelding binnen een bepaalde periode
+##### Artikel 6.9. Kwijtschelding binnen een bepaalde periode
 
 Vervallen
 
-#### Artikel 6.10. Omvang in aanmerking te nemen verliezen
+##### Artikel 6.10. Omvang in aanmerking te nemen verliezen
 
 Vervallen
 
-#### Artikel 6.11. Uitgesloten geldleningen
+##### Artikel 6.11. Uitgesloten geldleningen
 
 Vervallen
 
-#### Artikel 6.12. Tijdstip van aftrek van de verliezen
-
-Vervallen
-
-### Afdeling 6.1. Persoonsgebonden aftrek
-
-#### Artikel 6.13. Definitie
-
-Vervallen
-
-#### Artikel 6.14. Beperkingen
-
-Vervallen
-
-#### Artikel 6.15. Omvang in aanmerking te nemen uitgaven
+##### Artikel 6.12. Tijdstip van aftrek van de verliezen
 
 Vervallen
 
 ### Afdeling 6.1. Persoonsgebonden aftrek
 
-#### Artikel 6.16. Kring van personen waarvan specifieke zorgkosten in aanmerking worden genomen
+##### Artikel 6.13. Definitie
+
+Vervallen
+
+##### Artikel 6.14. Beperkingen
+
+Vervallen
+
+##### Artikel 6.15. Omvang in aanmerking te nemen uitgaven
+
+Vervallen
+
+### Afdeling 6.1. Persoonsgebonden aftrek
+
+##### Artikel 6.16. Kring van personen waarvan specifieke zorgkosten in aanmerking worden genomen
 
 Uitgaven voor specifieke zorgkosten worden in aanmerking genomen indien de uitgaven zijn gedaan voor de belastingplichtige, zijn partner, zijn jonger dan 27-jarige kinderen, tot zijn huishouden behorende ernstig gehandicapte personen van 27 jaar of ouder en bij de belastingplichtige inwonende zorgafhankelijke ouders, broers of zusters. Bij algemene maatregel van bestuur wordt bepaald wanneer een persoon voor de toepassing van deze afdeling als ernstig gehandicapt of als zorgafhankelijk wordt beschouwd.
 
-#### Artikel 6.17. Uitgaven voor specifieke zorgkosten
+##### Artikel 6.17. Uitgaven voor specifieke zorgkosten
 
 1. Uitgaven voor specifieke zorgkosten zijn de uitgaven die wegens ziekte of invaliditeit zijn gedaan voor:
 
@@ -4492,7 +4520,7 @@ Bij een verzamelinkomen vóór toepassing van de persoonsgebonden aftrek van
 
 - c. een behandeling door een bij ministeriële regeling aan te wijzen paramedicus, mits voor de behandeling een verklaring door de paramedicus is afgegeven die voldoet aan bij ministeriële regeling te stellen voorwaarden.
 
-#### Artikel 6.18. Beperkingen van uitgaven voor specifieke zorgkosten
+##### Artikel 6.18. Beperkingen van uitgaven voor specifieke zorgkosten
 
 1. Als uitgaven als bedoeld in [artikel 6.17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=6&afdeling=6.5&artikel=6.17&z=2026-02-21&g=2026-02-21), worden niet aangemerkt:
 
@@ -4518,7 +4546,7 @@ Bij een verzamelinkomen vóór toepassing van de persoonsgebonden aftrek van
 
 2. Het eerste lid, onderdelen g en h, is van overeenkomstige toepassing voor uitgaven die door de belastingplichtige zijn gedaan voor de in [artikel 6.16](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=6&afdeling=6.5&artikel=6.16&z=2026-02-21&g=2026-02-21) bedoelde personen.
 
-#### Artikel 6.19. Verhoging uitgaven voor specifieke zorgkosten
+##### Artikel 6.19. Verhoging uitgaven voor specifieke zorgkosten
 
 1. Het bedrag aan uitgaven, bedoeld in [artikel 6.17, eerste lid, onderdelen b tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=6&afdeling=6.5&artikel=6.17&z=2026-02-21&g=2026-02-21), wordt verhoogd met:
 
@@ -4532,7 +4560,7 @@ Indien het gezamenlijke bedrag van de verzamelinkomens van de belastingplichtige
 
 3. Het tweede lid is ook van toepassing indien de belastingplichtige op grond van [artikel 2.17, zevende lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=2&afdeling=2.4&artikel=2.17&z=2026-02-21&g=2026-02-21), geacht wordt het gehele kalenderjaar een partner te hebben gehad.
 
-#### Artikel 6.20. Omvang in aanmerking te nemen uitgaven voor specifieke zorgkosten
+##### Artikel 6.20. Omvang in aanmerking te nemen uitgaven voor specifieke zorgkosten
 
 1. Uitgaven voor specifieke zorgkosten worden in aanmerking genomen voor zover zij samen, na toepassing van de verhoging ingevolge [artikel 6.19](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=6&afdeling=6.5&artikel=6.19&z=2026-02-21&g=2026-02-21), meer bedragen dan:
 
@@ -4544,25 +4572,25 @@ Indien het gezamenlijke bedrag van de verzamelinkomens van de belastingplichtige
 
 2. Indien de belastingplichtige gedurende het gehele jaar een partner heeft, worden de uitgaven voor specifieke zorgkosten samengevoegd en geldt voor de toepassing van het eerste lid het gezamenlijke bedrag van de verzamelinkomens van de belastingplichtige en zijn partner vóór toepassing van de persoonsgebonden aftrek en wordt in het eerste lid, onderdeel a en onderdeel b, het bedrag van € 9.680 vervangen door € 19.360 en wordt in het eerste lid, onderdeel a, het bedrag van € 166 vervangen door € 332. De eerste volzin is ook van toepassing indien de belastingplichtige op grond van [artikel 2.17, zevende lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=2&afdeling=2.4&artikel=2.17&z=2026-02-21&g=2026-02-21), geacht wordt het gehele kalenderjaar een partner te hebben gehad.
 
-#### Artikel 6.21. Uitgaven wegens ouderdom
+##### Artikel 6.21. Uitgaven wegens ouderdom
 
 Vervallen
 
-#### Artikel 6.22. Uitgaven wegens chronische ziekte van een kind
+##### Artikel 6.22. Uitgaven wegens chronische ziekte van een kind
 
 Vervallen
 
-#### Artikel 6.23. Uitgaven wegens adoptie
+##### Artikel 6.23. Uitgaven wegens adoptie
 
 Vervallen
 
-#### Artikel 6.24. Omvang in aanmerking te nemen uitgaven
+##### Artikel 6.24. Omvang in aanmerking te nemen uitgaven
 
 Vervallen
 
 ### Afdeling 6.5. Uitgaven voor specifieke zorgkosten
 
-#### Artikel 6.25. Definities
+##### Artikel 6.25. Definities
 
 1. Weekenduitgaven voor gehandicapten zijn de extra uitgaven die door een belastingplichtige worden gedaan om zijn ernstig gehandicapte kind, broer of zus, een onder zijn mentorschap gestelde ernstig gehandicapte persoon of een onder curatele gestelde ernstig gehandicapte persoon voor zover hij als curator de persoonlijke belangen behartigt, te verzorgen, mits dit kind, deze broer, zus of persoon 21 jaar of ouder is en doorgaans in een inrichting verblijft.
 
@@ -4576,37 +4604,37 @@ Vervallen
 
 3. Bij algemene maatregel van bestuur wordt bepaald wanneer een kind, broer, zus of onder mentorschap of curatele van de belastingplichtige gestelde persoon voor de toepassing van dit artikel als ernstig gehandicapt wordt beschouwd.
 
-#### Artikel 6.26. Het in aanmerking te nemen bedrag
+##### Artikel 6.26. Het in aanmerking te nemen bedrag
 
 Weekenduitgaven voor gehandicapten worden in aanmerking genomen tot een bedrag bepaald volgens bij ministeriële regeling te stellen regels.
 
 ### Afdeling 6.4. Uitgaven voor levensonderhoud van kinderen
 
-#### Artikel 6.27. Scholingsuitgaven
+##### Artikel 6.27. Scholingsuitgaven
 
 Vervallen
 
-#### Artikel 6.28. Beperkingen
+##### Artikel 6.28. Beperkingen
 
 Vervallen
 
-#### Artikel 6.29. Studiefinanciering
+##### Artikel 6.29. Studiefinanciering
 
 Vervallen
 
-#### Artikel 6.30. Omvang in aanmerking te nemen uitgaven
-
-Vervallen
-
-### Afdeling 6.6. Weekenduitgaven voor gehandicapten
-
-#### Artikel 6.31. Uitgaven voor monumentenpanden
+##### Artikel 6.30. Omvang in aanmerking te nemen uitgaven
 
 Vervallen
 
 ### Afdeling 6.6. Weekenduitgaven voor gehandicapten
 
-#### Artikel 6.32. Aftrekbare giften
+##### Artikel 6.31. Uitgaven voor monumentenpanden
+
+Vervallen
+
+### Afdeling 6.6. Weekenduitgaven voor gehandicapten
+
+##### Artikel 6.32. Aftrekbare giften
 
 Aftrekbare **giften** zijn:
 
@@ -4614,7 +4642,7 @@ Aftrekbare **giften** zijn:
 
 - b. andere giften.
 
-#### Artikel 6.33. Definities
+##### Artikel 6.33. Definities
 
 In deze afdeling en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -4624,15 +4652,15 @@ In deze afdeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. **verenigingen**: niet aan de vennootschapsbelasting onderworpen of daarvan vrijgestelde verenigingen met volledige rechtsbevoegdheid en met ten minste 25 leden, gevestigd in een lidstaat van de Europese Unie, Aruba, Curaçao, Sint Maarten, een bij ministeriële regeling aangewezen mogendheid of op de BES eilanden.
 
-#### Artikel 6.34. Periodieke giften
+##### Artikel 6.34. Periodieke giften
 
 Periodieke **giften** zijn giften in de vorm van vaste en gelijkmatige periodieke uitkeringen die eindigen uiterlijk bij overlijden, aan instellingen of verenigingen.
 
-#### Artikel 6.35. Andere giften
+##### Artikel 6.35. Andere giften
 
 Andere **giften** zijn giften aan instellingen of aan steunstichtingen SBBI.
 
-#### Artikel 6.36. Afzien van vergoedingen
+##### Artikel 6.36. Afzien van vergoedingen
 
 1. **Giften** die bestaan uit het afzien door een vrijwilliger als bedoeld in [artikel 2, zesde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=2) van een vergoeding, worden in aanmerking genomen indien:
 
@@ -4648,7 +4676,7 @@ Andere **giften** zijn giften aan instellingen of aan steunstichtingen SBBI.
 
 3. Indien giften op grond van het eerste lid in aanmerking worden genomen, kunnen giften op grond van het tweede lid aan dezelfde instelling slechts in aanmerking worden genomen voor zover de daadwerkelijk gemaakte kosten hoger zijn dan de in het eerste lid bedoelde vergoeding.
 
-#### Artikel 6.37. Geen gift
+##### Artikel 6.37. Geen gift
 
 Voor de toepassing van deze afdeling en de daarop berustende bepalingen wordt onder een gift niet verstaan:
 
@@ -4656,7 +4684,7 @@ Voor de toepassing van deze afdeling en de daarop berustende bepalingen wordt on
 
 - b. een bevoordeling of bijdrage die wordt betaald, verrekend of ter beschikking gesteld bij of na het overlijden van de belastingplichtige dan wel op een daarmee samenhangend tijdstip.
 
-#### Artikel 6.38. Het in aanmerking nemen van periodieke giften
+##### Artikel 6.38. Het in aanmerking nemen van periodieke giften
 
 1. Periodieke **giften** worden in aanmerking genomen indien zij berusten op een bij notariële of onderhandse akte van schenking aangegane verplichting om de uitkeringen of verstrekkingen gedurende vijf of meer jaren ten minste jaarlijks uit te keren.
 
@@ -4682,7 +4710,7 @@ Voor de toepassing van deze afdeling en de daarop berustende bepalingen wordt on
 
 8. Bij ministeriële regeling worden regels gesteld waaraan de akte van schenking, alsmede het taxatierapport, onderscheidenlijk de factuur, moet voldoen.
 
-#### Artikel 6.39. Het in aanmerking nemen van andere giften
+##### Artikel 6.39. Het in aanmerking nemen van andere giften
 
 1. Andere **giften** worden in aanmerking genomen voor zover zij met schriftelijke bescheiden kunnen worden gestaafd en voor zover zij samen zowel € 60 als 1% van het verzamelinkomen vóór toepassing van de persoonsgebonden aftrek te boven gaan, en vervolgens tot ten hoogste 10% van het verzamelinkomen vóór toepassing van de persoonsgebonden aftrek.
 
@@ -4698,7 +4726,7 @@ Voor de toepassing van deze afdeling en de daarop berustende bepalingen wordt on
 
 5. Indien de belastingplichtige gedurende een deel van het kalenderjaar een partner heeft en zij een keuze als bedoeld in [artikel 2.17, zevende lid, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=2&afdeling=2.4&artikel=2.17&z=2026-02-21&g=2026-02-21) hebben gemaakt, wordt de belastingplichtige voor de toepassing van het vierde lid geacht gedurende het gehele kalenderjaar een partner te hebben gehad.
 
-#### Artikel 6.39a. Giften aan culturele instellingen
+##### Artikel 6.39a. Giften aan culturele instellingen
 
 1. Het bedrag van giften aan culturele instellingen wordt voor de bepaling van het voor de toepassing van deze afdeling in aanmerking te nemen bedrag verhoogd met 25%, doch ten hoogste met € 1250.
 
@@ -4708,7 +4736,7 @@ Voor de toepassing van deze afdeling en de daarop berustende bepalingen wordt on
 
 ### Afdeling 6.7. Scholingsuitgaven
 
-#### Artikel 6.40. Tijdstip aftrek
+##### Artikel 6.40. Tijdstip aftrek
 
 1. Voorzover in deze wet niet anders is bepaald, komen uitgaven ter zake van persoonsgebonden aftrekposten voor aftrek in aanmerking op het tijdstip waarop zij zijn:
 
@@ -4726,7 +4754,7 @@ Voor de toepassing van deze afdeling en de daarop berustende bepalingen wordt on
 
 ### Afdeling 6.4. Uitgaven voor levensonderhoud van kinderen
 
-#### Artikel 7.1. Nederlands inkomen
+##### Artikel 7.1. Nederlands inkomen
 
 Ten aanzien van de buitenlandse belastingplichtige wordt de inkomstenbelasting geheven over het door hem in het kalenderjaar genoten:
 
@@ -4738,7 +4766,7 @@ Ten aanzien van de buitenlandse belastingplichtige wordt de inkomstenbelasting g
 
 ### Afdeling 6.8. Uitgaven voor monumentenpanden
 
-#### Artikel 7.2. Belastbaar inkomen uit werk en woning
+##### Artikel 7.2. Belastbaar inkomen uit werk en woning
 
 1. Het belastbare inkomen uit werk en woning in Nederland is het inkomen uit werk en woning in Nederland verminderd met de verliezen uit werk en woning, berekend overeenkomstig de regels van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&z=2026-02-21&g=2026-02-21).
 
@@ -4824,17 +4852,17 @@ Voor de toepassing van het tweede lid, onderdeel b, wordt onder het in Nederland
 
 20. Indien een onderneming door een buitenlandse belastingplichtige met toepassing van [artikel 3.65, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.65&z=2026-02-21&g=2026-02-21), wordt omgezet in de vorm van een door een naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid gedreven onderneming, wordt in afwijking van artikel 3.65, eerste lid, voor de toepassing van het tweede lid, onderdeel a, onder de belastbare winst uit Nederlandse onderneming mede begrepen de waarde in het economische verkeer van de omgezette onderneming op het tijdstip van die omzetting, verminderd met de boekwaarde van die onderneming op dat tijdstip van omzetting, alsmede verminderd met de positieve voordelen dan wel vermeerderd met de negatieve voordelen die, zonder de toepassing van artikel 3.65, eerste lid, zouden zijn vrijgesteld door de toepassing van de [artikelen 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.11&z=2026-02-21&g=2026-02-21) of [3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.12&z=2026-02-21&g=2026-02-21).
 
-#### Artikel 7.3. Vrijstelling internationaal verkeer
+##### Artikel 7.3. Vrijstelling internationaal verkeer
 
 Tot het drijven van een Nederlandse onderneming behoort niet het vervoer te water of door de lucht van personen en zaken tussen plaatsen buiten Nederland en plaatsen in Nederland, en tussen plaatsen buiten Nederland onderling (vervoer in het internationaal verkeer), tenzij de leiding van de onderneming in Nederland is gevestigd.
 
-#### Artikel 7.4. Werkzaamheden buitengaats
+##### Artikel 7.4. Werkzaamheden buitengaats
 
 Werkzaamheden die in het kader van een onderneming worden verricht gedurende een aaneengesloten periode van ten minste 30 dagen in, op of boven het Noordzeewinningsgebied, vormen een Nederlandse onderneming. Het Noordzeewinningsgebied bestaat uit de territoriale zee van Nederland alsmede het buiten de territoriale zee onder de Noordzee gelegen deel van de zeebodem en de ondergrond daarvan, voorzover het Koninkrijk der Nederlanden daar op grond van het internationale recht rechten mag uitoefenen.
 
 ### Afdeling 6.8. Uitgaven voor monumentenpanden
 
-#### Artikel 7.5. Belastbaar inkomen uit aanmerkelijk belang
+##### Artikel 7.5. Belastbaar inkomen uit aanmerkelijk belang
 
 1. Het belastbare inkomen uit aanmerkelijk belang in een in Nederland gevestigde vennootschap is het inkomen uit een niet tot het vermogen van een onderneming behorend aanmerkelijk belang in een in Nederland gevestigde vennootschap, verminderd met de verliezen uit aanmerkelijk belang, berekend volgens de regels van [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&z=2026-02-21&g=2026-02-21), met uitzondering van de in [artikel 4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.4&artikel=4.12&z=2026-02-21&g=2026-02-21) genoemde persoonsgebonden aftrek. Voor de beoordeling van de vraag of er een aanmerkelijk belang is, is [artikel 1.2, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=1&artikel=1.2&z=2026-02-21&g=2026-02-21), niet van toepassing. Voor de toepassing van de eerste volzin is [afdeling 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.2&z=2026-02-21&g=2026-02-21) van overeenkomstige toepassing.
 
@@ -4852,7 +4880,7 @@ Werkzaamheden die in het kader van een onderneming worden verricht gedurende een
 
 8. [Artikel 4.14a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.2&artikel=4.14a&z=2026-02-21&g=2026-02-21), is niet van toepassing, indien de belastingplichtige door een vervreemding als bedoeld in het zevende lid niet langer een aanmerkelijk belang heeft.
 
-#### Artikel 7.6. Verkrijgingsprijs aanmerkelijk belang
+##### Artikel 7.6. Verkrijgingsprijs aanmerkelijk belang
 
 1. Als verkrijgingsprijs van aandelen en winstbewijzen die tot een aanmerkelijk belang behoren, geldt de waarde in het economische verkeer op het tijdstip waarop de binnenlandse belastingplicht in Nederland is geëindigd, indien bij de beëindiging van de binnenlandse belastingplicht van de belastingplichtige vervreemdingsvoordelen in aanmerking zijn genomen.
 
@@ -4864,7 +4892,7 @@ Werkzaamheden die in het kader van een onderneming worden verricht gedurende een
 
 ### Afdeling 7.1. Nederlands inkomen
 
-#### Artikel 7.7. Belastbaar inkomen uit sparen en beleggen
+##### Artikel 7.7. Belastbaar inkomen uit sparen en beleggen
 
 1. Het belastbaar inkomen uit sparen en beleggen in Nederland is het voordeel dat een belastingplichtige geniet uit sparen en beleggen in Nederland, berekend volgens de regels van [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&z=2026-02-21&g=2026-02-21), met uitzondering van de in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.1&artikel=5.1&z=2026-02-21&g=2026-02-21) genoemde persoonsgebonden aftrek. Het voordeel uit sparen en beleggen in Nederland wordt gesteld op het met overeenkomstige toepassing van de regels van [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&z=2026-02-21&g=2026-02-21) bepaalde rendement van de rendementsgrondslag in Nederland.
 
@@ -4888,7 +4916,7 @@ Werkzaamheden die in het kader van een onderneming worden verricht gedurende een
 
 ### Afdeling 6.10. Tijdstip aftrek
 
-#### Artikel 8.1. Definities
+##### Artikel 8.1. Definities
 
 1. In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -4912,7 +4940,7 @@ Werkzaamheden die in het kader van een onderneming worden verricht gedurende een
 
 - d. uitkeringen op grond van de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008) en aanvullingen daarop door degene tot wie de belastingplichtige in dienstbetrekking staat.
 
-#### Artikel 8.2. Bedrag van de standaardheffingskorting
+##### Artikel 8.2. Bedrag van de standaardheffingskorting
 
 De standaardheffingskorting is het gezamenlijke bedrag van:
 
@@ -4940,31 +4968,31 @@ De standaardheffingskorting is het gezamenlijke bedrag van:
 
 - l. de korting voor groene beleggingen ([artikel 8.19](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=8&afdeling=8.2&artikel=8.19&z=2026-02-21&g=2026-02-21)).
 
-#### Artikel 8.3. Berekening heffingskorting voor de inkomstenbelasting
+##### Artikel 8.3. Berekening heffingskorting voor de inkomstenbelasting
 
 De heffingskorting voor de inkomstenbelasting is het deel van de standaardheffingskorting dat tot de standaardheffingskorting in dezelfde verhouding staat als het **belastingtarief eerste schijf** staat tot het **gecombineerde heffingspercentage**.
 
-#### Artikel 8.4. Berekening heffingskorting voor de algemene ouderdomsverzekering
+##### Artikel 8.4. Berekening heffingskorting voor de algemene ouderdomsverzekering
 
 De heffingskorting voor de algemene ouderdomsverzekering is het deel van de standaardheffingskorting dat tot de standaardheffingskorting in dezelfde verhouding staat als het volgens [artikel 11, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=11) vastgestelde premiepercentage voor de algemene ouderdomsverzekering staat tot het **gecombineerde heffingspercentage**.
 
-#### Artikel 8.5. Berekening heffingskorting voor de nabestaandenverzekering
+##### Artikel 8.5. Berekening heffingskorting voor de nabestaandenverzekering
 
 De heffingskorting voor de nabestaandenverzekering is het deel van de standaardheffingskorting dat tot de standaardheffingskorting in dezelfde verhouding staat als het volgens [artikel 11, tweede lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=11) vastgestelde premiepercentage voor de nabestaandenverzekering staat tot het **gecombineerde heffingspercentage**.
 
-#### Artikel 8.6. Berekening heffingskorting voor de verzekering langdurige zorg
+##### Artikel 8.6. Berekening heffingskorting voor de verzekering langdurige zorg
 
 De heffingskorting voor de verzekering langdurige zorg is het deel van de standaardheffingskorting dat tot de standaardheffingskorting in dezelfde verhouding staat als het volgens [artikel 11, derde lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=11) vastgestelde premiepercentage voor de verzekering langdurige zorg staat tot het **gecombineerde heffingspercentage**.
 
-#### Artikel 8.7. Bijzondere regels voor de berekening van de heffingskortingen
+##### Artikel 8.7. Bijzondere regels voor de berekening van de heffingskortingen
 
 Bij de toepassing van [artikel 8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=8&afdeling=8.1&artikel=8.3&z=2026-02-21&g=2026-02-21), [artikel 8.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=8&afdeling=8.1&artikel=8.5&z=2026-02-21&g=2026-02-21) en [artikel 8.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=8&afdeling=8.1&artikel=8.6&z=2026-02-21&g=2026-02-21) op het deel van de standaardheffingskorting dat op de ouderenkorting, de alleenstaande ouderenkorting, of de korting voor groene beleggingen betrekking heeft, wordt het **gecombineerde heffingspercentage**verminderd met het volgens [artikel 11, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=11) voor de algemene ouderdomsverzekering vastgestelde premiepercentage. In dat geval wordt het aan de heffingskorting voor de algemene ouderdomsverzekering toerekenbare deel van de ouderenkorting, de alleenstaande ouderenkorting en de korting voor groene beleggingen in afwijking van [artikel 8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=8&afdeling=8.1&artikel=8.4&z=2026-02-21&g=2026-02-21) op nihil gesteld.
 
-#### Artikel 8.8. Maximum gecombineerde heffingskorting
+##### Artikel 8.8. Maximum gecombineerde heffingskorting
 
 De **gecombineerde heffingskorting** bedraagt maximaal het bedrag van de **gecombineerde inkomensheffing.**
 
-#### Artikel 8.9. Verhoging maximum gecombineerde heffingskorting bij minstverdienende partner
+##### Artikel 8.9. Verhoging maximum gecombineerde heffingskorting bij minstverdienende partner
 
 1. Indien ten aanzien van de belastingplichtige die geboren is vóór 1 januari 1963 de gecombineerde heffingskorting door [artikel 8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=8&afdeling=8.1&artikel=8.8&z=2026-02-21&g=2026-02-21) wordt beperkt tot een bedrag beneden het bedrag van de voor de belastingplichtige geldende algemene heffingskorting (toetsniveau) wordt, indien de belastingplichtige in het kalenderjaar gedurende meer dan zes maanden dezelfde partner heeft, de gecombineerde heffingskorting daarna verhoogd tot het toetsniveau. De verhoging bedraagt echter maximaal het bedrag van de door de partner verschuldigde gecombineerde inkomensheffing verminderd met zijn gecombineerde heffingskorting.
 
@@ -4972,7 +5000,7 @@ De **gecombineerde heffingskorting** bedraagt maximaal het bedrag van de **gecom
 
 3. De belastingplichtige die uitsluitend door zijn overlijden in het kalenderjaar of het overlijden van zijn partner niet voldoet aan de voorwaarde van het eerste lid inzake het gedurende meer dan zes maanden hebben van dezelfde partner in het kalenderjaar wordt, voor de toepassing van dit artikel, geacht meer dan zes maanden dezelfde partner te hebben gehad.
 
-#### Artikel 8.9a. Bijzondere verhoging heffingskorting voor de inkomstenbelasting voor niet-premieplichtigen
+##### Artikel 8.9a. Bijzondere verhoging heffingskorting voor de inkomstenbelasting voor niet-premieplichtigen
 
 1. De bijzondere verhoging van de heffingskorting voor de inkomstenbelasting geldt voor de belastingplichtige die recht heeft op de verhoging van de gecombineerde heffingskorting, bedoeld in [artikel 8.9](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=8&afdeling=8.1&artikel=8.9&z=2026-02-21&g=2026-02-21), maar die deze verhoging als niet-premieplichtige niet volledig kan effectueren.
 
@@ -4982,13 +5010,13 @@ De **gecombineerde heffingskorting** bedraagt maximaal het bedrag van de **gecom
 
 ### Afdeling 6.9. Aftrekbare giften
 
-#### Artikel 8.10. Algemene heffingskorting
+##### Artikel 8.10. Algemene heffingskorting
 
 1. De algemene heffingskorting geldt voor iedere belastingplichtige.
 
 2. De algemene heffingskorting bedraagt € 3.115, verminderd, doch niet verder dan tot nihil, met 6,398% van het gedeelte van het verzamelinkomen dat meer bedraagt dan € 29.736.
 
-#### Artikel 8.11. Arbeidskorting
+##### Artikel 8.11. Arbeidskorting
 
 1. De arbeidskorting geldt voor de belastingplichtige die **arbeidsinkomen** geniet.
 
@@ -5004,19 +5032,19 @@ De **gecombineerde heffingskorting** bedraagt maximaal het bedrag van de **gecom
 
 Ingeval het **arbeidsinkomen** niet meer bedraagt dan € 45.592, bedraagt de arbeidskorting ten minste de volgens [artikel 22a van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=22a) toegekende arbeidskorting ter zake van het loon dat wordt belast volgens de loonbelastingtabellen, bedoeld in [artikel 25, tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=25), maar maximaal het in de eerste volzin, onderdeel c, als tweede vermelde bedrag.
 
-#### Artikel 8.12. **Werkbonus**
+##### Artikel 8.12. **Werkbonus**
 
 Vervallen
 
-#### Artikel 8.13. Aanvullende kinderkorting
+##### Artikel 8.13. Aanvullende kinderkorting
 
 Vervallen
 
-#### Artikel 8.14. Combinatiekorting
+##### Artikel 8.14. Combinatiekorting
 
 Vervallen
 
-#### Artikel 8.14a. Inkomensafhankelijke combinatiekorting
+##### Artikel 8.14a. Inkomensafhankelijke combinatiekorting
 
 1. De inkomensafhankelijke combinatiekorting geldt voor de belastingplichtige indien:
 
@@ -5040,55 +5068,55 @@ Indien een kind gedurende het kalenderjaar in de huishoudens van diens beide oud
 
 - b. degene die ten minste zes maanden op hetzelfde woonadres als de belastingplichtige verblijft en uitsluitend door het ontbreken van een inschrijving op dit woonadres in de basisregistratie personen niet als partner in de zin van [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=1&artikel=1.2&z=2026-02-21&g=2026-02-21) wordt aangemerkt.
 
-#### Artikel 8.14b. Ouderschapsverlofkorting
+##### Artikel 8.14b. Ouderschapsverlofkorting
 
 Vervallen
 
-#### Artikel 8.15. Alleenstaande-ouderkorting
+##### Artikel 8.15. Alleenstaande-ouderkorting
 
 Vervallen
 
-#### Artikel 8.16. Aanvullende alleenstaande-ouderkorting
+##### Artikel 8.16. Aanvullende alleenstaande-ouderkorting
 
 Vervallen
 
-#### Artikel 8.16a. Jonggehandicaptenkorting
+##### Artikel 8.16a. Jonggehandicaptenkorting
 
 1. De jonggehandicaptenkorting geldt voor de belastingplichtige die in het kalenderjaar op grond van de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) recht heeft op toekenning van een uitkering of op arbeidsondersteuning, tenzij voor hem de ouderenkorting geldt.
 
 2. De jonggehandicaptenkorting bedraagt € 923.
 
-#### Artikel 8.17. Ouderenkorting
+##### Artikel 8.17. Ouderenkorting
 
 1. De ouderenkorting geldt voor de belastingplichtige die bij het einde van het kalenderjaar, of indien de belastingplicht in de loop van het jaar is geëindigd, bij het einde van de belastingplicht, de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), heeft bereikt.
 
 2. De ouderenkorting bedraagt € 2.067, verminderd, doch niet verder dan tot nihil, met 15% van het verzamelinkomen voor zover dat meer bedraagt dan € 46.002.
 
-#### Artikel 8.18. Alleenstaande ouderenkorting
+##### Artikel 8.18. Alleenstaande ouderenkorting
 
 1. De alleenstaande ouderenkorting geldt voor de belastingplichtige indien hij in het kalenderjaar in aanmerking komt voor een uitkering als bedoeld in [artikel 9, eerste lid, onderdeel a, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=9), of daarvoor in aanmerking zou komen indien hij zou voldoen aan de voorwaarde van [artikel 7, eerste lid, onderdeel b, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7).
 
 2. De alleenstaande ouderenkorting bedraagt € 540.
 
-#### Artikel 8.18a. Levensloopverlofkorting
+##### Artikel 8.18a. Levensloopverlofkorting
 
 Vervallen
 
-#### Artikel 8.19. Korting voor groene beleggingen
+##### Artikel 8.19. Korting voor groene beleggingen
 
 1. De korting voor groene beleggingen geldt voor de belastingplichtige van wie groene beleggingen zijn vrijgesteld op grond van [artikel 5.13](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.3&artikel=5.13&z=2026-02-21&g=2026-02-21). Voor de belastingplichtige en zijn **partner** bij wie ingevolge artikel 5.13 een gezamenlijke vrijstelling voor groene beleggingen in aanmerking is genomen, geldt de korting voor de belastingplichtige en zijn partner gezamenlijk.
 
 2. De korting voor groene beleggingen bedraagt 0,1% van het bedrag dat ingevolge [artikel 5.13](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.3&artikel=5.13&z=2026-02-21&g=2026-02-21) op de peildatum is vrijgesteld.
 
-#### Artikel 8.20. Korting voor directe beleggingen in durfkapitaal en culturele beleggingen
+##### Artikel 8.20. Korting voor directe beleggingen in durfkapitaal en culturele beleggingen
 
 Vervallen
 
-#### Artikel 8.21. Toetrederskorting
+##### Artikel 8.21. Toetrederskorting
 
 Vervallen
 
-#### Artikel 8.22. Toeslag voor MKB-beleggingen
+##### Artikel 8.22. Toeslag voor MKB-beleggingen
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2011/873..
 
@@ -5100,7 +5128,7 @@ Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 20
 
 ### Afdeling 7.3. Belastbaar inkomen uit aanmerkelijk belang
 
-#### Artikel 9.1. Heffing bij wege van aanslag of conserverende aanslag
+##### Artikel 9.1. Heffing bij wege van aanslag of conserverende aanslag
 
 1. De belasting, bedoeld in de [artikelen 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=2&afdeling=2.3&artikel=2.7&z=2026-02-21&g=2026-02-21) en [2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=2&afdeling=2.3&artikel=2.8&z=2026-02-21&g=2026-02-21), wordt geheven bij wege van aanslag.
 
@@ -5108,7 +5136,7 @@ Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 20
 
 3. Indien de belastingplichtige ook premieplichtig is voor de volksverzekeringen geschiedt de heffing van de belasting en de premie voor de volksverzekeringen door middel van één belastingaanslag en voorzover de heffing plaatsvindt bij wege van conserverende aanslag, door middel van één conserverende belastingaanslag. Hierbij zijn de regels die gelden voor de heffing en de invordering van de inkomstenbelasting van overeenkomstige toepassing. In dat geval wordt, indien [artikel 67a van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67a) toepassing vindt, die bepaling eenmaal toegepast.
 
-#### Artikel 9.2. Voorheffingen
+##### Artikel 9.2. Voorheffingen
 
 1. De voorheffingen zijn:
 
@@ -5154,11 +5182,11 @@ Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 20
 
 - b. de in Duitsland verschuldigde belasting en bijdragen en premies sociale zekerheid die ingevolge artikel XII van het Protocol bij het op 12 april 2012 te Berlijn tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen (Trb. 2012, 123) worden aangemerkt als ingehouden Nederlandse loonbelasting.
 
-#### Artikel 9.3. Voorlopige teruggaaf
+##### Artikel 9.3. Voorlopige teruggaaf
 
 Vervallen
 
-#### Artikel 9.4. Wel of geen aanslag
+##### Artikel 9.4. Wel of geen aanslag
 
 1. Een aanslag wordt vastgesteld indien:
 
@@ -5188,7 +5216,7 @@ Vervallen
 
 ### Afdeling 7.4. Belastbaar inkomen uit sparen en beleggen
 
-#### Artikel 9.5. Bijzondere regels voor voorlopige aanslagen
+##### Artikel 9.5. Bijzondere regels voor voorlopige aanslagen
 
 1. Een voorlopige aanslag wordt door de inspecteur op verzoek herzien voor zover die voorlopige aanslag op een ander bedrag is vastgesteld dan het bedrag waarop de aanslag, na verrekening van voorheffingen en reeds opgelegde voorlopige aanslagen, vermoedelijk zal worden vastgesteld.
 
@@ -5200,7 +5228,7 @@ Vervallen
 
 5. De voorgaande leden zijn van overeenkomstige toepassing met betrekking tot beschikkingen die afzonderlijk op het aanslagbiljet van de voorlopige aanslag zijn vermeld, waarbij voor de toepassing van dit artikel het verzamelinkomen, bedoeld in [artikel 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=2&afdeling=2.5&artikel=2.18&z=2026-02-21&g=2026-02-21), en de belastingrente en de revisierente, bedoeld in [hoofdstuk VA van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VA), geacht worden onderdeel uit te maken van de voorlopige aanslag. De termijn, bedoeld in het tweede lid, bedraagt ter zake van de beschikking belastingrente ten minste zes weken na de dag van dagtekening van de gehele of gedeeltelijke afwijzing van een verzoek om herziening, met dien verstande dat een verzoek om herziening kan worden ingediend tot zes weken na de dag van dagtekening van de aanslag waarmee de voorlopige aanslag wordt verrekend.
 
-#### Artikel 9.6. Bijzondere regels voor ambtshalve verminderingen
+##### Artikel 9.6. Bijzondere regels voor ambtshalve verminderingen
 
 1. Een ambtshalve vermindering van een belastingaanslag geschiedt uitsluitend op de voet van dit artikel.
 
@@ -5218,13 +5246,13 @@ Vervallen
 
 ### Afdeling 8.1. Aansluiting belasting- en premieheffing
 
-#### Artikel 10.1. Inflatiecorrectie
+##### Artikel 10.1. Inflatiecorrectie
 
 1. Bij het begin van het kalenderjaar worden de in de [artikelen 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=2&afdeling=2.3&artikel=2.10&z=2026-02-21&g=2026-02-21), [2.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=2&afdeling=2.3&artikel=2.10a&z=2026-02-21&g=2026-02-21), [2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=2&afdeling=2.3&artikel=2.12&z=2026-02-21&g=2026-02-21), [3.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.15&z=2026-02-21&g=2026-02-21), [3.41](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.41&z=2026-02-21&g=2026-02-21), [3.42](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.42&z=2026-02-21&g=2026-02-21), [3.47](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.47&z=2026-02-21&g=2026-02-21), [3.77](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.4&artikel=3.77&z=2026-02-21&g=2026-02-21), [3.87](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.2&artikel=3.87&z=2026-02-21&g=2026-02-21), [3.125](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.7&artikel=3.125&z=2026-02-21&g=2026-02-21), [3.126a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.7&artikel=3.126a&z=2026-02-21&g=2026-02-21), [3.127, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.7&artikel=3.127&z=2026-02-21&g=2026-02-21), [3.129](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.7&artikel=3.129&z=2026-02-21&g=2026-02-21), [3.133](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.8&artikel=3.133&z=2026-02-21&g=2026-02-21), [4.17a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.1&artikel=4.17a&z=2026-02-21&g=2026-02-21), [5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.1&artikel=5.3&z=2026-02-21&g=2026-02-21), [5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.1&artikel=5.5&z=2026-02-21&g=2026-02-21), [5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.2&artikel=5.10&z=2026-02-21&g=2026-02-21),[5.13](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.3&artikel=5.13&z=2026-02-21&g=2026-02-21), [6.17, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=6&afdeling=6.5&artikel=6.17&z=2026-02-21&g=2026-02-21), [6.20](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=6&afdeling=6.5&artikel=6.20&z=2026-02-21&g=2026-02-21), [8.11, tweede lid, eerste volzin, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=8&afdeling=8.2&artikel=8.11&z=2026-02-21&g=2026-02-21), [8.14a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=8&afdeling=8.2&artikel=8.14a&z=2026-02-21&g=2026-02-21), [8.16a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=8&afdeling=8.2&artikel=8.16a&z=2026-02-21&g=2026-02-21), [8.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=8&afdeling=8.2&artikel=8.17&z=2026-02-21&g=2026-02-21), [8.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=8&afdeling=8.2&artikel=8.18&z=2026-02-21&g=2026-02-21), [9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=9&afdeling=9.1&artikel=9.4&z=2026-02-21&g=2026-02-21), [9.4a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=9&afdeling=9.1&artikel=9.4a&z=2026-02-21&g=2026-02-21) en [10.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=10&afdeling=10.1&artikel=10.7&z=2026-02-21&g=2026-02-21) vermelde bedragen, het in [artikel 8.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=8&afdeling=8.2&artikel=8.10&z=2026-02-21&g=2026-02-21), eerstvermelde bedrag, het in artikel 8.11, tweede lid, eerste volzin, onderdeel b, als tweede vermelde bedrag en het in artikel 8.11, tweede lid, eerste volzin, onderdeel c, als tweede vermelde bedrag bij ministeriële regeling vervangen door andere. Deze bedragen worden berekend door de te vervangen bedragen te vermenigvuldigen met de tabelcorrectiefactor en vervolgens de nodig geachte afronding aan te brengen. Indien in het voorafgaande jaar een dergelijke afronding is toegepast, kan bij vervanging worden uitgegaan van het niet-afgeronde bedrag.
 
 2. In afwijking in zoverre van het eerste lid, tweede volzin, wordt het bedrag dat is vermeld in de eerste regel van de tweede kolom en in de tweede regel van de eerste kolom van de tabel in [artikel 2.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=2&afdeling=2.3&artikel=2.10&z=2026-02-21&g=2026-02-21), berekend door het te vervangen bedrag te vermenigvuldigen met de uitkomst van de formule: 1 + (75% x (tabelcorrectiefactor – 1)).
 
-#### Artikel 10.2. De tabelcorrectiefactor
+##### Artikel 10.2. De tabelcorrectiefactor
 
 1. De tabelcorrectiefactor is de verhouding van het gemiddelde van de prijsindexcijfers van de achttiende tot en met de zevende aan het kalenderjaar voorafgaande maand, tot het gemiddelde van de prijsindexcijfers van de dertigste tot en met de negentiende aan het kalenderjaar voorafgaande maand.
 
@@ -5232,11 +5260,11 @@ Vervallen
 
 3. Indien de basis voor de prijsindexcijfers wijzigt, wordt bij ministeriële regeling aangegeven op welke wijze wordt overgegaan op de nieuwe reeks prijsindexcijfers.
 
-#### Artikel 10.2a. Jaarlijkse aanpassing correctie tarief grondslagverminderende posten
+##### Artikel 10.2a. Jaarlijkse aanpassing correctie tarief grondslagverminderende posten
 
 Bij het begin van het kalenderjaar wordt het in [artikel 2.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=2&afdeling=2.3&artikel=2.10&z=2026-02-21&g=2026-02-21), en [artikel 2.10a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=2&afdeling=2.3&artikel=2.10a&z=2026-02-21&g=2026-02-21), vermelde percentage bij ministeriële regeling vervangen door een ander percentage. Dit percentage wordt gesteld op het verschil tussen de in de laatste kolom van de in artikel 2.10, eerste lid, opgenomen tabel als derde en tweede vermelde percentages.
 
-#### Artikel 10.2b. Contractloonontwikkelingscorrectie, percentage jaarruimte en drempelbedrag
+##### Artikel 10.2b. Contractloonontwikkelingscorrectie, percentage jaarruimte en drempelbedrag
 
 1. Bij het begin van het kalenderjaar wordt het in [artikel 3.127, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.7&artikel=3.127&z=2026-02-21&g=2026-02-21), eerstvermelde bedrag bij ministeriële regeling vervangen door een ander bedrag. Dit bedrag wordt berekend door het te vervangen bedrag te vermenigvuldigen met de contractloonontwikkelingsfactor en vervolgens de nodig geachte afronding aan te brengen. Indien in het voorafgaande jaar een dergelijke afronding is toegepast, kan bij vervanging worden uitgegaan van het niet-afgeronde bedrag.
 
@@ -5246,7 +5274,7 @@ Bij het begin van het kalenderjaar wordt het in [artikel 2.10, tweede lid](https
 
 4. Bij het begin van het kalenderjaar wordt het in [artikel 3.127, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.7&artikel=3.127&z=2026-02-21&g=2026-02-21), laatstvermelde bedrag bij ministeriële regeling vervangen door een ander bedrag. Dit bedrag wordt berekend door de voor dat jaar geldende uitkeringen voor gehuwde personen zonder toeslag als omschreven in [artikel 9, eerste lid, onderdeel b, en vijfde lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=9), vermeerderd met de vakantietoeslag, te vermenigvuldigen met de factor 100/75.
 
-#### Artikel 10.3. Bijstelling eigenwoningforfait
+##### Artikel 10.3. Bijstelling eigenwoningforfait
 
 1. Bij het begin van het kalenderjaar worden de hierna aangeduide percentages en bedragen, vermeld in [artikel 3.19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.19&z=2026-02-21&g=2026-02-21), en [artikel 3.112, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.6&artikel=3.112&z=2026-02-21&g=2026-02-21), bij ministeriële regeling vervangen door andere percentages en andere bedragen. Het betreft met betrekking tot artikel 3.19, tweede lid: het laatste bedrag van de eerste kolom, het laatste bedrag van de tweede kolom, de twee bedragen in de derde kolom en de eerste vijf percentages in de derde kolom. Het betreft met betrekking tot artikel 3.112, eerste lid: het laatste bedrag van de eerste kolom, het laatste bedrag van de tweede kolom, de twee bedragen in de derde kolom en de eerste vier percentages in de derde kolom. Het betreft met betrekking tot artikel 3.112, vijfde lid: het percentage in de eerste volzin en de bedragen in de tweede volzin.
 
@@ -5264,15 +5292,15 @@ Bij het begin van het kalenderjaar wordt het in [artikel 2.10, tweede lid](https
 
 8. Het in de [derde kolom van artikel 3.19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.19&z=2026-02-21&g=2026-02-21), eerstvermelde bedrag wordt berekend door het volgens het tweede lid berekende laatstvermelde bedrag in de eerste kolom van artikel 3.19, tweede lid, te vermenigvuldigen met het volgens het derde lid berekende, als vijfde vermelde percentage in de derde kolom van artikel 3.19, tweede lid. Het in de [derde kolom van artikel 3.112, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.6&artikel=3.112&z=2026-02-21&g=2026-02-21), eerstvermelde bedrag wordt berekend door het volgens het tweede lid berekende laatstvermelde bedrag in de eerste kolom van artikel 3.112, eerste lid, te vermenigvuldigen met het volgens het derde lid berekende, als vierde vermelde percentage in de derde kolom van artikel 3.112, eerste lid. Het in artikel 3.112, vijfde lid, tweede volzin, als tweede vermelde bedrag wordt berekend door het volgens het tweede lid berekende eerstvermelde bedrag van artikel 3.112, vijfde lid, tweede volzin, te vermenigvuldigen met het volgens het zevende lid berekende percentage van artikel 3.112, vijfde lid, eerste volzin.
 
-#### Artikel 10.3a. Geleidelijke verhoging tot en met 2016 van het percentage eigenwoningforfait bij de laatste schijf
+##### Artikel 10.3a. Geleidelijke verhoging tot en met 2016 van het percentage eigenwoningforfait bij de laatste schijf
 
 Vervallen
 
-#### Artikel 10.4. Bijstelling uitgaven voor een monumentenpand
+##### Artikel 10.4. Bijstelling uitgaven voor een monumentenpand
 
 Vervallen
 
-#### Artikel 10.5. Afronding en definitie indexcijfer van de woninghuren
+##### Artikel 10.5. Afronding en definitie indexcijfer van de woninghuren
 
 1. Bij de berekeningen volgens [artikel 10.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=10&afdeling=10.1&artikel=10.3&z=2026-02-21&g=2026-02-21) worden de percentages naar beneden afgerond tot op vijfhonderdste nauwkeurig. Bij de berekening volgens [artikel 10.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=10&afdeling=10.1&artikel=10.3&z=2026-02-21&g=2026-02-21), worden de bedragen naar beneden afgerond op een veelvoud van € 10 000. Indien in het voorafgaande jaar een afronding als bedoeld in de eerste of tweede volzin is toegepast, wordt bij de vervanging, bedoeld in artikel 10.3, uitgegaan van het niet-afgeronde percentage, onderscheidenlijk van het niet-afgeronde bedrag.
 
@@ -5280,17 +5308,17 @@ Vervallen
 
 3. Indien de basis voor de in het tweede lid genoemde prijsindexcijfers wordt verlegd, worden bij ministeriële regeling regels gesteld met betrekking tot de wijze waarop wordt overgegaan van de oude op de nieuwe reeks prijsindexcijfers.
 
-#### Artikel 10.6. Indexering vrijstelling kamerverhuur
+##### Artikel 10.6. Indexering vrijstelling kamerverhuur
 
 1. Bij het begin van het kalenderjaar wordt het in de [artikelen 3.97](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.4&paragraaf=3.4.2&artikel=3.97&z=2026-02-21&g=2026-02-21) en [3.114](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.6&artikel=3.114&z=2026-02-21&g=2026-02-21) vermelde bedrag bij ministeriële regeling vervangen door een ander. Dit bedrag wordt berekend door het te vervangen bedrag te vermenigvuldigen met de verhouding van het indexcijfer van de woninghuren over juli van het voorafgaande kalenderjaar tot dat indexcijfer over juli van het tweede voorafgaande kalenderjaar, en vervolgens de nodig geachte afronding aan te brengen.
 
 2. [Artikel 10.1, eerste lid, laatste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=10&afdeling=10.1&artikel=10.1&z=2026-02-21&g=2026-02-21), en [artikel 10.5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=10&afdeling=10.1&artikel=10.5&z=2026-02-21&g=2026-02-21), zijn ook hier van toepassing.
 
-#### Artikel 10.6a. Jaarlijkse verlaging percentage in regeling gecombineerde heffingskorting bij minstverdienende partner
+##### Artikel 10.6a. Jaarlijkse verlaging percentage in regeling gecombineerde heffingskorting bij minstverdienende partner
 
 Vervallen
 
-#### Artikel 10.7. Indexering inkomensgrenzen en percentages arbeidskorting
+##### Artikel 10.7. Indexering inkomensgrenzen en percentages arbeidskorting
 
 1. Bij het begin van het kalenderjaar worden de in [artikel 8.11, tweede lid, eerste volzin, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=8&afdeling=8.2&artikel=8.11&z=2026-02-21&g=2026-02-21), vermelde percentages en de in artikel 8.11, tweede lid, eerste volzin, onderdelen b, c en d, eerstvermelde bedragen en het in artikel 8.11, tweede lid, tweede volzin, vermelde bedrag bij ministeriële regeling vervangen door andere percentages en andere bedragen.
 
@@ -5312,25 +5340,25 @@ Vervallen
 
 8. De volgens het tweede, derde en vijfde lid berekende percentages worden rekenkundig afgerond op drie decimalen.
 
-#### Artikel 10.7a. **Indexering maximumbedrag, inkomensgrenzen en percentages werkbonus**
+##### Artikel 10.7a. **Indexering maximumbedrag, inkomensgrenzen en percentages werkbonus**
 
 Vervallen
 
 ### Afdeling 10.2. Overige aanvullende regelingen
 
-#### Artikel 10.8. Verstrekken van gegevens en inlichtingen
+##### Artikel 10.8. Verstrekken van gegevens en inlichtingen
 
 1. Bij of krachtens algemene maatregel van bestuur worden administratieplichtigen aangewezen die gehouden zijn aan de verplichtingen ingevolge [artikel 53, tweede en derde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=53) te voldoen met betrekking tot het verstrekken van bij of krachtens algemene maatregel van bestuur aan te wijzen gegevens en inlichtingen waarvan de kennisneming van belang kan zijn voor de belastingheffing over inkomen uit werk en woning, het voordeel uit sparen en beleggen en voor de bepaling van de hoogte van de persoonsgebonden aftrekposten. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot het uiterste tijdstip en de wijze waarop de in de eerste volzin bedoelde gegevens en inlichtingen aan de inspecteur dienen te worden verstrekt.
 
 2. Het ontwerp van een algemene maatregel van bestuur als bedoeld in het eerste lid wordt ten minste vier weken voordat de regeling wordt vastgesteld, toegezonden aan de Staten-Generaal.
 
-#### Artikel 10.9. Rechtspersonen met natuurschoonwet-landgoederen
+##### Artikel 10.9. Rechtspersonen met natuurschoonwet-landgoederen
 
 1. Bij algemene maatregel van bestuur kunnen regels worden gesteld volgens welke voor de heffing van de inkomstenbelasting de werkzaamheden, rechten en verplichtingen van een rechtspersoon als bedoeld in het tweede lid, worden beschouwd als werkzaamheden, rechten en verplichtingen van haar gezamenlijke aandeelhouders.
 
 2. Een rechtspersoon als bedoeld in het eerste lid, is een naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid waarvan de bezittingen uitsluitend of hoofdzakelijk bestaan uit ingevolge de [Natuurschoonwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0001939) aangewezen landgoederen en waarvan de werkzaamheden uitsluitend of hoofdzakelijk bestaan uit de instandhouding van die landgoederen.
 
-#### Artikel 10.10. Activa in Aruba, Curaçao, Sint Maarten of de BES eilanden
+##### Artikel 10.10. Activa in Aruba, Curaçao, Sint Maarten of de BES eilanden
 
 1. De [artikelen 3.40 tot en met 3.47](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.40&z=2026-02-21&g=2026-02-21), [artikel 3.51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.51&z=2026-02-21&g=2026-02-21), en [artikel 3.52, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.52&z=2026-02-21&g=2026-02-21), zijn in afwijking van [artikel 3.45, eerste lid, onderdeel a, en vierde lid, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.45&z=2026-02-21&g=2026-02-21), van overeenkomstige toepassing op investeringen in bedrijfsmiddelen die worden toegerekend aan het vermogen van een vaste inrichting die gelegen is in Aruba, Curaçao, Sint Maarten of de BES eilanden, met dien verstande dat de tabel die is opgenomen in [artikel 3.41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.41&z=2026-02-21&g=2026-02-21), afzonderlijk wordt toegepast op deze investeringen.
 
@@ -5342,7 +5370,7 @@ Vervallen
 
 ### Hoofdstuk 10bis. Overgangsrecht ten gevolge van [Wet herziening fiscale behandeling eigen woning](https://wetten.overheid.nl/jci1.3:c:BWBR0032676)
 
-#### Artikel 10bis.1. Bestaande eigenwoningschuld
+##### Artikel 10bis.1. Bestaande eigenwoningschuld
 
 1. Onder bestaande eigenwoningschuld van de belastingplichtige wordt verstaan: de eigenwoningschuld, bedoeld in [artikel 3.119a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.6&artikel=3.119a&z=2026-02-21&g=2026-02-21), zoals dat luidde op 31 december 2012, van de belastingplichtige op 31 december 2012.
 
@@ -5376,7 +5404,7 @@ Vervallen
 
 10. Het derde lid, tweede en derde zin, is niet van toepassing op een starterslening als bedoeld in het tweede lid, onderdeel f. Bij ministeriële regeling wordt bepaald wat wordt verstaan onder een starterslening als bedoeld in het tweede lid, onderdeel f.
 
-#### Artikel 10bis.2. Kapitaalverzekering eigen woning, spaarrekening eigen woning of beleggingsrecht eigen woning
+##### Artikel 10bis.2. Kapitaalverzekering eigen woning, spaarrekening eigen woning of beleggingsrecht eigen woning
 
 1. Een kapitaalverzekering eigen woning, een spaarrekening eigen woning of een beleggingsrecht eigen woning is een op 31 december 2012 bestaande kapitaalverzekering eigen woning als bedoeld in [artikel 3.116, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.6&artikel=3.116&z=2026-02-21&g=2026-02-21), zoals dat luidde op 31 december 2012, een op 31 december 2012 bestaande spaarrekening eigen woning als bedoeld in [artikel 3.116a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.6&artikel=3.116a&z=2026-02-21&g=2026-02-21), zoals dat luidde op 31 december 2012, onderscheidenlijk een op 31 december 2012 bestaand beleggingsrecht eigen woning als bedoeld in artikel 3.116a, derde lid, zoals dat luidde op 31 december 2012, indien het ter zake van het betreffende product overeengekomen gegarandeerde kapitaal op 31 december 2012, of bij het ontbreken daarvan, het op grond van de betreffende overeenkomst, zoals die luidde op 31 december 2012, te betalen bedrag, nadien niet is verhoogd en de looptijd na 31 december 2012 niet is verlengd.
 
@@ -5398,7 +5426,7 @@ Vervallen
 
 6. In geval van verrekening op grond van [artikel 3:265d van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:265d) van een spaarrekening eigen woning met een eigenwoningschuld wordt, indien uiterlijk het kalenderjaar volgend op het jaar waarin de verrekening heeft plaatsgevonden een vervangende spaarrekening wordt aangegaan, deze nieuwe spaarrekening tot het beloop van die verrekening aangemerkt als voortzetting van de voorgaande spaarrekening eigen woning, mits in samenhang met die spaarrekening weer een schuld wordt aangegaan als bedoeld in [artikel 10bis.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=10bis&artikel=10bis.1&z=2026-02-21&g=2026-02-21).
 
-#### Artikel 10bis.2a. Verlenging termijn kapitaalverzekering eigen woning
+##### Artikel 10bis.2a. Verlenging termijn kapitaalverzekering eigen woning
 
 1. Onder een kapitaalverzekering eigen woning als bedoeld in [artikel 10bis.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=10bis&artikel=10bis.2&z=2026-02-21&g=2026-02-21), wordt mede verstaan een op 31 maart 2013 bestaande kapitaalverzekering eigen woning als bedoeld in [artikel 3.116, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.6&artikel=3.116&z=2026-02-21&g=2026-02-21), zoals dat luidde op 31 december 2012, mits het ter zake van die verzekering overeengekomen gegarandeerde kapitaal, of bij het ontbreken daarvan, het op grond van de betreffende overeenkomst te bereiken doelvermogen niet hoger is dan de bestaande eigenwoningschuld, bedoeld in [artikel 10bis.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=10bis&artikel=10bis.1&z=2026-02-21&g=2026-02-21), op het moment van aangaan van de kapitaalverzekering.
 
@@ -5414,7 +5442,7 @@ Vervallen
 
 3. Indien de belastingplichtige een bestaande eigenwoningschuld heeft als bedoeld in [artikel 10bis.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=10bis&artikel=10bis.1&z=2026-02-21&g=2026-02-21) en daarnaast een kapitaalverzekering heeft die slechts als gevolg van het in de overeenkomst ontbreken van de bepaling dat de begunstigde de uitkering zal aanwenden ter aflossing van de eigenwoningschuld, niet kwalificeert als kapitaalverzekering eigen woning en de belastingplichtige de genoemde bepaling voor 1 april 2013 alsnog opneemt in de overeenkomst, kwalificeert de genoemde kapitaalverzekering vanaf dat moment als kapitaalverzekering eigen woning, mits het ter zake van de kapitaalverzekering overeengekomen gegarandeerde kapitaal op 31 december 2012, of bij het ontbreken daarvan, het op grond van de betreffende overeenkomst, zoals die luidde op 31 december 2012, te betalen bedrag, nadien niet is verhoogd en de looptijd na 31 december 2012 niet is verlengd.
 
-#### Artikel 10bis.2b. Overeenkomstige toepassing
+##### Artikel 10bis.2b. Overeenkomstige toepassing
 
 [Artikel 10bis.2, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=10bis&artikel=10bis.2&z=2026-02-21&g=2026-02-21), en [artikel 10bis.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=10bis&artikel=10bis.2a&z=2026-02-21&g=2026-02-21) zijn van overeenkomstige toepassing op de spaarrekening eigen woning en op het beleggingsrecht eigen woning. Daarbij wordt gelezen voor:
 
@@ -5422,11 +5450,11 @@ Vervallen
 
 - b. tot uitkering komen: deblokkeren.
 
-#### Artikel 10bis.3. Belastbare inkomsten uit eigen woning
+##### Artikel 10bis.3. Belastbare inkomsten uit eigen woning
 
 Onder de belastbare inkomsten uit eigen woning, bedoeld in [artikel 3.110](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.6&artikel=3.110&z=2026-02-21&g=2026-02-21), worden mede begrepen het voordeel uit kapitaalverzekering eigen woning, het voordeel uit spaarrekening eigen woning en het voordeel uit beleggingsrecht eigen woning.
 
-#### Artikel 10bis.4. Voordeel uit kapitaalverzekering eigen woning
+##### Artikel 10bis.4. Voordeel uit kapitaalverzekering eigen woning
 
 1. Het voordeel uit kapitaalverzekering eigen woning is de rente die is begrepen in een kapitaalsuitkering uit levensverzekering die dient ter aflossing van de eigenwoningschuld.
 
@@ -5486,7 +5514,7 @@ wordt op diens verzoek het geconserveerde inkomen van het jaar waarin de uitkeri
 
 10. In afwijking van het bepaalde in [artikel 3.146](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.12&artikel=3.146&z=2026-02-21&g=2026-02-21), wordt de in het derde en vierde lid bedoelde waarde in het economische verkeer van de kapitaalverzekering eigen woning geacht te zijn genoten op het tijdstip van de fictieve uitkering.
 
-#### Artikel 10bis.5. Voordeel uit spaarrekening eigen woning of beleggingsrecht eigen woning
+##### Artikel 10bis.5. Voordeel uit spaarrekening eigen woning of beleggingsrecht eigen woning
 
 1. Het voordeel uit spaarrekening eigen woning is het rendement dat op het tijdstip van deblokkering is begrepen in het tegoed van een spaarrekening eigen woning. Het voordeel uit beleggingsrecht eigen woning is het rendement dat op het tijdstip van deblokkering is begrepen in de waarde van een beleggingsrecht eigen woning.
 
@@ -5546,7 +5574,7 @@ wordt op diens verzoek het geconserveerde inkomen van het jaar waarin de uitkeri
 
 9. Bij ministeriële regeling kunnen nadere regels worden gesteld voor de toepassing van dit artikel.
 
-#### Artikel 10bis.6. Vrijstelling kapitaalverzekering eigen woning
+##### Artikel 10bis.6. Vrijstelling kapitaalverzekering eigen woning
 
 1. Tot het voordeel uit kapitaalverzekering eigen woning behoort niet de rente begrepen in de uitkering uit een kapitaalverzekering eigen woning voor zover de uitkering niet meer bedraagt dan € 207.500 indien:
 
@@ -5586,19 +5614,19 @@ wordt het bedrag, genoemd in het eerste lid, verhoogd met een bedrag gelijk aan 
 
 10. Voor zover een uitkering uit kapitaalverzekering eigen woning heeft gediend als aflossing van een schuld die heeft geleid tot een negatief vervreemdingssaldo eigen woning, wordt mede geacht te zijn voldaan aan de voorwaarde, genoemd in het eerste lid, onderdeel a.
 
-#### Artikel 10bis.7. Vrijstelling spaarrekening eigen woning en vrijstelling beleggingsrecht eigen woning
+##### Artikel 10bis.7. Vrijstelling spaarrekening eigen woning en vrijstelling beleggingsrecht eigen woning
 
 Met betrekking tot het voordeel uit spaarrekening eigen woning of het voordeel uit beleggingsrecht eigen woning geldt een vrijstelling waarvan de omvang wordt berekend met overeenkomstige toepassing van [artikel 10bis.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=10bis&artikel=10bis.6&z=2026-02-21&g=2026-02-21), met dien verstande dat artikel 10bis.6, achtste en negende lid, slechts toepassing vindt bij een continuering als bedoeld in [artikel 10bis.5, vierde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=10bis&artikel=10bis.5&z=2026-02-21&g=2026-02-21).
 
 Bij de toepassing van de eerste volzin is [artikel 10bis.5, vijfde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=10bis&artikel=10bis.5&z=2026-02-21&g=2026-02-21), van overeenkomstige toepassing en wordt voorts voor premies gelezen: naar een spaarrekening eigen woning overgemaakte bedragen, onderscheidenlijk naar een beheerder van een beleggingsrecht overgemaakte bedragen.
 
-#### Artikel 10bis.8. Omzetting kapitaalverzekering eigen woning, spaarrekening eigen woning of beleggingsrecht eigen woning
+##### Artikel 10bis.8. Omzetting kapitaalverzekering eigen woning, spaarrekening eigen woning of beleggingsrecht eigen woning
 
 1. Voor zover een kapitaalverzekering eigen woning, een spaarrekening eigen woning of een beleggingsrecht eigen woning wordt omgezet in een andere soortgelijke verzekering, een andere soortgelijke spaarrekening of een ander soortgelijk beleggingsrecht, en indien het overeengekomen gegarandeerde kapitaal op 31 december 2012, of bij het ontbreken daarvan, het op grond van de betreffende overeenkomst zoals die luidde op 31 december 2012 te betalen bedrag, nadien niet is verhoogd en de looptijd na 31 december 2012 niet is verlengd, wordt de laatstgenoemde verzekering, de laatstgenoemde spaarrekening, onderscheidenlijk het laatstgenoemde beleggingsrecht, voor de toepassing van dit hoofdstuk geacht een voortzetting te zijn van de eerstgenoemde verzekering, de eerstgenoemde spaarrekening, onderscheidenlijk het eerstgenoemde beleggingsrecht.
 
 2. Bij ministeriële regeling kunnen nadere regels worden gesteld voor de toepassing van dit artikel.
 
-#### Artikel 10bis.9. Eigenwoningschuld en eigenwoningreserve
+##### Artikel 10bis.9. Eigenwoningschuld en eigenwoningreserve
 
 1. Onder eigenwoningschuld als bedoeld in [artikel 3.119a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.6&artikel=3.119a&z=2026-02-21&g=2026-02-21), wordt mede verstaan de bestaande eigenwoningschuld, bedoeld in [artikel 10bis.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=10bis&artikel=10bis.1&z=2026-02-21&g=2026-02-21), voor zover deze niet door de toepassing van de eigenwoningreserve is verminderd.
 
@@ -5606,7 +5634,7 @@ Bij de toepassing van de eerste volzin is [artikel 10bis.5, vijfde lid, tweede v
 
 3. Indien na verrekening op grond van [artikel 3:265d van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:265d) van een spaarrekening eigen woning met een eigenwoningschuld uiterlijk het kalenderjaar volgend op het jaar waarin de verrekening heeft plaatsgehad opnieuw een schuld is aangegaan als bedoeld in [artikel 10bis.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=10bis&artikel=10bis.1&z=2026-02-21&g=2026-02-21), wordt in de tussenliggende periode voor de toepassing van [artikel 3.119aa](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.6&artikel=3.119aa&z=2026-02-21&g=2026-02-21) tot het beloop van de verrekening geacht geen sprake te zijn van een vervreemding.
 
-#### Artikel 10bis.10. Aftrekbare kosten eigen woning
+##### Artikel 10bis.10. Aftrekbare kosten eigen woning
 
 1. De renten van schulden die behoren tot de bestaande eigenwoningschuld, bedoeld in [artikel 10bis.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=10bis&artikel=10bis.1&z=2026-02-21&g=2026-02-21), worden gedurende ten hoogste 30 jaren in aanmerking genomen als aftrekbare kosten met betrekking tot een eigen woning. De duur van de termijn van 30 jaren vangt aan bij het begin van het eerste tijdvak waarop de renten van deze schulden, die als bestanddeel van het inkomen uit werk en woning in aftrek zijn gebracht, betrekking hadden en eindigt op het tijdstip waarop de gehele schuld wordt afgelost. Indien een tot de bestaande eigenwoningschuld behorende schuld wordt overgesloten als bedoeld in [artikel 10bis.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=10bis&artikel=10bis.1&z=2026-02-21&g=2026-02-21), worden de renten slechts in aanmerking genomen voor zover de termijn van 30 jaren nog niet is verstreken.
 
@@ -5616,7 +5644,7 @@ Bij de toepassing van de eerste volzin is [artikel 10bis.5, vijfde lid, tweede v
 
 4. Voor de toepassing van [artikel 3.120, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.6&artikel=3.120&z=2026-02-21&g=2026-02-21), worden renten van schulden die betrekking hebben op per 31 december 1995 bestaande schulden, die behoren tot de bestaande eigenwoningschuld, bedoeld in [artikel 10bis.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=10bis&artikel=10bis.1&z=2026-02-21&g=2026-02-21), voor zover deze schulden per die datum verzekerd waren door een hypotheek op een eigen woning en zulks nog steeds zijn met betrekking tot dezelfde woning, aangemerkt als aftrekbare kosten die verband houden met de eigen woning waarop de hypotheek is gevestigd.
 
-#### Artikel 10bis.11. Aftrekbare kosten na eerder gebruik vrijstelling kapitaalverzekering eigen woning, spaarrekening eigen woning of beleggingsrecht eigen woning
+##### Artikel 10bis.11. Aftrekbare kosten na eerder gebruik vrijstelling kapitaalverzekering eigen woning, spaarrekening eigen woning of beleggingsrecht eigen woning
 
 1. De tot de bestaande eigenwoningschuld behorende schulden worden slechts in aanmerking genomen tot ten hoogste het bedrag dat is aangewend voor de verwerving van de eigen woning verminderd met het gedeelte van het bedrag van de uitkeringen uit kapitaalverzekeringen eigen woning ter zake waarvan de daarin begrepen rente eerder op grond van [artikel 3.118](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.6&artikel=3.118&z=2026-02-21&g=2026-02-21), zoals dat artikel luidde op 31 december 2012, of [artikel 10bis.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=10bis&artikel=10bis.6&z=2026-02-21&g=2026-02-21) niet als voordeel uit kapitaalverzekering eigen woning is aangemerkt.
 
@@ -5636,13 +5664,13 @@ wordt voor de toepassing van het eerste lid de uitkering uit die kapitaalverzeke
 
 5. Dit artikel is van overeenkomstige toepassing bij een spaarrekening eigen woning en een beleggingsrecht eigen woning. Ter zake kunnen bij ministeriële regeling nadere regels worden gesteld.
 
-#### Artikel 10bis.12. Indexatie
+##### Artikel 10bis.12. Indexatie
 
 Bij het begin van het kalenderjaar wordt het in [artikel 10bis.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=10bis&artikel=10bis.6&z=2026-02-21&g=2026-02-21), vermelde bedrag bij ministeriële regeling gewijzigd in een ander bedrag. Dit bedrag wordt berekend door het te wijzigen bedrag te vermenigvuldigen met de tabelcorrectiefactor, bedoeld in [artikel 10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=10&afdeling=10.1&artikel=10.2&z=2026-02-21&g=2026-02-21), en vervolgens de nodig geachte afronding aan te brengen. Indien in het voorafgaande kalenderjaar een dergelijke afronding is toegepast, kan bij wijziging worden uitgegaan van het niet-afgeronde bedrag.
 
 ### Hoofdstuk 10bis. Overgangsrecht ten gevolge van [Wet herziening fiscale behandeling eigen woning](https://wetten.overheid.nl/jci1.3:c:BWBR0032676)
 
-#### Artikel 10a.1. Overgangsrecht in verband met afschaffing per 1 januari 2006 van premieaftrek voor overbruggingslijfrenten
+##### Artikel 10a.1. Overgangsrecht in verband met afschaffing per 1 januari 2006 van premieaftrek voor overbruggingslijfrenten
 
 1. Op aanspraken die uitsluitend dan wel mede betrekking hebben op lijfrenten als bedoeld in [artikel 3.125, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.7&artikel=3.125&z=2026-02-21&g=2026-02-21), zoals dit onderdeel luidde op 31 december 2005, blijven de op die datum geldende bepalingen die verband houden met de aanspraken op dergelijke lijfrenten van toepassing, voor zover de aanspraken voortvloeien uit premies die vóór 1 januari 2006 in aanmerking zijn genomen als uitgaven voor inkomensvoorzieningen.
 
@@ -5650,11 +5678,11 @@ Bij het begin van het kalenderjaar wordt het in [artikel 10bis.6, eerste lid](ht
 
 3. Indien ter zake van een overeenkomst waarin een aanspraak is opgenomen die uitsluitend of mede betrekking heeft op lijfrenten als bedoeld in [artikel 3.125, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.7&artikel=3.125&z=2026-02-21&g=2026-02-21), zoals dit onderdeel luidde op 31 december 2005, ook na 31 december 2005 nog premies worden voldaan, is aanwending van opgebouwde aanspraken voor lijfrenten als bedoeld in genoemd onderdeel c slechts mogelijk tot ten hoogste een bedrag gelijk aan de waarde in het economische verkeer van die aanspraak op 31 december 2005. Voor zover de in de eerste volzin bedoelde aanspraken tot een hoger bedrag dan de aldaar bedoelde waarde worden aangewend voor lijfrenten als bedoeld in genoemd onderdeel c, is [artikel 3.133, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.8&artikel=3.133&z=2026-02-21&g=2026-02-21), van overeenkomstige toepassing.
 
-#### Artikel 10a.2. Overgangsbepaling waardering onderhanden werk en onderhanden opdrachten vanwege invoering [artikel 3.29b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.29b&z=2026-02-21&g=2026-02-21)
+##### Artikel 10a.2. Overgangsbepaling waardering onderhanden werk en onderhanden opdrachten vanwege invoering [artikel 3.29b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.29b&z=2026-02-21&g=2026-02-21)
 
 De waardering van onderhanden werk en onderhanden opdrachten overeenkomstig [artikel 3.29b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.29b&z=2026-02-21&g=2026-02-21) vindt voor de eerste keer toepassing aan het einde van het eerste boekjaar dat is aangevangen op of na 1 januari 2007.
 
-#### Artikel 10a.3. Overgangsbepaling afschrijving op bedrijfsmiddelen vanwege wijziging [artikel 3.30](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.30&z=2026-02-21&g=2026-02-21) en invoering [artikel 3.30a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.30a&z=2026-02-21&g=2026-02-21)
+##### Artikel 10a.3. Overgangsbepaling afschrijving op bedrijfsmiddelen vanwege wijziging [artikel 3.30](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.30&z=2026-02-21&g=2026-02-21) en invoering [artikel 3.30a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.30a&z=2026-02-21&g=2026-02-21)
 
 1. [Artikel 3.30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.30&z=2026-02-21&g=2026-02-21), onderscheidenlijk [artikel 3.30a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.30a&z=2026-02-21&g=2026-02-21), vindt ook toepassing met betrekking tot goodwill en andere bedrijfsmiddelen, onderscheidenlijk gebouwen, ter zake waarvan vóór 1 januari 2007 voor de verwerving of verbetering verplichtingen zijn aangegaan of voortbrengingskosten zijn gemaakt, met dien verstande dat wat betreft goodwill en andere bedrijfsmiddelen het gedeelte van de nog niet afgeschreven aanschaffings- of voortbrengingskosten dat aan het kalenderjaar kan worden toegerekend op jaarbasis ten hoogste bedraagt:
 
@@ -5666,23 +5694,23 @@ De waardering van onderhanden werk en onderhanden opdrachten overeenkomstig [art
 
 3. Met betrekking tot een gebouw dat vóór 1 januari 2007 reeds tot het ondernemingsvermogen of resultaatvermogen van de belastingplichtige behoorde en waarop de belastingplichtige reeds vóór 1 januari 2007 heeft afgeschreven doch nog niet gedurende tenminste drie jaren, vindt [artikel 3.30a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.30a&z=2026-02-21&g=2026-02-21) voor het eerst toepassing met ingang van het boekjaar dat volgt op het boekjaar waarin die drie jaren zijn geëindigd.
 
-#### Artikel 10a.4. Overgangsbepaling bij [artikel 3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.20&z=2026-02-21&g=2026-02-21) in verband met de wijziging van artikel 3.20 per 1 januari 2017.
+##### Artikel 10a.4. Overgangsbepaling bij [artikel 3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.20&z=2026-02-21&g=2026-02-21) in verband met de wijziging van artikel 3.20 per 1 januari 2017.
 
 1. In afwijking van [artikel 3.20, eerste lid, eerste volzin, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.20&z=2026-02-21&g=2026-02-21), wordt voor een auto met een datum van eerste toelating van uiterlijk 31 december 2016 als onttrekking als bedoeld in artikel 3.20, eerste lid, eerste volzin, onderdeel a, op jaarbasis ten minste 25% van de waarde van de auto in aanmerking genomen.
 
 2. [Artikel 9, elfde en twaalfde lid, van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9) is van overeenkomstige toepassing.
 
-#### Artikel 10a.5. Overgangsrecht in verband met het vervallen van de mogelijkheid dat een natuurlijke persoon als pensioenverzekeraar optreedt
+##### Artikel 10a.5. Overgangsrecht in verband met het vervallen van de mogelijkheid dat een natuurlijke persoon als pensioenverzekeraar optreedt
 
 Met betrekking tot een pensioentoezegging als bedoeld in [artikel 19 van de Invoerings- en aanpassingswet Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020828&artikel=19) blijven [artikel 3.83, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.1&artikel=3.83&z=2026-02-21&g=2026-02-21), en [artikel 7.2, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=7&afdeling=7.2&artikel=7.2&z=2026-02-21&g=2026-02-21), zoals deze leden luidden op de dag voorafgaand aan de inwerkingtreding van [artikel 1 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=1), van toepassing.
 
-#### Artikel 10a.6. Overgangsbepaling met ingang van 2009 voor de toepassing van [artikel 3.107a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.5&artikel=3.107a&z=2026-02-21&g=2026-02-21) en [artikel 3.137](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.8&artikel=3.137&z=2026-02-21&g=2026-02-21)
+##### Artikel 10a.6. Overgangsbepaling met ingang van 2009 voor de toepassing van [artikel 3.107a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.5&artikel=3.107a&z=2026-02-21&g=2026-02-21) en [artikel 3.137](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.8&artikel=3.137&z=2026-02-21&g=2026-02-21)
 
 1. De in [artikel 3.107a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.5&artikel=3.107a&z=2026-02-21&g=2026-02-21), en [artikel 3.137, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.8&artikel=3.137&z=2026-02-21&g=2026-02-21), opgenomen beperking dat van de in een kalenderjaar betaalde premies en bedragen die niet als uitgave voor inkomensvoorziening in aanmerking zijn genomen ten hoogste € 2 269 op de voet van die artikelen in mindering kan worden gebracht, geldt niet voor hetgeen aan premies en bedragen is betaald in de kalenderjaren 2001 tot en met 2009.
 
 2. Bij ministeriële regeling kunnen regels worden gesteld voor de toepassing van het eerste lid.
 
-#### Artikel 10a.7. Overgangsbepaling toerekening afgezonderd particulier vermogen
+##### Artikel 10a.7. Overgangsbepaling toerekening afgezonderd particulier vermogen
 
 1. [Artikel 2.14a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=2&afdeling=2.4&artikel=2.14a&z=2026-02-21&g=2026-02-21) is niet van toepassing op afgezonderd particulier vermogen dat is afgezonderd door een persoon die vóór 1 januari 2010 is overleden, mits op 20 april 2009:
 
@@ -5708,11 +5736,11 @@ Met betrekking tot een pensioentoezegging als bedoeld in [artikel 19 van de Invo
 
 7. Voor de toepassing van dit artikel zijn de [artikelen 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.2&artikel=4.3&z=2026-02-21&g=2026-02-21), [4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.2&artikel=4.4&z=2026-02-21&g=2026-02-21), [4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.2&artikel=4.5&z=2026-02-21&g=2026-02-21) en [4.5a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.2&artikel=4.5a&z=2026-02-21&g=2026-02-21) van overeenkomstige toepassing.
 
-#### Artikel 10a.8. Overgangsbepaling in verband met wijziging regime voor vergoedingen en verstrekkingen in de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471)
+##### Artikel 10a.8. Overgangsbepaling in verband met wijziging regime voor vergoedingen en verstrekkingen in de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471)
 
 Vervallen
 
-#### Artikel 10a.9. Overgangsbepaling verliezen op beleggingen in durfkapitaal in verband met het vervallen van [afdeling 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=6&afdeling=6.3&z=2026-02-21&g=2026-02-21) per 1 januari 2011
+##### Artikel 10a.9. Overgangsbepaling verliezen op beleggingen in durfkapitaal in verband met het vervallen van [afdeling 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=6&afdeling=6.3&z=2026-02-21&g=2026-02-21) per 1 januari 2011
 
 1. [Artikel 3.139](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.9&artikel=3.139&z=2026-02-21&g=2026-02-21), onderdeel b, zoals dat onderdeel luidde op 31 december 2010, blijft van toepassing met betrekking tot hetgeen wordt ontvangen als nagekomen schuldaflossing op een geldlening ter zake waarvan verliezen op grond van [afdeling 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=6&afdeling=6.3&z=2026-02-21&g=2026-02-21), zoals die afdeling op 31 december 2010 luidde, of op grond van het tweede lid in aanmerking zijn genomen.
 
@@ -5720,21 +5748,21 @@ Vervallen
 
 3. De [artikelen 2.10, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=2&afdeling=2.3&artikel=2.10&z=2026-02-21&g=2026-02-21), en [2.10a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=2&afdeling=2.3&artikel=2.10a&z=2026-02-21&g=2026-02-21), zijn van overeenkomstige toepassing op verliezen als bedoeld in het tweede lid.
 
-#### Artikel 10a.9a. Overgangsbepaling teruggave van of nagekomen betaling ter zake van uitgaven voor specifieke zorgkosten
+##### Artikel 10a.9a. Overgangsbepaling teruggave van of nagekomen betaling ter zake van uitgaven voor specifieke zorgkosten
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2013/565.
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel 10a.10. Overgangsbepaling vrijstelling box 3 inzake spaarloontegoeden
+##### Artikel 10a.10. Overgangsbepaling vrijstelling box 3 inzake spaarloontegoeden
 
 Vervallen
 
-#### Artikel 10a.11. Overgangsbepaling levensloopregelingen
+##### Artikel 10a.11. Overgangsbepaling levensloopregelingen
 
 Vervallen
 
-#### Artikel 10a.12. Overgangsrecht tijdelijke oudedagslijfrenten bij verhoging van de AOW-leeftijd
+##### Artikel 10a.12. Overgangsrecht tijdelijke oudedagslijfrenten bij verhoging van de AOW-leeftijd
 
 1. Op aanspraken die uitsluitend dan wel mede betrekking hebben op lijfrenten als bedoeld in [artikel 3.125, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.7&artikel=3.125&z=2026-02-21&g=2026-02-21), zoals dit onderdeel luidde op 31 december 2013, die niet voldoen aan de met ingang van 1 januari 2014 in artikel 3.125, eerste lid, onderdeel c, gestelde voorwaarden, blijven de op 31 december 2013 geldende bepalingen die verband houden met de aanspraken op dergelijke lijfrenten van toepassing, voor zover de aanspraken op dergelijke lijfrenten voortvloeien uit premies of bedragen die vóór 1 januari 2014 in aanmerking zijn genomen als uitgaven voor inkomensvoorzieningen.
 
@@ -5744,33 +5772,33 @@ Vervallen
 
 4. De vorige leden zijn van overeenkomstige toepassing op het tegoed van de lijfrentespaarrekening of de waarde van het lijfrentebeleggingsrecht waarop [artikel 3.126a, vierde lid, onderdeel a, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.7&artikel=3.126a&z=2026-02-21&g=2026-02-21), zoals dat luidde op 31 december 2013, van toepassing is.
 
-#### Artikel 10a.13. Overgangsbepaling stamrechtspaarrekeningen en stamrechtbeleggingsrechten
+##### Artikel 10a.13. Overgangsbepaling stamrechtspaarrekeningen en stamrechtbeleggingsrechten
 
 Met betrekking tot op 31 december 2013 bestaande stamrechtspaarrekeningen en stamrechtbeleggingsrechten als bedoeld in [artikel 11a van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=11a), zoals dat op 31 december 2013 luidde, blijft [artikel 9.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=9&afdeling=9.1&artikel=9.2&z=2026-02-21&g=2026-02-21), zoals dat op 31 december 2013 luidde, met overeenkomstige toepassing van [artikel 39f, eerste en tweede lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=39f), van toepassing.
 
 ### Hoofdstuk 10b. **Horizonbepaling**
 
-#### Artikel 10b.1. Horizonbepaling
+##### Artikel 10b.1. Horizonbepaling
 
 De [artikelen 3.31](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.31&z=2026-02-21&g=2026-02-21), [3.42](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.42&z=2026-02-21&g=2026-02-21) en [3.42a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.42a&z=2026-02-21&g=2026-02-21) vervallen met ingang van 1 januari 2029.
 
 ### Hoofdstuk 11. Slotbepalingen
 
-#### Artikel 11.1. Intrekking van de Wet op de inkomstenbelasting 1964 en de Wet op de vermogensbelasting 1964
+##### Artikel 11.1. Intrekking van de Wet op de inkomstenbelasting 1964 en de Wet op de vermogensbelasting 1964
 
 1. De Wet op de inkomstenbelasting 1964 wordt ingetrokken.
 
 2. De Wet op de vermogensbelasting 1964 wordt ingetrokken.
 
-#### Artikel 11.2. Integrale tekstpublicatie en nummering
+##### Artikel 11.2. Integrale tekstpublicatie en nummering
 
 De tekst van deze wet zoals die luidt bij de inwerkingtreding van deze wet en bij de inwerkingtreding van overige wetten die op hetzelfde tijdstip in werking treden en waarin deze wet wordt gewijzigd, wordt in het Staatsblad geplaatst. Voor de plaatsing in het Staatsblad stelt Onze Minister de nummering van de artikelen, paragrafen, afdelingen en hoofdstukken van deze wet opnieuw vast en brengt hij de in deze wet voorkomende aanhalingen van de artikelen, paragrafen, afdelingen en hoofdstukken met de nieuwe nummering in overeenstemming.
 
-#### Artikel 11.3. Inwerkingtreding
+##### Artikel 11.3. Inwerkingtreding
 
 Deze wet treedt in werking op een bij wet te bepalen tijdstip.
 
-#### Artikel 11.4. Citeertitel
+##### Artikel 11.4. Citeertitel
 
 1. Deze wet wordt aangehaald als: Wet inkomstenbelasting 2001.
 
@@ -5778,7 +5806,7 @@ Deze wet treedt in werking op een bij wet te bepalen tijdstip.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 10a.14. Overgangsbepaling in verband met de wijziging van de [Wegenverkeerswet 1994](onbekend) met ingang van 1 januari 2014
+##### Artikel 10a.14. Overgangsbepaling in verband met de wijziging van de [Wegenverkeerswet 1994](onbekend) met ingang van 1 januari 2014
 
 Vervallen
 
@@ -5788,7 +5816,7 @@ Vervallen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 5.16a. Toegelaten aanbieders
+##### Artikel 5.16a. Toegelaten aanbieders
 
 1. Als aanbieder van een nettolijfrente kan optreden:
 
@@ -5798,7 +5826,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 2. Een aanbieder als bedoeld in het eerste lid die naast een nettolijfrente tevens een lijfrente als bedoeld in [afdeling 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.7&z=2026-02-21&g=2026-02-21) uitvoert of tevens optreedt als verzekeraar van een pensioenregeling in de zin van de [hoofdstukken IIB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&hoofdstuk=IIB) en [VIII van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&hoofdstuk=VIII) of [artikel 1.7, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=1&artikel=1.7&z=2026-02-21&g=2026-02-21), voldoet aan bij ministeriële regeling te stellen voorwaarden ter voorkoming van vermenging met vermogen ten behoeve van een nettolijfrente.
 
-#### Artikel 5.16b. Begrenzing nettolijfrente
+##### Artikel 5.16b. Begrenzing nettolijfrente
 
 1. De jaarlijkse premie ter zake van alle nettolijfrenten van de belastingplichtige gezamenlijk bedraagt ten hoogste het percentage, genoemd in [artikel 3.127, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.7&artikel=3.127&z=2026-02-21&g=2026-02-21), vermenigvuldigd met de nettofactor, bedoeld in [artikel 5.16, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.3A&artikel=5.16&z=2026-02-21&g=2026-02-21), van het gezamenlijke bedrag in het voorafgaande kalenderjaar van de inkomensbestanddelen, bedoeld in artikel 3.127, derde lid, onderdelen a tot en met d, voor zover dit bedrag het in artikel 3.127, derde lid, als eerste vermelde bedrag overtreft.
 
@@ -5808,7 +5836,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 4. [Artikel 3.127, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.7&artikel=3.127&z=2026-02-21&g=2026-02-21), is van overeenkomstige toepassing.
 
-#### Artikel 5.16c. Onregelmatige handelingen met nettolijfrenten
+##### Artikel 5.16c. Onregelmatige handelingen met nettolijfrenten
 
 1. Ingeval op enig tijdstip:
 
@@ -5842,19 +5870,19 @@ vervalt op dat tijdstip, voor zover de onderdelen a, b, c of d van toepassing zi
 
 ### Afdeling 5.3B. **Vrijstelling nettopensioen**
 
-#### Artikel 5.17a. Netto-ouderdomspensioen en nettopartnerpensioen bij overlijden op of na pensioendatum
+##### Artikel 5.17a. Netto-ouderdomspensioen en nettopartnerpensioen bij overlijden op of na pensioendatum
 
 1. Een netto-ouderdomspensioen en een nettopartnerpensioen bij overlijden op of na pensioendatum worden opgebouwd over ten hoogste het bedrag dat ingevolge [artikel 18ga van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18ga) niet tot het pensioengevend loon behoort. De premie bedraagt ten hoogste het percentage, genoemd in [artikel 18a, eerste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18a), van dat bedrag, vermenigvuldigd met de nettofactor, bedoeld in [artikel 5.16, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.3A&artikel=5.16&z=2026-02-21&g=2026-02-21). Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de kosten die zijn begrepen in de premie, bedoeld in de tweede zin.
 
 2. [Artikel 18a, vierde en vijfde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18a) is van overeenkomstige toepassing.
 
-#### Artikel 5.17b. Nettopartnerpensioen bij overlijden voor pensioendatum
+##### Artikel 5.17b. Nettopartnerpensioen bij overlijden voor pensioendatum
 
 1. Een nettopartnerpensioen bij overlijden voor pensioendatum bedraagt niet meer dan 50% van het bedrag dat ingevolge [artikel 18ga van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18ga) niet tot het laatstgenoten pensioengevend loon, bedoeld in [artikel 18b, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18b), behoort, vermenigvuldigd met de nettofactor, bedoeld in [artikel 5.16, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.3A&artikel=5.16&z=2026-02-21&g=2026-02-21).
 
 2. [Artikel 18b, tweede en derde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18b) is van overeenkomstige toepassing.
 
-#### Artikel 5.17c. Nettowezenpensioen
+##### Artikel 5.17c. Nettowezenpensioen
 
 1. Een nettowezenpensioen bedraagt voor halve wezen niet meer dan 20% van het bedrag dat ingevolge [artikel 18ga van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18ga) niet tot het laatstgenoten pensioengevend loon, bedoeld in [artikel 18c, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18c), behoort, vermenigvuldigd met de nettofactor, bedoeld in [artikel 5.16, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.3A&artikel=5.16&z=2026-02-21&g=2026-02-21).
 
@@ -5862,11 +5890,11 @@ vervalt op dat tijdstip, voor zover de onderdelen a, b, c of d van toepassing zi
 
 3. [Artikel 18c, derde en vierde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18c) is van overeenkomstige toepassing.
 
-#### Artikel 5.17d. Overschrijding maxima nettopensioen
+##### Artikel 5.17d. Overschrijding maxima nettopensioen
 
 [Artikel 18d van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18d) is van overeenkomstige toepassing op een netto-ouderdomspensioen, een nettopartnerpensioen bij overlijden op of na pensioendatum, een nettopartnerpensioen bij overlijden voor pensioendatum en een nettowezenpensioen met dien verstande dat het in het tweede lid van dat artikel genoemde bedrag wordt vermenigvuldigd met de nettofactor, bedoeld in [artikel 5.16, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.3A&artikel=5.16&z=2026-02-21&g=2026-02-21).
 
-#### Artikel 5.17e. Onregelmatige handelingen met nettopensioen
+##### Artikel 5.17e. Onregelmatige handelingen met nettopensioen
 
 1. Ingeval op enig tijdstip:
 
@@ -5894,7 +5922,7 @@ vervalt op dat tijdstip voor de volledige aanspraak de toepassing van de vrijste
 
 - c. is het eerste lid mede niet van toepassing voor zover een in onderdeel b van dat lid bedoelde uitkering of afkoopsom wordt uitgekeerd met toepassing van [artikel 69, tweede lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=69) of [artikel 80a, tweede lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=80a).
 
-#### Artikel 5.17f. Delegatiebevoegdheid
+##### Artikel 5.17f. Delegatiebevoegdheid
 
 1. Bij ministeriële regeling kunnen, overeenkomstig het bepaalde in [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.18&z=2026-02-21&g=2026-02-21) en in [artikel 18g van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18g), regels worden gesteld met betrekking tot de perioden die voor de toepassing van deze afdeling en de daarop berustende bepalingen in aanmerking komen als dienstjaren alsmede met betrekking tot het pensioengevend loon.
 
@@ -5934,7 +5962,7 @@ vervalt op dat tijdstip voor de volledige aanspraak de toepassing van de vrijste
 
 ### Afdeling 7.2. Belastbaar inkomen uit werk en woning
 
-#### Artikel 7.8. Kwalificerende buitenlandse belastingplichtigen
+##### Artikel 7.8. Kwalificerende buitenlandse belastingplichtigen
 
 1. Voor een kwalificerende buitenlandse belastingplichtige is het inkomen uit werk en woning in Nederland het gezamenlijke bedrag van het inkomen uit werk en woning in Nederland, bedoeld in [artikel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=7&afdeling=7.2&artikel=7.2&z=2026-02-21&g=2026-02-21), en de niet reeds in het inkomen uit werk en woning in Nederland begrepen belastbare inkomsten uit eigen woning, berekend overeenkomstig de regels van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&z=2026-02-21&g=2026-02-21), indien deze negatief zijn, verminderd met:
 
@@ -5984,7 +6012,7 @@ onder de voorwaarde dat de belastingplichtige een inkomensverklaring van de bela
 
 ### Hoofdstuk 10. Aanvullende regelingen
 
-#### Artikel 10a.15. Overgangsbepaling nettolijfrente en nettopensioen
+##### Artikel 10a.15. Overgangsbepaling nettolijfrente en nettopensioen
 
 Indien het aantal kalenderjaren tussen 1 januari 2015 en het moment waarop [artikel 5.16c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.3A&artikel=5.16c&z=2026-02-21&g=2026-02-21), of [artikel 5.17e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.3B&artikel=5.17e&z=2026-02-21&g=2026-02-21), toepassing vindt lager is dan tien, wordt voor de toepassing van artikel 5.16c, tweede lid, onderscheidenlijk artikel 5.17e, tweede lid, de helft van de waarde van de aanspraak, bedoeld in artikel 5.16c, eerste lid, onderscheidenlijk artikel 5.17e, eerste lid, aan het begin van het voorafgaande kalenderjaar niet vermenigvuldigd met tien, maar met het aantal kalenderjaren tussen 1 januari 2015 en het moment waarop artikel 5.16c, eerste lid, onderscheidenlijk artikel 5.17e, eerste lid, toepassing vindt.
 
@@ -5994,7 +6022,7 @@ Indien het aantal kalenderjaren tussen 1 januari 2015 en het moment waarop [arti
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 10a.16. Overgangsbepaling scholingsuitgaven studiejaren tot en met het studiejaar 2014/2015
+##### Artikel 10a.16. Overgangsbepaling scholingsuitgaven studiejaren tot en met het studiejaar 2014/2015
 
 [Artikel 6.28](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=6&afdeling=6.7&artikel=6.28&z=2026-02-21&g=2026-02-21), zoals dat luidde op 30 juni 2015, alsmede de [artikelen 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=6&afdeling=6.1&artikel=6.1&z=2026-02-21&g=2026-02-21), [6.27](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=6&afdeling=6.7&artikel=6.27&z=2026-02-21&g=2026-02-21) en [6.30](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=6&afdeling=6.7&artikel=6.30&z=2026-02-21&g=2026-02-21), zoals die luidden op 31 december 2021, blijven van toepassing op scholingsuitgaven die betrekking hebben op studiejaren tot en met het studiejaar 2014/2015.
 
@@ -6004,7 +6032,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 10.6b. Indexering inkomensgrens en percentage algemene heffingskorting
+##### Artikel 10.6b. Indexering inkomensgrens en percentage algemene heffingskorting
 
 1. Bij het begin van het kalenderjaar worden het in [artikel 8.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=8&afdeling=8.2&artikel=8.10&z=2026-02-21&g=2026-02-21), vermelde percentage en het in artikel 8.10, tweede lid, laatstvermelde bedrag bij ministeriële regeling vervangen door een ander percentage en een ander bedrag.
 
@@ -6016,7 +6044,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ### Hoofdstuk 10bis. Overgangsrecht ten gevolge van [Wet herziening fiscale behandeling eigen woning](https://wetten.overheid.nl/jci1.3:c:BWBR0032676)
 
-#### Artikel 10bis.11a. Verzoek gezamenlijk genieten kapitaalverzekering eigen woning, spaarrekening eigen woning of beleggingsrecht eigen woning
+##### Artikel 10bis.11a. Verzoek gezamenlijk genieten kapitaalverzekering eigen woning, spaarrekening eigen woning of beleggingsrecht eigen woning
 
 1. Indien de belastingplichtige het gehele kalenderjaar dezelfde partner heeft of voor de toepassing van [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=2&afdeling=2.4&artikel=2.17&z=2026-02-21&g=2026-02-21) geacht wordt te hebben gehad, wordt op gezamenlijk verzoek van de belastingplichtige en zijn partner een uitkering uit kapitaalverzekering eigen woning, een gedeblokkeerd tegoed van een spaarrekening eigen woning of een gedeblokkeerde waarde van een beleggingsrecht eigen woning bij leven geacht bij de belastingplichtige en zijn partner voor de helft op te komen.
 
@@ -6028,7 +6056,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 10a.17. Overgangsbepaling buitenlandse bronbelasting als voorheffing
+##### Artikel 10a.17. Overgangsbepaling buitenlandse bronbelasting als voorheffing
 
 [Artikel 9.2, eerste lid, onderdeel d, achtste lid en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=9&afdeling=9.1&artikel=9.2&z=2026-02-21&g=2026-02-21), en de daarop gebaseerde bepalingen, zoals dat artikel en die bepalingen op 31 december 2015 luidden, zijn van overeenkomstige toepassing op geheven bronbelasting over rentebetalingen die zijn gedaan na 31 december 2015.
 
@@ -6038,7 +6066,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 10.6bis
+##### Artikel 10.6bis
 
 Bij het begin van het kalenderjaar wordt het in [artikel 3.123a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.6a&artikel=3.123a&z=2026-02-21&g=2026-02-21), vermelde percentage bij ministeriële regeling vervangen door een ander percentage. Dit percentage wordt berekend door het te vervangen percentage te verlagen met 4,8%-punt.
 
@@ -6052,7 +6080,7 @@ Bij het begin van het kalenderjaar wordt het in [artikel 3.123a, tweede lid](htt
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 10a.18. Overgangsbepaling uitfaseren pensioen in eigen beheer
+##### Artikel 10a.18. Overgangsbepaling uitfaseren pensioen in eigen beheer
 
 1. Met betrekking tot pensioenvoorzieningen waarvoor een lichaam als bedoeld in [artikel 19a, eerste lid, onderdelen d of e, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=19a), zoals dat artikel luidde op 31 december 2016, als verzekeraar optreedt, blijven de [artikelen 3.18, eerste lid, tweede volzin, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.18&z=2026-02-21&g=2026-02-21), [3.27, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.27&z=2026-02-21&g=2026-02-21), [3.83, tweede en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.1&artikel=3.83&z=2026-02-21&g=2026-02-21), [5.17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.3B&artikel=5.17&z=2026-02-21&g=2026-02-21), en [7.2, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=7&afdeling=7.2&artikel=7.2&z=2026-02-21&g=2026-02-21), alsmede de daarop gebaseerde bepalingen, zoals die artikelen en bepalingen luidden op 31 december 2016, van toepassing.
 
@@ -6068,13 +6096,13 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 10a.19. Overgangsbepaling conserverende aanslagen lijfrente en pensioen
+##### Artikel 10a.19. Overgangsbepaling conserverende aanslagen lijfrente en pensioen
 
 1. Voor de toepassing van [artikel 3.136, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.8&artikel=3.136&z=2026-02-21&g=2026-02-21), blijven de aldaar bedoelde premies buiten beschouwing voor zover deze betrekking hebben op de periode tot en met 31 december 1991 of op de periode van 1 januari 2001 tot en met 15 juli 2009.
 
 2. Voor de toepassing van [artikel 3.136, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.8&artikel=3.136&z=2026-02-21&g=2026-02-21), blijven de aldaar bedoelde aanspraken en bijdragen buiten beschouwing voor zover deze betrekking hebben op de periode tot en met 15 juli 2009.
 
-#### Artikel 10a.20. Overgangsbepaling teruggave van of nagekomen betaling ter zake van uitgaven voor monumentenpanden
+##### Artikel 10a.20. Overgangsbepaling teruggave van of nagekomen betaling ter zake van uitgaven voor monumentenpanden
 
 [Artikel 3.139, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.9&artikel=3.139&z=2026-02-21&g=2026-02-21), zoals dat luidde op 31 december 2018, blijft van toepassing met betrekking tot hetgeen wordt ontvangen als teruggave van of nagekomen betaling ter zake van uitgaven voor monumentenpanden die op grond van [afdeling 6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=6&afdeling=6.8&z=2026-02-21&g=2026-02-21), zoals die afdeling op 31 december 2018 luidde, in aanmerking zijn genomen.
 
@@ -6082,7 +6110,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 3.20a. Bijtelling privégebruik fiets
+##### Artikel 3.20a. Bijtelling privégebruik fiets
 
 1. Indien aan de belastingplichtige ook voor privédoeleinden een fiets ter beschikking staat, wordt op jaarbasis 7% van de waarde van de fiets als onttrekking in aanmerking genomen. De fiets wordt in ieder geval geacht ook voor privédoeleinden ter beschikking te staan indien de fiets ook voor woon-werkverkeer ter beschikking staat.
 
@@ -6236,7 +6264,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ### Afdeling 9.1. Heffing bij wege van aanslag
 
-#### Artikel 10.6ter. Jaarlijkse vervanging percentages forfaitair rendement uit vermogen
+##### Artikel 10.6ter. Jaarlijkse vervanging percentages forfaitair rendement uit vermogen
 
 1. Bij het begin van het kalenderjaar wordt het in [artikel 4.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.2&artikel=4.14&z=2026-02-21&g=2026-02-21), vermelde percentage na toepassing van het derde tot en met achtste lid bij ministeriële regeling vervangen door een ander percentage. Dit percentage wordt gesteld op het in [artikel 5.2, tweede lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.1&artikel=5.2&z=2026-02-21&g=2026-02-21), als tweede vermelde percentage.
 
@@ -6284,7 +6312,7 @@ waarbij wordt verstaan onder:
 
 ### Hoofdstuk 10A. Overig overgangsrecht ten gevolge van wijzigingswetten
 
-#### Artikel 10a.21. Overgangsbepaling teruggave van of nagekomen betaling ter zake van scholingsuitgaven
+##### Artikel 10a.21. Overgangsbepaling teruggave van of nagekomen betaling ter zake van scholingsuitgaven
 
 [Artikel 3.139, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.9&artikel=3.139&z=2026-02-21&g=2026-02-21), zoals dat luidde op 31 december 2021, blijft van toepassing met betrekking tot hetgeen wordt ontvangen als teruggave van of nagekomen betaling ter zake van scholingsuitgaven die op grond van [afdeling 6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=6&afdeling=6.7&z=2026-02-21&g=2026-02-21), zoals die afdeling op 31 december 2021 luidde, in aanmerking zijn genomen.
 
@@ -6294,7 +6322,7 @@ waarbij wordt verstaan onder:
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 3.29d. BIK-afdrachtvermindering bij aanschaf bedrijfsmiddel
+##### Artikel 3.29d. BIK-afdrachtvermindering bij aanschaf bedrijfsmiddel
 
 Vervallen
 
@@ -6412,7 +6440,7 @@ Vervallen
 
 ### Afdeling 9.1. Heffing bij wege van aanslag
 
-#### Artikel 9.4a. Beschikking bedrag rendementsgrondslag en beschikking bedrag groen beleggen
+##### Artikel 9.4a. Beschikking bedrag rendementsgrondslag en beschikking bedrag groen beleggen
 
 1. Gelijktijdig met de aanslag stelt de inspecteur bij voor bezwaar vatbare beschikking vast en vermeldt afzonderlijk op het aanslagbiljet:
 
@@ -6434,7 +6462,7 @@ Vervallen
 
 ### Afdeling 10.2. Overige aanvullende regelingen
 
-#### Artikel 10a.22
+##### Artikel 10a.22
 
 Voor de toepassing van [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=2&afdeling=2.3&artikel=2.7&z=2026-02-21&g=2026-02-21) en [artikel 7.8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=7&afdeling=7.5&artikel=7.8&z=2026-02-21&g=2026-02-21), wordt onder een inwoner van een andere lidstaat van de Europese Unie mede verstaan een inwoner van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland die in het kalenderjaar de in de artikelen 24 en 25 van het Akkoord inzake de terugtrekking van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland uit de Europese Unie en de Europese Gemeenschap voor Atoomenergie (PbEU 2020, L 29) genoemde rechten geniet.
 
@@ -6444,7 +6472,7 @@ Voor de toepassing van [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR001
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 4.14a. Fictief regulier voordeel
+##### Artikel 4.14a. Fictief regulier voordeel
 
 1. Als het bovenmatige deel van schulden, bedoeld in [artikel 4.13, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.1&artikel=4.13&z=2026-02-21&g=2026-02-21), wordt in aanmerking genomen:
 
@@ -6464,7 +6492,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 7. Indien een schuld die deel uitmaakt van het vermogen van een samenwerkingsverband voor de toepassing van het eerste lid in aanmerking wordt genomen bij meerdere belastingplichtigen die participeren in dat samenwerkingsverband en het gezamenlijk in aanmerking te nemen bedrag van die schuld meer bedraagt dan de nominale waarde daarvan, wordt bij de belastingplichtige het meerdere voor hetzelfde deel als bij de andere belastingplichtige of belastingplichtigen in mindering gebracht op het bij de belastingplichtige in aanmerking te nemen bedrag van de schuld.
 
-#### Artikel 4.14b. Flankerende bepalingen ter zake van het fictief reguliere voordeel
+##### Artikel 4.14b. Flankerende bepalingen ter zake van het fictief reguliere voordeel
 
 1. Schulden die een met de belastingplichtige verbonden persoon rechtens dan wel in feite direct of indirect heeft bij vennootschappen waarin de belastingplichtige een aanmerkelijk belang als bedoeld in [afdeling 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.3&z=2026-02-21&g=2026-02-21) heeft, maar waarin de verbonden persoon geen aanmerkelijk belang als bedoeld in afdeling 4.3 heeft, worden als schulden als bedoeld in [artikel 4.14a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.2&artikel=4.14a&z=2026-02-21&g=2026-02-21), in aanmerking genomen bij de belastingplichtige voor zover de schulden van de verbonden persoon meer bedragen dan € 500.000 en voor die verbonden persoon geen schulden zijn als bedoeld in artikel 4.14a, zesde lid. Voor de toepassing van de eerste zin wordt onder een met de belastingplichtige verbonden persoon verstaan: een bloed- of aanverwant in de rechte lijn van de belastingplichtige of van zijn partner.
 
@@ -6478,7 +6506,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 6. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de vaststelling van het maximumbedrag, bedoeld in [artikel 4.14a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.2&artikel=4.14a&z=2026-02-21&g=2026-02-21), ingeval de belastingplichtige niet gedurende het gehele kalenderjaar dezelfde partner heeft.
 
-#### Artikel 4.14c. Maximumbedrag bij het ontstaan van binnenlandse belastingplicht
+##### Artikel 4.14c. Maximumbedrag bij het ontstaan van binnenlandse belastingplicht
 
 1. Indien een belastingplichtige in Nederland gaat wonen en op dat tijdstip schulden heeft aan vennootschappen als bedoeld in [artikel 4.13, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.1&artikel=4.13&z=2026-02-21&g=2026-02-21), wordt het maximumbedrag, bedoeld in [artikel 4.14a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.2&artikel=4.14a&z=2026-02-21&g=2026-02-21), gesteld op het bedrag van die schulden, doch ten minste op € 500.000. [Artikel 4.14b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.2&artikel=4.14b&z=2026-02-21&g=2026-02-21) is van overeenkomstige toepassing.
 
@@ -6488,7 +6516,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - b. de belastingplichtige voordien ten aanzien van een aanmerkelijk belang buitenlandse belastingplichtige is geweest.
 
-#### Artikel 4.14d. Aanpassing vervreemdingsvoordeel bij einde binnenlandse belastingplicht
+##### Artikel 4.14d. Aanpassing vervreemdingsvoordeel bij einde binnenlandse belastingplicht
 
 In geval van een vervreemding als bedoeld in [artikel 4.16, eerste lid, aanhef en onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.1&artikel=4.16&z=2026-02-21&g=2026-02-21), wordt het ingevolge artikel 4.16, eerste lid, aanhef en onderdeel h, in aanmerking te nemen vervreemdingsvoordeel, bedoeld in [artikel 4.19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.2&artikel=4.19&z=2026-02-21&g=2026-02-21), vermeerderd met het negatieve bedrag dat ingevolge [artikel 4.14a, eerste lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.2&artikel=4.14a&z=2026-02-21&g=2026-02-21), als fictief regulier voordeel als bedoeld in [artikel 4.13, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.1&artikel=4.13&z=2026-02-21&g=2026-02-21), in aanmerking zou zijn genomen ingeval de belastingplichtige binnenlandse belastingplichtige zou zijn gebleven en aan het einde van het kalenderjaar het bedrag van de schulden nihil zou zijn.
 
@@ -6520,7 +6548,7 @@ In geval van een vervreemding als bedoeld in [artikel 4.16, eerste lid, aanhef e
 
 ### Afdeling 5.4. Waardering
 
-#### Artikel 5.24. Peildatumarbitrage
+##### Artikel 5.24. Peildatumarbitrage
 
 1. Indien aan het begin van het kalenderjaar (peildatum) de waarde van de overige bezittingen, bedoeld in [artikel 5.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.1&artikel=5.2&z=2026-02-21&g=2026-02-21), van de belastingplichtige als gevolg van zijn handelingen lager is dan de hoogste waarde van zijn overige bezittingen in een aaneengesloten periode van drie maanden die aanvangt voor en eindigt na die peildatum, en tevens op die peildatum de waarde van de banktegoeden, bedoeld in artikel 5.2, tweede lid, van de belastingplichtige als gevolg van zijn handelingen hoger is dan de laagste waarde van zijn banktegoeden in die periode, worden die handelingen voor de toepassing van artikel 5.2 geacht niet te hebben plaatsgevonden, voor zover zowel de waarde van zijn overige bezittingen op enig na die peildatum gelegen moment in die periode hoger is dan de waarde van zijn overige bezittingen op die peildatum als de waarde van zijn banktegoeden op enig na die peildatum gelegen moment in die periode lager is dan de waarde van zijn banktegoeden op die peildatum. De eerste zin is niet van toepassing voor zover de belastingplichtige aannemelijk maakt dat aan zijn handelingen zakelijke overwegingen ten grondslag lagen.
 
@@ -6542,7 +6570,7 @@ In geval van een vervreemding als bedoeld in [artikel 4.16, eerste lid, aanhef e
 
 ### Hoofdstuk 7. Belastingheffing van buitenlandse belastingplichtigen
 
-#### Artikel 7.5a. Aanpassing vervreemdingsvoordeel bij verplaatsing werkelijke leiding
+##### Artikel 7.5a. Aanpassing vervreemdingsvoordeel bij verplaatsing werkelijke leiding
 
 Indien de belastingplichtige door een vervreemding als bedoeld in [artikel 7.5, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=7&afdeling=7.3&artikel=7.5&z=2026-02-21&g=2026-02-21), niet langer, of uitsluitend nog vanwege de toepassing van artikel 7.5, zesde lid, een aanmerkelijk belang heeft, wordt het ingevolge artikel 7.5, zevende lid, in aanmerking te nemen vervreemdingsvoordeel, bedoeld in [artikel 4.19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.2&artikel=4.19&z=2026-02-21&g=2026-02-21), vermeerderd met het negatieve bedrag dat ingevolge [artikel 4.14a, eerste lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.2&artikel=4.14a&z=2026-02-21&g=2026-02-21), als fictief regulier voordeel als bedoeld in [artikel 4.13, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.1&artikel=4.13&z=2026-02-21&g=2026-02-21), in aanmerking zou zijn genomen ingeval de verplaatsing van de werkelijke leiding van de vennootschap niet had plaatsgevonden en aan het einde van het kalenderjaar het bedrag van de schulden nihil zou zijn, voor zover ter zake van dat negatieve bedrag nog niet eerder een vervreemdingsvoordeel is vermeerderd op grond van [artikel 4.14d](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.2&artikel=4.14d&z=2026-02-21&g=2026-02-21).
 
@@ -6558,7 +6586,7 @@ Indien de belastingplichtige door een vervreemding als bedoeld in [artikel 7.5, 
 
 ### Afdeling 9.2. Bijzondere regels
 
-#### Artikel 9.7. Bijzondere regels voor massaal bezwaar
+##### Artikel 9.7. Bijzondere regels voor massaal bezwaar
 
 1. De bepalingen van [hoofdstuk V, afdeling 1a, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&afdeling=1a) zijn van overeenkomstige toepassing op verzoeken om ambtshalve vermindering waarvoor een aanwijzing massaal bezwaar als bedoeld in het tweede lid is gegeven.
 
@@ -6578,15 +6606,15 @@ Indien de belastingplichtige door een vervreemding als bedoeld in [artikel 7.5, 
 
 ### Hoofdstuk 10A. Overig overgangsrecht ten gevolge van wijzigingswetten
 
-#### Artikel 10a.23. Overgangsbepaling vereisten hypotheekrecht bij fictief regulier voordeel
+##### Artikel 10a.23. Overgangsbepaling vereisten hypotheekrecht bij fictief regulier voordeel
 
 Bij de toepassing van [artikel 4.14a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.2&artikel=4.14a&z=2026-02-21&g=2026-02-21), blijft mede buiten aanmerking een op 31 december 2022 bestaande eigenwoningschuld als bedoeld in [artikel 3.119a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.6&artikel=3.119a&z=2026-02-21&g=2026-02-21) ter zake waarvan geen recht van hypotheek is verstrekt aan de vennootschap.
 
-#### Artikel 10a.28. Overgangsbepaling middelingsregeling
+##### Artikel 10a.28. Overgangsbepaling middelingsregeling
 
 [Afdeling 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.14&z=2026-02-21&g=2026-02-21) zoals die luidde op 31 december 2022 blijft van toepassing op verzoeken om een middelingsteruggaaf over een middelingstijdvak waartoe het kalenderjaar 2022 of een daaraan voorafgaand kalenderjaar behoort.
 
-#### Artikel 10a.29. Overgangsbepaling oudedagsreserve
+##### Artikel 10a.29. Overgangsbepaling oudedagsreserve
 
 1. Met betrekking tot een op 31 december 2022, dan wel, indien de winst wordt bepaald over een niet met het kalenderjaar samenvallend boekjaar, het einde van het laatste boekjaar dat is aangevangen vóór 1 januari 2023 bestaande oudedagsreserve als bedoeld in [artikel 3.53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.53&z=2026-02-21&g=2026-02-21), onderdeel c, zoals dat luidde op 31 december 2022, blijven de [artikelen 3.70](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&artikel=3.70&z=2026-02-21&g=2026-02-21), [3.71](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&artikel=3.71&z=2026-02-21&g=2026-02-21), [3.72, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&artikel=3.72&z=2026-02-21&g=2026-02-21), en [3.73, tweede lid, onderdeel c, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&artikel=3.73&z=2026-02-21&g=2026-02-21), zoals deze luidden op 31 december 2022, van toepassing.
 
@@ -6624,7 +6652,7 @@ Bij de toepassing van [artikel 4.14a, eerste lid](https://wetten.overheid.nl/jci
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 5.4a. Defiscaliseren bepaalde onderlinge vorderingen en schulden
+##### Artikel 5.4a. Defiscaliseren bepaalde onderlinge vorderingen en schulden
 
 1. Tot de bezittingen behoren niet vorderingen op de partner van de belastingplichtige die corresponderen met een schuld als bedoeld in [artikel 5.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.1&artikel=5.3&z=2026-02-21&g=2026-02-21), van de partner aan de belastingplichtige.
 
@@ -6674,7 +6702,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 5.25. Tegenbewijsregeling
+##### Artikel 5.25. Tegenbewijsregeling
 
 1. Indien de belastingplichtige aannemelijk maakt dat het werkelijke rendement van bezittingen en schulden lager is dan het voordeel uit sparen en beleggen, wordt het belastbare inkomen uit sparen en beleggen in afwijking van [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.1&artikel=5.1&z=2026-02-21&g=2026-02-21) gesteld op het werkelijke rendement van bezittingen en schulden, verminderd met de persoonsgebonden aftrek ([hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=6&z=2026-02-21&g=2026-02-21)).
 
@@ -6692,7 +6720,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 8. Het zesde en zevende lid is niet van toepassing indien de gegevens voor de tegenbewijsregeling op basis van het werkelijke rendement door de inspecteur zijn gevraagd als onderdeel van de uitnodiging tot het doen van aangifte.
 
-#### Artikel 5.26. Werkelijk rendement
+##### Artikel 5.26. Werkelijk rendement
 
 1. Het werkelijke rendement van bezittingen en schulden is het gezamenlijke bedrag van alle voordelen die worden behaald met bezittingen en schulden.
 
@@ -6706,7 +6734,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 4. Bij het bepalen van het werkelijke rendement van bezittingen en schulden is [artikel 5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.2&artikel=5.12&z=2026-02-21&g=2026-02-21) uitsluitend van toepassing, indien het achterliggende vermogensbestanddeel, bedoeld in dat artikel, een banktegoed is als bedoeld in [artikel 5.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.1&artikel=5.2&z=2026-02-21&g=2026-02-21).
 
-#### Artikel 5.27. Reguliere voordelen
+##### Artikel 5.27. Reguliere voordelen
 
 1. Tot de reguliere voordelen behoren in ieder geval genoten:
 
@@ -6736,7 +6764,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 3. Indien bij een niet onder zakelijke omstandigheden gesloten overeenkomst voorwaarden zijn bedongen die afwijken van voorwaarden die in het economische verkeer door onafhankelijke partijen zouden zijn overeengekomen, worden de reguliere voordelen bepaald alsof laatstbedoelde voorwaarden zijn overeengekomen.
 
-#### Artikel 5.28. Vermogensaanwas
+##### Artikel 5.28. Vermogensaanwas
 
 1. De vermogensaanwas van bezittingen en schulden bestaat uit het verschil tussen de waarde aan het einde van het kalenderjaar van het saldo van bezittingen en schulden en de waarde aan het begin van het kalenderjaar van het saldo van bezittingen en schulden, verminderd met de stortingen en vermeerderd met de onttrekkingen.
 
@@ -6746,7 +6774,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - b. een toename van een negatief saldo van bezittingen en schulden als een negatieve vermogensaanwas in aanmerking genomen.
 
-#### Artikel 5.29. Stortingen
+##### Artikel 5.29. Stortingen
 
 1. Een storting is een positieve waardemutatie van het saldo van bezittingen en schulden die het directe gevolg is van:
 
@@ -6762,7 +6790,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 5. Stortingen worden in aanmerking genomen tegen de waarde ten tijde van de storting.
 
-#### Artikel 5.30. Onttrekkingen
+##### Artikel 5.30. Onttrekkingen
 
 1. Een onttrekking is een negatieve waardemutatie van het saldo van bezittingen en schulden die het directe gevolg is van:
 
@@ -6772,7 +6800,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 2. Onttrekkingen worden in aanmerking genomen tegen de waarde ten tijde van de onttrekking.
 
-#### Artikel 5.31. Waardering bezittingen en schulden
+##### Artikel 5.31. Waardering bezittingen en schulden
 
 1. De waarde van bezittingen en schulden wordt bepaald met overeenkomstige toepassing van [afdeling 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.4&z=2026-02-21&g=2026-02-21) en de daarop berustende bepalingen, met dien verstande dat:
 
@@ -6798,7 +6826,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 5. [Artikel 5.20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.4&artikel=5.20&z=2026-02-21&g=2026-02-21), is van overeenkomstige toepassing, met dien verstande dat de met toepassing van het tweede lid berekende waarde van de woning wordt verminderd met de waarde van de erfpachtcanon, bedoeld in artikel 5.20, vierde lid.
 
-#### Artikel 5.31a. Vrijstelling bepaalde levensverzekeringen
+##### Artikel 5.31a. Vrijstelling bepaalde levensverzekeringen
 
 Voor de toepassing van deze afdeling behoren rechten op kapitaalsuitkeringen of prestaties uit levensverzekering, uitsluitend bestaande uit een kapitaalsuitkering bij overlijden van de belastingplichtige, zijn partner of een bloed- of aanverwant, dan wel op prestaties in natura ter zake van de verzorging van een uitvaart, uitsluitend tot de bezittingen, indien:
 
@@ -6806,31 +6834,31 @@ Voor de toepassing van deze afdeling behoren rechten op kapitaalsuitkeringen of 
 
 - b. de som van de waarde van die rechten aan het begin van het kalenderjaar per persoon meer bedraagt dan het in [artikel 5.10, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.2&artikel=5.10&z=2026-02-21&g=2026-02-21), vermelde bedrag.
 
-#### Artikel 5.31b. Vrijstelling contant geld
+##### Artikel 5.31b. Vrijstelling contant geld
 
 1. Voor de toepassing van deze afdeling behoren geld, elektronisch geld in de vorm van een chipkaart, alsmede vermogensrechten die zijn bestemd voor het doen van consumentenaankopen, zoals cadeaubonnen, uitsluitend tot de bezittingen, indien het totale bedrag van die vermogensbestanddelen aan het begin van het kalenderjaar hoger is dan het in [artikel 5.10, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.2&artikel=5.10&z=2026-02-21&g=2026-02-21), eerstvermelde bedrag. In dat geval wordt een deel van het werkelijke rendement van die vermogensbestanddelen niet in aanmerking genomen. Dit deel wordt berekend door het werkelijke rendement van die vermogensbestanddelen te vermenigvuldigen met het quotiënt van het in artikel 5.10, onderdeel d, eerstvermelde bedrag en het totale bedrag van die vermogensbestanddelen aan het begin van het kalenderjaar. Hierbij wordt het werkelijke rendement van die vermogensbestanddelen bepaald met overeenkomstige toepassing van de [artikelen 5.26 tot en met 5.31](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.6&artikel=5.26&z=2026-02-21&g=2026-02-21), [5.33](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.6&artikel=5.33&z=2026-02-21&g=2026-02-21) en [5.34](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.6&artikel=5.34&z=2026-02-21&g=2026-02-21).
 
 2. Ingeval de belastingplichtige het gehele kalenderjaar dezelfde partner heeft of voor de toepassing van [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=2&afdeling=2.4&artikel=2.17&z=2026-02-21&g=2026-02-21) geacht wordt te hebben gehad, wordt het eerste lid toegepast op het gezamenlijke geld, het gezamenlijke elektronische geld in de vorm van een chipkaart, alsmede de gezamenlijke vermogensrechten die zijn bestemd voor het doen van consumentenaankopen, zoals cadeaubonnen, van de belastingplichtige en zijn partner, met dien verstande dat daarbij het in [artikel 5.10, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.2&artikel=5.10&z=2026-02-21&g=2026-02-21), als tweede vermelde bedrag wordt toegepast.
 
-#### Artikel 5.32. Vrijstelling groene beleggingen
+##### Artikel 5.32. Vrijstelling groene beleggingen
 
 1. Voor de toepassing van deze afdeling behoren groene beleggingen uitsluitend tot de bezittingen, indien de waarde van de groene beleggingen aan het begin van het kalenderjaar hoger is dan het in [artikel 5.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.3&artikel=5.13&z=2026-02-21&g=2026-02-21), eerstvermelde bedrag. In dat geval wordt een deel van het werkelijke rendement van die groene beleggingen niet in aanmerking genomen. Dit deel wordt berekend door het werkelijke rendement van de groene beleggingen te vermenigvuldigen met het quotiënt van het in artikel 5.13, eerste lid, eerstvermelde bedrag en de waarde van de groene beleggingen aan het begin van het kalenderjaar. Hierbij wordt het werkelijke rendement van de groene beleggingen bepaald met overeenkomstige toepassing van de [artikelen 5.26 tot en met 5.31](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.6&artikel=5.26&z=2026-02-21&g=2026-02-21), [5.33](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.6&artikel=5.33&z=2026-02-21&g=2026-02-21) en [5.34](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.6&artikel=5.34&z=2026-02-21&g=2026-02-21).
 
 2. Ingeval de belastingplichtige het gehele kalenderjaar dezelfde partner heeft of voor de toepassing van [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=2&afdeling=2.4&artikel=2.17&z=2026-02-21&g=2026-02-21) geacht wordt te hebben gehad, wordt het eerste lid toegepast op de gezamenlijke groene beleggingen van de belastingplichtige en zijn partner, met dien verstande dat daarbij het in [artikel 5.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.3&artikel=5.13&z=2026-02-21&g=2026-02-21), als tweede vermelde bedrag wordt toegepast.
 
-#### Artikel 5.32a. Vrijstelling bepaalde kapitaalverzekeringen
+##### Artikel 5.32a. Vrijstelling bepaalde kapitaalverzekeringen
 
 1. Voor de toepassing van deze afdeling behoren rechten op kapitaalsuitkeringen als bedoeld in [hoofdstuk 2, artikel I, onderdeel AN, van de Invoeringswet Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&artikel=I) uitsluitend tot de bezittingen, indien de waarde van die rechten aan het begin van het kalenderjaar hoger is dan € 123.428. In dat geval wordt een deel van het werkelijke rendement van die rechten niet in aanmerking genomen. Dit deel wordt berekend door het werkelijke rendement van die rechten te vermenigvuldigen met het quotiënt van € 123.428 en de waarde van die rechten aan het begin van het kalenderjaar. Hierbij wordt het werkelijke rendement van die rechten bepaald met overeenkomstige toepassing van de [artikelen 5.26 tot en met 5.31](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.6&artikel=5.26&z=2026-02-21&g=2026-02-21), [5.33](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.6&artikel=5.33&z=2026-02-21&g=2026-02-21) en [5.34](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.6&artikel=5.34&z=2026-02-21&g=2026-02-21).
 
 2. Ingeval de belastingplichtige het gehele kalenderjaar dezelfde partner heeft of voor de toepassing van [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=2&afdeling=2.4&artikel=2.17&z=2026-02-21&g=2026-02-21) geacht wordt te hebben gehad, wordt het eerste lid toegepast op de gezamenlijke rechten op kapitaalsuitkeringen als bedoeld in [hoofdstuk 2, artikel I, onderdeel AN, van de Invoeringswet Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&artikel=I) van de belastingplichtige en zijn partner, met dien verstande dat daarbij een bedrag van € 246.856 wordt toegepast.
 
-#### Artikel 5.33. Vermogensaanwas bij ontstaan of einde binnenlandse belastingplicht
+##### Artikel 5.33. Vermogensaanwas bij ontstaan of einde binnenlandse belastingplicht
 
 1. Indien de belastingplichtige bij het begin van het kalenderjaar nog niet binnenlands belastingplichtig is, wordt bij de toepassing van [artikel 5.28](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.6&artikel=5.28&z=2026-02-21&g=2026-02-21) voor het begin van het kalenderjaar gelezen: het begin van de binnenlandse belastingplicht.
 
 2. Indien de binnenlandse belastingplicht gedurende het kalenderjaar eindigt, wordt bij de toepassing van [artikel 5.28](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.6&artikel=5.28&z=2026-02-21&g=2026-02-21) voor het einde van het kalenderjaar gelezen: het einde van de binnenlandse belastingplicht.
 
-#### Artikel 5.34. Tijdstip genieten en aftrek
+##### Artikel 5.34. Tijdstip genieten en aftrek
 
 1. Reguliere voordelen behoren tot het werkelijke rendement in het kalenderjaar waarin zij zijn:
 
@@ -6854,13 +6882,13 @@ Voor de toepassing van deze afdeling behoren rechten op kapitaalsuitkeringen of 
 
 - d. rentedragend geworden.
 
-#### Artikel 5.35. Onregelmatige handelingen met nettolijfrenten
+##### Artikel 5.35. Onregelmatige handelingen met nettolijfrenten
 
 1. Na toepassing van [artikel 5.16c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.3A&artikel=5.16c&z=2026-02-21&g=2026-02-21), in het voorafgaande kalenderjaar op de gehele of gedeeltelijke aanspraak op een nettolijfrente wordt tot het werkelijke rendement van bezittingen en schulden gerekend het product van het in [artikel 5.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.1&artikel=5.2&z=2026-02-21&g=2026-02-21), als tweede vermelde percentage en het bedrag dat gelijk is aan de helft van de waarde van die gehele aanspraak, onderscheidenlijk gedeeltelijke aanspraak, aan het begin van het voorafgaande kalenderjaar, vermenigvuldigd met tien.
 
 2. Ingeval de belastingplichtige aannemelijk maakt dat het bedrag van de belasting die is verschuldigd over het bedrag dat ingevolge het eerste lid tot het werkelijke rendement van bezittingen en schulden wordt gerekend, hoger is dan het totale bedrag van de belasting en de belastingrente, bedoeld in [hoofdstuk VA van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VA), die zouden zijn verschuldigd indien de mogelijkheid zou bestaan de in de voorafgaande jaren ingevolge [artikel 5.16](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.3A&artikel=5.16&z=2026-02-21&g=2026-02-21) genoten vrijstelling door middel van navorderingsaanslagen ongedaan te maken, wordt in afwijking van het eerste lid tot het werkelijke rendement van bezittingen en schulden gerekend dit totale bedrag vermenigvuldigd met het quotiënt van 100% en het in [artikel 2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=2&afdeling=2.3&artikel=2.13&z=2026-02-21&g=2026-02-21) vermelde percentage.
 
-#### Artikel 5.36. Onregelmatige handelingen met nettopensioenen
+##### Artikel 5.36. Onregelmatige handelingen met nettopensioenen
 
 1. Na toepassing van [artikel 5.17e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.3B&artikel=5.17e&z=2026-02-21&g=2026-02-21), in het voorafgaande kalenderjaar op de aanspraak op een nettopensioen wordt tot het werkelijke rendement van bezittingen en schulden gerekend het product van het in [artikel 5.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.1&artikel=5.2&z=2026-02-21&g=2026-02-21), als tweede vermelde percentage en het bedrag dat gelijk is aan de helft van de waarde van die aanspraak aan het begin van het voorafgaande kalenderjaar, vermenigvuldigd met tien.
 
@@ -6898,11 +6926,11 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ### Afdeling 10.3. Experiment pensioenregeling zelfstandigen
 
-#### Artikel 10a.24. Overgangsbepaling premie voor beroeps- of bedrijfstakregeling
+##### Artikel 10a.24. Overgangsbepaling premie voor beroeps- of bedrijfstakregeling
 
 Voor een pensioenregeling als bedoeld in [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.18&z=2026-02-21&g=2026-02-21) zoals dat luidde op de dag voorafgaand aan het tijdstip van inwerkingtreding van de [Wet toekomst pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0048328) is [artikel 38q van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=38q) van overeenkomstige toepassing en blijven artikel 3.18 zoals dat luidde op de dag voorafgaand aan het tijdstip van inwerkingtreding van de Wet toekomst pensioenen en de bij of krachtens dat artikel gestelde normeringen en beperkingen van toepassing.
 
-#### Artikel 10a.25. Overgangsbepaling vermindering jaarruimte in verband met de opbouw van pensioenaanspraken
+##### Artikel 10a.25. Overgangsbepaling vermindering jaarruimte in verband met de opbouw van pensioenaanspraken
 
 1. Voor de toepassing van [artikel 3.127, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.7&artikel=3.127&z=2026-02-21&g=2026-02-21), wordt in afwijking van het vierde lid van dat artikel, voor de belastingplichtige die met toepassing van [artikel 38q van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=38q) pensioenaanspraken opbouwt volgens de normeringen en begrenzingen uit de [artikelen 18 tot en met 18ga van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18) alsmede de daarop gebaseerde bepalingen zoals deze luidden op de dag voorafgaand aan het tijdstip van inwerkingtreding van de [Wet toekomst pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0048328), de vermindering in verband met de opbouw van pensioenaanspraken gesteld op het bedrag dat volgt uit [artikel 3.127, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.7&artikel=3.127&z=2026-02-21&g=2026-02-21), zoals dat luidde op 31 december 2023. Voor de toepassing van de eerste zin blijven artikel 3.127, zesde lid, alsmede de daarop gebaseerde bepalingen zoals deze luidden op 31 december 2023, van toepassing. De eerste en tweede zin zijn van overeenkomstige toepassing op de aan de belastingplichtige toe te rekenen pensioenaanspraken die zijn opgebouwd in de periode van 1 januari 2023 tot en met 30 juni 2023.
 
@@ -6922,13 +6950,13 @@ Y: het bedrag van de door of voor de belastingplichtige in het voorafgaande kale
 
 Z: het gezamenlijke bedrag van de door de belastingplichtige in het voorafgaande kalenderjaar voor een nettopensioen betaalde of verrekende premies, bedoeld in [artikel 5.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.3B&artikel=5.17&z=2026-02-21&g=2026-02-21), gedeeld door de nettofactor, bedoeld in [artikel 5.16, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.3A&artikel=5.16&z=2026-02-21&g=2026-02-21).
 
-#### Artikel 10a.26. Overgangsbepaling experimenteerbepaling zelfstandigen
+##### Artikel 10a.26. Overgangsbepaling experimenteerbepaling zelfstandigen
 
 1. Voor de toepassing van de [artikelen 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=1&artikel=1.2&z=2026-02-21&g=2026-02-21), [1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=1&artikel=1.7&z=2026-02-21&g=2026-02-21)[3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.13&z=2026-02-21&g=2026-02-21), [3.82](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.1&artikel=3.82&z=2026-02-21&g=2026-02-21), [3.83](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.1&artikel=3.83&z=2026-02-21&g=2026-02-21), [3.100](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.5&artikel=3.100&z=2026-02-21&g=2026-02-21), [3.106](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.5&artikel=3.106&z=2026-02-21&g=2026-02-21), [3.107](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.5&artikel=3.107&z=2026-02-21&g=2026-02-21), [3.126](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.7&artikel=3.126&z=2026-02-21&g=2026-02-21), [3.127](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.7&artikel=3.127&z=2026-02-21&g=2026-02-21), [3.133](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.8&artikel=3.133&z=2026-02-21&g=2026-02-21), [3.135](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.8&artikel=3.135&z=2026-02-21&g=2026-02-21), [3.136](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.8&artikel=3.136&z=2026-02-21&g=2026-02-21), [3.146](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.12&artikel=3.146&z=2026-02-21&g=2026-02-21), [5.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.3B&artikel=5.17&z=2026-02-21&g=2026-02-21) en [7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=7&afdeling=7.2&artikel=7.2&z=2026-02-21&g=2026-02-21), [artikel 5 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=5), [artikel 32 van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=32) en [artikel 30i van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30i) en de op die artikelen berustende bepalingen wordt onder een pensioenregeling als bedoeld in [artikel 1.7, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=1&artikel=1.7&z=2026-02-21&g=2026-02-21), mede verstaan een pensioenregeling als bedoeld in [artikel 10.11](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=10&afdeling=10.3&artikel=10.11&z=2026-02-21&g=2026-02-21) zoals dat luidde op de dag voorafgaand aan het bij koninklijk besluit bepaalde tijdstip, bedoeld in artikel XV.
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de afwikkeling van reeds opgebouwde pensioenen op grond van een pensioenregeling als bedoeld in het eerste lid.
 
-#### Artikel 10a.27. Overgangsbepaling nettopensioen
+##### Artikel 10a.27. Overgangsbepaling nettopensioen
 
 Voor een nettopensioen als bedoeld in [artikel 5.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.3B&artikel=5.17&z=2026-02-21&g=2026-02-21) zoals dat luidde op de dag voorafgaand aan het tijdstip van inwerkingtreding van de [Wet toekomst pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0048328) die na de dag voorafgaand aan het tijdstip van inwerkingtreding van de Wet toekomst pensioenen niet voldoet aan [afdeling 5.3B](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.3B&z=2026-02-21&g=2026-02-21), blijven de [artikelen 5.17 tot en met 5.17f](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.3B&artikel=5.17&z=2026-02-21&g=2026-02-21) alsmede de daarop gebaseerde bepalingen zoals deze luidden op de dag voorafgaand aan het tijdstip van inwerkingtreding van de Wet toekomst pensioenen van toepassing.
 
@@ -6950,7 +6978,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ### Afdeling 10.3. Experiment pensioenregeling zelfstandigen
 
-#### Artikel 10.11. Experimenteerbepaling pensioenregeling zelfstandigen
+##### Artikel 10.11. Experimenteerbepaling pensioenregeling zelfstandigen
 
 1. Voor de toepassing van de [artikelen 1.2,](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=1&artikel=1.2&z=2026-02-21&g=2026-02-21)[1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=1&artikel=1.7&z=2026-02-21&g=2026-02-21), [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.13&z=2026-02-21&g=2026-02-21), [3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.18&z=2026-02-21&g=2026-02-21), [3.27](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.27&z=2026-02-21&g=2026-02-21), [3.82](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.1&artikel=3.82&z=2026-02-21&g=2026-02-21), [3.83](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.1&artikel=3.83&z=2026-02-21&g=2026-02-21), [3.95](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.4&paragraaf=3.4.2&artikel=3.95&z=2026-02-21&g=2026-02-21), [3.100](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.5&artikel=3.100&z=2026-02-21&g=2026-02-21), [3.106](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.5&artikel=3.106&z=2026-02-21&g=2026-02-21), [3.107](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.5&artikel=3.107&z=2026-02-21&g=2026-02-21), [3.126](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.7&artikel=3.126&z=2026-02-21&g=2026-02-21), [3.127](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.7&artikel=3.127&z=2026-02-21&g=2026-02-21), [3.133](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.8&artikel=3.133&z=2026-02-21&g=2026-02-21), [3.135](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.8&artikel=3.135&z=2026-02-21&g=2026-02-21), [3.136](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.8&artikel=3.136&z=2026-02-21&g=2026-02-21), [3.146](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.12&artikel=3.146&z=2026-02-21&g=2026-02-21), [5.16a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.3A&artikel=5.16a&z=2026-02-21&g=2026-02-21), [5.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.3B&artikel=5.17&z=2026-02-21&g=2026-02-21), [7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=7&afdeling=7.2&artikel=7.2&z=2026-02-21&g=2026-02-21), [10.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=10&afdeling=10.2&artikel=10.8&z=2026-02-21&g=2026-02-21) en [10a.24](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=10A&artikel=10a.24&z=2026-02-21&g=2026-02-21), [artikel 5 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=5), [artikel 32 van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=32) en [artikel 30i van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30i), en de op die artikelen berustende bepalingen wordt onder een pensioenregeling als bedoeld in [artikel 1.7, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=1&artikel=1.7&z=2026-02-21&g=2026-02-21), mede verstaan een pensioenregeling als bedoeld in [artikel 150a van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=150a), waarbij wordt verstaan onder dienstjaar: jaar waarin wordt deelgenomen in een pensioenregeling op grond van artikel 150a van de Pensioenwet.
 
@@ -6968,7 +6996,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 1.11. Buitenlandse rechtsvormen en vennootschappen waarvan het kapitaal geheel of ten dele in aandelen is verdeeld
+##### Artikel 1.11. Buitenlandse rechtsvormen en vennootschappen waarvan het kapitaal geheel of ten dele in aandelen is verdeeld
 
 Dit onderdeel is nog niet inwerking getreden
 
@@ -6982,7 +7010,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ### Afdeling 2.4. Toerekeningsregels
 
-#### Artikel 2.14bis. Toerekening inkomensbestanddelen bij een maatschap, vennootschap onder firma, commanditaire vennootschap, transparant fonds of een naar het recht van een andere staat opgericht of aangegaan lichaam
+##### Artikel 2.14bis. Toerekening inkomensbestanddelen bij een maatschap, vennootschap onder firma, commanditaire vennootschap, transparant fonds of een naar het recht van een andere staat opgericht of aangegaan lichaam
 
 1. Voor de toepassing van deze wet en de daarop berustende bepalingen worden de bezittingen en schulden alsmede de opbrengsten en uitgaven, onderscheidenlijk kosten, van een maatschap, vennootschap onder firma, commanditaire vennootschap en een transparant fonds, toegerekend aan de participanten in dat lichaam naar rato van ieders gerechtigdheid.
 
@@ -7012,7 +7040,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 #### Paragraaf 3.2.2. Winst uit een onderneming
 
-#### Artikel 3.54aa. Herinvesteringsreserve bij het staken van een gedeelte van een onderneming ten gevolge van overheidsingrijpen
+##### Artikel 3.54aa. Herinvesteringsreserve bij het staken van een gedeelte van een onderneming ten gevolge van overheidsingrijpen
 
 1. Een herinvesteringsreserve kan mede worden gevormd ter zake van de vervreemding van een bedrijfsmiddel in het kader van het staken van een gedeelte van een onderneming ten gevolge van overheidsingrijpen als bedoeld in [artikel 3.54, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.54&z=2026-02-21&g=2026-02-21), zolang het voornemen bestaat dat het bedrag van die reserve in het jaar van die vervreemding of in een van de daaropvolgende drie jaren zal worden geherinvesteerd in een of meer bedrijfsmiddelen ten behoeve van een andere onderneming waaruit de belastingplichtige als ondernemer winst geniet.
 
@@ -7060,7 +7088,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ### Afdeling 4.2. Gelijkstellingen
 
-#### Artikel 4.5b. Niet-vergelijkbare rechtsvormen
+##### Artikel 4.5b. Niet-vergelijkbare rechtsvormen
 
 Dit onderdeel is nog niet inwerking getreden
 
@@ -7112,7 +7140,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ### Afdeling 9.1. Heffing bij wege van aanslag
 
-#### Artikel 9.5a. Bijzondere regels voor voorlopige aanslagen ter zake van belastbaar inkomen uit sparen en beleggen
+##### Artikel 9.5a. Bijzondere regels voor voorlopige aanslagen ter zake van belastbaar inkomen uit sparen en beleggen
 
 In afwijking van [artikel 9.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=9&afdeling=9.2&artikel=9.5&z=2026-02-21&g=2026-02-21) wordt in de periode waarin de percentages voor banktegoeden en voor schulden, bedoeld in [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5&afdeling=5.1&artikel=5.2&z=2026-02-21&g=2026-02-21), nog niet ingevolge [artikel 10.6ter, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=10&afdeling=10.1&artikel=10.6ter&z=2026-02-21&g=2026-02-21), voor het kalenderjaar zijn vastgesteld bij het opleggen van een voorlopige aanslag over dat kalenderjaar ter zake van belastbaar inkomen uit sparen en beleggen uitgegaan van bij ministeriële regeling vast te stellen percentages. Daarbij wordt het te hanteren percentage voor banktegoeden vastgesteld op het rentepercentage van de maand juli van het voorafgaande kalenderjaar op deposito’s van huishoudens met een opzegtermijn van maximaal drie maanden, zoals gepubliceerd door De Nederlandsche Bank, en het percentage voor schulden op het rentepercentage van de maand juli van het voorafgaande kalenderjaar over het totale uitstaande bedrag aan woninghypotheken van huishoudens, zoals gepubliceerd door De Nederlandsche Bank.
 
@@ -7152,7 +7180,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 10a.30. Overgangsbepaling inkomensafhankelijke combinatiekorting
+##### Artikel 10a.30. Overgangsbepaling inkomensafhankelijke combinatiekorting
 
 De [artikelen 2.7, eerste lid, derde zin, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=2&afdeling=2.3&artikel=2.7&z=2026-02-21&g=2026-02-21), [8.2, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=8&afdeling=8.1&artikel=8.2&z=2026-02-21&g=2026-02-21), [8.14a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=8&afdeling=8.2&artikel=8.14a&z=2026-02-21&g=2026-02-21) en [10.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=10&afdeling=10.1&artikel=10.1&z=2026-02-21&g=2026-02-21), zoals deze luidden op 31 december 2024, blijven van toepassing met betrekking tot een belastingplichtige:
 
@@ -7172,7 +7200,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 5.27a. Waardering voordeel uit eigen gebruik van een onroerende zaak
+##### Artikel 5.27a. Waardering voordeel uit eigen gebruik van een onroerende zaak
 
 1. Het voordeel uit het voor eigen gebruik ter beschikking staan van een onroerende zaak of een deel daarvan wordt gesteld op de economische huurwaarde per jaar van die onroerende zaak, onderscheidenlijk van dat deel van die onroerende zaak.
 

@@ -1,13 +1,39 @@
 ---
-title: "Regeling nationale veiligheidsvoorschriften luchtvaartuigen"
+title: "Regeling van de Minister van Infrastructuur en Waterstaat, van 16 juni 2020 nr. IENW/BSK-2020/88503, houdende regels met betrekking tot de luchtwaardigheid en het gebruik van luchtvaartuigen (Regeling nationale veiligheidsvoorschriften luchtvaartuigen)"
 identifier: "BWBR0043696"
-categorie: "Milieu"
-publicatiedatum: 2024-03-07
-laatste_update: 2024-03-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043696"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-03-07"
+last_updated: "2024-03-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043696"
+soort: "ministeriele-regeling"
+stam_id: "15508373"
+version_id: "26798552"
+internal_id: "C37973821"
+label_id: "15451714"
+dtd_version: "2.0"
+original_entry_into_force: "2020-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043696/2024-03-07/0"
+intitule_bron: "Stcrt.2020-31290"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-06-16"
+intitule_published: "2020-06-18"
+intitule_in_force: "2020-06-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-31290"
+original_signed_date: "2020-06-16"
+original_published_date: "2020-06-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-31290"
+entry_into_force_date: "2020-10-01"
+jci_1_3: "jci1.3:c:BWBR0043696&z=2024-03-07&g=2024-03-07"
+jci_1_0: "1.0:c:BWBR0043696&g=2024-03-07"
+citeertitel_status: "officieel"
+short_title: "Regeling nationale veiligheidsvoorschriften luchtvaartuigen"
+signed_date: "2020-06-16"
+entry_into_force: "2020-10-01"
 ---
-
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 16 juni 2020 nr. IENW/BSK-2020/88503, houdende regels met betrekking tot de luchtwaardigheid en het gebruik van luchtvaartuigen (Regeling nationale veiligheidsvoorschriften luchtvaartuigen)
 
 Gelet op de [artikelen 3.13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.13), [3.24](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.24), en [7.1, tweede lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=7.1), de [artikelen 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=2), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=6), [8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=9), [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=12), en [13, van het Besluit luchtvaartuigen 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=13), de [artikelen 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=11), en [19, derde lid, van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=19), [artikel 7 van het Besluit ongeregeld luchtvervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0002965&artikel=7), en [artikel 7 van het Besluit vluchtuitvoering](https://wetten.overheid.nl/jci1.3:c:BWBR0020111&artikel=7);
@@ -16,7 +42,7 @@ BESLUIT:
 
 ### Hoofdstuk 1. Inleidende bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -92,7 +118,7 @@ In deze regeling wordt verstaan onder:
 
 - **vervoerskosten:** kosten van verzekering, brandstof, onderhouds- en reparatiekosten alsmede landings- en stallingsgelden.
 
-#### Artikel 2. Toepassingsbereik
+##### Artikel 2. Toepassingsbereik
 
 1. Deze regeling is van toepassing op:
 
@@ -104,7 +130,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Ontwerp amateurbouwluchtvaartuigen
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het ontwerp van een zelf ontworpen amateurbouwluchtvaartuig voldoet aan een gelijkwaardig veiligheidsniveau als het veiligheidsniveau dat gewaarborgd wordt door de luchtwaardigheidseisen voor:
 
@@ -128,7 +154,7 @@ In deze regeling wordt verstaan onder:
 
 2. Voor de radiocommunicatie-, navigatie-, en identificatieapparatuur gelden de eisen inzake uitrustingsstukken en de verplichte instrumenten zijn van een toegelaten type.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het ontwerp van een zelf ontworpen amateurbouwluchtvaartuig behoeft de acceptatie van de minister.
 
@@ -170,7 +196,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 1. Aanvraag afgifte of verlenging geldigheidsduur BvL
 
-#### Artikel 5
+##### Artikel 5
 
 1. De aanvraag voor de afgifte of verlenging van de geldigheidsduur van een BvL wordt op elektronische wijze ingediend op een daartoe door de minister op elektronische wijze verstrekt aanvraagformulier.
 
@@ -180,7 +206,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Afgifte ICAO-standaard-BvL
 
-#### Artikel 6
+##### Artikel 6
 
 Bij een aanvraag voor een ICAO-standaard-BvL worden in ieder geval de volgende gegevens ingediend:
 
@@ -194,7 +220,7 @@ Bij een aanvraag voor een ICAO-standaard-BvL worden in ieder geval de volgende g
 
 - e. een ingevuld en ondertekend BvL-acceptatierapport betreffende de BvL-acceptatiekeuring conform het model zoals door de minister op elektronische wijze beschikbaar is gesteld, waaruit blijkt dat het luchtvaartuig na inspectie luchtwaardig is bevonden en geschikt voor veilige operatie.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Voor een luchtvaartuig dat in overeenstemming is met een geaccepteerd type luchtvaartuig, dat is ontworpen, gebouwd, beproefd en uitgerust in een verdragsland en wordt geïmporteerd uit dat verdragsland, worden ten behoeve van de afgifte van een ICAO-standaard-BvL de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=3&paragraaf=2&artikel=6&z=2024-03-07&g=2024-03-07) genoemde gegevens ingediend tezamen met een door de luchtvaartautoriteit van dat verdragsland afgegeven BvL, of BvL voor export naar Nederland dat niet eerder is afgegeven dan 60 dagen onmiddellijk voorafgaand aan de datum van de aanvraag voor een ICAO-standaard-BvL.
 
@@ -214,7 +240,7 @@ Bij een aanvraag voor een ICAO-standaard-BvL worden in ieder geval de volgende g
 
 - d. documenten waaruit blijkt dat het luchtvaartuig na inspectie luchtwaardig is bevonden en geschikt voor veilige operatie.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Voorafgaand aan de afgifte van een ICAO-standaard-BvL worden de verplichte luchtwaardigheidsaanwijzingen van het land van ontwerp en de Nederlandse luchtwaardigheidsaanwijzingen opgevolgd.
 
@@ -222,7 +248,7 @@ Bij een aanvraag voor een ICAO-standaard-BvL worden in ieder geval de volgende g
 
 #### § 3. Afgifte speciaal-BvL voor amateurbouwluchtvaartuigen
 
-#### Artikel 9
+##### Artikel 9
 
 Bij een aanvraag voor een speciaal-BvL voor een door de aanvrager gebouwd amateurbouwluchtvaartuig, waarvan het ontwerp reeds als acceptabel is beoordeeld conform [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=2&artikel=4&z=2024-03-07&g=2024-03-07), worden de volgende gegevens ingediend:
 
@@ -250,7 +276,7 @@ Bij een aanvraag voor een speciaal-BvL voor een door de aanvrager gebouwd amateu
 
 #### § 4. Afgifte speciaal-BvL voor MLA’s, MLH’s, lichte gyrokopters, gemotoriseerde schermvliegtuigen of paramotortrikes
 
-#### Artikel 10
+##### Artikel 10
 
 1. Bij de aanvraag voor een speciaal-BvL voor een MLA, MLH, lichte gyrokopter, gemotoriseerd schermvliegtuig of paramotortrike, worden de volgende gegevens ingediend:
 
@@ -310,13 +336,13 @@ Bij een aanvraag voor een speciaal-BvL voor een door de aanvrager gebouwd amateu
 
 #### § 5. Afgifte speciaal-BvL voor een historisch luchtvaartuig
 
-#### Artikel 11
+##### Artikel 11
 
 1. Met betrekking tot een historisch luchtvaartuig dat als een luchtvaartuig met een duidelijk historisch belang voor het Koninkrijk der Nederlanden wordt aangemerkt, kan na de beoordeling van de luchtwaardigheid van dat luchtvaartuig een speciaal-BvL worden afgegeven.
 
 2. Voor straalvliegtuigen en helikopters van een buitenlands militair ontwerp, die niet zijn voorzien van een BvL of slechts voorzien van een BvL, dat door een buitenlandse militaire autoriteit is afgegeven, wordt geen speciaal-BvL afgegeven.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Bij de aanvraag voor een speciaal-BvL worden in ieder geval de gegevens als genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=3&paragraaf=2&artikel=6&z=2024-03-07&g=2024-03-07) ingediend, alsmede de door de minister met betrekking tot het betreffende luchtvaartuig voor de beoordeling van dat luchtvaartuig nodig geachte bescheiden.
 
@@ -324,7 +350,7 @@ Bij een aanvraag voor een speciaal-BvL voor een door de aanvrager gebouwd amateu
 
 #### § 6. Afgifte speciaal-BvL voor orphan aircraft met maximaal toegelaten startmassa van 2.000 kg of minder
 
-#### Artikel 13
+##### Artikel 13
 
 Voor een luchtvaartuig van een geaccepteerd type luchtvaartuig als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=1&artikel=1&z=2024-03-07&g=2024-03-07), dat is ontworpen, gebouwd, beproefd en uitgerust in een verdragsland en dat wordt geïmporteerd uit de Verenigde Staten van Amerika, Canada of een van de bij EASA aangesloten landen, worden ten behoeve van de afgifte van een speciaal-BvL, de volgende gegevens en documenten ingediend:
 
@@ -348,7 +374,7 @@ Voor een luchtvaartuig van een geaccepteerd type luchtvaartuig als bedoeld in [a
 
 #### § 7. Afgifte export-BvL
 
-#### Artikel 14
+##### Artikel 14
 
 Bij een aanvraag voor een export-BvL worden de volgende gegevens ingediend:
 
@@ -358,7 +384,7 @@ Bij een aanvraag voor een export-BvL worden de volgende gegevens ingediend:
 
 #### § 8. Verlenging geldigheidsduur BvL
 
-#### Artikel 15
+##### Artikel 15
 
 1. De geldigheidsduur van een ICAO-standaard-BvL, een speciaal-BvL betreffende een orphan aircraft of een speciaal-BvL betreffende een historisch luchtvaartuig wordt op aanvraag verlengd nadat is aangetoond dat nog steeds aan de van toepassing zijnde eisen is voldaan.
 
@@ -374,7 +400,7 @@ Bij een aanvraag voor een export-BvL worden de volgende gegevens ingediend:
 
 5. Voor een Nederlands luchtvaartuig dat volledig wordt ingezet voor niet-militaire operaties als bedoeld in artikel 2, derde lid, onder a, van de basisverordening kan het ICAO-standaard-BvL voor ten hoogste 3 jaar geldig worden gehouden door telkens na 1 en 2 jaar een eenvoudig AR overeenkomstig Part M.A.901 (f) van [verordening (EG) nr. 1321/2014](32014R1321) uit te voeren.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De aanvraag voor de verlenging van de geldigheidsduur van een speciaal-BvL betreffende een amateurbouwluchtvaartuig, MLA, MLH, lichte gyrokopter, gemotoriseerd schermvliegtuig of paramotortrike met een leeggewicht, inclusief reddingsmiddelen, van meer dan 120 kg, wordt vergezeld van een opgave van het totale aantal vlieguren, en een verklaring van de houder van het luchtvaartuig waaruit blijkt dat:
 
@@ -406,7 +432,7 @@ De verklaring kan ook ondertekend worden door het door een erkend bedrijf aangew
 
 #### § 9. BvL-acceptatiekeuring, BvL-verlengingsinspectie, BvL-exportinspectie
 
-#### Artikel 17
+##### Artikel 17
 
 1. Een BvL-acceptatiekeuring, een BvL-verlengingsinspectie dan wel een exportinspectie wordt uitgevoerd door een daartoe erkend bedrijf.
 
@@ -416,7 +442,7 @@ De verklaring kan ook ondertekend worden door het door een erkend bedrijf aangew
 
 4. Indien een BvL-acceptatiekeuring, een BvL-verlengingsinspectie dan wel een exportinspectie door de minister in het buitenland wordt uitgevoerd worden naast het desbetreffende vaste tarief volgens de [Regeling tarieven luchtvaart 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023145) de eventuele kosten van een door hem te verrichten onderzoek in het kader van de inspectie door de eigenaar of houder van het betreffende luchtvaartuig gedragen.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Degene die bevoegd is tot het uitvoeren van een BvL-verlengingsinspectie of een exportinspectie bepaalt de inhoud van de technische inspectie, met dien verstande dat in de algemene luchtvaart ten minste de ‘check and inspect’-punten van de 100-uursinspectie of jaarlijkse inspectie of een daaraan gelijkwaardige inspectie worden uitgevoerd, indien de laatste inspectie langer dan een half jaar geleden heeft plaatsgevonden.
 
@@ -426,7 +452,7 @@ De verklaring kan ook ondertekend worden door het door een erkend bedrijf aangew
 
 4. Uiterlijk op de ochtend van de datum van de steekproef, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=3&paragraaf=9&artikel=19&z=2024-03-07&g=2024-03-07), is het inspectierapport conform het model zoals door de minister elektronisch beschikbaar gesteld, voor de minister beschikbaar.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De minister kan een steekproef uitvoeren op een BvL-acceptatiekeuring, een BvL-verlengingsinspectie dan wel een exportinspectie in het kader van het houden van toezicht op het erkende bedrijf.
 
@@ -440,15 +466,15 @@ De verklaring kan ook ondertekend worden door het door een erkend bedrijf aangew
 
 #### § 10. Overdracht, wijziging, vernieuwing, schorsing en intrekking BvL
 
-#### Artikel 20
+##### Artikel 20
 
 Bij de overdracht van een luchtvaartuig wordt een BvL door de voormalige eigenaar of houder van dat luchtvaartuig overgedragen aan de nieuwe eigenaar of houder van dat luchtvaartuig.
 
-#### Artikel 21
+##### Artikel 21
 
 Indien is gebleken dat de gegevens, zoals door de minister zijn vermeld op een BvL, onjuist zijn, wordt een BvL dat de juiste gegevens vermeldt, aan de eigenaar of houder van het luchtvaartuig gezonden.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Een BvL wordt door de minister vernieuwd, bij verlies of indien het onleesbaar, beschadigd of anderszins onbruikbaar is geworden.
 
@@ -458,7 +484,7 @@ Indien is gebleken dat de gegevens, zoals door de minister zijn vermeld op een B
 
 4. Indien een BvL anders dan wegens verlies is vernieuwd, zendt de eigenaar of houder van het luchtvaartuig het oorspronkelijke BvL binnen een week na de datum van verzending van het vernieuwde document aan de minister.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Om een schorsing van een BvL op te heffen toont de houder aan, dat de redenen, die tot schorsing hebben geleid, zijn vervallen.
 
@@ -470,13 +496,13 @@ Indien is gebleken dat de gegevens, zoals door de minister zijn vermeld op een B
 
 #### § 1. Wijziging door middel van individuele goedkeuring
 
-#### Artikel 24
+##### Artikel 24
 
 1. Wijziging van een luchtvaartuig behoeft de instemming van de minister.
 
 2. Met het ontwerp van een wijziging van een luchtvaartuig wordt ingestemd indien is aangetoond dat het gewijzigde luchtvaartuig voldoet aan de luchtwaardigheidsvoorschriften en de geluidseisen die toegepast zijn bij de toelating in Nederland van het type luchtvaartuig zoals die van kracht zijn op de datum van het verzoek om instemming.
 
-#### Artikel 25
+##### Artikel 25
 
 1. De minister stemt zonder aanvraag daartoe reeds in met een wijziging van een luchtvaartuig voorzien van een ICAO-standaard-BvL of een historisch luchtvaartuig voorzien van een speciaal-BvL, indien:
 
@@ -506,7 +532,7 @@ Indien is gebleken dat de gegevens, zoals door de minister zijn vermeld op een B
 
 2. De instemming op voorhand, bedoeld in het eerste lid, geldt alleen indien bij het uitvoeren van een wijziging aantoonbaar gebruik wordt gemaakt van de benodigde informatie van de volgens het eerste lid ingestemde wijziging.
 
-#### Artikel 26
+##### Artikel 26
 
 1. De aanvraag voor:
 
@@ -530,7 +556,7 @@ wordt ingediend respectievelijk gedaan bij de minister door middel van een volle
 
 7. Verkregen instemming met de in het eerste lid genoemde aanvraag blijkt uit een handtekening namens de minister op het formulier.
 
-#### Artikel 27
+##### Artikel 27
 
 1. De minister stemt zonder aanvraag daartoe reeds in met een wijziging van een orphan aircraft, amateurbouwluchtvaartuig, MLA, MLH, lichte gyrokopter, gemotoriseerd schermvliegtuig of paramotortrike, indien:
 
@@ -562,7 +588,7 @@ wordt ingediend respectievelijk gedaan bij de minister door middel van een volle
 
 #### § 2. Wijziging door middel van aanvullend type-certificaat
 
-#### Artikel 28
+##### Artikel 28
 
 1. De minister neemt een aanvraag voor een aanvullend type-certificaat voor het aanbrengen van een ingrijpende wijziging aan een Nederlands luchtvaartuig dat volledig wordt ingezet voor niet-militaire operaties genoemd in artikel 2, derde lid, onder a, van de basisverordening, of een in Bijlage I, onderdeel 1, onder b, bij de basisverordening genoemd luchtvaartuig, dat in het Nederlandse register voor burgerluchtvaartuigen is ingeschreven en is voorzien van een ICAO-standaard-BvL, in behandeling, indien de aanvrager naar het oordeel van de minister over voldoende kennis en ervaring beschikt om het ontwerp en de blijvende luchtwaardigheid daarvan te ondersteunen.
 
@@ -572,7 +598,7 @@ wordt ingediend respectievelijk gedaan bij de minister door middel van een volle
 
 4. De afgifte van een aanvullend type-certificaat wordt op door de minister te bepalen wijze bekendgemaakt.
 
-#### Artikel 29
+##### Artikel 29
 
 1. De minister vermeldt overeenkomstig Part 21, onderdelen 21.A.101, 21A.113 en 21A.114, van verordening (EU) nr. 748/2012, in de certificatiebasis de van toepassing zijnde eisen, waaraan een product waarvoor de aanvraag voor een aanvullend type-certificaat als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=4&paragraaf=2&artikel=28&z=2024-03-07&g=2024-03-07) in behandeling is genomen, moet voldoen.
 
@@ -606,7 +632,7 @@ wordt ingediend respectievelijk gedaan bij de minister door middel van een volle
 
 - d. de aanvrager heeft verklaard dat hem geen eigenschappen van zijn product bekend zijn, die de veiligheid in gevaar brengen.
 
-#### Artikel 30
+##### Artikel 30
 
 1. Voor het uitvoeren van testvluchten ter verkrijging van een aanvullend type-certificaat wordt door de aanvrager toestemming gevraagd.
 
@@ -618,7 +644,7 @@ wordt ingediend respectievelijk gedaan bij de minister door middel van een volle
 
 #### § 3. Overdracht, schorsing en intrekking aanvullend type-certificaat
 
-#### Artikel 31
+##### Artikel 31
 
 1. De houder van een aanvullend type-certificaat kan de minister verzoeken een andere persoon aan te wijzen als houder van het aanvullend type-certificaat.
 
@@ -646,7 +672,7 @@ wordt ingediend respectievelijk gedaan bij de minister door middel van een volle
 
 - e. de verklaring van de nieuwe houder, dat voldaan zal worden aan de eisen gesteld in het ‘Document van overdracht van aanvullend type-certificaat’, aan de verplichtingen die voortvloeien uit ICAO Annex 8.
 
-#### Artikel 32
+##### Artikel 32
 
 1. Om een schorsing van een aanvullend type-certificaat op te heffen toont de houder aan, dat de redenen, die tot schorsing hebben geleid, zijn vervallen.
 
@@ -660,7 +686,7 @@ wordt ingediend respectievelijk gedaan bij de minister door middel van een volle
 
 #### § 1. Onderhoudsprogramma
 
-#### Artikel 33
+##### Artikel 33
 
 1. De houder van een luchtvaartuig is er voor verantwoordelijk dat een bij dat luchtvaartuig behorend onderhoudsprogramma wordt opgesteld, bijgehouden en bij uitvoering van onderhoud wordt gebruikt, tenzij deze verantwoordelijkheid door middel van een schriftelijk contract is overdragen aan een CAMO.
 
@@ -700,7 +726,7 @@ dat door de houder wordt opgesteld en bijgehouden overeenkomstig de voorschrifte
 
 8. Voor luchtvaartuigen die volledig worden ingezet voor niet-militaire operaties als bedoeld in artikel 2, derde lid, onder a, van de basisverordening en die zijn voorzien van een ICAO-standaard-BvL is het aanvullend onderhoud als bedoeld in het zevende lid, onderdeel a, te onderscheiden ten opzichte van het onderhoudsprogramma.
 
-#### Artikel 34
+##### Artikel 34
 
 Het onderhoudsprogramma van een luchtvaartuig als bedoeld in:
 
@@ -710,7 +736,7 @@ Het onderhoudsprogramma van een luchtvaartuig als bedoeld in:
 
 en wijzigingen daarop, worden goedgekeurd door de minister of door een daartoe erkende CAMO die tevens de uitvoering van het onderhoud aanstuurt.
 
-#### Artikel 35
+##### Artikel 35
 
 1. Het onderhoudsprogramma wordt beheerd door de houder van het luchtvaartuig of namens de houder door een gecontracteerde CAMO.
 
@@ -718,7 +744,7 @@ en wijzigingen daarop, worden goedgekeurd door de minister of door een daartoe e
 
 #### § 2. Uitvoering onderhoud
 
-#### Artikel 36
+##### Artikel 36
 
 1. Met betrekking tot het onderhoud van een luchtvaartuig is de houder verplicht ervoor te zorgen dat de minister op zijn verzoek wordt ingelicht omtrent het tijdstip, waarop met het onderhoud dan wel met bepaalde daartoe behorende werkzaamheden zal worden aangevangen.
 
@@ -732,7 +758,7 @@ en wijzigingen daarop, worden goedgekeurd door de minister of door een daartoe e
 
 6. Het onderhoud van luchtvaartuigen die volledig worden ingezet voor niet-militaire staatsactiviteiten of diensten en die zijn voorzien van een ICAO-standaard-BvL wordt uitgevoerd door een daartoe erkend onderhoudsbedrijf.
 
-#### Artikel 37
+##### Artikel 37
 
 1. Met uitzondering van het tweede en het derde lid van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=5&paragraaf=2&artikel=36&z=2024-03-07&g=2024-03-07) geldt dat voor vliegtuigen met een maximaal toegelaten startmassa van 5.700 kg of minder en van helikopters met een maximaal toegelaten startmassa van 2.730 kg of minder, niet-complex onderhoud wordt uitgevoerd door of onder toezicht van een daartoe bevoegde onderhoudstechnicus of door of onder toezicht van een daartoe erkend onderhoudsbedrijf en dat complex onderhoud wordt uitgevoerd door of onder toezicht van een daartoe erkend onderhoudsbedrijf.
 
@@ -766,7 +792,7 @@ en wijzigingen daarop, worden goedgekeurd door de minister of door een daartoe e
 
 5. Aan het vierde lid wordt voldaan, indien het onderhoud wordt verricht door een daartoe erkend onderhoudsbedrijf.
 
-#### Artikel 38
+##### Artikel 38
 
 1. Voor onderhoud aan luchtvaartuigen en onderdelen daarvan buiten Nederland geldt dat:
 
@@ -798,7 +824,7 @@ Na de uitvoering van het onderhoud wordt bij de vrijgave een referentie opgenome
 
 - b. ter zake dienende inlichtingen en gegevens, welke door de houder van het luchtvaartuig zijn verstrekt.
 
-#### Artikel 39
+##### Artikel 39
 
 1. Alvorens na het verrichten van onderhoud het luchtvaartuig of onderdeel daarvan weer in gebruik wordt genomen, wordt een certificaat van vrijgave of een certificaat van vrijgave voor gebruik opgesteld:
 
@@ -812,7 +838,7 @@ Na de uitvoering van het onderhoud wordt bij de vrijgave een referentie opgenome
 
 3. Zowel de inhoud als de vorm van de onder het eerste en tweede lid bedoelde certificaten en verklaringen zijn in overeenstemming met nadere aanwijzingen, voor zover die door de minister zijn gegeven.
 
-#### Artikel 40
+##### Artikel 40
 
 1. Periodiek onderhoud mag door de houder van het luchtvaartuig worden uitgesteld onder de volgende voorwaarden:
 
@@ -826,7 +852,7 @@ Na de uitvoering van het onderhoud wordt bij de vrijgave een referentie opgenome
 
 #### § 3. Technische administratie
 
-#### Artikel 41
+##### Artikel 41
 
 1. De houder van een luchtvaartuig voert tijdens de geldigheidsduur van het voor dat luchtvaartuig afgegeven BvL, een technische administratie ten aanzien van het luchtvaartuig en van de volgende onderdelen daarvan:
 
@@ -858,7 +884,7 @@ die door de houder wordt opgesteld en bijgehouden overeenkomstig de voorschrifte
 
 7. De houder van het luchtvaartuig kan de verplichting tot het voeren van een technische administratie contractueel uitbesteden aan een daartoe erkende CAMO.
 
-#### Artikel 42
+##### Artikel 42
 
 1. Tenzij de minister een andere termijn heeft vastgesteld, wordt de technische administratie onder verantwoordelijkheid van de houder van het luchtvaartuig gedurende de hieronder aangegeven termijnen bewaard:
 
@@ -876,11 +902,11 @@ die door de houder wordt opgesteld en bijgehouden overeenkomstig de voorschrifte
 
 #### § 4. Onderzoek en melden van defecten en gebreken
 
-#### Artikel 43
+##### Artikel 43
 
 De houder van een luchtvaartuig of de uitvoerder van onderhoud aan een luchtvaartuig meldt de bekende en vermoede gebreken van het luchtvaartuig alsmede defecten en beschadigingen, die zijn opgetreden of ontdekt in installaties of onderdelen van het luchtvaartuig en de luchtwaardigheid of het voldoen aan de geluidseisen nadelig beïnvloeden, schriftelijk of op digitale wijze en zo snel mogelijk maar tenminste binnen 72 uur na de waarneming aan de minister.
 
-#### Artikel 44
+##### Artikel 44
 
 1. De houder van een luchtvaartuig is tijdens de geldigheidsduur van het voor dat luchtvaartuig afgegeven BvL verplicht op een door de minister gedaan verzoek het luchtvaartuig voor een onderzoek naar de luchtwaardigheid ter beschikking te stellen op een nader door de minister te bepalen tijdstip en plaats, waarbij zoveel mogelijk rekening zal worden gehouden met de belangen van de houder.
 
@@ -902,7 +928,7 @@ De houder van een luchtvaartuig of de uitvoerder van onderhoud aan een luchtvaar
 
 ### Hoofdstuk 6. Gebruiksbeperkingen
 
-#### Artikel 45
+##### Artikel 45
 
 1. Het is verboden een amateurbouwluchtvaartuig te gebruiken voor:
 
@@ -920,7 +946,7 @@ De houder van een luchtvaartuig of de uitvoerder van onderhoud aan een luchtvaar
 
 3. In en op het amateurbouwluchtvaartuig wordt duidelijk aangegeven dat het een experimenteel luchtvaartuig betreft waarvan niet is aangetoond dat het voldoet aan de internationale veiligheidseisen voor luchtvaartuigen.
 
-#### Artikel 46
+##### Artikel 46
 
 1. Het is verboden:
 
@@ -946,7 +972,7 @@ Dit luchtvaartuig is niet gecertificeerd volgens internationale luchtwaardigheid
 
 This aircraft has not been certificated to international standards. The safety level has not been determined.
 
-#### Artikel 47
+##### Artikel 47
 
 1. Onverminderd de [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=5&paragraaf=4&artikel=44&z=2024-03-07&g=2024-03-07) en 45 worden met een amateurbouwluchtvaartuig, MLA, MLH, lichte gyrokopter, gemotoriseerd schermvliegtuig en paramotortrike slechts vluchten uitgevoerd:
 
@@ -956,7 +982,7 @@ This aircraft has not been certificated to international standards. The safety l
 
 2. De gezagvoerder van een amateurbouwluchtvaartuig, MLA, MLH, lichte gyrokopter, gemotoriseerd schermvliegtuig of paramotortrike informeert iedere passagier voorafgaand aan de vlucht dat het luchtvaartuig niet is gecertificeerd volgens internationale luchtwaardigheidseisen.
 
-#### Artikel 48
+##### Artikel 48
 
 1. Tenzij ten behoeve van het starten en landen, is het verboden ten behoeve van niet-commercieel vervoer met een historisch luchtvaartuig voorzien van een speciaal-BvL lager te vliegen dan 300 meter of 1.000 voet boven de grond. Dit verbod geldt niet voor vluchten uitgevoerd met een historisch luchtvaartuig voorzien van een speciaal-Bvl. met een maximaal toegelaten startmassa van 2.000 kg of minder.
 
@@ -972,7 +998,7 @@ This aircraft has not been certificated to international standards. The safety l
 
 5. Onverminderd het eerste tot en met vierde lid mogen met een historisch luchtvaartuig voorzien van een speciaal-BvL slechts vluchten worden uitgevoerd met inachtneming van de gebruiksbeperkingen die in het vlieghandboek van de fabrikant zijn opgenomen en op dat luchtvaartuig betrekking hebben.
 
-#### Artikel 49
+##### Artikel 49
 
 1. De houder van een historisch luchtvaartuig, die particulier of niet-commercieel vervoer verzorgt, is verplicht ten behoeve van elke vervoersactiviteit verzekerd te zijn tegen de aansprakelijkheid tegenover de vervoerde passagiers overeenkomstig de in [artikel 7.4 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=7.4) gestelde limieten, alsmede tegen de aansprakelijkheid voor schade, veroorzaakt aan derden.
 
@@ -986,7 +1012,7 @@ This aircraft has not been certificated to international standards. The safety l
 
 ### Hoofdstuk 7. Niet-Nederlandse ECAC-luchtvaartuigen
 
-#### Artikel 50
+##### Artikel 50
 
 1. Het tijdelijk verblijven en opereren in Nederland en het tijdelijk gebruik van het Nederlandse luchtruim van het vluchtinformatiegebied Amsterdam door een, in een andere lidstaat van de European Civil Aviation Conference ingeschreven amateurbouwluchtvaartuig, MLA, MLH, lichte gyrokopter, gemotoriseerd schermvliegtuig of paramotortrike, welke niet voorzien is van een geldig EASA-BvL of een geldig ICAO-standaard-BvL, is toegestaan onder de volgende voorschriften en beperkingen:
 
@@ -1030,25 +1056,25 @@ This aircraft has not been certificated to international standards. The safety l
 
 ### Hoofdstuk 8. Slotbepalingen
 
-#### Artikel 51
+##### Artikel 51
 
 1. De [Regeling amateurbouwluchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0013494), de [Regeling historische luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0017356), de [Regeling MLA’s, MLH’s en gemotoriseerde schermvliegtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0015237), de [Regeling aanvullende type-certificatie luchtwaardigheid](https://wetten.overheid.nl/jci1.3:c:BWBR0025367) en de [Regeling onderhoud luchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0012882), zoals dezen luidden onmiddellijk voorafgaand aan de inwerkingtreding van de onderhavige regeling, blijven tot die datum van inwerkingtreding van toepassing op de behandeling van de aanvraag voor certificaten, acceptaties, verklaringen, goedkeuringen, instemmingen, toestemmingen, en overige documenten op grond van bovengenoemde regelingen.
 
 2. De documenten bedoeld in het eerste lid, die hun geldigheid niet hebben verloren, behouden vanaf de inwerkingtreding van deze regeling hun geldigheid voor zover gedurende die periode hun geldigheidsduur overeenkomstig de voorwaarden waaronder elk van deze documenten is afgegeven niet is verlopen, en voor zover aan hetgeen ingevolge de genoemde regelingen, zoals deze golden voor de inwerkingtreding van deze regeling, is voldaan.
 
-#### Artikel 52
+##### Artikel 52
 
 Deze regeling wordt vijf jaren na haar inwerkingtreding geëvalueerd.
 
-#### Artikel 53
+##### Artikel 53
 
 De [Regeling amateurbouwluchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0013494), de [Regeling historische luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0017356), de [Regeling MLA’s, MLH’s en gemotoriseerde schermvliegtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0015237), de [Regeling aanvullende type-certificatie luchtwaardigheid](https://wetten.overheid.nl/jci1.3:c:BWBR0025367) en de [Regeling onderhoud luchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0012882) worden ingetrokken.
 
-#### Artikel 54
+##### Artikel 54
 
 Deze regeling treedt in werking met ingang van 1 oktober 2020.
 
-#### Artikel 55
+##### Artikel 55
 
 Deze regeling wordt aangehaald als: Regeling nationale veiligheidsvoorschriften luchtvaartuigen.
 

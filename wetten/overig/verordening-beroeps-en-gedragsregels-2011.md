@@ -1,13 +1,36 @@
 ---
 title: "Verordening beroeps- en gedragsregels 2011"
 identifier: "BWBR0030484"
-categorie: "Overig"
-publicatiedatum: 2020-01-18
-laatste_update: 2020-01-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030484"
+country: "nl"
+rank: "pbo"
+publication_date: "2020-01-18"
+last_updated: "2020-01-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030484"
+soort: "pbo"
+stam_id: "11455433"
+version_id: "26406482"
+internal_id: "C37519741"
+label_id: "11428934"
+dtd_version: "2.0"
+original_entry_into_force: "2020-01-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030484/2020-01-18/0"
+intitule_bron: "Stcrt.2011-17776"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-06-22"
+intitule_published: "2011-09-30"
+intitule_in_force: "2011-09-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-1456"
+original_published_date: "2020-01-08"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2020-1456"
+entry_into_force_date: "2020-01-18"
+jci_1_3: "jci1.3:c:BWBR0030484&z=2020-01-18&g=2020-01-18"
+jci_1_0: "1.0:c:BWBR0030484&g=2020-01-18"
+citeertitel_status: "officieel"
+entry_into_force: "2020-01-18"
 ---
-
 # Verordening beroeps- en gedragsregels 2011
 
 Overwegende dat het gewenst is beroeps-en gedragsregels vast te stellen;
@@ -20,7 +43,7 @@ Gelet op de adviezen van de ringen;
 
 Stelt de navolgende verordening vast:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze verordening wordt verstaan onder:
 
@@ -40,27 +63,27 @@ In deze verordening wordt verstaan onder:
 
 - h. **Protocolverzekerden:** de hiervoor onder f. en g. genoemde personen of rechtsvormen, inclusief hun rechtsvoorgangers, rechtsopvolgers, rechtsvertegenwoordigers of andere niet onder f. en g. genoemde personen of rechtsvormen voor zover die andere personen of rechtsvormen waren meeverzekerd onder een beroepsaansprakelijkheidsverzekering van de betreffende protocolvoorganger.
 
-#### Artikel 2. Integere beroepsuitoefening
+##### Artikel 2. Integere beroepsuitoefening
 
 De notaris gedraagt zich in de uitoefening van zijn beroep en daarbuiten zodanig dat het vertrouwen in het notariaat en in zijn eigen beroepsuitoefening niet wordt geschaad.
 
-#### Artikel 3. Eigen taak notaris
+##### Artikel 3. Eigen taak notaris
 
 1. Ook indien een opdrachtgever anders zou verlangen, blijft de notaris gehouden de werkzaamheden te verrichten die hij in verband met de opdracht als notaris behoort te verrichten. Dit geldt ook wanneer door derden al werkzaamheden zijn verricht.
 
 2. De notaris kan, bij een aan hem gegeven opdracht, onder zijn verantwoordelijkheid werkzaamheden uitbesteden, mits hij de regie, zeggenschap en het toezicht daarop volledig behoudt.
 
-#### Artikel 4. Geen ontslag geheimhoudingsplicht: doorbreking
+##### Artikel 4. Geen ontslag geheimhoudingsplicht: doorbreking
 
 1. De notaris kan zich niet door de opdrachtgever of door andere bij de rechtshandeling betrokkenen van zijn geheimhoudingsplicht laten ontslaan.
 
 2. Een notaris is bevoegd om na verzoek van een andere notaris een afschrift van een tot zijn protocol behorende akte af te geven aan die andere notaris, mits die andere notaris op zijn beurt een verzoek om dat afschrift heeft gekregen van een persoon die op grond van de [Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388) gerechtigd is tot inzage in die akte. De controle op deze gerechtigdheid en de verantwoordelijkheid en aansprakelijkheid voor de inzage ligt na gedaan verzoek en bedoelde afgifte bij die andere notaris.
 
-#### Artikel 5. Voorlichting over gevolgen
+##### Artikel 5. Voorlichting over gevolgen
 
 De notaris licht alle partijen bij de rechtshandeling waarvoor zijn tussenkomst is ingeroepen voor over de gevolgen van de handeling.
 
-#### Artikel 6. Dienstweigering
+##### Artikel 6. Dienstweigering
 
 1. De notaris is verplicht zijn dienst te weigeren indien hij de redelijke overtuiging of het vermoeden heeft dat misbruik wordt gemaakt van juridische onkunde of feitelijk overwicht.
 
@@ -68,21 +91,21 @@ De notaris licht alle partijen bij de rechtshandeling waarvoor zijn tussenkomst 
 
 3. De notaris is verplicht zijn dienst te weigeren indien zijn medewerking wordt gevraagd aan het vaststellen van door hem niet controleerbare feiten.
 
-#### Artikel 7. Dienstverlening en doorverwijzing
+##### Artikel 7. Dienstverlening en doorverwijzing
 
 Gereserveerd.
 
-#### Artikel 8. Afwikkeling onverdeeldheid
+##### Artikel 8. Afwikkeling onverdeeldheid
 
 1. Indien meer notarissen een opdracht krijgen tot afwikkeling van een onverdeeldheid, wordt de onverdeeldheid afgewikkeld door de notarissen gezamenlijk, tenzij partijen anders overeenkomen.
 
 2. De notaris die in een nalatenschap optreedt als executeur kan niet zonder instemming van de erfgenamen optreden als boedelnotaris.
 
-#### Artikel 9. Verbod provisie
+##### Artikel 9. Verbod provisie
 
 Het is de notaris niet geoorloofd provisie te betalen of te ontvangen voor het aanbrengen van opdrachten.
 
-#### Artikel 10. Voorlichting over financiële gevolgen
+##### Artikel 10. Voorlichting over financiële gevolgen
 
 1. De notaris licht de cliënten tijdig en duidelijk voor over de financiële consequenties van zijn inschakeling.
 
@@ -90,7 +113,7 @@ Het is de notaris niet geoorloofd provisie te betalen of te ontvangen voor het a
 
 3. De notaris mag de kosten van zijn werkzaamheden niet brengen ten laste van een andere opdracht, ander deel van de opdracht of een ander dan de opdrachtgever.
 
-#### Artikel 11. Onderzoeksplicht en toezicht financiële afwikkeling
+##### Artikel 11. Onderzoeksplicht en toezicht financiële afwikkeling
 
 1. Bij de levering van registergoederen en bij de vestiging en levering van beperkte rechten op die registergoederen stelt de notaris een zodanig onderzoek in dat over de rechtstoestand van het registergoed zo min mogelijk onzekerheid bestaat. Eenzelfde verplichting rust op de notaris bij de levering van aandelen op naam en bij de vestiging en levering van beperkte rechten op die aandelen.
 
@@ -98,19 +121,19 @@ Het is de notaris niet geoorloofd provisie te betalen of te ontvangen voor het a
 
 3. De notaris ziet toe op de juiste financiële afwikkeling.
 
-#### Artikel 12. Betalingen in contanten
+##### Artikel 12. Betalingen in contanten
 
 Betalingen in contanten aan of door de notaris boven een door het bestuur vastgesteld bedrag zijn niet toegestaan.
 
-#### Artikel 13. Voldoen aan financiële verplichtingen
+##### Artikel 13. Voldoen aan financiële verplichtingen
 
 De aan de notaris toevertrouwde gelden dienen op een bijzondere rekening te worden bewaard en dienen te allen tijde ten volle in geldmiddelen aanwezig te zijn.
 
-#### Artikel 14. Kantoor en medewerkers
+##### Artikel 14. Kantoor en medewerkers
 
 De notaris dient ervoor zorg te dragen dat de inrichting en organisatie van zijn kantoor voldoen aan de eisen van een goede praktijkuitoefening en dat de kwaliteit van de door hem en zijn medewerkers verrichte diensten optimaal is. De notaris draagt er zorg voor dat hij en zijn medewerkers over de bekwaamheid beschikken die vereist is voor het op het juiste niveau verrichten van de aan hen opgedragen werkzaamheden.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De notaris moet voldoende verzekerd zijn tegen vermogensschade als gevolg van aansprakelijkheid, ongeacht uit welken hoofde deze aansprakelijkheid kan ontstaan.
 
@@ -146,17 +169,17 @@ De notaris dient ervoor zorg te dragen dat de inrichting en organisatie van zijn
 
 3. Schaden in het kader van beroepsaansprakelijkheid lopende van één miljoen euro (€ 1.000.000) tot vijfentwintig miljoen euro (€ 25.000.000), alsmede schaden van honderdduizend euro (€ 100.000) tot vijf miljoen euro (€ 5.000.000) als gevolg van fraude door personeel en als gevolg van het verlies van waarden tijdens transport of verblijf op kantoor en schaden tot een bedrag van vierhonderd vierenvijftigduizend euro (€ 454.000 euro) als gevolg van administratieve betaalfouten, moeten worden gedekt in een door de KNB afgesloten collectieve verzekering. De notaris is verplicht om zijn aandeel in de kosten die gemoeid zijn met deze verzekeringen te dragen.
 
-#### Artikel 16. Samenwerkingsverbanden
+##### Artikel 16. Samenwerkingsverbanden
 
 1. De notaris kan een samenwerkingsverband aangaan met een andere notaris of met een kandidaat-notaris.
 
 2. Vervallen.
 
-#### Artikel 17. Praktijkvennootschap
+##### Artikel 17. Praktijkvennootschap
 
 Vervallen
 
-#### Artikelen 18. Partijadviseur
+##### Artikelen 18. Partijadviseur
 
 1. De notaris die naar buiten optreedt als partijadviseur maakt jegens belanghebbenden tijdig kenbaar dat hij in die hoedanigheid optreedt.
 
@@ -166,22 +189,22 @@ Vervallen
 
 4. Wanneer de notaris zich heeft teruggetrokken, dan voorkomt hij dat een kantoorgenoot optreedt voor één van de partijen, tenzij alle betrokken personen daarmee instemmen. Hetzelfde geldt, wanneer naar aanleiding van een door de notaris behandelde zaak een conflict is ontstaan over het handelen of nalaten van de notaris.
 
-#### Artikel 19. Naar buiten optreden
+##### Artikel 19. Naar buiten optreden
 
 De notaris draagt zorg bij het naar buiten optreden voor een juiste en volledige presentatie van het kantoor.
 
-#### Artikel 20. Nadere regelgeving bestuur
+##### Artikel 20. Nadere regelgeving bestuur
 
 Het bestuur van de KNB is bevoegd om met betrekking tot de in deze verordening behandelde onderwerpen nadere regels te geven. Over het ontwerp daarvan wordt de ledenraad geraadpleegd. De regels worden zo spoedig mogelijk na vaststelling ter kennis van het ministerie van Veiligheid en Justitie gebracht.
 
-#### Artikel 21. Naam
+##### Artikel 21. Naam
 
 Deze verordening wordt aangehaald als Verordening beroeps- en gedragsregels 2011.
 
-#### Artikel 22. Inwerking treden
+##### Artikel 22. Inwerking treden
 
 Deze verordening treedt in werking met ingang van 1 augustus 2011 of zoveel later als de termijn van tien dagen na publicatie in de Staatscourant als bedoeld in [artikel 91 lid 2 Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=91) is verstreken.
 
-#### Artikel 19a
+##### Artikel 19a
 
 Bij het vaststellen van de identiteit van de bij het verlijden van een akte voor de eerste maal voor de notaris verschijnende personen, controleert de notaris het hem getoonde document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) op diefstal, vermissing, geldigheid en echtheid. De notaris maakt hierbij voor zover mogelijk gebruik van hiervoor geschikte, door het bestuur aangewezen apparatuur, programmatuur, applicaties en systemen.

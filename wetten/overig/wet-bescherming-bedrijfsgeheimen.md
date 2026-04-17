@@ -1,14 +1,41 @@
 ---
-title: "Wet bescherming bedrijfsgeheimen"
+title: "Wet van 17 oktober 2018, houdende regels ter uitvoering van Richtlijn 2016/943/EU van het Europees Parlement en de Raad van 8 juni 2016 betreffende de bescherming van niet-openbaar gemaakte knowhow en bedrijfsinformatie (bedrijfsgeheimen) tegen het onrechtmatig verkrijgen, gebruiken en openbaar maken daarvan (PbEU 2016, L157) (Wet bescherming bedrijfsgeheimen)"
 identifier: "BWBR0041459"
-categorie: "Overig"
-publicatiedatum: 2023-02-18
-laatste_update: 2023-02-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041459"
+country: "nl"
+rank: "wet"
+publication_date: "2023-02-18"
+last_updated: "2023-02-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041459"
+soort: "wet"
+stam_id: "14838673"
+version_id: "25368002"
+internal_id: "C36225181"
+label_id: "14790554"
+dtd_version: "2.0"
+original_entry_into_force: "2018-10-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041459/2023-02-18/0"
+intitule_bron: "Stb.2018-369"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-10-17"
+intitule_published: "2018-10-22"
+intitule_in_force: "2018-10-22"
+intitule_status: "goed"
+original_publication: "Stb.2018-369"
+original_signed_date: "2018-10-17"
+original_published_date: "2018-10-22"
+original_effect: "nieuwe-regeling"
+original_dossier: "34821"
+original_url_id: "stb-2018-369"
+entry_into_force_date: "2018-10-23"
+jci_1_3: "jci1.3:c:BWBR0041459&z=2023-02-18&g=2023-02-18"
+jci_1_0: "1.0:c:BWBR0041459&g=2023-02-18"
+citeertitel_status: "officieel"
+short_title: "Wet bescherming bedrijfsgeheimen"
+signed_date: "2018-10-17"
+entry_into_force: "2018-10-23"
 ---
-
-# Wet bescherming bedrijfsgeheimen
+# Wet van 17 oktober 2018, houdende regels ter uitvoering van Richtlijn 2016/943/EU van het Europees Parlement en de Raad van 8 juni 2016 betreffende de bescherming van niet-openbaar gemaakte knowhow en bedrijfsinformatie (bedrijfsgeheimen) tegen het onrechtmatig verkrijgen, gebruiken en openbaar maken daarvan (PbEU 2016, L157) (Wet bescherming bedrijfsgeheimen)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet wordt verstaan onder:
 
@@ -38,7 +65,7 @@ In deze wet wordt verstaan onder:
 
 ### Hoofdstuk 2. Onrechtmatig verkrijgen, gebruiken of openbaar maken van bedrijfsgeheimen
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het verkrijgen van een bedrijfsgeheim zonder de toestemming van de houder van het bedrijfsgeheim is onrechtmatig wanneer het bedrijfsgeheim is verkregen door middel van:
 
@@ -58,7 +85,7 @@ In deze wet wordt verstaan onder:
 
 4. Het produceren, aanbieden of in de handel brengen van inbreukmakende goederen, of de invoer, uitvoer of opslag van inbreukmakende goederen voor die doeleinden, wordt ook als een onrechtmatig gebruik van een bedrijfsgeheim beschouwd wanneer de natuurlijke persoon of rechtspersoon die dergelijke activiteiten uitvoert, wist of, gezien de omstandigheden, had moeten weten dat het bedrijfsgeheim onrechtmatig werd gebruikt.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Als het onrechtmatig verkrijgen van een bedrijfsgeheim wordt niet beschouwd het verkrijgen door middel van:
 
@@ -72,7 +99,7 @@ In deze wet wordt verstaan onder:
 
 2. Als het onrechtmatig verkrijgen, gebruiken of openbaar maken van een bedrijfsgeheim wordt niet beschouwd het verkrijgen, gebruiken of openbaar maken dat op grond van het recht van de Europese Unie of bepalingen bij of krachtens de wet vereist of toegestaan is.
 
-#### Artikel 4
+##### Artikel 4
 
 De rechter wijst een vordering of verzoek om toepassing van de maatregelen en procedures in het kader van deze wet af wanneer het verkrijgen, gebruiken of openbaar maken van het bedrijfsgeheim plaatsvond in een van de volgende gevallen:
 
@@ -86,7 +113,7 @@ De rechter wijst een vordering of verzoek om toepassing van de maatregelen en pr
 
 ### Hoofdstuk 3. Handhaving van bedrijfsgeheimen
 
-#### Artikel 5
+##### Artikel 5
 
 1. De voorzieningenrechter kan op vordering van de houder van het bedrijfsgeheim jegens de vermeende inbreukmaker de volgende voorlopige maatregelen bevelen:
 
@@ -98,7 +125,7 @@ De rechter wijst een vordering of verzoek om toepassing van de maatregelen en pr
 
 3. De voorzieningenrechter kan op vordering van de houder van het bedrijfsgeheim tijdelijke voortzetting van de vermeende inbreuk toestaan onder de voorwaarde dat zekerheid wordt gesteld voor schadeloosstelling van de houder van het bedrijfsgeheim. Het openbaar maken van een bedrijfsgeheim in ruil voor het stellen van zekerheden is niet toegestaan.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De rechter kan op vordering van de houder van het bedrijfsgeheim de volgende maatregelen jegens de inbreukmaker bevelen:
 
@@ -116,7 +143,7 @@ De rechter wijst een vordering of verzoek om toepassing van de maatregelen en pr
 
 2. De maatregelen, bedoeld in het eerste lid, onderdelen c tot en met f, worden op kosten van de inbreukmaker uitgevoerd, tenzij bijzondere redenen dit beletten.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De rechter houdt bij de beslissing over een vordering krachtens [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041459&hoofdstuk=3&artikel=5&z=2023-02-18&g=2023-02-18), of [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041459&hoofdstuk=3&artikel=6&z=2023-02-18&g=2023-02-18), of over een verzoek krachtens artikel 5, tweede lid, en bij het beoordelen van de evenredigheid ervan, rekening met de specifieke omstandigheden van het geval, met inbegrip van:
 
@@ -150,13 +177,13 @@ De rechter wijst een vordering of verzoek om toepassing van de maatregelen en pr
 
 5. De schadevergoeding, bedoeld in het vierde lid, bedraagt niet meer dan het bedrag van de royalty’s of vergoedingen dat verschuldigd was geweest indien die persoon toestemming had gevraagd om het desbetreffende bedrijfsgeheim te gebruiken, voor de periode waarin het gebruik van het bedrijfsgeheim verboden had kunnen worden.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De houder van het bedrijfsgeheim kan schadevergoeding vorderen van een inbreukmaker die wist of had moeten weten dat hij onrechtmatig een bedrijfsgeheim verkreeg, gebruikte of openbaar maakte.
 
 2. In passende gevallen kan de rechter de schadevergoeding vaststellen als een forfaitair bedrag.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De rechter kan op vordering van de houder van het bedrijfsgeheim gelasten dat op kosten van de inbreukmaker passende maatregelen worden getroffen tot verspreiding van informatie over de uitspraak.
 
@@ -174,21 +201,21 @@ De rechter wijst een vordering of verzoek om toepassing van de maatregelen en pr
 
 ### Hoofdstuk 4. Wijziging van andere wetten
 
-#### Artikel 10
+##### Artikel 10
 
 Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
 
-#### Artikel 11
+##### Artikel 11
 
 Wijzigt het Burgerlijk Wetboek Boek 3.
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 12
+##### Artikel 12
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 13
+##### Artikel 13
 
 Deze wet wordt aangehaald als: Wet bescherming bedrijfsgeheimen.
 

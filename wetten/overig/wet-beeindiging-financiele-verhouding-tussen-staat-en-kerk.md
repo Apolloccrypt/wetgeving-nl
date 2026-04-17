@@ -1,14 +1,38 @@
 ---
-title: "Wet beëindiging financiële verhouding tussen Staat en Kerk"
+title: "Wet van 7 december 1983, tot beëindiging van de financiële verhouding tussen Staat en Kerk"
 identifier: "BWBR0003640"
-categorie: "Overig"
-publicatiedatum: 1994-01-01
-laatste_update: 1994-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003640"
+country: "nl"
+rank: "wet"
+publication_date: "1994-01-01"
+last_updated: "1994-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003640"
+soort: "wet"
+stam_id: "1841193"
+version_id: "2747332"
+internal_id: "C2747331"
+label_id: "1795604"
+dtd_version: "2.0"
+original_entry_into_force: "1984-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003640/1994-01-01/0"
+intitule_bron: "Stb.1983-638"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1983-12-07"
+intitule_status: "goed"
+original_publication: "Stb.1983-638"
+original_signed_date: "1983-12-07"
+original_effect: "nieuwe-regeling"
+original_dossier: "17642"
+entry_into_force_date: "1984-01-01"
+entry_into_force_dossier: "17642"
+jci_1_3: "jci1.3:c:BWBR0003640&z=1994-01-01&g=1994-01-01"
+jci_1_0: "1.0:c:BWBR0003640&g=1994-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet beëindiging financiële verhouding tussen Staat en Kerk"
+signed_date: "1983-12-07"
+entry_into_force: "1984-01-01"
 ---
-
-# Wet beëindiging financiële verhouding tussen Staat en Kerk
+# Wet van 7 december 1983, tot beëindiging van de financiële verhouding tussen Staat en Kerk
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,15 +40,15 @@ Alzo Wij in overweging genomen hebben, dat ingevolge additioneel [artikel IV van
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 De als bijlage bij deze wet gevoegde overeenkomst van 18 mei 1981, gesloten tussen de Staat, vertegenwoordigd door Onze Minister van Financiën, en de in de aanhef van die overeenkomst genoemde kerkgenootschappen, wordt goedgekeurd.
 
-#### Artikel 2
+##### Artikel 2
 
 De aanspraken ingevolge additioneel [artikel IV van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=IV) naar de tekst van 1983 (additioneel [artikel X van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=X) naar de tekst van 1972) van godsdienstige gezindheden en hun leraren vervallen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. In afwijking van het bepaalde in artikel D1, onder **e**, van de Algemene burgerlijke pensioenwet (**Stb.** 1979, 679) komt niet als diensttijd in aanmerking de tijd doorgebracht in kerkelijke betrekkingen na 31 december 1983.
 
@@ -32,11 +56,11 @@ De aanspraken ingevolge additioneel [artikel IV van de Grondwet](https://wetten.
 
 3. Tijd voor 1 januari 1984 doorgebracht in kerkelijke betrekkingen komt als diensttijd in aanmerking onder de voorwaarden gesteld in artikel D2 van de Algemene burgerlijke pensioenwet, onderscheidenlijk [artikel D2 van de Algemene militaire pensioenwet](onbekend), met dien verstande, dat voor de toepassing van het bepaalde in artikel F1, derde lid, van de Algemene burgerlijke pensioenwet, onderscheidenlijk in artikel D2, tweede lid, onder **b**, van de Algemene militaire pensioenwet, tijd na 31 december 1983 doorgebracht in kerkelijke betrekkingen wordt geacht geen onderbreking te vormen.
 
-#### Artikel 4
+##### Artikel 4
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze wet treedt in werking met ingang van 1 januari 1984, met uitzondering van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003640&artikel=4&z=1994-01-01&g=1994-01-01), dat in werking treedt met ingang van 1 januari 1994.
 

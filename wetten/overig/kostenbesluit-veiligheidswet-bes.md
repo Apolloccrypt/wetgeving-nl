@@ -1,13 +1,39 @@
 ---
-title: "Kostenbesluit Veiligheidswet BES"
+title: "Besluit van 30 september 2010, houdende regels inzake bijzondere uitkeringen aan de openbare lichamen Bonaire, Sint Eustatius en Saba als bijdrage in de kosten voor de organisatie van de rampenbestrijding en de crisisbeheersing en voor de brandweerzorg, alsmede in de kosten die voor de openbare lichamen voortvloeien uit de daadwerkelijke bestrijding van een ramp en uit de gevolgen van die bestrijding (Kostenbesluit Veiligheidswet BES)"
 identifier: "BWBR0028795"
-categorie: "Overig"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028795"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028795"
+soort: "AMvB-BES"
+stam_id: "11027113"
+version_id: "18018312"
+internal_id: "C25039621"
+label_id: "11001644"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028795/2010-10-10/0"
+intitule_bron: "Stb.2010-376"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-30"
+intitule_published: "2010-10-08"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-376"
+original_signed_date: "2010-09-30"
+original_published_date: "2010-10-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-376"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028795&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028795&g=2010-10-10"
+citeertitel_status: "officieel"
+short_title: "Kostenbesluit Veiligheidswet BES"
+signed_date: "2010-09-30"
+entry_into_force: "2010-10-10"
 ---
-
 # Besluit van 30 september 2010, houdende regels inzake bijzondere uitkeringen aan de openbare lichamen Bonaire, Sint Eustatius en Saba als bijdrage in de kosten voor de organisatie van de rampenbestrijding en de crisisbeheersing en voor de brandweerzorg, alsmede in de kosten die voor de openbare lichamen voortvloeien uit de daadwerkelijke bestrijding van een ramp en uit de gevolgen van die bestrijding (Kostenbesluit Veiligheidswet BES)
 
 Op de voordracht van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 8 juli 2010, nr. 2010-0000467008, Directie Constitutionele Zaken en Wetgeving;
@@ -24,13 +50,13 @@ Treedt in werking op het tijdstip waarop de Veiligheidswet BES in werking treedt
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder uitkering: bijzondere uitkering als bedoeld in [artikel 91 van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=91).
 
 ### Hoofdstuk 2. Bijdrage in de organisatiekosten
 
-#### Artikel 2
+##### Artikel 2
 
 1. De openbare lichamen ontvangen jaarlijks ten laste van de begroting van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties een uitkering als bijdrage in de kosten die voor hen voortvloeien uit
 
@@ -44,7 +70,7 @@ In dit besluit wordt verstaan onder uitkering: bijzondere uitkering als bedoeld 
 
 4. Onze Minister kan bij de vaststelling van de jaarlijkse uitkering verdere voorwaarden verbinden aan de toekenning of besteding van deze uitkering of aan de toekenning of besteding van een deel van deze uitkering.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Onze Minister kan een openbaar lichaam een incidentele uitkering verstrekken ten behoeve van de taken, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028795&hoofdstuk=2&artikel=2&z=2010-10-10&g=2010-10-10).
 
@@ -52,7 +78,7 @@ In dit besluit wordt verstaan onder uitkering: bijzondere uitkering als bedoeld 
 
 ### Hoofdstuk 3. Bijdrage in de kosten betreffende de daadwerkelijke bestrijding van rampen
 
-#### Artikel 4
+##### Artikel 4
 
 1. Onze Minister verstrekt op aanvraag van het bestuurscollege een bijdrage in de door een openbaar lichaam gemaakte kosten die voortvloeien uit de daadwerkelijke bestrijding van een ramp en uit de gevolgen van die bestrijding.
 
@@ -66,7 +92,7 @@ In dit besluit wordt verstaan onder uitkering: bijzondere uitkering als bedoeld 
 
 4. Indien in een openbaar lichaam in een kalenderjaar meerdere rampen plaatsvinden, wordt het derde lid slechts eenmaal toegepast.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De aanvraag, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028795&hoofdstuk=3&artikel=4&z=2010-10-10&g=2010-10-10), wordt uiterlijk twaalf maanden na het einde van de bestrijding van de ramp ingediend bij Onze Minister.
 
@@ -74,21 +100,21 @@ In dit besluit wordt verstaan onder uitkering: bijzondere uitkering als bedoeld 
 
 3. Kosten waarvan de hoogte nog niet is vast te stellen worden geraamd.
 
-#### Artikel 6
+##### Artikel 6
 
 Onze Minister beslist binnen zes maanden na indiening van de aanvraag.
 
 ### Hoofdstuk 4. Betaalbaarstelling en verantwoording
 
-#### Artikel 7
+##### Artikel 7
 
 De betaling van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028795&hoofdstuk=2&artikel=2&z=2010-10-10&g=2010-10-10) bedoelde bijzondere uitkering vindt plaats in vier gelijke termijnen op 1 februari, 1 mei, 1 augustus en 1 november.
 
-#### Artikel 8
+##### Artikel 8
 
 Ten behoeve van de controle op de besteding van de uitkeringen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028795&hoofdstuk=2&artikel=2&z=2010-10-10&g=2010-10-10), verstrekt het openbaar lichaam desgevraagd aan de door Onze Minister daartoe aangewezen ambtenaren of medewerkers van de accountantsdienst, bedoeld in [artikel 66, eerste lid, van de Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=66), de benodigde informatie. Deze ambtenaren en medewerkers kunnen tevens informatie inwinnen bij de accountant, bedoeld in [artikel 38, derde lid, van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=38).
 
-#### Artikel 9
+##### Artikel 9
 
 1. Voor zover het openbaar lichaam een deel van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028795&hoofdstuk=2&artikel=2&z=2010-10-10&g=2010-10-10) bedoelde uitkering niet heeft besteed aan een van de doelen waarvoor die uitkering is bestemd, kan Onze Minister dat deel van de desbetreffende uitkering in mindering brengen op de uitkering voor een volgend jaar.
 
@@ -98,7 +124,7 @@ Ten behoeve van de controle op de besteding van de uitkeringen, bedoeld in [arti
 
 4. Binnen twee maanden na ontvangst van de in het derde lid bedoelde inlichtingen, dan wel binnen twee maanden na het verstrijken van de in het derde lid bedoelde termijn, maakt Onze Minister zijn beslissing omtrent de vermindering van de bijdrage voor het volgend jaar dan wel over terugvordering van de incidentele bijdrage bekend.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Op verzoek van de aanvrager kan Onze Minister een voorschot verlenen op een bijdrage als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028795&hoofdstuk=3&artikel=4&z=2010-10-10&g=2010-10-10). Het verzoek gaat vergezeld van een voorlopige opgave van de kosten.
 
@@ -116,11 +142,11 @@ Ten behoeve van de controle op de besteding van de uitkeringen, bedoeld in [arti
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 Dit besluit treedt in werking op het tijdstip waarop de Veiligheidswet BES in werking treedt.
 
-#### Artikel 12
+##### Artikel 12
 
 Dit besluit wordt aangehaald als: Kostenbesluit Veiligheidswet BES.
 

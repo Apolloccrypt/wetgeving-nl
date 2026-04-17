@@ -1,13 +1,37 @@
 ---
-title: "Besluit termijnen Rijkswet rechtsmacht Hoge Raad voor Aruba, Curaçao, Sint Maarten en voor Bonaire, Sint Eustatius en Saba"
+title: "Besluit van 25 januari 1965, houdende vaststelling van enige termijnen als bedoeld in de Cassatieregeling voor de Nederlandse Antillen"
 identifier: "BWBR0002478"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2017-03-01
-laatste_update: 2017-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002478"
+country: "nl"
+rank: "rijks_kb"
+publication_date: "2017-03-01"
+last_updated: "2017-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002478"
+soort: "rijksKB"
+stam_id: "1032573"
+version_id: "17627612"
+internal_id: "C24390051"
+label_id: "1000624"
+dtd_version: "2.0"
+original_entry_into_force: "2010-08-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002478/2017-03-01/0"
+intitule_bron: "Stb.1965-33"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1965-01-25"
+intitule_status: "goed"
+original_publication: "Stb.2010-343"
+original_signed_date: "2010-08-20"
+original_published_date: "2010-09-01"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2010-343"
+entry_into_force_date: "2010-08-20"
+jci_1_3: "jci1.3:c:BWBR0002478&z=2017-03-01&g=2017-03-01"
+jci_1_0: "1.0:c:BWBR0002478&g=2017-03-01"
+citeertitel_status: "officieel"
+short_title: "Besluit termijnen Rijkswet rechtsmacht Hoge Raad voor Aruba, Curaçao, Sint Maarten en voor Bonaire, Sint Eustatius en Saba"
+signed_date: "2010-08-20"
+entry_into_force: "2010-08-20"
 ---
-
 # Besluit van 25 januari 1965, houdende vaststelling van enige termijnen als bedoeld in de Cassatieregeling voor de Nederlandse Antillen
 
 Op de voordracht van Onze Minister van Justitie van 17 november 1964, Stafafdeling Wetgeving Publiekrecht, nr. 421/664;
@@ -22,7 +46,7 @@ De bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde;
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Ter zake van een beroep in cassatie als bedoeld in § 2 van de Rijkswet rechtsmacht Hoge Raad voor Aruba, Curaçao en Sint Maarten en Bonaire, Sint Eustatius en Saba, gelden de volgende termijnen van verschijning:
 
@@ -36,35 +60,35 @@ Hebben goedgevonden en verstaan:
 
 2. De termijnen van verschijning vangen aan op de eerste dag na de dag van indiening van de procesinleiding bij de Hoge Raad.
 
-#### Artikel 2
+##### Artikel 2
 
 Vervallen
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 De in artikel 11, eerste lid, van de Rijkswet rechtsmacht Hoge Raad voor Aruba, Curaçao, Sint Maarten en voor Bonaire, Sint Eustatius en Saba bedoelde termijn voor het instellen van beroep in cassatie in strafzaken bedraagt één maand voor de verdachte, die geen woonplaats heeft op het eiland waar de beslissing, tegen welke hij beroep in cassatie instelt, is uitgesproken.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Dit besluit treedt in werking met ingang van 1 maart 1965.
 
@@ -72,7 +96,7 @@ De in artikel 11, eerste lid, van de Rijkswet rechtsmacht Hoge Raad voor Aruba, 
 
 Onze Minister van Justitie is belast met de uitvoering van dit besluit, dat in het **Staatsblad**, in het **Gouvernementsblad** van Suriname en het **Publicatieblad** van de Nederlandse Antillen zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State van het Koninkrijk.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit termijnen Rijkswet rechtsmacht Hoge Raad voor Aruba, Curaçao, Sint Maarten en voor Bonaire, Sint Eustatius en Saba.
 

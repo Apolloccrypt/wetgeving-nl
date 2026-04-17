@@ -1,13 +1,39 @@
 ---
-title: "Kaderbesluit CCMS"
+title: "Besluit van 9 februari 2004 houdende de algemene eisen voor de opleiding, registratie en herregistratie van medisch specialisten en voor de erkenning van opleiders, plaatsvervangend opleiders, stageopleiders en opleidingsinrichtingen"
 identifier: "BWBR0033520"
-categorie: "Overig"
-publicatiedatum: 2007-10-20
-laatste_update: 2007-10-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033520"
+country: "nl"
+rank: "zbo"
+publication_date: "2007-10-20"
+last_updated: "2007-10-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033520"
+soort: "zbo"
+stam_id: "12281573"
+version_id: "20567832"
+internal_id: "C28920391"
+label_id: "12254134"
+dtd_version: "2.0"
+original_entry_into_force: "2005-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033520/2007-10-20/0"
+intitule_bron: "Stcrt.2004-241"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-02-09"
+intitule_published: "2004-12-14"
+intitule_in_force: "2004-12-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2004-241"
+original_signed_date: "2004-02-09"
+original_published_date: "2004-12-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2004-241-p20-SC67926"
+entry_into_force_date: "2005-01-01"
+jci_1_3: "jci1.3:c:BWBR0033520&z=2007-10-20&g=2007-10-20"
+jci_1_0: "1.0:c:BWBR0033520&g=2007-10-20"
+citeertitel_status: "officieel"
+short_title: "Kaderbesluit CCMS"
+signed_date: "2004-02-09"
+entry_into_force: "2005-01-01"
 ---
-
 # Besluit van 9 februari 2004 houdende de algemene eisen voor de opleiding, registratie en herregistratie van medisch specialisten en voor de erkenning van opleiders, plaatsvervangend opleiders, stageopleiders en opleidingsinrichtingen
 
 Gelet op [artikel 14, tweede lid, onder c van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=14) en artikel 12, eerste lid, van de Regeling specialisten geneeskunst van de Koninklijke Nederlandsche Maatschappij tot bevordering der Geneeskunst;
@@ -18,7 +44,7 @@ Besluit:
 
 ### Hoofdstuk A. Algemene bepalingen
 
-#### Artikel A.1. Begripsomschrijvingen
+##### Artikel A.1. Begripsomschrijvingen
 
 In dit besluit wordt verstaan onder:
 
@@ -110,7 +136,7 @@ In dit besluit wordt verstaan onder:
 
 - rr. waarnemer: een medisch specialist die is ingeschreven in hetzelfde register als de opleider en de opleider gedurende een bepaalde periode waarneemt.
 
-#### Artikel A.2. Toepassingsbereik besluit
+##### Artikel A.2. Toepassingsbereik besluit
 
 1. Het CCMS kan per medisch specialisme ter uitvoering van dit besluit specifieke besluiten vaststellen op de terreinen:
 
@@ -128,11 +154,11 @@ In dit besluit wordt verstaan onder:
 
 5. Op beslissingen van de MSRC, die niet onder de werking van de[Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) en de Regeling vallen, is [artikel 3.4., tweede lid van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:4) van overeenkomstige toepassing.
 
-#### Artikel A.3. Rechtsmiddelen
+##### Artikel A.3. Rechtsmiddelen
 
 In elke individuele beslissing ingevolge dit besluit staat vermeld welk rechtsmiddel bij welke instantie en binnen welke termijn tegen de betreffende beslissing kan worden aangewend.
 
-#### Artikel A.4. Experimenten
+##### Artikel A.4. Experimenten
 
 1. In het kader van ontwikkeling van een opleiding kan het CCMS op eigen initiatief of op verzoek van een wetenschappelijke vereniging of van de MSRC besluiten tot afwijking van dit besluit of van een specifiek besluit.
 
@@ -144,7 +170,7 @@ In elke individuele beslissing ingevolge dit besluit staat vermeld welk rechtsmi
 
 - c. het experiment is door de MSRC op uitvoerbaarheid getoetst.
 
-#### Artikel A.5. Medische specialismen
+##### Artikel A.5. Medische specialismen
 
 De volgende deelgebieden der geneeskunde worden in dit besluit als medisch specialisme aangewezen en daaraan zijn de genoemde titels verbonden:
 
@@ -202,7 +228,7 @@ De volgende deelgebieden der geneeskunde worden in dit besluit als medisch speci
 
 - aa. verloskunde en gynaecologie: gynaecoloog.
 
-#### Artikel A.6. Gesloten registers
+##### Artikel A.6. Gesloten registers
 
 Van de volgende deelgebieden der geneeskunde die niet meer als specialisme zijn erkend houdt de MSRC een register, met de bijbehorende titel:
 
@@ -220,11 +246,11 @@ Van de volgende deelgebieden der geneeskunde die niet meer als specialisme zijn 
 
 #### Paragraaf I-A. Algemeen
 
-#### Artikel B.1. Opleidingsinrichting
+##### Artikel B.1. Opleidingsinrichting
 
 De opleiding wordt gevolgd bij een opleider of stageopleider in een opleidingsinrichting.
 
-#### Artikel B.2. Competenties
+##### Artikel B.2. Competenties
 
 1. De opleiding is gericht op het verwerven van door het CCMS vastgestelde algemene competenties en specialismegebonden competenties voor de opleiding in het betreffende medisch specialisme.
 
@@ -302,7 +328,7 @@ De opleiding wordt gevolgd bij een opleider of stageopleider in een opleidingsin
 
 - iv. De specialist oefent de geneeskunde uit naar de gebruikelijke ethische normen van het beroep.
 
-#### Artikel B.3. Duur van de opleiding
+##### Artikel B.3. Duur van de opleiding
 
 1. De duur van de opleiding wordt per medisch specialisme in een specifiek besluit vastgesteld.
 
@@ -310,11 +336,11 @@ De opleiding wordt gevolgd bij een opleider of stageopleider in een opleidingsin
 
 3. De MSRC kan de duur van de opleiding, bedoeld in het eerste lid, in een individueel geval, in het kader van de eindbeoordeling, bedoeld in [artikel B.9.](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&titeldeel=I&paragraaf=I-A&artikel=B.9&z=2007-10-20&g=2007-10-20), om opleidingsinhoudelijke redenen verlengen.
 
-#### Artikel B.4. Rechtspositieregeling
+##### Artikel B.4. Rechtspositieregeling
 
 De aios dient voor zijn werkzaamheden tijdens de opleiding volgens de landelijk gangbare salarisnormen te worden gehonoreerd. Op hem dient tevens de rechtspositieregeling van de opleidingsinrichting van toepassing te zijn.
 
-#### Artikel B.5. Plichten van de aios
+##### Artikel B.5. Plichten van de aios
 
 1. De aios voldoet aan de volgende verplichtingen:
 
@@ -358,7 +384,7 @@ De aios dient voor zijn werkzaamheden tijdens de opleiding volgens de landelijk 
 
 3. Ter uitvoering van dit artikel worden in specifieke besluiten aanvullende voorschriften ten aanzien van de verplichtingen en competenties van de aios per medisch specialisme gesteld.
 
-#### Artikel B.6. Geschiktheidsbeoordeling
+##### Artikel B.6. Geschiktheidsbeoordeling
 
 1. Aan het eind van het eerste jaar beoordeelt de opleider of hij de aios die bij hem in opleiding is al dan niet geschikt en in staat acht de opleiding voort te zetten. Daarbij geldt dat de beoordeling:
 
@@ -382,15 +408,15 @@ De aios dient voor zijn werkzaamheden tijdens de opleiding volgens de landelijk 
 
 5. In geval de opleider bij de in het eerste en tweede lid bedoelde beoordelingen te kennen heeft gegeven de aios niet geschikt en in staat te achten de opleiding voort te zetten en hem in aansluiting daaraan meedeelt hem niet verder te zullen opleiden brengt de opleider zijn beoordeling schriftelijk, met redenen omkleed en met vermelding van de datum waarop de opleiding wordt beëindigd, aan de aios ter kennis en zendt van deze kennisgeving een afschrift aan de secretaris van de MSRC. In alle gevallen heeft de opleider de opleidingsgroep geraadpleegd.
 
-#### Artikel B.7. Jaarlijkse beoordeling
+##### Artikel B.7. Jaarlijkse beoordeling
 
 Behalve de beoordelingen bedoeld in [artikel B.6.](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&titeldeel=I&paragraaf=I-A&artikel=B.6&z=2007-10-20&g=2007-10-20) brengt de opleider aan het eind van elk volgend opleidingsjaar, met uitzondering van het laatste jaar, een beoordeling van de aios ter kennis van de MSRC door middel van een daartoe vastgesteld formulier en verstrekt een afschrift daarvan aan de aios.
 
-#### Artikel B.8. Voortgangsgesprekken
+##### Artikel B.8. Voortgangsgesprekken
 
 In het eerste jaar van de opleiding als bedoeld in [artikel B.6., eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&titeldeel=I&paragraaf=I-A&artikel=B.6&z=2007-10-20&g=2007-10-20), vindt eenmaal per kwartaal een voortgangsgesprek plaats tussen de opleider en de aios. In het tweede jaar en in het jaar halverwege de opleiding als bedoeld in artikel B.6., tweede lid, vindt halfjaarlijks een voortgangsgesprek plaats tussen de opleider en de aios. In de jaren daarna vindt tenminste een maal per jaar een voortgangsgesprek plaats, waarbij voor het laatste jaar van de opleiding geldt dat het voortgangsgesprek ten minste drie maanden voor het einde van de opleiding wordt gehouden. De conclusies van deze gesprekken worden – voor gezien of akkoord mede ondertekend door de aios – schriftelijk vastgelegd. De resultaten van voortgangsgesprekken worden steeds tijdig en behoorlijk toegelicht met de aios besproken.
 
-#### Artikel B.9. Eindoordeel
+##### Artikel B.9. Eindoordeel
 
 1. Ten hoogste drie maanden voor het einde van de opleiding deelt de opleider, door middel van een daartoe door de MSRC vastgesteld formulier aan de aios en de MSRC met redenen omkleed mede of naar zijn oordeel de aios al dan niet geschikt en in staat moet worden geacht het medisch specialisme waarvoor hij is opgeleid zelfstandig en naar behoren uit te oefenen nadat de opleiding is beëindigd.
 
@@ -406,7 +432,7 @@ In het eerste jaar van de opleiding als bedoeld in [artikel B.6., eerste lid](ht
 
 4. De MSRC stelt bij goedkeuring en bij wijziging van het opleidingsschema van de aios vast door welke bij de opleiding betrokken opleider het in het eerste lid bedoelde oordeel wordt gegeven.
 
-#### Artikel B.10. Inschrijving opleidingsregister
+##### Artikel B.10. Inschrijving opleidingsregister
 
 Er is een opleidingsregister waarin de MSRC aios inschrijft. De aios dient vóór aanvang van de opleiding bij de MSRC een aanvraag tot inschrijving in het opleidingsregister in. De aanvraag bedoeld in het tweede lid, bevat in ieder geval de volgende elementen:
 
@@ -426,7 +452,7 @@ Er is een opleidingsregister waarin de MSRC aios inschrijft. De aios dient vóó
 
 Naast de aanvraag, bedoeld in het tweede lid, legt de aios het door de opleider, met inachtneming van de eisen in dit besluit en de specifieke besluiten, schriftelijk goedgekeurde opleidingsschema aan de MSRC ter goedkeuring voor. Na ontvangst van de aanvraag, bedoeld in het tweede lid, zendt de MSRC de aios binnen twee weken een formulier voor het verkrijgen van nadere gegevens. De aios zendt het formulier, genoemd in vijfde lid, ingevuld ten hoogste één maand na aanvang van de opleiding aan de MSRC retour. Alvorens de aanvraag tot inschrijving in het opleidingsregister in behandeling kan worden genomen, dient het door de MSRC daarvoor vastgestelde bedrag te zijn voldaan. De MSRC deelt de aios, de opleider en de opleidingsinrichting mede met ingang van welke datum de opleiding van de aios aanvangt of is aangevangen. De MSRC schrijft de aios, na ontvangst van de in dit artikel genoemde bescheiden en de betaling, bedoeld in het zevende lid, alsmede na goedkeuring van het opleidingsschema, bedoeld in het vierde lid, in het opleidingsregister in.
 
-#### Artikel B.11. Wijzigingen
+##### Artikel B.11. Wijzigingen
 
 1. Wijzigingen in het opleidingsschema behoeven de instemming van de opleider en de MSRC.
 
@@ -434,13 +460,13 @@ Naast de aanvraag, bedoeld in het tweede lid, legt de aios het door de opleider,
 
 3. De MSRC beslist binnen acht weken na ontvangst van het voorstel.
 
-#### Artikel B.12. Uitschrijving opleidingsregister
+##### Artikel B.12. Uitschrijving opleidingsregister
 
 De inschrijving in het opleidingsregister, bedoeld in [artikel B.5., eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&titeldeel=I&paragraaf=I-A&artikel=B.5&z=2007-10-20&g=2007-10-20), wordt doorgehaald zodra de aios de opleiding heeft voltooid en beschikt over een positief oordeel als bedoeld in [artikel B.9.](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&titeldeel=I&paragraaf=I-A&artikel=B.9&z=2007-10-20&g=2007-10-20), dan wel zodra de MSRC kennis neemt van tussentijdse beëindiging van de opleiding van de aios.
 
 #### Paragraaf I-B. Bijzondere bepalingen
 
-#### Artikel B.13. Deeltijd
+##### Artikel B.13. Deeltijd
 
 1. De opleiding kan in deeltijd worden gevolgd. Daarbij gelden de volgende voorwaarden:
 
@@ -456,7 +482,7 @@ De inschrijving in het opleidingsregister, bedoeld in [artikel B.5., eerste lid,
 
 2. [Artikel B.11.](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&titeldeel=I&paragraaf=I-A&artikel=B.11&z=2007-10-20&g=2007-10-20) is van overeenkomstige toepassing.
 
-#### Artikel B.14. Onderbreking
+##### Artikel B.14. Onderbreking
 
 1. De opleiding kan uitsluitend worden onderbroken bij verlof op basis van wettelijke regelingen, bij opschorting van de opleiding tengevolge van een geschil als bedoeld in [titel II](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&titeldeel=II&z=2007-10-20&g=2007-10-20) en het doen van klinisch wetenschappelijk onderzoek als bedoeld in [titel I, paragraaf I-C](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&titeldeel=I&paragraaf=I-C&z=2007-10-20&g=2007-10-20).
 
@@ -474,13 +500,13 @@ De inschrijving in het opleidingsregister, bedoeld in [artikel B.5., eerste lid,
 
 8. [Artikel B.11.](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&titeldeel=I&paragraaf=I-A&artikel=B.11&z=2007-10-20&g=2007-10-20) is van overeenkomstige toepassing.
 
-#### Artikel B.15. Vrijstelling
+##### Artikel B.15. Vrijstelling
 
 1. De aios kan worden vrijgesteld van het volgen van een of meer delen van de opleiding als hij voldoet aan de criteria bedoeld in [artikel B.17](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&titeldeel=I&paragraaf=I-B&artikel=B.17&z=2007-10-20&g=2007-10-20).
 
 2. De aios die meent dat hij in aanmerking komt voor vrijstelling als bedoeld in het eerste lid doet daarvan zo spoedig mogelijk, doch uiterlijk binnen vier weken nadat zekerheid is verkregen over de opleidingsplaats, schriftelijk mededeling aan de opleider.
 
-#### Artikel B.16. Aanvraag tot vrijstelling
+##### Artikel B.16. Aanvraag tot vrijstelling
 
 1. De aanvraag tot vrijstelling wordt uiterlijk vóór de aanvang van het eerste opleidingsjaar bij de MSRC ingediend.
 
@@ -502,7 +528,7 @@ De inschrijving in het opleidingsregister, bedoeld in [artikel B.5., eerste lid,
 
 2. Uiterlijk voor het einde van het eerste opleidingsjaar en in het geval bedoeld in [artikel B.17., vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&titeldeel=I&paragraaf=I-B&artikel=B.17&z=2007-10-20&g=2007-10-20), uiterlijk voor het einde van het eerste jaar van de vervolgopleiding, beoordeelt de opleider op basis van ten minste twee voortgangsgesprekken of effectuering van de vrijstelling gerechtvaardigd is. Indien dat oordeel positief uitvalt wordt het opleidingsschema definitief aangepast.
 
-#### Artikel B.17. Criteria voor vrijstelling
+##### Artikel B.17. Criteria voor vrijstelling
 
 1. Vrijstelling kan worden verkregen als er sprake is van medisch specialistische ervaring:
 
@@ -524,7 +550,7 @@ De inschrijving in het opleidingsregister, bedoeld in [artikel B.5., eerste lid,
 
 6. In afwijking van het tweede lid kan volledige vrijstelling voor de vooropleiding worden verkregen, indien de vooropleiding is voltooid in het kader van de opleiding in een ander medisch specialisme met dezelfde vooropleiding.
 
-#### Artikel B.18. Verlenging
+##### Artikel B.18. Verlenging
 
 1. Indien om redenen bedoeld in [artikel B.3., derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&titeldeel=I&paragraaf=I-A&artikel=B.3&z=2007-10-20&g=2007-10-20), verlenging van de opleiding noodzakelijk wordt geacht stelt de opleider ten minste drie maanden voor het beoogde einde van de opleiding de aios hiervan in kennis.
 
@@ -540,13 +566,13 @@ De inschrijving in het opleidingsregister, bedoeld in [artikel B.5., eerste lid,
 
 #### Paragraaf I-C. Opleiding en klinisch wetenschappelijk onderzoek
 
-#### Artikel B.19. Combinatie opleiding en klinisch wetenschappelijk onderzoek
+##### Artikel B.19. Combinatie opleiding en klinisch wetenschappelijk onderzoek
 
 1. De aios heeft de mogelijkheid de opleiding tot medisch specialist onder [artikel B.20.](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&titeldeel=I&paragraaf=I-C&artikel=B.20&z=2007-10-20&g=2007-10-20) gestelde voorwaarden te combineren met het verrichten van klinisch wetenschappelijk onderzoek.
 
 2. Indien door het combineren, bedoeld in het eerste lid, de opleiding wordt onderbroken bedoeld in [artikel B.14.](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&titeldeel=I&paragraaf=I-B&artikel=B.14&z=2007-10-20&g=2007-10-20), wordt de opleiding voltooid binnen de in [artikel B.3.](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&titeldeel=I&paragraaf=I-A&artikel=B.3&z=2007-10-20&g=2007-10-20) bedoelde opleidingsduur verlengd met de duur van het onderzoek, bedoeld in het eerste lid, met een maximum van drie jaar.
 
-#### Artikel B.20. Randvoorwaarden
+##### Artikel B.20. Randvoorwaarden
 
 Aan het combineren van de opleiding met het klinisch wetenschappelijk onderzoek, bedoeld in [artikel B.19., eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&titeldeel=I&paragraaf=I-C&artikel=B.19&z=2007-10-20&g=2007-10-20), zijn de volgende voorwaarden verbonden:
 
@@ -558,7 +584,7 @@ Aan het combineren van de opleiding met het klinisch wetenschappelijk onderzoek,
 
 - d. gedurende het klinisch wetenschappelijk onderzoek blijft de aios betrokken bij de opleiding.
 
-#### Artikel B.21. Aanvraag voor beoordeling opleidingsschema
+##### Artikel B.21. Aanvraag voor beoordeling opleidingsschema
 
 1. De aios dient de aanvraag om goedkeuring van het met de opleider en de onderzoeksbegeleider opgestelde opleidingsschema bij de MSRC in.
 
@@ -566,7 +592,7 @@ Aan het combineren van de opleiding met het klinisch wetenschappelijk onderzoek,
 
 3. De MSRC beslist binnen acht weken nadat de aanvraag is ontvangen. Een afschrift van deze beslissing wordt verzonden aan de opleider, de onderzoeksbegeleider en de opleidingsinrichting.
 
-#### Artikel B.22. Overige bepalingen
+##### Artikel B.22. Overige bepalingen
 
 1. Gedurende de periode dat de aios de opleiding tot medisch specialist volgt is [hoofdstuk B](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&z=2007-10-20&g=2007-10-20), met uitzondering van [artikel B.16., eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&titeldeel=I&paragraaf=I-B&artikel=B.16&z=2007-10-20&g=2007-10-20) en [B.17., eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&titeldeel=I&paragraaf=I-B&artikel=B.17&z=2007-10-20&g=2007-10-20), alsmede het betreffende specifieke besluit onverkort van toepassing op dat gedeelte van de opleiding.
 
@@ -578,7 +604,7 @@ Aan het combineren van de opleiding met het klinisch wetenschappelijk onderzoek,
 
 #### Paragraaf I-D. De stage
 
-#### Artikel B.23. Stage
+##### Artikel B.23. Stage
 
 Voor een stage gelden de volgende eisen:
 
@@ -590,7 +616,7 @@ Voor een stage gelden de volgende eisen:
 
 #### Paragraaf I-E. Gedeeltelijke opleiding buiten Nederland
 
-#### Artikel B.24. Met voorafgaande toestemming MSRC
+##### Artikel B.24. Met voorafgaande toestemming MSRC
 
 1. De aios die een gedeelte van de opleiding tot medisch specialist buiten Nederland wenst te volgen en die deze periode geheel of gedeeltelijk wil laten meetellen voor de in Nederland reeds gevolgde of nog te volgen opleiding, dient hiertoe vooraf de toestemming van de MSRC te verkrijgen.
 
@@ -600,7 +626,7 @@ Voor een stage gelden de volgende eisen:
 
 4. Indien de MSRC de gevraagde toestemming verleent, vermeldt zij gedurende welke periode de opleiding buiten Nederland zal worden gevolgd en tevens voor welke tijdsduur deze periode als opleiding in Nederland zal worden aangemerkt.
 
-#### Artikel B.25. Zonder voorafgaande toestemming MSRC
+##### Artikel B.25. Zonder voorafgaande toestemming MSRC
 
 1. De aios die zonder de door de MSRC verleende toestemming,bedoeld in [artikel B.24., eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&titeldeel=I&paragraaf=I-E&artikel=B.24&z=2007-10-20&g=2007-10-20), buiten Nederland een gedeelte van de opleiding tot medisch specialist heeft gevolgd, kan bij de MSRC een aanvraag indienen tot vrijstelling van één of meer onderdelen van de opleiding in Nederland.
 
@@ -612,7 +638,7 @@ Voor een stage gelden de volgende eisen:
 
 5. De MSRC kan in bijzondere gevallen, gehoord de plenaire visitatiecommissie van de betreffende wetenschappelijke medisch specialistenvereniging en de opleider, bepalen dat een langere periode dan bedoeld in het vierde lid als opleiding kan meetellen.
 
-#### Artikel B.26. Laatste jaar van de opleiding
+##### Artikel B.26. Laatste jaar van de opleiding
 
 1. De aios die een gedeelte van de opleiding buiten Nederland wenst te volgen of heeft gevolgd, volgt ten minste het laatste jaar van de opleiding bij een opleider in een opleidingsinrichting in Nederland.
 
@@ -620,7 +646,7 @@ Voor een stage gelden de volgende eisen:
 
 ## Titel II. Geschillen
 
-#### Artikel B.27. Commissie voor Geschillen (CvG)
+##### Artikel B.27. Commissie voor Geschillen (CvG)
 
 1. Er is een CvG inzake opleidingsaangelegenheden. De leden van de CvG worden benoemd, geschorst en ontslagen door het overleg van voorzitters van de registratiecommissies, bedoeld in artikel 3, eerste lid van de Regeling.
 
@@ -646,7 +672,7 @@ Voor een stage gelden de volgende eisen:
 
 5. De algemeen directeur van de KNMG voegt aan de CvG een ambtelijk secretaris toe.
 
-#### Artikel B.28. Competentie Commissie voor Geschillen
+##### Artikel B.28. Competentie Commissie voor Geschillen
 
 1. De CvG neemt kennis van alle geschillen met betrekking tot de naleving van dit besluit , de specifieke besluiten, de beleidsregels van de registratiecommissies, telkens inzake de vorm, de inhoud en de duur van de opleiding en geschillen verband houdend met het inschrijven van de arts in het opleidingsregister, voorzover de Algemene wet bestuursrecht of de Regeling niet van toepassing zijn.
 
@@ -660,7 +686,7 @@ Voor een stage gelden de volgende eisen:
 
 #### Paragraaf I-A. Eisen voor erkenning van de medisch specialist tot opleider
 
-#### Artikel C.1. De eisen voor erkenning
+##### Artikel C.1. De eisen voor erkenning
 
 De MSRC erkent een medisch specialist als opleider indien hij aan de volgende algemene eisen voldoet:
 
@@ -684,7 +710,7 @@ De MSRC erkent een medisch specialist als opleider indien hij aan de volgende al
 
 - j. hij is op aanwijzing van de MSRC bereid aios op te leiden, die een nieuwe opleidingsplaats zoeken in het geval een aios door de CvG in het gelijk is gesteld of in de gevallen als bedoeld in [artikel C.28](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=C&titeldeel=III&artikel=C.28&z=2007-10-20&g=2007-10-20).
 
-#### Artikel C.2. Opleidingsgroep
+##### Artikel C.2. Opleidingsgroep
 
 De leden van de opleidingsgroep dienen aan de volgende eisen te voldoen:
 
@@ -710,7 +736,7 @@ De leden van de opleidingsgroep dienen aan de volgende eisen te voldoen:
 
 #### Paragraaf I-B. Verplichtingen van de opleider
 
-#### Artikel C.3. Verplichtingen opleider
+##### Artikel C.3. Verplichtingen opleider
 
 De opleider heeft de volgende verplichtingen:
 
@@ -732,7 +758,7 @@ De opleider heeft de volgende verplichtingen:
 
 - i. hij participeert desgevraagd actief in de centrale opleidingscommissie.
 
-#### Artikel C.4. Opleidingsgroep
+##### Artikel C.4. Opleidingsgroep
 
 De leden van de opleidingsgroep hebben de volgende verplichtingen:
 
@@ -772,7 +798,7 @@ De leden van de opleidingsgroep hebben de volgende verplichtingen:
 
 #### Paragraaf I-C. De plaatsvervangend opleider en de waarnemer
 
-#### Artikel C.5. Eisen voor erkenning van medisch specialist tot plaatsvervangend opleider
+##### Artikel C.5. Eisen voor erkenning van medisch specialist tot plaatsvervangend opleider
 
 1. De MSRC erkent een medisch specialist als plaatsvervangend opleider indien hij voldoet aan de eisen, genoemd in [artikel C.1.](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=C&titeldeel=I&paragraaf=I-A&artikel=C.1&z=2007-10-20&g=2007-10-20) en op dezelfde afdeling, al dan niet op dezelfde locatie, werkzaam is.
 
@@ -782,7 +808,7 @@ De leden van de opleidingsgroep hebben de volgende verplichtingen:
 
 4. Met inachtneming van het derde lid vervalt de erkenning van de plaatsvervangend opleider per direct twee jaar na de datum waarop de plaatsvervangend opleider de taak van de opleider heeft overgenomen. In het tweede jaar van deze periode mogen geen nieuwe aios worden aangesteld.
 
-#### Artikel C.6. Eisen voor aanwijzing van medisch specialist als waarnemer
+##### Artikel C.6. Eisen voor aanwijzing van medisch specialist als waarnemer
 
 1. Indien de MSRC geen plaatsvervangend opleider heeft erkend en de opleider zijn werkzaamheden als opleider gedurende een aaneengesloten periode van drie maanden niet kan of heeft kunnen verrichten, delen de opleider of de opleidingsinrichting zo spoedig mogelijk, doch uiterlijk binnen één maand na het verstrijken van genoemde periode, schriftelijk aan de MSRC mee door wie de functie van opleider wordt waargenomen. Is de opleider hiertoe niet in staat dan zal uitsluitend de opleidingsinrichting zorg dragen voor deze berichtgeving aan de MSRC.
 
@@ -796,19 +822,19 @@ De leden van de opleidingsgroep hebben de volgende verplichtingen:
 
 #### Paragraaf I-D. De stageopleider
 
-#### Artikel C.7. De stageopleider
+##### Artikel C.7. De stageopleider
 
 1. Ten behoeve van het verzorgen van een stage bij een opleidingsinrichting waar uitsluitend één stage kan worden gevolgd kan de MSRC een medisch specialist erkennen als stageopleider.
 
 2. De stageopleider is verantwoordelijk voor dat gedeelte van de opleiding dat betrekking heeft op de stage die bij hem wordt gelopen.
 
-#### Artikel C.8. Eisen voor erkenning van medisch specialist tot stageopleider
+##### Artikel C.8. Eisen voor erkenning van medisch specialist tot stageopleider
 
 1. De MSRC erkent een medisch specialist als stageopleider, indien hij voldoet aan de eisen genoemd in [artikel C.1., eerste lid, onder a, b, d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=C&titeldeel=I&paragraaf=I-A&artikel=C.1&z=2007-10-20&g=2007-10-20), [artikel C.4.](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=C&titeldeel=I&paragraaf=I-B&artikel=C.4&z=2007-10-20&g=2007-10-20), [artikel C.6.](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=C&titeldeel=I&paragraaf=I-C&artikel=C.6&z=2007-10-20&g=2007-10-20) voor zover dit de betreffende stage betreft en hij aantoont een specifieke interesse in en kennis op het vakgebied van de betreffende stage te hebben.
 
 2. In specifieke besluiten kunnen per medisch specialisme afwijkende eisen worden gesteld.
 
-#### Artikel C.9. Verplichtingen stageopleider
+##### Artikel C.9. Verplichtingen stageopleider
 
 1. De stageopleider heeft de volgende verplichtingen:
 
@@ -822,7 +848,7 @@ De leden van de opleidingsgroep hebben de volgende verplichtingen:
 
 #### Paragraaf II-A. Eisen voor de erkenning van de inrichting tot opleidingsinrichting voor de totale opleiding op één locatie
 
-#### Artikel C.10. Eisen voor erkenning
+##### Artikel C.10. Eisen voor erkenning
 
 1. De inrichting voldoet aan de volgende eisen:
 
@@ -858,7 +884,7 @@ De leden van de opleidingsgroep hebben de volgende verplichtingen:
 
 #### Paragraaf II-B. Aanvullende eisen voor de erkenning van de inrichting tot opleidingsinrichting voor de totale opleiding op meerdere locaties
 
-#### Artikel C.11. Aanvullende eisen bij meerdere locaties
+##### Artikel C.11. Aanvullende eisen bij meerdere locaties
 
 1. In aanvulling op [artikel C.10.](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=C&titeldeel=II&paragraaf=II-A&artikel=C.10&z=2007-10-20&g=2007-10-20) geldt voor een inrichting op meerdere locaties dat:
 
@@ -880,7 +906,7 @@ De leden van de opleidingsgroep hebben de volgende verplichtingen:
 
 #### Paragraaf II-C. Verplichtingen voor de opleidingsinrichting voor de totale opleiding op één locatie
 
-#### Artikel C.12. Verplichtingen opleidingsinrichting
+##### Artikel C.12. Verplichtingen opleidingsinrichting
 
 1. De opleidingsinrichting heeft de volgende verplichtingen:
 
@@ -904,7 +930,7 @@ De leden van de opleidingsgroep hebben de volgende verplichtingen:
 
 2. De MSRC kan, gehoord de plenaire visitatiecommissie, voor een beperkte tijd en onder voorwaarden ontheffing verlenen van het bepaalde in het eerste lid, onder a, onderdeel i.
 
-#### Artikel C.13. Centrale opleidingscommissie
+##### Artikel C.13. Centrale opleidingscommissie
 
 1. De centrale opleidingscommissie fungeert als overlegorgaan ter handhaving en bevordering van een optimaal en veilig opleidingsklimaat en heeft daartoe de volgende taken:
 
@@ -948,7 +974,7 @@ De leden van de opleidingsgroep hebben de volgende verplichtingen:
 
 #### Paragraaf II-D. Aanvullende verplichtingen voor de opleidingsinrichting op meerdere locaties
 
-#### Artikel C.14. Aanvullende verplichtingen bij meerdere locaties
+##### Artikel C.14. Aanvullende verplichtingen bij meerdere locaties
 
 1. In aanvulling op paragraaf II-C geldt voor een opleidingsinrichting op meerdere locaties dat:
 
@@ -960,17 +986,17 @@ De leden van de opleidingsgroep hebben de volgende verplichtingen:
 
 #### Paragraaf II-E. De opleidingsinrichting voor een gedeelte van de opleiding of een stage
 
-#### Artikel C.15. Samenwerkingsovereenkomsten
+##### Artikel C.15. Samenwerkingsovereenkomsten
 
 Vervallen
 
-#### Artikel C.16. Eisen en verplichtingen voor de erkenning gedeelte opleiding
+##### Artikel C.16. Eisen en verplichtingen voor de erkenning gedeelte opleiding
 
 1. De eisen en verplichtingen genoemd in [paragraaf II-A tot en met II-D](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=C&titeldeel=II&paragraaf=II-A&z=2007-10-20&g=2007-10-20) zijn van overeenkomstige toepassing
 
 2. Uit de erkenning blijkt duidelijk voor welke onderdelen van de opleiding en voor welke opleidingsduur de inrichting wordt erkend.
 
-#### Artikel C.17. Eisen en verplichtingen voor de erkenning van een opleidinginrichting voor een stage
+##### Artikel C.17. Eisen en verplichtingen voor de erkenning van een opleidinginrichting voor een stage
 
 1. Een inrichting waar uitsluitend één stage kan worden gevolgd voldoet aan de volgende eisen:
 
@@ -998,7 +1024,7 @@ Vervallen
 
 ## Titel III. Procedure erkenning opleider, plaatsvervangend opleider, stageopleider en opleidingsinrichting
 
-#### Artikel C.18. Aanvraag erkenning
+##### Artikel C.18. Aanvraag erkenning
 
 1. De aanvraag tot erkenning tot opleider, plaatsvervangend opleider, stageopleider of opleidingsinrichting wordt door de betreffende medisch specialist respectievelijk inrichting, bij de MSRC ingediend op een door de MSRC verstrekt aanvraagformulier onder overlegging van documenten waaruit blijkt dat aan de eisen en verplichtingen van dit besluit en de specifieke besluiten wordt voldaan.
 
@@ -1006,7 +1032,7 @@ Vervallen
 
 3. Tenminste drie maanden voor het verstrijken van de termijn waarvoor de erkenning is verleend wordt door de betreffende opleider, plaatsvervangend opleider, stageopleider of opleidingsinrichting een schriftelijke aanvraag voor het opnieuw verlenen van de erkenning bij de MSRC ingediend.
 
-#### Artikel C.19. Visitatie
+##### Artikel C.19. Visitatie
 
 1. Alvorens een erkenning wordt verleend of opnieuw wordt verleend doet de MSRC nader onderzoek.
 
@@ -1022,7 +1048,7 @@ Vervallen
 
 7. Ter uitvoering van de visitaties stelt de MSRC nadere voorschriften vast.
 
-#### Artikel C.20. Beslissing tot erkenning
+##### Artikel C.20. Beslissing tot erkenning
 
 1. Indien niet aan de betreffende eisen voor erkenning is voldaan, kan geen erkenning worden verleend.
 
@@ -1036,7 +1062,7 @@ Vervallen
 
 6. De MSRC deelt haar beslissing, bedoeld in het eerste, tweede of het derde lid, schriftelijk mede aan de opleider, de opleidingsinrichting en de betrokken aios onder toezending van het visitatierapport.
 
-#### Artikel C.21. Duur erkenning
+##### Artikel C.21. Duur erkenning
 
 1. Een erkenning wordt voor vijf jaar verleend.
 
@@ -1048,31 +1074,31 @@ Vervallen
 
 5. De duur van een erkenning van een opleider, plaatsvervangend opleider of stageopleider kan niet de resterende duur van een bestaande erkenning van een opleidingsinrichting, waaraan de opleider is verbonden, overstijgen.
 
-#### Artikel C.22. Ingangsdatum erkenning
+##### Artikel C.22. Ingangsdatum erkenning
 
 1. Indien een erkenning voor de eerste maal wordt verleend bepaalt de MSRC de ingangsdatum van de erkenning.
 
 2. Indien een erkenning opnieuw wordt verleend geldt deze vanaf de einddatum van de vorige erkenning.
 
-#### Artikel C.23. Eén opleidingsinrichting
+##### Artikel C.23. Eén opleidingsinrichting
 
 1. De erkenning als opleider wordt in verband met één opleidingsinrichting gegeven. Deze opleidingsinrichting kan op verschillende locaties gehuisvest zijn.
 
 2. Vervallen.
 
-#### Artikel C.24. Alle onderdelen opleiding
+##### Artikel C.24. Alle onderdelen opleiding
 
 1. De erkenning van een inrichting als opleidingsinrichting wordt verleend voor het volgen van alle onderdelen van de opleiding in een medisch specialisme.
 
 2. In afwijking van het eerste lid kan een inrichting als opleidingsinrichting worden erkend voor het volgen van een gedeelte van de opleiding of een stage in een medisch specialisme
 
-#### Artikel C.25. Koppeling erkenning opleider en opleidingsinrichting
+##### Artikel C.25. Koppeling erkenning opleider en opleidingsinrichting
 
 1. Indien de erkenning van de opleidingsinrichting vervalt, vervalt de erkenning van de opleider, de plaatsvervangend opleider of de stageopleider voor dat medisch specialisme met ingang van dezelfde datum.
 
 2. Zodra de opleidingsinrichting niet voldoet aan de erkenningeis, bedoeld in [artikel C.10., eerste lid onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=C&titeldeel=II&paragraaf=II-A&artikel=C.10&z=2007-10-20&g=2007-10-20), en niet is voorzien in waarneming als bedoeld in [artikel C.6.](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=C&titeldeel=I&paragraaf=I-C&artikel=C.6&z=2007-10-20&g=2007-10-20), vervalt de erkenning van de opleidingsinrichting voor dat medisch specialisme met ingang van dezelfde datum.
 
-#### Artikel C.26. Tussentijdse wijziging erkenning
+##### Artikel C.26. Tussentijdse wijziging erkenning
 
 1. Indien de opleider, plaatsvervangend opleider, stageopleider of de opleidingsinrichting de in dit besluit en de specifieke besluiten omschreven eisen en verplichtingen niet nakomt, kan de MSRC besluiten de erkenning:
 
@@ -1088,7 +1114,7 @@ Vervallen
 
 4. Indien de erkenning van de opleidingsinrichting wordt geschorst of tussentijds wordt ingetrokken, kunnen vanaf dat moment geen nieuwe aios in opleiding worden genomen.
 
-#### Artikel C.27. Einde van rechtswege
+##### Artikel C.27. Einde van rechtswege
 
 De erkenning van de opleider eindigt van rechtswege:
 
@@ -1104,7 +1130,7 @@ De erkenning van de opleider eindigt van rechtswege:
 
 - f. indien geen aanvraag voor vernieuwing van een erkenning wordt aangevraagd.
 
-#### Artikel C.28. Voortzetting opleiding bij einde erkenning
+##### Artikel C.28. Voortzetting opleiding bij einde erkenning
 
 1. In geval de erkenning niet opnieuw is verleend, is geschorst, is geëindigd van rechtswege of is ingetrokken zal de MSRC, voor zover nodig in overleg met de betrokken aios, nader bepalen op welke wijze zij hun opleiding kunnen voortzetten.
 
@@ -1116,7 +1142,7 @@ De erkenning van de opleider eindigt van rechtswege:
 
 #### Paragraaf I-A. Medisch specialistenregister
 
-#### Artikel D.1. Inschrijving
+##### Artikel D.1. Inschrijving
 
 Voor inschrijving in één van de registers van medisch specialisten komt in aanmerking:
 
@@ -1134,11 +1160,11 @@ Voor inschrijving in één van de registers van medisch specialisten komt in aan
 
 #### Paragraaf I-B. Inhoud individueel scholingsprogramma
 
-#### Artikel D.2. Registratie arts tot medisch specialist
+##### Artikel D.2. Registratie arts tot medisch specialist
 
 De arts als bedoeld in [artikel D.1. eerste lid, sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=D&titeldeel=I&artikel=D.1&z=2007-10-20&g=2007-10-20) dient na voltooiing van de opleiding bij de MSRC een aanvraag in tot registratie in het betreffende register van medisch specialisten. Voorts verschaft hij de MSRC de gegevens en bescheiden die de MSRC voor de beoordeling van de aanvraag nodig acht en waarover de arts redelijkerwijs de beschikking kan krijgen. Indien de aanvraag bedoeld in het eerste lid, meer dan drie maanden na het eind van de opleiding bij de MSRC wordt ingediend dient de arts aan te tonen dat hij voldoet aan de eisen voor herregistratie zoals neergelegd in [titel III](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=D&titeldeel=III&z=2007-10-20&g=2007-10-20). Bij de aanvraag tot registratie in het betreffende register van medisch specialisten overlegt de arts die gedeeltelijk buiten Nederland is opgeleid, over de betreffende periode aan de MSRC de schriftelijke bewijsstukken en verstrekt de MSRC desgevraagd alle nadere inlichtingen. De MSRC schrijft de arts die aan alle eisen gesteld in dit besluit en in de specifieke besluiten voldoet en die het door de MSRC daarvoor vastgestelde bedrag heeft voldaan, alsmede voorzover de opleider een positieve beoordeling, bedoeld in [artikel B.9.](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=B&titeldeel=I&paragraaf=I-A&artikel=B.9&z=2007-10-20&g=2007-10-20), heeft verstrekt, op verzoek van de arts en met inachtneming van het bepaalde in de Regeling in het betreffende register van medisch specialisten in.
 
-#### Artikel D.3. Registratie op basis van Richtlijn 2005/36/EEG
+##### Artikel D.3. Registratie op basis van Richtlijn 2005/36/EEG
 
 Indien een arts, als bedoeld in [artikel D.1., onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=D&titeldeel=I&artikel=D.1&z=2007-10-20&g=2007-10-20), in een specialistenregister wenst te worden ingeschreven, meldt hij zich schriftelijk bij de MSRC. De aanvraag gaat vergezeld van:
 
@@ -1156,7 +1182,7 @@ De MSRC schrijft de arts, bedoeld in het eerste lid, na ontvangst van de stukken
 
 Indien de MSRC van oordeel is dat van gelijkwaardigheid als bedoeld in het vierde lid, sprake is, schrijft zij de arts in. Indien de MSRC van oordeel is dat van gelijkwaardigheid geen sprake is, wijst zij het verzoek tot inschrijving af en kan zij toestemming verlenen voor het volgen van een individueel scholingprogramma als bedoeld in [paragraaf II-C](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=D&titeldeel=II&paragraaf=II-C&z=2007-10-20&g=2007-10-20).
 
-#### Artikel D.4. Registratie anders dan op basis van Richtlijn 2005/36/EEG
+##### Artikel D.4. Registratie anders dan op basis van Richtlijn 2005/36/EEG
 
 Indien een arts, als bedoeld in [artikel D.1., onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=D&titeldeel=I&artikel=D.1&z=2007-10-20&g=2007-10-20), in een specialistenregister wenst te worden ingeschreven, meldt hij zich schriftelijk bij de MSRC. De aanvraag gaat vergezeld van:
 
@@ -1172,7 +1198,7 @@ De arts dient een bewijs te overleggen dat hij vanaf het moment van voltooiing v
 
 #### Paragraaf II-A. Aanvraag registratie
 
-#### Artikel D.5. Registratie na individueel scholingsprogramma of beoordelingsstage
+##### Artikel D.5. Registratie na individueel scholingsprogramma of beoordelingsstage
 
 De arts, bedoeld in [artikel D.1., onder c., d. e. of f.](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=D&titeldeel=I&artikel=D.1&z=2007-10-20&g=2007-10-20), wendt zich aan het eind van het individueel scholingsprogramma of de beoordelingsstage tot de MSRC voor registratie in een van de registers van medisch specialisten. Hij verschaft de MSRC de gegevens en bescheiden die de MSRC voor de beoordeling van de aanvraag nodig acht en waarover de arts redelijkerwijs de beschikking kan krijgen. De arts overlegt:
 
@@ -1182,47 +1208,47 @@ De arts, bedoeld in [artikel D.1., onder c., d. e. of f.](https://wetten.overhei
 
 Indien de aanvraag, bedoeld in het eerste lid, meer dan drie maanden na het afgeven van de verklaring, bedoeld in het eerste lid, onder b, bij de MSRC wordt ingediend dient de arts aan te tonen dat hij voldoet aan de eisen voor herregistratie, zoals neergelegd in [titel III](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=D&titeldeel=III&z=2007-10-20&g=2007-10-20). De MSRC schrijft de arts na ontvangst van stukken bedoeld in het eerste en tweede lid en met inachtneming van het bepaalde in de Regeling in het betreffende register van medisch specialisten in.
 
-#### Artikel D.6. Inschrijving korter dan 5 jaar
+##### Artikel D.6. Inschrijving korter dan 5 jaar
 
 De MSRC kan met toepassing van artikel 29, tweede lid van de Regeling, besluiten tot inschrijving van een arts in een specialistenregister voor een periode korter dan vijf jaar. Artikel 31, vijfde lid van de Regeling is van overeenkomstige toepassing.
 
-#### Artikel D.7. Beoordelingsstage
+##### Artikel D.7. Beoordelingsstage
 
 Voor het volgen van een beoordelingsstage komt in aanmerking een arts als bedoeld in [artikel D.4., vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=D&titeldeel=II&paragraaf=II-A&artikel=D.4&z=2007-10-20&g=2007-10-20). De beoordelingsstage wordt gevolgd onder begeleiding van een opleider in een opleidingsinrichting.
 
-#### Artikel D.8. Aanvraag beoordelingsstage
+##### Artikel D.8. Aanvraag beoordelingsstage
 
 De arts dient tijdig voorafgaand aan de aanvang van de beoordelingsstage bij de MSRC een aanvraag in, vergezeld met de gegevens en bescheiden als genoemd in [artikel D.4., eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=D&titeldeel=II&paragraaf=II-A&artikel=D.4&z=2007-10-20&g=2007-10-20). De arts verschaft de MSRC de gegevens en bescheiden die de MSRC voor de beoordeling van de aanvraag nodig acht en waarover de arts redelijkerwijs de beschikking kan krijgen. De beoordelingsstage kan eerst aanvangen nadat de MSRC hiervoor toestemming heeft gegeven.
 
 #### Paragraaf II-B. Individueel scholingsprogramma EER en Zwitserse Bondsstaat
 
-#### Artikel D.9. Toestemming MSRC
+##### Artikel D.9. Toestemming MSRC
 
 In het kader van het verlenen van toestemming voor de aanvang van de beoordelingsstage gaat de MSRC na of de arts voldoet aan de in [artikel D.4., eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=D&titeldeel=II&paragraaf=II-A&artikel=D.4&z=2007-10-20&g=2007-10-20), genoemde eisen. Indien de MSRC tot de vaststelling komt dat op verantwoorde wijze met de beoordelingsstage kan worden gestart, verleent de MSRC toestemming voor het volgen van de beoordelingsstage. In het geval de MSRC de arts toestemming verleent de beoordelingsstage aan te vangen, bepaalt de MSRC tevens conform [artikel D.11.](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=D&titeldeel=II&paragraaf=II-B&artikel=D.11&z=2007-10-20&g=2007-10-20), de tijdsduur hiervan.
 
 #### Paragraaf II-C. Beoordelingsstage
 
-#### Artikel D.10. Ontheffing beoordelingsstage
+##### Artikel D.10. Ontheffing beoordelingsstage
 
 De MSRC kan in bijzondere gevallen besluiten ontheffing te verlenen van de beoordelingsstage, bedoeld in [artikel D.7](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=D&titeldeel=II&paragraaf=II-B&artikel=D.7&z=2007-10-20&g=2007-10-20). De ontheffing, bedoeld in het eerste lid, kan worden verleend indien een arts die buiten Nederland een specialisatie heeft gevolgd en op grond van door hem verstrekte en door de MSRC geverifieerde inlichtingen over zijn opleiding en wetenschappelijke prestaties, blijkt te beschikken over bijzondere theoretische kennis en praktische bekwaamheid op het terrein van het betreffende medisch specialisme. De betreffende arts kan worden ingeschreven nadat hij met goed gevolg een taaltest heeft afgelegd en is ingeschreven in het artsregister als bedoeld in [artikel 3 van de Wet BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3), inschrijven volgens artikel 26 van de Regeling.
 
-#### Artikel D.11. Duur beoordelingsstage
+##### Artikel D.11. Duur beoordelingsstage
 
 De duur van de beoordelingsstage bedraagt 6 maanden bij een volledige werkweek. Bij deeltijd wordt de duur naar rato aangepast. In afwijking van het eerste lid kan de MSRC voorafgaande aan de beoordelingstage of in overleg met de opleider tussentijds bepalen dat gedurende een langere of een kortere periode een beoordelingsstage wordt gevolgd. De beoordelingsstage inclusief de eventuele verlenging genoemd in het tweede lid, duurt ten hoogste 12 maanden bij een volledige werkweek. Bij deeltijd wordt de duur naar rato aangepast.
 
-#### Artikel D.12. Tussentijdse beëindiging beoordelingsstage
+##### Artikel D.12. Tussentijdse beëindiging beoordelingsstage
 
 Om zwaarwegende redenen kan de MSRC op aangeven van de opleider besluiten de stage tussentijds te beëindigen. Van zwaarwegende redenen is in ieder geval sprake indien het gelet op de risico’s voor de volksgezondheid niet verantwoord is de stage voort te zetten.
 
-#### Artikel D.13. Oordeel van de opleider
+##### Artikel D.13. Oordeel van de opleider
 
 De opleider is verplicht de arts iedere drie maanden tussentijds te beoordelen, deze beoordelingen schriftelijk vast te leggen in door de MSRC vastgestelde formulieren en ter kennis te brengen van de MSRC en de arts. De opleider is verplicht zijn oordeel over de arts aan het eind van de beoordelingsstage ter kennis te brengen van de MSRC, nadat hij heeft nagegaan of diens kennis en kunde gelijkwaardig is aan die van in Nederland opgeleide medisch specialisten en of de arts in staat is het betreffende medisch specialisme in Nederland zelfstandig en naar behoren uit te oefenen. Indien de opleider een positieve beoordeling afgeeft, kan de arts conform [artikel. D.5.](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=D&titeldeel=II&paragraaf=II-A&artikel=D.5&z=2007-10-20&g=2007-10-20) een verzoek om inschrijving in het betreffende register van medisch specialisten indienen. Indien de opleider een negatieve beoordeling afgeeft, beoordeelt de MSRC op verzoek van de arts of aanleiding is voor het volgen van een individueel scholingsprogramma. Daarbij zijn de eisen, bedoeld in [paragraaf II-C](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=D&titeldeel=II&paragraaf=II-C&z=2007-10-20&g=2007-10-20) overeenkomstige toepassing.
 
-#### Artikel D.14. Beheersing Nederlandse taal
+##### Artikel D.14. Beheersing Nederlandse taal
 
 Inschrijving in het register, bedoeld in de [artikelen D.1. onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=D&titeldeel=I&artikel=D.1&z=2007-10-20&g=2007-10-20), alsmede de aanvang van de beoordelingsstage, bedoeld in [artikel D.4., vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=D&titeldeel=II&paragraaf=II-A&artikel=D.4&z=2007-10-20&g=2007-10-20), kan eerst geschieden nadat de arts op een door de MSRC aangegeven wijze heeft aangetoond een zodanige kennis van de Nederlandse taal in woord en geschrift alsmede voldoende luistervaardigheid te hebben verworven, dat een goede communicatie met patiënten, collegae en andere werkers in de gezondheidszorg gewaarborgd is
 
-#### Artikel D.15. Individueel scholingsprogramma
+##### Artikel D.15. Individueel scholingsprogramma
 
 1. Er is een individueel scholingsprogramma dat tot doel heeft een arts, bedoeld in [artikel D.13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=D&titeldeel=II&paragraaf=II-B&artikel=D.13&z=2007-10-20&g=2007-10-20), [D.20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=D&titeldeel=III&artikel=D.20&z=2007-10-20&g=2007-10-20) of [D.26, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=D&titeldeel=III&artikel=D.26&z=2007-10-20&g=2007-10-20), zodanig te scholen dat hij de medische zorg in het betreffende specialisme zelfstandig en op verantwoorde wijze kan uitvoeren.
 
@@ -1230,27 +1256,27 @@ Inschrijving in het register, bedoeld in de [artikelen D.1. onder d](https://wet
 
 3. Het individuele scholingsprogramma wordt gevolgd bij een opleider in een opleidingsinrichting.
 
-#### Artikel D.16. Inhoud individueel scholingsprogramma
+##### Artikel D.16. Inhoud individueel scholingsprogramma
 
 De opleider stelt het individueel scholingsprogramma, bedoeld in [artikel D.15.](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=D&titeldeel=II&paragraaf=II-C&artikel=D.15&z=2007-10-20&g=2007-10-20) op. Bij het opstellen van het individueel scholingsprogramma houdt de opleider rekening met de uitgangssituatie van de betreffende arts of medisch specialist en maakt daartoe gebruik van de voor de betreffende opleiding geldende toetsmethoden. Nadat de opleider het individueel scholingsprogramma heeft opgesteld vraagt hij ter zake goedkeuring aan de MSRC.
 
 #### Paragraaf II-D. Taaltest
 
-#### Artikel D.17. Beoordeling individueel scholingsprogramma
+##### Artikel D.17. Beoordeling individueel scholingsprogramma
 
 Gedurende het individueel scholingsprogramma beoordeelt de opleider iedere drie maanden de voortgang van de arts of medisch specialist. De conclusies van deze beoordelingen worden - voor gezien of akkoord meeondertekend door de arts of medisch specialist - schriftelijk vastgelegd. Aan het eind van het individueel scholingsprogramma beoordeelt de opleider of de betreffende arts geacht kan worden en in staat is de medische zorg in het betreffende medisch specialisme zelfstandig en op verantwoorde wijze uit te voeren. De opleider geeft over de beoordeling, bedoeld in het derde lid, een verklaring aan de arts of medisch specialist af voor de MSRC ten behoeve van de registratie.
 
-#### Artikel D.18. Inhoud Taaltest:
+##### Artikel D.18. Inhoud Taaltest:
 
 Vervallen
 
-#### Artikel D.19. Uitslag Taaltest:
+##### Artikel D.19. Uitslag Taaltest:
 
 Vervallen
 
 ## Titel III. Herregistratie
 
-#### Artikel D.20. Eisen herregistratie
+##### Artikel D.20. Eisen herregistratie
 
 1. De MSRC herregistreert een medisch specialist in een specialistenregister als bedoeld in artikel 26 van de Regeling, als de medisch specialist in de periode van vijf jaar voorafgaand aan de expiratie van de vigerende registratie heeft voldaan aan de volgende eisen:
 
@@ -1268,25 +1294,25 @@ Vervallen
 
 5. Zodra de medisch specialist, bedoeld in het vierde lid, niet voldoet aan de gestelde voorwaarde, wordt zijn inschrijving in het register doorgehaald.
 
-#### Artikel D.21. Regelmatige uitoefening specialisme
+##### Artikel D.21. Regelmatige uitoefening specialisme
 
 Van regelmatige uitoefening van het medisch specialisme, bedoeld in [artikel D.20., eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=D&titeldeel=III&artikel=D.20&z=2007-10-20&g=2007-10-20), is sprake indien de medisch specialist gemiddeld over vijf jaar ten minste zestien uur per week patiëntgebonden zorg verleent, waaronder worden begrepen klinische werkzaamheid, poliklinische werkzaamheid, consultatieve activiteiten, patiëntgebonden opleidingsactiviteiten en patiëntbesprekingen. In specifieke besluiten kunnen voor medisch specialismen, op voorstel van de betreffende wetenschappelijke medisch specialistenvereniging, het eerste lid aanvullende eisen worden gesteld.
 
-#### Artikel D.22. Deskundigheidsbevordering
+##### Artikel D.22. Deskundigheidsbevordering
 
 1. De omvang van de deskundigheidsbevordering, bedoeld in [artikel D.20., eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=D&titeldeel=III&artikel=D.20&z=2007-10-20&g=2007-10-20), bedraagt gemiddeld over vijf jaar ten minste veertig uur per jaar.
 
 2. In specifieke besluiten kunnen voor medisch specialismen, op voorstel van de betreffende wetenschappelijke medisch specialistenvereniging, het eerste lid aanvullende eisen worden gesteld.
 
-#### Artikel D.23. Bewijsstukken
+##### Artikel D.23. Bewijsstukken
 
 De medisch specialist legt ten behoeve van de herregistratie de schriftelijke bewijzen van het gevolgd hebben van deskundigheidsbevordering en van de regelmatige uitoefening van het specialisme over aan de MSRC.
 
-#### Artikel D.24. Visitatieprogramma
+##### Artikel D.24. Visitatieprogramma
 
 De medisch specialist toont aan dat hij heeft deelgenomen aan het visitatieprogramma, bedoeld in [artikel D.20., eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=D&titeldeel=III&artikel=D.20&z=2007-10-20&g=2007-10-20), en verstrekt dit gegeven desgevraagd aan de MSRC ten behoeve van de individuele herregistratie.
 
-#### Artikel D.25. Gelijkgestelde werkzaamheden
+##### Artikel D.25. Gelijkgestelde werkzaamheden
 
 1. In het geval dat de medisch specialist niet als zodanig werkzaam is kan de MSRC besluiten de medisch specialist te herregistreren indien ten minste zestien uur per week sprake is van gelijkgestelde werkzaamheden, bedoeld in het tweede lid.
 
@@ -1312,7 +1338,7 @@ De medisch specialist toont aan dat hij heeft deelgenomen aan het visitatieprogr
 
 6. Gedurende het individueel scholingsprogramma wordt de medisch specialist geherregistreerd indien het individueel scholingsprogramma direct na het staken van de gelijkgestelde werkzaamheden wordt gevolgd.
 
-#### Artikel D.26. Herintreding
+##### Artikel D.26. Herintreding
 
 1. Een arts die in één van de registers van de MSRC ingeschreven is geweest, maar van wie de inschrijving is doorgehaald, kan bij de MSRC een aanvraag indienen om opnieuw te worden ingeschreven.
 
@@ -1324,7 +1350,7 @@ De medisch specialist toont aan dat hij heeft deelgenomen aan het visitatieprogr
 
 5. De MSRC gaat slechts over tot het opnieuw inschrijven in het betreffende register op grond van een verklaring van de opleider dat de arts in staat wordt geacht het betreffende medisch specialisme zelfstandig en naar behoren uit te kunnen oefenen.
 
-#### Artikel D.27. Duur herregistratie
+##### Artikel D.27. Duur herregistratie
 
 1. Indien de medisch specialist voldoet aan de eisen, bedoeld in [artikel D.20.](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=D&titeldeel=III&artikel=D.20&z=2007-10-20&g=2007-10-20), wordt de medisch specialist voor vijf jaar geherregistreerd.
 
@@ -1332,7 +1358,7 @@ De medisch specialist toont aan dat hij heeft deelgenomen aan het visitatieprogr
 
 3. De periode waarmee wordt geherregistreerd wordt bepaald aan de hand van artikel 31, vierde en vijfde lid, van de Regeling.
 
-#### Artikel D.28. Herregistratie zenuw- en zielsziekten
+##### Artikel D.28. Herregistratie zenuw- en zielsziekten
 
 1. De medisch specialist voor zenuwen zielsziekten kan kiezen voor herregistratie in het register voor neurologen of herregistratie in het register voor psychiaters.
 
@@ -1342,17 +1368,17 @@ De medisch specialist toont aan dat hij heeft deelgenomen aan het visitatieprogr
 
 4. Herregistratie voor zowel neurologie als psychiatrie is slechts mogelijk wanneer de medisch specialist aan de herregistratie-eisen voor beide specialismen voldoet.
 
-#### Artikel D.29. Herregistratie allergologen
+##### Artikel D.29. Herregistratie allergologen
 
 Herregistratie in het register voor allergologie kan plaatsvinden indien voldaan is aan 16 uur patiëntgebonden zorgverlening per week in het specialisme interne geneeskunde aandachtsgebied allergologie, en aan de overige bepalingen voor herregistratie in deze paragraaf.
 
-#### Artikel D.30. Herregistratie artsen voor klinische chemie
+##### Artikel D.30. Herregistratie artsen voor klinische chemie
 
 Herregistratie in het register voor artsen klinische chemie kan plaatsvinden indien voldaan is aan 16 uur patiëntgebonden zorgverlening per week in het betreffende vakgebied, en aan de overige bepalingen voor herregistratie in deze paragraaf.
 
 ### Hoofdstuk E. Overige bepalingen
 
-#### Artikel E.1. Overgangsbepalingen
+##### Artikel E.1. Overgangsbepalingen
 
 1. Eisen en verplichtingen te stellen aan de aios of de arts ten aanzien van de opleiding zijn verbindend op 1 januari 2005.
 
@@ -1372,7 +1398,7 @@ Herregistratie in het register voor artsen klinische chemie kan plaatsvinden ind
 
 9. De titel ‘arts klinische chemie’, verbonden aan het medische specialisme ‘klinische chemie’, blijft als medische specialistentitel gelden voor degene die op 1 januari 2005 reeds in het register van artsen klinische chemie waren ingeschreven.
 
-#### Artikel E.2. Intrekking besluiten
+##### Artikel E.2. Intrekking besluiten
 
 1. 1. De volgende besluiten worden ingetrokken:
 
@@ -1458,19 +1484,19 @@ Herregistratie in het register voor artsen klinische chemie kan plaatsvinden ind
 
 4. Ingeval de datum van inwerkingtreding van een specifiek besluit, bedoeld in het derde lid, ligt na 1 januari 2005, prevaleren de bepalingen van het kaderbesluit die een nadere uitwerking in het betreffende specifieke besluit voorschrijven of toestaan.
 
-#### Artikel E.3. Publicatie
+##### Artikel E.3. Publicatie
 
 1. Dit besluit wordt gelijktijdig met het besluit van de Minister, inhoudende de goedkeuring van dit besluit, gepubliceerd in de Staatscourant
 
 2. In het officiële orgaan van de KNMG wordt mededeling gedaan van dit besluit.
 
-#### Artikel E.4. Inwerkingtreding
+##### Artikel E.4. Inwerkingtreding
 
 1. Dit besluit treedt in werking met ingang van 1 januari 2005.
 
 2. Indien de Staatscourant waarin dit besluit en het goedkeuringsbesluit, bedoeld in [artikel E.3., eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033520&hoofdstuk=E&artikel=E.3&z=2007-10-20&g=2007-10-20), worden geplaatst, wordt uitgegeven na 31 december 2004, treedt dit besluit in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt zij terug tot en met 1 januari 2005.
 
-#### Artikel E.5. Citeertitel
+##### Artikel E.5. Citeertitel
 
 Dit besluit wordt aangehaald als: Kaderbesluit CCMS.
 
@@ -1576,7 +1602,7 @@ Wanneer na het horen aan de CvG feiten en omstandigheden bekend worden die voor 
 
 5. De indiener van het verzoekschrift en andere betrokken partijen ontvangen een exemplaar van de uitspraak.
 
-#### Artikel A.7. Doorwerking toekomstige wijzigingen EG-regelgeving
+##### Artikel A.7. Doorwerking toekomstige wijzigingen EG-regelgeving
 
 Een wijziging van Richtlijn 2005/36/EG gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 

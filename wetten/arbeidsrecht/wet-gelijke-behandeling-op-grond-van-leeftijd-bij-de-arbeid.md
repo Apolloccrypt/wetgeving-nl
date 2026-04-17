@@ -1,14 +1,40 @@
 ---
-title: "Wet gelijke behandeling op grond van leeftijd bij de arbeid"
+title: "Wet van 17 december 2003, houdende gelijke behandeling op grond van leeftijd bij arbeid, beroep en beroepsonderwijs (Wet gelijke behandeling op grond van leeftijd bij de arbeid)"
 identifier: "BWBR0016185"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0016185"
+country: "nl"
+rank: "wet"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0016185"
+soort: "wet"
+stam_id: "5677853"
+version_id: "10165382"
+internal_id: "C13974671"
+label_id: "5658564"
+original_entry_into_force: "2004-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0016185/2026-01-01/0"
+intitule_bron: "Stb.2004-30"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-12-17"
+intitule_published: "2004-02-03"
+intitule_in_force: "2004-03-16"
+intitule_status: "goed"
+original_publication: "Stb.2004-30"
+original_signed_date: "2003-12-17"
+original_published_date: "2004-02-03"
+original_effect: "nieuwe-regeling"
+original_dossier: "28170"
+original_url_id: "stb-2004-30"
+entry_into_force_date: "2004-05-01"
+jci_1_3: "jci1.3:c:BWBR0016185&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0016185&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet gelijke behandeling op grond van leeftijd bij de arbeid"
+signed_date: "2003-12-17"
+entry_into_force: "2004-05-01"
 ---
-
-# Wet gelijke behandeling op grond van leeftijd bij de arbeid
+# Wet van 17 december 2003, houdende gelijke behandeling op grond van leeftijd bij arbeid, beroep en beroepsonderwijs (Wet gelijke behandeling op grond van leeftijd bij de arbeid)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -20,7 +46,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### Het begrip onderscheid
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet wordt verstaan onder:
 
@@ -32,7 +58,7 @@ In deze wet wordt verstaan onder:
 
 #### Intimidatie
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het in deze wet neergelegde verbod van onderscheid houdt mede in een verbod op intimidatie.
 
@@ -42,7 +68,7 @@ In deze wet wordt verstaan onder:
 
 #### Arbeid
 
-#### Artikel 3
+##### Artikel 3
 
 Onderscheid is verboden bij:
 
@@ -64,13 +90,13 @@ Onderscheid is verboden bij:
 
 #### Vrije beroep
 
-#### Artikel 4
+##### Artikel 4
 
 Onderscheid is verboden met betrekking tot de voorwaarden voor en de toegang tot het vrije beroep en de mogelijkheden tot uitoefening van en ontplooiing binnen het vrije beroep.
 
 #### Beroepsonderwijs
 
-#### Artikel 5
+##### Artikel 5
 
 Onderscheid is verboden bij:
 
@@ -80,7 +106,7 @@ Onderscheid is verboden bij:
 
 #### Lidmaatschap organisaties
 
-#### Artikel 6
+##### Artikel 6
 
 Onderscheid is verboden bij het lidmaatschap van of de betrokkenheid bij een werkgevers- of werknemersorganisatie of een vereniging van beroepsgenoten. Dit geldt ook voor de voordelen die voortvloeien uit het lidmaatschap van deze organisaties en verenigingen.
 
@@ -88,7 +114,7 @@ Onderscheid is verboden bij het lidmaatschap van of de betrokkenheid bij een wer
 
 #### Objectieve rechtvaardiging
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het verbod van onderscheid geldt niet indien het onderscheid:
 
@@ -102,7 +128,7 @@ Onderscheid is verboden bij het lidmaatschap van of de betrokkenheid bij een wer
 
 #### Pensioenen
 
-#### Artikel 8
+##### Artikel 8
 
 1. Voor de toepassing van dit artikel wordt verstaan onder pensioenvoorziening: een pensioenvoorziening ten behoeve van een of meer personen, uitsluitend in verband met hun werkzaamheden in een onderneming, bedrijfstak, tak van beroep of openbare dienst, in aanvulling op een wettelijk stelsel van sociale zekerheid en, ingeval van een voorziening ten behoeve van een persoon, anders dan door die persoon zelf tot stand gebracht.
 
@@ -110,7 +136,7 @@ Onderscheid is verboden bij het lidmaatschap van of de betrokkenheid bij een wer
 
 #### § 4. Vermelding leeftijdsgrens
 
-#### Artikel 9
+##### Artikel 9
 
 Indien bij een openlijke aanbieding van een betrekking onderscheid op grond van leeftijd wordt gemaakt, wordt de grond daarvan uitdrukkelijk vermeld.
 
@@ -118,19 +144,19 @@ Indien bij een openlijke aanbieding van een betrekking onderscheid op grond van 
 
 #### Bescherming tegen represailles
 
-#### Artikel 10
+##### Artikel 10
 
 Het is verboden om personen te benadelen wegens het feit dat zij in of buiten rechte een beroep hebben gedaan op deze wet of terzake bijstand hebben verleend.
 
 #### Bescherming tegen ontslag
 
-#### Artikel 11. Bescherming tegen ontslag
+##### Artikel 11. Bescherming tegen ontslag
 
 In geval van een beëindiging van de arbeidsverhouding door de werkgever in strijd met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016185&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01), of wegens de omstandigheid dat de werknemer in of buiten rechte een beroep heeft gedaan op deze wet of ter zake bijstand heeft verleend, is [artikel 681 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=681) of [artikel 1615s van Boek 7a van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1615s) van overeenkomstige toepassing.
 
 #### Bewijslast
 
-#### Artikel 12
+##### Artikel 12
 
 1. Indien degene die meent dat te zijnen nadeel een onderscheid is of wordt gemaakt als bedoeld in deze wet, in rechte feiten aanvoert die dat onderscheid kunnen doen vermoeden, dient de wederpartij te bewijzen dat niet in strijd met deze wet is gehandeld.
 
@@ -138,13 +164,13 @@ In geval van een beëindiging van de arbeidsverhouding door de werkgever in stri
 
 #### Nietigheid
 
-#### Artikel 13
+##### Artikel 13
 
 Bedingen in strijd met deze wet zijn nietig.
 
 #### Het College voor de rechten van de mens
 
-#### Artikel 14. Toepasselijk op de BES
+##### Artikel 14. Toepasselijk op de BES
 
 De [artikelen 1 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0016185&paragraaf=1&artikel=1&z=2026-01-01&g=2026-01-01) van deze wet zijn mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
@@ -152,41 +178,41 @@ De [artikelen 1 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0016185&p
 
 #### Evaluatie
 
-#### Artikel 15
+##### Artikel 15
 
 Onze Minister van Sociale Zaken en Werkgelegenheid zendt in overeenstemming met Onze Ministers van Justitie, van Binnenlandse Zaken en Koninkrijksrelaties en van Onderwijs, Cultuur en Wetenschap binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
 #### Overgangsrecht pensioenontslag
 
-#### Artikel 16
+##### Artikel 16
 
 Het in deze wet neergelegde verbod van onderscheid is tot 2 december 2006 niet van toepassing op onderscheid dat betrekking heeft op het beëindigen van een arbeidsverhouding of het dienstverband van een ambtenaar in verband met het bereiken van een bij arbeidsovereenkomst overeengekomen, een bij een toezegging omtrent pensioen toegezegde, of een bij regeling van een daartoe bevoegd bestuursorgaan vastgestelde pensioengerechtigde leeftijd lager dan de AOW-gerechtigde leeftijd, voorzover die leeftijd voor de datum van inwerkingtreding van deze wet in de arbeidsovereenkomst, de toezegging omtrent pensioen of de regeling van het bestuursorgaan was opgenomen.
 
 #### Overgangsrecht defensie
 
-#### Artikel 17
+##### Artikel 17
 
 Het in deze wet neergelegde verbod van onderscheid is niet van toepassing ten aanzien van militaire ambtenaren als bedoeld in [artikel 1 van de Militaire Ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=1) tot 1 januari 2008, of tot een eerdere datum waarop in de [Militaire ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952) een regeling is getroffen ten aanzien van het gebruik van leeftijdsgrenzen binnen de krijgsmacht betreffende aanstelling, functietoewijzing, aanwijzing voor een opleiding en ontslag.
 
 #### Wijzigingen in andere regelgeving
 
-#### Artikel 18
+##### Artikel 18
 
 Wijzigt de Wet op de Raad van State.
 
-#### Artikel 19
+##### Artikel 19
 
 Wijzigt de Comptabiliteitswet.
 
 #### Tijdstip inwerkingtreding
 
-#### Artikel 20
+##### Artikel 20
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 #### Citeertitel
 
-#### Artikel 21
+##### Artikel 21
 
 Deze wet wordt aangehaald als: Wet gelijke behandeling op grond van leeftijd bij de arbeid.
 

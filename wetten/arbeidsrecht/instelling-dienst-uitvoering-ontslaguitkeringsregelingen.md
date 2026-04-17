@@ -1,22 +1,43 @@
 ---
 title: "Instelling Dienst Uitvoering Ontslaguitkeringsregelingen"
 identifier: "BWBR0007191"
-categorie: "Arbeidsrecht"
-publicatiedatum: 1995-01-21
-laatste_update: 1995-01-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007191"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1995-01-21"
+last_updated: "1995-01-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007191"
+soort: "ministeriele-regeling"
+stam_id: "4295593"
+version_id: "6058382"
+internal_id: "C6261991"
+label_id: "4274214"
+dtd_version: "2.0"
+original_entry_into_force: "1995-01-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007191/1995-01-21/0"
+intitule_bron: "Stcrt.1995-15"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1995-01-20"
+intitule_in_force: "1995-01-20"
+intitule_status: "goed"
+original_publication: "Stcrt.1995-15"
+original_published_date: "1995-01-20"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1995-01-21"
+jci_1_3: "jci1.3:c:BWBR0007191&z=1995-01-21&g=1995-01-21"
+jci_1_0: "1.0:c:BWBR0007191&g=1995-01-21"
+citeertitel_status: "officieel"
+entry_into_force: "1995-01-21"
 ---
-
 # Instelling Dienst Uitvoering Ontslaguitkeringsregelingen
 
 Besluit:
 
-#### I
+##### I
 
 Er is een Dienst Uitvoering Ontslaguitkeringsregelingen (DUO), verder te noemen: de Dienst. De Dienst ressorteert rechtstreeks onder de directeur-generaal Management en Personeelsbeleid.
 
-#### II
+##### II
 
 De Dienst is belast met het beoordelen van het recht op, het toekennen en het (doen) uitbetalen van:
 
@@ -24,11 +45,11 @@ De Dienst is belast met het beoordelen van het recht op, het toekennen en het (d
 
 - b. pensioenen overzeese gebiedsdelen.
 
-#### III
+##### III
 
 De Dienst is bevoegd om facilitair ontslaguitkeringsregelingen uit te voeren voor organisaties die geen deel uitmaken van de rijksoverheid.
 
-#### IV
+##### IV
 
 De Dienst bestaat uit:
 
@@ -84,7 +105,7 @@ De Dienst bestaat uit:
 
 - 15. de afdeling Informatiebeheer
 
-#### V
+##### V
 
 De onder [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0007191&artikel=IV&z=1995-01-21&g=1995-01-21) genoemde organisatie-eenheden zijn belast met de volgende taken:
 
@@ -260,11 +281,11 @@ De onder [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0007191&artikel=IV&z=1995-
 
 - m. het (mede) bepalen van de informatieplanning.
 
-#### VI
+##### VI
 
 De beschikking van 6 september 1993, nummer DUO93/U699, wordt ingetrokken.
 
-#### VII
+##### VII
 
 Deze beschikking treedt in werking met ingang van de dag volgende op die van publikatie in de Staatscourant en werkt terug tot 1 september 1994.
 

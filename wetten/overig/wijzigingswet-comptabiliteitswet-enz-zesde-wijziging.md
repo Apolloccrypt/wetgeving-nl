@@ -1,14 +1,42 @@
 ---
-title: "Wijzigingswet Comptabiliteitswet, enz. (zesde wijziging)"
+title: "Wet van 10 juli 1995, tot wijziging van de Comptabiliteitswet verband houdende met onder andere de introductie van agentschappen, de integratie van de begrotingsartikelen \"personeel\" en \"materieel\" en een nadere aanpassing van de financiële verantwoordingsprocedure (zesde wijziging van de Comptabiliteitswet)"
 identifier: "BWBR0007478"
-categorie: "Overig"
-publicatiedatum: 1995-08-18
-laatste_update: 1995-08-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007478"
+country: "nl"
+rank: "wet"
+publication_date: "1995-08-18"
+last_updated: "1995-08-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007478"
+soort: "wet"
+stam_id: "502953"
+version_id: "741052"
+internal_id: "C741051"
+label_id: "488724"
+dtd_version: "2.0"
+original_entry_into_force: "1995-08-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007478/1995-08-18/0"
+intitule_bron: "Stb.1995-375"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-07-10"
+intitule_published: "1995-08-17"
+intitule_in_force: "1995-08-17"
+intitule_status: "goed"
+original_publication: "Stb.1995-375"
+original_signed_date: "1995-07-10"
+original_published_date: "1995-08-17"
+original_effect: "nieuwe-regeling"
+original_dossier: "23796"
+original_url_id: "stb-1995-375"
+entry_into_force_date: "1995-08-18"
+entry_into_force_dossier: "23796"
+jci_1_3: "jci1.3:c:BWBR0007478&z=1995-08-18&g=1995-08-18"
+jci_1_0: "1.0:c:BWBR0007478&g=1995-08-18"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet Comptabiliteitswet, enz. (zesde wijziging)"
+signed_date: "1995-07-10"
+entry_into_force: "1995-08-18"
 ---
-
-# Wijzigingswet Comptabiliteitswet, enz. (zesde wijziging)
+# Wet van 10 juli 1995, tot wijziging van de Comptabiliteitswet verband houdende met onder andere de introductie van agentschappen, de integratie van de begrotingsartikelen "personeel" en "materieel" en een nadere aanpassing van de financiële verantwoordingsprocedure (zesde wijziging van de Comptabiliteitswet)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,11 +44,11 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is een aantal artikelen
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel II
+##### Artikel II
 
 1. Bevat wijzigingen in andere regelgeving.
 
@@ -56,7 +84,7 @@ Bevat wijzigingen in andere regelgeving.
 
 13. Bevat wijzigingen in andere regelgeving.
 
-#### Artikel III
+##### Artikel III
 
 1. Deze wet treedt in werking met ingang van 1 januari 1995.
 

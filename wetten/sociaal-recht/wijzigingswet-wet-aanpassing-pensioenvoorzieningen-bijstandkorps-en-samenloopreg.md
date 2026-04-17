@@ -1,14 +1,42 @@
 ---
-title: "Wijzigingswet Wet aanpassing pensioenvoorzieningen Bijstandkorps en Samenloopregeling Indonesische pensioenen 1960"
+title: "Wet van 20 maart 1996 tot wijziging van de Wet aanpassing pensioenvoorzieningen Bijstandkorps en de Samenloopregeling Indonesische pensioenen 1960 (reparatie samenloopregelingen pensioenen)"
 identifier: "BWBR0007948"
-categorie: "Sociaal recht"
-publicatiedatum: 1996-04-17
-laatste_update: 1996-04-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007948"
+country: "nl"
+rank: "wet"
+publication_date: "1996-04-17"
+last_updated: "1996-04-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007948"
+soort: "wet"
+stam_id: "36553"
+version_id: "44692"
+internal_id: "C44691"
+label_id: "36434"
+dtd_version: "2.0"
+original_entry_into_force: "1996-04-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007948/1996-04-17/0"
+intitule_bron: "Stb.1996-215"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-03-20"
+intitule_published: "1996-04-16"
+intitule_in_force: "1996-04-16"
+intitule_status: "goed"
+original_publication: "Stb.1996-215"
+original_signed_date: "1996-03-20"
+original_published_date: "1996-04-16"
+original_effect: "nieuwe-regeling"
+original_dossier: "24415"
+original_url_id: "stb-1996-215"
+entry_into_force_date: "1996-04-17"
+entry_into_force_dossier: "24415"
+jci_1_3: "jci1.3:c:BWBR0007948&z=1996-04-17&g=1996-04-17"
+jci_1_0: "1.0:c:BWBR0007948&g=1996-04-17"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet Wet aanpassing pensioenvoorzieningen Bijstandkorps en Samenloopregeling Indonesische pensioenen 1960"
+signed_date: "1996-03-20"
+entry_into_force: "1996-04-17"
 ---
-
-# Wijzigingswet Wet aanpassing pensioenvoorzieningen Bijstandkorps en Samenloopregeling Indonesische pensioenen 1960
+# Wet van 20 maart 1996 tot wijziging van de Wet aanpassing pensioenvoorzieningen Bijstandkorps en de Samenloopregeling Indonesische pensioenen 1960 (reparatie samenloopregelingen pensioenen)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,17 +46,17 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 Artikelen I en II werken deels terug tot en met 1 januari 1985, deels terug tot en met 1 januari 1986 en deels terug tot en met 1 januari 1990.
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de wet aanpassing pensioenvoorzieningen Bijstandkorps .
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Samenloopregeling Indonesische pensioenen 1960 .
 
 #### SLOT- EN OVERGANGSBEPALINGEN
 
-#### Artikel III
+##### Artikel III
 
 1. [Artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0007948&artikel=I&z=1996-04-17&g=1996-04-17), en [artikel II, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0007948&artikel=II&z=1996-04-17&g=1996-04-17), zijn niet van toepassing op diegenen die op grond van de overgangsbepalingen van de Wet van 6 november 1986, houdende wijziging van de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) (**Stb**. 563), het recht behouden op het algemeen ouderdomspensioen voor een ongehuwde.
 

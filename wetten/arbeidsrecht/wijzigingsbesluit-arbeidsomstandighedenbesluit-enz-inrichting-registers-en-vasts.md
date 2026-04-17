@@ -1,13 +1,39 @@
 ---
-title: "Wijzigingsbesluit Arbeidsomstandighedenbesluit, enz. (inrichting registers en vaststellen van eisen aan de professionele uitoefening voor diverse beroepen)"
+title: "Besluit van 28 november 2019 tot wijziging van het Arbeidsomstandighedenbesluit in verband met de inrichting van registers en in samenhang daarmee het vaststellen van eisen aan de professionele uitoefening voor diverse beroepen"
 identifier: "BWBR0042940"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2025-02-01
-laatste_update: 2025-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042940"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-02-01"
+last_updated: "2025-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042940"
+soort: "AMvB"
+stam_id: "15285953"
+version_id: "26337602"
+internal_id: "C37434001"
+label_id: "15231764"
+dtd_version: "2.0"
+original_entry_into_force: "2020-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042940/2025-02-01/0"
+intitule_bron: "Stb.2019-471"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-11-28"
+intitule_published: "2019-12-13"
+intitule_in_force: "2019-12-13"
+intitule_status: "goed"
+original_publication: "Stb.2019-471"
+original_signed_date: "2019-11-28"
+original_published_date: "2019-12-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2019-471"
+entry_into_force_date: "2020-01-01"
+jci_1_3: "jci1.3:c:BWBR0042940&z=2025-02-01&g=2025-02-01"
+jci_1_0: "1.0:c:BWBR0042940&g=2025-02-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsbesluit Arbeidsomstandighedenbesluit, enz. (inrichting registers en vaststellen van eisen aan de professionele uitoefening voor diverse beroepen)"
+signed_date: "2019-11-28"
+entry_into_force: "2020-01-01"
 ---
-
 # Besluit van 28 november 2019 tot wijziging van het Arbeidsomstandighedenbesluit in verband met de inrichting van registers en in samenhang daarmee het vaststellen van eisen aan de professionele uitoefening voor diverse beroepen
 
 Op de voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 4 juli 2019, nr. 2019-0000098819;
@@ -20,21 +46,21 @@ Gezien het nader rapport van de Staatssecretaris van Sociale Zaken en Werkgelege
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Arbeidsomstandighedenbesluit.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Vuurwerkbesluit.
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel III. Overgangsbepaling
+##### Artikel III. Overgangsbepaling
 
 Vervallen
 
-#### Artikel IV
+##### Artikel IV
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen, onderdelen of subonderdelen daarvan verschillend kan worden vastgesteld.
 

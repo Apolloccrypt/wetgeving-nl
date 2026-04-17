@@ -1,14 +1,41 @@
 ---
-title: "Wet hergebruik van overheidsinformatie"
+title: "Wet van 24 juni 2015, houdende regels over het hergebruik van overheidsinformatie (Wet hergebruik van overheidsinformatie)"
 identifier: "BWBR0036795"
-categorie: "Overig"
-publicatiedatum: 2025-11-21
-laatste_update: 2025-11-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036795"
+country: "nl"
+rank: "wet"
+publication_date: "2025-11-21"
+last_updated: "2025-11-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036795"
+soort: "wet"
+stam_id: "13209843"
+version_id: "22547722"
+internal_id: "C32376661"
+label_id: "13178284"
+dtd_version: "2.0"
+original_entry_into_force: "2015-07-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036795/2025-11-21/0"
+intitule_bron: "Stb.2015-271"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-06-24"
+intitule_published: "2015-07-07"
+intitule_in_force: "2015-07-17"
+intitule_status: "goed"
+original_publication: "Stb.2015-271"
+original_signed_date: "2015-06-24"
+original_published_date: "2015-07-07"
+original_effect: "nieuwe-regeling"
+original_dossier: "34123"
+original_url_id: "stb-2015-271"
+entry_into_force_date: "2015-07-18"
+jci_1_3: "jci1.3:c:BWBR0036795&z=2025-11-21&g=2025-11-21"
+jci_1_0: "1.0:c:BWBR0036795&g=2025-11-21"
+citeertitel_status: "officieel"
+short_title: "Wet hergebruik van overheidsinformatie"
+signed_date: "2015-06-24"
+entry_into_force: "2015-07-18"
 ---
-
-# Wet hergebruik van overheidsinformatie
+# Wet van 24 juni 2015, houdende regels over het hergebruik van overheidsinformatie (Wet hergebruik van overheidsinformatie)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -124,7 +151,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 3. Met specifieke hoogwaardige gegevenssets als bedoeld in het eerste lid worden, voor zover deze niet reeds op grond van artikel 14, eerste lid, van de richtlijn als zodanig zijn aangewezen, voor de toepassing van het bepaalde bij of krachtens deze wet gelijkgesteld documenten of informatie, die bij of krachtens algemene maatregel van bestuur als zodanig zijn aangewezen.
 
-#### Artikel 2. Toepassingsbereik
+##### Artikel 2. Toepassingsbereik
 
 1. Met uitzondering van [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0036795&hoofdstuk=I&artikel=2a&z=2025-11-21&g=2025-11-21), is deze wet niet van toepassing op:
 
@@ -166,7 +193,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk II. Verzoeken om hergebruik
 
-#### Artikel 3. Indienen en afwijzen van verzoeken
+##### Artikel 3. Indienen en afwijzen van verzoeken
 
 1. Een ieder kan een verzoek om hergebruik richten tot een met een publieke taak belaste instelling of een onder verantwoordelijkheid van een met een publieke taak belaste instelling werkzame instelling, dienst of bedrijf.
 
@@ -184,7 +211,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 8. Indien een museum of bibliotheek een verzoek om hergebruik afwijst omdat het verzoek informatie betreft als bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036795&hoofdstuk=I&artikel=2&z=2025-11-21&g=2025-11-21), hoeft de identiteit van de rechthebbende of de licentiegever van de gevraagde informatie niet te worden medegedeeld.
 
-#### Artikel 4. Behandeling van verzoeken
+##### Artikel 4. Behandeling van verzoeken
 
 1. Indien het verzoek betrekking heeft op gegevens in documenten die berusten bij een andere met een publieke taak belaste instelling dan die waarbij het verzoek is ingediend, wordt de verzoeker zo nodig naar die instelling verwezen. Is het verzoek schriftelijk gedaan, dan wordt het doorgezonden onder mededeling van de doorzending aan de verzoeker.
 
@@ -204,7 +231,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk III. Ter beschikking stellen van informatie voor hergebruik
 
-#### Artikel 5. Algemene wijze van beschikbaarstelling
+##### Artikel 5. Algemene wijze van beschikbaarstelling
 
 1. Indien documenten actief of op verzoek voor hergebruik beschikbaar worden gesteld door een met een publieke taak belaste instelling, overheidsonderneming of, voor zover [artikel 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0036795&hoofdstuk=III&paragraaf=3.1&artikel=5b&z=2025-11-21&g=2025-11-21) van toepassing is, publiek gefinancierde onderzoeksorganisatie, worden zij beschikbaar gesteld:
 
@@ -230,7 +257,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 6. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot het in rekening brengen van de kosten voor het toegankelijk maken van documenten op de wijze als bedoeld in het vorige lid.
 
-#### Artikel 6. Voorwaarden
+##### Artikel 6. Voorwaarden
 
 1. Hergebruik wordt niet aan voorwaarden onderworpen, tenzij die voorwaarden objectief, evenredig en niet-discriminerend zijn, en gerechtvaardigd worden door een doel van algemeen belang. Onder een doel van algemeen belang wordt in ieder geval begrepen de bescherming van de goede uitvoering en continuïteit van een publieke taak.
 
@@ -274,7 +301,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 7. Voorwaarden worden vooraf vastgesteld en bekendgemaakt, en voor zover mogelijk gesteld in de vorm van een versievrije standaardlicentie, waarmee wordt bedoeld een reeks vooraf bepaalde voorwaarden voor hergebruik, in een digitaal formaat dat elektronisch kan worden verwerkt en dat verenigbaar is met gestandaardiseerde openbare licenties die op het internet vrij beschikbaar zijn.
 
-#### Artikel 7. Exclusieve rechten
+##### Artikel 7. Exclusieve rechten
 
 1. Een exclusief recht tot hergebruik wordt niet verleend, tenzij dat noodzakelijk is voor het verlenen van een dienst van algemeen belang.
 
@@ -288,13 +315,13 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 6. Het tweede en vijfde lid zijn van overeenkomstige toepassing op de verlening van rechten die niet expliciet als exclusief recht bedoeld zijn, maar wel als doel of effect hebben dat de beschikbaarheid van documenten voor hergebruik beperkt wordt voor andere partijen dan de partij op wie de verlening van rechten betrekking heeft.
 
-#### Artikel 8. Uitfasering exclusieve rechten
+##### Artikel 8. Uitfasering exclusieve rechten
 
 1. Door met een publieke taak belaste instelling of publiek gefinancierde onderzoeksorganisatie verleende exclusieve rechten tot hergebruik, die vóór 17 juli 2013 en niet voor een dienst van algemeen belang of voor de digitalisering van verzamelingen van overheidsinformatie van musea of bibliotheken zijn verleend, worden na afloop van het desbetreffende contract niet opnieuw verleend en vervallen met ingang van 18 juli 2033 van rechtswege.
 
 2. Door overheidsondernemingen verleende exclusieve rechten tot hergebruik, die vóór 16 juli 2019 en niet voor een dienst van algemeen belang of voor de digitalisering van verzamelingen van overheidsinformatie van musea of bibliotheken zijn verleend, na afloop van het desbetreffende contract niet opnieuw verleend en vervallen met ingang van 17 juli 2039 van rechtswege.
 
-#### Artikel 9. Hoofdregel tarifering
+##### Artikel 9. Hoofdregel tarifering
 
 1. De beschikbaarstelling van documenten voor hergebruik, vindt zoveel mogelijk kosteloos plaats. Een eventuele terugvordering die in rekening wordt gebracht, bedraagt ten hoogste de marginale kosten in verband met de vermenigvuldiging, verstrekking en verspreiding van de informatie alsmede in verband met de anonimisering van persoonsgegevens en maatregelen ter bescherming van de commerciële vertrouwelijkheid.
 
@@ -302,61 +329,61 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk IV. Wijziging van enige wetten
 
-#### Artikel 10. Wijziging [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252)
+##### Artikel 10. Wijziging [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252)
 
 Wijzigt de Wet openbaarheid van bestuur.
 
-#### Artikel 11. Wijziging [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376)
+##### Artikel 11. Wijziging [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376)
 
 Wijzigt de Archiefwet 1995.
 
-#### Artikel 12. Wijziging [Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541)
+##### Artikel 12. Wijziging [Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541)
 
 Wijzigt de Kadasterwet.
 
-#### Artikel 13. Wijziging [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622)
+##### Artikel 13. Wijziging [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622)
 
 Wijzigt de Wegenverkeerswet 1994.
 
-#### Artikel 14. Wijziging [Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777)
+##### Artikel 14. Wijziging [Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777)
 
 Wijzigt de Handelsregisterwet 2007.
 
-#### Artikel 14a. Wijziging [Wet op het Koninklijk Nederlands Meteorologisch Instituut](https://wetten.overheid.nl/jci1.3:c:BWBR0012952)
+##### Artikel 14a. Wijziging [Wet op het Koninklijk Nederlands Meteorologisch Instituut](https://wetten.overheid.nl/jci1.3:c:BWBR0012952)
 
 Wijzigt de Wet op het Koninklijk Nederlands Meteorologisch Instituut.
 
 ### Hoofdstuk IV-A. Samenloopbepalingen
 
-#### Artikel 14b. Samenloop [Reparatiewet Infrastructuur en milieu 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0036117)
+##### Artikel 14b. Samenloop [Reparatiewet Infrastructuur en milieu 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0036117)
 
 Wijzigt deze wet.
 
-#### Artikel 14c. Wijziging Wet taken meteorologie en seismologie
+##### Artikel 14c. Wijziging Wet taken meteorologie en seismologie
 
 Wijzigt de Wet taken meteorologie en seismologie.
 
-#### Artikel 14d. Samenloop Wijziging van de Wet openbaarheid van bestuur in verband met aanvullingen ter voorkoming van misbruik
+##### Artikel 14d. Samenloop Wijziging van de Wet openbaarheid van bestuur in verband met aanvullingen ter voorkoming van misbruik
 
 Wijzigt deze wet.
 
 ### Hoofdstuk V. Slotbepalingen
 
-#### Artikel 15. Inwerkingtreding
+##### Artikel 15. Inwerkingtreding
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 16. Citeertitel
+##### Artikel 16. Citeertitel
 
 Deze wet wordt aangehaald als: Wet hergebruik van overheidsinformatie.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges, en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 4a. Uitzondering dwangsom bij niet tijdig beslissen
+##### Artikel 4a. Uitzondering dwangsom bij niet tijdig beslissen
 
 [Paragraaf 4.1.3.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.2) is niet van toepassing op besluiten op grond van deze wet en op beslissingen op bezwaar tegen deze besluiten.
 
-#### Artikel 4b. Bijzondere regeling bestuursrechter
+##### Artikel 4b. Bijzondere regeling bestuursrechter
 
 1. In geval van een gegrond beroep tegen het niet tijdig nemen van een besluit op grond van deze wet of een beslissing op bezwaar tegen een dergelijk besluit waarbij nog geen besluit is bekendgemaakt, bepaalt de bestuursrechter, indien de omvang van het verzoek hiertoe aanleiding geeft, in afwijking van [artikel 8:55d, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:55d) de termijn waarbinnen het bestuursorgaan alsnog een besluit bekendmaakt.
 
@@ -380,7 +407,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges, en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 2a. Algemene voorschriften voor met een publieke taak belaste instellingen en overheidsondernemingen
+##### Artikel 2a. Algemene voorschriften voor met een publieke taak belaste instellingen en overheidsondernemingen
 
 1. Een met een publieke taak belaste instelling of overheidsonderneming, niet zijnde een instelling als bedoeld in [artikel 2, eerste lid, onderdelen d, e of f](https://wetten.overheid.nl/jci1.3:c:BWBR0036795&hoofdstuk=I&artikel=2&z=2025-11-21&g=2025-11-21), draagt er zorg voor dat diens documenten worden ontworpen en vervaardigd op een manier die openheid en hergebruik van die documenten faciliteert en gemakkelijk maakt.
 
@@ -404,7 +431,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 #### § 3.1. Beschikbaar stellen van verschillende gegevenscategorieën
 
-#### Artikel 5a. Beschikbaarstelling specifieke hoogwaardige gegevenssets
+##### Artikel 5a. Beschikbaarstelling specifieke hoogwaardige gegevenssets
 
 Specifieke hoogwaardige gegevenssets worden door een met een publieke taak belaste instelling of overheidsonderneming actief beschikbaar gesteld voor hergebruik. In aanvulling op de vereisten van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036795&hoofdstuk=III&paragraaf=3.1&artikel=5&z=2025-11-21&g=2025-11-21), worden zij beschikbaar gesteld:
 
@@ -414,7 +441,7 @@ Specifieke hoogwaardige gegevenssets worden door een met een publieke taak belas
 
 - c. op een wijze die voldoet aan de eisen die in de toepasselijke HVD-uitvoeringsverordening aan die specifieke hoogwaardige gegevensset worden gesteld.
 
-#### Artikel 5b. Beschikbaarstelling onderzoeksgegevens
+##### Artikel 5b. Beschikbaarstelling onderzoeksgegevens
 
 Onderzoeksgegevens worden door een publiek gefinancierde onderzoeksorganisatie in overeenstemming met de FAIR-beginselen actief beschikbaar gesteld voor hergebruik, voor zover:
 
@@ -424,7 +451,7 @@ Onderzoeksgegevens worden door een publiek gefinancierde onderzoeksorganisatie i
 
 - c. rechtmatige handelsbelangen, activiteiten inzake kennisoverdracht en reeds bestaande intellectuele eigendomsrechten zich hiertegen niet verzetten.
 
-#### Artikel 5c. Beschikbaarstelling dynamische gegevens
+##### Artikel 5c. Beschikbaarstelling dynamische gegevens
 
 1. In aanvulling op de vereisten van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036795&hoofdstuk=III&paragraaf=3.1&artikel=5&z=2025-11-21&g=2025-11-21), worden dynamische gegevens die door een met een publieke taak belaste instelling of overheidsonderneming beschikbaar worden gesteld voor hergebruik, doorlopend aangeboden:
 
@@ -440,7 +467,7 @@ Onderzoeksgegevens worden door een publiek gefinancierde onderzoeksorganisatie i
 
 - b. met technische beperkingen die daarvoor noodzakelijk zijn, mits deze beperkingen de exploitatie van het economisch en sociaal potentieel van deze documenten niet onnodig belemmeren.
 
-#### Artikel 5d. Actieve beschikbaarstelling van overige documenten
+##### Artikel 5d. Actieve beschikbaarstelling van overige documenten
 
 1. Voor zover dit zonder onevenredige inspanning of kosten redelijkerwijs mogelijk is, stellen met een publieke taak belaste instellingen ook documenten die niet onder de werking van de [artikelen 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0036795&hoofdstuk=III&paragraaf=3.1&artikel=5a&z=2025-11-21&g=2025-11-21) of [5b](https://wetten.overheid.nl/jci1.3:c:BWBR0036795&hoofdstuk=III&paragraaf=3.1&artikel=5b&z=2025-11-21&g=2025-11-21) vallen actief beschikbaar voor hergebruik, tenzij daarmee geen redelijk belang wordt gediend.
 
@@ -450,7 +477,7 @@ Onderzoeksgegevens worden door een publiek gefinancierde onderzoeksorganisatie i
 
 #### § 3.3. Tarifering
 
-#### Artikel 9a. Tarifering door bepaalde organisaties
+##### Artikel 9a. Tarifering door bepaalde organisaties
 
 1. In afwijking van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0036795&hoofdstuk=III&paragraaf=3.3&artikel=9&z=2025-11-21&g=2025-11-21) mogen bibliotheken of musea voor het voor hergebruik beschikbaar stellen van documenten kosten in rekening brengen als bedoeld in [artikel 9d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036795&hoofdstuk=III&paragraaf=3.3&artikel=9d&z=2025-11-21&g=2025-11-21).
 
@@ -458,7 +485,7 @@ Onderzoeksgegevens worden door een publiek gefinancierde onderzoeksorganisatie i
 
 3. In afwijking van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0036795&hoofdstuk=III&paragraaf=3.3&artikel=9&z=2025-11-21&g=2025-11-21) mogen met een publieke taak belaste instellingen voor wie dat bij wet is bepaald, voor het voor hergebruik beschikbaar stellen van documenten kosten in rekening brengen als bedoeld in [artikel 9d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036795&hoofdstuk=III&paragraaf=3.3&artikel=9d&z=2025-11-21&g=2025-11-21), met inachtneming van [artikel 9b, eerste en tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036795&hoofdstuk=III&paragraaf=3.3&artikel=9b&z=2025-11-21&g=2025-11-21).
 
-#### Artikel 9b. Tarifering specifieke hoogwaardige gegevenssets
+##### Artikel 9b. Tarifering specifieke hoogwaardige gegevenssets
 
 1. De beschikbaarstelling van specifieke hoogwaardige gegevenssets voor hergebruik vindt kosteloos plaats.
 
@@ -470,11 +497,11 @@ Onderzoeksgegevens worden door een publiek gefinancierde onderzoeksorganisatie i
 
 - c. met een publieke taak belaste instellingen als bedoeld in [artikel 9a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036795&hoofdstuk=III&paragraaf=3.3&artikel=9a&z=2025-11-21&g=2025-11-21), voor zover zij bij ministeriële regeling tijdelijk zijn vrijgesteld van deze verplichting. Deze vrijstelling kan ten hoogste twee jaar duren, gerekend vanaf het moment van inwerkingtreding van de uitvoeringsverordening waarmee op grond van artikel 14, eerste lid, van de richtlijn de betreffende documenten als specifieke hoogwaardige gegevenssets zijn aangewezen.
 
-#### Artikel 9c. Tarifering onderzoeksgegevens
+##### Artikel 9c. Tarifering onderzoeksgegevens
 
 De beschikbaarstelling van onderzoeksgegevens door publiek gefinancierde onderzoeksorganisaties vindt kosteloos plaats.
 
-#### Artikel 9d. Kostenberekening
+##### Artikel 9d. Kostenberekening
 
 1. Indien een bibliotheek of museum kosten in rekening brengt voor het voor hergebruik beschikbaar stellen van documenten, mogen de totale inkomsten hieruit niet hoger zijn dan de gemaakte kosten voor de verzameling, productie, vermenigvuldiging en verspreiding, opslag, conservering en vereffening van rechten, en, indien van toepassing, de anonimisering van persoonsgegevens en maatregelen ter bescherming van commercieel vertrouwelijke informatie in rekening, vermeerderd met een redelijk rendement op investeringen.
 

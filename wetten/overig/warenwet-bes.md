@@ -1,18 +1,43 @@
 ---
 title: "Warenwet BES"
 identifier: "BWBR0028619"
-categorie: "Overig"
-publicatiedatum: 2023-01-01
-laatste_update: 2023-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028619"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2023-01-01"
+last_updated: "2023-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028619"
+soort: "wet-BES"
+stam_id: "10901853"
+version_id: "17884942"
+internal_id: "C24815941"
+label_id: "10876774"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028619/2023-01-01/0"
+intitule_bron: "Stb.2010-640"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-10-04"
+intitule_published: "2010-10-07"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-640"
+original_signed_date: "2010-10-04"
+original_published_date: "2010-10-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-640"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028619&z=2023-01-01&g=2023-01-01"
+jci_1_0: "1.0:c:BWBR0028619&g=2023-01-01"
+citeertitel_status: "officieel"
+signed_date: "2010-10-04"
+entry_into_force: "2010-10-10"
 ---
-
 # Warenwet BES
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -36,7 +61,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2. Algemene bepalingen
 
-#### Artikel 2
+##### Artikel 2
 
 1. Deze wet is niet van toepassing op het vervaardigen van waren in de sfeer van die particuliere huishouding waarbinnen zij worden genuttigd of gebruikt.
 
@@ -48,7 +73,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 5. Binnen zes maanden na het in werking treden van een algemene maatregel van bestuur bedoeld in het vierde lid, wordt een voorstel aan de Staten-Generaal gedaan om het in dat algemene maatregel van bestuur bepaalde, bij wet te bekrachtigen. Indien een algemene maatregel van bestuur, bedoeld in het vierde lid, niet wordt bekrachtigd ingevolge het vijfde lid, wordt dit algemene maatregel van bestuur onverwijld ingetrokken.
 
-#### Artikel 3
+##### Artikel 3
 
 1. In het belang van de volksgezondheid kunnen, na overleg tussen Onze Minister en Onze Minister van Economische Zaken, bij algemene maatregel van bestuur de Adviescommissie gehoord, ten aanzien van waren regels worden gegeven met betrekking tot:
 
@@ -106,13 +131,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 7. Bij ministeriële regeling kunnen ter uitvoering van een algemene maatregel van bestuur als in dit artikel bedoeld nadere voorschriften van technische of anderszins praktische aard worden gegeven en kunnen instanties worden aangewezen die de onderzoeken, bedoeld in het vijfde lid, zullen verrichten.
 
-#### Artikel 4
+##### Artikel 4
 
 1. In een spoedeisend geval kunnen de regels, bedoeld in [artikel 3, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=2&artikel=3&z=2023-01-01&g=2023-01-01), worden gegeven bij deze regeling. Bij deze regeling kunnen bepalingen van de op artikel 3, eerste lid tot derde lid berustende algemene maatregelen van bestuur, zo nodig buiten werking worden gesteld.
 
 2. De ministeriële regeling, bedoeld in het eerste lid, vervalt na verloop van een termijn van zes maanden nadat zij in werking is getreden, of, indien binnen die termijn een algemene maatregel van bestuur ter vervanging van die ministeriële regeling in werking is getreden, op het tijdstip waarop die algemene maatregel van bestuur in werking treedt.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De regels, krachtens [artikel 3, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=2&artikel=3&z=2023-01-01&g=2023-01-01), kunnen voorschriften inhouden ten aanzien van daarbij omschreven waren of categorieën van waren of een verbod om daarbij omschreven waren of categorieën van waren te vervaardigen dan wel te verhandelen. Aan Onze Minister kan bij de desbetreffende algemene maatregel van bestuur, de bevoegdheid worden toegekend vrijstelling dan wel ontheffing van de gegeven voorschriften of verboden te verlenen of namens hem te doen verlenen.
 
@@ -138,7 +163,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 9. Een beslissing houdende weigering van een vrijstelling of ontheffing, dan wel houdende intrekking van een vrijstelling of ontheffing wordt aan de aanvrager schriftelijk medegedeeld onder opgave van redenen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Bij ministeriële regeling kunnen vergoedingen worden vastgesteld, verschuldigd door degenen ten behoeve van wie werkzaamheden of diensten door of namens het Land zijn verricht of verleend.
 
@@ -146,7 +171,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 3. Adviescommissie
 
-#### Artikel 7
+##### Artikel 7
 
 1. Er is een Adviescommissie inzake waren.
 
@@ -166,11 +191,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 3. Adviescommissie
 
-#### Artikel 8
+##### Artikel 8
 
 Het is verboden eet- of drinkwaren te bereiden dan wel te verhandelen die door hun ondeugdelijkheid de gezondheid of veiligheid van de mens in gevaar kunnen brengen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Onverminderd het bepaalde in de Vergunningwet BES is het verboden eet- of drinkwaren te bereiden zonder daartoe strekkende vergunning door of namens Onze Minister.
 
@@ -190,37 +215,37 @@ Het is verboden eet- of drinkwaren te bereiden dan wel te verhandelen die door h
 
 3. Ten aanzien van de vergunning, bedoeld in het eerste lid, is het bepaalde in [artikel 5, tweede, zesde tot en met negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=2&artikel=5&z=2023-01-01&g=2023-01-01), van toepassing.
 
-#### Artikel 10
+##### Artikel 10
 
 Het is verboden waren, niet zijnde eet- of drinkwaren, te verhandelen die bij het gezien hun bestemming te verwachten gebruik bijzondere gevaren kunnen opleveren voor de gezondheid of veiligheid van de mens.
 
-#### Artikel 11
+##### Artikel 11
 
 Het is verboden in de uitoefening van een beroep of bedrijf waren aan te prijzen op zodanige wijze, dat dit in strijd is met voorschriften inzake de etikettering en het verhandelen, gesteld bij of krachtens deze wet.
 
-#### Artikel 12
+##### Artikel 12
 
 Het is verboden waren te verhandelen waarvan de samenstelling, uitvoering, hoedanigheid, eigenschappen of toestand in ernstige mate minder is dan wat in redelijkheid mag worden verlangd.
 
-#### Artikel 13
+##### Artikel 13
 
 Het is verboden waren te verhandelen die ongeschikt zijn voor gebruik.
 
-#### Artikel 14
+##### Artikel 14
 
 Het is verboden waren te bereiden dan wel te verhandelen, anders dan met inachtneming van de regels gegeven bij of krachtens deze wet met betrekking tot de samenstelling en de wijze van bereiding onderscheidenlijk de verpakking en de etikettering.
 
-#### Artikel 15
+##### Artikel 15
 
 Het is verboden een etikettering op of bij waren aan te brengen of bij aanprijzing te bezigen, die, doordat zij onjuist, onvolledig is of een onjuiste indruk wekt, misleidend is.
 
-#### Artikel 16
+##### Artikel 16
 
 Het is verboden waren te verhandelen die door hun ondeugdelijkheid de gezondheid of veiligheid van de mens in gevaar kunnen brengen.
 
 #### § 5. Bestuursmaatregelen
 
-#### Artikel 17
+##### Artikel 17
 
 1. Indien een waar welke naar haar aard bestemd of geschikt is om in de sfeer van een particuliere huishouding te worden gebruikt, gevaar oplevert voor de gezondheid of veiligheid van de mens, kan Onze Minister degene die de desbetreffende waar verhandelt of heeft verhandeld, schriftelijk gelasten om de bezitters dan wel de vermoedelijke bezitters van die waar onverwijld en op doeltreffende wijze op de hoogte te stellen van het gevaar.
 
@@ -232,13 +257,13 @@ Het is verboden waren te verhandelen die door hun ondeugdelijkheid de gezondheid
 
 #### § 5. Bestuursmaatregelen
 
-#### Artikel 18
+##### Artikel 18
 
 Degene die rechtstreeks in zijn belang is getroffen door een op grond van deze wet genomen ministeriële regeling kan hiertegen beroep instellen bij het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba.
 
 #### § 6. Beroep
 
-#### Artikel 19
+##### Artikel 19
 
 1. Het toezicht op de naleving van het bepaalde bij of krachtens deze wet met betrekking tot eet- en drinkwaren berust bij daartoe door het bestuurscollege aangewezen personen.
 
@@ -252,17 +277,17 @@ Degene die rechtstreeks in zijn belang is getroffen door een op grond van deze w
 
 6. De bestuurscolleges dienen jaarlijks bij Onze Minister een verslag in van de werkzaamheden verband houdende met het toezicht, bedoeld in het eerste lid, en voor zover van toepassing bedoeld in het vierde lid.
 
-#### Artikel 19a
+##### Artikel 19a
 
 Met het oog op de afzet van in de openbare lichamen Bonaire, Sint Eustatius en Saba gefabriceerde eet- en drinkwaren uit het buitenland wordt het Staatstoezicht op de Volksgezondheid, bedoeld in [hoofdstuk IV, paragraaf 2, van de Gezondheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&paragraaf=2) aangewezen als landelijk bevoegde instantie.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Bij de uitvoering van hun taak dragen de krachtens [artikel 19, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=7&artikel=19&z=2023-01-01&g=2023-01-01), aangewezen personen een legitimatiebewijs bij zich, die door het desbetreffende bestuurscollege wordt verstrekt. Zij tonen hun legitimatiebewijs desgevraagd aanstonds.
 
 2. Het legitimatiebewijs bevat een foto van de krachtens [artikel 19, eerste of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=7&artikel=19&z=2023-01-01&g=2023-01-01), aangewezen persoon en vermeldt in ieder geval diens naam en hoedanigheid.
 
-#### Artikel 21
+##### Artikel 21
 
 1. De krachtens [artikel 19, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=7&artikel=19&z=2023-01-01&g=2023-01-01), aangewezen personen zijn, uitsluitend voor zover dat voor de vervulling van hun taak redelijkerwijs noodzakelijk is, bevoegd:
 
@@ -282,7 +307,7 @@ Met het oog op de afzet van in de openbare lichamen Bonaire, Sint Eustatius en S
 
 4. Een ieder is verplicht aan de in het eerste lid bedoelde ambtenaren of personen alle medewerking te verlenen die op grond van het tweede lid wordt gevorderd.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De krachtens [artikel 19, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=7&artikel=19&z=2023-01-01&g=2023-01-01), aangewezen personen kunnen, in afwachting van de onverwijld door hen in te roepen beslissing van het Staatstoezicht op de Volksgezondheid, bedoeld in [hoofdstuk IV, paragraaf 2, van de Gezondheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&paragraaf=2), de vervaardiging of de verhandeling van waren, die niet voldoen aan het bij of krachtens deze wet bepaalde, verbieden.
 
@@ -290,7 +315,7 @@ Met het oog op de afzet van in de openbare lichamen Bonaire, Sint Eustatius en S
 
 3. Een beslissing als bedoeld in het tweede lid, wordt schriftelijk aan de belanghebbende meegedeeld.
 
-#### Artikel 23
+##### Artikel 23
 
 1. De krachtens [artikel 19, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=7&artikel=19&z=2023-01-01&g=2023-01-01), aangewezen personen zijn bevoegd tot voorlopige inbeslagneming van:
 
@@ -302,7 +327,7 @@ Met het oog op de afzet van in de openbare lichamen Bonaire, Sint Eustatius en S
 
 #### § 8. Strafbepalingen en maatregelen
 
-#### Artikel 24
+##### Artikel 24
 
 1. Handelen in strijd met de voorschriften, gesteld bij of krachtens deze wet in de [artikelen 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=2&artikel=2&z=2023-01-01&g=2023-01-01), [3, eerste, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=2&artikel=3&z=2023-01-01&g=2023-01-01), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=2&artikel=4&z=2023-01-01&g=2023-01-01), [5, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=2&artikel=5&z=2023-01-01&g=2023-01-01), of, overtreding van de in [artikelen 8 tot en met 16a](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=4&artikel=8&z=2023-01-01&g=2023-01-01) gestelde verboden, is, voor zover opzettelijk begaan, een misdrijf, en wordt gestraft met hetzij gevangenisstraf van ten hoogste vier jaren, hetzij met een geldboete van ten hoogste de zesde categorie, hetzij met beide straffen.
 
@@ -312,31 +337,31 @@ Met het oog op de afzet van in de openbare lichamen Bonaire, Sint Eustatius en S
 
 #### § 8. Strafbepalingen en maatregelen
 
-#### Artikel 25
+##### Artikel 25
 
 Een ieder die betrokken is bij de uitvoering van deze wet en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding daarvan, behoudens voor zover enig wettelijk voorschrift hem tot bekendmaking verplicht of uit zijn taak bij de uitvoering van deze wet de noodzaak tot bekendmaking voortvloeit.
 
 #### § 10. Overgangs- en slotbepalingen
 
-#### Artikel 26
+##### Artikel 26
 
 [vervallen]
 
-#### Artikel 27
+##### Artikel 27
 
 Uitvoeringsbesluiten, vrijstellingen, ontheffingen, vergunningen en toestemmingen die zijn gegeven, verleend of aangevraagd op grond van de Verordening van de 7de augustus 1917 houdende bepalingen tot het tegengaan van de verkoop van voor de volksgezondheid nadelige eet- en drinkwaren, alsmede ter bevordering van een deugdelijke samenstelling van eet- en drinkwaren gelden met ingang van de dag van inwerkingtreding van deze wet als gegeven, verleend of aangevraagd op grond van deze wet.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Deze wet treedt met uitzondering van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=4&artikel=10&z=2023-01-01&g=2023-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=4&artikel=11&z=2023-01-01&g=2023-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=4&artikel=12&z=2023-01-01&g=2023-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=4&artikel=13&z=2023-01-01&g=2023-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=4&artikel=14&z=2023-01-01&g=2023-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=4&artikel=15&z=2023-01-01&g=2023-01-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=4&artikel=16&z=2023-01-01&g=2023-01-01), voor zover deze artikelen van toepassing zijn op waren, niet zijnde eet- en drinkwaren, in werking met ingang van de dag na die der uitgifte van het Staatsblad, waarin de afkondiging is geschied.
 
 2. De artikelen, genoemd in het eerste lid, voor zover deze van toepassing zijn op waren, niet zijnde eet- en drinkwaren, treden in werking op een bij algemene maatregel van bestuur te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden gesteld. Daarbij kan voor elk van de openbare lichamen Bonaire, Sint Eustatius of Saba het tijdstip van inwerkingtreding verschillend worden gesteld.
 
-#### Artikel 29
+##### Artikel 29
 
 Deze wet wordt aangehaald als: Warenwet BES.
 
-#### Artikel 5a
+##### Artikel 5a
 
 Bij ministeriele regeling kunnen:
 
@@ -352,13 +377,13 @@ Bij ministeriele regeling kunnen:
 
 #### § 4. Verbodsbepalingen
 
-#### Artikel 16a
+##### Artikel 16a
 
 Het is verboden waren per maat of gewicht te verkopen, te koop aan te bieden of op welke wijze ook in de handel te brengen, anders dan bij netto-inhoud of netto-gewicht.
 
 #### § 7. Toezicht
 
-#### Artikel 24a
+##### Artikel 24a
 
 1. Met hechtenis van ten hoogste een week of een geldboete van ten hoogste USD 500 wordt gestraft hij, die ten behoeve van handel of bedrijf, maat of gewicht der goederen heeft vastgesteld of op zijn last heeft doen vaststellen, indien de netto-hoeveelheid meer dan het dubbele van de afwijking, die voor het gebruikte meetinstrument bij herijk is toegestaan, in zijn voordeel of het voordeel van de lastgever afwijkt van de ware netto-hoeveelheid.
 
@@ -368,7 +393,7 @@ Het is verboden waren per maat of gewicht te verkopen, te koop aan te bieden of 
 
 #### § 10. Overgangs- en slotbepalingen
 
-#### Artikel 2a
+##### Artikel 2a
 
 Deze wet is niet van toepassing voor zover bij of krachtens de [Wet elektriciteit en drinkwater BES](https://wetten.overheid.nl/jci1.3:c:BWBR0037861) regels zijn gesteld ten aanzien van de productie of distributie van drinkwater of nooddrinkwater in krachtens [artikel 1.3 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&artikel=1.3) aangewezen verpakkingen.
 

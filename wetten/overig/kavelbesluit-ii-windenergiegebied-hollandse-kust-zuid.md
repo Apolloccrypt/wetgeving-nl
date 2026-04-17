@@ -1,13 +1,38 @@
 ---
 title: "Kavelbesluit II windenergiegebied Hollandse Kust (zuid)"
 identifier: "BWBR0039112"
-categorie: "Overig"
-publicatiedatum: 2017-02-01
-laatste_update: 2017-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039112"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-02-01"
+last_updated: "2017-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039112"
+soort: "ministeriele-regeling"
+stam_id: "13891023"
+version_id: "23842572"
+internal_id: "C34292801"
+label_id: "13858444"
+dtd_version: "2.0"
+original_entry_into_force: "2017-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039112/2017-02-01/0"
+intitule_bron: "Stcrt.2016-67120"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-12-08"
+intitule_published: "2016-12-16"
+intitule_in_force: "2016-12-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-67120"
+original_signed_date: "2016-12-08"
+original_published_date: "2016-12-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-67120"
+entry_into_force_date: "2017-02-01"
+jci_1_3: "jci1.3:c:BWBR0039112&z=2017-02-01&g=2017-02-01"
+jci_1_0: "1.0:c:BWBR0039112&g=2017-02-01"
+citeertitel_status: "redactioneel"
+signed_date: "2016-12-08"
+entry_into_force: "2017-02-01"
 ---
-
 # Kavelbesluit II windenergiegebied Hollandse Kust (zuid)
 
 ### I. Besluit

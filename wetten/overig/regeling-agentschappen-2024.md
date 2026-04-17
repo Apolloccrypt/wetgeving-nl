@@ -1,13 +1,39 @@
 ---
-title: "Regeling agentschappen 2024"
+title: "Regeling van de Minister van Financiën van 20 september 2024, houdende regels over de instelling, de inrichting en het beheer van agentschappen (Regeling agentschappen 2024)"
 identifier: "BWBR0050264"
-categorie: "Overig"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050264"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050264"
+soort: "ministeriele-regeling"
+stam_id: "17234083"
+version_id: "30353292"
+internal_id: "C43532831"
+label_id: "17140034"
+dtd_version: "2.0"
+original_entry_into_force: "2025-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050264/2025-01-01/0"
+intitule_bron: "Stcrt.2024-32572"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-09-20"
+intitule_published: "2024-10-03"
+intitule_in_force: "2024-10-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-32572"
+original_signed_date: "2024-09-20"
+original_published_date: "2024-10-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-32572"
+entry_into_force_date: "2025-01-01"
+jci_1_3: "jci1.3:c:BWBR0050264&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0050264&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling agentschappen 2024"
+signed_date: "2024-09-20"
+entry_into_force: "2025-01-01"
 ---
-
 # Regeling van de Minister van Financiën van 20 september 2024, houdende regels over de instelling, de inrichting en het beheer van agentschappen (Regeling agentschappen 2024)
 
 Gelet op [artikel 4.20, tweede lid, aanhef en onder g, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=4.20);
@@ -18,7 +44,7 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1. Begrippen
+##### Artikel 1. Begrippen
 
 1. In deze regeling wordt verstaan onder:
 
@@ -60,7 +86,7 @@ Besluit:
 
 #### § 2. Instellen en opheffen van een agentschap
 
-#### Artikel 2. Aanvraag
+##### Artikel 2. Aanvraag
 
 1. De Minister dient een aanvraag voor het instellen van een agentschap in bij de Minister van Financiën.
 
@@ -76,7 +102,7 @@ Besluit:
 
 - c. er is een akkoord tussen de partijen, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050264&paragraaf=3&artikel=6&z=2025-01-01&g=2025-01-01), van deze regeling, over de conceptinrichting van de governance die voldoet aan artikel 6 van deze regeling, conceptwerkafspraken die voldoen aan [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0050264&paragraaf=3&artikel=7&z=2025-01-01&g=2025-01-01) van deze regeling, voorgenomen bekostiging van het agentschap die voldoet aan [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0050264&paragraaf=4&artikel=8&z=2025-01-01&g=2025-01-01) van deze regeling en de inrichting van het financieel beheer van het nieuw in te stellen agentschap.
 
-#### Artikel 3. Beoordeling aanvraag
+##### Artikel 3. Beoordeling aanvraag
 
 1. De Minister van Financiën beoordeelt of de aanvraag voldoet aan de instellingsvoorwaarden, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050264&paragraaf=2&artikel=2&z=2025-01-01&g=2025-01-01).
 
@@ -84,7 +110,7 @@ Besluit:
 
 3. Indien naar het oordeel van de Minister van Financiën is voldaan aan de instellingsvoorwaarden, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050264&paragraaf=2&artikel=2&z=2025-01-01&g=2025-01-01), legt de Minister, mede namens de Minister van Financiën, het voorgenomen besluit tot instelling van het agentschap voor aan de ministerraad.
 
-#### Artikel 4. Instelling
+##### Artikel 4. Instelling
 
 1. Indien de ministerraad instemt met de instelling van het agentschap, brengt de Minister het voorgenomen besluit hiertoe schriftelijk ter kennis van de Tweede Kamer der Staten-Generaal overeenkomstig [artikel 2.20, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=2.20).
 
@@ -94,7 +120,7 @@ Besluit:
 
 4. De Minister zendt een kopie van het besluit tot instelling aan de Algemene Rekenkamer.
 
-#### Artikel 5. Opheffing
+##### Artikel 5. Opheffing
 
 1. Een agentschap kan worden opgeheven indien:
 
@@ -120,7 +146,7 @@ Besluit:
 
 #### § 3. Werkafspraken
 
-#### Artikel 6. Governance
+##### Artikel 6. Governance
 
 1. Ten aanzien van het agentschap is er één eindverantwoordelijke binnen het agentschap, één continuïteitsverantwoordelijke en tenminste één beleidsverantwoordelijke.
 
@@ -148,7 +174,7 @@ Besluit:
 
 - f. het opstarten en tijdig afronden van de evaluatie, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0050264&paragraaf=6&artikel=16&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 7. Meerjarige werkafspraken
+##### Artikel 7. Meerjarige werkafspraken
 
 1. De eindverantwoordelijke binnen het agentschap, de beleidsverantwoordelijke en de continuïteitsverantwoordelijke maken werkafspraken over in ieder geval:
 
@@ -172,7 +198,7 @@ Besluit:
 
 #### § 4. Bekostiging en financiën
 
-#### Artikel 8. Bekostiging
+##### Artikel 8. Bekostiging
 
 1. Het agentschap wordt bekostigd voor hun taakuitvoering.
 
@@ -184,7 +210,7 @@ Besluit:
 
 - c. een combinatie van de bekostigingswijzen, bedoeld in de onderdelen a en b.
 
-#### Artikel 9. Rekening-courant en deposito
+##### Artikel 9. Rekening-courant en deposito
 
 1. Het agentschap houdt zijn liquide middelen aan in de schatkist van het Rijk via een rekening-courant bij het Ministerie van Financiën. Vanaf deze rekening-courant kan het agentschap deposito’s plaatsen.
 
@@ -196,7 +222,7 @@ Besluit:
 
 5. Het rekening-courantkrediet bij de schatkist van het Rijk bedraagt voor een agentschap per 31 december maximaal € 500.000.
 
-#### Artikel 10. Depositoprocedure en -voorwaarden
+##### Artikel 10. Depositoprocedure en -voorwaarden
 
 1. Het agentschap kan een termijndeposito plaatsen indien de rekening-courant van het agentschap een toereikend creditsaldo heeft.
 
@@ -212,7 +238,7 @@ Besluit:
 
 7. De Minister van Financiën bepaalt de afsluitprovisies en boetes bij vervroegd opnemen en kan tevens minimumbedragen vaststellen voor deposito’s.
 
-#### Artikel 11. Eigen vermogen
+##### Artikel 11. Eigen vermogen
 
 1. Met uitzondering van de openingsbalans worden in de balans van een agentschap onder de post eigen vermogen uitsluitend opgenomen:
 
@@ -236,7 +262,7 @@ Besluit:
 
 8. Na vaststelling van de jaarrekening, wordt het onverdeeld resultaat in zijn geheel toegevoegd aan de exploitatiereserve van het agentschap.
 
-#### Artikel 12. Leenfaciliteit ten behoeve van bedrijfsvoering en ICT
+##### Artikel 12. Leenfaciliteit ten behoeve van bedrijfsvoering en ICT
 
 1. Het agentschap kan ten behoeve van het financieren van een investering in vaste activa beschikken over een leenfaciliteit bij het Ministerie van Financiën.
 
@@ -250,7 +276,7 @@ Besluit:
 
 6. De Minister van Financiën bepaalt de procedure voor het aanvragen en toekennen van een leenplafond in de laatstelijk vastgestelde [Regeling rijksbegrotingsvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0049011).
 
-#### Artikel 13. Procedure en voorwaarden van de lening
+##### Artikel 13. Procedure en voorwaarden van de lening
 
 1. De Minister van Financiën opent voor elke lening die hij aan het agentschap verstrekt een leenrekening op naam van het agentschap in de centrale administratie van de schatkist van het Rijk.
 
@@ -276,11 +302,11 @@ Besluit:
 
 #### § 5. Verantwoording
 
-#### Artikel 14. Uitgangspunten verslaggeving
+##### Artikel 14. Uitgangspunten verslaggeving
 
 Onverminderd de bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0039429) te stellen regels, inclusief de laatstelijk vastgestelde [Regeling rijksbegrotingsvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0049011), zijn bij het opstellen van de jaarrekening van het agentschap en de daarop gebaseerde agentschapsparagraaf in het jaarverslag van het ministerie waaronder het agentschap ressorteert de [artikelen 361 tot en met 381b](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=361), [382](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=382), [382a](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=382a) en [384 tot en met 390 van Titel 9 van Boek 2 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=384) en de Richtlijnen voor de Jaarverslaggeving van overeenkomstige toepassing.
 
-#### Artikel 15. Procedure openingsbalans
+##### Artikel 15. Procedure openingsbalans
 
 1. De indicatieve openingsbalans van het agentschap wordt opgenomen in de agentschapsparagraaf van het eerstvolgende voorstel van wet tot vaststelling van de begrotingsstaat van het ministerie waaronder het agentschap ressorteert overeenkomstig de laatstelijk vastgestelde [Regeling rijksbegrotingsvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0049011).
 
@@ -292,7 +318,7 @@ Onverminderd de bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BW
 
 #### § 6. Evaluatie
 
-#### Artikel 16. Agentschapsevaluatie
+##### Artikel 16. Agentschapsevaluatie
 
 1. De Minister en de Minister van Financiën evalueren gezamenlijk tenminste eens in de vijf jaar de (voorwaarden voor) doeltreffendheid en de doelmatigheid van het functioneren van het agentschap. Het wordt aangemoedigd om bij het evalueren rekening te houden met publieke waarde(n) in den brede.
 
@@ -304,25 +330,25 @@ Onverminderd de bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BW
 
 ### Overig
 
-#### Artikel 17. Afwijking
+##### Artikel 17. Afwijking
 
 In bijzondere gevallen kan met voorafgaande schriftelijke instemming van de Minister van Financiën worden afgeweken van deze regeling. Indien van toepassing dient de Minister een verzoek in bij de Minister van Financiën. Het verzoek wordt door de Minister gemotiveerd.
 
-#### Artikel 18. Grondslag verleende afwijkingen
+##### Artikel 18. Grondslag verleende afwijkingen
 
 Na inwerkingtreding van deze regeling berusten de afwijkingen die door de Minister van Financiën verleend zijn, bedoeld in [artikel 33 van de Regeling agentschappen](https://wetten.overheid.nl/jci1.3:c:BWBR0040286&artikel=33) (Stcrt. 2017, 69103), mede op [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0050264&artikel=17&z=2025-01-01&g=2025-01-01) van deze regeling.
 
-#### Artikel 19. Intrekking
+##### Artikel 19. Intrekking
 
 1. De [Regeling agentschappen](https://wetten.overheid.nl/jci1.3:c:BWBR0040286) (Stcrt. 2017, 69103) wordt ingetrokken per 1 januari 2025.
 
 2. De [Regeling agentschappen](https://wetten.overheid.nl/jci1.3:c:BWBR0040286) wordt ingetrokken, met dien verstande dat de bepalingen van deze regeling en de daarop berustende bepalingen, zoals deze golden voor de inwerkingtreding van de Regeling agentschappen 2024 van toepassing blijven op de begrotingsstaten, de (suppletoire) begrotingsstaten, de slotverschillen, de jaarverslagen en rapporten die met de uitvoering van deze begrotingen samenvallen in het begrotingsjaar 2024.
 
-#### Artikel 20. Inwerkingtreding
+##### Artikel 20. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2025.
 
-#### Artikel 21. Citeertitel
+##### Artikel 21. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling agentschappen 2024.
 

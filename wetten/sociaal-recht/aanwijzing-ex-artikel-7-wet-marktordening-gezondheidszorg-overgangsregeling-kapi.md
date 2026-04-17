@@ -1,13 +1,39 @@
 ---
-title: "Aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (overgangsregeling kapitaallasten algemene en academische ziekenhuizen)"
+title: "Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 22 juni 2010, nr. CZ-U-3001512, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake overgangsregeling kapitaallasten algemene en academische ziekenhuizen"
 identifier: "BWBR0027853"
-categorie: "Sociaal recht"
-publicatiedatum: 2010-07-02
-laatste_update: 2010-07-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027853"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2010-07-02"
+last_updated: "2010-07-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027853"
+soort: "ministeriele-regeling"
+stam_id: "10597283"
+version_id: "17501342"
+internal_id: "C24205141"
+label_id: "10572214"
+dtd_version: "2.0"
+original_entry_into_force: "2010-07-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027853/2010-07-02/0"
+intitule_bron: "Stcrt.2010-10255"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-06-22"
+intitule_published: "2010-07-02"
+intitule_in_force: "2010-07-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-10255"
+original_signed_date: "2010-06-22"
+original_published_date: "2010-07-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-10255"
+entry_into_force_date: "2010-07-02"
+jci_1_3: "jci1.3:c:BWBR0027853&z=2010-07-02&g=2010-07-02"
+jci_1_0: "1.0:c:BWBR0027853&g=2010-07-02"
+citeertitel_status: "redactioneel"
+short_title: "Aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (overgangsregeling kapitaallasten algemene en academische ziekenhuizen)"
+signed_date: "2010-06-22"
+entry_into_force: "2010-07-02"
 ---
-
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 22 juni 2010, nr. CZ-U-3001512, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake overgangsregeling kapitaallasten algemene en academische ziekenhuizen
 
 Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
@@ -28,13 +54,13 @@ Gelet op de besluitenlijsten van procedurevergaderingen van 8 en 21 april 2010 v
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Deze aanwijzing is van toepassing op zorg of dienst als omschreven bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) (ZVW) welke wordt geleverd door de categorie instellingen voor medisch specialistische zorg met uitzondering van categorale ziekenhuizen (inclusief long/astmacentra), epilepsie-inrichtingen, instellingen voor revalidatie, radiotherapeutische centra, dialysecentra, zelfstandige behandelcentra en instellingen voor medisch specialistische zorg verleend door psychiaters (ggz-instellingen).
 
 2. Ter uitvoering van deze aanwijzing stelt de Nederlandse Zorgautoriteit, verder te noemen zorgautoriteit, beleidsregels of regels vast.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De zorgautoriteit voorziet erin dat de in het kader van de huidige overgangsregeling kapitaallasten (beleidsregel NZa, CI-1085) aan het B-segment toe te rekenen immateriële activa in 3 jaar versneld worden afgeschreven. Die overgangsregeling blijft verder onveranderd gehandhaafd.
 
@@ -44,7 +70,7 @@ Besluit:
 
 - b. de immateriële vaste activa die ultimo 2010, met inachtneming van de reguliere afschrijvingen 2010 resteren, volledig ten laste van de budgetten 2010 worden afgeschreven.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De zorgautoriteit voorziet erin dat de instellingen als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027853&artikel=1&z=2010-07-02&g=2010-07-02) bij beëindiging van budgetbekostiging gedurende een periode van 6 jaar (te rekenen vanaf 2011) een in omvang afnemende garantie wordt geboden voor de kapitaallastenvergoeding die zij onder budgetbekostiging zouden hebben gehad.
 
@@ -62,7 +88,7 @@ Besluit:
 | 2016 | 70% |
 | 2017 e.v. | 0% |
 
-#### Artikel 4
+##### Artikel 4
 
 Bij het toepassen van de garantie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027853&artikel=3&z=2010-07-02&g=2010-07-02) houdt de zorgautoriteit rekening met het volgende:
 
@@ -72,18 +98,18 @@ Bij het toepassen van de garantie als bedoeld in [artikel 3](https://wetten.over
 
 - c. indien budgetbekostiging later dan 2011 wordt beëindigd, blijft de ingangsdatum en einddatum van de regeling ongewijzigd.
 
-#### Artikel 5
+##### Artikel 5
 
 De zorgautoriteit draagt er zorg voor dat door haar gesignaleerde knelpunten rond de uitvoering van de huidige overgangsregeling B-segment worden ondervangen.
 
-#### Artikel 6
+##### Artikel 6
 
 De zorgautoriteit ziet er op toe dat deze regeling de onderhandelingen tussen instellingen en verzekeraars niet zal verstoren.
 
-#### Artikel 7
+##### Artikel 7
 
 Ik zal de zorgautoriteit verzoeken mij periodiek te berichten over de effecten van de compensatieregeling voor de immateriële vaste activa en de garantieregeling op de kredietverlening en de gevolgen van beide regelingen op het Budgettaire Kader Zorg.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst en werkt terug tot en met 1 januari 2010.

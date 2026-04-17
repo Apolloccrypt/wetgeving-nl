@@ -1,13 +1,38 @@
 ---
 title: "Inkomstenbelasting, loonheffingen, intrekking van beleidsbesluiten"
 identifier: "BWBR0030666"
-categorie: "Belastingrecht"
-publicatiedatum: 2011-11-23
-laatste_update: 2011-11-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030666"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2011-11-23"
+last_updated: "2011-11-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030666"
+soort: "beleidsregel"
+stam_id: "11503273"
+version_id: "18926102"
+internal_id: "C26407441"
+label_id: "11476594"
+dtd_version: "2.0"
+original_entry_into_force: "2011-11-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030666/2011-11-23/0"
+intitule_bron: "Stcrt.2011-20911"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-11-11"
+intitule_published: "2011-11-22"
+intitule_in_force: "2011-11-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-20911"
+original_signed_date: "2011-11-11"
+original_published_date: "2011-11-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-20911"
+entry_into_force_date: "2011-11-23"
+jci_1_3: "jci1.3:c:BWBR0030666&z=2011-11-23&g=2011-11-23"
+jci_1_0: "1.0:c:BWBR0030666&g=2011-11-23"
+citeertitel_status: "redactioneel"
+signed_date: "2011-11-11"
+entry_into_force: "2011-11-23"
 ---
-
 # Inkomstenbelasting, loonheffingen, intrekking van beleidsbesluiten
 
 **Dit besluit regelt de intrekking van beleidsbesluiten die niet meer van belang zijn.**

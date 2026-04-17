@@ -1,13 +1,39 @@
 ---
-title: "Implementatiebesluit toegankelijkheidsvoorschriften e-boekdiensten"
+title: "Besluit van 17 mei 2024, houdende regels betreffende toegankelijkheidsvoorschriften voor e- boekdiensten ter implementatie van Richtlijn (EU) 2019/882 van de Europese Commissie en de Raad van 17 april 2019 inzake toegankelijkheidsvoorschriften voor producten en diensten (PbEU, 2019, L 151) (Implementatiebesluit toegankelijkheidsvoorschriften e-boekdiensten)"
 identifier: "BWBR0049778"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-06-28
-laatste_update: 2025-06-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049778"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-06-28"
+last_updated: "2025-06-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049778"
+soort: "AMvB"
+stam_id: "17121493"
+version_id: "30132452"
+internal_id: "C43171861"
+label_id: "17029954"
+dtd_version: "2.0"
+original_entry_into_force: "2025-06-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049778/2025-06-28/0"
+intitule_bron: "Stb.2024-144"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-05-17"
+intitule_published: "2024-06-05"
+intitule_in_force: "2024-06-05"
+intitule_status: "goed"
+original_publication: "Stb.2024-144"
+original_signed_date: "2024-05-17"
+original_published_date: "2024-06-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2024-144"
+entry_into_force_date: "2025-06-28"
+jci_1_3: "jci1.3:c:BWBR0049778&z=2025-06-28&g=2025-06-28"
+jci_1_0: "1.0:c:BWBR0049778&g=2025-06-28"
+citeertitel_status: "officieel"
+short_title: "Implementatiebesluit toegankelijkheidsvoorschriften e-boekdiensten"
+signed_date: "2024-05-17"
+entry_into_force: "2025-06-28"
 ---
-
 # Besluit van 17 mei 2024, houdende regels betreffende toegankelijkheidsvoorschriften voor e- boekdiensten ter implementatie van Richtlijn (EU) 2019/882 van de Europese Commissie en de Raad van 17 april 2019 inzake toegankelijkheidsvoorschriften voor producten en diensten (PbEU, 2019, L 151) (Implementatiebesluit toegankelijkheidsvoorschriften e-boekdiensten)
 
 Op de voordracht van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, van 6 juli 2023, nr. WJZ/1181277 (ID13221) directie Wetgeving en Juridische Zaken;
@@ -20,7 +46,7 @@ Gezien het nader rapport van de Staatssecretaris van Onderwijs, Cultuur en Weten
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -42,17 +68,17 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - **richtlijn:** [Richtlijn (EU) 2019/882](32019L0882) van het Europees Parlement en de Raad van 17 april 2019 betreffende de toegankelijkheidsvoorschriften voor producten en diensten; technische specificatie: een technische specificatie als omschreven in artikel 2, punt 4, van [Verordening (EU) nr. 1025/2012](32012R1025), ter nakoming van de op een product of dienst van toepassing zijnde toegankelijkheidsvoorschriften.
 
-#### Artikel 2. Toepassingsgebied
+##### Artikel 2. Toepassingsgebied
 
 Dit besluit is van toepassing op e-boekdiensten die na 28 juni 2025 aan consumenten worden verleend.
 
-#### Artikel 3. Toegankelijkheidsvoorschriften
+##### Artikel 3. Toegankelijkheidsvoorschriften
 
 1. Aangeboden e-boekdiensten voldoen aan de toegankelijkheidsvoorschriften in bijlage I, afdeling III, en afdeling IV, aanhef en onder f, van de richtlijn.
 
 2. Micro-ondernemingen die e-boekdiensten aanbieden zijn vrijgesteld van de verplichtingen vermeld in het eerste lid en van elke verplichting in verband met de naleving van die voorschriften.
 
-#### Artikel 4. Verplichtingen van dienstverleners
+##### Artikel 4. Verplichtingen van dienstverleners
 
 1. Dienstverleners ontwerpen en verlenen e-boekdiensten in overeenstemming met [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049778&artikel=3&z=2025-06-28&g=2025-06-28).
 
@@ -66,7 +92,7 @@ Dit besluit is van toepassing op e-boekdiensten die na 28 juni 2025 aan consumen
 
 6. Bij ministeriële regeling kunnen nadere regels worden gesteld over de verplichtingen, bedoeld in het eerste tot en met vijfde lid.
 
-#### Artikel 5. Fundamentele wijziging en onevenredige last
+##### Artikel 5. Fundamentele wijziging en onevenredige last
 
 1. De in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049778&artikel=3&z=2025-06-28&g=2025-06-28), bedoelde toegankelijkheidsvoorschriften zijn uitsluitend van toepassing voor zover de naleving ervan:
 
@@ -92,17 +118,17 @@ Dit besluit is van toepassing op e-boekdiensten die na 28 juni 2025 aan consumen
 
 7. Bij ministeriële regeling kunnen nadere regels worden gesteld over de beoordeling, bedoeld in het tweede lid.
 
-#### Artikel 6. Vermoeden van conformiteit
+##### Artikel 6. Vermoeden van conformiteit
 
 1. E-boekdiensten die voldoen aan geharmoniseerde normen of delen daarvan waarvan de referenties in het **Publicatieblad van de Europese Unie** zijn bekendgemaakt, worden geacht in overeenstemming te zijn met de toegankelijkheidsvoorschriften, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049778&artikel=3&z=2025-06-28&g=2025-06-28), voor zover deze normen of delen daarvan die voorschriften bestrijken.
 
 2. E-boekdiensten die in overeenstemming zijn met overeenkomstig artikel 15, derde lid, van de richtlijn vastgestelde technische specificaties of delen daarvan, worden geacht in overeenstemming te zijn met de toegankelijkheidsvoorschriften, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049778&artikel=3&z=2025-06-28&g=2025-06-28), voor zover deze technische specificaties of delen daarvan die voorschriften bestrijken.
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 28 juni 2025.
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Dit besluit wordt aangehaald als: Implementatiebesluit toegankelijkheid e-boekdiensten.
 

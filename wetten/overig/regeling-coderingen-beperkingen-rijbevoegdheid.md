@@ -1,20 +1,44 @@
 ---
 title: "Regeling coderingen beperkingen rijbevoegdheid"
 identifier: "BWBR0008037"
-categorie: "Overig"
-publicatiedatum: 2018-07-01
-laatste_update: 2018-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008037"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2018-07-01"
+last_updated: "2018-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008037"
+soort: "ministeriele-regeling"
+stam_id: "4373053"
+version_id: "6139642"
+internal_id: "C6343851"
+label_id: "4351424"
+dtd_version: "2.0"
+original_entry_into_force: "1996-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008037/2018-07-01/0"
+intitule_bron: "Stcrt.1996-101"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-05-14"
+intitule_published: "1996-05-30"
+intitule_in_force: "1996-05-30"
+intitule_status: "goed"
+original_publication: "Stcrt.1996-101"
+original_signed_date: "1996-05-14"
+original_published_date: "1996-05-30"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1996-06-01"
+jci_1_3: "jci1.3:c:BWBR0008037&z=2018-07-01&g=2018-07-01"
+jci_1_0: "1.0:c:BWBR0008037&g=2018-07-01"
+citeertitel_status: "officieel"
+signed_date: "1996-05-14"
+entry_into_force: "1996-06-01"
 ---
-
 # Regeling coderingen beperkingen rijbevoegdheid
 
 Gelet op de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=17), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=19), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=24), [103, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=103), [111 tot en met 116](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=111), [118](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=118), [145, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=145), [191](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=191) en [193 van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=193);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. De beperkingen met betrekking tot de rijbevoegdheid, bedoeld in de [artikelen 16 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=16), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=19), [19a](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=19a), [21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=21), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=24), [103, vierde en tiende tot en met twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=103), [111 tot en met 116](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=111), [118](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=118), [118a](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=118a), [145, eerste lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=145), [192](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=192) en [193 van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=193), worden in het rijbewijs aangeduid met de coderingen die zijn vastgesteld in de bij deze regeling behorende bijlage.
 
@@ -40,11 +64,11 @@ Indien in combinatie met de in de bijlage vermelde coderingen 01 tot en met 44 n
 
 4. Indien het rijbewijs is voorzien van een microchip worden, in afwijking van het derde lid, op de microchip bij alle hoofdcoderingen eveneens alle subcoderingen vermeld.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling treedt in werking met ingang van 1 juni 1996.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling wordt aangehaald als: Regeling coderingen beperkingen rijbevoegdheid.
 

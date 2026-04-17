@@ -1,13 +1,38 @@
 ---
 title: "Toeslagen, pleeggezinnen en opvang van uitgeprocedeerde alleenstaande minderjarige vreemdelingen"
 identifier: "BWBR0020056"
-categorie: "Bestuursrecht"
-publicatiedatum: 2006-07-15
-laatste_update: 2006-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020056"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2006-07-15"
+last_updated: "2006-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020056"
+soort: "beleidsregel"
+stam_id: "8510213"
+version_id: "13403302"
+internal_id: "C29279101"
+label_id: "8490594"
+dtd_version: "2.0"
+original_entry_into_force: "2006-07-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020056/2006-07-15/0"
+intitule_bron: "Stcrt.2006-134"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-07-06"
+intitule_published: "2006-07-13"
+intitule_in_force: "2006-07-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-134"
+original_signed_date: "2006-07-06"
+original_published_date: "2006-07-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-134-p8-SC75931"
+entry_into_force_date: "2006-07-15"
+jci_1_3: "jci1.3:c:BWBR0020056&z=2006-07-15&g=2006-07-15"
+jci_1_0: "1.0:c:BWBR0020056&g=2006-07-15"
+citeertitel_status: "redactioneel"
+signed_date: "2006-07-06"
+entry_into_force: "2006-07-15"
 ---
-
 # Toeslagen, pleeggezinnen en opvang van uitgeprocedeerde alleenstaande minderjarige vreemdelingen
 
 De Staatssecretaris van Financiën heeft het volgende besloten:

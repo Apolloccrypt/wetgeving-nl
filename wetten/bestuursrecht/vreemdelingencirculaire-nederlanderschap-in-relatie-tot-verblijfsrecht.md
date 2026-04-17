@@ -1,13 +1,36 @@
 ---
 title: "Vreemdelingencirculaire Nederlanderschap in relatie tot verblijfsrecht"
 identifier: "BWBR0011543"
-categorie: "Bestuursrecht"
-publicatiedatum: 2000-08-09
-laatste_update: 2000-08-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011543"
+country: "nl"
+rank: "circulaire"
+publication_date: "2000-08-09"
+last_updated: "2000-08-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011543"
+soort: "circulaire"
+stam_id: "6252173"
+version_id: "10933612"
+internal_id: "C14824961"
+label_id: "6241104"
+original_entry_into_force: "2000-08-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011543/2000-08-09/0"
+intitule_bron: "Stcrt.2000-152"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-08-04"
+intitule_published: "2000-08-09"
+intitule_in_force: "2000-08-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2000-152"
+original_signed_date: "2000-08-04"
+original_published_date: "2000-08-09"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2000-08-09"
+jci_1_3: "jci1.3:c:BWBR0011543&z=2000-08-09&g=2000-08-09"
+jci_1_0: "1.0:c:BWBR0011543&g=2000-08-09"
+citeertitel_status: "redactioneel"
+signed_date: "2000-08-04"
+entry_into_force: "2000-08-09"
 ---
-
 # Vreemdelingencirculaire Nederlanderschap in relatie tot verblijfsrecht
 
 ### 1. Inleiding

@@ -1,13 +1,39 @@
 ---
-title: "Besluit intrekking onderzoekskaders 2017 niet bekostigd primair onderwijs en voortgezet onderwijs onder vaststelling beleidsregels Onderzoekskaders 2022 niet bekostigd primair onderwijs en voortgezet onderwijs"
+title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap en de Minister voor Primair- en Voortgezet Onderwijs, van 18 juli 2022, nr. 33067320, tot intrekking van onderzoekskaders 2017 niet bekostigd primair onderwijs en voortgezet onderwijs onder vaststelling van beleidsregels houdende Onderzoekskaders 2022 niet bekostigd primair onderwijs en voortgezet onderwijs"
 identifier: "BWBR0046994"
-categorie: "Onderwijs"
-publicatiedatum: 2022-08-01
-laatste_update: 2022-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046994"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-08-01"
+last_updated: "2022-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046994"
+soort: "ministeriele-regeling"
+stam_id: "16442053"
+version_id: "28804442"
+internal_id: "C40784751"
+label_id: "16365494"
+dtd_version: "2.0"
+original_entry_into_force: "2022-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046994/2022-08-01/0"
+intitule_bron: "Stcrt.2022-19627"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-07-18"
+intitule_published: "2022-07-29"
+intitule_in_force: "2022-07-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-19627"
+original_signed_date: "2022-07-18"
+original_published_date: "2022-07-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-19627"
+entry_into_force_date: "2022-08-01"
+jci_1_3: "jci1.3:c:BWBR0046994&z=2022-08-01&g=2022-08-01"
+jci_1_0: "1.0:c:BWBR0046994&g=2022-08-01"
+citeertitel_status: "redactioneel"
+short_title: "Besluit intrekking onderzoekskaders 2017 niet bekostigd primair onderwijs en voortgezet onderwijs onder vaststelling beleidsregels Onderzoekskaders 2022 niet bekostigd primair onderwijs en voortgezet onderwijs"
+signed_date: "2022-07-18"
+entry_into_force: "2022-08-01"
 ---
-
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap en de Minister voor Primair- en Voortgezet Onderwijs, van 18 juli 2022, nr. 33067320, tot intrekking van onderzoekskaders 2017 niet bekostigd primair onderwijs en voortgezet onderwijs onder vaststelling van beleidsregels houdende Onderzoekskaders 2022 niet bekostigd primair onderwijs en voortgezet onderwijs
 
 Gelet op [artikel 13, eerste lid van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=13);
@@ -16,7 +42,7 @@ Gezien de voordracht van de Inspecteur-generaal van het onderwijs van 10 juni 20
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De volgende beleidsregels worden vastgesteld:
 
@@ -24,7 +50,7 @@ De volgende beleidsregels worden vastgesteld:
 
 - 2. Onderzoekskader 2022 voor niet bekostigd voortgezet onderwijs ([bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0046994&bijlage=II&z=2022-08-01&g=2022-08-01)).
 
-#### Artikel 2
+##### Artikel 2
 
 De volgende beleidsregels worden ingetrokken:
 
@@ -32,7 +58,7 @@ De volgende beleidsregels worden ingetrokken:
 
 - 2. Onderzoekskader 2017 niet bekostigd voortgezet onderwijs2[Onderzoekskader 2017 niet-bekostigd voortgezet onderwijs | Publicatie | Inspectie van het onderwijs (onderwijsinspectie.nl)](onbekend):
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van 1 augustus 2022.
 

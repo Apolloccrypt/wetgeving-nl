@@ -1,30 +1,56 @@
 ---
-title: "Regeling beslagvrije voet"
+title: "Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 25 november 2020, nr. 2020-0000159922, houdende regels in verband met de vereenvoudiging en de berekening van de beslagvrije voet (Regeling beslagvrije voet)"
 identifier: "BWBR0044476"
-categorie: "Overig"
-publicatiedatum: 2026-04-16
-laatste_update: 2026-04-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044476"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-04-16"
+last_updated: "2026-04-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044476"
+soort: "ministeriele-regeling"
+stam_id: "15747083"
+version_id: "29143382"
+internal_id: "C41413271"
+label_id: "15685364"
+dtd_version: "2.0"
+original_entry_into_force: "2022-12-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044476/2026-04-16/0"
+intitule_bron: "Stcrt.2020-62980"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-11-25"
+intitule_published: "2020-12-08"
+intitule_in_force: "2020-12-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-34869"
+original_signed_date: "2022-12-16"
+original_published_date: "2022-12-28"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2022-34869"
+entry_into_force_date: "2022-12-16"
+jci_1_3: "jci1.3:c:BWBR0044476&z=2026-04-16&g=2026-04-16"
+jci_1_0: "1.0:c:BWBR0044476&g=2026-04-16"
+citeertitel_status: "officieel"
+short_title: "Regeling beslagvrije voet"
+signed_date: "2022-12-16"
+entry_into_force: "2022-12-16"
 ---
-
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 25 november 2020, nr. 2020-0000159922, houdende regels in verband met de vereenvoudiging en de berekening van de beslagvrije voet (Regeling beslagvrije voet)
 
 Gelet op de [artikelen 475ga, derde lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475ga), en [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041895&artikel=6), [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041895&artikel=7), [8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041895&artikel=8), en [9, eerste lid, van het Besluit beslagvrije voet](https://wetten.overheid.nl/jci1.3:c:BWBR0041895&artikel=9);
 
 Besluit:
 
-#### Artikel 1. Woonlandfactor
+##### Artikel 1. Woonlandfactor
 
 1. De factor, bedoeld in [artikel 6 van het Besluit beslagvrije voet](https://wetten.overheid.nl/jci1.3:c:BWBR0041895&artikel=6), bedraagt de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=1&z=2026-04-16&g=2026-04-16) bij deze regeling opgenomen factor.
 
 2. Als het land niet in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=1&z=2026-04-16&g=2026-04-16) bij deze regeling is opgenomen bedraagt de factor 1,0.
 
-#### Artikel 2. Model beslagvrije voet
+##### Artikel 2. Model beslagvrije voet
 
 Het model, bedoeld in [artikel 7 van het Besluit beslagvrije voet](https://wetten.overheid.nl/jci1.3:c:BWBR0041895&artikel=7), is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=2&z=2026-04-16&g=2026-04-16) bij deze regeling.
 
-#### Artikel 3. Ondersteuning bij de vaststelling van de beslagvrije voet
+##### Artikel 3. Ondersteuning bij de vaststelling van de beslagvrije voet
 
 1. De Stichting Bureau Informatiediensten Nederland en het UWV dragen als verwerkers gezamenlijk zorg voor de inrichting en het beheer van de door Onze Minister geboden ondersteuning, bedoeld in [artikel 8 van het Besluit beslagvrije voet](https://wetten.overheid.nl/jci1.3:c:BWBR0041895&artikel=8).
 
@@ -76,7 +102,7 @@ Het model, bedoeld in [artikel 7 van het Besluit beslagvrije voet](https://wette
 
 - f. de ontvanger, bedoeld in [artikel 1:3, eerste lid, onderdeel c, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:3), in samenhang met [artikel 1.4, eerste lid, van de Algemene douaneregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&artikel=1:4).
 
-#### Artikel 4. Gegevens UWV
+##### Artikel 4. Gegevens UWV
 
 De gegevens, bedoeld in [artikel 475ga, derde lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475ga), zijn:
 
@@ -112,11 +138,11 @@ De gegevens, bedoeld in [artikel 475ga, derde lid, van het Wetboek van Burgerlij
 
 - p. naam administratieve eenheid.
 
-#### Artikel 5. Inwerkingtreding
+##### Artikel 5. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2021.
 
-#### Artikel 6. Citeertitel
+##### Artikel 6. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling beslagvrije voet.
 
@@ -612,7 +638,7 @@ Deze regeling zal met de toelichting en de [bijlagen](https://wetten.overheid.nl
 
 Deze regeling zal met de toelichting en de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=1&z=2022-01-01&g=2022-01-01) in de Staatscourant worden geplaatst.
 
-#### Artikel 4a. Overgangsrecht
+##### Artikel 4a. Overgangsrecht
 
 Tot en met 31 oktober 2022 kan de deurwaarder gebruik maken van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=2&z=2026-04-16&g=2026-04-16), zoals die luidde op 30 juni 2021.
 
@@ -870,7 +896,7 @@ Afnemer is verantwoordelijk voor de diensten die een Intermediair op verzoek van
 
 Deze regeling zal met de toelichting en de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=1&z=2022-07-01&g=2022-07-01) in de Staatscourant worden geplaatst.
 
-#### Artikel 1a. Ophoging beslagvrije voet in verband met woonkosten
+##### Artikel 1a. Ophoging beslagvrije voet in verband met woonkosten
 
 De maximale termijn, bedoeld in [artikel 475da, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475da), bedraagt achttien maanden.
 

@@ -1,20 +1,44 @@
 ---
 title: "Regeling groenprojecten buitenland 2002"
 identifier: "BWBR0013272"
-categorie: "Overig"
-publicatiedatum: 2019-01-01
-laatste_update: 2019-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013272"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2019-01-01"
+last_updated: "2019-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013272"
+soort: "ministeriele-regeling"
+stam_id: "4119013"
+version_id: "5872562"
+internal_id: "C6075391"
+label_id: "4098674"
+dtd_version: "2.0"
+original_entry_into_force: "2002-01-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013272/2019-01-01/0"
+intitule_bron: "Stcrt.2002-1"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-12-21"
+intitule_published: "2002-01-02"
+intitule_in_force: "2002-01-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2002-1"
+original_signed_date: "2001-12-21"
+original_published_date: "2002-01-02"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2002-01-04"
+jci_1_3: "jci1.3:c:BWBR0013272&z=2019-01-01&g=2019-01-01"
+jci_1_0: "1.0:c:BWBR0013272&g=2019-01-01"
+citeertitel_status: "officieel"
+signed_date: "2001-12-21"
+entry_into_force: "2002-01-04"
 ---
-
 # Regeling groenprojecten buitenland 2002
 
 Gelet op [artikel 5.14, zesde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Deze regeling geeft uitvoering aan [artikel 5.14, achtste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14) met betrekking tot de verklaringen als genoemd in [artikel 5.14, derde lid, onderdeel b, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14) voor projecten welke gelegen zijn in ontwikkelingslanden en daarmee gelijk te stellen gebieden.
 
@@ -36,13 +60,13 @@ Besluit:
 
 - h. **de ministers:** de Minister van Infrastructuur en Waterstaat, in overeenstemming met de Minister van Financiën en na overleg met de Minister van Landbouw, Natuur en Voedselkwaliteit en de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een verklaring kan, met uitzondering van verklaringen ten behoeve van Joint-implementationprojecten, slechts worden afgegeven ten behoeve van projecten die gelegen zijn in een land dat geen lid is van de Organisatie voor Economische Samenwerking en Ontwikkeling (OESO) en waarvan de welvaart en ontwikkeling een zodanig niveau heeft dat naar het oordeel van de ministers het land niet in staat wordt geacht het project, in relatie tot het projectrendement, en de projectkosten, met eigen middelen te realiseren.
 
 2. Een verklaring kan slechts worden afgegeven ten behoeve van projecten gelegen in een land waar de ontwikkeling en de stand van het milieu zulks naar het oordeel van de ministers rechtvaardigen.
 
-#### Artikel 3
+##### Artikel 3
 
 Een verklaring kan slechts worden afgegeven voor projecten die naar het oordeel van de ministers:
 
@@ -56,7 +80,7 @@ Een verklaring kan slechts worden afgegeven voor projecten die naar het oordeel 
 
 - e. in overeenstemming zijn met het Nederlandse internationale milieubeleid.
 
-#### Artikel 4
+##### Artikel 4
 
 Een verklaring kan slechts worden afgegeven ten behoeve van projecten die naar het oordeel van de ministers:
 
@@ -70,7 +94,7 @@ Een verklaring kan slechts worden afgegeven ten behoeve van projecten die naar h
 
 - e. in overeenstemming zijn met het Nederlandse buitenlandse en ontwikkelingsbeleid.
 
-#### Artikel 5
+##### Artikel 5
 
 Een verklaring wordt niet afgegeven op aanvragen voor:
 
@@ -82,7 +106,7 @@ Een verklaring wordt niet afgegeven op aanvragen voor:
 
 - d. een project waarvan het te verwachten economisch rendement in verhouding tot het risico en het milieubelang zodanig is dat het zonder toepassing van deze faciliteit tot stand zou kunnen komen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een verklaring kan slechts worden aangevraagd door en afgegeven aan:
 
@@ -100,7 +124,7 @@ Een verklaring wordt niet afgegeven op aanvragen voor:
 
 6. Voor projecten waarvoor reeds eerder een verklaring is afgegeven, kan een nieuwe aanvraag eerst drie jaar voor de afloop van de geldende verklaring worden ingediend.
 
-#### Artikel 7
+##### Artikel 7
 
 Een verklaring kan slechts afgegeven worden indien de projectbeheerder bij het indienen van een aanvraag voor een verklaring schriftelijk verklaart dat:
 
@@ -122,7 +146,7 @@ Een verklaring kan slechts afgegeven worden indien de projectbeheerder bij het i
 
 - i. hij er mee instemt dat op de zaken aangaande aanvraag, afgifte, intrekking en toepassing van de verklaring en de controle hierop uitsluitend Nederlands recht van toepassing is.
 
-#### Artikel 8
+##### Artikel 8
 
 Een verklaring kan slechts worden afgegeven indien de kredietinstelling en de beleggingsinstelling als bedoeld in [artikel 6, eerste lid, onderdeel a onderscheidenlijk onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0013272&artikel=6&z=2019-01-01&g=2019-01-01), bij de indiening van een aanvraag verklaart dat zij indien door haar wordt overgegaan tot kapitaalverschaffing:
 
@@ -134,7 +158,7 @@ Een verklaring kan slechts worden afgegeven indien de kredietinstelling en de be
 
 - d. hij instemt met de toepassing van de bepalingen van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0013272&artikel=9&z=2019-01-01&g=2019-01-01) bij de aldaar genoemde omstandigheden.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Aan een verklaring kunnen voorwaarden worden verbonden.
 
@@ -148,7 +172,7 @@ Een verklaring kan slechts worden afgegeven indien de kredietinstelling en de be
 
 6. De verklaring kan worden ingetrokken indien de projectbeheerder een ander is dan de projectbeheerder op wiens naam de verklaring is afgegeven tenzij de nieuwe projectbeheerder verklaart te handelen overeenkomstig de bepalingen in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0013272&artikel=7&z=2019-01-01&g=2019-01-01).
 
-#### Artikel 10
+##### Artikel 10
 
 1. De verklaring kan maximaal negen maanden na afgifte van de verklaring in werking treden en wordt voor geen langere periode dan voor verwachtte levensduur van het project en de duur van ten hoogste tien jaren afgegeven.
 
@@ -160,11 +184,11 @@ Een verklaring kan slechts worden afgegeven indien de kredietinstelling en de be
 
 5. Een afschrift van de verklaring wordt gezonden aan de projectbeheerder en aan de Inspecteur van de Belastingdienst/Grote Ondernemingen Amsterdam.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 1 januari 2002.
 
-#### Artikel 12
+##### Artikel 12
 
 Deze regeling kan worden aangehaald als: Regeling groenprojecten buitenland 2002.
 

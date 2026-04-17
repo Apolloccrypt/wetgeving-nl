@@ -1,13 +1,39 @@
 ---
-title: "Subsidieregeling emissieverminderende voorzieningen voor voertuigen"
+title: "Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 27 juni 2006, nr. KvI2006278987, houdende regels voor het subsidiëren van voorzieningen die de emissie van deeltjes door voertuigen met een dieselmotor verminderen (Subsidieregeling emissieverminderende voorzieningen voor voertuigen met een dieselmotor)"
 identifier: "BWBR0020008"
-categorie: "Verkeer"
-publicatiedatum: 2014-03-20
-laatste_update: 2014-03-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020008"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2014-03-20"
+last_updated: "2014-03-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020008"
+soort: "ministeriele-regeling"
+stam_id: "8455093"
+version_id: "15033632"
+internal_id: "C20487671"
+label_id: "8435784"
+dtd_version: "2.0"
+original_entry_into_force: "2007-12-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020008/2014-03-20/0"
+intitule_bron: "Stcrt.2006-124"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-06-27"
+intitule_published: "2006-06-29"
+intitule_in_force: "2006-06-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-250"
+original_signed_date: "2007-12-21"
+original_published_date: "2007-12-27"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2007-250-p18-SC83587"
+entry_into_force_date: "2007-12-21"
+jci_1_3: "jci1.3:c:BWBR0020008&z=2014-03-20&g=2014-03-20"
+jci_1_0: "1.0:c:BWBR0020008&g=2014-03-20"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling emissieverminderende voorzieningen voor voertuigen"
+signed_date: "2007-12-21"
+entry_into_force: "2007-12-21"
 ---
-
 # Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 27 juni 2006, nr. KvI2006278987, houdende regels voor het subsidiëren van voorzieningen die de emissie van deeltjes door voertuigen met een dieselmotor verminderen (Subsidieregeling emissieverminderende voorzieningen voor voertuigen met een dieselmotor)
 
 Gelet op [artikel 15.13, eerste tot en met derde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.13);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1. Begripsomschrijvingen
+##### Artikel 1.1. Begripsomschrijvingen
 
 In deze regeling wordt verstaan onder:
 
@@ -38,11 +64,11 @@ In deze regeling wordt verstaan onder:
 
 - i. Euro VI-typegoedkeuring: typegoedkeuring als bedoeld in Verordening (EG) nr. 595/2009 van het Europees Parlement en de Raad van 18 juni 2009 betreffende de typegoedkeuring van motorvoertuigen en motoren met betrekking tot emissies van zware bedrijfsvoertuigen (Euro VI) en de toegang tot reparatie- en onderhoudsinformatie, tot wijziging van Verordening (EG) nr. 715/2007 en Richtlijn 2007/46/EG en tot intrekking van de Richtlijnen 80/1269/EEG, 2005/55/EG en 2005/78/EG (PbEU 2009, L 188).
 
-#### Artikel 1.2. Doel van de regeling
+##### Artikel 1.2. Doel van de regeling
 
 Deze regeling heeft tot doel een bijdrage te leveren aan de verbetering van de luchtkwaliteit in Nederland door het treffen van emissieverminderende voorzieningen in voertuigen met een dieselmotor te stimuleren, alsmede door de aanschaf van ongebruikte voertuigen met een emissieverminderende voorziening te stimuleren.
 
-#### Artikel 1.3. Wijze van subsidieverstrekking
+##### Artikel 1.3. Wijze van subsidieverstrekking
 
 1. De subsidievaststelling geschiedt in volgorde van ontvangst van de aanvragen, met dien verstande dat, indien de aanvrager krachtens [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvraag is aangevuld als datum van ontvangst van de aanvraag geldt.
 
@@ -52,37 +78,37 @@ Deze regeling heeft tot doel een bijdrage te leveren aan de verbetering van de l
 
 #### Paragraaf 2.1. Subsidieprogramma retrofit personen- en bestelauto’s
 
-#### Artikel 2.1. Voorwaarden voor subsidie
+##### Artikel 2.1. Voorwaarden voor subsidie
 
 Vervallen
 
-#### Artikel 2.2. Emissiereductie-eis
+##### Artikel 2.2. Emissiereductie-eis
 
 Vervallen
 
-#### Artikel 2.3. De aanvraag
+##### Artikel 2.3. De aanvraag
 
 Vervallen
 
-#### Artikel 2.4. Het subsidiebedrag
+##### Artikel 2.4. Het subsidiebedrag
 
 Vervallen
 
-#### Artikel 2.5. Subsidieplafond
+##### Artikel 2.5. Subsidieplafond
 
 Vervallen
 
-#### Artikel 2.6. Looptijd van het programma
+##### Artikel 2.6. Looptijd van het programma
 
 Vervallen
 
 ### Hoofdstuk 3. Slotbepalingen
 
-#### Artikel 3.1
+##### Artikel 3.1
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 3.2
+##### Artikel 3.2
 
 Deze regeling wordt aangehaald als: Subsidieregeling emissieverminderende voorzieningen voor voertuigen.
 
@@ -220,29 +246,29 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### Paragraaf 2.2. Subsidieprogramma retrofit zware voertuigen
 
-#### Artikel 2.7. Voorwaarden voor subsidie
+##### Artikel 2.7. Voorwaarden voor subsidie
 
 Vervallen
 
-#### Artikel 2.8. Emissiereductie-eisen
+##### Artikel 2.8. Emissiereductie-eisen
 
 Vervallen
 
-#### Artikel 2.9. De aanvraag
+##### Artikel 2.9. De aanvraag
 
 Vervallen
 
-#### Artikel 2.10. Subsidiebedragen
+##### Artikel 2.10. Subsidiebedragen
 
 Vervallen
 
-#### Artikel 2.11. Subsidieplafond
+##### Artikel 2.11. Subsidieplafond
 
 Vervallen
 
 #### Paragraaf 2.3. Subsidieprogramma ongebruikte vrachtauto’s en bussen
 
-#### Artikel 2.12. Voorwaarden voor subsidie voor bestelauto’s, vrachtauto’s en bussen
+##### Artikel 2.12. Voorwaarden voor subsidie voor bestelauto’s, vrachtauto’s en bussen
 
 1. Subsidie kan worden verstrekt aan de eerste kentekenhouder van een ongebruikte vrachtauto of bus met een Euro VI-typegoedkeuring en met een toegestane maximum massa van meer dan 5000 kg waarvoor het definitieve kentekenbewijs is afgegeven na 29 februari 2012 en voor 31 december 2013.
 
@@ -250,7 +276,7 @@ Vervallen
 
 3. Een besluit tot subsidievaststelling kan worden ingetrokken indien de tenaamstelling in het kentekenregister van de bestelauto, vrachtauto of bus binnen zes maanden na de datum van de afgifte van het definitieve kentekenbewijs wijzigt.
 
-#### Artikel 2.13. De aanvraag
+##### Artikel 2.13. De aanvraag
 
 1. Een aanvraag tot subsidievaststelling wordt ingediend bij het agentschap, met gebruikmaking van een bij die organisatie verkrijgbaar formulier.
 
@@ -260,7 +286,7 @@ Vervallen
 
 4. De aanvraag gaat vergezeld van een afschrift van de delen 1A en 1B van het kentekenbewijs van het voertuig waarvoor subsidie wordt gevraagd.
 
-#### Artikel 2.14. Subsidiebedrag
+##### Artikel 2.14. Subsidiebedrag
 
 1. De subsidie bedraagt:
 
@@ -270,7 +296,7 @@ Vervallen
 
 2. Indien de meerkosten van de aan een vrachtauto of bus als bedoeld in het eerste lid, onder a, aangebrachte technische voorzieningen, inclusief montage, lager zijn dan € 4.500,–, bedraagt de subsidie niet meer dan die meerkosten.
 
-#### Artikel 2.15
+##### Artikel 2.15
 
 1. Het subsidieplafond voor het subsidiëren van motoren als bedoeld in [artikel 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.3&artikel=2.12&z=2014-03-20&g=2014-03-20) bedraagt voor de kalenderjaren 2010 en 2011 in totaal € 3.500.000,–.
 
@@ -468,23 +494,23 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### Paragraaf 2.4. Subsidieprogramma retrofit mobiele werktuigen
 
-#### Artikel 2.16. Voorwaarden voor subsidie
+##### Artikel 2.16. Voorwaarden voor subsidie
 
 Vervallen
 
-#### Artikel 2.17. Emissiereductie-eisen
+##### Artikel 2.17. Emissiereductie-eisen
 
 Vervallen
 
-#### Artikel 2.18. De aanvraag
+##### Artikel 2.18. De aanvraag
 
 Vervallen
 
-#### Artikel 2.19. Subsidiabele kosten
+##### Artikel 2.19. Subsidiabele kosten
 
 Vervallen
 
-#### Artikel 2.20. Subsidieplafond
+##### Artikel 2.20. Subsidieplafond
 
 Vervallen
 
@@ -838,7 +864,7 @@ Stilstand … uur per 8-uursperiode
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 2.10a. Maximering aantal voertuigen met vermogen van 225 kW of meer
+##### Artikel 2.10a. Maximering aantal voertuigen met vermogen van 225 kW of meer
 
 Vervallen
 

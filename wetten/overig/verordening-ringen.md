@@ -1,13 +1,36 @@
 ---
 title: "Verordening ringen"
 identifier: "BWBR0011167"
-categorie: "Overig"
-publicatiedatum: 2000-10-01
-laatste_update: 2000-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011167"
+country: "nl"
+rank: "pbo"
+publication_date: "2000-10-01"
+last_updated: "2000-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011167"
+soort: "pbo"
+stam_id: "6834043"
+version_id: "11715352"
+internal_id: "C15791531"
+label_id: "6822354"
+original_entry_into_force: "2000-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011167/2000-10-01/0"
+intitule_bron: "Stcrt.2000-182"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-02-16"
+intitule_published: "2000-09-20"
+intitule_in_force: "2000-09-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2000-182"
+original_signed_date: "2000-02-16"
+original_published_date: "2000-09-20"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2000-10-01"
+jci_1_3: "jci1.3:c:BWBR0011167&z=2000-10-01&g=2000-10-01"
+jci_1_0: "1.0:c:BWBR0011167&g=2000-10-01"
+citeertitel_status: "officieel"
+signed_date: "2000-02-16"
+entry_into_force: "2000-10-01"
 ---
-
 # Verordening ringen
 
 Overwegende dat het gewenst is regelen te stellen met betrekking tot het functioneren van de ringen;
@@ -24,7 +47,7 @@ stelt de navolgende verordening vast:
 
 #### Bestuur
 
-#### Artikel 1
+##### Artikel 1
 
 1. Voor de verkiezing van ringbestuursleden doet het ringbestuur een niet-bindende voordracht aan de ringvergadering van een of meer personen voor de functie van voorzitter, van plaatsvervangend voorzitter en voor de andere vacatures.
 
@@ -44,7 +67,7 @@ stelt de navolgende verordening vast:
 
 #### Ringvergaderingen
 
-#### Artikel 2
+##### Artikel 2
 
 1. De ringvergadering komt ten minste viermaal per jaar bijeen op een door de ringvoorzitter te bepalen plaats en tijd en voorts wanneer de ringvoorzitter of het ringbestuur dit nodig acht.
 
@@ -62,7 +85,7 @@ stelt de navolgende verordening vast:
 
 8. De secretaris van het ringbestuur zendt na vaststelling van het verslag van de ringvergadering een exemplaar van het verslag aan het bureau van de KNB, tenzij het bestuur van de ring anders beslist.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De ringvergaderingen zijn toegankelijk voor alle tot de ring behorende leden, de leden van het bestuur van de KNB, de directeur en de andere secretarissen van het bureau van de KNB alsmede voor andere personen die door het ringbestuur zijn uitgenodigd.
 
@@ -72,7 +95,7 @@ stelt de navolgende verordening vast:
 
 #### Besluitvorming
 
-#### Artikel 4
+##### Artikel 4
 
 1. In de ringvergadering heeft ieder lid één stem.
 
@@ -90,7 +113,7 @@ stelt de navolgende verordening vast:
 
 #### Verkiezing van gewone leden van de ledenraad
 
-#### Artikel 5
+##### Artikel 5
 
 1. Ten behoeve van de verkiezing door de ring van het gewone lid van de ledenraad en zijn plaatsvervanger stelt het ringbestuur een of meer kandidaten. Kandidaten kunnen ook worden gesteld door ten minste tien procent van de leden van de ring of door twintig leden van de ring.
 
@@ -120,7 +143,7 @@ stelt de navolgende verordening vast:
 
 #### Schorsing en ontslag
 
-#### Artikel 6
+##### Artikel 6
 
 1. Voor een besluit tot schorsing of ontslag bedoeld in [artikel 1 lid 5](https://wetten.overheid.nl/jci1.3:c:BWBR0011167&artikel=1&z=2000-10-01&g=2000-10-01) en [artikel 5 leden 5 en 8](https://wetten.overheid.nl/jci1.3:c:BWBR0011167&artikel=5&z=2000-10-01&g=2000-10-01) is een meerderheid vereist van ten minste twee derde van de geldig uitgebrachte stemmen in een ringvergadering waarin ten minste een derde van de leden van de ring aanwezig of vertegenwoordigd is.
 
@@ -128,7 +151,7 @@ stelt de navolgende verordening vast:
 
 #### Kascommissie
 
-#### Artikel 7
+##### Artikel 7
 
 1. De penningmeester brengt jaarlijks in de ringvergadering verslag uit van het financiële beleid.
 
@@ -138,20 +161,20 @@ stelt de navolgende verordening vast:
 
 #### Bekendmaking besluiten
 
-#### Artikel 8
+##### Artikel 8
 
 De besluiten van de ringvergadering worden zo spoedig mogelijk aan de leden van de ring bekendgemaakt hetzij door middel van een schriftelijke kennisgeving aan de leden van de ring hetzij met behulp van datacommunicatie.
 
 #### Slotbepalingen
 
-#### Artikel 9
+##### Artikel 9
 
 De [Algemene Termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) is van overeenkomstige toepassing op deze verordening.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze verordening wordt aangehaald als Verordening ringen.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze verordening treedt in werking met ingang van 1 oktober 2000 of zoveel later als de termijn van tien dagen na publicatie in de Staatscourant als bedoeld in [artikel 91 lid 2 Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=91) is verstreken.

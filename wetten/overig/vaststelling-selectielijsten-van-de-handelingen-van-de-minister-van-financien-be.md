@@ -1,13 +1,37 @@
 ---
 title: "Vaststelling selectielijsten van de handelingen van de Minister van Financiën (beleidsterrein staatsdeelnemingen en financiering bedrijfsleven)"
 identifier: "BWBR0011653"
-categorie: "Overig"
-publicatiedatum: 2000-10-28
-laatste_update: 2000-10-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011653"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2000-10-28"
+last_updated: "2000-10-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011653"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "4605273"
+version_id: "6421502"
+internal_id: "C25308821"
+label_id: "4583574"
+dtd_version: "2.0"
+original_entry_into_force: "2000-10-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011653/2000-10-28/0"
+intitule_bron: "Stcrt.2000-208"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-09-20"
+intitule_published: "2000-10-26"
+intitule_in_force: "2000-10-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2000-208"
+original_signed_date: "2000-09-20"
+original_published_date: "2000-10-26"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2000-10-28"
+jci_1_3: "jci1.3:c:BWBR0011653&z=2000-10-28&g=2000-10-28"
+jci_1_0: "1.0:c:BWBR0011653&g=2000-10-28"
+citeertitel_status: "officieel"
+signed_date: "2000-09-20"
+entry_into_force: "2000-10-28"
 ---
-
 # Vaststelling selectielijsten van de handelingen van de Minister van Financiën (beleidsterrein staatsdeelnemingen en financiering bedrijfsleven)
 
 Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
@@ -16,15 +40,15 @@ De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 29 oktober 199
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde 'selectielijst voor de neerslag van de handelingen van de Minister van Financiën en de onder hem ressorterende actoren op het beleidsterrein staatsdeelnemingen en financiering van het bedrijfsleven over de periode 1945-1995' en de daarbij behorende toelichting worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 De 'Lijst van te vernietigen archiefbescheiden van het Ministerie van Financiën, onderdeel regeling Bijzondere Financieringen 1971' (vastgesteld bij beschikking van de Minister van Welzijn, Volksgezondheid en Cultuur en de Minister van Financiën, nr. CD/A91.402 d.d. 24 juni 1991) en de 'Lijst van de te vernietigen archiefbescheiden van de, onder het Ministerie van Financiën ressorterende, Directie Financieringen, onderdeel (Wet- en regelgeving ten aanzien van) de Nederlandsche Financieringsmaatschappij voor Ontwikkelingslanden N.V.' (vastgesteld bij beschikking van de Minister van Welzijn, Volksgezondheid en Cultuur en de Minister van Financiën, nr. CD/A92.830.WH-JK/NF d.d. 21 juli 1992 (gepubliceerd in de Staatscourant nr. 42 d.d. 2 maart 1993)) worden ingetrokken.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

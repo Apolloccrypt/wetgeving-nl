@@ -1,13 +1,39 @@
 ---
-title: "Regeling uitwisseling van informatie tussen rechtshandhavingsinstanties van de lidstaten"
+title: "Regeling van de Minister van Justitie en Veiligheid, van 16 april 2025, nr. 5706233, houdende de implementatie van de Richtlijn (EU) 2023/977 van het Europees Parlement en de Raad van 10 mei 2023 betreffende de uitwisseling van informatie tussen de rechtshandhavingsinstanties van de lidstaten en tot intrekking van Kaderbesluit 2006/960/JBZ van de Raad (Regeling uitwisseling van informatie tussen rechtshandhavingsinstanties van de lidstaten)"
 identifier: "BWBR0051017"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-05-10
-laatste_update: 2025-05-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051017"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-05-10"
+last_updated: "2025-05-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051017"
+soort: "ministeriele-regeling"
+stam_id: "17424453"
+version_id: "30721782"
+internal_id: "C44030791"
+label_id: "17327614"
+dtd_version: "2.0"
+original_entry_into_force: "2025-05-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051017/2025-05-10/0"
+intitule_bron: "Stcrt.2025-14538"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-04-16"
+intitule_published: "2025-05-09"
+intitule_in_force: "2025-05-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-14538"
+original_signed_date: "2025-04-16"
+original_published_date: "2025-05-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-14538"
+entry_into_force_date: "2025-05-10"
+jci_1_3: "jci1.3:c:BWBR0051017&z=2025-05-10&g=2025-05-10"
+jci_1_0: "1.0:c:BWBR0051017&g=2025-05-10"
+citeertitel_status: "officieel"
+short_title: "Regeling uitwisseling van informatie tussen rechtshandhavingsinstanties van de lidstaten"
+signed_date: "2025-04-16"
+entry_into_force: "2025-05-10"
 ---
-
 # Regeling van de Minister van Justitie en Veiligheid, van 16 april 2025, nr. 5706233, houdende de implementatie van de Richtlijn (EU) 2023/977 van het Europees Parlement en de Raad van 10 mei 2023 betreffende de uitwisseling van informatie tussen de rechtshandhavingsinstanties van de lidstaten en tot intrekking van Kaderbesluit 2006/960/JBZ van de Raad (Regeling uitwisseling van informatie tussen rechtshandhavingsinstanties van de lidstaten)
 
 Gelet op [artikelen 23, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=23), en [42, tweede lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=42) en [artikel 44 van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=44);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -52,7 +78,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Het centraal contactpunt
 
-#### Artikel 2. Het centraal contactpunt
+##### Artikel 2. Het centraal contactpunt
 
 1. Er is een centraal contactpunt voor de coördinatie en facilitering van informatie-uitwisseling tussen Nederland en andere lidstaten.
 
@@ -86,7 +112,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 3. Verzoeken om informatie aan andere lidstaat
 
-#### Artikel 3. Objectieve redenen voor het indienen van een verzoek om informatie
+##### Artikel 3. Objectieve redenen voor het indienen van een verzoek om informatie
 
 Een verzoek om informatie wordt slechts ingediend bij het centraal contactpunt van een andere lidstaat als er objectieve redenen zijn om aan te nemen dat:
 
@@ -94,7 +120,7 @@ Een verzoek om informatie wordt slechts ingediend bij het centraal contactpunt v
 
 - b. de gevraagde informatie beschikbaar is voor de aangezochte lidstaat.
 
-#### Artikel 4. Eisen aan een verzoek om informatie
+##### Artikel 4. Eisen aan een verzoek om informatie
 
 1. Een verzoek om informatie dat wordt ingediend bij het centraal contactpunt van een andere lidstaat bevat alle gegevens die nodig zijn voor de adequate en snelle afhandeling, maar in ieder geval:
 
@@ -122,7 +148,7 @@ Een verzoek om informatie wordt slechts ingediend bij het centraal contactpunt v
 
 3. Een verzoek om informatie dat wordt ingediend bij het centraal contactpunt van een andere lidstaat wordt ingediend in het Engels of in een van de talen die is opgenomen in de lijst van de aangezochte lidstaat op grond van artikel 11 van [Richtlijn (EU) 2023/977](32023L0977).
 
-#### Artikel 5. Toezending kopie van verzoek aan het centraal contactpunt van de andere lidstaat
+##### Artikel 5. Toezending kopie van verzoek aan het centraal contactpunt van de andere lidstaat
 
 1. Wanneer het centraal contactpunt een verzoek om informatie direct indient bij een bevoegde rechtshandhavingsinstantie van een andere lidstaat, zendt het centraal contactpunt tegelijkertijd een kopie van dat verzoek aan het centraal contactpunt van die andere lidstaat.
 
@@ -136,7 +162,7 @@ Een verzoek om informatie wordt slechts ingediend bij het centraal contactpunt v
 
 ### Hoofdstuk 4. Afhandeling van verzoeken om informatie van andere lidstaat
 
-#### Artikel 6. Verstrekken van informatie
+##### Artikel 6. Verstrekken van informatie
 
 1. Het centraal contactpunt verstrekt de door het centraal contactpunt van een andere lidstaat of de aangewezen rechtshandhavingsinstanties van een andere lidstaat gevraagde informatie zo spoedig mogelijk, maar in elk geval binnen de volgende termijnen gerekend vanaf het moment van de ontvangst van het verzoek om informatie:
 
@@ -152,7 +178,7 @@ Een verzoek om informatie wordt slechts ingediend bij het centraal contactpunt v
 
 4. [Artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051017&hoofdstuk=3&artikel=5&z=2025-05-10&g=2025-05-10), is van overeenkomstige toepassing op de toezending bedoeld in het derde lid.
 
-#### Artikel 7. Weigeren van gevraagde informatie
+##### Artikel 7. Weigeren van gevraagde informatie
 
 1. Het centraal contactpunt kan de verstrekking van de door het centraal contactpunt van een andere lidstaat of de aangewezen rechtshandhavingsinstanties van een andere lidstaat gevraagde informatie slechts weigeren of gedeeltelijk weigeren, indien:
 
@@ -172,7 +198,7 @@ Een verzoek om informatie wordt slechts ingediend bij het centraal contactpunt v
 
 ### Hoofdstuk 5. Verstrekking van informatie op eigen initiatief
 
-#### Artikel 8. Verstrekking van informatie op eigen initiatief bij ernstige en andere strafbare feiten
+##### Artikel 8. Verstrekking van informatie op eigen initiatief bij ernstige en andere strafbare feiten
 
 1. Het centraal contactpunt verstrekt aan de centrale contactpunten of de bevoegde rechtshandhavingsinstanties van andere lidstaten op eigen initiatief alle beschikbare informatie, indien er objectieve redenen zijn om aan te nemen dat die informatie voor die lidstaten relevant kan zijn om ernstige strafbare feiten te voorkomen, op te sporen of te onderzoeken, tenzij er zijn objectieve redenen zijn om aan te nemen dat de verstrekking van de informatie:
 
@@ -190,17 +216,17 @@ Een verzoek om informatie wordt slechts ingediend bij het centraal contactpunt v
 
 ### Hoofdstuk 6. Verstrekking aan Europol en gebruik SIENA en casemanagementsysteem
 
-#### Artikel 9. Verstrekking van informatie aan Europol
+##### Artikel 9. Verstrekking van informatie aan Europol
 
 1. Wanneer het centraal contactpunt verzoeken om informatie verzendt of ingevolge van verzoeken van informatie of op eigen initiatief informatie verstrekt, bedoeld in [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051017&hoofdstuk=2&z=2025-05-10&g=2025-05-10), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0051017&hoofdstuk=3&z=2025-05-10&g=2025-05-10) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0051017&hoofdstuk=4&z=2025-05-10&g=2025-05-10), beoordeelt het centraal contactpunt per geval en met inachtneming van artikel 7, zevende lid, van [Verordening (EU) 2016/794](32016R0794) of het nodig is een kopie van het verzoek om informatie of van de verstrekte informatie toe te zenden aan Europol, voor zover de informatie waarop de communicatie betrekking heeft, strafbare feiten betreft die binnen de werkingssfeer van de in artikel 3 van [Verordening (EU) 2016/794](32016R0794) bepaalde doelstellingen van Europol vallen en in het geval dat de informatie oorspronkelijk is verkregen van een andere lidstaat of derde land, voor zover die andere lidstaat of dat derde land met de toezending aan Europol instemt.
 
 2. Wanneer het centraal contactpunt overeenkomstig artikel 7, zesde lid, onder a, van [Verordening (EU) 2016/794](32016R0794) een kopie van een verzoek om informatie of een kopie van informatie aan Europol toezendt, deelt het centraal contactpunt de doeleinden van de verwerking van de informatie en eventuele beperkingen van die verwerking op grond van artikel 19 van [Verordening (EU) 2016/794](32016R0794) naar behoren aan Europol mede.
 
-#### Artikel 10. Veilig communicatiekanaal SIENA
+##### Artikel 10. Veilig communicatiekanaal SIENA
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel 11. Casemanagementsysteem
+##### Artikel 11. Casemanagementsysteem
 
 1. Het centraal contactpunt gebruikt voor de uitvoering van de taken, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051017&hoofdstuk=2&artikel=2&z=2025-05-10&g=2025-05-10), een elektronisch casemanagementsysteem dat interoperabel is met de applicatie voor veilige informatie-uitwisseling van Europol, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051017&hoofdstuk=6&artikel=10&z=2025-05-10&g=2025-05-10), en statistieken over de uitwisseling van informatie genereert met het oog op evaluatie en monitoring.
 
@@ -208,11 +234,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 ### Hoofdstuk 7. Slotbepalingen
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze regeling wordt geplaatst, met uitzondering van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0051017&hoofdstuk=6&artikel=10&z=2025-05-10&g=2025-05-10), dat in werking treedt met ingang van 12 juni 2027.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling uitwisseling van informatie tussen rechtshandhavingsinstanties van de lidstaten
 

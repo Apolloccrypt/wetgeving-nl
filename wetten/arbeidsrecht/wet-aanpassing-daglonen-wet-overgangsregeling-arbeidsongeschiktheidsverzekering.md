@@ -1,14 +1,38 @@
 ---
-title: "Wet aanpassing daglonen Wet overgangsregeling arbeidsongeschiktheidsverzekering"
+title: "Wet van 6 mei 1971, tot aanpassing van de daglonen, welke aan de arbeidsongeschiktheidsuitkeringen krachtens de Wet overgangsregeling arbeidsongeschiktheidsverzekering ten grondslag liggen"
 identifier: "BWBR0002762"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2006-01-01
-laatste_update: 2006-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002762"
+country: "nl"
+rank: "wet"
+publication_date: "2006-01-01"
+last_updated: "2006-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002762"
+soort: "wet"
+stam_id: "1823173"
+version_id: "2717322"
+internal_id: "C2717321"
+label_id: "1778124"
+dtd_version: "2.0"
+original_entry_into_force: "1971-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002762/2006-01-01/0"
+intitule_bron: "Stb.1971-340"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1971-05-06"
+intitule_status: "goed"
+original_publication: "Stb.1971-340"
+original_signed_date: "1971-05-06"
+original_effect: "nieuwe-regeling"
+original_dossier: "11165"
+entry_into_force_date: "1971-07-01"
+entry_into_force_dossier: "11165"
+jci_1_3: "jci1.3:c:BWBR0002762&z=2006-01-01&g=2006-01-01"
+jci_1_0: "1.0:c:BWBR0002762&g=2006-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet aanpassing daglonen Wet overgangsregeling arbeidsongeschiktheidsverzekering"
+signed_date: "1971-05-06"
+entry_into_force: "1971-07-01"
 ---
-
-# Wet aanpassing daglonen Wet overgangsregeling arbeidsongeschiktheidsverzekering
+# Wet van 6 mei 1971, tot aanpassing van de daglonen, welke aan de arbeidsongeschiktheidsuitkeringen krachtens de Wet overgangsregeling arbeidsongeschiktheidsverzekering ten grondslag liggen
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +40,7 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is regelen vast te stel
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van deze wet en van de tot haar uitvoering genomen besluiten wordt verstaan onder:
 
@@ -24,11 +48,11 @@ Voor de toepassing van deze wet en van de tot haar uitvoering genomen besluiten 
 
 - b. arbeidsongeschiktheidsuitkering: een arbeidsongeschiktheidsuitkering toegekend krachtens de [Wet overgangsregeling arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002551).
 
-#### Artikel 2
+##### Artikel 2
 
 Ten aanzien van degene, wiens arbeidsongeschiktheidsuitkering is berekend naar een lager dagloon dan het dagloon, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002762&artikel=3&z=2006-01-01&g=2006-01-01), wordt, indien en zolang hij aanspraak heeft op die arbeidsongeschiktheidsuitkering over tijdvakken, liggende na 30 juni 1971, het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002762&artikel=3&z=2006-01-01&g=2006-01-01) bedoelde dagloon aan zijn arbeidsongeschiktheidsuitkering ten grondslag gelegd.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Met inachtneming van het bepaalde in de volgende leden wordt overeenkomstig door het Uitvoeringsinstituut werknemersverzekeringen te stellen regelen aan de arbeidsongeschiktheidsuitkering ten grondslag gelegd:
 
@@ -48,27 +72,27 @@ Ten aanzien van degene, wiens arbeidsongeschiktheidsuitkering is berekend naar e
 
 6. Bij algemene maatregel van bestuur kan het in het vijfde lid genoemde bedrag met ingang van een daarbij vast te stellen datum worden verhoogd indien de sociaal economische omstandigheden zulks naar Ons oordeel mogelijk maken.
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 1. Voor zover in deze wet of in haar uitvoeringsbesluiten daarvan niet wordt afgeweken vinden de bepalingen van de [Wet overgangsregeling arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002551) en van haar uitvoeringsbesluiten met inachtneming van de wijzigingen, welke de aard van het onderwerp vordert, overeenkomstige toepassing ten aanzien van de in deze wet en haar uitvoeringsbesluiten vervatte regeling.
 
 2. Het bepaalde in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002762&artikel=2&z=2006-01-01&g=2006-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002762&artikel=3&z=2006-01-01&g=2006-01-01) van deze wet vindt geen toepassing in de gevallen, bedoeld in [artikel 20, eerste lid, van de Wet overgangsregeling arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002551&artikel=20), behoudens het bepaalde bij en krachtens het tweede lid van dat artikel.
 
-#### Artikel 6
+##### Artikel 6
 
 Een herziening van het dagloon als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002762&artikel=3&z=2006-01-01&g=2006-01-01) vindt ambtshalve plaats.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Indien een belanghebbende zich met een door het Uitvoeringsinstituut werknemersverzekeringen op grond van het bepaalde bij en krachtens deze wet te zijnen aanzien genomen beslissing niet kan verenigen, kan hij die beslissing binnen een maand na de verzending daarvan met het verzoek om een uitspraak voorleggen aan de Commissie van Arbitrage, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002762&artikel=8&z=2006-01-01&g=2006-01-01), die een, partijen bindende, uitspraak doet.
 
 2. Ten aanzien van een beslissing als bedoeld in het vorige lid blijft het bepaalde in [Hoofdstuk VII van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&hoofdstuk=VII) buiten toepassing.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Er is een Commissie van Arbitrage, welke haar zetel heeft ten kantore van het Uitvoeringsinstituut werknemersverzekeringen.
 
@@ -88,19 +112,19 @@ Een herziening van het dagloon als bedoeld in [artikel 3](https://wetten.overhei
 
 9. Bij algemene maatregel van bestuur kunnen meer commissies als bedoeld in het eerste lid, worden ingesteld.
 
-#### Artikel 9
+##### Artikel 9
 
 De aan de uitvoering van deze wet verbonden kosten komen ten laste van het Arbeidsongeschiktheidsfonds.
 
-#### Artikel 10
+##### Artikel 10
 
 Hetgeen nog ter uitvoering van deze wet nodig is wordt door Onze Minister geregeld.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze wet kan worden aangehaald onder de titel "Wet aanpassing daglonen Wet overgangsregeling arbeidsongeschiktheidsverzekering".
 
-#### Artikel 12
+##### Artikel 12
 
 Deze wet treedt in werking met ingang van 1 juli 1971.
 

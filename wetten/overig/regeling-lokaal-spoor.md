@@ -1,13 +1,40 @@
 ---
-title: "Regeling lokaal spoor"
+title: "Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 18 mei 2015, nr. IENM/BSK2015/74417, houdende vaststelling van regels over de aanleg, het beheer, het gebruik en de veiligheid van lokale spoorwegen (Regeling lokaal spoor)"
 identifier: "BWBR0036629"
-categorie: "Overig"
-publicatiedatum: 2015-12-01
-laatste_update: 2015-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036629"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2015-12-01"
+last_updated: "2015-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036629"
+soort: "ministeriele-regeling"
+stam_id: "13157113"
+version_id: "22424942"
+internal_id: "C32177771"
+label_id: "13125854"
+dtd_version: "2.0"
+original_entry_into_force: "2015-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036629/2015-12-01/0"
+intitule_bron: "Stcrt.2015-13303"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-05-18"
+intitule_published: "2015-05-19"
+intitule_in_force: "2013-12-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-13303"
+original_signed_date: "2015-05-18"
+original_published_date: "2015-05-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-13303"
+entry_into_force_date: "2015-12-01"
+entry_into_force_dossier: "33324"
+jci_1_3: "jci1.3:c:BWBR0036629&z=2015-12-01&g=2015-12-01"
+jci_1_0: "1.0:c:BWBR0036629&g=2015-12-01"
+citeertitel_status: "officieel"
+short_title: "Regeling lokaal spoor"
+signed_date: "2015-05-18"
+entry_into_force: "2015-12-01"
 ---
-
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 18 mei 2015, nr. IENM/BSK2015/74417, houdende vaststelling van regels over de aanleg, het beheer, het gebruik en de veiligheid van lokale spoorwegen (Regeling lokaal spoor)
 
 Gelet op de [artikelen 6, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=6), [9, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=9), [19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=19), [28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=28), [32, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=32), [33, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=33), [37, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=37), [38, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=38), en [42, negende lid, van de Wet lokaal spoor](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=42).
@@ -18,7 +45,7 @@ Treedt in werking op het tijdstip waarop de hoofdstukken 2 tot en met 10 van de 
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -34,7 +61,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Tunnelveiligheid
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een risicoanalyse als bedoeld in [artikel 6, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=6), bestaat uit een kwantitatieve risicoanalyse en een scenarioanalyse. Door gedeputeerde staten onderscheidenlijk het dagelijks bestuur wordt aan de toezichthouder meegedeeld welke methodieken voor de kwantitatieve analyse en de scenarioanalyse toegepast worden.
 
@@ -70,7 +97,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 3. Indienststelling lokale spoorweginfrastructuur
 
-#### Artikel 3
+##### Artikel 3
 
 Een informatiedossier als bedoeld in [artikel 9, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=9)
 
@@ -122,7 +149,7 @@ bevat in ieder geval:
 
 ### Hoofdstuk 4. Indienststelling spoorvoertuig
 
-#### Artikel 4
+##### Artikel 4
 
 1. Om te voldoen aan [artikel 32, tweede lid, aanhef en onderdelen a tot en met d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=32), beschikt een spoorvoertuig bestemd voor het vervoer van personen in ieder geval over de volgende eigenschappen:
 
@@ -160,7 +187,7 @@ bevat in ieder geval:
 
 2. Spoorvoertuigen zonder eigen tractie die worden getrokken hoeven niet te voldoen aan het eerste lid, onderdeel e, aanhef en onder 3˚, 5˚ en 6˚.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Om te voldoen aan [artikel 32, tweede lid, onderdelen a tot en met d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=32), beschikt een historisch spoorvoertuig waarmee incidenteel vervoer wordt verricht in ieder geval over de volgende eigenschappen:
 
@@ -180,7 +207,7 @@ bevat in ieder geval:
 
 2. Historische spoorvoertuigen zonder eigen tractie die worden getrokken hoeven niet te voldoen aan het eerste lid, onderdeel c, aanhef en onder 2°, 3°, en 4°.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Om te voldoen aan [artikel 32, tweede lid, onderdelen a tot en met d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=32), beschikt een spoorvoertuig niet bestemd voor het vervoer van personen, in ieder geval over de volgende eigenschappen:
 
@@ -200,7 +227,7 @@ bevat in ieder geval:
 
 2. Spoorvoertuigen niet bestemd voor het vervoer van personen zonder eigen tractiehoeven niet te voldoen aan het eerste lid, onderdeel c.
 
-#### Artikel 7
+##### Artikel 7
 
 Een informatiedossier als bedoeld in [artikel 32, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=32) bevat in ieder geval:
 
@@ -224,13 +251,13 @@ Een informatiedossier als bedoeld in [artikel 32, vierde lid, van de wet](https:
 
 - 2°. indien het een spoorvoertuig betreft bestemd voor het vervoer van goederen, de uitvoering van de laadruimte.
 
-#### Artikel 8
+##### Artikel 8
 
 Een informatiedossier als bedoeld in [artikel 33, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=33) bevat in ieder geval een constructietekening van de wijziging.
 
 ### Hoofdstuk 5. Veiligheidsbeheersysteem
 
-#### Artikel 9
+##### Artikel 9
 
 In het veiligheidsbeheersysteem, bedoeld in [artikel 19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=19), zijn in ieder geval opgenomen:
 
@@ -244,7 +271,7 @@ In het veiligheidsbeheersysteem, bedoeld in [artikel 19 van de wet](https://wett
 
 - e. een beschrijving van de seinen, verkeersregels en verkeerstekens die gelden voor het spoorverkeer op de lokale spoorweg.
 
-#### Artikel 10
+##### Artikel 10
 
 In het veiligheidsbeheersysteem, bedoeld in [artikel 28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=28), zijn in ieder geval opgenomen:
 
@@ -256,7 +283,7 @@ In het veiligheidsbeheersysteem, bedoeld in [artikel 28 van de wet](https://wett
 
 ### Hoofdstuk 6. Personeel
 
-#### Artikel 11
+##### Artikel 11
 
 1. Gedeputeerde staten onderscheidenlijk het dagelijks bestuur stellen, ten behoeve van het onderzoek, bedoeld in [artikel 37, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=37), eisen van medische en psychologische geschiktheid vast.
 
@@ -264,7 +291,7 @@ In het veiligheidsbeheersysteem, bedoeld in [artikel 28 van de wet](https://wett
 
 3. Het onderzoek vindt plaats volgens een door gedeputeerde staten onderscheidenlijk dagelijks bestuur goedgekeurd keuringsprotocol.
 
-#### Artikel 12
+##### Artikel 12
 
 Een bedrijfspas als bedoeld in [artikel 38 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=38) is in ieder geval voorzien van:
 
@@ -282,11 +309,11 @@ Een bedrijfspas als bedoeld in [artikel 38 van de wet](https://wetten.overheid.n
 
 ### Hoofdstuk 7. Slotbepalingen
 
-#### Artikel 13
+##### Artikel 13
 
 Deze regeling treedt in werking op het tijdstip waarop de [hoofdstukken 2 tot en met 10 van de Wet lokaal spoor](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2) in werking treden.
 
-#### Artikel 14
+##### Artikel 14
 
 Deze regeling wordt aangehaald als: Regeling lokaal spoor.
 

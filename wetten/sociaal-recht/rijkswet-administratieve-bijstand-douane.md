@@ -1,13 +1,40 @@
 ---
-title: "Rijkswet administratieve bijstand douane"
+title: "Rijkswet van 1 juli 1999, houdende regels inzake de administratieve bijstand tussen de landen van het Koninkrijk op het gebied van de douane en inzake de heffing en de invordering van accijnzen, omzetbelasting, algemene bestedingsbelasting en belasting op bedrijfsomzetten (Rijkswet administratieve bijstand douane)"
 identifier: "BWBR0010576"
-categorie: "Sociaal recht"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010576"
+country: "nl"
+rank: "rijkswet"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010576"
+soort: "rijkswet"
+stam_id: "1116123"
+version_id: "1649612"
+internal_id: "C1649611"
+label_id: "1082114"
+dtd_version: "2.0"
+original_entry_into_force: "2000-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010576/2010-10-10/0"
+intitule_bron: "Stb.1999-299"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-07-01"
+intitule_published: "1999-07-20"
+intitule_in_force: "1999-11-30"
+intitule_status: "goed"
+original_publication: "Stb.1999-299"
+original_signed_date: "1999-07-01"
+original_published_date: "1999-07-20"
+original_effect: "nieuwe-regeling"
+original_dossier: "25948"
+original_url_id: "stb-1999-299"
+entry_into_force_date: "2000-01-01"
+jci_1_3: "jci1.3:c:BWBR0010576&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0010576&g=2010-10-10"
+citeertitel_status: "officieel"
+short_title: "Rijkswet administratieve bijstand douane"
+signed_date: "1999-07-01"
+entry_into_force: "2000-01-01"
 ---
-
 # Rijkswet van 1 juli 1999, houdende regels inzake de administratieve bijstand tussen de landen van het Koninkrijk op het gebied van de douane en inzake de heffing en de invordering van accijnzen, omzetbelasting, algemene bestedingsbelasting en belasting op bedrijfsomzetten (Rijkswet administratieve bijstand douane)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 ### Hoofdstuk 1. Inleidende bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze rijkswet wordt verstaan onder:
 
@@ -42,7 +69,7 @@ In deze rijkswet wordt verstaan onder:
 
 - j. persoonsregistratie: een samenhangende verzameling van op verschillende personen betrekking hebbende persoonsgegevens, die langs geautomatiseerde weg wordt gevoerd of met het oog op een doeltreffende raadpleging van die gegevens systematisch is aangelegd.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De douane-administraties verlenen elkaar administratieve bijstand onder de in deze rijkswet genoemde voorwaarden teneinde een juiste toepassing van de douanewetgeving en een juiste invordering van douanevorderingen te verzekeren, alsmede inbreuken te voorkomen, op te sporen en te bestrijden.
 
@@ -50,7 +77,7 @@ In deze rijkswet wordt verstaan onder:
 
 ### Hoofdstuk 2. Verstrekking en gebruik van informatie
 
-#### Artikel 3
+##### Artikel 3
 
 1. Informatie die in het kader van deze rijkswet wordt ontvangen wordt slechts gebruikt voor de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010576&hoofdstuk=1&artikel=2&z=2010-10-10&g=2010-10-10), genoemde doeleinden en mag slechts worden overgedragen aan andere douane-autoriteiten van het ontvangende land.
 
@@ -62,11 +89,11 @@ In deze rijkswet wordt verstaan onder:
 
 ### Hoofdstuk 3. Bescherming van persoonsgegevens
 
-#### Artikel 4
+##### Artikel 4
 
 Dit hoofdstuk is slechts van toepassing in Aruba, Curaçao en Sint Maarten. Het geldt tot het tijdstip waarop in Aruba, Curaçao, onderscheidenlijk Sint Maarten, een landsverordening in werking treedt waarbij algemene, onderscheidenlijk nadere, regels worden gesteld ter bescherming van de persoonlijke levenssfeer in verband met persoonsgegevens.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Onverminderd [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010576&hoofdstuk=2&artikel=3&z=2010-10-10&g=2010-10-10) mogen voor de toepassing van deze rijkswet de in een persoonsregistratie opgenomen persoonsgegevens slechts worden gebruikt voorzover die gegevens:
 
@@ -108,7 +135,7 @@ Dit hoofdstuk is slechts van toepassing in Aruba, Curaçao en Sint Maarten. Het 
 
 8. De douane-administratie draagt er zorg voor dat een beslissing tot verbetering, aanvulling of verwijdering zo spoedig mogelijk wordt uitgevoerd.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De Minister van Financiën van Aruba, Curaçao onderscheidenlijk Sint Maarten, stelt voor een persoonsregistratie als bedoeld in dit hoofdstuk een reglement vast.
 
@@ -134,7 +161,7 @@ Dit hoofdstuk is slechts van toepassing in Aruba, Curaçao en Sint Maarten. Het 
 
 ### Hoofdstuk 4. Uitwisseling van informatie
 
-#### Artikel 7
+##### Artikel 7
 
 1. De douane-administraties verstrekken elkaar, op verzoek of uit eigen beweging, informatie om het bereiken van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010576&hoofdstuk=1&artikel=2&z=2010-10-10&g=2010-10-10), genoemde doeleinden te bevorderen.
 
@@ -142,7 +169,7 @@ Dit hoofdstuk is slechts van toepassing in Aruba, Curaçao en Sint Maarten. Het 
 
 3. Indien aan het verzoek kan worden voldaan op grond van een andere wettelijke regeling inzake samenwerking tussen de landen, geeft de aangezochte douane-administratie aan welke andere autoriteiten daarbij betrokken zijn.
 
-#### Artikel 8
+##### Artikel 8
 
 Op verzoek verstrekt de aangezochte douane-administratie in het bijzonder de volgende informatie:
 
@@ -152,13 +179,13 @@ Op verzoek verstrekt de aangezochte douane-administratie in het bijzonder de vol
 
 - c. of goederen een bepaalde herkomst of oorsprong hebben.
 
-#### Artikel 9
+##### Artikel 9
 
 De douane-administratie verstrekt, op verzoek of uit eigen beweging, de douane-administratie van een ander land van het Koninkrijk verslagen, bewijsmiddelen, gewaarmerkte afschriften van documenten of andere gegevensdragers die informatie bevatten over gedragingen die een inbreuk behelzen of kunnen behelzen.
 
 ### Hoofdstuk 5. Bijzonder toezicht
 
-#### Artikel 10
+##### Artikel 10
 
 Op verzoek oefent de aangezochte douane-administratie bijzonder toezicht uit op:
 
@@ -172,7 +199,7 @@ Op verzoek oefent de aangezochte douane-administratie bijzonder toezicht uit op:
 
 ### Hoofdstuk 6. Aanwezigheid van ambtenaren op het grondgebied van een ander land van het Koninkrijk
 
-#### Artikel 11
+##### Artikel 11
 
 1. Op verzoek kunnen ambtenaren die daartoe door de verzoekende douane-administratie speciaal zijn aangewezen, met toestemming van de aangezochte douane-administratie en onder door deze te stellen voorwaarden, ten behoeve van een onderzoek naar een inbreuk:
 
@@ -186,13 +213,13 @@ Op verzoek oefent de aangezochte douane-administratie bijzonder toezicht uit op:
 
 2. Tijdens hun verblijf op het grondgebied van een ander land van het Koninkrijk dienen de in het eerste lid bedoelde ambtenaren zich te allen tijde te kunnen legitimeren.Tijdens hun optreden ingevolge het eerste lid staan zij onder gezag van de aangezochte douane-administratie. Zij worden wat betreft de toepasselijkheid van de strafwet terzake van strafbare feiten tegen het openbaar gezag gelijk gesteld met ambtenaren van het land waar zij ingevolge dit artikel aanwezig zijn.
 
-#### Artikel 12
+##### Artikel 12
 
 Op verzoek stelt de aangezochte douane-administratie haar ambtenaren in de gelegenheid om als deskundige of getuige te verschijnen voor een gerecht van een ander land van het Koninkrijk.
 
 ### Hoofdstuk 7. Bijzondere invorderingsbepalingen
 
-#### Artikel 13
+##### Artikel 13
 
 1. Een verzoek om bijstand ter daadwerkelijke invordering van douanevorderingen gaat vergezeld van:
 
@@ -214,7 +241,7 @@ Op verzoek stelt de aangezochte douane-administratie haar ambtenaren in de geleg
 
 ### Hoofdstuk 8. Kosten
 
-#### Artikel 14
+##### Artikel 14
 
 1. De douane-administraties brengen elkaar voor verleende bijstand geen kosten in rekening, met uitzondering van de kosten en honoraria betaald aan deskundigen en getuigen, alsmede de kosten van tolken en vertalers die niet in overheidsdienst zijn, welke kosten en honoraria zullen worden betaald door de verzoekende douane-administratie.
 
@@ -224,7 +251,7 @@ Op verzoek stelt de aangezochte douane-administratie haar ambtenaren in de geleg
 
 ### Hoofdstuk 9. Verzoeken
 
-#### Artikel 15
+##### Artikel 15
 
 1. Bijstand op grond van deze rijkswet wordt rechtstreeks tussen de douane-administraties verleend.
 
@@ -240,7 +267,7 @@ Op verzoek stelt de aangezochte douane-administratie haar ambtenaren in de geleg
 
 - d. de namen en adressen van de betrokken personen, voorzover deze bekend zijn.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De douane-administratie van een land kan weigeren gevolg te geven aan een verzoek om bijstand op grond van deze rijkswet indien door het verlenen van de gevraagde bijstand een industrieel geheim, een handelsgeheim of een beroepsgeheim zou worden geschonden.
 
@@ -250,7 +277,7 @@ Op verzoek stelt de aangezochte douane-administratie haar ambtenaren in de geleg
 
 ### Hoofdstuk 10. Slotbepalingen
 
-#### Artikel 17
+##### Artikel 17
 
 1. Na overleg tussen de Ministers van Financiën van de landen, worden bij ministeriële regeling nadere regels gesteld voor de toepassing van deze rijkswet.
 
@@ -260,11 +287,11 @@ Op verzoek stelt de aangezochte douane-administratie haar ambtenaren in de geleg
 
 - b. de wetten, landsverordeningen en andere regelingen waarin aan de douane-administraties van de onderscheiden landen controle- en opsporingstaken zijn opgedragen.
 
-#### Artikel 18
+##### Artikel 18
 
 Deze rijkswet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 19
+##### Artikel 19
 
 Deze rijkswet wordt aangehaald als: Rijkswet administratieve bijstand douane.
 

@@ -1,28 +1,54 @@
 ---
-title: "Regeling vaststelling subsidieplafond sanering verkeerslawaai 2006 en criteria subsidieverlening"
+title: "Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 1 december 2005, LMV 2005 208198, houdende vaststelling van het subsidieplafond sanering verkeerslawaai 2006 en criteria voor subsidieverlening"
 identifier: "BWBR0019134"
-categorie: "Verkeer"
-publicatiedatum: 2006-07-20
-laatste_update: 2006-07-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019134"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2006-07-20"
+last_updated: "2006-07-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019134"
+soort: "ministeriele-regeling"
+stam_id: "7656803"
+version_id: "12548632"
+internal_id: "C16856161"
+label_id: "7644534"
+dtd_version: "2.0"
+original_entry_into_force: "2006-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019134/2006-07-20/0"
+intitule_bron: "Stcrt.2005-240"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-12-01"
+intitule_published: "2005-12-09"
+intitule_in_force: "2005-12-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-240"
+original_signed_date: "2005-12-01"
+original_published_date: "2005-12-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2005-240-p19-SC72639"
+entry_into_force_date: "2006-01-01"
+jci_1_3: "jci1.3:c:BWBR0019134&z=2006-07-20&g=2006-07-20"
+jci_1_0: "1.0:c:BWBR0019134&g=2006-07-20"
+citeertitel_status: "redactioneel"
+short_title: "Regeling vaststelling subsidieplafond sanering verkeerslawaai 2006 en criteria subsidieverlening"
+signed_date: "2005-12-01"
+entry_into_force: "2006-01-01"
 ---
-
 # Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 1 december 2005, LMV 2005 208198, houdende vaststelling van het subsidieplafond sanering verkeerslawaai 2006 en criteria voor subsidieverlening
 
 Gelet op [artikel 15.13, eerste, tweede en derde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.13) en [artikelen 12, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&artikel=12), [13, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&artikel=13), en [16, derde en vierde lid, van het Subsidiebesluit openbare lichamen milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&artikel=16);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Het tijdvak voor de subsidieverstrekking als bedoeld in deze regeling wordt vastgesteld voor de periode van 1 januari 2006 tot en met 31 december 2006.
 
-#### Artikel 2
+##### Artikel 2
 
 Het subsidieplafond voor het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019134&artikel=1&z=2006-07-20&g=2006-07-20) vastgestelde tijdvak ten behoeve van de sanering van verkeerslawaai als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019134&artikel=3&z=2006-07-20&g=2006-07-20) wordt vastgesteld op: € 22 911 000,00.
 
-#### Artikel 3
+##### Artikel 3
 
 1. In het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019134&artikel=1&z=2006-07-20&g=2006-07-20) genoemde tijdvak komen voor subsidie als bedoeld in [hoofdstuk 2, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&afdeling=2), en [afdeling 3, paragrafen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&paragraaf=3.1), [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&paragraaf=3.3), [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&paragraaf=3.4) en [3.5, van het Subsidiebesluit openbare lichamen milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&paragraaf=3.5) in aanmerking:
 
@@ -58,7 +84,7 @@ Het subsidieplafond voor het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:
 
 - c. vervolgens projecten als bedoeld in het tweede lid, onder b, in aanmerking komen.
 
-#### Artikel 4
+##### Artikel 4
 
 De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer kan van [artikel 3, tweede lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0019134&artikel=3&z=2006-07-20&g=2006-07-20), afwijken, indien:
 
@@ -70,11 +96,11 @@ De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer kan van [
 
 - d. toepassing wordt gegeven aan [artikel 99a van de Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=99a).
 
-#### Artikel 5
+##### Artikel 5
 
 Aanvragen als bedoeld in [artikel 3, eerste lid, onder d, e, f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0019134&artikel=3&z=2006-07-20&g=2006-07-20), worden voor 1 februari 2006 ingediend bij de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, p/a Bureau Sanering Verkeerslawaai, Postbus 97, 3440 AB Woerden.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling treedt in werking met ingang van 1 januari 2006.
 

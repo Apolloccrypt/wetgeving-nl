@@ -1,18 +1,40 @@
 ---
 title: "Huishoudelijk reglement van het Nederlands Fonds voor de Film"
 identifier: "BWBR0047487"
-categorie: "Overig"
-publicatiedatum: 2022-11-19
-laatste_update: 2022-11-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047487"
+country: "nl"
+rank: "zbo"
+publication_date: "2022-11-19"
+last_updated: "2022-11-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047487"
+soort: "zbo"
+stam_id: "16568083"
+version_id: "29045782"
+internal_id: "C41165291"
+label_id: "16488034"
+dtd_version: "2.0"
+original_entry_into_force: "2022-11-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047487/2022-11-19/0"
+intitule_bron: "Stcrt.2022-31005"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2022-11-18"
+intitule_in_force: "2022-11-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-31005"
+original_published_date: "2022-11-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-31005"
+entry_into_force_date: "2022-11-19"
+jci_1_3: "jci1.3:c:BWBR0047487&z=2022-11-19&g=2022-11-19"
+jci_1_0: "1.0:c:BWBR0047487&g=2022-11-19"
+citeertitel_status: "officieel"
+entry_into_force: "2022-11-19"
 ---
-
 # Huishoudelijk reglement van het Nederlands Fonds voor de Film
 
 Ter uitwerking van de statuten d.d. 22 september 2022 van de Stichting Nederlands Fonds voor de Film (hierna te noemen: ‘het Fonds’) geldt het volgende.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit reglement wordt verstaan onder:
 
@@ -36,7 +58,7 @@ In dit reglement wordt verstaan onder:
 
 - j. **Wet:** De [Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904) van 11 maart 1993, Stb, 1993, 193 in werking getreden 16 april 1993.
 
-#### Artikel 2. Inrichting van de organisatie
+##### Artikel 2. Inrichting van de organisatie
 
 Het Fonds kent:
 
@@ -52,7 +74,7 @@ Het Fonds kent:
 
 - f. een bezwaarcommissie
 
-#### Artikel 3. Het Bestuur
+##### Artikel 3. Het Bestuur
 
 1. Het Fonds wordt bestuurd door het Bestuur, bestaande uit een door de raad van toezicht vast te stellen aantal van tenminste één en ten hoogste twee natuurlijke personen.
 
@@ -78,7 +100,7 @@ Het Fonds kent:
 
 12. De functie van lid van het Bestuur is, behoudens ontheffing door de Raad van toezicht, onverenigbaar met de functie van directeur dan wel bestuurder of het lidmaatschap van een Raad van toezicht van instellingen in de filmwereld, met uitzondering van die functies die het lid van het bestuur qualitate qua bekleedt.
 
-#### Artikel 4. Raad van Toezicht
+##### Artikel 4. Raad van Toezicht
 
 1. Een lid van de Raad van toezicht wordt door de Minister benoemd voor een periode van vier jaar met één mogelijkheid tot verlenging met nog eens vier jaar.
 
@@ -98,7 +120,7 @@ Het Fonds kent:
 
 9. Leden van de Raad van toezicht kunnen, behoudens ontheffing door de Minister, geen directeur of bestuurder zijn van of het lidmaatschap van een toezichthoudend orgaan bekleden van een instelling die eenzelfde of een gelijksoortig doel heeft als het Fonds.
 
-#### Artikel 5. Fondsbureau
+##### Artikel 5. Fondsbureau
 
 1. Het fondsbureau bestaat uit een zakelijk directeur, hoofden, (project)managers en overige medewerkers van het Fonds.
 
@@ -124,7 +146,7 @@ Het Fonds kent:
 
 7. De zakelijk directeur is verantwoordelijk voor het financieel-zakelijk beleid en de bedrijfsvoering. Bij tijdelijke afwezigheid van het Bestuur neemt de zakelijk directeur waar.
 
-#### Artikel 6. Filmconsulenten
+##### Artikel 6. Filmconsulenten
 
 1. Filmconsulenten worden door het Bestuur aangesteld als adviseur voor een periode van ten hoogste vijf jaar, met de mogelijkheid tot een beperkte verlenging in het kader van overdracht aan een opvolger. Hiermee wordt voorkomen dat de betreffende filmconsulent een te grote invloed heeft, dan wel krijgt, op de in Nederland te produceren films. Dit beleid is door de Minister goedgekeurd.
 
@@ -142,7 +164,7 @@ Het Fonds kent:
 
 4. Het Bestuur kan nadere regels stellen inzake de taak en werkwijze van filmconsulenten.
 
-#### Artikel 7. (Ad hoc) adviseurs
+##### Artikel 7. (Ad hoc) adviseurs
 
 1. Het Bestuur kan (ad hoc) adviseurs benoemen op grond van hun specifieke kennis en ervaring.
 
@@ -160,7 +182,7 @@ Het Fonds kent:
 
 8. Indien er bij de beoordeling van filmplannen kwesties aan de orde komen, waarbij een (ad hoc) benoemde adviseur een middellijk of onmiddellijk eigen belang heeft, of kan hebben, doet deze hier onmiddellijk mededeling van bij het Bestuur. De (ad hoc) benoemde adviseur onthoudt zich van de voorbereiding en totstandkoming van het advies over de betrokken filmplannen.
 
-#### Artikel 8. Integriteit
+##### Artikel 8. Integriteit
 
 1. Werknemers van het Fonds vervullen geen nevenfuncties die strijdig zijn of kunnen zijn met het belang van het Fonds.
 
@@ -184,7 +206,7 @@ medewerker een middellijk of onmiddellijk eigen belang heeft of kan hebben doet 
 
 10. Het Fonds onderschrijft de Gedragscode Cultuurfondsen.
 
-#### Artikel 9. Beoordeling subsidieaanvragen
+##### Artikel 9. Beoordeling subsidieaanvragen
 
 1. Het Bestuur besluit over bij het Fonds ingediende subsidieaanvragen met inachtneming van het bepaalde in de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537), het [Algemeen Reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0044475) en de hierop gebaseerde Deelreglementen.
 
@@ -202,7 +224,7 @@ medewerker een middellijk of onmiddellijk eigen belang heeft of kan hebben doet 
 
 5. Een overzicht van de gehonoreerde subsidieaanvragen wordt geplaatst op de website van het Fonds.
 
-#### Artikel 10. Bezwaarcommissie
+##### Artikel 10. Bezwaarcommissie
 
 1. Bezwaarschriften kunnen worden behandeld door een door het Bestuur in te stellen Bezwaarcommissie.
 
@@ -222,7 +244,7 @@ medewerker een middellijk of onmiddellijk eigen belang heeft of kan hebben doet 
 
 9. Het Bestuur kan een reglement omtrent de werkwijze van de Bezwaarcommissie vaststellen.
 
-#### Artikel 11. Slotbepaling
+##### Artikel 11. Slotbepaling
 
 1. Bij onverenigbaarheid of strijd van enige bepaling van dit Reglement of uiting daarvan met een bepaling uit de [Statuten](https://wetten.overheid.nl/jci1.3:c:BWBR0037025), zullen de Statuten prevaleren.
 

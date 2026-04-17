@@ -1,13 +1,39 @@
 ---
-title: "Besluit vaststelling bestanddelen zilveren vijf-euromunt en gouden tien-euromunt ter gelegenheid van 200 jaar Belastingdienst"
+title: "Besluit van 4 november 2006, houdende vaststelling van de bestanddelen van de zilveren vijf-euromunt en de gouden tien-euromunt die in 2006 wordt uitgegeven ter gelegenheid van 200 jaar Belastingdienst"
 identifier: "BWBR0020499"
-categorie: "Belastingrecht"
-publicatiedatum: 2006-11-15
-laatste_update: 2006-11-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020499"
+country: "nl"
+rank: "kb"
+publication_date: "2006-11-15"
+last_updated: "2006-11-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020499"
+soort: "KB"
+stam_id: "8716313"
+version_id: "13755862"
+internal_id: "C23632491"
+label_id: "8696384"
+dtd_version: "2.0"
+original_entry_into_force: "2006-11-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020499/2006-11-15/0"
+intitule_bron: "Stb.2006-553"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-11-04"
+intitule_published: "2006-11-14"
+intitule_in_force: "2006-11-14"
+intitule_status: "goed"
+original_publication: "Stb.2006-553"
+original_signed_date: "2006-11-04"
+original_published_date: "2006-11-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2006-553"
+entry_into_force_date: "2006-11-15"
+jci_1_3: "jci1.3:c:BWBR0020499&z=2006-11-15&g=2006-11-15"
+jci_1_0: "1.0:c:BWBR0020499&g=2006-11-15"
+citeertitel_status: "redactioneel"
+short_title: "Besluit vaststelling bestanddelen zilveren vijf-euromunt en gouden tien-euromunt ter gelegenheid van 200 jaar Belastingdienst"
+signed_date: "2006-11-04"
+entry_into_force: "2006-11-15"
 ---
-
 # Besluit van 4 november 2006, houdende vaststelling van de bestanddelen van de zilveren vijf-euromunt en de gouden tien-euromunt die in 2006 wordt uitgegeven ter gelegenheid van 200 jaar Belastingdienst
 
 Op voordracht van Onze Minister van Financiën van 1 november 2006, FM 2006-2572 M, Generale Thesaurie, Directie Financiële Markten, Afdeling Algemeen en internationaal;
@@ -18,7 +44,7 @@ Hebben goedgevonden en verstaan:
 
 Besluit ook gepubliceerd in Stcrt. 2006/222.
 
-#### Artikel 1
+##### Artikel 1
 
 1. De voorzijde van de zilveren vijf-euromunt en de gouden tien-euromunt die in 2006 worden uitgegeven ter gelegenheid van 200 jaar Belastingdienst is:
 
@@ -30,7 +56,7 @@ Besluit ook gepubliceerd in Stcrt. 2006/222.
 
 3. De tien-euromunt heeft een fijngeribbelde rand.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de dag na de datum van het Staatsblad waarin het wordt geplaatst.
 

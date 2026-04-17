@@ -1,13 +1,39 @@
 ---
-title: "Besluit beschikbaarheidbijdrage WMG"
+title: "Besluit van 24 augustus 2012, houdende aanwijzing van de vormen van zorg die in aanmerking kunnen komen voor een beschikbaarheidbijdrage op grond van de Wet marktordening gezondheidszorg en enkele wijzigingen in het Besluit uitbreiding en beperking werkingssfeer WMG (Besluit beschikbaarheidbijdrage WMG)"
 identifier: "BWBR0031971"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031971"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031971"
+soort: "AMvB"
+stam_id: "11839963"
+version_id: "19632112"
+internal_id: "C27667581"
+label_id: "11812124"
+dtd_version: "2.0"
+original_entry_into_force: "2012-10-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031971/2025-01-01/0"
+intitule_bron: "Stb.2012-396"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-08-24"
+intitule_published: "2012-09-13"
+intitule_in_force: "2012-10-23"
+intitule_status: "goed"
+original_publication: "Stb.2012-396"
+original_signed_date: "2012-08-24"
+original_published_date: "2012-09-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2012-396"
+entry_into_force_date: "2012-10-24"
+jci_1_3: "jci1.3:c:BWBR0031971&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0031971&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit beschikbaarheidbijdrage WMG"
+signed_date: "2012-08-24"
+entry_into_force: "2012-10-24"
 ---
-
 # Besluit van 24 augustus 2012, houdende aanwijzing van de vormen van zorg die in aanmerking kunnen komen voor een beschikbaarheidbijdrage op grond van de Wet marktordening gezondheidszorg en enkele wijzigingen in het Besluit uitbreiding en beperking werkingssfeer WMG (Besluit beschikbaarheidbijdrage WMG)
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 7 mei 2012, kenmerk MC-U-3115170;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -32,13 +58,13 @@ In dit besluit wordt verstaan onder:
 
 - d. **beschikbaarheidbijdrage:** bijdrage, bedoeld in [artikel 56a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=56a).
 
-#### Artikel 2
+##### Artikel 2
 
 1. De zorgautoriteit kan een zorgaanbieder een beschikbaarheidbijdrage toekennen voor het beschikbaar hebben van vormen van zorg omschreven in de bijlage behorend bij dit besluit.
 
 2. Een beschikbaarheidbijdrage die een opleiding betreft als bedoeld in onderdeel B, onder 1, van de bijlage behorende bij dit besluit wordt ten hoogste toegekend voor het in onderdeel D voor die opleiding in het kalenderjaar bij de genoemde zorgaanbieder vermelde aantal instromende fulltime-equivalenten of opleidingsplaatsen.
 
-#### Artikel 3
+##### Artikel 3
 
 De zorgautoriteit kan de beschikbaarheidbijdrage toekennen in de vorm van:
 
@@ -54,31 +80,31 @@ De zorgautoriteit kan de beschikbaarheidbijdrage toekennen in de vorm van:
 
 - f. steun anders dan bedoeld in de onderdelen a tot en met e.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De zorgautoriteit neemt een besluit tot toekenning van een beschikbaarheidbijdrage voor vormen van zorg als omschreven in onderdeel A van de bijlage bij dit besluit, niet dan nadat Onze Minister daarvoor een verklaring van geen bezwaar heeft afgegeven.
 
 2. Onze Minister kan een verklaring van geen bezwaar slechts onthouden op grond van strijd met het recht of het algemeen belang.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Onze Minister kan een zorgaanbieder aanwijzen die, onder daartoe door Onze Minister te stellen voorwaarden, voorschriften of beperkingen, belast is met het beschikbaar hebben van een daarbij aangegeven vorm van zorg als omschreven in onderdeel A van de bijlage bij dit besluit.
 
 2. De zorgautoriteit kan een zorgaanbieder aanwijzen die, onder daartoe door de zorgautoriteit te stellen voorwaarden, voorschriften of beperkingen, belast is met het beschikbaar hebben van een daarbij aangegeven vorm van zorg als omschreven in onderdeel B van de bijlage bij dit besluit.
 
-#### Artikel 6
+##### Artikel 6
 
 Wijzigt het Besluit uitbreiding en beperking werkingssfeer WMG.
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen en onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit beschikbaarheidbijdrage WMG.
 

@@ -1,13 +1,39 @@
 ---
-title: "Subsidieregeling sterk techniekonderwijs 2025–2028"
+title: "Regeling van de Minister voor Primair en Voortgezet Onderwijs van 27 maart 2024, nr. OVO/43595480, houdende regels voor de subsidieverstrekking voor techniekonderwijs in het vmbo (Subsidieregeling sterk techniekonderwijs 2025–2028)"
 identifier: "BWBR0049520"
-categorie: "Onderwijs"
-publicatiedatum: 2024-04-03
-laatste_update: 2024-04-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049520"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-04-03"
+last_updated: "2024-04-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049520"
+soort: "ministeriele-regeling"
+stam_id: "17062733"
+version_id: "30025612"
+internal_id: "C43038311"
+label_id: "16971744"
+dtd_version: "2.0"
+original_entry_into_force: "2024-04-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049520/2024-04-03/0"
+intitule_bron: "Stcrt.2024-11193"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-03-27"
+intitule_published: "2024-04-02"
+intitule_in_force: "2024-04-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-11193"
+original_signed_date: "2024-03-27"
+original_published_date: "2024-04-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-11193"
+entry_into_force_date: "2024-04-03"
+jci_1_3: "jci1.3:c:BWBR0049520&z=2024-04-03&g=2024-04-03"
+jci_1_0: "1.0:c:BWBR0049520&g=2024-04-03"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling sterk techniekonderwijs 2025–2028"
+signed_date: "2024-03-27"
+entry_into_force: "2024-04-03"
 ---
-
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 27 maart 2024, nr. OVO/43595480, houdende regels voor de subsidieverstrekking voor techniekonderwijs in het vmbo (Subsidieregeling sterk techniekonderwijs 2025–2028)
 
 Gelet op [artikel 5.11 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.11), de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4) en [5 van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=5) en de [artikelen 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3) en [2.1 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=2.1);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1. Begripsbepalingen
+##### Artikel 1.1. Begripsbepalingen
 
 - **basisschool:** basisschool als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1);
 
@@ -86,11 +112,11 @@ Besluit:
 
 - **WVO 2020:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
-#### Artikel 1.2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 1.2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
-#### Artikel 1.3. Te subsidiëren activiteiten
+##### Artikel 1.3. Te subsidiëren activiteiten
 
 1. De minister kan voor de kalenderjaren 2025 tot en met 2028 subsidie verstrekken aan een penvoerder van een techniekregio of een techniekluwe regio om in regioverband vorm te geven aan toekomstbestendig, dekkend en kwalitatief hoogstaand techniekonderwijs binnen het beroepsgericht vmbo waarbij wordt gestimuleerd en gefaciliteerd dat alle leerlingen in het vmbo in aanraking komen met techniek.
 
@@ -106,13 +132,13 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 3. In afwijking van de [artikelen 3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.2), en [4.3, eerste lid, van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=4.3) zijn voor gewijzigde aanvragen als bedoeld in [artikel 1.9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=1&artikel=1.9&z=2024-04-03&g=2024-04-03), ook de kosten subsidiabel die vanaf 1 januari 2025 vooruitlopend op de subsidieverlening zijn gemaakt ten aanzien van de uitvoering van het activiteitenplan.
 
-#### Artikel 1.4. Cofinanciering
+##### Artikel 1.4. Cofinanciering
 
 1. Voor subsidieverstrekking op grond van deze regeling geldt als voorwaarde dat er sprake is van cofinanciering door een of meerdere bedrijven van ten minste 10% van het subsidiabele deel van de totale meerjarenbegroting van het project. De cofinanciering is in geld, of in geld waardeerbaar.
 
 2. De penvoerder staat garant voor de cofinanciering.
 
-#### Artikel 1.5. Penvoerderschap
+##### Artikel 1.5. Penvoerderschap
 
 1. Het bevoegd gezag van één van de vmbo-vestigingen van een school als bedoeld in [artikel 1.1 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1) die deel uitmaakt van de regio die één of meer beroepsgerichte techniekprofielen aanbiedt, treedt namens de partijen in de samenwerkingsovereenkomst in een techniekregio op als penvoerder.
 
@@ -122,7 +148,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 4. Bij de aanvraag wordt een door alle partijen in het samenwerkingsverband getekende verklaring gevoegd waarin zij verklaren dat de penvoerder gemachtigd is om hen in het kader van de subsidieverstrekking in en buiten rechte te vertegenwoordigen, en dat alle gegevens die noodzakelijk zijn voor de verantwoording door de penvoerder over de besteding van de subsidie, op verzoek aan de penvoerder worden verstrekt.
 
-#### Artikel 1.6. Subsidieaanvraag
+##### Artikel 1.6. Subsidieaanvraag
 
 1. Voor de subsidieaanvraag wordt gebruik gemaakt van het aanvraagformulier dat is bekend gemaakt op de website [www.dus-i.nl](http://www.dus-i.nl).
 
@@ -154,13 +180,13 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 4. De subsidieaanvraag kan worden ingediend van 1 september 2024 09:00 uur tot en met 1 oktober 2024, 16:00 uur. Aanvragen ingediend na 1 oktober 2024, 16:00 uur, worden afgewezen.
 
-#### Artikel 1.7. Beoordeling subsidieaanvraag
+##### Artikel 1.7. Beoordeling subsidieaanvraag
 
 1. Een subsidieaanvraag wordt beoordeeld aan de hand van het beoordelingskader, opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&bijlage=1&z=2024-04-03&g=2024-04-03).
 
 2. Subsidie wordt slechts verleend indien de aanvraag voldoet aan alle criteria, opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&bijlage=1&z=2024-04-03&g=2024-04-03).
 
-#### Artikel 1.8. Beoordeling activiteitenplan
+##### Artikel 1.8. Beoordeling activiteitenplan
 
 1. De minister stelt een onafhankelijke adviescommissie in die de minister adviseert over de uitwerking van het activiteitenplan bedoeld in [artikel 1.10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=1&artikel=1.10&z=2024-04-03&g=2024-04-03), en de voortgangsrapportage, bedoeld in [artikel 1.11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=1&artikel=1.11&z=2024-04-03&g=2024-04-03).
 
@@ -168,13 +194,13 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 3. Indien de adviescommissie een negatief advies geeft over de uitwerking van het activiteitenplan kan de penvoerder binnen 30 dagen na het ontvangen van het advies een gewijzigde uitwerking van het activiteitenplan indienen. Indien de adviescommissie de gewijzigde uitwerking opnieuw een negatieve beoordeling geeft, verwerkt zij in haar advies aan de minister mogelijke consequenties verbonden aan deze beoordeling.
 
-#### Artikel 1.9. Besluitvorming en gewijzigde aanvraag
+##### Artikel 1.9. Besluitvorming en gewijzigde aanvraag
 
 1. De minister besluit op de aanvraag uiterlijk 31 januari 2025.
 
 2. Indien de minister een aanvraag afwijst, kan van 1 februari 2025 tot 1 maart 2025 een gewijzigde aanvraag worden ingediend. De minister besluit op de gewijzigde aanvraag uiterlijk 1 mei 2025.
 
-#### Artikel 1.10. Algemene verplichtingen subsidie
+##### Artikel 1.10. Algemene verplichtingen subsidie
 
 1. Aan de subsidieverstrekking zijn de volgende verplichtingen verbonden:
 
@@ -186,7 +212,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 3. De minister kan een formulier vaststellen ten behoeve van het eindverslag.
 
-#### Artikel 1.11. Verplichtingen voortgangsrapportage
+##### Artikel 1.11. Verplichtingen voortgangsrapportage
 
 1. De penvoerder zendt uiterlijk 1 oktober 2026 een voortgangsrapportage over de periode van 1 januari 2025 tot en met 31 juli 2026 aan de minister. Deze voortgangsrapportage omvat ten minste:
 
@@ -212,7 +238,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 3. De minister kan een formulier vaststellen ten behoeve van de voortgangsrapportages.
 
-#### Artikel 1.12. Begroting
+##### Artikel 1.12. Begroting
 
 1. Er wordt onderscheid gemaakt tussen de begroting op hoofdlijnen voor vier jaar, bedoeld in [artikel 1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=1&artikel=1.6&z=2024-04-03&g=2024-04-03), en de uitgewerkte begroting voor twee jaar bedoeld in [artikel 1.10](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=1&artikel=1.10&z=2024-04-03&g=2024-04-03) en [artikel 1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=1&artikel=1.11&z=2024-04-03&g=2024-04-03).
 
@@ -242,13 +268,13 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 - e. een omschrijving van de cofinanciering van het project bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=1&artikel=1.4&z=2024-04-03&g=2024-04-03).
 
-#### Artikel 1.13. Besteding subsidie
+##### Artikel 1.13. Besteding subsidie
 
 1. De subsidie wordt uitsluitend besteed aan de activiteiten waarvoor deze wordt verleend. Niet bestede middelen worden teruggevorderd.
 
 2. De subsidie wordt voor 1 januari 2029 besteed.
 
-#### Artikel 1.14. Verlening en betaling subsidie
+##### Artikel 1.14. Verlening en betaling subsidie
 
 1. De subsidie wordt verleend binnen 17 weken na sluiting van de aanvraagtermijn.
 
@@ -256,7 +282,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 3. De minister bepaalt in de verleningsbeschikking het betaalritme en neemt de uitwerking van de activiteiten en de begroting, bedoeld in de [artikelen 1.10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=1&artikel=1.10&z=2024-04-03&g=2024-04-03), en [1.11, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&hoofdstuk=1&artikel=1.11&z=2024-04-03&g=2024-04-03), op als voorwaarden.
 
-#### Artikel 1.15. Verantwoording
+##### Artikel 1.15. Verantwoording
 
 1. De financiële verantwoording van de subsidie geschiedt in de jaarverslaggeving overeenkomstig de [Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132) met [model G2](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=4).
 
@@ -264,7 +290,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 ### Hoofdstuk 2. Techniekregio
 
-#### Artikel 2.1. Techniekregio
+##### Artikel 2.1. Techniekregio
 
 1. Een techniekregio is een regio waarbinnen partijen gezamenlijk toekomstbestendig, dekkend en kwalitatief hoogstaand techniekonderwijs binnen het beroepsgericht vmbo vormgeven, waarbij wordt gestimuleerd en gefaciliteerd dat alle leerlingen in het vmbo in aanraking komen met techniek, en waarvoor een aanvraag kan worden ingediend als bedoeld in het tweede lid.
 
@@ -292,21 +318,21 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 - k. minimaal één mbo-instelling deelneemt die onderwijs aanbiedt in de opleidingsdomeinen bedoeld in [artikel 2, onder a tot en met h, van de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&artikel=2), waarbij de mbo-instelling kan participeren in meerdere techniekregio’s of techniekluwe regio’s.
 
-#### Artikel 2.2. Subsidieplafond techniekregio
+##### Artikel 2.2. Subsidieplafond techniekregio
 
 Voor subsidieverstrekking aan penvoerders in techniekregio’s is op grond van deze subsidieregeling in totaal een bedrag van € 368.640.080,– beschikbaar.
 
-#### Artikel 2.3. Subsidiebedrag
+##### Artikel 2.3. Subsidiebedrag
 
 1. De subsidie voor een techniekregio bestaat uit een bedrag dat wordt vastgesteld aan de hand van de in de [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&bijlage=3&z=2024-04-03&g=2024-04-03) bij deze regeling opgenomen tabel.
 
 2. Indien de samenstelling van een techniekregio gewijzigd is ten opzichte van de samenstelling van de techniekregio in de [Subsidieregeling sterk techniekonderwijs 2020–2024](https://wetten.overheid.nl/jci1.3:c:BWBR0041334), wordt het subsidiebedrag naar rato van de leerlingenaantallen die zijn gebruikt in de Subsidieregeling sterk techniekonderwijs 2020–2024 verdeeld.
 
-#### Artikel 2.4. Toekenning subsidie
+##### Artikel 2.4. Toekenning subsidie
 
 Indien een aanvraag op alle criteria zoals bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&bijlage=1&z=2024-04-03&g=2024-04-03) als voldoende wordt beoordeeld, wordt deze aanvraag gehonoreerd.
 
-#### Artikel 2.5. Vooraanmelding subsidieaanvraag
+##### Artikel 2.5. Vooraanmelding subsidieaanvraag
 
 1. Voorafgaand aan een subsidieaanvraag kan de penvoerder een vooraanmelding doen.
 
@@ -322,7 +348,7 @@ Indien een aanvraag op alle criteria zoals bedoeld in [bijlage 1](https://wetten
 
 ### Hoofdstuk 3. Techniekluwe regio
 
-#### Artikel 3.1. Techniekluwe regio
+##### Artikel 3.1. Techniekluwe regio
 
 1. Een techniekluwe regio is een regio waarbinnen partijen gezamenlijk een toekomstbestendig, dekkend en kwalitatief hoogstaand techniekonderwijs binnen het beroepsgericht vmbo vormgeven, waarbij wordt gestimuleerd en gefaciliteerd dat alle leerlingen in het vmbo in aanraking komen met de techniek, en waarvoor een aanvraag kan worden ingediend als bedoeld in het tweede lid.
 
@@ -348,19 +374,19 @@ Indien een aanvraag op alle criteria zoals bedoeld in [bijlage 1](https://wetten
 
 3. Caribisch Nederland geldt als één techniekluwe regio, waarbij de drie aanwezige vmbo-scholen zijn aangesloten.
 
-#### Artikel 3.2. Subsidieplafond
+##### Artikel 3.2. Subsidieplafond
 
 Voor subsidieverstrekking aan penvoerders in techniekluwe regio’s is op grond van deze subsidieregeling in totaal een bedrag van € 20.000.000,– beschikbaar.
 
-#### Artikel 3.3. Subsidiebedrag
+##### Artikel 3.3. Subsidiebedrag
 
 De subsidie voor een techniekluwe regio bestaat uit een bedrag dat wordt vastgesteld aan de hand van de in de [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&bijlage=4&z=2024-04-03&g=2024-04-03) bij deze regeling opgenomen tabel.
 
-#### Artikel 3.4. Toekenning subsidie
+##### Artikel 3.4. Toekenning subsidie
 
 Indien een aanvraag op alle criteria zoals bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&bijlage=1&z=2024-04-03&g=2024-04-03) als voldoende wordt beoordeeld, wordt deze aanvraag gehonoreerd.
 
-#### Artikel 3.5. Vooraanmelding subsidieaanvraag
+##### Artikel 3.5. Vooraanmelding subsidieaanvraag
 
 1. Voorafgaand aan een subsidieaanvraag kan de penvoerder een vooraanmelding doen.
 
@@ -376,17 +402,17 @@ Indien een aanvraag op alle criteria zoals bedoeld in [bijlage 1](https://wetten
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 4.1. Hardheidsclausule
+##### Artikel 4.1. Hardheidsclausule
 
 De minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat deze regeling beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 4.2. Inwerkingtreding en vervaldatum
+##### Artikel 4.2. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 30 maart 2029.
 
-#### Artikel 4.3. Citeertitel
+##### Artikel 4.3. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling sterk techniekonderwijs 2025–2028.
 

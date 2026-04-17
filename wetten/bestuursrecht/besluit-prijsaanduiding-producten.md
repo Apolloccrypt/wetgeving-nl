@@ -1,13 +1,39 @@
 ---
-title: "Besluit prijsaanduiding producten"
+title: "Besluit van 21 mei 2003, houdende regels met betrekking tot de prijsaanduiding van producten ter vervanging van het Besluit prijsaanduiding goederen 1980 in verband met de aanpassing aan de systematiek en de terminologie van de EG-richtlijn betreffende de prijsaanduiding van aan de consument aangeboden producten (Besluit prijsaanduiding producten)"
 identifier: "BWBR0015104"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-01-01
-laatste_update: 2023-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015104"
+country: "nl"
+rank: "amvb"
+publication_date: "2023-01-01"
+last_updated: "2023-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015104"
+soort: "AMvB"
+stam_id: "4366513"
+version_id: "29083912"
+internal_id: "C41342081"
+label_id: "4345084"
+dtd_version: "2.0"
+original_entry_into_force: "2022-11-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015104/2023-01-01/0"
+intitule_bron: "Stb.2003-229"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-05-21"
+intitule_published: "2003-06-10"
+intitule_in_force: "2003-06-10"
+intitule_status: "goed"
+original_publication: "Stb.2022-485"
+original_signed_date: "2022-11-30"
+original_published_date: "2022-12-05"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2022-485"
+entry_into_force_date: "2022-11-30"
+jci_1_3: "jci1.3:c:BWBR0015104&z=2023-01-01&g=2023-01-01"
+jci_1_0: "1.0:c:BWBR0015104&g=2023-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit prijsaanduiding producten"
+signed_date: "2022-11-30"
+entry_into_force: "2022-11-30"
 ---
-
 # Besluit van 21 mei 2003, houdende regels met betrekking tot de prijsaanduiding van producten ter vervanging van het Besluit prijsaanduiding goederen 1980 in verband met de aanpassing aan de systematiek en de terminologie van de EG-richtlijn betreffende de prijsaanduiding van aan de consument aangeboden producten (Besluit prijsaanduiding producten)
 
 Op de voordracht van Onze Minister van Economische Zaken van 2 oktober 2002, nr. WJZ 02048730;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister van Economische Zaken van 16 mei 2003
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -34,7 +60,7 @@ In dit besluit wordt verstaan onder:
 
 - e. los verkocht product: een product dat niet vooraf wordt verpakt en in de tegenwoordigheid van de consument wordt gemeten of gewogen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De prijs per meeteenheid wordt uitgedrukt in een van de volgende meeteenheden danwel de decimale veelvouden of fracties hiervan:
 
@@ -48,7 +74,7 @@ In dit besluit wordt verstaan onder:
 
 2. Indien op een voorverpakt product dat bestaat uit een vast bestanddeel en een opgietvloeistof, het uitlekgewicht wordt vermeld ingevolge Bijlage IX, punt 5, van verordening (EU) nr. 1169/2011 van het Europees Parlement en de Raad van 25 oktober 2011 betreffende de verstrekking van voedselinformatie aan consumenten (PbEU 2011, L 304), heeft de aanduiding van de prijs per meeteenheid betrekking op het vaste bestanddeel van het product.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een verkoper biedt een product, dan wel een monster met gebruikmaking waarvan een product wordt aangeboden, slechts te koop aan indien het voorzien is van een aanduiding van de verkoopprijs en de prijs per meeteenheid.
 
@@ -64,7 +90,7 @@ In dit besluit wordt verstaan onder:
 
 4. In afwijking van het eerste lid behoeft de verkoopprijs niet te worden vermeld op los verkochte producten.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De aanduiding van de verkoopprijs en de prijs per meeteenheid van een product, dan wel een monster met gebruikmaking waarvan een product wordt aangeboden, dat ter plaatse aanwezig is vindt plaats op, in of nabij het product of het monster, dan wel op de verpakking of op het voorwerp, waarin het zich bevindt. Ten aanzien van elke nabij een product of een monster vermelde verkoopprijs en prijs per meeteenheid blijkt duidelijk op welk product deze aanduiding betrekking heeft.
 
@@ -80,23 +106,23 @@ In dit besluit wordt verstaan onder:
 
 3. Indien een product of monster in een etalage is uitgestald is de aanduiding van de verkoopprijs duidelijk leesbaar van buiten die etalage.
 
-#### Artikel 5
+##### Artikel 5
 
 Indien een verkoper, die in een reclame-uiting producten aan de consument te koop aanbiedt, daarbij de verkoopprijs of de prijs per meeteenheid bekend maakt, zijn de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015104&artikel=2&z=2023-01-01&g=2023-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0015104&artikel=3&z=2023-01-01&g=2023-01-01) en [4, tweede lid, van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0015104&artikel=4&z=2023-01-01&g=2023-01-01) van toepassing.
 
-#### Artikel 6
+##### Artikel 6
 
 Het [Besluit prijsaanduiding goederen 1980](https://wetten.overheid.nl/jci1.3:c:BWBR0003308) wordt ingetrokken.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-#### Artikel 8
+##### Artikel 8
 
 De wet van 18 april 2002 houdende wijziging van de Prijzenwet in verband met de systematiek en de terminologie van de EG-richtlijn betreffende prijsaanduiding van aan de consument aangeboden producten (Stb. 217), treedt in werking op het tijdstip, waarop dit besluit in werking treedt.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit prijsaanduiding producten.
 
@@ -126,7 +152,7 @@ E. Producten die op een markt met behulp van welsprekendheid te koop worden aang
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 5a
+##### Artikel 5a
 
 1. Bij aankondigingen van prijsverminderingen geeft de verkoper de laagste verkoopprijs aan die door hem is toegepast gedurende een periode die niet korter is dan dertig dagen voor de toepassing van de prijsvermindering.
 

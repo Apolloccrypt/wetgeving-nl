@@ -1,13 +1,39 @@
 ---
-title: "Besluit mandaat, ondermandaat en -machtiging afdelingshoofden Omgevingsdienst West-Holland"
+title: "Besluit van de directeur van de Omgevingsdienst West-Holland inzake het verlenen van mandaat, ondermandaat en -machtiging aan de afdelingshoofden"
 identifier: "BWBR0035114"
-categorie: "Bestuursrecht"
-publicatiedatum: 2014-05-16
-laatste_update: 2014-05-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035114"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2014-05-16"
+last_updated: "2014-05-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035114"
+soort: "ministeriele-regeling"
+stam_id: "12671753"
+version_id: "21408282"
+internal_id: "C30736851"
+label_id: "12641804"
+dtd_version: "2.0"
+original_entry_into_force: "2014-05-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035114/2014-05-16/0"
+intitule_bron: "Stcrt.2014-13544"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-05-08"
+intitule_published: "2014-05-15"
+intitule_in_force: "2014-05-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-13544"
+original_signed_date: "2014-05-08"
+original_published_date: "2014-05-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-13544"
+entry_into_force_date: "2014-05-16"
+jci_1_3: "jci1.3:c:BWBR0035114&z=2014-05-16&g=2014-05-16"
+jci_1_0: "1.0:c:BWBR0035114&g=2014-05-16"
+citeertitel_status: "redactioneel"
+short_title: "Besluit mandaat, ondermandaat en -machtiging afdelingshoofden Omgevingsdienst West-Holland"
+signed_date: "2014-05-08"
+entry_into_force: "2014-05-16"
 ---
-
 # Besluit van de directeur van de Omgevingsdienst West-Holland inzake het verlenen van mandaat, ondermandaat en -machtiging aan de afdelingshoofden
 
 Gelet op:

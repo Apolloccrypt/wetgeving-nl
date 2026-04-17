@@ -1,18 +1,43 @@
 ---
 title: "Uitvoeringsbesluit verdrag chemische wapens BES"
 identifier: "BWBR0028645"
-categorie: "Internationaal recht"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028645"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028645"
+soort: "AMvB-BES"
+stam_id: "10915803"
+version_id: "17899112"
+internal_id: "C24830941"
+label_id: "10890514"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028645/2010-10-10/0"
+intitule_bron: "Stb.2010-461"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-23"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-461"
+original_signed_date: "2010-09-23"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-461"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028645&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028645&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-23"
+entry_into_force: "2010-10-10"
 ---
-
 # Uitvoeringsbesluit verdrag chemische wapens BES
 
 ### Hoofdstuk 1. begripsomschrijvingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -30,7 +55,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 2. aanwijzing van te verstrekken gegevens
 
-#### Artikel 2
+##### Artikel 2
 
 1. Degene die een inrichting in bedrijf neemt waarop [artikel 3, tweede of derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&artikel=3) van toepassing is verstrekt tenminste zeven maanden voor de productie aanvangt aan Onze Minister de volgende gegevens:
 
@@ -76,7 +101,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 5. Het tweede en derde lid gelden niet, indien de betrokken, in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028645&hoofdstuk=2&artikel=3&z=2010-10-10&g=2010-10-10), bedoelde inrichting een ziekenhuis betreft.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Degene aan wie een ontheffing als bedoeld in [artikel 3, vierde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&artikel=3) is verleend verstrekt tenminste zeven maanden voor de ingebruikneming van de betrokken inrichting aan Onze Minister de volgende gegevens:
 
@@ -120,7 +145,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. informatie over verwachte veranderingen in de inrichting gedurende het jaar ten opzichte van eerder verstrekte gedetailleerde technische beschrijvingen van de inrichting.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Degene aan wie een ontheffing als bedoeld in [artikel 3, vierde lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&artikel=3) is verleend stelt Onze Minister van iedere voorgenomen overdracht van stoffen van Lijst 1 tenminste acht weken voor de overdracht in kennis.
 
@@ -130,7 +155,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. de hoeveelheid die is verkregen uit of overgedragen naar een andere staat die partij is bij het verdrag, waarbij per overdracht de hoeveelheid, de ontvanger en het doel worden vermeld.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Degene die een inrichting als bedoeld in [artikel 5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&artikel=5) in bedrijf houdt waarin in een van de drie voorafgaande kalenderjaren of in het komende kalenderjaar naar verwachting meer wordt geproduceerd, verwerkt of verbruikt dan:
 
@@ -186,7 +211,7 @@ verstrekt aan Onze Minister met betrekking tot de desbetreffende activiteiten in
 
 4. Dit artikel is niet van toepassing met betrekking tot mengsels met een laag gehalte aan stoffen van Lijst 2.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Degene die een inrichting als bedoeld in [artikel 5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&artikel=5) in bedrijf houdt waarin in een van de drie voorafgaande kalenderjaren of in het komende kalenderjaar naar verwachting meer wordt geproduceerd dan 30 ton van een stof van Lijst 3, verstrekt aan Onze Minister met betrekking tot de desbetreffende activiteiten in het verleden jaarlijks voor 1 maart, respectievelijk met betrekking tot verwachte activiteiten jaarlijks voor 1 september de gegevens overeenkomstig het tweede lid. Elke activiteit die extra wordt verwacht na het verstrekken van de jaaropgave dient uiterlijk twee weken voordat die activiteit begint te worden opgegeven.
 
@@ -216,7 +241,7 @@ verstrekt aan Onze Minister met betrekking tot de desbetreffende activiteiten in
 
 4. Dit artikel is niet van toepassing met betrekking tot mengsels met een laag gehalte aan stoffen van Lijst 3.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Degene die een inrichting als bedoeld in [artikel 6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&artikel=6) in bedrijf houdt, waarin in het voorafgaande kalenderjaar:
 
@@ -238,13 +263,13 @@ verstrekt aan Onze Minister met betrekking tot de desbetreffende activiteiten in
 
 2. Dit artikel is niet van toepassing op inrichtingen die uitsluitend explosieven of koolwaterstoffen heeft geproduceerd.
 
-#### Artikel 8
+##### Artikel 8
 
 De ingevolge dit Hoofdstuk en [Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028645&hoofdstuk=4&z=2010-10-10&g=2010-10-10) aan Onze Minister te verstrekken gegevens worden ingediend bij de douaneautoriteit op de BES.
 
 ### Hoofdstuk 3. ontheffingen
 
-#### Artikel 9
+##### Artikel 9
 
 1. Een aanvraag om een ontheffing als bedoeld in [artikel 3, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&artikel=3) is gericht tot Onze Minister en wordt ten minste zeven maanden voor de aanvang van de voorgenomen handeling ingediend bij de douaneautoriteit op de BES.
 
@@ -264,7 +289,7 @@ De ingevolge dit Hoofdstuk en [Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:
 
 ### Hoofdstuk 4. overgangs- en slotbepalingen
 
-#### Artikel 10
+##### Artikel 10
 
 1. Degene die op het tijdstip van inwerkingtreding van dit besluit een inrichting als bedoeld in [artikel 3, tweede of derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&artikel=3), in bedrijf houdt, verstrekt binnen twee weken na dat tijdstip aan Onze Minister de volgende gegevens:
 
@@ -278,7 +303,7 @@ De ingevolge dit Hoofdstuk en [Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:
 
 4. De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028645&hoofdstuk=2&artikel=3&z=2010-10-10&g=2010-10-10) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0028645&hoofdstuk=2&artikel=4&z=2010-10-10&g=2010-10-10) gelden niet zolang niet op de aanvraag om een ontheffing als in het tweede of derde lid bedoeld is beslist.
 
-#### Artikel 11
+##### Artikel 11
 
 Degene die op het tijdstip van inwerkingtreding van dit besluit een inrichting als bedoeld in [artikel 5, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&artikel=5), in bedrijf houdt of heeft gehouden in de in dat artikel genoemde periode, waar stoffen van Lijst 2 of Lijst 3 zijn geproduceerd met het oog op de ontwikkeling van chemische wapens, verstrekt binnen twee weken na de inwerkingtreding van dit besluit de volgende gegevens:
 
@@ -308,7 +333,7 @@ Degene die op het tijdstip van inwerkingtreding van dit besluit een inrichting a
 
 - 3°. de plaats waar de stof is afgeleverd en de aard van het geproduceerde eindproduct, indien bekend.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Degene die op het tijdstip van inwerkingtreding van dit besluit een inrichting als bedoeld in [artikel 6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&artikel=6) in bedrijf houdt, waarin in het aan dat tijdstip voorafgaande kalenderjaar:
 
@@ -332,10 +357,10 @@ is geproduceerd, verstrekt binnen twee weken na dat tijdstip van inwerkingtredin
 
 2. Dit artikel is niet van toepassing op inrichtingen die uitsluitend explosieven of koolwaterstoffen heeft geproduceerd.
 
-#### Artikel 13
+##### Artikel 13
 
 Dit besluit treedt in werking met ingang van het tijdstip van inwerkingtreding van de [Wet verdrag chemische wapens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028248).
 
-#### Artikel 14
+##### Artikel 14
 
 Dit besluit kan worden aangehaald als: Uitvoeringsbesluit verdrag chemische wapens BES.

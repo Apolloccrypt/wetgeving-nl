@@ -1,14 +1,38 @@
 ---
-title: "Wet administratiefrechtelijke handhaving verkeersvoorschriften"
+title: "Wet van 3 juli 1989, houdende administratiefrechtelijke afdoening van inbreuken op bepaalde verkeersvoorschriften"
 identifier: "BWBR0004581"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004581"
+country: "nl"
+rank: "wet"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004581"
+soort: "wet"
+stam_id: "2752293"
+version_id: "4205232"
+internal_id: "C4205231"
+label_id: "2699684"
+dtd_version: "2.0"
+original_entry_into_force: "2000-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004581/2026-01-01/0"
+intitule_bron: "Stb.1989-300"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1989-07-03"
+intitule_status: "goed"
+original_publication: "Stb.2000-10"
+original_signed_date: "1999-12-23"
+original_published_date: "2000-01-18"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2000-10"
+entry_into_force_date: "2000-03-01"
+jci_1_3: "jci1.3:c:BWBR0004581&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0004581&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet administratiefrechtelijke handhaving verkeersvoorschriften"
+signed_date: "1999-12-23"
+entry_into_force: "2000-03-01"
 ---
-
-# Wet administratiefrechtelijke handhaving verkeersvoorschriften
+# Wet van 3 juli 1989, houdende administratiefrechtelijke afdoening van inbreuken op bepaalde verkeersvoorschriften
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +42,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk I. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze wet wordt verstaan onder:
 
@@ -48,7 +72,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk II. Toepassingsgebied van de wet
 
-#### Artikel 2
+##### Artikel 2
 
 1. Ter zake van de in de bijlage bij deze wet omschreven gedragingen die in strijd zijn met op het verkeer betrekking hebbende voorschriften gesteld bij of krachtens de [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622), de [Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415), de [Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645) of de [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416), kunnen op de wijze bij deze wet bepaald administratieve sancties worden opgelegd. Ingeval een administratiefrechtelijke sanctie wordt opgelegd zijn voorzieningen van strafrechtelijke of strafvorderlijke aard uitgesloten.
 
@@ -64,7 +88,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk III. Administratieve sanctie
 
-#### Artikel 3
+##### Artikel 3
 
 1. Met het toezicht op de naleving van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=II&artikel=2&z=2026-01-01&g=2026-01-01), bedoelde voorschriften zijn belast de bij algemene maatregel van bestuur aangewezen ambtenaren.
 
@@ -74,7 +98,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 4. Het College van procureurs-generaal houdt toezicht op de bij deze wet geregelde handhaving van verkeersvoorschriften. Het geeft daartoe bevelen aan de hoofden van de arrondissementsparketten.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De administratieve sanctie wordt opgelegd bij een gedagtekende beschikking. De beschikking bevat een korte omschrijving, onder verwijzing naar de aanduiding in de bijlage, van de gedraging ter zake waarvan zij is gegeven en het voor die gedraging bepaalde bedrag van de administratieve sanctie, de datum en het tijdstip waarop, alsmede de plaats waar de gedraging is geconstateerd. Bij ministeriële regeling worden het model van de beschikking en dat van de aankondiging van de beschikking vastgesteld, of de eisen waaraan het model moet voldoen.
 
@@ -86,29 +110,29 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 5. De beschikking vermeldt de dag waarop krachtens [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=23&z=2026-01-01&g=2026-01-01) de sanctie en de administratiekosten uiterlijk moet zijn voldaan. Tevens vermeldt de beschikking een beschikkingsnummer en de door Onze Minister bepaalde wijze waarop de sanctie, alsmede de verhogingen die krachtens artikel 23, derde lid, en [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=25&z=2026-01-01&g=2026-01-01) op de administratieve sanctie vallen, indien deze niet tijdig wordt voldaan, dient te worden voldaan.
 
-#### Artikel 5
+##### Artikel 5
 
 Indien is vastgesteld dat de gedraging heeft plaatsgevonden met of door middel van een motorrijtuig waarvoor een kenteken is opgegeven, en niet aanstonds is vastgesteld wie daarvan de bestuurder is, wordt, onverminderd het bepaalde in [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=IX&artikel=31&z=2026-01-01&g=2026-01-01), de administratieve sanctie opgelegd aan degene op wiens naam het kenteken ten tijde van de gedraging in het kentekenregister was ingeschreven. Daarbij wordt hij gewezen op het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=IV&artikel=8&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 5a
+##### Artikel 5a
 
 Indien is vastgesteld dat de gedraging heeft plaatsgevonden met of door middel van een motorrijtuig, waarmee een aanhangwagen waarvoor een kenteken is vereist, wordt voortbewogen, dan wel waaraan een aanhangwagen waarvoor een kenteken is vereist, is gekoppeld, en niet aanstonds is vastgesteld wie daarvan de bestuurder is, wordt, onverminderd het bepaalde in [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=IX&artikel=31&z=2026-01-01&g=2026-01-01), de administratieve sanctie opgelegd aan degene op wiens naam het kenteken van het motorrijtuig ten tijde van de gedraging in het kentekenregister was ingeschreven. Indien het kenteken van het motorrijtuig niet is vastgesteld, wordt, onverminderd het bepaalde in artikel 31, tweede lid, de administratieve sanctie opgelegd aan degene op wiens naam het kenteken van de aanhangwagen ten tijde van de gedraging in het kentekenregister was ingeschreven. In beide gevallen wordt hij gewezen op het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=IV&artikel=8&z=2026-01-01&g=2026-01-01).
 
 ### Hoofdstuk IV. Administratief beroep en bezwaar bij de officier van justitie
 
-#### Artikel 6
+##### Artikel 6
 
 1. Tegen de oplegging van de administratieve sanctie kan degene tot wie de beschikking is gericht, beroep instellen bij de officier van justitie.
 
 2. Onverminderd [artikel 6:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:5) vermeldt het beroepschrift de geboortedatum, de geboorteplaats en het geboortejaar van degene die het beroep heeft ingesteld, het nummer van zijn bankrekening, indien degene die heeft, en het nummer van de beschikking, bedoeld in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=III&artikel=4&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 7
+##### Artikel 7
 
 1. De [artikelen 6:14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:14), [7:16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:16), [7:24, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:24), en [7:26, vierde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:26) zijn niet van toepassing.
 
 2. In afwijking van [artikel 7:16, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:16) stelt de officier van justitie slechts de indiener van het beroepschrift in de gelegenheid te worden gehoord.
 
-#### Artikel 8
+##### Artikel 8
 
 De officier van justitie vernietigt de beschikking indien, in het geval van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=III&artikel=5&z=2026-01-01&g=2026-01-01) onderscheidenlijk [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=III&artikel=5a&z=2026-01-01&g=2026-01-01), degene op wiens naam het kenteken in het kentekenregister is ingeschreven:
 
@@ -122,7 +146,7 @@ In de onder **a**, **b** en **c** bedoelde gevallen is de officier van justitie 
 
 ### Hoofdstuk V. Beroep bij de kantonrechter van de rechtbank
 
-#### Artikel 9
+##### Artikel 9
 
 1. Tegen de beslissing van de officier van justitie kan degene die administratief beroep heeft ingesteld, beroep instellen bij de rechtbank; het beroep wordt behandeld en beslist door de kantonrechter. In afwijking van [artikel 6:4, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:4), wordt het beroepschrift ingediend bij de officier van justitie die ingevolge [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=IV&artikel=6&z=2026-01-01&g=2026-01-01), op het administratief beroep heeft beslist. [Hoofdstuk 8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8) is niet van toepassing.
 
@@ -136,11 +160,11 @@ In de onder **a**, **b** en **c** bedoelde gevallen is de officier van justitie 
 
 3. [Artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=IV&artikel=6&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 10
+##### Artikel 10
 
 De officier van justitie brengt het beroepschrift en de op de zaak betrekking hebbende stukken ter kennis van de rechtbank van het arrondissement waarin de gedraging is verricht, dan wel bij de rechtbank van het arrondissement waarin de woonplaats van de betrokkene is gelegen.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Het beroepschrift en de op de zaak betrekking hebbende stukken worden door de officier van justitie aan de rechtbank ter kennis gebracht binnen zes weken nadat de indiener zekerheid heeft gesteld voor de betaling van de sanctie en de administratiekosten, dan wel nadat de termijn daarvoor is verstreken.
 
@@ -152,7 +176,7 @@ De officier van justitie brengt het beroepschrift en de op de zaak betrekking he
 
 5. Alle op een beroepschrift betrekking hebbende stukken worden, indien zekerheidstelling heeft plaatsgevonden, nedergelegd ter griffie van de rechtbank. Hiervan wordt door de griffier mededeling gedaan aan degene die het beroep heeft ingesteld. De betrokkene of zijn gemachtigde kan binnen een door de kantonrechter bepaalde en aan hem door de griffier medegedeelde termijn, deze stukken inzien en daarvan afschriften of uittreksels vragen. Op de voor de verstrekking van afschriften en uittreksels aan de betrokkene of zijn gemachtigde in rekening te brengen vergoedingen is het ter zake bepaalde bij of krachtens de [Wet griffierechten burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0028899) van overeenkomstige toepassing.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De kantonrechter stelt, alvorens te beslissen, partijen in de gelegenheid om op een door de kantonrechter bepaalde dag en uur op een openbare zitting hun zienswijze nader toe te lichten. Zij worden daartoe door de griffier opgeroepen. De oproep aan degene die het beroep heeft ingesteld wordt gericht aan het in het beroepschrift vermelde adres.
 
@@ -164,11 +188,11 @@ De officier van justitie brengt het beroepschrift en de op de zaak betrekking he
 
 5. Zij leggen in dat geval ten overstaan van hem de eed of belofte af; de getuigen: dat zij zullen zeggen de gehele waarheid en niets dan de waarheid; de tolken: dat zij hun plichten als tolk met nauwkeurigheid zullen vervullen. De deskundigen zijn verplicht hun taak onpartijdig en naar beste weten te verrichten.
 
-#### Artikel 12a
+##### Artikel 12a
 
 [Titel IV van het Vierde Boek van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&titeldeel=IV) is van overeenkomstige toepassing.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Indien de kantonrechter bevindt dat het beroep ontvankelijk is en dat de beslissing van de officier van justitie niet of niet ten volle gehandhaafd kan worden, verklaart de kantonrechter het beroep geheel of gedeeltelijk gegrond en vernietigt of wijzigt het daarbij de bestreden beslissing.
 
@@ -176,7 +200,7 @@ De officier van justitie brengt het beroepschrift en de op de zaak betrekking he
 
 3. De beslissing wordt in het proces-verbaal der zitting aangetekend. De aantekening bevat de gronden waarop de beslissing berust. Een afschrift van de aantekening van de beslissing wordt toegezonden aan partijen.
 
-#### Artikel 13a
+##### Artikel 13a
 
 1. De kantonrechter is bij uitsluiting bevoegd een partij te veroordelen in de kosten die een andere partij in verband met de behandeling van het beroep bij de rechtbank, en van het bezwaar of van het administratief beroep redelijkerwijs heeft moeten maken. De [artikelen 7:15, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:15), en [7:28, tweede, vierde en vijfde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:28) zijn van toepassing. Een natuurlijke persoon kan slechts in de kosten worden veroordeeld in geval van kennelijk onredelijk gebruik van procesrecht. Het [Besluit proceskosten bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0006358) is van overeenkomstige toepassing.
 
@@ -194,7 +218,7 @@ De officier van justitie brengt het beroepschrift en de op de zaak betrekking he
 
 6. In geval van een veroordeling in de kosten ten behoeve van de indiener van het beroepschrift worden de kosten door de Staat der Nederlanden vergoed.
 
-#### Artikel 13b
+##### Artikel 13b
 
 1. In geval van intrekking van het beroep omdat de officier van justitie geheel of gedeeltelijk aan de indiener van het beroepschrift is tegemoetgekomen, kan de officier van justitie op verzoek van de indiener bij afzonderlijke uitspraak met toepassing van [artikel 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=V&artikel=13a&z=2026-01-01&g=2026-01-01) in de kosten worden veroordeeld. Het verzoek wordt gedaan tegelijk met de intrekking van het beroep. Indien aan dit vereiste niet is voldaan, wordt het verzoek niet-ontvankelijk verklaard. Het verzoek wordt bij de officier van justitie ingediend.
 
@@ -206,19 +230,19 @@ De officier van justitie brengt het beroepschrift en de op de zaak betrekking he
 
 ### Hoofdstuk VI. Hoger beroep bij het gerechtshof te Leeuwarden
 
-#### Artikel 14
+##### Artikel 14
 
 1. Degene die bij de rechtbank beroep heeft ingesteld, alsmede de officier van justitie, kunnen tegen de beslissing van de kantonrechter hoger beroep instellen bij het gerechtshof Arnhem-Leeuwarden, tenzij de opgelegde administratieve sanctie bij die beslissing niet meer bedraagt dan € 110.
 
 2. Eveneens kan degene die bij de rechtbank beroep heeft ingesteld doch daarin met toepassing van het bepaalde in [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=V&artikel=11&z=2026-01-01&g=2026-01-01), niet-ontvankelijk is verklaard, tegen die beslissing hoger beroep instellen op de grond dat de kantonrechter ten onrechte heeft geoordeeld dat de zekerheid niet dan wel niet tijdig is gesteld dan wel ten onrechte niet heeft geoordeeld dat de indiener redelijkerwijs niet geacht kan worden in verzuim te zijn geweest.
 
-#### Artikel 15
+##### Artikel 15
 
 1. In afwijking van [artikel 6:4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:4) geschiedt het instellen van hoger beroep door het indienen van een beroepschrift bij de rechtbank van de kantonrechter tegen wiens beslissing het beroep is gericht.
 
 2. Nadat de termijn voor het instellen van hoger beroep is verstreken, zendt de griffier van de rechtbank het ingekomen beroepschrift met de stukken van het geding en een afschrift van de beslissing onverwijld ter griffie van het gerechtshof Arnhem-Leeuwarden in.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Het gerechtshof beslist, behoudens het bepaalde in het tweede lid, in enkelvoudige kamers.
 
@@ -228,11 +252,11 @@ De officier van justitie brengt het beroepschrift en de op de zaak betrekking he
 
 4. Een enkelvoudige kamer kan een zaak in iedere stand van het geding naar een meervoudige kamer verwijzen.
 
-#### Artikel 17
+##### Artikel 17
 
 De [artikelen 512 tot en met 518 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=512) zijn van overeenkomstige toepassing.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Indien degene wiens voertuig buiten gebruik kan worden gesteld door Onze Minister niet terstond voldoet aan het overeenkomstig [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=23&z=2026-01-01&g=2026-01-01), en [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=25&z=2026-01-01&g=2026-01-01) verhoogde bedrag van de administratieve sanctie, is Onze Minister bevoegd het voertuig op kosten van de betrokkene naar een door hem aangewezen plaats te doen overbrengen en in bewaring te doen stellen. Het voertuig wordt tussentijds aan de rechthebbende teruggegeven tegen betaling van het bedrag van de administratieve sanctie en de daarop gevallen verhogingen, alsmede van de kosten van overbrenging en bewaring.
 
@@ -242,13 +266,13 @@ De [artikelen 512 tot en met 518 van het Wetboek van Strafvordering](https://wet
 
 4. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de overbrenging, bewaring, eigendomsoverdracht om niet, verkoop, vernietiging, de berekening van de kosten van overbrenging en bewaring, alsmede omtrent hetgeen verder voor de uitvoering van dit artikel noodzakelijk is.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Nadat het hoger beroep is ingesteld treedt de advocaat-generaal bij het ressortsparket als partij in de plaats van de officier van justitie.
 
 2. De officier van justitie verstrekt de advocaat-generaal bij het ressortsparket de nodige inlichtingen.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De griffier van het gerechtshof zendt een door hem voor eensluidend getekend afschrift van het beroepschrift onverwijld toe aan degene, die mede tot het instellen van hoger beroep gerechtigd was.
 
@@ -258,11 +282,11 @@ De [artikelen 512 tot en met 518 van het Wetboek van Strafvordering](https://wet
 
 4. Partijen kunnen afschriften van of uittreksels uit door hen omschreven stukken verkrijgen. Op de voor de verstrekking van afschriften of uittreksels in rekening te brengen vergoedingen is het bij of krachtens de [Wet griffierechten burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0028899) bepaalde van overeenkomstige toepassing.
 
-#### Artikel 20
+##### Artikel 20
 
 Het gerechtshof kan partijen en zonodig getuigen en deskundigen opdragen binnen een bepaalde termijn schriftelijk inlichtingen te geven of onder hen berustende stukken in te zenden.
 
-#### Artikel 20a
+##### Artikel 20a
 
 1. Een partij kan schriftelijk verzoeken om een behandeling ter zitting. Zodanig verzoek wordt ingediend bij het beroepschrift of, indien een verweerschrift is ingediend, uiterlijk binnen twee weken na verzending daarvan door het gerechtshof aan de wederpartij.
 
@@ -270,11 +294,11 @@ Het gerechtshof kan partijen en zonodig getuigen en deskundigen opdragen binnen 
 
 3. De zitting is openbaar.
 
-#### Artikel 20b
+##### Artikel 20b
 
 Indien de zaak op een zitting zal worden behandeld worden de stukken van het geding neergelegd ter griffie van het gerechtshof. Hiervan wordt door de griffier mededeling gedaan aan partijen, onder vermelding van de termijn waarbinnen deze stukken aldaar kunnen worden ingezien en dat daarvan afschriften of uittreksels kunnen worden gevraagd. Op de voor de verstrekking van afschriften of uittreksels in rekening te brengen vergoedingen is het bij of krachtens de [Wet griffierechten burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0028899) bepaalde van overeenkomstige toepassing.
 
-#### Artikel 20c
+##### Artikel 20c
 
 1. Indien de zaak op een zitting zal worden behandeld worden partijen uitgenodigd ter zitting. De oproep aan degene die hoger beroep heeft ingesteld wordt gericht aan het adres opgegeven in het beroepschrift in hoger beroep dan wel, in geval de officier van justitie hoger beroep heeft ingesteld, aan het door de betrokkene in het verweerschrift of in het beroepschrift bij de rechtbank opgegeven adres.
 
@@ -294,7 +318,7 @@ De deskundigen zijn verplicht hun taak onpartijdig en naar beste weten te vervul
 
 6. Van het verhandelde ter zitting wordt proces-verbaal opgemaakt, hetwelk door de voorzitter en de griffier wordt vastgesteld en ondertekend.
 
-#### Artikel 20d
+##### Artikel 20d
 
 1. Indien het gerechtshof het beroepschrift ontvankelijk acht, bevestigt het gerechtshof de beslissing van de kantonrechter, hetzij met overneming, hetzij met verbetering van de gronden, of doet het, met gehele of gedeeltelijke vernietiging van de bestreden beslissing van de kantonrechter, hetgeen de kantonrechter zou behoren te doen.
 
@@ -308,7 +332,7 @@ De deskundigen zijn verplicht hun taak onpartijdig en naar beste weten te vervul
 
 ### Hoofdstuk VII. Vervallen zekerheidstelling
 
-#### Artikel 21
+##### Artikel 21
 
 1. De verplichting tot zekerheidstelling vervalt nadat ten aanzien van de opgelegde administratieve sanctie een onherroepelijke beslissing is genomen.
 
@@ -318,7 +342,7 @@ De deskundigen zijn verplicht hun taak onpartijdig en naar beste weten te vervul
 
 ### Hoofdstuk VII. Vervallen zekerheidstelling
 
-#### Artikel 22
+##### Artikel 22
 
 1. Met de inning van de administratieve sanctie en de administratiekosten is Onze Minister belast.
 
@@ -328,7 +352,7 @@ De deskundigen zijn verplicht hun taak onpartijdig en naar beste weten te vervul
 
 4. De officier van justitie kan de inning van een opgelegde administratieve sanctie laten eindigen, indien hij van oordeel is dat met de voortzetting daarvan geen redelijk doel wordt gediend.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Uiterlijk binnen twee weken nadat een beschikking waarbij een administratieve sanctie is opgelegd, onherroepelijk is geworden, moeten de administratieve sanctie en de administratiekosten zijn voldaan.
 
@@ -336,13 +360,13 @@ De deskundigen zijn verplicht hun taak onpartijdig en naar beste weten te vervul
 
 3. De sanctie wordt van rechtswege met vijftig procent verhoogd indien het in de gestelde termijn of termijnen verschuldigde bedrag niet tijdig geheel wordt voldaan.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Degene aan wie een administratieve sanctie is opgelegd, is verplicht tot betaling van het ingevolge [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=23&z=2026-01-01&g=2026-01-01), verhoogde bedrag binnen vier weken nadat Onze Minister hem een aanmaning heeft toegezonden.
 
 2. Indien na de verhoging het verschuldigde bedrag behoudens de administratiekosten, ten minste € 225 bedraagt, is [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=23&z=2026-01-01&g=2026-01-01), van overeenkomstige toepassing.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Indien degene aan wie een administratieve sanctie is opgelegd, nalaat het in de op grond van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=24&z=2026-01-01&g=2026-01-01) gestelde termijn of termijnen verschuldigde bedrag tijdig geheel te voldoen, wordt het inmiddels verschuldigde bedrag van rechtswege verhoogd met honderd procent van het bedrag van de sanctie en de daarop inmiddels gevallen verhoging. Ter inning van het verschuldigde bedrag kan Onze Minister verhaal nemen overeenkomstig het bepaalde in de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=26&z=2026-01-01&g=2026-01-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=27&z=2026-01-01&g=2026-01-01).
 
@@ -352,7 +376,7 @@ De deskundigen zijn verplicht hun taak onpartijdig en naar beste weten te vervul
 
 4. Het recht om verhaal te nemen vervalt door het overlijden van degene aan wie een administratieve sanctie is opgelegd.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Verhaal op de goederen van degene aan wie de administratieve sanctie is opgelegd geschiedt krachtens een dwangbevel, medebrengende het recht om die goederen zonder vonnis aan te tasten.
 
@@ -372,7 +396,7 @@ De deskundigen zijn verplicht hun taak onpartijdig en naar beste weten te vervul
 
 9. De kosten van het verhaal krachtens dit artikel worden op gelijke voet als de administratieve sanctie op degene aan wie deze sanctie is opgelegd verhaald. Onder de kosten van het verhaal zijn begrepen de invorderingskosten.
 
-#### Artikel 26a
+##### Artikel 26a
 
 1. Onze Minister, alsmede degene aan wie de administratieve sanctie is opgelegd, kunnen tegen de beschikking van de kantonrechter binnen twee weken na de verzending van de mededeling van de beschikking van de kantonrechter hoger beroep instellen bij het gerechtshof Arnhem-Leeuwarden. Het beroepschrift wordt ingediend bij de griffie van de rechtbank die de beschikking heeft gegeven.
 
@@ -388,7 +412,7 @@ De deskundigen zijn verplicht hun taak onpartijdig en naar beste weten te vervul
 
 7. Afschrift van de beschikking wordt door de griffier van het gerechtshof gezonden aan degenen die tot het instellen van hoger beroep gerechtigd waren.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Verhaal kan zonder dwangbevel worden genomen op:
 
@@ -412,7 +436,7 @@ De deskundigen zijn verplicht hun taak onpartijdig en naar beste weten te vervul
 
 8. Verhaal zonder dwangbevel kan niet worden genomen als degene aan wie de administratieve sanctie is opgelegd, valt onder de schuldsaneringsregeling natuurlijke personen, bedoeld in [Titel III van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III).
 
-#### Artikel 28
+##### Artikel 28
 
 1. De officier van justitie kan, indien niet of niet volledig verhaal overeenkomstig de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=26&z=2026-01-01&g=2026-01-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=27&z=2026-01-01&g=2026-01-01) heeft plaatsgevonden, bij de kantonrechter van de rechtbank van het arrondissement waar het adres is van degene aan wie de administratieve sanctie is opgelegd een vordering instellen om te worden gemachtigd om per gedraging waarvoor een administratieve sanctie is opgelegd het dwangmiddel gijzeling toe te passen van degene aan wie de administratieve sanctie is opgelegd, voor ten hoogste één week. Indien degene aan wie de administratieve sanctie is opgelegd als ingezetene is ingeschreven in de basisregistratie personen, maar niet op het daarin opgenomen adres woonachtig is, dan wel indien degene aan wie de administratieve sanctie is opgelegd geen bekende woon- of verblijfplaats in Nederland heeft, geschiedt de instelling van de bovenbedoelde vordering bij de rechtbank Noord-Nederland. Een verleende machtiging om gijzeling toe te passen kan tot uiterlijk vijf jaar nadat de opgelegde administratieve sanctie onherroepelijk is geworden, worden uitgevoerd. Indien betaling in termijnen door Onze Minister is toegestaan, wordt de termijn waarin een verleende machtiging gijzeling toe te passen kan worden uitgevoerd, verlengd met één jaar.
 
@@ -424,15 +448,15 @@ De deskundigen zijn verplicht hun taak onpartijdig en naar beste weten te vervul
 
 5. Bij algemene maatregel van bestuur worden regels gesteld omtrent de tenuitvoerlegging van de gijzeling als bedoeld in het eerste lid.
 
-#### Artikel 28a
+##### Artikel 28a
 
 Indien niet of niet volledig verhaal overeenkomstig de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=26&z=2026-01-01&g=2026-01-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=27&z=2026-01-01&g=2026-01-01) heeft plaatsgevonden, kan Onze Minister het rijbewijs innemen van degene aan wie de administratieve sanctie is opgelegd. Onze Minister kan tot uiterlijk vijf jaar nadat de opgelegde administratieve sanctie onherroepelijk is geworden van zijn bevoegdheid gebruik maken. Indien betaling in termijnen door Onze Minister is toegestaan, wordt de termijn waarin van de bevoegdheid gebruik kan worden gemaakt, verlengd met één jaar. De inneming van het rijbewijs duurt ten hoogste vier weken.
 
-#### Artikel 28b
+##### Artikel 28b
 
 Indien niet of niet volledig verhaal overeenkomstig de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=26&z=2026-01-01&g=2026-01-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=27&z=2026-01-01&g=2026-01-01) heeft plaatsgevonden, kan Onze Minister het voertuig waarmee de gedraging heeft plaatsgevonden buiten gebruik stellen of, indien dit voertuig niet wordt aangetroffen, een soortgelijk voertuig waarover degene aan wie de administratieve sanctie is opgelegd, vermag te beschikken. Onze Minister kan tot uiterlijk vijf jaar nadat de opgelegde administratieve sanctie onherroepelijk is geworden van zijn bevoegdheid gebruik maken. Indien betaling in termijnen door Onze Minister is toegestaan, wordt de termijn waarin van de bevoegdheid gebruik kan worden gemaakt, verlengd met één jaar. De buitengebruikstelling duurt ten hoogste vier weken.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Indien degene wiens voertuig buiten gebruik kan worden gesteld door de officier van justitie te Leeuwarden niet terstond voldoet aan het overeenkomstig [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=23&z=2006-02-01&g=2006-02-01), en [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=25&z=2006-02-01&g=2006-02-01) verhoogde bedrag van de administratieve sanctie, is de officier van justitie bevoegd het voertuig op kosten van de betrokkene naar een door hem aangewezen plaats te doen overbrengen en in bewaring te doen stellen. Het voertuig wordt tussentijds aan de rechthebbende teruggegeven tegen betaling van het bedrag van de administratieve sanctie en de daarop gevallen verhogingen, alsmede van de kosten van overbrenging en bewaring.
 
@@ -442,7 +466,7 @@ Indien niet of niet volledig verhaal overeenkomstig de [artikelen 26](https://we
 
 4. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de overbrenging, bewaring, eigendomsoverdracht om niet, verkoop, vernietiging, de berekening van de kosten van overbrenging en bewaring, alsmede omtrent hetgeen verder voor de uitvoering van dit artikel noodzakelijk is.
 
-#### Artikel 30
+##### Artikel 30
 
 1. Degene wiens rijbewijs kan worden ingenomen door Onze Minister, is verplicht op eerste vordering van Onze Minister het rijbewijs in te leveren op een door Onze Minister te bepalen tijdstip en aan te wijzen plaats.
 
@@ -454,7 +478,7 @@ Indien niet of niet volledig verhaal overeenkomstig de [artikelen 26](https://we
 
 ### Hoofdstuk IX. Voorlopige maatregelen
 
-#### Artikel 31
+##### Artikel 31
 
 1. Indien de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=III&artikel=3&z=2026-01-01&g=2026-01-01), bedoelde ambtenaren bij de uitoefening van de in artikel 3, eerste lid, omschreven bevoegdheid bevinden dat de bestuurder geen bekende woon- of verblijfplaats in Nederland heeft, dan wel geregistreerd staat voor het niet voldoen van een hem eerder overeenkomstig de bepalingen van deze wet opgelegde administratieve sanctie, kunnen zij vorderen dat het bedrag van de opgelegde en van de reeds verschuldigde administratieve sanctie en van de administratiekosten terstond geheel zal worden voldaan dan wel dat zekerheid wordt gesteld dat het bedrag van de bedoelde sanctie tijdig geheel zal worden voldaan.
 
@@ -462,11 +486,11 @@ Indien niet of niet volledig verhaal overeenkomstig de [artikelen 26](https://we
 
 3. Voldoening van het bedrag van de opgelegde administratieve sanctie en van de administratiekosten laat de bevoegdheid tegen de beschikking van de ambtenaar beroep in te stellen als omschreven in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=IV&artikel=6&z=2026-01-01&g=2026-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=V&artikel=9&z=2026-01-01&g=2026-01-01) onverlet. Wordt het beroep gegrond verklaard, dan wordt het bedrag van de administratieve sanctie en van de administratiekosten teruggegeven. [Artikel 29, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=29&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 17a
+##### Artikel 17a
 
 Vervallen
 
-#### Artikel 33
+##### Artikel 33
 
 1. Van iedere inbewaringstelling maakt de betrokken ambtenaar proces-verbaal op. Hij zendt dit proces-verbaal binnen vierentwintig uur aan de officier van justitie in het arrondissement waar de inbewaringstelling is geschied. Een afschrift van het proces-verbaal wordt gelijktijdig uitgereikt of toegezonden aan de bestuurder, alsmede aan degene aan wie het kenteken van het motorrijtuig is opgegeven. Daarbij wordt hij gewezen op het bepaalde in [artikel 29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=29&z=2026-01-01&g=2026-01-01).
 
@@ -488,7 +512,7 @@ Vervallen
 
 ### Hoofdstuk IX. Voorlopige maatregelen
 
-#### Artikel 34
+##### Artikel 34
 
 1. Met geldboete van de tweede categorie wordt gestraft:
 
@@ -500,11 +524,11 @@ Vervallen
 
 2. Het strafbare feit is een overtreding.
 
-#### Artikel 35
+##### Artikel 35
 
 Bij algemene maatregel van bestuur kunnen voorschriften worden gegeven omtrent hetgeen verder ter uitvoering van deze wet nodig is.
 
-#### Artikel 36
+##### Artikel 36
 
 1. Behoudens in geval van een verzetschrift als bedoeld in [artikel 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=26&z=2026-01-01&g=2026-01-01), een beroepschrift bedoeld in [artikel 26a](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=26a&z=2026-01-01&g=2026-01-01) en een verzetschrift als bedoeld in [artikel 27, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=27&z=2026-01-01&g=2026-01-01), is op grond van deze wet geen recht verschuldigd in de zin van de [Wet griffierechten burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0028899).
 
@@ -512,35 +536,35 @@ Bij algemene maatregel van bestuur kunnen voorschriften worden gegeven omtrent h
 
 ### Hoofdstuk X. Overige bepalingen
 
-#### Artikel 37
+##### Artikel 37
 
 Vervallen
 
-#### Artikel 38
+##### Artikel 38
 
 Vervallen
 
-#### Artikel 39
+##### Artikel 39
 
 Vervallen
 
-#### Artikel 40
+##### Artikel 40
 
 Vervallen
 
-#### Artikel 41
+##### Artikel 41
 
 Vervallen
 
-#### Artikel 42
+##### Artikel 42
 
 Vervallen
 
-#### Artikel 43
+##### Artikel 43
 
 Vervallen
 
-#### Artikel 44
+##### Artikel 44
 
 Deze wet kan worden aangehaald als: Wet administratiefrechtelijke handhaving verkeersvoorschriften.
 
@@ -2330,11 +2354,11 @@ Deze wet kan worden aangehaald als: Wet administratiefrechtelijke handhaving ver
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 27a
+##### Artikel 27a
 
 Bij algemene maatregel van bestuur kan worden bepaald dat de staat geldbedragen, verkregen uit de tenuitvoerlegging van administratieve sancties, op een daarbij vast te stellen grondslag en naar daarbij vast te stellen regelen ten goede laat komen aan een rechtspersoon die krachtens het publiekrecht is ingesteld.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Indien degene wiens voertuig buiten gebruik kan worden gesteld door de officier van justitie te Leeuwarden niet terstond voldoet aan het overeenkomstig [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=23&z=2009-05-01&g=2009-05-01), en [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=25&z=2009-05-01&g=2009-05-01) verhoogde bedrag van de administratieve sanctie, is de officier van justitie bevoegd het voertuig op kosten van de betrokkene naar een door hem aangewezen plaats te doen overbrengen en in bewaring te doen stellen. Het voertuig wordt tussentijds aan de rechthebbende teruggegeven tegen betaling van het bedrag van de administratieve sanctie en de daarop gevallen verhogingen, alsmede van de kosten van overbrenging en bewaring.
 
@@ -4522,7 +4546,7 @@ Bij algemene maatregel van bestuur kan worden bepaald dat de staat geldbedragen,
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 2a
+##### Artikel 2a
 
 De [titels 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.4), [5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.1) en [5.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.4) zijn niet van toepassing op het opleggen en de inning van een administratieve sanctie en de administratiekosten op grond van deze wet.
 
@@ -4538,7 +4562,7 @@ De [titels 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.4), 
 
 ### Hoofdstuk VII. Vervallen zekerheidstelling
 
-#### Artikel 30
+##### Artikel 30
 
 1. Degene wiens rijbewijs kan worden ingenomen door de officier van justitie te Leeuwarden, is verplicht op eerste vordering van de officier van justitie het rijbewijs in te leveren op een door de officier van justitie te bepalen tijdstip en aan te wijzen plaats.
 
@@ -6726,7 +6750,7 @@ De [titels 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.4), 
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 5b
+##### Artikel 5b
 
 1. Indien is vastgesteld dat de gedraging heeft plaatsgevonden met of door middel van een motorrijtuig waarmee een niet-kentekenplichtige aanhangwagen wordt voortbewogen, dan wel waaraan een niet-kentekenplichtige aanhangwagen is gekoppeld, en niet aanstonds is vastgesteld wie daarvan de bestuurder is, wordt, onverminderd het bepaalde in [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=IX&artikel=31&z=2026-01-01&g=2026-01-01), de administratieve sanctie opgelegd aan degene op wiens naam het kenteken van het trekkend motorrijtuig ten tijde van de gedraging in het kentekenregister was ingeschreven.
 
@@ -6744,7 +6768,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ### Hoofdstuk IX. Voorlopige maatregelen
 
-#### Artikel 31
+##### Artikel 31
 
 1. Indien de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=III&artikel=3&z=2019-01-01&g=2019-01-01), bedoelde ambtenaren bij de uitoefening van de in artikel 3, eerste lid, omschreven bevoegdheid bevinden dat de bestuurder geen bekende woon- of verblijfplaats in Nederland heeft, dan wel geregistreerd staat voor het niet voldoen van een hem eerder overeenkomstig de bepalingen van deze wet opgelegde administratieve sanctie, kunnen zij vorderen dat het bedrag van de opgelegde en van de reeds verschuldigde administratieve sanctie en van de administratiekosten terstond geheel zal worden voldaan dan wel dat zekerheid wordt gesteld dat het bedrag van de bedoelde sanctie tijdig geheel zal worden voldaan.
 
@@ -8538,7 +8562,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 5c
+##### Artikel 5c
 
 Indien geen administratieve sanctie kan worden opgelegd, omdat degene die ten tijde van de geconstateerde gedraging met of door middel van een motorrijtuig met een kenteken als bedoeld in artikel 4 van het Kentekenreglement was ingeschreven in het kentekenregister immuniteit geniet op grond van het volkenrecht, verstrekt de officier van justitie de gegevens, genoemd in [artikel 4, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=III&artikel=4&z=2026-01-01&g=2026-01-01) aan Onze Minister van Buitenlandse Zaken ten behoeve van het versturen van een notificatie aan deze kentekenhouder.
 
@@ -8550,7 +8574,7 @@ Indien geen administratieve sanctie kan worden opgelegd, omdat degene die ten ti
 
 ### Hoofdstuk VIII. De inning van de administratieve sanctie
 
-#### Artikel 32
+##### Artikel 32
 
 Indien aan de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=IX&artikel=31&z=2026-01-01&g=2026-01-01), bedoelde vordering niet wordt voldaan, is de ambtenaar bevoegd bij wijze van voorlopige maatregel het voertuig in bewaring te stellen, totdat het bedrag van de opgelegde en van de reeds verschuldigde administratieve sanctie en van de administratiekosten, alsmede de inmiddels daarop gevallen kosten van de inbewaringstelling zijn voldaan. Daartoe kan hij op kosten van de bestuurder het voertuig naar een door hem aangewezen nabijgelegen plaats overbrengen of doen overbrengen en aldaar in bewaring doen stellen. Zo nodig roept hij hierbij de hulp van de sterke arm in. [Artikel 29, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=29&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 

@@ -1,14 +1,42 @@
 ---
-title: "Tweede Verzamelspoedwet COVID-19"
+title: "Wet van 8 juli 2020, houdende tijdelijke voorzieningen op het terrein van het Ministerie van Onderwijs, Cultuur en Wetenschap en het Ministerie van Justitie en Veiligheid, en tot wijziging van enkele wetten op het terrein van het Ministerie van Onderwijs, Cultuur en Wetenschap, het Ministerie van Infrastructuur en Waterstaat, het Ministerie van Justitie en Veiligheid en het Ministerie van Volksgezondheid, Welzijn en Sport (Tweede Verzamelspoedwet COVID-19)"
 identifier: "BWBR0043880"
-categorie: "Overig"
-publicatiedatum: 2023-11-16
-laatste_update: 2023-11-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043880"
+country: "nl"
+rank: "wet"
+publication_date: "2023-11-16"
+last_updated: "2023-11-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043880"
+soort: "wet"
+stam_id: "15567373"
+version_id: "26893822"
+internal_id: "C39422891"
+label_id: "15509164"
+dtd_version: "2.0"
+original_entry_into_force: "2020-07-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043880/2023-11-16/0"
+intitule_bron: "Stb.2020-245"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-07-08"
+intitule_published: "2020-07-14"
+intitule_in_force: "2020-07-14"
+intitule_status: "goed"
+original_publication: "Stb.2020-245"
+original_signed_date: "2020-07-08"
+original_published_date: "2020-07-14"
+original_effect: "nieuwe-regeling"
+original_dossier: "35497"
+original_url_id: "stb-2020-245"
+entry_into_force_date: "2020-07-15"
+entry_into_force_dossier: "35497"
+jci_1_3: "jci1.3:c:BWBR0043880&z=2023-11-16&g=2023-11-16"
+jci_1_0: "1.0:c:BWBR0043880&g=2023-11-16"
+citeertitel_status: "officieel"
+short_title: "Tweede Verzamelspoedwet COVID-19"
+signed_date: "2020-07-08"
+entry_into_force: "2020-07-15"
 ---
-
-# Tweede Verzamelspoedwet COVID-19
+# Wet van 8 juli 2020, houdende tijdelijke voorzieningen op het terrein van het Ministerie van Onderwijs, Cultuur en Wetenschap en het Ministerie van Justitie en Veiligheid, en tot wijziging van enkele wetten op het terrein van het Ministerie van Onderwijs, Cultuur en Wetenschap, het Ministerie van Infrastructuur en Waterstaat, het Ministerie van Justitie en Veiligheid en het Ministerie van Volksgezondheid, Welzijn en Sport (Tweede Verzamelspoedwet COVID-19)
 
 ### Hoofdstuk 1. Ministerie van Onderwijs, Cultuur en Wetenschap
 
@@ -16,19 +44,19 @@ bron: "https://wetten.overheid.nl/BWBR0043880"
 
 ### Hoofdstuk 3. Ministerie van Justitie en Veiligheid
 
-#### Artikel 3.1. Tijdelijke wijziging [Wet beveiliging netwerk- en informatiesystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0041515)
+##### Artikel 3.1. Tijdelijke wijziging [Wet beveiliging netwerk- en informatiesystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0041515)
 
 Wijzigt de Wet beveiliging netwerk- en informatiesystemen.
 
-#### Artikel 3.2. Verval tijdelijke wijziging [Wet beveiliging netwerk- en informatiesystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0041515)
+##### Artikel 3.2. Verval tijdelijke wijziging [Wet beveiliging netwerk- en informatiesystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0041515)
 
 Wijzigt de Wet beveiliging netwerk- en informatiesystemen.
 
-#### Artikel 3.3. Tijdelijke inzet van raadsheren-plaatsvervangers en rechters-plaatsvervangers tot drieënzeventig jaar
+##### Artikel 3.3. Tijdelijke inzet van raadsheren-plaatsvervangers en rechters-plaatsvervangers tot drieënzeventig jaar
 
 Vervallen
 
-#### Artikel 3.4. Tijdelijke voorziening ten behoeve van de mondelinge behandeling in tuchtrechtelijke procedures
+##### Artikel 3.4. Tijdelijke voorziening ten behoeve van de mondelinge behandeling in tuchtrechtelijke procedures
 
 1. Indien in verband met de uitbraak van COVID-19 in tuchtrechtelijke procedures het houden van een fysieke zitting door de accountantskamer als bedoeld in de [Wet tuchtrechtspraak accountants](https://wetten.overheid.nl/jci1.3:c:BWBR0024238), een raad van discipline of het hof van discipline als bedoeld in de [Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093), een regionaal tuchtcollege of het centrale tuchtcollege als bedoeld in de Wet op de beroepen in de individuele gezondheidszorg, het veterinair tuchtcollege of het veterinair beroepscollege als bedoeld in de [Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250), de kamer voor gerechtsdeurwaarders als bedoeld in de [Gerechtsdeurwaarderswet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197), het tuchtcollege loodsen als bedoeld in de [Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365), een kamer voor het notariaat als bedoeld in de [Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388), het tuchtcollege voor de scheepvaart als bedoeld in de [Wet zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009124), het gerechtshof Amsterdam, het College van Beroep voor het bedrijfsleven of tuchtcolleges, ingesteld op grond van [artikel 3, eerste lid, van het Tuchtrechtbesluit Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003252&artikel=3), niet mogelijk is, kan de mondelinge behandeling plaatsvinden door middel van een tweezijdig elektronisch communicatiemiddel.
 
@@ -44,29 +72,29 @@ Alzo Wij in overweging genomen hebben, dat het met het oog op het treffen van no
 
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1.1. [Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521)
+##### Artikel 1.1. [Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521)
 
 [Artikel 7.8, vijfde lid, van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=7.8) is niet van toepassing als een lening wordt verstrekt om de ontvanger van een subsidie als bedoeld in [artikel 7.3 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=7.3), die als gevolg van COVID-19 niet in staat is om het eigen aandeel in de kosten van de gesubsidieerde activiteiten te dragen, in staat te stellen het eigen aandeel te financieren.
 
-#### Artikel 1.2. [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420)
+##### Artikel 1.2. [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420)
 
 1. In afwijking van [artikel 3, tweede lid, onderdeel b, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=3) mag de leraar aan wie een subsidie is verleend op grond van de [Subsidieregeling post-initiële leergang bewegingsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0041608) voor het behalen van een certificaat van een post-initiële leergang bewegingsonderwijs, drie aaneengesloten schooljaren zintuiglijke en lichamelijke oefening geven aan leerlingen in het derde tot en met achtste schooljaar, gerekend vanaf het moment waarop de leraar het onderwijs ter verkrijging van dit certificaat is gestart.
 
 2. Indien de periode van drie schooljaren, bedoeld in [artikel 10a, tweede lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=10a), de schooljaren 2018–2019 tot en met 2020–2021 of 2019–2020 tot en met 2021–2022 betreft, worden, in afwijking van artikel 10a, tweede lid, van die wet, de leerresultaten gemeten over de drie meest recente schooljaren waarin centrale eindtoetsen of andere eindtoetsen als bedoeld in [artikel 9b van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9b), zoals dat artikel luidde voorafgaand aan de inwerkingtreding van [artikel I, onderdeel C, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0046751&artikel=I) van [datum] 9 februari 2022 tot wijziging van een aantal onderwijswetten in verband met aanpassingen op het gebied van de doorstroom van het basisonderwijs naar het voortgezet onderwijs en wijziging van de stelselinrichting van doorstroomtoetsen en toetsen verbonden aan leerling- en onderwijsvolgsystemen in het basisonderwijs zijn afgenomen.
 
-#### Artikel 1.3. [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549)
+##### Artikel 1.3. [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549)
 
 In afwijking van [artikel 3, tweede lid, onderdeel b, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=3) mag de leraar aan wie een subsidie is verleend op grond van de Subsidieregeling post-initiële leergang bewegingsonderwijs voor het behalen van een certificaat van een post-initiële leergang bewegingsonderwijs, drie aaneengesloten schooljaren zintuiglijke en lichamelijke oefening geven aan groepen bestemd voor leerlingen vanaf 7 jaar in het speciaal onderwijs, gerekend vanaf het moment waarop de leraar het onderwijs ter verkrijging van dit certificaat is gestart.
 
-#### Artikel 1.4. Wijziging [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682)
+##### Artikel 1.4. Wijziging [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682)
 
 Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
 
-#### Artikel 1.5. Wijziging [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453)
+##### Artikel 1.5. Wijziging [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453)
 
 Wijzigt de Wet studiefinanciering 2000.
 
-#### Artikel 2.1. Wijziging [Wegenverkeerswet 1994](onbekend)
+##### Artikel 2.1. Wijziging [Wegenverkeerswet 1994](onbekend)
 
 Wijzigt de Wegenverkeerswet 1994,
 
@@ -74,17 +102,17 @@ Wijzigt de Wegenverkeerswet 1994,
 
 ### Hoofdstuk 4. Ministerie van Volksgezondheid, Welzijn en Sport
 
-#### Artikel 4.1. Wijziging [Wet medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0042755)
+##### Artikel 4.1. Wijziging [Wet medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0042755)
 
 Wijzigt de Wet medische hulpmiddelen.
 
 ### Hoofstuk 5. Slotbepalingen
 
-#### Artikel 5.1. Overgangsrecht [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=3&z=2023-11-16&g=2023-11-16), [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=3&artikel=3.3&z=2023-11-16&g=2023-11-16)
+##### Artikel 5.1. Overgangsrecht [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=3&z=2023-11-16&g=2023-11-16), [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=3&artikel=3.3&z=2023-11-16&g=2023-11-16)
 
 Vervallen
 
-#### Artikel 5.2. Inwerkingtreding en verval [hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=1&z=2023-11-16&g=2023-11-16)
+##### Artikel 5.2. Inwerkingtreding en verval [hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=1&z=2023-11-16&g=2023-11-16)
 
 1. Hoofdstuk 1 van deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, met uitzondering van de [artikelen 1.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=1&artikel=1.2&z=2023-11-16&g=2023-11-16), en [1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=1&artikel=1.4&z=2023-11-16&g=2023-11-16), die in werking treden met ingang van 1 augustus 2020.
 
@@ -92,11 +120,11 @@ Vervallen
 
 3. De [artikelen 1.1 tot en met 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=1&artikel=1.1&z=2023-11-16&g=2023-11-16) vervallen op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 5.3. Inwerkingtreding [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=2&z=2023-11-16&g=2023-11-16) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=4&z=2023-11-16&g=2023-11-16)
+##### Artikel 5.3. Inwerkingtreding [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=2&z=2023-11-16&g=2023-11-16) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=4&z=2023-11-16&g=2023-11-16)
 
 [Hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=2&z=2023-11-16&g=2023-11-16) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=4&z=2023-11-16&g=2023-11-16) van deze wet treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin hij wordt geplaatst.
 
-#### Artikel 5.4. Inwerkingtreding en verval [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=3&z=2023-11-16&g=2023-11-16)
+##### Artikel 5.4. Inwerkingtreding en verval [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=3&z=2023-11-16&g=2023-11-16)
 
 1. [Hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=3&z=2023-11-16&g=2023-11-16) van deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
@@ -108,7 +136,7 @@ Vervallen
 
 5. De voordracht voor een krachtens het vierde lid vast te stellen koninklijk besluit wordt niet eerder gedaan dan een week nadat het ontwerp aan beide Kamers van de Staten-Generaal is overgelegd.
 
-#### Artikel 5.5. Citeertitel
+##### Artikel 5.5. Citeertitel
 
 Deze wet wordt aangehaald als: Tweede Verzamelspoedwet COVID-19.
 

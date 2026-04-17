@@ -1,16 +1,41 @@
 ---
 title: "Regeling brievenbussen BES"
 identifier: "BWBR0028650"
-categorie: "Overig"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028650"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028650"
+soort: "ministeriele-regeling-BES"
+stam_id: "10917033"
+version_id: "17900612"
+internal_id: "C24980291"
+label_id: "10891634"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028650/2010-10-10/0"
+intitule_bron: "Stcrt.2010-14860"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-09"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-14860"
+original_signed_date: "2010-09-09"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-14860"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028650&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028650&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-09"
+entry_into_force: "2010-10-10"
 ---
-
 # Regeling brievenbussen BES
 
-#### Artikel 1
+##### Artikel 1
 
 Onder brievenbus wordt in deze regeling verstaan een voorziening voor het ontvangen van te bezorgen briefpost aan een huis- of kantooradres, bestaande uit:
 
@@ -18,7 +43,7 @@ Onder brievenbus wordt in deze regeling verstaan een voorziening voor het ontvan
 
 - b. een gleuf in een deur, houten wand, stenen muur of pilaar met tenminste de volgende afmetingen: 25 cm lengte en 3,2 cm breedte.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Brievenbussen bestemd voor de aflevering van postzendingen behoren te zijn aangebracht zo dicht mogelijk bij de rijbaan van een voor motorrijtuigen op meer dan twee wielen berijdbare openbare weg en in geen geval meer dan 10 meter daarvan verwijderd te zijn. Ze dienen voorts van de weg af zonder belemmering bereikbaar te zijn.
 
@@ -42,7 +67,7 @@ Onder brievenbus wordt in deze regeling verstaan een voorziening voor het ontvan
 
 7. Het niveau waarop de brievenbussen worden bediend, dient te zijn gelegen tussen 1 en 1,5 meter hoogte gemeten vanaf het grondvlak waarop de postbesteller de brievenbus bedient.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De vorm en de kleur van de brievenbussen moeten zodanig zijn, dat verwarring met voor het publiek bestemde brievenbussen van de houder van de concessie niet mogelijk is.
 
@@ -56,14 +81,14 @@ Onder brievenbus wordt in deze regeling verstaan een voorziening voor het ontvan
 
 6. Indien zich achter de inwerpgleuf een ruimte bevindt, bestemd voor de bewaring van postzendingen, dan dient de inwendige bruikbare breedte ten minste 27 cm te bedragen en de twee andere inwendige bruikbare afmetingen ten minste 15 en 38 cm.
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling berust op [artikel 9 van de Wet post BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&artikel=9).
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling wordt aangehaald als: Regeling brievenbussen BES.

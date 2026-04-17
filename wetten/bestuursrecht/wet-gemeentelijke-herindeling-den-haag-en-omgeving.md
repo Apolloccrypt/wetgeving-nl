@@ -1,14 +1,42 @@
 ---
-title: "Wet gemeentelijke herindeling Den Haag en omgeving"
+title: "Wet van 12 juli 2001 tot gemeentelijke herindeling van Den Haag en omgeving"
 identifier: "BWBR0012687"
-categorie: "Bestuursrecht"
-publicatiedatum: 2001-07-25
-laatste_update: 2001-07-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012687"
+country: "nl"
+rank: "wet"
+publication_date: "2001-07-25"
+last_updated: "2001-07-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012687"
+soort: "wet"
+stam_id: "1585673"
+version_id: "2348222"
+internal_id: "C2348221"
+label_id: "1540524"
+dtd_version: "2.0"
+original_entry_into_force: "2001-07-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012687/2001-07-25/0"
+intitule_bron: "Stb.2001-349"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-07-12"
+intitule_published: "2001-07-24"
+intitule_in_force: "2001-07-24"
+intitule_status: "goed"
+original_publication: "Stb.2001-349"
+original_signed_date: "2001-07-12"
+original_published_date: "2001-07-24"
+original_effect: "nieuwe-regeling"
+original_dossier: "27598"
+original_url_id: "stb-2001-349"
+entry_into_force_date: "2001-07-25"
+entry_into_force_dossier: "27598"
+jci_1_3: "jci1.3:c:BWBR0012687&z=2001-07-25&g=2001-07-25"
+jci_1_0: "1.0:c:BWBR0012687&g=2001-07-25"
+citeertitel_status: "officieel"
+short_title: "Wet gemeentelijke herindeling Den Haag en omgeving"
+signed_date: "2001-07-12"
+entry_into_force: "2001-07-25"
 ---
-
-# Wet gemeentelijke herindeling Den Haag en omgeving
+# Wet van 12 juli 2001 tot gemeentelijke herindeling van Den Haag en omgeving
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,31 +46,31 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### Paragraaf 1. Grenswijziging van gemeenten die niet worden opgeheven
 
-#### Artikel 1
+##### Artikel 1
 
 Met ingang van de datum van herindeling worden de grenzen van de gemeenten 's-Gravenhage en Rijswijk gewijzigd als aangegeven op de bij deze wet behorende kaart.
 
 #### Paragraaf 2. Opheffing en instelling van gemeenten
 
-#### Artikel 2
+##### Artikel 2
 
 Met ingang van de datum van herindeling worden de gemeenten Leidschendam, Nootdorp, Pijnacker en Voorburg opgeheven.
 
-#### Artikel 3
+##### Artikel 3
 
 Met ingang van de datum van herindeling worden de nieuwe gemeenten Leidschendam-Voorburg en Pijnacker-Nootdorp ingesteld.
 
-#### Artikel 4
+##### Artikel 4
 
 De nieuwe gemeente Leidschendam-Voorburg bestaat uit het grondgebied van de op te heffen gemeenten Leidschendam en Voorburg en de nieuwe gemeente Pijnacker-Nootdorp bestaat uit het grondgebied van de op te heffen gemeenten Nootdorp en Pijnacker, met dien verstande dat de grenzen van de nieuwe gemeenten komen te lopen zoals aangegeven op de bij de wet behorende kaart.
 
 #### Paragraaf 3. Overige bepalingen
 
-#### Artikel 5
+##### Artikel 5
 
 Voor de nieuwe gemeenten Leidschendam-Voorburg respectievelijk Pijnacker-Nootdorp worden de op te heffen gemeenten Voorburg respectievelijk Pijnacker aangewezen voor de toepassing van [artikel 36 van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=36), in verband met de toepassing van de instructies en reglementen, bedoeld in dat artikel.
 
-#### Artikel 6
+##### Artikel 6
 
 Voor de op te heffen gemeenten Leidschendam en Voorburg respectievelijk Nootdorp en Pijnacker worden de nieuwe gemeenten Leidschendam-Voorburg respectievelijk Pijnacker-Nootdorp aangewezen voor de toepassing van de volgende bepalingen van de [Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718):
 
@@ -58,7 +86,7 @@ Voor de op te heffen gemeenten Leidschendam en Voorburg respectievelijk Nootdorp
 
 - f. [artikel 71, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=71), in verband met de overgang van de gemeentelijke basisadministratie persoonsgegevens.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Voor de nieuwe gemeenten Leidschendam-Voorburg en Pijnacker-Nootdorp worden tussentijdse raadsverkiezingen gehouden als bedoeld in [artikel 52 van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=52).
 
@@ -68,7 +96,7 @@ Voor de op te heffen gemeenten Leidschendam en Voorburg respectievelijk Nootdorp
 
 4. De zittingsperiode van de leden van de raden van de nieuwe gemeenten Leidschendam-Voorburg en Pijnacker-Nootdorp eindigt in het in het derde lid bedoelde geval gelijk met de zittingsperiode van de leden van de raden van de overige gemeenten die volgt op de eerste verkiezingen voor de gemeenteraden na de datum van herindeling.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties stelt, na overleg met de colleges van burgemeester en wethouders van de gemeenten 's-Gravenhage, Leidschendam, Nootdorp, Pijnacker, Rijswijk en Voorburg, het aantal ambtenaren vast dat met ingang van de datum van herindeling van de gemeenten Leidschendam, Nootdorp, Pijnacker, Rijswijk en Voorburg voorlopig overgaat naar de gemeente 's-Gravenhage.
 
@@ -78,29 +106,29 @@ Voor de op te heffen gemeenten Leidschendam en Voorburg respectievelijk Nootdorp
 
 4. De [artikelen 59](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=59), [60](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=60), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=62), [63](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=63) en [65 van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=65) zijn op de in de voordrachten vermelde ambtenaren en op de gemeente 's-Gravenhage, respectievelijk het bevoegd gezag van de gemeente 's-Gravenhage van overeenkomstige toepassing.
 
-#### Artikel 9
+##### Artikel 9
 
 Voor de overige ambtenaren, in dienst van de op te heffen gemeenten Leidschendam en Voorburg, die niet zijn aangewezen op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0012687&paragraaf=3&artikel=8&z=2001-07-25&g=2001-07-25), respectievelijk voor de overige ambtenaren, in dienst van de op te heffen gemeenten Nootdorp en Pijnacker, die niet zijn aangewezen op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0012687&paragraaf=3&artikel=8&z=2001-07-25&g=2001-07-25), worden de nieuwe gemeenten Leidschendam-Voorburg respectievelijk Pijnacker-Nootdorp aangewezen voor de toepassing van [artikel 59, eerste lid, van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=59) in verband met de overgang van deze ambtenaren.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties treedt in de plaats van gedeputeerde staten respectievelijk de commissaris van de Koning bij de toepassing van de [artikelen 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=10), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=41), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=44), [50](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=50), [54](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=54), [55](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=55), [56](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=56), [57](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=57),[59](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=59), [61](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=61), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=62), [66](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=66) en [79 van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=79) ten aanzien van de gemeenten 's-Gravenhage en Rijswijk en de nieuwe gemeenten Leidschendam-Voorburg en Pijnacker-Nootdorp.
 
 2. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties kan bij de vaststelling van de grensbeschrijving, bedoeld in [artikel 10, tweede lid, van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=10), kennelijke onjuistheden verbeteren in de grenzen zoals die zijn aangegeven op de bij deze wet behorende kaart.
 
-#### Artikel 11
+##### Artikel 11
 
 De gemeenten Leidschendam-Voorburg, Pijnacker-Nootdorp en Rijswijk ontvangen in de jaren 2002, 2003 en 2004 gezamenlijk een bedrag ten laste van 's Rijks kas van € 8 miljoen per jaar in verband met de grenswijziging. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties stelt de verdeling van het bedrag over de drie gemeenten vast.
 
-#### Artikel 12
+##### Artikel 12
 
 Wijzigt de Wet op de rechterlijke indeling
 
-#### Artikel 13
+##### Artikel 13
 
 Wijzigt de Politiewet 1993
 
-#### Artikel 14
+##### Artikel 14
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 

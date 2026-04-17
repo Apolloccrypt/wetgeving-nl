@@ -1,13 +1,38 @@
 ---
 title: "Besluit intrekking aanwijzing militair luchtvaartterrein Soesterberg"
 identifier: "BWBR0030615"
-categorie: "Milieu"
-publicatiedatum: 2011-11-10
-laatste_update: 2011-11-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030615"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2011-11-10"
+last_updated: "2011-11-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030615"
+soort: "ministeriele-regeling"
+stam_id: "11492583"
+version_id: "18903072"
+internal_id: "C26372641"
+label_id: "11465894"
+dtd_version: "2.0"
+original_entry_into_force: "2011-11-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030615/2011-11-10/0"
+intitule_bron: "Stcrt.2011-20005"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-10-28"
+intitule_published: "2011-11-09"
+intitule_in_force: "2011-11-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-20005"
+original_signed_date: "2011-10-28"
+original_published_date: "2011-11-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-20005"
+entry_into_force_date: "2011-11-10"
+jci_1_3: "jci1.3:c:BWBR0030615&z=2011-11-10&g=2011-11-10"
+jci_1_0: "1.0:c:BWBR0030615&g=2011-11-10"
+citeertitel_status: "officieel"
+signed_date: "2011-10-28"
+entry_into_force: "2011-11-10"
 ---
-
 # Besluit intrekking aanwijzing militair luchtvaartterrein Soesterberg
 
 Handelende na overleg met de staatssecretaris van Infrastructuur en Milieu;
@@ -24,21 +49,21 @@ Gelet op [artikel 29, eerste lid van de Luchtvaartwet](https://wetten.overheid.n
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Het besluit van de staatssecretaris van Defensie tot het aanwijzen van het militaire luchtvaartterrein Soesterberg nr. 260.023/F van 8 juni 1961 (Stcrt. nr. 118), zoals gewijzigd en aangevuld bij Koninklijk Besluit nr. 42 van 3 juli 1962 (Stcrt. nr. 185), wordt ingetrokken.
 
 2. Het besluit van de staatssecretaris van Defensie tot het vaststellen van de geluidszone rond het militaire luchtvaartterrein Soesterberg nr. MG93019049/MG93019055 van 22 maart 1993 (Stcrt. nr. 61), nadien gewijzigd door een voorlopige voorziening van de Afdeling Bestuursrechtspraak van de Raad van State van 24 november 2004 nr. 200403892/1, wordt ingetrokken.
 
-#### Artikel 2
+##### Artikel 2
 
 Aan degene die door dit besluit schade lijdt of zal lijden, wordt op verzoek een naar billijkheid te bepalen schadevergoeding toegekend, voor zover die schade redelijkerwijze niet of niet geheel te zijnen laste behoort te blijven en voor zover de vergoeding niet, of niet voldoende door aankoop, onteigening of anderszins is verzekerd.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit wordt aangehaald als: Besluit intrekking aanwijzing militair luchtvaartterrein Soesterberg.
 

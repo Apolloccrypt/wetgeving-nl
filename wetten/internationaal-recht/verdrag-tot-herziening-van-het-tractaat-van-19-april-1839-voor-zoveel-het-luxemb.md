@@ -1,13 +1,37 @@
 ---
 title: "Verdrag tot herziening van het Tractaat van 19 april 1839, voor zoveel het Luxemburg betreft"
 identifier: "BWBV0006094"
-categorie: "Internationaal recht"
-publicatiedatum: 1867-05-31
-laatste_update: 1867-05-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006094"
+country: "nl"
+rank: "verdrag"
+publication_date: "1867-05-31"
+last_updated: "1867-05-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006094"
+soort: "verdrag"
+stam_id: "10005030703"
+version_id: "10005355672"
+internal_id: "C10008240301"
+label_id: "10005013794"
+dtd_version: "2.0"
+original_entry_into_force: "1867-05-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006094/1867-05-31/0"
+intitule_bron: "Stb.1867-54"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1867-06-05"
+intitule_published: "1867-06-14"
+intitule_in_force: "1867-06-14"
+intitule_status: "goed"
+original_publication: "Stb.1867-54"
+original_signed_date: "1867-06-05"
+original_published_date: "1867-06-14"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1867-05-31"
+jci_1_3: "jci1.3:c:BWBV0006094&z=1867-05-31&g=1867-05-31"
+jci_1_0: "1.0:c:BWBV0006094&g=1867-05-31"
+citeertitel_status: "redactioneel"
+signed_date: "1867-06-05"
+entry_into_force: "1867-05-31"
 ---
-
 # Verdrag tot herziening van het Tractaat van 19 april 1839, voor zoveel het Luxemburg betreft
 
 In naam der zeer Heilige en Ondeelbare Drieëenheid.
@@ -36,7 +60,7 @@ en Zijne Majesteit de Keizer aller Russen, den heer FILIP baron VON BRUNNOW, wer
 
 die, na elkander hunne in goeden en behoorlijken vorm bevonden volmagten te hebben medegedeeld, omtrent de navolgende artikelen zijn overeengekomen:
 
-#### Artikel I
+##### Artikel I
 
 Zijne Majesteit de Koning der Nederlanden, Groothertog van Luxemburg, handhaaft de banden, welke gezegd Groothertogdom aan het Huis van Oranje-Nassau verbinden, krachtens de verdragen, waarbij die Staat is geplaatst onder de souvereiniteit van Zijne Majesteit den Koning Groothertog, Zijne afstammelingen en opvolgers.
 
@@ -44,7 +68,7 @@ De regten, welke de Agnaten van het Huis van Nassau op de erfopvolging van het G
 
 De Hooge contracterende Partijen aanvaarden de tegenwoordige verklaring en nemen daarvan akte.
 
-#### Artikel II
+##### Artikel II
 
 Het Groothertogdom Luxemburg, binnen de grenzen vastgesteld bij de akte, die gehecht is aan de verdragen van 19 April 1839, onder de garantie der hoven van Oostenrijk, Frankrijk, Groot-Brittannie, Pruissen en Rusland, zal voortaan en ten eeuwigen dage een’ onzijdigen Staat vormen.
 
@@ -54,7 +78,7 @@ De Hooge contracterende Partijen verbinden zich om het in het tegenwoordige arti
 
 Dit beginsel is en blijft geplaatst onder de sanctie van den collectieven waarborg der Mogendheden, welke het tegenwoordige tractaat onderteekend hebben, met uitzondering van Belgie, dat zelf een onzijdige Staat is.
 
-#### Artikel III
+##### Artikel III
 
 Het Groothertogdom Luxemburg krachtens de bepalingen van het voorgaande artikel onzijdig verklaard zijnde, wordt de handhaving of de daarstelling van versterkte plaatsen op zijn grondgebied onnoodig en doelloos.
 
@@ -62,23 +86,23 @@ Bij gevolg is in gemeenschappelijk overleg overeengekomen, dat de stad Luxemburg
 
 Zijne Majesteit de Koning Groothertog behoudt zich voor in die stad te onderhouden zoodanig aantal troepen als noodig is, om er te waken voor de handhaving der goede orde.
 
-#### Artikel IV
+##### Artikel IV
 
 Overeenkomstig de bepalingen, vervat in de artt. II en III, verklaart Zijne Majesteit de Koning van Pruissen, dat zijne troepen, tegenwoordig in bezetting liggende in de vesting Luxemburg, het bevel zullen ontvangen om tot de ontruiming van die plaats over te gaan, onmiddellijk na de uitwisseling der ratificatien van het tegenwoordige verdrag. Men zal gelijktijdig beginnen met het doen terugtrekken van het geschut, van den krijgsvoorraad en van al de voorwerpen, die deel uitmaken van de uitrusting der gezegde versterkte plaats.
 
 Gedurende dat men daarmede bezig is, zal er slechts achterblijven zoodanig aantal troepen als noodig is, om te waken voor de veiligheid van het oorlogsmaterieel en om de expeditie daarvan te bewerkstelligen, welke binnen de kortst mogelijke tijdsruimte zal moeten afgeloopen zijn.
 
-#### Artikel V
+##### Artikel V
 
 Zijne Majesteit de Koning Groothertog, uit krachte van de souvereiniteitsregten, welke hij uitoefent over de stad en de vesting Luxemburg, verbindt zich van Zijne zijde de noodige maatregelen te nemen, ten einde de genoemde versterkte plaats in eene opene stad te doen overgaan door middel van eene slooping, welke Zijne Majesteit als voldoende zal beschouwen om de bedoelingen te verwezenlijken van de Hooge contracterende Partijen, gelijk zij uitgedrukt zijn in art. III van het tegenwoordige verdrag. De tot dat einde vereischte werkzaamheden zullen een aanvang nemen onmiddellijk na het terugtrekken der bezetting. Zij zullen plaats hebben met al de voorzorgen, welke de belangen van de inwoners der stad vereischen.
 
 Zijne Majesteit de Koning Groothertog belooft bovendien, dat de vestingwerken van de stad Luxemburg in de toekomst niet zullen hersteld worden, en dat daar geenerlei militaire instelling zal behouden blijven of in het leven geroepen worden.
 
-#### Artikel VI
+##### Artikel VI
 
 De Mogendheden, welke het tegenwoordig verdrag onderteekend hebben, constateren dat, vermits de ontbinding van den Duitschen Bond met zich heeft medegebragt de losmaking der banden, welke het Hertogdom Limburg gezamenlijk met het Groothertogdom Luxemburg aan gezegden Bond hebben verbonden, daaruit volgt, dat de betrekkingen, waarvan melding wordt gemaakt in de artt. III, IV en V van het verdrag van 19 April 1839, tusschen het Groothertogdom en zekere grondgebiedsdeelen, behoorende tot het Hertogdom Limburg, hebben opgehouden te bestaan; blijvende gezegde grondgebiedsdeelen een integrerend deel uitmaken van het Koningrijk der Nederlanden.
 
-#### Artikel VII
+##### Artikel VII
 
 Het tegenwoordige verdrag zal worden geratificeerd en de ratificatien daarvan zullen te Londen worden uitgewisseld binnen den tijd van vier weken, of zoo mogelijk vroeger.
 

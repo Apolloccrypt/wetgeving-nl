@@ -1,13 +1,38 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en Canada inzake wederzijdse rechtshulp in strafzaken"
 identifier: "BWBV0001049"
-categorie: "Internationaal recht"
-publicatiedatum: 1992-05-01
-laatste_update: 1992-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001049"
+country: "nl"
+rank: "verdrag"
+publication_date: "1992-05-01"
+last_updated: "1992-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001049"
+soort: "verdrag"
+stam_id: "10002496953"
+version_id: "10002490262"
+internal_id: "C10006976561"
+label_id: "10002486584"
+dtd_version: "2.0"
+original_entry_into_force: "1992-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001049/1992-05-01/0"
+intitule_bron: "Trb.1991-85"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-03-16"
+intitule_published: "1991-06-10"
+intitule_in_force: "1992-04-29"
+intitule_status: "goed"
+original_publication: "Trb.1991-85"
+original_signed_date: "1992-03-16"
+original_published_date: "1991-06-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1991-85"
+entry_into_force_date: "1992-05-01"
+jci_1_3: "jci1.3:c:BWBV0001049&z=1992-05-01&g=1992-05-01"
+jci_1_0: "1.0:c:BWBV0001049&g=1992-05-01"
+citeertitel_status: "redactioneel"
+signed_date: "1992-03-16"
+entry_into_force: "1992-05-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en Canada inzake wederzijdse rechtshulp in strafzaken
 
 De Regering van het Koninkrijk der Nederlanden
@@ -20,7 +45,7 @@ Geleid door de wens de samenwerking tussen de twee landen bij de opsporing, verv
 
 zijn overeengekomen als volgt:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag
 
@@ -36,7 +61,7 @@ wordt verstaan onder „strafbaar feit":
 
 - b. wat het Koninkrijk der Nederlanden betreft, elk strafbaar feit als zodanig aangemerkt door de wetgever van Nederland, de Nederlandse Antillen of Aruba.
 
-#### Artikel 2. Werkingssfeer
+##### Artikel 2. Werkingssfeer
 
 1. De Partijen verlenen elkaar, overeenkomstig de bepalingen van dit Verdrag, wederzijdse rechtshulp in alle aangelegenheden verband houdend met de opsporing, vervolging en bestrijding van strafbare feiten.
 
@@ -60,17 +85,17 @@ wordt verstaan onder „strafbaar feit":
 
 - i. het opsporen van, beslag leggen op en verbeurd verklaren van de baten van strafbare feiten en andere voorwerpen en de inning van boetes.
 
-#### Artikel 3. Andere rechtshulp
+##### Artikel 3. Andere rechtshulp
 
 Dit Verdrag sluit niet uit dat rechtshulp wordt verleend ingevolge andere overeenkomsten of regelingen tussen de Partijen of ingevolge door hun autoriteiten gevestigde praktijken.
 
-#### Artikel 4. Verzoeken
+##### Artikel 4. Verzoeken
 
 1. Verzoeken en antwoorden daarop geschieden schriftelijk en worden door de centrale autoriteiten rechtstreeks tot elkander gericht.
 
 2. In dringende omstandigheden kunnen, wanneer zulks is toegestaan door de centrale autoriteit van de aangezochte Staat, afschriften van antwoorden rechtstreeks worden verstrekt aan de bevoegde autoriteit van de verzoekende Staat namens welke het verzoek was gedaan.
 
-#### Artikel 5. Inhoud van de verzoeken en de taal waarin deze dienen te zijn gesteld
+##### Artikel 5. Inhoud van de verzoeken en de taal waarin deze dienen te zijn gesteld
 
 1. Verzoeken om rechtshulp bevatten:
 
@@ -102,7 +127,7 @@ Dit Verdrag sluit niet uit dat rechtshulp wordt verleend ingevolge andere overee
 
 4. Alle verzoeken gaan vergezeld van een vertaling in een officiële taal van de aangezochte Staat.
 
-#### Artikel 6. Weigering of uitstel van rechtshulp
+##### Artikel 6. Weigering of uitstel van rechtshulp
 
 1. Rechtshulp kan worden geweigerd indien naar de mening van de aangezochte Staat:
 
@@ -120,17 +145,17 @@ Dit Verdrag sluit niet uit dat rechtshulp wordt verleend ingevolge andere overee
 
 - b. overlegt, indien passend, met de verzoekende Staat ten einde vast te stellen of rechtshulp kan worden verleend onder de voorwaarden en op een wijze die de aangezochte Staat noodzakelijk acht.
 
-#### Artikel 7. Uitvoering van verzoeken
+##### Artikel 7. Uitvoering van verzoeken
 
 Een verzoek wordt voortvarend en in overeenstemming met het recht van de aangezochte Staat uitgevoerd. De in het verzoek aangegeven procedures worden gevolgd, ook indien deze de aangezochte Staat onbekend zijn, behalve voor zover de wetten van de aangezochte Staat zulks verbieden.
 
-#### Artikel 8. Bescherming van het vertrouwelijk karakter
+##### Artikel 8. Bescherming van het vertrouwelijk karakter
 
 1. Op verzoek van de verzoekende Staat handhaaft de aangezochte Staat het vertrouwelijk karakter van een verzoek, de inhoud daarvan, de begeleidende bescheiden en alle handelingen verricht ingevolge het verzoek, behalve voor zover noodzakelijk om het verzoek uit te voeren.
 
 2. Indien het verzoek niet ten uitvoer kan worden gelegd zonder inbreuk te maken op de blijkens het verzoek gewenste handhaving van het vertrouwelijk karakter, deelt de aangezochte Staat zulks mede aan de verzoekende Staat, die vervolgens bepaalt of het verzoek niettemin dient te worden uitgevoerd.
 
-#### Artikel 9. Het afleggen van getuigenverklaringen onder ede of belofte in de aangezochte Staat
+##### Artikel 9. Het afleggen van getuigenverklaringen onder ede of belofte in de aangezochte Staat
 
 1. Wanneer wordt verzocht een persoon een getuigenverklaring te laten afleggen, kan de verzoekende Staat verlangen dat de verklaring door die persoon wordt afgelegd onder ede of belofte. Hiertoe wordt die persoon, indien nodig, gedagvaard om te verschijnen en te verklaren volgens de wet van de aangezochte Staat.
 
@@ -150,7 +175,7 @@ Een verzoek wordt voortvarend en in overeenstemming met het recht van de aangezo
 
 4. Indien een persoon om wiens getuigenverklaring wordt verzocht in de aangezochte Staat zich erop beroept dat er ingevolge het recht van de verzoekende Staat een verschoningsrecht of -plicht bestaat, verstrekt de verzoekende Staat de aangezochte Staat ter zake een schriftelijke verklaring van een door de centrale autoriteit van de verzoekende Staat aangewezen persoon.
 
-#### Artikel 10. Huiszoeking, inbeslagneming en uitlevering van bewijs
+##### Artikel 10. Huiszoeking, inbeslagneming en uitlevering van bewijs
 
 1. De aangezochte Staat geeft, in zoverre zijn wet zulks toelaat, gevolg aan verzoeken om huiszoeking, inbeslagneming of de uitlevering ter inbeslagneming van schriftelijke bescheiden, of voorwerpen en de overdracht van aldus verkregen bewijsmateriaal, of afschriften daarvan, aan de verzoekende Staat, mits blijkens de in het verzoek vermelde gegevens zulke maatregelen krachtens de wet van de aangezochte Staat zouden zijn gerechtvaardigd.
 
@@ -158,7 +183,7 @@ Een verzoek wordt voortvarend en in overeenstemming met het recht van de aangezo
 
 3. De verzoekende Staat voldoet aan alle voorwaarden die door de aangezochte Staat worden gesteld met betrekking tot op grond van dit artikel aan de verzoekende Staat overgedragen voorwerpen.
 
-#### Artikel 11. Beschikbaarheid van gedetineerden om een getuigenverklaring af te leggen of medewerking te verlenen aan onderzoeken in de verzoekende Staat
+##### Artikel 11. Beschikbaarheid van gedetineerden om een getuigenverklaring af te leggen of medewerking te verlenen aan onderzoeken in de verzoekende Staat
 
 1. Een gedetineerde in de aangezochte Staat, om wiens aanwezigheid wordt verzocht in de verzoekende Staat om te getuigen of medewerking te verlenen aan een onderzoek, kan voor dat doel worden overgebracht, mits de betrokkene daarmede instemt.
 
@@ -166,13 +191,13 @@ Een verzoek wordt voortvarend en in overeenstemming met het recht van de aangezo
 
 3. Wanneer de duur van de opgelegde straf van een uit hoofde van dit artikel overgebrachte persoon verstrijkt terwijl deze persoon zich in de verzoekende Staat bevindt, wordt deze persoon in vrijheid gesteld en daarna behandeld als een persoon, als bedoeld in artikel 12.
 
-#### Artikel 12. Beschikbaarheid van andere personen om een getuigenverklaring af te leggen of medewerking te verlenen aan onderzoeken in de verzoekende Staat
+##### Artikel 12. Beschikbaarheid van andere personen om een getuigenverklaring af te leggen of medewerking te verlenen aan onderzoeken in de verzoekende Staat
 
 1. Er kan een verzoek worden gedaan om rechtshulp bestaande uit het verkrijgen van de beschikking over een persoon om een getuigenverklaring af te leggen of om medewerking te verlenen aan een onderzoek in de verzoekende Staat.
 
 2. De aangezochte Staat nodigt, wanneer deze de zekerheid heeft verkregen dat de verzoekende Staat passende regelingen voor de veiligheid van deze persoon zal treffen, de betrokkene uit om mede te werken aan het onderzoek of als getuige te verschijnen in een procedure en verzoekt die persoon daartoe bereid te zijn.
 
-#### Artikel 13. Vrijgeleide
+##### Artikel 13. Vrijgeleide
 
 1. Dit artikel is van toepassing op personen die ermee instemmen een getuigenverklaring af te leggen of medewerking te verlenen aan een onderzoek in de verzoekende Staat ingevolge verzoeken op grond van artikel 11 of 12.
 
@@ -194,7 +219,7 @@ Een verzoek wordt voortvarend en in overeenstemming met het recht van de aangezo
 
 8. De verzoekende Staat stelt een persoon wiens getuigenis of medewerking aan een onderzoek wordt verzocht in kennis van zijn recht op de hoogte te worden gesteld van de rechten, bescherming en verplichtingen die op grond van de wetten van de verzoekende Staat voor deze persoon gelden.
 
-#### Artikel 14. Betekening van stukken
+##### Artikel 14. Betekening van stukken
 
 1. De aangezochte Staat betekent elk hem ter betekening toegezonden stuk.
 
@@ -202,13 +227,13 @@ Een verzoek wordt voortvarend en in overeenstemming met het recht van de aangezo
 
 3. De aangezochte Staat zendt een bewijs van de betekening aan de verzoekende Staat.
 
-#### Artikel 15. Overheidsstukken en -documenten
+##### Artikel 15. Overheidsstukken en -documenten
 
 1. De aangezochte Staat verstrekt afschriften van voor een ieder toegankelijke stukken en documenten van ministeries en overheidsdiensten.
 
 2. De aangezochte Staat kan afschriften verstrekken van stukken, documenten of gegevens die in het bezit van een ministerie of overheidsdienst zijn, doch niet voor een ieder toegankelijk zijn, in dezelfde mate als waarin en op dezelfde voorwaarden als waarop deze toegankelijk zouden zijn voor zijn eigen politiefunctionarissen en rechterlijke autoriteiten.
 
-#### Artikel 16. Verbeurdverklaring en boetes
+##### Artikel 16. Verbeurdverklaring en boetes
 
 1. Op verzoek tracht de aangezochte Staat voorwerpen op te sporen van een persoon tegen wie een bevel tot verbeurdverklaring, een geldstraf of een ander bevel van soortgelijke strekking is of kan worden uitgevaardigd door een strafrechter in de verzoekende Staat.
 
@@ -234,11 +259,11 @@ De aangezochte Staat stelt de verzoekende Staat onverwijld in kennis van de naar
 
 7. Bij de toepassing van dit artikel worden de rechten van derden te goeder trouw geëerbiedigd.
 
-#### Artikel 17. Waarmerking en legalisering
+##### Artikel 17. Waarmerking en legalisering
 
 Op verzoek waarmerkt of legaliseert de aangezochte Staat, op een voor de verzoekende Staat aanvaardbare wijze, de op grond van dit Verdrag toe te zenden afschriften van stukken of documenten.
 
-#### Artikel 18. Kosten
+##### Artikel 18. Kosten
 
 1. De aangezochte Staat draagt de kosten die zijn gemoeid met de uitvoering van het verzoek om rechtshulp, met uitzondering van de door de verzoekende Staat te dragen:
 
@@ -248,25 +273,25 @@ Op verzoek waarmerkt of legaliseert de aangezochte Staat, op een voor de verzoek
 
 2. Indien blijkt dat de tenuitvoerlegging van het verzoek bovenmatige kosten met zich meebrengt, plegen de Partijen overleg om de voorwaarden waaronder en de wijze waarop de verzochte rechtshulp kan worden verleend, vast te stellen.
 
-#### Artikel 19. Overleg
+##### Artikel 19. Overleg
 
 1. De Partijen plegen, op verzoek van één hunner, onverwijld overleg over de uitlegging en toepassing van dit Verdrag.
 
 2. De Partijen kunnen aanvullende regelingen treffen en praktische maatregelen uitwerken ten einde de toepassing van dit Verdrag te vergemakkelijken.
 
-#### Artikel 20. Territoriale toepasselijkheid
+##### Artikel 20. Territoriale toepasselijkheid
 
 1. Wat het Koninkrijk der Nederlanden betreft is dit Verdrag van toepassing op het grondgebied van het gehele Koninkrijk, behoudens het bepaalde in het tweede lid.
 
 2. Dit Verdrag is tussen Canada en de buiten Europa gelegen delen van het Koninkrijk der Nederlanden niet van toepassing op de in artikel 16 bedoelde rechtshulp totdat het Koninkrijk der Nederlanden Canada in kennis stelt van het tegendeel.
 
-#### Artikel 21. Inwerkingtreding
+##### Artikel 21. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking op de eerste dag van de tweede maand volgend op de datum waarop de Verdragsluitende Staten elkander ervan in kennis hebben gesteld dat aan hun wettelijke vereisten is voldaan.
 
 2. Dit Verdrag is van toepassing op verzoeken ingediend nadat het in werking is getreden, zelfs indien het desbetreffende handelen of nalaten zich voordeed voor die datum.
 
-#### Artikel 22. Beëindiging
+##### Artikel 22. Beëindiging
 
 1. Elk van beide Partijen kan dit Verdrag te allen tijde beëindigen door middel van een schriftelijke kennisgeving aan de andere Partij. De beëindiging wordt van kracht zes maanden na de datum van ontvangst van een zodanige kennisgeving.
 

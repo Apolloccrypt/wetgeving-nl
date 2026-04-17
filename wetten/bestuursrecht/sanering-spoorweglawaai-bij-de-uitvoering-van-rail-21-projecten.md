@@ -1,13 +1,37 @@
 ---
 title: "Sanering spoorweglawaai bij de uitvoering van Rail-21-projecten"
 identifier: "BWBR0007665"
-categorie: "Bestuursrecht"
-publicatiedatum: 1995-12-07
-laatste_update: 1995-12-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007665"
+country: "nl"
+rank: "circulaire"
+publication_date: "1995-12-07"
+last_updated: "1995-12-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007665"
+soort: "circulaire"
+stam_id: "6418353"
+version_id: "11085582"
+internal_id: "C14998611"
+label_id: "6407214"
+original_entry_into_force: "1995-12-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007665/1995-12-07/0"
+intitule_bron: "Stcrt.1995-238"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-11-22"
+intitule_published: "1995-12-07"
+intitule_in_force: "1995-12-07"
+intitule_status: "goed"
+original_publication: "Stcrt.1995-238"
+original_signed_date: "1995-11-22"
+original_published_date: "1995-12-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1995-238-p10-SC4463"
+entry_into_force_date: "1995-12-07"
+jci_1_3: "jci1.3:c:BWBR0007665&z=1995-12-07&g=1995-12-07"
+jci_1_0: "1.0:c:BWBR0007665&g=1995-12-07"
+citeertitel_status: "redactioneel"
+signed_date: "1995-11-22"
+entry_into_force: "1995-12-07"
 ---
-
 # Sanering spoorweglawaai bij de uitvoering van Rail-21-projecten
 
 Aan de besturen van gemeenten, provincies en samenwerkingsverbanden op het gebied van geluidhinderbestrijding

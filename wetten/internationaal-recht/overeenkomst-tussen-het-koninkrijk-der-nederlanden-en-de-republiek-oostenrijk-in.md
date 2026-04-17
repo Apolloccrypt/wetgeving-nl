@@ -1,13 +1,38 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Oostenrijk inzake de binnenvaart"
 identifier: "BWBV0003058"
-categorie: "Internationaal recht"
-publicatiedatum: 2007-04-01
-laatste_update: 2007-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003058"
+country: "nl"
+rank: "verdrag"
+publication_date: "2007-04-01"
+last_updated: "2007-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003058"
+soort: "verdrag"
+stam_id: "10003312003"
+version_id: "10003340192"
+internal_id: "C10008362271"
+label_id: "10003297734"
+dtd_version: "2.0"
+original_entry_into_force: "1993-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003058/2007-04-01/0"
+intitule_bron: "Trb.1991-161"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-01-13"
+intitule_published: "1991-11-14"
+intitule_in_force: "1992-12-09"
+intitule_status: "goed"
+original_publication: "Trb.1991-161"
+original_signed_date: "1992-01-13"
+original_published_date: "1991-11-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1991-161"
+entry_into_force_date: "1993-01-01"
+jci_1_3: "jci1.3:c:BWBV0003058&z=2007-04-01&g=2007-04-01"
+jci_1_0: "1.0:c:BWBV0003058&g=2007-04-01"
+citeertitel_status: "redactioneel"
+signed_date: "1992-01-13"
+entry_into_force: "1993-01-01"
 ---
-
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Oostenrijk inzake de binnenvaart
 
 Het Koninkrijk der Nederlanden en de Republiek Oostenrijk,
@@ -22,7 +47,7 @@ ernaar strevend daarbij ook rekening te houden met de wederzijdse belangen na de
 
 zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze Overeenkomst wordt verstaan onder
 
@@ -42,29 +67,29 @@ zijn het volgende overeengekomen:
 
 - c. „vervoer door derden": vervoer tussen havens van beide Overeenkomstsluitende Staten met schepen van een derde staat, waarbij personen en lading worden opgenomen of afgezet;
 
-#### Artikel 2
+##### Artikel 2
 
 Rechten en verplichtingen van de Overeenkomstsluitende Staten die voortvloeien uit bestaande bilaterale en multilaterale overeenkomsten, zoals in het bijzonder uit de Overeenkomst van Belgrado van 1948, en uit de Herziene Rijnvaartakte van 1868 met bijhorende aanvullende protocollen alsmede uit de desbetreffende bepalingen van de Europese Unie worden door deze Overeenkomst niet aangetast.
 
-#### Artikel 3
+##### Artikel 3
 
 Nederlandse schepen mogen de Oostenrijkse waterwegen, en Oostenrijkse schepen de Nederlandse waterwegen in het kader van het vervoer overeenkomstig de artikelen 4, 5 bevaren. Dit geldt ook dienovereenkomstig voor het vervoer van drijvende werktuigen en drijvende voorwerpen, alsmede voor het transporteren van schepen in aanbouw.
 
-#### Artikel 4
+##### Artikel 4
 
 Nederlandse en Oostenrijkse schepen mogen personen en goederen in het transitovervoer door de andere Overeenkomstsluitende Staat op de in artikel 3 genoemde waterwegen vervoeren.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Nederlandse en Oostenrijkse schepen mogen personen en goederen in het wisselvervoer tussen de Overeenkomstsluitende Staten vervoeren.
 
 2. Elke bevoegde autoriteit kan de Gemengde Commissie overeenkomstig artikel 9 onverminderd het eerste lid belasten met het vaststellen van economisch toereikende richtprijzen voor de vervoersdiensten en eventuele bijzondere voorwaarden, alsmede met het treffen van andere passende maatregelen, voor zover dit onvermijdelijk lijkt om nationale economische redenen, in het bijzonder in het geval van zwaarwegende concurrentievervalsingen.
 
-#### Artikel 6
+##### Artikel 6
 
 Vervoer door derden is - voor zover hierop de desbetreffende bepalingen van de Europese Unie niet van toepassing zijn - slechts toegestaan in de mate die door de bevoegde autoriteiten op voorstel van de Gemengde Commissie wordt overeengekomen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De schepen, de bemanning, de passagiers en de lading zijn in de andere Overeenkomstsluitende Staat onderworpen aan het aldaar geldende recht.
 
@@ -74,11 +99,11 @@ Vervoer door derden is - voor zover hierop de desbetreffende bepalingen van de E
 
 4. Gevaarlijke stoffen mogen door schepen uitsluitend worden vervoerd, indien zij hiervoor het voor de desbetreffende waterweg voorziene certificaat van toestemming bezitten.
 
-#### Artikel 8
+##### Artikel 8
 
 In geval van averij, ongeval, ernstige ziekte van een persoon aan boord, door de natuur veroorzaakte omstandigheden of om andere zwaarwegende redenen - uitgezonderd een financiële noodsituatie - die de doorvaart of terugreis belemmeren, zullen de bevoegde autoriteiten op basis van de nationale bepalingen de betrokken schepen of personen van de andere Overeenkomstsluitende Staat de nodige hulp bieden; de artikelen 4, 5, blijven onverminderd van kracht.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Er wordt een Gemengde Commissie gevormd. Elke Overeenkomstsluitende Staat vaardigt drie leden af, die door de respectieve bevoegde autoriteiten worden aangewezen. Elke Partij kan aan de beraadslagingen van de Gemengde Commissie deskundigen laten deelnemen. De Gemengde Commissie stelt een reglement van orde vast.
 
@@ -96,13 +121,13 @@ In geval van averij, ongeval, ernstige ziekte van een persoon aan boord, door de
 
 5. De bevoegde autoriteiten van de Overeenkomstsluitende Staten zullen de Gemengde Commissie op haar verzoek de beschikbare stukken doen toekomen die zij nodig heeft ter vervulling van haar taken.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De in de artikelen 6 en 9, derde lid, tweede volzin, voorziene overeenkomsten komen tot stand doordat de bevoegde autoriteiten elkaar hun instemming met de door de Gemengde Commissie voorgelegde voorstellen schriftelijk mededelen.
 
 2. Indien in de Gemengde Commissie geen overeenstemming kan worden bereikt, komen op verzoek van een Overeenkomstsluitende Partij de vertegenwoordigers van de Overeenkomstsluitende Staten binnen vier weken voor overleg bijeen. Tenzij in onderling overleg een andere regeling wordt overeengekomen, vindt dit overleg plaats in de Overeenkomstsluitende Staat die de voorzitter van de Gemengde Commissie levert.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Geschillen over de interpretatie en toepassing van deze Overeenkomst worden door rechtstreekse onderhandelingen tussen de bevoegde autoriteiten geregeld. Indien geen overeenstemming kan worden bereikt, worden de geschillen langs diplomatieke weg bijgelegd. Indien een geschil ook langs deze weg niet kan worden bijgelegd, dient het op verzoek van een van beide Overeenkomstsluitende Staten ter definitieve beslechting te worden voorgelegd aan een uit drie scheidsrechters bestaand scheidsgerecht.
 
@@ -110,11 +135,11 @@ In geval van averij, ongeval, ernstige ziekte van een persoon aan boord, door de
 
 3. Indien een van de Overeenkomstsluitende Staten nalaat binnen drie maanden na ontvangst van de mededeling over de benoeming van een scheidsrechter door de andere Overeenkomstsluitende Staat een scheidsrechter te benoemen, wordt de scheidsrechter die door de eerste Overeenkomstsluitende Staat had moeten worden benoemd op verzoek van de andere Overeenkomstsluitende Staat door de President van het Internationale Gerechtshof benoemd. Indien de twee scheidsrechters binnen drie maanden na hun benoeming nalaten de derde scheidsrechter te benoemen, benoemt de President van het Internationale Gerechtshof op verzoek van een van de Overeenkomstsluitende Staten de derde scheidsrechter.
 
-#### Artikel 12
+##### Artikel 12
 
 De bepalingen van deze Overeenkomst gelden wat het Koninkrijk der Nederlanden betreft slechts voor het grondgebied van het Rijk in Europa.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Deze Overeenkomst wordt voor onbepaalde tijd gesloten.
 
@@ -124,13 +149,13 @@ De bepalingen van deze Overeenkomst gelden wat het Koninkrijk der Nederlanden be
 
 4. Met ingang van de dag van de inwerkingtreding van deze Overeenkomst treden de bepalingen van het Handels- en Scheepvaartverdrag tussen het Koninkrijk der Nederlanden en de Republiek Oostenrijk van 28 maart 1929 buiten werking, voor zover deze betrekking hebben op de binnenvaart.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De in de artikelen 6,7 en 13, derde lid, tweede volzin, voorziene overeenkomsten komen tot stand doordat de bevoegde autoriteiten elkaar hun instemming met de door de Gemengde Commissie voorgelegde voorstellen schriftelijk mededelen.
 
 2. Indien in de Gemengde Commissie geen overeenstemming kan worden bereikt, komen op verzoek van een Overeenkomstsluitende Partij de vertegenwoordigers van de Overeenkomstsluitende Staten binnen vier weken voor overleg bijeen. Tenzij in onderling overleg een andere regeling wordt overeengekomen, vindt dit overleg plaats in de Overeenkomstsluitende Staat die de voorzitter van de Gemengde Commissie levert.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Geschillen over de interpretatie en toepassing van deze Overeenkomst worden door rechtstreekse onderhandelingen tussen de bevoegde autoriteiten geregeld. Indien geen overeenstemming kan worden bereikt, worden de geschillen langs diplomatieke weg bijgelegd. Indien een geschil ook langs deze weg niet kan worden bijgelegd, dient het op verzoek van een van beide Overeenkomstsluitende Staten ter definitieve beslechting te worden voorgelegd aan een uit drie scheidsrechters bestaand scheidsgerecht.
 
@@ -138,11 +163,11 @@ De bepalingen van deze Overeenkomst gelden wat het Koninkrijk der Nederlanden be
 
 3. Indien een van de Overeenkomstsluitende Staten nalaat binnen drie maanden na ontvangst van de mededeling over de benoeming van een scheidsrechter door de andere Overeenkomstsluitende Staat een scheidsrechter te benoemen, wordt de scheidsrechter die door de eerste Overeenkomstsluitende Staat had moeten worden benoemd op verzoek van de andere Overeenkomstsluitende Staat door de President van het Internationale Gerechtshof benoemd. Indien de twee scheidsrechters binnen drie maanden na hun benoeming nalaten de derde scheidsrechter te benoemen, benoemt de President van het Internationale Gerechtshof op verzoek van een van de Overeenkomstsluitende Staten de derde scheidsrechter.
 
-#### Artikel 16
+##### Artikel 16
 
 De bepalingen van deze Overeenkomst gelden wat het Koninkrijk der Nederlanden betreft slechts voor het grondgebied van het Rijk in Europa.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Deze Overeenkomst wordt voor onbepaalde tijd gesloten.
 

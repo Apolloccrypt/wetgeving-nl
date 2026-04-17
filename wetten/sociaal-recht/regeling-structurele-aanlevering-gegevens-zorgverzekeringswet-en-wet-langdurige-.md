@@ -1,13 +1,39 @@
 ---
-title: "Regeling structurele aanlevering gegevens Zorgverzekeringswet en Wet langdurige zorg 2026"
+title: "Regeling van de Raad van Bestuur van Zorginstituut Nederland van 24 februari 2026, referentie 2026002934, houdende regels met betrekking tot de structurele aanlevering van gegevens Zorgverzekeringswet 2026 en gegevens Wet langdurige zorg 2026 (Regeling structurele aanlevering gegevens Zorgverzekeringswet en Wet langdurige zorg 2026)"
 identifier: "BWBR0052413"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-03-11
-laatste_update: 2026-03-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052413"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-03-11"
+last_updated: "2026-03-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052413"
+soort: "zbo"
+stam_id: "17795943"
+version_id: "31463362"
+internal_id: "C44938621"
+label_id: "17693614"
+dtd_version: "2.0"
+original_entry_into_force: "2026-03-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052413/2026-03-11/0"
+intitule_bron: "Stcrt.2026-8800"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2026-02-24"
+intitule_published: "2026-03-10"
+intitule_in_force: "2026-03-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-8800"
+original_signed_date: "2026-02-24"
+original_published_date: "2026-03-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-8800"
+entry_into_force_date: "2026-03-11"
+jci_1_3: "jci1.3:c:BWBR0052413&z=2026-03-11&g=2026-03-11"
+jci_1_0: "1.0:c:BWBR0052413&g=2026-03-11"
+citeertitel_status: "officieel"
+short_title: "Regeling structurele aanlevering gegevens Zorgverzekeringswet en Wet langdurige zorg 2026"
+signed_date: "2026-02-24"
+entry_into_force: "2026-03-11"
 ---
-
 # Regeling van de Raad van Bestuur van Zorginstituut Nederland van 24 februari 2026, referentie 2026002934, houdende regels met betrekking tot de structurele aanlevering van gegevens Zorgverzekeringswet 2026 en gegevens Wet langdurige zorg 2026 (Regeling structurele aanlevering gegevens Zorgverzekeringswet en Wet langdurige zorg 2026)
 
 gelet op [artikel 90 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=90) en [artikel 9.1.4 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=9.1.4);
@@ -16,7 +42,7 @@ Na overleg met de Nederlandse Zorgautoriteit;
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -110,7 +136,7 @@ In deze regeling wordt verstaan onder:
 
 - **Zvw:** [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450).
 
-#### Artikel 2. Algemeen
+##### Artikel 2. Algemeen
 
 1. De zorgverzekeraar, de Wlz-uitvoerder en het zorgkantoor dienen de gevraagde gegevens tijdig, juist en volledig in bij het Zorginstituut.
 
@@ -122,7 +148,7 @@ In deze regeling wordt verstaan onder:
 
 5. De zorgverzekeraar, de Wlz-uitvoerder en het zorgkantoor treffen technische en organisatorische voorzieningen op een passend niveau ter waarborging van de veiligheid en betrouwbaarheid van het informatieverkeer en ter bescherming van de persoonsgegevens die zij onder zich hebben.
 
-#### Artikel 3. Aanlevering gegevens en bestanden door zorgverzekeraars voor uitvoering [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450)
+##### Artikel 3. Aanlevering gegevens en bestanden door zorgverzekeraars voor uitvoering [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450)
 
 1. De zorgverzekeraar levert de gegevens en bestanden uit de aanleverkalender Zvw (zie Tabel 1) op de genoemde datum aan inclusief de verlangde bestuursverklaringen en accountantsproducten, met uitzondering van de gegevens die betrekking hebben op de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) (zie [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0052413&artikel=3a&z=2026-03-11&g=2026-03-11)).
 
@@ -130,7 +156,7 @@ In deze regeling wordt verstaan onder:
 
 3. De zorgverzekeraar levert via Vektis declaratiegegevens aan over de zorg die is verleend binnen de Huisartsenzorg en MDZ, Verpleging en Verzorging, Mondzorg, Verloskundige zorg, Medisch-specialistische zorg, Paramedische zorg, Geneeskundige Geestelijke Gezondheidszorg, Geriatrische Revalidatiezorg- Eerstelijnsverblijf-Geneeskundige Zorg Specifieke Patiëntengroepen, Ziekenvervoer, Farmaceutische Zorg, Hulpmiddelenzorg en Kraamzorg.
 
-#### Artikel 3a. Aanlevering gegevens en bestanden door Wlz-uitvoerders voor uitvoering [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450)
+##### Artikel 3a. Aanlevering gegevens en bestanden door Wlz-uitvoerders voor uitvoering [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450)
 
 De Wlz-uitvoerder levert de Wlz-gegevens 2025 uit de aanleverkalender Zvw (zie Tabel 1) tegelijk met het verlangde rapport van feitelijke bevindingen én bestuursverklaring op 1 juni 2026 aan.
 
@@ -157,7 +183,7 @@ De Wlz-uitvoerder levert de Wlz-gegevens 2025 uit de aanleverkalender Zvw (zie T
 
 1 De afkorting wordt gebruikt als onderdeel van de bestandsnaam waaronder de gegevens worden aangeleverd.
 
-#### Artikel 4. Aanlevering gegevens en bestanden door Wlz-uitvoerders en zorgkantoren voor uitvoering [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917)
+##### Artikel 4. Aanlevering gegevens en bestanden door Wlz-uitvoerders en zorgkantoren voor uitvoering [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917)
 
 1. De Wlz-uitvoerder en het zorgkantoor leveren de in de aanleverkalender Wlz (zie Tabel 2) genoemde gegevens, inclusief de verlangde bestuursverklaring op de genoemde datum aan.
 
@@ -179,13 +205,13 @@ De Wlz-uitvoerder levert de Wlz-gegevens 2025 uit de aanleverkalender Zvw (zie T
 | Kwartaalstaat Wlz 2e kwartaal verzekerdenstanden 2026 | Wlz-uitvoerder met een of meer zorgkantoren | 14 augustus 2026 | Bestuursverklaring |   |
 | Uitvoeringsgegevens uit de iWlz, met behulp van het iWlz-bericht AW317 | Wlz-uitvoerder met een of meer zorgkantoren | Maandelijks, na dag 7 | – |   |
 
-#### Artikel 5. Verstrekken gegevens aan derden
+##### Artikel 5. Verstrekken gegevens aan derden
 
 1. Het Zorginstituut verstrekt de gegevens bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052413&artikel=3&z=2026-03-11&g=2026-03-11), [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0052413&artikel=3a&z=2026-03-11&g=2026-03-11) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0052413&artikel=4&z=2026-03-11&g=2026-03-11) op verzoek aan de NZa en het CBS, voor zover de betreffende verzoeker onderbouwt dat die informatie noodzakelijk is voor de wettelijke taak van die verzoeker.
 
 2. Het Zorginstituut verstrekt de kwartaal- en jaarstaten bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052413&artikel=3&z=2026-03-11&g=2026-03-11) en [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0052413&artikel=3a&z=2026-03-11&g=2026-03-11), alsmede de vereveningsbijdrage per zorgverzekeraar, op verzoek aan het CPB, DNB en VWS voor zover de betreffende verzoeker onderbouwt dat die informatie noodzakelijk is voor de wettelijke taak van die verzoeker.
 
-#### Artikel 6. Inwerkingtreding
+##### Artikel 6. Inwerkingtreding
 
 1. Deze regeling heeft betrekking op de gegevensaanlevering in de periode van 1 maart 2026 tot 1 maart 2027.
 
@@ -193,7 +219,7 @@ De Wlz-uitvoerder levert de Wlz-gegevens 2025 uit de aanleverkalender Zvw (zie T
 
 3. Deze regeling treedt in werking met ingang van de dag na de datum van publicatie van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 maart 2026.
 
-#### Artikel 7. Citeertitel
+##### Artikel 7. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling structurele aanlevering gegevens Zorgverzekeringswet en Wet langdurige zorg 2026.
 

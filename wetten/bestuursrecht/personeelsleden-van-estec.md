@@ -1,13 +1,37 @@
 ---
 title: "Personeelsleden van ESTEC"
 identifier: "BWBR0004687"
-categorie: "Bestuursrecht"
-publicatiedatum: 1990-01-03
-laatste_update: 1990-01-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004687"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "1990-01-03"
+last_updated: "1990-01-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004687"
+soort: "beleidsregel"
+stam_id: "8376253"
+version_id: "13249002"
+internal_id: "C17821361"
+label_id: "8356934"
+dtd_version: "2.0"
+original_entry_into_force: "1990-01-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004687/1990-01-03/0"
+intitule_bron: "Infob.1990-1"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1990-01-03"
+intitule_published: "1990-01-01"
+intitule_in_force: "1990-01-01"
+intitule_status: "goed"
+original_publication: "Infob.1990-1"
+original_signed_date: "1990-01-03"
+original_published_date: "1990-01-01"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1990-01-03"
+jci_1_3: "jci1.3:c:BWBR0004687&z=1990-01-03&g=1990-01-03"
+jci_1_0: "1.0:c:BWBR0004687&g=1990-01-03"
+citeertitel_status: "redactioneel"
+signed_date: "1990-01-03"
+entry_into_force: "1990-01-03"
 ---
-
 # Personeelsleden van ESTEC
 
 1. De salarissen en emolumenten die de personeelsleden van de vestiging van ESA te Noordwijk (ESTEC) genieten, zijn op grond van het eerste lid van artikel XVIII van Bijlage 1 (voorrechten en immuniteiten) bij het Verdrag tot oprichting van een Europees Ruimte Agentschap (b.w. IFZ-420.00.00) en artikel 24 van de Overeenkomst tussen Nederland en ESA inzake de oprichting en het functioneren van het Europese Centrum voor Ruimtevaarttechniek (b.w. IFZ-420.01.00), vrijgesteld van heffing van nationale inkomstenbelasting en onderworpen aan een interne belasting.

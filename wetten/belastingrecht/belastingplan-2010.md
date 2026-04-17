@@ -1,14 +1,42 @@
 ---
-title: "Belastingplan 2010"
+title: "Wet van 23 december 2009 tot wijziging van enkele belastingwetten en enige andere wetten (Belastingplan 2010)"
 identifier: "BWBR0026958"
-categorie: "Belastingrecht"
-publicatiedatum: 2015-01-01
-laatste_update: 2015-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026958"
+country: "nl"
+rank: "wet"
+publication_date: "2015-01-01"
+last_updated: "2015-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026958"
+soort: "wet"
+stam_id: "10347833"
+version_id: "16993522"
+internal_id: "C23432661"
+label_id: "10323374"
+dtd_version: "2.0"
+original_entry_into_force: "2010-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026958/2015-01-01/0"
+intitule_bron: "Stb.2009-609"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-12-23"
+intitule_published: "2009-12-29"
+intitule_in_force: "2009-12-29"
+intitule_status: "goed"
+original_publication: "Stb.2009-609"
+original_signed_date: "2009-12-23"
+original_published_date: "2009-12-29"
+original_effect: "nieuwe-regeling"
+original_dossier: "32128"
+original_url_id: "stb-2009-609"
+entry_into_force_date: "2010-01-01"
+entry_into_force_dossier: "32128"
+jci_1_3: "jci1.3:c:BWBR0026958&z=2015-01-01&g=2015-01-01"
+jci_1_0: "1.0:c:BWBR0026958&g=2015-01-01"
+citeertitel_status: "officieel"
+short_title: "Belastingplan 2010"
+signed_date: "2009-12-23"
+entry_into_force: "2010-01-01"
 ---
-
-# Belastingplan 2010
+# Wet van 23 december 2009 tot wijziging van enkele belastingwetten en enige andere wetten (Belastingplan 2010)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,169 +44,169 @@ Alzo Wij in overweging genomen hebben, dat het voor het jaar 2010 wenselijk is f
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel II
+##### Artikel II
 
 Vervallen
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel IV
+##### Artikel IV
 
 [Vervallen]
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Met betrekking tot immateriële activa die na 31 december 2007, maar voor 1 januari 2010 tot de bedrijfsmiddelen van de belastingplichtige zijn gaan behoren en waarvoor aan hem een S&O-verklaring is afgegeven als bedoeld in de [Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0007746), blijft [artikel 12b van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=12b) zoals dat luidde op 31 december 2009 van toepassing, met dien verstande dat de vanaf 1 januari 2010 behaalde voordelen uit hoofde van die activa slechts voor 5/H gedeelte in aanmerking worden genomen.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Wet op de dividendbelasting 1965.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt de Successiewet 1956.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Vervallen
 
-#### Artikel XIV
+##### Artikel XIV
 
 Vervallen
 
-#### Artikel XV
+##### Artikel XV
 
 Vervallen
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt de Wet op de motorrijtuigenbelasting 1994.
 
-#### Artikel XVII
+##### Artikel XVII
 
 [Artikel XX van het Belastingplan 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024975&artikel=XX) vindt geen toepassing voor het jaar 2010.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 [Artikel 81a van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=81a) vindt geen toepassing bij het begin van het kalenderjaar 2010 op de bedragen genoemd in de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=23) en [25 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=25).
 
-#### Artikel XIX
+##### Artikel XIX
 
 Wijzigt de Wet belasting zware motorrijtuigen.
 
-#### Artikel XIXa
+##### Artikel XIXa
 
 Wijzigt de Wet op de accijns.
 
-#### Artikel XX
+##### Artikel XX
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel XXI
+##### Artikel XXI
 
 [Artikel 90 van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=90) vindt bij het begin van het kalenderjaar 2010 geen toepassing op de bedragen, genoemd in [artikel 28, eerste lid, en tweede lid, aanhef, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=28).
 
-#### Artikel XXII
+##### Artikel XXII
 
 Wijzigt de Wet op de omzetbelasting 1968.
 
-#### Artikel XXIII
+##### Artikel XXIII
 
 Wijzigt de Wet op belastingen van rechtsverkeer.
 
-#### Artikel XXIV
+##### Artikel XXIV
 
 Wijzigt de Algemene douanewet.
 
-#### Artikel XXIVa
+##### Artikel XXIVa
 
 1. De accijns op sigaretten wordt met ingang van 1 maart 2010 zodanig verhoogd dat de totale accijns voor de meest gevraagde prijsklasse sigaretten € 4,70 per 1000 stuks hoger zal liggen dan het accijnsbedrag voor deze prijsklasse op 28 februari 2010. Indien met ingang van 1 maart 2010 het aldus berekende accijnsbedrag lager is dan het bedrag dat overeenkomt met 57 percent van de kleinhandelsprijs van de meest gevraagde prijsklasse sigaretten, berekend per 1000 stuks, geldt het laatstbedoelde bedrag.
 
 2. Bij ministeriële regeling worden met ingang van 1 maart 2010 de tarieven van de accijns, bedoeld in [artikel 35, eerste lid, onderdeel b, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=35) aangepast. De aanpassing geschiedt zodanig dat voor sigaretten van de meest gevraagde prijsklasse het specifieke gedeelte van de accijns 50% bedraagt van de som van de totale accijns en de omzetbelasting. Daarbij dient het bedrag van de totale accijns gelijk te blijven aan het bedrag van de totale accijns dat na de verhoging van de accijns verschuldigd zou zijn zonder de aanpassing. De aanpassing van het bedrag dat in artikel 35, eerste lid, onderdeel b, is opgenomen als de ten minste te betalen accijns voor 1000 stuks sigaretten, geschiedt zodanig dat deze accijns na de aanpassing van de tarieven bedraagt het totale bedrag van de accijns voor 1000 stuks sigaretten van de meest gevraagde prijsklasse. Bij de aanpassing vindt afronding plaats van het procentuele gedeelte van de accijns op honderdsten van een percent.
 
-#### Artikel XXV
+##### Artikel XXV
 
 Wijzigt de Algemene wet inzake rijksbelastingen.
 
-#### Artikel XXVI
+##### Artikel XXVI
 
 Wijzigt de Invorderingswet 1990.
 
-#### Artikel XXVII
+##### Artikel XXVII
 
 Wijzigt de Wet financiering sociale verzekeringen.
 
-#### Artikel XXVIII
+##### Artikel XXVIII
 
 [Vervallen]
 
-#### Artikel XXIX
+##### Artikel XXIX
 
 Wijzigt de Wet milieubeheer.
 
-#### Artikel XXX
+##### Artikel XXX
 
 Wijzigt de Provinciewet.
 
-#### Artikel XXXI
+##### Artikel XXXI
 
 Wijzigt de Natuurschoonwet 1928.
 
-#### Artikel XXXII
+##### Artikel XXXII
 
 Wijzigt de Mijnbouwwet.
 
-#### Artikel XXXIII
+##### Artikel XXXIII
 
 De wijziging ingevolge [artikel I, onderdeel N](https://wetten.overheid.nl/jci1.3:c:BWBR0026958&artikel=I&z=2015-01-01&g=2015-01-01), van [artikel 3.111, tweede lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111) is niet van toepassing op gevallen waarin het genereren van inkomen uit sparen en beleggen uit de woning reeds is aangevangen vóór 1 januari 2010, tenzij de belastingplichtige akkoord gaat met bij ministeriële regeling te stellen voorwaarden.
 
-#### Artikel XXXIV
+##### Artikel XXXIV
 
 Vervallen
 
-#### Artikel XXXV
+##### Artikel XXXV
 
 Wijzigt de Invoeringswet titel 7.13 Burgerlijk Wetboek.
 
-#### Artikel XXXVI
+##### Artikel XXXVI
 
 Wijzigt de Wet Fiscaal stimuleringspakket en overige fiscale maatregelen.
 
-#### Artikel XXXVII
+##### Artikel XXXVII
 
 Wijzigt de Wet financiering sociale verzekeringen.
 
-#### Artikel XXXVIII
+##### Artikel XXXVIII
 
 Ingeval de samenloop van wetten die in 2009 in het Staatsblad zijn of worden gepubliceerd en wijzigingen aanbrengen in één of meer belastingwetten, niet of niet juist is geregeld, of indien als gevolg van die samenloop onjuistheden ontstaan in de aanduiding van artikelen, artikelonderdelen, verwijzingen en dergelijke in de desbetreffende wetten, kunnen die wetten op dit punt bij ministeriële regeling worden gewijzigd.
 
-#### Artikel XXXIX
+##### Artikel XXXIX
 
 1. Deze wet treedt in werking met ingang van 1 januari 2010, met dien verstande dat:
 
@@ -204,7 +232,7 @@ Ingeval de samenloop van wetten die in 2009 in het Staatsblad zijn of worden gep
 
 4. In afwijking van het eerste lid treedt [artikel XIXA](https://wetten.overheid.nl/jci1.3:c:BWBR0026958&artikel=XIXa&z=2015-01-01&g=2015-01-01) in werking op een bij koninklijk besluit te bepalen tijdstip waarbij terugwerkende kracht kan worden verleend tot en met 1 januari 2010.
 
-#### Artikel XL
+##### Artikel XL
 
 Deze wet wordt aangehaald als: Belastingplan 2010.
 

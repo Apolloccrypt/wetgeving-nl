@@ -1,13 +1,37 @@
 ---
 title: "Regeling ter uitvoering van de Wet openbaarheid van bestuur (justitie)"
 identifier: "BWBR0003309"
-categorie: "Bestuursrecht"
-publicatiedatum: 1980-10-28
-laatste_update: 1980-10-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003309"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1980-10-28"
+last_updated: "1980-10-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003309"
+soort: "ministeriele-regeling"
+stam_id: "3927713"
+version_id: "5680942"
+internal_id: "C19674891"
+label_id: "3907824"
+dtd_version: "2.0"
+original_entry_into_force: "1980-04-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003309/1980-10-28/0"
+intitule_bron: "Stcrt.1980-92"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1980-04-10"
+intitule_published: "1980-05-14"
+intitule_in_force: "1980-05-14"
+intitule_status: "goed"
+original_publication: "Stcrt.1980-92"
+original_signed_date: "1980-04-10"
+original_published_date: "1980-05-14"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1980-04-03"
+jci_1_3: "jci1.3:c:BWBR0003309&z=1980-10-28&g=1980-10-28"
+jci_1_0: "1.0:c:BWBR0003309&g=1980-10-28"
+citeertitel_status: "officieel"
+signed_date: "1980-04-10"
+entry_into_force: "1980-04-03"
 ---
-
 # Regeling ter uitvoering van de Wet openbaarheid van bestuur (justitie)
 
 Overwegende, dat de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252), die in werking treedt met ingang van 1 mei 1980, nadere regelingen voor het Ministerie van Justitie nodig maakt,
@@ -18,13 +42,13 @@ voor het Ministerie van Justitie vast te stellen de navolgende [regeling ter uit
 
 #### Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze beschikking wordt verstaan onder:
 
 #### Registers
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een register van instellingen, diensten en bedrijven als bedoeld in artikel 1, tweede lid, van het besluit.
 
@@ -34,7 +58,7 @@ In deze beschikking wordt verstaan onder:
 
 4. Het stafbureau is belast met het bijhouden van dit register.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Er is een register van niet-ambtelijke adviescommissies als bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=3).
 
@@ -44,7 +68,7 @@ In deze beschikking wordt verstaan onder:
 
 #### Gemachtigde ambtenaar
 
-#### Artikel 4
+##### Artikel 4
 
 1. De secretaris-generaal is gemachtigd om vanwege de Minister te beslissen op verzoeken om informatie als bedoeld in aanwijzing 6. Dit zijn verzoeken, die door ambtenaren die daarop in eerste instantie hebben gereageerd, niet zijn afgedaan
 
@@ -60,7 +84,7 @@ In deze beschikking wordt verstaan onder:
 
 #### Informatiepunten
 
-#### Artikel 5
+##### Artikel 5
 
 1. Als centraal informatiepunt voor het Ministerie en de instellingen, diensten en bedrijven genoemd in het desbetreffende register wordt aangewezen het Stafbureau Voorlichting.
 
@@ -68,7 +92,7 @@ In deze beschikking wordt verstaan onder:
 
 3. Als informatiepunt voor het korps Rijkspolitie wordt aangewezen de afdeling Voorlichting bij de Algemene Inspectie van het korps.
 
-#### Artikel 6
+##### Artikel 6
 
 1. In de gevallen, genoemd in aanwijzing 6, handelt het Stafbureau Voorlichting overeenkomstig het bepaalde in de aanwijzingen 6 en 7.
 
@@ -78,13 +102,13 @@ In deze beschikking wordt verstaan onder:
 
 #### Publikatie van adviezen
 
-#### Artikel 7
+##### Artikel 7
 
 De openbaarmaking van adviezen van niet-ambtelijke adviescommissies en het doen van mededeling omtrent zodanige adviezen in de Staatscourant, als voorgeschreven in artikel 3, eerste respectievelijk derde lid, van de wet, geschieden door de zorg van het Stafbureau Voorlichting.
 
 #### Verslag
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het Stafbureau Voorlichting is belast met het samenstellen voor wat Ministerie betreft van het verslag, als bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=5). Daartoe registreert het de nodige gegevens.
 
@@ -94,7 +118,7 @@ De openbaarmaking van adviezen van niet-ambtelijke adviescommissies en het doen 
 
 #### Verlening van inzage en verstrekking van kopieën
 
-#### Artikel 9
+##### Artikel 9
 
 De archivaris van het minsterie is belast met:
 
@@ -106,7 +130,7 @@ De archivaris van het minsterie is belast met:
 
 #### Overige werkzaamheden
 
-#### Artikel 10
+##### Artikel 10
 
 Waar in de wet, het besluit of de aanwijzingen wordt gesproken van:
 
@@ -120,6 +144,6 @@ heeft het Stafbureau Voorlichting een taak. De aard en de omvang van die taak wo
 
 #### Slotartikel
 
-#### Artikel 11
+##### Artikel 11
 
 Deze beschikking met bijbehorende toelichting en bijlagen wordt tezamen met de teksten van de wet, het besluit en de aanwijzingen toegezonden aan de onderdelen van het Ministerie, de instellingen, diensten en bedrijven, genoemd in bijlage 1, de niet-ambtelijke adviescommissies, genoemd in bijlage 2., alsmede aan de andere adviesorganen die ressorteren onder de Ministerie van Justitie.

@@ -1,13 +1,36 @@
 ---
-title: "Paspoortwet"
+title: "Rijkswet van 26 september 1991, houdende het stellen van regelen betreffende de verstrekking van reisdocumenten"
 identifier: "BWBR0005212"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005212"
+country: "nl"
+rank: "rijkswet"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005212"
+soort: "rijkswet"
+stam_id: "166463"
+version_id: "230712"
+internal_id: "C230711"
+label_id: "166404"
+dtd_version: "2.0"
+original_entry_into_force: "1992-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005212/2024-01-01/0"
+intitule_bron: "Stb.1991-498"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1991-09-26"
+intitule_status: "goed"
+original_publication: "Stb.1991-498"
+original_signed_date: "1991-09-26"
+original_effect: "nieuwe-regeling"
+original_dossier: "20393"
+entry_into_force_date: "1992-01-01"
+jci_1_3: "jci1.3:c:BWBR0005212&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0005212&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Paspoortwet"
+signed_date: "1991-09-26"
+entry_into_force: "1992-01-01"
 ---
-
 # Rijkswet van 26 september 1991, houdende het stellen van regelen betreffende de verstrekking van reisdocumenten
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
@@ -18,7 +41,7 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -62,7 +85,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - t. tot signalering bevoegd orgaan: een autoriteit of orgaan als bedoeld in een van de [artikelen 18 tot en met 24 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=III&paragraaf=1&artikel=18&z=2024-01-01&g=2024-01-01).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Reisdocumenten van het Koninkrijk der Nederlanden zijn:
 
@@ -88,7 +111,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 5. Elk reisdocument blijft na uitreiking rijkseigendom. Onze Minister oefent het eigendomsrecht uit.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Elk reisdocument vermeldt de volgende persoonsgegevens van de houder: geslachtsnaam, voornamen, geboortedatum, geboorteplaats, geslacht, woonplaats, adres en lengte. Bij of krachtens algemene maatregel van rijksbestuur kan worden bepaald in welke gevallen wordt afgezien van vermelding van respectievelijk geboorteplaats, woonplaats, adres en lengte.
 
@@ -108,11 +131,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 9. De bij de aanvraag van een reisdocument opgenomen vingerafdrukken worden bewaard totdat de uitreiking van het aangevraagde reisdocument, dan wel de reden voor het niet uitreiken daarvan, in de administratie, bedoeld in het achtste lid, is geregistreerd en gedurende die periode uitsluitend verwerkt ten behoeve van de verstrekking en de uitreiking van het reisdocument.
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 4a
+##### Artikel 4a
 
 1. Er is een register vermiste of vervallen reisdocumenten. Onze Minister is verantwoordelijk voor de verwerking van gegevens in dit register.
 
@@ -146,15 +169,15 @@ ingevolge [artikel 47, eerste lid, onder a, b, c, e, f, h, i of j](https://wette
 
 9. Onze Minister treft maatregelen met betrekking tot het beheer en de beveiliging van het register.
 
-#### Artikel 5
+##### Artikel 5
 
 Een ieder die, anders dan voor ambtelijke doeleinden of ter voldoening aan een wettelijk voorschrift, in het bezit is van een reisdocument waarvan hij niet de houder is, draagt zorg dat het onverwijld ter beschikking komt van een ingevolge deze wet tot inhouding bevoegde autoriteit.
 
-#### Artikel 6
+##### Artikel 6
 
 Een ieder die betrokken is bij de uitvoering van deze wet in een openbaar lichaam en in Aruba, Curaçao en Sint Maarten en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijk karakter kent of redelijkerwijs moet vermoeden, en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding daarvan, behoudens voor zover enig wettelijk voorschrift hem tot bekendmaking verplicht of uit zijn taak bij de uitvoering van deze wet de noodzaak tot bekendmaking voortvloeit.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Bij of krachtens algemene maatregel van rijksbestuur worden regels vastgesteld omtrent:
 
@@ -174,7 +197,7 @@ Een ieder die betrokken is bij de uitvoering van deze wet in een openbaar lichaa
 
 6. Hetgeen krachtens het eerste tot en met vijfde lid bij of krachtens algemene maatregel van rijksbestuur, bij gemeentelijke verordening of bij eilandsraadsverordening is geregeld voor de Nederlandse identiteitskaart met een geldigheidsduur van vijf jaren is mede van toepassing op de vervangende Nederlandse identiteitskaart, tenzij krachtens dat eerste tot en met vijfde lid bij of krachtens algemene maatregel van rijksbestuur, bij gemeentelijke verordening of bij eilandsraadsverordening anders is bepaald.
 
-#### Artikel 8
+##### Artikel 8
 
 Onze Minister kan in overeenstemming met Onze Minister van Buitenlandse Zaken in bijzondere omstandigheden voor de uitoefening van bevoegdheden ingevolge deze wet, mandaat verlenen aan autoriteiten van met het Koninkrijk bevriende mogendheden. Het desbetreffende besluit vermeldt de redenen van deze bevoegdheidsverlening en de termijn waarvoor zij geldt. Onze Minister stelt nadere regels omtrent de uitoefening van de bevoegdheden, waarbij het bepaalde in deze wet zoveel mogelijk van overeenkomstige toepassing is.
 
@@ -182,37 +205,37 @@ Onze Minister kan in overeenstemming met Onze Minister van Buitenlandse Zaken in
 
 #### § 1. Paspoorten voor Nederlanders
 
-#### Artikel 9
+##### Artikel 9
 
 1. Iedere Nederlander heeft binnen de grenzen bij deze wet bepaald, recht op een nationaal paspoort, geldig voor tien jaren en voor alle landen.
 
 2. In afwijking van het eerste lid heeft een Nederlander die de leeftijd van achttien jaar nog niet heeft bereikt, recht op een nationaal paspoort geldig voor vijf jaren en voor alle landen.
 
-#### Artikel 10
+##### Artikel 10
 
 Aan Nederlanders die zich ten behoeve van het Koninkrijk of een der landen van het Koninkrijk naar het buitenland begeven wordt, binnen de grenzen bij deze wet bepaald, een diplomatiek paspoort dan wel een dienstpaspoort verstrekt indien en voor zolang Onze Minister van Buitenlandse Zaken zulks noodzakelijk acht.
 
 #### § 4. Overige algemene bepalingen
 
-#### Artikel 11
+##### Artikel 11
 
 1. Iedere vreemdeling die ingevolge [artikel 33 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=33) tot het Europese deel van Nederland dan wel iedere vluchteling die als zodanig tot een openbaar lichaam, Aruba, Curaçao of Sint Maarten is toegelaten, heeft binnen de grenzen bij deze wet bepaald, recht op een reisdocument voor vluchtelingen, geldig voor vijf jaren.
 
 2. Iedere vreemdeling die ingevolge [artikel 28 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28) tot het Europese deel van Nederland is toegelaten, heeft binnen de grenzen bij deze wet bepaald, recht op een reisdocument voor vluchtelingen, geldig voor ten minste een jaar en ten hoogste drie jaren.
 
-#### Artikel 12
+##### Artikel 12
 
 Aan de erkende vluchteling die niet als zodanig tot een openbaar lichaam, Aruba, Curaçao of Sint Maarten is toegelaten, kan binnen de grenzen bij deze wet bepaald, een reisdocument voor vluchtelingen worden verstrekt.
 
-#### Artikel 13
+##### Artikel 13
 
 Iedere vreemdeling die ofwel als staatloos kan worden beschouwd op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048458&artikel=4) of [5 van de Wet vaststellingsprocedure staatloosheid](https://wetten.overheid.nl/jci1.3:c:BWBR0048458&artikel=5) en tot het Europese deel van Nederland is toegelaten, ofwel door geen enkele staat, krachtens diens wetgeving, als onderdaan wordt beschouwd en tot het Caribische deel van Nederland, dan wel Aruba, Curaçao of Sint Maarten is toegelaten, heeft binnen de grenzen bij deze wet bepaald, recht op een reisdocument voor vreemdelingen, geldig voor ten minste drie maanden en voor alle landen.
 
-#### Artikel 14
+##### Artikel 14
 
 Aan andere in het Europese of Caribische deel van Nederland, dan wel Aruba, Curaçao of Sint Maarten toegelaten vreemdelingen dan bedoeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=II&paragraaf=2&artikel=11&z=2024-01-01&g=2024-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=II&paragraaf=2&artikel=12&z=2024-01-01&g=2024-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=II&paragraaf=2&artikel=13&z=2024-01-01&g=2024-01-01), die geen reisdocument van een ander land kunnen verkrijgen dan wel die kunnen aantonen dat van hen redelijkerwijs niet kan worden gevergd dat zij van een ander land een reisdocument aanvragen, kan binnen de grenzen bij deze wet bepaald, een reisdocument voor vreemdelingen worden verstrekt.
 
-#### Artikel 15
+##### Artikel 15
 
 1. In bijzondere gevallen kan een reisdocument als bedoeld in de [artikelen 11 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=II&paragraaf=2&artikel=11&z=2024-01-01&g=2024-01-01) worden verstrekt aan een tot het Europese of Caribische deel van Nederland, dan wel Aruba, Curaçao of Sint Maarten toegelaten vreemdeling, die tijdelijk buiten het Europese of Caribische deel van Nederland, dan wel Aruba, Curaçao of Sint Maarten verblijft.
 
@@ -220,7 +243,7 @@ Aan andere in het Europese of Caribische deel van Nederland, dan wel Aruba, Cura
 
 #### § 3. Andere reisdocumenten
 
-#### Artikel 16
+##### Artikel 16
 
 1. Aan degene die ingevolge deze wet recht heeft op een nationaal paspoort, een reisdocument voor vluchtelingen of een reisdocument voor vreemdelingen en op het moment van vertrek niet in het bezit blijkt van een geldig of voor de reis bruikbaar reisdocument, wordt indien hij aantoont zwaarwegende belangen te hebben bij de reis, na een daartoe strekkende aanvraag binnen de grenzen bij deze wet bepaald een nooddocument verstrekt met een zodanige tijdelijke en territoriale geldigheid als daarvoor vereist is.
 
@@ -228,7 +251,7 @@ Aan andere in het Europese of Caribische deel van Nederland, dan wel Aruba, Cura
 
 #### § 3. Andere reisdocumenten
 
-#### Artikel 16a
+##### Artikel 16a
 
 1. Iedere Nederlander die in de basisregistratie personen is ingeschreven of die woonachtig is buiten het Koninkrijk heeft, binnen de grenzen bij deze wet bepaald, recht op een Nederlandse identiteitskaart, geldig voor tien jaren.
 
@@ -236,7 +259,7 @@ Aan andere in het Europese of Caribische deel van Nederland, dan wel Aruba, Cura
 
 #### § 2. Reisdocumenten voor niet-Nederlanders
 
-#### Artikel 17
+##### Artikel 17
 
 1. Aan een Nederlander als bedoeld in [artikel 16a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=II&paragraaf=3A&artikel=16a&z=2024-01-01&g=2024-01-01), aan wie een verbod is opgelegd als bedoeld in [artikel 3 van de Tijdelijke wet bestuurlijke maatregelen terrorismebestrijding](https://wetten.overheid.nl/jci1.3:c:BWBR0039210&artikel=3) wordt na een daartoe strekkende aanvraag binnen de grenzen van deze wet bepaald een vervangende Nederlandse identiteitskaart verstrekt geldig voor de duur van vijf jaren.
 
@@ -246,7 +269,7 @@ Aan andere in het Europese of Caribische deel van Nederland, dan wel Aruba, Cura
 
 #### § 1. De gronden
 
-#### Artikel 18
+##### Artikel 18
 
 1. Weigering of vervallenverklaring kan geschieden op verzoek van het openbaar ministerie van een van de landen van het Koninkrijk, dan wel van een van de openbare lichamen, indien het gegronde vermoeden bestaat dat een persoon zich door verblijf buiten de grenzen van een van de landen van het Koninkrijk aan vervolging zal onttrekken, terwijl die persoon wordt verdacht van het plegen van een strafbaar feit waarvoor een bevel tot voorlopige hechtenis is toegelaten.
 
@@ -270,19 +293,19 @@ Aan andere in het Europese of Caribische deel van Nederland, dan wel Aruba, Cura
 
 - b. de bijzondere voorwaarden verbonden aan een voorwaardelijke veroordeling, een terbeschikkingstelling met voorwaarden, een voorwaardelijke plaatsing in een inrichting voor jeugdigen of een voorwaardelijke gratieverlening niet naleeft.
 
-#### Artikel 19
+##### Artikel 19
 
 Weigering of vervallenverklaring kan geschieden op verzoek van de rechter-commissaris, indien de betrokken persoon in staat van faillissement verkeert dan wel op hem het bepaalde in [artikel 106 van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=106) (**Stb.** 1893, 140) of een overeenkomstige regeling in een openbaar lichaam, Aruba, Curaçao of Sint Maarten van toepassing is.
 
-#### Artikel 20
+##### Artikel 20
 
 Weigering of vervallenverklaring kan geschieden op verzoek van Onze Minister die het aangaat, indien het gegronde vermoeden bestaat dat de betrokken persoon zich door verblijf buiten het Koninkrijk zal onttrekken aan zijn militaire verplichtingen, dan wel zijn vervangende dienstplicht.
 
-#### Artikel 21
+##### Artikel 21
 
 Weigering of vervallenverklaring kan geschieden op verzoek van Onze Minister die het aangaat, indien het gegronde vermoeden bestaat dat een persoon ten aanzien van wie in buitengewone omstandigheden krachtens de wet of landsverordening een verbod geldt het land te verlaten, dit verbod zal overtreden.
 
-#### Artikel 22
+##### Artikel 22
 
 Weigering of vervallenverklaring kan geschieden op verzoek van Onze Minister die het aangaat, onderscheidenlijk het college van burgemeester en wethouders, gedeputeerde staten, het bestuurscollege dan wel een ander tot invordering bevoegd orgaan van een rechtspersoon die krachtens publiekrecht is ingesteld, dat het aangaat, indien het gegronde vermoeden bestaat dat een persoon,
 
@@ -296,11 +319,11 @@ Weigering of vervallenverklaring kan geschieden op verzoek van Onze Minister die
 
 zich door verblijf buiten de grenzen van een der landen van het Koninkrijk aan de wettelijke mogelijkheden tot invordering van de verschuldigde gelden zal onttrekken.
 
-#### Artikel 23
+##### Artikel 23
 
 Weigering of vervallenverklaring kan geschieden op verzoek van Onze Minister die het aangaat, indien het gegronde vermoeden bestaat dat de betrokken persoon buiten het Koninkrijk handelingen zal verrichten, die een bedreiging vormen voor de veiligheid en andere gewichtige belangen van het Koninkrijk of een of meerdere landen van het Koninkrijk dan wel de veiligheid van met het Koninkrijk bevriende mogendheden.
 
-#### Artikel 24
+##### Artikel 24
 
 Weigering of vervallenverklaring kan geschieden op verzoek van Onze Minister die het aangaat, onderscheidenlijk een met de uitvoering van deze wet belaste autoriteit die het aangaat, indien:
 
@@ -310,7 +333,7 @@ Weigering of vervallenverklaring kan geschieden op verzoek van Onze Minister die
 
 #### § 2. Registratie
 
-#### Artikel 25
+##### Artikel 25
 
 1. De autoriteiten, bedoeld in de [artikelen 18 tot en met 24](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=III&paragraaf=1&artikel=18&z=2024-01-01&g=2024-01-01), richten het verzoek tot weigering onderscheidenlijk vervallenverklaring onder vermelding van de bezwaren die tegen een persoon bestaan en de gronden die hebben geleid tot het vermoeden, bedoeld in de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=III&paragraaf=1&artikel=18&z=2024-01-01&g=2024-01-01), [20 tot en met 23a](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=III&paragraaf=1&artikel=20&z=2024-01-01&g=2024-01-01) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=III&paragraaf=1&artikel=24&z=2024-01-01&g=2024-01-01), aan Onze Minister, onderscheidenlijk de Gouverneur.
 
@@ -326,7 +349,7 @@ Weigering of vervallenverklaring kan geschieden op verzoek van Onze Minister die
 
 #### § 2. Registratie
 
-#### Artikel 26
+##### Artikel 26
 
 1. Bevoegd tot het in ontvangst nemen van aanvragen voor nationale paspoorten, reisdocumenten voor vluchtelingen en reisdocumenten voor vreemdelingen zijn:
 
@@ -352,13 +375,13 @@ Weigering of vervallenverklaring kan geschieden op verzoek van Onze Minister die
 
 4. Bevoegd tot het in ontvangst nemen van aanvragen voor Nederlandse identiteitskaarten en vervangende Nederlandse identiteitskaarten zijn de daartoe bij of krachtens het eerste lid onder a, c, d en e aangewezen autoriteiten.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Een reisdocument kan slechts worden verstrekt, nadat een aanvraag is ingediend bij een in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=IV&paragraaf=1&artikel=26&z=2024-01-01&g=2024-01-01) bedoelde autoriteit.
 
 2. Een aanvraag ingediend bij een in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=IV&paragraaf=1&artikel=26&z=2024-01-01&g=2024-01-01) bedoelde autoriteit in een openbaar lichaam, Aruba, Curaçao of Sint Maarten wordt slechts in behandeling genomen als is voldaan aan het in of krachtens dit hoofdstuk bepaalde. De aanvrager wordt van het niet in behandeling nemen van de aanvraag terstond op de hoogte gesteld.
 
-#### Artikel 28
+##### Artikel 28
 
 1. De in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=IV&paragraaf=1&artikel=26&z=2024-01-01&g=2024-01-01) bedoelde autoriteit verschaft zich de nodige zekerheid over de identiteit en de nationaliteit van de aanvrager, en indien deze geen Nederlander is, tevens met betrekking tot diens verblijfstitel.
 
@@ -368,13 +391,13 @@ Weigering of vervallenverklaring kan geschieden op verzoek van Onze Minister die
 
 4. Bij of krachtens algemene maatregel van rijksbestuur worden regels gesteld over de gegevens die in de aanvraag worden opgenomen en de wijze waarop dit gebeurt, over de door de betrokkene in het kader van het aanvraag- en uitgifteproces van reisdocumenten over te leggen bescheiden en de beoordeling daarvan, alsmede over de beveiliging van dit proces.
 
-#### Artikel 29
+##### Artikel 29
 
 1. De aanvrager dient bij zijn aanvraag alle Nederlandse of buitenlandse reisdocumenten die op zijn naam zijn gesteld ter inzage over te leggen, ongeacht of hun geldigheidsduur is verstreken.
 
 2. De aanvrager die in een buitenlands reisdocument staat vermeld, doet hiervan bij zijn aanvraag mededeling.
 
-#### Artikel 30
+##### Artikel 30
 
 1. De aanvrager die houder wenst te blijven van een geldig Nederlands reisdocument naast het aangevraagde reisdocument, kan daartoe een verzoek doen aan de autoriteit die bevoegd is de aanvraag in ontvangst te nemen. Deze autoriteit beslist op het verzoek volgens nader door Onze Minister in overeenstemming met Onze Minister van Buitenlandse Zaken te stellen regelen.
 
@@ -386,25 +409,25 @@ Weigering of vervallenverklaring kan geschieden op verzoek van Onze Minister die
 
 - b. het geldig Nederlands document waarvan de aanvrager houder wenst te blijven een vervangende Nederlandse identiteitskaart is.
 
-#### Artikel 31
+##### Artikel 31
 
 1. De aanvrager wiens eerder uitgereikt reisdocument is vermist of mogelijk voorwerp is van fraude, meldt dat op de krachtens [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=I&paragraaf=4&artikel=5a&z=2024-01-01&g=2024-01-01) bepaalde wijze.
 
 2. De aanvrager wiens eerder uitgereikt reisdocument is ingenomen door een daartoe bevoegde autoriteit, legt bij het indienen van zijn aanvraag een door de desbetreffende autoriteit afgegeven schriftelijke verklaring over omtrent de inname.
 
-#### Artikel 32
+##### Artikel 32
 
 1. De aanvrager dient alle Nederlandse reisdocumenten die op zijn naam zijn gesteld in te leveren, tenzij [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=IV&paragraaf=1&artikel=30&z=2024-01-01&g=2024-01-01) of [31](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=IV&paragraaf=1&artikel=31&z=2024-01-01&g=2024-01-01) van toepassing is.
 
 2. De inlevering als bedoeld in het eerste lid dient te geschieden bij de uitreiking.
 
-#### Artikel 33
+##### Artikel 33
 
 De rechten die verschuldigd zijn of worden geheven in verband met handelingen ten behoeve van de aanvraag van een reisdocument, worden bij de indiening van de aanvraag voldaan.
 
 #### § 2. Aanvragen door of ten behoeve van handelingsonbekwamen
 
-#### Artikel 34
+##### Artikel 34
 
 1. Bij een aanvraag door of ten behoeve van een minderjarige wordt een verklaring van toestemming overgelegd van iedere persoon die het gezag uitoefent. Indien de minderjarige onder voorlopige voogdij is geplaatst van een gecertificeerde instelling als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1) in het Europese deel van Nederland onderscheidenlijk voorlopig is toevertrouwd aan een Voogdijraad in een openbaar lichaam, Aruba, Curaçao of Sint Maarten, wordt evenwel een verklaring van toestemming van de desbetreffende gecertificeerde instelling dan wel van de desbetreffende Voogdijraad overgelegd.
 
@@ -418,17 +441,17 @@ De rechten die verschuldigd zijn of worden geheven in verband met handelingen te
 
 6. Een verklaring van toestemming als bedoeld in het eerste lid, behoeft niet te worden overgelegd bij de aanvraag van een Nederlandse identiteitskaart of een vervangende Nederlandse identiteitskaart door of ten behoeve van een minderjarige die de leeftijd van twaalf jaren heeft bereikt.
 
-#### Artikel 35
+##### Artikel 35
 
 Aan de minderjarige die in werkelijke militaire dienst is, wordt een reisdocument verstrekt indien en voor zolang de daartoe aangewezen militaire autoriteit verklaart, dat zulks in het belang van de dienst is. Dit reisdocument geldt uiterlijk tot het tijdstip waarop de dienst wordt verlaten.
 
-#### Artikel 36
+##### Artikel 36
 
 1. Bij een aanvraag ten behoeve van een minderjarige die onder toezicht is gesteld en jonger is dan zestien jaar, kan, indien één of beide personen die het gezag over de minderjarige uitoefenen, weigeren een verklaring van toestemming als bedoeld in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=IV&paragraaf=2&artikel=34&z=2024-01-01&g=2024-01-01), af te geven, in plaats van die verklaring een verklaring van toestemming van de bevoegde rechter worden overgelegd.
 
 2. Onverminderd [artikel 34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=IV&paragraaf=2&artikel=34&z=2024-01-01&g=2024-01-01), kan de rechter een verklaring van toestemming afgeven op verzoek van een gecertificeerde instelling als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1) of een gezinsvoogdij-instelling in een openbaar lichaam, Aruba, Curaçao of Sint-Maarten. De rechter geeft een zodanige beslissing als hem in het belang van het kind wenselijk voorkomt. Daarbij kan als voorwaarde worden gesteld dat de geldigheidsduur of de territoriale geldigheid van het aangevraagde reisdocument wordt beperkt.
 
-#### Artikel 37
+##### Artikel 37
 
 1. Bij een aanvraag door of ten behoeve van een onder curatele gestelde, wordt een verklaring van toestemming van de curator overgelegd.
 
@@ -436,7 +459,7 @@ Aan de minderjarige die in werkelijke militaire dienst is, wordt een reisdocumen
 
 3. Indien de curator weigert een verklaring van toestemming als bedoeld in het eerste lid, af te geven, kan deze op verzoek van de onder curatele gestelde worden vervangen door een verklaring van de bevoegde rechter. Deze neemt een zodanige beslissing als hem in het belang van de onder curatele gestelde wenselijk voorkomt. Daarbij kan als voorwaarde worden gesteld dat de geldigheidsduur of de territoriale geldigheid van het aangevraagde reisdocument wordt beperkt.
 
-#### Artikel 38
+##### Artikel 38
 
 1. Op de procedure ingevolge de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=IV&paragraaf=2&artikel=34&z=2024-01-01&g=2024-01-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=IV&paragraaf=2&artikel=36&z=2024-01-01&g=2024-01-01) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=IV&paragraaf=2&artikel=37&z=2024-01-01&g=2024-01-01) is in het Europese deel van Nederland de [derde titel van het Eerste Boek van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&titeldeel=Derde), met uitzondering van [artikel 278, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=278), van toepassing.
 
@@ -452,13 +475,13 @@ Aan de minderjarige die in werkelijke militaire dienst is, wordt een reisdocumen
 
 7. De minderjarige, bedoeld in [artikel 34, derde lid, en de onder](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=IV&paragraaf=2&artikel=34&z=2024-01-01&g=2024-01-01) curatele gestelde zijn bekwaam in rechte op te treden en tegen een uitspraak beroep in te stellen.
 
-#### Artikel 39
+##### Artikel 39
 
 Aan de handelingsonbekwame die zich buiten het Koninkrijk bevindt en bij wiens aanvraag geen verklaring van toestemming kan worden overgelegd als bedoeld in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=IV&paragraaf=2&artikel=34&z=2024-01-01&g=2024-01-01), onderscheidenlijk [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=IV&paragraaf=2&artikel=37&z=2024-01-01&g=2024-01-01), kan vooruitlopend op een rechterlijke uitspraak of beschikking ter zake van een vervangende verklaring van toestemming, in bijzondere gevallen een reisdocument als bedoeld in [artikel 2, eerste lid, onder **f,**](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=I&paragraaf=1&artikel=2&z=2024-01-01&g=2024-01-01) worden verstrekt.
 
 ### Hoofdstuk V. Verstrekking, wijziging en uitreiking
 
-#### Artikel 40
+##### Artikel 40
 
 1. Bevoegd tot het verstrekken van nationale paspoorten, reisdocumenten voor vluchtelingen en reisdocumenten voor vreemdelingen, zijn:
 
@@ -492,7 +515,7 @@ Aan de handelingsonbekwame die zich buiten het Koninkrijk bevindt en bij wiens a
 
 8. Bij regeling van Onze Minister in overeenstemming met Onze Minister van Justitie en met Onze Minister van Buitenlandse Zaken kunnen regels worden gesteld over de verstrekking van reisdocumenten op grond van de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=II&paragraaf=2&artikel=12&z=2024-01-01&g=2024-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=II&paragraaf=2&artikel=14&z=2024-01-01&g=2024-01-01) of [15](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=II&paragraaf=2&artikel=15&z=2024-01-01&g=2024-01-01) aan personen die in Aruba, Curaçao of Sint Maarten zijn toegelaten.
 
-#### Artikel 41
+##### Artikel 41
 
 1. De in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=V&artikel=40&z=2024-01-01&g=2024-01-01) bedoelde autoriteiten verstrekken het aangevraagde reisdocument zo spoedig mogelijk, doch uiterlijk binnen vier weken na de dag van de aanvraag, tenzij de aanvraag een persoon betreft op wie een mededeling als bedoeld in [artikel 25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=III&paragraaf=2&artikel=25&z=2024-01-01&g=2024-01-01), van toepassing is.
 
@@ -502,7 +525,7 @@ Aan de handelingsonbekwame die zich buiten het Koninkrijk bevindt en bij wiens a
 
 4. Bij of krachtens algemene maatregel van rijksbestuur kunnen nadere regels worden gesteld over de termijnen van of de procedures ten aanzien van de verstrekking van reisdocumenten.
 
-#### Artikel 42
+##### Artikel 42
 
 1. Bevoegd tot uitreiking van reisdocumenten zijn de autoriteiten, die ingevolge [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=IV&paragraaf=1&artikel=26&z=2024-01-01&g=2024-01-01) bevoegd zijn de aanvragen daarvoor in ontvangst te nemen.
 
@@ -520,13 +543,13 @@ Aan de handelingsonbekwame die zich buiten het Koninkrijk bevindt en bij wiens a
 
 5. Bij of krachtens algemene maatregel van rijksbestuur kunnen nadere regels worden gesteld over de termijnen van of de procedures ten aanzien van de uitreiking van reisdocumenten.
 
-#### Artikel 43
+##### Artikel 43
 
 De autoriteiten, bedoeld in [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=V&artikel=42&z=2024-01-01&g=2024-01-01), alsmede andere door Onze Minister daartoe aangewezen autoriteiten zijn, volgens bij of krachtens algemene maatregel van rijksbestuur vast te stellen regels, bevoegd tot wijziging van reisdocumenten.
 
 ### Hoofdstuk VI. Weigering of vervallenverklaring
 
-#### Artikel 44
+##### Artikel 44
 
 1. Bevoegd tot weigering of vervallenverklaring van reisdocumenten op de gronden genoemd in [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=III&z=2024-01-01&g=2024-01-01) zijn de autoriteiten bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=V&artikel=40&z=2024-01-01&g=2024-01-01).
 
@@ -536,7 +559,7 @@ De autoriteiten, bedoeld in [artikel 42, eerste lid](https://wetten.overheid.nl/
 
 4. Indien de gronden tot weigering of vervallenverklaring nog blijken te bestaan, deelt de tot weigering of vervallenverklaring bevoegde autoriteit de aanvrager respectievelijk de houder terstond doch in ieder geval binnen vier weken na de aanvraag onderscheidenlijk de inhouding mede dat hij voornemens is de verstrekking van het aangevraagde reisdocument te weigeren dan wel het ingehouden reisdocument vervallen te verklaren, tenzij de aanvrager respectievelijk de houder hem binnen twee weken verzoekt de beslissing gedurende acht weken aan te houden, ten einde met de autoriteit bij wie de gronden bestaan een zodanige overeenstemming te bereiken dat tot verstrekking van het aangevraagde reisdocument of teruggave van het ingehouden reisdocument dan wel verstrekking van een reisdocument, waarvan de geldigheidsduur onderscheidenlijk de territoriale geldigheid beperkter is dan de bij of krachtens de wet vastgestelde, kan worden overgegaan.
 
-#### Artikel 45
+##### Artikel 45
 
 1. Indien binnen de periode van acht weken, bedoeld in [artikel 44, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=VI&artikel=44&z=2024-01-01&g=2024-01-01), door de autoriteit bij wie de gronden tot weigering of vervallenverklaring bestaan aan de tot weigering of vervallenverklaring bevoegde autoriteit wordt medegedeeld, dat overeenstemming is bereikt met de aanvrager respectievelijk de houder, dan wel indien de gronden bij de tot weigering of vervallenverklaring bevoegde autoriteit zelf bestaan, door deze een dergelijke overeenstemming is bereikt, wordt zo spoedig mogelijk doch uiterlijk binnen vier weken overeenkomstig de bereikte overeenstemming het aangevraagde reisdocument verstrekt of het ingehouden reisdocument teruggegeven dan wel het reisdocument, waarvan de geldigheidsduur onderscheidenlijk de territoriale geldigheid beperkter is dan de bij of krachtens de wet vastgestelde, verstrekt.
 
@@ -544,7 +567,7 @@ De autoriteiten, bedoeld in [artikel 42, eerste lid](https://wetten.overheid.nl/
 
 3. De tot weigering of vervallenverklaring bevoegde autoriteit doet van zijn beslissing, bedoeld in het tweede lid, onverwijld mededeling aan Onze Minister onderscheidenlijk de Gouverneur. Bij deze mededeling vermeldt hij het oordeel van de autoriteit bij wie de gronden tot weigering of vervallenverklaring bestaan. De Gouverneur draagt zorg dat de aan hem gedane mededeling ter kennis komt van Onze Minister. Onze Minister neemt deze mededeling op in het register, bedoeld in [artikel 25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=III&paragraaf=2&artikel=25&z=2024-01-01&g=2024-01-01).
 
-#### Artikel 46
+##### Artikel 46
 
 1. De beschikking tot weigering of vervallenverklaring wordt zo spoedig mogelijk doch uiterlijk binnen vier weken na het verstrijken van de termijn, bedoeld in [artikel 45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=VI&artikel=45&z=2024-01-01&g=2024-01-01), gegeven. In de openbare lichamen, Aruba, Curaçao en Sint Maarten wordt de beschikking schriftelijk aan de aanvrager, onderscheidenlijk de houder bekendgemaakt.
 
@@ -552,7 +575,7 @@ De autoriteiten, bedoeld in [artikel 42, eerste lid](https://wetten.overheid.nl/
 
 3. Het bepaalde in het tweede lid is van overeenkomstige toepassing op de vreemdelingen aan wie op grond van de [artikelen 11 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=II&paragraaf=2&artikel=11&z=2024-01-01&g=2024-01-01) een Nederlands reisdocument is verstrekt, voor zover zij nog beschikken over een geldige titel tot verblijf in een der landen van het Koninkrijk.
 
-#### Artikel 46a
+##### Artikel 46a
 
 1. Een Nederlandse identiteitskaart kan niet vervallen worden verklaard en kan uitsluitend worden geweigerd op de grond, genoemd in [artikel 23b](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=III&paragraaf=1&artikel=23b&z=2024-01-01&g=2024-01-01).
 
@@ -562,7 +585,7 @@ De autoriteiten, bedoeld in [artikel 42, eerste lid](https://wetten.overheid.nl/
 
 #### § 1. Algemeen
 
-#### Artikel 47
+##### Artikel 47
 
 1. Een reisdocument vervalt van rechtswege, indien:
 
@@ -594,7 +617,7 @@ De autoriteiten, bedoeld in [artikel 42, eerste lid](https://wetten.overheid.nl/
 
 #### § 1. Algemeen
 
-#### Artikel 48
+##### Artikel 48
 
 1. Degene, die de verklaring van toestemming als bedoeld in de [artikelen 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=IV&paragraaf=2&artikel=34&z=2024-01-01&g=2024-01-01) en [37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=IV&paragraaf=2&artikel=37&z=2024-01-01&g=2024-01-01), intrekt, geeft hiervan onverwijld schriftelijk kennis aan de ten aanzien van de houder tot verstrekking bevoegde autoriteit dan wel, indien deze autoriteit niet bekend is, aan Onze Minister, onderscheidenlijk de Gouverneur.
 
@@ -604,7 +627,7 @@ De autoriteiten, bedoeld in [artikel 42, eerste lid](https://wetten.overheid.nl/
 
 - b. de houder of diens wettelijke vertegenwoordiger het verzoek tot het verkrijgen van een vervangende verklaring van toestemming als bedoeld onder a, intrekt dan wel de afwijzende beschikking van de rechter op dit verzoek in kracht van gewijsde is gegaan.
 
-#### Artikel 49
+##### Artikel 49
 
 1. Bij de mededeling, bedoeld in [artikel 48, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=VII&paragraaf=2&artikel=48&z=2024-01-01&g=2024-01-01), wijst de in [artikel 48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=VII&paragraaf=2&artikel=48&z=2024-01-01&g=2024-01-01), bedoelde autoriteit de houder of diens wettelijke vertegenwoordiger erop, dat deze verplicht is het reisdocument bij hem in te leveren.
 
@@ -614,7 +637,7 @@ De autoriteiten, bedoeld in [artikel 42, eerste lid](https://wetten.overheid.nl/
 
 4. Onze Minister, onderscheidenlijk de Gouverneur, draagt zorg dat het ingevolge [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=VIII&artikel=53&z=2024-01-01&g=2024-01-01) ingehouden reisdocument onverwijld wordt toegezonden aan de in [artikel 48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=VII&paragraaf=2&artikel=48&z=2024-01-01&g=2024-01-01), bedoelde autoriteit.
 
-#### Artikel 50
+##### Artikel 50
 
 1. Zodra de vervangende verklaring van toestemming op de wijze, bedoeld in [artikel 48, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=VII&paragraaf=2&artikel=48&z=2024-01-01&g=2024-01-01), wordt overgelegd, wordt het reisdocument indien dit ingevolge [artikel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=VII&paragraaf=2&artikel=49&z=2024-01-01&g=2024-01-01), is ingeleverd, dan wel ingevolge [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=VIII&artikel=53&z=2024-01-01&g=2024-01-01) is ingehouden, aan de houder teruggegeven.
 
@@ -624,23 +647,23 @@ De autoriteiten, bedoeld in [artikel 42, eerste lid](https://wetten.overheid.nl/
 
 ### Hoofdstuk VI. Weigering of vervallenverklaring
 
-#### Artikel 51
+##### Artikel 51
 
 1. Een reisdocument kan worden ingehouden door Onze Minister van Buitenlandse Zaken onderscheidenlijk de Gouverneur, die aan de houder een geldlening heeft verstrekt of ten behoeve van de houder kosten heeft gemaakt. De houder wordt hiervan terstond in kennis gesteld. Het reisdocument wordt teruggegeven wanneer de betrokken houder in zijn woonplaats is teruggekeerd.
 
 2. Aan de houder wordt een reisdocument als bedoeld in [artikel 2, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=I&paragraaf=1&artikel=2&z=2024-01-01&g=2024-01-01), verstrekt met een zodanige tijdelijke en territoriale geldigheid als vereist is voor een rechtstreekse reis naar zijn woonplaats.
 
-#### Artikel 52
+##### Artikel 52
 
 Een reisdocument kan worden ingehouden door de autoriteiten, bedoeld in de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=III&paragraaf=1&artikel=18&z=2024-01-01&g=2024-01-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=III&paragraaf=1&artikel=19&z=2024-01-01&g=2024-01-01) op het moment dat zij het verzoek doen ingevolge [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=III&paragraaf=2&artikel=25&z=2024-01-01&g=2024-01-01). Het ingehouden reisdocument wordt uiterlijk binnen twee weken toegezonden aan de tot vervallenverklaring bevoegde autoriteit, dan wel aan de houder teruggegeven. Van de doorzending wordt de houder terstond in kennis gesteld.
 
-#### Artikel 53
+##### Artikel 53
 
 1. Een reisdocument dat vervallen kan worden verklaard, wordt door de tot inhouding bevoegde autoriteiten ingehouden, indien zij van Onze Minister een mededeling hebben ontvangen als bedoeld in [artikel 25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=III&paragraaf=2&artikel=25&z=2024-01-01&g=2024-01-01). Indien de autoriteit die het reisdocument heeft ingehouden niet tevens de tot vervallenverklaring bevoegde autoriteit is, zendt hij het ingehouden reisdocument onverwijld aan laatstgenoemde autoriteit toe. De houder wordt hiervan terstond in kennis gesteld.
 
 2. Het bepaalde in [artikel 46, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=VI&artikel=46&z=2024-01-01&g=2024-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 54
+##### Artikel 54
 
 1. Een reisdocument wordt ingehouden, indien:
 
@@ -664,25 +687,25 @@ Een reisdocument kan worden ingehouden door de autoriteiten, bedoeld in de [arti
 
 6. Bij of krachtens algemene maatregel van rijksbestuur kunnen nadere regels worden gesteld over de procedures ten aanzien van de inhouding van reisdocumenten.
 
-#### Artikel 55
+##### Artikel 55
 
 Vervallen
 
-#### Artikel 56
+##### Artikel 56
 
 De houder van een reisdocument levert dit zo spoedig mogelijk in bij een tot inhouding bevoegde autoriteit, indien het reisdocument van rechtswege is vervallen dan wel deze autoriteit om inlevering daarvan ter inhouding als bedoeld in de [artikelen 49](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=VII&paragraaf=2&artikel=49&z=2024-01-01&g=2024-01-01), [51](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=VIII&artikel=51&z=2024-01-01&g=2024-01-01), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=VIII&artikel=52&z=2024-01-01&g=2024-01-01), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=VIII&artikel=53&z=2024-01-01&g=2024-01-01) en [54](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=VIII&artikel=54&z=2024-01-01&g=2024-01-01) verzoekt.
 
-#### Artikel 57
+##### Artikel 57
 
 Bevoegd tot het definitief aan het verkeer onttrekken van reisdocumenten zijn de autoriteiten die bevoegd zijn tot verstrekking, weigering of vervallenverklaring van reisdocumenten. Bij of krachtens algemene maatregel van rijksbestuur worden regels gesteld over de gronden voor en de wijze van het onttrekken aan het verkeer.
 
 ### Hoofdstuk IX. Toezicht
 
-#### Artikel 58
+##### Artikel 58
 
 Het toezicht op de uitvoering van deze wet berust bij Onze Minister. Aan hem en aan door hem aangewezen ambtenaren worden door de autoriteiten belast met de uitvoering van deze wet alle inlichtingen verstrekt welke zij in verband met de uitoefening van hun taak nodig hebben en wordt inzage verleend in alle bescheiden die verband houden met de uitvoering van deze wet.
 
-#### Artikel 59
+##### Artikel 59
 
 1. Bij of krachtens algemene maatregel van rijksbestuur kunnen nadere regels worden gesteld over het aanvraag- en uitgifteproces en over verwerking van gegevens in het kader daarvan.
 
@@ -690,7 +713,7 @@ Het toezicht op de uitvoering van deze wet berust bij Onze Minister. Aan hem en 
 
 ### Hoofdstuk IX. Toezicht
 
-#### Artikel 60
+##### Artikel 60
 
 1. Het is een ieder verboden een reisdocument valselijk op te maken of te vervalsen, of een zodanig stuk op grond van valse gegevens te doen verstrekken dan wel een aan hem of een ander verstrekt reisdocument ter beschikking te stellen van derden, met het oogmerk het door dezen te doen gebruiken als ware het aan hen verstrekt.
 
@@ -702,45 +725,45 @@ Het toezicht op de uitvoering van deze wet berust bij Onze Minister. Aan hem en 
 
 - c. opzettelijk en wederrechtelijk gebruik te maken van een niet op zijn naam gesteld reisdocument.
 
-#### Artikel 61
+##### Artikel 61
 
 Het is een ieder verboden drukwerken of andere voorwerpen in een vorm die ze op reisdocumenten doet gelijken, te vervaardigen, te verspreiden of ter verspreiding in voorraad te hebben.
 
-#### Artikel 62
+##### Artikel 62
 
 Ieder is verplicht een reisdocument dat hij voorhanden heeft, maar waarvan hij niet de houder is, of dat ingevolge het bepaalde in [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=VIII&artikel=56&z=2024-01-01&g=2024-01-01) moet worden ingeleverd, terstond wanneer hem dit mondeling door een tot inhouding bevoegde ambtenaar is bevolen, dan wel binnen veertien dagen, nadat hem dit bij aangetekend schrijven in persoon is medegedeeld, in te leveren.
 
-#### Artikel 63
+##### Artikel 63
 
 Bij wet onderscheidenlijk bij landsverordening wordt overtreding van het in de [artikelen 60](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=X&artikel=60&z=2024-01-01&g=2024-01-01), [61](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=X&artikel=61&z=2024-01-01&g=2024-01-01) en [62](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=X&artikel=62&z=2024-01-01&g=2024-01-01) bepaalde strafbaar gesteld.
 
 ### Hoofdstuk X. Strafbepalingen
 
-#### Artikel 64
+##### Artikel 64
 
 Bij landsverordening wordt geregeld de mogelijkheid voorziening te vragen tegen de op grond van deze wet genomen beschikkingen.
 
 ### Hoofdstuk XI. Administratieve rechtsbescherming in Aruba, Curaçao en Sint Maarten
 
-#### Artikel 65
+##### Artikel 65
 
 Vervallen
 
-#### Artikel 66
+##### Artikel 66
 
 Vervallen
 
-#### Artikel 67
+##### Artikel 67
 
 Deze rijkswet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Bij koninklijk besluit kunnen verschillende tijdstippen worden vastgesteld, waarop [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=I&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01), voor zover het betreft de vermelding van het geslacht als persoonsgegeven van de houder, respectievelijk [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=VIII&artikel=56&z=2024-01-01&g=2024-01-01), voor zover het betreft de inlevering van reisdocumenten die ingevolge [artikel 47, eerste lid, onder **d,**](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=VII&paragraaf=1&artikel=47&z=2024-01-01&g=2024-01-01) van rechtswege zijn vervallen, in werking treden.
 
-#### Artikel 68
+##### Artikel 68
 
 Deze rijkswet kan worden aangehaald als "Paspoortwet".
 
 Lasten en bevelen dat deze in het **Staatsblad**, in het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 4b
+##### Artikel 4b
 
 Dit onderdeel is nog niet inwerking getreden
 
@@ -770,7 +793,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ### Hoofdstuk V. Verstrekking, wijziging en uitreiking
 
-#### Artikel 41a
+##### Artikel 41a
 
 Dit onderdeel is nog niet inwerking getreden
 
@@ -790,7 +813,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 Lasten en bevelen dat deze in het **Staatsblad**, in het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 23a
+##### Artikel 23a
 
 Weigering of vervallenverklaring kan geschieden op verzoek van Onze Minister die het aangaat, indien naar aanleiding van een daarop betrekking hebbende kennisgeving door een bevoegde autoriteit van een met het Koninkrijk bevriende mogendheid het gegronde vermoeden bestaat dat de betrokken persoon zich in dat land zal onttrekken aan een tegen hem ingestelde strafvervolging of tenuitvoerlegging van een hem opgelegde straf of maatregel in verband met gedragingen die naar het recht van een van de landen binnen het Koninkrijk een misdrijf opleveren waarvoor een vrijheidsstraf van een jaar of van langere duur kan worden opgelegd.
 
@@ -822,13 +845,13 @@ Weigering of vervallenverklaring kan geschieden op verzoek van Onze Minister die
 
 Lasten en bevelen dat deze in het **Staatsblad**, in het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 65a
+##### Artikel 65a
 
 Vervallen
 
 Lasten en bevelen dat deze in het **Staatsblad**, in het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 66a
+##### Artikel 66a
 
 1. Nationale paspoorten en Nederlandse identiteitskaarten, verstrekt vóór de datum van inwerkingtreding van [artikel I, onderdeel F, respectievelijk artikel I, onderdeel G van de Wijziging van de Paspoortwet in verband met onder meer de status van de Nederlandse identiteitskaart](https://wetten.overheid.nl/jci1.3:c:BWBR0034694&artikel=I), behouden de geldigheid die daarin is vermeld.
 
@@ -836,11 +859,11 @@ Lasten en bevelen dat deze in het **Staatsblad**, in het **Publicatieblad van de
 
 Lasten en bevelen dat deze in het **Staatsblad**, in het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 23b
+##### Artikel 23b
 
 Weigering geschiedt op verzoek van Onze Minister die het aangaat, indien de betrokken persoon een verbod is opgelegd als bedoeld in [artikel 3 van de Tijdelijke wet bestuurlijke maatregelen terrorismebestrijding](https://wetten.overheid.nl/jci1.3:c:BWBR0039210&artikel=3).
 
-#### Artikel 46a0
+##### Artikel 46a0
 
 1. De [artikelen 44, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=VI&artikel=44&z=2024-01-01&g=2024-01-01), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=VI&artikel=45&z=2024-01-01&g=2024-01-01) en [46](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=VI&artikel=46&z=2024-01-01&g=2024-01-01) zijn niet van toepassing indien de weigering geschiedt op de grond, genoemd in [artikel 23b](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=III&paragraaf=1&artikel=23b&z=2024-01-01&g=2024-01-01).
 
@@ -860,7 +883,7 @@ Weigering geschiedt op verzoek van Onze Minister die het aangaat, indien de betr
 
 Lasten en bevelen dat deze in het **Staatsblad**, in het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 5a
+##### Artikel 5a
 
 De houder wiens reisdocument is vermist of mogelijk voorwerp is van fraude, kan dat op een bij ministeriële regeling te bepalen wijze melden.
 
@@ -894,7 +917,7 @@ Lasten en bevelen dat deze in het **Staatsblad**, in het **Publicatieblad van de
 
 #### § 2. Gegevens ten behoeve van reisdocumenten
 
-#### Artikel 3a
+##### Artikel 3a
 
 1. Bij algemene maatregel van rijksbestuur kunnen documenten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=I&paragraaf=1&artikel=2&z=2024-01-01&g=2024-01-01) worden aangewezen waar het publiek identificatiemiddel op wordt geplaatst.
 
@@ -908,7 +931,7 @@ Lasten en bevelen dat deze in het **Staatsblad**, in het **Publicatieblad van de
 
 #### § 3. Het basisregister reisdocumenten
 
-#### Artikel 4c
+##### Artikel 4c
 
 1. Er is een basisregister reisdocumenten. Onze Minister is verantwoordelijk voor de gegevensverwerkingen in dit register.
 
@@ -916,7 +939,7 @@ Lasten en bevelen dat deze in het **Staatsblad**, in het **Publicatieblad van de
 
 3. Onze Minister stelt regels over het beheer, de beveiliging en de betrouwbaarheid van het register.
 
-#### Artikel 4d
+##### Artikel 4d
 
 1. In het basisregister reisdocumenten worden uitsluitend de volgende gegevens opgenomen:
 
@@ -932,7 +955,7 @@ Lasten en bevelen dat deze in het **Staatsblad**, in het **Publicatieblad van de
 
 4. Bij of krachtens algemene maatregel van rijksbestuur worden nadere regels gesteld omtrent de gegevensverwerking in het basisregister reisdocumenten, alsmede de bewaartermijn, de verwijdering en de vernietiging van de in het basisregister reisdocumenten opgenomen gegevens.
 
-#### Artikel 4e
+##### Artikel 4e
 
 1. De gegevens uit het basisregister reisdocumenten kunnen worden verstrekt ten behoeve van de volgende taken of werkzaamheden aan de daarmee belaste organen en instellingen:
 
@@ -976,7 +999,7 @@ Lasten en bevelen dat deze in het **Staatsblad**, in het **Publicatieblad van de
 
 ### Hoofdstuk V. Verstrekking, wijziging en uitreiking
 
-#### Artikel 46b
+##### Artikel 46b
 
 Bij of krachtens algemene maatregel van rijksbestuur kunnen nadere regels worden gesteld over de termijnen of de procedures ten aanzien van de weigering of vervallenverklaring van reisdocumenten.
 
@@ -986,11 +1009,11 @@ Bij of krachtens algemene maatregel van rijksbestuur kunnen nadere regels worden
 
 #### § 2. Reisdocumenten van handelingsonbekwamen
 
-#### Artikel 50a
+##### Artikel 50a
 
 Bij of krachtens algemene maatregel van rijksbestuur kunnen nadere regels worden gesteld over de procedures ten aanzien van het vervallen van rechtswege van reisdocumenten van handelingsonbekwamen.
 
-#### Artikel 50b
+##### Artikel 50b
 
 Bevoegd tot het inhouden van reisdocumenten zijn:
 

@@ -1,20 +1,45 @@
 ---
 title: "Dienstplichtwet BES"
 identifier: "BWBR0028468"
-categorie: "Overig"
-publicatiedatum: 2011-10-09
-laatste_update: 2011-10-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028468"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2011-10-09"
+last_updated: "2011-10-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028468"
+soort: "wet-BES"
+stam_id: "10797713"
+version_id: "17777522"
+internal_id: "C24781851"
+label_id: "10774084"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028468/2011-10-09/0"
+intitule_bron: "Stb.2010-426"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-14"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-426"
+original_signed_date: "2010-09-14"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-426"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028468&z=2011-10-09&g=2011-10-09"
+jci_1_0: "1.0:c:BWBR0028468&g=2011-10-09"
+citeertitel_status: "officieel"
+signed_date: "2010-09-14"
+entry_into_force: "2010-10-10"
 ---
-
 # Dienstplichtwet BES
 
 ## Titel I. Dienstplicht
 
 ### Hoofdstuk I. Algemene Bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. Voor de toepassing van deze titel wordt verstaan onder:
 
@@ -34,15 +59,15 @@ bron: "https://wetten.overheid.nl/BWBR0028468"
 
 4. Waar in deze wet wordt gesproken van het oproepen in werkelijke dienst, wordt daaronder ten aanzien van hen, die zich reeds in werkelijke dienst bevinden, verstaan het houden in werkelijke dienst.
 
-#### Artikel 2
+##### Artikel 2
 
 [Vervallen]
 
-#### Artikel 3
+##### Artikel 3
 
 Alle stukken, die in verband met de bepalingen van deze wet of te harer uitvoering gegeven voorschriften en uitgevaardigde besluiten en beschikkingen worden gevorderd, ingediend, overgelegd of uitgereikt, zijn vrij van het recht van zegel.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Hij, die voor de dienstplicht is ingeschreven, kan niettemin, ook al is hij als dienstplichtige in werkelijke dienst, worden toegelaten tot een vrijwillige verbintenis bij de krijgsmacht. Onze Minister bepaalt in hoeverre betrokkene, na voldoening aan zijn vrijwillige verbintenis, geacht kan worden zijn dienstplicht te hebben vervuld.
 
@@ -50,23 +75,23 @@ Alle stukken, die in verband met de bepalingen van deze wet of te harer uitvoeri
 
 3. De bepalingen van deze wet zijn, tenzij anders is overeengekomen, gedurende de tijd der vrijwillige verbintenis, voor zover nodig, van toepassing.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De dienstplichtige, niet in werkelijke dienst, die zich voor langer dan acht maanden naar het buitenland begeeft, geeft hiervan voor zijn vertrek kennis aan de Gezaghebber van het eilandgebied van zijn woonplaats. Gelijke kennisgeving doet hij bij zijn terugkeer.
 
 2. Bij met redenen omklede beschikking kan Onze Minister tijdelijk bepalen dat de in het vorige lid bedoelde termijn wordt ingekort dan wel vervalt.
 
-#### Artikel 6
+##### Artikel 6
 
 Voor de toepassing en uitvoering dezer wet en derzelver uitvoeringsbesluiten en beschikkingen wordt een commissie van advies ingesteld. Deze commissie heet «Dienstplichtraad»; haar samenstelling, taak en werkwijze worden door Onze Minister bepaald. Aan deze commissie worden zo mogelijk een officier van de zeemacht en zo nodig een van de luchtmacht en een van de landmacht als lid toegevoegd.
 
-#### Artikel 7
+##### Artikel 7
 
 Voor zover in deze wet niet anders is of wordt bepaald geschiedt de uitvoering derzelver bepalingen bij algemene maatregel van bestuur.
 
 ### Hoofdstuk II. Inschrijving
 
-#### Artikel 8
+##### Artikel 8
 
 1. Voor de dienstplicht wordt behoudens het bepaalde in het tweede lid ingeschreven:
 
@@ -78,7 +103,7 @@ Voor zover in deze wet niet anders is of wordt bepaald geschiedt de uitvoering d
 
 2. Voor de dienstplicht wordt niet ingeschreven de Nederlander voor zolang hij in werkelijke dienst is bij de krijgsmacht.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De Gezaghebbers der onderscheiden eilandgebieden zijn gehouden de Nederlanders die overeenkomstig het bepaalde in het [vorige artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=II&artikel=8&z=2011-10-09&g=2011-10-09) ingeschreven behoren te worden, in te schrijven of te doen inschrijven in een dienstplichtregister, waarvan het model door Onze Minister wordt vastgesteld.
 
@@ -90,7 +115,7 @@ Voor zover in deze wet niet anders is of wordt bepaald geschiedt de uitvoering d
 
 5. Onze Minister kan vorderen, dat hem ook tussentijds gegevens uit het dienstplichtregister worden overgelegd.
 
-#### Artikel 10
+##### Artikel 10
 
 Nederlanders worden uit het dienstplichtregister afgeschreven:
 
@@ -112,7 +137,7 @@ Nederlanders worden uit het dienstplichtregister afgeschreven:
 
 ### Hoofdstuk III. Keuring
 
-#### Artikel 11
+##### Artikel 11
 
 1. De geschiktheid of ongeschiktheid voor dienst bij de krijgsmacht in verband met lichaamslengte of met ziekten en gebreken wordt beoordeeld door een door Onze Minister samen te stellen keuringscommissie van drie geneeskundigen, waaraan zo mogelijk één geneeskundige van de krijgsmacht als lid wordt toegevoegd.
 
@@ -132,7 +157,7 @@ Nederlanders worden uit het dienstplichtregister afgeschreven:
 
 9. Voor zover nodig stellen de betrokken bestuurscolleges geneeskundigen ter beschikking voor de samenstelling der keurings- en herkeuringscommissies.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De uitspraak van een keuringscommissie of een herkeuringscommissie betreft:
 
@@ -148,7 +173,7 @@ Nederlanders worden uit het dienstplichtregister afgeschreven:
 
 3. Na verstrijken van de duur der tijdelijke ongeschiktheid wordt de betrokkene opnieuw voor de keuring opgeroepen.
 
-#### Artikel 13
+##### Artikel 13
 
 De bepalingen van dit hoofdstuk zijn niet van toepassing op hen, die:
 
@@ -156,13 +181,13 @@ De bepalingen van dit hoofdstuk zijn niet van toepassing op hen, die:
 
 - b. van de militaire dienst zijn uitgesloten.
 
-#### Artikel 14
+##### Artikel 14
 
 De in de keuringscommissie of herkeuringscommissie zitting hebbende geneeskundigen zijn verplicht de hun in verband met de keuring opgedragen werkzaamheden te verrichten.
 
 ### Hoofdstuk IV. Vrijstelling
 
-#### Artikel 15
+##### Artikel 15
 
 1. Vrijstelling van militaire dienst kan worden verleend wegens:
 
@@ -186,7 +211,7 @@ en wordt verleend wegens:
 
 5. Onnauwkeurige vermelding van namen en voornamen en andere persoonsgegevens in het dienstplichtregister levert geen grond op voor vrijstelling van militaire dienst.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Vrijstelling wegens kostwinnerschap kan worden verleend, indien door het verblijf van de ingeschrevene in werkelijke dienst, behalve in het geval van opkomst voor herhalingsoefeningen, voldoende middelen tot levensonderhoud aan andere personen ontbreken of zouden komen te ontbreken.
 
@@ -200,25 +225,25 @@ en wordt verleend wegens:
 
 3. Wanneer geen vrijstelling van militaire dienst wordt verleend aan de ingeschrevene, die in het geval bedoeld in het eerste lid verkeert, dan wordt krachtens bij algemene maatregel van bestuur,te stellen regelen aan hem op zijn verzoek een vergoeding uit 's Lands kas toegekend.
 
-#### Artikel 17
+##### Artikel 17
 
 Vrijstelling wegens persoonlijke onmisbaarheid kan door Onze Minister worden verleend aan hem door wiens verblijf in werkelijke dienst onoverkomelijke bezwaren zouden ontstaan voor de taakvervulling van de Overheid of een particuliere organisatie.
 
-#### Artikel 18
+##### Artikel 18
 
 Vrijstelling om de reden, genoemd in [artikel 15 lid 1 onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=IV&artikel=15&z=2011-10-09&g=2011-10-09), wordt met inachtneming van bij algemene maatregel van bestuur vast te stellen regelen verleend.
 
-#### Artikel 19
+##### Artikel 19
 
 Vrijstelling van dienst wegens broederdienst wordt verleend aan de ingeschrevene die ten minste drie broeders heeft of gehad heeft, die op een door Onze Minister te bepalen tijdstip dienen of ten minste dertig dagen gediend hebben bij de krijgsmacht.
 
-#### Artikel 20
+##### Artikel 20
 
 [vervallen]
 
 ### Hoofdstuk V. Uitsluitingen
 
-#### Artikel 21
+##### Artikel 21
 
 1. Onze Minister sluit van de militaire dienst uit degene, die:
 
@@ -236,7 +261,7 @@ Vrijstelling van dienst wegens broederdienst wordt verleend aan de ingeschrevene
 
 ### Hoofdstuk VI. Dienstplicht
 
-#### Artikel 22
+##### Artikel 22
 
 1. Alle ingeschrevenen, met uitzondering van hen, die op grond van voorgaande bepalingen niet dienstplichtig zijn of van de dienstplicht zijn vrijgesteld of zijn uitgesloten of die niet tot de militaire dienst verplicht zijn ingevolge een internationale overeenkomst, welke in de openbare lichamen Bonaire, Sint Eustatius en Saba van toepassing is, zijn dienstplichtigen.
 
@@ -244,7 +269,7 @@ Vrijstelling van dienst wegens broederdienst wordt verleend aan de ingeschrevene
 
 3. Blijkt, dat iemand in meer dan één dienstplichtregister is ingeschreven dan bepaalt Onze Minister voor welk eilandgebied de inschrijving achterwege blijft.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Hij, die voor de werkelijke dienst heeft moeten opkomen en op de tijd en de plaats, voor zijn verschijning bepaald, niet is verschenen, meldt zich zodra mogelijk aan bij de door Onze Minister aan te wijzen autoriteit.
 
@@ -252,7 +277,7 @@ Vrijstelling van dienst wegens broederdienst wordt verleend aan de ingeschrevene
 
 ### Hoofdstuk VII. Werkelijke dienst
 
-#### Artikel 24
+##### Artikel 24
 
 1. De interne dienstplichtige is verplicht tot het vervullen van werkelijke dienst:
 
@@ -270,7 +295,7 @@ Vrijstelling van dienst wegens broederdienst wordt verleend aan de ingeschrevene
 
 4. De dienstplichtigen staan onder het militair gezag van het onderdeel der krijgsmacht waarbij zij in werkelijke dienst zijn.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Oproeping voor eerste oefening en voor herhalingsoefeningen geschiedt door het bestuurscollege. Het besluit tot oproeping bevat alle gegevens betreffende de namen of de groepen van personen, die worden opgeroepen, het tijdstip waarop en de plaats waar zij zich moeten melden, de aanduiding, met eventuele vermelding van de detacheringsbeschikking, van het krijgsmacht-onderdeel, waarbij werkelijke dienst moet worden vervuld, alsmede de duur der eerste oefening of der herhalingsoefeningen, waarvoor wordt opgeroepen.
 
@@ -278,13 +303,13 @@ Vrijstelling van dienst wegens broederdienst wordt verleend aan de ingeschrevene
 
 3. Degenen, die onder de werking van de Schutterijlandsverordening 1940 (P.B. 1940, no. 81), zoals gewijzigd, aan hun dienstplicht hebben voldaan, kunnen slechts worden opgeroepen voor herhalingsoefeningen of ingeval van oorlog, oorlogsgevaar of andere buitengewone omstandigheden overeenkomstig het bepaalde in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=VII&artikel=29&z=2011-10-09&g=2011-10-09). De oproeping geschiedt met inachtneming van de militaire rang welke laatstelijk werd bekleed.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Oproeping voor eerste oefening geschiedt zoveel mogelijk met inachtneming van de jaarklasse van inschrijving van de dienstplichtigen in het dienstplichtregister.
 
 2. De opgeroepen interne dienstplichtigen zullen hun werkelijke dienst bij voorkeur in het eilandgebied hunner woonplaats vervullen.
 
-#### Artikel 27
+##### Artikel 27
 
 1. De duur van de eerste oefening bedraagt ten hoogste 12 maanden. Ten aanzien van dienstplichtigen, die in opleiding worden genomen tot officier of onderofficier bedraagt deze termijn hoogstens 12 maanden meer.
 
@@ -292,21 +317,21 @@ Vrijstelling van dienst wegens broederdienst wordt verleend aan de ingeschrevene
 
 3. Aan dienstplichtigen die in werkelijke dienst wensen te blijven, nadat de tijd, welke zij in werkelijke dienst moeten doorbrengen is verstreken kan dit volgens door Onze Minister van defensie in Nederland, na overleg met Onze Minister vast te stellen regelen worden vergund.
 
-#### Artikel 28
+##### Artikel 28
 
 1. De duur der herhalingsoefeningen bedraagt al of niet aaneengesloten, ten hoogste drie maanden over een tijdvak van 3 jaren.
 
 2. Bij algemene maatregel van bestuur wordt bepaald door wie en in welke gevallen uitstel of vrijstelling van herhalingsoefeningen kan worden verleend.
 
-#### Artikel 28A
+##### Artikel 28A
 
 Een dienstplichtige kan door het militaire gezag, na overleg met Onze Minister, worden aangewezen voor het vervullen van dienst buiten het grondgebied van Aruba, Curaçao of Sint Maarten of van de openbare lichamen Bonaire, Sint Eustatius en Saba, mits de duur van deze dienst een tijdvak van dertig aaneengesloten dagen niet overschrijdt en de dienstplichtige in een tijdvak van twaalf maanden niet meer dan twee en gedurende de herhalingsoefeningen in het geheel niet meer dan één maand buiten het grondgebied van Aruba, Curaçao of Sint Maarten of van de openbare lichamen Bonaire, Sint Eustatius en Saba dienst vervult.
 
-#### Artikel 29
+##### Artikel 29
 
 Ingeval van oorlog, oorlogsgevaar of andere buitengewone omstandigheden kunnen de dienstplichtigen buitengewoon in werkelijke dienst worden gehouden of opgeroepen.
 
-#### Artikel 30
+##### Artikel 30
 
 De dienstplichtige kan, als hij voor groot verlof in aanmerking komt, in werkelijke dienst worden gehouden:
 
@@ -316,27 +341,27 @@ De dienstplichtige kan, als hij voor groot verlof in aanmerking komt, in werkeli
 
 - c. zolang het vertrek met groot verlof gevaar zou opleveren voor verspreiding van een in de etablissementen van de krijgsmacht heersende of geheerst hebbende besmettelijke ziekte.
 
-#### Artikel 31
+##### Artikel 31
 
 Klein verlof genoten gedurende de werkelijke dienst onderbreekt deze niet.
 
 ### Hoofdstuk VIII. Groot verlof
 
-#### Artikel 32
+##### Artikel 32
 
 Zolang de dienstplichtige niet in werkelijke dienst is noch in werkelijke dienst behoeft te zijn, is hij in het genot van groot verlof.
 
-#### Artikel 33
+##### Artikel 33
 
 De dienstplichtige met groot verlof is verplicht om aan door Onze Minister aan te wijzen personen inzage te verlenen van aan hem uitgereikte militaire bescheiden alsmede om aan Onze Minister desgevraagd schriftelijk alle in verband met zijn dienstplicht gewenste inlichtingen te verschaffen.
 
-#### Artikel 34
+##### Artikel 34
 
 [vervallen]
 
 ### Hoofdstuk IX. Ontslag
 
-#### Artikel 35
+##### Artikel 35
 
 1. Het ontslag van officieren bij de krijgsmacht, voor zover in Aruba, Curaçao of Sint Maarten of in de openbare lichamen Bonaire, Sint Eustatius en Saba dienstplichtig of dienstplichtig geweest zijnde, geschiedt bij koninklijk besluit. In de overige gevallen geschiedt het ontslag door Onze Minister.
 
@@ -358,7 +383,7 @@ De dienstplichtige met groot verlof is verplicht om aan door Onze Minister aan t
 
 4. In geval van oorlog of oorlogsgevaar of ingeval bedreiging of verstoring van de inwendige orde en rust kan leiden tot wezenlijke aantasting van belangen van het Koninkrijk, kan van het tweede lid worden afgeweken.
 
-#### Artikel 36
+##### Artikel 36
 
 1. Ontslag van een vrijwillig nadienende dienstplichtige om een van de redenen, genoemd in [artikel 35, tweede lid, onderdelen b, c, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=IX&artikel=35&z=2011-10-09&g=2011-10-09), wordt eerst verleend nadat terzake het advies is ingewonnen van een door de Regionaal Bevelhebber ingestelde commissie van onderzoek. Bij ontslag op grond van artikel 35, tweede lid, onderdeel c, geldt het bij of krachtens dit lid bepaalde alleen voor de langdurig vrijwillig nadienende dienstplichtige.
 
@@ -370,7 +395,7 @@ De dienstplichtige met groot verlof is verplicht om aan door Onze Minister aan t
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 37
+##### Artikel 37
 
 1. Voor de toepassing van deze titel of de daarop berustende bepalingen wordt verstaan onder:
 
@@ -398,7 +423,7 @@ De dienstplichtige met groot verlof is verplicht om aan door Onze Minister aan t
 
 3. Voor de toepassing van de artikelen van deze titel, waarin het begrip «commandant» is gebruikt, kan de Regionaal Bevelhebber zo nodig voor elk van die artikelen afzonderlijk bepalen welke functionaris moet worden aangemerkt als commandant in de zin van het betrokken artikel.
 
-#### Artikel 38
+##### Artikel 38
 
 1. Onze Minister kan in tijd van oorlog tijdelijk afwijken of doen afwijken van hetgeen bij of krachtens deze titel is bepaald, indien en voor zolang dit met het oog op de goede uitvoering van de operationele taken van de krijgsmacht noodzakelijk wordt geacht.
 
@@ -408,13 +433,13 @@ De dienstplichtige met groot verlof is verplicht om aan door Onze Minister aan t
 
 ### Hoofdstuk 2. Opleiding
 
-#### Artikel 39
+##### Artikel 39
 
 1. De dienstplichtige wordt gedurende zijn verblijf in werkelijke dienst, naar voorwaarden door de Regionaal Bevelhebber te stellen, opgelegd tot het verkrijgen van de bekwaamheid, vereist voor de militaire hoedanigheid die hij bezit of waarvoor hij is bestemd.
 
 2. De dienstplichtige in werkelijke dienst kan voorts, al dan niet op eigen verzoek, worden aangewezen voor het volgen van andere opleidingen dan in het vorige lid bedoeld, indien het volgen daarvan, naar het oordeel van de Regionaal Bevelhebber, van belang is voor de dienst.
 
-#### Artikel 40
+##### Artikel 40
 
 1. Aan de aanwijzing op verzoek van de dienstplichtige voor het volgen van een opleiding als bedoeld in het tweede lid van het vorige artikel kunnen, indien hiervoor naar het oordeel van de Regionaal Bevelhebber aanleiding bestaat, door Onze Minister bepaalde voorwaarden worden verbonden, welke hieruit kunnen bestaan, dat aan de dienstplichtige de verplichting wordt opgelegd:
 
@@ -424,13 +449,13 @@ De dienstplichtige met groot verlof is verplicht om aan door Onze Minister aan t
 
 2. Wanneer de dienstplichtige wegens omstandigheden, die naar het oordeel van de Regionaal Bevelhebber niet zijn ontstaan door eigen wil of toedoen, wordt ontheven van een opleiding of van de functie waarop de opleiding betrekking had, dan wel niet wordt aangewezen voor de functie waarop de opleiding betrekking had, wordt hij tevens door Onze Minister ontheven van de verplichting bedoeld in het vorige lid onder b, indien deze op hem rust.
 
-#### Artikel 41
+##### Artikel 41
 
 1. Een dienstplichtige die is aangewezen voor het volgen van een opleiding als bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=2&artikel=39&z=2011-10-09&g=2011-10-09), kan daarvan op voordracht van de Regionaal Bevelhebber, door Onze Minister worden ontheven, indien hij niet voldoet aan de bij die opleiding gestelde eisen of indien ontheffing in het belang van de dienst of van de dienstplichtige om andere redenen noodzakelijk is.
 
 2. Wanneer is besloten een dienstplichtige van een opleiding te ontheffen wordt hem dit door Onze Minister, met vermelding van de reden, onverwijld schriftelijk medegedeeld.
 
-#### Artikel 42
+##### Artikel 42
 
 1. Een dienstplichtige heeft, voorzover hij is aangewezen voor het volgen van een opleiding aan een niet-militaire opleidingsinrichting, aanspraak op vergoeding van de aan die opleiding verbonden noodzakelijke en te zijnen laste komende kosten, met dien verstande dat de vergoeding geheel of gedeeltelijk door of namens Onze Minister kan worden verleend in de vorm van rechtstreekse betaling van de verschuldigde kosten.
 
@@ -438,7 +463,7 @@ De dienstplichtige met groot verlof is verplicht om aan door Onze Minister aan t
 
 3. De vergoeding, bedoeld in de vorige leden, wordt verleend onder door Onze Minister te stellen voorwaarden.
 
-#### Artikel 43
+##### Artikel 43
 
 1. Aan de aanwijzing op verzoek voor het volgen van een opleiding als bedoeld in [artikel 39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=2&artikel=39&z=2011-10-09&g=2011-10-09), kan de verplichting worden verbonden tot gehele of gedeeltelijke terugbetaling van hetgeen aan of ten behoeve van de dienstplichtige tijdens of in verband met de opleiding is betaald indien hij wegens omstandigheden die naar het oordeel van de Minster zijn ontstaan door eigen wil of toedoen:
 
@@ -454,7 +479,7 @@ De dienstplichtige met groot verlof is verplicht om aan door Onze Minister aan t
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 44
+##### Artikel 44
 
 1. Om voor benoeming tot officier of voor bevordering in aanmerking te kunnen komen moet de dienstplichtige in werkelijke dienst, onverminderd de overige bij dit hoofdstuk gestelde eisen, bij goed gedrag, goede plichtsbetrachting en goede dienstijver, de vereiste bekwaamheid en geschiktheid bezitten, waaronder in beginsel mede wordt verstaan verplaatsbaarheid, voor de rang of de klasse die hij bij benoeming of bevordering zal verkrijgen.
 
@@ -462,13 +487,13 @@ De dienstplichtige met groot verlof is verplicht om aan door Onze Minister aan t
 
 3. Benoeming tot officier en bevordering, behoudens bevordering in klasse of buitengewone bevordering als bedoeld in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=3&paragraaf=1&artikel=50&z=2011-10-09&g=2011-10-09), vinden slechts plaats voor zover in de desbetreffende rang een vacature bestaat.
 
-#### Artikel 45
+##### Artikel 45
 
 1. De dienstplichtige in werkelijke dienst, die een opleiding volgt voor een bepaalde rang kan, in afwijking van de [artikelen 58](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=3&paragraaf=3&artikel=58&z=2011-10-09&g=2011-10-09) en [60](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=3&paragraaf=4&artikel=60&z=2011-10-09&g=2011-10-09) tijdens die opleiding op door de Regionaal Bevelhebber te bepalen tijdstippen worden bevorderd tot een klasse of tot een rang, lager dan die waarvoor hij wordt opgeleid.
 
 2. Nadat de in het vorige lid bedoelde dienstplichtige een opleiding voor een rang met gunstige uitslag heeft voltooid, wordt hij, indien hij overigens voldoet aan de in dit hoofdstuk gestelde eisen, op een door de Regionaal Bevelhebber te bepalen tijdstip bevorderd tot die rang.
 
-#### Artikel 46
+##### Artikel 46
 
 1. Voor vrijwillig nadienende of nagediend hebbende officieren en onderofficieren* bestaat een door Onze Minister aan te houden ranglijst, waarin per rang zij, die de rang definitief bekleden, worden vermeld naar orde van de datum met ingang waarvan zij die rang laatstelijk hebben verkregen.
 
@@ -482,13 +507,13 @@ De dienstplichtige met groot verlof is verplicht om aan door Onze Minister aan t
 
 - c. het tengevolge van omstandigheden buiten zijn schuld, anders dan bedoeld onder b, niet voldoen aan een of meer voor bevordering gestelde eisen, doch alleen indien het voorbijgaan voor bevordering uitsluitend aan die omstandigheden te wijten was.
 
-#### Artikel 47
+##### Artikel 47
 
 1. Bevordering geschiedt van de definitief beklede klasse of rang tot de onmiddellijk op die definitief beklede klasse of rang volgende hogere klasse, rang dan wel hogere rang.
 
 2. Dienstplichtigen in werkelijke dienst, die dezelfde rang bekleden en naar orde van dezelfde datum in de ranglijst zijn geplaatst, worden gelijktijdig voor bevordering in beschouwing genomen.
 
-#### Artikel 48
+##### Artikel 48
 
 1. In bijzondere gevallen kan de dienstplichtige in werkelijke dienst, ongeacht of hij voldoet aan alle eisen voor bevordering, tijdelijk tot een bepaalde rang worden bevorderd voor de tijd gedurende welke die dienstplichtige is geplaatst in een functie, aan de vervulling waarvan naar het oordeel van de Regionaal Bevelhebber het bekleden van die rang noodzakelijk is verbonden.
 
@@ -500,17 +525,17 @@ De dienstplichtige met groot verlof is verplicht om aan door Onze Minister aan t
 
 5. Wanneer de dienstplichtige in werkelijke dienst die een rang tijdelijk bekleedt, overlijdt, wordt hij geacht die tijdelijke rang definitief bekleed te hebben op het tijdstip van zijn overlijden.
 
-#### Artikel 49
+##### Artikel 49
 
 Aan de dienstplichtige in werkelijke dienst kan in het kader van een opleiding een titulaire rang worden verleend.
 
-#### Artikel 50
+##### Artikel 50
 
 1. De dienstplichtige in werkelijke dienst kan in afwijking van een of meer bepalingen van dit hoofdstuk buitengewoon worden bevorderd ter beloning van een schitterend wapenfeit of van een andere daad of verrichting waardoor hij zich zeer bijzonder heeft onderscheiden.
 
 2. De aanleiding tot een bevordering als bedoeld in het vorige lid wordt uitdrukkelijk vermeld in het besluit waarbij de dienstplichtige buitengewoon wordt bevorderd.
 
-#### Artikel 51
+##### Artikel 51
 
 1. De dienstplichtige, die wegens een omstandigheid als bedoeld in [artikel 46, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=3&paragraaf=1&artikel=46&z=2011-10-09&g=2011-10-09), niet heeft kunnen voldoen aan een of meer voor bevordering gestelde eisen en uitsluitend op grond daarvan voor bevordering is voorbijgegaan, wordt bevorderd met ingang van de dag waarop hij aan alle eisen voor bevordering heeft voldaan, ook al mocht op die dag in de nieuwe rang geen vacature bestaan.
 
@@ -518,7 +543,7 @@ Aan de dienstplichtige in werkelijke dienst kan in het kader van een opleiding e
 
 Het bepaalde in het vierde en vijfde lid van [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=3&paragraaf=1&artikel=48&z=2011-10-09&g=2011-10-09) is van overeenkomstige toepassing.
 
-#### Artikel 52
+##### Artikel 52
 
 1. De dienstplichtige in werkelijke dienst wordt niet bevorderd zolang hij:
 
@@ -530,13 +555,13 @@ Het bepaalde in het vierde en vijfde lid van [artikel 48](https://wetten.overhei
 
 3. De dienstplichtige in werkelijke dienst die voor bevordering is voorbijgegaan uitsluitend op grond van de omstandigheid in het eerste lid onder b bedoeld, wordt met ingang van de dag van zijn terugkeer bevorderd, ook al mocht op die dag in de nieuwe rang geen vacature bestaan.
 
-#### Artikel 53
+##### Artikel 53
 
 Wanneer een dienstplichtige in werkelijke dienst voor bevordering wordt voorbijgegaan, wordt hem dit, met vermelding van de reden, schriftelijk medegedeeld.
 
 #### § 2. Officieren
 
-#### Artikel 54
+##### Artikel 54
 
 1. Benoeming tot officier geschiedt bij koninklijk besluit.
 
@@ -546,7 +571,7 @@ Wanneer een dienstplichtige in werkelijke dienst voor bevordering wordt voorbijg
 
 4. [Vervallen]
 
-#### Artikel 55
+##### Artikel 55
 
 1. De dienstplichtige die is benoemd tot officier legt de eed of belofte af.
 
@@ -556,7 +581,7 @@ Wanneer een dienstplichtige in werkelijke dienst voor bevordering wordt voorbijg
 
 «Ik zweer (beloof) trouw aan de Koning(in), gehoorzaamheid aan de wetten en onderwerping aan de krijgstucht. Zo waarlijk helpe mij God Almachtig (Dat beloof ik)».
 
-#### Artikel 56
+##### Artikel 56
 
 1. Bevordering van officieren geschiedt bij koninklijk besluit.
 
@@ -566,7 +591,7 @@ Wanneer een dienstplichtige in werkelijke dienst voor bevordering wordt voorbijg
 
 #### § 3. Onderofficieren
 
-#### Artikel 57
+##### Artikel 57
 
 1. Bevordering tot de rang van korporaal geschiedt, met inachtneming van de bepalingen van dit hoofdstuk, door Onze Minister.
 
@@ -576,11 +601,11 @@ Wanneer een dienstplichtige in werkelijke dienst voor bevordering wordt voorbijg
 
 4. In zeer bijzondere gevallen kan een dienstplichtige in werkelijke dienst, zonder daarvoor een opleiding te hebben gevolgd tot de rang van korporaal worden bevorderd indien hij naar het oordeel van de Regionaal Bevelhebber een bijzondere geschiktheid blijkt te bezitten voor het vervullen van een functie waaraan de rang van korporaal is verbonden.
 
-#### Artikel 58
+##### Artikel 58
 
 Bevordering tot de rang van sergeant, sergeant-majoor en adjudant onderofficier geschiedt door Onze Minster.
 
-#### Artikel 59
+##### Artikel 59
 
 1. De dienstplichtige die het is vergund om op grond van [artikel 27, 3de lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=VII&artikel=27&z=2011-10-09&g=2011-10-09) tenminste 1 jaar langer in werkelijke dienst te blijven of te komen legt bij bevordering tot de rang van korporaal de eed of belofte af.
 
@@ -590,7 +615,7 @@ Bevordering tot de rang van sergeant, sergeant-majoor en adjudant onderofficier 
 
 #### § 4. Manschappen
 
-#### Artikel 60
+##### Artikel 60
 
 1. Bevordering in klasse geschiedt, met inachtneming van de bepalingen van dit hoofdstuk, door Onze Minister.
 
@@ -598,7 +623,7 @@ Bevordering tot de rang van sergeant, sergeant-majoor en adjudant onderofficier 
 
 ### Hoofdstuk 4. Administratieve maatregelen
 
-#### Artikel 61
+##### Artikel 61
 
 1. Aan de dienstplichtige in werkelijke dienst kan, indien dit naar het oordeel van de Regionaal Bevelhebber in het belang van de dienst noodzakelijk is, als maatregel van orde tijdelijk worden verboden aan zijn functie verbonden werkzaamheden of andere werkzaamheden en/of diensten te verrichten.
 
@@ -606,7 +631,7 @@ Bevordering tot de rang van sergeant, sergeant-majoor en adjudant onderofficier 
 
 3. Het in het eerste lid bedoelde verbod wordt ingetrokken, zodra het belang van de dienst zich niet langer verzet tegen het verrichten van dienst, doch uiterlijk na drie maanden, tenzij Onze Minister anders bepaalt.
 
-#### Artikel 62
+##### Artikel 62
 
 1. De dienstplichtige in werkelijke dienst beneden de rang van luitenant ter zee de 3de klasse-tweede-luitenant, dienende in een rang of klasse waartoe hij definitief is bevorderd, kan bij administratieve maatregel worden teruggesteld tot de rang of de klasse – niet zijnde van tijdelijke aard – die hij het laatst voor zijn bevordering bekleedde, indien:
 
@@ -618,25 +643,25 @@ Bevordering tot de rang van sergeant, sergeant-majoor en adjudant onderofficier 
 
 3. De terugstelling bij administratieve maatregel wordt onverwijld schriftelijk ter kennis van de dienstplichtige gebracht, onder mededeling van de reden(en) die tot de terugstelling leidden.
 
-#### Artikel 63
+##### Artikel 63
 
 1. De dienstplichtige in werkelijke dienst beneden de rang van luitenant ter zee der 3de klasse/tweede luitenant*, kan op zijn verzoek bij administratieve maatregel worden teruggesteld, maar alleen in die gevallen, waarin daarvoor naar het oordeel van degene die tot terugstellen bevoegd is, gegronde redenen aanwezig zijn en mits de belangen van de dienst zich daartegen niet verzetten.
 
 2. De dienstplichtige in werkelijke dienst die heeft verzocht om toelating tot een opleiding, wordt, indien de rang of de klasse die hij bekleedt die toelating zou beletten, in geval van aanwijzing voor die opleiding bij administratieve maatregel teruggesteld tot die rang of klasse, die daartegen geen beletsel vormt.
 
-#### Artikel 64
+##### Artikel 64
 
 1. De dienstplichtige die wordt ontheven van een opleiding, kan, indien hij tijdens en in verband met die opleiding is bevorderd, met ingang van de dag van die ontheffing bij administratieve maatregelen worden teruggesteld tot een door de Regionaal Bevelhebber te bepalen rang of klasse, niet lager dan die welke hij het laatst voor zijn plaatsing bij de opleiding definitief bekleede.
 
 2. Aan de dienstplichtige die wordt ontheven van een opleiding, kan, indien hem tijdens en in verband met die opleiding een titulaire rang is verleend, die rang met ingang van de dag van die ontheffing bij Administratieve maatregelen worden ontnomen.
 
-#### Artikel 65
+##### Artikel 65
 
 De terugstelling bij administratieve maatregel geschiedt door Onze Minister, die deze bevoegdheid kan overdragen aan de Regionaal Bevelhebber.
 
 ### Hoofdstuk 5. Werk- en rusttijden
 
-#### Artikel 66
+##### Artikel 66
 
 1. Op de dienstplichtige in werkelijke dienst is, gedurende de tijd dat hij werkelijke dienst verricht onder bevel van de Regionaal Bevelhebber, de werk- en rusttijdenregeling, vervat in het Reglement rechtstoestand dienstplichtigen (Stb. 1982, no. 280), met uitzondering van artikel 26 van dat reglement, van overeenkomstige toepassing, met dien verstande dat op de feestdagen, genoemd in de regelingen geldende voor landsdienaren, de dienstplichtige in beginsel geen werkzaamheden of diensten worden opgedragen.
 
@@ -644,13 +669,13 @@ De terugstelling bij administratieve maatregel geschiedt door Onze Minister, die
 
 ### Hoofdstuk 6. Verlof
 
-#### Artikel 67
+##### Artikel 67
 
 Op de dienstplichtige in werkelijke dienst zijn, gedurende de tijd dat hij werkelijke dienst verricht onder bevel van de Regionaal Bevelhebber, de paragrafen 1, 2, 4 en 5 van hoofdstuk 6 van het Reglement rechtstoestand dienstplichtigen van overeenkomstige toepassing.
 
 ### Hoofdstuk 7. Bezoldiging
 
-#### Artikel 68
+##### Artikel 68
 
 1. Voor de dienstplichtigen worden bij of krachtens algemene maatregel van bestuur voorschriften vastgesteld betreffende de bezoldiging en verdere inkomsten.
 
@@ -658,35 +683,35 @@ Op de dienstplichtige in werkelijke dienst zijn, gedurende de tijd dat hij werke
 
 ### Hoofdstuk 8. Inhouding, Beslag en Korting
 
-#### Artikel 69
+##### Artikel 69
 
 Op de dienstplichtige en de gewezen dienstplichtige zijn de bepalingen betreffende de inhouding, het beslag en de korting, opgenomen in de [Ambtenarenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215) van overeenkomstige toepassing.
 
 ### Hoofdstuk 9. Pensioenbepalingen
 
-#### Artikel 70
+##### Artikel 70
 
 De vrijwillig nadienende dienstplichtige wordt voor zover betreft de regeling van zijn pensioen gelijkgesteld met de overheidsdienaar in de zin van de [Pensioenwet ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028714), mits hij niet verkeert in een van de omstandigheden, bedoeld in het [eerste lid van artikel 6 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028714&artikel=6). De bepalingen van de genoemde wet zijn alsdan op hem van overeenkomstige toepassing.
 
 ### Hoofdstuk 10. Aanspraken en verplichtingen in verband met de gezondheidszorg
 
-#### Artikel 71
+##### Artikel 71
 
 1. Op de dienstplichtige in werkelijke dienst, alsmede op de niet in werkelijke dienst verblijvende dienstplichtige en de gewezen dienstplichtige, die lijden aan een ziekte of een gebrek verband houdende met de uitoefening van de dienst, zijn de regelen betreffende aanspraken en verplichtingen in verband met de gezondheidszorg gegeven bij of krachtens hoofdstuk 7 van het Reglement rechtstoestand dienstplichtigen van overeenkomstige toepassing, echter met uitzondering van het bepaalde bij of krachtens [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=5&artikel=66&z=2011-10-09&g=2011-10-09).
 
 2. De in het eerste lid bedoelde regelen zijn ook van toepassing, wanneer de dienstplichtige in werkelijke dienst zich anders dan om redenen van dienst buiten Aruba, Curaçao of Sint Maarten of buiten de openbare lichamen Bonaire, Sint Eustatius en Saba bevindt.
 
-#### Artikel 72
+##### Artikel 72
 
 Vervallen
 
 ### Hoofdstuk 11. Andere voorzieningen van materiele aard
 
-#### Artikel 73
+##### Artikel 73
 
 Hij, die ingevolge de bepalingen van deze titel aanspraak kan doen gelden op een vergoeding van of tegemoetkoming in kosten, dan wel op een uitkering, kan in door Onze Minister aan te wijzen gevallen in aanmerking komen voor een geldelijk voorschot op de vergoeding, tegemoetkoming of uitkering.
 
-#### Artikel 74
+##### Artikel 74
 
 1. Aan de dienstplichtige in werkelijke dienst voor eerste oefening wordt, onder voorwaarden door Onze Minister te stellen, van overheidswege huisvesting verleend.
 
@@ -698,7 +723,7 @@ Hij, die ingevolge de bepalingen van deze titel aanspraak kan doen gelden op een
 
 5. Onder voorwaarden door Onze Minister of daartoe door hem aan te wijzen functionarissen te stellen, kan de dienstplichtige in werkelijke dienst voor eerste oefening worden vrijgesteld van de verplichting, bedoeld in het vorige lid.
 
-#### Artikel 75
+##### Artikel 75
 
 1. Aan de dienstplichtige in werkelijke dienst voor eerste oefening wordt gedurende zijn verblijf in werkelijke dienst, onder voorwaarden door Onze Minister te stellen, van overheidswege voeding verstrekt.
 
@@ -706,7 +731,7 @@ Hij, die ingevolge de bepalingen van deze titel aanspraak kan doen gelden op een
 
 3. Onze Minister kan bepalen dat de verstrekking van huisvesting van rijkswege geschiedt in combinatie met de verstrekking van voeding van overheidswege.2
 
-#### Artikel 76
+##### Artikel 76
 
 De dienstplichtige in werkelijke dienst heeft aanspraak op vervoer van overheidswege bij reizen in zijn persoonlijk belang naar de woonplaats van zijn gezin, mits gelegen in Aruba, Curaçao of Sint Maarten of in de openbare lichamen Bonaire, Sint Eustatius en Saba, en terug:
 
@@ -720,7 +745,7 @@ De dienstplichtige in werkelijke dienst heeft aanspraak op vervoer van overheids
 
 - e. indien hij gehuwd is: wanneer naar het oordeel van Onze Minister omstandigheden in het gezin voortijdige terugkeer of overkomst noodzakelijk maken.
 
-#### Artikel 77
+##### Artikel 77
 
 1. De niet in werkelijke dienst verblijvende dienstplichtige en de gewezen dienstplichtige die:
 
@@ -732,7 +757,7 @@ hebben onder voorwaarden door de Minster te stellen aanspraak op vergoeding van 
 
 2. Indien een dienstplichtige als bedoeld in het vorige lid naar het oordeel van de functionaris bij wie hij zich moet vervoegen, niet alleen kan reizen, zijn de vorige leden van overeenkomstige toepassing op degene die hem begeleidt.
 
-#### Artikel 78
+##### Artikel 78
 
 1. De niet in werkelijke dienst verblijvende dienstplichtige en de gewezen dienstplichtige die inkomsten derven:
 
@@ -744,7 +769,7 @@ hebben aanspraak op vergoeding van gederfde netto-inkomsten over de tijd die zij
 
 2. Indien een dienstplichtige als bedoeld in het vorige lid naar het oordeel van de functionaris bij wie hij zich moet vervoegen, niet alleen kan reizen, zijn de vorige leden van overeenkomstige toepassing op degene die hem begeleidt.
 
-#### Artikel 79
+##### Artikel 79
 
 1. Indien een dienstplichtige in werkelijke dienst om redenen van dienst verblijft in Aruba, Curaçao of Sint Maarten of in de openbare lichamen Bonaire, Sint Eustatius en Saba en aldaar wordt verpleegd in een ziekeninrichting, terwijl de plaats waar hij wordt verpleegd buiten zijn woonplaats is gelegen, kan aan zijn echtgenote en kinderen of, indien hij ongehuwd is, aan zijn ouders een tegemoetkoming worden verleend in de noodzakelijk gemaakte reiskosten voor het bezoeken van de dienstplichtige indien naar het oordeel van de behandelend arts overkomst gewenst is.
 
@@ -760,19 +785,19 @@ hebben aanspraak op vergoeding van gederfde netto-inkomsten over de tijd die zij
 
 5. Onze Minister kan terzake nadere voorwaarden stellen.
 
-#### Artikel 80
+##### Artikel 80
 
 1. De dienstplichtige die voor eerste oefening in werkelijke dienst verblijft en die – ten einde zich in zijn vrije tijd voor te bereiden op de uitoefening van een beroep of bedrijf na het verlaten van de werkelijke dienst – een cursus volgt bij een instelling voor schriftelijk of mondeling onderwijs, heeft, naar voorwaarden door Onze Minister te stellen, aanspraak op een tegemoetkoming in de kosten aan lesgelden, studiemateriaal en examengelden, die aan het volgen van de cursus zijn verbonden.
 
 2. De vrijwillig nadienende dienstplichtige die voor eigen rekening een studie of opleiding volgt of heeft voltooid die naar het oordeel van de Regionaal Bevelhebber mede dan wel volledig in het belang van de dienst is, kan, volgens regels en onder voorwaarden door Onze Minister te stellen, in aanmerking komen voor een tegemoetkoming in de aan de studie of opleiding verbonden kosten.
 
-#### Artikel 81
+##### Artikel 81
 
 1. De dienstplichtige in werkelijke dienst wiens persoonlijke eigendommen door omstandigheden, verband houdende met de uitoefening van de dienst, geheel of gedeeltelijk verloren zijn gegaan of zijn beschadigd, kan deswege, in door Onze Minister aan te wijzen gevallen en naar door hem te stellen voorwaarden, aanspraak maken op een schadevergoeding, voor zover daarop niet uit anderen hoofde aanspraak bestaat. Het vorenstaande geldt eveneens ten aanzien van goederen die door derden aan de zorgen van de dienstplichtige zijn toevertrouwd.
 
 2. Bij het bepalen van het bedrag van de vergoeding wordt rekening gehouden met de mate waarin het verlies of de beschadiging mede aan de dienstplichtige zelf is te wijten, en met andere door Onze Minister aan te wijzen factoren die van invloed kunnen zijn op het bedrag van de vergoeding.
 
-#### Artikel 82
+##### Artikel 82
 
 1. De dienstplichtige in werkelijke dienst heeft met betrekking tot de uniformkleding en andere goederen, behorende tot zijn persoonlijke standaarduitrusting, aanspraak hetzij op een verstrekking van overheidswege en voor rekening van de overheid in natura, hetzij op een tegemoetkoming in de kosten van aanschaffing.
 
@@ -782,29 +807,29 @@ hebben aanspraak op vergoeding van gederfde netto-inkomsten over de tijd die zij
 
 4. De verstrekkingen in natura en die van de tegemoetkomingen, bedoeld in de vorige leden, geschieden, gedurende de tijd dat de dienstplichtige dienst verricht onder bevel van de Regionaal Bevelhebber, overeenkomstig de regelen en onder de voorwaarden, gesteld krachtens artikel 79, vierde lid, van het Reglement rechtstoestand dienstplichtigen.
 
-#### Artikel 83
+##### Artikel 83
 
 1. Indien een dienstplichtige om redenen van dienst buiten het eiland verblijft, waar hij zijn woonplaats heeft, en aldaar overlijdt, hebben zijn naaste betrekkingen, onder voorwaarden door Onze Minister te stellen, aanspraak op een vergoeding van de noodzakelijk gemaakte en te hunnen laste gekomen kosten voor het doen overbrengen van het stoffelijk overschot naar een plaats op het eiland van zijn woonplaats.
 
 2. Voor zover Onze Minister* niet anders bepaalt, is het vorige lid niet van toepassing ten aanzien van degenen die zijn overleden terwijl het Koninkrijk zich in feitelijk oorlogsomstandigheden bevond, of die zijn overleden in de tijd waarin zij waren ingedeeld bij een eenheid of onderdeel van de krijgsmacht, waaraan de bekendmaking, bedoeld in [artikel 71 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=71) (Stb. 1964, no. 9), is gedaan.
 
-#### Artikel 84
+##### Artikel 84
 
 1. Onder voorwaarden door Onze Minister te stellen, kunnen de naaste betrekkingen van een dienstplichtige die vermist is geraakt bij de uitoefening van de dienst, dan wel ten gevolge van bijzondere omstandigheden die zich bij de uitoefening van de dienst hebben voorgedaan, in aanmerking komen voor bemiddeling van Onze Minister bij het uitvoeren van een procedure tot het verkrijgen van een verklaring, dat rechtsvermoeden van overlijden van de vermiste dienstplichtige bestaat.
 
 2. De naaste betrekkingen van een dienstplichtige als bedoeld in het vorige lid hebben, indien de procedure, bedoeld in dat lid, niet kosteloos kan worden gevoerd, onder voorwaarden door Onze Minister te stellen, aanspraak op een vergoeding van de kosten die terzake voor hun rekening zijn gekomen.
 
-#### Artikel 85
+##### Artikel 85
 
 1. Op de dienstplichtige in werkelijke dienst zijn de voor ambtenaren geldende regelen terzake van vrijstelling van dienst wegens ziekte, neergelegd in het [Besluit vakantie en vrijstelling van dienst ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028606) van overeenkomstige toepassing, voor zover daarvan in deze wet niet wordt afgeweken.
 
 2. De dienstplichtige, in werkelijke dienst, die ingevolge [artikel 6, eerste lid, van de Pensioenwet ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028714&artikel=6) geen ambtenaar is, wordt voor de toepassing van de in het voorgaande lid bedoelde regeling aangemerkt als ambtenaar in tijdelijke dienst, terwijl de dienstplichtige, die overheidsdienaar in de zin van genoemde wet is, wordt aangemerkt als ambtenaar in vaste dienst.
 
-#### Artikel 85a
+##### Artikel 85a
 
 Het geneeskundig onderzoek tot het vaststellen van blijvende ongeschiktheid als bedoeld in [artikel 35, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=IX&artikel=35&z=2011-10-09&g=2011-10-09), geschiedt door de geneeskundige commissie, bedoeld in artikel 14, derde lid, onderdeel a, van de Pensioenwet ambtenaren BES, en in andere gevallen door een of meer geneeskundigen, aan te wijzen door Onze Minister. De nadere regels, bedoeld in het vierde lid van het laatstgenoemde artikel, zijn van toepassing.
 
-#### Artikel 86
+##### Artikel 86
 
 1. Onverminderd het tweede lid, zijn op de gewezen dienstplichtige, wiens dienstverband is geëindigd tijdens arbeidsongeschiktheid uit hoofde van een ziekte of gebrek, de bepalingen van [artikel 39 van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=39) van overeenkomstige toepassing, met dien verstande dat hij in zoverre als gewezen ambtenaar in de zin van die wet wordt aangemerkt.
 
@@ -812,7 +837,7 @@ Het geneeskundig onderzoek tot het vaststellen van blijvende ongeschiktheid als 
 
 3. Het [tweede lid van artikel 85](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=11&artikel=85&z=2011-10-09&g=2011-10-09) is van overeenkomstige toepassing.
 
-#### Artikel 87
+##### Artikel 87
 
 1. Zo spoedig mogelijk na het overlijden van de dienstplichtige in werkelijke dienst wordt door of namens Onze Minister een bedrag uitgekeerd gelijk aan de uitkering welke belanghebbende op de dag van zijn overlijden genoot, berekend over een tijdvak van drie maanden:
 
@@ -824,7 +849,7 @@ Het geneeskundig onderzoek tot het vaststellen van blijvende ongeschiktheid als 
 
 2. Indien de overledene geen betrekkingen als bedoeld in het vorige lid nalaat, kan Onze Minister het in dat lid bedoelde bedrag geheel of gedeeltelijk doen aanwenden ter bestrijding van de kosten van de laatste ziekte en de begrafenis of crematie.
 
-#### Artikel 88
+##### Artikel 88
 
 1. Op de dienstplichtige in werkelijke dienst zijn de voor ambtenaren geldende regelen terzake van reis- , teer- en verhuiskosten van overeenkomstige toepassing, met dien verstande dat uitsluitend de dienstplichtige die overheidsdienaar in de zin van de [Pensioenwet ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028714) is voor een verhuiskostenvergoeding in aanmerking komt.
 
@@ -838,7 +863,7 @@ Het geneeskundig onderzoek tot het vaststellen van blijvende ongeschiktheid als 
 
 ### Hoofdstuk 12. Andere rechten en verplichtingen
 
-#### Artikel 89
+##### Artikel 89
 
 1. Aan de dienstplichtige worden geen voordelen onthouden of nadelen toegebracht ter zake van het niet naleven van bepalingen, indien redelijkerwijs moet worden aangenomen dat zij hem niet bekend kunnen zijn.
 
@@ -846,37 +871,37 @@ Het geneeskundig onderzoek tot het vaststellen van blijvende ongeschiktheid als 
 
 3. De in deze titel genoemde autoriteiten zijn niet gerechtigd van een bij of krachtens deze titel getroffen regeling voor een bepaald geval ten nadele van een dienstplichtige af te wijken, tenzij de regeling in de mogelijkheid tot afwijking voorziet.
 
-#### Artikel 90
+##### Artikel 90
 
 1. De dienstplichtige die zich tijdens het verblijf in werkelijke dienst bijzonder heeft onderscheiden door optreden of gedragingen dan wel door buitengewone toewijding of bijzonder loffelijke verrichtingen, kan door de Regionaal Bevelhebber worden beloond.
 
 2. Op de dienstplichtige in werkelijke dienst zijn, gedurende de tijd dat hij werkelijke dienst verricht onder het bevel van de Regionaal Bevelhebber, de bepalingen inzake beloningen, gegeven bij of krachtens artikel 88 van het Reglement rechtstoestand dienstplichtigen, van overeenkomstige toepassing.
 
-#### Artikel 91
+##### Artikel 91
 
 De dienstplichtige in werkelijke dienst wordt, gedurende de tijd dat hij werkelijke dienst verricht onder bevel van de Regionaal Bevelhebber, beoordeeld overeenkomstig de regelen, gegeven bij of krachtens artikel 90 van het Reglement rechtstoestand dienstplichtigen voor dienstplichtigen der zeemacht in de zin van de Dienstplichtwet. (Stb. 1922, no. 43).
 
-#### Artikel 92
+##### Artikel 92
 
 Op de dienstplichtige in werkelijke dienst zijn, gedurende de tijd dat hij werkelijke dienst verricht onder bevel van de Regionaal Bevelhebber, de bepalingen inzake kleding, gegeven bij of krachtens artikel 91 van het Reglement rechtstoestand dienstplichtigen, met uitzondering van artikel 91, vierde lid onder f, van overeenkomstige toepassing.
 
-#### Artikel 93
+##### Artikel 93
 
 1. Aan de dienstplichtige wordt bij het verlaten van de werkelijke dienst op zijn verzoek door de Regionaal Bevelhebber een getuigschrift uitgereikt.
 
 2. Het getuigschrift, bedoeld in het vorige lid, vermeldt de duur van de dienstverhouding en de aard van de verrichtte werkzaamheden, alsmede, doch alleen op verzoek van de dienstplichtige, de wijze waarop hij die werkzaamheden heeft verricht.
 
-#### Artikel 94
+##### Artikel 94
 
 1. In het belang van de dienst kan de dienstplichtige in werkelijke dienst door de Regionaal Bevelhebber worden ingedeeld in een andere functie en – met inachtneming van het daaromtrent in deze wet bepaalde – worden verplaatst.
 
 2. Een indeling in een andere functie en een verplaatsing als bedoeld in het vorige lid kan eveneens plaatsvinden op verzoek van de dienstplichtige.
 
-#### Artikel 95
+##### Artikel 95
 
 De dienstplichtige in werkelijke dienst is verplicht de hem opgedragen werkzaamheden en/of diensten naar beste vermogen te vervullen, en de uit dien hoofde voor hem geldende voorschriften en orders te kennen.
 
-#### Artikel 95a
+##### Artikel 95a
 
 1. De dienstplichtige onthoudt zich van de uitoefening van de vrijheid van meningsuiting en het recht van vereniging en vergadering, indien door de uitoefening van deze rechten de goede vervulling van zijn functie of de goede functionering van de openbare dienst, voor zover deze verband houdt met zijn functievervulling, niet in redelijkheid zou zijn verzekerd.
 
@@ -886,53 +911,53 @@ De dienstplichtige in werkelijke dienst is verplicht de hem opgedragen werkzaamh
 
 - b. een vakvereniging.
 
-#### Artikel 95b
+##### Artikel 95b
 
 De dienstplichtige is niet gehouden tot dienstverrichting op voor hem op grond van zijn godsdienst of levensovertuiging geldende feest- en rustdagen tenzij het dienstbelang dit onvermijdelijk maakt.
 
-#### Artikel 95c
+##### Artikel 95c
 
 1. Aan de dienstplichtige wordt buitengewoon verlof verleend voor het bijwonen van vergaderingen of zittingen van een publiekrechtelijk college, waarin deze is benoemd of gekozen, alsmede voor het verrichten van daar uit voortvloeiende werkzaamheden ten behoeve van dit college tenzij de belangen van de dienst vorderen dat zulks niet geschiedt. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld betreffende het doorbetalen van de bezoldiging.
 
 2. Aan de dienstplichtige wordt buitengewoon verlof verleend voor aan te wijzen activiteiten van of voor een vakvereniging van militairen overeenkomstig bij of krachtens algemene maatregel van bestuur te stellen regels tenzij de belangen van de dienst vorderen dat een dergelijk verlof niet wordt verleend.
 
-#### Artikel 95d
+##### Artikel 95d
 
 1. De dienstplichtige is verplicht zich tijdens het verblijf in een gebouw, luchtvaartuig of voertuig alsmede op een vaartuig of terrein dat in gebruik is bij of ten behoeve van de krijgsmacht of dat de dienstplichtige tot verblijf of gebruik dient bij de vervulling van de dienst, te onderwerpen aan een in het belang van de dienst door de commandant gelast onderzoek aan zijn lichaam of kleding of van zijn aldaar aanwezige goederen.
 
 2. De commandant op wiens last het in het eerste lid bedoelde onderzoek plaats heeft, neemt de nodige maatregelen ten einde daarbij een onredelijke of onbehoorlijke bejegening te voorkomen.
 
-#### Artikel 96
+##### Artikel 96
 
 Naar regelen door de Regionaal Bevelhebber te stellen kan de dienstplichtige in werkelijke dienst worden verplicht tot sportbeoefening in dienstverband.
 
-#### Artikel 97
+##### Artikel 97
 
 De dienstplichtige in werkelijke dienst kan, naar regelen door Onze Minister te stellen, worden verplicht zodanige maatregelen te treffen, dat hij aan per radio, televisie of op andere wijze gedane oproepingen om zich te melden onverwijld gevolg kan geven.
 
-#### Artikel 98
+##### Artikel 98
 
 1. De dienstplichtige in werkelijke dienst kan worden verplicht, wanneer naar het oordeel van Onze Minister het algemeen belang dit vordert, tijdelijk andere werkzaamheden te verrichten dan die welke uit de militaire hoedanigheid voortvloeien.
 
 2. Hij kan echter niet worden verplicht werkzaamheden te verrichten in plaats van stakers of uitgeslotenen, tenzij het werkzaamheden betreft die naar het oordeel van Onze Minister geen uitstel gedogen.
 
-#### Artikel 99
+##### Artikel 99
 
 De dienstplichtige in werkelijke dienst kan voor het verrichten van werkzaamheden en/of diensten worden gesteld onder een functionaris die niet behoort tot het militaire personeel van de krijgsmacht.
 
-#### Artikel 100
+##### Artikel 100
 
 De dienstplichtige is verplicht tot geheimhouding van enig gegeven, de dienst betreffende tegenover een ieder die tot kennisneming daarvan niet bevoegd is, voorzover die verplichting uit de aard der zaak volgt of hem uitdrukkelijk is opgelegd.
 
-#### Artikel 101
+##### Artikel 101
 
 Op de dienstplichtige in werkelijke dienst zijn, gedurende de tijd dat hij werkelijke dienst verricht onder bevel van de Regionaal Bevelhebber, de bepalingen inzake schadevergoeding, gegeven bij of krachtens artikel 101 van het Reglement rechtstoestand dienstplichtigen, van overeenkomstige toepassing.
 
-#### Artikel 102
+##### Artikel 102
 
 De dienstplichtige die uit hoofde van zijn functie is belast met het beheer over of de bewaring van aan het Rijk toebehorende of toevertrouwde gelden of geldswaarde papieren kan, bij constatering van een tekort, worden verplicht dat tekort geheel of gedeeltelijk aan te zuiveren, indien en voor zover hij niet aannemelijk maakt dat het ontstaan van dat tekort hem redelijkerwijs niet kan worden verweten.
 
-#### Artikel 103
+##### Artikel 103
 
 1. Van elk ongeval dat aan een dienstplichtige in werkelijke dienst tijdens de uitoefening van de dienst is overkomen, wordt zo spoedig mogelijk een proces-verbaal opgemaakt. De dienstplichtige is verplicht, zodra hij daartoe redelijkerwijs in staat is, kennis te geven van een hem overkomen ongeval als vorenbedoeld aan zijn commandant.
 
@@ -942,7 +967,7 @@ Een proces-verbaal als in dit lid bedoeld kan ook ambtshalve worden opgemaakt.
 
 3. Onze Minister beslist of het ongeval waarop een proces-verbaal betrekking heeft, wordt geacht wel of niet in verband te staan met de uitoefening van de dienst, van welke beslissing de dienstplichtige schriftelijk in kennis wordt gesteld.
 
-#### Artikel 104
+##### Artikel 104
 
 1. Onverminderd [artikelen 103, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=12&artikel=103&z=2011-10-09&g=2011-10-09), is de dienstplichtige in werkelijke dienst verplicht Onze Minister onverwijld kennis te geven van elk ongeval dat hem is overkomen, indien:
 
@@ -956,29 +981,29 @@ Een proces-verbaal als in dit lid bedoeld kan ook ambtshalve worden opgemaakt.
 
 - b. ten gevolge van dat ongeval geneeskundige verstrekkingen zijn of zullen worden verleend op grond van deze wet.
 
-#### Artikel 105
+##### Artikel 105
 
 De dienstplichtige in werkelijke dienst die – anders dan als gevolg van verhindering wegens ziekte – niet in staat is zich te begeven naar de plaats, waar de dienst zijn aanwezigheid vereist, is verplicht daarvan onverwijld kennis te geven aan zijn commandant of andere functionaris onder wie hij is gesteld of bij wie hij zich zou moeten melden.
 
-#### Artikel 106
+##### Artikel 106
 
 1. Het is de dienstplichtige verboden ter zake van aangelegenheden, de dienst betreffende, anders dan met goedvinding van Onze Minister, vergoedingen, beloningen, giften of beloften van derden te vorderen, te verzoeken of aan te nemen.
 
 2. Het aannemen van steekpenningen is onvoorwaardelijk verboden.
 
-#### Artikel 107
+##### Artikel 107
 
 Het is de dienstplichtige in werkelijke dienst verboden bij een eenheid of onderdeel van de krijgsmacht handel te drijven, tenzij hem van dat verbod ontheffing is verleend door Onze Minister of door daartoe door deze aangewezen functionarissen.
 
 ### Hoofdstuk 13. Georganiseerd overleg
 
-#### Artikel 108
+##### Artikel 108
 
 1. Er is een commissie voor georganiseerd overleg voor bij deze titel te regelen aangelegenheden van algemeen belang voor de rechtstoestand van dienstplichtigen.
 
 2. De commissie behandelt de in het eerste lid bedoelde aangelegenheden, in bespreking met de door Onze Minister daartoe aangewezen vertegenwoordigers, alvorens tot vaststelling dan wel wijziging van de desbetreffende regeling wordt besloten.
 
-#### Artikel 109
+##### Artikel 109
 
 1. De commissie bestaat uit door rechtspersoonlijkheid bezittende verenigingen van militairen aangewezen leden en plaatsvervangende leden die gelet op hun ledental en de samenstelling daarvan representatief zijn voor de officieren, de onderofficieren en/of de manschappen.
 
@@ -990,27 +1015,27 @@ Het is de dienstplichtige in werkelijke dienst verboden bij een eenheid of onder
 
 5. Bij de behandeling van bepaalde aangelegenheden kunnen op uitnodiging of met toestemming van de voorzitter ook anderen aan de bespreking deelnemen.
 
-#### Artikel 110
+##### Artikel 110
 
 1. De verenigingen van militairen welke van de bevoegdheid tot aanwijzing hebben gebruik gemaakt, doen aan Onze Minister mededeling van de door haar aangewezen leden/plaatsvervangende leden.
 
 2. De verenigingen van militairen geven bij de aanvang van ieder kalenderjaar Onze Minister kennis van het aantal harer leden, behorende tot de dienstplichtigen in de zin van deze titel.
 
-#### Artikel 111
+##### Artikel 111
 
 1. De commissie behandelt haar aangelegenheden onmiddellijk nadat deze – voldoende tijdig – haar zijn toegezonden. Onze Minister wijst voor de behandeling van elke aangelegenheid de ambtenaren aan, die Onze Minister hierbij zullen vertegenwoordigen en brengt dit ter kennis van de voorzitter, die in overleg met deze ambtenaren de vergadering van de commissie belegt.
 
 2. Onverminderd het bepaalde in [artikel 108, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=13&artikel=108&z=2011-10-09&g=2011-10-09), kan op verzoek van de in dat artikel bedoelde vertegenwoordigers de commissie in voorlopige besprekingen met hen treden of aan hen inlichtingen verschaffen.
 
-#### Artikel 112
+##### Artikel 112
 
 De commissie is gerechtigd Onze Minister voorstellen te doen van onderwerpen van bespreking in de zin van dit hoofdstuk, welke voorstellen op de voet van het bepaalde in [artikel 108](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=13&artikel=108&z=2011-10-09&g=2011-10-09) aan de commissie kunnen worden voorgelegd.
 
-#### Artikel 113
+##### Artikel 113
 
 Behoudens het bepaalde in [artikel 111, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=13&artikel=111&z=2011-10-09&g=2011-10-09) vergadert de commissie op plaats, dag en uur, door de voorzitter te bepalen.
 
-#### Artikel 114
+##### Artikel 114
 
 1. In overleg met de in [artikel 109, tweede lid of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=13&artikel=109&z=2011-10-09&g=2011-10-09), bedoelde autoriteiten kan de commissie een reglement van orde vaststellen.
 
@@ -1026,7 +1051,7 @@ Behoudens het bepaalde in [artikel 111, tweede lid](https://wetten.overheid.nl/j
 
 7. Indien wordt afgeweken van het advies der commissie, worden de redenen van deze afwijking door Onze Minister ter kennis van de commissie gebracht.
 
-#### Artikel 115
+##### Artikel 115
 
 De voorzitter doet de secretaris bovendien een verslag opmaken, behelzende ene beknopte samenvatting van het in de vergadering verhandelde. Met wederzijds goedvinden kunnen deze verslagen telkens worden openbaar gemaakt.
 
@@ -1034,7 +1059,7 @@ De voorzitter doet de secretaris bovendien een verslag opmaken, behelzende ene b
 
 #### § 1. Beroep
 
-#### Artikel 116
+##### Artikel 116
 
 1. De dienstplichtige die rechtstreeks in zijn belang is getroffen door een beslissing gegeven krachtens deze titel of krachtens enig voorschrift, berustend op deze titel, kan zijn bezwaren tegen die beslissing, voor zover zij niet zijn gericht tegen een algemeen verbindend voorschrift, onder vermelding van de gronden waarop zijn bezwaren berusten, schriftelijk ter kennis brengen van:
 
@@ -1062,11 +1087,11 @@ De voorzitter doet de secretaris bovendien een verslag opmaken, behelzende ene b
 
 #### § 2. Beklag
 
-#### Artikel 116a
+##### Artikel 116a
 
 Tegen een besluit als bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=IX&artikel=35&z=2011-10-09&g=2011-10-09), kan door de vrijwillig nadienende dienstplichtige beroep worden ingesteld bij het Gerecht in Ambtenarenzaken. De Regeling ambtenarenrechtspraak 1951 (P.B. 1951, 134) is van toepassing.
 
-#### Artikel 116b
+##### Artikel 116b
 
 Voor de toepassing van het in deze paragraaf bepaalde wordt verstaan onder:
 
@@ -1078,7 +1103,7 @@ Voor de toepassing van het in deze paragraaf bepaalde wordt verstaan onder:
 
 - d. **vertrouwensman:** de vertrouwensman als bedoeld in [artikel 57 van de Wet militair tuchtrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&artikel=57).
 
-#### Artikel 116c
+##### Artikel 116c
 
 1. De dienstplichtige die zich bezwaard voelt over een van een militaire meerdere als bedoeld in [artikel 67 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=67) ontvangen bevel, dan wel vermeend van een zodanig militaire meerdere een krenkende of onbillijke behandeling te hebben ondervonden kan zich door middel van een met redenen omkleed klaagschrift beklagen bij de beklagmeerdere.
 
@@ -1086,7 +1111,7 @@ Voor de toepassing van het in deze paragraaf bepaalde wordt verstaan onder:
 
 3. Een na afloop van de in het tweede lid genoemde termijn ingediend klaagschrift wordt geacht tijdig te zijn ingediend indien de klager aantoont dat hij het klaagschrift heeft ingediend zo spoedig als redelijkerwijs verlangd kon worden.
 
-#### Artikel 116d
+##### Artikel 116d
 
 1. De beklagmeerdere houdt naar aanleiding van het klaagschrift een onderzoek. Het onderzoek is niet openbaar.
 
@@ -1104,7 +1129,7 @@ Voor de toepassing van het in deze paragraaf bepaalde wordt verstaan onder:
 
 8. De klager en zijn vertrouwensman hebben het recht op inzage van alle stukken die op de zaak betrekking hebben.
 
-#### Artikel 116e
+##### Artikel 116e
 
 1. Op het klaagschrift moet binnen een termijn van zes weken na ontvangst schriftelijk worden beslist. Deze beslissing kan voor ten hoogste vier weken worden verdaagd. Van de verdaging wordt schriftelijk mededeling gedaan aan de klager. De termijn bedraagt twaalf weken indien de klager dan wel de militaire meerdere tegen wie het klaagschrift is gericht dan wel getuigen zich om redenen van dienst buiten Aruba, Curaçao of Sint Maarten of buiten de openbare lichamen Bonaire, Sint Eustatius en Saba bevinden. De klager en de militaire meerdere tegen wie het klaagschrift is gericht, worden schriftelijk in kennis gesteld van de beslissing.
 
@@ -1112,7 +1137,7 @@ Voor de toepassing van het in deze paragraaf bepaalde wordt verstaan onder:
 
 3. De beklagmeerdere zendt zijn beslissing vergezeld van het verslag van het onderzoek langs de hiërarchieke weg aan Onze Minister.
 
-#### Artikel 116f
+##### Artikel 116f
 
 Beklag is niet mogelijk tegen een op beklag genomen beslissing alsmede niet tegen beslissingen ingevolge de bij of krachtens de [Wet militair tuchtrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0004788) gegeven regels.
 
@@ -1120,69 +1145,69 @@ Beklag is niet mogelijk tegen een op beklag genomen beslissing alsmede niet tege
 
 #### § 1. Overbruggingsuitkering na ontslag
 
-#### Artikel 117
+##### Artikel 117
 
 De op het tijdstip van inwerkingtreding van de landsverordening waarbij [titel II](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&z=2011-10-09&g=2011-10-09) is ingevoerd, vrijwillig nadienende dienstplichtige, aan wie op dat tijdstip of daarna op grond van [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=IX&artikel=35&z=2011-10-09&g=2011-10-09) ontslag uit de dienst is verleend, heeft met ingang van de dag waarop dit ontslag ingaat recht op een maandelijkse overbruggingsuitkering, bij of krachtens de algemene maatregel van bestuur, bedoeld in [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=7&artikel=68&z=2011-10-09&g=2011-10-09), te regelen.
 
-#### Artikel 118
+##### Artikel 118
 
 De termijn gedurende welke een uitkering op grond van het [vorig artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=15&paragraaf=1&artikel=117&z=2011-10-09&g=2011-10-09) wordt toegekend bedraagt maximaal 120 maanden.
 
-#### Artikel 119
+##### Artikel 119
 
 Het bedrag van de uitkering is gedurende 12 maanden gelijk aan 90% van de laatstgenoten bezoldiging, gedurende de daaropvolgende 12 maanden gelijk aan 80% van die bezoldiging, gedurende de daaropvolgende 36 maanden gelijk aan 70% en vervolgens gelijk aan 60% van die bezoldiging.
 
-#### Artikel 120
+##### Artikel 120
 
 1. Met betrekking tot deze uitkering wordt onder laatstgenoten bezoldiging verstaan de bezoldiging waarop recht bestond op de dag voorafgaande aan het ontslag.
 
 2. Van de datum af, waarop, indien de ontslagen dienstplichtige in dezelfde rang of klasse in dienst was gebleven, de laatstgenoten bezoldiging anders dan ten gevolge van wijziging in de voor bezoldiging geldende diensttijd een ander bedrag zou hebben belopen, treedt dat andere bedrag in de plaats van de laatstgenoten bezoldiging.
 
-#### Artikel 121
+##### Artikel 121
 
 Wanneer de belanghebbende op de dag voorafgaande aan het ontslag in het genot is van een suppletie op zijn bezoldiging wordt voor de toepassing van deze overbruggingsuitkering, de laatstgenoten bezoldiging verhoogd met de suppletie, als bedoeld in [artikel 130](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=15&paragraaf=3&artikel=130&z=2011-10-09&g=2011-10-09) met dien verstande dat het bedrag van de uitkering omvat gedurende de eerste 12 maanden 90% van de suppletie, gedurende de daarop volgende 12 maanden 80% van die suppletie en gedurende de daarop volgende 36 maanden 70% van die suppletie.
 
-#### Artikel 122
+##### Artikel 122
 
 1. De inkomsten die de belanghebbende gaat genieten uit of in verband met arbeid of bedrijf worden met de uitkering verrekend over de maand waarop bedoelde inkomsten betrekking hebben of geacht kunnen worden betrekking te hebben. Deze verrekening geschiedt aldus dat de uitkering wordt verminderd met het bedrag waarmee de uitkering, vermeerderd met die inkomsten, het bedrag van de laatstgenoten bezoldiging vermeerderd met eventuele suppletie, overschrijdt.
 
 2. De belanghebbende is verplicht van het ter hand nemen van enige arbeid of bedrijf terstond mededeling te doen, onder opgave, voor zover mogelijk, van de inkomsten die hij uit die werkzaamheden zal genieten.
 
-#### Artikel 123
+##### Artikel 123
 
 Indien de belanghebbende tijdens de duur van de uitkering overlijdt eindigt de uitkering met ingang van de dag volgende op die van het overlijden.
 
-#### Artikel 124
+##### Artikel 124
 
 1. De belanghebbende heeft gedurende de tijd waarover hem een overbruggingsuitkering betaalbaar wordt gesteld, aanspraak op kindertoelage en vakantieuitkering op de voet van de regelingen, welke voor hem zouden gelden indien hij nog in werkelijke dienst zou zijn.
 
 2. Voor de berekening van de grootte van de kindertoelage en de vakantieuitkering geldt de laatstgenoten bezoldiging als genoemd in [artikel 120](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=15&paragraaf=1&artikel=120&z=2011-10-09&g=2011-10-09).
 
-#### Artikel 125
+##### Artikel 125
 
 Vervallen
 
-#### Artikel 126
+##### Artikel 126
 
 Zo spoedig mogelijk na het overlijden van de belanghebbende, aan wie ten tijde van het overlijden een overbruggingsuitkering betaalbaar is gesteld, wordt overeenkomstig het bepaalde in [artikel 87](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=11&artikel=87&z=2011-10-09&g=2011-10-09), een bedrag uitbetaald gelijk aan bedoelde betaalbaar gestelde uitkering vermeerderd met kindertoelage en vakantieuitkering als bedoeld in [artikel 124](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=15&paragraaf=1&artikel=124&z=2011-10-09&g=2011-10-09), over een tijdvak van drie maanden.
 
-#### Artikel 127
+##### Artikel 127
 
 De in deze paragraaf bedoelde uitkering wordt gelijkgesteld met wachtgeld in de zin van artikel 4 van de Wachtgeldenregeling overheidsdienaren (P.B.1986,83)
 
 #### § 2. Pensioenbepalingen
 
-#### Artikel 128
+##### Artikel 128
 
 Voor de vrijwillig nadienende dienstplichtige, die op de dag voorafgaand aan die waarop de Pensioenlandsverordening overheidsdienaren in werking treedt ambtenaar in de zin van de Pensioenverordening Burgerlijke Landsdienaren 1938 (P.B. 1976, 45) was, wordt de tijd welke hij vanaf de datum van opkomst in werkelijke dienst voor eerste oefening heeft doorgebracht als diensttijd, bedoeld in artikel 17 van de Pensioenlandsverordening overheidsdienaren, mede in aanmerking genomen.
 
-#### Artikel 129
+##### Artikel 129
 
 [vervallen]
 
 #### § 3. Bezoldiging en verdere inkomsten
 
-#### Artikel 130
+##### Artikel 130
 
 1. Aan de vrijwillig nadienende dienstplichtige, die op het tijdstip van inwerkingtreding van de landsverordening waarbij [titel II](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&z=2011-10-09&g=2011-10-09) is ingevoegd, in werkelijke dienst is, zal gedurende de tijd, dat door hem onafgebroken werkelijke dienst wordt verricht, ingeval en voorzover zijn netto Nederlandse militaire inkomsten op de dag, voorafgaande aan dat tijdstip van inwerkingtreding meer bedragen dan de netto bezoldiging, die hij krachtens de voor hem geldende bezoldigingsregeling geniet, het verschil tussen de eerst- en laatstbedoelde inkomsten worden aangevuld, echter met dien verstande, dat bij de toepassing van dit artikellid de eerstbedoelde inkomsten de algemene salarismaatregelen volgen, die voor het Nederlands rijksoverheidspersoneel worden getroffen.
 
@@ -1190,19 +1215,19 @@ Voor de vrijwillig nadienende dienstplichtige, die op de dag voorafgaand aan die
 
 3. De vrijwillig nadienende dienstplichtige, die op het tijdstip van inwerkingtreding van de landsverordening waarbij [titel II](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&z=2011-10-09&g=2011-10-09) in deze landsverordening is ingevoegd, in werkelijke dienst is, behoudt de aanspraak op de vakantie-uitkering, die voor hem bestond op de dag, voorafgaande aan dat tijdstip van inwerkingtreding, indien en voorzover hij geen vakantie-uitkering uit hoofde van hetgeen is bepaald in [artikel 68, tweede lid van titel II](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=7&artikel=68&z=2011-10-09&g=2011-10-09) van deze landsverordening geniet, doch uiterlijk tot het tijdstip van zijn ontslag als dienstplichtige.
 
-#### Artikel 131
+##### Artikel 131
 
 De dienstplichtige die op het tijdstip van inwerkingtreding van de landsverordening waarbij [titel II](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&z=2011-10-09&g=2011-10-09) in deze landsverordening is ingevoegd, in werkelijke dienst is, blijft gedurende de tijd dat hij als zodanig werkelijke dienst verricht, aanspraak houden op de bezoldiging waarop hij aanspraak had op de dag voorafgaande aan dat tijdstip van inwerkingtreding.
 
 ## Titel III. Straf- en Slotbepalingen
 
-#### Artikel 132
+##### Artikel 132
 
 1. Met hechtenis van ten hoogste veertien dagen of geldboete van ten hoogste honderdvijftig gulden wordt gestraft, hij die niet voldoet aan een ingevolge [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=I&artikel=5&z=2011-10-09&g=2011-10-09), [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=II&artikel=9&z=2011-10-09&g=2011-10-09), [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=III&artikel=11&z=2011-10-09&g=2011-10-09) en [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=VIII&artikel=33&z=2011-10-09&g=2011-10-09) op hem rustende verplichting.
 
 2. Met gevangenisstraf van ten hoogste twee maanden of geldboete van ten hoogste zeshonderd gulden wordt gestraft hij, die opzettelijk een der in het eerste lid bedoelde feiten pleegt.
 
-#### Artikel 133
+##### Artikel 133
 
 1. Met hechtenis van ten hoogste een maand of geldboete van ten hoogste driehonderd gulden wordt gestraft:
 
@@ -1212,14 +1237,14 @@ De dienstplichtige die op het tijdstip van inwerkingtreding van de landsverorden
 
 2. Met gevangenisstraf van ten hoogste twee maanden of geldboete van ten hoogste drieduizend gulden wordt gestraft hij, die opzettelijk een der in het eerste lid bedoelde feiten pleegt.
 
-#### Artikel 134
+##### Artikel 134
 
 De feiten bij deze wet strafbaar gesteld, worden als overtreding aangemerkt met uitzondering van die strafbaar gesteld bij de [artikelen 132, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=III&artikel=132&z=2011-10-09&g=2011-10-09), en [133, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=III&artikel=133&z=2011-10-09&g=2011-10-09), die als misdrijven worden aangemerkt.
 
-#### Artikel 134a
+##### Artikel 134a
 
 Met de opsporing van de in deze wet strafbare gestelde feiten zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), belast de militairen van de Koninklijke marechaussee. Zij hebben toegang tot elke plaats, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is.
 
-#### Artikel 135
+##### Artikel 135
 
 Deze wet wordt aangehaald als: Dienstplichtwet BES.

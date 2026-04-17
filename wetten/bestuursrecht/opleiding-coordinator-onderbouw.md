@@ -1,13 +1,36 @@
 ---
 title: "Opleiding coördinator onderbouw"
 identifier: "BWBR0011425"
-categorie: "Bestuursrecht"
-publicatiedatum: 2000-06-28
-laatste_update: 2000-06-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011425"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2000-06-28"
+last_updated: "2000-06-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011425"
+soort: "beleidsregel"
+stam_id: "6479813"
+version_id: "11158712"
+internal_id: "C15080031"
+label_id: "6468514"
+original_entry_into_force: "2000-06-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011425/2000-06-28/0"
+intitule_bron: "Uitleg.2000-18"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-06-19"
+intitule_published: "2000-06-28"
+intitule_in_force: "2000-06-28"
+intitule_status: "goed"
+original_publication: "Uitleg.2000-18"
+original_signed_date: "2000-06-19"
+original_published_date: "2000-06-28"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2000-06-28"
+jci_1_3: "jci1.3:c:BWBR0011425&z=2000-06-28&g=2000-06-28"
+jci_1_0: "1.0:c:BWBR0011425&g=2000-06-28"
+citeertitel_status: "redactioneel"
+signed_date: "2000-06-19"
+entry_into_force: "2000-06-28"
 ---
-
 # Opleiding coördinator onderbouw
 
 ### Inleiding

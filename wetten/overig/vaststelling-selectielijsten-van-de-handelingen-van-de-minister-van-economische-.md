@@ -1,13 +1,37 @@
 ---
 title: "Vaststelling selectielijsten van de handelingen van de Minister van Economische Zaken (beleidsterrein staatsdeelnemingen en financiering bedrijfsleven)"
 identifier: "BWBR0011652"
-categorie: "Overig"
-publicatiedatum: 2000-10-28
-laatste_update: 2000-10-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011652"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2000-10-28"
+last_updated: "2000-10-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011652"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "4605173"
+version_id: "6421392"
+internal_id: "C25308801"
+label_id: "4583464"
+dtd_version: "2.0"
+original_entry_into_force: "2000-10-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011652/2000-10-28/0"
+intitule_bron: "Stcrt.2000-208"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-09-20"
+intitule_published: "2000-10-26"
+intitule_in_force: "2000-10-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2000-208"
+original_signed_date: "2000-09-20"
+original_published_date: "2000-10-26"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2000-10-28"
+jci_1_3: "jci1.3:c:BWBR0011652&z=2000-10-28&g=2000-10-28"
+jci_1_0: "1.0:c:BWBR0011652&g=2000-10-28"
+citeertitel_status: "officieel"
+signed_date: "2000-09-20"
+entry_into_force: "2000-10-28"
 ---
-
 # Vaststelling selectielijsten van de handelingen van de Minister van Economische Zaken (beleidsterrein staatsdeelnemingen en financiering bedrijfsleven)
 
 Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
@@ -16,11 +40,11 @@ De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 29 oktober 199
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde 'selectielijst voor de neerslag van de handelingen van de Minister van Economische Zaken en de onder hem ressorterende actoren op het beleidsterrein staatsdeelnemingen en financiering van het bedrijfsleven over de periode 1945-1995' en de daarbij behorende toelichting worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 
@@ -36,7 +60,7 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 Het PIVOT-rapport Staatsdeelnemingen vormt de basis voor het voorliggende Basis Selectie Document (BSD). Het BSD bevat de resultaten van het selectieproces. De handelingen die in dit BSD zijn opgenomen werden door de verschillende actoren verricht in de periode 1945-1995.
 
-#### 1.1. Taken van de rijksoverheid betreffende het beleidsinstrument
+##### 1.1. Taken van de rijksoverheid betreffende het beleidsinstrument
 
 Een nadere uitwerking van de taken is opgenomen in de inleiding van Staatsdeelneming en financiering van het bedrijfsleven. Een institutioneel onderzoek naar de handelingen en taken van de Rijksoverheid op het beleidsinstrument staatsdeelnemingen en financiering van het bedrijfsleven, 1940 - 1995 [samenstelling drs. G. Beks en drs. A.G. de Vries] (Den Haag 1996) PIVOT-rapport nr. 57.
 
@@ -66,13 +90,13 @@ De taken van het ministerie van Financiën betreffende het beleidsinstrument fin
 
 - 7. het beheren van deelnemingen en de advisering terzake van commissariaten, welke bij Economische Zaken zijn ondergebracht.
 
-#### 1.2. Uitgangspunten bij de selectie
+##### 1.2. Uitgangspunten bij de selectie
 
 Het BSD is opgesteld tegen de achtergrond van de selectiedoelstelling van de RAD/PIVOT, zoals die door de Minister van WVC bij de behandeling van het ontwerp van de Archiefwet 1995 in de Tweede Kamer op 13 april 1994 is verwoord. De selectiedoelstelling luidt: het mogelijk maken van een reconstructie van de hoofdlijnen van het handelen van de overheid. Door het Convent van Rijksarchivarissen is de selectiedoelstelling vertaald in de richting van de (bewaar)doelstelling van de RAD als 'het selecteren van handelingen van de overheid om bronnen voor de kennis van de Nederlandse samenleving en cultuur veilig te stellen voor blijvende bewaring'.
 
 De algemene selectiedoelstelling is geoperationaliseerd voor het terrein van het adelsbeleid, adelsrecht en het decoratiestelsel. Dat wil zeggen dat de geformuleerde handelingen van de betrokken overheidsactoren zijn gewaardeerd op de bijdrage die zij leveren aan de verwezenlijking van de selectiedoelstelling. De selectie gold derhalve de vraag ten aanzien van welke handelingen de administratieve neerslag noodzakelijk zou zijn om een reconstructie mogelijk te maken van de hoofdlijnen van het handelen op het beleidsterrein staatsdeelneming en financiering van het bedrijfsleven.
 
-#### 1.3. Selectiecriteria
+##### 1.3. Selectiecriteria
 
 Door PIVOT zijn selectiecriteria opgesteld welke het mogelijk maken de in het rapport institutioneel onderzoek verwoorde handelingen te wegen en zo de doelstelling van de selectie te realiseren. Deze criteria zijn zodanig geformuleerd zodat deze voor meerdere beleidsterreinen toepasbaar zijn. De door PIVOT ontwikkelde criteria zijn in het navolgende opgenomen.
 

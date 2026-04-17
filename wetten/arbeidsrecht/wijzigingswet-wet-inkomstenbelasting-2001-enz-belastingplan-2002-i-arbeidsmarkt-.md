@@ -1,14 +1,42 @@
 ---
-title: "Wijzigingswet Wet inkomstenbelasting 2001, enz. (Belastingplan 2002 I - Arbeidsmarkt en inkomensbeleid)"
+title: "Wet van 14 december 2001 tot wijziging van belastingwetten c.a. (Belastingplan 2002 I – Arbeidsmarkt en inkomensbeleid)"
 identifier: "BWBR0013186"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2003-01-01
-laatste_update: 2003-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013186"
+country: "nl"
+rank: "wet"
+publication_date: "2003-01-01"
+last_updated: "2003-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013186"
+soort: "wet"
+stam_id: "1653193"
+version_id: "2440452"
+internal_id: "C2440451"
+label_id: "1606224"
+dtd_version: "2.0"
+original_entry_into_force: "2002-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013186/2003-01-01/0"
+intitule_bron: "Stb.2001-640"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-12-14"
+intitule_published: "2001-12-21"
+intitule_in_force: "2001-12-21"
+intitule_status: "goed"
+original_publication: "Stb.2001-640"
+original_signed_date: "2001-12-14"
+original_published_date: "2001-12-21"
+original_effect: "nieuwe-regeling"
+original_dossier: "28013"
+original_url_id: "stb-2001-640"
+entry_into_force_date: "2002-01-01"
+entry_into_force_dossier: "28013"
+jci_1_3: "jci1.3:c:BWBR0013186&z=2003-01-01&g=2003-01-01"
+jci_1_0: "1.0:c:BWBR0013186&g=2003-01-01"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet Wet inkomstenbelasting 2001, enz. (Belastingplan 2002 I - Arbeidsmarkt en inkomensbeleid)"
+signed_date: "2001-12-14"
+entry_into_force: "2002-01-01"
 ---
-
-# Wijzigingswet Wet inkomstenbelasting 2001, enz. (Belastingplan 2002 I - Arbeidsmarkt en inkomensbeleid)
+# Wet van 14 december 2001 tot wijziging van belastingwetten c.a. (Belastingplan 2002 I – Arbeidsmarkt en inkomensbeleid)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -20,55 +48,55 @@ Artikelen I, onderdeel Ca, III, onderdeel Ga en VA werken gedeeltelijk terug tot
 
 ### Hoofdstuk 1. Fiscale wetgeving
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel IA
+##### Artikel IA
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel IIA
+##### Artikel IIA
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
 
 ### Hoofdstuk 2. Sociale zekerheidswetgeving
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Wet inschakeling werkzoekenden.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Wet sociale werkvoorziening.
 
-#### Artikel VA
+##### Artikel VA
 
 Wijzigt de Wet financiering volksverzekeringen.
 
-#### Artikel VB
+##### Artikel VB
 
 Vervallen
 
 ### Hoofdstuk 3. Overgangs- en slotbepalingen
 
-#### Artikel VI. Overgangsrecht inkomstenbelasting
+##### Artikel VI. Overgangsrecht inkomstenbelasting
 
 Voor het kalenderjaar 2002 worden voor de toepassing van [artikel 6.24, tweede lid, onderdeel b, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.24) bij ministeriële regeling regels gesteld inzake welke gegevens van het kalenderjaar 2000 in aanmerking moeten worden genomen voor de toepassing van genoemd [artikel 6.24, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.24).
 
-#### Artikel VIA. Overgangsrecht inkomstenbelasting
+##### Artikel VIA. Overgangsrecht inkomstenbelasting
 
 De in [artikel 8.21, eerste en tweede lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.21) bedoelde toetrederskorting geldt niet voor de belastingplichtige die vóór 1 juli 2001 reeds voldeed aan de in die leden omschreven voorwaarden.
 
-#### Artikel VII. Overgangsrecht inkomstenbelasting
+##### Artikel VII. Overgangsrecht inkomstenbelasting
 
 Voor het kalenderjaar 2002 wordt in afwijking van [artikel 8.11 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.11) de tekst van het derde lid van dat artikel als volgt gelezen:
 
@@ -80,21 +108,21 @@ Voor het kalenderjaar 2002 wordt in afwijking van [artikel 8.11 van de Wet inkom
 
 - c. ingeval de belastingplichtige bij het begin van het kalenderjaar de leeftijd van 62 jaar heeft bereikt, het percentage, bedoeld in het tweede lid, tweede volzin, onderdeel b, vervangen door 17,272% en het bedrag, bedoeld in het tweede lid, derde volzin, vervangen door € 1460.
 
-#### Artikel VIII. Overgangsrecht loonbelasting
+##### Artikel VIII. Overgangsrecht loonbelasting
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel IX. Overgangsrecht Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen
+##### Artikel IX. Overgangsrecht Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen
 
 Voor de toepassing van [artikel 15a, tweede lid, onderdeel a, van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=15a) moet voor het kalenderjaar 2000 het begrip «resultaat uit overige werkzaamheden» worden opgevat als inkomsten uit arbeid uit niet in dienstbetrekking verrichte werkzaamheden, bedoeld in artikel 22, eerste lid, onderdeel b, van de Wet op de inkomstenbelasting 1964, verminderd met de aftrekbare kosten, bedoeld in artikel 35 van de Wet op de inkomstenbelasting 1964.
 
-#### Artikel IXA. Samenloopbepaling
+##### Artikel IXA. Samenloopbepaling
 
 1. Ingeval de samenloop van wetten die in 2001 in het Staatsblad zijn of worden gepubliceerd en wijzigingen aanbrengen in één of meer belastingwetten, niet of niet juist is geregeld, of als gevolg van die samenloop onjuistheden ontstaan in de aanduiding van artikelonderdelen, verwijzingen en dergelijke in de desbetreffende wetten, herstelt Onze Minister van Financiën dat bij ministeriële regeling.
 
 2. Ingeval de samenloop van wetten die in 2001 in het Staatsblad zijn of worden gepubliceerd en wijzigingen aanbrengen in de [Coördinatiewet Sociale Verzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002126), niet of niet juist is geregeld, of als gevolg van die samenloop onjuistheden ontstaan in de aanduiding van artikelonderdelen, verwijzingen en dergelijke in de [Coördinatiewet Sociale Verzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002126), herstelt Onze Minister van Sociale Zaken en Werkgelegenheid dat bij ministeriële regeling.
 
-#### Artikel X. Inwerkingtreding
+##### Artikel X. Inwerkingtreding
 
 1. Deze wet treedt in werking met ingang van 1 januari 2002, met dien verstande dat [artikel I, onderdeel Ca](https://wetten.overheid.nl/jci1.3:c:BWBR0013186&hoofdstuk=1&artikel=I&z=2003-01-01&g=2003-01-01), [artikel III, onderdeel Ga](https://wetten.overheid.nl/jci1.3:c:BWBR0013186&hoofdstuk=1&artikel=III&z=2003-01-01&g=2003-01-01), en [artikel VA](https://wetten.overheid.nl/jci1.3:c:BWBR0013186&hoofdstuk=2&artikel=VA&z=2003-01-01&g=2003-01-01) terugwerken tot en met 1 januari 2001.
 

@@ -1,13 +1,39 @@
 ---
-title: "Besluit maatstaf van heffing omzetbelasting"
+title: "Besluit van de Staatssecretaris van Financiën van 29 september 2025, nr. 2025-23004 over de maatstaf van heffing voor de omzetbelasting (Besluit maatstaf van heffing omzetbelasting)"
 identifier: "BWBR0051568"
-categorie: "Belastingrecht"
-publicatiedatum: 2025-10-07
-laatste_update: 2025-10-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051568"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2025-10-07"
+last_updated: "2025-10-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051568"
+soort: "beleidsregel"
+stam_id: "17539723"
+version_id: "30952802"
+internal_id: "C44335471"
+label_id: "17441484"
+dtd_version: "2.0"
+original_entry_into_force: "2025-10-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051568/2025-10-07/0"
+intitule_bron: "Stcrt.2025-33827"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-09-29"
+intitule_published: "2025-10-06"
+intitule_in_force: "2025-10-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-33827"
+original_signed_date: "2025-09-29"
+original_published_date: "2025-10-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-33827"
+entry_into_force_date: "2025-10-07"
+jci_1_3: "jci1.3:c:BWBR0051568&z=2025-10-07&g=2025-10-07"
+jci_1_0: "1.0:c:BWBR0051568&g=2025-10-07"
+citeertitel_status: "officieel"
+short_title: "Besluit maatstaf van heffing omzetbelasting"
+signed_date: "2025-09-29"
+entry_into_force: "2025-10-07"
 ---
-
 # Besluit van de Staatssecretaris van Financiën van 29 september 2025, nr. 2025-23004 over de maatstaf van heffing voor de omzetbelasting (Besluit maatstaf van heffing omzetbelasting)
 
 **De Staatssecretaris van Financiën,**

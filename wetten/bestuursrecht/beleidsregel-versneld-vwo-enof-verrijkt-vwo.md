@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregel versneld vwo en/of verrijkt vwo"
+title: "Beleidsregel van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 20 augustus 2015, nr. VO/794653, houdende nadere regels voor het aanbieden van versneld vwo en/of verrijkt vwo voor talentvolle leerlingen in het voortgezet onderwijs (Beleidsregel versneld vwo en/of verrijkt vwo)"
 identifier: "BWBR0036965"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-08-01
-laatste_update: 2022-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036965"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2022-08-01"
+last_updated: "2022-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036965"
+soort: "beleidsregel"
+stam_id: "13249163"
+version_id: "28347092"
+internal_id: "C39962991"
+label_id: "13217244"
+dtd_version: "2.0"
+original_entry_into_force: "2021-12-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036965/2022-08-01/0"
+intitule_bron: "Stcrt.2015-27367"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-08-20"
+intitule_published: "2015-08-28"
+intitule_in_force: "2015-08-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-556"
+original_signed_date: "2021-12-07"
+original_published_date: "2022-01-13"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2022-556"
+entry_into_force_date: "2021-12-07"
+jci_1_3: "jci1.3:c:BWBR0036965&z=2022-08-01&g=2022-08-01"
+jci_1_0: "1.0:c:BWBR0036965&g=2022-08-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel versneld vwo en/of verrijkt vwo"
+signed_date: "2021-12-07"
+entry_into_force: "2021-12-07"
 ---
-
 # Beleidsregel van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 20 augustus 2015, nr. VO/794653, houdende nadere regels voor het aanbieden van versneld vwo en/of verrijkt vwo voor talentvolle leerlingen in het voortgezet onderwijs (Beleidsregel versneld vwo en/of verrijkt vwo)
 
 Gelet op [artikel 25 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=25);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -34,7 +60,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - 8. **zeer zwakke school en zwakke school:** vestiging van een school waar een aangepast toezichtarrangement geldt, zoals beschreven in het voor dat jaar geldende toezichtkader als bedoeld in [artikel 13, eerste lid van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=13).
 
-#### Artikel 2. Doel en inhoud van de regeling
+##### Artikel 2. Doel en inhoud van de regeling
 
 1. Het doel van deze beleidsregel is om bevoegde gezagsorganen meer ruimte te bieden ten aanzien van de inrichting van het onderwijs op hun scholen, zodat zij de kwaliteit van het vwo-onderwijs aan talentvolle leerlingen kunnen vergroten en meer maatwerk kunnen bieden. Op deze manier kunnen scholen talentvolle leerlingen optimaal stimuleren en uitdagen, waardoor deze leerlingen hun talenten optimaal kunnen ontwikkelen.
 
@@ -44,7 +70,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - b. een verrijkt vwo-programma.
 
-#### Artikel 3. Voorwaarden om in aanmerking te komen voor toestemming
+##### Artikel 3. Voorwaarden om in aanmerking te komen voor toestemming
 
 1. Leerlingen dienen het versnelde vwo in vijf jaar af te ronden. Een bevoegd gezag comprimeert het onderwijsprogramma zodanig dat voor het vierde leerjaar wordt gestart met vakken uit het profieldeel. Ook in het verrijkte programma dienen leerlingen voor het vierde leerjaar te starten met vakken uit het profieldeel.
 
@@ -76,7 +102,7 @@ In deze beleidsregel wordt verstaan onder:
 
 9. Een bevoegd gezag van een school waaraan toestemming wordt verleend om versneld vwo en/of verrijkt vwo aan te bieden, is verplicht om desgewenst gegevens over uitvoering, leerlingtevredenheid, doorstroom en leerresultaten aan te leveren bij de minister ten behoeve van evaluatieonderzoek.
 
-#### Artikel 4. Procedure voor aanvraag en goedkeuring
+##### Artikel 4. Procedure voor aanvraag en goedkeuring
 
 1. De aanvraag dient ingediend te worden in de periode van 1 oktober tot 1 november van enig jaar bij de minister.
 
@@ -96,41 +122,41 @@ In deze beleidsregel wordt verstaan onder:
 
 9. Aanvragen die niet worden ingediend in de periode genoemd in het eerste lid, worden afgewezen.
 
-#### Artikel 5. Intrekken van toestemming
+##### Artikel 5. Intrekken van toestemming
 
 1. De minister kan in ieder geval besluiten tot intrekking van de toestemming voor het aanbieden van versneld vwo en/of verrijkt vwo, indien de onderwijskwaliteit op de betreffende school niet langer voldoet en de school zwak of zeer zwak wordt. Alvorens toestemming in te trekken, consulteert de minister de Inspectie van het Onderwijs.
 
 2. Als de minister besluit tot intrekking van toestemming voor het aanbieden van versneld vwo en/of verrijkt vwo, dan dienen de leerlingen op een nader door de minister te bepalen tijdstip deel te nemen aan het reguliere onderwijsprogramma.
 
-#### Artikel 6. Afwijking van voorschriften met betrekking tot onderwijstijd
+##### Artikel 6. Afwijking van voorschriften met betrekking tot onderwijstijd
 
 In afwijking van [artikel 2.38 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.38) kan een bevoegd gezag een versneld en/of verrijkt vwo programma inrichten dat minder dan 5.700 klokuren omvat. Voorwaarde is dat dit programma wordt ingericht naast het reguliere vwo dat wel tenminste 5.700 klokuren omvat.
 
-#### Artikel 7. Afwijking van voorschriften met betrekking tot onderbouw
+##### Artikel 7. Afwijking van voorschriften met betrekking tot onderbouw
 
 In afwijking van de [artikelen 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.12), [2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.14), [2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.19) en [2.38 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.38) kan een bevoegd gezag de eerste drie leerjaren zodanig inrichten dat de periode van voorbereidend hoger onderwijs als bedoeld in [artikel 2.20 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.20) eerder start dan in het vierde leerjaar.
 
-#### Artikel 8. Afwijking van voorschriften met betrekking tot de periode van voorbereidend hoger onderwijs
+##### Artikel 8. Afwijking van voorschriften met betrekking tot de periode van voorbereidend hoger onderwijs
 
 In afwijking van [artikel 2.20 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.20) kan een bevoegd gezag de eerste drie leerjaren zodanig inrichten dat de periode van voorbereidend hoger onderwijs eerder start dan in het vierde leerjaar.
 
-#### Artikel 9. Evaluatie
+##### Artikel 9. Evaluatie
 
 1. Drie jaar na inwerkingtreding van de beleidsregel vindt een tussentijdse evaluatie plaats.
 
 2. Voor 1 september 2021 wordt de beleidsregel geëvalueerd.
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 september 2015. De beleidsregel vervalt op 1 september 2027.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Beleidsregel versneld vwo en/of verrijkt vwo.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst en bekend worden gemaakt op de website (www.duo.nl) van DUO van het Ministerie van Onderwijs, Cultuur en Wetenschap, alsmede op het digitale informatiepunt voor onderwijs en talentontwikkeling (www.talentstimuleren.nl) van Stichting Leerplan Ontwikkeling.
 
-#### Artikel 9a. Omhang
+##### Artikel 9a. Omhang
 
 Deze beleidsregel is gebaseerd op [artikel 9.3 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=9.3).
 

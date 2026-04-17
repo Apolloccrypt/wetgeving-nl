@@ -1,13 +1,37 @@
 ---
 title: "Circulaire onkostenvergoeding wethouders en raadsleden en vergoeding raadsleden en leden gemeentelijke commissies"
 identifier: "BWBR0014309"
-categorie: "Bestuursrecht"
-publicatiedatum: 2003-01-01
-laatste_update: 2003-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0014309"
+country: "nl"
+rank: "circulaire"
+publication_date: "2003-01-01"
+last_updated: "2003-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0014309"
+soort: "circulaire"
+stam_id: "6396503"
+version_id: "11058832"
+internal_id: "C14964601"
+label_id: "6385394"
+original_entry_into_force: "2003-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0014309/2003-01-01/0"
+intitule_bron: "Stcrt.2002-232"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-11-20"
+intitule_published: "2002-12-02"
+intitule_in_force: "2002-12-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2002-232"
+original_signed_date: "2002-11-20"
+original_published_date: "2002-12-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2002-232-p9-SC37299"
+entry_into_force_date: "2003-01-01"
+jci_1_3: "jci1.3:c:BWBR0014309&z=2003-01-01&g=2003-01-01"
+jci_1_0: "1.0:c:BWBR0014309&g=2003-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "2002-11-20"
+entry_into_force: "2003-01-01"
 ---
-
 # Circulaire onkostenvergoeding wethouders en raadsleden en vergoeding raadsleden en leden gemeentelijke commissies
 
 ### 1. Onkostenvergoeding wethouders

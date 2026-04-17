@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tot beperking der staatloosheid"
 identifier: "BWBV0004351"
-categorie: "Internationaal recht"
-publicatiedatum: 1985-08-11
-laatste_update: 1985-08-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004351"
+country: "nl"
+rank: "verdrag"
+publication_date: "1985-08-11"
+last_updated: "1985-08-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004351"
+soort: "verdrag"
+stam_id: "10004076943"
+version_id: "10004245402"
+internal_id: "C10006999831"
+label_id: "10004061814"
+dtd_version: "2.0"
+original_entry_into_force: "1985-08-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004351/1985-08-11/0"
+intitule_bron: "Trb.1967-124"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1967-09-13"
+intitule_in_force: "1985-05-17"
+intitule_status: "goed"
+original_publication: "Trb.1967-124"
+original_published_date: "1967-09-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1967-124"
+entry_into_force_date: "1985-08-11"
+jci_1_3: "jci1.3:c:BWBV0004351&z=1985-08-11&g=1985-08-11"
+jci_1_0: "1.0:c:BWBV0004351&g=1985-08-11"
+citeertitel_status: "redactioneel"
+entry_into_force: "1985-08-11"
 ---
-
 # Verdrag tot beperking der staatloosheid
 
 De Verdragsluitende Staten,
@@ -18,7 +40,7 @@ Overwegende dat het wenselijk is de staatloosheid door een internationaal akkoor
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Iedere Verdragsluitende Staat verleent zijn nationaliteit aan degene die geboren is op zijn grondgebied en die anders staatloos zou zijn.
 
@@ -52,15 +74,15 @@ Een Verdragsluitende Staat welks wetgeving verlening van zijn nationaliteit op v
 
 - c). dat de belanghebbende bij zijn geboorte of later geen nationaliteit heeft verkregen.
 
-#### Artikel 2
+##### Artikel 2
 
 Het kind, gevonden op het grondgebied van een Verdragsluitende Staat wordt, totdat het tegendeel is bewezen, geacht te zijn geboren op dat grondgebied uit ouders die de nationaliteit van die Staat bezitten.
 
-#### Artikel 3
+##### Artikel 3
 
 Ter vaststelling van de verplichtingen der Verdragsluitende Staten binnen het kader van dit Verdrag wordt een geboorte aan boord van een schip of van een luchtvaartuig geacht te hebben plaats gehad op het grondgebied van de Staat welks vlag het schip voert of waarin het luchtvaartuig staat ingeschreven.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een Verdragsluitende Staat verleent zijn nationaliteit aan degene, die anders staatloos zou zijn en niet is geboren op het grondgebied van een Verdragsluitende Staat, indien ten tijde van de geboorte de vader of de moeder de nationaliteit van de eerstgenoemde Staat bezat. Indien de ouders ten tijde van de geboorte niet dezelfde nationaliteit bezaten, volgt het kind, naar gelang van de wetgeving van die Staat, de nationaliteit van de vader dan wel die van de moeder. De nationaliteit, toegekend overeenkomstig het in dit lid bepaalde, wordt verleend:
 
@@ -78,17 +100,17 @@ Ter vaststelling van de verplichtingen der Verdragsluitende Staten binnen het ka
 
 - d). dat de belanghebbende bij zijn geboorte of later geen nationaliteit heeft verkregen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Indien de wetgeving van een Verdragsluitende Staat bepaalt dat iemand zijn nationaliteit verliest als gevolg van een wijziging in zijn burgerlijke staat zoals huwelijk, ontbinding van het huwelijk, wettiging, erkenning of adoptie, wordt dat verlies afhankelijk gesteld van het bezit of het verkrijgen van de nationaliteit van een andere Staat.
 
 2. Indien overeenkomstig de wetgeving van een Verdragsluitende Staat een natuurlijk kind de nationaliteit van die Staat verliest als gevolg van een erkenning, wordt het de mogelijkheid geboden deze terug te krijgen door middel van een daartoe strekkend aan de bevoegde autoriteit gericht verzoek, waarvan de inwilliging niet mag worden gebonden aan de vervulling van strengere voorwaarden dan die, welke worden genoemd in het tweede lid van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004351&artikel=1&z=1985-08-11&g=1985-08-11) van dit Verdrag.
 
-#### Artikel 6
+##### Artikel 6
 
 Indien de wetgeving van een Verdragsluitende Staat bepaalt dat, doordat iemand de nationaliteit van die Staat verliest of deze hem wordt ontnomen ook de echtgenoot of de kinderen deze verliezen, wordt dit verlies afhankelijk gesteld van het bezit of het verkrijgen door dezen van de nationaliteit van een andere Staat.
 
-#### Artikel 7
+##### Artikel 7
 
 - a). Indien de wetgeving van een Verdragsluitende Staat toelaat dat iemand afstand doet van zijn nationaliteit, dan heeft dit alleen dan verlies van die nationaliteit tot gevolg, indien de betrokkene de nationaliteit van een andere Staat bezit of verkrijgt.
 
@@ -104,7 +126,7 @@ Indien de wetgeving van een Verdragsluitende Staat bepaalt dat, doordat iemand d
 
 6. Behoudens het bepaalde in dit artikel verliest niemand de nationaliteit van een Verdragsluitende Staat, indien dit verlies voor hem staatloosheid met zich zou brengen, ook indien dit verlies niet reeds uitdrukkelijk door enige andere bepaling van dit Verdrag is uitgesloten.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Een Verdragsluitende Staat ontneemt een onderdaan de nationaliteit van die Staat niet, indien dit voor die onderdaan staatloosheid met zich zou brengen.
 
@@ -126,21 +148,21 @@ Indien de wetgeving van een Verdragsluitende Staat bepaalt dat, doordat iemand d
 
 4. Een Verdragsluitende Staat maakt van de mogelijkheid om iemand met inachtneming van de leden 2 en 3 van dit artikel zijn nationaliteit te ontnemen geen gebruik dan met eerbiediging van de wet, waarbij de betrokkene recht heeft op een onpartijdige behandeling van zijn zaak, hetzij door een rechtbank, hetzij door een ander onafhankelijk orgaan.
 
-#### Artikel 9
+##### Artikel 9
 
 Geen Verdragsluitende Staat mag een persoon of een groep personen hun nationaliteit op grond van overwegingen ingegeven door hun ras, etnologische afkomst, godsdienst of politieke overtuiging ontnemen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Ieder tussen Verdragsluitende Staten gesloten verdrag waarin wordt voorzien in de overdracht van grondgebied, dient bepalingen te bevatten ter verzekering dat niemand tengevolge van die overdracht staatloos wordt. Een Verdragsluitende Staat dient al het mogelijke te doen ter verzekering dat in elk zodanig verdrag dat hij met een Staat die geen partij is bij het onderhavige Verdrag sluit, bepalingen als hierboven bedoeld worden opgenomen.
 
 2. Indien bepalingen van deze strekking ontbreken, verleent de Verdragsluitende Staat waaraan grondgebied wordt overgedragen of die op andere wijze grondgebied verkrijgt, zijn nationaliteit aan hen die anders tengevolge van de overdracht of de verkrijging, staatloos zouden worden.
 
-#### Artikel 11
+##### Artikel 11
 
 De Verdragsluitende Staten bevorderen dat binnen het raam van de Organisatie van de Verenigde Naties, zo spoedig mogelijk na de nederlegging van de zesde akte van bekrachtiging of toetreding een orgaan wordt ingesteld, waartoe iemand die zich op dit Verdrag wenst te beroepen zich, zowel voor onderzoek van zijn beroep als voor bijstand bij het voorleggen van zijn zaak aan het bevoegde gezag, kan wenden.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Ten aanzien van een Verdragsluitende Staat die niet overeenkomstig de bepalingen van het [eerste lid van artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004351&artikel=1&z=1985-08-11&g=1985-08-11) of die van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004351&artikel=4&z=1985-08-11&g=1985-08-11) van dit Verdrag zijn nationaliteit van rechtswege bij de geboorte verleent, zijn de bepalingen van het eerste lid van artikel 1 of die van artikel 4 van toepassing zowel op personen die geboren zijn vóór, als op personen die geboren zijn na de inwerkingtreding van dit Verdrag.
 
@@ -148,15 +170,15 @@ De Verdragsluitende Staten bevorderen dat binnen het raam van de Organisatie van
 
 3. De bepalingen van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004351&artikel=2&z=1985-08-11&g=1985-08-11) van dit Verdrag zijn uitsluitend van toepassing op kinderen gevonden op het grondgebied van een Verdragsluitende Staat na het in werking treden van het Verdrag.
 
-#### Artikel 13
+##### Artikel 13
 
 Dit Verdrag laat eventuele bepalingen, die in nog sterkere mate de beperking der staatloosheid bevorderen en thans zijn of later mochten worden opgenomen, hetzij in de wetgeving van een der Verdragsluitende Staten, hetzij in een Verdrag, overeenkomst of regeling tussen twee of meer Verdragsluitende Staten, onverlet.
 
-#### Artikel 14
+##### Artikel 14
 
 Elk tussen Verdragsluitende Staten gerezen geschil de uitlegging of toepassing van dit Verdrag betreffende, dat niet langs andere weg kan worden beslecht, wordt op verzoek van een der partijen bij het geschil voorgelegd aan het Internationale Gerechtshof.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Dit Verdrag is van toepassing op alle niet-autonome, onder beheer staande en koloniale gebieden, alsmede op alle andere niet tot het moederland behorende gebieden voor de internationale betrekkingen waarvan een Verdragsluitende Staat verantwoordelijk is; met inachtneming van de bepalingen van het tweede lid van dit artikel verklaart de betrokken Verdragsluitende Staat ten tijde van de ondertekening of de bekrachtiging van of de toetreding tot dit Verdrag op welke van de niet tot het moederland behorende gebieden het Verdrag **ipso facto**, op grond van die ondertekening, die bekrachtiging of die toetreding van toepassing is.
 
@@ -164,7 +186,7 @@ Elk tussen Verdragsluitende Staten gerezen geschil de uitlegging of toepassing v
 
 3. Na het verstrijken van de in het tweede lid van dit artikel genoemde termijn van twaalf maanden stellen de betrokken Verdragsluitende Staten de Secretaris-Generaal in kennis van de resultaten van het overleg dat is gevoerd met die niet tot het moederland behorende gebieden, voor de internationale betrekkingen waarvan zij verantwoordelijk zijn en die met de toepasselijkheid van dit Verdrag niet hebben ingestemd.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Dit Verdrag staat open voor ondertekening ten hoofdkwartiere van de Organisatie van de Verenigde Naties van 30 augustus 1961 tot 31 mei 1962.
 
@@ -180,25 +202,25 @@ Elk tussen Verdragsluitende Staten gerezen geschil de uitlegging of toepassing v
 
 4. Dit Verdrag staat open voor toetreding door de in het tweede lid van dit artikel genoemde Staten. Toetreding geschiedt door nederlegging van een akte van toetreding bij de Secretaris-Generaal van de Organisatie van de Verenigde Naties.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Bij de ondertekening, de bekrachtiging of de toetreding kan elke Staat een voorbehoud maken met betrekking tot de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004351&artikel=11&z=1985-08-11&g=1985-08-11), [14](https://wetten.overheid.nl/jci1.3:c:BWBV0004351&artikel=14&z=1985-08-11&g=1985-08-11) of [15](https://wetten.overheid.nl/jci1.3:c:BWBV0004351&artikel=15&z=1985-08-11&g=1985-08-11).
 
 2. Andere voorbehouden op dit Verdrag worden niet toegestaan.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Dit Verdrag treedt in werking twee jaar na het tijdstip waarop de zesde akte van bekrachtiging of toetreding is neder gelegd.
 
 2. Ten aanzien van elke Staat die bekrachtigt of toetreedt na de nederlegging van de zesde akte van bekrachtiging of toetreding, treedt het in werking op de negentigste dag na de nederlegging door die Staat van zijn akte van bekrachtiging of toetreding of op het tijdstip waarop dit Verdrag overeenkomstig de bepalingen van het eerste lid van dit artikel in werking treedt, zo dit tijdstip later valt.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Elke Verdragsluitende Staat heeft het recht dit Verdrag op elk willekeurig tijdstip door middel van een aan de Secretaris-Generaal van de Organisatie van de Verenigde Naties gerichte schriftelijke kennisgeving op te zeggen. Deze opzegging wordt ten aanzien van de betrokken Verdragsluitende Staat van kracht één jaar na ontvangst van de kennisgeving door de Secretaris-Generaal.
 
 2. In gevallen waarin, overeenkomstig de bepalingen van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0004351&artikel=15&z=1985-08-11&g=1985-08-11), dit Verdrag op een niet tot het moederland van een Verdragsluitende Staat behorend gebied van toepassing is geworden, kan die Staat, met goedkeuring van het betrokken gebied op elk willekeurig tijdstip daarna de Secretaris-Generaal van de Organisatie van de Verenigde Naties ervan in kennis stellen dat hij dit Verdrag ten aanzien van dat betrokken gebied opzegt. De opzegging heeft rechtsgevolg één jaar na de datum waarop de Secretaris-Generaal de kennisgeving van opzegging heeft ontvangen, waarop de Secretaris-Generaal alle andere Verdragsluitende Staten zowel van die kennisgeving als van de datum van ontvangst daarvan bericht zendt.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De Secretaris-Generaal van de Organisatie van de Verenigde Naties doet aan alle leden van de Verenigde Naties en de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0004351&artikel=16&z=1985-08-11&g=1985-08-11) genoemde Staten die geen lid zijn van deze Organisatie mededeling van:
 
@@ -212,7 +234,7 @@ Elk tussen Verdragsluitende Staten gerezen geschil de uitlegging of toepassing v
 
 2. Uiterlijk na de nederlegging van de zesde akte van bekrachtiging of toetreding zal de Secretaris-Generaal van de Organisatie van de Verenigde Naties de aandacht van de Algemene Vergadering erop vestigen, dat een orgaan dient te worden ingesteld, als voorzien in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004351&artikel=11&z=1985-08-11&g=1985-08-11).
 
-#### Artikel 21
+##### Artikel 21
 
 Dit Verdrag wordt door de Secretaris-Generaal van de Organisatie van de Verenigde Naties geregistreerd op de dag waarop het in werking treedt.
 

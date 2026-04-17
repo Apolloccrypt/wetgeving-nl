@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland houdende vaststelling van een ontginningsgrens voor oostelijk van de Nederlands-Duitse landsgrens gelegen steenkolenvelden"
 identifier: "BWBV0005144"
-categorie: "Internationaal recht"
-publicatiedatum: 1961-11-25
-laatste_update: 1961-11-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005144"
+country: "nl"
+rank: "verdrag"
+publication_date: "1961-11-25"
+last_updated: "1961-11-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005144"
+soort: "verdrag"
+stam_id: "10004485413"
+version_id: "10004698382"
+internal_id: "C10007043501"
+label_id: "10004470004"
+dtd_version: "2.0"
+original_entry_into_force: "1953-07-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005144/1961-11-25/0"
+intitule_bron: "Trb.1952-23"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1952-02-14"
+intitule_in_force: "1953-10-02"
+intitule_status: "goed"
+original_publication: "Trb.1952-23"
+original_published_date: "1952-02-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1952-23"
+entry_into_force_date: "1953-07-30"
+jci_1_3: "jci1.3:c:BWBV0005144&z=1961-11-25&g=1961-11-25"
+jci_1_0: "1.0:c:BWBV0005144&g=1961-11-25"
+citeertitel_status: "redactioneel"
+entry_into_force: "1953-07-30"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland houdende vaststelling van een ontginningsgrens voor oostelijk van de Nederlands-Duitse landsgrens gelegen steenkolenvelden
 
 Hare Majesteit de Koningin der Nederlanden en
@@ -30,7 +52,7 @@ De Heer Oberbergrat Dr. von Schlütter,
 
 die, na elkander hun in goede en behoorlijke vorm bevonden volmachten te hebben overgelegd, zijn overeengekomen als volgt:
 
-#### Artikel I
+##### Artikel I
 
 1. Het Verdrag is van toepassing
 
@@ -50,7 +72,7 @@ die, na elkander hun in goede en behoorlijke vorm bevonden volmachten te hebben 
 
 - c). in de diepte ten behoeve van de ontginning van laag Plasshofsbank en de daaronder gelegen lagen alsook ten behoeve van de hiervoor noodzakelijke ontsluiting.
 
-#### Artikel II
+##### Artikel II
 
 De grensmuur als bedoeld in het Duits-Nederlandse Verdrag van 17 mei 1939 komt te vervallen, voor zover deze binnen de in artikel I, eerste lid, vastgestelde begrenzing ligt.
 
@@ -58,7 +80,7 @@ De van Nederlandse en Duitse zijde in de in artikel I, eerste lid, onder **a**),
 
 Bij de in artikel I, eerste lid, onder **b**), genoemde steenkolenvelden moet aan iedere zijde van de nieuwe ontginningsgrens een grensmuur van 10 m dikte, rechthoekig op die grens gemeten, onontgonnen blijven. Doorbreken, versmallen of wegnemen van deze grensmuur is slechts met vergunning van het bevoegde Toezicht op de mijnen toegelaten. De vergunning mag slechts worden verleend, nadat het Toezicht op de mijnen van het andere land zijn toestemming heeft gegeven.
 
-#### Artikel III
+##### Artikel III
 
 Voor de in artikel I nader omschreven steenkolenvelden en gedeelten daarvan geldt, voor zover deze van Nederlandse zijde worden ontgonnen, het volgende:
 
@@ -74,15 +96,15 @@ Voor de in artikel I nader omschreven steenkolenvelden en gedeelten daarvan geld
 
 - 6). Met betrekking tot de in- en uitvoerrechten, alsmede de in- en uitvoerverboden of -beperkingen worden de kolen geacht binnen het Koninkrijk der Nederlanden te zijn gewonnen.
 
-#### Artikel IV
+##### Artikel IV
 
 Het Duitse en het Nederlandse Toezicht op de mijnen zijn verplicht, de ontginning langs de nieuwe ontginningsgrens slechts toe te staan onder voorwaarde, dat de ontginningswerken over een breedte van 500 meter gelegen aan gene zijde van de nieuwe ontginningsgrens op hun eigen mijnkaarten worden overgebracht. Te dien einde zullen de wederzijdse Toezichten op de mijnen de desbetreffende mijnkaarten, die door beëdigde, resp. erkende mijnmeters vervaardigd en regelmatig bijgehouden zullen worden, elk halfjaar uitwisselen, zolang in het gebied ontginning plaats vindt. Daarenboven zal het Nederlandse Toezicht op de mijnen aan het Duitse Toezicht op de mijnen een exemplaar der op dezelfde wijze vervaardigde en bijgehouden mijnkaarten betreffende alle ontginningswerken onder Duits grondgebied ter beschikking stellen. Omtrent de inzage dezer mijnkaarten door derden beslissen de autoriteiten en de rechtbanken van het land, waaraan de mijnkaarten ter beschikking zijn gesteld, overeenkomstig haar eigen bepalingen.
 
-#### Artikel V
+##### Artikel V
 
 Dit Verdrag zal worden bekrachtigd en de akten van bekrachtiging zullen zo spoedig mogelijk te Bonn worden uitgewisseld.
 
-#### Artikel VI
+##### Artikel VI
 
 1. Het Verdrag zal in werking treden op de dag van de uitwisseling der akten van bekrachtiging.
 

@@ -1,20 +1,45 @@
 ---
 title: "Beleidsregel gecombineerde leefstijlinterventie volwassenen"
 identifier: "BWBR0051252"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051252"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051252"
+soort: "zbo"
+stam_id: "17472053"
+version_id: "30814842"
+internal_id: "C44163311"
+label_id: "17374374"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051252/2026-01-01/0"
+intitule_bron: "Stcrt.2025-24192"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-07-08"
+intitule_published: "2025-07-16"
+intitule_in_force: "2025-07-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-24192"
+original_signed_date: "2025-07-08"
+original_published_date: "2025-07-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-24192"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051252&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051252&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2025-07-08"
+entry_into_force: "2026-01-01"
 ---
-
 # Beleidsregel gecombineerde leefstijlinterventie volwassenen
 
 Gelet op [artikel 57, eerste lid, onderdelen b en c, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot het uitoefenen van de bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen.
 
 Gelet op [artikel 59, aanhef en onder a, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=59), heeft de Minister van VWS met brief van 26 juni 2018, met kenmerk [1342565-176534-PZO](https://wetten.overheid.nl/jci1.3:c:BWBR0041112), ten behoeve van de voorliggende beleidsregel een aanwijzing op grond van [artikel 7 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7), aan de NZa gegeven.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -30,11 +55,11 @@ In deze beleidsregel wordt verstaan onder:
 
 - **Zorgprogramma:** Een gecombineerde leefstijlinterventie volwassenen wordt in de vorm van een zorgprogramma aangeboden (hetzij individueel, hetzij in een groep). Het zorgprogramma bestaat uit een behandelfase en een onderhoudsfase. De totale doorlooptijd van het zorgprogramma is 24 aaneengesloten maanden. De startdatum van het zorgprogramma is de datum waarop het eerste contact na de intake tussen de patiënt en zorgverlener plaatsvindt. Dit kan fysiek face-to-face contact zijn maar ook contact via een beeldverbinding indien de zorgverlening zowel zorginhoudelijk als qua tijdsbesteding vergelijkbaar is met het fysiek face-to-face contact.
 
-#### Artikel 2. Doel van de beleidsregel
+##### Artikel 2. Doel van de beleidsregel
 
 Het doel van deze beleidsregel is om vast te leggen op welke wijze de NZa gebruik maakt van haar bevoegdheid om prestatiebeschrijvingen en tarieven vast te stellen op het gebied van de gecombineerde leefstijlinterventie voor volwassenen.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze beleidsregel is van toepassing op de gecombineerde leefstijlinterventie volwassenen als omschreven bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) (Zvw). Hierbij gaat het om de volgende bij of krachtens de Zvw omschreven soorten zorg:
 
@@ -44,7 +69,7 @@ Deze beleidsregel is van toepassing op de gecombineerde leefstijlinterventie vol
 
 - •. verblijf als omschreven bij of krachtens [artikel 2.12 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.12).
 
-#### Artikel 4. Prestatiebeschrijvingen
+##### Artikel 4. Prestatiebeschrijvingen
 
 Deze beleidsregel heeft betrekking op de GLI voor volwassenen vanaf 18 jaar. Voor kinderen die bijna de leeftijd van 18 jaar bereiken, kan op zorginhoudelijke gronden de keuze gemaakt worden voor een zorgprogramma voor volwassenen. In dat geval dienen de prestaties uit deze beleidsregel in rekening te worden gebracht.
 
@@ -82,7 +107,7 @@ De volgende prestatiebeschrijvingen worden in dat kader onderscheiden:
 
 - 7. Onderlinge dienstverlening De levering van (onderdelen van) de prestaties die vallen onder de noemers gecombineerde leefstijlinterventie volwassenen en medische begeleiding medicatie-afbouw Diabetes Mellitus type 2 door een zorgaanbieder in opdracht van een andere zorgaanbieder. De eerstgenoemde zorgaanbieder wordt in dit kader aangeduid als de 'uitvoerende zorgaanbieder'. De laatstgenoemde zorgaanbieder wordt in dit kader aangeduid als de 'opdrachtgevende zorgaanbieder'. De uitvoerende zorgaanbieder heeft de mogelijkheid om (onderdelen van) de prestaties die vallen onder de noemers gecombineerde leefstijlinterventie volwassenen en medische begeleiding medicatie-afbouw Diabetes Mellitus type 2 met inachtneming van de geldende maximumtarieven, in opdracht van de opdrachtgevende zorgaanbieder via onderlinge dienstverlening in rekening te brengen aan de opdrachtgevende zorgaanbieder. De opdrachtgevende zorgaanbieder coördineert het zorgprogramma, en staat in voor de bevoegdheid en bekwaamheid van de uitvoerende zorgaanbieders.
 
-#### Artikel 5. Tarieven
+##### Artikel 5. Tarieven
 
 1. Tariefsoort
 
@@ -104,11 +129,11 @@ Voor de prestaties, met uitzondering van de prestatie onderlinge dienstverlening
 
 De maximumtarieven worden jaarlijks trendmatig aangepast met een index voor personele kosten, materiële kosten en de normatieve huisvestingscomponent. De personele kosten worden geïndexeerd op basis van de door het Ministerie van VWS aangegeven Overheidsbijdrage in de Arbeidskostenontwikkeling (OVA). Voor de materiële kosten wordt aangesloten bij het prijsindexcijfer particuliere consumptie uit het Centraal Economisch Plan (CEP) van het Centraal Planbureau. De normatieve huisvestingscomponent wordt jaarlijks geïndexeerd met 2,5%. De toe te passen index is het gewogen gemiddelde van de indices voor personele kosten (aandeel: 82,8%), materiële kosten (aandeel: 10,5%) en de normatieve huisvestingscomponent (aandeel: 6,7%).
 
-#### Artikel 6. Intrekken oude beleidsregel
+##### Artikel 6. Intrekken oude beleidsregel
 
 Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt de [Beleidsregel gecombineerde leefstijlinterventie volwassenen](https://wetten.overheid.nl/jci1.3:c:BWBR0050025), met kenmerk BR/REG-25104, ingetrokken.
 
-#### Artikel 7. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding en citeertitel
+##### Artikel 7. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding en citeertitel
 
 De [Beleidsregel gecombineerde leefstijlinterventie volwassenen](https://wetten.overheid.nl/jci1.3:c:BWBR0050025), met kenmerk BR/REG-25104, blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die beleidsregel en die betrekking hebben op de periode waarvoor die beleidsregel gold.
 

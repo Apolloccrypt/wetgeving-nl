@@ -1,13 +1,36 @@
 ---
 title: "Regeling tegemoetkoming schade bij dijkdoorbraak te Wilnis 2003"
 identifier: "BWBR0015647"
-categorie: "Overig"
-publicatiedatum: 2003-10-22
-laatste_update: 2003-10-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015647"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2003-10-22"
+last_updated: "2003-10-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015647"
+soort: "ministeriele-regeling"
+stam_id: "5441813"
+version_id: "9791272"
+internal_id: "C13221311"
+label_id: "5416714"
+original_entry_into_force: "2003-10-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015647/2003-10-22/0"
+intitule_bron: "Stcrt.2003-202"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-09-30"
+intitule_published: "2003-10-20"
+intitule_in_force: "2003-10-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2003-202"
+original_signed_date: "2003-09-30"
+original_published_date: "2003-10-20"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2003-10-22"
+jci_1_3: "jci1.3:c:BWBR0015647&z=2003-10-22&g=2003-10-22"
+jci_1_0: "1.0:c:BWBR0015647&g=2003-10-22"
+citeertitel_status: "officieel"
+signed_date: "2003-09-30"
+entry_into_force: "2003-10-22"
 ---
-
 # Regeling tegemoetkoming schade bij dijkdoorbraak te Wilnis 2003
 
 Handelende in overeenstemming met de Ministers van Economische Zaken, van Financiën, van Landbouw, Natuur en Voedselkwaliteit en van Verkeer en Waterstaat;
@@ -20,7 +43,7 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -32,7 +55,7 @@ In deze regeling wordt verstaan onder:
 
 - d. kostenbedrag: de gemaakte kosten vastgesteld door de schade-expert, bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=5), waarop in mindering zijn gebracht de kosten die redelijkerwijs verzekerbaar zijn, de kosten waarvoor uit anderen hoofde een tegemoetkoming is verkregen of kan worden verkregen en de kosten die zijn veroorzaakt door eigen schuld of doordat de gedupeerde onvoldoende maatregelen heeft getroffen ter voorkoming of beperking van de kosten.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Deze regeling is van toepassing op de schade en kosten die zijn ontstaan als gevolg van het bezwijken van een gereglementeerde waterkering langs een gedeelte van de Ringvaart ter hoogte van Wilnis (gemeente De Ronde Venen) op 26 augustus 2003.
 
@@ -42,11 +65,11 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Hoogte van de tegemoetkoming
 
-#### Artikel 3. Schade aan de woning of woonwagen
+##### Artikel 3. Schade aan de woning of woonwagen
 
 De hoogte van de tegemoetkoming in de schade, bedoeld in [artikel 4, eerste lid, onderdeel **a**, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=4) bedraagt 90% van het schadebedrag.
 
-#### Artikel 4. Schade aan inboedel
+##### Artikel 4. Schade aan inboedel
 
 1. De hoogte van de tegemoetkoming in de schade, bedoeld in [artikel 4, eerste lid, onderdeel **b**, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=4) bedraagt:
 
@@ -58,15 +81,15 @@ De hoogte van de tegemoetkoming in de schade, bedoeld in [artikel 4, eerste lid,
 
 2. Over het schadebedrag dat € 27.200 te boven gaat, wordt geen tegemoetkoming verstrekt.
 
-#### Artikel 5. Bereddings- en opruimingskosten aan woning en inboedel
+##### Artikel 5. Bereddings- en opruimingskosten aan woning en inboedel
 
 De hoogte van de tegemoetkoming in de kosten, bedoeld in [artikel 4, onderdelen **i** en **j**, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=4), gemaakt ter voorkoming, beperking of opruiming van schade als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015647&paragraaf=2&artikel=3&z=2003-10-22&g=2003-10-22) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0015647&paragraaf=2&artikel=4&z=2003-10-22&g=2003-10-22), bedraagt 65% van het kostenbedrag.
 
-#### Artikel 6. Schade aan openbare infrastructurele voorzieningen
+##### Artikel 6. Schade aan openbare infrastructurele voorzieningen
 
 De hoogte van de tegemoetkoming in de schade, bedoeld in [artikel 4, eerste lid, onderdeel **c**, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=4) bedraagt 58,5% van het schadebedrag.
 
-#### Artikel 7. Schade aan vaste en vlottende activa
+##### Artikel 7. Schade aan vaste en vlottende activa
 
 1. De hoogte van de tegemoetkoming in de schade, bedoeld in [artikel 4, eerste lid, onderdeel **d**, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=4) bedraagt 65% van het schadebedrag.
 
@@ -74,15 +97,15 @@ De hoogte van de tegemoetkoming in de schade, bedoeld in [artikel 4, eerste lid,
 
 3. In afwijking van het eerste lid bedraagt de hoogte van de tegemoetkoming voor schade, bedoeld in [artikel 4, eerste lid, onderdeel **d**, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=4) voor een gedupeerd openbaar lichaam 58,5% van het schadebedrag.
 
-#### Artikel 8. Opstartkosten
+##### Artikel 8. Opstartkosten
 
 De hoogte van de tegemoetkoming in de kosten, bedoeld in [artikel 4, eerste lid, onderdeel g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=4) bedraagt 65% van de kosten.
 
-#### Artikel 9. Bereddings- en opruimingskosten bedrijven
+##### Artikel 9. Bereddings- en opruimingskosten bedrijven
 
 De hoogte van de tegemoetkoming in de kosten, bedoeld in [artikel 4, onderdelen **i** en **j**, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=4), gemaakt ter voorkoming, beperking of opruiming van schade als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0015647&paragraaf=2&artikel=7&z=2003-10-22&g=2003-10-22), bedraagt 65% van het kostenbedrag.
 
-#### Artikel 10. Drempelbedrag
+##### Artikel 10. Drempelbedrag
 
 1. Indien de som van de schade- en kostenbedragen, bedoeld in de [artikelen 6 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0015647&paragraaf=2&artikel=6&z=2003-10-22&g=2003-10-22), niet meer bedraagt dan € 1.000, heeft de gedupeerde geen recht op een tegemoetkoming in de schade en kosten.
 
@@ -90,25 +113,25 @@ De hoogte van de tegemoetkoming in de kosten, bedoeld in [artikel 4, onderdelen 
 
 3. Indien de som van de schade- en kostenbedragen, bedoeld in de [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0015647&paragraaf=2&artikel=3&z=2003-10-22&g=2003-10-22), voor particulieren niet meer bedraagt dan € 500, heeft de gedupeerde geen recht op een tegemoetkoming in de schade en kosten.
 
-#### Artikel 11. Evacuatiekosten
+##### Artikel 11. Evacuatiekosten
 
 1. De hoogte van de tegemoetkoming in de kosten, bedoeld in [artikel 4, eerste lid, onderdeel **h**, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=4) bedraagt 100% van het kostenbedrag als gevolg van een door het bevoegd gezag geboden of geadviseerd verlaten van de woon- of vestigingsplaats, doch ten minste € 680.
 
 2. Tenzij de stichting of vereniging een zorginstelling of onderneming in stand houdt, bedraagt in afwijking van het eerste lid de hoogte van de tegemoetkoming voor particulieren, kerkgenootschappen, verenigingen en stichtingen 100% van het kostenbedrag als gevolg van een door het bevoegd gezag geboden of geadviseerd verlaten van de woon- of vestigingsplaats, doch ten minste € 230 en ten hoogste € 455.
 
-#### Artikel 12
+##### Artikel 12
 
 Het eigen risico als gevolg van het resultaat van de berekeningen, genoemd in de [artikelen 7 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0015647&paragraaf=2&artikel=7&z=2003-10-22&g=2003-10-22), bedraagt voor bedrijven niet meer dan € 4.550.
 
 #### § 3. Berekeningsgrondslag
 
-#### Artikel 13
+##### Artikel 13
 
 Het uurloon, bedoeld in de [artikelen 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010000&artikel=2), en [3, derde lid, van het Besluit tegemoetkoming schade bij rampen en zware ongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0010000&artikel=3) wordt vastgesteld op € 17,34 bruto per mensuur.
 
 #### § 4. Procedure
 
-#### Artikel 14
+##### Artikel 14
 
 1. Degene die aanspraak wenst te maken op een tegemoetkoming in de schade of kosten meldt dit uiterlijk 24 oktober 2003 bij LASER, vestiging Diemen, door middel van het daartoe bestemde schaderegistratieformulier. Een melding van schade- of kosten kan tot deze datum worden aangevuld.
 
@@ -124,11 +147,11 @@ Het uurloon, bedoeld in de [artikelen 2, tweede lid](https://wetten.overheid.nl/
 
 7. Niet tijdig ontvangen formulieren worden niet in behandeling genomen, een melding of aanvraag wordt dan niet ontvankelijk verklaard.
 
-#### Artikel 15
+##### Artikel 15
 
 De minister beslist binnen dertien weken na ontvangst van een aanvraag.
 
-#### Artikel 16
+##### Artikel 16
 
 De beschikking op de aanvraag bevat in ieder geval:
 
@@ -140,17 +163,17 @@ De beschikking op de aanvraag bevat in ieder geval:
 
 - d. het bedrag van de tegemoetkoming.
 
-#### Artikel 17
+##### Artikel 17
 
 Het college van burgemeester en wethouders van de gemeente De Ronde Venen draagt zorg voor de verspreiding van de door LASER vastgestelde schaderegistratieformulieren.
 
 #### § 5. Slotbepalingen
 
-#### Artikel 18
+##### Artikel 18
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 19
+##### Artikel 19
 
 Deze regeling wordt aangehaald als: Regeling tegemoetkoming schade bij dijkdoorbraak te Wilnis 2003.
 

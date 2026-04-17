@@ -1,14 +1,41 @@
 ---
-title: "Wet HCNM"
+title: "Wet van 31 oktober 2002, houdende bepalingen inzake rechtspersoonlijkheid, privileges en immuniteiten van de Hoge Commissaris inzake Nationale Minderheden (Wet HCNM)"
 identifier: "BWBR0014169"
-categorie: "Overig"
-publicatiedatum: 2003-01-01
-laatste_update: 2003-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0014169"
+country: "nl"
+rank: "wet"
+publication_date: "2003-01-01"
+last_updated: "2003-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0014169"
+soort: "wet"
+stam_id: "3251433"
+version_id: "4999232"
+internal_id: "C5051231"
+label_id: "3223744"
+dtd_version: "2.0"
+original_entry_into_force: "2003-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0014169/2003-01-01/0"
+intitule_bron: "Stb.2002-580"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-10-31"
+intitule_published: "2002-12-05"
+intitule_in_force: "2002-12-05"
+intitule_status: "goed"
+original_publication: "Stb.2002-580"
+original_signed_date: "2002-10-31"
+original_published_date: "2002-12-05"
+original_effect: "nieuwe-regeling"
+original_dossier: "27194"
+original_url_id: "stb-2002-580"
+entry_into_force_date: "2003-01-01"
+jci_1_3: "jci1.3:c:BWBR0014169&z=2003-01-01&g=2003-01-01"
+jci_1_0: "1.0:c:BWBR0014169&g=2003-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet HCNM"
+signed_date: "2002-10-31"
+entry_into_force: "2003-01-01"
 ---
-
-# Wet HCNM
+# Wet van 31 oktober 2002, houdende bepalingen inzake rechtspersoonlijkheid, privileges en immuniteiten van de Hoge Commissaris inzake Nationale Minderheden (Wet HCNM)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +43,7 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is de Hoge Commissaris 
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 1. In deze wet wordt verstaan onder:
 
@@ -46,13 +73,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2. Onze Minister kan andere personen dan bedoeld in het eerste lid, onder j, voor de toepassing van deze wet aanmerken als gezinslid, indien onverkorte toepassing van dit onderdeel zou leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 2. Rechtspersoonlijkheid
+##### Artikel 2. Rechtspersoonlijkheid
 
 1. De HCNM bezit rechtspersoonlijkheid.
 
 2. Voor de toepassing van deze wet wordt de OVSE gelijkgesteld met een volkenrechtelijke organisatie waarvan de HCNM onderdeel is. De in deze wet opgenomen privileges en immuniteiten zullen op gelijke wijze worden toegepast als de privileges en immuniteiten die zijn toegekend aan andere in Nederland gevestigde volkenrechtelijke organisaties of aan onderdelen daarvan.
 
-#### Artikel 3. Bepalingen omtrent de onschendbaarheid van gebouwen en terreinen
+##### Artikel 3. Bepalingen omtrent de onschendbaarheid van gebouwen en terreinen
 
 1. Gebouwen en terreinen zijn onschendbaar.
 
@@ -74,7 +101,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - c. door de Nederlandse autoriteiten worden gezocht voor uitlevering aan of uitzetting naar een andere staat.
 
-#### Artikel 4. Communicatie
+##### Artikel 4. Communicatie
 
 1. De HCNM kan vrijelijk en zonder vereiste bijzondere toestemming communiceren voor alle officiële doeleinden.
 
@@ -84,15 +111,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 4. Alle aan de HCNM gerichte en door de HCNM gezonden berichten, ongeacht de wijze van verzending, zijn onschendbaar.
 
-#### Artikel 5. Goederen
+##### Artikel 5. Goederen
 
 Alle goederen die de HCNM in het kader van de vervulling van zijn officiële functies krachtens rechtsgeldige titel onder zich heeft, waar deze zich ook bevinden en wie deze ook in bezit heeft, zijn vrij van doorzoeking, revindicatie, strafrechtelijk en civielrechtelijk beslag, confiscatie, onteigening en vordering.
 
-#### Artikel 6. Archieven
+##### Artikel 6. Archieven
 
 De archieven zijn onschendbaar.
 
-#### Artikel 7. Immuniteit van rechtsmacht
+##### Artikel 7. Immuniteit van rechtsmacht
 
 Binnen het kader van de vervulling van zijn officiële functies geniet de HCNM immuniteit van alle vormen van rechtsmacht, behalve in het geval van:
 
@@ -102,7 +129,7 @@ Binnen het kader van de vervulling van zijn officiële functies geniet de HCNM i
 
 - c. een civiele actie die verband houdt met een overlijdensgeval of persoonlijk letsel, veroorzaakt door een handeling of nalatigheid door de HCNM of een van zijn functionarissen.
 
-#### Artikel 8. Vrijstelling van belastingen en heffingen
+##### Artikel 8. Vrijstelling van belastingen en heffingen
 
 1. Binnen het kader van de vervulling van zijn officiële functies zijn de HCNM en diens eigendom vrijgesteld van alle directe belastingen, geheven op landelijk, provinciaal of lokaal niveau.
 
@@ -128,7 +155,7 @@ Binnen het kader van de vervulling van zijn officiële functies geniet de HCNM i
 
 4. Goederen die belastingvrij zijn verworven of geïmporteerd ingevolge dit artikel, mogen niet worden verkocht, geschonken of anderszins vervreemd, anders dan met inachtneming van de door Onze Minister van Financiën gestelde voorschriften en beperkingen.
 
-#### Artikel 9. Vrijheid van beperkingen ten aanzien van financiële bezittingen
+##### Artikel 9. Vrijheid van beperkingen ten aanzien van financiële bezittingen
 
 De HCNM is niet onderworpen aan financiële controles, regelingen, kennisgevingsvereisten met betrekking tot financiële transacties, of moratoria van enigerlei aard, en kan, binnen het kader van de vervulling van zijn officiële functies, vrijelijk:
 
@@ -142,7 +169,7 @@ De HCNM is niet onderworpen aan financiële controles, regelingen, kennisgevings
 
 - e. fondsen werven op elke door hem wenselijk geachte wijze, met dien verstande dat de HCNM met betrekking tot de werving van fondsen binnen Nederland de toestemming van Onze Minister van Financiën dient te verkrijgen.
 
-#### Artikel 10. Privileges en immuniteiten van functionarissen van de HCNM, functionarissen van de OVSE, alsmede van deskundigen
+##### Artikel 10. Privileges en immuniteiten van functionarissen van de HCNM, functionarissen van de OVSE, alsmede van deskundigen
 
 1. Functionarissen van de HCNM genieten, met het oog op een onafhankelijke vervulling van hun officiële functies, de volgende privileges en immuniteiten:
 
@@ -182,7 +209,7 @@ De HCNM is niet onderworpen aan financiële controles, regelingen, kennisgevings
 
 - b. een civiele actie van een derde wegens schade die het gevolg is van een ongeval veroorzaakt door een motorvoertuig dat eigendom is van of dat bestuurd werd door of bediend namens een functionaris van de HCNM, een functionaris van de OVSE of een deskundige.
 
-#### Artikel 11. Aanvullende bepalingen met betrekking tot privileges en immuniteiten
+##### Artikel 11. Aanvullende bepalingen met betrekking tot privileges en immuniteiten
 
 1. De Secretaris-Generaal van de OVSE doet afstand van de immuniteit van de betrokken functionarissen van de HCNM, van de OVSE en van deskundigen in omstandigheden waarin de Secretaris-Generaal van mening is dat deze immuniteit de rechtsgang zou belemmeren, en in alle gevallen waarin daarvan afstand kan worden gedaan zonder dat inbreuk wordt gemaakt op het doel waarvoor deze immuniteit werd verleend.
 
@@ -190,13 +217,13 @@ De HCNM is niet onderworpen aan financiële controles, regelingen, kennisgevings
 
 3. De HCNM en de OVSE werken te allen tijde samen met de bevoegde Nederlandse instanties teneinde een goede rechtsbedeling te vergemakkelijken en misbruik van de krachtens de bepalingen van deze wet verleende voorrechten en immuniteiten door functionarissen van de HCNM en van de OVSE te voorkomen.
 
-#### Artikel 12. Sociale zekerheid
+##### Artikel 12. Sociale zekerheid
 
 1. In het geval dat de OVSE een eigen stelsel van sociale zekerheid heeft dat vergelijkbaar is met het Nederlandse stelsel, of deelneemt aan een met de Nederlandse regeling vergelijkbaar stelsel van sociale zekerheid, zijn de HCNM, diens functionarissen en andere werknemers op wie het bovengenoemde stelsel van toepassing is uitgezonderd van de Nederlandse sociale zekerheids-bepalingen, tenzij de functionarissen en andere werknemers op wie het bovengenoemde stelsel van toepassing is in Nederland betaalde arbeid verrichten anders dan uit hoofde van de vorenbedoelde betrekking.
 
 2. Het eerste lid van dit artikel is van overeenkomstige toepassing op gezinsleden die deel uitmaken van het huishouden van personen, bedoeld in het eerste lid, tenzij zij in Nederland in dienst zijn bij een andere werkgever dan de OVSE, arbeid als zelfstandige verrichten of uitkeringen ingevolge het Nederlandse stelsel van sociale zekerheid ontvangen.
 
-#### Artikel 13. Tewerkstelling van gezinsleden
+##### Artikel 13. Tewerkstelling van gezinsleden
 
 1. Aan gezinsleden die deel uitmaken van het huishouden van functionarissen van de HCNM wordt toegestaan arbeid in loondienst te verrichten voor de tijdsduur van de tewerkstelling van de in dit artikel bedoelde HCNM-functionarissen.
 
@@ -204,7 +231,7 @@ De HCNM is niet onderworpen aan financiële controles, regelingen, kennisgevings
 
 3. Met betrekking tot de in het eerste lid van dit artikel bedoelde arbeid in loondienst is het Nederlandse recht van toepassing. Tevens vallen personen die arbeid verrichten als bedoeld in dat artikellid onder de Nederlandse sociale zekerheid.
 
-#### Artikel 14. Kennisgeving
+##### Artikel 14. Kennisgeving
 
 De HCNM stelt Onze Minister onmiddellijk in kennis van:
 
@@ -214,7 +241,7 @@ De HCNM stelt Onze Minister onmiddellijk in kennis van:
 
 - c. de aankomst en het definitieve vertrek van bedienend personeel van personen, bedoeld in onderdeel a, en, voor zover van toepassing, het feit dat de dienstbetrekking tussen hen en de personen, bedoeld in onderdeel a, beëindigd is.
 
-#### Artikel 15. Identiteitsbewijs
+##### Artikel 15. Identiteitsbewijs
 
 Onze Minister verstrekt identiteitskaarten met een foto van de houder aan:
 
@@ -228,15 +255,15 @@ Onze Minister verstrekt identiteitskaarten met een foto van de houder aan:
 
 Deze identiteitskaart strekt tot bewijs van de identiteit van de houder tegenover alle bevoegde Nederlandse instanties.
 
-#### Artikel 16. Aanvullende privileges en immuniteiten
+##### Artikel 16. Aanvullende privileges en immuniteiten
 
 Bij algemene maatregel van bestuur kunnen in aanvulling op deze wet privileges en immuniteiten aan de HCNM en aan de in de [artikelen 10 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0014169&artikel=10&z=2003-01-01&g=2003-01-01) bedoelde personen worden toegekend indien daartoe met het oog op een overeenkomstige behandeling als andere in Nederland gevestigde volkenrechtelijke organisaties of onderdelen daarvan ten deel valt, aanleiding bestaat.
 
-#### Artikel 17. Inwerkingtredingsbepaling
+##### Artikel 17. Inwerkingtredingsbepaling
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 18. Citeertitel
+##### Artikel 18. Citeertitel
 
 Deze wet wordt aangehaald als: Wet HCNM.
 

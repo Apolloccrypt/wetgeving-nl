@@ -1,13 +1,37 @@
 ---
 title: "Regeling vergoedingen luchtverkeersdienstverlening BES"
 identifier: "BWBR0028801"
-categorie: "Milieu"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028801"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028801"
+soort: "ministeriele-regeling-BES"
+stam_id: "11028713"
+version_id: "19592292"
+internal_id: "C27483201"
+label_id: "11003194"
+dtd_version: "2.0"
+original_entry_into_force: "2012-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028801/2026-01-01/0"
+intitule_bron: "Stcrt.2010-15594"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2010-10-08"
+intitule_in_force: "2010-10-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-16549"
+original_signed_date: "2012-08-03"
+original_published_date: "2012-08-08"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2012-16549"
+entry_into_force_date: "2012-10-01"
+jci_1_3: "jci1.3:c:BWBR0028801&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0028801&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2012-08-03"
+entry_into_force: "2012-10-01"
 ---
-
 # Regeling vergoedingen luchtverkeersdienstverlening BES
 
 Gelet op [artikel 22a, vierde, vijfde en zesde lid, Luchtvaartwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=22a);
@@ -16,7 +40,7 @@ Besluit:
 
 Ook gepubliceerd in Stcrt. 2010/15885.
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -24,7 +48,7 @@ In deze regeling wordt verstaan onder:
 
 - **verleners van luchtverkeersdiensten:** rechtspersonen zoals aangewezen overeenkomstig [artikel 70, eerste lid, van Besluit luchtverkeer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028639&artikel=70).
 
-#### Artikel 2
+##### Artikel 2
 
 Vergoedingen worden aan de hand van een door de minister voor een periode van maximaal 5 jaren vast te stellen eenheidstarief berekend op basis van de formule opgenomen in de bij deze regeling behorende:
 
@@ -32,21 +56,21 @@ Vergoedingen worden aan de hand van een door de minister voor een periode van ma
 
 - b. [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028801&bijlage=2&z=2026-01-01&g=2026-01-01) voor zover het betreft luchtverkeersdiensten aan naderings- en terminalverkeer.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De verleners van luchtverkeersdiensten dragen zorg voor de bekendmaking van de hoogte van het eenheidstarief van vergoedingen.
 
 2. De bekendmaking vindt plaats in de luchtvaartpublicaties, bedoeld in [artikel 70, eerste lid, onderdeel f, Besluit luchtverkeer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028639&artikel=70).
 
-#### Artikel 4
+##### Artikel 4
 
 Vergoedingen worden voldaan in USD.
 
-#### Artikel 5
+##### Artikel 5
 
 De verleners van luchtverkeersdiensten dragen zorg voor de inning van vergoedingen.
 
-#### Artikel 6
+##### Artikel 6
 
 Betaling van vergoedingen geschiedt aan de verlener van luchtverkeersdiensten of aan de door de verlener aangewezen gemachtigde door:
 
@@ -54,11 +78,11 @@ Betaling van vergoedingen geschiedt aan de verlener van luchtverkeersdiensten of
 
 - b. overmaking van het verschuldigde bedrag.
 
-#### Artikel 7
+##### Artikel 7
 
 Vergoedingen worden betaald door de betalingsplichtigen, bedoeld in [artikel 22a, eerste lid, van de Luchtvaartwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=22a), binnen 30 dagen na de dag van de verzending van de rekening door de verlener van luchtverkeersdiensten.
 
-#### Artikel 8
+##### Artikel 8
 
 Van de verplichting tot het betalen van vergoedingen zijn vrijgesteld:
 
@@ -78,15 +102,15 @@ Van de verplichting tot het betalen van vergoedingen zijn vrijgesteld:
 
 - d. de gebruikers van luchtvaartuigen, anders dan bedoeld in de onderdelen a tot en met c, voor de periode van 1 januari 2026 tot en met 31 december 2028 tot een bedrag van USD 88,80 per eenheidstarief van de overeenkomstig [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028801&artikel=2&z=2026-01-01&g=2026-01-01), te berekenen vergoeding voor de verstrekking van diensten in het kader van ATC als bedoeld in [artikel 1, eerste lid, van het Besluit luchtverkeer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028639&artikel=1).
 
-#### Artikel 9
+##### Artikel 9
 
 Wijzigt de Regeling vervoer gevaarlijke stoffen door de lucht BES.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling treedt in werking met ingang van 10 oktober 2010.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze regeling wordt aangehaald als: Regeling vergoedingen luchtverkeersdienstverlening BES.
 

@@ -1,13 +1,38 @@
 ---
 title: "Uitvoeringsregeling fiscaliteit in overgangsperiode BES"
 identifier: "BWBR0028798"
-categorie: "Overig"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028798"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028798"
+soort: "ministeriele-regeling-BES"
+stam_id: "11027643"
+version_id: "18020052"
+internal_id: "C25073801"
+label_id: "11002714"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028798/2010-10-10/0"
+intitule_bron: "Stcrt.2010-15646"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-10-04"
+intitule_published: "2010-10-08"
+intitule_in_force: "2010-10-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-15646"
+original_signed_date: "2010-10-04"
+original_published_date: "2010-10-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-15646"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028798&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028798&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-10-04"
+entry_into_force: "2010-10-10"
 ---
-
 # Uitvoeringsregeling fiscaliteit in overgangsperiode BES
 
 Gelet op [artikel 13b, vijfde lid, van de Wet geldstelsel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&artikel=13b)
@@ -18,7 +43,7 @@ Treedt volgens artikel 13a, onderdeel a, van de Wet geldstelsel BES (Stb. 2010/3
 
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 Deze regeling verstaat onder:
 
@@ -30,7 +55,7 @@ Deze regeling verstaat onder:
 
 #### § 1. In de overgangsperiode als wet van toepassing zijnde Landsverordening op de inkomstenbelasting 1943
 
-#### Artikel 2
+##### Artikel 2
 
 1. Voor de toepassing van de in [artikel 13b, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&artikel=13b) bedoelde verordening die in de overgangsperiode als wet van toepassing is, wordt gedurende die overgangsperiode in de tekst van de verordening onder het genoemde in kolom II het genoemde in kolom III verstaan:
 
@@ -51,7 +76,7 @@ Deze regeling verstaat onder:
 
 #### § 2. In de overgangsperiode als wet van toepassing zijnde Landsverordening op de loonbelasting 1976
 
-#### Artikel 3
+##### Artikel 3
 
 1. Voor de toepassing van de in [artikel 13b, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&artikel=13b) bedoelde verordening die in de overgangsperiode als wet van toepassing is, wordt gedurende die overgangsperiode in de tekst van de verordening onder het genoemde in kolom II het genoemde in kolom III verstaan:
 
@@ -66,7 +91,7 @@ Deze regeling verstaat onder:
 
 #### § 3. In de overgangsperiode als wet van toepassing zijnde Landsverordening op de winstbelasting 1940
 
-#### Artikel 4
+##### Artikel 4
 
 1. Voor de toepassing van de in [artikel 13b, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&artikel=13b) bedoelde verordening die in de overgangsperiode als wet van toepassing is, wordt gedurende die overgangsperiode in de tekst van de landsverordening onder het genoemde in kolom II het genoemde in kolom III verstaan:
 
@@ -90,7 +115,7 @@ Deze regeling verstaat onder:
 
 #### § 4. In de overgangsperiode als wet van toepassing zijnde Landsverordening omzetbelasting 1999
 
-#### Artikel 5
+##### Artikel 5
 
 1. Voor de toepassing van de in [artikel 13b, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&artikel=13b) bedoelde verordening die in de overgangsperiode als wet van toepassing is, wordt gedurende die overgangsperiode in de tekst van de verordening onder het genoemde in kolom II het genoemde in kolom III verstaan:
 
@@ -105,7 +130,7 @@ Deze regeling verstaat onder:
 
 #### § 5. In de overgangsperiode als wet van toepassing zijnde Landsverordening belasting op bedrijfsomzetten 1997
 
-#### Artikel 6
+##### Artikel 6
 
 1. Voor de toepassing van de in [artikel 13b, eerste lid, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&artikel=13b) bedoelde verordening die in de overgangsperiode als wet van toepassing is, wordt gedurende die overgangsperiode in de tekst van de verordening onder het genoemde in kolom II het genoemde in kolom III verstaan:
 
@@ -119,7 +144,7 @@ Deze regeling verstaat onder:
 
 #### § 6. In de overgangsperiode als wet van toepassing zijnde Overdrachtsbelastingverordening
 
-#### Artikel 7
+##### Artikel 7
 
 1. Voor de toepassing van de in [artikel 13b, eerste lid, onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&artikel=13b) bedoelde verordening die in de overgangsperiode als wet van toepassing is, wordt gedurende die overgangsperiode in de tekst van de verordening onder het genoemde in kolom II het genoemde in kolom III verstaan:
 
@@ -132,7 +157,7 @@ Deze regeling verstaat onder:
 
 #### § 7. In de overgangsperiode als wet van toepassing zijnde Successiebelastingverordening 1908
 
-#### Artikel 8
+##### Artikel 8
 
 1. Voor de toepassing van de in [artikel 13b, eerste lid, onderdeel g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&artikel=13b) bedoelde verordening die in de overgangsperiode als wet van toepassing is, wordt gedurende die overgangsperiode in de tekst van de verordening onder het genoemde in kolom II het genoemde in kolom III verstaan:
 
@@ -152,7 +177,7 @@ Deze regeling verstaat onder:
 
 #### § 8. In de overgangsperiode als wet van toepassing zijnde Landsverordening spaarvermogensheffing
 
-#### Artikel 9
+##### Artikel 9
 
 1. Voor de toepassing van de in [artikel 13b, eerste lid, onderdeel h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&artikel=13b) bedoelde verordening die in de overgangsperiode als wet van toepassing is, wordt gedurende die overgangsperiode in de tekst van de verordening onder het genoemde in kolom II het genoemde in kolom III verstaan:
 
@@ -164,7 +189,7 @@ Deze regeling verstaat onder:
 
 #### § 9. In de overgangsperiode als wet van toepassing zijnde Zegelverordening 1908
 
-#### Artikel 10
+##### Artikel 10
 
 1. Voor de toepassing van de in [artikel 13b, eerste lid, onderdeel i, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&artikel=13b) bedoelde verordening die in de overgangsperiode als wet van toepassing is, wordt gedurende die overgangsperiode in de tekst van de verordening onder het genoemde in kolom II het genoemde in kolom III verstaan:
 
@@ -188,7 +213,7 @@ Deze regeling verstaat onder:
 
 #### § 10. In de overgangsperiode als wet van toepassing zijnde Gedistilleerdverordening 1908
 
-#### Artikel 11
+##### Artikel 11
 
 1. Voor de toepassing van de in [artikel 13b, eerste lid, onderdeel j, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&artikel=13b) bedoelde verordening die in de overgangsperiode als wet van toepassing is, wordt gedurende die overgangsperiode in de tekst van de verordening onder het genoemde in kolom II het genoemde in kolom III verstaan:
 
@@ -204,7 +229,7 @@ Deze regeling verstaat onder:
 
 #### § 11. In de overgangsperiode als wet van toepassing zijnde Landsverordening accijns op bier 1970
 
-#### Artikel 12
+##### Artikel 12
 
 1. Voor de toepassing van de in [artikel 13b, eerste lid, onderdeel k, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&artikel=13b) bedoelde verordening die in de overgangsperiode als wet van toepassing is, wordt gedurende die overgangsperiode in de tekst van de verordening onder het genoemde in kolom II het genoemde in kolom III verstaan:
 
@@ -220,7 +245,7 @@ Deze regeling verstaat onder:
 
 #### § 12. In de overgangsperiode als wet van toepassing zijnde Landsverordening Accijns van Sigaretten 1970
 
-#### Artikel 13
+##### Artikel 13
 
 1. Voor de toepassing van de in [artikel 13b, eerste lid, onderdeel l, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&artikel=13b) bedoelde verordening die in de overgangsperiode als wet van toepassing is, wordt gedurende die overgangsperiode in de tekst van de verordening onder het genoemde in kolom II het genoemde in kolom III verstaan:
 
@@ -238,7 +263,7 @@ Deze regeling verstaat onder:
 
 #### § 13. In de overgangsperiode als wet van toepassing zijnde Landsverordening van de eerste november 1932 tot heffing van een bijzonder invoerrecht op benzine
 
-#### Artikel 14
+##### Artikel 14
 
 1. Voor de toepassing van de in [artikel 13b, eerste lid, onderdeel m, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&artikel=13b) bedoelde verordening die in de overgangsperiode als wet van toepassing is, wordt gedurende die overgangsperiode in de tekst van de verordening onder het genoemde in kolom II het genoemde in kolom III verstaan:
 
@@ -253,7 +278,7 @@ Deze regeling verstaat onder:
 
 #### § 14. In de overgangsperiode als wet van toepassing zijnde Regeling bijzonder invoerrecht op benzine Bovenwindse Eilanden
 
-#### Artikel 15
+##### Artikel 15
 
 1. Voor de toepassing van de in [artikel 13b, eerste lid, onderdeel n, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&artikel=13b) bedoelde regeling die in de overgangsperiode als wet van toepassing is, dient wordt die overgangsperiode in de tekst van de regeling onder het genoemde in kolom II het genoemde in kolom III verstaan:
 
@@ -272,7 +297,7 @@ Deze regeling verstaat onder:
 
 #### § 15. In de overgangsperiode als wet van toepassing zijnde Landsverordening ter bevordering bedrijfsvestiging en hotelbouw
 
-#### Artikel 16
+##### Artikel 16
 
 1. Voor de toepassing van de in [artikel 13b, eerste lid, onderdeel o, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&artikel=13b) bedoelde verordening die in de overgangsperiode als wet van toepassing is, wordt gedurende die overgangsperiode in de tekst van de verordening onder het genoemde in kolom II het genoemde in kolom III verstaan:
 
@@ -295,7 +320,7 @@ Deze regeling verstaat onder:
 
 #### § 16. In de overgangsperiode als wet van toepassing zijnde Landsverordening belastingfaciliteiten industriële ondernemingen
 
-#### Artikel 17
+##### Artikel 17
 
 1. Voor de toepassing van de in [artikel 13b, eerste lid, onderdeel p, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&artikel=13b) bedoelde verordening die in de overgangsperiode als wet van toepassing is, wordt gedurende die overgangsperiode in de tekst van de verordening onder het genoemde in kolom II het genoemde in kolom III verstaan:
 
@@ -318,7 +343,7 @@ Deze regeling verstaat onder:
 
 #### § 17. In de overgangsperiode als wet van toepassing zijnde Landsverordening renovatie hotels
 
-#### Artikel 18
+##### Artikel 18
 
 Voor de toepassing van de in [artikel 13b, eerste lid, onderdeel q, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&artikel=13b) bedoelde verordening die in de overgangsperiode als wet van toepassing is, wordt gedurende die overgangsperiode in de tekst van de verordening onder het genoemde in kolom II het genoemde in kolom III verstaan:
 
@@ -330,7 +355,7 @@ Voor de toepassing van de in [artikel 13b, eerste lid, onderdeel q, van de wet](
 
 #### § 18. In de overgangsperiode als wet van toepassing zijnde Landsverordening ter bevordering van grondontwikkeling
 
-#### Artikel 19
+##### Artikel 19
 
 1. Voor de toepassing van de in [artikel 13b, eerste lid, onderdeel r, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&artikel=13b) bedoelde verordening die in de overgangsperiode als wet van toepassing is, wordt gedurende die overgangsperiode in de tekst van de verordening onder het genoemde in kolom II het genoemde in kolom III verstaan:
 
@@ -352,7 +377,7 @@ Voor de toepassing van de in [artikel 13b, eerste lid, onderdeel q, van de wet](
 
 #### § 19. In de overgangsperiode als wet van toepassing zijnde Landsverordening economische zones 2000
 
-#### Artikel 20
+##### Artikel 20
 
 1. Voor de toepassing van de in [artikel 13b, eerste lid, onderdeel s, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&artikel=13b) bedoelde verordening die in de overgangsperiode als wet van toepassing is, wordt gedurende die overgangsperiode in de tekst van de verordening onder het genoemde in kolom II het genoemde in kolom III verstaan:
 
@@ -367,7 +392,7 @@ Voor de toepassing van de in [artikel 13b, eerste lid, onderdeel q, van de wet](
 
 #### § 20. In de overgangsperiode als wet van toepassing zijnde Landsverordening tarief van invoerrechten
 
-#### Artikel 21
+##### Artikel 21
 
 1. Voor de toepassing van de in [artikel 13b, eerste lid, onderdeel t, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&artikel=13b) bedoelde verordening die in de overgangsperiode als wet van toepassing is, wordt gedurende die overgangsperiode in de tekst van de verordening onder het genoemde in kolom II het genoemde in kolom III verstaan:
 
@@ -384,7 +409,7 @@ Voor de toepassing van de in [artikel 13b, eerste lid, onderdeel q, van de wet](
 
 #### § 21. In de overgangsperiode als wet van toepassing zijnde Landsverordening In- en Uitvoer
 
-#### Artikel 22
+##### Artikel 22
 
 Voor de toepassing van de in [artikel 13b, eerste lid, onderdeel u, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&artikel=13b) bedoelde verordening die in de overgangsperiode als wet van toepassing is, wordt gedurende die overgangsperiode in de tekst van de verordening onder het genoemde in kolom II het genoemde in kolom III verstaan:
 
@@ -402,7 +427,7 @@ Voor de toepassing van de in [artikel 13b, eerste lid, onderdeel u, van de wet](
 
 #### § 22. In de overgangsperiode als wet van toepassing zijnde Landsverordening uitvoerrecht op delfstoffen
 
-#### Artikel 23
+##### Artikel 23
 
 1. Voor de toepassing van de in [artikel 13b, eerste lid, onderdeel v, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&artikel=13b) bedoelde verordening die in de overgangsperiode als wet van toepassing is, wordt gedurende die overgangsperiode in de tekst van de verordening onder het genoemde in kolom II het genoemde in kolom III verstaan:
 
@@ -418,7 +443,7 @@ Voor de toepassing van de in [artikel 13b, eerste lid, onderdeel u, van de wet](
 
 #### § 23. In de overgangsperiode als wet van toepassing zijnde Registratieverordening 1908
 
-#### Artikel 24
+##### Artikel 24
 
 1. Voor de toepassing van de in [artikel 13b, eerste lid, onderdeel x, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&artikel=13b) bedoelde verordening die in de overgangsperiode als wet van toepassing is, wordt gedurende die overgangsperiode in de tekst van de verordening onder het genoemde in kolom II het genoemde in kolom III verstaan:
 
@@ -433,7 +458,7 @@ Voor de toepassing van de in [artikel 13b, eerste lid, onderdeel u, van de wet](
 
 #### § 24. In de overgangsperiode als wet van toepassing zijnde Landsverordening op de Scheepsregistratiebelasting 1987
 
-#### Artikel 25
+##### Artikel 25
 
 1. Voor de toepassing van de in [artikel 13b, eerste lid, onderdeel y, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&artikel=13b) bedoelde verordening die in de overgangsperiode als wet van toepassing is, wordt gedurende die overgangsperiode in de tekst van de verordening onder het genoemde in kolom II het genoemde in kolom III verstaan:
 
@@ -446,7 +471,7 @@ Voor de toepassing van de in [artikel 13b, eerste lid, onderdeel u, van de wet](
 
 #### § 25. In de overgangsperiode als wet van toepassing zijnde Algemene Landsverordening Landsbelastingen
 
-#### Artikel 26
+##### Artikel 26
 
 1. Voor de toepassing van de in [artikel 13b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&artikel=13b) genoemde Algemene Landsverordening Landsbelastingen die in de overgangsperiode als wet van toepassing is, wordt gedurende die overgangsperiode in de tekst van de verordening onder het genoemde in kolom II het genoemde in kolom III verstaan:
 
@@ -462,7 +487,7 @@ Voor de toepassing van de in [artikel 13b, eerste lid, onderdeel u, van de wet](
 
 #### § 26. In de overgangsperiode als wet van toepassing zijnde Invorderingsverordening 1961
 
-#### Artikel 27
+##### Artikel 27
 
 1. Voor de toepassing van de in [artikel 13b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&artikel=13b) genoemde Invorderingsverordening 1961 die in de overgangsperiode als wet van toepassing is, wordt gedurende die overgangsperiode in de tekst van die verordening onder het genoemde in kolom II het genoemde in kolom III verstaan:
 
@@ -477,7 +502,7 @@ Voor de toepassing van de in [artikel 13b, eerste lid, onderdeel u, van de wet](
 
 #### § 27. In de overgangsperiode als wet van toepassing zijnde Invorderingsverordening 1970
 
-#### Artikel 28
+##### Artikel 28
 
 1. Voor de toepassing van de in [artikel 13b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&artikel=13b) genoemde Invorderingsverordening 1970 die in de overgangsperiode als wet van toepassing is, wordt gedurende die overgangsperiode in de tekst van die verordening onder het genoemde in kolom II het genoemde in kolom III verstaan:
 
@@ -491,7 +516,7 @@ Voor de toepassing van de in [artikel 13b, eerste lid, onderdeel u, van de wet](
 
 #### § 28. In de overgangsperiode als wet van toepassing zijnde Landsverordening op de invordering van directe belastingen 1943
 
-#### Artikel 29
+##### Artikel 29
 
 1. Voor de toepassing van de in [artikel 13b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&artikel=13b) genoemde Landsverordening op de invordering van directe belastingen 1943 die in de overgangsperiode als wet van toepassing is, wordt gedurende die overgangsperiode in de tekst van de verordening onder het genoemde in kolom II het genoemde in kolom III verstaan:
 
@@ -506,7 +531,7 @@ Voor de toepassing van de in [artikel 13b, eerste lid, onderdeel u, van de wet](
 
 #### § 29. In de overgangsperiode als wet van toepassing zijnde Landsverordening houdende regeling van de invordering van belastingen, bijdragen en vergoedingen door middel van dwangschriften alsmede van de rechtspleging inzake van belastingen, bijdragen en vergoedingen
 
-#### Artikel 30
+##### Artikel 30
 
 1. Voor de toepassing van de in [artikel 13b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&artikel=13b) genoemde Landsverordening houdende regeling van de invordering van belastingen, bijdragen en vergoedingen door middel van dwangschriften alsmede van de rechtspleging inzake van belastingen, bijdragen en vergoedingen die in de overgangsperiode als wet van toepassing is, wordt gedurende die overgangsperiode in de tekst van de verordening onder het genoemde in kolom II het genoemde in kolom III verstaan:
 
@@ -521,7 +546,7 @@ Voor de toepassing van de in [artikel 13b, eerste lid, onderdeel u, van de wet](
 
 #### § 30. In de overgangsperiode als wet van toepassing zijnde Algemene Verordening I. U. en D. 1908
 
-#### Artikel 31
+##### Artikel 31
 
 1. Voor de toepassing van de in [artikel 13b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&artikel=13b) genoemde Algemene Verordening I. U. en D. 1908 die in de overgangsperiode als wet van toepassing is, wordt gedurende die overgangsperiode in de tekst van de verordening onder het genoemde in kolom II het genoemde in kolom III verstaan:
 
@@ -549,7 +574,7 @@ Voor de toepassing van de in [artikel 13b, eerste lid, onderdeel u, van de wet](
 
 ### Hoofdstuk III. Generieke leesaanwijzingen
 
-#### Artikel 32
+##### Artikel 32
 
 Voor zover de [artikelen 2 tot en met 31](https://wetten.overheid.nl/jci1.3:c:BWBR0028798&hoofdstuk=II&paragraaf=1&artikel=2&z=2010-10-10&g=2010-10-10) geen toepassing hebben gevonden, wordt voor de toepassing van de in [artikel 13b, eerste, onderdelen a tot en met y, en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&artikel=13b) genoemde verordeningen en regelingen die in de overgangsperiode als wet van toepassing zijn gedurende die overgangsperiode in de tekst van die verordeningen en regelingen onder het genoemde in kolom II en daarmee naar aard en strekking overeenkomende formuleringen ten aanzien van de in kolom II bedoelde regelingen het genoemde in kolom III verstaan:
 
@@ -618,7 +643,7 @@ Voor zover de [artikelen 2 tot en met 31](https://wetten.overheid.nl/jci1.3:c:BW
 | bk. | ‘Verordening op het Testamentenregister (P.B. 1919, no. 28)’ | Verordening op het Testamentenregister of een vergelijkbaar artikel in een gedurende de overgangsperiode met deze verordening vergelijkbare in de BES eilanden geldende regeling |
 | bl. | ‘de verordening d.d. 8 maart 1906 (P.B. no. 10)’ | Verordening d.d. 8 maart 1906 (P.B. no. 10) of een gedurende de overgangsperiode met deze verordening vergelijkbare in de BES eilanden geldende regeling |
 
-#### Artikel 33
+##### Artikel 33
 
 1. Voor zover de [artikelen 2 tot en met 31](https://wetten.overheid.nl/jci1.3:c:BWBR0028798&hoofdstuk=II&paragraaf=1&artikel=2&z=2010-10-10&g=2010-10-10) geen toepassing hebben gevonden, wordt voor de toepassing van de in [artikel 13b, eerste, onderdelen a tot en met y, en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&artikel=13b) genoemde verordeningen en regelingen die in de overgangsperiode als wet van toepassing zijn gedurende die overgangsperiode in de tekst van die verordeningen en regelingen onder het genoemde in kolom II en daarmee naar aard en strekking overeenkomende formuleringen ten aanzien van de in kolom II bedoelde begrippen en zinsneden het genoemde in kolom III verstaan:
 
@@ -697,7 +722,7 @@ Voor zover de [artikelen 2 tot en met 31](https://wetten.overheid.nl/jci1.3:c:BW
 
 - c. Bureau voor de Intellectuele Eigendom van de Nederlandse Antillen.
 
-#### Artikel 34
+##### Artikel 34
 
 1. De op de in [artikel 13b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&artikel=13b) gebaseerde regelingen zijn gedurende de overgangsperiode als ministeriële regeling van toepassing.
 
@@ -705,7 +730,7 @@ Voor zover de [artikelen 2 tot en met 31](https://wetten.overheid.nl/jci1.3:c:BW
 
 ### Hoofdstuk IV. Aanvullende bepalingen beroepsprocedure in overgangsperiode
 
-#### Artikel 35
+##### Artikel 35
 
 1. De artikelen 5, 6, eerste lid, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 en 20 van de in het voormalige land Nederlandse Antillen geldende Landsverordening op het beroep in belastingzaken 1940 blijven in aanvulling op de [artikelen 13g tot en met 13j van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&artikel=13g) en artikel 31 van de in de overgangsperiode als wet van toepassing zijnde Algemene Landsverordening Landsbelastingen gedurende de overgangsperiode van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
@@ -721,7 +746,7 @@ Voor zover de [artikelen 2 tot en met 31](https://wetten.overheid.nl/jci1.3:c:BW
 
 ### Hoofdstuk V. Slotbepalingen
 
-#### Artikel 36
+##### Artikel 36
 
 Deze ministeriële regeling treedt in werking op het in [artikel 13a, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&artikel=13a) bedoelde tijdstip en kan worden aangehaald als: Uitvoeringsregeling fiscaliteit in overgangsperiode BES.
 

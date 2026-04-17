@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Arabische Emiraten inzake wederzijdse rechtshulp in strafzaken"
 identifier: "BWBV0006928"
-categorie: "Internationaal recht"
-publicatiedatum: 2023-08-01
-laatste_update: 2023-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006928"
+country: "nl"
+rank: "verdrag"
+publication_date: "2023-08-01"
+last_updated: "2023-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006928"
+soort: "verdrag"
+stam_id: "10005595413"
+version_id: "10006131852"
+internal_id: "C10010001191"
+label_id: "10005577644"
+dtd_version: "2.0"
+original_entry_into_force: "2023-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006928/2023-08-01/0"
+intitule_bron: "Trb.2021-116"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2021-09-01"
+intitule_in_force: "2023-07-28"
+intitule_status: "goed"
+original_publication: "Trb.2021-116"
+original_published_date: "2021-09-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2021-116"
+entry_into_force_date: "2023-08-01"
+jci_1_3: "jci1.3:c:BWBV0006928&z=2023-08-01&g=2023-08-01"
+jci_1_0: "1.0:c:BWBV0006928&g=2023-08-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2023-08-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Arabische Emiraten inzake wederzijdse rechtshulp in strafzaken
 
 Het Koninkrijk der Nederlanden
@@ -30,7 +52,7 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Reikwijdte van de rechtshulp
+##### Artikel 1. Reikwijdte van de rechtshulp
 
 1. De Partijen verbinden zich ertoe elkaar, in overeenstemming met de bepalingen van dit Verdrag, in zo ruim mogelijke mate wederzijdse rechtshulp te verlenen bij strafrechtelijke onderzoeken, vervolgingen of procedures in strafzaken.
 
@@ -60,11 +82,11 @@ Zijn het volgende overeengekomen:
 
 4. Dit Verdrag is uitsluitend van toepassing op het geven van wederzijdse rechtshulp tussen de Partijen. Een natuurlijke of rechtspersoon kan hieraan geen enkel recht ontlenen om bewijs te verkrijgen, te weren of uit te sluiten of de uitvoering van een verzoek om rechtshulp te beletten.
 
-#### Artikel 2. Uitwisseling van informatie
+##### Artikel 2. Uitwisseling van informatie
 
 De Partijen kunnen informatie uitwisselen over de nationale wetten die van kracht zijn en de justitiële praktijk in hun onderscheiden landen met betrekking tot de implementatie van dit Verdrag.
 
-#### Artikel 3. Niet-toepassing
+##### Artikel 3. Niet-toepassing
 
 1. Dit Verdrag is niet van toepassing op:
 
@@ -78,7 +100,7 @@ De Partijen kunnen informatie uitwisselen over de nationale wetten die van krach
 
 2. Niets in dit Verdrag geeft een Partij het recht op het grondgebied van de andere Partij rechtsmacht uit te oefenen of taken uit te voeren die volgens het nationale recht uitsluitend voorbehouden zijn aan de autoriteiten van die andere Partij.
 
-#### Artikel 4. Centrale autoriteiten
+##### Artikel 4. Centrale autoriteiten
 
 1. De centrale autoriteiten van de Partijen behandelen verzoeken om wederzijdse rechtshulp overeenkomstig dit Verdrag.
 
@@ -96,7 +118,7 @@ De centrale autoriteit van het Koninkrijk der Nederlanden is:
 
 3. De Partijen stellen elkaar langs diplomatieke weg schriftelijk in kennis van elke verandering van de autoriteit die als centrale autoriteit is aangewezen.
 
-#### Artikel 5. Weigeringsgronden en voorwaarden voor het uitvoeren van een verzoek
+##### Artikel 5. Weigeringsgronden en voorwaarden voor het uitvoeren van een verzoek
 
 1. Rechtshulp wordt geweigerd indien:
 
@@ -132,7 +154,7 @@ De centrale autoriteit van het Koninkrijk der Nederlanden is:
 
 5. Indien de aangezochte Partij rechtshulp weigert, stelt zij de verzoekende Partij daarvan onverwijld op de hoogte alsmede van de redenen voor de weigering.
 
-#### Artikel 6. Geheimhouding en beperking van gebruik
+##### Artikel 6. Geheimhouding en beperking van gebruik
 
 1. De aangezochte Partij garandeert de geheimhouding van de feiten en de inhoud van het verzoek, behalve voor zover bekendmaking nodig is voor de uitvoering van het verzoek. Indien de aangezochte Partij niet kan voldoen aan het vereiste van geheimhouding, stelt zij de verzoekende Partij daarvan op de hoogte. Indien zij op de juiste wijze in kennis is gesteld, kan de verzoekende Partij besluiten het verzoek te handhaven of in te trekken.
 
@@ -140,7 +162,7 @@ De centrale autoriteit van het Koninkrijk der Nederlanden is:
 
 3. De verzoekende Partij gebruikt de ingevolge dit Verdrag verkregen informatie of bewijsmateriaal voor het onderzoek, de vervolging en de berechting waarop het verzoek betrekking heeft en in overeenstemming met de voorwaarden die in een bepaald geval zijn gesteld het gebruik van deze informatie of materialen. De verzoekende Partij gebruikt geen informatie of bewijsmateriaal voor doelen anders dan vermeld in het verzoek zonder voorafgaande toestemming van de aangezochte Partij.
 
-#### Artikel 7. Bescherming van gegevens
+##### Artikel 7. Bescherming van gegevens
 
 1. Voor de toepassing van dit artikel wordt onder **gegevens** verstaan: alle informatie betreffende een geïdentificeerde of identificeerbare natuurlijke persoon.
 
@@ -154,7 +176,7 @@ De centrale autoriteit van het Koninkrijk der Nederlanden is:
 
 6. De Partijen raadplegen elkaar indien een bevoegde gerechtelijke autoriteit, ingevolge nationale wetgeving, een besluit neemt over de toelaatbaarheid van het doorgeven van gegevens van de ene Partij naar de andere Partij, ingevolge dit Verdrag.
 
-#### Artikel 8. Kosten
+##### Artikel 8. Kosten
 
 1. De aangezochte Partij draagt de kosten van het uitvoeren van het verzoek om rechtshulp, met uitzondering van de volgende door de verzoekende Partij te dragen kosten:
 
@@ -166,7 +188,7 @@ De centrale autoriteit van het Koninkrijk der Nederlanden is:
 
 ### HOOFDSTUK II. SPECIFIEKE VORMEN VAN RECHTSHULP
 
-#### Artikel 9. Betekenen van documenten
+##### Artikel 9. Betekenen van documenten
 
 1. De aangezochte Partij voert, in overeenstemming met haar nationale wetgeving, verzoeken tot het betekenen van documenten in verband met een strafzaak uit.
 
@@ -174,13 +196,13 @@ De centrale autoriteit van het Koninkrijk der Nederlanden is:
 
 3. De aangezochte Partij voorziet de verzoekende Partij, nadat de betekening heeft plaatsgevonden, van een bewijs van betekening voorzien van de handtekening of het stempel van de autoriteit die het document heeft betekend, onder vermelding van de datum, tijd, plaats en wijze van aflevering alsmede de persoon aan wie de documenten zijn afgegeven. Indien de betekening niet heeft plaatsgevonden stelt de aangezochte Partij de verzoekende Partij onverwijld daarvan in kennis onder vermelding van de redenen hiervoor.
 
-#### Artikel 10. Beschikbaarheid van personen om te getuigen of mee te werken aan een onderzoek
+##### Artikel 10. Beschikbaarheid van personen om te getuigen of mee te werken aan een onderzoek
 
 1. De verzoekende Partij kan de aangezochte Partij om hulp vragen bij het uitnodigen van een persoon, niet zijnde een persoon op wie [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0006928&hoofdstuk=II&artikel=13&z=2023-08-01&g=2023-08-01) van dit Verdrag van toepassing is, om te getuigen of mee te werken aan een onderzoek in de verzoekende Partij. De verzoekende Partij verplicht zich ertoe passende voorzieningen te treffen voor de veiligheid van een dergelijke persoon.
 
 2. De aangezochte Partij nodigt de persoon uit en stelt de verzoekende Partij onverwijld in kennis van zijn antwoord. Indien de persoon instemt met het verzoek, neemt de aangezochte Partij alle noodzakelijke stappen om het verzoek te faciliteren. Indien de persoon niet instemt, wordt hij of zij om die reden niet onderworpen aan een straf of dwangmaatregel ingevolge de nationale wetgeving van de verzoekende Partij of aangezochte Partij.
 
-#### Artikel 11. Verhoor van personen op het grondgebied van de aangezochte Partij
+##### Artikel 11. Verhoor van personen op het grondgebied van de aangezochte Partij
 
 1. De aangezochte Partij neemt, in overeenstemming met haar nationale wetgeving, verklaringen af van getuigen, slachtoffers, verdachten en aangeklaagden, deskundigen of andere personen, en verzamelt dossiers, documenten en enig ander bewijsmateriaal dat in het verzoek om rechtshulp is aangegeven en zendt deze naar de verzoekende Partij.
 
@@ -192,7 +214,7 @@ De centrale autoriteit van het Koninkrijk der Nederlanden is:
 
 5. In overeenstemming met de nationale wetgeving van de aangezochte Partij, kunnen functionarissen van de verzoekende Partij en andere personen die betrokken zijn bij het proces in de verzoekende Partij, toestemming krijgen aanwezig te zijn wanneer de getuigenis wordt afgenomen op het grondgebied van de aangezochte Partij en deel te nemen aan het afnemen van deze getuigenissen op een wijze die gespecificeerd kan worden door de aangezochte Partij. De personen die aanwezig zijn bij de uitvoering van een verzoek kunnen toestemming krijgen om de autoriteiten van de aangezochte Partij de vragen te stellen die zijn toegestaan ingevolge de nationale wetgeving van de verzoekende Partij.
 
-#### Artikel 12. Overbrengen van personen in hechtenis om te getuigen of mee te werken aan een onderzoek
+##### Artikel 12. Overbrengen van personen in hechtenis om te getuigen of mee te werken aan een onderzoek
 
 1. Wanneer het gebruik van videoconferentie niet mogelijk is of niet passend wordt geacht, kan een persoon die in de aangezochte Partij in hechtenis zit, op verzoek van de verzoekende Partij tijdelijk naar het grondgebied van die Partij worden overgebracht om te getuigen of mee te werken aan een strafrechtelijke procedure in die Partij.
 
@@ -212,7 +234,7 @@ De centrale autoriteit van het Koninkrijk der Nederlanden is:
 
 6. Een persoon die in hechtenis zit en niet de in het tweede lid, onderdeel a, bedoelde toestemming geeft, wordt om die reden niet onderworpen aan een straf of dwangmaatregel ingevolge de nationale wetgeving van de verzoekende Partij of aangezochte Partij.
 
-#### Artikel 13. Immuniteit voor getuigen en deskundigen
+##### Artikel 13. Immuniteit voor getuigen en deskundigen
 
 1. Onverminderd de bepalingen van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0006928&hoofdstuk=II&artikel=10&z=2023-08-01&g=2023-08-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBV0006928&hoofdstuk=II&artikel=11&z=2023-08-01&g=2023-08-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0006928&hoofdstuk=II&artikel=12&z=2023-08-01&g=2023-08-01) van dit Verdrag, wordt een persoon die verschijnt voor de gerechtelijke autoriteiten van de verzoekende Partij om te getuigen of anderszins mee te werken aan een onderzoek of een persoon die voor dat doel wordt overgebracht, niet vervolgd, vastgehouden, gestraft noch aan enige andere beperking van zijn persoonlijke vrijheid onderworpen in de verzoekende Partij wegens handelen of nalaten te handelen voorafgaand aan zijn of haar vertrek uit de aangezochte Partij.
 
@@ -224,7 +246,7 @@ De centrale autoriteit van het Koninkrijk der Nederlanden is:
 
 5. Een persoon die erin toestemt te getuigen ingevolge [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0006928&hoofdstuk=II&artikel=10&z=2023-08-01&g=2023-08-01) of [12](https://wetten.overheid.nl/jci1.3:c:BWBV0006928&hoofdstuk=II&artikel=12&z=2023-08-01&g=2023-08-01) van dit Verdrag, wordt niet onderworpen aan vervolging op basis van zijn of haar verklaring als getuige of deskundige, uitgezonderd in het geval van meineed of belemmering van de rechtsgang.
 
-#### Artikel 14. Doortocht van personen in hechtenis
+##### Artikel 14. Doortocht van personen in hechtenis
 
 1. Een Partij kan, met inachtneming van haar nationale wetgeving, de doortocht over haar grondgebied toestaan van een persoon in hechtenis om wiens verschijning verzocht is door de andere Partij die om een dergelijke doortocht verzoekt.
 
@@ -232,7 +254,7 @@ De centrale autoriteit van het Koninkrijk der Nederlanden is:
 
 3. Een Partij kan echter weigeren in te stemmen met de overbrenging van zijn onderdanen.
 
-#### Artikel 15. Doorzoeking, bevriezing en inbeslagneming met het oog op het vergaren van bewijsmateriaal
+##### Artikel 15. Doorzoeking, bevriezing en inbeslagneming met het oog op het vergaren van bewijsmateriaal
 
 1. De aangezochte Partij voert, voor zover toegestaan door haar nationale wetgeving, een verzoek tot doorzoeking, bevriezing en inbeslagneming van documenten, materialen en voorwerpen uit met het oog op het vergaren van bewijsmateriaal.
 
@@ -242,13 +264,13 @@ De centrale autoriteit van het Koninkrijk der Nederlanden is:
 
 4. Op verzoek van de aangezochte Partij retourneert de verzoekende Partij de originele documenten, materialen en voorwerpen die ingevolge dit artikel zijn gestuurd wanneer deze niet langer nodig zijn voor het strafrechtelijk onderzoek, de vervolging of procedure waarop het verzoek betrekking heeft, tenzij de Partijen anderszins overeenkomen.
 
-#### Artikel 16. Videoconferentie
+##### Artikel 16. Videoconferentie
 
 1. Wanneer het belang van een efficiënte samenwerking gediend is met het horen van een persoon als getuige of als deskundige door de gerechtelijke autoriteiten, ingevolge [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0006928&hoofdstuk=II&artikel=11&z=2023-08-01&g=2023-08-01) van dit Verdrag, kan de verzoekende Partij verzoeken dat het verhoor door middel van videoconferentie plaatsvindt, mits dit niet in strijd is met de nationale wetgeving van de aangezochte Partij.
 
 2. Ten behoeve van de uitvoering van dit Verdrag kunnen de Partijen overeenkomen live video- of rechtstreekse televisieverbindingen of andere passende communicatiefaciliteiten in te zetten in overeenstemming met de nationale wetten en procedures van beide Partijen indien dit doelmatig en in het belang van de rechtspleging is.
 
-#### Artikel 17. Opbrengsten en hulpmiddelen van misdrijven
+##### Artikel 17. Opbrengsten en hulpmiddelen van misdrijven
 
 1. Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -270,7 +292,7 @@ De centrale autoriteit van het Koninkrijk der Nederlanden is:
 
 ### HOOFDSTUK III. PROCEDURELE BEPALINGEN
 
-#### Artikel 18. Inhoud van de verzoeken
+##### Artikel 18. Inhoud van de verzoeken
 
 1. Verzoeken om wederzijdse rechtshulp worden schriftelijk gedaan. Het verzoek dient te worden opgesteld in de officiële taal van de verzoekende Partij, vergezeld van een vertaling in de officiële taal van de aangezochte Partij of in de Engelse taal.
 
@@ -312,11 +334,11 @@ De centrale autoriteit van het Koninkrijk der Nederlanden is:
 
 - g. informatie over de toelagen en uitgaven die vergoed kunnen worden aan de persoon die verzocht wordt in de verzoekende Partij te verschijnen ten behoeve van het opmaken van getuigenissen.
 
-#### Artikel 19. Aanvullende informatie
+##### Artikel 19. Aanvullende informatie
 
 Indien de aangezochte Partij van mening is dat de informatie vervat in het verzoek onvoldoende is om het verzoek uit te kunnen voeren, kan de aangezochte Partij om aanvullende informatie verzoeken. De verzoekende Partij verstrekt de aanvullende informatie die de aangezochte Partij noodzakelijk acht om het verzoek uit te kunnen voeren.
 
-#### Artikel 20. Uitvoering van verzoeken
+##### Artikel 20. Uitvoering van verzoeken
 
 1. Verzoeken om rechtshulp worden onverwijld uitgevoerd door de bevoegde autoriteiten van de aangezochte Partij in overeenstemming met de nationale wetgeving van die Partij en, voor zover is toegestaan door de nationale wetgeving, op de wijze die door de verzoekende Partij wordt gevraagd.
 
@@ -332,19 +354,19 @@ Indien de aangezochte Partij van mening is dat de informatie vervat in het verzo
 
 ### HOOFDSTUK IV. SLOTBEPALINGEN
 
-#### Artikel 21. Compatibiliteit met andere verdragen
+##### Artikel 21. Compatibiliteit met andere verdragen
 
 Dit Verdrag doet geen afbreuk aan bestaande verplichtingen van de Partijen ingevolge andere verdragen en vormt ook geen belemmering voor de Partijen voor het verlenen van bijstand aan elkaar uit hoofde van andere verdragen of regelingen.
 
-#### Artikel 22. Territoriale toepassing
+##### Artikel 22. Territoriale toepassing
 
 Wat het Koninkrijk der Nederlanden betreft, is dit Verdrag van toepassing op het Europese deel van Nederland, het Caribische deel van Nederland (de eilanden Bonaire, Sint Eustatius en Saba) alsmede op Aruba, Curaçao en Sint Maarten, tenzij anders bepaald in de kennisgeving bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0006928&hoofdstuk=IV&artikel=24&z=2023-08-01&g=2023-08-01) van dit Verdrag. In het laatste geval kan het Koninkrijk der Nederlanden de toepassing van dit Verdrag te allen tijde uitbreiden tot een of meer van zijn afzonderlijke delen door middel van een kennisgeving aan de Verenigde Arabische Emiraten langs diplomatieke weg.
 
-#### Artikel 23. Overleg
+##### Artikel 23. Overleg
 
 De Partijen komen wanneer zij dit nodig achten bijeen om de toepassing van dit Verdrag te bespreken en kunnen tevens bijeenkomsten houden met de bevoegde autoriteiten van de Partijen teneinde de toepassing van dit Verdrag te vergemakkelijken, met name wat betreft kwesties als opleiding, het opstellen en gebruiken van standaardformulieren, het opstellen en uitvoeren van specifieke typen verzoeken of specifieke individuele verzoeken.
 
-#### Artikel 24. Inwerkingtreding, wijziging en beëindiging
+##### Artikel 24. Inwerkingtreding, wijziging en beëindiging
 
 1. Dit Verdrag treedt in werking op de eerste dag van de eerste maand na de datum van ontvangst van de laatste van de kennisgevingen waarin de Partijen elkaar langs diplomatieke weg mededelen dat aan de vereisten van hun nationale wetgeving is voldaan.
 

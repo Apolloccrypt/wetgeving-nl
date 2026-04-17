@@ -1,13 +1,35 @@
 ---
-title: "Administratief Akkoord tussen het Koninkrijk der Nederlanden en de Republiek Indonesië inzake het project "Aceh and Nias Sea Defense, Flood Protection, Refuges and Early Warning Systems Consultancy""
+title: "Administratief Akkoord tussen het Koninkrijk der Nederlanden en de Republiek Indonesië inzake het project \"Aceh and Nias Sea Defense, Flood Protection, Refuges and Early Warning Systems Consultancy\""
 identifier: "BWBV0001792"
-categorie: "Internationaal recht"
-publicatiedatum: 2006-03-13
-laatste_update: 2006-03-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001792"
+country: "nl"
+rank: "verdrag"
+publication_date: "2006-03-13"
+last_updated: "2006-03-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001792"
+soort: "verdrag"
+stam_id: "10002333003"
+version_id: "10002342932"
+internal_id: "C10006996701"
+label_id: "10002322814"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001792/2006-03-13/0"
+intitule_bron: "Trb.2006-90"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-03-13"
+intitule_published: "2006-04-26"
+intitule_status: "nogniet"
+original_publication: "Trb.2006-90"
+original_signed_date: "2006-03-13"
+original_published_date: "2006-04-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2006-90"
+jci_1_3: "jci1.3:c:BWBV0001792&z=2006-03-13&g=2006-03-13"
+jci_1_0: "1.0:c:BWBV0001792&g=2006-03-13"
+citeertitel_status: "redactioneel"
+signed_date: "2006-03-13"
+entry_into_force: "2006-04-26"
 ---
-
 # Administratief Akkoord tussen het Koninkrijk der Nederlanden en de Republiek Indonesië inzake het project "Aceh and Nias Sea Defense, Flood Protection, Refuges and Early Warning Systems Consultancy"
 
 The Netherlands Minister for Development Cooperation, being the competent Netherlands Authority for the purpose of this Administrative Arrangement, hereinafter referred to as ‘‘the Netherlands Party’’, represented in this matter by the Ambassador Extraordinary and Plenipotentiary of Her Majesty the Queen of the Netherlands, Dr. N. van Dam, and the Rehabilitation and Reconstruction Executing Agency for Aceh and Nias represented in this matter by Dr. Kuntoro Mangkusubroto, being the competent Indonesian Authority for the purpose of this Administrative Arrangement, hereinafter referred to as the ‘‘Indonesian Party’’,
@@ -18,7 +40,7 @@ Having regard to the provisions of Article 3 of the Agreement concerning Technic
 
 Have agreed as follows:
 
-#### Article I. The Project
+##### Article I. The Project
 
 1. The two Parties shall jointly carry out a project, to be known as the ‘‘Aceh and Nias Sea Defense, Flood Protection, Refuges and Early Warning Systems Consultancy’’, hereinafter referred to as ‘‘the Project’’.
 
@@ -26,13 +48,13 @@ Have agreed as follows:
 
 3. The cooperation between the two Parties is planned to last for a period of 30 months.
 
-#### Article II. The Netherlands Contribution
+##### Article II. The Netherlands Contribution
 
 1. The Netherlands Party shall make the following contribution to the Project: the required funds for the Aceh and Nias Sea Defence, Flood Protection, Refuges and Early Warning Strategy Consultancy.
 
 2. The value of the Netherlands contribution to the implementation of the Project is estimated at the amount of EUR 8 million.
 
-#### Article III. The Indonesian Contribution
+##### Article III. The Indonesian Contribution
 
 The Indonesian Party shall make the following contribution to the Project:
 
@@ -44,7 +66,7 @@ The Indonesian Party shall make the following contribution to the Project:
 
 - –. Tax exemption for goods and services procured under the contract.
 
-#### Article IV. The Executive Authorities
+##### Article IV. The Executive Authorities
 
 1. The Netherlands Party shall appoint the Directorate-General of International Cooperation of the Netherlands Ministry of Foreign Affairs as the Netherlands Executive Authority in charge of the implementation of the Project.
 
@@ -52,17 +74,17 @@ The Indonesian Party shall make the following contribution to the Project:
 
 The above mentioned Netherlands Executive Authority shall be represented in Indonesia, as far as the day to day operations of the Project are concerned, by the Netherlands Consultant.
 
-#### Article V. Delegation
+##### Article V. Delegation
 
 Each of the Executive Authorities, mentioned in Article IV, shall be entitled to delegate under its own responsibility, partly or entirely, its duties in connection with the Project to a third party. In doing so, the Executive Authorities shall inform each other in writing of the names of the persons or institutions delegated and of the extent of the delegation.
 
-#### Article VI. The Consultant
+##### Article VI. The Consultant
 
 The Netherlands Consultant shall be responsible to the Netherlands Executive Authority for the correct implementation of the Netherlands contribution.
 
 The Consultant shall act in close consultation with the Indonesian Executive Authority and respect the operational instructions given by the said Authority to the Indonesian personnel. The Indonesian Executive Authority shall provide the Consultant with any information that may be considered necessary for the execution of the Project and arrange meetings with local government and other authorities as necessary during the course of the Consultant’s work.
 
-#### Article VII. The Working Document
+##### Article VII. The Working Document
 
 1. The Executive Authorities agree that the Terms of Reference for Consulting Services as well as the approved detailed project proposal and work plan formulated by the Netherlands Consultant, establish a Working Document stating in detail the contract sum, the number and duties of the personnel, their job-descriptions, a time-table and a list of equipment and materials to be supplied by either Party.
 
@@ -70,31 +92,31 @@ The Consultant shall act in close consultation with the Indonesian Executive Aut
 
 3. The Working Document shall form an integral part of this Administrative Arrangement.
 
-#### Article VIII. Status of Netherlands Staff
+##### Article VIII. Status of Netherlands Staff
 
 The Netherlands staff to this Project shall enjoy the privileges mentioned in Article 4 of the Agreement.
 
-#### Article IX. Status of the Netherlands Equipment and Materials
+##### Article IX. Status of the Netherlands Equipment and Materials
 
 The provisions of Article 5 of the Agreement are applicable to the importation and exportation of the Netherlands equipment and materials for the Project.
 
 Upon completion of the project the ownership of the equipment and materials of the project shall be transferred to the Government of Indonesia unless otherwise agreed between the Executive Authorities.
 
-#### Article X. Reporting
+##### Article X. Reporting
 
 The Netherlands Consultant shall submit to both Executive Authorities quarterly reports in English on the progress made on the execution of the Project. On the termination of the Project the Consultant shall submit to all parties involved a final report in English on all aspects of the work executed in connection with the Project.
 
-#### Article XI. Evaluation
+##### Article XI. Evaluation
 
 1. Both Executive Authorities may indicate that an evaluation will be held.
 
 2. The composition of the evaluation missions will be defined jointly by the Executive Authorities.
 
-#### Article XII. Settlement of Disputes
+##### Article XII. Settlement of Disputes
 
 Any dispute arising out of the interpretation or implementation of this Administrative Arrangement which cannot be settled by consultations between the two Parties shall be referred to the respective Governments.
 
-#### Article XIII. Entry into Force and Duration
+##### Article XIII. Entry into Force and Duration
 
 This Administrative Arrangement shall be provisionally applied from the date of signature.
 

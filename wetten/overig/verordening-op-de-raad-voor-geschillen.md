@@ -1,13 +1,35 @@
 ---
 title: "Verordening op de Raad voor Geschillen"
 identifier: "BWBR0034658"
-categorie: "Overig"
-publicatiedatum: 2014-01-01
-laatste_update: 2014-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034658"
+country: "nl"
+rank: "pbo"
+publication_date: "2014-01-01"
+last_updated: "2014-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034658"
+soort: "pbo"
+stam_id: "12552463"
+version_id: "21147202"
+internal_id: "C30346311"
+label_id: "12523254"
+dtd_version: "2.0"
+original_entry_into_force: "2014-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034658/2014-01-01/0"
+intitule_bron: "Stcrt.2014-172"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2014-01-07"
+intitule_in_force: "2014-01-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-172"
+original_published_date: "2014-01-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-172"
+entry_into_force_date: "2014-01-01"
+jci_1_3: "jci1.3:c:BWBR0034658&z=2014-01-01&g=2014-01-01"
+jci_1_0: "1.0:c:BWBR0034658&g=2014-01-01"
+citeertitel_status: "officieel"
+entry_into_force: "2014-01-01"
 ---
-
 # Verordening op de Raad voor Geschillen
 
 Het bestuur van de Nederlandse beroepsorganisatie van accountants maakt, gelet op [artikel 23, eerste lid, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=23), onderstaande verordening bekend, welke door de ledenvergadering op 16 december 2013 is vastgesteld.
@@ -20,11 +42,11 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 Er is een Raad voor Geschillen, hierna te noemen: de Raad.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Raad bestaat uit de volgende leden:
 
@@ -46,7 +68,7 @@ Er is een Raad voor Geschillen, hierna te noemen: de Raad.
 
 5. De zittingsduur van de leden bedraagt maximaal vier jaar. Herbenoeming is eenmalig mogelijk.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een lid van de Raad is onpartijdig en onafhankelijk.
 
@@ -60,7 +82,7 @@ Er is een Raad voor Geschillen, hierna te noemen: de Raad.
 
 - d. een dienstverband met de NBA.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het lidmaatschap van de Raad eindigt:
 
@@ -78,7 +100,7 @@ Er is een Raad voor Geschillen, hierna te noemen: de Raad.
 
 #### Paragraaf 2. Bindend advies
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een ieder kan een burgerrechtelijk geschil ter zake van de beroepsuitoefening van een lid van de NBA aan de Raad voorleggen.
 
@@ -94,7 +116,7 @@ Er is een Raad voor Geschillen, hierna te noemen: de Raad.
 
 7. Op verzoek kan uitstel worden verleend van de in het vorige lid genoemde termijn.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het is aan de leden, de secretaris en de plaatsvervangend secretaris van de Raad verboden:
 
@@ -108,13 +130,13 @@ Er is een Raad voor Geschillen, hierna te noemen: de Raad.
 
 3. Over een verzoek tot uitsluiting als bedoeld in het vorige lid, beslist de voorzitter. Betreft het verzoek tot uitsluiting de voorzitter, dan beslist de plaatsvervangend voorzitter.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De Raad kan nadere inlichtingen, gegevens of bescheiden van partijen verlangen en gunt daartoe een redelijke termijn.
 
 2. Indien het verzoekschrift of het verweerschrift in een vreemde taal is gesteld en een vertaling voor een goede behandeling van het geschil noodzakelijk is, draagt de indiener zorg voor een vertaling.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De eiser is een depot verschuldigd ten behoeve van de vergoeding van de kosten van de procedure. Indien partijen gezamenlijk het geschil aan de Raad hebben voorgelegd zijn beide partijen een depot verschuldigd.
 
@@ -126,7 +148,7 @@ Er is een Raad voor Geschillen, hierna te noemen: de Raad.
 
 5. In afwijking van [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034658&paragraaf=2&artikel=5&z=2014-01-01&g=2014-01-01), wordt het geschil door arbitrage beslecht indien het depot, bedoeld in het vorige lid, niet binnen een maand wordt gestort.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De Raad neemt een geschil slechts in behandeling indien:
 
@@ -144,13 +166,13 @@ Er is een Raad voor Geschillen, hierna te noemen: de Raad.
 
 4. De Raad beslist naar de regelen des rechts, met inachtneming van de tussen partijen gesloten overeenkomst.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De secretaris stelt partijen in kennis van het in behandeling nemen van het geschil, met opgave van de leden van de Raad.
 
 2. De Raad houdt zitting met de voorzitter of een plaatsvervangend voorzitter en twee of vier leden, hierna te noemen de Kamer.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Op verzoek van partijen, kan de voorzitter of elk van de leden die een zaak behandelen, worden gewraakt op grond van feiten en omstandigheden waardoor de onpartijdigheid van de Kamer schade zou kunnen lijden.
 
@@ -162,7 +184,7 @@ Er is een Raad voor Geschillen, hierna te noemen: de Raad.
 
 5. Het verzoek om wraking wordt zo spoedig mogelijk behandeld door een kamer waarin het lid wiens wraking is verzocht, geen zitting heeft.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Op grond van feiten of omstandigheden als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034658&paragraaf=2&artikel=11&z=2014-01-01&g=2014-01-01), kan elk van de leden die een zaak behandelen, verzoeken zich te mogen verschonen.
 
@@ -172,7 +194,7 @@ Er is een Raad voor Geschillen, hierna te noemen: de Raad.
 
 4. Het verzoek om verschoning wordt zo spoedig mogelijk behandeld door een kamer waarin het lid dat om verschoning heeft verzocht, geen zitting heeft.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De betrokken partijen kunnen – tenzij de Kamer beveelt, dat zij in persoon verschijnen – zich ter zitting doen vertegenwoordigen door een daartoe gemachtigde. Partijen kunnen zich door een raadsman doen bijstaan.
 
@@ -184,7 +206,7 @@ Er is een Raad voor Geschillen, hierna te noemen: de Raad.
 
 5. De zakelijke inhoud van de mededelingen van partijen en van door derden afgelegde mondelinge verklaringen wordt door de secretaris op schrift gesteld. Aan een ter zitting niet verschenen partij wordt het proces-verbaal van de zitting toegezonden.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De Raad kan partijen, getuigen en overige belanghebbenden oproepen. De oproeping geschiedt per aangetekende verzending.
 
@@ -198,31 +220,31 @@ Er is een Raad voor Geschillen, hierna te noemen: de Raad.
 
 - b. zonder toestemming van de Kamer weigert te antwoorden op de hem gestelde vragen.
 
-#### Artikel 15
+##### Artikel 15
 
 Indien een partij niet voldoet aan de verplichting te verschijnen, inlichtingen te geven, stukken over te leggen of weigert antwoord te geven op vragen van de Kamer, kan de Kamer daaruit de gevolgtrekkingen maken die hem geraden voorkomen.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Het geschil kan slechts worden ingetrokken met toestemming van de wederpartij.
 
 2. De intrekking van het geschil wordt schriftelijk door de secretaris aan partijen bevestigd.
 
-#### Artikel 17
+##### Artikel 17
 
 Alle beslissingen van de Kamer worden genomen met gewone meerderheid van stemmen.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Indien naar het oordeel van de voorzitter het geringe belang van het geschil onmiddellijke schriftelijke afdoening rechtvaardigt, kan de Raad, indien partijen daarmee instemmen, de zaak zonder zitting afdoen.
 
 2. Indien de zaak zonder zitting wordt afgedaan geeft de Raad aan de eiser gelegenheid voor repliek te concluderen. Hierna kan de verweerder voor dupliek concluderen.
 
-#### Artikel 19
+##### Artikel 19
 
 De Kamer is bevoegd op verzoek een voorlopige voorziening te treffen, die hem nodig of nuttig voorkomt.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Indien de Kamer van oordeel is dat het geschil in staat van wijzen is, dan stelt hij zijn uitspraak vast.
 
@@ -230,19 +252,19 @@ De Kamer is bevoegd op verzoek een voorlopige voorziening te treffen, die hem no
 
 3. Van de uitspraak wordt een afschrift, aangetekend en ondertekend door de secretaris van de Raad, aan partijen toegezonden.
 
-#### Artikel 21
+##### Artikel 21
 
 1. De Kamer bepaalt door welke partij de kosten van de procedure worden gedragen. Ook kan hij besluiten om de kosten voor rekening van beide partijen te laten.
 
 2. Bij het vaststellen van de hoogte van de kosten stelt de Kamer vast in hoeverre zij kunnen worden voldaan uit het depot, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0034658&paragraaf=2&artikel=8&z=2014-01-01&g=2014-01-01).
 
-#### Artikel 22
+##### Artikel 22
 
 1. Vorderingen en verplichtingen die voortkomen uit de uitspraak van de Raad en rusten op een lid van de NBA dat de opdracht namens een accountantsorganisatie heeft uitgevoerd, worden overgenomen door de accountantsorganisatie of haar rechtsopvolger indien de accountantsorganisatie de opdrachtnemer bij die opdracht is.
 
 2. Het vorige lid is van overeenkomstige toepassing op het lid van de NBA dat werkzaam is bij een accountantskantoor met dien verstande dat de dagelijks beleidsbepalers zorg dragen voor het overnemen van de vorderingen en verplichtingen door het accountantskantoor.
 
-#### Artikel 23
+##### Artikel 23
 
 1. De uitspraak van de Raad wordt toegezonden aan de NBA en kan zonder enige vermelding van namen en woon- of vestigingsplaatsen op een door de NBA te bepalen wijze worden gepubliceerd.
 
@@ -250,11 +272,11 @@ De Kamer is bevoegd op verzoek een voorlopige voorziening te treffen, die hem no
 
 #### Paragraaf 3. Arbitrage
 
-#### Artikel 24
+##### Artikel 24
 
 Het bepaalde in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034658&paragraaf=2&z=2014-01-01&g=2014-01-01) is van overeenkomstige toepassing op de arbitrageprocedure, met uitzondering van [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034658&paragraaf=2&artikel=5&z=2014-01-01&g=2014-01-01).
 
-#### Artikel 25
+##### Artikel 25
 
 1. De Raad beslist als goede mannen naar billijkheid.
 
@@ -268,24 +290,24 @@ Het bepaalde in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034658&pa
 
 #### Paragraaf 4. Overgangs- en slotbepalingen
 
-#### Artikel 26
+##### Artikel 26
 
 De [Verordening op de Raad voor Geschillen 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031880) van 28 juni 2012 (Stcrt. 2013, 732) en de [Verordening op de Raad voor Geschillen 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031870) van 28 juni 2012 (Stcrt. 2013, 748) worden ingetrokken.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Op geschillen die zijn ingediend voor de inwerkingtreding van deze verordening blijven ten aanzien van de bevoegdheid en de rechtsvordering de bepalingen van toepassing, geldende ten tijde van de ontvangst van het verzoekschrift.
 
 2. Besluiten genomen op grond van [artikel 2, vierde lid, van de Verordening op de Raad voor Geschillen 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031880&artikel=2) van 28 juni 2012 (Stcrt. 2013, 732) en [artikel 2, vierde lid, van de Verordening op de Raad voor Geschillen 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031870&artikel=2) van 28 juni 2012 (Stcrt. 2013, 748) die gelden op het tijdstip van inwerkingtreding van deze verordening, worden geacht te zijn genomen op grond van deze verordening.
 
-#### Artikel 28
+##### Artikel 28
 
 Ten aanzien van de benoemingen die voor de eerste maal na inwerkingtreding van deze verordening plaatsvinden, kan van het bepaalde in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034658&paragraaf=1&artikel=2&z=2014-01-01&g=2014-01-01) worden afgeweken.
 
-#### Artikel 29
+##### Artikel 29
 
 Deze verordening wordt aangehaald als Verordening op de Raad voor Geschillen.
 
-#### Artikel 30
+##### Artikel 30
 
 De artikelen van deze verordening treden in werking op 1 januari 2014.

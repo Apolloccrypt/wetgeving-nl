@@ -1,13 +1,39 @@
 ---
-title: "Uitvoeringsbesluit inkomstenbelasting 2001"
+title: "Besluit van 20 december 2000, houdende vaststelling van het Uitvoeringsbesluit inkomstenbelasting 2001"
 identifier: "BWBR0012066"
-categorie: "Belastingrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012066"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012066"
+soort: "AMvB"
+stam_id: "1452443"
+version_id: "12271402"
+internal_id: "C16507911"
+label_id: "1411474"
+dtd_version: "2.0"
+original_entry_into_force: "2005-08-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012066/2026-01-01/0"
+intitule_bron: "Stb.2000-641"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-12-20"
+intitule_published: "2000-12-28"
+intitule_in_force: "2000-12-28"
+intitule_status: "goed"
+original_publication: "Stb.2005-433"
+original_signed_date: "2005-08-22"
+original_published_date: "2005-09-08"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2005-433"
+entry_into_force_date: "2005-08-22"
+jci_1_3: "jci1.3:c:BWBR0012066&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0012066&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsbesluit inkomstenbelasting 2001"
+signed_date: "2005-08-22"
+entry_into_force: "2005-08-22"
 ---
-
 # Besluit van 20 december 2000, houdende vaststelling van het Uitvoeringsbesluit inkomstenbelasting 2001
 
 Op de voordracht van de Staatssecretaris van Financiën van 17 november 2000, nr. WDB2000/872M, Directoraat-Generaal voor Fiscale Zaken, Directie Wetgeving Directe Belastingen;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen ([Hoofdstuk 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=1))
 
-#### Artikel 1. Reikwijdte en definitie
+##### Artikel 1. Reikwijdte en definitie
 
 1. Dit besluit geeft uitvoering aan de [artikelen 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.7), [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.6), [3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.11), [3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.18), [3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.20), [3.54](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54), [3.83](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.83), [3.126](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.126), [3.126a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.126a), [3.127](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.127), [4.14b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.14b), [4.21](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.21), [4.25](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.25), [5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.7), [5.20](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.20), [5.22](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.22), [5.23](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.23), [6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.1), [6.16](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.16), [6.25](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.25), [7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=7.6), [7.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=7.8), [10.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.8) en [10.9 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.9) en aan [artikel 10a van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=10a).
 
@@ -30,43 +56,43 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 2. Raamwerk ([Hoofdstuk 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=2))
 
-#### Artikel 2. Heffingsgrondslagen; keuzerecht voor buitenlandse belastingplichtigen; vermindering verschuldigde inkomstenbelasting bij kiezende belastingplichtige
+##### Artikel 2. Heffingsgrondslagen; keuzerecht voor buitenlandse belastingplichtigen; vermindering verschuldigde inkomstenbelasting bij kiezende belastingplichtige
 
 Vervallen
 
-#### Artikel 3. Heffingsgrondslagen; keuzerecht voor buitenlandse belastingplichtigen; vermindering bij inkomen uit werk en woning
+##### Artikel 3. Heffingsgrondslagen; keuzerecht voor buitenlandse belastingplichtigen; vermindering bij inkomen uit werk en woning
 
 Vervallen
 
-#### Artikel 4. Heffingsgrondslagen; keuzerecht voor buitenlandse belastingplichtigen; verrekening dividendbelasting alsmede bronbelasting op inkomsten uit spaargelden bij inkomen uit werk en woning
+##### Artikel 4. Heffingsgrondslagen; keuzerecht voor buitenlandse belastingplichtigen; verrekening dividendbelasting alsmede bronbelasting op inkomsten uit spaargelden bij inkomen uit werk en woning
 
 Vervallen
 
-#### Artikel 5. Heffingsgrondslagen; keuzerecht voor buitenlandse belastingplichtigen; doorschuifregeling
+##### Artikel 5. Heffingsgrondslagen; keuzerecht voor buitenlandse belastingplichtigen; doorschuifregeling
 
 Vervallen
 
-#### Artikel 6. Heffingsgrondslagen; keuzerecht voor buitenlandse belastingplichtigen; inhaalregeling
+##### Artikel 6. Heffingsgrondslagen; keuzerecht voor buitenlandse belastingplichtigen; inhaalregeling
 
 Vervallen
 
-#### Artikel 7. Heffingsgrondslagen; keuzerecht voor buitenlandse belastingplichtigen; vermindering bij inkomen uit aanmerkelijk belang
+##### Artikel 7. Heffingsgrondslagen; keuzerecht voor buitenlandse belastingplichtigen; vermindering bij inkomen uit aanmerkelijk belang
 
 Vervallen
 
-#### Artikel 8. Heffingsgrondslagen; keuzerecht voor buitenlandse belastingplichtigen; verrekening dividendbelasting alsmede bronbelasting op inkomsten uit spaargelden bij inkomen uit aanmerkelijk belang
+##### Artikel 8. Heffingsgrondslagen; keuzerecht voor buitenlandse belastingplichtigen; verrekening dividendbelasting alsmede bronbelasting op inkomsten uit spaargelden bij inkomen uit aanmerkelijk belang
 
 Vervallen
 
-#### Artikel 9. Heffingsgrondslagen; keuzerecht voor buitenlandse belastingplichtigen; vermindering bij voordeel uit sparen en beleggen
+##### Artikel 9. Heffingsgrondslagen; keuzerecht voor buitenlandse belastingplichtigen; vermindering bij voordeel uit sparen en beleggen
 
 Vervallen
 
-#### Artikel 10. Heffingsgrondslagen; keuzerecht voor buitenlandse belastingplichtigen; verrekening dividendbelasting alsmede bronbelasting op inkomsten uit spaargelden bij voordeel uit sparen en beleggen
+##### Artikel 10. Heffingsgrondslagen; keuzerecht voor buitenlandse belastingplichtigen; verrekening dividendbelasting alsmede bronbelasting op inkomsten uit spaargelden bij voordeel uit sparen en beleggen
 
 Vervallen
 
-#### Artikel 11. Heffingsgrondslagen; keuzerecht voor in het buitenland geworven deskundigen
+##### Artikel 11. Heffingsgrondslagen; keuzerecht voor in het buitenland geworven deskundigen
 
 1. Partieel buitenlandse belastingplichtigen die van buiten Nederland in dienstbetrekking worden genomen als bedoeld in [hoofdstuk 4A van het Uitvoeringsbesluit loonbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=4a) kunnen gedurende de looptijd, bedoeld in [artikel 10e, tweede lid, onderdeel d, van het Uitvoeringsbesluit loonbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&artikel=10e), kiezen voor toepassing van de regels van de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4) en [5 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5) zoals die volgens [hoofdstuk 7 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=7) gelden voor buitenlandse belastingplichtigen (partieel buitenlandse belastingplicht). Een keuze voor partieel buitenlandse belastingplicht geldt voor het gehele kalenderjaar, maar ten hoogste tot het einde van de looptijd, bedoeld in de eerste zin.
 
@@ -74,7 +100,7 @@ Vervallen
 
 ### Hoofdstuk 3. Heffingsgrondslag bij werk en woning ([Hoofdstuk 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3))
 
-#### Artikel 12. Belastbare winst uit onderneming; vrijstelling voor bosbedrijf
+##### Artikel 12. Belastbare winst uit onderneming; vrijstelling voor bosbedrijf
 
 1. Op verzoek van de belastingplichtige blijven buiten aanmerking de voordelen uit bosbedrijf welke worden behaald door onmiddellijk voorafgaande aan het tijdstip met ingang waarvan op hem de vrijstelling van [artikel 3.11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.11) van toepassing wordt de tot het bosbedrijf behorende bezittingen te stellen op de waarde in het economische verkeer. De vorige volzin is slechts van toepassing indien artikel 3.11, eerste lid, van de wet met ingang van een jaar van toepassing wordt.
 
@@ -84,11 +110,11 @@ Vervallen
 
 4. Voor de toepassing van het derde lid wordt niet als een staking aangemerkt een overdracht aan een persoon als bedoeld in [artikel 3.63, vierde of vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.63) mits zowel de belastingplichtige als degene aan wie is overgedragen dit schriftelijk verzoekt. Alsdan wordt degene aan wie is overgedragen voor de toepassing van het derde lid geacht in de plaats te zijn getreden van de belastingplichtige.
 
-#### Artikel 13. Belastbaar loon; pensioen in grensoverschrijdende situaties
+##### Artikel 13. Belastbaar loon; pensioen in grensoverschrijdende situaties
 
 De waarde in het economische verkeer van opgebouwde aanspraken uit een pensioenregeling als bedoeld in [artikel 3.83 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.83) wordt gesteld op de bedragen die bij een derde zouden moeten worden gestort ten einde de aanspraken te dekken.
 
-#### Artikel 14. Uitgaven voor inkomensvoorzieningen via een lijfrenteverzekering; toegelaten aanbieders
+##### Artikel 14. Uitgaven voor inkomensvoorzieningen via een lijfrenteverzekering; toegelaten aanbieders
 
 1. Als een lichaam dat bevoegd het verzekeringsbedrijf uitoefent als bedoeld in [artikel 3.126, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.126) kan door Onze Minister worden aangewezen een verzekeraar die op grond van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) bevoegd is diensten naar Nederland te verrichten.
 
@@ -104,7 +130,7 @@ De waarde in het economische verkeer van opgebouwde aanspraken uit een pensioenr
 
 7. Onze Minister maakt het aanwijzen als een lichaam als bedoeld in het eerste lid, dan wel het aanwijzen als een pensioenfonds als bedoeld in het tweede lid, op een daartoe geschikte wijze publiek bekend. Indien Onze Minister een aanwijzing intrekt, maakt hij die intrekking ook op een daartoe geschikte wijze publiek bekend.
 
-#### Artikel 15. Uitgaven voor inkomensvoorzieningen; in aanmerking te nemen premies voor lijfrenten; waardeaangroei
+##### Artikel 15. Uitgaven voor inkomensvoorzieningen; in aanmerking te nemen premies voor lijfrenten; waardeaangroei
 
 1. Voor de toepassing van [artikel 3.127, eerste en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.127), verstrekt de verzekeraar van een pensioen als bedoeld in [artikel 1.7, tweede lid, onderdelen a en b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.7) aan de belastingplichtige een opgave van het bedrag van de in het voorafgaande kalenderjaar in de pensioenregeling van de belastingplichtige ingelegde premies voor ouderdomspensioen en partnerpensioen bij overlijden op of na pensioendatum als bedoeld in [artikel 18a, eerste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18a) voor zover dit bedrag het gevolg is van de toeneming van de diensttijd in dat voorafgaande kalenderjaar en exclusief de premie voor een compensatie als bedoeld in [artikel 38s van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=38s).
 
@@ -116,7 +142,7 @@ De waarde in het economische verkeer van opgebouwde aanspraken uit een pensioenr
 
 ### Hoofdstuk 4. Heffingsgrondslag bij aanmerkelijk belang ([Hoofdstuk 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4))
 
-#### Artikel 16. Vervreemdingsvoordelen; verkrijgingsprijs bij het ontstaan van binnenlandse belastingplicht; vaststelling verkrijgingsprijs en verminderen van de belastingaanslag
+##### Artikel 16. Vervreemdingsvoordelen; verkrijgingsprijs bij het ontstaan van binnenlandse belastingplicht; vaststelling verkrijgingsprijs en verminderen van de belastingaanslag
 
 1. Indien een belastingplichtige met een aanmerkelijk belang in Nederland gaat wonen en de belastingplichtige eerder in Nederland heeft gewoond of voordien ten aanzien van een aanmerkelijk belang buitenlands belastingplichtig is geweest, wordt de verkrijgingsprijs van de tot dat belang behorende aandelen of winstbewijzen gesteld op de verkrijgingsprijs, bedoeld in [artikel 4.21 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.21), en vervolgens vermeerderd of verminderd zoals in de volgende leden is aangegeven.
 
@@ -180,17 +206,17 @@ Ingeval aan de in de eerste volzin lid bedoelde verkrijging meerdere vervreemdin
 
 ### Hoofdstuk 4. Heffingsgrondslag bij aanmerkelijk belang ([Hoofdstuk 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4))
 
-#### Artikel 17. Vrijstellingen; vrijstelling bos- en natuurterreinen en landgoederen
+##### Artikel 17. Vrijstellingen; vrijstelling bos- en natuurterreinen en landgoederen
 
 Onder natuurterreinen als bedoeld in [artikel 5.7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.7) worden verstaan heidevelden, hoogveenterreinen, zandverstuivingen, duinterreinen, kwelders, schorren, gorzen, slikken, riet- en ruigtlanden, laagveenmoerassen, voorzover deze terreinen geen landbouwgronden zijn.
 
-#### Artikel 18. Waardering; waardering genotsrechten
+##### Artikel 18. Waardering; waardering genotsrechten
 
 1. De waarde van een genotsrecht als bedoeld in [artikel 5.22, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.22) wordt gesteld op het overeenkomstig [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=5&artikel=19&z=2026-01-01&g=2026-01-01) tot kapitaal gebrachte bedrag van de jaarlijkse voordelen uit de gerechtigdheid.
 
 2. Voor de toepassing van het eerste lid worden de jaarlijkse voordelen gesteld op 4% van de waarde van hetgeen aan het genotsrecht is onderworpen, naar het tijdstip waarop de waardering van het genotsrecht plaatsvindt.
 
-#### Artikel 19. Waardering; aanvullende regels; waardering periodieke uitkeringen
+##### Artikel 19. Waardering; aanvullende regels; waardering periodieke uitkeringen
 
 1. De waarde van een levenslange, ingegane periodieke uitkering in geld afhankelijk van het leven van één mannelijke persoon, wordt gesteld op het jaarlijkse bedrag vermenigvuldigd met:
 
@@ -275,7 +301,7 @@ De overeenkomstig de eerste volzin vastgestelde waarde kan niet meer bedragen da
 
 ### Hoofdstuk 5. Heffingsgrondslag bij sparen en beleggen ([Hoofdstuk 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5))
 
-#### Artikel 19a. Aangewezen drukkende uitgaven
+##### Artikel 19a. Aangewezen drukkende uitgaven
 
 Bij de bepaling van de omvang van hetgeen op de belastingplichtige aan uitgaven voor specifieke zorgkosten drukt blijven buiten beschouwing:
 
@@ -283,19 +309,19 @@ Bij de bepaling van de omvang van hetgeen op de belastingplichtige aan uitgaven 
 
 - b. tegemoetkomingen als bedoeld in [artikel 63a van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=63a), [artikel 65l van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=65l), [artikel 67i van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=67i), [artikel 3:75 van de Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:75) en [artikel XXXIIID van het Belastingplan 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=XXXIIId).
 
-#### Artikel 20. Definities ernstig gehandicapt en zorgafhankelijk
+##### Artikel 20. Definities ernstig gehandicapt en zorgafhankelijk
 
 1. Voor de toepassing van de [artikelen 6.16](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.16) en [6.25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.25) wordt iemand als ernstig gehandicapt beschouwd indien hij gelet op zijn beperkingen aanspraak maakt op opname in een bij of krachtens de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) geregelde intramurale inrichting.
 
 2. Voor de toepassing van [artikel 6.16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.16) wordt iemand als zorgafhankelijk beschouwd indien hij, zo hij niet bij de belastingplichtige zou inwonen, zou zijn aangewezen op beroepsmatige hulp of verzorging in een verzorgingsinrichting of verpleeginrichting.
 
-#### Artikel 20a. Hulpmiddelen
+##### Artikel 20a. Hulpmiddelen
 
 Vervallen
 
 ### Hoofdstuk 4. Heffingsgrondslag bij aanmerkelijk belang ([Hoofdstuk 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4))
 
-#### Artikel 21. Belastbaar inkomen uit aanmerkelijk belang; aanpassing verkrijgingsprijs aanmerkelijk belang
+##### Artikel 21. Belastbaar inkomen uit aanmerkelijk belang; aanpassing verkrijgingsprijs aanmerkelijk belang
 
 1. Indien op grond van [artikel 26, vierde lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=26) aan een belastingplichtige ter zake van geconserveerd inkomen uit tot een aanmerkelijk belang behorende aandelen of winstbewijzen kwijtschelding van belasting is verleend wegens in Nederland verschuldigde dividend- of inkomstenbelasting ter zake van nadien genoten reguliere voordelen uit die aandelen of winstbewijzen, wordt ten aanzien van hem de in [artikel 7.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=7.6) bedoelde verkrijgingsprijs van deze aandelen of winstbewijzen verminderd met een bedrag gelijk aan het bedrag van die reguliere voordelen.
 
@@ -329,13 +355,13 @@ Vervallen
 
 ### Hoofdstuk 6. Persoonsgebonden aftrek ([Hoofdstuk 6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=6))
 
-#### Artikel 21a. Als voorheffing aangewezen bronbelasting
+##### Artikel 21a. Als voorheffing aangewezen bronbelasting
 
 Vervallen
 
 ### Hoofdstuk 5. Heffingsgrondslag bij sparen en beleggen ([Hoofdstuk 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5))
 
-#### Artikel 22. Overige aanvullende regelingen; verstrekken van gegevens en inlichtingen
+##### Artikel 22. Overige aanvullende regelingen; verstrekken van gegevens en inlichtingen
 
 1. Als administratieplichtigen als bedoeld in [artikel 10.8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.8) worden aangewezen: banken, beheerders, beleggingsinstellingen, beleggingsondernemingen, betaaldienstverleners, elektronischgeldinstellingen, financiële instellingen, instellingen voor collectieve belegging in effecten, levensverzekeraars, natura-uitvaartverzekeraars en schadeverzekeraars in de zin van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) alsmede pensioenuitvoerders in de zin van [artikel 1 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=1), pensioenuitvoerders in de zin van [artikel 1 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=1) en de Stichting Notarieel Pensioenfonds, bedoeld in [artikel 113a van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=113a).
 
@@ -483,7 +509,7 @@ Vervallen
 
 - d. de gegevens of inlichtingen door de inspecteur zijn aangewezen als van verstrekking vrijgestelde gegevens en inlichtingen en aan de voor die vrijstelling verbonden voorwaarden is voldaan.
 
-#### Artikel 23. Overige aanvullende regelingen; rechtspersonen met natuurschoonwet-landgoederen
+##### Artikel 23. Overige aanvullende regelingen; rechtspersonen met natuurschoonwet-landgoederen
 
 1. De werkzaamheden, rechten en verplichtingen van een naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid welker bezittingen uitsluitend of hoofdzakelijk bestaan uit op de voet van [artikel 2 van de Natuurschoonwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=2) als landgoed aangemerkte onroerende zaken, worden voor de heffing van de inkomstenbelasting beschouwd als werkzaamheden, rechten en verplichtingen van haar gezamenlijke aandeelhouders, indien:
 
@@ -501,11 +527,11 @@ Vervallen
 
 ### Hoofdstuk 7. Belastingheffing van buitenlandse belastingplichtigen ([Hoofdstuk 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=7))
 
-#### Artikel 24
+##### Artikel 24
 
 [Artikel 11a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=3&artikel=11a&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing op een overdracht in het kalenderjaar 2001 waarop [hoofdstuk 2, artikel I, onderdeel Db, van de Invoeringswet Wet inkomstenbelasting 2001](onbekend) van toepassing is mits zowel door de ondernemer als degene die de onderneming voortzet, bij de aangifte van de ondernemer is verzocht om toepassing van dat onderdeel.
 
-#### Artikel 25. Overgangsrecht inzake aanmerkelijk belang
+##### Artikel 25. Overgangsrecht inzake aanmerkelijk belang
 
 1. Indien op grond van [artikel 26, tweede lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=26), zoals dat op 14 september 2015 luidde, aan een belastingplichtige ter zake van geconserveerd inkomen uit tot een aanmerkelijk belang behorende aandelen of winstbewijzen kwijtschelding van belasting is verleend wegens het verstrijken van de termijn, bedoeld in dat lid, of indien ter zake van de vervreemding van tot een aanmerkelijk belang behorende aandelen of winstbewijzen aan de belastingplichtige ten aanzien van de overdrager een conserverende belastingaanslag is opgelegd en met betrekking tot die belastingaanslag krachtens artikel 26, tweede lid, van de Invorderingswet 1990, zoals dat op 14 september 2015 luidde, kwijtschelding van belasting is verleend wegens het verstrijken van de termijn, bedoeld in dat lid, wordt ten aanzien van de belastingplichtige de in [artikel 7.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=7.6) bedoelde verkrijgingsprijs van die aandelen of winstbewijzen verminderd met:
 
@@ -535,23 +561,23 @@ Vervallen
 
 - e. met [artikel 26, tweede, vierde of vijfde lid, aanhef en onderdeel a, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=26) gelijkgesteld: artikel 26, derde lid, van de Invorderingswet 1990, zoals dat luidde op 10 maart 2004 en artikel 26, tweede lid, van de Invorderingswet 1990 zoals dat luidde op 31 december 2000.
 
-#### Artikel 25a. Experimenteerbepaling zelfstandigen
+##### Artikel 25a. Experimenteerbepaling zelfstandigen
 
 1. [Artikel 1a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=1&artikel=1a&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing op de beëindiging van deelname aan een pensioenregeling als bedoeld in [artikel 150a van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=150a).
 
 2. [Artikel 11e](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=3&artikel=11e&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing op de deelname aan een pensioenregeling als bedoeld in [artikel 150a van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=150a), met dien verstande dat dit alleen geldt voor het eerste jaar van deelname.
 
-#### Artikel 26. Inwerkingtreding
+##### Artikel 26. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 januari 2001.
 
-#### Artikel 27. Citeertitel
+##### Artikel 27. Citeertitel
 
 Dit besluit wordt aangehaald als: Uitvoeringsbesluit inkomstenbelasting 2001.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 12a. Belastbare winst uit onderneming; aangewezen herstructureringsregelgeving
+##### Artikel 12a. Belastbare winst uit onderneming; aangewezen herstructureringsregelgeving
 
 Als nationale regelgeving die leidt tot herstructurering of beëindiging van een bedrijfstak als bedoeld in [artikel 3.54, twaalfde lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54) wordt aangewezen:
 
@@ -599,7 +625,7 @@ Als nationale regelgeving die leidt tot herstructurering of beëindiging van een
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 14a. Uitgaven voor inkomensvoorzieningen via een lijfrenterekening of een lijfrentebeleggingsrecht; toegelaten aanbieders
+##### Artikel 14a. Uitgaven voor inkomensvoorzieningen via een lijfrenterekening of een lijfrentebeleggingsrecht; toegelaten aanbieders
 
 1. Als een onderneming of instelling die bevoegd als bank of beleggingsonderneming of als beheerder van een beleggingsinstelling of instelling voor collectieve belegging in effecten optreedt als bedoeld in [artikel 3.126a, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.126a) kan door Onze Minister worden aangewezen een onderneming of instelling die op grond van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) bevoegd is diensten naar Nederland te verrichten.
 
@@ -619,7 +645,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 15a. Verkrijgingsprijs bij in [artikel 4.21, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.21) genoemde situaties; verminderen van de conserverende belastingaanslag
+##### Artikel 15a. Verkrijgingsprijs bij in [artikel 4.21, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.21) genoemde situaties; verminderen van de conserverende belastingaanslag
 
 1. Indien een belastingplichtige krachtens een in het derde lid omschreven titel aandelen of winstbewijzen verkrijgt van een niet in Nederland wonend natuurlijk persoon en eerder ter zake van die aandelen of winstbewijzen een conserverende belastingaanslag is opgelegd waarvoor nog uitstel van betaling loopt, wordt ten aanzien van de belastingplichtige de verkrijgingsprijs van die aandelen of winstbewijzen gesteld op de overdrachtsprijs van die aandelen of winstbewijzen waarvan is uitgegaan voor die conserverende belastingaanslag,
 
@@ -697,7 +723,7 @@ verminderd met:
 
 ### Hoofdstuk 5. Heffingsgrondslag bij sparen en beleggen ([Hoofdstuk 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5))
 
-#### Artikel 17a. Waardering woningen; correctie op WOZ-waarde
+##### Artikel 17a. Waardering woningen; correctie op WOZ-waarde
 
 1. De waarde, bedoeld in [artikel 5.20, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.20), wordt gesteld op de op grond van artikel 5.20, eerste en tweede lid, van de wet, in aanmerking te nemen waarde (WOZ-waarde) vermenigvuldigd met de leegwaarderatio.
 
@@ -720,7 +746,7 @@ verminderd met:
 
 6. Indien de waarde, bedoeld in het eerste lid, ten minste 10% hoger is dan de waarde in het economische verkeer van de woning in verhuurde of verpachte staat op de waardepeildatum, bedoeld in [artikel 18 van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=18), wordt, in afwijking van het eerste lid, voor de toepassing van [artikel 5.20, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.20) uitgegaan van die waarde in het economische verkeer.
 
-#### Artikel 17b. Waardering woningen; correctie voor erfpachtcanon
+##### Artikel 17b. Waardering woningen; correctie voor erfpachtcanon
 
 De waarde van een erfpachtcanon als bedoeld in [artikel 5.20, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.20) wordt gesteld op het zeventienvoud van het jaarlijkse bedrag. In afwijking van de eerste volzin wordt het deel van een erfpachtcanon dat kan worden toegerekend aan een verhuurde woning als bedoeld in [artikel 17a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=5&artikel=17a&z=2026-01-01&g=2026-01-01), gesteld op het twintigvoud van het jaarlijkse bedrag. De toerekening van de erfpachtcanon, bedoeld in de vorige volzin, geschiedt naar rato van de, met inachtneming van artikel 17a, vierde lid, berekende, WOZ-waarden van de te onderscheiden zelfstandige onderdelen van het gebouwd eigendom waarop de erfpachtcanon betrekking heeft.
 
@@ -728,7 +754,7 @@ De waarde van een erfpachtcanon als bedoeld in [artikel 5.20, vierde lid, van de
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 12bis. Belastbare winst uit onderneming; privégebruik auto
+##### Artikel 12bis. Belastbare winst uit onderneming; privégebruik auto
 
 1. Het afgeven van de verklaring uitsluitend zakelijk gebruik bestelauto, bedoeld in [artikel 3.20, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.20), geschiedt door het duidelijk, stellig en zonder voorbehoud invullen van het daartoe langs elektronische weg ter beschikking gestelde modelformulier en het toezenden van het ingevulde modelformulier aan de inspecteur.
 
@@ -746,7 +772,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 1a. Pensioenregeling; vrijwillige voortzetting
+##### Artikel 1a. Pensioenregeling; vrijwillige voortzetting
 
 1. Een regeling als bedoeld in [artikel 1.7, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.7), die vrijwillig wordt voortgezet nadat de arbeidsverhouding op grond waarvan deelneming aan die pensioenregeling was verplicht is geëindigd, wordt, onder door Onze Minister te stellen voorwaarden, als een zodanige pensioenregeling aangemerkt, ingeval:
 
@@ -768,7 +794,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 11a. Belastbare winst uit onderneming; vrijstelling voor bosbedrijf
+##### Artikel 11a. Belastbare winst uit onderneming; vrijstelling voor bosbedrijf
 
 1. Op verzoek van de belastingplichtige blijven buiten aanmerking de voordelen uit bosbedrijf welke worden behaald door onmiddellijk voorafgaande aan het tijdstip met ingang waarvan op hem de vrijstelling van [artikel 3.11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.11) van toepassing wordt de tot het bosbedrijf behorende bezittingen te stellen op de waarde in het economische verkeer. De vorige volzin is slechts van toepassing indien artikel 3.11, eerste lid, van de wet met ingang van een jaar van toepassing wordt.
 
@@ -778,11 +804,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 4. Voor de toepassing van het derde lid wordt niet als een staking aangemerkt een overdracht aan een persoon als bedoeld in [artikel 3.63, vierde of vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.63) mits zowel de belastingplichtige als degene aan wie is overgedragen dit schriftelijk verzoekt. Alsdan wordt degene aan wie is overgedragen voor de toepassing van het derde lid geacht in de plaats te zijn getreden van de belastingplichtige.
 
-#### Artikel 11b. In aanmerking te nemen kosten en AOW-bedragen
+##### Artikel 11b. In aanmerking te nemen kosten en AOW-bedragen
 
 Voor de overeenkomstige toepassing, bedoeld in [artikel 3.18, vijfde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.18), van [artikel 18a, eerste lid en derde lid, vijfde zin, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18a) zijn de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&artikel=10) en [10aa van het Uitvoeringsbesluit loonbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&artikel=10aa) van overeenkomstige toepassing.
 
-#### Artikel 11c. Deeltijd
+##### Artikel 11c. Deeltijd
 
 1. Ingeval een belastingplichtige op jaarbasis minder dan 1.750 uren besteedt aan werkzaamheden op grond waarvan hij verplicht deelneemt aan een pensioenregeling als bedoeld in [artikel 1.7, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.7), wordt voor de overeenkomstige toepassing, bedoeld in [artikel 3.18, vijfde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.18), van de [artikelen 18a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18a), en [18ga, eerste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18ga) het aldaar bedoelde bedrag vermenigvuldigd met de deeltijdfactor.
 
@@ -792,33 +818,33 @@ Voor de overeenkomstige toepassing, bedoeld in [artikel 3.18, vijfde lid, onderd
 
 4. Indien de werkzaamheden, bedoeld in het eerste lid, zijn onderbroken vanwege zwangerschap of bevalling van de belastingplichtige, worden deze tijdens de periode die overeenkomt met de periode van zwangerschaps- en bevallingsverlof voor vrouwelijke werknemers, voor de bepaling van het aantal gewerkte uren, bedoeld in het tweede lid, geacht niet te zijn onderbroken.
 
-#### Artikel 11d. Ziekte, arbeidsongeschiktheid, zwangerschap en bevalling
+##### Artikel 11d. Ziekte, arbeidsongeschiktheid, zwangerschap en bevalling
 
 1. Ingeval het pensioengevend inkomen, bedoeld in [artikel 3.18, vierde lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.18), is verlaagd als gevolg van ziekte, arbeidsongeschiktheid of een periode van zwangerschap of bevalling overeenkomstig de periode van zwangerschaps- en bevallingsverlof voor vrouwelijke werknemers wordt met het pensioengevend inkomen gelijkgesteld: het gemiddelde pensioengevend inkomen, bedoeld in artikel 3.18, vierde lid, onderdeel d, van de wet, van de belastingplichtige in de ten hoogste vijf kalenderjaren voorafgaande aan die ziekte, arbeidsongeschiktheid of periode van afwezigheid wegens zwangerschap of bevalling, voor zover de belastingplichtige in die jaren heeft deelgenomen aan een pensioenregeling als bedoeld in [artikel 1.7, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.7).
 
 2. Het ingevolge het eerste lid vastgestelde pensioengevend inkomen mag gedurende de periode van ziekte, arbeidsongeschiktheid, zwangerschapsverlof of bevallingsverlof worden geïndexeerd met de loonindex in de bedrijfstak waarin de werknemer werkzaam is, dan wel met de gemiddelde loonindex voor de CAO-lonen per maand, inclusief bijzondere beloningen, zoals berekend door het Centraal Bureau voor de Statistiek.
 
-#### Artikel 11e. Starters
+##### Artikel 11e. Starters
 
 1. Gedurende ten hoogste de eerste drie jaar waarin de belastingplichtige anders dan als werknemer deelneemt aan een pensioenregeling op grond van de [Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092), de [Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388) of de [Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831) wordt met pensioengevend inkomen als bedoeld in [artikel 3.18, vierde lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.18) gelijkgesteld: een schatting van de belastingplichtige van zijn pensioengevend inkomen in het betreffende jaar van deelname.
 
 2. Ingeval de belastingplichtige ter zake van de schatting, bedoeld in het eerste lid, te kwader trouw is, is het eerste lid niet van toepassing en wordt het pensioengevend inkomen gesteld op de in het dienstjaar genoten winst uit onderneming vóór toevoeging aan en afneming van de oudedagsreserve en vóór de ondernemersaftrek en vermeerderd met de ten laste van de winst gebrachte premies uit hoofde van een pensioenregeling als bedoeld in [artikel 1.7, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.7), waarbij het pensioengevend inkomen ten minste wordt gesteld op nihil. [Artikel 3.95, eerste lid, tweede volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.59) is van overeenkomstige toepassing.
 
-#### Artikel 11f. Laatstgenoten pensioengevend loon
+##### Artikel 11f. Laatstgenoten pensioengevend loon
 
 1. Voor de toepassing van [artikel 3.18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.18) wordt met laatstgenoten pensioengevend loon als bedoeld in de [artikelen 18b](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18b) en [18c van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18c) gelijkgesteld: laatstgenoten pensioengevend inkomen.
 
 2. Onder laatstgenoten pensioengevend inkomen als bedoeld in het eerste lid wordt verstaan: het gemiddelde van het pensioengevend inkomen, bedoeld in [artikel 3.18, vierde lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.18), van de deelnemer of gewezen deelnemer in de ten hoogste vijf kalenderjaren voorafgaande aan het kalenderjaar van zijn overlijden, voor zover de deelnemer of gewezen deelnemer in die jaren heeft deelgenomen aan een pensioenregeling als bedoeld in [artikel 1.7, tweede lid, onderdeel b, van de we](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.7)t.
 
-#### Artikel 11g. Buitenlandse aanbieder
+##### Artikel 11g. Buitenlandse aanbieder
 
 Voor de overeenkomstige toepassing, bedoeld in [artikel 3.18, vijfde lid, onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.18), van [artikel 19a, eerste lid, onderdeel d, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=19a) wordt voor «de belasting die is verschuldigd door toepassing van [artikel 19b](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=19b), ofwel [artikel 3.83, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.83), [artikel 3.136, derde, vierde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.136), of [artikel 7.2, achtste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=7.2)» gelezen: de belasting die is verschuldigd door toepassing van de [artikelen 3.135](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.135), 3.136, eerste tot en met vijfde lid, of 7.2, tweede lid, van de wet.
 
-#### Artikel 17bis. Vrijstellingen; begrenzing premie nettolijfrente
+##### Artikel 17bis. Vrijstellingen; begrenzing premie nettolijfrente
 
 Vervallen
 
-#### Artikel 21bis. Kwalificerende buitenlandse belastingplichtigen
+##### Artikel 21bis. Kwalificerende buitenlandse belastingplichtigen
 
 1. Als kwalificerende buitenlandse belastingplichtige als bedoeld in [artikel 7.8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=7.8) wordt mede aangemerkt een buitenlandse belastingplichtige die:
 
@@ -840,7 +866,7 @@ Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 11bis. Toerekeningsregels; meldingsplicht bij [artikel 2.14, derde lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.14)
+##### Artikel 11bis. Toerekeningsregels; meldingsplicht bij [artikel 2.14, derde lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.14)
 
 1. Indien de belastingplichtige een vermogensbestanddeel dat ingevolge [artikel 2.14, derde lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.14) tevens in aanmerking wordt genomen bij de bepaling van het belastbare inkomen uit sparen en beleggen, niet als zodanig in de aangifte heeft vermeld, is hij gehouden daarvan schriftelijk mededeling aan de inspecteur te doen voordat de belastingplichtige weet of redelijkerwijs moet vermoeden dat de inspecteur met de desbetreffende onjuistheid of onvolledigheid bekend is of zal worden.
 
@@ -860,7 +886,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 22a. Overige aanvullende regelingen; verstrekken van gegevens en inlichtingen; betalingen voor werkzaamheden en diensten
+##### Artikel 22a. Overige aanvullende regelingen; verstrekken van gegevens en inlichtingen; betalingen voor werkzaamheden en diensten
 
 1. Als administratieplichtigen als bedoeld in [artikel 10.8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.8) worden mede aangewezen:
 
@@ -894,17 +920,17 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 25b. Overgangsrecht vrijwillige voortzetting
+##### Artikel 25b. Overgangsrecht vrijwillige voortzetting
 
 In afwijking van [artikel 1a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=1&artikel=1a&z=2026-01-01&g=2026-01-01), geldt voor de toepassing van artikel 1a, eerste lid, onderdeel a, een termijn van vijftien jaar indien de arbeidsverhouding op grond waarvan de deelneming aan een pensioenregeling als bedoeld in [artikel 1.7, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.7), was verplicht, is geëindigd voor het tijdstip van inwerkingtreding van de Wet toekomst pensioenen en voor zover gedurende de periode van vrijwillige voortzetting winst uit onderneming wordt genoten als bedoeld in [artikel 3.8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.8).
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 15bis. Vaststelling gezamenlijk maximumbedrag bij aanvang partnerschap
+##### Artikel 15bis. Vaststelling gezamenlijk maximumbedrag bij aanvang partnerschap
 
 Indien het partnerschap in de loop van het kalenderjaar is aangevangen, wordt het gezamenlijke maximumbedrag, bedoeld in [artikel 4.14a, derde lid, tweede zin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.14a), gesteld op het bedrag genoemd in artikel 4.14a, tweede lid, van de wet, vermeerderd met de bedragen die bij de belastingplichtige of zijn partner over een eerdere periode in aanmerking zijn genomen als fictief regulier voordeel als bedoeld in artikel 4.14a, eerste lid, van de wet. Indien de belastingplichtige of zijn partner in het kalenderjaar waarin het partnerschap aanvangt eerder een partnerschap heeft gehad, is voor de toepassing van de eerste zin [artikel 15ter](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=4&artikel=15ter&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing.
 
-#### Artikel 15ter. Vaststelling individueel maximumbedrag bij einde partnerschap
+##### Artikel 15ter. Vaststelling individueel maximumbedrag bij einde partnerschap
 
 1. Indien het partnerschap in het kalenderjaar is geëindigd, wordt met ingang van dat kalenderjaar het gedeelte van het gezamenlijke maximumbedrag, bedoeld in [artikel 4.14a, derde lid, tweede zin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.14a), dat meer bedraagt dan het bedrag genoemd in artikel 4.14a, tweede lid, van de wet in het jaar voorafgaand aan het kalenderjaar waarin het partnerschap is geëindigd, gelijkelijk verdeeld tussen de belastingplichtige en zijn gewezen partner. De eerste zin is niet van toepassing indien, de belastingplichtige dan wel de gewezen partner direct na beëindiging van het partnerschap geen aanmerkelijk belang heeft als bedoeld in [afdeling 4.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=4.3). In dat geval wordt bedoeld gedeelte van het maximumbedrag toebedeeld aan degene die na beëindiging van het partnerschap wel een aanmerkelijk belang heeft.
 

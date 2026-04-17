@@ -1,13 +1,35 @@
 ---
 title: "Intern Akkoord tussen de vertegenwoordigers van de regeringen van de lidstaten van de Europese Unie, in het kader van de Raad bijeen, betreffende de financiering van de steun van de Europese Unie binnen het meerjarig financieel kader voor de periode 2014-2020, overeenkomstig de ACS-EU-partnerschapsovereenkomst, en betreffende de toewijzing van financiële bijstand ten behoeve van de landen en gebieden overzee waarop de bepalingen van het vierde deel van het Verdrag betreffende de werking van de Europese Unie van toepassing zijn"
 identifier: "BWBV0006238"
-categorie: "Sociaal recht"
-publicatiedatum: 2015-03-01
-laatste_update: 2015-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006238"
+country: "nl"
+rank: "verdrag"
+publication_date: "2015-03-01"
+last_updated: "2015-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006238"
+soort: "verdrag"
+stam_id: "10005112483"
+version_id: "10005460342"
+internal_id: "C10008774221"
+label_id: "10005095404"
+dtd_version: "2.0"
+original_entry_into_force: "2015-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006238/2015-03-01/0"
+intitule_bron: "Trb.2013-145"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2013-09-05"
+intitule_in_force: "2015-03-16"
+intitule_status: "goed"
+original_publication: "Trb.2013-145"
+original_published_date: "2013-09-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2013-145"
+entry_into_force_date: "2015-03-01"
+jci_1_3: "jci1.3:c:BWBV0006238&z=2015-03-01&g=2015-03-01"
+jci_1_0: "1.0:c:BWBV0006238&g=2015-03-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2015-03-01"
 ---
-
 # Intern Akkoord tussen de vertegenwoordigers van de regeringen van de lidstaten van de Europese Unie, in het kader van de Raad bijeen, betreffende de financiering van de steun van de Europese Unie binnen het meerjarig financieel kader voor de periode 2014-2020, overeenkomstig de ACS-EU-partnerschapsovereenkomst, en betreffende de toewijzing van financiële bijstand ten behoeve van de landen en gebieden overzee waarop de bepalingen van het vierde deel van het Verdrag betreffende de werking van de Europese Unie van toepassing zijn
 
 De vertegenwoordigers van de regeringen van de lidstaten van de Europese Unie, in het kader van de Raad bijeen,
@@ -58,7 +80,7 @@ Zijn het volgende overeengekomen:
 
 ### Hoofdstuk 1. FINANCIËLE MIDDELEN
 
-#### Artikel 1. Middelen van het elfde EOF
+##### Artikel 1. Middelen van het elfde EOF
 
 1. De lidstaten stellen een elfde Europees Ontwikkelingsfonds in, hierna „het elfde EOF” genoemd.
 
@@ -124,7 +146,7 @@ De uitvoeringsverordening en het financieel reglement bedoeld in [artikel 10](ht
 
 10. De Unie en haar lidstaten voeren een prestatie-evaluatie uit, waarbij wordt nagegaan in welke mate de vastleggingen en betalingen zijn gerealiseerd en wat het resultaat en het effect zijn van de steun. Deze evaluatie wordt verricht op basis van een voorstel van de Commissie.
 
-#### Artikel 2. Middelen voor de ACS-landen
+##### Artikel 2. Middelen voor de ACS-landen
 
 Het in [artikel 1, lid 2, onder a), i)](https://wetten.overheid.nl/jci1.3:c:BWBV0006238&hoofdstuk=1&artikel=1&z=2015-03-01&g=2015-03-01), vermelde bedrag van 29.089 miljoen EUR wordt als volgt over de samenwerkingsinstrumenten verdeeld:
 
@@ -140,13 +162,13 @@ Het in [artikel 1, lid 2, onder a), i)](https://wetten.overheid.nl/jci1.3:c:BWBV
 
 - d. het bedrag van 1.134 miljoen EUR toegewezen aan de EIB voor de financiering van de investeringsfaciliteit overeenkomstig de voorwaarden van [bijlage II („Financieringsvoorwaarden”) bij de ACS-EU-partnerschapsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&bijlage=II), waaronder een aanvullende bijdrage van 500 miljoen EUR aan de Investeringsfaciliteit in de vorm van een revolverend fonds en van 634 miljoen EUR in de vorm van subsidies voor de financiering van de rentesubsidies en van projectgerelateerde technische bijstand als bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&artikel=1), [2](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&artikel=2) en [4 van bijlage II bij de ACS-EU-partnerschapsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&artikel=4), over de periode van het elfde EOF.
 
-#### Artikel 3. Middelen voor de LGO
+##### Artikel 3. Middelen voor de LGO
 
 1. Het in [artikel 1, lid 2, onder a), ii)](https://wetten.overheid.nl/jci1.3:c:BWBV0006238&hoofdstuk=1&artikel=1&z=2015-03-01&g=2015-03-01), vermelde bedrag van 364,5 miljoen EUR wordt toegewezen volgens een voor 31 december 2013 door de Raad vast te stellen nieuw LGO-besluit, waarvan 359,5 miljoen EUR zal worden toegekend voor de financiering van territoriale en regionale programma’s en 5 miljoen EUR in de vorm van een toewijzing aan de EIB voor de financiering van rentesubsidies en technische bijstand overeenkomstig het nieuwe LGO-besluit.
 
 2. Indien een LGO onafhankelijk wordt en tot de [ACS-EU-partnerschapsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005264) toetreedt, wordt het in lid 1 vermelde bedrag van 364,5 miljoen EUR verlaagd en worden de in [artikel 2, onder a), i)](https://wetten.overheid.nl/jci1.3:c:BWBV0006238&hoofdstuk=1&artikel=2&z=2015-03-01&g=2015-03-01), genoemde bedragen dienovereenkomstig verhoogd bij een door de Raad op basis van een voorstel van de Commissie en met eenparigheid van stemmen genomen besluit.
 
-#### Artikel 4. Leningen uit de eigen middelen van de EIB
+##### Artikel 4. Leningen uit de eigen middelen van de EIB
 
 1. Aan het in [artikel 1, lid 2, onder b)](https://wetten.overheid.nl/jci1.3:c:BWBV0006238&hoofdstuk=1&artikel=1&z=2015-03-01&g=2015-03-01), bedoelde bedrag voor de investeringsfaciliteit in het kader van het negende, tiende en elfde EOF en het in artikel 2, onder d), bedoelde bedrag wordt een indicatief bedrag van maximaal 2.600 miljoen EUR toegevoegd in de vorm van leningen van de EIB uit eigen middelen. Daarvan wordt voor de doeleinden als vervat in [bijlage II bij de ACS-EU-partnerschapsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&bijlage=II) een bedrag verstrekt van maximaal 2.500 miljoen EUR dat halverwege de termijn kan worden verhoogd na een besluit van de bestuurlijke instanties van de EIB, en een bedrag van maximaal 100 miljoen EUR voor de doeleinden als vervat in het LGO-besluit, overeenkomstig de voorwaarden zoals vastgelegd in de statuten en de desbetreffende voorwaarden voor de financiering van investeringen, zoals die zijn vastgesteld in bijlage II bij de ACS-EU-partnerschapsovereenkomst en het LGO-besluit.
 
@@ -156,7 +178,7 @@ Het in [artikel 1, lid 2, onder a), i)](https://wetten.overheid.nl/jci1.3:c:BWBV
 
 4. De uit lid 2 voortvloeiende verplichtingen van de lidstaten worden vastgelegd in borgstellingsovereenkomsten tussen elk der lidstaten en de EIB.
 
-#### Artikel 5. Door de EIB beheerde operaties
+##### Artikel 5. Door de EIB beheerde operaties
 
 1. De bedragen die aan de EIB worden betaald uit hoofde van aan de ACS-landen, de LGO en de Franse overzeese departementen verstrekte speciale leningen, alsmede de opbrengsten en inkomsten uit operaties met risicodragend kapitaal die krachtens aan het negende EOF voorafgaande EOF’s hebben plaatsgevonden, komen aan de lidstaten toe naar rato van hun bijdragen aan het EOF waaruit deze middelen afkomstig zijn, tenzij de Raad op voorstel van de Commissie en met eenparigheid van stemmen besluit deze bedragen te reserveren of aan andere maatregelen toe te wijzen.
 
@@ -166,7 +188,7 @@ Het in [artikel 1, lid 2, onder a), i)](https://wetten.overheid.nl/jci1.3:c:BWBV
 
 4. De kosten van de EIB voor het beheer van de in lid 3 bedoelde verrichtingen in het kader van de investeringsfaciliteit worden volledig vergoed, overeenkomstig [artikel 3, lid 1, onder a), van bijlage II bij de ACS-EU-partnerschapsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&artikel=3) en de overeenkomende bepalingen van het LGO-besluit.
 
-#### Artikel 6. Middelen voor ondersteunende uitgaven van de Commissie in verband met het EOF
+##### Artikel 6. Middelen voor ondersteunende uitgaven van de Commissie in verband met het EOF
 
 1. De middelen van het EOF dienen ter dekking van de kosten voor ondersteunende uitgaven. De middelen bedoeld in [artikel 1, lid 2, onder a), iii)](https://wetten.overheid.nl/jci1.3:c:BWBV0006238&hoofdstuk=1&artikel=1&z=2015-03-01&g=2015-03-01), en in artikel 1, lid 6, dekken kosten in verband met de programmering en uitvoering van het EOF die niet noodzakelijkerwijs worden gedekt door de nationale strategiedocumenten en de meerjarige indicatieve programma’s als bedoeld in de in [artikel 10, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006238&hoofdstuk=II&artikel=10&z=2015-03-01&g=2015-03-01), van dit Akkoord genoemde uitvoeringsverordening. De Commissie verstrekt om de twee jaar informatie over de besteding van deze middelen en over de verdere inspanningen die worden geleverd om besparingen en winsten op het gebied van rendement te realiseren. De Commissie informeert de lidstaten van tevoren over alle bijkomende bedragen die uit de begroting van de EU aan de uitvoering van het EOF worden besteed.
 
@@ -182,7 +204,7 @@ Het in [artikel 1, lid 2, onder a), i)](https://wetten.overheid.nl/jci1.3:c:BWBV
 
 ### Hoofdstuk II. UITVOERING EN SLOTBEPALINGEN
 
-#### Artikel 7. Bijdragen aan het elfde EOF
+##### Artikel 7. Bijdragen aan het elfde EOF
 
 1. Rekening houdend met de verwachtingen van de EIB betreffende het beheer en de verrichtingen van de investeringsfaciliteit, stelt de Commissie jaarlijks de staat vast van de vastleggingen, de betalingen en het jaarlijkse bedrag van het afroepen van de bijdragen voor het lopende en de volgende twee begrotingsjaren, en stelt zij de Raad hiervan vóór 20 oktober in kennis. Bij deze bedragen wordt uitgegaan van het vermogen om de voorgestelde middelen daadwerkelijk te besteden.
 
@@ -200,7 +222,7 @@ Wat betreft middelen van het tiende EOF en eerdere EOF’s die niet worden overg
 
 7. De wijze van storting van de bijdragen door de lidstaten wordt vastgesteld bij het in [artikel 10, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006238&hoofdstuk=II&artikel=10&z=2015-03-01&g=2015-03-01), bedoelde financieel reglement.
 
-#### Artikel 8. Het comité van het Europees Ontwikkelingsfonds
+##### Artikel 8. Het comité van het Europees Ontwikkelingsfonds
 
 1. Voor de door de Commissie beheerde middelen van het elfde EOF wordt bij de Commissie een comité ingesteld („het comité van het EOF”), dat is samengesteld uit vertegenwoordigers van de regeringen van de lidstaten. Het comité van het EOF staat onder voorzitterschap van een vertegenwoordiger van de Commissie. Het secretariaat wordt gevoerd door de Commissie. Een waarnemer van de EIB neemt deel aan de werkzaamheden van het comité wat betreft kwesties die betrekking hebben op de EIB.
 
@@ -247,7 +269,7 @@ Wat betreft middelen van het tiende EOF en eerdere EOF’s die niet worden overg
 
 5. De Raad stelt het reglement van orde van het comité van het EOF vast bij een door de Raad op basis van een voorstel van de Commissie en met eenparigheid van stemmen genomen besluit.
 
-#### Artikel 9. Het comité van de investeringsfaciliteit
+##### Artikel 9. Het comité van de investeringsfaciliteit
 
 1. Onder auspiciën van de EIB wordt een comité („het comité van de investeringsfaciliteit”) ingesteld, dat is samengesteld uit vertegenwoordigers van de regeringen van de lidstaten en een vertegenwoordiger van de Commissie. De EIB draagt zorg voor het secretariaat en de ondersteunende dienstverlening van het comité. De voorzitter van het comité van de investeringsfaciliteit wordt gekozen door en onder de leden van het comité van de investeringsfaciliteit.
 
@@ -255,7 +277,7 @@ Wat betreft middelen van het tiende EOF en eerdere EOF’s die niet worden overg
 
 3. De stemmen worden gewogen zoals bepaald in [artikel 8, leden 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006238&hoofdstuk=II&artikel=8&z=2015-03-01&g=2015-03-01).
 
-#### Artikel 10. Uitvoeringsbepalingen
+##### Artikel 10. Uitvoeringsbepalingen
 
 1. Onverminderd artikel 8 van dit Akkoord en het op grond daarvan bepaalde stemrecht van de lidstaten blijven alle relevante bepalingen van [Verordening (EG) nr. 617/2007](32007R0617) van de Raad van 14 mei 2007 inzake de uitvoering van het tiende Europees Ontwikkelingsfonds uit hoofde van de [ACS-EG-partnerschapsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005264)10)PbEU L 152 van 13 juni 2007, blz. 1. en van [Verordening (EG) nr. 2304/2002](32002R2304) van de Commissie van 20 december 2002 houdende uitvoering van Besluit 2001/822/EG van de Raad11)PbEU L 348 van 21 december 2002, blz. 82. betreffende de associatie van de LGO van kracht, zolang de Raad geen verordening heeft vastgesteld voor de uitvoering van het elfde EOF („de uitvoeringsverordening van het elfde EOF”) en de uitvoeringsvoorschriften van het LGO-besluit door de Raad niet zijn vastgesteld. De uitvoeringsverordening voor het elfde EOF wordt op basis van een voorstel van de Commissie en na raadpleging van de EIB met eenparigheid van stemmen vastgesteld. De uitvoeringsvoorschriften voor de financiële steun van de Unie aan de LGO worden vastgesteld na vaststelling van het nieuwe LGO-besluit door de Raad met eenparigheid van stemmen en na raadpleging van het Europees Parlement.
 
@@ -267,7 +289,7 @@ De uitvoeringsverordening van het elfde EOF behelst passende maatregelen om de g
 
 3. De in de leden 1 en 2 bedoelde voorstellen voor verordeningen van de Commissie voorzien in de mogelijkheid om onder meer uitvoeringstaken te delegeren aan derden.
 
-#### Artikel 11. Financiële uitvoering, boekhouding, controle en kwijting
+##### Artikel 11. Financiële uitvoering, boekhouding, controle en kwijting
 
 1. De Commissie draagt zorg voor de financiële tenuitvoerlegging van de middelen die zij beheert en meer bepaald voor de financiële uitvoering van de projecten en programma’s overeenkomstig het financieel reglement als bedoeld in [artikel 10, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006238&hoofdstuk=II&artikel=10&z=2015-03-01&g=2015-03-01). De besluiten van de Commissie met betrekking tot de terugvordering van te veel betaalde bedragen vormen executoriale titel binnen het rechtsgebied bedoeld in [artikel 299 van het Verdrag betreffende de werking van de Europese Unie (VWEU)](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=299).
 
@@ -285,15 +307,15 @@ De uitvoeringsverordening van het elfde EOF behelst passende maatregelen om de g
 
 8. Voor de uit de middelen van het EOF gefinancierde verrichtingen die door de EIB worden beheerd, gelden de controle- en kwijtingsprocedures zoals die voor alle verrichtingen van de EIB in haar statuten zijn vastgelegd.
 
-#### Artikel 12. Herzieningsclausule
+##### Artikel 12. Herzieningsclausule
 
 [Artikel 1, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006238&hoofdstuk=1&artikel=1&z=2015-03-01&g=2015-03-01), en de artikelen van hoofdstuk II, met uitzondering van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006238&hoofdstuk=II&artikel=8&z=2015-03-01&g=2015-03-01), kunnen door de Raad met eenparigheid van stemmen op voorstel van de Commissie worden gewijzigd. De EIB sluit zich aan bij het voorstel van de Commissie betreffende aangelegenheden die verband houden met haar activiteiten en die van de investeringsfaciliteit.
 
-#### Artikel 13. Europese Dienst voor extern optreden
+##### Artikel 13. Europese Dienst voor extern optreden
 
 Dit Akkoord wordt toegepast in overeenstemming met Besluit 2010/427/EU van de Raad van 26 juli 2010 tot vaststelling van de organisatie en werking van de Europese dienst voor extern optreden.
 
-#### Artikel 14. Ratificatie, inwerkingtreding en looptijd
+##### Artikel 14. Ratificatie, inwerkingtreding en looptijd
 
 1. Dit Akkoord wordt door elke lidstaat goedgekeurd overeenkomstig zijn eigen grondwettelijke voorschriften. De regering van elke lidstaat stelt het secretariaat-generaal van de Raad van de Europese Unie in kennis van de voltooiing van de procedures die voor de inwerkingtreding van dit Akkoord zijn vereist.
 
@@ -301,7 +323,7 @@ Dit Akkoord wordt toegepast in overeenstemming met Besluit 2010/427/EU van de Ra
 
 3. Dit Akkoord wordt gesloten voor dezelfde duur als het meerjarig financieel kader voor 2014-2020 dat is gehecht aan de ACS-EU-partnerschapsovereenkomst, en als het LGO-besluit (2014-2020). Onverminderd [artikel 1, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006238&hoofdstuk=1&artikel=1&z=2015-03-01&g=2015-03-01), blijft dit Akkoord echter van kracht voor zover dit nodig is voor de volledige uitvoering van alle uit hoofde van de [ACS-EU-partnerschapsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005264) en het LGO-besluit en binnen het genoemde meerjarig financieel kader gefinancierde verrichtingen.
 
-#### Artikel 15. Authentieke talen
+##### Artikel 15. Authentieke talen
 
 Dit Akkoord, opgesteld in een exemplaar in de Bulgaarse, de Deense, de Duitse, de Engelse, de Estse, de Finse, de Franse, de Griekse, de Hongaarse, de Italiaanse, de Letse, de Litouwse, de Maltese, de Nederlandse, de Poolse, de Portugese, de Roemeense, de Sloveense, de Slowaakse, de Spaanse, de Tsjechische en de Zweedse taal, zijnde alle teksten gelijkelijk authentiek, wordt nedergelegd in het archief van het secretariaat-generaal van de Raad van de Europese Unie, dat een voor eensluidend gewaarmerkt afschrift toezendt aan de regering van elk der ondertekenende lidstaten.
 

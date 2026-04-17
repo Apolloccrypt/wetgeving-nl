@@ -1,13 +1,38 @@
 ---
 title: "Regeling minimum VFR-vlieghoogten en VFR-vluchten buiten de daglichtperiode voor militaire vliegtuigen en helikopters"
 identifier: "BWBR0035356"
-categorie: "Milieu"
-publicatiedatum: 2014-12-12
-laatste_update: 2014-12-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035356"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2014-12-12"
+last_updated: "2014-12-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035356"
+soort: "ministeriele-regeling"
+stam_id: "12733213"
+version_id: "21552812"
+internal_id: "C30950921"
+label_id: "12703184"
+dtd_version: "2.0"
+original_entry_into_force: "2014-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035356/2014-12-12/0"
+intitule_bron: "Stcrt.2014-20286"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-07-09"
+intitule_published: "2014-07-18"
+intitule_in_force: "2014-07-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-20286"
+original_signed_date: "2014-07-09"
+original_published_date: "2014-07-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-20286"
+entry_into_force_date: "2014-08-01"
+jci_1_3: "jci1.3:c:BWBR0035356&z=2014-12-12&g=2014-12-12"
+jci_1_0: "1.0:c:BWBR0035356&g=2014-12-12"
+citeertitel_status: "officieel"
+signed_date: "2014-07-09"
+entry_into_force: "2014-08-01"
 ---
-
 # Regeling minimum VFR-vlieghoogten en VFR-vluchten buiten de daglichtperiode voor militaire vliegtuigen en helikopters
 
 Handelende in overeenstemming met de Staatssecretaris van Infrastructuur en Milieu;
@@ -18,7 +43,7 @@ Besluit:
 
 #### Paragraaf 1. Minimum VFR-vlieghoogte
 
-#### Artikel 1. Vaststelling minimum VFR-vlieghoogte voor militaire vliegtuigen
+##### Artikel 1. Vaststelling minimum VFR-vlieghoogte voor militaire vliegtuigen
 
 1. De minimum vlieghoogte, bedoeld in paragraaf SERA.5005, onderdeel f, onder 2, van verordening (EU) nr. 923/2012, bedraagt voor militaire vliegtuigen, met uitzondering van voor opleidingsdoeleinden bestemde propellervliegtuigen, 300 meter (1.000 voet).
 
@@ -28,7 +53,7 @@ Besluit:
 
 - b. 450 meter (1.500 voet) voor militaire vliegtuigen boven de Waddenzee, met uitzondering van vluchten in de naderingsgebieden van de schietrange Vliehors.
 
-#### Artikel 2. Laagvliegroutes militaire straal- en transportvliegtuigen
+##### Artikel 2. Laagvliegroutes militaire straal- en transportvliegtuigen
 
 1. [Artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035356&paragraaf=1&artikel=1&z=2014-12-12&g=2014-12-12) is van maandag tot en met donderdag niet van toepassing op gezagvoerders van Nederlandse en bondgenootschappelijke militaire straalvliegtuigen en op gezagvoerders van militaire transportvliegtuigen, behorende tot of in gebruik bij de Nederlandse en de bondgenootschappelijke strijdkrachten, indien zij een VFR-vlucht uitvoeren langs de routes, vermeld in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0035356&bijlage=A&z=2014-12-12&g=2014-12-12).
 
@@ -40,11 +65,11 @@ Besluit:
 
 - c. de gezagvoerder die meer dan 1.852 meter (1 NM) van de route is afgeraakt, klimt eerst naar de aldaar geldende minimum vlieghoogte en zet de vliegoefening pas voort als het vliegtuig op de route is teruggekeerd.
 
-#### Artikel 3. Vrijstelling minimum VFR-vlieghoogte
+##### Artikel 3. Vrijstelling minimum VFR-vlieghoogte
 
 Aan gezagvoerders van militaire vliegtuigen en helikopters wordt onder de in de [artikelen 4 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0035356&paragraaf=1&artikel=4&z=2014-12-12&g=2014-12-12) voor de betrokken gezagvoerder gestelde beperkingen vrijstelling verleend van het verbod om een VFR-vlucht uit te voeren beneden de bij of krachtens paragraaf SERA.5005, onderdeel f, van verordening (EU) nr. 923/2012 en [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035356&paragraaf=1&artikel=1&z=2014-12-12&g=2014-12-12) van deze regeling vastgestelde minimum vlieghoogte.
 
-#### Artikel 4. Vrijstelling minimum VFR-vlieghoogte voor helikopters
+##### Artikel 4. Vrijstelling minimum VFR-vlieghoogte voor helikopters
 
 Het vliegen met militaire helikopters, behorende tot of in gebruik bij de Nederlandse of bondgenootschappelijke strijdkrachten, geschiedt onder de volgende beperkingen:
 
@@ -52,7 +77,7 @@ Het vliegen met militaire helikopters, behorende tot of in gebruik bij de Nederl
 
 - b. elders dan onder a aangegeven bedraagt de minimum vlieghoogte 45 meter (150 voet) boven grond of water.
 
-#### Artikel 5. Vrijstelling minimum VFR-vlieghoogte boven zee
+##### Artikel 5. Vrijstelling minimum VFR-vlieghoogte boven zee
 
 Het vliegen met militaire vliegtuigen en militaire helikopters boven de Noordzee en met militaire helikopters boven de Waddenzee binnen het plaatselijk luchtverkeersleidingsgebied van luchthaven De Kooy geschiedt onder de volgende beperkingen:
 
@@ -60,7 +85,7 @@ Het vliegen met militaire vliegtuigen en militaire helikopters boven de Noordzee
 
 - b. de vlucht boven de Noordzee wordt ten minste 1.852 meter (1 NM) uit de Noordzeekustlijn uitgevoerd, met uitzondering van een Search and Rescue-(trainings)vlucht.
 
-#### Artikel 6. Vrijstelling oefeningen van militaire straalvliegtuigen met niet-vliegende eenheden
+##### Artikel 6. Vrijstelling oefeningen van militaire straalvliegtuigen met niet-vliegende eenheden
 
 1. Het vliegen met militaire straalvliegtuigen, behorende tot of in gebruik bij de Nederlandse of bondgenootschappelijke strijdkrachten, geschiedt, indien zij oefenen in het kader van operaties met niet-vliegende eenheden en binnen de grenzen van militaire oefenterreinen en militaire oefengebieden of tijdelijke gebieden met beperkingen VFR-vluchten uitvoeren, onder de volgende beperkingen:
 
@@ -76,7 +101,7 @@ Het vliegen met militaire vliegtuigen en militaire helikopters boven de Noordzee
 
 2. Ten aanzien van gezagvoerders van straalvliegtuigen van bondgenootschappelijke strijdkrachten die deelnemen aan een oefening, met uitzondering van gezamenlijke oefeningen met Nederlandse eenheden, is [artikel 19, derde lid, van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=19) van toepassing.
 
-#### Artikel 7. Vrijstelling oefeningen van militaire helikopters met niet-vliegende eenheden
+##### Artikel 7. Vrijstelling oefeningen van militaire helikopters met niet-vliegende eenheden
 
 Het vliegen met militaire helikopters, behorende tot of in gebruik bij de Nederlandse en bondgenootschappelijke strijdkrachten geschiedt, indien zij oefenen in het kader van operaties met niet-vliegende eenheden en binnen de grenzen van militaire oefenterreinen en militaire oefengebieden of tijdelijke gebieden met beperkingen VFR-vluchten uitvoeren, onder de volgende beperkingen:
 
@@ -88,7 +113,7 @@ Het vliegen met militaire helikopters, behorende tot of in gebruik bij de Nederl
 
 - d. het overvliegen van bebouwing, met name ziekenhuizen en sanatoria, wordt zoveel mogelijk vermeden.
 
-#### Artikel 8. Vrijstelling minimum VFR-vlieghoogte voor militaire propellervliegtuigen, bestemd voor opleidingsdoeleinden, binnen de route VO
+##### Artikel 8. Vrijstelling minimum VFR-vlieghoogte voor militaire propellervliegtuigen, bestemd voor opleidingsdoeleinden, binnen de route VO
 
 Het vliegen met militaire propellervliegtuigen, bestemd voor opleidingsdoeleinden, behorende tot of in gebruik bij de Nederlandse of bondgenootschappelijke strijdkrachten, binnen de route VO, vermeld in [bijlage B, onder 16](https://wetten.overheid.nl/jci1.3:c:BWBR0035356&bijlage=B&z=2014-12-12&g=2014-12-12), geschiedt onder de volgende beperkingen:
 
@@ -102,7 +127,7 @@ Het vliegen met militaire propellervliegtuigen, bestemd voor opleidingsdoeleinde
 
 - e. voor de vluchten is vooraf toestemming vereist van de Commandant van het Defensie Helikopter Commando van het Commando Luchtstrijdkrachten.
 
-#### Artikel 9. Laagvlieggebieden en -route voor militaire helikopters
+##### Artikel 9. Laagvlieggebieden en -route voor militaire helikopters
 
 1. [Artikel 4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035356&paragraaf=1&artikel=4&z=2014-12-12&g=2014-12-12), is niet van toepassing op gezagvoerders van militaire helikopters, behorende tot of in gebruik bij de Nederlandse of bondgenootschappelijke strijdkrachten, indien zij met inachtneming van de regels en binnen de tijden, gesteld in het tweede lid, VFR-vluchten uitvoeren binnen de gebieden en binnen de route VO, vermeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0035356&bijlage=B&z=2014-12-12&g=2014-12-12).
 
@@ -130,7 +155,7 @@ Het vliegen met militaire propellervliegtuigen, bestemd voor opleidingsdoeleinde
 
 #### Paragraaf 2. Beperking van VFR-vluchten
 
-#### Artikel 10. Vfr-vluchten buiten de daglichtperiode
+##### Artikel 10. Vfr-vluchten buiten de daglichtperiode
 
 Aan de gezagvoerders van militaire vliegtuigen en helikopters, behorende tot of in gebruik bij de Nederlandse strijdkrachten, en van door de Minister van Defensie aan te wijzen vliegtuigen en helikopters, behorende tot of in gebruik bij bondgenootschappelijke strijdkrachten, wordt vrijstelling verleend van [artikel 18, eerste lid, van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=18) onder de volgende beperkingen:
 
@@ -138,7 +163,7 @@ Aan de gezagvoerders van militaire vliegtuigen en helikopters, behorende tot of 
 
 - b. de vluchten worden uitgevoerd met inachtneming van de zichtweersomstandigheden en minimum vlieghoogten, vermeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0035356&paragraaf=2&artikel=11&z=2014-12-12&g=2014-12-12) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0035356&paragraaf=2&artikel=12&z=2014-12-12&g=2014-12-12).
 
-#### Artikel 11. Zichtweersomstandigheden
+##### Artikel 11. Zichtweersomstandigheden
 
 1. De vrijstelling, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0035356&paragraaf=2&artikel=10&z=2014-12-12&g=2014-12-12), wordt verleend, indien de volgende zichtweersomstandigheden in acht worden genomen:
 
@@ -174,7 +199,7 @@ Aan de gezagvoerders van militaire vliegtuigen en helikopters, behorende tot of 
 
 3. Voor vluchten met militaire helikopters waarbij gebruik wordt gemaakt van nachtzichtapparatuur, wordt aan gezagvoerders de vrijstelling, genoemd in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0035356&paragraaf=2&artikel=10&z=2014-12-12&g=2014-12-12), verleend, indien het vliegzicht gelijk is aan of groter is dan 1.500 meter met zicht op grond of water.
 
-#### Artikel 12. Minimum vlieghoogte VFR-vluchten buiten de daglichtperiode
+##### Artikel 12. Minimum vlieghoogte VFR-vluchten buiten de daglichtperiode
 
 Voor VFR-vluchten buiten de daglichtperiode worden de volgende minimum vlieghoogten in acht genomen:
 
@@ -192,7 +217,7 @@ Voor VFR-vluchten buiten de daglichtperiode worden de volgende minimum vlieghoog
 
 - (c). ten minste 100 meter (300 voet) boven grond of water of zoveel lager als voor het doel van de vlucht noodzakelijk is.
 
-#### Artikel 13. Vliegen binnen de laagvlieggebieden of -route voor militaire helikopters met gebruik van nachtzichtapparatuur
+##### Artikel 13. Vliegen binnen de laagvlieggebieden of -route voor militaire helikopters met gebruik van nachtzichtapparatuur
 
 Voor vluchten met militaire helikopters waarbij gebruik wordt gemaakt van nachtzichtapparatuur, mag alleen van de gebieden of route, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035356&paragraaf=1&artikel=9&z=2014-12-12&g=2014-12-12), gebruik worden gemaakt, indien aan de volgende voorwaarden is voldaan:
 
@@ -204,27 +229,27 @@ Voor vluchten met militaire helikopters waarbij gebruik wordt gemaakt van nachtz
 
 #### Paragraaf 3. Slotbepalingen
 
-#### Artikel 14
+##### Artikel 14
 
 Wijzigt de Regeling doven luchtvaartuiglichten militaire luchtvaartuigen.
 
-#### Artikel 15
+##### Artikel 15
 
 Wijzigt de Regeling modelraketten.
 
-#### Artikel 16
+##### Artikel 16
 
 Wijzigt de Regeling veilig gebruik luchthavens en andere terreinen.
 
-#### Artikel 17
+##### Artikel 17
 
 De [Regeling VFR-nachtvluchten en minimum vlieghoogten voor militaire luchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0007141) wordt ingetrokken.
 
-#### Artikel 18
+##### Artikel 18
 
 Deze regeling treedt in werking met ingang van 1 augustus 2014.
 
-#### Artikel 19
+##### Artikel 19
 
 Deze regeling wordt aangehaald als: Regeling minimum VFR-vlieghoogten en VFR-vluchten buiten de daglichtperiode voor militaire vliegtuigen en helikopters.
 
@@ -238,7 +263,7 @@ Deze regeling wordt aangehaald als: Regeling minimum VFR-vlieghoogten en VFR-vlu
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 20
+##### Artikel 20
 
 Deze regeling berust op de [artikelen 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=2), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=4), [18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=18), en [19, eerste lid, onderdeel e, en tweede lid, van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=19).
 

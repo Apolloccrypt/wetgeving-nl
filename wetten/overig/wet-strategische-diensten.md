@@ -1,14 +1,41 @@
 ---
-title: "Wet strategische diensten"
+title: "Wet van 29 september 2011, houdende regels inzake de controle op diensten die betrekking hebben op strategische goederen (Wet strategische diensten)"
 identifier: "BWBR0030545"
-categorie: "Overig"
-publicatiedatum: 2024-12-19
-laatste_update: 2024-12-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030545"
+country: "nl"
+rank: "wet"
+publication_date: "2024-12-19"
+last_updated: "2024-12-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030545"
+soort: "wet"
+stam_id: "11468033"
+version_id: "18853442"
+internal_id: "C26325501"
+label_id: "11441894"
+dtd_version: "2.0"
+original_entry_into_force: "2012-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030545/2024-12-19/0"
+intitule_bron: "Stb.2011-445"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-09-29"
+intitule_published: "2011-10-18"
+intitule_in_force: "2011-10-28"
+intitule_status: "goed"
+original_publication: "Stb.2011-445"
+original_signed_date: "2011-09-29"
+original_published_date: "2011-10-18"
+original_effect: "nieuwe-regeling"
+original_dossier: "32665"
+original_url_id: "stb-2011-445"
+entry_into_force_date: "2012-01-01"
+jci_1_3: "jci1.3:c:BWBR0030545&z=2024-12-19&g=2024-12-19"
+jci_1_0: "1.0:c:BWBR0030545&g=2024-12-19"
+citeertitel_status: "officieel"
+short_title: "Wet strategische diensten"
+signed_date: "2011-09-29"
+entry_into_force: "2012-01-01"
 ---
-
-# Wet strategische diensten
+# Wet van 29 september 2011, houdende regels inzake de controle op diensten die betrekking hebben op strategische goederen (Wet strategische diensten)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -20,7 +47,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -68,7 +95,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### § 2. Diensten met betrekking tot goederen voor tweeërlei gebruik
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het is verboden te handelen in strijd met de artikelen 3, eerste lid, 4, eerste, tweede en derde lid, 5, eerste, tweede en derde lid, 7, 8, en 27, eerste en derde lid, van de Verordening producten voor tweeërlei gebruik voor zover het betreft de overdracht van programmatuur of technologie, bedoeld in artikel 2, tweede lid, onderdeel d, van deze verordening.
 
@@ -80,7 +107,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 5. Bij ministeriële regeling kan Onze Minister om redenen van openbare veiligheid, waaronder het voorkomen van terreurdaden, of uit mensenrechtenoverwegingen een verbod instellen of een vergunning verplicht stellen als bedoeld in artikel 9, eerste lid, van de Verordening producten voor tweeërlei gebruik voor zover het betreft de overdracht van programmatuur of technologie, bedoeld in artikel 2, tweede lid, onderdeel d, van deze verordening.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het is verboden technische bijstand te verlenen indien deze bijstand verband houdt met de ontwikkeling, de productie, de behandeling, de bediening, het onderhoud, de opslag, de opsporing, de herkenning of de verspreiding van chemische, biologische of nucleaire wapens of andere nucleaire explosiemiddelen, of voor de ontwikkeling, de productie, het onderhoud of de opslag van raketten die dergelijke wapens naar hun doel kunnen voeren.
 
@@ -88,7 +115,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 3. Onze Minister kan op aanvraag ontheffing verlenen van het eerste lid.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het is verboden te handelen in strijd met de artikelen 6, eerste tot en met vierde lid, 8, eerste, tweede, vierde en vijfde lid, en 27, tweede en derde lid, van de Verordening producten voor tweeërlei gebruik.
 
@@ -108,7 +135,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 5. Als een tussenhandelaar ervan op de hoogte is dat de goederen voor tweeërlei gebruik, bedoeld in het derde lid, onderdeel a, of vierde lid, onderdeel a, waarvoor hij voornemens is tussenhandeldiensten te verlenen, geheel of gedeeltelijk bestemd zijn voor één van de voor doeleinden, bedoeld in artikel 4, eerste lid, onderdeel a, van de Verordening producten voor tweeërlei gebruik of voor militair eindgebruik in een land van bestemming als bedoeld in artikel 4, eerste lid, onderdeel b, van deze verordening, deelt hij dit mede aan Onze Minister.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het is verboden zonder vergunning van Onze Minister tussenhandeldiensten goederen voor tweeërlei gebruik derde land-derde land te verlenen indien een Nederlander of een vreemdeling die in het Europese deel van Nederland een vaste woon- of verblijfplaats heeft deze tussenhandeldiensten verleent, zich niet in de Europese Unie en Bonaire, Sint Eustatius en Saba bevindt en door Onze Minister ervan in kennis is gesteld dat:
 
@@ -120,7 +147,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 3. Het eerste en tweede lid zijn niet van toepassing op vervoer, financiële diensten, verzekering, herverzekering, algemene reclame of promotie met betrekking tot goederen voor tweeërlei gebruik.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het is verboden zonder vergunning van Onze Minister tussenhandeldiensten goederen voor tweeërlei gebruik EU-derde land te verlenen indien degene die deze tussenhandeldiensten verleent door Onze Minister ervan in kennis is gesteld dat de goederen voor tweeërlei gebruik geheel of gedeeltelijk bestemd zijn of kunnen zijn voor één van de doeleinden, bedoeld in artikel 4, eerste lid, onderdeel a, van de Verordening producten voor tweeërlei gebruik.
 
@@ -128,7 +155,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 3. Het eerste en tweede lid zijn niet van toepassing op vervoer, financiële diensten, verzekering, herverzekering, algemene reclame of promotie met betrekking tot goederen voor tweeërlei gebruik.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Een ieder die voornemens is tussenhandeldiensten als bedoeld in artikel 2, zevende lid, van de Verordening producten voor tweeërlei gebruik, tussenhandeldiensten goederen voor tweeërlei gebruik derde land-derde land of tussenhandeldiensten goederen voor tweeërlei gebruik EU-derde land te verlenen, deelt dit mede aan Onze Minister voorafgaand aan de eerste keer dat de tussenhandeldiensten verleend worden.
 
@@ -146,7 +173,7 @@ deelt dit mede aan Onze Minister.
 
 #### § 3. Diensten met betrekking tot militaire goederen
 
-#### Artikel 8
+##### Artikel 8
 
 Het is verboden zonder vergunning van Onze Minister militaire programmatuur of militaire technologie met betrekking tot militaire goederen door middel van elektronische media over te dragen of beschikbaar te stellen indien:
 
@@ -154,7 +181,7 @@ Het is verboden zonder vergunning van Onze Minister militaire programmatuur of m
 
 - b. het mondelinge overdracht van militaire technologie betreft die via de telefoon wordt beschreven.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het is verboden technische bijstand te verlenen indien:
 
@@ -168,7 +195,7 @@ Het is verboden zonder vergunning van Onze Minister militaire programmatuur of m
 
 - b. fundamenteel wetenschappelijk onderzoek is als bedoeld in door de Raad vastgestelde Gemeenschappelijke EU-lijst van militaire goederen (PbEU 2010, C 69).
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het is verboden zonder een vergunning van Onze Minister tussenhandeldiensten militaire goederen te verlenen.
 
@@ -178,7 +205,7 @@ Het is verboden zonder vergunning van Onze Minister militaire programmatuur of m
 
 #### § 4. Diensten met betrekking tot folterwerktuigen
 
-#### Artikel 11
+##### Artikel 11
 
 Het is verboden te handelen in strijd met de artikelen:
 
@@ -188,7 +215,7 @@ Het is verboden te handelen in strijd met de artikelen:
 
 #### § 5. Overige bepalingen
 
-#### Artikel 12
+##### Artikel 12
 
 1. De Nederlandse strafwet is toepasselijk op de Nederlander die zich buiten het Europese deel van Nederland en Bonaire, Sint Eustatius en Saba schuldig maakt aan een bij deze wet strafbaar gesteld feit door in strijd te handelen met:
 
@@ -202,7 +229,7 @@ Het is verboden te handelen in strijd met de artikelen:
 
 - b. [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=2&artikel=4&z=2024-12-19&g=2024-12-19), voor zover de vreemdeling de tussenhandeldiensten verleent buiten de Europese Unie.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Indien in deze wet geregelde of daarmee verband houdende onderwerpen in het belang van de uitvoering van bindende EU-rechtshandelingen regeling of nadere regeling behoeven, kan deze geschieden bij algemene maatregel van bestuur.
 
@@ -210,7 +237,7 @@ Het is verboden te handelen in strijd met de artikelen:
 
 #### § 6. Vergunningverlening
 
-#### Artikel 14
+##### Artikel 14
 
 1. Onze Minister kan aan een toestemming als bedoeld in de artikelen 3, tweede lid, en 4, tweede lid, van [verordening 2019/125](32025R2019), aan een ontheffing als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=2&artikel=3&z=2024-12-19&g=2024-12-19), van deze wet, en aan een vergunning als bedoeld in de artikelen 11, eerste lid, 12, eerste lid, onderdelen a, b en c, en 13, eerste lid, van de Verordening producten voor tweeërlei gebruik, en de [artikelen 4, derde lid en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=2&artikel=4&z=2024-12-19&g=2024-12-19), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=2&artikel=5&z=2024-12-19&g=2024-12-19), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=2&artikel=6&z=2024-12-19&g=2024-12-19), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=3&artikel=8&z=2024-12-19&g=2024-12-19) en [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=3&artikel=10&z=2024-12-19&g=2024-12-19), voorschriften en voorwaarden verbinden.
 
@@ -232,13 +259,13 @@ Het is verboden te handelen in strijd met de artikelen:
 
 #### § 7. Administratieve verplichtingen
 
-#### Artikel 15
+##### Artikel 15
 
 De [artikelen 10, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=10), en [24 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24) zijn van overeenkomstige toepassing op diegene die activiteiten verricht die op grond van [verordening 2019/125](32025R2019), Verordening producten voor tweeërlei gebruik of bij of krachtens deze wet verboden zijn of zonder vergunning verboden zijn.
 
 #### § 8. Toezicht
 
-#### Artikel 16
+##### Artikel 16
 
 1. Voor de toepassing van de bepalingen gesteld bij of krachtens deze wet blijft [artikel 5:15, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15) buiten toepassing.
 
@@ -248,13 +275,13 @@ De [artikelen 10, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3
 
 4. De toezichthouder is bevoegd tot het geven van een machtiging als bedoeld in [artikel 2 van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=2).
 
-#### Artikel 17
+##### Artikel 17
 
 Met het toezicht op de naleving van het bij of krachtens dit hoofdstuk bepaalde zijn belast de bij besluit van Onze Minister, in overeenstemming met Onze Minister van Financiën, aangewezen ambtenaren.
 
 #### § 9. Bezwaar en beroep
 
-#### Artikel 18
+##### Artikel 18
 
 1. [Artikel 8:13 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:13) is niet van toepassing.
 
@@ -266,7 +293,7 @@ Met het toezicht op de naleving van het bij of krachtens dit hoofdstuk bepaalde 
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 19
+##### Artikel 19
 
 1. In dit hoofdstuk wordt verstaan onder:
 
@@ -312,7 +339,7 @@ Met het toezicht op de naleving van het bij of krachtens dit hoofdstuk bepaalde 
 
 #### § 2. Diensten met betrekking tot goederen voor tweeërlei gebruik
 
-#### Artikel 20
+##### Artikel 20
 
 1. Het is verboden zonder vergunning van Onze Minister programmatuur of technologie door middel van elektronische media met betrekking tot goederen voor tweeërlei gebruik die zijn genoemd in bijlage I van de Verordening producten tweeërlei gebruik over te dragen naar een bestemming buiten Bonaire, Sint Eustatius en Saba en het Europese deel van Nederland.
 
@@ -328,11 +355,11 @@ Met het toezicht op de naleving van het bij of krachtens dit hoofdstuk bepaalde 
 
 4. Indien Onze Minister bij beschikking heeft bepaald dat de overdracht van daarbij aangewezen programmatuur of technologie zonder vergunning is verboden, is de adressant van deze beschikking, zodra voor hem aannemelijk is dat de desbetreffende programmatuur en technologie een andere bestemming zullen krijgen dan in de beschikking is vermeld, verplicht onder opgave van redenen van deze gewijzigde bestemming mededeling te doen aan Onze Minister.
 
-#### Artikel 21
+##### Artikel 21
 
 [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=2&artikel=3&z=2024-12-19&g=2024-12-19) is van toepassing in Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Het is verboden zonder vergunning van Onze Minister tussenhandeldiensten goederen voor tweeërlei gebruik derde land-derde land of tussenhandeldiensten goederen voor tweeërlei gebruik Bonaire, Sint Eustatius en Saba-derde land te verlenen indien degene die deze tussenhandeldiensten verleent door Onze Minister ervan in kennis is gesteld dat de goederen voor tweeërlei gebruik geheel of gedeeltelijk bestemd zijn of kunnen zijn voor gebruik in verband met de ontwikkeling, de productie, de behandeling, de bediening, het onderhoud, de opslag, de opsporing, de herkenning of de verspreiding van chemische, biologische of nucleaire wapens of andere nucleaire explosiemiddelen, of voor de ontwikkeling, de productie, het onderhoud of de opslag van raketten die dergelijke wapens naar hun doel kunnen voeren.
 
@@ -342,7 +369,7 @@ Met het toezicht op de naleving van het bij of krachtens dit hoofdstuk bepaalde 
 
 4. Het eerste tot en met derde lid zijn niet van toepassing op vervoer, financiële diensten, verzekering, herverzekering, algemene reclame of algemene promotie met betrekking tot goederen voor tweeërlei gebruik.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Een ieder die voornemens is tussenhandeldiensten goederen voor tweeërlei gebruik derde land-derde land of tussenhandeldiensten goederen voor tweeërlei gebruik Bonaire, Sint Eustatius en Saba-derde land te verlenen, deelt dit mede aan Onze Minister voorafgaand aan de eerste keer dat de tussenhandeldiensten verleend worden.
 
@@ -360,7 +387,7 @@ deelt dit mede aan Onze Minister.
 
 #### § 3. Diensten met betrekking tot militaire goederen
 
-#### Artikel 24
+##### Artikel 24
 
 1. [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=3&artikel=8&z=2024-12-19&g=2024-12-19) is van toepassing in Bonaire, Sint Eustatius en Saba met dien verstande dat in onderdeel a het militaire programmatuur of technologie betreft waarvan de uitvoer als militair goed krachtens [artikel 2.26 van de Douane- en Accijnswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=2.26) zonder vergunning verboden is.
 
@@ -372,7 +399,7 @@ deelt dit mede aan Onze Minister.
 
 #### § 4. Vergunningverlening
 
-#### Artikel 25
+##### Artikel 25
 
 1. Onze Minister kan aan een vergunning als bedoeld in de [artikelen 20, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=2&artikel=20&z=2024-12-19&g=2024-12-19), [22, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=2&artikel=22&z=2024-12-19&g=2024-12-19), [24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=3&artikel=24&z=2024-12-19&g=2024-12-19), een ontheffing verleend op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=2&artikel=21&z=2024-12-19&g=2024-12-19), en aan een vergunning verleend op grond van artikel 24, eerste lid, voorschriften en voorwaarden verbinden.
 
@@ -382,7 +409,7 @@ deelt dit mede aan Onze Minister.
 
 #### § 5. Administratieve verplichtingen
 
-#### Artikel 26
+##### Artikel 26
 
 1. Degene die activiteiten verricht die bij of krachtens dit hoofdstuk verboden of zonder vergunning verboden zijn, is gehouden op zodanige wijze een administratie te voeren en de daartoe behorende gegevensdragers of de inhoud daarvan op zodanige wijze te bewaren, dat te allen tijde zijn rechten en verplichtingen uit hoofde van deze wet duidelijk blijken.
 
@@ -392,23 +419,23 @@ deelt dit mede aan Onze Minister.
 
 4. De administratie behoort te worden gevoerd in het Nederlands, Papiaments of Engels met gebruikmaking van de daarbij gebruikelijke cijfers.
 
-#### Artikel 27
+##### Artikel 27
 
 De boeken, bescheiden en andere gegevensdragers van een ontbonden rechtspersoon moeten worden bewaard gedurende zeven jaren nadat de rechtspersoon heeft opgehouden te bestaan. Bewaarder is degene die bij of krachtens de statuten, dan wel door de algemene vergadering of, als de rechtspersoon een stichting was, door het bestuur als zodanig is aangewezen.
 
 #### § 6. Toezicht
 
-#### Artikel 28
+##### Artikel 28
 
 [Titel 5.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.2) en de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=8&artikel=16&z=2024-12-19&g=2024-12-19) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=8&artikel=17&z=2024-12-19&g=2024-12-19) zijn van overeenkomstige toepassing in Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 29
+##### Artikel 29
 
 Met het toezicht op de naleving van het bij of krachtens dit hoofdstuk bepaalde zijn belast de bij besluit van Onze Minister, in overeenstemming met Onze Minister van Financiën, aangewezen ambtenaren.
 
 #### § 7. Strafrechtelijke bepalingen
 
-#### Artikel 30
+##### Artikel 30
 
 1. Degene die het gestelde bij of krachtens de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=2&artikel=20&z=2024-12-19&g=2024-12-19), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=2&artikel=21&z=2024-12-19&g=2024-12-19), [22, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=2&artikel=22&z=2024-12-19&g=2024-12-19), [23, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=2&artikel=23&z=2024-12-19&g=2024-12-19), en [24, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=3&artikel=24&z=2024-12-19&g=2024-12-19), overtreedt, maakt zich schuldig aan het plegen van een strafbaar feit.
 
@@ -428,39 +455,39 @@ Met het toezicht op de naleving van het bij of krachtens dit hoofdstuk bepaalde 
 
 6. Van een besluit als bedoeld in het vijfde lid, onderdeel b, wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-#### Artikel 31
+##### Artikel 31
 
 De strafwet van Bonaire, Sint Eustatius en Saba is toepasselijk op de vreemdeling die in Bonaire, Sint Eustatius of Saba een vaste woon- of verblijfplaats heeft en zich buiten Bonaire, Sint Eustatius en Saba en het Europese deel van Nederland, schuldig maakt aan een bij deze wet strafbaar gesteld feit door in strijd te handelen met de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=2&artikel=20&z=2024-12-19&g=2024-12-19), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=2&artikel=21&z=2024-12-19&g=2024-12-19), [22, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=2&artikel=22&z=2024-12-19&g=2024-12-19), [23, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=2&artikel=23&z=2024-12-19&g=2024-12-19), en [24, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=3&artikel=24&z=2024-12-19&g=2024-12-19).
 
 ### Hoofdstuk 3. Wijziging van andere wetten
 
-#### Artikel 32
+##### Artikel 32
 
 Wijzigt de Wet op de economische delicten.
 
-#### Artikel 33
+##### Artikel 33
 
 Wijzigt de Aanpassingswet Algemene douanewet en de Douane- en Accijnswet BES.
 
-#### Artikel 34
+##### Artikel 34
 
 Wijzigt de Uitvoeringswet verdrag chemische wapens.
 
 ### Hoofdstuk 4. Slot- en overgangsbepalingen
 
-#### Artikel 35
+##### Artikel 35
 
 Degene die tussenhandeldiensten als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=2&artikel=7&z=2024-12-19&g=2024-12-19), of tussenhandeldiensten als bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=2&artikel=23&z=2024-12-19&g=2024-12-19), verleent op het moment waarop deze wet in werking treedt, deelt dit binnen zes maanden na inwerkingtreding van deze wet aan Onze Minister mede.
 
-#### Artikel 36
+##### Artikel 36
 
 Het [Besluit financieel verkeer strategische goederen 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0008298) wordt ingetrokken.
 
-#### Artikel 37
+##### Artikel 37
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor verschillende artikelen en onderdelen ervan verschillend kan worden vastgesteld.
 
-#### Artikel 38
+##### Artikel 38
 
 Deze wet wordt aangehaald als: Wet strategische diensten.
 

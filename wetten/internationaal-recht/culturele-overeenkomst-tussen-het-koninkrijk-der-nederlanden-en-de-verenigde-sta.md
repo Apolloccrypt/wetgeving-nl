@@ -1,13 +1,35 @@
 ---
 title: "Culturele Overeenkomst tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Brazilië"
 identifier: "BWBV0004218"
-categorie: "Internationaal recht"
-publicatiedatum: 1968-05-29
-laatste_update: 1968-05-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004218"
+country: "nl"
+rank: "verdrag"
+publication_date: "1968-05-29"
+last_updated: "1968-05-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004218"
+soort: "verdrag"
+stam_id: "10004007613"
+version_id: "10004168422"
+internal_id: "C10008336101"
+label_id: "10003992134"
+dtd_version: "2.0"
+original_entry_into_force: "1968-05-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004218/1968-05-29/0"
+intitule_bron: "Trb.1966-219"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1966-10-12"
+intitule_in_force: "1968-07-18"
+intitule_status: "goed"
+original_publication: "Trb.1966-219"
+original_published_date: "1966-10-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1966-219"
+entry_into_force_date: "1968-05-29"
+jci_1_3: "jci1.3:c:BWBV0004218&z=1968-05-29&g=1968-05-29"
+jci_1_0: "1.0:c:BWBV0004218&g=1968-05-29"
+citeertitel_status: "redactioneel"
+entry_into_force: "1968-05-29"
 ---
-
 # Culturele Overeenkomst tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Brazilië
 
 De Regering van het Koninkrijk der Nederlanden
@@ -30,7 +52,7 @@ Zijne Excellentie de Heer Jayme Sloan Chermont, Buitengewoon en Gevolmachtigd Am
 
 Die, na hun in goede vorm bevonden volmachten te hebben overgelegd, het volgende zijn overeengekomen:
 
-#### Artikel I
+##### Artikel I
 
 Teneinde in hun respectieve landen een betere kennis van de cultuur van het andere land te bevorderen, zullen de Overeenkomstsluitende Partijen elkaar, zoveel als mogelijk is, bijstaan bij:
 
@@ -46,27 +68,27 @@ Teneinde in hun respectieve landen een betere kennis van de cultuur van het ande
 
 - f). het uitwisselen van kopieën van in de officiële archieven en bibliotheken van elk der twee landen aanwezige documenten die van belang zijn voor het andere land, mits de wettelijke bepalingen van elk der landen zich niet tegen uitwisseling op dit gebied verzetten.
 
-#### Artikel II
+##### Artikel II
 
 De Overeenkomstsluitende Partijen bevorderen tussen de onderscheiden landen de uitwisseling van professoren, onderzoekers op wetenschappelijk gebied en studenten, alsmede van andere personen die speciale belangstelling hebben voor culturele werkzaamheden.
 
-#### Artikel III
+##### Artikel III
 
 De Overeenkomstsluitende Partijen stimuleren het organiseren en het ontwikkelen van cursussen aan hun universiteiten en andere instellingen van onderwijs en onderzoek die betrekking hebben op de cultuur en op de beschaving van de andere Partij.
 
-#### Artikel IV
+##### Artikel IV
 
 Teneinde onderdanen van elk der Overeenkomstsluitende Partijen in staat te stellen in het andere land te studeren en onderzoekingen te verrichten, onderzoekt elk der Partijen de mogelijkheid om aan de onderdanen van de andere Partij beurzen en andere faciliteiten te verstrekken.
 
-#### Artikel V
+##### Artikel V
 
 De Overeenkomstsluitende Partijen bevorderen de samenwerking tussen wetenschappelijke en andere culturele instellingen in de twee landen.
 
-#### Artikel VI
+##### Artikel VI
 
 Elk der Overeenkomstsluitende Partijen vergemakkelijkt voor de onderdanen van de andere Partij de toegang tot haar musea, bibliotheken en andere voorlichtingscentra.
 
-#### Artikel VII
+##### Artikel VII
 
 In elk land zal een Commissie worden ingesteld, die tot taak zal hebben de Regering voorstellen te doen die betrekking hebben op de uitvoering van deze Overeenkomst.
 
@@ -76,11 +98,11 @@ De in Nederland in te stellen Commissie zal haar zetel hebben te 's-Gravenhage e
 
 Elke Commissie vergadert steeds wanneer daartoe aanleiding bestaat en ten minste een maal per jaar. De Diplomatieke Vertegenwoordiger van de ene Overeenkomstsluitende Partij kan worden uitgenodigd om deel te nemen aan de beraadslagingen van de Commissie van de andere Overeenkomstsluitende Partij.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wat het Koninkrijk der Nederlanden betreft, is deze Overeenkomst van toepassing op Nederland, Suriname en de Nederlandse Antillen.
 
-#### Artikel IX
+##### Artikel IX
 
 Deze Overeenkomst dient te worden bekrachtigd en de akten van bekrachtiging zullen zo spoedig mogelijk te Rio de Janeiro worden uitgewisseld.
 

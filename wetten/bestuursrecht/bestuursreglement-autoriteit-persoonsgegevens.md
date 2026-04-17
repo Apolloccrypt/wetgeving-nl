@@ -1,20 +1,46 @@
 ---
-title: "Bestuursreglement Autoriteit Persoonsgegevens"
+title: "Besluit van de Autoriteit Persoonsgegevens van 23 september 2025, betreffende het Bestuursreglement Autoriteit Persoonsgegevens"
 identifier: "BWBR0051561"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-10-04
-laatste_update: 2025-10-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051561"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-10-04"
+last_updated: "2025-10-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051561"
+soort: "zbo"
+stam_id: "17538443"
+version_id: "30950032"
+internal_id: "C44332471"
+label_id: "17440114"
+dtd_version: "2.0"
+original_entry_into_force: "2025-10-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051561/2025-10-04/0"
+intitule_bron: "Stcrt.2025-33333"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-09-23"
+intitule_published: "2025-10-03"
+intitule_in_force: "2025-10-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-33333"
+original_signed_date: "2025-09-23"
+original_published_date: "2025-10-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-33333"
+entry_into_force_date: "2025-10-04"
+jci_1_3: "jci1.3:c:BWBR0051561&z=2025-10-04&g=2025-10-04"
+jci_1_0: "1.0:c:BWBR0051561&g=2025-10-04"
+citeertitel_status: "officieel"
+short_title: "Bestuursreglement Autoriteit Persoonsgegevens"
+signed_date: "2025-09-23"
+entry_into_force: "2025-10-04"
 ---
-
 # Besluit van de Autoriteit Persoonsgegevens van 23 september 2025, betreffende het Bestuursreglement Autoriteit Persoonsgegevens
 
 besluit
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit bestuursreglement wordt verstaan onder:
 
@@ -32,13 +58,13 @@ In dit bestuursreglement wordt verstaan onder:
 
 ### Hoofdstuk 2. Inrichting en besluitvorming
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Autoriteit Persoonsgegevens vervult de taken die haar bij of krachtens wet en bij of krachtens de verordening zijn opgedragen.
 
 2. De Autoriteit Persoonsgegevens verricht de werkzaamheden die noodzakelijk zijn om de in het eerste lid bedoelde taken naar behoren te kunnen vervullen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De Autoriteit Persoonsgegevens bestaat uit een voorzitter en twee andere leden.
 
@@ -50,19 +76,19 @@ In dit bestuursreglement wordt verstaan onder:
 
 5. Een lid kan portefeuillehouder zijn voor een thema van de AP. Dit wordt op de website van de Autoriteit Persoonsgegevens bekendgemaakt
 
-#### Artikel 4
+##### Artikel 4
 
 De voorzitter geeft leiding aan de Autoriteit Persoonsgegevens en bevordert daarbij een goede afstemming, samen met de leden wordt leiding gegeven aan het secretariaat van de Autoriteit Persoonsgegevens.
 
-#### Artikel 5
+##### Artikel 5
 
 De Autoriteit Persoonsgegevens stelt een mandaat- en machtigingsregeling vast. In de mandaat- en machtigingsregeling wordt inzichtelijk gemaakt voor welke taken en bevoegdheden mandaat en machtiging wordt verleend aan het secretariaat van de Autoriteit Persoonsgegevens.
 
-#### Artikel 6
+##### Artikel 6
 
 De Autoriteit Persoonsgegevens stelt de hoofdlijnen van de organisatie van het secretariaat vast. De Autoriteit Persoonsgegevens geeft daar op haar website bekendheid aan.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De Autoriteit Persoonsgegevens vergadert zo vaak als nodig is voor een goede afwikkeling van zijn werkzaamheden, doch in beginsel eenmaal per week in het zogenaamde Bestuurlijk Overleg.
 
@@ -72,7 +98,7 @@ De Autoriteit Persoonsgegevens stelt de hoofdlijnen van de organisatie van het s
 
 4. Een buitengewoon lid kan in deze vergadering deelnemen aan de beraadslagingen, maar niet aan de besluitvorming als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0051561&hoofdstuk=2&artikel=10&z=2025-10-04&g=2025-10-04).
 
-#### Artikel 8
+##### Artikel 8
 
 1. De voorzitter bepaalt de tijd en de plaats van een vergadering. De agenda van een vergadering wordt op voorstel van de voorzitter vastgesteld door de leden.
 
@@ -80,13 +106,13 @@ De Autoriteit Persoonsgegevens stelt de hoofdlijnen van de organisatie van het s
 
 3. De directeuren zien toe op een juiste uitvoering van de besluiten van de Autoriteit Persoonsgegevens en dragen zorg voor een periodieke rapportage daarover aan de Autoriteit Persoonsgegevens.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Een lid dat verhinderd is een vergadering bij te wonen, doet hiervan zo spoedig mogelijk mededeling aan de voorzitter.
 
 2. Als de voorzitter verhinderd is, doet hij hiervan zo spoedig mogelijk mededeling aan de vicevoorzitter.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De Autoriteit Persoonsgegevens heeft een collegiaal besluitvormingsmodel dat vorm krijgt in het Bestuurlijk Overleg en waarbij wordt gestreefd naar eenstemmigheid.
 
@@ -104,7 +130,7 @@ De Autoriteit Persoonsgegevens stelt de hoofdlijnen van de organisatie van het s
 
 8. In spoedeisende gevallen dan wel in andere door de leden bij eenstemmigheid te bepalen gevallen, kan de vergadering schriftelijk hetzij op andere geschikte wijze geschieden. De wijze van besluitvorming wordt alsdan met de genomen beslissing in het verslag van het eerstvolgende bestuurlijk overleg vastgesteld.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De secretaris is verantwoordelijk voor het opstellen van een verslag van het verhandelde in de vergadering. Het verslag bevat ten minste:
 
@@ -120,7 +146,7 @@ De Autoriteit Persoonsgegevens stelt de hoofdlijnen van de organisatie van het s
 
 3. Het verslag wordt binnen vijf dagen na de vergadering aan de leden verzonden. Het wordt de eerstvolgende vergadering na verzending, al dan niet gewijzigd, vastgesteld door de Autoriteit Persoonsgegevens.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Een lid kan verzoeken zich te mogen verschonen indien hij van mening is dat zijn onpartijdigheid bij een bepaalde aangelegenheid in het geding zou kunnen komen. Indien hij zich wil verschonen, richt hij zijn verzoek aan de voorzitter, dan wel, indien het de voorzitter betreft, aan de vicevoorzitter.
 
@@ -128,7 +154,7 @@ De Autoriteit Persoonsgegevens stelt de hoofdlijnen van de organisatie van het s
 
 3. Indien verschoning wordt toegewezen of verleend, neemt het desbetreffende lid niet deel aan de behandeling van en de besluitvorming over de desbetreffende aangelegenheid.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De voorzitter en de andere leden onthouden zich van alles wat een goede taakvervulling van de Autoriteit Persoonsgegevens kan schaden.
 
@@ -136,13 +162,13 @@ De Autoriteit Persoonsgegevens stelt de hoofdlijnen van de organisatie van het s
 
 3. De nevenfuncties van de voorzitter en de andere leden worden op de website van de Autoriteit Persoonsgegevens bekend gemaakt.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De [artikelen 2:4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:4) en [2:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:5) zijn op de werkzaamheden van de voorzitter en de andere leden van toepassing, ook na beëindiging van hun functie.
 
 2. Het eerste lid is van overeenkomstige toepassing op diegenen die belast zijn met de administratieve en secretariële ondersteuning van de Autoriteit Persoonsgegevens en op diegenen die vergaderingen geheel of gedeeltelijk hebben bijgewoond.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De Autoriteit Persoonsgegevens kan nadere voorzieningen treffen met betrekking tot zijn werking, indien een goede afwikkeling van de werkzaamheden dat nodig maakt.
 
@@ -154,7 +180,7 @@ De Autoriteit Persoonsgegevens stelt de hoofdlijnen van de organisatie van het s
 
 #### Paragraaf 3.1. Beleidsplan
 
-#### Artikel 16
+##### Artikel 16
 
 1. De Autoriteit Persoonsgegevens stelt jaarlijks een jaarplan vast, passend binnen de meerjarig vastgestelde focusgebieden en thema’s.
 
@@ -162,19 +188,19 @@ De Autoriteit Persoonsgegevens stelt de hoofdlijnen van de organisatie van het s
 
 #### Paragraaf 3.2. Beleidsregels
 
-#### Artikel 17
+##### Artikel 17
 
 De beleidsregels die worden gehanteerd bij de uitvoering van de taken en werkzaamheden bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051561&hoofdstuk=2&artikel=2&z=2025-10-04&g=2025-10-04) worden in de Staatscourant en op de website van de Autoriteit Persoonsgegevens bekend gemaakt.
 
 ### Hoofdstuk 4. Raad van advies
 
-#### Artikel 18
+##### Artikel 18
 
 1. De raad heeft tot taak de Autoriteit Persoonsgegevens te adviseren over de hoofdlijnen van het beleid en andere algemene aspecten van de bescherming van persoonsgegevens.
 
 2. De Autoriteit Persoonsgegevens stelt de raad in de gelegenheid om de nodige opmerkingen te maken ten aanzien van de focusgebieden, de inhoud van het jaarplan en het uitgebracht jaarverslag.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De raad vergadert tenminste tweemaal per jaar, te weten in het voorjaar en in het najaar en voorts zo vaak als nodig is.
 
@@ -186,7 +212,7 @@ De beleidsregels die worden gehanteerd bij de uitvoering van de taken en werkzaa
 
 5. De vergaderingen van de raad zijn niet openbaar.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De leden van de raad kunnen door de Autoriteit Persoonsgegevens betrokken worden bij andere belangrijke aangelegenheden op het terrein van hun ervaring of belangstelling.
 
@@ -196,7 +222,7 @@ De beleidsregels die worden gehanteerd bij de uitvoering van de taken en werkzaa
 
 4. De Autoriteit Persoonsgegevens verstrekt de leden van de raad het door de AP na afloop van ieder kalenderjaar opgesteld jaarverslag met een overzicht van de werkzaamheden in dat kalenderjaar.
 
-#### Artikel 21
+##### Artikel 21
 
 1. De leden van de raad onthouden zich van alles wat een goede taakvervulling van de raad kan schaden.
 
@@ -204,15 +230,15 @@ De beleidsregels die worden gehanteerd bij de uitvoering van de taken en werkzaa
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 22
+##### Artikel 22
 
 Het [besluit van de Autoriteit Persoonsgegevens van 11 juni 2024 tot vaststelling van een bestuursreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0051091) (Stcrt. 2025, nr. 19361) wordt ingetrokken.
 
-#### Artikel 23
+##### Artikel 23
 
 Dit reglement treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, en werkt terug tot en met 23 september 2025.
 
-#### Artikel 24
+##### Artikel 24
 
 Dit besluit wordt aangehaald als: Bestuursreglement Autoriteit Persoonsgegevens.
 

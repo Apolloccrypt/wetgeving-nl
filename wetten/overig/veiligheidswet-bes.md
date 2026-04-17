@@ -1,14 +1,41 @@
 ---
-title: "Veiligheidswet BES"
+title: "Wet van 30 september 2010, houdende bepalingen over de politie en over de brandweerzorg, de rampenbestrijding en de crisisbeheersing op Bonaire, Sint Eustatius en Saba (Veiligheidswet BES)"
 identifier: "BWBR0028586"
-categorie: "Overig"
-publicatiedatum: 2018-08-01
-laatste_update: 2018-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028586"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2018-08-01"
+last_updated: "2018-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028586"
+soort: "wet-BES"
+stam_id: "10884833"
+version_id: "17867552"
+internal_id: "C25051081"
+label_id: "10860414"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028586/2018-08-01/0"
+intitule_bron: "Stb.2010-362"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-30"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-362"
+original_signed_date: "2010-09-30"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_dossier: "32207"
+original_url_id: "stb-2010-362"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028586&z=2018-08-01&g=2018-08-01"
+jci_1_0: "1.0:c:BWBR0028586&g=2018-08-01"
+citeertitel_status: "officieel"
+short_title: "Veiligheidswet BES"
+signed_date: "2010-09-30"
+entry_into_force: "2010-10-10"
 ---
-
-# Veiligheidswet BES
+# Wet van 30 september 2010, houdende bepalingen over de politie en over de brandweerzorg, de rampenbestrijding en de crisisbeheersing op Bonaire, Sint Eustatius en Saba (Veiligheidswet BES)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -20,7 +47,7 @@ Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 06.00 uu
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -74,19 +101,19 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 1. Aanvullende regels over de taak en samenstelling
 
-#### Artikel 2
+##### Artikel 2
 
 Bij of krachtens algemene maatregel van bestuur op voordracht van Onze Ministers worden nadere regels gesteld over de inrichting en organisatie van het politiekorps, waarbij in ieder geval wordt voorzien in de taakgebieden, genoemd in [artikel 7, tweede lid, onder a tot en met d, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=7), alsmede in een meldkamerfunctie ten behoeve van de politietaak.
 
-#### Artikel 3
+##### Artikel 3
 
 Zij die op grond van [artikel 185 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=185) en de buitengewone agenten van politie die tot opsporing van strafbare feiten bevoegd zijn, werken samen met de politie.
 
-#### Artikel 4
+##### Artikel 4
 
 Bij algemene maatregel van bestuur op voordracht van Onze Ministers worden regels gesteld over de taken die kunnen worden uitgevoerd door ambtenaren als bedoeld in [artikel 3, onder c, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=3).
 
-#### Artikel 5
+##### Artikel 5
 
 1. Aan de Koninklijke marechaussee zijn, onverminderd het bepaalde bij of krachtens andere wetten, de volgende politietaken opgedragen:
 
@@ -122,7 +149,7 @@ Bij algemene maatregel van bestuur op voordracht van Onze Ministers worden regel
 
 5. De Koninklijke marechaussee is tevens belast met de informatievoorziening ten behoeve van de opsporing van misdrijven door de Kustwacht voor Aruba, Curaçao en Sint Maarten alsmede voor de openbare lichamen Bonaire, Sint Eustatius en Saba, voor zover het betreft misdrijven als bedoeld in [artikel 10, eerste lid, onder a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10).
 
-#### Artikel 6
+##### Artikel 6
 
 1. Behoeft de gezaghebber bij de handhaving van de openbare orde bijstand van een onderdeel van de krijgsmacht, dan richt hij een verzoek daartoe aan de Rijksvertegenwoordiger. De Rijksvertegenwoordiger richt zich met het verzoek tot Onze Minister van Defensie.
 
@@ -132,7 +159,7 @@ Bij algemene maatregel van bestuur op voordracht van Onze Ministers worden regel
 
 4. De gezaghebber bepaalt, in overeenstemming met Onze Minister van Defensie, de wijze waarop de bijstand wordt verleend.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Behoeft de procureur-generaal voor de strafrechtelijke handhaving van de rechtsorde dan wel voor het verrichten van taken ten dienste van de justitie bijstand van een onderdeel van de krijgsmacht, dan richt hij door tussenkomst van de Rijksvertegenwoordiger een verzoek daartoe aan Onze Minister van Defensie.
 
@@ -144,13 +171,13 @@ Bij algemene maatregel van bestuur op voordracht van Onze Ministers worden regel
 
 5. Behoeft de procureur-generaal bijstand door een bijstandseenheid als bedoeld in [artikel 59, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=59), dan richt hij door tussenkomst van de Rijksvertegenwoordiger een verzoek daartoe aan Onze Minister van Justitie. Artikel 59, derde, vierde en vijfde lid, van de Politiewet 2012 is van overeenkomstige toepassing.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Voor zover de Koninklijke marechaussee optreedt ter handhaving van de openbare orde staat zij onder gezag van de gezaghebber. Voor zover de Koninklijke marechaussee optreedt ter strafrechtelijke handhaving van de rechtsorde dan wel taken verricht ten dienste van de justitie, staat zij onder gezag van de procureur-generaal, tenzij in enige wet anders is bepaald. Het hoofd van het onderdeel van de Koninklijke marechaussee neemt deel aan het overleg, bedoeld in [artikel 19 van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=19).
 
 2. Het eerste lid is van overeenkomstige toepassing op de militair van enige ander onderdeel van de krijgsmacht, indien hij bijstand verleent aan de politie.
 
-#### Artikel 9
+##### Artikel 9
 
 1. In bijzondere gevallen kan door het politiekorps bijstand worden verleend aan de Koninklijke marechaussee met inachtneming van het tweede en derde lid.
 
@@ -160,7 +187,7 @@ Bij algemene maatregel van bestuur op voordracht van Onze Ministers worden regel
 
 #### § 2. Aanvullende bevoegdheden politie
 
-#### Artikel 10
+##### Artikel 10
 
 1. Onze Ministers gezamenlijk kunnen objecten en diensten aanwijzen waarvan bewaking en beveiliging door de politie noodzakelijk is in het belang van de veiligheid van de Staat of de betrekkingen van Nederland met andere mogendheden, dan wel met het oog op zwaarwegende belangen van de samenleving.
 
@@ -168,7 +195,7 @@ Bij algemene maatregel van bestuur op voordracht van Onze Ministers worden regel
 
 3. De procureur-generaal draagt zorg voor de uitvoering van een besluit als bedoeld in het eerste lid voor zover dat geschiedt ter strafrechtelijke handhaving van de rechtsorde.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De ambtenaren die door Onze Minister van Justitie zijn aangewezen voor het vervoer van rechtens van hun vrijheid beroofde personen, kunnen de bevoegdheden, bedoeld in [artikel 13, eerste en vierde lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=13), uitoefenen dan wel de maatregelen treffen die worden genoemd in de algemene maatregel van bestuur, bedoeld in [artikel 14, derde lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=14), voor zover dit noodzakelijk is met het oog op de voorkoming van het zich onttrekken van de te vervoeren persoon aan het op hem uitgeoefende toezicht. De eerste volzin is van toepassing voor zover de rechtens van hun vrijheid beroofde personen zijn ondergebracht bij de politie of de Koninklijke marechaussee.
 
@@ -176,11 +203,11 @@ Bij algemene maatregel van bestuur op voordracht van Onze Ministers worden regel
 
 #### § 3. Aanvullende regels over gezag
 
-#### Artikel 12
+##### Artikel 12
 
 De Rijksvertegenwoordiger geeft, indien een ordeverstoring van boveneilandelijke betekenis dan wel ernstige vrees voor het ontstaan daarvan zulks noodzakelijk maakt, de gezaghebber, zoveel mogelijk na overleg met hem, de nodige aanwijzingen met betrekking tot het door hem ter handhaving van de openbare orde te voeren beleid. De aanwijzingen worden zo enigszins mogelijk schriftelijk gegeven.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Ten behoeve van de toepassing van de [artikelen 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=2&paragraaf=2&artikel=10&z=2018-08-01&g=2018-08-01), en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=2&paragraaf=3&artikel=12&z=2018-08-01&g=2018-08-01) verstrekken de gezaghebbers, de Rijksvertegenwoordiger en Onze Minister elkaar de gewenste inlichtingen.
 
@@ -188,7 +215,7 @@ De Rijksvertegenwoordiger geeft, indien een ordeverstoring van boveneilandelijke
 
 #### § 4. Politiegegevens
 
-#### Artikel 14
+##### Artikel 14
 
 1. Het politiekorps registreert gegevens voor door Onze Ministers te bepalen doeleinden en door hen te bepalen categorieën dan wel in door hen aan te wijzen wettelijk geregelde registers en verstrekt deze gegevens aan door hen aan te wijzen personen en instanties, onverminderd het bepaalde bij of krachtens de [Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463).
 
@@ -198,11 +225,11 @@ De Rijksvertegenwoordiger geeft, indien een ordeverstoring van boveneilandelijke
 
 #### § 5. Aanvullende regels kwaliteitszorg en rechtspositie
 
-#### Artikel 15
+##### Artikel 15
 
 Bij regeling van Onze Minister worden regels gesteld over de kleding van de politie.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Bij regeling van Onze Minister worden nadere regels gesteld over de behandeling van klachten over gedragingen van ambtenaren van politie.
 
@@ -216,7 +243,7 @@ Bij regeling van Onze Minister worden regels gesteld over de kleding van de poli
 
 3. [Afdeling 9.1.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=9.1.3) is van toepassing op de behandeling van klachten als bedoeld in het tweede lid, onder a. Indien een commissie over de klacht zal adviseren, deelt de korpschef dit, in afwijking van [artikel 9:15, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:15), zo spoedig mogelijk aan de indiener van de klacht mede.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Bij regeling van Onze Ministers worden nadere regels gesteld ten aanzien van de behandeling van klachten over gedragingen van buitengewone agenten van politie.
 
@@ -224,7 +251,7 @@ Bij regeling van Onze Minister worden regels gesteld over de kleding van de poli
 
 3. [Artikel 16, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=2&paragraaf=5&artikel=16&z=2018-08-01&g=2018-08-01), is van overeenkomstige toepassing.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De korpsbeheerder politie draagt zorg voor de behandeling van een klacht die is ingediend over een gedraging van de ambtenaar van politie, aangesteld bij het politiekorps.
 
@@ -232,7 +259,7 @@ Bij regeling van Onze Minister worden regels gesteld over de kleding van de poli
 
 3. Onze Minister van Defensie draagt zorg voor de behandeling van een klacht die is ingediend over een gedraging van een militair van de Koninklijke marechaussee dan wel van enig ander onderdeel van de krijgsmacht bij de uitvoering van zijn in deze wet omschreven taken.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Een klacht over een gedraging van een ambtenaar van politie, een buitengewoon agent van politie of van een militair van de Koninklijke marechaussee dan wel van enig ander onderdeel van de krijgsmacht bij de uitvoering van zijn in deze wet omschreven taken, wordt ingediend bij de korpsbeheerder politie.
 
@@ -244,11 +271,11 @@ Bij regeling van Onze Minister worden regels gesteld over de kleding van de poli
 
 5. Na ontvangst van de klacht wordt een afschrift ervan gezonden aan de gezaghebber van het openbaar lichaam waar de gedraging waarover wordt geklaagd, heeft plaatsgevonden, alsmede aan de hoofdofficier van justitie. De gezaghebber en de hoofdofficier van justitie worden in de gelegenheid gesteld over de klacht advies uit te brengen.
 
-#### Artikel 20
+##### Artikel 20
 
 In afwijking van [artikel 9:11, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:11) wordt de klacht afgehandeld binnen tien weken of, indien een commissie als bedoeld in [artikel 16, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=2&paragraaf=5&artikel=16&z=2018-08-01&g=2018-08-01), is belast met de behandeling van en advisering over de klacht, binnen veertien weken na de ontvangst van de klacht.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Onze Minister is belast met het aanstellen, bevorderen, schorsen en ontslaan van ambtenaren van politie, met dien verstande dat plaatsing van ambtenaren van politie die uitsluitend of in hoofdzaak belast zijn met de strafrechtelijke handhaving van de rechtsorde dan wel het verrichten van taken ten dienste van de justitie, niet geschiedt dan na overleg met de procureur-generaal. Indien de taakvervulling van een zodanige ambtenaar van politie dit naar het oordeel van de procureur-generaal noodzakelijk maakt, draagt de korpsbeheerder politie voor vervanging zorg.
 
@@ -258,7 +285,7 @@ In afwijking van [artikel 9:11, eerste lid, van de Algemene wet bestuursrecht](h
 
 - b. de keuring en de controle op de lichamelijke en geestelijke geschiktheid van ambtenaren van politie.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Het lid van de leiding van het politiekorps dat in het bijzonder verantwoordelijk is voor de recherchefunctie, wordt benoemd, geschorst en ontslagen bij koninklijk besluit op voordracht van Onze Minister, in overeenstemming met Onze Minister van Justitie, gehoord de procureur-generaal.
 
@@ -266,7 +293,7 @@ In afwijking van [artikel 9:11, eerste lid, van de Algemene wet bestuursrecht](h
 
 3. Bij algemene maatregel van bestuur op voordracht van Onze Minister kan worden bepaald welke andere ambtenaren van politie dan die bedoeld in het eerste en tweede lid, worden benoemd, geschorst en ontslagen bij koninklijk besluit.
 
-#### Artikel 23
+##### Artikel 23
 
 1. De korpschef stelt na overleg met de hoofdofficier van justitie en de gezaghebbers, in overeenstemming met de procureur-generaal en met inachtneming van [artikel 24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=2&paragraaf=5&artikel=24&z=2018-08-01&g=2018-08-01), ten minste eenmaal in de vier jaar het ontwerp van het beheersplan voor het politiekorps op. Voorafgaand aan het opstellen van het ontwerp van het beheersplan worden de eilandsraden gehoord over de lokale prioriteiten.
 
@@ -280,7 +307,7 @@ In afwijking van [artikel 9:11, eerste lid, van de Algemene wet bestuursrecht](h
 
 6. De korpsbeheerder politie nodigt de hoofdofficier van justitie en de gezaghebbers uit deel te nemen aan het overleg over het beheer van de politie, bedoeld in [artikel 48, vijfde lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=48).
 
-#### Artikel 24
+##### Artikel 24
 
 1. Onze Ministers stellen ten minste eenmaal in de vier jaar de hoofdlijnen vast met betrekking tot het te voeren beleid ten aanzien van de taakuitvoering van de politie en het te voeren beheer van de politie voor de eerstkomende vier jaar.
 
@@ -294,17 +321,17 @@ In afwijking van [artikel 9:11, eerste lid, van de Algemene wet bestuursrecht](h
 
 6. Bij regeling van Onze Minister, in overeenstemming met Onze Minister van Justitie, kunnen regels worden gesteld over de uitvoering van het derde, vierde en vijfde lid.
 
-#### Artikel 25
+##### Artikel 25
 
 Vervallen
 
-#### Artikel 26
+##### Artikel 26
 
 De korpsbeheerder politie hanteert voor het politiekorps een kwaliteitszorgsysteem.
 
 ### Hoofdstuk 3. Brandweerkorps voor Bonaire, Sint Eustatius en Saba
 
-#### Artikel 27
+##### Artikel 27
 
 1. Er is een brandweerkorps voor de openbare lichamen. Het brandweerkorps heeft vestigingen in elk van de openbare lichamen.
 
@@ -332,7 +359,7 @@ De korpsbeheerder politie hanteert voor het politiekorps een kwaliteitszorgsyste
 
 9. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de inrichting en organisatie van het brandweerkorps.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Het brandweerkorps verricht in elk van de openbare lichamen de taken, bedoeld in [artikel 27, tweede lid, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=3&artikel=27&z=2018-08-01&g=2018-08-01), tevens op de luchthaven.
 
@@ -340,7 +367,7 @@ De korpsbeheerder politie hanteert voor het politiekorps een kwaliteitszorgsyste
 
 3. Bij regeling van Onze Minister worden regels gesteld over de berekening van de kosten, bedoeld in het tweede lid.
 
-#### Artikel 29
+##### Artikel 29
 
 1. De algemeen commandant stelt na overleg met de lokaal commandanten ten minste eenmaal in de vier jaar het ontwerp-beheersplan en jaarlijks het ontwerp-jaarplan met een daarbij behorende begroting op. Voorafgaand aan het opstellen van de plannen worden de bestuurscolleges gehoord.
 
@@ -348,7 +375,7 @@ De korpsbeheerder politie hanteert voor het politiekorps een kwaliteitszorgsyste
 
 3. Zodra de stukken, bedoeld in het tweede lid, zijn vastgesteld, zendt de algemeen commandant deze toe aan de bestuurscolleges en Rijksvertegenwoordiger.
 
-#### Artikel 30
+##### Artikel 30
 
 1. De algemeen commandant overlegt ten minste vier maal per jaar met elk van de bestuurscolleges en de lokaal commandant.
 
@@ -358,17 +385,17 @@ De korpsbeheerder politie hanteert voor het politiekorps een kwaliteitszorgsyste
 
 - b. de uitvoering van het beheersplan en de verwezenlijking van de doelstellingen, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=41&z=2018-08-01&g=2018-08-01).
 
-#### Artikel 31
+##### Artikel 31
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld betreffende de veiligheid, deugdelijkheid, normalisatie en standaardisatie van het brandweer- en reddingsmaterieel dat met het oog op gebruik in de openbare lichamen wordt vervaardigd, ingevoerd of in de handel gebracht.
 
 2. Voor keuringen die krachtens een algemene maatregel van bestuur als bedoeld in het eerste lid worden verricht, kunnen overeenkomstig daarbij te stellen regels vergoedingen in rekening worden gebracht. Deze vergoedingen worden niet in rekening gebracht aan publiekrechtelijke lichamen.
 
-#### Artikel 32
+##### Artikel 32
 
 De korpsbeheerder brandweer hanteert voor het brandweerkorps een kwaliteitszorgsysteem.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Onze Minister is belast met het aanstellen, bevorderen, schorsen en ontslaan van het personeel van het brandweerkorps.
 
@@ -392,7 +419,7 @@ De korpsbeheerder brandweer hanteert voor het brandweerkorps een kwaliteitszorgs
 
 5. Bij algemene maatregel van bestuur wordt gesteld welke brandweeropleidingen worden afgesloten met een Caribisch examen. Het algemeen bestuur van het Instituut Fysieke Veiligheid geeft het diploma af.
 
-#### Artikel 34
+##### Artikel 34
 
 1. Bij regeling van Onze Minister worden nadere regels gesteld ten aanzien van de behandeling van klachten over gedragingen van het personeel van het brandweerkorps.
 
@@ -400,7 +427,7 @@ De korpsbeheerder brandweer hanteert voor het brandweerkorps een kwaliteitszorgs
 
 3. De korpsbeheerder brandweer draagt zorg voor de behandeling van een klacht die is ingediend over een gedraging van een personeelslid van het brandweerkorps. [Artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=2&paragraaf=5&artikel=20&z=2018-08-01&g=2018-08-01) is van toepassing.
 
-#### Artikel 35
+##### Artikel 35
 
 1. De [artikelen 68, eerste lid, onder a, b, c, d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=68), en [70 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=70) zijn van toepassing in de openbare lichamen, met dien verstande dat in artikel 68, eerste lid, onder a en b, van die wet voor «een examen als bedoeld in artikel 18, vierde lid» wordt gelezen: een Caribisch examen als bedoeld in [artikel 33, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=3&artikel=33&z=2018-08-01&g=2018-08-01), van de Veiligheidswet BES.
 
@@ -408,7 +435,7 @@ De korpsbeheerder brandweer hanteert voor het brandweerkorps een kwaliteitszorgs
 
 3. [Artikel 73, vijfde tot en met zevende lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=73) is van toepassing, met dien verstande dat in die bepalingen in plaats van «besturen van de veiligheidsregio’s» wordt gelezen: bestuurscolleges van de openbare lichamen en de korpsbeheerder brandweer.
 
-#### Artikel 36
+##### Artikel 36
 
 Vervallen
 
@@ -416,7 +443,7 @@ Vervallen
 
 #### § 1. Eilandsbestuur
 
-#### Artikel 37
+##### Artikel 37
 
 1. Het bestuurscollege is belast met de organisatie van:
 
@@ -434,19 +461,19 @@ Vervallen
 
 4. Het bestuurscollege kan, in overeenstemming met de korpsbeheerder brandweer, een vestiging van het brandweerkorps belasten met andere taken dan bedoeld in [artikel 27, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=3&artikel=27&z=2018-08-01&g=2018-08-01). Deze taak wordt uitgevoerd onder verantwoordelijkheid van het bestuurscollege.
 
-#### Artikel 38
+##### Artikel 38
 
 De gezaghebber kan degene die verantwoordelijk is voor het vervoer van zieken en gewonden, aanwijzingen geven indien dat naar zijn oordeel noodzakelijk is uit een oogpunt van openbare orde.
 
 #### § 2. Eilandelijke brandweerzorg
 
-#### Artikel 39
+##### Artikel 39
 
 1. De eilandsraad stelt voor het openbaar lichaam in een brandbeveiligingsverordening regels over het voorkomen, beperken en bestrijden van brand, het beperken van brandgevaar, het voorkomen en beperken van ongevallen bij brand en al hetgeen daarmee verband houdt. Voorafgaand aan het vaststellen van de brandbeveiligingsverordening wordt de algemeen commandant van het brandweerkorps gehoord.
 
 2. Bij algemene maatregel van bestuur kunnen met het oog op uniformiteit regels worden gesteld over de inhoud van de brandbeveiligingsverordening.
 
-#### Artikel 40
+##### Artikel 40
 
 1. Het bestuurscollege kan een inrichting die in geval van een brand of ongeval bijzonder gevaar kan opleveren voor de openbare veiligheid aanwijzen als bedrijfsbrandweerplichtig.
 
@@ -466,7 +493,7 @@ De gezaghebber kan degene die verantwoordelijk is voor het vervoer van zieken en
 
 #### § 3. Voorbereiding van de rampenbestrijding en de crisisbeheersing
 
-#### Artikel 41
+##### Artikel 41
 
 1. Onze Minister kan doelstellingen vaststellen ten aanzien van de rampenbestrijding en de crisisbeheersing.
 
@@ -474,7 +501,7 @@ De gezaghebber kan degene die verantwoordelijk is voor het vervoer van zieken en
 
 3. Onze Minister voert, mede met het oog op eventueel vast te stellen doelstellingen als bedoeld in het eerste lid periodiek overleg met de gezaghebbers.
 
-#### Artikel 42
+##### Artikel 42
 
 1. Het bestuurscollege stelt, na overleg met de algemeen commandant, ten minste eenmaal in de vier jaar een beleidsplan vast, waarin het beleid is vastgelegd ten aanzien van de brandweerzorg, de rampenbestrijding en de crisisbeheersing.
 
@@ -500,7 +527,7 @@ De gezaghebber kan degene die verantwoordelijk is voor het vervoer van zieken en
 
 6. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de inhoud van het beleidsplan.
 
-#### Artikel 43
+##### Artikel 43
 
 1. Het beleidsplan, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=42&z=2018-08-01&g=2018-08-01), is mede gebaseerd op een door het bestuurscollege vastgesteld risicoprofiel.
 
@@ -516,7 +543,7 @@ De gezaghebber kan degene die verantwoordelijk is voor het vervoer van zieken en
 
 4. De bestuurscolleges gezamenlijk nodigen ten minste eenmaal per jaar de bij mogelijke rampen en crises in de openbare lichamen betrokken partijen uit voor een gezamenlijk overleg over de risico’s in de openbare lichamen. Een betrokken partij kan een verzoek richten aan de bestuurscolleges tot het houden van een gezamenlijk overleg.
 
-#### Artikel 44
+##### Artikel 44
 
 1. Het bestuurscollege stelt na overleg met de algemeen commandant ten minste eenmaal per vier jaar een rampen- en crisisplan vast. Het plan omvat in ieder geval een beschrijving van de organisatie, de verantwoordelijkheden, de taken en de bevoegdheden in het kader van de rampenbestrijding en de crisisbeheersing alsmede de afspraken die zijn gemaakt met andere bij mogelijke rampen en crisis betrokken partijen.
 
@@ -538,7 +565,7 @@ De gezaghebber kan degene die verantwoordelijk is voor het vervoer van zieken en
 
 6. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de inhoud van het rampen- en crisisplan.
 
-#### Artikel 45
+##### Artikel 45
 
 1. Bij algemene maatregel van bestuur kunnen categorieën inrichtingen, categorieën rampen en luchtvaartterreinen worden aangewezen waarvoor de gezaghebber een rampbestrijdingsplan vaststelt.
 
@@ -556,7 +583,7 @@ De gezaghebber kan degene die verantwoordelijk is voor het vervoer van zieken en
 
 4. De gezaghebber, gehoord de algemeen commandant, kan op grond van de ingevolge [artikel 51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=51&z=2018-08-01&g=2018-08-01), verschafte informatie besluiten dat voor een krachtens het eerste lid aangewezen inrichting geen rampbestrijdingsplan behoeft te worden vastgesteld. De gezaghebber meldt dit aan de Rijksvertegenwoordiger en verschaft hem daartoe de nodige informatie.
 
-#### Artikel 46
+##### Artikel 46
 
 1. Indien het bevoegde bestuursorgaan verzuimt een rampen- en crisisplan, een rampbestrijdingsplan of beleidsplan vast te stellen, nodigt de Rijksvertegenwoordiger dat bestuursorgaan uit om het plan binnen drie maanden vast te stellen.
 
@@ -568,7 +595,7 @@ De gezaghebber kan degene die verantwoordelijk is voor het vervoer van zieken en
 
 5. Alvorens de bevoegdheden, bedoeld in het eerste tot en met vierde lid, toe te passen, treedt de Rijksvertegenwoordiger in overleg met het tot vaststellen bevoegde bestuursorgaan.
 
-#### Artikel 47
+##### Artikel 47
 
 1. De Rijksvertegenwoordiger stelt na overleg met de gezaghebbers ten minste eenmaal in de vier jaar een coördinatieplan vast, waarin in ieder geval is opgenomen:
 
@@ -582,7 +609,7 @@ De gezaghebber kan degene die verantwoordelijk is voor het vervoer van zieken en
 
 3. Het plan worden uiterlijk een maand na vaststelling ter kennisneming aan de korpsbeheerder brandweer, aan de gezaghebbers alsmede aan de procureur-generaal gezonden.
 
-#### Artikel 48
+##### Artikel 48
 
 1. In elk van de openbare lichamen vervult de eilandsecretaris de functie van eilandelijk rampencoördinator.
 
@@ -594,7 +621,7 @@ De gezaghebber kan degene die verantwoordelijk is voor het vervoer van zieken en
 
 3. Het bestuurscollege kan de eilandelijk rampencoördinator belasten met andere taken die verband houden met de taak, bedoeld in het tweede lid.
 
-#### Artikel 49
+##### Artikel 49
 
 Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over:
 
@@ -606,7 +633,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ove
 
 - d. de organisatie van de brandweerzorg.
 
-#### Artikel 50
+##### Artikel 50
 
 1. Het bestuurscollege draagt er zorg voor dat Onze Minister, de Rijksvertegenwoordiger, de algemeen commandant en de hoofdofficier van justitie informatie wordt verschaft over de rampen en de crises die het openbaar lichaam kunnen treffen, en over de maatregelen die zijn getroffen ter voorkoming en bestrijding of beheersing hiervan.
 
@@ -616,7 +643,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ove
 
 4. Het bestuurscollege stemt zijn informatievoorziening, bedoeld in het eerste tot en met derde lid, af met de informatievoorziening door of onder verantwoordelijkheid van Onze bij rampen en crises betrokken Ministers.
 
-#### Artikel 51
+##### Artikel 51
 
 1. Eenieder die beschikt over relevante veiligheidstechnische gegevens verschaft het bestuurscollege de informatie die nodig is voor een adequate voorbereiding van de rampenbestrijding en de crisisbeheersing. Dit geldt niet voor zover deze informatie reeds op grond van andere voorschriften is verschaft of kan worden verkregen.
 
@@ -634,7 +661,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ove
 
 6. Onze betrokken Minister verstrekt de informatie op basis van de gegevens, bedoeld in het vierde en vijfde lid, aan het bestuurscollege nadat hij deze in overleg met Onze Minister zodanig heeft bewerkt, dat de gegevens waarvoor geheimhouding geboden is, daarin niet voorkomen of daaruit niet kunnen worden afgeleid.
 
-#### Artikel 52
+##### Artikel 52
 
 1. Het bestuurscollege maakt de gegevens openbaar die het krachtens [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=51&z=2018-08-01&g=2018-08-01) heeft ontvangen ten behoeve van de vaststelling van rampbestrijdingsplannen voor de krachtens [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=45&z=2018-08-01&g=2018-08-01) aangewezen categorieën inrichtingen en luchtvaartterreinen.
 
@@ -652,7 +679,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ove
 
 #### § 4. Taken en bevoegdheden bij de bestrijding van rampen en crises
 
-#### Artikel 53
+##### Artikel 53
 
 1. De gezaghebber heeft het opperbevel in geval van een ramp of van ernstige vrees voor het ontstaan daarvan. Degenen die aan de bestrijding van een ramp deelnemen, staan onder zijn bevel.
 
@@ -660,7 +687,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ove
 
 3. De gezaghebber nodigt voorts de functionarissen wier aanwezigheid in verband met de omstandigheden van belang zijn, uit deel te nemen aan de vergaderingen van het eilandelijk beleidsteam.
 
-#### Artikel 54
+##### Artikel 54
 
 1. De gezaghebber draagt er zorg voor dat de bevolking, de hoofdofficier van justitie, de algemeen commandant, de Rijksvertegenwoordiger en Onze Minister informatie wordt verschaft over de oorsprong, de omvang en de gevolgen van een ramp die het openbaar lichaam bedreigt of treft, alsmede over de daarbij te volgen gedragslijn.
 
@@ -668,37 +695,37 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ove
 
 3. De gezaghebber stemt zijn informatievoorziening, bedoeld in het eerste en tweede lid, af met de informatievoorziening door of onder verantwoordelijkheid van Onze bij rampen en crises betrokken Ministers.
 
-#### Artikel 55
+##### Artikel 55
 
 1. Onze Minister draagt er zorg voor dat alle staten die door een ramp of crisis in de openbare lichamen kunnen worden getroffen, ter zake worden geïnformeerd, voor zover dit niet reeds op grond van andere voorschriften geschiedt.
 
 2. Onze Minister draagt er zorg voor dat alle staten die door een ramp of crisis in de openbare lichamen worden bedreigd of getroffen, de informatie over de oorsprong, de omvang en de gevolgen van die ramp of crisis wordt verschaft, voor zover dit niet op grond van andere voorschriften geschiedt.
 
-#### Artikel 56
+##### Artikel 56
 
 1. In geval van een ramp stelt eenieder die daarvan kennis draagt, de gezaghebber zo spoedig mogelijk daarvan op de hoogte.
 
 2. In geval van een ramp verschaft eenieder die over relevante veiligheidstechnische gegevens beschikt, de gezaghebber de informatie die nodig is voor een adequate uitvoering van diens taken, bedoeld in [artikel 54, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=4&artikel=54&z=2018-08-01&g=2018-08-01). Dit geldt niet voor zover deze informatie reeds op grond van andere voorschriften is verschaft of kan worden verkregen, dan wel indien de gegevens op grond van [artikel 51, vierde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=51&z=2018-08-01&g=2018-08-01), reeds zijn verstrekt aan Onze betrokken Minister.
 
-#### Artikel 57
+##### Artikel 57
 
 Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over de informatieverschaffing, bedoeld in de [artikelen 50, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=50&z=2018-08-01&g=2018-08-01), [51, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=51&z=2018-08-01&g=2018-08-01), [52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=52&z=2018-08-01&g=2018-08-01), [54, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=4&artikel=54&z=2018-08-01&g=2018-08-01), [55, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=4&artikel=55&z=2018-08-01&g=2018-08-01), en [56, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=4&artikel=56&z=2018-08-01&g=2018-08-01).
 
-#### Artikel 58
+##### Artikel 58
 
 1. Behoeft de gezaghebber in geval van een brand, ramp of crisis of van ernstige vrees voor het ontstaan daarvan bijstand, anders dan voor de handhaving van de openbare orde, dan richt hij een verzoek daartoe aan de Rijksvertegenwoordiger.
 
 2. De Rijksvertegenwoordiger richt zich met een verzoek om bijstand tot de gezaghebbers van de andere openbare lichamen of tot Onze betrokken Minister dan wel, indien bijstand van een onderdeel van de krijgsmacht gewenst is, tot Onze Minister van Defensie, die de nodige voorzieningen treffen, tenzij dringende redenen zich daartegen verzetten.
 
-#### Artikel 59
+##### Artikel 59
 
 De Rijksvertegenwoordiger kan in geval van een ramp of een crisis van boveneilandelijke betekenis of van ernstige vrees voor het ontstaan daarvan de gezaghebber, zo mogelijk na overleg met hem, aanwijzingen geven over het inzake de rampenbestrijding of de crisisbeheersing te voeren beleid. Hij kan alsdan ten aanzien van een openbaar lichaam een functionaris aanwijzen die in de operationele leiding van de rampenbestrijding of de crisisbeheersing voorziet. Hij kan zich doen bijstaan door een door hem samengestelde rampenstaf.
 
-#### Artikel 60
+##### Artikel 60
 
 De gezaghebbers, de Rijksvertegenwoordiger en Onze Minister verstrekken elkaar de nodige inlichtingen ten behoeve van hun rol bij de toepassing van [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=4&artikel=59&z=2018-08-01&g=2018-08-01).
 
-#### Artikel 61
+##### Artikel 61
 
 1. Indien bij of krachtens de wet aan een van Onze andere Ministers de bevoegdheid is gegeven bij een ramp regels te stellen of maatregelen te treffen, maakt hij van deze bevoegdheid geen gebruik dan na overleg met Onze Minister, tenzij de vereiste spoed zich daartegen verzet.
 
@@ -706,7 +733,7 @@ De gezaghebbers, de Rijksvertegenwoordiger en Onze Minister verstrekken elkaar d
 
 #### § 5. Buitengewone omstandigheden
 
-#### Artikel 62
+##### Artikel 62
 
 1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8), kunnen indien buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, de [artikelen 63](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=5&artikel=63&z=2018-08-01&g=2018-08-01) en [64](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=5&artikel=64&z=2018-08-01&g=2018-08-01) in werking worden gesteld.
 
@@ -720,19 +747,19 @@ De gezaghebbers, de Rijksvertegenwoordiger en Onze Minister verstrekken elkaar d
 
 6. Een besluit als bedoeld in het eerste, derde en vierde lid wordt in ieder geval geplaatst in het Staatsblad.
 
-#### Artikel 63
+##### Artikel 63
 
 1. De Rijksvertegenwoordiger kan de gezaghebber in een concreet geval de nodige aanwijzingen geven inzake de rampenbestrijding en de crisisbeheersing.
 
 2. Onze Minister kan de Rijksvertegenwoordiger opdragen aan de gezaghebber in een concreet geval de nodige aanwijzingen te geven inzake de rampenbestrijding en de crisisbeheersing.
 
-#### Artikel 64
+##### Artikel 64
 
 Onze Minister kan, indien het algemeen belang zulks dringend eist, bevoegdheden van de gezaghebber en de Rijksvertegenwoordiger op grond van deze wet geheel of gedeeltelijk aan zich trekken dan wel een andere autoriteit daarmee geheel of ten dele belasten.
 
 ### Hoofdstuk 5. Samenwerking
 
-#### Artikel 65
+##### Artikel 65
 
 1. De bestuurscolleges, de korpsbeheerder politie en de korpsbeheerder brandweer, sluiten een convenant met het oog op de samenwerking bij de handhaving van de openbare orde en bij branden, rampen en crises. Het convenant wordt gesloten met Onze Minister van Defensie indien het betrekking heeft op onderdelen van de krijgsmacht.
 
@@ -740,13 +767,13 @@ Onze Minister kan, indien het algemeen belang zulks dringend eist, bevoegdheden 
 
 3. Bij regeling van Onze Minister kunnen regels worden gesteld over het convenant. Deze regeling wordt in overeenstemming met Onze Minister van Defensie gegeven indien het voorschriften bevat die mede de onderdelen van de krijgsmacht betreffen, en door Onze Minister en Onze Minister van Justitie gezamenlijk indien het voorschriften bevat ten behoeve van de strafrechtelijke handhaving van de rechtsorde dan wel de vervulling van taken ten dienste van de justitie.
 
-#### Artikel 66
+##### Artikel 66
 
 1. Het convenant, bedoeld in [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=5&artikel=65&z=2018-08-01&g=2018-08-01), heeft betrekking op een gemeenschappelijke meldkamer ten behoeve van de politietaak, de brandweerzorg, de geneeskundige hulpverlening en het ambulancevervoer.
 
 2. Het convenant bevat met betrekking tot de meldkamerfunctie in ieder geval afspraken over de samenwerking in de meldkamer.
 
-#### Artikel 67
+##### Artikel 67
 
 Bij of krachtens algemene maatregel van bestuur op voordracht van Onze Minister kunnen met het oog op de rampenbestrijding en de crisisbeheersing ten aanzien van de brandweer, de politie, de geneeskundige hulpverlening en de meldkamer regels worden gesteld over:
 
@@ -754,13 +781,13 @@ Bij of krachtens algemene maatregel van bestuur op voordracht van Onze Minister 
 
 - b. onderlinge samenwerking.
 
-#### Artikel 68
+##### Artikel 68
 
 1. Bij regeling van Onze Minister kunnen regels worden gesteld over de samenwerking tussen de bestuurscolleges, het politiekorps en het brandweerkorps alsmede de Koninklijke marechaussee indien het betreft de uitoefening van de politietaken, daaronder begrepen de taak, bedoeld in [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=2&paragraaf=1&artikel=5&z=2018-08-01&g=2018-08-01).
 
 2. De regeling, bedoeld in het eerste lid, wordt in overeenstemming met Onze Minister van Defensie gegeven indien zij voorschriften bevat die mede de Koninklijke marechaussee betreffen, en door Onze Ministers gezamenlijk indien zij voorschriften bevat ten behoeve van de strafrechtelijke handhaving van de rechtsorde dan wel de vervulling van taken ten dienste van de justitie.
 
-#### Artikel 69
+##### Artikel 69
 
 1. Bij regeling van Onze Ministers kunnen regels worden gesteld over de informatie- en communicatievoorzieningen van en het gebruik daarvan door de politie, het brandweerkorps en de diensten van de openbare lichamen die zijn betrokken bij de in [artikel 27, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=3&artikel=27&z=2018-08-01&g=2018-08-01), en [artikel 37, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=1&artikel=37&z=2018-08-01&g=2018-08-01), genoemde taken, alsmede over de informatiebeveiliging. Voor zover deze regels van belang zijn voor de uitvoering van de politietaken, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=2&paragraaf=1&artikel=5&z=2018-08-01&g=2018-08-01), kunnen zij, in overeenstemming met Onze Minister van Defensie, mede worden gegeven ten aanzien van de Koninklijke marechaussee.
 
@@ -768,7 +795,7 @@ Bij of krachtens algemene maatregel van bestuur op voordracht van Onze Minister 
 
 ### Hoofdstuk 6. Financiën
 
-#### Artikel 70
+##### Artikel 70
 
 1. In de kosten die voor een openbaar lichaam voortvloeien uit de uitoefening van zijn taken ingevolge [artikel 37, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=1&artikel=37&z=2018-08-01&g=2018-08-01), verlenen Onze Minister en Onze Minister van Volksgezondheid, Welzijn en Sport, voor zover het betreft de geneeskundige hulpverlening, een bijdrage. De bijdrage kan onder voorwaarden worden verleend.
 
@@ -778,7 +805,7 @@ Bij of krachtens algemene maatregel van bestuur op voordracht van Onze Minister 
 
 ### Hoofdstuk 7. Toezicht
 
-#### Artikel 71
+##### Artikel 71
 
 1. De Inspectie Openbare Orde en Veiligheid is belast met:
 
@@ -796,19 +823,19 @@ Bij of krachtens algemene maatregel van bestuur op voordracht van Onze Minister 
 
 5. Voor zover de taak, bedoeld in het eerste lid, betrekking heeft op de geneeskundige hulpverlening, voert de inspectie deze uit in overeenstemming met de Inspectie gezondheidszorg en jeugd.
 
-#### Artikel 72
+##### Artikel 72
 
 1. De inspectie staat onder gezag van Onze Minister, voor zover zij is belast met de werkzaamheden, bedoeld in [artikel 71, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=7&artikel=71&z=2018-08-01&g=2018-08-01).
 
 2. Indien ten aanzien van de inspectie een aanwijzing is gegeven als bedoeld in [artikel 29 van de Rijkswet Raad voor de rechtshandhaving](https://wetten.overheid.nl/jci1.3:c:BWBR0028075&artikel=29), staat de inspectie onder gezag van de Raad voor de rechtshandhaving.
 
-#### Artikel 73
+##### Artikel 73
 
 1. Het brandweerkorps en een orgaan als bedoeld in [artikel 71, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=7&artikel=71&z=2018-08-01&g=2018-08-01), verstrekken de door Onze Minister aangewezen ambtenaren desgevraagd de inlichtingen die zij redelijkerwijs nodig hebben in verband met de uitvoering van toetsen als bedoeld in artikel 71, eerste lid, onder a en b.
 
 2. Het brandweerkorps, een orgaan van het openbaar lichaam, van een samenwerkingslichaam of van het Rijk dan wel een ieder die werkzaam is bij een organisatie, een instelling, een inrichting die of een bedrijf dat betrokken is bij een brand, ramp of crisis, verstrekt de door Onze Minister aangewezen ambtenaren desgevraagd de inlichtingen die zij redelijkerwijs nodig hebben in verband met het verrichten van een onderzoek als bedoeld in [artikel 71, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=7&artikel=71&z=2018-08-01&g=2018-08-01).
 
-#### Artikel 74
+##### Artikel 74
 
 1. De werkzaamheden die in het kader van [artikel 71, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=7&artikel=71&z=2018-08-01&g=2018-08-01), worden uitgevoerd, worden jaarlijks door Onze Minister vastgesteld, gehoord de Rijksvertegenwoordiger.
 
@@ -820,7 +847,7 @@ Bij of krachtens algemene maatregel van bestuur op voordracht van Onze Minister 
 
 5. Onze Minister zendt, onverminderd het vierde lid, de Staten-Generaal jaarlijks een door de inspectie opgesteld verslag van de werkzaamheden die in het kader van [artikel 71, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=7&artikel=71&z=2018-08-01&g=2018-08-01), zijn uitgevoerd.
 
-#### Artikel 75
+##### Artikel 75
 
 1. De Rijksvertegenwoordiger kan een bestuursorgaan van het openbaar lichaam of van een samenwerkingslichaam een aanwijzing geven indien de taakuitvoering op grond van de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&z=2018-08-01&g=2018-08-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=5&z=2018-08-01&g=2018-08-01) in het desbetreffende openbaar lichaam tekortschiet.
 
@@ -828,7 +855,7 @@ Bij of krachtens algemene maatregel van bestuur op voordracht van Onze Minister 
 
 3. De organen van het openbaar lichaam en een samenwerkingslichaam geven de Rijksvertegenwoordiger alle inlichtingen die hij voor de uitoefening van het toezicht nodig heeft.
 
-#### Artikel 76
+##### Artikel 76
 
 1. Onverminderd [artikel 71, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=7&artikel=71&z=2018-08-01&g=2018-08-01), zijn de ambtenaren die bij besluit van het bestuurscollege zijn aangewezen, belast met toezicht op de naleving van:
 
@@ -840,7 +867,7 @@ Bij of krachtens algemene maatregel van bestuur op voordracht van Onze Minister 
 
 2. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over het toezicht, bedoeld in het eerste lid, onder b.
 
-#### Artikel 77
+##### Artikel 77
 
 1. De gezaghebber, de Rijksvertegenwoordiger, de algemeen commandant en het door hem aangewezen ter plaatste dienstdoende personeel van de brandweer alsmede de door Onze Minister aangewezen ambtenaren, bedoeld in [artikel 73, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=7&artikel=73&z=2018-08-01&g=2018-08-01), zijn bevoegd elke plaats te betreden, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is. Zo nodig verschaffen zij zich de toegang met behulp van de sterke arm. Zij kunnen zich bij het binnentreden doen vergezellen van door hen aangewezen personen.
 
@@ -856,7 +883,7 @@ Bij of krachtens algemene maatregel van bestuur op voordracht van Onze Minister 
 
 ### Hoofdstuk 8. Sancties en overige bepalingen
 
-#### Artikel 78
+##### Artikel 78
 
 1. Overtreding van de regels van de verordening, bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=2&artikel=39&z=2018-08-01&g=2018-08-01) en van het bij of krachtens de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=3&artikel=31&z=2018-08-01&g=2018-08-01) en [40, derde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=2&artikel=40&z=2018-08-01&g=2018-08-01), bepaalde wordt bestraft met hechtenis van ten hoogste een jaar of een geldboete van de derde categorie.
 
@@ -870,7 +897,7 @@ Bij of krachtens algemene maatregel van bestuur op voordracht van Onze Minister 
 
 6. De in het derde en vierde lid strafbaar gestelde feiten zijn misdrijven, voor zover zij opzettelijk zijn begaan. Voor zover zij geen misdrijven zijn, zijn zij overtredingen.
 
-#### Artikel 79
+##### Artikel 79
 
 1. Met de opsporing van de bij [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=8&artikel=78&z=2018-08-01&g=2018-08-01) strafbaar gestelde feiten zijn, onverminderd [artikel 184 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184), belast de ambtenaren, aangewezen bij besluit van Onze Minister.
 
@@ -880,7 +907,7 @@ Bij of krachtens algemene maatregel van bestuur op voordracht van Onze Minister 
 
 ### Hoofdstuk 9. Overgangs- en invoeringsbepalingen
 
-#### Artikel 80
+##### Artikel 80
 
 1. Ten aanzien van de in deze wet opgenomen verplichtingen geldt dat:
 
@@ -902,21 +929,21 @@ Bij of krachtens algemene maatregel van bestuur op voordracht van Onze Minister 
 
 4. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over gelijkstelling van diploma’s van ambtenaren van politie en het personeel van de brandweer.
 
-#### Artikel 81
+##### Artikel 81
 
 1. In afwijking van [artikel 11, eerste lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=11), treedt de Staat ten aanzien van de rechten en verplichtingen naar burgerlijk recht van de voormalige eilandgebieden Bonaire, Sint Eustatius en Saba, voor zover het betreft de taken die op het tijdstip van inwerkingtreding van deze wet bij het brandweerkorps, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=3&artikel=27&z=2018-08-01&g=2018-08-01), berusten, met ingang van inwerkingtreding van deze wet voor de voormalige eilandgebieden in de plaats.
 
 2. In afwijking van [artikel 11, tweede lid, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=11), treedt in wettelijke procedure en rechtsgedingen waarbij de dienst brandweer van het voormalige eilandgebied Bonaire, de dienst luchthaven van het voormalige eilandgebied Sint Eustatius en de dienst lucht- en zeehaven van het voormalige eilandgebied Saba voor wat betreft taken die na inwerkingtreding van deze wet door het brandweerkorps, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=3&artikel=27&z=2018-08-01&g=2018-08-01), van deze wet, worden uitgevoerd, is betrokken, de Staat dan wel Onze Minister in de plaats van het eilandgebied dan wel het bestuurscollege.
 
-#### Artikel 82
+##### Artikel 82
 
 Wijzigt de Wet politiegegevens.
 
-#### Artikel 83
+##### Artikel 83
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 84
+##### Artikel 84
 
 Deze wet wordt aangehaald als: Veiligheidswet BES.
 

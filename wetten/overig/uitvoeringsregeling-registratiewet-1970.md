@@ -1,13 +1,38 @@
 ---
 title: "Uitvoeringsregeling Registratiewet 1970"
 identifier: "BWBR0034017"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034017"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034017"
+soort: "ministeriele-regeling"
+stam_id: "12395363"
+version_id: "20803662"
+internal_id: "C29875771"
+label_id: "12366574"
+dtd_version: "2.0"
+original_entry_into_force: "2013-10-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034017/2026-01-01/0"
+intitule_bron: "Stcrt.2013-28846"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-10-10"
+intitule_published: "2013-10-14"
+intitule_in_force: "2013-10-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-28846"
+original_signed_date: "2013-10-10"
+original_published_date: "2013-10-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-28846"
+entry_into_force_date: "2013-10-15"
+jci_1_3: "jci1.3:c:BWBR0034017&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0034017&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2013-10-10"
+entry_into_force: "2013-10-15"
 ---
-
 # Uitvoeringsregeling Registratiewet 1970
 
 Handelende na overleg met de Staatssecretaris van Veiligheid en Justitie;
@@ -18,7 +43,7 @@ Besluit:
 
 ### Hoofdstuk 1. Definitiebepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 Deze regeling verstaat onder:
 
@@ -44,7 +69,7 @@ Deze regeling verstaat onder:
 
 ### Hoofdstuk 2. Registratie van notariële akten langs elektronische weg bij de KNB
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het register bevat een elektronisch afschrift van elke ter registratie aangeboden akte als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=3) en [4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=4) of een elektronische kopie van iedere ter registratie aangeboden akte als bedoeld in artikel 4, derde lid, van de wet.
 
@@ -58,7 +83,7 @@ Deze regeling verstaat onder:
 
 6. De gegevens in het register en het repertorium betreffende een notariële akte worden ten minste 31 jaar bewaard.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De inschrijving door de notaris, bedoeld in [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=7), in het repertorium omvat voor elke akte ten minste:
 
@@ -88,7 +113,7 @@ Deze regeling verstaat onder:
 
 6. In afwijking van het eerste lid, onderdeel d, worden in geval van een proces-verbaal-akte als bedoeld in [artikel 37 van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=37) de gegevens, bedoeld in het eerste lid, onderdeel d, onder 1° en 2°, van ten minste een van de bij de inhoud belanghebbende personen of rechtspersonen vermeld in plaats van die gegevens van een bij de akte optredende partij.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De notaris doet aangifte overdrachtsbelasting als bedoeld in [artikel 21a van de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&artikel=21a), via de KNB bij de inspecteur door registratie van de akte, bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=3), en indien van toepassing het aanbieden van de verklaring, bedoeld in [artikel 15a van de Wet op belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15a), alsmede door het insturen van een of meerdere elektronische berichten overeenkomstig de door de KNB, in overeenstemming met de Belastingdienst, daartoe opgestelde richtlijnen, het bericht omvat ten minste de volgende gegevens:
 
@@ -112,49 +137,49 @@ Deze regeling verstaat onder:
 
 3. De KNB draagt zorg voor onverwijlde doorzending van het elektronische bericht, bedoeld in het eerste lid, en de berichten, bedoeld in het tweede lid, op de wijze zoals is vastgesteld in overleg tussen de KNB en de Belastingdienst waarbij bij verzending van het elektronische bericht een verwijzing wordt opgenomen naar de desbetreffende akte.
 
-#### Artikel 5
+##### Artikel 5
 
 De notaris draagt ervoor zorg dat de elektronische middelen waarmee hij toegang heeft tot het register en het repertorium en waarmee hij de gegevens verstrekt ten behoeve van de aangifte overdrachtsbelasting voldoen aan de daarvoor door de KNB gestelde eisen.
 
-#### Artikel 6
+##### Artikel 6
 
 De KNB draagt zorg voor onverwijlde doorzending van de gegevens, bedoeld in de [artikelen 7a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=7a), en [7b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=7b), op de wijze zoals is vastgesteld in overleg tussen de KNB en de Belastingdienst.
 
-#### Artikel 7
+##### Artikel 7
 
 De verplichtingen van notarissen, genoemd in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002739), gelden jegens iedere inspecteur.
 
-#### Artikel 8
+##### Artikel 8
 
 De KNB kan beschikken over gegevens uit het repertorium indien dat noodzakelijk is voor het voldoen aan haar wettelijke taken. De KNB draagt zorg voor het onderhoud van het register en het repertorium.
 
-#### Artikel 9
+##### Artikel 9
 
 Van een akte als bedoeld in [artikel 42 van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=42), die niet is verleden in de Nederlandse taal, doet de inspecteur de vordering, bedoeld in [artikel 6, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=6), bij aangetekend schrijven aan de notaris blijken. Indien niet of niet tijdig aan de vordering wordt voldaan, stelt de inspecteur de KNB hiervan op de hoogte.
 
 ### Hoofdstuk 3. De registratie van onderhandse akten bij de Belastingdienst
 
-#### Artikel 10
+##### Artikel 10
 
 De registratie door de inspecteur van een in de Friese of in een vreemde taal opgemaakte akte als bedoeld in [artikel 1, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=1), geschiedt in de Nederlandse taal.
 
-#### Artikel 11
+##### Artikel 11
 
 De registers, bedoeld in [artikel 1, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=1), worden gehouden door de algemeen directeur van het organisatieonderdeel Belastingdienst/Centrale administratieve processen, bedoeld in [artikel 3, eerste lid, onderdeel c, van de Uitvoeringsregeling Belastingdienst 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&artikel=3).
 
-#### Artikel 12
+##### Artikel 12
 
 1. De aanbieding ter registratie van akten als bedoeld in [artikel 1, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=1), geschiedt bij de inspecteur, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0034017&hoofdstuk=3&artikel=11&z=2026-01-01&g=2026-01-01), bij het daartoe door de Belastingdienst opengestelde kantoor.
 
 2. Het kantoor, bedoeld in het eerste lid, is voor het aanbieden van de akten ter registratie dagelijks van 9.00 uur tot 17.00 uur geopend, met uitzondering van de zaterdag, de zondag, algemeen erkende feestdagen in de zin van de [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) en de bij of krachtens [artikel 3 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448&artikel=3) daarmee gelijkgestelde dagen.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Akten als bedoeld in [artikel 1, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=1) worden door de inspecteur geregistreerd in het register Registratie Onderhandse Akten.
 
 2. In het register Registratie wordt boven de eerste registratie betreffende de op eenzelfde dag aan de inspecteur aangeboden akten de datum van aanbieding vermeld en wel – met uitzondering van het jaartal – in letters.
 
-#### Artikel 14
+##### Artikel 14
 
 De registratie in het register Registratie, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0034017&hoofdstuk=3&artikel=13&z=2026-01-01&g=2026-01-01), omvat voor elke akte als bedoeld in [artikel 1, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=1) ten minste de volgende gegevens:
 
@@ -174,15 +199,15 @@ De registratie in het register Registratie, bedoeld in [artikel 13](https://wett
 
 - f. het aantal renvooien en het aantal annexen.
 
-#### Artikel 15
+##### Artikel 15
 
 Ingeval een akte als bedoeld in [artikel 1, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=1) niet of niet door alle daarin als ondertekenaren aangeduide personen is ondertekend, wordt dit bij de registratie vermeld.
 
-#### Artikel 16
+##### Artikel 16
 
 Tegelijk ter registratie aangeboden gelijksoortige akten als bedoeld in [artikel 1, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=1), die door dezelfde persoon zijn aangeboden, kunnen tezamen worden geregistreerd onder een aantal volgnummers dat overeenkomt met het aantal akten. In dat geval worden de gegevens, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0034017&hoofdstuk=3&artikel=14&z=2026-01-01&g=2026-01-01), slechts eenmaal vermeld, voor zover deze voor de verschillende akten gelijk zijn.
 
-#### Artikel 17
+##### Artikel 17
 
 Bij de registratie van een akte als bedoeld in [artikel 1, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=1) worden door de inspecteur:
 
@@ -194,7 +219,7 @@ Bij de registratie van een akte als bedoeld in [artikel 1, tweede lid, onderdeel
 
 - 2°. de annexen.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De inspecteur stelt ten blijke van de registratie van een akte als bedoeld in [artikel 1, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=1) op het eerste blad van de akte of, indien meer exemplaren van de akte tegelijk ter registratie zijn aangeboden, op de eerste bladen van alle exemplaren een door hem ondertekende verklaring van registratie.
 
@@ -216,31 +241,31 @@ Bij de registratie van een akte als bedoeld in [artikel 1, tweede lid, onderdeel
 
 ### Hoofdstuk 4. Overige bepalingen
 
-#### Artikel 19
+##### Artikel 19
 
 De inspecteur wordt tevens aangewezen als inspecteur van de rijksbelastingen, bedoeld in [artikel 6, tweede lid, van de Wet op het centraal testamentenregister](https://wetten.overheid.nl/jci1.3:c:BWBR0003080&artikel=6).
 
-#### Artikel 20
+##### Artikel 20
 
 Wijzigt de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994.
 
-#### Artikel 21
+##### Artikel 21
 
 Als kosten als bedoeld in [artikel 13a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=13a) komen voor vergoeding in aanmerking de werkelijk gemaakte kosten op basis van nacalculatie door of ten laste van de KNB die noodzakelijk zijn ten behoeve van de uitoefening van de in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002739) aan de KNB opgedragen taken zoals deze tussen de KNB en de Belastingdienst zijn vastgesteld dan wel op verzoek van beide partijen door een onafhankelijke ter zake deskundige derde partij. Vijf jaren na eerste ingebruikname van het door de KNB, in overeenstemming met de Belastingdienst, te ontwikkelen systeem van registratie langs elektronische weg, vindt een evaluatie van de wet, haar uitvoering en dit systeem van vergoeding plaats.
 
-#### Artikel 22
+##### Artikel 22
 
 Tot de datum, bedoeld in [artikel V, eerste lid, van de Wet elektronische registratie notariële akten](https://wetten.overheid.nl/jci1.3:c:BWBR0032526&artikel=V), blijven met betrekking tot akten van notarissen, het repertorium en de aangifte overdrachtsbelasting de [Uitvoeringsbeschikking Registratiewet 1970](https://wetten.overheid.nl/jci1.3:c:BWBR0002772) en [artikel 21a, eerste lid, van de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&artikel=21a) van toepassing zoals deze luidden onmiddellijk voorafgaande aan de inwerkingtreding van deze regeling. Indien ten aanzien van een notaris een beschikking is genomen als bedoeld in artikel V, tweede lid, van de Wet elektronische registratie notariële akten, treedt de in die beschikking vermelde datum in de plaats van de datum, bedoeld in de eerste volzin.
 
-#### Artikel 23
+##### Artikel 23
 
 De [Uitvoeringsbeschikking Registratiewet 1970](https://wetten.overheid.nl/jci1.3:c:BWBR0002772) wordt ingetrokken.
 
-#### Artikel 24
+##### Artikel 24
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Deze regeling wordt aangehaald als: Uitvoeringsregeling Registratiewet 1970.
 

@@ -1,13 +1,36 @@
 ---
 title: "Schoolbudget, meer vrijheid voor eigen personeelsbeleid"
 identifier: "BWBR0014941"
-categorie: "Onderwijs"
-publicatiedatum: 2003-05-21
-laatste_update: 2003-05-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0014941"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2003-05-21"
+last_updated: "2003-05-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0014941"
+soort: "beleidsregel"
+stam_id: "6513153"
+version_id: "11209732"
+internal_id: "C15140521"
+label_id: "6501984"
+original_entry_into_force: "2003-05-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0014941/2003-05-21/0"
+intitule_bron: "Uitleg.2003-13"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-04-09"
+intitule_published: "2003-05-21"
+intitule_in_force: "2003-05-21"
+intitule_status: "goed"
+original_publication: "Uitleg.2003-13"
+original_signed_date: "2003-04-09"
+original_published_date: "2003-05-21"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2003-05-21"
+jci_1_3: "jci1.3:c:BWBR0014941&z=2003-05-21&g=2003-05-21"
+jci_1_0: "1.0:c:BWBR0014941&g=2003-05-21"
+citeertitel_status: "redactioneel"
+signed_date: "2003-04-09"
+entry_into_force: "2003-05-21"
 ---
-
 # Schoolbudget, meer vrijheid voor eigen personeelsbeleid
 
 ### Schoolbudget

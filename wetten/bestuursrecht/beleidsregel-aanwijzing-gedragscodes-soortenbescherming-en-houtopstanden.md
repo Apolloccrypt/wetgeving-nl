@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregel aanwijzing gedragscodes soortenbescherming en houtopstanden"
+title: "Beleidsregel van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur van 2 oktober 2024, nr. WJZ/ 86864848, tot nader specificeren van de eisen die worden gesteld aan gedragscodes soortenbescherming en houtopstanden bij aanwijzing in de Omgevingsregeling (Beleidsregel aanwijzing gedragscodes soortenbescherming en houtopstanden)"
 identifier: "BWBR0050302"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-10-17
-laatste_update: 2024-10-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050302"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2024-10-17"
+last_updated: "2024-10-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050302"
+soort: "beleidsregel"
+stam_id: "17242313"
+version_id: "30367192"
+internal_id: "C43552451"
+label_id: "17148134"
+dtd_version: "2.0"
+original_entry_into_force: "2024-10-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050302/2024-10-17/0"
+intitule_bron: "Stcrt.2024-29932"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-10-02"
+intitule_published: "2024-10-16"
+intitule_in_force: "2024-10-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-29932"
+original_signed_date: "2024-10-02"
+original_published_date: "2024-10-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-29932"
+entry_into_force_date: "2024-10-17"
+jci_1_3: "jci1.3:c:BWBR0050302&z=2024-10-17&g=2024-10-17"
+jci_1_0: "1.0:c:BWBR0050302&g=2024-10-17"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel aanwijzing gedragscodes soortenbescherming en houtopstanden"
+signed_date: "2024-10-02"
+entry_into_force: "2024-10-17"
 ---
-
 # Beleidsregel van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur van 2 oktober 2024, nr. WJZ/ 86864848, tot nader specificeren van de eisen die worden gesteld aan gedragscodes soortenbescherming en houtopstanden bij aanwijzing in de Omgevingsregeling (Beleidsregel aanwijzing gedragscodes soortenbescherming en houtopstanden)
 
 Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81), de [artikelen 4.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.3), [5.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1) en [5.2, derde lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.2), in samenhang met de [artikelen 11.45](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.45), [11.53](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.53), [11.59](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.59) en [11.131, eerste lid, aanhef en onder d, en tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.131);
 
 Besluit:
 
-#### Artikel 1. (begripsbepalingen)
+##### Artikel 1. (begripsbepalingen)
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -24,13 +50,13 @@ In deze beleidsregel wordt verstaan onder:
 
 - **minister:** Minister van Landbouw, Visserij, Voedselzekerheid en Natuur.
 
-#### Artikel 2. (voorwaarden aanwijzing gedragscode)
+##### Artikel 2. (voorwaarden aanwijzing gedragscode)
 
 1. De minister wijst een gedragscode soortenbescherming als bedoeld in de [artikelen 11.45](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.45), [11.53](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.53) of [11.59 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.59) uitsluitend aan, als is voldaan aan de [artikelen 3 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0050302&artikel=3&z=2024-10-17&g=2024-10-17).
 
 2. De minister wijst een gedragscode houtopstanden op grond van [artikel 11.131, eerste lid, aanhef en onder d, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.131) uitsluitend aan, als is voldaan aan de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050302&artikel=6&z=2024-10-17&g=2024-10-17) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0050302&artikel=8&z=2024-10-17&g=2024-10-17).
 
-#### Artikel 3. (gedragscode soortenbescherming in het kader van bestendig beheer en onderhoud)
+##### Artikel 3. (gedragscode soortenbescherming in het kader van bestendig beheer en onderhoud)
 
 1. Een gedragscode soortenbescherming voor activiteiten in het kader van bestendig beheer en onderhoud:
 
@@ -40,7 +66,7 @@ In deze beleidsregel wordt verstaan onder:
 
 2. Voor de toepassing van het eerste lid worden onder activiteiten in het kader van bestendig beheer en onderhoud in ieder geval begrepen werkzaamheden die zijn opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0050302&bijlage=I&z=2024-10-17&g=2024-10-17) bij deze beleidsregel.
 
-#### Artikel 4. (gedragscode soortenbescherming in het kader van ruimtelijke ontwikkeling of inrichting)
+##### Artikel 4. (gedragscode soortenbescherming in het kader van ruimtelijke ontwikkeling of inrichting)
 
 1. Een gedragscode soortenbescherming voor activiteiten in het kader van ruimtelijke ontwikkeling of inrichting heeft betrekking op:
 
@@ -52,17 +78,17 @@ In deze beleidsregel wordt verstaan onder:
 
 3. Voor de toepassing van het eerste lid, onder a, worden onder leefgebieden van beschermde soorten in ieder geval begrepen leefgebieden van soorten die zijn opgenomen in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0050302&bijlage=III&z=2024-10-17&g=2024-10-17) bij deze beleidsregel.
 
-#### Artikel 5. (activiteiten waarvoor geen gedragscode kan worden aangewezen)
+##### Artikel 5. (activiteiten waarvoor geen gedragscode kan worden aangewezen)
 
 Een gedragscode bevat geen activiteiten als bedoeld in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0050302&bijlage=IV&z=2024-10-17&g=2024-10-17) bij deze beleidsregel.
 
-#### Artikel 6. (participatie)
+##### Artikel 6. (participatie)
 
 1. Belanghebbenden zijn naar het oordeel van de minister voldoende betrokken geweest bij de totstandkoming van het concept van de gedragscode.
 
 2. De minister betrekt bij zijn oordeel een verslag van de wijze waarop de afstemming met relevante soortenorganisaties en andere belanghebbenden heeft plaatsgevonden, de zienswijzen die naar voren zijn gebracht en de wijze waarop daarmee rekening is gehouden. Hieruit moet blijken dat er draagvlak bestaat binnen de sector en de betreffende soortenorganisatie.
 
-#### Artikel 7. (ecologisch deskundige)
+##### Artikel 7. (ecologisch deskundige)
 
 Om te verzekeren dat de activiteiten zorgvuldig worden verricht als bedoeld in de [artikelen 11.45, tweede lid, aanhef en onder b, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.45), [11.53, tweede lid, aanhef en onder b, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.53) en [11.59, tweede lid en aanhef en onder b, en derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.59):
 
@@ -80,7 +106,7 @@ Om te verzekeren dat de activiteiten zorgvuldig worden verricht als bedoeld in d
 
 - 5°. begeleiden van specifieke maatregelen ten aanzien van een beschermde soort.
 
-#### Artikel 8. (aanwijzing nieuwe gedragscode na verlopen einddatum)
+##### Artikel 8. (aanwijzing nieuwe gedragscode na verlopen einddatum)
 
 1. Een eerder aangewezen gedragscode wordt alleen opnieuw aangewezen of een gedragscode die grotendeels overeenkomt met een eerder aangewezen gedragscode wordt alleen aangewezen als:
 
@@ -96,17 +122,17 @@ Om te verzekeren dat de activiteiten zorgvuldig worden verricht als bedoeld in d
 
 - b. de bekendheid met de gedragscode onder de gebruikers, en de mate waarin er binnen de doelgroep gebruik van wordt gemaakt.
 
-#### Artikel 9. (duur gedragscode)
+##### Artikel 9. (duur gedragscode)
 
 De minister wijst een gedragscode op grond van de [artikelen 11.45](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.45), [11.53](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.53), [11.59](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.59) en [11.131, eerste lid, onder d, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.131) aan voor ten hoogste een periode van vijf jaar.
 
-#### Artikel 10. (inwerkingtreding)
+##### Artikel 10. (inwerkingtreding)
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van
 
 uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 11. (citeertitel)
+##### Artikel 11. (citeertitel)
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel aanwijzing gedragscodes soortenbescherming en houtopstanden.
 

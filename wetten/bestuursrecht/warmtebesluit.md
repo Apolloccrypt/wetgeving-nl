@@ -1,13 +1,39 @@
 ---
-title: "Warmtebesluit"
+title: "Besluit van 10 september 2013, houdende regels ter uitvoering van de Warmtewet (Warmtebesluit)"
 identifier: "BWBR0033940"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033940"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033940"
+soort: "AMvB"
+stam_id: "12375953"
+version_id: "25785552"
+internal_id: "C36764851"
+label_id: "12347074"
+dtd_version: "2.0"
+original_entry_into_force: "2019-03-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033940/2026-01-01/0"
+intitule_bron: "Stb.2013-359"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-09-10"
+intitule_published: "2013-09-27"
+intitule_in_force: "2013-09-27"
+intitule_status: "goed"
+original_publication: "Stb.2019-133"
+original_signed_date: "2019-03-26"
+original_published_date: "2019-04-04"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2019-133"
+entry_into_force_date: "2019-03-26"
+jci_1_3: "jci1.3:c:BWBR0033940&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0033940&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Warmtebesluit"
+signed_date: "2019-03-26"
+entry_into_force: "2019-03-26"
 ---
-
 # Besluit van 10 september 2013, houdende regels ter uitvoering van de Warmtewet (Warmtebesluit)
 
 Op de voordracht van onze Minister van Economische Zaken, Landbouw en Innovatie van 31 januari 2011, nr. WJZ / 11014240;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -38,7 +64,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 2. Tariefregulering
 
-#### Artikel 2
+##### Artikel 2
 
 De maximumprijs voor de levering van warmte bestaat uit een gebruiksafhankelijk en gebruiksonafhankelijk deel en wordt vastgesteld met inachtneming van de formule:
 
@@ -54,7 +80,7 @@ Pw = de variabele kosten in het jaar t, uitgedrukt in euro per gigajoule;
 
 Ww = het jaarverbruik van de warmteverbruiker, uitgedrukt in gigajoule.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Voor warmte met een temperatuur categorie als bedoeld in [artikel 1a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&paragraaf=2&artikel=1a&z=2026-01-01&g=2026-01-01), wordt het gebruiksonafhankelijk deel van de maximumprijs vastgesteld met inachtneming van de formule:
 
@@ -114,7 +140,7 @@ VKw 1000 kW = de vaste kosten van een aansluiting voor levering van warmte met e
 
 7. Bij ministeriële regeling kunnen nadere eisen worden gesteld aan de elementen, genoemd in het eerste, derde of vijfde lid.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het gebruiksafhankelijk deel van de maximumprijs voor:
 
@@ -148,7 +174,7 @@ VT = warmtevraag voor warm tapwater als percentage van de totale warmtevraag, en
 
 3. Bij ministeriële regeling kunnen nadere eisen worden gesteld aan de elementen, genoemd in het eerste of tweede lid.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Als categorieën aansluitingen, als bedoeld in [artikel 6, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=6) worden vastgesteld:
 
@@ -194,7 +220,7 @@ VT = warmtevraag voor warm tapwater als percentage van de totale warmtevraag, en
 
 #### § 3. Boekhouding en jaarrekening
 
-#### Artikel 6
+##### Artikel 6
 
 1. De afzonderlijke boekhouding, bedoeld in [artikel 12a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=12a), bevat in ieder geval:
 
@@ -230,7 +256,7 @@ VT = warmtevraag voor warm tapwater als percentage van de totale warmtevraag, en
 
 - d. welke methoden en criteria zijn gehanteerd bij het opstellen van de boekhouding.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het bestuursverslag, bedoeld in [artikel 12a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=12a), bevat in ieder geval:
 
@@ -270,7 +296,7 @@ VT = warmtevraag voor warm tapwater als percentage van de totale warmtevraag, en
 
 - d. het vaststellen van de informatie over de duurzaamheid van de geleverde warmte in het bestuursverslag.
 
-#### Artikel 8
+##### Artikel 8
 
 1. In de toelichting op de jaarrekening wordt iedere producent van warmte waarmee de leverancier een overeenkomst heeft gesloten, vermeld. Daarbij wordt tevens per bedrijf het aantal van die overeenkomsten gemeld.
 
@@ -280,7 +306,7 @@ VT = warmtevraag voor warm tapwater als percentage van de totale warmtevraag, en
 
 #### § 2a. Informatie over tarieven en voorwaarden voor een aanbod als bedoeld in [artikel 5a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=5a)
 
-#### Artikel 9
+##### Artikel 9
 
 1. Een aanvraag voor een vergunning wordt ingediend bij de Autoriteit Consument en Markt.
 
@@ -314,7 +340,7 @@ VT = warmtevraag voor warm tapwater als percentage van de totale warmtevraag, en
 
 - d. de aanvrager beschikt over een doeltreffend systeem voor de beheersing van de kwaliteit van zijn te leveren goederen en diensten.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De vergoedingen die verschuldigd zijn op grond van [artikel 20, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=20) bestaan uit een vast bedrag.
 
@@ -322,21 +348,21 @@ VT = warmtevraag voor warm tapwater als percentage van de totale warmtevraag, en
 
 #### § 5. Overgangs- en slotbepalingen
 
-#### Artikel 11
+##### Artikel 11
 
 Wijzigt het Besluit huurprijzen woonruimte.
 
-#### Artikel 12
+##### Artikel 12
 
 Dit besluit wordt aangehaald als: Warmtebesluit.
 
-#### Artikel 13
+##### Artikel 13
 
 Dit besluit treedt in werking met ingang van 1 januari 2014.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 1. Als temperatuur categorieën, als bedoeld in [artikel 5, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=5), worden aangewezen:
 
@@ -358,7 +384,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 2. Als systeem dat mede dient voor levering van warmte als bedoeld in [artikel 5, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=5) wordt ieder systeem aangewezen waarbij de verbruiker bij het aangaan van de leveringsovereenkomst niet de vrije keuze heeft om alleen koude af te nemen van het systeem.
 
-#### Artikel 4a
+##### Artikel 4a
 
 1. De maximumprijs die een leverancier aan een verbruiker in rekening mag brengen voor het gebruik van een warmte koude systeem bestaat uit:
 
@@ -398,7 +424,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 5. Bij ministeriële regeling worden het basistarief en de opslag, bedoeld in het tweede lid, vastgesteld.
 
-#### Artikel 5a
+##### Artikel 5a
 
 1. Bij de berekening van de hoogte van het tarief voor afsluiting of gedeeltelijke afsluiting, bedoeld in [artikel 4a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=4a) wordt onderscheid gemaakt tussen een tarief voor:
 
@@ -418,7 +444,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - b. door de Autoriteit Consument en Markt verkregen marktgegevens over de kosten van de desbetreffende wijze van afsluiten.
 
-#### Artikel 5b
+##### Artikel 5b
 
 1. Als categorieën afleversets voor warmte als bedoeld in [artikel 8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=8) worden vastgesteld:
 
@@ -470,7 +496,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 9. Als een installatie als bedoeld in [artikel 1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=1) wordt aangewezen een warmtepomp in een warmte koude systeem.
 
-#### Artikel 5c
+##### Artikel 5c
 
 1. De leverancier baseert ieder aanbod als bedoeld in [artikel 5a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=5a) op de persoonlijke situatie van de verbruiker en voorziet een verbruiker voor ieder aanbod van transparante informatie over de tarieven en voorwaarden voor levering en transport van warmte die de verbruiker in staat stelt de verschillende aanbiedingen met elkaar te vergelijken.
 
@@ -500,7 +526,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### § 3. Facturering, boekhouding en jaarrekening
 
-#### Artikel 5d
+##### Artikel 5d
 
 De termijn waarbinnen een leverancier een verbruiker een nota als bedoeld in [artikel 2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=2) verstrekt bedraagt ten hoogste 6 weken:
 
@@ -512,7 +538,7 @@ De termijn waarbinnen een leverancier een verbruiker een nota als bedoeld in [ar
 
 #### § 4a. Overleg over toegang voor producenten tot warmtenetten
 
-#### Artikel 10a
+##### Artikel 10a
 
 1. Een verzoek als bedoeld in [artikel 21, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=21) wordt door een producent schriftelijk ingediend bij de netbeheerder en de leverancier en bevat ten minste de volgende informatie:
 
@@ -526,11 +552,11 @@ De termijn waarbinnen een leverancier een verbruiker een nota als bedoeld in [ar
 
 2. Bij ministeriële regeling worden nadere regels gesteld omtrent het leveringsprofiel, bedoeld in het eerste lid, onderdeel d.
 
-#### Artikel 10b
+##### Artikel 10b
 
 De netbeheerder en de leverancier verschaffen de producent de informatie, bedoeld in [artikel 21, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=21), binnen twee maanden na indiening van een verzoek als bedoeld in artikel 21, eerste lid, van de wet, door de producent.
 
-#### Artikel 10c
+##### Artikel 10c
 
 De producent, netbeheerder en de leverancier treden binnen 2 maanden na ontvangst van het verzoek van de producent, bedoeld in [artikel 21, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=21), in overleg over:
 
@@ -540,7 +566,7 @@ De producent, netbeheerder en de leverancier treden binnen 2 maanden na ontvangs
 
 #### § 5. Overgangs- en slotbepalingen
 
-#### Artikel 11a
+##### Artikel 11a
 
 [Artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&paragraaf=3&artikel=6&z=2026-01-01&g=2026-01-01), geldt niet voor zover de vergunninghouder ten genoegen van de Autoriteit Consument en Markt voldoende aannemelijk kan maken dat het niet of slechts tegen zeer hoge kosten mogelijk is om in zijn boekhouding aan te geven:
 

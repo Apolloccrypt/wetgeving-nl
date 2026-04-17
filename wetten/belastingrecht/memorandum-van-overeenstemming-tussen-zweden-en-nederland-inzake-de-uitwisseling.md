@@ -1,13 +1,38 @@
 ---
 title: "Memorandum van Overeenstemming tussen Zweden en Nederland inzake de uitwisseling van inlichtingen op het gebied van de directe belastingen"
 identifier: "BWBR0031579"
-categorie: "Belastingrecht"
-publicatiedatum: 2012-04-16
-laatste_update: 2012-04-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031579"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2012-04-16"
+last_updated: "2012-04-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031579"
+soort: "beleidsregel"
+stam_id: "11737483"
+version_id: "19393222"
+internal_id: "C27132991"
+label_id: "11710014"
+dtd_version: "2.0"
+original_entry_into_force: "2012-04-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031579/2012-04-16/0"
+intitule_bron: "Stcrt.2012-10195"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-04-16"
+intitule_published: "2012-05-24"
+intitule_in_force: "2012-05-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-10195"
+original_signed_date: "2012-04-16"
+original_published_date: "2012-05-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-10195"
+entry_into_force_date: "2012-04-16"
+jci_1_3: "jci1.3:c:BWBR0031579&z=2012-04-16&g=2012-04-16"
+jci_1_0: "1.0:c:BWBR0031579&g=2012-04-16"
+citeertitel_status: "officieel"
+signed_date: "2012-04-16"
+entry_into_force: "2012-04-16"
 ---
-
 # Memorandum van Overeenstemming tussen Zweden en Nederland inzake de uitwisseling van inlichtingen op het gebied van de directe belastingen
 
 De staatssecretaris van Financiën maakt het volgende bekend.
@@ -24,11 +49,11 @@ Het Zweedse Belasting Agentschap en het Directoraat-generaal Belastingdienst van
 
 ### Algemene bepalingen
 
-#### Artikel 1. Juridische basis
+##### Artikel 1. Juridische basis
 
 Ingevolge de bepalingen van de Richtlijn van de Raad nr. 77/799/EEG van 19 december 1977 inzake wederzijdse bijstand door de bevoegde autoriteiten van de Lidstaten op het gebied van de directe belastingen en heffingen op verzekeringspremies, de bepalingen met betrekking tot de uitwisseling van inlichtingen van het Verdrag inzake wederzijdse administratieve bijstand in belastingzaken, op 25 januari 1988 gesloten te Straatsburg, artikel 28 van het Verdrag tussen het Koninkrijk Zweden en het Koninkrijk der Nederlanden tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen, ondertekend te Stockholm op 18 juni 1991 en gelet op de Richtlijn van de Raad nr. 2011/16/EU van 15 februari 2011 betreffende de administratieve samenwerking op het gebied van de belastingen, zullen de bevoegde autoriteiten genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031579&artikel=2&z=2012-04-16&g=2012-04-16) van dit Memorandum automatisch inlichtingen uitwisselen.
 
-#### Artikel 2. Bevoegde autoriteiten
+##### Artikel 2. Bevoegde autoriteiten
 
 1. Voor de toepassing van dit Memorandum van Overeenstemming zijn de bevoegde autoriteiten:
 
@@ -44,7 +69,7 @@ De Minister van Financiën of zijn bevoegde vertegenwoordiger.
 
 ### Uitwisseling van inlichtingen
 
-#### Artikel 3. Automatische uitwisseling van inlichtingen
+##### Artikel 3. Automatische uitwisseling van inlichtingen
 
 1. De bevoegde autoriteiten van Zweden en Nederland verstrekken elkaar – indien beschikbaar – automatisch inlichtingen met betrekking tot:
 
@@ -70,11 +95,11 @@ De Minister van Financiën of zijn bevoegde vertegenwoordiger.
 
 3. Indien mocht blijken dat de gegevens die in het kader van de automatische uitwisseling zijn verstrekt onjuist of onvolledig zijn, zijn de bevoegde autoriteiten gehouden hierover zo spoedig mogelijk met elkaar contact op te nemen.
 
-#### Artikel 4. Incidentele doelgroepacties
+##### Artikel 4. Incidentele doelgroepacties
 
 De bevoegde autoriteiten kunnen bij briefwisseling met elkaar overeenkomen andere categorieën dan de hierboven genoemde automatisch of geïntensiveerd spontaan met elkaar uit te wisselen voor een bepaalde periode.
 
-#### Artikel 5. De aanwezigheid van belastingambtenaren van de ene Staat op het grondgebied van de andere Staat
+##### Artikel 5. De aanwezigheid van belastingambtenaren van de ene Staat op het grondgebied van de andere Staat
 
 1. Op verzoek van de bevoegde autoriteit van een van de Staten, kan de bevoegde autoriteit van de andere Staat belastingambtenaren van eerstgenoemde Staat toestaan om aanwezig te zijn bij de voor hen van belang zijnde onderdelen van een belastingonderzoek in de Staat waaraan het verzoek is gericht.
 
@@ -96,7 +121,7 @@ De bevoegde autoriteiten kunnen bij briefwisseling met elkaar overeenkomen ander
 
 ### Diverse bepalingen
 
-#### Artikel 6. Diverse bepalingen
+##### Artikel 6. Diverse bepalingen
 
 1. Indien noodzakelijk plegen de bevoegde autoriteiten overleg over de wijze waarop de verplichtingen die dit Memorandum meebrengt, worden uitgevoerd.
 
@@ -106,7 +131,7 @@ De bevoegde autoriteiten kunnen bij briefwisseling met elkaar overeenkomen ander
 
 ### Slotbepalingen
 
-#### Artikel 7. Inwerkingtreding. Wijzigingen. Beëindiging
+##### Artikel 7. Inwerkingtreding. Wijzigingen. Beëindiging
 
 1. Dit Memorandum treedt in werking op de datum van ondertekening en kan op ieder tijdstip worden gewijzigd na schriftelijke overeenstemming tussen de Partijen.
 
@@ -114,11 +139,11 @@ De bevoegde autoriteiten kunnen bij briefwisseling met elkaar overeenkomen ander
 
 3. Vanaf de datum van inwerkingtreding van dit Memorandum is het Memorandum van Overeenstemming tussen het Zweedse Belasting Agentschap en het Directoraat-generaal Belastingdienst van Nederland inzake de stroomlijning en intensivering van wederzijdse bijstand op het gebied van de directe belastingen van 2004, ingetrokken.
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Dit Memorandum kan worden aangehaald als ‘Memorandum van Overeenstemming tussen Zweden en Nederland inzake de uitwisseling van inlichtingen op het gebied van de directe belastingen’.
 
-#### Artikel 9. Evaluatie
+##### Artikel 9. Evaluatie
 
 Dit Memorandum zal vijf jaar na de datum van inwerkingtreding worden geëvalueerd. Vragen met betrekking tot dit Memorandum kunnen echter te allen tijde op verzoek van een van de bevoegde autoriteiten in behandeling worden genomen.
 

@@ -1,14 +1,38 @@
 ---
-title: "Personeelswet PTT Nederland NV"
+title: "Wet van 26 oktober 1988, houdende regels betreffende de overgang van personeel van het Staatsbedrijf der Posterijen, Telegrafie en Telefonie naar de naamloze vennootschap PTT Nederland NV"
 identifier: "BWBR0004421"
-categorie: "Overig"
-publicatiedatum: 2019-01-01
-laatste_update: 2019-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004421"
+country: "nl"
+rank: "wet"
+publication_date: "2019-01-01"
+last_updated: "2019-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004421"
+soort: "wet"
+stam_id: "1733813"
+version_id: "2565032"
+internal_id: "C2565031"
+label_id: "1686124"
+dtd_version: "2.0"
+original_entry_into_force: "1989-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004421/2019-01-01/0"
+intitule_bron: "Stb.1988-519"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1988-10-26"
+intitule_in_force: "1988-12-30"
+intitule_status: "goed"
+original_publication: "Stb.1988-519"
+original_signed_date: "1988-10-26"
+original_effect: "nieuwe-regeling"
+original_dossier: "20368"
+entry_into_force_date: "1989-01-01"
+jci_1_3: "jci1.3:c:BWBR0004421&z=2019-01-01&g=2019-01-01"
+jci_1_0: "1.0:c:BWBR0004421&g=2019-01-01"
+citeertitel_status: "officieel"
+short_title: "Personeelswet PTT Nederland NV"
+signed_date: "1988-10-26"
+entry_into_force: "1989-01-01"
 ---
-
-# Personeelswet PTT Nederland NV
+# Wet van 26 oktober 1988, houdende regels betreffende de overgang van personeel van het Staatsbedrijf der Posterijen, Telegrafie en Telefonie naar de naamloze vennootschap PTT Nederland NV
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +40,7 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is regels te stellen me
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 In het bij of krachtens deze wet bepaalde wordt verstaan onder:
 
@@ -30,7 +54,7 @@ In het bij of krachtens deze wet bepaalde wordt verstaan onder:
 
 - e. Onze Minister: Onze Minister van Economische Zaken en Klimaat.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Ieder personeelslid heeft het recht om op de overgangsdatum op arbeidsovereenkomst naar burgerlijk recht over te gaan in dienst van de NV PTT.
 
@@ -42,7 +66,7 @@ In het bij of krachtens deze wet bepaalde wordt verstaan onder:
 
 5. De arbeidsovereenkomst betreft een functie die zoveel mogelijk overeenkomt met de functie die het personeelslid laatstelijk vervult in dienst bij het Staatsbedrijf, uitgezonderd enkele door Onze Minister te bepalen functies.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Namens de op te richten NV PTT wordt door of vanwege Onze Minister een aanbod voor de arbeidsovereenkomst gedaan.
 
@@ -50,7 +74,7 @@ In het bij of krachtens deze wet bepaalde wordt verstaan onder:
 
 3. Het aanbod dient ten minste dertig dagen voor de overgangsdatum te worden gedaan, bij gebreke waarvan [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004421&artikel=4&z=2019-01-01&g=2019-01-01), toepassing mist. Alsdan is het bepaalde in [artikel 4, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004421&artikel=4&z=2019-01-01&g=2019-01-01), van overeenkomstige toepassing.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Met ingang van de overgangsdatum is het personeelslid van rechtswege eervol ontslagen uit de dienst bij het Staatsbedrijf.
 
@@ -60,7 +84,7 @@ In het bij of krachtens deze wet bepaalde wordt verstaan onder:
 
 4. Indien op basis van een aanbod als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004421&artikel=3&z=2019-01-01&g=2019-01-01), alsnog een arbeidsovereenkomst tot stand komt, is het in het vorige lid bedoelde personeelslid op de ingangsdatum van de arbeidsovereenkomst van rechtswege eervol ontslagen uit de dienst van het Ministerie van Economische Zaken en Klimaat. Dit personeelslid zal zoveel mogelijk in de positie worden gebracht die hij zou hebben gehad als hij op de overgangsdatum van rechtswege ontslagen zou zijn uit de dienst bij het Staatsbedrijf.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Met ingang van de overgangsdatum verkrijgt een personeelslid met wie een arbeidsovereenkomst als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004421&artikel=2&z=2019-01-01&g=2019-01-01), is gesloten, aanspraken jegens een door de NV PTT aan te wijzen instelling als bedoeld in [artikel 1, eerste lid sub **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0004421&artikel=1&z=2019-01-01&g=2019-01-01) dan wel **c**, van de [Pensioen- en Spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089) (**Stb.** 1952, 275), die in totaliteit in elk geval gelijkwaardig zijn aan die welke dit personeelslid op de laatste dag van de kalendermaand voorafgaand aan de overgangsdatum heeft jegens het Algemeen burgerlijk pensioenfonds krachtens de Algemene burgerlijke pensioenwet (**Stb.** 1986, 540) en neemt de aangewezen instelling de daarmee verband houdende verplichtingen op zich.
 
@@ -72,7 +96,7 @@ In het bij of krachtens deze wet bepaalde wordt verstaan onder:
 
 5. De aanspraken die aan het personeelslid uit hoofde van zijn voormalige dienstverband bij de overheid bij arbeidsongeschiktheid toekomen krachtens de [artikelen 42 van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=42) (**Stb.** 1931, 248), artikel 32**c** van het Arbeidsovereenkomstenbesluit (**Stb.** 1931, 354) en artikel E1 van de Algemene burgerlijke pensioenwet vervallen met ingang van de datum waarop de arbeidsovereenkomst, die op basis van het aanbod als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004421&artikel=3&z=2019-01-01&g=2019-01-01), is gesloten, van kracht is geworden.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Onze Minister kan, in overeenstemming met Onze Minister van Binnenlandse Zaken, in afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004421&artikel=5&z=2019-01-01&g=2019-01-01) gedurende twee jaren na de overgangsdatum de op de laatste dag van de kalendermaand voorafgaand aan de overgangsdatum bestaande voorziening ten aanzien van de aanspraken op ouderdoms- en nabestaandenpensioen krachtens de Algemene burgerlijke pensioenwet van de personeelsleden van de NV PTT onderbrengen bij het Algemeen burgerlijk pensioenfonds.
 
@@ -84,21 +108,21 @@ In het bij of krachtens deze wet bepaalde wordt verstaan onder:
 
 5. Een algemene maatregel van bestuur als bedoeld in het tweede lid of een wijziging daarvan treedt niet eerder in werking dan twee maanden na de datum van uitgifte van het **Staatsblad** waarin hij wordt geplaatst. Van de plaatsing wordt onverwijld aan de Staten-Generaal mededeling gedaan.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Onze Minister stelt in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties regels omtrent de behandeling van bezwaren van een personeelslid tegen een aanbod als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004421&artikel=3&z=2019-01-01&g=2019-01-01). Een bezwarencommissie wordt opgedragen terzake advies uit te brengen, waarna door of vanwege Onze Minister op het bezwaar een beslissing wordt genomen.
 
 2. Een beslissing als bedoeld in het vorige lid, genomen ten aanzien van een personeelslid dat bij het Staatsbedrijf is aangesteld als ambtenaar wordt geacht een besluit te zijn in de zin van [artikel 3 van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=3) 1929 (**Stb.** 530).
 
-#### Artikel 8
+##### Artikel 8
 
 Onze Minister kan in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties nadere regels vaststellen met betrekking tot de uitvoering van het in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004421&artikel=3&z=2019-01-01&g=2019-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0004421&artikel=4&z=2019-01-01&g=2019-01-01) bepaalde.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze wet kan worden aangehaald als Personeelswet PTT Nederland NV.
 

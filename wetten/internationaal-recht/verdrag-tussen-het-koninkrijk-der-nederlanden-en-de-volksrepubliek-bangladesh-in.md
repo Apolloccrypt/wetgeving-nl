@@ -1,13 +1,37 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Volksrepubliek Bangladesh inzake bevordering en wederzijdse bescherming van investeringen"
 identifier: "BWBV0001207"
-categorie: "Internationaal recht"
-publicatiedatum: 1996-06-01
-laatste_update: 1996-06-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001207"
+country: "nl"
+rank: "verdrag"
+publication_date: "1996-06-01"
+last_updated: "1996-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001207"
+soort: "verdrag"
+stam_id: "10000228273"
+version_id: "10000236292"
+internal_id: "C10006986081"
+label_id: "10000228474"
+original_entry_into_force: "1996-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001207/1996-06-01/0"
+intitule_bron: "Trb.1995-10"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-12-13"
+intitule_published: "1995-01-18"
+intitule_in_force: "1996-05-29"
+intitule_status: "goed"
+original_publication: "Trb.1995-10"
+original_signed_date: "1995-12-13"
+original_published_date: "1995-01-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1995-10"
+entry_into_force_date: "1996-06-01"
+jci_1_3: "jci1.3:c:BWBV0001207&z=1996-06-01&g=1996-06-01"
+jci_1_0: "1.0:c:BWBV0001207&g=1996-06-01"
+citeertitel_status: "officieel"
+signed_date: "1995-12-13"
+entry_into_force: "1996-06-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Volksrepubliek Bangladesh inzake bevordering en wederzijdse bescherming van investeringen
 
 De Regering van het Koninkrijk der Nederlanden
@@ -24,7 +48,7 @@ In het besef dat overeenstemming omtrent de aan deze investeringen toe te kennen
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -50,11 +74,11 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - c. “grondgebied": de zeegebieden grenzend aan de kust van de betrokken Staat, voor zover die Staat overeenkomstig het internationale recht soevereine rechten of rechtsmacht in deze gebieden uitoefent.
 
-#### Artikel 2
+##### Artikel 2
 
 Elke Verdragsluitende Partij bevordert, binnen het kader van haar wetten en voorschriften, de economische samenwerking door middel van de bescherming op haar grondgebied van investeringen van onderdanen van de andere Verdragsluitende Partij. Elke Verdragsluitende Partij laat deze investeringen toe met inachtneming van haar recht de door haar wetten of voorschriften verleende bevoegdheden uit te oefenen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Elke Verdragsluitende Partij waarborgt een eerlijke en rechtvaardige behandeling van de investeringen van onderdanen van de andere Verdragsluitende Partij en belemmert niet, door onredelijke of discriminatoire maatregelen, de werking, het beheer, de instandhouding, het gebruik, het genot of de vervreemding daarvan door deze onderdanen.
 
@@ -66,11 +90,11 @@ Elke Verdragsluitende Partij bevordert, binnen het kader van haar wetten en voor
 
 5. Indien de wettelijke bepalingen van één van beide Verdragsluitende Partijen of verplichtingen krachtens internationaal recht, die thans bestaan of op een later tijdstip door de Verdragsluitende Partijen worden aangegaan naast dit Verdrag, een algemene of bijzondere regeling bevatten op grond waarvan investeringen door onderdanen van de andere Verdragsluitende Partij recht hebben op een behandeling die gunstiger is dan in dit Verdrag is voorzien, heeft een dergelijke regeling, in zoverre zij gunstiger is, voorrang boven dit Verdrag.
 
-#### Artikel 4
+##### Artikel 4
 
 Met betrekking tot belastingen, heffingen, lasten en verminderingen en vrijstellingen van belasting kent elke Verdragsluitende Partij aan onderdanen van de andere Verdragsluitende Partij die zich op haar grondgebied met economische activiteiten bezighouden, een behandeling toe die niet minder gunstig is dan die welke wordt toegekend aan haar eigen onderdanen of aan die van een derde Staat, naar gelang van wat het gunstigst is voor de betrokken onderdanen. Hierbij wordt evenwel geen rekening gehouden met bijzondere belastingvoordelen door die Partij toegekend krachtens een overeenkomst ter vermijding van dubbele belasting, uit hoofde van haar deelneming aan een douane-unie, economische unie of soortgelijke instelling of op basis van wederkerigheid met een derde Staat.
 
-#### Artikel 5
+##### Artikel 5
 
 De Verdragsluitende Partijen waarborgen dat betalingen die verband houden met een investering kunnen worden overgemaakt. De overmakingen geschieden in een vrij inwisselbare munteenheid, zonder onnodige beperking of vertraging. Deze overmakingen omvatten:
 
@@ -84,7 +108,7 @@ De Verdragsluitende Partijen waarborgen dat betalingen die verband houden met ee
 
 - e. de opbrengst van de verkoop of liquidatie van de investering.
 
-#### Artikel 6
+##### Artikel 6
 
 Geen der Verdragsluitende Partijen neemt maatregelen waardoor, al dan niet rechtstreeks, aan onderdanen van de andere Verdragsluitende Partij hun investeringen worden ontnomen, tenzij aan de volgende voorwaarden wordt voldaan:
 
@@ -94,31 +118,31 @@ Geen der Verdragsluitende Partijen neemt maatregelen waardoor, al dan niet recht
 
 - c. de maatregelen gaan vergezeld van voorzieningen voor de betaling van een billijke schadeloosstelling. Deze schadeloosstelling dient overeen te komen met de werkelijke waarde van de desbetreffende investeringen en dient, wil zij doeltreffend zijn voor de gerechtigden, zonder onredelijke vertraging te worden betaald en te kunnen worden overgemaakt naar het door de betrokken gerechtigden aangewezen land en in de munteenheid van het land waarvan de gerechtigden onderdaan zijn of in een door de gerechtigden aanvaarde vrij inwisselbare munteenheid.
 
-#### Artikel 7
+##### Artikel 7
 
 Aan onderdanen van de ene Verdragsluitende Partij die verliezen lijden met betrekking tot hun investeringen op het grondgebied van de andere Verdragsluitende Partij wegens oorlog of een ander gewapend conflict, revolutie, een nationale noodtoestand, opstand, oproer of ongeregeldheden, wordt door de laatstbedoelde Verdragsluitende Partij wat restitutie, schadevergoeding, schadeloosstelling of een andere regeling betreft, geen minder gunstige behandeling toegekend dan die welke die Verdragsluitende Partij toekent aan haar eigen onderdanen of aan onderdanen van een derde Staat, naar gelang van wat het gunstigst is voor de betrokken onderdanen.
 
-#### Artikel 8
+##### Artikel 8
 
 Indien de investeringen van een onderdaan van de ene Verdragsluitende Partij krachtens een bij wet ingesteld stelsel verzekerd zijn tegen niet-commerciële risico's, wordt de subrogatie van de verzekeraar of de herverzekeraar in de rechten van de bedoelde onderdaan, ingevolge de voorwaarden van deze verzekering, door de andere Verdragsluitende Partij erkend.
 
-#### Artikel 9
+##### Artikel 9
 
 Elke Verdragsluitende Partij stemt er hierbij mee in juridische geschillen die zich voordoen tussen die Verdragsluitende Partij en een onderdaan van de andere Verdragsluitende Partij betreffende een investering van die onderdaan op het grondgebied van de eerstbedoelde Verdragsluitende Partij voor te leggen aan het Internationaal Centrum ter Beslechting van Investeringsgeschillen ter beslechting door middel van conciliatie of arbitrage ingevolge het Verdrag inzake de beslechting van geschillen met betrekking tot investeringen tussen Staten en onderdanen van andere Staten, dat op 18 maart 1965 te Washington voor ondertekening werd opengesteld. Een rechtspersoon die is opgericht overeenkomstig het op het grondgebied van de ene Verdragsluitende Partij geldende recht en waarvan, voordat een zodanig geschil zich voordoet, de meerderheid van de aandelen in het bezit is van onderdanen van de andere Verdragsluitende Partij, wordt overeenkomstig artikel 25, tweede lid, letter b, van het Verdrag van 18 maart 1965 voor de toepassing van dat Verdrag behandeld als lichaam van de andere Verdragsluitende Partij.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit Verdrag is van toepassing op alle investeringen, ongeacht of deze bestaan op het tijdstip van inwerkingtreding dan wel of deze daarna zijn gedaan of verworven. Het is evenwel niet van toepassing op geschillen betreffende een investering die zich hebben voorgedaan of op vorderingen betreffende een investering die waren afgewikkeld voor de inwerkingtreding van dit Verdrag.
 
-#### Artikel 11
+##### Artikel 11
 
 Wat het Koninkrijk der Nederlanden betreft, is dit Verdrag van toepassing op het deel van het Rijk in Europa, de Nederlandse Antillen en Aruba, tenzij in de in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001207&artikel=14&z=1996-06-01&g=1996-06-01), bedoelde mededeling anders wordt bepaald.
 
-#### Artikel 12
+##### Artikel 12
 
 Elk der Verdragsluitende Partijen kan aan de andere Partij voorstellen overleg te plegen over aangelegenheden betreffende de uitlegging of toepassing van dit Verdrag. De andere Partij neemt dit voorstel welwillend in overweging en biedt passende gelegenheid voor dit overleg.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Geschillen tussen de Verdragsluitende Partijen betreffende de uitlegging of de toepassing van dit Verdrag die niet binnen een redelijke termijn door diplomatieke onderhandelingen kunnen worden beslecht, worden, tenzij de Partijen anders zijn overeengekomen, op verzoek van één van beide Partijen voorgelegd aan een uit drie leden samengesteld scheidsgerecht. Elke Partij benoemt één scheidsman en de twee aldus benoemde scheidsmannen benoemen te zamen een derde scheidsman, die geen onderdaan van een der Verdragsluitende Partijen is, tot hun voorzitter.
 
@@ -134,7 +158,7 @@ Elk der Verdragsluitende Partijen kan aan de andere Partij voorstellen overleg t
 
 7. Het scheidsgerecht doet zijn uitspraak bij meerderheid van stemmen. Een zodanige uitspraak is onherroepelijk en bindend voor de Partijen.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Dit Verdrag treedt in werking op de eerste dag van de tweede maand die volgt op de datum waarop de Verdragsluitende Partijen elkaar schriftelijk hebben medegedeeld dat aan de in hun onderscheiden landen hiertoe constitutioneel vereiste procedures is voldaan, en blijft van kracht gedurende een tijdvak van vijftien jaar.
 

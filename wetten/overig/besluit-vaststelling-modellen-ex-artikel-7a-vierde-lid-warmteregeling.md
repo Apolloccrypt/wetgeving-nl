@@ -1,26 +1,52 @@
 ---
-title: "Besluit vaststelling modellen ex artikel 7a, vierde lid, Warmteregeling"
+title: "Besluit van de Minister van Economische Zaken en Klimaat van 7 december 2020, nr. WJZ/20297704, houdende vaststelling van modellen als bedoeld in artikel 7a, vierde lid, van de Warmteregeling"
 identifier: "BWBR0044454"
-categorie: "Overig"
-publicatiedatum: 2020-12-09
-laatste_update: 2020-12-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044454"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-12-09"
+last_updated: "2020-12-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044454"
+soort: "ministeriele-regeling"
+stam_id: "15740023"
+version_id: "27272642"
+internal_id: "C38531331"
+label_id: "15678284"
+dtd_version: "2.0"
+original_entry_into_force: "2020-12-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044454/2020-12-09/0"
+intitule_bron: "Stcrt.2020-65147"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-12-07"
+intitule_published: "2020-12-08"
+intitule_in_force: "2020-12-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-65147"
+original_signed_date: "2020-12-07"
+original_published_date: "2020-12-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-65147"
+entry_into_force_date: "2020-12-09"
+jci_1_3: "jci1.3:c:BWBR0044454&z=2020-12-09&g=2020-12-09"
+jci_1_0: "1.0:c:BWBR0044454&g=2020-12-09"
+citeertitel_status: "redactioneel"
+short_title: "Besluit vaststelling modellen ex artikel 7a, vierde lid, Warmteregeling"
+signed_date: "2020-12-07"
+entry_into_force: "2020-12-09"
 ---
-
 # Besluit van de Minister van Economische Zaken en Klimaat van 7 december 2020, nr. WJZ/20297704, houdende vaststelling van modellen als bedoeld in artikel 7a, vierde lid, van de Warmteregeling
 
 Gelet op [artikel 7a, vierde lid, van de Warmteregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&artikel=7a);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Het model, bedoeld in [artikel 7a, vierde lid, van de Warmteregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&artikel=7a), voor reguliere warmtesystemen is het model dat in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0044454&bijlage=A&z=2020-12-09&g=2020-12-09) bij dit besluit is opgenomen.
 
 2. Het model, bedoeld in [artikel 7a, vierde lid, van de Warmteregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&artikel=7a), voor kleine warmtesystemen is het model dat in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0044454&bijlage=B&z=2020-12-09&g=2020-12-09) bij dit besluit is opgenomen.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 

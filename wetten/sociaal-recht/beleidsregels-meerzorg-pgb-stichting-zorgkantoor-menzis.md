@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregels Meerzorg pgb Stichting Zorgkantoor Menzis"
 identifier: "BWBR0052507"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-04-08
-laatste_update: 2026-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052507"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-04-08"
+last_updated: "2026-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052507"
+soort: "zbo"
+stam_id: "17829303"
+version_id: "31517342"
+internal_id: "C45010131"
+label_id: "17726504"
+dtd_version: "2.0"
+original_entry_into_force: "2026-04-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052507/2026-04-08/0"
+intitule_bron: "Stcrt.2026-13082"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2026-03-26"
+intitule_published: "2026-04-08"
+intitule_in_force: "2026-04-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-13082"
+original_signed_date: "2026-03-26"
+original_published_date: "2026-04-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-13082"
+entry_into_force_date: "2026-04-08"
+jci_1_3: "jci1.3:c:BWBR0052507&z=2026-04-08&g=2026-04-08"
+jci_1_0: "1.0:c:BWBR0052507&g=2026-04-08"
+citeertitel_status: "officieel"
+signed_date: "2026-03-26"
+entry_into_force: "2026-04-08"
 ---
-
 # Beleidsregels Meerzorg pgb Stichting Zorgkantoor Menzis
 
 gelet op [artikel 2.2 lid 1 Rlz](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&artikel=2.2) en de daarin besloten bevoegdheid om te beoordelen in hoeverre er sprake is van een zorgprofiel overstijgende zorgbehoefte,
@@ -18,19 +43,19 @@ besluit:
 
 De datum van inwerkingtreding in de publicatie ligt voor de datum van uitgifte.
 
-#### Artikel 1
+##### Artikel 1
 
 Zorgkantoor Menzis hanteert beleidsregels bij het beoordelen of er sprake is van een recht op Meerzorg en zo ja, de omvang van de Meerzorgtoeslag. Deze beleidsregels zijn opgenomen in hoofdstuk 1 tot en met 4 bij dit besluit.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van 1 maart 2026.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit wordt aangehaald als: Beleidsregels Meerzorg pgb Stichting Zorgkantoor Menzis
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit wordt met de beleidsregels in de Staatscourant geplaatst.
 

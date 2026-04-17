@@ -1,13 +1,37 @@
 ---
 title: "Regeling beheer en vervreemding in landinrichtingsgebieden in uitvoering"
 identifier: "BWBR0004170"
-categorie: "Overig"
-publicatiedatum: 1987-06-24
-laatste_update: 1987-06-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004170"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1987-06-24"
+last_updated: "1987-06-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004170"
+soort: "ministeriele-regeling"
+stam_id: "3744083"
+version_id: "5527012"
+internal_id: "C5720101"
+label_id: "3723894"
+dtd_version: "2.0"
+original_entry_into_force: "1987-06-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004170/1987-06-24/0"
+intitule_bron: "Stcrt.1987-117"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1987-06-18"
+intitule_published: "1987-06-23"
+intitule_in_force: "1987-06-23"
+intitule_status: "goed"
+original_publication: "Stcrt.1987-117"
+original_signed_date: "1987-06-18"
+original_published_date: "1987-06-23"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1987-06-24"
+jci_1_3: "jci1.3:c:BWBR0004170&z=1987-06-24&g=1987-06-24"
+jci_1_0: "1.0:c:BWBR0004170&g=1987-06-24"
+citeertitel_status: "officieel"
+signed_date: "1987-06-18"
+entry_into_force: "1987-06-24"
 ---
-
 # Regeling beheer en vervreemding in landinrichtingsgebieden in uitvoering
 
 Gelet op [artikel 29, derde lid, van de Wet agrarisch grondverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&artikel=29) (Stb. 1981, 248);
@@ -16,11 +40,11 @@ Gehoord de Centrale Landinrichtingscommissie en de Commissie Beheer Landbouwgron
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het materieel beheer dient zodanig te worden gevoerd dat:
 
@@ -32,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 3. Bij het in gebruik geven van het land wordt een vergoeding gevraagd ter grootte van de hoogst toelaatbare pachtprijs.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Voor landinrichtingsgebieden in uitvoering voert het bureau het materieel beheer gedurende het tijdvak dat begint op de datum van verwerving van het land en eindigt met ingang van het kalenderjaar volgende op het jaar waarin het plan van toedeling van het betreffende blok ter visie is gelegd.
 
@@ -60,7 +84,7 @@ In deze regeling wordt verstaan onder:
 
 4. In die delen van het landinrichtingsgebied in uitvoering waar geen herverkaveling zal plaatsvinden, voert het bureau het materieel beheer zolang het bureau het land in eigendom of pacht heeft, met dien verstande dat dit land aan de landinrichtingscommissie in materieel beheer kan worden gegeven ten behoeve van doeleinden genoemd in het tweede lid, onderdeel b.
 
-#### Artikel 4
+##### Artikel 4
 
 1. In afwijking van het gestelde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004170&artikel=3&z=1987-06-24&g=1987-06-24) geldt voor landinrichtingsgebieden waarvan de stemming vóór 1 maart 1983 heeft plaatsgevonden, dat de landinrichtingscommissie het materieel beheer voert tot de datum waarop de akte van toedeling in de openbare registers wordt overgeschreven.
 
@@ -72,7 +96,7 @@ In deze regeling wordt verstaan onder:
 
 - welke worden aangewend voor uitgifte in erfpacht.
 
-#### Artikel 5
+##### Artikel 5
 
 Met betrekking tot het land dat de landinrichtingscommissie in materieel beheer heeft:
 
@@ -82,13 +106,13 @@ Met betrekking tot het land dat de landinrichtingscommissie in materieel beheer 
 
 - c. legt zij jaarlijks verantwoording af aan het bureau.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De uit het materieel beheer voortvloeiende afwikkeling van de financiële gevolgen en de daarbij behorende administratie wordt door het bureau verricht vanaf de datum van verwerving van het land tot aan de datum waarop de akte van toedeling in de openbare registers wordt overgeschreven dan wel tot aan het moment waarop het land van het bureau, in het geval bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004170&artikel=3&z=1987-06-24&g=1987-06-24), vervreemd wordt.
 
 2. In afwijking van het bepaalde in het vorige lid voert de landinrichtingscommissie de administratie over het haar in materieel beheer gegeven land in de gevallen bedoeld in [artikel 3, tweede lid, onderdeel b, derde lid, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004170&artikel=3&z=1987-06-24&g=1987-06-24), en [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004170&artikel=4&z=1987-06-24&g=1987-06-24).
 
-#### Artikel 7
+##### Artikel 7
 
 Het in een landinrichtingsgebied in uitvoering gelegen land wordt op de volgende wijze vervreemd:
 
@@ -106,11 +130,11 @@ Het in een landinrichtingsgebied in uitvoering gelegen land wordt op de volgende
 
 - g. overdracht in eigendom aan derden dan wel de vestiging van een zakelijk recht ten behoeve van derden, niet ressorterend onder a–f, ter oplossing van incidentele problemen bij de uitvoering van een landinrichtingsproject.
 
-#### Artikel 8
+##### Artikel 8
 
 De beschikking van 23 februari 1983, nr. J. 747 (Stcrt. 41), wordt ingetrokken
 
-#### Artikel 9
+##### Artikel 9
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van haar bekendmaking in de Nederlandse Staatscourant en werkt terug tot en met 15 oktober 1985.
 

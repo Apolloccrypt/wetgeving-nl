@@ -1,13 +1,35 @@
 ---
 title: "Verdrag inzake samenwerking bij de bestrijding van sluikhandel in verdovende middelen en psychotrope stoffen over zee en door de lucht in het Caribisch gebied"
 identifier: "BWBV0004611"
-categorie: "Milieu"
-publicatiedatum: 2010-08-28
-laatste_update: 2010-08-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004611"
+country: "nl"
+rank: "verdrag"
+publication_date: "2010-08-28"
+last_updated: "2010-08-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004611"
+soort: "verdrag"
+stam_id: "10004222053"
+version_id: "10004400742"
+internal_id: "C10008343621"
+label_id: "10004207364"
+dtd_version: "2.0"
+original_entry_into_force: "2010-08-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004611/2010-08-28/0"
+intitule_bron: "Trb.2003-82"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2003-06-06"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Trb.2003-82"
+original_published_date: "2003-06-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2003-82"
+entry_into_force_date: "2010-08-28"
+jci_1_3: "jci1.3:c:BWBV0004611&z=2010-08-28&g=2010-08-28"
+jci_1_0: "1.0:c:BWBV0004611&g=2010-08-28"
+citeertitel_status: "redactioneel"
+entry_into_force: "2010-08-28"
 ---
-
 # Verdrag inzake samenwerking bij de bestrijding van sluikhandel in verdovende middelen en psychotrope stoffen over zee en door de lucht in het Caribisch gebied
 
 De Partijen bij dit Verdrag,
@@ -34,7 +56,7 @@ Zijn het volgende overeengekomen:
 
 ### Aard en reikwijdte van het Verdrag
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 In dit Verdrag wordt verstaan onder:
 
@@ -62,11 +84,11 @@ In dit Verdrag wordt verstaan onder:
 
 - l. „verdacht vaartuig”, elk vaartuig ten aanzien waarvan redelijke gronden bestaan voor het vermoeden dat het betrokken is bij sluikhandel.
 
-#### Artikel 2. Doelstellingen
+##### Artikel 2. Doelstellingen
 
 De Partijen werken zoveel mogelijk samen bij de bestrijding van sluikhandel over zee en door de lucht in de wateren van het Caribisch gebied en in het luchtruim daarboven, in overeenstemming met de beschikbare middelen voor rechtshandhaving van de Partijen en daaraan gerelateerde prioriteiten, overeenkomstig het internationale recht van de zee en toepasselijke verdragen, teneinde te waarborgen dat verdachte vaartuigen en verdachte luchtvaartuigen opgespoord, geïdentificeerd en voortdurend gevolgd worden en dat, wanneer bewijzen van betrokkenheid bij sluikhandel worden gevonden, verdachte vaartuigen worden vastgehouden zodat de verantwoordelijke rechtshandhavingsautoriteiten passende rechthandhavingsmaatregelen kunnen nemen.
 
-#### Artikel 3. Regionale en subregionale samenwerking
+##### Artikel 3. Regionale en subregionale samenwerking
 
 1. De Partijen nemen, binnen de beperkingen van de beschikbare middelen, de stappen die nodig zijn om te voldoen aan het doel van dit Verdrag, met inbegrip van de kosteneffectieve wijze verbetering van de regionale en subregionale institutionele capaciteiten en van de coördinatie en uitvoering van de samenwerking.
 
@@ -76,7 +98,7 @@ De Partijen werken zoveel mogelijk samen bij de bestrijding van sluikhandel over
 
 4. Teneinde de Partijen in staat te stellen beter tegemoet te komen aan hun verplichtingen uit hoofde van dit Verdrag, worden zij uitgenodigd elkaar te verzoeken om operationele en technische hulp en deze te verstrekken.
 
-#### Artikel 4. Vergemakkelijking van de samenwerking
+##### Artikel 4. Vergemakkelijking van de samenwerking
 
 1. Elke Partij wordt uitgenodigd de toestemming te bespoedigen voor vaartuigen en luchtvaartuigen van de rechtshandhavingsautoriteit, luchtvaartuigen ter ondersteuning van rechtshandhavingsoperaties, en rechtshandhavingsfunctionarissen van de andere Partijen om haar wateren, luchtruim, havens en luchthavens binnen te gaan teneinde de doelstellingen van dit Verdrag te verwezenlijken, in overeenstemming met de bepalingen ervan.
 
@@ -88,11 +110,11 @@ De Partijen werken zoveel mogelijk samen bij de bestrijding van sluikhandel over
 
 ### Rechtshandhavingsoperaties op zee en in de lucht
 
-#### Artikel 5. Verdachte vaartuigen en verdachte luchtvaartuigen
+##### Artikel 5. Verdachte vaartuigen en verdachte luchtvaartuigen
 
 Rechtshandhavingsoperaties ter bestrijding van sluikhandel uit hoofde van dit Verdrag worden uitsluitend uitgevoerd tegen verdachte vaartuigen en verdachte luchtvaartuigen, met inbegrip van dergelijke luchtvaartuigen en vaartuigen zonder nationaliteit, en die welke kunnen worden gelijkgesteld aan vaartuigen zonder nationaliteit.
 
-#### Artikel 6. Verificatie van nationaliteit
+##### Artikel 6. Verificatie van nationaliteit
 
 1. Voor de toepassing van dit Verdrag heeft een vaartuig of luchtvaartuig de nationaliteit van de Staat wiens vlag het gerechtigd is te voeren of waarin het vaartuig of luchtvaartuig geregistreerd is, in overeenstemming met de nationale wet- en regelgeving.
 
@@ -104,7 +126,7 @@ Rechtshandhavingsoperaties ter bestrijding van sluikhandel uit hoofde van dit Ve
 
 5. Indien de aangezochte vlaggenstaat die Partij is de bewering betreffende zijn nationaliteit van het verdachte schip weerlegt, mag de Partij die om de verificatie heeft verzocht het verdachte vaartuig gelijkstellen aan een vaartuig zonder nationaliteit in overeenstemming met het internationale recht.
 
-#### Artikel 7. Nationale maatregelen met betrekking tot verdachte vaartuigen en verdachte luchtvaartuigen
+##### Artikel 7. Nationale maatregelen met betrekking tot verdachte vaartuigen en verdachte luchtvaartuigen
 
 1. Elke Partij verplicht zich ervoor te zorgen dat zij op ieder moment in staat is:
 
@@ -118,13 +140,13 @@ Rechtshandhavingsoperaties ter bestrijding van sluikhandel uit hoofde van dit Ve
 
 2. Elke Partij stelt de Depositaris in kennis van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=1&z=2010-08-28&g=2010-08-28) omschreven autoriteit of autoriteiten waaraan verzoeken uit hoofde van het eerste lid van dit artikel moeten worden gericht.
 
-#### Artikel 8. Bevoegdheden van rechtshandhavingsfunctionarissen
+##### Artikel 8. Bevoegdheden van rechtshandhavingsfunctionarissen
 
 1. Rechtshandhavingsfunctionarissen die zich in de wateren of op het grondgebied, of aan boord van een vaartuig of luchtvaartuig van de rechtshandhavingsautoriteit, van een andere Partij bevinden, eerbiedigen de wetten en de gebruiken en tradities in de zee- en luchtvaart van de andere Partij.
 
 2. Teneinde de doelstellingen van dit Verdrag te verwezenlijken, verleent elke Partij haar aangewezen rechtshandhavings- en luchtvaartfunctionarissen, of haar bevoegde nationale autoriteit waarvan de Depositaris in kennis is gesteld, de bevoegdheid toestemming te verlenen voor het binnengaan van haar wateren en luchtruim door vaartuigen en luchtvaartuigen van de rechtshandhavingsautoriteit en luchtvaartuigen ter ondersteuning van rechtshandhavingsoperaties, uit hoofde van dit Verdrag.
 
-#### Artikel 9. Aanwijzing en bevoegdheden van ingescheepte rechtshandhavingsfunctionarissen
+##### Artikel 9. Aanwijzing en bevoegdheden van ingescheepte rechtshandhavingsfunctionarissen
 
 1. Elke Partij (de aanwijzende Partij) wijst gekwalificeerde rechtshandhavingsfunctionarissen aan die optreden als ingescheepte rechtshandhavingsfunctionarissen op vaartuigen van een andere Partij.
 
@@ -154,7 +176,7 @@ Rechtshandhavingsoperaties ter bestrijding van sluikhandel uit hoofde van dit Ve
 
 6. De partijen kunnen onderling verdragen of overeenkomsten sluiten om de rechtshandhavingsoperaties die in overeenstemming met dit artikel worden uitgevoerd, te vergemakkelijken.
 
-#### Artikel 10. Aan boord gaan en doorzoeken
+##### Artikel 10. Aan boord gaan en doorzoeken
 
 1. Het aan boord gaan en doorzoeken uit hoofde van dit Verdrag wordt uitsluitend uitgevoerd door teams van bevoegde rechtshandhavingsfunctionarissen van vaartuigen van de rechtshandhavingsautoriteit.
 
@@ -166,7 +188,7 @@ Rechtshandhavingsoperaties ter bestrijding van sluikhandel uit hoofde van dit Ve
 
 ### Rechtshandhavingsoperaties in de territoriale wateren en in het luchtruim daarboven
 
-#### Artikel 11. Algemene beginselen
+##### Artikel 11. Algemene beginselen
 
 1. Rechtshandhavingsoperaties om sluikhandel te bestrijden in de territoriale wateren van een Partij en in het luchtruim daarboven vallen onder het gezag van die Partij.
 
@@ -176,7 +198,7 @@ Rechtshandhavingsoperaties ter bestrijding van sluikhandel uit hoofde van dit Ve
 
 4. Geen enkele bepaling van dit Verdrag mag zodanig worden uitgelegd dat zij een vaartuig of luchtvaartuig van de rechtshandhavingsautoriteit van een andere Partij toestemming verleent onafhankelijk patrouilles uit te voeren in de wateren of het luchtruim van elke andere Partij.
 
-#### Artikel 12. Assistentie door vaartuigen ter bestrijding van sluikhandel
+##### Artikel 12. Assistentie door vaartuigen ter bestrijding van sluikhandel
 
 1. Met inachtneming van het tweede lid van dit artikel, mag een vaartuig van de rechtshandhavingsautoriteit van een Partij een verdacht vaartuig volgen tot in de wateren van een andere Partij en maatregelen nemen om ontsnapping van het vaartuig te voorkomen, aan boord van het vaartuig gaan, en het vaartuig en zijn opvarenden vasthouden, in afwachting van een spoedig antwoord van de andere Partij indien:
 
@@ -196,7 +218,7 @@ Rechtshandhavingsoperaties ter bestrijding van sluikhandel uit hoofde van dit Ve
 
 5. De Partijen kiezen een van de in het vierde lid, onderdeel a of b bedoelde procedures en stellen de Depositaris in kennis van hun keuze. Vóór de ontvangst van de kennisgeving door de Depositaris, worden de Partijen geacht de procedure bedoeld in het vierde lid, onderdeel a te hebben gekozen.
 
-#### Artikel 13. Assistentie door luchtvaartuigen ter bestrijding van sluikhandel
+##### Artikel 13. Assistentie door luchtvaartuigen ter bestrijding van sluikhandel
 
 1. Een Partij kan andere Partijen verzoeken om assistentie door luchtvaartuigen, met inbegrip van controle en toezicht, bij de bestrijding van sluikhandel.
 
@@ -230,19 +252,19 @@ Rechtshandhavingsoperaties ter bestrijding van sluikhandel uit hoofde van dit Ve
 
 11. Tijdens het uitvoeren van activiteiten in de lucht uit hoofde van dit Verdrag brengen de Partijen de levens van de personen aan boord noch de veiligheid van de burgerluchtvaart in gevaar.
 
-#### Artikel 14. Overige situaties
+##### Artikel 14. Overige situaties
 
 1. Geen enkele bepaling van dit Verdrag belet een Partij anderszins uitdrukkelijk toestemming te verlenen voor rechtshandhavingsoperaties door een andere Partij teneinde sluikhandel te bestrijden op haar grondgebied of binnen haar wateren of luchtruim, of met betrekking tot vaartuigen of luchtvaartuigen met haar nationaliteit die verdacht worden van sluikhandel.
 
 2. De Partijen worden uitgenodigd de desbetreffende bepalingen van dit Verdrag toe te passen op ieder moment dat vaartuigen of luchtvaartuigen van de rechtshandhavingsautoriteiten van de Partijen bewijzen van sluikhandel constateren.
 
-#### Artikel 15. Uitbreiding naar binnenwateren
+##### Artikel 15. Uitbreiding naar binnenwateren
 
 Bij de ondertekening, bekrachtiging, aanvaarding of goedkeuring van dit Verdrag, of op enig moment daarna, kan een Partij de Depositaris ervan in kennis stellen dat zij de toepassing van dit Verdrag heeft uitgebreid naar enkele of alle binnenwateren die direct grenzen aan haar territoriale zee of archipelwateren, zoals door de Partij omschreven.
 
 ### Operaties zeewaarts van de territoriale zee
 
-#### Artikel 16. Aan boord gaan
+##### Artikel 16. Aan boord gaan
 
 1. Indien rechtshandhavingsfunctionarissen van een Partij een verdacht vaartuig aantreffen dat stelt dat het de nationaliteit van een andere Partij bezit en dat zich zeewaarts van de territoriale zee van een Staat bevindt, strekt dit Verdrag tot toestemming van de Staat die Partij is waarvan gesteld wordt dat het vaartuig zijn vlag voert, om aan boord te gaan van het verdachte vaartuig en het vaartuig en zijn lading te doorzoeken en zijn opvarenden te doen ondervragen door deze functionarissen teneinde vast te stellen of het vaartuig betrokken is bij sluikhandel, behalve in gevallen waarin een Partij de Depositaris ervan in kennis heeft gesteld dat zij de bepalingen van het tweede of derde lid van dit artikel zal toepassen.
 
@@ -268,17 +290,17 @@ Bij de ondertekening, bekrachtiging, aanvaarding of goedkeuring van dit Verdrag,
 
 8. Op het aan boord gaan en doorzoeken van een verdacht vaartuig in overeenstemming met dit artikel zijn de wetten van de Partij die aan boord gaat van toepassing.
 
-#### Artikel 17. Overige gevallen van aan boord gaan uit hoofde van het internationale recht
+##### Artikel 17. Overige gevallen van aan boord gaan uit hoofde van het internationale recht
 
 Behalve in de gevallen waarin uitdrukkelijk wordt voorzien, is dit Verdrag niet van toepassing op, noch vormt het een beperking voor, het aan boord gaan van vaartuigen door een Partij in overeenstemming met het internationale recht, die zich zeewaarts van de territoriale zee van een Staat bevinden, ongeacht of dit geschiedt op grond van, onder andere, het recht van onderzoek, het verlenen van hulp aan personen, schepen of goederen die in nood of gevaar verkeren, of op grond van toestemming van de vlaggenstaat voor het uitvoeren van een rechtshandhavingsactie.
 
 ### Uitvoering
 
-#### Artikel 18. Aanwijzing van een contactpunt
+##### Artikel 18. Aanwijzing van een contactpunt
 
 Bij het aanwijzen van autoriteiten en functionarissen zoals omschreven in artikel 1 die de verantwoordelijkheden uit hoofde van dit Verdrag uitoefenen, wordt elke Partij aangemoedigd een enkel contactpunt aan te wijzen dat in staat is op enig moment verzoeken en rapporten te ontvangen, te verwerken en te beantwoorden.
 
-#### Artikel 19. Programma's voor samenwerking en coördinatie inzake rechtshandhaving op zee in het caribisch gebied
+##### Artikel 19. Programma's voor samenwerking en coördinatie inzake rechtshandhaving op zee in het caribisch gebied
 
 1. De Partijen stellen regionale en subregionale programma's voor samenwerking en coördinatie inzake rechtshandhaving op zee in tussen hun rechtshandhavingsautoriteiten. Elke Partij wijst ten behoeve van de andere Partijen een coördinator aan die belast is met het organiseren van haar deelname en het aanwijzen van vaartuigen, luchtvaartuigen en rechtshandhavingsfunctionarissen die bij het programma betrokken zijn.
 
@@ -288,7 +310,7 @@ Bij het aanwijzen van autoriteiten en functionarissen zoals omschreven in artike
 
 4. De Partijen worden aangemoedigd standaardwerkprocedures te ontwikkelen voor rechtshandhavingsoperaties uit hoofde van dit Verdrag en, waar van toepassing, met andere Partijen te overleggen teneinde dergelijke standaardprocedures op elkaar af te stemmen met het oog op de uitvoering van gezamenlijke rechtshandhavingsoperaties.
 
-#### Artikel 20. Bevoegdheden en handelwijze van rechtshandhavings- en andere functionarissen
+##### Artikel 20. Bevoegdheden en handelwijze van rechtshandhavings- en andere functionarissen
 
 1. Met inachtneming van haar grondwettelijke beginselen en de grondbeginselen van haar rechtssysteem, neemt iedere Partij de maatregelen die nodig zijn uit hoofde van haar nationale recht teneinde te waarborgen dat buitenlandse rechtshandhavingsfunctionarissen, wanneer die uit hoofde van dit Verdrag acties uitvoeren in haar wateren, geacht worden over bevoegdheden te beschikken die gelijk zijn aan die van haar nationale rechtshandhavingsfunctionarissen.
 
@@ -302,7 +324,7 @@ Bij het aanwijzen van autoriteiten en functionarissen zoals omschreven in artike
 
 - b. de noodzaak te voorkomen dat een vaartuig ten onrechte wordt aangehouden of opgehouden.
 
-#### Artikel 21. Assistentie door vaartuigen
+##### Artikel 21. Assistentie door vaartuigen
 
 1. Elke Partij kan een andere Partij verzoeken een of meer vaartuigen van haar rechtshandhavingsautoriteit beschikbaar te stellen om de verzoekende Partij op doeltreffende wijze te assisteren bij het patrouilleren en surveilleren teneinde sluikhandel over de zee en door de lucht in het Caribisch gebied op te sporen en te voorkomen.
 
@@ -316,7 +338,7 @@ Bij het aanwijzen van autoriteiten en functionarissen zoals omschreven in artike
 
 - d. overige relevante informatie.
 
-#### Artikel 22. Gebruik van geweld
+##### Artikel 22. Gebruik van geweld
 
 1. Geweld mag uitsluitend worden gebruikt indien er geen enkel ander middel kan worden ingezet geschikt om de situatie op te lossen.
 
@@ -338,7 +360,7 @@ Bij het aanwijzen van autoriteiten en functionarissen zoals omschreven in artike
 
 10. Geen enkele bepaling van dit Verdrag doet afbreuk aan de uitoefening van het inherente recht op zelfverdediging van rechtshandhavings- of andere functionarissen van een Partij.
 
-#### Artikel 23. Rechtsmacht inzake strafbare feiten
+##### Artikel 23. Rechtsmacht inzake strafbare feiten
 
 Elke Partij neemt de maatregelen die nodig kunnen zijn om haar rechtsmacht te vestigen inzake de feiten die zij in overeenstemming met [artikel 3, eerste lid, van het Verdrag van 1988](https://wetten.overheid.nl/jci1.3:c:BWBV0001103&artikel=3) heeft strafbaar gesteld, wanneer:
 
@@ -350,19 +372,19 @@ Elke Partij neemt de maatregelen die nodig kunnen zijn om haar rechtsmacht te ve
 
 - d. het strafbare feit wordt begaan aan boord van een vaartuig dat de vlag voert van, of de registratiekenmerken of enige andere indicatie van de nationaliteit vertoont van een andere Partij en dat zich zeewaarts van de territoriale zee van een Staat bevindt.
 
-#### Artikel 24. Rechtsmacht inzake vastgehouden vaartuigen en personen
+##### Artikel 24. Rechtsmacht inzake vastgehouden vaartuigen en personen
 
 1. In alle gevallen die zich voordoen in de wateren van een Partij, of die betrekking hebben op vaartuigen die de vlag van die Partij voeren en zich zeewaarts van de territoriale zee van een Staat bevinden, heeft die Partij rechtsmacht met betrekking tot een vastgehouden vaartuig, zijn lading en opvarenden, met inbegrip van inbeslagneming, verbeurdverklaring, aanhouding en strafvervolging. Met inachtneming van haar Grondwet en wetten, kan de Partij in kwestie ermee instemmen dat een andere Staat rechtsmacht uitoefent in overeenstemming met het internationale recht en overeenkomstig elke door haar gestelde voorwaarde.
 
 2. Elke Partij waarborgt dat haar verplichtingen tot kennisgeving uit hoofde van het [Verdrag van Wenen inzake consulaire betrekkingen](https://wetten.overheid.nl/jci1.3:c:BWBV0004334) worden nageleefd.
 
-#### Artikel 25. Verspreiding
+##### Artikel 25. Verspreiding
 
 1. Teneinde de uitvoering van dit Verdrag te vergemakkelijken, waarborgt elke Partij dat de andere Partijen volledig op de hoogte worden gehouden van haar toepasselijke wetten en procedures, in het bijzonder die welke betrekking hebben op het gebruik van geweld.
 
 2. Partijen die betrokken zijn bij rechtshandhavingsoperaties uit hoofde van dit Verdrag waarborgen dat hun rechtshandhavingsfunctionarissen op de hoogte zijn van de relevante operationele procedures van andere Partijen.
 
-#### Artikel 26. Resultaten van de rechtshandhavingsoperaties
+##### Artikel 26. Resultaten van de rechtshandhavingsoperaties
 
 1. Een Partij die uit hoofde van dit Verdrag aan boord gaat van een vaartuig en dit doorzoekt, stelt de andere Partij onverwijld op de hoogte van de resultaten daarvan.
 
@@ -370,7 +392,7 @@ Elke Partij neemt de maatregelen die nodig kunnen zijn om haar rechtsmacht te ve
 
 3. Geen enkele bepaling in dit artikel verplicht een Partij ertoe bijzonderheden te onthullen over de opsporingsonderzoeken, strafvervolgingen en gerechtelijke procedures of over het daarmee verband houdende bewijsmateriaal, of doet afbreuk aan de rechten of verplichtingen van Partijen die voortvloeien uit het [Verdrag van 1988](https://wetten.overheid.nl/jci1.3:c:BWBV0001103) of uit andere internationale verdragen en instrumenten.
 
-#### Artikel 27. Inbeslagneming en verbeurdverklaring
+##### Artikel 27. Inbeslagneming en verbeurdverklaring
 
 1. Goederen die in beslag zijn genomen of verbeurd zijn verklaard als gevolg van een rechtshandhavingsoperatie die uit hoofde van dit Verdrag is uitgevoerd in de wateren van een Partij, worden vervreemd in overeenstemming met de wetten van die Partij.
 
@@ -378,13 +400,13 @@ Elke Partij neemt de maatregelen die nodig kunnen zijn om haar rechtsmacht te ve
 
 3. Voorzover dit is toegestaan door haar wetgeving en op de voorwaarden die zij passend acht, kan een Partij in alle gevallen de verbeurdverklaarde goederen of de opbrengst van de verkoop ervan overdragen aan een andere Partij of aan intergouvernementele lichamen die gespecialiseerd zijn in de bestrijding van sluikhandel en het gebruik van verdovende middelen en psychotrope stoffen.
 
-#### Artikel 28. Vorderingen
+##### Artikel 28. Vorderingen
 
 Vorderingen jegens een Partij inzake schade, letsel of verlies voortvloeiende uit rechtshandhavingsoperaties uit hoofde van dit Verdrag, met inbegrip van vorderingen jegens zijn rechtshandhavingsfunctionarissen, worden opgelost in overeenstemming met het internationale recht.
 
 ### Slotbepalingen
 
-#### Artikel 29. Waarborging van rechten en voorrechten
+##### Artikel 29. Waarborging van rechten en voorrechten
 
 1. Geen enkele bepaling van dit Verdrag wordt zodanig uitgelegd dat deze afbreuk doet aan de rechten en voorrechten van een individu in een gerechtelijke procedure.
 
@@ -392,17 +414,17 @@ Vorderingen jegens een Partij inzake schade, letsel of verlies voortvloeiende ui
 
 3. Voor de toepassing van dit Verdrag kunnen vaartuigen of luchtvaartuigen van de rechtshandhavingsautoriteiten in geen enkel geval worden aangemerkt als verdachte vaartuigen of luchtvaartuigen.
 
-#### Artikel 30. Gevolgen voor aanspraken op territoriale of maritieme grenzen
+##### Artikel 30. Gevolgen voor aanspraken op territoriale of maritieme grenzen
 
 Geen enkele bepaling van dit Verdrag doet afbreuk aan de positie van een Partij uit hoofde van het internationale recht, met inbegrip van het recht van de zee, tast de aanspraken op territoriale of maritieme grenzen van een Partij of derde Staat aan, of vormt een precedent waaraan rechten kunnen worden ontleend.
 
-#### Artikel 31. Verhouding tot andere verdragen
+##### Artikel 31. Verhouding tot andere verdragen
 
 1. De Partijen bij het Verdrag worden aangemoedigd met elkaar bilaterale of multilaterale verdragen te sluiten inzake de aangelegenheden die in dit Verdrag worden behandeld, teneinde de bepalingen van het Verdrag te bevestigen of aan te vullen of de toepassing van de in [artikel 17 van het Verdrag van 1988](https://wetten.overheid.nl/jci1.3:c:BWBV0001103&artikel=17) vervatte beginselen te versterken.
 
 2. Geen enkele bepaling van dit Verdrag heeft enige verandering of aantasting tot gevolg van de rechten en verplichtingen van een Partij die voortvloeien uit verdragen die tussen deze Partij en een of meer Partijen van kracht zijn met betrekking tot hetzelfde onderwerp.
 
-#### Artikel 32. Vergaderingen van de partijen
+##### Artikel 32. Vergaderingen van de partijen
 
 1. Aan het einde van het tweede jaar volgend op het jaar waarin dit Verdrag in werking treedt, vindt een vergadering van de Partijen plaats. Na deze termijn worden daaropvolgende vergaderingen van de Partijen niet eerder gehouden dan negentig (90) dagen nadat vijftig procent van de Partijen daartoe langs de gebruikelijke diplomatieke weg een verzoek heeft ingediend.
 
@@ -412,7 +434,7 @@ Geen enkele bepaling van dit Verdrag doet afbreuk aan de positie van een Partij 
 
 4. In de vergaderingen van de Partijen worden alle besluiten bij consensus genomen.
 
-#### Artikel 33. Wijzigingen
+##### Artikel 33. Wijzigingen
 
 1. Elke Partij kan te allen tijde na de inwerkingtreding van het Verdrag voor die Partij een wijziging van dit Verdrag voorstellen door de tekst van een dergelijk voorstel aan de Depositaris te doen toekomen. De Depositaris zal een dergelijk voorstel onverwijld verspreiden onder alle Partijen en Ondertekenaars.
 
@@ -420,15 +442,15 @@ Geen enkele bepaling van dit Verdrag doet afbreuk aan de positie van een Partij 
 
 3. Wijzigingen treden in werking dertig dagen nadat de Depositaris van alle Partijen de akte van aanvaarding of goedkeuring heeft ontvangen.
 
-#### Artikel 34. Beslechting van geschillen
+##### Artikel 34. Beslechting van geschillen
 
 Indien er tussen twee of meer Partijen een vraag of geschil mocht ontstaan met betrekking tot de uitlegging of toepassing van dit Verdrag, plegen deze Partijen met elkaar overleg teneinde het geschil te beslechten door middel van onderhandelingen, onderzoek, bemiddeling, conciliatie, arbitrage of een beroep op regionale entiteiten, langs gerechtelijke weg of op een andere door hen te kiezen vreedzame wijze.
 
-#### Artikel 35. Ondertekening
+##### Artikel 35. Ondertekening
 
 Dit Verdrag staat te San José, Costa Rica, vanaf 10 april 2003 open voor ondertekening door iedere Staat die Partij is bij het [Verdrag van 1988](https://wetten.overheid.nl/jci1.3:c:BWBV0001103) en in het Caribisch gebied gelegen is, of iedere Staat die verantwoordelijk is voor de buitenlandse betrekkingen van een gebied dat in het Caribisch gebied is gelegen.
 
-#### Artikel 36. Inwerkingtreding
+##### Artikel 36. Inwerkingtreding
 
 1. Staten kunnen, in overeenstemming met hun nationale procedures, hun instemming door dit Verdrag te worden gebonden tot uitdrukking brengen door:
 
@@ -440,29 +462,29 @@ Dit Verdrag staat te San José, Costa Rica, vanaf 10 april 2003 open voor ondert
 
 3. Voor iedere Staat die na de datum van inwerkingtreding van dit Verdrag ermee instemt erdoor te worden gebonden, treedt het Verdrag voor die Staat in werking 30 dagen na nederlegging van de akte waarin de instemming te worden gebonden tot uitdrukking wordt gebracht.
 
-#### Artikel 37. Voorbehouden en uitzonderingen
+##### Artikel 37. Voorbehouden en uitzonderingen
 
 Met inachtneming van haar Grondwet en wetten en overeenkomstig het internationale recht, kan een Partij voorbehouden maken ten aanzien van dit Verdrag, behoudens wanneer deze niet verenigbaar zijn met het onderwerp en doel van het Verdrag. Ten aanzien van [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=2&z=2010-08-28&g=2010-08-28), [12](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=12&z=2010-08-28&g=2010-08-28), [13](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=13&z=2010-08-28&g=2010-08-28) en [16](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=16&z=2010-08-28&g=2010-08-28) kunnen geen voorbehouden worden gemaakt.
 
-#### Artikel 38. Verklaringen
+##### Artikel 38. Verklaringen
 
 [Artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=37&z=2010-08-28&g=2010-08-28) doet geen afbreuk aan het recht van een Staat om bij de ondertekening, bekrachtiging, aanvaarding of goedkeuring van dit Verdrag, verklaringen, ongeacht de formulering of de benaming die eraan wordt gegeven, af te geven, bijvoorbeeld ten behoeve van onderlinge overeenstemming tussen zijn wet- en regelgeving en de bepalingen van dit Verdrag, voorzover dergelijke verklaringen er niet toe strekken of tot gevolg hebben dat het effect van de bepalingen van dit Verdrag op die Staat teniet wordt gedaan of veranderd.
 
-#### Artikel 39. Territoriale toepassing
+##### Artikel 39. Territoriale toepassing
 
 Dit Verdrag is uitsluitend van toepassing op het Caribisch gebied, zoals omschreven in [artikel 1, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=1&z=2010-08-28&g=2010-08-28).
 
-#### Artikel 40. Opschorting
+##### Artikel 40. Opschorting
 
 Partijen bij dit Verdrag kunnen hun verplichtingen uit hoofde van dit Verdrag ten aanzien van bepaalde gebieden onder hun soevereiniteit tijdelijk opschorten indien daarvoor dringende redenen van nationale veiligheid bestaan. Een dergelijke opschorting treedt pas in werking nadat zij naar behoren is bekendgemaakt.
 
-#### Artikel 41. Opzegging
+##### Artikel 41. Opzegging
 
 1. Iedere Partij kan dit Verdrag opzeggen. De opzegging wordt van kracht twaalf maanden nadat de Depositaris de kennisgeving van opzegging heeft ontvangen.
 
 2. Na opzegging blijft dit Verdrag van toepassing op administratieve of gerechtelijke procedures die het gevolg zijn van maatregelen die ingevolge dit Verdrag met betrekking tot de opzeggende Partij zijn genomen.
 
-#### Artikel 42. Depositaris
+##### Artikel 42. Depositaris
 
 1. Het origineel van dit Verdrag wordt nedergelegd bij de Regering van de Republiek Costa Rica, die als Depositaris zal optreden.
 

@@ -1,13 +1,39 @@
 ---
-title: "Wijzigingsbesluit financiële markten 2023"
+title: "Besluit van 24 november 2023, nr. 2023000277 tot wijziging van het Besluit Gedragstoezicht financiële ondernemingen Wft, het Besluit prudentiële regels Wft, het Besluit financiële markten BES en enige andere besluiten op het terrein van de financiële markten (Wijzigingsbesluit financiële markten 2023)"
 identifier: "BWBR0049313"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-07-01
-laatste_update: 2024-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049313"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-07-01"
+last_updated: "2024-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049313"
+soort: "AMvB"
+stam_id: "17019923"
+version_id: "29942482"
+internal_id: "C42916071"
+label_id: "16929694"
+dtd_version: "2.0"
+original_entry_into_force: "2024-01-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049313/2024-07-01/0"
+intitule_bron: "Stb.2024-10"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-11-24"
+intitule_published: "2024-01-30"
+intitule_in_force: "2024-01-30"
+intitule_status: "goed"
+original_publication: "Stb.2024-10"
+original_signed_date: "2023-11-24"
+original_published_date: "2024-01-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2024-10"
+entry_into_force_date: "2024-01-31"
+jci_1_3: "jci1.3:c:BWBR0049313&z=2024-07-01&g=2024-07-01"
+jci_1_0: "1.0:c:BWBR0049313&g=2024-07-01"
+citeertitel_status: "officieel"
+short_title: "Wijzigingsbesluit financiële markten 2023"
+signed_date: "2023-11-24"
+entry_into_force: "2024-01-31"
 ---
-
 # Besluit van 24 november 2023, nr. 2023000277 tot wijziging van het Besluit Gedragstoezicht financiële ondernemingen Wft, het Besluit prudentiële regels Wft, het Besluit financiële markten BES en enige andere besluiten op het terrein van de financiële markten (Wijzigingsbesluit financiële markten 2023)
 
 Op de voordracht van Onze Minister van Financiën van 7 februari 2023, 2023-0000010667, directie Financiële Markten;
@@ -20,57 +46,57 @@ Gezien het nader rapport van Onze Minister van Financiën van 20 november 2023, 
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Besluit Gedragstoezicht financiële ondernemingen Wft.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Besluit Markttoegang financiële ondernemingen Wft.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Besluit prudentiële regels Wft.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het Besluit financiële markten BES.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Besluit bestuurlijke boetes financiële sector.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt het Besluit uitvoering EU-verordeningen financiële markten.
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt het Uitvoeringsbesluit Wwft 2018.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt het Besluit kredietvergoeding.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt het Besluit reikwijdtebepalingen Wft.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt het Besluit gereglementeerde markten Wft.
 
-#### Artikel XI
+##### Artikel XI
 
 Onze Minister van Financiën zendt binnen drie jaar na de inwerkingtreding van [artikel I, onderdelen H, L en N](https://wetten.overheid.nl/jci1.3:c:BWBR0049313&artikel=I&z=2024-07-01&g=2024-07-01), aan de Staten-Generaal een verslag over de doeltreffendheid en effecten in de praktijk van de [artikelen 61, eerste lid, onderdelen e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=61), [86d, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=86d), en [86i, eerste lid, onderdeel f, en derde lid, van het Besluit Gedragstoezicht financiële ondernemingen Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=86i), zoals gewijzigd bij dit besluit.
 
-#### Artikel XII
+##### Artikel XII
 
 Dit besluit treedt in werking met ingang van 1 juli 2024, met uitzondering van [artikel I, onderdelen D en T](https://wetten.overheid.nl/jci1.3:c:BWBR0049313&artikel=I&z=2024-07-01&g=2024-07-01), dat in werking treedt met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst
 
-#### Artikel XIII
+##### Artikel XIII
 
 Dit besluit wordt aangehaald als: Wijzigingsbesluit financiële markten 2023.
 

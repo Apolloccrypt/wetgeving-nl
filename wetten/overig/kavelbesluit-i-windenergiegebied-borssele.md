@@ -1,13 +1,38 @@
 ---
 title: "Kavelbesluit I windenergiegebied Borssele"
 identifier: "BWBR0037794"
-categorie: "Overig"
-publicatiedatum: 2016-04-09
-laatste_update: 2016-04-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037794"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2016-04-09"
+last_updated: "2016-04-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037794"
+soort: "ministeriele-regeling"
+stam_id: "13451553"
+version_id: "23095212"
+internal_id: "C33376131"
+label_id: "13421244"
+dtd_version: "2.0"
+original_entry_into_force: "2016-04-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037794/2016-04-09/0"
+intitule_bron: "Stcrt.2016-14428"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-03-24"
+intitule_published: "2016-04-08"
+intitule_in_force: "2016-04-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-14428"
+original_signed_date: "2016-03-24"
+original_published_date: "2016-04-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-14428"
+entry_into_force_date: "2016-04-09"
+jci_1_3: "jci1.3:c:BWBR0037794&z=2016-04-09&g=2016-04-09"
+jci_1_0: "1.0:c:BWBR0037794&g=2016-04-09"
+citeertitel_status: "redactioneel"
+signed_date: "2016-03-24"
+entry_into_force: "2016-04-09"
 ---
-
 # Kavelbesluit I windenergiegebied Borssele
 
 ### I. Besluit

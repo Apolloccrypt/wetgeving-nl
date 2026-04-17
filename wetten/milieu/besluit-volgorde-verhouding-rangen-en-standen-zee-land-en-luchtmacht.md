@@ -1,13 +1,35 @@
 ---
-title: "Besluit volgorde verhouding rangen en standen zee-, land- en luchtmacht"
+title: "Besluit van 20 juni 1956, bepalende de volgorde van en de verhouding tussen de rangen en standen bij de zee-, de land- en de luchtmacht"
 identifier: "BWBR0002224"
-categorie: "Milieu"
-publicatiedatum: 2002-09-13
-laatste_update: 2002-09-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002224"
+country: "nl"
+rank: "amvb"
+publication_date: "2002-09-13"
+last_updated: "2002-09-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002224"
+soort: "AMvB"
+stam_id: "1208883"
+version_id: "1781582"
+internal_id: "C1781581"
+label_id: "1170714"
+dtd_version: "2.0"
+original_entry_into_force: "1956-07-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002224/2002-09-13/0"
+intitule_bron: "Stb.1956-361"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1956-06-20"
+intitule_status: "goed"
+original_publication: "Stb.1956-361"
+original_signed_date: "1956-06-20"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1956-07-26"
+jci_1_3: "jci1.3:c:BWBR0002224&z=2002-09-13&g=2002-09-13"
+jci_1_0: "1.0:c:BWBR0002224&g=2002-09-13"
+citeertitel_status: "officieel"
+short_title: "Besluit volgorde verhouding rangen en standen zee-, land- en luchtmacht"
+signed_date: "1956-06-20"
+entry_into_force: "1956-07-26"
 ---
-
 # Besluit van 20 juni 1956, bepalende de volgorde van en de verhouding tussen de rangen en standen bij de zee-, de land- en de luchtmacht
 
 Op de voordracht van Onze Minister van Oorlog en van Marine van 26 maart 1956, Nr P. 105.270 H;
@@ -18,15 +40,15 @@ Gezien het nader rapport van Onze voornoemde Ministers van 15 juni 1956, Nr P. 1
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 De volgorde van en de verhouding tussen de rangen en standen bij de zee-, de land- en de luchtmacht - waarbij worden geacht te zijn inbegrepen de door Ons of door Onze Minister van Oorlog en (of) door Onze Minister van Marine daarmede gelijkgestelde rangen en standen - zijn aangegeven in de bij dit besluit behorende tabel, waarin een hogere rang is aangegeven door een lager nummer en onderlinge gelijkheid van rang of stand door een gelijk nummer.
 
-#### Artikel 2
+##### Artikel 2
 
 Een gewezen officier, die na zijn ontslag bij het voormalige Koninklijk Nederlands Indonesische Leger zijn rang heeft behouden, wordt voor wat het bepalen van rangsverhouding betreft, gelijkgesteld met de officier van de Koninklijke Landmacht, die een gelijknamige rang bekleedt.
 
-#### Artikel 3
+##### Artikel 3
 
 Het Koninklijk besluit van 6 Augustus 1910 (**Stb.** 247) wordt ingetrokken.
 

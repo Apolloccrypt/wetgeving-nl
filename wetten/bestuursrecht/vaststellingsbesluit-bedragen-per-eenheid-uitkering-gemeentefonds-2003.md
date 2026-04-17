@@ -1,28 +1,54 @@
 ---
-title: "Vaststellingsbesluit bedragen per eenheid uitkering gemeentefonds 2003"
+title: "Besluit van 7 juli 2006, nr. 2006- 0000227879, tot vaststelling van de bedragen per eenheid voor de uitkering uit het gemeentefonds over het uitkeringsjaar 2003"
 identifier: "BWBR0020068"
-categorie: "Bestuursrecht"
-publicatiedatum: 2006-07-20
-laatste_update: 2006-07-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020068"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2006-07-20"
+last_updated: "2006-07-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020068"
+soort: "ministeriele-regeling"
+stam_id: "8524463"
+version_id: "13425422"
+internal_id: "C18005711"
+label_id: "8504804"
+dtd_version: "2.0"
+original_entry_into_force: "2006-07-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020068/2006-07-20/0"
+intitule_bron: "Stcrt.2006-137"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-07-07"
+intitule_published: "2006-07-18"
+intitule_in_force: "2006-07-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-137"
+original_signed_date: "2006-07-07"
+original_published_date: "2006-07-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-137-p9-SC75987"
+entry_into_force_date: "2006-07-20"
+jci_1_3: "jci1.3:c:BWBR0020068&z=2006-07-20&g=2006-07-20"
+jci_1_0: "1.0:c:BWBR0020068&g=2006-07-20"
+citeertitel_status: "redactioneel"
+short_title: "Vaststellingsbesluit bedragen per eenheid uitkering gemeentefonds 2003"
+signed_date: "2006-07-07"
+entry_into_force: "2006-07-20"
 ---
-
 # Besluit van 7 juli 2006, nr. 2006- 0000227879, tot vaststelling van de bedragen per eenheid voor de uitkering uit het gemeentefonds over het uitkeringsjaar 2003
 
 Gelet op [artikel 9 van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=9) en [artikel 6 van de Invoeringswet Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008291&artikel=6);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor het uitkeringsjaar 2003 worden de bedragen per eenheid, bedoeld in [artikel 9 van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=9), vastgesteld overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020068&bijlage=1&z=2006-07-20&g=2006-07-20) bij dit besluit.
 
-#### Artikel 2
+##### Artikel 2
 
 Voor het uitkeringsjaar 2003 worden de bedragen, bedoeld in [artikel 6 van de Invoeringswet Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008291&artikel=6), vastgesteld overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020068&bijlage=2&z=2006-07-20&g=2006-07-20) bij dit besluit.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

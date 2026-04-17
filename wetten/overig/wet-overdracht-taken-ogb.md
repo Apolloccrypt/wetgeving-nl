@@ -1,14 +1,38 @@
 ---
-title: "Wet overdracht taken OGB"
+title: "Wet van 2 november 1990, tot wijziging van de gemeentewet in verband met de overdracht van taken van de rijksbelastingdienst betreffende de heffing en de invordering van de onroerend-goedbelastingen aan de gemeenten"
 identifier: "BWBR0004890"
-categorie: "Overig"
-publicatiedatum: 1990-11-22
-laatste_update: 1990-11-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004890"
+country: "nl"
+rank: "wet"
+publication_date: "1990-11-22"
+last_updated: "1990-11-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004890"
+soort: "wet"
+stam_id: "32323"
+version_id: "38312"
+internal_id: "C38311"
+label_id: "32234"
+dtd_version: "2.0"
+original_entry_into_force: "1990-11-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004890/1990-11-22/0"
+intitule_bron: "Stb.1990-549"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1990-11-02"
+intitule_status: "goed"
+original_publication: "Stb.1990-549"
+original_signed_date: "1990-11-02"
+original_effect: "nieuwe-regeling"
+original_dossier: "21356"
+entry_into_force_date: "1990-11-22"
+entry_into_force_dossier: "21356"
+jci_1_3: "jci1.3:c:BWBR0004890&z=1990-11-22&g=1990-11-22"
+jci_1_0: "1.0:c:BWBR0004890&g=1990-11-22"
+citeertitel_status: "officieel"
+short_title: "Wet overdracht taken OGB"
+signed_date: "1990-11-02"
+entry_into_force: "1990-11-22"
 ---
-
-# Wet overdracht taken OGB
+# Wet van 2 november 1990, tot wijziging van de gemeentewet in verband met de overdracht van taken van de rijksbelastingdienst betreffende de heffing en de invordering van de onroerend-goedbelastingen aan de gemeenten
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,15 +40,15 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is de taken die de rijk
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel II
+##### Artikel II
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel III
+##### Artikel III
 
 1. Deze wet treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst, met dien verstande dat:
 
@@ -52,7 +76,7 @@ Bevat wijzigingen in andere regelgeving.
 
 - b. andere onderwerpen waarvan regeling nodig is in verband met de overdracht van de taken van de rijksbelastingdienst ter zake van de in [artikel 273 van de gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=273) bedoelde belastingen aan de gemeenten.
 
-#### Artikel IV
+##### Artikel IV
 
 Deze wet kan worden aangehaald als: Wet overdracht taken OGB.
 

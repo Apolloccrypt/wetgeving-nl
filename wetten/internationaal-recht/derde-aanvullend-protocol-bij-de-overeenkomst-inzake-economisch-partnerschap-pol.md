@@ -1,13 +1,35 @@
 ---
 title: "Derde Aanvullend Protocol bij de Overeenkomst inzake economisch partnerschap, politieke coördinatie en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Verenigde Mexicaanse Staten, anderzijds, om rekening te houden met de toetreding van de Republiek Kroatië tot de Europese Unie"
 identifier: "BWBV0006798"
-categorie: "Internationaal recht"
-publicatiedatum: 2020-03-01
-laatste_update: 2020-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006798"
+country: "nl"
+rank: "verdrag"
+publication_date: "2020-03-01"
+last_updated: "2020-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006798"
+soort: "verdrag"
+stam_id: "10005470833"
+version_id: "10005945422"
+internal_id: "C10009690281"
+label_id: "10005453914"
+dtd_version: "2.0"
+original_entry_into_force: "2020-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006798/2020-03-01/0"
+intitule_bron: "Trb.2019-45"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2019-03-20"
+intitule_in_force: "2020-04-17"
+intitule_status: "goed"
+original_publication: "Trb.2019-45"
+original_published_date: "2019-03-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2019-45"
+entry_into_force_date: "2020-03-01"
+jci_1_3: "jci1.3:c:BWBV0006798&z=2020-03-01&g=2020-03-01"
+jci_1_0: "1.0:c:BWBV0006798&g=2020-03-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2020-03-01"
 ---
-
 # Derde Aanvullend Protocol bij de Overeenkomst inzake economisch partnerschap, politieke coördinatie en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Verenigde Mexicaanse Staten, anderzijds, om rekening te houden met de toetreding van de Republiek Kroatië tot de Europese Unie
 
 Het Koninkrijk België,
@@ -102,25 +124,25 @@ Overwegende dat [artikel 5, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV00067
 
 Zijn als volgt overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 De Republiek Kroatië wordt hierbij opgenomen als partij bij de [Overeenkomst inzake economisch partnerschap, politieke coördinatie en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Verenigde Mexicaanse Staten, anderzijds](https://wetten.overheid.nl/jci1.3:c:BWBV0001400).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Na de ondertekening van dit protocol doet de Unie de Kroatische taalversie van de [Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001400) aan haar lidstaten en Mexico toekomen.
 
 2. Onder voorbehoud van de inwerkingtreding van dit protocol wordt de tekst in de Kroatische taal authentiek op dezelfde voorwaarden als de teksten van de [Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001400) in de Bulgaarse, de Deense, de Duitse, de Engelse, de Estse, de Finse, de Franse, de Griekse, de Hongaarse, de Italiaanse, de Letse, de Litouwse, de Maltese, de Nederlandse, de Poolse, de Portugese, de Roemeense, de Sloveense, de Slowaakse, de Spaanse, de Tsjechische en de Zweedse taal.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit protocol maakt een integrerend deel uit van de [Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001400).
 
-#### Artikel 4
+##### Artikel 4
 
 Dit protocol is opgesteld in twee exemplaren in de Bulgaarse, de Deense, de Duitse, de Engelse, de Estse, de Finse, de Franse, de Griekse, de Hongaarse, de Italiaanse, de Kroatische, de Letse, de Litouwse, de Maltese, de Nederlandse, de Poolse, de Portugese, de Roemeense, de Sloveense, de Slowaakse, de Spaanse, de Tsjechische en de Zweedse taal, waarbij alle teksten gelijkelijk authentiek zijn.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Dit protocol wordt door de partijen volgens hun eigen interne procedures ondertekend en goedgekeurd.
 

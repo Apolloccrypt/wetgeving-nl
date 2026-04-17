@@ -1,134 +1,160 @@
 ---
-title: "Wijzigingsbesluit Besluit bestuurlijke boete Drank- en Horecawet, enz. (herstellen misslagen en omissies)"
+title: "Besluit van 19 september 2016, houdende wijziging van een aantal algemene maatregelen van bestuur op het terrein van het Ministerie van Volksgezondheid, Welzijn en Sport teneinde misslagen en omissies te herstellen"
 identifier: "BWBR0038585"
-categorie: "Strafrecht"
-publicatiedatum: 2017-06-01
-laatste_update: 2017-06-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038585"
+country: "nl"
+rank: "amvb"
+publication_date: "2017-06-01"
+last_updated: "2017-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038585"
+soort: "AMvB"
+stam_id: "13762833"
+version_id: "23597422"
+internal_id: "C33968521"
+label_id: "13729384"
+dtd_version: "2.0"
+original_entry_into_force: "2016-10-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038585/2017-06-01/0"
+intitule_bron: "Stb.2016-349"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-09-19"
+intitule_published: "2016-10-05"
+intitule_in_force: "2016-10-05"
+intitule_status: "goed"
+original_publication: "Stb.2016-349"
+original_signed_date: "2016-09-19"
+original_published_date: "2016-10-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2016-349"
+entry_into_force_date: "2016-10-06"
+jci_1_3: "jci1.3:c:BWBR0038585&z=2017-06-01&g=2017-06-01"
+jci_1_0: "1.0:c:BWBR0038585&g=2017-06-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsbesluit Besluit bestuurlijke boete Drank- en Horecawet, enz. (herstellen misslagen en omissies)"
+signed_date: "2016-09-19"
+entry_into_force: "2016-10-06"
 ---
-
 # Besluit van 19 september 2016, houdende wijziging van een aantal algemene maatregelen van bestuur op het terrein van het Ministerie van Volksgezondheid, Welzijn en Sport teneinde misslagen en omissies te herstellen
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Besluit bestuurlijke boete Drank- en Horecawet.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Tabaks- en rookwarenwet.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Tabaks- en rookwarenbesluit.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het Besluit actieve implantaten.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Besluit medische hulpmiddelen.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt het Warenwetbesluit Bereiding en behandeling van levensmiddelen.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt het Warenwetbesluit informatie levensmiddelen.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt het Warenwetbesluit Gereserveerde aanduidingen.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt het Warenwetbesluit honing.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt het Warenwetbesluit Smeerbare vetproducten.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt het Warenwetbesluit Verpakte waters.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt het Warenwetbesluit retributies levensmiddelen.
 
-#### Artikel XIII
+##### Artikel XIII
 
 In afwijking van [artikel 9, derde lid, van het Warenwetbesluit retributies levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0015167&artikel=9) zijn over de periode van 1 april 2014 tot 1 januari 2016 op grond van die bepaling geen retributies verschuldigd.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt het Besluit ex artikel 11 Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt het Besluit tot uitvoering van artikel 12 der Wet buitengewoon pensioen 1940–1945.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt het Besluit ex artikel 13 Wet buitengewoon pensioen 1940–1945.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Wijzigt het Besluit Jeugdwet.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Wijzigt het Besluit uitbreiding en beperking werkingssfeer WMG.
 
-#### Artikel XIX
+##### Artikel XIX
 
 Wijzigt het Besluit Wfsv.
 
-#### Artikel XX
+##### Artikel XX
 
 Wijzigt het Besluit zorgverzekering.
 
-#### Artikel XXI
+##### Artikel XXI
 
 Wijzigt het Uitvoeringsbesluit WTZi.
 
-#### Artikel XXII
+##### Artikel XXII
 
 Wijzigt het Interimbesluit forensische zorg.
 
-#### Artikel XXIII
+##### Artikel XXIII
 
 Wijzigt het Besluit gebruik burgerservicenummer in de zorg.
 
-#### Artikel XXIV
+##### Artikel XXIV
 
 Wijzigt het Besluit opleidingseisen apotheker.
 
-#### Artikel XXV
+##### Artikel XXV
 
 Wijzigt het Besluit gezondheidszorgpsycholoog.
 
-#### Artikel XXVI
+##### Artikel XXVI
 
 Wijzigt het Besluit psychotherapeut.
 
-#### Artikel XXVII
+##### Artikel XXVII
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2017/74.
 
 Wijzigt het Besluit Hersendoodprotocol.
 
-#### Artikel XXVIII
+##### Artikel XXVIII
 
 Wijzigt het Eisenbesluit lichaamsmateriaal 2006.
 
-#### Artikel XXIX
+##### Artikel XXIX
 
 Wijzigt het Registratiebesluit BIG.
 
-#### Artikel XXX
+##### Artikel XXX
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 

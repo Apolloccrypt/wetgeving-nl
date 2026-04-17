@@ -1,13 +1,35 @@
 ---
-title: "Verdrag tussen de staten die deelnemen in de „Multinational Stand-by High Readiness Brigade for UN Operations" inzake de rechtspositie van hun strijdkrachten"
+title: "Verdrag tussen de staten die deelnemen in de „Multinational Stand-by High Readiness Brigade for UN Operations\" inzake de rechtspositie van hun strijdkrachten"
 identifier: "BWBV0001580"
-categorie: "Internationaal recht"
-publicatiedatum: 2014-09-24
-laatste_update: 2014-09-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001580"
+country: "nl"
+rank: "verdrag"
+publication_date: "2014-09-24"
+last_updated: "2014-09-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001580"
+soort: "verdrag"
+stam_id: "10000064143"
+version_id: "10005653702"
+internal_id: "C10008753811"
+label_id: "10000064294"
+dtd_version: "2.0"
+original_entry_into_force: "2014-09-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001580/2014-09-24/0"
+intitule_bron: "Trb.2015-7"
+intitule_effect: "intrekking-regeling"
+intitule_published: "2015-01-19"
+intitule_in_force: "2015-01-19"
+intitule_status: "vervallen"
+original_publication: "Trb.2015-7"
+original_published_date: "2015-01-19"
+original_effect: "intrekking-regeling"
+original_url_id: "trb-2015-7"
+entry_into_force_date: "2014-09-24"
+jci_1_3: "jci1.3:c:BWBV0001580&z=2014-09-24&g=2014-09-24"
+jci_1_0: "1.0:c:BWBV0001580&g=2014-09-24"
+citeertitel_status: "officieel"
+entry_into_force: "2014-09-24"
 ---
-
 # Verdrag tussen de staten die deelnemen in de „Multinational Stand-by High Readiness Brigade for UN Operations" inzake de rechtspositie van hun strijdkrachten
 
 De Staten die deelnemen in de „Multinational Stand-by High Readiness Brigade for UN Operations" (SHIRBRIG),
@@ -26,39 +48,39 @@ Verlangend, evenwel, de rechtspositie van dergelijke strijdkrachten tijdens hun 
 
 Zijn het volgende overeengekomen:
 
-#### Artikel I. Begripsomschrijvingen
+##### Artikel I. Begripsomschrijvingen
 
 Vervallen
 
-#### Artikel II. Toepasselijke documenten
+##### Artikel II. Toepasselijke documenten
 
 Vervallen
 
-#### Artikel III. Procedure bij vorderingen
+##### Artikel III. Procedure bij vorderingen
 
 Vervallen
 
-#### Artikel IV. Beperkingen
+##### Artikel IV. Beperkingen
 
 Vervallen
 
-#### Artikel V. Beslechting van geschillen
+##### Artikel V. Beslechting van geschillen
 
 Vervallen
 
-#### Artikel VI. Wijziging
+##### Artikel VI. Wijziging
 
 Vervallen
 
-#### Artikel VII. Bekrachtiging en ondertekening
+##### Artikel VII. Bekrachtiging en ondertekening
 
 Vervallen
 
-#### Artikel VIII. Inwerkingtreding
+##### Artikel VIII. Inwerkingtreding
 
 Vervallen
 
-#### Artikel IX. Terugtrekking
+##### Artikel IX. Terugtrekking
 
 Vervallen
 

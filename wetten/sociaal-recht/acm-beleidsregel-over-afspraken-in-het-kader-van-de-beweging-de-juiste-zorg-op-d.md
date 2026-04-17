@@ -1,13 +1,38 @@
 ---
 title: "ACM Beleidsregel over afspraken in het kader van de beweging ‘De juiste zorg op de juiste plek’"
 identifier: "BWBR0042972"
-categorie: "Sociaal recht"
-publicatiedatum: 2020-01-01
-laatste_update: 2020-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042972"
+country: "nl"
+rank: "zbo"
+publication_date: "2020-01-01"
+last_updated: "2020-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042972"
+soort: "zbo"
+stam_id: "15292663"
+version_id: "26356402"
+internal_id: "C37457081"
+label_id: "15238794"
+dtd_version: "2.0"
+original_entry_into_force: "2020-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042972/2020-01-01/0"
+intitule_bron: "Stcrt.2019-71148"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-12-17"
+intitule_published: "2019-12-31"
+intitule_in_force: "2019-12-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-71148"
+original_signed_date: "2019-12-17"
+original_published_date: "2019-12-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-71148"
+entry_into_force_date: "2020-01-01"
+jci_1_3: "jci1.3:c:BWBR0042972&z=2020-01-01&g=2020-01-01"
+jci_1_0: "1.0:c:BWBR0042972&g=2020-01-01"
+citeertitel_status: "officieel"
+signed_date: "2019-12-17"
+entry_into_force: "2020-01-01"
 ---
-
 # ACM Beleidsregel over afspraken in het kader van de beweging ‘De juiste zorg op de juiste plek’
 
 ### 1. Inleiding

@@ -1,13 +1,38 @@
 ---
 title: "Besluit Wet op de inkomstenbelasting BES"
 identifier: "BWBR0029306"
-categorie: "Belastingrecht"
-publicatiedatum: 2011-01-01
-laatste_update: 2011-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029306"
+country: "nl"
+rank: "beleidsregel_bes"
+publication_date: "2011-01-01"
+last_updated: "2011-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029306"
+soort: "beleidsregel-BES"
+stam_id: "11176413"
+version_id: "18281342"
+internal_id: "C25434271"
+label_id: "11150754"
+dtd_version: "2.0"
+original_entry_into_force: "2011-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029306/2011-01-01/0"
+intitule_bron: "Stcrt.2010-21197"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-12-19"
+intitule_published: "2010-12-29"
+intitule_in_force: "2010-12-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-21197"
+original_signed_date: "2010-12-19"
+original_published_date: "2010-12-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-21197"
+entry_into_force_date: "2011-01-01"
+jci_1_3: "jci1.3:c:BWBR0029306&z=2011-01-01&g=2011-01-01"
+jci_1_0: "1.0:c:BWBR0029306&g=2011-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "2010-12-19"
+entry_into_force: "2011-01-01"
 ---
-
 # Besluit Wet op de inkomstenbelasting BES
 
 De staatssecretaris van Financiën heeft het volgende besloten.

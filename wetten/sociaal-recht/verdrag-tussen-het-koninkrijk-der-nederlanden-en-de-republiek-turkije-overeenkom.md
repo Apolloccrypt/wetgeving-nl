@@ -1,13 +1,32 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Turkije overeenkomstig de artikelen 7 en 26 van het Europees Verdrag inzake sociale zekerheid, gesloten op 14 december 1972, en houdende herziening van het Verdrag inzake sociale zekerheid, gesloten tussen het Koninkrijk der Nederlanden en de Republiek Turkije op 5 april 1966"
 identifier: "BWBV0003185"
-categorie: "Sociaal recht"
-publicatiedatum: 2000-01-06
-laatste_update: 2000-01-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003185"
+country: "nl"
+rank: "verdrag"
+publication_date: "2000-01-06"
+last_updated: "2000-01-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003185"
+soort: "verdrag"
+stam_id: "10003389323"
+version_id: "10003429432"
+internal_id: "C10008429531"
+label_id: "10003375454"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003185/2000-01-06/0"
+intitule_bron: "Trb.2000-25"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2000-03-24"
+intitule_status: "nogniet"
+original_publication: "Trb.2000-25"
+original_published_date: "2000-03-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2000-25"
+jci_1_3: "jci1.3:c:BWBV0003185&z=2000-01-06&g=2000-01-06"
+jci_1_0: "1.0:c:BWBV0003185&g=2000-01-06"
+citeertitel_status: "redactioneel"
+entry_into_force: "2000-03-24"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Turkije overeenkomstig de artikelen 7 en 26 van het Europees Verdrag inzake sociale zekerheid, gesloten op 14 december 1972, en houdende herziening van het Verdrag inzake sociale zekerheid, gesloten tussen het Koninkrijk der Nederlanden en de Republiek Turkije op 5 april 1966
 
 De Regering van het Koninkrijk der Nederlanden
@@ -28,7 +47,7 @@ Zijn de volgende bepalingen overeen gekomen:
 
 ### HOOFDSTUK I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -40,15 +59,15 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 ### HOOFDSTUK II. Ziekte en moederschap
 
-#### Artikel 2
+##### Artikel 2
 
 Met inachtneming van de bepalingen van dit Verdrag zijn de in artikel 20, 21, 23 en 24 van het Europees Verdrag genoemde bepalingen van toepassing op de betrekkingen tussen de Verdragsluitende Partijen.
 
-#### Artikel 3
+##### Artikel 3
 
 De bepalingen van dit Verdrag zijn van toepassing op personen die voldoen aan de voorwaarden die vereist zijn om recht te hebben op de prestaties krachtens de bepalingen van het Europees Verdrag, mits zij vallen onder de wetgeving of wettelijke regelingen van één van de Verdragsluitende Partijen inzake verstrekkingen in geval van ziekte en moederschap, alsook hun gezinsleden, indien deze personen of hun gezinsleden wonen op het grondgebied van een Verdragsluitende Partij.
 
-#### Artikel 4
+##### Artikel 4
 
 1. In de in de artikelen 20, 21, 23 en 24 van het Europees Verdrag bedoelde gevallen is voor de toekenning van protheses, hulpmiddelen van grotere omvang en andere verstrekkingen van groot belang de toestemming van de bevoegde autoriteit vereist, behalve bij onmiskenbare spoedgevallen. Indien deze verstrekkingen zijn verleend in een onmiskenbaar spoedgeval dient het orgaan van de woonplaats of van de verblijfplaats het bevoegde orgaan hiervan onverwijld kennisgeving te doen.
 
@@ -56,11 +75,11 @@ De bepalingen van dit Verdrag zijn van toepassing op personen die voldoen aan de
 
 3. Na goedkeuring door de bevoegde autoriteiten van de Verdragsluitende Partijen stellen de in artikel 3 van het Aanvullend Akkoord ter toepassing van het Europees Verdrag inzake sociale zekerheid van 14 december 1972 bedoelde verbindingsorganen een lijst van verstrekkingen op waarop het eerste lid van dit artikel van toepassing is.
 
-#### Artikel 5
+##### Artikel 5
 
 De artikelen 20, tweede lid, 23 en 24, tweede en vierde lid, van het Europees Verdrag zijn slechts op de betrokken gezinsleden van toepassing indien zij geen recht hebben op de verstrekkingen krachtens de wetgeving of wettelijke regelingen van de Verdragsluitende Partij op het grondgebied waarvan zij wonen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De verstrekkingen die worden verleend door het orgaan van een Verdragsluitende Partij voor rekening van het bevoegd orgaan van de andere Verdragsluitende Partij krachtens de artikelen 20, 21, 23 en 24 van het Europees Verdrag, worden vergoed door het orgaan van deze laatste Verdragsluitende Partij.
 
@@ -70,29 +89,29 @@ In dit laatste geval moeten de forfaitaire betalingen zodanig zijn dat de vergoe
 
 3. De bevoegde autoriteiten van de Verdragsluitende Partijen kunnen andere methoden van vergoeding overeenkomen of overeenkomen af te zien van elke vergoeding tussen de organen die onder hun rechtsbevoegdheid vallen.
 
-#### Artikel 7
+##### Artikel 7
 
 De bepalingen van artikel 21, tweede lid, letter b), van het Europees Verdrag zijn niet van toepassing ten aanzien van de betrekkingen tussen de Verdragsluitende Partijen.
 
 ### HOOFDSTUK III. Diverse bepalingen en slotbepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 De bevoegde autoriteiten van de Verdragsluitende Partijen leggen de wijze van toepassing van dit Verdrag vast in een Administratief Akkoord, uitgaande van het Aanvullend Akkoord ter toepassing van het Europees Verdrag inzake sociale zekerheid van 14 december 1972.
 
-#### Artikel 9
+##### Artikel 9
 
 Ten aanzien van de toepassing van Titel II van het Europees Verdrag is een betrokken persoon onderworpen aan de wetgeving of wettelijke regelingen van een enkele Verdragsluitende Partij.
 
-#### Artikel 10
+##### Artikel 10
 
 De bepaling van Hoofdstuk VI, onder D, van Bijlage VII van het Europees Verdrag is niet van toepassing tussen Turkije en Nederland.
 
-#### Artikel 11
+##### Artikel 11
 
 Wijzigt het Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Turkije inzake sociale zekerheid; Ankara, 1 februari 1968.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De Regeringen van de Verdragsluitende Partijen stellen elkaar schriftelijk in kennis van de voltooiing van hun respectieve constitutionele procedures, vereist voor de inwerkingtreding van dit Verdrag.
 
@@ -102,19 +121,19 @@ Wijzigt het Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Turkij
 
 4. De Verdragsluitende Partijen stellen de Secretaris-Generaal van de Raad van Europa in kennis van de inwerkingtreding van dit Verdrag.
 
-#### Artikel 13
+##### Artikel 13
 
 Dit Verdrag wordt gesloten voor onbepaalde tijd. Het kan door elk van de Verdragsluitende Partijen worden opgezegd.
 
 Van de opzegging moet uiterlijk zes maanden voor het einde van het lopende kalenderjaar kennis worden gegeven; dit Verdrag houdt aan het einde van dat jaar op van kracht te zijn.
 
-#### Artikel 14
+##### Artikel 14
 
 Ten aanzien van Nederland is dit Verdrag slechts van toepassing op het grondgebied van het Koninkrijk in Europa.
 
 #### Verificatie van aanvragen en betalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. Het bevoegde orgaan van de ondertekenende Staat waarbij een aanvraag om prestaties is ingediend, controleert de juistheid van de gegevens betreffende de aanvrager en, indien van toepassing, van diens gezinsleden en verschaft het bewijsmateriaal en de andere documenten zodanig dat deze laatste de behandeling kan vervolgen.
 
@@ -132,7 +151,7 @@ Ten aanzien van Nederland is dit Verdrag slechts van toepassing op het grondgebi
 
 #### Identificatie
 
-#### Artikel 2
+##### Artikel 2
 
 1. Om het recht op uitkering en de rechtmatigheid van de betaling op grond van de wettelijke regeling van een ondertekenende Staat te kunnen vaststellen, zijn de personen op wie het Verdrag van toepassing is, verplicht bij het bevoegde orgaan van het land waar zij wonen hun identiteit aan te tonen door overlegging van een officieel identiteitsbewijs. Het bevoegde orgaan kan de persoon aldus aan de hand van zijn of haar identiteitsbewijs naar behoren identificeren.
 
@@ -142,7 +161,7 @@ Ten aanzien van Nederland is dit Verdrag slechts van toepassing op het grondgebi
 
 #### Medische controle
 
-#### Artikel 3
+##### Artikel 3
 
 1. Op verzoek van het bevoegde orgaan voert de Sosyal Sigortalar Kurumu (SSK) de in de Nederlandse wettelijke regeling bedoelde medische en administratieve controles uit van de in Turkije woonachtige aanvragers van of rechthebbenden op een uitkering.
 
@@ -156,13 +175,13 @@ Ten aanzien van Nederland is dit Verdrag slechts van toepassing op het grondgebi
 
 #### Weigering, schorsing en intrekking
 
-#### Artikel 4
+##### Artikel 4
 
 Het bevoegde orgaan van een van de ondertekenende Staten is bevoegd de invaliditeits-, ouderdoms- of nabestaandenuitkering of de kinderbijslag te weigeren, te schorsen of in te trekken indien het van mening is dat de aanvrager, de rechthebbende of het bevoegde orgaan van de andere ondertekenende Staat niet de benodigde inlichtingen heeft verstrekt, indien de inlichtingen niet binnen drie maanden na de datum van het verzoek zijn verstrekt, of indien zij onvolledig zijn, ofwel indien de betrokkene niet een door het bevoegde orgaan voorzien geneeskundig onderzoek heeft ondergaan of indien hij het niet tijdig of volledig heeft ondergaan.
 
 #### Inwerkingtreding
 
-#### Artikel 5
+##### Artikel 5
 
 Dit Aanvullend Akkoord, dat een integrerend onderdeel vormt van het op 6 januari 2000 tussen het Koninkrijk der Nederlanden en de Republiek Turkije gesloten Verdrag inzake sociale zekerheid, treedt in werking onder dezelfde voorwaarden en voor hetzelfde tijdvak als het Verdrag.
 
@@ -170,7 +189,7 @@ Ten behoeve van de toepassing van het Verdrag tussen het Koninkrijk der Nederlan
 
 ### HOOFDSTUK I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit Administratief Akkoord wordt verstaan onder:
 
@@ -184,21 +203,21 @@ Voor de toepassing van dit Administratief Akkoord wordt verstaan onder:
 
 ### HOOFDSTUK II. Ziekte en moederschap
 
-#### Artikel 2
+##### Artikel 2
 
 Met inachtneming van de bepalingen van dit Akkoord zijn de bepalingen van de artikelen 17, 18, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29 en 30 van het Aanvullend Akkoord van toepassing op de betrekkingen tussen de Verdragsluitende Partijen.
 
-#### Artikel 3
+##### Artikel 3
 
 Het is niet noodzakelijk over te gaan tot de in artikel 17, zesde lid, van het Aanvullend Akkoord bedoelde kennisgeving wanneer de met de verstrekkingen samenhangende kosten door forfaitaire betalingen worden vergoed of wanneer wordt afgezien van de vergoeding van deze kosten.
 
-#### Artikel 4
+##### Artikel 4
 
 Het orgaan van de woonplaats of de verblijfplaats geeft de bevoegde autoriteit van tevoren kennis van elk besluit met betrekking tot de verlening van de in [artikel 4, eerste lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003185&hoofdstuk=II&artikel=4&z=2000-01-06&g=2000-01-06) bedoelde verstrekkingen.
 
 De bevoegde autoriteit beschikt over een termijn van vijftien dagen, te rekenen vanaf de datum van verzending van een kennisgeving, om bezwaar te maken en een dergelijk bezwaar te motiveren. Indien bij het verstrijken van de genoemde termijn geen bezwaar is gemaakt, gaat het orgaan van de woonplaats of de verblijfplaats over tot de verlening van de verstrekkingen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het Turkse bevoegde orgaan vergoedt de kosten van de verstrekkingen die zijn verleend:
 
@@ -210,7 +229,7 @@ De bevoegde autoriteit beschikt over een termijn van vijftien dagen, te rekenen 
 
 2. De in het voorgaande lid bedoelde gemiddelde jaarlijkse kosten worden berekend door de jaarlijkse uitgaven met betrekking tot alle door de Nederlandse organen aan personen van jonger dan, respectievelijk van 65 jaar en ouder, verleende verstrekkingen te delen door het gemiddelde jaarlijkse aantal verzekerden van jonger dan, respectievelijk van 65 jaar en ouder.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het Nederlandse bevoegde orgaan vergoedt de kosten van de verstrekkingen die zijn verleend:
 
@@ -244,35 +263,35 @@ De bevoegde autoriteit beschikt over een termijn van vijftien dagen, te rekenen 
 
 - e. het in het eerste lid, letter c, genoemde percentage wordt verkregen door de gemiddelde kosten per persoon van de verstrekkingen in geval van arbeidsongevallen en beroepsziekten te delen door de gemiddelde kosten per persoon van de verstrekkingen in geval van ziekte en moederschap. Het aldus verkregen percentage wordt elk kalenderjaar aan de „Ziekenfondsraad” medegedeeld.
 
-#### Artikel 7
+##### Artikel 7
 
 De in de artikelen 5 en 6 van dit Akkoord genoemde forfaitaire bedragen worden met 10% vermeerderd wegens administratiekosten.
 
-#### Artikel 8
+##### Artikel 8
 
 De in de artikelen 5, 6 en 7 van dit Akkoord genoemde vergoedingen vinden plaats door tussenkomst van de in artikel 3 van het Aanvullend Akkoord bedoelde verbindingsorganen.
 
 De verbindingsorganen kunnen overeenkomen voorschotten te verstrekken.
 
-#### Artikel 9
+##### Artikel 9
 
 Artikel 20, eerste lid, van het Aanvullend Akkoord is niet van toepassing ten aanzien van de betrekkingen tussen de Verdragsluitende Partijen.
 
 Artikel 21 van het Aanvullend Akkoord is van toepassing in voorkomend geval.
 
-#### Artikel 10
+##### Artikel 10
 
 De verbindingsorganen kunnen voor de toepassing van het Verdrag en van dit Akkoord formulieren en andere benodigde documenten vaststellen.
 
-#### Artikel 11
+##### Artikel 11
 
 Wijzigt het Administratief Akkoord met betrekking tot de wijze van toepassing van het op 5 april 1966 te Ankara ondertekende Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Turkije inzake sociale zekerheid; ’s-Gravenhage, 14 juni 1967.
 
-#### Artikel 12
+##### Artikel 12
 
 Wijzigt het Administratief Akkoord met betrekking tot de wijze van toepassing van het op 5 april 1966 te Ankara ondertekende Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Turkije inzake sociale zekerheid; ’s-Gravenhage, 14 juni 1967.
 
-#### Artikel 13
+##### Artikel 13
 
 Dit Akkoord treedt op dezelfde datum in werking als het Verdrag.
 

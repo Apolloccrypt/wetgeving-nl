@@ -1,13 +1,38 @@
 ---
 title: "Vennootschapsbelasting en inkomstenbelasting, vrijgestelde beleggingsinstelling"
 identifier: "BWBR0023599"
-categorie: "Belastingrecht"
-publicatiedatum: 2025-01-18
-laatste_update: 2025-01-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0023599"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2025-01-18"
+last_updated: "2025-01-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023599"
+soort: "beleidsregel"
+stam_id: "9445473"
+version_id: "30561572"
+internal_id: "C43813331"
+label_id: "9423024"
+dtd_version: "2.0"
+original_entry_into_force: "2025-01-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023599/2025-01-18/0"
+intitule_bron: "Stcrt.2008-49"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-03-10"
+intitule_published: "2008-03-10"
+intitule_in_force: "2008-03-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-1741"
+original_signed_date: "2024-11-25"
+original_published_date: "2025-01-17"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2025-1741"
+entry_into_force_date: "2025-01-18"
+jci_1_3: "jci1.3:c:BWBR0023599&z=2025-01-18&g=2025-01-18"
+jci_1_0: "1.0:c:BWBR0023599&g=2025-01-18"
+citeertitel_status: "redactioneel"
+signed_date: "2024-11-25"
+entry_into_force: "2025-01-18"
 ---
-
 # Vennootschapsbelasting en inkomstenbelasting, vrijgestelde beleggingsinstelling
 
 **Dit besluit bevat het beleid met betrekking tot de vrijgestelde beleggingsinstelling (VBI) van artikel 6a van de Wet op de vennootschapsbelasting 1969 en is meest recent gewijzigd bij besluit van 25 november 2024, nr. 2024-28160, (Stcrt. 2025-1741). De aanpassing betrof de vermelding van de wijziging van de wettelijke definitie van de vrijgestelde beleggingsinstelling met ingang 1 januari 2025 (artikel I, onderdeel B). Ook werd het onderdeel over de centrale uitvoering aangepast (artikel I, onderdeel C).**

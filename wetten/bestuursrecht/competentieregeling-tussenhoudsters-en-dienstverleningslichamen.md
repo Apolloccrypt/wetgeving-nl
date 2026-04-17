@@ -1,13 +1,38 @@
 ---
 title: "Competentieregeling (tussen)houdsters en dienstverleningslichamen"
 identifier: "BWBR0042427"
-categorie: "Bestuursrecht"
-publicatiedatum: 2019-07-20
-laatste_update: 2019-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042427"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2019-07-20"
+last_updated: "2019-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042427"
+soort: "beleidsregel"
+stam_id: "15125343"
+version_id: "25935412"
+internal_id: "C36950061"
+label_id: "15073324"
+dtd_version: "2.0"
+original_entry_into_force: "2019-07-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042427/2019-07-20/0"
+intitule_bron: "Stcrt.2019-39950"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-07-03"
+intitule_published: "2019-07-19"
+intitule_in_force: "2019-07-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-39950"
+original_signed_date: "2019-07-03"
+original_published_date: "2019-07-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-39950"
+entry_into_force_date: "2019-07-20"
+jci_1_3: "jci1.3:c:BWBR0042427&z=2019-07-20&g=2019-07-20"
+jci_1_0: "1.0:c:BWBR0042427&g=2019-07-20"
+citeertitel_status: "redactioneel"
+signed_date: "2019-07-03"
+entry_into_force: "2019-07-20"
 ---
-
 # Competentieregeling (tussen)houdsters en dienstverleningslichamen
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

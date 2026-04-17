@@ -1,20 +1,45 @@
 ---
-title: "VROM intrekkingsregeling 2004"
+title: "Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 10 december 2004, nr. MJZ2004128508, houdende intrekking van diverse VROM-regelingen (VROM intrekkingsregeling 2004)"
 identifier: "BWBR0017677"
-categorie: "Overig"
-publicatiedatum: 2004-12-23
-laatste_update: 2004-12-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0017677"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2004-12-23"
+last_updated: "2004-12-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0017677"
+soort: "ministeriele-regeling"
+stam_id: "6517973"
+version_id: "11215872"
+internal_id: "C15147201"
+label_id: "6506504"
+original_entry_into_force: "2004-12-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0017677/2004-12-23/0"
+intitule_bron: "Stcrt.2004-246"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-12-10"
+intitule_published: "2004-12-21"
+intitule_in_force: "2004-12-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2004-246"
+original_signed_date: "2004-12-10"
+original_published_date: "2004-12-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2004-246-p38-SC67898"
+entry_into_force_date: "2004-12-23"
+jci_1_3: "jci1.3:c:BWBR0017677&z=2004-12-23&g=2004-12-23"
+jci_1_0: "1.0:c:BWBR0017677&g=2004-12-23"
+citeertitel_status: "officieel"
+short_title: "VROM intrekkingsregeling 2004"
+signed_date: "2004-12-10"
+entry_into_force: "2004-12-23"
 ---
-
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 10 december 2004, nr. MJZ2004128508, houdende intrekking van diverse VROM-regelingen (VROM intrekkingsregeling 2004)
 
 Besluit:
 
 #### Paragraaf 1. Intrekking regelingen
 
-#### Artikel 1
+##### Artikel 1
 
 Op het gebied van Wonen worden de volgende regelingen en beschikkingen ingetrokken:
 
@@ -264,7 +289,7 @@ Op het gebied van Wonen worden de volgende regelingen en beschikkingen ingetrokk
 
 - 88°. Beschikking van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 16 december 2003, nr. IBSU2003116638, houdende rendementen gesubsidieerde woningbouw december 2003 (Stcrt. 2003, 250).
 
-#### Artikel 2
+##### Artikel 2
 
 Op het gebied van Ruimte worden de volgende regelingen en beschikkingen ingetrokken:
 
@@ -280,7 +305,7 @@ Op het gebied van Ruimte worden de volgende regelingen en beschikkingen ingetrok
 
 - 5°. Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 25 oktober 1994, nr. M414, als bedoeld in artikel 26 Luchtvaartwet juncto artikel 37 van de Wet op de Ruimtelijke Ordening, houdende aanwijzingen ten behoeve van de aanpassingen van de bestemmingsplannen binnen de geluidszones van het luchtvaartterrein Maastricht (Stcrt. 1994, 227).
 
-#### Artikel 3
+##### Artikel 3
 
 Op het gebied van Milieu worden de volgende regelingen en beschikkingen ingetrokken:
 
@@ -388,17 +413,17 @@ Op het gebied van Milieu worden de volgende regelingen en beschikkingen ingetrok
 
 #### Paragraaf 2. Overgangs- en slotbepalingen
 
-#### Artikel 4
+##### Artikel 4
 
 1. Voorzover er ter zake nog sprake is van enige bestuursrechtelijke afdoening, met inbegrip van bezwaar- en beroepsprocedures, vindt deze overeenkomstig de regelingen, genoemd in de [artikelen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017677&paragraaf=1&artikel=1&z=2004-12-23&g=2004-12-23), plaats.
 
 2. Bestaande aanspraken en verplichtingen bij, op grond of in het kader van de regelingen, genoemd in de [artikelen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017677&paragraaf=1&artikel=1&z=2004-12-23&g=2004-12-23), blijven in stand.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling wordt aangehaald als: VROM intrekkingsregeling 2004.
 

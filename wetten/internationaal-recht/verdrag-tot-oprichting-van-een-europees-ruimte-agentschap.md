@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tot oprichting van een Europees Ruimte-Agentschap"
 identifier: "BWBV0003813"
-categorie: "Internationaal recht"
-publicatiedatum: 2002-01-01
-laatste_update: 2002-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003813"
+country: "nl"
+rank: "verdrag"
+publication_date: "2002-01-01"
+last_updated: "2002-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003813"
+soort: "verdrag"
+stam_id: "10003725773"
+version_id: "10003788712"
+internal_id: "C10006982951"
+label_id: "10003711714"
+dtd_version: "2.0"
+original_entry_into_force: "1980-10-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003813/2002-01-01/0"
+intitule_bron: "Trb.1975-123"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1975-11-12"
+intitule_in_force: "1980-12-05"
+intitule_status: "goed"
+original_publication: "Trb.1975-123"
+original_published_date: "1975-11-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1975-123"
+entry_into_force_date: "1980-10-30"
+jci_1_3: "jci1.3:c:BWBV0003813&z=2002-01-01&g=2002-01-01"
+jci_1_0: "1.0:c:BWBV0003813&g=2002-01-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1980-10-30"
 ---
-
 # Verdrag tot oprichting van een Europees Ruimte-Agentschap
 
 De Staten die partij zijn bij dit Verdrag,
@@ -22,7 +44,7 @@ Verlangende voor de verwezenlijking van deze doelstellingen één Europese ruimt
 
 Zijn overeengekomen als volgt:
 
-#### Artikel I. Oprichting van het Agentschap
+##### Artikel I. Oprichting van het Agentschap
 
 1. Hierbij wordt een Europese Organisatie opgericht, „Europees Ruimte-Agentschap” genaamd, hierna te noemen „het Agentschap”.
 
@@ -32,7 +54,7 @@ Zijn overeengekomen als volgt:
 
 4. De Zetel van het Agentschap is gevestigd in het gebied van Parijs.
 
-#### Artikel II. Doel
+##### Artikel II. Doel
 
 Het doel van het Agentschap is de samenwerking tussen de Europese Staten op het gebied van het ruimte-onderzoek en de ruimtetechnologie en de toepassing hiervan in de ruimte, uitsluitend voor vreedzame doeleinden, tot stand te brengen en te bevorderen, met het oog op hun gebruik voor wetenschappelijke doeleinden en voor operationele ruimtesystemen bestemd voor praktische toepassing:
 
@@ -44,7 +66,7 @@ Het doel van het Agentschap is de samenwerking tussen de Europese Staten op het 
 
 - (d). door het uitwerken en ten uitvoer leggen van het bij zijn programma passende industriële beleid en door aanbevelingen te doen bij de Lid-Staten inzake een samenhangend industrieel beleid.
 
-#### Artikel III. Inlichtingen en gegevens
+##### Artikel III. Inlichtingen en gegevens
 
 1. De Lid-Staten en het Agentschap vergemakkelijken de uitwisseling van wetenschappelijke en technische inlichtingen op het gebied van het ruimte-onderzoek en de ruimte-technologie en de toepassing hiervan in de ruimte, met dien verstande dat een Lid-Staat niet verplicht is tot mededeling van buiten het Agentschap om verkregen inlichtingen, indien hij van mening is dat een zodanige mededeling onverenigbaar is met de belangen van zijn eigen veiligheid of met zijn eigen overeenkomsten met derden, of met de voorwaarden waaronder hij zodanige inlichtingen heeft verkregen.
 
@@ -56,11 +78,11 @@ Het doel van het Agentschap is de samenwerking tussen de Europese Staten op het 
 
 5. De gedetailleerde voorschriften voor de toepassing van de bovengenoemde bepalingen worden door de Raad met een twee derde meerderheid van alle Lid-Staten aangenomen.
 
-#### Artikel IV. Uitwisseling van personen
+##### Artikel IV. Uitwisseling van personen
 
 De Lid-Staten vergemakkelijken de uitwisseling van personen die werkzaamheden verrichten die tot de bevoegdheid van het Agentschap behoren, voor zover zulks verenigbaar is met de toepassing op een ieder van de wetten en voorschriften van deze Staten inzake binnenkomst en verblijf in, of vertrek uit hun grondgebied.
 
-#### Artikel V. Werkzaamheden en programma’s
+##### Artikel V. Werkzaamheden en programma’s
 
 1. De werkzaamheden van het Agentschap omvatten verplichte werkzaamheden, waaraan alle Lid-Staten deelnemen, en niet-verplichte werkzaamheden, waaraan alle Lid-Staten deelnemen uitgezonderd die welke uitdrukkelijk verklaren niet in deelname geïnteresseerd te zijn.
 
@@ -94,7 +116,7 @@ De kosten van deze operationele werkzaamheden worden door de betrokken gebruiker
 
 3. Met betrekking tot de coördinatie en integratie van de in artikel II, letter c, genoemde programma’s, ontvangt het Agentschap tijdig inlichtingen van de Lid-Staten betreffende plannen voor nieuwe ruimteprogramma’s, vergemakkelijkt het het overleg tussen de Lid-Staten, verricht het alle noodzakelijke evaluaties en stelt het passende, door de Raad met eenparigheid van stemmen van alle Lid-Staten aan te nemen voorschriften op. De doelstellingen en procedures voor de internationalisatie van de programma’s zijn vervat in Bijlage IV.
 
-#### Artikel VI. Installaties en diensten
+##### Artikel VI. Installaties en diensten
 
 1. Voor de uitvoering van de aan het Agentschap toevertrouwde programma’s:
 
@@ -104,7 +126,7 @@ De kosten van deze operationele werkzaamheden worden door de betrokken gebruiker
 
 2. Bij de uitvoering van hun programma’s trachten de Lid-Staten en het Agentschap bij voorrang van hun bestaande installaties en beschikbare diensten een zo goed mogelijk gebruik te maken en ze te rationaliseren; zij richten derhalve geen nieuwe installaties of diensten op alvorens de mogelijkheid tot gebruik van de bestaande middelen te hebben onderzocht.
 
-#### Artikel VII. Industrieel beleid
+##### Artikel VII. Industrieel beleid
 
 1. Het industriële beleid dat het Agentschap dient uit te werken en toe te passen krachtens artikel II, letter d, is er met name op gericht:
 
@@ -122,13 +144,13 @@ De gedetailleerde regelingen voor het bereiken van deze doelstellingen zijn verv
 
 2. Voor de uitvoering van zijn programma’s maakt het Agentschap op zo ruim mogelijke schaal gebruik van externe contractanten, voor zover zulks verenigbaar is met de handhaving van zijn eigen capaciteit, bedoeld in artikel VI, eerste lid.
 
-#### Artikel VIII. Draagraketten en andere ruimtetransportsystemen
+##### Artikel VIII. Draagraketten en andere ruimtetransportsystemen
 
 1. Bij het bepalen van zijn missies houdt het Agentschap rekening met de draagraketten of andere ruimtetransportsystemen ontwikkeld, hetzij in het kader van zijn programma’s, hetzij door een Lid-Staat, hetzij met een bijdrage van betekenis door het Agentschap en geeft het de voorkeur aan het gebruik daarvan voor passende nuttige ladingen, tenzij een zodanig gebruik een onredelijk nadeel met zich brengt op het gebied van kosten, betrouwbaarheid en geschiktheid voor de desbetreffende missie in vergelijking met het gebruik van andere draagraketten of ruimtetransportmiddelen die op het beoogde tijdstip beschikbaar zijn.
 
 2. Indien de in artikel V bedoelde werkzaamheden of programma’s het gebruik omvatten van draagraketten of andere ruimtetransportsystemen, stellen de deelnemende Staten op het ogenblik waarop het desbetreffende programma voor goedkeuring of aanvaarding wordt voorgelegd de Raad ervan in kennis welke draagraket of welk ruimtetransportsysteem wordt beoogd. Indien tijdens de uitvoering van een programma de deelnemende Staten wensen over te gaan tot het gebruik van een andere draagraket of van een ander ruimtetransportsysteem dan oorspronkelijk werd voorzien, spreekt de Raad zich uit over deze wijziging overeenkomstig dezelfde regels als die welke golden met betrekking tot de oorspronkelijke goedkeuring of aanvaarding van het programma.
 
-#### Artikel IX. Gebruik van installaties, hulp aan de Lid-Staten en levering van produkten
+##### Artikel IX. Gebruik van installaties, hulp aan de Lid-Staten en levering van produkten
 
 1. Mits het gebruik voor zijn eigen werkzaamheden en programma’s hiervan geen nadeel ondervindt, stelt het Agentschap zijn installaties aan iedere Lid-Staat ter beschikking, die verzoekt deze voor zijn eigen programma’s te mogen gebruiken, en wel op kosten van deze Staat. De Raad stelt met een twee derde meerderheid van alle Lid-Staten de modaliteiten van praktische aard vast volgens welke deze installaties ter beschikking worden gesteld.
 
@@ -140,11 +162,11 @@ De gedetailleerde regelingen voor het bereiken van deze doelstellingen zijn verv
 
 - (c). Het inwilligen van de in dit lid bedoelde verzoeken mag geen bijkomende kosten voor het Agentschap met zich brengen en de verzoekende Lid-Staat dient al de eruit voortvloeiende kosten te dragen.
 
-#### Artikel X. Organen
+##### Artikel X. Organen
 
 De organen van het Agentschap zijn de Raad en de Directeur-Generaal, bijgestaan door personeel.
 
-#### Artikel XI. De Raad
+##### Artikel XI. De Raad
 
 1. De Raad bestaat uit vertegenwoordigers van de Lid-Staten.
 
@@ -220,7 +242,7 @@ De organen van het Agentschap zijn de Raad en de Directeur-Generaal, bijgestaan 
 
 - (c). Wanneer een ondergeschikt orgaan een aangelegenheid onderzoekt die uitsluitend betrekking heeft op slechts een van de niet-verplichte programma’s bedoeld in artikel V, eerste lid, letter b, hebben niet-deelnemende Staten geen stemrecht, tenzij alle deelnemende Staten anders besluiten.
 
-#### Artikel XII. Directeur-generaal en personeel
+##### Artikel XII. Directeur-generaal en personeel
 
 - (a). De Raad benoemt met een twee derde meerderheid van alle Lid-Staten een Directeur-Generaal voor een vastgestelde termijn en kan met dezelfde meerderheid zijn dienstverband beëindigen.
 
@@ -240,7 +262,7 @@ De organen van het Agentschap zijn de Raad en de Directeur-Generaal, bijgestaan 
 
 4. De verantwoordelijkheden van de Directeur-Generaal en het personeel ten opzichte van het Agentschap dragen een uitsluitend internationaal karakter. Bij de uitoefening van hun taak vragen noch ontvangen dezen instructies van enige regering of autoriteit buiten het Agentschap. Iedere Lid-Staat is gehouden het internationaal karakter van de verantwoordelijkheden van de Directeur-Generaal en van de personeelsleden te eerbiedigen en tracht niet hen bij de uitoefening van hun taak te beïnvloeden.
 
-#### Artikel XIII. Financiële bijdragen
+##### Artikel XIII. Financiële bijdragen
 
 1. Iedere Lid-Staat draagt bij in de kosten van de uitvoering van werkzaamheden en van het programma bedoeld in artikel V, eerste lid, letter a, en, overeenkomstig Bijlage II, in de gemeenschappelijke kosten van het Agentschap, volgens een schaal aangenomen door de Raad met een twee derde meerderheid van alle Lid-Staten, hetzij om de drie jaar ten tijde van de beoordeling bedoeld in artikel XI, vijfde lid, letter a, punt (iii), of wanneer de Raad met eenparigheid van stemmen van alle Lid-Staten besluit een nieuwe schaal vast te stellen. De schaal van bijdragen wordt gebaseerd op het gemiddelde nationale inkomen van elke Lid-Staat over de laatste drie jaar waarover statistieken beschikbaar zijn.
 
@@ -262,7 +284,7 @@ Niettemin
 
 6. De Directeur-Generaal kan, met inachtneming van eventueel door de Raad gegeven richtlijnen, giften of legaten aan het Agentschap aanvaarden, mits deze niet onderworpen zijn aan voorwaarden die onverenigbaar zijn met de doeleinden van het Agentschap.
 
-#### Artikel XIV. Samenwerking
+##### Artikel XIV. Samenwerking
 
 1. Het Agentschap kan, wanneer de Raad daartoe met eenparigheid van stemmen van alle Lid-Staten besluit, met andere internationale organisaties en instellingen alsmede met regeringen, organisaties en instellingen van niet-Lid-Staten samenwerken en te dien einde overeenkomsten met hen sluiten.
 
@@ -270,7 +292,7 @@ Niettemin
 
 3. Deze samenwerking kan eveneens de vorm aannemen van het verlenen van geassocieerd lidmaatschap aan niet Lid-Staten, die zich verplichten tenminste bij te dragen voor de studies betreffende toekomstige projecten bedoeld in artikel V, eerste lid, letter a, punt (i). De gedetailleerde regelingen voor elk zodanig geassocieerd lidmaatschap worden van geval tot geval door de Raad met een twee derde meerderheid van alle Lid-Staten vastgesteld.
 
-#### Artikel XV. Rechtspositie, voorrechten en immuniteiten
+##### Artikel XV. Rechtspositie, voorrechten en immuniteiten
 
 1. Het Agentschap bezit rechtspersoonlijkheid.
 
@@ -278,7 +300,7 @@ Niettemin
 
 3. Tussen het Agentschap en de Lid-Staten op wier grondgebied de Zetel van het Agentschap en de overeenkomstig artikel VI opgerichte vestigingen zijn gelegen, worden overeenkomsten gesloten betreffende de Zetel en de vestigingen.
 
-#### Artikel XVI. Wijzigingen
+##### Artikel XVI. Wijzigingen
 
 1. De Raad kan de Lid-Staten aanbevelingen doen tot wijziging van dit Verdrag en van Bijlage I daarbij. Een Lid-Staat die een wijziging wenst voor te stellen, doet de Directeur-Generaal mededeling van het wijzigingsvoorstel. De Directeur-Generaal stelt de Lid-Staten in kennis van een hem aldus medegedeelde wijziging en wel ten minste drie maanden voordat deze wijziging door de Raad wordt besproken.
 
@@ -286,7 +308,7 @@ Niettemin
 
 3. De Raad kan met eenparigheid van stemmen van alle Lid-Staten elke andere Bijlage bij dit Verdrag wijzigen, mits zodanige wijzigingen niet in strijd zijn met het Verdrag. Een zodanige wijziging treedt in werking op een door de Raad met eenparigheid van stemmen van alle Lid-Staten vast te stellen datum. De Directeur-Generaal doet alle Lid-Staten mededeling van een aldus aangenomen wijziging en van de datum waarop zij in werking treedt.
 
-#### Artikel XVII. Geschillen
+##### Artikel XVII. Geschillen
 
 1. Elk geschil tussen twee of meer Lid-Staten of tussen een of meer van hen en het Agentschap, betreffende de uitlegging of de toepassing van dit Verdrag of van de Bijlagen daarbij, alsmede elk geschil bedoeld in artikel XXVI van Bijlage I, dat niet wordt bijgelegd door bemiddeling van de Raad, wordt op verzoek van een partij bij het geschil onderworpen aan arbitrage.
 
@@ -300,15 +322,15 @@ Niettemin
 
 6. De uitspraak van het Scheidsgerecht wordt gedaan bij meerderheid van zijn leden, die zich niet van stemming mogen onthouden. De uitspraak is definitief en bindend voor alle partijen bij het geschil en er kan geen beroep tegen worden aangetekend. De partijen dienen onverwijld gevolg te geven aan de uitspraak. In geval van onenigheid omtrent de betekenis of de strekking van de uitspraak, geeft het Scheidsgerecht uitleg op verzoek van een partij bij het geschil.
 
-#### Artikel XVIII. Het niet nakomen van verplichtingen
+##### Artikel XVIII. Het niet nakomen van verplichtingen
 
 Een Lid-Staat, die zijn uit het Verdrag voortvloeiende verplichtingen niet nakomt, houdt op lid te zijn van het Agentschap, na een door de Raad met een twee derde meerderheid van alle Lid-Staten genomen besluit. In een zodanig geval is het bepaalde in artikel XXIV van toepassing.
 
-#### Artikel XIX. Voortbestaan van rechten en verplichtingen
+##### Artikel XIX. Voortbestaan van rechten en verplichtingen
 
 Op de datum waarop dit Verdrag in werking treedt, neemt het Agentschap alle rechten en verplichtingen over van de Europese Organisatie voor Ruimte-onderzoek en van de Europese Organisatie voor de ontwikkeling en de vervaardiging van dragers voor ruimtevoertuigen.
 
-#### Artikel XX. Ondertekening en bekrachtiging
+##### Artikel XX. Ondertekening en bekrachtiging
 
 1. Dit Verdrag staat tot 31 december 1975 open voor ondertekening door de Staten die lid zijn van de Europese Ruimteconferentie. De Bijlagen bij dit Verdrag vormen een integrerend deel daarvan.
 
@@ -316,13 +338,13 @@ Op de datum waarop dit Verdrag in werking treedt, neemt het Agentschap alle rech
 
 3. Na de inwerkingtreding van dit Verdrag en in afwachting van de nederlegging van zijn akte van bekrachtiging of aanvaarding kan een ondertekenende Staat zonder stemrecht deelnemen aan de vergaderingen van het Agentschap.
 
-#### Artikel XXI. Inwerkingtreding
+##### Artikel XXI. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking wanneer de volgende Staten, die Lid zijn van de Europese Organisatie voor Ruimte-onderzoek of van de Europese Organisatie voor de ontwikkeling en de vervaardiging van dragers voor ruimtevoertuigen het hebben ondertekend en hun akten van bekrachtiging of aanvaarding hebben nedergelegd bij de Franse Regering: het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Franse Republiek, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, de Italiaanse Republiek, het Koninkrijk der Nederlanden, Spanje, het Koninkrijk Zweden en de Zwitserse Bondsstaat. Voor een Staat die dit Verdrag na de inwerkingtreding ervan bekrachtigt, aanvaardt, of daartoe toetreedt, wordt het Verdrag van kracht op de datum van nederlegging door deze Staat van zijn akte van bekrachtiging, aanvaarding of toetreding.
 
 2. Het Verdrag tot oprichting van een Europese Organisatie voor Ruimte-onderzoek en het Verdrag tot oprichting van een Europese Organisatie voor de ontwikkeling en de vervaardiging van dragers voor ruimtevoertuigen treden buiten werking op de datum van inwerkingtreding van dit Verdrag.
 
-#### Artikel XXII. Toetreding
+##### Artikel XXII. Toetreding
 
 1. Na de inwerkingtreding van dit Verdrag kan iedere Staat tot het Verdrag toetreden na een met eenparigheid van stemmen van alle Lid-Staten genomen besluit van de Raad.
 
@@ -330,7 +352,7 @@ Op de datum waarop dit Verdrag in werking treedt, neemt het Agentschap alle rech
 
 3. De akten van toetreding worden nedergelegd bij de Franse Regering.
 
-#### Artikel XXIII. Mededelingen
+##### Artikel XXIII. Mededelingen
 
 De Franse Regering doet alle ondertekenende en toetredende Staten mededeling van:
 
@@ -340,7 +362,7 @@ De Franse Regering doet alle ondertekenende en toetredende Staten mededeling van
 
 - (c). de opzegging van het Verdrag door een Lid-Staat.
 
-#### Artikel XXV. Opzegging
+##### Artikel XXV. Opzegging
 
 1. Nadat dit Verdrag zes jaar van kracht is geweest, kan iedere Lid-Staat het opzeggen door daarvan mededeling te doen aan de Franse Regering, die de andere Lid-Staten en de Directeur-Generaal hiervan mededeling doet. De opzegging wordt van kracht aan het einde van het begrotingsjaar volgende op het jaar waarin daarvan mededeling werd gedaan aan de Franse Regering. Nadat de opzegging van kracht is geworden, blijft de betrokken Staat verplicht het door hem verschuldigde aandeel in de met de goedgekeurde vastleggingskredieten overeenkomende betalingskredieten te honoreren, welke zijn gebruikt zowel uit de begrotingen voor het lopende jaar waaraan hij bijdroeg op het tijdstip dat de opzegging werd medegedeeld aan de Franse Regering, als uit voorgaande begrotingen.
 
@@ -350,7 +372,7 @@ De Franse Regering doet alle ondertekenende en toetredende Staten mededeling van
 
 4. De betrokken Staat behoudt de rechten die hij heeft verworven tot aan de datum waarop de opzegging van kracht wordt.
 
-#### Artikel XXV. Ontbinding
+##### Artikel XXV. Ontbinding
 
 1. Het Agentschap wordt ontbonden wanneer het aantal Lid-Staten minder dan vijf wordt. Het kan te allen tijde worden ontbonden nadat daarover door de Lid-Staten overeenstemming is bereikt.
 
@@ -358,23 +380,23 @@ De Franse Regering doet alle ondertekenende en toetredende Staten mededeling van
 
 3. Elk overschot wordt verdeeld onder de Staten die op het ogenblik van de ontbinding lid van het Agentschap zijn, en wel in verhouding tot de bijdragen die zij vanaf het tijdstip waarop zij partij werden bij dit Verdrag daadwerkelijk hebben betaald. Indien er een tekort is, wordt dit over dezelfde Staten omgeslagen in verhouding tot hun voor het dan lopende begrotingsjaar vastgestelde bijdragen.
 
-#### Artikel XXVI. Registratie
+##### Artikel XXVI. Registratie
 
 Zodra dit Verdrag in werking is getreden, doet de Franse Regering het registreren bij het Secretariaat van de Verenigde Naties, in overeenstemming met [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-#### Artikel I
+##### Artikel I
 
 Het Agentschap bezit rechtspersoonlijkheid. Het heeft in het bijzonder de bevoegdheid overeenkomsten te sluiten, roerende en onroerende goederen te verwerven en te vervreemden, en in rechte op te treden.
 
-#### Artikel II
+##### Artikel II
 
 Onverminderd de artikelen XXII en XXIII, zijn gebouwen en erven van het Agentschap onschendbaar.
 
-#### Artikel III
+##### Artikel III
 
 De archieven van het Agentschap zijn onschendbaar.
 
-#### Artikel IV
+##### Artikel IV
 
 1. Het Agentschap geniet immuniteit van jurisdictie en executie behalve:
 
@@ -388,17 +410,17 @@ De archieven van het Agentschap zijn onschendbaar.
 
 2. De eigendommen en het vermogen van het Agentschap, ongeacht waar deze zich bevinden, genieten immuniteit van elke vorm van vordering, inbeslagneming, onteigening en beslaglegging. Zij genieten eveneens immuniteit van elke vorm van administratieve dwang of voorlopige gerechtelijke maatregelen, behalve voor zover deze tijdelijk geboden zouden zijn in verband met het voorkomen van ongevallen waarbij aan het Agentschap toebehorende of te zijnen behoeve gebruikte motorvoertuigen zijn betrokken, en het instellen van een onderzoek naar de toedracht van die ongevallen.
 
-#### Artikel V
+##### Artikel V
 
 1. In het kader van zijn officiële werkzaamheden zijn het Agentschap, zijn vermogen en zijn inkomsten, vrijgesteld van directe belastingen.
 
 2. Indien door of ten behoeve van het Agentschap aankopen van aanzienlijke waarde worden verricht of een beroep wordt gedaan op diensten van aanzienlijke waarde, strikt noodzakelijk voor de uitoefening van de officiële werkzaamheden van het Agentschap, en indien in de prijs van zodanige aankopen of diensten belastingen of rechten zijn begrepen, nemen de Lid-Staten zo mogelijk passende maatregelen met het oog op vrijstelling of terugbetaling van zodanige belastingen of rechten.
 
-#### Artikel VI
+##### Artikel VI
 
 Goederen die door of ten behoeve van het Agentschap worden ingevoerd of uitgevoerd en die strikt noodzakelijk zijn voor de uitoefening van zijn officiële werkzaamheden, zijn vrijgesteld van alle in- en uitvoerrechten en belastingen en van alle in- en uitvoerverboden en -beperkingen.
 
-#### Artikel VII
+##### Artikel VII
 
 1. Voor de toepassing van de artikelen V en VI omvatten de officiële werkzaamheden van het Agentschap zijn administratieve werkzaamheden met inbegrip van zijn handelingen in verband met het stelsel van sociale verzekering, en werkzaamheden verricht op het gebied van het ruimte-onderzoek en de ruimtetechnologie en de toepassing hiervan in de ruimte overeenkomstig het doel van het Agentschap zoals bepaald in het Verdrag.
 
@@ -406,35 +428,35 @@ Goederen die door of ten behoeve van het Agentschap worden ingevoerd of uitgevoe
 
 3. Het bepaalde in de artikelen V en VI is niet van toepassing op belastingen en rechten die niet anders zijn dan een vergoeding voor diensten van openbaar nut.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Geen vrijstelling wordt verleend uit hoofde van de artikelen V en VI ten aanzien van goederen aangekocht of ingevoerd of diensten verricht voor eigen behoefte van de personeelsleden van het Agentschap.
 
-#### Artikel IX
+##### Artikel IX
 
 1. Goederen verworven ingevolge artikel V of ingevoerd ingevolge artikel VI mogen niet worden verkocht of afgestaan dan op voorwaarden vastgesteld door de Lid-Staten die de vrijstellingen hebben verleend.
 
 2. De overdracht van goederen en het verlenen van diensten tussen de Zetel en de vestigingen van het Agentschap, tussen de verschillende vestigingen onderling of, met het doel een programma van het Agentschap uit te voeren, tussen de vestigingen en een nationale instelling van een Lid-Staat, zijn vrij van heffingen of beperkingen van welke aard dan ook; indien nodig nemen de Lid-Staten alle passende maatregelen met het oog op vrijstelling of terugbetaling van dergelijke heffingen of met het oog op opheffing van dergelijke beperkingen.
 
-#### Artikel X
+##### Artikel X
 
 De verspreiding van geschriften en ander voorlichtingsmateriaal dat door of aan het Agentschap wordt verzonden, wordt op geen enkele wijze beperkt.
 
-#### Artikel XI
+##### Artikel XI
 
 Het Agentschap kan alle soorten fondsen, valuta’s, kasgeld of waardepapieren ontvangen en onder zich houden; het kan daarover vrijelijk beschikken voor elk in het Verdrag genoemd doel en het kan rekeningen aanhouden in elke valuta, voor zover dat nodig is voor het nakomen van zijn verplichtingen.
 
-#### Artikel XII
+##### Artikel XII
 
 1. Met betrekking tot zijn officiële berichtgeving en het overbrengen van al zijn documenten geniet het Agentschap een behandeling die niet minder gunstig is dan die welke elke Lid-Staat andere internationale organisaties doet genieten.
 
 2. Er wordt geen censuur uitgeoefend op de officiële berichtgeving van het Agentschap, ongeacht de middelen waarmede bedoelde berichtgeving geschiedt.
 
-#### Artikel XIII
+##### Artikel XIII
 
 De Lid-Staten nemen alle gepaste maatregelen om binnenkomst, of verblijf in, dan wel vertrek uit, hun grondgebied van personeelsleden van het Agentschap te vergemakkelijken.
 
-#### Artikel XIV
+##### Artikel XIV
 
 1. De vertegenwoordigers van de Lid-Staten genieten bij de uitoefening van hun functie alsmede op hun reizen naar de plaats van samenkomst en terug de volgende voorrechten en immuniteiten:
 
@@ -454,11 +476,11 @@ De Lid-Staten nemen alle gepaste maatregelen om binnenkomst, of verblijf in, dan
 
 2. Voorrechten en immuniteiten worden aan vertegenwoordigers van Lid-Staten verleend niet ten behoeve van hun persoonlijk voordeel doch ten einde in volledige onafhankelijkheid hun functie bij het Agentschap te kunnen uitoefenen. Een Lid-Staat is derhalve verplicht de immuniteit van een vertegenwoordiger op te heffen waar handhaving ervan de loop van het recht zou belemmeren en er afstand van kan worden gedaan zonder de doeleinden waarvoor zij was toegekend te schaden.
 
-#### Artikel XV
+##### Artikel XV
 
 Behalve de voorrechten en immuniteiten genoemd in artikel XVI geniet de Directeur-Generaal van het Agentschap en, wanneer zich een vacature voordoet, de persoon die is benoemd om deze functie waar te nemen, dezelfde voorrechten en immuniteiten als die waarop diplomatieke ambtenaren van vergelijkbare rang aanspraak kunnen maken.
 
-#### Artikel XVI
+##### Artikel XVI
 
 De personeelsleden van het Agentschap:
 
@@ -476,7 +498,7 @@ De personeelsleden van het Agentschap:
 
 - (g). hebben het recht, wanneer zij zich voor de eerste maal in de betrokken Lid-Staat vestigen, hun meubelen en persoonlijke bezittingen vrij van rechten in te voeren en hebben bij beëindiging van hun functie in die Lid-Staat, het recht hun meubelen en persoonlijke bezittingen vrij van rechten uit te voeren, in beide gevallen met inachtneming van de voorwaarden die de Lid-Staat, in wiens grondgebied dit recht wordt uitgeoefend, noodzakelijk acht.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Deskundigen die niet behoren tot de in artikel XVI bedoelde personeelsleden, genieten tijdens het uitoefenen van hun functie bij het Agentschap of tijdens het uitvoeren van opdrachten voor het Agentschap alsook tijdens reizen die zij in verband daarmee maken, de volgende voorrechten en immuniteiten, voor zover deze noodzakelijk zijn voor de uitoefening van hun functie:
 
@@ -486,47 +508,47 @@ Deskundigen die niet behoren tot de in artikel XVI bedoelde personeelsleden, gen
 
 - (c). dezelfde faciliteiten met betrekking tot valuta- en deviezenbepalingen, alsmede ten aanzien van hun persoonlijke bagage, als die welke worden toegekend aan ambtenaren van buitenlandse regeringen die met een tijdelijke officiële opdracht zijn belast.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 1. Met inachtneming van de voorwaarden en volgens de procedures zoals die door de Raad zijn vastgesteld, zijn de Directeur-Generaal en de personeelsleden van het Agentschap onderworpen aan een belasting ten gunste van het Agentschap op door het Agentschap betaalde salarissen en emolumenten. Deze salarissen en emolumenten zijn vrij van nationale inkomstenbelasting; de Lid-Staten behouden zich evenwel het recht voor rekening te houden met deze salarissen en emolumenten bij de berekening van de belasting die geheven wordt op inkomsten uit andere bronnen.
 
 2. De bepalingen van het eerste lid zijn niet van toepassing op door het Agentschap aan zijn vroegere Directeuren-Generaal en personeelsleden betaalde jaargelden en pensioenen.
 
-#### Artikel XIX
+##### Artikel XIX
 
 De artikelen XVI en XVIII zijn van toepassing op alle categorieën van personeelsleden waarop het Personeelsstatuut van het Agentschap van toepassing is. De Raad bepaalt de categorieën van deskundigen op wie artikel XVII van toepassing is. De namen, hoedanigheden en adressen van de personeelsleden en deskundigen bedoeld in dit artikel worden op gezette tijden aan de Lid-Staten medegedeeld.
 
-#### Artikel XX
+##### Artikel XX
 
 Ingeval het Agentschap een eigen stelsel van sociale verzekering instelt, zijn de Directeur-Generaal en de personeelsleden vrijgesteld van alle verplichte bijdragen aan de nationale sociale verzekeringsorganen, met inachtneming van de overeenkomsten overeenkomstig artikel XXVIII met de Lid-Staten gesloten.
 
-#### Artikel XXI
+##### Artikel XXI
 
 1. De voorrechten en immuniteiten bepaald in deze Bijlage worden de Directeur-Generaal, de personeelsleden en deskundigen van het Agentschap niet verleend tot hun persoonlijk voordeel. Zij beogen uitsluitend om, in alle omstandigheden, het onbelemmerd functioneren van het Agentschap, alsook de volledige onafhankelijkheid van de personen aan wie zij worden verleend, te waarborgen.
 
 2. De Directeur-Generaal is verplicht iedere immuniteit op te heffen in alle gevallen waarin handhaving ervan de loop van het recht zou belemmeren, en wanneer er afstand van kan worden gedaan zonder de belangen van het Agentschap te schaden. Ten aanzien van de Directeur-Generaal is de Raad bevoegd deze immuniteit op te heffen.
 
-#### Artikel XXII
+##### Artikel XXII
 
 1. Het Agentschap werkt te allen tijde samen met de bevoegde autoriteiten van de Lid-Staten ten einde een goede rechtsbedeling te vergemakkelijken, de naleving van politievoorschriften en van voorschriften met betrekking tot de behandeling van explosieven en ontvlambare materialen, de volksgezondheid, de arbeidsinspectie of andere soortgelijke nationale wetgeving te verzekeren, alsmede ieder misbruik van de in deze Bijlage bedoelde voorrechten, immuniteiten en faciliteiten te voorkomen.
 
 2. De wijze waarop de in het eerste lid genoemde samenwerking zal plaats vinden kan worden vastgelegd in de in artikel XXVIII bedoelde aanvullende overeenkomsten.
 
-#### Artikel XXIII
+##### Artikel XXIII
 
 Iedere Lid-Staat behoudt zich het recht voor alle voorzorgen te treffen die nodig zijn in het belang van zijn veiligheid.
 
-#### Artikel XXIV
+##### Artikel XXIV
 
 Geen enkele Lid-Staat is verplicht de in de artikelen XIV, XV, XVI, letters b, e en g, en XVII, letter c, bedoelde voorrechten en immuniteiten toe te kennen aan zijn eigen onderdanen of aan personen die op het tijdstip waarop zij hun werkzaamheden in die Lid-Staat aanvangen er ingezetene van zijn.
 
-#### Artikel XXV
+##### Artikel XXV
 
 1. Bij het sluiten van alle schriftelijke contracten, niet zijnde contracten gesloten overeenkomstig het Personeelsstatuut, moet het Agentschap voorzien in arbitrage. De arbitrageclausule of de voor dit doel gesloten bijzondere arbitrage-overeenkomst bepaalt de van toepassing zijnde wet, alsmede het land waar de scheidsmannen zitting hebben. De arbitrageprocedure is die van dat land.
 
 2. De tenuitvoerlegging van de scheidsrechterlijke uitspraak wordt beheerst door de regels die van kracht zijn in de Staat op wiens grondgebied de uitspraak ten uitvoer wordt gelegd.
 
-#### Artikel XXVI
+##### Artikel XXVI
 
 Iedere Lid-Staat kan aan het internationale Scheidsgerecht bedoeld in artikel XVII van het Verdrag elk geschil voorleggen:
 
@@ -536,15 +558,15 @@ Iedere Lid-Staat kan aan het internationale Scheidsgerecht bedoeld in artikel XV
 
 - (c). waarbij de Directeur-Generaal, een personeelslid of een deskundige van het Agentschap is betrokken en met betrekking waartoe de desbetreffende persoon zich overeenkomstig de artikelen XV, XVI, letter a, of XVII, letter a, op immuniteit van jurisdictie kan beroepen, indien deze immuniteit niet overeenkomstig artikel XXI is opgeheven. In geschillen waarbij aanspraak op immuniteit van jurisdictie wordt gemaakt overeenkomstig de artikelen XVI, letter a, of XVII, letter a, wordt de aansprakelijkheid van het Agentschap, voor deze arbitrage, in de plaats gesteld van die van de personen bedoeld in de genoemde artikelen.
 
-#### Artikel XXVII
+##### Artikel XXVII
 
 Het Agentschap treft passende voorzieningen voor een bevredigende regeling van geschillen die ontstaan tussen het Agentschap en de Directeur-Generaal, de personeelsleden of de deskundigen met betrekking tot hun arbeidsvoorwaarden.
 
-#### Artikel XXVIII
+##### Artikel XXVIII
 
 Het Agentschap kan, bij besluit van de Raad, met een of meer Lid-Staten aanvullende akkoorden sluiten ten einde uitvoering te geven aan de bepalingen van deze Bijlage met betrekking tot die Staat of die Staten, alsmede andere overeenkomsten sluiten ten einde een goede functionering van het Agentschap te waarborgen en zijn belangen veilig te stellen.
 
-#### Artikel I
+##### Artikel I
 
 1. Het begrotingsjaar van het Agentschap loopt van 1 januari tot en met de eerstvolgende 31 december.
 
@@ -586,19 +608,19 @@ Het Agentschap kan, bij besluit van de Raad, met een of meer Lid-Staten aanvulle
 
 6. De algemene begroting en de programmabegrotingen worden voorbereid en uitgevoerd overeenkomstig het Financieel Reglement.
 
-#### Artikel II
+##### Artikel II
 
 1. De Raad kan de Directeur-Generaal verzoeken hem een herziene begroting voor te leggen, indien de omstandigheden dit nodig maken.
 
 2. Een besluit dat extra uitgaven met zich brengt, wordt eerst dan door de Raad geacht te zijn goedgekeurd, nadat deze een door de Directeur-Generaal ingediende raming van de desbetreffende extra uitgaven heeft goedgekeurd.
 
-#### Artikel III
+##### Artikel III
 
 1. Indien hierom door de Raad wordt verzocht, neemt de Directeur-Generaal in de algemene begroting of in de desbetreffende programmabegroting de voor volgende jaren geraamde uitgaven op.
 
 2. Bij het aannemen van de jaarlijkse begrotingen van het Agentschap onderzoekt de Raad opnieuw de omvang der middelen en verricht de nodige aanpassingen met inachtneming van veranderingen in het prijspeil en voor onvoorziene wijzigingen gedurende de uitvoering van de programma’s.
 
-#### Artikel IV
+##### Artikel IV
 
 1. De goedgekeurde uitgaven voor de werkzaamheden bedoeld in artikel V van het Verdrag worden bestreden uit bijdragen, vastgesteld overeenkomstig artikel XIII van het Verdrag.
 
@@ -608,13 +630,13 @@ Het Agentschap kan, bij besluit van de Raad, met een of meer Lid-Staten aanvulle
 
 - (b). De Directeur-Generaal stelt de Lid-Staten in kennis van de hoogte van hun bijdrage en van de data waarop de betalingen dienen plaats te vinden.
 
-#### Artikel V
+##### Artikel V
 
 1. De begrotingen van het Agentschap worden uitgedrukt in ECU zoals onlangs door de bevoegde instanties van de Europese Unie vastgelegd en vervolgens in de Europese betaaleenheid die de ECU zal vervangen zodra ze door deze instanties van kracht is verklaard.
 
 2. Elke Lid-Staat zal eventuele bijdragen betalen in ECU en daarna in de vervangende valuta waarnaar wordt verwezen in bovenstaande § 1.
 
-#### Artikel VI
+##### Artikel VI
 
 1. De Directeur-Generaal houdt een nauwkeurige boekhouding bij van alle inkomsten en uitgaven. Aan het einde van elk begrotingsjaar stelt de Directeur-Generaal in overeenstemming met het Financieel Reglement afzonderlijke jaarrekeningen op voor elk programma, bedoeld in artikel V van het Verdrag.
 
@@ -626,7 +648,7 @@ Het Agentschap kan, bij besluit van de Raad, met een of meer Lid-Staten aanvulle
 
 5. De Directeur-Generaal verschaft de accountants al die gegevens en hulp die zij bij de uitoefening van hun taak nodig hebben.
 
-#### Artikel I
+##### Artikel I
 
 1. Wanneer een voorstel tot uitvoering van een niet-verplicht programma bedoeld in artikel V, eerste lid, letter b, van het Verdrag wordt ingediend, deelt de Voorzitter van de Raad het aan alle Lid-Staten ter bestudering mede.
 
@@ -644,13 +666,13 @@ Het Agentschap kan, bij besluit van de Raad, met een of meer Lid-Staten aanvulle
 
 4. Indien een deelnemende Staat de bepalingen van de Verklaring en van de uitvoeringsregels niet binnen de in de Verklaring vastgestelde termijn kan aanvaarden, houdt hij op deelnemende Staat te zijn. Andere Lid-Staten kunnen later deelnemende Staten worden, wanneer zij deze bepalingen aanvaarden op met de deelnemende Staten vast te stellen voorwaarden.
 
-#### Artikel II
+##### Artikel II
 
 1. Het programma wordt uitgevoerd overeenkomstig de bepalingen van het Verdrag en, tenzij anders bepaald in deze Bijlage of in de uitvoeringsregels, overeenkomstig de in het Agentschap van kracht zijnde regels en procedures. Besluiten van de Raad worden genomen overeenkomstig deze Bijlage en de uitvoeringsregels. Bij gebrek aan uitdrukkelijke bepalingen in deze Bijlage of in de uitvoeringsregels is de stemprocedure, vastgelegd in het Verdrag of het reglement van orde van de Raad, van toepassing.
 
 2. Besluiten betreffende de aanvang van een nieuwe Fase worden genomen met een twee derde meerderheid van alle deelnemende Staten, mits deze meerderheid ten minste twee derde van de bijdragen voor het programma vertegenwoordigt. Kan een besluit betreffende de aanvang van een nieuwe Fase niet worden genomen, dan plegen de deelnemende Staten die het programma niettemin wensen voort te zetten, onderling overleg en zij treffen regelingen voor de voortzetting ervan. Zij brengen hierover verslag uit aan de Raad, die eventueel alle nodige maatregelen neemt.
 
-#### Artikel III
+##### Artikel III
 
 1. Indien het programma een fase van projectdefinitie omvat, maken de deelnemende Staten tegen het einde van de fase een nieuwe schatting van de kosten van het programma. Indien deze nieuwe schatting aantoont dat de kosten die van het in artikel I bedoelde indicatieve financiële raam met meer dan 20% overschrijden, kan iedere deelnemende Staat zich uit het programma terugtrekken. De deelnemende Staten die het programma niettemin wensen voort te zetten, plegen onderling overleg en treffen regelingen voor de voortzetting ervan. Zij brengen hierover verslag uit aan de Raad, die eventueel alle nodige maatregelen neemt.
 
@@ -664,11 +686,11 @@ Het Agentschap kan, bij besluit van de Raad, met een of meer Lid-Staten aanvulle
 
 - (b). indien de cumulatieve overschrijding van de kosten meer beloopt dan 20% van de bedragen van het desbetreffende financiële raam, kan elke deelnemende Staat zich uit het programma terugtrekken. De Staten die het programma niettemin wensen voort te zetten, plegen onderling overleg, treffen regelingen voor de voortzetting ervan en brengen hierover verslag uit aan de Raad, die eventueel alle nodige maatregelen neemt.
 
-#### Artikel IV
+##### Artikel IV
 
 Het Agentschap, optredend ten behoeve van de deelnemende Staten, is eigenaar van de satellieten, ruimtesystemen en andere zaken vervaardigd in het kader van het programma alsmede van de voor de uitvoering van het programma verworven installaties en uitrusting. De Raad beslist ten aanzien van iedere overdracht van eigendom.
 
-#### Artikel V
+##### Artikel V
 
 1. Opzegging van het Verdrag door een Lid-Staat brengt de terugtrekking van deze Lid-Staat mede uit alle programma’s waaraan hij deelneemt. Artikel XXIV van het Verdrag is van toepassing op de rechten en verplichtingen die uit deze programma’s voortvloeien.
 
@@ -676,13 +698,13 @@ Het Agentschap, optredend ten behoeve van de deelnemende Staten, is eigenaar van
 
 3. Een deelnemende Staat die besluit een programma niet voort te zetten overeenkomstig artikel II, tweede lid, of die zich uit een programma terugtrekt overeenkomstig artikel III, eerste lid, en vierde lid, letter b, behoudt de rechten welke door de deelnemende Staten tot op de datum waarop zijn terugtrekking van kracht wordt, zijn verworven. Na die datum vloeien voor hem geen verdere rechten of verplichtingen voort uit het gedeelte van het programma, waaraan hij niet langer deelneemt. Hij blijft gehouden zijn aandeel bij te dragen in de betalingskredieten overeenkomend met de vastleggingskredieten goedgekeurd in de begroting voor het lopende of een voorgaand begrotingsjaar en die betrekking hebben op een in uitvoering zijnde Fase van het programma. De deelnemende Staten kunnen in de Verklaring echter eenparig overeenkomen dat een Staat die besluit een programma niet voort te zetten, of die zich daaruit terugtrekt, gehouden blijft zijn totale aandeel in het oorspronkelijke financiële raam of de deelbedragen van het programma bij te dragen.
 
-#### Artikel VI
+##### Artikel VI
 
 1. De deelnemende Staten kunnen met een twee derde meerderheid van alle deelnemende Staten die ten minste twee derde van de bijdragen voor het programma vertegenwoordigen, besluiten de uitvoering van een programma stop te zetten.
 
 2. Het Agentschap doet de deelnemende Staten mededeling van de voltooiing van een programma overeenkomstig de uitvoeringsregels; na ontvangst van een zodanige mededeling houden deze uitvoeringsregels op van kracht te zijn.
 
-#### Artikel I
+##### Artikel I
 
 De voornaamste doelstelling van de internationalisatie van nationale programma’s is, dat elke Lid-Staat aan de andere Lid-Staten de mogelijkheid biedt in het kader van het Agentschap deel te nemen aan ieder nieuw civiel ruimteproject dat hij, hetzij alleen, hetzij in samenwerking met een andere Lid-Staat beoogt uit te voeren.
 
@@ -698,7 +720,7 @@ Te dien einde:
 
 - (e). wordt de uitvoering van een project in het kader van het Agentschap niet uitgesloten op grond van het enkele feit dat dit project niet in die mate tot deelname van andere Lid-Staten heeft geleid als oorspronkelijk voorgesteld door de Lid-Staat die het initiatief tot het project neemt.
 
-#### Artikel II
+##### Artikel II
 
 De Lid-Staten doen alles wat in hun vermogen ligt om te verzekeren, dat de bilaterale en multilaterale ruimteprojecten die zij in samenwerking met niet-Lid-Staten ondernemen, de wetenschappelijke, economische of industriële doelstellingen van het Agentschap niet nadelig beïnvloeden. In het bijzonder:
 
@@ -706,7 +728,7 @@ De Lid-Staten doen alles wat in hun vermogen ligt om te verzekeren, dat de bilat
 
 - (b). bespreken zij met de andere Lid-Staten zodanige ter kennis gebrachte projecten, ten einde het kader voor ruimere deelname vast te stellen. Indien ruimere deelname mogelijk blijkt, zijn de procedures genoemd in artikel I, letter b tot en met e, van toepassing.
 
-#### Artikel I
+##### Artikel I
 
 1. Bij de uitvoering van het in artikel VII van het Verdrag bedoelde industriële beleid, handelt de Directeur-Generaal in overeenstemming met de bepalingen van deze Bijlage en de richtlijnen van de Raad.
 
@@ -726,7 +748,7 @@ De Lid-Staten doen alles wat in hun vermogen ligt om te verzekeren, dat de bilat
 
 ten einde in staat te zijn het industriële beleid van het Agentschap te volgen en zo nodig aan te passen.
 
-#### Artikel II
+##### Artikel II
 
 1. Bij het plaatsen van alle opdrachten, geeft het Agentschap de voorkeur aan de industrie en de organisatie van de Lid-Staten. Echter wordt binnen elk niet-verplicht programma, vallende onder artikel V, eerste lid, letter b, van het Verdrag, bijzondere voorkeur gegeven aan de industrie en de organisaties van de deelnemende Staten.
 
@@ -734,7 +756,7 @@ ten einde in staat te zijn het industriële beleid van het Agentschap te volgen 
 
 3. De vraag of een onderneming moet worden beschouwd als behorend tot een der Lid-Staten, wordt beoordeeld naar de volgende criteria: plaats van de zetel der onderneming, van haar centra waar de beslissingen worden genomen en van haar onderzoekcentra, en het grondgebied waar de werkzaamheden zullen worden verricht. In geval van twijfel beslist de Raad of een onderneming moet worden geacht al of niet tot een Lid-Staat te behoren.
 
-#### Artikel III
+##### Artikel III
 
 1. In het beginstadium van de procedure die leidt tot het toewijzen van de opdracht en nog voor het verzenden van de uitnodigingen tot inschrijving, legt de Directeur-Generaal aan de Raad ter goedkeuring het aanschaffingsbeleid voor, dat hij voorstelt te volgen voor iedere opdracht die
 
@@ -752,7 +774,7 @@ ten einde in staat te zijn het industriële beleid van het Agentschap te volgen 
 
 4. De Directeur-Generaal brengt op nog nader vast te stellen regelmatige tijdstippen aan de Raad verslag uit over de gedurende de voorafgaande periode toegewezen opdrachten en omtrent de procedures leidend tot de toewijzing van opdrachten die voor de komende periode zijn voorzien, ten einde de Raad in staat te stellen de tenuitvoerlegging van het industriële beleid van het Agentschap te volgen.
 
-#### Artikel IV
+##### Artikel IV
 
 De geografische spreiding van alle opdrachten van het Agentschap wordt beheerst door de volgende algemene regels:
 
@@ -774,13 +796,13 @@ De geografische spreiding van alle opdrachten van het Agentschap wordt beheerst 
 
 - 7. Aparte beoordelingen van de rendementscoëfficiënten voor de verschillende door de Raad te definiëren opdrachtcategorieën zullen worden gemaakt en aan de Raad voorgelegd worden, het gaat hierbij in het bijzonder om geavanceerde R&D opdrachten en contracten die projectgebonden technologie betreffen. De Directeur-Generaal zal deze beoordelingen met de Raad bespreken, op nader vast te stellen regelmatige tijdstippen, en in het bijzonder op het moment van het tussenonderzoek, met het doel de benodigde stappen vast te stellen om eventuele onevenwichtige situaties te herstellen.
 
-#### Artikel V
+##### Artikel V
 
 1. Wanneer tijdens een van de tussenonderzoeken een tendens wordt gesignaleerd die er op wijst dat de totale rendementscoëfficiënt van een van de Lidstaten onder de onderste grens, zoals vastgelegd volgens § 6 van Artikel IV, zal geraken, zal de Directeur-Generaal aan de Raad voorstellen doen die erop gericht zijn de situatie binnen een kalenderjaar recht te trekken. Deze voorstellen dienen binnen de regelingen van het Agentschap voor het plaatsen van opdrachten te blijven. Wanneer na deze periode de tendens nog steeds bestaat zal de Directeur-Generaal voorstellen aan de Raad doen waarbij de noodzaak de situatie binnen het jaar recht te trekken voorrang zal hebben boven de regelingen van het Agentschap voor het plaatsen van opdrachten.
 
 2. Wanneer tijdens een van de formele onderzoeken de totale rendementscoëfficiënt van een van de Lidstaten zich onder de onderste grens, zoals vastgelegd volgens § 6 van Artikel IV, blijkt te bevinden, zal de Directeur-Generaal voorstellen doen aan de Raad waarbij de noodzaak de situatie binnen het jaar recht te trekken voorrang zal hebben boven de regelingen van het Agentschap voor het plaatsen van opdrachten.
 
-#### Artikel VI
+##### Artikel VI
 
 Elk besluit dat op grond van overwegingen van industrieel beleid wordt genomen en dat tot gevolg heeft dat een bepaalde onderneming of organisatie van een Lid-Staat wordt uitgesloten van mededinging bij het verkrijgen van opdrachten van het Agentschap op een bepaald gebied behoeft de instemming van die Lid-Staat.
 

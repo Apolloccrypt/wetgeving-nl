@@ -1,13 +1,39 @@
 ---
-title: "Besluit register schuldsaneringsregeling"
+title: "Besluit van 15 juli 1998, houdende nadere regels omtrent vorm en inhoud van het register in de schuldsaneringsregeling natuurlijke personen (Besluit register schuldsaneringsregeling)"
 identifier: "BWBR0009787"
-categorie: "Bestuursrecht"
-publicatiedatum: 2017-09-01
-laatste_update: 2017-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009787"
+country: "nl"
+rank: "amvb"
+publication_date: "2017-09-01"
+last_updated: "2017-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009787"
+soort: "AMvB"
+stam_id: "914613"
+version_id: "1338792"
+internal_id: "C1338791"
+label_id: "887074"
+dtd_version: "2.0"
+original_entry_into_force: "1998-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009787/2017-09-01/0"
+intitule_bron: "Stb.1998-478"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-07-15"
+intitule_published: "1998-08-06"
+intitule_in_force: "1998-11-17"
+intitule_status: "goed"
+original_publication: "Stb.1998-478"
+original_signed_date: "1998-07-15"
+original_published_date: "1998-08-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-1998-478"
+entry_into_force_date: "1998-12-01"
+jci_1_3: "jci1.3:c:BWBR0009787&z=2017-09-01&g=2017-09-01"
+jci_1_0: "1.0:c:BWBR0009787&g=2017-09-01"
+citeertitel_status: "officieel"
+short_title: "Besluit register schuldsaneringsregeling"
+signed_date: "1998-07-15"
+entry_into_force: "1998-12-01"
 ---
-
 # Besluit van 15 juli 1998, houdende nadere regels omtrent vorm en inhoud van het register in de schuldsaneringsregeling natuurlijke personen (Besluit register schuldsaneringsregeling)
 
 Op voordracht van Onze Minister van Justitie van 14 december 1998, nr. 530132/95/6;
@@ -22,15 +48,15 @@ Hebben goedgevonden en verstaan:
 
 Treedt in werking als de Invoeringswet schuldsaneringsregeling natuurlijke personen in werking treedt.
 
-#### Artikel 1
+##### Artikel 1
 
 Het register, bedoeld in [artikel 294, eerste lid, van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=294) wordt ingericht volgens het bij dit besluit behorende model.
 
-#### Artikel 2
+##### Artikel 2
 
 Indien het op 23 juni 1998 door de Eerste Kamer aanvaarde voorstel van wet, houdende inwerkingtreding van en aanpassing van wetgeving aan de wijziging van de Faillissementswet in verband met de sanering van schulden van natuurlijke personen (Invoeringswet schuldsaneringsregeling natuurlijke personen) (Kamerstukken II 1993/94, 23 429) tot wet wordt verheven en in werking treedt, treedt dit besluit op hetzelfde tijdstip in werking.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit wordt aangehaald als: Besluit register schuldsaneringsregeling.
 

@@ -1,13 +1,38 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Slowaakse Republiek inzake de export van sociale zekerheidsuitkeringen"
 identifier: "BWBV0001484"
-categorie: "Sociaal recht"
-publicatiedatum: 2002-05-01
-laatste_update: 2002-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001484"
+country: "nl"
+rank: "verdrag"
+publication_date: "2002-05-01"
+last_updated: "2002-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001484"
+soort: "verdrag"
+stam_id: "10001394693"
+version_id: "10001463422"
+internal_id: "C10006992051"
+label_id: "10001394894"
+dtd_version: "2.0"
+original_entry_into_force: "2002-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001484/2002-05-01/0"
+intitule_bron: "Trb.2001-113"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-07-01"
+intitule_published: "2001-06-22"
+intitule_in_force: "2002-04-26"
+intitule_status: "goed"
+original_publication: "Trb.2001-113"
+original_signed_date: "2001-07-01"
+original_published_date: "2001-06-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2001-113"
+entry_into_force_date: "2002-05-01"
+jci_1_3: "jci1.3:c:BWBV0001484&z=2002-05-01&g=2002-05-01"
+jci_1_0: "1.0:c:BWBV0001484&g=2002-05-01"
+citeertitel_status: "redactioneel"
+signed_date: "2001-07-01"
+entry_into_force: "2002-05-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Slowaakse Republiek inzake de export van sociale zekerheidsuitkeringen
 
 Het Koninkrijk der Nederlanden
@@ -24,7 +49,7 @@ Geleid door de wens de samenwerking tussen de twee Staten te regelen ter waarbor
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 1. Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -50,7 +75,7 @@ Zijn het volgende overeengekomen:
 
 2. Andere in dit Verdrag gebruikte termen hebben de betekenis die daaraan in de toegepaste wetgeving wordt gegeven.
 
-#### Artikel 2. Materiële werkingssfeer
+##### Artikel 2. Materiële werkingssfeer
 
 Dit Verdrag is van toepassing:
 
@@ -90,19 +115,19 @@ Dit Verdrag is van toepassing:
 
 - j. wezenpensioen.
 
-#### Artikel 3. Personele werkingssfeer
+##### Artikel 3. Personele werkingssfeer
 
 Tenzij in dit Verdrag anders is bepaald, is dit Verdrag zowel van toepassing op uitkeringsgerechtigden als op leden van hun gezin voorzover zij wonen of verblijven op het grondgebied van de Verdragsluitende Partijen.
 
-#### Artikel 4. Export van uitkeringen
+##### Artikel 4. Export van uitkeringen
 
 Tenzij in dit Verdrag anders is bepaald, is wetgeving die het recht op of de betaling van een uitkering beperkt uitsluitend omdat een uitkeringsgerechtigde of een lid van zijn gezin woont of verblijft buiten het grondgebied van een van de Verdragsluitende Partijen, niet van toepassing ten aanzien van uitkeringsgerechtigden of leden van hun gezin die wonen of verblijven op het grondgebied van de andere Verdragsluitende Partij.
 
-#### Artikel 5. Identificatie
+##### Artikel 5. Identificatie
 
 Om het recht op uitkeringen en de rechtmatigheid van betalingen ingevolge de Slowaakse of Nederlandse wetgeving vast te stellen, is een uitkeringsgerechtigde of een lid van zijn gezin verplicht zich tegenover het bevoegde orgaan op het grondgebied waarvan deze persoon woont of verblijft te identificeren door overlegging van een officieel bewijs van zijn of haar identiteit. Een officieel identiteitsbewijs omvat een paspoort of enig ander geldig identiteitsbewijs dat is afgegeven door de instantie op het grondgebied waarvan die persoon woont of verblijft. Het bevoegde orgaan identificeert de uitkeringsgerechtigde of het lid van zijn gezin aan de hand van dit identiteitsbewijs. Het betrokken bevoegde orgaan stelt het bevoegde orgaan van de andere Verdragsluitende Partij ervan in kennis dat de identiteit van de uitkeringsgerechtigde of van het lid van zijn gezin, is geverifieerd, door toezending van een afschrift van het identiteitsbewijs.
 
-#### Artikel 6. Verificatie van aanvragen en betalingen
+##### Artikel 6. Verificatie van aanvragen en betalingen
 
 1. Voor de toepassing van dit artikel omvat „informatie" ten minste informatie over identiteit, adres, gezinssituatie, werk, het volgen van scholing, inkomen, gezondheidstoestand, overlijden en hechtenis.
 
@@ -116,7 +141,7 @@ Om het recht op uitkeringen en de rechtmatigheid van betalingen ingevolge de Slo
 
 6. Voor de uitvoering van dit Verdrag verlenen de instanties hun goede diensten en handelen zij als betrof het de uitvoering van hun eigen wetgeving. De administratieve bijstand die door de instanties wordt verleend, is kosteloos. De bevoegde autoriteiten van de Verdragsluitende Partijen kunnen echter overeenkomen dat bepaalde kosten worden vergoed.
 
-#### Artikel 7. Verificatie van informatie in geval van ziekte en invaliditeit
+##### Artikel 7. Verificatie van informatie in geval van ziekte en invaliditeit
 
 1. Op verzoek van het bevoegde orgaan van een Verdragsluitende Partij wordt de medische informatie aangaande een uitkeringsgerechtigde die woont of verblijft op het grondgebied van de andere Verdragsluitende Partij, geverifieerd door het bevoegde orgaan van die Verdragsluitende Partij.
 
@@ -126,11 +151,11 @@ Om het recht op uitkeringen en de rechtmatigheid van betalingen ingevolge de Slo
 
 4. De kosten van het onderzoek ingevolge dit artikel en, naar gelang van het geval, de uitgaven voor reis en verblijf worden gedragen door het bevoegde orgaan op verzoek waarvan het onderzoek wordt uitgevoerd.
 
-#### Artikel 8. Terugvordering van onverschuldigde betalingen
+##### Artikel 8. Terugvordering van onverschuldigde betalingen
 
 Indien een uitkeringsgerechtigde een onverschuldigde betaling heeft ontvangen van een bevoegd orgaan van een Verdragsluitende Partij en hij een uitkering ontvangt van het bevoegde orgaan van de andere Verdragsluitende Partij, kan het eerstbedoelde bevoegde orgaan verzoeken de onverschuldigde betaling in mindering te brengen op de achterstallige of nog verschuldigde bedragen aan de uitkeringsgerechtigde in de laatstbedoelde Verdragsluitende Partij. Het laatstbedoelde bevoegde orgaan houdt het bedrag in overeenstemming met, en binnen de grenzen van, de door dat bevoegde orgaan toegepaste wetgeving in en maakt het bedrag over aan het bevoegde orgaan dat de vordering heeft.
 
-#### Artikel 9. Weigering te betalen, opschorting, intrekking
+##### Artikel 9. Weigering te betalen, opschorting, intrekking
 
 Het bevoegde orgaan van een Verdragsluitende Partij kan weigeren een uitkering toe te kennen of de betaling ervan opschorten of intrekken indien naar zijn oordeel:
 
@@ -138,23 +163,23 @@ Het bevoegde orgaan van een Verdragsluitende Partij kan weigeren een uitkering t
 
 - b. indien het bevoegde orgaan van de andere Verdragsluitende Partij verzuimt binnen een periode van drie maanden de informatie over te leggen of onderzoeken te verrichten zoals vereist ingevolge artikel 5, artikel 6, tweede lid, en artikel 7, eerste lid, van dit Verdrag.
 
-#### Artikel 10. Uitvoering van het Verdrag
+##### Artikel 10. Uitvoering van het Verdrag
 
 De bevoegde organen van beide Verdragsluitende Partijen kunnen door middel van aanvullende regelingen maatregelen vaststellen voor de uitvoering van dit Verdrag.
 
-#### Artikel 11. Beslechting van geschillen
+##### Artikel 11. Beslechting van geschillen
 
 De bevoegde autoriteiten van beide Verdragsluitende Partijen verrichten alle redelijke inspanningen om door onderlinge overeenstemming geschillen op te lossen die voortvloeien uit de uitlegging of toepassing van dit Verdrag.
 
-#### Artikel 12. Inwerkingtreding van het Verdrag
+##### Artikel 12. Inwerkingtreding van het Verdrag
 
 Dit Verdrag dient te worden bekrachtigd. De akten van bekrachtiging worden in 's-Gravenhage uitgewisseld. Dit Verdrag treedt in werking op de eerste dag van de maand volgend op de datum van de uitwisseling van de akten van bekrachtiging, met dien verstande dat artikel 4 voorlopig wordt toegepast vanaf de eerste dag van de maand volgend op de datum van ondertekening.
 
-#### Artikel 13. Toepassing van het Verdrag
+##### Artikel 13. Toepassing van het Verdrag
 
 Wat het Koninkrijk der Nederlanden betreft, is dit Verdrag slechts van toepassing op het grondgebied van het Koninkrijk in Europa.
 
-#### Artikel 14. Duur van het Verdrag
+##### Artikel 14. Duur van het Verdrag
 
 Dit Verdrag wordt gesloten voor onbepaalde tijd. Het Verdrag kan te allen tijde door elk van beide Verdragsluitende Partijen schriftelijk worden opgezegd. Na de beëindiging is het Verdrag geldig tot het einde van het jaar volgend op het jaar waarin de kennisgeving tot beëindiging door een Verdragsluitende Partij is ontvangen.
 

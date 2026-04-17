@@ -1,13 +1,38 @@
 ---
 title: "Inkomstenbelasting, loonbelasting, omzetbelasting, schenk- en erfbelasting, belastingen van rechtsverkeer, instelling en taakopdracht Coördinatiegroep Constructiebestrijding"
 identifier: "BWBR0028894"
-categorie: "Belastingrecht"
-publicatiedatum: 2010-10-14
-laatste_update: 2010-10-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028894"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2010-10-14"
+last_updated: "2010-10-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028894"
+soort: "beleidsregel"
+stam_id: "11060323"
+version_id: "18070312"
+internal_id: "C25120291"
+label_id: "11034754"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028894/2010-10-14/0"
+intitule_bron: "Stcrt.2010-16710"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-10-14"
+intitule_published: "2010-10-26"
+intitule_in_force: "2010-10-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-16710"
+original_signed_date: "2010-10-14"
+original_published_date: "2010-10-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-16710"
+entry_into_force_date: "2010-10-14"
+jci_1_3: "jci1.3:c:BWBR0028894&z=2010-10-14&g=2010-10-14"
+jci_1_0: "1.0:c:BWBR0028894&g=2010-10-14"
+citeertitel_status: "redactioneel"
+signed_date: "2010-10-14"
+entry_into_force: "2010-10-14"
 ---
-
 # Inkomstenbelasting, loonbelasting, omzetbelasting, schenk- en erfbelasting, belastingen van rechtsverkeer, instelling en taakopdracht Coördinatiegroep Constructiebestrijding
 
 De minister deelt mee dat de instelling en de taakomschrijving van de Coördinatiegroep Constructiebestrijding is geherformuleerd.

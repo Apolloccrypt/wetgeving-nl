@@ -1,13 +1,37 @@
 ---
 title: "Verdrag tot oprichting van het Adviescentrum voor WTO-recht"
 identifier: "BWBV0001451"
-categorie: "Internationaal recht"
-publicatiedatum: 2001-07-15
-laatste_update: 2001-07-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001451"
+country: "nl"
+rank: "verdrag"
+publication_date: "2001-07-15"
+last_updated: "2001-07-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001451"
+soort: "verdrag"
+stam_id: "10000264003"
+version_id: "10000327852"
+internal_id: "C10006991511"
+label_id: "10000264294"
+original_entry_into_force: "2001-07-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001451/2001-07-15/0"
+intitule_bron: "Trb.2000-5"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-09-30"
+intitule_published: "2000-01-31"
+intitule_in_force: "2001-11-12"
+intitule_status: "goed"
+original_publication: "Trb.2000-5"
+original_signed_date: "2000-09-30"
+original_published_date: "2000-01-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2000-5"
+entry_into_force_date: "2001-07-15"
+jci_1_3: "jci1.3:c:BWBV0001451&z=2001-07-15&g=2001-07-15"
+jci_1_0: "1.0:c:BWBV0001451&g=2001-07-15"
+citeertitel_status: "officieel"
+signed_date: "2000-09-30"
+entry_into_force: "2001-07-15"
 ---
-
 # Verdrag tot oprichting van het Adviescentrum voor WTO-recht
 
 De Partijen bij dit Verdrag
@@ -24,11 +48,11 @@ Derhalve vastbesloten een bron te scheppen voor rechtskundig onderricht, deskund
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Oprichting van het Adviescentrum voor WTO-recht
+##### Artikel 1. Oprichting van het Adviescentrum voor WTO-recht
 
 Het Adviescentrum voor WTO-recht (hierna te noemen het „Centrum") wordt hierbij opgericht.
 
-#### Artikel 2. Doelstellingen en taken van het Centrum
+##### Artikel 2. Doelstellingen en taken van het Centrum
 
 1. Doel van het Centrum is het geven van rechtskundig onderricht, bijstand en advies inzake WTO-recht en -procedures voor geschillenbeslechting aan ontwikkelingslanden, in het bijzonder de minstontwikkelde landen, en aan landen met overgangseconomieën.
 
@@ -42,7 +66,7 @@ Het Adviescentrum voor WTO-recht (hierna te noemen het „Centrum") wordt hierbi
 
 - –. verricht het alle andere taken die het door de Algemene Vergadering opgedragen krijgt.
 
-#### Artikel 3. Structuur van het Centrum
+##### Artikel 3. Structuur van het Centrum
 
 1. Het Centrum heeft een Algemene Vergadering, een Bestuur en een Uitvoerend Directeur.
 
@@ -100,7 +124,7 @@ De Algemene Vergadering neemt haar procedureregels aan.
 
 - –. vertegenwoordigt het Centrum naar buiten.
 
-#### Artikel 4. Besluitvorming
+##### Artikel 4. Besluitvorming
 
 1. De Algemene Vergadering besluit bij consensus. Een voorstel waarvan aanneming wordt overwogen tijdens een vergadering van de Algemene Vergadering wordt geacht bij consensus te zijn aangenomen indien er tijdens de vergadering geen formele bezwaren tegen zijn ingebracht door een Lid van het Centrum. Deze bepaling is van overeenkomstige toepassing op besluiten van het Bestuur.
 
@@ -108,7 +132,7 @@ De Algemene Vergadering neemt haar procedureregels aan.
 
 3. In het geval van beslissingen over wijzigingen zijn de procedures weergegeven in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001451&artikel=11&z=2001-07-15&g=2001-07-15), van dit Verdrag van toepassing.
 
-#### Artikel 5. Financiële structuur van het Centrum
+##### Artikel 5. Financiële structuur van het Centrum
 
 1. Een dotatiefonds wordt opgericht van de door Leden in overeenstemming met [Artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001451&artikel=6&z=2001-07-15&g=2001-07-15), van dit Verdrag betaalde bijdragen.
 
@@ -118,7 +142,7 @@ De Algemene Vergadering neemt haar procedureregels aan.
 
 4. Het Centrum heeft een externe accountant.
 
-#### Artikel 6. Rechten en verplichtingen van de Leden
+##### Artikel 6. Rechten en verplichtingen van de Leden
 
 1. Elk ontwikkelingsland dat Lid is en elk Lid met een overgangseconomie vermeld in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0001451&bijlage=II&z=2001-07-15&g=2001-07-15) bij dit Verdrag heeft recht op de diensten van het Centrum in overeenstemming met de voorschriften aangenomen door de Algemene Vergadering en het vergoedingenschema weergegeven in [Bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001451&bijlage=IV&z=2001-07-15&g=2001-07-15). Elk Lid kan verzoeken om bijstand bij WTO-procedures voor geschillenbeslechting in een der drie officiële talen van de WTO.
 
@@ -130,19 +154,19 @@ De Algemene Vergadering neemt haar procedureregels aan.
 
 5. Niets in dit Verdrag wordt zo uitgelegd dat het enige financiële aansprakelijkheid inhoudt voor enig Lid buiten de aansprakelijkheden voortvloeiend uit het tweede of derde lid van dit artikel.
 
-#### Artikel 7. Rechten van de minstontwikkelde landen
+##### Artikel 7. Rechten van de minstontwikkelde landen
 
 Aan de minstontwikkelde landen vermeld in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001451&bijlage=III&z=2001-07-15&g=2001-07-15) worden op hun verzoek de diensten van het Centrum verleend in overeenstemming met de voorschriften aangenomen door de Algemene Vergadering en het in [Bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001451&bijlage=IV&z=2001-07-15&g=2001-07-15) weergegeven vergoedingenschema. Elk van deze landen kan verzoeken om bijstand bij WTO-procedures voor geschillenbeslechting in een der drie officiële talen van de WTO.
 
-#### Artikel 8. Voorrang bij het toewijzen van bijstand bij WTO-procedures voor geschillenbeslechting
+##### Artikel 8. Voorrang bij het toewijzen van bijstand bij WTO-procedures voor geschillenbeslechting
 
 Indien twee landen die recht hebben op bijstand bij WTO-procedures voor geschillenbeslechting betrokken zijn bij dezelfde procedure, wordt bijstand toegekend in overeenstemming met de volgende voorrangsregel: Ten eerste, de minstontwikkelde landen; ten tweede, Leden die dit Verdrag hebben aanvaard; ten derde, Leden die tot dit Verdrag zijn toegetreden. De Algemene Vergadering neemt voorschriften aan inzake het toekennen van bijstand bij WTO-procedures voor geschillenbeslechting overeenkomstig deze voorrangsregel.
 
-#### Artikel 9. Samenwerking met andere internationale organisaties
+##### Artikel 9. Samenwerking met andere internationale organisaties
 
 Het Centrum werkt samen met de Wereldhandelsorganisatie en andere internationale organisaties ten behoeve van de realisatie van de doelstellingen van dit Verdrag.
 
-#### Artikel 10. Rechtspositie van het Centrum
+##### Artikel 10. Rechtspositie van het Centrum
 
 1. Het Centrum heeft rechtspersoonlijkheid. Het heeft met name de bevoegdheid overeenkomsten te sluiten, onroerende en roerende zaken te verkrijgen en te vervreemden en rechtsvorderingen in te stellen.
 
@@ -150,7 +174,7 @@ Het Centrum werkt samen met de Wereldhandelsorganisatie en andere internationale
 
 3. Het Centrum streeft naar het sluiten van een akkoord met de Zwitserse Bondsstaat inzake de status, voorrechten en immuniteiten van het Centrum. Het akkoord kan worden ondertekend door de Voorzitter van de Algemene Vergadering onder voorbehoud van goedkeuring door de Algemene Vergadering. Het akkoord kan bepalen dat de Zwitserse Bondsstaat aan het Centrum, zijn Uitvoerend Directeur en zijn personeel de status, voorrechten en immuniteiten verleent die de Zwitserse Bondsstaat verleent aan permanente diplomatieke vertegenwoordigingen en hun leden of aan internationale organisaties en hun personeel.
 
-#### Artikel 11. Herziening, terugtrekking en beëindiging
+##### Artikel 11. Herziening, terugtrekking en beëindiging
 
 1. Elk lid van het Centrum en het Bestuur kan aan de Algemene Vergadering een voorstel voorleggen tot wijziging van een bepaling van dit Verdrag. Van het voorstel wordt terstond kennisgeving gedaan aan alle Leden. De Algemene Vergadering kan besluiten het voorstel ter aanneming voor te leggen aan de Leden. De wijziging wordt van kracht op de dertigste dag volgend op de datum waarop de depositaris de akten van aanvaarding van alle Leden heeft ontvangen.
 
@@ -162,7 +186,7 @@ Het Centrum werkt samen met de Wereldhandelsorganisatie en andere internationale
 
 5. De Algemene Vergadering kan besluiten dit Verdrag te beëindigen. Bij de beëindiging worden de vermogensbestanddelen van het Centrum verdeeld onder de Leden van dat tijdstip en voormalige Leden van het Centrum naar evenredigheid van het totaal van de bijdragen van elk Lid aan het doteringsfonds en/of de jaarlijkse begroting van het Centrum.
 
-#### Artikel 12. Overgangsregelingen
+##### Artikel 12. Overgangsregelingen
 
 1. Gedurende de eerste vijf jaar waarin het Centrum werkzaam is, wordt de jaarlijkse begroting van het Centrum gefinancierd uit de jaarlijkse bijdragen van de Leden in overeenstemming met [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001451&artikel=6&z=2001-07-15&g=2001-07-15), van dit Verdrag en [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001451&bijlage=I&z=2001-07-15&g=2001-07-15) bij dit Verdrag. Gedurende dit tijdvak vloeien de inkomsten uit het doteringsfonds en uit de vergoedingen voor verleende diensten naar het doteringsfonds.
 
@@ -170,7 +194,7 @@ Het Centrum werkt samen met de Wereldhandelsorganisatie en andere internationale
 
 3. De verplichting van een Lid tot het voldoen van jaarlijkse bijdragen gedurende de eerste vijf jaar waarin het Centrum werkzaam is in overeenstemming met [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001451&artikel=6&z=2001-07-15&g=2001-07-15), van dit Verdrag en [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001451&bijlage=I&z=2001-07-15&g=2001-07-15) bij dit Verdrag blijft bij de terugtrekking van dat Lid uit dit Verdrag in stand.
 
-#### Artikel 13. Aanvaarding en inwerkingtreding
+##### Artikel 13. Aanvaarding en inwerkingtreding
 
 1. Elke Staat of elk afzonderlijk douanegebied vermeld in de [Bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBV0001451&bijlage=I&z=2001-07-15&g=2001-07-15), [II](https://wetten.overheid.nl/jci1.3:c:BWBV0001451&bijlage=II&z=2001-07-15&g=2001-07-15) of III bij dit Verdrag kan Lid van het Centrum worden door aanvaarding van dit Verdrag, door ondertekening of ondertekening onder voorbehoud van bekrachtiging, aanvaarding of goedkeuring, tijdens de derde Ministeriële Conferentie van de WTO, te houden in Seattle van 30 november tot 3 december 1999, en nadien tot 31 maart 2000. De akte van bekrachtiging, aanvaarding of goedkeuring wordt niet later nedergelegd dan 30 september 2002.
 
@@ -184,19 +208,19 @@ Het Centrum werkt samen met de Wereldhandelsorganisatie en andere internationale
 
 3. Voor elke ondertekenaar van dit Verdrag die zijn akte van bekrachtiging, aanvaarding of goedkeuring nederlegt na de datum waarop aan de in het tweede lid van dit artikel weergegeven voorwaarden is voldaan, treedt het Verdrag in werking op de dertigste dag volgend op de datum waarop de akte van bekrachtiging, aanvaarding of goedkeuring is nedergelegd.
 
-#### Artikel 14. Voorbehouden
+##### Artikel 14. Voorbehouden
 
 Geen voorbehouden kunnen worden gemaakt ten aanzien van enige bepaling van dit Verdrag.
 
-#### Artikel 15. Bijlagen
+##### Artikel 15. Bijlagen
 
 De Bijlagen bij dit Verdrag vormen een integrerend onderdeel van dit Verdrag.
 
-#### Artikel 16. Toetreding
+##### Artikel 16. Toetreding
 
 Elk Lid van de WTO en elke Staat die, of elk afzonderlijk douanegebied dat, bezig is met toetreding kan Lid worden van het Centrum door toe te treden tot dit Verdrag met voorwaarden overeengekomen tussen dat Lid, die Staat of dat gebied en het Centrum. Toetredingen komen tot stand bij een akte van toetreding goedgekeurd door de Algemene Vergadering. De Algemene Vergadering keurt de akte van toetreding slechts goed indien het Bestuur haar adviseert dat de toetreding voor het Centrum noch financiële noch operationele problemen zal veroorzaken. Dit Verdrag treedt voor het toetredende Lid van de WTO of voor de Staat die, of het afzonderlijk douanegebied dat, bezig is met toetreding tot de WTO in werking op de dertigste dag volgend op de datum waarop de akte van toetreding bij de depositaris is nedergelegd.
 
-#### Artikel 17. Depositaris en registratie
+##### Artikel 17. Depositaris en registratie
 
 1. Dit Verdrag wordt nedergelegd bij de Regering van het Koninkrijk der Nederlanden.
 

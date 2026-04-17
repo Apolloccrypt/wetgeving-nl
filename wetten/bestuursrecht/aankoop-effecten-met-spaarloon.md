@@ -1,13 +1,37 @@
 ---
 title: "Aankoop effecten met spaarloon"
 identifier: "BWBR0011157"
-categorie: "Bestuursrecht"
-publicatiedatum: 2000-02-10
-laatste_update: 2000-02-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011157"
+country: "nl"
+rank: "circulaire"
+publication_date: "2000-02-10"
+last_updated: "2000-02-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011157"
+soort: "circulaire"
+stam_id: "6392073"
+version_id: "11052602"
+internal_id: "C14955351"
+label_id: "6380874"
+original_entry_into_force: "2000-02-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011157/2000-02-10/0"
+intitule_bron: "Stcrt.2000-37"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-02-10"
+intitule_published: "2000-02-22"
+intitule_in_force: "2000-02-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2000-37"
+original_signed_date: "2000-02-10"
+original_published_date: "2000-02-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2000-37-p8-SC22772"
+entry_into_force_date: "2000-02-10"
+jci_1_3: "jci1.3:c:BWBR0011157&z=2000-02-10&g=2000-02-10"
+jci_1_0: "1.0:c:BWBR0011157&g=2000-02-10"
+citeertitel_status: "redactioneel"
+signed_date: "2000-02-10"
+entry_into_force: "2000-02-10"
 ---
-
 # Aankoop effecten met spaarloon
 
 Bij [circulaire AD97/U869](onbekend) van 28 november 1997 deelde ik u onder andere mede, dat mij uit een onderzoek dat ik had doen instellen was gebleken, dat de aankoop van effecten met spaarloon binnen de [Spaarloonregeling rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0006585) mogelijk was en dat de regeling daarvoor niet hoefde te worden aangepast.

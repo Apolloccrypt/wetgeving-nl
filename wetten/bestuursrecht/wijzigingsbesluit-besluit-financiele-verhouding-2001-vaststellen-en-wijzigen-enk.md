@@ -1,20 +1,46 @@
 ---
-title: "Wijzigingsbesluit Besluit financiële verhouding 2001 (vaststellen en wijzigen enkele verdeelmaatstaven)"
+title: "Besluit van 16 april 2009 tot wijziging van het Besluit financiële verhouding 2001 in verband met het vaststellen en wijzigen van enkele verdeelmaatstaven"
 identifier: "BWBR0025868"
-categorie: "Bestuursrecht"
-publicatiedatum: 2009-07-21
-laatste_update: 2009-07-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0025868"
+country: "nl"
+rank: "amvb"
+publication_date: "2009-07-21"
+last_updated: "2009-07-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0025868"
+soort: "AMvB"
+stam_id: "10047563"
+version_id: "16422272"
+internal_id: "C22579881"
+label_id: "10023894"
+dtd_version: "2.0"
+original_entry_into_force: "2009-07-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0025868/2009-07-21/0"
+intitule_bron: "Stb.2009-215"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-04-16"
+intitule_published: "2009-05-26"
+intitule_in_force: "2009-05-26"
+intitule_status: "goed"
+original_publication: "Stb.2009-215"
+original_signed_date: "2009-04-16"
+original_published_date: "2009-05-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2009-215"
+entry_into_force_date: "2009-07-21"
+jci_1_3: "jci1.3:c:BWBR0025868&z=2009-07-21&g=2009-07-21"
+jci_1_0: "1.0:c:BWBR0025868&g=2009-07-21"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsbesluit Besluit financiële verhouding 2001 (vaststellen en wijzigen enkele verdeelmaatstaven)"
+signed_date: "2009-04-16"
+entry_into_force: "2009-07-21"
 ---
-
 # Besluit van 16 april 2009 tot wijziging van het Besluit financiële verhouding 2001 in verband met het vaststellen en wijzigen van enkele verdeelmaatstaven
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Besluit financiële verhouding 2001.
 
-#### Artikel II
+##### Artikel II
 
 De algemene uitkering zoals deze voor iedere gemeente wordt berekend overeenkomstig dit besluit, wordt
 
@@ -26,7 +52,7 @@ De algemene uitkering zoals deze voor iedere gemeente wordt berekend overeenkoms
 
 Deze vermeerdering of vermindering komt ten laste van of ten goede van het gemeentefonds.
 
-#### Artikel III
+##### Artikel III
 
 Dit besluit treedt niet eerder in werking dan acht weken na de datum van uitgifte van het Staatsblad waarin het is geplaatst, met dien verstande dat
 

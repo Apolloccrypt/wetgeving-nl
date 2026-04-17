@@ -1,13 +1,39 @@
 ---
-title: "Regeling onderwijsaccountantsprotocol OCW BES 2020"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap, van 26 januari 2021, nr. 26786807, houdende vaststelling van het onderwijsaccountantsprotocol voor de sectoren PO, VO en MBO in Caribisch Nederland (Regeling onderwijsaccountantsprotocol OCW BES 2020)"
 identifier: "BWBR0044848"
-categorie: "Onderwijs"
-publicatiedatum: 2021-02-25
-laatste_update: 2020-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044848"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-02-25"
+last_updated: "2020-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044848"
+soort: "ministeriele-regeling"
+stam_id: "15856033"
+version_id: "27545672"
+internal_id: "C38865011"
+label_id: "15790994"
+dtd_version: "2.0"
+original_entry_into_force: "2021-02-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044848/2021-02-25/0"
+intitule_bron: "Stcrt.2021-6207"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-01-26"
+intitule_published: "2021-02-24"
+intitule_in_force: "2021-02-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-6207"
+original_signed_date: "2021-01-26"
+original_published_date: "2021-02-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-6207"
+entry_into_force_date: "2021-02-25"
+jci_1_3: "jci1.3:c:BWBR0044848&z=2021-02-25&g=2021-02-25"
+jci_1_0: "1.0:c:BWBR0044848&g=2021-02-25"
+citeertitel_status: "officieel"
+short_title: "Regeling onderwijsaccountantsprotocol OCW BES 2020"
+signed_date: "2021-01-26"
+entry_into_force: "2021-02-25"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap, van 26 januari 2021, nr. 26786807, houdende vaststelling van het onderwijsaccountantsprotocol voor de sectoren PO, VO en MBO in Caribisch Nederland (Regeling onderwijsaccountantsprotocol OCW BES 2020)
 
 Gelet op [artikel 131, vierde lid, tweede volzin, van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=131), [artikel 17, zesde lid, van het Bekostigingsbesluit WVO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029598&artikel=17) en [artikel 5, eerste lid, van het Uitvoeringsbesluit WEB BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029696&artikel=5);
@@ -16,21 +42,21 @@ Besluit:
 
 Deze regeling heeft betrekking op het jaar 2020.
 
-#### Artikel 1. Vaststelling onderwijsaccountantsprotocol OCW BES
+##### Artikel 1. Vaststelling onderwijsaccountantsprotocol OCW BES
 
 Het protocol voor de controle en onderzoek door de accountant over het jaar 2020 wordt vastgesteld overeenkomstig de bijlage bij deze regeling.
 
-#### Artikel 2. Intrekking [Regeling onderwijsaccountantsprotocol BES 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0036220)
+##### Artikel 2. Intrekking [Regeling onderwijsaccountantsprotocol BES 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0036220)
 
 De [Regeling onderwijsaccountantsprotocol BES 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0036220) wordt ingetrokken.
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2020.
 
 2. Deze regeling heeft betrekking op het jaar 2020 en vervalt met ingang van 1 januari 2027.
 
-#### Artikel 4. Citeertitel
+##### Artikel 4. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling onderwijsaccountantsprotocol OCW BES 2020.
 

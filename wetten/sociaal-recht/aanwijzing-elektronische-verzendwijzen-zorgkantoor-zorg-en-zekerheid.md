@@ -1,13 +1,39 @@
 ---
-title: "Aanwijzing elektronische verzendwijzen Zorgkantoor Zorg en Zekerheid"
+title: "Besluit van Stichting Wlz-uitvoerder Zorg en Zekerheid houdende regels met betrekking tot de aanwijzing van de elektronische verzendwijze van officiële berichten aan Zorgkantoor Zorg en Zekerheid (Aanwijzing elektronische verzendwijzen Zorgkantoor Zorg en Zekerheid"
 identifier: "BWBR0052478"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-03-20
-laatste_update: 2026-03-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052478"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-03-20"
+last_updated: "2026-03-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052478"
+soort: "zbo"
+stam_id: "17823673"
+version_id: "31506362"
+internal_id: "C44990571"
+label_id: "17720884"
+dtd_version: "2.0"
+original_entry_into_force: "2026-03-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052478/2026-03-20/0"
+intitule_bron: "Stcrt.2026-12189"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2026-03-20"
+intitule_published: "2026-03-31"
+intitule_in_force: "2026-03-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-12189"
+original_signed_date: "2026-03-20"
+original_published_date: "2026-03-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-12189"
+entry_into_force_date: "2026-03-20"
+jci_1_3: "jci1.3:c:BWBR0052478&z=2026-03-20&g=2026-03-20"
+jci_1_0: "1.0:c:BWBR0052478&g=2026-03-20"
+citeertitel_status: "officieel"
+short_title: "Aanwijzing elektronische verzendwijzen Zorgkantoor Zorg en Zekerheid"
+signed_date: "2026-03-20"
+entry_into_force: "2026-03-20"
 ---
-
 # Besluit van Stichting Wlz-uitvoerder Zorg en Zekerheid houdende regels met betrekking tot de aanwijzing van de elektronische verzendwijze van officiële berichten aan Zorgkantoor Zorg en Zekerheid (Aanwijzing elektronische verzendwijzen Zorgkantoor Zorg en Zekerheid
 
 Gelet op [artikel 2:13, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:13);
@@ -16,7 +42,7 @@ Besluit:
 
 De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
@@ -42,19 +68,19 @@ In dit besluit wordt verstaan onder:
 
 - k. **iWlz:** een systematiek van elektronisch berichtenverkeer in de Wlz-keten; is een systematiek van elektronisch berichtenverkeer waarmee de cliënt in de zorgketen kan worden gevolgd. Het elektronisch berichtenverkeer vindt plaats op basis van landelijk vastgestelde berichtenstandaarden en kan gebruikt worden door zorgaanbieders en het zorgkantoor.
 
-#### Artikel 2. Verzendwijzen
+##### Artikel 2. Verzendwijzen
 
 Een officieel bericht, verband houdende met de voor Zorgkantoor Zorg en Zekerheid relevante Wetgeving, kan elektronisch aan Zorgkantoor Zorg en Zekerheid worden verzonden op de in de bijlage vermelde wijze.
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 20 maart 2026.
 
-#### Artikel 4. Citeertitel
+##### Artikel 4. Citeertitel
 
 Dit besluit wordt aangehaald als: Aanwijzing elektronische verzendwijzen Zorgkantoor Zorg en Zekerheid.
 
-#### Artikel 5. Publicatie
+##### Artikel 5. Publicatie
 
 Dit besluit zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
 

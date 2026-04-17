@@ -1,18 +1,43 @@
 ---
 title: "Internationaal Verdrag tot bescherming van kweekprodukten van 2 december 1961, zoals herzien te Genève op 10 november 1972, 23 oktober 1978, en 19 maart 1991"
 identifier: "BWBV0002685"
-categorie: "Internationaal recht"
-publicatiedatum: 1998-04-24
-laatste_update: 1998-04-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002685"
+country: "nl"
+rank: "verdrag"
+publication_date: "1998-04-24"
+last_updated: "1998-04-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002685"
+soort: "verdrag"
+stam_id: "10002969893"
+version_id: "10002972922"
+internal_id: "C10006976851"
+label_id: "10002956914"
+dtd_version: "2.0"
+original_entry_into_force: "1998-04-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002685/1998-04-24/0"
+intitule_bron: "Trb.1992-52"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-10-14"
+intitule_published: "1992-04-03"
+intitule_in_force: "1998-05-15"
+intitule_status: "goed"
+original_publication: "Trb.1992-52"
+original_signed_date: "1996-10-14"
+original_published_date: "1992-04-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1992-52"
+entry_into_force_date: "1998-04-24"
+jci_1_3: "jci1.3:c:BWBV0002685&z=1998-04-24&g=1998-04-24"
+jci_1_0: "1.0:c:BWBV0002685&g=1998-04-24"
+citeertitel_status: "officieel"
+signed_date: "1996-10-14"
+entry_into_force: "1998-04-24"
 ---
-
 # Internationaal Verdrag tot bescherming van kweekprodukten van 2 december 1961, zoals herzien te Genève op 10 november 1972, 23 oktober 1978, en 19 maart 1991
 
 ### HOOFDSTUK I. BEGRIPSOMSCHRIJVINGEN
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van deze Akte:
 
@@ -52,11 +77,11 @@ Voor de toepassing van deze Akte:
 
 ### HOOFDSTUK II. ALGEMENE VERPLICHTINGEN VAN DE VERDRAGSLUITENDE PARTIJEN
 
-#### Artikel 2. Hoofdverplichting van de Verdragsluitende Partijen
+##### Artikel 2. Hoofdverplichting van de Verdragsluitende Partijen
 
 Elke Verdragsluitende Partij verleent en beschermt de rechten van kwekers.
 
-#### Artikel 3. Te beschermen geslachten en soorten
+##### Artikel 3. Te beschermen geslachten en soorten
 
 1. [Staten die reeds lid zijn van de Unie] Elke Verdragsluitende Partij die is gebonden door de [Akte van 1961/1972](https://wetten.overheid.nl/jci1.3:c:BWBV0003807) of de Akte van 1978 past de bepalingen van dit Verdrag toe,
 
@@ -70,7 +95,7 @@ Elke Verdragsluitende Partij verleent en beschermt de rechten van kwekers.
 
 - ii. uiterlijk na het verstrijken van een tijdvak van 10 jaar, te rekenen vanaf bedoelde datum, op alle plantengeslachten en plantesoorten.
 
-#### Artikel 4. Nationale behandeling
+##### Artikel 4. Nationale behandeling
 
 1. [Behandeling] Onverminderd de in dit Verdrag genoemde rechten, genieten onderdanen van een Verdragsluitende Partij, alsmede natuurlijke personen die hun woonplaats en rechtspersonen die hun zetel op het grondgebied van een Verdragsluitende Partij hebben, wat de verlening en bescherming van kwekersrechten betreft, op het grondgebied van elke andere Verdragsluitende Partij dezelfde behandeling als die welke door de wetgeving van die andere Verdragsluitende Partij is toegekend of hierna zal worden toegekend aan haar eigen onderdanen, mits die onderdanen, natuurlijke personen of rechtspersonen de voorwaarden en formaliteiten vervullen die zijn opgelegd aan de onderdanen van de bedoelde andere Verdragsluitende Partij.
 
@@ -78,7 +103,7 @@ Elke Verdragsluitende Partij verleent en beschermt de rechten van kwekers.
 
 ### HOOFDSTUK III. VOORWAARDEN VOOR HET VERLENEN VAN HET KWEKERSRECHT
 
-#### Artikel 5. Voorwaarden voor bescherming
+##### Artikel 5. Voorwaarden voor bescherming
 
 1. [Criteria waaraan dient te worden voldaan] Het kwekersrecht wordt verleend wanneer het ras
 
@@ -94,7 +119,7 @@ is.
 
 2. [Andere voorwaarden] Het verlenen van het kwekersrecht mag niet afhankelijk worden gesteld van aanvullende of afwijkende voorwaarden, mits het ras wordt aangeduid door een benaming in overeenstemming met de bepalingen van artikel 20, de aanvrager de formaliteiten vervult die zijn bepaald in de wetgeving van de Verdragsluitende Partij bij de dienst waarvan de aanvraag is ingediend en hij de vereiste rechten heeft betaald.
 
-#### Artikel 6. Nieuwheid
+##### Artikel 6. Nieuwheid
 
 1. [Criteria] Het ras wordt als nieuw aangemerkt indien op de datum van indiening van de aanvraag om kwekersrecht geen teeltmateriaal of geoogst materiaal van het ras is verkocht of anderszins ter beschikking is gesteld aan derden, door of met toestemming van de kweker, met het oog op de exploitatie van het ras
 
@@ -106,21 +131,21 @@ is.
 
 3. [„Grondgebied” in bepaalde gevallen] Voor de toepassing van het eerste lid kunnen alle Verdragsluitende Partijen die lidstaat zijn van één en dezelfde intergouvernementele organisatie gezamenlijk handelen, wanneer de regelgeving van die organisatie zulks vereist, om handelingen verricht op de grondgebieden van de lidstaten van die organisatie gelijk te stellen met handelingen verricht op hun eigen grondgebied, waarvan zij, indien zij zulks doen, de Secretaris-Generaal in kennis dienen te stellen.
 
-#### Artikel 7. Onderscheidbaarheid
+##### Artikel 7. Onderscheidbaarheid
 
 Het ras wordt als onderscheidbaar aangemerkt indien het duidelijk te onderscheiden is van elk ander ras waarvan het bestaan op het tijdstip van indiening van de aanvraag algemeen bekend is. In het bijzonder wordt de indiening van een aanvraag tot het verlenen van kwekersrecht voor een ander ras of de inschrijving van een ander ras in een officieel rassenregister, in welk land ook, geacht dat andere ras algemene bekendheid te geven vanaf de datum van de aanvraag, mits de aanvraag leidt tot de verlening van kwekersrecht of tot de inschrijving van dat andere ras in het officiële rassenregister, naar gelang het geval.
 
-#### Artikel 8. Homogeniteit
+##### Artikel 8. Homogeniteit
 
 Het ras wordt als eenvormig aangemerkt indien het, behoudens de variatie die mag worden verwacht van de bijzonderheden die eigen zijn aan de vermeerdering ervan, voldoende eenvormig is wat zijn van belang zijnde eigenschappen betreft.
 
-#### Artikel 9. Bestendigheid
+##### Artikel 9. Bestendigheid
 
 Het ras wordt als bestendig aangemerkt indien zijn van belang zijnde eigenschappen onveranderd blijven na achtereenvolgende vermeerderingen of, in het geval van een bijzondere vermeerderingscyclus, aan het einde van iedere cyclus.
 
 ### HOOFDSTUK IV. AANVRAAG TOT VERLENING VAN HET KWEKERSRECHT
 
-#### Artikel 10. Indiening van aanvragen
+##### Artikel 10. Indiening van aanvragen
 
 1. [Plaats van eerste aanvraag] De kweker heeft de vrijheid de Verdragsluitende Partij te kiezen bij wiens dienst hij zijn eerste aanvraag tot kwekersrecht wenst in te dienen.
 
@@ -128,7 +153,7 @@ Het ras wordt als bestendig aangemerkt indien zijn van belang zijnde eigenschapp
 
 3. [Onafhankelijkhe id van de bescherming] Geen enkele Verdragsluitende Partij kan de verlening van een kwekersrecht weigeren of de duur daarvan beperken op grond van het feit dat de bescherming van hetzelfde ras niet is aangevraagd, is geweigerd of is vervallen in een andere Staat of intergouvernementele organisatie.
 
-#### Artikel 11. Recht van voorrang
+##### Artikel 11. Recht van voorrang
 
 1. [Het recht; de termijn] Een kweker die overeenkomstig de voorschriften een aanvraag om de bescherming van een ras heeft ingediend in één van de Verdragsluitende Partijen („de eerste aanvraag”) geniet voor de indiening van een aanvraag tot verlening van kwekersrecht voor hetzelfde ras bij de dienst van een andere Verdragsluitende Partij („de latere aanvraag”) een recht van voorrang gedurende een termijn van twaalf maanden. De termijn begint te lopen vanaf de datum van indiening van de eerste aanvraag. De dag van indiening is niet in deze termijn begrepen.
 
@@ -138,17 +163,17 @@ Het ras wordt als bestendig aangemerkt indien zijn van belang zijnde eigenschapp
 
 4. [Feiten die zich voordoen gedurende de voorrangstermijn] Feiten diezich voordoen gedurende de in het eerste lid genoemde termijn, zoals de indiening van een andere aanvraag of de bekendmaking of de exploitatie van het ras waarop de eerste aanvraag betrekking heeft, kunnen geen grond zijn voor afwijzing van de latere aanvraag. Dergelijke feiten kunnen geen rechten van derden doen ontstaan.
 
-#### Artikel 12. Onderzoek van de aanvraag
+##### Artikel 12. Onderzoek van de aanvraag
 
 Elke beslissing tot verlening van kwekersrecht vereist een onderzoek betreffende het voldoen aan de in de artikelen 5 tot en met 9 genoemde voorwaarden. In de loop van het onderzoek mag de dienst het ras telen of doen telen of andere noodzakelijke proeven uitvoeren of doen uitvoeren, of de resultaten van reeds uitgevoerde teeltproeven of andere proeven in aanmerking nemen. Met het oog op het onderzoek kan de dienst alle benodigde inlichtingen, bescheiden of materiaal van de kweker verlangen.
 
-#### Artikel 13. Voorlopige bescherming
+##### Artikel 13. Voorlopige bescherming
 
 Elke Verdragsluitende Partij treft maatregelen om de belangen van de kweker veilig te stellen gedurende het tijdvak tussen de indiening of de bekendmaking van de aanvraag tot verlening van kwekersrecht en de verlening van dat recht. Deze maatregelen zijn van zodanige strekking dat de houder van het kwekersrecht ten minste recht heeft op een billijke vergoeding van iedere persoon die gedurende genoemd tijdvak handelingen heeft verricht waarvoor, na verlening van het recht, de toestemming van de kweker, als bedoeld in artikel 14, is vereist. Een Verdragsluitende Partij kan bepalen dat genoemde maatregelen alleen gelden met betrekking tot personen die de kweker uitdrukkelijk in kennis heeft gesteld van de indiening van de aanvraag.
 
 ### HOOFDSTUK V. DE RECHTEN VAN DE KWEKER
 
-#### Artikel 14. Omvang van het kwekersrecht
+##### Artikel 14. Omvang van het kwekersrecht
 
 1. [Handelingen met betrekking tot het teeltmateriaal]
 
@@ -196,7 +221,7 @@ Elke Verdragsluitende Partij treft maatregelen om de belangen van de kweker veil
 
 - c. In wezen afgeleide rassen kunnen bijvoorbeeld zijn verkregen door middel van de selectie van een natuurlijke of teweeggebrachte mutant, of van een somaklonale variant, de selectie van een individu dat afwijkt van planten van het oorspronkelijke ras, terugkruisingen of transformatie door middel van genetische modificatie.
 
-#### Artikel 15. Beperkingen op het kwekersrecht
+##### Artikel 15. Beperkingen op het kwekersrecht
 
 1. [Verplichte beperkingen] Het kwekersrecht strekt zich niet uit tot
 
@@ -208,7 +233,7 @@ Elke Verdragsluitende Partij treft maatregelen om de belangen van de kweker veil
 
 2. [Facultatieve uitzondering] Onverminderd artikel 14 kan elke Verdragsluitende Partij, binnen redelijke grenzen en met inachtneming van de legitieme belangen van de kweker, het kwekersrecht beperken met betrekking tot ieder ras, teneinde telers in staat te stellen, voor vermeerderingsdoeleinden binnen hun eigen bedrijf, het produkt van de oogst te gebruiken dat zij hebben verkregen door het beschermde ras of een ras dat valt onder artikel 14, vijfde lid, letter a, onder i of ii, binnen hun eigen bedrijf te planten.
 
-#### Artikel 16. Uitputting van het kwekersrecht
+##### Artikel 16. Uitputting van het kwekersrecht
 
 1. [Uitputting van het recht] Het kwekersrecht strekt zich niet uit tot handelingen betreffende materiaal van het beschermde ras, of van een ras dat valt onder de bepalingen van artikel 14, vijfde lid, dat door de kweker, dan wel met diens toestemming, op het grondgebied van de desbetreffende Verdragsluitende Partij is verkocht of anderszins in de handel is gebracht, of materiaal dat van genoemd materiaal is afgeleid, tenzij die handelingen
 
@@ -226,17 +251,17 @@ Elke Verdragsluitende Partij treft maatregelen om de belangen van de kweker veil
 
 3. [„Grondgebied” in bepaalde gevallen] Voor de toepassing van het eerste lid kunnen alle Verdragsluitende Partijen die lidstaat zijn van één en dezelfde intergouvernementele organisatie gezamenlijk handelen, wanneer de regelgeving van die organisatie zulks vereist, om handelingen verricht op de grondgebieden van de lidstaten van die organisatie gelijk te stellen met handelingen verricht op hun eigen grondgebied, waarvan zij, indien zij zulks doen, de Secretaris-Generaal in kennis dienen te stellen.
 
-#### Artikel 17. Beperking van de uitoefening van het kwekersrecht
+##### Artikel 17. Beperking van de uitoefening van het kwekersrecht
 
 1. [Algemeen belang] Behalve wanneer zulks uitdrukkelijk in dit Verdrag is bepaald, kan een Verdragsluitende Partij de vrije uitoefening van het kwekersrecht slechts beperken om redenen van algemeen belang.
 
 2. [Billijke vergoeding] Wanneer zo'n beperking ertoe leidt dat een derde wordt gemachtigd een handeling te verrichten waarvoor de toestemming van de kweker vereist is, treft de betrokken Verdragsluitende Partij alle noodzakelijke maatregelen om te verzekeren dat de kweker een billijke vergoeding ontvangt.
 
-#### Artikel 18. Maatregelen ter zake van de verhandeling
+##### Artikel 18. Maatregelen ter zake van de verhandeling
 
 Het kwekersrecht is niet afhankelijk van door een Verdragsluitende Partij getroffen maatregelen ter regulering op haar grondgebied van de voortbrenging van, de controle op en de verhandeling van materiaal van rassen of de invoer of uitvoer van dat materiaal. Dergelijke maatregelen laten in elk geval de toepassing van de bepalingen van dit Verdrag onverlet.
 
-#### Artikel 19. Duur van het kwekersrecht
+##### Artikel 19. Duur van het kwekersrecht
 
 1. [Duur van de bescherming] Het kwekersrecht wordt voor een bepaalde duur verleend.
 
@@ -244,7 +269,7 @@ Het kwekersrecht is niet afhankelijk van door een Verdragsluitende Partij getrof
 
 ### HOOFDSTUK VI. RASBENAMING
 
-#### Artikel 20. Rasbenaming
+##### Artikel 20. Rasbenaming
 
 1. [Aanduiding van rassen door benamingen; gebruik van de benaming]
 
@@ -268,7 +293,7 @@ Het kwekersrecht is niet afhankelijk van door een Verdragsluitende Partij getrof
 
 ### HOOFDSTUK VII. NIETIGVERKLARING EN VERVALLENVERKLARING VAN HET KWEKERSRECHT
 
-#### Artikel 21. Nietigverklaring van het kwekersrecht
+##### Artikel 21. Nietigverklaring van het kwekersrecht
 
 1. [Gronden voor nietigverklaring] Elke Verdragsluitende Partij verklaart een door haar verleend kwekersrecht nietig wanneer wordt vastgesteld
 
@@ -280,7 +305,7 @@ Het kwekersrecht is niet afhankelijk van door een Verdragsluitende Partij getrof
 
 2. [Geen andere gronden] Het kwekersrecht kan niet worden nietig verklaard op andere gronden dan de in het eerste lid genoemde.
 
-#### Artikel 22. Vervallenverklaring van het kwekersrecht
+##### Artikel 22. Vervallenverklaring van het kwekersrecht
 
 1. [Gronden voor vervallenverklaring]
 
@@ -298,11 +323,11 @@ Het kwekersrecht is niet afhankelijk van door een Verdragsluitende Partij getrof
 
 ### HOOFDSTUK VIII. DE UNIE
 
-#### Artikel 23. Leden van de Unie
+##### Artikel 23. Leden van de Unie
 
 De Verdragsluitende Partijen zijn lid van de Unie.
 
-#### Artikel 24. Rechtspositie en zetel van de Unie
+##### Artikel 24. Rechtspositie en zetel van de Unie
 
 1. [Rechtspersoonlijkheid] De Unie bezit rechtspersoonlijkheid.
 
@@ -312,11 +337,11 @@ De Verdragsluitende Partijen zijn lid van de Unie.
 
 4. [Zetelovereenkomst] De Unie heeft een zetelovereenkomst met de Zwitserse Bondsstaat.
 
-#### Artikel 25. Organen van de Unie
+##### Artikel 25. Organen van de Unie
 
 De permanente organen van de Unie zijn de Raad en het Bureau van de Unie.
 
-#### Artikel 26. De Raad
+##### Artikel 26. De Raad
 
 1. [Samenstelling] De Raad is samengesteld uit vertegenwoordigers van de leden van de Unie. Elk lid van de Unie benoemt één vertegenwoordiger in de Raad en één plaatsvervanger. De vertegenwoordigers of plaatsvervangers kunnen zich doen vergezellen door assistenten of adviseurs.
 
@@ -356,7 +381,7 @@ De permanente organen van de Unie zijn de Raad en het Bureau van de Unie.
 
 7. [Meerderheid] Elke beslissing van de Raad wordt genomen met een eenvoudige meerderheid van de uitgebrachte stemmen; een beslissing van de Raad krachtens het vijfde lid, punten ii, vi en vii, alsmede artikel 28, derde lid, artikel 29, vijfde lid, letter b, en artikel 38, eerste lid, wordt evenwel genomen met een meerderheid van drie vierde van de uitgebrachte stemmen. Onthouding van stem wordt nie beschouwd als het uitbrengen van een stem.
 
-#### Artikel 27. Het Bureau van de Unie
+##### Artikel 27. Het Bureau van de Unie
 
 1. [Taken en leiding van het Bureau] Het Bureau van de Unie voert alle door de Raad aan hem toevertrouwde taken uit. Het wordt geleid door de Secretaris-Generaal.
 
@@ -364,7 +389,7 @@ De permanente organen van de Unie zijn de Raad en het Bureau van de Unie.
 
 3. [Personeel] Behoudens de bepalingen van artikel 26, vijfde lid, punt iii, worden de voorwaarden voor de benoeming en het dienstverband van het personeel, benodigd voor de doeltreffende uitvoering van de taken van het Bureau van de Unie, geregeld in het administratief en financieel reglement.
 
-#### Artikel 28. Talen
+##### Artikel 28. Talen
 
 1. [De talen van het Bureau] Bij de vervulling van zijn taken gebruikt het Bureau van de Unie de Duitse, de Engelse, de Franse en de Spaanse taal.
 
@@ -372,7 +397,7 @@ De permanente organen van de Unie zijn de Raad en het Bureau van de Unie.
 
 3. [Andere talen] De Raad kan besluiten andere talen te gebruiken.
 
-#### Artikel 29. Financiën
+##### Artikel 29. Financiën
 
 1. [Inkomsten] De uitgaven van de Unie worden gedekt door:
 
@@ -412,7 +437,7 @@ De permanente organen van de Unie zijn de Raad en het Bureau van de Unie.
 
 ### HOOFDSTUK IX. TOEPASSING VAN HET VERDRAG; ANDERE OVEREENKOMSTEN
 
-#### Artikel 30. Toepassing van het Verdrag
+##### Artikel 30. Toepassing van het Verdrag
 
 1. [Maatregelen voor toepassing] Elke Verdragsluitende Partij neemt alle maatregelen die noodzakelijk zijn voor de toepassing van dit Verdrag en in het bijzonder
 
@@ -428,23 +453,23 @@ De permanente organen van de Unie zijn de Raad en het Bureau van de Unie.
 
 2. [Overeenstemming van de wetgeving] Het is wel verstaan dat iedere Staat of intergouvernementele organisatie op het tijdstip van nederlegging van zijn/haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding in staat moet zijn overeenkomstig zijn/haar wetgeving uitvoering te geven aan de bepalingen van dit Verdrag.
 
-#### Artikel 31. Betrekkingen tussen de Verdragsluitende Partijen en Staten die zijn gebonden door eerdere Akten
+##### Artikel 31. Betrekkingen tussen de Verdragsluitende Partijen en Staten die zijn gebonden door eerdere Akten
 
 1. [Betrekkingen tussen Staten die zijn gebonden door dit Verdrag] Tussen Staten die lid zijn van de Unie en die zijn gebonden door zowel dit Verdrag als eerdere Akten van het Verdrag, is alleen dit Verdrag van toepassing.
 
 2. [Mogelijke betrekkingen tussen Staten die niet zijn gebonden door dit Verdrag] Iedere Staat die lid is van de Unie en die niet is gebonden door dit Verdrag, kan in een verklaring gericht aan de Secretaris-Generaal verklaren dat hij in zijn betrekkingen met elk lid van de Unie dat alleen door dit Verdrag is gebonden, de laatste Akte zal toepassen waardoor hij is gebonden. Vanaf één maand na de datum van die kennisgeving en tot het tijdstip waarop de Lidstaat die de verklaring aflegt door dit Verdrag wordt gebonden, past dat lid van de Unie de laatste Akte waardoor het is gebonden toe in zijn betrekkingen met elk van de leden van de Unie die alleen door dit Verdrag zijn gebonden, terwijl laatstbedoelde leden dit Verdrag toepassen ten aanzien van eerstbedoeld lid.
 
-#### Artikel 32. Bijzondere regelingen
+##### Artikel 32. Bijzondere regelingen
 
 Leden van de Unie behouden zich het recht voor onderling bijzondere regelingen aan te gaan ter bescherming van rassen, voor zover deze regelingen niet in strijd zijn met de bepalingen van dit Verdrag.
 
 ### HOOFDSTUK X. SLOTBEPALINGEN
 
-#### Artikel 33. Ondertekening
+##### Artikel 33. Ondertekening
 
 Dit Verdrag staat open voor ondertekening door elke Staat die lid is van de Unie op de datum waarop het werd aangenomen. Het blijft voor ondertekening openstaan tot en met 31 maart 1992.
 
-#### Artikel 34. Bekrachtiging, aanvaarding of goedkeuring; toetreding
+##### Artikel 34. Bekrachtiging, aanvaarding of goedkeuring; toetreding
 
 1. [Staten en bepaalde intergouvernementele organisaties]
 
@@ -462,7 +487,7 @@ Dit Verdrag staat open voor ondertekening door elke Staat die lid is van de Unie
 
 3. [Oordeel van de Raad] Elke Staat die geen lid is van de Unie en elke intergouvernementele organisatie vragen, alvorens zijn/haar akte van toetreding neder te leggen, het oordeel van de Raad aangaande de overeenstemming van zijn/haar wetgeving met de bepalingen van dit Verdrag. Indien de beslissing die het oordeel bevat positief is, kan de akte van toetreding worden nedergelegd.
 
-#### Artikel 35. Voorbehouden
+##### Artikel 35. Voorbehouden
 
 1. [Beginsel] Behoudens de bepalingen van het tweede lid kunnen met betrekking tot dit Verdrag geen voorbehouden worden gemaakt.
 
@@ -472,7 +497,7 @@ Dit Verdrag staat open voor ondertekening door elke Staat die lid is van de Unie
 
 - b. Elke Staat die gebruik maakt van genoemd recht stelt op het tijdstip van nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding de Secretaris-Generaal daarvan in kennis. Bedoelde Staat kan die kennisgeving te allen tijde intrekken.
 
-#### Artikel 36. Mededelingen betreffende de wetgeving en de beschermde geslachten en soorten; bekend te maken informatie
+##### Artikel 36. Mededelingen betreffende de wetgeving en de beschermde geslachten en soorten; bekend te maken informatie
 
 1. [Eerste kennisgeving] Bij de nederlegging van de akte van bekrachtiging, aanvaarding of goedkeuring van, of toetreding tot, dit Verdrag, stelt elke Staat of intergouvernementele organisatie de Secretaris-Generaal in kennis van:
 
@@ -492,7 +517,7 @@ Dit Verdrag staat open voor ondertekening door elke Staat die lid is van de Unie
 
 - ii. de lijst van plantengeslachten en plantesoorten bedoeld in het eerste lid, punt ii, en elke uitbreiding bedoeld in het tweede lid, punt ii.
 
-#### Artikel 37. Inwerkingtreding; onmogelijkheid toe te treden tot eerdere Akten
+##### Artikel 37. Inwerkingtreding; onmogelijkheid toe te treden tot eerdere Akten
 
 1. [Inwerkingtreding] Dit Verdrag treedt in werking een maand nadat vijf Staten hun akte van bekrachtiging, aanvaarding, goedkeuring of toetreding hebben nedergelegd, mits ten minste drie van genoemde akten zijn nedergelegd door Staten die partij zijn bij de [Akte van 1961/1972](https://wetten.overheid.nl/jci1.3:c:BWBV0003807) of de Akte van 1978.
 
@@ -500,13 +525,13 @@ Dit Verdrag staat open voor ondertekening door elke Staat die lid is van de Unie
 
 3. [Onmogelijkheid toe te treden tot de Akte van 1978] Na de inwerkingtreding van dit Verdrag overeenkomstig het eerste lid kan geen akte van toetreding tot de Akte van 1978 meer worden nedergelegd, met dien verstande dat een Staat die, in overeenstemming met de gevestigde praktijk van de Algemene Vergadering van de Verenigde Naties, wordt beschouwd als ontwikkelingsland, een dergelijke akte kan nederleggen tot en met 31 december 1995, en dat iedere andere Staat een dergelijke akte kan nederleggen tot en met 31 december 1993, zelfs indien dit Verdrag vóór die datum in werking treedt.
 
-#### Artikel 38. Herziening van het Verdrag
+##### Artikel 38. Herziening van het Verdrag
 
 1. [Conferentie] Dit Verdrag kan worden herzien door een conferentie van de leden van de Unie. Tot het bijeenroepen van een dergelijke conferentie wordt door de Raad beslist.
 
 2. [Quorum en meerderheid] De conferentie kan slechts geldig beraadslagen, indien ten minste de helft van de Staten die lid zijn van de Unie vertegenwoordigd is. Voor de aanneming van een herziening is een meerderheid vereist van drie vierde van de Staten die lid zijn van de Unie die op de conferentie aanwezig zijn en hun stem uitbrengen.
 
-#### Artikel 39. Opzegging
+##### Artikel 39. Opzegging
 
 1. [Kennisgevingen] Elke Verdragsluitende Partij kan dit Verdrag opzeggen door middel van een kennisgeving gericht aan de Secretaris-Generaal. De Secretaris-Generaal stelt alle leden van de Unie onmiddellijk in kennis van de ontvangst van die kennisgeving.
 
@@ -516,17 +541,17 @@ Dit Verdrag staat open voor ondertekening door elke Staat die lid is van de Unie
 
 4. [Verkregen rechten] De opzegging laat de rechten met betrekking tot een ras die op grond van dit Verdrag of een eerdere Akte zijn verkregen vóór de datum waarop de opzegging van kracht wordt, onverlet.
 
-#### Artikel 40. Handhaving van bestaande rechten
+##### Artikel 40. Handhaving van bestaande rechten
 
 Dit Verdrag beperkt bestaande rechten, hetzij uit hoofde van de wetgeving van Verdragsluitende Partijen, hetzij op grond van een eerdere Akte of andere overeenkomsten tussen leden van de Unie dan dit Verdrag, niet.
 
-#### Artikel 41. Oorspronkelijk exemplaar en officiële teksten van het Verdrag
+##### Artikel 41. Oorspronkelijk exemplaar en officiële teksten van het Verdrag
 
 1. [Oorspronkelijk exemplaar] Dit Verdrag wordt ondertekend in één oorspronkelijk exemplaar in de Duitse, de Engelse en de Franse taal, waarbij de Franse tekst doorslaggevend is in geval van verschillen tussen de onderscheiden teksten. Het oorspronkelijke exemplaar wordt nedergelegd bij de Secretaris-Generaal.
 
 2. [Officiële teksten] De Secretaris-Generaal stelt, na overleg met de betrokken Regeringen, officiële teksten van dit Verdrag vast in de Arabische, de Italiaanse, de Japanse, de Nederlandse en de Spaanse taal, alsmede in de andere talen die de Raad eventueel aangeeft.
 
-#### Artikel 42. Taken van de Depositaris
+##### Artikel 42. Taken van de Depositaris
 
 1. [Toezending van afschriften] De Secretaris-Generaal zendt voor eensluidend gewaarmerkte afschriften van dit Verdrag aan alle Staten en intergouvernementele organisaties die waren vertegenwoordigd op de diplomatieke conferentie die dit Verdrag heeft aangenomen, en op verzoek aan elke andere Staat of intergouvernementele organisatie.
 

@@ -1,13 +1,35 @@
 ---
-title: "Besluit integratie-uitkering WUW-middelen gemeentefonds"
+title: "Besluit van 29 maart 1994, houdende toepassing van artikel 38 van de Financiële-Verhoudingswet 1984"
 identifier: "BWBR0006567"
-categorie: "Bestuursrecht"
-publicatiedatum: 2002-01-01
-laatste_update: 2002-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006567"
+country: "nl"
+rank: "amvb"
+publication_date: "2002-01-01"
+last_updated: "2002-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006567"
+soort: "AMvB"
+stam_id: "634983"
+version_id: "921512"
+internal_id: "C921511"
+label_id: "616034"
+dtd_version: "2.0"
+original_entry_into_force: "1994-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006567/2002-01-01/0"
+intitule_bron: "Stb.1994-280"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-03-29"
+intitule_status: "goed"
+original_publication: "Stb.1994-280"
+original_signed_date: "1994-03-29"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1994-06-01"
+jci_1_3: "jci1.3:c:BWBR0006567&z=2002-01-01&g=2002-01-01"
+jci_1_0: "1.0:c:BWBR0006567&g=2002-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit integratie-uitkering WUW-middelen gemeentefonds"
+signed_date: "1994-03-29"
+entry_into_force: "1994-06-01"
 ---
-
 # Besluit van 29 maart 1994, houdende toepassing van artikel 38 van de Financiële-Verhoudingswet 1984
 
 Op de voordracht van de Staatssecretaris van Financiën, gedaan mede namens de Staatssecretaris van Binnenlandse Zaken, van 6 december 1993, nr. fip 93/680;
@@ -22,7 +44,7 @@ Gezien het nader rapport van de Staatssecretaris van Financiën, uitgebracht med
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -30,7 +52,7 @@ In dit besluit wordt verstaan onder:
 
 - b. WUW-bijdrage: een specifieke uitkering als bedoeld in artikel 10, eerste lid, juncto artikel 9, eerste lid, van de Wet Uitkeringen Wegen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Aan elk van de gemeenten, genoemd in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006567&bijlage=1&z=2002-01-01&g=2002-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0006567&bijlage=2&z=2002-01-01&g=2002-01-01) en [3 bij dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006567&bijlage=3&z=2002-01-01&g=2002-01-01), wordt, in verband met de geleidelijke toevoeging aan de algemene uitkering van een gedeelte van de middelen gemoeid met de specifieke uitkering op grond van de Wet Uitkeringen Wegen, over de jaren 1993 tot en met 2017 jaarlijks een uitkering uit het Gemeentefonds gedaan.
 
@@ -40,7 +62,7 @@ In dit besluit wordt verstaan onder:
 
 De aanpassingen worden door Onze Ministers vastgesteld.
 
-#### Artikel 3
+##### Artikel 3
 
 1. In [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006567&bijlage=1&z=2002-01-01&g=2002-01-01) bij dit besluit zijn, voor de jaren 1993 tot en met 2017, de bedragen voor de individuele gemeenten opgenomen die gemoeid zijn met de uitkering ter compensatie van het vervallen van de bijdragen in de kosten van rente en afschrijving van kapitaaluitgaven van wegen en veren, als bedoeld in artikel 32, eerste lid, van de Wet.
 
@@ -50,13 +72,13 @@ De aanpassingen worden door Onze Ministers vastgesteld.
 
 4. Indien een gemeente wordt opgeheven en als gevolg daarvan de in het derde lid bedoelde uitkering niet meer kan verstrekken aan de andere onderhoudsplichtigen, wordt een nieuwe beschikking gemaakt voor die gemeente die bij de herindelingsregeling in dit verband als rechtsopvolger wordt aangewezen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. In [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006567&bijlage=2&z=2002-01-01&g=2002-01-01) bij dit besluit zijn voor de jaren 1993 tot en met 1997 de bedragen voor de individuele gemeenten opgenomen die gemoeid zijn met de uitkering ter compensatie van de wegvallende WUW-bijdragen in de kosten van veerverbindingen, als bedoeld in artikel 32, vierde lid, van de Wet.
 
 2. De in het eerste lid bedoelde bijlage bevat tevens de andere onderhoudsplichtigen, waaraan de gemeente over de jaren 1993 tot en met 1997 een uitkering als bedoeld in artikel 32, vijfde lid, van de Wet dient uit te betalen ter compensatie van de wegvallende WUW-bijdragen in de kosten van veerverbindingen, alsmede de desbetreffende bedragen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. In [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006567&bijlage=3&z=2002-01-01&g=2002-01-01) bij dit besluit zijn voor de desbetreffende jaren de bedragen voor de individuele gemeenten opgenomen die gemoeid zijn met de gewenningsbijdrage, bedoeld in het tweede lid.
 
@@ -70,11 +92,11 @@ De aanpassingen worden door Onze Ministers vastgesteld.
 
 6. Indien een gemeente niet in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006567&bijlage=3&z=2002-01-01&g=2002-01-01) is vermeld en van mening is dat zij in aanmerking komt voor een gewenningsbijdrage dan kan deze gemeente daartoe alsnog, binnen zes weken na plaatsing van dit besluit in het **Staatsblad**, een verzoek indienen bij Onze Ministers met gebruikmaking van het door ons verstrekte model. Indien Onze Ministers na indiening van dit verzoek van mening zijn dat de desbetreffende gemeente in aanmerking komt voor een gewenningsbijdrage, dan wordt de hoogte van de gewenningsbijdrage onder inachtneming van het vierde en vijfde lid voor deze gemeente bij ministeriële beschikking vastgesteld. Verzoeken die worden ingediend na zes weken na plaatsing van dit besluit in het **Staatsblad** worden niet in behandeling genomen.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit treedt in werking met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst en wordt voor het eerst toegepast voor het uitkeringsjaar 1993.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit wordt aangehaald als: Besluit integratie-uitkering WUW-middelen Gemeentefonds.
 

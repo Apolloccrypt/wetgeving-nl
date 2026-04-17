@@ -1,14 +1,42 @@
 ---
-title: "Wijzigingswet Wet voorkeursrecht gemeenten (tegengaan ontwijking voorkeursrecht gemeenten bij verwerving onroerende zaken)"
+title: "Wet van 14 juni 2002 tot wijziging van onder anderen de artikelen 10 en 26 van de Wet voorkeursrecht gemeenten in verband met het tegengaan van de ontwijking van het voorkeursrecht van gemeenten bij de verwerving van onroerende zaken"
 identifier: "BWBR0013777"
-categorie: "Bestuursrecht"
-publicatiedatum: 2002-09-01
-laatste_update: 2002-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013777"
+country: "nl"
+rank: "wet"
+publication_date: "2002-09-01"
+last_updated: "2002-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013777"
+soort: "wet"
+stam_id: "1977763"
+version_id: "2929312"
+internal_id: "C2929311"
+label_id: "1926784"
+dtd_version: "2.0"
+original_entry_into_force: "2002-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013777/2002-09-01/0"
+intitule_bron: "Stb.2002-326"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-06-14"
+intitule_published: "2002-06-27"
+intitule_in_force: "2002-06-27"
+intitule_status: "goed"
+original_publication: "Stb.2002-326"
+original_signed_date: "2002-06-14"
+original_published_date: "2002-06-27"
+original_effect: "nieuwe-regeling"
+original_dossier: "27750"
+original_url_id: "stb-2002-326"
+entry_into_force_date: "2002-09-01"
+entry_into_force_dossier: "27750"
+jci_1_3: "jci1.3:c:BWBR0013777&z=2002-09-01&g=2002-09-01"
+jci_1_0: "1.0:c:BWBR0013777&g=2002-09-01"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet Wet voorkeursrecht gemeenten (tegengaan ontwijking voorkeursrecht gemeenten bij verwerving onroerende zaken)"
+signed_date: "2002-06-14"
+entry_into_force: "2002-09-01"
 ---
-
-# Wijzigingswet Wet voorkeursrecht gemeenten (tegengaan ontwijking voorkeursrecht gemeenten bij verwerving onroerende zaken)
+# Wet van 14 juni 2002 tot wijziging van onder anderen de artikelen 10 en 26 van de Wet voorkeursrecht gemeenten in verband met het tegengaan van de ontwijking van het voorkeursrecht van gemeenten bij de verwerving van onroerende zaken
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,11 +44,11 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is het ontwijken van he
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet voorkeursrecht gemeenten.
 
-#### Artikel II
+##### Artikel II
 
 1. Deze wet treedt in werking met ingang van de eerste dag van de derde kalendermaand na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 

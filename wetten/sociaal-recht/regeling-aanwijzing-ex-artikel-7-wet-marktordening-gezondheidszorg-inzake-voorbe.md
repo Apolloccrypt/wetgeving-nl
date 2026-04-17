@@ -1,13 +1,39 @@
 ---
-title: "Regeling aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (inzake voorbereiding ziekenhuiszorg 2009)"
+title: "Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 29 oktober 2007, nr. MC-U-2808582, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake voorbereiding ziekenhuiszorg 2009"
 identifier: "BWBR0023048"
-categorie: "Sociaal recht"
-publicatiedatum: 2007-12-18
-laatste_update: 2007-12-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0023048"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2007-12-18"
+last_updated: "2007-12-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023048"
+soort: "ministeriele-regeling"
+stam_id: "9325543"
+version_id: "14982052"
+internal_id: "C20391631"
+label_id: "9303954"
+dtd_version: "2.0"
+original_entry_into_force: "2007-12-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023048/2007-12-18/0"
+intitule_bron: "Stcrt.2007-245"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-10-29"
+intitule_published: "2007-12-18"
+intitule_in_force: "2007-12-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-245"
+original_signed_date: "2007-10-29"
+original_published_date: "2007-12-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2007-245-p38-SC83458"
+entry_into_force_date: "2007-12-18"
+jci_1_3: "jci1.3:c:BWBR0023048&z=2007-12-18&g=2007-12-18"
+jci_1_0: "1.0:c:BWBR0023048&g=2007-12-18"
+citeertitel_status: "redactioneel"
+short_title: "Regeling aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (inzake voorbereiding ziekenhuiszorg 2009)"
+signed_date: "2007-10-29"
+entry_into_force: "2007-12-18"
 ---
-
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 29 oktober 2007, nr. MC-U-2808582, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake voorbereiding ziekenhuiszorg 2009
 
 Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
@@ -16,11 +42,11 @@ Na schriftelijk mededeling gedaan te hebben aan beide Kamers der Staten-Generaal
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De Nederlandse Zorgautoriteit, verder te noemen de zorgautoriteit, treft voorbereidingen ten behoeve van de wijziging van de bekostiging van zorg als bedoeld in de bijlage bij deze aanwijzing. De zorgautoriteit werkt ten behoeve van die wijziging en voor zover van toepassing het kader zoals geschetst in de bijlage uit. De zorgautoriteit werkt voor zover mogelijk de bekostigingsprincipes uit in beleidsregels binnen het kader zoals geschetst in de bijlage. De zorgautoriteit rapporteert en signaleert de minister over die onderwerpen waarover zij in de bijlage expliciet een rapportage of signalement wordt gevraagd.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze aanwijzing treedt terstond in werking en wordt met de toelichting en bijbehorende bijlage in de Staatscourant geplaatst.
 

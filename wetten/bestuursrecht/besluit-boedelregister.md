@@ -1,13 +1,39 @@
 ---
-title: "Besluit boedelregister"
+title: "Besluit van 11 december 2002, houdende regelen betreffende de inrichting en raadpleging van het boedelregister, bedoeld in artikel 186 van Boek 4 van het Burgerlijk Wetboek (Besluit boedelregister)"
 identifier: "BWBR0014438"
-categorie: "Bestuursrecht"
-publicatiedatum: 2015-08-17
-laatste_update: 2015-08-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0014438"
+country: "nl"
+rank: "amvb"
+publication_date: "2015-08-17"
+last_updated: "2015-08-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0014438"
+soort: "AMvB"
+stam_id: "3258733"
+version_id: "5016862"
+internal_id: "C5078471"
+label_id: "3238774"
+dtd_version: "2.0"
+original_entry_into_force: "2003-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0014438/2015-08-17/0"
+intitule_bron: "Stb.2002-608"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-12-11"
+intitule_published: "2002-12-17"
+intitule_in_force: "2002-12-17"
+intitule_status: "goed"
+original_publication: "Stb.2002-608"
+original_signed_date: "2002-12-11"
+original_published_date: "2002-12-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2002-608"
+entry_into_force_date: "2003-01-01"
+jci_1_3: "jci1.3:c:BWBR0014438&z=2015-08-17&g=2015-08-17"
+jci_1_0: "1.0:c:BWBR0014438&g=2015-08-17"
+citeertitel_status: "officieel"
+short_title: "Besluit boedelregister"
+signed_date: "2002-12-11"
+entry_into_force: "2003-01-01"
 ---
-
 # Besluit van 11 december 2002, houdende regelen betreffende de inrichting en raadpleging van het boedelregister, bedoeld in artikel 186 van Boek 4 van het Burgerlijk Wetboek (Besluit boedelregister)
 
 Op de voordracht van Onze Minister van Justitie van 23 oktober 2002, Directie Wetgeving, nr. 5191276/02/6;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister van Justitie van 9 december 2002, Dir
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor een inschrijving in het boedelregister, bedoeld in [artikel 186 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=186), moeten de volgende stukken aan de griffier worden overgelegd, dan wel, in de gevallen bedoeld onder b, d, f, g, h, k en m aan de griffier ter beschikking staan:
 
@@ -50,11 +76,11 @@ Voor een inschrijving in het boedelregister, bedoeld in [artikel 186 van Boek 4 
 
 - m. ter inschrijving van de verklaring van aanvaarding dan wel verwerping van een legaat, bedoeld in artikel 13 van de verordening (EU) nr. 650/2012 van het Europees Parlement en de Raad van 4 juli 2012 betreffende de bevoegdheid, het toepasselijke recht, de erkenning en de tenuitvoerlegging van beslissingen en de aanvaarding en de tenuitvoerlegging van authentieke akten op het gebied van erfopvolging, alsmede betreffende de instelling van een Europese erfrechtverklaring (PBEU 2012, L 201): de in [artikel 3 lid 1, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0014438&artikel=3&z=2015-08-17&g=2015-08-17), bedoelde akte, alsmede de volmacht, indien deze akte bij volmacht wordt ondertekend.
 
-#### Artikel 2
+##### Artikel 2
 
 De in [artikel 1, onder b, f, h en k](https://wetten.overheid.nl/jci1.3:c:BWBR0014438&artikel=1&z=2015-08-17&g=2015-08-17) bedoelde feiten worden door de griffier ambtshalve in het boedelregister ingeschreven.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De griffier maakt een akte op van:
 
@@ -68,7 +94,7 @@ Degene die de verklaring aflegt in persoon of bij gevolmachtigde ondertekent de 
 
 2. Indien een in het eerste lid bedoelde verklaring bij gevolmachtigde is ondertekend, wordt de volmacht aan de akte gehecht.
 
-#### Artikel 4
+##### Artikel 4
 
 1. In het boedelregister worden uitsluitend in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014438&artikel=1&z=2015-08-17&g=2015-08-17) genoemde feiten ingeschreven die betrekking hebben op nalatenschappen van erflaters die hun laatste woonplaats hebben in het arrondissement van de desbetreffende rechtbank.
 
@@ -76,29 +102,29 @@ Degene die de verklaring aflegt in persoon of bij gevolmachtigde ondertekent de 
 
 3. Kan een in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014438&artikel=1&z=2015-08-17&g=2015-08-17) genoemd feit niet op grond van vorenstaande leden worden ingeschreven, dan wordt het ingeschreven in het boedelregister gehouden door de griffier van de rechtbank Den Haag.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het boedelregister wordt gehouden in elektronische vorm, en is een van de overige onderdelen afgescheiden onderdeel van het landelijke geautomatiseerde processysteem voor civiele procedures bij de rechtbanken.
 
 2. Inschrijving geschiedt door het vastleggen van het desbetreffende feit in bedoeld onderdeel van het processysteem, en wel op zodanige wijze dat het verband met de desbetreffende nalatenschap en met andere ingeschreven op de nalatenschap betrekking hebbende feiten terstond kan worden gelegd en het verlenen van inzage in of het verstrekken van een uittreksel uit het boedelregister terstond kan plaatsvinden. Elke inschrijving wordt van een dagtekening voorzien.
 
-#### Artikel 6
+##### Artikel 6
 
 De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014438&artikel=1&z=2015-08-17&g=2015-08-17) genoemde stukken die voor een inschrijving in het boedelregister dienen te worden overgelegd of ter beschikking dienen te staan, maken geen deel uit van het boedelregister. Zij worden ter griffie van de rechtbank zodanig bewaard, dat het verband met de op grond daarvan ingeschreven feiten kan worden gelegd.
 
-#### Artikel 7
+##### Artikel 7
 
 De griffier is verplicht aan eenieder kosteloos inzage in het boedelregister te verstrekken. Het verzoek daartoe dient op een bepaalde nalatenschap betrekking te hebben. De griffier is, met inachtneming van de vorige volzin, voorts verplicht om met betrekking tot een of meer der in het boedelregister ingeschreven en door de verzoeker aangegeven feiten, een uittreksel uit het boedelregister te verstrekken, zulks met inachtneming van het bij of krachtens de [Wet griffierechten burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0028899) bepaalde.
 
-#### Artikel 8
+##### Artikel 8
 
 Indien aan de griffier een verzoek als in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0014438&artikel=7&z=2015-08-17&g=2015-08-17) bedoeld wordt gedaan en de nalatenschap voor het tijdstip van inwerkingtreding van dit besluit is opengevallen, gaat de griffier ambtshalve na of terzake van die nalatenschap feiten zijn ingeschreven in het daartoe bestemde register, bedoeld in [artikel 1070 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=1070) zoals dat voor genoemd tijdstip gold.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit treedt in werking met ingang van 1 januari 2003. Indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven na 31 december 2002, treedt het in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, en werkt het terug tot en met 1 januari 2003.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit boedelregister.
 

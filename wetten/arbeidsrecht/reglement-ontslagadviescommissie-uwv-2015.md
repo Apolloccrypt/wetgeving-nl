@@ -1,20 +1,45 @@
 ---
 title: "Reglement ontslagadviescommissie UWV 2015"
 identifier: "BWBR0036972"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2015-09-02
-laatste_update: 2015-09-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036972"
+country: "nl"
+rank: "zbo"
+publication_date: "2015-09-02"
+last_updated: "2015-09-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036972"
+soort: "zbo"
+stam_id: "13250073"
+version_id: "22665102"
+internal_id: "C32494521"
+label_id: "13218214"
+dtd_version: "2.0"
+original_entry_into_force: "2015-09-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036972/2015-09-02/0"
+intitule_bron: "Stcrt.2015-27412"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-08-18"
+intitule_published: "2015-09-01"
+intitule_in_force: "2015-09-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-27412"
+original_signed_date: "2015-08-18"
+original_published_date: "2015-09-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-27412"
+entry_into_force_date: "2015-09-02"
+jci_1_3: "jci1.3:c:BWBR0036972&z=2015-09-02&g=2015-09-02"
+jci_1_0: "1.0:c:BWBR0036972&g=2015-09-02"
+citeertitel_status: "officieel"
+signed_date: "2015-08-18"
+entry_into_force: "2015-09-02"
 ---
-
 # Reglement ontslagadviescommissie UWV 2015
 
 Gelet op [artikel 1, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0036593&artikel=1), jo [artikel 6, van de Regeling UWV ontslagprocedure](https://wetten.overheid.nl/jci1.3:c:BWBR0036593&artikel=6);
 
 Besluit:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 In dit besluit wordt verstaan onder:
 
@@ -38,19 +63,19 @@ In dit besluit wordt verstaan onder:
 
 - j. **Voorzitter:** de medewerker van AJD die de vergadering van de kamer technisch leidt;
 
-#### Artikel 2. Instelling
+##### Artikel 2. Instelling
 
 1. UWV stelt de ontslagadviescommissie samen en regelt haar werkwijze.
 
 2. UWV bepaalt het aantal leden van de ontslagadviescommissie.
 
-#### Artikel 3. Taak
+##### Artikel 3. Taak
 
 1. De ontslagadviescommissie heeft tot taak om – desgevraagd – UWV in individuele gevallen te adviseren over verzoeken om toestemming om de arbeidsovereenkomst op te zeggen vanwege bedrijfseconomische redenen. UWV vraagt de ontslagadviescommissie om advies indien ten aanzien van een verzoek om toestemming waar onduidelijkheid bestaat over de toepassing van de regels bij de beslissing die genomen moet worden en daar waar (sector)specifieke kennis waarover de leden van deze commissie uit hoofde van hun hoedanigheid beschikken, noodzakelijk is voor het kunnen beoordelen van het verzoek. Advies wordt alleen ingewonnen in situaties van ontslag om bedrijfseconomische redenen.
 
 2. De ontslagadviescommissie neemt bij haar adviezen het Burgerlijk Wetboek, de [Ontslagregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036599), de [Regeling UWV ontslagprocedure](https://wetten.overheid.nl/jci1.3:c:BWBR0036593) en de door UWV vastgestelde uitvoeringsregels in acht.
 
-#### Artikel 4. Samenstelling en benoemingsvereisten
+##### Artikel 4. Samenstelling en benoemingsvereisten
 
 1. De ontslagcommissie bestaat uit vertegenwoordigers van werkgevers- en werknemersorganisaties.
 
@@ -80,13 +105,13 @@ In dit besluit wordt verstaan onder:
 
 8. Het voorgaande lid is eveneens van toepassing op personen die, buiten dienstverband met UWV, werkzaamheden voor UWV verrichten die vergelijkbaar zijn met de werkzaamheden die gewoonlijk door werknemers van UWV worden verricht.
 
-#### Artikel 5. Benoeming, termijn
+##### Artikel 5. Benoeming, termijn
 
 1. Een lid van de ontslagadviescommissie wordt door UWV benoemd. UWV maakt de benoeming bekend aan het lid en de voordragende organisatie.
 
 2. De benoeming geschiedt voor de duur van ten hoogste vier jaar. Een aftredend lid is terstond herbenoembaar.
 
-#### Artikel 6. Tussentijds ontslag en schorsing
+##### Artikel 6. Tussentijds ontslag en schorsing
 
 1. UWV verleent een lid van de ontslagadviescommissie tussentijds ontslag:
 
@@ -102,11 +127,11 @@ In dit besluit wordt verstaan onder:
 
 4. UWV kan een lid van de ontslagadviescommissie schorsen in afwachting van een beslissing in de zin van het tweede lid.
 
-#### Artikel 7. Vacatiegeld
+##### Artikel 7. Vacatiegeld
 
 Een lid van de ontslagadviescommissie ontvangt per deelname aan een vergadering van een kamer een vacatiegeld en een vergoeding voor reiskosten. De hoogte van het vacatiegeld en de reiskosten worden door UWV bij separaat besluit vastgesteld. Ter vergadering tekent het lid de presentielijst.
 
-#### Artikel 8. Kamer
+##### Artikel 8. Kamer
 
 1. De advisering in een ontslagzaak vindt plaats door een kamer.
 
@@ -114,7 +139,7 @@ Een lid van de ontslagadviescommissie ontvangt per deelname aan een vergadering 
 
 3. UWV kan besluiten een extra vergadering te houden of een vergadering te laten vervallen.
 
-#### Artikel 9. Voorbereiding vergaderingen
+##### Artikel 9. Voorbereiding vergaderingen
 
 1. UWV stelt de leden van de kamer tijdig in de gelegenheid kennis te nemen van de door AJD voor advies geformuleerde vraagstelling en van de dossiers van de verzoeken om toestemming waarin advies wordt gevraagd.
 
@@ -124,7 +149,7 @@ Een lid van de ontslagadviescommissie ontvangt per deelname aan een vergadering 
 
 4. Bij verhindering meldt het lid dit zo tijdig mogelijk aan UWV. UWV draagt zorg voor een vervanger.
 
-#### Artikel 10. Advisering
+##### Artikel 10. Advisering
 
 1. De kamer brengt advies uit in een vergadering waarbij beide leden alsmede de voorzitter aanwezig zijn. Onder een vergadering wordt mede verstaan vergaderingen via telefoon, conference calls en soortgelijke voorzieningen. In bijzondere omstandigheden kan ook op andere wijze vergaderd worden indien uitstel van de advisering onevenredig bezwarend is voor werkgever of werknemer. De voorzitter heeft alleen een informerende inbreng in het door de kamer uit te brengen advies.
 
@@ -134,11 +159,11 @@ Een lid van de ontslagadviescommissie ontvangt per deelname aan een vergadering 
 
 4. De kamer brengt het advies uit aan de beslissingsbevoegde via de voorzitter.
 
-#### Artikel 11. Beslissing
+##### Artikel 11. Beslissing
 
 De beslissingsbevoegde neemt, na ontvangst van het advies van de kamer, de beslissing op het verzoek om toestemming.
 
-#### Artikel 12. Procedure bij verdeeld advies, geen advies mogelijk, afwijking unaniem advies
+##### Artikel 12. Procedure bij verdeeld advies, geen advies mogelijk, afwijking unaniem advies
 
 1. Indien de kamer een verdeeld advies geeft, kan de beslissingsbevoegde, alvorens op de aanvraag te beslissen, advies vragen aan de landelijk manager AJD. Deze zal binnen 7 werkdagen advies geven. UWV draagt er zorg voor dat de leden van de kamer van het advies in kennis worden gesteld.
 
@@ -146,31 +171,31 @@ De beslissingsbevoegde neemt, na ontvangst van het advies van de kamer, de besli
 
 3. Indien de kamer een unaniem advies geeft en de beslissingsbevoegde het voornemen heeft hiervan af te wijken, vraagt deze, alvorens op de aanvraag te beslissen, advies aan de landelijk manager AJD. Deze zal binnen 7 werkdagen advies geven. UWV draagt er zorg voor dat de leden van de kamer van het advies in kennis worden gesteld.
 
-#### Artikel 13. Verschoning
+##### Artikel 13. Verschoning
 
 1. Een lid van de ontslagadviescommissie adviseert niet in een zaak waarbij hij op enigerlei wijze betrokken is of is geweest zodat van een onafhankelijke advisering geen sprake kan zijn, dan wel dat de schijn zou kunnen bestaan dat van een onafhankelijke advisering geen sprake kan zijn. Om dit te waarborgen verstrekt een lid aan UWV gegevens over zijn functie(s), waarbij zich mogelijkerwijze een dergelijke situatie zou kunnen voordoen.
 
 2. De voorzitter zit geen vergadering voor waarin advies wordt uitgebracht over een aanvraag waarin hij als behandelend medewerker optreedt.
 
-#### Artikel 14. Vernietiging afschriften dossiers
+##### Artikel 14. Vernietiging afschriften dossiers
 
 Na behandeling in de kamer worden de aan de leden toegezonden afschriften van de dossiers door UWV vernietigd.
 
-#### Artikel 15. Informatieverstrekking
+##### Artikel 15. Informatieverstrekking
 
 UWV draagt zorg voor tijdige informatie aan de ontslagadviescommissie over wijzigingen in relevante wet- en regelgeving en voor overige informatie met betrekking tot de preventieve ontslagtoets.
 
-#### Artikel 16. Intrekking en overgangsrecht
+##### Artikel 16. Intrekking en overgangsrecht
 
 1. Het [Reglement ontslagadviescommissies UWV 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0026876) wordt ingetrokken.
 
 2. De bepalingen van het [Reglement ontslagadviescommissies UWV 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0026876) blijven van kracht voor de advisering door de ontslagadviescommissies over de te nemen beslissingen ter zake van verzoeken om toestemming te verlenen om de arbeidsverhouding te beëindigen zoals die zijn ingediend vóór 1 juli 2015.
 
-#### Artikel 17
+##### Artikel 17
 
 Dit besluit wordt aangehaald als: Reglement ontslagadviescommissie UWV 2015.
 
-#### Artikel 18
+##### Artikel 18
 
 Dit besluit treedt in werking met ingang de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 juli 2015.
 

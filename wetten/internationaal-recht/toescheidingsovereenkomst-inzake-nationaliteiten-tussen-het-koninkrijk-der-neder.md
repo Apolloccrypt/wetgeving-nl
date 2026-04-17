@@ -1,13 +1,35 @@
 ---
 title: "Toescheidingsovereenkomst inzake nationaliteiten tussen het Koninkrijk der Nederlanden en de Republiek Suriname"
 identifier: "BWBV0003487"
-categorie: "Internationaal recht"
-publicatiedatum: 1995-12-01
-laatste_update: 1995-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003487"
+country: "nl"
+rank: "verdrag"
+publication_date: "1995-12-01"
+last_updated: "1995-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003487"
+soort: "verdrag"
+stam_id: "10003559733"
+version_id: "10003615572"
+internal_id: "C10006982511"
+label_id: "10003545194"
+dtd_version: "2.0"
+original_entry_into_force: "1975-11-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003487/1995-12-01/0"
+intitule_bron: "Trb.1975-132"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1975-11-25"
+intitule_in_force: "1975-11-25"
+intitule_status: "goed"
+original_publication: "Trb.1975-132"
+original_published_date: "1975-11-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1975-132"
+entry_into_force_date: "1975-11-25"
+jci_1_3: "jci1.3:c:BWBV0003487&z=1995-12-01&g=1995-12-01"
+jci_1_0: "1.0:c:BWBV0003487&g=1995-12-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1975-11-25"
 ---
-
 # Toescheidingsovereenkomst inzake nationaliteiten tussen het Koninkrijk der Nederlanden en de Republiek Suriname
 
 De Regering van het Koninkrijk der Nederlanden en
@@ -18,7 +40,7 @@ Overwegende dat het wenselijk is dat er in verband met het onafhankelijk worden 
 
 zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Meerderjarig in de zin van deze Overeenkomst zijn zij die de leeftijd van 18 jaar hebben bereikt of vroeger in het huwelijk zijn getreden.
 
@@ -26,17 +48,17 @@ zijn het volgende overeengekomen:
 
 3. Voor de toepassing van deze Overeenkomst wordt een in Suriname gevonden of verlaten kind geacht te zijn geboren uit aldaar geboren ouders.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het verkrijgen van de Surinaamse nationaliteit ingevolge deze Overeenkomst heeft verlies van het Nederlanderschap tot gevolg.
 
 2. Het verkrijgen van het Nederlanderschap ingevolge deze Overeenkomst heeft verlies van de Surinaamse nationaliteit tot gevolg.
 
-#### Artikel 3
+##### Artikel 3
 
 De Surinaamse nationaliteit verkrijgen alle meerderjarige Nederlanders die in Suriname zijn geboren en op het tijdstip van de inwerkingtreding van deze Overeenkomst in de Republiek Suriname hetzij woonplaats, hetzij werkelijk verblijf hebben.
 
-#### Artikel 4
+##### Artikel 4
 
 De Surinaamse nationaliteit verkrijgen voorts alle meerderjarige Nederlanders die, buiten Suriname geboren zijnde, op het tijdstip van de inwerkingtreding van deze Overeenkomst in de Republiek Suriname hetzij woonplaats, hetzij werkelijk verblijf hebben, indien
 
@@ -50,7 +72,7 @@ De Surinaamse nationaliteit verkrijgen voorts alle meerderjarige Nederlanders di
 
 - 3. in verband met het huwelijk met een Nederlander, van rechtswege dan wel door het doen van een kennisgeving, en op het tijdstip van de huwelijkssluiting hetzij woonplaats, hetzij werkelijk verblijf in Suriname hadden.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Meerderjarige Nederlanders die in Suriname zijn geboren of die, buiten Suriname geboren zijnde, behoren tot een van de in artikel 4 onder b omschreven groepen van personen en die op het tijdstip van de inwerkingtreding van deze Overeenkomst buiten de Republiek Suriname hetzij woonplaats, hetzij werkelijk verblijf hebben, verkrijgen, ook buiten de Republiek Suriname, de Surinaamse nationaliteit door voor 1 januari 1986 hun wil daartoe te kennen te geven.
 
@@ -60,7 +82,7 @@ De Surinaamse nationaliteit verkrijgen voorts alle meerderjarige Nederlanders di
 
 4. Aan de in de voorgaande leden bedoelde personen kunnen, zolang zij het Nederlanderschap bezitten, geen rechten worden verleend of verplichtingen worden opgelegd welke onverenigbaar zijn met het Nederlanderschap.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Behoudens het in het tweede lid bepaalde volgen minderjarigen de nationaliteit van hun vader of, indien deze overleden of wettelijk onbekend is, die van hun moeder.
 
@@ -72,13 +94,13 @@ De Surinaamse nationaliteit verkrijgen voorts alle meerderjarige Nederlanders di
 
 5. Buiten Suriname geboren minderjarigen van wie de moeder eveneens buiten Suriname als Nederlander geboren is, die op het tijdstip van de inwerkingtreding van deze Overeenkomst in de Republiek Suriname hetzij woonplaats, hetzij werkelijk verblijf hebben en het Nederlanderschap hebben verloren ingevolge het eerste lid, herkrijgen die hoedanigheid door binnen vijf jaar na het bereiken van de meerderjarigheid hun wil daartoe te kennen te geven.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Indien ingevolge deze Overeenkomst de nationaliteit van een echtgenoot wordt gewijzigd, heeft elk der echtelieden de bevoegdheid de nationaliteit van de andere echtgenoot te verkrijgen door binnen vijf jaar na die wijziging de wil daartoe te kennen te geven, mits de echtelieden op de dag van de kennisgeving beiden woonplaats of werkelijk verblijf hebben in hetzelfde land.
 
 2. Personen als in het eerste lid bedoeld die een kennisgeving als daar bedoeld hebben gedaan, herkrijgen na de ontbinding van het huwelijk of de nietigverklaring daarvan de nationaliteit die zij onmiddellijk voor het doen van die kennisgeving bezaten, door binnen drie jaar na de ontbinding of nietigverklaring van het huwelijk hun wil daartoe te kennen te geven.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Zij die ingevolge deze Overeenkomst de Surinaamse nationaliteit verkrijgen en op het tijdstip van de inwerkingtreding daarvan een publiekrechtelijk dienstverband bezitten met Nederland of de Nederlandse Antillen, herkrijgen het Nederlanderschap te rekenen van dat tijdstip door binnen één jaar daarna hun wil daartoe te kennen te geven.
 
@@ -86,15 +108,15 @@ De Surinaamse nationaliteit verkrijgen voorts alle meerderjarige Nederlanders di
 
 3. Deze kennisgevingen kunnen niet meer worden gedaan nadat het dienstverband is beëindigd.
 
-#### Artikel 9
+##### Artikel 9
 
 Nederlanders die op het tijdstip van de inwerkingtreding van deze Overeenkomst in de Republiek Suriname woonplaats hebben en die ingevolge deze Overeenkomst de Surinaamse nationaliteit niet hebben verkregen, verkrijgen die hoedanigheid door binnen drie jaar na de inwerkingtreding van deze Overeenkomst hun wil daartoe te kennen te geven, mits zij op de dag van de kennisgeving in de Republiek Suriname woonplaats hebben en meerderjarig zijn.
 
-#### Artikel 10
+##### Artikel 10
 
 Zij die de Surinaamse nationaliteit ontlenen aan artikel 3 van deze Overeenkomst en van wie de vader of, indien deze wettelijk onbekend is, de moeder buiten Suriname als Nederlander is geboren, herkrijgen het Nederlanderschap te rekenen van het tijdstip van de inwerkingtreding van deze Overeenkomst door binnen één jaar hun wil daartoe te kennen te geven.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Kennisgevingen als bedoeld in deze Overeenkomst kunnen worden gedaan:
 
@@ -112,11 +134,11 @@ Zij die de Surinaamse nationaliteit ontlenen aan artikel 3 van deze Overeenkomst
 
 4. Van alle kennisgevingen wordt onverwijld afschrift gezonden aan de Minister van Justitie in Nederland, in de Nederlandse Antillen en in de Republiek Suriname.
 
-#### Artikel 12
+##### Artikel 12
 
 Vraagstukken welke bij de toepassing van deze Overeenkomst mochten rijzen worden in onderling overleg tussen de administraties van de beide landen van het Koninkrijk en van de Republiek Suriname opgelost, onverminderd de bevoegdheid van de bevoegde rechter in elk van de beide landen van het Koninkrijk en in de Republiek Suriname volgens de daar bestaande wetgeving een beslissing te geven.
 
-#### Artikel 13
+##### Artikel 13
 
 De onderhavige Overeenkomst treedt in werking op 25 november 1975.
 

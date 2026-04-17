@@ -1,13 +1,39 @@
 ---
-title: "Regeling risicoverevening 2017"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 23 september 2016, kenmerk 839984-141498-Z, houdende bepalingen omtrent de in de Zorgverzekeringswet bedoelde vereveningsbijdrage voor het jaar 2017 (Regeling risicoverevening 2017)"
 identifier: "BWBR0038554"
-categorie: "Overig"
-publicatiedatum: 2017-10-10
-laatste_update: 2017-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038554"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-10-10"
+last_updated: "2017-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038554"
+soort: "ministeriele-regeling"
+stam_id: "13757123"
+version_id: "23584052"
+internal_id: "C33953031"
+label_id: "13723694"
+dtd_version: "2.0"
+original_entry_into_force: "2016-09-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038554/2017-10-10/0"
+intitule_bron: "Stcrt.2016-50466"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-09-23"
+intitule_published: "2016-09-27"
+intitule_in_force: "2016-09-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-50466"
+original_signed_date: "2016-09-23"
+original_published_date: "2016-09-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-50466"
+entry_into_force_date: "2016-09-30"
+jci_1_3: "jci1.3:c:BWBR0038554&z=2017-10-10&g=2017-10-10"
+jci_1_0: "1.0:c:BWBR0038554&g=2017-10-10"
+citeertitel_status: "officieel"
+short_title: "Regeling risicoverevening 2017"
+signed_date: "2016-09-23"
+entry_into_force: "2016-09-30"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 23 september 2016, kenmerk 839984-141498-Z, houdende bepalingen omtrent de in de Zorgverzekeringswet bedoelde vereveningsbijdrage voor het jaar 2017 (Regeling risicoverevening 2017)
 
 Gelet op [artikel 32, vierde lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=32) en de [artikelen 1, onderdelen i, j, k en aa](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1), [3.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.1), [3.2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.2), [3.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.4), [3.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.6), [3.7a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.7a), [3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.8), [3.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.10), [3.11, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.11), [3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.12), [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.13), [3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.14), [3.15](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.15), [3.19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.19), en [3.22, tweede lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.22);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Definities en algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -24,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 - b. **ZVZ:** zorgvraagzwaarte, een vereveningscriterium op grond waarvan verzekerden worden ingedeeld in klassen op basis van de zwaarte van hun zorgvraag.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het macro-prestatiebedrag voor het jaar 2017 bedraagt € 43.952,9 miljoen.
 
@@ -38,33 +64,33 @@ In deze regeling wordt verstaan onder:
 
 - d. het macro-deelbedrag kosten van langdurige geestelijke gezondheidszorg ad € 209,1 miljoen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De opbrengst van de nominale rekenpremie wordt voor het jaar 2017 geraamd op € 18.095,9 miljoen.
 
 2. De opbrengst van het verplicht eigen risico wordt voor het jaar 2017 geraamd op € 3.187,1 miljoen.
 
-#### Artikel 4
+##### Artikel 4
 
 De beschikbare middelen voor het verstrekken van de bijdragen aan zorgverzekeraars, bedoeld in [artikel 32, vierde lid, onderdeel a, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=32), omvatten voor het jaar 2017, naast de middelen, bedoeld in [§ 1.5 van hoofdstuk 3 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&sub-paragraaf=1.5), een bedrag van € 22.669,8 miljoen.
 
 ### Hoofdstuk 2. Regels ten behoeve van de toekenning van de vereveningsbijdrage (ex ante) aan een zorgverzekeraar
 
-#### Artikel 5
+##### Artikel 5
 
 1. De verdeling van het macro-deelbedrag kosten van geneeskundige geestelijke gezondheidszorg, bedoeld in [artikel 3.6 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.6), geschiedt ten behoeve van het vereveningsjaar 2017 mede aan de hand van de verzekerdenaantallen per zorgverzekeraar verdeeld naar ZVZ.
 
 2. De verdeling van het macro-deelbedrag kosten van langdurige geestelijke gezondheidszorg, bedoeld in [artikel 3.7a van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.7a), geschiedt ten behoeve van het vereveningsjaar 2017 mede aan de hand van de verzekerdenaantallen per zorgverzekeraar verdeeld naar ZVZ.
 
-#### Artikel 6
+##### Artikel 6
 
 De klassen en gewichten, bedoeld in de [artikelen 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.4), [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.6) en [3.7a van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.7a), en de klassen en gewichten die aan het criterium, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038554&hoofdstuk=2&artikel=5&z=2017-10-10&g=2017-10-10) worden toegekend, zijn vermeld in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038554&bijlage=1&z=2017-10-10&g=2017-10-10) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0038554&bijlage=2&z=2017-10-10&g=2017-10-10).
 
-#### Artikel 7
+##### Artikel 7
 
 In afwijking van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0038554&hoofdstuk=2&artikel=6&z=2017-10-10&g=2017-10-10) en [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038554&bijlage=1&z=2017-10-10&g=2017-10-10), tabellen 1.2, 1.3, 1.4, 1.10, 1.11 en 1.12, en [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038554&bijlage=2&z=2017-10-10&g=2017-10-10), tabellen 2.2, 2.3, 2.9 en 2.10, wordt een verzekerde die in het buitenland woont ingedeeld in de klassen ‘Geen FKG’, ‘Geen DKG’, ‘Geen HKG’, ’Geen FDG’, ‘Geen VGG’, ‘Geen GGG’, ‘Geen FKG psychische aandoeningen’, ‘Geen DKG psychische aandoeningen’, ‘Geen ZVZ’ en ‘Geen IGG’ waarbij voor hem het gewicht van die klassen door het Zorginstituut wordt vastgesteld op een percentage van de gewichten van de desbetreffende klassen zoals deze op grond van de genoemde tabellen voor in Nederland wonende verzekerden gelden.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De nominale rekenpremie per jaar bedraagt € 1.326 per zorgverzekering waarvoor premie moet worden betaald.
 
@@ -72,7 +98,7 @@ In afwijking van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0038554&hoo
 
 3. Het Zorginstituut raamt het aantal zorgverzekeringen waarvoor premie moet worden betaald, bedoeld in het tweede lid, door het geraamde aantal zorgverzekeringen van verzekerden van achttien jaar en ouder bij een zorgverzekeraar, te verminderen met het geraamde aantal zorgverzekeringen van verzekerden, bedoeld in [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24).
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het Zorginstituut raamt de opbrengst van het verplicht eigen risico per zorgverzekeraar, bedoeld in [artikel 3.10, tweede lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.10), door het geraamde aantal verzekerden van achttien jaar en ouder, te verminderen met het geraamde aantal verzekerden, bedoeld in [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24), en het resultaat te vermenigvuldigen met de geraamde opbrengst van het verplicht eigen risico per verzekerde.
 
@@ -80,7 +106,7 @@ In afwijking van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0038554&hoo
 
 3. De geraamde opbrengst per verzekerde, bedoeld in het eerste lid, bedraagt € 349,27 voor verzekerden van achttien jaar of ouder waarop het tweede lid niet van toepassing is.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het Zorginstituut wijst bij samenloop van klassen alleen de hoogste klasse toe.
 
@@ -144,13 +170,13 @@ In afwijking van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0038554&hoo
 
 ### Hoofdstuk 3. Regels ten behoeve van de vaststelling van de vereveningsbijdrage (ex post) ten behoeve van een zorgverzekeraar
 
-#### Artikel 11
+##### Artikel 11
 
 1. Een verzekerde die slechts gedurende een deel van het vereveningsjaar bij een zorgverzekeraar verzekerd was, telt voor het vaststellen van de vereveningsbijdrage voor die zorgverzekeraar mee in een mate die bepaald wordt door het aantal dagen dat hij in dat jaar bij die zorgverzekeraar verzekerd was te delen door het aantal dagen in dat jaar.
 
 2. Indien een verzekerde gedurende een aantal dagen van het vereveningsjaar bij meer dan één zorgverzekeraar verzekerd was, telt hij voor het vaststellen van de vereveningsbijdrage over die periode mee in een mate die bepaald wordt door het getal 1 te delen door het aantal zorgverzekeraars waarbij hij in die periode verzekerd was.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Nadat het Zorginstituut de gerealiseerde kosten op de in de [artikelen 13 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0038554&hoofdstuk=3&artikel=13&z=2017-10-10&g=2017-10-10) beschreven wijze heeft toegedeeld, herberekent het Zorginstituut voor de clusters ‘variabele zorgkosten’, ‘kosten van geneeskundige geestelijke gezondheidszorg’ en ‘kosten van langdurige geestelijke gezondheidszorg’ de relevante deelbedragen.
 
@@ -204,7 +230,7 @@ In afwijking van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0038554&hoo
 
 7. Het Zorginstituut gebruikt bij de herberekening, bedoeld in het eerste lid, de referentiebestanden, bedoeld in [artikel 10, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038554&hoofdstuk=2&artikel=10&z=2017-10-10&g=2017-10-10).
 
-#### Artikel 13
+##### Artikel 13
 
 1. Het Zorginstituut merkt kosten als bedoeld in [artikel 3.13 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.13), voor prestaties van grensoverschrijdende zorg die zodanig zijn gespecificeerd, dat:
 
@@ -218,19 +244,19 @@ In afwijking van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0038554&hoo
 
 2. Het Zorginstituut merkt kosten voor prestaties van grensoverschrijdende zorg die gemaakt zijn met toepassing van internationale regelingen inzake sociale zekerheid, aan als kosten van het cluster ‘variabele zorgkosten’.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Met uitzondering van betalingen uit hoofde van een verplicht of vrijwillig eigen risico, deelt het Zorginstituut zorgkosten die voor rekening komen van de verzekerden niet toe aan een cluster van prestaties.
 
 2. Het Zorginstituut deelt renteheffingskosten niet toe aan een cluster van prestaties.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Het Zorginstituut merkt de kosten van prestaties, geleverd door instellingen die meedoen aan experimenten in de zin van de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078), voor een door hem per instelling vast te stellen percentage aan als kosten van het cluster ‘variabele zorgkosten’.
 
 2. Het Zorginstituut merkt de kosten van de Stichting Kinderoncologie Nederland en van de Nederlandse Transplantatiestichting voor 75 procent aan als kosten van het cluster ‘variabele zorgkosten’.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Het Zorginstituut merkt de kosten van prestaties, geleverd door instellingen die meedoen aan experimenten in de zin van de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078), voor een door hem per instelling voor medisch-specialistisch zorg vast te stellen percentage aan als kosten van het cluster ‘vaste zorgkosten’.
 
@@ -244,37 +270,37 @@ In afwijking van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0038554&hoo
 
 6. Het Zorginstituut calculeert 100 procent na op het verschil tussen de kosten van het cluster ‘vaste zorgkosten’, vastgesteld ingevolge het eerste tot en met vijfde lid enerzijds, en het herberekende deelbedrag ‘vaste zorgkosten’ na toepassing van [artikel 3.15, tweede lid van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.15).
 
-#### Artikel 17
+##### Artikel 17
 
 1. De opbrengst van de nominale rekenpremie, bedoeld in [artikel 3.19, tweede lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.19), wordt berekend overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0038554&hoofdstuk=2&artikel=8&z=2017-10-10&g=2017-10-10), met dien verstande, dat wordt uitgegaan van het gerealiseerde aantal zorgverzekeringen waarvoor premie moest worden betaald.
 
 2. De opbrengst van het verplicht eigen risico, bedoeld in [artikel 3.19, tweede lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.19), wordt berekend overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0038554&hoofdstuk=2&artikel=9&z=2017-10-10&g=2017-10-10), met dien verstande, dat wordt uitgegaan van het gerealiseerde aantal verzekerden van achttien jaar en ouder verminderd met het gerealiseerde aantal verzekerden, bedoeld in [artikel 24, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24).
 
-#### Artikel 18
+##### Artikel 18
 
 [Artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0038554&hoofdstuk=2&artikel=10&z=2017-10-10&g=2017-10-10) is van overeenkomstige toepassing bij de vaststelling van de vereveningsbijdrage ten behoeve van een zorgverzekeraar.
 
 ### Hoofdstuk 4. Aanvullingen op de vereveningsbijdrage aan een zorgverzekeraar
 
-#### Artikel 19
+##### Artikel 19
 
 Het in [artikel 3.22, tweede lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.22) bedoelde bedrag per verzekerde bedraagt € 41.
 
 ### Hoofdstuk 5. Betaling van de vereveningsbijdrage aan zorgverzekeraar door het zorginstituut
 
-#### Artikel 20
+##### Artikel 20
 
 De betaling van de bijdrage geschiedt overeenkomstig door het Zorginstituut te stellen beleidsregels, waarin een betaalschema is opgenomen dat rekening houdt met declaratiepatronen van zorgaanbieders.
 
 ### Hoofdstuk 6. Slotbepalingen
 
-#### Artikel 21
+##### Artikel 21
 
 1. Deze regeling treedt in werking met ingang van 30 september 2016.
 
 2. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na 29 september 2016, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 30 september 2016.
 
-#### Artikel 22
+##### Artikel 22
 
 Deze regeling wordt aangehaald als: Regeling risicoverevening 2017.
 

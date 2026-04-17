@@ -1,13 +1,38 @@
 ---
 title: "Specifiek interventiebeleid NVWA algemene productveiligheid (IB03-SPEC 45, versie 08)"
 identifier: "BWBR0050500"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-12-27
-laatste_update: 2024-12-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050500"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2024-12-27"
+last_updated: "2024-12-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050500"
+soort: "beleidsregel"
+stam_id: "17293033"
+version_id: "30456172"
+internal_id: "C43669311"
+label_id: "17197184"
+dtd_version: "2.0"
+original_entry_into_force: "2024-12-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050500/2024-12-27/0"
+intitule_bron: "Stcrt.2024-38851"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-11-20"
+intitule_published: "2024-11-29"
+intitule_in_force: "2024-11-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-38851"
+original_signed_date: "2024-11-20"
+original_published_date: "2024-11-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-38851"
+entry_into_force_date: "2024-12-27"
+jci_1_3: "jci1.3:c:BWBR0050500&z=2024-12-27&g=2024-12-27"
+jci_1_0: "1.0:c:BWBR0050500&g=2024-12-27"
+citeertitel_status: "officieel"
+signed_date: "2024-11-20"
+entry_into_force: "2024-12-27"
 ---
-
 # Specifiek interventiebeleid NVWA algemene productveiligheid (IB03-SPEC 45, versie 08)
 
 De Minister van Volksgezondheid, Welzijn en Sport,

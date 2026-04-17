@@ -1,16 +1,41 @@
 ---
 title: "Wet op het ter beschikking stellen arbeidskrachten BES"
 identifier: "BWBR0028435"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028435"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028435"
+soort: "wet-BES"
+stam_id: "10783763"
+version_id: "17761072"
+internal_id: "C24811591"
+label_id: "10758464"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028435/2010-10-10/0"
+intitule_bron: "Stb.2010-594"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-22"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-594"
+original_signed_date: "2010-09-22"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-594"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028435&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028435&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-22"
+entry_into_force: "2010-10-10"
 ---
-
 # Wet op het ter beschikking stellen arbeidskrachten BES
 
-#### Artikel 1
+##### Artikel 1
 
 1. Voor de toepassing van het bij of krachtens deze wet bepaalde wordt onder «ter beschikking stellen van arbeidskrachten» verstaan: het tegen vergoeding ter beschikking stellen van arbeidskrachten aan een ander voor het, anders dan krachtens een met deze gesloten arbeidsovereenkomst, in diens onderneming verrichten van aldaar gebruikelijke arbeid.
 
@@ -28,13 +53,13 @@ bron: "https://wetten.overheid.nl/BWBR0028435"
 
 - b. bedrijven, diensten en instellingen van publiekrechtelijke lichamen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het is verboden arbeidskrachten ter beschikking te stellen zonder door het bestuurscollege verleende vergunning.
 
 2. Bij eilandsverordening kan van het in het eerste lid bedoelde verbod voor gevallen, behorende tot bij die verordening daartoe aangewezen categorieën*, vrijstelling worden verleend.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Bij eilandsverordening kan worden geregeld welke gegevens bij een aanvrage om een vergunning als bedoeld in[artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028435&artikel=2&z=2010-10-10&g=2010-10-10), moeten worden verstrekt en welke bewijsstukken daarbij moeten worden overgelegd.
 
@@ -42,19 +67,19 @@ bron: "https://wetten.overheid.nl/BWBR0028435"
 
 3. Op de aanvrage wordt binnen twee maanden na indiening door het bestuurscollege beslist. Wanneer deze termijn is verstreken, zonder dat een vergunning is verleend, wordt het bestuurscollege geacht het geven van een vergunning te hebben geweigerd.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een vergunning kan onder beperkingen worden verleend. Aan een vergunning kunnen voorschriften worden verbonden.
 
 2. Een beschikking tot verlening van een vergunning, al dan niet onder beperkingen of met voorschriften, wordt aan de aanvrager toegezonden bij aangetekende brief.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een vergunning wordt slechts geweigerd, indien gegronde vrees bestaat, dat het ter beschikking stellen van arbeidskrachten door de aanvrager het belang van goede verhoudingen op de arbeidsmarkt zou schaden of dat daarbij het belang van de betrokken arbeidskrachten onvoldoende gewaarborgd zou zijn.
 
 2. Een beschikking tot weigering van een vergunning is met redenen omkleed en wordt aan de aanvrager toegezonden bij aangetekende brief.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het ter beschikking stellen van arbeidskrachten door een houder van een vergunning betreft uitsluitend de volgende gevallen:
 
@@ -72,17 +97,17 @@ bron: "https://wetten.overheid.nl/BWBR0028435"
 
 2. De houder van een vergunning stelt een arbeidskracht voor een tijdvak van ten hoogste twaalf maanden aan een onderneming ter beschikking.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De overeenkomst met de arbeidskracht die ter beschikking wordt gesteld, alsmede die met degene aan wie een arbeidskracht ter beschikking wordt gesteld, worden schriftelijk door de houder van een vergunning aangegaan.
 
 2. De overeenkomst tussen de houder van een vergunning en de arbeidskracht die ter beschikking wordt gesteld is een arbeidsovereenkomst als bedoeld in [artikel 1613a van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1613a).
 
-#### Artikel 8
+##### Artikel 8
 
 Bij algemene maatregel van bestuur kunnen nadere regelen worden gesteld welke door de houder van een vergunning in acht genomen moeten worden.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Een vergunning kan slechts worden ingetrokken en de aan de vergunning verbonden beperkingen of voorschriften kunnen slechts worden gewijzigd, indien:
 
@@ -96,17 +121,17 @@ Bij algemene maatregel van bestuur kunnen nadere regelen worden gesteld welke do
 
 2. Een beschikking tot intrekking van een vergunning of wijziging van de aan een vergunning verbonden beperkingen of voorschriften is met redenen omkleed en wordt aan de vergunninghouder toegezonden bij aangetekende brief.
 
-#### Artikel 10
+##### Artikel 10
 
 [vervallen]
 
-#### Artikel 11
+##### Artikel 11
 
 1. Bij eilandsverordening kan, indien naar het oordeel van het bestuurscollege het belang van goede verhoudingen op de arbeidsmarkt of het belang van de betrokken arbeidskrachten dit vereist, in het algemeen of voor gevallen, behorende tot bij de verordening daartoe aangewezen categorieën aan degenen, aan wie arbeidskrachten ter beschikking worden gesteld, de verplichting worden opgelegd de terbeschikkingstelling schriftelijk bij het bestuurscollege te melden overeenkomstig bij die eilandsverordening te stellen regelen.
 
 2. Het bepaalde in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028435&artikel=2&z=2010-10-10&g=2010-10-10), is van overeenkomstige toepassing op een krachtens het eerste lid opgelegde verplichting.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de door het bestuurscollege aangewezen personen. Een zodanige aanwijzing wordt bekendgemaakt in de Staatscourant.
 
@@ -126,32 +151,32 @@ Bij algemene maatregel van bestuur kunnen nadere regelen worden gesteld welke do
 
 5. Een ieder is verplicht aan de krachtens het eerste lid aangewezen personen alle medewerking te verlenen die op grond van het tweede lid wordt gevorderd. De verstrekking van krachtens het tweede lid, onderdeel a, verlangde inlichtingen dient volledig en naar waarheid te geschieden.
 
-#### Artikel 13
+##### Artikel 13
 
 [vervallen]
 
-#### Artikel 14
+##### Artikel 14
 
 Allen die betrokken zijn of zijn geweest bij de uitvoering van deze wet, zijn verplicht tot geheimhouding van al hetgeen hun daarbij bekend is geworden, voor zover die verplichting uit de aard van de zaak volgt of hun uitdrukkelijk is opgelegd.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Hij die een bepaling van deze wet overtreedt of handelt zonder of in strijd met een vergunningen, een voorschrift of een voorwaarde als in deze wet bedoeld, wordt gestraft met hechtenis van ten hoogste twee jaren of een geldboete van de vierde categorie.
 
 2. De feiten bij deze wet strafbaar gesteld, zijn overtredingen.
 
-#### Artikel 16
+##### Artikel 16
 
 [vervallen]
 
-#### Artikel 17
+##### Artikel 17
 
 [vervallen]
 
-#### Artikel 18
+##### Artikel 18
 
 [Vervallen]
 
-#### Artikel 19
+##### Artikel 19
 
 Deze wet wordt aangehaald als: Wet op het ter beschikking stellen arbeidskrachten BES.

@@ -1,20 +1,45 @@
 ---
 title: "Instellingbesluit Audit Committee ambtelijke organisatie Tweede Kamer 2025"
 identifier: "BWBR0051210"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2025-07-10
-laatste_update: 2025-07-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051210"
+country: "nl"
+rank: "reglement"
+publication_date: "2025-07-10"
+last_updated: "2025-07-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051210"
+soort: "reglement"
+stam_id: "17466263"
+version_id: "30804952"
+internal_id: "C44150311"
+label_id: "17368684"
+dtd_version: "2.0"
+original_entry_into_force: "2025-07-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051210/2025-07-10/0"
+intitule_bron: "Stcrt.2025-23412"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-07-01"
+intitule_published: "2025-07-10"
+intitule_in_force: "2025-07-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-23412"
+original_signed_date: "2025-07-01"
+original_published_date: "2025-07-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-23412"
+entry_into_force_date: "2025-07-10"
+jci_1_3: "jci1.3:c:BWBR0051210&z=2025-07-10&g=2025-07-10"
+jci_1_0: "1.0:c:BWBR0051210&g=2025-07-10"
+citeertitel_status: "officieel"
+signed_date: "2025-07-01"
+entry_into_force: "2025-07-10"
 ---
-
 # Instellingbesluit Audit Committee ambtelijke organisatie Tweede Kamer 2025
 
 Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begrippen
+##### Artikel 1. Begrippen
 
 In dit besluit wordt verstaan onder:
 
@@ -36,11 +61,11 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 2. Instelling en samenstelling
 
-#### Artikel 2. instelling
+##### Artikel 2. instelling
 
 De Griffier, belast met de ambtelijke leiding van de Tweede Kamer der Staten-Generaal, stelt een Audit Committee in.
 
-#### Artikel 3. samenstelling, benoeming en ontslag
+##### Artikel 3. samenstelling, benoeming en ontslag
 
 1. Het Audit Committee bestaat uit:
 
@@ -66,19 +91,19 @@ De Griffier, belast met de ambtelijke leiding van de Tweede Kamer der Staten-Gen
 
 5. De benoeming kan op eigen verzoek van het externe onafhankelijke lid door de Griffier worden beëindigd, indien de ontslagdatum afwijkt van de duur van de benoeming.
 
-#### Artikel 4. werving en selectie externe onafhankelijke leden
+##### Artikel 4. werving en selectie externe onafhankelijke leden
 
 1. Voor het werven en selecteren van de externe onafhankelijke leden stelt het Audit Committee een profielschets op, waarbij rekening wordt gehouden met de taken en de gewenste deskundigheid, ervaring en achtergrond van de leden.
 
 2. Een door het Audit Committee samengestelde selectiecommissie selecteert de externe onafhankelijke leden op basis van de profielschets. Het Audit Committee legt de uitkomsten van de selectieprocedure schriftelijk vast.
 
-#### Artikel 5. secretaris
+##### Artikel 5. secretaris
 
 Het hoofd van de Stafdienst FEZ wijst een secretaris aan vanuit zijn dienst. De secretaris stelt in overleg met de voorzitter de agenda van de vergadering op. De secretaris stelt van elke vergadering een verslag op en beheert het archief van het Audit Committee.
 
 ### Hoofdstuk 3. Werkwijze
 
-#### Artikel 6. vergaderingen
+##### Artikel 6. vergaderingen
 
 1. Het Audit Committee vergadert ten minste vier keer per jaar, waarbij aansluiting wordt gezocht bij de planning- en control cyclus van de ambtelijke organisatie en de auditcyclus van de controlerende instanties.
 
@@ -90,7 +115,7 @@ Het hoofd van de Stafdienst FEZ wijst een secretaris aan vanuit zijn dienst. De 
 
 ### Hoofdstuk 4. Taak en uitvoering
 
-#### Artikel 7. taken
+##### Artikel 7. taken
 
 1. Het Audit Committee heeft in ieder geval tot taak het adviseren over:
 
@@ -106,13 +131,13 @@ Het hoofd van de Stafdienst FEZ wijst een secretaris aan vanuit zijn dienst. De 
 
 ### Hoofdstuk 5. Geheimhouding
 
-#### Artikel 8. geheimhouding
+##### Artikel 8. geheimhouding
 
 De externe onafhankelijke leden zijn tot geheimhouding gehouden van de informatie waarvan zij als lid van het Audit Committee kennis hebben genomen.
 
 ### Hoofdstuk 6. Vergoeding
 
-#### Artikel 9. vergoeding
+##### Artikel 9. vergoeding
 
 1. De leden ontvangen een vergoeding per bijeenkomst van 3% van het maximum van salarisschaal 18 zoals overeengekomen in de actueel geldende collectieve arbeidsovereenkomst voor ambtenaren in dienst van de Staat der Nederlanden.
 
@@ -120,7 +145,7 @@ De externe onafhankelijke leden zijn tot geheimhouding gehouden van de informati
 
 ### Hoofdstuk 7. Evaluatie
 
-#### Artikel 10. evaluatie
+##### Artikel 10. evaluatie
 
 1. Het Audit Committee evalueert ten minste een keer in de drie jaar zelf zijn functioneren. Het Audit Committee legt de uitkomsten van de evaluatie schriftelijk vast.
 
@@ -128,10 +153,10 @@ De externe onafhankelijke leden zijn tot geheimhouding gehouden van de informati
 
 ### Hoofdstuk 8. Slotbepalingen
 
-#### Artikel 11. inwerkingtreding
+##### Artikel 11. inwerkingtreding
 
 Dit besluit vervangt het Instellingsbesluit Audit Committee TK 2009 en treedt in werking na publicatie in de Staatscourant met terugwerkende kracht tot 1 juli 2025.
 
-#### Artikel 12. citeertitel
+##### Artikel 12. citeertitel
 
 Dit besluit wordt aangehaald als: Instellingbesluit Audit Committee ambtelijke organisatie Tweede Kamer 2025

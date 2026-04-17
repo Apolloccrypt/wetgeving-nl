@@ -1,13 +1,39 @@
 ---
-title: "Translation Grants for Foreign Publishers"
+title: "Translation Grants for Foreign"
 identifier: "BWBR0034401"
-categorie: "Overig"
-publicatiedatum: 2014-01-01
-laatste_update: 2014-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034401"
+country: "nl"
+rank: "zbo"
+publication_date: "2014-01-01"
+last_updated: "2014-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034401"
+soort: "zbo"
+stam_id: "12484623"
+version_id: "20992332"
+internal_id: "C30155651"
+label_id: "12455374"
+dtd_version: "2.0"
+original_entry_into_force: "2014-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034401/2014-01-01/0"
+intitule_bron: "Stcrt.2013-36033"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-12-12"
+intitule_published: "2013-12-17"
+intitule_in_force: "2013-12-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-36033"
+original_signed_date: "2013-12-12"
+original_published_date: "2013-12-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-36033"
+entry_into_force_date: "2014-01-01"
+jci_1_3: "jci1.3:c:BWBR0034401&z=2014-01-01&g=2014-01-01"
+jci_1_0: "1.0:c:BWBR0034401&g=2014-01-01"
+citeertitel_status: "officieel"
+short_title: "Translation Grants for Foreign Publishers"
+signed_date: "2013-12-12"
+entry_into_force: "2014-01-01"
 ---
-
 # Translation Grants for Foreign
 
 Gelet op de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
@@ -18,7 +44,7 @@ Gelet op het [Algemeen reglement](https://wetten.overheid.nl/jci1.3:c:BWBR003273
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -36,15 +62,15 @@ In deze regeling wordt verstaan onder:
 
 - 7. **Nederlandse literatuur:** Nederlands- of Friestalige literaire werken geschreven door een auteur met de Nederlandse nationaliteit, een stateloze auteur of een auteur met een vreemde nationaliteit, mits die in een nauwe betrekking tot Nederland staat.
 
-#### Artikel 2. Doelstelling
+##### Artikel 2. Doelstelling
 
 Deze regeling beoogt de bekendheid en verspreiding van Nederlandse literatuur buiten de landen van de Nederlandse Taalunie te bevorderen door subsidie te verstrekken voor (een deel van) de kosten van een aanvrager voor de uitgave van werken.
 
-#### Artikel 3. Vereisten aanvrager
+##### Artikel 3. Vereisten aanvrager
 
 De aanvrager heeft, indien er nog auteursrechten op het werk rusten, een uitgave-overeenkomst afgesloten.
 
-#### Artikel 4. Nadere vereisten
+##### Artikel 4. Nadere vereisten
 
 1. Subsidie wordt slechts verstrekt, indien het werk binnen twee jaar na het toekenningsbesluit is uitgebracht.
 
@@ -52,11 +78,11 @@ De aanvrager heeft, indien er nog auteursrechten op het werk rusten, een uitgave
 
 3. De aanvrager verklaart zich bereid een door het bestuur nader vast te stellen aantal exemplaren in digitale en boekvorm van de gesubsidieerde vertaling kosteloos naar het Letterenfonds te sturen ter verdere promotie en internationale verspreiding van de (oorspronkelijke) literaire tekst door het Letterenfonds.
 
-#### Artikel 5. Weigeringsgrond
+##### Artikel 5. Weigeringsgrond
 
 Een aanvraag voor subsidie kan worden afgewezen indien de aanvrager niet aantoonbaar heeft voldaan aan voorschriften gesteld aan eerder door het bestuur toegekende subsidies, dan wel toerekenbaar tekort is geschoten in de nakoming van één of meer verplichtingen verbonden aan een eerdere subsidieverlening door het Letterenfonds.
 
-#### Artikel 6. Aanvraag
+##### Artikel 6. Aanvraag
 
 1. Een aanvraag wordt uitsluitend ingediend met gebruikmaking van een door het Letterenfonds ter beschikking gesteld aanvraagformulier.
 
@@ -72,11 +98,11 @@ Een aanvraag voor subsidie kan worden afgewezen indien de aanvrager niet aantoon
 
 7. Een aanvraag voor een bepaalde uitgave kan na een afwijzend besluit niet opnieuw worden ingediend.
 
-#### Artikel 7. Aanvraagprocedure
+##### Artikel 7. Aanvraagprocedure
 
 De aanvragen worden behandeld in volgorde van binnenkomst.
 
-#### Artikel 8. Inhoudelijke toetsing
+##### Artikel 8. Inhoudelijke toetsing
 
 Indien de aanvraag aan de formele eisen voldoet, beoordeelt het fonds de aanvraag op de volgende criteria:
 
@@ -92,7 +118,7 @@ Indien de aanvraag aan de formele eisen voldoet, beoordeelt het fonds de aanvraa
 
 - 6. De mate waarin de uitgave bijdraagt aan promotie van de Nederlandse literatuur in het land en taalgebied van uitgave of een brug vormt voor promotie in een derde land.
 
-#### Artikel 9. Subsidieplafond en hoogte van de subsidie
+##### Artikel 9. Subsidieplafond en hoogte van de subsidie
 
 1. Het bestuur kan voor subsidieverstrekking op basis van deze regeling een subsidieplafond vaststellen. Het besluit hiertoe wordt bekendgemaakt op de website van het Letterenfonds.
 
@@ -102,11 +128,11 @@ Indien de aanvraag aan de formele eisen voldoet, beoordeelt het fonds de aanvraa
 
 4. Voor geïllustreerde werken en poëzie kan naast (een deel van) de vertaalkosten als genoemd in lid 3, subsidie worden verleend voor de overige kosten, tot in totaal het in lid 2 genoemde maximum bedrag.
 
-#### Artikel 10. Adviseurs
+##### Artikel 10. Adviseurs
 
 Het bestuur kan zich over de beoordeling van de aanvraag laten adviseren door medewerkers van het bureau, leden van de raad van advies of door externe adviseurs zoals bedoeld in het Huishoudelijk reglement van het Letterenfonds. Het bestuur betrekt bij zijn besluit op de aanvraag het eventuele advies van de adviseur.
 
-#### Artikel 11. Verplichtingen subsidieontvanger
+##### Artikel 11. Verplichtingen subsidieontvanger
 
 1. De subsidie wordt door de subsidieontvanger besteed aan de kosten voor de uitgave.
 
@@ -120,13 +146,13 @@ Het bestuur kan zich over de beoordeling van de aanvraag laten adviseren door me
 
 6. De subsidieontvanger vermeldt in de uitgave en alle publieksuitingen die betrekking hebben op de gesubsidieerde activiteiten de naam en het logo van het Letterenfonds.
 
-#### Artikel 12. Subsidieverlening, -vaststelling en uitbetaling
+##### Artikel 12. Subsidieverlening, -vaststelling en uitbetaling
 
 1. Bij het verlenen van de subsidie geeft het bestuur direct een beschikking tot subsidievaststelling.
 
 2. De subsidie wordt uitbetaald binnen vier weken na ontvangst van de gepubliceerde exemplaren.
 
-#### Artikel 13. Intrekkings- en wijzigingsgronden subsidievaststelling
+##### Artikel 13. Intrekkings- en wijzigingsgronden subsidievaststelling
 
 1. Het bestuur kan de subsidievaststelling intrekken of wijzigen, als
 
@@ -138,11 +164,11 @@ Het bestuur kan zich over de beoordeling van de aanvraag laten adviseren door me
 
 2. De intrekking of wijziging werkt terug tot en met het tijdstip waarop de subsidie is vastgesteld, tenzij bij de intrekking of wijziging anders is bepaald.
 
-#### Artikel 14. Hardheidsclausule
+##### Artikel 14. Hardheidsclausule
 
 Het bestuur kan, gelet op het belang dat deze regeling beoogt te beschermen, een artikel buiten toepassing laten of daarvan afwijken voor zover strikte toepassing leidt tot een onbillijkheid van overwegende aard.
 
-#### Artikel 15. Overgangs- en slotbepalingen
+##### Artikel 15. Overgangs- en slotbepalingen
 
 1. In alle gevallen waarin deze regeling niet voorziet, beslist het bestuur.
 

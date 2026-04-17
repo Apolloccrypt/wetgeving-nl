@@ -1,13 +1,37 @@
 ---
 title: "Beleidsregels projectsubsidie ontwikkeling imamopleidingen"
 identifier: "BWBR0018218"
-categorie: "Bestuursrecht"
-publicatiedatum: 2005-04-30
-laatste_update: 2005-04-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0018218"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2005-04-30"
+last_updated: "2005-04-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0018218"
+soort: "beleidsregel"
+stam_id: "6981523"
+version_id: "11850882"
+internal_id: "C15942801"
+label_id: "6969594"
+original_entry_into_force: "2005-04-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0018218/2005-04-30/0"
+intitule_bron: "Stcrt.2005-83"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-04-20"
+intitule_published: "2005-04-29"
+intitule_in_force: "2005-04-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-83"
+original_signed_date: "2005-04-20"
+original_published_date: "2005-04-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2005-83-p16-SC69717"
+entry_into_force_date: "2005-04-30"
+jci_1_3: "jci1.3:c:BWBR0018218&z=2005-04-30&g=2005-04-30"
+jci_1_0: "1.0:c:BWBR0018218&g=2005-04-30"
+citeertitel_status: "officieel"
+signed_date: "2005-04-20"
+entry_into_force: "2005-04-30"
 ---
-
 # Beleidsregels projectsubsidie ontwikkeling imamopleidingen
 
 Overwegende dat:
@@ -22,17 +46,17 @@ Gelet op [artikel 48s van de Wet Justitie-subsidies](https://wetten.overheid.nl/
 
 Besluit:
 
-#### Artikel 1. Doelomschrijving
+##### Artikel 1. Doelomschrijving
 
 De Minister voor Vreemdelingenzaken en Integratie kan besluiten tot verlening van een subsidie ten behoeve van de ontwikkeling van een curriculum van een theologische opleiding voor islamitisch geestelijke bedienaren (imams) en/of islamitisch geestelijke verzorgers en een daarbij behorend beroepsprofiel.
 
-#### Artikel 2. Projectbudget
+##### Artikel 2. Projectbudget
 
 1. Ten behoeve van de realisatie van het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018218&artikel=1&z=2005-04-30&g=2005-04-30) bedoelde curriculum en het bijbehorende beroepsprofiel is een projectbudget beschikbaar van € 400.000,–.
 
 2. Het projectbudget is bestemd voor de ontwikkeling van een curriculum, voor de activiteiten van de adviescommissie als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018218&artikel=4&z=2005-04-30&g=2005-04-30), voor een eventuele kwartiermaker als bedoeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018218&artikel=5&z=2005-04-30&g=2005-04-30), en een afsluitende conferentie in december 2005.
 
-#### Artikel 3. Randvoorwaarden
+##### Artikel 3. Randvoorwaarden
 
 1. Het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018218&artikel=1&z=2005-04-30&g=2005-04-30) bedoelde curriculum en beroepsprofiel dient te worden ontwikkeld in de periode vanaf verlening van de subsidie tot uiterlijk 31 december 2005.
 
@@ -52,7 +76,7 @@ De Minister voor Vreemdelingenzaken en Integratie kan besluiten tot verlening va
 
 3. De opleiding dient in het jaar 2006 te starten.
 
-#### Artikel 4. Voorwaarden voor subsidieverlening
+##### Artikel 4. Voorwaarden voor subsidieverlening
 
 1. Aanvragen om verlening van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018218&artikel=1&z=2005-04-30&g=2005-04-30) bedoelde subsidie worden slechts in behandeling genomen indien deze voor 1 juni 2005 bij de Minister voor Vreemdelingenzaken en Integratie door een rechtspersoon zijn ingediend.
 
@@ -86,7 +110,7 @@ De Minister voor Vreemdelingenzaken en Integratie kan besluiten tot verlening va
 
 3. Het projectvoorstel geeft er blijk van te voldoen aan de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018218&artikel=3&z=2005-04-30&g=2005-04-30) bedoelde randvoorwaarden.
 
-#### Artikel 5. Beoordeling en advisering
+##### Artikel 5. Beoordeling en advisering
 
 1. De Adviescommissie Pilots Imamopleidingen beoordeelt de aanvragen en bijbehorende projectvoorstellen. De Adviescommissie Pilots Imamopleidingen adviseert de Minister voor Vreemdelingenzaken en Integratie met betrekking tot de wijze waarop het beschikbare budget wordt verdeeld over de in te willigen aanvragen.
 
@@ -96,7 +120,7 @@ De Minister voor Vreemdelingenzaken en Integratie kan besluiten tot verlening va
 
 4. De Adviescommissie Pilots Imamopleidingen adviseert de Minister voor Vreemdelingenzaken en Integratie over het al dan niet aanstellen van een kwartiermaker, die tot 31 december 2005 beschikbaar is voor ondersteuning bij de uitwerking van de projectvoorstellen.
 
-#### Artikel 6. Verlening van een subsidie
+##### Artikel 6. Verlening van een subsidie
 
 1. De Minister voor Vreemdelingenzaken en Integratie beslist voor 1 juli op de aanvraag om verlening van een subsidie.
 
@@ -106,7 +130,7 @@ De Minister voor Vreemdelingenzaken en Integratie kan besluiten tot verlening va
 
 4. Een subsidie wordt eenmalig verleend.
 
-#### Artikel 7. Vaststelling van de subsidie
+##### Artikel 7. Vaststelling van de subsidie
 
 1. De ontvanger van een subsidie dient voor 1 maart 2006 bij de Minister voor Vreemdelingenzaken en Integratie een aanvraag in tot vaststelling van de subsidie.
 
@@ -114,11 +138,11 @@ De Minister voor Vreemdelingenzaken en Integratie kan besluiten tot verlening va
 
 3. De Minister voor Vreemdelingenzaken en Integratie beslist voor 1 juni 2006 op de aanvraag om vaststelling van de subsidie.
 
-#### Artikel 8. Inwerkingtreding
+##### Artikel 8. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 9. Titel
+##### Artikel 9. Titel
 
 Dit besluit wordt aangehaald als: Beleidsregels projectsubsidie imamopleidingen.
 

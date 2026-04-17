@@ -1,13 +1,38 @@
 ---
 title: "Overeenkomst opgesteld op grond van artikel K.3 van het Verdrag betreffende de Europese Unie inzake wederzijdse bijstand en samenwerking tussen de douane-administraties"
 identifier: "BWBV0001559"
-categorie: "Sociaal recht"
-publicatiedatum: 2009-06-23
-laatste_update: 2001-05-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001559"
+country: "nl"
+rank: "verdrag"
+publication_date: "2009-06-23"
+last_updated: "2001-05-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001559"
+soort: "verdrag"
+stam_id: "10001543203"
+version_id: "10001631722"
+internal_id: "C10006990431"
+label_id: "10001543704"
+dtd_version: "2.0"
+original_entry_into_force: "2009-06-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001559/2009-06-23/0"
+intitule_bron: "Trb.1998-174"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-11-28"
+intitule_published: "1998-07-10"
+intitule_in_force: "2009-06-22"
+intitule_status: "goed"
+original_publication: "Trb.1998-174"
+original_signed_date: "2002-11-28"
+original_published_date: "1998-07-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1998-174"
+entry_into_force_date: "2009-06-23"
+jci_1_3: "jci1.3:c:BWBV0001559&z=2009-06-23&g=2009-06-23"
+jci_1_0: "1.0:c:BWBV0001559&g=2009-06-23"
+citeertitel_status: "redactioneel"
+signed_date: "2002-11-28"
+entry_into_force: "2009-06-23"
 ---
-
 # Overeenkomst opgesteld op grond van artikel K.3 van het Verdrag betreffende de Europese Unie inzake wederzijdse bijstand en samenwerking tussen de douane-administraties
 
 De Hoge Overeenkomstsluitende Partijen, lidstaten van de Europese Unie,
@@ -30,7 +55,7 @@ Hebben overeenstemming bereikt omtrent de volgende bepalingen:
 
 ## TITEL I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Toepassingsgebied
+##### Artikel 1. Toepassingsgebied
 
 1. Onverminderd de bevoegdheden van de Gemeenschap verlenen de lidstaten van de Europese Unie elkaar wederzijds bijstand en werken zij samen via hun douane-administraties, om
 
@@ -40,17 +65,17 @@ Hebben overeenstemming bereikt omtrent de volgende bepalingen:
 
 2. Onverminderd artikel 3 doet deze overeenkomst geen afbreuk aan toepasselijke bepalingen inzake wederzijdse rechtshulp in strafzaken tussen justitiële autoriteiten, of aan verdergaande bepalingen van bilaterale of multilaterale overeenkomsten tussen lidstaten aangaande samenwerking tussen de douane-autoriteiten of andere bevoegde autoriteiten van de lidstaten, zoals voorzien in lid 1, alsmede van regelingen die op hetzelfde gebied zijn overeengekomen op basis van een uniforme wetgeving of van specifieke regelingen die in wederkerige toepassing van wederzijdse bijstand voorzien.
 
-#### Artikel 2. Bevoegdheden
+##### Artikel 2. Bevoegdheden
 
 De douane-administraties passen deze overeenkomst toe binnen de grenzen van de bevoegdheden die hen krachtens nationale bepalingen zijn toegekend. Niets in deze overeenkomst kan worden uitgelegd als een wijziging in de bevoegdheden die krachtens nationale bepalingen aan de douane-administraties in de zin van deze overeenkomst zijn toegekend.
 
-#### Artikel 3. Verhouding tot de wederzijdse rechtshulp van de justitiële autoriteiten
+##### Artikel 3. Verhouding tot de wederzijdse rechtshulp van de justitiële autoriteiten
 
 1. Deze overeenkomst is van toepassing op wederzijdse bijstand en samenwerking in het kader van strafrechtelijke onderzoeken betreffende inbreuken op nationale en communautaire douanevoorschriften, ter zake waarvan de verzoekende autoriteit bevoegd is op grond van de nationale bepalingen van de betrokken lidstaat.
 
 2. Wanneer een strafrechtelijk onderzoek wordt verricht door of onder leiding van een justitiële autoriteit, bepaalt deze autoriteit of verzoeken om wederzijdse bijstand of samenwerking in verband daarmee ingediend worden op de grondslag van de toepasselijke bepalingen betreffende wederzijdse rechtshulp in strafzaken dan wel op grondslag van deze overeenkomst.
 
-#### Artikel 4. Definities
+##### Artikel 4. Definities
 
 In deze overeenkomst wordt verstaan onder:
 
@@ -88,7 +113,7 @@ In deze overeenkomst wordt verstaan onder:
 
 - 9. „grensoverschrijdende samenwerking”: samenwerking tussen douane-administraties met overschrijding van de grenzen van afzonderlijke lidstaten.
 
-#### Artikel 5. Centrale coördinatiediensten
+##### Artikel 5. Centrale coördinatiediensten
 
 1. De lidstaten wijzen bij hun douane-autoriteiten een centrale dienst (coördinatiedienst) aan. Deze is, onverminderd lid 2, belast met het ontvangen van de verzoeken om wederzijdse bijstand krachtens deze overeenkomst en het coördineren van de wederzijdse bijstand. Deze dienst is ook belast met de samenwerking met andere autoriteiten die bij een bijstandsmaatregel krachtens deze overeenkomst betrokken zijn. De coördinatiediensten van de lidstaten onderhouden met name in de gevallen als bedoeld in titel IV de nodige rechtstreekse onderlinge contacten.
 
@@ -98,7 +123,7 @@ In deze overeenkomst wordt verstaan onder:
 
 4. Indien het op juridische of feitelijke gronden niet mogelijk is het verzoek in te willigen, dan zendt de coördinatiedienst het verzoek terug aan de verzoekende autoriteit met een toelichting betreffende de beletselen.
 
-#### Artikel 6. Verbindingsfunctionarissen
+##### Artikel 6. Verbindingsfunctionarissen
 
 1. De lidstaten kunnen afspreken om voor een bepaalde of onbepaalde duur en op onderling overeen te komen voorwaarden verbindingsfunctionarissen uit te wisselen.
 
@@ -118,19 +143,19 @@ In deze overeenkomst wordt verstaan onder:
 
 4. De lidstaten kunnen bilaterale of multilaterale afspraken maken over het mandaat en de standplaats van de verbindingsfunctionarissen. De verbindingsfunctionarissen kunnen ook de belangen van een of meer andere lidstaten behartigen.
 
-#### Artikel 7. Legitimatieplicht
+##### Artikel 7. Legitimatieplicht
 
 Behoudens andersluidende bepalingen in deze overeenkomst dienen de functionarissen van de verzoekende autoriteit die in een andere lidstaat aanwezig zijn om de uit deze overeenkomst voortvloeiende rechten uit te oefenen, te allen tijde een schriftelijke opdracht te kunnen overleggen waarin hun identiteit en hun officiële functie zijn aangegeven.
 
 ## TITEL II. BIJSTAND OP VERZOEK
 
-#### Artikel 8. Beginselen
+##### Artikel 8. Beginselen
 
 1. Bij de bijstand als bedoeld in deze titel gaat de aangezochte autoriteit of de door haar benaderde bevoegde autoriteit te werk als handelde zij ten eigen behoeve of op verzoek van een andere autoriteit van haar eigen lidstaat. Daartoe gebruikt zij al de haar in het kader van haar nationale wetgeving ter beschikking staande wettelijke bevoegdheden ter inwilliging van het verzoek.
 
 2. De aangezochte autoriteit breidt deze bijstand uit tot alle aspecten van de inbreuk die duidelijk samenhangen met de in het verzoek om bijstand vermelde zaak, zonder dat daartoe een aanvullend verzoek wordt verlangd. In twijfelgevallen neemt de aangezochte autoriteit eerst contact op met de verzoekende autoriteit.
 
-#### Artikel 9. Vorm en inhoud van de verzoeken om bijstand
+##### Artikel 9. Vorm en inhoud van de verzoeken om bijstand
 
 1. Verzoeken om bijstand worden steeds schriftelijk gedaan. Het verzoek gaat vergezeld van de voor de behandeling ervan noodzakelijke bescheiden.
 
@@ -156,7 +181,7 @@ Behoudens andersluidende bepalingen in deze overeenkomst dienen de functionariss
 
 6. De aangezochte autoriteit stemt in met het toepassen van een bepaalde procedure in antwoord op een verzoek, voorzover deze procedure niet in strijd is met wettelijke, bestuursrechtelijke en bestuurlijke bepalingen van de aangezochte lidstaat.
 
-#### Artikel 10. Verzoeken om inlichtingen
+##### Artikel 10. Verzoeken om inlichtingen
 
 1. Op verzoek van de verzoekende autoriteit deelt de aangezochte autoriteit aan eerstgenoemde alle inlichtingen mede die zij nodig heeft om ervoor te kunnen zorgen dat inbreuken worden voorkomen, opgespoord en vervolgd.
 
@@ -164,11 +189,11 @@ Behoudens andersluidende bepalingen in deze overeenkomst dienen de functionariss
 
 3. De verzoekende autoriteit en de aangezochte autoriteit kunnen overeenkomen dat door de verzoekende autoriteit daartoe gemachtigde functionarissen, met inachtneming van gedetailleerde instructies van de aangezochte autoriteit, in de kantoren van de aangezochte lidstaat gegevens als bedoeld in lid 1 mogen inzamelen. Dit geldt voor alle informatie die is afgeleid uit de documentatie waartoe de personeelsleden van deze kantoren toegang hebben. De betrokken functionarissen zijn gemachtigd kopieën te maken van deze documentatie.
 
-#### Artikel 11. Verzoeken tot uitoefening van toezicht
+##### Artikel 11. Verzoeken tot uitoefening van toezicht
 
 Op verzoek van de verzoekende autoriteit oefent de aangezochte autoriteit voor zover mogelijk bijzonder toezicht uit of laat zij voor zover mogelijk bijzonder toezicht uitoefenen op personen ten aanzien van wie ernstige vermoedens bestaan dat zij inbreuken op de communautaire of nationale douanevoorschriften begaan of hebben begaan of daartoe voorbereidingen hebben getroffen. Voorts oefent de aangezochte autoriteit op verzoek van de verzoekende autoriteit toezicht uit op plaatsen, vervoermiddelen en goederen die verband houden met activiteiten die een inbreuk zouden kunnen betekenen op deze douanevoorschriften.
 
-#### Artikel 12. Verzoeken tot onderzoeken
+##### Artikel 12. Verzoeken tot onderzoeken
 
 1. Op verzoek van de verzoekende autoriteit verricht de aangezochte autoriteit een passend onderzoek of doet zij dit verrichten naar handelingen die een inbreuk vormen of die volgens de verzoekende autoriteit een inbreuk lijken te vormen.
 
@@ -176,23 +201,23 @@ De aangezochte autoriteit deelt de resultaten van het onderzoek mee aan de verzo
 
 2. De verzoekende en de aangezochte autoriteit kunnen overeenkomen dat door de verzoekende autoriteit aangewezen functionarissen aanwezig mogen zijn bij het in lid 1 bedoelde onderzoek. Het onderzoek wordt altijd uitgevoerd door functionarissen van de aangezochte autoriteit. De functionarissen van de verzoekende autoriteit mogen niet op eigen initiatief de aan functionarissen van de aangezochte autoriteit toegekende bevoegdheden uitoefenen. Daarentegen hebben zij wel toegang tot dezelfde plaatsen en documenten als de laatstgenoemden, zulks door hun tussenkomst en alleen ten behoeve van het lopende onderzoek.
 
-#### Artikel 13. Kennisgeving
+##### Artikel 13. Kennisgeving
 
 1. Op verzoek van de verzoekende autoriteit en met inachtneming van de nationale regels van de lidstaat waar zij is gevestigd, geeft de aangezochte autoriteit de geadresseerde kennis of laat zij hem kennis geven van alle of besluiten of beslissingen die uitgaan van de bevoegde autoriteiten van de lidstaat waar de verzoekende autoriteit is gevestigd en die betrekking hebben op de toepassing van deze overeenkomst.
 
 2. De verzoeken om kennisgeving, die het onderwerp moeten vermelden van de besluiten of beslissingen waarvan kennis moet worden gegeven, gaan vergezeld van een vertaling in de officiële taal of een officiële taal van de lidstaat waar de aangezochte autoriteit is gevestigd, onverminderd het recht van deze laatste om van een dergelijke vertaling af te zien.
 
-#### Artikel 14. Gebruik als bewijsmiddel
+##### Artikel 14. Gebruik als bewijsmiddel
 
 De bevoegde autoriteiten van de lidstaat waar de verzoekende autoriteit gevestigd is, kunnen de vaststellingen, bevindingen, informatie, documenten, voor eensluidend gewaarmerkte afschriften en overige documenten die, overeenkomstig hun nationaal recht, door functionarissen van de aangezochte autoriteit in de in de artikelen 10 tot en met 12 bedoelde gevallen van bijstand worden verkregen en aan de verzoekende autoriteit worden toegezonden, als bewijsmiddel gebruiken overeenkomstig de nationale wetgeving.
 
 ## TITEL III. BIJSTAND OP EIGEN INITIATIEF
 
-#### Artikel 15. Beginsel
+##### Artikel 15. Beginsel
 
 Zoals bepaald in de artikelen 16 en 17 en onder voorbehoud van eventuele beperkingen uit hoofde van de nationale wetgeving, verlenen de bevoegde autoriteiten van elke lidstaat bijstand aan de bevoegde autoriteiten van de andere lidstaten, ook wanneer deze laatste hierom niet vooraf hebben verzocht.
 
-#### Artikel 16. Toezicht
+##### Artikel 16. Toezicht
 
 Wanneer zulks dienstig is voor het voorkomen, opsporen en vervolgen van inbreuken in een andere lidstaat, gaan de bevoegde autoriteiten van elke lidstaat als volgt te werk:
 
@@ -200,17 +225,17 @@ Wanneer zulks dienstig is voor het voorkomen, opsporen en vervolgen van inbreuke
 
 - b. zij doen de bevoegde autoriteiten van de andere betrokken lidstaten mededeling van de hun ter beschikking staande gegevens, met name rapporten en andere documenten of voor eensluidend gewaarmerkte afschriften of uittreksels daarvan, betreffende verrichtingen die samenhangen met een voorgenomen of reeds begane inbreuk.
 
-#### Artikel 17. Inlichtingen op eigen initiatief
+##### Artikel 17. Inlichtingen op eigen initiatief
 
 De bevoegde autoriteiten van iedere lidstaat zenden de bevoegde autoriteiten van de andere betrokken lidstaten onverwijld alle relevante inlichtingen over voorgenomen of reeds begane inbreuken, in het bijzonder inlichtingen over de daarbij betrokken goederen en over nieuwe middelen en methoden die bij deze inbreuken worden gebruikt.
 
-#### Artikel 18. Gebruik als bewijsmiddel
+##### Artikel 18. Gebruik als bewijsmiddel
 
 De door functionarissen van een lidstaat verkregen gegevens over toezicht en inlichtingen die aan een andere lidstaat worden doorgezonden in de gevallen van bijstand op eigen initiatief als bedoeld in de artikelen 15 tot en met 17, kunnen door de bevoegde instanties van de ontvangende lidstaat overeenkomstig het nationale recht als bewijsmiddel worden gebruikt.
 
 ## TITEL IV. BIJZONDERE VORMEN VAN SAMENWERKING
 
-#### Artikel 19. Beginselen
+##### Artikel 19. Beginselen
 
 1. Tussen douane-administraties vindt grensoverschrijdende samenwerking plaats overeenkomstig deze titel. Die administraties bieden elkaar de nodige personele en organisatorische bijstand. Verzoeken om samenwerking worden in beginsel gedaan in de vorm van de verzoeken om bijstand in de zin van artikel 9. In de specifieke gevallen als bedoeld in deze titel kunnen functionarissen van de verzoekende autoriteit met toestemming van de aangezochte autoriteit op het grondgebied van de aangezochte staat optreden.
 
@@ -238,7 +263,7 @@ De coördinatie en planning van de grensoverschrijdende operaties behoren tot de
 
 8. Tijdens de in de artikelen 20 tot en met 24 bedoelde operaties, worden de functionarissen die optreden op het grondgebied van een andere lidstaat gelijkgesteld met de functionarissen van de betrokken lidstaat voor de inbreuken waarvan zij het slachtoffer worden of die zij begaan.
 
-#### Artikel 20. Grensoverschrijdende achtervolging
+##### Artikel 20. Grensoverschrijdende achtervolging
 
 1. Functionarissen van de douane-administratie van een lidstaat die in hun eigen land een persoon achtervolgen die als dader of mededader op heterdaad is betrapt op één van de in artikel 19, lid 2, genoemde inbreuken die aanleiding kunnen geven tot uitlevering, zijn bevoegd de achtervolging op het grondgebied van een andere lidstaat zonder voorafgaande toestemming van laatstgenoemde lidstaat voort te zetten, wanneer de bevoegde autoriteiten van de andere lidstaat wegens het spoedeisende karakter van het optreden niet vooraf kunnen worden gewaarschuwd of wanneer deze niet tijdig ter plaatse kunnen zijn om de achtervolging over te nemen.
 
@@ -288,7 +313,7 @@ Het afleggen van verklaringen als bovenbedoeld geschiedt na overleg met elk der 
 
 8. Elke lidstaat kan bij de neerlegging van zijn akte van aanneming van deze overeenkomst verklaren dat hij zich de toepassing van dit artikel of een gedeelte daarvan voorbehoudt. Deze verklaring kan te allen tijde worden ingetrokken.
 
-#### Artikel 21. Grensoverschrijdende observatie
+##### Artikel 21. Grensoverschrijdende observatie
 
 1. Functionarissen van de douane-administratie van een lidstaat die in hun eigen land een persoon observeren ten aanzien van wie ernstige vermoedens bestaan dat hij betrokken is bij een in artikel 19, lid 2, genoemde inbreuk, zijn bevoegd deze observatie op het grondgebied van een andere lidstaat voort te zetten, wanneer laatstgenoemde lidstaat daarvoor toestemming heeft gegeven op basis van een van te voren ingediend verzoek om bijstand. Aan de toestemming kunnen voorwaarden worden verbonden.
 
@@ -330,7 +355,7 @@ De observatie dient te worden afgebroken zodra de lidstaat op het grondgebied wa
 
 5. Elke lidstaat kan bij de neerlegging van zijn akte van aanneming van deze overeenkomst verklaren dat hij zich de toepassing van dit artikel of een gedeelte daarvan voorbehoudt. Deze verklaring kan te allen tijde worden ingetrokken.
 
-#### Artikel 22. Gecontroleerde aflevering
+##### Artikel 22. Gecontroleerde aflevering
 
 1. Elke lidstaat verbindt zich ertoe dat op verzoek van een andere lidstaat, een gecontroleerde aflevering in het kader van een strafrechtelijk onderzoek naar inbreuken welke voor uitlevering vatbaar zijn, op zijn grondgebied toe kan worden gestaan.
 
@@ -342,7 +367,7 @@ De bevoegde autoriteiten nemen, om onderbrekingen in het toezicht te voorkomen, 
 
 4. Zendingen waarvoor gecontroleerde aflevering is overeengekomen, kunnen, wanneer de betrokken lidstaten hiermee instemmen, onderschept en vervolgens doorgelaten worden, waarbij de oorspronkelijke inhoud ervan onaangeroerd blijft dan wel geheel of gedeeltelijk wordt verwijderd of vervangen door andere goederen.
 
-#### Artikel 23. Infiltratie
+##### Artikel 23. Infiltratie
 
 1. Op verzoek van de verzoekende autoriteit kan de aangezochte autoriteit functionarissen van de douane-administratie van de verzoekende lidstaat of in opdracht van deze administratie werkzame functionarissen die onder een fictieve identiteit optreden (infiltranten), toestemming geven om op het grondgebied van de aangezochte lidstaat op te treden. De verzoekende autoriteit dient hiertoe alleen een verzoek in wanneer de zaak zeer moeilijk zou kunnen worden opgehelderd zonder gebruik te maken van deze onderzoeksmaatregelen. De betrokken functionarissen zijn in het kader van hun opdracht bevoegd om informatie te verzamelen en contacten te leggen met verdachten of andere personen in hun omgeving.
 
@@ -354,7 +379,7 @@ De bevoegde autoriteiten nemen, om onderbrekingen in het toezicht te voorkomen, 
 
 5. Elke lidstaat kan bij de neerlegging van zijn akte van aanneming van deze overeenkomst verklaren dat hij zich de toepassing van dit artikel of een gedeelte daarvan voorbehoudt. Deze verklaring kan te allen tijde worden ingetrokken.
 
-#### Artikel 24. Gemeenschappelijke bijzondere onderzoeksteams
+##### Artikel 24. Gemeenschappelijke bijzondere onderzoeksteams
 
 1. Met wederzijdse instemming goedkeuring kunnen de autoriteiten van verschillende lidstaten een gemeenschappelijk bijzonder onderzoeksteam oprichten dat gestationeerd is in één lidstaat en dat uit op de betrokken gebieden gespecialiseerde functionarissen bestaat.
 
@@ -378,7 +403,7 @@ Het gemeenschappelijk bijzonder onderzoeksteam heeft de volgende taken:
 
 ## TITEL V. GEGEVENSBESCHERMING
 
-#### Artikel 25. Gegevensbescherming bij gegevensuitwisseling
+##### Artikel 25. Gegevensbescherming bij gegevensuitwisseling
 
 1. Bij het uitwisselen van gegevens houden de douane-administraties in elk afzonderlijk geval rekening met de vereisten inzake de bescherming van persoonsgegevens. Zij eerbiedigen de toepasselijke bepalingen van het Verdrag van de Raad van Europa van 28 januari 1981 tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens. In het belang van de bescherming van de gegevens kan een lidstaat overeenkomstig lid 2 voorwaarden opleggen met betrekking tot de verwerking door een andere lidstaat van de gegevens die deze heeft ontvangen.
 
@@ -406,7 +431,7 @@ Het gemeenschappelijk bijzonder onderzoeksteam heeft de volgende taken:
 
 ## TITEL VI. UITLEGGING VAN DE OVEREENKOMST
 
-#### Artikel 26. Hof van Justitie
+##### Artikel 26. Hof van Justitie
 
 1. Het Hof van Justitie van de Europese Gemeenschappen is bevoegd uitspraak te doen in elk geschil tussen lidstaten betreffende de uitlegging of de toepassing van deze overeenkomst wanneer de Raad er niet in slaagt het geschil te regelen binnen zes maanden te rekenen vanaf het tijdstip waarop een van zijn leden het hem heeft voorgelegd.
 
@@ -430,23 +455,23 @@ Het gemeenschappelijk bijzonder onderzoeksteam heeft de volgende taken:
 
 ## TITEL VII. TOEPASSING EN SLOTBEPALINGEN
 
-#### Artikel 27. Vertrouwelijkheid
+##### Artikel 27. Vertrouwelijkheid
 
 De douane-administraties houden in elk afzonderlijk geval van informatie-uitwisseling rekening met de vereisten inzake de geheimhouding van het onderzoek. Te dien einde kan een lidstaat voorwaarden opleggen met betrekking tot het gebruik dat door een andere lidstaat wordt gemaakt van de informatie die hem zou kunnen worden verstrekt.
 
-#### Artikel 28. Uitzonderingen op de verplichting tot bijstandsverlening
+##### Artikel 28. Uitzonderingen op de verplichting tot bijstandsverlening
 
 1. Deze overeenkomst verplicht de autoriteiten van de lidstaten niet elkaar bijstand te verlenen wanneer deze bijstand schade kan berokkenen aan de openbare orde of andere wezenlijke belangen, met name op het gebied van gegevensbescherming, van de betrokken lidstaat of wanneer de draagwijdte van het gevraagde optreden, met name in de context van de bijzondere vormen van samenwerking van titel IV, duidelijk niet in verhouding tot de ernst van de vermeende inbreuk staat. In die gevallen kan de bijstand volledig of gedeeltelijk worden geweigerd of aan bepaalde voorwaarden worden onderworpen.
 
 2. Elke weigering van bijstand wordt met redenen omkleed.
 
-#### Artikel 29. Kosten
+##### Artikel 29. Kosten
 
 1. De lidstaten zien normaliter af van alle aanspraken op vergoeding van de kosten verbonden aan de uitvoering van deze overeenkomst, met uitzondering van de kosten voor aan deskundigen betaalde vergoedingen.
 
 2. Indien de uitvoering van een verzoek gepaard gaat met aanzienlijke en buitengewone kosten, dient de betrokken douane-administratie overleg te plegen om de voorwaarden en praktische regels voor de uitvoering van het verzoek vast te stellen en om uit te maken op welke wijze de kosten zullen worden betaald.
 
-#### Artikel 30. Voorbehouden
+##### Artikel 30. Voorbehouden
 
 1. Afgezien van de voorbehouden bedoeld in artikel 20, lid 8, artikel 21, lid 5, en artikel 23, lid 5, zijn voorbehouden bij deze overeenkomst niet toegestaan.
 
@@ -454,13 +479,13 @@ De douane-administraties houden in elk afzonderlijk geval van informatie-uitwiss
 
 3. Zo wordt aan de verplichtingen die voortvloeien uit de bepalingen van de overeenkomst van 19 juni 1990 ter uitvoering van het op 14 juni 1985 te Schengen gesloten Akkoord betreffende de geleidelijke afschaffing van de controles aan de gemeenschappelijke grenzen, en die voorzien in een versterkte samenwerking, geen afbreuk gedaan door deze overeenkomst in het kader van de betrekkingen tussen de lidstaten die aan die bepalingen zijn gebonden.
 
-#### Artikel 31. Territoriale toepassing
+##### Artikel 31. Territoriale toepassing
 
 1. Deze overeenkomst is van toepassing op het grondgebied van de lidstaten, die tot het douanegebied van de Gemeenschap behoren, voor de Bondsrepubliek Duitsland met inbegrip van het eiland Helgoland en het grondgebied van Büsingen (in het kader van en krachtens het Verdrag tussen de Bondsrepubliek Duitsland en de Zwitserse Bondsstaat over de opneming van de gemeente Büsingen am Hochrhein in het douanegebied van de Zwitserse Bondsstaat van 23 november 1964 of de laatste versie daarvan), en voor de Italiaanse Republiek, met inbegrip van de gemeenten Livigno en Campione d'Italia, en op de territoriale wateren, de maritieme binnenwateren en het luchtruim bij die gebieden van de lidstaten.
 
 2. De Raad, die overeenkomstig de procedure van titel VI van het Verdrag betreffende de Europese Unie met eenparigheid van stemmen een besluit neemt, kan het eerste lid aanpassen aan elke wijziging van de daarin bedoelde bepalingen van het Gemeenschapsrecht.
 
-#### Artikel 32. Inwerkingtreding
+##### Artikel 32. Inwerkingtreding
 
 1. Deze overeenkomst wordt de lidstaten ter aanneming volgens hun onderscheiden grondwettelijke bepalingen voorgelegd.
 
@@ -474,7 +499,7 @@ De douane-administraties houden in elk afzonderlijk geval van informatie-uitwiss
 
 6. Op de datum van inwerkingtreding van deze overeenkomst wordt de overeenkomst tussen de lidstaten inzake wederzijdse bijstand tussen de onderscheiden douane-administraties van 7 september 1967 ingetrokken.
 
-#### Artikel 33. Toetreding
+##### Artikel 33. Toetreding
 
 1. Elke staat die lid wordt van de Europese Unie kan tot deze overeenkomst toetreden.
 
@@ -486,7 +511,7 @@ De douane-administraties houden in elk afzonderlijk geval van informatie-uitwiss
 
 5. Indien de overeenkomst nog niet in werking is getreden op het moment waarop een toetredende staat zijn akte van toetreding heeft nedergelegd, is voor deze staat artikel 32, lid 4, van toepassing.
 
-#### Artikel 34. Wijzigingen
+##### Artikel 34. Wijzigingen
 
 1. Wijzigingen in deze overeenkomst kunnen worden voorgesteld door elke lidstaat die Hoge overeenkomstsluitende Partij is. Ieder wijzigingsvoorstel wordt toegezonden aan de depositaris, die de Raad en de Commissie daarvan in kennis stelt.
 
@@ -494,7 +519,7 @@ De douane-administraties houden in elk afzonderlijk geval van informatie-uitwiss
 
 3. De overeenkomstig lid 2 vastgestelde wijzigingen treden in werking overeenkomstig artikel 32, lid 3.
 
-#### Artikel 35. Depositaris
+##### Artikel 35. Depositaris
 
 1. De secretaris-generaal van de Raad van de Europese Unie is depositaris van deze overeenkomst.
 

@@ -1,13 +1,35 @@
 ---
 title: "Regionaal Samenwerkingsverdrag inzake de bestrijding van piraterij en gewapende overvallen op zee in Azië"
 identifier: "BWBV0003173"
-categorie: "Internationaal recht"
-publicatiedatum: 2010-07-03
-laatste_update: 2010-07-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003173"
+country: "nl"
+rank: "verdrag"
+publication_date: "2010-07-03"
+last_updated: "2010-07-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003173"
+soort: "verdrag"
+stam_id: "10003382853"
+version_id: "10003422262"
+internal_id: "C10008429431"
+label_id: "10003368964"
+dtd_version: "2.0"
+original_entry_into_force: "2010-07-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003173/2010-07-03/0"
+intitule_bron: "Trb.2009-80"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2009-05-11"
+intitule_in_force: "2010-06-14"
+intitule_status: "goed"
+original_publication: "Trb.2009-80"
+original_published_date: "2009-05-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2009-80"
+entry_into_force_date: "2010-07-03"
+jci_1_3: "jci1.3:c:BWBV0003173&z=2010-07-03&g=2010-07-03"
+jci_1_0: "1.0:c:BWBV0003173&g=2010-07-03"
+citeertitel_status: "redactioneel"
+entry_into_force: "2010-07-03"
 ---
-
 # Regionaal Samenwerkingsverdrag inzake de bestrijding van piraterij en gewapende overvallen op zee in Azië
 
 De partijen bij dit Verdrag,
@@ -36,7 +58,7 @@ Zijn het volgende overeengekomen:
 
 ## DEEL I. INLEIDING
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 1. Voor de toepassing van dit Verdrag wordt onder „piraterij” elk van de volgende handelingen verstaan:
 
@@ -58,7 +80,7 @@ Zijn het volgende overeengekomen:
 
 - c. iedere opruiing tot of opzettelijke vergemakkelijking van een in onderdeel a of b omschreven handeling.
 
-#### Artikel 2. Algemene bepalingen
+##### Artikel 2. Algemene bepalingen
 
 1. De verdragsluitende partijen voeren dit Verdrag, met inbegrip van het voorkomen en bestrijden van piraterij en gewapende overvallen op zee, in zo ruim mogelijke mate uit, in overeenstemming met hun respectieve nationale wet- en regelgeving en afhankelijk van hun beschikbare middelen en mogelijkheden.
 
@@ -72,7 +94,7 @@ Zijn het volgende overeengekomen:
 
 6. Bij de toepassing van het [eerste lid van artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003173&deel=I&artikel=1&z=2010-07-03&g=2010-07-03) houdt iedere verdragsluitende partij zorgvuldig rekening met de relevante bepalingen van het [UNCLOS](https://wetten.overheid.nl/jci1.3:c:BWBV0003172) zonder afbreuk te doen aan de rechten van derden.
 
-#### Artikel 3. Algemene verplichtingen
+##### Artikel 3. Algemene verplichtingen
 
 1. Iedere verdragsluitende partij verricht alle mogelijke inspanningen, in overeenstemming met haar nationale wet- en regelgeving en de toepasselijke regels van het internationale recht, om doeltreffende maatregelen te nemen gericht op het volgende:
 
@@ -88,7 +110,7 @@ Zijn het volgende overeengekomen:
 
 ## DEEL II. CENTRUM VOOR HET UITWISSELEN VAN INFORMATIE
 
-#### Artikel 4. Samenstelling
+##### Artikel 4. Samenstelling
 
 1. Er wordt een Centrum voor het uitwisselen van informatie opgericht, hierna te noemen „het Centrum” ter bevordering van nauwe samenwerking tussen de verdragsluitende partijen bij het voorkomen en bestrijden van piraterij en gewapende overvallen op zee.
 
@@ -108,7 +130,7 @@ Zijn het volgende overeengekomen:
 
 9. De Uitvoerend Directeur vertegenwoordigt het Centrum. De Uitvoerend Directeur stelt, met goedkeuring van de Raad van Beheer, de regels en voorschriften van het Secretariaat vast.
 
-#### Artikel 5. Zetelovereenkomst
+##### Artikel 5. Zetelovereenkomst
 
 1. Het Centrum, als internationale organisatie wier leden de partijen bij dit Verdrag zijn, geniet de rechtsbevoegdheid, voorrechten en immuniteiten in de gaststaat van het Centrum die noodzakelijk zijn voor de uitoefening van zijn taken.
 
@@ -116,7 +138,7 @@ Zijn het volgende overeengekomen:
 
 3. Het Centrum sluit een overeenkomst met de gaststaat waarin onder andere de in het eerste en tweede lid van dit artikel genoemde aangelegenheden worden geregeld.
 
-#### Artikel 6. Financiering
+##### Artikel 6. Financiering
 
 1. De uitgaven van het Centrum, zoals voorzien in de door de Raad van Beheer opgestelde begroting, worden uit de volgende bronnen gefinancierd:
 
@@ -132,7 +154,7 @@ Zijn het volgende overeengekomen:
 
 3. De rekeningen van het Centrum worden jaarlijks gecontroleerd door een onafhankelijke accountant die door de Raad van Beheer wordt benoemd. De accountantsverklaring wordt ter kennis gebracht van de Raad van Beheer en wordt openbaar gemaakt in overeenstemming met het Financieel Reglement.
 
-#### Artikel 7. Taken
+##### Artikel 7. Taken
 
 Het Centrum heeft de volgende taken:
 
@@ -150,7 +172,7 @@ Het Centrum heeft de volgende taken:
 
 - g. het verrichten van andere taken waartoe de Raad van Beheer kan besluiten met het oog op het voorkomen en bestrijden van piraterij en gewapende overvallen op zee.
 
-#### Artikel 8. Bedrijfsvoering
+##### Artikel 8. Bedrijfsvoering
 
 1. Het Secretariaat is verantwoordelijk voor de dagelijkse bedrijfsvoering van het Centrum.
 
@@ -160,7 +182,7 @@ Het Centrum heeft de volgende taken:
 
 ## DEEL III. SAMENWERKING VIA HET CENTRUM VOOR HET UITWISSELEN VAN INFORMATIE
 
-#### Artikel 9. Uitwisselen van informatie
+##### Artikel 9. Uitwisselen van informatie
 
 1. Iedere verdragsluitende partij wijst een contactpunt aan dat verantwoordelijk is voor haar communicatie met het Centrum en vermeldt de aanwijzing van dit contactpunt op het tijdstip van haar ondertekening of nederlegging van een in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0003173&deel=V&artikel=18&z=2010-07-03&g=2010-07-03) voorziene akte van kennisgeving.
 
@@ -174,7 +196,7 @@ Het Centrum heeft de volgende taken:
 
 6. In het geval dat een verdragsluitende partij uit hoofde van [artikel 7, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBV0003173&deel=II&artikel=7&z=2010-07-03&g=2010-07-03), van het Centrum een waarschuwing ontvangt over een onmiddellijke dreiging van piraterij of gewapende overvallen op zee, geeft deze verdragsluitende partij de waarschuwing onverwijld door aan schepen in het gebied waarvoor deze onmiddellijke dreiging geldt.
 
-#### Artikel 10. Verzoek om samenwerking
+##### Artikel 10. Verzoek om samenwerking
 
 1. Een verdragsluitende partij kan een andere verdragsluitende partij hetzij via het Centrum hetzij rechtstreeks verzoeken samen te werken bij het opsporen van de volgende personen, schepen of luchtvaartuigen:
 
@@ -194,7 +216,7 @@ Het Centrum heeft de volgende taken:
 
 5. Elk verzoek om samenwerking door een verdragsluitende partij dat uitlevering of wederzijdse rechtshulp in strafzaken met zich meebrengt, wordt rechtstreeks tot de andere verdragsluitende partij gericht.
 
-#### Artikel 11. Medewerking van de aangezochte verdragsluitende partij
+##### Artikel 11. Medewerking van de aangezochte verdragsluitende partij
 
 1. Een verdragsluitende partij die een verzoek uit hoofde van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0003173&deel=III&artikel=10&z=2010-07-03&g=2010-07-03) heeft ontvangen, verricht, met inachtneming van het [eerste lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003173&deel=I&artikel=2&z=2010-07-03&g=2010-07-03), alle mogelijke inspanningen om doeltreffende en praktische maatregelen te nemen om een dergelijk verzoek uit te voeren.
 
@@ -204,15 +226,15 @@ Het Centrum heeft de volgende taken:
 
 ## DEEL IV. SAMENWERKING
 
-#### Artikel 12. Uitlevering
+##### Artikel 12. Uitlevering
 
 Een verdragsluitende partij streeft ernaar, met inachtneming van haar nationale wet- en regelgeving, piraten of personen die gewapende overvallen op zee hebben gepleegd, en die zich op haar grondgebied bevinden, uit te leveren aan de andere verdragsluitende partij onder wier rechtsmacht zij vallen, op verzoek van die verdragsluitende partij.
 
-#### Artikel 13. Wederzijdse rechtshulp
+##### Artikel 13. Wederzijdse rechtshulp
 
 Een verdragsluitende partij streeft ernaar, met inachtneming van haar nationale wet- en regelgeving, wederzijdse rechtshulp in strafzaken te verlenen, met inbegrip van het overleggen van bewijsmateriaal met betrekking tot piraterij en gewapende overvallen op zee, op verzoek van een andere verdragsluitende partij.
 
-#### Artikel 14. Capaciteitsopbouw
+##### Artikel 14. Capaciteitsopbouw
 
 1. Ten behoeve van het uitbreiden van de capaciteit van de verdragsluitende partijen op het gebied van het voorkomen en bestrijden van piraterij en gewapende overvallen op zee, streeft iedere verdragsluitende partij ernaar in zo ruim mogelijke mate samen te werken met andere verdragsluitende partijen die om samenwerking of bijstand verzoeken.
 
@@ -220,21 +242,21 @@ Een verdragsluitende partij streeft ernaar, met inachtneming van haar nationale 
 
 3. Een dergelijke capaciteitsopbouw kan technische bijstand omvatten, zoals onderwijs- en trainingsprogramma’s om ervaringen en beste praktijken te delen.
 
-#### Artikel 15. Samenwerkingsakkoorden
+##### Artikel 15. Samenwerkingsakkoorden
 
 Samenwerkingsakkoorden, zoals over gezamenlijke oefeningen of andere vormen van samenwerking, al naar gelang van toepassing, kunnen door de betrokken verdragsluitende partijen worden overeengekomen.
 
-#### Artikel 16. Beschermingsmaatregelen voor schepen
+##### Artikel 16. Beschermingsmaatregelen voor schepen
 
 Iedere verdragsluitende partij moedigt schepen, reders of scheepsexploitanten, al naar gelang van toepassing, aan beschermingsmaatregelen te nemen tegen piraterij en gewapende overvallen op zee, rekening houdend met de relevante internationale normen en praktijken, met name de aanbevelingen aangenomen door de Internationale Maritieme Organisatie.
 
 ## DEEL V. SLOTBEPALINGEN
 
-#### Artikel 17. Beslechting van geschillen
+##### Artikel 17. Beslechting van geschillen
 
 Geschillen die voortvloeien uit de uitlegging of toepassing van dit Verdrag, met inbegrip van geschillen over de aansprakelijkheid voor verlies of schade als gevolg van een verzoek uit hoofde van het [tweede lid van artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0003173&deel=III&artikel=10&z=2010-07-03&g=2010-07-03) of een maatregel uit hoofde van het [eerste lid van artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003173&deel=III&artikel=11&z=2010-07-03&g=2010-07-03), worden door de betrokken verdragsluitende partijen in der minne geschikt door middel van onderhandelingen in overeenstemming met de van toepassing zijnde regels van het internationale recht.
 
-#### Artikel 18. Ondertekening en inwerkingtreding
+##### Artikel 18. Ondertekening en inwerkingtreding
 
 1. Dit Verdrag staat bij de in het tweede lid van dit artikel bedoelde depositaris open voor ondertekening door de Volksrepubliek Bangladesh, Brunei Darussalam, het Koninkrijk Cambodja, de Volksrepubliek China, de Republiek India, de Republiek Indonesië, Japan, de Republiek Korea, de Democratische Volksrepubliek Laos, Maleisië, de Unie van Myanmar, de Republiek der Filippijnen, de Republiek Singapore, de Democratische Socialistische Republiek Sri Lanka, het Koninkrijk Thailand, de Socialistische Republiek Vietnam.
 
@@ -246,13 +268,13 @@ Geschillen die voortvloeien uit de uitlegging of toepassing van dit Verdrag, met
 
 5. Dit Verdrag staat na de inwerkingtreding ervan open voor toetreding door iedere niet in het eerste lid genoemde staat. Iedere staat die tot dit Verdrag wenst toe te treden kan de depositaris hiervan in kennis stellen. De depositaris stelt alle andere verdragsluitende partijen onverwijld in kennis van de ontvangst van een dergelijke kennisgeving. Indien 90 dagen na de ontvangst van een dergelijke kennisgeving door de depositaris geen van de verdragsluitende partijen schriftelijk bezwaar heeft aangetekend, kan deze staat een akte van toetreding bij de depositaris nederleggen en wordt hij 60 dagen na de nederlegging van de akte van toetreding partij bij dit Verdrag.
 
-#### Artikel 19. Wijziging
+##### Artikel 19. Wijziging
 
 1. Iedere verdragsluitende partij kan een wijziging van dit Verdrag voorstellen, te allen tijde nadat het Verdrag in werking is getreden. Voor een dergelijke wijziging is de instemming van alle verdragsluitende partijen vereist.
 
 2. Een wijziging treedt in werking 90 dagen na de aanvaarding ervan door alle verdragsluitende partijen. De akten van aanvaarding worden nedergelegd bij de depositaris, die alle andere verdragsluitende partijen onverwijld van de nederlegging van dergelijke akten in kennis stelt.
 
-#### Artikel 20. Opzegging
+##### Artikel 20. Opzegging
 
 1. Iedere verdragsluitende partij kan dit Verdrag te allen tijde na de inwerkingtreding ervan opzeggen.
 
@@ -262,11 +284,11 @@ Geschillen die voortvloeien uit de uitlegging of toepassing van dit Verdrag, met
 
 4. De depositaris stelt alle overige verdragsluitende partijen van elke opzegging onverwijld in kennis.
 
-#### Artikel 21. Authentieke tekst
+##### Artikel 21. Authentieke tekst
 
 Van dit Verdrag is de tekst in de Engelse taal authentiek.
 
-#### Artikel 22. Registratie
+##### Artikel 22. Registratie
 
 Dit Verdrag wordt geregistreerd in overeenstemming met de bepalingen van artikel 102 van het Handvest van de Verenigde Naties.
 

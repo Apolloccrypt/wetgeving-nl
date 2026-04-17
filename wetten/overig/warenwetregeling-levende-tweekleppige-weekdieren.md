@@ -1,13 +1,38 @@
 ---
 title: "Warenwetregeling levende tweekleppige weekdieren"
 identifier: "BWBR0034872"
-categorie: "Overig"
-publicatiedatum: 2025-08-01
-laatste_update: 2025-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034872"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-08-01"
+last_updated: "2025-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034872"
+soort: "ministeriele-regeling"
+stam_id: "12591553"
+version_id: "26281662"
+internal_id: "C37352561"
+label_id: "12562094"
+dtd_version: "2.0"
+original_entry_into_force: "2019-11-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034872/2025-08-01/0"
+intitule_bron: "Stcrt.2014-5358"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-02-19"
+intitule_published: "2014-02-27"
+intitule_in_force: "2014-02-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-65033"
+original_signed_date: "2019-11-21"
+original_published_date: "2019-11-29"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2019-65033"
+entry_into_force_date: "2019-11-21"
+jci_1_3: "jci1.3:c:BWBR0034872&z=2025-08-01&g=2025-08-01"
+jci_1_0: "1.0:c:BWBR0034872&g=2025-08-01"
+citeertitel_status: "officieel"
+signed_date: "2019-11-21"
+entry_into_force: "2019-11-21"
 ---
-
 # Warenwetregeling levende tweekleppige weekdieren
 
 Gelet op bijlage II, hoofdstuk II, van [Verordening (EG) nr. 854/2004](32004R0854) van het Europees Parlement en de Raad van 29 april 2004 houdende vaststelling van specifieke voorschriften voor de organisatie van de officiële controles van voor menselijke consumptie bestemde producten van dierlijke oorsprong (PbEU 2004, L 139) en [artikel 10 van het Warenwetbesluit hygiëne van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&artikel=10);
@@ -16,7 +41,7 @@ Besluit:
 
 Treedt in werking op het tijdstip waarop het Besluit wijziging enkele algemene maatregelen van bestuur (opheffen van de product- en bedrijfschappen en aanpassing van het Warenwetbesluit cosmetische producten 2011) (Stb. 2014, 81) in werking treedt.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling en de daarop berustende besluiten wordt verstaan onder:
 
@@ -40,25 +65,25 @@ In deze regeling en de daarop berustende besluiten wordt verstaan onder:
 
 - **YB:** percelen gelegen op de Yersekebank in de Oosterschelde.
 
-#### Artikel 2. Productiegebieden
+##### Artikel 2. Productiegebieden
 
 1. De productiegebieden worden aangewezen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0034872&bijlage=I&z=2025-08-01&g=2025-08-01).
 
 2. De soorten tweekleppige weekdieren waarvoor het betreffende productiegebied is aangewezen en de klasse van het betreffende productiegebied zijn vermeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0034872&bijlage=I&z=2025-08-01&g=2025-08-01).
 
-#### Artikel 3. Verwatergebieden
+##### Artikel 3. Verwatergebieden
 
 De verwatergebieden worden aangewezen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0034872&bijlage=II&z=2025-08-01&g=2025-08-01).
 
-#### Artikel 4. Heruitzettingsgebieden
+##### Artikel 4. Heruitzettingsgebieden
 
 Er worden geen heruitzettingsgebieden aangewezen.
 
-#### Artikel 5
+##### Artikel 5
 
 Het registratiedocument, zoals opgenomen in Bijlage III, sectie VII, Hoofdstuk X van [Verordening (EG) Nr. 853/2004](32004R0853) van het Europees Parlement en de Raad van 29 april 2004 houdende vaststelling van specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong (PbEU 2004, L 139), wordt beschikbaar gesteld door de NVWA.
 
-#### Artikel 6. Tijdelijke maatregelen
+##### Artikel 6. Tijdelijke maatregelen
 
 1. Onze Minister kan tijdelijk:
 
@@ -78,17 +103,17 @@ Het registratiedocument, zoals opgenomen in Bijlage III, sectie VII, Hoofdstuk X
 
 2. Elke tijdelijke maatregel wordt door Onze Minister onverwijld aan de bij hen bekende betrokken ondernemers en overige belanghebbenden gemeld of op de website van de NVWA gepubliceerd.
 
-#### Artikel 7. Wijziging van [Warenwetregeling procedures registratie en erkenning van levensmiddelenbedrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0019442)
+##### Artikel 7. Wijziging van [Warenwetregeling procedures registratie en erkenning van levensmiddelenbedrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0019442)
 
 Wijzigt de Warenwetregeling procedures registratie en erkenning van levensmiddelenbedrijven.
 
-#### Artikel 8. Overgangsrecht
+##### Artikel 8. Overgangsrecht
 
 1. Tijdelijke maatregelen van de Voorzitter, namens het bestuur van het Productschap Vis op grond van [artikel 7 van de Verordening productiegebieden levende tweekleppige weekdieren 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0018874&artikel=7), zoals deze gold tot het tijdstip van inwerkingtreding van deze regeling, gelden als tijdelijke maatregelen in de zin van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034872&artikel=6&z=2025-08-01&g=2025-08-01).
 
 2. Levensmiddelenbedrijven die op het tijdstip van inwerkingtreding van deze regeling geregistreerd waren bij het Hoofdbedrijfschap Detailhandel, het Hoofdbedrijfschap Ambachten, het Hoofdbedrijfschap Agrarische Groothandel Groeten en Fruit, het Bedrijfschap Horeca en Catering, de Productschappen Vee, Vlees en Eieren en het Productschap Vis op basis van [artikel 3, eerste lid, van de Warenwetregeling procedures registratie en erkenning van levensmiddelenbedrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0019442&artikel=3), hebben na inwerkingtreding van deze regeling voldaan aan de verplichting genoemd in [artikel 2, eerste lid, van de Warenwetregeling procedures registratie en erkenning van levensmiddelenbedrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0019442&artikel=2).
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling berust op [artikel 5 van het Warenwetbesluit uitvoering officiële controles en andere officiële activiteiten](https://wetten.overheid.nl/jci1.3:c:BWBR0042548&artikel=5).
 
@@ -145,7 +170,7 @@ Deze regeling berust op [artikel 5 van het Warenwetbesluit uitvoering officiële
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling wordt aangehaald als: Warenwetregeling levende tweekleppige weekdieren.
 

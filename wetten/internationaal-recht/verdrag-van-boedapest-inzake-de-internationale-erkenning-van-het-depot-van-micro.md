@@ -1,22 +1,44 @@
 ---
 title: "Verdrag van Boedapest inzake de internationale erkenning van het depot van micro-organismen ten dienste van de octrooiverlening"
 identifier: "BWBV0004052"
-categorie: "Internationaal recht"
-publicatiedatum: 2023-01-01
-laatste_update: 2023-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004052"
+country: "nl"
+rank: "verdrag"
+publication_date: "2023-01-01"
+last_updated: "2023-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004052"
+soort: "verdrag"
+stam_id: "10003868853"
+version_id: "10003943902"
+internal_id: "C10006981871"
+label_id: "10003854324"
+dtd_version: "2.0"
+original_entry_into_force: "1987-07-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004052/2023-01-01/0"
+intitule_bron: "Trb.1978-90"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1978-07-13"
+intitule_in_force: "1987-04-21"
+intitule_status: "goed"
+original_publication: "Trb.1978-90"
+original_published_date: "1978-07-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1978-90"
+entry_into_force_date: "1987-07-02"
+jci_1_3: "jci1.3:c:BWBV0004052&z=2023-01-01&g=2023-01-01"
+jci_1_0: "1.0:c:BWBV0004052&g=2023-01-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1987-07-02"
 ---
-
 # Verdrag van Boedapest inzake de internationale erkenning van het depot van micro-organismen ten dienste van de octrooiverlening
 
 ### INLEIDENDE BEPALINGEN
 
-#### Artikel 1. Oprichting van een Unie
+##### Artikel 1. Oprichting van een Unie
 
 De Staten die partij zijn bij dit Verdrag (hierna te noemen: „de Verdragsluitende Staten”), vormen een Unie voor de internationale erkenning van het depot van micro-organismen ten dienste van de octrooiprocedure.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 In dit Verdrag en in het Uitvoeringsreglement wordt verstaan:
 
@@ -52,7 +74,7 @@ In dit Verdrag en in het Uitvoeringsreglement wordt verstaan:
 
 ### HOOFDSTUK I. MATERIËLE BEPALINGEN
 
-#### Artikel 3. Erkenning en gevolg van het depot van micro-organismen
+##### Artikel 3. Erkenning en gevolg van het depot van micro-organismen
 
 - (a). Verdragsluitende Staten die een depot van micro-organismen toestaan of vereisen ten dienste van de octrooiprocedure, dienen voor dat doel het depot van een micro-organisme bij een internationale depositaris te erkennen. Deze erkenning dient zowel de erkenning van het feit en de datum van het depot, zoals door de internationale depositaris aangegeven, te omvatten, alsook de erkenning van het feit dat hetgeen als monster wordt verstrekt, inderdaad een monster van het gedeponeerde micro-organisme is.
 
@@ -60,7 +82,7 @@ In dit Verdrag en in het Uitvoeringsreglement wordt verstaan:
 
 2. Voor zover het in dit Verdrag en het Uitvoeringsreglement geregelde aangelegenheden betreft, mag geen enkele Verdragsluitende Staat verlangen dat er voldaan wordt aan eisen die afwijken van of een aanvulling zijn op die welke in dit Verdrag en het Uitvoeringsreglement worden gesteld.
 
-#### Artikel 4. Nieuw depot
+##### Artikel 4. Nieuw depot
 
 - (a). Indien de internationale depositaris door een of andere oorzaak geen monsters van het gedeponeerde micro-organisme kan verstrekken, in het bijzonder stelt deze depositaris, zo spoedig mogelijk nadat hij tot de conclusie is gekomen dat hij geen monsters kan verstrekken, de bewaargever hiervan in kennis, met vermelding van de oorzaak daarvan, en heeft de bewaargever, behoudens het bepaalde in het tweede lid en in dit lid, het recht een nieuw depot van het oorspronkelijk gedeponeerde micro-organisme te verrichten.
 
@@ -82,11 +104,11 @@ In dit Verdrag en in het Uitvoeringsreglement wordt verstaan:
 
 2. Het in het eerste lid, letter (a) genoemde recht vervalt, indien het gedeponeerde micro-organisme is overgedragen aan een andere internationale depositaris, mits deze over de mogelijkheid beschikt monsters van dit micro-organisme te verstrekken.
 
-#### Artikel 5. Uitvoer- en invoerbeperkingen
+##### Artikel 5. Uitvoer- en invoerbeperkingen
 
 Elke Verdragsluitende Staat erkent dat het zeer gewenst is, dat, indien en voor zover de uitvoer uit of de invoer op zijn grondgebied van bepaalde soorten micro-organismen wordt beperkt, deze beperking slechts behoort te gelden voor micro-organismen die krachtens dit Verdrag zijn gedeponeerd of zijn bestemd voor depot, indien de beperking noodzakelijk is met het oog op de nationale veiligheid of de risico's voor de volksgezondheid of het milieu.
 
-#### Artikel 6. Status van internationale depositaris
+##### Artikel 6. Status van internationale depositaris
 
 1. Ten einde in aanmerking te komen voor de status van internationale depositaris, dient een instituut voor bewaarneming op het grondgebied van een Verdragsluitende Staat te zijn gevestigd en door deze Staat verstrekte waarborgen te genieten, dat deze instelling voldoet en blijft voldoen aan de in het tweede lid omschreven eisen. Deze waarborgen kunnen eveneens door een intergouvernementele organisatie voor de industriële eigendom worden verstrekt; in dit geval dient het instituut voor bewaargeving te zijn gevestigd op het grondgebied van een Lid-Staat van genoemde organisatie.
 
@@ -114,7 +136,7 @@ Elke Verdragsluitende Staat erkent dat het zeer gewenst is, dat, indien en voor 
 
 - (ii). indien de status van internationale depositaris van een internationale depositaris wordt beëindigd of beperkt.
 
-#### Artikel 7. Verkrijging van de status van internationale depositaris
+##### Artikel 7. Verkrijging van de status van internationale depositaris
 
 - (a). Een instituut voor bewaarneming verkrijgt de status van internationale depositaris krachtens een schriftelijke mededeling, gericht aan de Directeur-Generaal, door de Verdragsluitende Staat op wiens grondgebied het instituut voor bewaarneming is gevestigd, en waarin tevens is opgenomen een verklaring houdende de waarborgen, dat het genoemde instituut voldoet en blijft voldoen aan de in artikel 6, tweede lid, omschreven eisen. De bedoelde status kan eveneens worden verkregen krachtens een schriftelijke mededeling, gericht aan de Directeur-Generaal, door een intergouvernementele organisatie voor de industriële eigendom, en waarin tevens de genoemde verklaring is opgenomen.
 
@@ -126,7 +148,7 @@ Elke Verdragsluitende Staat erkent dat het zeer gewenst is, dat, indien en voor 
 
 3. De bijzonderheden van de procedure ingevolge het bepaalde in het eerste en het tweede lid worden in het Uitvoeringsreglement gegeven.
 
-#### Artikel 8. Beëindiging en beperking van de status van internationale depositaris
+##### Artikel 8. Beëindiging en beperking van de status van internationale depositaris
 
 - (a). Elke Verdragsluitende Staat of intergouvernementele organisatie voor de industriële eigendom kan de Algemene Vergadering verzoeken de status van internationale depositaris van een instelling te beëindigen of te beperken tot bepaalde soorten micro-organismen, op grond van het feit dat aan de in artikel 6 omschreven eisen niet is of niet meer wordt voldaan. Een zodanig verzoek kan echter niet door een Verdragsluitende Staat of een intergouvernementele organisatie voor de industriële eigendom worden gedaan met betrekking tot een internationale depositaris voor wie de betrokken Staat of organisatie de in artikel 7, eerste lid, letter (a) bedoelde verklaring heeft afgegeven.
 
@@ -140,7 +162,7 @@ Elke Verdragsluitende Staat erkent dat het zeer gewenst is, dat, indien en voor 
 
 3. De bijzonderheden van de in het eerste en het tweede lid bedoelde procedure worden in het Uitvoeringsreglement gegeven.
 
-#### Artikel 9. Intergouvernementele organisaties voor de industriële eigendom
+##### Artikel 9. Intergouvernementele organisaties voor de industriële eigendom
 
 - (a). Een intergouvernementele organisatie waaraan een aantal Staten de verlening van regionale octrooien heeft opgedragen en waarvan alle Lid-Staten tevens lid zijn van de Internationale Unie tot bescherming van de industriële eigendom (Unie van Parijs), kan bij de Directeur-Generaal een verklaring deponeren dat zij de verplichting tot erkenning, bedoeld in artikel 3, eerste lid, letter (a), en de verplichting inzake de in artikel 3, tweede lid, bedoelde eisen, aanvaardt, alsmede alle gevolgen, voortvloeiend uit de bepalingen van dit Verdrag en het Uitvoeringsreglement die van toepassing zijn op intergouvernementele organisaties voor de industriële eigendom. Indien de in de vorige zin bedoelde verklaring wordt gedeponeerd vóór de inwerkingtreding van dit Verdrag overeenkomstig het bepaalde in artikel 16, eerste lid, wordt deze van kracht op de datum waarop het Verdrag in werking treedt. Indien deze verklaring wordt gedeponeerd na de inwerkingtreding van het Verdrag, wordt zij van kracht drie maanden na de datum van deponering, tenzij een later tijdstip in de verklaring is aangegeven. In het laatste geval wordt de verklaring van kracht op de aangegeven datum.
 
@@ -160,7 +182,7 @@ Elke Verdragsluitende Staat erkent dat het zeer gewenst is, dat, indien en voor 
 
 ### HOOFDSTUK II. ADMINISTRATIEVE BEPALINGEN
 
-#### Artikel 10. Algemene Vergadering
+##### Artikel 10. Algemene Vergadering
 
 - (a). De Algemene Vergadering bestaat uit de Verdragsluitende Staten.
 
@@ -208,7 +230,7 @@ Elke Verdragsluitende Staat erkent dat het zeer gewenst is, dat, indien en voor 
 
 8. De Algemene Vergadering stelt haar eigen reglement van orde vast.
 
-#### Artikel 11. Internationaal Bureau
+##### Artikel 11. Internationaal Bureau
 
 1. Het Internationaal Bureau:
 
@@ -232,7 +254,7 @@ Elke Verdragsluitende Staat erkent dat het zeer gewenst is, dat, indien en voor 
 
 - (d). De Directeur-Generaal of een door hem aangewezen lid van het personeel is ambtshalve secretaris van een herzieningsconferentie.
 
-#### Artikel 12. Het Uitvoeringsreglement
+##### Artikel 12. Het Uitvoeringsreglement
 
 1. Het Uitvoeringsreglement bevat bepalingen inzake:
 
@@ -254,7 +276,7 @@ Elke Verdragsluitende Staat erkent dat het zeer gewenst is, dat, indien en voor 
 
 ### HOOFDSTUK III. HERZIENING EN WIJZIGING
 
-#### Artikel 13. Herziening van het Verdrag
+##### Artikel 13. Herziening van het Verdrag
 
 1. Dit Verdrag kan van tijd tot tijd worden herzien door conferenties van de Verdragsluitende Staten.
 
@@ -262,7 +284,7 @@ Elke Verdragsluitende Staat erkent dat het zeer gewenst is, dat, indien en voor 
 
 3. De artikelen 10 en 11 kunnen hetzij door een herzieningsconferentie hetzij ingevolge artikel 14 worden gewijzigd.
 
-#### Artikel 14. Wijziging van zekere bepalingen van het Verdrag
+##### Artikel 14. Wijziging van zekere bepalingen van het Verdrag
 
 - (a). Voorstellen ingevolge dit artikel tot wijziging van de artikelen 10 en 11 kunnen door iedere Verdragsluitende Staat of door de Directeur-Generaal worden ingediend.
 
@@ -280,7 +302,7 @@ Elke Verdragsluitende Staat erkent dat het zeer gewenst is, dat, indien en voor 
 
 ### HOOFDSTUK IV. SLOTBEPALINGEN
 
-#### Artikel 15. Wijze waarop Staten partij bij liet Verdrag kunnen worden
+##### Artikel 15. Wijze waarop Staten partij bij liet Verdrag kunnen worden
 
 1. Elke Staat die lid is van de Internationale Unie tot bescherming van de industriële eigendom (Unie van Parijs), kan partij bij dit Verdrag worden door:
 
@@ -290,13 +312,13 @@ Elke Verdragsluitende Staat erkent dat het zeer gewenst is, dat, indien en voor 
 
 2. De akten van bekrachtiging of toetreding worden bij de Directeur-Generaal nedergelegd.
 
-#### Artikel 16. Inwerkingtreding van het Verdrag
+##### Artikel 16. Inwerkingtreding van het Verdrag
 
 1. Dit Verdrag treedt in werking ten aanzien van de eerste vijf Staten die hun akte van bekrachtiging of toetreding hebben nedergelegd, drie maanden na de datum waarop de vijfde akte van bekrachtiging of toetreding is nedergelegd.
 
 2. Dit Verdrag treedt in werking ten aanzien van elke andere Staat drie maanden na de datum waarop deze Staat zijn akte van bekrachtiging of toetreding heeft nedergelegd, tenzij een later tijdstip is aangegeven in de akte van bekrachtiging of toetreding. In dat geval treedt dit Verdrag ten aanzien van deze Staat in werking op de aldus aangegeven datum.
 
-#### Artikel 17. Opzegging van het Verdrag
+##### Artikel 17. Opzegging van het Verdrag
 
 1. Elke Verdragsluitende Staat kan dit Verdrag opzeggen door een schriftelijke kennisgeving aan de Directeur-Generaal.
 
@@ -306,7 +328,7 @@ Elke Verdragsluitende Staat erkent dat het zeer gewenst is, dat, indien en voor 
 
 4. De opzegging van dit Verdrag door een Verdragsluitende Staat die de in artikel 7, eerste lid, letter (a) bedoelde verklaring heeft afgegeven met betrekking tot een instituut voor bewaarneming, dat daardoor de status van internationale depositaris heeft verkregen, heeft tot gevolg dat deze status wordt beëindigd één jaar na de datum waarop de Directeur-Generaal de in het eerste lid bedoelde kennisgeving heeft ontvangen.
 
-#### Artikel 18. Ondertekening en talen van het Verdrag
+##### Artikel 18. Ondertekening en talen van het Verdrag
 
 - (a). Dit Verdrag wordt ondertekend in één enkel exemplaar in de Engelse en de Franse taal, zijnde beide teksten gelijkelijk authentiek.
 
@@ -316,7 +338,7 @@ Elke Verdragsluitende Staat erkent dat het zeer gewenst is, dat, indien en voor 
 
 2. Dit Verdrag staat open voor ondertekening te Boedapest tot 31 december 1977.
 
-#### Artikel 19. Nederlegging van het Verdrag; verstrekking van afschriften; registratie van het Verdrag
+##### Artikel 19. Nederlegging van het Verdrag; verstrekking van afschriften; registratie van het Verdrag
 
 1. Het origineel van dit Verdrag wordt, indien dit niet meer voor ondertekening openstaat, nedergelegd bij de Directeur-Generaal.
 
@@ -326,7 +348,7 @@ Elke Verdragsluitende Staat erkent dat het zeer gewenst is, dat, indien en voor 
 
 4. De Directeur-Generaal zendt twee door hem gewaarmerkte afschriften van elke wijziging van dit Verdrag en van het Uitvoeringsreglement aan alle Verdragsluitende Staten, aan alle intergouvernementele organisaties voor de industriële eigendom en, op verzoek, aan de Regeringen van andere Staten en aan elke andere intergouvernementele organisatie die een verklaring ingevolge artikel 9, eerste lid, letter (a) kan deponeren.
 
-#### Artikel 20. Kennisgevingen
+##### Artikel 20. Kennisgevingen
 
 De Directeur-Generaal stelt de Verdragsluitende Staten, de intergouvernementele organisaties voor de industriële eigendom, alsmede die Staten welke geen lid zijn van de Unie, maar wel lid zijn van de Internationale Unie tot de bescherming van de industriële eigendom (Unie van Parijs), in kennis van:
 
@@ -348,7 +370,7 @@ De Directeur-Generaal stelt de Verdragsluitende Staten, de intergouvernementele 
 
 - (ix). de overeenkomstig artikel 17 ontvangen opzeggingen.
 
-#### Regel 1. Verkorte uitdrukkingen en interpretatie van het woord „ondertekening”
+##### Regel 1. Verkorte uitdrukkingen en interpretatie van het woord „ondertekening”
 
 1.1. **„Verdrag”**
 
@@ -362,7 +384,7 @@ In dit Uitvoeringsreglement heeft het woord „artikel” betrekking op het desb
 
 Steeds waar in dit Uitvoeringsreglement het woord „ondertekening” wordt gebruikt, wordt dit woord, indien de wetten van de Staat op wiens grondgebied zich de zetel van een internationale depositaris bevindt, het gebruik van een zegel in plaats van een ondertekening vereisen, wat deze depositaris betreft, opgevat als „zegel”.
 
-#### Regel 2. Internationale depositarissen
+##### Regel 2. Internationale depositarissen
 
 2.1. **Wettelijke status**
 
@@ -380,7 +402,7 @@ De in artikel 6, tweede lid, onder (ii) bedoelde eisen omvatten in het bijzonder
 
 De in artikel 6, tweede lid, onder (viii) bedoelde eisen omvatten in het bijzonder de eis dat een internationale depositaris op snelle en passende wijze monsters van gedeponeerde micro-organismen dient te verstrekken.
 
-#### Regel 3. Verkrijging van de status van internationale depositaris
+##### Regel 3. Verkrijging van de status van internationale depositaris
 
 3.1. **Mededeling**
 
@@ -408,7 +430,7 @@ Indien de mededeling voldoet aan het bepaalde in artikel 7, eerste lid, en Regel
 
 De Verdragsluitende Staat of de intergouvernementele organisatie voor de industriële eigendom die de in artikel 7, eerste lid bedoelde mededeling heeft gedaan, kan op elk gewenst tijdstip daarna de Directeur-Generaal ervan in kennis stellen dat de waarborgen van de betrokken Staat of organisatie worden uitgebreid tot bepaalde soorten micro-organismen waartoe de waarborgen zich tot dusver niet hebben uitgestrekt, in een dergelijk geval, en voor zover het de toegevoegde soorten micro-organismen betreft, is mutatis mutandis het bepaalde in artikel 7 en Regel 3, eerste en tweede lid, van toepassing.
 
-#### Regel 4. Beëindiging of beperking van de status van internationale depositaris
+##### Regel 4. Beëindiging of beperking van de status van internationale depositaris
 
 4.1. **Verzoek; behandeling van het verzoek**
 
@@ -450,7 +472,7 @@ De Verdragsluitende Staat of de intergouvernementele organisatie voor de industr
 
 In geval van beëindiging of beperking van de status van internationale depositaris ingevolge de artikelen 8, eerste en tweede lid, 9, vierde lid, of 17, vierde lid, is mutatis mutandis Regel 5, eerste lid van toepassing.
 
-#### Regel 5. In gebreke blijven van de internationale depositaris
+##### Regel 5. In gebreke blijven van de internationale depositaris
 
 5.1. **Staking van de uitoefening van de functies met betrekking tot gedeponeerde micro-organismen**
 
@@ -480,7 +502,7 @@ In geval van beëindiging of beperking van de status van internationale deposita
 
 - (b). De Directeur-Generaal stelt de overige Verdragsluitende Staten en intergouvernementele organisaties voor de industriële eigendom onverwijld in kennis van de ingevolge het bepaalde in letter (a) ontvangen kennisgeving; de kennisgeving van de Directeur-Generaal en de door hem ontvangen kennisgeving worden onverwijld door het Internationaal Bureau gepubliceerd.
 
-#### Regel 6. Het verrichten van het oorspronkelijke depot of het nieuwe depot
+##### Regel 6. Het verrichten van het oorspronkelijke depot of het nieuwe depot
 
 - (a). Het door de bewaargever aan de internationale depositaris overgedragen micro-organisme gaat, behalve in gevallen waarin Regel 6, tweede lid van toepassing is, vergezeld van een schriftelijke verklaring die van de handtekening van de bewaargever is voorzien en de volgende gegevens bevat:
 
@@ -546,7 +568,7 @@ In geval van beëindiging of beperking van de status van internationale deposita
 
 - (d). Op verzoek van de bewaargever en mits aan alle eisen bedoeld in letter (b) is voldaan, beschouwt de internationale depositaris een microorganisme dat werd gedeponeerd voordat deze autoriteit de status van internationale depositaris had verworven, voor de toepassing van het Verdrag te zijn ontvangen op de datum waarop deze status werd verworven.
 
-#### Regel 7. Ontvangbewijs
+##### Regel 7. Ontvangbewijs
 
 7.1. **Afgifte van een ontvangbewijs**
 
@@ -620,7 +642,7 @@ De internationale depositaris aan wie ingevolge Regel 5, eerste lid, letter (a),
 
 Op verzoek van een partij die ingevolge het bepaalde in Regel 11, eerste, tweede of derde lid, gerechtigd is een monster van het gedeponeerde micro-organisme te ontvangen, zendt de internationale depositaris de in Regel 6, eerste lid, letter (b), tweede lid, letter (a) onder (iii) of in Regel 8, eerste lid, letter (b) onder (iii) bedoelde meest recente wetenschappelijke beschrijvingen/of taxonomische aanduiding aan deze partij toe.
 
-#### Regel 8. Mededeling of wijziging van de wetenschappelijke beschrijving en/of de voorgestelde taxonomische aanduiding op een later tijdstip
+##### Regel 8. Mededeling of wijziging van de wetenschappelijke beschrijving en/of de voorgestelde taxonomische aanduiding op een later tijdstip
 
 8.1. **Kennisgeving**
 
@@ -640,7 +662,7 @@ Op verzoek van een partij die ingevolge het bepaalde in Regel 11, eerste, tweede
 
 De internationale depositaris verstrekt, op verzoek van de bewaargever die de in Regel 8, eerste lid, bedoelde kennisgeving heeft gedaan, deze een bewijs waarin de in Regel 8, eerste lid, letter (b) onder (i) t/m (iv), genoemde gegevens en de datum van ontvangst van deze kennisgeving zijn vermeld.
 
-#### Regel 9. Opslag van micro-organismen
+##### Regel 9. Opslag van micro-organismen
 
 9.1. **Duur van de opslag**
 
@@ -650,7 +672,7 @@ Elk micro-organisme dat bij een internationale depositaris wordt gedeponeerd, di
 
 Geen enkele internationale depositaris mag aan derden mededelen of een micro-organisme ingevolge het Verdrag bij hem is gedeponeerd. Bovendien mag hij niemand inlichtingen verstrekken omtrent een bij hem ingevolge dit Verdrag gedeponeerd micro-organisme, behalve aan een instantie, natuurlijke persoon of rechtspersoon die krachtens het bepaalde in Regel 11 bevoegd is tot verkrijging van een monster van het genoemde micro-organisme en op dezelfde voorwaarden als in die Regel zijn bepaald.
 
-#### Regel 10. Onderzoek van de levensvatbaarheid en daarop betrekking hebbende verklaring
+##### Regel 10. Onderzoek van de levensvatbaarheid en daarop betrekking hebbende verklaring
 
 10.1. **Verplichting tot instelling van een onderzoek**
 
@@ -692,7 +714,7 @@ De internationale depositaris onderzoekt de levensvatbaarheid van elk bij hem ge
 
 - (e). In het in letter (a) onder (i) bedoelde geval of indien het verzoek wordt gedaan door een bureau voor de industriële eigendom, geschiedt de afgifte van de verklaring inzake de levensvatbaarheid kosteloos. Een eventuele vergoeding, verschuldigd ingevolge Regel 12, eerste lid, letter (a), onder (iii), met betrekking tot een andere verklaring inzake de levensvatbaarheid, wordt aan de partij die om de verklaring heeft verzocht, in rekening gebracht; deze wordt betaald voor of op de datum waarop het verzoek wordt gedaan.
 
-#### Regel 11. Verstrekking van monsters
+##### Regel 11. Verstrekking van monsters
 
 11.1. **Verstrekking van monsters aan belanghebbende bureaus voor de industriële eigendom**
 
@@ -764,7 +786,7 @@ Een internationale depositaris verstrekt een monster van een gedeponeerd micro-o
 
 Wanneer een aanvrage werd ingediend als een internationale aanvrage krachtens het Verdrag tot samenwerking inzake octrooien wordt de verwijzing naar de indiening van de aanvrage bij het bureau voor de industriële eigendom in Regel 11, eerste lid, onder (i) en derde lid, letter (a), onder (i) beschouwd als een verwijzing naar de aanwijzing in de ¡nternationale aanvrage van de Verdragsluitende Staat waarvoor het bureau voor de industriële eigendom het „aangewezen Bureau” is in de zin van dat Verdrag, en wordt de bevestiging dat publikatie heeft plaatsgevonden, die wordt vereist door het bepaalde in Regel 11, derde lid, letter (a) onder (ii), naar keuze van het bureau voor de industriële eigendom, een bevestiging van ¡nternationale publikatie ingevolge genoemd Verdrag of eεn bevestiging van publikatie door het bureau voor de industriële eigendom.
 
-#### Regel 12. Vergoedingen
+##### Regel 12. Vergoedingen
 
 12.1. **Soorten en bedragen**
 
@@ -792,7 +814,7 @@ Wanneer een aanvrage werd ingediend als een internationale aanvrage krachtens he
 
 - (c). Elke nieuwe vergoeding wordt van kracht met ingang van de in letter (a) genoemde datum, met dien verstande dat, indien de wijziging bestaat in een verhoging van de bedragen van de vergoedingen, of indien geen datum op de voorgeschreven wijze wordt aangegeven, de nieuwe vergoedingen van kracht worden met ingang van de dertigste dag na de publikatie van de wijziging door het Internationaal Bureau.
 
-#### Regel 12 bis. Berekening van termijnen
+##### Regel 12 bis. Berekening van termijnen
 
 12bis.1. **In jaren uitgedrukte tijdvakken**
 
@@ -806,7 +828,7 @@ Wanneer een tijdvak wordt uitgedrukt in één maand of in een bepaald aantal maa
 
 Wanneer een tijdvak wordt uitgedrukt in een bepaald aantal dagen, wordt dit tijdvak gerekend te lopen van de dag volgend op de dag waarop de desbetreffende gebeurtenis plaatsvond tot de laatste dag van de berekening.
 
-#### Regel 13. Publicatie door het Internationaal Bureau
+##### Regel 13. Publicatie door het Internationaal Bureau
 
 13.1. **Vorm van de publicatie**
 
@@ -828,13 +850,13 @@ Elke publicatie door het Internationaal Bureau, zoals bedoeld in het Verdrag of 
 
 - (v). alle eisen waarvan overeenkomstig het bepaalde in Regel 6, derde lid, letter (b), mededeling is gedaan, en alle wijzigingen daarvan.
 
-#### Regel 14. Kosten van delegaties
+##### Regel 14. Kosten van delegaties
 
 14.1. **Dekking van kosten**
 
 De kosten van elke delegatie die deelneemt aan een zitting van de Algemene Vergadering en aan de werkzaamheden van een commissie, werkgroep of andere bijeenkomst ter behandeling van aangelegenheden die voor de Unie van belang zijn, worden gedragen door de Staat of de organisatie die haar heeft aangewezen.
 
-#### Regel 15. Het ontbreken van een quorum in de Algemene Vergadering
+##### Regel 15. Het ontbreken van een quorum in de Algemene Vergadering
 
 15.1. **Stemmen per post**
 

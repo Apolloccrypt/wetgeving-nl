@@ -1,14 +1,42 @@
 ---
-title: "Wijzigingswet Wet op de inkomstenbelasting 1964, enz. (belastingplan 2000)"
+title: "Wet van 22 december 1999, houdende wijziging van belastingwetten c.a. (belastingplan 2000)"
 identifier: "BWBR0011029"
-categorie: "Belastingrecht"
-publicatiedatum: 2001-12-29
-laatste_update: 2001-12-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011029"
+country: "nl"
+rank: "wet"
+publication_date: "2001-12-29"
+last_updated: "2001-12-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011029"
+soort: "wet"
+stam_id: "2828943"
+version_id: "4353722"
+internal_id: "C4353721"
+label_id: "2778244"
+dtd_version: "2.0"
+original_entry_into_force: "2000-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011029/2001-12-29/0"
+intitule_bron: "Stb.1999-579"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-12-22"
+intitule_published: "1999-12-28"
+intitule_in_force: "1999-12-28"
+intitule_status: "goed"
+original_publication: "Stb.1999-579"
+original_signed_date: "1999-12-22"
+original_published_date: "1999-12-28"
+original_effect: "nieuwe-regeling"
+original_dossier: "26820"
+original_url_id: "stb-1999-579"
+entry_into_force_date: "2000-01-01"
+entry_into_force_dossier: "26820"
+jci_1_3: "jci1.3:c:BWBR0011029&z=2001-12-29&g=2001-12-29"
+jci_1_0: "1.0:c:BWBR0011029&g=2001-12-29"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet Wet op de inkomstenbelasting 1964, enz. (belastingplan 2000)"
+signed_date: "1999-12-22"
+entry_into_force: "2000-01-01"
 ---
-
-# Wijzigingswet Wet op de inkomstenbelasting 1964, enz. (belastingplan 2000)
+# Wet van 22 december 1999, houdende wijziging van belastingwetten c.a. (belastingplan 2000)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,83 +46,83 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 Artikel XI, onder A, werkt terug tot en met 12 november 1999, 18.00 uur. Artikel XVIII werkt terug tot en met 1 januari 1999.
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet op de inkomstenbelasting 1964.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Coördinatiewet Sociale Verzekering.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Wet op de vermogensbelasting 1964.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Wet op de omzetbelasting 1968.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Wet op de motorrijtuigenbelasting 1994.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt de Wet op belastingen van rechtsverkeer.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt de Algemene wet inzake rijksbelastingen.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt de Invorderingswet 1990.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt de Wet van 23 februari 1983, houdende intrekking van de vrijstelling van motorrijtuigenbelasting wegens invaliditeit (Stb. 94).
 
-#### Artikel XV
+##### Artikel XV
 
 Artikel 10, vijfde lid, van de Wet op de inkomstenbelasting 1964 vindt geen toepassing met betrekking tot de krachtens het vierde lid van dat artikel te treffen regeling met betrekking tot de willekeurige afschrijving op nieuwe gebouwen in aangewezen regio's voorzover deze betrekking heeft op bedrijfsmiddelen terzake waarvan verplichtingen zijn aangegaan of voortbrengingskosten zijn gemaakt op of na 1 januari 1999 doch vóór 1 januari 2000 alsmede met betrekking tot de krachtens het vierde lid van dat artikel te treffen regeling met betrekking tot de willekeurige afschrijving op nieuwe gebouwen in aangewezen regio's voorzover deze betrekking heeft op bedrijfsmiddelen terzake waarvan verplichtingen zijn aangegaan of voortbrengingskosten zijn gemaakt op of na 1 januari 2000.
 
-#### Artikel XVI
+##### Artikel XVI
 
 In afwijking in zoverre van artikel 10, tiende lid, van de Wet op de inkomstenbelasting 1964, wordt het verzoek met betrekking tot investeringen in het eerste kalenderjaar na inwerkingtreding van deze wet in bedrijfsmiddelen als bedoeld in dat lid, gedaan binnen een bij ministeriële regeling te stellen termijn na aanvang van dat kalenderjaar.
 
-#### Artikel XVII
+##### Artikel XVII
 
 In geval van een boekjaar dat is aangevangen voor 1 januari 2000 en op of na die datum eindigt, wordt de in artikel 13, tweede lid, aanhef en onderdeel a en b, van de Wet op de inkomstenbelasting 1964, zoals dat luidde op 31 december 1999, bedoelde omzet gesteld op de omzet die is toe te rekenen aan het aantal voor 1 januari 2000 vallende dagen van het boekjaar, en worden de in die onderdelen vermelde grensbedragen gesteld op het product van die bedragen en de verhouding waarin dat aantal dagen staat tot het totale aantal dagen van dat boekjaar.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Ten aanzien van de belastingplichtige die in 1999 een uitkering ingevolge de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) heeft genoten, wordt het uit artikel 37, eerste lid, van de Wet op de inkomstenbelasting 1964 voortvloeiend bedrag aan aftrekbare kosten voor het jaar 1999 verhoogd met f 2602, tenzij hij de ouderenaftrek geniet.
 
-#### Artikel XIX
+##### Artikel XIX
 
 De afdrachtvermindering langdurig werklozen is niet van toepassing met betrekking tot de werknemer voor wie de afdrachtvermindering onderwijs toepassing vindt indien met betrekking tot hem de afdrachtvermindering onderwijs reeds op 31 december 1999 toepassing vond.
 
-#### Artikel XX
+##### Artikel XX
 
 De vennootschapsbelasting over een boekjaar dat voor 1 januari 2000 aanvangt en op of na die datum eindigt, wordt, in afwijking in zoverre van [artikel 22 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=22), berekend volgens de formule:
 
@@ -110,41 +138,41 @@ To voorstelt: de verschuldigde belasting over het belastbare bedrag of het binne
 
 Tn voorstelt: de verschuldigde belasting over het belastbare bedrag of het binnenlandse belastbare bedrag op basis van het tarief van de vennootschapsbelasting zoals dat tarief luidt met ingang van 1 januari 2000.
 
-#### Artikel XXI
+##### Artikel XXI
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel XXII
+##### Artikel XXII
 
 1. Indien het door de Commissie van de Europese Gemeenschappen op 15 maart 1999 ingediende voorstel voor een Richtlijn van de Raad tot wijziging van [Richtlijn 77/388/EEG](31977L0388) wat de mogelijkheid betreft, bij wijze van experiment, op zeer arbeidsintensieve diensten een verlaagd BTW-tarief toe te passen (PbEG van 13 april 1999, nr. C102), al dan niet in gewijzigde vorm, door de Raad van de Europese Unie als richtlijn is vastgesteld, brengt Onze Minister van Financiën bij ministeriële regeling een wijziging aan in de bij de [Wet op de omzetbelasting 1968 behorende tabel I](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=I), nadat dat ingevolge genoemde [Richtlijn 77/388/EEG](31977L0388) is toegestaan.
 
 2. De in het eerste lid bedoelde wijziging houdt in dat in genoemde [tabel I](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=I), een aantal diensten als bedoeld in [artikel 4, eerste lid, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=4) die zeer arbeidsintensief zijn, wordt opgenomen voor de tijdsduur waarvoor dat ingevolge de in het eerste lid genoemde [Richtlijn 77/388/EEG](31977L0388) is toegestaan.
 
-#### Artikel XXIII
+##### Artikel XXIII
 
 1. Indien door de Commissie van de Europese Gemeenschappen de in de [artikelen 8, aanhef en onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=8), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=17), [18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=18), [18a](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=18a), [36i, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36i), en [36r van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36r), alsmede de in [artikel III van de Wet van 23 december 1994 in verband met het verlengen van een tijdelijke verfijning in de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007170&artikel=III), opgenomen regelingen als gevolg van de in dit wetsvoorstel opgenomen tariefverhogingen in de grondwaterbelasting, de afvalstoffenbelasting en de regulerende energiebelasting, geheel of gedeeltelijk als ongeoorloofde steun in de zin van artikel 87 EG worden aangemerkt, worden bij ministeriële regeling de in vorenbedoelde artikelen opgenomen regelingen met terugwerkende kracht tot 1 januari 2000 zodanig aangepast dat zij in overeenstemming zijn met het door de Commissie uitgesproken oordeel.
 
 2. Na de plaatsing in de Staatscourant van een krachtens het eerste lid vastgestelde ministeriële regeling wordt een voorstel van wet tot wijziging van de Wet belastingen op milieugrondslag zo spoedig mogelijk bij de Staten-Generaal ingediend. Dit voorstel van wet strekt tot vervanging van de in het eerste lid bedoelde ministeriële regeling. Indien het voorstel wordt ingetrokken of indien een van de beide kamers der Staten-Generaal besluit het voorstel niet aan te nemen, wordt de ministeriële regeling onverwijld ingetrokken. Wordt het voorstel tot wet verheven, dan wordt de ministeriële regeling ingetrokken op het tijdstip van inwerkingtreding van die wet.
 
-#### Artikel XXIV
+##### Artikel XXIV
 
 1. Van de heffing van de kapitaalsbelasting is vrijgesteld de kapitaalsvermeerdering die uitsluitend het gevolg is van de omzetting van het nominale bedrag van de aandelen in euro volgens [artikel 67a](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=67a) of [artikel 178a van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=178a).
 
 2. Het eerste lid is niet van toepassing voorzover de kapitaalsvermeerdering het gevolg is van de omzetting in euro van het nominale bedrag van aandelen die na 31 december 1998 zijn uitgegeven.
 
-#### Artikel XXV
+##### Artikel XXV
 
 Wijzigt de Kaderwet SZW-subsidies.
 
-#### Artikel XXVI
+##### Artikel XXVI
 
 Wijzigt de Wijzigingswet Wet op de inkomstenbelasting 1964, enz. (technische aanpassingen 1999).
 
-#### Artikel XXVII
+##### Artikel XXVII
 
 Wijzigt de Wijzigingswet Wet belastingen op milieugrondslag, enz. (bevorderen van energiezuinig en milieuvriendelijk gedrag).
 
-#### Artikel XXVIII
+##### Artikel XXVIII
 
 1. Deze wet treedt in werking met ingang van 1 januari 2000.
 

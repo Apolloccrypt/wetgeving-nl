@@ -1,13 +1,39 @@
 ---
-title: "Besluit vaststelling twee vergunningen voor digitale omroep zoals na procedure van veiling worden verleend"
+title: "Besluit houdende vaststelling van twee vergunningen voor digitale omroep zoals deze na de procedure van veiling zullen worden verleend"
 identifier: "BWBR0024724"
-categorie: "Bestuursrecht"
-publicatiedatum: 2009-01-01
-laatste_update: 2009-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024724"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2009-01-01"
+last_updated: "2009-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024724"
+soort: "ministeriele-regeling"
+stam_id: "9771873"
+version_id: "15849652"
+internal_id: "C21737271"
+label_id: "9748624"
+dtd_version: "2.0"
+original_entry_into_force: "2009-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024724/2009-01-01/0"
+intitule_bron: "Stcrt.2008-227"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-11-05"
+intitule_published: "2008-11-21"
+intitule_in_force: "2008-11-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-227"
+original_signed_date: "2008-11-05"
+original_published_date: "2008-11-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-828"
+entry_into_force_date: "2009-01-01"
+jci_1_3: "jci1.3:c:BWBR0024724&z=2009-01-01&g=2009-01-01"
+jci_1_0: "1.0:c:BWBR0024724&g=2009-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Besluit vaststelling twee vergunningen voor digitale omroep zoals na procedure van veiling worden verleend"
+signed_date: "2008-11-05"
+entry_into_force: "2009-01-01"
 ---
-
 # Besluit houdende vaststelling van twee vergunningen voor digitale omroep zoals deze na de procedure van veiling zullen worden verleend
 
 Gelet op [artikel 3, derde lid, onderdeel c, van het Frequentiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009997&artikel=3);
@@ -30,7 +56,7 @@ Besluit:
 
 ### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze beschikking wordt verstaan onder:
 
@@ -46,7 +72,7 @@ In deze beschikking wordt verstaan onder:
 
 ### § 2. Verlening
 
-#### Artikel 2
+##### Artikel 2
 
 1. Aan [naam], ingeschreven in het handelsregister bij de Kamer van Koophandel [plaats] onder nummer [inschrijfnummer], hierna te noemen: vergunninghouder, wordt een vergunning verleend voor het gebruik van frequentieruimte binnen het frequentiebereik 174,160 MHz–175,696 MHz (frequentieblok 5A), 175,872 MHz–177,408 MHz (frequentieblok 5B), 177,584 MHz–179,120 MHz (frequentieblok 5C), 179,296 MHz–180,832 MHz (frequentieblok 5D), 191,584 MHz–193,120 MHz (frequentieblok 7C), 198,592 MHz–200,128 MHz (frequentieblok 8C), 216,160 MHz–217,696 MHz (frequentieblok 11A), 217,872 MHz–219,408 MHz (frequentieblok 11B), 224,880 MHz–226,416 MHz (frequentieblok 12B), binnen de met betrekking tot de onderscheidenlijke frequentiegebieden in bijlage I opgenomen geografische gebieden.
 
@@ -54,11 +80,11 @@ In deze beschikking wordt verstaan onder:
 
 ### § 3. Voorschriften en beperkingen
 
-#### Artikel 3
+##### Artikel 3
 
 Het gebruik van de frequentieruimte vindt plaats met inachtneming van het Spectrum mask for T-DAB transmitters operating in sensitive cases en de technische beschrijving zoals deze beide in de bijlagen I en III zijn opgenomen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De vergunninghouder staakt of beperkt het gebruik van de frequentieruimte voor zover er sprake is van belemmeringen in het gebruik van in het MIFR door anderen geregistreerde frequentieruimte.
 
@@ -70,7 +96,7 @@ Het gebruik van de frequentieruimte vindt plaats met inachtneming van het Spectr
 
 5. Het notificatieverzoek geschiedt aan de hand van het formulier ‘notificatieverzoek’, bedoeld in bijlage II.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De vergunninghouder neemt tenminste vijf van de frequentieblokken genoemd in artikel 2 binnen 36 maanden na de inwerkingtreding van de vergunning in gebruik en houdt deze in gebruik,
 
@@ -78,13 +104,13 @@ Het gebruik van de frequentieruimte vindt plaats met inachtneming van het Spectr
 
 3. Per in gebruik genomen frequentieblok is er tenminste een opstelpunt.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Bij het gebruik van de frequentieruimte 224,880 MHz–226,416 MHz (frequentieblok 12 B) veroorzaakt de vergunninghouder geen interferentie op de frequentieruimte 226,592 MHz–228,128 MHz (frequentieblok 12C), voor zover op een hoogte van tien meter boven het maaiveld de verschilwaarde van de veldsterkten tussen voornoemde kanalen groter is dan 23 dB en de veldsterkte van frequentieblok 12C gelijk is aan, dan wel groter is dan 60 dB(µV/m).
 
 2. Het eerste lid is van toepassing tot en met 31 augustus 2010.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Indien op enige plaats binnenshuis door het gewenste signaal van de in het kader van deze vergunning gebruikte radiozendapparaten belemmeringen in de ontvangst van kabeltelevisie worden veroorzaakt draagt de vergunninghouder er op verzoek van degene die de belemmeringen ondervindt, zorg voor dat deze onverwijld op zijn kosten worden verholpen, voor zover ter plaatse:
 
@@ -100,27 +126,27 @@ Het gebruik van de frequentieruimte vindt plaats met inachtneming van het Spectr
 
 - b. een hoogfrequentdichtheid van minder dan 70 dB hebben.
 
-#### Artikel 8
+##### Artikel 8
 
 Onverminderd artikel 7 veroorzaakt de vergunninghouder geen ontoelaatbare belemmeringen door het gewenste signaal van radiozendapparaten in andere radiozend- of ontvangstapparaten of in elektrische of elektronische inrichtingen.
 
 ### § 4. Kennisgevingen en correspondentie
 
-#### Artikel 9
+##### Artikel 9
 
 Vergunninghouder stelt de Minister van elke ingebruikneming van (onderdelen van) de frequentieruimte tenminste vier weken van tevoren schriftelijk op de hoogte en overlegt daarbij de gegevens bedoeld in bijlage II.
 
-#### Artikel 10
+##### Artikel 10
 
 Vergunninghouder stelt de Minister onverwijld in kennis van technische en andere wijzigingen die verband houden met de vergunning, waaronder begrepen wijzigingen in de samenstelling van zijn rechtspersoon en de zeggenschapsverhoudingen binnen zijn rechtspersoon.
 
-#### Artikel 11
+##### Artikel 11
 
 Kennisgevingen en correspondentie die verband houden met deze vergunning, worden gericht aan Agentschap Telecom van het Ministerie van Economische Zaken te Groningen, tenzij door of vanwege de Minister anders wordt aangegeven.
 
 ### § 5. Slotbepaling
 
-#### Artikel 12
+##### Artikel 12
 
 Deze vergunning treedt in werking op [datum verlening] en geldt tot en met [datum]. PM looptijd 15 jaar.
 
@@ -530,7 +556,7 @@ Besluit:
 
 ### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze beschikking wordt verstaan onder:
 
@@ -550,7 +576,7 @@ In deze beschikking wordt verstaan onder:
 
 ### § 2. Verlening
 
-#### Artikel 2
+##### Artikel 2
 
 1. Aan [naam], ingeschreven in het handelsregister bij de Kamer van Koophandel [plaats] onder nummer [inschrijfnummer], hierna te noemen: vergunninghouder, wordt een vergunning verleend voor het gebruik van frequentieruimte binnen het frequentiebereik 1452,192 MHz–1479,408 MHz, verdeeld in zestien afzonderlijke frequentieblokken, LA tot en met LP.
 
@@ -558,11 +584,11 @@ In deze beschikking wordt verstaan onder:
 
 ### § 3. Voorschriften en beperkingen
 
-#### Artikel 3
+##### Artikel 3
 
 Het gebruik van de frequentieruimte in de frequentieblokken LA en LP respectievelijk LB tot en met LO, vindt plaats met inachtneming van het Spectrum mask for T-DAB out of band emissions case 1, respectievelijk het Spectrum mask for T-DAB out of band emissions case 2, opgenomen in figuur 1, alsmede met inachtneming van de technische beschrijving, opgenomen in de bijlage I en III.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De vergunninghouder staakt of beperkt het gebruik van de frequentieruimte voor zover daardoor naar het oordeel van de Minister sprake is van belemmeringen in het gebruik van in het MIFR door anderen geregistreerde frequentieruimte.
 
@@ -574,7 +600,7 @@ Het gebruik van de frequentieruimte in de frequentieblokken LA en LP respectieve
 
 5. Het notificatieverzoek MIFR geschiedt aan de hand van het formulier ‘notificatieverzoek MIFR’, bedoeld in bijlage II.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De vergunninghouder staakt of beperkt het gebruik van de frequentieruimte voor zover daardoor naar het oordeel van de Minister sprake is van belemmeringen in het gebruik van de bij de ERO geregistreerde frequentieruimte door anderen.
 
@@ -586,33 +612,33 @@ Het gebruik van de frequentieruimte in de frequentieblokken LA en LP respectieve
 
 5. Het notificatieverzoek ERO geschiedt aan de hand van het formulier ‘notificatieverzoek ERO’, bedoeld in bijlage II.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De vergunninghouder neemt binnen 36 maanden na de inwerkingtreding van de vergunning in ten minste in 16 van de in 117 gebieden bedoeld in de figuren 2.1 tot en met 2.16 een opstelpunt in gebruik en houdt deze in gebruik,
 
 2. De vergunninghouder neemt binnen 72 maanden na de inwerkingtreding van de vergunning in ten minste in 94 van de in 117 gebieden bedoeld in de figuren 2.1 tot en met 2.16 een opstelpunt in gebruik en houdt deze in gebruik.
 
-#### Artikel 7
+##### Artikel 7
 
 De vergunninghouder veroorzaakt geen ontoelaatbare belemmeringen door het gewenste signaal van radiozendapparaten in andere radiozend- of ontvangstapparaten of in elektrische of elektronische inrichtingen.
 
 ### § 4. Kennisgevingen en correspondentie
 
-#### Artikel 8
+##### Artikel 8
 
 Vergunninghouder stelt de Minister van elke ingebruikneming van (onderdelen van) de frequentieruimte tenminste vier weken van tevoren schriftelijk op de hoogte en overlegt daarbij de gegevens bedoeld in bijlage II
 
-#### Artikel 9
+##### Artikel 9
 
 Vergunninghouder stelt de Minister onverwijld in kennis van technische en andere wijzigingen die verband houden met de vergunning, waaronder begrepen wijzigingen in de samenstelling van zijn rechtspersoon en de zeggenschapsverhoudingen binnen zijn rechtspersoon.
 
-#### Artikel 10
+##### Artikel 10
 
 Kennisgevingen en correspondentie die verband houden met deze vergunning, worden gericht aan Agentschap Telecom van het Ministerie van Economische Zaken te Groningen, tenzij door of vanwege de Minister anders wordt aangegeven.
 
 ### § 5. Slotbepaling
 
-#### Artikel 11
+##### Artikel 11
 
 Deze vergunning treedt in werking op [datum verlening] en geldt tot en met [datum]. PM looptijd 15 jaar.
 

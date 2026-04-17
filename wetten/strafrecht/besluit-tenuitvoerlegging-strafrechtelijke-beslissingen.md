@@ -1,13 +1,39 @@
 ---
-title: "Besluit tenuitvoerlegging strafrechtelijke beslissingen"
+title: "Besluit van 18 december 2019, houdende regels over de tenuitvoerlegging van strafrechtelijke beslissingen (Besluit tenuitvoerlegging strafrechtelijke beslissingen)"
 identifier: "BWBR0042962"
-categorie: "Strafrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042962"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042962"
+soort: "AMvB"
+stam_id: "15289903"
+version_id: "26346782"
+internal_id: "C37446121"
+label_id: "15236754"
+dtd_version: "2.0"
+original_entry_into_force: "2020-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042962/2026-01-01/0"
+intitule_bron: "Stb.2019-505"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-12-18"
+intitule_published: "2019-12-24"
+intitule_in_force: "2019-12-24"
+intitule_status: "goed"
+original_publication: "Stb.2019-505"
+original_signed_date: "2019-12-18"
+original_published_date: "2019-12-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2019-505"
+entry_into_force_date: "2020-01-01"
+jci_1_3: "jci1.3:c:BWBR0042962&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0042962&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit tenuitvoerlegging strafrechtelijke beslissingen"
+signed_date: "2019-12-18"
+entry_into_force: "2020-01-01"
 ---
-
 # Besluit van 18 december 2019, houdende regels over de tenuitvoerlegging van strafrechtelijke beslissingen (Besluit tenuitvoerlegging strafrechtelijke beslissingen)
 
 Op de voordracht van Onze Minister voor Rechtsbescherming van 16 oktober 2019, Directie Wetgeving en Juridische Zaken, nr. 2725937;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1:1
+##### Artikel 1:1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -76,7 +102,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. **wet:** het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903).
 
-#### Artikel 1:2
+##### Artikel 1:2
 
 1. Bij ministeriële regeling worden nadere regels gesteld over de volgorde waarin straffen en maatregelen ten uitvoer worden gelegd.
 
@@ -94,7 +120,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ## Titel 2.1. Voorwaardelijke invrijheidstelling
 
-#### Artikel 2:1
+##### Artikel 2:1
 
 1. Het openbaar ministerie beslist of aan de voorwaardelijke invrijheidstelling bijzondere voorwaarden worden verbonden. Tevens beslist het openbaar ministerie of aan de voorwaarden elektronisch toezicht wordt verbonden.
 
@@ -110,23 +136,23 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 7. Het openbaar ministerie betrekt bij zijn beslissing over de verlening van voorwaardelijke invrijheidstelling de beschikbaarheid van een aanvaardbaar verblijfadres.
 
-#### Artikel 2:2
+##### Artikel 2:2
 
 1. De beslissing om bijzondere voorwaarden te stellen wordt gemotiveerd.
 
 2. De veroordeelde wordt zo spoedig mogelijk schriftelijk door het openbaar ministerie op de hoogte gesteld van de beslissing. Een afschrift van de beslissing wordt aan Onze Minister verzonden.
 
-#### Artikel 2:3
+##### Artikel 2:3
 
 1. Het openbaar ministerie vult de bijzondere voorwaarden aan, wijzigt ze of heft ze op indien de naleving door de veroordeelde of overige omstandigheden daartoe aanleiding geven.
 
 2. Het openbaar ministerie stelt de veroordeelde zo spoedig mogelijk schriftelijk op de hoogte van een aanvulling, wijziging of opheffing van de bijzondere voorwaarden. Een afschrift van de beslissing wordt aan Onze Minister verzonden.
 
-#### Artikel 2:4
+##### Artikel 2:4
 
 Indien de directeur van de inrichting van oordeel is dat een jeugdige aan wie jeugddetentie is opgelegd voorwaardelijk in vrijheid behoort te worden gesteld, doet hij daaromtrent een gemotiveerd voorstel aan het openbaar ministerie.
 
-#### Artikel 2:5
+##### Artikel 2:5
 
 1. Het openbaar ministerie brengt een beslissing van de rechter tot voorwaardelijke invrijheidstelling van een jeugdige aan wie jeugddetentie is opgelegd, onverwijld ter kennis van Onze Minister ten behoeve van de tenuitvoerlegging, onder mededeling van de aan de jeugdige opgelegde voorwaarden en het begin en het einde van de proeftijd.
 
@@ -134,7 +160,7 @@ Indien de directeur van de inrichting van oordeel is dat een jeugdige aan wie je
 
 ## Titel 2.1a. Strafonderbreking
 
-#### Artikel 2:6
+##### Artikel 2:6
 
 1. Bij schorsing van het bevel tot voorlopige hechtenis bij jeugdigen kan de rechter één of meer van de volgende bijzondere voorwaarden aan de schorsing verbinden:
 
@@ -164,7 +190,7 @@ Indien de directeur van de inrichting van oordeel is dat een jeugdige aan wie je
 
 ## Titel 2.3. Het netwerk- en het trajectberaad voor jeugdigen
 
-#### Artikel 2:7
+##### Artikel 2:7
 
 1. Er wordt voorzien in nazorg bij jeugdigen middels begeleiding en ondersteuning tijdens en na verblijf in een inrichting.
 
@@ -184,7 +210,7 @@ Indien de directeur van de inrichting van oordeel is dat een jeugdige aan wie je
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 2:8
+##### Artikel 2:8
 
 1. Omtrent de jeugdige aan wie de maatregel van plaatsing in een inrichting voor jeugdigen is opgelegd, worden door of vanwege de directeur van de inrichting aantekeningen gehouden.
 
@@ -198,7 +224,7 @@ Indien de directeur van de inrichting van oordeel is dat een jeugdige aan wie je
 
 - d. gegevens omtrent belangrijke voorvallen gedurende het verblijf in de inrichting.
 
-#### Artikel 2:9
+##### Artikel 2:9
 
 1. De reclassering of de jeugdreclassering, belast met de begeleiding en het toezicht, bedoeld in [artikel 10, tweede lid, van het Reglement justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&artikel=10), kan aan de directeur van de inrichting een voorstel doen tot wijziging of opheffing van de voorwaarden die zijn verbonden aan de deelname aan het scholings- en trainingsprogramma.
 
@@ -208,7 +234,7 @@ Indien de directeur van de inrichting van oordeel is dat een jeugdige aan wie je
 
 #### § 2. Voorwaardelijke beëindiging door Onze Minister
 
-#### Artikel 2:10
+##### Artikel 2:10
 
 1. De maatregel van plaatsing in een inrichting voor jeugdigen kan te allen tijde door Onze Minister voorwaardelijk of onvoorwaardelijk worden beëindigd indien het doel van de maatregel is bereikt of beter op andere wijze kan worden bereikt.
 
@@ -218,13 +244,13 @@ Indien de directeur van de inrichting van oordeel is dat een jeugdige aan wie je
 
 4. De reclassering of de jeugdreclassering, belast met de begeleiding en het toezicht, bedoeld in [artikel 10, tweede lid, van het Reglement justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&artikel=10), kan aan Onze Minister een voorstel doen tot het voorwaardelijk beëindigen van de maatregel. Dit voorstel wordt gedaan aan Onze Minister door tussenkomst van de directeur van de inrichting.
 
-#### Artikel 2:11
+##### Artikel 2:11
 
 1. Onze Minister wijst in de beslissing tot voorwaardelijke beëindiging de reclassering of de jeugdreclassering aan die met de begeleiding van de jeugdige en het toezicht op de naleving van de voorwaarden is belast.
 
 2. De reclassering of de jeugdreclassering ontvangt mededeling van de beëindiging van de maatregel en de voorwaarden waaronder deze is verleend.
 
-#### Artikel 2:12
+##### Artikel 2:12
 
 Aan een beslissing tot voorwaardelijke beëindiging worden, behoudens nader te stellen bijzondere voorwaarden, de volgende algemene voorwaarden verbonden:
 
@@ -234,17 +260,17 @@ Aan een beslissing tot voorwaardelijke beëindiging worden, behoudens nader te s
 
 - c. dat de jeugdige zich niet schuldig maakt aan een strafbaar feit.
 
-#### Artikel 2:13
+##### Artikel 2:13
 
 Onze Minister doet aan de jeugdige ten aanzien van wie de maatregel voorwaardelijk is beëindigd door tussenkomst van de directeur van de inrichting een beschikking toekomen, waarin de voorwaarden zijn vermeld die aan de beëindiging zijn verbonden.
 
-#### Artikel 2:14
+##### Artikel 2:14
 
 1. Indien Onze Minister de maatregel voorwaardelijk of onvoorwaardelijk beëindigt, stelt hij zo spoedig mogelijk de directeur van de inrichting, de raad voor de kinderbescherming en het openbaar ministerie van die beslissing in kennis. Indien de beëindiging voorwaardelijk is verleend, deelt hij daarbij de voorwaarden mede.
 
 2. Indien de beslissing strekt tot onvoorwaardelijke beëindiging van de maatregel ten aanzien van een jeugdige aan wie reeds voorwaardelijke beëindiging was verleend, brengt Onze Minister de beslissing tevens ter kennis van de reclassering of de jeugdreclassering.
 
-#### Artikel 2:15
+##### Artikel 2:15
 
 1. Indien voorwaarden zijn verbonden aan de beëindiging, doet het openbaar ministerie onverwijld mededeling aan Onze Minister en de reclassering of de jeugdreclassering van:
 
@@ -254,7 +280,7 @@ Onze Minister doet aan de jeugdige ten aanzien van wie de maatregel voorwaardeli
 
 2. Onze Minister doet aan de reclassering of de jeugdreclassering onverwijld mededeling van elke vrijheidsbeneming van de jeugdige door het daartoe bevoegde gezag.
 
-#### Artikel 2:16
+##### Artikel 2:16
 
 1. Indien de jeugdige de gestelde voorwaarden overtreedt, zendt de reclassering of de jeugdreclassering aan Onze Minister een voorstel tot intrekking of schorsing van de voorwaardelijke beëindiging dan wel een bericht waaruit blijkt om welke redenen die intrekking of schorsing niet, of nog niet, geraden wordt geacht.
 
@@ -262,13 +288,13 @@ Onze Minister doet aan de jeugdige ten aanzien van wie de maatregel voorwaardeli
 
 3. Een voorstel of bericht als bedoeld in het eerste lid kan ook door het openbaar ministerie aan Onze Minister worden gezonden.
 
-#### Artikel 2:17
+##### Artikel 2:17
 
 Indien Onze Minister besluit tot intrekking of schorsing van de voorwaardelijke beëindiging, stelt hij de reclassering of de jeugdreclassering, het openbaar ministerie en de directeur van de inrichting van zijn beslissing in kennis.
 
 #### § 3. Verlenging van de maatregel
 
-#### Artikel 2:18
+##### Artikel 2:18
 
 1. Uiterlijk drie maanden voordat de maatregel voorwaardelijk eindigt op grond van [artikel 6:2:22, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:22), maakt de directeur van de inrichting binnen een maand, te rekenen vanaf voornoemd tijdstip, een schriftelijk, met redenen omkleed, gedagtekend en ondertekend advies op en zendt dit aan Onze Minister. Het advies betreft:
 
@@ -282,7 +308,7 @@ Indien Onze Minister besluit tot intrekking of schorsing van de voorwaardelijke 
 
 4. Onze Minister zendt het advies met bijlagen aan het openbaar ministerie.
 
-#### Artikel 2:19
+##### Artikel 2:19
 
 1. Het openbaar ministerie doet Onze Minister zo spoedig mogelijk mededeling:
 
@@ -296,11 +322,11 @@ Indien Onze Minister besluit tot intrekking of schorsing van de voorwaardelijke 
 
 #### § 4. Voorwaardelijke beëindiging van rechtswege
 
-#### Artikel 2:20
+##### Artikel 2:20
 
 Bij het indienen van een vordering als bedoeld in [artikel 6:6:32 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:32), legt het openbaar ministerie de beschouwingen over van de reclassering of de jeugdreclassering over de wijze waarop de jeugdige de voorwaarden, bedoeld in [artikel 77ta, eerste lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77ta), heeft nageleefd.
 
-#### Artikel 2:21
+##### Artikel 2:21
 
 1. Het openbaar ministerie brengt een vordering als bedoeld in [artikel 6:6:32 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:32) ter kennis aan de raad voor de kinderbescherming.
 
@@ -308,7 +334,7 @@ Bij het indienen van een vordering als bedoeld in [artikel 6:6:32 van de wet](ht
 
 #### § 5. Omzetting van de maatregel
 
-#### Artikel 2:22
+##### Artikel 2:22
 
 1. Het openbaar ministerie brengt een vordering als bedoeld in [artikel 6:6:33, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:33) ter kennis aan de raad voor de kinderbescherming.
 
@@ -316,7 +342,7 @@ Bij het indienen van een vordering als bedoeld in [artikel 6:6:32 van de wet](ht
 
 ## Titel 2.5. Delegatie
 
-#### Artikel 2:23
+##### Artikel 2:23
 
 Bij ministeriële regeling worden nadere regels gesteld over de gevallen waarin een veroordeelde door Onze Minister wordt opgeroepen zich op een bepaalde datum te melden bij de inrichting.
 
@@ -324,13 +350,13 @@ Bij ministeriële regeling worden nadere regels gesteld over de gevallen waarin 
 
 ## Titel 3.1. Toezicht op de naleving van voorwaarden
 
-#### Artikel 3:1
+##### Artikel 3:1
 
 1. Het openbaar ministerie kan de reclassering en de jeugdreclassering aanwijzingen geven omtrent het toezicht op de naleving van voorwaarden, voor zover zij daarmee zijn belast.
 
 2. Het toezicht op de naleving van voorwaarden kan te allen tijde worden beëindigd door het openbaar ministerie of Onze Minister na overleg met de reclassering of de jeugdreclassering. Onze Minister stelt de veroordeelde zo spoedig mogelijk op de hoogte van de beëindiging van het toezicht.
 
-#### Artikel 3:2
+##### Artikel 3:2
 
 1. De reclassering of de jeugdreclassering die is belast met het toezicht, draagt er zorg voor dat de verplichtingen worden vastgelegd waaraan de veroordeelde zich in het kader van het toezicht heeft te houden.
 
@@ -344,13 +370,13 @@ Bij ministeriële regeling worden nadere regels gesteld over de gevallen waarin 
 
 - d. bij anderszins gestelde voorwaarden: zo spoedig mogelijk nadat de beslissing tot het stellen van voorwaarden is genomen.
 
-#### Artikel 3:3
+##### Artikel 3:3
 
 1. De veroordeelde volgt de aanwijzingen en opdrachten op die door de reclassering of de jeugdreclassering worden gegeven in het kader van het toezicht.
 
 2. De veroordeelde geeft veranderingen in de woon-, onderwijs- of werksituatie onmiddellijk door aan de reclassering of de jeugdreclassering.
 
-#### Artikel 3:4
+##### Artikel 3:4
 
 1. Zo spoedig mogelijk na de melding van de reclassering of de jeugdreclassering dat de veroordeelde een voorwaarde niet naleeft, brengt de reclassering of de jeugdreclassering advies uit aan het openbaar ministerie of de melding naar haar oordeel aanleiding zou kunnen geven tot een of meer van de volgende maatregelen:
 
@@ -362,7 +388,7 @@ Bij ministeriële regeling worden nadere regels gesteld over de gevallen waarin 
 
 2. Een afschrift van het advies wordt aan Onze Minister verzonden.
 
-#### Artikel 3:5
+##### Artikel 3:5
 
 1. Met het oog op het beëindigen van het toezicht stuurt de reclassering of de jeugdreclassering een afloopbericht aan het openbaar ministerie en Onze Minister, zo spoedig mogelijk nadat de proeftijd is geëindigd.
 
@@ -372,11 +398,11 @@ Bij ministeriële regeling worden nadere regels gesteld over de gevallen waarin 
 
 #### § 1. Inhoud van de taakstraf
 
-#### Artikel 3:6
+##### Artikel 3:6
 
 Onverminderd de taken en bevoegdheden van Onze Minister en het openbaar ministerie ten aanzien van de tenuitvoerlegging van de taakstraf, zijn de reclassering en de raad voor de kinderbescherming belast met de zorg voor het aanbod van projectplaatsen.
 
-#### Artikel 3:7
+##### Artikel 3:7
 
 Projectplaatsen voldoen aan de volgende voorwaarden:
 
@@ -398,7 +424,7 @@ Projectplaatsen voldoen aan de volgende voorwaarden:
 
 - i. de contactpersoon controleert de taakgestrafte en geeft onregelmatigheden, het aantal gewerkte uren en de getoonde inzet op basis van afspraken met de uitvoerder taakstraffen door aan de reclassering of de raad voor de kinderbescherming.
 
-#### Artikel 3:8
+##### Artikel 3:8
 
 1. Indien de reclassering of de raad voor de kinderbescherming de inrichting van een nieuwe projectplaats overweegt, wordt een voorstel daartoe voorgelegd aan Onze Minister.
 
@@ -406,7 +432,7 @@ Projectplaatsen voldoen aan de volgende voorwaarden:
 
 3. Onze Minister toetst het voorstel en de geschiktheid van de aanbieder van de projectplaats en beslist binnen een maand na de indiening van het voorstel.
 
-#### Artikel 3:9
+##### Artikel 3:9
 
 1. Projecten voor het verrichten van arbeid tot herstel van de door het strafbare feit aangerichte schade, als bedoeld in [artikel 77h, tweede lid, onderdeel a, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77h), voldoen aan de volgende voorwaarden:
 
@@ -416,7 +442,7 @@ Projectplaatsen voldoen aan de volgende voorwaarden:
 
 2. Herstel bij particulieren kan alleen plaatsvinden als wordt voorzien in begeleiding en toezicht door de raad voor de kinderbescherming.
 
-#### Artikel 3:10
+##### Artikel 3:10
 
 1. Leerprojecten voor jeugdigen voldoen aan de volgende voorwaarden:
 
@@ -432,7 +458,7 @@ Projectplaatsen voldoen aan de volgende voorwaarden:
 
 3. De reclassering en de raad voor de kinderbescherming zijn belast met de zorg voor een kwaliteitszorgsysteem leerprojecten, waarbij aandacht wordt besteed aan de omstandigheid dat de begeleider over voldoende kwalificaties beschikt en een toetsing plaatsvindt van de effecten van de gehanteerde methoden en activiteiten in een leerproject.
 
-#### Artikel 3:11
+##### Artikel 3:11
 
 1. Indien de reclassering of de raad voor de kinderbescherming de inrichting van een nieuw leerproject overweegt, wordt een voorstel daartoe voorgelegd aan Onze Minister.
 
@@ -440,7 +466,7 @@ Projectplaatsen voldoen aan de volgende voorwaarden:
 
 3. Onze Minister beslist binnen een maand na de indiening van het voorstel.
 
-#### Artikel 3:12
+##### Artikel 3:12
 
 1. De reclassering en de raad voor de kinderbescherming dragen er zorg voor dat de rechter, het openbaar ministerie, Onze Minister, de taakgestrafte en diens raadsman zich steeds op de hoogte kunnen stellen van gegevens omtrent de beschikbare projectplaatsen, de aard van de te verrichten werkzaamheden en de te volgen leerprojecten.
 
@@ -450,13 +476,13 @@ Projectplaatsen voldoen aan de volgende voorwaarden:
 
 #### § 1. Inhoud van de taakstraf
 
-#### Artikel 3:13
+##### Artikel 3:13
 
 1. Nadat de reclassering of de raad voor de kinderbescherming daartoe opdracht van Onze Minister heeft ontvangen, zorgt de reclassering onderscheidenlijk de raad voor de kinderbescherming ervoor dat de taakstraf in overeenstemming met de rechterlijke uitspraak of de strafbeschikking ten uitvoer wordt gelegd. Indien dit niet mogelijk blijkt, stelt de reclassering onderscheidenlijk de raad voor de kinderbescherming Onze Minister en het openbaar ministerie daarvan onverwijld in kennis.
 
 2. Indien een taakstraf bestaat uit een werkstraf en een leerstraf, worden deze voor de tenuitvoerlegging als afzonderlijke projecten aangemerkt.
 
-#### Artikel 3:14
+##### Artikel 3:14
 
 1. Na ontvangst van de in [artikel 3:13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&hoofdstuk=3&titeldeel=3.2&paragraaf=2&artikel=3:13&z=2026-01-01&g=2026-01-01), bedoelde opdracht roept de uitvoerder taakstraffen de taakgestrafte zo spoedig mogelijk op voor een intakegesprek. Bij een jeugdige taakgestrafte kunnen tevens de ouders of voogd van de taakgestrafte worden opgeroepen.
 
@@ -470,17 +496,17 @@ Projectplaatsen voldoen aan de volgende voorwaarden:
 
 6. Voorafgaand aan de aanvang van de deelname aan het project wordt de beslissing van de uitvoerder taakstraffen tot plaatsing schriftelijk vastgelegd en voor akkoord ondertekend door de taakgestrafte. De taakgestrafte wordt een afschrift van de beslissing ter beschikking gesteld.
 
-#### Artikel 3:15
+##### Artikel 3:15
 
 Nadat de taakstraf is verricht, stuurt de uitvoerder taakstraffen zo spoedig mogelijk een afloopbericht aan Onze Minister.
 
 #### § 3. Uitvoerder taakstraffen
 
-#### Artikel 3:16
+##### Artikel 3:16
 
 De uitvoerder taakstraffen houdt toezicht op de verrichtingen van de taakgestrafte en de omstandigheden waaronder deze plaatsvinden. Het toezicht omvat ook de veiligheid, de gezondheid en de arbeidsomstandigheden op de projectplaats en de redelijkheid van de opgedragen werkzaamheden of opgelegde verplichtingen.
 
-#### Artikel 3:17
+##### Artikel 3:17
 
 1. De uitvoerder taakstraffen kan ambtshalve of op verzoek van het openbaar ministerie mede de volgende beslissingen nemen:
 
@@ -494,7 +520,7 @@ De uitvoerder taakstraffen houdt toezicht op de verrichtingen van de taakgestraf
 
 3. De beslissing wordt schriftelijk vastgelegd, gedagtekend en gemotiveerd. Bij de rapportage aan het openbaar ministerie worden de beslissing en, indien kenbaar gemaakt, het standpunt van de taakgestrafte gevoegd. De uitvoerder taakstraffen rapporteert zo spoedig mogelijk aan het openbaar ministerie en Onze Minister. Een afschrift van de rapportage en de bijbehorende stukken wordt aan de taakgestrafte ter beschikking gesteld.
 
-#### Artikel 3:18
+##### Artikel 3:18
 
 Bijzondere gevallen als bedoeld in [artikel 3:17, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&hoofdstuk=3&titeldeel=3.2&paragraaf=3&artikel=3:17&z=2026-01-01&g=2026-01-01), kunnen zijn:
 
@@ -506,11 +532,11 @@ Bijzondere gevallen als bedoeld in [artikel 3:17, eerste lid, onder a](https://w
 
 - d. het niet aansluiten van verplichtingen bij de specifieke omstandigheden van de taakgestrafte.
 
-#### Artikel 3:19
+##### Artikel 3:19
 
 De uitvoerder taakstraffen geeft ten hoogste eenmaal een waarschuwing aan de taakgestrafte wegens het niet naar behoren verrichten van de taakstraf.
 
-#### Artikel 3:20
+##### Artikel 3:20
 
 1. De uitvoerder taakstraffen kan de tenuitvoerlegging van de taakstraf opschorten indien de taakgestrafte na een waarschuwing de taakstraf wederom niet naar behoren verricht of na een ernstige misdraging van de zijde van de taakgestrafte. De uitvoerder taakstraffen stelt het openbaar ministerie onverwijld van deze beslissing op de hoogte, met het advies de tenuitvoerlegging van de taakstraf te beëindigen. Een afschrift van het advies wordt aan Onze Minister verzonden.
 
@@ -518,27 +544,27 @@ De uitvoerder taakstraffen geeft ten hoogste eenmaal een waarschuwing aan de taa
 
 #### § 4. Taakgestrafte
 
-#### Artikel 3:21
+##### Artikel 3:21
 
 De taakgestrafte kan door de uitvoerder taakstraffen worden opgedragen zich door een door de uitvoerder taakstraffen aan te wijzen keuringsarts medisch te laten keuren voordat het verrichten van de taakstraf aanvangt, indien de werkzaamheden dit vereisen, de taakgestrafte medische klachten heeft of arbeidsongeschikt is.
 
-#### Artikel 3:22
+##### Artikel 3:22
 
 1. Voorafgaand aan de plaatsing wordt overeengekomen op welke tijdstippen de taakgestrafte de taakstraf zal verrichten. Hierbij kan van de taakgestrafte die werkt, worden verlangd dat hij vrije dagen opneemt.
 
 2. Indien de taakgestrafte een uitkering ontvangt, stelt hij de uitkeringsinstantie op de hoogte van de taakstraf.
 
-#### Artikel 3:23
+##### Artikel 3:23
 
 De taakgestrafte geeft veranderingen in de woon-, onderwijs- of werksituatie of contactgegevens onmiddellijk door aan de uitvoerder taakstraffen.
 
-#### Artikel 3:24
+##### Artikel 3:24
 
 1. De taakgestrafte volgt de aanwijzingen en opdrachten op die in het kader van de tenuitvoerlegging van de taakstraf worden gegeven door de uitvoerder taakstraffen of, namens deze, door de contactpersoon.
 
 2. De taakgestrafte zorgt zelf voor werkkleding, tenzij door de contactpersoon anders is voorgeschreven.
 
-#### Artikel 3:25
+##### Artikel 3:25
 
 1. De taakgestrafte doet van ziekte of bijzondere omstandigheden die een reden kunnen zijn voor verzuim terstond mededeling aan de contactpersoon en de uitvoerder taakstraffen. Bij bijzondere omstandigheden wordt, behoudens onvoorziene omstandigheden, toestemming voor het verzuim gevraagd aan de uitvoerder taakstraffen.
 
@@ -548,7 +574,7 @@ De taakgestrafte geeft veranderingen in de woon-, onderwijs- of werksituatie of 
 
 ## Titel 3.3. Gedragsbeïnvloedende maatregel
 
-#### Artikel 3:26
+##### Artikel 3:26
 
 1. Het programma, bedoeld in [artikel 77w, derde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77w), kan mede bestaan uit een of meer gedragsinterventies.
 
@@ -556,7 +582,7 @@ De taakgestrafte geeft veranderingen in de woon-, onderwijs- of werksituatie of 
 
 ## Titel 3.4. Delegatie
 
-#### Artikel 3:27
+##### Artikel 3:27
 
 Bij ministeriële regeling kunnen nadere regels worden gesteld over:
 
@@ -568,7 +594,7 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld over:
 
 ## Titel 4.1. Algemene bepalingen
 
-#### Artikel 4:1
+##### Artikel 4:1
 
 1. Onze Minister draagt zorg voor de ondersteuning van de bevoegde ambtenaren, bedoeld in [artikel 3.1 van het Besluit OM-afdoening](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&artikel=3.1), alsmede een lichaam of een persoon als bedoeld in [artikel 4.1, onderdeel b, van het Besluit OM-afdoening](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&artikel=4.1), bij hun taken met betrekking tot de betaling van gelden als bedoeld in [artikel 4:5](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&hoofdstuk=4&titeldeel=4.2&artikel=4:5&z=2026-01-01&g=2026-01-01).
 
@@ -576,7 +602,7 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld over:
 
 ## Titel 4.2. Plaats, wijze en termijn van betaling
 
-#### Artikel 4:2
+##### Artikel 4:2
 
 1. De betaling van een geldboete, een transactie, een schadevergoedingsmaatregel, een ontnemingsmaatregel, een ontnemingsaanwijzing, een stortingsvoorwaarde, een stortingsaanwijzing, een schikking, de geschatte waarde van niet in beslag genomen verbeurd verklaarde goederen of de kosten van openbaarmaking van een uitspraak geschiedt door storting of overschrijving van het verschuldigde bedrag op een daartoe bestemde bankrekening van Onze Minister.
 
@@ -584,7 +610,7 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld over:
 
 3. De betaling van het op grond van [artikel 6:4:2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:2) verhoogde bedrag geschiedt binnen dertig dagen na de door Onze Minister verstuurde aanmaning.
 
-#### Artikel 4:3
+##### Artikel 4:3
 
 1. Degene die betaalt maakt daarbij op een door Onze Minister aangegeven wijze melding van de zaak waarop de betaling betrekking heeft.
 
@@ -592,11 +618,11 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld over:
 
 3. Voordat tot een terugbetaling wordt overgegaan, wordt op grond van [artikel 6:1:13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:13) nagegaan of degene die de betaling heeft verricht nog tot betaling van een geldsom is verplicht. Indien degene meerdere openstaande vorderingen heeft, wordt bij de bestemming van de gelden op de openstaande vorderingen de bij ministeriële regeling bepaalde volgorde in acht genomen.
 
-#### Artikel 4:4
+##### Artikel 4:4
 
 Onze Minister kan bepalen dat de betaling kan geschieden op een door Onze Minister aan te wijzen plaats of aan een door Onze Minister aan te wijzen persoon, dan wel door het ter plaatse overschrijven op een daartoe bestemde bankrekening.
 
-#### Artikel 4:5
+##### Artikel 4:5
 
 1. Indien krachtens de [artikelen 257b](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257b) en [257ba van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257ba) een strafbeschikking zal worden uitgevaardigd, kan de betrokken korpschef, bedoeld in [artikel 3.1, tweede lid, van het Besluit OM-afdoening](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&artikel=3.1), of het bevoegde lichaam of de bevoegde persoon, bedoeld in [artikel 4.1, onderdeel b, van het Besluit OM-afdoening](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&artikel=4.1), bepalen dat betaling van de geldboete eveneens kan geschieden op een plaats die is aangewezen door de bevoegde ambtenaar of het bevoegde lichaam of door het ter plaatse overschrijven op een daartoe bestemde bankrekening. Betaling geschiedt in dat geval binnen een dag na die waarop het strafbare feit is ontdekt.
 
@@ -610,11 +636,11 @@ Onze Minister kan bepalen dat de betaling kan geschieden op een door Onze Minist
 
 4. De met de inning belaste ambtenaar wordt in het bezit gesteld van een lijst met de feiten waarvoor de strafbeschikking kan worden uitgevaardigd en de voor deze feiten vastgestelde tarieven. Desgevraagd verleent hij degene die betaalt inzage in deze lijst.
 
-#### Artikel 4:6
+##### Artikel 4:6
 
 Indien de bevoegdheid van [artikel 257b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257b) wordt uitgeoefend gedurende de periode dat bijstand wordt verleend op grond van de [artikelen 57](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=57), [58](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=58) of [59 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=59), geschiedt de betaling, bedoeld in [artikel 4:5](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&hoofdstuk=4&titeldeel=4.2&artikel=4:5&z=2026-01-01&g=2026-01-01), op de wijze van de politie, en geschieden de afrekening, verantwoording en controle van de ontvangen gelden door de politie.
 
-#### Artikel 4:7
+##### Artikel 4:7
 
 1. In de gevallen, bedoeld in de [artikelen 4:4](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&hoofdstuk=4&titeldeel=4.2&artikel=4:4&z=2026-01-01&g=2026-01-01) en [4:5](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&hoofdstuk=4&titeldeel=4.2&artikel=4:5&z=2026-01-01&g=2026-01-01), wordt onverwijld een gedagtekend betalingsbewijs verstrekt.
 
@@ -624,11 +650,11 @@ Indien de bevoegdheid van [artikel 257b van de wet](https://wetten.overheid.nl/j
 
 ## Titel 4.3. Verantwoording van de gelden
 
-#### Artikel 4:8
+##### Artikel 4:8
 
 Onze Minister draagt zorg voor de opening van een of meer afzonderlijke bankrekeningen welke bestemd zijn voor de betaling van de in [artikel 4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&hoofdstuk=4&titeldeel=4.2&artikel=4:2&z=2026-01-01&g=2026-01-01) bedoelde bedragen.
 
-#### Artikel 4:9
+##### Artikel 4:9
 
 1. Het formulier van het in [artikel 4:7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&hoofdstuk=4&titeldeel=4.2&artikel=4:7&z=2026-01-01&g=2026-01-01), bedoelde betalingsbewijs, dan wel de eisen waaraan het betalingsbewijs moet voldoen, worden vastgesteld bij ministeriële regeling.
 
@@ -636,7 +662,7 @@ Onze Minister draagt zorg voor de opening van een of meer afzonderlijke bankreke
 
 3. Bij ministeriële regeling worden nadere voorschriften vastgesteld omtrent de verstrekking en het beheer van de betalingsbewijzen, de afrekening en de verantwoording van de ontvangen gelden, alsmede de in verband daarmee te voeren administratie.
 
-#### Artikel 4:10
+##### Artikel 4:10
 
 1. De korpschef doet op de door Onze Minister te bepalen wijze jaarlijks opgave van de uitvoering van de in [artikel 4:9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&hoofdstuk=4&titeldeel=4.3&artikel=4:9&z=2026-01-01&g=2026-01-01), bedoelde voorschriften en van de met het oog op de toepassing van dit besluit verrichte accountantscontrole.
 
@@ -646,11 +672,11 @@ Onze Minister draagt zorg voor de opening van een of meer afzonderlijke bankreke
 
 ## Titel 4.4. Administratiekosten en kosten van verhaal
 
-#### Artikel 4:11
+##### Artikel 4:11
 
 Degene aan wie een geldboete wordt opgelegd, is de bij ministeriële regeling bepaalde administratiekosten verschuldigd. Op de betaling van de administratiekosten zijn de artikelen van dit besluit betreffende de betaling van de geldboete en de verantwoording van de gelden van overeenkomstige toepassing. De administratiekosten worden samen met de geldboete in rekening gebracht.
 
-#### Artikel 4:12
+##### Artikel 4:12
 
 1. De kosten van verhaal van een opgelegde geldboete, ontnemingsmaatregel of schadevergoedingsmaatregel worden op gelijke voet als de geldboete of de maatregel verhaald op degene aan wie de geldboete of maatregel is opgelegd. Onder de kosten van verhaal zijn begrepen de invorderingskosten.
 
@@ -660,13 +686,13 @@ Degene aan wie een geldboete wordt opgelegd, is de bij ministeriële regeling be
 
 ## Titel 4.5. Uitlevering voorwerpen
 
-#### Artikel 4:13
+##### Artikel 4:13
 
 De uitlevering van niet in beslag genomen verbeurd verklaarde voorwerpen, geschiedt op de door Onze Minister aangewezen plaats.
 
 ## Titel 4.6. Voorschot schadevergoedingsmaatregel
 
-#### Artikel 4:14
+##### Artikel 4:14
 
 1. Overeenkomstig [artikel 6:4:2, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:2) keert Onze Minister het resterende bedrag van de schadevergoedingsmaatregel uit aan het slachtoffer of de personen, genoemd in [artikel 51f, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=51f), die geen rechtspersoon zijn.
 
@@ -674,7 +700,7 @@ De uitlevering van niet in beslag genomen verbeurd verklaarde voorwerpen, geschi
 
 ## Titel 4.7. Delegatie
 
-#### Artikel 4:15
+##### Artikel 4:15
 
 1. Bij ministeriële regeling worden nadere regels gesteld over:
 
@@ -686,11 +712,11 @@ De uitlevering van niet in beslag genomen verbeurd verklaarde voorwerpen, geschi
 
 ### Hoofdstuk 5. Gratie
 
-#### Artikel 5:1
+##### Artikel 5:1
 
 Ten behoeve van de beoordeling of een gratieverzoek opschortende werking heeft als bedoeld in [artikel 6:7:2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:7:2), wordt als aanvangsdatum van de tenuitvoerlegging van een straf of maatregel aangemerkt de handeling van de bevoegde instantie zoals deze in de [artikelen 5:2 tot en met 5:5](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&hoofdstuk=5&artikel=5:2&z=2026-01-01&g=2026-01-01) nader wordt aangeduid, gericht op de tenuitvoerlegging van de straf of maatregel.
 
-#### Artikel 5:2
+##### Artikel 5:2
 
 Met betrekking tot de tenuitvoerlegging van hoofdstraffen wordt onderscheiden:
 
@@ -708,7 +734,7 @@ Met betrekking tot de tenuitvoerlegging van hoofdstraffen wordt onderscheiden:
 
 - c. de geldboete, welke aanvangt op de datum van de dagtekening van de mededeling van Onze Minister over de dag of dagen waarop de betaling uiterlijk moet geschieden.
 
-#### Artikel 5:3
+##### Artikel 5:3
 
 Met betrekking tot de tenuitvoerlegging van bijkomende straffen wordt onderscheiden:
 
@@ -722,7 +748,7 @@ Met betrekking tot de tenuitvoerlegging van bijkomende straffen wordt onderschei
 
 - c. de openbaarmaking van de rechterlijke uitspraak, waarvan de tenuitvoerlegging aanvangt op de datum van het onherroepelijk worden van het vonnis of arrest.
 
-#### Artikel 5:4
+##### Artikel 5:4
 
 Met betrekking tot straffen, krachtens een rechterlijke beslissing in een vreemde staat opgelegd en in Nederland ten uitvoer te leggen, zoals bedoeld in [artikel 6:7:1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:7:1), wordt onderscheiden:
 
@@ -732,7 +758,7 @@ Met betrekking tot straffen, krachtens een rechterlijke beslissing in een vreemd
 
 - c. de tenuitvoerlegging naar aanleiding van een ongegrondverklaring van een bezwaarschrift ingediend krachtens [artikel 35 van de Wet overdracht tenuitvoerlegging strafvonnissen](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&artikel=35), welke aanvangt op de datum van dagtekening van de mededeling van Onze Minister over de dag of dagen waarop de betaling uiterlijk moet geschieden.
 
-#### Artikel 5:5
+##### Artikel 5:5
 
 Met betrekking tot de tenuitvoerlegging van voor gratie vatbare maatregelen wordt onderscheiden:
 
@@ -750,7 +776,7 @@ Met betrekking tot de tenuitvoerlegging van voor gratie vatbare maatregelen word
 
 ### Hoofdstuk 6. Slotbepalingen
 
-#### Artikel 6:1
+##### Artikel 6:1
 
 De volgende besluiten worden ingetrokken:
 
@@ -774,17 +800,17 @@ De volgende besluiten worden ingetrokken:
 
 - j. [Uitvoeringsbesluit voorwaardelijke veroordeling](https://wetten.overheid.nl/jci1.3:c:BWBR0031086).
 
-#### Artikel 6:2
+##### Artikel 6:2
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 6:3
+##### Artikel 6:3
 
 Dit besluit wordt aangehaald als: Besluit tenuitvoerlegging strafrechtelijke beslissingen.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 2:5a
+##### Artikel 2:5a
 
 1. Onze Minister kan in uitzonderlijke gevallen, waarin niet kan worden volstaan met een vorm van verlof, op verzoek van de veroordeelde, de jeugdige of het openbaar ministerie of ambtshalve strafonderbreking voor bepaalde tijd verlenen.
 
@@ -818,15 +844,15 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - b. een vreemdeling van wie vaststaat dat deze na het ondergaan van de straf zal worden uitgezet.
 
-#### Artikel 2:5b
+##### Artikel 2:5b
 
 De strafonderbreking voor bepaalde tijd duurt niet langer dan noodzakelijk, doch ten hoogste drie maanden.
 
-#### Artikel 2:5c
+##### Artikel 2:5c
 
 Bij de beslissing over het verlenen van de strafonderbreking voor bepaalde tijd en het vaststellen van de duur ervan houdt Onze Minister rekening met alle in aanmerking komende belangen. De belangen van de veroordeelde of jeugdige worden afgewogen tegen het algemeen belang. Daarbij wordt zwaar gewicht toegekend aan de risico's voor de continuïteit van de tenuitvoerlegging en voor de maatschappelijke orde en veiligheid, alsmede de belangen van het slachtoffer als bedoeld in [artikel 51a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=51a).
 
-#### Artikel 2:5d
+##### Artikel 2:5d
 
 1. Strafonderbreking voor bepaalde tijd geschiedt onder de algemene voorwaarden dat de veroordeelde of jeugdige:
 
@@ -858,11 +884,11 @@ Bij de beslissing over het verlenen van de strafonderbreking voor bepaalde tijd 
 
 - i. andere voorwaarden, het gedrag van de veroordeelde of jeugdige betreffende, waaraan deze gedurende de duur van de strafonderbreking heeft te voldoen.
 
-#### Artikel 2:5e
+##### Artikel 2:5e
 
 Onze Minister kan de verleende strafonderbreking voor bepaalde tijd te allen tijde wijzigen of intrekken. De beslissing tot wijziging of intrekking wordt gemotiveerd.
 
-#### Artikel 2:5f
+##### Artikel 2:5f
 
 1. Onze Minister kan strafonderbreking voor onbepaalde tijd verlenen aan een vreemdeling die op grond van [artikel 6:2:10, tweede lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:10) niet in aanmerking komt voor voorwaardelijke invrijheidstelling of een jeugdige die geen rechtmatig verblijf heeft in Nederland in de zin van [artikel 8, onder a tot en met e en l, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8).
 
@@ -878,7 +904,7 @@ Onze Minister kan de verleende strafonderbreking voor bepaalde tijd te allen tij
 
 7. De strafonderbreking voor onbepaalde tijd gaat in op het moment dat de vreemdeling Nederland heeft verlaten.
 
-#### Artikel 2:5g
+##### Artikel 2:5g
 
 Bij ministeriële regeling worden nadere regels gesteld over de wijze van verlening van de strafonderbreking.
 

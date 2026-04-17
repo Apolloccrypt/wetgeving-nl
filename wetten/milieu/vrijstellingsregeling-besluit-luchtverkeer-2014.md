@@ -1,13 +1,39 @@
 ---
-title: "Vrijstellingsregeling Besluit luchtverkeer 2014"
+title: "Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 9 december 2014, nr. IENM/BSK-2014/260116, houdende vaststelling van regels tot vrijstelling van het Besluit luchtverkeer 2014 ter uitvoering van uitvoeringsverordening (EU) nr. 923/2012 van de Commissie van 26 september 2012 tot vaststelling van gemeenschappelijke luchtverkeersregels en operationele bepalingen betreffende luchtvaartnavigatiediensten en -procedures en tot wijziging van Uitvoeringsverordening (EU) nr. 1035/2011 en Verordeningen (EG) nr. 1265/2007, (EG) nr. 1794/2006, (EG) nr. 730/2006, (EG) nr. 1033/2006 en (EU) nr. 255/2010 (Vrijstellingsregeling Besluit luchtverkeer 2014)"
 identifier: "BWBR0035900"
-categorie: "Milieu"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035900"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035900"
+soort: "ministeriele-regeling"
+stam_id: "12876313"
+version_id: "21886292"
+internal_id: "C31409181"
+label_id: "12845924"
+dtd_version: "2.0"
+original_entry_into_force: "2014-12-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035900/2025-07-01/0"
+intitule_bron: "Stcrt.2014-35511"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-12-09"
+intitule_published: "2014-12-11"
+intitule_in_force: "2014-12-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-35511"
+original_signed_date: "2014-12-09"
+original_published_date: "2014-12-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-35511"
+entry_into_force_date: "2014-12-12"
+jci_1_3: "jci1.3:c:BWBR0035900&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0035900&g=2025-07-01"
+citeertitel_status: "officieel"
+short_title: "Vrijstellingsregeling Besluit luchtverkeer 2014"
+signed_date: "2014-12-09"
+entry_into_force: "2014-12-12"
 ---
-
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 9 december 2014, nr. IENM/BSK-2014/260116, houdende vaststelling van regels tot vrijstelling van het Besluit luchtverkeer 2014 ter uitvoering van uitvoeringsverordening (EU) nr. 923/2012 van de Commissie van 26 september 2012 tot vaststelling van gemeenschappelijke luchtverkeersregels en operationele bepalingen betreffende luchtvaartnavigatiediensten en -procedures en tot wijziging van Uitvoeringsverordening (EU) nr. 1035/2011 en Verordeningen (EG) nr. 1265/2007, (EG) nr. 1794/2006, (EG) nr. 730/2006, (EG) nr. 1033/2006 en (EU) nr. 255/2010 (Vrijstellingsregeling Besluit luchtverkeer 2014)
 
 Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=3), [18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=18), en [19, eerste en tweede lid, van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=19);
@@ -16,7 +42,7 @@ Besluiten:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1. Begripsomschrijving
+##### Artikel 1.1. Begripsomschrijving
 
 In deze regeling wordt verstaan onder:
 
@@ -58,7 +84,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Activiteiten van openbaar belang
 
-#### Artikel 2.1. Minimumvlieghoogtes
+##### Artikel 2.1. Minimumvlieghoogtes
 
 1. De minimumvlieghoogtes voor VFR-verkeer, bedoeld in paragraaf SERA.5005 van verordening (EU) nr. 923/2012, zijn niet van toepassing op een HEMS-vlucht, SAR-vlucht, politievlucht of kustwachtvlucht en de opleiding en training die nodig zijn voor de veilige uitvoering van een dergelijke vlucht:
 
@@ -70,7 +96,7 @@ In deze regeling wordt verstaan onder:
 
 3. Er wordt uitsluitend beneden de minimumvlieghoogtes voor VFR-verkeer gevlogen gedurende de periode dat dit noodzakelijk is voor het doel van de vlucht.
 
-#### Artikel 2.2. Zichtvliegvoorschriften
+##### Artikel 2.2. Zichtvliegvoorschriften
 
 1. Het uitvoeren van HEMS-vlucht, SAR-vlucht, politievlucht of kustwachtvlucht en de opleiding en training die nodig zijn voor de veilige uitvoering van een dergelijke vlucht buiten de daglichtperiode, zijn toegestaan, indien wordt voldaan aan de volgende voorschriften:
 
@@ -88,7 +114,7 @@ In deze regeling wordt verstaan onder:
 
 4. Het eerste lid, onderdeel a, is niet van toepassing op vluchten als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035900&hoofdstuk=2&artikel=2.7&z=2025-07-01&g=2025-07-01).
 
-#### Artikel 2.3. Luchtvaartuiglichten
+##### Artikel 2.3. Luchtvaartuiglichten
 
 Ten aanzien van politievluchten en kustwachtvluchten gelden de volgende regels, indien door het doel van de vlucht niet kan worden voldaan aan het gestelde bij of krachtens paragraaf SERA.3215 van verordening (EU) nr. 923/2012:
 
@@ -100,13 +126,13 @@ Ten aanzien van politievluchten en kustwachtvluchten gelden de volgende regels, 
 
 - d. het luchtvaartuig is uitgerust met een goed functionerend radar beantwoordingssysteem (SSR-transponder) met 4.096 codemogelijkheden in Mode A en automatische hoogterapportering in Mode C.
 
-#### Artikel 2.4. Buitenlandse luchtvaartuigen
+##### Artikel 2.4. Buitenlandse luchtvaartuigen
 
 De [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035900&hoofdstuk=2&artikel=2.1&z=2025-07-01&g=2025-07-01) en [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035900&hoofdstuk=2&artikel=2.2&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing op een politievlucht uitgevoerd door de bevoegde autoriteit van de Bondsrepubliek Duitsland met een luchtvaartuig als bedoeld in artikel 25, vierde lid, van het op 2 maart 2005 tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake de grensoverschrijdende politiële samenwerking en de samenwerking in strafrechtelijke aangelegenheden (Trb. 2005, 86).
 
 ### Hoofdstuk 3. Zichtvliegvoorschriften
 
-#### Artikel 3.1. Vrije ballonnen
+##### Artikel 3.1. Vrije ballonnen
 
 Het uitvoeren van een vlucht met een vrije ballon buiten de daglichtperiode is toegestaan met inachtneming van de volgende voorschriften:
 
@@ -152,19 +178,19 @@ Het uitvoeren van een vlucht met een vrije ballon buiten de daglichtperiode is t
 
 - i. het landen vindt uitsluitend plaats binnen de daglichtperiode;
 
-#### Artikel 3.2. Vluchtuitvoeringen buiten de daglichtperiode
+##### Artikel 3.2. Vluchtuitvoeringen buiten de daglichtperiode
 
 1. Het uitvoeren van een vlucht met een vliegtuig, helikopter, luchtschip of TMG buiten de daglichtperiode is toegestaan onder de voorwaarden, bedoeld in paragraaf SERA.5005, onderdeel c, van de bijlage bij uitvoeringsverordening (EU) nr. 923/2012 en er daarnaast voldaan wordt aan het voorschrift dat een SSR-transponder met de Mode S/ELS wordt gebruikt.
 
 2. Onverminderd het eerste lid mogen met amateurbouwluchtvaartuigen, lichte gyrokopters, MLA’s, MLH’s, schermvliegtuigen en paramotortrikes slechts vluchten worden uitgevoerd gedurende de daglichtperiode.
 
-#### Artikel 3.3. Spuit en sproeivluchten
+##### Artikel 3.3. Spuit en sproeivluchten
 
 Het uitvoeren van een vlucht waarbij stoffen ter bevordering of ter bescherming van het milieu dan wel de land-, tuin- of bosbouw, te bestemder plaatse worden uitgeworpen is toegestaan gedurende de vijftien minuten voor de aanvang en vijftien minuten na het einde van de daglichtperiode.
 
 ### Hoofdstuk 4. Minimumvlieghoogte
 
-#### Artikel 4.1. Luchtwerk
+##### Artikel 4.1. Luchtwerk
 
 1. De minimumvlieghoogtes voor VFR-verkeer, bedoeld in paragraaf SERA.5005 van verordening (EU) nr. 923/2012, zijn niet van toepassing op vluchten die niet plaatsvinden boven gebieden met aaneengesloten bebouwing, industrie- en havengebieden daaronder begrepen, of boven mensenverzamelingen en die worden uitgevoerd met een vliegtuig of helikopter door een gezagvoerder die beschikt over een bewijs van bevoegdheid als beroepspiloot als bedoeld in verordening (EU) nr. 1178/2011 met als doel van de vlucht:
 
@@ -190,11 +216,11 @@ Het uitvoeren van een vlucht waarbij stoffen ter bevordering of ter bescherming 
 
 3. Er wordt uitsluitend gevlogen beneden de minimumvlieghoogtes voor VFR-verkeer gedurende de periode dat dit noodzakelijk is voor het doel van de vlucht.
 
-#### Artikel 4.2. Luchtvaartvertoningen
+##### Artikel 4.2. Luchtvaartvertoningen
 
 De minimumvlieghoogtes voor VFR-verkeer, bedoeld in paragraaf SERA.5005 van verordening (EU) nr. 923/2012, zijn niet van toepassing op een vlucht die onderdeel is van een luchtvaartvertoning waarvoor krachtens [artikel 17 van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=17) een vergunning is verleend, met dien verstande dat niet mag worden gevlogen onder de vlieghoogte die is opgenomen in een vertoninglicentie als bedoeld in [artikel 1, tweede lid, onderdeel s, van de Regeling luchtvaartvertoningen](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&artikel=1).
 
-#### Artikel 4.3. Spuit- en sproeivluchten
+##### Artikel 4.3. Spuit- en sproeivluchten
 
 Bij het toepassen van de uitzondering op de minimum vlieghoogtes voor de in [artikel 19, eerste lid, onderdeel b, van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=19) genoemde vluchten worden de volgende regels in acht genomen:
 
@@ -204,7 +230,7 @@ Bij het toepassen van de uitzondering op de minimum vlieghoogtes voor de in [art
 
 - c. vluchten zijn niet toegestaan boven en onder hoogspanningslijnen en binnen een gebied van vijftien meter ter weerszijden van deze hoogspanningslijnen.
 
-#### Artikel 4.4. Oefennaderingen
+##### Artikel 4.4. Oefennaderingen
 
 1. De gebieden Deventer, Flevopolder, Gouda en Noord Groningen, vastgesteld door de Minister van Infrastructuur en Milieu en bekendgemaakt in de luchtvaartgids, hoofdstukken ENR 5.1 en ENR 5.2, zijn ten behoeve van oefennaderingen aangewezen als gebieden als bedoeld in [artikel 19, eerste lid, onderdeel c, van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=19), met dien verstande dat oefennaderingen slechts kunnen worden uitgevoerd:
 
@@ -220,7 +246,7 @@ Bij het toepassen van de uitzondering op de minimum vlieghoogtes voor de in [art
 
 - b. boven personen of vee.
 
-#### Artikel 4.5. Schermzweeftoestellen, zeil- en zweefvliegtuigen
+##### Artikel 4.5. Schermzweeftoestellen, zeil- en zweefvliegtuigen
 
 1. De strand- en duingebieden van de eilanden Ameland, Texel en Schouwen-Duiveland, alsmede de strand- en duingebieden van Callantsoog tot Noordwijk aan Zee, met uitzondering van die gebieden die vallen binnen het plaatselijke luchtverkeersleidinggebied 'De Kooy/Den Helder', zijn ten behoeve van vluchten met zweefvliegtuigen aangewezen als strand- en duingebieden als bedoeld in [artikel 19, eerste lid, onderdeel d, van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=19), met dien verstande dat deze vluchten slechts kunnen worden uitgevoerd:
 
@@ -240,7 +266,7 @@ Bij het toepassen van de uitzondering op de minimum vlieghoogtes voor de in [art
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 5.1. Intrekken diverse regelingen
+##### Artikel 5.1. Intrekken diverse regelingen
 
 De volgende regelingen worden ingetrokken:
 
@@ -256,17 +282,17 @@ De volgende regelingen worden ingetrokken:
 
 - f. [Regeling uitvoering VFR-vluchten buiten de daglichtperiode](https://wetten.overheid.nl/jci1.3:c:BWBR0006173).
 
-#### Artikel 5.2. Inwerkingtreding
+##### Artikel 5.2. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 5.3. Citeertitel
+##### Artikel 5.3. Citeertitel
 
 Deze regeling wordt aangehaald als: Vrijstellingsregeling Besluit luchtverkeer 2014.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 2.5. VFR-vlucht in luchtruimklasse A
+##### Artikel 2.5. VFR-vlucht in luchtruimklasse A
 
 Onverminderd paragraaf SERA.6001, onderdeel a, is het uitvoeren van een SAR-vlucht, politievlucht of kustwachtvlucht en de opleiding en training die nodig zijn voor de veilige uitvoering van een dergelijke vlucht, toegestaan in luchtruim met klasse A, indien wordt voldaan aan de volgende voorschriften:
 
@@ -276,7 +302,7 @@ Onverminderd paragraaf SERA.6001, onderdeel a, is het uitvoeren van een SAR-vluc
 
 - c. de gezagvoerder is te allen tijde in staat en bevoegd de vlucht onder instrumentvliegvoorschriften voort te zetten.
 
-#### Artikel 2.6. Uitwerpen van voorwerpen en stoffen
+##### Artikel 2.6. Uitwerpen van voorwerpen en stoffen
 
 Het uitwerpen van voorwerpen of stoffen uit het luchtvaartuig tijdens een SAR-vlucht, politievlucht of kustwachtvlucht en de opleiding en training die nodig zijn voor de veilige uitvoering van een dergelijke vlucht, is toegestaan, indien wordt voldaan aan de volgende voorschriften:
 
@@ -294,7 +320,7 @@ Het uitwerpen van voorwerpen of stoffen uit het luchtvaartuig tijdens een SAR-vl
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 2.7. Transponder
+##### Artikel 2.7. Transponder
 
 Het uitvoeren van een politievlucht of kustwachtvlucht zonder geactiveerde Mode S SSR-transponder als bedoeld in paragraaf SERA.6005 van [verordening (EU) nr. 923/2012](32012R0923) is toegestaan gedurende de periode waarin dit noodzakelijk is voor het doel van de vlucht, indien wordt voldaan aan de volgende voorschriften:
 

@@ -1,13 +1,39 @@
 ---
-title: "Regeling werk- en rusttijden luchtvaart"
+title: "Regeling van de Ministers van Verkeer en Waterstaat en van Sociale Zaken en Werkgelegenheid, houdende regels ter uitvoering van het Arbeidstijdenbesluit vervoer (Regeling werk- en rusttijden luchtvaart)"
 identifier: "BWBR0024175"
-categorie: "Milieu"
-publicatiedatum: 2008-07-19
-laatste_update: 2008-07-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024175"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2008-07-19"
+last_updated: "2008-07-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024175"
+soort: "ministeriele-regeling"
+stam_id: "9650803"
+version_id: "15570142"
+internal_id: "C21250731"
+label_id: "9627934"
+dtd_version: "2.0"
+original_entry_into_force: "2008-07-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024175/2008-07-19/0"
+intitule_bron: "Stcrt.2008-133"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-07-10"
+intitule_published: "2008-07-14"
+intitule_in_force: "2008-07-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-133"
+original_signed_date: "2008-07-10"
+original_published_date: "2008-07-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-133-p27-SC86628"
+entry_into_force_date: "2008-07-19"
+jci_1_3: "jci1.3:c:BWBR0024175&z=2008-07-19&g=2008-07-19"
+jci_1_0: "1.0:c:BWBR0024175&g=2008-07-19"
+citeertitel_status: "officieel"
+short_title: "Regeling werk- en rusttijden luchtvaart"
+signed_date: "2008-07-10"
+entry_into_force: "2008-07-19"
 ---
-
 # Regeling van de Ministers van Verkeer en Waterstaat en van Sociale Zaken en Werkgelegenheid, houdende regels ter uitvoering van het Arbeidstijdenbesluit vervoer (Regeling werk- en rusttijden luchtvaart)
 
 Gelet op [verordeningen (EG) nr. 1899/2006](32006R1899) en [8/2008](32008R0008) tot wijziging van [verordening (EEG) nr. 3922/91](31991R3922) inzake de harmonisatie van technische voorschriften en administratieve procedures op het gebied van de burgerluchtvaart, en op de [artikelen 4.5:3 tot en met 4.5:6 van het Arbeidstijdenbesluit vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&artikel=4.5:3);
@@ -16,7 +42,7 @@ Besluiten:
 
 Treedt in werking op het tijdstip waarop het Besluit vluchtuitvoering in werking treedt.
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 In deze regeling wordt verstaan onder:
 
@@ -38,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 - –. cumulatieve diensturen: uren als bedoeld in onderdeel 1.1100 van de verordening.
 
-#### Artikel 2. Maximale vliegdienstperiode
+##### Artikel 2. Maximale vliegdienstperiode
 
 1. Bij het bepalen van de vliegdienstperiode wordt grondtijd volledig in aanmerking genomen.
 
@@ -46,7 +72,7 @@ In deze regeling wordt verstaan onder:
 
 3. De in het tweede lid bedoelde verlenging kan slechts op één grondtijd binnen een vliegdienstperiode worden toegepast.
 
-#### Artikel 3. Rust
+##### Artikel 3. Rust
 
 Indien het tijdzoneverschil tussen het begin en het einde van een vliegdienstperiode vier uur of meer bedraagt, wordt:
 
@@ -54,7 +80,7 @@ Indien het tijdzoneverschil tussen het begin en het einde van een vliegdienstper
 
 - b. buiten de thuisbasis de minimumrust, bedoeld in onderdeel 1.1110, onder 1.2, van de verordening, verhoogd met vier uur, tot een rust van ten minste 14 uur.
 
-#### Artikel 4. Verkorte rustperiode
+##### Artikel 4. Verkorte rustperiode
 
 1. Ter uitvoering van [artikel 4.5:4, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&artikel=4.5:4), kan de minimumrustperiode op de thuisbasis worden verkort, voor zover:
 
@@ -74,13 +100,13 @@ Indien het tijdzoneverschil tussen het begin en het einde van een vliegdienstper
 
 6. Een tweede lokale nacht kan, in afwijking van onderdeel 1.1095, onder 1.9, van de verordening, aanvangen om 20.00 uur lokale tijd indien de wekelijkse rustperiode, bedoeld in onderdeel 1.1110 van de verordening, ten minste 40 uur bedraagt.
 
-#### Artikel 5. Verlenging
+##### Artikel 5. Verlenging
 
 1. Op een vliegdienstperiode volgend op een verkorte rustperiode als bedoeld in het eerste en tweede lid van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024175&artikel=4&z=2008-07-19&g=2008-07-19), wordt geen verlenging als bedoeld in onderdeel 1.1105, onder 2, van de verordening toegepast.
 
 2. Op een vliegdienstperiode volgend op een verkorte rustperiode als bedoeld in het eerste en tweede lid van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024175&artikel=4&z=2008-07-19&g=2008-07-19), kunnen verlengingen als bedoeld in de onderdelen 1.1115 en 1.1120 van de verordening worden toegepast.
 
-#### Artikel 6. Verlenging vliegdienstperiode cockpitpersoneel
+##### Artikel 6. Verlenging vliegdienstperiode cockpitpersoneel
 
 1. In geval van uitbreiding van het basiscockpitpersoneel kan de maximale vliegdienstperiode, bedoeld in onderdeel 1.1105 van de verordening, worden verlengd overeenkomstig onderstaande tabel:
 
@@ -95,7 +121,7 @@ Indien het tijdzoneverschil tussen het begin en het einde van een vliegdienstper
 
 3. De verlenging is uitsluitend mogelijk voor vluchten die bestaan uit ten hoogste vier sectoren.
 
-#### Artikel 7. Verlenging vliegdienstperiode cabinepersoneel
+##### Artikel 7. Verlenging vliegdienstperiode cabinepersoneel
 
 1. De maximale vliegdienstperiode voor cabinepersoneel, bedoeld in onderdeel 1.1105 van de verordening, kan in geval van het bieden van rusttijd tijdens de vlucht worden verlengd met:
 
@@ -109,7 +135,7 @@ Indien het tijdzoneverschil tussen het begin en het einde van een vliegdienstper
 
 3. De verlenging is uitsluitend mogelijk voor vluchten die bestaan uit ten hoogste vier sectoren.
 
-#### Artikel 8. Paraatheid
+##### Artikel 8. Paraatheid
 
 1. Indien luchthavenparaatheid onmiddellijk wordt gevolgd door een vliegdienst, wordt die luchthavenparaatheid vanaf het tijdstip van aanmelding volledig meegeteld voor de vliegdienstperiode.
 
@@ -133,15 +159,15 @@ Indien het tijdzoneverschil tussen het begin en het einde van een vliegdienstper
 
 11. Paraatheidsuren als bedoeld in onderdeel 1.1125, onder 2, van de verordening worden voor de helft meegeteld voor het bepalen van de cumulatieve diensturen.
 
-#### Artikel 9. Evaluatie
+##### Artikel 9. Evaluatie
 
 Deze regeling wordt een jaar na haar inwerkingtreding geëvalueerd.
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 Deze regeling treedt in werking op het tijdstip waarop het [Besluit vluchtuitvoering](https://wetten.overheid.nl/jci1.3:c:BWBR0020111) (Stb. 2006, 371) in werking treedt.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling werk- en rusttijden luchtvaart.
 

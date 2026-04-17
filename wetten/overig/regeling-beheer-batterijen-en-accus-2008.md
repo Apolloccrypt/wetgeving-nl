@@ -1,13 +1,39 @@
 ---
-title: "Regeling beheer batterijen en accu’s 2008"
+title: "Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 9 september 2008, nr. K&K 2008088170, houdende regels met betrekking tot het afvalbeheer en het gebruik van bepaalde gevaarlijke stoffen in batterijen en accu’s (Regeling beheer batterijen en accu’s 2008)"
 identifier: "BWBR0024492"
-categorie: "Overig"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024492"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024492"
+soort: "ministeriele-regeling"
+stam_id: "9719863"
+version_id: "29336852"
+internal_id: "C41829631"
+label_id: "9697004"
+dtd_version: "2.0"
+original_entry_into_force: "2023-04-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024492/2024-01-01/0"
+intitule_bron: "Stcrt.2008-181"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-09-09"
+intitule_published: "2008-09-18"
+intitule_in_force: "2008-09-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-10014"
+original_signed_date: "2023-04-06"
+original_published_date: "2023-04-14"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2023-10014"
+entry_into_force_date: "2023-04-06"
+jci_1_3: "jci1.3:c:BWBR0024492&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0024492&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling beheer batterijen en accu’s 2008"
+signed_date: "2023-04-06"
+entry_into_force: "2023-04-06"
 ---
-
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 9 september 2008, nr. K&K 2008088170, houdende regels met betrekking tot het afvalbeheer en het gebruik van bepaalde gevaarlijke stoffen in batterijen en accu’s (Regeling beheer batterijen en accu’s 2008)
 
 Gelet op [richtlijn nr. 2006/66/EG](32006L0066) van het Europees Parlement en de Raad van de Europese Unie van 6 september 2006 inzake batterijen en accu’s, alsook afgedankte batterijen en accu’s en tot intrekking van [Richtlijn 91/157/EEG](31991L0157) (PbEU L 266) en de [artikelen 9.2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.2.1), [10.15 tot en met 10.18](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.15) en [21.6, zesde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=21.6);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Begripsbepalingen en reikwijdte
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -64,7 +90,7 @@ In deze regeling wordt verstaan onder:
 
 - s. **op de markt aanbieden:** op de markt aanbieden als bedoeld in artikel 3, onderdeel 1, van de EU-verordening markttoezicht.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling is niet van toepassing op batterijen en accu’s die worden gebruikt in:
 
@@ -74,7 +100,7 @@ Deze regeling is niet van toepassing op batterijen en accu’s die worden gebrui
 
 #### § 2. Ontwerp en fabricage van batterijen en accu’s
 
-#### Artikel 3
+##### Artikel 3
 
 Fabrikanten van batterijen en accu’s nemen maatregelen:
 
@@ -86,7 +112,7 @@ Fabrikanten van batterijen en accu’s nemen maatregelen:
 
 - 2°. met stoffen die zo min mogelijk gevaarlijk zijn voor de gezondheid van de mens of voor het milieu.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het is verboden:
 
@@ -114,7 +140,7 @@ aan een derde in de Europese Gemeenschap, met inbegrip van invoer in het douaneg
 
 #### § 3. Inname, verwerking, recycling en overig afvalbeheer
 
-#### Artikel 5
+##### Artikel 5
 
 1. De distributeur van draagbare batterijen of accu’s is verplicht om:
 
@@ -126,13 +152,13 @@ aan een derde in de Europese Gemeenschap, met inbegrip van invoer in het douaneg
 
 3. De producent van industriële batterijen en accu’s is verplicht om afgedankte industriële batterijen en accu’s van de eindgebruikers terug te nemen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De producent van draagbare batterijen of accu’s draagt er zorg voor dat hij jaarlijks ten minste een inzamelpercentage van 45 behaalt.
 
 2. Het inzamelpercentage, bedoeld in het eerste lid, wordt berekend overeenkomstig het schema vermeld in bijlage I bij [richtlijn 2006/66/EG](32006L0066).
 
-#### Artikel 7
+##### Artikel 7
 
 1. De producent draagt er zorg voor dat:
 
@@ -150,13 +176,13 @@ aan een derde in de Europese Gemeenschap, met inbegrip van invoer in het douaneg
 
 2. Voor de naleving van het eerste lid, onderdeel f, worden afgedankte batterijen en accu’s die worden uitgevoerd naar landen buiten de Europese Gemeenschap niet meegeteld, met uitzondering van batterijen en accu’s waarvan de producent kan aantonen dat het de recycling als materiaal heeft plaatsgevonden in omstandigheden die gelijkwaardig zijn aan de voorschriften, bedoeld in bijlage III, deel B, bij [richtlijn 2006/66/EG](32006L0066).
 
-#### Artikel 8
+##### Artikel 8
 
 De producent draagt ervoor zorg dat zijn handelen ter uitvoering van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=3&artikel=5&z=2024-01-01&g=2024-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=3&artikel=7&z=2024-01-01&g=2024-01-01) en van [artikel 2, tweede lid, van het Besluit regeling voor uitgebreide producentenverantwoordelijkheid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=2) geen handelsbelemmering of concurrentieverstoring veroorzaakt.
 
 #### § 4. Markering
 
-#### Artikel 9
+##### Artikel 9
 
 1. Batterijen, accu’s en batterijpakken zijn voorzien van het symbool, bedoeld in bijlage II, van [richtlijn 2006/66/EG](32006L0066).
 
@@ -186,7 +212,7 @@ De producent draagt ervoor zorg dat zijn handelen ter uitvoering van de [artikel
 
 #### § 5. Informatie
 
-#### Artikel 10
+##### Artikel 10
 
 1. De producent draagt er zorg voor dat de eindgebruikers van batterijen en accu’s volledig worden geïnformeerd over:
 
@@ -204,7 +230,7 @@ De producent draagt ervoor zorg dat zijn handelen ter uitvoering van de [artikel
 
 #### § 6. Financiering
 
-#### Artikel 11
+##### Artikel 11
 
 1. De producent draagt zorg voor de financiering van alle kosten die verbonden zijn aan de uitvoering van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=3&artikel=5&z=2024-01-01&g=2024-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=3&artikel=7&z=2024-01-01&g=2024-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=5&artikel=10&z=2024-01-01&g=2024-01-01).
 
@@ -216,11 +242,11 @@ De producent draagt ervoor zorg dat zijn handelen ter uitvoering van de [artikel
 
 #### § 7. Registratie en verslaglegging
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
-#### Artikel 13
+##### Artikel 13
 
 1. De fabrikant of producent zendt voor 1 augustus van het jaar volgend op het jaar waarin deze regeling in werking is getreden en vervolgens elk jaar voor 1 augustus aan de Minister van Infrastructuur en Milieu een verslag over de uitvoering in het voorafgaande kalenderjaar van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01).
 
@@ -230,31 +256,31 @@ Vervallen
 
 #### § 8. Wijziging en intrekking andere regelgeving
 
-#### Artikel 14*
+##### Artikel 14*
 
 1. Het is marktdeelnemers die betrokken zijn of zijn geweest bij het op de markt aanbieden van batterijen of accu’s, verboden te handelen in strijd met artikel 7, eerste lid, van de EU-verordening markttoezicht.
 
 2. Het is een aanbieder van diensten van de informatiemaatschappij die betrokken is of is geweest bij het online te koop aanbieden van batterijen of accu’s, verboden te handelen in strijd met artikel 7, tweede lid, van de EU-verordening markttoezicht.
 
-#### Artikel 15
+##### Artikel 15
 
 Wijzigt de Regeling melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen.
 
-#### Artikel 16
+##### Artikel 16
 
 De [Nadere regels aanduiding van batterijen en accu’s die kwik, cadmium of lood bevatten](https://wetten.overheid.nl/jci1.3:c:BWBR0006253) worden ingetrokken.
 
 #### § 9. Slotbepalingen
 
-#### Artikel 17
+##### Artikel 17
 
 Een wijziging van een van de bijlagen bij [richtlijn nr. 2006/66/EG](32006L0066) gaat voor de toepassing van deze regeling gelden met ingang van de dag waarop aan die wijziging uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
-#### Artikel 18
+##### Artikel 18
 
 Wijzigt deze regeling.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Deze regeling treedt in werking met ingang van 26 september 2008.
 
@@ -266,7 +292,7 @@ Wijzigt deze regeling.
 
 - c. treedt [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=3&artikel=6&z=2024-01-01&g=2024-01-01) in werking met ingang van 26 september 2012.
 
-#### Artikel 20
+##### Artikel 20
 
 Deze regeling wordt aangehaald als: Regeling beheer batterijen en accu’s 2008.
 
@@ -372,7 +398,7 @@ Toelichting: de vraag heeft uitsluitend betrekking op draagbare batterijen en ac
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Deze regeling berust mede op [artikel 21.6, vierde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=21.6).
 
@@ -434,7 +460,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### § 8. Wijziging en intrekking andere regelgeving
 
-#### Artikel 14
+##### Artikel 14
 
 Wijzigt de Regeling beheer elektrische en elektronische apparatuur.
 

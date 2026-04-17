@@ -1,18 +1,42 @@
 ---
 title: "Regeling impuls leefbaarheid, veiligheid en stadseconomie G15"
 identifier: "BWBR0008340"
-categorie: "Overig"
-publicatiedatum: 2002-01-01
-laatste_update: 2002-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008340"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2002-01-01"
+last_updated: "2002-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008340"
+soort: "ministeriele-regeling"
+stam_id: "4596793"
+version_id: "6413082"
+internal_id: "C6658641"
+label_id: "4575154"
+dtd_version: "2.0"
+original_entry_into_force: "1996-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008340/2002-01-01/0"
+intitule_bron: "Stcrt.1996-232"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-11-20"
+intitule_published: "1996-11-29"
+intitule_in_force: "1996-11-29"
+intitule_status: "goed"
+original_publication: "Stcrt.1996-232"
+original_signed_date: "1996-11-20"
+original_published_date: "1996-11-29"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1996-12-01"
+jci_1_3: "jci1.3:c:BWBR0008340&z=2002-01-01&g=2002-01-01"
+jci_1_0: "1.0:c:BWBR0008340&g=2002-01-01"
+citeertitel_status: "officieel"
+signed_date: "1996-11-20"
+entry_into_force: "1996-12-01"
 ---
-
 # Regeling impuls leefbaarheid, veiligheid en stadseconomie G15
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. De in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0008340&bijlage=A&z=2002-01-01&g=2002-01-01) genoemde gemeenten ontvangen een rijksbijdrage voor de uitvoering van hun in bedoelde bijlage genoemde plannen. De rijksbijdrage dient besteed te worden aan de realisering van de in de plannen omschreven activiteiten en prestaties ten gunste van de leefbaarheid, veiligheid en stadseconomie. Minimaal 90% van de rijksbijdrage dient in de periode 1996 tot en met 1999 besteed te worden.
 
@@ -22,7 +46,7 @@ Besluit:
 
 4. Een annuïteit wordt de gemeenten voor 1 april ter beschikking gesteld; in 1996 wordt de annuïteit voor 1 december ter beschikking gesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het gemeentebestuur brengt voor
 
@@ -32,23 +56,23 @@ Besluit:
 
 3. Het gemeentebestuur zendt het verslag aan de Minister van Binnenlandse Zaken, voorzien van de accountantsverklaring, bedoeld in [artikel 215, tweede lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=215).
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het gemeentebestuur brengt voor 15 october van de jaren 1997 tot en met 2000 aan de Minister van Binnenlandse Zaken verslag uit over de omvang van de bestedingen die ter uitvoering van het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008340&artikel=1&z=2002-01-01&g=2002-01-01) bedoelde plan in het voorgaande jaar zijn gedaan en de effecten ervan in relatie tot de met de planuitvoering beoogde prestaties.
 
 2. Op het moment dat de audit, zoals overeengekomen in het convenant ’Steden staan voor stedelijkheid’ d.d. 30 october 1995, toegepast wordt, komen de uitkomsten van de audit, op het voor die audit afgesproken tijdstip, in de plaats van het in het eerste lid bedoelde verslag.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Onze Minister kan besluiten tot verlaging van de rijksbijdrage, indien uit het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008340&artikel=2&z=2002-01-01&g=2002-01-01) bedoelde verslag blijkt dat de rijksbijdrage, bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008340&artikel=1&z=2002-01-01&g=2002-01-01), niet overeenkomstig deze regeling tot besteding is gekomen.
 
 2. De verlaging bedraagt ten hoogste een evenredige vermindering van de nog ter beschikking te stellen annuïteiten met inachtneming van reeds uitbetaalde annuïteiten.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling wordt aangehaald als: Regeling impuls leefbaarheid, veiligheid en stadseconomie G15.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 

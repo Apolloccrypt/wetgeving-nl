@@ -1,13 +1,38 @@
 ---
 title: "Overeenkomst inzake tijdelijke invoer"
 identifier: "BWBV0002763"
-categorie: "Internationaal recht"
-publicatiedatum: 2017-05-11
-laatste_update: 2017-05-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002763"
+country: "nl"
+rank: "verdrag"
+publication_date: "2017-05-11"
+last_updated: "2017-05-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002763"
+soort: "verdrag"
+stam_id: "10003096173"
+version_id: "10003103422"
+internal_id: "C10008818191"
+label_id: "10003085524"
+dtd_version: "2.0"
+original_entry_into_force: "1997-09-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002763/2017-05-11/0"
+intitule_bron: "Trb.1991-182"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-06-18"
+intitule_published: "1991-12-24"
+intitule_in_force: "2006-03-24"
+intitule_status: "goed"
+original_publication: "Trb.1991-182"
+original_signed_date: "1997-06-18"
+original_published_date: "1991-12-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1991-182"
+entry_into_force_date: "1997-09-18"
+jci_1_3: "jci1.3:c:BWBV0002763&z=2017-05-11&g=2017-05-11"
+jci_1_0: "1.0:c:BWBV0002763&g=2017-05-11"
+citeertitel_status: "officieel"
+signed_date: "1997-06-18"
+entry_into_force: "1997-09-18"
 ---
-
 # Overeenkomst inzake tijdelijke invoer
 
 Preambule
@@ -34,7 +59,7 @@ Zijn als volgt overeengekomen:
 
 #### Begripsomschrijvingen
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van deze Overeenkomst wordt verstaan onder:
 
@@ -58,7 +83,7 @@ Voor de toepassing van deze Overeenkomst wordt verstaan onder:
 
 #### Werkingssfeer van de Overeenkomst
 
-#### Artikel 2
+##### Artikel 2
 
 1. Elke Overeenkomstsluitende Partij verbindt zich ertoe de tijdelijke invoer toe te staan, in overeenstemming met de bepalingen van deze Overeenkomst, van de goederen (met inbegrip van vervoermiddelen) genoemd in de Bijlagen bij deze Overeenkomst.
 
@@ -66,7 +91,7 @@ Voor de toepassing van deze Overeenkomst wordt verstaan onder:
 
 #### Structuur van de Bijlagen
 
-#### Artikel 3. Structuur van de Bijlagen
+##### Artikel 3. Structuur van de Bijlagen
 
 Elke Bijlage bij deze Overeenkomst bestaat in principe uit:
 
@@ -78,7 +103,7 @@ Elke Bijlage bij deze Overeenkomst bestaat in principe uit:
 
 #### Document en zekerheid
 
-#### Artikel 4. Document en zekerheid
+##### Artikel 4. Document en zekerheid
 
 1. Tenzij in een Bijlage anders is bepaald, heeft elke Overeenkomstsluitende Partij het recht de tijdelijke invoer van goederen (met inbegrip van vervoermiddelen) afhankelijk te stellen van de overlegging van een douanedocument en zekerheidstelling.
 
@@ -90,19 +115,19 @@ Elke Bijlage bij deze Overeenkomst bestaat in principe uit:
 
 #### Documenten voor tijdelijke invoer
 
-#### Artikel 5. Documenten voor tijdelijke invoer
+##### Artikel 5. Documenten voor tijdelijke invoer
 
 Zonder afbreuk te doen aan de tijdelijke-invoerprocedure ingevolge de bepalingen van [Bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=E&z=2017-05-11&g=2017-05-11) aanvaardt elke Overeenkomstsluitende Partij, in plaats van haar nationale douanedocumenten en als waarborg voor de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=A&hoofdstuk=IV&artikel=8&z=2017-05-11&g=2017-05-11) van Bijlage A bedoelde bedragen, elk document voor tijdelijk invoer dat geldig is voor haar grondgebied en dat is afgegeven en wordt gebruikt in overeenstemming met de in die Bijlage vastgelegde voorwaarden voor goederen (met inbegrip van vervoermiddelen) die tijdelijk worden ingevoerd ingevolge de andere Bijlagen bij deze Overeenkomst die zij heeft aanvaard.
 
 #### Identificatie
 
-#### Artikel 6. Identificatie
+##### Artikel 6. Identificatie
 
 Elke Overeenkomstsluitende Partij kan de tijdelijke invoer van goederen (met inbegrip van vervoermiddelen) afhankelijk stellen van de voorwaarde dat zij kunnen worden geïdentificeerd wanneer de tijdelijke invoer wordt beëindigd.
 
 #### Termijn voor wederuitvoer
 
-#### Artikel 7. Termijn voor wederuitvoer
+##### Artikel 7. Termijn voor wederuitvoer
 
 1. Goederen (met inbegrip van vervoermiddelen) waarvoor tijdelijke invoer is toegestaan dienen weder te worden uitgevoerd binnen een bepaalde termijn die toereikend wordt geacht om het doel van de tijdelijke invoer te verwezenlijken. Deze termijn wordt afzonderlijk in elke Bijlage vastgelegd.
 
@@ -112,7 +137,7 @@ Elke Overeenkomstsluitende Partij kan de tijdelijke invoer van goederen (met inb
 
 #### Overdracht van de tijdelijke invoer
 
-#### Artikel 8. Overdracht van de tijdelijke invoer
+##### Artikel 8. Overdracht van de tijdelijke invoer
 
 Elke Overeenkomstsluitende Partij kan op verzoek toestaan dat de rechten van de tijdelijke-invoerregeling worden overgedragen aan een ander, mits deze:
 
@@ -122,29 +147,29 @@ Elke Overeenkomstsluitende Partij kan op verzoek toestaan dat de rechten van de 
 
 #### Beëindiging van de tijdelijke invoer
 
-#### Artikel 9. Beëindiging van de tijdelijke invoer
+##### Artikel 9. Beëindiging van de tijdelijke invoer
 
 De tijdelijke invoer wordt in de regel beëindigd door de wederuitvoer van goederen (met inbegrip van vervoermiddelen) waarvoor tijdelijke invoer is toegestaan.
 
-#### Artikel 10
+##### Artikel 10
 
 Tijdelijk ingevoerde goederen (met inbegrip van vervoermiddelen) kunnen in één of meer zendingen weder worden uitgevoerd.
 
-#### Artikel 11
+##### Artikel 11
 
 Tijdelijk ingevoerde goederen (met inbegrip van vervoermiddelen) kunnen weder worden uitgevoerd langs een ander douanekantoor dan dat waarlangs zij werden ingevoerd.
 
 #### Andere mogelijke gevallen van beëindiging
 
-#### Artikel 12. Andere mogelijke gevallen van beëindiging
+##### Artikel 12. Andere mogelijke gevallen van beëindiging
 
 De tijdelijke invoer kan met toestemming van de bevoegde autoriteiten worden beëindigd door de goederen (met inbegrip van vervoermiddelen) over te brengen naar een vrijhaven of vrije zone of naar een douane-entrepot, dan wel door de goederen onder een regeling douanedoorvoer te brengen met het oog op hun latere uitvoer of een andere toegelaten bestemming.
 
-#### Artikel 13
+##### Artikel 13
 
 De tijdelijke invoer kan worden beëindigd door middel van aangifte voor het vrije verkeer, wanneer de omstandigheden zulks rechtvaardigen en de nationale wetgeving dit toelaat, mits de daarvoor geldende voorwaarden en formaliteiten in acht worden genomen.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De tijdelijke invoer kan worden beëindigd wanneer de goederen (met inbegrip van vervoermiddelen) ernstig zijn beschadigd door een ongeval of door overmacht en deze, conform een door de douaneautoriteiten te nemen besluit, worden:
 
@@ -162,13 +187,13 @@ De tijdelijke invoer kan worden beëindigd door middel van aangifte voor het vri
 
 #### Beperking van de formaliteiten
 
-#### Artikel 15. Beperking van de formaliteiten
+##### Artikel 15. Beperking van de formaliteiten
 
 Elke Overeenkomstsluitende Partij beperkt de douaneformaliteiten die voor de in deze Overeenkomst geregelde faciliteiten zijn vereist tot een minimum en maakt alle regelingen ter zake van deze formaliteiten zo spoedig mogelijk openbaar.
 
 #### Voorafgaande machtiging
 
-#### Artikel 16. Voorafgaande machtiging
+##### Artikel 16. Voorafgaande machtiging
 
 1. Wanneer voor de tijdelijke invoer voorafgaande machtiging nodig is, wordt deze zo spoedig mogelijk door het bevoegde douanekantoor verleend.
 
@@ -176,13 +201,13 @@ Elke Overeenkomstsluitende Partij beperkt de douaneformaliteiten die voor de in 
 
 #### Minimum-faciliteiten
 
-#### Artikel 17. Minimumfaciliteiten
+##### Artikel 17. Minimumfaciliteiten
 
 De bepalingen van deze Overeenkomst leggen minimumfaciliteiten vast en vormen geen beletsel voor de toepassing van de verder reikende faciliteiten die de Overeenkomstsluitende Partijen toestaan of in de toekomst kunnen toestaan op grond van eenzijdige bepalingen of krachtens bilaterale of multilaterale overeenkomsten.
 
 #### Douane-unies of Economische Unies
 
-#### Artikel 18. Douane-unies of economische unies
+##### Artikel 18. Douane-unies of economische unies
 
 1. Voor de toepassing van deze Overeenkomst kunnen de grondgebieden van Overeenkomstsluitende Partijen die een douane-unie of economische unie vormen, als één gebied worden beschouwd.
 
@@ -190,13 +215,13 @@ De bepalingen van deze Overeenkomst leggen minimumfaciliteiten vast en vormen ge
 
 #### Verboden en beperkingen
 
-#### Artikel 19. Verboden en beperkingen
+##### Artikel 19. Verboden en beperkingen
 
 De bepalingen van deze Overeenkomst vormen geen beletsel voor de toepassing van verboden of beperkingen uit hoofde van nationale wetten of voorschriften op grond van niet-economische overwegingen, zoals overwegingen van goede zeden en openbare orde, openbare veiligheid, hygiëne of volksgezondheid, dan wel op grond van veterinaire of fytosanitaire overwegingen, overwegingen betreffende de bescherming van bedreigde wilde dieren- en plantensoorten of overwegingen betreffende de bescherming van auteursrechten en de industriële eigendom.
 
 #### Strafbare feiten
 
-#### Artikel 20. Strafbare feiten
+##### Artikel 20. Strafbare feiten
 
 1. Door overtreding van de bepalingen van deze Overeenkomst stelt de overtreder zich op het grondgebied van de Overeenkomstsluitende Partij waar het strafbare feit is begaan bloot aan de straffen waarin de wetgeving van die Overeenkomstsluitende Partij voorziet.
 
@@ -204,7 +229,7 @@ De bepalingen van deze Overeenkomst vormen geen beletsel voor de toepassing van 
 
 #### Uitwisseling van informatie
 
-#### Artikel 21. Uitwisseling van informatie
+##### Artikel 21. Uitwisseling van informatie
 
 De Overeenkomstsluitende Partijen doen elkaar, op verzoek en voor zover de nationale wetgeving zulks toestaat, de informatie toekomen die nodig is voor de toepassing van de bepalingen van deze Overeenkomst.
 
@@ -212,7 +237,7 @@ De Overeenkomstsluitende Partijen doen elkaar, op verzoek en voor zover de natio
 
 #### Beheerscomité
 
-#### Artikel 22. Beheerscomité
+##### Artikel 22. Beheerscomité
 
 1. Er wordt een Beheerscomité ingesteld dat toeziet op de uitvoering van deze Overeenkomst en dat alle maatregelen ter verzekering van een eenvormige uitlegging en toepassing daarvan, alsmede alle voorgestelde wijzigingen daarop, bestudeert. Het Beheerscomité besluit over de opneming van nieuwe Bijlagen bij deze Overeenkomst.
 
@@ -238,7 +263,7 @@ De Overeenkomstsluitende Partijen doen elkaar, op verzoek en voor zover de natio
 
 #### Regeling van geschillen
 
-#### Artikel 23. Regeling van geschillen
+##### Artikel 23. Regeling van geschillen
 
 1. Elk geschil tussen twee of meer Overeenkomstsluitende Partijen betreffende de uitlegging of toepassing van deze Overeenkomst wordt zoveel mogelijk geregeld door middel van rechtstreekse onderhandelingen tussen de partijen.
 
@@ -248,7 +273,7 @@ De Overeenkomstsluitende Partijen doen elkaar, op verzoek en voor zover de natio
 
 #### Ondertekening, bekrachtiging en toetreding
 
-#### Artikel 24. Ondertekening, bekrachtiging en toetreding
+##### Artikel 24. Ondertekening, bekrachtiging en toetreding
 
 1. Elk lid van de Raad en elk lid van de Verenigde Naties of van gespecialiseerde organisaties daarvan kan Partij bij deze Overeenkomst worden door:
 
@@ -272,7 +297,7 @@ De Overeenkomstsluitende Partijen doen elkaar, op verzoek en voor zover de natio
 
 #### Depositaris
 
-#### Artikel 25. Depositaris
+##### Artikel 25. Depositaris
 
 1. Deze Overeenkomst, alle ondertekeningen met of zonder voorbehoud van bekrachtiging en alle akten van bekrachtiging of toetreding worden nedergelegd bij de Secretaris-Generaal van de Raad.
 
@@ -304,7 +329,7 @@ De Overeenkomstsluitende Partijen doen elkaar, op verzoek en voor zover de natio
 
 #### Inwerkingtreding
 
-#### Artikel 26. Inwerkingtreding
+##### Artikel 26. Inwerkingtreding
 
 1. Deze Overeenkomst treedt in werking drie maanden nadat vijf van de leden of douane-unies of economische unies als bedoeld in [artikel 24, eerste en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=24&z=2017-05-11&g=2017-05-11), van deze Overeenkomst deze zonder voorbehoud van bekrachtiging hebben ondertekend of hun akte van bekrachtiging of toetreding hebben nedergelegd.
 
@@ -316,13 +341,13 @@ De Overeenkomstsluitende Partijen doen elkaar, op verzoek en voor zover de natio
 
 #### Afschaffingsbepaling
 
-#### Artikel 27. Afschaffingsbepaling
+##### Artikel 27. Afschaffingsbepaling
 
 Bij de inwerkingtreding van een Bijlage bij deze Overeenkomst die een afschaffingsbepaling bevat, worden de overeenkomsten of de bepalingen van de overeenkomsten waarop de afschaffingsbepaling betrekking heeft, beëindigd en treedt die Bijlage daarvoor in de plaats in de betrekkingen tussen de Overeenkomstsluitende Partijen die die Bijlage hebben aanvaard en Partij zijn bij die overeenkomsten.
 
 #### Overeenkomst en Bijlagen
 
-#### Artikel 28. Overeenkomst en Bijlagen
+##### Artikel 28. Overeenkomst en Bijlagen
 
 1. Voor de toepassing van deze Overeenkomst worden Bijlagen waaraan een Overeenkomstsluitende Partij is gebonden, geacht een integrerend onderdeel uit te maken van deze Overeenkomst; wat die Overeenkomstsluitende Partij betreft, wordt een verwijzing naar deze Overeenkomst geacht een verwijzing naar die Bijlagen in te houden.
 
@@ -330,7 +355,7 @@ Bij de inwerkingtreding van een Bijlage bij deze Overeenkomst die een afschaffin
 
 #### Voorbehouden
 
-#### Artikel 29. Voorbehouden
+##### Artikel 29. Voorbehouden
 
 1. Een Overeenkomstsluitende Partij die een Bijlage aanvaardt wordt geacht alle bepalingen daarvan te aanvaarden, tenzij zij op het tijdstip van aanvaarding van de Bijlage of op enig tijdstip daarna de depositaris te kennen geeft ten aanzien van welke bepalingen zij een voorbehoud maakt, voor zover in deze mogelijkheid is voorzien in de desbetreffende Bijlage, waarbij zij de verschillen aangeeft tussen de bepalingen van haar nationale wetgeving en de betrokken bepalingen.
 
@@ -340,7 +365,7 @@ Bij de inwerkingtreding van een Bijlage bij deze Overeenkomst die een afschaffin
 
 #### Territoriale werkingssfeer
 
-#### Artikel 30. Territoriale werkingssfeer
+##### Artikel 30. Territoriale werkingssfeer
 
 1. Elke Overeenkomstsluitende Partij kan ten tijde van de ondertekening van deze Overeenkomst zonder voorbehoud van bekrachtiging of bij de nederlegging van haar akte van bekrachtiging of toetreding, dan wel op enig tijdstip daarna, door middel van een kennisgeving aan de depositaris verklaren dat deze Overeenkomst mede van toepassing is op alle of enkele gebieden voor de internationale betrekkingen waarvan zij verantwoordelijk is. Bedoelde kennisgeving wordt van kracht drie maanden na de datum waarop de depositaris deze ontvangt. Deze Overeenkomst kan evenwel niet van toepassing zijn op de in de kennisgeving genoemde gebieden voordat zij voor de betrokken Overeenkomstsluitende Partij in werking is getreden.
 
@@ -348,7 +373,7 @@ Bij de inwerkingtreding van een Bijlage bij deze Overeenkomst die een afschaffin
 
 #### Opzegging
 
-#### Artikel 31. Opzegging
+##### Artikel 31. Opzegging
 
 1. Deze Overeenkomst wordt voor onbepaalde tijd gesloten, doch kan te allen tijde na de datum van inwerkingtreding overeenkomstig [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=26&z=2017-05-11&g=2017-05-11) van deze Overeenkomst door elke Overeenkomstsluitende Partij worden opgezegd.
 
@@ -360,7 +385,7 @@ Bij de inwerkingtreding van een Bijlage bij deze Overeenkomst die een afschaffin
 
 #### Wijzigingsprocedure
 
-#### Artikel 32. Wijzigingsprocedure
+##### Artikel 32. Wijzigingsprocedure
 
 1. Het Beheerscomité, bijeen in overeenstemming met [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=22&z=2017-05-11&g=2017-05-11) van deze Overeenkomst, kan wijzigingen van deze Overeenkomst en de Bijlagen daarbij aanbevelen.
 
@@ -374,7 +399,7 @@ Bij de inwerkingtreding van een Bijlage bij deze Overeenkomst die een afschaffin
 
 #### Aanvaarding van wijzigingen
 
-#### Artikel 33. Aanvaarding van wijzigingen
+##### Artikel 33. Aanvaarding van wijzigingen
 
 1. Elke Overeenkomstsluitende Partij die deze Overeenkomst bekrachtigt, of daartoe toetreedt, wordt geacht alle wijzigingen daarvan te hebben aanvaard die van kracht zijn geworden op de datum van nederlegging van haar akte van bekrachtiging of toetreding.
 
@@ -382,13 +407,13 @@ Bij de inwerkingtreding van een Bijlage bij deze Overeenkomst die een afschaffin
 
 #### Registratie en authentieke teksten
 
-#### Artikel 34. Registratie en authentieke teksten
+##### Artikel 34. Registratie en authentieke teksten
 
 In overeenstemming met [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102) wordt deze Overeenkomst op verzoek van de depositaris geregistreerd bij het Secretariaat van de Verenigde Naties.
 
 ### HOOFDSTUK I. Begripsomschrijvingen
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van deze Bijlage wordt verstaan onder:
 
@@ -412,7 +437,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 ### HOOFDSTUK II. Werkingssfeer
 
-#### Artikel 2
+##### Artikel 2
 
 1. In overeenstemming met artikel 5 van deze Overeenkomst aanvaardt elke Overeenkomstsluitende Partij, in plaats van haar nationale douanedocumenten en als waarborg voor de in artikel 8 van deze Bijlage bedoelde bedragen, elk document voor tijdelijke invoer dat geldig is voor haar grondgebied en dat is afgegeven en wordt gebruikt in overeenstemming met de in deze Bijlage vastgelegde voorwaarden voor goederen (met inbegrip van vervoermiddelen) die tijdelijk worden ingevoerd ingevolge de andere Bijlagen bij deze Overeenkomst die zij heeftaanvaard.
 
@@ -422,7 +447,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 4. Goederen (met inbegrip van vervoermiddelen) die zijn bestemd voor verwerking, bewerking of reparatie mogen niet worden ingevoerd onder dekking van een document voor tijdelijke invoer.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Documenten voor tijdelijke invoer dienen overeen te komen met de in de Aanhangsels bij deze Bijlage weergegeven modellen: Aanhangsel I voor ATA-carnets, Aanhangsel II voor CPD-carnets.
 
@@ -430,13 +455,13 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 ### HOOFDSTUK III. Waarborg en afgifte van documenten voor tijdelijke invoer
 
-#### Artikel 4
+##### Artikel 4
 
 1. Onder de door haar te stellen voorwaarden en waarborgen kan elke Overeenkomstsluitende Partij toestaan dat aansprakelijke organisaties zich borg stellen en documenten voor tijdelijke invoer afgeven, hetzij rechtstreeks, hetzij via organisaties van afgifte.
 
 2. Een aansprakelijke organisatie wordt slechts toegelaten door een Overeenkomstsluitende Partij indien haar waarborg de aansprakelijkheden dekt in die Overeenkomstsluitende Partij in verband met verrichtingen onder dekking van documenten voor tijdelijke invoer afgegeven door soortgelijke organisaties van afgifte.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Organisaties van afgifte mogen geen documenten voor tijdelijke invoer afgeven waarvan de geldigheidsduur langer is dan een jaar, te rekenen van de datum van afgifte.
 
@@ -444,7 +469,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 3. Na de afgifte van het ATA-carnet kunnen geen goederen worden toegevoegd aan de lijst van goederen genoemd aan ommezijde van de omslag van het carnet of in één van de aanvullingsbladen daarbij (Algemene Lijst).
 
-#### Artikel 6
+##### Artikel 6
 
 Op het document voor tijdelijke invoer dienen te worden vermeld:
 
@@ -456,13 +481,13 @@ Op het document voor tijdelijke invoer dienen te worden vermeld:
 
 - -. de namen van de aansprakelijke organisaties van genoemde landen of douanegebieden.
 
-#### Artikel 7
+##### Artikel 7
 
 De termijn die wordt vastgesteld voor de wederuitvoer van goederen (met inbegrip van vervoermiddelen) die worden ingevoerd onder dekking van een document voor tijdelijke invoer mag in geen geval langer zijn dan de geldigheidsduur van het document.
 
 ### HOOFDSTUK I
 
-#### Artikel 8
+##### Artikel 8
 
 1. Elke aansprakelijke organisatie verplicht zich ertoe aan de douane-autoriteiten van de Overeenkomstsluitende Partij op het grondgebied waarvan zij is gevestigd, het bedrag van de rechten en heffingen bij invoer en alle andere bedragen te betalen, met uitzondering van de in artikel 4, vierde lid, van deze Overeenkomst bedoelde bedragen, die verschuldigd zijn in geval van niet-inachtneming van de voorwaarden voor tijdelijke invoer of douanedoorvoer ten aanzien van goederen (met inbegrip van vervoermiddelen) die in dat gebied worden gebracht onder dekking van een document voor tijdelijke invoer afgegeven door een soortgelijke organisatie van afgifte. Zij is te zamen met de personen die bovengenoemde bedragen verschuldigd zijn, hoofdelijk aansprakelijk voor de betaling daarvan.
 
@@ -486,7 +511,7 @@ De douane-autoriteiten kunnen in geen geval van de aansprakelijke organisatie de
 
 ### HOOFDSTUK II
 
-#### Artikel 9
+##### Artikel 9
 
 1. **ATA-carnet:**
 
@@ -504,7 +529,7 @@ De douane-autoriteiten kunnen in geen geval van de aansprakelijke organisatie de
 
 - c. Voor Overeenkomstsluitende Partijen waarvan de wetten en voorschriften niet voorzien in de mogelijkheid van storting als borgstelling of van voorlopige betaling van rechten en heffingen bij invoer, worden de betalingen die in overeenstemming met het onder b bepaalde zijn gedaan, als definitief beschouwd, maar worden de bedragen terugbetaald indien het onder a bedoelde bewijs wordt geleverd binnen een termijn van een jaar na de datum van de betaling.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het bewijs dat de goederen (met inbegrip van vervoermiddelen), ingevoerd onder dekking van een document voor tijdelijke invoer, weder zijn uitgevoerd, wordt geleverd door de stam van de wederuitvoerstrook, ingevuld en gestempeld door de douane-autoriteiten van het gebied van tijdelijke invoer.
 
@@ -516,61 +541,61 @@ De douane-autoriteiten kunnen in geen geval van de aansprakelijke organisatie de
 
 3. Ingeval de douane-autoriteiten van een Overeenkomstsluitende Partij afzien van de eis tot wederuitvoer van bepaalde goederen (met inbegrip van vervoermiddelen) die tot haar gebied zijn toegelaten onder dekking van een document voor tijdelijke invoer, wordt de aansprakelijke organisatie slechts van haar verplichtingen ontheven wanneer deze autoriteiten in het document hebben bevestigd dat met betrekking tot deze goederen (met inbegrip van vervoermiddelen) regularisatie heeft plaatsgehad.
 
-#### Artikel 11
+##### Artikel 11
 
 De douane-autoriteiten behouden zich het recht voor in de gevallen bedoeld in artikel 10, tweede lid, van deze Bijlage kosten voor regularisatie te heffen.
 
 ### HOOFDSTUK VI. Diverse bepalingen
 
-#### Artikel 12
+##### Artikel 12
 
 Het aftekenen van documenten voor tijdelijke invoer die onder de in deze Bijlage vastgelegde voorwaarden worden gebruikt, geeft geen aanleiding tot betaling van een vergoeding voor de verrichtingen van de douane, indien zulks geschiedt in de douanekantoren gedurende de normale uren van openstelling.
 
-#### Artikel 13
+##### Artikel 13
 
 Is een document voor tijdelijke invoer dat betrekking heeft op goederen (met inbegrip van vervoermiddelen) die zich bevinden op het grondgebied van één van de Overeenkomstsluitende Partijen tenietgegaan, verloren geraakt of gestolen, dan zullen de douane-autoriteiten van die Overeenkomstsluitende Partij, op verzoek van de organisatie van afgifte en behoudens de door deze autoriteiten te stellen voorwaarden, een vervangingsdocument aanvaarden, waarvan de geldigheidsduur verstrijkt op dezelfde datum als die van het document dat het vervangt.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Wanneer de tijdelijke-invoerprocedure naar verwachting de geldigheidsduur van het document voor tijdelijke invoer zal overschrijden, daar de houder niet in staat is de goederen (met inbegrip van vervoermiddelen) binnen die termijn weder uit te voeren, kan de organisatie van afgifte van het document een vervangingsdocument afgeven. Dit document dient ter controle te worden overhandigd aan de douane-autoriteiten van de betrokken Overeenkomstsluitende Partijen. Wanneer de betrokken douane-autoriteiten het vervangingsdocument aanvaarden, zuiveren zij het document dat dit vervangt.
 
 2. De geldigheidsduur van een CPD-carnet kan slechts eenmaal met ten hoogste een jaar worden verlengd. Daarna moet ter vervanging van het vorige een nieuw carnet worden afgegeven dat dient te worden aanvaard door de douane-autoriteiten.
 
-#### Artikel 15
+##### Artikel 15
 
 Wanneer artikel 7, derde lid, van deze Overeenkomst van toepassing is, stellen de douane-autoriteiten, voor zover mogelijk, de aansprakelijke organisatie die zich aansprakelijk heeft gesteld voor het document voor tijdelijke invoer voor de desbetreffende goederen (met inbegrip van vervoermiddelen) in kennis van de inbeslagnemingen of beslagleggingen waartoe zij zijn overgegaan of hebben doen overgaan en doen zij aan die organisatie mededeling van de maatregelen die zij voornemens zijn te treffen.
 
-#### Artikel 16
+##### Artikel 16
 
 In geval van fraude, overtreding of misbruik hebben de Overeenkomstsluitende Partijen, niettegenstaande de bepalingen van deze Bijlage, het recht tegen personen die gebruik maken van een document voor tijdelijke invoer vervolging in te stellen met het oog op de invordering van rechten en heffingen bij invoer en andere opeisbare bedragen, alsmede met het oog op het opleggen van straffen waaraan deze personen zich hebben blootgesteld. In dat geval dienen de organisaties de douane-autoriteiten behulpzaam te zijn.
 
-#### Artikel 17
+##### Artikel 17
 
 Documenten voor tijdelijke invoer of gedeelten daarvan die zijn afgegeven of zijn bestemd om te worden afgegeven in het gebied waarin zij worden ingevoerd en die aan een organisatie van afgifte worden toegezonden door een aansprakelijke organisatie, een internationale organisatie of de douane-autoriteiten van een Overeenkomstsluitende Partij, worden toegelaten met vrijstelling van rechten en heffingen bij invoer en zonder toepassing van invoerverboden of -beperkingen. Overeenkomstige faciliteiten worden verleend bij de uitvoer.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Elke Overeenkomstsluitende Partij heeft het recht een voorbehoud te maken, in overeenstemming met artikel 29 van deze Overeenkomst, ten aanzien van de aanvaarding van ATA-carnets voor postverkeer.
 
 2. Enig ander voorbehoud bij deze Bijlage is niet toegestaan.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Bij de inwerkingtreding van deze Bijlage wordt, in overeenstemming met artikel 27 van deze Overeenkomst, de Douaneovereenkomst inzake het carnet ATA voor de tijdelijke invoer van goederen, ondertekend te Brussel op 6 december 1961, beëindigd en treedt deze Bijlage daarvoor in de plaats in de betrekkingen tussen de Overeenkomstsluitende Partijen die deze Bijlage hebben aanvaard en die Partij zijn bij die overeenkomst.
 
 2. Niettegenstaande de bepalingen van het eerste lid van dit artikel worden ATA-carnets, afgegeven ingevolge de Douaneovereenkomst inzake het carnet ATA voor de tijdelijke invoer van goederen vóór de inwerkingtreding van deze Bijlage, aanvaard totdat de procedure waarvoor zij zijn afgegeven is voltooid.
 
-#### 1
+##### 1
 
 Alle goederen waarvoor het carnet geldt, moeten worden vermeld in de kolommen 1 t/m 6 van de algemene lijst. Indien de daarvoor bestemde ruimte op bladzijde 2 van de omslag niet voldoende is, moeten aanvullingsbladen van het officiële model worden gebruikt.
 
-#### 2
+##### 2
 
 Om de algemene lijst af te sluiten moeten de totalen van de kolommen 3 en 5 onderaan de lijst in cijfers en in letters worden vermeld. Indien de algemene lijst uit verschillende bladen bestaat, moet het aantal gebruikte aanvullingsbladen in cijfers en in letters worden vermeld onderaan de lijst op de achterzijde van de omslag.
 
 Hetzelfde geldt voor de lijsten op de stroken.
 
-#### Artikel 3. Diverse bepalingen
+##### Artikel 3. Diverse bepalingen
 
 1. Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende faciliteiten moet de beroepsuitrusting:
 
@@ -584,55 +609,55 @@ Hetzelfde geldt voor de lijsten op de stroken.
 
 3. De filmuitrusting en de uitrusting voor pers, radio of televisie mag niet het voorwerp zijn van een overeenkomst inzake huur en verhuur of van een soortgelijke overeenkomst waarbij een in het gebied van tijdelijke invoer gevestigde persoon partij is, met dien verstande dat deze voorwaarde niet geldt in geval van gezamenlijke radio- of televisieprogramma’s.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De tijdelijke invoer van productie- en zenduitrusting voor radio en televisie en speciaal ingerichte radio- en televisiewagens en de daarbij behorende uitrusting, ingevoerd door openbare of particuliere organisaties die daartoe zijn goedgekeurd door de douaneautoriteiten van het gebied van tijdelijke invoer, wordt toegestaan zonder dat een douanedocument of zekerheid wordt verlangd.
 
 2. De douaneautoriteiten kunnen verlangen dat een lijst of gedetailleerde inventaris van de in het eerste lid van dit artikel bedoelde uitrusting wordt overgelegd, tezamen met een schriftelijke toezegging met betrekking tot de wederuitvoer.
 
-#### Artikel 5
+##### Artikel 5
 
 De termijn voor wederuitvoer van beroepsuitrusting bedraagt ten minste twaalf maanden te rekenen van de datum van tijdelijke invoer. De termijn voor wederuitvoer van voertuigen kan evenwel worden vastgesteld naar gelang het doel en de voorgenomen lengte van het verblijf in het gebied van tijdelijke invoer.
 
-#### Artikel 6
+##### Artikel 6
 
 Elke Overeenkomstsluitende Partij heeft het recht de tijdelijke invoer te weigeren of in te trekken ten aanzien van de in de Aanhangsels I tot en met III bij deze Bijlage genoemde voertuigen die, zelfs incidenteel, personen aan boord nemen tegen betaling of goederen laden op haar grondgebied om deze af te zetten of te lossen op een plaats in hetzelfde gebied.
 
-#### Artikel 7
+##### Artikel 7
 
 De Aanhangsels bij deze Bijlage worden geacht een integrerend onderdeel daarvan uit te maken.
 
-#### Artikel 8
+##### Artikel 8
 
 Bij de inwerkingtreding van deze Bijlage wordt, in overeenstemming met [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=27&z=2017-05-11&g=2017-05-11) van deze Overeenkomst, de [Douaneovereenkomst inzake de tijdelijke invoer van beroepsmateriaal](https://wetten.overheid.nl/jci1.3:c:BWBV0004591), ondertekend te Brussel op 8 juni 1961, beëindigd en treedt deze Bijlage daarvoor in de plaats in de betrekkingen tussen de Overeenkomstsluitende Partijen die deze Bijlage hebben aanvaard en die Partij zijn bij die overeenkomst.
 
-#### 9
+##### 9
 
 Alle goederen waarvoor het carnet geldt, dienen in het land/ douanegebied van vertrek te worden opgenomen en ingeschreven en met het oog daarop samen met het carnet aldaar te worden getoond aan de douane-autoriteiten, behalve wanneer de douanevoorschriften van dat land/ douanegebied niet voorzien in een zodanige opneming.
 
-#### 10
+##### 10
 
 Indien het carnet is ingevuld in een andere taal dan die van het land/douanegebied van invoer, kunnen de douane-autoriteiten een vertaling hiervan eisen.
 
-#### 11
+##### 11
 
 Verlopen carnets en carnets waarvan de houder geen gebruik meer zal maken, dient hij terug te zenden aan de organisatie van afgifte.
 
-#### 12
+##### 12
 
 Voor alle in cijfers vermelde bijzonderheden moeten Arabische cijfers worden gebezigd.
 
-#### 13
+##### 13
 
 Overeenkomstig ISO-norm 8601 moeten data op de volgende wijze worden vermeld: jaar/maand/dag.
 
-#### 14
+##### 14
 
 Wanneer bij douanedoorvoer blauwe bladen worden gebruikt, dient de houder zijn carnet te overleggen aan het douanekantoor waar de goederen onder douanedoorvoer worden geplaatst, en vervolgens, binnen de door de douane gestelde termijn, aan het kantoor dat is opgegeven als kantoor van bestemming. De douane moet de doorvoerstrook en de stam van de doorvoerstrook telkens op de juiste wijze van stempels en handtekeningen voorzien.
 
 ### HOOFDSTUK I. Begripsomschrijving
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van deze Bijlage wordt verstaan onder „manifestatie”:
 
@@ -648,7 +673,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder „manifestatie”:
 
 ### HOOFDSTUK II. Werkingssfeer
 
-#### Artikel 2
+##### Artikel 2
 
 1. Voor de volgende goederen wordt tijdelijke invoer toegestaan in overeenstemming met artikel 2 van deze Overeenkomst:
 
@@ -672,7 +697,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder „manifestatie”:
 
 ### HOOFDSTUK III. Diverse bepalingen
 
-#### Artikel 3
+##### Artikel 3
 
 Tenzij de nationale wetgeving van het gebied van tijdelijke invoer zulks toestaat, worden de goederen waarvoor tijdelijke invoer is toegestaan, zolang deze de faciliteiten genieten waarin deze Overeenkomst voorziet:
 
@@ -680,13 +705,13 @@ Tenzij de nationale wetgeving van het gebied van tijdelijke invoer zulks toestaa
 
 - b. niet buiten de plaats gebracht waar de manifestatie wordt gehouden.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De termijn voor wederuitvoer van de goederen die zijn ingevoerd om op tentoonstellingen, beurzen, congressen of soortgelijke manifestaties te worden getoond of gebruikt, bedraagt ten minste zes maanden te rekenen van de datum van tijdelijke invoer.
 
 2. Niettegenstaande het in het eerste lid van dit artikel bepaalde staan de douane-autoriteiten toe dat goederen die op een volgende manifestatie zullen worden getoond of gebruikt, in het gebied van tijdelijke invoer blijven, mits de voorwaarden neergelegd in de wetten en voorschriften van dat gebied worden nageleefd en de goederen binnen een jaar na de datum van tijdelijke invoer weder worden uitgevoerd.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Ingevolge artikel 13 van deze Overeenkomst wordt aangifte voor het vrije verkeer toegestaan met vrijstelling van invoerrechten en -heffingen en zonder toepassing van invoerverboden en beperkingen ten aanzien van de volgende goederen:
 
@@ -716,27 +741,27 @@ Tenzij de nationale wetgeving van het gebied van tijdelijke invoer zulks toestaa
 
 2. De bepalingen van het eerste lid van dit artikel zijn niet van toepassing op alcoholhoudende dranken, tabaksfabrikaten en brandstoffen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Onderzoek door de douane en vrijmaking bij invoer of bij wederuitvoer van goederen die zullen worden of zijn tentoongesteld of gebruikt op een manifestatie, worden waar mogelijk en wenselijk verricht ter plaatse van die manifestatie.
 
 2. Elke Overeenkomstsluitende Partij streeft ernaar in alle gevallen waarin zij zulks wenselijk acht in verband met de belangrijkheid en de omvang van de manifestatie voor een redelijke tijdsduur een douanekantoor te vestigen op de plaats waar een manifestatie wordt gehouden op haar grondgebied.
 
-#### Artikel 7
+##### Artikel 7
 
 Produkten die incidenteel tijdens de manifestatie uit tijdelijk ingevoerde goederen worden verkregen, uitsluitend als gevolg van de demonstratie van tentoongestelde machines en apparaten, zijn onderworpen aan de bepalingen van deze Overeenkomst.
 
-#### Artikel 8
+##### Artikel 8
 
 Elke Overeenkomstsluitende Partij heeft het recht een voorbehoud te maken, in overeenstemming met artikel 29 van deze Overeenkomst, ten aanzien van de bepalingen van artikel 5, eerste lid, letter a, van deze Bijlage.
 
-#### Artikel 9
+##### Artikel 9
 
 Bij de inwerkingtreding van deze Bijlage wordt, in overeenstemming met artikel 27 van deze Overeenkomst, de Douaneovereenkomst inzake faciliteiten voor de invoer van goederen bestemd om op tentoonstellingen, beurzen, congressen of soortgelijke manifestaties te worden getoond of gebruikt, ondertekend te Brussel op 8 juni 1961, beëindigd en treedt deze Bijlage daarvoor in de plaats in de betrekkingen tussen de Overeenkomstsluitende Partijen die deze Bijlage hebben aanvaard en die Partij zijn bij die overeenkomst.
 
 ### HOOFDSTUK II
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van deze Bijlage wordt verstaan onder „beroepsuitrusting” :
 
@@ -750,7 +775,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder „beroepsuitrusting”
 
 ### HOOFDSTUK III
 
-#### Artikel 2
+##### Artikel 2
 
 Voor de volgende goederen wordt tijdelijke invoer toegestaan in overeenstemming met artikel 2 van deze Overeenkomst:
 
@@ -760,7 +785,7 @@ Voor de volgende goederen wordt tijdelijke invoer toegestaan in overeenstemming 
 
 ### HOOFDSTUK I
 
-#### Artikel 3
+##### Artikel 3
 
 1. Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende faciliteiten moet de beroepsuitrusting:
 
@@ -774,31 +799,31 @@ Voor de volgende goederen wordt tijdelijke invoer toegestaan in overeenstemming 
 
 3. Het filmmateriaal en het materiaal voor pers, radio of televisie mag niet het voorwerp zijn van een overeenkomst inzake huur en verhuur of van een soortgelijke overeenkomst waarbij een in het gebied van tijdelijke invoer gevestigde persoon partij is, met dien verstande dat deze voorwaarde niet geldt in geval van gezamenlijke radio- of televisieprogramma's.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De tijdelijke invoer van produktie- en zendmateriaal voor radio en televisie en speciaal ingerichte radio- en televisiewagens en de daarbij behorende uitrusting, ingevoerd door openbare of particuliere organisaties die daartoe zijn goedgekeurd door de douane-autoriteiten van het gebied van tijdelijke invoer, wordt toegestaan zonder dat een douanedocument of zekerheid wordt verlangd.
 
 2. De douane-autoriteiten kunnen verlangen dat een lijst of gedetailleerde inventaris van het in het eerste lid van dit artikel bedoelde materiaal wordt overgelegd, te zamen met een schriftelijke toezegging met betrekking tot de wederuitvoer.
 
-#### Artikel 5
+##### Artikel 5
 
 De termijn voor wederuitvoer van beroepsuitrusting bedraagt ten minste twaalf maanden te rekenen van de datum van tijdelijke invoer. De termijn voor wederuitvoer van voertuigen kan evenwel worden vastgesteld naar gelang het doel en de voorgenomen lengte van het verblijf in het gebied van tijdelijke invoer.
 
-#### Artikel 6
+##### Artikel 6
 
 Elke Overeenkomstsluitende Partij heeft het recht de tijdelijke invoer te weigeren of in te trekken ten aanzien van de in de Aanhangels I t/m III bij deze Bijlage genoemde voertuigen die, zelfs incidenteel, personen opnemen tegen betaling of goederen laden op haar grondgebied om deze af te zetten ofte lossen op een plaats in hetzelfde gebied.
 
-#### Artikel 7
+##### Artikel 7
 
 De Aanhangsels bij deze Bijlage worden geacht een integrerend deel daarvan uit te maken.
 
-#### Artikel 8
+##### Artikel 8
 
 Bij de inwerkingtreding van deze Bijlage wordt, in overeenstemming met artikel 27 van deze Overeenkomst, de Douaneovereenkomst inzake de tijdelijke invoer van beroepsuitrusting, ondertekend te Brussel op 8 juni 1961, beëindigd en treedt deze Bijlage daarvoor in de plaats in de betrekkingen tussen de Overeenkomstsluitende Partijen die deze Bijlage hebben aanvaard en die Partij zijn bij die overeenkomst.
 
 ### HOOFDSTUK I. Begripsomschrijvingen
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van deze Bijlage wordt verstaan onder:
 
@@ -830,7 +855,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 ### HOOFDSTUK II. Werkingssfeer
 
-#### Artikel 2
+##### Artikel 2
 
 Voor de volgende goederen die worden ingevoerd in verband met een handelsactiviteit wordt tijdelijke invoer toegestaan in overeenstemming met artikel 2 van de Overeenkomst:
 
@@ -848,11 +873,11 @@ Voor de volgende goederen die worden ingevoerd in verband met een handelsactivit
 
 - g. alle andere goederen die worden ingevoerd voor de in Aanhangsel I bij deze Bijlage genoemde doeleinden in verband met een handelsactiviteit, maar waarvan de invoer op zichzelf geen handelsactiviteit vormt.
 
-#### Artikel 3
+##### Artikel 3
 
 De bepalingen van deze Bijlage laten de douanewetgeving van de Overeenkomstsluitende Partijen met betrekking tot de invoer van goederen die worden vervoerd in containers, in verpakkingsmiddelen of op laadborden onverlet.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende faciliteiten:
 
@@ -872,7 +897,7 @@ De bepalingen van deze Bijlage laten de douanewetgeving van de Overeenkomstsluit
 
 2. Elke Overeenkomstsluitende Partij heeft het recht de tijdelijke invoer te weigeren voor containers, laadborden of verpakkingsmiddelen die het voorwerp zijn geweest van een koop-, huurkoop- of huurovereenkomst, of van een soortgelijke overeenkomst, gesloten door een persoon gevestigd of woonachtig op haar grondgebied.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De tijdelijke invoer van containers, laadborden en verpakkingsmiddelen wordt toegestaan zonder dat een douanedocument of zekerheid wordt verlangd.
 
@@ -886,11 +911,11 @@ De bepalingen van deze Bijlage laten de douanewetgeving van de Overeenkomstsluit
 
 4. Personen die zich regelmatig van de tijdelijke-invoerprocedure bedienen zijn gemachtigd een algemene toezegging te doen.
 
-#### Artikel 6
+##### Artikel 6
 
 De termijn voor wederuitvoer van goederen ingevoerd in verband met een handelsactiviteit bedraagt ten minste zes maanden te rekenen van de datum van tijdelijke invoer.
 
-#### Artikel 7
+##### Artikel 7
 
 Elke Overeenkomstsluitende Partij heeft het recht een voorbehoud te maken, in overeenstemming met artikel 29 van deze Overeenkomst, met betrekking tot:
 
@@ -898,11 +923,11 @@ Elke Overeenkomstsluitende Partij heeft het recht een voorbehoud te maken, in ov
 
 - b. artikel 5, eerste lid; van deze Bijlage.
 
-#### Artikel 8
+##### Artikel 8
 
 De aanhangsels bij deze Bijlage worden geacht een integrerend deel daarvan uit te maken.
 
-#### Artikel 9
+##### Artikel 9
 
 Bij de inwerkingtreding van deze Bijlage worden, in overeenstemming met artikel 27 van deze Overeenkomst, de volgende Overeenkomsten en bepalingen beëindigd:
 
@@ -916,7 +941,7 @@ Bij de inwerkingtreding van deze Bijlage worden, in overeenstemming met artikel 
 
 en treedt deze Bijlage daarvoor in de plaats in de betrekkingen tussen de Overeenkomstsluitende Partijen die deze Bijlage hebben aanvaard en die Partij zijn bij die overeenkomsten.
 
-#### 1
+##### 1
 
 De volgende gegevens dienen duurzaam op containers te worden aangebracht op een geschikte en duidelijk zichtbare plaats:
 
@@ -926,11 +951,11 @@ De volgende gegevens dienen duurzaam op containers te worden aangebracht op een 
 
 - c. het tarragewicht van de container, met inbegrip van de gehele vaste uitrusting.
 
-#### 2
+##### 2
 
 Het land waartoe de container behoort kan ofwel voluit worden aangegeven, ofwel door middel van de ISO Alpha-2-landcode, als bedoeld in internationale norm ISO 3166, dan wel door middel van het onderscheidingsteken dat in het internationale wegverkeer wordt gebruikt om het land aan te duiden waarin een voertuig is geregistreerd. Elk land kan het gebruik van zijn naam of onderscheidingsteken op de container regelen in zijn nationale wetgeving. De aanduiding van de eigenaar of exploitant kan geschieden door middel van diens volledige naam of door middel van een algemene bekende aanduiding, met uitzondering van symbolen als emblemen of vlaggen.
 
-#### 3
+##### 3
 
 Ten einde te bewerkstelligen dat de herkenningstekenen en identificatienummers duurzaam worden aangebracht wanneer kunststofband wordt gebruikt, moet aan de volgende vereisten worden voldaan:
 
@@ -938,13 +963,13 @@ Ten einde te bewerkstelligen dat de herkenningstekenen en identificatienummers d
 
 - b. wanneer de herkenningstekenen en identificatienummers moeten worden gewijzigd, dient het te vervangen band eerst volledig te zijn verwijderd alvorens het nieuwe band wordt aangebracht; het aanbrengen van nieuw band over het aanwezige band is niet toegestaan.
 
-#### 4
+##### 4
 
 De vereisten betreffende het gebruik van kunststofband voor het merken van containers, genoemd onder punt 3 van deze Bijlage, sluiten de mogelijkheid andere duurzame merkmethoden toe te passen niet uit.
 
 ### HOOFDSTUK I
 
-#### Artikel 1. Begripsomschrijving
+##### Artikel 1. Begripsomschrijving
 
 Voor de toepassing van deze Bijlage wordt verstaan onder „toeristisch reclamemateriaal”.
 
@@ -952,23 +977,23 @@ Goederen ingevoerd met als doel het publiek te bewegen tot het bezoeken van een 
 
 ### HOOFDSTUK II
 
-#### Artikel 2. Werkingssfeer
+##### Artikel 2. Werkingssfeer
 
 Met uitzondering van het in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=B.7&hoofdstuk=III&artikel=5&z=2017-05-11&g=2017-05-11) van deze Bijlage bedoelde materiaal, waarvoor onvoorwaardelijke invoer met vrijstelling van rechten en heffingen bij invoer wordt toegestaan, wordt voor toeristisch reclamemateriaal tijdelijke invoer toegestaan in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=II&artikel=2&z=2017-05-11&g=2017-05-11) van deze Overeenkomst.
 
 ### HOOFDSTUK III
 
-#### Artikel 3. Diverse bepalingen
+##### Artikel 3. Diverse bepalingen
 
 Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende faciliteiten, moet het toeristisch reclamemateriaal toebehoren aan een persoon gevestigd buiten het gebied van tijdelijke invoer, en worden ingevoerd in redelijke hoeveelheden gelet op het voorgenomen gebruik ervan.
 
-#### Artikel 4
+##### Artikel 4
 
 De termijn voor wederuitvoer van toeristisch reclamemateriaal bedraagt ten minste twaalf maanden te rekenen van de datum van tijdelijke invoer.
 
 ### HOOFDSTUK I. Begripsomschrijving
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van deze Bijlage wordt verstaan onder:
 
@@ -982,7 +1007,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 ### HOOFDSTUK I
 
-#### Artikel 2
+##### Artikel 2
 
 Voor de volgende goederen wordt tijdelijke invoer toegestaan in overeenstemming met artikel 2 van deze Overeenkomst:
 
@@ -992,7 +1017,7 @@ Voor de volgende goederen wordt tijdelijke invoer toegestaan in overeenstemming 
 
 ### HOOFDSTUK II
 
-#### Artikel 3
+##### Artikel 3
 
 Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende faciliteiten:
 
@@ -1000,29 +1025,29 @@ Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende facilite
 
 - b. welzijnsgoederen bestemd voor zeelieden moeten worden gebruikt aan boord van buitenlandse schepen die varen in de internationale zeescheepvaart, of worden gelost van het schip voor tijdelijk gebruik aan land door de bemanning, of worden ingevoerd voor gebruik in tehuizen, clubs of recreatiecentra voor zeevarenden die worden beheerd door hetzij officiële organisaties hetzij godsdienstige organisaties of organisaties zonder winstoogmerk, alsmede op plaatsen voor de eredienst waar geregeld diensten voor zeevarenden worden gehouden.
 
-#### Artikel 4
+##### Artikel 4
 
 Tijdelijke invoer van wetenschappelijk materiaal, opvoedkundig materiaal en welzijnsgoederen bestemd voor zeelieden die worden gebruikt aan boord van schepen, wordt toegestaan zonder dat een douanedocument of zekerheid wordt verlangd. Wanneer noodzakelijk kan overlegging van een inventaris van wetenschappelijk materiaal en opvoedkundig materiaal worden verlangd, te zamen met een schriftelijke toezegging met betrekking tot de wederuitvoer.
 
-#### Artikel 5
+##### Artikel 5
 
 De termijn voor wederuitvoer van goederen ingevoerd ten behoeve van onderwijs, wetenschap of cultuur beloopt ten minste twaalf maanden te rekenen van de datum van tijdelijke invoer.
 
-#### Artikel 6
+##### Artikel 6
 
 Elke Overeenkomstsluitende Partij heeft het recht een voorbehoud te maken, in overeenstemming met artikel 29 van deze Overeenkomst, ten aanzien van de bepalingen van artikel 4 van deze Bijlage, voor zover deze betrekking hebben op wetenschappelijk materiaal en opvoedkundig materiaal.
 
-#### Artikel 7
+##### Artikel 7
 
 De Aanhangsels bij deze Bijlage worden geacht een integrerend deel daarvan uit te maken.
 
-#### Artikel 8
+##### Artikel 8
 
 Bij de inwerkingtreding van deze Bijlage worden, in overeenstemming met artikel 27 van deze Overeenkomst, de Douaneovereenkomst inzake welzijnsgoederen voor zeevarenden, ondertekend te Brussel op 1 december 1964, de Douaneovereenkomst inzake de tijdelijke invoer van wetenschappelijk materiaal, ondertekend te Brussel op 11 juni 1968, en de Douaneovereenkomst inzake de tijdelijke invoer van pedagogisch materiaal, ondertekend te Brussel op 8 juni 1970, beëindigd en treedt deze Bijlage daarvoor in de plaats in de betrekkingen tussen de Overeenkomstsluitende Partijen die deze Bijlage hebben aanvaard en die Partij zijn bij die overeenkomsten.
 
 ### HOOFDSTUK I
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage wordt verstaan onder:
 
@@ -1032,13 +1057,13 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 ### HOOFDSTUK II
 
-#### Artikel 2. Werkingssfeer
+##### Artikel 2. Werkingssfeer
 
 Voor goederen ingevoerd voor humanitaire doeleinden wordt tijdelijke invoer toegestaan in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=II&artikel=2&z=2017-05-11&g=2017-05-11) van deze Overeenkomst.
 
 ### HOOFDSTUK III
 
-#### Artikel 3. Diverse bepalingen
+##### Artikel 3. Diverse bepalingen
 
 Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende faciliteiten:
 
@@ -1048,29 +1073,29 @@ Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende facilite
 
 - c. moeten hulpzendingen worden gezonden aan personen die zijn erkend door de bevoegde autoriteiten in het gebied van tijdelijke invoer.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Wanneer mogelijk kan voor medische en chirurgische uitrusting en voor laboratoriumuitrusting een inventaris van de goederen tezamen met een schriftelijke toezegging met betrekking tot de wederuitvoer worden aanvaard in plaats van een douanedocument en zekerheid.
 
 2. Tijdelijke invoer van hulpzendingen wordt toegestaan zonder dat een douanedocument of zekerheid wordt verlangd. De douaneautoriteiten kunnen echter een inventaris van de goederen verlangen, tezamen met een schriftelijke toezegging met betrekking tot de wederuitvoer.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De termijn voor de wederuitvoer van medische en chirurgische uitrusting en laboratoriumuitrusting wordt vastgesteld in overeenstemming met de behoeften.
 
 2. De termijn voor wederuitvoer van hulpzendingen bedraagt ten minste twaalf maanden te rekenen van de datum van tijdelijke invoer.
 
-#### Artikel 6
+##### Artikel 6
 
 De Aanhangsels bij deze Bijlage worden geacht een integrerend deel daarvan uit te maken.
 
-#### Artikel 7
+##### Artikel 7
 
 Bij de inwerkingtreding van deze Bijlage worden, in overeenstemming met artikel 27 van deze Overeenkomst, de artikelen 2 en 5 van het Verdrag inzake douanefaciliteiten ten behoeve van het toeristenverkeer, ondertekend te New York op 4 juni 1954, beëindigd en treedt deze Bijlage daarvoor in de plaats in de betrekkingen tussen de Overeenkomstsluitende Partijen die deze Bijlage hebben aanvaard en die Partij zijn bij dat verdrag.
 
 ### HOOFDSTUK II
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van deze Bijlage wordt verstaan onder „toeristisch reclamemateriaal”:
 
@@ -1078,21 +1103,21 @@ goederen ingevoerd met als doel het publiek te bewegen tot het bezoeken van een 
 
 ### HOOFDSTUK II. Werkingssfeer
 
-#### Artikel 2
+##### Artikel 2
 
 Met uitzondering van het in artikel 5 van deze Bijlage bedoelde materiaal, waarvoor onvoorwaardelijke invoer met vrijstelling van rechten en heffingen bij invoer wordt toegestaan, wordt voor toeristische reclamemateriaal tijdelijke invoer toegestaan in overeenstemming met artikel 2 van deze Overeenkomst.
 
 ### HOOFDSTUK III
 
-#### Artikel 3
+##### Artikel 3
 
 Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende faciliteiten, moet het toeristisch reclamemateriaal toebehoren aan een persoon gevestigd buiten het gebied van tijdelijke invoer, en worden ingevoerd in redelijke hoeveelheden in het licht van het voorgenomen gebruik ervan.
 
-#### Artikel 4
+##### Artikel 4
 
 De termijn voor wederuitvoer van toeristisch reclamemateriaal bedraagt ten minste twaalf maanden te rekenen van de datum van tijdelijke invoer.
 
-#### Artikel 5
+##### Artikel 5
 
 Onvoorwaardelijke invoer met vrijstelling van rechten en heffingen ter zake van de invoer wordt toegestaan voor de volgende soorten reclamemateriaal:
 
@@ -1102,17 +1127,17 @@ Onvoorwaardelijke invoer met vrijstelling van rechten en heffingen ter zake van 
 
 - c. technisch materiaal dat wordt gezonden aan de erkende vertegenwoordigers of aan de correspondenten die zijn aangewezen door officiële nationale organisaties voor toerisme, welk materiaal niet bestemd is om te worden verspreid, zoals jaarboeken, telefoongidsen, lijsten van hotels, catalogi voor jaarbeurzen, monsters en stalen van kunstnijverheid van geringe waarde, documentatiemateriaal over musea, universiteiten, badplaatsen en dergelijke.
 
-#### Artikel 6
+##### Artikel 6
 
 Het Aanhangsel bij deze Bijlage wordt geacht een integrerend deel daarvan uit te maken.
 
-#### Artikel 7
+##### Artikel 7
 
 Bij de inwerkingtreding van deze Bijlage wordt, in overeenstemming met artikel 27 van deze Overeenkomst, het Aanvullend Protocol bij het Verdrag inzake douanefaciliteiten ten behoeve van het toeristenverkeer, met betrekking tot de invoer van toeristische propagandabescheiden en toeristisch propagandamateriaal, ondertekend te New York op 4 juni 1954, beëindigd en treedt deze Bijlage daarvoor in de plaats in de betrekkingen tussen de Overeenkomstsluitende Partijen die deze Bijlage hebben aanvaard en die Partij zijn bij dat Protocol.
 
 ### HOOFDSTUK I. Begripsomschrijving
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van deze Bijlage wordt verstaan onder:
 
@@ -1134,13 +1159,13 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 ### HOOFDSTUK I
 
-#### Artikel 2
+##### Artikel 2
 
 Voor goederen ingevoerd in het grensverkeer wordt tijdelijke invoer toegestaan in overeenstemming met artikel 2 van deze Overeenkomst.
 
 ### HOOFDSTUK II
 
-#### Artikel 3
+##### Artikel 3
 
 Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende faciliteiten:
 
@@ -1150,7 +1175,7 @@ Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende facilite
 
 - c. moet grensverkeer ten behoeve van reparatie, vervaardiging of be- of verwerking van strikt niet-commerciële aard zijn.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Tijdelijke invoer van goederen die worden ingevoerd in het grensverkeer wordt toegestaan zonder dat een douanedocument of zekerheid wordt verlangd.
 
@@ -1158,7 +1183,7 @@ Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende facilite
 
 3. Tijdelijke invoer kan ook worden toegestaan op basis van een inschrijving in een register dat wordt bijgehouden door het douanekantoor.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De termijn voor wederuitvoer van goederen ingevoerd in het grensverkeer bedraagt ten minste zes maanden te rekenen van de datum van tijdelijke invoer.
 
@@ -1166,7 +1191,7 @@ Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende facilite
 
 ### HOOFDSTUK I. Begripsomschrijvingen
 
-#### Artikel I
+##### Artikel I
 
 Voor de toepassing van deze Bijlage wordt verstaan onder:
 
@@ -1176,13 +1201,13 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 ### HOOFDSTUK II. Werkingssfeer
 
-#### Artikel 2
+##### Artikel 2
 
 Voor goederen ingevoerd voor humanitaire doeleinden wordt tijdelijke invoer toegestaan in overeenstemming met artikel 2 van deze Overeenkomst.
 
 ### HOOFDSTUK I
 
-#### Artikel 3
+##### Artikel 3
 
 Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende faciliteiten:
 
@@ -1192,13 +1217,13 @@ Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende facilite
 
 - c. moeten hulpzendingen worden gezonden aan personen die zijn goedgekeurd door de bevoegde autoriteiten in het gebied van tijdelijke invoer.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Wanneer mogelijk kan voor medische en chirurgische uitrusting en voor laboratoriumuitrusting een inventaris van de goederen te zamen met een schriftelijke toezegging met betrekking tot de wederuitvoer worden aanvaard in plaats van een douanedocument en zekerheid.
 
 2. Tijdelijke invoer van hulpzendingen wordt toegestaan zonder dat een douanedocument of zekerheid wordt verlangd. De douaneautoriteiten kunnen echter een inventaris van de goederen verlangen, te zamen met een schriftelijke toezegging met betrekking tot de wederuitvoer.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De termijn voor de wederuityoer van medische en chirurgische uitrusting en laboratoriumuitrusting wordt vastgesteld in overeenstemming met de behoeften.
 
@@ -1206,7 +1231,7 @@ Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende facilite
 
 ### HOOFDSTUK III
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van deze Bijlage wordt verstaan onder:
 
@@ -1222,7 +1247,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 ### HOOFDSTUK II. Werkingssfeer
 
-#### Artikel 2
+##### Artikel 2
 
 Tijdelijke invoer wordt toegestaan in overeenstemming met artikel 2 van deze Overeenkomst voor:
 
@@ -1230,11 +1255,11 @@ Tijdelijke invoer wordt toegestaan in overeenstemming met artikel 2 van deze Ove
 
 - b. reserve-onderdelen en uitrusting ingevoerd voor de reparatie van een vervoermiddel waarvoor reeds tijdelijke invoer is toegestaan. Vervangen onderdelen en uitrusting die niet weder worden uitgevoerd, zijn onderworpen aan rechten en heffingen bij invoer, tenzij zij een bestemming krijgen zoals bedoeld in artikel 14 van deze Overeenkomst.
 
-#### Artikel 3
+##### Artikel 3
 
 Routine-onderhoudswerkzaamheden en reparaties aan het vervoermiddel die noodzakelijk zijn geworden gedurende de reis naar of binnen het gebied van tijdelijke invoer en die worden uitgevoerd gedurende het tijdvak van tijdelijke invoer, worden niet geacht te leiden tot een verandering zoals bedoeld in artikel 1, lid a, van deze Overeenkomst.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De brandstof die zich bevindt in de normale tanks van tijdelijk ingevoerde vervoermiddelen, alsmede smeeroliën voor het normale gebruik van die vervoermiddelen, worden toegelaten zonder betaling van rechten en heffingen bij invoer en zonder toepassing van invoerverboden of -beperkingen.
 
@@ -1242,7 +1267,7 @@ Routine-onderhoudswerkzaamheden en reparaties aan het vervoermiddel die noodzake
 
 ### HOOFDSTUK III. Diverse bepalingen
 
-#### Artikel 5
+##### Artikel 5
 
 Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende faciliteiten:
 
@@ -1250,11 +1275,11 @@ Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende facilite
 
 - b. moet een vervoermiddel voor particulier gebruik geregistreerd zijn in een ander grondgebied dan dat van tijdelijke invoer, op naam van een persoon gevestigd of woonachtig in een ander grondgebied dan dat van tijdelijke invoer, en worden ingevoerd en gebruikt door personen die handelen vanuit een zodanig ander grondgebied.
 
-#### Artikel 6
+##### Artikel 6
 
 Tijdelijke invoer van vervoermiddelen wordt toegestaan zonder dat een douanedocument of zekerheid wordt verlangd.
 
-#### Artikel 7
+##### Artikel 7
 
 Niettegenstaande de bepalingen van artikel 5 van deze Bijlage:
 
@@ -1262,7 +1287,7 @@ Niettegenstaande de bepalingen van artikel 5 van deze Bijlage:
 
 - b. mogen vervoermiddelen voor particulier gebruik worden gebruikt door derden die daartoe naar behoren zijn gemachtigd door de personen aan wie tijdelijke invoer is toegestaan. Elke Overeenkomstsluitende Partij kan het gebruik door een in haar grondgebied woonachtige persoon toestaan, in het bijzonder wanneer het vervoermiddel wordt gebruikt namens en volgens de aanwijzingen van de persoon aan wie tijdelijke invoer is toegestaan.
 
-#### Artikel 8
+##### Artikel 8
 
 Elke Overeenkomstsluitende Partij heeft het recht de verlening van toestemming voor tijdelijke invoer te weigeren, of deze toestemming in te trekken, ten aanzien van:
 
@@ -1272,13 +1297,13 @@ Elke Overeenkomstsluitende Partij heeft het recht de verlening van toestemming v
 
 - c. vervoermiddelen die na invoer worden verhuurd, of die, indien in gehuurde staat ingevoerd, opnieuw worden verhuurd of onderverhuurd voor andere doeleinden dan onmiddellijke wederuitvoer.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Vervoermiddelen voor commercieel gebruik worden wederuitgevoerd zodra het vervoer waarvoor zij werden ingevoerd is voltooid.
 
 2. Vervoermiddelen voor particulier gebruik mogen in het gebied van tijdelijke invoer blijven voor een tijdvak, al dan niet aaneengesloten, van zes maanden in ieder tijdvak van twaalf maanden.
 
-#### Artikel 10
+##### Artikel 10
 
 Elke Overeenkomstsluitende Partij heeft het recht een voorbehoud te maken, in overeenstemming met artikel 29 van deze Overeenkomst, ten aanzien van:
 
@@ -1290,13 +1315,13 @@ Elke Overeenkomstsluitende Partij heeft het recht een voorbehoud te maken, in ov
 
 van deze Bijlage.
 
-#### Artikel 11
+##### Artikel 11
 
 Bij de inwerkingtreding van deze Bijlage worden, in overeenstemming met artikel 27 van deze Overeenkomst, het Douaneverdrag inzake de tijdelijke invoer van particuliere wegvoertuigen, ondertekend te New York op 4 juni 1954, de Douaneovereenkomst betreffende de tijdelijke invoer van voertuigen voor bedrijfsmatig vervoer langs de weg, ondertekend te Genève op 18 mei 1956, en de Douaneovereenkomst betreffende de tijdelijke invoer voor persoonlijk gebruik van pleziervaartuigen en van luchtvaartuigen, ondertekend te Genève op 18 mei 1956, beëindigd en treedt deze Bijlage daarvoor in de plaats in de betrekkingen tussen de Overeenkomstsluitende Partijen die deze Bijlage hebben aanvaard en die Partij zijn bij dat verdrag en die overeenkomsten.
 
 ### HOOFDSTUK I. Begripsomschrijvingen
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van deze Bijlage wordt verstaan onder:
 
@@ -1310,13 +1335,13 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 ### HOOFDSTUK II. Werkingssfeer
 
-#### Artikel 2
+##### Artikel 2
 
 Voor dieren ingevoerd voor de in het Aanhangsel bij deze Bijlage omschreven doeleinden wordt tijdelijke invoer toegestaan in overeenstemming met artikel 2 van deze Overeenkomst.
 
 ### HOOFDSTUK III. Diverse bepalingen
 
-#### Artikel 3
+##### Artikel 3
 
 Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende faciliteiten:
 
@@ -1324,29 +1349,29 @@ Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende facilite
 
 - b. moeten trekdieren die zullen worden gebruikt voor werk op het land in het grensgebied van het gebied van tijdelijke invoer, worden ingevoerd door inwoners van een grensgebied dat is gelegen naast dat van tijdelijke invoer.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De tijdelijke invoer van de in artikel 3, letter b, van deze Bijlage bedoelde trekdieren en van dieren ingevoerd voor het weiden of verweiden op land gelegen in het grensgebied, wordt toegestaan zonder dat een douanedocument of zekerheid wordt verlangd.
 
 2. Elke Overeenkomstsluitende Partij mag het toestaan van tijdelijke invoer van de in het eerste lid van dit artikel bedoelde dieren afhankelijk stellen van overlegging van een inventaris, te zamen met een schriftelijke toezegging met betrekking tot de wederuitvoer.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Elke Overeenkomstsluitende Partij heeft het recht een voorbehoud te maken, in overeenstemming met artikel 29 van deze Overeenkomst, ten aanzien van artikel 4, eerste lid, van deze Bijlage.
 
 2. Elke Overeenkomstsluitende Partij heeft ook het recht een voorbehoud te maken, in overeenstemming met artikel 29 van deze Overeenkomst, ten aanzien van de punten 12 en 13 in het Aanhangsel bij deze Bijlage.
 
-#### Artikel 6
+##### Artikel 6
 
 De termijn voor wederuitvoer van dieren bedraagt ten minste twaalf maanden te rekenen van de datum van tijdelijke invoer.
 
-#### Artikel 7
+##### Artikel 7
 
 Het Aanhangsel bij deze Bijlage wordt geacht een integrerend deel daarvan uit te maken.
 
 ### HOOFDSTUK I. Begripsomschrijvingen
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van deze Bijlage wordt verstaan onder:
 
@@ -1356,39 +1381,39 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 ### HOOFDSTUK II. Werkingssfeer
 
-#### Artikel 2
+##### Artikel 2
 
 Voor de in artikel 1, letter a, van deze Bijlage bedoelde goederen wordt tijdelijke invoer met gedeeltelijke vrijstelling toegestaan in overeenstemming met artikel 2 van deze Overeenkomst.
 
 ### HOOFDSTUK III. Diverse bepalingen
 
-#### Artikel 3
+##### Artikel 3
 
 Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende faciliteiten, moeten goederen ingevoerd met gedeeltelijke vrijstelling toebehoren aan een persoon gevestigd of woonachtig buiten het grondgebied van tijdelijke invoer.
 
-#### Artikel 4
+##### Artikel 4
 
 Elke Overeenkomstsluitende Partij kan een lijst opstellen van goederen die in aanmerking komen voor of uitgesloten zijn van tijdelijke invoer met gedeeltelijke vrijstelling. De depositaris van deze Overeenkomst wordt in kennis gesteld van de inhoud van deze lijst.
 
-#### Artikel 5
+##### Artikel 5
 
 Het bedrag aan rechten en heffingen bij invoer dat krachtens deze procedure in rekening kan worden gebracht, mag niet hoger zijn dan 5%, voor iedere maand gedurende welke of ieder deel van een maand gedurende welk de goederen onder de tijdelijke-invoerprocedure zijn gesteld.
 
-#### Artikel 6
+##### Artikel 6
 
 Het bedrag aan rechten en heffingen bij invoer dat in rekening wordt gebracht, mag in geen geval hoger zijn dan het bedrag dat in rekening zou zijn gebracht indien de desbetreffende goederen zouden zijn ingevoerd in het vrije verkeer op de datum waarop zij onder de tijdelijke-invoerprocedure werden gesteld.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het krachtens deze Bijlage aan rechten en heffingen bij invoer verschuldigde bedrag wordt door de bevoegde autoriteiten geheven wanneer de procedure is voltooid.
 
 2. Wanneer, in overeenstemming met artikel 13 van deze Overeenkomst, de tijdelijke-invoerprocedure wordt afgesloten met inklaring voor binnenlands gebruik, wordt het reeds in rekening gebrachte bedrag aan eventuele rechten en heffingen bij invoer afgetrokken van het ten gevolge van de invoer in het vrije verkeer verschuldigde bedrag aan rechten en heffingen bij invoer.
 
-#### Artikel 8
+##### Artikel 8
 
 Bij het vaststellen van de termijn voor wederuitvoer van goederen ingevoerd met gedeeltelijke vrijstelling moet rekening worden gehouden met de bepalingen van de artikelen 5 en 6 van deze Bijlage.
 
-#### Artikel 9
+##### Artikel 9
 
 Elke Overeenkomstsluitende Partij heeft het recht een voorbehoud te maken, in overeenstemming met artikel 29 van deze Overeenkomst, ten aanzien van artikel 2 van deze Bijlage, voor zover het betrekking heeft op gedeeltelijke vrijstelling van heffingen bij invoer.
 
@@ -1406,7 +1431,7 @@ DONE at Istanbul this twenty-sixth day of June nineteen hundred and ninety, in a
 
 ### HOOFDSTUK I
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage wordt verstaan onder:
 
@@ -1430,7 +1455,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 ### HOOFDSTUK II
 
-#### Artikel 2. Werkingssfeer
+##### Artikel 2. Werkingssfeer
 
 1. In overeenstemming met [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=III&artikel=5&z=2011-01-16&g=2011-01-16) van deze Overeenkomst aanvaardt elke Overeenkomstsluitende Partij, in plaats van haar nationale douanedocumenten en als waarborg voor de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=A&hoofdstuk=IV&artikel=8&z=2011-01-16&g=2011-01-16) van deze Bijlage bedoelde bedragen, elk document voor tijdelijke invoer dat geldig is voor haar grondgebied en dat is afgegeven en wordt gebruikt in overeenstemming met de in deze Bijlage vastgelegde voorwaarden voor goederen (met inbegrip van vervoermiddelen) die tijdelijk worden ingevoerd ingevolge de andere Bijlagen bij deze Overeenkomst die zij heeft aanvaard.
 
@@ -1440,7 +1465,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 4. Goederen (met inbegrip van vervoermiddelen) die zijn bestemd voor verwerking, bewerking of reparatie mogen niet worden ingevoerd onder dekking van een document voor tijdelijke invoer.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Documenten voor tijdelijke invoer dienen overeen te komen met de in de Aanhangsels bij deze Bijlage weergegeven modellen: [Aanhangsel I](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=I&z=2011-01-16&g=2011-01-16) voor ATA-carnets, [Aanhangsel II](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=II&z=2011-01-16&g=2011-01-16) voor CPD-carnets.
 
@@ -1448,13 +1473,13 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 ### HOOFDSTUK III
 
-#### Artikel 4. Waarborg en afgifte van documenten voor tijdelijke invoer
+##### Artikel 4. Waarborg en afgifte van documenten voor tijdelijke invoer
 
 1. Onder de door haar te stellen voorwaarden en waarborgen kan elke Overeenkomstsluitende Partij toestaan dat aansprakelijke organisaties zich borg stellen en documenten voor tijdelijke invoer afgeven, hetzij rechtstreeks, hetzij via organisaties van afgifte.
 
 2. Een aansprakelijke organisatie wordt slechts toegelaten door een Overeenkomstsluitende Partij indien haar waarborg de aansprakelijkheden dekt in die Overeenkomstsluitende Partij in verband met verrichtingen onder dekking van documenten voor tijdelijke invoer afgegeven door soortgelijke organisaties van afgifte.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Organisaties van afgifte mogen geen documenten voor tijdelijke invoer afgeven waarvan de geldigheidsduur langer is dan een jaar, te rekenen vanaf de datum van afgifte.
 
@@ -1462,7 +1487,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 3. Na de afgifte van het ATA-carnet kunnen geen goederen worden toegevoegd aan de lijst van goederen genoemd aan ommezijde van de omslag van het carnet of in één van de aanvullingsbladen daarbij (Algemene Lijst).
 
-#### Artikel 6
+##### Artikel 6
 
 Op het document voor tijdelijke invoer dienen te worden vermeld:
 
@@ -1474,13 +1499,13 @@ Op het document voor tijdelijke invoer dienen te worden vermeld:
 
 - –. de namen van de aansprakelijke organisaties van genoemde landen of douanegebieden.
 
-#### Artikel 7
+##### Artikel 7
 
 De termijn die wordt vastgesteld voor de wederuitvoer van goederen (met inbegrip van vervoermiddelen) die worden ingevoerd onder dekking van een document voor tijdelijke invoer mag in geen geval langer zijn dan de geldigheidsduur van het document.
 
 ### HOOFDSTUK IV
 
-#### Artikel 8. Aansprakelijkheid
+##### Artikel 8. Aansprakelijkheid
 
 1. Elke aansprakelijke organisatie verplicht zich ertoe aan de douaneautoriteiten van de Overeenkomstsluitende Partij op het grondgebied waarvan zij is gevestigd, het bedrag van de rechten en heffingen bij invoer en alle andere bedragen te betalen, met uitzondering van de in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=III&artikel=4&z=2011-01-16&g=2011-01-16), van deze Overeenkomst bedoelde bedragen, die verschuldigd zijn in geval van schending van de voorwaarden voor tijdelijke invoer of douanedoorvoer ten aanzien van goederen (met inbegrip van vervoermiddelen) die in dat gebied worden gebracht onder dekking van een document voor tijdelijke invoer afgegeven door een soortgelijke organisatie van afgifte. Zij is tezamen met de personen die bovengenoemde bedragen verschuldigd zijn, hoofdelijk aansprakelijk voor de betaling daarvan.
 
@@ -1504,7 +1529,7 @@ De douaneautoriteiten kunnen in geen geval van de aansprakelijke organisatie de 
 
 ### HOOFDSTUK V
 
-#### Artikel 9. Regularisatie van documenten voor tijdelijke invoer
+##### Artikel 9. Regularisatie van documenten voor tijdelijke invoer
 
 1. **ATA-carnet:**
 
@@ -1522,7 +1547,7 @@ De douaneautoriteiten kunnen in geen geval van de aansprakelijke organisatie de 
 
 - c. Voor Overeenkomstsluitende Partijen waarvan de wetten en voorschriften niet voorzien in de mogelijkheid van storting als borgstelling of van voorlopige betaling van rechten en heffingen bij invoer, worden de betalingen die in overeenstemming met het onder b bepaalde zijn gedaan, als definitief beschouwd, maar worden de bedragen terugbetaald indien het onder a bedoelde bewijs wordt geleverd binnen een termijn van een jaar na de datum van de betaling.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het bewijs dat de goederen (met inbegrip van vervoermiddelen), ingevoerd onder dekking van een document voor tijdelijke invoer, weder zijn uitgevoerd, wordt geleverd door de stam van de wederuitvoerstrook, ingevuld en gestempeld door de douaneautoriteiten van het gebied van tijdelijke invoer.
 
@@ -1534,111 +1559,111 @@ De douaneautoriteiten kunnen in geen geval van de aansprakelijke organisatie de 
 
 3. Ingeval de douaneautoriteiten van een Overeenkomstsluitende Partij afzien van de eis tot wederuitvoer van bepaalde goederen (met inbegrip van vervoermiddelen) die tot haar gebied zijn toegelaten onder dekking van een document voor tijdelijke invoer, wordt de aansprakelijke organisatie slechts van haar verplichtingen ontheven wanneer deze autoriteiten in het document hebben bevestigd dat met betrekking tot deze goederen (met inbegrip van vervoermiddelen) regularisatie heeft plaatsgehad.
 
-#### Artikel 11
+##### Artikel 11
 
 De douaneautoriteiten behouden zich het recht voor in de gevallen bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=A&hoofdstuk=V&artikel=10&z=2011-01-16&g=2011-01-16), van deze Bijlage kosten voor regularisatie te heffen.
 
 ### HOOFDSTUK VI
 
-#### Artikel 12. Diverse bepalingen
+##### Artikel 12. Diverse bepalingen
 
 Het aftekenen van documenten voor tijdelijke invoer die onder de in deze Bijlage vastgelegde voorwaarden worden gebruikt, geeft geen aanleiding tot betaling van een vergoeding voor de verrichtingen van de douane, indien zulks geschiedt in de douanekantoren gedurende de normale uren van openstelling.
 
-#### Artikel 13
+##### Artikel 13
 
 Is een document voor tijdelijke invoer dat betrekking heeft op goederen (met inbegrip van vervoermiddelen) die zich bevinden op het grondgebied van één van de Overeenkomstsluitende Partijen tenietgegaan, verloren geraakt of gestolen, dan zullen de douaneautoriteiten van die Overeenkomstsluitende Partij, op verzoek van de organisatie van afgifte en behoudens de door deze autoriteiten te stellen voorwaarden, een vervangingsdocument aanvaarden, waarvan de geldigheidsduur verstrijkt op dezelfde datum als die van het document dat het vervangt.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Wanneer de tijdelijke-invoerregeling naar verwachting de geldigheidsduur van het document voor tijdelijke invoer zal overschrijden, daar de houder niet in staat is de goederen (met inbegrip van vervoermiddelen) binnen die termijn weder uit te voeren, kan de organisatie van afgifte van het document een vervangingsdocument afgeven. Dit document dient ter controle te worden overhandigd aan de douaneautoriteiten van de betrokken Overeenkomstsluitende Partijen. Wanneer de betrokken douaneautoriteiten het vervangingsdocument aanvaarden, zuiveren zij het document dat dit vervangt.
 
 2. De geldigheidsduur van een CPD-carnet kan slechts eenmaal met ten hoogste een jaar worden verlengd. Daarna moet ter vervanging van het vorige een nieuw carnet worden afgegeven dat dient te worden aanvaard door de douaneautoriteiten.
 
-#### Artikel 15
+##### Artikel 15
 
 Wanneer [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=III&artikel=7&z=2011-01-16&g=2011-01-16), van deze Overeenkomst van toepassing is, stellen de douaneautoriteiten, voor zover mogelijk, de aansprakelijke organisatie die zich aansprakelijk heeft gesteld voor het document voor tijdelijke invoer voor de desbetreffende goederen (met inbegrip van vervoermiddelen) in kennis van de inbeslagnemingen of beslagleggingen waartoe zij zijn overgegaan of hebben doen overgaan en doen zij aan die organisatie mededeling van de maatregelen die zij voornemens zijn te treffen.
 
-#### Artikel 16
+##### Artikel 16
 
 In geval van fraude, overtreding of misbruik hebben de Overeenkomstsluitende Partijen, niettegenstaande de bepalingen van deze Bijlage, het recht tegen personen die gebruik maken van een document voor tijdelijke invoer vervolging in te stellen met het oog op de invordering van rechten en heffingen bij invoer en andere opeisbare bedragen, alsmede met het oog op het opleggen van straffen waaraan deze personen zich hebben blootgesteld. In dat geval dienen de organisaties de douaneautoriteiten behulpzaam te zijn.
 
-#### Artikel 17
+##### Artikel 17
 
 Documenten voor tijdelijke invoer of gedeelten daarvan die zijn afgegeven of zijn bestemd om te worden afgegeven in het gebied waarin zij worden ingevoerd en die aan een organisatie van afgifte worden toegezonden door een aansprakelijke organisatie, een internationale organisatie of de douaneautoriteiten van een Overeenkomstsluitende Partij, worden toegelaten met vrijstelling van rechten en heffingen bij invoer en zonder toepassing van invoerverboden of -beperkingen. Overeenkomstige faciliteiten worden verleend bij de uitvoer.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Elke Overeenkomstsluitende Partij heeft het recht een voorbehoud te maken, in overeenstemming met [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=29&z=2011-01-16&g=2011-01-16) van deze Overeenkomst, ten aanzien van de aanvaarding van ATA-carnets voor postverkeer.
 
 2. Enig ander voorbehoud bij deze Bijlage is niet toegestaan.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Bij de inwerkingtreding van deze Bijlage wordt, in overeenstemming met [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=27&z=2011-01-16&g=2011-01-16) van deze Overeenkomst, de Douaneovereenkomst inzake het carnet ATA voor de tijdelijke invoer van goederen, ondertekend te Brussel op 6 december 1961, beëindigd en treedt deze Bijlage daarvoor in de plaats in de betrekkingen tussen de Overeenkomstsluitende Partijen die deze Bijlage hebben aanvaard en die Partij zijn bij die overeenkomst.
 
 2. Niettegenstaande de bepalingen van het eerste lid van dit artikel worden ATA-carnets, afgegeven ingevolge de Douaneovereenkomst inzake het carnet ATA voor de tijdelijke invoer van goederen vóór de inwerkingtreding van deze Bijlage, aanvaard totdat de procedure waarvoor zij zijn afgegeven is voltooid.
 
-#### 1
+##### 1
 
 Alle goederen waarvoor het carnet geldt, moeten worden vermeld in de kolommen 1 t/m 6 van de algemene lijst. Indien de daarvoor bestemde ruimte op bladzijde 2 van de omslag niet voldoende is, moeten aanvullingsbladen van het officiële model worden gebruikt.
 
-#### 2
+##### 2
 
 Om de algemene lijst af te sluiten moeten de totalen van de kolommen 3 en 5 onderaan de lijst in cijfers en in letters worden vermeld. Indien de algemene lijst uit verschillende bladen bestaat, moet het aantal gebruikte aanvullingsbladen in cijfers en in letters worden vermeld onderaan de lijst op de achterzijde van de omslag.
 
 Hetzelfde geldt voor de lijsten op de stroken.
 
-#### 3
+##### 3
 
 Aan alle goederen moeten volgnummers worden toegekend, die worden ingeschreven in kolom 1. Voor goederen die uit afzonderlijke delen (daaronder begrepen reservedelen en toebehoren) bestaan, kan met één volgnummer worden volstaan. In dat geval dienen in kolom 2 de soort en de waarde, en voor zover nodig het gewicht, van elk deel te worden aangegeven; in de kolommen 4 en 5 moeten alleen het totaal gewicht en de totale waarde worden vermeld.
 
-#### 4
+##### 4
 
 Bij het invullen van de lijsten op de stroken moeten dezelfde volgnummers als die van de algemene lijst worden gebruikt.
 
-#### 5
+##### 5
 
 Ter vergemakkelijking van de douanecontrole verdient het aanbeveling op de goederen (afzonderlijke delen daaronder begrepen) het daarbij behorende volgnummer duidelijk te vermelden.
 
-#### 6
+##### 6
 
 Goederen van dezelfde soort kunnen tot één of meer groepen worden samengevoegd, mits aan elk goed een afzonderlijk volgnummer wordt toegekend. Indien de samengevoegde goederen niet van dezelfde waarde of hetzelfde gewicht zijn, moeten de waarde, en voor zover nodig het gewicht, van elk goed afzonderlijk worden vermeld in kolom 2.
 
-#### 7
+##### 7
 
 Indien de goederen bestemd zijn voor een tentoonstelling, is het in het belang van de invoerder om in vak C van de invoerstrook de naam en de plaats van de tentoonstelling te vermelden, alsmede de naam en het adres van de organisator.
 
-#### 8
+##### 8
 
 Het carnet moet leesbaar en op onuitwisbare wijze worden ingevuld.
 
-#### 9
+##### 9
 
 Alle goederen waarvoor het carnet geldt, dienen in het land/ douanegebied van vertrek te worden opgenomen en ingeschreven en met het oog daarop samen met het carnet aldaar te worden getoond aan de douane-autoriteiten, behalve wanneer de douanevoorschriften van dat land/ douanegebied niet voorzien in een zodanige opneming.
 
-#### 10
+##### 10
 
 Indien het carnet is ingevuld in een andere taal dan die van het land/douanegebied van invoer, kunnen de douane-autoriteiten een vertaling hiervan eisen.
 
-#### 11
+##### 11
 
 Verlopen carnets en carnets waarvan de houder geen gebruik meer zal maken, dient hij terug te zenden aan de organisatie van afgifte.
 
-#### 12
+##### 12
 
 Voor alle in cijfers vermelde bijzonderheden moeten Arabische cijfers worden gebezigd.
 
-#### 13
+##### 13
 
 Overeenkomstig ISO-norm 8601 moeten data op de volgende wijze worden vermeld: jaar/maand/dag.
 
-#### 14
+##### 14
 
 Wanneer bij douanedoorvoer blauwe bladen worden gebruikt, dient de houder zijn carnet te overleggen aan het douanekantoor waar de goederen onder douanedoorvoer worden geplaatst, en vervolgens, binnen de door de douane gestelde termijn, aan het kantoor dat is opgegeven als kantoor van bestemming. De douane moet de doorvoerstrook en de stam van de doorvoerstrook telkens op de juiste wijze van stempels en handtekeningen voorzien.
 
 ### HOOFDSTUK I
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage wordt verstaan onder „manifestatie”:
 
@@ -1656,7 +1681,7 @@ met uitzondering van tentoonstellingen die voor particuliere doeleinden in winke
 
 ### HOOFDSTUK II
 
-#### Artikel 2. Werkingssfeer
+##### Artikel 2. Werkingssfeer
 
 1. Voor de volgende goederen wordt tijdelijke invoer toegestaan in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=II&artikel=2&z=2011-01-16&g=2011-01-16) van deze Overeenkomst:
 
@@ -1680,7 +1705,7 @@ met uitzondering van tentoonstellingen die voor particuliere doeleinden in winke
 
 ### HOOFDSTUK III
 
-#### Artikel 3. Diverse bepalingen
+##### Artikel 3. Diverse bepalingen
 
 Tenzij de nationale wetgeving van het gebied van tijdelijke invoer zulks toestaat, worden de goederen waarvoor tijdelijke invoer is toegestaan, zolang deze de faciliteiten genieten waarin deze Overeenkomst voorziet:
 
@@ -1688,13 +1713,13 @@ Tenzij de nationale wetgeving van het gebied van tijdelijke invoer zulks toestaa
 
 - b. niet buiten de plaats gebracht waar de manifestatie wordt gehouden.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De termijn voor wederuitvoer van goederen die zijn ingevoerd om op tentoonstellingen, beurzen, congressen of soortgelijke manifestaties te worden getoond of gebruikt, bedraagt ten minste zes maanden te rekenen van de datum van tijdelijke invoer.
 
 2. Niettegenstaande het in het eerste lid van dit artikel bepaalde staan de douaneautoriteiten toe dat goederen die op een volgende manifestatie zullen worden getoond of gebruikt, in het gebied van tijdelijke invoer blijven, mits de voorwaarden neergelegd in de wetten en voorschriften van dat gebied worden nageleefd en de goederen binnen een jaar na de datum van tijdelijke invoer weder worden uitgevoerd.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Ingevolge [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=III&artikel=13&z=2011-01-16&g=2011-01-16) van deze Overeenkomst wordt aangifte voor het vrije verkeer toegestaan met vrijstelling van invoerrechten en -heffingen en zonder toepassing van invoerverboden of -beperkingen ten aanzien van de volgende goederen:
 
@@ -1724,27 +1749,27 @@ Tenzij de nationale wetgeving van het gebied van tijdelijke invoer zulks toestaa
 
 2. De bepalingen van het eerste lid van dit artikel zijn niet van toepassing op alcoholhoudende dranken, tabaksfabrikaten en brandstoffen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Onderzoek door de douane en vrijmaking bij invoer of bij wederuitvoer van goederen die zullen worden of zijn tentoongesteld of gebruikt op een manifestatie, worden waar mogelijk en wenselijk verricht ter plaatse van die manifestatie.
 
 2. Elke Overeenkomstsluitende Partij streeft ernaar in alle gevallen waarin zij zulks wenselijk acht in verband met het belang en de omvang van de manifestatie voor een redelijke tijdsduur een douanekantoor te vestigen op de plaats waar een manifestatie wordt gehouden op haar grondgebied.
 
-#### Artikel 7
+##### Artikel 7
 
 Producten die incidenteel tijdens de manifestatie uit tijdelijk ingevoerde goederen worden verkregen, uitsluitend als gevolg van de demonstratie van tentoongestelde mechanismen en apparaten, zijn onderworpen aan de bepalingen van deze Overeenkomst.
 
-#### Artikel 8
+##### Artikel 8
 
 Elke Overeenkomstsluitende Partij heeft het recht een voorbehoud te maken, in overeenstemming met [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=29&z=2011-01-16&g=2011-01-16) van deze Overeenkomst, ten aanzien van de bepalingen van [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=B.2&hoofdstuk=III&artikel=5&z=2011-01-16&g=2011-01-16), van deze Bijlage.
 
-#### Artikel 9
+##### Artikel 9
 
 Bij de inwerkingtreding van deze Bijlage wordt, in overeenstemming met artikel 27 van deze Overeenkomst, de [Douaneovereenkomst inzake faciliteiten voor de invoer van goederen bestemd om op tentoonstellingen, beurzen, congressen of soortgelijke manifestaties te worden getoond of gebruikt](https://wetten.overheid.nl/jci1.3:c:BWBV0004360), ondertekend te Brussel op 8 juni 1961, beëindigd en treedt deze Bijlage daarvoor in de plaats in de betrekkingen tussen de Overeenkomstsluitende Partijen die deze Bijlage hebben aanvaard en die Partij zijn bij die overeenkomst.
 
 ### HOOFDSTUK I
 
-#### Artikel 1. Begripsomschrijving
+##### Artikel 1. Begripsomschrijving
 
 Voor de toepassing van deze Bijlage wordt verstaan onder „beroepsuitrusting”:
 
@@ -1758,7 +1783,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder „beroepsuitrusting”
 
 ### HOOFDSTUK II
 
-#### Artikel 2. Werkingssfeer
+##### Artikel 2. Werkingssfeer
 
 Voor de volgende goederen wordt tijdelijke invoer toegestaan in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=II&artikel=2&z=2011-01-16&g=2011-01-16) van deze Overeenkomst:
 
@@ -1768,7 +1793,7 @@ Voor de volgende goederen wordt tijdelijke invoer toegestaan in overeenstemming 
 
 ### HOOFDSTUK III
 
-#### Artikel 3. Diverse bepalingen
+##### Artikel 3. Diverse bepalingen
 
 1. Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende faciliteiten moet de beroepsuitrusting:
 
@@ -1782,31 +1807,31 @@ Voor de volgende goederen wordt tijdelijke invoer toegestaan in overeenstemming 
 
 3. De filmuitrusting en de uitrusting voor pers, radio of televisie mag niet het voorwerp zijn van een overeenkomst inzake huur en verhuur of van een soortgelijke overeenkomst waarbij een in het gebied van tijdelijke invoer gevestigde persoon partij is, met dien verstande dat deze voorwaarde niet geldt in geval van gezamenlijke radio- of televisieprogramma’s.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De tijdelijke invoer van productie- en zenduitrusting voor radio en televisie en speciaal ingerichte radio- en televisiewagens en de daarbij behorende uitrusting, ingevoerd door openbare of particuliere organisaties die daartoe zijn goedgekeurd door de douaneautoriteiten van het gebied van tijdelijke invoer, wordt toegestaan zonder dat een douanedocument of zekerheid wordt verlangd.
 
 2. De douaneautoriteiten kunnen verlangen dat een lijst of gedetailleerde inventaris van de in het eerste lid van dit artikel bedoelde uitrusting wordt overgelegd, tezamen met een schriftelijke toezegging met betrekking tot de wederuitvoer.
 
-#### Artikel 5
+##### Artikel 5
 
 De termijn voor wederuitvoer van beroepsuitrusting bedraagt ten minste twaalf maanden te rekenen van de datum van tijdelijke invoer. De termijn voor wederuitvoer van voertuigen kan evenwel worden vastgesteld naar gelang het doel en de voorgenomen lengte van het verblijf in het gebied van tijdelijke invoer.
 
-#### Artikel 6
+##### Artikel 6
 
 Elke Overeenkomstsluitende Partij heeft het recht de tijdelijke invoer te weigeren of in te trekken ten aanzien van de in de Aanhangsels I tot en met III bij deze Bijlage genoemde voertuigen die, zelfs incidenteel, personen aan boord nemen tegen betaling of goederen laden op haar grondgebied om deze af te zetten of te lossen op een plaats in hetzelfde gebied.
 
-#### Artikel 7
+##### Artikel 7
 
 De Aanhangsels bij deze Bijlage worden geacht een integrerend onderdeel daarvan uit te maken.
 
-#### Artikel 8
+##### Artikel 8
 
 Bij de inwerkingtreding van deze Bijlage wordt, in overeenstemming met [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=27&z=2011-01-16&g=2011-01-16) van deze Overeenkomst, de [Douaneovereenkomst inzake de tijdelijke invoer van beroepsmateriaal](https://wetten.overheid.nl/jci1.3:c:BWBV0004591), ondertekend te Brussel op 8 juni 1961, beëindigd en treedt deze Bijlage daarvoor in de plaats in de betrekkingen tussen de Overeenkomstsluitende Partijen die deze Bijlage hebben aanvaard en die Partij zijn bij die overeenkomst.
 
 ### HOOFDSTUK I
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage wordt verstaan onder:
 
@@ -1838,7 +1863,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 ### HOOFDSTUK II
 
-#### Artikel 2. Werkingssfeer
+##### Artikel 2. Werkingssfeer
 
 Voor de volgende goederen die worden ingevoerd in verband met een handelsactiviteit wordt tijdelijke invoer toegestaan in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=II&artikel=2&z=2011-01-16&g=2011-01-16) van deze Overeenkomst:
 
@@ -1858,11 +1883,11 @@ Voor de volgende goederen die worden ingevoerd in verband met een handelsactivit
 
 ### HOOFDSTUK III
 
-#### Artikel 3. Diverse bepalingen
+##### Artikel 3. Diverse bepalingen
 
 De bepalingen van deze Bijlage laten de douanewetgeving van de Overeenkomstsluitende Partijen met betrekking tot de invoer van goederen die worden vervoerd in containers, in verpakkingsmiddelen of op laadborden onverlet.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende faciliteiten:
 
@@ -1882,7 +1907,7 @@ De bepalingen van deze Bijlage laten de douanewetgeving van de Overeenkomstsluit
 
 2. Elke Overeenkomstsluitende Partij heeft het recht de tijdelijke invoer te weigeren voor containers, laadborden of verpakkingsmiddelen die het voorwerp zijn geweest van een koop-, huurkoop- of huurovereenkomst, of van een soortgelijke overeenkomst, gesloten door een persoon gevestigd of woonachtig op haar grondgebied.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De tijdelijke invoer van containers, laadborden en verpakkingsmiddelen wordt toegestaan zonder dat een douanedocument of zekerheid wordt verlangd.
 
@@ -1896,11 +1921,11 @@ De bepalingen van deze Bijlage laten de douanewetgeving van de Overeenkomstsluit
 
 4. Personen die zich regelmatig van de tijdelijke-invoerregeling bedienen zijn gemachtigd een algemene toezegging te doen.
 
-#### Artikel 6
+##### Artikel 6
 
 De termijn voor wederuitvoer van goederen ingevoerd in verband met een handelsactiviteit bedraagt ten minste zes maanden te rekenen van de datum van tijdelijke invoer.
 
-#### Artikel 7
+##### Artikel 7
 
 Elke Overeenkomstsluitende Partij heeft het recht een voorbehoud te maken, in overeenstemming met [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=29&z=2011-01-16&g=2011-01-16) van deze Overeenkomst, ten aanzien van:
 
@@ -1910,11 +1935,11 @@ Elke Overeenkomstsluitende Partij heeft het recht een voorbehoud te maken, in ov
 
 van deze Bijlage.
 
-#### Artikel 8
+##### Artikel 8
 
 De Aanhangsels bij deze Bijlage worden geacht een integrerend onderdeel daarvan uit te maken.
 
-#### Artikel 9
+##### Artikel 9
 
 Bij de inwerkingtreding van deze Bijlage worden, in overeenstemming met [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=27&z=2011-01-16&g=2011-01-16) van deze Overeenkomst, de volgende overeenkomsten en bepalingen beëindigd:
 
@@ -1928,7 +1953,7 @@ Bij de inwerkingtreding van deze Bijlage worden, in overeenstemming met [artikel
 
 en treedt deze Bijlage daarvoor in de plaats in de betrekkingen tussen de Overeenkomstsluitende Partijen die deze Bijlage hebben aanvaard en die Partij zijn bij die overeenkomsten.
 
-#### 1
+##### 1
 
 De volgende gegevens dienen duurzaam op containers te worden aangebracht op een geschikte en duidelijk zichtbare plaats in overeenstemming met de internationale norm ISO 6346:
 
@@ -1936,11 +1961,11 @@ De volgende gegevens dienen duurzaam op containers te worden aangebracht op een 
 
 - b. het tarragewicht van de container, met inbegrip van de gehele vaste uitrusting.
 
-#### 2
+##### 2
 
 Vervallen
 
-#### 3
+##### 3
 
 Teneinde te bewerkstelligen dat de herkenningstekenen en identificatienummers duurzaam worden aangebracht wanneer een kunststofband wordt gebruikt, moet aan de volgende vereisten worden voldaan:
 
@@ -1948,13 +1973,13 @@ Teneinde te bewerkstelligen dat de herkenningstekenen en identificatienummers du
 
 - b. wanneer de herkenningstekenen en identificatienummers moeten worden gewijzigd, dient het te vervangen band eerst volledig te zijn verwijderd alvorens het nieuwe band wordt aangebracht; het aanbrengen van nieuw band over het aanwezige band is niet toegestaan.
 
-#### 4
+##### 4
 
 De vereisten betreffende het gebruik van kunststofband voor het merken van containers, genoemd onder [punt 3](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=II&artikel=3&z=2011-01-16&g=2011-01-16) van deze Bijlage, sluiten de mogelijkheid andere duurzame merkmethoden toe te passen niet uit.
 
 ### HOOFDSTUK I
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage wordt verstaan onder „goederen ingevoerd in verband met een productieactiviteit”:
 
@@ -1970,13 +1995,13 @@ Voor de toepassing van deze Bijlage wordt verstaan onder „goederen ingevoerd i
 
 ### HOOFDSTUK II
 
-#### Artikel 2. Werkingssfeer
+##### Artikel 2. Werkingssfeer
 
 Voor goederen die worden ingevoerd in verband met een vervaardigingsactiviteit wordt tijdelijke invoer toegestaan in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=II&artikel=2&z=2011-01-16&g=2011-01-16) van deze Overeenkomst.
 
 ### HOOFDSTUK III
 
-#### Artikel 3. Diverse bepalingen
+##### Artikel 3. Diverse bepalingen
 
 Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende faciliteiten:
 
@@ -1986,13 +2011,13 @@ Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende facilite
 
 - c. moeten de vervangende productiemiddelen tijdelijk en kosteloos ter beschikking worden gesteld van een persoon gevestigd in het gebied van tijdelijke invoer door of door bemiddeling van de leverancier van de productiemiddelen waarvan de levering is vertraagd of die moeten worden gerepareerd.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De termijn voor wederuitvoer van de in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=B.4&hoofdstuk=I&artikel=1&z=2011-01-16&g=2011-01-16), van deze Bijlage bedoelde goederen bedraagt ten minste twaalf maanden te rekenen van de datum van tijdelijke invoer.
 
 2. De termijn voor wederuitvoer van vervangende productiemiddelen bedraagt ten minste zes maanden te rekenen van de datum van tijdelijke invoer.
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage wordt verstaan onder:
 
@@ -2006,7 +2031,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 ### HOOFDSTUK II
 
-#### Artikel 2. Werkingssfeer
+##### Artikel 2. Werkingssfeer
 
 Voor de volgende goederen wordt tijdelijke invoer toegestaan in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=II&artikel=2&z=2011-01-16&g=2011-01-16) van deze Overeenkomst:
 
@@ -2016,7 +2041,7 @@ Voor de volgende goederen wordt tijdelijke invoer toegestaan in overeenstemming 
 
 ### HOOFDSTUK III
 
-#### Artikel 3. Diverse bepalingen
+##### Artikel 3. Diverse bepalingen
 
 Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende faciliteiten:
 
@@ -2024,29 +2049,29 @@ Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende facilite
 
 - b. moeten welzijnsgoederen bestemd voor zeelieden worden gebruikt aan boord van buitenlandse schepen die varen in de internationale zeescheepvaart, of worden gelost van het schip voor tijdelijk gebruik aan land door de bemanning, of worden ingevoerd voor gebruik in tehuizen, clubs of recreatiecentra voor zeevarenden die worden beheerd door hetzij officiële organisaties hetzij godsdienstige organisaties of organisaties zonder winstoogmerk, alsmede op plaatsen voor de eredienst waar geregeld diensten voor zeevarenden worden gehouden.
 
-#### Artikel 4
+##### Artikel 4
 
 Tijdelijke invoer van wetenschappelijk materiaal, opvoedkundig materiaal en welzijnsgoederen bestemd voor zeelieden die worden gebruikt aan boord van schepen, wordt toegestaan zonder dat een douanedocument of zekerheid wordt verlangd. Wanneer noodzakelijk kan overlegging van een inventaris van wetenschappelijk materiaal en opvoedkundig materiaal worden verlangd, tezamen met een schriftelijke toezegging met betrekking tot de wederuitvoer.
 
-#### Artikel 5
+##### Artikel 5
 
 De termijn voor wederuitvoer van goederen ingevoerd ten behoeve van onderwijs, wetenschap of cultuur bedraagt ten minste twaalf maanden te rekenen van de datum van tijdelijke invoer.
 
-#### Artikel 6
+##### Artikel 6
 
 Elke Overeenkomstsluitende Partij heeft het recht een voorbehoud te maken, in overeenstemming met [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=29&z=2011-01-16&g=2011-01-16) van deze Overeenkomst, ten aanzien van de bepalingen van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=B.5&hoofdstuk=III&artikel=4&z=2011-01-16&g=2011-01-16) van deze Bijlage, voor zover deze betrekking hebben op wetenschappelijk materiaal en opvoedkundig materiaal.
 
-#### Artikel 7
+##### Artikel 7
 
 De Aanhangsels bij deze Bijlage worden geacht een integrerend onderdeel daarvan uit te maken.
 
-#### Artikel 8
+##### Artikel 8
 
 Bij de inwerkingtreding van deze Bijlage worden, in overeenstemming met [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=27&z=2011-01-16&g=2011-01-16) van deze Overeenkomst, de [Douaneovereenkomst inzake welzijnsgoederen voor zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBV0004263), ondertekend te Brussel op 1 december 1964, de [Douaneovereenkomst inzake de tijdelijke invoer van wetenschappelijk materiaal](https://wetten.overheid.nl/jci1.3:c:BWBV0004255), ondertekend te Brussel op 11 juni 1968, en de [Douaneovereenkomst inzake de tijdelijke invoer van pedagogisch materiaal](https://wetten.overheid.nl/jci1.3:c:BWBV0004259), ondertekend te Brussel op 8 juni 1970, beëindigd en treedt deze Bijlage daarvoor in de plaats in de betrekkingen tussen de Overeenkomstsluitende Partijen die deze Bijlage hebben aanvaard en die Partij zijn bij die overeenkomsten.
 
 ### HOOFDSTUK I
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage wordt verstaan onder:
 
@@ -2058,13 +2083,13 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 ### HOOFDSTUK II
 
-#### Artikel 2. Werkingssfeer
+##### Artikel 2. Werkingssfeer
 
 Voor persoonlijke goederen en goederen ingevoerd voor sportdoeleinden wordt tijdelijke invoer toegestaan in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=II&artikel=2&z=2011-01-16&g=2011-01-16) van deze Overeenkomst.
 
 ### HOOFDSTUK III
 
-#### Artikel 3. Diverse bepalingen
+##### Artikel 3. Diverse bepalingen
 
 Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende faciliteiten:
 
@@ -2072,29 +2097,29 @@ Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende facilite
 
 - b. moeten de goederen ingevoerd voor sportdoeleinden toebehoren aan een persoon gevestigd of woonachtig buiten het gebied van tijdelijke invoer en moeten zij in redelijke hoeveelheden worden ingevoerd, gelet op het gebruik waarvoor zij zijn bestemd.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De tijdelijke invoer van persoonlijke goederen wordt toegestaan zonder dat een douanedocument of zekerheid wordt verlangd. Voor artikelen waarmee een groot bedrag aan rechten en heffingen bij invoer is gemoeid, kan niettemin een douanedocument en het stellen van zekerheid worden verlangd.
 
 2. Voor goederen ingevoerd voor sportdoeleinden kan, voor zover mogelijk, in plaats van een douanedocument en het stellen van zekerheid een lijst van de goederen alsmede een schriftelijke toezegging met betrekking tot wederuitvoer worden aanvaard.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De wederuitvoer van persoonlijke goederen dient uiterlijk plaats te vinden op het tijdstip waarop degene die ze heeft ingevoerd het gebied van tijdelijke invoer verlaat.
 
 2. De termijn voor wederuitvoer van goederen ingevoerd voor sportdoeleinden bedraagt ten minste twaalf maanden te rekenen van de datum van tijdelijke invoer.
 
-#### Artikel 6
+##### Artikel 6
 
 De Aanhangsels bij deze Bijlage worden geacht een integrerend onderdeel daarvan uit te maken.
 
-#### Artikel 7
+##### Artikel 7
 
 Bij de inwerkingtreding van deze Bijlage worden, in overeenstemming met [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=27&z=2011-01-16&g=2011-01-16) van deze Overeenkomst, de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005182&artikel=2) en [5 van het Verdrag inzake douanefaciliteiten ten behoeve van het toeristenverkeer](https://wetten.overheid.nl/jci1.3:c:BWBV0005182&artikel=5), ondertekend te New York op 4 juni 1954, beëindigd en treedt deze Bijlage daarvoor in de plaats in de betrekkingen tussen de Overeenkomstsluitende Partijen die deze Bijlage hebben aanvaard en die Partij zijn bij dat verdrag.
 
 ### HOOFDSTUK I
 
-#### Artikel 1. Begripsomschrijving
+##### Artikel 1. Begripsomschrijving
 
 Voor de toepassing van deze Bijlage wordt verstaan onder „toeristisch reclamemateriaal”.
 
@@ -2102,21 +2127,21 @@ Goederen ingevoerd met als doel het publiek te bewegen tot het bezoeken van een 
 
 ### HOOFDSTUK II
 
-#### Artikel 2. Werkingssfeer
+##### Artikel 2. Werkingssfeer
 
 Met uitzondering van het in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=B.7&hoofdstuk=III&artikel=5&z=2011-01-16&g=2011-01-16) van deze Bijlage bedoelde materiaal, waarvoor onvoorwaardelijke invoer met vrijstelling van rechten en heffingen bij invoer wordt toegestaan, wordt voor toeristisch reclamemateriaal tijdelijke invoer toegestaan in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=II&artikel=2&z=2011-01-16&g=2011-01-16) van deze Overeenkomst.
 
 ### HOOFDSTUK III
 
-#### Artikel 3. Diverse bepalingen
+##### Artikel 3. Diverse bepalingen
 
 Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende faciliteiten, moet het toeristisch reclamemateriaal toebehoren aan een persoon gevestigd buiten het gebied van tijdelijke invoer, en worden ingevoerd in redelijke hoeveelheden gelet op het voorgenomen gebruik ervan.
 
-#### Artikel 4
+##### Artikel 4
 
 De termijn voor wederuitvoer van toeristisch reclamemateriaal bedraagt ten minste twaalf maanden te rekenen van de datum van tijdelijke invoer.
 
-#### Artikel 5
+##### Artikel 5
 
 Onvoorwaardelijke invoer met vrijstelling van rechten en heffingen ter zake van de invoer wordt toegestaan voor de volgende soorten reclamemateriaal:
 
@@ -2126,15 +2151,15 @@ Onvoorwaardelijke invoer met vrijstelling van rechten en heffingen ter zake van 
 
 - c. technisch materiaal dat wordt gezonden aan de erkende vertegenwoordigers of aan de correspondenten die zijn aangewezen door officiële nationale organisaties voor toerisme, welk materiaal niet bestemd is om te worden verspreid, zoals jaarboeken, telefoongidsen, lijsten van hotels, catalogi voor jaarbeurzen, monsters en stalen van kunstnijverheid van geringe waarde, documentatiemateriaal over musea, universiteiten, badplaatsen en dergelijke.
 
-#### Artikel 6
+##### Artikel 6
 
 Het Aanhangsel bij deze Bijlage wordt geacht een integrerend onderdeel daarvan uit te maken.
 
-#### Artikel 7
+##### Artikel 7
 
 Bij de inwerkingtreding van deze Bijlage wordt, in overeenstemming met [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=27&z=2011-01-16&g=2011-01-16) van deze Overeenkomst, het [Aanvullend Protocol bij het Verdrag inzake douanefaciliteiten ten behoeve van het toeristenverkeer, met betrekking tot de invoer van toeristische propagandabescheiden en toeristisch propagandamateriaal](https://wetten.overheid.nl/jci1.3:c:BWBV0005344), ondertekend te New York op 4 juni 1954, beëindigd en treedt deze Bijlage daarvoor in de plaats in de betrekkingen tussen de Overeenkomstsluitende Partijen die deze Bijlage hebben aanvaard en die Partij zijn bij dat Protocol.
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage wordt verstaan onder:
 
@@ -2154,13 +2179,13 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 - d. „grensverkeer”: invoer door inwoners van een grensgebied, tussen twee naast elkaar gelegen grensgebieden.
 
-#### Artikel 2. Werkingssfeer
+##### Artikel 2. Werkingssfeer
 
 Voor goederen ingevoerd in het grensverkeer wordt tijdelijke invoer toegestaan in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=II&artikel=2&z=2011-01-16&g=2011-01-16) van deze Overeenkomst.
 
 ### HOOFDSTUK III
 
-#### Artikel 3. Diverse bepalingen
+##### Artikel 3. Diverse bepalingen
 
 Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende faciliteiten:
 
@@ -2170,7 +2195,7 @@ Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende facilite
 
 - c. moet grensverkeer ten behoeve van reparatie, vervaardiging of be- of verwerking van strikt niet-commerciële aard zijn.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Tijdelijke invoer van goederen die worden ingevoerd in het grensverkeer wordt toegestaan zonder dat een douanedocument of zekerheid wordt verlangd.
 
@@ -2178,7 +2203,7 @@ Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende facilite
 
 3. Tijdelijke invoer kan ook worden toegestaan op basis van een inschrijving in een register dat wordt bijgehouden door het douanekantoor.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De termijn voor wederuitvoer van goederen ingevoerd in het grensverkeer bedraagt ten minste zes maanden te rekenen van de datum van tijdelijke invoer.
 
@@ -2186,7 +2211,7 @@ Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende facilite
 
 ### HOOFDSTUK I
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage wordt verstaan onder:
 
@@ -2196,13 +2221,13 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 ### HOOFDSTUK II
 
-#### Artikel 2. Werkingssfeer
+##### Artikel 2. Werkingssfeer
 
 Voor goederen ingevoerd voor humanitaire doeleinden wordt tijdelijke invoer toegestaan in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=II&artikel=2&z=2011-01-16&g=2011-01-16) van deze Overeenkomst.
 
 ### HOOFDSTUK III
 
-#### Artikel 3. Diverse bepalingen
+##### Artikel 3. Diverse bepalingen
 
 Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende faciliteiten:
 
@@ -2212,13 +2237,13 @@ Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende facilite
 
 - c. moeten hulpzendingen worden gezonden aan personen die zijn erkend door de bevoegde autoriteiten in het gebied van tijdelijke invoer.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Wanneer mogelijk kan voor medische en chirurgische uitrusting en voor laboratoriumuitrusting een inventaris van de goederen tezamen met een schriftelijke toezegging met betrekking tot de wederuitvoer worden aanvaard in plaats van een douanedocument en zekerheid.
 
 2. Tijdelijke invoer van hulpzendingen wordt toegestaan zonder dat een douanedocument of zekerheid wordt verlangd. De douaneautoriteiten kunnen echter een inventaris van de goederen verlangen, tezamen met een schriftelijke toezegging met betrekking tot de wederuitvoer.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De termijn voor de wederuitvoer van medische en chirurgische uitrusting en laboratoriumuitrusting wordt vastgesteld in overeenstemming met de behoeften.
 
@@ -2226,7 +2251,7 @@ Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende facilite
 
 ### HOOFDSTUK I
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage wordt verstaan onder:
 
@@ -2242,7 +2267,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 ### HOOFDSTUK II
 
-#### Artikel 2. Werkingssfeer
+##### Artikel 2. Werkingssfeer
 
 Tijdelijke invoer wordt toegestaan in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=II&artikel=2&z=2011-01-16&g=2011-01-16) van deze Overeenkomst voor:
 
@@ -2250,11 +2275,11 @@ Tijdelijke invoer wordt toegestaan in overeenstemming met [artikel 2](https://we
 
 - b. reserveonderdelen en -uitrusting ingevoerd voor de reparatie van een vervoermiddel waarvoor reeds tijdelijke invoer is toegestaan. Vervangen onderdelen en uitrusting die niet weder worden uitgevoerd, zijn onderworpen aan rechten en heffingen bij invoer, tenzij zij een bestemming krijgen als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=III&artikel=14&z=2011-01-16&g=2011-01-16) van deze Overeenkomst.
 
-#### Artikel 3
+##### Artikel 3
 
 Routineonderhoudswerkzaamheden en reparaties aan het vervoermiddel die noodzakelijk zijn geworden gedurende de reis naar of binnen het gebied van tijdelijke invoer en die worden uitgevoerd gedurende het tijdvak van tijdelijke invoer, worden niet geacht te leiden tot een verandering als bedoeld in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=I&artikel=1&z=2011-01-16&g=2011-01-16), van deze Overeenkomst.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De brandstof die zich bevindt in de normale tanks van tijdelijk ingevoerde vervoermiddelen, alsmede smeeroliën voor het normale gebruik van die vervoermiddelen, worden toegelaten zonder betaling van rechten en heffingen bij invoer en zonder toepassing van invoerverboden of -beperkingen.
 
@@ -2262,7 +2287,7 @@ Routineonderhoudswerkzaamheden en reparaties aan het vervoermiddel die noodzakel
 
 ### HOOFDSTUK III
 
-#### Artikel 5. Diverse bepalingen
+##### Artikel 5. Diverse bepalingen
 
 Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende faciliteiten:
 
@@ -2270,11 +2295,11 @@ Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende facilite
 
 - b. moet een vervoermiddel voor particulier gebruik geregistreerd zijn in een ander grondgebied dan dat van tijdelijke invoer, op naam van een persoon gevestigd of woonachtig in een ander grondgebied dan dat van tijdelijke invoer, en worden ingevoerd en gebruikt door personen die woonachtig zijn in een zodanig ander grondgebied.
 
-#### Artikel 6
+##### Artikel 6
 
 Tijdelijke invoer van vervoermiddelen wordt toegestaan zonder dat een douanedocument of zekerheid wordt verlangd.
 
-#### Artikel 7
+##### Artikel 7
 
 Niettegenstaande de bepalingen van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=C&hoofdstuk=III&artikel=5&z=2011-01-16&g=2011-01-16) van deze Bijlage:
 
@@ -2282,7 +2307,7 @@ Niettegenstaande de bepalingen van [artikel 5](https://wetten.overheid.nl/jci1.3
 
 - b. mogen vervoermiddelen voor particulier gebruik worden gebruikt door derden die daartoe naar behoren zijn gemachtigd door de personen aan wie tijdelijke invoer is toegestaan. Elke Overeenkomstsluitende Partij kan het gebruik door een in haar grondgebied woonachtige persoon toestaan, in het bijzonder wanneer het vervoermiddel wordt gebruikt namens en volgens de aanwijzingen van de persoon aan wie tijdelijke invoer is toegestaan.
 
-#### Artikel 8
+##### Artikel 8
 
 Elke Overeenkomstsluitende Partij heeft het recht de verlening van toestemming voor tijdelijke invoer te weigeren, of deze toestemming in te trekken, ten aanzien van:
 
@@ -2292,13 +2317,13 @@ Elke Overeenkomstsluitende Partij heeft het recht de verlening van toestemming v
 
 - c. vervoermiddelen die na invoer worden verhuurd, of die, indien in gehuurde staat ingevoerd, opnieuw worden verhuurd of onderverhuurd voor andere doeleinden dan onmiddellijke wederuitvoer.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Vervoermiddelen voor commercieel gebruik worden wederuitgevoerd zodra het vervoer waarvoor zij werden ingevoerd is voltooid.
 
 2. Vervoermiddelen voor particulier gebruik mogen in het gebied van tijdelijke invoer blijven voor een tijdvak, al dan niet aaneengesloten, van zes maanden in ieder tijdvak van twaalf maanden.
 
-#### Artikel 10
+##### Artikel 10
 
 Elke Overeenkomstsluitende Partij heeft het recht een voorbehoud te maken, in overeenstemming met [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=29&z=2011-01-16&g=2011-01-16) van deze Overeenkomst, ten aanzien van:
 
@@ -2310,13 +2335,13 @@ Elke Overeenkomstsluitende Partij heeft het recht een voorbehoud te maken, in ov
 
 van deze Bijlage.
 
-#### Artikel 11
+##### Artikel 11
 
 Bij de inwerkingtreding van deze Bijlage worden, in overeenstemming van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=27&z=2011-01-16&g=2011-01-16) van deze Overeenkomst, het [Douaneverdrag inzake de tijdelijke invoer van particuliere wegvoertuigen](https://wetten.overheid.nl/jci1.3:c:BWBV0005368), ondertekend te New York op 4 juni 1954, de [Douaneovereenkomst betreffende de tijdelijke invoer van voertuigen voor bedrijfsmatig vervoer langs de weg](https://wetten.overheid.nl/jci1.3:c:BWBV0005229), ondertekend te Genève op 18 mei 1956, en de [Douaneovereenkomst betreffende de tijdelijke invoer voor persoonlijk gebruik van pleziervaartuigen en van luchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBV0005389), ondertekend te Genève op 18 mei 1956, beëindigd en treedt deze Bijlage daarvoor in de plaats in de betrekkingen tussen de Overeenkomstsluitende Partijen die deze Bijlage hebben aanvaard en die Partij zijn bij dat verdrag en die overeenkomsten.
 
 ### HOOFDSTUK I
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage wordt verstaan onder:
 
@@ -2330,13 +2355,13 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 ### HOOFDSTUK II
 
-#### Artikel 2. Werkingssfeer
+##### Artikel 2. Werkingssfeer
 
 Voor dieren ingevoerd voor de in het Aanhangsel bij deze Bijlage omschreven doeleinden wordt tijdelijke invoer toegestaan in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=II&artikel=2&z=2011-01-16&g=2011-01-16) van deze Overeenkomst.
 
 ### HOOFDSTUK III
 
-#### Artikel 3. Diverse bepalingen
+##### Artikel 3. Diverse bepalingen
 
 Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende faciliteiten:
 
@@ -2344,29 +2369,29 @@ Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende facilite
 
 - b. moeten trekdieren die zullen worden gebruikt voor werk op het land in het grensgebied van het gebied van tijdelijke invoer, worden ingevoerd door inwoners van een grensgebied dat is gelegen naast dat van tijdelijke invoer.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De tijdelijke invoer van de in [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=D&hoofdstuk=III&artikel=3&z=2011-01-16&g=2011-01-16), van deze Bijlage bedoelde trekdieren en van dieren ingevoerd voor het weiden of verweiden op land gelegen in het grensgebied, wordt toegestaan zonder dat een douanedocument of zekerheid wordt verlangd.
 
 2. Elke Overeenkomstsluitende Partij mag het toestaan van tijdelijke invoer van de in het eerste lid van dit artikel bedoelde dieren afhankelijk stellen van de overlegging van een inventaris, tezamen met een schriftelijke toezegging met betrekking tot de wederuitvoer.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Elke Overeenkomstsluitende Partij heeft het recht een voorbehoud te maken, in overeenstemming met [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=29&z=2011-01-16&g=2011-01-16) van deze Overeenkomst, ten aanzien van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=D&hoofdstuk=III&artikel=4&z=2011-01-16&g=2011-01-16), van deze Bijlage.
 
 2. Elke Overeenkomstsluitende Partij heeft ook het recht een voorbehoud te maken, in overeenstemming met [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=29&z=2011-01-16&g=2011-01-16) van deze Overeenkomst, ten aanzien van de punten 12 en 13 in het Aanhangsel bij deze Bijlage.
 
-#### Artikel 6
+##### Artikel 6
 
 De termijn voor wederuitvoer van dieren bedraagt ten minste twaalf maanden te rekenen van de datum van tijdelijke invoer.
 
-#### Artikel 7
+##### Artikel 7
 
 Het Aanhangsel bij deze Bijlage wordt geacht een integrerend onderdeel daarvan uit te maken.
 
 ### HOOFDSTUK I
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage wordt verstaan onder:
 
@@ -2376,39 +2401,39 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 ### HOOFDSTUK II
 
-#### Artikel 2. Werkingssfeer
+##### Artikel 2. Werkingssfeer
 
 Voor de in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=E&hoofdstuk=I&artikel=1&z=2011-01-16&g=2011-01-16), van deze Bijlage bedoelde goederen wordt tijdelijke invoer met gedeeltelijke vrijstelling toegestaan in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=II&artikel=2&z=2011-01-16&g=2011-01-16) van deze Overeenkomst.
 
 ### HOOFDSTUK III
 
-#### Artikel 3. Diverse bepalingen
+##### Artikel 3. Diverse bepalingen
 
 Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende faciliteiten, moeten goederen ingevoerd met gedeeltelijke vrijstelling toebehoren aan een persoon gevestigd of woonachtig buiten het grondgebied van tijdelijke invoer.
 
-#### Artikel 4
+##### Artikel 4
 
 Elke Overeenkomstsluitende Partij kan een lijst opstellen van goederen die in aanmerking komen voor of uitgesloten zijn van tijdelijke invoer met gedeeltelijke vrijstelling. De depositaris van deze Overeenkomst wordt in kennis gesteld van de inhoud van deze lijst.
 
-#### Artikel 5
+##### Artikel 5
 
 Het bedrag aan rechten en heffingen bij invoer dat krachtens deze regeling in rekening kan worden gebracht, mag niet hoger zijn dan vijf procent, voor iedere maand gedurende welke of ieder deel van een maand gedurende welk de goederen onder de tijdelijke-invoerregeling zijn gesteld.
 
-#### Artikel 6
+##### Artikel 6
 
 Het bedrag aan rechten en heffingen bij invoer dat in rekening wordt gebracht, mag in geen geval hoger zijn dan het bedrag dat in rekening zou zijn gebracht indien de desbetreffende goederen zouden zijn ingevoerd in het vrije verkeer op de datum waarop zij onder de tijdelijke-invoerregeling werden gesteld.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het krachtens deze Bijlage aan de rechten en heffingen bij invoer verschuldigde bedrag wordt door de bevoegde autoriteiten geheven wanneer de regeling is gezuiverd.
 
 2. Wanneer, in overeenstemming met [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=III&artikel=13&z=2011-01-16&g=2011-01-16) van deze Overeenkomst, de tijdelijke-invoerregeling wordt afgesloten met inklaring voor binnenlands gebruik, wordt het reeds in rekening gebrachte bedrag aan eventuele rechten en heffingen bij invoer afgetrokken van het ten gevolge van de invoer in het vrije verkeer verschuldigde bedrag aan rechten en heffingen bij invoer.
 
-#### Artikel 8
+##### Artikel 8
 
 Bij het vaststellen van de termijn voor wederuitvoer van goederen ingevoerd met gedeeltelijke vrijstelling moet rekening worden gehouden met de bepalingen van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=E&hoofdstuk=III&artikel=5&z=2011-01-16&g=2011-01-16) en [6](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=E&hoofdstuk=III&artikel=6&z=2011-01-16&g=2011-01-16) van deze Bijlage.
 
-#### Artikel 9
+##### Artikel 9
 
 Elke Overeenkomstsluitende Partij heeft het recht een voorbehoud te maken, in overeenstemming met artikel 29 van deze Overeenkomst, ten aanzien van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=E&hoofdstuk=II&artikel=2&z=2011-01-16&g=2011-01-16) van deze Bijlage, voor zover het betrekking heeft op gedeeltelijke vrijstelling van heffingen bij invoer.
 
@@ -2416,7 +2441,7 @@ IN WITNESS WHEREOF the undersigned, being duly authorized thereto, have signed t
 
 DONE at Istanbul this twenty-sixth day of June nineteen hundred and ninety, in a single original, in the English and French languages, both texts being equally authentic. The depositary is requested to prepare and circulate authoritative translations of this Convention in the Arabic, Chinese, Russian and Spanish languages.
 
-#### Artikel 21a. Technieken voor elektronische verwerking van gegevens
+##### Artikel 21a. Technieken voor elektronische verwerking van gegevens
 
 Alle formaliteiten die nodig zijn voor de toepassing van de bepalingen van deze Overeenkomst kunnen elektronisch worden uitgevoerd door gebruikmaking van door de Overeenkomstsluitende Partijen goedgekeurde technieken voor elektronische verwerking van gegevens.
 
@@ -2424,7 +2449,7 @@ Alle formaliteiten die nodig zijn voor de toepassing van de bepalingen van deze 
 
 ### HOOFDSTUK I
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage wordt verstaan onder:
 
@@ -2446,7 +2471,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 - i. „douanedoorvoer”: de douaneregeling krachtens welke goederen onder douanetoezicht worden vervoerd van het ene douanekantoor naar het andere.
 
-#### Artikel 2. Werkingssfeer
+##### Artikel 2. Werkingssfeer
 
 1. In overeenstemming met [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=III&artikel=5&z=2017-05-11&g=2017-05-11) van deze Overeenkomst aanvaardt elke Overeenkomstsluitende Partij, in plaats van haar nationale douanedocumenten en als waarborg voor de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=A&hoofdstuk=IV&artikel=8&z=2017-05-11&g=2017-05-11) van deze Bijlage bedoelde bedragen, elk document voor tijdelijke invoer dat geldig is voor haar grondgebied en dat is afgegeven en wordt gebruikt in overeenstemming met de in deze Bijlage vastgelegde voorwaarden voor goederen (met inbegrip van vervoermiddelen) die tijdelijk worden ingevoerd ingevolge de andere Bijlagen bij deze Overeenkomst die zij heeft aanvaard.
 
@@ -2456,7 +2481,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 4. Goederen (met inbegrip van vervoermiddelen) die zijn bestemd voor verwerking, bewerking of reparatie mogen niet worden ingevoerd onder dekking van een document voor tijdelijke invoer.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Documenten voor tijdelijke invoer dienen overeen te komen met de in de Aanhangsels bij deze Bijlage weergegeven modellen: [Aanhangsel I](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=I&z=2017-05-11&g=2017-05-11) voor ATA-carnets, [Aanhangsel II](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=II&z=2017-05-11&g=2017-05-11) voor CPD-carnets.
 
@@ -2464,13 +2489,13 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 ### HOOFDSTUK III
 
-#### Artikel 4. Waarborg en afgifte van documenten voor tijdelijke invoer
+##### Artikel 4. Waarborg en afgifte van documenten voor tijdelijke invoer
 
 1. Onder de door haar te stellen voorwaarden en waarborgen kan elke Overeenkomstsluitende Partij toestaan dat aansprakelijke organisaties zich borg stellen en documenten voor tijdelijke invoer afgeven, hetzij rechtstreeks, hetzij via organisaties van afgifte.
 
 2. Een aansprakelijke organisatie wordt slechts toegelaten door een Overeenkomstsluitende Partij indien haar waarborg de aansprakelijkheden dekt in die Overeenkomstsluitende Partij in verband met verrichtingen onder dekking van documenten voor tijdelijke invoer afgegeven door soortgelijke organisaties van afgifte.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Organisaties van afgifte mogen geen documenten voor tijdelijke invoer afgeven waarvan de geldigheidsduur langer is dan een jaar, te rekenen vanaf de datum van afgifte.
 
@@ -2478,7 +2503,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 3. Na de afgifte van het ATA-carnet kunnen geen goederen worden toegevoegd aan de lijst van goederen genoemd aan ommezijde van de omslag van het carnet of in één van de aanvullingsbladen daarbij (Algemene Lijst).
 
-#### Artikel 6
+##### Artikel 6
 
 Op het document voor tijdelijke invoer dienen te worden vermeld:
 
@@ -2490,13 +2515,13 @@ Op het document voor tijdelijke invoer dienen te worden vermeld:
 
 - –. de namen van de aansprakelijke organisaties van genoemde landen of douanegebieden.
 
-#### Artikel 7
+##### Artikel 7
 
 De termijn die wordt vastgesteld voor de wederuitvoer van goederen (met inbegrip van vervoermiddelen) die worden ingevoerd onder dekking van een document voor tijdelijke invoer mag in geen geval langer zijn dan de geldigheidsduur van het document.
 
 ### HOOFDSTUK IV
 
-#### Artikel 8. Aansprakelijkheid
+##### Artikel 8. Aansprakelijkheid
 
 1. Elke aansprakelijke organisatie verplicht zich ertoe aan de douaneautoriteiten van de Overeenkomstsluitende Partij op het grondgebied waarvan zij is gevestigd, het bedrag van de rechten en heffingen bij invoer en alle andere bedragen te betalen, met uitzondering van de in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=III&artikel=4&z=2017-05-11&g=2017-05-11), van deze Overeenkomst bedoelde bedragen, die verschuldigd zijn in geval van schending van de voorwaarden voor tijdelijke invoer of douanedoorvoer ten aanzien van goederen (met inbegrip van vervoermiddelen) die in dat gebied worden gebracht onder dekking van een document voor tijdelijke invoer afgegeven door een soortgelijke organisatie van afgifte. Zij is tezamen met de personen die bovengenoemde bedragen verschuldigd zijn, hoofdelijk aansprakelijk voor de betaling daarvan.
 
@@ -2520,7 +2545,7 @@ De douaneautoriteiten kunnen in geen geval van de aansprakelijke organisatie de 
 
 ### HOOFDSTUK V
 
-#### Artikel 9. Regularisatie van documenten voor tijdelijke invoer
+##### Artikel 9. Regularisatie van documenten voor tijdelijke invoer
 
 1. **ATA-carnet:**
 
@@ -2538,7 +2563,7 @@ De douaneautoriteiten kunnen in geen geval van de aansprakelijke organisatie de 
 
 - c. Voor Overeenkomstsluitende Partijen waarvan de wetten en voorschriften niet voorzien in de mogelijkheid van storting als borgstelling of van voorlopige betaling van rechten en heffingen bij invoer, worden de betalingen die in overeenstemming met het onder b bepaalde zijn gedaan, als definitief beschouwd, maar worden de bedragen terugbetaald indien het onder a bedoelde bewijs wordt geleverd binnen een termijn van een jaar na de datum van de betaling.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het bewijs dat de goederen (met inbegrip van vervoermiddelen), ingevoerd onder dekking van een document voor tijdelijke invoer, weder zijn uitgevoerd, wordt geleverd door de stam van de wederuitvoerstrook, ingevuld en gestempeld door de douaneautoriteiten van het gebied van tijdelijke invoer.
 
@@ -2550,109 +2575,109 @@ De douaneautoriteiten kunnen in geen geval van de aansprakelijke organisatie de 
 
 3. Ingeval de douaneautoriteiten van een Overeenkomstsluitende Partij afzien van de eis tot wederuitvoer van bepaalde goederen (met inbegrip van vervoermiddelen) die tot haar gebied zijn toegelaten onder dekking van een document voor tijdelijke invoer, wordt de aansprakelijke organisatie slechts van haar verplichtingen ontheven wanneer deze autoriteiten in het document hebben bevestigd dat met betrekking tot deze goederen (met inbegrip van vervoermiddelen) regularisatie heeft plaatsgehad.
 
-#### Artikel 11
+##### Artikel 11
 
 De douaneautoriteiten behouden zich het recht voor in de gevallen bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=A&hoofdstuk=V&artikel=10&z=2017-05-11&g=2017-05-11), van deze Bijlage kosten voor regularisatie te heffen.
 
 ### HOOFDSTUK VI
 
-#### Artikel 12. Diverse bepalingen
+##### Artikel 12. Diverse bepalingen
 
 Het aftekenen van documenten voor tijdelijke invoer die onder de in deze Bijlage vastgelegde voorwaarden worden gebruikt, geeft geen aanleiding tot betaling van een vergoeding voor de verrichtingen van de douane, indien zulks geschiedt in de douanekantoren gedurende de normale uren van openstelling.
 
-#### Artikel 13
+##### Artikel 13
 
 Is een document voor tijdelijke invoer dat betrekking heeft op goederen (met inbegrip van vervoermiddelen) die zich bevinden op het grondgebied van één van de Overeenkomstsluitende Partijen tenietgegaan, verloren geraakt of gestolen, dan zullen de douaneautoriteiten van die Overeenkomstsluitende Partij, op verzoek van de organisatie van afgifte en behoudens de door deze autoriteiten te stellen voorwaarden, een vervangingsdocument aanvaarden, waarvan de geldigheidsduur verstrijkt op dezelfde datum als die van het document dat het vervangt.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Wanneer de tijdelijke-invoerregeling naar verwachting de geldigheidsduur van het document voor tijdelijke invoer zal overschrijden, daar de houder niet in staat is de goederen (met inbegrip van vervoermiddelen) binnen die termijn weder uit te voeren, kan de organisatie van afgifte van het document een vervangingsdocument afgeven. Dit document dient ter controle te worden overhandigd aan de douaneautoriteiten van de betrokken Overeenkomstsluitende Partijen. Wanneer de betrokken douaneautoriteiten het vervangingsdocument aanvaarden, zuiveren zij het document dat dit vervangt.
 
 2. De geldigheidsduur van een CPD-carnet kan slechts eenmaal met ten hoogste een jaar worden verlengd. Daarna moet ter vervanging van het vorige een nieuw carnet worden afgegeven dat dient te worden aanvaard door de douaneautoriteiten.
 
-#### Artikel 15
+##### Artikel 15
 
 Wanneer [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=III&artikel=7&z=2017-05-11&g=2017-05-11), van deze Overeenkomst van toepassing is, stellen de douaneautoriteiten, voor zover mogelijk, de aansprakelijke organisatie die zich aansprakelijk heeft gesteld voor het document voor tijdelijke invoer voor de desbetreffende goederen (met inbegrip van vervoermiddelen) in kennis van de inbeslagnemingen of beslagleggingen waartoe zij zijn overgegaan of hebben doen overgaan en doen zij aan die organisatie mededeling van de maatregelen die zij voornemens zijn te treffen.
 
-#### Artikel 16
+##### Artikel 16
 
 In geval van fraude, overtreding of misbruik hebben de Overeenkomstsluitende Partijen, niettegenstaande de bepalingen van deze Bijlage, het recht tegen personen die gebruik maken van een document voor tijdelijke invoer vervolging in te stellen met het oog op de invordering van rechten en heffingen bij invoer en andere opeisbare bedragen, alsmede met het oog op het opleggen van straffen waaraan deze personen zich hebben blootgesteld. In dat geval dienen de organisaties de douaneautoriteiten behulpzaam te zijn.
 
-#### Artikel 17
+##### Artikel 17
 
 Documenten voor tijdelijke invoer of gedeelten daarvan die zijn afgegeven of zijn bestemd om te worden afgegeven in het gebied waarin zij worden ingevoerd en die aan een organisatie van afgifte worden toegezonden door een aansprakelijke organisatie, een internationale organisatie of de douaneautoriteiten van een Overeenkomstsluitende Partij, worden toegelaten met vrijstelling van rechten en heffingen bij invoer en zonder toepassing van invoerverboden of -beperkingen. Overeenkomstige faciliteiten worden verleend bij de uitvoer.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Elke Overeenkomstsluitende Partij heeft het recht een voorbehoud te maken, in overeenstemming met [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=29&z=2017-05-11&g=2017-05-11) van deze Overeenkomst, ten aanzien van de aanvaarding van ATA-carnets voor postverkeer.
 
 2. Enig ander voorbehoud bij deze Bijlage is niet toegestaan.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Bij de inwerkingtreding van deze Bijlage wordt, in overeenstemming met [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=27&z=2017-05-11&g=2017-05-11) van deze Overeenkomst, de Douaneovereenkomst inzake het carnet ATA voor de tijdelijke invoer van goederen, ondertekend te Brussel op 6 december 1961, beëindigd en treedt deze Bijlage daarvoor in de plaats in de betrekkingen tussen de Overeenkomstsluitende Partijen die deze Bijlage hebben aanvaard en die Partij zijn bij die overeenkomst.
 
 2. Niettegenstaande de bepalingen van het eerste lid van dit artikel worden ATA-carnets, afgegeven ingevolge de Douaneovereenkomst inzake het carnet ATA voor de tijdelijke invoer van goederen vóór de inwerkingtreding van deze Bijlage, aanvaard totdat de procedure waarvoor zij zijn afgegeven is voltooid.
 
-#### 1
+##### 1
 
 Alle goederen waarvoor het carnet geldt, moeten worden vermeld in de kolommen 1 t/m 6 van de algemene lijst. Indien de daarvoor bestemde ruimte op bladzijde 2 van de omslag niet voldoende is, moeten aanvullingsbladen van het officiële model worden gebruikt.
 
-#### 2
+##### 2
 
 Om de algemene lijst af te sluiten moeten de totalen van de kolommen 3 en 5 onderaan de lijst in cijfers en in letters worden vermeld. Indien de algemene lijst uit verschillende bladen bestaat, moet het aantal gebruikte aanvullingsbladen in cijfers en in letters worden vermeld onderaan de lijst op de achterzijde van de omslag.
 
 Hetzelfde geldt voor de lijsten op de stroken.
 
-#### 3
+##### 3
 
 Aan alle goederen moeten volgnummers worden toegekend, die worden ingeschreven in kolom 1. Voor goederen die uit afzonderlijke delen (daaronder begrepen reservedelen en toebehoren) bestaan, kan met één volgnummer worden volstaan. In dat geval dienen in kolom 2 de soort en de waarde, en voor zover nodig het gewicht, van elk deel te worden aangegeven; in de kolommen 4 en 5 moeten alleen het totaal gewicht en de totale waarde worden vermeld.
 
-#### 4
+##### 4
 
 Bij het invullen van de lijsten op de stroken moeten dezelfde volgnummers als die van de algemene lijst worden gebruikt.
 
-#### 5
+##### 5
 
 Ter vergemakkelijking van de douanecontrole verdient het aanbeveling op de goederen (afzonderlijke delen daaronder begrepen) het daarbij behorende volgnummer duidelijk te vermelden.
 
-#### 6
+##### 6
 
 Goederen van dezelfde soort kunnen tot één of meer groepen worden samengevoegd, mits aan elk goed een afzonderlijk volgnummer wordt toegekend. Indien de samengevoegde goederen niet van dezelfde waarde of hetzelfde gewicht zijn, moeten de waarde, en voor zover nodig het gewicht, van elk goed afzonderlijk worden vermeld in kolom 2.
 
-#### 7
+##### 7
 
 Indien de goederen bestemd zijn voor een tentoonstelling, is het in het belang van de invoerder om in vak C van de invoerstrook de naam en de plaats van de tentoonstelling te vermelden, alsmede de naam en het adres van de organisator.
 
-#### 8
+##### 8
 
 Het carnet moet leesbaar en op onuitwisbare wijze worden ingevuld.
 
-#### 9
+##### 9
 
 Alle goederen waarvoor het carnet geldt, dienen in het land/ douanegebied van vertrek te worden opgenomen en ingeschreven en met het oog daarop samen met het carnet aldaar te worden getoond aan de douane-autoriteiten, behalve wanneer de douanevoorschriften van dat land/ douanegebied niet voorzien in een zodanige opneming.
 
-#### 10
+##### 10
 
 Indien het carnet is ingevuld in een andere taal dan die van het land/douanegebied van invoer, kunnen de douane-autoriteiten een vertaling hiervan eisen.
 
-#### 11
+##### 11
 
 Verlopen carnets en carnets waarvan de houder geen gebruik meer zal maken, dient hij terug te zenden aan de organisatie van afgifte.
 
-#### 12
+##### 12
 
 Voor alle in cijfers vermelde bijzonderheden moeten Arabische cijfers worden gebezigd.
 
-#### 13
+##### 13
 
 Overeenkomstig ISO-norm 8601 moeten data op de volgende wijze worden vermeld: jaar/maand/dag.
 
-#### 14
+##### 14
 
 Wanneer bij douanedoorvoer blauwe bladen worden gebruikt, dient de houder zijn carnet te overleggen aan het douanekantoor waar de goederen onder douanedoorvoer worden geplaatst, en vervolgens, binnen de door de douane gestelde termijn, aan het kantoor dat is opgegeven als kantoor van bestemming. De douane moet de doorvoerstrook en de stam van de doorvoerstrook telkens op de juiste wijze van stempels en handtekeningen voorzien.
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage wordt verstaan onder „manifestatie”:
 
@@ -2668,7 +2693,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder „manifestatie”:
 
 met uitzondering van tentoonstellingen die voor particuliere doeleinden in winkels of handelsgebouwen zijn ingericht met het oog op de verkoop van buitenlandse goederen.
 
-#### Artikel 2. Werkingssfeer
+##### Artikel 2. Werkingssfeer
 
 1. Voor de volgende goederen wordt tijdelijke invoer toegestaan in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=II&artikel=2&z=2017-05-11&g=2017-05-11) van deze Overeenkomst:
 
@@ -2692,7 +2717,7 @@ met uitzondering van tentoonstellingen die voor particuliere doeleinden in winke
 
 ### HOOFDSTUK III
 
-#### Artikel 3. Diverse bepalingen
+##### Artikel 3. Diverse bepalingen
 
 Tenzij de nationale wetgeving van het gebied van tijdelijke invoer zulks toestaat, worden de goederen waarvoor tijdelijke invoer is toegestaan, zolang deze de faciliteiten genieten waarin deze Overeenkomst voorziet:
 
@@ -2700,13 +2725,13 @@ Tenzij de nationale wetgeving van het gebied van tijdelijke invoer zulks toestaa
 
 - b. niet buiten de plaats gebracht waar de manifestatie wordt gehouden.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De termijn voor wederuitvoer van goederen die zijn ingevoerd om op tentoonstellingen, beurzen, congressen of soortgelijke manifestaties te worden getoond of gebruikt, bedraagt ten minste zes maanden te rekenen van de datum van tijdelijke invoer.
 
 2. Niettegenstaande het in het eerste lid van dit artikel bepaalde staan de douaneautoriteiten toe dat goederen die op een volgende manifestatie zullen worden getoond of gebruikt, in het gebied van tijdelijke invoer blijven, mits de voorwaarden neergelegd in de wetten en voorschriften van dat gebied worden nageleefd en de goederen binnen een jaar na de datum van tijdelijke invoer weder worden uitgevoerd.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Ingevolge [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=III&artikel=13&z=2017-05-11&g=2017-05-11) van deze Overeenkomst wordt aangifte voor het vrije verkeer toegestaan met vrijstelling van invoerrechten en -heffingen en zonder toepassing van invoerverboden of -beperkingen ten aanzien van de volgende goederen:
 
@@ -2736,27 +2761,27 @@ Tenzij de nationale wetgeving van het gebied van tijdelijke invoer zulks toestaa
 
 2. De bepalingen van het eerste lid van dit artikel zijn niet van toepassing op alcoholhoudende dranken, tabaksfabrikaten en brandstoffen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Onderzoek door de douane en vrijmaking bij invoer of bij wederuitvoer van goederen die zullen worden of zijn tentoongesteld of gebruikt op een manifestatie, worden waar mogelijk en wenselijk verricht ter plaatse van die manifestatie.
 
 2. Elke Overeenkomstsluitende Partij streeft ernaar in alle gevallen waarin zij zulks wenselijk acht in verband met het belang en de omvang van de manifestatie voor een redelijke tijdsduur een douanekantoor te vestigen op de plaats waar een manifestatie wordt gehouden op haar grondgebied.
 
-#### Artikel 7
+##### Artikel 7
 
 Producten die incidenteel tijdens de manifestatie uit tijdelijk ingevoerde goederen worden verkregen, uitsluitend als gevolg van de demonstratie van tentoongestelde mechanismen en apparaten, zijn onderworpen aan de bepalingen van deze Overeenkomst.
 
-#### Artikel 8
+##### Artikel 8
 
 Elke Overeenkomstsluitende Partij heeft het recht een voorbehoud te maken, in overeenstemming met [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=29&z=2017-05-11&g=2017-05-11) van deze Overeenkomst, ten aanzien van de bepalingen van [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=B.2&hoofdstuk=III&artikel=5&z=2017-05-11&g=2017-05-11), van deze Bijlage.
 
-#### Artikel 9
+##### Artikel 9
 
 Bij de inwerkingtreding van deze Bijlage wordt, in overeenstemming met artikel 27 van deze Overeenkomst, de [Douaneovereenkomst inzake faciliteiten voor de invoer van goederen bestemd om op tentoonstellingen, beurzen, congressen of soortgelijke manifestaties te worden getoond of gebruikt](https://wetten.overheid.nl/jci1.3:c:BWBV0004360), ondertekend te Brussel op 8 juni 1961, beëindigd en treedt deze Bijlage daarvoor in de plaats in de betrekkingen tussen de Overeenkomstsluitende Partijen die deze Bijlage hebben aanvaard en die Partij zijn bij die overeenkomst.
 
 ### HOOFDSTUK I
 
-#### Artikel 1. Begripsomschrijving
+##### Artikel 1. Begripsomschrijving
 
 Voor de toepassing van deze Bijlage wordt verstaan onder „beroepsuitrusting”:
 
@@ -2770,7 +2795,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder „beroepsuitrusting”
 
 ### HOOFDSTUK II
 
-#### Artikel 2. Werkingssfeer
+##### Artikel 2. Werkingssfeer
 
 Voor de volgende goederen wordt tijdelijke invoer toegestaan in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=II&artikel=2&z=2017-05-11&g=2017-05-11) van deze Overeenkomst:
 
@@ -2782,7 +2807,7 @@ Voor de volgende goederen wordt tijdelijke invoer toegestaan in overeenstemming 
 
 ### HOOFDSTUK I
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage wordt verstaan onder:
 
@@ -2814,7 +2839,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 ### HOOFDSTUK II
 
-#### Artikel 2. Werkingssfeer
+##### Artikel 2. Werkingssfeer
 
 Voor de volgende goederen die worden ingevoerd in verband met een handelsactiviteit wordt tijdelijke invoer toegestaan in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=II&artikel=2&z=2017-05-11&g=2017-05-11) van deze Overeenkomst:
 
@@ -2834,11 +2859,11 @@ Voor de volgende goederen die worden ingevoerd in verband met een handelsactivit
 
 ### HOOFDSTUK III
 
-#### Artikel 3. Diverse bepalingen
+##### Artikel 3. Diverse bepalingen
 
 De bepalingen van deze Bijlage laten de douanewetgeving van de Overeenkomstsluitende Partijen met betrekking tot de invoer van goederen die worden vervoerd in containers, in verpakkingsmiddelen of op laadborden onverlet.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende faciliteiten:
 
@@ -2858,7 +2883,7 @@ De bepalingen van deze Bijlage laten de douanewetgeving van de Overeenkomstsluit
 
 2. Elke Overeenkomstsluitende Partij heeft het recht de tijdelijke invoer te weigeren voor containers, laadborden of verpakkingsmiddelen die het voorwerp zijn geweest van een koop-, huurkoop- of huurovereenkomst, of van een soortgelijke overeenkomst, gesloten door een persoon gevestigd of woonachtig op haar grondgebied.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De tijdelijke invoer van containers, laadborden en verpakkingsmiddelen wordt toegestaan zonder dat een douanedocument of zekerheid wordt verlangd.
 
@@ -2872,11 +2897,11 @@ De bepalingen van deze Bijlage laten de douanewetgeving van de Overeenkomstsluit
 
 4. Personen die zich regelmatig van de tijdelijke-invoerregeling bedienen zijn gemachtigd een algemene toezegging te doen.
 
-#### Artikel 6
+##### Artikel 6
 
 De termijn voor wederuitvoer van goederen ingevoerd in verband met een handelsactiviteit bedraagt ten minste zes maanden te rekenen van de datum van tijdelijke invoer.
 
-#### Artikel 7
+##### Artikel 7
 
 Elke Overeenkomstsluitende Partij heeft het recht een voorbehoud te maken, in overeenstemming met [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=29&z=2017-05-11&g=2017-05-11) van deze Overeenkomst, ten aanzien van:
 
@@ -2886,11 +2911,11 @@ Elke Overeenkomstsluitende Partij heeft het recht een voorbehoud te maken, in ov
 
 van deze Bijlage.
 
-#### Artikel 8
+##### Artikel 8
 
 De Aanhangsels bij deze Bijlage worden geacht een integrerend onderdeel daarvan uit te maken.
 
-#### Artikel 9
+##### Artikel 9
 
 Bij de inwerkingtreding van deze Bijlage worden, in overeenstemming met [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=27&z=2017-05-11&g=2017-05-11) van deze Overeenkomst, de volgende overeenkomsten en bepalingen beëindigd:
 
@@ -2904,7 +2929,7 @@ Bij de inwerkingtreding van deze Bijlage worden, in overeenstemming met [artikel
 
 en treedt deze Bijlage daarvoor in de plaats in de betrekkingen tussen de Overeenkomstsluitende Partijen die deze Bijlage hebben aanvaard en die Partij zijn bij die overeenkomsten.
 
-#### 1
+##### 1
 
 De volgende informatie dient duurzaam op containers te worden aangebracht op een geschikte en duidelijk zichtbare plaats:
 
@@ -2914,11 +2939,11 @@ De volgende informatie dient duurzaam op containers te worden aangebracht op een
 
 - c. Het tarragewicht van de container, met inbegrip van de gehele vaste uitrusting.
 
-#### 2
+##### 2
 
 Bij vrachtcontainers die over het algemeen bestemd zijn voor het zeevervoer of iedere andere container waarop een ISO-standaardcode is vermeld (dat wil zeggen vier hoofdletters met als laatste een U), dienen de aanduiding van de eigenaar of de voornaamste exploitant alsook het serienummer en het controlecijfer van de container in overeenstemming te zijn met de internationale norm ISO 6346 en de bijlagen daarbij.
 
-#### 3
+##### 3
 
 Teneinde te bewerkstelligen dat de herkenningstekenen en identificatienummers duurzaam worden aangebracht wanneer een kunststofband wordt gebruikt, moet aan de volgende vereisten worden voldaan:
 
@@ -2926,13 +2951,13 @@ Teneinde te bewerkstelligen dat de herkenningstekenen en identificatienummers du
 
 - b. wanneer de herkenningstekenen en identificatienummers moeten worden gewijzigd, dient het te vervangen band eerst volledig te zijn verwijderd alvorens het nieuwe band wordt aangebracht; het aanbrengen van nieuw band over het aanwezige band is niet toegestaan.
 
-#### 4
+##### 4
 
 De vereisten betreffende het gebruik van kunststofband voor het merken van containers, genoemd onder [punt 3](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=II&artikel=3&z=2017-05-11&g=2017-05-11) van deze Bijlage, sluiten de mogelijkheid andere duurzame merkmethoden toe te passen niet uit.
 
 ### HOOFDSTUK I
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage wordt verstaan onder „goederen ingevoerd in verband met een productieactiviteit”:
 
@@ -2946,11 +2971,11 @@ Voor de toepassing van deze Bijlage wordt verstaan onder „goederen ingevoerd i
 
 - 2. onder „vervangende productiemiddelen”: instrumenten, apparaten en machines die aan een klant ter beschikking worden gesteld door een leverancier of reparateur in afwachting van de levering of reparatie van soortgelijke goederen.
 
-#### Artikel 2. Werkingssfeer
+##### Artikel 2. Werkingssfeer
 
 Voor goederen die worden ingevoerd in verband met een vervaardigingsactiviteit wordt tijdelijke invoer toegestaan in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=II&artikel=2&z=2017-05-11&g=2017-05-11) van deze Overeenkomst.
 
-#### Artikel 3. Diverse bepalingen
+##### Artikel 3. Diverse bepalingen
 
 Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende faciliteiten:
 
@@ -2960,7 +2985,7 @@ Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende facilite
 
 - c. moeten de vervangende productiemiddelen tijdelijk en kosteloos ter beschikking worden gesteld van een persoon gevestigd in het gebied van tijdelijke invoer door of door bemiddeling van de leverancier van de productiemiddelen waarvan de levering is vertraagd of die moeten worden gerepareerd.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De termijn voor wederuitvoer van de in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=B.4&hoofdstuk=I&artikel=1&z=2017-05-11&g=2017-05-11), van deze Bijlage bedoelde goederen bedraagt ten minste twaalf maanden te rekenen van de datum van tijdelijke invoer.
 
@@ -2968,7 +2993,7 @@ Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende facilite
 
 ### HOOFDSTUK I
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage wordt verstaan onder:
 
@@ -2982,7 +3007,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 ### HOOFDSTUK II
 
-#### Artikel 2. Werkingssfeer
+##### Artikel 2. Werkingssfeer
 
 Voor de volgende goederen wordt tijdelijke invoer toegestaan in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=II&artikel=2&z=2017-05-11&g=2017-05-11) van deze Overeenkomst:
 
@@ -2992,7 +3017,7 @@ Voor de volgende goederen wordt tijdelijke invoer toegestaan in overeenstemming 
 
 ### HOOFDSTUK III
 
-#### Artikel 3. Diverse bepalingen
+##### Artikel 3. Diverse bepalingen
 
 Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende faciliteiten:
 
@@ -3000,29 +3025,29 @@ Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende facilite
 
 - b. moeten welzijnsgoederen bestemd voor zeelieden worden gebruikt aan boord van buitenlandse schepen die varen in de internationale zeescheepvaart, of worden gelost van het schip voor tijdelijk gebruik aan land door de bemanning, of worden ingevoerd voor gebruik in tehuizen, clubs of recreatiecentra voor zeevarenden die worden beheerd door hetzij officiële organisaties hetzij godsdienstige organisaties of organisaties zonder winstoogmerk, alsmede op plaatsen voor de eredienst waar geregeld diensten voor zeevarenden worden gehouden.
 
-#### Artikel 4
+##### Artikel 4
 
 Tijdelijke invoer van wetenschappelijk materiaal, opvoedkundig materiaal en welzijnsgoederen bestemd voor zeelieden die worden gebruikt aan boord van schepen, wordt toegestaan zonder dat een douanedocument of zekerheid wordt verlangd. Wanneer noodzakelijk kan overlegging van een inventaris van wetenschappelijk materiaal en opvoedkundig materiaal worden verlangd, tezamen met een schriftelijke toezegging met betrekking tot de wederuitvoer.
 
-#### Artikel 5
+##### Artikel 5
 
 De termijn voor wederuitvoer van goederen ingevoerd ten behoeve van onderwijs, wetenschap of cultuur bedraagt ten minste twaalf maanden te rekenen van de datum van tijdelijke invoer.
 
-#### Artikel 6
+##### Artikel 6
 
 Elke Overeenkomstsluitende Partij heeft het recht een voorbehoud te maken, in overeenstemming met [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=29&z=2017-05-11&g=2017-05-11) van deze Overeenkomst, ten aanzien van de bepalingen van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=B.5&hoofdstuk=III&artikel=4&z=2017-05-11&g=2017-05-11) van deze Bijlage, voor zover deze betrekking hebben op wetenschappelijk materiaal en opvoedkundig materiaal.
 
-#### Artikel 7
+##### Artikel 7
 
 De Aanhangsels bij deze Bijlage worden geacht een integrerend onderdeel daarvan uit te maken.
 
-#### Artikel 8
+##### Artikel 8
 
 Bij de inwerkingtreding van deze Bijlage worden, in overeenstemming met [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=27&z=2017-05-11&g=2017-05-11) van deze Overeenkomst, de [Douaneovereenkomst inzake welzijnsgoederen voor zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBV0004263), ondertekend te Brussel op 1 december 1964, de [Douaneovereenkomst inzake de tijdelijke invoer van wetenschappelijk materiaal](https://wetten.overheid.nl/jci1.3:c:BWBV0004255), ondertekend te Brussel op 11 juni 1968, en de [Douaneovereenkomst inzake de tijdelijke invoer van pedagogisch materiaal](https://wetten.overheid.nl/jci1.3:c:BWBV0004259), ondertekend te Brussel op 8 juni 1970, beëindigd en treedt deze Bijlage daarvoor in de plaats in de betrekkingen tussen de Overeenkomstsluitende Partijen die deze Bijlage hebben aanvaard en die Partij zijn bij die overeenkomsten.
 
 ### HOOFDSTUK I
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage wordt verstaan onder:
 
@@ -3034,13 +3059,13 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 ### HOOFDSTUK II
 
-#### Artikel 2. Werkingssfeer
+##### Artikel 2. Werkingssfeer
 
 Voor persoonlijke goederen en goederen ingevoerd voor sportdoeleinden wordt tijdelijke invoer toegestaan in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=II&artikel=2&z=2017-05-11&g=2017-05-11) van deze Overeenkomst.
 
 ### HOOFDSTUK III
 
-#### Artikel 3. Diverse bepalingen
+##### Artikel 3. Diverse bepalingen
 
 Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende faciliteiten:
 
@@ -3048,27 +3073,27 @@ Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende facilite
 
 - b. moeten de goederen ingevoerd voor sportdoeleinden toebehoren aan een persoon gevestigd of woonachtig buiten het gebied van tijdelijke invoer en moeten zij in redelijke hoeveelheden worden ingevoerd, gelet op het gebruik waarvoor zij zijn bestemd.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De tijdelijke invoer van persoonlijke goederen wordt toegestaan zonder dat een douanedocument of zekerheid wordt verlangd. Voor artikelen waarmee een groot bedrag aan rechten en heffingen bij invoer is gemoeid, kan niettemin een douanedocument en het stellen van zekerheid worden verlangd.
 
 2. Voor goederen ingevoerd voor sportdoeleinden kan, voor zover mogelijk, in plaats van een douanedocument en het stellen van zekerheid een lijst van de goederen alsmede een schriftelijke toezegging met betrekking tot wederuitvoer worden aanvaard.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De wederuitvoer van persoonlijke goederen dient uiterlijk plaats te vinden op het tijdstip waarop degene die ze heeft ingevoerd het gebied van tijdelijke invoer verlaat.
 
 2. De termijn voor wederuitvoer van goederen ingevoerd voor sportdoeleinden bedraagt ten minste twaalf maanden te rekenen van de datum van tijdelijke invoer.
 
-#### Artikel 6
+##### Artikel 6
 
 De Aanhangsels bij deze Bijlage worden geacht een integrerend onderdeel daarvan uit te maken.
 
-#### Artikel 7
+##### Artikel 7
 
 Bij de inwerkingtreding van deze Bijlage worden, in overeenstemming met [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=27&z=2017-05-11&g=2017-05-11) van deze Overeenkomst, de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005182&artikel=2) en [5 van het Verdrag inzake douanefaciliteiten ten behoeve van het toeristenverkeer](https://wetten.overheid.nl/jci1.3:c:BWBV0005182&artikel=5), ondertekend te New York op 4 juni 1954, beëindigd en treedt deze Bijlage daarvoor in de plaats in de betrekkingen tussen de Overeenkomstsluitende Partijen die deze Bijlage hebben aanvaard en die Partij zijn bij dat verdrag.
 
-#### Artikel 5
+##### Artikel 5
 
 Onvoorwaardelijke invoer met vrijstelling van rechten en heffingen ter zake van de invoer wordt toegestaan voor de volgende soorten reclamemateriaal:
 
@@ -3078,17 +3103,17 @@ Onvoorwaardelijke invoer met vrijstelling van rechten en heffingen ter zake van 
 
 - c. technisch materiaal dat wordt gezonden aan de erkende vertegenwoordigers of aan de correspondenten die zijn aangewezen door officiële nationale organisaties voor toerisme, welk materiaal niet bestemd is om te worden verspreid, zoals jaarboeken, telefoongidsen, lijsten van hotels, catalogi voor jaarbeurzen, monsters en stalen van kunstnijverheid van geringe waarde, documentatiemateriaal over musea, universiteiten, badplaatsen en dergelijke.
 
-#### Artikel 6
+##### Artikel 6
 
 Het Aanhangsel bij deze Bijlage wordt geacht een integrerend onderdeel daarvan uit te maken.
 
-#### Artikel 7
+##### Artikel 7
 
 Bij de inwerkingtreding van deze Bijlage wordt, in overeenstemming met [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=27&z=2017-05-11&g=2017-05-11) van deze Overeenkomst, het [Aanvullend Protocol bij het Verdrag inzake douanefaciliteiten ten behoeve van het toeristenverkeer, met betrekking tot de invoer van toeristische propagandabescheiden en toeristisch propagandamateriaal](https://wetten.overheid.nl/jci1.3:c:BWBV0005344), ondertekend te New York op 4 juni 1954, beëindigd en treedt deze Bijlage daarvoor in de plaats in de betrekkingen tussen de Overeenkomstsluitende Partijen die deze Bijlage hebben aanvaard en die Partij zijn bij dat Protocol.
 
 ### HOOFDSTUK I
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage wordt verstaan onder:
 
@@ -3110,13 +3135,13 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 ### HOOFDSTUK II
 
-#### Artikel 2. Werkingssfeer
+##### Artikel 2. Werkingssfeer
 
 Voor goederen ingevoerd in het grensverkeer wordt tijdelijke invoer toegestaan in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=II&artikel=2&z=2017-05-11&g=2017-05-11) van deze Overeenkomst.
 
 ### HOOFDSTUK III
 
-#### Artikel 3. Diverse bepalingen
+##### Artikel 3. Diverse bepalingen
 
 Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende faciliteiten:
 
@@ -3126,7 +3151,7 @@ Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende facilite
 
 - c. moet grensverkeer ten behoeve van reparatie, vervaardiging of be- of verwerking van strikt niet-commerciële aard zijn.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Tijdelijke invoer van goederen die worden ingevoerd in het grensverkeer wordt toegestaan zonder dat een douanedocument of zekerheid wordt verlangd.
 
@@ -3134,7 +3159,7 @@ Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende facilite
 
 3. Tijdelijke invoer kan ook worden toegestaan op basis van een inschrijving in een register dat wordt bijgehouden door het douanekantoor.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De termijn voor wederuitvoer van goederen ingevoerd in het grensverkeer bedraagt ten minste zes maanden te rekenen van de datum van tijdelijke invoer.
 
@@ -3142,7 +3167,7 @@ Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende facilite
 
 ### HOOFDSTUK I
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage wordt verstaan onder:
 
@@ -3156,7 +3181,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 - e. „normale tanks”: de tanks, door de fabrikant ontworpen voor alle vervoermiddelen van hetzelfde type als het desbetreffende vervoermiddel, en zodanig permanent geïnstalleerd dat een brandstof rechtstreeks kan worden gebruikt voor zowel de aandrijving als, waar van toepassing, de werking, gedurende het vervoer, van koelsystemen en andere systemen. Op vervoermiddelen geïnstalleerde tanks die ontworpen zijn voor rechtstreeks gebruik van andere soorten brandstof, alsmede tanks geïnstalleerd op andere systemen waarmee het vervoermiddel kan zijn uitgerust, worden ook als normale tanks beschouwd.
 
-#### Artikel 2. Werkingssfeer
+##### Artikel 2. Werkingssfeer
 
 Tijdelijke invoer wordt toegestaan in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=II&artikel=2&z=2017-05-11&g=2017-05-11) van deze Overeenkomst voor:
 
@@ -3164,17 +3189,17 @@ Tijdelijke invoer wordt toegestaan in overeenstemming met [artikel 2](https://we
 
 - b. reserveonderdelen en -uitrusting ingevoerd voor de reparatie van een vervoermiddel waarvoor reeds tijdelijke invoer is toegestaan. Vervangen onderdelen en uitrusting die niet weder worden uitgevoerd, zijn onderworpen aan rechten en heffingen bij invoer, tenzij zij een bestemming krijgen als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=III&artikel=14&z=2017-05-11&g=2017-05-11) van deze Overeenkomst.
 
-#### Artikel 3
+##### Artikel 3
 
 Routineonderhoudswerkzaamheden en reparaties aan het vervoermiddel die noodzakelijk zijn geworden gedurende de reis naar of binnen het gebied van tijdelijke invoer en die worden uitgevoerd gedurende het tijdvak van tijdelijke invoer, worden niet geacht te leiden tot een verandering als bedoeld in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=I&artikel=1&z=2017-05-11&g=2017-05-11), van deze Overeenkomst.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De brandstof die zich bevindt in de normale tanks van tijdelijk ingevoerde vervoermiddelen, alsmede smeeroliën voor het normale gebruik van die vervoermiddelen, worden toegelaten zonder betaling van rechten en heffingen bij invoer en zonder toepassing van invoerverboden of -beperkingen.
 
 2. In het geval van gemotoriseerde wegvoertuigen voor commercieel gebruik heeft elke Overeenkomstsluitende Partij echter het recht maximumhoeveelheden vast te stellen voor de brandstof die op haar grondgebied met vrijstelling van rechten en heffingen bij invoer en zonder toepassing van invoerverboden of -beperkingen kan worden toegelaten in de normale tanks van die tijdelijk ingevoerde gemotoriseerde wegvoertuigen.
 
-#### Artikel 5. Diverse bepalingen
+##### Artikel 5. Diverse bepalingen
 
 Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende faciliteiten:
 
@@ -3182,11 +3207,11 @@ Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende facilite
 
 - b. moet een vervoermiddel voor particulier gebruik geregistreerd zijn in een ander grondgebied dan dat van tijdelijke invoer, op naam van een persoon gevestigd of woonachtig in een ander grondgebied dan dat van tijdelijke invoer, en worden ingevoerd en gebruikt door personen die woonachtig zijn in een zodanig ander grondgebied.
 
-#### Artikel 6
+##### Artikel 6
 
 Tijdelijke invoer van vervoermiddelen wordt toegestaan zonder dat een douanedocument of zekerheid wordt verlangd.
 
-#### Artikel 7
+##### Artikel 7
 
 Niettegenstaande de bepalingen van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=C&hoofdstuk=III&artikel=5&z=2017-05-11&g=2017-05-11) van deze Bijlage:
 
@@ -3194,7 +3219,7 @@ Niettegenstaande de bepalingen van [artikel 5](https://wetten.overheid.nl/jci1.3
 
 - b. mogen vervoermiddelen voor particulier gebruik worden gebruikt door derden die daartoe naar behoren zijn gemachtigd door de personen aan wie tijdelijke invoer is toegestaan. Elke Overeenkomstsluitende Partij kan het gebruik door een in haar grondgebied woonachtige persoon toestaan, in het bijzonder wanneer het vervoermiddel wordt gebruikt namens en volgens de aanwijzingen van de persoon aan wie tijdelijke invoer is toegestaan.
 
-#### Artikel 8
+##### Artikel 8
 
 Elke Overeenkomstsluitende Partij heeft het recht de verlening van toestemming voor tijdelijke invoer te weigeren, of deze toestemming in te trekken, ten aanzien van:
 
@@ -3204,13 +3229,13 @@ Elke Overeenkomstsluitende Partij heeft het recht de verlening van toestemming v
 
 - c. vervoermiddelen die na invoer worden verhuurd, of die, indien in gehuurde staat ingevoerd, opnieuw worden verhuurd of onderverhuurd voor andere doeleinden dan onmiddellijke wederuitvoer.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Vervoermiddelen voor commercieel gebruik worden wederuitgevoerd zodra het vervoer waarvoor zij werden ingevoerd is voltooid.
 
 2. Vervoermiddelen voor particulier gebruik mogen in het gebied van tijdelijke invoer blijven voor een tijdvak, al dan niet aaneengesloten, van zes maanden in ieder tijdvak van twaalf maanden.
 
-#### Artikel 10
+##### Artikel 10
 
 Elke Overeenkomstsluitende Partij heeft het recht een voorbehoud te maken, in overeenstemming met [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=29&z=2017-05-11&g=2017-05-11) van deze Overeenkomst, ten aanzien van:
 
@@ -3222,11 +3247,11 @@ Elke Overeenkomstsluitende Partij heeft het recht een voorbehoud te maken, in ov
 
 van deze Bijlage.
 
-#### Artikel 11
+##### Artikel 11
 
 Bij de inwerkingtreding van deze Bijlage worden, in overeenstemming van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=27&z=2017-05-11&g=2017-05-11) van deze Overeenkomst, het [Douaneverdrag inzake de tijdelijke invoer van particuliere wegvoertuigen](https://wetten.overheid.nl/jci1.3:c:BWBV0005368), ondertekend te New York op 4 juni 1954, de [Douaneovereenkomst betreffende de tijdelijke invoer van voertuigen voor bedrijfsmatig vervoer langs de weg](https://wetten.overheid.nl/jci1.3:c:BWBV0005229), ondertekend te Genève op 18 mei 1956, en de [Douaneovereenkomst betreffende de tijdelijke invoer voor persoonlijk gebruik van pleziervaartuigen en van luchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBV0005389), ondertekend te Genève op 18 mei 1956, beëindigd en treedt deze Bijlage daarvoor in de plaats in de betrekkingen tussen de Overeenkomstsluitende Partijen die deze Bijlage hebben aanvaard en die Partij zijn bij dat verdrag en die overeenkomsten.
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage wordt verstaan onder:
 
@@ -3238,13 +3263,13 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 - d. „grensverkeer”: invoer door inwoners van een grensgebied, tussen twee naast elkaar gelegen grensgebieden.
 
-#### Artikel 2. Werkingssfeer
+##### Artikel 2. Werkingssfeer
 
 Voor dieren ingevoerd voor de in het Aanhangsel bij deze Bijlage omschreven doeleinden wordt tijdelijke invoer toegestaan in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=II&artikel=2&z=2017-05-11&g=2017-05-11) van deze Overeenkomst.
 
 ### HOOFDSTUK III
 
-#### Artikel 3. Diverse bepalingen
+##### Artikel 3. Diverse bepalingen
 
 Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende faciliteiten:
 
@@ -3252,27 +3277,27 @@ Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende facilite
 
 - b. moeten trekdieren die zullen worden gebruikt voor werk op het land in het grensgebied van het gebied van tijdelijke invoer, worden ingevoerd door inwoners van een grensgebied dat is gelegen naast dat van tijdelijke invoer.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De tijdelijke invoer van de in [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=D&hoofdstuk=III&artikel=3&z=2017-05-11&g=2017-05-11), van deze Bijlage bedoelde trekdieren en van dieren ingevoerd voor het weiden of verweiden op land gelegen in het grensgebied, wordt toegestaan zonder dat een douanedocument of zekerheid wordt verlangd.
 
 2. Elke Overeenkomstsluitende Partij mag het toestaan van tijdelijke invoer van de in het eerste lid van dit artikel bedoelde dieren afhankelijk stellen van de overlegging van een inventaris, tezamen met een schriftelijke toezegging met betrekking tot de wederuitvoer.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Elke Overeenkomstsluitende Partij heeft het recht een voorbehoud te maken, in overeenstemming met [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=29&z=2017-05-11&g=2017-05-11) van deze Overeenkomst, ten aanzien van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=D&hoofdstuk=III&artikel=4&z=2017-05-11&g=2017-05-11), van deze Bijlage.
 
 2. Elke Overeenkomstsluitende Partij heeft ook het recht een voorbehoud te maken, in overeenstemming met [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=29&z=2017-05-11&g=2017-05-11) van deze Overeenkomst, ten aanzien van de punten 12 en 13 in het Aanhangsel bij deze Bijlage.
 
-#### Artikel 6
+##### Artikel 6
 
 De termijn voor wederuitvoer van dieren bedraagt ten minste twaalf maanden te rekenen van de datum van tijdelijke invoer.
 
-#### Artikel 7
+##### Artikel 7
 
 Het Aanhangsel bij deze Bijlage wordt geacht een integrerend onderdeel daarvan uit te maken.
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage wordt verstaan onder:
 
@@ -3282,37 +3307,37 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 ### HOOFDSTUK II
 
-#### Artikel 2. Werkingssfeer
+##### Artikel 2. Werkingssfeer
 
 Voor de in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=E&hoofdstuk=I&artikel=1&z=2017-05-11&g=2017-05-11), van deze Bijlage bedoelde goederen wordt tijdelijke invoer met gedeeltelijke vrijstelling toegestaan in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=II&artikel=2&z=2017-05-11&g=2017-05-11) van deze Overeenkomst.
 
-#### Artikel 3. Diverse bepalingen
+##### Artikel 3. Diverse bepalingen
 
 Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende faciliteiten, moeten goederen ingevoerd met gedeeltelijke vrijstelling toebehoren aan een persoon gevestigd of woonachtig buiten het grondgebied van tijdelijke invoer.
 
-#### Artikel 4
+##### Artikel 4
 
 Elke Overeenkomstsluitende Partij kan een lijst opstellen van goederen die in aanmerking komen voor of uitgesloten zijn van tijdelijke invoer met gedeeltelijke vrijstelling. De depositaris van deze Overeenkomst wordt in kennis gesteld van de inhoud van deze lijst.
 
-#### Artikel 5
+##### Artikel 5
 
 Het bedrag aan rechten en heffingen bij invoer dat krachtens deze regeling in rekening kan worden gebracht, mag niet hoger zijn dan vijf procent, voor iedere maand gedurende welke of ieder deel van een maand gedurende welk de goederen onder de tijdelijke-invoerregeling zijn gesteld.
 
-#### Artikel 6
+##### Artikel 6
 
 Het bedrag aan rechten en heffingen bij invoer dat in rekening wordt gebracht, mag in geen geval hoger zijn dan het bedrag dat in rekening zou zijn gebracht indien de desbetreffende goederen zouden zijn ingevoerd in het vrije verkeer op de datum waarop zij onder de tijdelijke-invoerregeling werden gesteld.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het krachtens deze Bijlage aan de rechten en heffingen bij invoer verschuldigde bedrag wordt door de bevoegde autoriteiten geheven wanneer de regeling is gezuiverd.
 
 2. Wanneer, in overeenstemming met [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=III&artikel=13&z=2017-05-11&g=2017-05-11) van deze Overeenkomst, de tijdelijke-invoerregeling wordt afgesloten met inklaring voor binnenlands gebruik, wordt het reeds in rekening gebrachte bedrag aan eventuele rechten en heffingen bij invoer afgetrokken van het ten gevolge van de invoer in het vrije verkeer verschuldigde bedrag aan rechten en heffingen bij invoer.
 
-#### Artikel 8
+##### Artikel 8
 
 Bij het vaststellen van de termijn voor wederuitvoer van goederen ingevoerd met gedeeltelijke vrijstelling moet rekening worden gehouden met de bepalingen van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=E&hoofdstuk=III&artikel=5&z=2017-05-11&g=2017-05-11) en [6](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=E&hoofdstuk=III&artikel=6&z=2017-05-11&g=2017-05-11) van deze Bijlage.
 
-#### Artikel 9
+##### Artikel 9
 
 Elke Overeenkomstsluitende Partij heeft het recht een voorbehoud te maken, in overeenstemming met artikel 29 van deze Overeenkomst, ten aanzien van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=E&hoofdstuk=II&artikel=2&z=2017-05-11&g=2017-05-11) van deze Bijlage, voor zover het betrekking heeft op gedeeltelijke vrijstelling van heffingen bij invoer.
 

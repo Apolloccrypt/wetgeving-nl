@@ -1,18 +1,44 @@
 ---
-title: "Besluit Commissie bezwaarschriften handhaving CBS 2023"
+title: "Besluit van de directeur-generaal van de statistiek van 30 mei 2023, houdende de instelling van een Commissie bezwaarschriften handhaving CBS"
 identifier: "BWBR0048309"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-07-01
-laatste_update: 2023-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048309"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-07-01"
+last_updated: "2023-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048309"
+soort: "zbo"
+stam_id: "16779163"
+version_id: "29469582"
+internal_id: "C42142641"
+label_id: "16694494"
+dtd_version: "2.0"
+original_entry_into_force: "2023-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048309/2023-07-01/0"
+intitule_bron: "Stcrt.2023-17361"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-05-30"
+intitule_published: "2023-06-22"
+intitule_in_force: "2023-06-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-17361"
+original_signed_date: "2023-05-30"
+original_published_date: "2023-06-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-17361"
+entry_into_force_date: "2023-07-01"
+jci_1_3: "jci1.3:c:BWBR0048309&z=2023-07-01&g=2023-07-01"
+jci_1_0: "1.0:c:BWBR0048309&g=2023-07-01"
+citeertitel_status: "officieel"
+short_title: "Besluit Commissie bezwaarschriften handhaving CBS 2023"
+signed_date: "2023-05-30"
+entry_into_force: "2023-07-01"
 ---
-
 # Besluit van de directeur-generaal van de statistiek van 30 mei 2023, houdende de instelling van een Commissie bezwaarschriften handhaving CBS
 
 ### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze verordening wordt verstaan onder:
 
@@ -34,7 +60,7 @@ In deze verordening wordt verstaan onder:
 
 - –. **voorzitter:** voorzitter van de commissie.
 
-#### Artikel 2. Ingediend bezwaarschrift
+##### Artikel 2. Ingediend bezwaarschrift
 
 1. De directeur-generaal registreert het ingediende bezwaarschrift met de datum van ontvangst.
 
@@ -42,7 +68,7 @@ In deze verordening wordt verstaan onder:
 
 ### Paragraaf 2. Informele afhandeling en ambtelijk horen
 
-#### Artikel 3. Vooronderzoek en informele behandeling
+##### Artikel 3. Vooronderzoek en informele behandeling
 
 1. De directeur-generaal onderzoekt of het bezwaarschrift informeel kan worden afgehandeld alvorens het verder in behandeling te nemen.
 
@@ -50,7 +76,7 @@ In deze verordening wordt verstaan onder:
 
 3. Als het bezwaar in der minne wordt geschikt, legt de directeur-generaal de gemaakte afspraken schriftelijk vast en neemt zo nodig een nieuw besluit.
 
-#### Artikel 4. Ambtelijk horen
+##### Artikel 4. Ambtelijk horen
 
 1. De directeur-generaal kan categorieën van bezwaarschriften aanwijzen, waarbij het horen ambtelijk plaatsvindt.
 
@@ -62,7 +88,7 @@ In deze verordening wordt verstaan onder:
 
 ### Paragraaf 3. Commissie
 
-#### Artikel 5. Horen en adviseren door de commissie
+##### Artikel 5. Horen en adviseren door de commissie
 
 1. Er is een commissie ter voorbereiding van de beslissing op bezwaarschriften tegen het opleggen van een bestuurlijke boete, een last onder dwangsom ([artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=43) en [artikel 51 van de CBS-wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=51)) aan een rechtspersoon ([artikel 33, tweede lid CBS-wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=33)), ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen (artikel 33, derde lid CBS-wet) die de in die leden bedoelde gegevens niet, niet tijdig of niet volledig hebben verstrekt en de eventueel daar uit voorvloeiende invorderingsbeschikking.
 
@@ -72,13 +98,13 @@ In deze verordening wordt verstaan onder:
 
 4. Als de bezwaarmaker of de directeur-generaal het niet nodig vindt dat het bezwaarschrift aan de commissie wordt voorgelegd, kan de directeur-generaal besluiten dat het horen ambtelijk plaatsvindt.
 
-#### Artikel 6. Samenstelling van de commissie
+##### Artikel 6. Samenstelling van de commissie
 
 1. De commissie bestaat uit een (plaatsvervangend) voorzitter en twee leden en plaatsvervangende leden.
 
 2. De voorzitter, de plaatsvervangend voorzitter, één lid en een plaatsvervangend lid komen van een externe instelling/organisatie. Eén lid en een plaatsvervangend lid zijn werkzaam geweest bij het CBS.
 
-#### Artikel 7. Secretaris
+##### Artikel 7. Secretaris
 
 1. De secretaris is een door de directeur-generaal aangewezen personeelslid van het CBS.
 
@@ -86,7 +112,7 @@ De secretaris is geen lid van de commissie.
 
 2. De directeur-generaal wijst ook een of meer plaatsvervangers van de secretaris aan.
 
-#### Artikel 8. Zittingsduur
+##### Artikel 8. Zittingsduur
 
 1. De voorzitter, leden en plaatsvervangende leden worden door de directeur-generaal benoemd voor een periode van ten hoogste vier jaar. Het is mogelijk één keer herbenoemd te worden.
 
@@ -96,7 +122,7 @@ De secretaris is geen lid van de commissie.
 
 4. Schorsing en ontslag vindt slechts plaats vanwege ongeschiktheid of onbekwaamheid voor de functie dan wel wegens andere zwaarwegende in de persoon van de betrokkene gelegen redenen.
 
-#### Artikel 9. Uitoefening bevoegdheden
+##### Artikel 9. Uitoefening bevoegdheden
 
 1. De voorzitter oefent de volgende bevoegdheden van de hierna genoemde artikelen van de [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) zelfstandig uit:
 
@@ -112,7 +138,7 @@ De secretaris is geen lid van de commissie.
 
 2. De voorzitter kan deze bevoegdheden mandateren aan de secretaris.
 
-#### Artikel 10. Voorbereiding hoorzitting
+##### Artikel 10. Voorbereiding hoorzitting
 
 1. De voorzitter bepaalt plaats en tijdstip van de hoorzitting, waarin de bezwaarmaker, eventuele andere belanghebbenden en het CBS, in de gelegenheid worden gesteld zich door de commissie te laten horen.
 
@@ -124,15 +150,15 @@ De secretaris is geen lid van de commissie.
 
 5. De voorzitter is bevoegd in bijzondere omstandigheden af te wijken of afwijking toe te staan van de termijnen, genoemd in het tweede tot en met vierde lid.
 
-#### Artikel 11. Onpartijdigheid leden
+##### Artikel 11. Onpartijdigheid leden
 
 De voorzitter en de leden nemen niet deel aan de behandeling van een bezwaarschrift als daarbij hun onpartijdigheid in het geding kan zijn. Zij laten zich zo nodig vervangen.
 
-#### Artikel 12. Openbaarheid hoorzitting
+##### Artikel 12. Openbaarheid hoorzitting
 
 1. De hoorzitting van de commissie is niet openbaar.
 
-#### Artikel 13. Verslaglegging
+##### Artikel 13. Verslaglegging
 
 1. Het verslag, bedoeld in [artikel 7:7 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:7), bevat in ieder geval:
 
@@ -144,7 +170,7 @@ De voorzitter en de leden nemen niet deel aan de behandeling van een bezwaarschr
 
 2. Het verslag wordt ondertekend door de voorzitter en de secretaris.
 
-#### Artikel 14. Nader onderzoek
+##### Artikel 14. Nader onderzoek
 
 1. De commissie is bevoegd nader onderzoek te doen als zij dit na afloop van de hoorzitting wenselijk acht.
 
@@ -154,7 +180,7 @@ De voorzitter en de leden nemen niet deel aan de behandeling van een bezwaarschr
 
 4. Op een nieuwe hoorzitting zijn de bepalingen in dit besluit die betrekking hebben op de hoorzitting zo veel mogelijk van overeenkomstige toepassing.
 
-#### Artikel 15. Raadkamer en advies
+##### Artikel 15. Raadkamer en advies
 
 1. De commissie beraadslaagt en beslist achter gesloten deuren over het uit te brengen advies.
 
@@ -170,7 +196,7 @@ De voorzitter en de leden nemen niet deel aan de behandeling van een bezwaarschr
 
 7. Bij afwezigheid van de voorzitter kan de secretaris namens de voorzitter ondertekenen.
 
-#### Artikel 16. Uitbrengen advies en verdaging
+##### Artikel 16. Uitbrengen advies en verdaging
 
 1. Het advies wordt met het verslag en eventueel door de commissie ontvangen nadere informatie en nader verslag tijdig uitgebracht aan de directeur-generaal.
 
@@ -178,17 +204,17 @@ De voorzitter en de leden nemen niet deel aan de behandeling van een bezwaarschr
 
 3. Van een besluit tot verdaging ontvangen de commissie en belanghebbenden een afschrift.
 
-#### Artikel 17. Jaarverslag
+##### Artikel 17. Jaarverslag
 
 De commissie brengt jaarlijks vóór 1 april aan de directeur-generaal verslag uit van haar werkzaamheden in het voorafgaande kalenderjaar. De directeur-generaal kan regels stellen aan de inrichting van het jaarverslag.
 
 ### Paragraaf 4. Slotbepalingen
 
-#### Artikel 18. Intrekking oude regeling
+##### Artikel 18. Intrekking oude regeling
 
 Het Besluit Commissie bezwaarschriften handhaving CBS van 6 juli 2005 wordt ingetrokken.
 
-#### Artikel 19. Inwerkingtreding en citeertitel
+##### Artikel 19. Inwerkingtreding en citeertitel
 
 1. Dit besluit treedt in werking op 1 juli 2023.
 

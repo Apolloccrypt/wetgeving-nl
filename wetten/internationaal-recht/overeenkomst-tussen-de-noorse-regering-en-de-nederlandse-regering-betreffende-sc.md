@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst tussen de Noorse Regering en de Nederlandse Regering betreffende schadeloosstelling voor: 1. bepaalde Noorse obligaties, door Nederlandse eigenaars tijdens de Tweede Wereldoorlog verloren; 2. oorlogsschade, toegebracht aan het Scandinavisch Zeemanshuis te Rotterdam"
 identifier: "BWBV0005113"
-categorie: "Internationaal recht"
-publicatiedatum: 1959-08-20
-laatste_update: 1959-08-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005113"
+country: "nl"
+rank: "verdrag"
+publication_date: "1959-08-20"
+last_updated: "1959-08-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005113"
+soort: "verdrag"
+stam_id: "10004472513"
+version_id: "10004684352"
+internal_id: "C10006952201"
+label_id: "10004457354"
+dtd_version: "2.0"
+original_entry_into_force: "1959-08-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005113/1959-08-20/0"
+intitule_bron: "Trb.1958-156"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1958-11-25"
+intitule_in_force: "1959-10-09"
+intitule_status: "goed"
+original_publication: "Trb.1958-156"
+original_published_date: "1958-11-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1958-156"
+entry_into_force_date: "1959-08-20"
+jci_1_3: "jci1.3:c:BWBV0005113&z=1959-08-20&g=1959-08-20"
+jci_1_0: "1.0:c:BWBV0005113&g=1959-08-20"
+citeertitel_status: "redactioneel"
+entry_into_force: "1959-08-20"
 ---
-
 # Overeenkomst tussen de Noorse Regering en de Nederlandse Regering betreffende schadeloosstelling voor: 1. bepaalde Noorse obligaties, door Nederlandse eigenaars tijdens de Tweede Wereldoorlog verloren; 2. oorlogsschade, toegebracht aan het Scandinavisch Zeemanshuis te Rotterdam
 
 De Regering van het Koninkrijk der Nederlanden en de Regering van het Koninkrijk Noorwegen,
@@ -16,7 +38,7 @@ Verlangend te komen tot een regeling van aanspraken van de Nederlandse Regering 
 
 Zijn overeengekomen als volgt:
 
-#### Artikel I
+##### Artikel I
 
 Daar de Nederlandse Regering de Noorse Regering heeft medegedeeld, dat Nederlandse onderdanen die tijdens de Tweede Wereldoorlog in Nederland gevestigd waren, bepaalde Noorse effecten hebben verloren deels ten gevolge van oorlogshandelingen en oorlogsomstandigheden tijdens de bezetting en deels ten gevolge van het feit, dat de effecten hun ontstolen zijn door de bezettende mogendheid, is de Noorse Regering tot de slotsom gekomen, dat zij deze Nederlandse onderdanen voor dit, niet door hun schuld ontstane verlies van hun obligaties van Noorse staatsleningen schadeloos dient te stellen overeenkomstig de bepalingen, vervat in deze Overeenkomst en de daarbij behorende Bijlage 1.
 
@@ -66,11 +88,11 @@ Bij het aanvragen van schadeloosstelling dient de volgende procedure te worden g
 
 - 4. De Nederlandse Regering stelt zich garant voor ieder verlies dat eventueel geleden wordt door de Noorse Regering, Norges Kommunalbank, de Provincie Akershus, de Gemeentelijke Autoriteiten van Oslo, de Gemeentelijke Autoriteiten van Bergen, de Gemeentelijke Autoriteiten van Fredrikstad, Norsk Hydro-Elektrisk Kvaelstofaktieselskab of Kristiania Hypotek- og Realkreditbank ten gevolge van betaling van schadeloosstelling zonder overlegging van obligaties en coupons. Obligaties en coupons waarvoor schadeloosstelling is betaald, blijven geblokkeerd. Aan de Nederlandse Regering zal mededeling worden gedaan van iedere poging dergelijke effecten ter aflossing aan te bieden en de aflossing vindt eerst plaats na verloop van een redelijke termijn. Indien de aangeboden obligaties en coupons echter worden afgelost, hetzij ten gevolge van een niet opzettelijke vergissing van een employé of een betaalkantoor, hetzij doordat de schuldenaar, na alle omstandigheden te hebben onderzocht, geen termen aanwezig vindt om aflossing te weigeren, dient de Nederlandse Regering op verzoek de schuldenaar onmiddellijk schadeloos te stellen voor alle met de betaling verband houdende kosten. Partijen komen overeen, dat de Nederlandse Regering als garant niet het recht zal hebben bezwaar te maken tegen het oordeel van de Noorse schuldenaar over de vraag, of de betaling in die gevallen noodzakelijk was. De bepalingen ten aanzien van aansprakelijkheid uit hoofde van de gegeven garantie in gevallen waarin verloren gegane obligaties en coupons worden aangeboden nadat schadeloosstelling is betaald, zijn eveneens van toepassing, indien een vordering wordt ingesteld door een rechtmatige schuldeiser die niet in staat is de betreffende obligatie of coupon over te leggen. Bovengenoemde gevallen van aansprakelijkheid uit hoofde van de gegeven garantie zijn niet bedoeld als een uitputtende opsomming, doch slechts als voorbeeld. De garantie van de Nederlandse Regering is van kracht tot de obligaties en coupons die onder deze Overeenkomst vallen, verjaren krachtens de op enig ogenblik geldende Noorse wetgeving. Indien de obligaties echter een nominale waarde hebben die in verschillende valuta's is uitgedrukt of in een andere valuta dan Noorse Kronen, is de garantie eveneens van kracht tot de verjaring is ingegaan overeenkomstig de algemene voorschriften welke de betreffende schuldenaar toepast met betrekking tot vreemdelingen.
 
-#### Artikel II
+##### Artikel II
 
 Op basis van de Nederlandse „Wet op de Materiële Oorlogsschade” betaalt de Nederlandse Regering aan de Vereniging voor Scandinavische Zeemanshuizen in Buitenlandse Havens een schadeloosstelling ten bedrage van f 92 400 voor oorlogsschade aan het Scandinavisch Zeemanshuis te Rotterdam. Dit bedrag wordt verhoogd met 4 % rente per jaar voor de periode van 1 juni 1940 tot 1 maart 1950 en 3½ % rente per jaar van 1 maart 1950 tot en met 29 februari 1952.
 
-#### Artikel III
+##### Artikel III
 
 Deze Overeenkomst treedt in werking op de datum waarop elk der Regeringen van de andere Regering een nota heeft ontvangen waarin wordt medegedeeld, dat aan de grondwettelijke vereisten voor de inwerkingtreding van een dergelijke Overeenkomst is voldaan.
 

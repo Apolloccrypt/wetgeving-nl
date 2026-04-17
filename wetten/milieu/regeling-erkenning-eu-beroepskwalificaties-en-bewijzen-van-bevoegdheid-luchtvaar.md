@@ -1,18 +1,44 @@
 ---
-title: "Regeling erkenning EU-beroepskwalificaties en bewijzen van bevoegdheid luchtvaart"
+title: "Regeling inzake de erkenning van EG-beroepskwalificaties met betrekking tot de luchtvaart en de erkenning van buitenlandse bewijzen van bevoegdheid voor luchtverkeersleiders (Regeling erkenning EG-beroepskwalificaties en bewijzen van bevoegdheid voor de luchtvaart)"
 identifier: "BWBR0024135"
-categorie: "Milieu"
-publicatiedatum: 2016-01-23
-laatste_update: 2016-01-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024135"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2016-01-23"
+last_updated: "2016-01-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024135"
+soort: "ministeriele-regeling"
+stam_id: "9641493"
+version_id: "15551302"
+internal_id: "C21204041"
+label_id: "9618634"
+dtd_version: "2.0"
+original_entry_into_force: "2008-07-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024135/2016-01-23/0"
+intitule_bron: "Stcrt.2008-129"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-06-30"
+intitule_published: "2008-07-08"
+intitule_in_force: "2008-07-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-129"
+original_signed_date: "2008-06-30"
+original_published_date: "2008-07-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-129-p15-SC86508"
+entry_into_force_date: "2008-07-10"
+jci_1_3: "jci1.3:c:BWBR0024135&z=2016-01-23&g=2016-01-23"
+jci_1_0: "1.0:c:BWBR0024135&g=2016-01-23"
+citeertitel_status: "officieel"
+short_title: "Regeling erkenning EU-beroepskwalificaties en bewijzen van bevoegdheid luchtvaart"
+signed_date: "2008-06-30"
+entry_into_force: "2008-07-10"
 ---
-
 # Regeling inzake de erkenning van EG-beroepskwalificaties met betrekking tot de luchtvaart en de erkenning van buitenlandse bewijzen van bevoegdheid voor luchtverkeersleiders (Regeling erkenning EG-beroepskwalificaties en bewijzen van bevoegdheid voor de luchtvaart)
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -20,7 +46,7 @@ Minister: Minister van Infrastructuur en Milieu;
 
 wet: [Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066).
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling is van toepassing op
 
@@ -32,7 +58,7 @@ Deze regeling is van toepassing op
 
 #### § 2. Erkenning EG-beroepskwalificaties
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een aanvraag tot erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5) wordt ingediend bij de Minister.
 
@@ -40,7 +66,7 @@ Deze regeling is van toepassing op
 
 3. Indien het voor de vaststelling van wezenlijke verschillen als bedoeld in [artikel 11, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=11) noodzakelijk is, verstrekt de aanvrager op verzoek van de Minister tevens informatie over zijn opleiding, waarbij in ieder geval gegevens omtrent de totale cursusduur, de bestudeerde vakken, een globale leerstof omschrijving en de daarbij behorende studietijd is opgenomen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien de Minister op grond van [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=11) besluit dat een aanpassingsstage of een proeve van bekwaamheid noodzakelijk zijn, stelt de Minister de omvang en inhoud van de aanpassingsstage of de proeve van bekwaamheid vast.
 
@@ -48,11 +74,11 @@ Deze regeling is van toepassing op
 
 3. De Minister stelt vast binnen welke termijn de aanvrager de aanpassingsstage doorloopt dan wel de proeve van bekwaamheid aflegt.
 
-#### Artikel 5
+##### Artikel 5
 
 [Artikel 2.3, zesde lid, onderdelen d, e, en h, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.3) is van overeenkomstige toepassing op de beoordeling van de proeve van bekwaamheid of de aanpassingsstage.
 
-#### Artikel 6
+##### Artikel 6
 
 Een dienstverrichter als bedoeld in [artikel 21 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=21) verstrekt aan de Minister documenten, bedoeld in [artikel 23, eerste en derde lid, onderdelen a tot en met d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=23).
 
@@ -68,27 +94,27 @@ Besluit:
 
 #### § 2. Erkenning EU-beroepskwalificaties
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
 #### § 4. Slotbepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 [Paragraaf 4 van de Regeling certificering opleidingen en goedkeuring opleidingenplannen luchtverkeersdienstverlening en luchtvaartterreininformatieverstrekking](https://wetten.overheid.nl/jci1.3:c:BWBR0023882&paragraaf=4) vervalt.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst met dien verstande dat [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024135&paragraaf=1&z=2016-01-23&g=2016-01-23) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0024135&paragraaf=2&z=2016-01-23&g=2016-01-23) terugwerken tot en met 21 december 2007.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling erkenning EU-beroepskwalificaties en bewijzen van bevoegdheid luchtvaart.
 
 Deze regeling zal met de toelichting de in Staatscourant worden geplaatst.
 
-#### Artikel 7a
+##### Artikel 7a
 
 1. Een bewijs van bevoegdheid als bedoeld in [artikel 3.30 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.30) dat onder het toepassingsbereik valt van richtlijn nr. 2005/36/EG van het Europees Parlement en de Raad van de Europese Unie van 7 september 2005 betreffende de erkenning van beroepskwalificaties (PbEU L 255) en is afgegeven door een lidstaat van de Europese Unie, de Europese Economische Ruimte of door Zwitserland, wordt door de Minister erkend.
 

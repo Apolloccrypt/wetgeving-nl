@@ -1,20 +1,46 @@
 ---
-title: "Regeling vrijwilligerswerk in de WW"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 10 december 2014, 2014-0000185641, tot vaststelling van de Regeling vrijwilligerswerk in de Werkloosheidswet (Regeling vrijwilligerswerk in de WW)"
 identifier: "BWBR0035946"
-categorie: "Overig"
-publicatiedatum: 2019-01-01
-laatste_update: 2019-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035946"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2019-01-01"
+last_updated: "2019-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035946"
+soort: "ministeriele-regeling"
+stam_id: "12889503"
+version_id: "21926222"
+internal_id: "C31455891"
+label_id: "12858904"
+dtd_version: "2.0"
+original_entry_into_force: "2015-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035946/2019-01-01/0"
+intitule_bron: "Stcrt.2014-36337"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-12-10"
+intitule_published: "2014-12-18"
+intitule_in_force: "2014-12-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-36337"
+original_signed_date: "2014-12-10"
+original_published_date: "2014-12-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-36337"
+entry_into_force_date: "2015-01-01"
+jci_1_3: "jci1.3:c:BWBR0035946&z=2019-01-01&g=2019-01-01"
+jci_1_0: "1.0:c:BWBR0035946&g=2019-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling vrijwilligerswerk in de WW"
+signed_date: "2014-12-10"
+entry_into_force: "2015-01-01"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 10 december 2014, 2014-0000185641, tot vaststelling van de Regeling vrijwilligerswerk in de Werkloosheidswet (Regeling vrijwilligerswerk in de WW)
 
 Gelet op [artikel 8, zesde lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=8);
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -32,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 - **werklocatie:** een vestiging van de instelling indien de desbetreffende instelling meer dan één vestiging heeft.
 
-#### Artikel 2. Vrijwilligerswerk
+##### Artikel 2. Vrijwilligerswerk
 
 1. Er is sprake van vrijwilligerswerk als bedoeld in [artikel 8, eerste lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=8), indien:
 
@@ -46,7 +72,7 @@ In deze regeling wordt verstaan onder:
 
 3. Als vrijwilligerswerk wordt tevens aangemerkt onbetaalde arbeid die de persoon, die recht heeft op een uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), reeds voor zijn eerste werkloosheidsdag verrichtte, voor zover de werkzaamheden niet wijzigen en de omvang niet wordt uitgebreid.
 
-#### Artikel 3. Gebruikelijk onbetaalde werkzaamheden
+##### Artikel 3. Gebruikelijk onbetaalde werkzaamheden
 
 1. Gebruikelijk onbetaalde werkzaamheden zijn werkzaamheden die gedurende minimaal één jaar voorafgaand aan het moment van aanvang van het vrijwilligerswerk uitsluitend als onbetaalde arbeid werden verricht binnen de instelling op de desbetreffende werklocatie en waarvoor gedurende dat jaar geen vacatures voor werknemers hebben opengestaan.
 
@@ -58,15 +84,15 @@ In deze regeling wordt verstaan onder:
 
 3. Vergelijkbare instellingen als bedoeld in het tweede lid, zijn instellingen die hetzelfde doel nastreven en waarvan de activiteiten grotendeels overeenkomen met de activiteiten van de instelling waar de onbetaalde arbeid wordt verricht.
 
-#### Artikel 4. Samenloop met [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703)
+##### Artikel 4. Samenloop met [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703)
 
 Als vrijwilligerswerk wordt aangemerkt door het college van burgemeester en wethouders opgedragen onbeloonde maatschappelijk nuttige werkzaamheden als bedoeld in [artikel 9, eerste lid, onderdeel c, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=9).
 
-#### Artikel 5. Inwerkingtreding
+##### Artikel 5. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2015.
 
-#### Artikel 6. Citeertitel
+##### Artikel 6. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling vrijwilligerswerk in de WW.
 

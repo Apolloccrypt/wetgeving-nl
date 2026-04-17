@@ -1,14 +1,41 @@
 ---
-title: "Reparatiewet WtBK"
+title: "Wet van 1 december 2021, houdende wijziging van de Wet ter Bescherming Koopvaardij houdende aanpassingen in verband met het certificerings- en vergunningstelsel, de positie van particuliere beveiligers, de scheepsbeheerder en de kapitein, de verwerking van bijzondere persoonsgegevens en herstel van enkele onvolkomenheden (Reparatiewet WtBK)"
 identifier: "BWBR0046153"
-categorie: "Overig"
-publicatiedatum: 2022-02-01
-laatste_update: 2022-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046153"
+country: "nl"
+rank: "wet"
+publication_date: "2022-02-01"
+last_updated: "2022-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046153"
+soort: "wet"
+stam_id: "16220323"
+version_id: "28321562"
+internal_id: "C39926611"
+label_id: "16147884"
+dtd_version: "2.0"
+original_entry_into_force: "2022-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046153/2022-02-01/0"
+intitule_bron: "Stb.2022-2"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-12-01"
+intitule_published: "2022-01-04"
+intitule_in_force: "2022-01-04"
+intitule_status: "goed"
+original_publication: "Stb.2022-2"
+original_signed_date: "2021-12-01"
+original_published_date: "2022-01-04"
+original_effect: "nieuwe-regeling"
+original_dossier: "35811"
+original_url_id: "stb-2022-2"
+entry_into_force_date: "2022-02-01"
+jci_1_3: "jci1.3:c:BWBR0046153&z=2022-02-01&g=2022-02-01"
+jci_1_0: "1.0:c:BWBR0046153&g=2022-02-01"
+citeertitel_status: "officieel"
+short_title: "Reparatiewet WtBK"
+signed_date: "2021-12-01"
+entry_into_force: "2022-02-01"
 ---
-
-# Reparatiewet WtBK
+# Wet van 1 december 2021, houdende wijziging van de Wet ter Bescherming Koopvaardij houdende aanpassingen in verband met het certificerings- en vergunningstelsel, de positie van particuliere beveiligers, de scheepsbeheerder en de kapitein, de verwerking van bijzondere persoonsgegevens en herstel van enkele onvolkomenheden (Reparatiewet WtBK)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,15 +45,15 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 Treedt in werking op het tijdstip waarop de Wet ter Bescherming Koopvaardij in werking treedt.
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet ter Bescherming Koopvaardij.
 
-#### Artikel II
+##### Artikel II
 
 Deze wet treedt in werking op het tijdstip waarop de [Wet ter Bescherming Koopvaardij](https://wetten.overheid.nl/jci1.3:c:BWBR0042278) in werking treedt.
 
-#### Artikel III
+##### Artikel III
 
 Deze wet wordt aangehaald als: Reparatiewet WtBK.
 

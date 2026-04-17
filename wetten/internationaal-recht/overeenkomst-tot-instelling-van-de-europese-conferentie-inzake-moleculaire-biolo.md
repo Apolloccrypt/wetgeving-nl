@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst tot instelling van de Europese Conferentie inzake Moleculaire Biologie"
 identifier: "BWBV0004298"
-categorie: "Internationaal recht"
-publicatiedatum: 1970-04-02
-laatste_update: 1970-04-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004298"
+country: "nl"
+rank: "verdrag"
+publication_date: "1970-04-02"
+last_updated: "1970-04-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004298"
+soort: "verdrag"
+stam_id: "10004040943"
+version_id: "10004208752"
+internal_id: "C10008341491"
+label_id: "10004025574"
+dtd_version: "2.0"
+original_entry_into_force: "1970-04-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004298/1970-04-02/0"
+intitule_bron: "Trb.1969-102"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1969-07-11"
+intitule_in_force: "1970-05-13"
+intitule_status: "goed"
+original_publication: "Trb.1969-102"
+original_published_date: "1969-07-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1969-102"
+entry_into_force_date: "1970-04-02"
+jci_1_3: "jci1.3:c:BWBV0004298&z=1970-04-02&g=1970-04-02"
+jci_1_0: "1.0:c:BWBV0004298&g=1970-04-02"
+citeertitel_status: "redactioneel"
+entry_into_force: "1970-04-02"
 ---
-
 # Overeenkomst tot instelling van de Europese Conferentie inzake Moleculaire Biologie
 
 De Staten die partij zijn bij deze Overeenkomst,
@@ -22,11 +44,11 @@ Gelet op de aanvaarding door de Europese Organisatie inzake Moleculaire Biologie
 
 Zijn als volgt overeengekomen:
 
-#### Artikel I. Instelling van de Conferentie
+##### Artikel I. Instelling van de Conferentie
 
 Hierbij wordt een Europese Conferentie inzake Moleculaire Biologie, hierna te noemen „de Conferentie”, ingesteld.
 
-#### Artikel II. Doelstellingen
+##### Artikel II. Doelstellingen
 
 1. De Conferentie brengt tussen Europese Staten samenwerking tot stand bij het fundamenteel wetenschappelijk onderzoek zowel op het gebied van de moleculaire biologie als op andere daarmede nauw verband houdende terreinen van onderzoek.
 
@@ -46,7 +68,7 @@ Het Algemene Programma, of de wijze waarop het wordt uitgevoerd, kan bij een met
 
 Een Bijzonder Project dient door de Conferentie met een meerderheid van twee derde van de aanwezige Leden die hun stem uitbrengen te worden goedgekeurd. De uitvoering van een Bijzonder Project is het voorwerp van een bijzondere overeenkomst tussen de Staten die eraan deelnemen. Elk Lid heeft het recht op elk gewenst tijdstip nadien deel te nemen aan een reeds goedgekeurd Bijzonder Project.
 
-#### Artikel III. De Conferentie
+##### Artikel III. De Conferentie
 
 1. De Leden van de Conferentie zijn de Staten die partij zijn bij deze Overeenkomst.
 
@@ -54,7 +76,7 @@ Een Bijzonder Project dient door de Conferentie met een meerderheid van twee der
 
 3. De Conferentie kan, met eenparigheid van stemmen der aanwezige Leden die hun stem uitbrengen, samenwerking tot stand brengen met Staten die geen Lid zijn, met nationale instellingen of internationale gouvernementele of non-gouvernementele organisaties. De aan een zodanige samenwerking verbonden voorwaarden worden door de Conferentie met eenparigheid van stemmen der aanwezige Leden die hun stem uitbrengen vastgesteld, telkens naar gelang van de omstandigheden.
 
-#### Artikel IV. Procedure en taken van de Conferentie
+##### Artikel IV. Procedure en taken van de Conferentie
 
 1. De Conferentie komt eenmaal per jaar in gewone zitting bijeen. Zij kan, op verzoek van twee derde van alle Leden, tevens in buitengewone zitting bijeenkomen.
 
@@ -100,7 +122,7 @@ Een Bijzonder Project dient door de Conferentie met een meerderheid van twee der
 
 - (c). Om op een vergadering van de Conferentie een quorum te vormen is de aanwezigheid van afgevaardigden van de meerderheid van alle Leden noodzakelijk.
 
-#### Artikel V. De Secretaris-Generaal
+##### Artikel V. De Secretaris-Generaal
 
 1. De Conferentie benoemt, met een twee derde meerderheid van alle Leden en voor een vastgestelde ambtstermijn, een Secretaris-Generaal. Deze blijft in functie totdat zijn opvolger is benoemd. De Secretaris-Generaal staat de President van de Conferentie ter zijde en behartigt de lopende zaken tussen de zittingen, of kan alle maatregelen nemen die de activiteiten van de Conferentie op een bepaald ogenblik nodig maken.
 
@@ -116,7 +138,7 @@ Een Bijzonder Project dient door de Conferentie met een meerderheid van twee der
 
 3. Voor de uitvoering van zijn taak maakt de Secretaris-Generaal gebruik van de diensten van de EMBO.
 
-#### Artikel VI. De begroting
+##### Artikel VI. De begroting
 
 1. Elk jaar legt de Secretaris-Generaal uiterlijk op 1 oktober aan de Conferentie de jaarlijkse gewone begroting voor met betrekking tot het daaropvolgende boekjaar, dat loopt van 1 januari tot 31 december. Deze begroting geeft een overzicht van de uitgaven die voortvloeien uit de uitvoering van het Algemene Programma en van die welke verband houden met het functioneren van de Conferentie, alsmede een raming der inkomsten.
 
@@ -128,7 +150,7 @@ Een Bijzonder Project dient door de Conferentie met een meerderheid van twee der
 
 - (c). eventuele andere middelen, met name uit schenkingen door particuliere organisaties of personen, mits de Conferentie, met een twee derde meerderheid der aanwezige Leden die hun stem uitbrengen, daaraan vooraf haar goedkeuring heeft gehecht.
 
-#### Artikel VII. Bijdragen en accountantsonderzoek
+##### Artikel VII. Bijdragen en accountantsonderzoek
 
 1. Elk Lid draagt bij zowel in de kosten voortvloeiende uit de uitvoering van het Algemene Programma, als in die welke verband houden met het functioneren van de Conferentie, overeenkomstig een om de drie jaar door de Conferentie met een twee derde meerderheid van alle Leden vast te stellen verdeelsleutel, die is gebaseerd op het gemiddelde netto nationale inkomen tegen factorkosten van elk Lid over de laatste drie voorafgaande jaren waarover gegevens beschikbaar zijn.
 
@@ -140,11 +162,11 @@ Een Bijzonder Project dient door de Conferentie met een meerderheid van twee der
 
 5. De Secretaris-Generaal houdt nauwkeurig boek van alle ontvangsten en uitgaven. De Conferentie benoemt accountants voor het controleren van haar boeken en voor het onderzoeken, in overeenstemming met de Financiële Reglementen, van de boeken van de EMBO. De Secretaris-Generaal en de EMBO verstrekken de accountants alle inlichtingen en verlenen alle hulp die zij, voor de uitvoering van hun taak, kunnen verlangen.
 
-#### Artikel VIII. Regeling van geschillen
+##### Artikel VIII. Regeling van geschillen
 
 Elk geschil tussen twee of meer Leden met betrekking tot de uitlegging of de toepassing van deze Overeenkomst dat niet kan worden geregeld door tussenkomst van de Conferentie wordt, op verzoek van een der partijen bij het geschil, voorgelegd aan het Internationaal Gerechtshof, tenzij de betrokken Leden binnen een redelijke termijn overeenstemming bereiken over een andere wijze van regeling van het geschil.
 
-#### Artikel IX. Wijzigingen
+##### Artikel IX. Wijzigingen
 
 1. Deze Overeenkomst kan worden gewijzigd, indien ten minste twee derde van alle Leden een verzoek daartoe hebben ingediend.
 
@@ -154,11 +176,11 @@ Elk geschil tussen twee of meer Leden met betrekking tot de uitlegging of de toe
 
 4. Wijzigingen worden 30 dagen na nederlegging van de laatste schriftelijke kennisgeving van aanvaarding van kracht.
 
-#### Artikel X. Liquidatie
+##### Artikel X. Liquidatie
 
 Met inachtneming van eventuele afspraken tussen Leden ten aanzien van de liquidatie van de Conferentie, wordt de Secretaris-Generaal belast met de afwikkeling van alle zaken verband houdend met de liquidatie van de Conferentie. Tenzij de Conferentie anders beslist, wordt het overschot tussen de Leden verdeeld naar rato van de door hen sedert het tijdstip waarop zij partij bij deze Overeenkomst zijn geworden betaalde bijdragen. In het geval dat er een tekort is, wordt dit door de Leden aangezuiverd op basis van dezelfde verdeelsleutel als die welke gold bij het vaststellen van hun bijdragen voor het lopende boekjaar.
 
-#### Artikel XI. Slotbepalingen
+##### Artikel XI. Slotbepalingen
 
 1. Deze Overeenkomst staat open ter ondertekening door de Staten die haar hebben opgesteld.
 
@@ -196,7 +218,7 @@ Met inachtneming van eventuele afspraken tussen Leden ten aanzien van de liquida
 
 8. De Zwitserse Bondsraad laat deze Overeenkomst, nadat zij in werking is getreden, overeenkomstig het bepaalde in artikel 102 van het Handvest der Verenigde Naties, registreren bij de Secretaris-Generaal van de Verenigde Naties.
 
-#### Artikel XII. Overgangsbepalingen
+##### Artikel XII. Overgangsbepalingen
 
 1. Voor het tijdvak lopende van de inwerkingtreding van de Overeenkomst tot de daaropvolgende eenendertigste december, treft de Conferentie regelingen voor de begroting en worden de uitgaven bestreden uit aan de Lid-Staten opgelegde aanslagen, vastgesteld overeenkomstig het bepaalde in de twee volgende leden.
 

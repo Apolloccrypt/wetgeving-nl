@@ -1,28 +1,52 @@
 ---
 title: "Beleidsregel waterdichte afsluiting van dekopeningen van vissersvaartuigen"
 identifier: "BWBR0015293"
-categorie: "Milieu"
-publicatiedatum: 2003-08-10
-laatste_update: 2003-08-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015293"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2003-08-10"
+last_updated: "2003-08-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015293"
+soort: "beleidsregel"
+stam_id: "6234143"
+version_id: "10907162"
+internal_id: "C14780421"
+label_id: "6223204"
+original_entry_into_force: "2003-08-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015293/2003-08-10/0"
+intitule_bron: "Stcrt.2003-128"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-06-27"
+intitule_published: "2003-07-08"
+intitule_in_force: "2003-07-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2003-128"
+original_signed_date: "2003-06-27"
+original_published_date: "2003-07-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2003-128-p13-SC40671"
+entry_into_force_date: "2003-08-10"
+jci_1_3: "jci1.3:c:BWBR0015293&z=2003-08-10&g=2003-08-10"
+jci_1_0: "1.0:c:BWBR0015293&g=2003-08-10"
+citeertitel_status: "redactioneel"
+signed_date: "2003-06-27"
+entry_into_force: "2003-08-10"
 ---
-
 # Beleidsregel waterdichte afsluiting van dekopeningen van vissersvaartuigen
 
 Gelet op [artikel 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&artikel=2.3), en [artikel 2.6, eerste lid, van het Vissersvaartuigenbesluit 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&artikel=2.6);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Deze beleidsregel is van toepassing op vissersvaartuigen die zijn geregistreerd in het register,bedoeld in [artikel 4 van het Besluit registratie vissersvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0009353&artikel=4).
 
-#### Artikel 2
+##### Artikel 2
 
 In deze beleidsregel wordt verstaan onder een bak: de overdekte constructie op het werkdek die zich vanaf de voorsteven uitstrekt over een afstand die, vanuit de voorloodlijn gemeten, ten minste 7% van de lengte van het vaartuig bedraagt en waarvan de zijden over ten minste die afstand worden gevormd door de zijbeplating van het vaartuig.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De lengte van de bak wordt gemeten van het voorste punt van de bak, gelegen op hart schip op de aansnijding van het bakdek met de voorsteven, tot aan het 'einde' van de bak.
 
@@ -30,11 +54,11 @@ In deze beleidsregel wordt verstaan onder een bak: de overdekte constructie op h
 
 3. Bij een bak waarvan de zijden vanaf het hoogste punt eerst worden gevormd door de zijbeplating van het vaartuig en vervolgens worden voortgezet in de vorm van langsscheepse schotten die op een bepaalde afstand uit de zijde van het vaartuig zijn geplaatst, ligt het einde van de bak op een afstand 'S' gemeten uit het voorste punt van de bak, waarbij S = l - b1a/b2 volgens onderstaande figuur:
 
-#### Artikel 4
+##### Artikel 4
 
 Indien een vaartuig is voorzien van een bak waarvan de lengte minder bedraagt dan of gelijk is aan 15% van de lengte van het vaartuig, behoeft een dergelijke bak niet te worden afgesloten.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Indien een vaartuig is voorzien van een bak waarvan de lengte meer dan 15% maar minder dan 30% van de lengte van het vaartuig bedraagt, is de bak afgesloten door middel van een waterkerend schot van staal of gelijkwaardig materiaal.
 
@@ -58,7 +82,7 @@ Indien een vaartuig is voorzien van een bak waarvan de lengte minder bedraagt da
 
 - c. het spoelwater en klein visafval wordt vanaf het dek van de visverwerkingsruimte via spuiopeningen in het eindschot van de bovenbouw naar buiten geloosd.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Indien een vaartuig is voorzien van een bak waarvan de lengte meer bedraagt dan of gelijk is aan 30%van de lengte van het vaartuig, is een dergelijke bak afgesloten door middel van een geheel waterdicht schot van staal of gelijkwaardig materiaal.
 
@@ -66,17 +90,17 @@ Indien een vaartuig is voorzien van een bak waarvan de lengte minder bedraagt da
 
 3. Deuren in een waterdicht bakschot zijn als waterdichte deuren uitgevoerd. De deuren draaien naar buiten en zijn op zee zo veel mogelijk gesloten. De drempelhoogte bedraagt ten minste 380 mm.
 
-#### Artikel 7
+##### Artikel 7
 
 Indien in een waterdichte bak als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015293&artikel=6&z=2003-08-10&g=2003-08-10) een vissorteerinstallatie is aangebracht, wordt de vislading via een volledig waterdicht afsluitbaar luik naar de ruimte in de bak gevoerd. Dit luik is zo hoog mogelijk aangebracht in het waterdichte bakschot of in het bakdek.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Een vermindering van de hoogte van een luikhoofd op blootgestelde gedeelten van het werkdek als bedoeld in [artikel 2.6, eerste lid, van het Vissersvaartuigenbesluit 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&artikel=2.6) is toegestaan tot een hoogte van ten minste 400 mm indien dit luikhoofd zich voor het einde van de bak bevindt.
 
 2. Indien de ruimten onder de in het eerste lid bedoelde luikhoofden waterdichte ruimten zijn die zijn bedoeld voor het bewaren van vis en het vaartuig nog aan de stabiliteitscriteria voldoet indien die ruimten vol zeewater gerekend worden, kan de hoogte van de luikhoofden nul mm bedragen.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze beleidsregel treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 

@@ -1,28 +1,52 @@
 ---
 title: "Beleidsregel goedkeuring wijzigingen van luchtvaartuigen"
 identifier: "BWBR0009605"
-categorie: "Milieu"
-publicatiedatum: 1998-05-31
-laatste_update: 1998-05-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009605"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "1998-05-31"
+last_updated: "1998-05-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009605"
+soort: "beleidsregel"
+stam_id: "4774973"
+version_id: "6581252"
+internal_id: "C7038491"
+label_id: "4753064"
+dtd_version: "2.0"
+original_entry_into_force: "1998-05-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009605/1998-05-31/0"
+intitule_bron: "Stcrt.1998-99"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-05-11"
+intitule_published: "1998-05-29"
+intitule_in_force: "1998-05-29"
+intitule_status: "goed"
+original_publication: "Stcrt.1998-99"
+original_signed_date: "1998-05-11"
+original_published_date: "1998-05-29"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1998-05-31"
+jci_1_3: "jci1.3:c:BWBR0009605&z=1998-05-31&g=1998-05-31"
+jci_1_0: "1.0:c:BWBR0009605&g=1998-05-31"
+citeertitel_status: "officieel"
+signed_date: "1998-05-11"
+entry_into_force: "1998-05-31"
 ---
-
 # Beleidsregel goedkeuring wijzigingen van luchtvaartuigen
 
 Gelet op [artikel 89, eerste lid, van de Regeling Toezicht Luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&artikel=89);
 
 Maakt bekend:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze beleidsregel wordt verstaan onder:
 
-#### Artikel 2
+##### Artikel 2
 
 Met het ontwerp van een wijziging van een luchtvaartuig wordt als typewijziging ingestemd, nadat is aangetoond dat het gewijzigde luchtvaartuig voldoet aan de luchtwaardigheidseisen, bedoeld in de [artikelen 72 tot en met 74 van de Regeling Toezicht Luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&artikel=72).
 
-#### Artikel 3
+##### Artikel 3
 
 1. Met het ontwerp van een wijziging van een luchtvaartuig wordt geacht te zijn ingestemd indien:
 
@@ -78,7 +102,7 @@ Met het ontwerp van een wijziging van een luchtvaartuig wordt als typewijziging 
 
 - f. de Service Informatie.
 
-#### Artikel 4
+##### Artikel 4
 
 Met het ontwerp voor een wijziging van een luchtvaartuig wordt geacht te zijn ingestemd, indien:
 
@@ -92,7 +116,7 @@ Met het ontwerp voor een wijziging van een luchtvaartuig wordt geacht te zijn in
 
 - e. het erkende bedrijf heeft vastgesteld dat de wijziging geen invloed heeft op de gegevens van het luchtvaartuig die zijn vastgelegd in het Nederlandse luchtvaartuigregister of het door de Rijksluchtvaartdienst uitgegeven vlieghandboek, dan wel dat de gewijzigde configuratie is gemeld aan de Minister.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De aanvraag voor:
 
@@ -114,15 +138,15 @@ Met het ontwerp voor een wijziging van een luchtvaartuig wordt geacht te zijn in
 
 8. Verkregen instemming met de in het eerste lid genoemde aanvraag blijkt uit een RLD-stempel en een handtekening namens de Minister op het GWL-formulier.
 
-#### Artikel 6
+##### Artikel 6
 
 De beleidsregel van de Directeur-Generaal van de Rijksluchtvaartdienst van 25 maart 1981, nr. LI/L 21377 (Stcrt. 1981, 64), zoals opnieuw vastgesteld bij de regeling van de Minister van Verkeer en Waterstaat van 20 maart 1998, nr. DGRLD/JBZ/L 98.10138, Stcrt. 1998, 60, wordt ingetrokken.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze beleidsregel treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 december 1997.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel goedkeuring wijzigingen van luchtvaartuigen.
 

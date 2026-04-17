@@ -1,13 +1,35 @@
 ---
 title: "Controleprotocol nacalculatie 2022 Wlz-zorgaanbieders"
 identifier: "BWBR0047966"
-categorie: "Sociaal recht"
-publicatiedatum: 2023-03-17
-laatste_update: 2023-03-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047966"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-03-17"
+last_updated: "2023-03-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047966"
+soort: "zbo"
+stam_id: "16694693"
+version_id: "29286442"
+internal_id: "C41716121"
+label_id: "16612554"
+dtd_version: "2.0"
+original_entry_into_force: "2023-03-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047966/2023-03-17/0"
+intitule_bron: "Stcrt.2023-8145"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2023-03-17"
+intitule_in_force: "2023-03-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-8145"
+original_published_date: "2023-03-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-8145"
+entry_into_force_date: "2023-03-17"
+jci_1_3: "jci1.3:c:BWBR0047966&z=2023-03-17&g=2023-03-17"
+jci_1_0: "1.0:c:BWBR0047966&g=2023-03-17"
+citeertitel_status: "redactioneel"
+entry_into_force: "2023-03-17"
 ---
-
 # Controleprotocol nacalculatie 2022 Wlz-zorgaanbieders
 
 Versie 1, maart 2023

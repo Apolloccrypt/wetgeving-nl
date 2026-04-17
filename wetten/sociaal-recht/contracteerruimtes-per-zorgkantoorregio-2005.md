@@ -1,13 +1,37 @@
 ---
 title: "Contracteerruimtes per zorgkantoorregio 2005"
 identifier: "BWBR0017670"
-categorie: "Sociaal recht"
-publicatiedatum: 2004-12-17
-laatste_update: 2004-12-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0017670"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2004-12-17"
+last_updated: "2004-12-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0017670"
+soort: "beleidsregel"
+stam_id: "6697593"
+version_id: "11532922"
+internal_id: "C15550361"
+label_id: "6685994"
+original_entry_into_force: "2004-12-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0017670/2004-12-17/0"
+intitule_bron: "Stcrt.2004-242"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-12-10"
+intitule_published: "2004-12-15"
+intitule_in_force: "2004-12-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2004-242"
+original_signed_date: "2004-12-10"
+original_published_date: "2004-12-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2004-242-p32-SC67980"
+entry_into_force_date: "2004-12-17"
+jci_1_3: "jci1.3:c:BWBR0017670&z=2004-12-17&g=2004-12-17"
+jci_1_0: "1.0:c:BWBR0017670&g=2004-12-17"
+citeertitel_status: "redactioneel"
+signed_date: "2004-12-10"
+entry_into_force: "2004-12-17"
 ---
-
 # Contracteerruimtes per zorgkantoorregio 2005
 
 Gelet op [artikel 13 van de Wet tarieven gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0003356&artikel=13);
@@ -16,11 +40,11 @@ Na schriftelijk mededeling te hebben gedaan aan de Eerste en Tweede Kamer der St
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Dit besluit is van toepassing op organen voor gezondheidszorg als vermeld in [artikel 1, onder A, nummers 10, 16a en 16b van het Besluit werkingssfeer WTG 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005342&artikel=1). Ter uitvoering van de artikelen 3 tot en met 6 van dit besluit stelt het College tarieven gezondheidszorg beleidsregels vast voor de in de eerste volzin bedoelde organen.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze beleidsregel verstaat onder:
 
@@ -30,7 +54,7 @@ Deze beleidsregel verstaat onder:
 
 - c. contracteerruimte per zorgkantoorregio: het aan een zorgkantoorregio toegerekende aandeel in de totale contracteerruimte.
 
-#### Artikel 3
+##### Artikel 3
 
 Het College berekent de totale contracteerruimte, als bedoeld in [artikel 2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017670&artikel=2&z=2004-12-17&g=2004-12-17), voor het jaar 2005 als volgt:
 
@@ -70,7 +94,7 @@ Het College berekent de totale contracteerruimte, als bedoeld in [artikel 2, ond
 
 - i. het College indexeert de uitkomst na toepassing van h. naar het prijspeil 2005.
 
-#### Artikel 4
+##### Artikel 4
 
 Het College verdeelt de totale contracteerruimte over zorgkantoorregio's, stelt voor iedere zorgkantoorregio de contracteerruimte vast en deelt deze mede aan de uitvoeringsorganen. Het College hanteert bij de verdeling de volgende uitgangspunten:
 
@@ -80,7 +104,7 @@ Het College verdeelt de totale contracteerruimte over zorgkantoorregio's, stelt 
 
 - c. het College kan binnen de totale contracteerruimte op basis van een tweezijdig verzoek contracteerruimte overhevelen tussen individuele zorgkantoren.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het College toetst per zorgkantoorregio de totale financiële gevolgen van productieafspraken aan de contracteerruimte die voor dat betreffende zorgkantoor in de regio is vastgesteld. Voor deze toetsing zijn niet relevant:
 
@@ -94,13 +118,13 @@ Het College verdeelt de totale contracteerruimte over zorgkantoorregio's, stelt 
 
 2. Indien het College constateert dat de netto kosten van de gemaakte productieafspraken de contracteerruimte van het zorgkantoor overschrijden, wordt de overschrijding op de contracteerruimte niet gehonoreerd. In zijn beleidsregels werkt het College uit hoe dit uitwerkt per instelling.
 
-#### Artikel 6
+##### Artikel 6
 
 1. In het kader van de uitvoering van het urgentieplan justitiële jeugdinrichtingen is maximaal € 5,0 miljoen beschikbaar voor extra extramurale GGZ-zorg.
 
 2. Voor toeslagen voor zware zorg in verpleeghuizen is maximaal een bedrag van € 15,0 mln. beschikbaar.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze beleidsregel treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin hij wordt geplaatst.
 

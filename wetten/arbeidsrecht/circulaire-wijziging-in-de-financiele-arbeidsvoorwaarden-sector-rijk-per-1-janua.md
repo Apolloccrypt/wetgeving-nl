@@ -1,13 +1,38 @@
 ---
 title: "Circulaire Wijziging in de financiële arbeidsvoorwaarden sector Rijk per 1 januari 2008"
 identifier: "BWBR0023083"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2008-01-01
-laatste_update: 2008-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0023083"
+country: "nl"
+rank: "circulaire"
+publication_date: "2008-01-01"
+last_updated: "2008-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023083"
+soort: "circulaire"
+stam_id: "9331733"
+version_id: "14995442"
+internal_id: "C20407451"
+label_id: "9310374"
+dtd_version: "2.0"
+original_entry_into_force: "2008-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023083/2008-01-01/0"
+intitule_bron: "Stcrt.2007-247"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-12-05"
+intitule_published: "2007-12-20"
+intitule_in_force: "2007-12-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-247"
+original_signed_date: "2007-12-05"
+original_published_date: "2007-12-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2007-247-p10-SC83576"
+entry_into_force_date: "2008-01-01"
+jci_1_3: "jci1.3:c:BWBR0023083&z=2008-01-01&g=2008-01-01"
+jci_1_0: "1.0:c:BWBR0023083&g=2008-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "2007-12-05"
+entry_into_force: "2008-01-01"
 ---
-
 # Circulaire Wijziging in de financiële arbeidsvoorwaarden sector Rijk per 1 januari 2008
 
 ### Inleiding

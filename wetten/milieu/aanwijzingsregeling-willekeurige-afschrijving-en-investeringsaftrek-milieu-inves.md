@@ -1,13 +1,39 @@
 ---
-title: "Aanwijzingsregeling willekeurige afschrijving en investeringsaftrek milieu-investeringen 2009"
+title: "Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 9 februari 2009, nr. DGM/K&L2009006710, houdende regels inzake aanwijzing van investeringen die in het belang zijn van het Nederlandse milieu (Aanwijzingsregeling willekeurige afschrijving en investeringsaftrek milieu-investeringen)"
 identifier: "BWBR0025316"
-categorie: "Milieu"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0025316"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0025316"
+soort: "ministeriele-regeling"
+stam_id: "9907053"
+version_id: "22915142"
+internal_id: "C33138741"
+label_id: "9883454"
+dtd_version: "2.0"
+original_entry_into_force: "2015-12-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0025316/2026-01-01/0"
+intitule_bron: "Stcrt.2009-32"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-02-09"
+intitule_published: "2009-02-17"
+intitule_in_force: "2009-02-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-45868"
+original_signed_date: "2015-12-15"
+original_published_date: "2015-12-30"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2015-45868"
+entry_into_force_date: "2015-12-15"
+jci_1_3: "jci1.3:c:BWBR0025316&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0025316&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Aanwijzingsregeling willekeurige afschrijving en investeringsaftrek milieu-investeringen 2009"
+signed_date: "2015-12-15"
+entry_into_force: "2015-12-15"
 ---
-
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 9 februari 2009, nr. DGM/K&L2009006710, houdende regels inzake aanwijzing van investeringen die in het belang zijn van het Nederlandse milieu (Aanwijzingsregeling willekeurige afschrijving en investeringsaftrek milieu-investeringen)
 
 Handelende in overeenstemming met de Staatssecretaris van Financiën en na overleg met de Ministers van Economische Zaken en, voor zover het betreft [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=2&z=2026-01-01&g=2026-01-01), van Landbouw, Natuur en Voedselkwaliteit;
@@ -16,7 +42,7 @@ Gelet op de [artikelen 3.31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -36,21 +62,21 @@ In deze regeling wordt verstaan onder:
 
 - **verordening (EU) nr. 508/2014:** Verordening (EU) nr. 508/2014 van het Europees parlement en de Raad van 15 mei 2014 inzake het Europees Fonds voor maritieme zaken en visserij en tot intrekking van de Verordeningen (EG) nr. 2328/2003, (EG) nr. 861/2006, (EG) nr. 1198/2006 en (EG) nr. 791/2007 van de Raad en Verordening (EU) nr. 1255/2011 van het Europees Parlement en de Raad (Pb EU 2014, L 149).
 
-#### Artikel 2. Milieu-investeringsaftrek
+##### Artikel 2. Milieu-investeringsaftrek
 
 Als investeringen, behorend tot categorie I, II respectievelijk III, in het belang van de bescherming van het Nederlandse milieu als bedoeld in [artikel 3.42a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a) worden aangewezen de investeringen in bedrijfsmiddelen of onderdelen daarvan, die zijn opgenomen in de bijlage bij deze regeling en die voldoen aan de in [artikel 1a, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=1a&z=2026-01-01&g=2026-01-01), genoemde voorwaarden.
 
-#### Artikel 3. Uitzondering
+##### Artikel 3. Uitzondering
 
 1. Investeringen in bedrijfsmiddelen opgenomen in de bijlage bij deze regeling komen in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving voor niet meer dan € 25 miljoen per belastingplichtige per jaar en per bedrijfsmiddel, tenzij in de bijlage voor een bedrijfsmiddel een lager maximumbedrag is opgenomen.
 
 2. Indien een belastingplichtige met betrekking tot een of meer voorgaande jaren reeds een beroep heeft gedaan op milieu-investeringsaftrek of willekeurige afschrijving voor een investering in hetzelfde bedrijfsmiddel, wordt het investeringsbedrag ter zake waarvan reeds een beroep is gedaan op milieu-investeringsaftrek of willekeurige afschrijving in mindering gebracht op het maximuminvesteringsbedrag voor dat bedrijfsmiddel, bedoeld in het eerste lid, of op het maximuminvesteringsbedrag voor dat bedrijfsmiddel dat is opgenomen in de bijlage bij deze regeling.
 
-#### Artikel 4. Inwerkingtreding
+##### Artikel 4. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 1 januari 2009.
 
-#### Artikel 5. Citeertitel
+##### Artikel 5. Citeertitel
 
 Deze regeling wordt aangehaald als: Aanwijzingsregeling willekeurige afschrijving en investeringsaftrek milieu-investeringen 2009.
 
@@ -2042,7 +2068,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a. Willekeurige afschrijving milieu-investeringen
+##### Artikel 1a. Willekeurige afschrijving milieu-investeringen
 
 Als milieubedrijfsmiddelen als bedoeld in [artikel 3.31, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.31) worden aangewezen de bedrijfsmiddelen of onderdelen daarvan, opgenomen in de bijlage bij deze regeling, indien:
 
@@ -2056,7 +2082,7 @@ Als milieubedrijfsmiddelen als bedoeld in [artikel 3.31, eerste lid, van de Wet 
 
 - e. zij, indien het bedrijfsmiddelen of onderdelen daarvan in landbouwbedrijven betreft, niet gericht zijn op een productieverhoging waarvoor op de markt geen normale afzetmogelijkheden kunnen worden gevonden.
 
-#### Artikel 2a. Afwijkingsgronden
+##### Artikel 2a. Afwijkingsgronden
 
 In afwijking van de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=1a&z=2026-01-01&g=2026-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=2&z=2026-01-01&g=2026-01-01) worden bedrijfsmiddelen of onderdelen daarvan, dan wel investeringen in bedrijfsmiddelen of onderdelen daarvan niet aangewezen indien:
 
@@ -2080,7 +2106,7 @@ In afwijking van de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR00253
 
 - 4°. de [Subsidieregeling schoon en emissieloos bouwmaterieel](https://wetten.overheid.nl/jci1.3:c:BWBR0046464).
 
-#### Artikel 3a. Transparantie
+##### Artikel 3a. Transparantie
 
 1. Ingeval de staatssteun, die op grond van deze regeling wordt verkregen voor een investering in een aangewezen bedrijfsmiddel door een begunstigde die actief is in de sector van primaire landbouwproductie, meer bedraagt dan € 10.000, maakt de Minister van Infrastructuur en Waterstaat de gegevens, genoemd in bijlage III van de Landbouwvrijstellingsverordening, bekend.
 

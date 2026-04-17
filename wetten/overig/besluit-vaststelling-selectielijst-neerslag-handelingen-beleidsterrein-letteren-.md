@@ -1,13 +1,38 @@
 ---
 title: "Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Letteren vanaf 1965 (Stichting fonds voor de Letteren)"
 identifier: "BWBR0023600"
-categorie: "Overig"
-publicatiedatum: 2008-03-14
-laatste_update: 2008-03-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0023600"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2008-03-14"
+last_updated: "2008-03-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023600"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "9445683"
+version_id: "15209662"
+internal_id: "C25322991"
+label_id: "9423144"
+dtd_version: "2.0"
+original_entry_into_force: "2008-03-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023600/2008-03-14/0"
+intitule_bron: "Stcrt.2008-51"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-02-28"
+intitule_published: "2008-03-12"
+intitule_in_force: "2008-03-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-51"
+original_signed_date: "2008-02-28"
+original_published_date: "2008-03-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-51-p15-SC84764"
+entry_into_force_date: "2008-03-14"
+jci_1_3: "jci1.3:c:BWBR0023600&z=2008-03-14&g=2008-03-14"
+jci_1_0: "1.0:c:BWBR0023600&g=2008-03-14"
+citeertitel_status: "redactioneel"
+signed_date: "2008-02-28"
+entry_into_force: "2008-03-14"
 ---
-
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Letteren vanaf 1965 (Stichting fonds voor de Letteren)
 
 Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
@@ -16,11 +41,11 @@ De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 30 januari 200
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van het Stichting fonds voor de Letteren en de onder hem ressorterende actoren op het beleidsterrein Letteren over de periode vanaf 1965’ en de daarbij behorende toelichting worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

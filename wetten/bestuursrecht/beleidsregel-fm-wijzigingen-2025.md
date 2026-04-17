@@ -1,16 +1,38 @@
 ---
 title: "Beleidsregel FM-wijzigingen 2025"
 identifier: "BWBR0051141"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-09-01
-laatste_update: 2025-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051141"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2025-09-01"
+last_updated: "2025-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051141"
+soort: "beleidsregel"
+stam_id: "17453723"
+version_id: "30780992"
+internal_id: "C44121611"
+label_id: "17356554"
+dtd_version: "2.0"
+original_entry_into_force: "2025-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051141/2025-09-01/0"
+intitule_bron: "Stcrt.2025-20968"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2025-06-30"
+intitule_in_force: "2025-06-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-20968"
+original_published_date: "2025-06-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-20968"
+entry_into_force_date: "2025-09-01"
+jci_1_3: "jci1.3:c:BWBR0051141&z=2025-09-01&g=2025-09-01"
+jci_1_0: "1.0:c:BWBR0051141&g=2025-09-01"
+citeertitel_status: "officieel"
+entry_into_force: "2025-09-01"
 ---
-
 # Beleidsregel FM-wijzigingen 2025
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In de Beleidsregel FM-wijzigingen 2025 wordt verstaan onder:
 
@@ -44,7 +66,7 @@ In de Beleidsregel FM-wijzigingen 2025 wordt verstaan onder:
 
 - o. **zerobase-norm:** de norm zoals opgenomen in de bijlagen bij de vergunning. Dit is de frequentieplanningsnorm waarmee een verzorgingsgebied voor een vergunning wordt berekend.
 
-#### Artikel 2. Behandeling wijzigingsverzoeken
+##### Artikel 2. Behandeling wijzigingsverzoeken
 
 Elk wijzigingsverzoek doorloopt het volgende proces.
 
@@ -74,7 +96,7 @@ Elk wijzigingsverzoek doorloopt het volgende proces.
 
 - 11. Voor een besluit tot wijziging van de vergunning wordt een vergoeding vastgesteld conform de [Regeling vergoedingen Rijksinspectie Digitale Infrastructuur](https://wetten.overheid.nl/jci1.3:c:BWBR0050318).
 
-#### Artikel 3. Toetsingscriteria voor wijziging vergunning
+##### Artikel 3. Toetsingscriteria voor wijziging vergunning
 
 Wijziging van een vergunning is alleen toegestaan, als aan alle volgende vereisten is voldaan:
 
@@ -88,7 +110,7 @@ Wijziging van een vergunning is alleen toegestaan, als aan alle volgende vereist
 
 - e. Na wijziging is sprake van doelmatig frequentiegebruik zoals nader bepaald in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0051141&artikel=9&z=2025-09-01&g=2025-09-01).
 
-#### Artikel 4. Geen storing voor andere nationale vergunninghouders na wijziging
+##### Artikel 4. Geen storing voor andere nationale vergunninghouders na wijziging
 
 Er is geen sprake van een storing, als aan alle volgende vereisten is voldaan:
 
@@ -98,7 +120,7 @@ Er is geen sprake van een storing, als aan alle volgende vereisten is voldaan:
 
 - c. De groene en paarse gebieden van frequenties met reserveringen, zoals vermeld in de database van de RDI, worden niet aangetast.
 
-#### Artikel 5. Internationale coördinatie voor het verwerven van frequentierechten
+##### Artikel 5. Internationale coördinatie voor het verwerven van frequentierechten
 
 1. Een wijziging van een vergunning wordt voorgelegd voor internationale coördinatie aan omliggende landen om hiermee in te stemmen, indien dit volgens Genève ’84 noodzakelijk is.
 
@@ -106,7 +128,7 @@ Er is geen sprake van een storing, als aan alle volgende vereisten is voldaan:
 
 3. Indien een aanvrager kan aantonen dat een wijziging van de vergunning noodzakelijk is en als naar het oordeel van de RDI het zeer waarschijnlijk is dat een wijziging geen consequenties heeft voor de omliggende landen, dan kan de RDI, in afwijking van het tweede lid, de wijziging tijdelijk op NIB met half vermogen (e.r.p.) in combinatie met artikel 4.7 Genève ’84, toestaan voordat de internationale coördinatie is doorlopen.
 
-#### Artikel 6. Object van de vergunning landelijke commerciële radio-omroep
+##### Artikel 6. Object van de vergunning landelijke commerciële radio-omroep
 
 Het object van de vergunning voor landelijke commerciële radio-omroep wijzigt niet in betekenende mate als aan alle volgende vereisten is voldaan:
 
@@ -114,7 +136,7 @@ Het object van de vergunning voor landelijke commerciële radio-omroep wijzigt n
 
 - b. Indien het wijzigingsverzoek ziet op verplaatsing van een opstelpunt, dan dient er na verplaatsing van het opstelpunt sprake te zijn van overlap op de groene gebieden en/of de paarse gebieden van de vergunning van de aanvrager op de peildatum.
 
-#### Artikel 7. Object van de vergunning niet-landelijke commerciële radio-omroep
+##### Artikel 7. Object van de vergunning niet-landelijke commerciële radio-omroep
 
 1. Het object van de vergunning voor niet-landelijke commerciële radio-omroep wijzigt niet in betekenende mate als aan alle volgende vereisten is voldaan:
 
@@ -124,11 +146,11 @@ Het object van de vergunning voor landelijke commerciële radio-omroep wijzigt n
 
 2. Wijziging van een vergunning voor niet-landelijke commerciële radio-omroep moet in overeenstemming zijn met [artikel 5, eerste lid van de Tijdelijke regeling gebruiksbeperking commerciële radio-omroep](https://wetten.overheid.nl/jci1.3:c:BWBR0043213&artikel=5).
 
-#### Artikel 8. Object van de vergunning publieke radio-omroep
+##### Artikel 8. Object van de vergunning publieke radio-omroep
 
 Het object van de vergunning voor een publieke radio-omroep wijzigt niet in betekenende mate als het verzoek betrekking heeft op gebieden binnen het wettelijke verzorgingsgebied, zoals bedoeld in [artikel 3.7 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.7), van die omroep.
 
-#### Artikel 9. Wisselen en toevoegen van frequenties
+##### Artikel 9. Wisselen en toevoegen van frequenties
 
 1. Een wijzigingsverzoek tot wijziging van een netgebonden frequentie naar een netonafhankelijke frequentie wordt afgewezen.
 
@@ -140,7 +162,7 @@ Het object van de vergunning voor een publieke radio-omroep wijzigt niet in bete
 
 5. Toegevoegde netgebonden frequenties krijgen een indicatie ‘netgebonden’ in de bijlage van de vergunning.
 
-#### Artikel 10. Ingebruiknameverplichting en melding ingebruikname
+##### Artikel 10. Ingebruiknameverplichting en melding ingebruikname
 
 1. Bij een wijziging van een opstelpunt of toevoeging van een nieuw opstelpunt of een frequentie dient de vergunninghouder binnen zes maanden na het besluit deze wijziging of toevoeging in gebruik te nemen en melding te doen van de feitelijke wijziging of ingebruikname van het nieuwe of verplaatste opstelpunt of de frequentie.
 
@@ -148,11 +170,11 @@ Het object van de vergunning voor een publieke radio-omroep wijzigt niet in bete
 
 3. Indien deze ingebruikname of deze melding niet heeft plaatsgevonden, kan de vergunning ambtshalve worden gewijzigd zodat de toegekende wijziging wordt teruggedraaid.
 
-#### Artikel 11. Tijdelijke stop voor wijzigingsverzoeken
+##### Artikel 11. Tijdelijke stop voor wijzigingsverzoeken
 
 Bij een aanstaande verdeel- of verlengingsprocedure kan een tijdelijke stop voor wijzigingsverzoeken worden bekendgemaakt.
 
-#### Artikel 12. Citeertitel en inwerkingtreding
+##### Artikel 12. Citeertitel en inwerkingtreding
 
 Deze beleidsregel wordt aangehaald als ‘Beleidsregel FM-wijzigingen 2025’ en treedt in werking op 1 september 2025 en geldt voor wijzigingsverzoeken die worden ingediend na inwerkingtreding van deze beleidsregel.
 

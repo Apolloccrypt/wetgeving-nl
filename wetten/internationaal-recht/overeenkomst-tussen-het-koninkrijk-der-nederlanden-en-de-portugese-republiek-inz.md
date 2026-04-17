@@ -1,56 +1,81 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Portugese Republiek inzake culturele en wetenschappelijke samenwerking"
 identifier: "BWBV0002187"
-categorie: "Internationaal recht"
-publicatiedatum: 1985-11-02
-laatste_update: 1985-11-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002187"
+country: "nl"
+rank: "verdrag"
+publication_date: "1985-11-02"
+last_updated: "1985-11-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002187"
+soort: "verdrag"
+stam_id: "10002689953"
+version_id: "10002688682"
+internal_id: "C10006978321"
+label_id: "10002678134"
+dtd_version: "2.0"
+original_entry_into_force: "1985-11-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002187/1985-11-02/0"
+intitule_bron: "Trb.1985-3"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1985-08-23"
+intitule_published: "1985-01-11"
+intitule_in_force: "1985-09-30"
+intitule_status: "goed"
+original_publication: "Trb.1985-3"
+original_signed_date: "1985-08-23"
+original_published_date: "1985-01-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1985-3"
+entry_into_force_date: "1985-11-02"
+jci_1_3: "jci1.3:c:BWBV0002187&z=1985-11-02&g=1985-11-02"
+jci_1_0: "1.0:c:BWBV0002187&g=1985-11-02"
+citeertitel_status: "officieel"
+signed_date: "1985-08-23"
+entry_into_force: "1985-11-02"
 ---
-
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Portugese Republiek inzake culturele en wetenschappelijke samenwerking
 
 De Regering van het Koninkrijk der Nederlanden en de Regering van de Portugese Republiek, de wens koesterende de tussen de beide landen bestaande vriendschappelijke betrekkingen te versterken en de kennis van elkaars cultuur te bevorderen en zodoende bij te dragen tot een beter begrip tussen de beide volkeren, zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 De Overeenkomstsluitende Partijen zullen trachten de samenwerking op de gebieden van onderwijs, wetenschap en cultuur in het algemeen te bevorderen.
 
-#### Artikel 2
+##### Artikel 2
 
 De Overeenkomstsluitende Partijen zullen de samenwerking tussen de onderscheiden instellingen en organen in de twee landen die verantwoordelijk zijn voor onderwijs en wetenschappelijk onderzoek, bevorderen. Hiertoe zullen zij de uitwisseling stimuleren van studenten, onderzoekers, wetenschapsbeoefenaren en docenten, alsmede de uitwisseling van documentatie en resultaten van proefnemingen op het gebied van wetenschappelijk onderzoek (met name in het kader van gemeenschappelijke projecten).
 
 Ter uitvoering van dit artikel, zal elk van de Partijen aan de onderdanen van de andere Partij de noodzakelijke faciliteiten verlenen inzake binnenkomst en verblijf, zulks overeenkomstig de in elk van beide landen geldende wetten en voorschriften.
 
-#### Artikel 3
+##### Artikel 3
 
 De Overeenkomstsluitende Partijen zullen studiebeurzen verlenen aan onderdanen van het andere land voor studie en onderzoek en voor het volgen van beroepsstages.
 
-#### Artikel 4
+##### Artikel 4
 
 De Overeenkomstsluitende Partijen hechten groot belang aan het onderwijs van hun taal en cultuur in het andere land. Te dien einde zullen zij alle nodige steun verlenen aan de reeds bestaande leerstoelen, lectoraten en docentschappen en zullen trachten hun aantal uit te breiden als de omstandigheden dit mochten rechtvaardigen. Voorts zullen zij de uitwisseling en samenwerking tussen studenten, wetenschapsbeoefenaren en docenten bevorderen, evenals de uitwisseling van informatie, leermateriaal en publicaties van letterkundige of wetenschappelijke aard.
 
-#### Artikel 5
+##### Artikel 5
 
 Elk van de Overeenkomstsluitende Partijen zal zich inzetten voor de organisatie van het onderwijs in de taal, de letterkunde en de cultuur van de andere Partij, hetzij middels onderwijsinstellingen in zijn land, hetzij andere hem ter beschikking staande middelen.
 
-#### Artikel 6
+##### Artikel 6
 
 De Overeenkomstsluitende Partijen hechten groot belang aan de wederzijdse erkenning van diploma's, universitaire titels en studies gevolgd door hun onderdanen binnen het grondgebied van de andere Partij en hiervan uitgaande zullen zij trachten gezamenlijk de mogelijkheid te bestuderen om een specifieke overeenkomst te sluiten.
 
-#### Artikel 7
+##### Artikel 7
 
 De Overeenkomstsluitende Partijen zullen speciale aandacht schenken aan de beeldvorming van het andere land, in het bijzonder in leerboeken.
 
-#### Artikel 8
+##### Artikel 8
 
 De Overeenkomstsluitende Partijen zullen de uitwisseling van deskundigen en van informatie op onderwijskundig en didactisch terrein bevorderen.
 
-#### Artikel 9
+##### Artikel 9
 
 De Overeenkomstsluitende Partijen zullen de verwezenlijking van gezamenlijke culturele manifestaties bevorderen.
 
-#### Artikel 10
+##### Artikel 10
 
 De Overeenkomstsluitende Partijen zullen de samenwerking tussen de twee landen op het gebied van kunst en cultuur bevorderen en zullen op basis van wederkerigheid ondersteunen:
 
@@ -66,29 +91,29 @@ De Overeenkomstsluitende Partijen zullen de samenwerking tussen de twee landen o
 
 Elk der Partijen zal hiertoe de nodige faciliteiten verlenen voor de binnenkomst van personen en materialen met inachtneming van de in elk van beide landen geldende regelingen en voorschriften.
 
-#### Artikel 11
+##### Artikel 11
 
 De Overeenkomstsluitende Partijen zullen de rechtstreekse samenwerking bevorderen tussen de onderscheiden instellingen voor radio en televisie en de persagentschappen in hun landen.
 
 De beoordeling van de realiseerbaarheid van het onderling afsluiten van nadere regelingen van privé karakter, zal worden overgelaten aan het inzicht van de instellingen van de twee landen.
 
-#### Artikel 12
+##### Artikel 12
 
 De Overeenkomstsluitende Partijen zullen met welwillendheid staan tegenover de oprichting binnen hun grondgebied van instellingen uit het andere land op cultureel en wetenschappelijk gebied, in overeenstemming met de wettelijke regelingen die in de onderscheiden landen van kracht zijn.
 
-#### Artikel 13
+##### Artikel 13
 
 Een gemengde commissie ad hoc zal in beginsel eenmaal per twee jaar bijeenkomen, beurtelings in Nederland en in Portugal, ten einde uitwisselingsprogramma's die de onderhavige overeenkomst ten uitvoer moeten brengen, uit te werken en de uitvoering ervan te beoordelen.
 
-#### Artikel 14
+##### Artikel 14
 
 Wat het Koninkrijk der Nederlanden betreft, geldt deze Overeenkomst alleen voor het Rijk in Europa.
 
-#### Artikel 15
+##### Artikel 15
 
 Deze Overeenkomst treedt in werking twee maanden na de datum waarop de Overeenkomstsluitende Partijen elkaar schriftelijk hebben medegedeeld, dat aan de van toepassing zijnde constitutionele vereisten in hun onderscheiden landen is voldaan.
 
-#### Artikel 16
+##### Artikel 16
 
 Deze Overeenkomst heeft een duur van vijf jaar te rekenen vanaf de datum van haar inwerkingtreding en wordt daarna geacht stilzwijgend voor onbepaalde tijd te zijn verlengd, tenzij een van de Partijen de Overeenkomst schriftelijk opzegt met inachtneming van een termijn van zes maanden.
 

@@ -1,13 +1,38 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Wereldgezondheidsorganisatie inzake de Eenheid in Bilthoven van het Regionaal Bureau voor Europa van de Wereldgezondheidsorganisatie"
 identifier: "BWBV0001157"
-categorie: "Gezondheidszorg"
-publicatiedatum: 1994-12-22
-laatste_update: 1994-12-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001157"
+country: "nl"
+rank: "verdrag"
+publication_date: "1994-12-22"
+last_updated: "1994-12-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001157"
+soort: "verdrag"
+stam_id: "10001640773"
+version_id: "10001718932"
+internal_id: "C10006986421"
+label_id: "10001640974"
+dtd_version: "2.0"
+original_entry_into_force: "1994-12-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001157/1994-12-22/0"
+intitule_bron: "Trb.1994-219"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-12-22"
+intitule_published: "1994-10-17"
+intitule_in_force: "1995-01-25"
+intitule_status: "goed"
+original_publication: "Trb.1994-219"
+original_signed_date: "1994-12-22"
+original_published_date: "1994-10-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1994-219"
+entry_into_force_date: "1994-12-22"
+jci_1_3: "jci1.3:c:BWBV0001157&z=1994-12-22&g=1994-12-22"
+jci_1_0: "1.0:c:BWBV0001157&g=1994-12-22"
+citeertitel_status: "redactioneel"
+signed_date: "1994-12-22"
+entry_into_force: "1994-12-22"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Wereldgezondheidsorganisatie inzake de Eenheid in Bilthoven van het Regionaal Bureau voor Europa van de Wereldgezondheidsorganisatie
 
 The Government of the Kingdom of the Netherlands and
@@ -24,7 +49,7 @@ Desiring, therefore, to conclude an Agreement for the purpose of determining suc
 
 Have agreed as follows:
 
-#### Article 1. Definitions
+##### Article 1. Definitions
 
 a. "the Agreement of 1990" means the Agreement between the Government of the Netherlands and the World Health Organization of 13 June 1990;
 
@@ -52,11 +77,11 @@ l. "the Regional Director" means the Regional Director of the European Office of
 
 m. "the Convention" means the Convention on the Privileges and Immunities of the Specialized Agencies of 13 February 1946 and Annex VII
 
-#### Article 2. Application of the Convention
+##### Article 2. Application of the Convention
 
 Except as otherwise provided in this Agreement, the status, privileges and immunities of the Unit shall be governed by the provisions of the Convention.
 
-#### Article 3. Inviolability of the premises of the Unit
+##### Article 3. Inviolability of the premises of the Unit
 
 With respect to section 5 of the Convention, the following shall also apply:
 
@@ -64,19 +89,19 @@ With respect to section 5 of the Convention, the following shall also apply:
 
 - 2. In other cases the Director-General of the WHO or the Regional Director acting on his behalf, shall give serious consideration to a request for permission from the Netherlands authorities to enter the premises of the Unit, without prejudice to the interests of the Unit.
 
-#### Article 4. Inviolability of the archives
+##### Article 4. Inviolability of the archives
 
 With respect to section 6 of the Convention, the inviolability of the archives shall be understood to apply to all records, correspondence, documents, manuscripts, photographs, films, recordings and computer data and computer files belonging to or held by the Unit.
 
-#### Article 5. Immunity form juridical proceedings
+##### Article 5. Immunity form juridical proceedings
 
 With respect to section 4 of the Convention, immunity shall, in any event, not extend to a civil action by a third party for damage arising from an accident caused by a motor vehicle belonging to or operated on behalf of the Unit or to a motor-traffic offence involving such a vehicle.
 
-#### Article 6. Publications
+##### Article 6. Publications
 
 The circulation of publications and other information material sent by or to the Unit, in the fulfilment of its purposes, shall not be restricted in any way.
 
-#### Article 7. Exemption from taxes and duties
+##### Article 7. Exemption from taxes and duties
 
 With respect to section 10 of the Convention, the following shall also apply:
 
@@ -98,11 +123,11 @@ With respect to section 10 of the Convention, the following shall also apply:
 
 - 3. Goods acquired or imported under paragraph 1 of this Article shall not be sold, given away, or otherwise disposed of, except in accordance with conditions agreed upon with the Government.
 
-#### Article 8. Representatives of members
+##### Article 8. Representatives of members
 
 With respect to section 13(a) of the Convention, the immunity of representatives of Members shall not apply in case of a civil action by a third party for damage arising from an accident caused by a motor vehicle belonging to or driven by him or her.
 
-#### Article 9. Staff members
+##### Article 9. Staff members
 
 1. With respect to section 19 of the Convention, the following shall also apply:
 
@@ -124,11 +149,11 @@ With respect to section 13(a) of the Convention, the immunity of representatives
 
 2. In the event that the Unit operates a system for the payment of pensions and annuities to its former staff members and their dependants, the exemption from Dutch income tax for salaries and emoluments paid by the Unit shall not apply to such pensions and annuities.
 
-#### Article 10. Experts
+##### Article 10. Experts
 
 With respect to Annex VII, section 2, of the Convention, the immunities provided therein shall not apply to civil action by a third party for damage arising from an accident caused by a motor vehicle belonging to or driven by him or her.
 
-#### Article 11. Notification
+##### Article 11. Notification
 
 With respect to section 18 of the Convention, the following shall also apply:
 
@@ -140,25 +165,25 @@ With respect to section 18 of the Convention, the following shall also apply:
 
 - 2. The privileges and immunities granted to the respective categories of persons referred to under paragraph 1 of this Article shall be implemented upon arrival of such persons and shall be repealed two weeks after notification to the Ministry that either the person has terminated his or her function with the Unit, or has ceased to be a member of the family of a person referred to under paragraph 1, sub-paragraph a. In any case, privileges and immunities shall be repealed immediately after final departure of the persons concerned.
 
-#### Article 12. Social security
+##### Article 12. Social security
 
 1. The Unit and its staff members shall be exempt from social security provisions in force in the Netherlands, unless the staff member takes up a gainful activity in the Netherlands.
 
 2. The provisions of paragraph 1 of this Article shall apply, **mutatis mutandis,**to family members forming part of the households of the persons referred to in paragraph 1, unless they are employed in the Netherlands by an employer other than the WHO or are in the domestic service of the aforesaid household.
 
-#### Article 13. General provisions
+##### Article 13. General provisions
 
 This Agreement shall be implemented and interpreted in the light of its primary purpose of enabling the Unit to discharge fully and efficiently its functions.
 
-#### Article 14. Implementation, modification and revision
+##### Article 14. Implementation, modification and revision
 
 At the request of either Contracting Party, consultations shall take place with respect to the implementation, modification or revision of this Agreement.
 
-#### Article 15. Termination
+##### Article 15. Termination
 
 This Agreement shall be terminated in the event of the premises of the Unit being moved from the territory of the Netherlands. The provisions of this Agreement relevant in connection with the orderly termination of the operations of the Unit in the Netherlands and the disposal of its property shall, however, remain applicable as long as necessary, but no longer than six months after notification to the Government that the Unit shall terminate its operations in the Netherlands.
 
-#### Article 16. Entry into force
+##### Article 16. Entry into force
 
 1. This Agreement shall enter into force on the day after both Contracting Parties have notified each other in writing that the legal requirements for entry into force have been complied with.
 

@@ -1,13 +1,38 @@
 ---
 title: "Regeling kledingaanspraken adjudanten van Z.M. de Koning"
 identifier: "BWBR0039950"
-categorie: "Overig"
-publicatiedatum: 2025-04-12
-laatste_update: 2025-04-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039950"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-04-12"
+last_updated: "2025-04-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039950"
+soort: "ministeriele-regeling"
+stam_id: "14145703"
+version_id: "24332282"
+internal_id: "C34928781"
+label_id: "14106564"
+dtd_version: "2.0"
+original_entry_into_force: "2013-04-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039950/2025-04-12/0"
+intitule_bron: "Stcrt.2017-50672"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-04-29"
+intitule_published: "2017-09-08"
+intitule_in_force: "2017-09-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-50672"
+original_signed_date: "2013-04-29"
+original_published_date: "2017-09-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-50672"
+entry_into_force_date: "2013-04-30"
+jci_1_3: "jci1.3:c:BWBR0039950&z=2025-04-12&g=2025-04-12"
+jci_1_0: "1.0:c:BWBR0039950&g=2025-04-12"
+citeertitel_status: "officieel"
+signed_date: "2013-04-29"
+entry_into_force: "2013-04-30"
 ---
-
 # Regeling kledingaanspraken adjudanten van Z.M. de Koning
 
 Gelet op:
@@ -20,7 +45,7 @@ Besluit:
 
 De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
-#### Artikel 1
+##### Artikel 1
 
 1. De officier die is benoemd tot adjudant-generaal tevens chef van het militaire huis van Z.M. de Koning dan wel tot adjudant van Z.M. de Koning- hierna te noemen adjudant van Z.M. de Koning- dient, voor de tijd dat hij die functie vervult, naast de voor hem vastgestelde persoonlijke standaarduitrusting te beschikken over de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039950&bijlage=I&z=2025-04-12&g=2025-04-12) onder a genoemde aanvulling.
 
@@ -40,7 +65,7 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 - e. voor alle officieren voor wat betreft de overige artikelen: € 304,97.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Naar regelen te stellen door de chef van het militaire huis van Z.M. de Koning kan de officier als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039950&artikel=1&z=2025-04-12&g=2025-04-12), worden verplicht de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039950&bijlage=II&z=2025-04-12&g=2025-04-12) genoemde burgerkleding te dragen.
 
@@ -54,19 +79,19 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 Het onderhoud en de vervanging van deze artikelen geschieden door en voor rekening van de officier.
 
-#### Artikel 3
+##### Artikel 3
 
 Ten aanzien van de officier die is benoemd tot adjudant in buitengewone dienst van Z.M. de Koning is het gestelde in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039950&artikel=1&z=2025-04-12&g=2025-04-12) van overeenkomstige toepassing, voor zover de verstrekking van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039950&bijlage=I&z=2025-04-12&g=2025-04-12) genoemde aantallen door de chef van het militaire huis van Z.M. de Koning noodzakelijk wordt geacht.
 
-#### Artikel 4
+##### Artikel 4
 
 De chef van het militaire huis van Z.M. de Koning is bevoegd ten aanzien van officieren van het Korps Mariniers, officieren van de Koninklijke Marechaussee en vrouwelijke officieren de voor hen benodigde soorten kleding en uitrusting vast te stellen naar analogie van het gestelde in de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0039950&bijlage=I&z=2025-04-12&g=2025-04-12).
 
-#### Artikel 5. Inwerkingtreding
+##### Artikel 5. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van het moment van abdicatie van hare Majesteit de Koningin op 30 april 2013.
 
-#### Artikel 6. Citeertitel
+##### Artikel 6. Citeertitel
 
 Deze regeling kan worden aangehaald als de ‘Regeling kledingaanspraken adjudanten van Z.M. de Koning’.
 

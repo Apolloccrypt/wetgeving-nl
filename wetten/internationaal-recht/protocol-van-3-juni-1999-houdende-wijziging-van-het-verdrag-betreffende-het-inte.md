@@ -1,13 +1,35 @@
 ---
 title: "Protocol van 3 juni 1999 houdende wijziging van het Verdrag betreffende het internationale spoorwegvervoer (COTIF) van 9 mei 1980 (Protocol 1999)"
 identifier: "BWBV0005620"
-categorie: "Internationaal recht"
-publicatiedatum: 2006-07-01
-laatste_update: 2006-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005620"
+country: "nl"
+rank: "verdrag"
+publication_date: "2006-07-01"
+last_updated: "2006-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005620"
+soort: "verdrag"
+stam_id: "10004776203"
+version_id: "10005070102"
+internal_id: "C10007692411"
+label_id: "10004763264"
+dtd_version: "2.0"
+original_entry_into_force: "2006-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005620/2006-07-01/0"
+intitule_bron: "Trb.2000-70"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2000-07-28"
+intitule_in_force: "2006-08-11"
+intitule_status: "goed"
+original_publication: "Trb.2000-70"
+original_published_date: "2000-07-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2000-70"
+entry_into_force_date: "2006-07-01"
+jci_1_3: "jci1.3:c:BWBV0005620&z=2006-07-01&g=2006-07-01"
+jci_1_0: "1.0:c:BWBV0005620&g=2006-07-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2006-07-01"
 ---
-
 # Protocol van 3 juni 1999 houdende wijziging van het Verdrag betreffende het internationale spoorwegvervoer (COTIF) van 9 mei 1980 (Protocol 1999)
 
 Met toepassing van de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=6) en [19, § 2 van het Verdrag betreffende het internationale spoorwegvervoer](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=19), ondertekend te Bern op 9 mei 1980, hierna te noemen „COTIF 1980”, heeft van 26 mei tot en met 3 juni 1999 te Vilnius de vijfde Algemene Vergadering van de Intergouvernementele organisatie voor het internationale spoorwegvervoer (OTIF) plaatsgevonden.
@@ -28,11 +50,11 @@ overwegende dat in het belang van het internationale spoorwegvervoer het belangr
 
 heeft de Algemene Vergadering het volgende besloten:
 
-#### Artikel 1. Nieuwe versie van het Verdrag
+##### Artikel 1. Nieuwe versie van het Verdrag
 
 De [COTIF 1980](https://wetten.overheid.nl/jci1.3:c:BWBV0004155) wordt gewijzigd volgens de in de bijlage opgenomen versie, die een integrerend deel vormt van dit Protocol.
 
-#### Artikel 2. Voorlopige depositaris
+##### Artikel 2. Voorlopige depositaris
 
 § 1. De in de [artikelen 22 tot en met 26 van de COTIF 1980](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=22) genoemde taken van de depositaris worden, vanaf de openstelling ter ondertekening van dit Protocol tot aan de datum van inwerkingtreding hiervan, door de OTIF als voorlopige depositaris vervuld.
 
@@ -44,7 +66,7 @@ De [COTIF 1980](https://wetten.overheid.nl/jci1.3:c:BWBV0004155) wordt gewijzigd
 
 en vervult de overige taken van de depositaris zoals vermeld in [Deel VII van het Verdrag van Wenen van 23 mei 1969 inzake het verdragenrecht](https://wetten.overheid.nl/jci1.3:c:BWBV0003441&deel=VII).
 
-#### Artikel 3. Ondertekening. Bekrachtiging. Aanvaarding. Goedkeuring. Toetreding
+##### Artikel 3. Ondertekening. Bekrachtiging. Aanvaarding. Goedkeuring. Toetreding
 
 § 1. Dit Protocol blijft tot en met 31 december 1999 openstaan voor ondertekening door de Lidstaten. Deze ondertekening vindt plaats te Bern bij de voorlopige depositaris.
 
@@ -54,17 +76,17 @@ en vervult de overige taken van de depositaris zoals vermeld in [Deel VII van he
 
 § 4. De toetreding van een Staat tot de [COTIF 1980](https://wetten.overheid.nl/jci1.3:c:BWBV0004155) overeenkomstig [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=23) daarvan, waarvoor het verzoek is gedaan na de openstelling ter ondertekening van dit Protocol maar voor de inwerkingtreding hiervan, geldt zowel voor de COTIF 1980 als voor het Verdrag in de versie van de Bijlage bij dit Protocol.
 
-#### Artikel 4. Inwerkingtreding
+##### Artikel 4. Inwerkingtreding
 
 § 1. Dit Protocol treedt in werking op de eerste dag van de derde maand volgend op de maand waarin de voorlopige depositaris de Lidstaten kennis heeft gegeven van de nederlegging van de akte waardoor de voorwaarden van [artikel 20, § 2 van de COTIF 1980](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=20) zijn vervuld. Als Lidstaten in de zin van dit artikel 20, § 2 worden de Staten aangemerkt, die ten tijde van het besluit van de vijfde Algemene Vergadering Lidstaten waren en dit nog steeds zijn op het tijdstip waarop de voorwaarden voor de inwerkingtreding van dit Protocol zijn vervuld.
 
 § 2. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005620&artikel=3&z=2006-07-01&g=2006-07-01) is evenwel van toepassing vanaf de openstelling ter ondertekening van dit Protocol.
 
-#### Artikel 5. Verklaringen en voorbehouden
+##### Artikel 5. Verklaringen en voorbehouden
 
 De in artikel 42, § 1 van het Verdrag in de versie van de Bijlage bij dit Protocol bedoelde verklaringen en voorbehouden kunnen op elk tijdstip worden afgelegd of gemaakt, zelfs voor de inwerkingtreding van dit Protocol. Deze verklaringen en voorbehouden worden van kracht op het tijdstip van inwerkingtreding van dit Protocol.
 
-#### Artikel 6. Overgangsbepalingen
+##### Artikel 6. Overgangsbepalingen
 
 § 1. Uiterlijk zes maanden na de inwerkingtreding van dit Protocol roept de Secretaris-Generaal van de OTIF de Algemene Vergadering bijeen teneinde:
 
@@ -106,7 +128,7 @@ Deze bepaling is niet van toepassing op de Lidstaten die de minimale bijdrage ve
 
 § 9. De dwingende bepalingen van de Uniforme Regelen CUV en de Uniforme Regelen CUI zijn een jaar na de inwerkingtreding van dit Protocol van toepassing op de overeenkomsten die zijn gesloten voor de inwerkingtreding van dit Protocol.
 
-#### Artikel 7. Teksten van het Protocol
+##### Artikel 7. Teksten van het Protocol
 
 § 1. Dit Protocol is gesloten en ondertekend in de Duitse, de Engelse en de Franse taal. In geval van verschillen is de Franse tekst doorslaggevend.
 

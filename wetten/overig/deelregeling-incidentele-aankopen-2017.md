@@ -1,24 +1,46 @@
 ---
 title: "Deelregeling Incidentele Aankopen 2017"
 identifier: "BWBR0038824"
-categorie: "Overig"
-publicatiedatum: 2025-06-25
-laatste_update: 2025-06-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038824"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-06-25"
+last_updated: "2025-06-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038824"
+soort: "zbo"
+stam_id: "13813093"
+version_id: "30772192"
+internal_id: "C44111791"
+label_id: "13779114"
+dtd_version: "2.0"
+original_entry_into_force: "2025-06-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038824/2025-06-25/0"
+intitule_bron: "Stcrt.2016-65488"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2016-12-07"
+intitule_in_force: "2016-12-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-21278"
+original_published_date: "2025-06-24"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2025-21278"
+entry_into_force_date: "2025-06-25"
+jci_1_3: "jci1.3:c:BWBR0038824&z=2025-06-25&g=2025-06-25"
+jci_1_0: "1.0:c:BWBR0038824&g=2025-06-25"
+citeertitel_status: "officieel"
+entry_into_force: "2025-06-25"
 ---
-
 # Deelregeling Incidentele Aankopen 2017
 
 Gelet op [artikel 10, lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
 
 Besluit:
 
-#### Artikel 1. Doel
+##### Artikel 1. Doel
 
 Het verhogen van de kwaliteit, de samenhang en de zichtbaarheid van de Collectie Nederland door middel van het verwerven van belangrijke objecten of deelcollecties met ensemblewaarde waarmee een aspect uit de kunst of cultuurgeschiedenis getoond kan worden dat nog niet in de Collectie Nederland is vertegenwoordigd.
 
-#### Artikel 2. Toepasselijkheid
+##### Artikel 2. Toepasselijkheid
 
 1. Een bijdrage kan worden verstrekt aan een Nederlandse publiekstoegankelijke instelling die museale collecties van (inter)nationaal belang beheert, of aan meerdere instellingen gezamenlijk.
 
@@ -50,7 +72,7 @@ Het verhogen van de kwaliteit, de samenhang en de zichtbaarheid van de Collectie
 
 7. Het behoud van het aangekochte object wordt gewaarborgd door adequate bouwkundige voorzieningen, klimaatbeheersing en beveiliging.
 
-#### Artikel 3. Aanvraag
+##### Artikel 3. Aanvraag
 
 1. Naast de bepalingen vastgesteld in het [Algemeen Reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0044527), in het aanvraagformulier en in de toelichting daarop, dient de aanvraag vergezeld te gaan van:
 
@@ -70,7 +92,7 @@ Het verhogen van de kwaliteit, de samenhang en de zichtbaarheid van de Collectie
 
 2. De aanvraag moet minimaal drie maanden voor de aankoop worden ingediend.
 
-#### Artikel 4. Beoordeling
+##### Artikel 4. Beoordeling
 
 1. Bij de beoordeling van een aanvraag voor een incidentele aankoop geeft het bevoegd adviesorgaan een oordeel over het kunst- en/of cultuurhistorische belang van de aankoop en de relevantie daarvan voor het publiek. Daarbij betrekt het bevoegd adviesorgaan de volgende aspecten in zijn oordeel:
 
@@ -94,21 +116,21 @@ Het verhogen van de kwaliteit, de samenhang en de zichtbaarheid van de Collectie
 
 5. Het bestuur kan het bevoegd adviesorgaan in verband met het beperkte budget verzoeken de positieve adviezen in volgorde van prioriteit te rangschikken op basis van het oordeel zoals bedoeld in het eerste en, voor zover van toepassing, het tweede lid van dit artikel.
 
-#### Artikel 5. Hardheidsclausule
+##### Artikel 5. Hardheidsclausule
 
 Het bestuur kan in uitzonderlijke gevallen ten gunste van een belanghebbende van bepalingen in deze regeling afwijken indien toepassing daarvan leidt tot onbillijkheid van overwegende aard.
 
-#### Artikel 6. Overgangsbepaling
+##### Artikel 6. Overgangsbepaling
 
 De [Deelregeling Incidentele Aankopen](https://wetten.overheid.nl/jci1.3:c:BWBR0032697) wordt met ingang van 1 januari 2017 ingetrokken. Op aanvragen die op grond van de Deelregeling Incidentele Aankopen voor 1 januari 2017 zijn ingediend blijven deze regeling en het [Algemeen Reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0032717) van overeenkomstige toepassing.
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2017. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 31 december 2016, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2017.
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Deze regeling wordt aangehaald als: Deelregeling Incidentele Aankopen 2017.
 

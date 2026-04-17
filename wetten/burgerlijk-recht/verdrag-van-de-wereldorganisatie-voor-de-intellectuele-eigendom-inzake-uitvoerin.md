@@ -1,13 +1,35 @@
 ---
 title: "Verdrag van de Wereldorganisatie voor de intellectuele eigendom inzake uitvoeringen en fonogrammen (WPPT) (1996)"
 identifier: "BWBV0004061"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2010-03-14
-laatste_update: 2010-03-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004061"
+country: "nl"
+rank: "verdrag"
+publication_date: "2010-03-14"
+last_updated: "2010-03-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004061"
+soort: "verdrag"
+stam_id: "10003883333"
+version_id: "10003968082"
+internal_id: "C10008431571"
+label_id: "10003868234"
+dtd_version: "2.0"
+original_entry_into_force: "2010-03-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004061/2010-03-14/0"
+intitule_bron: "Trb.1997-319"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1997-12-24"
+intitule_in_force: "2010-02-23"
+intitule_status: "goed"
+original_publication: "Trb.1997-319"
+original_published_date: "1997-12-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1997-319"
+entry_into_force_date: "2010-03-14"
+jci_1_3: "jci1.3:c:BWBV0004061&z=2010-03-14&g=2010-03-14"
+jci_1_0: "1.0:c:BWBV0004061&g=2010-03-14"
+citeertitel_status: "redactioneel"
+entry_into_force: "2010-03-14"
 ---
-
 # Verdrag van de Wereldorganisatie voor de intellectuele eigendom inzake uitvoeringen en fonogrammen (WPPT) (1996)
 
 Preambule
@@ -26,7 +48,7 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Verhouding tot andere Verdragen
+##### Artikel 1. Verhouding tot andere Verdragen
 
 1. Niets in dit Verdrag houdt een afwijking in van bestaande verplichtingen die de Verdragsluitende Partijen met elkaar zijn aangegaan krachtens het [Internationaal Verdrag inzake de bescherming van uitvoerende kunstenaars, producenten van fonogrammen en omroeporganisaties](https://wetten.overheid.nl/jci1.3:c:BWBV0004329), tot stand gekomen te Rome op 26 oktober 1961 (hierna te noemen het „Verdrag van Rome”).
 
@@ -34,7 +56,7 @@ Zijn het volgende overeengekomen:
 
 3. Dit Verdrag staat niet in verband met andere verdragen en doet geen afbreuk aan de rechten en verplichtingen die voortvloeien uit andere verdragen.
 
-#### Artikel 2. Begripsbepalingen
+##### Artikel 2. Begripsbepalingen
 
 Voor de toepassing van dit Verdrag:
 
@@ -52,7 +74,7 @@ Voor de toepassing van dit Verdrag:
 
 - g. wordt onder „mededeling aan het publiek” van een uitvoering of een fonogram verstaan de overdracht aan het publiek door elk medium anders dan door uitzending, van geluiden van een uitvoering of de op een fonogram vastgelegde geluiden of weergaven van geluiden. Voor de toepassing van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0004061&hoofdstuk=IV&artikel=15&z=2010-03-14&g=2010-03-14) wordt onder „mededeling aan het publiek” mede verstaan het voor het publiek hoorbaar maken van de op een fonogram vastgelegde geluiden of weergaven van geluiden.
 
-#### Artikel 3. Gerechtigden tot de in dit Verdrag voorziene bescherming
+##### Artikel 3. Gerechtigden tot de in dit Verdrag voorziene bescherming
 
 1. De Verdragsluitende Partijen verlenen de in dit Verdrag voorziene bescherming aan de uitvoerende kunstenaars en producenten van fonogrammen die onderdaan zijn van andere Verdragsluitende Partijen.
 
@@ -60,7 +82,7 @@ Voor de toepassing van dit Verdrag:
 
 3. Iedere Verdragsluitende Partij die gebruik maakt van de mogelijkheden voorzien in [artikel 5, derde lid, van het Verdrag van Rome](https://wetten.overheid.nl/jci1.3:c:BWBV0004329&artikel=5) of, voor de toepassing van artikel 5 van dat Verdrag, in [artikel 17 daarvan](https://wetten.overheid.nl/jci1.3:c:BWBV0004329&artikel=17), richt een kennisgeving als voorzien in die bepalingen aan de Directeur-Generaal van de Wereldorganisatie voor de Intellectuele Eigendom (WIPO).
 
-#### Artikel 4. Nationale behandeling
+##### Artikel 4. Nationale behandeling
 
 1. Iedere Verdragsluitende Partij verleent aan onderdanen van andere Verdragsluitende Partijen overeenkomstig [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004061&hoofdstuk=I&artikel=3&z=2010-03-14&g=2010-03-14), de behandeling die zij verleent aan haar eigen onderdanen met betrekking tot de uitsluitende rechten die in dit Verdrag uitdrukkelijk worden toegekend, en met betrekking tot het recht op een billijke vergoeding als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0004061&hoofdstuk=IV&artikel=15&z=2010-03-14&g=2010-03-14) van dit Verdrag.
 
@@ -68,7 +90,7 @@ Voor de toepassing van dit Verdrag:
 
 ### HOOFDSTUK II. RECHTEN VAN UITVOERENDE KUNSTENAARS
 
-#### Artikel 5. Morele rechten van uitvoerende kunstenaars
+##### Artikel 5. Morele rechten van uitvoerende kunstenaars
 
 1. Onafhankelijk van de zgn. exploitatierechten, en zelfs na overdracht van deze rechten, heeft de uitvoerend kunstenaar terzake van zijn hoorbare live-uitvoeringen of op fonogrammen vastgelegde uitvoeringen het recht om te eisen dat hij als de uitvoerende van zijn uitvoeringen wordt aangeduid, behalve wanneer de wijze waarop de uitvoering wordt gebruikt de weglating hiervan vereist, en om zich te verzetten tegen iedere misvorming, verminking of andere wijziging van zijn uitvoeringen die zijn reputatie zou kunnen schaden.
 
@@ -76,7 +98,7 @@ Voor de toepassing van dit Verdrag:
 
 3. De rechtsmiddelen tot waarborging van de krachtens dit artikel toegekende rechten worden beheerst door de wetgeving van de Verdragsluitende Partij waar bescherming wordt ingeroepen.
 
-#### Artikel 6. Exploitatierechten van uitvoerende kunstenaars terzake van hun niet vastgelegde uitvoeringen
+##### Artikel 6. Exploitatierechten van uitvoerende kunstenaars terzake van hun niet vastgelegde uitvoeringen
 
 Uitvoerende kunstenaars hebben het uitsluitend recht om met betrekking tot hun uitvoeringen toestemming te geven voor:
 
@@ -84,51 +106,51 @@ Uitvoerende kunstenaars hebben het uitsluitend recht om met betrekking tot hun u
 
 - ii. de vastlegging van hun niet vastgelegde uitvoeringen.
 
-#### Artikel 7. Reproductierecht
+##### Artikel 7. Reproductierecht
 
 Uitvoerende kunstenaars hebben het uitsluitend recht om toestemming te geven voor de directe of indirecte reproductie van hun op fonogrammen vastgelegde uitvoeringen, op welke wijze en in welke vorm dan ook.
 
-#### Artikel 8. Verspreidingsrecht
+##### Artikel 8. Verspreidingsrecht
 
 1. Uitvoerende kunstenaars hebben het uitsluitend recht om toestemming te verlenen voor het door verkoop of andere overgang van eigendom voor het publiek beschikbaar stellen van het origineel van hun uitvoeringen vastgelegd op fonogrammen en van kopieën daarvan.
 
 2. Niets in dit Verdrag doet afbreuk aan de vrijheid van de Verdragsluitende Partijen om de eventuele voorwaarden te bepalen waaronder de uitputting van het in het eerste lid bedoelde recht van toegepasing is na de eerste verkoop of andere vorm van overgang van eigendom, met toestemming van de uitvoerend kunstenaar, van het origineel van de vastgelegde uitvoering of een kopie daarvan.
 
-#### Artikel 9. Recht van verhuur
+##### Artikel 9. Recht van verhuur
 
 1. Uitvoerende kunstenaars hebben het uitsluitend recht om toestemming te verlenen voor de commerciële verhuur aan het publiek van het origineel van hun op fonogrammen vastgelegde uitvoeringen en kopieën daarvan zoals bepaald in de nationale wetgeving van de Verdragsluitende Partijen, ook na verspreiding daarvan door of met toestemming van de uitvoerend kunstenaar.
 
 2. Niettegenstaande de bepalingen van het eerste lid kan een Verdragsluitende Partij waar op 15 april 1994 een systeem van toepassing was dat voorzag in een recht op een billijke vergoeding voor uitvoerende kunstenaars voor de commerciële verhuur van kopieën van hun op fonogrammen vastgelegde uitvoeringen en waarin dat systeem nog steeds van kracht is, dat systeem handhaven, mits de commerciële verhuur van fonogrammen geen aanleiding geeft tot wezenlijke aantasting van het uitsluitend reproductierecht van uitvoerende kunstenaars.
 
-#### Artikel 10. Recht van beschikbaarstelling van vastgelegde uitvoeringen
+##### Artikel 10. Recht van beschikbaarstelling van vastgelegde uitvoeringen
 
 Uitvoerende kunstenaars hebben het uitsluitend recht om toestemming te verlenen voor het op zodanige wijze per draad of langs draadloze weg beschikbaar stellen van hun op fonogrammen vastgelegde uitvoeringen, dat deze voor leden van het publiek toegankelijk zijn vanaf een door hen gekozen plaats en op een door hen gekozen tijdstip.
 
 ### HOOFDSTUK III. RECHTEN VAN PRODUCENTEN VAN FONOGRAMMEN
 
-#### Artikel 11. Reproductierecht
+##### Artikel 11. Reproductierecht
 
 Producenten van fonogrammen hebben het uitsluitend recht om toestemming te geven tot de directe of indirecte reproductie van hun fonogrammen, op welke wijze en in welke vorm dan ook.
 
-#### Artikel 12. Verspreidingsrecht
+##### Artikel 12. Verspreidingsrecht
 
 1. Producenten van fonogrammen hebben het uitsluitend recht om toestemming te verlenen voor het door verkoop of andere overgang van eigendom voor het publiek beschikbaar stellen van het origineel van hun fonogrammen en kopieën daarvan.
 
 2. Niets in dit Verdrag doet afbreuk aan de vrijheid van de Verdragsluitende Partijen om de eventuele voorwaarden te bepalen waaronder de uitputting van het in het eerste lid bedoelde recht van toepassing is na de eerste verkoop of andere vorm van overgang van eigendom, met toestemming van de producent van het fonogram, van het origineel van het fonogram of een exemplaar daarvan.
 
-#### Artikel 13. Recht van verhuur
+##### Artikel 13. Recht van verhuur
 
 1. Producenten van fonogrammen hebben het uitsluitend recht om toestemming te verlenen voor de commerciële verhuur aan het publiek van het origineel van hun fonogrammen en exemplaren daarvan, ook na verspreiding daarvan door of met toestemming van de producent.
 
 2. Niettegenstaande de bepalingen van het eerste lid kan een Verdragsluitende Partij waarin op 15 april 1994 een systeem van toepassing was dat voorzag in een recht op een billijke vergoeding voor producenten van fonogrammen voor de commerciële verhuur van exemplaren van hun fonogrammen en waarin dat systeem nog steeds van kracht is, dat systeem handhaven, mits de commerciële verhuur van fonogrammen geen aanleiding geeft tot wezenlijke aantasting van de uitsluitende reproductierechten van producenten van fonogrammen.
 
-#### Artikel 14. Recht van beschikbaarstelling van fonogrammen
+##### Artikel 14. Recht van beschikbaarstelling van fonogrammen
 
 Producenten van fonogrammen hebben het uitsluitend recht om toestemming te verlenen voor het op zodanige wijze per draad of langs draadloze weg beschikbaar stellen voor het publiek van hun fonogrammen dat deze voor leden van het publiek toegankelijk zijn vanaf een door hen gekozen plaats en op een door hen gekozen tijdstip.
 
 ### HOOFDSTUK IV. GEMEENSCHAPPELIJKE BEPALINGEN
 
-#### Artikel 15. Recht op vergoeding voor uitzending en mededeling aan het publiek
+##### Artikel 15. Recht op vergoeding voor uitzending en mededeling aan het publiek
 
 1. Uitvoerende kunstenaars en producenten van fonogrammen hebben recht op één enkele billijke vergoeding voor het directe of indirecte gebruik van voor commerciële doeleinden gepubliceerde fonogrammen ten behoeve van uitzending of enigerlei mededeling aan het publiek.
 
@@ -138,23 +160,23 @@ Producenten van fonogrammen hebben het uitsluitend recht om toestemming te verle
 
 4. Voor de toepassing van dit artikel worden fonogrammen die per draad of langs draadloze weg aan het publiek beschikbaar worden gesteld op zodanige wijze dat deze voor leden van het publiek toegankelijk zijn vanaf een door hen gekozen plaats en op een door hen gekozen tijdstip, geacht voor commerciële doeleinden te zijn gepubliceerd.
 
-#### Artikel 16. Beperkingen en uitzonderingen
+##### Artikel 16. Beperkingen en uitzonderingen
 
 1. De Verdragsluitende Partijen kunnen in hun nationale wetgeving voorzien in soortgelijke beperkingen of uitzonderingen ten aanzien van de bescherming van uitvoerende kunstenaars en producenten van fonogrammen als waarin zij in hun nationale wetgeving voorzien in verband met de bescherming van het auteursrecht op werken van letterkunde en kunst.
 
 2. De Verdragsluitende Partijen begrenzen alle beperkingen van of uitzonderingen op de rechten waarin dit Verdrag voorziet tot bepaalde speciale gevallen die geen afbreuk doen aan een normale exploitatie van de uitvoering of het fonogram en die niet op ongerechtvaardigde wijze schade toebrengen aan de rechtmatige belangen van de uitvoerend kunstenaar of de producent van het fonogram.
 
-#### Artikel 17. Duur van de bescherming
+##### Artikel 17. Duur van de bescherming
 
 1. De duur van de krachtens dit Verdrag aan uitvoerende kunstenaars te verlenen bescherming loopt tot ten minste het einde van een tijdvak van 50 jaar, te rekenen vanaf het einde van het jaar waarin de uitvoering op een fonogram werd vastgelegd.
 
 2. De duur van de krachtens dit Verdrag aan producenten van fonogrammen te verlenen bescherming loopt tot ten minste het einde van een tijdvak van 50 jaar, te rekenen vanaf het einde van het jaar waarin het fonogram werd gepubliceerd of, bij gebreke van publicatie binnen 50 jaar na vastlegging van het fonogram, 50 jaar vanaf het einde van het jaar waarin de vastlegging plaatsvond.
 
-#### Artikel 18. Verplichtingen betreffende technische maatregelen
+##### Artikel 18. Verplichtingen betreffende technische maatregelen
 
 De Verdragsluitende Partijen voorzien in een adequate rechtsbescherming en doeltreffende rechtsmiddelen tegen het onwerkzaam maken van doeltreffende technische maatregelen die door uitvoerende kunstenaars of producenten van fonogrammen worden gebruikt in verband met de uitoefening van hun rechten krachtens dit Verdrag, teneinde te beletten dat met betrekking tot hun uitvoeringen of fonogrammen handelingen worden verricht waarvoor de kunstenaars of producenten geen toestemming hebben verleend of die rechtens niet zijn geoorloofd.
 
-#### Artikel 19. Verplichtingen betreffende informatie over beheer van rechten
+##### Artikel 19. Verplichtingen betreffende informatie over beheer van rechten
 
 1. De Verdragsluitende Partijen voorzien in adequate en doeltreffende rechtsmiddelen tegen een ieder die zich willens en wetens aan een van de volgende handelingen schuldig maakt, in de wetenschap dat, of die met betrekking tot civielrechtelijke sancties redelijkerwijs kan vermoeden, dat deze handeling inbreuk op een in dit Verdrag voorzien recht tot gevolg zal hebben, mogelijk maken, vergemakkelijken of verhullen:
 
@@ -164,21 +186,21 @@ De Verdragsluitende Partijen voorzien in een adequate rechtsbescherming en doelt
 
 2. Voor de toepassing van dit artikel wordt onder „informatie over het beheer van de rechten” verstaan informatie die de uitvoerend kunstenaar, de uitvoering van de uitvoerend kunstenaar, de producent van het fonogram, het fonogram, de persoon die enig recht op de uitvoering of het fonogram heeft, identificeert of informatie over de voorwaarden waaronder de uitvoering of het fonogram mag worden gebruikt en alle getallen of codes waaruit die informatie bestaat, wanneer een van deze informatiebestanddelen aan een kopie van een vastgelegde uitvoering of een exemplaar van een fonogram is gehecht of in verband met de mededeling aan het publiek van een vastgelegde uitvoering of een fonogram kenbaar wordt.
 
-#### Artikel 20. Formaliteiten
+##### Artikel 20. Formaliteiten
 
 Het genot en de uitoefening van de in dit Verdrag voorziene rechten is niet onderworpen aan enige formaliteit.
 
-#### Artikel 21. Voorbehouden
+##### Artikel 21. Voorbehouden
 
 Behoudens in het geval voorzien in [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004061&hoofdstuk=IV&artikel=15&z=2010-03-14&g=2010-03-14), kunnen ten aanzien van dit Verdrag geen voorbehouden worden gemaakt.
 
-#### Artikel 22. Toepassing in de tijd
+##### Artikel 22. Toepassing in de tijd
 
 1. De Verdragsluitende Partijen passen de bepalingen van [artikel 18 van de Berner Conventie](https://wetten.overheid.nl/jci1.3:c:BWBV0003977&artikel=18) mutatis mutandis toe op de rechten van uitvoerende kunstenaars en producenten van fonogrammen waarin in dit Verdrag is voorzien.
 
 2. Niettegenstaande het eerste lid kan een Verdragsluitende Partij de toepassing van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004061&hoofdstuk=II&artikel=5&z=2010-03-14&g=2010-03-14) van dit Verdrag beperken tot uitvoeringen die hebben plaatsgevonden na de inwerkingtreding van dit Verdrag ten aanzien van die Partij.
 
-#### Artikel 23. Bepalingen met betrekking tot handhaving van rechten
+##### Artikel 23. Bepalingen met betrekking tot handhaving van rechten
 
 1. De Verdragsluitende Partijen verbinden zich ertoe de noodzakelijke maatregelen te nemen, overeenkomstig hun wetgeving, teneinde de toepassing van dit Verdrag te verzekeren.
 
@@ -186,7 +208,7 @@ Behoudens in het geval voorzien in [artikel 15, derde lid](https://wetten.overhe
 
 ### HOOFDSTUK V. ADMINISTRATIEVE EN SLOTBEPALINGEN
 
-#### Artikel 24. Algemene Vergadering
+##### Artikel 24. Algemene Vergadering
 
 - a. De Verdragsluitende Partijen hebben een Algemene Vergadering.
 
@@ -208,11 +230,11 @@ Behoudens in het geval voorzien in [artikel 15, derde lid](https://wetten.overhe
 
 5. De Algemene Vergadering stelt haar reglement van orde vast, met inbegrip van de bijeenroeping van buitengewone zittingen, de vereisten voor een quorum en, behoudens de bepalingen van dit Verdrag, de vereiste meerderheid voor verschillende soorten beslissingen.
 
-#### Artikel 25. Internationaal Bureau
+##### Artikel 25. Internationaal Bureau
 
 Het Internationaal Bureau van de WIPO verricht de administratieve taken betreffende het Verdrag.
 
-#### Artikel 26. Voorwaarden om in aanmerking te komen als Partij bij het Verdrag
+##### Artikel 26. Voorwaarden om in aanmerking te komen als Partij bij het Verdrag
 
 1. Iedere Lidstaat van de WIPO kan partij worden bij dit Verdrag.
 
@@ -220,19 +242,19 @@ Het Internationaal Bureau van de WIPO verricht de administratieve taken betreffe
 
 3. De Europese Gemeenschap, die tijdens de Diplomatieke Conferentie die dit Verdrag heeft aangenomen, de in het vorige lid bedoelde verklaring heeft afgelegd, kan partij worden bij dit Verdrag.
 
-#### Artikel 27. Rechten en verplichtingen voorvloeiende uit het Verdrag
+##### Artikel 27. Rechten en verplichtingen voorvloeiende uit het Verdrag
 
 Behoudens uitdrukkelijk andersluidende bepalingen in dit Verdrag geniet iedere Verdragsluitende Partij alle rechten en aanvaardt zij alle verplichtingen die uit dit Verdrag voortvloeien.
 
-#### Artikel 28. Ondertekening van het Verdrag
+##### Artikel 28. Ondertekening van het Verdrag
 
 Dit Verdrag staat tot en met 31 december 1997 open voor ondertekening door iedere Lidstaat van de WIPO en door de Europese Gemeenschap.
 
-#### Artikel 29. Inwerkingtreding van het Verdrag
+##### Artikel 29. Inwerkingtreding van het Verdrag
 
 Dit Verdrag treedt in werking drie maanden nadat 30 akten van bekrachtiging of toetreding door Staten zijn nedergelegd bij de Directeur-Generaal van de WIPO.
 
-#### Artikel 30. Datum waarop het Verdrag voor Partijen van kracht wordt
+##### Artikel 30. Datum waarop het Verdrag voor Partijen van kracht wordt
 
 Dit Verdrag bindt:
 
@@ -244,16 +266,16 @@ Dit Verdrag bindt:
 
 - iv. iedere andere intergouvernementele organisatie die is toegelaten om partij te worden bij dit Verdrag, na het verstrijken van een tijdvak van drie maanden na de nederlegging van haar akte van toetreding.
 
-#### Artikel 31. Opzegging van het Verdrag
+##### Artikel 31. Opzegging van het Verdrag
 
 Dit Verdrag kan door iedere Verdragsluitende Partij worden opgezegd door middel van een kennisgeving aan de Directeur-Generaal van de WIPO. Een opzegging wordt van kracht een jaar na de datum waarop de Directeur-Generaal van de WIPO de kennisgeving heeft ontvangen.
 
-#### Artikel 32. Talen van het Verdrag
+##### Artikel 32. Talen van het Verdrag
 
 1. Dit Verdrag wordt ondertekend in één origineel in de Engelse, Arabische, Chinese, Franse, Russische en Spaanse taal, zijnde alle teksten gelijkelijk authentiek.
 
 2. Een officiële tekst in iedere andere taal dan die waarnaar wordt verwezen in het eerste lid, wordt door de Directeur-Generaal van de WIPO op verzoek van een belanghebbende partij opgesteld na overleg met alle belanghebbende partijen. Voor de toepassing van dit lid wordt onder „belanghebbende partij” verstaan iedere Lidstaat van de WIPO waarvan de officiële taal of een van de officiële talen in het geding is, alsmede de Europese Gemeenschap en iedere andere intergouvernementele organisatie die partij kan worden bij dit Verdrag indien een van haar officiële talen in het geding is.
 
-#### Artikel 33. Depositaris
+##### Artikel 33. Depositaris
 
 De Directeur-Generaal van de WIPO is de depositaris van dit Verdrag.

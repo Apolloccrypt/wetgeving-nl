@@ -1,13 +1,38 @@
 ---
 title: "Circulaire toepassing Herzieningswet Kadasterwet I"
 identifier: "BWBR0018682"
-categorie: "Bestuursrecht"
-publicatiedatum: 2005-09-01
-laatste_update: 2005-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0018682"
+country: "nl"
+rank: "circulaire"
+publication_date: "2005-09-01"
+last_updated: "2005-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0018682"
+soort: "circulaire"
+stam_id: "7305083"
+version_id: "12235322"
+internal_id: "C16474531"
+label_id: "7293634"
+dtd_version: "2.0"
+original_entry_into_force: "2005-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0018682/2005-09-01/0"
+intitule_bron: "Stcrt.2005-167"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-08-19"
+intitule_published: "2005-08-30"
+intitule_in_force: "2005-08-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-167"
+original_signed_date: "2005-08-19"
+original_published_date: "2005-08-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2005-167-p32-SC71288"
+entry_into_force_date: "2005-09-01"
+jci_1_3: "jci1.3:c:BWBR0018682&z=2005-09-01&g=2005-09-01"
+jci_1_0: "1.0:c:BWBR0018682&g=2005-09-01"
+citeertitel_status: "redactioneel"
+signed_date: "2005-08-19"
+entry_into_force: "2005-09-01"
 ---
-
 # Circulaire toepassing Herzieningswet Kadasterwet I
 
 ### 1. Inleiding

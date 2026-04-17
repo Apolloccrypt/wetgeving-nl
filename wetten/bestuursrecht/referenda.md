@@ -1,13 +1,37 @@
 ---
 title: "Referenda"
 identifier: "BWBR0007219"
-categorie: "Bestuursrecht"
-publicatiedatum: 1995-01-27
-laatste_update: 1995-01-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007219"
+country: "nl"
+rank: "circulaire"
+publication_date: "1995-01-27"
+last_updated: "1995-01-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007219"
+soort: "circulaire"
+stam_id: "6267803"
+version_id: "10951452"
+internal_id: "C14848961"
+label_id: "6256704"
+original_entry_into_force: "1995-01-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007219/1995-01-27/0"
+intitule_bron: "Stcrt.1995-21"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-01-27"
+intitule_published: "1995-01-30"
+intitule_in_force: "1995-01-30"
+intitule_status: "goed"
+original_publication: "Stcrt.1995-21"
+original_signed_date: "1995-01-27"
+original_published_date: "1995-01-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1995-21-p7-SC1893"
+entry_into_force_date: "1995-01-27"
+jci_1_3: "jci1.3:c:BWBR0007219&z=1995-01-27&g=1995-01-27"
+jci_1_0: "1.0:c:BWBR0007219&g=1995-01-27"
+citeertitel_status: "redactioneel"
+signed_date: "1995-01-27"
+entry_into_force: "1995-01-27"
 ---
-
 # Referenda
 
 Circulaire aan de gemeentebesturen

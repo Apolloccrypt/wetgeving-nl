@@ -1,13 +1,35 @@
 ---
 title: "Protocol Gegevensvraag Wlz-gegevens 2017"
 identifier: "BWBR0040941"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2018-05-24
-laatste_update: 2018-05-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040941"
+country: "nl"
+rank: "zbo"
+publication_date: "2018-05-24"
+last_updated: "2018-05-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040941"
+soort: "zbo"
+stam_id: "14617013"
+version_id: "25027952"
+internal_id: "C35793461"
+label_id: "14570734"
+dtd_version: "2.0"
+original_entry_into_force: "2018-05-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040941/2018-05-24/0"
+intitule_bron: "Stcrt.2018-28641"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2018-05-23"
+intitule_in_force: "2018-05-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-28641"
+original_published_date: "2018-05-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-28641"
+entry_into_force_date: "2018-05-24"
+jci_1_3: "jci1.3:c:BWBR0040941&z=2018-05-24&g=2018-05-24"
+jci_1_0: "1.0:c:BWBR0040941&g=2018-05-24"
+citeertitel_status: "redactioneel"
+entry_into_force: "2018-05-24"
 ---
-
 # Protocol Gegevensvraag Wlz-gegevens 2017
 
 ### 1. Inleiding

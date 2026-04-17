@@ -1,13 +1,38 @@
 ---
 title: "Archiefbeheersregeling voor het CAK"
 identifier: "BWBR0033283"
-categorie: "Overig"
-publicatiedatum: 2013-04-16
-laatste_update: 2013-04-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033283"
+country: "nl"
+rank: "zbo"
+publication_date: "2013-04-16"
+last_updated: "2013-04-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033283"
+soort: "zbo"
+stam_id: "12220263"
+version_id: "20435192"
+internal_id: "C28719391"
+label_id: "12191824"
+dtd_version: "2.0"
+original_entry_into_force: "2013-04-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033283/2013-04-16/0"
+intitule_bron: "Stcrt.2013-9981"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-04-04"
+intitule_published: "2013-04-16"
+intitule_in_force: "2013-04-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-9981"
+original_signed_date: "2013-04-04"
+original_published_date: "2013-04-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-9981"
+entry_into_force_date: "2013-04-16"
+jci_1_3: "jci1.3:c:BWBR0033283&z=2013-04-16&g=2013-04-16"
+jci_1_0: "1.0:c:BWBR0033283&g=2013-04-16"
+citeertitel_status: "redactioneel"
+signed_date: "2013-04-04"
+entry_into_force: "2013-04-16"
 ---
-
 # Archiefbeheersregeling voor het CAK
 
 gelet op [artikel 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14);
@@ -18,7 +43,7 @@ besluit vast te stellen de navolgende archiefbeheersregeling:
 
 ### Hoofdstuk I. Begrippenkader
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -92,13 +117,13 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk II. Reikwijdte
 
-#### Artikel 2. Reikwijdte van de beheersregeling
+##### Artikel 2. Reikwijdte van de beheersregeling
 
 Deze beheersregeling is van toepassing op het beheer van documenten binnen het gehele CAK.
 
 ### Hoofdstuk III. Verantwoordelijkheden en taken
 
-#### Artikel 3. Verantwoordelijkheden en bevoegdheden
+##### Artikel 3. Verantwoordelijkheden en bevoegdheden
 
 1. Het Centraal Administratie Kantoor (CAK)
 
@@ -126,7 +151,7 @@ Deze beheersregeling is van toepassing op het beheer van documenten binnen het g
 
 ### Hoofdstuk IV. Documentbehandeling
 
-#### Artikel 4. Documentregistratie
+##### Artikel 4. Documentregistratie
 
 1. Formele documenten worden direct na ontvangst of voor verzending geregistreerd.
 
@@ -150,7 +175,7 @@ Deze beheersregeling is van toepassing op het beheer van documenten binnen het g
 
 4. Ingekomen formele documenten welke behoren te worden geregistreerd, ook al zijn zij geadresseerd op naam van een functionaris, mogen niet in behandeling worden genomen alvorens zij zijn geregistreerd.
 
-#### Artikel 5. Voortgang en afdoening
+##### Artikel 5. Voortgang en afdoening
 
 1. De afdelingsmanager is verantwoordelijk voor het afdoen van formele documenten binnen redelijke termijn, en in voorkomende gevallen binnen de wettelijk gestelde termijn.
 
@@ -160,7 +185,7 @@ Deze beheersregeling is van toepassing op het beheer van documenten binnen het g
 
 ### Hoofdstuk V. Archiefbeheer
 
-#### Artikel 6. Dossiervorming en archiefordening
+##### Artikel 6. Dossiervorming en archiefordening
 
 1. Alle ontvangen formele documenten worden direct na ontvangst door de beheerder gearchiveerd. Er wordt een nieuw zaakdossier aangemaakt of het stuk wordt in het bijbehorende zaakdossier opgeborgen.
 
@@ -174,7 +199,7 @@ Deze beheersregeling is van toepassing op het beheer van documenten binnen het g
 
 6. Permanent te bewaren zaakdossiers worden vanaf de vorming van de dossiers volgens de geldende eisen duurzaam materieel verzorgd c.q. bewaard.
 
-#### Artikel 7. Zaakdossierontsluiting
+##### Artikel 7. Zaakdossierontsluiting
 
 1. Van de zaakdossiers worden ten minste de volgende gegevens geregistreerd:
 
@@ -192,7 +217,7 @@ Deze beheersregeling is van toepassing op het beheer van documenten binnen het g
 
 2. Wanneer dat wenselijk is, wordt het ontsluiten van de inhoud van de archiefbescheiden zodanig verricht dat het gebruik van deze gegevens in combinatie met andere informatiebronnen van het CAK mogelijk is.
 
-#### Artikel 8. Selectie
+##### Artikel 8. Selectie
 
 1. De selectie van archiefbescheiden vindt uitsluitend plaats aan de hand van de vastgestelde selectielijst.
 
@@ -232,7 +257,7 @@ Op de selectielijst is aangegeven voor welke periode zij geldig is. De selectiel
 
 Door de beheerder van het archief wordt tweejaarlijks gecontroleerd of de selectielijst onderhoud behoeft. Indien noodzakelijk actualiseert hij de selectielijst. Een gewijzigde selectielijst moet opnieuw worden vastgesteld volgens de procedure genoemd in [artikel 8, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033283&hoofdstuk=V&artikel=8&z=2013-04-16&g=2013-04-16).
 
-#### Artikel 9. Duurzaamheid
+##### Artikel 9. Duurzaamheid
 
 1. De beheerder van het archief treft zodanige voorzieningen ten aanzien van de door het CAK opgemaakte archiefbescheiden die voor permanente bewaring in aanmerking komen, dat bij het raadplegen van die archiefbescheiden na ten minste 100 jaar geen noemenswaardige achteruitgang zal zijn te constateren.
 
@@ -242,7 +267,7 @@ Door de beheerder van het archief wordt tweejaarlijks gecontroleerd of de select
 
 4. Bij de (ver)bouw van archiefruimten wordt een technisch plan van archiefwettelijke eisen gehanteerd.
 
-#### Artikel 10. Digitale Archiefbescheiden
+##### Artikel 10. Digitale Archiefbescheiden
 
 1. Registratie
 
@@ -284,7 +309,7 @@ Van permanent te bewaren digitale archiefbescheiden worden ten minste de volgend
 
 ### Hoofdstuk VI. Informatieverstrekking
 
-#### Artikel 11. Informatieverstrekking
+##### Artikel 11. Informatieverstrekking
 
 1. Verzoeken om informatieverstrekking over of uit de archiefbescheiden en verzoeken van derden om archiefbescheiden in te zien worden door of namens de beheerder van het archief getoetst aan de vigerende wet- en regelgeving zoals de [Wet Openbaarheid van Bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252), de [Wet Bescherming Persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) en de [Algemene Wet Bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) (voor de afhandeling van WOB verzoeken zal tevens de hiervoor vastgestelde procedure worden gevolgd).
 
@@ -296,7 +321,7 @@ Van permanent te bewaren digitale archiefbescheiden worden ten minste de volgend
 
 ### Hoofdstuk VII. Verwijdering of verplaatsing van archiefbescheiden
 
-#### Artikel 12. Vervanging
+##### Artikel 12. Vervanging
 
 1. De beheerder van het archief kan besluiten over te gaan tot vervanging van archiefbescheiden, echter alleen als de vervanging geschiedt met juiste en volledige weergave van de in de te vervangen archiefbescheiden voorkomende gegevens.
 
@@ -304,13 +329,13 @@ Van permanent te bewaren digitale archiefbescheiden worden ten minste de volgend
 
 3. Pas nadat vervanging heeft plaatsgevonden mag tot vernietiging van de vervangen archiefbescheiden worden overgegaan.
 
-#### Artikel 13. Vernietiging
+##### Artikel 13. Vernietiging
 
 1. De beheerder van het archief draagt zorg dat vernietiging van daarvoor in aanmerking komende archiefbestanddelen geschiedt zodra de daarvoor in de selectielijst vastgestelde termijn is verstreken.
 
 2. Van de vernietiging van archiefbestanddelen wordt een verklaring opgemaakt, die ten minste een specificatie van de vernietigde archiefbescheiden bevat, alsmede aangeeft op grond waarvan en op welke wijze de vernietiging heeft plaats gevonden. De verklaring dient ondertekend te worden door de unitmanager. De beheerder van het archief bewaart een exemplaar van deze verklaring.
 
-#### Artikel 14. Overbrenging
+##### Artikel 14. Overbrenging
 
 1. De beheerder van het archief draagt zorg dat daarvoor in aanmerking komende archiefbescheiden worden overgebracht naar een Rijksarchiefbewaarplaats. De overbrenging geschiedt niet later dan 10 jaar nadat deze archiefbescheiden de leeftijd van twintig jaar hebben bereikt.
 
@@ -326,7 +351,7 @@ Van permanent te bewaren digitale archiefbescheiden worden ten minste de volgend
 
 7. De overbrenging wordt vastgelegd in een door of namens de beheerder van het archief ondertekende verklaring, die ten minste bevat een specificatie van de archiefbescheiden en de eventuele beperkingen aan de openbaarheid. De beheerder van het archief bewaart een exemplaar van deze verklaring.
 
-#### Artikel 15. Overdracht, vervreemding en ter beschikkingstelling
+##### Artikel 15. Overdracht, vervreemding en ter beschikkingstelling
 
 1. Ingeval van reorganisatie of opheffing van het CAK draagt de bestuursvoorzitter zorg dat archiefbescheiden betreffende nog niet afgedane zaken worden vervreemd of ter beschikking gesteld aan het bestuursorgaan dat deze zaken voortaan zal afdoen.
 
@@ -352,12 +377,12 @@ Indien bij reorganisatie of opheffing van het CAK archiefbescheiden aan een ande
 
 ### Hoofdstuk VIII. Toezicht en beveiliging
 
-#### Artikel 16. Toezicht
+##### Artikel 16. Toezicht
 
 1. De beheerder van het archief ziet erop toe dat de uitvoering van het archiefbeheer in overeenstemming is met de gestelde regels.
 
 2. De beheerder van het archief verstrekt desgewenst volledige en juiste informatie met betrekking tot de verzorging en staat van de archiefbescheiden en verleent toegang tot de ruimten waarin zich archiefbescheiden bevinden, ten behoeve van archiefonderzoek namens de beheerder van het archief, manager of de (rijks)archivaris.
 
-#### Artikel 17. Beveiliging
+##### Artikel 17. Beveiliging
 
 Archiefbestanddelen die vertrouwelijke informatie bevatten worden in een afsluitbare archiefkast geplaatst. De beheerder van het betreffende archiefbestanddeel is verantwoordelijk voor het beheer van de sleutel.

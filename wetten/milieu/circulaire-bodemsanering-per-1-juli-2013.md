@@ -1,13 +1,35 @@
 ---
 title: "Circulaire bodemsanering per 1 juli 2013"
 identifier: "BWBR0033592"
-categorie: "Milieu"
-publicatiedatum: 2013-07-01
-laatste_update: 2013-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033592"
+country: "nl"
+rank: "circulaire"
+publication_date: "2013-07-01"
+last_updated: "2013-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033592"
+soort: "circulaire"
+stam_id: "12297093"
+version_id: "20601482"
+internal_id: "C29477141"
+label_id: "12268814"
+dtd_version: "2.0"
+original_entry_into_force: "2013-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033592/2013-07-01/0"
+intitule_bron: "Stcrt.2013-16675"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2013-06-27"
+intitule_in_force: "2013-06-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-16675"
+original_published_date: "2013-06-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-16675"
+entry_into_force_date: "2013-07-01"
+jci_1_3: "jci1.3:c:BWBR0033592&z=2013-07-01&g=2013-07-01"
+jci_1_0: "1.0:c:BWBR0033592&g=2013-07-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2013-07-01"
 ---
-
 # Circulaire bodemsanering per 1 juli 2013
 
 ### 1. Inleiding

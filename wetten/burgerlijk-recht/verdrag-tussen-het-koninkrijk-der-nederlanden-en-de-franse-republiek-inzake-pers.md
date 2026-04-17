@@ -1,13 +1,38 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Franse Republiek inzake personencontrole op de luchthavens op Sint Maarten"
 identifier: "BWBV0002033"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2007-08-01
-laatste_update: 1994-05-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002033"
+country: "nl"
+rank: "verdrag"
+publication_date: "2007-08-01"
+last_updated: "1994-05-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002033"
+soort: "verdrag"
+stam_id: "10002635233"
+version_id: "10002632192"
+internal_id: "C10006986841"
+label_id: "10002624314"
+dtd_version: "2.0"
+original_entry_into_force: "2007-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002033/2007-08-01/0"
+intitule_bron: "Trb.1994-144"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-05-10"
+intitule_published: "1994-07-11"
+intitule_in_force: "2007-07-03"
+intitule_status: "goed"
+original_publication: "Trb.1994-144"
+original_signed_date: "2007-05-10"
+original_published_date: "1994-07-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1994-144"
+entry_into_force_date: "2007-08-01"
+jci_1_3: "jci1.3:c:BWBV0002033&z=2007-08-01&g=2007-08-01"
+jci_1_0: "1.0:c:BWBV0002033&g=2007-08-01"
+citeertitel_status: "redactioneel"
+signed_date: "2007-05-10"
+entry_into_force: "2007-08-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Franse Republiek inzake personencontrole op de luchthavens op Sint Maarten
 
 De Regering van het Koninkrijk der Nederlanden en de Regering van de Franse Republiek, hierna genoemd de Verdragsluitende Partijen,
@@ -20,11 +45,11 @@ Overwegende dat het in het gemeenschappelijke belang is van beide Verdragsluiten
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 De Verdragsluitende Partijen verbinden zich ertoe samen te werken teneinde de doelmatigheid van de controle op de binnenkomst en van het toezicht op het verblijf van vreemdelingen op Sint Maarten te verzekeren.
 
-#### Artikel 2
+##### Artikel 2
 
 In dit Verdrag wordt verstaan onder:
 
@@ -50,13 +75,13 @@ In dit Verdrag wordt verstaan onder:
 
 - -. Kosten van verwijdering: de kosten verbonden aan de verwijdering van een vreemdeling, inclusief de kosten van de aan een uitzetting voorafgaande vreemdelingenbewaring.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Op de luchthavens wordt de personencontrole uitgeoefend door de bevoegde autoriteiten van de gaststaat, op grond van nationale bevoegdheden en overeenkomstig het nationale recht.
 
 2. De grensbewakingsambtenaren van de zendstaat echter oefenen in het kader van de hierna omschreven gezamenlijke personencontrole overeenkomstig hun wetgeving personencontrole uit in de zone.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Bij een gezamenlijke controle als bedoeld in artikel 5, kan aan een vreemdeling die aan de onderstaande voorwaarden voldoet, toegang voor kort verblijf worden verleend tot het eiland:
 
@@ -74,7 +99,7 @@ In dit Verdrag wordt verstaan onder:
 
 3. De vreemdeling die houder is van een door een Verdragsluitende Partij afgegeven verblijfstitel of terugkeervisum, danwel zonodig van beide documenten, dient doorreis te worden verleend, tenzij hij gesignaleerd staat op de signaleringslijst van de gaststaat.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De gezamenlijke personencontrole wordt op zodanige wijze uitgeoefend dat eerst door de grensbewakingsambtenaar van de gaststaat wordt gecontroleerd en vervolgens door de grensbewakingsambtenaar van de zendstaat.
 
@@ -86,7 +111,7 @@ In dit Verdrag wordt verstaan onder:
 
 5. Tijdens een gezamenlijke personencontrole plegen de dienstdoende grensbewakingsambtenaren van de Verdragsluitende Partijen onderling overleg over de toelating van de vreemdeling. De beslissing tot weigering van toelating berust bij de grensbewakingsambtenaar van de gaststaat en wordt ook door die grensbewakingsambtenaar aan de vreemdeling meegedeeld.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Bij een gezamenlijke personencontrole zijn de grensbewakingsambtenaren van de zendstaat aan de volgende voorwaarden gebonden:
 
@@ -100,11 +125,11 @@ In dit Verdrag wordt verstaan onder:
 
 3. De autoriteiten van de zendstaat verlenen desgevraagd medewerking aan nader onderzoek van de gaststaat op wier luchthaven door hun grensbewakingsambtenaren werd opgetreden.
 
-#### Artikel 7
+##### Artikel 7
 
 Een persoon die tijdens een personencontrole door de grensbewakingsambtenaren van de zendstaat werd aangehouden, kan ongeacht zijn nationaliteit door de plaatselijk bevoegde autoriteiten voor verhoor worden aangehouden. De terzake geldende regels van nationaal recht van de gaststaat zijn van toepassing. Tenzij voordien de plaatselijk bevoegde autoriteiten een verzoek tot voorlopige aanhouding ter fine van uitlevering hebben ontvangen, in ongeacht welke vorm, wordt de aangehouden persoon in vrijheid gesteld bij het verstrijken van de hiervoor geldende maximum termijn.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Vorderingen tot vergoeding van schade die door grensbewakingsambtenaren van de zendstaat is veroorzaakt tijdens de uitoefening van hun functie in het kader van dit Verdrag in de gaststaat, worden beheerst door het recht en de rechtsmacht van de zendstaat, als ware de schade in deze staat ontstaan.
 
@@ -114,17 +139,17 @@ Een persoon die tijdens een personencontrole door de grensbewakingsambtenaren va
 
 4. Bij toepassing van het bepaalde in het derde lid houden de justitiële autoriteiten van de zendstaat de justitiële autoriteiten van de gaststaat op de hoogte van het tegen de betrokken grensbewakingsambtenaar ingestelde justitiële onderzoek, alsmede van de gevolgen die aan het resultaat daarvan worden verbonden.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De autoriteiten van de gaststaat verlenen de grensbewakingsambtenaren van de zendstaat tijdens de uitoefening van hun functie dezelfde bescherming en bijstand als zij hun eigen grensbewakingsambtenaren verlenen.
 
 2. De in de gaststaat geldende strafbepalingen ter bescherming van de grensbewakingsambtenaren tijdens de uitoefening van hun functie zijn tevens van toepassing op strafbare feiten begaan tegen de grensbewakingsambtenaren van de zendstaat tijdens de uitoefening van hun functie.
 
-#### Artikel 10
+##### Artikel 10
 
 De autoriteiten van de gaststaat behouden zich het recht voor de autoriteiten van de zendstaat te verzoeken een van hun grensbewakingsambtenaren terug te roepen.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De vreemdeling die niet of niet meer voldoet aan de in artikel 4 bedoelde voorwaarden van toegang dient het eiland in beginsel onverwijld te verlaten.
 
@@ -134,7 +159,7 @@ De autoriteiten van de gaststaat behouden zich het recht voor de autoriteiten va
 
 4. De Verdragsluitende Partijen verbinden zich van elke door haar uitgevoerde verwijdering als bedoeld in het tweede lid zodanig aantekening te houden dat daaruit de naam van de betrokken vreemdeling, de reden, de datum en de wijze van verwijdering, alsmede de naam van de betrokken vervoerder, de kosten en de wijze van betaling van die kosten, blijkt.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De Verdragsluitende Partijen verbinden zich de kosten van verwijdering gezamenlijk op de voet van dit artikel te dragen.
 
@@ -152,7 +177,7 @@ De autoriteiten van de gaststaat behouden zich het recht voor de autoriteiten va
 
 6. De Commissie stelt de door elk der Verdragsluitende Partijen te dragen kosten vast.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Voor de toepassing van dit Verdrag stellen de Verdragsluitende Partijen een Commissie in.
 
@@ -168,7 +193,7 @@ De autoriteiten van de gaststaat behouden zich het recht voor de autoriteiten va
 
 - c. het signaleren bij de Commissie van nieuwe risico's van illegale immigratie naar of nieuwe bedreigingen van de veiligheid op Sint Maarten.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De Commissie is samengesteld uit vijf vertegenwoordigers van elk der Verdragsluitende Partijen, waarvan tenminste één de justitiële autoriteiten vertegenwoordigt. Zij kunnen zich laten bijstaan door deskundigen die de vergaderingen bijwonen.
 
@@ -176,11 +201,11 @@ De autoriteiten van de gaststaat behouden zich het recht voor de autoriteiten va
 
 3. De Commissie besluit bij eenparigheid van stemmen. Elk der Verdragsluitende Partijen heeft één stem.
 
-#### Artikel 15
+##### Artikel 15
 
 Voorzover de Commissie niet in staat blijkt overeenstemming te bereiken over een kwestie met betrekking tot de toepassing van dit Verdrag, zal via diplomatieke kanalen een oplossing worden gezocht.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De werkgroep als bedoeld in artikel 13 bestaat uit een gelijk aantal bestuurlijke en justitiële autoriteiten van elk der Verdragsluitende Partijen.
 
@@ -190,23 +215,23 @@ Voorzover de Commissie niet in staat blijkt overeenstemming te bereiken over een
 
 4. Voorzover de werkgroep niet in staat blijkt overeenstemming te bereiken over een kwestie met betrekking tot het uitvoeren van de haar verstrekte opdrachten, wordt dit onverwijld aan de Commissie voorgelegd.
 
-#### Artikel 17
+##### Artikel 17
 
 Wat betreft het Koninkrijk der Nederlanden geldt dit Verdrag alleen voor het eilandgebied Sint Maarten van de Nederlandse Antillen.
 
 Wat betreft de Franse Republiek geldt dit Verdrag alleen voor het Franse deel van het eiland Sint Maarten.
 
-#### Artikel 18
+##### Artikel 18
 
 Dit Verdrag treedt in werking op de eerste dag van de derde maand volgend op de datum waarop de Verdragsluitende Partijen elkaar schriftelijk hebben medegedeeld dat aan de vereiste grondwettelijke procedures is voldaan.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Elk der Verdragsluitende Partijen kan een voorstel tot wijziging van dit Verdrag doen. Op verzoek van een der Verdragsluitende Partijen toetsen de Verdragsluitende Partijen de bepalingen van dit Verdrag wanneer naar hun oordeel een fundamentele wijziging in de op het tijdstip van inwerkingtreding van dit Verdrag bestaande omstandigheden is opgetreden.
 
 2. De wijzigingen treden in werking op de eerste dag van de derde maand volgend op de datum waarop de Verdragsluitende Partijen elkaar schriftelijk hebben medegedeeld dat aan de daartoe vereiste grondwettelijke procedures is voldaan.
 
-#### Artikel 20
+##### Artikel 20
 
 Dit Verdrag geldt voor onbepaalde tijd, waarbij elke Verdragsluitende Partij zich het recht voorbehoudt het Verdrag te beëindigen met inachtneming van een opzegtermijn van zes maanden.
 

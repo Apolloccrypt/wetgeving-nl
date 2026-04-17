@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika tot verbetering van de internationale naleving van de belastingplicht en tenuitvoerlegging van de FATCA"
 identifier: "BWBV0006305"
-categorie: "Belastingrecht"
-publicatiedatum: 2020-07-23
-laatste_update: 2020-07-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006305"
+country: "nl"
+rank: "verdrag"
+publication_date: "2020-07-23"
+last_updated: "2020-07-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006305"
+soort: "verdrag"
+stam_id: "10005155453"
+version_id: "10005516472"
+internal_id: "C10008798091"
+label_id: "10005138304"
+dtd_version: "2.0"
+original_entry_into_force: "2015-04-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006305/2020-07-23/0"
+intitule_bron: "Trb.2014-22"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2014-01-30"
+intitule_in_force: "2015-04-28"
+intitule_status: "goed"
+original_publication: "Trb.2014-22"
+original_published_date: "2014-01-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2014-22"
+entry_into_force_date: "2015-04-09"
+jci_1_3: "jci1.3:c:BWBV0006305&z=2020-07-23&g=2020-07-23"
+jci_1_0: "1.0:c:BWBV0006305&g=2020-07-23"
+citeertitel_status: "redactioneel"
+entry_into_force: "2015-04-09"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika tot verbetering van de internationale naleving van de belastingplicht en tenuitvoerlegging van de FATCA
 
 Overwegende dat
@@ -40,7 +62,7 @@ Overwegende dat de regeringen van de partijen een verdrag wensen te sluiten ter 
 
 Zijn de partijen thans het volgende overeengekomen:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 1. Voor de toepassing van dit Verdrag en de bijlagen daarbij („Verdrag”), hebben de onderstaande uitdrukkingen de volgende betekenis:
 
@@ -146,7 +168,7 @@ Zijn de partijen thans het volgende overeengekomen:
 
 2. Een uitdrukking die niet wordt omschreven in dit Verdrag, heeft, tenzij de context anders vereist, of indien de bevoegde autoriteiten (in overeenstemming met hun nationale wetgeving) gezamenlijk een betekenis overeenkomen, de betekenis welke die uitdrukking op dat tijdstip heeft volgens de wetgeving van de partij die dit Verdrag toepast, waarbij elke betekenis volgens de toepasselijke belastingwetgeving van die partij prevaleert boven een betekenis die volgens andere wetgeving van die partij aan die uitdrukking wordt gegeven.
 
-#### Artikel 2. Verplichtingen tot het verkrijgen en uitwisselen van informatie ten aanzien van te rapporteren rekeningen
+##### Artikel 2. Verplichtingen tot het verkrijgen en uitwisselen van informatie ten aanzien van te rapporteren rekeningen
 
 1. Onverminderd de bepalingen van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006305&artikel=3&z=2020-07-23&g=2020-07-23) van dit Verdrag verkrijgt elke partij de informatie omschreven in het tweede lid van dit artikel ter zake van alle te rapporteren rekeningen en wisselt zij deze informatie overeenkomstig beide of één van beide Verdragen jaarlijks automatisch uit met de andere partij.
 
@@ -186,7 +208,7 @@ Zijn de partijen thans het volgende overeengekomen:
 
 - 6. het brutobedrag van andere inkomsten afkomstig uit de VS gestort of bijgeschreven op de rekening, voor zover dit valt onder de rapportageverplichting van onderdeel A, hoofdstuk 3, of onderdeel F, hoofdstuk 61, van de U.S. Internal Revenue Code.
 
-#### Artikel 3. Tijdstip en wijze van informatie-uitwisseling
+##### Artikel 3. Tijdstip en wijze van informatie-uitwisseling
 
 1. Ten behoeve van de verplichting tot informatie-uitwisseling in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006305&artikel=2&z=2020-07-23&g=2020-07-23) van dit Verdrag kunnen het bedrag en de aard van betalingen verricht ter zake van een Amerikaanse te rapporteren rekening worden vastgesteld in overeenstemming met de beginselen van de Nederlandse belastingwetgeving, en kunnen het bedrag en de aard van betalingen verricht ter zake van een Nederlandse te rapporteren rekening worden vastgesteld in overeenstemming met de beginselen van de Amerikaanse federale inkomstenbelastingwetgeving.
 
@@ -220,7 +242,7 @@ Zijn de partijen thans het volgende overeengekomen:
 
 7. Voor alle informatie die uit hoofde van dit Verdrag wordt uitgewisseld gelden de vertrouwelijkheid en andere beschermingsmechanismen voorzien in de Verdragen, met inbegrip van bepalingen ter beperking van het gebruik van de uitgewisselde informatie.
 
-#### Artikel 4. Toepassing van de FATCA op Nederlandse financiële instellingen
+##### Artikel 4. Toepassing van de FATCA op Nederlandse financiële instellingen
 
 1. **Behandeling van rapporterende Nederlandse financiële instellingen.** Elke rapporterende Nederlandse financiële instelling wordt behandeld als een instelling die voldoet aan en niet onderworpen is aan de inhoudingsplicht van artikel 1471 van de U.S. Internal Revenue Code, mits Nederland ter zake van deze rapporterende Nederlandse financiële instelling voldoet aan zijn verplichtingen uit hoofde van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006305&artikel=2&z=2020-07-23&g=2020-07-23) en [3](https://wetten.overheid.nl/jci1.3:c:BWBV0006305&artikel=3&z=2020-07-23&g=2020-07-23) van dit Verdrag en de rapporterende Nederlandse financiële instelling:
 
@@ -262,7 +284,7 @@ Onverminderd het voorgaande is op een rapporterende Nederlandse financiële inst
 
 7. **Afstemming van begripsomschrijvingen met de voorschriften van het Amerikaanse ministerie van Financiën.** Onverminderd [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006305&artikel=1&z=2020-07-23&g=2020-07-23) van dit Verdrag en de begripsomschrijvingen vervat in de Bijlagen bij dit Verdrag kan Nederland bij de implementatie van dit Verdrag gebruikmaken van, en Nederlandse financiële instellingen het gebruik toestaan van, een begripsomschrijving in de relevante voorschriften van het Amerikaanse ministerie van Financiën in plaats van een dienovereenkomstige begripsomschrijving in dit Verdrag, mits de toepassing ervan niet ten koste gaat van de doelstellingen van dit Verdrag.
 
-#### Artikel 5. Samenwerking ten behoeve van naleving en handhaving
+##### Artikel 5. Samenwerking ten behoeve van naleving en handhaving
 
 1. **Kleine en administratieve fouten.** Een bevoegde autoriteit stelt de bevoegde autoriteit van de andere partij in kennis indien de eerstgenoemde bevoegde autoriteit redenen heeft om aan te nemen dat administratieve of andere kleine fouten mogelijk hebben geleid tot onjuiste of incomplete rapportage of tot andere inbreuken op dit Verdrag. De bevoegde autoriteit van de andere partij past haar nationale recht (met inbegrip van de van toepassing zijnde sancties) toe teneinde de gecorrigeerde en/of volledige informatie te verkrijgen of andere inbreuken op dit Verdrag te verhelpen.
 
@@ -276,7 +298,7 @@ Onverminderd het voorgaande is op een rapporterende Nederlandse financiële inst
 
 4. **Preventieve maatregelen.** De partijen implementeren de nodige maatregelen om te voorkomen dat financiële instellingen praktijken uitoefenen die beogen de uit hoofde van dit Verdrag vereiste rapportage te omzeilen.
 
-#### Artikel 6. Wederzijdse verplichting tot voortdurende verbetering van de effectiviteit van informatie-uitwisseling en transparantie
+##### Artikel 6. Wederzijdse verplichting tot voortdurende verbetering van de effectiviteit van informatie-uitwisseling en transparantie
 
 1. **Wederkerigheid.** De regering van de Verenigde Staten onderkent de noodzaak te bewerkstelligen dat op gelijk niveau wederzijds automatisch informatie kan worden uitgewisseld met Nederland. De regering van de Verenigde Staten heeft zich verplicht de transparantie verder te verbeteren en de betrekkingen met Nederland voor de uitwisseling te bevorderen door te streven naar het aannemen van regelgeving en het bevorderen en ondersteunen van relevante wetgeving teneinde wederzijdse automatische uitwisseling van informatie op gelijk niveau te bewerkstelligen.
 
@@ -290,23 +312,23 @@ Onverminderd het voorgaande is op een rapporterende Nederlandse financiële inst
 
 - b. verplicht Nederland zich vóór 1 januari 2017 regels vast te stellen voor de rapportage ter zake van 2017 en volgende jaren die rapporterende Nederlandse financiële instellingen verplichten de Amerikaanse TIN van elke omschreven Amerikaanse persoon te verkrijgen zoals vereist ingevolge [artikel 2, tweede lid, onderdeel a, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006305&artikel=2&z=2020-07-23&g=2020-07-23), van dit Verdrag.
 
-#### Artikel 7. Consistente toepassing van de FATCA op partnerstaten
+##### Artikel 7. Consistente toepassing van de FATCA op partnerstaten
 
 1. Nederland verkrijgt het voordeel van enigerlei gunstiger voorwaarden onder [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006305&artikel=4&z=2020-07-23&g=2020-07-23) of [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0006305&bijlage=I&z=2020-07-23&g=2020-07-23) van dit Verdrag bij de toepassing van de FATCA op Nederlandse financiële instellingen die zijn toegekend aan een andere partnerstaat op grond van een ondertekend bilateraal verdrag uit hoofde waarvan de andere partnerstaat dezelfde verplichtingen heeft aanvaard als Nederland zoals omschreven in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006305&artikel=2&z=2020-07-23&g=2020-07-23) en [3](https://wetten.overheid.nl/jci1.3:c:BWBV0006305&artikel=3&z=2020-07-23&g=2020-07-23) van dit Verdrag en onder dezelfde voorwaarden als omschreven in deze artikelen en de artikelen 5 tot en met 9 van dit Verdrag.
 
 2. De Verenigde Staten stellen Nederland in kennis van deze gunstiger voorwaarden en deze zullen automatisch uit hoofde van dit Verdrag van toepassing zijn alsof zij waren omschreven in dit Verdrag en van kracht zijn met ingang van de datum van ondertekening van het verdrag dat de gunstiger voorwaarden omvat, tenzij Nederland de toepassing ervan schriftelijk afwijst.
 
-#### Artikel 8. Overleg en wijzigingen
+##### Artikel 8. Overleg en wijzigingen
 
 1. Bij problemen bij de implementatie van dit Verdrag kan elke partij verzoeken om overleg teneinde passende maatregelen uit te werken om de uitvoering van dit Verdrag te waarborgen.
 
 2. Dit Verdrag kan met wederzijdse schriftelijke instemming van beide partijen worden gewijzigd. Tenzij anderszins overeengekomen, wordt een wijziging van kracht via de procedures vervat in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006305&artikel=10&z=2020-07-23&g=2020-07-23), van dit Verdrag.
 
-#### Artikel 9. Bijlagen
+##### Artikel 9. Bijlagen
 
 De Bijlagen vormen een integrerend onderdeel van dit Verdrag.
 
-#### Artikel 10. Looptijd van het Verdrag
+##### Artikel 10. Looptijd van het Verdrag
 
 1. Dit Verdrag treedt in werking op de datum waarop Nederland de Verenigde Staten er schriftelijk van in kennis stelt dat Nederland de vereiste interne procedures heeft afgerond voor de inwerkingtreding van dit Verdrag en het blijft van kracht tot het wordt beëindigd.
 

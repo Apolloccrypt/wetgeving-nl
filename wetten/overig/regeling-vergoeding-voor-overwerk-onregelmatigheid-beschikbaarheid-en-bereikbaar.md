@@ -1,13 +1,38 @@
 ---
 title: "Regeling vergoeding voor overwerk, onregelmatigheid, beschikbaarheid en bereikbaarheid"
 identifier: "BWBR0039900"
-categorie: "Overig"
-publicatiedatum: 2025-10-03
-laatste_update: 2025-10-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039900"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-10-03"
+last_updated: "2025-10-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039900"
+soort: "ministeriele-regeling"
+stam_id: "14136313"
+version_id: "24310322"
+internal_id: "C34898621"
+label_id: "14097464"
+dtd_version: "2.0"
+original_entry_into_force: "1987-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039900/2025-10-03/0"
+intitule_bron: "Stcrt.2017-46840"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1987-02-02"
+intitule_published: "2017-08-17"
+intitule_in_force: "2017-08-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-46840"
+original_signed_date: "1987-02-02"
+original_published_date: "2017-08-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-46840"
+entry_into_force_date: "1987-03-01"
+jci_1_3: "jci1.3:c:BWBR0039900&z=2025-10-03&g=2025-10-03"
+jci_1_0: "1.0:c:BWBR0039900&g=2025-10-03"
+citeertitel_status: "officieel"
+signed_date: "1987-02-02"
+entry_into_force: "1987-03-01"
 ---
-
 # Regeling vergoeding voor overwerk, onregelmatigheid, beschikbaarheid en bereikbaarheid
 
 Gelet op:
@@ -20,7 +45,7 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 #### Paragraaf I. Algemene bepalingen
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 1. Tenzij anders bepaald zijn de begripsomschrijvingen zoals opgenomen in [artikel 54a van het AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=54a) op deze regeling van toepassing.
 
@@ -68,13 +93,13 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 - (b). voor de overige militairen: de militair met de rang van sergeant-majoor of een hogere rang.
 
-#### Artikel 2. Toepasselijkheid
+##### Artikel 2. Toepasselijkheid
 
 1. Deze regeling is van toepassing op de militair die aanspraak heeft op salaris als bedoeld in [artikel 5 van het Inkomstenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=5)
 
 2. Deze regeling is van toepassing op de militair die is tewerkgesteld bij een bondgenootschappelijk orgaan of bij bondgenootschappelijke strijdkrachten, met dien verstande dat [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=V&artikel=8&z=2025-10-03&g=2025-10-03) uitsluitend van toepassing is voorzover krachtens de voor hem geldende regeling met betrekking tot werk- en rusttijden de maximale arbeidsduur als bedoeld in [artikel 54b, vierde lid, van het AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=54b) in de meetperiode wordt overschreden.
 
-#### Artikel 3
+##### Artikel 3
 
 De uren waarop de militair:
 
@@ -86,7 +111,7 @@ De uren waarop de militair:
 
 worden, voor zover die samenvallen met het voor hem geldende rooster, op dezelfde wijze tot de arbeidsduur gerekend als de in dat rooster vastgelegde werktijd.
 
-#### Artikel 4. Uitzonderingsbepalingen
+##### Artikel 4. Uitzonderingsbepalingen
 
 1. De militair komt niet in aanmerking voor een vergoeding op grond van de bepalingen in de [paragrafen II](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=II&z=2025-10-03&g=2025-10-03), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=III&z=2025-10-03&g=2025-10-03), [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=IV&z=2025-10-03&g=2025-10-03), [V](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=V&z=2025-10-03&g=2025-10-03) en [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=VI&z=2025-10-03&g=2025-10-03) van deze regeling gedurende de tijd dat hij:
 
@@ -110,13 +135,13 @@ worden, voor zover die samenvallen met het voor hem geldende rooster, op dezelfd
 
 3. Niet in aanmerking voor een vergoeding op grond van de bepalingen in de [paragrafen II](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=II&z=2025-10-03&g=2025-10-03), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=III&z=2025-10-03&g=2025-10-03), [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=IV&z=2025-10-03&g=2025-10-03) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=V&z=2025-10-03&g=2025-10-03) van deze regeling komt de militair die en gedurende de tijd dat hij aanspraak heeft op de toelage militaire bijstand, bedoeld in artikel 8 van de Inkomstenregeling militairen.
 
-#### Artikel 4a. Vaste vergoeding extra beslaglegging
+##### Artikel 4a. Vaste vergoeding extra beslaglegging
 
 Vervallen.
 
 #### Paragraaf II. Vergoeding voor onregelmatigheid
 
-#### Artikel 5. Toelage onregelmatige dienst
+##### Artikel 5. Toelage onregelmatige dienst
 
 1. De commandant kent na afloop van iedere kalendermaand een toelage onregelmatige dienst toe aan de militair met de rang van kapitein-luitenant ter zee dan wel luitenant-kolonel of met een lagere rang dan wel zonder rang die, uitsluitend in opdracht van de commandant, op ongebruikelijke uren werkzaamheden of diensten heeft verricht, anders dan bij wijze van overwerk en anders dan meerdaagse activiteiten.
 
@@ -138,7 +163,7 @@ Vervallen.
 
 5. De militair die aanspraak heeft op een toelage onregelmatige dienst, heeft geen aanspraak op een ZZF-vergoeding als bedoeld in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=VI&artikel=9&z=2025-10-03&g=2025-10-03), tenzij de militair bij wijze van overwerk in opdracht van de commandant op een ZZF-dag een activiteit verricht, genoemd in artikel 9, vierde lid.
 
-#### Artikel 5a. Afbouwtoelage onregelmatige dienst
+##### Artikel 5a. Afbouwtoelage onregelmatige dienst
 
 1. De commandant kent een afbouwtoelage onregelmatige dienst toe aan de militair, indien aan de militair in een kalendermaand niet langer een toelage onregelmatige dienst wordt toegekend en aan de militair voor de duur van ten minste vierentwintig maanden voorafgaande aan die beëindiging onafgebroken een toelage onregelmatige dienst is toegekend.
 
@@ -162,7 +187,7 @@ Vervallen.
 
 6. Indien tijdens de in het derde lid genoemde periode van twaalf maanden opnieuw een toelage onregelmatige dienst wordt toegekend, dan wordt het bedrag van de afbouwtoelage daarmee verlaagd.
 
-#### Artikel 5b. Verschuivingstoelage
+##### Artikel 5b. Verschuivingstoelage
 
 De militair die aanspraak heeft op een toelage onregelmatige dienst als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=II&artikel=5&z=2025-10-03&g=2025-10-03), komt in aanmerking voor een verschuivingstoelage van € 55,97 per verschoven dienst als gevolg van een roosterwijziging, indien:
 
@@ -170,7 +195,7 @@ De militair die aanspraak heeft op een toelage onregelmatige dienst als bedoeld 
 
 - b. de opdracht tot verschuiving binnen 72 uur voor aanvang van de verschoven dienst is gegeven
 
-#### Artikel 5c. Berekening toelage onregelmatige dienst in bijzondere situaties
+##### Artikel 5c. Berekening toelage onregelmatige dienst in bijzondere situaties
 
 1. De militair van wie de werkzaamheden of diensten door ziekte worden onderbroken, behoudt aanspraak op de toelage onregelmatige dienst, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=II&artikel=5&z=2025-10-03&g=2025-10-03), voor de duur van de ziekte.
 
@@ -180,7 +205,7 @@ De militair die aanspraak heeft op een toelage onregelmatige dienst als bedoeld 
 
 #### Paragraaf III. Vergoeding voor meerdaagse activiteiten
 
-#### Artikel 6
+##### Artikel 6
 
 1. Aan de militair wordt voor het verrichten van meerdaagse activiteiten, die een aaneengesloten periode van een etmaal of langer dan een etmaal beslaan, een vergoeding toegekend.
 
@@ -210,7 +235,7 @@ De militair die aanspraak heeft op een toelage onregelmatige dienst als bedoeld 
 
 #### Paragraaf IV. Vergoeding voor beschikbaarheid en bereikbaarheid
 
-#### Artikel 7. Vergoeding voor het verrichten van diensten
+##### Artikel 7. Vergoeding voor het verrichten van diensten
 
 1. De periode dat de militair, met de rang van luitenant ter zee der 1e klasse dan wel majoor, of met een lagere rang dan wel zonder rang,:
 
@@ -244,7 +269,7 @@ zonder dat hij wordt beperkt in zijn bewegingsvrijheid naar plaats en tijd of wo
 
 7. Indien na afloop van de meetperiode blijkt dat de in het eerste lid verleende vergoeding in vrije uren niet is verroosterd, dan wordt deze vervangen door een vergoeding in geld overeenkomstig [artikel 8, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=V&artikel=8&z=2025-10-03&g=2025-10-03), van deze regeling.
 
-#### Artikel 7a. Vergoeding voor beperking van bewegingsvrijheid
+##### Artikel 7a. Vergoeding voor beperking van bewegingsvrijheid
 
 1. Aan de militair met de rang van luitenant ter zee der 1e klasse dan wel majoor, of met een lagere rang dan wel zonder rang op wie de bij of krachtens [artikel 60b van het AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=60b) bedoelde verplichting wordt opgelegd zich op een bepaalde plaats beschikbaar of bereikbaar te houden, dan wel binnen een bepaald gebied te verblijven en/of zich op bepaalde tijdstippen te melden met het oog op eventuele dienstverrichting, wordt een vergoeding toegekend, voor zover deze verplichting wordt opgelegd op buiten de voor hem vastgestelde werktijden.
 
@@ -260,7 +285,7 @@ zonder dat hij wordt beperkt in zijn bewegingsvrijheid naar plaats en tijd of wo
 
 #### Paragraaf V. Vergoeding voor overwerk
 
-#### Artikel 8
+##### Artikel 8
 
 1. Aan de militair met de rang van luitenant ter zee der 1e klasse dan wel majoor, of met een lagere rang dan wel zonder rang wordt voor:
 
@@ -288,7 +313,7 @@ een vergoeding voor overwerk in vrije uren toegekend, indien als gevolg daarvan 
 
 8. Voor de toepassing van het vierde en zevende lid wordt een periode van een half uur of langer naar boven afgerond, een periode korter dan een half uur naar beneden.
 
-#### Artikel 8a
+##### Artikel 8a
 
 1. De commandant kent aan de militair met de rang van kapitein-luitenant ter zee dan wel luitenant-kolonel een compensatie voor overwerk toe, indien de militair in opdracht van de commandant een of meerdere uren overwerk verricht.
 
@@ -298,7 +323,7 @@ een vergoeding voor overwerk in vrije uren toegekend, indien als gevolg daarvan 
 
 #### Paragraaf VI. Vergoeding ZZF-dagen
 
-#### Artikel 9
+##### Artikel 9
 
 1. De militair die op een ZZF-dag meerdaagse activiteiten verricht, wordt, naast een vergoeding op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=III&artikel=6&z=2025-10-03&g=2025-10-03) van deze regeling, tevens een ZZF-vergoeding toegekend, bestaande uit per etmaal 8 uur vrije tijd.
 
@@ -330,20 +355,20 @@ wordt, naast een vergoeding op grond van [artikel 7](https://wetten.overheid.nl/
 
 7. De in het vierde lid bedoelde ZZF-vergoeding in tijd geldt ook voor militairen in de rang van kapitein-luitenant ter zee en luitenant-kolonel, met dien verstande dat er geen aanspraak bestaat op een vergoeding op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=IV&artikel=7&z=2025-10-03&g=2025-10-03), [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=IV&artikel=7a&z=2025-10-03&g=2025-10-03) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&paragraaf=V&artikel=8&z=2025-10-03&g=2025-10-03) van deze regeling.
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen.
 
 #### Paragraaf VII. Slotbepalingen
 
-#### Artikel 11. Grondslag
+##### Artikel 11. Grondslag
 
 Met ingang van 1 juli 2001 berust deze regeling op [artikel 60a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=60a) en [artikel 60c van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=60c).
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 maart 1987.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Deze regeling kan worden aangehaald als ‘Regeling vergoeding voor overwerk, onregelmatigheid, beschikbaarheid en bereikbaarheid’, afgekort VROB.

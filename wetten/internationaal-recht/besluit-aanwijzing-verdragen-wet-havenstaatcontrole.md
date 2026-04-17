@@ -1,13 +1,39 @@
 ---
-title: "Besluit aanwijzing verdragen Wet havenstaatcontrole"
+title: "Besluit van 21 november 2003, houdende aanwijzing van een verdrag als bedoeld in artikel 1, onderdeel b, onder 10°, van de Wet havenstaatcontrole"
 identifier: "BWBR0015939"
-categorie: "Internationaal recht"
-publicatiedatum: 2025-06-26
-laatste_update: 2025-06-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015939"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-06-26"
+last_updated: "2025-06-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015939"
+soort: "AMvB"
+stam_id: "5537833"
+version_id: "15541822"
+internal_id: "C21190751"
+label_id: "5509884"
+dtd_version: "2.0"
+original_entry_into_force: "2008-06-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015939/2025-06-26/0"
+intitule_bron: "Stb.2003-512"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-11-21"
+intitule_published: "2003-12-16"
+intitule_in_force: "2003-12-16"
+intitule_status: "goed"
+original_publication: "Stb.2008-249"
+original_signed_date: "2008-06-16"
+original_published_date: "2008-07-03"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2008-249"
+entry_into_force_date: "2008-06-16"
+jci_1_3: "jci1.3:c:BWBR0015939&z=2025-06-26&g=2025-06-26"
+jci_1_0: "1.0:c:BWBR0015939&g=2025-06-26"
+citeertitel_status: "officieel"
+short_title: "Besluit aanwijzing verdragen Wet havenstaatcontrole"
+signed_date: "2008-06-16"
+entry_into_force: "2008-06-16"
 ---
-
 # Besluit van 21 november 2003, houdende aanwijzing van een verdrag als bedoeld in artikel 1, onderdeel b, onder 10°, van de Wet havenstaatcontrole
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 3 oktober 2003, nr. HDJZ/SCH/2003–2119, Hoofddirectie Juridische Zaken;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister van Verkeer en Waterstaat van 14 nove
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 Als verdrag als bedoeld in [artikel 1, onderdeel b, onder 10°, van de Wet havenstaatcontrole](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&artikel=1) worden aangewezen:
 
@@ -42,13 +68,13 @@ Als verdrag als bedoeld in [artikel 1, onderdeel b, onder 10°, van de Wet haven
 
 - i. het Verdrag van Athene betreffende het vervoer van passagiers en hun bagage over zee van 1974, zoals gewijzigd bij het Protocol van 2002 (Trb. 2011, 110).
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Dit besluit wordt aangehaald als: Besluit aanwijzing verdragen Wet havenstaatcontrole.
 

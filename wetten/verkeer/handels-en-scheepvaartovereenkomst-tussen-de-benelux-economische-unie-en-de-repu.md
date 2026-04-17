@@ -1,13 +1,35 @@
 ---
 title: "Handels- en Scheepvaartovereenkomst tussen de Benelux Economische Unie en de Republiek Paraguay"
 identifier: "BWBV0004256"
-categorie: "Verkeer"
-publicatiedatum: 1967-02-13
-laatste_update: 1967-02-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004256"
+country: "nl"
+rank: "verdrag"
+publication_date: "1967-02-13"
+last_updated: "1967-02-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004256"
+soort: "verdrag"
+stam_id: "10004027603"
+version_id: "10004192512"
+internal_id: "C10008344391"
+label_id: "10004012204"
+dtd_version: "2.0"
+original_entry_into_force: "1967-02-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004256/1967-02-13/0"
+intitule_bron: "Trb.1963-166"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1963-10-30"
+intitule_in_force: "1967-11-21"
+intitule_status: "goed"
+original_publication: "Trb.1963-166"
+original_published_date: "1963-10-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1963-166"
+entry_into_force_date: "1967-02-13"
+jci_1_3: "jci1.3:c:BWBV0004256&z=1967-02-13&g=1967-02-13"
+jci_1_0: "1.0:c:BWBV0004256&g=1967-02-13"
+citeertitel_status: "redactioneel"
+entry_into_force: "1967-02-13"
 ---
-
 # Handels- en Scheepvaartovereenkomst tussen de Benelux Economische Unie en de Republiek Paraguay
 
 Het Koninkrijk der Nederlanden,
@@ -40,7 +62,7 @@ Dewelke, na uitwisseling van de respectieve volmachten, welke in goede orde werd
 
 de volgende bepalingen zijn overeengekomen:
 
-#### Artikel I
+##### Artikel I
 
 De Overeenkomstsluitende Partijen zullen er met alle middelen naar streven de wederzijdse handelsbetrekkingen zoveel mogelijk te versterken en te verruimen.
 
@@ -48,7 +70,7 @@ Te dien einde zullen de Overeenkomstsluitende Partijen streven naar een zo groot
 
 Voor zover in- en uitvoervergunningen benodigd zijn, zullen deze in de geest van de onderhavige Overeenkomst en in overeenstemming met de in de landen van de Overeenkomstsluitende Partijen geldende voorschriften zo liberaal en zo spoedig mogelijk worden verleend.
 
-#### Artikel II
+##### Artikel II
 
 Alle gunsten, voorrechten of vrijstellingen, die een der Overeenkomstsluitende Partijen verleent of zal verlenen aan produkten van oorsprong uit of bestemd voor enig derde land, zullen onmiddellijk en onvoorwaardelijk worden verleend aan de gelijksoortige produkten van oorsprong uit of bestemd voor de andere Partij. Deze bepaling heeft betrekking op douanerechten en belastingen van elke aard, die drukken op de invoer, de uitvoer, de doorvoer en de opslag onder douaneverband van goederen evenals de toepassing van douanevoorschriften of -formaliteiten.
 
@@ -56,19 +78,19 @@ De produkten van oorsprong uit een der Overeenkomstsluitende Partijen die worden
 
 De produkten van oorsprong uit een der Overeenkomstsluitende Partijen, die worden uitgevoerd naar het gebied van de andere Partij, zullen in het land van uitvoer niet worden onderworpen aan hogere rechten en belastingen van enige aard noch aan bezwarender douanevoorschriften of -formaliteiten dan die, welke gelden of zullen gelden voor gelijksoortige produkten bestemd voor enig derde land.
 
-#### Artikel III
+##### Artikel III
 
 De produkten van oorsprong uit een der Overeenkomstsluitende Partijen, die zullen worden ingevoerd in het gebied van de andere Partij, zullen in het land van invoer niet worden onderworpen aan de betaling van hogere interne rechten of belastingen, noch aan bezwarender formaliteiten dan die, welke van toepassing zijn op gelijksoortige produkten van oorsprong uit enig derde land en ingevoerd onder gelijkwaardige voorwaarden.
 
 Ongekeerd zullen de produkten van oorsprong uit een der Overeenkomstsluitende Partijen, die worden uitgevoerd naar het gebied van de andere Partij, in het land van uitvoer niet worden onderworpen aan de betaling van hogere interne rechten of belastingen, noch aan bezwarender formaliteiten dan die, welke van toepassing zijn bij de uitvoer naar enig derde land.
 
-#### Artikel IV
+##### Artikel IV
 
 De betalingen voortvloeiende uit transacties van commerciële of van enige andere aard tussen de landen van de Overeenkomstsluitende Partijen, zullen worden uitgevoerd overeenkomstig de reglementering welke in elk van de landen van de Overeenkomstsluitende Partijen van kracht is voor betalingen met het buitenland.
 
 De Overeenkomstsluitende Partijen zullen elkaar tenminste een even gunstige behandeling verlenen als die welke wordt verleend aan enig derde land ten aanzien waarvan hetzelfde betalingsregime wordt toegepast.
 
-#### Artikel V
+##### Artikel V
 
 De in de artikelen I, II, III en IV aangeduide behandeling van de meestbegunstigde natie zal zich niet uitstrekken tot:
 
@@ -80,13 +102,13 @@ De in de artikelen I, II, III en IV aangeduide behandeling van de meestbegunstig
 
 - d). de produkten van de nationale visserij.
 
-#### Artikel VI
+##### Artikel VI
 
 De Beneluxlanden en de Republiek Paraguay brengen in herinnering, dat douane-unies en vrijhandelszones en de overeenkomsten gesloten met het oog op de instelling van een douane-unie of van een vrijhandelszone van rechtswege uitzonderingen vormen op de clausule van de meestbegunstigde natie.
 
 Bijgevolg kunnen de in de onderhavige Overeenkomst vervatte verplichtingen van de Beneluxlanden, enerzijds, en van de Republiek Paraguay, anderzijds, niet zodanig worden uitgelegd, dat zij de verplichting inhouden tot elkander de voordelen uit te strekken, die deze landen toekennen of zullen toekennen ter toepassing van de Verdragen en Overeenkomsten tot instelling van de Europese Gemeenschappen, getekend te Parijs op 18 april 1951 en te Rome op 25 maart 1957, enerzijds, en het Verdrag tot instelling van de Latijns-Amerikaanse Vrijhandelsassociatie, getekend te Montevideo op 18 februari 1960, anderzijds.
 
-#### Artikel VII
+##### Artikel VII
 
 Geen bepaling van deze Overeenkomst zal worden uitgelegd zodanig dat zij een beletsel vormt voor het nemen of toepassen van maatregelen:
 
@@ -102,35 +124,35 @@ Geen bepaling van deze Overeenkomst zal worden uitgelegd zodanig dat zij een bel
 
 - f). betrekking hebbende op de controle van de in- of uitvoer van wapens, oorlogstuig en militaire goederen.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Elke commerciële verrichting tussen de Overeenkomstsluitende Partijen kan plaats vinden, hetzij rechtstreeks tussen hun ingezetenen of in hun landen gevestigde ondernemingen, hetzij indirect door tussenkomst van een ingezetene of van een onderneming van enig ander land.
 
 Elke commerciële verrichting tussen een der Overeenkomstsluitende Partijen en enig ander land kan plaats vinden door tussenkomst van een ingezetene van de andere Partij.
 
-#### Artikel IX
+##### Artikel IX
 
 Voor alles wat betreft heffingen, rechten en belastingen, hun schattingen en vereffeningen en overige formaliteiten en voorschriften, welke van toepassing zijn op de door voer handel, zullen de Overeenkomstsluitende Partijen de doorvoer van of naar het grondgebied van de andere Partij een niet minder gunstige behandeling toekennen dan die, welke wordt of zal worden toegekend aan de doorvoer van of naar het grondgebied van enig derde land.
 
-#### Artikel X
+##### Artikel X
 
 Met betrekking tot de inschrijving, verlenging, duur of geldigheid, vernieuwing, overdracht en wettelijke bescherming van patenten, fabrieks- en handelsmerken en handelsnamen zal elke Regering der Overeenkomstsluitende Partijen aan de onderdanen van de andere Partij en aan de op haar grondgebied gevestigde ondernemingen, een behandeling verlenen gelijk aan die welke haar eigen onderdanen genieten.
 
-#### Artikel XI
+##### Artikel XI
 
 Aan de Nederlandse, Belgische en Luxemburgse specialisten of technici, die voor kortere of langere tijd naar Paraguay worden gezonden, teneinde onder de gunstigste voorwaarden, met goedkeuring van de Paraguese Regering, over te gaan tot bestudering van belangrijke economische projecten, de levering van kapitaalgoederen of de investering van Nederlands, Belgisch of Luxemburgs kapitaal, zal de Paraguese Regering de nodige faciliteiten verlenen voor wat betreft inreis- en verblijfsvergunningen, alsmede voor de invoer van werktuigen, welke bij de uitvoering van hun specifieke taak nuttig kunnen zijn.
 
-#### Artikel XII
+##### Artikel XII
 
 Met het doel de wederzijdse economische betrekkingen te versterken, beschouwen de Regeringen van de Overeenkomstsluitende Partijen het als een aangelegenheid van wederzijds belang de invoer in Paraguay te bevorderen van die Nederlandse, Belgische en Luxemburgse kapitaalgoederen, welke bijdragen tot de ontwikkeling van de grondstoffenverwerkende industrie, de energievoorziening of het transportwezen van Paraguay. Te dien einde zullen de Regeringen van de Overeenkomstsluitende Partijen alle te hunner beschikking staande administratieve maatregelen aanwenden nopens de levering van dergelijke kapitaalgoederen met uitgestelde betalingen in passende termijnen.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Indien tijdens de duur van deze Overeenkomst bij een van beide Partijen de voor in- en uitvoer geldende regelingen een essentiële wijziging mochten ondergaan, kan ieder van de beide Partijen verlangen, dat onverwijld besprekingen worden geopend, teneinde de bestaande afspraken aan te passen aan de gewijzigde toestand.
 
 Indien een van de Regeringen der Overeenkomstsluitende Partijen enige maatregel zou nemen, die, hoewel niet strijdig met de bepalingen van deze Overeenkomst, door de andere Partij niettemin zou kunnen worden beschouwd als strekkende tot vernietiging of beperking van de werking van deze Overeenkomst, zal de Regering van de Overeenkomstsluitende Partij, die een dergelijke maatregel heeft genomen de bezwaren, die de andere Partij naar voren zal brengen in overweging nemen en haar gelegenheid bieden tot een gedachtenwisseling te komen, om tot een wederzijds bevredigende oplossing te geraken.
 
-#### Artikel XIV
+##### Artikel XIV
 
 De Overeenkomstsluitende Partijen komen overeen de ontwikkeling der internationale scheepvaartdiensten te bevorderen, onder inachtneming van vrije en normale mededingingsvoorwaarden. Zij komen overeen zich te onthouden van discriminatoire maatregelen, die de strekking hebben de vrije deelneming aan het internationale zeeverkeer van schepen van welke nationaliteit ook te beperken.
 
@@ -138,31 +160,31 @@ Een uitzondering op deze regel zal worden gemaakt voor de kustvaart in de buiten
 
 De Overeenkomstsluitende Partijen zullen slechts rechten en voorkeursbehandeling kunnen toekennen aan hun eigen schepen voor wat betreft de binnenscheepvaart en de nationale visserij.
 
-#### Artikel XV
+##### Artikel XV
 
 Bij het beschikken op verzoeken om vergunning tot de instelling van geregelde burgerluchtvaartdiensten zullen de Regeringen van de Overeenkomstsluitende Partijen het belang van een zo groot mogelijke vrijheid voor het luchtverkeer in aanmerking nemen.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Elk geschil tussen de Regering van de Republiek Paraguay en een der Regeringen van de Beneluxlanden met betrekking tot de uitlegging of de toepassing van deze Overeenkomst, waarvoor langs diplomatieke weg geen bevredigende oplossing zou worden gevonden, zal, op verzoek van een der Partijen bij het geschil, ter beoordeling worden voorgelegd aan het Internationale Gerechtshof, tenzij de betrokken Regeringen overeenkomen het geschil op enige andere vreedzame wijze op te lossen.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Wanneer de verplichtingen voortvloeiende uit het Verdrag tot instelling van de Europese Economische Gemeenschap en betrekking hebbende op de geleidelijke invoering van een gemeenschappelijke handelspolitiek zulks noodzakelijk maken, zullen op de kortst mogelijke termijn onderhandelingen worden geopend teneinde in deze Overeenkomst alle wenselijke wijzigingen aan te brengen.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Deze Overeenkomst vernietigt en vervangt de Handels- en Scheepvaartovereenkomst en de Betalingsovereenkomst tussen het Koninkrijk der Nederlanden en de Republiek Paraguay, beide getekend te Asunción op 13 april 1957.
 
-#### Artikel XIX
+##### Artikel XIX
 
 Deze Overeenkomst zal worden bekrachtigd en de akten van bekrachtiging zullen zo spoedig mogelijk worden nedergelegd bij de Regering van de Republiek Paraguay.
 
-#### Artikel XX
+##### Artikel XX
 
 Wat betreft het Koninkrijk der Nederlanden zal deze Overeenkomst van toepassing zijn op al zijn onderscheiden delen, tenzij in de akte van bekrachtiging geen melding wordt gemaakt van een of meer buiten Europa gelegen delen van het Koninkrijk.
 
-#### Artikel XXI
+##### Artikel XXI
 
 Deze Overeenkomst treedt in werking op de dag van nederlegging van de laatste akte van bekrachtiging.
 

@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregel bestuurlijke boetes Inspectie JenV – Wki"
 identifier: "BWBR0052246"
-categorie: "Strafrecht"
-publicatiedatum: 2026-02-04
-laatste_update: 2026-02-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052246"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2026-02-04"
+last_updated: "2026-02-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052246"
+soort: "beleidsregel"
+stam_id: "17751873"
+version_id: "31363422"
+internal_id: "C44819031"
+label_id: "17650254"
+dtd_version: "2.0"
+original_entry_into_force: "2026-02-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052246/2026-02-04/0"
+intitule_bron: "Stcrt.2026-1098"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2026-01-08"
+intitule_published: "2026-02-03"
+intitule_in_force: "2026-02-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-1098"
+original_signed_date: "2026-01-08"
+original_published_date: "2026-02-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-1098"
+entry_into_force_date: "2026-02-04"
+jci_1_3: "jci1.3:c:BWBR0052246&z=2026-02-04&g=2026-02-04"
+jci_1_0: "1.0:c:BWBR0052246&g=2026-02-04"
+citeertitel_status: "officieel"
+signed_date: "2026-01-08"
+entry_into_force: "2026-02-04"
 ---
-
 # Beleidsregel bestuurlijke boetes Inspectie JenV – Wki
 
 De Inspectie Justitie en Veiligheid (Inspectie JenV) heeft het volgende beleid vastgesteld waarin is vastgelegd hoe de hoogtes van bestuurlijke boetes als bedoeld in [artikel 5:40, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:40) (Awb) worden bepaald. Dit boetebeleid heeft betrekking op boetes die worden opgelegd voor overtredingen van of krachtens de [Wet kwaliteit incassodienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0046685) (Wki), het [Besluit kwaliteit incassodienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0049422) (Bki) en de [Regeling kwaliteit incassodienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0049507) (Rki). De toezichthoudende ambtenaren die werken bij de Inspectie JenV zijn belast met het toezicht op de naleving van het bepaalde bij of krachtens de Wki, zoals bedoeld in [artikel 14, eerste lid, van de Wki](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&artikel=14).1**Stcrt**. 2024, 10434.
@@ -16,7 +41,7 @@ Met de Beleidsregel bestuurlijke boetes Inspectie JenV – Wki (beleidsregel) be
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. – Definities
+##### Artikel 1. – Definities
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -46,13 +71,13 @@ In deze beleidsregel wordt verstaan onder:
 
 - m. **WvSr:** [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854).
 
-#### Artikel 2. – Reikwijdte
+##### Artikel 2. – Reikwijdte
 
 Deze beleidsregel is van toepassing op bestuurlijke boetes die op grond van [artikel 16, eerste lid, van de Wki](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&artikel=16), worden opgelegd voor overtredingen van de bepalingen als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&artikel=12) en [13 van de Wki](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&artikel=13) en [artikel 5:20, eerste lid, van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20).
 
 ### Hoofdstuk 2. Bepalen hoogte bestuurlijke boete
 
-#### Artikel 3. – Vaststellen wettelijke boetecategorie
+##### Artikel 3. – Vaststellen wettelijke boetecategorie
 
 **Categorie-indeling, boetebandbreedtes en verhogingsregelingen**
 
@@ -75,7 +100,7 @@ Hierbij gelden de volgende boetebandbreedtes6Artikel 16, derde lid, van de Wki, 
 
 1Per overtreding.
 
-#### Artikel 4. – Stappen boeteoplegging
+##### Artikel 4. – Stappen boeteoplegging
 
 1. De Inspectie JenV hanteert een stappenplan voor het vaststellen van de boete wegens één of meerdere overtredingen die is of zijn ingedeeld in een categorie, zoals bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052246&hoofdstuk=2&artikel=3&z=2026-02-04&g=2026-02-04) van deze beleidsregel.
 
@@ -173,7 +198,7 @@ Indien sprake is van recidive van een overtreding, hanteert de Inspectie JenV in
 
 ### Hoofdstuk 3. Slotbepalingen
 
-#### Artikel 5. – Afronding boetebedragen
+##### Artikel 5. – Afronding boetebedragen
 
 Op grond van dit beleid vastgestelde boetes worden als volgt afgerond:
 
@@ -183,10 +208,10 @@ Op grond van dit beleid vastgestelde boetes worden als volgt afgerond:
 
 De afronding vindt na elke stap plaats.
 
-#### Artikel 6. – Meerdere overtredingen
+##### Artikel 6. – Meerdere overtredingen
 
 Indien een rapport meerdere overtredingen betreft, kan de Inspectie JenV – in plaats van elke overtreding afzonderlijk te beboeten – een boete opleggen voor het geheel van deze overtredingen.
 
-#### Artikel 7. – Citeertitel en inwerkingtreding
+##### Artikel 7. – Citeertitel en inwerkingtreding
 
 Dit beleid wordt aangehaald als ‘Beleidsregel bestuurlijke boetes Inspectie JenV – Wki’ en treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.

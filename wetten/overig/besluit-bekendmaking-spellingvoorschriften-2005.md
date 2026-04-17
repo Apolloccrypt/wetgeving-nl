@@ -1,13 +1,39 @@
 ---
-title: "Besluit bekendmaking spellingvoorschriften 2005"
+title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 6 januari 2006, nr. WJZ/2006/288(8182), houdende bekendmaking van spellingregels en een lijst van woorden betreffende de schrijfwijze van de Nederlandse taal waartoe het Comité van Ministers op 25 april 2005 heeft beslist (Besluit bekendmaking spellingvoorschriften 2005)"
 identifier: "BWBR0019422"
-categorie: "Overig"
-publicatiedatum: 2006-05-01
-laatste_update: 2006-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019422"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2006-05-01"
+last_updated: "2006-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019422"
+soort: "ministeriele-regeling"
+stam_id: "8103283"
+version_id: "12939912"
+internal_id: "C17435351"
+label_id: "8084354"
+dtd_version: "2.0"
+original_entry_into_force: "2006-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019422/2006-05-01/0"
+intitule_bron: "Stcrt.2006-49"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-01-06"
+intitule_published: "2006-03-09"
+intitule_in_force: "2006-03-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-49"
+original_signed_date: "2006-01-06"
+original_published_date: "2006-03-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-49-p12-SC73416"
+entry_into_force_date: "2006-05-01"
+jci_1_3: "jci1.3:c:BWBR0019422&z=2006-05-01&g=2006-05-01"
+jci_1_0: "1.0:c:BWBR0019422&g=2006-05-01"
+citeertitel_status: "officieel"
+short_title: "Besluit bekendmaking spellingvoorschriften 2005"
+signed_date: "2006-01-06"
+entry_into_force: "2006-05-01"
 ---
-
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 6 januari 2006, nr. WJZ/2006/288(8182), houdende bekendmaking van spellingregels en een lijst van woorden betreffende de schrijfwijze van de Nederlandse taal waartoe het Comité van Ministers op 25 april 2005 heeft beslist (Besluit bekendmaking spellingvoorschriften 2005)
 
 Gezien de beslissing van 25 april 2005 van het Comité van Ministers van de Nederlandse Taalunie betreffende de schrijfwijze van de Nederlands taal;
@@ -16,7 +42,7 @@ Gelet op [artikel 4, tweede lid, van de Spellingwet](https://wetten.overheid.nl/
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Met ingang van 1 augustus 2006 geschiedt de schrijfwijze van de Nederlandse taal bij de in [artikel 2 van de Spellingwet](https://wetten.overheid.nl/jci1.3:c:BWBR0018784&artikel=2) bedoelde overheidsorganen, bij de uit de openbare kas bekostigde onderwijsinstellingen en bij de examens waarvoor wettelijke voorschriften zijn vastgesteld, volgens:
 
@@ -24,7 +50,7 @@ Met ingang van 1 augustus 2006 geschiedt de schrijfwijze van de Nederlandse taal
 
 - b. de woordenlijst die ter inzage is gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit wordt aangehaald als: Besluit bekendmaking spellingvoorschriften 2005.
 

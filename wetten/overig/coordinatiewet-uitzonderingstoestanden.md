@@ -1,14 +1,42 @@
 ---
-title: "Coördinatiewet uitzonderingstoestanden"
+title: "Wet van 3 april 1996, houdende regeling met betrekking tot uitzonderingstoestanden (Coördinatiewet uitzonderingstoestanden)"
 identifier: "BWBR0007981"
-categorie: "Overig"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007981"
+country: "nl"
+rank: "wet"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007981"
+soort: "wet"
+stam_id: "106163"
+version_id: "17606202"
+internal_id: "C24363551"
+label_id: "106794"
+dtd_version: "2.0"
+original_entry_into_force: "2010-05-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007981/2024-01-01/0"
+intitule_bron: "Stb.1996-365"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-04-03"
+intitule_published: "1996-07-09"
+intitule_in_force: "1997-04-29"
+intitule_status: "goed"
+original_publication: "Stb.2010-350"
+original_signed_date: "2010-05-17"
+original_published_date: "2010-09-01"
+original_effect: "structuurwijziging"
+original_dossier: "31959"
+original_url_id: "stb-2010-350"
+entry_into_force_date: "2010-05-17"
+entry_into_force_dossier: "31959"
+jci_1_3: "jci1.3:c:BWBR0007981&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0007981&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Coördinatiewet uitzonderingstoestanden"
+signed_date: "2010-05-17"
+entry_into_force: "2010-05-17"
 ---
-
-# Coördinatiewet uitzonderingstoestanden
+# Wet van 3 april 1996, houdende regeling met betrekking tot uitzonderingstoestanden (Coördinatiewet uitzonderingstoestanden)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +46,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### § 1. Afkondiging, opheffing en einde van een uitzonderingstoestand
 
-#### Artikel 1
+##### Artikel 1
 
 1. Ingeval buitengewone omstandigheden dit noodzakelijk maken, kan ter handhaving van de uitwendige of inwendige veiligheid, bij koninklijk besluit, op voordracht van Onze Minister-President, de beperkte noodtoestand of de algemene noodtoestand worden afgekondigd.
 
@@ -26,11 +54,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 3. Het koninklijk besluit, bedoeld in het eerste lid, wordt in ieder geval geplaatst in het **Staatsblad**.
 
-#### Artikel 2
+##### Artikel 2
 
 Het koninklijk besluit waarbij hetzij de beperkte noodtoestand hetzij de algemene noodtoestand wordt afgekondigd, wordt terstond medegedeeld aan de Staten-Generaal.
 
-#### Artikel 3
+##### Artikel 3
 
 De beperkte noodtoestand en de algemene noodtoestand worden opgeheven:
 
@@ -38,11 +66,11 @@ De beperkte noodtoestand en de algemene noodtoestand worden opgeheven:
 
 - b. bij koninklijk besluit op voordracht van Onze Minister-President, zodra de omstandigheden dit naar Ons oordeel toelaten.
 
-#### Artikel 4
+##### Artikel 4
 
 De beperkte noodtoestand en de algemene noodtoestand eindigen van rechtswege bij de aanvang van de algemene noodtoestand, respectievelijk de beperkte noodtoestand.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het besluit, bedoeld in [artikel 3, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&paragraaf=1&artikel=3&z=2024-01-01&g=2024-01-01), wordt op de daarin te bepalen wijze bekendgemaakt op last van de voorzitter der verenigde vergadering en treedt terstond in werking.
 
@@ -52,39 +80,39 @@ De beperkte noodtoestand en de algemene noodtoestand eindigen van rechtswege bij
 
 4. Het koninklijk besluit, bedoeld in het derde lid, wordt in ieder geval geplaatst in het **Staatsblad**.
 
-#### Artikel 6
+##### Artikel 6
 
 Door opheffing of einde van de beperkte noodtoestand, respectievelijk de algemene noodtoestand eindigt van rechtswege de werking van de bepalingen die in werking zijn gesteld ingevolge het koninklijk besluit bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&paragraaf=2&artikel=7&z=2024-01-01&g=2024-01-01), respectievelijk [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01).
 
 #### § 2. Inwerkingstelling en buitenwerkingstelling van noodwetgeving gedurende een uitzonderingstoestand
 
-#### Artikel 7
+##### Artikel 7
 
 1. Indien de beperkte noodtoestand is afgekondigd, worden bij koninklijk besluit, op voordracht van Onze Minister-President, voor Nederland of een gedeelte daarvan bepalingen in werking gesteld die voorkomen op de bij deze wet behorende lijst A.
 
 2. Bij koninklijk besluit, op voordracht van Onze Minister-President, worden bepalingen die ingevolge het in het eerste lid bedoelde besluit in werking zijn gesteld, buiten werking gesteld, zodra de omstandigheden dit naar Ons oordeel toelaten.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Indien de algemene noodtoestand is afgekondigd, worden bij koninklijk besluit, op voordracht van Onze Minister-President, voor Nederland of een gedeelte daarvan bepalingen in werking gesteld die voorkomen op de bij deze wet behorende lijst B.
 
 2. Bij koninklijk besluit, op voordracht van Onze Minister-President, worden bepalingen die ingevolge het in het eerste lid bedoelde besluit in werking zijn gesteld, buiten werking gesteld, zodra de omstandigheden dit naar Ons oordeel toelaten.
 
-#### Artikel 9
+##### Artikel 9
 
 Het koninklijk besluit waarbij gedurende een noodtoestand voor Nederland of een gedeelte daarvan bepalingen die voorkomen op de bij deze wet behorende lijsten A en B in werking dan wel buiten werking worden gesteld, wordt terstond medegedeeld aan de Staten-Generaal. Het treedt niet in werking dan nadat het op de daarin te bepalen wijze is bekendgemaakt. Het wordt in ieder geval geplaatst in het **Staatsblad**.
 
 #### § 2a. Bonaire, Sint Eustatius en Saba
 
-#### Artikel 10
+##### Artikel 10
 
 Wijzigt deze wet.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 12
+##### Artikel 12
 
 Deze wet wordt aangehaald als: Coördinatiewet uitzonderingstoestanden.
 
@@ -548,11 +576,11 @@ van de [Wet medisch-wetenschappelijk onderzoek met mensen](https://wetten.overhe
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 9a
+##### Artikel 9a
 
 In deze paragraaf wordt verstaan onder openbare lichamen: de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 9b
+##### Artikel 9b
 
 1. Deze wet is mede van toepassing in de openbare lichamen met inachtneming van het in deze paragraaf bepaalde.
 
@@ -562,11 +590,11 @@ In deze paragraaf wordt verstaan onder openbare lichamen: de openbare lichamen B
 
 - b. «Onze Commissaris van de Koning», «Onze Commissaris in de provincie» en «Onze commissaris in de provincie»: de Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 9c
+##### Artikel 9c
 
 Indien ingevolge een koninklijk besluit als bedoeld in de [artikelen 7, eerste lis](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&paragraaf=2&artikel=7&z=2024-01-01&g=2024-01-01), of [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01), voor de openbare lichamen gezamenlijk of ieder afzonderlijk één of meerdere bepalingen in werking worden gesteld, kunnen hiermee samenhangende in een koninklijk besluit aan te wijzen bepalingen bij dat besluit van overeenkomstige toepassing worden verklaard in de openbare lichamen.
 
-#### Artikel 9d
+##### Artikel 9d
 
 Onze Minister wie het aangaat kan aan de gezaghebber of de Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba mandaat verlenen tot het uitoefenen in de openbare lichamen van de bevoegdheden die zijn opgenomen in op grond van de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&paragraaf=2&artikel=7&z=2024-01-01&g=2024-01-01), of [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01), in werking gestelde artikelen.
 

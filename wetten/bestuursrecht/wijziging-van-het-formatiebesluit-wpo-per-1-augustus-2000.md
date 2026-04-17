@@ -1,13 +1,36 @@
 ---
 title: "Wijziging van het Formatiebesluit WPO per 1 augustus 2000"
 identifier: "BWBR0011216"
-categorie: "Bestuursrecht"
-publicatiedatum: 2000-03-29
-laatste_update: 2000-03-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011216"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2000-03-29"
+last_updated: "2000-03-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011216"
+soort: "beleidsregel"
+stam_id: "6511933"
+version_id: "11208712"
+internal_id: "C15139451"
+label_id: "6501124"
+original_entry_into_force: "2000-03-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011216/2000-03-29/0"
+intitule_bron: "Uitleg.2000-9"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-03-10"
+intitule_published: "2000-03-29"
+intitule_in_force: "2000-03-29"
+intitule_status: "goed"
+original_publication: "Uitleg.2000-9"
+original_signed_date: "2000-03-10"
+original_published_date: "2000-03-29"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2000-03-29"
+jci_1_3: "jci1.3:c:BWBR0011216&z=2000-03-29&g=2000-03-29"
+jci_1_0: "1.0:c:BWBR0011216&g=2000-03-29"
+citeertitel_status: "redactioneel"
+signed_date: "2000-03-10"
+entry_into_force: "2000-03-29"
 ---
-
 # Wijziging van het Formatiebesluit WPO per 1 augustus 2000
 
 ### 1. Inleiding

@@ -1,13 +1,37 @@
 ---
-title: "Administratief akkoord tussen het Koninkrijk der Nederlanden en Jemen inzake het project "Support to the Shabwah government""
+title: "Administratief akkoord tussen het Koninkrijk der Nederlanden en Jemen inzake het project \"Support to the Shabwah government\""
 identifier: "BWBV0001551"
-categorie: "Internationaal recht"
-publicatiedatum: 2002-10-12
-laatste_update: 2002-01-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001551"
+country: "nl"
+rank: "verdrag"
+publication_date: "2002-10-12"
+last_updated: "2002-01-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001551"
+soort: "verdrag"
+stam_id: "10000634883"
+version_id: "10000652952"
+internal_id: "C10006994901"
+label_id: "10000635064"
+original_entry_into_force: "2002-10-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001551/2002-10-12/0"
+intitule_bron: "Trb.2002-198"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-10-12"
+intitule_published: "2002-11-14"
+intitule_in_force: "2002-11-14"
+intitule_status: "goed"
+original_publication: "Trb.2002-198"
+original_signed_date: "2002-10-12"
+original_published_date: "2002-11-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2002-198"
+entry_into_force_date: "2002-10-12"
+jci_1_3: "jci1.3:c:BWBV0001551&z=2002-10-12&g=2002-10-12"
+jci_1_0: "1.0:c:BWBV0001551&g=2002-10-12"
+citeertitel_status: "officieel"
+signed_date: "2002-10-12"
+entry_into_force: "2002-10-12"
 ---
-
 # Administratief akkoord tussen het Koninkrijk der Nederlanden en Jemen inzake het project "Support to the Shabwah government"
 
 The Netherlands Minister for Development Co-operation, being the competent Netherlands Authority for the purpose of this Administrative Arrangement, hereinafter referred to as ``the Netherlands Party", represented in this matter by the Ambassador of the Royal Netherlands Embassy in the Republic of Yemen, H.E. Mr. B.J. Ronhaar,
@@ -22,13 +46,13 @@ Having regard to the provisions of Article I of the Agreement on technical co-op
 
 Have entered into the following administrative arrangement:
 
-#### Article I. The Programme
+##### Article I. The Programme
 
 1. The two Parties shall jointly execute a programme to be known as ``Support to the Shabwah government", hereinafter referred to as ``the Programme". The aim of the Programme is to assist the Government of Shabwah to improve its service delivery and creating an enabling environment directed towards the social and economic development of the Shabwah governorate within the framework of Yemeni Law 4 of 2000 on Local Authorities.
 
 2. The aforesaid co-operation between the two Parties is planned to last six years, retroactively starting from 01 January 2002.
 
-#### Article II. The Netherlands contribution
+##### Article II. The Netherlands contribution
 
 1. The Netherlands Party shall make the following contribution to the Programme:
 
@@ -40,7 +64,7 @@ Have entered into the following administrative arrangement:
 
 2. The total expenses of the above mentioned Netherlands contribution shall not exceed the amount of € 12,980,000,– (say: twelve million nine hundred eighty thousand Euro).
 
-#### Article III. The Yemeni Contribution
+##### Article III. The Yemeni Contribution
 
 1. The Yemeni Party shall make the following contributions to the Programme.
 
@@ -58,7 +82,7 @@ Have entered into the following administrative arrangement:
 
 2. The value of the Yemeni contribution will be specified in the approved Annual Budget allocation to Shabwah governments.
 
-#### Article IV. The Executive Authorities
+##### Article IV. The Executive Authorities
 
 1. The Netherlands Party shall appoint the Royal Netherlands Embassy in Sana'a as the Netherlands Executive Authority in charge of the Netherlands contribution to the Programme.
 
@@ -68,7 +92,7 @@ Have entered into the following administrative arrangement:
 
 4. The above-mentioned Yemeni Party shall be represented, as far as the day to day operations of the Programme are concerned, by the Deputy Governor of Shabwah.
 
-#### Article V. Delegation
+##### Article V. Delegation
 
 1. The Parties shall delegate the overall supervision and joint policy reviews of the Programme to a Steering Committee (SC) composed of the following persons:
 
@@ -92,11 +116,11 @@ Have entered into the following administrative arrangement:
 
 3. The Steering Committee will meet from time to time at the request of the executive authorities but at least twice a year.
 
-#### Article VI. The Team-leader
+##### Article VI. The Team-leader
 
 The Team-leader shall be responsible to the Netherlands Executive Authority for the correct implementation of the Netherlands contribution. The Team-leader shall act in close consultation with the Yemeni Executive Authority and respect the operational instructions given by the said Authority to the Yemeni personnel. The Yemeni Executive Authority shall provide the Team-leader with any information that may be considered necessary for the execution of the Programme.
 
-#### Article VII. Programme Documents
+##### Article VII. Programme Documents
 
 1. The Executive Authorities have established by common consent the Programme Documents, consisting of ``Background and Strategic note for the Netherlands support to local authorities in Shabwah governorate" of December 2001, the ``Terms of Reference for the technical support to the governments in Shabwah governorate in Yemen" of January 2002 and the ``ProposaI from ARCADIS BMB for the technicaI assistance to the government of Shabwah governorate" of March 2002. The initial Programme Documents will be completed with:
 
@@ -116,33 +140,33 @@ the Inception Report.
 
 6. The rules and regulations, to be agreed upon by the Executive Authorities, shall govern the provision and disbursement of the financial support.
 
-#### Article VIII. Status of staff
+##### Article VIII. Status of staff
 
 The staff assigned to the Programme by the Netherlands Party shall enjoy the privileges and immunities mentioned in the Articles II and III of the Agreement.
 
-#### Article IX. Status of equipment and materials
+##### Article IX. Status of equipment and materials
 
 1. The provisions of Article V of the Agreement shall be applicable to the importation and exportation of the equipment and materials for the Programme supplied by the Netherlands Party.
 
 2. The ownership of all equipment and materiaIs (inclusive motor-vehicles) supplied by the Netherlands Party, shall be transferred to the government of Shabwah at the time the co-operation between the two Parties on the Programme will be completed unless both Parties decide to give another destination to the equipment and materials.
 
-#### Article X. Reporting
+##### Article X. Reporting
 
 1. The Team-leader shall submit every six months a narrative and financial report in the English and Arabic languages on the progress made on the execution of the Programme to both Executive Authorities. At the termination of the Programme, the Team-leader shall submit to all parties concerned a final narrative and financial report in the English and Arabic language on all aspects of the work done in connection with the Programme.
 
 2. Shabwah government shall submit every three months a narrative and financial report in the English and Arabic languages on the activities implemented, constraints and proposed changes and on financial expenditures with a liquidity planning for the next six months to be submitted according to the procedures to be agreed upon and specified in the Arrangement with the Governor of Shabwah governorate.
 
-#### Article XI. Evaluation
+##### Article XI. Evaluation
 
 1. The Executive Authorities shall evaluate the Programme after 24 months.
 
 2. The Executive Authorities shall make yearly a value for money audit, which will be conducted by a contracted specialist party to be contracted by the Netherlands Party.
 
-#### Article XII. Settlement of disputes
+##### Article XII. Settlement of disputes
 
 Any dispute concerning the interpretation or implementation of this Administrative Arrangement which cannot be settled in consultation between both Parties shall be referred to the respective Governments in a way to be decided upon by the latter.
 
-#### Article XIII. Entry into force and duration
+##### Article XIII. Entry into force and duration
 
 This Administrative Arrangement shall enter into force, with retroactive effect to 01 January 2002, on the date of signature and shall expire at the end of the period mentioned in Article I, paragraph 2, of this Arrangement or on the date on which the Programme has been completed in conformity with the provisions of this Arrangement.
 

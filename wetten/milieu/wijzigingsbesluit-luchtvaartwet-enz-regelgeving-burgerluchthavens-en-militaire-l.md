@@ -1,13 +1,39 @@
 ---
-title: "Wijzigingsbesluit Luchtvaartwet, enz. (Regelgeving burgerluchthavens en militaire luchthavens)"
+title: "Besluit van 31 augustus 2009 tot aanpassing van algemene maatregelen van bestuur aan wijzigingen van de Luchtvaartwet en de Wet luchtvaart (Regelgeving burgerluchthavens en militaire luchthavens)"
 identifier: "BWBR0026471"
-categorie: "Milieu"
-publicatiedatum: 2010-01-20
-laatste_update: 2010-01-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026471"
+country: "nl"
+rank: "amvb"
+publication_date: "2010-01-20"
+last_updated: "2010-01-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026471"
+soort: "AMvB"
+stam_id: "10198923"
+version_id: "16691312"
+internal_id: "C23101161"
+label_id: "10174874"
+dtd_version: "2.0"
+original_entry_into_force: "2009-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026471/2010-01-20/0"
+intitule_bron: "Stb.2009-400"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-08-31"
+intitule_published: "2009-10-06"
+intitule_in_force: "2009-10-30"
+intitule_status: "goed"
+original_publication: "Stb.2009-400"
+original_signed_date: "2009-08-31"
+original_published_date: "2009-10-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2009-400"
+entry_into_force_date: "2009-11-01"
+jci_1_3: "jci1.3:c:BWBR0026471&z=2010-01-20&g=2010-01-20"
+jci_1_0: "1.0:c:BWBR0026471&g=2010-01-20"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsbesluit Luchtvaartwet, enz. (Regelgeving burgerluchthavens en militaire luchthavens)"
+signed_date: "2009-08-31"
+entry_into_force: "2009-11-01"
 ---
-
 # Besluit van 31 augustus 2009 tot aanpassing van algemene maatregelen van bestuur aan wijzigingen van de Luchtvaartwet en de Wet luchtvaart (Regelgeving burgerluchthavens en militaire luchthavens)
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 22 juni 2009, nr. CEND/HDJZ-2009/456 sector LUV, Hoofddirectie Juridische Zaken, gedaan mede namens Onze Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, voor Wonen, Wijken en Integratie, van Landbouw, Natuur en Voedselkwaliteit en van Onderwijs, Cultuur en Wetenschap en de Staatssecretaris van Defensie en in overeenstemming met Onze Minister van Economische Zaken;
@@ -34,75 +60,75 @@ Gezien het nader rapport van Onze Minister van Verkeer en Waterstaat van 25 augu
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Besluit beperking geluidhinder luchtvaartuigen.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Besluit beperkingen burgerluchtverkeer Waddenzee.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het Besluit bewijzen van bevoegdheid voor de luchtvaart.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Besluit geluidhinder.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt het Besluit milieu-effectrapportage 1994.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt het Besluit milieuverslaglegging.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt het Besluit omgevingslawaai.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt het Besluit slotallocatie.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt het Besluit vervoer gevaarlijke stoffen door de lucht.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt het Besluit vervoer gevaarlijke stoffen door de lucht met militaire luchtvaartuigen.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt het Bouwbesluit 2003.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt het Luchtverkeersreglement.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt het Mijnbouwbesluit.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt de Regeling Toezicht Luchtvaart.
 
-#### Artikel XVI
+##### Artikel XVI
 
 De algemene maatregelen van bestuur, genoemd in de [artikelen I tot en met VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0026471&artikel=I&z=2010-01-20&g=2010-01-20) en [X tot en met XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0026471&artikel=X&z=2010-01-20&g=2010-01-20), zoals zij luidden vóór inwerkingtreding van die artikelen, blijven van toepassing op een luchtvaartterrein, aangewezen op grond van [artikel 18 van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=18), zolang op dat luchtvaartterrein het bepaalde bij of krachtens de [Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267) van toepassing blijft krachtens [artikel IX, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=IX), of [artikel XVIII, derde lid, van de Wet van 18 december 2008, houdende wijziging van de Wet luchtvaart inzake vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens en de decentralisatie van bevoegdheden voor burgerluchthavens naar het provinciaal bestuur (Regelgeving burgerluchthavens en militaire luchthavens)](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=XVIII) (Stb. 561).
 
-#### Artikel XVII
+##### Artikel XVII
 
 Wijzigt het Besluit geluidhinder, het Besluit omgevingslawaai en het Bouwbesluit 2003.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 

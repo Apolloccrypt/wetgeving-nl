@@ -1,13 +1,39 @@
 ---
-title: "Besluit gegevensverwerking bij discriminatie op de BES"
+title: "Besluit van 27 november 2025, houdende regels inzake gegevensverwerking bij discriminatie op de BES [KetenID WGK26213]"
 identifier: "BWBR0051964"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051964"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051964"
+soort: "AMvB-BES"
+stam_id: "17679303"
+version_id: "31188152"
+internal_id: "C44617861"
+label_id: "17578794"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051964/2026-01-01/0"
+intitule_bron: "Stb.2025-403"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-11-27"
+intitule_published: "2025-12-03"
+intitule_in_force: "2025-12-15"
+intitule_status: "goed"
+original_publication: "Stb.2025-403"
+original_signed_date: "2025-11-27"
+original_published_date: "2025-12-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2025-403"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051964&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051964&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit gegevensverwerking bij discriminatie op de BES"
+signed_date: "2025-11-27"
+entry_into_force: "2026-01-01"
 ---
-
 # Besluit van 27 november 2025, houdende regels inzake gegevensverwerking bij discriminatie op de BES [KetenID WGK26213]
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 7 juli 2025, nr 2025-0000404643/CZW/CZ;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemeen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -56,15 +82,15 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 2. Persoonsgegevens
 
-#### Artikel 2. Doelbinding
+##### Artikel 2. Doelbinding
 
 De persoonsgegevens, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0051964&hoofdstuk=2&artikel=4&z=2026-01-01&g=2026-01-01), worden niet gebruikt voor andere doeleinden en taken dan die bedoeld in [artikel I van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0051827&artikel=I).
 
-#### Artikel 3. Informatieverschaffing
+##### Artikel 3. Informatieverschaffing
 
 De ADV BES informeert een bezoeker over de verwerking van persoonsgegevens die nodig is voor registratie, ondersteuning en beveiliging.
 
-#### Artikel 4. Persoonsgegevens in de ADV BES
+##### Artikel 4. Persoonsgegevens in de ADV BES
 
 Door de ADV BES kunnen, voorzover noodzakelijk voor de uitoefening van de taken, bedoeld in [artikel I van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0051827&artikel=I), en voor de goede en betrouwbare werking van het informatiesysteem de volgende persoonsgegevens worden verwerkt:
 
@@ -134,7 +160,7 @@ Door de ADV BES kunnen, voorzover noodzakelijk voor de uitoefening van de taken,
 
 - 2°. Voornaam en achternaam van mede-accounthouder(s) ADV-BES.
 
-#### Artikel 5. Verstrekkingen door de ADV BES
+##### Artikel 5. Verstrekkingen door de ADV BES
 
 1. De ADV BES verstrekt de persoonsgegevens, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0051964&hoofdstuk=2&artikel=4&z=2026-01-01&g=2026-01-01), indien en voorzover dit noodzakelijk is voor het verder behandelen van en het ondersteuning bieden bij discriminatie, aan:
 
@@ -148,31 +174,31 @@ Door de ADV BES kunnen, voorzover noodzakelijk voor de uitoefening van de taken,
 
 3. De ADV BES hanteert voor de teruglevering van persoonsgegevens door de backoffice aan de frontoffice een overeenkomst voor de doorgifte van persoonsgegevens.
 
-#### Artikel 6. Bewaartermijnen
+##### Artikel 6. Bewaartermijnen
 
 De ADV BES bewaart de persoonsgegevens, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0051964&hoofdstuk=2&artikel=4&z=2026-01-01&g=2026-01-01), voor de duur van de uitvoering van de taken, bedoeld in [artikel I van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0051827&artikel=I). De gegevens worden vijf jaar na de eerste noodzakelijke verwerking automatisch verwijderd.
 
 ### Hoofdstuk 3. Informatieveiligheid
 
-#### Artikel 7. Beveiliging van persoonsgegevens
+##### Artikel 7. Beveiliging van persoonsgegevens
 
 Teneinde de te verwerken persoonsgegevens te beveiligen en deze te beschermen tegen ongeoorloofde of onrechtmatige verwerking en verlies, vernietiging of beschadiging, neemt de ADV BES passende technische, organisatorische en personele maatregelen, waaronder inzake de juiste en veilige bediening en gebruik van informatiesystemen, de toegang tot en de beschikbaarheid en integriteit van informatiesystemen en het herkennen en herstellen van beveiligingsinbreuken.
 
 #### § 3.1. Bedrijfsvoering
 
-#### Artikel 8. Informatieveiligheidsbeleid
+##### Artikel 8. Informatieveiligheidsbeleid
 
 De ADV BES stelt beleid op voor de informatieveiligheid van de gehanteerde ICT-systemen, waaronder een veiligheidsplan dat is gebaseerd op een risico-identificatie en risico-afweging. Het informatieveiligheidsbeleid is een continue proces, dat integraal deel uitmaakt van de reguliere bedrijfsvoeringscyclus en elke twee jaar wordt beoordeeld en zo nodig bijgesteld.
 
-#### Artikel 9. Organisatie en beheer
+##### Artikel 9. Organisatie en beheer
 
 De ADV BES belegt taken, verantwoordelijkheden en coördinatie ter zake van informatieveiligheid en neemt passende beheersmaatregelen, waaronder met betrekking tot het gebruik van de ICT-systemen en verwerking van informatie.
 
-#### Artikel 10. Personele en fysieke beveiliging
+##### Artikel 10. Personele en fysieke beveiliging
 
 De ADV BES rust haar personeel toe om het informatieveiligheidsbeleid uit te voeren en beschermt ruimten en apparatuur.
 
-#### Artikel 11. ICT-voorzieningen en informatiesystemen
+##### Artikel 11. ICT-voorzieningen en informatiesystemen
 
 De ADV BES:
 
@@ -188,13 +214,13 @@ De ADV BES:
 
 #### § 3.2. Monitoring en verantwoording
 
-#### Artikel 12. Logging
+##### Artikel 12. Logging
 
 1. Teneinde onbevoegde informatieverwerking en systeemtechnische fouten te kunnen ontdekken, zorgt de ADV BES voor logbestanden inzake het gebruik van ICT-voorzieningen.
 
 2. De logbestanden hebben betrekking op de geraadpleegde dossiers, de tijdstippen waarop is ingelogd en uitgelogd en de systeemtechnische gegevens. Deze gegevens worden maximaal vijf jaar na de eerste noodzakelijke verwerking bewaard.
 
-#### Artikel 13. Controle
+##### Artikel 13. Controle
 
 1. De ADV BES voert elke twee jaar een controle uit van de informatiesystemen. De controle ziet op netwerkveiligheid, besturingssysteem, basisbeveiliging, applicatiebeveiliging en penetratietest.
 
@@ -204,11 +230,11 @@ De ADV BES:
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 14. Inwerkingtreding
+##### Artikel 14. Inwerkingtreding
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 15. Citeertitel
+##### Artikel 15. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit gegevensverwerking bij discriminatie op de BES.
 

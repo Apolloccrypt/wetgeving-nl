@@ -1,20 +1,44 @@
 ---
 title: "Volmachtregeling VWS"
 identifier: "BWBR0010710"
-categorie: "Overig"
-publicatiedatum: 2025-04-01
-laatste_update: 2025-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010710"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-04-01"
+last_updated: "2025-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010710"
+soort: "ministeriele-regeling"
+stam_id: "5212003"
+version_id: "9369502"
+internal_id: "C12520221"
+label_id: "5187314"
+dtd_version: "2.0"
+original_entry_into_force: "1999-09-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010710/2025-04-01/0"
+intitule_bron: "Stcrt.1999-182"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-09-09"
+intitule_published: "1999-09-22"
+intitule_in_force: "1999-09-22"
+intitule_status: "goed"
+original_publication: "Stcrt.1999-182"
+original_signed_date: "1999-09-09"
+original_published_date: "1999-09-22"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1999-09-24"
+jci_1_3: "jci1.3:c:BWBR0010710&z=2025-04-01&g=2025-04-01"
+jci_1_0: "1.0:c:BWBR0010710&g=2025-04-01"
+citeertitel_status: "officieel"
+signed_date: "1999-09-09"
+entry_into_force: "1999-09-24"
 ---
-
 # Volmachtregeling VWS
 
 Besluit:
 
 ### Hoofdstuk 1. Definities
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -38,31 +62,31 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Algemene bepalingen
 
-#### Artikel 2
+##### Artikel 2
 
 1. De volmachtgever blijft bevoegd de bevoegdheid waar de volmacht betrekking op heeft uit te oefenen.
 
 2. De volmachtgever kan de volmacht te allen tijde intrekken.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De volmachtgever kan ter zake van de uitoefening van de gevolmachtigde bevoegdheid zowel algemene als bijzondere aanwijzingen geven.
 
 2. De gevolmachtigde verschaft de volmachtgever op diens verzoek inlichtingen over de uitoefening van de bevoegdheid.
 
-#### Artikel 4
+##### Artikel 4
 
 Een door de gevolmachtigde binnen de grenzen van zijn bevoegdheid verrichte rechtshandeling geldt als een rechtshandeling van de volmachtgever.
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Bij de uitoefening van de volmacht vermeldt de gevolmachtigde, indien mogelijk schriftelijk, namens welke bewindspersoon de rechtshandeling wordt verricht.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Bij afwezigheid of verhindering van een gevolmachtigde wordt, voor de duur van de afwezigheid of verhindering, diens bevoegdheid tot het verrichten van de rechtshandeling uitgeoefend door de plaatsvervanger, met uitzondering van de bevoegdheid tot het verlenen, het wijzigen of intrekken van een ondervolmacht.
 
@@ -70,15 +94,15 @@ Bij de uitoefening van de volmacht vermeldt de gevolmachtigde, indien mogelijk s
 
 ### Hoofdstuk 3. Verlening van volmacht
 
-#### Artikel 8
+##### Artikel 8
 
 De Secretaris-Generaal heeft volmacht ten aanzien van alle rechtshandelingen met uitsluiting van de rechtshandelingen die ingevolge [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=4&artikel=11&z=2025-04-01&g=2025-04-01) door de Minister worden verricht.
 
-#### Artikel 9
+##### Artikel 9
 
 De plaatsvervangend Secretaris-Generaal heeft volmacht ten aanzien van de rechtshandelingen die behoren tot zijn werkterrein.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De volgende functionarissen hebben volmacht ten aanzien van het verrichten van rechtshandelingen die tot hun werkterrein behoren:
 
@@ -114,7 +138,7 @@ De plaatsvervangend Secretaris-Generaal heeft volmacht ten aanzien van de rechts
 
 ### Hoofdstuk 4. Beperkingen van volmacht
 
-#### Artikel 11
+##### Artikel 11
 
 1. Aan de Minister blijft voorbehouden:
 
@@ -124,7 +148,7 @@ De plaatsvervangend Secretaris-Generaal heeft volmacht ten aanzien van de rechts
 
 2. Voorts is het verrichten van rechtshandelingen waaruit belangrijke politieke, bestuurlijke of financiële gevolgen kunnen voortvloeien, voorbehouden aan de Minister.
 
-#### Artikel 12
+##### Artikel 12
 
 In afwijking van [artikel 11, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=4&artikel=11&z=2025-04-01&g=2025-04-01), hebben de volgende functionarissen volmacht om rechtshandelingen te verrichten waarbij een buitenlandse publiekrechtelijke rechtspersoon partij is:
 
@@ -134,21 +158,21 @@ In afwijking van [artikel 11, eerste lid, onderdeel a](https://wetten.overheid.n
 
 - 3. de functionarissen genoemd in [artikel 10, eerste lid, onder a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2025-04-01&g=2025-04-01), voorzover het gaat om rechtshandelingen die behoren tot het werkterrein van EU4Health.
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
-#### Artikel 14
+##### Artikel 14
 
 In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2025-04-01&g=2025-04-01) wordt uitsluitend aan de Directeur Financieel-Economische Zaken en door deze aan te wijzen kasbeheerders volmacht verleend om bankrekeningen te openen, te wijzigen en op te heffen.
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
 ### Hoofdstuk 5. Ondervolmacht
 
-#### Artikel 16
+##### Artikel 16
 
 1. De directeuren van beleidsdirecties en stafeenheden zijn bevoegd ondervolmacht te verlenen aan de directeur van een facilitaire eenheid.
 
@@ -168,7 +192,7 @@ Vervallen
 
 ### Hoofdstuk 5. Ondervolmacht
 
-#### Artikel 17
+##### Artikel 17
 
 1. Onverminderd [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=4&artikel=11&z=2025-04-01&g=2025-04-01) kan de Secretaris-Generaal in het kader van een bepaald project en in andere bijzondere gevallen naast of in plaats van de op grond van de [Hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&z=2025-04-01&g=2025-04-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=4&z=2025-04-01&g=2025-04-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=5&z=2025-04-01&g=2025-04-01) bevoegde functionarissen aan anderen de bevoegdheid verlenen in naam van de Minister privaatrechtelijke rechtshandelingen te verrichten.
 
@@ -178,7 +202,7 @@ Vervallen
 
 ### Hoofdstuk 6. Bijzonder ondervolmacht
 
-#### Artikel 18
+##### Artikel 18
 
 1. De Directeur Organisatie, Bedrijfsvoering en Personeel houdt een centraal register bij van alle gevolmachtigden en van de inhoud van hun volmacht.
 
@@ -186,25 +210,25 @@ Vervallen
 
 ### Hoofdstuk 7. Volmachtregister
 
-#### Artikel 19
+##### Artikel 19
 
 Volmachten, verleend voor het tijdstip van het inwerkingtreden van deze regeling, vervallen met ingang van de inwerkingtreding van dit besluit.
 
-#### Artikel 20
+##### Artikel 20
 
 De regeling van de Minister van 15 juli 1998, kenmerk DWJZ-U-98902, wordt ingetrokken.
 
-#### Artikel 21
+##### Artikel 21
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 september 1999.
 
-#### Artikel 22
+##### Artikel 22
 
 Deze regeling wordt aangehaald als: [Volmachtregeling VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0010710)
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-#### Artikel 1a. Personeelsaangelegenheden
+##### Artikel 1a. Personeelsaangelegenheden
 
 Deze regeling is niet van toepassing op personeelsaangelegenheden.
 
@@ -224,7 +248,7 @@ Deze regeling is niet van toepassing op personeelsaangelegenheden.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-#### Artikel 10a
+##### Artikel 10a
 
 De volmacht, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=8&z=2025-04-01&g=2025-04-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=9&z=2025-04-01&g=2025-04-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2025-04-01&g=2025-04-01), hebben de Secretaris-Generaal, de plaatsvervangend Secretaris-Generaal, de Directeuren-Generaal van het kernministerie en de directeuren van het kernministerie alleen binnen de aan hen toegewezen budgetten.
 

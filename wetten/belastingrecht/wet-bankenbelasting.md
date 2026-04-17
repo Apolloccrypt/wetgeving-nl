@@ -1,14 +1,42 @@
 ---
-title: "Wet bankenbelasting"
+title: "Wet van 12 juli 2012 tot invoering van een bankenbelasting (Wet bankenbelasting)"
 identifier: "BWBR0031796"
-categorie: "Belastingrecht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031796"
+country: "nl"
+rank: "wet"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031796"
+soort: "wet"
+stam_id: "11795883"
+version_id: "19531062"
+internal_id: "C27389461"
+label_id: "11768324"
+dtd_version: "2.0"
+original_entry_into_force: "2012-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031796/2024-01-01/0"
+intitule_bron: "Stb.2012-325"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-07-12"
+intitule_published: "2012-07-18"
+intitule_in_force: "2012-07-18"
+intitule_status: "goed"
+original_publication: "Stb.2012-325"
+original_signed_date: "2012-07-12"
+original_published_date: "2012-07-18"
+original_effect: "nieuwe-regeling"
+original_dossier: "33121"
+original_url_id: "stb-2012-325"
+entry_into_force_date: "2012-08-01"
+entry_into_force_dossier: "33121"
+jci_1_3: "jci1.3:c:BWBR0031796&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0031796&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet bankenbelasting"
+signed_date: "2012-07-12"
+entry_into_force: "2012-08-01"
 ---
-
-# Wet bankenbelasting
+# Wet van 12 juli 2012 tot invoering van een bankenbelasting (Wet bankenbelasting)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -30,23 +58,23 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 #### § 7. Overige bepalingen
 
-#### Artikel 13
+##### Artikel 13
 
 Bij ministeriële regeling kunnen regels worden gesteld volgens welke de inspecteur onder door hem te stellen voorwaarden de belastingplichtige op zijn verzoek kan toestaan het belastbare bedrag te berekenen in een andere geldeenheid dan de euro. Daarbij wordt onder meer aangegeven tegen welke koers het bedrag van de doelmatigheidsvrijstelling wordt omgerekend in de andere geldeenheid en tegen welke koers het in de andere geldeenheid berekende belastbare bedrag wordt omgerekend in euro’s. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking.
 
-#### Artikel 14
+##### Artikel 14
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
 
-#### Artikel 14bis
+##### Artikel 14bis
 
 Wijzigt deze wet.
 
-#### Artikel 14a
+##### Artikel 14a
 
 Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
 
-#### Artikel 15
+##### Artikel 15
 
 Deze wet treedt in werking met ingang van een bij koninklijk besluit te bepalen tijdstip en vindt voor het eerst toepassing met betrekking tot belasting waarvan de verschuldigdheid is ontstaan op of na dat tijdstip, met dien verstande dat [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=7&artikel=14a&z=2024-01-01&g=2024-01-01):
 
@@ -56,17 +84,17 @@ Deze wet treedt in werking met ingang van een bij koninklijk besluit te bepalen 
 
 - c. niet in werking treedt ingeval het Staatsblad waarin deze wet wordt geplaatst wordt uitgegeven na 30 september 2012.
 
-#### Artikel 16
+##### Artikel 16
 
 Deze wet wordt aangehaald als: Wet bankenbelasting.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 1
+##### Artikel 1
 
 Onder de naam bankenbelasting wordt een belasting geheven van de in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=2&z=2024-01-01&g=2024-01-01) vermelde belastingplichtigen.
 
-#### Artikel 2
+##### Artikel 2
 
 Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -98,7 +126,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 - n. **zetel:** zetel als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1).
 
-#### Artikel 3
+##### Artikel 3
 
 Belastingplichtig voor de bankenbelasting is:
 
@@ -108,7 +136,7 @@ Belastingplichtig voor de bankenbelasting is:
 
 - c. een lichaam met zetel in een andere staat dan Nederland dat vanuit een in Nederland gelegen bijkantoor het bedrijf van bank uitoefent en een door de Nederlandsche Bank verleende vergunning als bedoeld in de [artikelen 2:16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:16), of [2:20, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:20) heeft.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien de financiële gegevens van een lichaam als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01) zijn opgenomen in een door een in Nederland gevestigd lichaam opgestelde geconsolideerde jaarrekening:
 
@@ -126,7 +154,7 @@ is, in afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031796
 
 - b. minder bedraagt dan 10% van het geconsolideerde balanstotaal zoals dat blijkt uit die geconsolideerde jaarrekening.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Indien de financiële gegevens van een lichaam als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01) niet zijn opgenomen in een door een ander, in Nederland gevestigd, lichaam opgestelde geconsolideerde jaarrekening omdat het laatstgenoemde lichaam met toepassing van [artikel 403 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=403) daarvan heeft mogen afzien, is, in afwijking van artikel 3, het laatstgenoemde lichaam belastingplichtig indien de schriftelijke verklaring, bedoeld in artikel 403, onderdeel f, van Boek 2 van het Burgerlijk Wetboek, die is vereist voor het mogen afzien van een geconsolideerde jaarrekening, is afgegeven door een niet in Nederland gevestigd lichaam. Indien de financiële gegevens van een lichaam als bedoeld in artikel 3 niet zijn opgenomen in een door dat lichaam opgestelde geconsolideerde jaarrekening omdat dat lichaam met toepassing van artikel 403 van Boek 2 van het Burgerlijk Wetboek daarvan heeft mogen afzien, is dat lichaam niet op grond van artikel 3 maar op grond van dit artikel belastingplichtig indien de schriftelijke verklaring, bedoeld in artikel 403, onderdeel f, van Boek 2 van het Burgerlijk Wetboek, die is vereist voor het mogen afzien van een geconsolideerde jaarrekening, is afgegeven door een niet in Nederland gevestigd lichaam.
 
@@ -134,13 +162,13 @@ is, in afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031796
 
 #### § 3. Belastbare grondslag
 
-#### Artikel 6
+##### Artikel 6
 
 1. De belasting wordt geheven naar het belastbare bedrag.
 
 2. Het belastbare bedrag is de belastbare som, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=3&artikel=7&z=2024-01-01&g=2024-01-01), verminderd met de doelmatigheidsvrijstelling, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=3&artikel=9&z=2024-01-01&g=2024-01-01).
 
-#### Artikel 7
+##### Artikel 7
 
 1. Indien sprake is van een belastingplichtige als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01), is de belastbare som het balanstotaal van de balans, verminderd met de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=3&artikel=8&z=2024-01-01&g=2024-01-01) genoemde passiva van die balans.
 
@@ -148,7 +176,7 @@ is, in afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031796
 
 3. Indien sprake is van een belastingplichtige als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=2&artikel=5&z=2024-01-01&g=2024-01-01), is de belastbare som het geconsolideerde balanstotaal van de geconsolideerde balans van de geconsolideerde jaarrekening die zou moeten zijn opgesteld als [artikel 403 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=403) niet van toepassing zou zijn geweest, verminderd met de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=3&artikel=8&z=2024-01-01&g=2024-01-01) genoemde passiva van die geconsolideerde balans.
 
-#### Artikel 8
+##### Artikel 8
 
 De passiva, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=3&artikel=7&z=2024-01-01&g=2024-01-01), zijn:
 
@@ -168,7 +196,7 @@ De passiva, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR00317
 
 - 3°. de aan het bijkantoor toe te rekenen deposito’s, voor zover die voor voldoening ingevolge een depositogarantiestelsel in aanmerking komen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De doelmatigheidsvrijstelling bedraagt € 23.500.000.000.
 
@@ -176,7 +204,7 @@ De passiva, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR00317
 
 #### § 4. Tarief
 
-#### Artikel 10
+##### Artikel 10
 
 1. De belasting bedraagt de som van:
 
@@ -188,7 +216,7 @@ De passiva, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR00317
 
 #### § 5. Wijze van heffing
 
-#### Artikel 11
+##### Artikel 11
 
 1. De belasting moet op aangifte worden voldaan.
 
@@ -200,7 +228,7 @@ De passiva, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR00317
 
 #### § 6. Indexatie
 
-#### Artikel 12
+##### Artikel 12
 
 De in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=3&artikel=9&z=2024-01-01&g=2024-01-01) vermelde bedragen worden elke vijf jaar met ingang van 1 januari van een jaar bij ministeriële regeling gewijzigd. Deze wijziging vindt voor het eerst plaats op 1 januari 2018. De [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2) zijn van overeenkomstige toepassing, met dien verstande dat als correctiefactor wordt genomen het product van de tabelcorrectiefactoren van de laatste vijf kalenderjaren. Bij de berekening wordt het bedrag van de doelmatigheidsvrijstelling naar boven afgerond op een veelvoud van € 100 000 000.
 

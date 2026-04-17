@@ -1,13 +1,38 @@
 ---
 title: "Bestuursreglement NWO 2017"
 identifier: "BWBR0039246"
-categorie: "Bestuursrecht"
-publicatiedatum: 2017-02-28
-laatste_update: 2017-02-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039246"
+country: "nl"
+rank: "zbo"
+publication_date: "2017-02-28"
+last_updated: "2017-02-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039246"
+soort: "zbo"
+stam_id: "13924403"
+version_id: "23937892"
+internal_id: "C34421041"
+label_id: "13888804"
+dtd_version: "2.0"
+original_entry_into_force: "2017-02-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039246/2017-02-28/0"
+intitule_bron: "Stcrt.2017-10674"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-02-01"
+intitule_published: "2017-02-28"
+intitule_in_force: "2017-02-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-10674"
+original_signed_date: "2017-02-01"
+original_published_date: "2017-02-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-10674"
+entry_into_force_date: "2017-02-28"
+jci_1_3: "jci1.3:c:BWBR0039246&z=2017-02-28&g=2017-02-28"
+jci_1_0: "1.0:c:BWBR0039246&g=2017-02-28"
+citeertitel_status: "officieel"
+signed_date: "2017-02-01"
+entry_into_force: "2017-02-28"
 ---
-
 # Bestuursreglement NWO 2017
 
 Tekst en toelichting van het Bestuursreglement van de Nederlandse Organisatie voor Wetenschappelijk Onderzoek, zoals vastgesteld bij besluit van 1 februari 2017 (goedgekeurd door de Minister van Onderwijs, Cultuur en Wetenschap bij besluit van 9 februari 2017).
@@ -16,7 +41,7 @@ Vastgesteld door de raad van bestuur, op 1 februari 2017.
 
 ### 1. Inleiding
 
-#### Artikel 1.1. – Begripsbepalingen
+##### Artikel 1.1. – Begripsbepalingen
 
 In dit bestuursreglement wordt verstaan onder:
 
@@ -70,7 +95,7 @@ In dit bestuursreglement wordt verstaan onder:
 
 - y. **ZonMw:** samenwerkingsverband Zorg Onderzoek Nederland en NWO Medische Wetenschappen.
 
-#### Artikel 1.2. – De organisatie
+##### Artikel 1.2. – De organisatie
 
 | **Wet NWO artikel 2. Nederlandse organisatie voor wetenschappelijk onderzoek (NWO)** |
 | --- |
@@ -92,7 +117,7 @@ In dit bestuursreglement wordt verstaan onder:
 
 - e. regieorganen
 
-#### Artikel 1.3. – Juridische grondslag en werkingssfeer
+##### Artikel 1.3. – Juridische grondslag en werkingssfeer
 
 | **Wet NWO artikel 8. Raad van bestuur: reglement** |
 | --- |
@@ -113,7 +138,7 @@ In dit bestuursreglement wordt verstaan onder:
 
 ### 2. Raad van bestuur
 
-#### Artikel 2.1. – Taken raad van bestuur
+##### Artikel 2.1. – Taken raad van bestuur
 
 | **NWO artikel 3. Taken NWO** |
 | --- |
@@ -132,7 +157,7 @@ In dit bestuursreglement wordt verstaan onder:
 
 - 2. In de gevallen waarin de wet en het bestuursreglement of de op grond hiervan gestelde regels niet voorzien, beslist de raad van bestuur.
 
-#### Artikel 2.2. – Verantwoordelijkheden en bevoegdheden raad van bestuur
+##### Artikel 2.2. – Verantwoordelijkheden en bevoegdheden raad van bestuur
 
 | **Wet NWO artikel 9 lid 1. Raad van bestuur: personeelsbeleid** |
 | --- |
@@ -181,7 +206,7 @@ In dit bestuursreglement wordt verstaan onder:
 
 - 5. De raad van bestuur neemt de besluiten terzake van gerechtelijke procedures, zowel bestuursrechtelijke als civielrechtelijke, waaronder begrepen het voeren van verweer danwel het entameren van een procedure.
 
-#### Artikel 2.3. – Bevoegdheden raad van bestuur met betrekking tot NWO-I
+##### Artikel 2.3. – Bevoegdheden raad van bestuur met betrekking tot NWO-I
 
 | **Statuten NWO-I artikel 5, lid 3 Organen en instituten NWO-I** |
 | --- |
@@ -190,7 +215,7 @@ In dit bestuursreglement wordt verstaan onder:
 | **Statuten NWO-I artikel 12, lid 7. Instituutsdirecteuren NWO-I** |
 | 7. Iedere Instituutsdirecteur is gehouden om over zijn Instituut wetenschappelijke verantwoording af te leggen aan de raad van bestuur NWO. |
 
-#### Artikel 2.4. – Bevoegdheden raad van bestuur met betrekking tot de domeinen
+##### Artikel 2.4. – Bevoegdheden raad van bestuur met betrekking tot de domeinen
 
 | **Wet NWO artikel 13 lid 2 en 3: Domeinbestuur: samenstelling** |
 | --- |
@@ -205,11 +230,11 @@ In dit bestuursreglement wordt verstaan onder:
 
 - 2. Het domeinbestuur behoeft goedkeuring van de raad van bestuur op de domeinbegroting en het domeinreglement.
 
-#### Artikel 2.5. – Bevoegdhedenregeling NWO
+##### Artikel 2.5. – Bevoegdhedenregeling NWO
 
 De raad van bestuur stelt de [Bevoegdhedenregeling NWO 2017](onbekend) vast, zoals deze in werking zal treden op 1 februari 2017. Deze bevoegdhedenregeling wordt gelijktijdig met dit bestuursreglement bekend gemaakt in de Staatscourant.
 
-#### Artikel 2.6. – Besluiten raad van bestuur waarbij de raad van toezicht vooraf wordt gehoord
+##### Artikel 2.6. – Besluiten raad van bestuur waarbij de raad van toezicht vooraf wordt gehoord
 
 1. De raad van toezicht wordt vooraf gehoord bij besluiten van de raad van bestuur omtrent:
 
@@ -227,7 +252,7 @@ De raad van bestuur stelt de [Bevoegdhedenregeling NWO 2017](onbekend) vast, zoa
 
 - g. de aanvraag van faillissement en surseance van betaling van de organisatie.
 
-#### Artikel 2.7. – Samenstelling raad van bestuur, benoeming en portefeuilleverdeling
+##### Artikel 2.7. – Samenstelling raad van bestuur, benoeming en portefeuilleverdeling
 
 | **Wet NWO artikel 5. Raad van bestuur: samenstelling** |
 | --- |
@@ -243,7 +268,7 @@ De raad van bestuur stelt de [Bevoegdhedenregeling NWO 2017](onbekend) vast, zoa
 
 - 3. In aanvulling op [artikel 5 tweede lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&artikel=5) kan een medewerker van NWO-I niet worden benoemd tot lid van de raad van bestuur.
 
-#### Artikel 2.8. – Vertegenwoordigingsbevoegdheid (vice-)voorzitter en overleg met de (C)OR
+##### Artikel 2.8. – Vertegenwoordigingsbevoegdheid (vice-)voorzitter en overleg met de (C)OR
 
 | **Wet NWO artikel 7. Raad van bestuur: vertegenwoordiging NWO** |
 | --- |
@@ -254,7 +279,7 @@ De raad van bestuur stelt de [Bevoegdhedenregeling NWO 2017](onbekend) vast, zoa
 
 - 2. De portefeuillehouder bedrijfsvoering en financien is de vice-voorzitter van de raad van bestuur.
 
-#### Artikel 2.9. – Besluitvorming en vergaderwijze
+##### Artikel 2.9. – Besluitvorming en vergaderwijze
 
 1. Besluitvorming door de raad van bestuur vindt plaats in vergadering. In voorkomend geval kan de raad van bestuur buiten vergadering besluiten, mits alle leden in de gelegenheid zijn gesteld hun stem te geven. De agenda wordt door de voorzitter opgesteld en bij de uitnodiging verstuurd.
 
@@ -274,7 +299,7 @@ De raad van bestuur stelt de [Bevoegdhedenregeling NWO 2017](onbekend) vast, zoa
 
 9. De raad van bestuur kan nadere regels over de wijze van vergadering en besluitvorming vastleggen in een huishoudelijk reglement.
 
-#### Artikel 2.10. – Informatievoorziening aan de raad van toezicht
+##### Artikel 2.10. – Informatievoorziening aan de raad van toezicht
 
 1. De raad van bestuur verschaft de raad van toezicht alle informatie die hij redelijkerwijs nodig heeft voor zijn functioneren. Indien daarvoor aanleiding is, zal de raad van bestuur de voorzitter van de raad van toezicht tussentijds van relevante informatie voorzien.
 
@@ -292,7 +317,7 @@ De raad van bestuur stelt de [Bevoegdhedenregeling NWO 2017](onbekend) vast, zoa
 
 - f. publiciteitsgevoelige zaken. De raad van bestuur zal de raad van toezicht van deze kwesties in kennis stellen en publicaties als reactie van de organisatie achteraf aan de raad van toezicht doen toekomen.
 
-#### Artikel 2.11. – Tegenstrijdige belangen
+##### Artikel 2.11. – Tegenstrijdige belangen
 
 1. Elk lid van de raad van bestuur is tegenover NWO gehouden tot een behoorlijke vervulling van zijn taak. De leden van de raad van bestuur richten zich bij de vervulling van hun taak naar het belang van NWO en de daaraan verbonden organen en organisatieonderdelen.
 
@@ -314,7 +339,7 @@ De raad van bestuur stelt de [Bevoegdhedenregeling NWO 2017](onbekend) vast, zoa
 
 7. Bij besluiten over aangelegenheden waarbij een of meer leden van de raad van bestuur een tegenstrijdig belang hebben, adviseert de raad van toezicht. Wanneer de raad van bestuur niet tot een besluit kan komen (bijvoorbeeld als gevolg van het niet deelnemen aan de besluitvorming door een of meer leden wegens tegenstrijdig belang), wordt het besluit genomen door de minister.
 
-#### Artikel 2.12. – Nevenfuncties
+##### Artikel 2.12. – Nevenfuncties
 
 | **Wet ZBO’s artikel 13. Nevenfuncties** |
 | --- |
@@ -328,13 +353,13 @@ De raad van bestuur stelt de [Bevoegdhedenregeling NWO 2017](onbekend) vast, zoa
 
 - 3. Openbaarmaking van nevenfuncties van de leden van de raad van bestuur geschiedt bij NWO door publicatie op de website.
 
-#### Artikel 2.13. – Bedrijfsvoering
+##### Artikel 2.13. – Bedrijfsvoering
 
 1. De afdeling bedrijfsvoering draagt zorg voor de uitvoering van de primaire bedrijfsvoeringsprocessen (en voor afstemming daarover met de Institutenorganisatie) binnen de geldende wettelijke, beleids- en financiële kaders.
 
 2. De afdeling bedrijfsvoering draagt zorg voor relevante sturings- en verantwoordingsinformatie voor de raad van bestuur, de raad van toezicht, de raad van advies, de domeinbesturen en minister.
 
-#### Artikel 2.14. – Bureau raad van bestuur
+##### Artikel 2.14. – Bureau raad van bestuur
 
 1. De raad van bestuur heeft een ondersteuningsbureau ten behoeve van administratief-secretariële werkzaamheden. Het bureau verleent tevens diensten aan de raad van toezicht en de adviesraad.
 
@@ -344,7 +369,7 @@ De raad van bestuur stelt de [Bevoegdhedenregeling NWO 2017](onbekend) vast, zoa
 
 ### 3. Raad van Toezicht
 
-#### Artikel 3.1. – Taken en bevoegdheden
+##### Artikel 3.1. – Taken en bevoegdheden
 
 | [**Wet NWO artikel 11, lid 1. Raad van toezicht: taak** |
 | --- |
@@ -365,13 +390,13 @@ Naast de algemene interne adviestaak, waarbij de raad van toezicht zich dient te
 | b. de voordrachten voor de leden van de raad van bestuur; |
 | c. de wijze waarop hij zijn advies geeft over de begroting, de jaarrekening, het jaarverslag en het instellingsplan. |
 
-#### Artikel 3.2. – Reglement raad van toezicht
+##### Artikel 3.2. – Reglement raad van toezicht
 
 1. De leden van de raad van toezicht handelen overeenkomstig de Code goed bestuur universiteiten 2013 en de Gedragscode belangenverstrengeling NWO.
 
 2. De werkwijze van de raad van toezicht is vastgelegd in het Reglement raad van toezicht NWO 2017 van **[DATUM].**
 
-#### Artikel 3.3. – Samenstelling en benoeming raad van toezicht
+##### Artikel 3.3. – Samenstelling en benoeming raad van toezicht
 
 | **Wet NWO artikel 10. Raad van toezicht: samenstelling** |
 | --- |
@@ -385,7 +410,7 @@ Naast de algemene interne adviestaak, waarbij de raad van toezicht zich dient te
 
 ### 4. Adviesraad
 
-#### Artikel 4.1. – Taken, verantwoordelijkheden en bevoegdheden
+##### Artikel 4.1. – Taken, verantwoordelijkheden en bevoegdheden
 
 1. NWO heeft een adviesraad die de raad van bestuur gevraagd en ongevraagd kan adviseren over voor NWO relevante ontwikkelingen in samenleving en wetenschap.
 
@@ -395,7 +420,7 @@ Naast de algemene interne adviestaak, waarbij de raad van toezicht zich dient te
 
 4. De adviesraad brengt geen advies uit over specifieke activiteiten van afzonderlijke domeinen, of over taken die zijn belegd bij de raad van toezicht.
 
-#### Artikel 4.2. – Samenstelling
+##### Artikel 4.2. – Samenstelling
 
 1. De raad van bestuur benoemt, schorst en ontslaat de leden van de adviesraad.
 
@@ -409,7 +434,7 @@ Naast de algemene interne adviestaak, waarbij de raad van toezicht zich dient te
 
 6. De adviesraad bestaat uit ten hoogste tien personen met betrokkenheid bij de (impact) van wetenschap en onderzoek. Zij worden niet uitgenodigd zitting te nemen in de adviesraad als vertegenwoordiger van hun organisatie, maar op grond van hun expertise en ervaring. Zij opereren zonder last of ruggenspraak.
 
-#### Artikel 4.3. – Werkwijze
+##### Artikel 4.3. – Werkwijze
 
 1. De adviesraad vergadert tenminste tweemaal per jaar. De voorzitter van de raad van bestuur en de voorzitter van de adviesraad stellen gezamenlijk een agenda voor de vergaderingen van de adviesraad op met de onderwerpen waarover advies wordt gevraagd. De vergaderingen van de adviesraad worden voorbereid door het bureau van de raad van bestuur. Van hetgeen ter vergadering besproken is, wordt verslag gemaakt. Het verslag wordt door de adviesraad vastgesteld.
 
@@ -421,7 +446,7 @@ Naast de algemene interne adviestaak, waarbij de raad van toezicht zich dient te
 
 ### 5. Regieorganen
 
-#### Artikel 5.1. – Instelling en taak
+##### Artikel 5.1. – Instelling en taak
 
 1. De raad van bestuur kan, al dan niet in het kader van samenwerking met derden, regieorganen instellen.
 
@@ -433,7 +458,7 @@ Naast de algemene interne adviestaak, waarbij de raad van toezicht zich dient te
 
 ### 6. Domeinen
 
-#### Artikel 6.1. – Domeinindeling
+##### Artikel 6.1. – Domeinindeling
 
 | **Wet NWO artikel 12, lid 1 en 2. Onderzoeksdomeinen** |
 | --- |
@@ -453,7 +478,7 @@ Naast de algemene interne adviestaak, waarbij de raad van toezicht zich dient te
 
 - 2. De omvang van het wetenschappelijke werkterrein van elk domein is vastgelegd in het desbetreffende domeinreglement, als bedoeld in [artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0039246&artikel=6.5&z=2017-02-28&g=2017-02-28). Indien nodig wijst de raad van bestuur domeinoverstijgende onderzoeksprogramma’s toe aan een van de domeinen.
 
-#### Artikel 6.2. – Samenstelling domeinbesturen
+##### Artikel 6.2. – Samenstelling domeinbesturen
 
 | **Wet NWO artikel 13: Domeinbestuur: samenstelling** |
 | --- |
@@ -467,7 +492,7 @@ Naast de algemene interne adviestaak, waarbij de raad van toezicht zich dient te
 
 - 2. Het domeinbestuur kiest uit zijn midden een vice-voorzitter. De vice-voorzitter vervangt de voorzitter bij diens afwezigheid of ontstentenis. De vervanging heeft echter geen betrekking op de taken die de voorzitter van het domeinbestuur uit hoofde van zijn lidmaatschap van de raad van bestuur vervult.
 
-#### Artikel 6.3. – Taken, verantwoordelijkheden en bevoegdheden domeinbesturen
+##### Artikel 6.3. – Taken, verantwoordelijkheden en bevoegdheden domeinbesturen
 
 | **Wet NWO artikel 12, lid 3. Onderzoeksdomeinen** |
 | --- |
@@ -511,7 +536,7 @@ Naast de algemene interne adviestaak, waarbij de raad van toezicht zich dient te
 
 - 9. Het domeinbestuur coördineert en bevordert de inter- en multidisciplinaire samenwerking tussen het eigen domein en de andere domeinen, voor zover van toepassing ook de regieorganen, alsmede de instituten. Het domeinbestuur bevordert de overdracht van kennis van de resultaten van door het domeinbestuur geïnitieerd en gestimuleerd onderzoek en de toepassing daarvan.
 
-#### Artikel 6.4. – Domeindirecteur
+##### Artikel 6.4. – Domeindirecteur
 
 1. De dagelijkse leiding over een domein berust bij de domeindirecteur.
 
@@ -519,13 +544,13 @@ Naast de algemene interne adviestaak, waarbij de raad van toezicht zich dient te
 
 3. Over aangelegenheden met betrekking tot de bedrijfsvoering legt de domeindirecteur verantwoording af aan de portefeuillehouder bedrijfsvoering en financiën van de raad van bestuur.
 
-#### Artikel 6.5. – Domeinreglement
+##### Artikel 6.5. – Domeinreglement
 
 Het domeinbestuur stelt een domeinreglement vast na goedkeuring van de raad van bestuur. In het domeinreglement worden de werkzaamheden vastgelegd, alsmede de wijze waarop deze werkzaamheden binnen het betreffende domein worden uitgevoerd. Het domeinreglement verklaart de Gedragscode belangenverstrengeling NWO van toepassing. Het domeinreglement is in overeenstemming met de wet, dit reglement en de bevoegdhedenregeling NWO als bedoeld in [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0039246&artikel=2.5&z=2017-02-28&g=2017-02-28).
 
 ### 7. NWO-I
 
-#### Artikel 7.1. – De institutenorganisatie
+##### Artikel 7.1. – De institutenorganisatie
 
 1. Het organisatieonderdeel NWO-I is een stichting, met een eigen stichtingsbestuur en eigen organen.
 
@@ -537,7 +562,7 @@ Het domeinbestuur stelt een domeinreglement vast na goedkeuring van de raad van 
 
 5. De medewerkers van NWO-I zijn in dienst bij de stichting NWO-I.
 
-#### Artikel 7.2. – Taken raad van bestuur en raad van toezicht NWO t.o.v. institutenorganisatie
+##### Artikel 7.2. – Taken raad van bestuur en raad van toezicht NWO t.o.v. institutenorganisatie
 
 | **Statuten NWO-I artikel 5, lid 3 en 4. Organen en instituten NWO-I** |
 | --- |
@@ -569,19 +594,19 @@ Het domeinbestuur stelt een domeinreglement vast na goedkeuring van de raad van 
 
 ### 8. Commissies en stuurgroepen
 
-#### Artikel 8.1. – Commissies en stuurgroepen, instelling en taak
+##### Artikel 8.1. – Commissies en stuurgroepen, instelling en taak
 
 1. De raad van bestuur, domeinbesturen en/of regieorganen kunnen alleen of gezamenlijk commissies en/of stuurgroepen instellen die fungeren onder verantwoordelijkheid van het instellende orgaan c.q. de gezamenlijk instellende organen.
 
 2. Een besluit tot instelling van een commissie of stuurgroep regelt de samenstelling, de taak, de werkwijze en het mandaat van de commissie of stuurgroep en de duur waarvoor de commissie of stuurgroep is ingesteld. Indien de commissie of stuurgroep voor onbepaalde tijd is ingesteld, zal het instellende orgaan bevoegd zijn om tot opheffing van de betreffende commissie of stuurgroep te besluiten.
 
-#### Artikel 8.2. – Commissies en stuurgroepen met beslissingsbevoegdheid
+##### Artikel 8.2. – Commissies en stuurgroepen met beslissingsbevoegdheid
 
 1. In geval een commissie of stuurgroep beslissingsbevoegdheid krijgt toegekend, wordt in het instellingsbesluit de omvang van de toegekende beslissingsbevoegdheid bepaald. Het instellende orgaan regelt daarbij naast de werkwijze van de commissie of stuurgroep, het toezicht op de uitoefening van bevoegdheden door de commissie of stuurgroep, alsmede de verantwoording, een en ander voor zover zulks in verband met de aard en de omvang van de toegekende bevoegdheden nodig, nuttig of wenselijk is.
 
 ### 9. Vergaderingen
 
-#### Artikel 9.1. – Vergaderingen
+##### Artikel 9.1. – Vergaderingen
 
 1. De vergaderingen van de raad van bestuur, de raad van toezicht, de raad van advies, domeinbesturen, stuurgroepen en commissies zijn niet openbaar, tenzij de betreffende raad (bestuur, stuurgroep, commissie) anders besluit.
 
@@ -591,11 +616,11 @@ Het domeinbestuur stelt een domeinreglement vast na goedkeuring van de raad van 
 
 ### 10. Overgangs- en slotbepalingen
 
-#### Artikel 10.1. – Intrekking reglement
+##### Artikel 10.1. – Intrekking reglement
 
 Het [Reglement NWO 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0014548), laatstelijk gewijzigd op 23 november 2016 [Stcrt. 2016, nr. 70731], wordt ingetrokken op het tijdstip van inwerkingtreding van het Bestuursreglement NWO 2017.
 
-#### Artikel 10.2. – Overgangsbepaling ZonMw
+##### Artikel 10.2. – Overgangsbepaling ZonMw
 
 1. Op grond van het addendum van 16 juni 2016 op de samenwerkingsovereenkomst ZON-NWO wordt de samenwerking tussen ZON en NWO ongewijzigd voortgezet in overeenstemming met hetgeen bepaald is in deze samenwerkingsovereenkomst totdat een definitief besluit over de integratie van ZonMw in NWO is genomen. In deze samenwerkingsovereenkomst wordt ook verwezen naar de werkafspraken planning en control VWS, NWO en ZonMw.
 
@@ -603,11 +628,11 @@ Het [Reglement NWO 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0014548), laats
 
 3. Totdat een definitief besluit over de integratie van ZonMw in NWO is genomen, is het bestuursreglement NWO niet van toepassing op ZonMw. De regels betreffende de werkwijze van het bestuur, de instelling, samenstelling en werkwijze van programmacommissies, subcommissies en werkgroepen en regels betreffende de taken en bevoegdheden van de directeur zijn vastgelegd in het bestuursreglement ZON, NWO-MW en ZonMw.
 
-#### Artikel 10.3. – Overgangsbepaling integratie stichtingen in domeinen
+##### Artikel 10.3. – Overgangsbepaling integratie stichtingen in domeinen
 
 De domeinbesturen van domeinen als genoemd in [artikel 6.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039246&artikel=6.1&z=2017-02-28&g=2017-02-28), van dit bestuursreglement waarin werkzaamheden van stichtingen worden geïntegreerd stellen voldoende middelen aan die stichtingen beschikbaar om de lopende activiteiten en verplichtingen te kunnen afronden.
 
-#### Artikel 10.4. – Citeertitel
+##### Artikel 10.4. – Citeertitel
 
 1. Dit bestuursreglement kan worden aangehaald als “Bestuursreglement NWO 2017”.
 

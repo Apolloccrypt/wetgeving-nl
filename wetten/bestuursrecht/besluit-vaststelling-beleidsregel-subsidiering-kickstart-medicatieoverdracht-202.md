@@ -1,34 +1,60 @@
 ---
-title: "Besluit vaststelling beleidsregel subsidiëring Kickstart Medicatieoverdracht 2022–2027"
+title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 23 december 2021, kenmerk 3296335-1021773-GMT, houdende vaststelling van beleidsregels en subsidieplafond inzake het subsidiëren van de Kickstart Medicatieoverdracht (Besluit vaststelling beleidsregel subsidiëring kickstart medicatieoverdracht)"
 identifier: "BWBR0046202"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-07-09
-laatste_update: 2025-07-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046202"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2025-07-09"
+last_updated: "2025-07-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046202"
+soort: "beleidsregel"
+stam_id: "16236373"
+version_id: "28348302"
+internal_id: "C39974981"
+label_id: "16163734"
+dtd_version: "2.0"
+original_entry_into_force: "2022-01-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046202/2025-07-09/0"
+intitule_bron: "Stcrt.2022-799"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-12-23"
+intitule_published: "2022-01-17"
+intitule_in_force: "2022-01-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-799"
+original_signed_date: "2021-12-23"
+original_published_date: "2022-01-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-799"
+entry_into_force_date: "2022-01-18"
+jci_1_3: "jci1.3:c:BWBR0046202&z=2025-07-09&g=2025-07-09"
+jci_1_0: "1.0:c:BWBR0046202&g=2025-07-09"
+citeertitel_status: "officieel"
+short_title: "Besluit vaststelling beleidsregel subsidiëring Kickstart Medicatieoverdracht 2022–2027"
+signed_date: "2021-12-23"
+entry_into_force: "2022-01-18"
 ---
-
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 23 december 2021, kenmerk 3296335-1021773-GMT, houdende vaststelling van beleidsregels en subsidieplafond inzake het subsidiëren van de Kickstart Medicatieoverdracht (Besluit vaststelling beleidsregel subsidiëring kickstart medicatieoverdracht)
 
 Gelet op [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3) en [2.1 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=2.1);
 
 Besluit:
 
-#### Artikel 1. Vaststellen beleidsregel
+##### Artikel 1. Vaststellen beleidsregel
 
 De beleidsregel inzake het subsidiëren van de Kickstart Medicatieoverdracht wordt vastgesteld overeenkomstig de bijlage bij dit besluit.
 
-#### Artikel 2. Subsidieplafond
+##### Artikel 2. Subsidieplafond
 
 1. Voor de subsidieverlening op grond van dit besluit is een totaalbedrag van € 28.300.000 beschikbaar.
 
 2. De Minister verdeelt het beschikbare bedrag na onderlinge weging van de aanvragen, overeenkomstig de bijlage bij dit besluit.
 
-#### Artikel 3. Inwerkingtreding en vervaldatum
+##### Artikel 3. Inwerkingtreding en vervaldatum
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en vervalt met ingang van 1 juli 2027.
 
-#### Artikel 4. Citeertitel
+##### Artikel 4. Citeertitel
 
 Dit besluit zal worden aangehaald als: Besluit vaststelling beleidsregel subsidiëring Kickstart Medicatieoverdracht 2022–2027.
 

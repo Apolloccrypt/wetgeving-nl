@@ -1,14 +1,39 @@
 ---
-title: "Wet uitvoering Internationaal Energieprogramma"
+title: "Wet van 4 april 1979, houdende uitvoering van de op 18 november 1974 te Parijs tot stand gekomen Overeenkomst inzake een Internationaal Energieprogramma"
 identifier: "BWBR0003235"
-categorie: "Internationaal recht"
-publicatiedatum: 2021-07-01
-laatste_update: 2021-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003235"
+country: "nl"
+rank: "wet"
+publication_date: "2021-07-01"
+last_updated: "2021-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003235"
+soort: "wet"
+stam_id: "361373"
+version_id: "20021402"
+internal_id: "C28276231"
+label_id: "353474"
+dtd_version: "2.0"
+original_entry_into_force: "2013-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003235/2021-07-01/0"
+intitule_bron: "Stb.1979-187"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1979-04-04"
+intitule_status: "goed"
+original_publication: "Stb.2012-682"
+original_signed_date: "2012-12-20"
+original_published_date: "2012-12-27"
+original_effect: "structuurwijziging"
+original_dossier: "32450"
+original_url_id: "stb-2012-682"
+entry_into_force_date: "2013-01-01"
+jci_1_3: "jci1.3:c:BWBR0003235&z=2021-07-01&g=2021-07-01"
+jci_1_0: "1.0:c:BWBR0003235&g=2021-07-01"
+citeertitel_status: "officieel"
+short_title: "Wet uitvoering Internationaal Energieprogramma"
+signed_date: "2012-12-20"
+entry_into_force: "2013-01-01"
 ---
-
-# Wet uitvoering Internationaal Energieprogramma
+# Wet van 4 april 1979, houdende uitvoering van de op 18 november 1974 te Parijs tot stand gekomen Overeenkomst inzake een Internationaal Energieprogramma
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +43,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -34,7 +59,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2. Distributie
 
-#### Artikel 2
+##### Artikel 2
 
 1. Ingeval overeenkomstig hoofdstuk IV van de Overeenkomst maatregelen in werking worden gesteld, kan door Ons met toepassing van het bepaalde in [artikel 24, tweede, zesde en zevende lid, van de Distributiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001997&artikel=24) worden bepaald, dat de in het tweede lid van dat artikel bedoelde artikelen van die wet in werking treden ten aanzien van aardolieprodukten.
 
@@ -46,7 +71,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 3. Toebedeling van aardolieprodukten
 
-#### Artikel 3
+##### Artikel 3
 
 1. Ingeval overeenkomstig hoofdstuk IV van de Overeenkomst hoofdstuk III van de Overeenkomst in werking is gesteld, kan Onze Minister met het oog op de nakoming van een op Nederland rustende verplichting tot toebedeling van aardolieprodukten als bedoeld in hoofdstuk III van de Overeenkomst, dan wel in het belang van een evenwichtige verdeling van aardolieprodukten over de in Nederland werkzame producenten van en handelaren in die produkten aan een zodanige producent of handelaar opdragen een door hem vastgestelde hoeveelheid aardolieprodukten van een door hem aangegeven soort aan een of meer anderen te leveren.
 
@@ -66,17 +91,17 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Degene, tot wie een opdracht als bedoeld in het eerste lid is gericht, wordt geacht daaraan te hebben voldaan, indien hij aantoont, dat hij de nodige aanbiedingen heeft gedaan en ook overigens al het redelijkerwijs mogelijke heeft verricht ten einde aan de opdracht te voldoen en dat het niet uitvoeren van de opdracht niet aan hem te wijten is.
 
-#### Artikel 4
+##### Artikel 4
 
 Onze Minister kan een opdracht als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003235&paragraaf=3&artikel=3&z=2021-07-01&g=2021-07-01), al dan niet op verzoek van degene tot wie die opdracht is gericht, wijzigen of intrekken.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Indien in een opdracht als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003235&paragraaf=3&artikel=3&z=2021-07-01&g=2021-07-01), een natuurlijke persoon of een rechtspersoon is aangewezen, aan wie geleverd moet worden, is de Staat mede aansprakelijk voor de nakoming van de financiële verplichtingen, die voor de aangewezen natuurlijke persoon of rechtspersoon tegenover degene, tot wie de opdracht is gericht, voortvloeien uit de opgedragen levering.
 
 2. In de overige gevallen kan Onze Minister op met redenen omkleed verzoek van degene, tot wie een opdracht is gericht, verklaren, dat de Staat medeaansprakelijk is voor de nakoming van de financiële verplichtingen, die voor degene, aan wie de verzoeker zal leveren, tegenover deze voortvloeien uit de opgedragen levering, indien naar zijn oordeel onvoldoende zekerheid bestaat, dat deze verplichtingen zullen worden nagekomen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Onze Minister kan in een geval als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003235&paragraaf=3&artikel=3&z=2021-07-01&g=2021-07-01), indien zulks naar zijn oordeel ter verwezenlijking van een van de in dat artikellid vermelde doeleinden is vereist, het eigendomsrecht op aardolieprodukten vorderen.
 
@@ -92,21 +117,21 @@ Onze Minister kan een opdracht als bedoeld in [artikel 3, eerste lid](https://we
 
 7. [Artikel 18 van de Vorderingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=18) is van overeenkomstige toepassing.
 
-#### Artikel 7
+##### Artikel 7
 
 Terstond nadat de Staat het eigendomsrecht op aardolieprodukten, welke met het oog op de nakoming van een op Nederland rustende verplichting als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003235&paragraaf=3&artikel=3&z=2021-07-01&g=2021-07-01), zijn gevorderd, heeft verkregen, neemt Onze Minister de nodige maatregelen ten einde aan die verplichting te voldoen.
 
-#### Artikel 8
+##### Artikel 8
 
 Ingeval een op Nederland rustende verplichting als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003235&paragraaf=3&artikel=3&z=2021-07-01&g=2021-07-01), wordt ingetrokken of vervalt, dan wel hoofdstuk III van de Overeenkomst buiten werking is gesteld, blijven de krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003235&paragraaf=3&artikel=3&z=2021-07-01&g=2021-07-01), gegeven opdrachten, alsmede de daarmede in verband staande bevoegdheden en verplichtingen ingevolge deze wet van kracht, behoudens voor zover Onze Minister, al dan niet op verzoek van degene, tot wie een opdracht is gericht, anders bepaalt.
 
-#### Artikel 9
+##### Artikel 9
 
 Het in de [artikelen 3-8](https://wetten.overheid.nl/jci1.3:c:BWBR0003235&paragraaf=3&artikel=3&z=2021-07-01&g=2021-07-01) bepaalde is van overeenkomstige toepassing ingeval een verplichting tot toebedeling van aardolieprodukten aan één of meer andere Lid-Staten van de Europese Gemeenschappen voor Nederland voortvloeit uit een besluit van een orgaan van de Europese Gemeenschappen of een besluit van een ingevolge de Overeenkomst ingesteld orgaan.
 
 #### § 4. Informatieplicht
 
-#### Artikel 10
+##### Artikel 10
 
 1. Natuurlijke personen en rechtspersonen, behorende tot de krachtens het tweede lid aangewezen categorieën, zijn verplicht, met inachtneming van de door Onze Minister te stellen regels, Onze Minister schriftelijk gegevens te verstrekken of stukken over te leggen betreffende de krachtens het derde lid aangewezen onderwerpen.
 
@@ -156,13 +181,13 @@ Het in de [artikelen 3-8](https://wetten.overheid.nl/jci1.3:c:BWBR0003235&paragr
 
 - c. de termijn waarbinnen aan de verplichting moet worden voldaan.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Onze Minister kan van het krachtens [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003235&paragraaf=4&artikel=10&z=2021-07-01&g=2021-07-01) bepaalde op daartoe strekkend verzoek ontheffing verlenen.
 
 2. Een ontheffing kan onder beperkingen worden verleend. Aan een ontheffing kunnen voorschriften worden verbonden.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Onze Minister is bevoegd de gegevens en stukken, die door hem op grond van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003235&paragraaf=4&artikel=10&z=2021-07-01&g=2021-07-01) of enige andere wettelijke regeling zijn verkregen, ter beschikking te stellen van het Secretariaat bedoeld in artikel 59 van de Overeenkomst, voor zover zulks ter voldoening aan artikel 27, 32 of 33 van de Overeenkomst is vereist.
 
@@ -170,21 +195,21 @@ Het in de [artikelen 3-8](https://wetten.overheid.nl/jci1.3:c:BWBR0003235&paragr
 
 #### § 5. Ambtelijke bevoegdheden
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
 #### § 6. Ambtelijke bevoegdheden
 
-#### Artikel 16
+##### Artikel 16
 
 1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van Onze Minister aangewezen ambtenaren. De [artikelen 5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13) tot en met [5:20, eerste en tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) zijn van overeenkomstige toepassing ten aanzien van de bij besluit van Onze Minister aangewezen ambtenaren die zijn belast met de uitvoering van [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003235&paragraaf=3&z=2021-07-01&g=2021-07-01) van deze wet.
 
@@ -192,41 +217,41 @@ Vervallen
 
 3. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de **Staatscourant**.
 
-#### Artikel 17
+##### Artikel 17
 
 Vervallen
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
-#### Artikel 19
+##### Artikel 19
 
 Vervallen
 
-#### Artikel 20
+##### Artikel 20
 
 Vervallen
 
-#### Artikel 21
+##### Artikel 21
 
 Vervallen
 
 #### § 7. Slotbepalingen
 
-#### Artikel 22
+##### Artikel 22
 
 Buiten de gevallen, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0003235&paragraaf=4&artikel=12&z=2021-07-01&g=2021-07-01), wordt informatie, verkregen op grond van deze wet, voor zover deze betrekking heeft op afzonderlijke natuurlijke personen of rechtspersonen, dan wel daaruit gevolgtrekkingen ten aanzien van zodanige personen kunnen worden gemaakt, zonder toestemming van die personen niet verstrekt aan anderen dan degenen, die belast zijn met de uitvoering van een of meer bepalingen van deze wet.
 
-#### Artikel 23
+##### Artikel 23
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 24
+##### Artikel 24
 
 Deze wet kan worden aangehaald als: Wet uitvoering Internationaal Energieprogramma.
 
-#### Artikel 25
+##### Artikel 25
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad**, waarin zij wordt geplaatst.
 

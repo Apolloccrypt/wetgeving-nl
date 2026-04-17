@@ -1,13 +1,35 @@
 ---
 title: "Projectregeling Co-creatie – Gemeenschappen"
 identifier: "BWBR0051642"
-categorie: "Overig"
-publicatiedatum: 2025-10-23
-laatste_update: 2025-10-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051642"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-10-23"
+last_updated: "2025-10-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051642"
+soort: "zbo"
+stam_id: "17558773"
+version_id: "30984682"
+internal_id: "C44373651"
+label_id: "17460194"
+dtd_version: "2.0"
+original_entry_into_force: "2025-10-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051642/2025-10-23/0"
+intitule_bron: "Stcrt.2025-35727"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2025-10-22"
+intitule_in_force: "2025-10-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-35727"
+original_published_date: "2025-10-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-35727"
+entry_into_force_date: "2025-10-23"
+jci_1_3: "jci1.3:c:BWBR0051642&z=2025-10-23&g=2025-10-23"
+jci_1_0: "1.0:c:BWBR0051642&g=2025-10-23"
+citeertitel_status: "officieel"
+entry_into_force: "2025-10-23"
 ---
-
 # Projectregeling Co-creatie – Gemeenschappen
 
 gelet op [artikel 10, vierde lid, van de](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10)**Wet op het specifiek cultuurbeleid**;
@@ -22,7 +44,7 @@ besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1. Uitleg gebruikte woorden
+##### Artikel 1.1. Uitleg gebruikte woorden
 
 - **Aanvrager:** een (rechts)persoon die bij het Fonds een subsidieaanvraag doet.
 
@@ -64,11 +86,11 @@ besluit:
 
 - **Website van het Fonds:** [www.cultuurparticipatie.nl](http://www.cultuurparticipatie.nl)
 
-#### Artikel 1.2. Doel van de regeling
+##### Artikel 1.2. Doel van de regeling
 
 Met deze regeling stimuleert en ondersteunt het Fonds projecten door of met gemeenschappen, waarin immaterieel erfgoed- en erfgoedbeoefening centraal staat. De projecten leveren een positieve bijdrage aan een maatschappelijke opgave.
 
-#### Artikel 1.3. Hoogte van het subsidiebudget en flexibiliteit
+##### Artikel 1.3. Hoogte van het subsidiebudget en flexibiliteit
 
 1. Het Fonds kan besluiten de hoogte van het totale subsidiebudget aan te passen. Dat geldt ook voor het budget voor een specifieke paragraaf of bepaalde tijdvakken, thema’s, doelgroepen of regio’s.
 
@@ -76,7 +98,7 @@ Met deze regeling stimuleert en ondersteunt het Fonds projecten door of met geme
 
 3. Als het Fonds een besluit neemt zoals hierboven beschreven, melden we dat op de website van het Fonds en in de Staatscourant.
 
-#### Artikel 1.4. Algemene weigeringsgronden
+##### Artikel 1.4. Algemene weigeringsgronden
 
 1. Het Fonds weigert subsidie als:
 
@@ -108,7 +130,7 @@ Met deze regeling stimuleert en ondersteunt het Fonds projecten door of met geme
 
 4. Het Fonds kan subsidie weigeren als de aanvraag op enige wijze niet in overeenstemming is met de regeling.
 
-#### Artikel 1.5. Voorwaarden
+##### Artikel 1.5. Voorwaarden
 
 1. Het Fonds geeft alleen subsidie voor kosten die direct te maken hebben met het project.
 
@@ -122,7 +144,7 @@ Met deze regeling stimuleert en ondersteunt het Fonds projecten door of met geme
 
 3. Als de aanvrager gevestigd is in het Caribisch deel van het Koninkrijk dan kan hij de kosten voor het omwisselen van valuta voor het uitvoeren van het project opnemen in de subsidieaanvraag.
 
-#### Artikel 1.6. Verplichtingen voor de aanvrager en de aanvraag
+##### Artikel 1.6. Verplichtingen voor de aanvrager en de aanvraag
 
 1. Met deelname aan deze regeling geeft de aanvrager toestemming aan het Fonds om gegevens uit de aanvraag en de eventuele verantwoording in te zetten voor kennisdeling en onderzoeksdoeleinden.
 
@@ -156,11 +178,11 @@ Het Fonds kan besluiten om van deze termijnen afwijken.
 
 8. De activiteiten van de aanvrager zijn toegankelijk voor mensen met speciale behoeften. Daaronder vallen in ieder geval mensen met een beperkte mobiliteit.
 
-#### Artikel 1.7. Verplichtingen voor het indienen
+##### Artikel 1.7. Verplichtingen voor het indienen
 
 De aanvrager dient de subsidieaanvraag in via een volledig ingevuld digitaal aanvraagformulier in de online aanvraagomgeving Mijn Fonds, via de website van het Fonds. In [Hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051642&hoofdstuk=2&z=2025-10-23&g=2025-10-23) wordt beschreven uit welke onderdelen een aanvraag bestaat.
 
-#### Artikel 1.8. Beoordeling van aanvragen
+##### Artikel 1.8. Beoordeling van aanvragen
 
 1. Het Fonds beoordeelt de aanvragen overeenkomstig de regeling.
 
@@ -180,7 +202,7 @@ De aanvrager dient de subsidieaanvraag in via een volledig ingevuld digitaal aan
 
 10. Op de aanvraag in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051642&hoofdstuk=2&paragraaf=2&z=2025-10-23&g=2025-10-23) wordt binnen uiterlijk dertien weken beslist.
 
-#### Artikel 1.9. Voorschotten
+##### Artikel 1.9. Voorschotten
 
 1. Voor subsidies tot € 25.000 en die niet direct wordt vastgesteld, betaalt het Fonds een voorschot van 100%.
 
@@ -190,7 +212,7 @@ De aanvrager dient de subsidieaanvraag in via een volledig ingevuld digitaal aan
 
 4. Het Fonds kan de voorschotten (tijdelijk) stoppen als aanvragers hun subsidieverplichtingen niet of niet voldoende nakomen. Dat kan het Fonds ook doen als de omstandigheden zodanig zijn veranderd dat het aannemelijk is dat de activiteiten of projecten niet op dezelfde manier kunnen worden voortgezet.
 
-#### Artikel 1.10. Verantwoording en vaststelling
+##### Artikel 1.10. Verantwoording en vaststelling
 
 1. Subsidieontvangers die achteraf verantwoording moeten afleggen over de activiteiten of projecten, doen dit met een activiteitenverslag en een financieel verslag.
 
@@ -200,17 +222,17 @@ De aanvrager dient de subsidieaanvraag in via een volledig ingevuld digitaal aan
 
 #### Algemeen
 
-#### Artikel 2.1. Waarvoor kan deze subsidie worden aangevraagd?
+##### Artikel 2.1. Waarvoor kan deze subsidie worden aangevraagd?
 
 De subsidie kan worden aangevraagd voor projecten door of met gemeenschappen, waarin erfgoed- of immaterieel erfgoedbeoefening centraal staat. De projecten leveren een positieve bijdrage aan een maatschappelijke opgave. Dat kan op individueel, lokaal, regionaal, (inter)nationaal niveau zijn. Het project wordt voorbereid, gepland en uitgevoerd door of met de gemeenschap. In een project is internationale samenwerking mogelijk.
 
-#### Artikel 2.2. Wat is een gemeenschap?
+##### Artikel 2.2. Wat is een gemeenschap?
 
 Een gemeenschap is een groep mensen die zich met elkaar verbonden voelt door een gedeelde cultuur, tradities (gewoonten), interesses, afkomst of achtergrond. Zij organiseren zich vaak om gebruiken, tradities en rituelen met elkaar te delen of om samen (immaterieel) erfgoed levend te houden. Bijvoorbeeld door kennis te verzamelen of door te geven over een gedeeld verleden en de doorwerking van dit verleden in het nu.
 
 Leden van een gemeenschap hebben vertrouwen in elkaar, werken vanzelfsprekend samen en delen kennis en ervaring. Een gemeenschap hoeft niet formeel georganiseerd te zijn of al lang te bestaan. Een gemeenschap kan bijvoorbeeld gebaseerd zijn op (of bestaan uit) een etnische groep, een subcultuur, regionale groep of een erfgoedgemeenschap.
 
-#### Artikel 2.3. Hoe beoordeelt het Fonds de aanvraag?
+##### Artikel 2.3. Hoe beoordeelt het Fonds de aanvraag?
 
 Het Fonds beoordeelt de inhoudelijke kwaliteit en de organisatorische kwaliteit van het project waarvoor subsidie wordt aangevraagd. Daarnaast let het Fonds op de effecten van het project, zoals verder uitgelegd in de bijlage:
 
@@ -224,13 +246,13 @@ Aanvragen in [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051642&hoofd
 
 In de toelichting staat hoe deze onderdelen worden getoetst.
 
-#### Artikel 2.4. Wanneer kan deze subsidie worden aangevraagd?
+##### Artikel 2.4. Wanneer kan deze subsidie worden aangevraagd?
 
 De regeling opent op maandag 12 januari 2026 om 13:00 uur in Nederland en 7:00 uur in het Caribisch deel van het Koninkrijk. De regeling is in principe open voor aanvragen tot 31 augustus 2028 om 13:00 uur in Nederland en 7:00 uur in het Caribisch deel van het Koninkrijk. Als het jaarbudget op is voor eind van het jaar, dan sluit de regeling tijdelijk. Als het Fonds de regeling tussendoor sluit of als de openingsdatum verandert, melden wij dat op de website van het Fonds.
 
 #### Paragraaf 1. Aanvragen tot en met € 25.000 euro
 
-#### Artikel 2.5. Wie kan aanvragen?
+##### Artikel 2.5. Wie kan aanvragen?
 
 1. Een gemeenschap van minstens drie natuurlijke personen die een samenwerkingsovereenkomst hebben ondertekend;
 
@@ -238,7 +260,7 @@ De regeling opent op maandag 12 januari 2026 om 13:00 uur in Nederland en 7:00 u
 
 3. Een professional in de culturele sector.
 
-#### Artikel 2.6. Waar bestaat een aanvraag uit?
+##### Artikel 2.6. Waar bestaat een aanvraag uit?
 
 Een aanvraag in deze paragraaf bestaat uit:
 
@@ -248,7 +270,7 @@ Een aanvraag in deze paragraaf bestaat uit:
 
 - 3. Bij een aanvraag door een gemeenschap van natuurlijke personen wordt een door ten minste drie leden getekende samenwerkingsovereenkomst meegestuurd en is één van hen de aanvrager. Er staat een voorbeeld op de website van het Fonds.
 
-#### Artikel 2.7. Welk bedrag kan worden aangevraagd?
+##### Artikel 2.7. Welk bedrag kan worden aangevraagd?
 
 1. In deze paragraaf kan minimaal € 1.000 en maximaal € 25.000 worden aangevraagd.
 
@@ -258,7 +280,7 @@ Een aanvraag in deze paragraaf bestaat uit:
 
 4. Als de aanvrager gevestigd is in het Caribisch deel van het Koninkrijk, dan mag de aanvrager maximaal 20% van de projectkosten besteden aan materiële investeringen.
 
-#### Artikel 2.8. Subsidiebudget
+##### Artikel 2.8. Subsidiebudget
 
 1. Het beschikbare subsidiebudget voor deze paragraaf is € 875.000 per jaar.
 
@@ -268,11 +290,11 @@ Een aanvraag in deze paragraaf bestaat uit:
 
 #### Paragraaf 2. Aanvragen vanaf € 25.001 tot en met € 50.000
 
-#### Artikel 2.9. Wie kan aanvragen?
+##### Artikel 2.9. Wie kan aanvragen?
 
 Een culturele instelling die is gevestigd in het Koninkrijk der Nederlanden.
 
-#### Artikel 2.10. Waar bestaat de aanvraag uit?
+##### Artikel 2.10. Waar bestaat de aanvraag uit?
 
 Een aanvraag in deze [paragraaf](https://wetten.overheid.nl/jci1.3:c:BWBR0051642&hoofdstuk=2&paragraaf=2&z=2025-10-23&g=2025-10-23) bestaat uit:
 
@@ -282,7 +304,7 @@ Een aanvraag in deze [paragraaf](https://wetten.overheid.nl/jci1.3:c:BWBR0051642
 
 - 3. Een kloppende begroting (zonder tekort of overschot). Er staat een voorbeeld op de website van het Fonds. Dat kun je gebruiken, maar is niet verplicht. Je mag ook je eigen begroting gebruiken.
 
-#### Artikel 2.11. Welk bedrag kan worden aangevraagd?
+##### Artikel 2.11. Welk bedrag kan worden aangevraagd?
 
 1. In deze [paragraaf](https://wetten.overheid.nl/jci1.3:c:BWBR0051642&hoofdstuk=2&paragraaf=2&z=2025-10-23&g=2025-10-23) kan minimaal € 25.001 en maximaal € 50.000 worden aangevraagd.
 
@@ -294,7 +316,7 @@ Een aanvraag in deze [paragraaf](https://wetten.overheid.nl/jci1.3:c:BWBR0051642
 
 5. Als de aanvrager gevestigd in het Caribisch deel van het Koninkrijk, dan mag de aanvrager maximaal 20% van de gesubsidieerde kosten besteden aan materiële investeringen.
 
-#### Artikel 2.12. Subsidiebudget
+##### Artikel 2.12. Subsidiebudget
 
 1. Het beschikbare subsidiebudget voor deze [paragraaf](https://wetten.overheid.nl/jci1.3:c:BWBR0051642&hoofdstuk=2&paragraaf=2&z=2025-10-23&g=2025-10-23) is € 1.070.000 per jaar.
 
@@ -304,17 +326,17 @@ Een aanvraag in deze [paragraaf](https://wetten.overheid.nl/jci1.3:c:BWBR0051642
 
 ### Hoofdstuk 3. Slotbepalingen
 
-#### Artikel 3.1. Hardheidsclausule
+##### Artikel 3.1. Hardheidsclausule
 
 Het Fonds kan afwijken van de rechten en plichten in deze regeling. Dat kan alleen in het voordeel van de aanvrager en in bijzondere gevallen die een onredelijke uitwerking hebben, waarmee geen rekening is gehouden bij het opstellen van deze regeling.
 
-#### Artikel 3.2. Inwerkingtreding en vervaldatum
+##### Artikel 3.2. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking op de dag na de datum van uitgifte van de Staatscourant waarin zij wordt gepubliceerd.
 
 2. Deze regeling vervalt met ingang van 31 december 2033. Deze regeling blijft van toepassing op bezwaar- en beroepsprocedures die op dat moment nog niet zijn afgerond
 
-#### Artikel 3.3. Citeertitel
+##### Artikel 3.3. Citeertitel
 
 Deze regeling wordt aangehaald als: Projectregeling Co-creatie – Gemeenschappen.
 

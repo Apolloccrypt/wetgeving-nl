@@ -1,13 +1,35 @@
 ---
 title: "Specifiek interventiebeleid NVWA diergeneesmiddelen (IB03-SPEC 03, versie 10)"
 identifier: "BWBR0051746"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-12-01
-laatste_update: 2025-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051746"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2025-12-01"
+last_updated: "2025-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051746"
+soort: "beleidsregel"
+stam_id: "17594933"
+version_id: "31049062"
+internal_id: "C44457421"
+label_id: "17495554"
+dtd_version: "2.0"
+original_entry_into_force: "2025-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051746/2025-12-01/0"
+intitule_bron: "Stcrt.2025-38387"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2025-11-13"
+intitule_in_force: "2025-11-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-38387"
+original_published_date: "2025-11-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-38387"
+entry_into_force_date: "2025-12-01"
+jci_1_3: "jci1.3:c:BWBR0051746&z=2025-12-01&g=2025-12-01"
+jci_1_0: "1.0:c:BWBR0051746&g=2025-12-01"
+citeertitel_status: "officieel"
+entry_into_force: "2025-12-01"
 ---
-
 # Specifiek interventiebeleid NVWA diergeneesmiddelen (IB03-SPEC 03, versie 10)
 
 Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur van 20 oktober 2025 tot vaststelling van het Specifiek interventiebeleid NVWA diergeneesmiddelen (IB03-SPEC 03, versie 10)

@@ -1,13 +1,38 @@
 ---
 title: "Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Informatie Beheer Groep vanaf 1994"
 identifier: "BWBR0024373"
-categorie: "Overig"
-publicatiedatum: 2008-08-21
-laatste_update: 2008-08-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024373"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2008-08-21"
+last_updated: "2008-08-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024373"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "9698063"
+version_id: "15672492"
+internal_id: "C25329471"
+label_id: "9675014"
+dtd_version: "2.0"
+original_entry_into_force: "2008-08-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024373/2008-08-21/0"
+intitule_bron: "Stcrt.2008-159"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-07-28"
+intitule_published: "2008-08-19"
+intitule_in_force: "2008-08-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-159"
+original_signed_date: "2008-07-28"
+original_published_date: "2008-08-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-159-p9-SC87051"
+entry_into_force_date: "2008-08-21"
+jci_1_3: "jci1.3:c:BWBR0024373&z=2008-08-21&g=2008-08-21"
+jci_1_0: "1.0:c:BWBR0024373&g=2008-08-21"
+citeertitel_status: "redactioneel"
+signed_date: "2008-07-28"
+entry_into_force: "2008-08-21"
 ---
-
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Informatie Beheer Groep vanaf 1994
 
 Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
@@ -16,11 +41,11 @@ De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 24 juni 2008 n
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van de Informatie Beheer Groep op het beleidsterrein Informatie Beheer Groep over de periode vanaf 1994’ en de daarbij behorende toelichting worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

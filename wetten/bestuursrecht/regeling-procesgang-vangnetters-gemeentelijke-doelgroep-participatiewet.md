@@ -1,18 +1,44 @@
 ---
-title: "Regeling procesgang vangnetters gemeentelijke doelgroep Participatiewet"
+title: "Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 25 augustus 2015, 2015-0000236848, tot Regeling procesgang vangnetters gemeentelijke doelgroep Participatiewet"
 identifier: "BWBR0036980"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036980"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036980"
+soort: "ministeriele-regeling"
+stam_id: "13251363"
+version_id: "22667312"
+internal_id: "C32497391"
+label_id: "13219434"
+dtd_version: "2.0"
+original_entry_into_force: "2016-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036980/2026-01-01/0"
+intitule_bron: "Stcrt.2015-27502"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-08-25"
+intitule_published: "2015-09-02"
+intitule_in_force: "2015-09-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-27502"
+original_signed_date: "2015-08-25"
+original_published_date: "2015-09-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-27502"
+entry_into_force_date: "2016-07-01"
+jci_1_3: "jci1.3:c:BWBR0036980&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0036980&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling procesgang vangnetters gemeentelijke doelgroep Participatiewet"
+signed_date: "2015-08-25"
+entry_into_force: "2016-07-01"
 ---
-
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 25 augustus 2015, 2015-0000236848, tot Regeling procesgang vangnetters gemeentelijke doelgroep Participatiewet
 
 Gelet op [artikel 26, vijfde lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=26);
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 In deze regeling wordt verstaan onder:
 
@@ -24,11 +50,11 @@ In deze regeling wordt verstaan onder:
 
 - d. **plan van aanpak:** het plan van aanpak, bedoeld in [artikel 26, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=26), dat het college opstelt in overleg met de vangnetter.
 
-#### Artikel 2. Informatie UWV aan college over ziekte vangnetter
+##### Artikel 2. Informatie UWV aan college over ziekte vangnetter
 
 Indien het UWV een melding als bedoeld in [artikel 38a, tweede lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38a) over de ongeschiktheid tot werken van een werknemer, die een verzekerde is als bedoeld in [artikel 29, tweede lid, onderdeel a, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29), of een aangifte als bedoeld in [artikel 38, tweede lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38) over een werknemer als bedoeld in artikel 29, tweede lid, onderdeel c, ontvangt of een ziekmelding van een werknemer, die een verzekerde is als bedoeld in artikel 29, tweede lid, onderdelen b, c of d, op grond van [artikel 38ab van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38ab) ontvangt, informeert het UWV het college over deze aangifte of ziekmelding.
 
-#### Artikel 3. Probleemanalyse
+##### Artikel 3. Probleemanalyse
 
 1. Het college vormt zich, indien er naar verwachting sprake is van dreigend langdurig ziekteverzuim van een vangnetter, binnen zes weken na de eerste dag van ongeschiktheid tot het verrichten van arbeid een oordeel over het desbetreffende ziektegeval.
 
@@ -36,13 +62,13 @@ Indien het UWV een melding als bedoeld in [artikel 38a, tweede lid, van de Ziekt
 
 3. In afwijking van het eerste en tweede lid vormt het college zich onverwijld een oordeel over het desbetreffende ziektegeval, indien er naar verwachting sprake is van dreigend langdurig ziekteverzuim en de aangifte, bedoeld in [artikel 38, tweede lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38), of de melding, bedoeld in [artikel 38ab, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38ab) of [artikel 38a, tweede lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38a), later wordt gedaan dan binnen zes weken na de eerste dag van ongeschiktheid tot het verrichten van arbeid.
 
-#### Artikel 4. Houden van aantekening
+##### Artikel 4. Houden van aantekening
 
 1. Het college houdt vanaf het moment waarop naar verwachting sprake is van dreigend langdurig ziekteverzuim van de vangnetter aantekening als bedoeld in [artikel 25, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=25).
 
 2. Het college legt bij het houden van aantekening, bedoeld in het eerste lid, in ieder geval alle gegevens, documenten en correspondentie vast die betrekking hebben op het verloop van het ziekteverzuim, het aantal feitelijk gewerkte uren, en de op grond van deze regeling ondernomen activiteiten.
 
-#### Artikel 5. Plan van aanpak
+##### Artikel 5. Plan van aanpak
 
 1. Indien het college van oordeel is dat er nog mogelijkheden zijn om de terugkeer naar arbeid van de vangnetter te bevorderen stelt het college, in overleg met die vangnetter, binnen twee weken na het oordeel, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036980&artikel=3&z=2026-01-01&g=2026-01-01), een plan van aanpak op.
 
@@ -58,17 +84,17 @@ Indien het UWV een melding als bedoeld in [artikel 38a, tweede lid, van de Ziekt
 
 4. Het plan van aanpak wordt bijgesteld, indien de evaluatie van dat plan van aanpak of een geneeskundige onderzoek, daartoe aanleiding geeft. Het eerste tot en met derde lid zijn van overeenkomstige toepassing.
 
-#### Artikel 6. Periodieke herijking
+##### Artikel 6. Periodieke herijking
 
 1. Onverminderd de periodieke evaluatie, bedoeld in [artikel 5, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036980&artikel=5&z=2026-01-01&g=2026-01-01), vindt er na afloop van ieder tijdvak van 26 weken een periodieke herijking plaats. Bij de periodieke herijking wordt beoordeeld of de re-integratiedoelstelling van het afgelopen tijdvak is behaald en wordt voor het komende tijdvak vastgesteld wat de te behalen re-integratiedoelstelling zal zijn en welke aanpak daartoe is vereist. Artikel 5, derde lid, is van overeenkomstige toepassing.
 
 2. Het plan van aanpak wordt bijgesteld indien de periodieke herijking daartoe aanleiding geeft.
 
-#### Artikel 7. Afwijken van termijnen
+##### Artikel 7. Afwijken van termijnen
 
 Van de termijnen, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036980&artikel=3&z=2026-01-01&g=2026-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0036980&artikel=5&z=2026-01-01&g=2026-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0036980&artikel=6&z=2026-01-01&g=2026-01-01), kan door het college, na overleg met de vangnetter, gemotiveerd worden afgeweken.
 
-#### Artikel 8. Inhoud van het re-integratieverslag
+##### Artikel 8. Inhoud van het re-integratieverslag
 
 Het re-integratieverslag, bedoeld in [artikel 25, derde lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=25), dat het college op grond van [artikel 26, vierde lid van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=26) vaststelt, bevat met betrekking tot de vangnetter in ieder geval:
 
@@ -94,15 +120,15 @@ Het re-integratieverslag, bedoeld in [artikel 25, derde lid, van de Wet werk en 
 
 - k. een oordeel van de vangnetter omtrent de op grond van de onderdelen a tot en met i opgenomen gegevens en oordelen.
 
-#### Artikel 9. Intrekking regeling
+##### Artikel 9. Intrekking regeling
 
 De [Regeling indicatiestelling no risk polis en premiekorting UWV](https://wetten.overheid.nl/jci1.3:c:BWBR0019296) wordt ingetrokken.
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 juli 2016.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling procesgang vangnetters gemeentelijke doelgroep Participatiewet.
 

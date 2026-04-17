@@ -1,13 +1,39 @@
 ---
-title: "Besluit uitvoer reizigersbagage omzetbelasting"
+title: "Besluit van de Staatssecretaris van Financiën van 24 november 2025, nr. 2025-27543 over de heffing van omzetbelasting bij uitvoer van goederen als reizigersbagage (Besluit uitvoer reizigersbagage omzetbelasting)"
 identifier: "BWBR0052031"
-categorie: "Belastingrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052031"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052031"
+soort: "beleidsregel"
+stam_id: "17695563"
+version_id: "31227882"
+internal_id: "C44664591"
+label_id: "17594654"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052031/2026-01-01/0"
+intitule_bron: "Stcrt.2025-42286"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-11-24"
+intitule_published: "2025-12-17"
+intitule_in_force: "2025-12-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-42286"
+original_signed_date: "2025-11-24"
+original_published_date: "2025-12-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-42286"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0052031&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0052031&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit uitvoer reizigersbagage omzetbelasting"
+signed_date: "2025-11-24"
+entry_into_force: "2026-01-01"
 ---
-
 # Besluit van de Staatssecretaris van Financiën van 24 november 2025, nr. 2025-27543 over de heffing van omzetbelasting bij uitvoer van goederen als reizigersbagage (Besluit uitvoer reizigersbagage omzetbelasting)
 
 Gelet op [artikel 4.81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81), [artikel 24, tweede lid van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=24) en [artikel 23a van de Uitvoeringsbeschikking omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&artikel=23a);

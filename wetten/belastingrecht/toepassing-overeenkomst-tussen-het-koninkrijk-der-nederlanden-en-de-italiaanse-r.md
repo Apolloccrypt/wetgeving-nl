@@ -1,13 +1,37 @@
 ---
 title: "Toepassing Overeenkomst tussen het Koninkrijk der Nederlanden en de Italiaanse Republiek tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belasting naar het inkomen en vermogen"
 identifier: "BWBR0013459"
-categorie: "Belastingrecht"
-publicatiedatum: 1998-01-01
-laatste_update: 1998-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013459"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "1998-01-01"
+last_updated: "1998-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013459"
+soort: "beleidsregel"
+stam_id: "8391893"
+version_id: "13262792"
+internal_id: "C18429231"
+label_id: "8372734"
+dtd_version: "2.0"
+original_entry_into_force: "1998-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013459/1998-01-01/0"
+intitule_bron: "Infob.2002-6"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-02-26"
+intitule_published: "2002-01-01"
+intitule_in_force: "2002-01-01"
+intitule_status: "goed"
+original_publication: "Infob.2002-6"
+original_signed_date: "2002-02-26"
+original_published_date: "2002-01-01"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1998-01-01"
+jci_1_3: "jci1.3:c:BWBR0013459&z=1998-01-01&g=1998-01-01"
+jci_1_0: "1.0:c:BWBR0013459&g=1998-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "2002-02-26"
+entry_into_force: "1998-01-01"
 ---
-
 # Toepassing Overeenkomst tussen het Koninkrijk der Nederlanden en de Italiaanse Republiek tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belasting naar het inkomen en vermogen
 
 De plv. Directeur-Generaal voor Fiscale Zaken heeft namens de Staatssecretaris van Financiën het volgende besloten.

@@ -1,13 +1,38 @@
 ---
 title: "Regeling nazorgfase gesloten stortplaatsen"
 identifier: "BWBR0005877"
-categorie: "Sociaal recht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005877"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005877"
+soort: "ministeriele-regeling"
+stam_id: "4705733"
+version_id: "25465372"
+internal_id: "C36340041"
+label_id: "4684274"
+dtd_version: "2.0"
+original_entry_into_force: "2018-11-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005877/2024-01-01/0"
+intitule_bron: "Stcrt.2020-64380"
+intitule_effect: "wijziging"
+intitule_signed: "2020-12-01"
+intitule_published: "2020-12-03"
+intitule_in_force: "2023-04-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-63428"
+original_signed_date: "2018-11-30"
+original_published_date: "2018-12-03"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2018-63428"
+entry_into_force_date: "2018-11-30"
+jci_1_3: "jci1.3:c:BWBR0005877&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0005877&g=2024-01-01"
+citeertitel_status: "officieel"
+signed_date: "2018-11-30"
+entry_into_force: "2018-11-30"
 ---
-
 # Regeling nazorgfase gesloten stortplaatsen
 
 Gelet op de [artikelen 1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005858&artikel=1), [4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005858&artikel=4), [9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005858&artikel=9) en [10, tweede lid, van het Stortbesluit bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0005858&artikel=10),
@@ -16,7 +41,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -26,29 +51,29 @@ In deze regeling wordt verstaan onder:
 
 - **Richtlijn geohydrologische isolatie:** Richtlijn geohydrologische isolatie van bestaande stortplaatsen (Vereniging van Afvalverwerkers, Utrecht, juli 1997).
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling berust op de [artikelen 8.49, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.49), en [21.6, vierde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=21.6).
 
 ### Hoofdstuk 2. Voorschriften voor het bepalen van de gemiddeld hoogste en gemiddeld laagste grondwaterstand
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
 ### Hoofdstuk 3. Voorschriften voor de onderafdichting van stortplaatsen en de geohydrologische maatregelen
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
 ### Hoofdstuk 4. Voorschriften voor de bovenafdichting en de gasuitstoot
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 5a
+##### Artikel 5a
 
 Vervallen
 
@@ -56,63 +81,63 @@ Vervallen
 
 #### 5.1. Inspectie bodembeschermende voorzieningen als bedoeld in artikel 9 van het Stortbesluit
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
 #### 5.2. Inspectie bodembeschermende voorzieningen als bedoeld in artikel 10 van het Stortbesluit
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
 #### 5.3. Onderzoek naar de hoedanigheden van de bodem
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 10a
+##### Artikel 10a
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
 #### 5.4. Interventiepunten
 
-#### Artikel 14a
+##### Artikel 14a
 
 Vervallen
 
-#### Artikel 14b
+##### Artikel 14b
 
 Vervallen
 
 ### Hoofdstuk 6. Nazorgfase met betrekking tot gesloten stortplaatsen
 
-#### Artikel 15
+##### Artikel 15
 
 1. In dit hoofdstuk wordt verstaan onder:
 
@@ -122,11 +147,11 @@ gedeputeerde staten: gedeputeerde staten van de provincie waarin de gesloten sto
 
 2. De Richtlijn dichte eindafwerking, de Richtlijn geohydrologische isolatie en de Ontwerpprocedure grondwatermonitoring zijn van overeenkomstige toepassing op gesloten stortplaatsen.
 
-#### Artikel 16
+##### Artikel 16
 
 Gedeputeerde staten zenden jaarlijks voor 1 maart aan Onze Minister de op grond van de [artikelen 17 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=6&artikel=17&z=2024-01-01&g=2024-01-01) verkregen gegevens ten aanzien van de gesloten stortplaats.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De hoeveelheid en de samenstelling van het percolaat wordt in de nazorgfase halfjaarlijks gecontroleerd.
 
@@ -134,7 +159,7 @@ Gedeputeerde staten zenden jaarlijks voor 1 maart aan Onze Minister de op grond 
 
 3. De [artikelen 9.18, eerste lid, onder a, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&artikel=9.18), [9.20](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&artikel=9.20) en [9.25, tweede, derde en vierde lid, onder a, van de Omgevingsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&artikel=9.25), zijn van overeenkomstige toepassing.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De hoeveelheid en samenstelling van het in de omgeving aanwezige oppervlaktewater wordt in de nazorgfase halfjaarlijks vastgesteld; bemonstering geschiedt op ten minste twee door het bevoegd gezag aan te geven punten, één stroomopwaarts en één stroomafwaarts van de stortplaats.
 
@@ -144,7 +169,7 @@ Gedeputeerde staten zenden jaarlijks voor 1 maart aan Onze Minister de op grond 
 
 - b. de evaluatie van de gegevens aangeeft dat langere tussenpozen even effectief zijn.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De samenstelling en atmosferische druk van de gasuitstoot wordt halfjaarlijks gemeten.
 
@@ -156,7 +181,7 @@ Gedeputeerde staten zenden jaarlijks voor 1 maart aan Onze Minister de op grond 
 
 5. In afwijking van het eerste lid, kunnen gedeputeerde staten bepalen dat metingen van de samenstelling en atmosferische druk minder frequent mogen worden uitgevoerd als de evaluatie van de gegevens aangeeft dat langere tussenpozen even effectief zijn.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De gemiddeld hoogste en gemiddeld laagste grondwaterstand worden halfjaarlijks vastgesteld.
 
@@ -164,17 +189,17 @@ Gedeputeerde staten zenden jaarlijks voor 1 maart aan Onze Minister de op grond 
 
 3. De [artikelen 9.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&artikel=9.9), [9.10](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&artikel=9.10), [9.13, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&artikel=9.13), [9.14, eerste en tweede lid, aanhef en onder a en c, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&artikel=9.14), [9.18, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&artikel=9.18), [9.19](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&artikel=9.19) en [9.25, tweede, derde en vierde lid, onder a, van de Omgevingsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&artikel=9.25), zijn van overeenkomstige toepassing.
 
-#### Artikel 21
+##### Artikel 21
 
 De [artikelen 9.22](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&artikel=9.22) en [9.23 van de Omgevingsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&artikel=9.23) zijn van overeenkomstige toepassing op gesloten stortplaatsen.
 
 ### Hoofdstuk 7. Overige bepalingen
 
-#### Artikel 22
+##### Artikel 22
 
 Vervallen
 
-#### Artikel 23
+##### Artikel 23
 
 Vervallen
 
@@ -182,7 +207,7 @@ Vervallen
 
 ### Hoofdstuk 1. Normen monsterneming grond
 
-#### Grond
+##### Grond
 
 Doel:
 
@@ -204,7 +229,7 @@ Consequenties voor onderzoek, conservering en analyse:
 
 - weinig gevoelige bepalingen.
 
-#### Onderzoeksprotocollen grond in relatie tot monitoring (normnummer - titel)
+##### Onderzoeksprotocollen grond in relatie tot monitoring (normnummer - titel)
 
 - NEN 5104:1989 NL – Geotechniek - Classificatie onverharde grondmonsters.
 
@@ -232,7 +257,7 @@ Consequenties voor onderzoek, conservering en analyse:
 
 ### Hoofdstuk 2. Normen monsterneming, monstervoorbehandeling en analyse water Uitvoeringsregeling Stortbesluit Bodembescherming
 
-#### Percolaat
+##### Percolaat
 
 Doel:
 
@@ -256,7 +281,7 @@ Consequenties voor onderzoek, conservering en analyse:
 
 - geringere nauwkeurigheid.
 
-#### Onderzoeksprotocollen percolaat (normnummer - titel)
+##### Onderzoeksprotocollen percolaat (normnummer - titel)
 
 - NEN-ISO 5667-1:1994 NL – Water - Aanbevelingen voor het opzetten van monsternemingsprogramma's.
 
@@ -268,7 +293,7 @@ Consequenties voor onderzoek, conservering en analyse:
 
 - NEN 5861:1999 NL – Milieuprocedures voor de monsteroverdracht.
 
-#### Protocollen voor monstervoorbehandeling percolaat (normnummer - titel)
+##### Protocollen voor monstervoorbehandeling percolaat (normnummer - titel)
 
 - NVN 6645: 1990 NL – Water - Monstervoorbehandeling voor de fotometrische bepaling van de som van de gehalten aan ammonium-stikstof en aan organisch gebonden stikstof alsmede van het totale gehalte aan fosforverbindingen met behulp van een doorstroomanalysesysteem - Ontsluiting met zwavelzuur en kaliumsulfaat.
 
@@ -280,7 +305,7 @@ Consequenties voor onderzoek, conservering en analyse:
 
 - NEN 6465:1992 NL – Water, lucht en bodem - Monstervoorbehandeling van slib, slibhoudend water, luchtstof en grond voor de bepaling van elementen met atomaire-absorptiespectrometrie - Ontsluiting met salpeterzuur en zoutzuur.
 
-#### Analyseprotocollen percolaat (normnummer / titel)
+##### Analyseprotocollen percolaat (normnummer / titel)
 
 - NEN 6402:1991 NL – Water - Bepaling van het halogeengehalte afkomstig van niet-vluchtige, met petroleumether extraheerbare organohalogeenverbindingen (EOX).
 
@@ -468,7 +493,7 @@ Consequenties voor onderzoek, conservering en analyse:
 
 - NVN 6678:1997 NL – Water - Bepaling van het gehalte aan minerale olie met gaschromatografie.
 
-#### Grondwater
+##### Grondwater
 
 Doel:
 
@@ -490,7 +515,7 @@ Consequenties voor onderzoek, conservering en analyse:
 
 - hoge eisen aan conservering
 
-#### Onderzoeksprotocollen grondwater (normnummer - titel)
+##### Onderzoeksprotocollen grondwater (normnummer - titel)
 
 STRATEGIE
 
@@ -518,7 +543,7 @@ UITVOERING
 
 - NPR 5741:1994 NL – Bodem - Boorsystemen en monsternemingstoestellen voor grond, sediment en grondwater, die worden toegepast bij bodemverontreinigingsonderzoek.
 
-#### Analyseprotocollen grondwater (normnummer - titel)
+##### Analyseprotocollen grondwater (normnummer - titel)
 
 - NEN 6402:1991/C1:1999 NL – Water - Bepaling van het halogeengehalte afkomstig van niet-vluchtige, met petroleumether extraheerbare organohalogeenverbindingen (EOX).
 
@@ -644,7 +669,7 @@ UITVOERING
 
 - NVN 6678:1997 NL – Water - Bepaling van het gehalte aan minerale olie met gaschromatografie.
 
-#### Oppervlaktewater
+##### Oppervlaktewater
 
 Doel:
 
@@ -664,7 +689,7 @@ Onderzoeksprotocollen:
 
 - Analyseprotocollen
 
-#### Onderzoeksprotocollen oppervlaktewater (normnummer - titel)
+##### Onderzoeksprotocollen oppervlaktewater (normnummer - titel)
 
 STRATEGIE
 
@@ -682,7 +707,7 @@ UITVOERING
 
 - NVN 5635:1993 NL – Radioactiviteitsmetingen - Monstervoorbereiding van onopgeloste stoffen in water.
 
-#### Analyseprotocollen oppervlaktewater (normnummer - titel)
+##### Analyseprotocollen oppervlaktewater (normnummer - titel)
 
 - NEN 6402:1991/C1:1999 NL – Water - Bepaling van het halogeengehalte afkomstig van niet-vluchtige, met petroleumether extraheerbare organohalogeenverbindingen (EOX).
 
@@ -804,7 +829,7 @@ UITVOERING
 
 - NVN 6678:1997 NL – Water - Bepaling van het gehalte aan minerale olie met gaschromatografie.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Vervallen
 
@@ -834,19 +859,19 @@ Vervallen
 
 ### Hoofdstuk 2. Normen monsterneming, monstervoorbehandeling en analyse water Uitvoeringsregeling Stortbesluit Bodembescherming
 
-#### Artikel 14c
+##### Artikel 14c
 
 Vervallen
 
-#### Artikel 14d
+##### Artikel 14d
 
 Vervallen
 
-#### Artikel 14e
+##### Artikel 14e
 
 Vervallen
 
-#### Artikel 14f
+##### Artikel 14f
 
 Vervallen
 
@@ -866,7 +891,7 @@ Vervallen
 
 ## Bijlage 3. behorende bij [artikel 14d](https://wetten.overheid.nl/jci1.3:c:BWBR0005877&hoofdstuk=5a&artikel=14d&z=2018-12-04&g=2018-12-04) van de Uitvoeringsregeling Stortbesluit Bodembescherming
 
-#### Artikel 14g
+##### Artikel 14g
 
 Vervallen
 

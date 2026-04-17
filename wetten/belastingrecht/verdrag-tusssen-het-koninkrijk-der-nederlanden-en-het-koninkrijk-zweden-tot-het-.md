@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tusssen het Koninkrijk der Nederlanden en het Koninkrijk Zweden tot het vermijden van dubbele belasting en het vaststellen van regelen voor wederzijdse administratieve hulp met betrekking tot rechten terzake van nalatenschappen"
 identifier: "BWBV0005322"
-categorie: "Belastingrecht"
-publicatiedatum: 1953-02-05
-laatste_update: 1953-02-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005322"
+country: "nl"
+rank: "verdrag"
+publication_date: "1953-02-05"
+last_updated: "1953-02-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005322"
+soort: "verdrag"
+stam_id: "10004559983"
+version_id: "10004787852"
+internal_id: "C10008335511"
+label_id: "10004544634"
+dtd_version: "2.0"
+original_entry_into_force: "1953-02-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005322/1953-02-05/0"
+intitule_bron: "Trb.1952-89"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1952-07-10"
+intitule_in_force: "1953-02-20"
+intitule_status: "goed"
+original_publication: "Trb.1952-89"
+original_published_date: "1952-07-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1952-89"
+entry_into_force_date: "1953-02-05"
+jci_1_3: "jci1.3:c:BWBV0005322&z=1953-02-05&g=1953-02-05"
+jci_1_0: "1.0:c:BWBV0005322&g=1953-02-05"
+citeertitel_status: "redactioneel"
+entry_into_force: "1953-02-05"
 ---
-
 # Verdrag tusssen het Koninkrijk der Nederlanden en het Koninkrijk Zweden tot het vermijden van dubbele belasting en het vaststellen van regelen voor wederzijdse administratieve hulp met betrekking tot rechten terzake van nalatenschappen
 
 Hare Majesteit de Koningin der Nederlanden en Zijne Majesteit de Koning van Zweden,
@@ -30,7 +52,7 @@ Zijne Excellentie Östen Undén,
 
 Die, na elkander hun in goede en behoorlijke vorm bevonden volmachten te hebben overgelegd, zijn overeengekomen als volgt:
 
-#### Artikel 1
+##### Artikel 1
 
 § 1. De rechten, welke het onderwerp van dit Verdrag vormen, zijn
 
@@ -44,11 +66,11 @@ Die, na elkander hun in goede en behoorlijke vorm bevonden volmachten te hebben 
 
 § 4. Voor zoveel Nederland betreft, is dit Verdrag slechts van toepassing op het Koninkrijk der Nederlanden in Europa.
 
-#### Artikel 2
+##### Artikel 2
 
 Onroerende zaken (daaronder begrepen hun toebehoren en roerende zaken, welke er voorts toe behoren) zullen slechts aan recht onderworpen zijn in de Verdragsluitende Staat, in welke zulke zaken zijn gelegen.
 
-#### Artikel 3
+##### Artikel 3
 
 § 1. Vermogensbestanddelen gebezigd in een onderneming of een vrij beroep en toe te rekenen aan een vaste inrichting in een van de Verdragsluitende Staten zullen slechts in die Staat aan recht zijn onderworpen.
 
@@ -60,13 +82,13 @@ In dit verband zal:
 
 - 2). het feit, dat een natuurlijk persoon, die zijn woonplaats heeft in een van de Verdragsluitende Staten in de andere Verdragsluitende Staat een vaste bedrijfsinrichting aanhoudt uitsluitend voor het aankopen van waren of andere koopmansgoederen op zich zelf die vaste inrichting niet stempelen tot een vaste inrichting van die natuurlijke persoon.
 
-#### Artikel 4
+##### Artikel 4
 
 § 1. Vermogensbestanddelen, waarover in de artikelen 2 en 3 van dit Verdrag niet gesproken wordt, zullen slechts aan recht zijn onderworpen in de Verdragsluitende Staat, waar de overledene ten tijde van zijn overlijden zijn woonplaats had.
 
 § 2. De woonplaats van een persoon, ten tijde van zijn overlijden, is de plaats, waar hij toen zijn duurzaam verblijf had met de duidelijke bedoeling het te behouden. Indien de overledene, ten tijde van zijn overlijden, niet een zodanige woonplaats had in een van de Verdragsluitende Staten, zal hij beschouwd worden zijn woonplaats gehad te hebben in de Staat van welke hij een onderdaan was of, indien hij een onderdaan van beide Verdragsluitende Staten was, in die van deze Staten in welke het middelpunt van zijn persoonlijke en economische belangen was gelegen.
 
-#### Artikel 5
+##### Artikel 5
 
 § 1. Een schuld, betrekking hebbende op of verzekerd door zaken, waarop artikel 2 of 3 van dit Verdrag van toepassing is, zal in de Staat, welke het recht heeft deze zaken te belasten, in mindering worden gebracht op de waarde van de bedoelde zaken of op de waarde van andere zaken, welke dezelfde Staat gerechtigd is te belasten. Iedere andere schuld zal in mindering worden gebracht op de waarde van zaken, welke overeenkomstig dit Verdrag worden belast in die Staat waar de overledene ten tijde van zijn overlijden zijn woonplaats had.
 
@@ -74,15 +96,15 @@ In dit verband zal:
 
 § 3. Op de waarde van een fideicommis mogen evenwel slechts die schulden in mindering worden gebracht, welke betrekking hebben op of verzekerd zijn door het fideicommis.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit Verdrag zal niet aantasten enig recht op belastingvrijstelling, dat krachtens de algemene regels van internationaal recht verleend is, of hierna verleend mocht worden aan diplomatieke of consulaire ambtenaren. Indien, tengevolge van zodanige belastingvrijstelling, bezittingen niet aan recht zijn onderworpen in de Verdragsluitende Staat, waarbij zodanige ambtenaren zijn geaccrediteerd, zal de Verdragsluitende Staat, welke hen accrediteert, gerechtigd zijn recht te heffen.
 
-#### Artikel 7
+##### Artikel 7
 
 Rechten, in een van de Verdragsluitende Staten geheven over de gehele nalatenschap van een overledene of over het deel dat aan iedere erfgenaam of legataris opkomt, zomede enige daarmede verband houdende verplichting, zullen voor zoveel het een onderdaan (natuurlijk persoon of lichaam) van de andere Verdragsluitende Staat betreft, niet anders, hoger of drukkender zijn dan de rechten of daarmede verband houdende verplichtingen, waaraan de onderdanen van de eerstbedoelde Staat zijn of mochten worden onderworpen.
 
-#### Artikel 8
+##### Artikel 8
 
 § 1. Indien het recht tot het belasten van de nalatenschap van een persoon, die ten tijde van zijn overlijden zijn woonplaats in Zweden had, is verdeeld tussen de Verdragsluitende Staten, mag het recht, geheven in Zweden niet het verschil te boven gaan tussen enerzijds, het recht dat zou zijn geheven, indien de gehele nalatenschap in Zweden was belast geweest, en, anderzijds, het recht, dat zou zijn geheven indien slechts dat deel van de nalatenschap in Zweden belast zou zijn geweest, dat Nederland gerechtigd is te belasten.
 
@@ -92,11 +114,11 @@ Rechten, in een van de Verdragsluitende Staten geheven over de gehele nalatensch
 
 - (b). een zodanig deel van het Nederlandse recht, als het deel van het netto bedrag van de zaken, welke aan Zweeds recht zijn onderworpen, staat tot het netto bedrag van de gehele nalatenschap van de overledene.
 
-#### Artikel 9
+##### Artikel 9
 
 De bevoegde autoriteiten van de Verdragsluitende Staten zullen zodanige inlichtingen (zijnde inlichtingen, welke de belastingautoriteiten geordend voorhanden hebben) uitwisselen als nodig is om aan de bepalingen van dit Verdrag uitvoering te geven of om fraude te voorkomen of om uitvoering te geven aan wettelijke voorzieningen tegen wetsontduiking met betrekking tot de rechten, welke het onderwerp van dit Verdrag vormen. Elke aldus uitgewisselde inlichting zal als geheim worden behandeld en zal niet ter kennis worden gebracht van andere personen, dan die, belast met de aanslagregeling en de inning van de rechten, welke het onderwerp van dit Verdrag uitmaken. Generlei inlichting als hiervoor is bedoeld, welke een handels-, bedrijfs-, nijverheids- of beroepsgeheim of een handwerks- of handelswerkwijze zou onthullen, zal worden uitgewisseld.
 
-#### Artikel 10
+##### Artikel 10
 
 § 1. De Verdragsluitende Staten nemen op zich elkander hulp en bijstand te verlenen bij de inning van de rechten, welke het onderwerp van dit Verdrag vormen, met inbegrip van interest, van kosten, van verhogingen van recht en van boeten van niet-strafrechtelijke aard.
 
@@ -106,7 +128,7 @@ De bevoegde autoriteiten van de Verdragsluitende Staten zullen zodanige inlichti
 
 § 4. De hulp, bedoeld in dit artikel, zal slechts worden verleend ten aanzien van onderdanen, inwoners van of lichamen van de verzoekende Staat.
 
-#### Artikel 11
+##### Artikel 11
 
 § 1. In geen geval zullen de bepalingen van artikel 9 en artikel 10 van dit Verdrag dusdanig worden uitgelegd, dat zij een der Verdragsluitende Staten de verplichting opleggen
 
@@ -116,7 +138,7 @@ De bevoegde autoriteiten van de Verdragsluitende Staten zullen zodanige inlichti
 
 § 2. De Staat, aan welke een verzoek om inlichtingen of bijstand is gedaan, zal zo spoedig mogelijk aan het gedane verzoek gevolg geven. Nochtans kan de bedoelde Staat weigeren aan een dergelijk verzoek te voldoen om redenen van openbaar beleid. In een dergelijk geval zal deze Staat de verzoekende Staat zo spoedig mogelijk inlichten.
 
-#### Artikel 12
+##### Artikel 12
 
 § 1. De bevoegde autoriteiten van elk van de Verdragsluitende Staten kunnen in overeenstemming met het gebruik van die Staat, voorschriften vaststellen, nodig om de bepalingen van dit Verdrag uit te voeren.
 
@@ -124,31 +146,31 @@ De bevoegde autoriteiten van de Verdragsluitende Staten zullen zodanige inlichti
 
 § 3. De bevoegde autoriteiten van de Verdragsluitende Staten kunnen zich rechtstreeks met elkander in verbinding stellen voor de uitvoering van de bepalingen van dit Verdrag.
 
-#### Artikel 13
+##### Artikel 13
 
 In geval het optreden van de belastingautoriteiten van de Verdragsluitende Staten heeft geleid of zal leiden tot dubbele belastingheffing in strijd met de bepalingen van dit Verdrag, zal de persoon, aldus getroffen door dubbele belasting, het recht hebben, een klacht in te dienen bij de Staat waar de overledene zijn woonplaats had ten tijde van zijn overlijden. Als regel dient deze klacht te worden ingediend binnen twee jaar na het einde van het kalenderjaar, waarin de persoon zich bewust is geworden van de dubbele belasting. Indien de klacht gegrond wordt geacht, zal de bevoegde autoriteit van die Staat er naar streven met de bevoegde autoriteit van de andere Staat tot overeenstemming te komen om de bedoelde dubbele belasting te vermijden.
 
-#### Artikel 14
+##### Artikel 14
 
 In geval enige moeilijkheid of twijfel rijst met betrekking tot de uitlegging of de toepassing van dit Verdrag, zullen de bevoegde autoriteiten van de Verdragsluitende Staten zich met elkander in verbinding stellen, teneinde de aangelegenheid in onderling overleg te regelen.
 
-#### Artikel 15
+##### Artikel 15
 
 De uitdrukking: „bevoegde autoriteit” betekent, voor zoveel betreft Zweden, de Minister van Financiën of zijn bevoegde vertegenwoordiger, en voor zoveel betreft Nederland, de Minister van Financiën of zijn bevoegde vertegenwoordiger.
 
-#### Artikel 16
+##### Artikel 16
 
 § 1. Dit Verdrag kan, ongewijzigd of met overeengekomen wijzigingen, worden uitgebreid tot een van de Nederlandse Overzeese Rijksdelen, indien dit gebied rechten heft van in wezen gelijksoortige aard met de rechten, genoemd in artikel 1 van dit Verdrag. Over zodanige uitbreiding zullen beide Staten zich verstaan door een notawisseling; in deze nota's zullen zij vastleggen de datum van het in werking treden van de uitbreiding, de wijzigingen en de voorwaarden (daaronder begrepen die, welke betrekking hebben op de opzegging), waaronder het Verdrag van toepassing zal zijn.
 
 § 2. Tenzij door beide Verdragsluitende Staten uitdrukkelijk anders is overeengekomen, zal de beëindiging met betrekking tot Zweden of Nederland van dit Verdrag krachtens artikel 18 een einde maken aan de toepassing van dit Verdrag met betrekking tot elk gebied, waartoe dit Verdrag krachtens dit artikel is uitgebreid.
 
-#### Artikel 17
+##### Artikel 17
 
 § 1. Dit Verdrag zal worden bekrachtigd door de Hoge Verdragsluitende Partijen. Bekrachtiging door Zijne Majesteit de Koning van Zweden zal afhankelijk zijn van de toestemming van de Riksdag. De akten van bekrachtiging zullen zo spoedig mogelijk te 's-Gravenhage worden uitgewisseld. Het Verdrag zal in werking treden op de dag van de uitwisseling der akten van bekrachtiging.
 
 § 2. Dit Verdrag zal van toepassing zijn in alle gevallen waarin het overlijden van de erflater heeft plaats gevonden op of na de dag van de inwerkingtreding van het Verdrag.
 
-#### Artikel 18
+##### Artikel 18
 
 Dit Verdrag zal voor onbepaalde tijd van kracht blijven, maar elk van de Verdragsluitende Staten kan, op of voor de 30ste Juni van elk kalenderjaar niet vroeger dan het jaar 1956, aan de andere Verdragsluitende Staat langs diplomatieke weg een schriftelijke kennisgeving van beëindiging doen toekomen, en in zulk geval zal dit Verdrag ophouden van kracht te zijn aan het einde van dat kalenderjaar, maar het zal van toepassing zijn in alle gevallen, waarin het overlijden van de erflater heeft plaats gevonden voor het einde van het kalenderjaar.
 

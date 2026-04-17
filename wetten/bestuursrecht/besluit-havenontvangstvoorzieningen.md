@@ -1,13 +1,39 @@
 ---
-title: "Besluit havenontvangstvoorzieningen"
+title: "Besluit van 23 augustus 2004, houdende algemene regels voor havenontvangstvoorzieningen (Besluit havenontvangstvoorzieningen)"
 identifier: "BWBR0017136"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-06-01
-laatste_update: 2022-06-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0017136"
+country: "nl"
+rank: "amvb"
+publication_date: "2022-06-01"
+last_updated: "2022-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0017136"
+soort: "AMvB"
+stam_id: "6142803"
+version_id: "28657632"
+internal_id: "C40436821"
+label_id: "6132064"
+dtd_version: "2.0"
+original_entry_into_force: "2022-05-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0017136/2022-06-01/0"
+intitule_bron: "Stb.2004-457"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-08-23"
+intitule_published: "2004-09-23"
+intitule_in_force: "2004-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2022-199"
+original_signed_date: "2022-05-03"
+original_published_date: "2022-05-31"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2022-199"
+entry_into_force_date: "2022-05-03"
+jci_1_3: "jci1.3:c:BWBR0017136&z=2022-06-01&g=2022-06-01"
+jci_1_0: "1.0:c:BWBR0017136&g=2022-06-01"
+citeertitel_status: "officieel"
+short_title: "Besluit havenontvangstvoorzieningen"
+signed_date: "2022-05-03"
+entry_into_force: "2022-05-03"
 ---
-
 # Besluit van 23 augustus 2004, houdende algemene regels voor havenontvangstvoorzieningen (Besluit havenontvangstvoorzieningen)
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 27 mei 2004, nr. HDJZ/SCH/2004-1241, Hoofddirectie Juridische Zaken, mede namens de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepaling
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -40,7 +66,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2. Aanwijzing havens
 
-#### Artikel 2
+##### Artikel 2
 
 1. Bij regeling van Onze Minister worden de havens aangewezen waarvan de beheerder zorgdraagt voor de aanwezigheid van havenontvangstvoorzieningen die over de nodige capaciteit beschikken om de soorten en hoeveelheden scheepsafvalstoffen te ontvangen van de schepen die de haven gewoonlijk aandoen.
 
@@ -56,13 +82,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 3. Havenafvalplannen
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het havenafvalplan heeft betrekking op alle scheepsafvalstoffen van schepen die de haven gewoonlijk aandoen en is afgestemd op de grootte van de haven en het type schepen die de haven aandoen.
 
 2. Het havenafvalplan bevat in ieder geval de elementen die in bijlage 1 bij de richtlijn havenontvangstvoorzieningen verplicht worden gesteld. Het havenafvalplan kan tevens de overige in die bijlage genoemde elementen bevatten.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het havenafvalplan heeft telkens een geldigheidsduur van niet meer dan vijf jaar.
 
@@ -70,17 +96,17 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Indien geen aanzienlijke veranderingen als bedoeld in het tweede lid zich voordoen, kan de havenbeheerder besluiten de geldigheidsduur van het havenafvalplan te verlengen voor een opeenvolgende periode van niet meer dan vijf jaar.
 
-#### Artikel 5
+##### Artikel 5
 
 Op de voorbereiding van het havenafvalplan en een besluit tot aanpassing of verlenging van de geldigheidsduur van het havenafvalplan is [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De havenbeheerder zendt het havenafvalplan of het besluit tot aanpassing of verlenging van de geldigheidsduur binnen veertien dagen na vaststelling aan de Inspectie Leefomgeving en Transport ter goedkeuring.
 
 2. Het havenafvalplan gaat vergezeld van een afschrift van de naar voren gebrachte zienswijzen en de verslagen, bedoeld in de [artikelen 3:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:15) en [3:17 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:17).
 
-#### Artikel 7
+##### Artikel 7
 
 1. Binnen veertien dagen na de goedkeuring als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017136&paragraaf=3&artikel=6&z=2022-06-01&g=2022-06-01) maakt de havenbeheerder het havenafvalplan op zodanige wijze bekend dat de inhoud van het havenafvalplan voor eenieder toegankelijk is.
 
@@ -100,7 +126,7 @@ Op de voorbereiding van het havenafvalplan en een besluit tot aanpassing of verl
 
 #### § 4. Melding tekortkomingen en klachtenprocedure
 
-#### Artikel 8
+##### Artikel 8
 
 1. Indien naar het oordeel van de kapitein havenontvangstvoorzieningen ontoereikend zijn, kan hij of zijn vertegenwoordiger dit aan de desbetreffende havenbeheerder melden middels het formulier voor het melden van vermeende ontoereikendheid van havenontvangstvoorzieningen, behorend bij het Verdrag.
 
@@ -114,7 +140,7 @@ Op de voorbereiding van het havenafvalplan en een besluit tot aanpassing of verl
 
 #### § 4. Melding tekortkomingen en klachtenprocedure
 
-#### Artikel 9
+##### Artikel 9
 
 1. De havenbeheerder laat het heffen van een bijdrage bij iedere aanloop achterwege jegens de exploitant van een pleziervaartuig, indien hij met de exploitant een overeenkomst is aangegaan, inhoudende:
 
@@ -126,37 +152,37 @@ Op de voorbereiding van het havenafvalplan en een besluit tot aanpassing of verl
 
 #### § 5. Indirecte financiering
 
-#### Artikel 10
+##### Artikel 10
 
 Wijzigt het Besluit voorkoming olieverontreiniging door schepen.
 
-#### Artikel 11
+##### Artikel 11
 
 Wijzigt het Besluit voorkoming verontreiniging door met schepen in bulk vervoerde schadelijke vloeistoffen.
 
-#### Artikel 12
+##### Artikel 12
 
 Wijzigt het Besluit voorkoming verontreiniging door vuilnis van schepen.
 
 #### § 7. Slotbepalingen
 
-#### Artikel 13
+##### Artikel 13
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 14
+##### Artikel 14
 
 Dit besluit wordt aangehaald als: Besluit havenontvangstvoorzieningen.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Dit besluit berust mede op de [artikelen 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=6), [6a, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=6a), [6b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=6b), [6d, eerste, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=6d), [6e](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=6e), [12b, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=12b).
 
 #### § 2. Havenontvangstvoorzieningen
 
-#### Artikel 2a
+##### Artikel 2a
 
 De houder van een havenontvangstvoorziening draagt zorg dat:
 
@@ -166,7 +192,7 @@ De houder van een havenontvangstvoorziening draagt zorg dat:
 
 #### § 3. Havenafvalplannen
 
-#### Artikel 9a
+##### Artikel 9a
 
 1. De havenbeheerder stelt de indirecte bijdrage, bedoeld in [artikel 6d, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=6d), vast op grond van de werkelijke kosten voor de afvalafgifte tijdens het voorgaande jaar en hij kan daarbij rekening houden met de kosten in verband met het voor het komende jaar verwachte verkeersvolume. De kosten omvatten de in bijlage 4 bij de richtlijn havenontvangstvoorzieningen vermelde elementen.
 
@@ -200,7 +226,7 @@ De houder van een havenontvangstvoorziening draagt zorg dat:
 
 #### § 5a. Uitzondering afgifteplicht
 
-#### Artikel 9b
+##### Artikel 9b
 
 1. Onverminderd de toepasselijke lozings- en afgiftenormen van het Verdrag, mag een schip in afwijking van [artikel 12b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=12b) doorvaren naar de volgende aanloophaven zonder alle scheepsafvalstoffen af te geven als:
 
@@ -218,7 +244,7 @@ De houder van een havenontvangstvoorziening draagt zorg dat:
 
 #### § 5b. Ontheffingen
 
-#### Artikel 9c
+##### Artikel 9c
 
 1. Onze Minister kan een schip op verzoek van de exploitant geheel of gedeeltelijk ontheffing verlenen van het bepaalde bij of krachtens de [artikelen 6d](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=6d), [12a](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=12a) of [12b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=12b) als:
 
@@ -242,7 +268,7 @@ De houder van een havenontvangstvoorziening draagt zorg dat:
 
 5. Dit artikel is ook van toepassing op buitenlandse schepen.
 
-#### Artikel 9d
+##### Artikel 9d
 
 1. Onze Minister kan een houder van een onbemande havenontvangstvoorziening in een kleine haven ontheffing verlenen van het bepaalde bij of krachtens [artikel 6b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=6b).
 

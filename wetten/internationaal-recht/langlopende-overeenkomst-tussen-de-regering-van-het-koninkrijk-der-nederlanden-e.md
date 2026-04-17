@@ -1,13 +1,35 @@
 ---
 title: "Langlopende Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Volksrepubliek Bulgarije inzake de ontwikkeling van de economische, industriële en technische samenwerking"
 identifier: "BWBV0003482"
-categorie: "Internationaal recht"
-publicatiedatum: 2012-04-23
-laatste_update: 2012-04-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003482"
+country: "nl"
+rank: "verdrag"
+publication_date: "2012-04-23"
+last_updated: "2012-04-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003482"
+soort: "verdrag"
+stam_id: "10003558183"
+version_id: "10004821782"
+internal_id: "C10007202681"
+label_id: "10003543794"
+dtd_version: "2.0"
+original_entry_into_force: "2012-04-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003482/2012-04-23/0"
+intitule_bron: "Trb.2011-126"
+intitule_effect: "intrekking-regeling"
+intitule_published: "2011-07-19"
+intitule_in_force: "2011-07-19"
+intitule_status: "vervallen"
+original_publication: "Trb.2011-126"
+original_published_date: "2011-07-19"
+original_effect: "intrekking-regeling"
+original_url_id: "trb-2011-126"
+entry_into_force_date: "2012-04-23"
+jci_1_3: "jci1.3:c:BWBV0003482&z=2012-04-23&g=2012-04-23"
+jci_1_0: "1.0:c:BWBV0003482&g=2012-04-23"
+citeertitel_status: "redactioneel"
+entry_into_force: "2012-04-23"
 ---
-
 # Langlopende Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Volksrepubliek Bulgarije inzake de ontwikkeling van de economische, industriële en technische samenwerking
 
 De Regering van het Koninkrijk der Nederlanden en de Regering van de Volksrepubliek Bulgarije,
@@ -24,43 +46,43 @@ erkennend het nut van het aannemen van langlopende regelingen die gericht zijn o
 
 Zijn overeengekomen als volgt:
 
-#### Artikel 1
+##### Artikel 1
 
 Vervallen
 
-#### Artikel 2
+##### Artikel 2
 
 Vervallen
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 

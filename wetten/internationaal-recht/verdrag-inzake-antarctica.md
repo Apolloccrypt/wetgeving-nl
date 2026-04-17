@@ -1,13 +1,35 @@
 ---
 title: "Verdrag inzake Antarctica"
 identifier: "BWBV0005237"
-categorie: "Internationaal recht"
-publicatiedatum: 1967-03-30
-laatste_update: 1967-03-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005237"
+country: "nl"
+rank: "verdrag"
+publication_date: "1967-03-30"
+last_updated: "1967-03-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005237"
+soort: "verdrag"
+stam_id: "10004529073"
+version_id: "10004746842"
+internal_id: "C10007158081"
+label_id: "10004513904"
+dtd_version: "2.0"
+original_entry_into_force: "1967-03-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005237/1967-03-30/0"
+intitule_bron: "Trb.1965-148"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1965-08-12"
+intitule_in_force: "1967-05-16"
+intitule_status: "goed"
+original_publication: "Trb.1965-148"
+original_published_date: "1965-08-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1965-148"
+entry_into_force_date: "1967-03-30"
+jci_1_3: "jci1.3:c:BWBV0005237&z=1967-03-30&g=1967-03-30"
+jci_1_0: "1.0:c:BWBV0005237&g=1967-03-30"
+citeertitel_status: "redactioneel"
+entry_into_force: "1967-03-30"
 ---
-
 # Verdrag inzake Antarctica
 
 De Regeringen van Argentinië, Australië, België, Chili, de Franse Republiek, Japan, Nieuw-Zeeland, Noorwegen, de Unie van Zuid-Afrika, de Unie van Socialistische Sovjetrepublieken, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en de Verenigde Staten van Amerika,
@@ -22,17 +44,17 @@ Er evenzeer van overtuigd dat de totstandkoming van een verdrag dat het gebruik 
 
 Zijn het volgende overeengekomen:
 
-#### Artikel I
+##### Artikel I
 
 1. Antarctica wordt uitsluitend gebruikt voor vreedzame doeleinden. Verboden zijn onder andere alle maatregelen van militaire aard zoals het aanleggen van militaire bases en versterkingen, het houden van militaire oefeningen alsmede het beproeven van alle soorten wapens.
 
 2. Dit Verdrag verbiedt niet het gebruik van militair personeel of materieel voor het wetenschappelijk onderzoek of andere vreedzame doeleinden.
 
-#### Artikel II
+##### Artikel II
 
 De vrijheid van wetenschappelijk onderzoek in Antarctica en de daarop gerichte samenwerking, die gedurende het Internationaal Geofysisch Jaar hebben bestaan, worden gehandhaafd met inachtneming van het bepaalde in dit Verdrag.
 
-#### Artikel III
+##### Artikel III
 
 1. Ten einde de internationale samenwerking op het gebied van het wetenschappelijk onderzoek in Antarctica, als bedoeld in artikel II van dit Verdrag, te bevorderen, komen de Verdragsluitende Partijen overeen om, voor zover zulks enigszins mogelijk is:
 
@@ -44,7 +66,7 @@ De vrijheid van wetenschappelijk onderzoek in Antarctica en de daarop gerichte s
 
 2. Bij de tenuitvoerlegging van de bepalingen van dit artikel wordt de samenwerking met de Gespecialiseerde Organisaties van de Verenigde Naties en andere internationale organisaties die een technisch of wetenschappelijk belang hebben bij Antarctica, met alle middelen bevorderd.
 
-#### Artikel IV
+##### Artikel IV
 
 1. Geen bepaling van dit Verdrag mag worden uitgelegd als:
 
@@ -56,17 +78,17 @@ De vrijheid van wetenschappelijk onderzoek in Antarctica en de daarop gerichte s
 
 2. Zolang dit Verdrag van kracht is levert geen enkele handeling of activiteit gronden op voor het doen gelden, ondersteunen of betwisten van aanspraken op territoriale soevereiniteit in Antarctica; evenmin worden hierdoor in Antarctica soevereiniteitsrechten geschapen. Zolang dit Verdrag van kracht is kunnen geen nieuwe aanspraken of uitbreidingen van reeds bestaande aanspraken op territoriale soevereiniteit in Antarctica geldend worden gemaakt.
 
-#### Artikel V
+##### Artikel V
 
 1. In Antarctica zijn kernontploffingen van welke aard ook, zomede het lozen of deponeren en vervolgens onbeheerd achterlaten van radioactieve afvalstoffen, verboden.
 
 2. Indien inzake het gebruik van kernenergie, met inbegrip van kernontploffingen, en het lozen of deponeren en vervolgens onbeheerd achterlaten van radioactieve afvalstoffen internationale overeenkomsten worden gesloten waarbij alle Verdragsluitende Partijen welker vertegenwoordigers zijn gerechtigd deel te nemen aan de in artikel IX bedoelde vergaderingen, partij zijn, worden in Antarctica de bij die overeenkomsten vastgestelde voorschriften toegepast.
 
-#### Artikel VI
+##### Artikel VI
 
 De bepalingen van dit Verdrag zijn van toepassing op het gebied gelegen ten zuiden van de 60ste zuidelijke breedtegraad met inbegrip van al het shelf-ijs, doch geen bepaling van dit Verdrag maakt inbreuk op of vormt op enigerlei wijze een aantasting van de rechten, of de uitoefening daarvan, van iedere staat krachtens het volkenrecht ten aanzien van de volle zee binnen dit gebied.
 
-#### Artikel VII
+##### Artikel VII
 
 1. Ten einde de doelstellingen van dit Verdrag te bevorderen en te verzekeren dat de bepalingen ervan worden nageleefd, heeft ieder der Verdragsluitende Partijen welker vertegenwoordigers gerechtigd zijn deel te nemen aan de in artikel IX van dit Verdrag bedoelde vergaderingen, het recht waarnemers aan te wijzen die belast zullen worden met het uitvoeren van alle in dit artikel bedoelde inspecties. Deze waarnemers moeten onderdanen zijn van de Verdragsluitende Partij die hen aanwijst. De namen van de waarnemers worden medegedeeld aan elk der andere Verdragsluitende Partijen die het recht hebben waarnemers aan te wijzen; de beëindiging van hun mandaat wordt eveneens aan die Verdragsluitende Partijen medegedeeld.
 
@@ -84,13 +106,13 @@ De bepalingen van dit Verdrag zijn van toepassing op het gebied gelegen ten zuid
 
 - (c). haar voornemen om overeenkomstig het bepaalde in lid 2 van artikel I van dit Verdrag militair personeel of materieel naar Antarctica te zenden, en stelt hen daarvan vervolgens steeds vooraf in kennis.
 
-#### Artikel VIII
+##### Artikel VIII
 
 1. Ten einde de uitoefening van hun functies krachtens dit Verdrag te vergemakkelijken, en onverminderd de onderscheiden standpunten der Verdragsluitende Partijen ten aanzien van de rechtsmacht over alle andere personen in Antarctica, vallen de overeenkomstig het eerste lid van artikel VII aangewezen waarnemers en de leden van het overeenkomstig lid 1 **(b)** van artikel III van het Verdrag uitgewisselde wetenschappelijke personeel, alsmede de aan hen toegevoegde en hen vergezellende personen, wat betreft elke handeling en elk verzuim tijdens hun verblijf in Antarctica om daar hun functie uit te oefenen, uitsluitend onder de rechtsmacht van de Verdragsluitende Partij waarvan zij onderdaan zijn.
 
 2. Onverminderd het bepaalde in het eerste lid van dit artikel en in afwachting van het treffen van maatregelen overeenkomstig lid 1 **(e)** van artikel IX, treden de Verdragsluitende Partijen die betrokken zijn bij enig geschil inzake de uitoefening van rechtsmacht in Antarctica, onmiddellijk met elkaar in overleg ten einde tot een wederzijds aanvaardbare oplossing te komen.
 
-#### Artikel IX
+##### Artikel IX
 
 1. De vertegenwoordigers van de in de preambule van dit Verdrag genoemde Verdragsluitende Partijen komen binnen twee maanden na de inwerkingtreding van het Verdrag te Canberra bijeen, en vervolgens met passende tussenpozen en op daarvoor geschikte plaatsen, voor het uitwisselen van gegevens, het plegen van overleg over aangelegenheden van gemeenschappelijk belang die betrekking hebben op Antarctica, en het formuleren, bestuderen en aan hun regeringen aanbevelen van maatregelen ter bevordering van de beginselen en doelstellingen van dit Verdrag, met inbegrip van maatregelen die:
 
@@ -114,17 +136,17 @@ De bepalingen van dit Verdrag zijn van toepassing op het gebied gelegen ten zuid
 
 5. De bij dit Verdrag vastgestelde rechten kunnen alle en elk afzonderlijk worden uitgeoefend zodra het Verdrag in werking is getreden, ongeacht of ter vergemakkelijking van de uitoefening van deze rechten maatregelen als bedoeld in dit artikel zijn voorgesteld, bestudeerd of goedgekeurd.
 
-#### Artikel X
+##### Artikel X
 
 Iedere Verdragsluitende Partij neemt de verplichting op zich, gepaste maatregelen te nemen, die in overeenstemming dienen te zijn met het [Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143), om te voorkomen dat in Antarctica activiteiten worden ontplooid die in strijd zijn met de beginselen of de doelstellingen van dit Verdrag.
 
-#### Artikel XI
+##### Artikel XI
 
 1. Indien tussen twee of meer Verdragsluitende Partijen een geschil ontstaat over de uitleg of de toepassing van dit Verdrag treden deze Verdragsluitende Partijen met elkaar in overleg om het geschil te regelen door middel van onderhandelingen, onderzoek, bemiddeling, verzoening, arbitrage, gerechtelijke uitspraak of door een ander vreedzaam middel te hunner keuze.
 
 2. Ieder zodanig geschil dat niet op deze wijze kan worden geregeld, wordt, steeds met goedkeuring van alle bij het geschil betrokken partijen, ter beslechting voorgelegd aan het Internationale Gerechtshof; indien evenwel over het voorleggen van het geschil aan het Hof geen overeenstemming kan worden bereikt, ontslaat dit de betrokken partijen niet van de verplichting te blijven zoeken naar een oplossing van het geschil met alle in het eerste lid van dit artikel genoemde vreedzame middelen.
 
-#### Artikel XII
+##### Artikel XII
 
 - (a). Dit Verdrag kan te allen tijde met algemene instemming der Verdragsluitende Partijen welker vertegenwoordigers het recht hebben deel te nemen aan de in Artikel IX bedoelde vergaderingen worden gewijzigd of geamendeerd. Dergelijke wijzigingen of amendementen worden van kracht wanneer de depot-regering van al deze Verdragsluitende Partijen mededeling heeft ontvangen dat zij de wijziging of het amendement hebben bekrachtigd.
 
@@ -136,7 +158,7 @@ Iedere Verdragsluitende Partij neemt de verplichting op zich, gepaste maatregele
 
 - (c). Indien een dergelijke wijziging of een dergelijk amendement niet binnen twee jaar te rekenen van het tijdstip waarop de wijziging of het amendement ter kennis van alle Verdragsluitende Partijen is gebracht, overeenkomstig het eerste lid, onder **(a)**, van dit artikel van kracht is geworden, kan iedere Verdragsluitende Partij op elk ogenblik na het verstrijken van die termijn de depot-regering mededelen dat zij dit Verdrag opzegt; deze opzegging wordt twee jaar nadat de depot-regering deze mededeling heeft ontvangen van kracht.
 
-#### Artikel XIII
+##### Artikel XIII
 
 1. Dit Verdrag dient door de ondertekenende staten te worden bekrachtigd. Het staat open voor toetreding door iedere staat die lid is van de Verenigde Naties of door iedere andere staat die met instemming van alle Verdragsluitende Partijen welker vertegenwoordigers het recht hebben deel te nemen aan de in artikel IX van het Verdrag bedoelde vergaderingen wordt uitgenodigd tot het Verdrag toe te treden.
 
@@ -150,7 +172,7 @@ Iedere Verdragsluitende Partij neemt de verplichting op zich, gepaste maatregele
 
 6. Dit Verdrag wordt door de depot-regering geregistreerd overeenkomstig [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-#### Artikel XIV
+##### Artikel XIV
 
 Dit Verdrag, opgesteld in de Engelse, de Franse, de Russische en de Spaanse taal, zijnde alle teksten gelijkelijk authentiek, zal worden nedergelegd in het archief van de Regering van de Verenigde Staten van Amerika, die voor eensluidend gewaarmerkte afschriften hiervan toezendt aan de regeringen van de ondertekenende en toetredende staten.
 

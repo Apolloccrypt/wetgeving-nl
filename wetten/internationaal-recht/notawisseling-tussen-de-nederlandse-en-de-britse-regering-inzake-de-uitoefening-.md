@@ -1,13 +1,35 @@
 ---
 title: "Notawisseling tussen de Nederlandse en de Britse Regering inzake de uitoefening van rechten en verplichtingen welke ten aanzien van de in de Bondsrepubliek Duitsland gestationeerde Nederlandse militaire eenheden voortvloeien uit twee op 26 mei 1952 te Bonn gesloten en op 23 oktober 1954 te Parijs herziene Verdragen"
 identifier: "BWBV0004959"
-categorie: "Internationaal recht"
-publicatiedatum: 1956-06-11
-laatste_update: 1956-06-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004959"
+country: "nl"
+rank: "verdrag"
+publication_date: "1956-06-11"
+last_updated: "1956-06-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004959"
+soort: "verdrag"
+stam_id: "10004407073"
+version_id: "10004614862"
+internal_id: "C10007512801"
+label_id: "10004394764"
+dtd_version: "2.0"
+original_entry_into_force: "1956-06-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004959/1956-06-11/0"
+intitule_bron: "Trb.1956-124"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1956-09-26"
+intitule_in_force: "1956-09-26"
+intitule_status: "goed"
+original_publication: "Trb.1956-124"
+original_published_date: "1956-09-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1956-124"
+entry_into_force_date: "1956-06-11"
+jci_1_3: "jci1.3:c:BWBV0004959&z=1956-06-11&g=1956-06-11"
+jci_1_0: "1.0:c:BWBV0004959&g=1956-06-11"
+citeertitel_status: "redactioneel"
+entry_into_force: "1956-06-11"
 ---
-
 # Notawisseling tussen de Nederlandse en de Britse Regering inzake de uitoefening van rechten en verplichtingen welke ten aanzien van de in de Bondsrepubliek Duitsland gestationeerde Nederlandse militaire eenheden voortvloeien uit twee op 26 mei 1952 te Bonn gesloten en op 23 oktober 1954 te Parijs herziene Verdragen
 
 **(zoals gewijzigd bij Bijlage 11 bij het Protocol tot beëindiging van het bezettingsregime in de Bondsrepubliek Duitsland, ondertekend te Parijs op 23 oktober 1954)**
@@ -18,7 +40,7 @@ Voor inwerkingtreding zie ook Trb. 1957/229.
 
 ## DEEL EEN. – ALGEMEEN
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit Verdrag en de daarbij behorende Bijlagen worden aan de volgende uitdrukkingen de hierna vermelde betekenissen gehecht:
 
@@ -58,13 +80,13 @@ In dit Verdrag en de daarbij behorende Bijlagen worden aan de volgende uitdrukki
 
 - 10. **Installaties:** gronden, gebouwen, of delen daarvan en alle duurzaam daaraan verbonden eigendommen, welke ingevolge de bepalingen van dit Verdrag worden bestemd voor het uitsluitende gebruik of bezit („im ausschliesslichen Besitz”) van de krijgsmachten. Deze definitie geldt niet voor artikel 20 van dit Verdrag.
 
-#### Artikel 2. Naleving van de Duitse wetten - Politieke activiteit
+##### Artikel 2. Naleving van de Duitse wetten - Politieke activiteit
 
 1. De leden van de krijgsmachten nemen de Duitse wetten in acht, en de autoriteiten van de krijgsmachten verplichten zich tot, en nemen de verantwoordelijkheid op zich voor de toepassing van de Duitse wetten op die leden, tenzij in dit opzicht anders wordt bepaald in dit Verdrag of in andere toepasselijke verdragen of overeenkomsten.
 
 2. De leden van de krijgsmachten onthouden zich van alle activiteiten welke onverenigbaar zijn met de geest van dit Verdrag, en in het bijzonder van alle politieke activiteit.
 
-#### Artikel 3. Algemene verplichtingen
+##### Artikel 3. Algemene verplichtingen
 
 1. Bij het gebruik maken van de hun krachtens de bepalingen van dit Verdrag toegekende rechten en immuniteiten, nemen de krijgsmachten de Duitse belangen, openbare zowel als particuliere, naar behoren in acht, in het bijzonder door rekening te houden met het vermogen van de Duitse economie en de noodzakelijke binnenlandse en export-behoeften van de Bondsrepubliek en West-Berlijn.
 
@@ -74,13 +96,13 @@ In dit Verdrag en de daarbij behorende Bijlagen worden aan de volgende uitdrukki
 
 4. De Duitse autoriteiten onderwerpen de krijgsmachten en hun leden, of de eigendommen van de krijgsmachten en hun leden niet aan een nadelige of minder gunstige behandeling dan die welke, in overeenstemming met het internationaal recht en de internationale practijk, met betrekking tot vreemdelingen die hun gebruikelijke verblijfplaats op het grondgebied van de Bondsrepubliek hebben, bij de wet is vastgesteld, noch zullen zij binnen het kader van hun bevoegdheden toestaan, dat de krijgsmachten en hun leden aan een dergelijke behandeling worden onderworpen.
 
-#### Artikel 4. Wederzijdse bijstand en veiligheid
+##### Artikel 4. Wederzijdse bijstand en veiligheid
 
 1. De autoriteiten van de krijgsmachten en de Duitse autoriteiten werken volledig samen en verlenen elkaar volledige bijstand om de veiligheid van iedere betrokken Mogendheid en van de Bondsrepubliek alsook van de op het grondgebied van de Bondsrepubliek gelegerde krijgsmachten en hun leden, en van de eigendommen van de krijgsmachten en hun leden te bevorderen en te waarborgen.
 
 2. Deze samenwerking en bijstand zal zich uitstrekken tot het verzamelen, uitwisselen en beveiligen van alle ter zake dienende gegevens, op een wijze welke zal worden geregeld tussen de bevoegde autoriteiten.
 
-#### Artikel 5. Liaison
+##### Artikel 5. Liaison
 
 De autoriteiten van de krijgsmachten en de Duitse autoriteiten nemen maatregelen welke er toe strekken een nauwe en wederzijdse liaison te verzekeren.
 
@@ -88,7 +110,7 @@ De autoriteiten van de krijgsmachten en de Duitse autoriteiten nemen maatregelen
 
 ### AFDELING I. — Strafrechtelijke procedures
 
-#### Artikel 6. Strafbare feiten: rechtspraak en toepasselijke wet
+##### Artikel 6. Strafbare feiten: rechtspraak en toepasselijke wet
 
 1. Tenzij in dit Verdrag anders is bepaald, oefenen de autoriteiten van de krijgsmachten bij uitsluiting rechtsmacht op strafrechtelijk gebied uit over de leden van de krijgsmachten. Op het grondgebied van de Bondsrepubliek Duitsland wordt geen doodvonnis ten uitvoer gelegd, zolang de Duitse wet een dergelijke straf niet kent.
 
@@ -118,7 +140,7 @@ In dit lid wordt onder de uitdrukking „een feit, strafbaar volgens de Duitse w
 
 7. In de gevallen, bedoeld in de leden 3 en 4 van dit artikel, is de Duitse wet van toepassing.
 
-#### Artikel 7. Arrestatie, fouillering, huiszoeking en inbeslagneming
+##### Artikel 7. Arrestatie, fouillering, huiszoeking en inbeslagneming
 
 1. Leden van de krijgsmachten, die zich behoorlijk legitimeren door middel van een hun krachtens artikel 24 van dit Verdrag uitgereikt identiteitspapier, kunnen niet door de Duitse autoriteiten in arrest worden gesteld.
 
@@ -178,7 +200,7 @@ In dit lid wordt onder de uitdrukking „een feit, strafbaar volgens de Duitse w
 
 8. De grondwettelijke immuniteiten van de Bondspresident en van de leden der wetgevende lichamen van de Duitse Bond en van de „Länder” worden door de bepalingen van dit artikel niet aangetast.
 
-#### Artikel 8. Werkwijze en samenwerking in strafprocedures
+##### Artikel 8. Werkwijze en samenwerking in strafprocedures
 
 1. De autoriteiten van de krijgsmachten nemen tegen leden van de krijgsmachten, die strafbare feiten hebben gepleegd tegen Duitse belangen die maatregelen, welke zij zouden hebben genomen indien zodanige feiten waren gepleegd tegen de betrokken Mogendheid, de krijgsmachten of hun leden, of hun eigendommen.
 
@@ -194,7 +216,7 @@ In dit lid wordt onder de uitdrukking „een feit, strafbaar volgens de Duitse w
 
 ### AFDELING II. — Niet-strafrechtelijke procedures
 
-#### Artikel 9. Rechtsmacht en rechtspleging in niet-strafrechtelijke procedures
+##### Artikel 9. Rechtsmacht en rechtspleging in niet-strafrechtelijke procedures
 
 1. Behoudens de bepalingen van dit Verdrag en van iedere andere toepasselijke overeenkomst, oefenen de Duitse rechter en autoriteiten rechtsmacht uit over de leden van de krijgsmachten in niet-strafrechtelijke procedures.
 
@@ -204,7 +226,7 @@ In dit lid wordt onder de uitdrukking „een feit, strafbaar volgens de Duitse w
 
 4. Wat betreft kosteloze rechtskundige bijstand („Armenrecht”) genieten de leden van de krijgsmachten dezelfde rechten als de Duitsers. Zij zijn niet verplicht zekerheid te stellen voor kosten, van welke aard ook, in gevallen waarin Duitsers niet aan een dergelijke verplichting zijn onderworpen. De voor het vaststellen van het recht op kosteloze rechtskundige bijstand vereiste schriftelijke verklaringen worden afgegeven door de bevoegde consulaire autoriteiten nadat deze de nodige onderzoekingen hebben verricht.
 
-#### Artikel 10. Tenuitvoerlegging van vonnissen, gerechtelijke beschikkingen en bevelen
+##### Artikel 10. Tenuitvoerlegging van vonnissen, gerechtelijke beschikkingen en bevelen
 
 1. De autoriteiten van de krijgsmachten nemen, voor zover de dienstvoorschriften zulks toelaten, alle passende maatregelen om behulpzaam te zijn bij de tenuitvoerlegging van vonnissen, gerechtelijke beschikkingen en bevelen („vollstreckbare Titel”) van Duitse rechters en autoriteiten in niet-strafrechtelijke procedures.
 
@@ -218,7 +240,7 @@ In dit lid wordt onder de uitdrukking „een feit, strafbaar volgens de Duitse w
 
 ### AFDELING III. — Bepalingen welke zowel voor strafrechtelijke als voor niet-strafrechtelijke procedures gelden
 
-#### Artikel 11. Het verschijnen voor de rechter. Getuigen. Betekening der dagvaarding
+##### Artikel 11. Het verschijnen voor de rechter. Getuigen. Betekening der dagvaarding
 
 1. Tenzij de militaire noodzaak zich daartegen verzet, dragen de autoriteiten van de krijgsmachten ervoor zorg, dat de leden van de krijgsmachten wier tegenwoordigheid door een Duitse rechter of autoriteit nodig wordt geoordeeld, aanwezig zijn indien een dergelijke aanwezigheid volgens de Duitse wet verplicht is. Indien de militaire noodzaak zich tegen een dergelijke aanwezigheid verzet, geven de autoriteiten van de krijgsmachten een schriftelijke verklaring af, waarin de reden en de duur van de verhindering worden aangegeven.
 
@@ -232,11 +254,11 @@ In dit lid wordt onder de uitdrukking „een feit, strafbaar volgens de Duitse w
 
 6. De betekening van de dagvaarding aan leden van de krijgsmachten door de Duitse rechtbanken en autoriteiten geschiedt niet door middel van openbare kennisgevingen.
 
-#### Artikel 12. Belemmering van de rechtspraak
+##### Artikel 12. Belemmering van de rechtspraak
 
 Meineed, pogingen de rechtspraak te belemmeren en alle andere strafbare feiten en beledigingen begaan in tegenwoordigheid van of tegen een Duitse rechtbank of autoriteit of een militair rechtscollege of autoriteit van de krijgsmachten, en het niet voldoen aan de in overeenstemming met artikel 11 van dit Verdrag behoorlijk betekende dagvaarding, worden door de rechtbank, het rechtscollege of autoriteit welke strafrechtelijke of krijgstuchtelijke bevoegdheid over de betrokken persoon bezit, berecht in overeenstemming met de eigen wetten van de rechtbank of de autoriteit alsof de daad was gepleegd voor of tegen de eigen rechtbanken, rechtscolleges of autoriteiten.
 
-#### Artikel 13. Advocaten
+##### Artikel 13. Advocaten
 
 1. Onderdanen van iedere betrokken Mogendheid en Duitse advocaten worden niet verhinderd als verdediger op te treden voor militaire rechtscolleges in overeenstemming met de regels en bepalingen, welke voor dergelijke colleges gelden.
 
@@ -244,11 +266,11 @@ Meineed, pogingen de rechtspraak te belemmeren en alle andere strafbare feiten e
 
 3. Onder voorbehoud van de bepalingen van de leden 1 en 2 van dit artikel mogen buitenlandse onderdanen slechts in overeenstemming met de bepalingen van de Duitse wet op het grondgebied van de Bondsrepubliek als rechtskundige adviseurs optreden en voor Duitse rechters verschijnen.
 
-#### Artikel 14. Gesloten deuren. Verwijzing
+##### Artikel 14. Gesloten deuren. Verwijzing
 
 De bepalingen van artikel 172 van de Duitse Wet op de Rechterlijke Organisatie betreffende verhoren met gesloten deuren bij strafrechtelijke en niet-strafrechtelijke procedures, en van artikel 15 van het Duitse Wetboek van Strafrecht betreffende de verwijzing van een strafrechtelijke procedure naar een rechter van een ander district, worden mutatis mutandis toegepast in rechtszaken voor Duitse rechtbanken of autoriteiten wanneer er gevaar bestaat voor de veiligheid van de krijgsmachten en hun leden.
 
-#### Artikel 15. Het openbaar maken van inlichtingen
+##### Artikel 15. Het openbaar maken van inlichtingen
 
 1. Behoudens de bepalingen van lid 3 van dit artikel
 
@@ -260,7 +282,7 @@ De bepalingen van artikel 172 van de Duitse Wet op de Rechterlijke Organisatie b
 
 3. De bepalingen van dit artikel worden niet op zodanige wijze toegepast, dat de grondwettelijke rechten van een partij bij een procedure om getuigenverklaringen af te leggen of uit eigen naam verklaringen af te leggen ten aanzien van feitelijke of juridische aangelegenheden worden beperkt.
 
-#### Artikel 16. Diensthandelingen
+##### Artikel 16. Diensthandelingen
 
 1. Indien in de loop van een strafrechtelijke of een niet-strafrechtelijke procedure voor een Duitse rechtbank of autoriteit een beslissing dient te worden genomen ten aanzien van de vraag of een handeling of nalaten welke het onderwerp is van de procedure heeft plaats gevonden in de uitoefening door de betrokken persoon van de dienst ten behoeve van de krijgsmachten, schorst de Duitse rechter of autoriteit de behandeling en doet onmiddellijk mededeling aan de autoriteiten van de krijgsmachten onder opgave van de betreffende feiten. De bevoegde autoriteit van de krijgsmachten onderzoekt de zaak en doet, binnen een en twintig dagen na ontvangst van de mededeling, de Duitse rechtbank of autoriteit een verklaring toekomen, waarin de omvang van de dienst van de betrokken persoon op bedoeld tijdstip en op de bedoelde plaats wordt omschreven. De verklaring wordt ondertekend door de hoogste vertegenwoordiger van de krijgsmachten, die persoonlijk kennis draagt van de zaak. De autoriteiten van de krijgsmachten nemen, teneinde te verzekeren dat de verklaring op zorgvuldige wijze wordt opgesteld zowel wat vorm als inhoud betreft daartoe passende maatregelen. Na ontvangst van de verklaring, doch niet later dan een en twintig dagen nadat de mededeling is ontvangen door de autoriteiten van de krijgsmachten, wordt de procedure voortgezet.
 
@@ -274,7 +296,7 @@ De bepalingen van artikel 172 van de Duitse Wet op de Rechterlijke Organisatie b
 
 ### AFDELING I. — Rechten en verplichtingen
 
-#### Artikel 17. Verkeer
+##### Artikel 17. Verkeer
 
 1. De krijgsmachten en hun leden hebben zonder beperking behalve voor zover zulks in dit Verdrag is overeengekomen het recht het grondgebied van de Bondsrepubliek Duitsland binnen te komen, zich daarbinnen te verplaatsen, er boven te vliegen, en eruit te vertrekken met voertuigen, vaartuigen en vliegtuigen welke haar eigendom zijn of door hen of ten behoeve van hen worden gebruikt. De Bondsrepubliek garandeert aan de krijgsmachten en hun leden het gebruik van alle Duitse openbare wegen en waterwegen alsmede het recht te vliegen in het luchtruim boven het gebied van de Bondsrepubliek en van de aan de krijgsmachten ter beschikking staande vliegvelden te vertrekken, er te landen en er gebruik van te maken. De krijgsmachten hebben het recht een zodanig gebruik van het luchtruim en van de vliegvelden op het grondgebied van de Bondsrepubliek te maken als nodig is in het belang van de veiligheid van de krijgsmachten of voor oefening van die krijgsmachten, mits voor het gebruik van burgervliegvelden voor oefeningsdoeleinden een verzoek tot de Duitse autoriteiten wordt gericht, welk verzoek moet zijn goedgekeurd door het hoogste hoofdkwartier van de Luchtmacht van de betrokken krijgsmachten.
 
@@ -296,7 +318,7 @@ De bepalingen van artikel 172 van de Duitse Wet op de Rechterlijke Organisatie b
 
 10. Onverminderd een veiligheidscontrôle, te effectueren door de autoriteiten van de krijgsmachten, geven de Duitse autoriteiten toestemming tot het nemen van luchtfoto's door particulieren of burgerlijke instanties en tot de vervaardiging en verspreiding van afdrukken en negatieven van zodanige foto's. De wijze waarop deze contrôle wordt geëffectueerd wordt vastgesteld door de Permanente Commissie.
 
-#### Artikel 18. Verbindingen
+##### Artikel 18. Verbindingen
 
 1. De krijgsmachten hebben het recht, militaire postkantoren in te stellen en te doen functioneren voor de behandeling van post- en telegraafzaken van de krijgsmachten en hun leden onderling, met militaire postkantoren in andere landen en met het moederland. Er kunnen uitwisselingskantoren worden ingesteld tussen de militaire postkantoren en de postkantoren van de Bondsrepubliek. De plaats van deze kantoren wordt vastgesteld in overeenstemming tussen de bevoegde autoriteiten van de Bondsrepubliek en van de krijgsmachten.
 
@@ -320,13 +342,13 @@ De autoriteiten van de krijgsmachten maken van de hun krachtens de tweede zin va
 
 7. De autoriteiten van de betrokken Mogendheid oefenen volledig toezicht uit over de met FK-12 en FK-41 aangeduide kabels welke binnen het grondgebied van de Bondsrepubliek Duitsland liggen, met inbegrip van de daaraan verbonden installaties.
 
-#### Artikel 19. Manoeuvres en oefeningen
+##### Artikel 19. Manoeuvres en oefeningen
 
 1. De krijgsmachten hebben het recht in het gehele gebied van de Bondsrepubliek manoeuvres en andere oefeningen te houden. Indien dergelijke manoeuvres of andere oefeningen gehouden worden buiten hun installaties, doen de krijgsmachten de bevoegde Duitse autoriteiten hiervan tijdig voor het begin van die manoeuvres en oefeningen mededeling. Alle administratieve maatregelen welke noodzakelijk zijn voor een bevredigende uitvoering van dergelijke manoeuvres of oefeningen worden, op verzoek van de krijgsmachten, door de Duitse autoriteiten genomen na behoorlijk voorafgaand overleg, mits de krijgsmachten kunnen medewerken aan de tenuitvoerlegging van dergelijke maatregelen.
 
 2. De door de Duitse autoriteiten genomen administratieve maatregelen dienen er voldoende ruimte voor te laten, dat de krijgsmachten zelf in staat zijn al die bijzondere maatregelen te nemen welke nodig zijn voor het bereiken van de militaire doelstellingen van de manoeuvres of oefeningen.
 
-#### Artikel 20. Verdedigingswerken en verdedigingsmaatregelen
+##### Artikel 20. Verdedigingswerken en verdedigingsmaatregelen
 
 1. Installaties en werken welke direct gericht zijn op verdedigingsdoeleinden, alsmede veiligheidsinrichtingen, worden door de Bondsrepubliek in die hoeveelheden, gebieden en soorten opgericht of aangepast als nodig is voor de gemeenschappelijke verdediging. Indien speciale behoefte bestaat aan geheimhouding of veiligheid, kunnen de krijgsmachten dergelijke installaties of werken zelf oprichten of aanpassen onder voorwaarde, dat hieraan overleg met de Bondsregering voorafgaat.
 
@@ -334,7 +356,7 @@ De autoriteiten van de krijgsmachten maken van de hun krachtens de tweede zin va
 
 3. De krachtens dit artikel genomen maatregelen zijn onderworpen aan de rechtsmacht van het in artikel 9 van het Verdrag inzake de betrekkingen tussen de Drie Mogendheden en de Bondsrepubliek Duitsland bedoelde Scheidsrechterlijk Tribunaal indien openbare of particuliere eigendommen daardoor ernstig zijn of zullen worden beschadigd. Artikel 12 van het Statuut van het Scheidsrechterlijk Tribunaal is op dergelijke maatregelen van toepassing indien daardoor aan goederen van grote waarde onherstelbare schade kan worden toegebracht.
 
-#### Artikel 21. Rechten van de krijgsmachten met betrekking tot installaties
+##### Artikel 21. Rechten van de krijgsmachten met betrekking tot installaties
 
 1. Binnen en boven hun installaties kunnen de autoriteiten van de krijgsmachten alle maatregelen nemen welke noodzakelijk zijn voor de uitvoering van hun opdracht onder voorwaarde dat zij de Duitse voorschriften op het gebied van de openbare gezondheid en veiligheid in acht nemen tenzij hun eigen voorschriften op die gebieden gelijke of hogere normen voorschrijven. Voor zover hun eigen voorschriften op het gebied van de openbare gezondheid en veiligheid alsmede op andere gebieden niet zodanige normen voorschrijven, kunnen de autoriteiten van de krijgsmachten, behalve indien anders is bepaald in dit Verdrag of in enige andere toepasselijke overeenkomst, hun eigen voorschriften toepassen, mits zij daardoor de openbare gezondheid, veiligheid en orde buiten de installaties niet in gevaar brengen. Zij stellen de Duitse autoriteiten tijdig op de hoogte van de mate waarin zij van de Duitse voorschriften op het gebied van de openbare gezondheid en veiligheid afwijken.
 
@@ -344,17 +366,17 @@ De autoriteiten van de krijgsmachten maken van de hun krachtens de tweede zin va
 
 4. Op verzoek van de krijgsmachten houden de Duitse autoriteiten toezicht op, of beperken bouwwerkzaamheden en het verkeer van personen, dieren, alle soorten voertuigen, vaartuigen, luchtvaartuigen en ballons in de nabijheid van installaties voor zover dit, in het belang van de gemeenschappelijke verdediging, noodzakelijk is voor een doeltreffende werking van die installaties en hun veiligheid.
 
-#### Artikel 22. Installaties, archieven, documenten, eigendommen en postzendingen
+##### Artikel 22. Installaties, archieven, documenten, eigendommen en postzendingen
 
 Installaties, archieven, documenten en, onder voorbehoud van de bepalingen van de leden 2 en 3 van artikel 7 van dit Verdrag, eigendommen van de krijgsmachten, alsmede postzendingen van de krijgsmachten welke als zodanig herkenbaar zijn, en postzendingen van de leden van de krijgsmachten welke door middel van de postdienst van de krijgsmachten worden verzonden, zijn niet onderworpen aan het recht van toegang, onderzoek, inbeslagname en censuur door de Duitse autoriteiten tenzij in een bepaald geval of groep van gevallen de autoriteiten van de krijgsmachten van deze immuniteit afstand hebben gedaan.
 
-#### Artikel 23. Politie der krijgsmachten
+##### Artikel 23. Politie der krijgsmachten
 
 1. De bevoegde organen van de krijgsmachten hebben het recht op openbare wegen, in openbare gelegenheden en in openbare verkeersmiddelen binnen het grondgebied van de Bondsrepubliek te patrouilleren, en ten aanzien van de leden van de krijgsmachten op te treden teneinde orde en tucht te handhaven.
 
 2. Hun bevoegdheden ten aanzien van personen welke onderworpen zijn aan de Duitse rechtsmacht worden bepaald in overeenstemming met de bepalingen van artikel 7 van dit Verdrag.
 
-#### Artikel 24. Vaststelling der identiteit van leden der krijgsmachten
+##### Artikel 24. Vaststelling der identiteit van leden der krijgsmachten
 
 1. De leden van de krijgsmachten worden door de daartoe bevoegde autoriteiten van de betrokken Mogendheid voorzien van identiteitspapieren welke de naam, de geboortedatum en de rang van de houder aangeven en een volgnummer dragen en, tenzij de houder een uniform draagt, een foto.
 
@@ -368,7 +390,7 @@ Installaties, archieven, documenten en, onder voorbehoud van de bepalingen van d
 
 6. Waar noodzakelijk, vormt een verklaring van de bevoegde autoriteiten van de betrokken Mogendheid dat een persoon lid is van de krijgsmachten in de zin van de definitie van artikel 1 van dit Verdrag, hiervan afdoend bewijs.
 
-#### Artikel 25. Grenscontrôle en toezicht op vreemdelingen
+##### Artikel 25. Grenscontrôle en toezicht op vreemdelingen
 
 1. Leden der krijgsmachten, met uitzondering van gezinsleden, die zich overeenkomstig artikel 24 van dit Verdrag behoorlijk legitimeren, hebben onbeperkt recht op toegang tot, en vertrek uit, het grondgebied van de Bondsrepubliek. Gezinsleden hebben recht op een zodanige toegang en een zodanig vertrek indien zij een geldig paspoort tonen waarop zij als zodanig zijn aangegeven.
 
@@ -378,11 +400,11 @@ Installaties, archieven, documenten en, onder voorbehoud van de bepalingen van d
 
 4. Leden van de krijgsmachten verwerven niet het recht op duurzaam verblijf of op woonplaats op het grondgebied der Bondsrepubliek. Indien een persoon ophoudt lid te zijn van de krijgsmachten doch op het grondgebied der Bondsrepubliek blijft vertoeven, delen de bevoegde autoriteiten van de krijgsmachten dit zo spoedig mogelijk aan de Duitse autoriteiten mede. De algemene politieverordeningen betreffende vreemdelingen zijn van toepassing op zulke personen.
 
-#### Artikel 26. Binnenkomst en vertrek
+##### Artikel 26. Binnenkomst en vertrek
 
 De Duitse autoriteiten werken, binnen het kader van de „Basic Law” en de internationale overeenkomsten inzake het reizen, met de autoriteiten van de Drie Mogendheden samen, om de binnenkomst van, of het vertrek uit, het grondgebied van de Bondsrepubliek van personen wier binnenkomst of vertrek door de autoriteiten van één of meer der Drie Mogendheden nadelig voor de veiligheid van de krijgsmachten wordt geacht te verhinderen. Ten aanzien van de Duitse wetten en regelingen betreffende binnenkomst in, en vertrek uit, het grondgebied van de Bondsrepubliek, wordt de veiligheid van de Bondsrepubliek geacht mede te omvatten de veiligheid der krijgsmachten.
 
-#### Artikel 27. Uitlevering
+##### Artikel 27. Uitlevering
 
 1. De betrokken Mogendheid beslist over verzoeken om uitlevering van leden der krijgsmachten.
 
@@ -394,31 +416,31 @@ De Duitse autoriteiten werken, binnen het kader van de „Basic Law” en de int
 
 5. Totdat het in lid 3 van dit artikel bedoelde tijdvak van een en twintig dagen is verstreken en totdat de arbiter ten aanzien van het geschil een uitspraak heeft gedaan, voeren de Duitse autoriteiten de uitlevering niet uit zonder toestemming van de autoriteiten der bezwaarmakende Mogendheid of Mogendheden.
 
-#### Artikel 28. Recht van aanwezigheid op het grondgebied der Bondsrepubliek
+##### Artikel 28. Recht van aanwezigheid op het grondgebied der Bondsrepubliek
 
 1. De betrokken Mogendheid heeft bij uitsluiting het recht leden der krijgsmachten van het grondgebied der Bondsrepubliek te verwijderen.
 
 2. Indien de autoriteiten der Drie Mogendheden van mening zijn, dat de aanwezigheid van een persoon op het grondgebied der Bondsrepubliek hun veiligheid in gevaar brengt, kunnen zij de Duitse autoriteiten aanbevelen met betrekking tot zijn aanwezigheid die maatregelen te nemen, welke door de „Basic Law” zijn toegestaan.
 
-#### Artikel 29. Het dragen van wapenen
+##### Artikel 29. Het dragen van wapenen
 
 1. De autoriteiten van de krijgsmachten hebben het recht, de voorwaarden vast te stellen, waarop personen die in dienst zijn van de krijgsmachten wapens mogen dragen en gebruiken binnen een installatie of voor zover hun werkzaamheden het dragen van wapens noodzakelijk maken. De bepalingen betreffende het gebruik van wapens worden aangepast aan de Duitse wetgeving inzake zelfverdediging („Notwehr”).
 
 2. De in lid 1 van dit artikel bedoelde personen moeten in het bezit zijn van een door de autoriteiten van de krijgsmachten afgegeven vergunning tot het dragen van vuurwapenen. Vergunningen tot het dragen van vuurwapenen mogen slechts worden afgegeven aan personen ten aanzien van wier betrouwbaarheid geen ernstige twijfel bestaat. Een desbetreffend identiteitsbewijs, waarop een aantekening is gesteld, wordt eveneens als een vergunning tot het dragen van vuurwapenen beschouwd.
 
-#### Artikel 30. Gezondheid en hygiëne
+##### Artikel 30. Gezondheid en hygiëne
 
 1. De autoriteiten van de krijgsmachten en de Duitse autoriteiten verlenen elkaar de grootst mogelijke medewerking op het gebied van de gezondheid en de hygiëne, vooral waar het betreft het toezicht op besmettelijke ziekten; deze samenwerking strekt zich ook uit tot de uitwisseling van gegevens en statistieken.
 
 2. In de nabijheid van installaties der krijgsmachten nemen de Duitse autoriteiten, op verzoek van de autoriteiten der krijgsmachten, die maatregelen ten aanzien van de gezondheid en de hygiëne welke noodzakelijk zijn voor de bescherming van de gezondheid der krijgsmachten. Wanneer de Duitse autoriteiten niet in staat zijn voldoende maatregelen te treffen om te voldoen aan de militaire behoeften ten aanzien van afvoer van afval, bestrijding van insecten en ander ongedierte, dan wel de zuivering van water in gebieden welke buiten de steden zijn gelegen, kunnen de krijgsmachten zelf die maatregelen nemen. In steden waar krijgsmachten gelegerd zijn, stellen de autoriteiten der krijgsmachten en de stedelijke autoriteiten in overleg de maatstaven vast welke moeten worden aangelegd met betrekking tot de zuivering van water, om aan de krijgsmachten een watervoorziening te garanderen welke vrij is van verontreiniging.
 
-#### Artikel 31. Overlijden en begrafenissen
+##### Artikel 31. Overlijden en begrafenissen
 
 1. Behoudens de bepalingen van enigerlei bijzondere overeenkomst, hebben de krijgsmachten het recht begraafplaatsen aan te leggen en te onderhouden en maatregelen te treffen voor het begraven, opgraven en vervoer van de stoffelijke overschotten van leden van de krijgsmachten overeenkomstig door de krijgsmachten zelf vast te stellen passende hygiënische voorschriften.
 
 2. De autoriteiten der betrokken Mogendheid mogen het stoffelijk overschot van een lid van de krijgsmachten dat op het grondgebied der Bondsrepubliek overleden is in beslag nemen en er over beschikken en mogen over zijn persoonlijke eigendommen beschikken nadat de door de overledene op het grondgebied der Bondsrepubliek gemaakte schulden aan personen die geen leden zijn van de krijgsmachten zijn voldaan. Deze bepaling is niet van toepassing indien de overledene zijn hoofdverblijf op het grondgebied der Bondsrepubliek had.
 
-#### Artikel 32. Deviezen
+##### Artikel 32. Deviezen
 
 1. De autoriteiten van de betrokken Mogendheid hebben het recht, niet-Duitse valuta of in de munteenheid van een betrokken Mogendheid gestelde geldswaardige papieren of militaire betalingscoupons in te voeren, uit te voeren, in bezit te hebben en deze, met inachtneming van de bepalingen van lid 2 van dit artikel, aan de leden der krijgsmachten uit te reiken.
 
@@ -428,7 +450,7 @@ De Duitse autoriteiten werken, binnen het kader van de „Basic Law” en de int
 
 4. De leden der krijgsmachten zijn niet onderworpen aan de Duitse deviezenwetgeving, mits de autoriteiten der krijgsmachten in samenwerking met de Duitse autoriteiten in voorkomend geval op grond van de op zeker ogenblik van kracht zijnde Duitse deviezenwetgeving passende maatregelen nemen teneinde de Duitse deviezenbelangen te waarborgen.
 
-#### Artikel 33. Belastingen
+##### Artikel 33. Belastingen
 
 - (a). Goederen welke onderworpen zijn aan accijnzen, zijn hiervan vrijgesteld indien zij door de krijgsmachten rechtstreeks van een Duitse fabrikant worden betrokken. Deze bepaling is niet van toepassing op accijnzen op tabak, koffie, thee, suiker, alcohol, mousserende wijnen en benzine, en evenmin op de op steenkool geheven belasting ter subsidiëring van huizenbouw ten behoeve van de mijnwerkers. De vrijstelling geldt alleen indien de goederen worden betrokken door de officiële inkoopbureaus van de krijgsmachten voor gebruik of verbruik door de krijgsmachten of hun leden.
 
@@ -448,7 +470,7 @@ De Duitse autoriteiten werken, binnen het kader van de „Basic Law” en de int
 
 - (b). Vervallen.
 
-#### Artikel 34. Douaneregelingen voor de krijgsmachten
+##### Artikel 34. Douaneregelingen voor de krijgsmachten
 
 1. Behoudens de bepalingen van dit Verdrag en van enige andere overeenkomst tussen de Bondsrepubliek en de Drie Mogendheden of één van hen, zijn de krijgsmachten in beginsel vrijgesteld van de bepalingen van de Duitse douanewetgeving en het douanetoezicht en de Duitse regelingen welke gelden voor het vervoer van goederen naar of van het gebied der Bondsrepubliek.
 
@@ -468,7 +490,7 @@ De Duitse autoriteiten werken, binnen het kader van de „Basic Law” en de int
 
 9. Met uitzondering van de in lid 11 van artikel 39 van dit Verdrag bedoelde goederen, kunnen de autoriteiten der krijgsmachten beschikken over de roerende goederen van de krijgsmachten op het gebied der Bondsrepubliek. Voor export aan een niet op het grondgebied der Bondsrepubliek verblijvende koper verkochte goederen zijn niet onderworpen aan Duitse uitvoerbeperkingen of uitvoerrechten. De voorwaarden waaronder de in dit lid bedoelde goederen worden verkocht, worden in onderling overleg tussen de bevoegde autoriteiten der krijgsmachten en de bevoegde Duitse autoriteiten vastgesteld.
 
-#### Artikel 35. Douaneregelingen voor de leden der krijgsmachten
+##### Artikel 35. Douaneregelingen voor de leden der krijgsmachten
 
 1. Behoudens de bepalingen van dit Verdrag en van elke andere van toepassing zijnde overeenkomst tussen de Bondsrepubliek en de Drie Mogendheden of één van hen, zijn leden van de krijgsmachten in beginsel aan de Duitse douanewetgeving onderworpen.
 
@@ -502,7 +524,7 @@ De Duitse autoriteiten werken, binnen het kader van de „Basic Law” en de int
 
 11. De invoer door leden der krijgsmachten van goederen welke voor liefdadige doeleinden op het grondgebied der Bondsrepubliek zullen worden gebruikt wordt geregeld in onderling overleg tussen de autoriteiten der krijgsmachten en de bevoegde Duitse autoriteiten.
 
-#### Artikel 36. Organisaties en ondernemingen in dienst van de krijgsmachten
+##### Artikel 36. Organisaties en ondernemingen in dienst van de krijgsmachten
 
 1. Behoudens de bepalingen van dit artikel
 
@@ -542,7 +564,7 @@ De Duitse autoriteiten werken, binnen het kader van de „Basic Law” en de int
 
 ### AFDELING II. — Verzorging
 
-#### Artikel 37. Omvang der verplichtingen
+##### Artikel 37. Omvang der verplichtingen
 
 1. Voor zover zulks noodzakelijk is om de verdedigingstaak der krijgsmachten te vervullen, neemt de Bondsregering op zich, er voor zorg te dragen, dat de behoeften der krijgsmachten en hun leden binnen het grondgebied van de Bondsrepubliek, behoudens de bepalingen van dit Verdrag of enig ander daarmede samenhangend verdrag, worden gedekt op de volgende gebieden:
 
@@ -562,7 +584,7 @@ De Duitse autoriteiten werken, binnen het kader van de „Basic Law” en de int
 
 4. Totdat de in lid 3 van dit artikel bedoelde wetten der Bondsregering van kracht worden, worden dergelijke verplichtingen vervuld door middel van de toepassing op de daarvoor passende wijze, binnen het kader van de „Basic Law”, van de bepalingen van de volgende wetten voor zover deze betrekking hebben op de bevoegdheid goederen, materialen en diensten te vorderen, onroerende goederen te verkrijgen en verboden gebieden in te stellen: de Wet inzake goederen en diensten voor projecten ten behoeve van het „Reich” („Reichsleistungsgesetz”) van 1 september 1939; de Wet inzake de verschaffing van land voor de „Wehrmacht” van 29 maart 1935; en de Wet inzake de beperking van grondbezit ten behoeve van de verdediging van het „Reich” („Schutzbereichgesetz”) van 24 januari 1935. De toepassing van de in de eerste zin van dit lid bedoelde wetten van het „Reich” strekt zich niet uit tot de vaststelling van de omvang van vorderingen tot vergoeding en schadeloosstelling, welke krachtens lid 3 van artikel 12 van het Financieel Verdrag worden ingediend.
 
-#### Artikel 38. Onroerende goederen
+##### Artikel 38. Onroerende goederen
 
 1. De autoriteiten der krijgsmachten geven elk aan de bevoegde autoriteit van de Bondsrepubliek hun behoeften aan onroerende goederen te kennen in de vorm van periodieke programma's en, waar noodzakelijk, van aanvullende programma's. Wanneer van twee of meer Mogendheden de krijgsmachten, welke in hetzelfde gebied zijn of zullen worden gelegerd, met elkaar strijdige belangen hebben wat betreft de onroerende goederen, zullen er gezamenlijke besprekingen tussen hen worden gehouden, met het doel, overeenstemming te bereiken ten aanzien van gemeenschappelijke programma's inzake onroerende goederen. Afzonderlijke verzoeken welke buiten de programma's vallen, worden tot een minimum beperkt.
 
@@ -580,7 +602,7 @@ De Duitse autoriteiten werken, binnen het kader van de „Basic Law” en de int
 
 8. Indien bij de krijgsmachten in gebruik zijnde onroerende goederen zoals schietterreinen, oefenterreinen en vliegvelden, tijdelijk niet door de krijgsmachten worden gebruikt, mogen deze tijdelijk, op haar verzoek, aan de Bondsrepubliek beschikbaar worden gesteld, op voorwaarde dat het weer in gebruiknemen door de krijgsmachten daardoor geen schade ondervindt.
 
-#### Artikel 39. Goederen, materialen en diensten
+##### Artikel 39. Goederen, materialen en diensten
 
 1. De aanschaffing van goederen en materialen op het gebied der Bondsrepubliek voor de krijgsmachten en hun leden tegen Duitse Marken of andere valuta, geschiedt in het kader van periodieke programma's, met dien verstande, dat de op deze wijze aangeschafte hoeveelheden de in deze programma's overeengekomen hoeveelheden met niet meer dan 10 % te boven mogen gaan, tenzij de Duitse autoriteiten hierin toestemmen. Deze periodieke programma's houden rekening met bouwmaterialen, welke zijn vereist voor de tenuitvoerlegging van artikel 40 van dit Verdrag. Onder de programma's vallen niet kleinere aanschaffingen, welke zijn gedaan in overeenstemming met de toepasselijke voorschriften van de krijgsmachten.
 
@@ -604,7 +626,7 @@ De Duitse autoriteiten werken, binnen het kader van de „Basic Law” en de int
 
 11. Goederen welke zijn aangeschaft (in Reichsmarken of Duitse Marken) ten laste van de begroting inzake de bezettingskosten, of ten laste van de begroting van de Bondsrepubliek Duitsland, of ten laste van dat deel van de bijdrage aan de verdediging van de Bondsrepubliek dat dient om de krijgsmachten te verzorgen, worden niet uit het grondgebied der Bondsrepubliek weggevoerd, tenzij deze voor militaire doeleinden voor de verzorging der krijgsmachten vereist zijn, of tenzij het zulke militaire uitrustingsstukken betreft welke militaire eenheden gewoonlijk bij verplaatsing met zich mede nemen. In die gevallen waarin de autoriteiten der krijgsmachten besluiten, dat zij deze goederen niet langer nodig hebben, worden zij aan de Duitse autoriteiten overgedragen, tenzij in dit opzicht een andere regeling tussen hen wordt getroffen.
 
-#### Artikel 40. Diensten op het gebied van de bouwnijverheid
+##### Artikel 40. Diensten op het gebied van de bouwnijverheid
 
 1. Wanneer is overeengekomen dat een gedeelte van de krachtens artikel 38 van dit Verdrag overgelegde programma's inzake onroerende goederen zal worden uitgevoerd door middel van nieuwbouw, stellen de autoriteiten der krijgsmachten de bevoegde Duitse autoriteiten, met tussenpozen welke corresponderen met de programma's krachtens artikel 39, van hun bouwprogramma's in kennis en verschaffen, indien dit mogelijk is, bijzonderheden over de aard, omvang, ligging en de vereiste datum van oplevering van elk project, alsmede, voor zover dit noodzakelijk wordt, aanvullende bijzonderheden en doen zij mededeling van wijzigingen. De Duitse autoriteiten doen onverwijld hun opmerkingen aan de autoriteiten der krijgsmachten toekomen. Indien noodzakelijk heeft daarop gezamenlijk overleg plaats teneinde tot een vergelijk te komen dat de krijgsmachten in staat zal stellen hun verdedigingsopdracht te vervullen.
 
@@ -614,7 +636,7 @@ De Duitse autoriteiten werken, binnen het kader van de „Basic Law” en de int
 
 4. Dit artikel is niet van toepassing op kleinere bouwprojecten, op bouworders welke zijn geplaatst vóór de inwerkingtreding van dit Verdrag of op bouworders ten aanzien waarvan bijzondere overeenkomsten zijn getroffen. De omschrijving van kleinere bouwprojecten wordt door middel van bilaterale overeenkomsten vastgelegd.
 
-#### Artikel 41. Vervoersdiensten
+##### Artikel 41. Vervoersdiensten
 
 1. De krijgsmachten hebben het recht Duitse vervoermiddelen op de weg, de spoorwegen, waterwegen en in de lucht te gebruiken voor het vervoer van personen, dieren en materialen naar, door en uit het gebied van de Bondsrepubliek. Daarbij genieten de krijgsmachten een zodanige voorkeursbehandeling als noodzakelijk is voor de bevredigende vervulling van hun verdedigingsopdracht en als verenigbaar is met een redelijk evenwicht tussen de daaruit voortvloeiende behoeften en de noodzakelijke burgerlijke en verdedigingsbehoeften van de Bondsrepubliek. Zij hebben het recht met transportondernemingen contracten af te sluiten voor vervoersdiensten.
 
@@ -642,7 +664,7 @@ De bepalingen van deze overeenkomsten zijn vóór de datum waarop zij aflopen, o
 
 9. De krijgsmachten kunnen overeenkomsten sluiten met de hoogste bevoegde autoriteiten in de Bondsrepubliek voor het officiële gebruik door de autoriteiten van de krijgsmachten die verantwoordelijk zijn voor de regeling van het militaire verkeer, van gespecialiseerde Duitse verreberichtgevingssystemen, mits een dergelijk gebruik de goede functionering van die systemen niet nadelig beïnvloedt.
 
-#### Artikel 42. Verbindingsdiensten
+##### Artikel 42. Verbindingsdiensten
 
 1. De openbare diensten van de post en het verreberichtgevingssysteem van de Bondsrepubliek staan ter beschikking van de krijgsmachten en hun leden. Daarbij genieten de krijgsmachten een zodanige voorkeursbehandeling als noodzakelijk is voor de bevredigende vervulling van hun verdedigingsopdracht en als verenigbaar is met een redelijk evenwicht tussen de daaruit voortvloeiende behoefte en de noodzakelijke burgerlijke en verdedigingsbehoeften van de Bondsrepubliek. De ten aanzien van de dienst geldende voorwaarden bij de inwerkingtreding van dit Verdrag blijven van kracht. Deze voorwaarden kunnen op verzoek van een van de ondertekenende staten worden herzien en gewijzigd indien zij onverenigbaar zijn met dit Verdrag. In het geval van een dergelijke herziening dienen de vast te leggen dienstvoorwaarden in overeenstemming te zijn met de behoeften van de krijgsmachten en de dienstvoorwaarden van hun leden bij de uitvoering van de verdedigingsopdracht van de krijgsmachten.
 
@@ -654,13 +676,13 @@ De bepalingen van deze overeenkomsten zijn vóór de datum waarop zij aflopen, o
 
 5. Verbindingsfaciliteiten binnen Duitsland welke aan de krijgsmachten toebehoren, kunnen ter beschikking van de Bondsrepubliek Duitsland worden gesteld, wanneer de krijgsmachten bepalen dat zodanige faciliteiten beschikbaar zijn. De dienstvoorwaarden bedoeld in lid 1 van dit artikel zijn mutatis mutandis van toepassing op zodanige faciliteiten.
 
-#### Artikel 43. Andere openbare diensten
+##### Artikel 43. Andere openbare diensten
 
 1. De krijgsmachten en hun leden hebben het recht Duitse openbare en administratieve diensten te gebruiken of te ontvangen, welke niet elders in dit Verdrag met name worden genoemd, voor zover deze noodzakelijk zijn voor de verdedigingsopdracht van de krijgsmachten of normaal ontvangen worden door de inwoners van de Bondsrepubliek.
 
 2. De autoriteiten van de krijgsmachten en de Duitse autoriteiten werken samen op meteorologisch en cartografisch gebied teneinde aan de verdedigingsbehoeften van de krijgsmachten te voldoen.
 
-#### Artikel 44. Arbeidskrachten
+##### Artikel 44. Arbeidskrachten
 
 1. De krijgsmachten brengen de bevoegde Duitse autoriteiten zo spoedig mogelijk op de hoogte van hun behoeften aan burgerpersoneel en verkrijgen arbeidskrachten als regel door bemiddeling van deze autoriteiten. De diensten van de bevoegde Duitse autoriteiten worden aan de leden van de krijgsmachten ter beschikking gesteld voor het aantrekken van geschikte burgerarbeidskrachten.
 
@@ -686,7 +708,7 @@ De bepalingen van deze overeenkomsten zijn vóór de datum waarop zij aflopen, o
 
 10. De in de leden 3 en 8 van dit artikel bedoelde Gemengde Commissies bestaan in gelijk aantal uit vertegenwoordigers van de bevoegde autoriteiten van de Drie Mogendheden en uit vertegenwoordigers van de Bondsrepubliek. Zij nemen beslissingen bij meerderheid van stemmen; zij stellen hun eigen procedureregelingen vast waarin bepalingen kunnen worden opgenomen ten aanzien van de instelling van sub-commissies. Indien een Commissie of sub-commissie niet tot een beslissing kan komen met meerderheid van stemmen, benoemen de betrokken Mogendheid of Mogendheden en de Bondsrepubliek een persoon die als lid van de Commissie of sub-commissie aan het bereiken van een beslissing zal medewerken.
 
-#### Artikel 45. Burgerlijke diensteenheden
+##### Artikel 45. Burgerlijke diensteenheden
 
 1. De krijgsmachten hebben het recht burgerlijke dienstorganisaties te onderhouden welke bestaan uit personen van niet-Duitse nationaliteit.
 
@@ -704,7 +726,7 @@ De bepalingen van deze overeenkomsten zijn vóór de datum waarop zij aflopen, o
 
 6. De autoriteiten der krijgsmachten verrichten de classificatie van de leden van de burgerlijke dienstorganisaties; zij stellen de bevoegde Duitse autoriteiten van die classificatie op de hoogte en houden in voldoende mate rekening met alle door laatstgenoemden gedane wijzigingsvoorstellen.
 
-#### Artikel 46. Jacht en visserij
+##### Artikel 46. Jacht en visserij
 
 1. De Bondsrepubliek neemt binnen het kader van haar bevoegdheid maatregelen teneinde aan de leden der krijgsmachten bijzondere jacht- en visserij voorrechten te verlenen en te doen verlenen op terreinen van de Bondsrepubliek. Zij verleent haar goede diensten bij de „Länder” en alle Duitse autoriteiten en publiekrechtelijke lichamen, opdat laatstgenoemden met betrekking tot andere openbare terreinen hetzelfde doen. Bij het verlenen van zulke bijzondere voorrechten worden de volgende algemene richtlijnen in acht genomen.
 
@@ -728,13 +750,13 @@ De bepalingen van deze overeenkomsten zijn vóór de datum waarop zij aflopen, o
 
 6. De rechten en verplichtingen van de krijgsmachten op dit gebied kunnen in bijzondere overeenkomsten tussen de krijgsmachten en de autoriteiten van de Bondsrepubliek of die van de „Länder” nader worden bepaald.
 
-#### Artikel 47. Berlijn
+##### Artikel 47. Berlijn
 
 1. Goederen, materialen en diensten welke op grond van de bepalingen van dit Verdrag ter beschikking worden gesteld, kunnen ook worden gebruikt en genoten door de in Berlijn gestationeerde gewapende strijdkrachten van elk der betrokken Mogendheden.
 
 2. Vervallen.
 
-#### Artikel 48. Voortzetting van de bestaande verzorging
+##### Artikel 48. Voortzetting van de bestaande verzorging
 
 1. Indien goederen, materialen, diensten of onroerende goederen zijn gevorderd door de autoriteiten van de betrokken Mogendheid of verworpen zijn ten laste van de bezettingskosten of ten laste van de „Auftragsausgabenhaushalt” vóór de inwerkingtreding van dit Verdrag, en daarna nog nodig blijven voor de krijgsmachten, worden zij beschouwd met wettelijk bindende kracht te zijn gevorderd voor een periode van een jaar te rekenen van die datum af krachtens de bepalingen van de in de leden 3 en 4 van artikel 37 van dit Verdrag bedoelde toepasselijke wetgeving.
 
@@ -742,15 +764,15 @@ De bepalingen van deze overeenkomsten zijn vóór de datum waarop zij aflopen, o
 
 ## DEEL VIER. — OVERGANGS- EN SLOTBEPALINGEN
 
-#### Artikel 49
+##### Artikel 49
 
 Vervallen
 
-#### Artikel 50
+##### Artikel 50
 
 Vervallen
 
-#### Artikel 51. Herziening
+##### Artikel 51. Herziening
 
 Onverminderd de bepalingen van artikel 10 van het Verdrag nopens de betrekkingen tussen de Drie Mogendheden en de Bondsrepubliek Duitsland, kan dit Verdrag op verzoek van een der ondertekenende staten na verloop van een periode van 2 jaar na zijn inwerkingtreding, te allen tijde worden gewijzigd.
 
@@ -760,59 +782,59 @@ Onverminderd de bepalingen van artikel 10 van het Verdrag nopens de betrekkingen
 
 ### Afdeling 1
 
-#### 1
+##### 1
 
 In dit hoofdstuk worden onder de uitdrukking „militaire geheimen” verstaan feiten, voorwerpen, conclusies en ontdekkingen, in het bijzonder schriftelijke stukken, tekeningen, modellen of formules met inbegrip van codes, of daarop betrekking hebbende inlichtingen, welke geheim worden gehouden in het belang van de veiligheid van een van de Drie Mogendheden of van de krijgsmachten, als omschreven in artikel 1 van het Verdrag inzake de rechten en verplichtingen van buitenlandse krijgsmachten en hun leden in de Bondsrepubliek Duitsland.
 
-#### 2
+##### 2
 
 In de zin van dit hoofdstuk wordt geacht verraad te hebben gepleegd ieder, die opzettelijk een militair geheim in handen laat komen van een onbevoegde of een zodanig geheim openbaar maakt en daardoor de veiligheid van een van de Drie Mogendheden of van de krijgsmachten in gevaar brengt.
 
 ### Afdeling 2
 
-#### 1
+##### 1
 
 Hij die een militair geheim verraadt, wordt gestraft met tuchthuisstraf („Zuchthaus”).
 
-#### 2
+##### 2
 
 Hij die zich in het bezit stelt van een militair geheim met het oogmerk het te verraden, wordt gestraft met tuchthuisstraf („Zuchthaus”) voor ten hoogste 10 jaar.
 
-#### 3
+##### 3
 
 Hij die zonder daartoe bevoegd te zijn zich in het bezit stelt of tracht zich in het bezit te stellen van een militair geheim, of die, wanneer hij op andere wijze, zonder daartoe bevoegd te zijn, een dergelijk geheim in zijn bezit gekregen heeft, dit niet onmiddellijk aan de bevoegde autoriteit van de krijgsmachten mededeelt dan wel, indien het een voorwerp betreft, dit niet op een daartoe strekkend verzoek overhandigt, wordt gestraft met gevangenisstraf.
 
-#### 4
+##### 4
 
 Paragraaf 3 van artikel 100 van het Wetboek van Strafrecht, als gewijzigd bij de Wet van 30 augustus 1951 („Bundesgesetzblatt Teil I Seite 739”), is niet van toepassing op militaire geheimen.
 
 ### Afdeling 3
 
-#### 1
+##### 1
 
 Hij die opzettelijk een militair geheim in handen laat komen van een onbevoegde of een dergelijk geheim openbaar maakt en daardoor, door nalatigheid, de veiligheid van een van de Drie Mogendheden of van de krijgsmachten in gevaar brengt, wordt gestraft met gevangenisstraf.
 
-#### 2
+##### 2
 
 Hij die, door nalatigheid, een militair geheim, waartoe hij zelf uit hoofde van zijn functie of positie in de dienst of uit hoofde van een hem door een officieel orgaan verstrekte opdracht toegang had, in handen laat komen van een onbevoegde, en daardoor de veiligheid van een van de Drie Mogendheden of van de krijgsmachten in gevaar brengt, wordt gestraft met gevangenisstraf van ten hoogste 2 jaar. Het delict wordt alleen vervolgd met machtiging van die betrokken Mogendheid of van die krijgsmachten wier veiligheid in gevaar is gebracht.
 
 ### Afdeling 4
 
-#### 1
+##### 1
 
 Hij die met het oogmerk nadeel toe te brengen aan de veiligheid van een van de Drie Mogendheden of van de krijgsmachten, zich in het bezit stelt van inlichtingen betreffende militaire aangelegenheden van de krijgsmachten, deze verzamelt, openbaar maakt of aan een ander mededeelt, dan wel met dat oogmerk een inlichtingendienst doet functioneren of anderen in dienst neemt om zich daarmede bezig te houden, of een dergelijke activiteit ondersteunt, wordt gestraft met gevangenisstraf. Ook de poging is strafbaar.
 
-#### 2
+##### 2
 
 In bijzonder ernstige gevallen bestaat de straf uit tuchthuisstraf („Zuchthaus”) voor ten hoogste 5 jaar.
 
 ### Afdeling 5
 
-#### 1
+##### 1
 
 Hij die met het oogmerk zich onbevoegd in het bezit te stellen van een militair geheim of inlichtingen inzake militaire aangelegenheden te verzamelen met het doel nadeel toe te brengen aan de veiligheid van een van de Drie Mogendheden of van de krijgsmachten (lid 2 en lid 3, van Afdeling 2; Afdeling 4) militaire installaties, oorlogsschepen of vliegtuigen van de krijgsmachten betreedt of zich in de omgeving daarvan ophoudt, wordt gestraft met gevangenisstraf.
 
-#### 2
+##### 2
 
 De uitdrukking „militaire installaties” omvat, doch is niet beperkt tot, gebieden welke door middel van een officiële kennisgeving uit veiligheidsoverwegingen tot verboden gebieden zijn verklaard, en industriële instellingen waar voorraden ten behoeve van de krijgsmachten worden vervaardigd, hersteld of opgeslagen.
 
@@ -820,35 +842,35 @@ De uitdrukking „militaire installaties” omvat, doch is niet beperkt tot, geb
 
 ### Afdeling 7
 
-#### 1
+##### 1
 
 Hij die met een regering, een partij, enige andere vereniging of instelling buiten het grondgebied van de Bondsrepubliek en Berlijn (West), of met een persoon die voor een zodanige regering, partij, vereniging of instelling werkt, betrekkingen aanknoopt of onderhoudt, welke betrekkingen ten doel hebben inlichtingen te verstrekken in de zin van de Afdelingen 1 en 4, wordt gestraft met gevangenisstraf.
 
-#### 2
+##### 2
 
 Hij die werkende voor een regering, een partij, enige andere vereniging of instelling buiten het grondgebied van de Bondsrepubliek Duitsland en Berlijn (West) met een ander betrekkingen aanknoopt van de soort, omschreven in lid 1 van deze Afdeling, of zodanige betrekkingen onderhoudt, wordt op dezelfde wijze gestraft.
 
 ### Afdeling 8
 
-#### 1
+##### 1
 
 Hij die met het oogmerk een oorlog, een gewapende onderneming of dwangmaatregelen tegen een van de Drie Mogendheden of de krijgsmachten teweeg te brengen of te bevorderen, betrekkingen aanknoopt of onderhoudt met een regering, een partij, enige andere vereniging of instelling buiten het grondgebied van de Bondsrepubliek Duitsland en Berlijn (West), of met een persoon, die voor een zodanige regering, partij, vereniging of instelling werkt, wordt gestraft met eenzame opsluiting („Zuchthaus”).
 
-#### 2
+##### 2
 
 Indien de dader handelt met het oogmerk andere maatregelen of plannen van een regering, partij, enige andere vereniging of instelling buiten het grondgebied van de Bondsrepubliek Duitsland en Berlijn (West), welke erop zijn gericht nadeel toe te brengen aan de veiligheid van een van de Drie Mogendheden of van de krijgsmachten, teweeg te brengen of te bevorderen, bestaat de straf uit gevangenisstraf. Ook de poging is strafbaar.
 
-#### 3
+##### 3
 
 Hij die met het oogmerk een van de in de leden 1 en 2 van deze Afdeling aangegeven maatregelen of plannen teweeg te brengen of te bevorderen, verklaringen welke onwaar zijn of welke een grove verdraaiing van de feiten inhouden, aflegt of in omloop brengt, wordt gestraft met gevangenisstraf. Ook de poging is strafbaar.
 
-#### 4
+##### 4
 
 In bijzonder ernstige gevallen kan de straf, in de gevallen bedoeld in lid 1 van deze Afdeling, bestaan uit levenslange tuchthuisstraf („Zuchthaus”); in bijzonder ernstige gevallen kan de straf in de gevallen bedoeld in de leden 2 en 3 van deze Afdeling, bestaan uit tuchthuisstraf („Zuchthaus”).
 
 ### Afdeling 9
 
-#### 1
+##### 1
 
 Voor daden welke krachtens dit Hoofdstuk strafbaar zijn, kan worden opgelegd:
 
@@ -860,7 +882,7 @@ Voor daden welke krachtens dit Hoofdstuk strafbaar zijn, kan worden opgelegd:
 
 - boven iedere vrijheidsstraf, opgelegd op grond van de Afdelingen 2, 4, 5, 7 en 8: de machtiging om de veroordeelde onder politietoezicht te stellen.
 
-#### 2
+##### 2
 
 Artikel 86 van het Wetboek van Strafrecht als gewijzigd bij de Wet van 30 augustus 1951 is van overeenkomstige toepassing.
 
@@ -868,19 +890,19 @@ Artikel 86 van het Wetboek van Strafrecht als gewijzigd bij de Wet van 30 august
 
 ### Afdeling 10
 
-#### 1
+##### 1
 
 Hij die opzettelijk militaire uitrustingsstukken van de krijgsmachten, of een installatie ten dienste van de verdediging in de zin van artikel 4 van het Verdrag inzake de betrekkingen tussen de Drie Mogendheden en de Bondsrepubliek Duitsland, beschadigt, vernielt, onbruikbaar maakt of aan haar rechtmatige bestemming onttrekt, en daardoor opzettelijk de veiligheid van de krijgsmachten of hun paraatheid in gevaar brengt, wordt gestraft met gevangenisstraf van tenminste 3 maanden. In ernstige gevallen kan tuchthuisstraf („Zuchthaus”) worden opgelegd.
 
-#### 2
+##### 2
 
 Hij die opzettelijk militaire uitrustingsstukken of een verdedigingsinstallatie of voor de verdediging bestemde grondstoffen in gebrekkige staat vervaardigt of aflevert en daardoor opzettelijk de veiligheid van de krijgsmachten of hun paraatheid in gevaar brengt, wordt op dezelfde wijze gestraft.
 
-#### 3
+##### 3
 
 Ook de poging is strafbaar.
 
-#### 4
+##### 4
 
 Hij die zich schuldig maakt aan grove nalatigheid en door die nalatigheid de veiligheid van de krijgsmachten of hun paraatheid in gevaar brengt, wordt gestraft met gevangenisstraf.
 
@@ -890,29 +912,29 @@ Hij die zich schuldig maakt aan grove nalatigheid en door die nalatigheid de vei
 
 ### Afdeling 12
 
-#### 1
+##### 1
 
 Hij die invloed uitoefent op de leden van de krijgsmachten met het oogmerk hun bereidheid tot vervulling van hun dienst bij de krijgsmachten te ondermijnen, wordt gestraft met gevangenisstraf.
 
-#### 2
+##### 2
 
 Ook de poging is strafbaar.
 
-#### 3
+##### 3
 
 In bijzonder ernstige gevallen kan tuchthuisstraf („Zuchthaus”) van ten hoogste 5 jaar worden opgelegd.
 
 ### Afdeling 13
 
-#### 1
+##### 1
 
 Hij die een lid van de krijgsmachten overhaalt tot desertie of de desertie van een lid van de krijgsmachten vergemakkelijkt, wordt gestraft met gevangenisstraf van ten minste 3 maanden.
 
-#### 2
+##### 2
 
 Ook de poging is strafbaar.
 
-#### 3
+##### 3
 
 In bijzonder ernstige gevallen kan tuchthuisstraf („Zuchthaus”) van ten hoogste 10 jaar worden opgelegd.
 
@@ -928,7 +950,7 @@ In bijzonder ernstige gevallen kan tuchthuisstraf („Zuchthaus”) van ten hoog
 
 ## Bepalingen inzake radiofrequenties
 
-#### 1
+##### 1
 
 In deze bepalingen
 
@@ -940,19 +962,19 @@ In deze bepalingen
 
 - (d). zijn „mixed bands” die delen van het radiospectrum, welke door de krijgsmachten worden gebruikt voor militaire en daarmede in verband staande doeleinden, met inbegrip van radiouitzendingen voor leden van de krijgsmachten, doch niet voor propagandadoeleinden en welke onder bepaalde voorwaarden eveneens kunnen worden gebruikt door civiele radiostations.
 
-#### 2
+##### 2
 
 De radiostations van de krijgsmachten maken alleen gebruik van de frequenties genoemd in de punten **(b)** tot en met **(d)** van lid 1 van deze bepalingen en in overeenstemming met de bepalingen van artikel 47 van het Internationale Verdrag betreffende de Verreberichtgeving, Atlantic City, 1947, of zodanige bepalingen als daarvoor in de plaats mochten worden gesteld.
 
-#### 3
+##### 3
 
 Er wordt een Frequentiecommissie ingesteld, welke is samengesteld uit vertegenwoordigers van de bevoegde autoriteiten van de Drie Mogendheden en uit vertegenwoordigers van de Bondsrepubliek. De Frequentiecommissie neemt haar besluiten met eenparigheid van stemmen.
 
-#### 4
+##### 4
 
 „Security frequencies”, „security bands” en „mixed bands” met inbegrip van de overeenkomstig lid 1 **(d)** van deze bepalingen in de „mixed bands” vast te leggen technische voorwaarden, welke nodig zijn voor de radiostations van de krijgsmachten en de wijzigingen van de frequenties welke aan de krijgsmachten bij het in werking treden van dit Verdrag zijn toegekend of toegewezen, worden vastgesteld door de Frequentiecommissie. De leden van de Frequentiecommissie coördineren alle frequentietoewijzingen voor zover zulks ter vermijding van storingen noodzakelijk is. De Frequentiecommissie heeft de beschikking over de luisterdiensten. Luisterrapporten, welke inlichtingen bevatten betreffende de in lid 1 **(b)** tot en met **(d)** bedoelde frequenties, worden alleen met toestemming van de Frequentiecommissie aan internationale lichamen doorgegeven. Inlichtingen betreffende civiele frequenties worden aan de Frequentiecommissie ter beschikking gesteld. Er zullen geen frequentietoewijzingen plaats vinden en er zullen geen radiobedrijven worden toegelaten, welke een storende invloed kunnen uitoefenen, hetzij op de frequentietoewijzingen, welke van kracht zijn op het ogenblik van inwerkingtreding van dit Verdrag, hetzij op de frequentietoewijzingen, welke door de Frequentiecommissie overeenkomstig de bepalingen van dit lid worden verricht.
 
-#### 5
+##### 5
 
 Indien tijdens internationale conferenties problemen ter sprake komen welke vallen onder de bevoegdheid van de Frequentiecommissie, houden de Duitse vertegenwoordigers in voldoende mate rekening met de eventueel door de Frequentiecommissie genomen beslissingen, en gebruiken al hun invloed om de frequentiegebieden en de frequenties welke onder de bevoegdheid van de Frequentiecommissie vallen, te beschermen.
 
@@ -960,7 +982,7 @@ De Verenigde Staten van Amerika, het Verenigd Koninkrijk van Groot-Britannië en
 
 Voor inwerkingtreding zie ook Trb. 1957/229.
 
-#### Artikel 1
+##### Artikel 1
 
 1. Tenzij uit het zinsverband anders blijkt, hebben de volgende uitdrukkingen dezelfde betekenis als die welke daaraan is gegeven in artikel 1 van het Verdrag inzake de rechten en verplichtingen van buitenlandse krijgsmachten en haar leden in de Bondsrepubliek Duitsland (hierna te noemen „het Verdrag inzake de krijgsmachten”):
 
@@ -988,15 +1010,15 @@ Voor inwerkingtreding zie ook Trb. 1957/229.
 
 - (c). **middelen voor het onderhoud van de krijgsmachten:** middelen van de Bondsrepubliek welke overeenkomstig lid 1 tot 3 van artikel 4 van dit Verdrag ter beschikking worden gesteld van de betrokken Mogendheden als bijdrage in de kosten van de op het grondgebied van de Bondsrepubliek gestationeerde krijgsmachten en hun leden.
 
-#### Artikel 2
+##### Artikel 2
 
 De autoriteiten van de betrokken Mogendheden en de Duitse autoriteiten werken volledig samen en verlenen elkaar volledige bijstand bij de verwezenlijking van de doelstellingen van dit Verdrag; zij wisselen alle inlichtingen uit waarover zij beschikken en welke noodzakelijk kunnen zijn voor de tenuitvoerlegging van dit Verdrag; tevens stellen zij elkaar de diensten van hun onderscheidene instanties ter beschikking teneinde mede te werken aan een bevredigende tenuitvoerlegging van dit Verdrag.
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 - (a). Van de inwerkingtreding van dit Verdrag af tot aan de inwerkingtreding van de regelingen voor de Duitse Verdedigingsbijdrage, stelt de Bondsregering een gemiddelde maandelijkse bijdrage van 600.000.000,- DM ter beschikking voor het onderhoud van de krijgsmachten.
 
@@ -1030,7 +1052,7 @@ Indien de regelingen voor de Duitse Verdedigingsbijdrage na 30 juni 1955 in werk
 
 7. De Drie Mogendheden verplichten zich, voortdurend pogingen in het werk te stellen om te verzekeren dat het saldo van de niet gebruikte middelen niet toeneemt en zo spoedig mogelijk aanzienlijk wordt verminderd. De autoriteiten van de Drie Mogendheden en de Bondsrepubliek werken te dien einde volledig samen en verlenen elkaar bijstand door het uitwisselen van terzake dienende inlichtingen en op alle andere in aanmerking komende wijzen. Onder het saldo van niet gebruikte middelen wordt in dit lid verstaan dat gedeelte van de door de Bondsrepubliek ter beschikking gestelde middelen voor bezettingskosten en begrotingsuitgaven dat niet is uitgegeven met dat deel van de overeenkomstig lid 1 van dit artikel ter beschikking gestelde middelen dat eveneens niet is uitgegeven.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Middelen welke zijn bestemd voor het onderhoud van de krijgsmachten worden uitsluitend voor dat doel gebruikt. De Drie Mogendheden verplichten zich, de ten laste van deze middelen komende kosten zo laag te houden als verenigbaar is met de militaire doeltreffendheid van de krijgsmachten van de betrokken Mogendheden, en de middelen doeltreffend en zuinig te gebruiken.
 
@@ -1044,7 +1066,7 @@ Indien de regelingen voor de Duitse Verdedigingsbijdrage na 30 juni 1955 in werk
 
 alsmede de uitgaven voor het verwerven van de voor de bouw benodigde terreinen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Overeenkomstig de bepalingen van artikel 4 van dit Verdrag, neemt de Bondsrepubliek alle maatregelen welke noodzakelijk zijn voor het, naar behoefte, ter beschikking stellen van de middelen voor het onderhoud van de krijgsmachten.
 
@@ -1060,7 +1082,7 @@ alsmede de uitgaven voor het verwerven van de voor de bouw benodigde terreinen.
 
 Ten aanzien van deze uitgaven dienen de machtigingen en bewijsstukken welke overeenkomstig lid 2 van dit artikel noodzakelijk zijn, aanwezig te zijn.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De volgende soorten faciliteiten en diensten worden door de krijgsmachten, zowel voor henzelf als voor hun leden, gratis gebruikt of genoten:
 
@@ -1098,7 +1120,7 @@ Ten aanzien van deze uitgaven dienen de machtigingen en bewijsstukken welke over
 
 6. In het algemeen worden de kosten welke zijn verbonden aan de bouw, het herstel en het onderhoud van vervoers- en verbindingsfaciliteiten, -installaties en -uitrusting, en openbare nutsbedrijven waarvan zowel door burgers als militairen gebruik wordt gemaakt, niet ten laste gebracht van de verdedigingsbijdrage van de Bondsrepubliek. Indien deze faciliteiten echter geen winst afwerpen en er door burgers slechts weinig gebruik van wordt gemaakt of indien andere omstandigheden een afwijking van de algemene regels rechtvaardigen, zullen de extra kosten welke het gevolg zijn van het feit dat de faciliteiten thans ook door militairen worden gebruikt, na voorafgaande bijzondere overeenstemming, al naar het geval zich voordoet, geheel of gedeeltelijk door de krijgsmachten worden betaald.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Met inachtneming van de bepalingen van artikel 9 van dit Verdrag worden eisen tot schadevergoeding in verband met verlies of schade welke na de inwerkingtreding van dit Verdrag is veroorzaakt door een handelen of nalaten van de krijgsmachten op het grondgebied van de Bondsrepubliek, behandeld in overeenstemming met de bepalingen van dit artikel en kunnen slechts in overeenstemming met die bepalingen geldend worden gemaakt.
 
@@ -1162,7 +1184,7 @@ Elke schadevergoeding welke betaalbaar is bij een definitieve beslissing welke i
 
 17. Indien het in enigerlei civiele procedure voor een Duits gerechtshof waarbij een onder dit artikel vallende eis betrokken is, noodzakelijk is te beslissen of een handelen of nalaten al dan niet plaatsvond tijdens de uitoefening van de dienst, wordt van de bevoegde instantie van de krijgsmachten een verklaring over zulk een aangelegenheid gevraagd. Op verzoek van het gerechtshof of de Duitse autoriteiten zal in een speciaal geval de instantie van de krijgsmachten de verklaring herzien. Elke afgegeven verklaring is definitief wat betreft de desbetreffende aangelegenheid.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Elke betrokken Mogendheid, harerzijds, alsmede de Bondsrepubliek, harerzijds, doet afstand van alle aanspraken jegens de andere partij wegens verlies van, of schade aan, enigerlei in haar bezit zijnde eigendommen op het grondgebied der Bondsrepubliek welke na de inwerkingtreding van dit Verdrag door werkzaamheden, door een handelen of nalaten van instanties of personen voor wier handelen en nalaten de andere partij wettelijk verantwoordelijk is door deze instanties of personen veroorzaakt bij de uitoefening van hun dienst. Dit afstand doen van aanspraken geldt niet voor verlies van, of schade aan, eigendommen van de Duitse Bondsspoorwegen of de Bondsposterijen, of voor verlies of schade waarvoor die organisaties verantwoordelijk zijn.
 
@@ -1170,13 +1192,13 @@ Elke schadevergoeding welke betaalbaar is bij een definitieve beslissing welke i
 
 3. De Bondsrepubliek verbindt zich, er zorg voor te dragen, dat elke betrokken Mogendheid ontheven wordt van de aansprakelijkheid voor eisen tot schadevergoeding van enig „Land” der Bondsrepubliek welke voortvloeien uit een handelen of nalaten van de krijgsmachten als omschreven in lid 2 van artikel 8 van dit Verdrag. Elke betrokken Mogendheid verbindt zich ten gunste van de Bondsrepubliek afstand te doen van alle overeenkomstige aanspraken welke zij jegens enigerlei „Land” van de Bondsrepubliek kan hebben. Elke betrokken Mogendheid verbindt zich verder ten gunste van de Bondsrepubliek afstand te doen van aanspraken met betrekking tot verbeteringen welke leiden tot waardevermeerdering van de in lid 2 van artikel 7 van dit Verdrag bedoelde eigendommen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Betalingen door de Bondsrepubliek ter voldoening van enigerlei in artikel 3 van Hoofdstuk Negen van het Verdrag inzake de regeling van aangelegenheden voortspruitende uit de oorlog en de bezetting bedoelde eisen tot schadevergoeding kunnen slechts ten laste worden gebracht van de voor het onderhoud der krijgsmachten beschikbare fondsen tot een tussen de Bondsrepubliek en de betrokken Mogendheden overeengekomen bedrag.
 
 2. Alle in lid 1 van dit artikel bedoelde eisen tot schadevergoeding welke de instanties van de betrokken Mogendheid niet hebben vastgesteld vóór de inwerkingtreding van dit Verdrag worden bij de bevoegde instanties van de Bondsrepubliek ingediend.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Ontvangsten welke afkomstig zijn uit de volgende bronnen komen ten goede aan de Bondsrepubliek en worden behoorlijk afgerekend:
 
@@ -1198,7 +1220,7 @@ Elke schadevergoeding welke betaalbaar is bij een definitieve beslissing welke i
 
 3. De Bondsrepubliek doet haar best aanspraken te doen gelden en te doen uitvoeren welke krachtens **(c)** en **(d)** van lid 2 van dit artikel moeten worden gedaan. De autoriteiten der betrokken Mogendheid kunnen eisen dat zij tijdig worden geraadpleegd vóór het doen gelden van enigerlei aanspraak krachtens **(c)** van lid 1 of **(d)** van lid 2.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Betalingen voor onroerende goederen, goederen, materialen of diensten welke aan de krijgsmachten en hun leden worden verschaft, zijn onderworpen aan de bepalingen van dit artikel.
 
@@ -1212,7 +1234,7 @@ Elke schadevergoeding welke betaalbaar is bij een definitieve beslissing welke i
 
 6. De aan de krijgsmachten en hun leden krachtens artikel 42 van het Verdrag inzake de krijgsmachten verschafte faciliteiten en diensten der Duitse openbare post- en verre-berichtgevingorganen en alle door de krijgsmachten aan de Duitse autoriteiten krachtens lid 5 van dat artikel beschikbaar gestelde faciliteiten, worden betaald tegen overeenkomstig lid 1 van dat artikel vastgestelde tarieven.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Uitgezonderd in bijzondere gevallen welke het onderwerp kunnen zijn van overeenstemming tussen de betrokken Mogendheden en de Bondsrepubliek, wordt de uitgave van middelen voor het verrichten van bouwwerkzaamheden overeenkomstig de bepalingen van dit artikel geregeld.
 
@@ -1230,31 +1252,31 @@ Waar het betreft de in **(b)** en **(c)** van dit lid bedoelde kosten welke door
 
 4. Alle uitgaven, uitgezonderd die waarin is voorzien in lid 2 van dit artikel, welke worden gedaan vóór het in lid 2 van artikel 4 van dit Verdrag genoemde tijdvak is verstreken en welke verband houden met het verkrijgen en het ontruimen van onroerende goederen voor de krijgsmachten, komen niet ten laste van de middelen voor het onderhoud van de krijgsmachten of van de betrokken Mogendheden.
 
-#### Artikel 14
+##### Artikel 14
 
 Er wordt een permanente Coördineringscommissie bestaande uit vertegenwoordigers van de Drie Mogendheden en de Bondsrepubliek ingesteld om de haar krachtens dit Verdrag opgedragen taken uit te voeren, de tenuitvoerlegging van dit Verdrag te coördineren en aanbevelingen te overwegen en te doen aan de ondertekenende staten betreffende het wegnemen van twijfel of moeilijkheden welke in verband daarmede mochten ontstaan en welke niet rechtstreeks door middel van overleg tussen de bevoegde autoriteiten en de betrokken diensten tot een oplossing kunnen worden gebracht.
 
-#### Artikel 15
+##### Artikel 15
 
 De betrokken Mogendheden kunnen ook in Berlijn alle hun krachtens dit Verdrag voor de in lid 1 van artikel 5 genoemde doeleinden beschikbaar gestelde middelen uitgeven.
 
-#### Artikel 16
+##### Artikel 16
 
 Op verzoek van een der ondertekenende staten kunnen besprekingen worden geopend met het doel enigerlei artikelen van dit Verdrag te wijzigen of in te trekken.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De Drie Mogendheden, of enigerlei betrokken Mogendheid, en de Bondsrepubliek zullen, waar zulks noodzakelijk of wenselijk is, aanvullende overeenkomsten sluiten inzake de tenuitvoerlegging van dit Verdrag, inzonderheid de bepalingen van artikel 6.
 
 2. Het onderhandelen over en het tenuitvoerleggen van deze aanvullende overeenkomsten wordt gecoördineerd door de overeenkomstig artikel 14 van dit Verdrag ingestelde Coördineringscommissie.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Vervallen.
 
 2. De bepalingen van dit Verdrag gelden voor de krijgsmachten der andere staten van herkomst en voor de leden van die krijgsmachten, uitgezonderd in gevallen waarin deze bepalingen worden uitgesloten of gewijzigd door een overeenkomst welke wordt getroffen tussen een zodanige andere staat van herkomst en de Bondsrepubliek.
 
-#### Artikel 19
+##### Artikel 19
 
 Het door middel van het Verdrag inzake de betrekkingen tussen de Drie Mogendheden en de Bondsrepubliek Duitsland opgerichte Scheidsrechterlijk Tribunaal heeft geen rechtsbevoegdheid:
 

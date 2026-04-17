@@ -1,13 +1,39 @@
 ---
-title: "Uitvoeringsbesluit WEB"
+title: "Besluit van 6 augustus 1999, houdende vaststelling van de algemene berekeningswijze van de rijksbijdrage voor het beroepsonderwijs, de educatie en de landelijke organen, alsmede vaststelling van voorschriften over het informatieverkeer, bedoeld in de Wet educatie en beroepsonderwijs (Uitvoeringsbesluit WEB)"
 identifier: "BWBR0010646"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-08-01
-laatste_update: 2024-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010646"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-08-01"
+last_updated: "2024-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010646"
+soort: "AMvB"
+stam_id: "1133933"
+version_id: "28749062"
+internal_id: "C40680781"
+label_id: "1100944"
+dtd_version: "2.0"
+original_entry_into_force: "2022-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010646/2024-08-01/0"
+intitule_bron: "Stb.1999-368"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-08-06"
+intitule_published: "1999-09-02"
+intitule_in_force: "1999-09-02"
+intitule_status: "goed"
+original_publication: "Stb.2022-273"
+original_signed_date: "2022-06-24"
+original_published_date: "2022-07-01"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2022-273"
+entry_into_force_date: "2022-08-01"
+jci_1_3: "jci1.3:c:BWBR0010646&z=2024-08-01&g=2024-08-01"
+jci_1_0: "1.0:c:BWBR0010646&g=2024-08-01"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsbesluit WEB"
+signed_date: "2022-06-24"
+entry_into_force: "2022-08-01"
 ---
-
 # Besluit van 6 augustus 1999, houdende vaststelling van de algemene berekeningswijze van de rijksbijdrage voor het beroepsonderwijs, de educatie en de landelijke organen, alsmede vaststelling van voorschriften over het informatieverkeer, bedoeld in de Wet educatie en beroepsonderwijs (Uitvoeringsbesluit WEB)
 
 Op de voordrachten van Onze Minister van Onderwijs, Cultuur en Wetenschappen van 8 maart 1999, nr. 1998/8716 (3704) en van 31 maart 1999, nr. 1999/14257 (3693), directie Wetgeving en Juridische Zaken, de eerste voordracht gedaan mede namens Onze Minister van Landbouw, Natuurbeheer en Visserij;
@@ -24,13 +50,13 @@ Hebben goedgevonden en verstaan:
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 1.1.1. Begripsbepalingen
+##### Artikel 1.1.1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
 - a. wet: de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625).
 
-#### Artikel 1.1.2. Overleg
+##### Artikel 1.1.2. Overleg
 
 Vervallen
 
@@ -38,13 +64,13 @@ Vervallen
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 2.1.1. Reikwijdte hoofdstuk 2
+##### Artikel 2.1.1. Reikwijdte hoofdstuk 2
 
 1. [Hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=2&z=2024-08-01&g=2024-08-01) is van toepassing op instellingen als bedoeld in [artikel 1.1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1).
 
 2. De paragrafen [6](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=2&paragraaf=6&z=2024-08-01&g=2024-08-01) en [6a](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=2&paragraaf=6a&z=2024-08-01&g=2024-08-01) hebben mede betrekking op de in [artikel 12.3.8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=12.3.8) genoemde instituten.
 
-#### Artikel 2.1.2. Begripsbepalingen [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=2&z=2024-08-01&g=2024-08-01)
+##### Artikel 2.1.2. Begripsbepalingen [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=2&z=2024-08-01&g=2024-08-01)
 
 In dit hoofdstuk wordt verstaan onder:
 
@@ -66,7 +92,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 - **vakopleiding:** opleiding als bedoeld in [artikel 7.2.2, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2).
 
-#### Artikel 2.1.3. Vaststelling omvang landelijk beschikbare budgetten beroepsonderwijs
+##### Artikel 2.1.3. Vaststelling omvang landelijk beschikbare budgetten beroepsonderwijs
 
 1. Binnen het raam van de door de begrotingswetgever voor het desbetreffende kalenderjaar beschikbaar gestelde middelen, stelt Onze Minister jaarlijks de omvang vast van het landelijk beschikbare budget voor de exploitatiekosten en de huisvestingskosten voor het beroepsonderwijs.
 
@@ -86,7 +112,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 #### Paragraaf 2. Exploitatiekosten en huisvestingskosten
 
-#### Artikel 2.2.1. Berekening rijksbijdrage voor exploitatiekosten en huisvestingskosten beroepsonderwijs
+##### Artikel 2.2.1. Berekening rijksbijdrage voor exploitatiekosten en huisvestingskosten beroepsonderwijs
 
 1. Onze Minister berekent de rijksbijdrage voor een instelling voor de exploitatiekosten en de huisvestingskosten voor het beroepsonderwijs voor een kalenderjaar door bij elkaar op te tellen:
 
@@ -102,7 +128,7 @@ zoals deze delen voor het desbetreffende jaar voor de instelling worden berekend
 
 3. De op grond van het eerste en tweede lid berekende rijksbijdrage kan worden aangepast in verband met uit de rijksbegroting voortvloeiende maatregelen.
 
-#### Artikel 2.2.2. Berekening rijksbijdragedeel entreeopleiding
+##### Artikel 2.2.2. Berekening rijksbijdragedeel entreeopleiding
 
 1. Onze Minister berekent het rijksbijdragedeel voor de entreeopleiding volgens de formule:
 
@@ -161,7 +187,7 @@ In deze formule wordt verstaan onder:
 
 6. Voor de berekening, bedoeld in dit artikel, tellen de studenten die op de genoemde tijdstippen voor de assistentopleiding, bedoeld in [artikel 7.2.2, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) zoals dat onderdeel luidde op 31 juli 2014, zijn ingeschreven als ingeschreven studenten voor de entreeopleiding.
 
-#### Artikel 2.2.3. Berekening rijksbijdragedeel basisberoepsopleiding en rijksbijdragedeel vakopleiding, middenkaderopleiding en specialistenopleiding
+##### Artikel 2.2.3. Berekening rijksbijdragedeel basisberoepsopleiding en rijksbijdragedeel vakopleiding, middenkaderopleiding en specialistenopleiding
 
 1. Onze Minister berekent het rijksbijdragedeel voor de basisberoepsopleiding en het rijksbijdragedeel voor de vakopleiding, middenkaderopleiding en specialistenopleiding volgens de formule:
 
@@ -255,13 +281,13 @@ Indien het eerder behaalde diploma, bedoeld in DiE van een hoger niveau is dan h
 
 Indien een diploma is behaald door een student die drie aaneengesloten voorgaande kalenderjaren niet op 1 oktober was ingeschreven, blijven diploma’s behaald voorafgaand aan deze onderbreking buiten beschouwing.
 
-#### Artikel 2.2.4. Aangepaste berekening bij fusie en splitsing van instellingen
+##### Artikel 2.2.4. Aangepaste berekening bij fusie en splitsing van instellingen
 
 1. In geval van fusie van instellingen betrekt Onze Minister bij de toepassing van [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=2&paragraaf=2&z=2024-08-01&g=2024-08-01) de gegevens van de instellingen die in de gefuseerde instelling zijn opgegaan en berekent de bijdrage voor de gefuseerde instelling op basis van die gegevens.
 
 2. In geval van splitsing van instellingen betrekt Onze Minister bij de toepassing van [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=2&paragraaf=2&z=2024-08-01&g=2024-08-01) de afspraken omtrent de toerekening van de gegevens aan elk van de instellingen die daarover door de betrokken bevoegde gezagsorganen zijn gemaakt, blijkend uit een door die bevoegde gezagsorganen aan Onze Minister overgelegde en ondertekende verklaring dienaangaande.
 
-#### Artikel 2.2.5. Indienen gegevens; vaststelling bekostigingsgegevens bij te late indiening
+##### Artikel 2.2.5. Indienen gegevens; vaststelling bekostigingsgegevens bij te late indiening
 
 1. De gegevens, bedoeld in de [artikelen 4, eerste lid, onderdelen c, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&artikel=4), [5, eerste lid, onderdelen b en c, en derde lid, onderdeel a of c](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&artikel=5), [6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&artikel=6), [7, vijfde lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&artikel=7), en [8, zesde lid, onderdelen a en c, van het Besluit register onderwijsdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&artikel=8) en de verklaring, bedoeld in [artikel 2.2.4, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.2.4) worden uiterlijk 1 juli van het jaar voorafgaand aan het bekostigingsjaar ingediend bij Onze Minister. Indien Onze Minister van een instelling de gegevens, bedoeld in de eerste volzin, niet uiterlijk 1 juli van het jaar voorafgaand aan het bekostigingsjaar, voorzien van een goedkeurende accountantsverklaring, heeft ontvangen en hierdoor niet tijdig over de gegevens kan beschikken, kan Onze Minister de hoogte van de rijksbijdrage voor deze instelling voor het desbetreffende kalenderjaar vaststellen conform de voorschriften in het tweede tot en met vierde lid.
 
@@ -271,37 +297,37 @@ Indien een diploma is behaald door een student die drie aaneengesloten voorgaand
 
 4. Indien toepassing van [artikel 2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=2&paragraaf=2&artikel=2.2.2&z=2024-08-01&g=2024-08-01) en [artikel 2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=2&paragraaf=2&artikel=2.2.3&z=2024-08-01&g=2024-08-01) met gebruikmaking van de gegevens, bedoeld in het derde lid, leidt tot een lagere rijksbijdrage dan vastgesteld op grond van het tweede lid, wordt die lagere rijksbijdrage vastgesteld. Gebruikmaking van de gegevens, bedoeld in het derde lid, leidt in geen geval tot een hogere rijksbijdrage dan vastgesteld op grond van het tweede lid.
 
-#### Artikel 2.2.6. Aangepaste berekening bij fusie van instellingen en splitsing van werkzaamheden
+##### Artikel 2.2.6. Aangepaste berekening bij fusie van instellingen en splitsing van werkzaamheden
 
 Vervallen
 
 #### Paragraaf 3. Voorbereidend beroepsonderwijs aan agrarische opleidingscentra
 
-#### Artikel 2.3.1. Uitzondering toepassing bekostigingsbepalingen [Wet educatie en beroepsonderwijs](onbekend) en[Wet op het voortgezet onderwijs](onbekend) op voorbereidend beroepsonderwijs verzorgd aan agrarische opleidingscentra
+##### Artikel 2.3.1. Uitzondering toepassing bekostigingsbepalingen [Wet educatie en beroepsonderwijs](onbekend) en[Wet op het voortgezet onderwijs](onbekend) op voorbereidend beroepsonderwijs verzorgd aan agrarische opleidingscentra
 
 Vervallen
 
-#### Artikel 2.3.2. Berekening rijksbijdrage voorbereidend beroepsonderwijs
+##### Artikel 2.3.2. Berekening rijksbijdrage voorbereidend beroepsonderwijs
 
 Vervallen
 
 #### Paragraaf 4. Huisvesting
 
-#### Artikel 2.4.1. Berekening rijksbijdrage huisvestingskosten scholengemeenschap of AOC
+##### Artikel 2.4.1. Berekening rijksbijdrage huisvestingskosten scholengemeenschap of AOC
 
 Vervallen
 
 #### Paragraaf 5. Toevoeging rijksbijdrage in verband met kosten van werkloosheidsuitkeringen en suppleties inzake arbeidsongeschiktheid
 
-#### Artikel 2.5.1. Begripsbepalingen paragraaf 5
+##### Artikel 2.5.1. Begripsbepalingen paragraaf 5
 
 Vervallen
 
-#### Artikel 2.5.2. Toevoeging aan de rijksbijdrage
+##### Artikel 2.5.2. Toevoeging aan de rijksbijdrage
 
 Vervallen
 
-#### Artikel 2.5.3. Voorlopige inhouding; definitieve vaststelling
+##### Artikel 2.5.3. Voorlopige inhouding; definitieve vaststelling
 
 Vervallen
 
@@ -309,13 +335,13 @@ Vervallen
 
 #### Paragraaf 6. Vermindering rijksbijdrage beroepsonderwijs in verband met normatieve inhouding cursusgelden
 
-#### Artikel 3.1. Begripsbepaling hoofdstuk 3
+##### Artikel 3.1. Begripsbepaling hoofdstuk 3
 
 Vervallen
 
 #### Paragraaf 6a. Gehandicapte studenten
 
-#### Artikel 3.2.1. Berekening uitkering educatie vanaf 2018
+##### Artikel 3.2.1. Berekening uitkering educatie vanaf 2018
 
 1. De uitkering educatie die per kalenderjaar aan een college van burgemeester en wethouders van een contactgemeente van een regio educatie wordt verstrekt, is de som van de bedragen die voor elk van de tot die regio educatie behorende gemeenten wordt berekend volgens de volgende formule:
 
@@ -339,17 +365,17 @@ Ib: het totale bedrag dat door Onze Minister beschikbaar is gesteld voor uitkeri
 
 3. Jaarlijks wordt in januari de voor dat kalenderjaar vastgestelde uitkering educatie betaald aan de contactgemeente.
 
-#### Artikel 3.2.2. Aanpassing uitkering educatie bij gemeentelijke herindeling
+##### Artikel 3.2.2. Aanpassing uitkering educatie bij gemeentelijke herindeling
 
 Bij een wijziging van de gemeentelijke indeling of een grenscorrectie als bedoeld in de [Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718) worden de gegevens waarmee de berekeningen op grond van [artikel 3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2024-08-01&g=2024-08-01) worden uitgevoerd, vastgesteld op basis van een redelijke schatting van de toestand van die gegevens zoals die zou zijn geweest als de wijziging op de datum waarop die gegevens betrekking hebben, reeds was ingegaan.
 
-#### Artikel 3.2.3
+##### Artikel 3.2.3
 
 Vervallen
 
 #### Paragraaf 2. De rijksbijdrage educatie
 
-#### Artikel 3.3.1. Reserveringsregeling
+##### Artikel 3.3.1. Reserveringsregeling
 
 1. Indien in een kalenderjaar de uitkering educatie niet volledig is besteed, kan het college van burgemeester en wethouders van de contactgemeente het niet bestede bedrag tot maximaal 25% van de voor dat jaar toegekende uitkering educatie reserveren voor opleidingen educatie in het daaropvolgende kalenderjaar.
 
@@ -363,51 +389,51 @@ Vervallen
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 4.1.1. Vorming, wijziging of beëindiging
+##### Artikel 4.1.1. Vorming, wijziging of beëindiging
 
 Bij ministeriële regeling kan worden bepaald dat een verticale scholengemeenschap slechts met ingang van een bepaald tijdstip kan worden gevormd, gewijzigd of beëindigd.
 
-#### Artikel 4.1.2. Aanvraagprocedure
+##### Artikel 4.1.2. Aanvraagprocedure
 
 Bij ministeriële regeling worden regels gesteld over de aanvraagprocedure voor de vorming, wijziging of beëindiging van een verticale scholengemeenschap.
 
-#### Artikel 4.1.3. Postcodegebied
+##### Artikel 4.1.3. Postcodegebied
 
 Bij ministeriële regeling kan worden bepaald dat een percentage van de leerlingen van de school of scholengemeenschap die deel uitmaakt van de verticale scholengemeenschap ten minste afkomstig is uit hetzelfde postcodegebied als de studenten van de instelling die deel uitmaakt van die verticale scholengemeenschap.
 
-#### Artikel 4.1.4. Vaststelling omvang landelijk beschikbare budgetten kenniscentra
+##### Artikel 4.1.4. Vaststelling omvang landelijk beschikbare budgetten kenniscentra
 
 Vervallen
 
 #### Paragraaf 2. Exploitatiekosten en huisvestingskosten
 
-#### Artikel 4.2.1. Berekening rijksbijdrage huisvestingskosten
+##### Artikel 4.2.1. Berekening rijksbijdrage huisvestingskosten
 
 1. De rijksbijdrage voor de huisvestingskosten van een school of scholengemeenschap als bedoeld in [artikel 2.6.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.6.3), wordt berekend door het aantal leerlingen dat op 1 oktober van het tweede kalenderjaar voorafgaand aan het desbetreffende kalenderjaar aan de school of scholengemeenschap was ingeschreven, te vermenigvuldigen met een jaarlijks bij ministeriële regeling te bepalen bedrag.
 
 2. [Artikel 2.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=2&paragraaf=2&artikel=2.2.4&z=2024-08-01&g=2024-08-01) is van overeenkomstige toepassing op een school of scholengemeenschap die deel uitmaakt van een verticale scholengemeenschap.
 
-#### Artikel 4.2.2. Berekening rijksbijdrage exploitatiekosten en huisvestingskosten kenniscentra
+##### Artikel 4.2.2. Berekening rijksbijdrage exploitatiekosten en huisvestingskosten kenniscentra
 
 Vervallen
 
-#### Artikel 4.2.3. Berekening rijksbijdragedeel voor de taken rond de kwalificatiestructuur
+##### Artikel 4.2.3. Berekening rijksbijdragedeel voor de taken rond de kwalificatiestructuur
 
 Vervallen
 
-#### Artikel 4.2.4. Berekening rijksbijdragedeel voor de taken rond de leerbedrijven en de beroepspraktijkvorming
+##### Artikel 4.2.4. Berekening rijksbijdragedeel voor de taken rond de leerbedrijven en de beroepspraktijkvorming
 
 Vervallen
 
-#### Artikel 4.2.5. Opgave aantal leerbedrijven
+##### Artikel 4.2.5. Opgave aantal leerbedrijven
 
 Vervallen
 
-#### Artikel 4.2.6. Aangepaste berekening bij fusie en splitsing kenniscentra
+##### Artikel 4.2.6. Aangepaste berekening bij fusie en splitsing kenniscentra
 
 Vervallen
 
-#### Artikel 4.2.7. Berekening rijksbijdragedeel exploitatiekosten kenniscentra volgens maatstaf leerbedrijven
+##### Artikel 4.2.7. Berekening rijksbijdragedeel exploitatiekosten kenniscentra volgens maatstaf leerbedrijven
 
 1. Onze Minister berekent de rijksbijdrage voor de exploitatiekosten voor het kenniscentrum voor zover het betreft het gedeelte van het landelijk beschikbare budget dat is toegerekend aan de maatstaf leerbedrijven, op de wijze als bepaald in het tweede tot en met vijfde lid.
 
@@ -433,27 +459,27 @@ Vervallen
 
 5. Van het in het eerste lid bedoelde gedeelte van het landelijk beschikbare budget wordt het bedrag voor het kenniscentrum vastgesteld naar rato van het aantal leerbedrijven van elk kenniscentrum nadat daarop de correctie en de afronding, bedoeld in het derde respectievelijk vierde lid, heeft plaatsgevonden.
 
-#### Artikel 4.2.8. Voorwaarde meetellen leerbedrijven in berekeningsmaatstaf rijksbijdrage
+##### Artikel 4.2.8. Voorwaarde meetellen leerbedrijven in berekeningsmaatstaf rijksbijdrage
 
 Bij de berekening, bedoeld in [artikel 4.2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=4&paragraaf=2&artikel=4.2.7&z=2012-08-01&g=2012-08-01), betrekt Onze Minister uitsluitend de leerbedrijven die zijn aangeduid met de code leerbedrijf, bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=3&z=2012-08-01&g=2012-08-01) bij dit besluit.
 
 #### Paragraaf 3. Huisvesting
 
-#### Artikel 4.3.1. Berekening rijksbijdrage huisvestingskosten kenniscentra
+##### Artikel 4.3.1. Berekening rijksbijdrage huisvestingskosten kenniscentra
 
 Vervallen
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 4.4.1. Vaststelling rijksbijdrage kenniscentrum op het gebied van landbouw, natuurlijke omgeving en voedsel
+##### Artikel 4.4.1. Vaststelling rijksbijdrage kenniscentrum op het gebied van landbouw, natuurlijke omgeving en voedsel
 
 Vervallen
 
-#### Artikel 4.4.2. Vaststelling omvang landelijk beschikbaar budget voor kenniscentrum op gebied van landbouw en natuurlijke omgeving
+##### Artikel 4.4.2. Vaststelling omvang landelijk beschikbaar budget voor kenniscentrum op gebied van landbouw en natuurlijke omgeving
 
 Binnen het raam van de door de begrotingswetgever voor het desbetreffende begrotingsjaar beschikbaar gestelde middelen, stelt Onze Minister jaarlijks het landelijk beschikbare budget vast voor de exploitatiekosten en voor de huisvestingskosten van het kenniscentrum op het gebied van de landbouw en de natuurlijke omgeving.
 
-#### Artikel 4.4.3. Berekeningsmaatstaven rijksbijdrage kenniscentrum op gebied van landbouw en natuurlijke omgeving
+##### Artikel 4.4.3. Berekeningsmaatstaven rijksbijdrage kenniscentrum op gebied van landbouw en natuurlijke omgeving
 
 Onze Minister berekent de rijksbijdrage afzonderlijk voor:
 
@@ -463,7 +489,7 @@ Onze Minister berekent de rijksbijdrage afzonderlijk voor:
 
 - c. de taken, bedoeld in [artikel 1.5.2, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.5.2).
 
-#### Artikel 4.4.4. Verdeling landelijk beschikbare budget exploitatiekosten kenniscentrum op gebied van landbouw en natuurlijke omgeving
+##### Artikel 4.4.4. Verdeling landelijk beschikbare budget exploitatiekosten kenniscentrum op gebied van landbouw en natuurlijke omgeving
 
 Van het landelijk beschikbare budget voor de exploitatiekosten van het kenniscentrum wordt:
 
@@ -473,13 +499,13 @@ Van het landelijk beschikbare budget voor de exploitatiekosten van het kenniscen
 
 - c. 20% toegerekend aan de taken, bedoeld in [artikel 4.4.3, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=4&paragraaf=4&artikel=4.4.3&z=2012-08-01&g=2012-08-01).
 
-#### Artikel 4.4.5. Vaststelling hoogte rijksbijdrage exploitatiekosten kenniscentrum op gebied van landbouw en natuurlijke omgeving
+##### Artikel 4.4.5. Vaststelling hoogte rijksbijdrage exploitatiekosten kenniscentrum op gebied van landbouw en natuurlijke omgeving
 
 1. Onze Minister berekent de totale rijksbijdrage voor de exploitatiekosten van het kenniscentrum door de middelen bij elkaar op te tellen die voor het kenniscentrum zijn berekend op grond van de [artikelen 4.4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=4&paragraaf=4&artikel=4.4.3&z=2012-08-01&g=2012-08-01) en [4.4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=4&paragraaf=4&artikel=4.4.4&z=2012-08-01&g=2012-08-01).
 
 2. De op grond van het eerste lid vastgestelde rijksbijdrage kan worden aangepast in verband met uit de rijksbegroting voortvloeiende maatregelen.
 
-#### Artikel 4.4.6. Rijksbijdrage huisvestingskosten kenniscentrum op gebied van landbouw en natuurlijke omgeving
+##### Artikel 4.4.6. Rijksbijdrage huisvestingskosten kenniscentrum op gebied van landbouw en natuurlijke omgeving
 
 1. Onze Minister stelt het bedrag voor huisvestingskosten voor het kenniscentrum vast.
 
@@ -487,15 +513,15 @@ Van het landelijk beschikbare budget voor de exploitatiekosten van het kenniscen
 
 #### Paragraaf 3. Huisvesting
 
-#### Artikel 4.5.1. Begripsbepalingen paragraaf 5
+##### Artikel 4.5.1. Begripsbepalingen paragraaf 5
 
 Vervallen
 
-#### Artikel 4.5.2. Vermindering rijksbijdrage
+##### Artikel 4.5.2. Vermindering rijksbijdrage
 
 Vervallen
 
-#### Artikel 4.5.3. Voorlopige inhouding; definitieve vaststelling
+##### Artikel 4.5.3. Voorlopige inhouding; definitieve vaststelling
 
 Vervallen
 
@@ -503,11 +529,11 @@ Vervallen
 
 #### Paragraaf 2. Huisvesting
 
-#### Artikel 5.1.1. Reikwijdte hoofdstuk 5
+##### Artikel 5.1.1. Reikwijdte hoofdstuk 5
 
 De bepalingen van dit hoofdstuk hebben betrekking op instellingen als bedoeld in [artikel 1.1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1).
 
-#### Artikel 5.1.2. Begripsbepaling [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=5&z=2024-08-01&g=2024-08-01)
+##### Artikel 5.1.2. Begripsbepaling [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=5&z=2024-08-01&g=2024-08-01)
 
 In dit hoofdstuk wordt verstaan onder:
 
@@ -515,13 +541,13 @@ In dit hoofdstuk wordt verstaan onder:
 
 #### Paragraaf 3. Huisvesting
 
-#### Artikel 5.2.1. Ordening gegevens
+##### Artikel 5.2.1. Ordening gegevens
 
 1. De informatieverzameling, bedoeld in de [artikelen 2.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.2.4), [2.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.3.6), [2.5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.5.3) en [2.5.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.5.5), waarover het bevoegd gezag van een instelling dient te beschikken, bevat de gegevens volgens de beschrijving in het gegevenswoordenboek dat is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=1&z=2024-08-01&g=2024-08-01) bij dit besluit.
 
 2. De gegevens, bedoeld in het eerste lid, die betrekking hebben op de bekostiging, zijn in het desbetreffende gegevenswoordenboek als zodanig aangeduid.
 
-#### Artikel 5.2.2. Wijze van beschikbaarstelling gegevens
+##### Artikel 5.2.2. Wijze van beschikbaarstelling gegevens
 
 1. Op verzoek van Onze Minister stelt het bevoegd gezag van een instelling gegevens aan hem beschikbaar, die door de instelling op grond van [artikel 5.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=5&paragraaf=2&artikel=5.2.1&z=2024-08-01&g=2024-08-01) zijn verzameld.
 
@@ -529,11 +555,11 @@ In dit hoofdstuk wordt verstaan onder:
 
 3. In voorkomende gevallen kan Onze Minister bij het verzoek om beschikbaarstelling reeds bij hem bekende gegevens opnemen.
 
-#### Artikel 5.2.3. Aanvulling gegevensvraag over bekostiging
+##### Artikel 5.2.3. Aanvulling gegevensvraag over bekostiging
 
 Bij ministeriële regeling kan in bijzondere gevallen een aanvullende vragenlijst ten aanzien van bekostiging worden vastgesteld ter beantwoording door het bevoegd gezag van een instelling.
 
-#### Artikel 5.2.4. Bewaarplicht gegevens
+##### Artikel 5.2.4. Bewaarplicht gegevens
 
 1. Het bevoegd gezag van een instelling bewaart de boeken, bescheiden en informatie op andere informatiedragers die verband houden met de toepassing van dit hoofdstuk voor zover het betreft gegevens ten behoeve van het door Onze Minister te voeren beleid ten aanzien van het beroepsonderwijs en van het voortgezet algemeen volwassenenonderwijs, gedurende ten minste zeven jaren.
 
@@ -543,19 +569,19 @@ Bij ministeriële regeling kan in bijzondere gevallen een aanvullende vragenlijs
 
 #### Paragraaf 3. Huisvesting
 
-#### Artikel 6.1.1. Overgangsbepaling bestaande opleidingen; opleidingen in afbouw
+##### Artikel 6.1.1. Overgangsbepaling bestaande opleidingen; opleidingen in afbouw
 
 Vervallen
 
-#### Artikel 6.1.2. Afwijking risicodeelnemers
+##### Artikel 6.1.2. Afwijking risicodeelnemers
 
 Vervallen
 
-#### Artikel 6.1.3. Overgangsbepaling huisvestingskosten in verband met decentralisatie huisvesting
+##### Artikel 6.1.3. Overgangsbepaling huisvestingskosten in verband met decentralisatie huisvesting
 
 Indien 12% van de rijksbijdrage voor exploitatiekosten en huisvestingskosten beroepsonderwijs voor een kalenderjaar voor een instelling, vermeerderd met het gedeelte van de rijksbijdrage, berekend op grond van [artikel 2.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=2&paragraaf=4&artikel=2.4.1&z=2024-08-01&g=2024-08-01), minder bedraagt dan het op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006130&artikel=3) of [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006130&artikel=4), alsmede in voorkomende gevallen op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006130&artikel=7) of [artikel 8, van de Regeling bekostiging huisvesting bve-sector 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0006130&artikel=8) zoals deze luidde op 31 december 1999, voor het desbetreffende kalenderjaar vastgestelde bedrag voor de desbetreffende instelling, ontvangt de instelling voor het desbetreffende kalenderjaar een aanvulling tot dat bedrag.
 
-#### Artikel 6.1.4. Overgangsbepaling 2015–2018 wijziging berekening rijksbijdrage in verband met aanpassingen mbo-bekostiging
+##### Artikel 6.1.4. Overgangsbepaling 2015–2018 wijziging berekening rijksbijdrage in verband met aanpassingen mbo-bekostiging
 
 1. Voor de berekening van de overgangsbekostiging beroepsonderwijs van een instelling wordt de rijksbijdrage voor een instelling voor het kalenderjaar 2015, berekend op grond van [artikel 2.2.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2024-08-01&g=2024-08-01), zoals dat artikel met ingang van 1 augustus 2014 luidt, vergeleken met de rijksbijdrage voor beroepsonderwijs zoals die voor het kalenderjaar 2015 zou zijn vastgesteld volgens de berekeningswijze op grond van de [artikelen 2.2.2, eerste lid en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=2&paragraaf=2&artikel=2.2.2&z=2024-08-01&g=2024-08-01), en [2.4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=2&paragraaf=4&artikel=2.4.1&z=2024-08-01&g=2024-08-01), zoals deze luidden op 31 juli 2014.
 
@@ -571,7 +597,7 @@ Indien 12% van de rijksbijdrage voor exploitatiekosten en huisvestingskosten ber
 
 7. Indien uit de vergelijking bedoeld in het eerste lid blijkt dat de eerstgenoemde rijksbijdrage voor een instelling meer dan 4% lager is dan de laatstgenoemde rijksbijdrage, kan Onze Minister ter voorkoming van een zodanig financieel nadeel voor die instelling dat de continuïteit van de instelling in gevaar komt, aanvullende bekostiging verstrekken aan die instelling naast de aanvulling bedoeld in het zesde lid.
 
-#### Artikel 6.1.5. Overgangsbepaling vaststelling bekostigingsgegevens bij te late indiening
+##### Artikel 6.1.5. Overgangsbepaling vaststelling bekostigingsgegevens bij te late indiening
 
 1. Indien een instelling de gegevens en de verklaring, bedoeld in [artikel 2.2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=2&paragraaf=2&artikel=2.2.5&z=2024-08-01&g=2024-08-01), ten behoeve van de bekostiging voor het kalenderjaar 2015 niet tijdig indient, kan Onze Minister, in afwijking van artikel 2.2.5, de rijksbijdrage voor het kalenderjaar 2015 en, in afwijking van [artikel 6.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=6&paragraaf=1&artikel=6.1.4&z=2024-08-01&g=2024-08-01), de overgangsbekostiging voor de kalenderjaren 2015 tot en met 2018 voor deze instelling voorlopig vaststellen met gebruik van de gegevens van het kalenderjaar 2012, respectievelijk het studiejaar 2012–2013.
 
@@ -581,61 +607,61 @@ Indien 12% van de rijksbijdrage voor exploitatiekosten en huisvestingskosten ber
 
 #### Paragraaf 3. Gebruik gegevens uit basisregister onderwijs door Minister
 
-#### Artikel 6.2.1. Overgangsbepaling berekening rijksbijdrage exploitatie- en huisvestingskosten en verdeling rijksbijdragedeel gehandicapte deelnemers voor het bekostigingsjaar 2015
+##### Artikel 6.2.1. Overgangsbepaling berekening rijksbijdrage exploitatie- en huisvestingskosten en verdeling rijksbijdragedeel gehandicapte deelnemers voor het bekostigingsjaar 2015
 
 Vervallen
 
-#### Artikel 6.2.2. Overgangsbepaling berekening rijksbijdrage exploitatie- en huisvestingskosten en verdeling rijksbijdragedeel gehandicapte deelnemers voor het bekostigingsjaar 2016
+##### Artikel 6.2.2. Overgangsbepaling berekening rijksbijdrage exploitatie- en huisvestingskosten en verdeling rijksbijdragedeel gehandicapte deelnemers voor het bekostigingsjaar 2016
 
 Vervallen
 
-#### Artikel 6.2.3. Verhoging of verlaging rijksbijdrage educatie op grond van overgangsregeling in de jaren 2000 tot en met 2003
+##### Artikel 6.2.3. Verhoging of verlaging rijksbijdrage educatie op grond van overgangsregeling in de jaren 2000 tot en met 2003
 
 Vervallen
 
-#### Artikel 6.2.4. Bedrag educatie op grond van afwijking in verband met bijzondere omstandigheden in de jaren 2000 tot en met 2003
+##### Artikel 6.2.4. Bedrag educatie op grond van afwijking in verband met bijzondere omstandigheden in de jaren 2000 tot en met 2003
 
 Vervallen
 
-#### Artikel 6.2.5
+##### Artikel 6.2.5
 
 Vervallen
 
 #### Paragraaf 2. Ordening en wijze van beschikbaarstelling gegevens
 
-#### Artikel 6.3.1. Overgangsbepaling voor voormalige agrarische opleidingscentra
+##### Artikel 6.3.1. Overgangsbepaling voor voormalige agrarische opleidingscentra
 
 1. Voor de berekening van de rijksbijdrage van de scholen voor praktijkonderwijs en vbo binnen verticale scholengemeenschappen die van rechtswege zijn ontstaan na de omzetting op grond van [artikel 12.2.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=12.2.4), wordt voor wat betreft het kalenderjaar waarin die omzetting plaatsvindt, gebruik gemaakt van de berekeningswijze op grond van de [artikelen 2.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=2&paragraaf=1&artikel=2.1.3&z=2024-08-01&g=2024-08-01), [2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=2&paragraaf=3&artikel=2.3.2&z=2024-08-01&g=2024-08-01) en [2.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=2&paragraaf=4&artikel=2.4.1&z=2024-08-01&g=2024-08-01) zoals deze luidden op 1 januari van dat kalenderjaar.
 
 2. Een besluit tot de berekening van de bekostiging van een school die van rechtswege is ontstaan na de omzetting op grond van [artikel 12.2.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=12.2.4), vindt voor het eerst toepassing op grond van de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212) en [artikel 2.6.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.6.3) over het kalenderjaar volgend op die omzetting.
 
-#### Artikel 6.3.2. Overgangsbepaling 2013–2016 in verband met aanpassing bekostiging kenniscentra
+##### Artikel 6.3.2. Overgangsbepaling 2013–2016 in verband met aanpassing bekostiging kenniscentra
 
 Vervallen
 
-#### Artikel 6.3.3. Tijdelijke afwijking vaststelling bedrag huisvestingskosten
+##### Artikel 6.3.3. Tijdelijke afwijking vaststelling bedrag huisvestingskosten
 
 Onze Minister stelt tot de datum, bedoeld [artikel 6.3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=6&paragraaf=3&artikel=6.3.2&z=2012-08-01&g=2012-08-01), het bedrag voor huisvestingskosten, bedoeld in [artikel 4.3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=4&paragraaf=3&artikel=4.3.1&z=2012-08-01&g=2012-08-01), voor elk kenniscentrum vast op basis van het percentage dat op grond van [artikel 6.3.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=6&paragraaf=3&artikel=6.3.2&z=2012-08-01&g=2012-08-01), voor dat kenniscentrum is vastgesteld. De uitkomst van de berekening wordt rekenkundig afgerond op twee decimalen.
 
-#### Artikel 6.3.4. Correctie rijksbijdrage huisvestingskosten kalenderjaren 2000 en 2001
+##### Artikel 6.3.4. Correctie rijksbijdrage huisvestingskosten kalenderjaren 2000 en 2001
 
 Vervallen
 
-#### Artikel 6.3.5. Vermindering rijksbijdrage kalenderjaren 2000 en 2001
+##### Artikel 6.3.5. Vermindering rijksbijdrage kalenderjaren 2000 en 2001
 
 Vervallen
 
-#### Artikel 6.3.6. Overgangsregeling bekostiging huisvesting voor kalenderjaar 2002
+##### Artikel 6.3.6. Overgangsregeling bekostiging huisvesting voor kalenderjaar 2002
 
 Vervallen
 
-#### Artikel 6.3.7. Evaluatie hoofdstuk 4
+##### Artikel 6.3.7. Evaluatie hoofdstuk 4
 
 Onze Minister evalueert de werking van [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=4&z=2012-08-01&g=2012-08-01) na afloop van een periode van 5 jaren na het tijdstip van inwerkingtreding van dat hoofdstuk.
 
 ### Hoofdstuk 5A. Personeel
 
-#### Artikel 7.1. Inwerkingtreding
+##### Artikel 7.1. Inwerkingtreding
 
 1. Dit besluit treedt, met uitzondering van de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=2&z=2024-08-01&g=2024-08-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=3&z=2024-08-01&g=2024-08-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=4&z=2024-08-01&g=2024-08-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=5&z=2024-08-01&g=2024-08-01) voor zover het betreft de [artikelen 5.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=5&paragraaf=2&artikel=5.2.1&z=2024-08-01&g=2024-08-01), [5.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=5&paragraaf=2&artikel=5.2.2&z=2024-08-01&g=2024-08-01) en [5.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=5&paragraaf=2&artikel=5.2.4&z=2024-08-01&g=2024-08-01), en 6, in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.
 
@@ -643,7 +669,7 @@ Onze Minister evalueert de werking van [hoofdstuk 4](https://wetten.overheid.nl/
 
 2. De [artikelen 5.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=5&paragraaf=2&artikel=5.2.1&z=2024-08-01&g=2024-08-01), [5.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=5&paragraaf=2&artikel=5.2.2&z=2024-08-01&g=2024-08-01) en [5.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=5&paragraaf=2&artikel=5.2.4&z=2024-08-01&g=2024-08-01) van dit besluit treden in werking 12 maanden na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met dien verstande dat de formulieren ten aanzien van de gegevens inzake uitgereikte diploma's niet eerder van toepassing zijn dan over het kalenderjaar 2001 en de overige formulieren niet eerder dan over het studiejaar 2001–2002.
 
-#### Artikel 7.2. Citeertitel
+##### Artikel 7.2. Citeertitel
 
 Dit besluit wordt aangehaald als: Uitvoeringsbesluit WEB.
 
@@ -1348,7 +1374,7 @@ Het aantal deelnemers geaggregeerd naar het aantal certificaten.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 2.2.7. Indienen gegevens; vaststelling bekostigingsgegevens bij te late indiening
+##### Artikel 2.2.7. Indienen gegevens; vaststelling bekostigingsgegevens bij te late indiening
 
 Vervallen
 
@@ -1768,19 +1794,19 @@ De aanduiding of de werknemer in vast of tijdelijk dienstverband is (uitzendkrac
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 5a.1. Reikwijdte hoofdstuk 5a
+##### Artikel 5a.1. Reikwijdte hoofdstuk 5a
 
 De bepalingen van dit hoofdstuk hebben betrekking op instellingen als bedoeld in [artikel 1.1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) en instituten als bedoeld in [artikel 12.3.8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=12.3.8).
 
-#### Artikel 5a.2. Aanduiding belanghebbenden
+##### Artikel 5a.2. Aanduiding belanghebbenden
 
 Het personeel en het gewezen personeel van instellingen zijn in elk geval belanghebbende in de zin van dit hoofdstuk.
 
-#### Artikel 5a.3. Voorziening bij ontbreken rechtsopvolger
+##### Artikel 5a.3. Voorziening bij ontbreken rechtsopvolger
 
 Indien een instelling de taken beëindigt en een rechtsopvolger ontbreekt, waaronder tevens is begrepen het geval van een onherroepelijk vonnis tot faillietverklaring van de desbetreffende instelling, voorzien de bevoegde gezagsorganen van de overige instellingen er gezamenlijk in dat aan de verplichtingen jegens het personeel en het gewezen personeel die uit de wet- en regelgeving voortvloeien, wordt voldaan. De toepassing van de eerste volzin geschiedt met inachtneming van het bepaalde over vermindering van de rijksbijdrage in verband met de kosten van uitkeringen voor gewezen personeel van een instelling die de taken beëindigt in de ministeriële regeling op grond van [artikel 12.3.48 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=12.3.48).
 
-#### Artikel 5a.4. Maximum-salaris voorzitter college van bestuur en centrale directie
+##### Artikel 5a.4. Maximum-salaris voorzitter college van bestuur en centrale directie
 
 Vervallen
 
@@ -1942,7 +1968,7 @@ Het aantal deelnemers geaggregeerd naar het aantal certificaten.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 5a.1a. Begripsbepaling
+##### Artikel 5a.1a. Begripsbepaling
 
 Vervallen
 
@@ -2046,7 +2072,7 @@ Het jaar waarin het personeelslid geboren is.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 4.2.3a. Berekening rijksbijdragedeel exploitatiekosten kenniscentra voor de stabilisatiecomponent
+##### Artikel 4.2.3a. Berekening rijksbijdragedeel exploitatiekosten kenniscentra voor de stabilisatiecomponent
 
 1. Onze Minister berekent de rijksbijdrage voor de exploitatiekosten voor het kenniscentrum voor zover het betreft het gedeelte van het landelijk beschikbare budget dat is toegerekend aan de stabilisatiecomponent, op de wijze als bepaald in het tweede en derde lid.
 
@@ -2132,7 +2158,7 @@ Aantal FTE's is de totale betrekkingsomvang van alle geselecteerde personen met 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 4a.1. Begripsbepalingen studiesucces
+##### Artikel 4a.1. Begripsbepalingen studiesucces
 
 In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -2204,7 +2230,7 @@ Het aantal deelnemers geaggregeerd naar het behaalde resultaat.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 2.5.2a. Vermindering van de rijksbijdrage
+##### Artikel 2.5.2a. Vermindering van de rijksbijdrage
 
 Vervallen
 
@@ -2418,7 +2444,7 @@ Er is een tabel gedefinieerd die de kenniscentra beroepsonderwijs bedrijfsleven 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 2.6.1. Vermindering rijksbijdrage
+##### Artikel 2.6.1. Vermindering rijksbijdrage
 
 1. Onze Minister brengt op de rijksbijdrage voor een instelling voor een kalenderjaar een bedrag in mindering volgens de formule:
 
@@ -2478,39 +2504,39 @@ De aanduiding of de werknemer in vast of tijdelijk dienstverband is (uitzendkrac
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 4b.1.1. Reikwijdte hoofdstuk 4b
+##### Artikel 4b.1.1. Reikwijdte hoofdstuk 4b
 
 1. [Paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=4B&paragraaf=2&z=2024-08-01&g=2024-08-01) is van toepassing op personeel en gewezen personeel van een instelling als bedoeld in [artikel 1.1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) en personeel en gewezen personeel dat betrokken is onderscheidenlijk was bij een beroepsopleiding aan een instituut als bedoeld in [artikel 12.3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=12.3.8).
 
 2. [Paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=4B&paragraaf=3&z=2024-08-01&g=2024-08-01) is van toepassing op de gegevens van studenten die zijn ingeschreven of ingeschreven zijn geweest voor een beroepsopleiding aan een instelling als bedoeld in [artikel 1.1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) of een instituut als bedoeld in [artikel 12.3.8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=12.3.8).
 
-#### Artikel 4b.2.1. Burgerservicenummer personeel
+##### Artikel 4b.2.1. Burgerservicenummer personeel
 
 Het bevoegd gezag maakt gebruik van het burgerservicenummer van een lid van het personeel of gewezen personeel van de instelling bij de gegevensverstrekking, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=1&z=2024-08-01&g=2024-08-01) en [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=4&z=2024-08-01&g=2024-08-01) bij dit besluit.
 
-#### Artikel 4b.2.2. Wijze van verstrekking
+##### Artikel 4b.2.2. Wijze van verstrekking
 
 Vervallen
 
-#### Artikel 4b.2.3. Tijdstippen van verstrekking
+##### Artikel 4b.2.3. Tijdstippen van verstrekking
 
 Vervallen
 
-#### Artikel 4b.2.4. Verstrekking t.b.v. onderzoek door inspectie
+##### Artikel 4b.2.4. Verstrekking t.b.v. onderzoek door inspectie
 
 Vervallen
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 4b.3.1. Gegevens die de minister kan gebruiken
+##### Artikel 4b.3.1. Gegevens die de minister kan gebruiken
 
 Vervallen
 
-#### Artikel 4b.3.2. Wijze van raadpleging
+##### Artikel 4b.3.2. Wijze van raadpleging
 
 Vervallen
 
-#### Artikel 4b.3.3. Voorwaarden voor gebruik
+##### Artikel 4b.3.3. Voorwaarden voor gebruik
 
 Vervallen
 
@@ -2524,7 +2550,7 @@ Vervallen
 
 #### Paragraaf 2a. Kosten van werkloosheidsuitkeringen en suppleties inzake arbeidsongeschiktheid beroepsonderwijs en voortgezet algemeen volwassenenonderwijs
 
-#### Artikel 6.4.1. Afwijkende berekening uitkering educatie voor 2016 en 2017.
+##### Artikel 6.4.1. Afwijkende berekening uitkering educatie voor 2016 en 2017.
 
 1. Voor het kalenderjaar 2016 wordt de uitkering educatie die aan een college van burgemeester en wethouders van een contactgemeente van een regio wordt verstrekt, berekend door de uitkomst van de formule
 
@@ -2600,7 +2626,7 @@ Het aantal personen die met eenzelfde combinatie op de regel van het het formuli
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 5.2.5. Regeling controleprotocol
+##### Artikel 5.2.5. Regeling controleprotocol
 
 1. Bij ministeriële regeling worden regels vastgesteld voor de inrichting en de uitvoering van de controle door de accountant van de boekhouding, de jaarrekening en de administratie van de instellingen.
 
@@ -2684,15 +2710,15 @@ Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 2.7.1. Reikwijdte
+##### Artikel 2.7.1. Reikwijdte
 
 Vervallen
 
-#### Artikel 2.7.2. Bedragen leerlinggebonden financiering
+##### Artikel 2.7.2. Bedragen leerlinggebonden financiering
 
 Vervallen
 
-#### Artikel 2.7.3. Vergoeding regionaal expertisecentrum
+##### Artikel 2.7.3. Vergoeding regionaal expertisecentrum
 
 Vervallen
 
@@ -2730,7 +2756,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 2.6a.1. Vaststelling en verdeling rijksbijdragedeel
+##### Artikel 2.6a.1. Vaststelling en verdeling rijksbijdragedeel
 
 1. Onze Minister stelt jaarlijks het landelijk beschikbare budget vast ten behoeve van de kosten voor gehandicapte studenten.
 
@@ -2752,7 +2778,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 3.1.1. Reikwijdte [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=3&z=2024-08-01&g=2024-08-01)
+##### Artikel 3.1.1. Reikwijdte [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=3&z=2024-08-01&g=2024-08-01)
 
 Dit hoofdstuk heeft betrekking op opleidingen educatie als bedoeld in [artikel 7.3.1, eerste lid, onder b tot en met f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1).
 
@@ -2774,11 +2800,11 @@ Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 2a.1.1. Reikwijdte hoofdstuk 2a
+##### Artikel 2a.1.1. Reikwijdte hoofdstuk 2a
 
 Dit hoofdstuk is van toepassing op regionale opleidingscentra.
 
-#### Artikel 2a.1.2. Begripsbepalingen hoofdstuk 2a
+##### Artikel 2a.1.2. Begripsbepalingen hoofdstuk 2a
 
 In dit hoofdstuk wordt verstaan onder:
 
@@ -2786,11 +2812,11 @@ In dit hoofdstuk wordt verstaan onder:
 
 - b. diploma vavo: diploma als bedoeld in [artikel 7.4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.6) juncto [artikel 7.4.11, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.11).
 
-#### Artikel 2a.1.3. Vaststelling omvang landelijk beschikbaar budget voortgezet algemeen volwassenenonderwijs
+##### Artikel 2a.1.3. Vaststelling omvang landelijk beschikbaar budget voortgezet algemeen volwassenenonderwijs
 
 Binnen het raam van de door de begrotingswetgever voor het desbetreffende kalenderjaar beschikbaar gestelde middelen, stelt Onze Minister jaarlijks de omvang vast van het landelijk beschikbare budget voor de exploitatiekosten en huisvestingskosten voor het voortgezet algemeen volwassenenonderwijs.
 
-#### Artikel 2a.2.1. Berekening rijksbijdrage exploitatie- en huisvestingskosten vavo
+##### Artikel 2a.2.1. Berekening rijksbijdrage exploitatie- en huisvestingskosten vavo
 
 1. Onze Minister berekent de rijksbijdrage voor exploitatie- en huisvestingskosten vavo volgens de formule:
 
@@ -2821,13 +2847,13 @@ De uitkomst van de berekening wordt rekenkundig afgerond op hele euro’s.
 
 3. De op grond van het eerste en tweede lid berekende rijksbijdrage kan worden aangepast in verband met uit de rijksbegroting voortvloeiende maatregelen.
 
-#### Artikel 2a.2.2. Aangepaste berekening bij fusie van instellingen en splitsing van werkzaamheden
+##### Artikel 2a.2.2. Aangepaste berekening bij fusie van instellingen en splitsing van werkzaamheden
 
 1. In geval van fusie van instellingen betrekt Onze Minister bij de toepassing van [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=2A&paragraaf=2&z=2024-08-01&g=2024-08-01) de gegevens van de instellingen die in de gefuseerde instelling zijn opgegaan en berekent de bijdrage voor de gefuseerde instelling op basis van die gegevens.
 
 2. In geval van splitsing van instellingen betrekt Onze Minister bij de toepassing van [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=2A&paragraaf=2&z=2024-08-01&g=2024-08-01) de afspraken omtrent de toerekening van de gegevens aan elk van de instellingen die daarover door de betrokken bevoegde gezagsorganen zijn gemaakt, blijkend uit een door die bevoegde gezagsorganen aan Onze Minister overgelegde en ondertekende verklaring dienaangaande.
 
-#### Artikel 2a.2.3. Indienen gegevens; vaststelling bekostigingsgegevens bij te late indiening
+##### Artikel 2a.2.3. Indienen gegevens; vaststelling bekostigingsgegevens bij te late indiening
 
 1. De gegevens, bedoeld in de [artikelen 4, eerste lid, onderdelen c, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&artikel=4), [5, eerste lid, en derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&artikel=5), [6, vierde lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&artikel=6), en [7, vierde lid, van het Besluit register onderwijsdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&artikel=7), en de verklaring, bedoeld in [artikel 2.2a.4, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.2a.4), worden uiterlijk 1 juli van het jaar voorafgaand aan het bekostigingsjaar ingediend bij Onze Minister. Indien Onze Minister van een instelling de gegevens, bedoeld in de eerste volzin, niet uiterlijk 1 juli van het jaar voorafgaand aan het bekostigingsjaar, voorzien van een goedkeurende accountantsverklaring, heeft ontvangen en hierdoor niet tijdig over de gegevens kan beschikken, kan Onze Minister de hoogte van de rijksbijdrage voor deze instelling voor het desbetreffende kalenderjaar vaststellen conform de voorschriften in het tweede tot en met vierde lid.
 
@@ -2837,7 +2863,7 @@ De uitkomst van de berekening wordt rekenkundig afgerond op hele euro’s.
 
 4. Indien toepassing van [artikel 2a.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=2A&paragraaf=2&artikel=2a.2.1&z=2024-08-01&g=2024-08-01), met gebruikmaking van de gegevens, bedoeld in het derde lid, leidt tot een lagere rijksbijdrage dan vastgesteld op grond van het tweede lid, wordt die lagere rijksbijdrage vastgesteld. Gebruikmaking van de gegevens, bedoeld in het derde lid, leidt in geen geval tot een hogere rijksbijdrage dan vastgesteld op grond van het tweede lid.
 
-#### Artikel 2a.3.1. Vaststelling en verdeling rijksbijdragedeel
+##### Artikel 2a.3.1. Vaststelling en verdeling rijksbijdragedeel
 
 1. Onze minister stelt jaarlijks het landelijk beschikbare budget vast ten behoeve van de kosten voor gehandicapte vavo-studenten.
 
@@ -2867,7 +2893,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### Paragraaf 1. Algemene bepalingen en berekeningswijze
 
-#### Artikel 2b.1.1. Begripsbepalingen
+##### Artikel 2b.1.1. Begripsbepalingen
 
 In deze paragraaf wordt verstaan onder:
 
@@ -2875,7 +2901,7 @@ In deze paragraaf wordt verstaan onder:
 
 - b. **uitkeringskosten:** kosten van werkloosheidsuitkeringen alsmede uitkeringen wegens ziekte en arbeidsongeschiktheid van gewezen personeel anders dan op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), voortvloeiend uit een dienstbetrekking aan een instelling.
 
-#### Artikel 2b.1.2. Vaststelling en verdeling rijksbijdragedeel
+##### Artikel 2b.1.2. Vaststelling en verdeling rijksbijdragedeel
 
 1. Onze Minister stelt jaarlijks het landelijk beschikbare budget vast ten behoeve van uitkeringskosten voor het beroepsonderwijs en het voortgezet algemeen volwassenenonderwijs.
 
@@ -2893,11 +2919,11 @@ In deze paragraaf wordt verstaan onder:
 
 ### Hoofdstuk 5. Informatie
 
-#### Artikel 6.2a.1. Begripsbepaling
+##### Artikel 6.2a.1. Begripsbepaling
 
 Op deze paragraaf is [artikel 2b.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=2B&paragraaf=1&artikel=2b.1.1&z=2024-08-01&g=2024-08-01) van toepassing.
 
-#### Artikel 6.2a.2. Overgangsbepaling vaststelling en verdeling rijksbijdragedeel 2015–2016
+##### Artikel 6.2a.2. Overgangsbepaling vaststelling en verdeling rijksbijdragedeel 2015–2016
 
 1. Onze Minister verdeelt het voor het kalenderjaar 2015 respectievelijk 2016 vastgestelde budget ten behoeve van uitkeringskosten over de instellingen naar rato van de som van de voor een instelling:
 
@@ -2907,7 +2933,7 @@ Op deze paragraaf is [artikel 2b.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 2. De uitkomst van de berekening, bedoeld in het eerste lid, wordt rekenkundig afgerond op hele euro’s.
 
-#### Artikel 6.2a.3. Overgangsbepaling vaststelling en verdeling rijksbijdragedeel 2017–2018
+##### Artikel 6.2a.3. Overgangsbepaling vaststelling en verdeling rijksbijdragedeel 2017–2018
 
 1. Onze Minister verdeelt het voor het kalenderjaar 2017 respectievelijk 2018 vastgestelde budget ten behoeve van uitkeringskosten over de instellingen naar rato van de som van de voor een instelling:
 
@@ -2929,7 +2955,7 @@ Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 3.1.2. Begripsbepalingen [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=3&z=2024-08-01&g=2024-08-01)
+##### Artikel 3.1.2. Begripsbepalingen [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=3&z=2024-08-01&g=2024-08-01)
 
 In dit hoofdstuk wordt verstaan onder:
 
@@ -2959,7 +2985,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 #### Paragraaf 4. Overgangsrecht uitkering educatie voor de jaren 2016 en 2017
 
-#### Artikel 6.2.1*. Afwijkende berekening uitkering educatie voor 2016 en 2017.
+##### Artikel 6.2.1*. Afwijkende berekening uitkering educatie voor 2016 en 2017.
 
 1. Voor het kalenderjaar 2016 wordt de uitkering educatie die aan een college van burgemeester en wethouders van een contactgemeente van een regio wordt verstrekt, berekend door de uitkomst van de formule
 
@@ -2997,23 +3023,23 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 5.2.6. Nadere specificatie gegevens lerarenregister en registervoorportaal
+##### Artikel 5.2.6. Nadere specificatie gegevens lerarenregister en registervoorportaal
 
 Vervallen
 
-#### Artikel 5.2.7. Aanvullende gegevensverstrekking lerarenregister en registervoorportaal
+##### Artikel 5.2.7. Aanvullende gegevensverstrekking lerarenregister en registervoorportaal
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2024/14.
 
-#### Artikel 5.2.8. Nadere specificatie gegevensverstrekking lerarenregister en registervoorportaal
+##### Artikel 5.2.8. Nadere specificatie gegevensverstrekking lerarenregister en registervoorportaal
 
 Vervallen
 
-#### Artikel 5.2.9. Beschrijving gegevens lerarenregister en registervoorportaal
+##### Artikel 5.2.9. Beschrijving gegevens lerarenregister en registervoorportaal
 
 Vervallen
 
-#### Artikel 5.2.10. Wijze van levering gegevens lerarenregister en registervoorportaal
+##### Artikel 5.2.10. Wijze van levering gegevens lerarenregister en registervoorportaal
 
 Vervallen
 
@@ -3059,7 +3085,7 @@ Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 6.1.6. Overgangsbepaling 2019-2021 wijziging berekening rijksbijdrage in verband met afschaffing cascadebekostiging
+##### Artikel 6.1.6. Overgangsbepaling 2019-2021 wijziging berekening rijksbijdrage in verband met afschaffing cascadebekostiging
 
 1. Voor de berekening van de overgangsbekostiging beroepsonderwijs van een instelling wordt de rijksbijdrage voor een instelling voor het kalenderjaar 2019, berekend op grond van de [artikelen 2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=2&paragraaf=2&artikel=2.2.2&z=2024-08-01&g=2024-08-01), [2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=2&paragraaf=2&artikel=2.2.3&z=2024-08-01&g=2024-08-01) en [2.6a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=2&paragraaf=6a&artikel=2.6a.1&z=2024-08-01&g=2024-08-01) zoals die artikelen luiden na inwerkingtreding van artikel I, onderdelen B en C, van het besluit van 12 juli 2018 tot wijziging van het Uitvoeringsbesluit WEB met name in verband met het afschaffen van de cascadebekostiging (Stb. 2018, 261), vergeleken met de rijksbijdrage voor beroepsonderwijs zoals die voor het kalenderjaar 2019 zou zijn vastgesteld volgens de berekeningswijze op grond van de artikelen 2.2.2, 2.2.3 en 2.6a.1 zoals deze luidden op de dag voorafgaand aan die inwerkingtreding.
 
@@ -3071,7 +3097,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 5. Indien een instelling voor het kalenderjaar 2019 een aanvulling ontvangt op grond van het derde lid, ontvangt die instelling voor de kalenderjaren 2020 en 2021 50% respectievelijk 25% van het verschil, bedoeld in het derde lid. De uitkomst van de berekening wordt rekenkundig afgerond op hele euro’s.
 
-#### Artikel 6.1.7. Overgangsbepaling vaststelling bekostigingsgegevens bij te late indiening bekostiging 2019 en overgangsbekostiging 2019-2021
+##### Artikel 6.1.7. Overgangsbepaling vaststelling bekostigingsgegevens bij te late indiening bekostiging 2019 en overgangsbekostiging 2019-2021
 
 1. Indien een instelling de gegevens en de verklaring, bedoeld in [artikel 2.2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=2&paragraaf=2&artikel=2.2.5&z=2024-08-01&g=2024-08-01), ten behoeve van de bekostiging voor het kalenderjaar 2019 niet tijdig indient, kan Onze Minister, in afwijking van artikel 2.2.5, de rijksbijdrage voor het kalenderjaar 2019 en, in afwijking van [artikel 6.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=6&paragraaf=1&artikel=6.1.6&z=2024-08-01&g=2024-08-01) de overgangsbekostiging voor de kalenderjaren 2019, 2020 en 2022 voor deze instelling voorlopig vaststellen met gebruik van de gegevens van het kalenderjaar 2016, respectievelijk het studiejaar 2016-2017.
 
@@ -3083,7 +3109,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### Paragraaf 2a. Kosten van werkloosheidsuitkeringen en suppleties inzake arbeidsongeschiktheid beroepsonderwijs en voortgezet algemeen volwassenenonderwijs
 
-#### Artikel 6.2a.4. Overgangsbepaling vaststelling en verdeling rijksbijdragedeel 2019-2021
+##### Artikel 6.2a.4. Overgangsbepaling vaststelling en verdeling rijksbijdragedeel 2019-2021
 
 1. Onze Minister verdeelt het voor het kalenderjaar 2019, 2020 respectievelijk 2021 vastgestelde budget ten behoeve van de uitkeringskosten over de instellingen naar rato van de som van de voor een instelling:
 
@@ -3125,7 +3151,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### Paragraaf 3. Verticale scholengemeenschappen
 
-#### Artikel 7.a1. Omhangbepaling
+##### Artikel 7.a1. Omhangbepaling
 
 Vervallen
 
@@ -3155,11 +3181,11 @@ Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 1.1. Begripsbepalingen
+##### Artikel 1.1. Begripsbepalingen
 
 - **wet:** [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625).
 
-#### Artikel 1.2. Uitbreiding grondslag
+##### Artikel 1.2. Uitbreiding grondslag
 
 Dit besluit berust mede op de [artikelen 2.6.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.6.2), [2.6.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.6.3) en [6.1.4b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.4b).
 
@@ -3177,7 +3203,7 @@ Dit besluit berust mede op de [artikelen 2.6.2, eerste lid](https://wetten.overh
 
 ### Hoofdstuk 4. Verticale scholengemeenschappen
 
-#### Artikel 4a.2. Maatstaven studiesucces bekostigd mbo 2-3-4
+##### Artikel 4a.2. Maatstaven studiesucces bekostigd mbo 2-3-4
 
 1. Het studiesucces van een bekostigde beroepsopleiding, bedoeld in [artikel 6.1.4b, eerste lid, aanhef, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.4b), wordt gemeten en beoordeeld aan de hand van de volgende indicatoren:
 
@@ -3189,11 +3215,11 @@ Dit besluit berust mede op de [artikelen 2.6.2, eerste lid](https://wetten.overh
 
 2. Het eerste lid is niet van toepassing op een entreeopleiding.
 
-#### Artikel 4a.3. Grondslag voor uitvoeringsregels
+##### Artikel 4a.3. Grondslag voor uitvoeringsregels
 
 Bij ministeriële regeling worden regels vastgesteld ter uitvoering van dit hoofdstuk, waaronder de berekeningswijze voor het meten van studiesucces en de normering voor het beoordelen van studiesucces voor beroepsopleidingen op niveau 2, 3 of 4.
 
-#### Artikel 4a.4. Beoordeling studiesucces bekostigd mbo 2-3-4
+##### Artikel 4a.4. Beoordeling studiesucces bekostigd mbo 2-3-4
 
 Een beroepsopleiding heeft voldoende studiesucces indien wordt voldaan aan de bij ministeriële regeling bepaalde norm voor ten minste twee van de in [artikel 4a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=4A&artikel=4a.2&z=2024-08-01&g=2024-08-01), genoemde indicatoren.
 
@@ -3221,7 +3247,7 @@ Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 6.1.8. Overgangsbepaling vermindering rijksbijdrage beroepsonderwijs in verband met normatieve inhouding cursusgelden studiejaar 2023–2024
+##### Artikel 6.1.8. Overgangsbepaling vermindering rijksbijdrage beroepsonderwijs in verband met normatieve inhouding cursusgelden studiejaar 2023–2024
 
 1. Bij de vermindering van de rijksbijdrage, bedoeld in [artikel 2.6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=2&paragraaf=6&artikel=2.6.1&z=2024-08-01&g=2024-08-01), wordt voor het kalenderjaar 2024 voor de omvang van het cursusgeld, in afwijking van het in artikel 2.6.1 bepaalde omtrent DC1 en DC2, uitgegaan van [artikel 17 van het Uitvoeringsbesluit Les- en cursusgeldwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&artikel=17) zoals dit artikel luidt op 1 januari 2024, en niet van [artikel 15 van het Uitvoeringsbesluit Les- en cursusgeldwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&artikel=15).
 
@@ -3235,7 +3261,7 @@ Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 6.1.9. Overgangsbepaling bij te late indiening bekostigingsgegevens 2025
+##### Artikel 6.1.9. Overgangsbepaling bij te late indiening bekostigingsgegevens 2025
 
 1. Indien een instelling de gegevens en de verklaring, bedoeld in [artikel 2.2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=2&paragraaf=2&artikel=2.2.5&z=2024-08-01&g=2024-08-01), ten behoeve van de bekostiging voor het kalenderjaar 2025 niet tijdig indient, kan Onze Minister, in afwijking van artikel 2.2.5, tweede lid, de rijksbijdrage voor het kalenderjaar 2025 voor deze instelling voorlopig vaststellen met gebruik van de voorlopige gegevens van het kalenderjaar 2025.
 

@@ -1,32 +1,57 @@
 ---
 title: "Beleidsregel gevolmachtigde CZ Zorgkantoor"
 identifier: "BWBR0050254"
-categorie: "Sociaal recht"
-publicatiedatum: 2024-10-01
-laatste_update: 2024-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050254"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-10-01"
+last_updated: "2024-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050254"
+soort: "zbo"
+stam_id: "17232303"
+version_id: "30350222"
+internal_id: "C43529261"
+label_id: "17138004"
+dtd_version: "2.0"
+original_entry_into_force: "2024-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050254/2024-10-01/0"
+intitule_bron: "Stcrt.2024-31164"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-09-16"
+intitule_published: "2024-10-01"
+intitule_in_force: "2024-10-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-31164"
+original_signed_date: "2024-09-16"
+original_published_date: "2024-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-31164"
+entry_into_force_date: "2024-10-01"
+jci_1_3: "jci1.3:c:BWBR0050254&z=2024-10-01&g=2024-10-01"
+jci_1_0: "1.0:c:BWBR0050254&g=2024-10-01"
+citeertitel_status: "officieel"
+signed_date: "2024-09-16"
+entry_into_force: "2024-10-01"
 ---
-
 # Beleidsregel gevolmachtigde CZ Zorgkantoor
 
 Gelet op [artikel 5.11 Rlz](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&artikel=5.11) en de daarin besloten bevoegdheid om te beoordelen of een gevolmachtigde namens een Wlz-verzekerde het pgb-beheer op zich mag nemen,
 
 besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 CZ Zorgkantoor hanteert beleidsregels bij het beoordelen of een gevolmachtigde voldoende waarborg biedt ten aanzien van de nakoming van verplichtingen bij het pgb. Deze beleidsregel is opgenomen in hoofdstuk 1 en 2 bij dit besluit.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van 1 juli 2024.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit wordt aangehaald als: beleidsregel gevolmachtigde CZ Zorgkantoor.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit wordt met de beleidsregel in de Staatscourant geplaatst.
 

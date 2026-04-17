@@ -1,13 +1,37 @@
 ---
 title: "Overeenkomst inzake zeevervoer tussen de Europese Gemeenschap en haar lidstaten enerzijds en de Regering van de Volksrepubliek China anderzijds"
 identifier: "BWBV0001596"
-categorie: "Internationaal recht"
-publicatiedatum: 2008-03-01
-laatste_update: 2008-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001596"
+country: "nl"
+rank: "verdrag"
+publication_date: "2008-03-01"
+last_updated: "2008-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001596"
+soort: "verdrag"
+stam_id: "10000055413"
+version_id: "10000055642"
+internal_id: "C10006992781"
+label_id: "10000055614"
+original_entry_into_force: "2008-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001596/2008-03-01/0"
+intitule_bron: "Trb.2003-6 HERDRUK"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-07-11"
+intitule_published: "2003-01-10"
+intitule_in_force: "2009-06-19"
+intitule_status: "goed"
+original_publication: "Trb.2003-6 HERDRUK"
+original_signed_date: "2003-07-11"
+original_published_date: "2003-01-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2003-6 HERDRUK"
+entry_into_force_date: "2008-03-01"
+jci_1_3: "jci1.3:c:BWBV0001596&z=2008-03-01&g=2008-03-01"
+jci_1_0: "1.0:c:BWBV0001596&g=2008-03-01"
+citeertitel_status: "officieel"
+signed_date: "2003-07-11"
+entry_into_force: "2008-03-01"
 ---
-
 # Overeenkomst inzake zeevervoer tussen de Europese Gemeenschap en haar lidstaten enerzijds en de Regering van de Volksrepubliek China anderzijds
 
 Het Koninkrijk België,
@@ -112,11 +136,11 @@ Die, na overlegging van hun in goede en behoorlijke vorm bevonden volmachten,
 
 Als volgt zijn overeengekomen:
 
-#### Artikel 1. Doel
+##### Artikel 1. Doel
 
 Deze overeenkomst heeft tot doel ten bate van de economische subjecten van de partijen de omstandigheden te verbeteren waaronder het goederenvervoer over zee naar en van China, naar en van de Gemeenschap en naar en van de Europese Gemeenschap en China enerzijds en derde landen anderzijds plaatsvindt. Zij is gebaseerd op de beginselen van vrijheid om zeevervoersdiensten te verlenen, vrije toegang tot lading en cross trade en onbeperkte toegang tot en niet-discriminerende behandeling bij het gebruik van havens en ondersteunende diensten en wat commerciële aanwezigheid betreft. Bovendien worden in de overeenkomst alle aspecten van deur-tot-deur-diensten behandeld.
 
-#### Artikel 2. Werkingssfeer
+##### Artikel 2. Werkingssfeer
 
 1. Deze overeenkomst is van toepassing op internationale zeevervoersdiensten en logistieke diensten, met inbegrip van multimodale diensten waarvan een traject over zee deel uitmaakt, tussen de havens van China en die van de lidstaten alsmede internationaal goederenvervoer over zee tussen de havens van de lidstaten van de Gemeenschap. De overeenkomst is tevens van toepassing op cross trade en het verkeer van materieel, zoals lege containers, dat niet tegen betaling als vracht wordt vervoerd tussen havens van China of havens van een lidstaat van de Gemeenschap.
 
@@ -128,7 +152,7 @@ Deze overeenkomst is niet van toepassing op binnenlands vervoer tussen de havens
 
 3. Deze overeenkomst laat het recht van schepen van derde landen om vracht en passagiers te vervoeren tussen de havens van de partijen of tussen de havens van een van beide partijen en een derde land onverlet.
 
-#### Artikel 3. Definities
+##### Artikel 3. Definities
 
 In deze overeenkomst wordt verstaan onder:
 
@@ -160,7 +184,7 @@ In deze overeenkomst wordt verstaan onder:
 
 - i. „Schip”: elk koopvaardijschip dat overeenkomstig de wetten van China of de Gemeenschap of haar lidstaten is geregistreerd in het scheepsregister van een van beide partijen, dat onder de nationale vlag van die partij vaart en wordt gebruikt voor internationaal zeevervoer, alsmede schepen die onder de vlag van een derde land varen, maar eigendom zijn van of worden geëxploiteerd door een scheepvaartmaatschappij uit China of een lidstaat van de Gemeenschap. Deze term omvat geen oorlogsschepen of andere niet-commerciële schepen.
 
-#### Artikel 4. Dienstverlening
+##### Artikel 4. Dienstverlening
 
 1. Iedere partij blijft schepen die onder de vlag van de andere partij varen of door onderdanen of maatschappijen van de andere partij worden geëxploiteerd, wat betreft toegang tot havens, gebruik van infrastructuur en ondersteunende maritieme diensten van die havens, alsmede bijbehorende vergoedingen en heffingen, douaneformaliteiten en toewijzing van aanlegplaatsen en laad- en losfaciliteiten, behandelen op een wijze die, vergeleken met de behandeling die haar eigen schepen krijgen, niet-discriminerend is.
 
@@ -176,7 +200,7 @@ In deze overeenkomst wordt verstaan onder:
 
 4. De ene partij staat scheepvaartmaatschappijen van de andere partij toe om, op niet-discriminerende grondslag en op tussen de betrokken maatschappijen overeengekomen voorwaarden, toegang te hebben tot en gebruik te maken van feeder services van in de eerstgenoemde partij geregistreerde scheepvaartmaatschappijen voor het vervoer van internationale vracht tussen de havens van China of tussen de havens van een lidstaat van de Gemeenschap.
 
-#### Artikel 5. Commerciële aanwezigheid
+##### Artikel 5. Commerciële aanwezigheid
 
 In verband met de levering van internationale zeevervoersdiensten en logistieke diensten, met inbegrip van multimodale diensten van deur tot deur, staat iedere partij de scheepvaartmaatschappijen van de andere partij toe om overeenkomstig haar wettelijke en bestuursrechtelijke bepalingen dochtermaatschappijen, filialen of agentschappen te vestigen die geheel hun eigendom zijn of waarin gezamenlijk is geïnvesteerd en, wat dochtermaatschappijen en filialen betreft, economische activiteiten te ontplooien. Deze activiteiten omvatten, zonder daartoe beperkt te zijn:
 
@@ -200,7 +224,7 @@ In verband met de levering van internationale zeevervoersdiensten en logistieke 
 
 - 10. opzetten van joint ventures met iedere lokaal gevestigde scheepsagent om deel te nemen aan zaken die deze doet, zoals het organiseren van het aanlopen van de schepen, of het in ontvangst nemen van te verzenden vracht.
 
-#### Artikel 6. Transparantie
+##### Artikel 6. Transparantie
 
 1. Iedere partij maakt na voorafgaand overleg en passende voorafgaande kennisgeving onverwijld alle relevante maatregelen van algemene strekking die betrekking hebben op of gevolgen hebben voor de uitvoering van deze overeenkomst, bekend.
 
@@ -208,7 +232,7 @@ In verband met de levering van internationale zeevervoersdiensten en logistieke 
 
 3. Iedere partij reageert onverwijld op alle verzoeken van de andere partij om specifieke informatie over elke door haar getroffen maatregel van algemene strekking als bedoeld in lid 1.
 
-#### Artikel 7. Interne regelgeving
+##### Artikel 7. Interne regelgeving
 
 1. De partijen dragen ervoor zorg dat alle maatregelen van algemene strekking die gevolgen hebben voor de handel in internationale zeevervoersdiensten op redelijke, objectieve en onpartijdige wijze worden beheerd.
 
@@ -216,17 +240,17 @@ In verband met de levering van internationale zeevervoersdiensten en logistieke 
 
 3. Om zeker te stellen dat maatregelen in verband met technische normen en vergunningsvoorschriften en -procedures geen nodeloze handelsbelemmeringen vormen, worden voorschriften gebaseerd op objectieve, niet-discriminerende, van tevoren vastgestelde en transparante criteria, zoals het vermogen om de dienst te leveren, en mogen in geval van vergunningsprocedures de voorschriften als zodanig geen beperking of belemmering voor de levering van de dienst inhouden.
 
-#### Artikel 8. Kaderpersoneel
+##### Artikel 8. Kaderpersoneel
 
 De dochtermaatschappijen, filialen of agentschappen die geheel het eigendom zijn van of waarin gezamenlijk is geïnvesteerd door de scheepvaartmaatschappijen van de ene partij en die zijn gevestigd in de andere partij, hebben het recht overeenkomstig het vigerende recht van het gastland kaderpersoneel aan te nemen ongeacht de nationaliteit daarvan. Ieder partij vergemakkelijkt het verkrijgen van werkvergunningen en visa's voor buitenlandse werknemers.
 
-#### Artikel 9. Betalingen en kapitaalverkeer
+##### Artikel 9. Betalingen en kapitaalverkeer
 
 1. Inkomsten van onderdanen of maatschappijen van de ene partij uit internationaal zeevervoer en multimodaal vervoer in de andere partij mogen worden afgerekend in vrij inwisselbare valuta.
 
 2. De inkomsten en uitgaven van de economische activiteiten van de dochtermaatschappijen, filialen en agentschappen van scheepvaartmaatschappijen van de ene partij, die zijn gevestigd in de andere partij, mogen worden afgerekend in de valuta van het gastland. Het saldo van de betaling van de plaatselijke vergoedingen door genoemde scheepvaartmaatschappijen, dochtermaatschappijen, filialen en agentschappen mag vrij naar het buitenland worden overgeboekt tegen de wisselkoers van de bank op de datum van overboeking.
 
-#### Artikel 10. Maritieme samenwerking
+##### Artikel 10. Maritieme samenwerking
 
 Ter bevordering van de maritieme industrie van de partijen moedigen de partijen hun bevoegde instanties, scheepvaartmaatschappijen, havens, onderzoekinstellingen, universiteiten en hogescholen aan om samen te werken op onder meer de volgende gebieden, zonder zich daartoe te beperken:
 
@@ -244,25 +268,25 @@ Ter bevordering van de maritieme industrie van de partijen moedigen de partijen 
 
 - 7. uitbreiden van hun inspanningen om piraterij en terrorisme te bestrijden.
 
-#### Artikel 11. Overleg en beslechting van geschillen
+##### Artikel 11. Overleg en beslechting van geschillen
 
 1. De partijen werken de nodige procedures uit om de goede tenuitvoerlegging van de overeenkomst te waarborgen.
 
 2. Ingeval tussen de partijen een geschil mocht ontstaan in verband met de interpretatie of toepassing van deze overeenkomst, trachten de bevoegde instanties van de partijen dit geschil in der minne te schikken. Wanneer geen overeenstemming wordt bereikt, wordt het geschil langs diplomatieke weg beslecht.
 
-#### Artikel 12. Wijziging
+##### Artikel 12. Wijziging
 
 Deze overeenkomst kan bij schriftelijke overeenkomst tussen de partijen worden gewijzigd. De wijziging wordt van kracht volgens de procedures van [artikel 15, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001596&artikel=15&z=2008-03-01&g=2008-03-01).
 
-#### Artikel 13. Territoriale toepassing
+##### Artikel 13. Territoriale toepassing
 
 Deze overeenkomst is van toepassing, enerzijds, op de gebieden waar het [Verdrag tot oprichting van de Europese Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) van toepassing is en onder de in [dat Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) neergelegde voorwaarden, en, anderzijds, op het grondgebied van China.
 
-#### Artikel 14. Authentieke tekst
+##### Artikel 14. Authentieke tekst
 
 Deze overeenkomst is opgesteld in twee exemplaren in de Deense, de Duitse, de Engelse, de Finse, de Franse, de Griekse, de Italiaanse, de Nederlandse, de Portugese, de Spaanse, de Zweedse en de Chinese taal, zijnde alle teksten gelijkelijk authentiek.
 
-#### Artikel 15. Looptijd en inwerkingtreding
+##### Artikel 15. Looptijd en inwerkingtreding
 
 1. De overeenkomst wordt gesloten voor een periode van vijf jaar. Zij wordt vervolgens jaarlijks stilzwijgend verlengd, tenzij een der partijen de overeenkomst zes maanden voor de einddatum schriftelijk opzegt.
 

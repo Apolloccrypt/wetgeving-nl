@@ -1,20 +1,46 @@
 ---
-title: "Instellingsbesluit Programmaraad Onderwijsregio’s"
+title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 4 maart 2024, nr. 1502262, houdende instelling van een Programmaraad Onderwijsregio’s (Instellingsbesluit Programmaraad Onderwijsregio’s)"
 identifier: "BWBR0049534"
-categorie: "Onderwijs"
-publicatiedatum: 2026-01-06
-laatste_update: 2026-01-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049534"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-06"
+last_updated: "2026-01-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049534"
+soort: "ministeriele-regeling"
+stam_id: "17065543"
+version_id: "30032622"
+internal_id: "C43046531"
+label_id: "16974354"
+dtd_version: "2.0"
+original_entry_into_force: "2024-04-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049534/2026-01-06/0"
+intitule_bron: "Stcrt.2024-7684"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-03-04"
+intitule_published: "2024-04-05"
+intitule_in_force: "2024-04-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-7684"
+original_signed_date: "2024-03-04"
+original_published_date: "2024-04-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-7684"
+entry_into_force_date: "2024-04-06"
+jci_1_3: "jci1.3:c:BWBR0049534&z=2026-01-06&g=2026-01-06"
+jci_1_0: "1.0:c:BWBR0049534&g=2026-01-06"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Programmaraad Onderwijsregio’s"
+signed_date: "2024-03-04"
+entry_into_force: "2024-04-06"
 ---
-
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 4 maart 2024, nr. 1502262, houdende instelling van een Programmaraad Onderwijsregio’s (Instellingsbesluit Programmaraad Onderwijsregio’s)
 
 Gelet op [artikel 2 van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -26,7 +52,7 @@ In dit besluit wordt verstaan onder:
 
 - d. **BO-Leraren:** Bestuurlijk Overleg Lerarenstrategie.
 
-#### Artikel 2. Instelling en taak
+##### Artikel 2. Instelling en taak
 
 1. Er is een commissie, genaamd de Programmaraad Onderwijsregio’s.
 
@@ -48,7 +74,7 @@ In dit besluit wordt verstaan onder:
 
 7. De leden van de commissie zijn te consulteren door de minister in verband met de verplichtingen en afspraken die voortvloeien uit de in dit artikel genoemde taken van de commissie.
 
-#### Artikel 3. Samenstelling, benoeming, ontslag
+##### Artikel 3. Samenstelling, benoeming, ontslag
 
 1. De commissie bestaat uit een voorzitter en maximaal 13 andere leden.
 
@@ -62,15 +88,15 @@ In dit besluit wordt verstaan onder:
 
 6. De voorzitter en overige leden kunnen worden geschorst en ontslagen door de minister.
 
-#### Artikel 4. Instellingsduur
+##### Artikel 4. Instellingsduur
 
 De commissie wordt ingesteld met ingang van 1 februari 2024 tot 1 januari 2028.
 
-#### Artikel 5. Voorzitter commissie
+##### Artikel 5. Voorzitter commissie
 
 Met ingang van 1 februari 2024 wordt tot voorzitter benoemd: Chris van Meurs.
 
-#### Artikel 6. Leden commissie
+##### Artikel 6. Leden commissie
 
 1. Met ingang van 1 februari 2024 zijn tot lid van de commissie benoemd:
 
@@ -104,7 +130,7 @@ Met ingang van 1 februari 2024 wordt tot voorzitter benoemd: Chris van Meurs.
 
 3. De minister kan (al dan niet op voordracht) meer leden benoemen als gewijzigde omstandigheden daar aanleiding toe geven dan wel daar vanuit de commissie gemotiveerd om wordt verzocht.
 
-#### Artikel 7. Secretariaat
+##### Artikel 7. Secretariaat
 
 1. De commissie wordt ondersteund door een secretariaat dat wordt verzorgd door de Realisatie Eenheid.
 
@@ -112,49 +138,49 @@ Met ingang van 1 februari 2024 wordt tot voorzitter benoemd: Chris van Meurs.
 
 3. In het secretariaat wordt verder voorzien door de minister middels de Realisatie Eenheid. Zij zorgt voor de nodige voorzieningen ten behoeve van de werkzaamheden.
 
-#### Artikel 8. Werkwijze
+##### Artikel 8. Werkwijze
 
 1. De commissie stelt in afstemming met de Realisatie-Eenheid haar eigen werkwijze vast.
 
 2. De commissie kan zich, na toestemming van de minister, door andere personen doen bijstaan voor zover dat voor de vervulling van haar taak nodig is.
 
-#### Artikel 9. Informatieplicht
+##### Artikel 9. Informatieplicht
 
 De commissie verstrekt aan de minister desgevraagd de door hem gewenste inlichtingen. De minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is. De leden van het BO-Leraren kunnen gegevens opvragen via dat overleg.
 
-#### Artikel 10. Evaluatierapport
+##### Artikel 10. Evaluatierapport
 
 De commissie brengt uiterlijk 1 december 2027 zijn evaluatierapport op aan de minister.
 
-#### Artikel 11. Vergoeding
+##### Artikel 11. Vergoeding
 
 1. De voorzitter komt niet in dienst van het rijk, maar aan hem wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op het maximum van schaal 18 van de laatstelijk afgesloten collectieve arbeidsovereenkomst (CAO) voor rijksambtenaren en een arbeidsduurfactor van 10 uur per week. Met ingang van 1 september 2025 wordt de arbeidsduurfactor vastgesteld op 6 uur per week.
 
 2. De voorzitter en leden ontvangen een vergoeding van reis- en verblijfkosten overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren. Deze vergoeding wordt door het secretariaat afgehandeld.
 
-#### Artikel 12. Kosten van de commissie
+##### Artikel 12. Kosten van de commissie
 
 De kosten van de commissie komen, voor zover goedgekeurd, voor rekening van de minister. Onder kosten worden in ieder geval verstaan de kosten voor de faciliteiten van vergaderingen en voor secretariële ondersteuning. De opdrachten worden door het secretariaat afgehandeld.
 
-#### Artikel 13. Verantwoording
+##### Artikel 13. Verantwoording
 
 De commissie biedt de minister vóór 1 december 2027 door tussenkomst van de Realisatie-Eenheid een (eind)verslag aan waarin verslag wordt gedaan van de activiteiten van de periode waarin de commissie werkzaam is geweest.
 
-#### Artikel 14. Openbaarmaking
+##### Artikel 14. Openbaarmaking
 
 Rapporten, notities, verslagen, adviezen en andere producten die door of namens de commissie worden vervaardigd of vergaard, worden niet door de commissie openbaar gemaakt, maar uitsluitend aan de minister en betrokkenen binnen het BO-Leraren uitgebracht.
 
-#### Artikel 15. Archiefbescheiden
+##### Artikel 15. Archiefbescheiden
 
 De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden of, zo de omstandigheden daartoe aanleiding geven, zoveel eerder, de bescheiden betreffende die werkzaamheden over aan het archief van het Ministerie van Onderwijs, Cultuur en Wetenschap. Het secretariaat zorgt hierbij voor de noodzakelijke ondersteuning.
 
-#### Artikel 16. Inwerkingtreding
+##### Artikel 16. Inwerkingtreding
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant, waarin het wordt geplaatst.
 
 2. Dit besluit vervalt per 1 januari 2030.
 
-#### Artikel 17. Citeertitel
+##### Artikel 17. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Programmaraad Onderwijsregio’s.
 

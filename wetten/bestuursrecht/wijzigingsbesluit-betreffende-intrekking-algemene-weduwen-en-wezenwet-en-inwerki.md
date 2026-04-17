@@ -1,13 +1,39 @@
 ---
-title: "Wijzigingsbesluit betreffende intrekking Algemene Weduwen- en Wezenwet en inwerkingtreding Algemene nabestaandenwet"
+title: "Besluit van 23 juli 1996, houdende wijziging van een aantal algemene maatregelen van bestuur in verband met de intrekking van de Algemene Weduwen- en Wezenwet en de inwerkingtreding van de Algemene nabestaandenwet"
 identifier: "BWBR0008191"
-categorie: "Bestuursrecht"
-publicatiedatum: 1996-08-16
-laatste_update: 1996-08-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008191"
+country: "nl"
+rank: "amvb"
+publication_date: "1996-08-16"
+last_updated: "1996-08-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008191"
+soort: "AMvB"
+stam_id: "142303"
+version_id: "195542"
+internal_id: "C195541"
+label_id: "141684"
+dtd_version: "2.0"
+original_entry_into_force: "1996-08-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008191/1996-08-16/0"
+intitule_bron: "Stb.1996-418"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-07-23"
+intitule_published: "1996-08-15"
+intitule_in_force: "1996-08-15"
+intitule_status: "goed"
+original_publication: "Stb.1996-418"
+original_signed_date: "1996-07-23"
+original_published_date: "1996-08-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-1996-418"
+entry_into_force_date: "1996-08-16"
+jci_1_3: "jci1.3:c:BWBR0008191&z=1996-08-16&g=1996-08-16"
+jci_1_0: "1.0:c:BWBR0008191&g=1996-08-16"
+citeertitel_status: "officieel"
+short_title: "Wijzigingsbesluit betreffende intrekking Algemene Weduwen- en Wezenwet en inwerkingtreding Algemene nabestaandenwet"
+signed_date: "1996-07-23"
+entry_into_force: "1996-08-16"
 ---
-
 # Besluit van 23 juli 1996, houdende wijziging van een aantal algemene maatregelen van bestuur in verband met de intrekking van de Algemene Weduwen- en Wezenwet en de inwerkingtreding van de Algemene nabestaandenwet
 
 Op de voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, van 22 mei 1996, nr. SV/VP/96/1993a;
@@ -22,91 +48,91 @@ Hebben goedgevonden en verstaan:
 
 Werkt terug tot en met 1 juli 1996.
 
-#### ARTIKEL I
+##### ARTIKEL I
 
 Wijzigt het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1989.
 
-#### ARTIKEL II
+##### ARTIKEL II
 
 Wijzigt het Besluit beslistermijnen sociale verzekeringswetten.
 
-#### ARTIKEL III
+##### ARTIKEL III
 
 Wijzigt het Besluit vrijwillige verzekering AOW, AWW en AAW.
 
-#### ARTIKEL IV
+##### ARTIKEL IV
 
 Wijzigt het Inkomensbesluit Toeslagenwet.
 
-#### ARTIKEL V
+##### ARTIKEL V
 
 Wijzigt het Inkomensbesluit IOAW.
 
-#### ARTIKEL VI
+##### ARTIKEL VI
 
 Wijzigt het Besluit aanvulling arbeidsongeschiktheidsuitkering.
 
-#### ARTIKEL VII
+##### ARTIKEL VII
 
 Wijzigt het Besluit beperking kring verzekerden Ziekenfondswet.
 
-#### ARTIKEL VIII
+##### ARTIKEL VIII
 
 Wijzigt het Besluit ex artikel 11 Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers.
 
-#### ARTIKEL IX
+##### ARTIKEL IX
 
 Wijzigt het Besluit tot uitvoering van artikel 12 der Wet buitengewoon pensioen 1940–1945.
 
-#### ARTIKEL X
+##### ARTIKEL X
 
 Wijzigt het Besluit gewetensbezwaren militaire dienst.
 
-#### ARTIKEL XI
+##### ARTIKEL XI
 
 Wijzigt het Besluit vaststelling rekenpremie wachtgeldfondsen.
 
-#### ARTIKEL XII
+##### ARTIKEL XII
 
 Wijzigt het Besluit vergoedingen rechtsbijstand 1994.
 
-#### ARTIKEL XIII
+##### ARTIKEL XIII
 
 Wijzigt het Inkomensbesluit AAW.
 
-#### ARTIKEL XIV
+##### ARTIKEL XIV
 
 Wijzigt het Rechtspositiebesluit gedeputeerden.
 
-#### ARTIKEL XV
+##### ARTIKEL XV
 
 Wijzigt het Rechtspositiebesluit wethouders .
 
-#### ARTIKEL XVI
+##### ARTIKEL XVI
 
 Wijzigt het Remigratieregeling 1985 .
 
-#### ARTIKEL XVII
+##### ARTIKEL XVII
 
 Wijzigt het Uitvoeringsbesluit inkomstenbelasting 1964 .
 
-#### ARTIKEL XVIII
+##### ARTIKEL XVIII
 
 Wijzigt het Uitvoeringsbesluit inkomstenbelasting 1964 .
 
-#### ARTIKEL XIX
+##### ARTIKEL XIX
 
 Voor de toepassing van artikel 3a, vierde lid, onderdeel **a** van het symbool W, van het Uitvoeringsbesluit inkomstenbelasting 1964 dient voor de periode 1 juli 1996 tot en met 31 december 1996 in plaats van «aan het begin van het kalenderjaar» te worden gelezen «op 1 juli 1996».
 
-#### ARTIKEL XX
+##### ARTIKEL XX
 
 Wijzigt het Toeslagregeling pensioenen Suriname en Nederlandse Antillen.
 
-#### ARTIKEL XXI
+##### ARTIKEL XXI
 
 Wijzigt het Aanwijzingsbesluit verplichtverzekerden Ziekenfondswet.
 
-#### ARTIKEL XXII
+##### ARTIKEL XXII
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 juli 1996.
 

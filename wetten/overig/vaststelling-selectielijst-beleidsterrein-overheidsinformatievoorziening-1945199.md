@@ -1,13 +1,37 @@
 ---
-title: "Vaststelling selectielijst beleidsterrein overheidsinformatievoorziening 1945–1999"
+title: "Vaststelling selectielijst beleidsterrein overheidsinformatievoorziening over de periode 1945–1999"
 identifier: "BWBR0015373"
-categorie: "Overig"
-publicatiedatum: 2003-10-22
-laatste_update: 2003-10-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015373"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2003-10-22"
+last_updated: "2003-10-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015373"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "5439223"
+version_id: "9788102"
+internal_id: "C25309551"
+label_id: "5413924"
+original_entry_into_force: "2003-10-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015373/2003-10-22/0"
+intitule_bron: "Stcrt.2003-202"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-07-11"
+intitule_published: "2003-10-20"
+intitule_in_force: "2003-10-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2003-202"
+original_signed_date: "2003-07-11"
+original_published_date: "2003-10-20"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2003-10-22"
+jci_1_3: "jci1.3:c:BWBR0015373&z=2003-10-22&g=2003-10-22"
+jci_1_0: "1.0:c:BWBR0015373&g=2003-10-22"
+citeertitel_status: "redactioneel"
+short_title: "Vaststelling selectielijst beleidsterrein overheidsinformatievoorziening 1945–1999"
+signed_date: "2003-07-11"
+entry_into_force: "2003-10-22"
 ---
-
 # Vaststelling selectielijst beleidsterrein overheidsinformatievoorziening over de periode 1945–1999
 
 Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
@@ -16,15 +40,15 @@ De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 3 oktober 2002
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van de Algemene Rijksarchivaris en de onder hem ressorterende actoren op het beleidsterrein Overheidsinformatievoorziening over de periode 1945–1999’ en de daarbij behorende toelichting worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 De ‘lijst van te vernietigen archiefbescheiden, dagtekenend van na 1 januari 1946, uit de archieven van de Rijksarchieven in de provincies en de Eerste en Tweede Afdeling van het Algemeen Rijksarchief’ (vastgesteld bij beschikking van de Minister van Welzijn, Volksgezondheid en Cultuur, nr. MMA/Ar 1888 d.d. 20-02-1987) wordt ingetrokken.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

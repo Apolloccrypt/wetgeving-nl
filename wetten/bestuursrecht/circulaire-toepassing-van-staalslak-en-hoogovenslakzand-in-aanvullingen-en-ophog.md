@@ -1,13 +1,37 @@
 ---
 title: "Circulaire Toepassing van staalslak en hoogovenslak(zand) in aanvullingen en ophogingen"
 identifier: "BWBR0018461"
-categorie: "Bestuursrecht"
-publicatiedatum: 2005-07-06
-laatste_update: 2005-07-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0018461"
+country: "nl"
+rank: "circulaire"
+publication_date: "2005-07-06"
+last_updated: "2005-07-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0018461"
+soort: "circulaire"
+stam_id: "7143463"
+version_id: "12041512"
+internal_id: "C16148381"
+label_id: "7131494"
+original_entry_into_force: "2005-07-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0018461/2005-07-06/0"
+intitule_bron: "Stcrt.2005-128"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-06-21"
+intitule_published: "2005-07-06"
+intitule_in_force: "2005-07-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-128"
+original_signed_date: "2005-06-21"
+original_published_date: "2005-07-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2005-128-p19-SC70607"
+entry_into_force_date: "2005-07-06"
+jci_1_3: "jci1.3:c:BWBR0018461&z=2005-07-06&g=2005-07-06"
+jci_1_0: "1.0:c:BWBR0018461&g=2005-07-06"
+citeertitel_status: "redactioneel"
+signed_date: "2005-06-21"
+entry_into_force: "2005-07-06"
 ---
-
 # Circulaire Toepassing van staalslak en hoogovenslak(zand) in aanvullingen en ophogingen
 
 ### Aanleiding

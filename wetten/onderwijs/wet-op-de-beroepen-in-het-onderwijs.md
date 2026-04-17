@@ -1,14 +1,40 @@
 ---
-title: "Wet op de beroepen in het onderwijs"
+title: "Wet van 30 juni 2004 tot wijziging van onder meer de Wet op het primair onderwijs, de Wet op de expertisecentra, de Wet op het voortgezet onderwijs, de Wet educatie en beroepsonderwijs en de Wet op het hoger onderwijs en wetenschappelijk onderzoek, ter waarborging van de bekwaamheid tot het uitoefenen van beroepen in het onderwijs (Wet op de beroepen in het onderwijs)"
 identifier: "BWBR0016944"
-categorie: "Onderwijs"
-publicatiedatum: 2020-04-01
-laatste_update: 2020-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0016944"
+country: "nl"
+rank: "wet"
+publication_date: "2020-04-01"
+last_updated: "2020-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0016944"
+soort: "wet"
+stam_id: "5967183"
+version_id: "10569722"
+internal_id: "C16959201"
+label_id: "5956814"
+original_entry_into_force: "2006-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0016944/2020-04-01/0"
+intitule_bron: "Stb.2004-344"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-06-30"
+intitule_published: "2004-07-20"
+intitule_in_force: "2005-12-22"
+intitule_status: "goed"
+original_publication: "Stb.2004-344"
+original_signed_date: "2004-06-30"
+original_published_date: "2004-07-20"
+original_effect: "nieuwe-regeling"
+original_dossier: "28088"
+original_url_id: "stb-2004-344"
+entry_into_force_date: "2006-08-01"
+jci_1_3: "jci1.3:c:BWBR0016944&z=2020-04-01&g=2020-04-01"
+jci_1_0: "1.0:c:BWBR0016944&g=2020-04-01"
+citeertitel_status: "officieel"
+short_title: "Wet op de beroepen in het onderwijs"
+signed_date: "2004-06-30"
+entry_into_force: "2006-08-01"
 ---
-
-# Wet op de beroepen in het onderwijs
+# Wet van 30 juni 2004 tot wijziging van onder meer de Wet op het primair onderwijs, de Wet op de expertisecentra, de Wet op het voortgezet onderwijs, de Wet educatie en beroepsonderwijs en de Wet op het hoger onderwijs en wetenschappelijk onderzoek, ter waarborging van de bekwaamheid tot het uitoefenen van beroepen in het onderwijs (Wet op de beroepen in het onderwijs)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,47 +44,47 @@ dat het tevens noodzakelijk is, de onderwerpen uit de [Interimwet zij-instroom l
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet op het primair onderwijs.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Wet op de expertisecentra.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Wet op het voortgezet onderwijs.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Wet educatie en beroepsonderwijs.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Overgangswet W.V.O.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Wet op het onderwijstoezicht.
 
-#### Artikel IX
+##### Artikel IX
 
 Vervallen
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt het Wetboek van Strafrecht.
 
-#### Artikel XI. Overgangsrecht bestaande bewijzen van bekwaamheid en bestaande bevoegdheden
+##### Artikel XI. Overgangsrecht bestaande bewijzen van bekwaamheid en bestaande bevoegdheden
 
 1. Degene die op het tijdstip van inwerkingtreding van de bekwaamheidseisen voor leraren en docenten in het bezit is van een bewijs van bekwaamheid tot het geven van onderwijs, beroepsonderwijs of educatie ingevolge de wettelijke voorschriften zoals luidend op de dag voor dat tijdstip van inwerkingtreding, wordt bij inwerkingtreding van die eisen aangemerkt als aan de van toepassing zijnde bekwaamheidseisen te voldoen.
 
@@ -66,43 +92,43 @@ Wijzigt het Wetboek van Strafrecht.
 
 3. Het eerste en tweede lid zijn van overeenkomstige toepassing ten aanzien van werkzaamheden van onderwijskundig-leidinggevende aard of onderwijsondersteunende werkzaamheden, voor zover daarvoor bekwaamheidseisen zijn vastgesteld.
 
-#### Artikel XII. Overgangsrecht geven van godsdienstonderwijs of levensbeschouwelijk vormingsonderwijs en verrichten van onderwijsondersteunende werkzaamheden daarvoor
+##### Artikel XII. Overgangsrecht geven van godsdienstonderwijs of levensbeschouwelijk vormingsonderwijs en verrichten van onderwijsondersteunende werkzaamheden daarvoor
 
 Vervallen
 
-#### Artikel XIII. Omzetting geschiktheidsverklaringen
+##### Artikel XIII. Omzetting geschiktheidsverklaringen
 
 Vervallen
 
-#### Artikel XIV. Omzetting melding zij-instroom
+##### Artikel XIV. Omzetting melding zij-instroom
 
 Vervallen
 
-#### Artikel XV. Toezending overzicht geschiktheidsverklaringen en bekwaamheidsonderzoeken
+##### Artikel XV. Toezending overzicht geschiktheidsverklaringen en bekwaamheidsonderzoeken
 
 Vervallen
 
-#### Artikel XVI. Omzetting bevoegdheid geschiktheidsonderzoek zij-instroom
+##### Artikel XVI. Omzetting bevoegdheid geschiktheidsonderzoek zij-instroom
 
 Vervallen
 
-#### Artikel XVII. Titulatuur zij-instromers Interimwet zij-instroom leraren primair en voortgezet onderwijs
+##### Artikel XVII. Titulatuur zij-instromers Interimwet zij-instroom leraren primair en voortgezet onderwijs
 
 Vervallen
 
-#### Artikel XVIII. Intrekking Interimwet zij-instroom leraren primair en voortgezet onderwijs
+##### Artikel XVIII. Intrekking Interimwet zij-instroom leraren primair en voortgezet onderwijs
 
 Vervallen
 
-#### Artikel XIX. Evaluatie
+##### Artikel XIX. Evaluatie
 
 Vervallen
 
-#### Artikel XX. Inwerkingtreding
+##### Artikel XX. Inwerkingtreding
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel XXI. Citeertitel
+##### Artikel XXI. Citeertitel
 
 Deze wet wordt aangehaald als: Wet op de beroepen in het onderwijs.
 

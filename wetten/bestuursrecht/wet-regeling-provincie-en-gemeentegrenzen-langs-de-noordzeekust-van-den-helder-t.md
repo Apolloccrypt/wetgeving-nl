@@ -1,14 +1,37 @@
 ---
-title: "Wet regeling provincie- en gemeentegrenzen langs de Noordzeekust van Den Helder tot en met Sluis en wijziging van de Financiële-Verhoudingswet 1984"
+title: "Wet van 2 november 1990, houdende regeling provincie- en gemeentegrenzen langs de Noordzeekust van de gemeente Den Helder tot en met de gemeente Sluis en wijziging van de Financiële-Verhoudingswet 1984"
 identifier: "BWBR0004891"
-categorie: "Bestuursrecht"
-publicatiedatum: 1990-12-19
-laatste_update: 1990-12-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004891"
+country: "nl"
+rank: "wet"
+publication_date: "1990-12-19"
+last_updated: "1990-12-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004891"
+soort: "wet"
+stam_id: "107573"
+version_id: "148612"
+internal_id: "C148611"
+label_id: "107844"
+dtd_version: "2.0"
+original_entry_into_force: "1990-12-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004891/1990-12-19/0"
+intitule_bron: "Stb.1990-553"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1990-11-02"
+intitule_status: "goed"
+original_publication: "Stb.1990-553"
+original_signed_date: "1990-11-02"
+original_effect: "nieuwe-regeling"
+original_dossier: "21019"
+entry_into_force_date: "1990-12-19"
+jci_1_3: "jci1.3:c:BWBR0004891&z=1990-12-19&g=1990-12-19"
+jci_1_0: "1.0:c:BWBR0004891&g=1990-12-19"
+citeertitel_status: "officieel"
+short_title: "Wet regeling provincie- en gemeentegrenzen langs de Noordzeekust van Den Helder tot en met Sluis en wijziging van de Financiële-Verhoudingswet 1984"
+signed_date: "1990-11-02"
+entry_into_force: "1990-12-19"
 ---
-
-# Wet regeling provincie- en gemeentegrenzen langs de Noordzeekust van Den Helder tot en met Sluis en wijziging van de Financiële-Verhoudingswet 1984
+# Wet van 2 november 1990, houdende regeling provincie- en gemeentegrenzen langs de Noordzeekust van de gemeente Den Helder tot en met de gemeente Sluis en wijziging van de Financiële-Verhoudingswet 1984
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +39,7 @@ Alzo Wij in overweging genomen hebben, dat wettelijke regeling dan wel aanpassin
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet wordt verstaan onder:
 
@@ -26,13 +49,13 @@ In deze wet wordt verstaan onder:
 
 - -. hoofdenlijn: de lijn die de koppen van een reeks naast elkaar gelegen hoofden met elkaar verbindt.
 
-#### Artikel 2
+##### Artikel 2
 
 De grens van de gemeente Den Helder in de Noordzee wordt in dier voege gewijzigd dat de nieuwe grens als volgt komt te lopen. Zij begint in het meest westelijke punt van de bestaande grens tussen de gemeenten Den Helder en Texel en volgt in ongeveer zuidelijke richting een rechte lijn tot het punt met de coördinaten x = 104 000; y = 545 000.
 
 Vanaf dat punt volgt zij in ongeveer oostelijke richting een rechte lijn tot het noordwestelijke hoekpunt van het perceel, kadastraal bekend gemeente Noordzee III, sectie A, nr. 8 en vervolgens de noordgrens van dat perceel tot de grens met de gemeente Zijpe.
 
-#### Artikel 3
+##### Artikel 3
 
 De grenzen in de Noordzee van de hierna te noemen gemeenten worden bepaald op de noordelijke dan wel westelijke dan wel zuidelijke grenzen van kadastraal bekende percelen in dier voege dat:
 
@@ -74,7 +97,7 @@ van de kadastrale gemeente Noordzee V, sectie A, behoort dan wel behoren tot de 
 
 - -. 's-Gravenzande: nr. 13.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De grens van de gemeentelijk ingedeelde Noordzee wordt, beginnend bij de bestaande grens van de gemeente Rotterdam, in dier voege gewijzigd dan wel bepaald dat zij de lijnen volgt tussen achtereenvolgens de punten met de volgende coördinaten:
 
@@ -122,19 +145,19 @@ Zij volgt de lijn tussen de twee laatstbedoelde punten tot de grens met België.
 
 7. De grens tussen de gemeenten Vlissingen enerzijds en Oostburg en Sluis anderzijds wordt in dier voege gewijzigd dat zij, beginnend op de lijn naar de toren van Breskens, bedoeld in [artikel 2, onder IV.f](https://wetten.overheid.nl/jci1.3:c:BWBR0004891&artikel=2&z=1990-12-19&g=1990-12-19). van de wet van 13 november 1969, **Stb.** 515, tot gemeentelijke herindeling van Zeeuwsch-Vlaanderen, in overwegend westelijke richting de hoofdenlijn volgt. Vanaf de meest westelijk gelegen hoofd volgt zij tot aan de grens met België het verlengde van de hoofdenlijn tussen de twee meest westelijk gelegen hoofden.
 
-#### Artikel 5
+##### Artikel 5
 
 De gemeentegrenzen in de Noordzee, gewijzigd dan wel bepaald krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004891&artikel=2&z=1990-12-19&g=1990-12-19), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0004891&artikel=3&z=1990-12-19&g=1990-12-19) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0004891&artikel=4&z=1990-12-19&g=1990-12-19) begrenzen tevens het deel van de Noordzee dat behoort tot de provincies Noord-Holland dan wel Zuid-Holland dan wel Zeeland.
 
-#### Artikel 6
+##### Artikel 6
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 7
+##### Artikel 7
 
 Onze Minister van Binnenlandse Zaken stelt, voor zover nodig, binnen één maand na inwerkingtreding van deze wet de definitieve grensbeschrijving vast.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 

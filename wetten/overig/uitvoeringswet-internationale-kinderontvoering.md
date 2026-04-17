@@ -1,14 +1,39 @@
 ---
-title: "Uitvoeringswet internationale kinderontvoering"
+title: "Wet van 2 mei 1990, tot uitvoering van het op 20 mei 1980 te Luxemburg tot stand gekomen Europese Verdrag betreffende de erkenning en de tenuitvoerlegging van beslissingen inzake het gezag over kinderen en betreffende het herstel van het gezag over kinderen, uitvoering van het op 25 oktober 1980 te 's-Gravenhage tot stand gekomen Verdrag inzake de burgerrechtelijke aspecten van internationale ontvoering van kinderen alsmede algemene bepalingen met betrekking tot verzoeken tot teruggeleiding van ontvoerde kinderen over de Nederlandse grens en de uitvoering daarvan"
 identifier: "BWBR0004746"
-categorie: "Overig"
-publicatiedatum: 2022-10-01
-laatste_update: 2022-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004746"
+country: "nl"
+rank: "wet"
+publication_date: "2022-10-01"
+last_updated: "2022-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004746"
+soort: "wet"
+stam_id: "1781503"
+version_id: "28412212"
+internal_id: "C40324831"
+label_id: "1737234"
+dtd_version: "2.0"
+original_entry_into_force: "2022-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004746/2022-10-01/0"
+intitule_bron: "Stb.1990-202"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1990-05-02"
+intitule_status: "goed"
+original_publication: "Stb.2022-72"
+original_signed_date: "2022-02-09"
+original_published_date: "2022-02-16"
+original_effect: "structuurwijziging"
+original_dossier: "35888"
+original_url_id: "stb-2022-72"
+entry_into_force_date: "2022-08-01"
+jci_1_3: "jci1.3:c:BWBR0004746&z=2022-10-01&g=2022-10-01"
+jci_1_0: "1.0:c:BWBR0004746&g=2022-10-01"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringswet internationale kinderontvoering"
+signed_date: "2022-02-09"
+entry_into_force: "2022-08-01"
 ---
-
-# Uitvoeringswet internationale kinderontvoering
+# Wet van 2 mei 1990, tot uitvoering van het op 20 mei 1980 te Luxemburg tot stand gekomen Europese Verdrag betreffende de erkenning en de tenuitvoerlegging van beslissingen inzake het gezag over kinderen en betreffende het herstel van het gezag over kinderen, uitvoering van het op 25 oktober 1980 te 's-Gravenhage tot stand gekomen Verdrag inzake de burgerrechtelijke aspecten van internationale ontvoering van kinderen alsmede algemene bepalingen met betrekking tot verzoeken tot teruggeleiding van ontvoerde kinderen over de Nederlandse grens en de uitvoering daarvan
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +43,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ## Titel 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet wordt verstaan onder
 
@@ -30,11 +55,11 @@ In deze wet wordt verstaan onder
 
 - d. internationale ontvoering van kinderen: de ongeoorloofde overbrenging of het ongeoorloofd niet doen terugkeren van een kind in strijd met een gezagsrecht, als omschreven in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004746&titeldeel=1&artikel=3&z=2022-10-01&g=2022-10-01) in verband met artikel 5 onder **a** van het Haagse verdrag.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze wet regelt de uitvoering van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004746&titeldeel=1&artikel=1&z=2022-10-01&g=2022-10-01) vermelde verdragen en verordening en is tevens van toepassing in de gevallen van internationale ontvoering van kinderen die niet door een verdrag of de verordening worden beheerst.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Deze wet is van toepassing op internationale ontvoering van kinderen die de leeftijd van zestien jaren nog niet hebben bereikt.
 
@@ -42,33 +67,33 @@ Deze wet regelt de uitvoering van de in [artikel 1](https://wetten.overheid.nl/j
 
 ## Titel 2. Taak en bevoegdheden van de centrale autoriteit
 
-#### Artikel 4
+##### Artikel 4
 
 1. Onze Minister van Justitie wijst bij in de **Nederlandse Staatscourant** openbaar te maken besluit de onder zijn Ministerie ressorterende dienst aan, welke wordt belast met de taak van centrale autoriteit, bedoeld in artikel 2 van het Europese verdrag en in artikel 6 van het Haagse verdrag. Deze centrale autoriteit is als zodanig tevens belast met de behandeling van verzoeken in gevallen van internationale ontvoering van kinderen die niet door een verdrag worden beheerst.
 
 2. De aanwijzing van de centrale autoriteit als bedoeld in het eerste lid staat er niet aan in de weg dat een persoon zich rechtstreeks tot de rechter of andere autoriteiten wendt teneinde de erkenning van het wettig gezag over een ontvoerd kind, het herstel van dat gezag en de teruggeleiding van dat kind te bereiken, of de vaststelling of wijziging van een omgangsregeling te verkrijgen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De centrale autoriteit is bevoegd, zo nodig ook zonder uitdrukkelijke volmacht van degene die zich met een verzoek tot haar heeft gewend, namens hem, anders dan in rechte, op te treden.
 
 2. De centrale autoriteit draagt zelf alle kosten die aan de uitvoering van haar taak zijn verbonden, voor zover deze niet door haar teruggevorderd kunnen worden van de verzoeker of verhaald op de persoon die voor de internationale ontvoering van het kind verantwoordelijk is of medeverantwoordelijk is.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Indien de centrale autoriteit besluit om een verzoek tot teruggeleiding van een kind niet in behandeling te nemen of de behandeling van een zodanig verzoek te staken, deelt zij zulks aanstonds aan de verzoeker mede. De verzoeker kan van de centrale autoriteit verlangen, haar beslissing aan hem mede te delen in de vorm van een beschikking met vermelding van de gronden die tot de beslissing hebben geleid. De centrale autoriteit deelt haar beschikking bij aangetekend schrijven aan de verzoeker mede.
 
 2. De verzoeker kan binnen een maand na de ontvangst van de beschikking daartegen bij de rechtbank Den Haag opkomen, bij een bezwaarschrift dat moet worden ingediend door een advocaat. De rechtbank hoort de verzoeker en de centrale autoriteit op het bezwaarschrift. Indien de rechtbank het bezwaar gegrond acht, vernietigt zij de beschikking van de centrale autoriteit en geeft zij een met reden omklede beschikking die in haar plaats treedt. Tegen de beschikking van de rechtbank staat geen hogere voorziening open behoudens cassatie in het belang der wet.
 
-#### Artikel 7
+##### Artikel 7
 
 De centrale autoriteit kan de uitvoering van bepaalde handelingen, overeenkomstig door haar te geven aanwijzingen opdragen aan de raad voor de kinderbescherming. De bepalingen van deze Titel zijn mede van toepassing ten aanzien van de raad voor de kinderbescherming.
 
-#### Artikel 8
+##### Artikel 8
 
 De gemeentebesturen en de ambtenaren van de burgerlijke stand verschaffen de centrale autoriteit kosteloos alle inlichtingen en verstrekken haar kosteloos en vrij van zegel alle afschriften en uittreksels uit hun registers die deze autoriteit van hen vraagt in verband met de uitvoering van haar taak.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Indien de centrale autoriteit voor het vinden van de verblijfplaats van een kind in Nederland medewerking behoeft van ambtenaren van politie, aangesteld voor de uitvoering van de politietaak, kan zij zich voor het verkrijgen daarvan wenden tot de officier van justitie in het arrondissement waar het kind vermoedelijk verblijft, of anders in het arrondissement Den Haag. De officier van justitie kan de zaak overeenkomstig door hem te geven aanwijzingen overdragen aan een officier van justitie in een ander arrondissement, indien de opsporing vermoedelijk in dat arrondissement moet geschieden.
 
@@ -76,7 +101,7 @@ De gemeentebesturen en de ambtenaren van de burgerlijke stand verschaffen de cen
 
 3. De ambtenaar van politie, aangesteld voor de uitvoering van de politietaak die is aangewezen om zijn medewerking te verlenen aan de opsporing van de verblijfplaats van een kind mag daartoe elke plaats betreden, voor zover dat redelijkerwijs voor de vervulling van zijn taak nodig is.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De centrale autoriteit stelt de persoon bij wie het ontvoerde kind verblijft bij aangetekende brief in kennis van het verzoek tot teruggeleiding en de gronden waarop het berust. Zij geeft in deze mededeling tevens kennis van de mogelijkheid dat een verzoek tot afgifte van een rechterlijk bevel tot teruggeleiding kan worden ingediend, indien niet binnen een door haar te stellen redelijke termijn vrijwillig aan dat verzoek is voldaan.
 
@@ -84,17 +109,17 @@ De gemeentebesturen en de ambtenaren van de burgerlijke stand verschaffen de cen
 
 ## Titel 3. Rechtspleging in verband met internationale ontvoering van kinderen en het omgangsrecht
 
-#### Artikel 11
+##### Artikel 11
 
 1. Onverminderd de bevoegdheid van de voorzieningenrechter Den Haag in kort geding, is in eerste aanleg uitsluitend de kinderrechter van de rechtbank Den Haag bevoegd tot kennisneming van alle zaken met betrekking tot de gedwongen afgifte van een internationaal ontvoerd kind aan degene wie het gezag daarover toekomt en de teruggeleiding van een zodanig kind over de Nederlandse grens. De kinderrechter van deze rechtbank is bevoegd ook kennis te nemen van door partijen tijdens de procedure onderling getroffen regelingen over de ouderlijke verantwoordelijkheid, bedoeld in de verordening, en kan deze geheel of gedeeltelijk in zijn beschikking opnemen.
 
 2. De kinderrechter van de rechtbank binnen wier rechtsgebied het kind zijn werkelijke verblijfplaats heeft is, onverminderd de bevoegdheid van de voorzieningenrechter in kort geding, bevoegd tot de kennisneming van alle zaken met betrekking tot de regeling en uitvoering van het omgangsrecht in internationale gevallen, daaronder begrepen verzoeken als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0004746&titeldeel=3&artikel=14&z=2022-10-01&g=2022-10-01) van deze wet. Heeft het kind geen werkelijke verblijfplaats of kan zijn verblijfplaats niet worden vastgesteld, dan is bevoegd de kinderrechter van de rechtbank Den Haag.
 
-#### Artikel 12
+##### Artikel 12
 
 De in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004746&titeldeel=3&artikel=11&z=2022-10-01&g=2022-10-01) bedoelde zaken worden ingeleid door indiening van een verzoek.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De gedwongen afgifte van een internationaal ontvoerd kind aan degene aan wie het gezag daarover toekomt en de teruggeleiding van een zodanig kind over de Nederlandse grens is slechts mogelijk uit krachte van een daartoe strekkend bevel van de rechter.
 
@@ -112,7 +137,7 @@ De in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004746&titeldeel=3&a
 
 8. Tegen de beschikking van het gerechtshof staat geen gewoon rechtsmiddel open.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Ieder die in Nederland het gezag uitoefent over een kind kan de rechter verzoeken, de in het tweede lid bedoelde beslissingen te geven terzake van het omgangsrecht met betrekking tot dat kind, indien het zich in verband met de uitoefening daarvan buiten Nederland moet begeven. De beslissingen kunnen worden gegeven voor een of meer bepaalde bezoeken of voor bepaalde tijdvakken waarin het omgangsrecht met betrekking tot het kind kan worden uitgeoefend.
 
@@ -124,11 +149,11 @@ De in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004746&titeldeel=3&a
 
 - c. het richten van een verzoek aan de bevoegde autoriteiten van de Staat waar het kind tijdens de uitoefening van het omgangsrecht verblijft toezicht te houden of te doen houden op de juiste naleving van dat recht, in het bijzonder wat de plaats en de duur ervan betreft en voorts, indien nodig, maatregelen te treffen tot teruggeleiding van het kind na ommekomst van de termijn van uitoefening van dat recht.
 
-#### Artikel 15
+##### Artikel 15
 
 De rechter die moet beslissen met betrekking tot het gezag over een kind ten aanzien van hetwelk een verzoek tot teruggeleiding is gedaan bij de centrale autoriteit, houdt zijn beslissing aan totdat op dat verzoek onherroepelijk is beslist. Indien nog geen verzoek tot teruggeleiding is gedaan houdt de rechter zijn beslissing gedurende een redelijke termijn aan, indien hij goede gronden heeft om aan te nemen dat het kind internationaal is ontvoerd in de zin van [artikel 1 onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0004746&titeldeel=1&artikel=1&z=2022-10-01&g=2022-10-01) en dat een verzoek tot zijn teruggeleiding zal worden ingediend.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Ieder die in verband met de toepassing van een verdrag of de verordening als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004746&titeldeel=1&artikel=1&z=2022-10-01&g=2022-10-01) of in verband met de toepassing van deze wet in Nederland in rechte wil optreden en daartoe rechtsbijstand behoeft, kan zonodig daarop recht doen gelden op de voet van de [Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368).
 
@@ -136,17 +161,17 @@ De rechter die moet beslissen met betrekking tot het gezag over een kind ten aan
 
 #### Slotbepalingen
 
-#### Artikel 17
+##### Artikel 17
 
 Bij en krachtens algemene maatregel van bestuur kunnen nadere bepalingen worden vastgesteld met betrekking tot de wijze van uitvoering van deze wet.
 
-#### Artikel 18
+##### Artikel 18
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 19
+##### Artikel 19
 
 Deze wet wordt aangehaald als: Uitvoeringswet internationale kinderontvoering.
 
@@ -154,7 +179,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ## Titel 4. Internationale samenwerking van gerechten
 
-#### Artikel 16a
+##### Artikel 16a
 
 [Artikel 24 van de Uitvoeringswet internationale kinderbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&artikel=24) is van overeenkomstige toepassing in gevallen die door de verordening worden bestreken.
 

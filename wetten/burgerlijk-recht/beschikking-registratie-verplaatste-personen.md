@@ -1,40 +1,65 @@
 ---
-title: "Beschikking registratie verplaatste personen"
+title: "BESCHIKKING REGISTRATIE VERPLAATSTE PERSONEN"
 identifier: "BWBR0002254"
-categorie: "Burgerlijk recht"
-publicatiedatum: 1957-10-27
-laatste_update: 1957-10-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002254"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1957-10-27"
+last_updated: "1957-10-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002254"
+soort: "ministeriele-regeling"
+stam_id: "4106283"
+version_id: "5859982"
+internal_id: "C6062811"
+label_id: "4086094"
+dtd_version: "2.0"
+original_entry_into_force: "1957-10-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002254/1957-10-27/0"
+intitule_bron: "Stcrt.1957-194"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1957-09-24"
+intitule_published: "1957-10-07"
+intitule_in_force: "1957-10-07"
+intitule_status: "goed"
+original_publication: "Stcrt.1957-194"
+original_signed_date: "1957-09-24"
+original_published_date: "1957-10-07"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1957-10-27"
+jci_1_3: "jci1.3:c:BWBR0002254&z=1957-10-27&g=1957-10-27"
+jci_1_0: "1.0:c:BWBR0002254&g=1957-10-27"
+citeertitel_status: "officieel"
+short_title: "Beschikking registratie verplaatste personen"
+signed_date: "1957-09-24"
+entry_into_force: "1957-10-27"
 ---
-
 # BESCHIKKING REGISTRATIE VERPLAATSTE PERSONEN
 
 Gelet op het [Besluit registratie verplaatste personen](https://wetten.overheid.nl/jci1.3:c:BWBR0002253) (Stb. 1957, 358).
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van deze beschikking wordt verstaan onder:
 
-#### Artikel 2
+##### Artikel 2
 
 Zowel het verplaatsingsformulier als het verwijzingskaartje worden van rijkswege kosteloos beschikbaar gesteld.
 
-#### Artikel 3
+##### Artikel 3
 
 De invulling van het verplaatsingsformulier en het verwijzingskaartje geschiedt bij voorkeur met behulp van een schrijfmachine. Indien van een schrijfmachine geen gebruik kan worden gemaakt, geschiedt de invulling met anilinepotlood.
 
-#### Artikel 4
+##### Artikel 4
 
 De extern-verplaatste persoon wordt geregistreerd door de burgemeester van de gemeente van werkelijk verblijf, met gebruikmaking van het verplaatsingsformulier.
 
-#### Artikel 5
+##### Artikel 5
 
 Van het verplaatsingsformulier is deel A bestemd voor de burgemeester van de gemeente, waar de extern-verplaatste persoon is gehuisvest, deel B voor de burgemeester van de gemeente, in welker bevolkingsregister de extern-verplaatste persoon is opgenomen, en deel C voor een nader aan te wijzen centrale instantie.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De delen A van de verplaatsingsformulieren, te zamen vormende het verplaatsingsregister A, worden terstond na registratie gezinsgewijze gerangschikt in één alfabetisch-lexicografische verzameling volgens de geslachtsnamen van de gezinshoofden en de afzonderlijk levende personen. Voor gehuwde vrouwen en weduwen geschiedt de rangschikking in volgorde van de geslachtsnaam van de echtgenoot, onderscheidenlijk van de laatstoverleden echtgenoot.
 
@@ -44,7 +69,7 @@ Van het verplaatsingsformulier is deel A bestemd voor de burgemeester van de gem
 
 4. Het verplaatsingsregister A wordt ter gemeentesecretarie bewaard in de onmiddellijke nabijheid van het bevolkingsregister.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De burgemeester van de gemeente, waar de extern-verplaatste persoon wordt geregistreerd, zendt deel B van het verplaatsingsformulier terstond na registratie aan de burgemeester van de gemeente, in welker bevolkingsregister de persoon is opgenomen.
 
@@ -58,13 +83,13 @@ Van het verplaatsingsformulier is deel A bestemd voor de burgemeester van de gem
 
 6. Het verplaatsingsregister B wordt ter gemeentesecretarie bewaard in de onmiddellijke nabijheid van het bevolkingsregister.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De burgemeester van de gemeente, waar de extern-verplaatste persoon wordt geregistreerd, zendt, terstond na registratie, deel C van het verplaatsingsformulier aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002254&artikel=5&z=1957-10-27&g=1957-10-27) bedoelde centrale instantie.
 
 2. De delen C van de verplaatsingsformulieren, te zamen vormende het centrale verplaatsingsregister, worden terstond gerangschikt in één alfabetisch-lexicografische verzameling volgens de geslachtsnamen van de geregistreerde personen, met dien verstande, dat, indien een zelfde persoon reeds eerder is geregistreerd, het aanwezige deel C van het verplaatsingsformulier wordt geplaatst achter het nieuwontvangen exemplaar en daaraan wordt gehecht. Voor gehuwde vrouwen en weduwen geschiedt de rangschikking in volgorde van de geslachtsnaam van de echtgenoot, onderscheidenlijk van de laatstoverleden echtgenoot.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Onmiddellijk nadat de geboorte van een kind, waarvan de moeder als extern-verplaatste persoon is geregistreerd te zijner kennis is gebracht, legt de burgemeester van de gemeente, waar de moeder laatstelijk is geregistreerd, een verplaatsingsformulier aan.
 
@@ -74,7 +99,7 @@ Van het verplaatsingsformulier is deel A bestemd voor de burgemeester van de gem
 
 4. Van het in het derde lid bedoelde verplaatsingsformulier wordt, nadat in vak 24 van de persoonskaart, in uitwisbaar potloodschrift, de aanduiding VP is geplaatst, deel A gezonden aan de burgemeester van de gemeente, waar de moeder is geregistreerd, deel B geplaatst in het verplaatsingsregister B en deel C gezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002254&artikel=5&z=1957-10-27&g=1957-10-27) bedoelde centrale instantie.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Indien de persoonsgegevens, vermeld op het laatstelijk aangelegde verplaatsingsformulier, wijziging behoeven, wordt door de burgemeester van de gemeente van werkelijk verblijf een nieuw verplaatsingsformulier aangelegd.
 
@@ -82,11 +107,11 @@ Van het verplaatsingsformulier is deel A bestemd voor de burgemeester van de gem
 
 3. Terstond na ontvangst van de delen B en C van het in het eerste lid bedoelde verplaatsingsformulier worden die delen, met inachtneming van het bepaalde in [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002254&artikel=7&z=1957-10-27&g=1957-10-27), respectievelijk 8, tweede lid, onderscheidenlijk in het verplaatsingsregister B en het centrale verplaatsingsregister geplaatst.
 
-#### Artikel 11
+##### Artikel 11
 
 Bij aangifte van een adresverandering van een extern-verplaatste persoon binnen de gemeente van laatste registratie is het bepaalde in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002254&artikel=10&z=1957-10-27&g=1957-10-27) van overeenkomstige toepassing.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De registratie van een extern-verplaatste persoon wordt beëindigd wegens:
 
@@ -124,11 +149,11 @@ De delen A en C van het verplaatsingsformulier worden onderscheidenlijk gezonden
 
 7. Na beëindiging van de registratie wordt de aanduiding VP in vak 24 van de persoonskaart uitgewist.
 
-#### Artikel 13
+##### Artikel 13
 
 De intern-verplaatste persoon wordt geregistreerd op de door de burgemeester te bepalen wijze. Bij de registratie wordt in ieder geval in vak 24 van de persoonskaart, in uitwisbaar potloodschrift, de aanduiding VPI geplaatst. Voorts wordt, indien de artikelen 100 en 101 van het Besluit bevolkingsboekhouding (**Stb.** 1936, 342) adreswijziging in vak 22 van de persoonskaart niet noodzakelijk maken, in laatstgenoemd vak in uitwisbaar potloodschrift het adres vermeld, waar de persoon is gehuisvest.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De burgemeester is verplicht, desgevraagd, uit het verplaatsingsregister A, dan wel uit het verplaatsingsregister B, inlichtingen te verstrekken.
 
@@ -142,7 +167,7 @@ De intern-verplaatste persoon wordt geregistreerd op de door de burgemeester te 
 
 6. De inlichtingen, zowel uit de verplaatsingsregisters A en B als uit het centrale verplaatsingsregister, worden, zolang niet anders wordt bepaald, kosteloos verstrekt.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Het hoofd der Rijksinspectie van de Bevolkingsregisters is bevoegd tot het geven van nadere richtlijnen en aanwijzingen met betrekking tot de registratie van verplaatste personen.
 
@@ -150,7 +175,7 @@ De intern-verplaatste persoon wordt geregistreerd op de door de burgemeester te 
 
 3. Geschillen omtrent de toepassing van deze beschikking worden door hem beslist.
 
-#### Artikel 16
+##### Artikel 16
 
 Deze beschikking, welke kan worden aangehaald als: Beschikking registratie verplaatste personen, zal worden bekendgemaakt in de **Nederlandse Staatscourant**.
 

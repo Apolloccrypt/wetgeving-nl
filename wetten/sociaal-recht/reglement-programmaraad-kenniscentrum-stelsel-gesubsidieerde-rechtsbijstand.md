@@ -1,20 +1,45 @@
 ---
 title: "Reglement Programmaraad Kenniscentrum Stelsel Gesubsidieerde Rechtsbijstand"
 identifier: "BWBR0050147"
-categorie: "Sociaal recht"
-publicatiedatum: 2024-08-20
-laatste_update: 2024-08-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050147"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-08-20"
+last_updated: "2024-08-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050147"
+soort: "zbo"
+stam_id: "17205203"
+version_id: "30295502"
+internal_id: "C43464221"
+label_id: "17111114"
+dtd_version: "2.0"
+original_entry_into_force: "2024-08-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050147/2024-08-20/0"
+intitule_bron: "Stcrt.2024-27082"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-07-17"
+intitule_published: "2024-08-19"
+intitule_in_force: "2024-08-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-27082"
+original_signed_date: "2024-07-17"
+original_published_date: "2024-08-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-27082"
+entry_into_force_date: "2024-08-20"
+jci_1_3: "jci1.3:c:BWBR0050147&z=2024-08-20&g=2024-08-20"
+jci_1_0: "1.0:c:BWBR0050147&g=2024-08-20"
+citeertitel_status: "officieel"
+signed_date: "2024-07-17"
+entry_into_force: "2024-08-20"
 ---
-
 # Reglement Programmaraad Kenniscentrum Stelsel Gesubsidieerde Rechtsbijstand
 
 Gelet op [artikel 8 van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=8);
 
 Heeft het volgende reglement vastgesteld:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit reglement wordt verstaan onder:
 
@@ -32,7 +57,7 @@ In dit reglement wordt verstaan onder:
 
 - g. **Programma:** onderzoeksprogramma op themaniveau dat wordt vastgesteld door de Programmaraad en op basis waarvan het Kenniscentrum programmatisch onderzoek uitvoert.
 
-#### Artikel 2. De leden van Programmaraad
+##### Artikel 2. De leden van Programmaraad
 
 1. De Eigenaar is voorzitter van de Programmaraad.
 
@@ -48,7 +73,7 @@ In dit reglement wordt verstaan onder:
 
 7. De personen die de zetel van een permanent lid van de Programmaraad invulling geven, kunnen door de Programmaraad worden ontslagen. Voor een ontslagbesluit van de Programmaraad is een gewone meerderheid vereist. In het geval de stemmen staken, is de stem van de voorzitter doorslaggevend. De zetel van een permanent lid kan bij ontslag door een ander persoon in een vergelijkbare functie binnen de organisatie van de geschorste persoon worden ingevuld.
 
-#### Artikel 3. Vergaderingen Programmaraad
+##### Artikel 3. Vergaderingen Programmaraad
 
 1. Vergaderingen van de Programmaraad vinden in beginsel fysiek plaats.
 
@@ -68,7 +93,7 @@ In dit reglement wordt verstaan onder:
 
 9. De Programmaraad kan besluiten om op verzoek van de CSO anderen dan leden toe te laten tot de vergadering.
 
-#### Artikel 4. Besluitvorming
+##### Artikel 4. Besluitvorming
 
 1. De leden van de Programmaraad hebben ieder één stem.
 
@@ -78,11 +103,11 @@ In dit reglement wordt verstaan onder:
 
 4. Besluiten tot wijziging van het reglement van de Programmaraad kunnen door de Programmaraad slechts worden genomen met een gewone meerderheid van de leden. In het geval de stemmen staken, is de stem van de voorzitter doorslaggevend.
 
-#### Artikel 5. Wetenschappelijke Kwaliteitsraad
+##### Artikel 5. Wetenschappelijke Kwaliteitsraad
 
 De voorzitter van de Programmaraad benoemt de leden van de Wetenschappelijke Kwaliteitsraad. Benoeming vindt plaats na een bij meerderheid genomen besluit van de Programmaraad en op voordracht van de CSO. In het geval de stemmen staken, is de stem van de voorzitter doorslaggevend.
 
-#### Artikel 6. Vaststellen Programma
+##### Artikel 6. Vaststellen Programma
 
 1. De CSO bereidt het Programma voor en legt het Programma, met een verslag van de voorbereidende gesprekken, voor aan de Programmaraad.
 
@@ -98,11 +123,11 @@ De voorzitter van de Programmaraad benoemt de leden van de Wetenschappelijke Kwa
 
 7. Indien het Programma niet is vastgesteld op de uiterste datum die in [artikel 6 lid 5 of lid 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050147&artikel=6&z=2024-08-20&g=2024-08-20) wordt genoemd, legt de CSO het Programma, met een verslag van beraadslaging binnen de Programmaraad, ter vaststelling voor aan de plaatsvervangend Secretaris-Generaal van het Ministerie van Justitie en Veiligheid. Het Programma wordt in dat geval vastgesteld door de plaatsvervangend Secretaris-Generaal van het Ministerie van Justitie en Veiligheid.
 
-#### Artikel 7. Citeertitel
+##### Artikel 7. Citeertitel
 
 Het reglement wordt aangehaald als: Reglement Programmaraad Kenniscentrum Stelsel Gesubsidieerde Rechtsbijstand.
 
-#### Artikel 8. Inwerkingtreding
+##### Artikel 8. Inwerkingtreding
 
 1. Het reglement wordt gepubliceerd in de Staatscourant en op de website van de Raad voor Rechtsbijstand en op de website van het Kenniscentrum.
 

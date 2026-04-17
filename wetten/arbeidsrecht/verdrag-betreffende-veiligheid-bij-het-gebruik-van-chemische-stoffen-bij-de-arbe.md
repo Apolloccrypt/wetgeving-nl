@@ -1,13 +1,35 @@
 ---
 title: "Verdrag betreffende veiligheid bij het gebruik van chemische stoffen bij de arbeid"
 identifier: "BWBV0006571"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2018-06-08
-laatste_update: 2018-06-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006571"
+country: "nl"
+rank: "verdrag"
+publication_date: "2018-06-08"
+last_updated: "2018-06-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006571"
+soort: "verdrag"
+stam_id: "10005337003"
+version_id: "10005748892"
+internal_id: "C10009254101"
+label_id: "10005319974"
+dtd_version: "2.0"
+original_entry_into_force: "2018-06-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006571/2018-06-08/0"
+intitule_bron: "Trb.1990-152"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1990-11-15"
+intitule_in_force: "2017-07-11"
+intitule_status: "goed"
+original_publication: "Trb.1990-152"
+original_published_date: "1990-11-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1990-152"
+entry_into_force_date: "2018-06-08"
+jci_1_3: "jci1.3:c:BWBV0006571&z=2018-06-08&g=2018-06-08"
+jci_1_0: "1.0:c:BWBV0006571&g=2018-06-08"
+citeertitel_status: "redactioneel"
+entry_into_force: "2018-06-08"
 ---
-
 # Verdrag betreffende veiligheid bij het gebruik van chemische stoffen bij de arbeid
 
 De Algemene Conferentie van de Internationale Arbeidsorganisatie,
@@ -40,7 +62,7 @@ neemt heden, de vijfentwintigste juni van het jaar negentienhonderdnegentig het 
 
 ## DEEL I. BEGRIPSOMSCHRIJVINGEN EN TOEPASSINGSGEBIED
 
-#### Artikel 1
+##### Artikel 1
 
 1. Dit Verdrag is van toepassing op alle takken van economische bedrijvigheid waarin chemische stoffen worden gebruikt.
 
@@ -58,7 +80,7 @@ neemt heden, de vijfentwintigste juni van het jaar negentienhonderdnegentig het 
 
 4. Dit Verdrag is niet van toepassing op organismen, maar wel op chemische stoffen die zijn verkregen uit organismen.
 
-#### Artikel 2
+##### Artikel 2
 
 Voor de toepassing van dit Verdrag:
 
@@ -90,21 +112,21 @@ Voor de toepassing van dit Verdrag:
 
 ## DEEL II. ALGEMENE BEGINSELEN
 
-#### Artikel 3
+##### Artikel 3
 
 De meest betrokken representatieve organisaties van werkgevers en werknemers dienen te worden geraadpleegd over de ter uitvoering van de bepalingen van dit Verdrag te nemen maatregelen.
 
-#### Artikel 4
+##### Artikel 4
 
 Rekening houdend met de nationale omstandigheden en praktijk en in overleg met de meest representatieve organisaties van werkgevers en werknemers, dient elk Lid een samenhangend beleid inzake veiligheid bij het gebruik van chemische stoffen bij de arbeid te formuleren, tot uitvoering te brengen, en op geregelde tijden te herzien.
 
-#### Artikel 5
+##### Artikel 5
 
 De bevoegde autoriteit dient de bevoegdheid te hebben om, indien dat gerechtvaardigd is om redenen van veiligheid en gezondheid, het gebruik van bepaalde gevaarlijke chemische stoffen te verbieden of te beperken, of voorafgaande kennisgeving en vergunning te verlangen voor die chemische stoffen worden gebruikt.
 
 ## DEEL III. CLASSIFICATIE EN DAAROP BETREKKING HEBBENDE MAATREGELEN
 
-#### Artikel 6. Classificatiesystemen
+##### Artikel 6. Classificatiesystemen
 
 1. Geëigende systemen en specifieke criteria voor de classificatie van alle chemische stoffen naar soort en mate van de eraan verbonden fysieke gevaren en gevaren voor de gezondheid, alsmede voor het beoordelen van de juistheid van de informatie die nodig is om vast te stellen of een chemische stof gevaarlijk is, dienen te worden vastgesteld door de bevoegde autoriteit of door een door de bevoegde autoriteit goedgekeurde of erkende instantie, in overeenstemming met nationale en internationale normen.
 
@@ -114,7 +136,7 @@ De bevoegde autoriteit dient de bevoegdheid te hebben om, indien dat gerechtvaar
 
 4. De classificatiesystemen en hun toepassing dienen geleidelijk te worden uitgebreid.
 
-#### Artikel 7. Etiketteren en merken
+##### Artikel 7. Etiketteren en merken
 
 1. Alle chemische stoffen dienen zodanig te worden gemerkt dat zij kunnen worden geïdentificeerd.
 
@@ -124,7 +146,7 @@ De bevoegde autoriteit dient de bevoegdheid te hebben om, indien dat gerechtvaar
 
 - (2). Wat betreft het vervoer dienen deze eisen rekening te houden met de Aanbevelingen van de Verenigde Naties over het vervoer van gevaarlijke stoffen.
 
-#### Artikel 8. Informatiebladen over chemische stoffen
+##### Artikel 8. Informatiebladen over chemische stoffen
 
 1. Voor gevaarlijke chemische stoffen dienen aan de werkgevers informatiebladen over chemische stoffen te worden geleverd die uitvoerige essentiële informatie bevatten over hun identiteit, leverancier, classificatie, gevaren, voorzorgsmaatregelen en voorschriften bij noodgevallen.
 
@@ -132,7 +154,7 @@ De bevoegde autoriteit dient de bevoegdheid te hebben om, indien dat gerechtvaar
 
 3. De chemische of gebruikelijke naam die wordt gebruikt om een chemische stof te identificeren op het informatieblad over chemische stoffen, dient dezelfde te zijn als die welke wordt gebruikt op het etiket.
 
-#### Artikel 9. Verantwoordelijkheden van de leveranciers
+##### Artikel 9. Verantwoordelijkheden van de leveranciers
 
 1. Leveranciers van chemische stoffen, om het even of zij fabrikanten, importeurs of tussenhandelaars zijn, dienen er voor te zorgen dat:
 
@@ -150,7 +172,7 @@ De bevoegde autoriteit dient de bevoegdheid te hebben om, indien dat gerechtvaar
 
 ## DEEL IV. VERANTWOORDELIJKHEDEN VAN DE WERKGEVERS
 
-#### Artikel 10. Identificatie
+##### Artikel 10. Identificatie
 
 1. De werkgevers dienen er voor te zorgen dat alle chemische stoffen die bij het werk worden gebruikt, geëtiketteerd of gemerkt zijn zoals voorzien in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006571&deel=III&artikel=7&z=2018-06-08&g=2018-06-08) en dat de informatiebladen over chemische stoffen geleverd zijn zoals voorzien in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006571&deel=III&artikel=8&z=2018-06-08&g=2018-06-08) en beschikbaar worden gesteld aan de werknemers en hun vertegenwoordigers.
 
@@ -160,11 +182,11 @@ De bevoegde autoriteit dient de bevoegdheid te hebben om, indien dat gerechtvaar
 
 4. Werkgevers dienen een lijst bij te houden van gevaarlijke chemische stoffen die op de werkplek worden gebruikt, verwijzend naar de desbetreffende informatiebladen over chemische stoffen. Deze lijst dient toegankelijk te zijn voor alle betrokken werknemers en hun vertegenwoordigers.
 
-#### Artikel 11. Het overbrengen van chemische stoffen
+##### Artikel 11. Het overbrengen van chemische stoffen
 
 De werkgevers dienen er voor te zorgen dat, wanneer chemische stoffen worden overgebracht in andere houders of installaties, de inhoud zodanig wordt aangegeven dat de werknemers worden geïnformeerd over hun identiteit, over alle gevaren die het gebruik ervan met zich mee brengt en alle voorzorgsmaatregelen die met het oog op de veiligheid in acht dienen te worden genomen.
 
-#### Artikel 12. Blootstelling
+##### Artikel 12. Blootstelling
 
 De werkgevers dienen:
 
@@ -176,7 +198,7 @@ De werkgevers dienen:
 
 - d. er voor te zorgen dat de geregistreerde gegevens betreffende de bewaking van het fysieke arbeidsmilieu en van de blootstelling van de werknemers die gevaarlijke stoffen gebruiken, worden bewaard gedurende een periode voorgeschreven door de bevoegde autoriteit en toegankelijk zijn voor de werknemers en hun vertegenwoordigers.
 
-#### Artikel 13. Bedrijfsvoering
+##### Artikel 13. Bedrijfsvoering
 
 1. De werkgevers dienen zich een oordeel te vormen van de risico's die voortvloeien uit het gebruik van chemische stoffen bij het werk, en dienen de werknemers tegen die risico's te beschermen met passende middelen, met name:
 
@@ -200,11 +222,11 @@ De werkgevers dienen:
 
 - c. voorzieningen te treffen om het hoofd te bieden aan noodsituaties.
 
-#### Artikel 14. Afval
+##### Artikel 14. Afval
 
 Gevaarlijke chemische stoffen die niet langer nodig zijn en houders die zijn leeggemaakt maar resten van gevaarlijke chemische stoffen kunnen bevatten, dienen op zodanige wijze te worden verwerkt of afgevoerd dat de risico's voor de veiligheid en gezondheid en het milieu worden weggenomen of zoveel mogelijk beperkt, in overeenstemming met de nationale wetgeving en praktijk.
 
-#### Artikel 15. Informatie en scholing
+##### Artikel 15. Informatie en scholing
 
 De werkgevers dienen:
 
@@ -216,13 +238,13 @@ De werkgevers dienen:
 
 - d. op een permanente basis de werknemers te scholen in werkwijzen en procedures die moeten worden gevolgd voor de veiligheid bij het gebruik van chemische stoffen bij de arbeid.
 
-#### Artikel 16. Samenwerking
+##### Artikel 16. Samenwerking
 
 De werkgevers dienen bij het nakomen van hun verantwoordelijkheden zo nauw mogelijk samen te werken met de werknemers of hun vertegenwoordigers met betrekking tot de veiligheid bij het gebruik van chemische stoffen bij de arbeid.
 
 ## DEEL V. PLICHTEN VAN DE WERKNEMERS
 
-#### Artikel 17
+##### Artikel 17
 
 1. De werknemers dienen zo nauw mogelijk samen te werken met hun werkgevers bij het nakomen van hun verantwoordelijkheden en alle procedures en werkwijzen met betrekking tot de veiligheid bij het gebruik van chemische stoffen bij de arbeid na te leven.
 
@@ -230,7 +252,7 @@ De werkgevers dienen bij het nakomen van hun verantwoordelijkheden zo nauw mogel
 
 ## DEEL VI. RECHTEN VAN DE WERKNEMERS EN HUN VERTEGENWOORDIGERS
 
-#### Artikel 18
+##### Artikel 18
 
 1. De werknemers dienen het recht te hebben zich te verwijderen van gevaar dat voortkomt uit het gebruik van chemische stoffen wanneer zij een redelijke grond hebben om aan te nemen dat er een ernstig gevaar dreigt voor hun veiligheid of gezondheid en dienen dit onmiddellijk aan hun chef te melden.
 
@@ -250,15 +272,15 @@ De werkgevers dienen bij het nakomen van hun verantwoordelijkheden zo nauw mogel
 
 ## DEEL VII. VERANTWOORDELIJKHEID VAN EXPORTERENDE LANDEN
 
-#### Artikel 19
+##### Artikel 19
 
 Wanneer in een exporterende Lidstaat het gebruik van een gevaarlijke chemische stof geheel of gedeeltelijk is verboden om redenen van veiligheid en gezondheid bij de arbeid, dient dit feit alsmede de desbetreffende redenen door de Lidstaat ter kennis te worden gebracht van elk land waarnaar deze exporteert.
 
-#### Artikel 20
+##### Artikel 20
 
 De formele bekrachtigingen van dit Verdrag worden aan de Directeur-Generaal van het Internationaal Arbeidsbureau medegedeeld en door hem geregistreerd.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Dit Verdrag is slechts verbindend voor de Leden van de Internationale Arbeidsorganisatie die hun bekrachtiging door de Directeur-Generaal hebben doen registreren.
 
@@ -266,27 +288,27 @@ De formele bekrachtigingen van dit Verdrag worden aan de Directeur-Generaal van 
 
 3. Vervolgens treedt dit Verdrag voor ieder Lid in werking twaalf maanden na de datum waarop zijn bekrachtiging is geregistreerd.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Elk Lid dat dit Verdrag heeft bekrachtigd, kan het opzeggen na afloop van een termijn van tien jaar na de datum waarop het Verdrag voor het eerst in werking is getreden, door middel van een aan de Directeur-Generaal van het Internationaal Arbeidsbureau gerichte en door deze geregistreerde verklaring. De opzegging wordt eerst van kracht een jaar na de datum waarop zij is geregistreerd.
 
 2. Elk Lid dat dit Verdrag heeft bekrachtigd en niet binnen een jaar na afloop van de termijn van tien jaar als bedoeld in het vorige lid, gebruik maakt van de bevoegdheid tot opzegging, voorzien in dit artikel, is voor een nieuwe termijn van tien jaar gebonden en kan daarna dit Verdrag opzeggen na afloop van elke termijn van tien jaar op de voorwaarden, voorzien in dit artikel.
 
-#### Artikel 23
+##### Artikel 23
 
 1. De Directeur-Generaal van het Internationaal Arbeidsbureau stelt alle Leden van de Internationale Arbeidsorganisatie in kennis van de registratie van alle bekrachtigingen en opzeggingen, die hem door de leden van de Organisatie zijn medegedeeld.
 
 2. Bij kennisgeving aan de Leden van de Organisatie van de registratie van de tweede hem medegedeelde bekrachtiging, vestigt de Directeur-Generaal de aandacht van de Leden van de Organisatie op de datum waarop dit Verdrag in werking treedt.
 
-#### Artikel 24
+##### Artikel 24
 
 De Directeur-Generaal van het Internationaal Arbeidsbureau doet aan de Secretaris-Generaal van de Verenigde Naties mededeling, ter registratie in overeenstemming met het bepaalde in [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102), van de volledige bijzonderheden omtrent alle bekrachtigingen en opzeggingen die hij overeenkomstig de bepalingen van de voorgaande artikelen heeft geregistreerd.
 
-#### Artikel 25
+##### Artikel 25
 
 De Raad van Beheer van het Internationaal Arbeidsbureau brengt, telkens wanneer deze dit noodzakelijk acht, aan de Algemene Conferentie verslag uit over de toepassing van dit Verdrag en onderzoekt of het wenselijk is de gehele of gedeeltelijke herziening ervan op de agenda van de Conferentie te plaatsen.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Indien de Conferentie een nieuw verdrag aanneemt, houdende gehele of gedeeltelijke herziening van dit Verdrag zal, tenzij het nieuwe verdrag anders bepaalt:
 
@@ -296,7 +318,7 @@ De Raad van Beheer van het Internationaal Arbeidsbureau brengt, telkens wanneer 
 
 2. Dit Verdrag blijft echter in elk geval naar vorm en inhoud van kracht voor de Leden die het hebben bekrachtigd en die het nieuwe verdrag, houdende herziening, niet hebben bekrachtigd.
 
-#### Artikel 27
+##### Artikel 27
 
 De Engelse en de Franse tekst van dit Verdrag zijn gelijkelijk authentiek.
 

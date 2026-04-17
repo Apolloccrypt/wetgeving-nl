@@ -1,13 +1,35 @@
 ---
-title: "Besluit uitvoering artikel 15, tweede lid, Vorderingswet 1962"
+title: "Besluit van 18 mei 1966, tot uitvoering van artikel 15, tweede lid, van de Vorderingswet 1962"
 identifier: "BWBR0002528"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002528"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002528"
+soort: "AMvB"
+stam_id: "1154073"
+version_id: "1708532"
+internal_id: "C1708531"
+label_id: "1118834"
+dtd_version: "2.0"
+original_entry_into_force: "1966-06-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002528/2024-01-01/0"
+intitule_bron: "Stb.1966-230"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1966-05-18"
+intitule_status: "goed"
+original_publication: "Stb.1966-230"
+original_signed_date: "1966-05-18"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1966-06-23"
+jci_1_3: "jci1.3:c:BWBR0002528&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0002528&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit uitvoering artikel 15, tweede lid, Vorderingswet 1962"
+signed_date: "1966-05-18"
+entry_into_force: "1966-06-23"
 ---
-
 # Besluit van 18 mei 1966, tot uitvoering van artikel 15, tweede lid, van de Vorderingswet 1962
 
 Op de voordracht van de Staatssecretaris van Economische Zaken en Onze Ministers van Justitie en van Financiën van 25 mei 1964, no. 665/540 W.J.A.;
@@ -22,7 +44,7 @@ Gezien het nader rapport van voornoemde Staatssecretaris en Onze voornoemde Mini
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 1. In geval van vordering van het eigendomsrecht op een roerende zaak bedraagt het totaal der uit te keren schadeloosstellingen: de waarde van de zaak, zonodig vermeerderd met een vergoeding van bijkomende schade, welke door rechthebbenden op schadeloosstelling is geleden als rechtstreeks en onvermijdelijk gevolg van de uitvoering van de vorderingsbeschikking.
 
@@ -30,13 +52,13 @@ Hebben goedgevonden en verstaan:
 
 3. Ten aanzien van de verdeling van het in het tweede lid bedoelde totaalbedrag over de rechthebbenden op schadeloosstelling is [paragraaf 15.3.1 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&paragraaf=15.3.1), voor zover mogelijk, van overeenkomstige toepassing.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Bij het vaststellen van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002528&artikel=1&z=2024-01-01&g=2024-01-01) bedoelde waarde van de zaak of van het gevorderde recht alsmede bij het vaststellen van het bedrag der in dat artikel bedoelde bijkomende schade wordt rekening gehouden met prijsvoorschriften, die van overheidswege zijn gegeven betreffende zaken waarop de vordering betrekking heeft.
 
 2. Bij zodanige vaststelling wordt geen rekening gehouden met andere voordelen dan prijsstijging, die het gevolg zijn geweest van buitengewone omstandigheden, welke tot toepassing van [artikel 3 van de Vorderingswet 1962](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=3) (**Stb.** 587) aanleiding hebben gegeven, in het algemeen of van vordering van soortgelijke zaken als waarop de die schade veroorzakende vordering betrekking heeft, in het bijzonder.
 
-#### Artikel 3
+##### Artikel 3
 
 1. In geval van vordering van het eigendomsrecht op een roerende zaak wordt de waarde van de zaak, indien deze tot de handels- of bedrijfsvoorraad van een rechthebbende op schadeloosstelling behoort, vastgesteld op het gemiddelde van de inkoopsprijzen - of, indien de zaak door hem zelf is voortgebracht, van de kostprijzen - die voor hem hebben gegolden in de onmiddellijk aan de vordering voorafgegane tijdsruimte van twee weken. Bij het voor zodanige rechthebbende vaststellen van de schadeloosstelling wordt met de door hem gederfde winst als bijkomende schade rekening gehouden.
 
@@ -44,7 +66,7 @@ Hebben goedgevonden en verstaan:
 
 3. Bij het vaststellen van de waarde van de zaak wordt rekening gehouden met verschillen tussen hetgeen in de vorderingsbeschikking aangaande het verschaffen van de feitelijke mogelijkheid tot uitoefening van het gevorderde eigendomsrecht bepaald is en de leveringsvoorwaarden, die bij verkoop van een zaak als waarop de vordering betrekking heeft voor degene die bedoelde mogelijkheid moet verschaffen gebruikelijk zijn.
 
-#### Artikel 4
+##### Artikel 4
 
 1. In geval van vordering van een recht tot gebruik van een onroerende zaak wordt de waarde van het gevorderde recht vastgesteld op de huurwaarde van de zaak naar de maatstaven van de artikelen 7 en 8 van de Wet op de personele belasting 1950 (**Stb.** 598) of de pachtwaarde van de zaak naar de maatstaven van de ter uitvoering van [artikel 327 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=327) gestelde regelen.
 
@@ -52,7 +74,7 @@ Hebben goedgevonden en verstaan:
 
 3. Indien het gevorderde gebruiksrecht een beperkte inhoud heeft, wordt de waarde van het gevorderde recht naar evenredigheid verminderd.
 
-#### Artikel 5
+##### Artikel 5
 
 In geval van vordering van een recht tot gebruik van een roerende zaak wordt de waarde van het gevorderde recht vastgesteld:
 
@@ -66,21 +88,21 @@ In geval van vordering van een recht tot gebruik van een roerende zaak wordt de 
 
 - 2. een vergoeding voor de waardevermindering van de zaak, die bij normaal gebruik tijdens die duur ontstaat.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een met toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002528&artikel=4&z=2024-01-01&g=2024-01-01) of 5 vastgestelde schadeloosstelling wordt vermeerderd met een vergoeding voor een als gevolg van het gebruik van de zaak ontstane meer dan normale waardevermindering daarvan.
 
 2. In dat geval wordt de schadeloosstelling doorbetaald over de tijd, welke redelijkerwijs nodig is voor het herstel van bedoelde waardevermindering, voor zover dit plaatsvindt en dientengevolge het gebruik van de zaak wordt belemmerd.
 
-#### Artikel 7
+##### Artikel 7
 
 Op een met toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002528&artikel=4&z=2024-01-01&g=2024-01-01) of 5 vastgestelde schadeloosstelling wordt in mindering gebracht de waardevermeerdering van de zaak, welke is ontstaan als gevolg van het gebruik daarvan en ten goede komt aan degene, die op die schadeloosstelling recht heeft.
 
-#### Artikel 8
+##### Artikel 8
 
 Indien een rechthebbende op schadeloosstelling een mogelijkheid, die hij redelijkerwijs heeft gehad om de schade te beperken, niet heeft benut, wordt de schadeloosstelling verminderd met het bedrag, tot hetwelk beperking van de schade mogelijk ware geweest.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Onze Minister die een recht tot gebruik van een zaak ten behoeve van de Staat heeft gevorderd verleent aan degene, die deswege op schadeloosstelling recht heeft, op diens verzoek per kalenderkwartaal een voorschot.
 
@@ -102,7 +124,7 @@ Indien een rechthebbende op schadeloosstelling een mogelijkheid, die hij redelij
 
 - f. degene die het voorschot zal uitbetalen.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad,** waarin het wordt geplaatst.
 

@@ -1,13 +1,39 @@
 ---
-title: "Besluit vrachtwagenheffing"
+title: "Besluit van 19 september 2023 houdende regels ter uitvoering van de Wet vrachtwagenheffing (Besluit vrachtwagenheffing)"
 identifier: "BWBR0048668"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-03-01
-laatste_update: 2026-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048668"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-03-01"
+last_updated: "2026-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048668"
+soort: "AMvB"
+stam_id: "16867233"
+version_id: "29643882"
+internal_id: "C42418931"
+label_id: "16779554"
+dtd_version: "2.0"
+original_entry_into_force: "2024-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048668/2026-03-01/0"
+intitule_bron: "Stb.2023-318"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-09-19"
+intitule_published: "2023-09-29"
+intitule_in_force: "2023-09-29"
+intitule_status: "goed"
+original_publication: "Stb.2023-318"
+original_signed_date: "2023-09-19"
+original_published_date: "2023-09-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2023-318"
+entry_into_force_date: "2024-01-01"
+jci_1_3: "jci1.3:c:BWBR0048668&z=2026-03-01&g=2026-03-01"
+jci_1_0: "1.0:c:BWBR0048668&g=2026-03-01"
+citeertitel_status: "officieel"
+short_title: "Besluit vrachtwagenheffing"
+signed_date: "2023-09-19"
+entry_into_force: "2024-01-01"
 ---
-
 # Besluit van 19 september 2023 houdende regels ter uitvoering van de Wet vrachtwagenheffing (Besluit vrachtwagenheffing)
 
 Op de voordracht van Onze Minister van Infrastructuur en Waterstaat van 11 juli 2023, nr. IENW/BSK-2023/180775, Hoofddirectie Bestuurlijke en Juridische Zaken;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. (begripsbepalingen)
+##### Artikel 1. (begripsbepalingen)
 
 In dit besluit wordt verstaan onder:
 
@@ -34,13 +60,13 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 2. Voorwaarde ontheffing van de vrachtwagenheffing
 
-#### Artikel 2. (voorwaarde ontheffing)
+##### Artikel 2. (voorwaarde ontheffing)
 
 De op grond van [artikel 3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&artikel=3) verleende ontheffing is niet overdraagbaar.
 
 ### Hoofdstuk 3. Voertuigdocumenten voor sluiten dienstverleningsovereenkomst
 
-#### Artikel 3. (over te leggen voertuigdocumenten)
+##### Artikel 3. (over te leggen voertuigdocumenten)
 
 De voertuigdocumenten, bedoeld in [artikel 8, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&artikel=8), die de houder aan de dienstaanbieder over kan leggen ten behoeve van het bepalen van het tarief van de vrachtwagenheffing door de dienstaanbieder, zijn, voor zover de maximummassa van de vrachtwagen of de maximummassa van de combinatie en de CO2-emissieklasse en, indien van toepassing, de euro-emissieklasse van de vrachtwagen daarin staan vermeld, dan wel daaruit kunnen worden afgeleid:
 
@@ -54,7 +80,7 @@ De voertuigdocumenten, bedoeld in [artikel 8, vierde lid, van de wet](https://we
 
 ### Hoofdstuk 4. Gegevensbescherming
 
-#### Artikel 4. (gegevensverwerking Minister voor de heffing, invordering en handhaving)
+##### Artikel 4. (gegevensverwerking Minister voor de heffing, invordering en handhaving)
 
 1. De te verwerken persoonsgegevens voor de heffing en invordering, bedoeld in [artikel 21, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&artikel=21) betreffen uitsluitend:
 
@@ -86,7 +112,7 @@ De voertuigdocumenten, bedoeld in [artikel 8, vierde lid, van de wet](https://we
 
 - d. het unieke kenmerk van de dienstverleningsovereenkomst.
 
-#### Artikel 5. (gegevensverwerking toezichthouder voor het toezicht op de naleving)
+##### Artikel 5. (gegevensverwerking toezichthouder voor het toezicht op de naleving)
 
 1. De te verwerken persoonsgegevens voor het toezicht op de naleving, bedoeld in [artikel 22, eerste lid onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&artikel=22), betreft het unieke kenmerk van de dienstverleningsovereenkomst.
 
@@ -100,13 +126,13 @@ De voertuigdocumenten, bedoeld in [artikel 8, vierde lid, van de wet](https://we
 
 ### Hoofdstuk 5. Regels over inzet en kenbaar maken gebruik technisch hulpmiddel en benodigde informatie boordapparatuur
 
-#### Artikel 6. (inzet technisch hulpmiddel)
+##### Artikel 6. (inzet technisch hulpmiddel)
 
 1. Er worden zodanige maatregelen of voorzieningen getroffen dat slechts gebruik wordt gemaakt van technische hulpmiddelen die zo zijn gericht en afgesteld dat zo veel mogelijk wordt voorkomen dat personen of andere zaken dan motorrijtuigen herkenbaar op een beeldopname staan.
 
 2. In het voorkomende geval dat personen of andere zaken dan motorrijtuigen herkenbaar op een beeldopname staan, worden deze personen of andere zaken onmiddellijk onherstelbaar onherkenbaar gemaakt.
 
-#### Artikel 7. (waarnemingsplan technisch hulpmiddel)
+##### Artikel 7. (waarnemingsplan technisch hulpmiddel)
 
 1. De toezichthouder stelt in ieder geval jaarlijks een waarnemingsplan vast voorafgaand aan de datum met ingang waarvan het tarief, bedoeld in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&artikel=2), wordt geheven en draagt zorg voor de actualiteit van het plan.
 
@@ -126,7 +152,7 @@ De voertuigdocumenten, bedoeld in [artikel 8, vierde lid, van de wet](https://we
 
 4. Het waarnemingsplan wordt in de Staatscourant gepubliceerd.
 
-#### Artikel 8. (benodigde informatie uit boordapparatuur)
+##### Artikel 8. (benodigde informatie uit boordapparatuur)
 
 De vast te leggen en te verwerken informatie uit de boordapparatuur, bedoeld in [artikel 14, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&artikel=14) betreft uitsluitend:
 
@@ -138,11 +164,11 @@ De vast te leggen en te verwerken informatie uit de boordapparatuur, bedoeld in 
 
 ### Hoofdstuk 6. Slotbepalingen
 
-#### Artikel 9. (inwerkingtreding)
+##### Artikel 9. (inwerkingtreding)
 
 Dit besluit treedt in werking op 1 januari 2024.
 
-#### Artikel 10. (citeertitel)
+##### Artikel 10. (citeertitel)
 
 Dit besluit wordt aangehaald als: Besluit vrachtwagenheffing.
 

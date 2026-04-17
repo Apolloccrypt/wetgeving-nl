@@ -1,13 +1,38 @@
 ---
 title: "Verdrag tussen de Regering van het Koninkrijk der Nederlanden en het Kabinet van Ministers van Oekraïne inzake technische en financiële samenwerking"
 identifier: "BWBV0001334"
-categorie: "Internationaal recht"
-publicatiedatum: 1999-04-20
-laatste_update: 1999-04-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001334"
+country: "nl"
+rank: "verdrag"
+publication_date: "1999-04-20"
+last_updated: "1999-04-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001334"
+soort: "verdrag"
+stam_id: "10001397423"
+version_id: "10001466622"
+internal_id: "C10006990331"
+label_id: "10001397564"
+dtd_version: "2.0"
+original_entry_into_force: "1999-04-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001334/1999-04-20/0"
+intitule_bron: "Trb.1998-140"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-05-11"
+intitule_published: "1998-06-12"
+intitule_in_force: "1999-05-28"
+intitule_status: "goed"
+original_publication: "Trb.1998-140"
+original_signed_date: "1998-05-11"
+original_published_date: "1998-06-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1998-140"
+entry_into_force_date: "1999-04-20"
+jci_1_3: "jci1.3:c:BWBV0001334&z=1999-04-20&g=1999-04-20"
+jci_1_0: "1.0:c:BWBV0001334&g=1999-04-20"
+citeertitel_status: "redactioneel"
+signed_date: "1998-05-11"
+entry_into_force: "1999-04-20"
 ---
-
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en het Kabinet van Ministers van Oekraïne inzake technische en financiële samenwerking
 
 De Regering van het Koninkrijk der Nederlanden
@@ -26,13 +51,13 @@ Zich ervan bewust dat het Kabinet van Ministers van Oekraïne zich ervoor inzet 
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Doelstellingen
+##### Artikel 1. Doelstellingen
 
 1.1. De Partijen zullen de verwezenlijking van projecten of programma's inzake technische en financiële bijstand in Oekraïne bevorderen. De projecten of programma's dragen bij aan de ondersteuning van het transitieproces in Oekraïne en aan de verlichting van de economische en maatschappelijke kosten van de aanpassing. Zij dragen tevens bij aan de verdere versterking van de samenwerking tussen Nederlandse en Oekraïense ondernemingen.
 
 1.2. Het doel van dit Verdrag is een wettelijk kader van regels en procedures te creëren voor het verloop en de uitvoering van deze projecten of programma's.
 
-#### Artikel 2. Werkingssfeer en toepassing
+##### Artikel 2. Werkingssfeer en toepassing
 
 De bepalingen van dit Verdrag zijn van toepassing op:
 
@@ -46,7 +71,7 @@ De bepalingen van dit Verdrag zijn van toepassing op:
 
 Beide Partijen stellen jaarlijks in onderlinge overeenstemming een lijst op met projecten die onder de werkingssfeer van dit artikel vallen.
 
-#### Artikel 3. Samenwerkingsterreinen
+##### Artikel 3. Samenwerkingsterreinen
 
 3.1. De samenwerking geschiedt in de vorm van technische bijstand, financiële bijstand en humanitaire hulp.
 
@@ -64,7 +89,7 @@ Beide Partijen stellen jaarlijks in onderlinge overeenstemming een lijst op met 
 
 3.8. De coördinatie van de in dit Verdrag bedoelde activiteiten in Oekraïne is in handen van de instantie die de internationale technische bijstand coördineert en die optreedt namens het Kabinet van Ministers van Oekraïne.
 
-#### Artikel 4. Voorwaarden voor de uitvoering
+##### Artikel 4. Voorwaarden voor de uitvoering
 
 4.1. Om de uitvoering van de samenwerkingsprojecten of -programma's te vergemakkelijken worden alle uitrusting, diensten en materialen die door de Nederlandse Partij binnen de werkingssfeer van dit Verdrag worden gefinancierd vrijgesteld van belastingen, rechten (behalve douanerechten die de Oekraïense begunstigden moeten betalen) en andere verplichte heffingen.
 
@@ -78,11 +103,11 @@ Beide Partijen stellen jaarlijks in onderlinge overeenstemming een lijst op met 
 
 De Oekraïense Partij verstrekt, binnen het kader van de nationale wetgeving, kosteloos en onverwijld inreisvisa voor deskundigen en vertegenwoordigers die deelnemen aan de overeengekomen projecten of programma's.
 
-#### Artikel 5. Anticorruptie-bepaling
+##### Artikel 5. Anticorruptie-bepaling
 
 De Partijen hebben een gemeenschappelijke bezorgdheid met betrekking tot corruptie, die goed bestuur ondermijnt, schaarse middelen voor ontwikkeling verspilt en een open en doorzichtige concurrentie op basis van prijs en kwaliteit in gevaar brengt. Daarom verplichten zij zich ertoe hun krachten te bundelen bij de bestrijding van corruptie en verklaren zij dat elk aanbod, elke betaling, beloning of gunst die als een illegale of corrupte praktijk zou kunnen worden geïnterpreteerd en die, direct of indirect, is gedaan als een stimulans of vergoeding voor de gunning van een opdracht verleend in het kader van dit Verdrag, reden is voor onmiddellijk overleg, uitwisseling van alle relevante informatie en passende maatregelen, die mede de annulering van het plaatsen en de daaruit voortvloeiende gunning van de opdracht kunnen inhouden. In overeenstemming met de toepasselijke wet- en regelgeving kunnen aanvullende maatregelen worden genomen.
 
-#### Artikel 6. Coördinatie en procedure
+##### Artikel 6. Coördinatie en procedure
 
 6.1. Elk project of programma wordt op basis van dit Verdrag onderworpen aan een bijzondere regeling tussen de partners van het project of programma, waarin gedetailleerd de rechten en verplichtingen van elke partner van het project of programma worden vastgelegd en omschreven. Elk project of programma wordt kosteloos en onverwijld naar behoren geregistreerd bij de instantie die de internationale technische bijstand coördineert en die optreedt namens het Kabinet van Ministers van Oekraïne in overeenstemming met de geldende wetgeving van Oekraïne. De Oekraïense begunstigde of de Ambassade van het Koninkrijk der Nederlanden in Oekraïne dient de documenten ter registratie in.
 
@@ -94,7 +119,7 @@ De Partijen hebben een gemeenschappelijke bezorgdheid met betrekking tot corrupt
 
 6.5. De Partijen houden elkaar volledig op de hoogte over de ingevolge dit Verdrag geïnitieerde projecten of programma's. Zij wisselen met regelmatige tussenpozen op werkniveau gezichtspunten uit inzake de voortgang onder dit Verdrag gefinancierde projecten of programma's gedurende de uitvoering daarvan en gedurende het eerste loopjaar van de projecten of programma's.
 
-#### Artikel 7. Slotbepalingen
+##### Artikel 7. Slotbepalingen
 
 7.1. Dit Verdrag treedt in werking vanaf de datum van uitwisseling van de laatste kennisgevingen waarin wordt bevestigd dat de Partijen aan hun nationale vereiste procedures voor de inwerkingtreding hebben voldaan.
 

@@ -1,14 +1,38 @@
 ---
-title: "Wet op de Sociaal-Economische Raad"
+title: "Wet van 27 januari 1950, tot toepassing ten aanzien van het bedrijfsleven van de artikelen 80 en 152 tot en met 154 van de Grondwet"
 identifier: "BWBR0002058"
-categorie: "Overig"
-publicatiedatum: 2023-01-01
-laatste_update: 2023-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002058"
+country: "nl"
+rank: "wet"
+publication_date: "2023-01-01"
+last_updated: "2023-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002058"
+soort: "wet"
+stam_id: "1089013"
+version_id: "1611152"
+internal_id: "C1611151"
+label_id: "1059564"
+dtd_version: "2.0"
+original_entry_into_force: "1950-02-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002058/2023-01-01/0"
+intitule_bron: "Stb.1950-K 22"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1950-01-27"
+intitule_status: "goed"
+original_publication: "Stb.1950-K 22"
+original_signed_date: "1950-01-27"
+original_effect: "nieuwe-regeling"
+original_dossier: "873"
+entry_into_force_date: "1950-02-15"
+entry_into_force_dossier: "873"
+jci_1_3: "jci1.3:c:BWBR0002058&z=2023-01-01&g=2023-01-01"
+jci_1_0: "1.0:c:BWBR0002058&g=2023-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet op de Sociaal-Economische Raad"
+signed_date: "1950-01-27"
+entry_into_force: "1950-02-15"
 ---
-
-# Wet op de Sociaal-Economische Raad
+# Wet van 27 januari 1950, tot toepassing ten aanzien van het bedrijfsleven van de artikelen 80 en 152 tot en met 154 van de Grondwet
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -20,7 +44,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ## Titel I. Van de zetel en de taak
 
-#### Artikel 1
+##### Artikel 1
 
 1. Er is een Sociaal-Economische Raad, hierna genoemd Raad.
 
@@ -28,7 +52,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 3. De Raad is rechtspersoon.
 
-#### Artikel 2
+##### Artikel 2
 
 De Raad heeft, onverminderd de hem bij de vijfde titel van dit hoofdstuk opgedragen adviserende functie, tot taak een het algemeen belang dienende werkzaamheid van het bedrijfsleven te bevorderen, alsmede het belang van het bedrijfsleven en de daartoe behorende personen te behartigen.
 
@@ -36,13 +60,13 @@ De Raad heeft, onverminderd de hem bij de vijfde titel van dit hoofdstuk opgedra
 
 #### § 1. Algemene bepaling
 
-#### Artikel 3
+##### Artikel 3
 
 De Raad heeft een voorzitter, een dagelijks bestuur, een algemeen secretaris en, bij toepassing van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=6&artikel=19&z=2023-01-01&g=2023-01-01), een of meer commissies uit zijn midden.
 
 #### § 2. Van de Raad
 
-#### Artikel 4
+##### Artikel 4
 
 1. De Raad bestaat uit ten minste dertig en ten hoogste vijf en veertig leden.
 
@@ -62,23 +86,23 @@ De Raad heeft een voorzitter, een dagelijks bestuur, een algemeen secretaris en,
 
 7. De Raad wordt gehoord, alvorens Ons een voordracht tot aanwijzing van een organisatie, als bedoeld in het tweede lid, of tot een besluit, als bedoeld in het vijfde lid, wordt gedaan.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Lid of plaatsvervangend lid van de Raad kunnen alleen zijn zij die niet van de verkiesbaarheid bij krachtens wettelijk voorschrift uitgeschreven verkiezingen zijn ontzet, noch van de uitoefening van het kiesrecht bij zodanige verkiezingen zijn uitgesloten.
 
 2. Van het lidmaatschap zijn uitgesloten zij, die zijn ontzet van het recht ambten of bepaalde ambten te bekleden, dan wel bepaalde beroepen of functies uit te oefenen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Bij algemene maatregel van bestuur kunnen regelen worden gesteld omtrent de onverenigbaarheid van het lidmaatschap van de Raad met andere werkzaamheden.
 
 2. De voordracht voor een krachtens het eerste lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.
 
-#### Artikel 7
+##### Artikel 7
 
 Bij algemene maatregel van bestuur kunnen regelen worden gesteld ter verzekering van de naleving van het bepaalde in artikel 5 en de krachtens artikel 6 gestelde regelen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De leden van de Raad en hun plaatsvervangers treden om de twee jaren tegelijk af en kunnen terstond opnieuw worden benoemd.
 
@@ -88,17 +112,17 @@ Bij algemene maatregel van bestuur kunnen regelen worden gesteld ter verzekering
 
 4. Hij, die in het geval van zeteluitbreiding tot lid of plaatsvervangend lid is benoemd, treedt tegelijk met de overige leden van de Raad en hun plaatsvervangers af op het tijdstip, genoemd in het eerste lid.
 
-#### Artikel 9
+##### Artikel 9
 
 De leden van de Raad en hun plaatsvervangers kunnen een vergoeding genieten volgens regelen, door de Raad bij verordening te stellen.
 
-#### Artikel 10
+##### Artikel 10
 
 De leden van de Raad en hun plaatsvervangers zijn verplicht tot geheimhouding van alle zaken- en bedrijfsgeheimen, welke zij in hun hoedanigheid vernemen, en voorts van alle aangelegenheden, ten aanzien waarvan de Raad of de voorzitter geheimhouding heeft opgelegd, of waarvan zij het vertrouwelijke karakter moeten begrijpen.
 
 #### § 3. Van de voorzitter
 
-#### Artikel 11
+##### Artikel 11
 
 1. De voorzitter wordt door Ons uit de leden van de Raad benoemd en kan door Ons worden geschorst en ontslagen. De Raad wordt gehoord, alvorens Ons een voordracht tot benoeming of ontslag wordt gedaan.
 
@@ -106,19 +130,19 @@ De leden van de Raad en hun plaatsvervangers zijn verplicht tot geheimhouding va
 
 3. De benoeming van de plaatsvervangende voorzitters geschiedt in dier voege, dat uit elk van de groepen: leden, benoemd door organisaties van ondernemers, leden, benoemd door organisaties van werknemers, en overige leden, met uitzondering van de groep, waaruit de voorzitter is benoemd, een hunner wordt benoemd.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De benoeming van de voorzitter en de plaatsvervangende voorzitters geschiedt telkens voor ten hoogste twee jaren. Zij zijn terstond weder benoembaar.
 
 2. De voorzitter en de plaatsvervangende voorzitters kunnen te allen tijde als zodanig ontslag bekomen door een schriftelijke kennisgeving aan Ons, onderscheidenlijk aan de voorzitter.
 
-#### Artikel 13
+##### Artikel 13
 
 De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=9&z=2023-01-01&g=2023-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=10&z=2023-01-01&g=2023-01-01) zijn ten aanzien van de voorzitter en de plaatsvervangende voorzitters van overeenkomstige toepassing.
 
 #### § 4. Van het dagelijks bestuur
 
-#### Artikel 14
+##### Artikel 14
 
 1. Behoudens het bepaalde in het volgende lid benoemt de Raad uit zijn midden de leden van het dagelijks bestuur.
 
@@ -126,13 +150,13 @@ De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerst
 
 3. Het dagelijks bestuur wordt zodanig samengesteld, dat het een afspiegeling vormt van de samenstelling van de Raad.
 
-#### Artikel 15
+##### Artikel 15
 
 De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=9&z=2023-01-01&g=2023-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=10&z=2023-01-01&g=2023-01-01) zijn ten aanzien van het dagelijks bestuur van overeenkomstige toepassing.
 
 #### § 5. Van het secretariaat
 
-#### Artikel 16
+##### Artikel 16
 
 1. De Raad heeft een secretariaat, dat bestaat uit een algemeen secretaris, een of meer secretarissen en ander personeel.
 
@@ -140,7 +164,7 @@ De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerst
 
 3. Het personeel is in dienst op grond van een arbeidsovereenkomst naar burgerlijk recht.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De algemeen secretaris en de secretarissen kunnen noch zelf een onderneming drijven, noch in dienst zijn van een natuurlijke of rechtspersoon, die een onderneming drijft, noch enige andere functie ten behoeve van zulk een natuurlijke of rechtspersoon vervullen, tenzij naar het oordeel van de Raad daardoor een goede vervulling van hun functie niet wordt belemmerd. Onder onderneming wordt mede verstaan een bedrijf, waarmede niet wordt beoogd het maken van winst.
 
@@ -148,13 +172,13 @@ De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerst
 
 3. Bij algemene maatregel van bestuur kunnen regelen worden gesteld ter verzekering van de naleving van het bepaalde in het eerste lid en de krachtens het tweede lid gestelde regelen.
 
-#### Artikel 18
+##### Artikel 18
 
 [Artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=10&z=2023-01-01&g=2023-01-01) is ten aanzien van het personeel van het secretariaat van overeenkomstige toepassing.
 
 #### § 6. Van de commissies uit het midden van de Raad
 
-#### Artikel 19
+##### Artikel 19
 
 1. De Raad is bevoegd voor bepaalde onderwerpen commissies uit zijn midden in te stellen.
 
@@ -162,29 +186,29 @@ De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerst
 
 ## Titel III. Van de werkwijze
 
-#### Artikel 20
+##### Artikel 20
 
 De Raad vergadert niet, indien blijkens de presentielijst niet meer dan de helft van de zitting hebbende leden is opgekomen. Nadat tweemaal tot een vergadering is opgeroepen, zonder dat meer dan de helft van de zitting hebbende leden is opgekomen, wordt de daarna uitgeschreven vergadering gehouden, ongeacht het aantal opgekomen leden.
 
-#### Artikel 21
+##### Artikel 21
 
 De leden van de Raad zijn niet gerechtelijk vervolgbaar voor hetgeen zij in de vergaderingen hebben gezegd of aan haar schriftelijk hebben overgelegd.
 
-#### Artikel 22
+##### Artikel 22
 
 De leden van de Raad stemmen zonder last of ruggespraak.
 
-#### Artikel 23
+##### Artikel 23
 
 De leden van de Raad onthouden zich van medestemmen over zaken, die hun, hun echtgenoten of hun geregistreerde partners of hun bloed- of aanverwanten tot de derde graad ingesloten, persoonlijk aangaan.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Over zaken wordt mondeling en bij hoofdelijke oproeping, over personen bij gesloten en ongetekende briefjes gestemd.
 
 2. Indien bij het nemen van een besluit over een zaak geen der leden stemming vraagt, wordt het voorstel geacht te zijn aangenomen.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Een stemming is nietig, indien niet meer dan de helft van het aantal zitting hebbende leden, die zich niet van medestemmen moeten onthouden, aan de stemming heeft deelgenomen.
 
@@ -194,65 +218,65 @@ De leden van de Raad onthouden zich van medestemmen over zaken, die hun, hun ech
 
 4. Een stemming, gehouden in een vergadering, als bedoeld in de tweede volzin van artikel 20, is geldig, ongeacht het aantal leden, dat aan de stemming heeft deelgenomen.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Ieder lid kan één stem uitbrengen.
 
 2. Voor de vaststelling van een verordening is een meerderheid van twee derden, voor het tot stand komen van een ander besluit de volstrekte meerderheid van de uitgebrachte stemmen vereist. Blanco stemmen worden geacht niet te zijn uitgebracht.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Bij staking van stemmen in een voltallige vergadering wordt, indien het zaken betreft, het voorstel geacht niet te zijn aangenomen, en beslist, indien het personen betreft, het lot.
 
 2. Bij staking van stemmen in een andere dan een voltallige vergadering wordt het nemen van een besluit tot een volgende vergadering uitgesteld, waarin de beraadslagingen kunnen worden heropend. Indien de stemmen dan opnieuw staken, is het voorgaande lid van overeenkomstige toepassing.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Onze Ministers zijn bevoegd de door de Raad en de commissies uit zijn midden te houden vergaderingen bij te wonen en zich daarin door een of meer door hen aan te wijzen personen te doen bijstaan, dan wel zich daarin door een of meer zodanige personen te doen vertegenwoordigen. Zowel zij als hun vertegenwoordigers hebben in deze vergaderingen een raadgevende stem.
 
 2. Aan Onze Ministers wordt tijdig kennis gegeven van de in dat lid bedoelde vergaderingen.
 
-#### Artikel 29
+##### Artikel 29
 
 De [artikelen 20 tot en met 27](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=III&artikel=20&z=2023-01-01&g=2023-01-01) zijn van overeenkomstige toepassing ten aanzien van het dagelijks bestuur.
 
-#### Artikel 30
+##### Artikel 30
 
 De Raad vraagt de adviezen, welke hij voor de vervulling van zijn taak nodig acht.
 
-#### Artikel 31
+##### Artikel 31
 
 De Raad kan bij verordening nadere regelen stellen betreffende zijn werkwijze.
 
 ## Titel IV. Van de vervulling van de taak
 
-#### Artikel 32
+##### Artikel 32
 
 1. De Raad maakt ten aanzien van de onderwerpen, waarvan de regeling of nadere regeling bij de wet aan hem is overgelaten, de verordeningen, die hij ter vervulling van zijn in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=I&artikel=2&z=2023-01-01&g=2023-01-01) omschreven taak nodig oordeelt.
 
 2. Bij deze verordeningen kunnen overtredingen van het bij of krachtens haar bepaalde worden aangewezen als strafbare feiten.
 
-#### Artikel 33
+##### Artikel 33
 
 De wet bepaalt, voor wie de verordeningen, bedoeld in artikel 32, eerste lid, bindende regelen kunnen inhouden.
 
-#### Artikel 34
+##### Artikel 34
 
 Vervallen
 
-#### Artikel 35
+##### Artikel 35
 
 De Raad kan met betrekking tot de vervulling van zijn in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=I&artikel=2&z=2023-01-01&g=2023-01-01) omschreven taak, bij verordening zijn bevoegdheden - met uitzondering van de bevoegdheid tot het maken van verordeningen en die tot het vaststellen ingevolge [artikel 52, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=VI&paragraaf=2&artikel=52&z=2023-01-01&g=2023-01-01), van het bedrag der inkomsten en uitgaven -, delegeren aan de voorzitter, het dagelijks bestuur of een commissie uit zijn midden.
 
-#### Artikel 36
+##### Artikel 36
 
 De Raad verleent de bij of krachtens een wet tot uitvoering daarvan gevorderde medewerking. Tot de gevorderde medewerking kan mede behoren het stellen van nadere regelen bij verordening.
 
-#### Artikel 37
+##### Artikel 37
 
 Tenzij het voorschrift, waarbij de medewerking wordt ingeroepen, anders bepaalt, kan de Raad bij verordening zijn bevoegdheden, voortvloeiend uit de gevorderde medewerking, met uitzondering van het stellen van nadere regelen bij verordening, delegeren aan een commissie uit zijn midden.
 
-#### Artikel 38
+##### Artikel 38
 
 1. Tenzij naar zijn oordeel dringende redenen zich daartegen verzetten, geeft de Raad kennis van de ontwerpen van verordeningen welke algemeen bindende regelen inhouden, in de Staatscourant en geeft hij gedurende vier weken gelegenheid daartegen schriftelijk bedenkingen aan te voeren.
 
@@ -260,27 +284,27 @@ Tenzij het voorschrift, waarbij de medewerking wordt ingeroepen, anders bepaalt,
 
 3. Verordeningen als bedoeld in het eerste lid behoeven de goedkeuring van Onze betrokken Ministers.
 
-#### Artikel 39
+##### Artikel 39
 
 De voorzitter vertegenwoordigt de Raad in en buiten rechte.
 
-#### Artikel 40
+##### Artikel 40
 
 De Raad dient desgevraagd Onze Ministers van bericht over alle aangelegenheden de Raad betreffende.
 
 ## Titel V. Van de adviezen van de Raad
 
-#### Artikel 41
+##### Artikel 41
 
 De Raad adviseert op schriftelijk verzoek van Onze Ministers of van een van beide Kamers der Staten-Generaal en kan Onze Ministers uit eigen beweging adviseren over de uitvoering van deze wet en andere aangelegenheden van sociale of economische aard. Indien Onze Ministers de Raad advies vragen, geven zij daarbij aan binnen welke termijn het advies wordt verwacht. [Artikel 20, tweede, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=20), alsmede [artikel 23, van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=23) is voor de toepassing van deze titel niet van toepassing.
 
-#### Artikel 42
+##### Artikel 42
 
 1. De Raad kan commissies, waarin ook personen buiten de Raad zitting kunnen hebben, instellen ter voorbereiding van door hem uit te brengen adviezen.
 
 2. De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=9&z=2023-01-01&g=2023-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=10&z=2023-01-01&g=2023-01-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=III&artikel=28&z=2023-01-01&g=2023-01-01) zijn ten aanzien van deze commissies van overeenkomstige toepassing.
 
-#### Artikel 43
+##### Artikel 43
 
 1. In afwijking van de [Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159) stelt de Raad, op verzoek van Onze betrokken Ministers, commissies ter behandeling van bepaalde onderwerpen in. De samenstelling van deze commissies, waarin ook personen buiten de Raad zitting kunnen hebben, geschiedt in overleg met Onze Ministers.
 
@@ -290,11 +314,11 @@ De Raad adviseert op schriftelijk verzoek van Onze Ministers of van een van beid
 
 4. De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=9&z=2023-01-01&g=2023-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=10&z=2023-01-01&g=2023-01-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=III&artikel=28&z=2023-01-01&g=2023-01-01) zijn ten aanzien van deze commissies van overeenkomstige toepassing.
 
-#### Artikel 44
+##### Artikel 44
 
 De Raad kan de commissies, bedoeld in de [artikelen 42](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=V&artikel=42&z=2023-01-01&g=2023-01-01) en [43](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=V&artikel=43&z=2023-01-01&g=2023-01-01), machtigen namens hem van advies te dienen. Zodanige machtiging wordt niet verleend voor een op verzoek van een Onzer Ministers uit te brengen advies, waarvan deze bepaaldelijk heeft verzocht, dat het door de Raad zelf wordt uitgebracht.
 
-#### Artikel 45
+##### Artikel 45
 
 1. De adviezen van de Raad en zijn commissies worden opgesteld overeenkomstig het gevoelen van de meerderheid der vergadering.
 
@@ -306,7 +330,7 @@ De Raad kan de commissies, bedoeld in de [artikelen 42](https://wetten.overheid.
 
 #### § 1. Van de begroting
 
-#### Artikel 46
+##### Artikel 46
 
 1. Het dagelijks bestuur biedt jaarlijks voor 1 October aan de Raad een begroting der inkomsten en uitgaven in het komende kalenderjaar aan, vergezeld van de nodige toelichting en bescheiden.
 
@@ -314,33 +338,33 @@ De Raad kan de commissies, bedoeld in de [artikelen 42](https://wetten.overheid.
 
 3. Van de nederlegging en verkrijgbaarstelling geschiedt openbare kennisgeving, welke tenminste twee weken voorafgaat aan de behandeling der begroting in de Raad.
 
-#### Artikel 47
+##### Artikel 47
 
 De begroting wordt vastgesteld door de Raad en behoeft de goedkeuring van Onze Minister van Sociale Zaken en Werkgelegenheid.
 
-#### Artikel 48
+##### Artikel 48
 
 1. De door de Raad vastgestelde begroting wordt Onze Minister van Sociale Zaken en Werkgelegenheid voor 15 November ter goedkeuring aangeboden.
 
 2. Indien zij niet voor de aanvang van het jaar, waarvoor zij moet dienen, is goedgekeurd, kan de Raad door Onze Minister van Sociale Zaken en Werkgelegenheid worden gemachtigd uitgaven te doen uit die posten, alsmede die inkomsten te innen, waartegen bij Onze Minister van Sociale Zaken en Werkgelegenheid geen bedenking bestaat.
 
-#### Artikel 49
+##### Artikel 49
 
 1. Indien de Raad weigert de hem bij de wet opgelegde uitgaven op de begroting te brengen, geschiedt dit door Onze Minister van Sociale Zaken en Werkgelegenheid.
 
 2. Indien in dat geval de geraamde inkomsten niet toereikend zijn en de Raad weigert nieuwe middelen tot dekking voor te dragen, worden de overige niet bij de wet aan de Raad opgelegde uitgaven door Onze Minister van Sociale Zaken en Werkgelegenheid in zodanige reden verminderd, dat tussen de inkomsten en uitgaven evenwicht is.
 
-#### Artikel 50
+##### Artikel 50
 
 Vervallen
 
 #### § 2. Van het beheer en de rekening en verantwoording
 
-#### Artikel 51
+##### Artikel 51
 
 Het dagelijks bestuur beheert het vermogen en de inkomsten en uitgaven van de Raad, met dien verstande, dat de Raad ter zake bij verordening regelen kan stellen.
 
-#### Artikel 52
+##### Artikel 52
 
 1. Het dagelijks bestuur doet aan de Raad rekening en verantwoording van het beheer over het afgelopen kalenderjaar, onder overlegging van de rekening der inkomsten en uitgaven.
 
@@ -352,13 +376,13 @@ Het dagelijks bestuur beheert het vermogen en de inkomsten en uitgaven van de Ra
 
 5. Het besluit van de Raad tot vaststelling van de jaarrekening behoeft de goedkeuring van Onze Minister van Sociale Zaken en Werkgelegenheid.
 
-#### Artikel 53
+##### Artikel 53
 
 De Raad is verplicht aan Onze Minister van Sociale Zaken en Werkgelegenheid en de door hem aangewezen deskundigen alle door hen met betrekking tot de inkomsten en uitgaven gevraagde inlichtingen te verstrekken en desgevraagd inzage in de boeken te geven.
 
 #### § 3. Van de inkomsten
 
-#### Artikel 54
+##### Artikel 54
 
 1. De middelen ter dekking van uitgaven van de Raad, voor zover die niet door andere inkomsten worden gedekt, komen ten laste van het Algemeen Werkloosheidsfonds, bedoeld in de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745).
 
@@ -368,7 +392,7 @@ De Raad is verplicht aan Onze Minister van Sociale Zaken en Werkgelegenheid en d
 
 4. Bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid kunnen nadere regels worden gesteld voor dit artikel.
 
-#### Artikel 55
+##### Artikel 55
 
 1. De Raad kan beschikken over de financiële middelen in de rekening-courant die de Raad aanhoudt bij Onze Minister van Financiën.
 
@@ -376,45 +400,45 @@ De Raad is verplicht aan Onze Minister van Sociale Zaken en Werkgelegenheid en d
 
 ## Titel VII. Van het toezicht op de Raad
 
-#### Artikel 56
+##### Artikel 56
 
 1. Indien een verordening of een ander besluit van de Raad Onze goedkeuring of die van Onze betrokken ministers behoeft, kan de goedkeuring worden onthouden wegens strijd met het recht of het algemeen belang.
 
 2. Het niet tijdig bekendmaken van een besluit omtrent goedkeuring of een besluit tot verdaging van goedkeuring heeft niet tot gevolg dat een besluit tot goedkeuring geacht wordt te zijn genomen.
 
-#### Artikel 57
+##### Artikel 57
 
 Vervallen
 
-#### Artikel 58
+##### Artikel 58
 
 De besluiten van de Raad, de voorzitter, het dagelijks bestuur en de commissies uit het midden van de Raad kunnen bij koninklijk besluit worden vernietigd.
 
-#### Artikel 59
+##### Artikel 59
 
 Het koninklijk besluit tot vernietiging of tot schorsing, dan wel tot verlenging of opheffing van een schorsing wordt in het Staatsblad geplaatst.
 
-#### Artikel 60
+##### Artikel 60
 
 Vervallen
 
-#### Artikel 61
+##### Artikel 61
 
 Vervallen
 
-#### Artikel 62
+##### Artikel 62
 
 Vervallen
 
-#### Artikel 63
+##### Artikel 63
 
 Vervallen
 
-#### Artikel 64
+##### Artikel 64
 
 Vervallen
 
-#### Artikel 65
+##### Artikel 65
 
 1. De Raad brengt jaarlijks voor 1 april aan Onze Ministers verslag uit omtrent zijn werkzaamheden en die van de commissies, bedoeld in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=6&artikel=19&z=2023-01-01&g=2023-01-01), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=V&artikel=42&z=2023-01-01&g=2023-01-01) en [43](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=V&artikel=43&z=2023-01-01&g=2023-01-01), in het afgelopen kalenderjaar.
 
@@ -426,31 +450,31 @@ Vervallen
 
 ## Titel I. Van de instelling en de taak
 
-#### Artikel 66
+##### Artikel 66
 
 Vervallen
 
-#### Artikel 67
+##### Artikel 67
 
 Vervallen
 
-#### Artikel 68
+##### Artikel 68
 
 Vervallen
 
-#### Artikel 89
+##### Artikel 89
 
 Vervallen
 
-#### Artikel 70
+##### Artikel 70
 
 Vervallen
 
-#### Artikel 70A
+##### Artikel 70A
 
 Vervallen
 
-#### Artikel 71
+##### Artikel 71
 
 Vervallen
 
@@ -458,91 +482,91 @@ Vervallen
 
 #### § 1. Algemene bepaling
 
-#### Artikel 72
+##### Artikel 72
 
 Vervallen
 
 #### § 2. Van het bestuur
 
-#### Artikel 73
+##### Artikel 73
 
 Vervallen
 
-#### Artikel 74
+##### Artikel 74
 
 Vervallen
 
-#### Artikel 75
+##### Artikel 75
 
 Vervallen
 
-#### Artikel 76
+##### Artikel 76
 
 Vervallen
 
-#### Artikel 77
+##### Artikel 77
 
 Vervallen
 
 #### § 3. Van de voorzitter
 
-#### Artikel 78
+##### Artikel 78
 
 Vervallen
 
-#### Artikel 79
+##### Artikel 79
 
 Vervallen
 
-#### Artikel 80
+##### Artikel 80
 
 Vervallen
 
-#### Artikel 81
+##### Artikel 81
 
 Vervallen
 
-#### Artikel 82
+##### Artikel 82
 
 Vervallen
 
-#### Artikel 83
+##### Artikel 83
 
 Vervallen
 
 #### § 4. Van het dagelijks bestuur
 
-#### Artikel 84
+##### Artikel 84
 
 Vervallen
 
-#### Artikel 85
+##### Artikel 85
 
 Vervallen
 
 #### § 5. Van het secretariaat
 
-#### Artikel 86
+##### Artikel 86
 
 Vervallen
 
-#### Artikel 87
+##### Artikel 87
 
 Vervallen
 
 #### § 6. Van de commissies uit het midden van het bestuur en van de andere organen, bedoeld in artikel 72, eerste lid
 
-#### Artikel 88
+##### Artikel 88
 
 Vervallen
 
-#### Artikel 88a
+##### Artikel 88a
 
 Vervallen
 
 ## Titel III. Van de werkwijze der organen
 
-#### Artikel 89
+##### Artikel 89
 
 1. De [artikelen 20 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=III&artikel=20&z=2008-07-01&g=2008-07-01) zijn van overeenkomstige toepassing ten aanzien van het bestuur en het dagelijks bestuur.
 
@@ -550,119 +574,119 @@ Vervallen
 
 3. De voorzitter heeft, indien hij niet lid van het bestuur is, in de vergaderingen van het bestuur en het dagelijks bestuur alleen een raadgevende stem.
 
-#### Artikel 90
+##### Artikel 90
 
 Vervallen
 
-#### Artikel 91
+##### Artikel 91
 
 Vervallen
 
-#### Artikel 92
+##### Artikel 92
 
 Vervallen
 
 ## Titel IV. Van de vervulling van de taak
 
-#### Artikel 93
+##### Artikel 93
 
 Vervallen
 
-#### Artikel 94
+##### Artikel 94
 
 Vervallen
 
-#### Artikel 95
+##### Artikel 95
 
 Vervallen
 
-#### Artikel 96
+##### Artikel 96
 
 Vervallen
 
-#### Artikel 97
+##### Artikel 97
 
 Vervallen
 
-#### Artikel 98
+##### Artikel 98
 
 Vervallen
 
-#### Artikel 99
+##### Artikel 99
 
 Vervallen
 
-#### Artikel 100
+##### Artikel 100
 
 Vervallen
 
-#### Artikel 101
+##### Artikel 101
 
 Vervallen
 
-#### Artikel 102
+##### Artikel 102
 
 Vervallen
 
-#### Artikel 103
+##### Artikel 103
 
 Vervallen
 
-#### Artikel 104
+##### Artikel 104
 
 Vervallen
 
-#### Artikel 105
+##### Artikel 105
 
 Vervallen
 
-#### Artikel 106
+##### Artikel 106
 
 Vervallen
 
-#### Artikel 107
+##### Artikel 107
 
 Vervallen
 
-#### Artikel 108
+##### Artikel 108
 
 Vervallen
 
 ## Titel V. Van de voorzieningen tot gemeenschappelijke behartiging van belangen van bedrijfslichamen
 
-#### Artikel 109
+##### Artikel 109
 
 Vervallen
 
-#### Artikel 110
+##### Artikel 110
 
 Vervallen
 
-#### Artikel 111
+##### Artikel 111
 
 Vervallen
 
-#### Artikel 112
+##### Artikel 112
 
 Vervallen
 
-#### Artikel 113
+##### Artikel 113
 
 Vervallen
 
-#### Artikel 114
+##### Artikel 114
 
 Vervallen
 
-#### Artikel 115
+##### Artikel 115
 
 Vervallen
 
-#### Artikel 116
+##### Artikel 116
 
 Vervallen
 
-#### Artikel 117
+##### Artikel 117
 
 Vervallen
 
@@ -670,213 +694,213 @@ Vervallen
 
 #### § 1. Van de begroting
 
-#### Artikel 118
+##### Artikel 118
 
 Vervallen
 
-#### Artikel 119
+##### Artikel 119
 
 Vervallen
 
-#### Artikel 120
+##### Artikel 120
 
 Vervallen
 
-#### Artikel 121
+##### Artikel 121
 
 Vervallen
 
-#### Artikel 122
+##### Artikel 122
 
 Vervallen
 
-#### Artikel 122a
+##### Artikel 122a
 
 Vervallen
 
 #### § 2. Van het beheer en de rekening en verantwoording
 
-#### Artikel 123
+##### Artikel 123
 
 Vervallen
 
-#### Artikel 124
+##### Artikel 124
 
 Vervallen
 
-#### Artikel 125
+##### Artikel 125
 
 Vervallen
 
-#### Artikel 125a
+##### Artikel 125a
 
 Vervallen
 
 #### § 3. Van de inkomsten
 
-#### Artikel 126
+##### Artikel 126
 
 Vervallen
 
-#### Artikel 127
+##### Artikel 127
 
 Vervallen
 
-#### Artikel 127a
+##### Artikel 127a
 
 Vervallen
 
 ## Titel VII. Van het toezicht op de bedrijfslichamen
 
-#### Artikel 128
+##### Artikel 128
 
 Vervallen
 
-#### Artikel 129
+##### Artikel 129
 
 Vervallen
 
-#### Artikel 130
+##### Artikel 130
 
 Vervallen
 
-#### Artikel 131
+##### Artikel 131
 
 Vervallen
 
-#### Artikel 132
+##### Artikel 132
 
 Vervallen
 
-#### Artikel 133
+##### Artikel 133
 
 Vervallen
 
-#### Artikel 134
+##### Artikel 134
 
 Vervallen
 
-#### Artikel 135
+##### Artikel 135
 
 Vervallen
 
-#### Artikel 136
+##### Artikel 136
 
 Vervallen
 
-#### Artikel 137
+##### Artikel 137
 
 Vervallen
 
 ### hoofdstuk Derde. Slotbepalingen
 
-#### Artikel 138
+##### Artikel 138
 
 Voor oprichting van of deelneming in andere rechtspersonen behoeft de Raad de toestemming van Onze Minister van Sociale Zaken en Werkgelegenheid.
 
-#### Artikel 139
+##### Artikel 139
 
 Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties draagt zorg voor de elektronische toegankelijkheid van de teksten van verordeningen die op grond van [artikel 106a](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=IV&artikel=106a&z=2023-01-01&g=2023-01-01) van deze wet, zoals dat artikel luidde onmiddellijk voorafgaand aan het tijdstip waarop het is vervallen, in geconsolideerde vorm voor een ieder beschikbaar zijn gesteld door middel van plaatsing op internet.
 
-#### Artikel 140
+##### Artikel 140
 
 Het beroep tegen besluiten en handelingen van de Raad wordt door de wet geregeld.
 
-#### Artikel 142
+##### Artikel 142
 
 Vervallen
 
-#### Artikel 143
+##### Artikel 143
 
 Vervallen
 
-#### Artikel 144
+##### Artikel 144
 
 Vervallen
 
-#### Artikel 145
+##### Artikel 145
 
 Vervallen
 
-#### Artikel 146
+##### Artikel 146
 
 Vervallen
 
-#### Artikel 147
+##### Artikel 147
 
 Vervallen
 
-#### Artikel 148
+##### Artikel 148
 
 Vervallen
 
-#### Artikel 149
+##### Artikel 149
 
 Vervallen
 
-#### Artikel 150
+##### Artikel 150
 
 Vervallen
 
-#### Artikel 151
+##### Artikel 151
 
 Vervallen
 
-#### Artikel 152
+##### Artikel 152
 
 Vervallen
 
-#### Artikel 153
+##### Artikel 153
 
 Vervallen
 
-#### Artikel 154
+##### Artikel 154
 
 Vervallen
 
-#### Artikel 155
+##### Artikel 155
 
 Vervallen
 
-#### Artikel 156
+##### Artikel 156
 
 Vervallen
 
-#### Artikel 157
+##### Artikel 157
 
 Vervallen
 
-#### Artikel 158
+##### Artikel 158
 
 Vervallen
 
-#### Artikel 159
+##### Artikel 159
 
 Vervallen
 
-#### Artikel 160
+##### Artikel 160
 
 Vervallen
 
-#### Artikel 161
+##### Artikel 161
 
 Vervallen
 
-#### Artikel 162
+##### Artikel 162
 
 Bij algemene maatregel van bestuur kunnen regelen worden gesteld ter bevordering van een goede uitvoering van deze wet.
 
-#### Artikel 163
+##### Artikel 163
 
 Deze wet wordt aangehaald als: Wet op de Sociaal-Economische Raad.
 
-#### Artikel 164
+##### Artikel 164
 
 Vervallen
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 128a
+##### Artikel 128a
 
 Vervallen
 
@@ -884,7 +908,7 @@ Vervallen
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 38a
+##### Artikel 38a
 
 Vervallen
 
@@ -904,7 +928,7 @@ Vervallen
 
 ## Titel I. Van de instelling en de taak
 
-#### Artikel 69
+##### Artikel 69
 
 Vervallen
 
@@ -924,13 +948,13 @@ Vervallen
 
 ## Titel III. Van de werkwijze der organen
 
-#### Artikel 92a
+##### Artikel 92a
 
 Vervallen
 
 ## Titel IV. Van de vervulling van de taak
 
-#### Artikel 106a
+##### Artikel 106a
 
 Vervallen
 
@@ -946,7 +970,7 @@ Vervallen
 
 ## Titel VII. Van het toezicht op de bedrijfslichamen
 
-#### Artikel 137a
+##### Artikel 137a
 
 Vervallen
 

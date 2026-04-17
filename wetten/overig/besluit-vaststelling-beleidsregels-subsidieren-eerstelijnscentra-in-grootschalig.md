@@ -1,30 +1,56 @@
 ---
-title: "Besluit vaststelling beleidsregels subsidiëren eerstelijnscentra in grootschalige nieuwbouwlocaties 2018 en intrekking Beleidskader eerstelijnscentra in grootschalige nieuwbouwlocaties"
+title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 15 juni 2017, kenmerk 1143247-164699-CZ, houdende vaststelling van beleidsregels voor het subsidiëren van eerstelijnscentra in grootschalige nieuwbouwlocaties 2018 en intrekking van het Beleidskader eerstelijnscentra in grootschalige nieuwbouwlocaties"
 identifier: "BWBR0039679"
-categorie: "Overig"
-publicatiedatum: 2017-06-24
-laatste_update: 2017-06-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039679"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-06-24"
+last_updated: "2017-06-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039679"
+soort: "ministeriele-regeling"
+stam_id: "14026563"
+version_id: "24156032"
+internal_id: "C34713521"
+label_id: "13987894"
+dtd_version: "2.0"
+original_entry_into_force: "2017-06-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039679/2017-06-24/0"
+intitule_bron: "Stcrt.2017-34904"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-06-15"
+intitule_published: "2017-06-23"
+intitule_in_force: "2017-06-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-34904"
+original_signed_date: "2017-06-15"
+original_published_date: "2017-06-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-34904"
+entry_into_force_date: "2017-06-24"
+jci_1_3: "jci1.3:c:BWBR0039679&z=2017-06-24&g=2017-06-24"
+jci_1_0: "1.0:c:BWBR0039679&g=2017-06-24"
+citeertitel_status: "redactioneel"
+short_title: "Besluit vaststelling beleidsregels subsidiëren eerstelijnscentra in grootschalige nieuwbouwlocaties 2018 en intrekking Beleidskader eerstelijnscentra in grootschalige nieuwbouwlocaties"
+signed_date: "2017-06-15"
+entry_into_force: "2017-06-24"
 ---
-
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 15 juni 2017, kenmerk 1143247-164699-CZ, houdende vaststelling van beleidsregels voor het subsidiëren van eerstelijnscentra in grootschalige nieuwbouwlocaties 2018 en intrekking van het Beleidskader eerstelijnscentra in grootschalige nieuwbouwlocaties
 
 Gelet op [artikel 1.3 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. De beleidsregels voor het verstrekken van subsidies voor het subsidiëren van eerstelijnscentra in grootschalige nieuwbouwlocaties 2018 worden vastgesteld overeenkomstig de bijlage bij dit besluit.
 
 2. Deze beleidsregels vervallen met ingang van 1 januari 2025, met dien verstande dat dit beleidskader van toepassing blijft op subsidies die op grond hiervan worden verstrekt.
 
-#### Artikel 2
+##### Artikel 2
 
 Het Beleidskader eerstelijnscentra in grootschalige nieuwbouwlocaties, vastgesteld op 19 januari 2015, vervalt met ingang van 1 januari 2024, met dien verstande dat dit beleidskader van toepassing blijft op subsidies die op grond hiervan zijn verstrekt.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 

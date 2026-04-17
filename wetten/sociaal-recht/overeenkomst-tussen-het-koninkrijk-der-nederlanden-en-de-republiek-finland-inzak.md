@@ -1,13 +1,38 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Finland inzake wederzijdse bijstand in douanezaken"
 identifier: "BWBV0002208"
-categorie: "Sociaal recht"
-publicatiedatum: 1985-06-19
-laatste_update: 1985-06-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002208"
+country: "nl"
+rank: "verdrag"
+publication_date: "1985-06-19"
+last_updated: "1985-06-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002208"
+soort: "verdrag"
+stam_id: "10002700043"
+version_id: "10002699332"
+internal_id: "C10006978331"
+label_id: "10002688574"
+dtd_version: "2.0"
+original_entry_into_force: "1985-06-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002208/1985-06-19/0"
+intitule_bron: "Trb.1984-39"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1985-01-25"
+intitule_published: "1984-04-27"
+intitule_in_force: "1985-07-01"
+intitule_status: "goed"
+original_publication: "Trb.1984-39"
+original_signed_date: "1985-01-25"
+original_published_date: "1984-04-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1984-39"
+entry_into_force_date: "1985-06-19"
+jci_1_3: "jci1.3:c:BWBV0002208&z=1985-06-19&g=1985-06-19"
+jci_1_0: "1.0:c:BWBV0002208&g=1985-06-19"
+citeertitel_status: "officieel"
+signed_date: "1985-01-25"
+entry_into_force: "1985-06-19"
 ---
-
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Finland inzake wederzijdse bijstand in douanezaken
 
 De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Finland,
@@ -22,7 +47,7 @@ Zijn het volgende overeengekomen:
 
 ## BEGRIPSBEPALINGEN
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van deze Overeenkomst wordt verstaan onder:
 
@@ -34,7 +59,7 @@ Voor de toepassing van deze Overeenkomst wordt verstaan onder:
 
 ## WERKINGSSFEER
 
-#### Artikel 2
+##### Artikel 2
 
 De Staten verlenen elkaar wederzijds bijstand door tussenkomst van hun douaneautoriteiten en onder de in deze Overeenkomst vermelde voorwaarden:
 
@@ -44,7 +69,7 @@ De Staten verlenen elkaar wederzijds bijstand door tussenkomst van hun douaneaut
 
 ## UITWISSELING VAN INLICHTINGEN
 
-#### Artikel 3
+##### Artikel 3
 
 1. De douaneautoriteiten verstrekken elkaar op verzoek alle inlichtingen welke ertoe kunnen bijdragen de juiste heffing van de douanerechten en andere belastingen en heffingen bij in- of uitvoer te verzekeren en meer in het bijzonder die inlichtingen welke de vaststelling van de douanewaarde, de tariefsoort en de oorsprong van de goederen kunnen vergemakkelijken.
 
@@ -52,7 +77,7 @@ De Staten verlenen elkaar wederzijds bijstand door tussenkomst van hun douaneaut
 
 3. Bij het instellen van deze onderzoeken gaat de aangezochte autoriteit te werk als handelde zij ten eigen behoeve of op verzoek van een andere autoriteit uit eigen land.
 
-#### Artikel 4
+##### Artikel 4
 
 De douaneautoriteiten verstrekken elkaar op verzoek inlichtingen welke nodig zijn om te verzekeren dat:
 
@@ -62,7 +87,7 @@ De douaneautoriteiten verstrekken elkaar op verzoek inlichtingen welke nodig zij
 
 - c. goederen waarvoor bij uitvoer uit de ene Staat een gunstige behandeling is toegestaan, op regelmatige wijze in de andere Staat zijn ingevoerd, met dien verstande dat tevens inlichtingen worden verstrekt omtrent de aard van het douaneregime waaraan die goederen zijn onderworpen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De douaneautoriteiten verstrekken elkaar, uit eigen beweging of op verzoek, alle inlichtingen welke betrekking hebben op strafbare feiten op het gebied van de douanewetten, en wel in het bijzonder inlichtingen met betrekking tot:
 
@@ -76,7 +101,7 @@ De douaneautoriteiten verstrekken elkaar op verzoek inlichtingen welke nodig zij
 
 ## TOEZICHT OP PERSONEN, GOEDEREN EN VERVOERMIDDELEN
 
-#### Artikel 6
+##### Artikel 6
 
 De douaneautoriteiten van de ene Staat houden, uit eigen beweging of op verzoek van de douaneautoriteiten van de andere Staat, binnen het gebied waarvoor zij de verantwoordelijkheid dragen, binnen de grenzen van hun bevoegdheden en in de mate van het mogelijke, toezicht op:
 
@@ -90,29 +115,29 @@ De douaneautoriteiten van de ene Staat houden, uit eigen beweging of op verzoek 
 
 ## ONDERZOEKEN
 
-#### Artikel 7
+##### Artikel 7
 
 1. Op verzoek van de douaneautoriteiten van de ene Staat gaan de douaneautoriteiten van de andere Staat over tot ambtelijke onderzoeken met betrekking tot alle handelingen die in strijd zijn of in strijd lijken te zijn met de douanewetten van de verzoekende Staat. De douaneautoriteiten van de aangezochte Staat verstrekken de douaneautoriteiten van de verzoekende Staat de resultaten van deze onderzoeken.
 
 2. Deze onderzoeken worden verricht in overeenstemming met de wetten en voorschriften welke in de aangezochte Staat van toepassing zijn. De aangezochte autoriteit gaat daarbij te werk als handelde zij ten eigen behoeve of op verzoek van een andere autoriteit in eigen land.
 
-#### Artikel 8
+##### Artikel 8
 
 De ambtenaren van de douaneautoriteiten van de ene Staat, bevoegd tot opsporing van strafbare feiten op het gebied van de douanewetten, kunnen in bijzondere gevallen, met goedvinden van de bevoegde ambtenaren van de douaneautoriteiten van de andere Staat, op het grondgebied van die Staat aanwezig zijn bij het opsporen door die ambtenaren van strafbare feiten die voor de eerstbedoelde autoriteiten van belang zijn.
 
-#### Artikel 9
+##### Artikel 9
 
 Wanneer de douaneautoriteiten van de ene Staat zich, in de gevallen waarin deze Overeenkomst voorziet, bevinden op het grondgebied van de andere Staat, moeten zij, indien hun daarom verzocht wordt, te allen tijde hun ambtelijke hoedanigheid aantonen. Zij genieten dezelfde wettelijke bescherming als die welke is toegekend aan de douaneautoriteiten van de Staat op wiens grondgebied zij zich bevinden. Met betrekking tot de wettelijke gevolgen van strafbare feiten jegens hen begaan of welke zij zelf mochten begaan, worden zij op gelijke wijze behandeld als de douaneautoriteiten van de Staat op wiens grondgebied zij zich bevinden.
 
 ## GEBRUIK VAN GEGEVENS EN DOCUMENTEN
 
-#### Artikel 10
+##### Artikel 10
 
 1. De door toepassing van deze Overeenkomst verkregen inlichtingen en documenten mogen niet worden gebruikt voor andere doeleinden dan die waarin deze Overeenkomst voorziet. Zij mogen aan andere personen dan aan hen die belast zijn met het gebruik daarvan voor de doeleinden van deze Overeenkomst alleen worden meegedeeld, indien de douaneautoriteit die ze heeft verstrekt, daartoe toestemming heeft gegeven en voor zover dit niet in strijd is met enige wettelijke bepaling die van toepassing is op de douaneautoriteit die dergelijke inlichtingen en documenten heeft ontvangen.
 
 2. De verzoeken, inlichtingen, rapporten van deskundigen en andere mededelingen welke een Staat heeft ontvangen, genieten dezelfde wettelijke bescherming en vallen onder hetzelfde ambtsgeheim als die waarin in die Staat is voorzien voor gelijksoortige documenten en inlichtingen.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De douaneautoriteiten kunnen, in overeenstemming met de doeleinden en binnen de werkingssfeer van deze Overeenkomst, zowel in hun processen-verbaal, rapporten en getuigenissen als bij administratieve procedures en vervolgingen in rechte, de volgens de bepalingen van deze Overeenkomst verkregen inlichtingen en documenten als bewijsmiddel aanvoeren.
 
@@ -120,7 +145,7 @@ Wanneer de douaneautoriteiten van de ene Staat zich, in de gevallen waarin deze 
 
 ## UITZONDERINGEN OP DE VERPLICHTING TOT HET VERLENEN VAN BIJSTAND
 
-#### Artikel 12
+##### Artikel 12
 
 1. Als de aangezochte douaneautoriteiten van mening zijn dat de gevraagde bijstand zou leiden tot aantasting van de openbare orde of van andere wezenlijke belangen van de aangezochte Staat, of de schending van een nijverheids-, handels- of beroepsgeheim met zich zou brengen, mogen zij weigeren die bijstand te verlenen, dan wel verlenen zij die bijstand slechts gedeeltelijk of onder zekere voorwaarden of beperkingen.
 
@@ -128,25 +153,25 @@ Wanneer de douaneautoriteiten van de ene Staat zich, in de gevallen waarin deze 
 
 3. De verplichting bijstand te verlenen geldt niet voor het verstrekken van inlichtingen of documenten die de douaneautoriteiten hebben verkregen in het kader van bevoegdheden die zij in opdracht van de rechterlijke autoriteit uitoefenen. In geval om bijstand is verzocht, worden deze inlichtingen of documenten echter wel verstrekt in alle gevallen waarin de rechterlijke autoriteit, die hiertoe moet worden geraadpleegd, daarmee instemt.
 
-#### Artikel 13
+##### Artikel 13
 
 Indien de douaneautoriteiten van de ene Staat verzoeken om bijstand die zij zelf, indien zij daarom door de andere Staat mochten worden gevraagd, niet zouden kunnen verlenen, vestigen zij daarop in hun verzoek de aandacht. Het inwilligen van een dergelijk verzoek staat ter beoordeling van de douaneautoriteiten aan wie het verzoek is gedaan.
 
 ## MEDEDELING VAN ADMINISTRATIEVE MAATREGELEN EN BESLISSINGEN
 
-#### Artikel 14
+##### Artikel 14
 
 Op verzoek van de douaneautoriteiten van de ene Staat reiken de douaneautoriteiten van de andere Staat, met inachtneming van de op hun grondgebied van kracht zijnde wetten en voorschriften, rechtstreeks, dan wel door tussenkomst van de bevoegde autoriteit aan de betrokken partijen alle stukken uit, houdende maatregelen en beslissingen van de administratieve autoriteiten inzake de toepassing van de douanewetten.
 
 ## KOSTEN
 
-#### Artikel 15
+##### Artikel 15
 
 Met uitzondering van kosten welke verbonden zijn aan het gebruik van de diensten van deskundigen, wordt de verzoekende Staat niet verantwoordelijk gesteld voor enige kosten die voortvloeien uit de toepassing van deze Overeenkomst.
 
 ## WIJZE VAN BIJSTANDVERLENING
 
-#### Artikel 16
+##### Artikel 16
 
 1. De in deze Overeenkomst voorziene bijstand geschiedt rechtstreeks tussen de douaneautoriteiten van de Staten. Deze autoriteiten stellen in onderling overleg de praktische uitvoering ervan vast.
 
@@ -154,7 +179,7 @@ Met uitzondering van kosten welke verbonden zijn aan het gebruik van de diensten
 
 ## TOEPASSINGSGEBIED
 
-#### Artikel 17
+##### Artikel 17
 
 1. Wat de Republiek Finland betreft, is deze Overeenkomst van toepassing op haar grondgebied.
 
@@ -164,7 +189,7 @@ Met uitzondering van kosten welke verbonden zijn aan het gebruik van de diensten
 
 ## INWERKINGTREDING EN BEËINDIGING
 
-#### Artikel 18
+##### Artikel 18
 
 1. Deze Overeenkomst treedt in werking 30 dagen nadat de Staten elkaar schriftelijk ervan in kennis hebben gesteld dat aan de grondwettelijk vereiste formaliteiten voor de inwerkingtreding is voldaan.
 

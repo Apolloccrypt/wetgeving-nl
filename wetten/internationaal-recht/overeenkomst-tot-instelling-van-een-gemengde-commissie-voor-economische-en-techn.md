@@ -1,13 +1,38 @@
 ---
 title: "Overeenkomst tot instelling van een gemengde Commissie voor economische en technologische samenwerking tussen het Koninkrijk der Nederlanden en de Democratische Volksrepubliek Algerije"
 identifier: "BWBV0002173"
-categorie: "Internationaal recht"
-publicatiedatum: 1989-09-05
-laatste_update: 1989-09-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002173"
+country: "nl"
+rank: "verdrag"
+publication_date: "1989-09-05"
+last_updated: "1989-09-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002173"
+soort: "verdrag"
+stam_id: "10002687213"
+version_id: "10002685692"
+internal_id: "C10006979191"
+label_id: "10002675374"
+dtd_version: "2.0"
+original_entry_into_force: "1989-09-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002173/1989-09-05/0"
+intitule_bron: "Trb.1986-77"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1986-06-23"
+intitule_published: "1986-07-03"
+intitule_in_force: "1989-12-06"
+intitule_status: "goed"
+original_publication: "Trb.1986-77"
+original_signed_date: "1986-06-23"
+original_published_date: "1986-07-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1986-77"
+entry_into_force_date: "1989-09-05"
+jci_1_3: "jci1.3:c:BWBV0002173&z=1989-09-05&g=1989-09-05"
+jci_1_0: "1.0:c:BWBV0002173&g=1989-09-05"
+citeertitel_status: "officieel"
+signed_date: "1986-06-23"
+entry_into_force: "1989-09-05"
 ---
-
 # Overeenkomst tot instelling van een gemengde Commissie voor economische en technologische samenwerking tussen het Koninkrijk der Nederlanden en de Democratische Volksrepubliek Algerije
 
 De Regering van het Koninkrijk der Nederlanden en de Regering van de Democratische Volksrepubliek Algerije,
@@ -16,11 +41,11 @@ Geleid door de wens de bestaande vriendschappelijke betrekkingen verder te inten
 
 Zijn overeengekomen als volgt:
 
-#### Artikel 1
+##### Artikel 1
 
 Er wordt bij deze Overeenkomst een Gemengde Commissie ingesteld ten einde, met inachtneming van het wederzijds voordeel en van de wederzijdse belangen, de samenwerking tussen de beide landen te bevorderen op die gebieden die de beide Regeringen in gemeen overleg zullen vaststellen.
 
-#### Artikel 2
+##### Artikel 2
 
 De Gemengde Commissie ziet in het algemeen toe op de totstandkoming van deze samenwerking.
 
@@ -44,13 +69,13 @@ Voorts kan zij:
 
 - -. alle dienstige maatregelen nemen voor een minnelijke schikking van geschillen die zich zouden kunnen voordoen tussen de uitvoerders van de beide landen in het kader van de tenuitvoerlegging van contracten, zulks onverlet de contractuele bepalingen waardoor deze uitvoerders gebonden zijn.
 
-#### Artikel 3
+##### Artikel 3
 
 De Voorzitters van de Gemengde Commissie worden door de onderscheiden Regeringen benoemd. De Gemengde Commissie komt afwisselend bijeen te Algiers en te 's-Gravenhage.
 
 De datum, de agenda van de vergaderingen, alsmede de samenstelling van de delegaties zullen langs diplomatieke weg worden vastgesteld.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze Overeenkomst treedt in werking op de datum waarop de beide Regeringen de door de wetgeving van hun onderscheiden landen vereiste formaliteiten hebben voltooid. Zij wordt voor onbepaalde tijd gesloten. Deze Overeenkomst kan op initiatief van een der Regeringen worden beëindigd door zes maanden van te voren langs diplomatieke weg hiervan kennis te geven aan de andere Regering.
 

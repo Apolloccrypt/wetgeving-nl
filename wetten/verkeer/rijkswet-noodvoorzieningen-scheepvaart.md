@@ -1,13 +1,36 @@
 ---
-title: "Rijkswet Noodvoorzieningen Scheepvaart"
+title: "Rijkswet van 23 juni 1972, houdende voorzieningen op het gebied van de zeescheepvaart in buitengewone omstandigheden"
 identifier: "BWBR0002810"
-categorie: "Verkeer"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002810"
+country: "nl"
+rank: "rijkswet"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002810"
+soort: "rijkswet"
+stam_id: "201603"
+version_id: "275562"
+internal_id: "C275561"
+label_id: "198704"
+dtd_version: "2.0"
+original_entry_into_force: "1974-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002810/2025-07-01/0"
+intitule_bron: "Stb.1972-416"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1972-03-26"
+intitule_status: "goed"
+original_publication: "Stb.1972-416"
+original_signed_date: "1972-03-26"
+original_effect: "nieuwe-regeling"
+original_dossier: "9427"
+entry_into_force_date: "1974-06-01"
+jci_1_3: "jci1.3:c:BWBR0002810&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0002810&g=2025-07-01"
+citeertitel_status: "officieel"
+short_title: "Rijkswet Noodvoorzieningen Scheepvaart"
+signed_date: "1972-03-26"
+entry_into_force: "1974-06-01"
 ---
-
 # Rijkswet van 23 juni 1972, houdende voorzieningen op het gebied van de zeescheepvaart in buitengewone omstandigheden
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
@@ -18,7 +41,7 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 #### I. Inleidende Bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van het bij of krachtens deze Rijkswet bepaalde wordt verstaan onder:
 
@@ -38,7 +61,7 @@ Voor de toepassing van het bij of krachtens deze Rijkswet bepaalde wordt verstaa
 
 - d. "scheepsregister": het openbare register voor de teboekstelling van zeeschepen van Aruba, Curaçao, onderscheidenlijk Sint Maarten.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Wij kunnen in geval van buitengewone omstandigheden op voordracht van Onze Minister-President Onze Minister de bevoegdheid verlenen de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=II&artikel=4&z=2025-07-01&g=2025-07-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=II&artikel=5&z=2025-07-01&g=2025-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=III&artikel=6&z=2025-07-01&g=2025-07-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=IV&artikel=8&z=2025-07-01&g=2025-07-01) en [16 van deze Rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=V&artikel=16&z=2025-07-01&g=2025-07-01) toe te passen.
 
@@ -54,7 +77,7 @@ Voor de toepassing van het bij of krachtens deze Rijkswet bepaalde wordt verstaa
 
 7. Onze besluiten bedoeld in het eerste en het vijfde lid, worden geplaatst in het **Staatsblad,** in het Afkondigingsblad van Aruba, in het Publicatieblad van Curaçao en in het Afkondigingsblad van Sint Maarten.
 
-#### Artikel 3
+##### Artikel 3
 
 1. In omstandigheden als in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=I&artikel=2&z=2025-07-01&g=2025-07-01) bedoeld is Onze Minister indien naar zijn oordeel een gewichtige reden onmiddellijk voorziening eist bevoegd de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=II&artikel=4&z=2025-07-01&g=2025-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=III&artikel=6&z=2025-07-01&g=2025-07-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=IV&artikel=8&z=2025-07-01&g=2025-07-01) toe te passen ook bij gebreke van een besluit als bedoeld in [het eerste lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=I&artikel=2&z=2025-07-01&g=2025-07-01).
 
@@ -62,11 +85,11 @@ Voor de toepassing van het bij of krachtens deze Rijkswet bepaalde wordt verstaa
 
 #### II. Beperkende maatregelen
 
-#### Artikel 4
+##### Artikel 4
 
 Onze Minister kan aan reders van schepen onder de vlag van het Koninkrijk aanwijzingen geven met betrekking tot de bestemming van de reis, het aandoen of het vermijden van bepaalde havens en wateren en de te vervoeren goederen of personen; met betrekking tot schepen, welke zich buiten het rechtsgebied van het Koninkrijk bevinden, kunnen de aanwijzingen eveneens aan de kapitein van het schip worden gegeven; de reders en kapiteins der schepen zijn gehouden aan de aanwijzingen gevolg te geven; de aanwijzingen kunnen niet strekken tot beschikbaarstelling van scheepsruimte. In bij of krachtens algemene maatregel van Rijksbestuur aan te wijzen gevallen wordt de reder een vergoeding toegekend voor de schade, voor hem voortvloeiende uit ingevolge dit artikel gegeven aanwijzingen; de vergoeding wordt vastgesteld op de wijze omschreven in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=VI&artikel=24&z=2025-07-01&g=2025-07-01).
 
-#### Artikel 5
+##### Artikel 5
 
 1. Onze Minister kan verbieden zonder door hem verleende algemene of bijzondere vergunning:
 
@@ -82,7 +105,7 @@ Onze Minister kan aan reders van schepen onder de vlag van het Koninkrijk aanwij
 
 #### III. Vordering van scheepsruimte
 
-#### Artikel 6
+##### Artikel 6
 
 1. Onze Minister is bevoegd te vorderen, dat ruimte in een schip onder de vlag van het Koninkrijk ter beschikking worde gesteld om overeenkomstig zijn aanwijzingen te worden gebruikt.
 
@@ -94,17 +117,17 @@ Onze Minister kan aan reders van schepen onder de vlag van het Koninkrijk aanwij
 
 5. De kapitein van het schip, waarin ruimte is gevorderd, is verplicht deze ruimte voor de bij de vordering bepaalde reis of tijd ter beschikking van Onze Minister te stellen. Indien het schip niet onder het bevel van een kapitein staat, rust genoemde verplichting op de reder, of zo er geen reder is, op de eigenaar.
 
-#### Artikel 7
+##### Artikel 7
 
 De vergoeding, welke voor de beschikbaarstelling van scheepsruimte aan de reder van het schip wordt verleend, wordt vastgesteld op de wijze, omschreven in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=VI&artikel=24&z=2025-07-01&g=2025-07-01).
 
 #### IV. Vordering van schepen in gebruik
 
-#### Artikel 8
+##### Artikel 8
 
 Onze Minister is bevoegd bepaalde of alle schepen onder de vlag van het Koninkrijk, dan wel bepaalde groepen daarvan, in gebruik te vorderen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De vordering van een bepaald schip wordt bekendgemaakt aan de reder en de eigenaar van het schip, of zo één van beiden onbereikbaar is, aan de ander alleen. Zijn reder en eigenaar beiden onbereikbaar dan geschiedt de bekendmaking aan de kapitein. De vordering kan in dringende gevallen mondeling of telegrafisch geschieden, in welk geval zij zo spoedig mogelijk wordt vastgelegd in een beschikking. Indien de bekendmaking in Aruba, Curaçao of Sint Maarten niet kan geschieden op de wijze als voorzien in dit lid, geschiedt zij op een andere geschikte wijze.
 
@@ -126,7 +149,7 @@ Onze Minister is bevoegd bepaalde of alle schepen onder de vlag van het Koninkri
 
 10. De op het tijdstip van de terbeschikkingstelling aan boord van het schip aanwezige brandstoffen, proviand en andere, voor de exploitatie van het schip aanwezige verbruiksgoederen, gaan in eigendom aan Nederland over tegen een vergoeding, vastgesteld op de wijze omschreven in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=VI&artikel=24&z=2025-07-01&g=2025-07-01).
 
-#### Artikel 10
+##### Artikel 10
 
 1. Onze Minister is bevoegd het schip, hetwelk krachtens de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=IV&artikel=8&z=2025-07-01&g=2025-07-01) bedoelde vordering te zijner beschikking is gesteld, voor ieder doel te gebruiken waaronder mede begrepen:
 
@@ -136,7 +159,7 @@ Onze Minister is bevoegd bepaalde of alle schepen onder de vlag van het Koninkri
 
 2. Alle baten en lasten, na de terbeschikkingstelling van het schip uit de uitoefening van de in het eerste lid bedoelde bevoegdheden voortvloeiende, komen onderscheidenlijk ten goede aan en ten laste van Nederland.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Na beëindiging van het gebruik door Onze Minister stelt deze het schip weder ter beschikking van de eigenaar, zoveel mogelijk in een in overleg met de eigenaar te bepalen haven, van waaruit verkeer met zeeschepen feitelijk mogelijk is.
 
@@ -156,7 +179,7 @@ Vergoeding wegens aan het schip te verrichten herstellingen wordt niet verleend,
 
 6. Nadat het schip weder ter beschikking van de eigenaar is gesteld, kunnen de inschulden en vorderingen, genoemd in [afdeling 3 van titel 3 van Boek 8 van het Nederlandse Burgerlijk Wetboek](onbekend) of voor zover het betreft een Arubaans, Curaçaos of Sint Maartens zeeschip of een aldaar thuisbehorend vissersvaartuig, genoemd in de overeenkomstige wettelijke bepalingen van Aruba, Curaçao of Sint Maarten, en ontstaan gedurende het gebruik door Onze Minister, niet langer op het schip worden verhaald.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De vergoeding, welke aan de eigenaar en de vruchtgebruiker van het gevorderde schip wordt verleend voor het gebruik, wordt vastgesteld op de wijze omschreven in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=VI&artikel=24&z=2025-07-01&g=2025-07-01).
 
@@ -164,17 +187,17 @@ Vergoeding wegens aan het schip te verrichten herstellingen wordt niet verleend,
 
 3. De in het eerste lid van dit artikel bedoelde vergoeding voor het gebruik wordt eveneens toegekend over de tijd, dat het schip na beëindiging van het gebruik door Onze Minister niet kan worden geëxploiteerd ten gevolge van de uitvoering van de in [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=IV&artikel=11&z=2025-07-01&g=2025-07-01), bedoelde herstellingen.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De vergoeding, welke aan de eigenaar en de vruchtgebruiker wordt verleend, indien het schip verloren is gegaan tijdens het gebruik door Onze Minister, dan wel vóór de terbeschikkingstelling verloren is gegaan als gevolg van omstandigheden waarin het schip is geraakt, doordat aan de vordering gevolg is gegeven, wordt vastgesteld op de wijze, omschreven in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=VI&artikel=24&z=2025-07-01&g=2025-07-01). Vergoeding wegens verlies van het schip wordt niet verleend, indien het niet verloren is gegaan als gevolg van het gebruik door Onze Minister of niet verloren is gegaan als gevolg van omstandigheden, waarin het vóór de terbeschikkingstelling is geraakt, doordat aan de vordering gevolg is gegeven.
 
 2. Vervallen.
 
-#### Artikel 14
+##### Artikel 14
 
 Onze Minister kan met de eigenaar overeenkomen, dat de krachtens het vorige artikel aan deze verschuldigde vergoeding geheel of gedeeltelijk zal worden voldaan door inbetalinggeving van één of meer schepen.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Een krachtens [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=IV&artikel=8&z=2025-07-01&g=2025-07-01) gevorderd schip is tijdens het gebruik door Onze Minister niet vatbaar voor beslag, voor uitwinning of voor verkoop door een hypothecaire schuldeiser. Reeds gelegde beslagen vervallen op het tijdstip, bedoeld in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=IV&artikel=9&z=2025-07-01&g=2025-07-01).
 
@@ -186,7 +209,7 @@ Onze Minister kan met de eigenaar overeenkomen, dat de krachtens het vorige arti
 
 #### V. Vordering van schepen in eigendom
 
-#### Artikel 16
+##### Artikel 16
 
 1. Onze Minister is bevoegd een schip onder de vlag van het Koninkrijk in eigendom te vorderen.
 
@@ -210,7 +233,7 @@ Onze Minister kan met de eigenaar overeenkomen, dat de krachtens het vorige arti
 
 11. De op het tijdstip van de eigendomsovergang aan boord van het schip aanwezige brandstoffen, proviand en andere, voor de exploitatie van het schip aanwezige verbruiksgoederen gaan in eigendom aan Nederland over tegen een vergoeding, vastgesteld op de wijze omschreven in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=VI&artikel=24&z=2025-07-01&g=2025-07-01).
 
-#### Artikel 17
+##### Artikel 17
 
 1. De vergoeding, welke aan de eigenaar en de vruchtgebruiker wordt verleend in geval van eigendomsovergang als bedoeld in [artikel 16, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=V&artikel=16&z=2025-07-01&g=2025-07-01), dan wel indien het schip vóór het tijdstip, waarop de eigendom overeenkomstig [artikel 16, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=V&artikel=16&z=2025-07-01&g=2025-07-01), aan Nederland zou zijn overgegaan, verloren is gegaan of schade heeft geleden als gevolg van omstandigheden waarin het is geraakt, doordat aan de vordering gevolg is gegeven wordt vastgesteld op de wijze omschreven in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=VI&artikel=24&z=2025-07-01&g=2025-07-01); op de verlening van deze vergoeding is het bepaalde in de [artikelen 11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=IV&artikel=11&z=2025-07-01&g=2025-07-01) van toepassing.
 
@@ -222,7 +245,7 @@ Onze Minister kan met de eigenaar overeenkomen, dat de krachtens het vorige arti
 
 5. De op het schip bevoorrechte inschulden, bestaande op het tijdstip van de vordering in eigendom, zijn bevoorrecht op de vergoeding aan de eigenaar, bedoeld in het eerste lid, zolang deze vergoeding verschuldigd is; indien het schip met hypotheek is belast, heeft de hypothecaire schuldeiser tot het bedrag van zijn hypothecaire inschrijving pandrecht op de vergoeding aan de eigenaar, bedoeld in het eerste lid, zolang deze vergoeding verschuldigd is. De inschulden waarvoor krachtens de vorige zin een voorrecht of een pandrecht geldt, zijn op de vergoedingen aan de eigenaar bij voorrang boven alle inschulden uit anderen hoofde verhaalbaar; hun onderlinge rangorde wordt bepaald door de volgorde waarin zij vóór de vordering op het schip verhaalbaar waren.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Tenzij zulks voor de oorlogvoering noodzakelijk is, zal het schip niet aan een ander vervreemd worden, alvorens degene, van wie het schip werd gevorderd, in de gelegenheid is gesteld de eigendom van het schip weder te verwerven.
 
@@ -230,31 +253,31 @@ Onze Minister kan met de eigenaar overeenkomen, dat de krachtens het vorige arti
 
 #### VI. Algemene bepalingen
 
-#### Artikel 19
+##### Artikel 19
 
 1. Als Onze Minister van de hem bij deze rijkswet verleende bevoegdheden gebruik wenst te maken ten aanzien van Arubaanse, Curaçaose of Sint Maartense zeeschepen of van in Aruba, Curaçao of Sint Maarten thuisbehorende vissersvaartuigen, dan wel van Nederlandse schepen, die een geregelde vaart uitoefenen op Aruba, Curaçao of Sint Maarten doet hij dit na overleg met de betrokken Gevolmachtigde Minister. Onze Minister stelt de Gevolmachtigde Minister van de getroffen maatregel in kennis.
 
 2. Als Onze Minister van de hem bij deze Rijkswet verleende bevoegdheden gebruik wenst te maken ten aanzien van Nederlandse vissersvaartuigen doet hij dit na overleg met Onze Minister van Landbouw en Visserij.
 
-#### Artikel 20
+##### Artikel 20
 
 Voor de toepassing van deze rijkswet in Aruba, Curaçao of Sint Maarten kan Onze Minister van de aan hem verleende bevoegdheden mandaat verlenen aan Onze Gouverneur aldaar. Onze Minister geeft, na overleg met de betrokken Gevolmachtigde Minister, aanwijzingen ter uitoefening van deze bevoegdheden.
 
-#### Artikel 21
+##### Artikel 21
 
 Indien Onze Minister dan wel Onze Gouverneur personen aanwijst om namens hem te vorderen, vergunningen te verlenen of te handelen overeenkomstig [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=VI&artikel=22&z=2025-07-01&g=2025-07-01), moeten deze zijn voorzien van een daartoe strekkende algemene of bijzondere schriftelijke machtiging, welke vermeldt, tot welk tijdstip zij geldt. In spoedeisende gevallen kan deze machtiging achterwege blijven, mits de aanwijzing van de personen door de daartoe ten dienste staande middelen algemeen bekend is gemaakt.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De eigenaar en de reder van een gevorderd schip of van een schip, waarin ruimte is gevorderd, zijn verplicht alle medewerking te verlenen welke redelijkerwijze van hen verlangd kan worden, teneinde de kapitein in staat te stellen de verplichtingen, hem opgelegd bij [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=III&artikel=6&z=2025-07-01&g=2025-07-01), [9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=IV&artikel=9&z=2025-07-01&g=2025-07-01) en [16, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=V&artikel=16&z=2025-07-01&g=2025-07-01), na te komen.
 
 2. Ingeval een verplichting tot terbeschikkingstelling van een schip of ruimte in een schip, opgelegd bij de in het vorige lid genoemde artikelen, niet of niet volledig wordt nagekomen, kan Onze Minister zich zo nodig met behulp van de sterke arm de beschikking over het gevorderde verschaffen.
 
-#### Artikel 23
+##### Artikel 23
 
 De bedragen der vergoedingen, welke ingevolge de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=II&artikel=4&z=2025-07-01&g=2025-07-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=III&artikel=7&z=2025-07-01&g=2025-07-01) en [9, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=IV&artikel=9&z=2025-07-01&g=2025-07-01), [11, derde èn vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=IV&artikel=11&z=2025-07-01&g=2025-07-01), [12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=IV&artikel=12&z=2025-07-01&g=2025-07-01), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=IV&artikel=13&z=2025-07-01&g=2025-07-01), [16, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=V&artikel=16&z=2025-07-01&g=2025-07-01) en [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=V&artikel=17&z=2025-07-01&g=2025-07-01), eigenaren, vruchtgebruikers of reders verleend worden of door eigenaren verschuldigd zijn, komen ten laste van, onderscheidenlijk ten goede aan Nederland.
 
-#### Artikel 24
+##### Artikel 24
 
 1. De vergoeding, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=II&artikel=4&z=2025-07-01&g=2025-07-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=III&artikel=7&z=2025-07-01&g=2025-07-01), [9, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=IV&artikel=9&z=2025-07-01&g=2025-07-01), [11, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=IV&artikel=11&z=2025-07-01&g=2025-07-01), [12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=IV&artikel=12&z=2025-07-01&g=2025-07-01), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=IV&artikel=13&z=2025-07-01&g=2025-07-01), [16, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=V&artikel=16&z=2025-07-01&g=2025-07-01), en [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=V&artikel=17&z=2025-07-01&g=2025-07-01), alsmede het bedrag, bedoeld in [artikel 17, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=V&artikel=17&z=2025-07-01&g=2025-07-01), wordt met inachtneming van het bepaalde in het tweede en vierde lid van dit artikel vastgesteld volgens daaromtrent nader bij algemene maatregel van Rijksbestuur te stellen regelen; deze regelen hebben mede betrekking op het tijdstip van vaststelling der vergoeding en de betaalbaarstelling.
 
@@ -270,7 +293,7 @@ De bedragen der vergoedingen, welke ingevolge de [artikelen 4](https://wetten.ov
 
 - 3°. door de rechtbank Amsterdam, indien de belanghebbende niet binnen het Koninkrijk woonachtig is.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Het bedrag van de in [artikel 24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=VI&artikel=24&z=2025-07-01&g=2025-07-01), bedoelde vergoeding wordt door de rechter vastgesteld op verzoek van de belanghebbende of van Onze Minister. Het geding wordt door de verzoeker aanhangig gemaakt bij een in drievoud ingediend verzoekschrift, waarin naam en adres van de belanghebbende vermeld is, alsmede het bedrag van de vergoeding, waarvan vaststelling wordt verlangd.
 
@@ -286,35 +309,35 @@ De bedragen der vergoedingen, welke ingevolge de [artikelen 4](https://wetten.ov
 
 #### VII. Strafbepalingen
 
-#### Artikel 26
+##### Artikel 26
 
 1. De kapitein, de reder of de eigenaar, die opzettelijk niet voldoet aan een hem bij [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=III&artikel=6&z=2025-07-01&g=2025-07-01), [9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=IV&artikel=9&z=2025-07-01&g=2025-07-01), of [16, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=V&artikel=16&z=2025-07-01&g=2025-07-01), opgelegde verplichting, en hij, die opzettelijk belet, belemmert of verijdelt, dat aan zodanige, een ander opgelegde verplichting wordt voldaan, wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van € 45.000,–, of, indien de geldboete wordt opgelegd door de strafrechter in de openbare lichamen Bonaire, Sint Eustatius of Saba, een geldboete van ten hoogste USD 56.000,–, dan wel indien de geldboete wordt opgelegd door de strafrechter in Aruba, Curaçao of Sint Maarten een geldboete van ten hoogste AWG 100.000,– onderscheidenlijk ANG 100.000,–.
 
 2. Hij aan wiens schuld te wijten is, dat aan een verplichting als in het vorige lid bedoeld niet wordt voldaan, of dat de nakoming daarvan wordt belet, belemmerd of verijdeld, wordt gestraft met gevangenisstraf of hechtenis van ten hoogste een jaar of geldboete van ten hoogste € 22.500,–, of, indien de geldboete wordt opgelegd door de strafrechter in de openbare lichamen Bonaire, Sint Eustatius of Saba, een geldboete van ten hoogste USD 28.000,–, dan wel indien de geldboete wordt opgelegd door de strafrechter in Aruba, Curaçao of Sint Maarten, een geldboete van ten hoogste AWG 50.000,– onderscheidenlijk ANG 50.000,–.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Hij die opzettelijk een verbod als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=II&artikel=5&z=2025-07-01&g=2025-07-01) overtreedt of een voorwaarde als bedoeld in dat artikel niet nakomt, wordt gestraft met gevangenisstraf van ten hoogste vijf jaren of geldboete van ten hoogste € 45 000,–, of, indien de geldboete wordt opgelegd door de strafrechter in de openbare lichamen Bonaire, Sint Eustatius of Saba, een geldboete van ten hoogste USD 56.000,–, dan wel indien de geldboete wordt opgelegd door de strafrechter in Aruba, Curaçao of Sint Maarten, een geldboete van ten hoogste AWG 100.000,– onderscheidenlijk ANG 100.000,–.
 
 2. Hij aan wiens schuld te wijten is, dat een verbod als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=II&artikel=5&z=2025-07-01&g=2025-07-01) wordt overtreden of een voorwaarde als bedoeld in dat artikel niet wordt nagekomen, wordt gestraft met gevangenisstraf of hechtenis van ten hoogste een jaar of geldboete van ten hoogste € 22.500,–, of, indien de geldboete wordt opgelegd door de strafrechter in de openbare lichamen Bonaire, Sint Eustatius of Saba, een geldboete van ten hoogste USD 28.000,–, dan wel indien de geldboete wordt opgelegd door de strafrechter in Aruba, Curaçao of Sint Maarten, een geldboete van ten hoogste AWG 50.000,– onderscheidenlijk ANG 50.000,–.
 
-#### Artikel 28
+##### Artikel 28
 
 Hij die handelt in strijd met een hem ingevolge [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=II&artikel=4&z=2025-07-01&g=2025-07-01) gegeven aanwijzing, wordt gestraft met hechtenis van ten hoogste zes maanden of geldboete van ten hoogste € 4.500,–, of, indien de geldboete wordt opgelegd door de strafrechter in de openbare lichamen Bonaire, Sint Eustatius of Saba, een geldboete van ten hoogste USD 5.600,–, dan wel indien de geldboete wordt opgelegd door de strafrechter in Aruba, Curaçao of Sint Maarten, een geldboete van ten hoogste AWG 10.000,– onderscheidenlijk ANG 10.000,–.
 
-#### Artikel 29
+##### Artikel 29
 
 De feiten, strafbaar gesteld bij de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=VII&artikel=26&z=2025-07-01&g=2025-07-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=VII&artikel=27&z=2025-07-01&g=2025-07-01), worden beschouwd als misdrijven; de feiten, strafbaar gesteld bij [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=VII&artikel=28&z=2025-07-01&g=2025-07-01) worden beschouwd als overtredingen.
 
-#### Artikel 30
+##### Artikel 30
 
 De [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=VII&artikel=26&z=2025-07-01&g=2025-07-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=VII&artikel=27&z=2025-07-01&g=2025-07-01), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=VII&artikel=28&z=2025-07-01&g=2025-07-01) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=VII&artikel=29&z=2025-07-01&g=2025-07-01) zijn van toepassing, ongeacht waar het feit plaatsvindt.
 
-#### Artikel 31
+##### Artikel 31
 
 Vervallen
 
-#### Artikel 32
+##### Artikel 32
 
 1. Met de opsporing van de bij of krachtens deze rijkswet strafbaar gestelde feiten zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) en de overeenkomstige wetsbepalingen van Aruba, Curaçao en Sint Maarten, belast:
 
@@ -334,7 +357,7 @@ Vervallen
 
 2. Van een besluit als bedoeld in het eerste lid, onderdeel f, wordt mededeling gedaan door plaatsing in de **Staatscourant**; van een besluit als bedoeld in het eerste lid, onderdeel g, wordt mededeling gedaan door plaatsing in de Landscourant van Aruba, de Curaçaose Courant, onderscheidenlijk de Landscourant van Sint Maarten.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Bij het opsporen van een bij of krachtens deze Rijkswet strafbaar gesteld feit hebben de in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=VII&artikel=32&z=2025-07-01&g=2025-07-01) bedoelde ambtenaren toegang tot elke plaats, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is. Zo nodig verschaffen zij zich toegang met behulp van de sterke arm.
 
@@ -344,7 +367,7 @@ Daarin wordt mede van het tijdstip van het binnentreden en van het daarmee beoog
 
 #### VIII. Slotbepalingen
 
-#### Artikel 34
+##### Artikel 34
 
 Een bij of krachtens deze Rijkswet opgelegde verplichting is opgeheven voor zover het voldoen hieraan zou medebrengen dat niet kan worden voldaan aan een verplichting die bij of krachtens deze of een andere wet is opgelegd
 
@@ -352,27 +375,27 @@ Een bij of krachtens deze Rijkswet opgelegde verplichting is opgeheven voor zove
 
 - b. in het belang van de bestrijding van rampen, van de beperking van de onmiddellijke gevolgen daarvan alsmede van de voorbereiding op deze bestrijding en beperking.
 
-#### Artikel 34a
+##### Artikel 34a
 
 Bevat wijzigingen in deze wet.
 
-#### Artikel 35
+##### Artikel 35
 
 1. Ingetrokken worden de Zeeschepenvorderingswet 1939 (**Stb.** 635), het Koninklijk besluit van 20 februari 1942 (**Stb.** C 12) en het Zeeschepenbesluit 1942 (**Stb.** C 17).
 
 2. Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 36
+##### Artikel 36
 
 Deze Rijkswet kan worden aangehaald als "Rijkswet Noodvoorzieningen Scheepvaart."
 
-#### Artikel 37
+##### Artikel 37
 
 Deze Rijkswet treedt in werking op een door Ons te bepalen tijdstip.
 
 Lasten en bevelen, dat deze in het **Staatsblad,** het **Gouvernementsblad van Suriname** en het**Publicatieblad van de Nederlandse Antillen** zal worden geplaatst en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 25a
+##### Artikel 25a
 
 Dit onderdeel is nog niet inwerking getreden
 

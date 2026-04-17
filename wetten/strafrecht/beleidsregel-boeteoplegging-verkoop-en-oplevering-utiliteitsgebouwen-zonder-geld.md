@@ -1,16 +1,42 @@
 ---
-title: "Beleidsregel boeteoplegging verkoop en oplevering utiliteitsgebouwen zonder geldig energielabel 2024"
+title: "Beleidsregel van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 01-05-2024, nr. ILT-2024/17398 houdende regels tot vaststelling van boetebedragen voor overtredingen van artikel 120 van de Woningwet en artikel 6.27, eerste, tweede en vierde lid van het Besluit bouwwerken leefomgeving (Beleidsregel boeteoplegging verkoop en oplevering utiliteitsgebouwen zonder geldig energielabel 2024)"
 identifier: "BWBR0049685"
-categorie: "Strafrecht"
-publicatiedatum: 2024-05-01
-laatste_update: 2024-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049685"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2024-05-01"
+last_updated: "2024-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049685"
+soort: "beleidsregel"
+stam_id: "17099533"
+version_id: "30094072"
+internal_id: "C43120261"
+label_id: "17008174"
+dtd_version: "2.0"
+original_entry_into_force: "2024-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049685/2024-05-01/0"
+intitule_bron: "Stcrt.2024-15357"
+intitule_effect: "nieuw"
+intitule_signed: "2024-05-01"
+intitule_published: "2024-05-08"
+intitule_in_force: "2024-05-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-15357"
+original_signed_date: "2024-05-01"
+original_published_date: "2024-05-08"
+original_effect: "nieuw"
+original_url_id: "stcrt-2024-15357"
+entry_into_force_date: "2024-05-01"
+jci_1_3: "jci1.3:c:BWBR0049685&z=2024-05-01&g=2024-05-01"
+jci_1_0: "1.0:c:BWBR0049685&g=2024-05-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel boeteoplegging verkoop en oplevering utiliteitsgebouwen zonder geldig energielabel 2024"
+signed_date: "2024-05-01"
+entry_into_force: "2024-05-01"
 ---
-
 # Beleidsregel van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 01-05-2024, nr. ILT-2024/17398 houdende regels tot vaststelling van boetebedragen voor overtredingen van artikel 120 van de Woningwet en artikel 6.27, eerste, tweede en vierde lid van het Besluit bouwwerken leefomgeving (Beleidsregel boeteoplegging verkoop en oplevering utiliteitsgebouwen zonder geldig energielabel 2024)
 
-#### Artikel 1. Berekening van de bestuurlijke boete
+##### Artikel 1. Berekening van de bestuurlijke boete
 
 1. Deze beleidsregel is van toepassing op overtredingen als bedoeld in [artikel 120, tweede lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=120), voor zover de overtreding betrekking heeft op het verkopen en opleveren van een utiliteitsgebouw zonder geldig energielabel als bedoeld in [artikel 6.27, eerste, tweede en vierde lid, van het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=6.27) juncto [artikel 6.29, vierde lid, van het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=6.29).
 
@@ -30,15 +56,15 @@ Klasse D: groter dan 5.000 m2
 
 5. Indien een overtreding wordt begaan door meerdere natuurlijke en/of rechtspersonen, wordt aan allen een boete opgelegd, waarbij het boetebedrag gelijkelijk over hen wordt verdeeld.
 
-#### Artikel 2. Cumulatie bestuurlijke boetes
+##### Artikel 2. Cumulatie bestuurlijke boetes
 
 De bij een boetebeschikking op te leggen bestuurlijke boete bestaat, indien er sprake is van meerdere overtredingen, uit de som van de per overtreding berekende boetebedragen.
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 Deze beleidsregel treedt in werking op 01-05-2024
 
-#### Artikel 4. Citeertitel
+##### Artikel 4. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel boeteoplegging verkoop en oplevering utiliteitsgebouwen zonder geldig energielabel 2024.
 

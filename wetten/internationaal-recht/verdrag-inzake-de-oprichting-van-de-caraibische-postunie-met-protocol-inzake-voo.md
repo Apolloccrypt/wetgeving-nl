@@ -1,13 +1,38 @@
 ---
 title: "Verdrag inzake de oprichting van de Caraïbische Postunie, met Protocol inzake voorrechten en immuniteiten van de Caraïbische Postunie"
 identifier: "BWBV0001945"
-categorie: "Internationaal recht"
-publicatiedatum: 2007-01-01
-laatste_update: 2007-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001945"
+country: "nl"
+rank: "verdrag"
+publication_date: "2007-01-01"
+last_updated: "2007-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001945"
+soort: "verdrag"
+stam_id: "10002578493"
+version_id: "10002569352"
+internal_id: "C10008572391"
+label_id: "10002568024"
+dtd_version: "2.0"
+original_entry_into_force: "2001-06-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001945/2007-01-01/0"
+intitule_bron: "Trb.2001-61"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-07-19"
+intitule_published: "2001-04-06"
+intitule_in_force: "2008-03-04"
+intitule_status: "goed"
+original_publication: "Trb.2001-61"
+original_signed_date: "2001-07-19"
+original_published_date: "2001-04-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2001-61"
+entry_into_force_date: "2001-06-20"
+jci_1_3: "jci1.3:c:BWBV0001945&z=2007-01-01&g=2007-01-01"
+jci_1_0: "1.0:c:BWBV0001945&g=2007-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "2001-07-19"
+entry_into_force: "2001-06-20"
 ---
-
 # Verdrag inzake de oprichting van de Caraïbische Postunie, met Protocol inzake voorrechten en immuniteiten van de Caraïbische Postunie
 
 PREAMBULE
@@ -24,7 +49,7 @@ en gelet op artikel 8 van de Constitutie van de Wereldpostunie (UPU);
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -58,7 +83,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - o. **Directeur der Posterijen**, de directeur die belast is met de organisatie die de postale diensten verzorgt.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Hierbij herbevestigen de Verdragsluitende Partijen de oprichting van de Caraïbische Postunie.
 
@@ -76,13 +101,13 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 3. De Unie moet worden beschouwd als een Beperkte Unie van de Wereldpostunie zoals bedoeld in artikel 8 van de Constitutie van de Wereldpostunie.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De Unie heeft volledige handelingsbevoegdheid.
 
 2. Elk lid kent op zijn grondgebied aan de Unie de meest uitgebreide handelingsbevoegdheid toe welke krachtens de gemeentelijke wetgeving aan rechtspersonen wordt verleend. Bij elk rechtsgeding wordt de Unie vertegenwoordigd door de Secretaris-Generaal van de Unie.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het lidmaatschap van de Unie staat open voor alle landen en grondgebieden die de Unie hebben opgericht alsmede alle Caraïbische landen en grondgebieden.
 
@@ -94,7 +119,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 5. De Secretaris-Generaal van de Unie raadpleegt zo spoedig mogelijk alle leden over de door hem ontvangen aanvragen voor lidmaatschap. Een land wordt als lid tot de Unie toegelaten indien zijn aanvraag voor toelating is goedgekeurd door twee derde van de leden van de Unie. Van de toelating wordt vervolgens door het Secretariaat van de Unie mededeling gedaan aan de leden van de Unie, en de toelating wordt van kracht op een door het nieuwe lid en de Secretaris-Generaal overeengekomen datum.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De Unie nodigt de Wereldpostunie uit haar vergaderingen als waarnemer bij te wonen.
 
@@ -102,11 +127,11 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 3. Waarnemers hebben bij de vergaderingen van de Unie geen stemrecht.
 
-#### Artikel 6
+##### Artikel 6
 
 De permanente lichamen van de Unie zijn de Caraïbische Raad van ministers voor Postzaken, de Conferentie en de Raad van Beheer.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De Caraïbische Raad van ministers voor Postzaken is verantwoordelijk voor de ontwikkeling van langetermijnstrategieën en -beleid met betrekking tot postzaken en de toekomst van de postindustrie binnen het Caraïbisch gebied, en delegeert de uitvoering van deze strategieën en dit beleid aan de Conferentie.
 
@@ -118,7 +143,7 @@ De permanente lichamen van de Unie zijn de Caraïbische Raad van ministers voor 
 
 5. Deze Raad komt in beginsel jaarlijks bijeen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De Conferentie draagt zorg voor de continuïteit van de Unie en vervult de in artikel 9 genoemde functies.
 
@@ -126,7 +151,7 @@ De permanente lichamen van de Unie zijn de Caraïbische Raad van ministers voor 
 
 3. De Conferentie richt zich bij de vaststelling van de data van haar vergaderingen naar de vergaderingen van de Wereldpostunie. Normaliter komt de Conferentie eenmaal per jaar bijeen in de periode mei-juni. Daarnaast kan de Conferentie op verzoek van twee derde van de leden van de Unie in een buitengewone vergadering bijeenkomen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De taken van de Conferentie zijn:
 
@@ -160,7 +185,7 @@ De permanente lichamen van de Unie zijn de Caraïbische Raad van ministers voor 
 
 2. De Conferentie kan de Raad van Beheer taken opdragen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De besluiten van de Conferentie zijn van toepassing op alle leden. De leden die een besluit van de Conferentie niet kunnen aannemen, moeten de Secretaris-Generaal hiervan onverwijld en met opgaaf van redenen op de hoogte stellen.
 
@@ -172,7 +197,7 @@ De permanente lichamen van de Unie zijn de Caraïbische Raad van ministers voor 
 
 5. De Conferentie stelt haar eigen reglement van orde op.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De Raad van Beheer, met de vertegenwoordigers van zeven lidstaten, wordt ingesteld ter waarborging van de continuïteit van de werkzaamheden en van het beheer van de zaken van de Unie gedurende de periode tussen de vergaderingen van de Conferentie.
 
@@ -184,7 +209,7 @@ De permanente lichamen van de Unie zijn de Caraïbische Raad van ministers voor 
 
 5. De Raad van Beheer verkiest zijn Voorzitter uit zijn leden.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De taken van de Raad van Beheer zijn:
 
@@ -214,7 +239,7 @@ De permanente lichamen van de Unie zijn de Caraïbische Raad van ministers voor 
 
 - m. het uitbrengen van verslag aan de Conferentie inzake de werkzaamheden van de Raad van Beheer.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De Conferentie verkiest een Secretaris-Generaal die in die hoedanigheid voor een periode van twee jaar zijn functie vervult.
 
@@ -242,7 +267,7 @@ De permanente lichamen van de Unie zijn de Caraïbische Raad van ministers voor 
 
 3. Indien de Raad van Beheer van oordeel is dat de Secretaris-Generaal niet in staat is zijn taken te vervullen of deze niet kan uitvoeren als gevolg van afwezigheid of ziekte **(„in absentia”)**, kan de Raad van Beheer de nodige maatregelen nemen om de continuïteit van de werkzaamheden van de Secretaris-Generaal te waarborgen.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Het Secretariaat van de Unie bestaat uit een Secretaris-Generaal en andere personeelsleden waartoe de Conferentie en de Raad van Beheer besluiten.
 
@@ -258,7 +283,7 @@ De permanente lichamen van de Unie zijn de Caraïbische Raad van ministers voor 
 
 - d. het verrichten van alle andere door de Raad van Beheer opgedragen taken.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De Secretaris-Generaal stelt de lidstaten in kennis van de posities en titels van door de Unie te werk gestelde functionarissen op wie dit artikel van toepassing is. De namen van de functionarissen worden op gezette tijden aan de lidstaten medegedeeld.
 
@@ -272,7 +297,7 @@ De permanente lichamen van de Unie zijn de Caraïbische Raad van ministers voor 
 
 - c. dezelfde faciliteiten met betrekking tot valuta- en wisselbeperkingen als die welke worden toegekend aan leden van diplomatieke zendingen met vergelijkbare rang.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De Unie neemt de locatie van de zetel periodiek in heroverweging. De terreinen en gebouwen van de zetel zijn onschendbaar en worden gevrijwaard tegen onderzoek, vordering, confiscatie of onteigening.
 
@@ -280,7 +305,7 @@ De permanente lichamen van de Unie zijn de Caraïbische Raad van ministers voor 
 
 3. De archieven van de Unie zijn onschendbaar.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De Unie, haar activa, inkomsten en andere eigendommen zijn vrijgesteld van alle vormen van directe belastingen.
 
@@ -296,7 +321,7 @@ De permanente lichamen van de Unie zijn de Caraïbische Raad van ministers voor 
 
 - d. haar fondsen, waardepapieren en buitenlandse valuta’s over te brengen naar of uit de lidstaten en valuta’s die zij bezit om te wisselen in welke andere valuta ook.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Op verzoek daartoe door de Secretaris-Generaal verlenen de bevoegde autoriteiten hun medewerking om te waarborgen dat de zetel van de Unie de beschikking krijgt over de nodige openbare voorzieningen, waaronder elektriciteit, water, post, telefoon, telegraaf, vervoer en bescherming bij brand.
 
@@ -304,7 +329,7 @@ De permanente lichamen van de Unie zijn de Caraïbische Raad van ministers voor 
 
 3. De bevoegde autoriteiten zorgen er naar redelijkheid voor dat gewaarborgd wordt dat de rust van de zetel niet wordt verstoord doordat een persoon of groep personen zich onbevoegd toegang tot de zetel verschaft.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Het Engels, het Frans en het Spaans zijn de officiële talen van de Unie.
 
@@ -312,7 +337,7 @@ De permanente lichamen van de Unie zijn de Caraïbische Raad van ministers voor 
 
 3. De werktaal binnen het Secretariaat is het Engels.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De Unie geniet binnen de lidstaten, wat haar officiële communicatie betreft, een niet minder gunstige behandeling dan die welke door de lidstaten wordt toegekend aan diplomatieke missies of andere internationale organisaties.
 
@@ -320,7 +345,7 @@ De permanente lichamen van de Unie zijn de Caraïbische Raad van ministers voor 
 
 3. De Unie heeft het recht correspondentie te verzenden en te ontvangen per koerier of in verzegelde zakken, ten aanzien waarvan dezelfde voorrechten en immuniteiten gelden als voor diplomatieke koeriers en zakken.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Leden van de Unie kunnen bij de Conferentie voorstellen indienen voor wijziging van dit Verdrag of de Voorschriften. Voorstellen moeten ten minste zes weken voor de Conferentie worden ingediend. Het Secretariaat maakt afschriften van de voorstellen en zendt deze ten minste vier weken voor de Conferentie toe aan de leden.
 
@@ -330,7 +355,7 @@ De permanente lichamen van de Unie zijn de Caraïbische Raad van ministers voor 
 
 4. Dergelijke voorstellen en alle andere correspondentie betreffende aangelegenheden van de Unie moeten via het Secretariaat worden aangeboden.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Vergaderingen van de Conferentie en de Raad van Beheer zijn alleen rechtsgeldig indien ten minste de helft van de leden op de desbetreffende vergadering vertegenwoordigd is.
 
@@ -346,7 +371,7 @@ Overwegende dat de Unie, overeenkomstig artikel 19 van het Verdrag tot oprichtin
 
 Komen het volgende overeen:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 In dit Protocol wordt verstaan onder:
 
@@ -372,7 +397,7 @@ In dit Protocol wordt verstaan onder:
 
 - k. „Unie”, de Caraïbische Postunie.
 
-#### Artikel 2. Eigendommen, fondsen, activa en werkzaamheden van de Unie
+##### Artikel 2. Eigendommen, fondsen, activa en werkzaamheden van de Unie
 
 1. De terreinen en gebouwen van de zetel zijn onschendbaar, ongeacht waar deze zijn gelegen. Zij zijn vrijgesteld van onderzoek, vordering, confiscatie of onteigening.
 
@@ -396,13 +421,13 @@ In dit Protocol wordt verstaan onder:
 
 - c. De bevoegde autoriteiten zorgen er naar redelijkheid voor dat gewaarborgd wordt dat de rust van de Zetel niet wordt verstoord doordat een persoon of groep personen zich onbevoegd toegang tot de Zetel verschaft.
 
-#### Artikel 3. Communicatie
+##### Artikel 3. Communicatie
 
 1. De Unie geniet in de lidstaten, wat haar officiële communicatie betreft, een niet minder gunstige behandeling dan die welke door de lidstaten wordt toegekend aan diplomatieke zendingen of andere internationale organisaties.
 
 2. Alle correspondentie van functionarissen en andere officiële communicatie van de Unie zijn vrij van censuur. Deze onschendbaarheid voor censuur strekt zich ook uit tot drukwerk, foto's, dia's, films en geluidsopnamen. Deze opsomming is niet limitatief. De Unie heeft het recht correspondentie te verzenden en te ontvangen per koerier of in verzegelde tassen, ten aanzien waarvan dezelfde voorrechten en immuniteiten gelden als voor diplomatieke koeriers en tassen.
 
-#### Artikel 4. Functionarissen en andere personeelsleden van de Unie
+##### Artikel 4. Functionarissen en andere personeelsleden van de Unie
 
 De Secretaris-Generaal stelt de lidstaten in kennis van de categorieën functionarissen op wie dit artikel van toepassing is. De namen van de functionarissen worden op gezette tijden aan de lidstaten medegedeeld.
 
@@ -440,7 +465,7 @@ IN WITNESS WHEREOF the Plenipotentiaries of the Governments of Contracting Parti
 
 ### HOOFDSTUK XI. UITGAVEN VAN DE UNIE / MUNTEENHEID
 
-#### Artikel 23
+##### Artikel 23
 
 1. Op basis van de door de Caraïbische Raad van ministers voor Postzaken vastgestelde strategie stelt de Conferentie het maximumbedrag van de uitgaven van de Unie vast en de beginselen die van toepassing zijn op de jaarlijkse uitgaven tot en met de volgende gewone vergadering van de Conferentie.
 
@@ -460,7 +485,7 @@ IN WITNESS WHEREOF the Plenipotentiaries of the Governments of Contracting Parti
 
 ### HOOFDSTUK XII. GEDETAILLEERDE VOORSCHRIFTEN
 
-#### Artikel 24
+##### Artikel 24
 
 1. Bepalingen voor de uitvoering van dit Verdrag en bepalingen voor het functioneren van de Conferentie en de Raad van Beheer worden neergelegd in de Gedetailleerde Voorschriften, die door de Secretaris-Generaal, in overleg met de leden, worden opgesteld en door de Conferentie worden goedgekeurd.
 
@@ -470,7 +495,7 @@ IN WITNESS WHEREOF the Plenipotentiaries of the Governments of Contracting Parti
 
 ### HOOFDSTUK XIII. TERUGTREKKING UIT DE UNIE
 
-#### Artikel 25
+##### Artikel 25
 
 1. Een lid kan zich uit de Unie terugtrekken door dit Verdrag op te zeggen door middel van een brief gericht aan de Secretaris-Generaal van de Unie. De Secretaris-Generaal brengt de andere leden van de Unie onverwijld van de ontvangst van de opzeggingsbrief op de hoogte.
 
@@ -478,19 +503,19 @@ IN WITNESS WHEREOF the Plenipotentiaries of the Governments of Contracting Parti
 
 ### HOOFDSTUK XIV. ALGEMENE VOORWAARDEN
 
-#### Artikel 26
+##### Artikel 26
 
 Tijdens een vergadering van de Unie wordt het gastland door de lidstaten gevrijwaard van enige vorm van aansprakelijkheid of vergoeding van enigerlei schade ontstaan bij of toegebracht aan de lidstaten of hun vertegenwoordigers of personeelsleden van de Unie die de vergadering bijwonen.
 
 ### HOOFDSTUK XV. GESCHILLEN
 
-#### Artikel 27
+##### Artikel 27
 
 Geschillen tussen de leden van Unie met betrekking tot de interpretatie of toepassing van dit Verdrag en de Gedetailleerde Voorschriften, worden beslecht door de Conferentie.
 
 ### HOOFDSTUK XVI. INWERKINGTREDING
 
-#### Artikel 28
+##### Artikel 28
 
 De datum van inwerkingtreding van deze wijzigingen wordt door de Conferentie vastgesteld.
 
@@ -502,133 +527,133 @@ Komen het volgende overeen:
 
 ### HOOFDSTUK I
 
-#### Artikel 1
+##### Artikel 1
 
 De tekst van de vertaling is niet beschikbaar.
 
-#### Artikel 2
+##### Artikel 2
 
 De tekst van de vertaling is niet beschikbaar.
 
-#### Artikel 3
+##### Artikel 3
 
 De tekst van de vertaling is niet beschikbaar.
 
 ### HOOFDSTUK II
 
-#### Artikel 4
+##### Artikel 4
 
 De tekst van de vertaling is niet beschikbaar.
 
-#### Artikel 5
+##### Artikel 5
 
 De tekst van de vertaling is niet beschikbaar.
 
 ### HOOFDSTUK III
 
-#### Artikel 6
+##### Artikel 6
 
 De tekst van de vertaling is niet beschikbaar.
 
-#### Artikel 7
+##### Artikel 7
 
 De tekst van de vertaling is niet beschikbaar.
 
-#### Artikel 8
+##### Artikel 8
 
 De tekst van de vertaling is niet beschikbaar.
 
-#### Artikel 9
+##### Artikel 9
 
 De tekst van de vertaling is niet beschikbaar.
 
 ### HOOFDSTUK IV
 
-#### Artikel 10
+##### Artikel 10
 
 De tekst van de vertaling is niet beschikbaar.
 
-#### Artikel 11
+##### Artikel 11
 
 De tekst van de vertaling is niet beschikbaar.
 
 ### HOOFDSTUK V
 
-#### Artikel 12
+##### Artikel 12
 
 De tekst van de vertaling is niet beschikbaar.
 
-#### Artikel 13
+##### Artikel 13
 
 De tekst van de vertaling is niet beschikbaar.
 
 ### HOOFDSTUK VI
 
-#### Artikel 14
+##### Artikel 14
 
 De tekst van de vertaling is niet beschikbaar.
 
 ### HOOFDSTUK VII
 
-#### Artikel 15
+##### Artikel 15
 
 De tekst van de vertaling is niet beschikbaar.
 
-#### Artikel 16
+##### Artikel 16
 
 De tekst van de vertaling is niet beschikbaar.
 
-#### Artikel 17
+##### Artikel 17
 
 De tekst van de vertaling is niet beschikbaar.
 
-#### Artikel 18
+##### Artikel 18
 
 De tekst van de vertaling is niet beschikbaar.
 
 ### HOOFDSTUK VIII
 
-#### Artikel 19
+##### Artikel 19
 
 De tekst van de vertaling is niet beschikbaar.
 
-#### Artikel 20
+##### Artikel 20
 
 De tekst van de vertaling is niet beschikbaar.
 
 ### HOOFDSTUK IX
 
-#### Artikel 21
+##### Artikel 21
 
 De tekst van de vertaling is niet beschikbaar.
 
-#### Artikel 22
+##### Artikel 22
 
 De tekst van de vertaling is niet beschikbaar.
 
-#### Artikel 23
+##### Artikel 23
 
 De tekst van de vertaling is niet beschikbaar.
 
 ### HOOFDSTUK X
 
-#### Artikel 24
+##### Artikel 24
 
 De tekst van de vertaling is niet beschikbaar.
 
 ### HOOFDSTUK XI
 
-#### Artikel 25
+##### Artikel 25
 
 De tekst van de vertaling is niet beschikbaar.
 
-#### Artikel 26
+##### Artikel 26
 
 De tekst van de vertaling is niet beschikbaar.
 
 ### HOOFDSTUK XII
 
-#### Artikel 27
+##### Artikel 27
 
 De tekst van de vertaling is niet beschikbaar.
 

@@ -1,13 +1,37 @@
 ---
 title: "Overeenkomst tot economische samenwerking tussen de Regeringen van het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika"
 identifier: "BWBV0005678"
-categorie: "Internationaal recht"
-publicatiedatum: 1952-11-28
-laatste_update: 1952-11-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005678"
+country: "nl"
+rank: "verdrag"
+publication_date: "1952-11-28"
+last_updated: "1952-11-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005678"
+soort: "verdrag"
+stam_id: "10004811093"
+version_id: "10005114062"
+internal_id: "C10007771101"
+label_id: "10004795024"
+dtd_version: "2.0"
+original_entry_into_force: "1948-07-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005678/1952-11-28/0"
+intitule_bron: "Stb.1948-I 365"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1948-08-11"
+intitule_published: "1948-09-14"
+intitule_in_force: "1951-07-17"
+intitule_status: "goed"
+original_publication: "Stb.1948-I 365"
+original_signed_date: "1948-08-11"
+original_published_date: "1948-09-14"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1948-07-02"
+jci_1_3: "jci1.3:c:BWBV0005678&z=1952-11-28&g=1952-11-28"
+jci_1_0: "1.0:c:BWBV0005678&g=1952-11-28"
+citeertitel_status: "redactioneel"
+signed_date: "1948-08-11"
+entry_into_force: "1948-07-02"
 ---
-
 # Overeenkomst tot economische samenwerking tussen de Regeringen van het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika
 
 De Nederlandse Regering ter ene zijde en de Regering der Verenigde Staten van Amerika ter andere zijde:
@@ -28,7 +52,7 @@ Verlangende om de afspraken vast te leggen, welke regelen het verlenen van bijst
 
 Zijn het volgende overeengekomen:
 
-#### Artikel I. (Bijstand en Samenwerking)
+##### Artikel I. (Bijstand en Samenwerking)
 
 1. De Regering der Verenigde Staten van Amerika neemt op zich Nederland bij te staan, door aan de Nederlandse Regering of aan personen, instellingen of organisaties, door laatstgenoemde Regering daartoe aangewezen, zodanige hulp beschikbaar te stellen als door de Nederlandse Regering zou kunnen worden verzocht en goedgekeurd door de Regering van de Verenigde Staten van Amerika. De Regering van de Verenigde Staten van Amerika zal die bijstand verlenen krachtens de voorzieningen en met inachtneming van alle bewoordingen, voorwaarden en bepalingen omtrent beëindiging van de „Economic Cooperation Act of 1948”, en van de daarmee samenhangende wijzigings-, aanvullings- en toewijzingswetten, en zij zal de Nederlandse Regering slechts die goederen, diensten en andere bijstand beschikbaar stellen, tot welker beschikbaarstelling in zodanige wetten machtiging is verleend.
 
@@ -36,7 +60,7 @@ Zijn het volgende overeengekomen:
 
 3. Met betrekking tot hulp, door de Regering van de Verenigde Staten van Amerika aan Nederland verleend, en verschaft uit gebieden buiten de Verenigde Staten van Amerika, haar gebiedsdelen en bezittingen, zal de Nederlandse Regering samenwerken met de Regering van de Verenigde Staten van Amerika, om te verzekeren, dat de aanschaf plaats zal hebben tegen redelijke prijzen en op redelijke voorwaarden, en op zodanige wijze, dat wordt gezorgd, dat dollars, aldus beschikbaar gesteld aan het land, waaruit de hulp wordt verschaft, gebruikt worden op een wijze, die in overeenstemming is met alle schikkingen, getroffen door de Regering van de Verenigde Staten van Amerika met zulk een land.
 
-#### Artikel II. (Algemene Verplichtingen)
+##### Artikel II. (Algemene Verplichtingen)
 
 1. Teneinde een optimaal herstel door het aanwenden van de bijstand, ontvangen van de Regering der Verenigde Staten van Amerika te bereiken, zal de Nederlandse Regering zo goed mogelijk trachten:
 
@@ -58,13 +82,13 @@ Zijn het volgende overeengekomen:
 
 3. De Nederlandse Regering zal de door haar passend geoordeelde maatregelen nemen en daarbij samenwerken met andere deelnemende landen om zakelijke practijken en op de internationale handel betrekking hebbende overeenkomsten van particuliere of Overheidshandelslichamen tegen te gaan, wanneer deze vrije concurrentie belemmeren, de toegang tot markten beperken dan wel monopolistische contrôle bevorderen, in alle gevallen, dat dergelijke practijken of overeenkomsten een storende uitwerking mochten hebben op de verwezenlijking van het gemeenschappelijk Europees herstelprogramma.
 
-#### Artikel III. (Waarborgen)
+##### Artikel III. (Waarborgen)
 
 1. De Nederlandse Regering en de Regering van de Verenigde Staten van Amerika zullen, op verzoek van één van beide Regeringen, overleg plegen omtrent projecten in Nederland voorgesteld door onderdanen van de Verenigde Staten van Amerika, met betrekking waartoe de Regering van de Verenigde Staten van Amerika op een voor dat doel geschikte wijze garanties betreffende valuta transfers zou kunnen stellen op grond van artikel 111 (**b**) (3) van de „Economic Cooperation Act of 1948”.
 
 2. De Nederlandse Regering stemt er mede in, dat, indien de Regering van de Verenigde Staten van Amerika aan iemand betalingen in dollars der Verenigde Staten verricht onder zulk een garantie, alle guldens, of in guldens luidende credieten, toegewezen ten behoeve van of overgemaakt aan de Regering der Verenigde Staten van Amerika overeenkomstig genoemd artikel, erkend zullen worden als bezit van de Regering der Verenigde Staten van Amerika.
 
-#### Artikel IV. (Locale Munt)
+##### Artikel IV. (Locale Munt)
 
 1. De bepalingen van dit artikel zullen slechts van toepassing zijn met betrekking tot bijstand die door de Regering der Verenigde Staten van Amerika kan worden verleend als schenking.
 
@@ -90,7 +114,7 @@ Zijn het volgende overeengekomen:
 
 7. Over ieder vrij beschikbaar saldo, anders dan niet uitgegeven bedragen, waaraan bestemming is gegeven volgens lid 4 van dit artikel, overblijvend op de Speciale Rekening op 30 Juni 1952, zal in Nederland worden beschikt voor zodanige doeleinden als hierna overeen te komen tussen de Regeringen van Nederland en de Verenigde Staten van Amerika, met dien verstande, dat de Overeenkomst van de zijde der Verenigde Staten van Amerika onderhevig zal zijn aan goedkeuring bij de wet of een „joint resolution” van het Congres van de Verenigde Staten van Amerika.
 
-#### Artikel V. (Toegang tot grondstoffen en materialen)
+##### Artikel V. (Toegang tot grondstoffen en materialen)
 
 1. De Nederlandse Regering zal de overdracht aan de Verenigde Staten van Amerika, van grondstoffen en materialen, afkomstig uit Nederland, voor voorraadvorming of andere doeleinden, vergemakkelijken, welke grondstoffen en materialen de Verenigde Staten van Amerika behoeven als gevolg van tekorten of potentiële tekorten in hun eigen hulpbronnen, tegen zodanige redelijke verkoop-, uitwisselings-, ruil- of andere voorwaarden en in zodanige hoeveelheden en voor een zodanig tijdvak, als overeengekomen zal worden tussen de Regeringen van Nederland en de Verenigde Staten van Amerika, met behoorlijke inachtneming van de redelijke behoeften van Nederland aan zulke grondstoffen en materialen voor binnenlands gebruik en voor export op commerciële basis. De Nederlandse Regering zal zodanige bijzondere maatregelen nemen als nodig mochten zijn om de bepalingen van dit lid ten uitvoer te leggen, met inbegrip van de bevordering van de productieverhoging van dergelijke grondstoffen in Nederland en de opheffing van alle belemmeringen voor de overdracht van dergelijke grondstoffen aan de Verenigde Staten van Amerika. De Nederlandse Regering zal, indien de Regering van de Verenigde Staten van Amerika zulks verzoekt, in onderhandeling treden, betreffende gedetailleerde regelingen, nodig voor de uitvoering van de voorzieningen in dit lid.
 
@@ -98,13 +122,13 @@ Zijn het volgende overeengekomen:
 
 3. De Nederlandse Regering zal, wanneer de Regering der Verenigde Staten van Amerika zulks verzoekt, samenwerken, waar mogelijk, om de doelstellingen van leden 1 en 2 van dit artikel te bevorderen ten aanzien van grondstoffen en materialen afkomstig van buiten Nederland.
 
-#### Artikel VI. (Reisovereenkomsten en aanvoer van relief-goederen)
+##### Artikel VI. (Reisovereenkomsten en aanvoer van relief-goederen)
 
 1. De Nederlandse Regering zal met de Regering der Verenigde Staten van Amerika samenwerken tot het vergemakkelijken en het aanmoedigen van de bevordering en de ontwikkeling van het reizen door burgers van de Verenigde Staten van Amerika, naar en in de deelnemende landen.
 
 2. De Nederlandse Regering zal, wanneer de Regering van de Verenigde Staten van Amerika zulks verlangt, onderhandelingen aanknopen over overeenkomsten (met inbegrip van een voorziening in een vrijstelling van rechten, onder de daartoe passende waarborgen) ter vergemakkelijking van de invoer in Nederland van voorraden relief-goederen geschonken aan of gekocht door vrijwillige, niet op winstbasis werkende Amerikaanse steuncomité's, en van relief-zendingen, afkomstig uit de Verenigde Staten van Amerika en geadresseerd aan personen, wonende in Nederland.
 
-#### Artikel VII. (Overleg en uitwisseling van berichten)
+##### Artikel VII. (Overleg en uitwisseling van berichten)
 
 1. De twee Regeringen zullen op verzoek van één hunner overleg plegen aangaande iedere aangelegenheid, die verband houdt met de toepassing van deze overeenkomst of met handelingen en regelingen uit te voeren op grond van dit Verdrag.
 
@@ -118,7 +142,7 @@ Zijn het volgende overeengekomen:
 
 3. De Nederlandse Regering zal de Regering van de Verenigde Staten van Amerika bijstaan in het verkrijgen van inlichtingen betreffende de uit Nederland afkomstige grondstoffen en materialen, bedoeld in Artikel V, hetgeen noodzakelijk is voor de formulering en uitvoering van de regelingen in dat Artikel voorzien.
 
-#### Artikel VIII. (Publiciteit)
+##### Artikel VIII. (Publiciteit)
 
 1. De Nederlandse Regering en de Regering der Verenigde Staten van Amerika erkennen, dat het haar wederzijds belang is, dat volledige openbaarheid worde gegeven aan de oogmerken en de ontwikkeling van het gemeenschappelijk Europees Herstelprogramma en hetgeen verricht wordt ter bevordering van dat programma. Erkend wordt, dat een brede verspreiding van de berichtgeving over de ontwikkeling van het programma wenselijk is, teneinde het begrip voor gezamenlijke inspanning en wederkerige hulpverlening, welke essentieel zijn voor de verwezenlijking van de oogmerken van het programma, te ontwikkelen.
 
@@ -128,7 +152,7 @@ Zijn het volgende overeengekomen:
 
 4. De Nederlandse Regering zal in Nederland ieder kwartaal volledige verslagen omtrent de handelingen, verricht op grond van deze overeenkomst, publiceren, met inbegrip van mededelingen omtrent het gebruik van de ontvangen fondsen, goederen en diensten.
 
-#### Artikel IX. (Missies)
+##### Artikel IX. (Missies)
 
 1. De Nederlandse Regering neemt op zich een speciale Missie voor Economische Samenwerking te ontvangen, welke zich in Nederland zal kwijten van de taak der Verenigde Staten van Amerika ingevolge deze overeenkomst.
 
@@ -136,7 +160,7 @@ Zijn het volgende overeengekomen:
 
 3. De Nederlandse Regering zal, zowel rechtstreeks als door middel van haar vertegenwoordigers bij de Organisatie voor Europese Economische Samenwerking, volledige samenwerking verlenen aan de Speciale Missie, de Bijzondere Vertegenwoordiger van de Verenigde Staten van Amerika in Europa en diens staf alsmede aan de leden en de staf van de Verenigde Commissie. Die samenwerking zal inhouden het verstrekken van alle berichten en faciliteiten, nodig voor het observeren van — en het toezicht op de uitvoering van deze overeenkomst met inbegrip van de aanwending van hulp krachtens deze overeenkomst verleend.
 
-#### Artikel X. (Regeling van vorderingen van onderdanen)
+##### Artikel X. (Regeling van vorderingen van onderdanen)
 
 1. De Regeringen van Nederland en de Verenigde Staten van Amerika komen overeen om aan de beslissing van het Internationale Hof van Justitie te onderwerpen iedere vordering, waarin ene Regering ten behoeve van een harer onderdanen zich partij stelt tegenover de andere Regering, en die strekt tot vergoeding van schade, voortspruitende uit overheidsmaatregelen (andere dan maatregelen met betrekking tot vijandelijk vermogen of vijandelijke belangen) genomen na 3 April 1948 door de andere Regering, en aantastende het vermogen of een belang van zodanig onderdaan, daaronder begrepen contracten met — of concessies verleend door terzake bevoegde autoriteiten, behorend tot die andere Regering. Overeenstemming bestaat daarover, dat de verbintenis van elk der beide Regeringen met betrekking tot vorderingen, waarin de andere Regering zich in het voorkomende geval op grond van dit lid partij stelt, wordt aangegaan onder het gezag van — en wordt beperkt door de bewoordingen en voorwaarden van zodanige daadwerkelijke erkenning als tot nu toe is verleend aan de verplichte jurisdictie van het Internationale Hof van Justitie ingevolge Artikel 36 van het Statuut van het Hof. De bepalingen van dit lid zullen in geen enkel opzicht inbreuk maken op andere aan elk der beide Regeringen toekomende rechten, indien bestaande, om het Internationale Hof van Justitie te adieren of tot het zich partij stellen in — en het voorbrengen van rechtsvorderingen, die gegrond zijn op vermeende schendingen door een van beide Regeringen, van rechten en verplichtingen, voortspruitend uit verdragen, overeenkomsten, of grondbeginselen van internationaal recht.
 
@@ -144,7 +168,7 @@ Zijn het volgende overeengekomen:
 
 3. Voorts bestaat overeenstemming daarover, dat geen van beide Regeringen overeenkomstig dit Artikel zich partij zal stellen in een vordering, voordat haar betrokken onderdaan alle beschikbare rechtsmiddelen heeft aangewend, welke hem in de administratieve en burgerlijke rechtspleging van het land, waarin de rechtsvordering is ontstaan, ter beschikking staan.
 
-#### Artikel XI. (Begripsbepalingen)
+##### Artikel XI. (Begripsbepalingen)
 
 Zoals gebruikt in deze overeenkomst:
 
@@ -158,7 +182,7 @@ Zoals gebruikt in deze overeenkomst:
 
 voor zolang als zulk een land partij is van het Verdrag nopens Europese Economische Samenwerking en een gemeenschappelijk Europees Herstelprogramma aanhangt, ontworpen ter verwezenlijking van de in deze Overeenkomsten gestelde doeleinden.
 
-#### Artikel XII. (Inwerkingtreding, wijziging en looptijd)
+##### Artikel XII. (Inwerkingtreding, wijziging en looptijd)
 
 1. Deze Overeenkomst zal heden van kracht worden. Zij zal, ingevolge de bepalingen van de leden 2 en 3 van dit Artikel, van kracht blijven tot 30 Juni 1953, en zal, tenzij tenminste 6 maanden vóór 30 Juni 1953 een van beide Regeringen aan de andere schriftelijk kennis zal hebben gegeven van haar voornemen om op die datum de Overeenkomst te beëindigen, daarna van kracht blijven totdat 6 maanden, te rekenen vanaf de datum waarop zulk een kennisgeving zal zijn gedaan, zullen zijn verstreken.
 

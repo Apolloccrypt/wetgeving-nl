@@ -1,20 +1,46 @@
 ---
-title: "Projectstimuleringsregeling Interreg V"
+title: "Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 21 april 2015, nr. IENM/BSK-2015/69519, houdende regels met betrekking tot subsidie ter stimulering van het indienen van projectvoorstellen die vallen onder Interreg EUROPE, North West Europe of North Sea Region (Projectstimuleringsregeling Interreg V)"
 identifier: "BWBR0036545"
-categorie: "Overig"
-publicatiedatum: 2017-01-24
-laatste_update: 2017-01-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036545"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-01-24"
+last_updated: "2017-01-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036545"
+soort: "ministeriele-regeling"
+stam_id: "13142663"
+version_id: "22399682"
+internal_id: "C32083531"
+label_id: "13111484"
+dtd_version: "2.0"
+original_entry_into_force: "2015-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036545/2017-01-24/0"
+intitule_bron: "Stcrt.2015-10986"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-04-21"
+intitule_published: "2015-04-22"
+intitule_in_force: "2015-04-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-10986"
+original_signed_date: "2015-04-21"
+original_published_date: "2015-04-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-10986"
+entry_into_force_date: "2015-05-01"
+jci_1_3: "jci1.3:c:BWBR0036545&z=2017-01-24&g=2017-01-24"
+jci_1_0: "1.0:c:BWBR0036545&g=2017-01-24"
+citeertitel_status: "officieel"
+short_title: "Projectstimuleringsregeling Interreg V"
+signed_date: "2015-04-21"
+entry_into_force: "2015-05-01"
 ---
-
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 21 april 2015, nr. IENM/BSK-2015/69519, houdende regels met betrekking tot subsidie ter stimulering van het indienen van projectvoorstellen die vallen onder Interreg EUROPE, North West Europe of North Sea Region (Projectstimuleringsregeling Interreg V)
 
 Gelet op [artikel 15.13 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.13);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -48,11 +74,11 @@ In deze regeling wordt verstaan onder:
 
 - –. **subsidieontvanger:** Lead Partner aan wie krachtens deze regeling subsidie is verleend;
 
-#### Artikel 2. Doel en doelgroep
+##### Artikel 2. Doel en doelgroep
 
 Een subsidie op grond van deze regeling is bedoeld als stimulans voor het voorbereiden, opstellen en indienen van projectvoorstellen door Lead Partners voor Interreg Europe, NWE of NSR die bijdragen aan de doelen van de desbetreffende programma’s en Rijksbeleid en geschikt worden verklaard.
 
-#### Artikel 3. Subsidiabele activiteiten
+##### Artikel 3. Subsidiabele activiteiten
 
 De Minister kan een subsidie aan een Lead Partner verstrekken voor de kosten van niet-economische activiteiten die zien op het voorbereiden, opstellen en indienen van:
 
@@ -60,11 +86,11 @@ De Minister kan een subsidie aan een Lead Partner verstrekken voor de kosten van
 
 - b. een Projectvoorstel Interreg NWE of NSR.
 
-#### Artikel 4. Cumulatie
+##### Artikel 4. Cumulatie
 
 Indien door een ander bestuursorgaan of de Europese Commissie een bijdrage is of wordt verstrekt voor de kosten of een deel daarvan wordt het bedrag dat door deze organen is verstrekt in mindering gebracht op de subsidie waarvoor de aanvrager krachtens deze regeling in aanmerking komt.
 
-#### Artikel 5. Aanvraag tot verlening van subsidie
+##### Artikel 5. Aanvraag tot verlening van subsidie
 
 1. Een aanvraag bij de Minister om subsidie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036545&artikel=3&z=2017-01-24&g=2017-01-24) wordt ingediend door een Lead Partner met een vestiging of filiaal in Nederland op het tijdstip waarop de aanvraag wordt ingediend, met gebruikmaking van een daartoe door de Minister beschikbaar gesteld middel.
 
@@ -84,7 +110,7 @@ Indien door een ander bestuursorgaan of de Europese Commissie een bijdrage is of
 
 5. Op verzoek van de Minister overlegt de Lead Partner een de-minimisverklaring als bedoeld in artikel 6 van Verordening (EU) nr. 407/2013 van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 VWEU van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun (PbEU L352/1).
 
-#### Artikel 6. Beslissing op de aanvraag voor verlening van subsidie
+##### Artikel 6. Beslissing op de aanvraag voor verlening van subsidie
 
 1. De Minister beslist over een aanvraag als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036545&artikel=5&z=2017-01-24&g=2017-01-24) binnen dertien weken na ontvangst daarvan.
 
@@ -92,7 +118,7 @@ Indien door een ander bestuursorgaan of de Europese Commissie een bijdrage is of
 
 3. Het verlenen van subsidie op grond van een aanvraag houdt geen recht in op een bijdrage ingevolge Interreg EUROPE, NWE of NSR.
 
-#### Artikel 7. Wijze van verdelen
+##### Artikel 7. Wijze van verdelen
 
 De Minister verdeelt de subsidie naar volgorde van ontvangst van de aanvragen, met dien verstande dat:
 
@@ -100,7 +126,7 @@ De Minister verdeelt de subsidie naar volgorde van ontvangst van de aanvragen, m
 
 - b. indien de Minister op de dag dat het subsidieplafond wordt bereikt meer dan één aanvraag ontvangt, hij de rangschikking van die aanvragen vaststelt door middel van loting.
 
-#### Artikel 8. Afwijzingsgronden
+##### Artikel 8. Afwijzingsgronden
 
 De Minister beslist afwijzend op een aanvraag indien:
 
@@ -108,7 +134,7 @@ De Minister beslist afwijzend op een aanvraag indien:
 
 - b. het project strijdig is met het Rijksbeleid zoals de Structuurvisie Infrastructuur en Ruimte en de Aanpak Modernisering Milieubeleid.
 
-#### Artikel 9. Verplichtingen
+##### Artikel 9. Verplichtingen
 
 1. De subsidieontvanger dient een Projectvoorstel Interreg EUROPE binnen 18 maanden na de subsidieverlening in bij het Programma Secretariaat van Interreg EUROPE.
 
@@ -124,7 +150,7 @@ De Minister beslist afwijzend op een aanvraag indien:
 
 5. Indien een Lead Partner ook economische activiteiten verricht, voert de Lead Partner een gescheiden administratie van kosten en baten voor de niet-economische activiteiten die zien op het voorbereiden, opstellen en indienen van een Projectvoorstel Interreg Europe, NWE of NSR enerzijds en economische activiteiten anderzijds.
 
-#### Artikel 10. Hoogte van de subsidie en subsidieplafond
+##### Artikel 10. Hoogte van de subsidie en subsidieplafond
 
 1. De subsidie voor het voorbereiden van een Projectvoorstel Interreg EUROPE, NWE of NSR bedraagt maximaal € 25.000,–.
 
@@ -134,13 +160,13 @@ De Minister beslist afwijzend op een aanvraag indien:
 
 4. De Minister kan per kalenderjaar een of meer aanvraagperioden vaststellen en maakt dit bekend in de Staatscourant voor de aanvang van het tijdvak waarvoor het is vastgesteld.
 
-#### Artikel 11. Voorschot
+##### Artikel 11. Voorschot
 
 1. De Minister verstrekt ambtshalve een voorschot van 100 procent bij de verlening van de subsidie.
 
 2. Het eerste lid is niet van toepassing indien de Lead Partner een gemeente of provincie is.
 
-#### Artikel 12. Vaststelling subsidie Interreg EUROPE
+##### Artikel 12. Vaststelling subsidie Interreg EUROPE
 
 1. In een geval als bedoeld in [artikel 3, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0036545&artikel=3&z=2017-01-24&g=2017-01-24) wordt de subsidie uiterlijk binnen 13 weken ambtshalve vastgesteld nadat:
 
@@ -156,7 +182,7 @@ De Minister beslist afwijzend op een aanvraag indien:
 
 3. Dit artikel is niet van toepassing indien de Lead Partner een gemeente of provincie is.
 
-#### Artikel 13. Vaststelling subsidie Interreg NWE of NSR
+##### Artikel 13. Vaststelling subsidie Interreg NWE of NSR
 
 1. In een geval als bedoeld in [artikel 3, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0036545&artikel=3&z=2017-01-24&g=2017-01-24) wordt de subsidie uiterlijk binnen 13 weken ambtshalve vastgesteld nadat:
 
@@ -178,15 +204,15 @@ De Minister beslist afwijzend op een aanvraag indien:
 
 4. Dit artikel is niet van toepassing indien de Lead Partner een gemeente of provincie is.
 
-#### Artikel 14. Verslag
+##### Artikel 14. Verslag
 
 Binnen zes maanden na het vervallen van deze regeling wordt een verslag gepubliceerd over de doeltreffendheid en de effecten van de subsidie in de praktijk.
 
-#### Artikel 15. Inwerkingtreding
+##### Artikel 15. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 mei 2015 en vervalt met ingang van 1 mei 2020 met dien verstande dat de regeling van toepassing blijft op de op grond van deze regeling verstrekte subsidies.
 
-#### Artikel 16. Citeertitel
+##### Artikel 16. Citeertitel
 
 Deze regeling wordt aangehaald als: Projectstimuleringsregeling Interreg V.
 

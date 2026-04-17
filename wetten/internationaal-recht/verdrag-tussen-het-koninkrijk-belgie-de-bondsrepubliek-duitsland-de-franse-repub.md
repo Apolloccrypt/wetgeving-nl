@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk België, de Bondsrepubliek Duitsland, de Franse Republiek, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, Lid-Staten der Europese Gemeenschappen, het Koninkrijk Denemarken, Ierland, het Koninkrijk Noorwegen en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland betreffende de toetreding van het Koninkrijk Denemarken, Ierland, het Koninkrijk Noorwegen en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, tot de Europese Economische Gemeenschap en de Europese Gemeenschap voor Atoomenergie"
 identifier: "BWBV0006523"
-categorie: "Internationaal recht"
-publicatiedatum: 1985-02-01
-laatste_update: 1985-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006523"
+country: "nl"
+rank: "verdrag"
+publication_date: "1985-02-01"
+last_updated: "1985-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006523"
+soort: "verdrag"
+stam_id: "10005314983"
+version_id: "10005719872"
+internal_id: "C10009049561"
+label_id: "10005301914"
+dtd_version: "2.0"
+original_entry_into_force: "1973-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006523/1985-02-01/0"
+intitule_bron: "Trb.1972-25"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1972-02-22"
+intitule_in_force: "1973-05-15"
+intitule_status: "goed"
+original_publication: "Trb.1972-25"
+original_published_date: "1972-02-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1972-25"
+entry_into_force_date: "1973-01-01"
+jci_1_3: "jci1.3:c:BWBV0006523&z=1985-02-01&g=1985-02-01"
+jci_1_0: "1.0:c:BWBV0006523&g=1985-02-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1973-01-01"
 ---
-
 # Verdrag tussen het Koninkrijk België, de Bondsrepubliek Duitsland, de Franse Republiek, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, Lid-Staten der Europese Gemeenschappen, het Koninkrijk Denemarken, Ierland, het Koninkrijk Noorwegen en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland betreffende de toetreding van het Koninkrijk Denemarken, Ierland, het Koninkrijk Noorwegen en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, tot de Europese Economische Gemeenschap en de Europese Gemeenschap voor Atoomenergie
 
 Zijne Majesteit de Koning der Belgen, Hare Majesteit de Koningin van Denemarken, de President van de Bondsrepubliek Duitsland, de President van de Franse Republiek, de President van Ierland, de President van de Italiaanse Republiek, Zijne Koninklijke Hoogheid de Groothertog van Luxemburg, Hare Majesteit de Koningin der Nederlanden, Zijne Majesteit de Koning van Noorwegen, Hare Majesteit de Koningin van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland
@@ -98,7 +120,7 @@ De heer G. Rippon, Q.C., M.P., Kanselier van het Hertogdom Lancaster
 
 die, na overlegging van hun in goede en behoorlijke vorm bevonden volmachten, omtrent de volgende bepalingen overeenstemming hebben bereikt:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Het Koninkrijk Denemarken, Ierland, het Koninkrijk Noorwegen en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland worden lid van de Europese Economische Gemeenschap en van de Europese Gemeenschap voor Atoomenergie en worden Partij bij de Verdragen tot oprichting van deze Gemeenschappen, zoals deze Verdragen zijn gewijzigd of aangevuld.
 
@@ -106,7 +128,7 @@ die, na overlegging van hun in goede en behoorlijke vorm bevonden volmachten, om
 
 3. De in de in lid 1 genoemde Verdragen voorkomende bepalingen betreffende de rechten en verplichtingen van de Lid-Staten alsmede de algemene en bijzondere bevoegdheden van de Instellingen van de Gemeenschappen, zijn van toepassing ten aanzien van dit Verdrag.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit Verdrag zal door de Hoge Verdragsluitende Partijen worden bekrachtigd overeenkomstig hun onderscheiden grondwettelijke bepalingen. De Akten van bekrachtiging zullen uiterlijk 31 december 1972 worden neergelegd bij de Regering van de Italiaanse Republiek.
 
@@ -114,13 +136,13 @@ Dit Verdrag treedt in werking op 1 januari 1973, mits alle Akten van bekrachtigi
 
 Indien echter niet alle in [artikel 1, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=EERSTE&artikel=1&z=1985-02-01&g=1985-02-01), genoemde Staten tijdig hun Akten van bekrachtiging en hun Akten van toetreding hebben neergelegd, treedt het Verdrag in werking voor die Staten die tot de nederlegging zijn overgegaan. In dit geval besluit de Raad van de Europese Gemeenschappen, met eenparigheid van stemmen, onmiddellijk over de hierdoor noodzakelijk geworden aanpassingen van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=EERSTE&artikel=3&z=1985-02-01&g=1985-02-01) van het onderhavige Verdrag en van de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=TWEEDE&titeldeel=I&hoofdstuk=2&artikel=14&z=1985-02-01&g=1985-02-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=TWEEDE&titeldeel=I&hoofdstuk=3&artikel=16&z=1985-02-01&g=1985-02-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=TWEEDE&titeldeel=I&hoofdstuk=4&artikel=17&z=1985-02-01&g=1985-02-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=TWEEDE&titeldeel=I&hoofdstuk=4&artikel=19&z=1985-02-01&g=1985-02-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=TWEEDE&titeldeel=I&hoofdstuk=4&artikel=20&z=1985-02-01&g=1985-02-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=TWEEDE&titeldeel=I&hoofdstuk=7&artikel=23&z=1985-02-01&g=1985-02-01), [129](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=VI&artikel=129&z=1985-02-01&g=1985-02-01), [142](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIJFDE&titeldeel=I&artikel=142&z=1985-02-01&g=1985-02-01), [143](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIJFDE&titeldeel=I&artikel=143&z=1985-02-01&g=1985-02-01), [155](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIJFDE&titeldeel=II&artikel=155&z=1985-02-01&g=1985-02-01) en [160 van de Akte](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIJFDE&titeldeel=III&artikel=160&z=1985-02-01&g=1985-02-01) betreffende de voorwaarden van toetreding en de aanpassing van de Verdragen, de bepalingen van zijn [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&bijlage=I&z=1985-02-01&g=1985-02-01), die betrekking hebben op de samenstelling en de functionering van verschillende comités en van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=Eerste&artikel=5&z=1985-02-01&g=1985-02-01) en [8 van het Protocol betreffende de Statuten van de Europese Investeringsbank](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=Eerste&artikel=8&z=1985-02-01&g=1985-02-01), gehecht aan deze Akte; de Raad kan eveneens, met eenparigheid van stemmen, de bepalingen van voornoemde Akte, die betrekking hebben op een met name genoemde Staat die zijn Akten van bekrachtiging en van toetreding niet heeft neergelegd, vervallen verklaren of aanpassen.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit Verdrag, opgesteld in één enkel exemplaar, in de Deense, de Duitse, de Engelse, de Franse, de Ierse, de Italiaanse, de Nederlandse en de Noorse taal, zijnde de Deense, de Duitse, de Engelse, de Franse, de Ierse, de Italiaanse en de Nederlandse tekst gelijkelijk authentiek, zal worden neergelegd in het archief van de Regering van de Italiaanse Republiek, die een voor eensluidend gewaarmerkt afschrift daarvan toezendt aan de Regeringen der andere ondertekenende Staten.
 
 ## DEEL EERSTE. BEGINSELEN
 
-#### Artikel 1
+##### Artikel 1
 
 In de zin van deze Akte:
 
@@ -130,11 +152,11 @@ In de zin van deze Akte:
 
 - –. worden met de uitdrukking „nieuwe Lid-Staten” bedoeld het Koninkrijk Denemarken, Ierland en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland.
 
-#### Artikel 2
+##### Artikel 2
 
 Vanaf de toetreding zijn de oorspronkelijke Verdragen en de door de Instellingen van de Gemeenschappen genomen besluiten verbindend voor de nieuwe Lid-Staten en in deze Staten toepasselijk onder de voorwaarden voorzien in deze Verdragen en in deze Akte.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Bij deze Akte treden de nieuwe Lid-Staten toe tot de door de Vertegenwoordigers van de Regeringen der Lid-Staten, in het kader van de Raad bijeen, genomen besluiten en gesloten overeenkomsten. Zij verbinden zich ertoe op het tijdstip van de toetreding ook toe te treden tot elke andere door de oorspronkelijke Lid-Staten gesloten overeenkomst die de werking van de Gemeenschappen betreft of in nauw verband staat met het optreden van deze Gemeenschappen.
 
@@ -142,7 +164,7 @@ Vanaf de toetreding zijn de oorspronkelijke Verdragen en de door de Instellingen
 
 3. De nieuwe Lid-Staten bevinden zich ten aanzien van de verklaringen, resoluties of andere standpuntbepalingen van de Raad alsmede ten aanzien van die, welke betrekking hebben op de Europese Gemeenschappen en in onderling overleg tussen de Lid-Staten zijn aanvaard, in dezelfde situatie als de oorspronkelijke Lid-Staten. Zij zullen derhalve de beginselen en beleidslijnen eerbiedigen die voortvloeien uit deze verklaringen, resoluties of andere standpuntbepalingen en de maatregelen treffen die nodig zouden kunnen blijken ter verzekering van de toepassing daarvan.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De door één van de Gemeenschappen met één of meer derde Staten, met een internationale organisatie dan wel met een onderdaan van een derde Staat gesloten overeenkomsten of akkoorden zijn verbindend voor de nieuwe Lid-Staten, en wel onder de in de oorspronkelijke Verdragen en in deze Akte neergelegde voorwaarden.
 
@@ -152,23 +174,23 @@ Vanaf de toetreding zijn de oorspronkelijke Verdragen en de door de Instellingen
 
 4. De nieuwe Lid-Staten treffen de passende maatregelen om zo nodig hun positie ten aanzien van internationale organisaties en internationale overeenkomsten waarbij andere Lid-Staten of één van de Gemeenschappen eveneens partij zijn aan te passen aan de rechten en verplichtingen die voortvloeien uit hun toetreding tot de Gemeenschappen.
 
-#### Artikel 5
+##### Artikel 5
 
 [Artikel 234 van het E.E.G.-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=234) en de [artikelen 105](https://wetten.overheid.nl/jci1.3:c:BWBV0004033&artikel=105) en [106 van het E.G.A.-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004033&artikel=106) zijn voor de nieuwe Lid-Staten van toepassing op de overeenkomsten en akkoorden gesloten vóór de toetreding.
 
-#### Artikel 6
+##### Artikel 6
 
 De bepalingen van deze Akte kunnen, tenzij anders is bepaald, uitsluitend worden geschorst, gewijzigd of ingetrokken door middel van de procedures voorzien in de oorspronkelijke Verdragen die het mogelijk maken tot een herziening van die Verdragen te komen.
 
-#### Artikel 7
+##### Artikel 7
 
 De door de Instellingen van de Gemeenschappen genomen besluiten waarop de in deze Akte vastgestelde overgangsmaatregelen zijn gebaseerd, behouden hun eigen rechtskarakter; met name blijven de voor deze besluiten geldende wijzigingsprocedures van toepassing.
 
-#### Artikel 8
+##### Artikel 8
 
 De bepalingen van deze Akte waarvan het doel of het gevolg is dat besluiten van de Instellingen van de Gemeenschappen anders dan bij wijze van overgangsmaatregel worden ingetrokken of gewijzigd, verkrijgen hetzelfde rechtskarakter als de daardoor ingetrokken of gewijzigde bepalingen en zijn onderworpen aan dezelfde regels als laatstgenoemde bepalingen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Ten einde voor de nieuwe Lid-Staten de aanpassing aan de in de Gemeenschappen geldende regels te vergemakkelijken, gelden ten aanzien van de toepassing van de oorspronkelijke Verdragen en de door de Instellingen genomen besluiten, bij wijze van overgang, de in deze Akte neergelegde afwijkende bepalingen.
 
@@ -180,103 +202,103 @@ De bepalingen van deze Akte waarvan het doel of het gevolg is dat besluiten van 
 
 ### HOOFDSTUK 1. De vergadering
 
-#### Artikel 10
+##### Artikel 10
 
 Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal; Parijs, 18 april 1951, het Verdrag betreffende de werking van de Europese Unie; Rome, 25 maart 1957 en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie; Rome, 25 maart 1957.
 
 ### HOOFDSTUK 2. De Raad
 
-#### Artikel 11
+##### Artikel 11
 
 Wijzigt het Verdrag tot instelling van één Raad en één Commissie welke de Europese Gemeenschappen gemeen hebben; Brussel, 8 april 1965.
 
-#### Artikel 12
+##### Artikel 12
 
 Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal; Parijs, 18 april 1951.
 
-#### Artikel 13
+##### Artikel 13
 
 Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal; Parijs, 18 april 1951.
 
-#### Artikel 14
+##### Artikel 14
 
 Wijzigt het Verdrag betreffende de werking van de Europese Unie; Rome, 25 maart 1957 en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie; Rome, 25 maart 1957.
 
 ### HOOFDSTUK 3. De Commissie
 
-#### Artikel 15
+##### Artikel 15
 
 Wijzigt het Verdrag tot instelling van één Raad en één Commissie welke de Europese Gemeenschappen gemeen hebben; Brussel, 8 april 1965.
 
-#### Artikel 16
+##### Artikel 16
 
 Wijzigt het Verdrag tot instelling van één Raad en één Commissie welke de Europese Gemeenschappen gemeen hebben; Brussel, 8 april 1965.
 
 ### HOOFDSTUK 4. Het Hof van Justitie
 
-#### Artikel 17
+##### Artikel 17
 
 Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal; Parijs, 18 april 1951, het Verdrag betreffende de werking van de Europese Unie; Rome, 25 maart 1957 en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie; Rome, 25 maart 1957.
 
-#### Artikel 18
+##### Artikel 18
 
 Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal; Parijs, 18 april 1951, het Verdrag betreffende de werking van de Europese Unie; Rome, 25 maart 1957 en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie; Rome, 25 maart 1957.
 
-#### Artikel 19
+##### Artikel 19
 
 Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal; Parijs, 18 april 1951, het Verdrag betreffende de werking van de Europese Unie; Rome, 25 maart 1957 en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie; Rome, 25 maart 1957.
 
-#### Artikel 20
+##### Artikel 20
 
 Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal; Parijs, 18 april 1951, het Verdrag betreffende de werking van de Europese Unie; Rome, 25 maart 1957 en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie; Rome, 25 maart 1957.
 
 ### HOOFDSTUK 5. Het Economisch en Sociaal Comité
 
-#### Artikel 21
+##### Artikel 21
 
 Wijzigt het Verdrag betreffende de werking van de Europese Unie; Rome, 25 maart 1957 en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie; Rome, 25 maart 1957.
 
 ### HOOFDSTUK 6. Het Raadgevend Comité E.G.K.S.
 
-#### Artikel 22
+##### Artikel 22
 
 Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal; Parijs, 18 april 1951.
 
 ### HOOFDSTUK 7. Het wetenschappelijk en technisch comité
 
-#### Artikel 23
+##### Artikel 23
 
 Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie; Rome, 25 maart 1957.
 
 ## TITEL II. Andere aanpassingen
 
-#### Artikel 24
+##### Artikel 24
 
 Wijzigt het Verdrag betreffende de werking van de Europese Unie; Rome, 25 maart 1957.
 
-#### Artikel 25
+##### Artikel 25
 
 Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal; Parijs, 18 april 1951.
 
-#### Artikel 26
+##### Artikel 26
 
 Wijzigt het Verdrag betreffende de werking van de Europese Unie; Rome, 25 maart 1957.
 
-#### Artikel 27
+##### Artikel 27
 
 Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie; Rome, 25 maart 1957.
 
-#### Artikel 28
+##### Artikel 28
 
 De besluiten van de Instellingen van de Gemeenschap die betrekking hebben op de produkten van [bijlage II van het E.E.G.-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&bijlage=II) en op de produkten die bij invoer in de Gemeenschap aan een bijzondere regeling zijn onderworpen als gevolg van de tenuitvoerlegging van het gemeenschappelijk landbouwbeleid, alsmede de besluiten inzake de harmonisatie van de wetgevingen van de Lid-Staten betreffende de belastingen op de toegevoegde waarde zijn niet van toepassing op Gibraltar, tenzij de Raad op voorstel van de Commissie met eenparigheid van stemmen anders besluit.
 
 ## DEEL DERDE. AANPASSING VAN DE BESLUITEN VAN DE INSTELLINGEN
 
-#### Artikel 29
+##### Artikel 29
 
 Ten aanzien van de besluiten genoemd in de lijst die voorkomt in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&bijlage=I&z=1985-02-01&g=1985-02-01) van deze Akte vinden de aanpassingen plaats die in die bijlage worden omschreven.
 
-#### Artikel 30
+##### Artikel 30
 
 De ingevolge de toetreding noodzakelijke aanpassingen van de in de lijst die voorkomt in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&bijlage=II&z=1985-02-01&g=1985-02-01) van deze Akte genoemde besluiten, worden verricht overeenkomstig de in die bijlage vervatte richtsnoeren en volgens de procedure en op de wijze bepaald in [artikel 153](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIJFDE&titeldeel=II&artikel=153&z=1985-02-01&g=1985-02-01).
 
@@ -286,7 +308,7 @@ De ingevolge de toetreding noodzakelijke aanpassingen van de in de lijst die voo
 
 ### HOOFDSTUK 1. Tariefbepalingen
 
-#### Artikel 31
+##### Artikel 31
 
 1. Voor ieder produkt is het basisrecht waarop de in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=I&hoofdstuk=1&artikel=32&z=1985-02-01&g=1985-02-01) en [59](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=II&hoofdstuk=1&artikel=59&z=1985-02-01&g=1985-02-01) bedoelde achtereenvolgende verlagingen moeten worden toegepast, het op 1 januari 1972 werkelijk toegepaste recht.
 
@@ -296,7 +318,7 @@ In de zin van deze Akte wordt onder het „ééngemaakte E.G.K.S.-tarief” vers
 
 2. Indien na 1 januari 1972 tariefverlagingen van toepassing worden, die voortvloeien uit het Akkoord betreffende voornamelijk chemische produkten, dat is gevoegd bij het aan de [Algemene Overeenkomst betreffende Tarieven en Handel](onbekend) gehechte Protocol van Genève (1967), komen de aldus verlaagde tarieven in de plaats van de in lid 1 bedoelde basisrechten.
 
-#### Artikel 32
+##### Artikel 32
 
 1. De invoerrechten tussen de Gemeenschap in haar oorspronkelijke samenstelling en de nieuwe Lid-Staten en tussen de nieuwe Lid-Staten onderling worden geleidelijk afgeschaft volgens het onderstaande ritme:
 
@@ -324,23 +346,23 @@ In de zin van deze Akte wordt onder het „ééngemaakte E.G.K.S.-tarief” vers
 
 4. Het bepaalde in lid 1 doet geen afbreuk aan de mogelijkheid tariefcontingenten te openen voor bepaalde produkten van de ijzeren staalindustrie die niet of in niet voldoende hoeveelheid of kwaliteit in de Gemeenschap in haar oorspronkelijke samenstelling worden geproduceerd.
 
-#### Artikel 33
+##### Artikel 33
 
 In geen geval worden binnen de Gemeenschap douanerechten toegepast die hoger zijn dan die welke gelden ten opzichte van derde landen waarvoor de meestbegunstigingsclausule geldt.
 
 Ingeval de rechten van het gemeenschappelijk douanetarief worden gewijzigd of geschorst of ingeval de nieuwe Lid-Staten [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=I&hoofdstuk=1&artikel=41&z=1985-02-01&g=1985-02-01) toepassen, kan de Raad, op voorstel van de Commissie, met gekwalificeerde meerderheid van stemmen, de nodige maatregelen nemen ter handhaving van de communautaire preferentie.
 
-#### Artikel 34
+##### Artikel 34
 
 Elke nieuwe Lid-Staat kan de heffing van de rechten die worden toegepast op uit de andere Lid-Staten ingevoerde produkten geheel of gedeeltelijk schorsen. Hij stelt de andere Lid-Staten en de Commissie daarvan in kennis.
 
-#### Artikel 35
+##### Artikel 35
 
 Elke heffing van gelijke werking als een invoerrecht, die met ingang van 1 januari 1972 wordt ingevoerd in het handelsverkeer tussen de Gemeenschap in haar oorspronkelijke samenstelling en de nieuwe Lid-Staten en tussen de nieuwe Lid-Staten onderling, wordt op 1 januari 1973 afgeschaft.
 
 Elke heffing van gelijke werking als een invoerrecht, waarvan het peil op 31 december 1972 hoger is dan het peil van de heffing die op 1 januari 1972 daadwerkelijk wordt toegepast, wordt op 1 januari 1973 tot op dit laatstgenoemd peil teruggebracht.
 
-#### Artikel 36
+##### Artikel 36
 
 1. De heffingen van gelijke werking als invoerrechten worden tussen de Gemeenschap in haar oorspronkelijke samenstelling en de nieuwe Lid-Staten en tussen de nieuwe Lid-Staten onderling geleidelijk afgeschaft volgens het onderstaande ritme:
 
@@ -360,11 +382,11 @@ Elke heffing van gelijke werking als een invoerrecht, waarvan het peil op 31 dec
 
 - b). worden de heffingen van gelijke werking als invoerrechten voor de produkten vermeld in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&bijlage=III&z=1985-02-01&g=1985-02-01) van deze Akte, op 1 januari 1974 afgeschaft.
 
-#### Artikel 37
+##### Artikel 37
 
 De uitvoerrechten en heffingen van gelijke werking worden tussen de Gemeenschap in haar oorspronkelijke samenstelling en de nieuwe Lid-Staten en tussen de nieuwe Lid-Staten onderling uiterlijk op 1 januari 1974 afgeschaft.
 
-#### Artikel 38
+##### Artikel 38
 
 1. Onverminderd het bepaalde in de volgende leden zijn de bepalingen inzake de geleidelijke afschaffing van de douanerechten van toepassing op de douanerechten van fiscale aard.
 
@@ -380,7 +402,7 @@ Het beschermend element, waarvan het bedrag vóór 1 maart 1973 door de Commissi
 
 6. De richtlijn van de Raad van 4 maart 1969 inzake de harmonisatie van de wettelijke en bestuursrechtelijke bepalingen met betrekking tot de regeling „actieve veredeling” is in het Verenigd Koninkrijk niet van toepassing op de douanerechten van fiscale aard of het fiscale element van deze rechten als bedoeld in de leden 3 en 4.
 
-#### Artikel 39
+##### Artikel 39
 
 1. Ten behoeve van de geleidelijke invoering van het gemeenschappelijke douanetarief en van het ééngemaakte E.G.K.S.-tarief wijzigen de nieuwe Lid-Staten hun ten opzichte van derde landen van toepassing zijnde tarieven als volgt:
 
@@ -402,7 +424,7 @@ De nieuwe Lid-Staten kunnen in deze nomenclatuur de bestaande nationale onderver
 
 5. Ter vergemakkelijking van de geleidelijke invoering van het gemeenschappelijk douanetarief door de nieuwe Lid-Staten bepaalt de Commissie, indien nodig, hoe de nieuwe Lid-Staten hun douanerechten dienen te wijzigen.
 
-#### Artikel 40
+##### Artikel 40
 
 Voor de volgende produkten die zijn opgenomen in het gemeenschappelijk douanetarief:
 
@@ -416,25 +438,25 @@ past Ierland, in afwijking van [artikel 39](https://wetten.overheid.nl/jci1.3:c:
 
 Met ingang van 1 juli 1977 past Ierland het ééngemaakte E.G.K.S.tarief volledig toe.
 
-#### Artikel 41
+##### Artikel 41
 
 Bij de aanpassing van hun tarieven aan het gemeenschappelijk douanetarief en aan het ééngemaakte E.G.K.S.-tarief, staat het de nieuwe Lid-Staten vrij om hun douanerechten in een sneller ritme te wijzigen dan is bepaald in [artikel 39, leden 1 en 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=I&hoofdstuk=1&artikel=39&z=1985-02-01&g=1985-02-01). Zij geven de andere Lid-Staten en de Commissie daarvan kennis.
 
 ### HOOFDSTUK 2. Afschaffing van kwantitatieve beperkingen
 
-#### Artikel 42
+##### Artikel 42
 
 De kwantitatieve in- en uitvoerbeperkingen tussen de Gemeenschap in haar oorspronkelijke samenstelling en de nieuwe Lid-Staten en tussen de nieuwe Lid-Staten onderling worden onmiddellijk bij de toetreding afgeschaft.
 
 De maatregelen van gelijke werking als zulke beperkingen worden uiterlijk op 1 januari 1975 afgeschaft.
 
-#### Artikel 43
+##### Artikel 43
 
 In afwijking van [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=I&hoofdstuk=2&artikel=42&z=1985-02-01&g=1985-02-01), kunnen de Lid-Staten uitvoerbeperkingen inzake schroot, resten en afvallen van werken van gietijzer, van ijzer of van staal van post 73.03 van het gemeenschappelijk douanetarief gedurende een periode van twee jaar handhaven, mits deze regeling niet beperkender is dan de regeling die geldt voor de uitvoer naar derde landen.
 
 Voor Denemarken wordt bovengenoemde periode vastgesteld op drie jaar en voor Ierland op vijf jaar.
 
-#### Artikel 44
+##### Artikel 44
 
 1. De nieuwe Lid-Staten passen hun nationale monopolies van commerciële aard, als bedoeld in [artikel 37, lid 1, van het E.E.G.-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=37) geleidelijk aan, in dier voege dat vóór 31 december 1977 elke discriminatie tussen de onderdanen van de Lid-Staten, wat de voorwaarden van de voorziening en afzet betreft, is uitgesloten.
 
@@ -444,7 +466,7 @@ De oorspronkelijke Lid-Staten gaan jegens de nieuwe Lid-Staten gelijkwaardige ve
 
 ### HOOFDSTUK 3. Overige bepalingen
 
-#### Artikel 45
+##### Artikel 45
 
 1. Rekening houdend met de geldende voorschriften, met name met die betreffende het communautaire douanevervoer, stelt de Commissie vóór 1 april 1973 de methoden van administratieve samenwerking vast welke de afschaffing van de douanerechten en heffingen van gelijke werking, alsmede van de kwantitatieve beperkingen en maatregelen van gelijke werking moeten waarborgen voor goederen die aan de daarvoor gestelde voorwaarden voldoen.
 
@@ -456,7 +478,7 @@ De oorspronkelijke Lid-Staten gaan jegens de nieuwe Lid-Staten gelijkwaardige ve
 
 Bij het vaststellen van deze bepalingen houdt de Commissie rekening met de in deze Akte neergelegde voorschriften voor de afschaffing van de douanerechten tussen de Gemeenschap in haar oorspronkelijke samenstelling en de nieuwe Lid-Staten en tussen de nieuwe Lid-Staten onderling en voor de geleidelijke toepassing door de nieuwe Lid-Staten van het gemeenschappelijk douanetarief en van de bepalingen inzake het gemeenschappelijk landbouwbeleid.
 
-#### Artikel 46
+##### Artikel 46
 
 1. Zolang er douanerechten worden geheven in het handelsverkeer binnen de Gemeenschap zijn, tenzij anders is bepaald in deze Akte, de bepalingen inzake douanewetgeving van toepassing op dat handelsverkeer onder dezelfde voorwaarden als voor het handelsverkeer van de Gemeenschap met derde landen.
 
@@ -466,7 +488,7 @@ Voor de vaststelling van de douanewaarde in dat handelsverkeer is het in aanmerk
 
 De nieuwe Lid-Staten kunnen in deze nomenclatuur de bestaande nationale onderverdelingen overnemen die noodzakelijk zijn om te bewerkstelligen dat de geleidelijke afschaffing van hun invoerrechten binnen de Gemeenschap plaatsvindt overeenkomstig het bepaalde in deze Akte.
 
-#### Artikel 47
+##### Artikel 47
 
 1. Voor zover in het handelsverkeer tussen de Gemeenschap in haar oorspronkelijke samenstelling en de nieuwe Lid-Staten en tussen de nieuwe Lid-Staten onderling compenserende bedragen als bedoeld in [artikel 55, lid 1 sub a)](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=II&hoofdstuk=1&artikel=55&z=1985-02-01&g=1985-02-01) , worden geheven op de basisprodukten die geacht worden te zijn verwerkt in goederen die vallen onder Verordening No. 170/67/EEG betreffende een gemeenschappelijke regeling van het handelsverkeer van ovoalbumine en lactoalbumine en Verordening (EEG) No. 1059/69 tot vaststelling van de handelsregeling die van toepassing is op bepaalde goederen, verkregen door de verwerking van landbouwprodukten, wordt bij de invoer van deze goederen een compenserend bedrag toegepast, dat wordt bepaald op de grondslag van genoemde bedragen en volgens de voorschriften die in deze verordeningen zijn neergelegd voor de berekening van de belasting dan wel van het variabele element van toepassing op de betreffende goederen.
 
@@ -486,13 +508,13 @@ Op hetzelfde tijdstip worden de maatregelen van gelijke werking als kwantitatiev
 
 5. De Raad stelt, op voorstel van de Commissie, met gekwalificeerde meerderheid van stemmen de bepalingen ter uitvoering van dit artikel vast met inachtneming met name van bijzondere situaties die uit de uitvoering van het bepaalde in lid 1, eerste alinea, en in [artikel 97](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=II&hoofdstuk=2&afdeling=16&artikel=97&z=1985-02-01&g=1985-02-01) kunnen voortvloeien voor dezelfde goederen.
 
-#### Artikel 48
+##### Artikel 48
 
 1. Het bepaalde in deze Titel belet niet dat Ierland, ten aanzien van de produkten van oorsprong uit het Verenigd Koninkrijk, een regeling toepast die het mogelijk maakt om, overeenkomstig de bepalingen van de op 14 december 1965 ondertekende Overeenkomst tot instelling van een vrijhandelszone tussen Ierland en het Verenigd Koninkrijk en de daarmede verbonden Overeenkomsten, de douanerechten en de beschermende elementen in de douanerechten van fiscale aard sneller af te schaffen.
 
 2. Vanaf 1 januari 1974 zijn de bepalingen vastgesteld krachtens [artikel 45, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=I&hoofdstuk=3&artikel=45&z=1985-02-01&g=1985-02-01), van toepassing in het kader van de tussen Ierland en het Verenigd Koninkrijk geldende douaneregeling.
 
-#### Artikel 49
+##### Artikel 49
 
 1. De aan deze Akte gehechte Protocollen No. 8 tot en met 15 vormen geen beletsel voor wijziging of schorsing van rechten waartoe krachtens [artikel 28 van het E.E.G.-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=28) wordt besloten.
 
@@ -502,11 +524,11 @@ Op hetzelfde tijdstip worden de maatregelen van gelijke werking als kwantitatiev
 
 ### HOOFDSTUK 1. Algemene bepalingen
 
-#### Artikel 50
+##### Artikel 50
 
 Voor zover in deze Titel niet anders is bepaald, zijn de bepalingen van deze Akte van toepassing op landbouwprodukten.
 
-#### Artikel 51
+##### Artikel 51
 
 1. Het bepaalde in dit artikel is van toepassing voor de prijzen ten aanzien waarvan in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=II&hoofdstuk=2&z=1985-02-01&g=1985-02-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=II&hoofdstuk=3&z=1985-02-01&g=1985-02-01) naar dit artikel wordt verwezen.
 
@@ -514,7 +536,7 @@ Voor zover in deze Titel niet anders is bepaald, zijn de bepalingen van deze Akt
 
 3. Voor het Verenigd Koninkrijk worden deze prijzen evenwel op een zodanig peil vastgesteld dat de toepassing van de communautaire regeling leidt tot een marktprijspeil dat vergelijkbaar is met het in de betrokken Lid-Staat tijdens een aan de toepassing van deze regeling voorafgaande representatieve periode geconstateerde peil.
 
-#### Artikel 52
+##### Artikel 52
 
 1. Indien de toepassing van deze Titel leidt tot een prijspeil dat afwijkt van het peil van de gemeenschappelijke prijzen, worden de prijzen ten aanzien waarvan in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=II&hoofdstuk=2&z=1985-02-01&g=1985-02-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=II&hoofdstuk=3&z=1985-02-01&g=1985-02-01) wordt verwezen naar dit artikel, in zes etappes aangepast aan het peil der gemeenschappelijke prijzen.
 
@@ -532,11 +554,11 @@ In dat geval geldt voor het volgende verkoopseizoen het prijspeil dat zou zijn v
 
 4. De gemeenschappelijke prijzen worden in de nieuwe Lid-Staten uiterlijk op 1 januari 1978 toegepast.
 
-#### Artikel 53
+##### Artikel 53
 
 Indien wordt vastgesteld dat het verschil tussen het prijspeil voor een bepaald produkt in een nieuwe Lid-Staat en het peil van de gemeenschappelijke prijs van geringe betekenis is, kan de Raad volgens de procedure van [artikel 43, lid 2, van het E.E.G.-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=43) besluiten dat in deze nieuwe Lid-Staat voor het betrokken produkt de gemeenschappelijke prijs wordt toegepast.
 
-#### Artikel 54
+##### Artikel 54
 
 1. Zolang er in het Verenigd Koninkrijk een verschil blijft bestaan tussen de onder het nationale stelsel van garantieprijzen verkregen prijzen en de marktprijzen die voortvloeien uit de toepassing van de regelingen van het gemeenschappelijk landbouwbeleid en van het bepaalde in deze Titel, is deze Lid-Staat gemachtigd om produktiesubsidies te handhaven.
 
@@ -546,7 +568,7 @@ Indien wordt vastgesteld dat het verschil tussen het prijspeil voor een bepaald 
 
 4. De Raad stelt volgens de procedure van [artikel 43, lid 2, van het E.E.G.-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=43) de regels vast die noodzakelijk zijn voor de toepassing van dit artikel ten einde de goede werking van het landbouwbeleid en met name van de gemeenschappelijke ordening der markten te waarborgen.
 
-#### Artikel 55
+##### Artikel 55
 
 1. De verschillen in het prijspeil worden gecompenseerd volgens onderstaande regels:
 
@@ -568,19 +590,19 @@ Voor de overige produkten worden de compenserende bedragen vastgesteld in de gev
 
 De Raad kan, op voorstel van de Commissie, met gekwalificeerde meerderheid van stemmen van deze regel afwijken met name om verlegging van het handelsverkeer en distorsies van de mededinging te voorkomen.
 
-#### Artikel 56
+##### Artikel 56
 
 Indien de prijs op de wereldmarkt voor een bepaald produkt hoger is dan de prijs aangehouden voor de berekening van de in het kader van het gemeenschappelijk landbouwbeleid ingestelde belasting bij invoer, verminderd met het compenserende bedrag dat wordt afgetrokken van de belasting bij invoer krachtens [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=II&hoofdstuk=1&artikel=55&z=1985-02-01&g=1985-02-01), of wanneer de restitutie bij uitvoer naar derde landen lager is dan het compenserende bedrag of wanneer er geen restitutie wordt verleend, kunnen passende maatregelen worden getroffen om de goede werking van de gemeenschappelijke ordening der markten te waarborgen.
 
-#### Artikel 57
+##### Artikel 57
 
 Bij het vaststellen van het peil van de verschillende elementen van de regeling inzake prijzen en interventies, andere dan de prijzen bedoeld in de [artikelen 51](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=II&hoofdstuk=1&artikel=51&z=1985-02-01&g=1985-02-01) en [70](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=II&hoofdstuk=2&afdeling=3&artikel=70&z=1985-02-01&g=1985-02-01), wordt, voor zover zulks noodzakelijk is voor de goede werking van de communautaire regeling, ten aanzien van de nieuwe Lid-Staten rekening gehouden met het prijsverschil dat wordt uitgedrukt door het compenserende bedrag.
 
-#### Artikel 58
+##### Artikel 58
 
 De toegekende compenserende bedragen worden door de Gemeenschap gefinancierd ten laste van het Europees Oriëntatie- en Garantiefonds voor de Landbouw, afdeling Garantie.
 
-#### Artikel 59
+##### Artikel 59
 
 Ten aanzien van produkten uit derde landen waarvan de invoer in de Gemeenschap in haar oorspronkelijke samenstelling is onderworpen aan douanerechten, gelden de volgende bepalingen:
 
@@ -598,7 +620,7 @@ Ten aanzien van produkten uit derde landen waarvan de invoer in de Gemeenschap i
 
 - 4. Ten aanzien van de produkten die onder een gemeenschappelijke ordening der markten vallen, kunnen de nieuwe Lid-Staten volgens de procedure van artikel 26 van Verordening No. 120/67/ EEG houdende een gemeenschappelijke ordening der markten in de sector granen of, naar gelang van het geval, van het overeenkomstige artikel van de andere verordeningen houdende een gemeenschappelijke ordening der landbouwmarkten, gemachtigd worden over te gaan tot de afschaffing der in lid 1 bedoelde douanerechten of tot de in lid 2 bedoelde aanpassing, in een sneller tempo dan in voorgaande leden is bepaald, dan wel tot een gehele of gedeeltelijke schorsing van de douanerechten toepasselijk op produkten die worden ingevoerd uit de andere Lid-Staten. Voor de overige produkten is voor het nemen van de in de voorgaande alinea bedoelde maatregelen geen machtiging vereist. De douanerechten die voortvloeien uit een versnelde aanpassing mogen niet lager zijn dan die welke worden toegepast bij invoer van dezelfde produkten uit de andere Lid-Staten. De nieuwe Lid-Staten stellen de overige Lid-Staten en de Commissie in kennis van de genomen maatregelen.
 
-#### Artikel 60
+##### Artikel 60
 
 1. Ten aanzien van de produkten die op het tijdstip van toetreding onder een gemeenschappelijke ordening der markten vallen is de regeling die in de Gemeenschap in haar oorspronkelijke samenstelling van toepassing is inzake douanerechten en heffingen van gelijke werking, kwantitatieve beperkingen en maatregelen van gelijke werking in de nieuwe Lid-Staten van toepassing met ingang van 1 februari 1973, behoudens het bepaalde in de [artikelen 55](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=II&hoofdstuk=1&artikel=55&z=1985-02-01&g=1985-02-01) en [59](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=II&hoofdstuk=1&artikel=59&z=1985-02-01&g=1985-02-01).
 
@@ -610,7 +632,7 @@ Deze bepaling geldt slechts voor zover zulks noodzakelijk is om de handhaving va
 
 Voor zover hieruit geen moeilijkheden voortvloeien voor de toepassing van de communautaire regeling, met name voor de werking van de gemeenschappelijke ordening der markten en van de in deze titel neergelegde overgangsregelingen, kan de Raad, met gekwalificeerde meerderheid van stemmen, op voorstel van de Commissie, een nieuwe Lid-Staat machtigen in deze nomenclatuur de bestaande nationale onderverdelingen over te nemen, die noodzakelijk zijn om te bewerkstelligen dat de geleidelijke aanpassing van het gemeenschappelijk douanetarief of de afschaffing van rechten binnen de Gemeenschap plaatsvindt overeenkomstig de in deze Akte neergelegde voorwaarden.
 
-#### Artikel 61
+##### Artikel 61
 
 1. Het element ter bescherming van de verwerkende industrie dat in aanmerking wordt genomen bij de berekening van de lasten ter zake van invoer uit derde landen voor produkten die vallen onder de gemeenschappelijke ordening der markten in de sectoren granen, rijst en verwerkte produkten op basis van groenten en fruit, wordt geheven bij invoer in de Gemeenschap in haar oorspronkelijke samenstelling uit de nieuwe Lid-Staten.
 
@@ -620,19 +642,19 @@ Dit element wordt of deze elementen worden geheven bij invoer uit de andere Lid-
 
 3. Het bepaalde in [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=II&hoofdstuk=1&artikel=59&z=1985-02-01&g=1985-02-01) is van toepassing op het in de leden 1 en 2 bedoelde element. De desbetreffende verlagingen of aanpassingen vinden echter voor de produkten van de sector granen en de sector rijst plaats aan het begin van het verkoopseizoen voor het betrokken basisprodukt.
 
-#### Artikel 62
+##### Artikel 62
 
 1. De Raad stelt, op voorstel van de Commissie, met gekwalificeerde meerderheid van stemmen de bepalingen vast die nodig zijn ter uitvoering van deze Titel.
 
 2. De Raad kan, op voorstel van de Commissie en na raadpleging van de Vergadering, met eenparigheid van stemmen overgaan tot de noodzakelijke aanpassingen van de regels neergelegd in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=II&hoofdstuk=2&z=1985-02-01&g=1985-02-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=II&hoofdstuk=3&z=1985-02-01&g=1985-02-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=II&hoofdstuk=4&z=1985-02-01&g=1985-02-01) van deze Titel, ingeval de noodzaak daartoe bestaat ten gevolge van een wijziging van de communautaire regeling.
 
-#### Artikel 63
+##### Artikel 63
 
 1. Indien overgangsmaatregelen noodzakelijk zijn om de overgang van het in de nieuwe Lid-Staten geldende stelsel naar het stelsel dat voortvloeit uit de toepassing van de gemeenschappelijke ordening der markten overeenkomstig het bepaalde in deze Titel te vergemakkelijken, met name wanneer de toepassing van het nieuwe stelsel op de vastgestelde datum voor bepaalde produkten op aanzienlijke moeilijkheden zou stuiten, worden die maatregelen vastgesteld volgens de procedure van artikel 26 van Verordening No. 120/67/ EEG of, naar gelang van het geval, van het overeenkomstig artikel van de andere verordeningen houdende een gemeenschappelijke ordening van de landbouwmarkten. Deze maatregelen kunnen worden getroffen gedurende een tijdvak dat op 31 januari 1974 afloopt; zij kunnen slechts tot deze datum worden toegepast.
 
 2. Op voorstel van de Commissie en na raadpleging van de Vergadering, kan de Raad de in lid 1 bedoelde termijn met eenparigheid van stemmen verlengen tot 31 januari 1975.
 
-#### Artikel 64
+##### Artikel 64
 
 Het bepaalde in deze Titel doet geen afbreuk aan de mate waarin het handelsverkeer in landbouwprodukten is geliberaliseerd ingevolge de op 14 december 1965 ondertekende Overeenkomst tot instelling van een vrijhandelszone tussen Ierland en het Verenigd Koninkrijk en de daarmede verbonden Overeenkomsten.
 
@@ -640,7 +662,7 @@ Het bepaalde in deze Titel doet geen afbreuk aan de mate waarin het handelsverke
 
 ### Afdeling 1. Groenten en fruit
 
-#### Artikel 65
+##### Artikel 65
 
 1. Er wordt een compenserend bedrag vastgesteld voor groenten en fruit waarvoor:
 
@@ -654,7 +676,7 @@ Het bepaalde in deze Titel doet geen afbreuk aan de mate waarin het handelsverke
 
 3. Het compenserende bedrag is slechts van toepassing gedurende het tijdvak waarin de basisprijs geldt.
 
-#### Artikel 66
+##### Artikel 66
 
 1. Tot de eerste aanpassing is het compenserende bedrag dat van toepassing is in het handelsverkeer tussen enerzijds een nieuwe Lid-Staat waarin aan de voorwaarden genoemd in [artikel 65, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=II&hoofdstuk=2&afdeling=1&artikel=65&z=1985-02-01&g=1985-02-01), is voldaan, en anderzijds de Gemeenschap in haar oorspronkelijke samenstelling of een andere nieuwe Lid-Staat, met uitzondering van die bedoeld in de volgende alinea, dan wel derde landen, gelijk aan het verschil tussen de in artikel 65, lid 1 sub c) , bedoelde prijzen.
 
@@ -666,7 +688,7 @@ De in de bovenstaande alinea's bedoelde verschillen worden gecorrigeerd, voor zo
 
 De bepalingen van [artikel 52, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=II&hoofdstuk=1&artikel=52&z=1985-02-01&g=1985-02-01), zijn van overeenkomstige toepassing. Het compenserende bedrag wordt op 1 januari 1978 afgeschaft.
 
-#### Artikel 67
+##### Artikel 67
 
 Voor de vaststelling van de invoerprijzen worden de in de nieuwe Lid-Staten waargenomen noteringen verminderd met:
 
@@ -674,7 +696,7 @@ Voor de vaststelling van de invoerprijzen worden de in de nieuwe Lid-Staten waar
 
 - b). de rechten die van toepassing zijn bij invoer uit derde landen in deze Lid-Staten, in plaats van de rechten van het gemeenschappelijk douanetarief.
 
-#### Artikel 68
+##### Artikel 68
 
 De bepalingen inzake de gemeenschappelijke kwaliteitsnormen zijn op het in de handel brengen in het Verenigd Koninkrijk van de binnenlandse produktie niet eerder van toepassing dan vanaf:
 
@@ -684,33 +706,33 @@ De bepalingen inzake de gemeenschappelijke kwaliteitsnormen zijn op het in de ha
 
 ### Afdeling 2. Wijn
 
-#### Artikel 69
+##### Artikel 69
 
 Tot en met 31 december 1975 zijn Ierland en het Verenigd Koninkrijk gemachtigd het gebruik van de samengestelde benamingen waarin het woord wijn voorkomt te handhaven voor de aanduiding van bepaalde dranken ten aanzien waarvan het gebruik van deze aanduiding niet verenigbaar is met de communautaire voorschriften. Deze afwijking is evenwel niet van toepassing voor de produkten die worden uitgevoerd naar de Lid-Staten van de Gemeenschap in haar oorspronkelijke samenstelling.
 
 ### Afdeling 3. Oliehoudende zaden
 
-#### Artikel 70
+##### Artikel 70
 
 1. Voor oliehoudende zaden is het bepaalde in [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=II&hoofdstuk=1&artikel=52&z=1985-02-01&g=1985-02-01) van toepassing op de afgeleide interventieprijzen.
 
 2. De interventieprijzen toepasselijk in de nieuwe Lid-Staten tot de eerste aanpassing worden vastgesteld volgens de in het kader van de gemeenschappelijke ordening der markten neergelegde regels, rekening houdend met de normale verhouding die moet bestaan tussen het voor oliehoudende zaden te verkrijgen inkomen en het inkomen uit de produktie van produkten die bij wisselbouw concurreren met deze zaden.
 
-#### Artikel 71
+##### Artikel 71
 
 Het bedrag van de steun voor oliehoudende zaden die in een nieuwe Lid-Staat zijn geoogst, wordt gecorrigeerd met het in die Lid-Staat toepasselijke compenserende bedrag, vermeerderd met de invloed van de daar toegepaste douanerechten.
 
-#### Artikel 72
+##### Artikel 72
 
 In het handelsverkeer wordt het compenserende bedrag slechts toegepast op de restituties toegekend bij de uitvoer van de in een nieuwe Lid-Staat geoogste oliehoudende zaden naar derde landen.
 
 ### Afdeling 4. Granen
 
-#### Artikel 73
+##### Artikel 73
 
 In de sector granen zijn de [artikelen 51](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=II&hoofdstuk=1&artikel=51&z=1985-02-01&g=1985-02-01) en [52](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=II&hoofdstuk=1&artikel=52&z=1985-02-01&g=1985-02-01) van toepassing op de afgeleide interventieprijzen.
 
-#### Artikel 74
+##### Artikel 74
 
 De compenserende bedragen die gelden, in het handelsverkeer tussen de Gemeenschap in haar oorspronkelijke samenstelling en de nieuwe Lid-Staten en tussen deze laatste en derde landen worden als volgt vastgesteld:
 
@@ -720,13 +742,13 @@ De compenserende bedragen die gelden, in het handelsverkeer tussen de Gemeenscha
 
 ### Afdeling 5. Varkensvlees
 
-#### Artikel 75
+##### Artikel 75
 
 1. Bij de berekening van het compenserende bedrag dat van toepassing is per kilogram geslachte varkens wordt uitgegaan van de compenserende bedragen voor de hoeveelheid voedergraan die nodig is om in de Gemeenschap één kilogram varkensvlees te produceren.
 
 2. Voor de andere produkten dan geslachte varkens, genoemd in artikel 1, lid 1, van Verordening No. 121/67/EEG houdende een gemeenschappelijke ordening der markten in de sector varkensvlees, wordt het compenserende bedrag afgeleid van het bedrag bedoeld in lid 1, met behulp van de coëfficiënten waarvan gebruik wordt gemaakt voor de berekening van de heffing.
 
-#### Artikel 76
+##### Artikel 76
 
 1. Tot en met 31 december 1975 kunnen produkten die niet beantwoorden aan het bepaalde in punt 23 van bijlage I van de richtlijn No. 64/433/EEG, inzake gezondheidsvraagstukken op het gebied van het intracommunautaire handelsverkeer in vers vlees, in Denemarken, in Ierland en het Verenigd Koninkrijk door de interventiebureaus worden aangekocht.
 
@@ -734,7 +756,7 @@ De compenserende bedragen die gelden, in het handelsverkeer tussen de Gemeenscha
 
 ### Afdeling 6. Eieren
 
-#### Artikel 77
+##### Artikel 77
 
 1. Bij de berekening van het compenserende bedrag dat van toepassing is per kilogram eieren in de schaal wordt uitgegaan van de compenserende bedragen voor de hoeveelheid voedergranen die nodig is om in de Gemeenschap één kilogram eieren in de schaal te produceren.
 
@@ -742,13 +764,13 @@ De compenserende bedragen die gelden, in het handelsverkeer tussen de Gemeenscha
 
 3. Voor de produkten genoemd in artikel 1, lid 1 sub **b),** van Verordening No. 122/67/EEG houdende een gemeenschappelijke ordening der markten in de sector eieren, wordt het compenserende bedrag afgeleid van het compenserende bedrag voor eieren in de schaal, met behulp van de coëfficiënten waarvan gebruik wordt gemaakt voor de berekening van de heffing.
 
-#### Artikel 78
+##### Artikel 78
 
 Ierland en het Verenigd Koninkrijk kunnen, ten aanzien van de handelsnormen voor eieren, op hun markt een indeling in vier, respectievelijk vijf gewichtsklassen handhaven, mits de commercialisatie van eieren die voldoen aan de communautaire normen niet wordt onderworpen aan beperkingen op grond van het feit dat de eieren volgens andere systemen zijn ingedeeld.
 
 ### Afdeling 7. Slachtpluimvee
 
-#### Artikel 79
+##### Artikel 79
 
 1. Bij de berekening van het compenserende bedrag dat van toepassing is per kilogram geslacht pluimvee wordt uitgegaan van de compenserende bedragen voor de hoeveelheid voedergranen die nodig is om in de Gemeenschap, al naar gelang van de soort, één kilogram geslacht pluimvee te produceren.
 
@@ -758,7 +780,7 @@ Ierland en het Verenigd Koninkrijk kunnen, ten aanzien van de handelsnormen voor
 
 ### Afdeling 8. Rijst
 
-#### Artikel 80
+##### Artikel 80
 
 De compenserende bedragen die van toepassing zijn in het handelsverkeer tussen de Gemeenschap in haar oorspronkelijke samenstelling en de nieuwe Lid-Staten en tussen deze laatste en derde landen, worden als volgt vastgesteld:
 
@@ -768,11 +790,11 @@ De compenserende bedragen die van toepassing zijn in het handelsverkeer tussen d
 
 ### Afdeling 9. Suiker
 
-#### Artikel 81
+##### Artikel 81
 
 In de sector suiker zijn de [artikelen 51](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=II&hoofdstuk=1&artikel=51&z=1985-02-01&g=1985-02-01) en [52](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=II&hoofdstuk=1&artikel=52&z=1985-02-01&g=1985-02-01) van toepassing op de afgeleide interventieprijs voor witte suiker, op de interventieprijs voor ruwe suiker en op de minimumprijs van suikerbieten.
 
-#### Artikel 82
+##### Artikel 82
 
 De compenserende bedragen die in het handelsverkeer tussen de Gemeenschap in haar oorspronkelijke samenstelling en de nieuwe Lid-Staten, alsmede tussen deze laatste en derde landen van toepassing zijn, worden afgeleid:
 
@@ -784,23 +806,23 @@ De compenserende bedragen die in het handelsverkeer tussen de Gemeenschap in haa
 
 - –. van de restitutie, ten aanzien van het bij uitvoer van toepassing zijnde compenserende bedrag.
 
-#### Artikel 83
+##### Artikel 83
 
 Het in artikel 25, lid 3, van Verordening No. 1009/67/EEG bedoelde bedrag wordt in de nieuwe Lid-Staten gecorrigeerd met het overeenkomstig [artikel 55, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=II&hoofdstuk=1&artikel=55&z=1985-02-01&g=1985-02-01), berekende compenserende bedrag.
 
 ### Afdeling 10. Levende planten en produkten van de bloementeelt
 
-#### Artikel 84
+##### Artikel 84
 
 De bepalingen inzake de gemeenschappelijke kwaliteitsnormen zijn op het in de handel brengen in het Verenigd Koninkrijk van de binnenlandse produktie niet eerder van toepassing dan vanaf 1 februari 1974 en voor snijbloemen niet eerder dan vanaf 1 februari 1975.
 
 ### Afdeling 11. Melk en zuivelprodukten
 
-#### Artikel 85
+##### Artikel 85
 
 Het bepaalde in de [artikelen 51](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=II&hoofdstuk=1&artikel=51&z=1985-02-01&g=1985-02-01) en [52](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=II&hoofdstuk=1&artikel=52&z=1985-02-01&g=1985-02-01) is van toepassing op de interventieprijzen voor boter en mager melkpoeder.
 
-#### Artikel 86
+##### Artikel 86
 
 In het handelsverkeer tussen de Gemeenschap in haar oorspronkelijke samenstelling en de nieuwe Lid-Staten, alsmede tussen deze laatste en derde landen, worden de compenserende bedragen als volgt vastgesteld:
 
@@ -810,7 +832,7 @@ In het handelsverkeer tussen de Gemeenschap in haar oorspronkelijke samenstellin
 
 - 3. Indien de bepalingen van lid 1, eerste alinea, en van lid 2 niet kunnen worden toegepast of indien de toepassing daarvan leidt tot compenserende bedragen die abnormale prijsverhoudingen teweegbrengen, wordt het compenserende bedrag berekend uitgaande van de compenserende bedragen toepasselijk op boter en mager melkpoeder.
 
-#### Artikel 87
+##### Artikel 87
 
 1. Indien vóór de toetreding in een nieuwe Lid-Staat een regeling: inzake de valorisatie van melk bestond die verschilt naar gelang van het gebruik, en indien de toepassing van [artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=II&hoofdstuk=2&afdeling=11&artikel=86&z=1985-02-01&g=1985-02-01) tot moeilijkheden op de markt leidt, wordt het compenserende bedrag dat geldt tot de eerste aanpassing voor één of meer produkten die onder post 04.01 van het gemeenschappelijk douanetarief vallen, vastgesteld op de grondslag van het verschil tussen de marktprijzen.
 
@@ -818,7 +840,7 @@ Daarna wordt het compenserende bedrag elk jaar aan het begin van een seizoen ver
 
 2. Er worden passende maatregelen getroffen om distorsies van de mededinging te voorkomen die kunnen voortvloeien uit de toepassing van lid 1, hetzij voor de desbetreffende produkten, hetzij voor andere zuivelprodukten, en om rekening te houden met eventuele wijzigingen van de gemeenschappelijke prijs.
 
-#### Artikel 88
+##### Artikel 88
 
 1. Ierland is gemachtigd een subsidie toe te kennen voor de consumptie van boter, voor zover zulks noodzakelijk is om gedurende de overgangsperiode een geleidelijke aanpassing van de door de consumenten betaalde prijs aan het peil van de in de Gemeenschap in haar oorspronkelijke samenstelling bestaande prijs mogelijk te maken.
 
@@ -826,7 +848,7 @@ Indien Ierland gebruik maakt van de in de eerste alinea bedoelde machtiging, ken
 
 2. Deze subsidie wordt afgeschaft in zes etappes die samenvallen met de etappes van de aanpassing van de boterprijs.
 
-#### Artikel 89
+##### Artikel 89
 
 1. Tot en met 31 december 1975 is het in het Verenigd Koninkrijk en tot en met 31 december 1977 is het in Ierland toegestaan aan de consumenten melk als volle melk te leveren waarvan het vetgehalte 3,50% niet bereikt.
 
@@ -836,11 +858,11 @@ De krachtens de vorige alinea als volle melk verkochte melk mag echter niet zijn
 
 ### Afdeling 12. Rundvlees
 
-#### Artikel 90
+##### Artikel 90
 
 De [artikelen 51](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=II&hoofdstuk=1&artikel=51&z=1985-02-01&g=1985-02-01) en [52](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=II&hoofdstuk=1&artikel=52&z=1985-02-01&g=1985-02-01) zijn van toepassing op de oriëntatieprijzen voor volwassen runderen en voor kalveren.
 
-#### Artikel 91
+##### Artikel 91
 
 1. Het overeenkomstig [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=II&hoofdstuk=1&artikel=55&z=1985-02-01&g=1985-02-01) voor volwassen runderen en kalveren berekende compenserende bedrag wordt, voor zover nodig, gecorrigeerd met de invloed van de douanerechten.
 
@@ -850,17 +872,17 @@ Indien de invloed van het douanerecht dat van toepassing is in het handelsverkee
 
 3. Het compenserende bedrag voor de in de bijlage van Verordening (EEG) No. 805/68 genoemde produkten wordt vastgesteld rekening houdende met de in de leden 1 en 2 vermelde regels en met behulp van de regels voor de vaststelling van de heffingen voor deze produkten.
 
-#### Artikel 92
+##### Artikel 92
 
 Voor de produkten genoemd in artikel 1, sub **b)** en **c)** , van Verordening (EEG) No. 805/68 wordt de restitutie bij uitvoer uit de nieuwe Lid-Staten naar derde landen gecorrigeerd met de invloed van het verschil tussen de douanerechten die worden toegepast op de in de bijlage van genoemde verordening vermelde produkten bij invoer uit derde landen in de Gemeenschap in haar oorspronkelijke samenstelling enerzijds en de nieuwe Lid-Staten anderzijds.
 
-#### Artikel 93
+##### Artikel 93
 
 Zolang het Verenigd Koninkrijk krachtens [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=II&hoofdstuk=1&artikel=54&z=1985-02-01&g=1985-02-01) subsidies voor de produktie van slachtvee handhaaft, is Ierland gemachtigd om ter voorkoming van distorsies op de Ierse markt voor vee, de maatregelen inzake de uitvoer van rundvlees te handhaven die het vóór de toetreding, in samenhang met het in het Verenigd Koninkrijk toegepaste subsidiestelsel, toepaste.
 
 ### Afdeling 13. Op basis van groenten en fruit verwerkte produkten
 
-#### Artikel 94
+##### Artikel 94
 
 De compenserende bedragen worden bepaald op de grondslag van de compenserende bedragen die, naar gelang van het geval, zijn vastgesteld voor suiker, glucose of glucosestroop, en volgens de regels voor de berekening:
 
@@ -870,7 +892,7 @@ De compenserende bedragen worden bepaald op de grondslag van de compenserende be
 
 ### Afdeling 14. Vlas
 
-#### Artikel 95
+##### Artikel 95
 
 1. Voor de nieuwe Lid-Staten wordt het steunbedrag voor vlas vastgesteld op de grondslag van het verschil tussen het door de vlasproducenten te verwerven inkomen en de inkomsten uit de voor deze produkten te verwachten marktprijs.
 
@@ -878,7 +900,7 @@ De compenserende bedragen worden bepaald op de grondslag van de compenserende be
 
 ### Afdeling 15. Zaadgoed
 
-#### Artikel 96
+##### Artikel 96
 
 Wanneer steun bij de produktie van zaadgoed wordt toegekend, kan het bedrag van de steun voor de nieuwe Lid-Staten worden vastgesteld op een peil dat verschilt van het voor de Gemeenschap in haar oorspronkelijke samenstelling vastgestelde peil, indien tevoren het inkomen van de producenten van een nieuwe Lid-Staat aanmerkelijk verschilde van het inkomen dat werd verworven door de producenten van de Gemeenschap in haar oorspronkelijke samenstelling.
 
@@ -886,7 +908,7 @@ In dit geval moet bij de vaststelling van het bedrag van de steun voor de nieuwe
 
 ### Afdeling 16. Landbouwprodukten die worden uitgevoerd in de vorm van goederen welke niet onder Bijlage II van het E.E.G.-Verdrag vallen
 
-#### Artikel 97
+##### Artikel 97
 
 De compenserende bedragen worden bepaald op de grondslag van de compenserende bedragen die worden vastgesteld voor de basisprodukten en volgens de regels voor de berekening der restituties, voorzien in Verordening (EEG) No. 204/69 tot vaststelling van de algemene regels aangaande toekenning van restituties bij uitvoer en de criteria voor de vaststelling van het restitutiebedrag betreffende bepaalde landbouwprodukten, uitgevoerd in de vorm van goederen die niet onder [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&bijlage=II&z=1985-02-01&g=1985-02-01) van het Verdrag vallen.
 
@@ -894,17 +916,17 @@ De compenserende bedragen worden bepaald op de grondslag van de compenserende be
 
 ### Afdeling 1. Gemeenschappelijke ordening der markten
 
-#### Artikel 98
+##### Artikel 98
 
 Voor visserijprodukten worden de [artikelen 51](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=II&hoofdstuk=1&artikel=51&z=1985-02-01&g=1985-02-01) en [52](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=II&hoofdstuk=1&artikel=52&z=1985-02-01&g=1985-02-01) toegepast op de oriëntatieprijs. De prijsaanpassing vindt plaats aan het begin van het visseizoen en voor de eerste maal op 1 februari 1973.
 
-#### Artikel 99
+##### Artikel 99
 
 De compenserende bedragen worden, voor zover nodig, gecorrigeerd met de invloed van de douanerechten.
 
 ### Afdeling 2. Visserijregeling
 
-#### Artikel 100
+##### Artikel 100
 
 1. In afwijking van het bepaalde in artikel 2 van Verordening (EEG) No. 2141/70 houdende de totstandbrenging van een gemeenschappelijk structuurbeleid in de visserijsector, zijn de Lid-Staten van de Gemeenschap tot en met 31 december 1982 gemachtigd de uitoefening van de visserij in het gedeelte der zee dat onder hun soevereiniteit of hun jurisdictie valt, en binnen een grens van zes zeemijlen, berekend vanaf de laagwaterlijn van de aan de kust gelegen Lid-Staat, ligt, te beperken tot de schepen waarvan de visserij-activiteit van oudsher in dat gedeelte der zee en vanuit de havens in het geografische kustgebied wordt uitgeoefend; de schepen uit andere gebieden van Denemarken mogen echter hun visserij-activiteit in de wateren van Groenland verder uitoefenen, en wel uiterlijk tot en met 31 december 1977.
 
@@ -918,7 +940,7 @@ Indien de Lid-Staten zich op deze afwijking beroepen, mogen zij geen minder bepe
 
 De Lid-Staten stellen de Commissie in kennis van de maatregelen die zij daartoe vaststellen; op verslag van de Commissie beziet de Raad de situatie en doet hij, op grond daarvan, zo nodig aanbevelingen aan de Lid-Staten.
 
-#### Artikel 101
+##### Artikel 101
 
 De in [artikel 100](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=II&hoofdstuk=3&afdeling=2&artikel=100&z=1985-02-01&g=1985-02-01) bedoelde grens van zes zeemijlen wordt voor de volgende gebieden uitgebreid tot twaalf zeemijlen:
 
@@ -950,11 +972,11 @@ De in [artikel 100](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&
 
 - -. het Graafschap Down.
 
-#### Artikel 102
+##### Artikel 102
 
 Uiterlijk vanaf het zesde jaar na de toetreding stelt de Raad, op voorstel van de Commissie, de voorwaarden vast voor de uitoefening van de visserij, ten einde de bescherming van de visbanken en het behoud van de biologische rijkdommen van de zee te waarborgen.
 
-#### Artikel 103
+##### Artikel 103
 
 Vóór 31 december 1982 brengt de Commissie bij de Raad verslag uit over de economische en sociale ontwikkeling van de kustgebieden der Lid-Staten en over de visstand. Aan de hand van dit verslag en van de doelstellingen van het gemeenschappelijk visserijbeleid, bestudeert de Raad, op voorstel van de Commissie, de bepalingen die zouden kunnen volgen op de afwijkingen die gelden tot en met 31 december 1982.
 
@@ -962,7 +984,7 @@ Vóór 31 december 1982 brengt de Commissie bij de Raad verslag uit over de econ
 
 ### Afdeling 1. Veterinaire maatregelen
 
-#### Artikel 104
+##### Artikel 104
 
 De Richtlijn No. 64/432/EEG van de Raad inzake gezondheidsvraagstukken op het gebied van het intracommunautaire handelsverkeer in runderen en varkens wordt toegepast met inachtneming van de volgende bepalingen:
 
@@ -986,13 +1008,13 @@ De Richtlijn No. 64/432/EEG van de Raad inzake gezondheidsvraagstukken op het ge
 
 De desbetreffende Lid-Staten nemen passende maatregelen ten einde deze afwijking te beperken tot bovengenoemd handelsverkeer.
 
-#### Artikel 105
+##### Artikel 105
 
 De Richtlijn No. 64/433/EEG inzake gezondheidsvraagstukken op het gebied van het intracommunautaire handelsverkeer in vers vlees wordt toegepast met inachtneming van de navolgende bepalingen:
 
 Tot en met 31 december 1977 zijn Ierland en het Verenigd Koninkrijk, voor wat Noord-Ierland betreft, gemachtigd bij de invoer van vers vlees hun nationale regeling betreffende de bescherming tegen mond- en klauwzeer te handhaven, met eerbiediging van de algemene bepalingen van het [E.E.G.-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506).
 
-#### Artikel 106
+##### Artikel 106
 
 Voor de afloop van de in de [artikelen 104](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=II&hoofdstuk=4&afdeling=1&artikel=104&z=1985-02-01&g=1985-02-01) en [105](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=II&hoofdstuk=4&afdeling=1&artikel=105&z=1985-02-01&g=1985-02-01) bedoelde termijnen vindt een onderzoek van de toestand in de Gemeenschap in haar geheel en in de verschillende delen daarvan plaats in het licht van de ontwikkeling op veterinair gebied.
 
@@ -1000,7 +1022,7 @@ Uiterlijk op 1 juli 1976 legt de Commissie de Raad een verslag voor en voor zove
 
 ### Afdeling 2. Diverse bepalingen
 
-#### Artikel 107
+##### Artikel 107
 
 De besluiten die zijn opgenomen in de lijst in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&bijlage=V&z=1985-02-01&g=1985-02-01) van deze Akte zijn van toepassing ten aanzien van de nieuwe Lid-Staten onder de voorwaarden neergelegd in deze bijlage.
 
@@ -1008,7 +1030,7 @@ De besluiten die zijn opgenomen in de lijst in [bijlage V](https://wetten.overhe
 
 ### HOOFDSTUK 1. Overeenkomsten van de gemeenschappen met bepaalde derde landen
 
-#### Artikel 108
+##### Artikel 108
 
 1. De nieuwe Lid-Staten passen onmiddellijk na de toetreding de bepalingen van de in lid 3 genoemde overeenkomsten toe, rekening houdend met de overgangsmaatregelen en aanpassingen die nodig zouden kunnen blijken en die zullen worden opgenomen in met de derde landen, waarmede overeenkomsten worden gesloten, te sluiten Protocollen. Deze Protocollen zullen aan de laatstbedoelde overeenkomsten worden gehecht.
 
@@ -1020,7 +1042,7 @@ Deze bepalingen zijn eveneens van toepassing op de overeenkomsten die de Gemeens
 
 ### HOOFDSTUK 2. Betrekkingen met de geassocieerde Afrikaanse Staten en Madagaskar en met bepaalde ontwikkelingslanden van het Gemenebest
 
-#### Artikel 109
+##### Artikel 109
 
 1. De regelingen die voortvloeien uit de op 29 juli 1969 ondertekende Associatieovereenkomst tussen de Europese Economische Gemeenschap en de met deze Gemeenschap geassocieerde Afrikaanse Staten en Madagaskar, alsmede uit de op 24 september 1969 ondertekende Overeenkomst waarbij een Associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en de Verenigde Republiek Tanzania, de Republiek Oeganda en de Republiek Kenya, zijn niet van toepassing in de betrekkingen tussen de nieuwe Lid-Staten en de krachtens bovenbedoelde overeenkomsten met de Gemeenschap geassocieerde Staten.
 
@@ -1030,7 +1052,7 @@ De nieuwe Lid-Staten behoeven niet toe te treden tot het op 29 juli 1969 onderte
 
 3. Onder voorbehoud van het bepaalde in de [artikelen 110](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=III&hoofdstuk=2&artikel=110&z=1985-02-01&g=1985-02-01) en [111](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=III&hoofdstuk=2&artikel=111&z=1985-02-01&g=1985-02-01), zijn de produkten van oorsprong uit de in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&bijlage=VI&z=1985-02-01&g=1985-02-01) van deze Akte bedoelde onafhankelijke landen van het Gemenebest bij invoer in de Gemeenschap onderworpen aan de regeling welke vóór de toetreding op deze produkten van toepassing was.
 
-#### Artikel 110
+##### Artikel 110
 
 Op de produkten van de lijst van [bijlage II van het E.E.G.-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&bijlage=II) die onder een gemeenschappelijke marktordening vallen en op de produkten die bij invoer in de Gemeenschap als gevolg van de tenuitvoerlegging van het gemeenschappelijk landbouwbeleid aan een specifieke regeling zijn onderworpen, passen de nieuwe Lid-Staten wanneer deze produkten van oorsprong zijn uit de in [artikel 109, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=III&hoofdstuk=2&artikel=109&z=1985-02-01&g=1985-02-01), bedoelde geassocieerde Staten of uit de in artikel 109, lid 3, bedoelde onafhankelijke landen van het Gemenebest bij invoer de communautaire regeling toe onder de voorwaarden als omschreven in deze Akte, behoudens de volgende bepalingen:
 
@@ -1038,11 +1060,11 @@ Op de produkten van de lijst van [bijlage II van het E.E.G.-Verdrag](https://wet
 
 - b). voor wat de beschermende elementen andere dan douanerechten betreft, stelt de Raad, indien dit noodzakelijk is, op voorstel van de Commissie, met gekwalificeerde meerderheid van stemmen de aanpassingen van de gemeenschapsregelingen vast die kunnen waarborgen dat de invoer van deze produkten geschiedt onder soortgelijke voorwaarden als die welke vóór de toetreding bestonden.
 
-#### Artikel 111
+##### Artikel 111
 
 Indien de aanpassing aan het gemeenschappelijk douanetarief in een nieuwe Lid-Staat tot een verlaging van het douanerecht leidt, wordt het aldus verlaagde nieuwe douanerecht toegepast op de invoer bedoeld in de [artikelen 109](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=III&hoofdstuk=2&artikel=109&z=1985-02-01&g=1985-02-01) en [110](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=III&hoofdstuk=2&artikel=110&z=1985-02-01&g=1985-02-01).
 
-#### Artikel 112
+##### Artikel 112
 
 1. De produkten welke in het Verenigd Koninkrijk worden ingevoerd gedurende de periode tot aan de krachtens [artikel 115](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=III&hoofdstuk=2&artikel=115&z=1985-02-01&g=1985-02-01) vastgestelde data en die van oorsprong zijn uit de in [artikel 109, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=III&hoofdstuk=2&artikel=109&z=1985-02-01&g=1985-02-01), bedoelde onafhankelijke landen van het Gemenebest, kunnen niet worden beschouwd als zich daar in het vrije verkeer bevindend in de zin van [artikel 10 van het E.E.G-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=134), wanneer zij weer worden uitgevoerd naar een andere nieuwe Lid-Staat of naar de Gemeenschap in haar oorspronkelijke samenstelling.
 
@@ -1050,17 +1072,17 @@ Indien de aanpassing aan het gemeenschappelijk douanetarief in een nieuwe Lid-St
 
 3. De Commissie kan, indien er geen gevaar voor verlegging van het handelsverkeer bestaat, en met name in geval van geringe ongelijkheden in de invoerstelsels afwijkingen van de leden 1 en 2 vaststellen.
 
-#### Artikel 113
+##### Artikel 113
 
 1. Onmiddellijk na de toetreding stellen de nieuwe Lid-Staten de oorspronkelijke Lid-Staten en de Commissie in kennis van de bepalingen betreffende de regeling die zij toepassen bij de invoer van produkten van oorsprong of van herkomst uit de in [artikel 109, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=III&hoofdstuk=2&artikel=109&z=1985-02-01&g=1985-02-01), bedoelde onafhankelijke landen van het Gemenebest, alsmede uit de geassocieerde Staten bedoeld in artikel 109, lid 1.
 
 2. Onmiddellijk na de toetreding stelt de Commissie de nieuwe Lid-Staten in kennis van de interne of verdragsrechtelijke bepalingen betreffende de regeling die van toepassing is op de invoer in de Gemeenschap in haar oorspronkelijke samenstelling, van produkten van oorsprong of van herkomst uit de in [artikel 109, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=III&hoofdstuk=2&artikel=109&z=1985-02-01&g=1985-02-01), bedoelde onafhankelijke Staten van het Gemenebest, alsmede uit de geassocieerde Staten bedoeld in artikel 109, lid 1.
 
-#### Artikel 114
+##### Artikel 114
 
 Bij vaststelling van de door de Raad te nemen besluiten en door het Comité van het Europees Ontwikkelingsfonds te geven adviezen, in het kader van het op 29 juli 1969 ondertekende Intern Akkoord inzake maatregelen en procedures nodig ter toepassing van de Associatieovereenkomst tussen de Europese Economische Gemeenschap en de met deze Gemeenschap geassocieerde Afrikaanse Staten en Madagaskar, van het op 29 juli 1969 ondertekende Intern Akkoord betreffende de financiering en het beheer van de steun van de Gemeenschap en van het op 24 september 1969 ondertekende Intern Akkoord inzake maatregelen en procedures nodig ter toepassing van de Overeenkomst waarbij een Associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en de Verenigde Republiek Tanzania, de Republiek Oeganda en de Republiek Kenya, worden alleen de stemmen van de oorspronkelijke Lid-Staten geteld, overeenkomstig, al naargelang van het geval, hetzij de stemmenweging die vóór de toetreding gold voor de berekening van de gekwalificeerde meerderheid, hetzij artikel 13, lid 3, van bovengenoemd Intern Akkoord betreffende de financiering en het beheer van de steun van de Gemeenschap.
 
-#### Artikel 115
+##### Artikel 115
 
 1. De artikelen 109 tot en met 114 zijn van toepassing tot en met 31 januari 1975.
 
@@ -1070,7 +1092,7 @@ Bij vaststelling van de door de Raad te nemen besluiten en door het Comité van 
 
 ### HOOFDSTUK 3. Betrekkingen met Papoea-Nieuw-Guinea
 
-#### Artikel 116
+##### Artikel 116
 
 1. Het bepaalde in [artikel 109, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=III&hoofdstuk=2&artikel=109&z=1985-02-01&g=1985-02-01), en in de artikelen 110 tot en met 113 is tot en met 31 december 1977 van toepassing op de produkten van oorsprong of van herkomst uit Papoea-Nieuw-Guinea die worden ingevoerd in het Verenigd Koninkrijk.
 
@@ -1078,17 +1100,17 @@ Bij vaststelling van de door de Raad te nemen besluiten en door het Comité van 
 
 ## Titel IV. Associatie van de landen en gebieden overzee
 
-#### Artikel 117
+##### Artikel 117
 
 1. De associatie van de niet-Europese gebieden die bijzondere betrekkingen onderhouden met het Verenigd Koninkrijk en van het Frans-Britse Condominium van de Nieuwe Hebriden, als bedoeld in [artikel 24, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=TWEEDE&titeldeel=II&artikel=24&z=1985-02-01&g=1985-02-01), wordt, krachtens een besluit van de Raad dat berust op [artikel 136 van het E.E.G.-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=136), op zijn vroegst van kracht op 1 februari 1975.
 
 2. De nieuwe Lid-Staten behoeven niet toe te treden tot het op 14 december 1970 ondertekende Akkoord inzake de handel met de landen en gebieden overzee in de produkten die onder de bevoegdheid van de Europese Gemeenschap voor Kolen en Staal vallen.
 
-#### Artikel 118
+##### Artikel 118
 
 Het bepaalde in het derde deel van Protocol No. 22 betreffende de betrekkingen tussen de Europese Economische Gemeenschap en de Geassocieerde Afrikaanse Staten en Madagaskar, en de onafhankelijke ontwikkelingslanden van het Gemenebest gelegen in Afrika, in de Indische Oceaan, in de Stille Oceaan en in het Caribische gebied, is van toepassing zowel op de landen en gebieden overzee bedoeld in [artikel 117](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=IV&artikel=117&z=1985-02-01&g=1985-02-01) als op de niet-Europese landen en gebieden die bijzondere betrekkingen onderhouden met de oorspronkelijke Lid-Staten.
 
-#### Artikel 119
+##### Artikel 119
 
 1. De regeling die voortvloeit uit het besluit van de Raad van 29 september 1970 betreffende de Associatie van de landen en gebieden overzee met de Europese Economische Gemeenschap is niet van toepassing ten aanzien van de betrekkingen tussen deze landen en gebieden en de nieuwe Lid-Staten.
 
@@ -1102,13 +1124,13 @@ De artikelen 110 tot en met 114 zijn van toepassing.
 
 ## Titel V. Kapitaalverkeer
 
-#### Artikel 120
+##### Artikel 120
 
 1. Met inachtneming van de in de artikelen 121 tot en met 126 neergelegde voorwaarden en termijnen, kunnen de nieuwe Lid-Staten de vrijmaking van het kapitaalverkeer uitstellen, welke is voorgeschreven in de eerste richtlijn van de Raad, van 11 mei 1960, voor de uitvoering van [artikel 67 van het E.E.G.-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=67), en in de tweede richtlijn van de Raad, van 18 december 1962, ter aanvulling en wijziging van de eerste richtlijn voor de uitvoering van artikel 67 van het E.E.G.-Verdrag.
 
 2. De nieuwe Lid-Staten en de Commissie plegen te gelegener tijd het nodige overleg over de wijze van toepassing van de liberalisatie- of versoepelingsmaatregelen waarvan de tenuitvoerlegging krachtens de volgende bepalingen kan worden uitgesteld.
 
-#### Artikel 121
+##### Artikel 121
 
 1. Denemarken kan:
 
@@ -1118,7 +1140,7 @@ De artikelen 110 tot en met 114 zijn van toepassing.
 
 2. Denemarken zal vanaf de toetreding overgaan tot geleidelijke vrijmaking van de in lid 1, sub **a)** , bedoelde transacties.
 
-#### Artikel 122
+##### Artikel 122
 
 1. Ierland kan:
 
@@ -1134,7 +1156,7 @@ De artikelen 110 tot en met 114 zijn van toepassing.
 
 2. Ierland erkent dat het wenselijk is om vanaf de toetreding over te gaan tot een belangrijke versoepeling van de regels betreffende de in lid 1, sub **a)** , bedoelde transacties, en zal het nodige in het werk stellen om de daartoe vereiste maatregelen te treffen.
 
-#### Artikel 124
+##### Artikel 124
 
 1. Het Verenigd Koninkrijk kan:
 
@@ -1150,21 +1172,21 @@ De artikelen 110 tot en met 114 zijn van toepassing.
 
 2. Het Verenigd Koninkrijk zal vanaf de toetreding overgaan tot een belangrijke versoepeling van de regels betreffende de in lid 1, sub **a)** , bedoelde transacties.
 
-#### Artikel 125
+##### Artikel 125
 
 Zo de omstandigheden zulks toelaten, verwezenlijken de nieuwe Lid-Staten de vrijmaking van de in de artikelen 121 tot en met 124 genoemde categorieën van kapitaalverkeer vóór de afloop van de in die artikelen gestelde termijnen.
 
-#### Artikel 126
+##### Artikel 126
 
 Voor de toepassing van deze Titel kan de Commissie het Monetair Comité raadplegen en ieder dienstig voorstel bij de Raad indienen.
 
 ## Titel VI. Financiële bepalingen
 
-#### Artikel 127
+##### Artikel 127
 
 Het besluit van 21 april 1970 betreffende de vervanging van de financiële bijdragen van de Lid-Staten door eigen middelen van de Gemeenschappen, hierna „besluit van 21 april 1970” genoemd, wordt toegepast met inachtneming van de volgende bepalingen.
 
-#### Artikel 128
+##### Artikel 128
 
 De ontvangsten bedoeld in artikel 2 van het besluit van 21 april 1970 omvatten eveneens:
 
@@ -1172,7 +1194,7 @@ De ontvangsten bedoeld in artikel 2 van het besluit van 21 april 1970 omvatten e
 
 - b). bij die, welke douanerechten worden genoemd, de douanerechten geheven door de nieuwe Lid-Staten in het handelsverkeer met landen die geen lid zijn, alsmede de douanerechten geheven in het handelsverkeer tussen de Gemeenschap in haar oorspronkelijke samenstelling en de nieuwe Lid-Staten alsook tussen de nieuwe Lid-Staten.
 
-#### Artikel 129
+##### Artikel 129
 
 1. De financiële bijdragen van de Lid-Staten, bedoeld in artikel 3, lid 2, van het besluit van 21 april 1970, worden op de volgende wijze verdeeld:
 
@@ -1191,7 +1213,7 @@ De ontvangsten bedoeld in artikel 2 van het besluit van 21 april 1970 omvatten e
 
 - –. voor de oorspronkelijke Lid-Staten, hun aandeel van het voorgaande jaar, met inachtneming van de bovenbedoelde percentages van de nieuwe Lid-Staten.
 
-#### Artikel 130
+##### Artikel 130
 
 De eigen middelen, alsmede de financiële bijdragen en, eventueel, de in artikel 4, leden 2, 3 en 4, van het besluit van 21 april 1970 bedoelde bijdragen, zijn door de nieuwe Lid-Staten slechts verschuldigd tot een bedrag van:
 
@@ -1205,7 +1227,7 @@ De eigen middelen, alsmede de financiële bijdragen en, eventueel, de in artikel
 
 - 92,0% in 1977
 
-#### Artikel 131
+##### Artikel 131
 
 1. Vanaf 1 januari 1978 zijn de eigen middelen alsmede, in voorkomend geval, de bijdragen bedoeld in artikel 4, leden 2, 3 en 4, van het besluit van 21 april 1970, geheel verschuldigd door de nieuwe Lid-Staten, onder voorbehoud van de volgende bepalingen:
 
@@ -1215,17 +1237,17 @@ De eigen middelen, alsmede de financiële bijdragen en, eventueel, de in artikel
 
 2. De Commissie gaat over tot de voor de toepassing van dit artikel noodzakelijke berekeningen.
 
-#### Artikel 132
+##### Artikel 132
 
 Tot en met 31 december 1979 wordt het gedeelte van de begroting der Gemeenschappen dat door de toepassing van de [artikelen 130](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=VI&artikel=130&z=1985-02-01&g=1985-02-01) en [131](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=VI&artikel=131&z=1985-02-01&g=1985-02-01) eventueel niet is gedekt, opgenomen in het bedrag dat voor de oorspronkelijke Lid-Staten voortvloeit uit de verdeling overeenkomstig [artikel 129](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=VI&artikel=129&z=1985-02-01&g=1985-02-01). Het aldus verkregen totale bedrag wordt tussen de oorspronkelijke Lid-Staten verdeeld overeenkomstig het besluit van 21 april 1970.
 
 ## Titel VII. Andere bepalingen
 
-#### Artikel 133
+##### Artikel 133
 
 De in de lijst in [bijlage VII](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&bijlage=VII&z=1985-02-01&g=1985-02-01) van deze Akte genoemde besluiten zijn ten aanzien van de nieuwe Lid-Staten van toepassing, op de wijze als bepaald in die bijlage.
 
-#### Artikel 134
+##### Artikel 134
 
 1. De Commissie zal samen met de betrokken Regeringen in de vijf jaren, die volgen op de toetreding, nagaan of de bestaande maatregelen die voortvloeien uit de in de nieuwe Lid-Staten geldende wettelijke en bestuursrechtelijke bepalingen, die, zo zij na de toetreding zouden zijn ingevoerd, onder artikel 67 van het E.G.K.S.-Verdrag zouden zijn gevallen, in vergelijking met de in de oorspronkelijke Lid-Staten geldende regels, zouden kunnen leiden tot ernstige distorsies in de concurrentieverhoudingen van de kolenmijn- en staalindustrie, in de gemeenschappelijke markt of op de uitvoermarkten. De Commissie kan, na raadpleging van de Raad, de betrokken Regeringen alle maatregelen voorstellen die zij passend acht om deze maatregelen te corrigeren of de gevolgen daarvan te compenseren.
 
@@ -1233,7 +1255,7 @@ De in de lijst in [bijlage VII](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&
 
 3. Indien beschikking No. 1/64 van de Hoge Autoriteit van 15 januari 1964 houdende verbod van aanpassing aan prijsaanbiedingen voor ijzer- en staalprodukten en ruwijzer uit landen en gebieden met staatshandel na de toetreding wordt verlengd, is dit verbod tot en met 31 december 1975 niet van toepassing op de produkten die zijn bestemd voor de Deense markt.
 
-#### Artikel 135
+##### Artikel 135
 
 1. Tot en met 31 december 1977 kan een nieuwe Lid-Staat, in geval van ernstige en mogelijk aanhoudende moeilijkheden in een sector van het economisch leven, alsmede van moeilijkheden die de economische toestand van een bepaalde streek ernstig kunnen verstoren, machtiging vragen om vrijwaringsmaatregelen te nemen, waardoor de toestand wederom in evenwicht kan worden gebracht en de betrokken sector kan worden aangepast aan de economie van de gemeenschappelijke markt.
 
@@ -1243,7 +1265,7 @@ De in de lijst in [bijlage VII](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&
 
 4. Onder dezelfde voorwaarden en volgens dezelfde procedure kan een oorspronkelijke Lid-Staat verzoeken gemachtigd te worden vrijwaringsmaatregelen te treffen ten opzichte van één of meer nieuwe Lid-Staten.
 
-#### Artikel 136
+##### Artikel 136
 
 1. Indien de Commissie tot en met 31 december 1977 op verzoek van een Lid-Staat of van enige andere belanghebbende constateert dat tussen de Gemeenschap in haar oorspronkelijke samenstelling en de nieuwe Lid-Staten of tussen de nieuwe Lid-Staten onderling dumping wordt toegepast, doet zij aan hem of hen die zich aan deze praktijken schuldig maken, aanbevelingen ten einde daaraan een eind te maken.
 
@@ -1251,13 +1273,13 @@ Ingeval deze praktijken voortduren, machtigt de Commissie de benadeelde Lid-Staa
 
 2. Voor de toepassing van het onderhavige artikel op de in [bijlage II van het E.E.G.-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&bijlage=II) genoemde produkten beoordeelt de Commissie alle omstandigheden, met name het peil van de prijzen waartegen de invoer van andere herkomst op de betrokken markt plaatsvindt, met inachtneming van de bepalingen van het [E.E.G.-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) inzake de landbouw en in het bijzonder het bepaalde in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=I&hoofdstuk=1&artikel=39&z=1985-02-01&g=1985-02-01).
 
-#### Artikel 137
+##### Artikel 137
 
 1. In afwijking van [artikel 136](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=VII&artikel=136&z=1985-02-01&g=1985-02-01) kan Ierland tot en met 31 december 1977 in uiterst dringende gevallen zelf de noodzakelijke maatregelen nemen. Zij brengt deze maatregelen onmiddellijk ter kennis van de Commissie, die kan besluiten tot afschaffing of wijziging ervan.
 
 2. Deze bepaling is niet van toepassing op de produkten van [bijlage II van het E.E.G.-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&bijlage=II).
 
-#### Artikel 138
+##### Artikel 138
 
 In afwijking van [artikel 95, tweede alinea, van het E.E.G.-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=95), kan Denemarken tot en met 30 juni 1974 de bijzondere accijnzen handhaven op tafelwijn die in flessen of in andere soortgelijke emballages wordt ingevoerd.
 
@@ -1265,25 +1287,25 @@ In afwijking van [artikel 95, tweede alinea, van het E.E.G.-Verdrag](https://wet
 
 ## Titel I. Het in werking stellen van de instellingen
 
-#### Artikel 139
+##### Artikel 139
 
 1. Onmiddellijk na de toetreding wijzen de Parlementen van de nieuwe Lid-Staten hun afgevaardigden naar de Vergadering aan,
 
 2. De Vergadering komt uiterlijk één maand na de toetreding bijeen. Zij brengt in haar Reglement van Orde de door de toetreding, noodzakelijk geworden aanpassingen aan.
 
-#### Artikel 140
+##### Artikel 140
 
 1. Vanaf het tijdstip der toetreding wordt het voorzitterschap van de Raad uitgeoefend door het lid van de Raad dat, overeenkomstig artikel 2 van de oorspronkelijke versie van het Verdrag tot instelling van één Raad en één Commissie welke de Europese Gemeenschappen gemeen hebben, het voorzitterschap dient uit te oefenen. Na afloop van dit mandaat wordt het voorzitterschap uitgeoefend in de volgorde van de Lid-Staten die is vastgesteld in bovengenoemd artikel, gewijzigd bij artikel 11.
 
 2. De Raad brengt in zijn Reglement van Orde de aanpassingen, aan, welke door de toetreding noodzakelijk zijn geworden.
 
-#### Artikel 141
+##### Artikel 141
 
 1. De Voorzitter, de Vice-Voorzitters en de leden van de Commissie worden benoemd onmiddellijk na de toetreding. De Commissie treedt in functie op de vijfde dag na de benoeming harer leden. Op hetzelfde tijdstip eindigt het mandaat van de leden die op het tijdstip van toetreding in functie zijn.
 
 2. De Commissie brengt in haar Reglement van Orde de aanpassingen aan, welke door de toetreding noodzakelijk zijn geworden.
 
-#### Artikel 142
+##### Artikel 142
 
 1. Onmiddellijk na de toetreding wordt het Hof van Justitie aangevuld door de benoeming van nieuwe rechters ten einde het aantal rechters op negen te brengen, zoals is bepaald in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=TWEEDE&titeldeel=I&hoofdstuk=4&artikel=17&z=1985-02-01&g=1985-02-01) van deze Akte.
 
@@ -1295,27 +1317,27 @@ In afwijking van [artikel 95, tweede alinea, van het E.E.G.-Verdrag](https://wet
 
 5. Voor het wijzen van vonnis in zaken die op 1 januari 1973 bij het Hof aanhangig zijn en waarvoor de mondelinge procedure vóór deze datum is geopend, komen het Hof in voltallige zitting of de Kamers bijeen in de samenstelling van voor de toetreding en passen zij het reglement voor de procesvoering toe zoals dit op 31 december 1972 gold.
 
-#### Artikel 143
+##### Artikel 143
 
 Onmiddellijk na de toetreding wordt het Economisch en Sociaal Comité aangevuld door de benoeming van tweeënveertig leden die alle sectoren van het economische en sociale leven van de nieuwe Lid-Staten vertegenwoordigen. Het mandaat van de aldus benoemde leden eindigt terzelfder tijd als het mandaat van de leden die op het tijdstip van toetreding in functie zijn.
 
-#### Artikel 144
+##### Artikel 144
 
 Onmiddellijk na de toetreding wordt het Raadgevend Comité van de Europese Gemeenschap voor Kolen en Staal aangevuld door de benoeming van extra-leden. Het mandaat van de aldus benoemde leden eindigt terzelfder tijd als het mandaat van de leden die op het tijdstip van toetreding in functie zijn.
 
-#### Artikel 145
+##### Artikel 145
 
 De leden van het Wetenschappelijk en Technisch Comité worden onmiddellijk na de toetreding benoemd volgens de procedure van [artikel 134 van het E.G.A.-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004033&artikel=134). Het Comité treedt in functie op de vijfde dag na de benoeming van zijn leden. Tegelijkertijd eindigt het mandaat van de leden die op het tijdstip van toetreding in functie zijn.
 
-#### Artikel 146
+##### Artikel 146
 
 Onmiddellijk na de toetreding wordt het Monetair Comité aangevuld door de benoeming van de leden die de nieuwe Lid-Staten vertegenwoordigen. Hun mandaat verstrijkt terzelfder tijd als het mandaat van de leden die op het tijdstip van toetreding in functie zijn.
 
-#### Artikel 147
+##### Artikel 147
 
 De door de toetreding noodzakelijk geworden aanpassingen van de statuten en van de Reglementen van Orde van de bij de oorspronkelijke Verdragen ingestelde Comités geschieden zo spoedig mogelijk na de toetreding.
 
-#### Artikel 148
+##### Artikel 148
 
 1. Voor wat de in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&bijlage=VIII&z=1985-02-01&g=1985-02-01)vermelde Comités betreft, verstrijkt het mandaat der nieuwe leden tegelijk met dat van de leden die op het tijdstip van de toetreding zitting hebben in een dezer Comités.
 
@@ -1323,15 +1345,15 @@ De door de toetreding noodzakelijk geworden aanpassingen van de statuten en van 
 
 ## Titel II. Toepassing van de besluiten der instellingen
 
-#### Artikel 149
+##### Artikel 149
 
 Vanaf het tijdstip der toetreding wordt ervan uitgegaan dat de richtlijnen en beschikkingen in de zin van [artikel 189 van het E.E.G.-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=189) en van [artikel 161 van het E.G.A.-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004033&artikel=161), alsmede de aanbevelingen en beschikkingen in de zin van artikel 14 van het E.G.K.S.-Verdrag, eveneens tot de nieuwe Lid-Staten zijn gericht, en dat hun daarvan kennis is gegeven, voor zover van deze richtlijnen, aanbevelingen en beschikkingen aan alle oorspronkelijke Lid-Staten kennis is gegeven.
 
-#### Artikel 150
+##### Artikel 150
 
 De toepassing in elke nieuwe Lid-Staat van de in de lijst die is opgenomen in [bijlage X](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&bijlage=X&z=1985-02-01&g=1985-02-01) van deze Akte voorkomende besluiten wordt uitgesteld tot de in die lijst vermelde data.
 
-#### Artikel 151
+##### Artikel 151
 
 1. Tot 1 februari 1973 worden uitgesteld:
 
@@ -1343,101 +1365,101 @@ De toepassing in elke nieuwe Lid-Staat van de in de lijst die is opgenomen in [b
 
 3. Tot en met 31 januari 1973 geldt voor het handelsverkeer tussen een nieuwe Lid-Staat enerzijds, en de Gemeenschap in haar oorspronkelijke samenstelling, de overige nieuwe Lid-Staten of derde landen anderzijds, de regeling die vóór de toetreding van toepassing was.
 
-#### Artikel 152
+##### Artikel 152
 
 De nieuwe Lid-Staten stellen de maatregelen in werking die nodig zijn om vanaf het tijdstip van toetreding uitvoering te geven aan de richtlijnen en beschikkingen in de zin van [artikel 189 van het E.E.G.-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=189) en van [artikel 161 van het E.G.A.-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004033&artikel=161), alsmede aan de beschikkingen en aanbevelingen in de zin van artikel 14 van het E.G.K.S.-Verdrag, tenzij in de lijst die is opgenomen in [bijlage XI](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&bijlage=XI&z=1985-02-01&g=1985-02-01) of in andere bepalingen van de onderhavige Akte een bepaalde termijn is vastgesteld.
 
-#### Artikel 153
+##### Artikel 153
 
 1. De niet in deze Akte of de bijlagen daarvan vervatte aanpassingen van de besluiten van de Instellingen der Gemeenschappen, die door de Instellingen vóór de toetreding worden verricht volgens de in lid 2 vastgestelde procedure om die besluiten in overeenstemming te brengen met de bepalingen van de onderhavige Akte, met name die welke voorkomen in het [Vierde Deel](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&z=1985-02-01&g=1985-02-01) daarvan, treden in werking op het tijdstip van toetreding.
 
 2. De daartoe noodzakelijke bepalingen worden door de Raad met gekwalificeerde meerderheid van stemmen, op voorstel van de Commissie, of door de Commissie vastgesteld, naargelang de oorspronkelijke besluiten door de ene dan wel door de andere Instelling zijn aangenomen.
 
-#### Artikel 154
+##### Artikel 154
 
 In afwijking van [artikel 3, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=EERSTE&artikel=3&z=1985-02-01&g=1985-02-01), zijn de beginselen betreffende de algemene regelingen inzake regionale steun, die zijn uitgewerkt in het kader van de toepassing van de [artikelen 92](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=92), [93](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=93) en [94 van het E.E.G.-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=94) en die zijn vervat in de mededeling van de Commissie van 23 juni 1971, alsmede in de resolutie van 20 oktober 1971 van de Vertegenwoordigers van de Regeringen van de Lid-Staten, in het kader van de Raad bijeen, uiterlijk vanaf 1 juli 1973 van toepassing op de nieuwe Lid-Staten.
 
 Deze bepalingen worden aangevuld ten einde rekening te houden met de nieuwe situatie van de Gemeenschap na de toetreding, opdat alle Lid-Staten zich te dien aanzien in dezelfde toestand bevinden.
 
-#### Artikel 155
+##### Artikel 155
 
 De vóór de toetreding aanvaarde teksten van de besluiten van de Instellingen der Gemeenschappen en die door de Raad of de Commissie in de Deense en de Engelse taal zijn vastgesteld, zijn vanaf het tijdstip van toetreding op gelijke wijze authentiek als de in de vier oorspronkelijke talen vastgestelde teksten. Zij worden in het **Publikatieblad** van de Europese Gemeenschappen bekendgemaakt, wanneer de teksten in de oorspronkelijke talen aldus zijn bekendgemaakt.
 
-#### Artikel 156
+##### Artikel 156
 
 Van de op het tijdstip van toetreding bestaande overeenkomsten, besluiten en onderling samenhangende gedragingen die ingevolge de toetreding onder de werkingssfeer van artikel 65 van het E.G.K.S.-Verdrag vallen, moet aan de Commissie kennis worden gegeven binnen een termijn van ten hoogste drie maanden, te rekenen vanaf de toetreding. Alleen overeenkomsten en besluiten waarvan kennis is gegeven, blijven voorlopig van kracht totdat de Commissie heeft beslist.
 
-#### Artikel 157
+##### Artikel 157
 
 De wettelijke en bestuursrechtelijke bepalingen voor de bescherming van de gezondheid van de bevolking en van de werknemers op het grondgebied van de nieuwe Lid-Staten tegen de aan ioniserende straling verbonden gevaren, worden, overeenkomstig [artikel 33 van het E.G.A.-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=33), door deze Staten aan de Commissie medegedeeld binnen een termijn van drie maanden, te rekenen vanaf de toetreding.
 
 ## Titel III. Slotbepalingen
 
-#### Artikel 158
+##### Artikel 158
 
 De aan deze Akte gehechte bijlagen I tot en met XI, de Protocollen No. 1 tot en met 30 en de briefwisseling betreffende de monetaire vraagstukken maken daar een integrerend deel van uit.
 
-#### Artikel 159
+##### Artikel 159
 
 De Regering van de Franse Republiek zendt aan de Regeringen van het Koninkrijk Denemarken, Ierland en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland een voor eensluidend gewaarmerkt afschrift van het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal en van de verdragen waarbij dit Verdrag is gewijzigd toe.
 
-#### Artikel 160
+##### Artikel 160
 
 De Regering van de Italiaanse Republiek zendt aan de Regeringen van het Koninkrijk Denemarken, Ierland en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland een voor eensluidend gewaarmerkt af schrift in de Duitse, de Franse, de Italiaanse en de Nederlandse taal toe van het [Verdrag tot oprichting van de Europese Economische Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506), het [Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie](https://wetten.overheid.nl/jci1.3:c:BWBV0004033) en de verdragen tot wijziging of aanvulling daarvan.
 
 De teksten van het [Verdrag tot oprichting van de Europese Economische Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) en van het [Verdrag tot oprichting, van de Europese Gemeenschap voor Atoomenergie](https://wetten.overheid.nl/jci1.3:c:BWBV0004033), alsmede van de verdragen tot wijziging of aanvulling daarvan, die zijn opgesteld in de Deense, de Engelse, de Ierse en de Noorse taal, worden aan de onderhavige Akte gehecht. De teksten, die zijn opgesteld in de Deense, de Engelse en de Ierse taal, zijn op gelijke wijze authentiek als de oorspronkelijke teksten van bovengenoemde Verdragen.
 
-#### Artikel 161
+##### Artikel 161
 
 De Secretaris-Generaal van de Raad der Europese Gemeenschappen zal een voor eensluidend gewaarmerkt afschrift van de internationale overeenkomsten die zijn nedergelegd in het archief van het Secretariaat-Generaal, aan de Regeringen van de nieuwe Lid-Staten toezenden.
 
 ## deel Eerste. Aanpassing van de [Statuten van de Europese Investeringsbank](onbekend)
 
-#### Artikel 1
+##### Artikel 1
 
 Wijzigt het Verdrag betreffende de Europese Unie; Maastricht, 7 februari 1992.
 
-#### Artikel 2
+##### Artikel 2
 
 Wijzigt het Verdrag betreffende de Europese Unie; Maastricht, 7 februari 1992.
 
-#### Artikel 3
+##### Artikel 3
 
 Wijzigt het Verdrag betreffende de Europese Unie; Maastricht, 7 februari 1992.
 
-#### Artikel 4
+##### Artikel 4
 
 Wijzigt het Verdrag betreffende de Europese Unie; Maastricht, 7 februari 1992.
 
-#### Artikel 5
+##### Artikel 5
 
 Wijzigt het Verdrag betreffende de Europese Unie; Maastricht, 7 februari 1992.
 
-#### Artikel 6
+##### Artikel 6
 
 Wijzigt het Verdrag betreffende de Europese Unie; Maastricht, 7 februari 1992.
 
-#### Artikel 7
+##### Artikel 7
 
 Wijzigt het Verdrag betreffende de Europese Unie; Maastricht, 7 februari 1992.
 
-#### Artikel 8
+##### Artikel 8
 
 Wijzigt het Verdrag betreffende de Europese Unie; Maastricht, 7 februari 1992.
 
-#### Artikel 9
+##### Artikel 9
 
 Wijzigt het Verdrag betreffende de Europese Unie; Maastricht, 7 februari 1992.
 
 ## deel Tweede. Andere bepalingen
 
-#### Artikel 10
+##### Artikel 10
 
 1. De nieuwe Lid-Staten verrichten, uiterlijk twee maanden na het tijdstip van toetreden, de stortingen die zijn voorgeschreven in [artikel 5, lid 1, van de Statuten van de Ban](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=5)k, zoals dit is gewijzigd bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=Eerste&artikel=3&z=1985-02-01&g=1985-02-01) van dit Protocol. Deze stortingen moeten geschieden in hun nationale valuta. Eén vijfde van de storting zal plaatsvinden in liquide middelen en de rest in de vorm van renteloos schatkistpapier; de betaling van deze rest, in vier gelijke delen, vervalt, respectievelijk negen, zestien, drieëntwintig en dertig maanden na het tijdstip van toetreding. Dit schatkistpapier kan geheel of gedeeltelijk vóór de vervaldatum worden afgelost, zulks in onderling overleg tussen de Bank en de betrokken nieuwe Lid-Staat. De betalingen in liquide middelen en de opbrengst van het schatkistpapier bij aflossing moeten vrij converteerbaar zijn.
 
 2. De bepalingen van [artikel 7 van de Statuten van de Bank](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=7) zijn van toepassing op alle door de nieuwe Lid-Staten uit hoofde van dit artikel in hun nationale valuta verrichte stortingen. Alle aanpassingen betreffende nog niet afgelost schatkistpapier vinden plaats op de vervaldatum of op het tijdstip van vervroegde aflossing van dit papier.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De nieuwe Lid-Staten dragen aan de per 31 december van het jaar voorafgaande aan de toetreding vastgestelde statutaire reserve en de voorzieningen die gelijkwaardig zijn aan reserves, zoals deze voorkomen in de goedgekeurde balans van de Bank, de met de volgende percentages van deze reserves overeengekomen bedragen bij:
 
@@ -1450,7 +1472,7 @@ Wijzigt het Verdrag betreffende de Europese Unie; Maastricht, 7 februari 1992.
 
 3. De storting van deze bedragen vindt plaats in vijf gelijke delen uiterlijk twee, negen, zestien, drieëntwintig en dertig maanden na de toetreding. Elke van deze vijf delen wordt gestort in vrij converteerbare nationale valuta van elk van de nieuwe Lid-Staten.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Onmiddellijk na de toetreding vult de Raad van Gouverneurs de Raad van Bewind aan door de benoeming van:
 
@@ -1490,17 +1512,17 @@ Wijzigt het Verdrag betreffende de Europese Unie; Maastricht, 7 februari 1992.
 
 - 1 plaatsvervanger aangewezen door de Commissie.
 
-#### Artikel 13
+##### Artikel 13
 
 Onmiddellijk na de toetreding wordt de Directie aangevuld door de benoeming van een Vice-President. Zijn ambtsperiode loopt te zelf der tijd af als de ambtsperiode van de leden van de Directie die op het tijdstip van toetreding in functie zijn.
 
-#### Artikel 1
+##### Artikel 1
 
 Zolang de Deense Regering de in de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=TWEEDE&titeldeel=II&artikel=25&z=1985-02-01&g=1985-02-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=TWEEDE&titeldeel=II&artikel=26&z=1985-02-01&g=1985-02-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=TWEEDE&titeldeel=II&artikel=27&z=1985-02-01&g=1985-02-01) van de Akte van toetreding bedoelde verklaringen niet heeft afgelegd en uiterlijk tot en met 31 december 1975 behoeft de douaneregeling die op de datum van toetreding van toepassing is op de invoer in de andere gebieden van Denemarken van produkten van oorsprong en van herkomst uit de Faeröer niet te worden gewijzigd.
 
 De produkten die in overeenstemming met bovenbedoelde regeling uit de Faeröer in de andere gebieden van Denemarken worden ingevoerd kunnen niet worden beschouwd als zich in deze Staat in het vrije verkeer bevindend in de zin van [artikel 10 van het E.E.G.-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=10) wanneer zij weer worden uitgevoerd naar een andere Lid-Staat.
 
-#### Artikel 2
+##### Artikel 2
 
 Indien de Deense Regering de in artikel 1 bedoelde verklaringen aflegt, zijn de bepalingen van de Akte van toetreding van toepassing op de Faeröer met inachtneming van de volgende bepalingen:
 
@@ -1510,19 +1532,19 @@ Indien de Deense Regering de in artikel 1 bedoelde verklaringen aflegt, zijn de 
 
 - -. de autoriteiten van de Faeröer kunnen onder communautair toezicht passende maatregelen handhaven ten einde de voorziening van de bevolking van de Faeröer met melk tegen redelijke prijzen te handhaven.
 
-#### Artikel 3
+##### Artikel 3
 
 Indien de Deense Regering gedurende het in artikel 1 bedoelde tijdvak de Raad ervan in kennis stelt dat zij ingevolge een beslissing die de plaatselijke Regering van de Faeröer heeft genomen niet in staat is de in artikel 1 bedoelde verklaringen af te leggen, beziet de Raad op verzoek van de Deense Regering de aldus in het leven geroepen situatie. De Raad besluit op voorstel van de Commissie inzake de regelingen die dienen te worden getroffen om de problemen op te lossen die deze toestand voor de Gemeenschap en met name voor Denemarken en de Faeröer doet rijzen.
 
-#### Artikel 4
+##### Artikel 4
 
 De Deense onderdanen die op de Faeröer woonachtig zijn, worden slechts als onderdanen van een Lid-Staat in de zin van de oorspronkelijke Verdragen beschouwd vanaf de datum waarop deze oorspronkelijke Verdragen op deze eilanden van toepassing worden.
 
-#### Artikel 5
+##### Artikel 5
 
 De in artikel 1 bedoelde verklaringen moet gelijktijdig worden afgelegd en kunnen slechts leiden tot een gelijktijdige toepassing van de oorspronkelijke Verdragen op de Faeröer.
 
-#### Artikel 1
+##### Artikel 1
 
 1. De communautaire regeling inzake douane-aangelegenheden en inzake kwantitatieve beperkingen en met name die vervat in de Akte van toetreding, is ten aanzien van de Kanaal-eilanden en het eiland Man onder dezelfde voorwaarden van toepassing als die welke voor het Verenigd Koninkrijk gelden. In het bijzonder worden de douanerechten en de heffingen van gelijke werking tussen deze gebieden en de Gemeenschap in haar oorspronkelijke samenstelling en tussen deze gebieden en de nieuwe Lid-Staten geleidelijk verlaagd overeenkomstig het ritme bepaald in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=I&hoofdstuk=1&artikel=32&z=1985-02-01&g=1985-02-01) en [36 van de Akte](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=I&hoofdstuk=1&artikel=36&z=1985-02-01&g=1985-02-01) van toetreding. Het gemeenschappelijk douanetarief en het eengemaakte E.G.K.S.-tarief worden geleidelijk toegepast overeenkomstig het ritme, bepaald in de [artikelen 39](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=I&hoofdstuk=1&artikel=39&z=1985-02-01&g=1985-02-01) en [59](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=II&hoofdstuk=1&artikel=59&z=1985-02-01&g=1985-02-01) van de Akte van toetreding, met inachtneming van het bepaalde in de [artikelen 109](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=III&hoofdstuk=2&artikel=109&z=1985-02-01&g=1985-02-01), [110](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=III&hoofdstuk=2&artikel=110&z=1985-02-01&g=1985-02-01) en [119](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=IV&artikel=119&z=1985-02-01&g=1985-02-01) van deze Akte.
 
@@ -1532,41 +1554,41 @@ Tevens zijn die bepalingen van de communautaire regeling en met name van de Akte
 
 Op voorstel van de Commissie bepaalt de Raad met gekwalificeerde meerderheid van stemmen onder welke voorwaarden de in de voorgaande alinea's bedoelde bepalingen op deze gebieden van toepassing zijn.
 
-#### Artikel 2
+##### Artikel 2
 
 Aan de rechten die de onderdanen van deze gebieden in het Verenigd Koninkrijk hebben verkregen, wordt geen afbreuk gedaan door de Akte van toetreding. De communautaire bepalingen betreffende het vrije verkeer van personen en diensten zijn echter niet op hen van toepassing.
 
-#### Artikel 3
+##### Artikel 3
 
 De bepalingen van het [E.G.A.-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004033) die voor personen of ondernemingen in de zin van [artikel 196 van dat Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004033&artikel=196) gelden, zijn op deze personen of ondernemingen van toepassing, wanneer zij in bovengenoemde gebieden zijn gevestigd.
 
-#### Artikel 4
+##### Artikel 4
 
 De autoriteiten van deze gebieden behandelen alle natuurlijke of rechtspersonen van de Gemeenschap op dezelfde wijze.
 
-#### Artikel 5
+##### Artikel 5
 
 Indien zich bij toepassing van de in dit Protocol neergelegde regeling van de ene of de andere zijde moeilijkheden voordoen in de betrekkingen tussen de Gemeenschap en deze gebieden, stelt de Commissie onverwijld aan de Raad de vrijwaringsmaatregelen voor die zij nodig acht, waarbij zij de voorwaarden en de wijze van toepassing aangeeft.
 
 De Raad besluit binnen een maand met gekwalificeerde meerderheid van stemmen.
 
-#### Artikel 6
+##### Artikel 6
 
 In de zin van dit Protocol wordt als onderdaan van de Kanaaleilanden of van het eiland Man beschouwd iedere burger van het Verenigd Koninkrijk of van zijn koloniën die deze hoedanigheid bezit op grond van de omstandigheid dat een van zijn ouders of een van zijn grootouders op het desbetreffende eiland is geboren, geadopteerd, genaturaliseerd of daar in de registers van de burgerlijke stand is ingeschreven; in dit opzicht wordt evenwel iemand niet als onderdaan van deze gebieden beschouwd indien hijzelf, een van zijn ouders of een van zijn grootouders in het Verenigd Koninkrijk is geboren, geadopteerd, genaturaliseerd of daar in de registers van de burgerlijke stand is ingeschreven. Als onderdaan wordt evenmin beschouwd degene die in welk tijdvak dan ook gedurende vijf jaar in het Verenigd Koninkrijk woonachtig is geweest.
 
 Van de administratieve bepalingen om de identiteit van deze personen vast te stellen wordt aan de Commissie kennis gegeven.
 
-#### Artikel 1
+##### Artikel 1
 
 Vervallen
 
-#### Artikel 2
+##### Artikel 2
 
 Vervallen
 
 ### I. Ierland
 
-#### 1
+##### 1
 
 De in Ierland geldende kwantitatieve beperkingen op de invoer van de volgende produkten worden geleidelijk opgeheven door de opening van onderstaande globale contingenten:
 
@@ -1583,7 +1605,7 @@ De in Ierland geldende kwantitatieve beperkingen op de invoer van de volgende pr
 
 Deze beperkingen worden op 1 juli 1975 afgeschaft.
 
-#### 2
+##### 2
 
 Ierland wordt gemachtigd voor superfosfaat van post 31.03 A I van het gemeenschappelijk douanetarief ten aanzien van andere landen dan het Verenigd Koninkrijk een invoercontingent te handhaven. De omvang van dit contingent wordt, op de grondslag van de Ierse produktie die is waargenomen in 1970, vastgesteld op:
 
@@ -1595,7 +1617,7 @@ Ierland wordt gemachtigd voor superfosfaat van post 31.03 A I van het gemeenscha
 
 Dit contingent wordt op 1 juli 1975 opgeheven.
 
-#### 3
+##### 3
 
 Ierland wordt gemachtigd tot 1 juli 1975 de kwantitatieve beperkingen op de uitvoer naar de andere Lid-Staten ten aanzien van de onderstaande produkten te handhaven:
 
@@ -1616,11 +1638,11 @@ Ierland wordt gemachtigd tot 1 juli 1975 de kwantitatieve beperkingen op de uitv
 
 ### II. Noorwegen
 
-#### Artikel 1
+##### Artikel 1
 
 Ierland wordt gemachtigd om tot 1 januari 1985 de regeling inzake de assemblage van motorvoertuigen en de invoer daarvan, hierna het „Scheme” genoemd, die wordt toegepast overeenkomstig het bepaalde in de „Motor Vehicles (Registration of Importers) Act 1968”, hierna de „Act” genoemd, te handhaven.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Vanaf de toetreding zijn alle importeurs-assembleurs van in de Gemeenschap vervaardigde merken van motorvoertuigen, die in het kader van de „Act” zijn geregistreerd en die blijven voldoen aan de eisen inzake registratie, gemachtigd om, zonder beperkingen, reeds geassembleerde voertuigen van oorsprong uit de andere Lid-Staten van in die Staten vervaardigde merken in te voeren.
 
@@ -1634,7 +1656,7 @@ Ierland wordt gemachtigd om tot 1 januari 1985 de regeling inzake de assemblage 
 
 - –. de in Ierland vervaardigde of uit de andere Lid-Staten ingevoerde delen en onderdelen en de in Ierland geassembleerde of uit de andere Lid-Staten ingevoerde motorvoertuigen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Met ingang van 1 januari 1974 geldt de in artikel 2, lid 2, bedoelde tariefregeling eveneens voor een globaal contingent dat Ierland vanaf de toetreding ten aanzien van de overige Lid-Staten opent voor motorvoertuigen van oorsprong uit de Gemeenschap die niet vallen onder de bijzondere regeling van het „Scheme”.
 
@@ -1672,61 +1694,61 @@ Het gewicht in ledige toestand zal worden bepaald aan de hand van de regels inza
 
 4. Indien tijdens de periode waarin de contingentenregeling van toepassing is, blijkt dat het contingent niet volledig wordt benut om redenen die verband houden met de verdeling van het contingent overeenkomstig de voorgaande bepalingen kan de Commissie, na raadpleging van de Ierse Regering, de maatregelen aangeven die door de Ierse Regering moeten worden getroffen om volledige benutting van het globale contingent te vergemakkelijken.
 
-#### Artikel 4
+##### Artikel 4
 
 Indien zich bij de toepassing van dit Protocol, en met name van artikel 2, lid 1, concurrentiedistorsies tussen de in Ierland gevestigde importeurs-assembleurs voordoen waardoor de geleidelijke overgang van de bij de toetreding geldende regeling naar de regeling die in overeenstemming is met de bepalingen van het [E.E.G.-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506), in gevaar zou kunnen komen, kan de Commissie de Ierse Regering machtigen, de nodige maatregelen te nemen om de situatie weer in evenwicht te brengen. Die maatregelen mogen de einddatum voor de afschaffing van het „Scheme” niet in het geding brengen.
 
-#### Artikel 5
+##### Artikel 5
 
 Ierland brengt in het „Scheme” alle aanvullende wijzigingen aan ten einde de overgang van de bij de toetreding geldende regeling naar de regeling die strookt met het [E.E.G.-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506), te vergemakkelijken.
 
-#### 1
+##### 1
 
 Met ingang van 1 januari 1974 en tot en met 31 december 1977, wordt het Verenigd Koninkrijk gemachtigd een jaarlijks tariefcontingent voor fosfor van onderverdeling C IV van post No. 28.04 van het gemeenschappelijk douanetarief te openen, waarvan de omvang overeenstemt met de behoeften van dat land, doch dat 40.000 ton per jaar niet overschrijdt.
 
-#### 2
+##### 2
 
 Gedurende de jaren 1974, 1975 en 1976 zal voor dit contingent een nulrecht gelden.
 
 De Raad kan met eenparigheid van stemmen besluiten tot wijziging van het recht voor dit tariefcontingent, met inachtneming van de mededingings-, de bevoorradings- en de produktievoorwaarden op de fosformarkt.
 
-#### 3
+##### 3
 
 Voor 1977 stelt de Raad met eenparigheid van stemmen het recht voor dit contingent vast. Blijft zulk een besluit uit, dan geldt voor het contingent een recht dat gelijk is aan de helft van het recht van het gemeenschappelijk douanetarief.
 
-#### 4
+##### 4
 
 Met ingang van 1 januari 1978 past het Verenigd Koninkrijk het recht van het gemeenschappelijk douanetarief toe.
 
-#### 5
+##### 5
 
 Het Verenigd Koninkrijk past met ingang van 1 april 1973 een nulrecht toe op de invoer van fosfor uit de Gemeenschap in haar oorspronkelijke samenstelling.
 
-#### 1
+##### 1
 
 Uiterlijk op 1 januari 1975 wordt het autonome recht van het gemeenschappelijk douanetarief voor aluminiumoxyde en aluminiumhydroxyde van onderverdeling A van post No. 28.20 van het gemeenschappelijk douanetarief voor onbepaalde tijd geschorst tot 5,5%.
 
-#### 2
+##### 2
 
 De nieuwe Lid-Staten gaan op 1 januari 1976 over tot de eerste aanpassing van hun rechten aan het gemeenschappelijk douanetarief voor dit produkt, en wel door op die datum het verschil tussen het basisrecht en het recht van 5,5% met 50% te verminderen.
 
-#### 3
+##### 3
 
 De nieuwe Lid-Staten passen met ingang van 1 juli 1977 het recht van 5,5% toe.
 
-#### 4
+##### 4
 
 De Raad zal de situatie opnieuw bezien, enerzijds ingeval door de Gemeenschap geen nulrecht zou worden toegepast op de invoer van aluminiumoxyde en aluminiumhydroxyde uit de onafhankelijke ontwikkelingslanden van het Gemenebest, en met name uit die in het Caribische gebied en anderzijds ingeval de specifieke situatie van de aluminiumindustrie zulks zou eisen.
 
-#### 1
+##### 1
 
 Uiterlijk op 1 januari 1974 wordt het autonome recht van het gemeenschappelijk douanetarief voor looiextract van mimosabast van onderverdeling A van post No. 32.01 van het gemeenschappelijk douanetarief voor onbepaalde tijd geschorst tot 3%.
 
-#### 2
+##### 2
 
 Ierland en het Verenigd Koninkrijk passen met ingang van 1 juli 1973 een nulrecht toe op de invoer uit de Gemeenschap in haar oorspronkelijke samenstelling van looiextract van mimosabast van onderverdeling A van post No. 32.01 van het gemeenschappelijk douanetarief en looiextract van de kastanje van onderverdeling C van post No. ex 32.01 van het gemeenschappelijk douanetarief.
 
-#### 1
+##### 1
 
 Voor onderstaande produkten:
 
@@ -1736,35 +1758,35 @@ Voor onderstaande produkten:
 
 worden met ingang van 1 januari 1974 twee autonome communautaire tariefcontingenten met nulrecht geopend. De omvang daarvan zal jaarlijks worden bepaald, wanneer is vastgesteld dat alle voorzieningsmogelijkheden op de interne markt van de Gemeenschap gedurende het tijdvak waarvoor de contingenten zijn geopend, uitgeput zullen worden.
 
-#### 2
+##### 2
 
 De Raad zal de situatie opnieuw bezien, ingeval zich een belangrijke wijziging voordoet in de invoer tegen nulrecht van duplex-, triplex- en multiplexhout uit Finland in Ierland en in het Verenigd Koninkrijk of in het door de Gemeenschap op bepaalde produkten van oorsprong uit de ontwikkelingslanden toegepaste stelsel van tariefpreferenties.
 
-#### 3
+##### 3
 
 Denemarken, Ierland en het Verenigd Koninkrijk passen vanaf 1 april 1973 een nulrecht toe ten aanzien van de invoer van duplex-, triplex- en multiplexhout uit de Gemeenschap in haar oorspronkelijke samenstelling.
 
-#### 1
+##### 1
 
 Het autonome recht van het gemeenschappelijk douanetarief voor papierstof van onderverdeling A II van post No. 47.01 van het gemeenschappelijk douanetarief wordt in een nader te bepalen ritme volledig geschorst.
 
-#### 2
+##### 2
 
 Totdat bovengenoemd recht volledig is geschorst, zijn de Lid-Staten gemachtigd om voor de in paragraaf 1 bedoelde produkten tariefcontingenten met nulrecht te openen. Zij stellen de Commissie hiervan in kennis.
 
-#### 1
+##### 1
 
 De definitie van courantenpapier van onderverdeling A van post No. 48.01 van het gemeenschappelijk douanetarief wordt zodanig gewijzigd dat de benedengrens van het gewicht per vierkante meter wordt teruggebracht van 48 op 40 gram.
 
-#### 2
+##### 2
 
 Het in het kader van de [Algemene Overeenkomst betreffende Tarieven en Handel](https://wetten.overheid.nl/jci1.3:c:BWBV0006316) geconsolideerde tariefcontingent van 625.000 ton met nulrecht zal worden verminderd.
 
-#### 3
+##### 3
 
 Jaarlijks wordt een autonoom communautair tariefcontingent met nulrecht geopend, wanneer is vastgesteld dat alle voorzieningsmogelijkheden op de interne markt van de Gemeenschap gedurende het tijdvak waarvoor het contingent is geopend, uitgeput zullen worden.
 
-#### 1
+##### 1
 
 Voor als volgt omschreven werklood:
 
@@ -1774,19 +1796,19 @@ wordt tot de inwerkingtreding van een volledige schorsing van onbepaalde duur, v
 
 Dit communautair tariefcontingent wordt beheerd volgens een stelsel dat kan waarborgen dat het aldus ingevoerde werklood daadwerkelijk wordt gezuiverd door het land waaraan het is toegewezen.
 
-#### 2
+##### 2
 
 Voor werklood geldt een ad valorem-recht van 4,5%.
 
-#### 3
+##### 3
 
 Het autonome recht op werklood wordt met ingang van 1 januari 1975 geschorst tot 2%.
 
-#### 4
+##### 4
 
 Jaarlijks gaat de Raad de mogelijkheid na van een volledige schorsing, voor onbepaalde tijd, van het autonome recht op werklood.
 
-#### 5
+##### 5
 
 Wat betreft ander ruw lood dan werklood gelden de volgende maatregelen:
 
@@ -1796,47 +1818,47 @@ Wat betreft ander ruw lood dan werklood gelden de volgende maatregelen:
 
 - c). vóór de afschaffing van het contingent beziet de Raad de situatie, ten einde te besluiten tot een eventuele verlaging van het autonome recht voor ander ruw lood dan werklood, met dien verstande dat het aldus verlaagde recht een minimum van 1,1 R.E./100 kg moet bedragen.
 
-#### 1
+##### 1
 
 Met ingang van 1 januari 1974 geldt voor ruw zink van onderverdeling A van post No. 79.01 van het gemeenschappelijk douanetarief een recht van 4,5% met een minimum van 1,1 R.E./100 kg.
 
-#### 2
+##### 2
 
 Met ingang van dezelfde datum nemen de nieuwe Lid-Staten deel in het geleidelijk verminderde jaarlijkse communautaire tariefcontingent met nulrecht voor ruw zink; de oorspronkelijke omvang van dit contingent bedroeg 30.000 ton voor 1971. In 1974 heeft het tariefcontingent dezelfde omvang als in 1973. De omvang neemt vanaf 1975 wederom geleidelijk af tot de afschaffing van het contingent op 31 december 1977.
 
-#### 1
+##### 1
 
 De toepassing door de nieuwe Lid-Staten van de communautaire regeling van de landbouw tezamen met de overgangsmaatregelen voorzien in het [Vierde deel, Titel II](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=II&z=1985-02-01&g=1985-02-01), van de Akte van toetreding, zal ertoe leiden dat de communautaire preferentie voor landbouwprodukten zich uitstrekt tot de Gemeenschap in haar geheel, zodra deze bepalingen van toepassing worden.
 
-#### 2
+##### 2
 
 De ordening der markten heeft als wezenlijk kenmerk het intracommunautaire handelsverkeer de mogelijkheid te bieden zich te ontwikkelen onder voorwaarden die vergelijkbaar zijn met die welke op een interne markt bestaan.
 
-#### 3
+##### 3
 
 De geografische uitbreiding van de Gemeenschap kan echter inzake het natuurlijk verloop van de handelsstromen, met name in de sector granen (tarwe en rijst), leiden tot problemen die vermeden dienen te worden.
 
 De Instellingen van de Gemeenschap dragen er, bij de toepassing van de verordeningen inzake de gemeenschappelijke ordening der markten, zorg voor dat het vrije verkeer van alle produkten verzekerd blijft, overeenkomstig de doelstellingen opgenomen in het [E.E.G.-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) en de desbetreffende verordeningen.
 
-#### 4
+##### 4
 
 Wijzigingen van de structuur van het internationale handelsverkeer vormen een normaal gevolg van de uitbreiding van de Gemeenschap.
 
-#### 5
+##### 5
 
 Met inachtneming van het bepaalde in de [artikelen 39](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=39) en [110 van het E.E.G.-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=110) moet het gedurende het tijdvak waarin overgangsmaatregelen worden toegepast mogelijk zijn zich te gelegener tijd bezig te houden met de problemen die kunnen rijzen voor bepaalde derde landen en voor bepaalde concrete gevallen 1)De Conferentie tussen de Europese Gemeenschappen en de Staten die om toetreding tot deze Gemeenschappen hebben verzocht, heeft tijdens de zittingen van 11 en 12 mei 1971 met het Verenigd Koninkrijk, 7 juni 1971 met Ierland, 21 juni 1971 met Noorwegen en 12 juli 1971 met Denemarken vastgesteld dat deze concrete gevallen „voor zover thans valt te voorzien, beperkt zullen blijven tot boter, suiker, bacon en bepaalde soorten groenten en fruit”. .
 
 Indien dergelijke problemen zich mochten voordoen, bezien de Instellingen de concrete gevallen aan de hand van alle zwaarwegende factoren van de situatie van het ogenblik, zoals zij dit tot nu toe in soortgelijke gevallen hebben gedaan, en treffen zij, voor zover nodig, gedurende het tijdvak waarin overgangsmaatregelen worden toegepast, de maatregelen die een oplossing kunnen bieden voor deze problemen, in overeenstemming met de beginselen van en in het kader van de voorzieningen van het gemeenschappelijk landbouwbeleid.
 
-#### 6
+##### 6
 
 Ten einde de moeilijkheden te overwinnen die zich op de markten van de Gemeenschap tengevolge van de toepassing van de overgangsregelingen zouden kunnen voordoen, beschikken de Instellingen van de Gemeenschap over, en maken zij gebruik van, de onderscheiden middelen die voortvloeien uit de bepalingen van het [E.E.G.-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506), de ter uitvoering daarvan genomen besluiten en het bepaalde in deze Akte.
 
-#### 1
+##### 1
 
 Tot en met 28 februari 1975 is het Verenigd Koninkrijk gemachtigd om volgens onderstaande regels uit de exporterende landen en gebieden genoemd in de Suikerovereenkomst van het Gemenebest, de hoeveelheden suiker in te voeren die overeenstemmen met de quota tegen overeengekomen prijs, vastgesteld in het kader van die Overeenkomst.
 
-#### 2
+##### 2
 
 Bij deze invoer wordt:
 
@@ -1846,19 +1868,19 @@ Bij deze invoer wordt:
 
 Indien de wereld c.i.f.-prijs voor ruwe suiker de overeengekomen aankoopprijs, herleid tot een c.i.f.-prijs, echter overschrijdt, betaalt de U.K. Sugar Board het verschil aan de importeur.
 
-#### 3
+##### 3
 
 De prijs waartegen de betrokken suiker op de markt van het Verenigd Koninkrijk wordt afgezet, wordt op een zodanig niveau vastgesteld dat de betrokken hoeveelheden daadwerkelijk kunnen worden afgezet zonder de afzet van suiker uit de Gemeenschap in gevaar te brengen.
 
-#### 4
+##### 4
 
 In afwijking van het bepaalde in artikel 15, lid 1, van Verordening (EEG) No. 766/68 houdende vaststelling van de algemene voorschriften inzake de restitutie bij de uitvoer van suiker, kan de restitutie bij uitvoer die in het Verenigd Koninkrijk wordt toegepast, worden verleend voor witte suiker die is vervaardigd uit de ruwe suiker die krachtens dit Protocol werd ingevoerd.
 
-#### 5
+##### 5
 
 De Raad stelt, op voorstel van de Commissie, met gekwalificeerde meerderheid van stemmen de maatregelen voor de uitvoering van dit Protocol vast, en wel in dier voege dat de goede werking van de gemeenschappelijke ordening der markten in de sector suiker wordt verzekerd en met name dat de prijs voor de afzet van deze suiker op de markt van het Verenigd Koninkrijk bij de toepassing van het bepaalde in lid 2 in acht wordt genomen.
 
-#### Artikel 1
+##### Artikel 1
 
 1. Het Verenigd Koninkrijk wordt bij wijze van overgangsmaatregel gemachtigd om volgens onderstaande regels bepaalde hoeveelheden boter en kaas uit Nieuw-Zeeland in te voeren.
 
@@ -1894,21 +1916,21 @@ De Raad kan op voorstel van de Commissie, met gekwalificeerde meerderheid van st
 
 4. De overeenkomstig dit Protocol in het Verenigd Koninkrijk ingevoerde produkten mogen niet in het intracommunautaire handelsverkeer worden gebracht of opnieuw naar derde landen worden uitgevoerd.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Op de invoer in het Verenigd Koninkrijk van de in artikel 1 bedoelde hoeveelheden boter en kaas worden speciale heffingen toegepast. [Artikel 55, lid 1 sub b)](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=II&hoofdstuk=1&artikel=55&z=1985-02-01&g=1985-02-01), van de Akte van toetreding is niet van toepassing.
 
 2. De speciale heffingen worden, op de grondslag van de in artikel 1, lid 3, bedoelde c.i.f.-prijs en van de marktprijs der betrokken produkten in het Verenigd Koninkrijk, op een zodanig niveau vastgesteld dat de hoeveelheden boter en kaas daadwerkelijk kunnen worden afgezet zonder de afzet van boter en kaas uit de Gemeenschap in gevaar te brengen.
 
-#### Artikel 3
+##### Artikel 3
 
 De Raad stelt, op voorstel van de Commissie, met gekwalificeerde meerderheid van stemmen, de noodzakelijke maatregelen voor de uitvoering van de artikelen 1 en 2 vast.
 
-#### Artikel 4
+##### Artikel 4
 
 De Gemeenschap zal haar pogingen voortzetten om het sluiten van een internationale zuivelovereenkomst te bevorderen, ten einde de situatie op de wereldmarkt zo spoedig mogelijk te verbeteren.
 
-#### Artikel 5
+##### Artikel 5
 
 1. In de loop van 1975 zal de Raad de situatie, wat boter betreft, bezien in het licht van de situatie en de ontwikkeling van vraag en aanbod in de voornaamste producerende en consumerende landen in de wereld, in het bijzonder in de Gemeenschap en in Nieuw-Zeeland. Hierbij zullen onder meer de volgende elementen in aanmerking worden genomen:
 
@@ -1920,15 +1942,15 @@ De Gemeenschap zal haar pogingen voortzetten om het sluiten van een internationa
 
 3. De afwijkende regeling voor de invoer van kaas mag niet worden gehandhaafd na 31 december 1977.
 
-#### 1
+##### 1
 
 De Raad stelt volgens de procedure van [artikel 43, lid 2, van het E.E.G.-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=43) de noodzakelijke maatregelen vast om het gebruik van granen uit de Gemeenschap voor de vervaardiging van alcoholhoudende dranken uit granen, en met name van whisky, die naar derde landen worden uitgevoerd te vergemakkelijken, in dier voege dat deze maatregelen te gelegener tijd kunnen worden toegepast.
 
-#### 2
+##### 2
 
 Deze maatregelen die kunnen worden getroffen in het kader van de verordening inzake de gemeenschappelijke ordening der markten in de sector granen of van de vast te stellen verordening inzake de gemeenschappelijke ordening der markten in de sector alcohol, moeten worden ingevoegd in het kader van het algemeen beleid van de Gemeenschap inzake alcohol waarbij elke discriminatie tussen deze produkten en andere alcohol, met inachtneming van de bijzondere situatie van elk geval, dient te worden vermeden.
 
-#### I
+##### I
 
 1. De Europese Economische Gemeenschap biedt de in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&bijlage=VI&z=1985-02-01&g=1985-02-01) van de Akte van toetreding genoemde onafhankelijke landen van het Gemenebest de gelegenheid, voor hun betrekkingen met de Gemeenschap, in de geest van de verklaring van intentie die de Raad in de zitting van 1 en 2 april 1963 heeft aangenomen, een keuze te maken uit een van de volgende formules:
 
@@ -1952,7 +1974,7 @@ De Gemeenschap nodigt derhalve die onafhankelijke landen van het Gemenebest die 
 
 - –. moet de vast te stellen regeling, met name de regels inzake de oorsprong, het mogelijk maken om alle risico's van verlegging van het handelsverkeer ten nadele van de Gemeenschap, die voortvloeien uit de omstandigheid dat deze Staten deelnemen aan een douane-unie met een derde land, te vermijden.
 
-#### II
+##### II
 
 1. Voor wat betreft de bij het aflopen van de op 29 juli 1969 ondertekende Associatieovereenkomst vast te stellen associatieregeling, is de Gemeenschap bereid om haar associatiebeleid voort te zetten, zowel ten aanzien van de Geassocieerde Afrikaanse Staten en Madagaskar als ten aanzien van de onafhankelijke ontwikkelingslanden van het Gemenebest die partij zullen zijn bij dezelfde Associatie.
 
@@ -1964,21 +1986,21 @@ De betrekkingen van de Gemeenschap met de Geassocieerde Afrikaanse Staten en Mad
 
 4. Bij de nadere regeling van deze Associatie, die zal worden vastgesteld tijdens de onderhandelingen bedoeld in [deel I, paragraaf 2 derde alinea](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&artikel=I&z=1985-02-01&g=1985-02-01), van dit Protocol dient op soortgelijke wijze rekening te worden gehouden met de bijzondere economische omstandigheden waarin de onafhankelijke landen van het Gemenebest in Afrika, in de Indische Oceaan, in de Stille Oceaan en het Caribische gebied en de Geassocieerde Afrikaanse Staten en Madagaskar verkeren, met de in het kader van de Associatie opgedane ervaring, met de verlangens van de geassocieerde Staten en met de gevolgen die de tenuitvoerlegging van het stelsel van de algemene preferenties voor deze Staten heeft.
 
-#### III
+##### III
 
 De Gemeenschap zal bedacht zijn op bescherming van de belangen van alle in dit Protocol bedoelde landen waarvan de economie in aanzienlijke mate afhankelijk is van de uitvoer van basisprodukten, met name van suiker.
 
 Het probleem van de suiker zal in dit kader worden geregeld, waarbij, wat de uitvoer van dit produkt betreft, rekening zal worden gehouden met het belang dat het voor de economie van verscheidene van deze landen, met name voor die van het Gemenebest, vertegenwoordigt.
 
-#### 1
+##### 1
 
 De nieuwe Lid-Staten zijn gemachtigd de toepassing van het stelsel van algemene tariefpreferenties dat door de Europese Economische Gemeenschap ten aanzien van produkten van oorsprong uit ontwikkelingslanden wordt toegepast, uit te stellen tot 1 januari 1974.
 
-#### 2
+##### 2
 
 Voor de produkten die onder de Verordeningen (EEG) No. 2796/71, No. 2797/71, No. 2798/71 en No. 2799/71 vallen, is Ierland evenwel gemachtigd tot en met 31 december 1975 ten aanzien van de landen die voor algemene tarief preferenties in aanmerking komen douanerechten toe te passen die gelijk zijn aan de rechten die voor dezelfde produkten worden toegepast ten aanzien van de Lid-Staten, met uitzondering van het Verenigd Koninkrijk.
 
-#### Artikel 1
+##### Artikel 1
 
 1. Vanaf het tijdstip van toetreding wordt de kennis waarvan overeenkomstig [artikel 13 van het E.G.A.-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004033&artikel=13) mededeling is gedaan aan de Lid-Staten, personen en ondernemingen, ter beschikking gesteld van Denemarken, dat deze kennis onder de in voornoemd artikel bedoelde voorwaarden op beperkte wijze op zijn grondgebied verspreidt.
 
@@ -2002,7 +2024,7 @@ Voor de produkten die onder de Verordeningen (EEG) No. 2796/71, No. 2797/71, No.
 
 4. Denemarken verbindt zich ertoe, ter aanvulling van de verslagen die het zal toezenden, aan de Gemeenschap alle inlichtingen te verstrekken, met name bij bezoeken van personeel van de Gemeenschap of van de Lid-Staten aan het Centrum te Risø, en wel onder voorwaarden die voor elk geval afzonderlijk in onderling overleg zullen worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 1. In de sectoren waarop Denemarken kennis ter beschikking stelt van de Gemeenschap, verlenen de bevoegde instanties, thans de „Atomenergikommission”, aan de Lid-Staten, personen en ondernemingen van de Gemeenschap op verzoek licenties tegen commerciële voorwaarden, indien zij uitsluitende rechten bezitten op in de Lid-Staten van de Gemeenschap verkregen octrooien en voor zover zij geen verplichting of verbintenis jegens derden hebben om een uitsluitende of gedeeltelijk uitsluitende licentie op de rechten op deze octrooien te verlenen of aan te bieden.
 
@@ -2010,7 +2032,7 @@ Voor de produkten die onder de Verordeningen (EEG) No. 2796/71, No. 2797/71, No.
 
 Het verlenen van dergelijke uitsluitende of gedeeltelijk uitsluitende licenties geschiedt op normale commerciële grondslag.
 
-#### Artikel 1
+##### Artikel 1
 
 1. Vanaf het tijdstip van toetreding wordt de kennis waarvan: overeenkomstig [artikel 13 van het E.G.A.-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004033&artikel=13) mededeling is gedaan aan de Lid-Staten, personen en ondernemingen, ter beschikking gesteld van Ierland, dat deze kennis onder de in voornoemd artikel bedoelde voorwaarden op beperkte wijze op zijn grondgebied verspreidt.
 
@@ -2018,7 +2040,7 @@ Het verlenen van dergelijke uitsluitende of gedeeltelijk uitsluitende licenties 
 
 3. Deze gegevens betreffen hoofdzakelijk de studies voor de ontwikkeling van een energiereactor en de werkzaamheden inzake radio-isotopen en de medische toepassing ervan, met inbegrip van de problemen ter zake van de bescherming tegen straling.
 
-#### Artikel 2
+##### Artikel 2
 
 1. In de sectoren waarop Ierland kennis ter beschikking stelt van de Gemeenschap, verlenen de bevoegde instanties aan de Lid-Staten, personen en ondernemingen van de Gemeenschap op verzoek licenties tegen commerciële voorwaarden, indien zij uitsluitende rechten bezitten op in de Lid-Staten van de Gemeenschap verkregen octrooien en voor zover zij geen verplichting of verbintenis jegens derden hebben om een uitsluitende of gedeeltelijk uitsluitende licentie op de rechten op deze octrooien te verlenen of aan te bieden.
 
@@ -2026,7 +2048,7 @@ Het verlenen van dergelijke uitsluitende of gedeeltelijk uitsluitende licenties 
 
 Het verlenen van dergelijke uitsluitende of gedeeltelijk uitsluitende licenties geschiedt op normale commerciële grondslag.
 
-#### Artikel 1
+##### Artikel 1
 
 1. Vanaf het tijdstip van toetreding wordt de kennis waarvan overeenkomstig [artikel 13 van het E.G.A.-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004033&artikel=13) mededeling is gedaan aan de Lid-Staten, personen en ondernemingen, ter beschikking gesteld van het Verenigd Koninkrijk, dat deze kennis onder de in voornoemd artikel bedoelde voorwaarden op beperkte wijze op zijn grondgebied verspreidt.
 
@@ -2050,7 +2072,7 @@ Het verlenen van dergelijke uitsluitende of gedeeltelijk uitsluitende licenties 
 
 - –. instrumenten.
 
-#### Artikel 2
+##### Artikel 2
 
 1. In de sectoren waarop het Verenigd Koninkrijk kennis ter beschikking stelt van de Gemeenschap, verlenen de bevoegde instanties, thans de „United Kingdom Atomic Energy Authority” en de „United Kingdom Generating Boards”, aan de Lid-Staten, personen en ondernemingen van de Gemeenschap op verzoek licenties tegen commerciële voorwaarden, indien zij uitsluitende rechten bezitten op in de Lid-Staten van de Gemeenschap verkregen octrooien en voor zover zij geen verplichting of verbintenis jegens derden hebben om een uitsluitende of gedeeltelijk uitsluitende licentie op de rechten op deze octrooien te verlenen of aan te bieden.
 
@@ -2058,19 +2080,19 @@ Het verlenen van dergelijke uitsluitende of gedeeltelijk uitsluitende licenties 
 
 Het verlenen van dergelijke uitsluitende of gedeeltelijk uitsluitende licenties geschiedt op normale commerciële grondslag.
 
-#### 1
+##### 1
 
 De Instellingen van de Europese Economische Gemeenschap zullen de problemen in de sector vismeel en traan bestuderen, ten einde de maatregelen aan te nemen die in deze sector noodzakelijk mochten blijken voor wat betreft de gebruikte grondstof. Deze maatregelen moeten beantwoorden aan de eisen van de bescherming en van een rationele exploitatie van de biologische rijkdommen van de zee, terwijl terzelfder tijd de instelling of handhaving van onvoldoend rendabele produktie-eenheden moet worden voorkomen.
 
-#### 2
+##### 2
 
 De toepassing van de gemeenschappelijke handelsnormen voor bepaalde soorten verse of gekoelde vis mag er niet toe leiden dat enige handelsmethode wordt uitgeschakeld en, omgekeerd, dat enige methode de toepassing van genoemde handelsnormen in de weg staat; de Instellingen van de Europese Economische Gemeenschap kunnen de problemen die zouden rijzen, te gelegener tijd in die geest oplossen.
 
-#### 3
+##### 3
 
 De Europese Economische Gemeenschap is zich bewust van het belang van de Noorse uitvoer van visserijprodukten naar derde landen, welke uitvoer, zoals de overige uitvoer van de Gemeenschap, onderworpen is aan de bepalingen van Verordening (EEG) No. 2142/70.
 
-#### 4
+##### 4
 
 Er is overeengekomen dat de Noorse wet op de handel in vis afkomstig van de verwerkende industrie, van 18 december 1970, ten spoedigste grondig zal worden bestudeerd, ten einde de voorwaarden te bespreken waaronder deze wet kan worden toegepast, gelet op de bepalingen van het communautaire recht.
 
@@ -2078,7 +2100,7 @@ Tijdens de 6e ministeriële zitting van de onderhandelingen tussen de Gemeenscha
 
 De heer P. J. Hillery, Minister van Buitenlandse Zaken van Ierland heeft, namens de Ierse delegatie, geantwoord middels de verklaring die onder II is opgenomen.
 
-#### I. Verklaring die de heer A. Moro, Minister van Buitenlandse Zaken van de Italiaanse Republiek, namens de delegatie van de Gemeenschap heeft afgelegd
+##### I. Verklaring die de heer A. Moro, Minister van Buitenlandse Zaken van de Italiaanse Republiek, namens de delegatie van de Gemeenschap heeft afgelegd
 
 - 1. De Ierse delegatie heeft er met nadruk op gewezen dat de Ierse Regering te kampen heeft met ernstige regionale en structurele verstoringen van het economisch en sociaal evenwicht. Deze delegatie verklaarde dat deze verstoringen gecorrigeerd dienen te worden, wil men die mate van harmonisatie bereiken, die in overeenstemming is met de doelstellingen van de Gemeenschap, en met name met de verwezenlijking van de economische en monetaire unie. De Ierse delegatie heeft de Gemeenschap verzocht zich ertoe te verbinden om met de haar ten dienste staande middelen steun te verlenen aan de programma's van de Ierse Regering om deze verstoringen van het evenwicht op te heffen, en om bij de latere ontwikkeling van een breed opgezet regionaal beleid van de Gemeenschap volledig rekening te willen houden met Ierlands speciale problemen op dit gebied.
 
@@ -2090,7 +2112,7 @@ De heer P. J. Hillery, Minister van Buitenlandse Zaken van Ierland heeft, namens
 
 - 3. Gezien de bovengenoemde bijzondere problemen waarvoor Ierland zich geplaatst ziet, stelt de delegatie van de Gemeenschap voor, aan de Akte van toetreding een Protocol betreffende de economische en industriële ontwikkeling van Ierland te hechten.
 
-#### II. Verklaring die de heer P. J. Hillery, Minister van Buitenlandse Zaken van Ierland, namens de Ierse delegatie heeft afgelegd
+##### II. Verklaring die de heer P. J. Hillery, Minister van Buitenlandse Zaken van Ierland, namens de Ierse delegatie heeft afgelegd
 
 Het doet mij genoegen U te kunnen mededelen dat de Ierse delegatie de tekst aanvaardt van het voorgestelde Protocol betreffende Ierland, waarover tussen onze beide delegaties is beraadslaagd en waarvan de achtergronden duidelijk zijn uiteengezet in Uw inleidende verklaring. De aanvaarde tekst zal de Ierse Regering in staat stellen om voort te gaan met haar plannen voor economische en sociale ontwikkeling, in de wetenschap dat de Gemeenschap, via haar Instellingen en organen, bereid zal zijn om met ons samen te werken bij het streven naar de verwezenlijking van de doelstellingen die wij trachten te bereiken.
 
@@ -2110,7 +2132,7 @@ Tijdens de tweede ministeriële zitting inzake de onderhandelingen tussen de Gem
 
 De twee delegaties zijn tot de slotsom gekomen dat overeenstemming was bereikt op de grondslag van deze twee verklaringen.
 
-#### I. Verklaring van de heer G. Rippon, Kanselier van het Hertogdom Lancaster, mede namens de delegatie van het Verenigd Koninkrijk
+##### I. Verklaring van de heer G. Rippon, Kanselier van het Hertogdom Lancaster, mede namens de delegatie van het Verenigd Koninkrijk
 
 1. Tijdens de eerste ministeriële zitting op 21 juli verklaarde mijn voorganger dat het Verenigd Koninkrijk bereid was om het gemeenschappelijk landbouwbeleid in een uitgebreide Gemeenschap aan te nemen. Hij voegde hieraan evenwel toe dat wij een aantal punten nauwkeurig dienen te overwegen; hiertoe behoren de gevolgen van de communautaire voorschriften met betrekking tot melk, varkensvlees en eieren voor het Verenigd Koninkrijk voor wat betreft de produktie, het in de handel brengen en de consumptie.
 
@@ -2140,7 +2162,7 @@ De uitgebreide Gemeenschap zal zelf in haar behoefte aan eieren kunnen voorzien,
 
 3. Indien U thans formeel kunt bevestigen dat ons inzicht in de mogelijkheden die voor ons openstaan ten aanzien van melk juist is, dat U de standpunten die ik naar voren heb gebracht ten aanzien van het belang en het speciale karakter van de baconmarkt in een uitgebreide Gemeenschap kunt aanvaarden, en de wenselijkheid van stabiliteit op de markt van varkensvlees en van eieren kunt erkennen, dan kunnen wij U onzerzijds verzekeren, dat wij hierover tijdens de onderhandelingen geen punten meer aan de orde behoeven te stellen, tenzij in het algemene verband van de overgangsmaatregelen.
 
-#### II. Verklaring van de heer W. Scheel, Minister van Buitenlandse Zaken van de Bondsrepubliek Duitsland, namens de delegatie van de Gemeenschap
+##### II. Verklaring van de heer W. Scheel, Minister van Buitenlandse Zaken van de Bondsrepubliek Duitsland, namens de delegatie van de Gemeenschap
 
 De delegatie van de Gemeenschap stemt in met Uw analyse van de doelstellingen van het gemeenschappelijk beleid inzake de zuivelsector, de huidige mogelijkheden voor het vaststellen van kleinhandelsprijzen voor consumptiemelk en inzake de activiteiten van niet gouvernementele producentenorganisaties. Voor zover dit nodig is, herinnert zij eraan dat het bij Verordening (EEG) No. 804/68 ingestelde verbod van nationale maatregelen die verevening tussen de prijzen van de verschillende zuivelprodukten mogelijk maken, eveneens doelt op elk nationaal wettelijk voorschrift waarmee een dergelijke verevening wordt beoogd.
 
@@ -2152,13 +2174,13 @@ Tijdens de 8e ministeriële zitting inzake de onderhandelingen tussen de Gemeens
 
 De heer M. Schumann, Minister van Buitenlandse Zaken van de Franse Republiek, heeft, namens de delegatie van de Gemeenschap, geantwoord middels de verklaring die is opgenomen onder II.
 
-#### I. Verklaring van de heer G. Rippon, Kanselier van het Hertogdom Lancaster, namens de delegatie van het Verenigd Koninkrijk
+##### I. Verklaring van de heer G. Rippon, Kanselier van het Hertogdom Lancaster, namens de delegatie van het Verenigd Koninkrijk
 
 Toen de heer Barber in zijn openingsverklaring voor de Conferentie van 30 juni 1970 de landbouwproblemen behandelde, maakte hij gewag van de problemen in verband met de landbouw in bergachtige gebieden. Schotland, Wales, Noord-Ierland, alsmede Noord- en Zuidwest-Engeland bestaan gedeeltelijk uit bergachtige gebieden, waar, wegens het klimaat, de bodemgesteldheid en de geografische omstandigheden, alleen extensieve veeteelt mogelijk is.
 
 De landbouwbedrijven in deze gebieden zijn klein en noodzakelijkerwijs sterk afhankelijk van de marktvoorwaarden, zodat hoge eindprijzen alleen niet toereikend zijn om de levensvatbaarheid van die bedrijven te handhaven. Daarom wordt op grond van de huidige regeling aan die bedrijven steun verleend, zowel in het kader van onze algemene economische en sociale politiek als in dat van ons landbouwbeleid. Verscheidene van de huidige Lid-Staten van de Gemeenschap hebben stellig ook gebieden met soortgelijke problemen, en wij zullen die uiteraard, evenals U, oplossen in overeenstemming met het Verdrag en het gemeenschappelijk landbouwbeleid. Ik zou het op prijs stellen, indien de Gemeenschap mijn opvatting bevestigt dat alle Lid-Staten van de uitgebreide Gemeenschap die soortgelijke moeilijkheden kennen het hoofd dienen te bieden aan het vraagstuk van de handhaving van een redelijk inkomen van de landbouwers in bergachtige gebieden.
 
-#### II. Verklaring van de heer M. Schumann, Minister van Buitenlandse Zaken van de Franse Republiek, namens de delegatie van de Gemeenschap
+##### II. Verklaring van de heer M. Schumann, Minister van Buitenlandse Zaken van de Franse Republiek, namens de delegatie van de Gemeenschap
 
 De delegatie van de Gemeenschap heeft met aandacht kennis genomen van de verklaring van de delegatie van het Verenigd Koninkrijk betreffende de landbouw in bergachtige gebieden in het Verenigd Koninkrijk en de maatregelen die ten gunste van de betrokken gebieden werden genomen.
 
@@ -2170,7 +2192,7 @@ De bijzondere omstandigheden in bepaalde streken van de uitgebreide Gemeenschap 
 
 Vanzelfsprekend dienen dergelijke acties, zoals U zoëven hebt gezegd, te stroken met de bepalingen van het Verdrag en van het gemeenschappelijk landbouwbeleid.
 
-#### I. Voorlichtings- en overlegprocedure met het oog op de aanvaarding van bepaalde besluiten
+##### I. Voorlichtings- en overlegprocedure met het oog op de aanvaarding van bepaalde besluiten
 
 1. Ten einde te waarborgen dat het Koninkrijk Denemarken, Ierland, het Koninkrijk Noorwegen en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, hierna te noemen toetredende Staten, voldoende worden ingelicht, worden alle voorstellen of mededelingen van de Commissie van de Europese Gemeenschappen die kunnen leiden tot besluiten van de Raad van deze Gemeenschappen, na toezending aan de Raad ter kennis van de toetredende Staten gebracht.
 
@@ -2190,37 +2212,37 @@ Vanzelfsprekend dienen dergelijke acties, zoals U zoëven hebt gezegd, te stroke
 
 9. De in de voorafgaande paragrafen omschreven procedure is eveneens van toepassing op alle door de toetredende Staten te nemen besluiten die van invloed kunnen zijn op de verbintenissen die voortvloeien uit hun hoedanigheid van toekomstige leden van de Gemeenschappen.
 
-#### II
+##### II
 
 Het Koninkrijk Denemarken, Ierland, het Koninkrijk Noorwegen en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland nemen de nodige maatregelen om hun toetreding tot de in [artikel 3, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=EERSTE&artikel=3&z=1985-02-01&g=1985-02-01), en [artikel 4, lid 2, van de Akte betreffende de toetredingsvoorwaarden en de aanpassing van de Verdragen](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=EERSTE&artikel=4&z=1985-02-01&g=1985-02-01) bedoelde overeenkomsten of akkoorden, voor zover mogelijk, en overeenkomstig het in die Akte bepaalde, te doen samenvallen met de inwerkingtreding van het Verdrag betreffende de toetreding.
 
 Voor zover de in [artikel 3, lid 1 tweede zin, en lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=EERSTE&artikel=3&z=1985-02-01&g=1985-02-01), bedoelde overeenkomsten en akkoorden slechts in de vorm van een ontwerp bestaan, nog niet zijn ondertekend en waarschijnlijk in het tijdvak dat aan de toetreding voorafgaat niet meer kunnen worden ondertekend, zullen de toetredende Staten worden uitgenodigd om na de ondertekening van het Verdrag betreffende de toetreding volgens passende procedures deel te nemen aan de uitwerking, in positieve zin en zodanig dat de sluiting daarvan wordt bevorderd, van die ontwerpen.
 
-#### III
+##### III
 
 Ten aanzien van de onderhandelingen over de overwogen overeenkomsten met de E.V.A.-landen die niet om toetreding tot de Europese Gemeenschappen hebben verzocht, alsmede van de onderhandelingen over bepaalde aanpassingen van de preferentiële akkoorden die werden gesloten uit hoofde van de Verdragen tot oprichting van de Europese Gemeenschappen, worden de Vertegenwoordigers van de toetredende Staten als waarnemers bij de werkzaamheden betrokken, naast de Vertegenwoordigers van de oorspronkelijke Lid-Staten.
 
 Bepaalde door de Gemeenschap gesloten niet-preferentiële akkoorden die ook na 1 januari 1973 blijven gelden, kunnen worden aangepast om rekening te houden met de uitbreiding van de Gemeenschap. De Gemeenschap zal de Vertegenwoordigers van de toetredende Staten overeenkomstig de in de vorige alinea omschreven procedure bij de onderhandelingen over deze aanpassingen betrekken.
 
-#### IV
+##### IV
 
 Inzake het verdrag inzake de non-proliferatie van kernwapens coördineren het Koninkrijk Denemarken, Ierland en het Koninkrijk Noorwegen hun standpunt met dat van de Europese Gemeenschap van Atoomenergie bij de onderhandelingen over een overeenkomst betreffende verificatie met het Internationale Agentschap voor Atoomenergie (I.A.A.E.). Zij verzoeken in de overeenkomsten betreffende controle die zij met het I.A.A.E. mochten sluiten, om de opname van een bepaling die het hun mogelijk maakt deze overeenkomsten na de toetreding op korte termijn te vervangen door de overeenkomst betreffende verificatie die de Gemeenschap met het Agentschap mocht hebben gesloten.
 
 Het Verenigd Koninkrijk en de Gemeenschap maken in het tijdvak dat aan de toetreding voorafgaat een aanvang met het overleg dat noodzakelijk is vanwege de omstandigheid dat de regeling inzake controle en inspectie die van toepassing is uit hoofde van de overeenkomst tussen verscheidene Lid-Staten en de Europese Gemeenschap voor Atoomenergie enerzijds en het I.A.A.E. anderzijds door het Verenigd Koninkrijk zal worden aanvaard.
 
-#### V
+##### V
 
 Het in [artikel 120, lid 2, van de Akte betreffende de toetredingsvoorwaarden en de aanpassing van de Verdragen](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIERDE&titeldeel=V&artikel=120&z=1985-02-01&g=1985-02-01) bedoelde overleg tussen de toetredende Staten en de Commissie vindt reeds plaats vóór het tijdstip van toetreding.
 
-#### VI
+##### VI
 
 De toetredende Staten verbinden zich ertoe te bewerkstelligen dat de verlening van de in de artikelen 2 van de Protocollen No. 25 tot en met No. 28 betreffende de uitwisseling van kennis op het gebied van de kernenergie bedoelde licenties vóór de toetreding niet opzettelijk wordt versneld ten einde de draagwijdte van de in die Protocollen vervatte verbintenissen te verminderen.
 
-#### VII
+##### VII
 
 De Instellingen van de Gemeenschappen stellen tijdig de in [artikel 153 van de Akte betreffende de toetredingsvoorwaarden en de aanpassing der Verdragen bedoelde bepalingen](https://wetten.overheid.nl/jci1.3:c:BWBV0006523&deel=VIJFDE&titeldeel=II&artikel=153&z=1985-02-01&g=1985-02-01) vast.
 
-#### VIII
+##### VIII
 
 De Gemeenschap treft de nodige maatregelen opdat de in Protocol No. 19 betreffende de alcoholhoudende dranken uit granen bedoelde bepalingen op het tijdstip van de toetreding in werking treden.
 
@@ -2236,7 +2258,7 @@ Overwegende dat over de door de Raad vast te stellen toetredingsvoorwaarden is o
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Het Koninkrijk Denemarken, Ierland, het Koninkrijk Noorwegen en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland kunnen onder de in dit besluit vastgestelde voorwaarden lid worden van de Europese Gemeenschap voor Kolen en Staal door toe te treden tot het Verdrag tot oprichting van deze Gemeenschap, zoals dit Verdrag is gewijzigd of aangevuld.
 
@@ -2244,7 +2266,7 @@ Besluit:
 
 3. De in het in lid 1 genoemde Verdrag voorkomende bepalingen betreffende de rechten en verplichtingen van de Lid-Staten alsmede de algemene en bijzondere bevoegdheden van de Instellingen van de Gemeenschappen, zijn van toepassing ten aanzien van dit besluit.
 
-#### Artikel 2
+##### Artikel 2
 
 De Akten van toetreding van het Koninkrijk Denemarken, Ierland, het Koninkrijk Noorwegen en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland tot de Europese Gemeenschap voor Kolen en Staal zullen op 1 januari 1973 worden neergelegd bij de Regering van de Franse Republiek.
 
@@ -2254,7 +2276,7 @@ Indien echter niet alle in de eerste alinea van dit artikel genoemde Staten tijd
 
 De Regering van de Franse Republiek zendt een voor eensluidend gewaarmerkt afschrift van de Akte van toetreding van elke toetredende Staat toe aan de Regeringen van de Lid-Staten en van de andere toetredende Staten.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit, opgesteld in de Deense, de Duitse, de Engelse, de Franse, de Ierse, de Italiaanse, de Nederlandse en de Noorse taal, zijnde de Deense, de Duitse, de Engelse, de Franse, de Ierse, de Italiaanse en de Nederlandse tekst gelijkelijk authentiek, wordt medegedeeld aan de Lid-Staten van de Europese Gemeenschap voor Kolen en Staal, het Koninkrijk Denemarken, Ierland, het Koninkrijk Noorwegen en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland.
 

@@ -1,13 +1,39 @@
 ---
-title: "Besluit vaststelling subsidieplafond en beleidsregels voor subsidiëring Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Gedetineerdenbegeleiding buitenland geestelijke zorg 2018–2019)"
+title: "Besluit van de Minister van Buitenlandse Zaken van 13 juli 2017, DCV-461/2017, tot vaststelling van een subsidieplafond en beleidsregels voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Gedetineerdenbegeleiding buitenland geestelijke zorg 2018–2019)"
 identifier: "BWBR0039860"
-categorie: "Sociaal recht"
-publicatiedatum: 2017-08-03
-laatste_update: 2017-08-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039860"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-08-03"
+last_updated: "2017-08-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039860"
+soort: "ministeriele-regeling"
+stam_id: "14093263"
+version_id: "24261202"
+internal_id: "C34840961"
+label_id: "14054234"
+dtd_version: "2.0"
+original_entry_into_force: "2017-08-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039860/2017-08-03/0"
+intitule_bron: "Stcrt.2017-44085"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-07-13"
+intitule_published: "2017-08-02"
+intitule_in_force: "2017-08-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-44085"
+original_signed_date: "2017-07-13"
+original_published_date: "2017-08-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-44085"
+entry_into_force_date: "2017-08-03"
+jci_1_3: "jci1.3:c:BWBR0039860&z=2017-08-03&g=2017-08-03"
+jci_1_0: "1.0:c:BWBR0039860&g=2017-08-03"
+citeertitel_status: "redactioneel"
+short_title: "Besluit vaststelling subsidieplafond en beleidsregels voor subsidiëring Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Gedetineerdenbegeleiding buitenland geestelijke zorg 2018–2019)"
+signed_date: "2017-07-13"
+entry_into_force: "2017-08-03"
 ---
-
 # Besluit van de Minister van Buitenlandse Zaken van 13 juli 2017, DCV-461/2017, tot vaststelling van een subsidieplafond en beleidsregels voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Gedetineerdenbegeleiding buitenland geestelijke zorg 2018–2019)
 
 Gelet op [artikel 6 van het Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=6);1Stb. 2005, nr. 137
@@ -16,25 +42,25 @@ Gelet op [artikel 2.6 van de Subsidieregeling Ministerie van Buitenlandse Zaken 
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor subsidieverlening op grond van [artikel 2.6 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artikel=2.6) met het oog op de financiering van activiteiten op het gebied van begeleiding van Nederlandse gedetineerden in het buitenland, in het bijzonder voor geestelijke zorg, gelden de als bijlage bij dit besluit gevoegde beleidsregels.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Voor subsidieverlening in het kader van Gedetineerdenbegeleiding buitenland geestelijke zorg 2018–2019 geldt voor de periode vanaf de inwerkingtreding van dit besluit tot en met 31 december 2019 een subsidieplafond van € 500.000, met dien verstande dat de daarmee gemoeide kasuitgaven niet meer bedragen dan € 250.000 in 2018 en € 250.000 in 2019.
 
 2. Subsidieverlening geschiedt onder de voorwaarde dat voor het deel van de subsidie dat ten laste komt van een nog niet vastgestelde begroting voldoende gelden ter beschikking worden gesteld.
 
-#### Artikel 3
+##### Artikel 3
 
 Aanvragen voor een subsidie voor activiteiten in het kader van Gedetineerdenbegeleiding buitenland geestelijke zorg 2018–2019 worden ingediend vanaf het moment van inwerkingtreding van dit besluit tot en met 30 september 2017.
 
-#### Artikel 4
+##### Artikel 4
 
 De verdeling van het subsidieplafond vindt plaats op grond van een beoordeling overeenkomstig de maatstaven die in de bijlage bij dit besluit zijn neergelegd, met dien verstande dat uit alle aanvragen die voldoen aan de maatstaven, de aanvragen die het beste voldoen aan die maatstaven het eerst voor subsidieverlening in aanmerking komen, binnen het raam van een evenwichtige spreiding als bedoeld in [artikel 8, derde lid, sub d, van het Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=8).
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en vervalt met ingang van 1 januari 2020.
 

@@ -1,13 +1,36 @@
 ---
-title: "Deelreglement Filmactiviteiten van de Stichting Nederlands Fonds voor de film"
+title: "deelreglement Filmactiviteiten van de Stichting Nederlands Fonds voor de film"
 identifier: "BWBR0050634"
-categorie: "Overig"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050634"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050634"
+soort: "zbo"
+stam_id: "17329803"
+version_id: "30537522"
+internal_id: "C43774331"
+label_id: "17234124"
+dtd_version: "2.0"
+original_entry_into_force: "2025-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050634/2025-01-01/0"
+intitule_bron: "Stcrt.2024-42684"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2024-12-30"
+intitule_in_force: "2024-12-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-42684"
+original_published_date: "2024-12-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-42684"
+entry_into_force_date: "2025-01-01"
+jci_1_3: "jci1.3:c:BWBR0050634&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0050634&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Deelreglement Filmactiviteiten van de Stichting Nederlands Fonds voor de film"
+entry_into_force: "2025-01-01"
 ---
-
 # deelreglement Filmactiviteiten van de Stichting Nederlands Fonds voor de film
 
 gelet op het bepaalde in de [Algemene Wet Bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537),
@@ -22,7 +45,7 @@ besluit:
 
 ### Algemeen
 
-#### Artikel 1. - definities -
+##### Artikel 1. - definities -
 
 In dit deelreglement wordt verstaan onder:
 
@@ -64,13 +87,13 @@ In dit deelreglement wordt verstaan onder:
 
 - **training:** een cursus of workshop die gericht is op filmprofessionals met een duur van maximaal één jaar gericht op vakinhoudelijke kennisoverdracht of coaching in een (inter)nationale context. De training vergroot de vakkennis en vaardigheden van de aanvrager in relatie tot filmproducties en heeft aantoonbaar betrekking op de eigen professionele beroepspraktijk.
 
-#### Artikel 2. - toepasselijkheid deelreglement -
+##### Artikel 2. - toepasselijkheid deelreglement -
 
 1. Dit deelreglement is van toepassing op subsidies die het Fonds verstrekt voor professionele filmactiviteiten in de categorieën filmfestival, (inter)nationale filmbijeenkomst, training, onderzoek, filmeducatie en bijzondere bijdragen.
 
 2. Het [Algemeen Reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0050596) zoals van tijd tot tijd vastgesteld is van toepassing naast en in aanvulling op dit deelreglement.
 
-#### Artikel 3. - subsidiesoorten -
+##### Artikel 3. - subsidiesoorten -
 
 1. Het bestuur verstrekt ten behoeve van alle in [artikel 2, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050634&artikel=2&z=2025-01-01&g=2025-01-01) genoemde categorieën subsidies.
 
@@ -78,7 +101,7 @@ In dit deelreglement wordt verstaan onder:
 
 3. Het bestuur kan (internationale) partnerschappen aangaan op het gebied van (inter)nationale filmbijeenkomsten en training om de ontwikkeling en internationale profilering van Nederlands talent te stimuleren.
 
-#### Artikel 4. - aanvraag -
+##### Artikel 4. - aanvraag -
 
 1. Een aanvraag voor subsidie wordt digitaal ingediend.
 
@@ -86,7 +109,7 @@ In dit deelreglement wordt verstaan onder:
 
 3. Aanvragen dienen te voldoen aan de financiële en productionele richtlijnen en vereisten vermeld in het Financieel & Productioneel Protocol. De hoogte van een subsidie kan door het bestuur per geval worden bepaald aan de hand van richtbedragen die jaarlijks worden gepubliceerd op de website van het Fonds [www.filmfonds.nl](http://www.filmfonds.nl) en in het Financieel & Productioneel Protocol.
 
-#### Artikel 5. - aanvrager -
+##### Artikel 5. - aanvrager -
 
 1. Een aanvraag voor een projectmatig verleende subsidie in de categorieën **filmfestival** en **(inter)nationale filmbijeenkomst** wordt gedaan door een op filmgebied gespecialiseerde rechtspersoon, die verantwoordelijk is voor de organisatie van filmfestivals of filmbijeenkomsten
 
@@ -102,19 +125,19 @@ In dit deelreglement wordt verstaan onder:
 
 7. Een aanvraag voor een subsidie in de categorie **bijzondere bijdragen** (zoals bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0050634&artikel=24&z=2025-01-01&g=2025-01-01)) wordt gedaan door een rechtspersoon of natuurlijk persoon, die verantwoordelijk is voor de betreffende filmactiviteit.
 
-#### Artikel 6. - subsidievorm -
+##### Artikel 6. - subsidievorm -
 
 De subsidie, die ten behoeve van de in dit deelreglement genoemde filmactiviteiten wordt verstrekt hoeft niet te worden terugbetaald uit inkomsten tenzij bijzondere omstandigheden een subsidie in de vorm van een lening of garantie rechtvaardigen.
 
-#### Artikel 7. - beoordeling subsidie voor filmactiviteiten -
+##### Artikel 7. - beoordeling subsidie voor filmactiviteiten -
 
 Voor toekenning van de aanvraag dient het oordeel van het bestuur over de kwaliteit van de filmactiviteit positief te zijn. De kwaliteit van de filmactiviteit wordt beoordeeld aan de hand van de beoordelingscriteria in [artikel 5 van het Algemeen Reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0050596&artikel=5) van het Fonds, tenzij in de bijzondere bepalingen ten aanzien van de categorieën anders wordt bepaald.
 
-#### Artikel 8. - onderlinge verhouding subsidies -
+##### Artikel 8. - onderlinge verhouding subsidies -
 
 Het verstrekken van een subsidie in het kader van dit deelreglement bindt het bestuur in geen geval tot het verlenen van enige andere subsidie.
 
-#### Artikel 9. - verplichtingen subsidieontvanger -
+##### Artikel 9. - verplichtingen subsidieontvanger -
 
 De ontvanger van de subsidie is verplicht:
 
@@ -122,7 +145,7 @@ De ontvanger van de subsidie is verplicht:
 
 - b. binnen vier maanden na afloop van de filmactiviteit te rapporteren aan het Fonds volgens de procedure die is opgenomen in het verleningsbesluit tenzij hiervoor in het verleningsbesluit anders is bepaald.
 
-#### Artikel 10. - weigerings- en intrekkingsgronden -
+##### Artikel 10. - weigerings- en intrekkingsgronden -
 
 1. In aanvulling op [artikel 14 van het Algemeen Reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0050596&artikel=14) van het Fonds, wordt een aanvraag voor een subsidie afgewezen indien sprake is van een aanvraag voor dezelfde filmactiviteit ten behoeve waarvan het bestuur reeds eerder een subsidie heeft verleend.
 
@@ -140,7 +163,7 @@ De ontvanger van de subsidie is verplicht:
 
 #### 1. Filmfestival
 
-#### Artikel 11. - subsidiabele activiteit filmfestival -
+##### Artikel 11. - subsidiabele activiteit filmfestival -
 
 1. Een subsidie kan worden verleend voor het organiseren van een filmfestival dat als doel heeft het stimuleren van kennisontwikkeling en – verspreiding over en profilering en promotie van de professionele film in Nederland.
 
@@ -174,7 +197,7 @@ De ontvanger van de subsidie is verplicht:
 
 6. In afwijking van het eerste lid kunnen aanvragers die gedurende ten minste vier aaneensluitende jaren direct voorafgaande aan de aanvraag subsidies voor het filmfestival van het Fonds hebben ontvangen en deze vorige edities succesvol en in lijn met de daaraan gestelde verplichtingen hebben afgerond, een subsidie voor twee jaar aanvragen, voor het organiseren van twee edities van hetzelfde jaarlijks terugkerend filmfestival.
 
-#### Artikel 12. - meerjarige activiteitensubsidie filmfestival -
+##### Artikel 12. - meerjarige activiteitensubsidie filmfestival -
 
 1. Om in aanmerking te komen voor een meerjarige activiteitensubsidie wordt een filmfestival in aanvulling op de voorwaarden en criteria genoemd in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0050634&paragraaf=1&artikel=11&z=2025-01-01&g=2025-01-01) getoetst of het voldoet aan de volgende criteria:
 
@@ -210,7 +233,7 @@ Het betreffende filmfestival biedt daarbij een professioneel programma aan met b
 
 - d. film- en media-educatie en de toegankelijkheid voor kinderen en jongeren.
 
-#### Artikel 13. - aanvraag meerjarige activiteitensubsidie filmfestival -
+##### Artikel 13. - aanvraag meerjarige activiteitensubsidie filmfestival -
 
 1. Een aanvraag voor **meerjarige activiteitensubsidie** in de categorie filmfestival voor de periode 2025–2028 dient uiterlijk maandag 31 januari 2024 om 17:00 uur te zijn ontvangen door het Fonds.
 
@@ -218,7 +241,7 @@ Het betreffende filmfestival biedt daarbij een professioneel programma aan met b
 
 3. Het bestuur stelt vóór 1 december 2023 het subsidieplafond voor meerjarige activiteitensubsidies ten behoeve van filmfestivals vast. Het subsidieplafond wordt gepubliceerd in de Staatscourant en tevens bekendgemaakt op de website van het Fonds: [www.filmfonds.nl](http://www.filmfonds.nl/) en in het Financieel & Productioneel Protocol.
 
-#### Artikel 14. - verdeling budget meerjarige activiteitensubsidie filmfestival -
+##### Artikel 14. - verdeling budget meerjarige activiteitensubsidie filmfestival -
 
 1. Aanvragen voor meerjarige activiteitensubsidie in de categorie filmfestival die aan de voorwaarden voldoen om voor subsidie in aanmerking te komen worden door het bestuur onderverdeeld in de volgende adviescategorieën:
 
@@ -236,13 +259,13 @@ Het betreffende filmfestival biedt daarbij een professioneel programma aan met b
 
 5. Als er na het verdelen van de beschikbare budgetten sprake is van een aanzienlijke lacune in de regionale spreiding van filmfestivals, kan het bestuur besluiten alsnog subsidie toe te kennen aan een aanvrager op wiens aanvraag anders afwijzend zou zijn beschikt.
 
-#### Artikel 15. - verantwoording meerjarige activiteitensubsidie filmfestival -
+##### Artikel 15. - verantwoording meerjarige activiteitensubsidie filmfestival -
 
 In aanvulling op [artikel 19 van het Algemeen Reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0050596&artikel=19) van het Fonds is de subsidieontvanger verplicht om de verantwoording over de financiën en de resultaten van het filmfestival over het jaar daarvoor, evenals de afrekening van de vorige editie en het evaluatieformulier uiterlijk 3 maanden vóór de volgende editie bij het Fonds in te leveren.
 
 #### 2. (Inter)nationale filmbijeenkomst
 
-#### Artikel 16. - subsidiabele activiteit -
+##### Artikel 16. - subsidiabele activiteit -
 
 Subsidie kan worden verleend voor:
 
@@ -254,7 +277,7 @@ Subsidie kan worden verleend voor:
 
 - b. een internationale filmbijeenkomst in Nederland of in het buitenland, zijnde een presentatie of promotionele en op de Nederlandse filmsector gerichte activiteit, bedoeld voor filmprofessionals, met als doel het stimuleren van internationale coproductie en de Nederlandse filmindustrie in het buitenland.
 
-#### Artikel 17. - vereisten aanvraag -
+##### Artikel 17. - vereisten aanvraag -
 
 1. Uitsluitend filmbijeenkomsten in Nederland als bedoeld onder [artikel 16, sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0050634&paragraaf=2&artikel=16&z=2025-01-01&g=2025-01-01), die voldoen aan de volgende voorwaarden komen voor subsidie in aanmerking:
 
@@ -302,7 +325,7 @@ Subsidie kan worden verleend voor:
 
 #### 3. Training
 
-#### Artikel 18. - subsidiabele activiteit -
+##### Artikel 18. - subsidiabele activiteit -
 
 1. Subsidie kan worden verleend voor deelname aan of het organiseren van een training in het binnen- of buitenland op het gebied van de ontwikkeling, (post)productie, distributie en/of vertoning van filmproducties en innovatie van de filmsector.
 
@@ -332,11 +355,11 @@ Het bestuur publiceert op de website van het Fonds: [www.filmfonds.nl](http://ww
 
 6. Het bestuur kan ook een subsidie verlenen aan een landelijk creative skills en talent lab dat naast trajecten voor talentontwikkeling, skills-training biedt voor filmprofessionals betrokken bij de ontwikkeling en productie van films.
 
-#### Artikel 19. - verplichtingen -
+##### Artikel 19. - verplichtingen -
 
 De ontvanger van een subsidie voor deelname aan een training dient – indien van toepassing – een bewijs van inschrijving of deelname voor de training van de organiserende instelling na bekendmaking van de verlening van de subsidie te overleggen aan het Fonds.
 
-#### Artikel 20. - weigeringsgronden -
+##### Artikel 20. - weigeringsgronden -
 
 In aanvulling op [artikel 14 van het Algemeen Reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0050596&artikel=14), wordt een aanvraag voor een subsidie afgewezen indien:
 
@@ -352,13 +375,13 @@ In aanvulling op [artikel 14 van het Algemeen Reglement](https://wetten.overheid
 
 #### 4. Onderzoek
 
-#### Artikel 21. - subsidiabele activiteit -
+##### Artikel 21. - subsidiabele activiteit -
 
 Subsidie kan worden verleend voor onderzoek dat voor de Nederlandse filmsector relevant, en op de praktijk gericht is.
 
 #### 5. Filmeducatiehub
 
-#### Artikel 22. - subsidiabele activiteit -
+##### Artikel 22. - subsidiabele activiteit -
 
 1. Een meerjarige activiteitensubsidie voor twee jaar kan worden verleend aan een filmeducatiehub voor het vervullen van een coördinerende rol in het samenbrengen van vraag en aanbod op het gebied van film- en beeldeducatie in een afgebakende regio. Het gaat daarbij om activiteiten ter bevordering van zowel actief als receptief filmonderwijs. Filmeducatiehubs vormen onderling een netwerk dat is aangesloten bij het Landelijk Netwerk Filmeducatie.
 
@@ -386,13 +409,13 @@ Subsidie kan worden verleend voor onderzoek dat voor de Nederlandse filmsector r
 
 #### 6. Bijzondere bijdragen
 
-#### Artikel 23. - subsidiabele activiteit -
+##### Artikel 23. - subsidiabele activiteit -
 
 Subsidie kan worden verleend voor de uitvoering van een innovatieve filmactiviteit op het gebied van diversiteit en duurzaamheid, productie, promotie & marketing, distributie, filmeducatie en vertoning. De activiteit dient ter versterking van de Nederlandse filmsector of heeft vanuit de relatie met de Nederlandse film een bijzondere maatschappelijke impact als gevolg.
 
 ### Overgangs- en slotbepalingen
 
-#### Artikel 24
+##### Artikel 24
 
 1. In alle gevallen waarin dit deelreglement niet voorziet, beslist het bestuur.
 

@@ -1,13 +1,37 @@
 ---
 title: "Verzoeningsverdrag tussen Nederland en Zweden"
 identifier: "BWBV0005968"
-categorie: "Internationaal recht"
-publicatiedatum: 1928-07-27
-laatste_update: 1928-07-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005968"
+country: "nl"
+rank: "verdrag"
+publication_date: "1928-07-27"
+last_updated: "1928-07-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005968"
+soort: "verdrag"
+stam_id: "10004964093"
+version_id: "10005281652"
+internal_id: "C10008124031"
+label_id: "10004947464"
+dtd_version: "2.0"
+original_entry_into_force: "1928-07-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005968/1928-07-27/0"
+intitule_bron: "Stb.1928-335"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1928-08-18"
+intitule_published: "1928-09-05"
+intitule_in_force: "1928-09-05"
+intitule_status: "goed"
+original_publication: "Stb.1928-335"
+original_signed_date: "1928-08-18"
+original_published_date: "1928-09-05"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1928-07-27"
+jci_1_3: "jci1.3:c:BWBV0005968&z=1928-07-27&g=1928-07-27"
+jci_1_0: "1.0:c:BWBV0005968&g=1928-07-27"
+citeertitel_status: "redactioneel"
+signed_date: "1928-08-18"
+entry_into_force: "1928-07-27"
 ---
-
 # Verzoeningsverdrag tussen Nederland en Zweden
 
 HARE MAJESTEIT DE KONINGIN DER NEDERLANDEN
@@ -24,13 +48,13 @@ Zijne Majesteit de Koning van Zweden: Zijne Excellentie den Heer A. J. P. ADLERC
 
 die, na elkander mededeeling te hebben gedaan van hun wederzijdsche volmachten, welke in goeden en behoorlijken vorm zijn bevonden, omtrent de volgende bepalingen zijn overeengekomen.
 
-#### Artikel 1
+##### Artikel 1
 
 Elk geschil, van welken aard het ook zij, dat tusschen de Hooge verdragsluitende Partijen mocht rijzen en dat niet binnen redelijken tijd langs diplomatieken weg mocht kunnen worden opgelost en dat niet vatbaar zou zijn voor beslechting door rechtspraak of arbitrage overeenkomstig artikel 36, alinea 2, van het Statuut van het Permanente Hof van Internationale Justitie, of overeenkomstig eenige andere internationale overeenkomst, die tusschen de Hooge verdragsluitende Partijen van kracht mocht zijn, zal — op verzoek van één of van beide Partijen — worden onderworpen aan een permanente verzoeningscommissie ter fine van onderzoek en verslag.
 
 De Hooge verdragsluitende Partijen kunnen overeenkomen, dat een geschil, dat vatbaar zou zijn voor een beslechting door rechtspraak of arbitrage, te voren onderworpen worde aan de verzoeningsprocedure. Wanneer bij een dergelijk geschil één der Partijen binnen redelijken tijd de voorstellen van de commissie niet aanvaardt, zal elk harer het geschil kunnen onderwerpen aan het Permanente Hof van Internationale Justitie.
 
-#### Artikel 2
+##### Artikel 2
 
 De permanente verzoeningscommissie is uit vijf leden samengesteld.
 
@@ -42,7 +66,7 @@ De Commissie zal worden samengesteld binnen zes maanden na de uitwisseling der b
 
 Wanneer de benoeming van de in gemeen overleg aan te wijzen leden of van den voorzitter niet plaats vindt binnen zes maanden, te rekenen van de uitwisseling der bekrachtigingsoorkonden of, in geval van aftreding of overlijden, binnen twee maanden na het openvallen van den zetel, zal de President van den Zwitserschen Bond, zoo noodig door één der Partijen, worden uitgenoodigd tot die benoemingen over te gaan.
 
-#### Artikel 3
+##### Artikel 3
 
 De leden van de Commissie worden benoemd voor drie jaren. Behoudens overeenstemming tusschen de Hooge verdragsluitende Partijen omtrent het tegendeel, zullen zij tijdens den duur van hun opdracht daarvan niet kunnen worden ontheven. In geval van overlijden of aftreding van een lid zal in zijn vervanging moeten worden voorzien voor het overige van den duur van zijn opdracht.
 
@@ -50,11 +74,11 @@ Wanneer de opdracht van een lid, dat bij gemeen overleg is aangewezen, afloopt, 
 
 Een lid, wiens opdracht afloopt gedurende den loop van een procedure, blijft deelnemen aan het onderzoek van het geschil tot aan de sluiting van de procedure.
 
-#### Artikel 4
+##### Artikel 4
 
 De verzoeningscommissie zal bepalen waar haar zetel gevestigd zal zijn. Het zal haar vrijstaan te beslissen, dat die zetel naar elders zal worden overgebracht.
 
-#### Artikel 5
+##### Artikel 5
 
 Binnen veertien dagen volgende op de kennisgeving van een verzoek om verzoening aan de permanente Commissie, zal elk der Hooge verdragsluitende Partijen het lid dat door haar naar vrije keuze is aangewezen, kunnen vervangen door iemand, die een bijzondere kennis van zaken heeft ten aanzien van het onderwerp, waarover het geschil loopt.
 
@@ -66,37 +90,37 @@ Wanneer de aanwijzing van dezen plaatsvervanger niet plaats vindt binnen een tij
 
 Elke Partij behoudt zich voor onmiddellijk een plaatsvervanger te benoemen om tijdelijk het door haar aangewezen permanent lid te vervangen dat, tengevolge van ziekte of door eenige andere omstandigheid, voor het oogenblik verhinderd zal zijn deel te nemen aan de werkzaamheden van de Commissie. De Partij, die mocht wenschen van dit recht gebruik te maken, zal daarvan onmiddellijk mededeeling doen aan de tegenpartij.
 
-#### Artikel 6
+##### Artikel 6
 
 De verzoeningscommissie heeft tot taak elk geschil te onderzoeken, dat haar door de Hooge verdragsluitende Partijen zal worden voorgelegd, en een verslag op te stellen, waarin de feitelijke stand van zaken zal worden vastgesteld en dat, telkens wanneer de omstandigheden dat zullen veroorloven, voorstellen zal bevatten met het oog op de beslechting van het geschil.
 
-#### Artikel 7
+##### Artikel 7
 
 De zaak wordt bij de verzoeningscommissie aanhangig gemaakt bij verzoekschrift door de twee Hooge verdragsluitende Partijen of één van haar aan haren voorzitter gericht. In het laatste geval zal ter zelfder tijd aan de andere Partij kennis worden gegeven van het verzoekschrift.
 
-#### Artikel 8
+##### Artikel 8
 
 De Hooge verdragsluitende Partijen hebben het recht bij de verzoeningscommissie bijzondere vertegenwoordigers te benoemen, die ter zelfder tijd als tusschenpersonen zullen optreden tusschen haar en de Commissie.
 
-#### Artikel 9
+##### Artikel 9
 
 De Hooge verdragsluitende Partijen verplichten zich in de grootst mogelijke mate de werkzaamheden van de verzoeningscommissie te zullen vergemakkelijken en in het bijzonder om gebruik te maken van de middelen die haar ten dienste staan, volgens hare binnenlandsche wetgeving, om de Commissie in staat te stellen op haar grondgebied over te gaan tot het oproepen en hooren van getuigen of deskundigen, evenals tot een onderzoek ter plaatse. De Commissie zal beslissen of de bewijslevering zal geschieden in volledige zitting of voor een of meerdere van die leden, welke gemeenschappelijk zijn aangewezen.
 
-#### Artikel 10
+##### Artikel 10
 
 De beraadslagingen van de Commissie hebben met gesloten deuren plaats, tenzij de Commissie in overeenstemming met de Partijen anders beslist.
 
-#### Artikel 11
+##### Artikel 11
 
 De procedure voor de Commissie heeft op tegenspraak plaats.
 
 De Commissie zal zelf de procedure regelen, daarbij rekening houdend — tenzij eenstemmig tot het tegendeel wordt besloten — met de bepalingen vervat in titel III van de Conventie van 's Gravenhage van 18 October 1907 voor de vreedzame beslechting van internationale geschillen.
 
-#### Artikel 12
+##### Artikel 12
 
 Behoudens een bepaling in tegenovergestelden zin van dit verdrag, worden de beslissingen van de Commissie bij eenvoudige meerderheid van stemmen genomen.
 
-#### Artikel 13
+##### Artikel 13
 
 De Commissie zal haar verslag overleggen binnen zes maanden te rekenen vanaf den dag, waarop het geschil bij haar zal zijn aanhangig gemaakt, tenzij de Hooge verdragsluitende Partijen in gemeen overleg besluiten dezen termijn te verkorten of te verlengen. De Commissie van haar kant heeft het recht dien termijn éénmaal te verlengen. Wanneer de procedure eenmaal begonnen is zal het den Hoogen verdragsluitenden Partijen niet meer vrijstaan dien te verkorten.
 
@@ -110,17 +134,17 @@ Bij de mededeeling van het verslag kan de Commissie aan de twee Partijen in over
 
 Het staat aan de Partijen overeen te komen of het verslag al of niet dadelijk openbaar zal worden gemaakt. Voor het geval zij het daar niet eens over mochten worden, kan de Commissie van haar kant, om bijzondere redenen, tot een dadelijke openbaarmaking overgaan.
 
-#### Artikel 14
+##### Artikel 14
 
 Tijdens den werkelijken duur van de procedure ontvangen de leden van de Commissie een vergoeding, waarvan het bedrag zal worden vastgesteld tusschen de Hooge verdragsluitende Partijen.
 
 Iedere Partij draagt haar eigen kosten en een gelijk deel van de kosten der Commissie.
 
-#### Artikel 15
+##### Artikel 15
 
 Gedurende den loop van de verzoeningsprocedure zullen de Hooge verdragsluitende Partijen zich onthouden van elken maatregel, die een nadeelige uitwerking zou kunnen hebben op de aanneming van de voorstellen der permanente verzoeningscommissie.
 
-#### Artikel 16
+##### Artikel 16
 
 Dit verdrag zal worden bekrachtigd en de bekrachtigingsoorkonden zullen zoo spoedig mogelijk te Stockholm worden uitgewisseld.
 

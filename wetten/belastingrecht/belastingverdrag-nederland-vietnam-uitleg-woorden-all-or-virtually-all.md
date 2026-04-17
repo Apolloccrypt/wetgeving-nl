@@ -1,13 +1,37 @@
 ---
 title: "Belastingverdrag Nederland – Vietnam, uitleg woorden ,,all or virtually all’’"
 identifier: "BWBR0028051"
-categorie: "Belastingrecht"
-publicatiedatum: 1995-11-28
-laatste_update: 1995-11-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028051"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "1995-11-28"
+last_updated: "1995-11-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028051"
+soort: "beleidsregel"
+stam_id: "10638583"
+version_id: "17575812"
+internal_id: "C24352461"
+label_id: "10613344"
+dtd_version: "2.0"
+original_entry_into_force: "1995-11-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028051/1995-11-28/0"
+intitule_bron: "Infob.1995-1038"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-11-28"
+intitule_published: "1995-01-01"
+intitule_in_force: "1995-01-01"
+intitule_status: "goed"
+original_publication: "Infob.1995-1038"
+original_signed_date: "1995-11-28"
+original_published_date: "1995-01-01"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1995-11-28"
+jci_1_3: "jci1.3:c:BWBR0028051&z=1995-11-28&g=1995-11-28"
+jci_1_0: "1.0:c:BWBR0028051&g=1995-11-28"
+citeertitel_status: "redactioneel"
+signed_date: "1995-11-28"
+entry_into_force: "1995-11-28"
 ---
-
 # Belastingverdrag Nederland – Vietnam, uitleg woorden ,,all or virtually all’’
 
 De Directeur-Generaal voor Fiscale Zaken heeft namens de Staatssecretaris van Financiën het volgende besloten.

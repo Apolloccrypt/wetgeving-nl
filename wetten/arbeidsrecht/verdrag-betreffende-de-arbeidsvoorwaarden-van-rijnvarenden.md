@@ -1,13 +1,35 @@
 ---
 title: "Verdrag betreffende de arbeidsvoorwaarden van Rijnvarenden"
 identifier: "BWBV0003279"
-categorie: "Arbeidsrecht"
-publicatiedatum: 1959-12-01
-laatste_update: 1959-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003279"
+country: "nl"
+rank: "verdrag"
+publication_date: "1959-12-01"
+last_updated: "1959-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003279"
+soort: "verdrag"
+stam_id: "10003459123"
+version_id: "10003506592"
+internal_id: "C10006989111"
+label_id: "10003445514"
+dtd_version: "2.0"
+original_entry_into_force: "1959-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003279/1959-12-01/0"
+intitule_bron: "Trb.1954-121"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1954-09-24"
+intitule_in_force: "1959-12-30"
+intitule_status: "goed"
+original_publication: "Trb.1954-121"
+original_published_date: "1954-09-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1954-121"
+entry_into_force_date: "1959-12-01"
+jci_1_3: "jci1.3:c:BWBV0003279&z=1959-12-01&g=1959-12-01"
+jci_1_0: "1.0:c:BWBV0003279&g=1959-12-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1959-12-01"
 ---
-
 # Verdrag betreffende de arbeidsvoorwaarden van Rijnvarenden
 
 De Bondsrepubliek Duitsland, het Koninkrijk België, de Franse Republiek, het Koninkrijk der Nederlanden en de Zwitserse Bondsstaat,
@@ -18,7 +40,7 @@ Hebben de volgende bepalingen aangenomen:
 
 ## TITEL I. Werkingssfeer van het Verdrag
 
-#### Artikel 1
+##### Artikel 1
 
 1. Dit Verdrag is van toepassing aan boord van alle schepen, welke gebruikt worden om met handelsdoeleinden goederen te vervoeren en welke toegelaten zijn tot de vaart op de Rijn krachtens [artikel 22 van de herziene Rijnvaartakte](https://wetten.overheid.nl/jci1.3:c:BWBV0003363&artikel=22), ondertekend te Mannheim op 17 October 1868, met inachtneming van de later in die acte aangebrachte wijzigingen.
 
@@ -38,13 +60,13 @@ Hebben de volgende bepalingen aangenomen:
 
 - g). schepen, als bedoeld in lid 1 van dit artikel gedurende een reis, waarbij in het geheel niet op de Rijn wordt gevaren.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Behoudens de hierna genoemde uitzonderingen, heeft dit Verdrag betrekking op elk lid van de bemanning van schepen aan boord waarvan dit Verdrag van toepassing is, alsmede op de kapitein of schipper, indien deze in loondienst werkzaam is.
 
 2. Deze personen worden hierna aangeduid als „Rijnvarenden”.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De titels IV, V, VIII en IX van dit Verdrag zijn niet van toepassing op Rijnvarenden, die zijn:
 
@@ -54,19 +76,19 @@ Hebben de volgende bepalingen aangenomen:
 
 2. Voor de toepassing van dit artikel wordt onder eigenaar verstaan elke Rijnvarende, die tenminste een vierde deel van het schip bezit of die enig deel als erfgenaam bezit.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De titels V, VII, VIII en IX van dit Verdrag zijn niet van toepassing aan boord van schepen, welke gedurende het grootste gedeelte van de reis andere waterwegen dan de Rijn bevaren en de Rijn slechts bij het begin of aan het einde van hun reis gebruiken.
 
 2. Voorzover de collectieve arbeidsovereenkomsten betreffende de bemanningen der in lid 1 van dit artikel bedoelde schepen uitzonderingen bevatten, die in artikel 8 van dit Verdrag niet zijn genoemd, zullen deze uitzonderingen van toepassing zijn.
 
-#### Artikel 5
+##### Artikel 5
 
 Niets in dit Verdrag zal geacht worden inbreuk te maken op enige wettelijke bepaling, enig gebruik of enige overeenkomst tussen werkgevers en werknemers, welke aan boord van schepen, ingeschreven in het gebied van een van de Verdragsluitende Staten gunstiger arbeidsvoorwaarden aan de werknemers verzekert dan die in dit Verdrag bepaald.
 
 ## TITEL II. Samenstelling van de bemanningen
 
-#### Artikel 6
+##### Artikel 6
 
 De bemanningen van schepen, aan boord waarvan dit Verdrag van toepassing is, moeten voldoende zijn om:
 
@@ -76,7 +98,7 @@ De bemanningen van schepen, aan boord waarvan dit Verdrag van toepassing is, moe
 
 ## TITEL III. Nachtrust tijdens de vaart
 
-#### Artikel 7
+##### Artikel 7
 
 1. Tijdens de vaart hebben de Rijnvarenden recht op een nachtrust, welke niet korter is dan:
 
@@ -88,7 +110,7 @@ De bemanningen van schepen, aan boord waarvan dit Verdrag van toepassing is, moe
 
 3. Bij landelijke collectieve arbeidsovereenkomst of bij nationale wetgeving kan worden voorzien, dat de nachtrust, vastgesteld in het eerste lid van dit artikel, wordt vervangen door een dagelijkse rusttijd van dezelfde duur, waarvan echter ten minste zeven achtereenvolgende uren moeten vallen tussen 8 uur des namiddags en 6 uur des voormiddags.
 
-#### Artikel 8
+##### Artikel 8
 
 In afwijking van het bepaalde in artikel 7 van dit Verdrag kan de nachtrust verkort worden:
 
@@ -108,13 +130,13 @@ In afwijking van het bepaalde in artikel 7 van dit Verdrag kan de nachtrust verk
 
 ## TITEL IV. Arbeidsduur in de Haven en op de plaatsen waar de schepen geladen en gelost worden
 
-#### Artikel 9
+##### Artikel 9
 
 1. Wanneer een schip zich in de haven of op enige andere laad-of losplaats bevindt, is de arbeidsduur van de Rijnvarenden, die aan boord van dit schip zijn, dezelfde als die, welke door de plaatselijke regelingen is voorgeschreven.
 
 2. De normale arbeidsduur mag echter 48 uren per week en 8 uren per dag niet overschrijden, behoudens de in de plaatselijke regelingen voorziene afwijkingen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Wanneer een schip in de loop van dezelfde dag vaart en zijn lading laadt of lost, mag de totale arbeidsduur van de Rijnvarenden 12 uren niet overschrijden, behalve wanneer het de in artikel 13 voorziene uren betreft.
 
@@ -124,19 +146,19 @@ In afwijking van het bepaalde in artikel 7 van dit Verdrag kan de nachtrust verk
 
 ## TITEL V. Overuren
 
-#### Artikel 11
+##### Artikel 11
 
 Wanneer de nachtrust, bepaald in artikel 7, lid 1, verkort wordt door toepassing van het bepaalde in artikel 8, worden de uren, waarmede de nachtrust aldus verkort wordt, als overuren beschouwd, waarover de betrokken Rijnvarenden recht hebben op een vergoeding overeenkomstig het bepaalde in artikel 14, lid 1.
 
-#### Artikel 12
+##### Artikel 12
 
 De uren, waarop gewerkt is en die de in de leden 1 en 2 van artikel 9 aangegeven grenzen te boven gaan, worden geacht overuren te zijn, waarover de Rijnvarenden recht hebben op een vergoeding overeenkomstig het bepaalde in artikel 14.
 
-#### Artikel 13
+##### Artikel 13
 
 Wanneer een schip zich in de haven of op enige andere laad- of losplaats bevindt, worden de uren, waarop gewerkt is, tussen 7 uur des namiddags en 6 uur des voormiddags, alsmede die op Zondagen en op de feestdagen, genoemd in artikel 115 of in de collectieve arbeidsovereenkomsten geldend voor de betrokken Rijnvarenden, als overuren beschouwd, waarover de betrokken Rijnvarenden recht hebben op een vergoeding overeenkomstig het bepaalde in artikel 14.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Het tarief of de tarieven voor de vergoeding voor de overuren zijn die, welke bij de nationale wettelijke regelingen zijn voorgeschreven of bij collectieve arbeidsovereenkomst zijn vastgesteld.
 
@@ -144,7 +166,7 @@ Wanneer een schip zich in de haven of op enige andere laad- of losplaats bevindt
 
 ## TITEL VI. Feestdagen
 
-#### Artikel 15
+##### Artikel 15
 
 1. Behoudens in de gevallen genoemd in artikel 8 onder **b), d)** en **f),** is een Rijnvarende, in de loop van een jaar, niet gehouden te werken op minstens zeven feestdagen, welke door elke Verdragsluitende Staat moeten worden vastgesteld naar keuze uit de volgende acht dagen: Nieuwjaarsdag, eerste en tweede Paasdag, 1 Mei, eerste en tweede Pinksterdag en eerste en tweede Kerstdag.
 
@@ -154,7 +176,7 @@ Wanneer een schip zich in de haven of op enige andere laad- of losplaats bevindt
 
 ## TITEL VII. Wekelijkse rustdag
 
-#### Artikel 16
+##### Artikel 16
 
 1. Een Rijnvarende moet gemiddeld voor elke 6 werkdagen een rustdag genieten, welke verleend moet worden binnen een termijn van ten hoogste 3 maanden.
 
@@ -162,23 +184,23 @@ Wanneer een schip zich in de haven of op enige andere laad- of losplaats bevindt
 
 3. Onder de wekelijkse rustdagen moeten voorzover mogelijk 26 Zondagen per jaar zijn.
 
-#### Artikel 17
+##### Artikel 17
 
 Indien de arbeidsovereenkomst wordt opgezegd, worden de wekelijkse rustdagen verleend gedurende de opzeggingstermijn van de arbeidsovereenkomst.
 
 ## TITEL VIII. Jaarlijkse vacantie met behoud van loon
 
-#### Artikel 18
+##### Artikel 18
 
 1. De Rijnvarenden hebben recht op een jaarlijkse vacantie met behoud van loon van ten minste één werkdag per maand ononderbroken dienst in dezelfde onderneming tot een beloop van 12 werkdagen per jaar. Deze vacantie is slechts opeisbaar na zes maanden dienst.
 
 2. Wanneer de vacantie, waarop de Rijnvarende recht heeft, zes dagen of meer bedraagt, moeten ten minste zes vacantiedagen achtereenvolgend worden verleend.
 
-#### Artikel 19
+##### Artikel 19
 
 De Rijnvarenden, die alvorens zes maanden dienst te hebben verricht hun betrekking op rechtmatige wijze beëindigen of wie ontslag wordt verleend zonder dat er sprake is van grove schuld hunnerzijds, hebben recht op één werkdag vacantie met behoud van loon voor elke maand dienst, welke zij hebben verricht.
 
-#### Artikel 20
+##### Artikel 20
 
 Als jaarlijkse vacantiedagen met behoud van loon worden niet beschouwd:
 
@@ -188,7 +210,7 @@ Als jaarlijkse vacantiedagen met behoud van loon worden niet beschouwd:
 
 - c). de reisdagen naar en van de woonplaats, indien de jaarlijkse vacantie, op verzoek van de werkgever, niet achtereenvolgend wordt genomen.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Een Rijnvarende, die zijn jaarlijkse vacantie met behoud van loon neemt, heeft recht op zijn gebruikelijke beloning tijdens de duur van zijn vacantie.
 
@@ -196,17 +218,17 @@ Als jaarlijkse vacantiedagen met behoud van loon worden niet beschouwd:
 
 ## TITEL IX. Bijzondere toelagen
 
-#### Artikel 22
+##### Artikel 22
 
 De voor bewakingsdoeleinden aan boord gebleven Rijnvarenden hebben behalve op het compenserende verlof, waarop zij uit dien hoofde aanspraak kunnen maken, recht op een bijzondere vergoeding indien deze wachtdienst verricht wordt op een der feestdagen, aangegeven in artikel 15 of in collectieve arbeidsovereenkomsten, van toepassing op deze Rijnvarenden.
 
-#### Artikel 23
+##### Artikel 23
 
 Gedurende de maanden Juni tot en met September ontvangt het machinekamerpersoneel van stoomschepen een passende hittetoeslag.
 
 ## TITEL X. Uitlegging van het Verdrag
 
-#### Artikel 24
+##### Artikel 24
 
 1. Elk geschil, dat ontstaat tussen twee of meer der Verdragsluitende Staten, betreffende de uitlegging of de toepassing van dit Verdrag, zal door rechtstreekse onderhandelingen tussen de daarbij betrokken regeringen worden opgelost.
 
@@ -216,7 +238,7 @@ Gedurende de maanden Juni tot en met September ontvangt het machinekamerpersonee
 
 ## TITEL XI. Toepassing van het Verdrag
 
-#### Artikel 25
+##### Artikel 25
 
 1. In elke Verdragsluitende Staat en aan boord van elk schip waarop dit Verdrag van toepassing is en dat toebehoort aan rederijen of aan particulieren, die hun hoofdkantoor op het grondgebied van de betrokken Staat hebben, zal aan dit Verdrag door alle passendemaatregelen en in het bijzonder door middel van collectieve arbeidsovereenkomsten, uitvoering worden gegeven. Indien een particulier geen hoofdkantoor bezit op het grondgebied van de betrokken Staat, wordt voor de toepassing van dit Verdrag zijn woonplaats als zodanig beschouwd.
 
@@ -234,7 +256,7 @@ Gedurende de maanden Juni tot en met September ontvangt het machinekamerpersonee
 
 5. De regering van een Verdragsluitende Staat, die geen Rijnoeverstaat is en op wiens grondgebied een rederij of een particulier gevestigd is, die op het grondgebied van een Rijnoeverstaat of van België over een bijkantoor beschikt, kan regelingen treffen met de regering van die Staat, opdat deze gedeeltelijk of geheel in de plaats van de eerstgenoemde Staat zou kunnen treden voor de controle op de naleving van dit Verdrag.
 
-#### Artikel 26
+##### Artikel 26
 
 Tenzij bij collectieve arbeidsovereenkomst of bij individuele arbeidsovereenkomst anders is bepaald, gelden ten aanzien van geschillen, gerezen tussen werkgevers en Rijnvarenden, ongeacht de nationaliteit van de Rijnvarende, de navolgende regelingen:
 
@@ -248,7 +270,7 @@ Tenzij bij collectieve arbeidsovereenkomst of bij individuele arbeidsovereenkoms
 
 ## TITEL XII. Driedelige commissies en Jaarrapporten
 
-#### Artikel 27
+##### Artikel 27
 
 - (i). Een driedelige commissie wordt ingesteld, waarin voor elke Verdragsluitende Staat twee regeringsvertegenwoordigers, een vertegenwoordiger van de betrokken werkgevers en een vertegenwoordiger van de Rijnvarenden zitting hebben. Het Internationaal Arbeidsbureau neemt deel aan de werkzaamheden van de driedelige commissie.
 
@@ -264,25 +286,25 @@ Tenzij bij collectieve arbeidsovereenkomst of bij individuele arbeidsovereenkoms
 
 ## TITEL XIII. Slotbepalingen
 
-#### Artikel 28
+##### Artikel 28
 
 De ondertekening van dit Verdrag staat open voor de Staten, welke vertegenwoordigd zijn in de Centrale Commissie voor de Rijnvaart. Het zal aan bekrachtiging worden onderworpen.
 
-#### Artikel 29
+##### Artikel 29
 
 Elke bekrachtigingsoorkonde van dit Verdrag zal worden neergelegd bij de Directeur-Generaal van het Internationaal Arbeidsbureau, die deze zal inschrijven en de ontvangst zal mededelen aan de Staten, genoemd in artikel 28.
 
-#### Artikel 30
+##### Artikel 30
 
 Dit Verdrag zal in werking treden op de eerste dag van de derde maand, volgende op die, waarin de laatste bekrachtigingsoorkonde van alle Verdragsluitende Rijnoever staten en België zal zijn neergelegd. Voor elk der overige Staten, vertegenwoordigd in de Centrale Commissie voor de Rijnvaart, zal het in werking treden de eerste dag van de derde maand, volgende op die, waarin hij zijn bekrachtigingsoorkonde heeft neergelegd.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Dit Verdrag wordt gesloten voor de duur van drie jaar. Het zal daarna van jaar tot jaar stilzwijgend verlengd worden, behoudens het recht van elke Verdragsluitende Staat het Verdrag op te zeggen dóór kennisgeving aan de Directeur-Generaal van het Internationaal Arbeidsbureau. De opzegging wordt van kracht een jaar na ontvangst van de kennisgeving.
 
 2. Indien de opzegging wordt gedaan door een der Verdragsluitende Rijnoeverstaten of België, zal het Verdrag ophouden van toepassing te zijn op alle andere partijen van de datum af, waarop de opzegging van kracht wordt.
 
-#### Artikel 32
+##### Artikel 32
 
 1. De Franse tekst van dit Verdrag is de authentieke tekst en zal van de ondertekening van de Verdragsluitende Partijen worden voorzien en worden neergelegd in de archieven van het Internationaal Arbeidsbureau.
 
@@ -292,7 +314,7 @@ Dit Verdrag zal in werking treden op de eerste dag van de derde maand, volgende 
 
 4. Officiële vertalingen in het Engels, het Duits en het Nederlands zullen worden opgesteld door het Internationaal Arbeidsbureau en worden toegezonden aan de betrokken landen.
 
-#### Artikel 33
+##### Artikel 33
 
 Overeenkomstig [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102), zal de Directeur-Generaal van het Internationaal Arbeidsbureau aan de Secretaris-Generaal van de Verenigde Naties van elke bekrachtiging en elke opzegging, welke te zijner kennis zijn gebracht, ter registratie mededeling doen.
 

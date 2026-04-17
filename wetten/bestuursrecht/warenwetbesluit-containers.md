@@ -1,13 +1,38 @@
 ---
-title: "Warenwetbesluit containers"
+title: "Besluit van 25 maart 1983, tot vaststelling van een algemene maatregel van bestuur ter uitvoering van de Wet op de gevaarlijke werktuigen (Stb. 1952, 104)"
 identifier: "BWBR0003584"
-categorie: "Bestuursrecht"
-publicatiedatum: 2006-04-01
-laatste_update: 2006-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003584"
+country: "nl"
+rank: "amvb"
+publication_date: "2006-04-01"
+last_updated: "2006-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003584"
+soort: "AMvB"
+stam_id: "338963"
+version_id: "11204332"
+internal_id: "C15134751"
+label_id: "331614"
+dtd_version: "2.0"
+original_entry_into_force: "2003-07-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003584/2006-04-01/0"
+intitule_bron: "Stb.1983-177"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1983-03-25"
+intitule_in_force: "1985-06-28"
+intitule_status: "goed"
+original_publication: "Stb.2003-315"
+original_signed_date: "2003-07-03"
+original_published_date: "2003-07-31"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2003-315"
+entry_into_force_date: "2003-07-03"
+jci_1_3: "jci1.3:c:BWBR0003584&z=2006-04-01&g=2006-04-01"
+jci_1_0: "1.0:c:BWBR0003584&g=2006-04-01"
+citeertitel_status: "officieel"
+short_title: "Warenwetbesluit containers"
+signed_date: "2003-07-03"
+entry_into_force: "2003-07-03"
 ---
-
 # Besluit van 25 maart 1983, tot vaststelling van een algemene maatregel van bestuur ter uitvoering van de Wet op de gevaarlijke werktuigen (Stb. 1952, 104)
 
 Op de voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, mevr. mr. A. Kappeyne van de Coppello, in overeenstemming met Onze Minister van Verkeer en Waterstaat, van 24 januari 1983, Directoraat-Generaal van de Arbeid, Hoofdafdeling Wetgevingsbeleid, nr. 130773;
@@ -24,7 +49,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk I. Inleidende bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -38,7 +63,7 @@ In dit besluit wordt verstaan onder:
 
 - e. aangewezen instelling: een krachtens [artikel 7a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=7a) met betrekking tot de keuring van containers aangewezen instelling.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het is verboden containers die niet voldoen aan de vervaardigingsvoorschriften van [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&hoofdstuk=II&z=2006-04-01&g=2006-04-01), te vervaardigen, te verhandelen of te gebruiken.
 
@@ -50,17 +75,17 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk Ia. Verbodsbepalingen
 
-#### Artikel 3
+##### Artikel 3
 
 Een container is van zodanige materialen vervaardigd en is ook overigens zodanig uitgevoerd, dat hij een keuring als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&hoofdstuk=III&artikel=8&z=2006-04-01&g=2006-04-01) kan doorstaan, zonder dat een blijvende vormverandering of een andere afwijking ontstaat, die de container ongeschikt maakt voor het gebruik waarvoor hij bestemd is.
 
-#### Artikel 4
+##### Artikel 4
 
 Onze Minister kan met betrekking tot containers die uitgerust zijn met een of meer onderdelen, bestemd om slechts te worden gebruikt wanneer de containers in onbeladen toestand worden gehesen of geheven, regels stellen ten aanzien van het aanbrengen van kentekenen op die containers.
 
 ### Hoofdstuk III. Keuring
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een container wordt gekeurd.
 
@@ -68,11 +93,11 @@ Onze Minister kan met betrekking tot containers die uitgerust zijn met een of me
 
 3. Voor de toepassing van het tweede lid zijn containers onderling gelijk, indien zij slechts zodanig afwijken van het goedgekeurde monster of de goedgekeurde monsters dat de afwijking naar het oordeel van de aangewezen instelling de resultaten van een keuring als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&hoofdstuk=III&artikel=8&z=2006-04-01&g=2006-04-01) niet op onaanvaardbare wijze beïnvloedt. De aangewezen instelling verricht daartoe beproevingen en onderzoekingen op door haar aan te wijzen monsters.
 
-#### Artikel 6
+##### Artikel 6
 
 Een te keuren container wordt in bedrijfsvaardige staat voor keuring beschikbaar gesteld.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Bij toepassing van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&hoofdstuk=III&artikel=5&z=2006-04-01&g=2006-04-01), gaat de aanvraag van de keuring vergezeld van:
 
@@ -82,7 +107,7 @@ Een te keuren container wordt in bedrijfsvaardige staat voor keuring beschikbaar
 
 2. De aangewezen instelling is bevoegd aanvullende gegevens te verlangen, indien zij dat in het belang van het verrichten van de keuring noodzakelijk acht.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De keuring omvat:
 
@@ -102,27 +127,27 @@ Een te keuren container wordt in bedrijfsvaardige staat voor keuring beschikbaar
 
 2. Onze Minister kan met betrekking tot het in het eerste lid bepaalde nadere regelen stellen.
 
-#### Artikel 9
+##### Artikel 9
 
 De aangewezen instelling geeft de gekeurde container of containers in de staat waarin deze zich na de keuring bevindt onderscheidenlijk bevinden, aan de aanvrager terug.
 
-#### Artikel 9a
+##### Artikel 9a
 
 De aangewezen instelling is bevoegd om ten aanzien van goedgekeurde containers die zodanig zijn gewijzigd dat daardoor structurele veranderingen zijn ontstaan, een passende, hernieuwde beproeving van de container te verlangen voordat een nieuw certificaat wordt afgegeven.
 
 ### Hoofdstuk IV. Verkeers- en gebruiksvoorschriften
 
-#### Artikel 10
+##### Artikel 10
 
 Degene die een container belaadt of vervoert, zorgt ervoor dat de container zodanig wordt beladen onderscheidenlijk vastgezet, dat hij niet wordt onderworpen aan grotere krachten dan waarvoor hij ontworpen is.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De eigenaar van een container zorgt ervoor dat de container, indien deze wordt voorhanden gehouden, afgeleverd, vervoerd, gebruikt of ten toon gesteld, in een veilige staat verkeert.
 
 2. Voor de naleving van het eerste lid wordt de container in elk geval na verloop van ten hoogste vijf jaren sedert de datum van gereedkoming en vervolgens telkens na verloop van ten hoogste twee-en-een-half jaar op zijn veilige staat onderzocht.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De eigenaar van een container zorgt ervoor dat op de container, indien deze wordt vervoerd, verhandeld of gebruikt, duidelijk de maand en het jaar vermeld zijn, voor het begin waarvan de container ingevolge [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&hoofdstuk=IV&artikel=11&z=2006-04-01&g=2006-04-01), moet worden onderzocht.
 
@@ -130,15 +155,15 @@ Degene die een container belaadt of vervoert, zorgt ervoor dat de container zoda
 
 3. Ontheffing van het eerste lid bepaalde wordt slechts verleend, indien de eigenaar aantoont dat de container regelmatig op zijn veilige staat wordt onderzocht.
 
-#### Artikel 13
+##### Artikel 13
 
 De eigenaar van een container waarvan geen meerdere onderling gelijke exemplaren worden vervaardigd, zorgt ervoor dat, indien de container wordt vervoerd, verhandeld, gebruikt, hersteld, onderhouden of nagezien, het merk van goedkeuring duurzaam aangebracht is op een goed zichtbare en zo weinig mogelijk kwetsbare plaats op de container nabij andere wettelijk voorgeschreven aanduidingen.
 
-#### Artikel 13a
+##### Artikel 13a
 
 De eigenaar van een container zorgt er voor dat op de container, indien deze wordt vervoerd, verhandeld, of gebruikt, alle aanduidingen van de maximale brutomassa overeenstemmen met de gegevens inzake de maximale brutomassa op het merk van goedkeuring.
 
-#### Artikel 13b
+##### Artikel 13b
 
 De eigenaar van een container verwijdert het merk van goedkeuring indien:
 
@@ -148,17 +173,17 @@ De eigenaar van een container verwijdert het merk van goedkeuring indien:
 
 - c. de goedkeuring door de aangewezen instelling is ingetrokken.
 
-#### Artikel 13c
+##### Artikel 13c
 
 De eigenaar van een container die na de goedkeuring zodanig is gewijzigd dat daardoor structurele veranderingen zijn ontstaan stelt de aangewezen instelling daarvan in kennis.
 
-#### Artikel 14
+##### Artikel 14
 
 Het bepaalde in [de artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&hoofdstuk=IV&artikel=11&z=2006-04-01&g=2006-04-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&hoofdstuk=IV&artikel=12&z=2006-04-01&g=2006-04-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&hoofdstuk=IV&artikel=13&z=2006-04-01&g=2006-04-01), [13a](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&hoofdstuk=IV&artikel=13a&z=2006-04-01&g=2006-04-01), [13b](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&hoofdstuk=IV&artikel=13b&z=2006-04-01&g=2006-04-01) en [13c](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&hoofdstuk=IV&artikel=13c&z=2006-04-01&g=2006-04-01) is van overeenkomstige toepassing op degene die ingevolge een overeenkomst met de eigenaar verplicht is tot naleving van die artikelen.
 
 ### Hoofdstuk V. Merk van afkeuring
 
-#### Artikel 15
+##### Artikel 15
 
 1. Als aangewezen instelling kan worden aangewezen een instelling die:
 
@@ -178,33 +203,33 @@ Het bepaalde in [de artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR000358
 
 ### Hoofdstuk VI. Overgangs- en slotbepalingen
 
-#### Artikel 16
+##### Artikel 16
 
 Dit besluit berust op de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=1), [3 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=3), [11a](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=11a), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=14), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=16) en [32b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=32b).
 
-#### Artikel 17
+##### Artikel 17
 
 Dit besluit kan worden aangehaald als "Warenwetbesluit containers".
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
-#### Artikel 19
+##### Artikel 19
 
 Vervallen
 
-#### Artikel 20
+##### Artikel 20
 
 Dit besluit kan worden aangehaald als "Besluit containers".
 
-#### Artikel 21
+##### Artikel 21
 
 Dit besluit treedt in werking op een door Ons te bepalen tijdstip.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Dit besluit is niet van toepassing op:
 
@@ -218,7 +243,7 @@ Dit besluit is niet van toepassing op:
 
 ### Hoofdstuk III. Keuring
 
-#### Artikel 8a
+##### Artikel 8a
 
 1. Nadat de keuring heeft plaatsgevonden worden containers die naar het oordeel van de aangewezen instelling voldoen aan artikel 3 voorzien van een merk van goedkeuring.
 
@@ -238,17 +263,17 @@ Aan een bevoegdverklaring als bedoeld onder b kunnen voorschriften worden verbon
 
 ### Hoofdstuk V. Aangewezen instellingen
 
-#### Artikel 15a
+##### Artikel 15a
 
 De aangewezen instelling verstrekt jaarlijks aan Onze Minister een afschrift van de polis van de afgesloten verzekering tegen wettelijke aansprakelijkheid tegen alle risico's die voortvloeien uit de uitoefening van de taken waarvoor zij is aangewezen.
 
-#### Artikel 15b
+##### Artikel 15b
 
 1. Indien een wijziging plaatsvindt in de gegevens op grond waarvan de instelling is aangewezen, doet de instelling hiervan terstond mededeling aan Onze Minister.
 
 2. Indien een instelling voornemens is een of meer van de taken waarvoor zij is aangewezen, te beëindigen, doet de instelling hiervan terstond mededeling aan Onze Minister en de certificaathouders. In dat geval worden door de instelling de gegevens, bedoeld in artikel 15, eerste lid, onder e, overgedragen aan Onze Minister dan wel, na toestemming van Onze Minister en de certificaathouders, een andere instelling die voor dezelfde taken is aangewezen.
 
-#### Artikel 15c
+##### Artikel 15c
 
 1. Een aanvraag om aanwijzing gaat vergezeld van het bewijs dat is voldaan aan de criteria, bedoeld in artikel 15, eerste lid, dan wel van een verklaring waaruit de bereidheid blijkt om voor eigen rekening een onderzoek naar het voldoen aan deze criteria te ondergaan.
 

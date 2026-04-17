@@ -1,13 +1,35 @@
 ---
 title: "Verdrag betreffende de automatische erkenning van diploma’s in het hoger onderwijs"
 identifier: "BWBV0006932"
-categorie: "Onderwijs"
-publicatiedatum: 2024-05-01
-laatste_update: 2024-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006932"
+country: "nl"
+rank: "verdrag"
+publication_date: "2024-05-01"
+last_updated: "2024-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006932"
+soort: "verdrag"
+stam_id: "10005597113"
+version_id: "10006134412"
+internal_id: "C10010088991"
+label_id: "10005579204"
+dtd_version: "2.0"
+original_entry_into_force: "2024-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006932/2024-05-01/0"
+intitule_bron: "Trb.2021-122"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2021-10-05"
+intitule_in_force: "2024-05-15"
+intitule_status: "goed"
+original_publication: "Trb.2021-122"
+original_published_date: "2021-10-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2021-122"
+entry_into_force_date: "2024-05-01"
+jci_1_3: "jci1.3:c:BWBV0006932&z=2024-05-01&g=2024-05-01"
+jci_1_0: "1.0:c:BWBV0006932&g=2024-05-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2024-05-01"
 ---
-
 # Verdrag betreffende de automatische erkenning van diploma’s in het hoger onderwijs
 
 Het Koninkrijk België, vertegenwoordigd door:
@@ -52,7 +74,7 @@ Vastbesloten om zodoende een voortrekkersrol te blijven vervullen in het kader v
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Doelstellingen en toepassingsgebied
+##### Artikel 1. Doelstellingen en toepassingsgebied
 
 1. Dit Verdrag strekt ertoe te waarborgen dat een overeenkomstig de wetgeving van een van de Partijen uitgereikt diploma hoger onderwijs dat deel uitmaakt van het hogeronderwijsstelsel van die Partij en gerelateerd is aan het Europees kwalificatiekader voor levenslang leren (hierna te noemen „het EQF”), automatisch wordt erkend op hetzelfde niveau als de overeenkomstige diploma’s hoger onderwijs die door alle andere Partijen worden uitgereikt.
 
@@ -70,7 +92,7 @@ Zijn het volgende overeengekomen:
 
 Wat deze elementen betreft, laat dit Verdrag de toepasselijke bepalingen en beginselen van het Verdrag van Lissabon inzake erkenning en de bijbehorende teksten, de relevante bepalingen die in het kader van de Europese Unie zijn vastgesteld en de desbetreffende bepalingen van de wetgeving van de Partijen onverlet.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 1. Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -90,13 +112,13 @@ Wat deze elementen betreft, laat dit Verdrag de toepasselijke bepalingen en begi
 
 2. De in onderhavig Verdrag gebruikte termen hebben dezelfde definitie als in het Verdrag van Lissabon inzake erkenning, tenzij dit onverenigbaar is met de bepalingen van onderhavig Verdrag of de [Bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBV0006932&bijlage=I&z=2024-05-01&g=2024-05-01) hierbij.
 
-#### Artikel 3. Algemene bepaling inzake automatische erkenning
+##### Artikel 3. Algemene bepaling inzake automatische erkenning
 
 1. Binnen alle Partijen geldt de automatische erkenning voor elk diploma hoger onderwijs dat overeenkomstig de wetgeving van een van de Partijen is uitgereikt, deel uitmaakt van het hogeronderwijsstelsel van die Partij en is vermeld in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0006932&bijlage=I&z=2024-05-01&g=2024-05-01), mits aan de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006932&artikel=4&z=2024-05-01&g=2024-05-01) van dit Verdrag bepaalde voorwaarden is voldaan.
 
 2. De automatische erkenning overeenkomstig lid 1 van dit artikel geschiedt zonder verdere procedure.
 
-#### Artikel 4. Voorwaarden voor automatische erkenning
+##### Artikel 4. Voorwaarden voor automatische erkenning
 
 1. **Associate degrees** genieten automatische erkenning overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006932&artikel=3&z=2024-05-01&g=2024-05-01) van dit Verdrag, mits aan alle onderstaande voorwaarden is voldaan:
 
@@ -116,7 +138,7 @@ Het ontbreken van een dergelijke verklaring namens een Partij doet geen afbreuk 
 
 3. Doctoraatsdiploma’s komen in aanmerking voor automatische erkenning overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006932&artikel=3&z=2024-05-01&g=2024-05-01) van dit Verdrag, op voorwaarde dat het doctoraatsdiploma is verleend door een instelling voor hoger onderwijs of een andere daartoe bevoegde instantie overeenkomstig de wetgeving van de Partij waar het doctoraatsdiploma is uitgereikt, voor zover die instelling of instantie valt onder [Bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0006932&bijlage=IV&z=2024-05-01&g=2024-05-01) bij dit Verdrag.
 
-#### Artikel 5. Vrijwaringsclausule
+##### Artikel 5. Vrijwaringsclausule
 
 1. Wanneer de automatische erkenning overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006932&artikel=3&z=2024-05-01&g=2024-05-01) van dit Verdrag in buitengewone omstandigheden aanzienlijke moeilijkheden voor het hogeronderwijsstelsel van een Partij veroorzaakt of dreigt te veroorzaken, kan die Partij vrijwaringsmaatregelen nemen ten aanzien van het betrokken diploma of de betrokken diploma’s, mits deze maatregelen strikt noodzakelijk zijn en geen afbreuk doen aan de toepasselijke bepalingen en beginselen van het Verdrag van Lissabon inzake erkenning en de bijbehorende teksten, de relevante bepalingen van andere toepasselijke regelingen en de desbetreffende bepalingen van de wetgeving van de betrokken Partij.
 
@@ -124,25 +146,25 @@ Het ontbreken van een dergelijke verklaring namens een Partij doet geen afbreuk 
 
 3. Elke Partij blijft te allen tijde waakzaam om misbruik van dit Verdrag te vermijden, met name om te voorkomen dat erkenningsbesluiten die vóór de inwerkingtreding van dit Verdrag zijn genomen, worden omzeild. In geval van bekend misbruik neemt de betrokken Partij alle nodige maatregelen om de betreffende gevallen uit te sluiten van de toepassing van dit Verdrag. Die Partij deelt deze gevallen ook mee aan de depositaris, die alle andere Partijen daarvan in kennis stelt.
 
-#### Artikel 6. Informatievoorziening en -uitwisseling
+##### Artikel 6. Informatievoorziening en -uitwisseling
 
 1. De Partijen stellen informatie over dit Verdrag en de gevolgen ervan op ruime schaal ter beschikking van het grote publiek. Informatie over dit Verdrag, met inbegrip van de tekst ervan, is beschikbaar op de websites van de bevoegde autoriteiten van elk van de Partijen en hun centra die deel uitmaken van het Europees netwerk van nationale informatiecentra voor academische mobiliteit en erkenning (hierna te noemen „het ENIC-netwerk”).
 
 2. De bevoegde autoriteiten van elk van de Partijen en hun centra die deel uitmaken van het ENIC-netwerk wisselen onderling informatie uit over de hogeronderwijsstelsels van de Partijen en de toepassing van dit Verdrag binnen de Partijen.
 
-#### Artikel 7. Toegang tot hoger onderwijs
+##### Artikel 7. Toegang tot hoger onderwijs
 
 Onverminderd bestaande of toekomstige regelingen tussen twee of meer Partijen met betrekking tot diploma’s die toegang geven tot het hoger onderwijs, worden de Partijen verzocht informatie uit te wisselen over de algemene vereisten voor toegang tot het hoger onderwijs die zij overeenkomstig hun wetgeving toepassen en over de diploma’s die toegang geven tot het hoger onderwijs.
 
-#### Artikel 8. [Bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBV0006932&bijlage=I&z=2024-05-01&g=2024-05-01)
+##### Artikel 8. [Bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBV0006932&bijlage=I&z=2024-05-01&g=2024-05-01)
 
 Bijlagen I tot en met IV maken een integrerend deel uit van dit Verdrag.
 
-#### Artikel 9. Geschillen
+##### Artikel 9. Geschillen
 
 Onverminderd het bepaalde in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006932&artikel=5&z=2024-05-01&g=2024-05-01) van dit Verdrag worden eventuele geschillen betreffende de interpretatie of toepassing van dit Verdrag via onderhandelingen te goeder trouw door de Partijen beslecht.
 
-#### Artikel 10. Territoriale toepassing
+##### Artikel 10. Territoriale toepassing
 
 1. Dit Verdrag is van toepassing op het grondgebied van het Koninkrijk België, het grondgebied van de Republiek Estland, het grondgebied van de Republiek Letland, het grondgebied van de Republiek Litouwen en het grondgebied van het Groothertogdom Luxemburg.
 
@@ -150,11 +172,11 @@ Onverminderd het bepaalde in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWB
 
 3. Na toetreding overeenkomstig [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0006932&artikel=13&z=2024-05-01&g=2024-05-01) is dit Verdrag eveneens van toepassing op het grondgebied van de toetredende Staat of het deel daarvan dat onder de toetreding valt.
 
-#### Artikel 11. Depositaris
+##### Artikel 11. Depositaris
 
 Het Secretariaat-Generaal van de Benelux Unie is depositaris van dit Verdrag. De depositaris doet elke Partij een gewaarmerkt afschrift van dit Verdrag toekomen.
 
-#### Artikel 12. Inwerkingtreding, wijziging en beëindiging
+##### Artikel 12. Inwerkingtreding, wijziging en beëindiging
 
 1. Dit Verdrag wordt door elke Partij bekrachtigd, aanvaard of goedgekeurd overeenkomstig haar grondwettelijke procedures.
 
@@ -168,7 +190,7 @@ Het Secretariaat-Generaal van de Benelux Unie is depositaris van dit Verdrag. De
 
 6. Dit Verdrag wordt voor onbepaalde tijd gesloten. Elk van de Partijen kan dit Verdrag schriftelijk opzeggen door hiervan mededeling te doen aan de depositaris, die de overige Partijen daarvan in kennis stelt. Dit Verdrag is zes maanden na de datum van ontvangst door de depositaris van deze mededeling voor de betrokken Partij niet langer van kracht, terwijl het van kracht blijft voor de overige Partijen.
 
-#### Artikel 13. Toetreding
+##### Artikel 13. Toetreding
 
 1. Elke Staat die het Verdrag van Lissabon inzake erkenning heeft geratificeerd en deel uitmaakt van de Europese Hogeronderwijsruimte kan verzoeken om toetreding tot dit Verdrag, op voorwaarde dat:
 

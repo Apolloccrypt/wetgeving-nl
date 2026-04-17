@@ -1,20 +1,42 @@
 ---
 title: "Bestuursreglement ZonMw 2019"
 identifier: "BWBR0042194"
-categorie: "Bestuursrecht"
-publicatiedatum: 2019-05-07
-laatste_update: 2019-05-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042194"
+country: "nl"
+rank: "zbo"
+publication_date: "2019-05-07"
+last_updated: "2019-05-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042194"
+soort: "zbo"
+stam_id: "15069083"
+version_id: "25827472"
+internal_id: "C36818041"
+label_id: "15018224"
+dtd_version: "2.0"
+original_entry_into_force: "2019-05-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042194/2019-05-07/0"
+intitule_bron: "Stcrt.2019-24893"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2019-05-07"
+intitule_in_force: "2019-05-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-24893"
+original_published_date: "2019-05-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-24893"
+entry_into_force_date: "2019-05-07"
+jci_1_3: "jci1.3:c:BWBR0042194&z=2019-05-07&g=2019-05-07"
+jci_1_0: "1.0:c:BWBR0042194&g=2019-05-07"
+citeertitel_status: "officieel"
+entry_into_force: "2019-05-07"
 ---
-
 # Bestuursreglement ZonMw 2019
 
 Tekst van het bestuursreglement van de organisatie ZorgOnderzoek Nederland, tevens domeinreglement van het NWO domein Medische Wetenschappen, tevens bestuursreglement van het samenwerkingsverband ZonMw, zoals goedgekeurd door de Minister van Volksgezondheid, Welzijn en Sport en door de raad van bestuur NWO en vastgesteld door het bestuur ZonMw
 
 ### 1. Inleiding
 
-#### Artikel 1.1. Begripsbepalingen
+##### Artikel 1.1. Begripsbepalingen
 
 In dit bestuursreglement wordt verstaan onder:
 
@@ -44,7 +66,7 @@ In dit bestuursreglement wordt verstaan onder:
 
 - m. **ZonMw:** samenwerkingsverband tussen ZON en het MW Domein.
 
-#### Artikel 1.2. Juridische grondslag
+##### Artikel 1.2. Juridische grondslag
 
 1. Dit bestuursreglement is het reglement als bedoeld in [artikel 7 Wet ZON](https://wetten.overheid.nl/jci1.3:c:BWBR0009385&artikel=7) en in [artikel 6.5 van het Bestuursreglement NWO](https://wetten.overheid.nl/jci1.3:c:BWBR0039246&artikel=6.5).
 
@@ -52,21 +74,21 @@ In dit bestuursreglement wordt verstaan onder:
 
 3. Dit bestuursreglement is op 14 maart 2019 vastgesteld door het bestuur ZonMw, na voorafgaande goedkeuring door de Minister van VWS en door de raad van bestuur NWO.
 
-#### Artikel 1.3. Integriteit en persoonlijke belangen
+##### Artikel 1.3. Integriteit en persoonlijke belangen
 
 1. Elk lid van het bestuur, commissies of werkgroepen handelt integer en transparant.
 
 2. ZonMw hanteert een gedragscode om te voorkomen dat vooringenomenheid de besluitvorming beïnvloedt.
 
-#### Artikel 1.4. Citeertitel en inwerkingtreding
+##### Artikel 1.4. Citeertitel en inwerkingtreding
 
 Dit bestuursreglement kan worden aangehaald als “Bestuursreglement ZonMw 2019”, treedt in werking na publicatie in de Staatscourant en werkt terug tot 1 januari 2019.
 
-#### Artikel 1.5. Intrekking oude reglement
+##### Artikel 1.5. Intrekking oude reglement
 
 Het Bestuursreglement ZON, NWO-MW en ZonMw d.d. 7 maart 2013 komt op het moment van inwerkingtreding van dit bestuursreglement te vervallen.
 
-#### Artikel 1.6. Wijziging
+##### Artikel 1.6. Wijziging
 
 1. Een besluit tot wijziging van dit bestuursreglement wordt bij volstrekte meerderheid van de uitgebrachte stemmen genomen in een vergadering van het bestuur ZonMw, waarin tenminste tweederde van het aantal in functie zijnde bestuursleden aanwezig of vertegenwoordigd is.
 
@@ -74,7 +96,7 @@ Het Bestuursreglement ZON, NWO-MW en ZonMw d.d. 7 maart 2013 komt op het moment 
 
 ### 2. Bestuur ZonMw
 
-#### Artikel 2.1. Samenstelling en benoeming
+##### Artikel 2.1. Samenstelling en benoeming
 
 1. Het bestuur ZonMw wordt gevormd door het bestuur ZON en het bestuur van het MW domein. Het lidmaatschap van het bestuur ZON en het lidmaatschap van het bestuur van het MW domein wordt uitgeoefend door dezelfde personen (personele unie).
 
@@ -90,7 +112,7 @@ Het Bestuursreglement ZON, NWO-MW en ZonMw d.d. 7 maart 2013 komt op het moment 
 
 7. De voorzitter en de leden worden benoemd voor een periode van drie jaar en kunnen eenmaal worden herbenoemd.
 
-#### Artikel 2.2. Taak en besluitvorming
+##### Artikel 2.2. Taak en besluitvorming
 
 1. Het bestuur is belast met het besturen van ZonMw.
 
@@ -114,13 +136,13 @@ Het Bestuursreglement ZON, NWO-MW en ZonMw d.d. 7 maart 2013 komt op het moment 
 
 11. Het bestuur beslist niet over zaken die NWO betreffen. In die gevallen beslist het bestuur eerst na verkregen toestemming van de raad van bestuur NWO
 
-#### Artikel 2.3. Vertegenwoordiging
+##### Artikel 2.3. Vertegenwoordiging
 
 1. De voorzitter en secretaris van het bestuur vertegenwoordigen ZonMw gezamenlijk in en buiten rechte.
 
 2. Voor zover het om zaken gaat die NWO betreffen vindt vertegenwoordiging plaats krachtens een desbetreffend mandaat van de voorzitter van de raad van bestuur NWO.
 
-#### Artikel 2.4. Vergaderwijze
+##### Artikel 2.4. Vergaderwijze
 
 1. Het bestuur komt minimaal viermaal per jaar in vergadering bijeen en voorts zo dikwijls als de voorzitter, diens plaatsvervanger of twee andere leden van het bestuur dit schriftelijk verzoeken.
 
@@ -136,7 +158,7 @@ Het Bestuursreglement ZON, NWO-MW en ZonMw d.d. 7 maart 2013 komt op het moment 
 
 7. De leden van het bestuur zijn bevoegd zich door een schriftelijke volmacht door een ander lid van het bestuur ter vergadering te doen vertegenwoordigen. Een lid kan maximaal één ander lid vertegenwoordigen.
 
-#### Artikel 2.5. Vergoeding
+##### Artikel 2.5. Vergoeding
 
 1. De voorzitter en de leden van een bestuur ontvangen voor hun werkzaamheden een vergoeding volgens de [Vergoedingenregeling bestuur ZorgOnderzoek Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0020781), zoals vastgesteld door Minister van VWS. Daarnaast ontvangen zij een vergoeding voor reis- en verblijfkosten volgens het [Reisbesluit Binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889). Daarbij wordt eveneens rekening gehouden met de NWO Regeling Vergoedingen Bestuurs- en Advieswerkzaamheden.
 
@@ -144,7 +166,7 @@ Het Bestuursreglement ZON, NWO-MW en ZonMw d.d. 7 maart 2013 komt op het moment 
 
 ### 3. Directeur
 
-#### Artikel 3.1. Verantwoordelijkheid
+##### Artikel 3.1. Verantwoordelijkheid
 
 De directeur heeft binnen de door het bestuur bepaalde kaders integrale verantwoordelijkheid voor ZonMw en legt verantwoording af aan het bestuur.
 
@@ -160,7 +182,7 @@ De verantwoordelijkheid bevat onder meer:
 
 - e. leiding geven aan de leden van het managementteam.
 
-#### Artikel 3.2. Taken en bevoegdheden
+##### Artikel 3.2. Taken en bevoegdheden
 
 1. Het bestuur verleent aan de directeur mandaat, volmacht en machtiging tot het namens het bestuur nemen van besluiten ter uitoefening van zijn taken en bevoegdheden, het verrichten van de daarmee verbonden rechtshandelingen en het verrichten van de daarmee samenhangende feitelijke handelingen.
 
@@ -194,7 +216,7 @@ De verantwoordelijkheid bevat onder meer:
 
 ### 4. Programmacommissies
 
-#### Artikel 4.1. Instelling
+##### Artikel 4.1. Instelling
 
 1. Commissies worden ingesteld door het bestuur.
 
@@ -208,7 +230,7 @@ De verantwoordelijkheid bevat onder meer:
 
 6. Het bestuur heeft de bevoegdheid af te wijken van het in deze paragraaf gestelde wanneer er sprake is van een ingestelde commissie tezamen met derden of indien dit noodzakelijk is voor de uitvoering van de taak van de commissie.
 
-#### Artikel 4.2. Taak
+##### Artikel 4.2. Taak
 
 Een commissie heeft in opdracht en onder eindverantwoordelijkheid van het bestuur tot taak:
 
@@ -224,7 +246,7 @@ Een commissie heeft in opdracht en onder eindverantwoordelijkheid van het bestuu
 
 - f. de zelfevaluatie van het programma.
 
-#### Artikel 4.3. Samenstelling en benoeming
+##### Artikel 4.3. Samenstelling en benoeming
 
 1. Het bestuur benoemt, schorst en ontslaat de voorzitter, de plaatsvervangend voorzitter en de leden van een commissie.
 
@@ -242,7 +264,7 @@ Een commissie heeft in opdracht en onder eindverantwoordelijkheid van het bestuu
 
 8. Bestuursleden en medewerkers van ZonMw kunnen geen lid zijn van een commissie.
 
-#### Artikel 4.4. Vergaderwijze
+##### Artikel 4.4. Vergaderwijze
 
 1. Een commissie komt in vergadering bijeen in de navolgende gevallen:
 
@@ -264,19 +286,19 @@ Een commissie heeft in opdracht en onder eindverantwoordelijkheid van het bestuu
 
 7. De besluitvorming, als bedoeld in het zesde lid, wordt opgenomen in het verslag van de eerst volgende vergadering.
 
-#### Artikel 4.5. Beoordelingsprocedure
+##### Artikel 4.5. Beoordelingsprocedure
 
 1. De door het bestuur vastgestelde procedure voor de beoordeling van aanvragen is bindend voor een commissie.
 
 2. Van deze procedure kan slechts worden afgeweken na goedkeuring door de directeur.
 
-#### Artikel 4.6. Vergoeding
+##### Artikel 4.6. Vergoeding
 
 1. De voorzitter en de leden van een commissie ontvangen voor hun werkzaamheden een vergoeding per vergadering volgens het [Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279). Daarnaast ontvangen zij een vergoeding voor reis- en verblijfkosten volgens het [Reisbesluit Binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889). Rekening wordt gehouden met de Regeling vergoedingen bestuurs- en advieswerkzaamheden NWO.
 
 2. Voor aangepast vervoer van mensen met een functiebeperking kan door het bestuur een afzonderlijke regeling getroffen worden.
 
-#### Artikel 4.7. Ondersteuning
+##### Artikel 4.7. Ondersteuning
 
 1. Een commissie wordt bij haar werkzaamheden bijgestaan door medewerkers.
 
@@ -288,7 +310,7 @@ Een commissie heeft in opdracht en onder eindverantwoordelijkheid van het bestuu
 
 ### 5. Werkgroepen
 
-#### Artikel 5.1. Instelling
+##### Artikel 5.1. Instelling
 
 1. Ter ondersteuning of ter overneming van een gedeelte van haar taak kan een commissie met goedkeuring van de directeur een of meer werkgroepen instellen.
 
@@ -298,7 +320,7 @@ Een commissie heeft in opdracht en onder eindverantwoordelijkheid van het bestuu
 
 4. De werkgroep rapporteert aan de commissie.
 
-#### Artikel 5.2. Samenstelling en benoeming
+##### Artikel 5.2. Samenstelling en benoeming
 
 1. De commissie benoemt, schorst en ontslaat de voorzitter, de plaatsvervangend voorzitter en de leden van een werkgroep.
 
@@ -316,7 +338,7 @@ Een commissie heeft in opdracht en onder eindverantwoordelijkheid van het bestuu
 
 8. Bestuursleden en medewerkers van ZonMw kunnen geen lid zijn van een werkgroep.
 
-#### Artikel 5.3. Vergaderwijze
+##### Artikel 5.3. Vergaderwijze
 
 1. Een werkgroep komt in vergadering bijeen op verzoek van de voorzitter of zijn plaatsvervanger.
 
@@ -332,19 +354,19 @@ Een commissie heeft in opdracht en onder eindverantwoordelijkheid van het bestuu
 
 7. De besluitvorming, als bedoeld in het zesde lid, wordt opgenomen in het verslag van de eerst volgende vergadering.
 
-#### Artikel 5.4. Beoordelingsprocedure
+##### Artikel 5.4. Beoordelingsprocedure
 
 1. De door het bestuur vastgestelde procedure voor de beoordeling van aanvragen is bindend voor een werkgroep.
 
 2. Van deze procedure kan slechts worden afgeweken na overleg met de commissie en na goedkeuring door de directeur.
 
-#### Artikel 5.5. Vergoeding
+##### Artikel 5.5. Vergoeding
 
 1. De voorzitter en de leden van een werkgroep ontvangen voor hun werkzaamheden een vergoeding per vergadering volgens het [Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279). Daarnaast ontvangen zij een vergoeding voor reis- en verblijfkosten volgens het [Reisbesluit Binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889). Rekening wordt gehouden met de Regeling Vergoedingen bestuurs- en advieswerkzaamheden NWO.
 
 2. Voor aangepast vervoer van mensen met een functiebeperking kan door het bestuur een afzonderlijke regeling getroffen worden.
 
-#### Artikel 5.6. Ondersteuning
+##### Artikel 5.6. Ondersteuning
 
 1. Een werkgroep wordt bij haar werkzaamheden bijgestaan door medewerkers.
 
@@ -354,7 +376,7 @@ Een commissie heeft in opdracht en onder eindverantwoordelijkheid van het bestuu
 
 ### 6. Slotbepalingen
 
-#### Artikel 6.1. Ondertekening
+##### Artikel 6.1. Ondertekening
 
 1. Ondertekening van besluiten namens het bestuur door de directeur vindt als volgt plaats:
 

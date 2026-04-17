@@ -1,13 +1,38 @@
 ---
 title: "Archiefbeheersregeling voor het CAK 2014"
 identifier: "BWBR0034326"
-categorie: "Overig"
-publicatiedatum: 2013-12-11
-laatste_update: 2013-12-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034326"
+country: "nl"
+rank: "zbo"
+publication_date: "2013-12-11"
+last_updated: "2013-12-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034326"
+soort: "zbo"
+stam_id: "12467643"
+version_id: "20958142"
+internal_id: "C30089641"
+label_id: "12438734"
+dtd_version: "2.0"
+original_entry_into_force: "2013-12-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034326/2013-12-11/0"
+intitule_bron: "Stcrt.2013-34454"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-10-15"
+intitule_published: "2013-12-11"
+intitule_in_force: "2013-12-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-34454"
+original_signed_date: "2013-10-15"
+original_published_date: "2013-12-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-34454"
+entry_into_force_date: "2013-12-11"
+jci_1_3: "jci1.3:c:BWBR0034326&z=2013-12-11&g=2013-12-11"
+jci_1_0: "1.0:c:BWBR0034326&g=2013-12-11"
+citeertitel_status: "redactioneel"
+signed_date: "2013-10-15"
+entry_into_force: "2013-12-11"
 ---
-
 # Archiefbeheersregeling voor het CAK 2014
 
 ### 1. Inleiding

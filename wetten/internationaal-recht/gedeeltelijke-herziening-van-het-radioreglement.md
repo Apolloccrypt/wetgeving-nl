@@ -1,13 +1,38 @@
 ---
 title: "Gedeeltelijke herziening van het Radioreglement"
 identifier: "BWBV0004980"
-categorie: "Internationaal recht"
-publicatiedatum: 1990-03-16
-laatste_update: 1990-03-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004980"
+country: "nl"
+rank: "verdrag"
+publication_date: "1990-03-16"
+last_updated: "1990-03-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004980"
+soort: "verdrag"
+stam_id: "10004419943"
+version_id: "10004624722"
+internal_id: "C10008343371"
+label_id: "10004404644"
+dtd_version: "2.0"
+original_entry_into_force: "1990-03-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004980/1990-03-16/0"
+intitule_bron: "Trb.1990-132"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-10-23"
+intitule_published: "1990-09-17"
+intitule_in_force: "1990-09-17"
+intitule_status: "goed"
+original_publication: "Trb.1990-132"
+original_signed_date: "1992-10-23"
+original_published_date: "1990-09-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1990-132"
+entry_into_force_date: "1990-03-16"
+jci_1_3: "jci1.3:c:BWBV0004980&z=1990-03-16&g=1990-03-16"
+jci_1_0: "1.0:c:BWBV0004980&g=1990-03-16"
+citeertitel_status: "redactioneel"
+signed_date: "1992-10-23"
+entry_into_force: "1990-03-16"
 ---
-
 # Gedeeltelijke herziening van het Radioreglement
 
 Geneva, 1988 (WARC Orb-88)

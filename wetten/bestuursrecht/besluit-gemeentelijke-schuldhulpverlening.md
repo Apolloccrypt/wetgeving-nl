@@ -1,13 +1,39 @@
 ---
-title: "Besluit gemeentelijke schuldhulpverlening"
+title: "Besluit van 6 juli 2020, houdende regels voor de uitvoering van de Wet gemeentelijke schuldhulpverlening (Besluit gemeentelijke schuldhulpverlening)"
 identifier: "BWBR0043850"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043850"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043850"
+soort: "AMvB"
+stam_id: "15561083"
+version_id: "26882692"
+internal_id: "C38070151"
+label_id: "15503014"
+dtd_version: "2.0"
+original_entry_into_force: "2021-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043850/2026-01-01/0"
+intitule_bron: "Stb.2020-240"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-07-06"
+intitule_published: "2020-07-13"
+intitule_in_force: "2020-07-13"
+intitule_status: "goed"
+original_publication: "Stb.2020-240"
+original_signed_date: "2020-07-06"
+original_published_date: "2020-07-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2020-240"
+entry_into_force_date: "2021-01-01"
+jci_1_3: "jci1.3:c:BWBR0043850&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0043850&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit gemeentelijke schuldhulpverlening"
+signed_date: "2020-07-06"
+entry_into_force: "2021-01-01"
 ---
-
 # Besluit van 6 juli 2020, houdende regels voor de uitvoering van de Wet gemeentelijke schuldhulpverlening (Besluit gemeentelijke schuldhulpverlening)
 
 Op de voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 24 april 2020, nr. 2020-0000053114;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepaling
+##### Artikel 1. Begripsbepaling
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -36,7 +62,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2. Gegevensverstrekking vroegsignalering
 
-#### Artikel 2. Gegevensverstrekking huurachterstand
+##### Artikel 2. Gegevensverstrekking huurachterstand
 
 De verhuurder van een tot bewoning bestemde onroerende zaak verstrekt als er achterstand is in het betalen van de huur de contactgegevens van de huurder en de hoogte van de achterstand aan het college voor schuldhulpverlening, als hij:
 
@@ -48,7 +74,7 @@ De verhuurder van een tot bewoning bestemde onroerende zaak verstrekt als er ach
 
 - d. bij die schriftelijke herinnering heeft aangeboden om met schriftelijke toestemming van de huurder zijn contactgegevens aan het college te verstrekken en de huurder daarop niet afwijzend heeft gereageerd.
 
-#### Artikel 3. Signalen
+##### Artikel 3. Signalen
 
 Als signaal als bedoeld in [artikel 3, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=3) wordt aangewezen de gegevens die worden verstrekt:
 
@@ -64,7 +90,7 @@ Als signaal als bedoeld in [artikel 3, eerste lid, onderdeel b, van de wet](http
 
 #### § 3. Breed moratorium
 
-#### Artikel 4. Verzoek tot afkoelingsperiode
+##### Artikel 4. Verzoek tot afkoelingsperiode
 
 1. Voor een cliënt kan de afkondiging van een afkoelingsperiode worden verzocht, als bedoeld in [artikel 5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=5).
 
@@ -84,7 +110,7 @@ Als signaal als bedoeld in [artikel 3, eerste lid, onderdeel b, van de wet](http
 
 4. Indiening van het verzoek behoeft niet door een advocaat te geschieden.
 
-#### Artikel 5. Toe- en afwijzingsredenen afkoelingsperiode
+##### Artikel 5. Toe- en afwijzingsredenen afkoelingsperiode
 
 1. Het verzoek voor een afkoelingsperiode wordt toegewezen als voldoende aannemelijk is:
 
@@ -100,7 +126,7 @@ Als signaal als bedoeld in [artikel 3, eerste lid, onderdeel b, van de wet](http
 
 3. Bij toewijzing van het verzoek stelt de rechter de duur van de afkoelingsperiode vast met inachtneming van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043850&paragraaf=3&artikel=4&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 6. Verplichtingen cliënt
+##### Artikel 6. Verplichtingen cliënt
 
 Tot de verplichtingen die de cliënt gedurende de afkoelingsperiode na moet komen behoren in ieder geval de verplichtingen om:
 
@@ -116,11 +142,11 @@ Tot de verplichtingen die de cliënt gedurende de afkoelingsperiode na moet kome
 
 - f. geen nieuwe schulden aan te gaan.
 
-#### Artikel 7. Doorkruisende verzoeken
+##### Artikel 7. Doorkruisende verzoeken
 
 Indien een verzoek tot faillietverklaring en een verzoek tot afkondiging van een afkoelingsperiode als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043850&paragraaf=3&artikel=4&z=2026-01-01&g=2026-01-01) gelijktijdig bij de rechtbank aanhangig zijn, wordt eerst laatstgenoemd verzoek behandeld.
 
-#### Artikel 8. Tussentijdse beëindiging afkoelingsperiode
+##### Artikel 8. Tussentijdse beëindiging afkoelingsperiode
 
 1. Het college is gehouden de rechtbank te verzoeken om tussentijdse beëindiging van de afkoelingsperiode indien:
 
@@ -142,7 +168,7 @@ Indien een verzoek tot faillietverklaring en een verzoek tot afkondiging van een
 
 4. De afkoelingsperiode eindigt van rechtswege met het overlijden van de cliënt.
 
-#### Artikel 9. Behandeling verzoek
+##### Artikel 9. Behandeling verzoek
 
 1. In het geval van een verzoek als bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043850&paragraaf=3&artikel=4&z=2026-01-01&g=2026-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0043850&paragraaf=3&artikel=8&z=2026-01-01&g=2026-01-01) wordt het college opgeroepen. De rechtbank kan de cliënt, schuldeisers en het Openbaar Ministerie oproepen om gehoord te worden.
 
@@ -150,17 +176,17 @@ Indien een verzoek tot faillietverklaring en een verzoek tot afkondiging van een
 
 3. De griffier doet van de beschikking tot vaststelling of tussentijdse beëindiging van een afkoelingsperiode en het tijdstip daarvan, alsmede in het eerste geval het tijdstip waarop deze zal eindigen, onmiddellijk aankondiging in de Staatscourant. Het college informeert terstond de bekende schuldeisers, bedoeld in [artikel 4, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0043850&paragraaf=3&artikel=4&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 10. Opschortende werking
+##### Artikel 10. Opschortende werking
 
 Gedurende de afkoelingsperiode kan de cliënt niet tot betaling van zijn schulden, ontstaan voor afkondiging van de afkoelingsperiode, worden genoodzaakt en worden alle tot verhaal van die schulden strekkende executies opgeschort.
 
-#### Artikel 11. Behoud van retentierecht
+##### Artikel 11. Behoud van retentierecht
 
 Een schuldeiser die een retentierecht heeft op een aan de cliënt toebehorende zaak verliest dit recht niet door aanvang van de afkoelingsperiode.
 
 #### § 4. Gegevensverstrekking schuldhulpverlening
 
-#### Artikel 12. Interne verstrekking
+##### Artikel 12. Interne verstrekking
 
 Om een plan van aanpak op te stellen verstrekt het college intern voor schuldhulpverlening op verzoek de volgende gegevens die zijn verwerkt over de inwoner bij de uitvoering van de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) en de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925):
 
@@ -170,7 +196,7 @@ Om een plan van aanpak op te stellen verstrekt het college intern voor schuldhul
 
 - c. gegevens over de inkomsten- en vermogenspositie.
 
-#### Artikel 13. Gegevensverstrekking voor het besluit tot verlenen van schuldhulp
+##### Artikel 13. Gegevensverstrekking voor het besluit tot verlenen van schuldhulp
 
 1. Colleges van andere gemeenten verstrekken op verzoek van een college voor het besluit tot verlenen van schuldhulp gegevens over eerder gebruik van schuldhulpverlening door de inwoner.
 
@@ -192,7 +218,7 @@ Om een plan van aanpak op te stellen verstrekt het college intern voor schuldhul
 
 4. Een verzoek als bedoeld in het eerste en tweede lid wordt alleen gedaan als de gemeenteraad in zijn plan, bedoeld in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=2), heeft opgenomen dat toepassing kan worden gegeven aan [artikel 3, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=3).
 
-#### Artikel 14. Gegevensverstrekking van inkomsten en vermogen voor vaststelling plan van aanpak
+##### Artikel 14. Gegevensverstrekking van inkomsten en vermogen voor vaststelling plan van aanpak
 
 De hieronder genoemde bestuursorganen verstrekken op verzoek van het college de volgende gegevens om de inkomsten- en vermogenspositie van de inwoner te bepalen om een plan van aanpak vast te stellen:
 
@@ -212,7 +238,7 @@ De hieronder genoemde bestuursorganen verstrekken op verzoek van het college de 
 
 - h. het Uitvoeringsinstituut werknemersverzekeringen: de inkomensgegevens uit de polisadministratie, bedoeld in [artikel 33, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=33).
 
-#### Artikel 15. Gegevensverstrekking van openstaande vorderingen en betalingsverplichtingen voor vaststelling plan van aanpak
+##### Artikel 15. Gegevensverstrekking van openstaande vorderingen en betalingsverplichtingen voor vaststelling plan van aanpak
 
 De hieronder vermelde bestuursorganen, personen en instanties verstrekken op verzoek van het college de volgende gegevens om inzicht te krijgen in de omvang van de openstaande vorderingen en betalingsverplichtingen op de inwoner om een plan van aanpak vast te stellen:
 
@@ -238,13 +264,13 @@ De hieronder vermelde bestuursorganen, personen en instanties verstrekken op ver
 
 - k. andere bestuursorganen, personen en instanties dan genoemd in de onderdelen a tot en met h voor zover bij het college bekend: de gegevens over de openstaande vorderingen.
 
-#### Artikel 16. Gegevensverstrekking voor de uitvoering van het plan van aanpak
+##### Artikel 16. Gegevensverstrekking voor de uitvoering van het plan van aanpak
 
 1. Het college verifieert, gedurende de uitvoering van het plan van aanpak, minstens eenmaal per jaar de in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0043850&paragraaf=4&artikel=14&z=2026-01-01&g=2026-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0043850&paragraaf=4&artikel=15&z=2026-01-01&g=2026-01-01) van dit besluit genoemde gegevens van de cliënt om te zorgen dat de gegevens juist en actueel blijven.
 
 2. Als bij een verificatie door het college wordt vastgesteld dat de gegevens van de cliënt niet meer juist of actueel zijn, en die ten gevolge hebben dat het plan van aanpak niet meer voldoet, wordt door het college het plan van aanpak gewijzigd.
 
-#### Artikel 17. Gegevensverstrekking door gemeenten aan derden
+##### Artikel 17. Gegevensverstrekking door gemeenten aan derden
 
 1. Het college verstrekt het gegeven dat de cliënt schuldhulpverlening ontvangt op grond van de wet aan de gerechtsdeurwaarders, verstrekkers van de signalen, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043850&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01), schuldeisers, bewindvoerders en kredietverstrekkers.
 
@@ -252,19 +278,19 @@ De hieronder vermelde bestuursorganen, personen en instanties verstrekken op ver
 
 #### § 5. Slotbepalingen
 
-#### Artikel 18. Overgangsrecht
+##### Artikel 18. Overgangsrecht
 
 De [artikelen 1 tot en met 9 van het Besluit breed moratorium](https://wetten.overheid.nl/jci1.3:c:BWBR0039314&artikel=1), zoals die artikelen luidden op de dag voor het tijdstip van inwerkingtreding van dit besluit, blijven van toepassing op verzoeken en de daaruit voortvloeiende rechten en verplichtingen gedaan tot en met die dag.
 
-#### Artikel 19. Intrekking regeling
+##### Artikel 19. Intrekking regeling
 
 Het [Besluit breed moratorium](https://wetten.overheid.nl/jci1.3:c:BWBR0039314) wordt ingetrokken.
 
-#### Artikel 20. Inwerkingtreding
+##### Artikel 20. Inwerkingtreding
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 21. Citeertitel
+##### Artikel 21. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit gemeentelijke schuldhulpverlening.
 

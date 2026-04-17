@@ -1,13 +1,35 @@
 ---
 title: "Regionale Overeenkomst van de Europese omroepregio betreffende het gebruik van frequenties voor de (analoge) omroep in de VHF en UHF banden"
 identifier: "BWBV0004453"
-categorie: "Internationaal recht"
-publicatiedatum: 1988-08-01
-laatste_update: 1988-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004453"
+country: "nl"
+rank: "verdrag"
+publication_date: "1988-08-01"
+last_updated: "1988-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004453"
+soort: "verdrag"
+stam_id: "10004140093"
+version_id: "10004308822"
+internal_id: "C10006997631"
+label_id: "10004125114"
+dtd_version: "2.0"
+original_entry_into_force: "1988-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004453/1988-08-01/0"
+intitule_bron: "Trb.2007-111"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2007-06-26"
+intitule_in_force: "2009-03-03"
+intitule_status: "goed"
+original_publication: "Trb.2007-111"
+original_published_date: "2007-06-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2007-111"
+entry_into_force_date: "1988-08-01"
+jci_1_3: "jci1.3:c:BWBV0004453&z=1988-08-01&g=1988-08-01"
+jci_1_0: "1.0:c:BWBV0004453&g=1988-08-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1988-08-01"
 ---
-
 # Regionale Overeenkomst van de Europese omroepregio betreffende het gebruik van frequenties voor de (analoge) omroep in de VHF en UHF banden
 
 **Preamble**
@@ -18,7 +40,7 @@ The undersigned Delegates of the Administrations of the following countries:
 
 meeting in Stockholm for a Regional Conference convened under the terms of Article 44 of the International Telecommunication Convention, Geneva, 1959, have adopted, subject to the approval of their Administrations, the following provisions relating to the broadcasting service (sound and television) in the European Broadcasting Area for the bands between 41 and 960 Mc/s allocated on a primary basis to broadcasting under Article 5 of the Radio Regulations, Geneva, 1959, with the exception of the bands between 68 and 73 Mc/s and between 76 and 87.5 Mc/s which are the subject of a Regional Agreement (Special Regional Conference, Geneva, 1960).
 
-#### ARTICLE 1. Definitions
+##### ARTICLE 1. Definitions
 
 - 1. For the purposes of the present Agreement, the following terms shall have the meanings defined below:
 
@@ -40,7 +62,7 @@ meeting in Stockholm for a Regional Conference convened under the terms of Artic
 
 - 9A. **Regional Agreement (1984)**: The agreement relating to the use of the band 87.5-108 MHz for FM sound broadcasting (Region 1 and part of Region 3) adopted by the Regional Administrative Conference (Geneva, 1984).
 
-#### ARTICLE 2. Execution of the Agreement
+##### ARTICLE 2. Execution of the Agreement
 
 - 10. 1 The Contracting Administrations shall adopt for their broadcasting stations operating in the bands referred to in the Agreement, the characteristics specified in the Plans.
 
@@ -50,7 +72,7 @@ meeting in Stockholm for a Regional Conference convened under the terms of Artic
 
 - 13. 4 Should agreement, as envisaged in paragraph 3 above, prove impossible, the dissenting Administrations may resort to the procedure laid down in Article 15 of the Radio Regulations, and if necessary, to that laid down in Article 27 of the International Telecommunication Convention, Geneva, 1959.
 
-#### ARTICLE 3. Broadcasting Stations of Low Power
+##### ARTICLE 3. Broadcasting Stations of Low Power
 
 - 14. 1 Stations in the frequency bands between 41 and 230 Mc/s having maximum effective radiated powers of less than 1 kW, and stations in the frequency bands between 470 and 960 Mc/s having maximum effective radiated powers of less than 10 kW do not appear in the Plans.
 
@@ -62,7 +84,7 @@ meeting in Stockholm for a Regional Conference convened under the terms of Artic
 
 - 18. In the event of harmful interference between the stations referred to in **a)** above and those appearing in the Plans, the Contracting Administrations concerned shall reach mutual agreement as to the steps necessary to obviate such interference.
 
-#### ARTICLE 4. Changes in the Characteristics of Stations covered by the Agreement
+##### ARTICLE 4. Changes in the Characteristics of Stations covered by the Agreement
 
 - 19. 1.1 When a Contracting Administration proposes to change the characteristics of a broadcasting station shown in the Plans or brought into operation in accordance with the provisions of the present Agreement, or proposes to put into operation a broadcasting station not appearing in the Plans, the following action shall be taken:
 
@@ -104,41 +126,41 @@ meeting in Stockholm for a Regional Conference convened under the terms of Artic
 
 - 36. 3.3 If, after application of the procedure defined in, sub-paragraphs 1.1.1, 1.1.2 and 1.1.3 on the one hand, and paragraphs 2.1 and 2.2 on the other hand, no agreement has been reached between the Administrations concerned, recourse may be had to the procedures defined in Article 15 of the Radio Regulations, or in Article 27 of the International Telecommunication Convention, Geneva, 1959, as the case may be.
 
-#### ARTICLE 5. Notification of Frequency Assignments
+##### ARTICLE 5. Notification of Frequency Assignments
 
 - 37. Whenever an assignment in conformity with the Plans or for which the procedure prescribed in Article 4 of the present Agreement has been applied, is put into service, the Administration concerned shall notify this assignment to the I.F.R.B. in accordance with the provisions of Article 9 of the Radio Regulations.
 
-#### ARTICLE 6. Accession to the Agreement
+##### ARTICLE 6. Accession to the Agreement
 
 - 38. 1 The Administration of any Member of the Union in the European Broadcasting Area which has not signed this Agreement may accede thereto at any time. Such accession shall be made without reservation. The Secretary-General shall be notified thereof, and he shall inform the other Members of the Union in the European Broadcasting Area.
 
 - 39. 2 Accession shall take effect on the date the notification of accession is received by the Secretary-General.
 
-#### ARTICLE 7. Termination of Participation in the Agreement
+##### ARTICLE 7. Termination of Participation in the Agreement
 
 - 40. 1 Any Contracting Administration shall have the right at any time to terminate its participation in the Agreement by a communication sent to the Secretary-General, who shall inform the other Members of the Union in the European Broadcasting Area.
 
 - 41. 2 Such termination of participation shall take effect after a period of one year from the date of receipt, by the Secretary-General, of the said communication.
 
-#### ARTICLE 8. Revision of the Agreement
+##### ARTICLE 8. Revision of the Agreement
 
 - 42. No revision of the Agreement shall be undertaken except by an Administrative Conference of the Members of the Union in the European Broadcasting Area, convened in accordance with the procedure laid down in the International Telecommunication Convention.
 
-#### ARTICLE 9. Effective Date of the Agreement
+##### ARTICLE 9. Effective Date of the Agreement
 
 - 43. The Agreement shall enter into force on 1 September, 1962.
 
-#### ARTICLE 10. Abrogation of the European Broadcasting Agreement, Stockholm, 1952
+##### ARTICLE 10. Abrogation of the European Broadcasting Agreement, Stockholm, 1952
 
 - 44. The present Agreement shall abrogate and replace the European Broadcasting Agreement, Stockholm, 1952, and the Plans annexed thereto.
 
-#### ARTICLE 11. Scope of Application of the Agreement
+##### ARTICLE 11. Scope of Application of the Agreement
 
 - 45. 1 The present Agreement shall bind Contracting Administrations in their relations with one another but does not bind those Administrations with non-Contracting Administrations.
 
 - 46. 2 If an Administration makes reservations with regard to any provision of the present Agreement, other Administrations shall be free to disregard the said provision in their relations with the Administration which has made such reservations.
 
-#### ARTICLE 12. Approval of the Agreement
+##### ARTICLE 12. Approval of the Agreement
 
 - 47. Administrations shall notify their approval of this Agreement, as promptly as possible, to the Secretary-General who shall at once inform the other Members of the Union in the European Broadcasting Area.
 

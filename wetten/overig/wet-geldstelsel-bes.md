@@ -1,14 +1,41 @@
 ---
-title: "Wet geldstelsel BES"
+title: "Wet van 30 september 2010, houdende regels met betrekking tot het geldstelsel van de openbare lichamen Bonaire, Sint Eustatius en Saba, alsmede enige voorzieningen van overgangsrechtelijke aard (Wet geldstelsel BES)"
 identifier: "BWBR0028551"
-categorie: "Overig"
-publicatiedatum: 2012-07-01
-laatste_update: 2012-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028551"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2012-07-01"
+last_updated: "2012-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028551"
+soort: "wet-BES"
+stam_id: "10847413"
+version_id: "17827902"
+internal_id: "C24708221"
+label_id: "10822474"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028551/2012-07-01/0"
+intitule_bron: "Stb.2010-363"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-30"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-01"
+intitule_status: "goed"
+original_publication: "Stb.2010-363"
+original_signed_date: "2010-09-30"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_dossier: "32217"
+original_url_id: "stb-2010-363"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028551&z=2012-07-01&g=2012-07-01"
+jci_1_0: "1.0:c:BWBR0028551&g=2012-07-01"
+citeertitel_status: "officieel"
+short_title: "Wet geldstelsel BES"
+signed_date: "2010-09-30"
+entry_into_force: "2010-10-10"
 ---
-
-# Wet geldstelsel BES
+# Wet van 30 september 2010, houdende regels met betrekking tot het geldstelsel van de openbare lichamen Bonaire, Sint Eustatius en Saba, alsmede enige voorzieningen van overgangsrechtelijke aard (Wet geldstelsel BES)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -24,7 +51,7 @@ Treedt in werking op het tijdstip waarop artikel I, tweede lid, van de Rijkswet 
 
 #### § 2a. Tijdelijke voorzetting van het Nederlands-Antilliaanse fiscale stelsel
 
-#### Artikel 13a
+##### Artikel 13a
 
 In deze paragraaf wordt verstaan onder:
 
@@ -32,7 +59,7 @@ In deze paragraaf wordt verstaan onder:
 
 - b. **overgangsperiode:** de periode vanaf het tijdstip van transitie tot 1 januari 2011.
 
-#### Artikel 13b
+##### Artikel 13b
 
 1. Voor zover een belastingplichtige of inhoudingsplichtige op het tijdstip dat onmiddellijk voorafgaat aan het tijdstip van transitie rechten en verplichtingen heeft, ingevolge:
 
@@ -98,7 +125,7 @@ blijven deze rechten en verplichtingen daarna doorlopen en blijven de onder a to
 
 5. Bij ministeriële regeling kunnen nadere regels worden gesteld voor de toepassing van het vierde lid.
 
-#### Artikel 13c
+##### Artikel 13c
 
 1. Op het tijdstip van transitie gaan de taken en bevoegdheden van de Inspecteur der Belastingen en de Inspecteur der Invoerrechten en Accijnzen over op de inspecteur van de rijksbelastingdienst, bedoeld in het derde lid.
 
@@ -114,15 +141,15 @@ blijven deze rechten en verplichtingen daarna doorlopen en blijven de onder a to
 
 - 2°. **Nederland:** het in Europa gelegen deel van het Koninkrijk der Nederlanden.
 
-#### Artikel 13d
+##### Artikel 13d
 
 De bepalingen van de verordeningen, bedoeld in [artikel 13b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&paragraaf=2a&artikel=13b&z=2012-07-01&g=2012-07-01), blijven van toepassing op de in die verordeningen strafbaar gestelde feiten die zich hebben voorgedaan vóór het tijdstip van transitie.
 
-#### Artikel 13e
+##### Artikel 13e
 
 Op het tijdstip van transitie treedt de Raad van Beroep voor belastingzaken, bedoeld in [paragraaf 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&paragraaf=2b&z=2012-07-01&g=2012-07-01), in de plaats van de Raad van Beroep voor belastingzaken, bedoeld in de Landsverordening op het beroep in belastingzaken 1940.
 
-#### Artikel 13f
+##### Artikel 13f
 
 1. In afwijking van [artikel 37, tweede lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=37) en artikel 58 van de in de overgangsperiode als wet van toepassing zijnde Algemene Landsverordening Landsbelasting, wordt in de overgangsperiode dubbele belasting voorkomen overeenkomstig de regels van de [Belastingregeling voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002464) met uitzondering van de regels, bedoeld in [artikel 3, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&artikel=3), [artikel 11, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&artikel=11), [artikel 26, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&artikel=26), [artikel 30, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&artikel=30), [artikel 32, onderdeel c, van die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&artikel=32) en met dien verstande dat voor:
 
@@ -134,13 +161,13 @@ Op het tijdstip van transitie treedt de Raad van Beroep voor belastingzaken, bed
 
 #### § 2b. Raad van Beroep voor belastingzaken
 
-#### Artikel 13g
+##### Artikel 13g
 
 1. De Raad van Beroep voor belastingzaken is gevestigd in de zittingsplaats van het Gerecht in Eerste Aanleg van Bonaire, Sint Eustatius en Saba. De Raad kan ook elders zitting houden.
 
 2. De Raad van Beroep voor belastingzaken doet uitspraak op beroepschriften inzake belastingen.
 
-#### Artikel 13h
+##### Artikel 13h
 
 1. De Raad van Beroep voor belastingzaken bestaat uit een voorzitter en twee leden.
 
@@ -148,11 +175,11 @@ Op het tijdstip van transitie treedt de Raad van Beroep voor belastingzaken, bed
 
 3. De leden worden door de voorzitter gekozen uit de bezoldigde met rechtspraak belaste leden, waaruit het Gemeenschappelijke Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba is samengesteld, hetzij voor een bepaalde termijn, hetzij voor een bepaalde zaak.
 
-#### Artikel 13i
+##### Artikel 13i
 
 Als secretaris van de Raad van Beroep voor belastingzaken treedt op de griffier van het Gemeenschappelijke Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba, die zo nodig wordt vervangen door de substituut-griffier van het Gemeenschappelijke Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 13j
+##### Artikel 13j
 
 1. De Raad van Beroep voor belastingzaken vergadert op plaats en tijd door de voorzitter te bepalen.
 
@@ -164,79 +191,79 @@ Als secretaris van de Raad van Beroep voor belastingzaken treedt op de griffier 
 
 #### § 2c. Aanpassingen van Nederlandse fiscale wetgeving
 
-#### Artikel 13k
+##### Artikel 13k
 
 Wijzigt de Algemene douanewet.
 
-#### Artikel 13l
+##### Artikel 13l
 
 Wijzigt de Algemene wet inkomensafhankelijke regelingen.
 
-#### Artikel 13m
+##### Artikel 13m
 
 Wijzigt de Algemene wet inzake rijksbelastingen.
 
-#### Artikel 13n
+##### Artikel 13n
 
 Wijzigt de Invoeringswet Wet inkomstenbelasting 2001.
 
-#### Artikel 13o
+##### Artikel 13o
 
 Wijzigt de Invorderingswet 1990.
 
-#### Artikel 13p
+##### Artikel 13p
 
 Wijzigt de Successiewet 1956.
 
-#### Artikel 13q
+##### Artikel 13q
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel 13r
+##### Artikel 13r
 
 Wijzigt de Wet op de dividendbelasting 1965.
 
-#### Artikel 13s
+##### Artikel 13s
 
 Wijzigt de Wet op de internationale bijstandsverlening bij de heffing van belastingen.
 
-#### Artikel 13t
+##### Artikel 13t
 
 Wijzigt de Wet op de kansspelbelasting.
 
-#### Artikel 13u
+##### Artikel 13u
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel 13v
+##### Artikel 13v
 
 Wijzigt de Wet op de motorrijtuigenbelasting 1994.
 
-#### Artikel 13w
+##### Artikel 13w
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
 
 #### § 2d. Wijzigingen in overige wetgeving
 
-#### Artikel 13x
+##### Artikel 13x
 
 Wijzigt de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 13y
+##### Artikel 13y
 
 Wijzigt de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 13z
+##### Artikel 13z
 
 Wijzigt de Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba.
 
 #### § 3. Slotbepalingen
 
-#### Artikel 14
+##### Artikel 14
 
 Bij of krachtens algemene maatregel van bestuur kunnen voor een goede uitvoering van deze wet nadere regels worden gesteld met betrekking tot de in deze wet geregelde onderwerpen.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Handelen in strijd met [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&paragraaf=1&artikel=6&z=2012-07-01&g=2012-07-01), wordt gestraft met hechtenis van ten hoogste zes maanden of geldboete van de vierde categorie.
 
@@ -244,7 +271,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen voor een goede uitvoering
 
 3. Het in het eerste lid strafbaar gestelde feit is een overtreding. Het in het tweede lid strafbaar gestelde feit is een misdrijf.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Indien [artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=I) op een eerder tijdstip in werking treedt dan deze wet, blijft tot aan het tijdstip van inwerkingtreding van deze wet de Nederlands-Antilliaanse gulden de munteenheid van de openbare lichamen.
 
@@ -252,17 +279,17 @@ Bij of krachtens algemene maatregel van bestuur kunnen voor een goede uitvoering
 
 3. Verwijzingen naar de dollar, opgenomen in een wettelijk voorschrift, gelden gedurende de in het eerste lid bedoelde periode als verwijzingen naar Nederlands-Antilliaanse guldens, volgens de omrekenkoers USD 1,00 = NAf. 1,790. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&paragraaf=2&artikel=11&z=2012-07-01&g=2012-07-01) is van overeenkomstige toepassing.
 
-#### Artikel 17
+##### Artikel 17
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, met uitzondering van de [artikelen 13a tot en met 13z](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&paragraaf=2a&artikel=13a&z=2012-07-01&g=2012-07-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&paragraaf=3&artikel=16&z=2012-07-01&g=2012-07-01), die in werking treden op het tijdstip waarop [artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=I) in werking treedt.
 
-#### Artikel 18
+##### Artikel 18
 
 Deze wet wordt aangehaald als: Wet geldstelsel BES.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -276,13 +303,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - e. **kredietinstelling:** kredietinstelling in de zin van de [Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883).
 
-#### Artikel 2
+##### Artikel 2
 
 1. De munteenheid van de openbare lichamen is de dollar. De rekeneenheid is één dollar; de dollar is verdeeld in honderd centen.
 
 2. Bij in cijfers aangegeven bedragen kan de dollar worden aangeduid met de letters «USD» of het symbool «$», geplaatst voor het bedrag.
 
-#### Artikel 3
+##### Artikel 3
 
 Bankbiljetten en munten met de hoedanigheid van wettig betaalmiddel in de openbare lichamen zijn:
 
@@ -290,19 +317,19 @@ Bankbiljetten en munten met de hoedanigheid van wettig betaalmiddel in de openba
 
 - b. dollarbiljetten met een nominale waarde van ten hoogste USD 100.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De Bank heeft tot taak het bevorderen van de goede werking van het betalingsverkeer in de openbare lichamen. De goede werking van het betalingsverkeer omvat mede de geldomloop van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&paragraaf=1&artikel=3&z=2012-07-01&g=2012-07-01) bedoelde dollarbiljetten en dollarmunten.
 
 2. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de in het eerste lid bedoelde taak.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Niemand is verplicht om voor één betaling meer dan vijftig dollarmunten te aanvaarden.
 
 2. De Bank kan in de openbare lichamen kantoren aanwijzen waar, met inachtneming van daartoe door de Bank gestelde regels, dollarmunten kunnen worden verwisseld voor dollarbiljetten.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Niemand is verplicht om valse of vervalste dollarbiljetten of dollarmunten aan te nemen.
 
@@ -310,7 +337,7 @@ Bankbiljetten en munten met de hoedanigheid van wettig betaalmiddel in de openba
 
 3. Indien dollarbiljetten of dollarmunten niet vals of vervalst blijken te zijn, worden zij teruggegeven in de staat waarin zij zijn ontvangen, of wordt daarvan de nominale waarde vergoed. Voor valse of vervalste dollarbiljetten en dollarmunten wordt geen vergoeding verstrekt.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Niemand is verplicht om geschonden dollarbiljetten of dollarmunten aan te nemen.
 
@@ -320,17 +347,17 @@ Bankbiljetten en munten met de hoedanigheid van wettig betaalmiddel in de openba
 
 #### § 2. Overgangsbepalingen in verband met invoering van de dollar
 
-#### Artikel 8
+##### Artikel 8
 
 De omrekenkoers voor de overgang van de Nederlands-Antilliaanse gulden naar de dollar is: NAf. 1,790 = USD 1,00.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Alle bij een onderneming of instelling die in de openbare lichamen het bedrijf van kredietinstelling uitoefent aangehouden tegoeden, in de vorm van giraal geld of anderszins, luiden met ingang van het tijdstip van inwerkingtreding van deze wet in dollars, overeenkomstig de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&paragraaf=2&artikel=8&z=2012-07-01&g=2012-07-01) vastgestelde omrekenkoers.
 
 2. Het eerste lid is niet van toepassing op tegoeden, aangehouden in andere munteenheden dan de Nederlands-Antilliaanse gulden.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Na de inwerkingtreding van deze wet gelden verwijzingen naar Nederlands-Antilliaanse guldens, opgenomen in bestaande rechtsinstrumenten, als verwijzingen naar de dollar, overeenkomstig de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&paragraaf=2&artikel=8&z=2012-07-01&g=2012-07-01) vastgestelde omrekenkoers.
 
@@ -338,17 +365,17 @@ De omrekenkoers voor de overgang van de Nederlands-Antilliaanse gulden naar de d
 
 3. Het eerste lid is niet van toepassing, voor zover uit de aard of strekking van een rechtsinstrument anders voortvloeit. Voorts is het eerste lid niet van toepassing op overeenkomsten ten aanzien waarvan de betrokken partijen uitdrukkelijk anders zijn overeengekomen.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Voor de toepassing van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&paragraaf=2&artikel=9&z=2012-07-01&g=2012-07-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&paragraaf=2&artikel=10&z=2012-07-01&g=2012-07-01) worden de overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&paragraaf=2&artikel=8&z=2012-07-01&g=2012-07-01) omgerekende bedragen rekenkundig afgerond op de dichtstbijzijnde dollarcent. Halve centen worden naar boven afgerond.
 
 2. Indien het oorspronkelijke bedrag in meer dan twee decimalen was gesteld, geschiedt de afronding met inachtneming van het oorspronkelijke aantal decimalen. De afrondingsregel voor halve centen is in dat geval van overeenkomstige toepassing op de laatste decimaal.
 
-#### Artikel 12
+##### Artikel 12
 
 De in Nederlands-Antilliaanse guldens luidende bankbiljetten en munten die op het tijdstip van inwerkingtreding van deze wet in omloop waren als wettig betaalmiddel, behouden tot en met de laatste dag van de eerste kalendermaand na inwerkingtreding van deze wet de hoedanigheid van wettig betaalmiddel in de openbare lichamen.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Bij besluit van de Bank worden in de openbare lichamen kantoren aangewezen waar tot een bij koninklijk besluit te bepalen tijdstip, dat voor bankbiljetten en munten verschillend kan worden vastgesteld, Nederlands-Antilliaanse munten en bankbiljetten kosteloos kunnen worden verwisseld voor wettig betaalmiddel als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&paragraaf=1&artikel=3&z=2012-07-01&g=2012-07-01).
 

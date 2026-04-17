@@ -1,14 +1,41 @@
 ---
-title: "Wet aanpassing bestuursprocesrecht"
+title: "Wet van 20 december 2012 tot wijziging van de Algemene wet bestuursrecht en aanverwante wetten met het oog op enige verbeteringen en vereenvoudigingen van het bestuursprocesrecht (Wet aanpassing bestuursprocesrecht)"
 identifier: "BWBR0032634"
-categorie: "Bestuursrecht"
-publicatiedatum: 2013-07-01
-laatste_update: 2013-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032634"
+country: "nl"
+rank: "wet"
+publication_date: "2013-07-01"
+last_updated: "2013-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032634"
+soort: "wet"
+stam_id: "12009983"
+version_id: "19987882"
+internal_id: "C28128901"
+label_id: "11983844"
+dtd_version: "2.0"
+original_entry_into_force: "2013-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032634/2013-07-01/0"
+intitule_bron: "Stb.2012-682"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-12-20"
+intitule_published: "2012-12-27"
+intitule_in_force: "2012-12-27"
+intitule_status: "goed"
+original_publication: "Stb.2012-682"
+original_signed_date: "2012-12-20"
+original_published_date: "2012-12-27"
+original_effect: "nieuwe-regeling"
+original_dossier: "32450"
+original_url_id: "stb-2012-682"
+entry_into_force_date: "2013-01-01"
+jci_1_3: "jci1.3:c:BWBR0032634&z=2013-07-01&g=2013-07-01"
+jci_1_0: "1.0:c:BWBR0032634&g=2013-07-01"
+citeertitel_status: "officieel"
+short_title: "Wet aanpassing bestuursprocesrecht"
+signed_date: "2012-12-20"
+entry_into_force: "2013-01-01"
 ---
-
-# Wet aanpassing bestuursprocesrecht
+# Wet van 20 december 2012 tot wijziging van de Algemene wet bestuursrecht en aanverwante wetten met het oog op enige verbeteringen en vereenvoudigingen van het bestuursprocesrecht (Wet aanpassing bestuursprocesrecht)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,27 +45,27 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ## Deel A. **Wijziging van de** [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) **en aanverwante wetten**
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Algemene wet bestuursrecht.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Wet op de Raad van State.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Beroepswet.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Wet bestuursrechtspraak bedrijfsorganisatie.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Algemene wet inzake rijksbelastingen.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Wijzigingswet Wet op de rechterlijke organisatie, enz. (voltooiing eerste fase herziening rechterlijke organisatie).
 
@@ -46,787 +73,787 @@ Wijzigt de Wijzigingswet Wet op de rechterlijke organisatie, enz. (voltooiing ee
 
 ### **Ministerie van Algemene Zaken**
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Crisis- en herstelwet.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Noodwet voedselvoorziening.
 
 ### **Ministerie van Binnenlandse Zaken en Koninkrijksrelaties**
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Algemene pensioenwet politieke ambtsdragers.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Garantiewet Burgerlijk Overheidspersoneel Indonesië.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Gemeentewet.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Kieswet.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Provinciewet.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Wet financiële voorzieningen privatisering ABP.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Wet gemeenschappelijke regelingen.
 
-#### Artikel IXa
+##### Artikel IXa
 
 Wijzigt de Wet gemeentelijke basisadministratie persoonsgegevens.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Wet op de inlichtingen- en veiligheidsdiensten 2002.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt de Wet opheffing particuliere banken van leening.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt de Wet rechtspositionele voorzieningen rampbestrijders.
 
 ### **Ministerie van Buitenlandse Zaken**
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt de Sanctiewet 1977.
 
 ### **Ministerie van Defensie**
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt de Kaderwet dienstplicht.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt de Militaire Ambtenarenwet 1931.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt de Uitkeringswet gewezen militairen.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Wijzigt de Wet gewetensbezwaren militaire dienst.
 
 ### **Ministerie van Economische Zaken**
 
-#### Artikel XVIIa
+##### Artikel XVIIa
 
 Wijzigt de Dienstenwet.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Wijzigt de Elektriciteitswet 1998.
 
-#### Artikel XIX
+##### Artikel XIX
 
 Wijzigt de Gaswet.
 
-#### Artikel XX
+##### Artikel XX
 
 Wijzigt de Hamsterwet.
 
-#### Artikel XXI
+##### Artikel XXI
 
 Wijzigt de Kaderwet EZ-subsidies.
 
-#### Artikel XXII
+##### Artikel XXII
 
 Wijzigt de Mededingingswet.
 
-#### Artikel XXIII
+##### Artikel XXIII
 
 Wijzigt de Metrologiewet.
 
-#### Artikel XXIV
+##### Artikel XXIV
 
 Wijzigt de Mijnbouwwet.
 
-#### Artikel XXV
+##### Artikel XXV
 
 Wijzigt de Overgangswet elektriciteitsproductiesector.
 
-#### Artikel XXVI
+##### Artikel XXVI
 
 Wijzigt de Postwet 2009.
 
-#### Artikel XXVII
+##### Artikel XXVII
 
 Wijzigt de Prijzennoodwet.
 
-#### Artikel XXVIII
+##### Artikel XXVIII
 
 Wijzigt de Prijzenwet.
 
-#### Artikel XXIX
+##### Artikel XXIX
 
 [Vervallen]
 
-#### Artikel XXX
+##### Artikel XXX
 
 Wijzigt de Telecommunicatiewet.
 
-#### Artikel XXXI
+##### Artikel XXXI
 
 Wijzigt de Waarborgwet 1986.
 
-#### Artikel XXXII
+##### Artikel XXXII
 
 [Vervallen]
 
-#### Artikel XXXIII
+##### Artikel XXXIII
 
 Wijzigt de Wet handhaving consumentenbescherming.
 
-#### Artikel XXXIIIa
+##### Artikel XXXIIIa
 
 Wijzigt de Wet implementatie EU-richtlijnen energie-efficiëntie.
 
-#### Artikel XXXIIIb
+##### Artikel XXXIIIb
 
 Wijzigt de Wet implementatie rechtsbeschermingsrichtlijnen aanbesteden.
 
-#### Artikel XXXIV
+##### Artikel XXXIV
 
 Wijzigt de Wet medewerking verdedigingsvoorbereiding.
 
-#### Artikel XXXV
+##### Artikel XXXV
 
 Wijzigt de Wet op de kamers van koophandel en fabrieken 1997.
 
-#### Artikel XXXVI
+##### Artikel XXXVI
 
 [Vervallen]
 
-#### Artikel XXXVII
+##### Artikel XXXVII
 
 Wijzigt de Wet uitvoering Internationaal Energieprogramma.
 
-#### Artikel XXXVIII
+##### Artikel XXXVIII
 
 Wijzigt de Wet voorraadvorming aardolieproducten 2001.
 
-#### Artikel XXXIX
+##### Artikel XXXIX
 
 Wijzigt de Winkeltijdenwet.
 
 ### **Ministerie van Financiën**
 
-#### Artikel XL
+##### Artikel XL
 
 Wijzigt de Aanpassingswet euro.
 
-#### Artikel XLI
+##### Artikel XLI
 
 Wijzigt de Algemene douanewet.
 
-#### Artikel XLII
+##### Artikel XLII
 
 Wijzigt de Goedkeuringswet Overeenkomst ex artikel K.3 Verdrag betreffende de Europese Unie inzake wederzijdse bijstand en samenwerking tussen de douaneadministraties (Trb. 1998, 174).
 
-#### Artikel XLIII
+##### Artikel XLIII
 
 Wijzigt de Wet financiële betrekkingen buitenland 1994.
 
-#### Artikel XLIV
+##### Artikel XLIV
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel XLV
+##### Artikel XLV
 
 Wijzigt de Wet op de Accountants-administratieconsulenten.
 
-#### Artikel XLVI
+##### Artikel XLVI
 
 [Vervallen]
 
-#### Artikel XLVIa
+##### Artikel XLVIa
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel XLVII
+##### Artikel XLVII
 
 Wijzigt de Wet op de Registeraccountants.
 
-#### Artikel XLIX
+##### Artikel XLIX
 
 Wijzigt de Wet op het financieel toezicht.
 
-#### Artikel L
+##### Artikel L
 
 Wijzigt de Wet ter voorkoming van witwassen en financieren van terrorisme.
 
-#### Artikel LI
+##### Artikel LI
 
 Wijzigt de Wet toezicht accountantsorganisaties.
 
-#### Artikel LII
+##### Artikel LII
 
 Wijzigt de Wet toezicht financiële verslaggeving.
 
-#### Artikel LIII
+##### Artikel LIII
 
 Wijzigt de Wet toezicht trustkantoren.
 
-#### Artikel LIV
+##### Artikel LIV
 
 Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
 
 ### **Ministerie van Justitie**
 
-#### Artikel LV
+##### Artikel LV
 
 Wijzigt het Burgerlijk Wetboek Boek 2.
 
-#### Artikel LVa
+##### Artikel LVa
 
 Wijzigt het Burgerlijk Wetboek Boek 8.
 
-#### Artikel LVI
+##### Artikel LVI
 
 Wijzigt de Goedkeuringswet DIS-Overeenkomst.
 
-#### Artikel LVII
+##### Artikel LVII
 
 Wijzigt de Goedkeuringswet Europol-Overeenkomst en Protocol inzake Overeenkomst tot oprichting van een Europese Politiedienst.
 
-#### Artikel LVIII
+##### Artikel LVIII
 
 [Vervallen]
 
-#### Artikel LIX
+##### Artikel LIX
 
 Wijzigt de Uitvoeringswet Nederlands-Duits Executieverdrag.
 
-#### Artikel LX
+##### Artikel LX
 
 Wijzigt de Uitvoeringswet verordening Europese coöperatieve vennootschap.
 
-#### Artikel LXI
+##### Artikel LXI
 
 Wijzigt de Uitvoeringswet verordening Europese vennootschap.
 
-#### Artikel LXII
+##### Artikel LXII
 
 Wijzigt de Vreemdelingenwet 2000.
 
-#### Artikel LXIII
+##### Artikel LXIII
 
 Wijzigt de Wet aansprakelijkheid olietankschepen.
 
-#### Artikel LXIV
+##### Artikel LXIV
 
 Wijzigt de Wet administratiefrechtelijke handhaving verkeersvoorschriften.
 
-#### Artikel LXV
+##### Artikel LXV
 
 Wijzigt de Wet bescherming oorspronkelijke topografieën van halfgeleiderprodukten.
 
-#### Artikel LXVII
+##### Artikel LXVII
 
 [Vervallen]
 
-#### Artikel LXVIII
+##### Artikel LXVIII
 
 Wijzigt de Wet op de rechtsbijstand.
 
-#### Artikel LXIX
+##### Artikel LXIX
 
 Wijzigt de Wet op de rechterlijke organisatie.
 
-#### Artikel LXIXa
+##### Artikel LXIXa
 
 Wijzigt de Wet politiegegevens.
 
-#### Artikel LXX
+##### Artikel LXX
 
 Wijzigt de Wet rechtspositie rechterlijke ambtenaren.
 
-#### Artikel LXXI
+##### Artikel LXXI
 
 Wijzigt de Wet schadefonds olietankschepen.
 
-#### Artikel LXXIa
+##### Artikel LXXIa
 
 Wijzigt de Wet tijdelijk huisverbod.
 
-#### Artikel LXXII
+##### Artikel LXXII
 
 Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
 
-#### Artikel LXXIII
+##### Artikel LXXIII
 
 Wijzigt het Wetboek van Koophandel.
 
-#### Artikel LXXIV
+##### Artikel LXXIV
 
 Wijzigt de Wijzigingswet Boek 8 van het Burgerlijk Wetboek enz. (wijziging voorwaarden nationaliteitsverlening en registratie zeeschepen).
 
 ### **Ministerie van Landbouw, Natuur en Voedselkwaliteit**
 
-#### Artikel LXXV
+##### Artikel LXXV
 
 Wijzigt de Boswet.
 
-#### Artikel LXXVI
+##### Artikel LXXVI
 
 Wijzigt de Diergeneesmiddelenwet.
 
-#### Artikel LXXVII
+##### Artikel LXXVII
 
 Wijzigt de Gezondheids- en welzijnswet voor dieren.
 
-#### Artikel LXXVIII
+##### Artikel LXXVIII
 
 Wijzigt de Kaderwet diervoeders.
 
-#### Artikel LXXIX
+##### Artikel LXXIX
 
 Wijzigt de Landbouwkwaliteitswet.
 
-#### Artikel LXXX
+##### Artikel LXXX
 
 Wijzigt de Landbouwwet.
 
-#### Artikel LXXXI
+##### Artikel LXXXI
 
 Wijzigt de Meststoffenwet.
 
-#### Artikel LXXXII
+##### Artikel LXXXII
 
 Wijzigt de Natuurbeschermingswet 1998.
 
-#### Artikel LXXXIII
+##### Artikel LXXXIII
 
 Wijzigt de Plantenziektenwet.
 
-#### Artikel LXXXIV
+##### Artikel LXXXIV
 
 Wijzigt de Reconstructiewet concentratiegebieden.
 
-#### Artikel LXXXV
+##### Artikel LXXXV
 
 Wijzigt de Wet gewasbeschermingsmiddelen en biociden.
 
-#### Artikel LXXXVI
+##### Artikel LXXXVI
 
 Wijzigt de Wet inrichting landelijk gebied.
 
-#### Artikel LXXXVII
+##### Artikel LXXXVII
 
 Wijzigt de Zaaizaad- en plantgoedwet 2005.
 
 ### **Ministerie van Onderwijs, Cultuur en Wetenschap**
 
-#### Artikel LXXXVIII
+##### Artikel LXXXVIII
 
 Wijzigt de Experimentenwet onderwijs.
 
-#### Artikel LXXXIX
+##### Artikel LXXXIX
 
 Wijzigt de Monumentenwet 1988.
 
-#### Artikel XC
+##### Artikel XC
 
 Wijzigt de Tijdelijke wet aanwijzing bèta-opleidingen.
 
-#### Artikel XCI
+##### Artikel XCI
 
 Wijzigt de Wet educatie en beroepsonderwijs.
 
-#### Artikel XCII
+##### Artikel XCII
 
 Wijzigt de Wet op de expertisecentra.
 
-#### Artikel XCIII
+##### Artikel XCIII
 
 Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
 
-#### Artikel XCIV
+##### Artikel XCIV
 
 Wijzigt de Wet op het primair onderwijs.
 
-#### Artikel XCV
+##### Artikel XCV
 
 Wijzigt de Wet op het voortgezet onderwijs.
 
 ### **Ministerie van Sociale Zaken en Werkgelegenheid**
 
-#### Artikel XCVI
+##### Artikel XCVI
 
 Wijzigt de Algemene Kinderbijslagwet.
 
-#### Artikel XCVII
+##### Artikel XCVII
 
 Wijzigt de Algemene nabestaandenwet.
 
-#### Artikel XCVIII
+##### Artikel XCVIII
 
 Wijzigt de Algemene Ouderdomswet.
 
-#### Artikel XCIX
+##### Artikel XCIX
 
 Wijzigt de Invoerings- en aanpassingswet Pensioenwet.
 
-#### Artikel C
+##### Artikel C
 
 Wijzigt de Liquidatiewet ongevallenwetten.
 
-#### Artikel CI
+##### Artikel CI
 
 Wijzigt de Pensioenwet.
 
-#### Artikel CII
+##### Artikel CII
 
 Wijzigt de Toeslagenwet.
 
-#### Artikel CIII
+##### Artikel CIII
 
 Wijzigt de Werkloosheidswet.
 
-#### Artikel CIV
+##### Artikel CIV
 
 Wijzigt de Wet arbeidsongeschiktheidsverzekering zelfstandigen.
 
-#### Artikel CV
+##### Artikel CV
 
 Wijzigt de Wet arbeid vreemdelingen.
 
-#### Artikel CVI
+##### Artikel CVI
 
 Wijzigt de Wet financiering sociale verzekeringen.
 
-#### Artikel CVII
+##### Artikel CVII
 
 Wijzigt de Wet inkomensvoorziening oudere werklozen.
 
-#### Artikel CVIII
+##### Artikel CVIII
 
 Wijzigt de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen.
 
-#### Artikel CIX
+##### Artikel CIX
 
 Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
 
-#### Artikel CX
+##### Artikel CX
 
 Wijzigt de Wet privatisering FVP.
 
-#### Artikel CXI
+##### Artikel CXI
 
 Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.
 
-#### Artikel CXII
+##### Artikel CXII
 
 Wijzigt de Wet werk en arbeidsondersteuning jonggehandicapten.
 
-#### Artikel CXIII
+##### Artikel CXIII
 
 Wijzigt de Wet werk en inkomen naar arbeidsvermogen.
 
-#### Artikel CXIV
+##### Artikel CXIV
 
 [Vervallen]
 
-#### Artikel CXV
+##### Artikel CXV
 
 Wijzigt de Wet verplichte beroepspensioenregeling.
 
-#### Artikel CXVI
+##### Artikel CXVI
 
 Wijzigt de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000.
 
-#### Artikel CXVII
+##### Artikel CXVII
 
 Wijzigt de Ziektewet.
 
 ### **Ministerie van Verkeer en Waterstaat**
 
-#### Artikel CXVIII
+##### Artikel CXVIII
 
 Wijzigt de Loodsenwet.
 
-#### Artikel CXIX
+##### Artikel CXIX
 
 Wijzigt de Ontgrondingenwet.
 
-#### Artikel CXX
+##### Artikel CXX
 
 Wijzigt de Spoedwet wegverbreding.
 
-#### Artikel CXXI
+##### Artikel CXXI
 
 Wijzigt de Spoorwegwet.
 
-#### Artikel CXXII
+##### Artikel CXXII
 
 Wijzigt de Tracéwet.
 
-#### Artikel CXXIII
+##### Artikel CXXIII
 
 Wijzigt de Waterwet.
 
-#### Artikel CXXIV
+##### Artikel CXXIV
 
 Wijzigt de Waterschapswet.
 
-#### Artikel CXXV
+##### Artikel CXXV
 
 Wijzigt de Wedervergeldingswet zeescheepvaart.
 
-#### Artikel CXXVI
+##### Artikel CXXVI
 
 Wijzigt de Wet bereikbaarheid en mobiliteit.
 
-#### Artikel CXXVII
+##### Artikel CXXVII
 
 Wijzigt de Wet bestrijding ongevallen Noordzee.
 
-#### Artikel CXXVIII
+##### Artikel CXXVIII
 
 Wijzigt de Wet capaciteitsbeheersing binnenvaartvloot.
 
-#### Artikel CXXIX
+##### Artikel CXXIX
 
 Wijzigt de Wet luchtvaart.
 
-#### Artikel CXXX
+##### Artikel CXXX
 
 Wijzigt de Wet nationaliteit zeeschepen in rompbevrachting.
 
-#### Artikel CXXXI
+##### Artikel CXXXI
 
 Wijzigt de Wet personenvervoer 2000.
 
-#### Artikel CXXXII
+##### Artikel CXXXII
 
 Wijzigt de Wet vervoer over zee.
 
-#### Artikel CXXXIII
+##### Artikel CXXXIII
 
 Wijzigt de Wet wegvervoer goederen.
 
 ### **Ministerie van Volksgezondheid, Welzijn en Sport**
 
-#### Artikel CXXXIV
+##### Artikel CXXXIV
 
 Wijzigt de Algemene Wet Bijzondere Ziektekosten.
 
-#### Artikel CXXXV
+##### Artikel CXXXV
 
 Wijzigt de Geneesmiddelenwet.
 
-#### Artikel CXXXVI
+##### Artikel CXXXVI
 
 Wijzigt de Tabakswet.
 
-#### Artikel CXXXVII
+##### Artikel CXXXVII
 
 Wijzigt de Warenwet.
 
-#### Artikel CXXXVIII
+##### Artikel CXXXVIII
 
 Wijzigt de Wet buitengewoon pensioen 1940-1945.
 
-#### Artikel CXXXIX
+##### Artikel CXXXIX
 
 Wijzigt de Wet buitengewoon pensioen Indisch verzet.
 
-#### Artikel CXI
+##### Artikel CXI
 
 Wijzigt de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers.
 
-#### Artikel CXLI
+##### Artikel CXLI
 
 Wijzigt de Wet geneesmiddelenprijzen.
 
-#### Artikel CXLII
+##### Artikel CXLII
 
 Wijzigt de Wet marktordening gezondheidszorg.
 
-#### Artikel CXLIII
+##### Artikel CXLIII
 
 Wijzigt de Wet op de jeugdzorg.
 
-#### Artikel CXLIV
+##### Artikel CXLIV
 
 Wijzigt de Wet toelating zorginstellingen.
 
-#### Artikel CXLV
+##### Artikel CXLV
 
 Wijzigt de Wet uitkeringen burger-oorlogsslachtoffers 1940-1945.
 
-#### Artikel CXLVI
+##### Artikel CXLVI
 
 Wijzigt de Wet uitkeringen vervolgingsslachtoffers 1940-1945.
 
-#### Artikel CXLVII
+##### Artikel CXLVII
 
 Wijzigt de Zorgverzekeringswet.
 
 ### **Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer**
 
-#### Artikel CXLVIII
+##### Artikel CXLVIII
 
 Wijzigt de Huisvestingswet.
 
-#### Artikel CXLIX
+##### Artikel CXLIX
 
 Wijzigt de Interimwet stad-en-milieubenadering.
 
-#### Artikel CL
+##### Artikel CL
 
 Wijzigt de Kadasterwet.
 
-#### Artikel CLI
+##### Artikel CLI
 
 Wijzigt de Kernenergiewet.
 
-#### Artikel CLII
+##### Artikel CLII
 
 Wijzigt de Leegstandwet.
 
-#### Artikel CLIIa
+##### Artikel CLIIa
 
 Wijzigt de Wet algemene bepalingen omgevingsrecht.
 
-#### Artikel CLIII
+##### Artikel CLIII
 
 Wijzigt de Wet ammoniak en veehouderij.
 
-#### Artikel CLIV
+##### Artikel CLIV
 
 Wijzigt de Wet balansverkorting geldelijke steun volkshuisvesting.
 
-#### Artikel CLV
+##### Artikel CLV
 
 Wijzigt de Wet bescherming Antarctica.
 
-#### Artikel CLVI
+##### Artikel CLVI
 
 Wijzigt de Wet bodembescherming.
 
-#### Artikel CLVII
+##### Artikel CLVII
 
 Wijzigt de Wet geluidhinder.
 
-#### Artikel CLVIII
+##### Artikel CLVIII
 
 Wijzigt de Wet inzake de luchtverontreiniging.
 
-#### Artikel CLIX
+##### Artikel CLIX
 
 Wijzigt de Wet milieubeheer.
 
-#### Artikel CLX
+##### Artikel CLX
 
 Wijzigt de Wet op de architectentitel.
 
-#### Artikel CLXI
+##### Artikel CLXI
 
 Wijzigt de Wet ruimtelijke ordening.
 
-#### Artikel CLXII
+##### Artikel CLXII
 
 Wijzigt de Woningwet.
 
 ## Deel Ba. **Samenloop met andere wetswijzigingen**
 
-#### Artikel I. (Beperkingengebied buitenlandse luchthaven, 31 898)
+##### Artikel I. (Beperkingengebied buitenlandse luchthaven, 31 898)
 
 Wijzigt deze wet.
 
-#### Artikel II. ([Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755), 32 588)
+##### Artikel II. ([Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755), 32 588)
 
 Wijzigt deze wet.
 
-#### Artikel III. (Herziening [EG-richtlijn handel in broeikasgasemissierechten](https://wetten.overheid.nl/jci1.3:c:BWBR0017265), 32 667)
+##### Artikel III. (Herziening [EG-richtlijn handel in broeikasgasemissierechten](https://wetten.overheid.nl/jci1.3:c:BWBR0017265), 32 667)
 
 Wijzigt deze wet.
 
-#### Artikel IV. (Huisvestingswet 20.., 32 271)
+##### Artikel IV. (Huisvestingswet 20.., 32 271)
 
 Wijzigt de Huisvestingswet 20...
 
-#### Artikel V. ([Invoeringswet geluidproductieplafonds](https://wetten.overheid.nl/jci1.3:c:BWBR0031679), 32 625)
+##### Artikel V. ([Invoeringswet geluidproductieplafonds](https://wetten.overheid.nl/jci1.3:c:BWBR0031679), 32 625)
 
 Wijzigt deze wet.
 
-#### Artikel VI. (Regelgeving burgerluchthavens en militaire luchthavens, Stb. 2008, 561)
+##### Artikel VI. (Regelgeving burgerluchthavens en militaire luchthavens, Stb. 2008, 561)
 
 Wijzigt deze wet.
 
-#### Artikel VII. (Wijziging [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950), 31 412)
+##### Artikel VII. (Wijziging [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950), 31 412)
 
 Wijzigt de Algemene wet bestuursrecht en de Wijziging van de Telecommunicatiewet in verband met de Nota frequentiebeleid 2005.
 
-#### Artikel VIII. (Warmtewet, 29 048)
+##### Artikel VIII. (Warmtewet, 29 048)
 
 Wijzigt de Warmtewet en de Algemene wet bestuursrecht.
 
-#### Artikel IX. ([Wet college voor de rechten van de mens](https://wetten.overheid.nl/jci1.3:c:BWBR0030733), 32 467)
+##### Artikel IX. ([Wet college voor de rechten van de mens](https://wetten.overheid.nl/jci1.3:c:BWBR0030733), 32 467)
 
 Wijzigt deze wet.
 
-#### Artikel X. ([Wet naleving Europese regelgeving publieke entiteiten](https://wetten.overheid.nl/jci1.3:c:BWBR0031640), 32 157)
+##### Artikel X. ([Wet naleving Europese regelgeving publieke entiteiten](https://wetten.overheid.nl/jci1.3:c:BWBR0031640), 32 157)
 
 Wijzigt deze wet.
 
-#### Artikel XI. ([Wet revitalisering generiek toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0031628), 32 389)
+##### Artikel XI. ([Wet revitalisering generiek toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0031628), 32 389)
 
 Wijzigt deze wet.
 
-#### Artikel XII. ([Wet strategische diensten](https://wetten.overheid.nl/jci1.3:c:BWBR0030545), 32 665)
+##### Artikel XII. ([Wet strategische diensten](https://wetten.overheid.nl/jci1.3:c:BWBR0030545), 32 665)
 
 Wijzigt de Wet strategische diensten.
 
-#### Artikel XIII. ([Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250))
+##### Artikel XIII. ([Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250))
 
 Wijzigt de Wet dieren.
 
-#### Artikel XIV. (Wijziging [Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804) en [Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640), Stb. 2011, 447)
+##### Artikel XIV. (Wijziging [Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804) en [Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640), Stb. 2011, 447)
 
 Wijzigt de Wet wapens en munitie en de Flora- en faunawet.
 
-#### Artikel XV. (Wet verbod pelsdierhouderij, 30 826 en 33 076)
+##### Artikel XV. (Wet verbod pelsdierhouderij, 30 826 en 33 076)
 
 Wijzigt de Levensloopregeling sector Rechterlijke Macht en de Algemene wet bestuursrecht.
 
-#### Artikel XVI. ([Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573), 33 025)
+##### Artikel XVI. ([Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573), 33 025)
 
 Wijzigt deze wet.
 
-#### Artikel XVII. ([Wet bekostiging financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0031659), 33 057)
+##### Artikel XVII. ([Wet bekostiging financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0031659), 33 057)
 
 Wijzigt deze wet.
 
-#### Artikel XVIII. ([Wet bijzondere maatregelen financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0031641), 33 059)
+##### Artikel XVIII. ([Wet bijzondere maatregelen financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0031641), 33 059)
 
 Wijzigt deze wet.
 
-#### Artikel XIX. (Wijziging [Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755) en [Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440), 32 814)
+##### Artikel XIX. (Wijziging [Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755) en [Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440), 32 814)
 
 Wijzigt deze wet.
 
 ## Deel C. **Overgangs- en slotbepalingen**
 
-#### Artikel 1
+##### Artikel 1
 
 1. Het recht zoals dit gold voor het tijdstip van inwerkingtreding van deze wet blijft van toepassing op:
 
@@ -848,15 +875,15 @@ Wijzigt deze wet.
 
 4. Indien [artikel 8:69a van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:69a) ingevolge het eerste lid niet van toepassing is op het beroep, is het artikel evenmin van toepassing op het hoger beroep.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Onze Ministers van Veiligheid en Justitie en van Binnenlandse Zaken en Koninkrijksrelaties zenden binnen vijf jaar na de inwerkingtreding van [deel A,artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0032634&deel=A&artikel=I&z=2013-07-01&g=2013-07-01), onderdeel YYY, aan de Staten-Generaal een verslag over de wijze waarop [artikel 8:69a van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:69a) is toegepast.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze wet wordt aangehaald als: Wet aanpassing bestuursprocesrecht.
 

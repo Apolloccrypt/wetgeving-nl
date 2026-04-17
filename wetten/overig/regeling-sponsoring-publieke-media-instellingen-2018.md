@@ -1,20 +1,46 @@
 ---
-title: "Regeling sponsoring publieke media-instellingen 2018"
+title: "Regeling van het Commissariaat voor de Media van 27 maart 2018 houdende beleidsregels ten aanzien van sponsoring van publieke media-instellingen en regels ten aanzien van titelsponsoring (Beleidsregel sponsoring publieke media-instellingen 2018)"
 identifier: "BWBR0040806"
-categorie: "Overig"
-publicatiedatum: 2018-04-13
-laatste_update: 2018-04-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040806"
+country: "nl"
+rank: "zbo"
+publication_date: "2018-04-13"
+last_updated: "2018-04-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040806"
+soort: "zbo"
+stam_id: "14586983"
+version_id: "24974622"
+internal_id: "C35709461"
+label_id: "14540654"
+dtd_version: "2.0"
+original_entry_into_force: "2018-04-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040806/2018-04-13/0"
+intitule_bron: "Stcrt.2018-20005"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-03-27"
+intitule_published: "2018-04-12"
+intitule_in_force: "2018-04-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-20005"
+original_signed_date: "2018-03-27"
+original_published_date: "2018-04-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-20005"
+entry_into_force_date: "2018-04-13"
+jci_1_3: "jci1.3:c:BWBR0040806&z=2018-04-13&g=2018-04-13"
+jci_1_0: "1.0:c:BWBR0040806&g=2018-04-13"
+citeertitel_status: "officieel"
+short_title: "Regeling sponsoring publieke media-instellingen 2018"
+signed_date: "2018-03-27"
+entry_into_force: "2018-04-13"
 ---
-
 # Regeling van het Commissariaat voor de Media van 27 maart 2018 houdende beleidsregels ten aanzien van sponsoring van publieke media-instellingen en regels ten aanzien van titelsponsoring (Beleidsregel sponsoring publieke media-instellingen 2018)
 
 Gelet op [afdeling 2.5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&afdeling=2.5.3) en [artikel 7.11 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=7.11), [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) en [artikel 13 van het Mediabesluit 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&artikel=13);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -38,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 - **wet:** [Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028).
 
-#### Artikel 2. Bruikleen of bijdrage van ondergeschikte betekenis
+##### Artikel 2. Bruikleen of bijdrage van ondergeschikte betekenis
 
 Er is geen sprake van **andere bijdragen** als bedoeld in de begripsomschrijving van sponsoring in [artikel 1.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=1.1) voor zover de bijdrage niet-financieel is, niet of niet-identificeerbaar wordt getoond of vermeld en:
 
@@ -46,7 +72,7 @@ Er is geen sprake van **andere bijdragen** als bedoeld in de begripsomschrijving
 
 - b. de waarde van deze bijdrage in verhouding tot de totale kosten van de totstandkoming of aankoop van het media-aanbod van ondergeschikte betekenis is, met dien verstande dat de bijdrage per natuurlijke persoon of onderneming ieder geval niet hoger is in waarde dan € 1.000 per bijdrage per videoprogramma en € 200 per bijdrage voor audioprogramma.
 
-#### Artikel 3. Bijdragen van overheidsinstellingen, media-instellingen of (co)producenten
+##### Artikel 3. Bijdragen van overheidsinstellingen, media-instellingen of (co)producenten
 
 Er is geen sprake van sponsoring als bedoeld in [artikel 1.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=1.1) indien een bijdrage ten behoeve van de totstandkoming of aankoop van media-aanbod wordt verstrekt door:
 
@@ -56,7 +82,7 @@ Er is geen sprake van sponsoring als bedoeld in [artikel 1.1, eerste lid, van de
 
 - c. de (co)producent.
 
-#### Artikel 4. Uitleg begrippen media-aanbod van culturele aard, media-aanbod van educatieve aard, sportevenement en evenement ten behoeve van ideële doelen
+##### Artikel 4. Uitleg begrippen media-aanbod van culturele aard, media-aanbod van educatieve aard, sportevenement en evenement ten behoeve van ideële doelen
 
 1. Onder **media-aanbod van culturele aard** als bedoeld in [artikel 2.106, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.106) wordt in beginsel verstaan: media-aanbod dat op grond van het CCC is ingedeeld als media-aanbod van culturele aard.
 
@@ -66,13 +92,13 @@ Er is geen sprake van sponsoring als bedoeld in [artikel 1.1, eerste lid, van de
 
 4. Onder **evenement ten behoeve van ideële doelen** als bedoeld in [artikel 2.106, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.106) wordt verstaan: een evenement als bedoeld in [artikel 1.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=1.1), dat voor publiek toegankelijk is, dat hoofdzakelijk tot doel heeft om een ideële doelstelling te bevorderen en niet hoofdzakelijk bestemd is om als media-aanbod te worden uitgezonden.
 
-#### Artikel 5. Media-aanbod bestaande uit nieuws, actualiteiten of politieke informatie
+##### Artikel 5. Media-aanbod bestaande uit nieuws, actualiteiten of politieke informatie
 
 1. Onder media-aanbod dat **geheel of gedeeltelijk bestaat uit nieuws of actualiteiten** als bedoeld in [artikel 2.106, derde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.106) wordt verstaan: media-aanbod dat frequent, ten minste één keer per week, wordt uitgezonden en dat bericht over gebeurtenissen van ten hoogste zeven dagen oud.
 
 2. Onder media-aanbod dat **geheel of gedeeltelijk bestaat uit politieke informatie** als bedoeld in [artikel 2.106, derde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.106) wordt verstaan: media-aanbod dat bericht over politici, politieke partijen en het politieke besluitvormingsproces.
 
-#### Artikel 6. Neutrale vermelding naam, (beeld)merk of ander onderscheidend teken van de sponsor
+##### Artikel 6. Neutrale vermelding naam, (beeld)merk of ander onderscheidend teken van de sponsor
 
 1. In [artikel 2.107, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.107) en [artikel 13 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&artikel=13) wordt verstaan onder:
 
@@ -84,7 +110,7 @@ Er is geen sprake van sponsoring als bedoeld in [artikel 1.1, eerste lid, van de
 
 2. Onder **neutrale vermelding of vertoning van naam of (beeld)merk of ander onderscheidend teken** als bedoeld in [artikel 2.107, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.107) wordt verstaan: een vermelding of vertoning uitsluitend bestaande uit de naam, het (beeld)merk of een ander onderscheidend teken van de sponsor, waarvan de vertoning, voor zover deze niet plaatsvindt op de aan- of aftiteling, uitsluitend plaatsvindt in een stilstaand beeld.
 
-#### Artikel 7. Sponsorvermelding ter informatie van het publiek
+##### Artikel 7. Sponsorvermelding ter informatie van het publiek
 
 1. Het publiek wordt geacht geïnformeerd te zijn als bedoeld in [artikel 2.107, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.107) indien aan het begin of aan het einde van het video- of audiogedeelte van het media-aanbod een sponsorvermelding duidelijk zichtbaar of hoorbaar is.
 
@@ -104,19 +130,19 @@ Er is geen sprake van sponsoring als bedoeld in [artikel 1.1, eerste lid, van de
 
 5. Bij de sponsoring van grafische gedeelten of tekstgedeelten in het media-aanbod vindt de vermelding niet plaats op overdreven of overdadige wijze.
 
-#### Artikel 8. Crowdfunding
+##### Artikel 8. Crowdfunding
 
 1. Bij crowdfunding wordt het publiek geacht geïnformeerd te zijn op een wijze als bedoeld in [artikel 2.107, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.107) indien aan het begin of aan het einde van het video- of audiogedeelte van het media-aanbod een vermelding van crowdfunding duidelijk zichtbaar of hoorbaar is.
 
 2. Aan het eerste lid wordt voldaan indien de vermelding bestaat uit de mededeling **crowdfunding door,** gevolgd door de namen, (beeld)merken of andere onderscheidende tekens van ondernemers die hebben bijgedragen.
 
-#### Artikel 9. Naam, (beeld)merk of ander onderscheidend teken van de sponsor
+##### Artikel 9. Naam, (beeld)merk of ander onderscheidend teken van de sponsor
 
 1. Bij de vermelding, bedoeld in [artikel 2.107, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.107), wordt per sponsor niet meer dan één naam, (beeld)merk of ander onderscheidend teken van de sponsor vermeld of getoond.
 
 2. Het bepaalde in het eerste lid is van overeenkomstige toepassing voor de vermelding, bedoeld in [artikel 13, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&artikel=13).
 
-#### Artikel 10. Niet toegestane sponsorvermelding
+##### Artikel 10. Niet toegestane sponsorvermelding
 
 Een vermelding als bedoeld in [artikel 2.107, eerste lid, van de we](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.107)t onderscheidenlijk [artikel 13, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&artikel=13) voldoet niet aan de in deze artikelen gestelde voorwaarden indien ten behoeve van de vermelding:
 
@@ -136,11 +162,11 @@ Een vermelding als bedoeld in [artikel 2.107, eerste lid, van de we](https://wet
 
 - h. de vormgeving van het product duidelijke overeenkomsten vertoont met de vormgeving van een product van de sponsor of van de consumentenverpakking van een product van de sponsor.
 
-#### Artikel 11. Producten of diensten van een sponsor
+##### Artikel 11. Producten of diensten van een sponsor
 
 Er is geen sprake van vermelding of vertoning van producten of diensten in gesponsord media-aanbod als bedoeld in [artikel 2.108, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.108) indien het gemiddelde publiek niet in staat is de desbetreffende producten of diensten te identificeren.
 
-#### Artikel 12. Voorwaarden titelsponsoring
+##### Artikel 12. Voorwaarden titelsponsoring
 
 Het Commissariaat kan aan een publieke media-instelling toestemming als bedoeld in [artikel 2.108, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.108) verlenen voor het vermelden of vertonen van een naam, (beeld)merk, product of dienst van een sponsor in de titel van gesponsord media-aanbod, indien:
 
@@ -148,7 +174,7 @@ Het Commissariaat kan aan een publieke media-instelling toestemming als bedoeld 
 
 - b. de titel beperkt en neutraal in het media-aanbod wordt getoond of vermeld.
 
-#### Artikel 13. Indienen verzoek voor titelsponsoring
+##### Artikel 13. Indienen verzoek voor titelsponsoring
 
 1. De publieke media-instelling stelt het Commissariaat bij de indiening van het verzoek om toestemming, bedoeld in [artikel 2.108, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.108) alle relevante bescheiden, waaronder in ieder geval het programmastatuut, ter beschikking.
 
@@ -156,21 +182,21 @@ Het Commissariaat kan aan een publieke media-instelling toestemming als bedoeld 
 
 3. Het verzoek wordt door de publieke media-instelling uiterlijk twee weken voor de eerste uitzending van het media-aanbod waar de toestemming betrekking op heeft ingediend.
 
-#### Artikel 14. Sponsorbijdrage rechtstreeks van de sponsors
+##### Artikel 14. Sponsorbijdrage rechtstreeks van de sponsors
 
 De schriftelijke overeenkomst door middel waarvan sponsorbijdragen worden bedongen of aanvaard, als bedoeld in [artikel 2.109, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.109), wordt in ieder geval door de publieke media-instelling ondertekend.
 
-#### Artikel 15. Intrekking Beleidsregels
+##### Artikel 15. Intrekking Beleidsregels
 
 De volgende beleidsregel worden ingetrokken:
 
 [Beleidsregels sponsoring publieke media-instellingen 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038072).
 
-#### Artikel 16. Inwerkingtreding
+##### Artikel 16. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.
 
-#### Artikel 17. Citeertitel
+##### Artikel 17. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling sponsoring publieke media-instellingen 2018.
 

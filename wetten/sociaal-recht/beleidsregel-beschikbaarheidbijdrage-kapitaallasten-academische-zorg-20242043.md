@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel beschikbaarheidbijdrage kapitaallasten academische zorg 2024–2043"
+title: "Beleidsregel beschikbaarheidbijdrage kapitaallasten academische zorg 2024–2043, Nederlandse Zorgautoriteit"
 identifier: "BWBR0048962"
-categorie: "Sociaal recht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048962"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048962"
+soort: "zbo"
+stam_id: "16936513"
+version_id: "29766002"
+internal_id: "C42657861"
+label_id: "16847934"
+dtd_version: "2.0"
+original_entry_into_force: "2024-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048962/2024-01-01/0"
+intitule_bron: "Stcrt.2023-31929"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-10-31"
+intitule_published: "2023-11-22"
+intitule_in_force: "2023-11-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-31929"
+original_signed_date: "2023-10-31"
+original_published_date: "2023-11-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-31929"
+entry_into_force_date: "2024-01-01"
+jci_1_3: "jci1.3:c:BWBR0048962&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0048962&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel beschikbaarheidbijdrage kapitaallasten academische zorg 2024–2043"
+signed_date: "2023-10-31"
+entry_into_force: "2024-01-01"
 ---
-
 # Beleidsregel beschikbaarheidbijdrage kapitaallasten academische zorg 2024–2043, Nederlandse Zorgautoriteit
 
 Gelet op [artikel 57, eerste lid, onderdeel e, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot het uitoefenen van de bevoegdheidtot het toekennen van een beschikbaarheidbijdrage als bedoeld in [artikel 56a van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=56a).
@@ -16,15 +42,15 @@ Gelet op [artikel 59, onderdeel e, van de Wmg](https://wetten.overheid.nl/jci1.3
 
 Op de beschikbaarheidbijdrage is [titel 4.2 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2) (‘subsidies’) van toepassing.
 
-#### Artikel 1. Reikwijdte
+##### Artikel 1. Reikwijdte
 
 Deze beleidsregel is van toepassing op academische zorg die betrekking heeft op medisch specialistische zorg geleverd door universitaire medische centra en het Antoni van Leeuwenhoek ziekenhuis.
 
-#### Artikel 2. Doel van de beleidsregel
+##### Artikel 2. Doel van de beleidsregel
 
 Doel van deze beleidsregel is het bekostigen van kapitaallasten in verband met academische zorg die betrekking heeft op medisch specialistische zorg.
 
-#### Artikel 3. Begripsbepalingen
+##### Artikel 3. Begripsbepalingen
 
 In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
@@ -38,7 +64,7 @@ In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
 - **Minister:** De Minister van Volksgezondheid, Welzijn en Sport.
 
-#### Artikel 4. Algemeen
+##### Artikel 4. Algemeen
 
 4.1. **Aangewezen vormen van zorg**
 
@@ -62,7 +88,7 @@ De beleidsregel Uniform kader beschikbaarheidbijdrage NZa beschrijft de procedur
 
 In enkele gevallen is een uitzondering op de uniforme procedure nodig. Deze uitzondering staat in dat geval omschreven in onderhavige beleidsregel en bij de betreffende zorgfunctie.
 
-#### Artikel 5. Hoogte van de beschikbaarheidbijdrage
+##### Artikel 5. Hoogte van de beschikbaarheidbijdrage
 
 5.1. **Omvang beschikbare middelen umc’s**
 
@@ -96,21 +122,21 @@ De bedragen in deze beleidsregel zijn op prijspeil 2023. Hierbij is gerekend met
 
 De omvang van de beschikbaarheidbijdrage is gelijk aan 2023 geïndexeerd naar prijsniveau 2024. Het totaal bedrag voor 2023 exclusief de index voor 2024 bedraagt € 1.963.386.
 
-#### Artikel 6. Voorwaarden, voorschriften en beperkingen
+##### Artikel 6. Voorwaarden, voorschriften en beperkingen
 
 6.1. De bedragen van de beschikbaarheidbijdragen worden door de zorgaanbieder apart verantwoord in de betreffende jaarrekeningen.
 
 6.2. De mogelijkheid tot reservering voor het doel waarvoor een beschikbaarheidbijdrage voor kapitaallasten is verleend, is beperkt tot een periode van maximaal vier jaren met ingang van het jaar waarvoor de bijdrage is toegekend. Het bedrag dat is gereserveerd wordt apart verantwoord in de jaarrekening van de zorgaanbieder.
 
-#### Artikel 7. Intrekking
+##### Artikel 7. Intrekking
 
 Gelijktijdig met inwerkingtreding van deze beleidsregel wordt de beleidsregel ‘Beschikbaarheidbijdrage kapitaallasten academische zorg 2020–2023’, met kenmerk BR/REG-20155, ingetrokken.
 
-#### Artikel 8. Overgangsbepaling
+##### Artikel 8. Overgangsbepaling
 
 De beleidsregel ‘Beschikbaarheidbijdrage kapitaallasten academische zorg 2020–2023’ (kenmerk BR/REG-20155) blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die beleidsregel en die betrekking hebben op de periode waarvoor die beleidsregel gold.
 
-#### Artikel 9. Inwerkingtreding en citeerregel
+##### Artikel 9. Inwerkingtreding en citeerregel
 
 Deze beleidsregel treedt in werking met ingang 1 januari 2024 en vervalt met ingang van 1 januari 2044.
 

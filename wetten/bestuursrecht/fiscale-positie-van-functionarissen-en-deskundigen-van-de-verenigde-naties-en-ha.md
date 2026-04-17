@@ -1,13 +1,38 @@
 ---
-title: "Fiscale positie van functionarissen en deskundigen van de Verenigde Naties en haar gespecialiseerde organisaties"
+title: "Besluit staatssecretaris van Financiën 7 maart 1995, nr. IFZ95/223, oorspronkelijk 29 juni 1962, nr. B2/9545 (art. V, § 18,Verdrag nopens de voorrechten en immuniteiten VN)"
 identifier: "BWBR0027806"
-categorie: "Bestuursrecht"
-publicatiedatum: 1995-03-07
-laatste_update: 1995-03-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027806"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "1995-03-07"
+last_updated: "1995-03-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027806"
+soort: "beleidsregel"
+stam_id: "10583403"
+version_id: "17466182"
+internal_id: "C24161471"
+label_id: "10558244"
+dtd_version: "2.0"
+original_entry_into_force: "1995-03-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027806/1995-03-07/0"
+intitule_bron: "Infob.1995-400"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-03-07"
+intitule_published: "1995-01-01"
+intitule_in_force: "1995-01-01"
+intitule_status: "goed"
+original_publication: "Infob.1995-400"
+original_signed_date: "1995-03-07"
+original_published_date: "1995-01-01"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1995-03-07"
+jci_1_3: "jci1.3:c:BWBR0027806&z=1995-03-07&g=1995-03-07"
+jci_1_0: "1.0:c:BWBR0027806&g=1995-03-07"
+citeertitel_status: "redactioneel"
+short_title: "Fiscale positie van functionarissen en deskundigen van de Verenigde Naties en haar gespecialiseerde organisaties"
+signed_date: "1995-03-07"
+entry_into_force: "1995-03-07"
 ---
-
 # Besluit staatssecretaris van Financiën 7 maart 1995, nr. IFZ95/223, oorspronkelijk 29 juni 1962, nr. B2/9545 (art. V, § 18,Verdrag nopens de voorrechten en immuniteiten VN)
 
 Functionarissen van de Verenigde Naties zijn op grond van artikel V, par. 18, van het verdrag van 13 februari 1946 nopens de voorrechten en immuniteiten van de Verenigde Naties vrijgesteld van belasting op de salarissen en emolumenten, die door de Verenigde Naties aan hen worden betaald. Het progressie-voorbehoud wordt daarbij niet gemaakt.

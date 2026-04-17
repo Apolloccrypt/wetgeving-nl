@@ -1,13 +1,39 @@
 ---
-title: "Regeling specifieke bepalingen CRD en CRR"
+title: "Regeling van De Nederlandsche Bank N.V. van 23 september 2019, houdende regels met betrekking tot de implementatie en invoering van specifieke bepalingen en opties en discreties uit de richtlijn en verordening kapitaalvereisten (Regeling specifieke bepalingen CRD en CRR 2019)"
 identifier: "BWBR0042578"
-categorie: "Overig"
-publicatiedatum: 2026-03-06
-laatste_update: 2026-03-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042578"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-03-06"
+last_updated: "2026-03-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042578"
+soort: "zbo"
+stam_id: "15170613"
+version_id: "26014732"
+internal_id: "C37050861"
+label_id: "15118094"
+dtd_version: "2.0"
+original_entry_into_force: "2019-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042578/2026-03-06/0"
+intitule_bron: "Stcrt.2019-53011"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-09-23"
+intitule_published: "2019-09-30"
+intitule_in_force: "2019-09-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-53011"
+original_signed_date: "2019-09-23"
+original_published_date: "2019-09-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-53011"
+entry_into_force_date: "2019-10-01"
+jci_1_3: "jci1.3:c:BWBR0042578&z=2026-03-06&g=2026-03-06"
+jci_1_0: "1.0:c:BWBR0042578&g=2026-03-06"
+citeertitel_status: "officieel"
+short_title: "Regeling specifieke bepalingen CRD en CRR"
+signed_date: "2019-09-23"
+entry_into_force: "2019-10-01"
 ---
-
 # Regeling van De Nederlandsche Bank N.V. van 23 september 2019, houdende regels met betrekking tot de implementatie en invoering van specifieke bepalingen en opties en discreties uit de richtlijn en verordening kapitaalvereisten (Regeling specifieke bepalingen CRD en CRR 2019)
 
 Na overleg met de representatieve organisaties en consultatie;
@@ -28,7 +54,7 @@ Besluit:
 
 ### Hoofdstuk 1. - Algemene bepalingen
 
-#### Artikel 1:1. - Definities
+##### Artikel 1:1. - Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -46,7 +72,7 @@ In deze regeling wordt verstaan onder:
 
 - g). **LCR DR:** de **Liquidity Coverage Ratio Delegated Regulation**, oftewel Gedelegeerde [Verordening (EU) 2015/61](31961R2015) van de Commissie van 10 oktober 2014 ter aanvulling van [Verordening (EU) nr. 575/2013](32013R0575) van het Europees Parlement en de Raad met betrekking tot het liquiditeitsdekkingsvereiste voor kredietinstellingen.
 
-#### Artikel 1:2. - Toepassingsbereik van deze regeling
+##### Artikel 1:2. - Toepassingsbereik van deze regeling
 
 1. Voor de toepassing van [Hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&hoofdstuk=2&z=2026-03-06&g=2026-03-06) van deze regeling wordt onder instelling verstaan:
 
@@ -62,13 +88,13 @@ In deze regeling wordt verstaan onder:
 
 3. [Hoofstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&hoofdstuk=3&z=2026-03-06&g=2026-03-06) van deze regeling is van overeenkomstige toepassing op clearinginstellingen met zetel in Nederland en op clearinginstellingen met zetel in een niet-aangewezen staat die hun bedrijf uitoefenen vanuit in Nederland gelegen bijkantoren, tenzij de aard van de bepaling of de systematiek van deze regeling deze overeenkomstige toepassing uitsluit.
 
-#### Artikel 1:3. - Aanwijzing gemeenschappelijke regelingen met openbaar lichaam
+##### Artikel 1:3. - Aanwijzing gemeenschappelijke regelingen met openbaar lichaam
 
 Gemeenschappelijke regelingen als bedoeld in de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) waarvoor een openbaar lichaam is ingesteld worden aangemerkt als regionale en lokale overheden als bedoeld in artikel 115, lid 2 van de CRR.
 
 ### Hoofdstuk 2. - Macroprudentiële opties en discreties
 
-#### Artikel 2:1. - Systeemrisicobuffer
+##### Artikel 2:1. - Systeemrisicobuffer
 
 1. Een instelling beschikt over een systeemrisicobuffer, als bedoeld in [artikel 105, eerste lid 1, onderdeel d van het Bpr](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=105), wanneer dat naar het oordeel van DNB nodig is ter voorkoming of beperking van macroprudentiële of systeemrisico’s als bedoeld in artikel 133, eerste lid van de CRD.
 
@@ -76,7 +102,7 @@ Gemeenschappelijke regelingen als bedoeld in de [Wet gemeenschappelijke regeling
 
 ### Hoofdstuk 3. Microprudentiële opties en discreties
 
-#### Artikel 3:1. - Risicoweging van en verbod op in aanmerking komende deelnemingen buiten de financiële sector
+##### Artikel 3:1. - Risicoweging van en verbod op in aanmerking komende deelnemingen buiten de financiële sector
 
 Gelet op artikel 89, lid 3 van de CRR en onverminderd artikel 90 van de CRR passen instellingen ter berekening van de kapitaalvereisten overeenkomstig deel drie van de CRR een risicogewicht van 1250% toe op het hoogste van het hiernavolgende:
 
@@ -84,11 +110,11 @@ Gelet op artikel 89, lid 3 van de CRR en onverminderd artikel 90 van de CRR pass
 
 - b). het totale bedrag van de in artikel 89, lid 2 van de CRR bedoelde in aanmerking komende deelnemingen in ondernemingen dat hoger is dan 60% van het in aanmerking komende kapitaal van de instelling.
 
-#### Artikel 3:2. - Wanbetaling door debiteuren
+##### Artikel 3:2. - Wanbetaling door debiteuren
 
 Instellingen passen met betrekking tot de in artikel 178, lid 1, onderdeel b) van de CRR genoemde categorieën blootstellingen de ‘meer-dan-90-dagen-achterstallig’-norm toe.
 
-#### Artikel 3:3. - Drempelwaarde voor de beoordeling van de materialiteit van een achterstallige kredietverplichting
+##### Artikel 3:3. - Drempelwaarde voor de beoordeling van de materialiteit van een achterstallige kredietverplichting
 
 1. In de context van artikel 178, lid 2, onderdeel d) van de CRR beoordelen instellingen de materialiteit van een achterstallige kredietverplichting met gebruik van de volgende drempelwaarde, die twee componenten bevat:
 
@@ -106,7 +132,7 @@ Instellingen passen met betrekking tot de in artikel 178, lid 1, onderdeel b) va
 
 4. Instellingen passen de drempelwaarde voor de beoordeling van de materialiteit van een achterstallige kredietverplichting ten laatste op 31 december 2020 toe. Zij stellen DNB uiterlijk op 1 maart 2020 in kennis van de exacte datum waarop zij beginnen met de toepassing van een dergelijke drempelwaarde.
 
-#### Artikel 3:4. - Vrijstelling van limieten voor grote blootstellingen (grote posten)
+##### Artikel 3:4. - Vrijstelling van limieten voor grote blootstellingen (grote posten)
 
 1. De volgende blootstellingen worden vrijgesteld van toepassing van de in artikel 395, lid 1 van de CRR genoemde limieten voor grote blootstellingen (grote posten), mits is voldaan aan de in artikel 400, lid 3 van de CRR gestelde voorwaarden:
 
@@ -124,7 +150,7 @@ Instellingen passen met betrekking tot de in artikel 178, lid 1, onderdeel b) va
 
 2. Instellingen beoordelen of is voldaan aan de in artikel 400, lid 3 van de CRR gestelde voorwaarden, alsook aan de [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&bijlage=I&z=2026-03-06&g=2026-03-06) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&bijlage=II&z=2026-03-06&g=2026-03-06), voor zover van toepassing op de specifieke blootstelling. DNB kan te allen tijde deze beoordeling verifiëren en daartoe van instellingen verlangen dat zij de in bijlage I of II bedoelde documentatie indienen.
 
-#### Artikel 3:5. – Identificatie van de belangrijke beursindexen van een lidstaat of een derde land
+##### Artikel 3:5. – Identificatie van de belangrijke beursindexen van een lidstaat of een derde land
 
 De volgende indexen kwalificeren als belangrijke aandelenindexen voor het bepalen van de omvang van aandelen die overeenkomstig artikel 12, lid 1, punt c), van de LCR DR als activa van niveau 2B kunnen worden aangemerkt:
 
@@ -134,39 +160,39 @@ De volgende indexen kwalificeren als belangrijke aandelenindexen voor het bepale
 
 - c). elke niet onder onderdelen a) of b) opgenomen belangrijke aandelenindex, bestaande uit vooraanstaande ondernemingen in het desbetreffende rechtsgebied.
 
-#### Artikel 3:6. – Niveau 2B-activa
+##### Artikel 3:6. – Niveau 2B-activa
 
 1. Instellingen die krachtens hun statuten om redenen van godsdienstige overtuiging niet in staat zijn om rentedragende activa aan te houden, kunnen bedrijfsschuldpapieren opnemen als activa van niveau 2B overeenkomstig alle in artikel 12, lid 1, onderdeel b) van de LCR DR vastgelegde voorwaarden.
 
 2. Voor de in lid 1 bedoelde instellingen kan DNB periodiek het in lid 1 vastgelegde vereiste herzien en vrijstelling van artikel 12, lid 1, onderdeel b), ii) en iii), van de LCR DR verlenen, indien aan de in artikel 12, lid 3, van de LCR DR is voldaan.
 
-#### Artikel 3:7. – Factoren voor vereiste stabiele financiering voor blootstellingen buiten de balanstelling
+##### Artikel 3:7. – Factoren voor vereiste stabiele financiering voor blootstellingen buiten de balanstelling
 
 1. Tenzij DNB andere factoren voor vereiste stabiele financiering vaststelt, passen instellingen op blootstellingen buiten de balanstelling die niet in deel zes, titel IV, hoofdstuk 4, van de CRR worden genoemd en die binnen het toepassingsgebied van artikel 428 septdecies, lid 10, van de CRR vallen, factoren voor vereiste stabiele financiering toe die overeenstemmen met de uitstroompercentages die zij in het kader van artikel 23 van de LCR DR toepassen op gerelateerde producten en diensten in het liquiditeitsdekkingsvereiste.
 
 2. Instellingen die toestemming hebben ontvangen van DNB om het in deel zes, titel IV, hoofdstuk 5, van de CRR bedoelde vereenvoudigde nettostabielefinancieringsvereiste toe te passen, volgen de in het eerste lid gespecificeerde benadering bij de toepassing van artikel 428 quaterquadragies, lid 10 van de CRR.
 
-#### Artikel 3:8. – Bepaling van de bezwaringsduur voor activa die zijn afgescheiden
+##### Artikel 3:8. – Bepaling van de bezwaringsduur voor activa die zijn afgescheiden
 
 1. Indien activa overeenkomstig artikel 11, lid 3 van [Verordening (EU) nr. 648/2012](32012R0648) van het Europees Parlement en de Raad zijn afgescheiden en instellingen niet vrijelijk over dergelijke activa kunnen beschikken, beschouwen instellingen deze activa als bezwaard voor een periode die overeenkomt met de termijn van de verplichtingen jegens de cliënten van de instellingen waarop dat afscheidingsvereiste betrekking heeft.
 
 2. Instellingen die toestemming hebben ontvangen van DNB om het in deel zes, titel IV, hoofdstuk 5, van de CRR bedoelde vereenvoudigde nettostabielefinancieringsvereiste toe te passen, volgen de in het eerste lid gespecificeerde benadering bij de toepassing van artikel 428 quinquesquadragies, lid 2, van de CRR.
 
-#### Artikel 3:9. – Toepassing toezichthouderdiscretie op grond van de CRR
+##### Artikel 3:9. – Toepassing toezichthouderdiscretie op grond van de CRR
 
 Een bank als bedoeld in [artikel 3:33a, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:33a) kan onroerend goed dat als zekerheid is gesteld voor gedekte obligaties waarderen tegen of onder de marktwaarde of tegen de hypotheekwaarde van dat onroerend goed, zonder dat de in artikel 229, eerste lid, onderdeel e, van de CRR vastgelegde plafonds hoeven te worden toegepast.
 
 ### Hoofdstuk 4. - Slotbepalingen
 
-#### Artikel 4:1. - Intrekking van toezichthouderregeling
+##### Artikel 4:1. - Intrekking van toezichthouderregeling
 
 De [Regeling specifieke bepalingen CRD IV en CRR](https://wetten.overheid.nl/jci1.3:c:BWBR0034435) (Stcrt. 2013, 35423) wordt ingetrokken.
 
-#### Artikel 4:2. - Citeertitel
+##### Artikel 4:2. - Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling specifieke bepalingen CRD en CRR.
 
-#### Artikel 4:3. - Inwerkingtreding
+##### Artikel 4:3. - Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 oktober 2019.
 
@@ -276,7 +302,7 @@ Deze regeling treedt in werking met ingang van 1 oktober 2019.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 2:2. – Minimumvloer risicogewichten leningen gedekt met hypotheken op onroerend goed
+##### Artikel 2:2. – Minimumvloer risicogewichten leningen gedekt met hypotheken op onroerend goed
 
 1. Een bank met zetel in Nederland, die ingevolge artikel 143 van de CRR toestemming heeft om risicogewogen posten voor blootstellingen met betrekking tot natuurlijke personen, als bedoeld in artikel 147(5)(a)(iii) van de CRR, te berekenen aan de hand van de interneratingbenadering, voldoet met betrekking tot het totaal van de blootstellingen op natuurlijke personen gedekt door niet-zakelijk onroerend goed in Nederland ten minste aan de vereiste gemiddelde risicoweging als bedoeld in lid 2 van dit artikel.
 
@@ -348,7 +374,7 @@ Van de aldus berekende risicogewichten voor de individuele blootstellingen wordt
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 2:3. – Erkenning van buitenlandse macroprudentiële maatregelen
+##### Artikel 2:3. – Erkenning van buitenlandse macroprudentiële maatregelen
 
 1. DNB kan besluiten, met inachtneming van artikel 134 van de CRD en de relevante aanbevelingen van het Europees Comité voor systeemrisico’s, om een door een andere lidstaat vastgesteld systeemrisicobufferpercentage als bedoeld in artikel 133 van de CRD te erkennen en toe te passen op instellingen voor blootstellingen in de lidstaat waar dat bufferpercentage is vastgesteld.
 

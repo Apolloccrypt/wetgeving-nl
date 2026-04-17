@@ -1,13 +1,38 @@
 ---
 title: "Verdrag inzake nucleaire veiligheid"
 identifier: "BWBV0001256"
-categorie: "Internationaal recht"
-publicatiedatum: 1997-01-13
-laatste_update: 1997-01-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001256"
+country: "nl"
+rank: "verdrag"
+publication_date: "1997-01-13"
+last_updated: "1997-01-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001256"
+soort: "verdrag"
+stam_id: "10001670113"
+version_id: "10001748542"
+internal_id: "C10006986511"
+label_id: "10001670584"
+dtd_version: "2.0"
+original_entry_into_force: "1997-01-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001256/1997-01-13/0"
+intitule_bron: "Trb.1994-284"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-10-15"
+intitule_published: "1994-12-30"
+intitule_in_force: "1996-11-29"
+intitule_status: "goed"
+original_publication: "Trb.1994-284"
+original_signed_date: "1996-10-15"
+original_published_date: "1994-12-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1994-284"
+entry_into_force_date: "1997-01-13"
+jci_1_3: "jci1.3:c:BWBV0001256&z=1997-01-13&g=1997-01-13"
+jci_1_0: "1.0:c:BWBV0001256&g=1997-01-13"
+citeertitel_status: "redactioneel"
+signed_date: "1996-10-15"
+entry_into_force: "1997-01-13"
 ---
-
 # Verdrag inzake nucleaire veiligheid
 
 Preambule
@@ -38,7 +63,7 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK 1. DOELSTELLINGEN, BEGRIPSOMSCHRIJVINGEN EN WERKINGSSFEER
 
-#### Artikel 1. Doelstellingen
+##### Artikel 1. Doelstellingen
 
 De doelstellingen van dit Verdrag zijn de volgende:
 
@@ -48,7 +73,7 @@ De doelstellingen van dit Verdrag zijn de volgende:
 
 - iii. het voorkomen van ongevallen met stralingsgevolgen en het beperken van de gevolgen, als dergelijke ongevallen zich toch voordoen.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag:
 
@@ -58,7 +83,7 @@ Voor de toepassing van dit Verdrag:
 
 - iii. wordt onder „vergunning" verstaan: een door het regulerend lichaam aan de aanvrager verleende machtiging, op grond waarvan deze de verantwoordelijkheid draagt voor de keuze van de vestigingsplaats, het ontwerp, de bouw, de inbedrijfstelling, de bedrijfsvoering of de buitenbedrijfstelling van een kerninstallatie.
 
-#### Artikel 3. Werkingssfeer
+##### Artikel 3. Werkingssfeer
 
 Dit Verdrag is van toepassing op de veiligheid van kerninstallaties.
 
@@ -66,21 +91,21 @@ Dit Verdrag is van toepassing op de veiligheid van kerninstallaties.
 
 #### Algemene bepalingen a
 
-#### Artikel 4. Uitvoeringsmaatregelen
+##### Artikel 4. Uitvoeringsmaatregelen
 
 Elke Verdragsluitende Partij treft binnen het kader van haar nationale recht de wetgevende, regelgevende en bestuurlijke maatregelen en andere voorzieningen die noodzakelijk zijn ter nakoming van haar verplichtingen ingevolge dit Verdrag.
 
-#### Artikel 5. Rapportage
+##### Artikel 5. Rapportage
 
 Elke Verdragsluitende Partij dient, ter toetsing, vóór elke in artikel 20 bedoelde vergadering een rapport in betreffende de maatregelen die zij heeft genomen ter nakoming van elk van de verplichtingen van dit Verdrag.
 
-#### Artikel 6. Bestaande kerninstallaties
+##### Artikel 6. Bestaande kerninstallaties
 
 Elke Verdragsluitende Partij neemt passende maatregelen om te waarborgen dat de veiligheid van kerninstallaties die bestaan op het tijdstip waarop dit Verdrag voor die Verdragsluitende Partij in werking treedt, zo spoedig mogelijk wordt getoetst. Wanneer zulks in het kader van dit Verdrag noodzakelijk is, draagt de Verdragsluitende Partij er zorg voor dat alle redelijkerwijs uitvoerbare verbeteringen zo snel mogelijk worden aangebracht ter vergroting van de veiligheid van de kerninstallatie. Indien bedoelde vergroting van de veiligheid niet kan worden verwezenlijkt, dienen plannen te worden uitgevoerd gericht op sluiting van de kerninstallatie zodra zulks praktisch mogelijk is. Bij de bepaling van het tijdstip van sluiting kan rekening worden gehouden met de gehele energiecontext en mogelijke alternatieven, alsmede met de sociale en economische gevolgen en de milieu-effecten.
 
 #### Wet- en regelgeving b
 
-#### Artikel 7. Wet- en regelgevend kader
+##### Artikel 7. Wet- en regelgevend kader
 
 1. Elke Verdragsluitende Partij schept en handhaaft een wet- en regelgevend kader betreffende de veiligheid van kerninstallaties.
 
@@ -94,37 +119,37 @@ Elke Verdragsluitende Partij neemt passende maatregelen om te waarborgen dat de 
 
 - iv. de handhaving van de toepasselijke regelgeving en het bepaalde in de vergunningen, met inbegrip van opschorting, aanpassing of intrekking daarvan.
 
-#### Artikel 8. Regulerend lichaam
+##### Artikel 8. Regulerend lichaam
 
 1. Door elke Verdragsluitende Partij wordt een regulerend lichaam opgericht of aangewezen ter uitvoering van het in artikel 7 bedoelde wet- en regelgevend kader, dat beschikt over passende bevoegdheden, bekwaamheid en financiële en personele middelen om de toegewezen taken te vervullen.
 
 2. Elke Verdragsluitende Partij neemt passende maatregelen om te zorgen voor een daadwerkelijke scheiding van taken tussen het regulerende lichaam en andere lichamen of organisaties die zich bezighouden met de bevordering of het gebruik van kernenergie.
 
-#### Artikel 9. Verantwoordelijkheid van de vergunninghouder
+##### Artikel 9. Verantwoordelijkheid van de vergunninghouder
 
 Elke Verdragsluitende Partij draagt er zorg voor dat de hoofdverantwoordelijkheid voor de veiligheid van een kerninstallatie berust bij de houder van de desbetreffende vergunning en neemt passende maatregelen om te waarborgen dat iedere vergunninghouder zijn verantwoordelijkheid in acht neemt.
 
 #### Algemene veiligheidsoverwegingen c
 
-#### Artikel 10. Prioriteit aan veiligheid
+##### Artikel 10. Prioriteit aan veiligheid
 
 Elke Verdragsluitende Partij neemt passende maatregelen om te waarborgen dat alle organisaties die activiteiten verrichten die rechtstreeks verband houden met kerninstallaties, beleidslijnen uitzetten waarin de nodige prioriteit wordt gegeven aan nucleaire veiligheid.
 
-#### Artikel 11. Financiële en personele middelen
+##### Artikel 11. Financiële en personele middelen
 
 1. Elke Verdragsluitende Partij neemt passende maatregelen om te waarborgen dat er voldoende financiële middelen beschikbaar zijn ten behoeve van de veiligheid van iedere kerninstallatie gedurende de gehele levensduur daarvan.
 
 2. Elke Verdragsluitende Partij neemt passende maatregelen om te waarborgen dat voldoende gekwalificeerd personeel met deugdelijke opleiding, training en hertraining beschikbaar is voor alle met de veiligheid verband houdende activiteiten die in of voor iedere kerninstallatie worden verricht gedurende de gehele levensduur daarvan.
 
-#### Artikel 12. Menselijke factoren
+##### Artikel 12. Menselijke factoren
 
 Elke Verdragsluitende Partij neemt passende maatregelen om te waarborgen dat de mogelijkheden en beperkingen van het menselijk handelen in aanmerking worden genomen gedurende de gehele levensduur van een kerninstallatie.
 
-#### Artikel 13. Kwaliteitsborging
+##### Artikel 13. Kwaliteitsborging
 
 Elke Verdragsluitende Partij neemt passende maatregelen om zeker te stellen dat er programma's voor kwaliteitsborging worden opgezet en uitgevoerd, teneinde zekerheid te bieden dat de gestelde eisen voor alle activiteiten die voor nucleaire veiligheid van belang zijn, gedurende de gehele levensduur van een kerninstallatie in acht worden genomen.
 
-#### Artikel 14. Beoordeling en verificatie van de veiligheid
+##### Artikel 14. Beoordeling en verificatie van de veiligheid
 
 Elke Verdragsluitende Partij neemt passende maatregelen om zeker te stellen dat:
 
@@ -132,11 +157,11 @@ Elke Verdragsluitende Partij neemt passende maatregelen om zeker te stellen dat:
 
 - ii. verificaties plaatsvinden door middel van analyse, bewaking, beproeving en inspectie teneinde erop toe te zien dat de fysieke toestand en de bedrijfsvoering van een kerninstallatie in overeenstemming blijven met het ontwerp, met de toepasselijke nationale veiligheidseisen en met de bedrijfslimieten en -voorwaarden.
 
-#### Artikel 15. Stralenbescherming
+##### Artikel 15. Stralenbescherming
 
 Elke Verdragsluitende Partij neemt passende maatregelen om zeker te stellen dat in alle bedrijfstoestanden de blootstelling van werknemers en het publiek aan ioniserende straling van een kerninstallatie zo gering blijft als redelijkerwijs mogelijk is en dat niemand wordt blootgesteld aan stralingsdoses die hoger liggen dan de geldende nationale dosislimieten.
 
-#### Artikel 16. Voorbereiding op ongevallen
+##### Artikel 16. Voorbereiding op ongevallen
 
 1. Elke Verdragsluitende Partij neemt passende maatregelen om zeker te stellen dat er voor kerninstallaties interne en externe rampenbestrijdingsplannen bestaan die routinematig worden getest en betrekking hebben op alle activiteiten die moeten worden verricht bij ongevallen.
 
@@ -148,7 +173,7 @@ Bij elke nieuwe kerninstallatie dienen deze plannen te worden opgesteld en getes
 
 #### Veiligheid van installaties d
 
-#### Artikel 17. Keuze van de vestigingsplaats
+##### Artikel 17. Keuze van de vestigingsplaats
 
 Elke Verdragsluitende Partij neemt passende maatregelen om te waarborgen dat de juiste procedures worden vastgelegd en uitgevoerd:
 
@@ -160,7 +185,7 @@ Elke Verdragsluitende Partij neemt passende maatregelen om te waarborgen dat de 
 
 - iv. om Verdragsluitende Partijen in de nabijheid van een geplande kerninstallatie te raadplegen, voor zover zij gevolgen van de installatie zouden kunnen ondervinden, en desgewenst de nodige informatie te verstrekken aan die Verdragsluitende Partijen, teneinde hen in staat te stellen zelf eventuele effecten op hun eigen grondgebied van de kerninstallatie te evalueren en te beoordelen vanuit het oogpunt van veiligheid.
 
-#### Artikel 18. Ontwerp en bouw
+##### Artikel 18. Ontwerp en bouw
 
 Elke Verdragsluitende Partij neemt passende maatregelen om zeker te stellen dat:
 
@@ -170,7 +195,7 @@ Elke Verdragsluitende Partij neemt passende maatregelen om zeker te stellen dat:
 
 - iii. het ontwerp van een kerninstallatie een betrouwbare, stabiele en eenvoudige bedrijfsvoering mogelijk maakt, daarbij in het bijzonder menselijke factoren en de relatie mens-machine in aanmerking nemend.
 
-#### Artikel 19. Bedrijfsvoering
+##### Artikel 19. Bedrijfsvoering
 
 Elke Verdragsluitende Partij neemt passende maatregelen om zeker te stellen dat:
 
@@ -192,7 +217,7 @@ Elke Verdragsluitende Partij neemt passende maatregelen om zeker te stellen dat:
 
 ### HOOFDSTUK 3. VERGADERINGEN VAN DE VERDRAGSLUITENDE PARTIJEN
 
-#### Artikel 20. Toetsingsvergaderingen
+##### Artikel 20. Toetsingsvergaderingen
 
 1. De Verdragsluitende Partijen houden vergaderingen (hierna te noemen „toetsingsvergaderingen") ter toetsing van de ingevolge artikel 5 ingediende rapporten, zulks overeenkomstig de ingevolge artikel 22 aangenomen procedures.
 
@@ -200,7 +225,7 @@ Elke Verdragsluitende Partij neemt passende maatregelen om zeker te stellen dat:
 
 3. Elke Verdragsluitende Partij wordt een redelijke mogelijkheid geboden om de door andere Verdragsluitende Partijen ingediende rapporten te bespreken en te vragen om een toelichting ter zake.
 
-#### Artikel 21. Tijdschema
+##### Artikel 21. Tijdschema
 
 1. Uiterlijk zes maanden na de datum van inwerkingtreding van dit Verdrag wordt een voorbereidende vergadering van de Verdragsluitende Partijen gehouden.
 
@@ -208,7 +233,7 @@ Elke Verdragsluitende Partij neemt passende maatregelen om zeker te stellen dat:
 
 3. Op elke toetsingsvergadering stellen de Verdragsluitende Partijen de datum voor de volgende toetsingsvergadering vast. Het tijdvak tussen twee toetsingsvergaderingen mag niet langer zijn dan drie jaar.
 
-#### Artikel 22. Procedurele regelingen
+##### Artikel 22. Procedurele regelingen
 
 1. Op de ingevolge artikel 21 gehouden voorbereidende vergadering stellen de Verdragsluitende Partijen een reglement van orde en een financieel reglement op en nemen zij dit bij consensus aan. De Verdragsluitende Partijen stellen in het bijzonder en in overeenstemming met het reglement van orde vast:
 
@@ -220,7 +245,7 @@ Elke Verdragsluitende Partij neemt passende maatregelen om zeker te stellen dat:
 
 2. Op toetsingsvergaderingen kunnen de Verdragsluitende Partijen, indien nodig, de ingevolge de punten i. t/m iii. hierboven getroffen regelingen opnieuw bezien en herzieningen aannemen bij consensus, tenzij in het reglement van orde anders is bepaald. Zij kunnen ook het reglement van orde en het financiële reglement wijzigen, bij consensus.
 
-#### Artikel 23. Buitengewone vergaderingen
+##### Artikel 23. Buitengewone vergaderingen
 
 Er wordt een buitengewone vergadering van de Verdragsluitende Partijen gehouden:
 
@@ -228,17 +253,17 @@ Er wordt een buitengewone vergadering van de Verdragsluitende Partijen gehouden:
 
 - ii. op schriftelijk verzoek van een Verdragsluitende Partij, binnen zes maanden nadat dit verzoek aan de Verdragsluitende Partijen is medegedeeld en een meerderheid van de Verdragsluitende Partijen aan het in artikel 28 bedoeld Secretariaat te kennen heeft gegeven het verzoek te steunen.
 
-#### Artikel 24. Bijwoning
+##### Artikel 24. Bijwoning
 
 1. Elke Verdragsluitende Partij woont de vergaderingen van de Verdragsluitende Partijen bij en wordt daar vertegenwoordigd door één afgevaardigde en door plaatsvervangers, deskundigen en adviseurs, in zoverre zij zulks noodzakelijk acht.
 
 2. De Verdragsluitende Partijen kunnen, bij consensus, iedere intergouvernementele organisatie die deskundig is met betrekking tot de in dit Verdrag geregelde aangelegenheden uitnodigen als waarnemer een vergadering of bepaalde zittingen daarvan bij te wonen. Waarnemers dienen schriftelijk en van tevoren in te stemmen met de bepalingen van artikel 27.
 
-#### Artikel 25. Samenvattend verslag
+##### Artikel 25. Samenvattend verslag
 
 De Verdragsluitende Partijen hechten, bij consensus, hun goedkeuring aan een document betreffende tijdens een vergadering besproken onderwerpen en getrokken conclusies en stellen dit ter beschikking van het publiek.
 
-#### Artikel 26. Talen
+##### Artikel 26. Talen
 
 1. De voertalen tijdens vergaderingen van de Verdragsluitende Partijen zijn het Arabisch, het Chinees, het Engels, het Frans, het Russisch en het Spaans, tenzij in het reglement van orde anders is bepaald.
 
@@ -246,7 +271,7 @@ De Verdragsluitende Partijen hechten, bij consensus, hun goedkeuring aan een doc
 
 3. Onverminderd de bepalingen van het tweede lid, verzorgt het secretariaat, tegen vergoeding, de vertaling in de in het reglement van orde aangewezen taal van rapporten die zijn ingediend in een andere ter vergadering gebezigde voertaal.
 
-#### Artikel 27. Vertrouwelijkheid
+##### Artikel 27. Vertrouwelijkheid
 
 1. De bepalingen van dit Verdrag laten de rechten en verplichtingen onverlet die de Verdragsluitende Partijen krachtens hun wetgeving hebben met betrekking tot de bescherming van informatie tegen openbaarmaking. Voor de toepassing van dit artikel wordt onder „informatie" mede verstaan: i. persoonsgegevens, ii. informatie die wordt beschermd uit hoofde van de intellectuele eigendom of uit hoofde van het fabrieks- en handelsgeheim, en iii. informatie met betrekking tot de nationale veiligheid of de fysieke bescherming van kernmateriaal of kerninstallaties.
 
@@ -254,7 +279,7 @@ De Verdragsluitende Partijen hechten, bij consensus, hun goedkeuring aan een doc
 
 3. De inhoud van de besprekingen gedurende het toetsen van de rapporten door de Verdragsluitende Partijen op iedere vergadering is vertrouwelijk.
 
-#### Artikel 28. Secretariaat
+##### Artikel 28. Secretariaat
 
 1. De Internationale Organisatie voor Atoomenergie (hierna te noemen de „Organisatie") treedt op als secretariaat voor de vergaderingen van de Verdragsluitende Partijen.
 
@@ -270,11 +295,11 @@ De door de Organisatie gemaakte kosten ter verrichting van de onder i. en ii. hi
 
 ### HOOFDSTUK 4. SLOTBEPALINGEN EN ANDERE BEPALINGEN
 
-#### Artikel 29. Oplossen van verschillen van mening
+##### Artikel 29. Oplossen van verschillen van mening
 
 In geval van een verschil van mening tussen twee of meer Verdragsluitende Partijen betreffende de uitlegging of toepassing van dit Verdrag, plegen de Verdragsluitende Partijen overleg in het kader van een vergadering van de Verdragsluitende Partijen teneinde een oplossing te vinden voor het verschil van mening.
 
-#### Artikel 30. Ondertekening, bekrachtiging, aanvaarding, goedkeuring, toetreding
+##### Artikel 30. Ondertekening, bekrachtiging, aanvaarding, goedkeuring, toetreding
 
 1. Dit Verdrag staat voor alle Staten open voor ondertekening op de zetel van de Organisatie te Wenen van 20 september 1994 tot aan zijn inwerkingtreding.
 
@@ -292,13 +317,13 @@ In geval van een verschil van mening tussen twee of meer Verdragsluitende Partij
 
 5. De akten van bekrachtiging, aanvaarding, goedkeuring of toetreding worden nedergelegd bij de depositaris.
 
-#### Artikel 31. Inwerkingtreding
+##### Artikel 31. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking op de negentigste dag na de datum van nederlegging bij de depositaris van de tweeëntwintigste akte van bekrachtiging, aanvaarding, of goedkeuring, waaronder de akten van zeventien Staten die elk ten minste één kerninstallatie hebben waarvan de reactor kriticiteit heeft bereikt.
 
 2. Voor elke Staat of regionale organisatie, strevend naar integratie dan wel van andere aard, die dit Verdrag bekrachtigt, aanvaardt, goedkeurt of hiertoe toetreedt na de datum van nederlegging van de laatste akte die is vereist om te voldoen aan de in het eerste lid genoemde voorwaarden, treedt dit Verdrag in werking op de negentigste dag na de datum van nederlegging bij de depositaris van de desbetreffende akte door die Staat of organisatie.
 
-#### Artikel 32. Wijzigingen op het Verdrag
+##### Artikel 32. Wijzigingen op het Verdrag
 
 1. Elke Verdragsluitende Partij kan een wijziging op dit Verdrag voorstellen. Voorgestelde wijzigingen worden bestudeerd op een toetsingsvergadering of een buitengewone vergadering.
 
@@ -310,13 +335,13 @@ In geval van een verschil van mening tussen twee of meer Verdragsluitende Partij
 
 5. Wijzigingen op dit Verdrag die zijn aangenomen overeenkomstig het derde en vierde lid hierboven, dienen door de Verdragsluitende Partijen te worden bekrachtigd, aanvaard, goedgekeurd of bevestigd en worden voor de Verdragsluitende Partijen die ze hebben bekrachtigd, aanvaard, goedgekeurd of bevestigd van kracht op de negentigste dag na de ontvangst door de depositaris van de desbetreffende akten van ten minste drievierde van de Verdragsluitende Partijen. Voor een Verdragsluitende Partij die bedoelde wijzigingen daarna bekrachtigt, aanvaardt, goedkeurt of bevestigt, worden zij van kracht op de negentigste dag na de nederlegging van de desbetreffende akte door die Verdragsluitende Partij.
 
-#### Artikel 33. Opzegging
+##### Artikel 33. Opzegging
 
 1. Elke Verdragsluitende Partij kan dit Verdrag opzeggen door middel van een schriftelijke kennisgeving aan de depositaris.
 
 2. De opzegging wordt van kracht een jaar na de datum van ontvangst van de kennisgeving door de depositaris of op een in de kennisgeving vermelde latere datum.
 
-#### Artikel 34. Depositaris
+##### Artikel 34. Depositaris
 
 1. De Directeur-Generaal van de Organisatie is depositaris van dit Verdrag.
 
@@ -330,7 +355,7 @@ In geval van een verschil van mening tussen twee of meer Verdragsluitende Partij
 
 - iv. de door Verdragsluitende Partijen voorgestelde wijzigingen op dit Verdrag, de door de desbetreffende diplomatieke conferentie of de vergadering van de Verdragsluitende Partijen aangenomen wijzigingen, en de datum van vankrachtwording van bedoelde wijzigingen, in overeenstemming met artikel 32.
 
-#### Artikel 35. Authentieke teksten
+##### Artikel 35. Authentieke teksten
 
 Het origineel van dit Verdrag, waarvan de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse tekst gelijkelijk authentiek zijn, wordt nedergelegd bij de depositaris, die voor eensluidend gewaarmerkte afschriften daarvan toezendt aan de Verdragsluitende Partijen.
 

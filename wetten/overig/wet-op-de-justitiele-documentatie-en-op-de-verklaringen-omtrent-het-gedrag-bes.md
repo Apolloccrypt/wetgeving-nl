@@ -1,20 +1,45 @@
 ---
 title: "Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag BES"
 identifier: "BWBR0028258"
-categorie: "Overig"
-publicatiedatum: 2010-12-15
-laatste_update: 2010-12-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028258"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2010-12-15"
+last_updated: "2010-12-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028258"
+soort: "wet-BES"
+stam_id: "10725263"
+version_id: "17695692"
+internal_id: "C24751241"
+label_id: "10700314"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028258/2010-12-15/0"
+intitule_bron: "Stb.2010-514"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-14"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-514"
+original_signed_date: "2010-09-14"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-514"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028258&z=2010-12-15&g=2010-12-15"
+jci_1_0: "1.0:c:BWBR0028258&g=2010-12-15"
+citeertitel_status: "officieel"
+signed_date: "2010-09-14"
+entry_into_force: "2010-10-10"
 ---
-
 # Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag BES
 
 ## Titel I. De justitiële documentatie
 
 #### § 1. Het registreren van gegevens
 
-#### Artikel 1
+##### Artikel 1
 
 1. Er is een justitiële documentatiedienst, die belast is met het registreren van de door deze wet aangewezen justitiële gegevens.
 
@@ -26,7 +51,7 @@ bron: "https://wetten.overheid.nl/BWBR0028258"
 
 #### § 2. De strafregisters
 
-#### Artikel 2
+##### Artikel 2
 
 1. De strafregisters bestaan uit:
 
@@ -44,7 +69,7 @@ bron: "https://wetten.overheid.nl/BWBR0028258"
 
 4. De strafregisters bestaan tevens uit de strafbladen van de omtrent natuurlijke personen gewezen onherroepelijke uitspraken of beslissingen krachtens welke tegen deze personen veroordelingen, door andere dan rechters in het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba gewezen, op Bonaire, Sint Eustatius en Saba kunnen worden ten uitvoer gelegd, voor zover die veroordelingen zijn gewezen wegens feiten, die misdrijven opleveren, of ingevolge die uitspraken of beslissingen op Bonaire, Sint Eustatius en Saba vrijheidsstraf, anders dan vervangende, moet worden ondergaan. Betreft het een persoon die de leeftijd van 21 jaar nog niet heeft bereikt, dan geldt het voorgaande eveneens indien ingevolge de bedoelde uitspraak of beslissing de in het derde lid genoemde straffen of maatregelen moeten worden ondergaan.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het strafblad vermeldt:
 
@@ -84,11 +109,11 @@ bron: "https://wetten.overheid.nl/BWBR0028258"
 
 - 7°. een beschikking tot vervallenverklaring van een voorwaardelijke gratie.
 
-#### Artikel 4
+##### Artikel 4
 
 Een strafblad wordt uit het strafregister verwijderd, indien na vernietiging van het gewijsde geen straf of maatregel wordt opgelegd.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een strafblad wordt uit het strafregister verwijderd na verloop van een termijn van vier jaren.
 
@@ -102,11 +127,11 @@ Een strafblad wordt uit het strafregister verwijderd, indien na vernietiging van
 
 4. Vervallen.
 
-#### Artikel 6
+##### Artikel 6
 
 De termijn, in het [voorgaande artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028258&titeldeel=I&paragraaf=2&artikel=5&z=2010-12-15&g=2010-12-15) bedoeld, vangt aan op de dag na die, waarop de uitspraak onherroepelijk is geworden.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028258&titeldeel=I&paragraaf=2&artikel=5&z=2010-12-15&g=2010-12-15) bedoelde termijn wordt verlengd met de bij de uitspraak bepaalde duur van de opgelegde vrijheidsstraf met uitzondering van de straf of het gedeelte daarvan ten aanzien waarvan de rechter heeft bepaald dat het niet zal worden tenuitvoergelegd en een last tot herroeping niet is gegeven.
 
@@ -114,23 +139,23 @@ De termijn, in het [voorgaande artikel](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 3. De termijn loopt niet in de tijd gedurende welke de veroordeelde uit het gesticht of de inrichting, waarin hij zijn straf of maatregel ondergaat, ontvlucht is, of gedurende welke hij zich aan de tenuitvoerlegging heeft onttrokken.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Een strafblad wordt niet verwijderd zolang nog enig ander strafblad ten aanzien van de veroordeelde in het strafregister blijft geplaatst.
 
 2. Indien de veroordeelde vóór afloop van de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028258&titeldeel=I&paragraaf=2&artikel=5&z=2010-12-15&g=2010-12-15) bedoelde termijn opnieuw wordt vervolgd of zal worden vervolgd, kan het gerecht, voor hetwelk de zaak wordt vervolgd, of zal worden vervolgd, op vordering van het openbaar ministerie gelasten, dat het strafblad niet wordt verwijderd alvorens over die strafzaak onherroepelijk is beslist.
 
-#### Artikel 8a
+##### Artikel 8a
 
 In geval van tenuitvoerlegging op Bonaire, Sint Eustatius of Saba van een veroordeling, door een andere dan de rechter in het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba gewezen, vangt de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028258&titeldeel=I&paragraaf=2&artikel=5&z=2010-12-15&g=2010-12-15) bedoelde termijn aan op de dag na die waarop die veroordeling onherroepelijk is geworden. De duur van de termijn wordt bepaald aan de hand van de bij de uitspraak of beslissing, krachtens welke de bovenbedoelde veroordeling op Bonaire, Sint Eustatius en Saba kan worden ten uitvoer gelegd, opgelegde of uitvoerbaar geworden straf of maatregel.
 
 #### § 3. De strafkaarten
 
-#### Artikel 9
+##### Artikel 9
 
 Alle bij het parket van de officier van justitie binnengekomen processen-verbaal of politiële rapporten betreffende een persoon, worden geregistreerd op een ten name van die persoon gestelde strafkaart.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Op de wijze door Onze Minister van Justitie te bepalen worden op de strafkaart de volgende gegevens geregistreerd:
 
@@ -150,7 +175,7 @@ Alle bij het parket van de officier van justitie binnengekomen processen-verbaal
 
 2. Het model van de strafkaart zal door Onze Minister van Justitie worden vastgesteld.
 
-#### Artikel 11
+##### Artikel 11
 
 Een strafkaart wordt vernietigd:
 
@@ -166,7 +191,7 @@ Een strafkaart wordt vernietigd:
 
 #### § 4. Het verstrekken van gegevens uit de justitiële documentatiedienst
 
-#### Artikel 12
+##### Artikel 12
 
 1. Onze Minister van Justitie verstrekt inlichtingen uit het strafkaartsysteem en de strafregisters aan:
 
@@ -180,13 +205,13 @@ Een strafkaart wordt vernietigd:
 
 4. Tot het geven van inlichtingen als in dit artikel bedoeld is bevoegd de procureur-generaal en – voor zover betreft het strafkaartsysteem – mede de officier van justitie.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Voor zover dit noodzakelijk is met het oog op een zwaarwegend algemeen belang en voor de goede taakuitoefening van degene aan wie inlichtingen uit het strafkaartsysteem en de strafregisters worden verstrekt, kunnen bij ministeriële regeling personen of instanties die met een publieke taak zijn belast, worden aangewezen aan wie bedoelde inlichtingen worden verstrekt. Daarbij kunnen nadere voorschriften worden gegeven in verband met de verwerking en verdere verwerking.
 
 2. De inlichtingen worden niet voor een ander doel gebruikt dan waarvoor zij zijn verstrekt, tenzij bij wettelijk voorschrift anders is bepaald.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Onze Minister van Justitie verstrekt aan de gezaghebbers uittreksels uit de strafregisters ten dienste van de afgifte van de verklaringen omtrent het gedrag.
 
@@ -194,7 +219,7 @@ Een strafkaart wordt vernietigd:
 
 ## Titel Ia. Rechten van de betrokkene op kennisneming en verbetering
 
-#### Artikel 14a
+##### Artikel 14a
 
 1. Onze Minister van Justitie deelt een ieder op diens verzoek binnen vier weken mede of en zo ja welke gegevens deze persoon betreffende in de strafregisters zijn vastgelegd.
 
@@ -202,13 +227,13 @@ Een strafkaart wordt vernietigd:
 
 3. Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent het verzoek en de wijze van kennisneming.
 
-#### Artikel 14b
+##### Artikel 14b
 
 1. Elke verstrekking van inlichtingen op grond van de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028258&titeldeel=I&paragraaf=4&artikel=12&z=2010-12-15&g=2010-12-15) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0028258&titeldeel=I&paragraaf=4&artikel=13&z=2010-12-15&g=2010-12-15) wordt vastgelegd en gedurende ten minste een jaar bewaard.
 
 2. Onze Minister van Justitie deelt een ieder op diens verzoek schriftelijk binnen vier weken mede of hem betreffende inlichtingen in het jaar voorafgaande aan het verzoek, zijn verstrekt.
 
-#### Artikel 14c
+##### Artikel 14c
 
 1. Bij de behandeling van verzoeken als bedoeld in [artikelen 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0028258&titeldeel=Ia&artikel=14a&z=2010-12-15&g=2010-12-15) en [14b](https://wetten.overheid.nl/jci1.3:c:BWBR0028258&titeldeel=Ia&artikel=14b&z=2010-12-15&g=2010-12-15), draagt Onze Minister van Justitie zorg voor een deugdelijke vaststelling van de identiteit van de verzoeker.
 
@@ -216,7 +241,7 @@ Een strafkaart wordt vernietigd:
 
 3. De verzoeken kunnen tevens worden gedaan door een advocaat aan wie de betrokkene een bijzondere machtiging heeft verleend met het oog op de uitoefening van zijn rechten krachtens deze wet en die het verzoek uitsluitend doet met de bedoeling de belangen van zijn cliënt te behartigen. De betrokken mededeling geschiedt aan de advocaat. Bij ministeriële regeling kunnen aan de bijzondere machtiging nadere eisen worden gesteld.
 
-#### Artikel 14d
+##### Artikel 14d
 
 Een mededeling als bedoeld in de [artikelen 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0028258&titeldeel=Ia&artikel=14a&z=2010-12-15&g=2010-12-15) en [14b](https://wetten.overheid.nl/jci1.3:c:BWBR0028258&titeldeel=Ia&artikel=14b&z=2010-12-15&g=2010-12-15) blijft achterwege voor zover dit noodzakelijk is in het belang van:
 
@@ -228,7 +253,7 @@ Een mededeling als bedoeld in de [artikelen 14a](https://wetten.overheid.nl/jci1
 
 - d. de bescherming van de betrokkene of van de rechten en vrijheden van anderen.
 
-#### Artikel 14e
+##### Artikel 14e
 
 1. Degene aan wie overeenkomstig [artikel 14b](https://wetten.overheid.nl/jci1.3:c:BWBR0028258&titeldeel=Ia&artikel=14b&z=2010-12-15&g=2010-12-15) kennis is gegeven van hem betreffende inlichtingen, kan Onze Minister van Justitie schriftelijk verzoeken om deze te verbeteren, aan te vullen, te verwijderen of af te schermen, indien deze feitelijk onjuist zijn, voor het doel van de verwerking onvolledig of niet ter zake dienend zijn dan wel in strijd met een wettelijk voorschrift zijn verwerkt. Het verzoek bevat de aan te brengen wijzigingen.
 
@@ -236,17 +261,17 @@ Een mededeling als bedoeld in de [artikelen 14a](https://wetten.overheid.nl/jci1
 
 3. Onze Minister van Justitie draagt zorg dat een beslissing tot verbetering, aanvulling, verwijdering of afscherming zo spoedig mogelijk wordt uitgevoerd.
 
-#### Artikel 14f
+##### Artikel 14f
 
 Een schriftelijke beslissing op een verzoek als bedoeld in de [artikelen 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0028258&titeldeel=Ia&artikel=14a&z=2010-12-15&g=2010-12-15), [14b](https://wetten.overheid.nl/jci1.3:c:BWBR0028258&titeldeel=Ia&artikel=14b&z=2010-12-15&g=2010-12-15) of [14e](https://wetten.overheid.nl/jci1.3:c:BWBR0028258&titeldeel=Ia&artikel=14e&z=2010-12-15&g=2010-12-15) geldt als een beschikking, bedoeld in [artikel 3 van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=3).
 
-#### Artikel 14g
+##### Artikel 14g
 
 1. Indien een verbetering, aanvulling, verwijdering of afscherming als bedoeld in [artikel 14e](https://wetten.overheid.nl/jci1.3:c:BWBR0028258&titeldeel=Ia&artikel=14e&z=2010-12-15&g=2010-12-15) is uitgevoerd, doet Onze Minister van Justitie het aan de personen of instanties, bedoeld in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028258&titeldeel=I&paragraaf=4&artikel=12&z=2010-12-15&g=2010-12-15) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0028258&titeldeel=I&paragraaf=4&artikel=13&z=2010-12-15&g=2010-12-15) in het jaar voorafgaand aan het verzoek en in de sinds dat verzoek verstreken periode de betrokken inlichtingen zijn verstrekt, zo spoedig mogelijk mededeling van deze verbetering, aanvulling, verwijdering of afscherming, tenzij dit onmogelijk blijkt of een onevenredige inspanning kost.
 
 2. Onze Minister van Justitie deelt aan de verzoeker en voor zover van toepassing aan de wettelijk vertegenwoordiger desgevraagd mede aan wie hij de mededeling heeft gedaan.
 
-#### Artikel 14h
+##### Artikel 14h
 
 1. Onze Minister van Justitie kan voor de mededeling, bedoeld in de [artikelen 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0028258&titeldeel=Ia&artikel=14a&z=2010-12-15&g=2010-12-15) en [14b](https://wetten.overheid.nl/jci1.3:c:BWBR0028258&titeldeel=Ia&artikel=14b&z=2010-12-15&g=2010-12-15), een vergoeding van kosten verlangen die niet hoger is dan een bij ministeriële regeling vast te stellen bedrag. Daarbij wordt tevens de wijze van betaling bepaald.
 
@@ -256,7 +281,7 @@ Een schriftelijke beslissing op een verzoek als bedoeld in de [artikelen 14a](ht
 
 #### § 1. Algemeen
 
-#### Artikel 15
+##### Artikel 15
 
 1. De gezaghebber geeft geen andere verklaring omtrent het gedrag, onder welke benaming ook, af dan overeenkomstig de bepalingen van deze wet.
 
@@ -272,11 +297,11 @@ Een schriftelijke beslissing op een verzoek als bedoeld in de [artikelen 14a](ht
 
 3. Een verklaring omtrent het gedrag houdt niet anders in dan dat de gezaghebber uit het onderzoek met betrekking tot het gedrag van de betrokkene ingesteld, gelet op het doel waarvoor de afgifte is gevraagd, niet is gebleken van bezwaren tegen die persoon. Onze Minister van Justitie stelt het model voor de verklaring vast, die behalve in het Nederlands ook in het Engels en in het Spaans kan worden gesteld.
 
-#### Artikel 16
+##### Artikel 16
 
 De afgifte van een verklaring omtrent het gedrag geschiedt door de gezaghebber van het openbaar lichaam waar betrokkene in het bevolkingsregister is opgenomen, dan wel indien hij verblijft buiten Bonaire, Sint Eustatius of Saba, vóór zijn vertrek laatstelijk was opgenomen.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Het verzoek tot afgifte geschiedt schriftelijk.
 
@@ -284,7 +309,7 @@ De afgifte van een verklaring omtrent het gedrag geschiedt door de gezaghebber v
 
 3. Onze Minister van Justitie stelt het model vast van een daartoe door de aanvrager in te vullen formulier.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Het verzoek tot afgifte van een verklaring omtrent het gedrag wordt gedaan door degene omtrent wiens gedrag een verklaring wordt gevraagd.
 
@@ -292,13 +317,13 @@ De afgifte van een verklaring omtrent het gedrag geschiedt door de gezaghebber v
 
 #### § 2. De beoordeling van het verzoek
 
-#### Artikel 19
+##### Artikel 19
 
 1. Onze Minister van Justitie kan doeleinden aanwijzen, welke een onderzoek naar het gedrag niet kunnen wettigen.
 
 2. De beschikking van Onze Minister van Justitie wordt bekendgemaakt in de Staatscourant.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De gezaghebber weigert het verzoek in behandeling te nemen, indien:
 
@@ -310,7 +335,7 @@ De afgifte van een verklaring omtrent het gedrag geschiedt door de gezaghebber v
 
 2. Zodanige beslissing wordt onverwijld bij aangetekende brief aan de verzoeker medegedeeld, met vermelding van de reden der weigering en van de bevoegdheid als bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028258&titeldeel=II&paragraaf=2&artikel=21&z=2010-12-15&g=2010-12-15).
 
-#### Artikel 21
+##### Artikel 21
 
 1. De verzoeker kan binnen zeven dagen na ontvangst van de in het [voorgaande artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028258&titeldeel=II&paragraaf=2&artikel=20&z=2010-12-15&g=2010-12-15) bedoelde mededeling tegen de beslissing bij Onze Minister van Justitie voorziening vragen.
 
@@ -318,13 +343,13 @@ De afgifte van een verklaring omtrent het gedrag geschiedt door de gezaghebber v
 
 #### § 3. De beoordeling van het gedrag
 
-#### Artikel 22
+##### Artikel 22
 
 1. De gezaghebber geeft een verklaring omtrent het gedrag slechts af wanneer hem uit een onderzoek met betrekking tot het gedrag van de betrokkene niet is gebleken van bezwaren tegen die persoon. In alle andere gevallen weigert hij de gevraagde verklaring af te geven.
 
 2. In de verklaring wordt het doel, waarvoor de afgifte is gevraagd, vermeld.
 
-#### Artikel 23
+##### Artikel 23
 
 1. De gezaghebber mag bij zijn onderzoek uitsluitend acht slaan op:
 
@@ -350,7 +375,7 @@ Van de verlenging wordt mededeling gedaan aan de betrokkene.
 
 #### § 4. Het beroep
 
-#### Artikel 25
+##### Artikel 25
 
 1. De betrokkene kan binnen veertien dagen na ontvangst van de mededeling, bedoeld in [artikel 23, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028258&titeldeel=II&paragraaf=3&artikel=23&z=2010-12-15&g=2010-12-15), daartegen een klaagschrift indienen bij het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba.
 
@@ -364,7 +389,7 @@ Van de verlenging wordt mededeling gedaan aan de betrokkene.
 
 - c. een duidelijke omschrijving van de beslissing van de gezaghebber, waartegen het klaagschrift is gericht, onder overlegging voor zoveel mogelijk van een afschrift van de beslissing.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Het gerecht stelt binnen zeven dagen na ontvangst van het klaagschrift de dag vast, waartegen de betrokkene en de gezaghebber worden opgeroepen om te worden gehoord.
 
@@ -374,7 +399,7 @@ Van de verlenging wordt mededeling gedaan aan de betrokkene.
 
 4. Het gerecht stelt het openbaar ministerie, de klager en zijn raadsman in de gelegenheid van de door de gezaghebber overgelegde bescheiden kennis te nemen.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Het openbaar ministerie wordt bij de behandeling van het klaagschrift gehoord.
 
@@ -390,7 +415,7 @@ Van de verlenging wordt mededeling gedaan aan de betrokkene.
 
 7. Het gerecht kan door tussenkomst van instellingen, die werkzaam zijn op het gebied van de reclassering, inlichtingen omtrent de betrokkene inwinnen.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Het gerecht geeft binnen dertig dagen nadat het klaagschrift is ontvangen, zijn met redenen omklede beschikking, die de griffier onverwijld bij aangetekende brief of tegen ontvangstbewijs aan de betrokkene en aan de gezaghebber doet toekomen.
 
@@ -398,17 +423,17 @@ Van de verlenging wordt mededeling gedaan aan de betrokkene.
 
 3. Tegen de beschikking van het gerecht staat hoger beroep niet open.
 
-#### Artikel 29
+##### Artikel 29
 
 Wordt het klaagschrift gegrond verklaard, dan geeft de gezaghebber binnen drie dagen na ontvangst van de in het [voorgaande artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028258&titeldeel=II&paragraaf=4&artikel=28&z=2010-12-15&g=2010-12-15) bedoelde brief de verklaring omtrent het gedrag af.
 
 ## Titel III. Overgangs- en slotbepalingen
 
-#### Artikel 30
+##### Artikel 30
 
 In de gevallen ten aanzien waarvan vóór de inwerkingtreding van deze wet voorschriften zijn gegeven over de afgifte of de overlegging van een bewijs van goed gedrag of een verklaring van overeenkomstige strekking, worden deze bewijzen of verklaringen, onder de benaming verklaring omtrent het gedrag, bij uitsluiting door de gezaghebber overeenkomstig de bepalingen van deze wet afgegeven. De bepalingen betreffende deze bewijzen of verklaringen in bedoelde voorschriften blijven buiten toepassing.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Behoudens de gevallen, waarin met betrekking tot de uitvoering van een wettelijk voorschrift, mededeling is toegelaten, is een ieder verplicht tot geheimhouding van de gegevens, die hem met betrekking tot een derde ingevolge deze wet ter kennis zijn gekomen.
 
@@ -418,10 +443,10 @@ In de gevallen ten aanzien waarvan vóór de inwerkingtreding van deze wet voors
 
 Dit feit wordt beschouwd als een overtreding.
 
-#### Artikel 32
+##### Artikel 32
 
 De verklaring omtrent het gedrag en het in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028258&titeldeel=II&paragraaf=1&artikel=17&z=2010-12-15&g=2010-12-15) bedoelde formulier zijn vrij van zegel. Onze Minister van Justitie bepaalt het bedrag, dat ten bate van ’s Rijks kas geheven wordt voor de afgifte van een verklaring omtrent het gedrag.
 
-#### Artikel 33
+##### Artikel 33
 
 Deze wet wordt aangehaald als: Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag BES.

@@ -1,13 +1,37 @@
 ---
 title: "Informatiestatuut Onderzoeksraad voor veiligheid"
 identifier: "BWBR0017939"
-categorie: "Overig"
-publicatiedatum: 2022-01-01
-laatste_update: 2022-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0017939"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-01-01"
+last_updated: "2022-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0017939"
+soort: "ministeriele-regeling"
+stam_id: "6702673"
+version_id: "11540982"
+internal_id: "C15570931"
+label_id: "6691154"
+original_entry_into_force: "2005-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0017939/2022-01-01/0"
+intitule_bron: "Stcrt.2005-21"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-01-25"
+intitule_published: "2005-01-31"
+intitule_in_force: "2005-01-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-21"
+original_signed_date: "2005-01-25"
+original_published_date: "2005-01-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2005-21-p25-SC68706"
+entry_into_force_date: "2005-02-01"
+jci_1_3: "jci1.3:c:BWBR0017939&z=2022-01-01&g=2022-01-01"
+jci_1_0: "1.0:c:BWBR0017939&g=2022-01-01"
+citeertitel_status: "officieel"
+signed_date: "2005-01-25"
+entry_into_force: "2005-02-01"
 ---
-
 # Informatiestatuut Onderzoeksraad voor veiligheid
 
 Gelet op de [artikelen 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=26), en [83, tweede lid, van de Rijkswet Onderzoeksraad voor veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=83);
@@ -18,7 +42,7 @@ Treedt in werking op het krachtens artikel 97, eerste lid, eerste volzin, van de
 
 #### § 1. Begripsomschrijvingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -32,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Algemeen
 
-#### Artikel 2
+##### Artikel 2
 
 1. De informatieverstrekking door de raad aan de minister, onderscheidenlijk door de minister aan de raad, geschiedt schriftelijk.
 
@@ -42,7 +66,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 3. Informatieverstrekking door de minister ten behoeve van de taakuitoefening van de raad
 
-#### Artikel 3
+##### Artikel 3
 
 1. Onder de inlichtingen, bedoeld in [artikel 26, tweede lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=26), die de raad voor de taakuitoefening in het algemeen nodig heeft, wordt in elk geval informatie begrepen betreffende:
 
@@ -56,11 +80,11 @@ In deze regeling wordt verstaan onder:
 
 #### § 4. Informatieverstrekking door de raad ten behoeve van de taakuitoefening van de minister
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 1. De raad informeert de minister over:
 
@@ -90,7 +114,7 @@ Vervallen
 
 3. De in het eerste lid en tweede lid, aanhef en onder a, b en i, bedoelde informatieverstrekking vindt elk jaar plaats. De in het tweede lid, aanhef en onder c tot en met h, bedoelde informatieverstrekking vindt desgevraagd binnen redelijke termijn plaats.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Met het oog op het tijdig signaleren van aanmerkelijke verschillen tussen werkelijke en begrote baten en lasten dan wel inkomsten en uitgaven zendt de raad naar de minister:
 
@@ -104,7 +128,7 @@ Vervallen
 
 #### § 5. Betrokkenheid van de raad bij de totstandkoming van het verslag over de doeltreffendheid en doelmatigheid van het functioneren van de raad
 
-#### Artikel 7
+##### Artikel 7
 
 1. De minister kan een externe onderzoeker aanwijzen om de doeltreffendheid en doelmatigheid van het functioneren van de raad te onderzoeken ten behoeve van het verslag, bedoeld in [artikel 83, eerste lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=83).
 
@@ -118,11 +142,11 @@ Vervallen
 
 #### § 6. Slotbepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling treedt in werking op het krachtens [artikel 97, eerste lid, eerste volzin, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=97) vastgestelde tijdstip.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling wordt aangehaald als: Informatiestatuut Onderzoeksraad voor veiligheid.
 

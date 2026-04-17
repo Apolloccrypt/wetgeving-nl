@@ -1,13 +1,39 @@
 ---
-title: "Uitvoeringsbesluit voorzieningen in de huisvesting PO/VO"
+title: "Besluit van 21 februari 1997 tot vaststelling van het drempelbedrag, bedoeld in artikel 76c, eerste lid, onder b, ten tweede, van de Wet op het voortgezet onderwijs, alsmede van enige minimum bruto vloeroppervlakten voor het basisonderwijs, het speciaal en het voortgezet speciaal onderwijs en het voortgezet onderwijs (Uitvoeringsbesluit voorzieningen in de huisvesting PO/VO)"
 identifier: "BWBR0008562"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-08-01
-laatste_update: 2022-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008562"
+country: "nl"
+rank: "amvb"
+publication_date: "2022-08-01"
+last_updated: "2022-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008562"
+soort: "AMvB"
+stam_id: "386273"
+version_id: "569322"
+internal_id: "C569321"
+label_id: "376704"
+dtd_version: "2.0"
+original_entry_into_force: "1997-03-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008562/2022-08-01/0"
+intitule_bron: "Stb.1997-125"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-02-21"
+intitule_published: "1997-03-20"
+intitule_in_force: "1997-03-20"
+intitule_status: "goed"
+original_publication: "Stb.1997-125"
+original_signed_date: "1997-02-21"
+original_published_date: "1997-03-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-1997-125"
+entry_into_force_date: "1997-03-21"
+jci_1_3: "jci1.3:c:BWBR0008562&z=2022-08-01&g=2022-08-01"
+jci_1_0: "1.0:c:BWBR0008562&g=2022-08-01"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsbesluit voorzieningen in de huisvesting PO/VO"
+signed_date: "1997-02-21"
+entry_into_force: "1997-03-21"
 ---
-
 # Besluit van 21 februari 1997 tot vaststelling van het drempelbedrag, bedoeld in artikel 76c, eerste lid, onder b, ten tweede, van de Wet op het voortgezet onderwijs, alsmede van enige minimum bruto vloeroppervlakten voor het basisonderwijs, het speciaal en het voortgezet speciaal onderwijs en het voortgezet onderwijs (Uitvoeringsbesluit voorzieningen in de huisvesting PO/VO)
 
 Op de voordracht van de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, T. Netelenbos, van 12 november 1996, nr. 96028721/3702, directie Wetgeving en Juridische Zaken, gedaan mede namens Onze Minister van Landbouw, Natuurbeheer en Visserij;
@@ -24,7 +50,7 @@ Werkt terug tot en met 1 januari 1997.
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 - a. wet: de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212);
 
@@ -46,13 +72,13 @@ Werkt terug tot en met 1 januari 1997.
 
 #### Paragraaf 2. Drempelbedrag
 
-#### Artikel 2. Vaststelling drempelbedrag
+##### Artikel 2. Vaststelling drempelbedrag
 
 Vervallen
 
 #### Paragraaf 3. Bruto vloeroppervlakte
 
-#### Artikel 3. Bruto vloeroppervlakte basisonderwijs
+##### Artikel 3. Bruto vloeroppervlakte basisonderwijs
 
 1. De bruto vloeroppervlakte per gelijktijdig aanwezige leerling die een school voor basisonderwijs tenminste dient te bevatten, bedraagt 3,5 m2. Tevens geldt per school en per nevenvestiging een vaste voet van tenminste 70m2.
 
@@ -60,7 +86,7 @@ Vervallen
 
 3. Indien aan een speciale school voor basisonderwijs een schoolsoort voor het speciaal of het voortgezet speciaal onderwijs is verbonden, is de schoolsoort met het grootste aantal leerlingen bepalend voor de vaste voet van de school, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008562&paragraaf=3&artikel=4&z=2022-08-01&g=2022-08-01).
 
-#### Artikel 4. Bruto vloeroppervlakte (voortgezet) speciaal onderwijs
+##### Artikel 4. Bruto vloeroppervlakte (voortgezet) speciaal onderwijs
 
 1. De bruto vloeroppervlakte per gelijktijdig aanwezige leerling en de vaste voet die een school voor speciaal onderwijs, een school voor voortgezet speciaal onderwijs, een school voor speciaal en voortgezet speciaal onderwijs dan wel een instelling voor speciaal en voortgezet speciaal onderwijs tenminste dient te bevatten bedragen voor de onderscheiden schoolsoorten in vierkante meters:
 
@@ -85,7 +111,7 @@ Vervallen
 
 3. Voor het toekennen van de vaste voet wordt onder een school of instelling tevens begrepen een nevenvestiging van een instelling, genoemd in artikel X van de Wet van 31 mei 1995 (**Stb.** 319).
 
-#### Artikel 5. Bruto vloeroppervlakte voortgezet onderwijs
+##### Artikel 5. Bruto vloeroppervlakte voortgezet onderwijs
 
 1. De bruto vloeroppervlakte per gelijktijdig aanwezige leerling die een school voor vwo, voor avo en voor vbo inclusief een of meer afdelingen tenminste dient te bevatten, bedraagt voor de onderscheiden schoolsoorten in vierkante meters:
 
@@ -117,21 +143,21 @@ Vervallen
 
 - d. van 470 m2 per nevenvestiging die voldoet aan de voorwaarden voor het verkrijgen van aanvullende personele bekostiging die zijn gesteld in de [bijlage behorende bij de Regeling aanvullende bekostiging bij nevenvestigingen met spreidingsnoodzaak in het voortgezet onderwijs](onbekend).
 
-#### Artikel 6. Beperking reikwijdte besluit
+##### Artikel 6. Beperking reikwijdte besluit
 
 Dit besluit is niet van toepassing op scholen voor voortgezet onderwijs die deel uitmaken van een verticale scholengemeenschap.
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst en werkt terug tot en met 1 januari 1997.
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Dit besluit wordt aangehaald als: Uitvoeringsbesluit voorzieningen in de huisvesting PO/VO.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-#### Artikel 6a. Omhangbepaling
+##### Artikel 6a. Omhangbepaling
 
 Dit besluit berust mede op [artikel 6.2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=6.2).
 

@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel toetsing erkenningen aan de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur (Bibob) door de Dienst Wegverkeer"
+title: "Beleidsregel van de Dienst Wegverkeer (RDW) inzake toepassing van regels van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur op de toetsing van erkenningen (Beleidsregel toetsing erkenningen aan de Wet Bibob)"
 identifier: "BWBR0051895"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-12-05
-laatste_update: 2025-12-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051895"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-12-05"
+last_updated: "2025-12-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051895"
+soort: "zbo"
+stam_id: "17652423"
+version_id: "31143812"
+internal_id: "C44567151"
+label_id: "17552084"
+dtd_version: "2.0"
+original_entry_into_force: "2025-12-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051895/2025-12-05/0"
+intitule_bron: "Stcrt.2025-41479"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-11-12"
+intitule_published: "2025-12-04"
+intitule_in_force: "2025-12-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-41479"
+original_signed_date: "2025-11-12"
+original_published_date: "2025-12-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-41479"
+entry_into_force_date: "2025-12-05"
+jci_1_3: "jci1.3:c:BWBR0051895&z=2025-12-05&g=2025-12-05"
+jci_1_0: "1.0:c:BWBR0051895&g=2025-12-05"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel toetsing erkenningen aan de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur (Bibob) door de Dienst Wegverkeer"
+signed_date: "2025-11-12"
+entry_into_force: "2025-12-05"
 ---
-
 # Beleidsregel van de Dienst Wegverkeer (RDW) inzake toepassing van regels van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur op de toetsing van erkenningen (Beleidsregel toetsing erkenningen aan de Wet Bibob)
 
 Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Definities en toepassing
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 1. De definities in [artikel 1, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=1) zijn van overeenkomstige toepassing op deze beleidsregel, voor zover niet anders gedefinieerd in deze beleidsregel.
 
@@ -42,7 +68,7 @@ Besluit:
 
 ### Hoofdstuk 2. Publiekrechtelijke beschikkingen
 
-#### Artikel 2. Toepassingsbereik bij aanvraag om een erkenning of reeds verleende erkenning
+##### Artikel 2. Toepassingsbereik bij aanvraag om een erkenning of reeds verleende erkenning
 
 1. De RDW kan uitvoering geven aan een Bibob-toets indien bij de aanvrager of erkenninghouder:
 
@@ -80,7 +106,7 @@ Besluit:
 
 ### Hoofdstuk 3. Uitvoering en beoordeling
 
-#### Artikel 3. Beoordeling door de RDW
+##### Artikel 3. Beoordeling door de RDW
 
 1. Nieuw ingediende aanvragen om een beschikking worden eerst aan de reguliere eisen getoetst.
 
@@ -90,7 +116,7 @@ Besluit:
 
 4. Indien de verkregen informatie niet de gewenste duidelijkheid verschaft om zelfstandig een beslissing te kunnen nemen, vraagt de RDW advies aan het Bureau als bedoeld in [artikel 9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=9).
 
-#### Artikel 4. Eigen onderzoek
+##### Artikel 4. Eigen onderzoek
 
 1. De Bibob-toets start met een eigen onderzoek door de RDW.
 
@@ -108,7 +134,7 @@ Besluit:
 
 6. Indien het advies van het Bureau aanleiding geeft tot aanvullende vragen, hervat de RDW het eigen onderzoek.
 
-#### Artikel 5. Informatieplicht
+##### Artikel 5. Informatieplicht
 
 1. De RDW informeert betrokkene schriftelijk over een adviesaanvraag aan het Bureau.
 
@@ -124,7 +150,7 @@ Betrokkene wordt daarbij gewezen op de opschorting van de beslistermijn als bedo
 
 6. Zowel de betrokkene als de in het advies genoemde derde dienen gewezen te worden op het feit dat beiden, onafhankelijk van elkaar, op grond van [artikel 33 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=33), het recht hebben op het indienen van een zienswijze.
 
-#### Artikel 6. Niet (volledig) invullen Bibob-vragenformulieren
+##### Artikel 6. Niet (volledig) invullen Bibob-vragenformulieren
 
 1. De RDW laat een aanvraag voor een erkenning buiten behandeling in geval van het niet of niet volledig invullen van het Bibob-vragenformulier dan wel het niet of niet verstrekken van de in het Bibob-vragenformulier verzochte gegevens en bescheiden, mits de betrokkene de gelegenheid heeft gehad dit gebrek te herstellen voor zover dat betrekking heeft op een relevante onderzoeksvraag die niet beantwoord kan worden.
 
@@ -132,7 +158,7 @@ Betrokkene wordt daarbij gewezen op de opschorting van de beslistermijn als bedo
 
 3. De RDW weigert de aanvraag of trekt de erkenning in indien de aanvrager of erkenninghouder de informatie niet overeenkomstig de volledige waarheid verschaft voor zover deze (ontbrekende) gegevens kunnen worden betrokken bij de gevaarsbeoordeling.
 
-#### Artikel 7. Gesloten en open bronnen
+##### Artikel 7. Gesloten en open bronnen
 
 Onder de in [artikel 1, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0051895&hoofdstuk=1&artikel=1&z=2025-12-05&g=2025-12-05), genoemde gegevens uit gesloten of open bronnen wordt onder meer verstaan:
 
@@ -168,7 +194,7 @@ Onder de in [artikel 1, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR005
 
 ### Hoofdstuk 4. Beslissing van de RDW
 
-#### Artikel 8. Conclusie naar aanleiding van Bibob-toets
+##### Artikel 8. Conclusie naar aanleiding van Bibob-toets
 
 1. De conclusie van het Bibob-onderzoek heeft de volgende resultaten:
 
@@ -186,10 +212,10 @@ Onder de in [artikel 1, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR005
 
 ### Hoofdstuk 5. Overige bepalingen
 
-#### Artikel 9
+##### Artikel 9
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel toetsing erkenningen aan de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur (Bibob) door de Dienst Wegverkeer.

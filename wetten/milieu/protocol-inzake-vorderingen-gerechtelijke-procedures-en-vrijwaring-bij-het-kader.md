@@ -1,13 +1,38 @@
 ---
 title: "Protocol inzake vorderingen, gerechtelijke procedures en vrijwaring bij het Kaderverdrag inzake een multilateraal nucleair milieuprogramma in de Russische Federatie"
 identifier: "BWBV0001590"
-categorie: "Milieu"
-publicatiedatum: 2005-03-04
-laatste_update: 2003-05-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001590"
+country: "nl"
+rank: "verdrag"
+publication_date: "2005-03-04"
+last_updated: "2003-05-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001590"
+soort: "verdrag"
+stam_id: "10001468193"
+version_id: "10001546282"
+internal_id: "C10006995151"
+label_id: "10001468304"
+dtd_version: "2.0"
+original_entry_into_force: "2005-03-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001590/2005-03-04/0"
+intitule_bron: "Trb.2003-111"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-05-21"
+intitule_published: "2003-08-01"
+intitule_in_force: "2005-09-26"
+intitule_status: "goed"
+original_publication: "Trb.2003-111"
+original_signed_date: "2003-05-21"
+original_published_date: "2003-08-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2003-111"
+entry_into_force_date: "2005-03-04"
+jci_1_3: "jci1.3:c:BWBV0001590&z=2005-03-04&g=2005-03-04"
+jci_1_0: "1.0:c:BWBV0001590&g=2005-03-04"
+citeertitel_status: "redactioneel"
+signed_date: "2003-05-21"
+entry_into_force: "2005-03-04"
 ---
-
 # Protocol inzake vorderingen, gerechtelijke procedures en vrijwaring bij het Kaderverdrag inzake een multilateraal nucleair milieuprogramma in de Russische Federatie
 
 De Regering van het Koninkrijk België, de Regering van het Koninkrijk Denemarken, de Regering van de Republiek Finland, de Regering van de Franse Republiek, de Regering van de Bondsrepubliek Duitsland, de Regering van het Koninkrijk der Nederlanden, de Regering van het Koninkrijk Noorwegen, de Regering van de Russische Federatie, de Regering van het Koninkrijk Zweden, de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, de Europese Gemeenschap en de Europese Gemeenschap voor Atoomenergie (hierna te noemen de Partijen),
@@ -18,7 +43,7 @@ Overtuigd van de noodzaak bepalingen vast te stellen om te waarborgen dat geen v
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 1. De omschrijvingen vervat in [artikel 2 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001589&artikel=2) zijn op dezelfde wijze en in dezelfde mate van toepassing op dit Protocol als waren zij hierin ten volle vervat.
 
@@ -36,7 +61,7 @@ nucleair ongeval: een gebeurtenis of reeks gebeurtenissen met dezelfde oorzaak d
 
 3. Voor de toepassing van dit Protocol wordt, wanneer zowel kernschade als schade anders dan kernschade is veroorzaakt door een nucleair ongeval, of door een nucleair ongeval en een of meer andere gebeurtenissen tezamen, deze schade, voor zover zij redelijkerwijs niet kan worden gescheiden van de kernschade, aangemerkt als kernschade veroorzaakt door dat nucleaire ongeval.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Met uitzondering van vorderingen wegens letsel of schade op personen die voortvloeien uit het handelen of nalaten van deze personen met het oogmerk letsel of schade toe te brengen, stelt de Russische Partij geen vorderingen of gerechtelijke procedures, van welke aard ook, in tegen de Donoren en hun medewerkers of tegen aannemers, onderaannemers, adviseurs, leveranciers of toeleveranciers van uitrusting, goederen of diensten op elk niveau, en hun medewerkers, wegens verlies of schade van welke aard ook, met inbegrip van maar niet beperkt tot persoonlijk letsel, overlijden of rechtstreekse of onrechtstreekse gevolgschade aan eigendommen van de Russische Federatie dat of die voortvloeit uit activiteiten verricht uit hoofde van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001589). Dit lid is niet van toepassing op de naleving van de uitdrukkelijke bepalingen van een contract.
 
@@ -54,7 +79,7 @@ nucleair ongeval: een gebeurtenis of reeks gebeurtenissen met dezelfde oorzaak d
 
 8. Niets in dit artikel mag zodanig worden uitgelegd dat afstand wordt gedaan van de immuniteit van de Partijen ten aanzien van mogelijke vorderingen van derden die tegen hen kunnen worden ingesteld.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Dit Protocol staat open voor ondertekening door alle ondertekenaars van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001589).
 
@@ -66,7 +91,7 @@ nucleair ongeval: een gebeurtenis of reeks gebeurtenissen met dezelfde oorzaak d
 
 5. Als Depositarissen van dit Protocol treden op de Depositarissen van het Verdrag en zij vervullen hun taken in overeenstemming met [artikel 77 van het Verdrag van Wenen inzake het verdragenrecht](https://wetten.overheid.nl/jci1.3:c:BWBV0003441&artikel=77) van 23 mei 1969 en in overleg met elkaar.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Onder voorbehoud van de inwerkingtreding van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001589), treedt dit Protocol in werking dertig dagen na de datum van ontvangst door ten minste een van de Depositarissen van de akten van bekrachtiging, aanvaarding of goedkeuring bedoeld in artikel 3, tweede lid, van de Russische Federatie en van een andere ondertekenaar van dit Protocol en blijft het daarna van kracht gedurende een tijdvak van vijf jaar. Voor elke ondertekenaar die dit Protocol op een later tijdstip bekrachtigt, aanvaardt of goedkeurt, treedt het in werking dertig dagen na de ontvangst door ten minste een van de Depositarissen van de akten van bekrachtiging, aanvaarding of goedkeuring bedoeld in artikel 3, tweede lid, en blijft het daarna van kracht tot aan het verstrijken van het oorspronkelijke tijdvak van vijf jaar.
 

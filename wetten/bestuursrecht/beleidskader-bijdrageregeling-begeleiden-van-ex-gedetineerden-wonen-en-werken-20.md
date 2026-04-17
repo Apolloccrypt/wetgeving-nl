@@ -1,13 +1,36 @@
 ---
-title: "Beleidskader bijdrageregeling begeleiden van ex-gedetineerden wonen en werken 2024"
+title: "Beleidskader van de Minister voor Rechtsbescherming van 12 oktober 2023, houdende bijdrageregeling begeleiden van ex-gedetineerden voor wonen en werken 2024"
 identifier: "BWBR0048752"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-10-12
-laatste_update: 2023-10-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048752"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2023-10-12"
+last_updated: "2023-10-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048752"
+soort: "beleidsregel"
+stam_id: "16883463"
+version_id: "29673332"
+internal_id: "C42473701"
+label_id: "16795584"
+dtd_version: "2.0"
+original_entry_into_force: "2023-10-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048752/2023-10-12/0"
+intitule_bron: "Stcrt.2023-27990"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2023-10-12"
+intitule_in_force: "2023-10-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-27990"
+original_published_date: "2023-10-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-27990"
+entry_into_force_date: "2023-10-12"
+jci_1_3: "jci1.3:c:BWBR0048752&z=2023-10-12&g=2023-10-12"
+jci_1_0: "1.0:c:BWBR0048752&g=2023-10-12"
+citeertitel_status: "redactioneel"
+short_title: "Beleidskader bijdrageregeling begeleiden van ex-gedetineerden wonen en werken 2024"
+entry_into_force: "2023-10-12"
 ---
-
 # Beleidskader van de Minister voor Rechtsbescherming van 12 oktober 2023, houdende bijdrageregeling begeleiden van ex-gedetineerden voor wonen en werken 2024
 
 ### 1. Inleiding

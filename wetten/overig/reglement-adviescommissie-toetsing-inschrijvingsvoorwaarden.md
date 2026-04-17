@@ -1,13 +1,38 @@
 ---
 title: "Reglement Adviescommissie Toetsing Inschrijvingsvoorwaarden"
 identifier: "BWBR0038706"
-categorie: "Overig"
-publicatiedatum: 2016-10-20
-laatste_update: 2016-10-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038706"
+country: "nl"
+rank: "zbo"
+publication_date: "2016-10-20"
+last_updated: "2016-10-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038706"
+soort: "zbo"
+stam_id: "13788523"
+version_id: "23648332"
+internal_id: "C34044421"
+label_id: "13754834"
+dtd_version: "2.0"
+original_entry_into_force: "2016-10-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038706/2016-10-20/0"
+intitule_bron: "Stcrt.2016-55192"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-09-29"
+intitule_published: "2016-10-20"
+intitule_in_force: "2016-10-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-55192"
+original_signed_date: "2016-09-29"
+original_published_date: "2016-10-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-55192"
+entry_into_force_date: "2016-10-20"
+jci_1_3: "jci1.3:c:BWBR0038706&z=2016-10-20&g=2016-10-20"
+jci_1_0: "1.0:c:BWBR0038706&g=2016-10-20"
+citeertitel_status: "redactioneel"
+signed_date: "2016-09-29"
+entry_into_force: "2016-10-20"
 ---
-
 # Reglement Adviescommissie Toetsing Inschrijvingsvoorwaarden
 
 in aanmerking nemend [artikel 8 van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=8),
@@ -18,7 +43,7 @@ De samenstelling en de werkwijze van de Adviescommissie Toetsing Inschrijvingsvo
 
 #### Taak
 
-#### Artikel 1
+##### Artikel 1
 
 De Adviescommissie Toetsing Inschrijvingsvoorwaarden, hierna te noemen ‘de Commissie’, heeft tot taak het bestuur van de Raad voor Rechtsbijstand (verder: het bestuur van de Raad) op zijn verzoek te adviseren over:
 
@@ -28,7 +53,7 @@ De Adviescommissie Toetsing Inschrijvingsvoorwaarden, hierna te noemen ‘de Com
 
 #### Samenstelling
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Commissie bestaat uit minimaal drie leden en drie plaatsvervangende leden.
 
@@ -38,7 +63,7 @@ De Adviescommissie Toetsing Inschrijvingsvoorwaarden, hierna te noemen ‘de Com
 
 4. Alle Commissieleden zijn in de uitoefening van hun taak onafhankelijk, en functioneren in zoverre zonder last of ruggespraak.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De leden van de Commissie worden benoemd voor een periode van vier jaar.
 
@@ -46,23 +71,23 @@ De Adviescommissie Toetsing Inschrijvingsvoorwaarden, hierna te noemen ‘de Com
 
 3. De Commissie wijst uit haar midden een voorzitter aan.
 
-#### Artikel 4
+##### Artikel 4
 
 De Commissie wordt bij de uitoefening van haar taken ondersteund door een secretaris. De secretaris is geen lid van de Commissie. De Raad wijst een secretaris aan.
 
-#### Artikel 5
+##### Artikel 5
 
 De leden van de Commissie, haar secretaris, en zij die de Commissie administratief ondersteunen, zijn verplicht tot geheimhouding van alle hen in het kader van hun werk voor de Commissie bekend geworden gegevens waarvan zij het vertrouwelijke karakter kennen of redelijkerwijs moeten vermoeden.
 
 #### Werkwijze
 
-#### Artikel 6
+##### Artikel 6
 
 1. Zodra het bestuur een voornemen heeft als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038706&artikel=1&z=2016-10-20&g=2016-10-20), stelt hij (de secretaris van) de Commissie daarvan op de hoogte.
 
 2. De secretaris zendt het op schrift gestelde voornemen aan de betreffende advocaat of het betreffende advocatenkantoor en stelt de advocaat of het kantoor in de gelegenheid binnen vier weken hierop een zienswijze naar voren te brengen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Na ontvangst van de zienswijze of nadat de daarvoor gestelde termijn ongebruikt is verstreken, stelt de secretaris een datum voor de hoorzitting vast.
 
@@ -74,7 +99,7 @@ De leden van de Commissie, haar secretaris, en zij die de Commissie administrati
 
 5. Van de hoorzitting wordt een verslag opgesteld, dat bij het advies wordt gevoegd.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De Commissie adviseert binnen vier weken na datum hoorzitting over de voorgenomen maatregel(en). Deze termijn kan eenmaal worden verlengd met vier weken. De betrokken advocaat en de Raad worden hiervan op de hoogte gesteld.
 
@@ -82,15 +107,15 @@ De leden van de Commissie, haar secretaris, en zij die de Commissie administrati
 
 3. Het advies wordt ondertekend door de fungerend voorzitter van de Commissie.
 
-#### Artikel 9
+##### Artikel 9
 
 De Raad verschaft de Commissie op haar verzoek alle informatie die zij voor de advisering redelijkerwijs nodig kan hebben.
 
-#### Artikel 10
+##### Artikel 10
 
 Elk van de leden van de Commissie kan zich verschonen op grond van feiten of omstandigheden, waardoor zijn onpartijdigheid schade zou kunnen lijden.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Het bestuur van de Raad neemt binnen vier weken na ontvangst van het advies een besluit.
 
@@ -98,10 +123,10 @@ Elk van de leden van de Commissie kan zich verschonen op grond van feiten of oms
 
 #### Slotbepalingen
 
-#### Artikel 12
+##### Artikel 12
 
 Voor hun advieswerk ontvangen de Commissieleden vacatiegeld en een reiskostenvergoeding zoals die op grond van de door de Raad gehanteerde normen zijn vastgesteld.
 
-#### Artikel 13
+##### Artikel 13
 
 In gevallen waarin deze regeling niet voorziet beslist de Raad, nadat de Commissie terzake haar opvatting te kennen heeft gegeven.

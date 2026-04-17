@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregel certificaten EU-handel, uitvoer en wederuitvoer van in gevangenschap geboren en gefokte tijgers en tijgerproducten"
+title: "Beleidsregel van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur van 8 september 2025, nr. WJZ/ 98207351, over de beoordeling van aanvragen van certificaten voor handel binnen de Europese Unie en van aanvragen van uitvoervergunningen en wederuitvoercertificaten voor in gevangenschap geboren en gefokte tijgers en tijgerproducten (Beleidsregel certificaten EU-handel, uitvoer en wederuitvoer tijgers en tijgerproducten)"
 identifier: "BWBR0051491"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-09-11
-laatste_update: 2025-09-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051491"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2025-09-11"
+last_updated: "2025-09-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051491"
+soort: "beleidsregel"
+stam_id: "17520343"
+version_id: "30914422"
+internal_id: "C44291951"
+label_id: "17422204"
+dtd_version: "2.0"
+original_entry_into_force: "2025-09-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051491/2025-09-11/0"
+intitule_bron: "Stcrt.2025-22359"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-09-08"
+intitule_published: "2025-09-10"
+intitule_in_force: "2025-09-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-22359"
+original_signed_date: "2025-09-08"
+original_published_date: "2025-09-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-22359"
+entry_into_force_date: "2025-09-11"
+jci_1_3: "jci1.3:c:BWBR0051491&z=2025-09-11&g=2025-09-11"
+jci_1_0: "1.0:c:BWBR0051491&g=2025-09-11"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel certificaten EU-handel, uitvoer en wederuitvoer van in gevangenschap geboren en gefokte tijgers en tijgerproducten"
+signed_date: "2025-09-08"
+entry_into_force: "2025-09-11"
 ---
-
 # Beleidsregel van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur van 8 september 2025, nr. WJZ/ 98207351, over de beoordeling van aanvragen van certificaten voor handel binnen de Europese Unie en van aanvragen van uitvoervergunningen en wederuitvoercertificaten voor in gevangenschap geboren en gefokte tijgers en tijgerproducten (Beleidsregel certificaten EU-handel, uitvoer en wederuitvoer tijgers en tijgerproducten)
 
 Gelet op de artikelen 4, eerste en vijfde lid, 5, eerste en derde lid, en 8, eerste en derde lid, van [verordening (EG) nr. 338/97](31997R0338) inzake de bescherming van in het wild levende dier- en plantensoorten door controle op het desbetreffende handelsverkeer (PbEG 1997 L 61), de [artikelen 11.25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.25), en [11.93, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.93), [artikel 3.69, eerste lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=3.69) en [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -36,7 +62,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - **zoölogische instelling:** een vergunninghoudende dierentuin of een instelling in een derde land die deelneemt aan een erkend fokprogramma voor de tijger.
 
-#### Artikel 2. Uitvoer en wederuitvoer
+##### Artikel 2. Uitvoer en wederuitvoer
 
 1. Een aanvraag voor de afgifte van een uitvoervergunning of een wederuitvoercertificaat als bedoeld in artikel 5 van de CITES-basisverordening voor levende, in gevangenschap geboren en gefokte tijgers en delen en afgeleide producten van de tijger wordt afgewezen.
 
@@ -68,7 +94,7 @@ In deze beleidsregel wordt verstaan onder:
 
 5. Een uitvoervergunning of een wederuitvoercertificaat voor een transactie als bedoeld in het derde lid, onder b, kan enkel worden verleend na bevestiging van de administratieve instantie van het land van bestemming dat het ontvangend opvangcentrum of reservaat een officieel geregistreerd opvangcentrum of reservaat zonder commercieel oogmerk is dat geen banden heeft met illegale activiteiten en illegale handel.
 
-#### Artikel 3. Handel binnen de Europese Unie
+##### Artikel 3. Handel binnen de Europese Unie
 
 1. Een aanvraag voor de afgifte van een certificaat als bedoeld in artikel 8, derde lid, van de CITES-basisverordening voor de handel binnen de Europese Unie in levende, in gevangenschap geboren en gefokte tijgers en delen en afgeleide producten van de tijger wordt afgewezen.
 
@@ -98,11 +124,11 @@ In deze beleidsregel wordt verstaan onder:
 
 4. Een certificaat voor een transactie als bedoeld in het derde lid, onder b, kan enkel worden afgegeven na bevestiging van de administratieve instantie van het land van bestemming dat het ontvangend opvangcentrum of reservaat een officieel geregistreerd reservaat of opvangcentrum zonder commercieel oogmerk is dat geen banden heeft met illegale activiteiten en illegale handel.
 
-#### Artikel 4. Inwerkingtreding
+##### Artikel 4. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 5. Citeertitel
+##### Artikel 5. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel certificaten EU-handel, uitvoer en wederuitvoer van in gevangenschap geboren en gefokte tijgers en tijgerproducten.
 

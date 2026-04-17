@@ -1,13 +1,35 @@
 ---
 title: "Verdrag betreffende de bescherming van werknemers tegen beroepsrisico's in het werkmilieu als gevolg van luchtverontreiniging, lawaai en trillingen"
 identifier: "BWBV0006563"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2018-06-08
-laatste_update: 2018-06-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006563"
+country: "nl"
+rank: "verdrag"
+publication_date: "2018-06-08"
+last_updated: "2018-06-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006563"
+soort: "verdrag"
+stam_id: "10005333683"
+version_id: "10005743342"
+internal_id: "C10009253501"
+label_id: "10005316924"
+dtd_version: "2.0"
+original_entry_into_force: "2018-06-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006563/2018-06-08/0"
+intitule_bron: "Trb.1978-26"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1978-02-22"
+intitule_in_force: "2017-07-11"
+intitule_status: "goed"
+original_publication: "Trb.1978-26"
+original_published_date: "1978-02-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1978-26"
+entry_into_force_date: "2018-06-08"
+jci_1_3: "jci1.3:c:BWBV0006563&z=2018-06-08&g=2018-06-08"
+jci_1_0: "1.0:c:BWBV0006563&g=2018-06-08"
+citeertitel_status: "redactioneel"
+entry_into_force: "2018-06-08"
 ---
-
 # Verdrag betreffende de bescherming van werknemers tegen beroepsrisico's in het werkmilieu als gevolg van luchtverontreiniging, lawaai en trillingen
 
 De Algemene Conferentie van de Internationale Arbeidsorganisatie,
@@ -24,7 +46,7 @@ aanvaardt heden, de twintigste juni negentienhonderd zevenenzeventig, het volgen
 
 ## Deel I. : Toepassingsgebied en definities
 
-#### Artikel 1
+##### Artikel 1
 
 1. Dit Verdrag is van toepassing op alle takken van economische activiteit.
 
@@ -32,7 +54,7 @@ aanvaardt heden, de twintigste juni negentienhonderd zevenenzeventig, het volgen
 
 3. Elk Lid dat dit Verdrag bekrachtigt, is gehouden in het eerste verslag over de toepassing van dit Verdrag, ingediend volgens [artikel 22 van het Statuut van de Internationale Arbeidsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBV0001986&artikel=22), alle takken te vermelden welke met toepassing van het tweede lid van dit artikel eventueel zijn uitgesloten, en wel met redenen omkleed, en dient in de volgende verslagen de stand van zaken met betrekking tot de wetgeving en de toepassing daarvan ten aanzien van de uitgesloten takken te vermelden, benevens de mate waarin uitvoering is gegeven of zal worden gegeven aan het Verdrag ten aanzien van deze takken.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Elk Lid kan, na raadpleging van de representatieve werkgevers- en werknemersorganisaties, voor zover deze bestaan, de verplichtingen van dit Verdrag afzonderlijk aanvaarden met betrekking tot
 
@@ -46,7 +68,7 @@ aanvaardt heden, de twintigste juni negentienhonderd zevenenzeventig, het volgen
 
 3. Elk Lid dat bij bekrachtiging niet de verplichtingen van dit Verdrag ten aanzien van alle risico-categorieën aanvaardt, dient vervolgens wanneer hij van oordeel is dat de omstandigheden dit toelaten, de Directeur-Generaal van het Internationaal Arbeidsbureau ervan in kennis te stellen, dat het de verplichtingen van het Verdrag ten aanzien van een vroeger uitgesloten categorie of categorieën aanvaardt.
 
-#### Artikel 3
+##### Artikel 3
 
 Voor het doel van dit Verdrag –
 
@@ -58,13 +80,13 @@ Voor het doel van dit Verdrag –
 
 ## Deel II. : Algemene bepalingen
 
-#### Artikel 4
+##### Artikel 4
 
 1. Nationale wetten en regelingen dienen te bepalen dat maatregelen moeten worden getroffen ter voorkoming en beperking van, en bescherming tegen beroepsrisico's in het werkmilieu als gevolg van luchtverontreiniging, lawaai en trillingen.
 
 2. De voorzieningen die nodig zijn ten behoeve van de praktische uitvoering van de aldus voorgeschreven maatregelen kunnen worden gegeven door verwijzing naar technische normen, technische richtlijnen of andere geëigende methoden.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Bij het tenuitvoerleggen van de bepalingen van dit Verdrag, dient de bevoegde autoriteit te handelen onder raadpleging van de betrokken meest representatieve organisaties van werkgevers en werknemers.
 
@@ -74,7 +96,7 @@ Voor het doel van dit Verdrag –
 
 4. Vertegenwoordigers van de werkgever en vertegenwoordigers van werknemers in de onderneming dienen in de gelegenheid te worden gesteld inspecteurs, belast met het toezicht op de uitvoering van de krachtens dit Verdrag voorgeschreven maatregelen, te vergezellen, tenzij de inspecteurs van mening zijn, gezien in het licht van de algemene instructie van de bevoegde autoriteit, dat dit een nadelige invloed kan hebben op de uitoefening van hun taak.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Werkgevers dienen verantwoordelijk te worden gesteld voor het nakomen van de voorgeschreven maatregelen.
 
@@ -82,7 +104,7 @@ Voor het doel van dit Verdrag –
 
 In de daarvoor in aanmerking komende gevallen dient de bevoegde autoriteit algemene regels voor deze samenwerking vast te stellen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Werknemers moeten worden verplicht te voldoen aan de veiligheidsvoorschriften, die betrekking hebben op het voorkomen van, respectievelijk de bescherming tegen beroepsrisico's als gevolg van luchtverontreiniging, lawaai en trillingen.
 
@@ -90,7 +112,7 @@ In de daarvoor in aanmerking komende gevallen dient de bevoegde autoriteit algem
 
 ## Deel III. : Preventieve en beschermende maatregelen
 
-#### Artikel 8
+##### Artikel 8
 
 1. De bevoegde autoriteit dient criteria te bepalen, die het mogelijk maken het risico van blootstelling aan luchtverontreiniging, lawaai en trillingen in het werkmilieu vast te stellen en dient waar nodig op basis van deze criteria maximaal toelaatbare concentraties en grenswaarden vast te stellen.
 
@@ -98,7 +120,7 @@ In de daarvoor in aanmerking komende gevallen dient de bevoegde autoriteit algem
 
 3. De criteria en de maximaal toelaatbare concentraties en grenswaarden dienen te worden vastgesteld, aangevuld en regelmatig te worden gewijzigd in het licht van actuele nationale en internationale kennis en gegevens, daarbij zoveel mogelijk rekening houdend met elke toeneming van beroepsrisico's als gevolg van gelijktijdige blootstelling aan meer dan een schadelijke factor op de arbeidsplaats.
 
-#### Artikel 9
+##### Artikel 9
 
 Het werkmilieu dient zoveel mogelijk te worden gevrijwaard van enig risico als gevolg van luchtverontreiniging, lawaai en trillingen:
 
@@ -106,13 +128,13 @@ Het werkmilieu dient zoveel mogelijk te worden gevrijwaard van enig risico als g
 
 - b). door aanvullende organisatorische maatregelen.
 
-#### Artikel 10
+##### Artikel 10
 
 Wanneer de krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006563&deel=III&artikel=9&z=2018-06-08&g=2018-06-08) genomen maatregelen het niet mogelijk maken om luchtverontreiniging, lawaai en trillingen in het werkmilieu binnen de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006563&deel=III&artikel=8&z=2018-06-08&g=2018-06-08) genoemde grenzen te brengen, dient de werkgever geschikte persoonlijke beschermingsmiddelen te verstrekken en deze te onderhouden.
 
 De werkgever kan een werknemer niet verplichten arbeid te verrichten zonder de persoonlijke beschermingsmiddelen, verstrekt krachtens dit artikel.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Onder de omstandigheden en volgens de regelen, gesteld door de bevoegde autoriteit, zal met de nodige tussenpozen controle moeten worden uitgeoefend op de gezondheid van de werknemers, die zijn of vermoedelijk zijn blootgesteld aan beroepsrisico's als gevolg van luchtverontreiniging, lawaai of trillingen in het werkmilieu. Een dergelijke controle zal omvatten een geneeskundig onderzoek, voorafgaand aan de tewerkstelling op de betrokken arbeidsplaats, en periodieke geneeskundige onderzoeken als bepaald door de bevoegde autoriteit.
 
@@ -122,11 +144,11 @@ De werkgever kan een werknemer niet verplichten arbeid te verrichten zonder de p
 
 4. De uitvoering van dit Verdrag mag de rechten van de werknemers met betrekking tot de sociale zekerheids- en sociale verzekeringswetgeving niet nadelig beïnvloeden.
 
-#### Artikel 12
+##### Artikel 12
 
 Het gebruik van door de bevoegde autoriteit aan te geven werkmethoden, stoffen, machines en materiaal, die blootstelling van de werknemers in het werkmilieu aan beroepsrisico's als gevolg van luchtverontreiniging, lawaai of trillingen met zich mede kunnen brengen, dient ter kennis te worden gebracht van de bevoegde autoriteit en deze autoriteit kan, waar nodig, het gebruik op bepaalde voorwaarden toestaan of verbieden.
 
-#### Artikel 13
+##### Artikel 13
 
 Alle betrokken personen dienen voldoende en terzake dienend te worden –
 
@@ -134,17 +156,17 @@ Alle betrokken personen dienen voldoende en terzake dienend te worden –
 
 - b). geïnstrueerd in de middelen die beschikbaar zijn ter voorkoming en beperking van, en ter bescherming tegen dergelijke risico's.
 
-#### Artikel 14
+##### Artikel 14
 
 Rekening houdend met nationale omstandigheden en middelen dienen maatregelen te worden getroffen ter bevordering van onderzoek op het gebied van het voorkomen of beperken van risico's in het werkmilieu als gevolg van luchtverontreiniging, lawaai en trillingen.
 
 ## Deel IV. : Toepassingsmaatregelen
 
-#### Artikel 15
+##### Artikel 15
 
 Op voorwaarden en onder omstandigheden, bepaald door de bevoegde autoriteit, zal de werkgever gehouden zijn een deskundig persoon aan te wijzen of gebruik te maken van een externe deskundige dienst of gemeenschappelijke dienst van verschillende ondernemingen, bij het behandelen van kwesties in verband met het voorkomen en beperken van luchtverontreiniging, lawaai en trillingen in het werkmilieu.
 
-#### Artikel 16
+##### Artikel 16
 
 Elk Lid dient –
 
@@ -154,11 +176,11 @@ Elk Lid dient –
 
 ## Deel V. : Slotbepalingen
 
-#### Artikel 17
+##### Artikel 17
 
 De officiële bekrachtigingen van dit Verdrag worden medegedeeld aan de Directeur-Generaal van het Internationaal Arbeidsbureau en door hem geregistreerd.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Dit Verdrag is slechts verbindend voor de Leden van de Internationale Arbeidsorganisatie die hun bekrachtigingen door de Directeur-Generaal hebben doen registreren.
 
@@ -166,27 +188,27 @@ De officiële bekrachtigingen van dit Verdrag worden medegedeeld aan de Directeu
 
 3. Vervolgens treedt dit Verdrag voor ieder Lid in werking twaalf maanden na de datum waarop zijn bekrachtiging is geregistreerd.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Ieder Lid dat dit Verdrag heeft bekrachtigd, kan het opzeggen, hetzij in zijn geheel of met betrekking tot één of meer risicocategorieën als vermeld in voorgaand [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006563&deel=I&artikel=2&z=2018-06-08&g=2018-06-08), na afloop van een termijn van tien jaren na de datum waarop het Verdrag in werking is getreden, door middel van een aan de Directeur-Generaal van het Internationaal Arbeidsbureau gerichte en door deze geregistreerde verklaring. De opzegging wordt eerst van kracht een jaar na de datum waarop zij is geregistreerd.
 
 2. Ieder Lid dat dit Verdrag heeft bekrachtigd en binnen een jaar na afloop van de termijn van tien jaren als bedoeld in het vorige lid geen gebruik maakt van de bevoegdheid tot opzegging bedoeld in dit artikel, is voor een nieuwe termijn van tien jaren gebonden en kan daarna dit Verdrag opzeggen na afloop van elke termijn van tien jaren op de voorwaarden, voorzien in dit artikel.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De Directeur-Generaal van het Internationaal Arbeidsbureau stelt alle Leden van de Internationale Arbeidsorganisatie in kennis van de registratie van alle bekrachtigingen en opzeggingen die hem door de Leden van de Organisatie zijn medegedeeld.
 
 2. Bij de kennisgeving aan de Leden van de Organisatie van de registratie van de tweede hem medegedeelde bekrachtiging, vestigt de Directeur-Generaal de aandacht van de Leden van de Organisatie op de datum waarop dit Verdrag in werking treedt.
 
-#### Artikel 21
+##### Artikel 21
 
 De Directeur-Generaal van het Internationaal Arbeidsbureau doet aan de Secretaris-Generaal van de Verenigde Naties mededeling, ter registratie in overeenstemming met [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102), van de volledige bijzonderheden omtrent alle bekrachtigingen en opzeggingen die hij overeenkomstig de bepalingen van de voorgaande artikelen heeft geregistreerd.
 
-#### Artikel 22
+##### Artikel 22
 
 De Raad van Beheer van het Internationaal Arbeidsbureau brengt, telkens wanneer deze dit noodzakelijk acht, aan de Algemene Conferentie verslag uit over de toepassing van dit Verdrag en onderzoekt of het wenselijk is een gehele of gedeeltelijke herziening van dit Verdrag op de agenda van de Conferentie te plaatsen.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Indien de Conferentie een nieuw Verdrag aanneemt, houdende gehele of gedeeltelijke herziening van dit Verdrag, zal, tenzij het nieuwe Verdrag anders bepaalt:
 
@@ -196,7 +218,7 @@ De Raad van Beheer van het Internationaal Arbeidsbureau brengt, telkens wanneer 
 
 2. Dit Verdrag blijft echter naar vorm en inhoud van kracht voor de Leden die het hebben bekrachtigd en die het nieuwe Verdrag, houdende herziening, niet bekrachtigen.
 
-#### Artikel 24
+##### Artikel 24
 
 De Engelse en de Franse tekst van dit Verdrag zijn gelijkelijk gezaghebbend.
 

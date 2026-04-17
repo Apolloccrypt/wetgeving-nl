@@ -1,18 +1,44 @@
 ---
-title: "Beleidsregels openbaarmaking CvTA"
+title: "Besluit van het College van Toezicht Auteursrechten van 25 juni 2024 tot vaststelling van beleidsregels inzake openbaarmaking door het CvTA"
 identifier: "BWBR0051486"
-categorie: "Overig"
-publicatiedatum: 2025-09-11
-laatste_update: 2025-09-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051486"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-09-11"
+last_updated: "2025-09-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051486"
+soort: "zbo"
+stam_id: "17519523"
+version_id: "30919112"
+internal_id: "C44298301"
+label_id: "17421444"
+dtd_version: "2.0"
+original_entry_into_force: "2025-09-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051486/2025-09-11/0"
+intitule_bron: "Stcrt.2025-30769-n1"
+intitule_effect: "wijziging"
+intitule_signed: "2024-06-25"
+intitule_published: "2025-09-10"
+intitule_in_force: "2025-09-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-30769-n1"
+original_signed_date: "2024-06-25"
+original_published_date: "2025-09-10"
+original_effect: "wijziging"
+original_url_id: "stcrt-2025-30769-n1"
+entry_into_force_date: "2025-09-11"
+jci_1_3: "jci1.3:c:BWBR0051486&z=2025-09-11&g=2025-09-11"
+jci_1_0: "1.0:c:BWBR0051486&g=2025-09-11"
+citeertitel_status: "officieel"
+short_title: "Beleidsregels openbaarmaking CvTA"
+signed_date: "2024-06-25"
+entry_into_force: "2025-09-11"
 ---
-
 # Besluit van het College van Toezicht Auteursrechten van 25 juni 2024 tot vaststelling van beleidsregels inzake openbaarmaking door het CvTA
 
 Beleidsregels openbaarmaking CvTA
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregels wordt verstaan onder:
 
@@ -22,7 +48,7 @@ In deze beleidsregels wordt verstaan onder:
 
 - c. **Woo:** [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754)
 
-#### Artikel 2. Algemene uitgangspunten
+##### Artikel 2. Algemene uitgangspunten
 
 1. Het College betracht bij de uitvoering van zijn wettelijke taken zo veel mogelijk openheid, met inachtneming van geldende rechtswaarborgen.
 
@@ -36,7 +62,7 @@ In deze beleidsregels wordt verstaan onder:
 
 6. Namen van rechtspersonen worden, behoudens bijzondere omstandigheden, niet aangemerkt als (bedrijfs)vertrouwelijke informatie.
 
-#### Artikel 3. Actieve openbaarmaking documenten
+##### Artikel 3. Actieve openbaarmaking documenten
 
 1. Het College maakt tenminste de volgende documenten openbaar op zijn website:
 
@@ -66,22 +92,22 @@ In deze beleidsregels wordt verstaan onder:
 
 6. Besluiten omtrent oplegging van een bestuurlijke boete of oplegging van een last onder dwangsom worden openbaar gemaakt nadat deze rechtens onaantastbaar zijn geworden.
 
-#### Artikel 4. Persberichten
+##### Artikel 4. Persberichten
 
 1. Het College kan persberichten uitbrengen over in zijn ogen belangrijke aangelegenheden.
 
 2. Het College streeft ernaar belanghebbenden voorafgaand aan het uitbrengen van een persbericht op de hoogte te stellen van de inhoud daarvan en van het tijdstip waarop dat bericht wordt uitgebracht, tenzij dit redelijkerwijs niet kan worden gevergd.
 
-#### Artikel 5. Nieuwsberichten
+##### Artikel 5. Nieuwsberichten
 
 1. Het College kan nieuwsberichten uitbrengen over in zijn ogen belangrijke besluiten, onderzoeken of andere werkzaamheden.
 
 2. Het College streeft ernaar belanghebbenden voorafgaand aan het uitbrengen van een nieuwsbericht op de hoogte te stellen van de inhoud daarvan en van het tijdstip waarop dat bericht wordt uitgebracht, tenzij dit redelijkerwijs niet kan worden gevergd.
 
-#### Artikel 6. Inwerkingtreding
+##### Artikel 6. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 7. Citeertitel
+##### Artikel 7. Citeertitel
 
 Dit besluit wordt aangehaald als: Beleidsregels openbaarmaking CvTA

@@ -1,26 +1,48 @@
 ---
 title: "Administratief Akkoord voor de uitvoering van het Verdrag inzake sociale zekerheid tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland"
 identifier: "BWBV0003213"
-categorie: "Sociaal recht"
-publicatiedatum: 2008-08-19
-laatste_update: 2007-06-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003213"
+country: "nl"
+rank: "verdrag"
+publication_date: "2008-08-19"
+last_updated: "2007-06-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003213"
+soort: "verdrag"
+stam_id: "10003409423"
+version_id: "10003452462"
+internal_id: "C10008429651"
+label_id: "10003395434"
+dtd_version: "2.0"
+original_entry_into_force: "2008-08-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003213/2008-08-19/0"
+intitule_bron: "Trb.2008-193"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2008-10-03"
+intitule_in_force: "2008-10-03"
+intitule_status: "goed"
+original_publication: "Trb.2008-193"
+original_published_date: "2008-10-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2008-193"
+entry_into_force_date: "2008-08-19"
+jci_1_3: "jci1.3:c:BWBV0003213&z=2008-08-19&g=2008-08-19"
+jci_1_0: "1.0:c:BWBV0003213&g=2008-08-19"
+citeertitel_status: "redactioneel"
+entry_into_force: "2008-08-19"
 ---
-
 # Administratief Akkoord voor de uitvoering van het Verdrag inzake sociale zekerheid tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland
 
 For the purpose of applying the [Convention on Social Security between the United Kingdom of Great Britain and Northern Ireland and the Kingdom of the Netherlands](https://wetten.overheid.nl/jci1.3:c:BWBV0001782) in accordance with the provisions of [Article 28(1) of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001782&artikel=28), the competent authorities of the Parties have agreed the following.
 
 ### PART I. GENERAL PROVISIONS
 
-#### Section 1
+##### Section 1
 
 1. For the purpose of this Administrative Agreement, “Convention” means the [Convention on Social Security between the United Kingdom of Great Britain and Northern Ireland and the Kingdom of the Netherlands](https://wetten.overheid.nl/jci1.3:c:BWBV0001782), signed at The Hague on the 21st of December 2005
 
 2. Other words and expressions used in this Administrative Agreement will have the same meaning as in the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001782).
 
-#### Section 2
+##### Section 2
 
 1. In accordance with [Article 28(3) of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001782&artikel=28) the following bodies have been designated liaison offices between the competent authorities or competent institutions of both Parties for the purpose of applying the provisions of the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001782).
 
@@ -46,7 +68,7 @@ The liaison offices decide in consultation the procedures concerning claims for 
 
 ### PART II. APPLICATION OF THE PROVISIONS WHICH DETERMINE THE LEGISLATION APPLICABLE CONCERNING CONTRIBUTION LIABILITY
 
-#### Section 3
+##### Section 3
 
 1. In cases arising under [Articles 7 to 11 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001782&artikel=7), the competent authority or competent institution of the Party whose legislation is being applied will issue to the insured person or to his employer, on application, a certificate showing that the insured person remains liable for contributions under that legislation.
 
@@ -54,37 +76,37 @@ The liaison offices decide in consultation the procedures concerning claims for 
 
 ### PART III. APPLICATION OF THE SPECIAL PROVISIONS FOR SICKNESS BENEFIT AND MATERNITY ALLOWANCE
 
-#### Section 4
+##### Section 4
 
 For the implementation of [Article 15 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001782&artikel=15), the competent authority or competent institution of one Party will send the appropriate form for Sickness Benefit or Maternity Allowance to the competent authority or competent institution of the other Party which will provide such information as may be required.
 
-#### Section 5
+##### Section 5
 
 For the implementation of [Article 15(5) of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001782&artikel=15) where a person has not paid a contribution of the appropriate class for the benefit claimed since last arriving in the territory of a Party, the claim shall be transferred to the competent authority or competent institution of the Party by whom he was last insured. Confirmation of the date of claim and evidence of incapacity must be included when the claim is transferred.
 
-#### Section 6
+##### Section 6
 
 Where a person who is resident in the territory of one Party claims Sickness Benefit or Maternity Allowance under the legislation of the other Party and the provision of [Article 15(7) of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001782&artikel=15) may apply, the competent authority or competent institution in the latter Party will inquire, from the competent authority or competent institution in the former Party, whether a claim for Sickness Benefit or Maternity Allowance has been made under the legislation of that former Party.
 
 ### PART IV. APPLICATION OF THE SPECIAL PROVISIONS FOR INVALIDITY BENEFIT
 
-#### Section 7
+##### Section 7
 
 For the implementation of [Article 16 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001782&artikel=16), the competent authority or competent institution of one Party will provide the competent authority or competent institution of the other Party with such information as may be required.
 
-#### Section 8
+##### Section 8
 
 When a person claims Invalidity Pension under the legislation of one Party and the provisions of [Article 16(2) of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001782&artikel=16) may apply, the competent authority or competent institution which receives the claim will inquire, from the competent authority or competent institution in the other Party whether a claim for Invalidity Pension has been made under the legislation of the latter Party.
 
 ### PART V. APPLICATION OF THE SPECIAL PROVISIONS FOR UNEMPLOYMENT BENEFIT
 
-#### Section 9
+##### Section 9
 
 For the implementation of [Article 17 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001782&artikel=17) the competent authority or competent institution of one Party will send the appropriate form for Unemployment Benefit to the competent authority or competent institution of the other Party which will provide such information as may be required.
 
 ### PART VI. APPLICATION OF THE SPECIAL PROVISIONS FOR RETIREMENT PENSIONS AND SURVIVOR’S BENEFIT
 
-#### Section 10
+##### Section 10
 
 1. Where a claim to benefit under the provisions of [Articles 18](https://wetten.overheid.nl/jci1.3:c:BWBV0001782&artikel=18), [19](https://wetten.overheid.nl/jci1.3:c:BWBV0001782&artikel=19) and [24 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001782&artikel=24) is received by the competent authority, the competent institution or the liaison offices of one Party and it appears that there may be entitlement to benefit under the legislation of the other Party, details of the claim and all relevant information will be passed to other interested competent authorities or competent institutions or the liaison offices, as follows:
 
@@ -110,25 +132,25 @@ Each of the competent authorities in the United Kingdom shall return one copy of
 
 ### PART VII. APPLICATION OF THE SPECIAL PROVISIONS FOR INDUSTRIAL ACCIDENTS AND INDUSTRIAL DISEASES
 
-#### Section 11
+##### Section 11
 
 For the implementation of [Article 25 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001782&artikel=25), the competent authority or competent institution of one Party will provide the competent authority or competent institution of the other Party with such information as may be required.
 
 ### PART VIII. APPLICATION OF THE SPECIAL PROVISIONS FOR CHILD BENEFIT
 
-#### Section 12
+##### Section 12
 
 For the implementation of [Article 26 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001782&artikel=26), the competent authority or competent institution of one Party will provide the competent authority or competent institution of the other Party with such information as may be required.
 
 ### PART IX. MISCELLANEOUS PROVISIONS
 
-#### Section 13
+##### Section 13
 
 1. For the implementation of [Article 27 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001782&artikel=27) the competent authority or competent institution which has overpaid an amount of benefit and wishes to recover that overpayment from the arrears of benefit held by the other Party, will notify the latter Party of its request either by the appropriate form or by letter.
 
 2. The arrears of benefit available when the request is received or which later become available after the request, will be sent to the competent authority or competent institution which is to make the recovery. After recovering the appropriate amount under [Article 27 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001782&artikel=27) the balance of the arrears, if any, will be paid to the beneficiary. Confirmation of the amount received and the amount paid to the beneficiary will be notified to the competent authority or competent institution which sent the arrears.
 
-#### Section 14
+##### Section 14
 
 Referring to [Article 28(6) of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001782&artikel=28)
 
@@ -136,21 +158,21 @@ Referring to [Article 28(6) of the Convention](https://wetten.overheid.nl/jci1.3
 
 - 2. The competent authority or competent institution of the latter Party will make the necessary arrangements for the medical examination of the person and forward the resulting reports to the competent authority or competent institution of the former Party.
 
-#### Section 15
+##### Section 15
 
 Any claim or appeal received by the competent authority or competent institution of the territory in which a person resides but proper to the competent authority or competent institution of the other Party will be endorsed with the date of its receipt and sent to the competent authority or competent institution of the other Party.
 
-#### Section 16
+##### Section 16
 
 The competent authority or competent institution of one Party will obtain, where necessary, from the competent authority or competent institution of the other Party, any declaration or other information which may be required concerning any person for the purpose of the application of the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001782).
 
-#### Section 17
+##### Section 17
 
 Where a competent authority or competent institution of one Party is unable to collect contributions or a fine from an employer, or person, residing or staying in the territory of the other Party, the competent authority or competent institution of the latter Party will provide assistance to collect the contributions or the fine.The assistance will be limited to passing the demand for contributions or for a fine, with instructions on how the contributions or the fine can be paid, to the liable employer or person.
 
 ### PART X. FINAL PROVISIONS
 
-#### Section 18
+##### Section 18
 
 This Administrative Agreement shall come into operation with retroactive effect as of 1 June 2007, shall have the same duration as the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001782) and may be modified as required by agreement between the competent authorities.
 

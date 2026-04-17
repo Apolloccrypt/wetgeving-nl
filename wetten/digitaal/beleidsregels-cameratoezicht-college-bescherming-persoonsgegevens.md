@@ -1,13 +1,35 @@
 ---
 title: "Beleidsregels cameratoezicht, College bescherming persoonsgegevens"
 identifier: "BWBR0037591"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2016-02-02
-laatste_update: 2016-02-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037591"
+country: "nl"
+rank: "zbo"
+publication_date: "2016-02-02"
+last_updated: "2016-02-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037591"
+soort: "zbo"
+stam_id: "13408093"
+version_id: "23029962"
+internal_id: "C33291571"
+label_id: "13376504"
+dtd_version: "2.0"
+original_entry_into_force: "2016-02-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037591/2016-02-02/0"
+intitule_bron: "Stcrt.2016-4971"
+intitule_effect: "wijziging"
+intitule_published: "2016-02-02"
+intitule_in_force: "2016-02-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-4971"
+original_published_date: "2016-02-02"
+original_effect: "wijziging"
+original_url_id: "stcrt-2016-4971"
+entry_into_force_date: "2016-02-02"
+jci_1_3: "jci1.3:c:BWBR0037591&z=2016-02-02&g=2016-02-02"
+jci_1_0: "1.0:c:BWBR0037591&g=2016-02-02"
+citeertitel_status: "redactioneel"
+entry_into_force: "2016-02-02"
 ---
-
 # Beleidsregels cameratoezicht, College bescherming persoonsgegevens
 
 ### Beleidsregels voor de toepassing van bepalingen uit de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) en de [Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463)

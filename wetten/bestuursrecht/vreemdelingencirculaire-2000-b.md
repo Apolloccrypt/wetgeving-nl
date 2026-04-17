@@ -1,13 +1,38 @@
 ---
 title: "Vreemdelingencirculaire 2000 (B)"
 identifier: "BWBR0012289"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-04-03
-laatste_update: 2026-04-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012289"
+country: "nl"
+rank: "circulaire"
+publication_date: "2026-04-03"
+last_updated: "2026-04-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012289"
+soort: "circulaire"
+stam_id: "7237033"
+version_id: "25734112"
+internal_id: "C36702791"
+label_id: "7242324"
+dtd_version: "2.0"
+original_entry_into_force: "2019-03-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012289/2026-04-03/0"
+intitule_bron: "Supplement-Stcrt.2001-64"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-03-02"
+intitule_published: "2001-03-30"
+intitule_in_force: "2001-03-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-12710"
+original_signed_date: "2019-03-04"
+original_published_date: "2019-03-13"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2019-12710"
+entry_into_force_date: "2019-03-14"
+jci_1_3: "jci1.3:c:BWBR0012289&z=2026-04-03&g=2026-04-03"
+jci_1_0: "1.0:c:BWBR0012289&g=2026-04-03"
+citeertitel_status: "redactioneel"
+signed_date: "2019-03-04"
+entry_into_force: "2019-03-14"
 ---
-
 # Vreemdelingencirculaire 2000 (B)
 
 ### B1. Regulier algemeen

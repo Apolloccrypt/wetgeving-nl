@@ -1,13 +1,35 @@
 ---
-title: "Besluit uitkeringsregeling officieren der krijgsmacht die voortijdig militaire dienst verlaten"
+title: "Besluit van 29 januari 1965, houdende vaststelling van een uitkeringsregeling ten behoeve van officieren der krijgsmacht die voortijdig de militaire dienst verlaten"
 identifier: "BWBR0002479"
-categorie: "Sociaal recht"
-publicatiedatum: 1965-02-18
-laatste_update: 1965-02-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002479"
+country: "nl"
+rank: "amvb"
+publication_date: "1965-02-18"
+last_updated: "1965-02-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002479"
+soort: "AMvB"
+stam_id: "1147843"
+version_id: "1696832"
+internal_id: "C1696831"
+label_id: "1112834"
+dtd_version: "2.0"
+original_entry_into_force: "1965-02-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002479/1965-02-18/0"
+intitule_bron: "Stb.1965-50"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1965-01-29"
+intitule_status: "goed"
+original_publication: "Stb.1965-50"
+original_signed_date: "1965-01-29"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1965-02-18"
+jci_1_3: "jci1.3:c:BWBR0002479&z=1965-02-18&g=1965-02-18"
+jci_1_0: "1.0:c:BWBR0002479&g=1965-02-18"
+citeertitel_status: "officieel"
+short_title: "Besluit uitkeringsregeling officieren der krijgsmacht die voortijdig militaire dienst verlaten"
+signed_date: "1965-01-29"
+entry_into_force: "1965-02-18"
 ---
-
 # Besluit van 29 januari 1965, houdende vaststelling van een uitkeringsregeling ten behoeve van officieren der krijgsmacht die voortijdig de militaire dienst verlaten
 
 Op de voordracht van Onze Minister van Defensie van 23 november 1964, nr. P. 126.529/D;
@@ -20,7 +42,7 @@ Gezien het nader rapport van Onze voornoemde Minister van 22 januari 1965, nr. P
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van het bij of krachtens dit besluit bepaalde wordt verstaan onder:
 
@@ -62,7 +84,7 @@ Voor de toepassing van het bij of krachtens dit besluit bepaalde wordt verstaan 
 
 - bb. indien het een officier der landmacht of een officier der luchtmacht betreft: de bezoldiging in de zin van het Besluit herziening bezoldiging militairen land- en luchtmacht 1954 (**Stb.** 51), vermeerderd met de tijdelijke weddebijslag in verband met huurverhogingen ingevolge Ons besluit van 12 mei 1964 (**Stb.** 201), de kindertoelage ingevolge de Kindertoelageregeling overheidspersoneel en de kinderbijslag ingevolge de [Algemene kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368).
 
-#### Artikel 2
+##### Artikel 2
 
 1. De officieren en de reserve-officieren die behoren tot
 
@@ -84,13 +106,13 @@ aanspraak op een geldelijke uitkering ten bedrage van achttien maal het bedrag v
 
 2. Een uitkering als bedoeld in het eerste lid wordt uitbetaald binnen twee weken nadat daarop aanspraak is ontstaan, tenzij belanghebbende te kennen geeft, dat hij aan uitbetaling op een later tijdstip of aan uitbetaling in termijnen de voorkeur geeft, in welk geval zulks kan plaats vinden met toepassing van door Onze Minister ter zake gestelde regelen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De officieren en de reserve-officieren, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002479&artikel=2&z=1965-02-18&g=1965-02-18), behouden tot de datum, met ingang waarvan zij in aanmerking hadden kunnen worden gebracht voor een eervol ontslag uit de militaire dienst op een van de gronden omschreven in [artikel 1 onder **c** onderscheidenlijk onder **d,**](https://wetten.overheid.nl/jci1.3:c:BWBR0002479&artikel=1&z=1965-02-18&g=1965-02-18) de aanspraken inzake geneeskundige verzorging voor zich en hun gezinsleden, als ware hun geen voortijdig ontslag verleend.
 
 2. Voor de officieren en de reserve-officieren, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002479&artikel=2&z=1965-02-18&g=1965-02-18), die belanghebbende zijn in de zin van de Regeling geneeskundige verzorging gepensioneerde militairen KL/KLu (**Stb.** 1962, 241), wordt voor de toepassing van die regeling als tijdstip van pensionering aangemerkt de in het eerste lid bedoelde datum.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst.
 

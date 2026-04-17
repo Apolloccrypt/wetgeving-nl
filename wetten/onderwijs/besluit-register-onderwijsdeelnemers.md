@@ -1,13 +1,39 @@
 ---
-title: "Besluit register onderwijsdeelnemers"
+title: "Besluit van 27 september 2019, houdende nadere regels met betrekking tot de gegevens in het register onderwijsdeelnemers, alsmede over de levering van gegevens aan het register door onderwijsinstellingen en de verstrekking van gegevens uit het register aan derden (Besluit register onderwijsdeelnemers)"
 identifier: "BWBR0042639"
-categorie: "Onderwijs"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042639"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042639"
+soort: "AMvB"
+stam_id: "15204813"
+version_id: "26062132"
+internal_id: "C37950611"
+label_id: "15152854"
+dtd_version: "2.0"
+original_entry_into_force: "2020-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042639/2026-01-01/0"
+intitule_bron: "Stb.2019-316"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-09-27"
+intitule_published: "2019-10-14"
+intitule_in_force: "2020-06-17"
+intitule_status: "goed"
+original_publication: "Stb.2019-316"
+original_signed_date: "2019-09-27"
+original_published_date: "2019-10-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2019-316"
+entry_into_force_date: "2020-07-01"
+jci_1_3: "jci1.3:c:BWBR0042639&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0042639&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit register onderwijsdeelnemers"
+signed_date: "2019-09-27"
+entry_into_force: "2020-07-01"
 ---
-
 # Besluit van 27 september 2019, houdende nadere regels met betrekking tot de gegevens in het register onderwijsdeelnemers, alsmede over de levering van gegevens aan het register door onderwijsinstellingen en de verstrekking van gegevens uit het register aan derden (Besluit register onderwijsdeelnemers)
 
 Op de voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschap, van 10 juli 2019, nr. WJZ/9177124 (6732), directie Wetgeving en Juridische Zaken, gedaan mede namens Onze Minister voor Basis- en Voortgezet Onderwijs en Media;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit en de daarop gebaseerde bepalingen wordt verstaan onder:
 
@@ -66,7 +92,7 @@ In dit besluit en de daarop gebaseerde bepalingen wordt verstaan onder:
 
 #### Paragraaf 2.1. Basisgegevens
 
-#### Artikel 2. Reikwijdte
+##### Artikel 2. Reikwijdte
 
 1. Deze paragraaf is van toepassing op onderwijsdeelnemers die zijn of waren ingeschreven aan een door het Rijk bekostigde onderwijsinstelling als bedoeld in de [WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), [WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549), [WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212) of [WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682), of aan een door het Rijk bekostigde opleiding vavo of beroepsopleiding verzorgd door een onderwijsinstelling als bedoeld in de [WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625).
 
@@ -94,7 +120,7 @@ In dit besluit en de daarop gebaseerde bepalingen wordt verstaan onder:
 
 6. Deze paragraaf is van toepassing op onderwijsdeelnemers die zijn of waren ingeschreven aan een niet door het Rijk bekostigde onderwijsinstelling als bedoeld in [artikel 1, onderdeel b, onder 3° of 4°, van de Leerplichtwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&artikel=1), met uitzondering van de [artikelen 4, eerste lid, onderdelen h tot en met j en onderdeel m](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2026-01-01&g=2026-01-01), [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2026-01-01&g=2026-01-01), [6, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&hoofdstuk=2&paragraaf=2.1&artikel=6&z=2026-01-01&g=2026-01-01), [7, eerste tot en met het derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&hoofdstuk=2&paragraaf=2.1&artikel=7&z=2026-01-01&g=2026-01-01), en [8, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&hoofdstuk=2&paragraaf=2.1&artikel=8&z=2026-01-01&g=2026-01-01), met dien verstande dat voor een niet door het Rijk bekostigde onderwijsinstelling als bedoeld in artikel 1, onderdeel b, onder 3°, van de Leerplichtwet BES tevens artikel 4, eerste lid, onderdeel k, is uitgezonderd.
 
-#### Artikel 3. In het register onderwijsdeelnemers opgenomen basisgegevens
+##### Artikel 3. In het register onderwijsdeelnemers opgenomen basisgegevens
 
 Het register onderwijsdeelnemers bevat van elke onderwijsdeelnemer die is of was ingeschreven aan een onderwijsinstelling voor zover van toepassing de volgende typen basisgegevens:
 
@@ -108,7 +134,7 @@ Het register onderwijsdeelnemers bevat van elke onderwijsdeelnemer die is of was
 
 - e. overige basisgegevens.
 
-#### Artikel 4. Identificerende gegevens die deel uitmaken van de basisgegevens
+##### Artikel 4. Identificerende gegevens die deel uitmaken van de basisgegevens
 
 1. De basisgegevens omvatten van elke onderwijsdeelnemer voor zover van toepassing de volgende identificerende gegevens:
 
@@ -140,7 +166,7 @@ Het register onderwijsdeelnemers bevat van elke onderwijsdeelnemer die is of was
 
 2. Indien de identificerende gegevens niet kunnen worden ontleend aan de basisregistratie personen, dan zijn de identificerende gegevens die behoren tot de basisgegevens de gegevens, bedoeld in [artikel 18, eerste lid, onderdeel a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&hoofdstuk=3&paragraaf=3.1&artikel=18&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 5. Inschrijvingsgegevens
+##### Artikel 5. Inschrijvingsgegevens
 
 1. De basisgegevens omvatten van elke onderwijsdeelnemer de volgende inschrijvingsgegevens:
 
@@ -180,7 +206,7 @@ Het register onderwijsdeelnemers bevat van elke onderwijsdeelnemer die is of was
 
 - c. de reden van beëindiging van de inschrijving.
 
-#### Artikel 6. Opleidingsgegevens
+##### Artikel 6. Opleidingsgegevens
 
 1. De basisgegevens omvatten van de onderwijsdeelnemer die is of was ingeschreven aan een onderwijsinstelling als bedoeld in de [WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420) of de [WPO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280) voor zover van toepassing de volgende opleidingsgegevens:
 
@@ -278,7 +304,7 @@ Het register onderwijsdeelnemers bevat van elke onderwijsdeelnemer die is of was
 
 - c. de opleidingsfase.
 
-#### Artikel 7. Resultaatgegevens
+##### Artikel 7. Resultaatgegevens
 
 1. De basisgegevens omvatten van de onderwijsdeelnemer die is of was ingeschreven aan een onderwijsinstelling als bedoeld in de [WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420) of de [WPO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280) voor zover van toepassing de volgende resultaatgegevens:
 
@@ -364,7 +390,7 @@ Het register onderwijsdeelnemers bevat van elke onderwijsdeelnemer die is of was
 
 - b. de datum van het afsluitend examen van een masteropleiding, een opleiding als bedoeld in [artikel 18.15, WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=18.15), of een associate degree-opleiding.
 
-#### Artikel 8. Overige basisgegevens
+##### Artikel 8. Overige basisgegevens
 
 1. De basisgegevens omvatten van de onderwijsdeelnemer die is of was ingeschreven aan een onderwijsinstelling als bedoeld in de [WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420) of de [WPO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280) voor zover van toepassing de volgende gegevens:
 
@@ -414,7 +440,7 @@ Het register onderwijsdeelnemers bevat van elke onderwijsdeelnemer die is of was
 
 #### Paragraaf 2.2. Vrijstellingsgegevens
 
-#### Artikel 9. Identificerende gegevens die deel uitmaken van de vrijstellingsgegevens
+##### Artikel 9. Identificerende gegevens die deel uitmaken van de vrijstellingsgegevens
 
 Het register onderwijsdeelnemers bevat als onderdeel van de vrijstellingsgegevens van elke onderwijsdeelnemer van wie op grond van deze paragraaf vrijstellingsgegevens in het register onderwijsdeelnemers zijn opgenomen de volgende identificerende gegevens:
 
@@ -424,7 +450,7 @@ Het register onderwijsdeelnemers bevat als onderdeel van de vrijstellingsgegeven
 
 - c. de geboortedatum.
 
-#### Artikel 10. Vrijstellingsgegevens vervangende leerplicht
+##### Artikel 10. Vrijstellingsgegevens vervangende leerplicht
 
 Het register onderwijsdeelnemers bevat van de onderwijsdeelnemer van wie het college van burgemeester en wethouders heeft ingestemd met de aanvraag, bedoeld in [artikel 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=3a), of [3b, eerste lid, LPW](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=3b) de volgende vrijstellingsgegevens:
 
@@ -434,7 +460,7 @@ Het register onderwijsdeelnemers bevat van de onderwijsdeelnemer van wie het col
 
 - c. of eerder vervangende leerplicht is toegestaan.
 
-#### Artikel 11. Vrijstellingsgegevens bij vrijstelling leerplicht
+##### Artikel 11. Vrijstellingsgegevens bij vrijstelling leerplicht
 
 Het register onderwijsdeelnemers bevat van de onderwijsdeelnemer voor wie op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=5) of [5a LPW](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=5a) een beroep is gedaan op vrijstelling van de verplichting om te zorgen, dat een jongere als bedoeld in die wet als onderwijsdeelnemer aan een onderwijsinstelling staat ingeschreven de volgende vrijstellingsgegevens:
 
@@ -444,7 +470,7 @@ Het register onderwijsdeelnemers bevat van de onderwijsdeelnemer voor wie op gro
 
 - c. of eerder een beroep op vrijstelling van de leerplicht is gedaan.
 
-#### Artikel 12. Vrijstellingsgegevens bij vrijstelling wegens het volgen van ander onderwijs
+##### Artikel 12. Vrijstellingsgegevens bij vrijstelling wegens het volgen van ander onderwijs
 
 Het register onderwijsdeelnemers bevat van de onderwijsdeelnemer voor wie door het college van burgemeester en wethouders op grond van [artikel 15 LPW](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=15) vrijstelling is verleend van de in [artikel 4a LPW](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=4a) opgelegde verplichting de volgende vrijstellingsgegevens:
 
@@ -456,7 +482,7 @@ Het register onderwijsdeelnemers bevat van de onderwijsdeelnemer voor wie door h
 
 #### Paragraaf 2.3. Verzuimgegevens
 
-#### Artikel 13. Identificerende gegevens die deel uitmaken van de verzuimgegevens
+##### Artikel 13. Identificerende gegevens die deel uitmaken van de verzuimgegevens
 
 1. Het register onderwijsdeelnemers bevat als onderdeel van de verzuimgegevens van elke onderwijsdeelnemer van wie op grond van deze paragraaf verzuimgegevens in het register onderwijsdeelnemers zijn opgenomen, voor zover van toepassing de volgende identificerende gegevens:
 
@@ -476,7 +502,7 @@ Het register onderwijsdeelnemers bevat van de onderwijsdeelnemer voor wie door h
 
 2. Indien het verblijfadres van de onderwijsdeelnemer afwijkt van het adres van de onderwijsdeelnemer zoals dat is opgenomen in de basisregistratie personen, of als de onderwijsdeelnemer niet is opgenomen in de basisregistratie personen, dan bevat het register onderwijsdeelnemers als onderdeel van de verzuimgegevens in afwijking van het eerste lid, onderdelen d en e, het verblijfadres en de postcode daarvan.
 
-#### Artikel 14. Overige verzuimgegevens
+##### Artikel 14. Overige verzuimgegevens
 
 Het register onderwijsdeelnemers bevat van de onderwijsdeelnemer, bedoeld in [artikel 21a LPW](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=21a), [artikel 9.2.2 WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=9.2.2), [artikel 47b WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=47b) of [artikel 8.20 WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=8.20), voor zover van toepassing de volgende verzuimgegevens:
 
@@ -514,7 +540,7 @@ Het register onderwijsdeelnemers bevat van de onderwijsdeelnemer, bedoeld in [ar
 
 #### Paragraaf 2.4. Diplomagegevens
 
-#### Artikel 15. Identificerende gegevens die deel uitmaken van de diplomagegevens
+##### Artikel 15. Identificerende gegevens die deel uitmaken van de diplomagegevens
 
 Het register onderwijsdeelnemers bevat als onderdeel van de diplomagegevens van elke onderwijsdeelnemer van wie op grond van deze paragraaf diplomagegevens in het register onderwijsdeelnemers zijn opgenomen, voor zover van toepassing de volgende identificerende gegevens:
 
@@ -528,7 +554,7 @@ Het register onderwijsdeelnemers bevat als onderdeel van de diplomagegevens van 
 
 - e. de overlijdensdatum.
 
-#### Artikel 16. Waardedocumenten
+##### Artikel 16. Waardedocumenten
 
 Diplomagegevens kunnen betrekking hebben op:
 
@@ -570,7 +596,7 @@ Diplomagegevens kunnen betrekking hebben op:
 
 - s. inburgeringscertificaten voor het behalen van de zelfredzaamheidsroute, bedoeld in [artikel 3.16, eerste lid, van het Besluit inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=3.16).
 
-#### Artikel 17. Overige diplomagegevens
+##### Artikel 17. Overige diplomagegevens
 
 1. Het register onderwijsdeelnemers bevat van de onderwijsdeelnemer voor wie een waardedocument als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&hoofdstuk=2&paragraaf=2.4&artikel=16&z=2026-01-01&g=2026-01-01) is afgegeven de volgende diplomagegevens:
 
@@ -602,7 +628,7 @@ Diplomagegevens kunnen betrekking hebben op:
 
 #### Paragraaf 3.1. Levering basisgegevens
 
-#### Artikel 18. Levering basisgegevens door bestuur
+##### Artikel 18. Levering basisgegevens door bestuur
 
 1. Het bestuur van een onderwijsinstelling levert aan Onze Minister met het persoonsgebonden nummer de volgende basisgegevens van elke onderwijsdeelnemer die is of was ingeschreven aan die onderwijsinstelling:
 
@@ -618,7 +644,7 @@ Diplomagegevens kunnen betrekking hebben op:
 
 2. Indien gegevens over de nationaliteit van de onderwijsdeelnemer als bedoeld in [artikel 4, eerste lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2026-01-01&g=2026-01-01), niet zijn opgenomen in de basisregistratie personen levert het bestuur deze aan Onze Minister.
 
-#### Artikel 19. Levering basisgegevens in geval van ambulante begeleiding door een WEC-instelling of epilepsieschool
+##### Artikel 19. Levering basisgegevens in geval van ambulante begeleiding door een WEC-instelling of epilepsieschool
 
 1. Het bestuur van een instelling als bedoeld in de [WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549), levert aan Onze Minister met het persoonsgebonden nummer de volgende basisgegevens van elke onderwijsdeelnemer die wordt of is begeleid door een aan die instelling verbonden leraar:
 
@@ -634,7 +660,7 @@ Diplomagegevens kunnen betrekking hebben op:
 
 #### Paragraaf 3.2. Levering vrijstellingsgegevens
 
-#### Artikel 20. Levering vrijstellingsgegevens
+##### Artikel 20. Levering vrijstellingsgegevens
 
 1. Indien het college van burgemeester en wethouders besluit tot instemming met het verzoek, bedoeld in de [artikelen 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=3a), of [3b, eerste lid, LPW](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=3b), levert het college van burgemeester en wethouders aan Onze Minister:
 
@@ -664,7 +690,7 @@ Diplomagegevens kunnen betrekking hebben op:
 
 #### Paragraaf 3.3. Levering verzuimgegevens
 
-#### Artikel 21. Levering verzuimgegevens
+##### Artikel 21. Levering verzuimgegevens
 
 1. Indien [artikel 21a LPW](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=21a) van toepassing is, levert het hoofd aan Onze Minister de verzuimgegevens, bedoeld in [artikel 14, onderdelen b tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2026-01-01&g=2026-01-01), met het persoonsgebonden nummer van de onderwijsdeelnemer.
 
@@ -676,7 +702,7 @@ Diplomagegevens kunnen betrekking hebben op:
 
 #### Paragraaf 3.4. Levering diplomagegevens
 
-#### Artikel 22. Levering diplomagegevens
+##### Artikel 22. Levering diplomagegevens
 
 1. De organisatie die een waardedocument heeft uitgereikt, levert aan Onze Minister de identificerende gegevens, bedoeld in [artikel 15, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&hoofdstuk=2&paragraaf=2.4&artikel=15&z=2026-01-01&g=2026-01-01), met het persoonsgebonden nummer van de onderwijsdeelnemer.
 
@@ -690,7 +716,7 @@ Diplomagegevens kunnen betrekking hebben op:
 
 #### Paragraaf 4.1. Verstrekking basisgegevens
 
-#### Artikel 23. Verstrekking basisgegevens aan Onze Minister voor de bekostiging van onderwijsinstellingen, de planning van onderwijsinstellingen voor hoger onderwijs, de begrotings- en beleidsvoorbereiding en het toezicht op de naleving van de [Wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249)
+##### Artikel 23. Verstrekking basisgegevens aan Onze Minister voor de bekostiging van onderwijsinstellingen, de planning van onderwijsinstellingen voor hoger onderwijs, de begrotings- en beleidsvoorbereiding en het toezicht op de naleving van de [Wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249)
 
 1. Voor de bekostiging van onderwijsinstellingen, de planning van onderwijsinstellingen voor hoger onderwijs, de begrotings- en beleidsvoorbereiding en het toezicht op de naleving van de [Wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249), bedoeld in [artikel 15, eerste lid, van de Wet register onderwijsdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&artikel=15), worden aan Onze Minister de basisgegevens, aangeduid in de bijlage verstrekt.
 
@@ -700,11 +726,11 @@ Diplomagegevens kunnen betrekking hebben op:
 
 4. Bij de verstrekking, bedoeld in het eerste en tweede lid, wordt het persoonsgebonden nummer vervangen door een ander nummer of een code op een zodanige wijze dat de onderwijsdeelnemer niet geïdentificeerd is.
 
-#### Artikel 24. Verstrekking basisgegevens aan Onze Minister voor het verkeer met het bestuur over de vaststelling van de bekostiging
+##### Artikel 24. Verstrekking basisgegevens aan Onze Minister voor het verkeer met het bestuur over de vaststelling van de bekostiging
 
 Voor het verkeer met het bestuur over de vaststelling van de bekostiging, daaronder begrepen de motivering van beschikkingen en de behandeling van bezwaar- en beroepschriften, worden aan Onze Minister het persoonsgebonden nummer en de in de bijlage aangeduide basisgegevens van onderwijsdeelnemers verstrekt, met dien verstande dat de in de bijlage aangeduide identificerende gegevens alleen worden verstrekt ten aanzien van een onderwijsdeelnemer die is of was ingeschreven aan een onderwijsinstelling als bedoeld in de daarbij aangeduide wet of wetten.
 
-#### Artikel 25. Verstrekking basisgegevens aan Onze Minister ten behoeve van de uitvoering van overige wettelijke taken
+##### Artikel 25. Verstrekking basisgegevens aan Onze Minister ten behoeve van de uitvoering van overige wettelijke taken
 
 1. Aan Onze Minister worden ten behoeve van de uitvoering van taken met betrekking tot de verstrekking van studiefinanciering, vouchers en langstudeerderskrediet bij of krachtens de [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453) het persoonsgebonden nummer, de leeftijd van de onderwijsdeelnemer op de peildatum en de in de bijlage aangeduide basisgegevens verstrekt van onderwijsdeelnemers.
 
@@ -722,7 +748,7 @@ Voor het verkeer met het bestuur over de vaststelling van de bekostiging, daaron
 
 8. Aan Onze Minister worden ten behoeve van de uitvoering van zijn taak met betrekking tot het legaliseren van bewijzen van inschrijving van een onderwijsinstelling de in de bijlage aangeduide basisgegevens van onderwijsdeelnemers verstrekt.
 
-#### Artikel 26. Verstrekking basisgegevens aan de inspectie voor het toezicht op het onderwijs
+##### Artikel 26. Verstrekking basisgegevens aan de inspectie voor het toezicht op het onderwijs
 
 1. Aan de inspectie worden, voor zover dit noodzakelijk is voor het toezicht op het onderwijs door de inspectie, als bedoeld in [artikel 19, eerste lid, van de Wet register onderwijsdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&artikel=19), de in de bijlage aangeduide basisgegevens verstrekt.
 
@@ -732,7 +758,7 @@ Voor het verkeer met het bestuur over de vaststelling van de bekostiging, daaron
 
 4. Bij de verstrekking, bedoeld in het eerste en tweede lid, wordt het persoonsgebonden nummer vervangen door een ander nummer of een code op een zodanige wijze dat de onderwijsdeelnemer niet geïdentificeerd is.
 
-#### Artikel 27. Verstrekking basisgegevens aan bestuur
+##### Artikel 27. Verstrekking basisgegevens aan bestuur
 
 Aan het bestuur van een onderwijsinstelling worden desgevraagd met het persoonsgebonden nummer de in de bijlage aangeduide basisgegevens verstrekt van:
 
@@ -740,13 +766,13 @@ Aan het bestuur van een onderwijsinstelling worden desgevraagd met het persoonsg
 
 - b. een onderwijsdeelnemer die is ingeschreven aan die onderwijsinstelling, voor zover de gegevens betrekking hebben op de periode waarin die onderwijsdeelnemer aan een andere onderwijsinstelling was ingeschreven.
 
-#### Artikel 28. Verstrekking basisgegevens aan bestuur in verband met aanmeldings-, toelatings-, inschrijvings- en uitschrijvingsprocedures
+##### Artikel 28. Verstrekking basisgegevens aan bestuur in verband met aanmeldings-, toelatings-, inschrijvings- en uitschrijvingsprocedures
 
 1. Aan het bestuur van een onderwijsinstelling als bedoeld in de [WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), [WPO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280), [WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) of [WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212) kunnen voor de aanmelding, toelating, inschrijving en uitschrijving van onderwijsdeelnemers het persoonsgebonden nummer en de in de bijlage aangeduide basisgegevens worden verstrekt.
 
 2. Aan het bestuur van een onderwijsinstelling als bedoeld in de [WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625), de [WEB BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395) of de [WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) kunnen, voor de aanmelding, toelating en inschrijving van onderwijsdeelnemers, het persoonsgebonden nummer en de in de bijlage aangeduide basisgegevens worden verstrekt.
 
-#### Artikel 29. Verstrekking basisgegevens aan het bestuur ten behoeve van de evaluatie van schooladviezen
+##### Artikel 29. Verstrekking basisgegevens aan het bestuur ten behoeve van de evaluatie van schooladviezen
 
 1. Aan het bestuur van de onderwijsinstelling, bedoeld in de [WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), de [WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) of de [WPO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280), waar de betrokkene als onderwijsdeelnemer was ingeschreven, kunnen ten behoeve van de evaluatie van door die onderwijsinstelling afgegeven schooladviezen het persoonsgebonden nummer en de in de bijlage aangeduide basisgegevens verstrekt worden.
 
@@ -754,7 +780,7 @@ Aan het bestuur van een onderwijsinstelling worden desgevraagd met het persoonsg
 
 3. Het bestuur bewaart de basisgegevens, bedoeld in het eerste lid, tot vijf jaar na uitschrijving van de onderwijsdeelnemer.
 
-#### Artikel 30. Verstrekking basisgegevens aan samenwerkingsverbanden
+##### Artikel 30. Verstrekking basisgegevens aan samenwerkingsverbanden
 
 1. Aan een samenwerkingsverband worden ten behoeve van de uitvoering van de taak, bedoeld in [artikel 18a, zesde lid, onderdeel b, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=18a), of [artikel 2.47, zevende lid, onderdeel b, van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.47), de leeftijd op de peildatum, het soort onderwijs waaraan de onderwijsdeelnemer stond ingeschreven direct voorafgaand aan de aanmelding of inschrijving bij een onderwijsinstelling die behoort tot dat samenwerkingsverband, en de in de bijlage aangeduide basisgegevens verstrekt van een onderwijsdeelnemer:
 
@@ -764,7 +790,7 @@ Aan het bestuur van een onderwijsinstelling worden desgevraagd met het persoonsg
 
 2. Bij de verstrekking wordt voor zover noodzakelijk het persoonsgebonden nummer van de onderwijsdeelnemer verstrekt. Indien verstrekking van het persoonsgebonden nummer niet noodzakelijk is, dan wordt dit vervangen door een ander nummer of een code op een zodanige wijze dat de onderwijsdeelnemer niet geïdentificeerd is, dan wel worden de gegevens in geaggregeerde vorm verstrekt.
 
-#### Artikel 31. Verstrekking basisgegevens aan college van burgemeester en wethouders ten behoeve van het toezicht op de naleving van de [LPW](https://wetten.overheid.nl/jci1.3:c:BWBR0002628) en bestrijding van voortijdig schoolverlaten
+##### Artikel 31. Verstrekking basisgegevens aan college van burgemeester en wethouders ten behoeve van het toezicht op de naleving van de [LPW](https://wetten.overheid.nl/jci1.3:c:BWBR0002628) en bestrijding van voortijdig schoolverlaten
 
 1. Aan het college van burgemeester en wethouders worden ten behoeve van de uitvoering van de taken, bedoeld in [artikel 16 LPW](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=16) en [artikel 9.2.5 WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=9.2.5) basisgegevens verstrekt van de onderwijsdeelnemer die:
 
@@ -780,15 +806,15 @@ Aan het bestuur van een onderwijsinstelling worden desgevraagd met het persoonsg
 
 4. Gegevens die op grond van dit artikel aan het college van burgemeester en wethouders worden verstrekt, kunnen door de Stichting Inlichtingenbureau worden verwerkt. In dat geval zijn de Stichting Inlichtingenbureau en het betrokken college van burgemeester en wethouders gezamenlijke verwerkingsverantwoordelijken als bedoeld in artikel 26 van de Algemene verordening gegevensbescherming voor de verwerking van persoonsgegevens, bedoeld in dit artikel.
 
-#### Artikel 32. Verstrekking basisgegevens aan college van burgemeester en wethouders t.b.v. de uitvoering van onder meer de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703)
+##### Artikel 32. Verstrekking basisgegevens aan college van burgemeester en wethouders t.b.v. de uitvoering van onder meer de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703)
 
 Aan het college van burgemeester en wethouders worden het persoonsgebonden nummer en de in de bijlage aangeduide basisgegevens van onderwijsdeelnemers verstrekt, voor zover dat noodzakelijk is voor de uitvoering van de taken, bedoeld in [artikel 64 van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=64), [artikel 45 van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=45) en [artikel 45 van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=45).
 
-#### Artikel 33. Verstrekking basisgegevens aan college van burgemeester en wethouders i.v.m. taak [Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705)
+##### Artikel 33. Verstrekking basisgegevens aan college van burgemeester en wethouders i.v.m. taak [Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705)
 
 Aan het college van burgemeester en wethouders worden ten behoeve van de uitvoering van de taak, bedoeld in [artikel 5 van de Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=5), het persoonsgebonden nummer en de in de bijlage aangeduide basisgegevens verstrekt van alle onderwijsdeelnemers jonger dan 18 jaar die onderwijs volgen binnen de betreffende gemeente.
 
-#### Artikel 34. Verstrekking basisgegevens aan het CBS
+##### Artikel 34. Verstrekking basisgegevens aan het CBS
 
 1. Aan het CBS worden het persoonsgebonden nummer en de in de bijlage aangeduide basisgegevens van alle onderwijsdeelnemers verstrekt.
 
@@ -798,27 +824,27 @@ Aan het college van burgemeester en wethouders worden ten behoeve van de uitvoer
 
 - b. de verstrekking van gegevens door het CBS aan het college van burgemeester en wethouders voor de begrotings- en beleidsvoorbereiding inzake de gemeentelijke taken op het gebied van onderwijs.
 
-#### Artikel 35. Verstrekking basisgegevens aan de Sociale verzekeringsbank (SVB)
+##### Artikel 35. Verstrekking basisgegevens aan de Sociale verzekeringsbank (SVB)
 
 1. Aan de Sociale verzekeringsbank worden, voor zover dat noodzakelijk is voor de uitvoering van de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368), de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) en [artikel 47a van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=47a) desgevraagd het persoonsgebonden nummer en de in de bijlage aangeduide basisgegevens van onderwijsdeelnemers verstrekt.
 
 2. Aan de Sociale verzekeringsbank worden voor zover dat noodzakelijk is voor de uitvoering van de taak, bedoeld in [artikel 34 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=34), en de verwerking van gegevens in de verzekerdenadministratie, bedoeld in [artikel 35 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=35), desgevraagd het persoonsgebonden nummer en de in de bijlage aangeduide basisgegevens verstrekt van onderwijsdeelnemers die tijdelijk onderwijs volgen of hebben gevolgd buiten Nederland, of die tijdelijk in Nederland verblijven om aan onderwijs deel te nemen.
 
-#### Artikel 36. Verstrekking basisgegevens aan het Uitvoeringsinstituut werknemersverzekeringen (UWV)
+##### Artikel 36. Verstrekking basisgegevens aan het Uitvoeringsinstituut werknemersverzekeringen (UWV)
 
 Aan het Uitvoeringsinstituut werknemersverzekeringen worden, voor zover dat noodzakelijk is voor de uitvoering van de taken, bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30), [30a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30a), [30b](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30b), [30d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30d), en [31 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=31), desgevraagd het persoonsgebonden nummer en de in de bijlage aangeduide basisgegevens van onderwijsdeelnemers verstrekt.
 
-#### Artikel 37. Verstrekking basisgegevens aan de Belastingsdienst
+##### Artikel 37. Verstrekking basisgegevens aan de Belastingsdienst
 
 Aan de rijksbelastingdienst worden, voor zover dat nodig is voor de uitvoering van de wetgeving op het gebied van rijksbelastingen zoals bedoeld in [artikel 1, tweede lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=1) desgevraagd het persoonsgebonden nummer en de in de bijlage aangeduide basisgegevens van onderwijsdeelnemers, alsmede de onderwijssector waarop deze gegevens betrekking hebben verstrekt.
 
-#### Artikel 38. Verstrekking basisgegevens aan de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven (SBB)
+##### Artikel 38. Verstrekking basisgegevens aan de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven (SBB)
 
 1. Aan de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven, bedoeld in [artikel 1.5.1 WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.5.1), worden voor de taken bedoeld in het eerste lid van dat artikel de in de bijlage aangeduide basisgegevens en de leeftijd van de onderwijsdeelnemer bij aanvang van de beroepspraktijkvorming verstrekt van onderwijsdeelnemers die zijn ingeschreven aan een beroepsopleiding als bedoeld in de [WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625).
 
 2. Bij de verstrekking wordt het persoonsgebonden nummer vervangen door een ander nummer of een code op een zodanige wijze dat de onderwijsdeelnemer niet geïdentificeerd is.
 
-#### Artikel 39. Verstrekking basisgegevens aan Onze Minister van SZW
+##### Artikel 39. Verstrekking basisgegevens aan Onze Minister van SZW
 
 1. Aan Onze Minister van Sociale Zaken en Werkgelegenheid worden voor de uitvoering van subsidieregelingen van het Europees Sociaal Fonds desgevraagd het persoonsgebonden nummer verstrekt en gegevens over:
 
@@ -828,17 +854,17 @@ Aan de rijksbelastingdienst worden, voor zover dat nodig is voor de uitvoering v
 
 2. Aan Onze Minister van Sociale Zaken en Werkgelegenheid worden voor de uitvoering van subsidieregelingen op grond van de [Kaderwet SZW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008754) in het kader van scholing en ondersteuning ten behoeve van de versterking van de arbeidsmarktpositie van personen, desgevraagd het persoonsgebonden nummer en de in de bijlage aangeduide basisgegevens verstrekt van onderwijsdeelnemers.
 
-#### Artikel 40. Verstrekking basisgegevens aan Onze Minister voor Medische Zorg
+##### Artikel 40. Verstrekking basisgegevens aan Onze Minister voor Medische Zorg
 
 Aan Onze Minister voor Medische Zorg wordt voor de vaststelling van de vereveningscriteria voor de vereveningsbijdrage en de statistische onderbouwing van de aan die criteria verbonden gewichten bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), het gegeven of de onderwijsdeelnemer op de peildatum was ingeschreven aan een onderwijsinstelling als bedoeld in de [WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) verstrekt. Daarbij wordt het persoonsgebonden nummer vervangen door een ander nummer of een code op een zodanige wijze dat de onderwijsdeelnemer niet geïdentificeerd is.
 
-#### Artikel 41. Verstrekking basisgegevens aan Zorginstituut
+##### Artikel 41. Verstrekking basisgegevens aan Zorginstituut
 
 Aan het Zorginstituut, bedoeld in [artikel 1, onderdeel p, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1), wordt voor de toekenning en vaststelling van de vereveningsbijdrage bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), het gegeven of de onderwijsdeelnemer op de peildatum was ingeschreven aan een onderwijsinstelling als bedoeld in de [WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) verstrekt. Daarbij wordt het persoonsgebonden nummer vervangen door een ander nummer of een code op een zodanige wijze dat de onderwijsdeelnemer niet geïdentificeerd is.
 
 #### Paragraaf 4.2. Verstrekking vrijstellingsgegevens
 
-#### Artikel 42. Verstrekking van vrijstellingsgegevens aan Onze Minister
+##### Artikel 42. Verstrekking van vrijstellingsgegevens aan Onze Minister
 
 1. Ten behoeve van de beleidsvoorbereiding over vrijstelling en vervangende leerplicht wordt aan Onze Minister een overzicht verstrekt van:
 
@@ -852,21 +878,21 @@ Aan het Zorginstituut, bedoeld in [artikel 1, onderdeel p, van de Zorgverzekerin
 
 2. Het overzicht heeft zowel betrekking op de landelijke aantallen jongeren als op de aantallen jongeren per woongemeente.
 
-#### Artikel 43. Verstrekking van vrijstellingsgegevens aan burgemeester en wethouders
+##### Artikel 43. Verstrekking van vrijstellingsgegevens aan burgemeester en wethouders
 
 Aan het college van burgemeester en wethouders worden voor zover dit noodzakelijk is voor het toezicht op de naleving op grond van de [LPW](https://wetten.overheid.nl/jci1.3:c:BWBR0002628) het persoonsgebonden nummer en de vrijstellingsgegevens, bedoeld in de [artikelen 9 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2026-01-01&g=2026-01-01), verstrekt van de onderwijsdeelnemers die woonachtig zijn in hun gemeente.
 
 #### Paragraaf 4.3. Verstrekking verzuimgegevens
 
-#### Artikel 44. Verstrekking van verzuimgegevens aan Onze Minister
+##### Artikel 44. Verstrekking van verzuimgegevens aan Onze Minister
 
 Uit het register onderwijsdeelnemers worden aan Onze Minister ten behoeve van de beleidsvoorbereiding over verzuim de verzuimgegevens, bedoeld in [artikel 14, onderdelen a tot en met i en l tot en met o](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2026-01-01&g=2026-01-01), verstrekt.
 
-#### Artikel 45. Verstrekking van verzuimgegevens aan hoofd en bestuur
+##### Artikel 45. Verstrekking van verzuimgegevens aan hoofd en bestuur
 
 Aan het hoofd en het bestuur op wie de leveringsverplichting, bedoeld in [artikel 12, derde lid, van de Wet register onderwijsdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&artikel=12) van toepassing is, worden ten behoeve van de uitvoering van wettelijke taken inzake verzuim als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&hoofdstuk=3&paragraaf=3.3&artikel=21&z=2026-01-01&g=2026-01-01) van dit besluit het persoonsgebonden nummer en de verzuimgegevens, bedoeld in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&hoofdstuk=2&paragraaf=2.3&artikel=13&z=2026-01-01&g=2026-01-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2026-01-01&g=2026-01-01), verstrekt van de betreffende onderwijsdeelnemers.
 
-#### Artikel 46. Verstrekking van verzuimgegevens aan college van burgemeester en wethouders
+##### Artikel 46. Verstrekking van verzuimgegevens aan college van burgemeester en wethouders
 
 1. Aan het college van burgemeester en wethouders van de gemeente waar een onderwijsdeelnemer als ingezetene in de basisregistratie personen is ingeschreven worden ten behoeve van de wettelijke taken inzake verzuim, bedoeld in [artikel 16 LPW](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=16), [artikel 9.2.5 WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=9.2.5) en [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&hoofdstuk=3&paragraaf=3.3&artikel=21&z=2026-01-01&g=2026-01-01) van dit besluit het persoonsgebonden nummer en de verzuimgegevens, bedoeld in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&hoofdstuk=2&paragraaf=2.3&artikel=13&z=2026-01-01&g=2026-01-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2026-01-01&g=2026-01-01) van die onderwijsdeelnemer verstrekt.
 
@@ -876,11 +902,11 @@ Aan het hoofd en het bestuur op wie de leveringsverplichting, bedoeld in [artike
 
 #### Paragraaf 4.4. Verstrekking diplomagegevens
 
-#### Artikel 47. Verstrekking van diplomagegevens aan Onze Minister voor de begrotings- en beleidsvoorbereiding door Onze Minister
+##### Artikel 47. Verstrekking van diplomagegevens aan Onze Minister voor de begrotings- en beleidsvoorbereiding door Onze Minister
 
 Aan Onze Minister worden voor de begrotings- en beleidsvoorbereiding door Onze Minister de diplomagegevens bedoeld in de [artikelen 15, onderdelen c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&hoofdstuk=2&paragraaf=2.4&artikel=15&z=2026-01-01&g=2026-01-01), en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&hoofdstuk=2&paragraaf=2.4&artikel=17&z=2026-01-01&g=2026-01-01) van alle onderwijsdeelnemers verstrekt. Daarbij wordt het persoonsgebonden nummer vervangen door een ander nummer of een code op een zodanige wijze dat de onderwijsdeelnemer niet geïdentificeerd is.
 
-#### Artikel 48. Verstrekking diplomagegevens aan Onze Minister ten behoeve van de uitvoering van overige wettelijke taken
+##### Artikel 48. Verstrekking diplomagegevens aan Onze Minister ten behoeve van de uitvoering van overige wettelijke taken
 
 1. Aan Onze Minister worden voor zijn taken met betrekking tot de verstrekking van studiefinanciering, vouchers en langstudeerderskrediet bij of krachtens de [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453) het persoonsgebonden nummer en de diplomagegevens, bedoeld in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&hoofdstuk=2&paragraaf=2.4&artikel=15&z=2026-01-01&g=2026-01-01) en [17, eerste lid en tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&hoofdstuk=2&paragraaf=2.4&artikel=17&z=2026-01-01&g=2026-01-01), van onderwijsdeelnemers verstrekt.
 
@@ -888,23 +914,23 @@ Aan Onze Minister worden voor de begrotings- en beleidsvoorbereiding door Onze M
 
 3. Aan Onze Minister worden ten behoeve van de uitvoering van zijn taak met betrekking tot het legaliseren van waardedocumenten de diplomagegevens, bedoeld in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&hoofdstuk=2&paragraaf=2.4&artikel=15&z=2026-01-01&g=2026-01-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&hoofdstuk=2&paragraaf=2.4&artikel=17&z=2026-01-01&g=2026-01-01), van onderwijsdeelnemers verstrekt.
 
-#### Artikel 49. Verstrekking van diplomagegevens aan Onze Minister van JenV
+##### Artikel 49. Verstrekking van diplomagegevens aan Onze Minister van JenV
 
 Aan Onze Minister van Justitie en Veiligheid worden ten behoeve van de beoordeling of sprake is van een vrijstelling van de inburgeringsplicht, bedoeld in de [Wet inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044770) het persoonsgebonden nummer en de diplomagegevens, bedoeld in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&hoofdstuk=2&paragraaf=2.4&artikel=15&z=2026-01-01&g=2026-01-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&hoofdstuk=2&paragraaf=2.4&artikel=17&z=2026-01-01&g=2026-01-01) verstrekt van onderwijsdeelnemers.
 
-#### Artikel 50. Verstrekking van diplomagegevens aan Onze Minister van VWS
+##### Artikel 50. Verstrekking van diplomagegevens aan Onze Minister van VWS
 
 Aan Onze Minister van Volksgezondheid, Welzijn en Sport als beheerder van een register als bedoeld in [artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) worden ten behoeve van de beoordeling van aanvragen om inschrijving in dat register het persoonsgebonden nummer en de diplomagegevens, bedoeld in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&hoofdstuk=2&paragraaf=2.4&artikel=15&z=2026-01-01&g=2026-01-01) en [17, eerste lid en tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&hoofdstuk=2&paragraaf=2.4&artikel=17&z=2026-01-01&g=2026-01-01), van onderwijsdeelnemers verstrekt.
 
-#### Artikel 51. Verstrekking diplomagegevens aan Onze Minister voor Medische Zorg
+##### Artikel 51. Verstrekking diplomagegevens aan Onze Minister voor Medische Zorg
 
 Aan Onze Minister voor Medische Zorg wordt voor de vaststelling van de vereveningscriteria voor de vereveningsbijdrage en de statistische onderbouwing van de aan die criteria verbonden gewichten bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), het gegeven verstrekt of de onderwijsdeelnemer tussen 1 januari 1996 en de peildatum een waardedocument als bedoeld in [artikel 16, onderdelen a tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&hoofdstuk=2&paragraaf=2.4&artikel=16&z=2026-01-01&g=2026-01-01), heeft behaald. Daarbij wordt het persoonsgebonden nummer vervangen door een ander nummer of een code op een zodanige wijze dat de onderwijsdeelnemer niet geïdentificeerd is.
 
-#### Artikel 52. Verstrekking diplomagegevens aan Zorginstituut
+##### Artikel 52. Verstrekking diplomagegevens aan Zorginstituut
 
 Aan het Zorginstituut, bedoeld in [artikel 1, onderdeel p, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1), wordt voor de toekenning en vaststelling van de vereveningsbijdrage bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), het gegeven verstrekt of de onderwijsdeelnemer tussen 1 januari 1996 en de peildatum een waardedocument als bedoeld in [artikel 16, onderdelen a tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&hoofdstuk=2&paragraaf=2.4&artikel=16&z=2026-01-01&g=2026-01-01), heeft behaald. Daarbij wordt het persoonsgebonden nummer vervangen door een ander nummer of een code op een zodanige wijze dat de onderwijsdeelnemer niet geïdentificeerd is.
 
-#### Artikel 53. Verstrekking van diplomagegevens aan hoofd en bestuur
+##### Artikel 53. Verstrekking van diplomagegevens aan hoofd en bestuur
 
 1. Aan het hoofd en aan het bestuur van een onderwijsinstelling worden desgevraagd de diplomagegevens verstrekt van een onderwijsdeelnemer die aan die onderwijsinstelling is of was ingeschreven, voor zover die diplomagegevens betrekking hebben op aan die onderwijsinstelling gevolgd onderwijs.
 
@@ -918,13 +944,13 @@ Aan het Zorginstituut, bedoeld in [artikel 1, onderdeel p, van de Zorgverzekerin
 
 6. De verstrekking van de diplomagegevens, bedoeld in dit artikel gebeurt met het persoonsgebonden nummer van de onderwijsdeelnemer.
 
-#### Artikel 54. Verstrekking van diplomagegevens aan het College voor toetsen en examens
+##### Artikel 54. Verstrekking van diplomagegevens aan het College voor toetsen en examens
 
 1. Aan het College voor toetsen en examens worden het persoonsgebonden nummer en de diplomagegevens verstrekt van een onderwijsdeelnemer die een waardedocument heeft behaald bij dat college, voor zover die diplomagegevens betrekking hebben op waardedocumenten afgegeven door dat college.
 
 2. Aan het College voor toetsen en examens worden ten behoeve van de aanmelding van onderwijsdeelnemers voor een staatsexamen of ten behoeve van de examinering van die onderwijsdeelnemers desgevraagd het persoonsgebonden nummer en de diplomagegevens, bedoeld in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&hoofdstuk=2&paragraaf=2.4&artikel=15&z=2026-01-01&g=2026-01-01) en [17, eerste lid, en tweede lid, onderdelen c tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&hoofdstuk=2&paragraaf=2.4&artikel=17&z=2026-01-01&g=2026-01-01), van door die onderwijsdeelnemer behaalde waardedocumenten verstrekt.
 
-#### Artikel 55. Verstrekking van diplomagegevens aan CBS
+##### Artikel 55. Verstrekking van diplomagegevens aan CBS
 
 1. Aan het CBS worden het persoonsgebonden nummer en de diplomagegevens, bedoeld in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&hoofdstuk=2&paragraaf=2.4&artikel=15&z=2026-01-01&g=2026-01-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&hoofdstuk=2&paragraaf=2.4&artikel=17&z=2026-01-01&g=2026-01-01), van alle onderwijsdeelnemers verstrekt.
 
@@ -934,89 +960,89 @@ Aan het Zorginstituut, bedoeld in [artikel 1, onderdeel p, van de Zorgverzekerin
 
 - b. de verstrekking van gegevens door het CBS aan het college van burgemeester en wethouders voor de begrotings- en beleidsvoorbereiding inzake de gemeentelijke taken op het gebied van onderwijs.
 
-#### Artikel 56. Verstrekking van diplomagegevens aan Uitvoeringsinstituut werknemersverzekeringen (UWV)
+##### Artikel 56. Verstrekking van diplomagegevens aan Uitvoeringsinstituut werknemersverzekeringen (UWV)
 
 Aan het Uitvoeringsinstituut werknemersverzekeringen worden voor de uitvoering van de taken, bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30), [30a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30a), [30b](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30b), [30d](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30d) en [31 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=31) het persoonsgebonden nummer en de diplomagegevens, bedoeld in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&hoofdstuk=2&paragraaf=2.4&artikel=15&z=2026-01-01&g=2026-01-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&hoofdstuk=2&paragraaf=2.4&artikel=17&z=2026-01-01&g=2026-01-01), van onderwijsdeelnemers verstrekt.
 
 ### Hoofdstuk 5. Overige bepalingen
 
-#### Artikel 57. Wijziging [Bekostigingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005672)
+##### Artikel 57. Wijziging [Bekostigingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005672)
 
 Wijzigt het Bekostigingsbesluit WVO.
 
-#### Artikel 58. Wijziging [Bekostigingsbesluit WVO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029598)
+##### Artikel 58. Wijziging [Bekostigingsbesluit WVO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029598)
 
 Wijzigt het Bekostigingsbesluit WVO BES.
 
-#### Artikel 59. Wijziging [Besluit bekostiging WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0004259)
+##### Artikel 59. Wijziging [Besluit bekostiging WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0004259)
 
 Wijzigt het Besluit bekostiging WEC.
 
-#### Artikel 60. Wijziging [Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862)
+##### Artikel 60. Wijziging [Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862)
 
 Wijzigt het Besluit bekostiging WPO.
 
-#### Artikel 61. Wijziging [Besluit bekostiging WPO BES 2022](onbekend)
+##### Artikel 61. Wijziging [Besluit bekostiging WPO BES 2022](onbekend)
 
 Wijzigt het Besluit bekostiging WPO BES 2022.
 
-#### Artikel 62. Wijziging [Besluit experiment beroepsopleiding gecombineerde leerwegen bol-bbl](https://wetten.overheid.nl/jci1.3:c:BWBR0036631)
+##### Artikel 62. Wijziging [Besluit experiment beroepsopleiding gecombineerde leerwegen bol-bbl](https://wetten.overheid.nl/jci1.3:c:BWBR0036631)
 
 Wijzigt het Besluit experiment beroepsopleiding gecombineerde leerwegen bol-bbl.
 
-#### Artikel 63. Wijziging [Besluit gebruik persoonsgebonden nummers WPO/WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0027673)
+##### Artikel 63. Wijziging [Besluit gebruik persoonsgebonden nummers WPO/WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0027673)
 
 Het [Besluit gebruik persoonsgebonden nummers WPO/WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0027673) wordt ingetrokken.
 
-#### Artikel 64. Wijziging [Besluit gebruik persoonsgebonden nummers WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0015457)
+##### Artikel 64. Wijziging [Besluit gebruik persoonsgebonden nummers WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0015457)
 
 Het [Besluit gebruik persoonsgebonden nummers WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0015457) wordt ingetrokken.
 
-#### Artikel 65. Wijziging [Besluit trekkende bevolking WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003833)
+##### Artikel 65. Wijziging [Besluit trekkende bevolking WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003833)
 
 Wijzigt het Besluit trekkende bevolking WPO.
 
-#### Artikel 66. Wijziging [Besluit uitwisseling leer- en begeleidingsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0031619)
+##### Artikel 66. Wijziging [Besluit uitwisseling leer- en begeleidingsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0031619)
 
 Wijzigt het Besluit uitwisseling leer- en begeleidingsgegevens.
 
-#### Artikel 67. Wijziging [Besluit vbo-groen in een AOC 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0037302)
+##### Artikel 67. Wijziging [Besluit vbo-groen in een AOC 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0037302)
 
 Wijzigt het Besluit vbo-groen in een AOC 2016.
 
-#### Artikel 68. Wijziging [Besluit Verzuimmelding](https://wetten.overheid.nl/jci1.3:c:BWBR0027085)
+##### Artikel 68. Wijziging [Besluit Verzuimmelding](https://wetten.overheid.nl/jci1.3:c:BWBR0027085)
 
 Het [Besluit Verzuimmelding](https://wetten.overheid.nl/jci1.3:c:BWBR0027085) wordt ingetrokken.
 
-#### Artikel 69. Wijziging [Eindexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0004593)
+##### Artikel 69. Wijziging [Eindexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0004593)
 
 Wijzigt het Eindexamenbesluit VO.
 
-#### Artikel 70. Wijziging [Eindexamenbesluit VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029990)
+##### Artikel 70. Wijziging [Eindexamenbesluit VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029990)
 
 Wijzigt het Eindexamenbesluit VO BES.
 
-#### Artikel 71. Wijziging [Staatsexamenbesluit Nederlands als tweede taal](https://wetten.overheid.nl/jci1.3:c:BWBR0006192)
+##### Artikel 71. Wijziging [Staatsexamenbesluit Nederlands als tweede taal](https://wetten.overheid.nl/jci1.3:c:BWBR0006192)
 
 Wijzigt het Staatsexamenbesluit Nederlands als tweede taal.
 
-#### Artikel 72. Wijziging [Uitvoeringsbesluit WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0010646)
+##### Artikel 72. Wijziging [Uitvoeringsbesluit WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0010646)
 
 Wijzigt het Uitvoeringsbesluit WEB.
 
-#### Artikel 73. Wijziging [Uitvoeringsbesluit WHW 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0006152)
+##### Artikel 73. Wijziging [Uitvoeringsbesluit WHW 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0006152)
 
 Wijzigt het Uitvoeringsbesluit WHW 2008.
 
-#### Artikel 74. Wijziging Besluit register onderwijsdeelnemers
+##### Artikel 74. Wijziging Besluit register onderwijsdeelnemers
 
 Wijzigt dit besluit.
 
-#### Artikel 75. Inwerkingtreding
+##### Artikel 75. Inwerkingtreding
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan, voor de verschillende onderwijssectoren en voor het Europese deel van Nederland en de openbare lichamen Bonaire, Sint Eustatius en Saba verschillend kan worden vastgesteld.
 
-#### Artikel 76. Citeertitel
+##### Artikel 76. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit register onderwijsdeelnemers.
 
@@ -1170,7 +1196,7 @@ Hieronder is met kruisjes aangegeven welke basisgegevens uit de [artikelen 4 tot
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 26a. Verstrekking basisgegevens aan College voor toetsen en examens
+##### Artikel 26a. Verstrekking basisgegevens aan College voor toetsen en examens
 
 1. Aan het College voor toetsen en examens worden ten behoeve van de aanmelding van onderwijsdeelnemers voor een staatsexamen of ten behoeve van de examinering van die onderwijsdeelnemers het persoonsgebonden nummer en de in de bijlage aangeduide basisgegevens van die onderwijsdeelnemers verstrekt.
 
@@ -1334,7 +1360,7 @@ Hieronder is met kruisjes aangegeven welke basisgegevens uit de [artikelen 4 tot
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 39a. Verstrekking van basisgegevens aan Onze Minister van VWS
+##### Artikel 39a. Verstrekking van basisgegevens aan Onze Minister van VWS
 
 Aan Onze Minister van Volksgezondheid, Welzijn en Sport worden voor de uitvoering van subsidieregelingen op grond van de [Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455) desgevraagd de in de bijlage aangeduide basisgegevens van onderwijsdeelnemers verstrekt. Daarbij wordt het persoonsgebonden nummer vervangen door een ander nummer of een code op een zodanige wijze dat de onderwijsdeelnemer niet geïdentificeerd is.
 
@@ -1344,11 +1370,11 @@ Aan Onze Minister van Volksgezondheid, Welzijn en Sport worden voor de uitvoerin
 
 #### Paragraaf 4.3. Verstrekking verzuimgegevens
 
-#### Artikel 48a. Verstrekking van diplomagegevens aan Onze Minister van IenW
+##### Artikel 48a. Verstrekking van diplomagegevens aan Onze Minister van IenW
 
 Aan Onze Minister van Infrastructuur en Waterstaat worden voor zijn taken met betrekking tot de afgifte van vaarbevoegdheidsbewijzen als bedoeld in [artikel 23 van de Wet bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=23) het persoonsgebonden nummer en de diplomagegevens, bedoeld in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&hoofdstuk=2&paragraaf=2.4&artikel=15&z=2026-01-01&g=2026-01-01) en [17, eerste lid en tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&hoofdstuk=2&paragraaf=2.4&artikel=17&z=2026-01-01&g=2026-01-01), van onderwijsdeelnemers verstrekt.
 
-#### Artikel 48b. Verstrekking van diplomagegevens aan Onze Minister van LNV
+##### Artikel 48b. Verstrekking van diplomagegevens aan Onze Minister van LNV
 
 1. Aan Onze Minister van Landbouw, Natuur en Voedselkwaliteit worden voor de registratie van personen in het register, bedoeld in [artikel 4.3 van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=4.3), het persoonsgebonden nummer en de diplomagegevens, bedoeld in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&hoofdstuk=2&paragraaf=2.4&artikel=15&z=2026-01-01&g=2026-01-01) en [17, eerste lid en tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&hoofdstuk=2&paragraaf=2.4&artikel=17&z=2026-01-01&g=2026-01-01), van onderwijsdeelnemers verstrekt.
 
@@ -1521,7 +1547,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### Paragraaf 5.2. Overgangsrecht
 
-#### Artikel 74a. Overgangsbepaling vanwege de inwerkingtreding van de [Wet inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044770)
+##### Artikel 74a. Overgangsbepaling vanwege de inwerkingtreding van de [Wet inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044770)
 
 Op een onderwijsdeelnemer waar de Wet inburgering op van toepassing was op de dag voorafgaand aan de inwerkingtreding van de [Wet inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044770), blijven de [artikelen 16, onderdeel r](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&hoofdstuk=2&paragraaf=2.4&artikel=16&z=2026-01-01&g=2026-01-01), [22, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&hoofdstuk=3&paragraaf=3.4&artikel=22&z=2026-01-01&g=2026-01-01), [39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&hoofdstuk=4&paragraaf=4.1&artikel=39&z=2026-01-01&g=2026-01-01), en [49](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&hoofdstuk=4&paragraaf=4.4&artikel=49&z=2026-01-01&g=2026-01-01), en de bijlage, zoals deze luidden op de dag voorafgaand aan de inwerkingtreding van de Wet inburgering 2021, van toepassing.
 
@@ -1688,7 +1714,7 @@ Hieronder is met kruisjes aangegeven welke basisgegevens uit de [artikelen 4 tot
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 29a. Verstrekking basisgegevens aan instellingen voor hoger onderwijs en aangewezen organisaties
+##### Artikel 29a. Verstrekking basisgegevens aan instellingen voor hoger onderwijs en aangewezen organisaties
 
 1. Als organisaties als bedoeld in [artikel 23, eerste lid, van de Wet register onderwijsdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&artikel=23) worden aangewezen:
 
@@ -1708,11 +1734,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 3. Bij ministeriële regeling kan een aanvraagformulier worden vastgesteld waarvan gebruik moet worden gemaakt bij een verzoek tot het nemen van een besluit als bedoeld in [artikel 23, vijfde lid, van de Wet register onderwijsdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&artikel=23).
 
-#### Artikel 41a. Verstrekking basisgegevens aan pensioenuitvoerders
+##### Artikel 41a. Verstrekking basisgegevens aan pensioenuitvoerders
 
 Aan een pensioenuitvoerder als bedoeld in [artikel 1 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=1) of [artikel 1, eerste lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=1) worden, voor zover dat noodzakelijk is voor het uitkeren van een wezenpensioen, van een onderwijsdeelnemer desgevraagd het persoonsgebonden nummer, het gegeven of de onderwijsdeelnemer op de peildatum was ingeschreven aan een onderwijsinstelling en de opleidingsvorm, bedoeld in [artikel 6, vierde lid, onderdeel a, vijfde lid, onderdeel a, en zesde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&hoofdstuk=2&paragraaf=2.1&artikel=6&z=2026-01-01&g=2026-01-01), verstrekt.
 
-#### Artikel 41b. Verstrekking basisgegevens aan het Agentschap voor Onderwijsdiensten
+##### Artikel 41b. Verstrekking basisgegevens aan het Agentschap voor Onderwijsdiensten
 
 Aan het Agentschap voor Onderwijsdiensten worden, voor zover dat noodzakelijk is voor het uitoefenen van toezicht op de naleving van de Belgische leerplichtwetgeving, desgevraagd van de onderwijsdeelnemer de geslachtsnaam, de voornamen, het adres, de postcode, het gegeven of de onderwijsdeelnemer op de peildatum was ingeschreven aan een onderwijsinstelling en het registratienummer van die onderwijsinstelling verstrekt.
 
@@ -1890,7 +1916,7 @@ Hieronder is met kruisjes aangegeven welke basisgegevens uit de [artikelen 4 tot
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 38a. Verstrekking basisgegevens aan Onze Minister van JenV
+##### Artikel 38a. Verstrekking basisgegevens aan Onze Minister van JenV
 
 Aan Onze Minister van Justitie en Veiligheid worden, voor zover dat noodzakelijk is voor de uitvoering van zijn taken op grond van de [Wet inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044770), desgevraagd het persoonsgebonden nummer en de in de bijlage aangeduide basisgegevens verstrekt van onderwijsdeelnemers.
 
@@ -2070,7 +2096,7 @@ Hieronder is met kruisjes aangegeven welke basisgegevens uit de [artikelen 4 tot
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 53a. Verstrekking van diplomagegevens aan college van burgemeester en wethouders
+##### Artikel 53a. Verstrekking van diplomagegevens aan college van burgemeester en wethouders
 
 1. Aan het college van burgemeester en wethouders worden voor de uitvoering van de taak, bedoeld in [artikel 9.2.5 WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=9.2.5), van een onderwijsdeelnemer die woonachtig is in de desbetreffende gemeente of in een gemeente die behoort tot de regio waarvan de desbetreffende gemeente contactgemeente als bedoeld in [artikel 9.2.4 WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=9.2.4) is, desgevraagd verstrekt:
 

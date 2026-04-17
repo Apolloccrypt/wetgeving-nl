@@ -1,14 +1,41 @@
 ---
-title: "Uitvoeringswet internationale inning levensonderhoud"
+title: "Wet van 29 september 2011 tot uitvoering van het op 23 november 2007 te ’s-Gravenhage tot stand gekomen Verdrag inzake de internationale inning van levensonderhoud voor kinderen en andere familieleden (PbEU 2011, L 192/51) en van de verordening (EG) nr. 4/2009 van de Raad van 18 december 2008 betreffende de bevoegdheid, het toepasselijke recht, de erkenning en de tenuitvoerlegging van beslissingen, en de samenwerking op het gebied van onderhoudsverplichtingen (PbEU L 7/1) (Uitvoeringswet internationale inning levensonderhoud)"
 identifier: "BWBR0030555"
-categorie: "Overig"
-publicatiedatum: 2022-08-01
-laatste_update: 2022-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030555"
+country: "nl"
+rank: "wet"
+publication_date: "2022-08-01"
+last_updated: "2022-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030555"
+soort: "wet"
+stam_id: "11471173"
+version_id: "18859042"
+internal_id: "C26322591"
+label_id: "11444634"
+dtd_version: "2.0"
+original_entry_into_force: "2011-10-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030555/2022-08-01/0"
+intitule_bron: "Stb.2011-460"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-09-29"
+intitule_published: "2011-10-25"
+intitule_in_force: "2011-10-25"
+intitule_status: "goed"
+original_publication: "Stb.2011-460"
+original_signed_date: "2011-09-29"
+original_published_date: "2011-10-25"
+original_effect: "nieuwe-regeling"
+original_dossier: "32617"
+original_url_id: "stb-2011-460"
+entry_into_force_date: "2011-10-26"
+jci_1_3: "jci1.3:c:BWBR0030555&z=2022-08-01&g=2022-08-01"
+jci_1_0: "1.0:c:BWBR0030555&g=2022-08-01"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringswet internationale inning levensonderhoud"
+signed_date: "2011-09-29"
+entry_into_force: "2011-10-26"
 ---
-
-# Uitvoeringswet internationale inning levensonderhoud
+# Wet van 29 september 2011 tot uitvoering van het op 23 november 2007 te ’s-Gravenhage tot stand gekomen Verdrag inzake de internationale inning van levensonderhoud voor kinderen en andere familieleden (PbEU 2011, L 192/51) en van de verordening (EG) nr. 4/2009 van de Raad van 18 december 2008 betreffende de bevoegdheid, het toepasselijke recht, de erkenning en de tenuitvoerlegging van beslissingen, en de samenwerking op het gebied van onderhoudsverplichtingen (PbEU L 7/1) (Uitvoeringswet internationale inning levensonderhoud)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet wordt verstaan onder:
 
@@ -26,25 +53,25 @@ In deze wet wordt verstaan onder:
 
 - b. **de verordening:** de [verordening (EG) nr. 4/2009](32009R0004) van de Raad van 18 december 2008 betreffende de bevoegdheid, het toepasselijke recht, de erkenning en de tenuitvoerlegging van beslissingen, en de samenwerking op het gebied van onderhoudsverplichtingen (PbEU L 7/1).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Als centrale autoriteit als bedoeld in artikel 4 van het verdrag en artikel 49 van de verordening wordt aangewezen het Landelijk Bureau Inning Onderhoudsbijdragen.
 
 2. De centrale autoriteit is belast met de in hoofdstuk II en III van het verdrag onderscheidenlijk de in hoofdstuk VII van de verordening omschreven taken.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De centrale autoriteit treedt op verzoek van de centrale autoriteit van een verzoekende staat in en buiten rechte op ten behoeve van degene die zich met een verzoek als bedoeld in artikel 10 van het verdrag of artikel 56 van de verordening tot de centrale autoriteit van de verzoekende staat heeft gewend. De centrale autoriteit treedt eveneens in en buiten rechte op ten behoeve van de centrale autoriteit die zich met een verzoek als bedoeld in artikel 7 van het verdrag of artikel 53 van de verordening tot haar heeft gewend.
 
 2. De centrale autoriteit behoeft, indien zij in rechte optreedt, in zaken waarbij in eerste aanleg en in hoger beroep een verzoek wordt ingediend, niet de bijstand van een advocaat.
 
-#### Artikel 4
+##### Artikel 4
 
 Voor het optreden van de centrale autoriteit als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030555&paragraaf=1&artikel=3&z=2022-08-01&g=2022-08-01), wordt in verzoekprocedures, geen griffierecht geheven.
 
 #### § 2. Erkenning en tenuitvoerlegging op grond van het verdrag
 
-#### Artikel 5
+##### Artikel 5
 
 1. Verzoeken die betrekking hebben op de erkenning en de tenuitvoerlegging van beslissingen inzake levensonderhoud op grond van het verdrag worden ingediend bij de voorzieningenrechter van de rechtbank. Ten aanzien van het verlof tot tenuitvoerlegging zijn de [artikelen 985 tot en met 990 van het Wetboek van Burgerlijke rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=985) niet van toepassing.
 
@@ -66,7 +93,7 @@ Voor het optreden van de centrale autoriteit als bedoeld in [artikel 3, eerste l
 
 10. Voor de toepassing van de [Wet griffierechten burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0028899) wordt een verzoek als bedoeld in het eerste lid geacht geen eis tot betaling van een bepaalde geldsom te zijn.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De rechtbank waarvan de voorzieningenrechter op een verzoek als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030555&paragraaf=2&artikel=5&z=2022-08-01&g=2022-08-01), heeft beschikt, neemt kennis van het rechtsmiddel bedoeld in artikel 23, vijfde lid, van het verdrag tegen die beschikking.
 
@@ -76,13 +103,13 @@ Voor het optreden van de centrale autoriteit als bedoeld in [artikel 3, eerste l
 
 #### § 3. Erkenning en tenuitvoerlegging op grond van de verordening
 
-#### Artikel 7
+##### Artikel 7
 
 1. Een verzoek tot heroverweging op grond van artikel 19 van de verordening kan worden gedaan op de in dat artikel genoemde gronden en binnen de in dit artikel genoemde termijnen aan het gerecht dat de beslissing heeft gegeven.
 
 2. Voor de indiening van een verzoek tot heroverweging is de bijstand van een advocaat niet vereist.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Op de verzoeken die betrekking hebben op de erkenning en de tenuitvoerlegging van beslissingen inzake levensonderhoud op grond van afdeling 2 van hoofdstuk IV van de verordening is [artikel 5, eerste, derde, vierde, vijfde lid, eerste volzin, zevende tot en met tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030555&paragraaf=2&artikel=5&z=2022-08-01&g=2022-08-01), van overeenkomstige toepassing.
 
@@ -90,7 +117,7 @@ Voor het optreden van de centrale autoriteit als bedoeld in [artikel 3, eerste l
 
 3. Onverminderd het bepaalde in artikel 29 van de verordening wordt bij ongenoegzaamheid van de bij het verzoekschrift overgelegde documenten gelegenheid tot aanvulling gegeven.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De rechtbank waarvan de voorzieningenrechter op een verzoek als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030555&paragraaf=3&artikel=8&z=2022-08-01&g=2022-08-01), heeft beschikt, neemt kennis van het rechtsmiddel, bedoeld in artikel 32 van de verordening.
 
@@ -102,27 +129,27 @@ Voor het optreden van de centrale autoriteit als bedoeld in [artikel 3, eerste l
 
 #### § 4. Wijzigingen in andere wetten
 
-#### Artikel 10
+##### Artikel 10
 
 Wijzigt de Wet Landelijk Bureau Inning Onderhoudsbijdragen.
 
-#### Artikel 11
+##### Artikel 11
 
 Wijzigt de Vaststellings- en Invoeringswet Boek 10 Burgerlijk Wetboek.
 
 #### § 5. Slotbepalingen
 
-#### Artikel 12
+##### Artikel 12
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 13
+##### Artikel 13
 
 Deze wet wordt aangehaald als: Uitvoeringswet internationale inning levensonderhoud.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 9a
+##### Artikel 9a
 
 1. Voor de toepassing van het [Tweede Boek van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede) op een beslissing uit een andere lidstaat worden het afschrift van de beslissing en het formulier, bedoeld in artikel 20, eerste lid, onder a en b, van de verordening tezamen als een executoriale titel in de zin van [artikel 430 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=430) aangemerkt.
 

@@ -1,13 +1,38 @@
 ---
 title: "Protocol bij de Euro-Mediterrane Overeenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Staat Israël, anderzijds, in verband met de toetreding van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Hongarije, de Republiek Letland, de Republiek Litouwen, de Republiek Malta, de Republiek Polen, de Republiek Slovenië,en de Slowaakse Republiek tot de Europese Unie"
 identifier: "BWBV0001952"
-categorie: "Internationaal recht"
-publicatiedatum: 2006-05-01
-laatste_update: 2004-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001952"
+country: "nl"
+rank: "verdrag"
+publication_date: "2006-05-01"
+last_updated: "2004-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001952"
+soort: "verdrag"
+stam_id: "10002581613"
+version_id: "10002572302"
+internal_id: "C10006997171"
+label_id: "10002570964"
+dtd_version: "2.0"
+original_entry_into_force: "2006-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001952/2006-05-01/0"
+intitule_bron: "Trb.2006-209"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-05-01"
+intitule_published: "2006-10-03"
+intitule_in_force: "2006-11-06"
+intitule_status: "goed"
+original_publication: "Trb.2006-209"
+original_signed_date: "2004-05-01"
+original_published_date: "2006-10-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2006-209"
+entry_into_force_date: "2006-05-01"
+jci_1_3: "jci1.3:c:BWBV0001952&z=2006-05-01&g=2006-05-01"
+jci_1_0: "1.0:c:BWBV0001952&g=2006-05-01"
+citeertitel_status: "redactioneel"
+signed_date: "2004-05-01"
+entry_into_force: "2006-05-01"
 ---
-
 # Protocol bij de Euro-Mediterrane Overeenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Staat Israël, anderzijds, in verband met de toetreding van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Hongarije, de Republiek Letland, de Republiek Litouwen, de Republiek Malta, de Republiek Polen, de Republiek Slovenië,en de Slowaakse Republiek tot de Europese Unie
 
 het Koninkrijk België,
@@ -86,35 +111,35 @@ Overwegende dat, overeenkomstig artikel 21 van de Euro-mediterrane overeenkomst,
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 De Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek (hierna „de nieuwe lidstaten’’ te noemen) worden partij bij de Euro-mediterrane overeenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Staat Israël, anderzijds, en dienen, op dezelfde wijze als de andere lidstaten van de Gemeenschap, de teksten van de overeenkomst, alsmede de gemeenschappelijke verklaringen, de verklaringen en de briefwisselingen goed te keuren respectievelijk er nota van te nemen.
 
-#### Artikel 2
+##### Artikel 2
 
 In verband met recente institutionele ontwikkelingen binnen de Europese Unie komen de partijen overeen dat na het verstrijken van het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal de bestaande bepalingen in de Euro-mediterrane overeenkomst die verwijzen naar de Europese Gemeenschap voor Kolen en Staal geacht worden te verwijzen naar de Europese Gemeenschap, die alle rechten en verplichtingen van de Europese Gemeenschap voor Kolen en Staal heeft overgenomen.
 
 ### HOOFDSTUK I. WIJZIGINGEN IN DE TEKST VAN DE EURO-MEDITERRANE OVEREENKOMST, MET INBEGRIP VAN BIJLAGEN EN DE PROTOCOLLEN
 
-#### Artikel 3. Landbouwproducten
+##### Artikel 3. Landbouwproducten
 
 Wijzigt de Euro-Mediterrane Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de Staat Israël, anderzijds, Brussel, 23-02-2006
 
-#### Artikel 4. Verwerkte landbouwproducten
+##### Artikel 4. Verwerkte landbouwproducten
 
 Wijzigt de Euro-Mediterrane Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de Staat Israël, anderzijds, Brussel, 23-02-2006
 
-#### Artikel 5. Oorsprongsregels
+##### Artikel 5. Oorsprongsregels
 
 Wijzigt de Euro-Mediterrane Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de Staat Israël, anderzijds, Brussel, 23-02-2006
 
-#### Artikel 6. Voorzitterschap van het Associatiecomité
+##### Artikel 6. Voorzitterschap van het Associatiecomité
 
 Wijzigt de Euro-Mediterrane Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de Staat Israël, anderzijds, Brussel, 23-02-2006
 
 ### HOOFDSTUK II. OVERGANGSBEPALINGEN
 
-#### Artikel 7. Bewijs van oorsprong en administratieve samenwerking
+##### Artikel 7. Bewijs van oorsprong en administratieve samenwerking
 
 1. Bewijzen van oorsprong die op de juiste wijze door Israël of een nieuwe lidstaat zijn afgegeven in het kader van preferentiële overeenkomsten of autonome regelingen die deze landen onderling toepassen, worden overeenkomstig dit protocol in de betrokken landen aanvaard, mits:
 
@@ -136,7 +161,7 @@ Deze vergunningen worden uiterlijk een jaar na de toetredingsdatum vervangen doo
 
 3. Verzoeken om controle achteraf van bewijzen van oorsprong die zijn afgegeven op grond van de preferentiële overeenkomsten en autonome regelingen als bedoeld in de leden 1 en 2, moeten gedurende een periode van drie jaar na de afgifte van het betrokken bewijs van oorsprong worden aanvaard door de bevoegde douaneautoriteiten van Israël en de lidstaten, en kunnen gedurende een periode van drie jaar vanaf de aanvaarding van het bewijs van oorsprong nog worden gedaan door die autoriteiten ter rechtvaardiging van een invoeraangifte.
 
-#### Artikel 8. Goederen in doorvoer
+##### Artikel 8. Goederen in doorvoer
 
 - 1. De bepalingen van de Euro-mediterrane overeenkomst kunnen worden toegepast op goederen die van Israël naar een van de nieuwe lidstaten of van een van de nieuwe lidstaten naar Israël worden uitgevoerd, die voldoen aan de bepalingen van protocol nr. 4 en die op de datum van toetreding onderweg zijn of in tijdelijke opslag zijn in een douane-entrepot of een vrije zone in Israël of in die nieuwe lidstaat.
 
@@ -144,35 +169,35 @@ Deze vergunningen worden uiterlijk een jaar na de toetredingsdatum vervangen doo
 
 ## ALGMEMENE BEPALINGEN EN SLOTBEPALINGEN
 
-#### Artikel 9
+##### Artikel 9
 
 Bij dit protocol wordt overeengekomen dat er naar aanleiding van deze uitbreiding van de Gemeenschap geen claims, verzoeken of beroepen mogen worden ingediend of concessies mogen worden gewijzigd of ingetrokken op grond van de artikelen XXIV.6 en XXVIII van de GATT 1994.
 
-#### Artikel 10
+##### Artikel 10
 
 Voor het jaar 2004 moeten de hoeveelheden van de nieuwe tariefcontingenten en de toename van de hoeveelheden van de bestaande tariefcontingenten worden berekend naar rata van de basishoeveelheden, rekening houdend met de voor de inwerkingtreding van dit protocol verstreken periode.
 
-#### Artikel 11
+##### Artikel 11
 
 Dit protocol vormt een integrerend onderdeel van de Euro-mediterrane overeenkomst. De bijlagen en verklaringen bij dit protocol vormen een integrerend onderdeel daarvan.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Dit protocol wordt door de Gemeenschap, door de Raad van de Europese Unie namens de lidstaten en door de Staat Israël volgens hun eigen procedures goedgekeurd.
 
 2. De partijen stellen elkaar in kennis van de voltooiing van de procedures bedoeld in voorgaand lid. De akten van goedkeuring worden nedergelegd bij het Secretariaat-generaal van de Raad van de Europese Unie.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Dit protocol treedt in werking op de eerste dag van de eerste maand na de datum van de nederlegging van de laatste akte van goedkeuring.
 
 2. Dit protocol is voorlopig van toepassing met ingang van 1 mei 2004.
 
-#### Artikel 14
+##### Artikel 14
 
 Dit protocol is opgesteld in twee exemplaren in de Deense, de Duitse, de Engelse, de Estse, de Finse, de Franse, de Griekse, de Hongaarse, de Italiaanse, de Letse, de Litouwse, de Maltese, de Nederlandse, de Poolse, de Portugese, de Sloveense, de Slowaakse, de Spaanse, de Tsjechische, de Zweedse en de Hebreeuwse taal, zijnde alle teksten gelijkelijk authentiek.
 
-#### Artikel 15
+##### Artikel 15
 
 De tekst van de Euro-mediterrane overeenkomst, de bijlagen en de protocollen die daarvan een integrerend deel vormen, de slotakte en de daaraan gehechte verklaringen worden opgemaakt in de Estse, de Hongaarse, de Letse, de Litouwse, de Maltese, de Poolse, de Sloveense, de Slowaakse en de Tsjechische taal, en die teksten zijn evenzeer authentiek als de oorspronkelijke teksten. De Associatieraad moet deze teksten goedkeuren.
 

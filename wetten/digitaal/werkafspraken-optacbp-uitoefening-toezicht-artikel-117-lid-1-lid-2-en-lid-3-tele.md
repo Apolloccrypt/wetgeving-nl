@@ -1,13 +1,38 @@
 ---
 title: "Werkafspraken OPTA/CBP uitoefening toezicht artikel 11.7 lid 1, lid 2 en lid 3 Telecommunicatiewet"
 identifier: "BWBR0033074"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2004-11-01
-laatste_update: 2004-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033074"
+country: "nl"
+rank: "zbo"
+publication_date: "2004-11-01"
+last_updated: "2004-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033074"
+soort: "zbo"
+stam_id: "12150533"
+version_id: "20278882"
+internal_id: "C28523291"
+label_id: "12122284"
+dtd_version: "2.0"
+original_entry_into_force: "2004-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033074/2004-11-01/0"
+intitule_bron: "Stcrt.2004-205"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-10-19"
+intitule_published: "2004-10-25"
+intitule_in_force: "2004-10-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2004-205"
+original_signed_date: "2004-10-19"
+original_published_date: "2004-10-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2004-205-p27-SC67167"
+entry_into_force_date: "2004-11-01"
+jci_1_3: "jci1.3:c:BWBR0033074&z=2004-11-01&g=2004-11-01"
+jci_1_0: "1.0:c:BWBR0033074&g=2004-11-01"
+citeertitel_status: "redactioneel"
+signed_date: "2004-10-19"
+entry_into_force: "2004-11-01"
 ---
-
 # Werkafspraken OPTA/CBP uitoefening toezicht artikel 11.7 lid 1, lid 2 en lid 3 Telecommunicatiewet
 
 **Werkafspraken tussen het college van de Onafhankelijke Post en Telecommunicatie Autoriteit (OPTA) en het College bescherming persoonsgegevens (CBP) over de wijze van samenwerking bij het uitoefenen van gezamenlijk toezicht op artikel 11.7 lid 1, lid 2 en lid 3 Telecommunicatiewet (Tw)**

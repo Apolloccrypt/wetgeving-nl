@@ -1,13 +1,35 @@
 ---
 title: "Tweede Overeenkomst inzake het Nam Ngoem Ontwikkelingsfonds, 1974. Overeenkomst van 26 juni 1974 tussen de Regering van Australië, Canada, de Bondsrepubliek Duitsland, India, Japan, Laos, het Koninkrijk der Nederlanden, Nieuw-Zeeland, Thailand, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en de Verenigde Staten van Amerika, enerzijds, en de Aziatische Ontwikkelingsbank anderzijds"
 identifier: "BWBV0004006"
-categorie: "Internationaal recht"
-publicatiedatum: 1975-03-13
-laatste_update: 1975-03-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004006"
+country: "nl"
+rank: "verdrag"
+publication_date: "1975-03-13"
+last_updated: "1975-03-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004006"
+soort: "verdrag"
+stam_id: "10003808213"
+version_id: "10003874682"
+internal_id: "C10008336411"
+label_id: "10003793204"
+dtd_version: "2.0"
+original_entry_into_force: "1975-03-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004006/1975-03-13/0"
+intitule_bron: "Trb.1974-236"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1974-12-18"
+intitule_in_force: "1975-04-10"
+intitule_status: "goed"
+original_publication: "Trb.1974-236"
+original_published_date: "1974-12-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1974-236"
+entry_into_force_date: "1975-03-13"
+jci_1_3: "jci1.3:c:BWBV0004006&z=1975-03-13&g=1975-03-13"
+jci_1_0: "1.0:c:BWBV0004006&g=1975-03-13"
+citeertitel_status: "redactioneel"
+entry_into_force: "1975-03-13"
 ---
-
 # Tweede Overeenkomst inzake het Nam Ngoem Ontwikkelingsfonds, 1974. Overeenkomst van 26 juni 1974 tussen de Regering van Australië, Canada, de Bondsrepubliek Duitsland, India, Japan, Laos, het Koninkrijk der Nederlanden, Nieuw-Zeeland, Thailand, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en de Verenigde Staten van Amerika, enerzijds, en de Aziatische Ontwikkelingsbank anderzijds
 
 Aangezien
@@ -30,7 +52,7 @@ het project zal worden uitgevoerd door de EDL, een wettelijk ingeschreven bedrij
 
 Zijn de Partijen overeengekomen als volgt:
 
-#### Artikel I. Titel; Begripsomschrijvingen
+##### Artikel I. Titel; Begripsomschrijvingen
 
 - 1.01. Deze Overeenkomst kan worden aangehaald als de „Tweede Overeenkomst inzake het Nam Ngoem Ontwikkelingsfonds, 1974”.
 
@@ -84,7 +106,7 @@ Zijn de Partijen overeengekomen als volgt:
 
 - 1.03. Tenzij anders aangegeven, zijn alle verwijzingen in deze Overeenkomst naar artikelen, paragrafen of de Bijlage verwijzingen naar respectievelijk artikelen, paragrafen of de Bijlage van deze Overeenkomst.
 
-#### Artikel II. Oprichting van het Tweede Nam Ngoem Ontwikkelingsfonds
+##### Artikel II. Oprichting van het Tweede Nam Ngoem Ontwikkelingsfonds
 
 - 2.01. Hierbij wordt opgericht het Tweede Nam Ngoem Ontwikkelingsfonds, gevormd uit de bijdragen in de vorm van schenkingen of leningen die van tijd tot tijd aan het Fonds worden verstrekt overeenkomstig de bepalingen van deze Overeenkomst, alsmede alle eventueel hieraan toegevoegde bedragen en eventuele andere activa en ontvangsten van het Fonds, die worden gehouden en beheerd door de Bank en uitsluitend worden gebruikt voor de doeleinden en overeenkomstig de bepalingen van deze Overeenkomst en de Project Overeenkomst.
 
@@ -92,7 +114,7 @@ Zijn de Partijen overeengekomen als volgt:
 
 - 2.03. Het Fonds en zijn activa en zijn rekeningen dienen gescheiden van en buiten alle andere activa en rekeningen van de Bank te worden gehouden en afzonderlijk te worden aangeduid op een daartoe geschikte door de Bank vast te stellen wijze.
 
-#### Artikel III. Bijdragen aan het Fonds; Bilaterale leningen
+##### Artikel III. Bijdragen aan het Fonds; Bilaterale leningen
 
 - 3.01. Elk der in deze paragraaf 3.01 genoemde Partijen verbindt zich, onder voorbehoud van eventueel noodzakelijke handelingen van de zijde van de volksvertegenwoordiging, een bijdrage te leveren aan het Fonds tot de bedragen en overeenkomstig de voorwaarden en bedingen welke hieronder zijn aangegeven:
 
@@ -134,7 +156,7 @@ Zijn de Partijen overeengekomen als volgt:
 
 - 3.08. De betaling van de bijdragen geschiedt in de onderscheiden munteenheden van de bijdragende Partijen of in de tegenwaarde daarvan in andere munteenheden die vrijelijk kunnen worden gebruikt of vrij inwisselbaar zijn, al naar gelang is overeengekomen tussen de onderscheiden bijdragende Partijen en de beheerder.
 
-#### Artikel IV. Gebruik van het Fonds; Betalingen uit het Fonds
+##### Artikel IV. Gebruik van het Fonds; Betalingen uit het Fonds
 
 - 4.01.
 
@@ -162,7 +184,7 @@ Zijn de Partijen overeengekomen als volgt:
 
 - 4.10. Laos treft regelingen, en houdt deze in stand, met betrekking tot de verkoop van de voor de uitvoering van het project benodigde kip en wel tegen de voordeligste wettelijk toegestane wisselkoers.
 
-#### Artikel V. De beheerder
+##### Artikel V. De beheerder
 
 - 5.01. De beheerder houdt, namens de Partijen die een bijdrage leveren en in overeenstemming met deze Overeenkomst en de Project Overeenkomst, toezicht op de uitvoering van het project (met inbegrip van de aanschaffing van goederen en de coördinatie van de uitvoering van zowel de door het Fonds gefinancierde delen van het project als de door de bilaterale leningen gefinancierde delen van het project), beheert het Fonds en coördineert de naleving door de Partijen van hun onderscheiden verplichtingen ingevolge deze Overeenkomst en de Project Overeenkomst.
 
@@ -184,7 +206,7 @@ Zijn de Partijen overeengekomen als volgt:
 
 - 5.08. Telkens wanneer de beheerder bepaalt dat bijzondere omstandigheden zulks vereisen, kan hij die overeenkomsten of regelingen treffen, of het treffen daarvan verlangen of goedkeuren, met adviseurs, aannemers en andere lichamen welke hij wenselijk acht ter uitvoering van het project op de meest doelmatige, snelle en kostenbesparende wijze.
 
-#### Artikel VI. Verplichtingen van de Partijen die een bijdrage leveren en van de Bilaterale Leners
+##### Artikel VI. Verplichtingen van de Partijen die een bijdrage leveren en van de Bilaterale Leners
 
 - 6.01. Elk der Partijen die een bijdrage levert en de Bilaterale Leners werken ten volle samen, zowel met elkaar als met Laos en de beheerder ten einde te verzekeren dat het project op doelmatige en kostenbesparende wijze wordt uitgevoerd en dat de doeleinden van deze Overeenkomst worden verwezenlijkt. Te dien einde dienen alle Partijen die een bijdrage leveren en de Bilaterale Leners:
 
@@ -200,7 +222,7 @@ Zijn de Partijen overeengekomen als volgt:
 
 - b). Paragraaf 6.02 (a) kan in geen enkel opzicht een belemmering vormen voor een Partij die een bijdrage levert of voor een Bilaterale Lener de betaling van zijn bijdrage aan het project op te schorten in geval van achterstallige betaling van de hoofdsom van, of rente of andere lasten over, een zodanige bijdrage.
 
-#### Artikel VII. Verplichtingen van Laos
+##### Artikel VII. Verplichtingen van Laos
 
 - 7.01.
 
@@ -252,7 +274,7 @@ Zijn de Partijen overeengekomen als volgt:
 
 - c). De ingevolge paragraaf 7.11 (a) aan de EDL verleende volmacht kan worden ingetrokken of gewijzigd wanneer Laos en de beheerder zulks overeenkomen.
 
-#### Artikel VIII. Verplichtingen van Thailand
+##### Artikel VIII. Verplichtingen van Thailand
 
 - 8.01. Thailand legt op eigen kosten a) een hoogspanningsleiding met dubbele stroomketen van 115 kV aan van Nakhon Ratchasima, door Khon Kaen en Udon Thani ten einde een verbinding tot stand te brengen met de in het kader van het project door Laos aan te leggen hoogspanningsleiding die dichtbij Nong Khai over de rivier de Mekong gaat, en b) de noodzakelijke extra wisselstations bij Nakhon Ratchasima, Khon Kaen en Udon Thani. Thailand voltooit de aanleg van deze leidingen en onderstations op een zodanig tijdstip dat dit land de door de in het kader van het project te bouwen generatoren opgewekte elektriciteit kan ontvangen bij het begin van de regelmatige exploitatie van die generatoren.
 
@@ -268,7 +290,7 @@ Zijn de Partijen overeengekomen als volgt:
 
 - 8.04. Thailand stemt ermee in bij de uitvoering van het project samen te werken met Laos en met de beheerder en zal in het bijzonder het vervoer en het verkeer van personen en goederen verband houdende met de uitvoering van het project over zijn grondgebied vergemakkelijken.
 
-#### Artikel IX. Gezamenlijke verplichtingen van Laos en Thailand
+##### Artikel IX. Gezamenlijke verplichtingen van Laos en Thailand
 
 - 9.01.
 
@@ -288,7 +310,7 @@ Zijn de Partijen overeengekomen als volgt:
 
 - c). Laos en Thailand stellen elkaar terstond op de hoogte van alle omstandigheden die een belemmering vormen of dreigen te vormen voor de verwezenlijking van de doeleinden van deze Overeenkomst.
 
-#### Artikel X. Opschorting en Beëindiging
+##### Artikel X. Opschorting en Beëindiging
 
 - 10.01. Indien een der hieronder genoemde gebeurtenissen zich voordoet en naar het oordeel van de beheerder waarschijnlijk zal voortduren, stelt de beheerder terstond de andere Partijen daarvan op de hoogte en kan hij door middel van een kennisgeving aan genoemde Partijen de betalingen door het Fonds voor het geheel of voor een gedeelte opschorten:
 
@@ -322,7 +344,7 @@ Zijn de Partijen overeengekomen als volgt:
 
 - 10.06. Indien bij beëindiging van deze Overeenkomst bedragen in het Fonds mochten resteren, bepaalt de beheerder in overleg met de Partijen die een bijdrage leveren en andere Regeringen en eventuele lichamen zoals bedoeld in paragraaf 12.02, de wijze van besteding van die bedragen, met inbegrip van de ontvangsten, de hoogten van de bedragen, de tijdstippen, de methoden en de munteenheden van betaling.
 
-#### Artikel XI. Regeling van geschillen
+##### Artikel XI. Regeling van geschillen
 
 - 11.01.
 
@@ -332,13 +354,13 @@ Zijn de Partijen overeengekomen als volgt:
 
 - c). De beslissing van de beheerder of de scheidsman, al naar gelang het geval is, is bindend en wordt door alle Partijen in overeenstemming met hun onderscheiden grondwettelijke procedures nageleefd.
 
-#### Artikel XII. Nieuwe Partijen en aanvullende bijdragen
+##### Artikel XII. Nieuwe Partijen en aanvullende bijdragen
 
 - 12.01. Regeringen of lichamen geen Partij die een bijdrage levert zijnde, kunnen met voorafgaande goedkeuring van de Partijen die een bijdrage leveren, Laos en de beheerder en in overeenstemming met de regelingen welke zij overeenkomen, bijdragende Partij worden door bij de beheerder een akte neder te leggen waarin zij verklaren dat zij zich verplichten een bijdrage aan het Fonds te leveren op de in de akte gestelde voorwaarden en dat zij de bepalingen van deze Overeenkomst aanvaarden en de daaruit voortvloeiende verplichtingen zullen nakomen.
 
 - 12.02. De beheerder kan met voorafgaande goedkeuring van Laos namens het Fonds van iedere Regering of ander lichaam, onverschillig of deze al dan niet Partij bij de Overeenkomst is, bedragen in ontvangst nemen, waarin deze Overeenkomst niet voorziet; deze worden gehouden en gebruikt als onderdeel van het Fonds met inachtneming van de bepalingen van deze Overeenkomst en wel in overeenstemming met door de beheerder goed te keuren regelingen die niet strijdig zijn met deze Overeenkomst.
 
-#### Artikel XIII. Mededelingen en verzoeken
+##### Artikel XIII. Mededelingen en verzoeken
 
 - 13.01. Mededelingen of verzoeken die vereist of toegestaan zijn ingevolge deze Overeenkomst dienen schriftelijk te worden gedaan. Deze mededelingen of verzoeken worden geacht op behoorlijke wijze te zijn gedaan indien zij persoonlijk, per post, per telegram, per kabeltelegram, per telex of per radiogram worden bezorgd bij de Partij bij wie dit moet of kan worden gedaan en op een zodanig adres van die Partij als bedoeld in paragraaf 13.02, of op een zodanig adres als die Partij door een mededeling aan de Partij welke die kennisgeving of dat verzoek doet, heeft aangegeven.
 
@@ -416,7 +438,7 @@ Zijn de Partijen overeengekomen als volgt:
 
 - Telexadressen: ASIANBANK 7425071 7222094 ADBPH 3587 ADBPN
 
-#### Artikel XIV. Ondertekening en inwerkingtreding
+##### Artikel XIV. Ondertekening en inwerkingtreding
 
 - 14.01. Deze Overeenkomst blijft openstaan ter ondertekening en aanvaarding voor alle in de Preambule van deze Overeenkomst genoemde Partijen tot 30 juni 1974, of zodanig later tijdstip als door de Bank door middel van een kennisgeving aan de andere Partijen wordt vastgesteld.
 

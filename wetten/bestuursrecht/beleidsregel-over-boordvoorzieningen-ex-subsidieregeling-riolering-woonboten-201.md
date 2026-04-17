@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel over boordvoorzieningen ex Subsidieregeling riolering woonboten 2018–2020"
+title: "Beleidsregel van de Minister van Infrastructuur en Waterstaat, van 30 oktober 2018, nr. IENW/BSK–2018/176078, over boordvoorzieningen in het kader van de Subsidieregeling riolering woonboten 2018–2020"
 identifier: "BWBR0041514"
-categorie: "Bestuursrecht"
-publicatiedatum: 2018-12-01
-laatste_update: 2018-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041514"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2018-12-01"
+last_updated: "2018-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041514"
+soort: "beleidsregel"
+stam_id: "14849243"
+version_id: "25385292"
+internal_id: "C36248561"
+label_id: "14800934"
+dtd_version: "2.0"
+original_entry_into_force: "2018-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041514/2018-12-01/0"
+intitule_bron: "Stcrt.2018-60979"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-10-30"
+intitule_published: "2018-11-06"
+intitule_in_force: "2018-11-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-60979"
+original_signed_date: "2018-10-30"
+original_published_date: "2018-11-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-60979"
+entry_into_force_date: "2018-12-01"
+jci_1_3: "jci1.3:c:BWBR0041514&z=2018-12-01&g=2018-12-01"
+jci_1_0: "1.0:c:BWBR0041514&g=2018-12-01"
+citeertitel_status: "redactioneel"
+short_title: "Beleidsregel over boordvoorzieningen ex Subsidieregeling riolering woonboten 2018–2020"
+signed_date: "2018-10-30"
+entry_into_force: "2018-12-01"
 ---
-
 # Beleidsregel van de Minister van Infrastructuur en Waterstaat, van 30 oktober 2018, nr. IENW/BSK–2018/176078, over boordvoorzieningen in het kader van de Subsidieregeling riolering woonboten 2018–2020
 
 Gelet op [artikel 5, tweede lid, van de Subsidieregeling riolering woonboten 2018-2020](https://wetten.overheid.nl/jci1.3:c:BWBR0041513&artikel=5) en [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
@@ -18,7 +44,7 @@ Treedt in werking op het tijdstip waarop de Subsidieregeling riolering woonboten
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepaling
+##### Artikel 1. Begripsbepaling
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -70,17 +96,17 @@ In deze beleidsregel wordt verstaan onder:
 
 - **zuivering technisch werk:** werk voor het zuiveren van stedelijk afvalwater, in beheer bij een waterschap of gemeente of in exploitatie bij een rechtspersoon die door het bestuur van een waterschap of een gemeente met de zuivering van stedelijk afvalwater is belast.
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 Een boordvoorziening dient te voldoen aan de eisen, genoemd in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041514&hoofdstuk=2&z=2018-12-01&g=2018-12-01) van deze beleidsregel, om te kwalificeren als een deugdelijke boordvoorziening als bedoeld in [artikel 5 van de subsidieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0041513&artikel=5), en om voor subsidieverlening in aanmerking te komen.
 
-#### Artikel 3. Beoordeling
+##### Artikel 3. Beoordeling
 
 Door een installateur wordt na afloop van de werkzaamheden een schouwrapport opgesteld, waarbij de boordvoorziening wordt getoetst aan deze beleidsregel.
 
 ### Hoofdstuk 2. Eisen
 
-#### Artikel 4. Boordvoorziening
+##### Artikel 4. Boordvoorziening
 
 Een boordvoorziening bevat ten minste de volgende onderdelen:
 
@@ -96,7 +122,7 @@ Een boordvoorziening bevat ten minste de volgende onderdelen:
 
 - f. walslang.
 
-#### Artikel 5. Binnenhuisriolering
+##### Artikel 5. Binnenhuisriolering
 
 Een binnenhuisriolering voldoet aan de volgende eisen:
 
@@ -106,7 +132,7 @@ Een binnenhuisriolering voldoet aan de volgende eisen:
 
 - c. één afvoerleiding mag beschikbaar worden gehouden als nood(overstort)afvoer.
 
-#### Artikel 6. Pompinstallatie
+##### Artikel 6. Pompinstallatie
 
 1. De pompinstallatie heeft voldoende vermogen om het afvalwater te kunnen afvoeren. Zo nodig worden één of meer hulppompen toegepast.
 
@@ -122,25 +148,25 @@ Een binnenhuisriolering voldoet aan de volgende eisen:
 
 - e. de pompinstallatie en de daarop aangesloten persleiding voor afvoer van het afvalwater naar het openbaar riool op de vaste wal is voorzien van een vrije doorlaat van minimaal 50 mm, tenzij bij gebruik van een versnijdende pomp met toestemming van de rioolbeheerder een kleinere doorlaat is toegestaan.
 
-#### Artikel 7. Ontvangstreservoir
+##### Artikel 7. Ontvangstreservoir
 
 1. Het ontvangstreservoir heeft een bruto-inhoud van ten minste 50 liter, tenzij uit het schouwrapport blijkt dat toepassing van een kleiner ontvangstreservoir nodig is in verband met de beschikbare ruimte aan boord.
 
 2. Het ontvangstreservoir is voorzien van een aansluiting voor een beluchtings- en ontluchtingsleiding.
 
-#### Artikel 8. Persleiding
+##### Artikel 8. Persleiding
 
 1. De persleiding is voorzien van een terugslagklep en een afsluiter ter voorkoming van terugloop van afvalwater uit het riool richting de woonboot.
 
 2. De leidingdiameter van de persleiding wordt in overleg met de rioolbeheerder gedimensioneerd.
 
-#### Artikel 9. Wanddoorvoer
+##### Artikel 9. Wanddoorvoer
 
 1. De wanddoorvoer bestaat uit een doorvoerbuis van RVS, ABS-kunststof of hiermee vergelijkbare materialen.
 
 2. De wanddoorvoer van de persleiding van binnen naar buiten de woonboot heeft twee schaaldelen aan weerszijden van de wanddoorvoer.
 
-#### Artikel 10. Walslang
+##### Artikel 10. Walslang
 
 1. De walslang bestaat uit een flexibele slang voorzien van een verwarmingslint en isolatie.
 
@@ -172,19 +198,19 @@ Een binnenhuisriolering voldoet aan de volgende eisen:
 
 - e. de buitenmantel van de slang is waterdicht uitgevoerd.
 
-#### Artikel 11. Walaansluiting
+##### Artikel 11. Walaansluiting
 
 De walslang tussen de woonboot en de kade of de oever wordt aangesloten op de walaansluiting of de aansluiting van een drijvende IBA.
 
 ### Hoofdstuk 3. Financiële aspecten
 
-#### Artikel 12. Factuur
+##### Artikel 12. Factuur
 
 De factuur, bedoeld in [artikel 6, tweede lid, van de subsidieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0041513&artikel=6), vermeldt de aangeschafte of geïnstalleerde onderdelen van de boordvoorziening.
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 13. Inwerkingtreding
+##### Artikel 13. Inwerkingtreding
 
 1. Deze beleidsregel treedt in werking op het tijdstip waarop de [Subsidieregeling riolering woonboten 2018–2020](https://wetten.overheid.nl/jci1.3:c:BWBR0041513) in werking treedt.
 

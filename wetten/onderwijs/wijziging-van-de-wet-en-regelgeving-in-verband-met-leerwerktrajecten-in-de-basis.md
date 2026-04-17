@@ -1,13 +1,36 @@
 ---
 title: "Wijziging van de wet- en regelgeving in verband met leerwerktrajecten in de basisberoepsgerichte leerweg van het voorbereidend middelbaar beroepsonderwijs (vmbo)"
 identifier: "BWBR0015568"
-categorie: "Onderwijs"
-publicatiedatum: 2003-09-24
-laatste_update: 2003-09-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015568"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2003-09-24"
+last_updated: "2003-09-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015568"
+soort: "beleidsregel"
+stam_id: "6505113"
+version_id: "11192962"
+internal_id: "C15122181"
+label_id: "6493644"
+original_entry_into_force: "2003-09-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015568/2003-09-24/0"
+intitule_bron: "Uitleg.2003-20/21"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-09-11"
+intitule_published: "2003-09-24"
+intitule_in_force: "2003-09-24"
+intitule_status: "goed"
+original_publication: "Uitleg.2003-20/21"
+original_signed_date: "2003-09-11"
+original_published_date: "2003-09-24"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2003-09-24"
+jci_1_3: "jci1.3:c:BWBR0015568&z=2003-09-24&g=2003-09-24"
+jci_1_0: "1.0:c:BWBR0015568&g=2003-09-24"
+citeertitel_status: "redactioneel"
+signed_date: "2003-09-11"
+entry_into_force: "2003-09-24"
 ---
-
 # Wijziging van de wet- en regelgeving in verband met leerwerktrajecten in de basisberoepsgerichte leerweg van het voorbereidend middelbaar beroepsonderwijs (vmbo)
 
 ### Algemeen

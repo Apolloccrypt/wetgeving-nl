@@ -1,20 +1,46 @@
 ---
-title: "Besluit routinematige digitale vervanging archiefbescheiden OCW 2017"
+title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 10 augustus 2017, nr. 920680, houdende routinematige digitale vervanging van archiefbescheiden (Besluit routinematige digitale vervanging archiefbescheiden OCW 2017)"
 identifier: "BWBR0039935"
-categorie: "Overig"
-publicatiedatum: 2017-09-02
-laatste_update: 2017-09-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039935"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-09-02"
+last_updated: "2017-09-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039935"
+soort: "ministeriele-regeling"
+stam_id: "14142583"
+version_id: "24323272"
+internal_id: "C34917111"
+label_id: "14103414"
+dtd_version: "2.0"
+original_entry_into_force: "2017-09-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039935/2017-09-02/0"
+intitule_bron: "Stcrt.2017-49310"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-08-10"
+intitule_published: "2017-09-01"
+intitule_in_force: "2017-09-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-49310"
+original_signed_date: "2017-08-10"
+original_published_date: "2017-09-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-49310"
+entry_into_force_date: "2017-09-02"
+jci_1_3: "jci1.3:c:BWBR0039935&z=2017-09-02&g=2017-09-02"
+jci_1_0: "1.0:c:BWBR0039935&g=2017-09-02"
+citeertitel_status: "officieel"
+short_title: "Besluit routinematige digitale vervanging archiefbescheiden OCW 2017"
+signed_date: "2017-08-10"
+entry_into_force: "2017-09-02"
 ---
-
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 10 augustus 2017, nr. 920680, houdende routinematige digitale vervanging van archiefbescheiden (Besluit routinematige digitale vervanging archiefbescheiden OCW 2017)
 
 Gelet op [artikel 7 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=7)
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Over te gaan tot routinematige digitale vervanging van archiefbescheiden:
 
@@ -22,11 +48,11 @@ Over te gaan tot routinematige digitale vervanging van archiefbescheiden:
 
 - b. volgens de specificaties, vastgelegd in de bij dit besluit horende bijlage ‘handboek routinematige digitale vervanging E-Doc 2017’;
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit wordt aangehaald als:
 

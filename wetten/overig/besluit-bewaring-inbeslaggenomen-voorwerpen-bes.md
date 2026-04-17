@@ -1,18 +1,43 @@
 ---
 title: "Besluit bewaring inbeslaggenomen voorwerpen BES"
 identifier: "BWBR0028375"
-categorie: "Overig"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028375"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028375"
+soort: "AMvB-BES"
+stam_id: "10763923"
+version_id: "17739452"
+internal_id: "C24823861"
+label_id: "10738714"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028375/2010-10-10/0"
+intitule_bron: "Stb.2010-557"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-21"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-557"
+original_signed_date: "2010-09-21"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-557"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028375&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028375&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-21"
+entry_into_force: "2010-10-10"
 ---
-
 # Besluit bewaring inbeslaggenomen voorwerpen BES
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit wordt verstaan onder:
 
@@ -24,7 +49,7 @@ bron: "https://wetten.overheid.nl/BWBR0028375"
 
 #### § 2. De bewaarder
 
-#### Artikel 2
+##### Artikel 2
 
 1. Als bewaarder, bedoeld in [artikel 141, tweede lid, van het wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=141), wordt aangewezen de griffier van het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba.
 
@@ -32,7 +57,7 @@ bron: "https://wetten.overheid.nl/BWBR0028375"
 
 #### § 3. Inbewaringneming
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een inbeslaggenomen voorwerp wordt zoveel mogelijk gesloten en verzegeld in een omslag waarop een mededeling van de dag van inbeslagneming en een vermelding van degene bij wie het is inbeslaggenomen, met een korte opgave van de inhoud, wordt gesteld en ondertekend. Indien het voorwerp niet geschikt is om in een omslag te worden gesloten, wordt daaraan een strook gehecht, waarop gelijke mededeling en vermelding met een korte aanduiding van het voorwerp wordt gesteld en ondertekend. Kan aan een of ander niet worden voldaan, dan wordt het voorwerp zoveel mogelijk gewaarmerkt.
 
@@ -40,11 +65,11 @@ bron: "https://wetten.overheid.nl/BWBR0028375"
 
 3. Aan degene bij wie het voorwerp is inbeslaggenomen, wordt ten overstaan van een officier of hulpofficier van justitie gevraagd of hij met betrekking tot het voorwerp een verklaring van afstand wil doen.
 
-#### Artikel 4
+##### Artikel 4
 
 Een lijst van inbeslaggenomen, niet teruggegeven voorwerpen wordt toegevoegd aan het strafdossier.
 
-#### Artikel 5
+##### Artikel 5
 
 De bewaarder houdt een register bij, waarin hij aantekening houdt van:
 
@@ -58,17 +83,17 @@ De bewaarder houdt een register bij, waarin hij aantekening houdt van:
 
 - e. de naam en hoedanigheid van degene, aan wie de bewaarder het voorwerp afgeeft.
 
-#### Artikel 6
+##### Artikel 6
 
 De bewaarder geeft een voorwerp niet af dan tegen een door de ontvanger ondertekend bewijs waarin de datum van afgifte, de aard van het voorwerp en de naam en de hoedanigheid van de ontvanger zijn vermeld.
 
 #### § 4. Opslag
 
-#### Artikel 7
+##### Artikel 7
 
 De officier van justitie neemt zo spoedig mogelijk een beslissing inzake de teruggave van een inbeslaggenomen voorwerp, op grond van [artikel 144](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=144), de machtiging, bedoeld in [artikel 142, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=142), en de vordering, bedoeld in artikel 142, derde lid, van het wetboek.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De bewaarder draagt er zorg voor dat een inbeslaggenomen voorwerp zodanig wordt opgeslagen, dat het steeds met het minst mogelijke oponthoud voor het onderzoek ter beschikking kan worden gesteld.
 
@@ -76,7 +101,7 @@ De officier van justitie neemt zo spoedig mogelijk een beslissing inzake de teru
 
 3. Bij gevaar van besmetting door een voorwerp worden, in opdracht van de gezaghebber, zo spoedig mogelijk maatregelen genomen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Indien een inbeslaggenomen voorwerp om bijzondere redenen niet kan worden opgeslagen bij de bewaarder is deze bevoegd, na overleg met het openbaar ministerie, het voorwerp op een andere geschikte plaats in bewaring te geven. De bewaarder kan aanwijzingen geven met betrekking tot de wijze waarop het voorwerp wordt bewaard.
 
@@ -84,7 +109,7 @@ De officier van justitie neemt zo spoedig mogelijk een beslissing inzake de teru
 
 3. In geval van opslag van voorwerpen in een ruimte in beheer bij een ander dan de bewaarder, doch niet zijnde een overheidsinstelling, kan de officier van justitie voor de bewaring een vergoeding toekennen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Onder de voorwerpen bedoeld in [artikel 142, tweede lid van het wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=142), die niet geschikt zijn voor opslag of waarvan opslag hoogst ongewenst wordt geacht, zijn in ieder geval begrepen:
 
@@ -108,11 +133,11 @@ De officier van justitie neemt zo spoedig mogelijk een beslissing inzake de teru
 
 - b. voorwerpen die vervangbaar zijn en waarvan de tegenwaarde op eenvoudige wijze kan worden bepaald.
 
-#### Artikel 11
+##### Artikel 11
 
 Ten aanzien van inbeslaggenomen levende dieren overlegt de bewaarder zo spoedig mogelijk met het openbaar ministerie over hetzij een passende wijze van bewaring, hetzij een machtiging tot prijsgave of vervreemding om niet of om baat.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De bewaring, het onderhoud en de teruggave van een inbeslaggenomen voorwerp of de opbrengst daarvan geschiedt zonder kosten voor degene bij wie het voorwerp werd inbeslaggenomen en voor degene aan wie het moet worden teruggegeven.
 
@@ -124,7 +149,7 @@ Ten aanzien van inbeslaggenomen levende dieren overlegt de bewaarder zo spoedig 
 
 #### § 5. Vervreemding, vernietiging, prijsgave en bestemming tot een ander doel dan het onderzoek
 
-#### Artikel 13
+##### Artikel 13
 
 1. De opsporingsambtenaar die een inbeslaggenomen voorwerp als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028375&paragraaf=4&artikel=10&z=2010-10-10&g=2010-10-10), onder zich heeft, stelt zich onverwijld in verbinding met het openbaar ministerie, met het verzoek tot het verlenen van een machtiging tot vernietiging, vervreemding, prijsgave of bestemming tot een ander doel dan het onderzoek.
 
@@ -132,7 +157,7 @@ Ten aanzien van inbeslaggenomen levende dieren overlegt de bewaarder zo spoedig 
 
 3. Indien machtiging tot vernietiging of vervreemding is verleend aan de opsporingsambtenaar die het voorwerp onder zich heeft, stelt deze het voorwerp onverwijld ter beschikking van de bewaarder.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Alvorens aan een verkregen machtiging tot het vervreemden, vernietigen, prijsgeven of bestemmen tot een ander doel dan het onderzoek uitvoering wordt gegeven, wordt de prijs geschat, die het betrokken voorwerp bij verkoop redelijkerwijs zou moeten opbrengen.
 
@@ -144,7 +169,7 @@ Ten aanzien van inbeslaggenomen levende dieren overlegt de bewaarder zo spoedig 
 
 5. Ten aanzien van de middelen, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3) en [4 van de Opiumwet 1960 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=4), is dit artikel niet van toepassing.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Aan een machtiging tot het vernietigen of prijsgeven van een voorwerp wordt zo spoedig mogelijk gevolg gegeven op de voor het betrokken voorwerp geschikte wijze, met dien verstande dat de vernietiging van een voorwerp dat mogelijk besmettingsgevaar oplevert geschiedt met inachtneming van de aanwijzingen van de gezaghebber.
 
@@ -156,13 +181,13 @@ Ten aanzien van inbeslaggenomen levende dieren overlegt de bewaarder zo spoedig 
 
 5. De datum en de wijze van uitvoering van de in dit artikel genoemde maatregelen, worden vermeld in een rapport aan de officier van justitie.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Een voorwerp ten aanzien waarvan een beslissing tot onttrekking aan het verkeer of een beslissing tot verbeurdverklaring is genomen, wordt, nadat de termijn voor beklag, bedoeld in [artikel 151 van het wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=151), is verstreken zonder dat beklag is gedaan, dan wel op zodanig beklag onherroepelijk afwijzend is beslist, door de bewaarder overgedragen aan het openbaar ministerie of een daardoor aangewezen instelling.
 
 2. Ten aanzien van een voorwerp waarmee krachtens het wetboek mag worden gehandeld als met een verbeurdverklaard voorwerp, is het eerste lid van overeenkomstige toepassing.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Een voorwerp ten aanzien waarvan een machtiging tot vervreemding is verleend, wordt door de bewaarder overgedragen aan een door hem met de veiling te belasten deurwaarder, tenzij de vervreemding om niet geschiedt.
 
@@ -170,10 +195,10 @@ Ten aanzien van inbeslaggenomen levende dieren overlegt de bewaarder zo spoedig 
 
 #### § 6. Slotbepalingen
 
-#### Artikel 18
+##### Artikel 18
 
 De voorwerpen die voor het tijdstip van transitie, bedoeld in [artikel 1, onder a, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=1), in bewaring zijn gegeven bij de vervanger van de bewaarder op de eilanden Bonaire, Sint Eustatius en Saba, worden op het moment van transitie geacht in bewaring te zijn gegeven bij de griffier van het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 19
+##### Artikel 19
 
 Dit besluit wordt aangehaald als: Besluit bewaring inbeslaggenomen voorwerpen BES.

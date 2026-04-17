@@ -1,13 +1,39 @@
 ---
-title: "Besluit vaststelling bestanddelen beeldenaar munten vijf en tien euro Woudagemaal (serie Nederlands Werelderfgoed)"
+title: "Besluit van 5 oktober 2020 tot vaststelling van de bestanddelen van de beeldenaar van de munten van vijf en tien euro met als thema het Woudagemaal die in 2020 worden uitgegeven in de serie Nederlands Werelderfgoed"
 identifier: "BWBR0044225"
-categorie: "Overig"
-publicatiedatum: 2020-10-20
-laatste_update: 2020-10-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044225"
+country: "nl"
+rank: "kb"
+publication_date: "2020-10-20"
+last_updated: "2020-10-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044225"
+soort: "KB"
+stam_id: "15672113"
+version_id: "27097152"
+internal_id: "C38592841"
+label_id: "15611644"
+dtd_version: "2.0"
+original_entry_into_force: "2020-10-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044225/2020-10-20/0"
+intitule_bron: "Stb.2020-382"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-10-05"
+intitule_published: "2020-10-19"
+intitule_in_force: "2020-10-19"
+intitule_status: "goed"
+original_publication: "Stb.2020-382"
+original_signed_date: "2020-10-05"
+original_published_date: "2020-10-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2020-382"
+entry_into_force_date: "2020-10-20"
+jci_1_3: "jci1.3:c:BWBR0044225&z=2020-10-20&g=2020-10-20"
+jci_1_0: "1.0:c:BWBR0044225&g=2020-10-20"
+citeertitel_status: "officieel"
+short_title: "Besluit vaststelling bestanddelen beeldenaar munten vijf en tien euro Woudagemaal (serie Nederlands Werelderfgoed)"
+signed_date: "2020-10-05"
+entry_into_force: "2020-10-20"
 ---
-
 # Besluit van 5 oktober 2020 tot vaststelling van de bestanddelen van de beeldenaar van de munten van vijf en tien euro met als thema het Woudagemaal die in 2020 worden uitgegeven in de serie Nederlands Werelderfgoed
 
 Op de voordracht van de Staatssecretaris van Financiën van 30 september 2020, nr. 2020-0000177633, directie Financiële Markten;
@@ -18,7 +44,7 @@ Hebben goedgevonden en verstaan:
 
 Besluit ook gepubliceerd in Stcrt. 2020/66439.
 
-#### Artikel 1
+##### Artikel 1
 
 1. De bestanddelen van de beeldenaar van de zilveren vijf-euromunt en de gouden tien-euromunt met als thema het Woudagemaal die worden uitgegeven in de serie Nederlands Werelderfgoed zijn:
 
@@ -30,11 +56,11 @@ Besluit ook gepubliceerd in Stcrt. 2020/66439.
 
 3. De tien-euromunt heeft een fijngeribbelde rand.
 
-#### Artikel 2
+##### Artikel 2
 
 De Staat der Nederlanden (Ministerie van Financiën) maakt een voorbehoud als bedoeld in [artikel 15b van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=15b) met betrekking tot de beeldenaars van de munten, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044225&artikel=1&z=2020-10-20&g=2020-10-20).
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van 3 oktober 2020. Indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven na 2 oktober 2020, treedt het in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, en werkt het terug tot en met 3 oktober 2020.
 

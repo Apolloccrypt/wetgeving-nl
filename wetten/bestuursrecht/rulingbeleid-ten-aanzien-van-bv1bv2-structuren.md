@@ -1,13 +1,37 @@
 ---
 title: "Rulingbeleid ten aanzien van BV1/BV2 structuren"
 identifier: "BWBR0011800"
-categorie: "Bestuursrecht"
-publicatiedatum: 2000-11-20
-laatste_update: 2000-11-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011800"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2000-11-20"
+last_updated: "2000-11-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011800"
+soort: "beleidsregel"
+stam_id: "8309403"
+version_id: "13175332"
+internal_id: "C17741511"
+label_id: "8290324"
+dtd_version: "2.0"
+original_entry_into_force: "2000-11-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011800/2000-11-20/0"
+intitule_bron: "Infob.2000-22"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-11-20"
+intitule_published: "2000-01-01"
+intitule_in_force: "2000-01-01"
+intitule_status: "goed"
+original_publication: "Infob.2000-22"
+original_signed_date: "2000-11-20"
+original_published_date: "2000-01-01"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2000-11-20"
+jci_1_3: "jci1.3:c:BWBR0011800&z=2000-11-20&g=2000-11-20"
+jci_1_0: "1.0:c:BWBR0011800&g=2000-11-20"
+citeertitel_status: "redactioneel"
+signed_date: "2000-11-20"
+entry_into_force: "2000-11-20"
 ---
-
 # Rulingbeleid ten aanzien van BV1/BV2 structuren
 
 De Directeur-Generaal voor Fiscale Zaken deelt namens de Staatssecretaris van Financiën het volgende mede.

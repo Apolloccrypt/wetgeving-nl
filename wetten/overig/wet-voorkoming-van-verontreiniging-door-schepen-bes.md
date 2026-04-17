@@ -1,18 +1,43 @@
 ---
 title: "Wet voorkoming van verontreiniging door schepen BES"
 identifier: "BWBR0028453"
-categorie: "Overig"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028453"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028453"
+soort: "wet-BES"
+stam_id: "10788873"
+version_id: "17767412"
+internal_id: "C24791481"
+label_id: "10763974"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028453/2025-07-01/0"
+intitule_bron: "Stb.2010-622"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-22"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-622"
+original_signed_date: "2010-09-22"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-622"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028453&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0028453&g=2025-07-01"
+citeertitel_status: "officieel"
+signed_date: "2010-09-22"
+entry_into_force: "2010-10-10"
 ---
-
 # Wet voorkoming van verontreiniging door schepen BES
 
 ### Hoofdstuk I. Begripsomschrijvingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -58,19 +83,19 @@ bron: "https://wetten.overheid.nl/BWBR0028453"
 
 ### Hoofdstuk II. Toepassing
 
-#### Artikel 2
+##### Artikel 2
 
 [vervallen]
 
-#### Artikel 3
+##### Artikel 3
 
 Het bij of krachtens deze wet bepaalde is niet van toepassing op oorlogsschepen, schepen in gebruik als marinehulpschepen of andere schepen in eigendom van of in beheer bij een staat ten tijde dat zij uitsluitend worden gebruikt in dienst van de overheid voor andere dan handelsdoeleinden.
 
-#### Artikel 4
+##### Artikel 4
 
 Bij algemene maatregel van bestuur kunnen categorieën van schepen geheel of gedeeltelijk van een of meer bij of krachtens deze wet gegeven regels en voorschriften worden uitgezonderd.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een verplichting die ingevolge deze wet rust op de eigenaar van een schip, rust tevens op de rompbevrachter van dat schip.
 
@@ -80,7 +105,7 @@ Bij algemene maatregel van bestuur kunnen categorieën van schepen geheel of ged
 
 #### § 1. Lozingsverbod en voorzieningen
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het is verboden vanaf een buitenlands schip een schadelijke stof in zee of in de binnenwateren te lozen behoudens in de gevallen en op de wijze vastgesteld in het Marpol-verdrag en het Milieuprotocol bij het Antarcticaverdrag.
 
@@ -100,7 +125,7 @@ Bij algemene maatregel van bestuur kunnen categorieën van schepen geheel of ged
 
 - b. in de territoriale zee of de exclusieve economische zone van een vreemde staat dan wel op volle zee, voor zover de in deze leden bedoelde verboden betrekking hebben op de voorschriften van het MARPOL-verdrag of voor zover met deze verboden toepassing wordt gegeven aan artikel 218 van het VN-Zeerechtverdrag.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De beheerders, of indien geen beheerder is aangewezen de eigenaar, van bij of krachtens algemene maatregel van bestuur aan te wijzen havens zijn verplicht zorg te dragen voor voldoende voorzieningen, geschikt voor het in ontvangst nemen van schadelijke stoffen dan wel restanten van schadelijke stoffen afkomstig van schepen dan wel schadelijke stoffen of uitrusting die deze schadelijke stoffen bevat en die van schepen worden verwijderd, zodanig dat onnodig oponthoud aan deze schepen wordt voorkomen.
 
@@ -116,13 +141,13 @@ De afgifte bedoeld in het eerste lid mag niet anders geschieden dan op een wijze
 
 #### § 3. Verplichtingen van de kapitein
 
-#### Artikel 13
+##### Artikel 13
 
 1. De kapitein van een buitenlands schip dat zich in een haven in de openbare lichamen Bonaire, Sint Eustatius of Saba bevindt en waarop ingevolge de verdragen een journaal dient te worden bijgehouden, is verplicht de autoriteiten, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=1&artikel=16&z=2025-07-01&g=2025-07-01), op hun verzoek inzage in het journaal te verlenen en dient hen toe te staan van elke in het journaal geplaatste aantekening een eensluidend afschrift te maken. Desgevraagd dient de kapitein het afschrift voor eensluidend te waarmerken.
 
 2. Elk aldus vervaardigd en voor eensluidend gewaarmerkt afschrift van een aantekening in het journaal zal in een gerechtelijke procedure als bewijs van de feiten, vermeld in de aantekening, worden toegelaten.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De kapitein van een buitenlands schip is verplicht een voorval dat plaatsvindt in de territoriale zee of in de exclusieve economische zone in de gevallen waarin het MARPOL-verdrag voorziet, onverwijld te melden aan de autoriteiten, bedoeld in het derde lid.
 
@@ -134,7 +159,7 @@ De afgifte bedoeld in het eerste lid mag niet anders geschieden dan op een wijze
 
 #### § 4. Verlaten van een haven
 
-#### Artikel 15
+##### Artikel 15
 
 Het is verboden met een buitenlands schip dat ingevolge een of meer van de verdragen voorzien moet zijn van een geldig certificaat, een haven in de openbare lichamen Bonaire, Sint Eustatius of Saba te verlaten, zonder dat bedoeld certificaat aan boord is.
 
@@ -142,7 +167,7 @@ Het is verboden met een buitenlands schip dat ingevolge een of meer van de verdr
 
 #### § 1. Toezicht
 
-#### Artikel 16
+##### Artikel 16
 
 1. Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de ambtenaren van de Inspectie Verkeer en Waterstaat.
 
@@ -168,21 +193,21 @@ Het is verboden met een buitenlands schip dat ingevolge een of meer van de verdr
 
 7. Een iedere is verplicht aan de ambtenaren van de Inspectie Verkeer en Waterstaat en de krachtens het tweede lid aangewezen andere ambtenaren en personen alle medewerking te verlenen die op grond van het derde lid wordt gevorderd.
 
-#### Artikel 17
+##### Artikel 17
 
 [vervallen]
 
-#### Artikel 18
+##### Artikel 18
 
 De kapitein is verplicht de ambtenaren van de Inspectie Verkeer en Waterstaat en de andere ambtenaren en personen, bedoeld in [artikel 16 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=1&artikel=16&z=2025-07-01&g=2025-07-01) desgevraagd behoorlijke en veilige toegang tot het schip en zijn ruimten te verschaffen. Voorts stelt de kapitein op een daartoe strekkend verzoek van een zodanige ambtenaar, alle personele middelen en hulpmiddelen ter beschikking, welke naar het oordeel van de ambtenaar redelijkerwijs nodig zijn voor de uitvoering van het onderzoek aan boord.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Het bepaalde in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=1&artikel=16&z=2025-07-01&g=2025-07-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=1&artikel=18&z=2025-07-01&g=2025-07-01) geldt slechts ten aanzien van een buitenlands schip dat zich bevindtin de binnenwateren, de territoriale zee of de exclusieve economische zone.
 
 2. De toezichthouder neemt bij het toezicht op de naleving van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=III&paragraaf=1&artikel=6&z=2025-07-01&g=2025-07-01), de artikelen 218 en 220 en afdeling 7 van Deel XII van het VN-Zeerechtverdrag in acht.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Een buitenlands schip dat ingevolge een of meer van de verdragen een certificaat behoeft kan in een haven in de openbare lichamen Bonaire, Sint Eustatius of Saba worden onderworpen aan controle door een ambtenaar van de Inspectie Verkeer en Waterstaat, teneinde na te gaan of het schip is voorzien van een geldig ingevolge het betreffende verdrag vereist certificaat.
 
@@ -200,17 +225,17 @@ De kapitein is verplicht de ambtenaren van de Inspectie Verkeer en Waterstaat en
 
 - d. het verrichten van handelingen met betrekking tot schadelijke stoffen en restanten daarvan alsmede de daarmee verband houdende bedrijfsvoering.
 
-#### Artikel 21
+##### Artikel 21
 
 Een buitenlands schip kan in een haven in de openbare lichamen Bonaire, Sint Eustatius of Saba worden onderworpen aan een onderzoek door een ambtenaar van de Inspectie Verkeer en Waterstaat, teneinde na te gaan of in strijd met een of meer van de verdragen schadelijke stoffen zijn geloosd in zee of in de binnenwateren of uitgestoten in de lucht.
 
 #### § 2. Aanhouding
 
-#### Artikel 22
+##### Artikel 22
 
 [vervallen]
 
-#### Artikel 23
+##### Artikel 23
 
 1. Een ambtenaar van de Inspectie Verkeer en Waterstaat is bevoegd een buitenlands schip, dat zich in een haven in de openbare lichamen Bonaire, Sint Eustatius of Saba bevindt en dat de vlag voert van een Staat die partij is bij een of meer van de verdragen, aan te houden:
 
@@ -232,13 +257,13 @@ Een buitenlands schip kan in een haven in de openbare lichamen Bonaire, Sint Eus
 
 3. Een ambtenaar van de Inspectie Verkeer en Waterstaat is bevoegd een buitenlands schip dat zich in een haven in de openbare lichamen Bonaire, Sint Eustatius of Saba bevindt aan te houden, indien met betrekking tot het schip niet wordt voldaan aan de voorschriften die in de Verdragen zijn gegeven met betrekking tot de in [artikel 20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=1&artikel=20&z=2025-07-01&g=2025-07-01), genoemde onderwerpen.
 
-#### Artikel 24
+##### Artikel 24
 
 1. De aanhouding geschiedt door een ambtenaar van de Inspectie Verkeer en Waterstaat door middel van overhandiging aan de kapitein van een ondertekende en gedagtekende kennisgeving, waarin de reden van de aanhouding staat vermeld. Wanneer naar het oordeel van die ambtenaar overhandiging niet mogelijk is, geschiedt de aanhouding mondeling door een kennisgeving aan de naar zijn oordeel daarvoor meest gerede persoon, zo spoedig mogelijk gevolgd door overhandiging van de schriftelijke kennisgeving aan de kapitein.
 
 2. De havenbeheerder, of indien geen beheerder is aangewezen de eigenaar van de haven, alsmede de naar het oordeel van de in het eerste lid bedoelde ambtenaar in aanmerking komende diensten, worden onverwijld van het bevel tot aanhouding in kennis gesteld. Indien de aanhouding geschiedt omdat er gevaar bestaat dat het schip het mariene milieu verontreinigt, worden de door Onze Minister aangewezen instanties in de openbare lichamen Bonaire, Sint Eustatius of Saba.
 
-#### Artikel 25
+##### Artikel 25
 
 1. De kapitein van een op grond van de [Wet voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0003642) aangehouden Nederlands schip is verplicht zijn schip na de aanhouding ligplaats te doen nemen op de door een ambtenaar van de Inspectie Verkeer en Waterstaat in overeenstemming met de havenbeheerder, of indien geen beheerder is aangewezen de eigenaar van de haven, aan te wijzen plaats.
 
@@ -248,11 +273,11 @@ Een buitenlands schip kan in een haven in de openbare lichamen Bonaire, Sint Eus
 
 4. Het eerste, tweede en derde lid zijn van overeenkomstige toepassing op een buitenlands schip dat zich in een haven in de openbare lichamen Bonaire, Sint Eustatius of Saba bevindt.
 
-#### Artikel 26
+##### Artikel 26
 
 De ambtenaren van de Inspectie Verkeer en Waterstaat, zijn bevoegd ter uitvoering en handhaving van de aanhouding de nodige maatregelen te nemen en de nodige aanwijzingen te geven.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Zodra er geen reden is de aanhouding langer te laten voortduren en de mogelijk op grond van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=VII&artikel=41&z=2025-07-01&g=2025-07-01) verschuldigde kosten zijn voldaan of de voldoening daarvan voldoende zeker is gesteld, heft de ambtenaar van de Inspectie Verkeer en Waterstaat, de aanhouding op.
 
@@ -260,7 +285,7 @@ De ambtenaren van de Inspectie Verkeer en Waterstaat, zijn bevoegd ter uitvoerin
 
 3. Op deze opheffing en kennisgeving is [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=2&artikel=24&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing.
 
-#### Artikel 28
+##### Artikel 28
 
 Van de aanhouding, bedoeld in de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=2&artikel=24&z=2025-07-01&g=2025-07-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=2&artikel=26&z=2025-07-01&g=2025-07-01), en de opheffing daarvan, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=2&artikel=27&z=2025-07-01&g=2025-07-01), wordt tevens de consul of de diplomatieke vertegenwoordiger en, bij diens afwezigheid, de regering van de Staat waarvan het schip de vlag voert, onverwijld op de hoogte gesteld.
 
@@ -268,7 +293,7 @@ Van de aanhouding, bedoeld in de [artikelen 24](https://wetten.overheid.nl/jci1.
 
 #### § 1. Bezwaar
 
-#### Artikel 29
+##### Artikel 29
 
 1. Degene die rechtstreeks in zijn belang is getroffen door een beslissing genomen krachtens deze wet, met uitzondering van het bepaalde in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=1&artikel=16&z=2025-07-01&g=2025-07-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=1&artikel=18&z=2025-07-01&g=2025-07-01), kan daartegen een bezwaarschrift indienen bij Onze Minister binnen 30 dagen na de dag waarop die beslissing is verzonden of uitgereikt aan degene tot wie zij is gericht.
 
@@ -278,7 +303,7 @@ Van de aanhouding, bedoeld in de [artikelen 24](https://wetten.overheid.nl/jci1.
 
 4. Het indienen van een bezwaarschrift schorst de werking van de beslissing niet, tenzij Onze Minister anders bepaalt.
 
-#### Artikel 30
+##### Artikel 30
 
 1. Onze Minister beslist binnen zestig dagen na ontvangst van het bezwaarschrift. Alvorens hij een beslissing neemt, kan hij advies inwinnen bij de Commissie van Onderzoek, bedoeld in [artikel 26bis van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=26bis) (Stb. 1909, 219). Wat betreft de samenstelling, de bevoegdheden en de werkwijze van de Commissie bij de uitvoering van deze taak, alsmede de schadeloosstelling van door de Commissie gehoorde getuigen en deskundigen en van leden van de Commissie zelve, zijn de desbetreffende bepalingen van de [Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876) van toepassing.
 
@@ -292,21 +317,21 @@ Van de aanhouding, bedoeld in de [artikelen 24](https://wetten.overheid.nl/jci1.
 
 #### § 3. Medewerking en geheimhouding
 
-#### Artikel 32
+##### Artikel 32
 
 1. Onze Minister kan organisaties of personen machtigen bepaalde door hem aangewezen werkzaamheden ter uitvoering van het bepaalde in deze wet te verrichten.
 
 2. Een krachtens het eerste lid vastgesteld besluit wordt in de Staatscourant bekendgemaakt.
 
-#### Artikel 33
+##### Artikel 33
 
 Een ieder die betrokken is bij de fabricage, de invoer, de opslag, het vervoer, het lozen of de uitstoot van schadelijke stoffen is verplicht aan de ambtenaren, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=1&artikel=16&z=2025-07-01&g=2025-07-01), alle medewerking te verlenen en inlichtingen te verstrekken die zij bij de uitvoering van de hun op grond van deze wet opgedragen taak behoeven.
 
-#### Artikel 34
+##### Artikel 34
 
 Zij die uit hoofde van hun stand, beroep of ambt tot geheimhouding verplicht zijn kunnen zich verschonen van het verschaffen van inlichtingen, doch uitsluitend voorzover het betreft hetgeen hun in hun hoedanigheid is toevertrouwd. Zij kunnen voorts het verlenen van medewerking weigeren, voor zover hun plicht tot geheimhouding zich daartoe uitstrekt.
 
-#### Artikel 35
+##### Artikel 35
 
 Een ieder die betrokken is bij de uitvoering van deze wet en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift terzake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding daarvan, behoudens voor zover enig wettelijk voorschrift hem tot bekendmaking verplicht of uit zijn taak bij de uitvoering van deze wet de noodzaak tot bekendmaking voortvloeit.
 
@@ -314,13 +339,13 @@ Een ieder die betrokken is bij de uitvoering van deze wet en daarbij de beschikk
 
 ### Hoofdstuk VI. Strafbepalingen en borgsom
 
-#### Artikel 37a
+##### Artikel 37a
 
 1. De strafwet van de openbare lichamen Bonaire, Sint Eustatius en Saba is, met inachtneming van de artikelen 218 en 220 en afdeling 7 van Deel XII van het VN-Zeerechtverdrag en onverminderd het recht van andere staten om overeenkomstig het VN-Zeerechtverdrag of een van de verdragen tot rechtsvervolging over te gaan, toepasselijk op ieder die zich buiten Bonaire, Sint Eustatius of Saba schuldig maakt aan overtreding van het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=III&paragraaf=1&artikel=6&z=2025-07-01&g=2025-07-01).
 
 2. De strafwet van de openbare lichamen Bonaire, Sint Eustatius en Saba is van toepassing op ieder die zich in de exclusieve economische zone schuldig maakt aan overtreding van de bij of krachtens [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=III&paragraaf=3&artikel=14&z=2025-07-01&g=2025-07-01) gestelde regels.
 
-#### Artikel 38
+##### Artikel 38
 
 1. Overtreding van de voorschriften gesteld bij of krachtens de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=III&paragraaf=1&artikel=6&z=2025-07-01&g=2025-07-01), [14, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=III&paragraaf=3&artikel=14&z=2025-07-01&g=2025-07-01) en [25, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=2&artikel=25&z=2025-07-01&g=2025-07-01), worden voor zover zij opzettelijk zijn begaan, gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van ten hoogste de zesde categorie.
 
@@ -328,7 +353,7 @@ Een ieder die betrokken is bij de uitvoering van deze wet en daarbij de beschikk
 
 3. De in het eerste lid strafbaar gestelde gedragingen zijn misdrijven en de in het tweede lid strafbaar gestelde gedragingen zijn overtredingen.
 
-#### Artikel 39
+##### Artikel 39
 
 1. Bij vermoeden van overtreding van de voorschriften, bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=III&paragraaf=1&artikel=6&z=2025-07-01&g=2025-07-01), [7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=III&paragraaf=1&artikel=7&z=2025-07-01&g=2025-07-01), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=III&paragraaf=3&artikel=13&z=2025-07-01&g=2025-07-01),[14, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=III&paragraaf=3&artikel=14&z=2025-07-01&g=2025-07-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=III&paragraaf=4&artikel=15&z=2025-07-01&g=2025-07-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=1&artikel=18&z=2025-07-01&g=2025-07-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=1&artikel=19&z=2025-07-01&g=2025-07-01), [25, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=IV&paragraaf=2&artikel=25&z=2025-07-01&g=2025-07-01) en [33](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&hoofdstuk=V&paragraaf=3&artikel=33&z=2025-07-01&g=2025-07-01), kan aan de kapitein bevel worden gegeven dat het schip een haven in de openbare lichamen Bonaire, Sint Eustatius of Saba of binnenwater niet zal verlaten dan nadat op een bij dat bevel aan te wijzen plaats een daarbij te bepalen geldsom is gestort, waarop terzake van die strafbare gedraging op te leggen geldboete zal kunnen worden verhaald. Het bevel wordt zonodig met behulp van de sterke arm ten uitvoer gelegd.
 
@@ -338,13 +363,13 @@ Een ieder die betrokken is bij de uitvoering van deze wet en daarbij de beschikk
 
 4. Zodra het in de strafzaak gewezen vonnis onherroepelijk is geworden, wordt de gestorte geldsom wederom ter beschikking van de rechthebbende gesteld, nadat daarop een bij dat vonnis opgelegde geldboete in mindering is gebracht. Tot dat tijdstip en te rekenen van de dag dat de geldsom werd gestort, wordt over die som de wettelijke rente vergoed.
 
-#### Artikel 40
+##### Artikel 40
 
 [vervallen]
 
 ### Hoofdstuk VII. Slotbepalingen
 
-#### Artikel 41
+##### Artikel 41
 
 Bij regeling van Onze Minister kunnen de vergoedingen worden geregeld, verschuldigd door degenen, ten behoeve van wie:
 
@@ -352,14 +377,14 @@ Bij regeling van Onze Minister kunnen de vergoedingen worden geregeld, verschuld
 
 - b. werkzaamheden of diensten zijn verricht door andere personen, aan wie op grond van deze wet die werkzaamheden of diensten zijn overgedragen.
 
-#### Artikel 42
+##### Artikel 42
 
 [vervallen]
 
-#### Artikel 43
+##### Artikel 43
 
 [vervallen]
 
-#### Artikel 44
+##### Artikel 44
 
 Deze wet wordt aangehaald als: Wet voorkoming van verontreiniging door schepen BES.

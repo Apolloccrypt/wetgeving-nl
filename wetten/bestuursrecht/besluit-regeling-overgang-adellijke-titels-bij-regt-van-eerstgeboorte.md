@@ -1,13 +1,38 @@
 ---
-title: "Besluit regeling overgang adellijke titels bij regt van eerstgeboorte"
+title: "Besluit van den 26sten Maart 1868, houdende regeling van den overgang van adellijke titels bij regt van eerstgeboorte"
 identifier: "BWBR0024679"
-categorie: "Bestuursrecht"
-publicatiedatum: 1868-04-19
-laatste_update: 1868-04-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024679"
+country: "nl"
+rank: "amvb"
+publication_date: "1868-04-19"
+last_updated: "1868-04-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024679"
+soort: "AMvB"
+stam_id: "9762283"
+version_id: "15828292"
+internal_id: "C21658391"
+label_id: "9739034"
+dtd_version: "2.0"
+original_entry_into_force: "1868-04-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024679/1868-04-19/0"
+intitule_bron: "Stb.1868-37"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1868-03-26"
+intitule_published: "1868-03-30"
+intitule_in_force: "1868-03-30"
+intitule_status: "goed"
+original_publication: "Stb.1868-37"
+original_signed_date: "1868-03-26"
+original_published_date: "1868-03-30"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1868-04-19"
+jci_1_3: "jci1.3:c:BWBR0024679&z=1868-04-19&g=1868-04-19"
+jci_1_0: "1.0:c:BWBR0024679&g=1868-04-19"
+citeertitel_status: "redactioneel"
+short_title: "Besluit regeling overgang adellijke titels bij regt van eerstgeboorte"
+signed_date: "1868-03-26"
+entry_into_force: "1868-04-19"
 ---
-
 # Besluit van den 26sten Maart 1868, houdende regeling van den overgang van adellijke titels bij regt van eerstgeboorte
 
 Overwegende, dat het noodzakelijk is het bestaande verschil van gevoelen omtrent den overgang bij regt van eerstgeboorte van adellijke titels door stellige voorschriften op te heffen;

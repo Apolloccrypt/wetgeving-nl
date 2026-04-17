@@ -1,13 +1,39 @@
 ---
-title: "Regeling tachografen"
+title: "Regeling van de Minister van Infrastructuur en Waterstaat, van 15 april 2019, nr. IENW/BSK-2019/72827, houdende vaststelling van regels voor de goedkeuring en het gebruik van tachografen alsmede de diplomaeisen van tachograaftechnici en de controle en toezichtbevoegdheden van de Dienst Wegverkeer en tot intrekking van de Regeling controleapparaten 2005 (Regeling tachografen)"
 identifier: "BWBR0042137"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042137"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042137"
+soort: "ministeriele-regeling"
+stam_id: "15056913"
+version_id: "25804372"
+internal_id: "C36792521"
+label_id: "15006254"
+dtd_version: "2.0"
+original_entry_into_force: "2019-06-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042137/2026-01-01/0"
+intitule_bron: "Stcrt.2019-21354"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-04-15"
+intitule_published: "2019-04-23"
+intitule_in_force: "2019-04-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-21354"
+original_signed_date: "2019-04-15"
+original_published_date: "2019-04-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-21354"
+entry_into_force_date: "2019-06-15"
+jci_1_3: "jci1.3:c:BWBR0042137&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0042137&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling tachografen"
+signed_date: "2019-04-15"
+entry_into_force: "2019-06-15"
 ---
-
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 15 april 2019, nr. IENW/BSK-2019/72827, houdende vaststelling van regels voor de goedkeuring en het gebruik van tachografen alsmede de diplomaeisen van tachograaftechnici en de controle en toezichtbevoegdheden van de Dienst Wegverkeer en tot intrekking van de Regeling controleapparaten 2005 (Regeling tachografen)
 
 Gelet op [artikel 2.4:12, aanhef en onderdelen f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&artikel=2.4:12), en [artikel 2.4:13, eerste lid, van het Arbeidstijdenbesluit vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&artikel=2.4:13);
@@ -16,7 +42,7 @@ BESLUIT:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1:1. Begripsbepaling
+##### Artikel 1:1. Begripsbepaling
 
 1. In deze regeling zijn de definities van artikel 2, tweede lid, van verordening (EU) nr. 165/2014 van toepassing.
 
@@ -44,7 +70,7 @@ BESLUIT:
 
 ### Hoofdstuk 2. De erkenning tachografen en de erkenning bevoegdheid tachograaftechnicus
 
-#### Artikel 2:1. Verlening erkenning tachografen
+##### Artikel 2:1. Verlening erkenning tachografen
 
 1. De Dienst Wegverkeer verleent een erkenning tachografen voor bepaalde of onbepaalde tijd aan een aanvrager die beschikt over een of meerdere werkplaatsen die voldoen aan de eisen, bedoeld in [artikel 2:4](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=2&artikel=2:4&z=2026-01-01&g=2026-01-01).
 
@@ -54,7 +80,7 @@ BESLUIT:
 
 - b. een KvK-inschrijving die niet ouder is dan twee maanden, waaruit blijkt dat de natuurlijke persoon of rechtspersoon exploitant is van een onderneming waar bedrijfsmatig tachografen worden geïnstalleerd, gecontroleerd, geïnspecteerd of gerepareerd tenzij de [Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777) of het Burgerlijk Wetboek een inschrijving in het handelsregister niet vereist.
 
-#### Artikel 2:2. Toekenning kenmerkteken werkplaats
+##### Artikel 2:2. Toekenning kenmerkteken werkplaats
 
 1. De Dienst Wegverkeer kent een kenmerkteken werkplaats toe aan:
 
@@ -64,7 +90,7 @@ BESLUIT:
 
 2. Bij verlies of diefstal van het kenmerkteken werkplaats kent de Dienst Wegverkeer uitsluitend op basis van een proces-verbaal van aangifte bij de politie een nieuw zegelnummer toe.
 
-#### Artikel 2:3. Eisen aan de erkenning tachografen
+##### Artikel 2:3. Eisen aan de erkenning tachografen
 
 1. De erkenning tachografen vermeldt ten minste:
 
@@ -86,7 +112,7 @@ BESLUIT:
 
 6. Ten behoeve van de erkenning communiceert de erkenninghouder met de Dienst Wegverkeer langs geautomatiseerde weg waarbij de digitale identiteit van de erkenninghouder verifieerbaar is. De erkenninghouder maakt daarbij alleen gebruik van de door de Dienst Wegverkeer toegestane authenticatiemiddelen en bijbehorende gebruikersvoorwaarden. De handelingen die ten behoeve van de erkenning worden verricht vallen te allen tijde onder verantwoordelijkheid van de erkenninghouder. Deze verantwoordelijkheid geldt ook indien systemen van de erkenninghouder of delen daarvan bij derden zijn ondergebracht.
 
-#### Artikel 2:4. Eisen aan een werkplaats
+##### Artikel 2:4. Eisen aan een werkplaats
 
 1. Een werkplaats voldoet aan de eisen, bedoeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&bijlage=I&z=2026-01-01&g=2026-01-01).
 
@@ -108,7 +134,7 @@ BESLUIT:
 
 4. De tachograaftechnicus en de erkenninghouder dragen er zorg voor dat de werkplaatskaart en de bevoegdheidspas met bijbehorende pincodes niet toegankelijk zijn voor onbevoegden.
 
-#### Artikel 2:5. Verlening diploma tachograaftechnicus
+##### Artikel 2:5. Verlening diploma tachograaftechnicus
 
 1. De Stichting VAM verleent een diploma tachograaftechnicus indien de aanvrager het examen tachograaftechnicus met goed gevolg heeft afgelegd.
 
@@ -128,7 +154,7 @@ BESLUIT:
 
 - iii. de wettelijke voorschriften omtrent de onderdelen i. en ii.
 
-#### Artikel 2:6. Verlening bevoegdheid tachograaftechnicus
+##### Artikel 2:6. Verlening bevoegdheid tachograaftechnicus
 
 1. De Dienst Wegverkeer verleent op aanvraag aan een natuurlijk persoon een bevoegdheidspas indien de aanvrager een diploma overlegt als bedoeld in [artikel 2:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=2&artikel=2:5&z=2026-01-01&g=2026-01-01).
 
@@ -150,25 +176,25 @@ BESLUIT:
 
 ### Hoofdstuk 2a. Mobiele onderzoekseenheden en inrichtingen
 
-#### Artikel 2a:1. Begripsbepaling
+##### Artikel 2a:1. Begripsbepaling
 
 Vervallen
 
-#### Artikel 2a:2. Eisen aan een mobiele onderzoekseenheid en inrichting
+##### Artikel 2a:2. Eisen aan een mobiele onderzoekseenheid en inrichting
 
 Vervallen
 
-#### Artikel 2a:3. Gelijkstelling erkenning tachografen
+##### Artikel 2a:3. Gelijkstelling erkenning tachografen
 
 Vervallen
 
-#### Artikel 2a:4. Horizonbepaling
+##### Artikel 2a:4. Horizonbepaling
 
 Vervallen
 
 ### Hoofdstuk 3. Procedure van werkzaamheden
 
-#### Artikel 3:1. Algemene bepalingen over de procedure van werkzaamheden
+##### Artikel 3:1. Algemene bepalingen over de procedure van werkzaamheden
 
 1. De werkzaamheden worden uitgevoerd in de werkplaats met inachtneming van de relevante bepalingen uit dit hoofdstuk en de instructies van de fabrikant of importeur over:
 
@@ -182,7 +208,7 @@ Vervallen
 
 3. Voor het gebruik van de werkplaatskaart wordt onder testen verstaan: toetsing van een tachograaf voor de eerste ingebruikname van een voertuig of tachograaf, of voor de reparatie van een tachograaf of bij andere aan de tachograaf gerelateerde werkzaamheden.
 
-#### Artikel 3:2. Controle datum eerste toelating
+##### Artikel 3:2. Controle datum eerste toelating
 
 1. Er worden geen werkzaamheden aan een in Nederland geregistreerd voertuig verricht dan nadat het kentekenregister is geraadpleegd om de datum van eerste toelating en het voertuigidentificatienummer van het motorrijtuig waarin de tachograaf is geïnstalleerd, vast te stellen.
 
@@ -198,7 +224,7 @@ Vervallen
 
 5. In afwijking van het vierde lid mag controle van de datum van eerste toelating achterwege worden gelaten indien de nieuwste generatie en versie van de tachograaf in het motorrijtuig is geïnstalleerd.
 
-#### Artikel 3:3. Manipulatiecontrole
+##### Artikel 3:3. Manipulatiecontrole
 
 1. De tachograaftechnicus beoordeelt tijdens de werkzaamheden of de tachograaf is gemanipuleerd en of er manipulatieapparatuur aanwezig is.
 
@@ -218,7 +244,7 @@ Vervallen
 
 3. Vaststelling van manipulatie dan wel aanwezigheid van manipulatieapparatuur wordt zo spoedig mogelijk aan de Dienst Wegverkeer gemeld met gebruikmaking van een door de Dienst Wegverkeer daartoe bekendgemaakt formulier.
 
-#### Artikel 3:4. Certificaat van onmogelijkheid van gegevensoverdracht
+##### Artikel 3:4. Certificaat van onmogelijkheid van gegevensoverdracht
 
 1. Indien een tachograaftechnicus een digitale tachograaf buiten bedrijf stelt of in een ander motorrijtuig installeert, stelt hij direct, voor zover dit mogelijk is, alle gegevens uit het apparaat veilig.
 
@@ -226,13 +252,13 @@ Vervallen
 
 3. Op schriftelijk verzoek van de werkgever of de persoon, bedoeld in [artikel 2:7, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=2:7), verstrekt de erkenninghouder aan hem de gegevens uit de digitale tachograaf die dat bedrijf betreffen dan wel het certificaat van onmogelijkheid van gegevensoverdracht.
 
-#### Artikel 3:5. Afsluiting van de werkzaamheden
+##### Artikel 3:5. Afsluiting van de werkzaamheden
 
 1. De werkzaamheden worden afgesloten met een proefrit om te controleren dat de tachograaf naar behoren functioneert.
 
 2. Na afloop van de werkzaamheden wordt een afdruk technische gegevens gemaakt van de tachograaf.
 
-#### Artikel 3:6. Melding werkzaamheden aan de Dienst Wegverkeer
+##### Artikel 3:6. Melding werkzaamheden aan de Dienst Wegverkeer
 
 1. Na beëindiging van de werkzaamheden meldt de tachograaftechnicus die de werkzaamheden heeft verricht de volgende gegevens aan de Dienst Wegverkeer:
 
@@ -256,7 +282,7 @@ Vervallen
 
 3. De in het eerste lid bedoelde meldingsplicht geldt niet voor fabrikanten van motorrijtuigen, voor zover het de werkzaamheden betreft in motorrijtuigen die voor de eerste maal in gebruik worden genomen.
 
-#### Artikel 3:7. Aanbrengen installatieplaatje na melding werkzaamheden
+##### Artikel 3:7. Aanbrengen installatieplaatje na melding werkzaamheden
 
 1. Na de melding, bedoeld in [artikel 3:6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=3&artikel=3:6&z=2026-01-01&g=2026-01-01), of de werkzaamheden als bedoeld in artikel 3:6, derde lid, wordt een installatieplaatje aangebracht.
 
@@ -270,7 +296,7 @@ Vervallen
 
 ### Hoofdstuk 4. Het bewaren van gegevens
 
-#### Artikel 4:1. De registers
+##### Artikel 4:1. De registers
 
 1. De erkenninghouder houdt een register bij van de manipulatieformulieren en van de certificaten van onmogelijkheid van gegevensoverdracht, bedoeld in [artikel 3:3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=3&artikel=3:3&z=2026-01-01&g=2026-01-01), en [artikel 3:4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=3&artikel=3:4&z=2026-01-01&g=2026-01-01), die in de in zijn erkenning tachografen genoemde werkplaats of werkplaatsen worden opgemaakt.
 
@@ -286,7 +312,7 @@ Vervallen
 
 ### Hoofdstuk 4. Het bewaren van gegevens
 
-#### Artikel 5:1. Steekproefsgewijze controle
+##### Artikel 5:1. Steekproefsgewijze controle
 
 1. De Dienst Wegverkeer kan werkzaamheden aan een steekproefsgewijze controle onderwerpen.
 
@@ -316,7 +342,7 @@ Vervallen
 
 7. Het rapport, bedoeld in het zesde lid, wordt ook getekend door de tachograaftechnicus of erkenninghouder.
 
-#### Artikel 5:2. Intrekking en schorsing erkenning tachografen
+##### Artikel 5:2. Intrekking en schorsing erkenning tachografen
 
 1. De Dienst Wegverkeer trekt op verzoek van een erkenninghouder een erkenning tachografen geheel of gedeeltelijk in.
 
@@ -326,7 +352,7 @@ Vervallen
 
 4. Na intrekking van de erkenning levert de voormalig erkenninghouder zo spoedig mogelijk het merkteken werkplaats in.
 
-#### Artikel 5:3. Intrekking en schorsing bevoegdheidspas
+##### Artikel 5:3. Intrekking en schorsing bevoegdheidspas
 
 1. De Dienst Wegverkeer trekt op verzoek van een tachograaftechnicus zijn bevoegdheidspas in.
 
@@ -334,11 +360,11 @@ Vervallen
 
 ### Hoofdstuk 6. Overgangs- en slotbepalingen
 
-#### Artikel 6:1. Wijziging [Regeling tachograafkaarten](https://wetten.overheid.nl/jci1.3:c:BWBR0018544)
+##### Artikel 6:1. Wijziging [Regeling tachograafkaarten](https://wetten.overheid.nl/jci1.3:c:BWBR0018544)
 
 Wijzigt de Regeling tachograafkaarten.
 
-#### Artikel 6:2. Overgangsbepalingen
+##### Artikel 6:2. Overgangsbepalingen
 
 1. Een erkenning als installateur of reparateur verleend op grond van de [Regeling controleapparaten 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018540) wordt gelijkgesteld met een erkenning tachograaf verleend op grond van deze regeling.
 
@@ -348,15 +374,15 @@ Wijzigt de Regeling tachograafkaarten.
 
 4. Een erkenning als installateur of reparateur, verleend op grond van de [Regeling controleapparaten 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018540) zoals die luidde onmiddellijk voorafgaand aan het tijdstip waarop deze regeling in werking treedt, voor een mobiele onderzoekseenheid die op grond van [artikel 2a:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=2a&artikel=2a:3&z=2026-01-01&g=2026-01-01), geldigheid heeft, vervalt met ingang van 1 juli 2025.
 
-#### Artikel 6:3. Inwerkingtreding
+##### Artikel 6:3. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 15 juni 2019.
 
-#### Artikel 6:4. Intrekking regelgeving
+##### Artikel 6:4. Intrekking regelgeving
 
 De [Regeling controleapparaten 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018540) wordt ingetrokken.
 
-#### Artikel 6:5. Citeertitel
+##### Artikel 6:5. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling tachografen.
 
@@ -578,7 +604,7 @@ In de werkplaats is, in goede staat van onderhoud en voorzien van CE-markering e
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 2:4.a. Aanwijzing exameninstantie installateur en reparateur tachograaf
+##### Artikel 2:4.a. Aanwijzing exameninstantie installateur en reparateur tachograaf
 
 Als instantie als bedoeld in [artikel 9:3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=9:3) wordt aangewezen de Stichting VAM (IBKI) te Nieuwegein.
 
@@ -598,7 +624,7 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3:1a. Voorwaarden uitvoeren werkzaamheden
+##### Artikel 3:1a. Voorwaarden uitvoeren werkzaamheden
 
 1. Er worden geen werkzaamheden verricht dan nadat het kentekenregister is geraadpleegd ten aanzien van het voertuigidentificatienummer van het motorrijtuig waarin de tachograaf is geïnstalleerd.
 

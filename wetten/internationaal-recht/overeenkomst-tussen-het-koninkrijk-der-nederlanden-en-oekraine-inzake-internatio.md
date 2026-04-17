@@ -1,13 +1,38 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en Oekraïne inzake internationaal vervoer over de weg"
 identifier: "BWBV0001102"
-categorie: "Internationaal recht"
-publicatiedatum: 1995-01-01
-laatste_update: 1995-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001102"
+country: "nl"
+rank: "verdrag"
+publication_date: "1995-01-01"
+last_updated: "1995-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001102"
+soort: "verdrag"
+stam_id: "10002244953"
+version_id: "10002288682"
+internal_id: "C10006977831"
+label_id: "10002235074"
+dtd_version: "2.0"
+original_entry_into_force: "1995-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001102/1995-01-01/0"
+intitule_bron: "Trb.1993-144"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1993-09-07"
+intitule_published: "1993-10-13"
+intitule_in_force: "1994-12-11"
+intitule_status: "goed"
+original_publication: "Trb.1993-144"
+original_signed_date: "1993-09-07"
+original_published_date: "1993-10-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1993-144"
+entry_into_force_date: "1995-01-01"
+jci_1_3: "jci1.3:c:BWBV0001102&z=1995-01-01&g=1995-01-01"
+jci_1_0: "1.0:c:BWBV0001102&g=1995-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "1993-09-07"
+entry_into_force: "1995-01-01"
 ---
-
 # Overeenkomst tussen het Koninkrijk der Nederlanden en Oekraïne inzake internationaal vervoer over de weg
 
 De Regering van het Koninkrijk der Nederlanden
@@ -22,7 +47,7 @@ Geleid door de wens, in het belang van hun economische betrekkingen, de ontwikke
 
 Zijn overeengekomen als volgt:
 
-#### Artikel 1. Toepassingsgebied
+##### Artikel 1. Toepassingsgebied
 
 1. De bepalingen van deze Overeenkomst zijn van toepassing op het internationaal vervoer van goederen en personen over de weg tegen betaling of voor eigen rekening tussen de Overeenkomstsluitende Partijen, in doorvoer over hun grondgebied, naar of van derde landen, en op het vervoer van goederen en personen binnen het grondgebied van een van beide Overeenkomstsluitende Partijen, hierna te noemen cabotage, verricht door vervoerders met voertuigen zoals omschreven in artikel 2.
 
@@ -30,7 +55,7 @@ Zijn overeengekomen als volgt:
 
 De Overeenkomstsluitende Partij die lidstaat is van de Europese Gemeenschappen zal deze Overeenkomst toepassen in overeenstemming met haar verplichtingen ingevolge de verdragen tot oprichting van de Europese Gemeenschap zoals gewijzigd of aangevuld.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 Voor de toepassing van deze Overeenkomst wordt verstaan onder:
 
@@ -42,7 +67,7 @@ Voor de toepassing van deze Overeenkomst wordt verstaan onder:
 
 - 4. „vervoer": het rijden met beladen of onbeladen voertuigen over de weg, ook indien het voertuig, de aanhangwagen of de oplegger voor een deel van de rit gebruik maakt van spoor- of waterwegen.
 
-#### Artikel 3. Toegang tot de markt
+##### Artikel 3. Toegang tot de markt
 
 1. Elk der Overeenkomstsluitende Partijen kan een op het grondgebied van de andere Overeenkomstsluitende Partij gevestigde vervoerder toestaan vervoer van goederen of personen te verrichten:
 
@@ -62,13 +87,13 @@ Voor de toepassing van deze Overeenkomst wordt verstaan onder:
 
 3. Een vervoerder mag niet onder de noemer cabotage vervoer verrichten van personen of goederen tussen twee plaatsen op het grondgebied van de andere Overeenkomstsluitende Partij, tenzij hij daartoe speciale toestemming heeft verkregen van de bevoegde autoriteiten of een andere gemachtigde organisatie van die Overeenkomstsluitende Partij.
 
-#### Artikel 4. Gewichten en afmetingen
+##### Artikel 4. Gewichten en afmetingen
 
 1. De gewichten en afmetingen van voertuigen dienen in overeenstemming te zijn met de officiële registratie van het voertuig en mogen de geldende grenzen in het gastheerland niet overschrijden.
 
 2. Indien het gewicht en/of de afmetingen van een voertuig in beladen of onbeladen toestand bij het verrichten van vervoer ingevolge de bepalingen van deze Overeenkomst het op het grondgebied van de andere Overeenkomstsluitende Partij toelaatbare maximum overschrijden, is een bijzondere vergunning vereist.
 
-#### Artikel 5. Naleving van de nationale wetgeving
+##### Artikel 5. Naleving van de nationale wetgeving
 
 1. Vervoerders van een Overeenkomstsluitende Partij en de bemanningen van hun voertuigen moeten, wanneer zij zich op het grondgebied van de andere Overeenkomstsluitende Partij bevinden, de in dat land geldende wetten en voorschriften naleven.
 
@@ -76,11 +101,11 @@ Voor de toepassing van deze Overeenkomst wordt verstaan onder:
 
 3. De in de voorgaande leden genoemde wetgeving zal worden toegepast op dezelfde voorwaarden als die waaraan de eigen inwoners worden onderworpen zodat discriminatie op grond van nationaliteit of plaats van vestiging uitgesloten is.
 
-#### Artikel 6. Overtredingen
+##### Artikel 6. Overtredingen
 
 In geval van overtreding van de bepalingen van deze Overeenkomst door een vervoerder van een Overeenkomstsluitende Partij geeft de Overeenkomstsluitende Partij op wier grondgebied de overtreding plaatsvond, onverminderd door haar te ondernemen gerechtelijke stappen, daarvan kennis aan de andere Overeenkomstsluitende Partij, die de in haar nationale wetgeving voorziene stappen zal ondernemen. De Overeenkomstsluitende Partijen zullen elkaar in kennis stellen van de opgelegde sancties.
 
-#### Artikel 7. Belastingaangelegenheden
+##### Artikel 7. Belastingaangelegenheden
 
 1. Voertuigen, met inbegrip van hun reserve onderdelen, die vervoer verrichten in overeenstemming met deze Overeenkomst, zijn wederzijds vrijgesteld van alle belastingen en heffingen opgelegd aan het verkeer of het bezit van de voertuigen, alsook van alle speciale belastingen of heffingen opgelegd aan vervoerswerkzaamheden op het grondgebied van de andere Overeenkomstsluitende Partij.
 
@@ -88,7 +113,7 @@ In geval van overtreding van de bepalingen van deze Overeenkomst door een vervoe
 
 3. De zich in de normale reservoirs van het voertuig bevindende brandstof, alsmede de alleen voor de goede werking van die voertuigen bestemde smeermiddelen, zijn wederzijds vrijgesteld van douanerechten en andere belastingen en betalingen.
 
-#### Artikel 8. Gemengde Commissie
+##### Artikel 8. Gemengde Commissie
 
 1. De bevoegde autoriteiten van de beide Overeenkomstsluitende Partijen regelen alle vraagstukken betreffende de uitvoering en toepassing van deze Overeenkomst.
 
@@ -114,17 +139,17 @@ In geval van overtreding van de bepalingen van deze Overeenkomst door een vervoe
 
 - -. de bevordering van multimodaal vervoer, met inbegrip van alle vraagstukken betreffende de toegang tot de markt.
 
-#### Artikel 9. Wijziging
+##### Artikel 9. Wijziging
 
 Door de Overeenkomstsluitende Partijen overeengekomen wijzigingen van deze Overeenkomst treden in werking op de datum waarop de Overeenkomstsluitende Partijen elkander schriftelijk ervan in kennis hebben gesteld dat aan hun onderscheiden constitutionele voorwaarden is voldaan.
 
-#### Artikel 10. Inwerkingtreding en duur
+##### Artikel 10. Inwerkingtreding en duur
 
 1. Deze Overeenkomst wordt voorlopig toegepast vanaf de datum van ondertekening en treedt in werking op de eerste dag van de tweede maand volgend op de datum waarop de Overeenkomstsluitende Partijen elkander schriftelijk ervan in kennis hebben gesteld dat aan de constitutionele voorwaarden om uitvoering aan deze Overeenkomst te geven in hun onderscheiden landen is voldaan.
 
 2. De Overeenkomst blijft van kracht voor een tijdvak van één jaar na de inwerkingtreding. Daarna wordt de Overeenkomst stilzwijgend van jaar tot jaar verlengd tenzij een van de Overeenkomstsluitende Partijen zes maanden voor de datum van verlenging de andere Overeenkomstsluitende Partij kennis heeft gegeven van haar voornemen de Overeenkomst te beëindigen.
 
-#### Artikel 11. Toepassing voor het Koninkrijk der Nederlanden
+##### Artikel 11. Toepassing voor het Koninkrijk der Nederlanden
 
 Wat het Koninkrijk der Nederlanden betreft is deze Overeenkomst slechts van toepassing op het grondgebied van het Koninkrijk in Europa.
 

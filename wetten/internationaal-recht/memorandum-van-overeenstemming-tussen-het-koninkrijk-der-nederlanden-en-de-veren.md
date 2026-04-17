@@ -1,13 +1,35 @@
 ---
 title: "Memorandum van overeenstemming tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika over samenwerking inzake defensiematerieel"
 identifier: "BWBV0003739"
-categorie: "Internationaal recht"
-publicatiedatum: 2006-03-13
-laatste_update: 1990-11-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003739"
+country: "nl"
+rank: "verdrag"
+publication_date: "2006-03-13"
+last_updated: "1990-11-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003739"
+soort: "verdrag"
+stam_id: "10003681573"
+version_id: "10003741672"
+internal_id: "C10006981271"
+label_id: "10003666584"
+dtd_version: "2.0"
+original_entry_into_force: "1978-08-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003739/2006-03-13/0"
+intitule_bron: "Trb.1978-121"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1978-10-02"
+intitule_in_force: "1978-10-02"
+intitule_status: "goed"
+original_publication: "Trb.1978-121"
+original_published_date: "1978-10-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1978-121"
+entry_into_force_date: "1978-08-24"
+jci_1_3: "jci1.3:c:BWBV0003739&z=2006-03-13&g=2006-03-13"
+jci_1_0: "1.0:c:BWBV0003739&g=2006-03-13"
+citeertitel_status: "redactioneel"
+entry_into_force: "1978-08-24"
 ---
-
 # Memorandum van overeenstemming tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika over samenwerking inzake defensiematerieel
 
 **Preamble**
@@ -34,7 +56,7 @@ The two Governments conclude this MOU to strengthen the North Atlantic Alliance.
 
 The two Governments further agree that this MOU should be viewed in the larger context of the cooperation between Europe and North America within the Alliance and that this cooperation will be carried out pursuant to the Mutual Defense Assistance Agreement between the Government of the United States of America and the Government of the Kingdom of the Netherlands, signed 27 January 1950.
 
-#### Article I. Principles Governing Reciprocal Defense Cooperation
+##### Article I. Principles Governing Reciprocal Defense Cooperation
 
 1. Both Governments intend to facilitate the mutual flow of defense procurement, taking into consideration relative technological levels of such procurement, and consistent with their national policies. This facilitation shall be sought through the provision of opportunities to compete for procurements of defense equipment and services as well as through the coproduction of defense equipment and defense R&D cooperation.
 
@@ -68,7 +90,7 @@ The two Governments further agree that this MOU should be viewed in the larger c
 
 13. Arrangements and procedures will, at the request of the purchasing government, be established concerning follow-on logistic support for items of defense equipment, purchased pursuant to this MOU. Both Governments will make their defense logistic systems and resources available for this purpose as required and mutually agreed.
 
-#### Article II. Implementing Procedures
+##### Article II. Implementing Procedures
 
 1. Representatives of the two Governments will be appointed to determine in detail the procedures for implementing this MOU and the therms of reference for a Netherlands-U.S. Committee for Procurement Cooperation.
 
@@ -76,17 +98,17 @@ The two Governments further agree that this MOU should be viewed in the larger c
 
 3. The Director General for Materiel in the Ministry of Defense, in cooperation with other appropriate government authorities, will be the responsible authority of the Government of the Netherlands for the development of the implementing procedures under this MOU.
 
-#### Article III. Industry Participation
+##### Article III. Industry Participation
 
 1. Each Government will be responsible for calling to the attention of the relevant industries within its territory the basic understanding of this MOU, together with appropriate implementing guidance. Both Governments will take all necessary steps so that the industries comply with the regulations pertaining to security and to safeguarding classified information.
 
 2. Implementing of this MOU will involve full industrial participation. Accordingly, the Governments will arrange to inform their respective procurement and requirements offices concerning the principles and objectives of this MOU. However, primary responsibility for finding business opportunities in areas of research and development and production shall rest with the industries in each nation.
 
-#### Article IV. Security
+##### Article IV. Security
 
 To the extent that any items, plans, specifications or information furnished in connection with the specific implementation of this MOU are classified by either Government for security purposes, the other Government shall maintain a similar classification and employ all measures necessary to preserve such security equivalent to those measures employed by the classifying Government throughout the period during which the classifying Government may maintain such classifications.
 
-#### Article V. Administration
+##### Article V. Administration
 
 1. The Netherlands-U.S. Committee for Procurement Cooperation, referred to in Article II above, will meet as agreed or at the request of either Government to review progress in implementing the MOU. They will discuss research and development, production and procurement needs of each nation and the likely areas of cooperation; agree to the basis of, and keep under review, the financial statement referred to below; and consider any other matters relevant to the MOU.
 
@@ -94,11 +116,11 @@ To the extent that any items, plans, specifications or information furnished in 
 
 3. An annual United States-Netherlands statement of the current balance, and long-term trends, of R&D cooperation and purchases between the two nations will be prepared on a basis to be mutually agreed. Such statement will take account of United States-Netherlands purchases of defense equipment and services and related offset agreements effected in the years from 1973 onwards and will be periodically reviewed.
 
-#### Article VI. Annexes
+##### Article VI. Annexes
 
 Annexes negotiated by the responsible officials and approved by the appropriate Government authorities will be incorporated in this MOU.
 
-#### Article VII. Duration
+##### Article VII. Duration
 
 1. This MOU will remain in effect for a ten-year period and will be extended for successive five-year periods, unless the Governments mutually decide otherwise.
 
@@ -106,7 +128,7 @@ Annexes negotiated by the responsible officials and approved by the appropriate 
 
 3. The Parties hereto agree that, for the purposes of this MOU, references to the Kingdom of the Netherlands shall apply only to its territory in Europe.
 
-#### Article VIII. Implementation
+##### Article VIII. Implementation
 
 This MOU will come into effect on the date of the last signature.
 

@@ -1,13 +1,35 @@
 ---
 title: "Europees Verdrag inzake het toezicht op voorwaardelijk veroordeelden of voorwaardelijk in vrijheid gestelden"
 identifier: "BWBV0004551"
-categorie: "Internationaal recht"
-publicatiedatum: 1988-01-01
-laatste_update: 1988-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004551"
+country: "nl"
+rank: "verdrag"
+publication_date: "1988-01-01"
+last_updated: "1988-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004551"
+soort: "verdrag"
+stam_id: "10004188143"
+version_id: "10004363932"
+internal_id: "C10006987311"
+label_id: "10004173454"
+dtd_version: "2.0"
+original_entry_into_force: "1988-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004551/1988-01-01/0"
+intitule_bron: "Trb.1965-55"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1965-04-13"
+intitule_in_force: "1987-10-28"
+intitule_status: "goed"
+original_publication: "Trb.1965-55"
+original_published_date: "1965-04-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1965-55"
+entry_into_force_date: "1988-01-01"
+jci_1_3: "jci1.3:c:BWBV0004551&z=1988-01-01&g=1988-01-01"
+jci_1_0: "1.0:c:BWBV0004551&g=1988-01-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1988-01-01"
 ---
-
 # Europees Verdrag inzake het toezicht op voorwaardelijk veroordeelden of voorwaardelijk in vrijheid gestelden
 
 Preambule
@@ -24,13 +46,13 @@ Zijn het volgende overeengekomen:
 
 ## TITEL I. Beginselen
 
-#### Artikel 1
+##### Artikel 1
 
 1. De Verdragsluitende Partijen verbinden zich elkaar overeenkomstig de hierna volgende bepalingen de wederzijdse rechtshulp te verlenen die nodig is voor de sociale reclassering van de in artikel 2 bedoelde delinquenten. Deze rechtshulp bestaat in het houden van toezicht op de delinquenten, welk toezicht enerzijds tot uitdrukking komt in maatregelen die een gedragsverbetering alsook de wederaanpassing van deze delinquenten aan het maatschappelijk leven kunnen vergemakkelijken en anderzijds door een waakzaam oog te houden op hun gedrag, ten einde, zo nodig, hetzij alsnog een vonnis over hen uit te kunnen spreken, hetzij een reeds eerder tegen hen gewezen vonnis ten uitvoer te kunnen leggen.
 
 2. De Verdragsluitende Partijen leggen, overeenkomstig de hiernavolgende bepalingen, de tegen de delinquent uitgesproken vrijheidsstraf of met vrijheidsberoving gepaard gaande maatregel, waarvan de toepassing was opgeschort, ten uitvoer.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Voor de toepassing van dit Verdrag wordt onder een „delinquent” verstaan hij, die op het grondgebied van een der Verdragsluitende Partijen:
 
@@ -40,15 +62,15 @@ Zijn het volgende overeengekomen:
 
 2. In de volgende artikelen wordt met „vonnis” elke gerechtelijke uitspraak bedoeld die is gedaan uit hoofde van alinea (a) en alinea (b) van het eerste lid van dit artikel.
 
-#### Artikel 3
+##### Artikel 3
 
 De in artikel 2 bedoelde uitspraken moeten kracht van gewijsde hebben en voor tenuitvoerlegging vatbaar zijn.
 
-#### Artikel 4
+##### Artikel 4
 
 Het delict dat aan een verzoek als bedoeld in artikel 5 ten grondslag ligt, moet zowel in de verzoekende Staat als in de aangezochte Staat strafbaar zijn gesteld.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De Staat die het vonnis heeft uitgesproken kan aan de Staat op het grondgebied waarvan de delinquent zijn vaste woonplaats heeft verzoeken:
 
@@ -62,11 +84,11 @@ Het delict dat aan een verzoek als bedoeld in artikel 5 ten grondslag ligt, moet
 
 3. Indien de verzoekende Staat een der in het eerste lid van dit artikel bedoelde verzoeken heeft gedaan en indien de aangezochte Staat er de voorkeur aan geeft in een bepaald geval gebruik te maken van een der andere in het eerste lid voorziene mogelijkheden, kan de aangezochte Staat weigeren gevolg te geven aan dat verzoek, en zich tegelijkertijd bereid verklaren gevolg te geven aan een door hem aan te duiden verzoek van andere strekking.
 
-#### Artikel 6
+##### Artikel 6
 
 Op verzoek van de Staat die het vonnis heeft uitgesproken belast de Staat op het grondgebied waarvan de delinquent zijn vaste woonplaats heeft zich met het toezicht, de tenuitvoerlegging dan wel de volledige toepassing, als bedoeld in het voorgaande artikel.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Aan een verzoek om toezicht, tenuitvoerlegging of volledige toepassing wordt geen gevolg gegeven:
 
@@ -92,11 +114,11 @@ Op verzoek van de Staat die het vonnis heeft uitgesproken belast de Staat op het
 
 3. Ter zake van fiscale delicten vindt toezicht of tenuitvoerlegging overeenkomstig de bepalingen van dit Verdrag alleen plaats, indien de Verdragsluitende Partijen ten aanzien van elk zodanig delict of elke categorie van delicten daartoe hebben besloten.
 
-#### Artikel 8
+##### Artikel 8
 
 Voor zover nodig houden de verzoekende Staat en de aangezochte Staat elkaar op de hoogte van alle omstandigheden die van invloed kunnen zijn op de uitvoering van de maatrgelen met betrekking tot het toezicht op het grondgebied van de aangezochte Staat of de tenuitvoerlegging van het vonnis in die Staat.
 
-#### Artikel 9
+##### Artikel 9
 
 De aangezochte Staat stelt onverwijld de verzoekende Staat op de hoogte van de stappen die zijn genomen naar aanleiding van diens verzoek.
 
@@ -104,17 +126,17 @@ In geval van gehele of gedeeltelijke weigering, deelt hij de gronden voor die be
 
 ## TITEL II. Van het toezicht
 
-#### Artikel 10
+##### Artikel 10
 
 De verzoekende Staat stelt de aangezochte Staat in kennis van de aan de delinquent opgelegde voorwaarden en zo nodig van de maatregelen van toezicht waaraan hij zich gedurende de proeftijd moet onderwerpen.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De aangezochte Staat geeft gevolg aan het verzoek van de verzoekende Staat en past zo nodig de voorgeschreven maatregelen van toezicht aan zijn eigen wetgeving aan.
 
 2. De door de aangezochte Staat toegepaste maatregelen van toezicht mogen in geen geval naar aard of duur een verzwaring betekenen van die, welke door de verzoekende Staat zijn voorgeschreven.
 
-#### Artikel 12
+##### Artikel 12
 
 Indien de aangezochte Staat erin toestemt het toezicht op zich te nemen, gaat hij als volgt te werk:
 
@@ -124,15 +146,15 @@ Indien de aangezochte Staat erin toestemt het toezicht op zich te nemen, gaat hi
 
 - 3. Hij stelt de verzoekende Staat op de hoogte van alle genomen maatregelen en van de uitvoering daarvan.
 
-#### Artikel 13
+##### Artikel 13
 
 Ingeval de delinquent aanleiding geeft tot intrekking van de voorwaardelijke opschorting van het vonnis als bedoeld in artikel 2, hetzij in verband met een vervolging of een veroordeling wegens een nieuw delict, hetzij wegens het niet nakomen van de hem opgelegde verplichtingen, worden door de aangezochte Staat de noodzakelijke gegevens onverwijld ambtshalve doorgegeven aan de verzoekende Staat.
 
-#### Artikel 14
+##### Artikel 14
 
 De aangezochte Staat verschaft aan de verzoekende Staat op diens verzoek alle noodzakelijke gegevens zodra de periode van toezicht is geëindigd.
 
-#### Artikel 15
+##### Artikel 15
 
 Alleen de verzoekende Staat is bevoegd, rekening houdend met de gegevens en opmerkingen die hem door de aangezochte Staat zijn verstrekt, te beoordelen of de delinquent al dan niet heeft voldaan aan de hem opgelegde verplichtingen, alsmede aan zijn bevindingen de gevolgen te verbinden die in zijn eigen wetgeving zijn voorzien.
 
@@ -140,53 +162,53 @@ Hij stelt de aangezochte Staat van zijn beslissing in kennis.
 
 ## TITEL III. De tenuitvoerlegging van vonnissen
 
-#### Artikel 16
+##### Artikel 16
 
 Na intrekking van de voorwaardelijke opschorting van de tenuitvoerlegging van het vonnis door de verzoekende Staat en op verzoek van deze Staat, is de aangezochte Staat bevoegd het vonnis ten uitvoer te leggen.
 
-#### Artikel 17
+##### Artikel 17
 
 De tenuitvoerlegging vindt plaats op de wijze voorzien bij de wet van de aangezochte Staat, na verificatie van de authenticiteit van het verzoek tot tenuitvoerlegging en nadat is vastgesteld dat het verzoek in overeenstemming is met de bepalingen van dit Verdrag.
 
-#### Artikel 18
+##### Artikel 18
 
 De aangezochte Staat doet te zijner tijd aan de verzoekende Staat een akte toekomen, waaruit blijkt dat het vonnis ten uitvoer is gelegd.
 
-#### Artikel 19
+##### Artikel 19
 
 De aangezochte Staat vervangt zo nodig de door de verzoekende Staat opgelegde straf door de straf of maatregel, die zijn eigen wetgeving voorziet voor een soortgelijk delict. Deze straf of maatregel dient wat de aard ervan betreft zoveel mogelijk overeen te komen met die welke is opgelegd bij het vonnis dat ten uitvoer moet worden gelegd, en mag noch het bij de wet van de aangezochte Staat gestelde maximum overtreffen, noch naar aard of duur een verzwaring betekenen van de in de verzoekende Staat opgelegde straf.
 
-#### Artikel 20
+##### Artikel 20
 
 De verzoekende Staat zelf mag geen der verzochte executiemaatregelen meer nemen, tenzij de aangezochte Staat verklaart er niet toe bereid of niet toe in staat te zijn.
 
-#### Artikel 21
+##### Artikel 21
 
 De aangezochte Staat is bevoegd tot voorwaardelijke invrijheidstelling. Het recht van gratie kan zowel door de verzoekende Staat als door de aangezochte Staat worden uitgeoefend.
 
 ## TITEL IV. Afstand van rechten ten behoeve van de aangezochte Staat
 
-#### Artikel 22
+##### Artikel 22
 
 De verzoekende Staat stelt de aangezochte Staat op de hoogte van het vonnis waarvan hij de volledige toepassing verzoekt.
 
-#### Artikel 23
+##### Artikel 23
 
 1. De aangezochte Staat past de opgelegde straf of maatregel aan zijn strafwetgeving aan als ware het vonnis wegens hetzelfde delict, begaan op zijn grondgebied, uitgesproken.
 
 2. De in de aangezochte Staat opgelegde straf mag niet zwaarder zijn dan die welke in de verzoekende Staat is opgelegd.
 
-#### Artikel 24
+##### Artikel 24
 
 De aangezochte Staat belast zich met de volledige toepassing van het aldus aangepaste vonnis als ware het een vonnis door zijn eigen rechter gewezen.
 
-#### Artikel 25
+##### Artikel 25
 
 Wanneer de aangezochte Staat een overeenkomstig de bepalingen van deze titel gedaan verzoek aanvaardt, vervalt daarmee het recht van de verzoekende Staat het vonnis ten uitvoer te leggen.
 
 ## TITEL V. Gemeenschappelijke bepalingen
 
-#### Artikel 26
+##### Artikel 26
 
 1. Elk overeenkomstig artikel 5 gedaan verzoek wordt schriftelijk ingediend.
 
@@ -206,7 +228,7 @@ Wanneer het ten uitvoer te leggen vonnis in de plaats treedt van een ander zonde
 
 4. Het verzoek tot volledige toepassing van het vonnis gaat vergezeld van de in het tweede lid van dit artikel genoemde documenten.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Het verzoek wordt door het Ministerie van Justitie van de verzoekende Staat gezonden aan het Ministerie van Justitie van de aangezochte Staat. Het antwoord wordt langs dezelfde weg verzonden.
 
@@ -216,11 +238,11 @@ Wanneer het ten uitvoer te leggen vonnis in de plaats treedt van een ander zonde
 
 4. Elke Verdragsluitende Partij kan door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte verklaring kennis geven van haar voornemen af te wijken van de regels betreffende het doorgeven van mededelingen, genoemd in het eerste en tweede lid van dit artikel.
 
-#### Artikel 28
+##### Artikel 28
 
 Indien de aangezochte Staat van oordeel is dat de door de verzoekende Staat verschafte gegevens onvoldoende zijn om hem in staat te stellen dit Verdrag toe te passen, verzoekt hij de noodzakelijke aanvullende gegevens te verstrekken. Hij kan een termijn stellen voor de toezending van die gegevens.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Behoudens de bepalingen van het tweede lid van dit artikel is de vertaling van de verzoeken, de daarbij gevoegde stukken alsmede van alle andere documenten die betrekking hebben op de toepassing van dit Verdrag niet noodzakelijk.
 
@@ -228,27 +250,27 @@ Indien de aangezochte Staat van oordeel is dat de door de verzoekende Staat vers
 
 3. Dit artikel laat onverlet de bepalingen met betrekking tot de vertaling van verzoeken en van daarbij gevoegde stukken, vervat in reeds van kracht zijnde of nog te sluiten overeenkomsten of regelingen tussen twee of meer der Verdragsluitende Partijen.
 
-#### Artikel 30
+##### Artikel 30
 
 De stukken en documenten die worden overgedragen ter uitvoering van dit Verdrag behoeven niet te zijn gelegaliseerd.
 
-#### Artikel 31
+##### Artikel 31
 
 De aangezochte Staat is bevoegd op verzoek van de verzoekende Staat, de in die Staat ontstane vervolgings- en proceskosten te innen.
 
 Int hij die kosten, dan is hij gehouden de verzoekende Staat alleen de honoraria der experts te vergoeden.
 
-#### Artikel 32
+##### Artikel 32
 
 De in de aangezochte Staat ontstane kosten van toezicht en tenuitvoerlegging worden niet vergoed.
 
 ## TITEL VI. Slotbepalingen
 
-#### Artikel 33
+##### Artikel 33
 
 Dit Verdrag laat de toepassing van bepalingen van vreemdelingenrecht onverlet.
 
-#### Artikel 34
+##### Artikel 34
 
 1. Dit Verdrag staat open voor ondertekening door de Lid-Staten van de Raad van Europa. Het wordt bekrachtigd of aanvaard. De akten van bekrachtiging of aanvaarding worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
 
@@ -256,13 +278,13 @@ Dit Verdrag laat de toepassing van bepalingen van vreemdelingenrecht onverlet.
 
 3. Ten aanzien van elke ondertekenende Staat die dit Verdrag nadien bekrachtigt of aanvaardt, treedt het in werking drie maanden na de datum waarop de akte van bekrachtiging of aanvaarding van die Staat werd nedergelegd.
 
-#### Artikel 35
+##### Artikel 35
 
 1. Na het in werking treden van dit Verdrag kan het Comité van Ministers van de Raad van Europa elke Staat die geen lid is van de Raad van Europa uitnodigen tot dit Verdrag toe te treden.
 
 2. Toetreding geschiedt door nederlegging van een akte van toetreding bij de Secretaris-Generaal van de Raad van Europa, en wordt van kracht drie maanden na datum van nederlegging van die akte.
 
-#### Artikel 36
+##### Artikel 36
 
 1. Elke Verdragsluitende Partij kan ten tijde van de ondertekening of de nederlegging van haar akte van bekrachtiging, aanvaarding of toetreding het gebied of de gebieden aangeven waarop dit Verdrag van toepassing zal zijn.
 
@@ -270,7 +292,7 @@ Dit Verdrag laat de toepassing van bepalingen van vreemdelingenrecht onverlet.
 
 3. Iedere krachtens het vorige lid afgelegde verklaring kan ten aanzien van het in die verklaring genoemde gebied, worden ingetrokken op de in artikel 39 van dit Verdrag genoemde voorwaarden.
 
-#### Artikel 37
+##### Artikel 37
 
 1. Dit Verdrag is niet van invloed op de verplichtingen, voortvloeiende uit de bepalingen van enige bestaande of nog te sluiten volkenrechtelijke overeenkomst, hetzij bilateraal of multilateraal tussen twee of meer der Verdragsluitende Partijen, inzake uitlevering of andere vormen van wederzijdse rechtshulp in strafzaken.
 
@@ -280,7 +302,7 @@ Dit Verdrag laat de toepassing van bepalingen van vreemdelingenrecht onverlet.
 
 Indien de Verdragsluitende Partijen de bepalingen van dit Verdrag niet langer toepassen in hun onderlinge betrekkingen ter zake, geven zij daarvan kennis aan de Secretaris-Generaal van de Raad van Europa.
 
-#### Artikel 38
+##### Artikel 38
 
 1. Elke Verdragsluitende Partij kan ten tijde van de ondertekening of de nederlegging van haar akte van bekrachtiging, aanvaarding of toetreding verklaren dat zij gebruik maakt van een of meer van de in de bijlage bij dit Verdrag genoemde voorbehouden.
 
@@ -290,7 +312,7 @@ Indien de Verdragsluitende Partijen de bepalingen van dit Verdrag niet langer to
 
 4. Elke Verdragsluitende Partij kan ten tijde van de ondertekening van dit Verdrag of van de nederlegging van haar akte van bekrachtiging, aanvaarding of toetreding, door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte kennisgeving verklaren dat zij van oordeel is dat bekrachtiging, aanvaarding of toetreding naar het volkenrecht de verplichting meebrengt in het interne recht de bepalingen op te nemen, die nodig zijn voor de uitvoering van dit Verdrag.
 
-#### Artikel 39
+##### Artikel 39
 
 1. Dit Verdrag blijft voor onbepaalde tijd van kracht.
 
@@ -298,7 +320,7 @@ Indien de Verdragsluitende Partijen de bepalingen van dit Verdrag niet langer to
 
 3. De opzegging wordt van kracht zes maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 40
+##### Artikel 40
 
 De Secretaris-Generaal van de Raad van Europa doet de Lid-Staten van de Raad alsmede elke Staat die tot dit Verdrag is toegetreden mededeling van:
 

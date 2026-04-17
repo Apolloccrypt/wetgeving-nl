@@ -1,13 +1,37 @@
 ---
 title: "Regeling eisen cockpitpersoneel en luchtverkeersdienstverleningspersoneel krijgsmacht"
 identifier: "BWBR0010740"
-categorie: "Milieu"
-publicatiedatum: 2014-07-01
-laatste_update: 2014-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010740"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2014-07-01"
+last_updated: "2014-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010740"
+soort: "ministeriele-regeling"
+stam_id: "5132753"
+version_id: "9201302"
+internal_id: "C12229721"
+label_id: "5108624"
+dtd_version: "2.0"
+original_entry_into_force: "1999-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010740/2014-07-01/0"
+intitule_bron: "Stcrt.1999-187"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-09-28"
+intitule_published: "1999-09-29"
+intitule_in_force: "1999-09-29"
+intitule_status: "goed"
+original_publication: "Stcrt.1999-187"
+original_signed_date: "1999-09-28"
+original_published_date: "1999-09-29"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1999-10-01"
+jci_1_3: "jci1.3:c:BWBR0010740&z=2014-07-01&g=2014-07-01"
+jci_1_0: "1.0:c:BWBR0010740&g=2014-07-01"
+citeertitel_status: "officieel"
+signed_date: "1999-09-28"
+entry_into_force: "1999-10-01"
 ---
-
 # Regeling eisen cockpitpersoneel en luchtverkeersdienstverleningspersoneel krijgsmacht
 
 Gelet op de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010690&artikel=2), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010690&artikel=4) en [5 van het Besluit cockpitpersoneel en luchtverkeersdienstverleningspersoneel krijgsmacht](https://wetten.overheid.nl/jci1.3:c:BWBR0010690&artikel=5);
@@ -16,7 +40,7 @@ Besluit:
 
 #### Paragraaf 1. Eisen inzake theoretische en praktische bekwaamheid cockpitpersoneel
 
-#### Artikel 1
+##### Artikel 1
 
 Vliegers voldoen aan de volgende eisen:
 
@@ -42,7 +66,7 @@ Vliegers voldoen aan de volgende eisen:
 
 - 5. goede bedrevenheid in het gebruik van veiligheids- en reddingsmiddelen en het uitvoeren van noodprocedures.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Personen, belast met het op afstand bedienen van onbemande luchtvaartuigen van de krijgsmacht, voldoen aan de volgende eisen:
 
@@ -68,7 +92,7 @@ Personen, belast met het op afstand bedienen van onbemande luchtvaartuigen van d
 
 - 4. het gedurende vijf vlieguren bedienen van een eenmotorig vliegtuig tot 2000 kilogram onder leiding van een instructeur.
 
-#### Artikel 2
+##### Artikel 2
 
 Overig cockpitpersoneel aan boord van militaire luchtvaartuigen voldoet aan de volgende eisen:
 
@@ -90,7 +114,7 @@ Overig cockpitpersoneel aan boord van militaire luchtvaartuigen voldoet aan de v
 
 - 2. goede bedrevenheid in het gebruik van veiligheids- en reddingsmiddelen en het uitvoeren van noodprocedures.
 
-#### Artikel 3
+##### Artikel 3
 
 1. [Artikel 1, onderdeel a, sub 2°, en onderdeel b, sub 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0010740&paragraaf=1&artikel=1&z=2014-07-01&g=2014-07-01), alsmede [artikel 2, onderdeel a, sub 1° tot en met 3°, en onderdeel b, sub 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0010740&paragraaf=1&artikel=2&z=2014-07-01&g=2014-07-01), zijn niet van toepassing ten aanzien van vliegers en boordvliegproefkundigen die zijn belast met het bedienen van luchtvaartuigen tijdens vliegproeven, mits genoemd personeel met goed gevolg een opleiding aan een testvliegschool heeft gevolgd en door de bevoegde militaire autoriteiten als testvlieger danwel boordvliegproefkundige is aangemerkt.
 
@@ -98,7 +122,7 @@ Overig cockpitpersoneel aan boord van militaire luchtvaartuigen voldoet aan de v
 
 #### Paragraaf 2. Eisen inzake theoretische en praktische bekwaamheid luchtverkeersdienstverleningspersoneel
 
-#### Artikel 4
+##### Artikel 4
 
 Personeel, belast met het geven van plaatselijke luchtverkeersleiding, voldoet aan de volgende eisen:
 
@@ -120,7 +144,7 @@ Personeel, belast met het geven van plaatselijke luchtverkeersleiding, voldoet a
 
 - 2. goede bedrevenheid in het gebruik van de radiotelefonieprocedures.
 
-#### Artikel 5
+##### Artikel 5
 
 Personeel, belast met het geven van naderingsluchtverkeersleiding, voldoet aan de volgende eisen:
 
@@ -136,7 +160,7 @@ Personeel, belast met het geven van naderingsluchtverkeersleiding, voldoet aan d
 
 - 2. goede bedrevenheid in het gebruik van de radiotelefonieprocedures.
 
-#### Artikel 6
+##### Artikel 6
 
 Personeel, belast met het geven van algemene luchtverkeersleiding, voldoet aan de volgende eisen:
 
@@ -152,7 +176,7 @@ Personeel, belast met het geven van algemene luchtverkeersleiding, voldoet aan d
 
 - 2. goede bedrevenheid in het gebruik van de radiotelefonieprocedures.
 
-#### Artikel 7
+##### Artikel 7
 
 Personeel, belast met het geven van radarnaderingsluchtverkeersleiding, voldoet aan de volgende eisen:
 
@@ -168,7 +192,7 @@ Personeel, belast met het geven van radarnaderingsluchtverkeersleiding, voldoet 
 
 - 2. goede bedrevenheid in het gebruik van de radiotelefonieprocedures.
 
-#### Artikel 8
+##### Artikel 8
 
 Personeel, belast met het geven van algemene radarluchtverkeersleiding, voldoet aan de volgende eisen:
 
@@ -186,7 +210,7 @@ Personeel, belast met het geven van algemene radarluchtverkeersleiding, voldoet 
 
 #### Paragraaf 3. Eisen inzake geestelijke en lichamelijke geschiktheid
 
-#### Artikel 9
+##### Artikel 9
 
 1. Als eisen inzake de geestelijke en lichamelijke geschiktheid van het personeel van de krijgsmacht dat is belast met het bedienen van militaire luchtvaartuigen, dan wel dat is belast met het geven van luchtverkeersdienstverlening, gelden de militaire medische luchtvaarteisen FCL 3 zoals vastgesteld door de Militaire Luchtvaart Autoriteit.
 
@@ -194,11 +218,11 @@ Personeel, belast met het geven van algemene radarluchtverkeersleiding, voldoet 
 
 #### Paragraaf 4. Slotbepalingen
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling treedt in werking met ingang van 1 oktober 1999. Indien de Staatscourant waarin zij wordt geplaatst wordt uitgegeven na 29 september 1999, treedt zij in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 oktober 1999.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze regeling wordt aangehaald als: Regeling eisen cockpitpersoneel en luchtverkeersdienstverleningspersoneel krijgsmacht.
 

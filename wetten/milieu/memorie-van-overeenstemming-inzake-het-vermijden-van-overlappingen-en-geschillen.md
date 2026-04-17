@@ -1,13 +1,38 @@
 ---
 title: "Memorie van Overeenstemming inzake het vermijden van overlappingen en geschillen met betrekking tot zeebodemgebieden"
 identifier: "BWBV0002435"
-categorie: "Milieu"
-publicatiedatum: 1991-10-24
-laatste_update: 1991-10-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002435"
+country: "nl"
+rank: "verdrag"
+publication_date: "1991-10-24"
+last_updated: "1991-10-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002435"
+soort: "verdrag"
+stam_id: "10002880763"
+version_id: "10002880862"
+internal_id: "C10006976701"
+label_id: "10002868124"
+dtd_version: "2.0"
+original_entry_into_force: "1991-10-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002435/1991-10-24/0"
+intitule_bron: "Trb.1991-62"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1991-10-02"
+intitule_published: "1991-04-23"
+intitule_in_force: "1992-03-13"
+intitule_status: "goed"
+original_publication: "Trb.1991-62"
+original_signed_date: "1991-10-02"
+original_published_date: "1991-04-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1991-62"
+entry_into_force_date: "1991-10-24"
+jci_1_3: "jci1.3:c:BWBV0002435&z=1991-10-24&g=1991-10-24"
+jci_1_0: "1.0:c:BWBV0002435&g=1991-10-24"
+citeertitel_status: "officieel"
+signed_date: "1991-10-02"
+entry_into_force: "1991-10-24"
 ---
-
 # Memorie van Overeenstemming inzake het vermijden van overlappingen en geschillen met betrekking tot zeebodemgebieden
 
 De Regeringen van het Koninkrijk België, Canada, de Bondsrepubliek Duitsland, de Republiek Italië, het Koninkrijk der Nederlanden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en de Verenigde Staten van Amerika enerzijds en de Regering van de Volksrepubliek China anderzijds, hierna te noemen de „Partijen”;
@@ -22,7 +47,7 @@ Geleid door de wens wederzijdse eerbiediging van die gebieden te waarborgen tene
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Na toewijzing door de Voorbereidende Commissie aan het lichaam - in zijn hoedanigheid van pionier-investeerder - waarvoor de Volksrepubliek China borg staat, van het in bijlage I van deze Memorie genoemde gebied zullen de Regeringen van België, Canada, Duitsland, Italië, Nederland, het Verenigd Koninkrijk en de Verenigde Staten dat gebied eerbiedigen.
 
@@ -30,25 +55,25 @@ Zijn het volgende overeengekomen:
 
 3. De in het eerste en tweede lid hierboven bedoelde verplichtingen zijn niet van toepassing op de gebieden waarvan in de toekomst door de Partijen afstand is gedaan.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Regeringen van België, Canada, Duitsland, Italië, Nederland, het Verenigd Koninkrijk en de Verenigde Staten zullen, zelf of samen met derden, niet zodanig handelen dat daardoor de registratie van het verzoek dat door de Volksrepubliek China bij de Voorbereidende Commissie is ingediend, voor enige of alle in bijlage I van deze Memorie genoemde gebieden wordt belet.
 
 2. De Volksrepubliek China zal, zelf of samen met derden, niet zodanig handelen dat daardoor de registratie van verzoeken die in de toekomst door enige of alle andere Partijen ten aanzien van enige of alle in bijlage II van deze Memorie genoemde gebieden kunnen worden ingediend, wordt belet.
 
-#### Artikel 3
+##### Artikel 3
 
 De Partijen zullen niet overgaan tot, of door optreden van hun eigen overheidsinstanties dan wel in samenwerking met derden ondersteuning bieden aan de exploratie en exploitatie van vaste minerale rijkdommen in de in artikel 1 bedoelde gebieden op een wijze die niet verenigbaar is met de in dat artikel vervatte verplichting.
 
-#### Artikel 4
+##### Artikel 4
 
 De Partijen zullen alle passende maatregelen nemen om te waarborgen dat er geen fysieke hindering plaatsvindt van elkaars werkzaamheden die verband houden met de exploratie en exploitatie van vaste minerale rijkdommen in de in artikel 1 bedoelde gebieden.
 
-#### Artikel 5
+##### Artikel 5
 
 Indien noodzakelijk zullen de Partijen overleg plegen over vraagstukken die verband houden met de tenuitvoerlegging van deze Memorie.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Deze Memorie wordt van kracht op de datum van ondertekening en blijft van kracht tenzij anders overeengekomen door de Partijen. De bijlagen van deze Memorie vormen een integrerend onderdeel van de Memorie.
 

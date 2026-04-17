@@ -1,18 +1,44 @@
 ---
 title: "Reglement van Orde van de Tweede Kamer der Staten-Generaal"
 identifier: "BWBR0044975"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2024-11-21
-laatste_update: 2024-11-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044975"
+country: "nl"
+rank: "reglement"
+publication_date: "2024-11-21"
+last_updated: "2024-11-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044975"
+soort: "reglement"
+stam_id: "15904963"
+version_id: "27646692"
+internal_id: "C39006231"
+label_id: "15842794"
+dtd_version: "2.0"
+original_entry_into_force: "2021-03-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044975/2024-11-21/0"
+intitule_bron: "Kst.2021-35322"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-02-25"
+intitule_published: "2021-03-09"
+intitule_in_force: "2021-03-09"
+intitule_status: "goed"
+original_publication: "Kst.2021-35322"
+original_signed_date: "2021-02-25"
+original_published_date: "2021-03-09"
+original_effect: "nieuwe-regeling"
+original_dossier: "35322"
+entry_into_force_date: "2021-03-31"
+entry_into_force_dossier: "35322"
+jci_1_3: "jci1.3:c:BWBR0044975&z=2024-11-21&g=2024-11-21"
+jci_1_0: "1.0:c:BWBR0044975&g=2024-11-21"
+citeertitel_status: "redactioneel"
+signed_date: "2021-02-25"
+entry_into_force: "2021-03-31"
 ---
-
 # Reglement van Orde van de Tweede Kamer der Staten-Generaal
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1.1. Begripsbepalingen
+##### Artikel 1.1. Begripsbepalingen
 
 In dit Reglement en de daarop berustende regelingen wordt, tenzij anders bepaald, verstaan onder:
 
@@ -42,7 +68,7 @@ In dit Reglement en de daarop berustende regelingen wordt, tenzij anders bepaald
 
 ### Hoofdstuk 2. Begin en einde van het lidmaatschap
 
-#### Artikel 2.1. Toelating leden
+##### Artikel 2.1. Toelating leden
 
 1. De Kamer beslist met inachtneming van de bij de wet gestelde regels of een nieuwbenoemd lid als lid van de Kamer wordt toegelaten.
 
@@ -52,7 +78,7 @@ In dit Reglement en de daarop berustende regelingen wordt, tenzij anders bepaald
 
 4. De Kamer beslist, voor zover mogelijk, in oude samenstelling over de toelating van leden die meteen na verkiezingen voor de Kamer zijn benoemd.
 
-#### Artikel 2.2. Verlies lidmaatschap
+##### Artikel 2.2. Verlies lidmaatschap
 
 1. De Voorzitter waarschuwt een lid schriftelijk, indien hij van oordeel is dat dit lid een van de vereisten voor het lidmaatschap niet meer bezit of een met het lidmaatschap onverenigbare betrekking vervult, en het lid de Kamer daarvan kennis had moeten geven.
 
@@ -66,7 +92,7 @@ In dit Reglement en de daarop berustende regelingen wordt, tenzij anders bepaald
 
 #### § 3.1. De Voorzitter
 
-#### Artikel 3.1. Benoeming Voorzitter
+##### Artikel 3.1. Benoeming Voorzitter
 
 1. In de laatste vergadering van elke zitting stelt de Kamer in oude samenstelling een ontwerp vast voor een profielschets van de nieuw te benoemen Voorzitter.
 
@@ -78,7 +104,7 @@ In dit Reglement en de daarop berustende regelingen wordt, tenzij anders bepaald
 
 5. Bij het tussentijds openvallen van het voorzitterschap stelt de Kamer zo spoedig mogelijk de profielschets van de nieuw te benoemen Voorzitter vast, en wordt vervolgens onder toepassing van het derde en vierde lid een Voorzitter benoemd.
 
-#### Artikel 3.2. Taak Voorzitter
+##### Artikel 3.2. Taak Voorzitter
 
 De Voorzitter is belast met:
 
@@ -94,7 +120,7 @@ De Voorzitter is belast met:
 
 - f. de overige taken die op grond van dit Reglement of de wet aan hem zijn toegedeeld.
 
-#### Artikel 3.3. Tijdelijk Voorzitter
+##### Artikel 3.3. Tijdelijk Voorzitter
 
 1. Zolang in een nieuwe zitting geen Voorzitter is benoemd, treedt als tijdelijk Voorzitter op:
 
@@ -108,7 +134,7 @@ De Voorzitter is belast met:
 
 3. De tijdelijk Voorzitter heeft dezelfde taken en bevoegdheden als een Voorzitter.
 
-#### Artikel 3.4. Waarnemend Voorzitter
+##### Artikel 3.4. Waarnemend Voorzitter
 
 1. Indien de Voorzitter niet beschikbaar is, wordt het voorzitterschap waargenomen door een van de Ondervoorzitters overeenkomstig de rangorde, bedoeld in [artikel 3.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2024-11-21&g=2024-11-21).
 
@@ -122,7 +148,7 @@ De Voorzitter is belast met:
 
 #### § 3.2. De Ondervoorzitters
 
-#### Artikel 3.5. Ondervoorzitters
+##### Artikel 3.5. Ondervoorzitters
 
 1. De Kamer benoemt na elke voorzittersbenoeming een door haar te bepalen aantal Ondervoorzitters, en stelt daarbij hun onderlinge rangorde vast.
 
@@ -130,7 +156,7 @@ De Voorzitter is belast met:
 
 #### § 3.3. Het Presidium
 
-#### Artikel 3.6. Presidium
+##### Artikel 3.6. Presidium
 
 1. De Voorzitter en de Ondervoorzitters vormen samen het Presidium.
 
@@ -146,7 +172,7 @@ De Voorzitter is belast met:
 
 ### Hoofdstuk 4. De raming
 
-#### Artikel 4.1. Raming
+##### Artikel 4.1. Raming
 
 1. Het Presidium maakt jaarlijks een ontwerp op voor de raming van de in het volgende jaar voor de Kamer benodigde uitgaven en ontvangsten en zendt deze tijdig aan de Kamer en aan de voor de begroting van de Staten-Generaal verantwoordelijke minister.
 
@@ -154,7 +180,7 @@ De Voorzitter is belast met:
 
 ### Hoofdstuk 5. De fracties en groepen
 
-#### Artikel 5.1. Fracties
+##### Artikel 5.1. Fracties
 
 1. De leden, die door het centraal stembureau op dezelfde lijst verkozen zijn verklaard, vormen bij aanvang van een zitting één fractie. Indien onder een lijstnummer slechts één lid is verkozen, dan wordt dit lid als een afzonderlijke fractie beschouwd.
 
@@ -168,11 +194,11 @@ De Voorzitter is belast met:
 
 4. Een fractie deelt de samenstelling van haar bestuur, en elke wijziging in haar samenstelling en die van haar bestuur, mee aan de Voorzitter.
 
-#### Artikel 5.2. Groepen
+##### Artikel 5.2. Groepen
 
 Indien leden anders dan als gevolg van een splitsing als bedoeld in [artikel 5.1, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=5&artikel=5.1&z=2024-11-21&g=2024-11-21), afgescheiden zijn van een fractie, worden zij ieder afzonderlijk, of twee of meer leden gezamenlijk als zij dit meedelen aan de Voorzitter, beschouwd als een groep.
 
-#### Artikel 5.3. Financiële bijdrage
+##### Artikel 5.3. Financiële bijdrage
 
 1. Bij afzonderlijke regeling, vast te stellen door de Kamer op voorstel van het Presidium, worden regels gesteld voor de toekenning en het beheer van een financiële bijdrage aan fracties en groepen ten behoeve van hun werkzaamheden.
 
@@ -188,13 +214,13 @@ Indien leden anders dan als gevolg van een splitsing als bedoeld in [artikel 5.1
 
 #### § 6.1. De Griffier
 
-#### Artikel 6.1. Rechtspositie Griffier
+##### Artikel 6.1. Rechtspositie Griffier
 
 1. De Kamer beslist over het aangaan en beëindigen van het dienstverband van de Griffier.
 
 2. Het Presidium is belast met het uitoefenen van de overige rechtspositionele bevoegdheden ten aanzien van de Griffier.
 
-#### Artikel 6.2. Taken Griffier
+##### Artikel 6.2. Taken Griffier
 
 1. De Griffier heeft de leiding over de ambtelijke organisatie. Het Presidium oefent hierop toezicht uit.
 
@@ -220,13 +246,13 @@ Indien leden anders dan als gevolg van een splitsing als bedoeld in [artikel 5.1
 
 #### § 6.2. De overige ambtenaren
 
-#### Artikel 6.3. Directeuren
+##### Artikel 6.3. Directeuren
 
 1. Het Presidium is belast met het aangaan en beëindigen van het dienstverband van een of meer directeuren.
 
 2. De Griffier is belast met het uitoefenen van de overige rechtspositionele bevoegdheden ten aanzien van de directeuren.
 
-#### Artikel 6.4. Overige ambtenaren
+##### Artikel 6.4. Overige ambtenaren
 
 De Griffier is belast met het aangaan en beëindigen van het dienstverband van de overige ambtenaren, en met het uitoefenen van de overige rechtspositionele bevoegdheden ten aanzien van hen.
 
@@ -234,13 +260,13 @@ De Griffier is belast met het aangaan en beëindigen van het dienstverband van d
 
 #### § 7.1. Soorten commissies
 
-#### Artikel 7.1. Vaste commissies
+##### Artikel 7.1. Vaste commissies
 
 1. Er is een vaste commissie voor elk ministerie, met uitzondering van het ministerie van Algemene Zaken. Er zijn ook vaste commissies voor Digitale Zaken, voor Europese Zaken en voor Koninkrijksrelaties.
 
 2. De Kamer kan verder vaste commissies instellen voor het taakgebied van een minister die niet is belast met de leiding van een ministerie, of voor dat van een staatssecretaris. Deze commissies worden ingesteld voor de duur van een zitting.
 
-#### Artikel 7.2. Tijdelijke commissies
+##### Artikel 7.2. Tijdelijke commissies
 
 1. De Kamer kan tijdelijke commissies instellen voor specifieke onderwerpen.
 
@@ -252,11 +278,11 @@ De Griffier is belast met het aangaan en beëindigen van het dienstverband van d
 
 3. De in het tweede lid, onder b, bedoelde termijn kan op verzoek van de commissie door de Kamer worden verlengd.
 
-#### Artikel 7.3. Enquêtecommissies
+##### Artikel 7.3. Enquêtecommissies
 
 De Kamer kan een enquêtecommissie instellen voor het uitvoeren van een parlementaire enquête.
 
-#### Artikel 7.4. Commissie voor de Rijksuitgaven
+##### Artikel 7.4. Commissie voor de Rijksuitgaven
 
 1. Er is een commissie voor de Rijksuitgaven.
 
@@ -270,7 +296,7 @@ De Kamer kan een enquêtecommissie instellen voor het uitvoeren van een parlemen
 
 4. De Kamer besluit slechts over een voorstel om de Algemene Rekenkamer te verzoeken een onderzoek in te stellen, nadat advies bij de commissie is ingewonnen.
 
-#### Artikel 7.5. Commissie voor de Inlichtingen- en Veiligheidsdiensten
+##### Artikel 7.5. Commissie voor de Inlichtingen- en Veiligheidsdiensten
 
 1. Er is een commissie voor de Inlichtingen- en Veiligheidsdiensten.
 
@@ -280,7 +306,7 @@ De Kamer kan een enquêtecommissie instellen voor het uitvoeren van een parlemen
 
 4. Indien een lid van de commissie tijdelijk tevens minister is, wordt dit lid gedurende die periode vervangen door een lid dat zijn fractie daartoe voor de duur van die periode uit haar midden aanwijst. Indien alle leden van de fractie tijdelijk tevens minister zijn, is gedurende die periode geen van hen lid van de commissie.
 
-#### Artikel 7.6. Commissie voor het onderzoek van de Geloofsbrieven
+##### Artikel 7.6. Commissie voor het onderzoek van de Geloofsbrieven
 
 1. Er is een commissie voor het onderzoek van de Geloofsbrieven.
 
@@ -288,7 +314,7 @@ De Kamer kan een enquêtecommissie instellen voor het uitvoeren van een parlemen
 
 3. De taak, bedoeld in het tweede lid, strekt zich uit over de verkiezing en toelating van de leden van de Tweede Kamer, en van de in Nederland gekozen leden van het Europees Parlement.
 
-#### Artikel 7.7. Commissie voor de Verzoekschriften en de Burgerinitiatieven
+##### Artikel 7.7. Commissie voor de Verzoekschriften en de Burgerinitiatieven
 
 1. Er is een commissie voor de Verzoekschriften en de Burgerinitiatieven.
 
@@ -306,7 +332,7 @@ De Kamer kan een enquêtecommissie instellen voor het uitvoeren van een parlemen
 
 8. Bij afzonderlijke regeling, vast te stellen door de Kamer, wordt de werkwijze van de commissie nader geregeld.
 
-#### Artikel 7.8. Commissie voor de Werkwijze
+##### Artikel 7.8. Commissie voor de Werkwijze
 
 1. Er is een commissie voor de Werkwijze.
 
@@ -314,11 +340,11 @@ De Kamer kan een enquêtecommissie instellen voor het uitvoeren van een parlemen
 
 3. De commissie brengt aan de Kamer verslag uit over de daartoe aan haar doorgeleide voorstellen tot wijziging van dit Reglement.
 
-#### Artikel 7.9. Commissies van advies
+##### Artikel 7.9. Commissies van advies
 
 Het Presidium kan ten behoeve van zijn werkzaamheden commissies van advies instellen.
 
-#### Artikel 7.10. Gemengde commissie van beroep voor de Dienst Verslag en Redactie
+##### Artikel 7.10. Gemengde commissie van beroep voor de Dienst Verslag en Redactie
 
 1. In de door beide Kamers der Staten-Generaal vast te stellen regeling, bedoeld in [artikel 15.11](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=15&paragraaf=15.3&artikel=15.11&z=2024-11-21&g=2024-11-21), wordt een gemengde commissie van beroep voor de Dienst Verslag en Redactie ingesteld.
 
@@ -328,7 +354,7 @@ Het Presidium kan ten behoeve van zijn werkzaamheden commissies van advies inste
 
 #### § 7.2.1. De commissieleden
 
-#### Artikel 7.11. Commissieleden
+##### Artikel 7.11. Commissieleden
 
 1. De Voorzitter bepaalt uit hoeveel leden een commissie bestaat. De Kamer kan anders besluiten.
 
@@ -342,7 +368,7 @@ Het Presidium kan ten behoeve van zijn werkzaamheden commissies van advies inste
 
 #### § 7.2.1. De commissieleden
 
-#### Artikel 7.12. Benoeming commissievoorzitter en -ondervoorzitter
+##### Artikel 7.12. Benoeming commissievoorzitter en -ondervoorzitter
 
 1. Een nieuw ingestelde commissie benoemt in haar eerste vergadering uit haar midden een commissievoorzitter en een commissieondervoorzitter. De eerste vergadering vindt plaats onder leiding van de Voorzitter.
 
@@ -352,7 +378,7 @@ Het Presidium kan ten behoeve van zijn werkzaamheden commissies van advies inste
 
 4. Elke benoeming van een commissievoorzitter of commissieondervoorzitter wordt meegedeeld aan de Kamer.
 
-#### Artikel 7.13. Taken en bevoegdheden commissievoorzitter
+##### Artikel 7.13. Taken en bevoegdheden commissievoorzitter
 
 1. Een commissievoorzitter is belast met de volgende taken:
 
@@ -372,7 +398,7 @@ Het Presidium kan ten behoeve van zijn werkzaamheden commissies van advies inste
 
 3. Een commissievoorzitter heeft tijdens een commissievergadering dezelfde bevoegdheden als de Voorzitter tijdens een vergadering van de Kamer.
 
-#### Artikel 7.14. Waarneming commissievoorzitterschap
+##### Artikel 7.14. Waarneming commissievoorzitterschap
 
 1. Indien de commissievoorzitter niet beschikbaar is, wordt het commissievoorzitterschap waargenomen door:
 
@@ -384,7 +410,7 @@ Het Presidium kan ten behoeve van zijn werkzaamheden commissies van advies inste
 
 #### § 7.2.3. De ondersteuning
 
-#### Artikel 7.15. Ondersteuning commissie
+##### Artikel 7.15. Ondersteuning commissie
 
 1. Elke commissie wordt bijgestaan door een door de Griffier aangewezen plaatsvervangende griffier, de commissiegriffier.
 
@@ -392,13 +418,13 @@ Het Presidium kan ten behoeve van zijn werkzaamheden commissies van advies inste
 
 #### § 7.3. De vergaderingen
 
-#### Artikel 7.16. Tijdstippen vergaderingen
+##### Artikel 7.16. Tijdstippen vergaderingen
 
 1. Een commissie komt op de door haar te bepalen tijdstippen bijeen in een vergadering. Indien de commissie geen tijdstippen heeft bepaald, dan bepaalt haar commissievoorzitter deze.
 
 2. De commissievoorzitter roept de commissie in ieder geval binnen een redelijke termijn bijeen in een vergadering, indien de regering of een vierde van haar leden dit onder opgave van redenen verzoekt.
 
-#### Artikel 7.17. Procedurevergadering
+##### Artikel 7.17. Procedurevergadering
 
 1. Een commissie komt regelmatig bijeen in een procedurevergadering om te besluiten over de wijze van behandeling van de door haar ontvangen stukken en over haar overige werkzaamheden.
 
@@ -406,7 +432,7 @@ Het Presidium kan ten behoeve van zijn werkzaamheden commissies van advies inste
 
 3. De in de vergadering genomen besluiten worden openbaar gemaakt, tenzij zij zijn genomen in een besloten deel van de vergadering en de openbaarmaking ongewenst is.
 
-#### Artikel 7.18. Bijwonen vergaderingen
+##### Artikel 7.18. Bijwonen vergaderingen
 
 1. De leden en de plaatsvervangende leden van een commissie kunnen alle vergaderingen van hun commissie bijwonen.
 
@@ -418,7 +444,7 @@ Het Presidium kan ten behoeve van zijn werkzaamheden commissies van advies inste
 
 5. Indien een commissievoorzitter onder overeenkomstige toepassing van [artikel 8.18](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.2&sub-paragraaf=8.2.2&artikel=8.18&z=2024-11-21&g=2024-11-21) een lid uitsluit van het verdere bijwonen van een commissievergadering, dan geldt deze uitsluiting tevens voor de overige vergaderingen van de betrokken commissie op de dag van de uitsluiting.
 
-#### Artikel 7.19. Openbaarheid vergaderingen
+##### Artikel 7.19. Openbaarheid vergaderingen
 
 1. De vergaderingen van de commissies zijn openbaar.
 
@@ -432,7 +458,7 @@ Het Presidium kan ten behoeve van zijn werkzaamheden commissies van advies inste
 
 #### § 7.4. De besluitvorming
 
-#### Artikel 7.20. Besluitvorming
+##### Artikel 7.20. Besluitvorming
 
 1. Slechts de leden van een commissie nemen deel aan haar besluitvorming. Indien een lid niet beschikbaar is, kan een plaatsvervangend lid van zijn fractie of groep zijn bevoegdheden uitoefenen. Een plaatsvervangend lid kan de bevoegdheden voor ten hoogste één lid van de commissie uitoefenen.
 
@@ -442,7 +468,7 @@ Het Presidium kan ten behoeve van zijn werkzaamheden commissies van advies inste
 
 #### § 7.4. De besluitvorming
 
-#### Artikel 7.21. Behandeling stukken
+##### Artikel 7.21. Behandeling stukken
 
 1. Door de Kamer ontvangen stukken worden doorgeleid naar de meest betrokken commissie.
 
@@ -452,7 +478,7 @@ Het Presidium kan ten behoeve van zijn werkzaamheden commissies van advies inste
 
 #### § 7.5. De behandeling van stukken
 
-#### Artikel 7.22. Verslag over een ontvangen stuk
+##### Artikel 7.22. Verslag over een ontvangen stuk
 
 1. Een commissie brengt aan de Kamer verslag uit over een door haar ontvangen stuk, indien dit Reglement dat vereist of de commissie dit om een andere reden wenselijk acht.
 
@@ -460,13 +486,13 @@ Het Presidium kan ten behoeve van zijn werkzaamheden commissies van advies inste
 
 3. De Kamer kan besluiten dat een commissie geen door het Reglement vereist verslag hoeft uit te brengen over stukken die naar het oordeel van de commissie niet in het openbaar kunnen worden behandeld.
 
-#### Artikel 7.23. Overige verslagen
+##### Artikel 7.23. Overige verslagen
 
 1. Een commissie brengt aan de Kamer verslag uit over elk door haar gehouden openbaar mondeling en schriftelijk overleg met een minister.
 
 2. Een commissie kan ook verslag uitbrengen over andere van haar activiteiten.
 
-#### Artikel 7.24. Vaststelling verslag
+##### Artikel 7.24. Vaststelling verslag
 
 1. Een commissiegriffier is verantwoordelijk voor het opstellen van de verslagen van zijn commissie.
 
@@ -480,7 +506,7 @@ Het Presidium kan ten behoeve van zijn werkzaamheden commissies van advies inste
 
 #### § 7.7.1. Algemeen
 
-#### Artikel 7.25. Bevoegdheden commissies
+##### Artikel 7.25. Bevoegdheden commissies
 
 Voor een goede vervulling van haar taken is een commissie in ieder geval bevoegd:
 
@@ -508,7 +534,7 @@ Voor een goede vervulling van haar taken is een commissie in ieder geval bevoegd
 
 #### § 7.7.1. Algemeen
 
-#### Artikel 7.26. Vormen van mondeling overleg
+##### Artikel 7.26. Vormen van mondeling overleg
 
 Het mondeling overleg van een commissie met een minister kan plaatshebben in de vorm van:
 
@@ -518,7 +544,7 @@ Het mondeling overleg van een commissie met een minister kan plaatshebben in de 
 
 - c. een notaoverleg, indien het overleg betrekking heeft op een in handen van de commissie gestelde initiatiefnota of een ander stuk waarover de commissie dit overleg wenst te houden.
 
-#### Artikel 7.27. Datum en tijdstip
+##### Artikel 7.27. Datum en tijdstip
 
 1. Een commissie beslist over de datum en het tijdstip van een door haar te houden commissiedebat.
 
@@ -526,23 +552,23 @@ Het mondeling overleg van een commissie met een minister kan plaatshebben in de 
 
 3. Er vindt steeds hooguit één wetgevingsoverleg of notaoverleg gelijktijdig plaats met een vergadering van de Kamer. Op overige tijdstippen vinden steeds hooguit twee wetgevingsoverleggen of notaoverleggen gelijktijdig plaats.
 
-#### Artikel 7.28. Maximumspreektijden
+##### Artikel 7.28. Maximumspreektijden
 
 1. Een commissie kan bij een commissiedebat en notaoverleg besluiten tot het laten gelden van maximumspreektijden.
 
 2. Bij een wetgevingsoverleg gelden geen maximumspreektijden. Een commissie kan wel besluiten dat de leden die aan het wetgevingsoverleg willen deelnemen de door hen gewenste spreektijd voorafgaand opgeven.
 
-#### Artikel 7.29. Inlichtingen door rijksambtenaren
+##### Artikel 7.29. Inlichtingen door rijksambtenaren
 
 In een commissiedebat, wetgevingsoverleg en notaoverleg kunnen met instemming van de verantwoordelijke minister inlichtingen worden verschaft door daartoe door de minister aangewezen rijksambtenaren.
 
-#### Artikel 7.30. Moties
+##### Artikel 7.30. Moties
 
 1. Tijdens een wetgevingsoverleg en notaoverleg kunnen de leden moties indienen. De [artikelen 8.20](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.2&sub-paragraaf=8.2.3&artikel=8.20&z=2024-11-21&g=2024-11-21) en [8.21](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.2&sub-paragraaf=8.2.3&artikel=8.21&z=2024-11-21&g=2024-11-21) zijn van overeenkomstige toepassing op de moties.
 
 2. Tijdens een commissiedebat kunnen geen moties worden ingediend.
 
-#### Artikel 7.31. Beraadslaging Kamer na commissiedebat of schriftelijk overleg (tweeminutendebat)
+##### Artikel 7.31. Beraadslaging Kamer na commissiedebat of schriftelijk overleg (tweeminutendebat)
 
 1. De Kamer beraadslaagt slechts over een verslag van een commissiedebat of schriftelijk overleg, indien een lid dat heeft deelgenomen aan het debat of overleg een motie over het daarin besproken onderwerp wenst in te dienen. Bij een commissiedebat kan een lid dit slechts aankondigen na de eerste beantwoording door de minister in het debat.
 
@@ -554,23 +580,23 @@ In een commissiedebat, wetgevingsoverleg en notaoverleg kunnen met instemming va
 
 #### § 7.7.3. Bijzonderheden overige bevoegdheden
 
-#### Artikel 7.32. Rondetafelgesprek
+##### Artikel 7.32. Rondetafelgesprek
 
 Indien een commissie besluit een rondetafelgesprek te houden, wisselt zij daarin met genodigden van gedachten over een vooraf door haar vast te stellen onderwerp.
 
-#### Artikel 7.33. Hoorzitting
+##### Artikel 7.33. Hoorzitting
 
 1. Indien een commissie besluit een hoorzitting te houden, bevraagt zij daarin genodigden over een vooraf door haar vast te stellen onderwerp.
 
 2. De commissie kan voorafgaand in een procedurevergadering besluiten dat tijdens de hoorzitting de door een lid gestelde vragen, met inbegrip van vervolgvragen, steeds meteen kunnen worden beantwoord door de genodigde aan wie zij zijn gericht.
 
-#### Artikel 7.34. Uitnodiging rijksambtenaren
+##### Artikel 7.34. Uitnodiging rijksambtenaren
 
 1. Indien een commissie rijksambtenaren wil uitnodigen voor een rondetafelgesprek, hoorzitting of technische briefing, dan doet zij dit door tussenkomst van de voor hen verantwoordelijke minister.
 
 2. De inspecteur-generaal van een rijksinspectie wordt in ieder geval uitgenodigd voor een rondetafelgesprek, hoorzitting of technische briefing, indien ten minste vijftig leden schriftelijk aan een commissie te kennen geven dit te wensen.
 
-#### Artikel 7.35. Verzoek om voorlichting of advies
+##### Artikel 7.35. Verzoek om voorlichting of advies
 
 1. Ieder lid van de Kamer kan aan een commissie een schriftelijk voorstel richten om:
 
@@ -584,7 +610,7 @@ Indien een commissie besluit een rondetafelgesprek te houden, wisselt zij daarin
 
 4. Indien de Kamer een motie aanneemt die strekt tot een verzoek als bedoeld in het eerste lid, dan zijn het tweede en derde lid van overeenkomstige toepassing.
 
-#### Artikel 7.36. Benoeming rapporteur
+##### Artikel 7.36. Benoeming rapporteur
 
 1. Een commissie kan een of meer leden benoemen tot rapporteur over:
 
@@ -598,7 +624,7 @@ Indien een commissie besluit een rondetafelgesprek te houden, wisselt zij daarin
 
 3. Het Presidium bericht de Kamer jaarlijks over de in dat jaar lopende en afgeronde rapporteurschappen.
 
-#### Artikel 7.37. Aanwijzing groot project
+##### Artikel 7.37. Aanwijzing groot project
 
 1. Ieder lid van de Kamer kan een commissie verzoeken de Kamer voor te stellen een bepaald project aan te wijzen als groot project dat onder bijzondere parlementaire controle staat.
 
@@ -610,7 +636,7 @@ Indien een commissie besluit een rondetafelgesprek te houden, wisselt zij daarin
 
 #### § 8.1.1. Het begin en einde van de vergadering
 
-#### Artikel 8.1. Bijeenroeping
+##### Artikel 8.1. Bijeenroeping
 
 1. De Voorzitter roept de Kamer bijeen zo vaak als hij dit nodig acht.
 
@@ -622,23 +648,23 @@ Indien een commissie besluit een rondetafelgesprek te houden, wisselt zij daarin
 
 5. De leden worden voor elke vergadering tijdig bijeengeroepen. De te behandelen onderwerpen worden daarbij vermeld.
 
-#### Artikel 8.2. Presentielijst
+##### Artikel 8.2. Presentielijst
 
 Voor het tijdstip van bijeenroeping meldt ieder aanwezig lid zijn aanwezigheid, zodat een presentielijst kan worden opgesteld. Leden die later aankomen melden hun aanwezigheid bij aankomst.
 
-#### Artikel 8.3. Opening vergadering bij quorum
+##### Artikel 8.3. Opening vergadering bij quorum
 
 1. De Voorzitter opent de vergadering, indien op het tijdstip van bijeenroeping uit de presentielijst blijkt dat meer dan de helft van het aantal zitting hebbende leden hun aanwezigheid hebben gemeld.
 
 2. Indien het vereiste aantal leden zijn aanwezigheid niet heeft gemeld, opent de Voorzitter een bijeenkomst waarin hij de namen van de afwezige leden kan laten oplezen en kennis kan geven van ingekomen stukken. Daarna stelt hij de vergadering uit tot een later tijdstip.
 
-#### Artikel 8.4. Schorsing of sluiting van de vergadering
+##### Artikel 8.4. Schorsing of sluiting van de vergadering
 
 De Voorzitter schorst of sluit de vergadering, indien hij dit met het oog op het verloop van de werkzaamheden of voor het handhaven van de orde wenselijk acht.
 
 #### § 8.1.2. De vergaderzaal
 
-#### Artikel 8.5. Zitplaatsen
+##### Artikel 8.5. Zitplaatsen
 
 1. Ieder lid heeft een voor hem bestemde zitplaats in de vergaderzaal van de Kamer. Het Presidium wijst deze zitplaatsen aan. Het Presidium kan ook aan een fractie of groep een bepaalde groep zitplaatsen aanwijzen en de verdeling daarvan aan de fractie of groep overlaten.
 
@@ -660,13 +686,13 @@ De Voorzitter schorst of sluit de vergadering, indien hij dit met het oog op het
 
 6. Indien de Voorzitter het verzoekt, neemt iedereen zijn zitplaats in.
 
-#### Artikel 8.6. Spreekplaats
+##### Artikel 8.6. Spreekplaats
 
 Ieder lid spreekt staande van de spreekplaats in de vergaderzaal, tenzij de Voorzitter anders toestaat.
 
 #### § 8.1.3. De organisatie van de werkzaamheden
 
-#### Artikel 8.7. Ingekomen stukken
+##### Artikel 8.7. Ingekomen stukken
 
 1. Gedurende elke vergadering ligt in de vergaderzaal op de tafel van de Griffier een lijst waarin alle sinds de vorige vergadering ingekomen stukken worden opgenomen.
 
@@ -674,7 +700,7 @@ Ieder lid spreekt staande van de spreekplaats in de vergaderzaal, tenzij de Voor
 
 3. De Voorzitter kan besluiten ongetekende, onbegrijpelijke of beledigende stukken niet op te nemen in de lijst.
 
-#### Artikel 8.8. Regeling van werkzaamheden
+##### Artikel 8.8. Regeling van werkzaamheden
 
 1. De Kamer regelt haar werkzaamheden op voorstel van de Voorzitter of een lid.
 
@@ -690,7 +716,7 @@ Ieder lid spreekt staande van de spreekplaats in de vergaderzaal, tenzij de Voor
 
 #### § 8.2.1. Spreken in de vergadering
 
-#### Artikel 8.9. Spreken in de vergadering
+##### Artikel 8.9. Spreken in de vergadering
 
 1. In de vergadering voert een ieder slechts het woord na het aan de Voorzitter gevraagd en van hem verkregen te hebben.
 
@@ -706,7 +732,7 @@ Ieder lid spreekt staande van de spreekplaats in de vergaderzaal, tenzij de Voor
 
 7. Indien de Voorzitter het woord wil voeren over een onderwerp op een andere wijze dan nodig is voor de uitvoering van zijn voorzitterstaak, dan verlaat hij de voor hem bestemde zitplaats. Hij neemt die niet meer in zolang het onderwerp aan de orde is.
 
-#### Artikel 8.10. Persoonlijk feit of voorstel van orde
+##### Artikel 8.10. Persoonlijk feit of voorstel van orde
 
 1. De volgorde van de sprekers kan worden verbroken, indien een lid het woord vraagt over een persoonlijk feit of de orde.
 
@@ -714,17 +740,17 @@ Ieder lid spreekt staande van de spreekplaats in de vergaderzaal, tenzij de Voor
 
 3. Een voorstel van orde kan door de Voorzitter of een lid worden gedaan.
 
-#### Artikel 8.11. Interrupties
+##### Artikel 8.11. Interrupties
 
 De Voorzitter kan interrupties toelaten. Deze moeten bestaan uit korte opmerkingen of vragen, zonder inleiding.
 
-#### Artikel 8.12. Spreektermijnen
+##### Artikel 8.12. Spreektermijnen
 
 1. Tijdens de beraadslaging voeren de leden in ten hoogste twee termijnen het woord over hetzelfde onderwerp. De Kamer kan toestemming geven hiervan af te wijken.
 
 2. Indien een lid in een vergadering niet in de eerste termijn over een onderwerp het woord heeft gevoerd, kan hij daarna slechts in die vergadering aan de beraadslaging over het onderwerp deelnemen als de Kamer daarvoor toestemming geeft.
 
-#### Artikel 8.13. Maximumspreektijden
+##### Artikel 8.13. Maximumspreektijden
 
 1. De Kamer kan voor de beraadslaging over een onderwerp maximumspreektijden vaststellen per fractie en groep met inachtneming van de omvang van de fracties en groepen, voor de ministers en voor overige deelnemers.
 
@@ -734,17 +760,17 @@ De Voorzitter kan interrupties toelaten. Deze moeten bestaan uit korte opmerking
 
 #### § 8.2.2. Gedrag in de vergadering
 
-#### Artikel 8.14. Gedrag in de vergadering
+##### Artikel 8.14. Gedrag in de vergadering
 
 Ieder lid gedraagt zich in de vergadering op een wijze die getuigt van onderling respect, en die geen afbreuk doet aan de waardigheid van de Kamer.
 
-#### Artikel 8.15. Bij onderwerp blijven
+##### Artikel 8.15. Bij onderwerp blijven
 
 1. Iedere spreker blijft bij het onderwerp waarover wordt beraadslaagd.
 
 2. Indien een spreker afwijkt van het onderwerp, roept de Voorzitter hem tot de behandeling van het onderwerp terug.
 
-#### Artikel 8.16. (Waarschuwing voor) ongeoorloofd gedrag
+##### Artikel 8.16. (Waarschuwing voor) ongeoorloofd gedrag
 
 1. Tijdens de vergadering onthoudt een ieder zich van:
 
@@ -762,7 +788,7 @@ Ieder lid gedraagt zich in de vergadering op een wijze die getuigt van onderling
 
 2. Indien een spreker hieraan niet voldoet, waarschuwt de Voorzitter hem en stelt hem in de gelegenheid de woorden terug te nemen die tot de waarschuwing aanleiding hebben gegeven, of terug te komen van het gedrag dat tot de waarschuwing aanleiding gaf.
 
-#### Artikel 8.17. Ontneming van het woord
+##### Artikel 8.17. Ontneming van het woord
 
 1. De Voorzitter kan een spreker het woord ontnemen, indien deze spreker:
 
@@ -772,17 +798,17 @@ Ieder lid gedraagt zich in de vergadering op een wijze die getuigt van onderling
 
 2. Een lid dat het woord is ontnomen, mag in de betrokken vergadering niet meer aan de beraadslaging over het in behandeling zijnde onderwerp deelnemen.
 
-#### Artikel 8.18. Uitsluiting van de vergadering
+##### Artikel 8.18. Uitsluiting van de vergadering
 
 De Voorzitter kan een spreker op wie [artikel 8.17](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.2&sub-paragraaf=8.2.2&artikel=8.17&z=2024-11-21&g=2024-11-21) is toegepast en ieder ander lid dat zich gedraagt als bedoeld in dat artikel, uitsluiten van het verdere bijwonen van de vergadering op de dag waarop de uitsluiting plaats heeft.
 
-#### Artikel 8.19. Geen beroep op de Kamer
+##### Artikel 8.19. Geen beroep op de Kamer
 
 Er kan geen beroep op de Kamer worden gedaan ten aanzien van de beslissingen van de Voorzitter op grond van de [artikelen 8.15 tot en met 8.18](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.2&sub-paragraaf=8.2.2&artikel=8.15&z=2024-11-21&g=2024-11-21).
 
 #### § 8.2.3. Moties
 
-#### Artikel 8.20. Moties
+##### Artikel 8.20. Moties
 
 1. Ieder lid dat het woord voert, kan daarbij, alleen of met andere leden, over het in behandeling zijnde onderwerp moties indienen. Het lid leest de tekst van zijn moties voor.
 
@@ -798,7 +824,7 @@ Er kan geen beroep op de Kamer worden gedaan ten aanzien van de beslissingen van
 
 5. De eerste ondertekenaar kan de motie wijzigen of intrekken totdat erover is gestemd.
 
-#### Artikel 8.21. Overnemen van moties
+##### Artikel 8.21. Overnemen van moties
 
 1. De Voorzitter deelt tijdens de beraadslaging mee dat een motie die is gericht aan de regering is overgenomen, indien:
 
@@ -810,7 +836,7 @@ Er kan geen beroep op de Kamer worden gedaan ten aanzien van de beslissingen van
 
 #### § 8.2.4. Het sluiten van de beraadslaging
 
-#### Artikel 8.22. Sluiting van de beraadslaging
+##### Artikel 8.22. Sluiting van de beraadslaging
 
 1. De Voorzitter sluit de beraadslaging over een onderwerp, wanneer niemand meer het woord verlangt.
 
@@ -822,23 +848,23 @@ Er kan geen beroep op de Kamer worden gedaan ten aanzien van de beslissingen van
 
 #### § 8.3.1. Algemene bepalingen
 
-#### Artikel 8.23. Nemen van een besluit
+##### Artikel 8.23. Nemen van een besluit
 
 1. Nadat de beraadslaging over een onderwerp is gesloten, gaat de Kamer zo nodig over tot het nemen van een besluit.
 
 2. De stemming over een motie kan worden aangehouden. De aangehouden motie vervalt, indien er nog niet over is gestemd in de eerste vergadering twaalf weken na het besluit tot aanhouden. De Kamer kan anders besluiten. Bij het eindigen van een zitting vervallen alle aangehouden moties.
 
-#### Artikel 8.24. Tijdstippen stemmingen
+##### Artikel 8.24. Tijdstippen stemmingen
 
 Stemmingen vinden in het algemeen plaats op vaste tijdstippen.
 
 #### § 8.3.2. Besluitvorming over zaken
 
-#### Artikel 8.25. Stemming bij handopsteken
+##### Artikel 8.25. Stemming bij handopsteken
 
 De stemming over een zaak vindt plaats door handopsteken, tenzij op grond van [artikel 8.26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.3&sub-paragraaf=8.3.2&artikel=8.26&z=2024-11-21&g=2024-11-21), een hoofdelijke stemming is vereist.
 
-#### Artikel 8.26. Hoofdelijke stemming
+##### Artikel 8.26. Hoofdelijke stemming
 
 1. Er vindt een hoofdelijke stemming over een zaak plaats, indien:
 
@@ -856,7 +882,7 @@ De stemming over een zaak vindt plaats door handopsteken, tenzij op grond van [a
 
 - b. de vergadering sluiten en op een later tijdstip een nieuwe vergadering bijeenroepen.
 
-#### Artikel 8.27. Vergissingen bij stemmingen
+##### Artikel 8.27. Vergissingen bij stemmingen
 
 1. Indien een lid zich tijdens het stemmen bij handopsteken vergist, kan hij zijn vergissing slechts herstellen voordat de Voorzitter de uitslag heeft vastgesteld.
 
@@ -864,13 +890,13 @@ De stemming over een zaak vindt plaats door handopsteken, tenzij op grond van [a
 
 3. Als een lid zijn vergissing niet tijdig heeft hersteld, kan hij na afloop van de stemming vragen om aantekening dat hij zich heeft vergist. Dit brengt geen verandering in de uitslag van de stemming.
 
-#### Artikel 8.28. Staken van stemmen
+##### Artikel 8.28. Staken van stemmen
 
 1. Bij het staken van de stemmen is een voorstel niet aangenomen, indien de vergadering voltallig is.
 
 2. Indien de vergadering niet voltallig is, wordt de stemming uitgesteld tot een volgende vergadering. Als de stemmen opnieuw staken, is het voorstel niet aangenomen.
 
-#### Artikel 8.29. Stemverklaring
+##### Artikel 8.29. Stemverklaring
 
 1. De Voorzitter kan toestaan dat onmiddellijk voorafgaand aan een stemming door de leden stemverklaringen worden afgelegd. Na de stemming kan een lid in ieder geval een stemverklaring afleggen.
 
@@ -878,7 +904,7 @@ De stemming over een zaak vindt plaats door handopsteken, tenzij op grond van [a
 
 3. Na een stemverklaring kan de beraadslaging niet worden heropend.
 
-#### Artikel 8.30. Besluit zonder stemming
+##### Artikel 8.30. Besluit zonder stemming
 
 1. Een stemming over een zaak kan achterwege blijven, indien geen lid daarom vraagt. De Voorzitter stelt daarbij voor het besluit zonder stemming te nemen.
 
@@ -886,13 +912,13 @@ De stemming over een zaak vindt plaats door handopsteken, tenzij op grond van [a
 
 #### § 8.3.3. Besluitvorming over personen
 
-#### Artikel 8.31. Stemming met stembriefjes
+##### Artikel 8.31. Stemming met stembriefjes
 
 1. De stemming over personen voor benoemingen, voordrachten of keuzen vindt plaats met behulp van stembriefjes, die de leden in een stembus werpen.
 
 2. De leden vullen voor iedere kandidaat voor de benoeming, voordracht of keuze, afzonderlijk een stembriefje in. Het stembriefje moet een duidelijke aanwijzing bevatten van de persoon waarop het lid wil stemmen. In geval van twijfel, beslist de Kamer.
 
-#### Artikel 8.32. Stemrondes
+##### Artikel 8.32. Stemrondes
 
 1. De stemmingen over de kandidaten vinden plaats in een aantal stemrondes. De eerste stemming is vrij.
 
@@ -904,25 +930,25 @@ De stemming over een zaak vindt plaats door handopsteken, tenzij op grond van [a
 
 5. Indien bij een tweede of derde stemming niet is uitgemaakt tussen wie ook bij een volgende stemming moet worden beslist, dan vindt er een tussenstemming plaats om daarover te beslissen.
 
-#### Artikel 8.33. Staken van stemmen
+##### Artikel 8.33. Staken van stemmen
 
 1. Indien bij een tussenstemming als bedoeld in [artikel 8.32, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.3&sub-paragraaf=8.3.3&artikel=8.32&z=2024-11-21&g=2024-11-21), of bij een stemming tussen twee personen de stemmen staken, dan beslist het lot.
 
 2. Er worden naambriefjes voor de betrokken personen gemaakt om de beslissing tot stand te brengen. De naambriefjes worden vervolgens door een stemopnemer als bedoeld in [artikel 8.35](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.3&sub-paragraaf=8.3.3&artikel=8.35&z=2024-11-21&g=2024-11-21) behoorlijk toegevouwen in de stembus geworpen, en er door een andere stemopnemer een voor een uitgetrokken en voorgelezen. De persoon die wordt vermeld op het naambriefje dat het eerste uit de stembus is getrokken, is de gekozene.
 
-#### Artikel 8.34. Ongeldige stemmen
+##### Artikel 8.34. Ongeldige stemmen
 
 1. Niet of niet behoorlijk ingevulde stembriefjes tellen voor het bepalen van de meerderheid niet mee.
 
 2. Indien op verzoek van de Kamer ten behoeve van de stemming door een commissie personen zijn voorgedragen voor de benoeming, voordracht of keuze, dan tellen stembriefjes die een persoon aanwijzen die niet door de commissie is voorgedragen evenmin mee.
 
-#### Artikel 8.35. Uitslag stemming
+##### Artikel 8.35. Uitslag stemming
 
 1. De Voorzitter benoemt voor de stemming vier leden tot stemopnemers, die gezamenlijk steeds de geldigheid van de stembriefjes controleren, en bepalen hoeveel stemmen op iedere persoon zijn uitgebracht.
 
 2. Wanneer de stemopnemers bij een stemming klaar zijn met hun taak, maakt de eerstbenoemde stemopnemer het getal van de in de stembus aangetroffen stembriefjes bekend, en de Voorzitter het getal van de leden op de presentielijst. De eerstbenoemde stemopnemer maakt vervolgens de uitslag bekend.
 
-#### Artikel 8.36. Nietige stemming
+##### Artikel 8.36. Nietige stemming
 
 1. Een stemming is nietig, indien:
 
@@ -932,7 +958,7 @@ De stemming over een zaak vindt plaats door handopsteken, tenzij op grond van [a
 
 2. Na een nietige stemming vindt de stemming opnieuw plaats. Indien de stemming nietig is omdat het getal van de in de stembus gevonden stembriefjes niet meer bedraagt dan de helft van het aantal zitting hebbende leden, dan wordt de vergadering tussentijds geschorst of uitgesteld onder overeenkomstige toepassing van [artikel 8.26, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.3&sub-paragraaf=8.3.2&artikel=8.26&z=2024-11-21&g=2024-11-21).
 
-#### Artikel 8.37. Besluit zonder stemming
+##### Artikel 8.37. Besluit zonder stemming
 
 Een stemming over een persoon kan achterwege blijven, indien geen van de leden daarom vraagt en het gaat over:
 
@@ -942,11 +968,11 @@ Een stemming over een persoon kan achterwege blijven, indien geen van de leden d
 
 De Voorzitter stelt voor het besluit zonder stemming te nemen.
 
-#### Artikel 8.38. Niet in de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) vermelde keuzen
+##### Artikel 8.38. Niet in de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) vermelde keuzen
 
 Bij benoemingen, voordrachten of keuzen, die niet in de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) zijn vermeld, kan de Kamer in een bijzonder geval andere regels doen gelden.
 
-#### Artikel 8.39. Aanbieding aan de Koning
+##### Artikel 8.39. Aanbieding aan de Koning
 
 De Voorzitter draagt zorg dat de voordrachten van personen van wie de benoeming geschiedt bij koninklijk besluit aan de Koning worden aangeboden.
 
@@ -956,13 +982,13 @@ De Voorzitter draagt zorg dat de voordrachten van personen van wie de benoeming 
 
 #### § 9.1.1. Voorbereiding door de commissie
 
-#### Artikel 9.1. Inhandenstelling
+##### Artikel 9.1. Inhandenstelling
 
 1. De Voorzitter stelt elk wetsvoorstel in handen van een vaste commissie voor een voorbereidend onderzoek.
 
 2. Het besluit tot inhandenstelling wordt zo spoedig mogelijk meegedeeld in een vergadering van de Kamer. Bij die mededeling kan de Kamer anders besluiten over de inhandenstelling.
 
-#### Artikel 9.2. Verslag
+##### Artikel 9.2. Verslag
 
 1. Een commissie brengt over elk in haar handen gesteld wetsvoorstel verslag uit aan de Kamer.
 
@@ -970,7 +996,7 @@ De Voorzitter draagt zorg dat de voordrachten van personen van wie de benoeming 
 
 3. De commissie stelt binnen twee weken na de inhandenstelling, met uitzondering van recesperioden, een termijn vast voor de inbreng. Van de gestelde termijn wordt mededeling gedaan aan de leden van de Kamer.
 
-#### Artikel 9.3. Stellen van een termijn
+##### Artikel 9.3. Stellen van een termijn
 
 1. Het Presidium kan een commissie een termijn stellen voor het uitbrengen van haar verslag over een wetsvoorstel.
 
@@ -982,7 +1008,7 @@ De Voorzitter draagt zorg dat de voordrachten van personen van wie de benoeming 
 
 5. Indien een commissie niet binnen een gestelde termijn verslag uitbrengt, kan de Kamer de beraadslaging openen zonder dat een verslag is uitgebracht.
 
-#### Artikel 9.4. Vervolgstukken
+##### Artikel 9.4. Vervolgstukken
 
 1. Een commissie vermeldt in haar verslag over een wetsvoorstel of zij de behandeling door de Kamer, al dan niet onder voorbehoud, voldoende voorbereid acht.
 
@@ -992,7 +1018,7 @@ De Voorzitter draagt zorg dat de voordrachten van personen van wie de benoeming 
 
 #### § 9.1.2. Amendementen
 
-#### Artikel 9.5. Indienen van amendementen
+##### Artikel 9.5. Indienen van amendementen
 
 1. Ieder lid kan, alleen of met andere leden, amendementen indienen vanaf het tijdstip dat een wetsvoorstel in handen van een commissie is gesteld.
 
@@ -1000,7 +1026,7 @@ De Voorzitter draagt zorg dat de voordrachten van personen van wie de benoeming 
 
 3. De amendementen worden bij de indiening meteen openbaar gemaakt. Indien een amendement op de dag van de beraadslaging of stemming over het wetsvoorstel wordt ingediend, wordt het tevens in de vergaderzaal rondgedeeld.
 
-#### Artikel 9.6. Toelaatbaarheid van amendementen
+##### Artikel 9.6. Toelaatbaarheid van amendementen
 
 1. Een amendement wordt geacht toelaatbaar te zijn, zolang de Kamer het niet ontoelaatbaar heeft verklaard.
 
@@ -1010,7 +1036,7 @@ De Voorzitter draagt zorg dat de voordrachten van personen van wie de benoeming 
 
 - b. er tussen de inhoud van het amendement en die van het wetsvoorstel geen rechtstreeks verband bestaat.
 
-#### Artikel 9.7. Wijzigen en intrekken van amendementen
+##### Artikel 9.7. Wijzigen en intrekken van amendementen
 
 1. De eerste ondertekenaar van een amendement kan zijn amendement wijzigen.
 
@@ -1018,7 +1044,7 @@ De Voorzitter draagt zorg dat de voordrachten van personen van wie de benoeming 
 
 3. Indien de eerste ondertekenaar geen lid meer is, kan een door zijn fractie of groep aangewezen lid het amendement wijzigen of intrekken. Indien de fractie of groep geen deel meer uitmaakt van de Kamer, kan de eerstvolgende ondertekenaar het amendement wijzigen of intrekken.
 
-#### Artikel 9.8. Overnemen van amendementen
+##### Artikel 9.8. Overnemen van amendementen
 
 1. De Voorzitter deelt tijdens de beraadslaging over een wetsvoorstel mee dat een amendement is overgenomen, indien:
 
@@ -1030,7 +1056,7 @@ De Voorzitter draagt zorg dat de voordrachten van personen van wie de benoeming 
 
 3. Dit artikel is van overeenkomstige toepassing op het overnemen van een amendement tijdens een wetgevingsoverleg.
 
-#### Artikel 9.9. Subamendementen
+##### Artikel 9.9. Subamendementen
 
 1. Ieder lid kan, alleen of met andere leden, subamendementen indienen tot wijziging van door andere leden ingediende amendementen.
 
@@ -1038,7 +1064,7 @@ De Voorzitter draagt zorg dat de voordrachten van personen van wie de benoeming 
 
 #### § 9.1.3. De beraadslaging
 
-#### Artikel 9.10. Algemene beraadslaging en artikelsgewijze behandeling
+##### Artikel 9.10. Algemene beraadslaging en artikelsgewijze behandeling
 
 1. De algemene beraadslaging over een wetsvoorstel vindt plaats in twee termijnen.
 
@@ -1050,7 +1076,7 @@ De Voorzitter draagt zorg dat de voordrachten van personen van wie de benoeming 
 
 #### § 9.1.3. De beraadslaging
 
-#### Artikel 9.11. Stemmingen over wetsvoorstel en amendementen
+##### Artikel 9.11. Stemmingen over wetsvoorstel en amendementen
 
 1. De Kamer volgt bij het stemmen de artikelvolgorde van het wetsvoorstel, met dien verstande dat:
 
@@ -1076,7 +1102,7 @@ De Voorzitter draagt zorg dat de voordrachten van personen van wie de benoeming 
 
 - b. in het wetsvoorstel technische wijzigingen worden aangebracht die nodig zijn geworden door het aannemen van twee of meer amendementen.
 
-#### Artikel 9.12. Tweede lezing
+##### Artikel 9.12. Tweede lezing
 
 1. Indien een wetsvoorstel in de loop van de beraadslaging of als gevolg van de stemmingen is gewijzigd, dan kan de Kamer besluiten de eindstemming voor een tweede lezing uit te stellen tot een volgende vergadering.
 
@@ -1086,39 +1112,39 @@ De Voorzitter draagt zorg dat de voordrachten van personen van wie de benoeming 
 
 #### § 9.1.5. Afronding behandeling
 
-#### Artikel 9.13. Vernummering wetsvoorstel
+##### Artikel 9.13. Vernummering wetsvoorstel
 
 1. De Voorzitter brengt in een door de Kamer aangenomen wetsvoorstel verandering aan in de nummering of lettering van hoofdstukken, paragrafen, artikelen, artikelleden of artikelonderdelen, en in de op die tekstdelen gerichte verwijzingen, voor zover hij dit nodig acht door wijzigingen die in het wetsvoorstel zijn aangebracht.
 
 2. De Kamer kan besluiten de in het eerste lid bedoelde veranderingen geheel of gedeeltelijk achterwege te laten.
 
-#### Artikel 9.14. Verzending aangenomen wetsvoorstel
+##### Artikel 9.14. Verzending aangenomen wetsvoorstel
 
 De Voorzitter zendt een door de Kamer aangenomen wetsvoorstel aan de Voorzitter van de Eerste Kamer met het volgende formulier: «De Tweede Kamer der Staten-Generaal zendt bijgaand door haar aangenomen wetsvoorstel aan de Eerste Kamer».
 
-#### Artikel 9.15. Terugzending verworpen wetsvoorstel
+##### Artikel 9.15. Terugzending verworpen wetsvoorstel
 
 De Voorzitter zendt een door de Kamer verworpen wetsvoorstel, door of vanwege de Koning ingediend, terug naar de Koning met het volgende formulier: «De Tweede Kamer der Staten-Generaal heeft het hierbij wederom gaande wetsvoorstel verworpen».
 
 #### § 9.2. Bijzonderheden rijkswetsvoorstellen
 
-#### Artikel 9.16. Bijzondere regels
+##### Artikel 9.16. Bijzondere regels
 
 Bij de behandeling van rijkswetsvoorstellen gelden de volgende bijzondere regels.
 
-#### Artikel 9.17. Schriftelijke voorbereiding
+##### Artikel 9.17. Schriftelijke voorbereiding
 
 Het voorbereidend onderzoek van een rijkswetsvoorstel geschiedt langs schriftelijke weg.
 
-#### Artikel 9.18. Stellen van een termijn
+##### Artikel 9.18. Stellen van een termijn
 
 De Voorzitter of een lid kan de Kamer voorstellen een termijn vast te stellen waarbinnen de Staten van Aruba, Curaçao of Sint Maarten bevoegd zijn schriftelijk verslag uit te brengen over een rijkswetsvoorstel.
 
-#### Artikel 9.19. Verslag van de Staten
+##### Artikel 9.19. Verslag van de Staten
 
 Een schriftelijk verslag van de Staten van Aruba, Curaçao of Sint Maarten over een rijkswetsvoorstel wordt na ontvangst zo spoedig mogelijk openbaar gemaakt, en toegezonden aan de leden en de regering.
 
-#### Artikel 9.20. Aanneming met minder dan drie vijfden van de stemmen
+##### Artikel 9.20. Aanneming met minder dan drie vijfden van de stemmen
 
 1. De Voorzitter geeft de minister-president kennis van het aannemen van een rijkswetsvoorstel, indien voor de eindstemming:
 
@@ -1130,7 +1156,7 @@ Een schriftelijk verslag van de Staten van Aruba, Curaçao of Sint Maarten over 
 
 #### § 9.3. Bijzonderheden initiatiefwetsvoorstellen
 
-#### Artikel 9.21. Aanhangig maken initiatiefwetsvoorstel
+##### Artikel 9.21. Aanhangig maken initiatiefwetsvoorstel
 
 1. Ieder lid kan, alleen of met andere leden, als initiatiefnemer een initiatiefwetsvoorstel bij de Kamer aanhangig maken door dit schriftelijk en ondertekend aan de Voorzitter te zenden.
 
@@ -1138,7 +1164,7 @@ Een schriftelijk verslag van de Staten van Aruba, Curaçao of Sint Maarten over 
 
 3. Het eerste en tweede lid zijn van overeenkomstige toepassing op een voorstel van een gevolmachtigde minister als bedoeld in [artikel 15, derde lid, van het Statuut voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=15).
 
-#### Artikel 9.22. Horen Afdeling advisering van de Raad van State
+##### Artikel 9.22. Horen Afdeling advisering van de Raad van State
 
 1. De Kamer hoort de Afdeling advisering van de Raad van State voordat zij een initiatiefwetsvoorstel in behandeling neemt.
 
@@ -1146,7 +1172,7 @@ Een schriftelijk verslag van de Staten van Aruba, Curaçao of Sint Maarten over 
 
 3. De initiatiefnemers zijn verantwoordelijk voor een schriftelijke reactie op de door de Afdeling advisering uitgebrachte adviezen.
 
-#### Artikel 9.23. Behandeling initiatiefwetsvoorstellen
+##### Artikel 9.23. Behandeling initiatiefwetsvoorstellen
 
 1. Een initiatiefwetsvoorstel wordt pas in handen van een commissie gesteld nadat het advies van de Afdeling advisering, bedoeld in [artikel 9.22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=9&paragraaf=9.3&artikel=9.22&z=2024-11-21&g=2024-11-21), met de schriftelijke reactie van de initiatiefnemers is openbaar gemaakt.
 
@@ -1160,43 +1186,43 @@ Een schriftelijk verslag van de Staten van Aruba, Curaçao of Sint Maarten over 
 
 4. Indien ministers bij de behandeling het woord verlangen, krijgen zij dit na de initiatiefnemers, tenzij de Kamer anders besluit.
 
-#### Artikel 9.24. Wijziging samenstelling initiatiefnemers
+##### Artikel 9.24. Wijziging samenstelling initiatiefnemers
 
 1. De eerste ondertekenaar van een initiatiefwetsvoorstel deelt elke wijziging in de samenstelling van de initiatiefnemers die zich tijdens de behandeling door de Kamer voordoet, schriftelijk mee aan de Voorzitter.
 
 2. Indien de eerste ondertekenaar geen lid meer is, kan een door zijn fractie of groep aangewezen lid dat initiatiefnemer wordt of de eerstvolgende ondertekenaar die nog lid is, de schriftelijke mededeling doen.
 
-#### Artikel 9.25. Initiatiefwetsvoorstellen zonder initiatiefnemers
+##### Artikel 9.25. Initiatiefwetsvoorstellen zonder initiatiefnemers
 
 1. De Voorzitter deelt jaarlijks na de verzending van het ontwerp voor de raming in een vergadering aan de Kamer mee bij welke aanhangige initiatiefwetsvoorstellen geen van de initiatiefnemers meer lid is.
 
 2. Indien er in de eerste vergadering zes weken na de mededeling geen nieuwe initiatiefnemers zijn voor een initiatiefwetsvoorstel, stelt de Voorzitter aan de Kamer voor dit wetsvoorstel als vervallen te beschouwen.
 
-#### Artikel 9.26. Verdediging in de Eerste Kamer
+##### Artikel 9.26. Verdediging in de Eerste Kamer
 
 1. Indien een initiatiefwetsvoorstel wordt aangenomen door de Kamer, dan wordt de initiatiefnemers opgedragen het wetsvoorstel in de Eerste Kamer te verdedigen. De Kamer kan anders besluiten.
 
 2. De Kamer kan gedurende de behandeling in de Eerste Kamer besluiten de verdediging van het wetsvoorstel aan andere leden op te dragen.
 
-#### Artikel 9.27. Verzending aangenomen initiatiefwetsvoorstel
+##### Artikel 9.27. Verzending aangenomen initiatiefwetsvoorstel
 
 De Voorzitter zendt een door de Kamer aangenomen initiatiefwetsvoorstel aan de Voorzitter van de Eerste Kamer met het volgende formulier: «De Tweede Kamer der Staten-Generaal zendt bijgaand door haar aangenomen wetsvoorstel aan de Eerste Kamer. Zij heeft ..... opgedragen het voorstel in die Kamer te verdedigen».
 
 #### § 9.4. Bijzonderheden begrotingswetsvoorstellen
 
-#### Artikel 9.28. Stemmingen begrotingswetsvoorstel
+##### Artikel 9.28. Stemmingen begrotingswetsvoorstel
 
 De stemmingen over begrotingswetsvoorstellen en bij die wetsvoorstellen ingediende amendementen vinden steeds in samenhang plaats, bij voorkeur in één week.
 
 #### § 9.4. Bijzonderheden begrotingswetsvoorstellen
 
-#### Artikel 9.29. Spoedige overweging in tweede lezing
+##### Artikel 9.29. Spoedige overweging in tweede lezing
 
 1. De Kamer besluit met bekwame spoed over een wetsvoorstel tot verandering in de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) dat aanhangig is gemaakt voor de overweging in tweede lezing, bedoeld in [artikel 137, vierde lid, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=137).
 
 2. Indien de Kamer niet over het wetsvoorstel heeft besloten in de eerste zitting nadat zij is ontbonden als bedoeld in [artikel 137, derde lid, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=137), stelt de Voorzitter bij aanvang van de daaropvolgende zitting aan de Kamer voor het wetsvoorstel als vervallen te beschouwen.
 
-#### Artikel 9.30. Bijzonderheden initiatiefwetsvoorstel tweede lezing
+##### Artikel 9.30. Bijzonderheden initiatiefwetsvoorstel tweede lezing
 
 1. De fracties en groepen van de leden die in de Eerste Kamer een initiatiefwetsvoorstel hebben verdedigd dat is bekendgemaakt als wet houdende verklaring dat er grond bestaat een voorstel in overweging te nemen tot verandering in de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840), dragen zorg dat zo spoedig mogelijk na die bekendmaking een wetsvoorstel tot verandering in de Grondwet aanhangig wordt gemaakt.
 
@@ -1206,7 +1232,7 @@ De stemmingen over begrotingswetsvoorstellen en bij die wetsvoorstellen ingedien
 
 4. [Artikel 9.25](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=9&paragraaf=9.3&artikel=9.25&z=2024-11-21&g=2024-11-21) is niet van toepassing op het wetsvoorstel. Indien geen van de initiatiefnemers en hun fracties of groepen meer deel uitmaken van de Kamer, kan de Kamer besluiten of andere leden initiatiefnemer van het wetsvoorstel worden.
 
-#### Artikel 9.31. Wijziging [Statuut voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002154)
+##### Artikel 9.31. Wijziging [Statuut voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002154)
 
 De [artikelen 9.29](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=9&paragraaf=9.5&artikel=9.29&z=2024-11-21&g=2024-11-21) en [9.30](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=9&paragraaf=9.5&artikel=9.30&z=2024-11-21&g=2024-11-21) zijn van overeenkomstige toepassing op rijkswetsvoorstellen tot wijziging van het [Statuut voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002154) die afwijken van de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840).
 
@@ -1214,7 +1240,7 @@ De [artikelen 9.29](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=9&
 
 #### § 10.1. Verdragen
 
-#### Artikel 10.1. Brief stilzwijgende goedkeuring Verdrag
+##### Artikel 10.1. Brief stilzwijgende goedkeuring Verdrag
 
 1. Zodra een verdrag ter stilzwijgende goedkeuring wordt overgelegd aan de Kamer, wordt op de begeleidende brief aangetekend:
 
@@ -1226,7 +1252,7 @@ De begeleidende brief met de aantekening wordt verspreid onder de leden.
 
 2. Als eerste dag van de termijn voor het te kennen geven van de wens, geldt de dag na die van ontvangst van het verdrag.
 
-#### Artikel 10.2. Uitspreken wens door de Kamer
+##### Artikel 10.2. Uitspreken wens door de Kamer
 
 1. De Voorzitter of een lid kan in een vergadering aan de Kamer voorstellen de wens tot uitdrukkelijke goedkeuring van een verdrag te kennen te geven.
 
@@ -1234,19 +1260,19 @@ De begeleidende brief met de aantekening wordt verspreid onder de leden.
 
 3. Indien de Kamer niet met het voorstel instemt, maar ten minste dertig leden zich voor het voorstel verklaren, dan vindt [artikel 10.4](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=10&paragraaf=10.1&artikel=10.4&z=2024-11-21&g=2024-11-21) toepassing.
 
-#### Artikel 10.3. Uitspreken wens namens de Kamer
+##### Artikel 10.3. Uitspreken wens namens de Kamer
 
 1. De Voorzitter kan namens de Kamer de wens tot uitdrukkelijke goedkeuring van een verdrag te kennen geven. Hij raadpleegt zo mogelijk vooraf de betrokken commissies.
 
 2. De Voorzitter geeft de wens te kennen aan de Minister van Buitenlandse Zaken, en deelt dit vervolgens meteen mee aan de Kamer en de Voorzitter van de Eerste Kamer.
 
-#### Artikel 10.4. Uitspreken wens door dertig leden
+##### Artikel 10.4. Uitspreken wens door dertig leden
 
 1. Indien dertig of meer leden de wens tot uitdrukkelijke goedkeuring van een verdrag te kennen willen geven, dan delen zij dit schriftelijk mee aan de Voorzitter.
 
 2. De Voorzitter deelt het te kennen geven van de wens meteen mee aan de Minister van Buitenlandse Zaken, en vervolgens aan de Kamer en de Voorzitter van de Eerste Kamer.
 
-#### Artikel 10.5. (Uitspreken wens door) gevolmachtigde ministers
+##### Artikel 10.5. (Uitspreken wens door) gevolmachtigde ministers
 
 1. Indien het verdrag dat is overgelegd Aruba, Curaçao of Sint Maarten raakt, dan worden de desbetreffende gevolmachtigde ministers:
 
@@ -1256,7 +1282,7 @@ De begeleidende brief met de aantekening wordt verspreid onder de leden.
 
 2. Indien een gevolmachtigde minister door tussenkomst van de Voorzitter de wens tot uitdrukkelijke goedkeuring van een verdrag te kennen geeft, dan deelt de Voorzitter dit meteen mee aan de Minister van Buitenlandse Zaken, en vervolgens aan de Kamer en de Voorzitter van de Eerste Kamer.
 
-#### Artikel 10.6. Sluiting uitvoeringsverdrag, verlenging of opzegging verdrag
+##### Artikel 10.6. Sluiting uitvoeringsverdrag, verlenging of opzegging verdrag
 
 De [artikelen 10.1 tot en met 10.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=10&paragraaf=10.1&artikel=10.1&z=2024-11-21&g=2024-11-21) zijn van overeenkomstige toepassing, indien de regering aan de Kamer mededeling doet van het voornemen tot:
 
@@ -1268,7 +1294,7 @@ De [artikelen 10.1 tot en met 10.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044
 
 #### § 10.2. (Ontwerp)besluiten
 
-#### Artikel 10.7. Brief over (ontwerp)besluit
+##### Artikel 10.7. Brief over (ontwerp)besluit
 
 1. Indien op grond van de wet aan de Kamer een (ontwerp)besluit wordt overgelegd en de wens te kennen kan worden gegeven dat het onderwerp of de inwerkingtreding van het (ontwerp)besluit bij wet wordt geregeld, dan wordt op de begeleidende brief aangetekend:
 
@@ -1282,7 +1308,7 @@ De begeleidende brief met de aantekening wordt verspreid onder de leden.
 
 3. Dit artikel vindt overeenkomstige toepassing in andere gevallen waarin naar aanleiding van een door de Kamer ontvangen brief een in de wet omschreven wens te kennen kan worden gegeven.
 
-#### Artikel 10.8. Uitspreken wens
+##### Artikel 10.8. Uitspreken wens
 
 Voor zover de wet hierin voorziet, kan de wens aan de betrokken minister te kennen worden gegeven:
 
@@ -1294,7 +1320,7 @@ Voor zover de wet hierin voorziet, kan de wens aan de betrokken minister te kenn
 
 #### § 10.3. (Initiatief)nota’s
 
-#### Artikel 10.9. Indiening en inhandenstelling initiatiefnota
+##### Artikel 10.9. Indiening en inhandenstelling initiatiefnota
 
 1. Ieder lid kan, alleen of met andere leden, over een door hem te bepalen onderwerp een initiatiefnota indienen.
 
@@ -1304,7 +1330,7 @@ Voor zover de wet hierin voorziet, kan de wens aan de betrokken minister te kenn
 
 4. Het besluit tot inhandenstelling wordt zo spoedig mogelijk meegedeeld aan de Kamer. Bij die mededeling kan de Kamer anders besluiten over de inhandenstelling.
 
-#### Artikel 10.10. Behandeling (initiatief)nota’s
+##### Artikel 10.10. Behandeling (initiatief)nota’s
 
 1. De commissie houdt in ieder geval een notaoverleg over een in haar handen gestelde initiatiefnota.
 
@@ -1316,7 +1342,7 @@ Voor zover de wet hierin voorziet, kan de wens aan de betrokken minister te kenn
 
 ### Hoofdstuk 11. De kabinetsformatie
 
-#### Artikel 11.1. Aanwijzing van kabinets(in)formateurs
+##### Artikel 11.1. Aanwijzing van kabinets(in)formateurs
 
 1. De Kamer beraadslaagt na aanvang van een nieuwe zitting zo spoedig mogelijk, maar uiterlijk na een week, over de verkiezingsuitslag. Het doel van de beraadslaging is een of meer informateurs onderscheidenlijk formateurs aan te wijzen en de door hen uit te voeren opdracht vast te stellen. Indien dat doel niet in de vergadering wordt bereikt, besluit de Kamer daarover zo spoedig mogelijk in een volgende vergadering.
 
@@ -1330,11 +1356,11 @@ Voor zover de wet hierin voorziet, kan de wens aan de betrokken minister te kenn
 
 6. Na een tussentijdse val van het kabinet kan de Kamer beraadslagen over de wenselijkheid of richting van een nieuwe kabinetsformatie. Het eerste tot en met vijfde lid is dan van overeenkomstige toepassing, met dien verstande dat de termijn, bedoeld in het tweede lid, ten hoogste drie weken kan bedragen.
 
-#### Artikel 11.2. Inlichtingen over kabinetsformatie
+##### Artikel 11.2. Inlichtingen over kabinetsformatie
 
 De Kamer kan de informateurs en formateurs tijdens de uitvoering van en na afronding van hun opdracht uitnodigen om inlichtingen te verschaffen over het verloop van de kabinetsformatie.
 
-#### Artikel 11.3. Controversiële onderwerpen
+##### Artikel 11.3. Controversiële onderwerpen
 
 1. Na een tussentijdse val van het kabinet, een koninklijk besluit tot ontbinding van de Kamer, of verkiezingen voor de Kamer, kan de Kamer op schriftelijk voorstel van een commissie of van een of meer leden besluiten om een of meer onderwerpen controversieel te verklaren.
 
@@ -1344,7 +1370,7 @@ De Kamer kan de informateurs en formateurs tijdens de uitvoering van en na afron
 
 #### § 12.1. De schriftelijke vragen
 
-#### Artikel 12.1. Indienen schriftelijke vragen
+##### Artikel 12.1. Indienen schriftelijke vragen
 
 1. Een lid dat schriftelijk vragen wil stellen aan een minister dient deze vragen in bij de Voorzitter. De vragen moeten kort en duidelijk zijn geformuleerd.
 
@@ -1352,7 +1378,7 @@ De Kamer kan de informateurs en formateurs tijdens de uitvoering van en na afron
 
 3. De Voorzitter brengt de doorgezonden vragen ter kennis van de leden en maakt deze vragen openbaar.
 
-#### Artikel 12.2. Beantwoording schriftelijke vragen
+##### Artikel 12.2. Beantwoording schriftelijke vragen
 
 1. Indien een minister niet in staat is om een schriftelijke vraag binnen drie weken te beantwoorden, dan laat hij de Voorzitter dit onder opgave van redenen weten.
 
@@ -1360,7 +1386,7 @@ De Kamer kan de informateurs en formateurs tijdens de uitvoering van en na afron
 
 #### § 12.2. Het mondelinge vragenuur
 
-#### Artikel 12.3. Tijdstip en voorbereiding mondelinge vragenuur
+##### Artikel 12.3. Tijdstip en voorbereiding mondelinge vragenuur
 
 1. Het mondelinge vragenuur vindt plaats op dinsdag aan het begin van de vergadering. De ministers worden verzocht steeds beschikbaar te zijn op dit tijdstip, tenzij zij verplichtingen hebben die naar het oordeel van de Voorzitter moeten voorgaan.
 
@@ -1372,7 +1398,7 @@ De Kamer kan de informateurs en formateurs tijdens de uitvoering van en na afron
 
 5. De Kamer kan in een bijzonder geval besluiten het vragenuur te laten plaatsvinden op een ander tijdstip dan dat bedoeld in het eerste lid. De Voorzitter bepaalt dan tot wanneer de leden hun onderwerpen bij hem kunnen aanmelden.
 
-#### Artikel 12.4. Verloop mondelinge vragenuur
+##### Artikel 12.4. Verloop mondelinge vragenuur
 
 1. De Voorzitter bepaalt de volgorde waarin de onderwerpen tijdens het mondelinge vragenuur aan de orde worden gesteld.
 
@@ -1384,7 +1410,7 @@ De Kamer kan de informateurs en formateurs tijdens de uitvoering van en na afron
 
 5. Indien een onderwerp aan het einde van het vragenuur nog niet aan de orde is gekomen, kan de Voorzitter besluiten dat dit komt te vervallen.
 
-#### Artikel 12.5. Beperkingen tijdens mondelinge vragenuur
+##### Artikel 12.5. Beperkingen tijdens mondelinge vragenuur
 
 Tijdens het mondelinge vragenuur:
 
@@ -1396,7 +1422,7 @@ Tijdens het mondelinge vragenuur:
 
 #### § 12.3. De interpellatie
 
-#### Artikel 12.6. Interpellatie
+##### Artikel 12.6. Interpellatie
 
 1. Ieder lid dat inlichtingen van een minister verlangt over een onderwerp, kan de Kamer verzoeken om hem toe te staan een interpellatie te houden. Het lid vermeldt hierbij de belangrijkste punten waarover hij bij de interpellatie vragen wil stellen.
 
@@ -1412,7 +1438,7 @@ Tijdens het mondelinge vragenuur:
 
 #### § 12.3. De interpellatie
 
-#### Artikel 12.7. Dertigledendebat
+##### Artikel 12.7. Dertigledendebat
 
 1. Ieder lid kan verzoeken een dertigledendebat te houden, onder vermelding van het onderwerp van het debat.
 
@@ -1422,7 +1448,7 @@ Tijdens het mondelinge vragenuur:
 
 #### § 12.4. Het dertigledendebat
 
-#### Artikel 12.8. Vervallen toekenning debat
+##### Artikel 12.8. Vervallen toekenning debat
 
 1. Indien in de eerste vergadering twaalf weken na de toekenning van een interpellatiedebat, een dertigledendebat of een ander door een lid verzocht debat waartoe de Kamer heeft besloten, dit debat nog niet heeft plaatsgevonden, dan vervalt de toekenning.
 
@@ -1430,15 +1456,15 @@ Tijdens het mondelinge vragenuur:
 
 #### § 12.5. Vervallen toekenning debat
 
-#### Artikel 12.9. Parlementaire enquête
+##### Artikel 12.9. Parlementaire enquête
 
 Een parlementaire enquête wordt uitgevoerd door een daarvoor in te stellen enquêtecommissie.
 
-#### Artikel 12.10. Ander parlementair onderzoek
+##### Artikel 12.10. Ander parlementair onderzoek
 
 Ander parlementair onderzoek wordt uitgevoerd door een daarvoor in te stellen tijdelijke commissie.
 
-#### Artikel 12.11. Regeling parlementair en extern onderzoek
+##### Artikel 12.11. Regeling parlementair en extern onderzoek
 
 Bij afzonderlijke regeling, vast te stellen door de Kamer, worden nadere regels gesteld voor:
 
@@ -1452,49 +1478,49 @@ Bij afzonderlijke regeling, vast te stellen door de Kamer, worden nadere regels 
 
 #### § 13.1. Europese aangelegenheden
 
-#### Artikel 13.1. Lidmaatschap Europees Parlement
+##### Artikel 13.1. Lidmaatschap Europees Parlement
 
 De [artikelen 2.1, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=2&artikel=2.1&z=2024-11-21&g=2024-11-21), en [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=2&artikel=2.2&z=2024-11-21&g=2024-11-21) zijn van overeenkomstige toepassing op de op grond van de wet door de Kamer te nemen beslissingen over de toelating tot het lidmaatschap van in Nederland gekozen leden van het Europees Parlement, en het verlies van dat lidmaatschap.
 
-#### Artikel 13.2. Deelname aan beraadslaging door leden Europees Parlement
+##### Artikel 13.2. Deelname aan beraadslaging door leden Europees Parlement
 
 De Kamer kan besluiten dat in Nederland gekozen leden van het Europees Parlement worden uitgenodigd om inlichtingen te verstrekken en daartoe deel te nemen aan de beraadslaging van de Kamer over een aan de orde gesteld onderwerp.
 
-#### Artikel 13.3. Betrokkenheid Kamer bij besluitvorming Europese Unie
+##### Artikel 13.3. Betrokkenheid Kamer bij besluitvorming Europese Unie
 
 Bij afzonderlijke regeling, vast te stellen door de Kamer, worden regels gesteld over de betrokkenheid van de Kamer bij de totstandkoming van besluitvorming van de Europese Unie.
 
 #### § 13.2. Internationale aangelegenheden
 
-#### Artikel 13.4. Toespreken vergadering door buitenlandse staatshoofden en regeringsleiders
+##### Artikel 13.4. Toespreken vergadering door buitenlandse staatshoofden en regeringsleiders
 
 De Kamer kan besluiten dat het staatshoofd of de regeringsleider van een ander land wordt uitgenodigd een vergadering bij te wonen om de Kamer toe te spreken.
 
-#### Artikel 13.5. Inzet of ter beschikking stellen krijgsmacht
+##### Artikel 13.5. Inzet of ter beschikking stellen krijgsmacht
 
 Bij afzonderlijke regeling, vast te stellen door de Kamer, worden regels gesteld over de procedure bij ontvangst van inlichtingen van de regering over de inzet of het ter beschikking stellen van de krijgsmacht ter handhaving of bevordering van de internationale rechtsorde.
 
 #### § 13.3. Interparlementaire aangelegenheden
 
-#### Artikel 13.6. Griffie interparlementaire betrekkingen
+##### Artikel 13.6. Griffie interparlementaire betrekkingen
 
 Bij afzonderlijke regeling, vast te stellen door de beide Kamers der Staten-Generaal, wordt de instelling en aansturing van een griffie voor de interparlementaire betrekkingen geregeld.
 
-#### Artikel 13.7. Rapportage interparlementaire vergaderingen
+##### Artikel 13.7. Rapportage interparlementaire vergaderingen
 
 De voorzitters van delegaties die hebben deelgenomen aan internationale interparlementaire vergaderingen rapporteren schriftelijk aan de Kamer over hun bevindingen.
 
-#### Artikel 13.8. Interparlementair Koninkrijksoverleg
+##### Artikel 13.8. Interparlementair Koninkrijksoverleg
 
 Indien het Interparlementair Koninkrijksoverleg van delegaties van de beide Kamers der Staten-Generaal en van de Staten van Aruba, Curaçao en Sint Maarten plaatsvindt in Den Haag onder het voorzitterschap van een lid van de Tweede Kamer of van diens plaatsvervanger, dan is dit Reglement op dat overleg van overeenkomstige toepassing.
 
 ### Hoofdstuk 14. Verzoekschriften en burgerinitiatieven
 
-#### Artikel 14.1. Verzoekschriften
+##### Artikel 14.1. Verzoekschriften
 
 In de regeling, bedoeld in [artikel 7.7, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=7&paragraaf=7.1&artikel=7.7&z=2024-11-21&g=2024-11-21), worden voorwaarden gesteld waaraan een verzoekschrift dient te voldoen om in behandeling te kunnen worden genomen.
 
-#### Artikel 14.2. Burgerinitiatieven
+##### Artikel 14.2. Burgerinitiatieven
 
 1. Een burgerinitiatief is een voorstel aan de Kamer om een onderwerp te behandelen, en dient te zijn gericht op de vervaardiging, wijziging of intrekking van een wettelijke regeling, of op het te voeren regeringsbeleid.
 
@@ -1504,7 +1530,7 @@ In de regeling, bedoeld in [artikel 7.7, achtste lid](https://wetten.overheid.nl
 
 4. De Kamer neemt over elk burgerinitiatief dat zij in behandeling neemt een besluit binnen negen maanden nadat door de commissie voor de Verzoekschriften en de Burgerinitiatieven aan de Kamer verslag is uitgebracht.
 
-#### Artikel 14.3. Behandeling conclusies verzoekschriften en burgerinitiatieven
+##### Artikel 14.3. Behandeling conclusies verzoekschriften en burgerinitiatieven
 
 1. Bij de behandeling door de Kamer van door de commissie voor de Verzoekschriften en de Burgerinitiatieven voorgestelde conclusies, kan ieder lid wijzigingen voorstellen op deze conclusies. De artikelen over amendementen op wetsvoorstellen zijn op deze voorstellen van overeenkomstige toepassing, met dien verstande dat ook voorstellen waarvan de strekking tegengesteld is aan die van de conclusies toelaatbaar zijn.
 
@@ -1512,7 +1538,7 @@ In de regeling, bedoeld in [artikel 7.7, achtste lid](https://wetten.overheid.nl
 
 3. Het eerste en tweede lid zijn van overeenkomstige toepassing op in het verslag van de tijdelijke commissie voorgestelde conclusies. Bij herhaalde toepassing van het tweede lid worden de betrokken stukken doorgeleid naar een nieuwe tijdelijke commissie.
 
-#### Artikel 14.4. Brief minister geen gevolg geven aan conclusies
+##### Artikel 14.4. Brief minister geen gevolg geven aan conclusies
 
 1. Indien de Kamer heeft ingestemd met conclusies over een verzoekschrift of burgerinitiatief, waarbij een minister wordt uitgenodigd iets te doen of na te laten, en de minister bij brief te kennen geeft daaraan geen gevolg te geven, dan wordt die brief doorgeleid naar de commissie voor de Verzoekschriften en de Burgerinitiatieven.
 
@@ -1522,7 +1548,7 @@ In de regeling, bedoeld in [artikel 7.7, achtste lid](https://wetten.overheid.nl
 
 #### § 15.1. Openbaarheid vergaderingen
 
-#### Artikel 15.1. Openbaarheid vergaderingen
+##### Artikel 15.1. Openbaarheid vergaderingen
 
 1. De vergaderingen van de Kamer en de commissies zijn openbaar, met uitzondering van de in de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) en [artikel 7.19](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=7&paragraaf=7.3&artikel=7.19&z=2024-11-21&g=2024-11-21) bedoelde gevallen.
 
@@ -1530,7 +1556,7 @@ In de regeling, bedoeld in [artikel 7.7, achtste lid](https://wetten.overheid.nl
 
 #### § 15.1. Openbaarheid vergaderingen
 
-#### Artikel 15.2. Toehoorders en overige aanwezigen
+##### Artikel 15.2. Toehoorders en overige aanwezigen
 
 1. De toehoorders van een vergadering van de Kamer, en de overige aanwezigen in de gebouwen van de Kamer, mogen de orde niet verstoren. Alle aanwezigen moeten in ieder geval de aanwijzingen opvolgen van de Voorzitter, de ambtenaren van de Kamer, de politie en andere toezichthoudende functionarissen.
 
@@ -1540,7 +1566,7 @@ In de regeling, bedoeld in [artikel 7.7, achtste lid](https://wetten.overheid.nl
 
 4. Dit artikel is van overeenkomstige toepassing op vergaderingen van commissies.
 
-#### Artikel 15.3. Algemene ontzegging of beperking toegang in verband met buitengewone omstandigheden
+##### Artikel 15.3. Algemene ontzegging of beperking toegang in verband met buitengewone omstandigheden
 
 1. Indien buitengewone omstandigheden dit naar het oordeel van het Presidium noodzakelijk maken, kan het Presidium besluiten tijdelijk bezoekers de toegang tot het gebouw van de Kamer of in het bijzonder de tribunes te ontzeggen of deze toegang op andere wijze te beperken.
 
@@ -1548,19 +1574,19 @@ In de regeling, bedoeld in [artikel 7.7, achtste lid](https://wetten.overheid.nl
 
 3. Een maatregel als bedoeld in het eerste lid, kan voor de duur van ten hoogste drie maanden worden genomen en telkens worden verlengd, en wordt niet langer gehandhaafd dan door het Presidium noodzakelijk wordt geacht in verband met de buitengewone omstandigheden.
 
-#### Artikel 15.4. Tijdelijke ontzegging toegang
+##### Artikel 15.4. Tijdelijke ontzegging toegang
 
 1. Het Presidium kan degene die de orde heeft verstoord tijdelijk de toegang ontzeggen tot de gebouwen van de Kamer of een deel daarvan. De toegang kan slechts worden ontzegd, indien naar het oordeel van het Presidium de orde ernstig is verstoord en vrees bestaat voor een nieuwe verstoring van de orde.
 
 2. De ontzegging kan voor de duur van ten hoogste drie maanden worden vastgesteld en telkens worden verlengd, en wordt niet langer gehandhaafd dan door het Presidium noodzakelijk wordt geacht op grond van de overwegingen, bedoeld in het eerste lid.
 
-#### Artikel 15.5. Nadere regels
+##### Artikel 15.5. Nadere regels
 
 Het Presidium kan bij afzonderlijke regeling nadere regels vaststellen over de toegang van de toehoorders van vergaderingen en van overige aanwezigen tot de gebouwen van de Kamer en tot de vergaderingen van de Kamer en de commissies.
 
 #### § 15.3. Verslaglegging
 
-#### Artikel 15.6. Woordelijk verslag
+##### Artikel 15.6. Woordelijk verslag
 
 1. Er wordt een geredigeerd woordelijk verslag gemaakt van wat is gezegd tijdens:
 
@@ -1572,7 +1598,7 @@ Het Presidium kan bij afzonderlijke regeling nadere regels vaststellen over de t
 
 2. De Kamer of een commissie kan besluiten dat van andere van haar vergaderingen een geredigeerd woordelijk verslag wordt gemaakt.
 
-#### Artikel 15.7. Officieel verslag
+##### Artikel 15.7. Officieel verslag
 
 1. Er wordt tevens een officieel verslag gemaakt van de vergaderingen van de Kamer, en van bijeenkomsten als bedoeld in [artikel 8.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.1&sub-paragraaf=8.1.1&artikel=8.3&z=2024-11-21&g=2024-11-21).
 
@@ -1594,19 +1620,19 @@ Het Presidium kan bij afzonderlijke regeling nadere regels vaststellen over de t
 
 4. De officiële verslagen worden vastgesteld door ondertekening door de Voorzitter en de Griffier, en in het archief van de Kamer bewaard.
 
-#### Artikel 15.8. Verslaglegging vergadering met gesloten deuren van de Kamer
+##### Artikel 15.8. Verslaglegging vergadering met gesloten deuren van de Kamer
 
 1. Indien de Kamer besluit dat van een vergadering met gesloten deuren van de Kamer een woordelijk verslag wordt gemaakt, hebben de medewerkers van de Dienst Verslag en Redactie die dit verslag maken, toegang tot de vergadering. Het woordelijk verslag wordt niet openbaar gemaakt en wordt achter slot bewaard, tenzij de Kamer hierover dadelijk of op een later tijdstip anders besluit.
 
 2. Indien de Kamer niet besluit tot het laten maken van een woordelijk verslag van een vergadering met gesloten deuren van de Kamer, maakt de Griffier of een door hem aan te wijzen ambtenaar notulen. Deze bevatten de informatie, bedoeld in [artikel 15.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=15&paragraaf=15.3&artikel=15.7&z=2024-11-21&g=2024-11-21), en een beknopt verslag van de beraadslagingen. De notulen worden meteen of in een volgende vergadering met gesloten deuren aan de goedkeuring van de Kamer onderworpen. Zij worden niet openbaar gemaakt en achter slot bewaard, tenzij de Kamer hierover dadelijk of op een later tijdstip anders besluit.
 
-#### Artikel 15.9. Verslaglegging besloten commissievergadering
+##### Artikel 15.9. Verslaglegging besloten commissievergadering
 
 1. [Artikel 15.8](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=15&paragraaf=15.3&artikel=15.8&z=2024-11-21&g=2024-11-21) is van overeenkomstige toepassing op besloten commissievergaderingen en besloten gedeelten van een commissievergadering, waarvan een commissie een woordelijk verslag of notulen wenst te maken.
 
 2. De commissie beslist over de openbaarmaking van het woordelijk verslag of de notulen. Indien de betrokken commissie niet langer bestaat of onduidelijk is welke commissie over de openbaarmaking kan beslissen, beslist de Kamer.
 
-#### Artikel 15.10. Openbaarmaking verslagen en Handelingen
+##### Artikel 15.10. Openbaarmaking verslagen en Handelingen
 
 1. De woordelijke verslagen worden in ongecorrigeerde vorm openbaar gemaakt.
 
@@ -1618,7 +1644,7 @@ Het Presidium kan bij afzonderlijke regeling nadere regels vaststellen over de t
 
 5. De schriftelijke vragen, bedoeld in [artikel 12.1](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=12&paragraaf=12.1&artikel=12.1&z=2024-11-21&g=2024-11-21), worden met de daarop gegeven antwoorden opgenomen in het aanhangsel van de Handelingen.
 
-#### Artikel 15.11. Dienst Verslag en Redactie
+##### Artikel 15.11. Dienst Verslag en Redactie
 
 1. Bij afzonderlijke regeling, vast te stellen door de beide Kamers der Staten-Generaal, worden de zorg voor de dienst die is belast met de verslaglegging voor die Kamers, de Dienst Verslag en Redactie, de taakuitoefening van die dienst met betrekking tot in ieder geval de woordelijke verslagen, alsmede het openbaar maken en bewaren van de verslagen geregeld.
 
@@ -1626,7 +1652,7 @@ Het Presidium kan bij afzonderlijke regeling nadere regels vaststellen over de t
 
 #### § 15.4. Geheimhouding besloten vergaderingen
 
-#### Artikel 15.12. Geheimhouding vergadering Kamer met gesloten deuren
+##### Artikel 15.12. Geheimhouding vergadering Kamer met gesloten deuren
 
 1. Een ieder neemt de geheimhouding in acht ten aanzien van de gedachtewisseling in een vergadering met gesloten deuren van de Kamer.
 
@@ -1634,7 +1660,7 @@ Het Presidium kan bij afzonderlijke regeling nadere regels vaststellen over de t
 
 3. De Kamer kan de geheimhouding slechts opheffen in een vergadering met gesloten deuren.
 
-#### Artikel 15.13. Geheimhouding besloten commissievergadering
+##### Artikel 15.13. Geheimhouding besloten commissievergadering
 
 1. Een ieder neemt de geheimhouding in acht ten aanzien van de gedachtewisseling in een besloten commissievergadering of een besloten deel van een commissievergadering, met uitzondering van wat de commissie vermeldt in openbaar gemaakte verslagen of notulen.
 
@@ -1642,7 +1668,7 @@ Het Presidium kan bij afzonderlijke regeling nadere regels vaststellen over de t
 
 3. De commissie kan de geheimhouding slechts opheffen in een besloten commissievergadering of een besloten deel van een commissievergadering. Indien de betrokken commissie niet langer bestaat of onduidelijk is welke commissie over het opheffen van de geheimhouding kan beslissen, beslist de Kamer.
 
-#### Artikel 15.14. Schending geheimhouding
+##### Artikel 15.14. Schending geheimhouding
 
 1. De Kamer kan, op voorstel van het Presidium, besluiten om een lid dat de geheimhouding, bedoeld in de [artikelen 15.12](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=15&paragraaf=15.4&artikel=15.12&z=2024-11-21&g=2024-11-21) en [15.13](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=15&paragraaf=15.4&artikel=15.13&z=2024-11-21&g=2024-11-21), niet in acht neemt, uit te sluiten van:
 
@@ -1658,7 +1684,7 @@ Het Presidium kan bij afzonderlijke regeling nadere regels vaststellen over de t
 
 #### § 15.5. Openbaar maken van stukken
 
-#### Artikel 15.15. Openbaar maken van stukken
+##### Artikel 15.15. Openbaar maken van stukken
 
 1. Alle tussen de regering en de Kamer gewisselde stukken worden meteen openbaar gemaakt, tenzij dit niet mogelijk is of een stuk vertrouwelijk is.
 
@@ -1666,17 +1692,17 @@ Het Presidium kan bij afzonderlijke regeling nadere regels vaststellen over de t
 
 #### § 15.5. Openbaar maken van stukken
 
-#### Artikel 15.16. Vertrouwelijkheid stukken
+##### Artikel 15.16. Vertrouwelijkheid stukken
 
 1. Een ieder neemt de vertrouwelijkheid in acht ten aanzien van de inhoud van een vertrouwelijk stuk.
 
 2. Indien een lid de vertrouwelijkheid niet in acht neemt, is [artikel 15.14](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=15&paragraaf=15.4&artikel=15.14&z=2024-11-21&g=2024-11-21) van overeenkomstige toepassing.
 
-#### Artikel 15.17. Register vertrouwelijke stukken
+##### Artikel 15.17. Register vertrouwelijke stukken
 
 De griffie houdt een register bij van de door de Kamer en de commissies ontvangen vertrouwelijke stukken.
 
-#### Artikel 15.18. Regeling vertrouwelijke stukken
+##### Artikel 15.18. Regeling vertrouwelijke stukken
 
 1. Bij afzonderlijke regeling, vast te stellen door de Kamer, worden nadere regels gesteld over de aanwijzing, het bewaren en de behandeling van vertrouwelijke stukken.
 
@@ -1684,7 +1710,7 @@ De griffie houdt een register bij van de door de Kamer en de commissies ontvange
 
 #### § 15.7. Openbare registers
 
-#### Artikel 15.19. Register nevenactiviteiten en belangen
+##### Artikel 15.19. Register nevenactiviteiten en belangen
 
 1. De griffie houdt een register bij van:
 
@@ -1704,23 +1730,23 @@ De griffie houdt een register bij van de door de Kamer en de commissies ontvange
 
 3. Onder inkomsten als bedoeld in dit artikel wordt verstaan het loon, bedoeld in [artikel 9 van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=9), verminderd met de eindheffingsbestanddelen, bedoeld in [artikel 31 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31), en de winst uit onderneming, bedoeld in [afdeling 3.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=3.2).
 
-#### Artikel 15.20. Register buitenlandse reizen
+##### Artikel 15.20. Register buitenlandse reizen
 
 1. De griffie houdt een register bij van de door leden ondernomen buitenlandse reizen waarvan de vervoerskosten en verblijfskosten geheel of gedeeltelijk worden betaald door anderen dan het lid, zijn fractie, de Kamer of een commissie van de Kamer.
 
 2. De leden vermelden de buitenlandse reizen steeds binnen een week na terugkeer in Nederland in het register.
 
-#### Artikel 15.21. Register geschenken en voordelen
+##### Artikel 15.21. Register geschenken en voordelen
 
 1. De griffie houdt een register bij van de door leden ontvangen geschenken en voordelen met een hogere waarde dan 50 euro.
 
 2. De leden vermelden de geschenken en voordelen steeds binnen een week na ontvangst daarvan in het register.
 
-#### Artikel 15.22. Register toezeggingen
+##### Artikel 15.22. Register toezeggingen
 
 De griffie houdt een register bij van de door de ministers tijdens openbare vergaderingen van de Kamer en de commissies gedane mondelinge toezeggingen.
 
-#### Artikel 15.23. Openbaarheid registers
+##### Artikel 15.23. Openbaarheid registers
 
 1. De registers, genoemd in deze paragraaf, liggen voor een ieder ter inzage.
 
@@ -1728,13 +1754,13 @@ De griffie houdt een register bij van de door de ministers tijdens openbare verg
 
 #### § 15.8. Integriteit
 
-#### Artikel 15.24. Gedragscode
+##### Artikel 15.24. Gedragscode
 
 De Kamer stelt een afzonderlijke gedragscode voor de leden vast, alsmede een afzonderlijke regeling voor het toezicht op, en de handhaving van, die gedragscode.
 
 ### Hoofdstuk 16. Slotbepalingen
 
-#### Artikel 16.1. Wijziging van het Reglement
+##### Artikel 16.1. Wijziging van het Reglement
 
 1. Ieder lid kan, alleen of met andere leden, een voorstel tot wijziging van dit Reglement indienen.
 
@@ -1748,11 +1774,11 @@ De Kamer stelt een afzonderlijke gedragscode voor de leden vast, alsmede een afz
 
 6. Indien een aangenomen voorstel tot wijziging in de loop van de beraadslaging of als gevolg van de stemmingen is gewijzigd, wordt de aangenomen tekst van het voorstel openbaar gemaakt.
 
-#### Artikel 16.2. Overige regelingen
+##### Artikel 16.2. Overige regelingen
 
 [Artikel 16.1](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=16&artikel=16.1&z=2024-11-21&g=2024-11-21) is van overeenkomstige toepassing op voorstellen tot vaststelling of wijziging van de overige op grond van dit Reglement door de Kamer vast te stellen regelingen.
 
-#### Artikel 16.3. Afwijking van het Reglement
+##### Artikel 16.3. Afwijking van het Reglement
 
 De Kamer kan besluiten van dit Reglement af te wijken, tenzij:
 
@@ -1760,7 +1786,7 @@ De Kamer kan besluiten van dit Reglement af te wijken, tenzij:
 
 - b. de afwijking in strijd is met de wet.
 
-#### Artikel 16.4. Overgangsbepaling
+##### Artikel 16.4. Overgangsbepaling
 
 1. Het [Reglement van Orde van de Tweede Kamer](https://wetten.overheid.nl/jci1.3:c:BWBR0006023), zoals dit luidde onmiddellijk voorafgaand aan het in [artikel 16.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=16&artikel=16.5&z=2024-11-21&g=2024-11-21) bedoelde tijdstip, wordt ingetrokken.
 
@@ -1770,11 +1796,11 @@ De Kamer kan besluiten van dit Reglement af te wijken, tenzij:
 
 4. De onmiddellijk voorafgaand aan het tijdstip, bedoeld in [artikel 16.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=16&artikel=16.5&z=2024-11-21&g=2024-11-21), aangehouden moties en toegekende debatten, gelden als aangehouden onderscheidenlijk toegekend vanaf dat tijdstip.
 
-#### Artikel 16.5. Inwerkingtreding
+##### Artikel 16.5. Inwerkingtreding
 
 Dit Reglement treedt in werking met ingang van een door de Kamer te bepalen tijdstip.
 
-#### Artikel 7.10a. Bezwaaradviescommissie
+##### Artikel 7.10a. Bezwaaradviescommissie
 
 Bij afzonderlijke regeling, vast te stellen door de Kamer, wordt een adviescommissie als bedoeld in [artikel 7:13 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:13) ingesteld ten behoeve van de beslissingen op bezwaar, bedoeld in de [artikelen 3.2, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=3&paragraaf=3.1&artikel=3.2&z=2024-11-21&g=2024-11-21), en [6.2, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=6&paragraaf=6.1&artikel=6.2&z=2024-11-21&g=2024-11-21). In de regeling worden nadere regels gegeven over de adviescommissie, waaronder over de organisatie, werkwijze en het lidmaatschap van de adviescommissie.
 
@@ -1906,7 +1932,7 @@ Bij afzonderlijke regeling, vast te stellen door de Kamer, wordt een adviescommi
 
 ### Hoofdstuk 16. Slotbepalingen
 
-#### Artikel 5.4. Openbaarmaking arbeidsomstandighedenbeleid
+##### Artikel 5.4. Openbaarmaking arbeidsomstandighedenbeleid
 
 Elke fractie of groep maakt het bij haar gevoerde beleid, bedoeld in [artikel 3, tweede lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=3), steeds openbaar op een openbare website, en deelt de vindplaats daarvan mee aan de Griffier.
 

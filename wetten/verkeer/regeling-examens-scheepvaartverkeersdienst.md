@@ -1,20 +1,46 @@
 ---
-title: "Regeling examens scheepvaartverkeersdienst"
+title: "Regeling houdende bepalingen met betrekking tot de examens scheepvaartverkeersdienst (Regeling examens scheepvaartverkeersdienst)"
 identifier: "BWBR0018851"
-categorie: "Verkeer"
-publicatiedatum: 2014-01-06
-laatste_update: 2014-01-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0018851"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2014-01-06"
+last_updated: "2014-01-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0018851"
+soort: "ministeriele-regeling"
+stam_id: "7433203"
+version_id: "21129962"
+internal_id: "C30326911"
+label_id: "7421644"
+dtd_version: "2.0"
+original_entry_into_force: "2014-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0018851/2014-01-06/0"
+intitule_bron: "Stb.2013-553"
+intitule_effect: "intrekking-regeling"
+intitule_signed: "2013-12-11"
+intitule_published: "2013-12-19"
+intitule_in_force: "2013-12-19"
+intitule_status: "vervallen"
+original_publication: "Stb.2013-553"
+original_signed_date: "2013-12-11"
+original_published_date: "2013-12-19"
+original_effect: "intrekking-regeling"
+original_url_id: "stb-2013-553"
+entry_into_force_date: "2014-01-01"
+jci_1_3: "jci1.3:c:BWBR0018851&z=2014-01-06&g=2014-01-06"
+jci_1_0: "1.0:c:BWBR0018851&g=2014-01-06"
+citeertitel_status: "officieel"
+short_title: "Regeling examens scheepvaartverkeersdienst"
+signed_date: "2013-12-11"
+entry_into_force: "2014-01-01"
 ---
-
 # Regeling houdende bepalingen met betrekking tot de examens scheepvaartverkeersdienst (Regeling examens scheepvaartverkeersdienst)
 
 Regeling van rechtswege vervallen door het vervallen van de grondslag.
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 Vervallen
 
@@ -22,33 +48,33 @@ Vervallen
 
 #### § 1. Taak en werkwijze examencommissies
 
-#### Artikel 2
+##### Artikel 2
 
 Vervallen
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
 #### § 2. Aanmelden en oproepen voor het examen
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 1. Om te worden toegelaten tot het landelijk examen of een onderdeel daarvan, legt de kandidaat bij de aanmelding de volgende bescheiden over:
 
@@ -62,77 +88,77 @@ Vervallen
 
 3. Om te worden toegelaten tot een herhalingstoets legt de kandidaat het boekje ‘VTS-kwalificatie’ over.
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
 #### § 3. Wijze van examineren
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
 #### § 4. Beoordeling, slagen, afwijzen en herexamens
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
 #### § 5. Toezicht en de goede gang van zaken tijdens het examen, voorkomen van bedrog, en uitsluiting van deelname aan het examen of een onderdeel daarvan
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
-#### Artikel 17
+##### Artikel 17
 
 Vervallen
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
 #### § 6. Duur van de examens
 
-#### Artikel 19
+##### Artikel 19
 
 Vervallen
 
 #### § 7. Modellen van diploma’s en deelcertificaten
 
-#### Artikel 20
+##### Artikel 20
 
 Vervallen
 
 #### § 8. Eisen waaraan een verkeersdienstsimulator moet voldoen
 
-#### Artikel 21
+##### Artikel 21
 
 Vervallen
 
-#### Artikel 22
+##### Artikel 22
 
 Vervallen
 
 #### § 9. Vrijstellingen
 
-#### Artikel 23
+##### Artikel 23
 
 Vervallen
 
@@ -140,27 +166,27 @@ Vervallen
 
 #### § 1. Het landelijk examenprogramma
 
-#### Artikel 24
+##### Artikel 24
 
 Vervallen
 
-#### Artikel 25
+##### Artikel 25
 
 Vervallen
 
 #### § 2. De herhalingstoets
 
-#### Artikel 26
+##### Artikel 26
 
 Vervallen
 
-#### Artikel 27
+##### Artikel 27
 
 Vervallen
 
 #### § 3. Vorm van de examens
 
-#### Artikel 28
+##### Artikel 28
 
 Vervallen
 
@@ -168,95 +194,95 @@ Vervallen
 
 #### § 1. Regionaal examenprogramma Amsterdam/Noordzeekanaalgebied, Havenschap Delfzijl/Eemshaven, Rijkswaterstaat Noord-Nederland voor Verkeersbegeleidend systeem (VBS) – Terschelling, en Verkeersbegeleidend systeem (VBS) – Den Helder
 
-#### Artikel 29
+##### Artikel 29
 
 Vervallen
 
-#### Artikel 30
+##### Artikel 30
 
 Vervallen
 
-#### Artikel 31
+##### Artikel 31
 
 Vervallen
 
 #### § 2. Regionaal examenprogramma Havenbedrijf Gemeentelijke Havendienst Stadsbeheer Den Haag
 
-#### Artikel 32
+##### Artikel 32
 
 Vervallen
 
-#### Artikel 33
+##### Artikel 33
 
 Vervallen
 
-#### Artikel 34
+##### Artikel 34
 
 Vervallen
 
 #### § 3. Regionaal examenprogramma Havenbedrijf Rotterdam N.V.
 
-#### Artikel 35
+##### Artikel 35
 
 Vervallen
 
-#### Artikel 36
+##### Artikel 36
 
 Vervallen
 
-#### Artikel 37
+##### Artikel 37
 
 Vervallen
 
 #### § 4. Regionaal examenprogramma Zeeland Seaports
 
-#### Artikel 38
+##### Artikel 38
 
 Vervallen
 
-#### Artikel 39
+##### Artikel 39
 
 Vervallen
 
-#### Artikel 40
+##### Artikel 40
 
 Vervallen
 
 #### § 5. Regionaal examenprogramma Westerschelde/Kanaal van Gent naar Terneuzen
 
-#### Artikel 41
+##### Artikel 41
 
 Vervallen
 
-#### Artikel 42
+##### Artikel 42
 
 Vervallen
 
-#### Artikel 43
+##### Artikel 43
 
 Vervallen
 
 #### § 6. Regionaal examenprogramma Rijkswaterstaat regio Binnen
 
-#### Artikel 44
+##### Artikel 44
 
 Vervallen
 
-#### Artikel 45
+##### Artikel 45
 
 Vervallen
 
-#### Artikel 46
+##### Artikel 46
 
 Vervallen
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 47
+##### Artikel 47
 
 Vervallen
 
-#### Artikel 48
+##### Artikel 48
 
 Vervallen
 

@@ -1,13 +1,38 @@
 ---
-title: "Regeling inzamelaars, vervoerders, handelaars en bemiddelaars van afvalstoffen"
+title: "Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, houdende regels inzake inzamelaars, vervoerders, handelaars en bemiddelaars van bedrijfsafvalstoffen of gevaarlijke afvalstoffen (Regeling inzamelaars, vervoerders, handelaars en bemiddelaars van afvalstoffen)"
 identifier: "BWBR0016608"
-categorie: "Milieu"
-publicatiedatum: 2022-10-01
-laatste_update: 2022-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0016608"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-10-01"
+last_updated: "2022-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0016608"
+soort: "ministeriele-regeling"
+stam_id: "5835503"
+version_id: "10402432"
+internal_id: "C14091491"
+label_id: "5815674"
+original_entry_into_force: "2004-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0016608/2022-10-01/0"
+intitule_bron: "Stcrt.2004-78"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-04-13"
+intitule_published: "2004-04-23"
+intitule_in_force: "2004-04-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2004-78"
+original_signed_date: "2004-04-13"
+original_published_date: "2004-04-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2004-78-p22-SC64668"
+entry_into_force_date: "2004-05-01"
+jci_1_3: "jci1.3:c:BWBR0016608&z=2022-10-01&g=2022-10-01"
+jci_1_0: "1.0:c:BWBR0016608&g=2022-10-01"
+citeertitel_status: "officieel"
+short_title: "Regeling inzamelaars, vervoerders, handelaars en bemiddelaars van afvalstoffen"
+signed_date: "2004-04-13"
+entry_into_force: "2004-05-01"
 ---
-
 # Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, houdende regels inzake inzamelaars, vervoerders, handelaars en bemiddelaars van bedrijfsafvalstoffen of gevaarlijke afvalstoffen (Regeling inzamelaars, vervoerders, handelaars en bemiddelaars van afvalstoffen)
 
 Gelet op richtlijn nr. 75/442/EEG van de Raad van de Europese Gemeenschappen van 15 juli 1975 betreffende afvalstoffen (PbEG L 194), zoals laatstelijk gewijzigd bij beschikking nr. 96/350/EG van de Commissie van de Europese Gemeenschappen van 24 mei 1996 houdende aanpassing ingevolge artikel 17 van de bijlagen IIA en IIB (PbEG L 135/32) en richtlijn nr. 75/439/EEG van de Raad van de Europese Gemeenschappen van 16 juni 1975 inzake de verwijdering van afgewerkte olie (PbEG L 194), zoals gewijzigd door richtlijn nr. 87/101/EEG van de Raad van de Europese Gemeenschappen van 22 december 1986 tot wijziging van [Richtlijn 75/439/EEG](31975L0439) inzake de verwijdering van afgewerkte olie (PbEG L 42), alsmede de [artikelen 10.45, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.45), en [10.55, vierde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.55) en de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&artikel=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&artikel=4) en [10, tweede lid, van het Besluit inzamelen afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&artikel=10);
@@ -16,7 +41,7 @@ Besluit:
 
 Treedt in werking op het tijdstip waarop het Besluit inzamelen afvalstoffen in werking treedt.
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -30,17 +55,17 @@ In deze regeling wordt verstaan onder:
 
 - e. lijst van vervoerders, handelaars en bemiddelaars: lijst van vervoerders, handelaars en bemiddelaars als bedoeld in [artikel 10.55, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.55).
 
-#### Artikel 2
+##### Artikel 2
 
 De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&artikel=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&artikel=4), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&artikel=6), en [12, eerste, tweede en vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&artikel=12) zijn van overeenkomstige toepassing op de vermelding van een vervoerder, handelaar of bemiddelaar op de lijst van vervoerders, handelaars en bemiddelaars.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De aanvraag voor een vermelding op de lijst van inzamelaars of op de lijst van vervoerders, handelaars en bemiddelaars en een melding van een verandering van de gegevens, bedoeld in [artikel 4 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&artikel=4), wordt gedaan met de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016608&bijlage=1&z=2022-10-01&g=2022-10-01) bij deze regeling opgenomen formulieren.
 
 2. De aanvraag om een vergunning als bedoeld in [artikel 9 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&artikel=9) wordt gedaan met het daarvoor in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016608&bijlage=2&z=2022-10-01&g=2022-10-01) bij deze regeling opgenomen formulier.
 
-#### Artikel 4
+##### Artikel 4
 
 Vermelding op de lijst van inzamelaars dan wel de lijst van vervoerders, handelaars en bemiddelaars geschiedt, indien aan de volgende criteria wordt voldaan:
 
@@ -48,7 +73,7 @@ Vermelding op de lijst van inzamelaars dan wel de lijst van vervoerders, handela
 
 - b. vakbekwaamheid, door de natuurlijke persoon die permanent en daadwerkelijk leiding geeft aan het handelen of bemiddelen, of indien de leiding bij meer personen berust, door ten minste een van hen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Ter voldoening aan de criteria, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0016608&artikel=4&z=2022-10-01&g=2022-10-01), worden bij de eerste aanvraag de volgende gegevens verstrekt aan de instantie bedoeld in [artikel 10.45, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.45), of [artikel 10.55, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.55):
 
@@ -82,7 +107,7 @@ Vermelding op de lijst van inzamelaars dan wel de lijst van vervoerders, handela
 
 5. Ter voldoening aan de criteria, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0016608&artikel=4&z=2022-10-01&g=2022-10-01), beoordeelt de instantie, bedoeld in het eerste lid, ten minste elke vijf jaar de gegevens, bedoeld in het eerste tot en met vierde lid, op juistheid en volledigheid. Desgevraagd worden door de aanvrager aan die instantie opnieuw gegevens verstrekt.
 
-#### Artikel 6
+##### Artikel 6
 
 De vermelding op de lijst van inzamelaars of op de lijst van vervoerders, handelaars en bemiddelaars wordt beëindigd indien:
 
@@ -94,27 +119,27 @@ De vermelding op de lijst van inzamelaars of op de lijst van vervoerders, handel
 
 - d. de communautaire vergunning of vergunning voor communautair beroepsvervoer van een vervoerder, genoemd in [artikel 5, derde lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0016608&artikel=5&z=2022-10-01&g=2022-10-01), onherroepelijk is ingetrokken.
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 Deze regeling wordt aangehaald als: Regeling inzamelaars, vervoerders, handelaars en bemiddelaars van afvalstoffen.
 

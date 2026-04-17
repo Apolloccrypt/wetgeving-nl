@@ -1,13 +1,39 @@
 ---
-title: "Besluit reikwijdtebepalingen Wft"
+title: "Besluit van 12 oktober 2006, houdende bepalingen ter uitvoering van de artikelen 1:10, 1:11, 3:5, 3:36 en 3:110 van de Wet op het financieel toezicht (Besluit Reikwijdtebepalingen Wft)"
 identifier: "BWBR0020419"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-07-01
-laatste_update: 2024-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020419"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-07-01"
+last_updated: "2024-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020419"
+soort: "AMvB"
+stam_id: "8691903"
+version_id: "20989072"
+internal_id: "C30148531"
+label_id: "8672574"
+dtd_version: "2.0"
+original_entry_into_force: "2013-12-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020419/2024-07-01/0"
+intitule_bron: "Stb.2006-518"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-10-12"
+intitule_published: "2006-10-31"
+intitule_in_force: "2006-12-20"
+intitule_status: "goed"
+original_publication: "Stb.2013-537"
+original_signed_date: "2013-12-06"
+original_published_date: "2013-12-17"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2013-537"
+entry_into_force_date: "2013-12-06"
+jci_1_3: "jci1.3:c:BWBR0020419&z=2024-07-01&g=2024-07-01"
+jci_1_0: "1.0:c:BWBR0020419&g=2024-07-01"
+citeertitel_status: "officieel"
+short_title: "Besluit reikwijdtebepalingen Wft"
+signed_date: "2013-12-06"
+entry_into_force: "2013-12-06"
 ---
-
 # Besluit van 12 oktober 2006, houdende bepalingen ter uitvoering van de artikelen 1:10, 1:11, 3:5, 3:36 en 3:110 van de Wet op het financieel toezicht (Besluit Reikwijdtebepalingen Wft)
 
 Op de voordracht van Onze Minister van Financiën van 12 juli 2006, no. FM 2006-01704 M;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Definities
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -36,67 +62,67 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2.1.1. Onderlinge waarborgmaatschappijen met zetel in Nederland
 
-#### Artikel 2
+##### Artikel 2
 
 Vervallen
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
 #### § 2.1.2. Ondernemingen of instellingen op onderlinge grondslag met zetel buiten Nederland
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
 ### Afdeling 2.2. Bepalingen ter uitvoering van [artikel 1:10, aanhef en onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:10)
 
-#### Artikel 15
+##### Artikel 15
 
 Het bepaalde ingevolge de [artikelen 1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), [1:45, eerste lid, aanhef en onderdelen h en i](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:45), [1:51, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:51), [1:78](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:78), [1:104, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:104), [3:38](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:38), [3:53, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), [3:57, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57), [3:67](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:67), [3:72, derde en vijfde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:72), [3:88](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:88), [3:132](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:132), [3:135 tot en met 3:137](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:135), [3:161 tot en met 3:193](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:161), [3:195 tot en met 3:201](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:195), [3:203](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:203), [3:204](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:204), [3:207 tot en met 3:219](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:207), [3:221](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:221), [3:238 tot en met 3:251](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:238), [3:255 tot en met 3:257](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:255), [3:269 tot en met 3:273](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:269), [3:282 tot en met 3:288k](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:282), [4:27 eerste en derde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:27), en [5:68 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:68) is niet van toepassing op een schadeverzekeraar als bedoeld in [artikel 1:10, aanhef en onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:10) die voldoet aan de krachtens [artikel 3, derde lid, van de Kaderwet financiële verstrekkingen Financiën](https://wetten.overheid.nl/jci1.3:c:BWBR0007886&artikel=3) door Onze Minister gestelde regels.
 
-#### Artikel 16
+##### Artikel 16
 
 Een schadeverzekeraar als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.2&artikel=15&z=2024-07-01&g=2024-07-01):
 
@@ -106,7 +132,7 @@ Een schadeverzekeraar als bedoeld in [artikel 15](https://wetten.overheid.nl/jci
 
 ### Afdeling 2.3. Bepalingen ter uitvoering van [artikel 1:10, aanhef en onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:10)
 
-#### Artikel 17
+##### Artikel 17
 
 Met uitzondering van de [hoofdstukken 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&hoofdstuk=5.1), [5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&hoofdstuk=5.3) en [5.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&hoofdstuk=5.5), zijn de ingevolge de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) gestelde regels niet van toepassing op verenigingen en onderlinge waarborgmaatschappijen van beperkte omvang met zetel in Nederland die het bedrijf van natura-uitvaartverzekeraar uitoefenen en:
 
@@ -116,13 +142,13 @@ Met uitzondering van de [hoofdstukken 5.1](https://wetten.overheid.nl/jci1.3:c:B
 
 ### Afdeling 2.4. Bepalingen ter uitvoering van [artikel 1:11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:11)
 
-#### Artikel 18
+##### Artikel 18
 
 Op een schadeverzekeraar met zetel in Zwitserland die in Nederland het bedrijf van schadeverzekeraar wil uitoefenen vanuit een in Nederland gevestigd bijkantoor zijn de [artikelen 19 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.4&paragraaf=2.4.1&artikel=19&z=2024-07-01&g=2024-07-01) van toepassing.
 
 #### § 2.4.1. De toegang tot het bedrijf van schadeverzekering
 
-#### Artikel 19
+##### Artikel 19
 
 1. Een schadeverzekeraar met zetel in Zwitserland legt bij de notificatie, bedoeld in [artikel 2:35 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:35) aan de Nederlandsche Bank een certificaat over, afgegeven door de terzake bevoegde toezichthoudende instantie van Zwitserland, waarin wordt verklaard in welke branches de aanvrager het bedrijf van schadeverzekeraar mag uitoefenen en dat hij beschikt over een solvabiliteitsmarge die overeenkomt met de ingevolge [artikel 3:57 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57) vereiste solvabiliteitsmarge. Het certificaat vermeldt voorts:
 
@@ -132,7 +158,7 @@ Op een schadeverzekeraar met zetel in Zwitserland die in Nederland het bedrijf v
 
 2. Het certificaat wordt opgemaakt overeenkomstig een door de Nederlandsche Bank vast te stellen model.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Bij de notificatie legt een schadeverzekeraar met zetel in Zwitserland aan de Nederlandsche Bank een programma van werkzaamheden over als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.4&paragraaf=2.4.1&artikel=21&z=2024-07-01&g=2024-07-01).
 
@@ -142,7 +168,7 @@ Op een schadeverzekeraar met zetel in Zwitserland die in Nederland het bedrijf v
 
 4. De Nederlandsche Bank doet binnen een maand na ontvangst van het advies, bedoeld in het tweede lid, of binnen een maand na verloop van de termijn, bedoeld in het derde lid, van haar beslissing mededeling aan de schadeverzekeraar.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Het programma van werkzaamheden bevat:
 
@@ -166,7 +192,7 @@ Op een schadeverzekeraar met zetel in Zwitserland die in Nederland het bedrijf v
 
 3. Het programma van werkzaamheden bevat een opgave van de solvabiliteitsmarge met betrekking tot het gehele in en buiten Nederland uitgeoefende verzekeringsbedrijf.
 
-#### Artikel 22
+##### Artikel 22
 
 1. In afwijking van [artikel 3:118, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:118) verleent de Nederlandsche Bank voor een overdracht van rechten en verplichtingen uit overeenkomsten aan een verzekeraar met zetel in Zwitserland geen toestemming alvorens de terzake bevoegde toezichthoudende autoriteit van Zwitserland heeft verklaard dat de overnemende verzekeraar, mede gelet op de voorgenomen overdracht, het minimumbedrag aan solvabiliteitsmarge bezit.
 
@@ -174,11 +200,11 @@ Op een schadeverzekeraar met zetel in Zwitserland die in Nederland het bedrijf v
 
 #### § 2.4.2. Technische voorzieningen
 
-#### Artikel 23
+##### Artikel 23
 
 [Artikel 3:68 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:68) is van toepassing op een bijkantoor in Nederland van een schadeverzekeraar met zetel in Zwitserland.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Indien een bijkantoor in Nederland van een schadeverzekeraar met zetel in Zwitserland niet voldoet aan het bij of krachtens [artikel 3:68 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:68) bepaalde met betrekking tot de technische voorzieningen, kan de Nederlandsche Bank de vrije beschikking door het bijkantoor over de waarden die betrekking hebben op zijn vanuit Nederland uitgeoefende bedrijf van schadeverzekeraar, beperken of hem verbieden om anders dan met machtiging van de Nederlandsche Bank te beschikken over deze waarden.
 
@@ -194,7 +220,7 @@ Op een schadeverzekeraar met zetel in Zwitserland die in Nederland het bedrijf v
 
 7. De Nederlandsche Bank stelt de toezichthoudende instantie, bedoeld in het derde lid, alsmede de toezichthoudende instanties van de lidstaten waarnaar het bijkantoor, bedoeld in het eerste lid, vanuit Nederland diensten verricht in kennis van de uitvaardiging van de beperking of het verbod en de opheffing daarvan.
 
-#### Artikel 25
+##### Artikel 25
 
 1. De Nederlandsche Bank vaardigt een beperking of een verbod als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=2&afdeling=2.4&paragraaf=2.4.2&artikel=24&z=2024-07-01&g=2024-07-01) uit ten aanzien van de hier te lande aanwezige waarden, indien de toezichthoudende instantie van Zwitserland dit verzoekt op grond van het feit dat de schadeverzekeraar met zetel in Zwitserland naar haar oordeel in soortgelijke omstandigheden verkeert als bedoeld in [artikel 3:136, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:136).
 
@@ -204,13 +230,13 @@ Op een schadeverzekeraar met zetel in Zwitserland die in Nederland het bedrijf v
 
 #### § 2.4.3. Afwikkeling
 
-#### Artikel 26
+##### Artikel 26
 
 [Hoofdstuk 3A:2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&hoofdstuk=3a.2) is van overeenkomstige toepassing op een bijkantoor in Nederland van een schadeverzekeraar met zetel in Zwitserland.
 
 ### Hoofdstuk 2a. Samenwerking tussen de toezichthouders
 
-#### Artikel 27
+##### Artikel 27
 
 1. Een ontheffing als bedoeld in [artikel 3:5, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:5), kan, onverminderd [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=28&z=2024-07-01&g=2024-07-01), worden verleend indien;
 
@@ -238,7 +264,7 @@ Op een schadeverzekeraar met zetel in Zwitserland die in Nederland het bedrijf v
 
 3. De houder van de ontheffing verstrekt binnen zes maanden na afloop van het boekjaar aan de Nederlandsche Bank de jaarrekening, het bestuursverslag en de overige gegevens, bedoeld in de [artikelen 361, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=361), onderscheidenlijk [391, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=391), en [392, eerste lid, onderdelen a tot en met h, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=392).
 
-#### Artikel 28
+##### Artikel 28
 
 1. Het beleid van een houder van een ontheffing als bedoeld in [artikel 3:5, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:5) wordt bepaald of mede bepaald door personen wier betrouwbaarheid buiten twijfel staat. Indien binnen de houder van een ontheffing een orgaan is belast met het toezicht op het beleid en de algemene gang van zaken van de houder van een ontheffing wordt dit toezicht gehouden door personen wier betrouwbaarheid buiten twijfel staat.
 
@@ -246,11 +272,11 @@ Op een schadeverzekeraar met zetel in Zwitserland die in Nederland het bedrijf v
 
 3. Op de vaststelling van de betrouwbaarheid van de personen, bedoeld in het eerste lid, zijn de [artikelen 29 tot en met 33](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=29&z=2024-07-01&g=2024-07-01) van overeenkomstige toepassing.
 
-#### Artikel 29
+##### Artikel 29
 
 De Nederlandsche Bank stelt vast of de betrouwbaarheid van een persoon als bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=28&z=2024-07-01&g=2024-07-01), buiten twijfel staat op basis van diens voornemens, handelingen en antecedenten.
 
-#### Artikel 30
+##### Artikel 30
 
 De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=29&z=2024-07-01&g=2024-07-01), in ieder geval in aanmerking:
 
@@ -264,7 +290,7 @@ De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 29](https:/
 
 - e. de in onderdeel 6 van de bijlage genoemde overige antecedenten.
 
-#### Artikel 31
+##### Artikel 31
 
 1. De Nederlandsche Bank verkrijgt inzicht in de in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=29&z=2024-07-01&g=2024-07-01) bedoelde voornemens, handelingen en antecedenten op grond van:
 
@@ -298,7 +324,7 @@ De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 29](https:/
 
 - c. de aard van de nadere gegevens of inlichtingen.
 
-#### Artikel 32
+##### Artikel 32
 
 1. De betrouwbaarheid van een persoon als bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=29&z=2024-07-01&g=2024-07-01) staat niet buiten twijfel indien:
 
@@ -312,7 +338,7 @@ De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 29](https:/
 
 2. De Nederlandsche bank kan op grond van de omstandigheden of belangen, genoemd in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=33&z=2024-07-01&g=2024-07-01), afwijken van het eerste lid, ten aanzien van de onderdelen b, c en d.
 
-#### Artikel 33
+##### Artikel 33
 
 De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0020419&hoofdstuk=3&artikel=29&z=2024-07-01&g=2024-07-01), in aanmerking:
 
@@ -322,7 +348,7 @@ De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 29](https:/
 
 - c. de overige belangen van de aanvrager en de betrokken persoon of personen.
 
-#### Artikel 34
+##### Artikel 34
 
 1. De houder van een ontheffing als bedoeld in [artikel 3:5, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:5):
 
@@ -354,19 +380,19 @@ De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 29](https:/
 
 ### Hoofdstuk 4. Ondertoezichtstelling financiële instellingen
 
-#### Artikel 35
+##### Artikel 35
 
 1. Een aanvraag als bedoeld in [artikel 3:110, tweede lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:110) wordt gedaan met gebruikmaking van het daartoe door de Nederlandsche Bank vastgestelde formulier dat op verzoek aan de aanvrager ter beschikking wordt gesteld.
 
 2. Het aanvraagformulier en de daarbij ingevolge dit besluit te verstrekken gegevens worden in enkelvoud ingediend.
 
-#### Artikel 36
+##### Artikel 36
 
 1. De gegevens, bedoeld in dit besluit, worden in een zodanige vorm verstrekt dat een goede beoordeling door de Nederlandsche Bank mogelijk is.
 
 2. De opstellers van verklaringen en rapportages ondertekenen of waarmerken deze.
 
-#### Artikel 37
+##### Artikel 37
 
 1. De gegevens, bedoeld in [artikel 3:110, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:110) zijn:
 
@@ -432,19 +458,19 @@ De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 29](https:/
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 38
+##### Artikel 38
 
 Vervallen
 
-#### Artikel 39
+##### Artikel 39
 
 Vervallen
 
-#### Artikel 40
+##### Artikel 40
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 41
+##### Artikel 41
 
 Dit besluit wordt aangehaald als: Besluit reikwijdtebepalingen Wft.
 
@@ -556,7 +582,7 @@ Aan betrokkene is op grond van de [Algemene wet inzake rijksbelastingen](https:/
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 26a
+##### Artikel 26a
 
 1. De Nederlandsche Bank vraagt vooraf advies aan de Autoriteit Financiële Markten indien zij dient te beslissen op:
 

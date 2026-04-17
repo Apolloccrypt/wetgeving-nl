@@ -1,13 +1,35 @@
 ---
 title: "Deelnemings- en Inschrijvingsverordening registerloodsen 2014"
 identifier: "BWBR0035202"
-categorie: "Overig"
-publicatiedatum: 2015-06-17
-laatste_update: 2015-06-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035202"
+country: "nl"
+rank: "pbo"
+publication_date: "2015-06-17"
+last_updated: "2015-06-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035202"
+soort: "pbo"
+stam_id: "12691133"
+version_id: "21448402"
+internal_id: "C30793641"
+label_id: "12661314"
+dtd_version: "2.0"
+original_entry_into_force: "2014-06-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035202/2015-06-17/0"
+intitule_bron: "Stcrt.2014-16109"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2014-06-12"
+intitule_in_force: "2014-06-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-16109"
+original_published_date: "2014-06-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-16109"
+entry_into_force_date: "2014-06-13"
+jci_1_3: "jci1.3:c:BWBR0035202&z=2015-06-17&g=2015-06-17"
+jci_1_0: "1.0:c:BWBR0035202&g=2015-06-17"
+citeertitel_status: "officieel"
+entry_into_force: "2014-06-13"
 ---
-
 # Deelnemings- en Inschrijvingsverordening registerloodsen 2014
 
 Gelet op de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=15), [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=16), [22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=22), en [24, eerste lid, onderdeel d, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=24);
@@ -18,7 +40,7 @@ Besluit vast te stellen:
 
 #### Paragraaf 1. Algemeen
 
-#### Artikel 1. Definitiebepalingen
+##### Artikel 1. Definitiebepalingen
 
 In deze verordening wordt verstaan onder:
 
@@ -28,19 +50,19 @@ In deze verordening wordt verstaan onder:
 
 - c. **inschrijvingsverklaring:** de verklaring als bedoeld in [artikel 22, derde lid van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=22).
 
-#### Artikel 2. Inschrijvingsverklaring
+##### Artikel 2. Inschrijvingsverklaring
 
 Voor de inschrijvingsverklaring wordt het model vastgesteld dat als [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0035202&bijlage=I&z=2015-06-17&g=2015-06-17) bij deze verordening is gevoegd.
 
 #### Paragraaf 2. Doorhaling van de inschrijving in het Loodsenregister
 
-#### Artikel 3. Doorhaling
+##### Artikel 3. Doorhaling
 
 De inschrijving in het register, bedoeld in [artikel 21, eerste lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=21) wordt doorgehaald op de eerste dag van de maand, volgend op die, waarin de leeftijd van zestig jaren is bereikt.
 
 #### Paragraaf 3. Opleiding tot registerloods
 
-#### Artikel 4. Studievergoeding en betaling
+##### Artikel 4. Studievergoeding en betaling
 
 1. De algemene raad draagt er zorg voor dat aan de aspirant onder de voorwaarden genoemd in een geldig bewijs tot deelname, waarvan een model bij deze verordening is toegevoegd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0035202&bijlage=II&z=2015-06-17&g=2015-06-17), een studievergoeding van € 3.262,92 bruto per maand wordt uitgekeerd. Deze vergoeding wordt door een daartoe door de algemene raad aangewezen organisatie en in overeenstemming met het verantwoordelijke orgaan van die organisatie voor het eind van de maand waarover de betaling verschuldigd is uitgekeerd.
 
@@ -48,19 +70,19 @@ De inschrijving in het register, bedoeld in [artikel 21, eerste lid, van de Lood
 
 #### Paragraaf 4. Overige bepalingen
 
-#### Artikel 5
+##### Artikel 5
 
 De [Deelnemings- en Inschrijvingsverordening](https://wetten.overheid.nl/jci1.3:c:BWBR0024643) wordt ingetrokken.
 
-#### Artikel 6. Overgangsrecht
+##### Artikel 6. Overgangsrecht
 
 Vervallen
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 Deze verordening treedt in werking met ingang van de eerste dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Deze verordening wordt aangehaald als: Deelnemings- en Inschrijvingsverordening registerloodsen 2014.
 

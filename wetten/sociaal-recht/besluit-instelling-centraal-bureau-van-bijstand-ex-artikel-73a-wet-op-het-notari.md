@@ -1,13 +1,35 @@
 ---
-title: "Besluit instelling Centraal Bureau van Bijstand ex artikel 73a Wet op het Notarisambt"
+title: "Besluit van 20 mei 1933, tot vaststelling van een algemeenen maatregel van bestuur, bedoeld in artikel 73a der Wet op het Notarisambt, gelijk dit artikel is vastgesteld bij de wet van 15 mei 1931, Stb. 195"
 identifier: "BWBR0001961"
-categorie: "Sociaal recht"
-publicatiedatum: 1998-01-01
-laatste_update: 1998-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0001961"
+country: "nl"
+rank: "kb"
+publication_date: "1998-01-01"
+last_updated: "1998-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0001961"
+soort: "KB"
+stam_id: "625643"
+version_id: "909202"
+internal_id: "C909201"
+label_id: "607134"
+dtd_version: "2.0"
+original_entry_into_force: "1934-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0001961/1998-01-01/0"
+intitule_bron: "Stb.1933-292"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1933-05-20"
+intitule_status: "goed"
+original_publication: "Stb.1933-292"
+original_signed_date: "1933-05-20"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1934-01-01"
+jci_1_3: "jci1.3:c:BWBR0001961&z=1998-01-01&g=1998-01-01"
+jci_1_0: "1.0:c:BWBR0001961&g=1998-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit instelling Centraal Bureau van Bijstand ex artikel 73a Wet op het Notarisambt"
+signed_date: "1933-05-20"
+entry_into_force: "1934-01-01"
 ---
-
 # Besluit van 20 mei 1933, tot vaststelling van een algemeenen maatregel van bestuur, bedoeld in artikel 73a der Wet op het Notarisambt, gelijk dit artikel is vastgesteld bij de wet van 15 mei 1931, Stb. 195
 
 Op de voordracht van Onzen Minister van Justitie van den 21 April 1933, Afdeeling I **c**, n°. 839;
@@ -20,7 +42,7 @@ Gezien het nader rapport van Onzen voornoemden Minister van den 17 Mei 1933, 1st
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Door Ons wordt ingesteld een Centraal Bureau van Bijstand, hetwelk de Kamers van Toezicht over de notarissen en candidaat-notarissen zal bijstaan bij het toezicht op de nakoming van de in artikel 73**a** der Wet op het Notarisambt neergelegde verplichting der notarissen tot boekhouding.
 
@@ -28,7 +50,7 @@ Hebben goedgevonden en verstaan:
 
 3. Op verzoek van het bestuur van het Bedrijfspensioenfonds voor de Notarisklerken kan Onze Minister van Justitie bepalen, dat het Centraal Bureau ten behoeve van dat fonds de werkzaamheden verricht, die het bestuur van het fonds aan het bureau mocht opdragen ter inwinning van gegevens welke de bij het fonds aangesloten werkgevers ingevolge artikel 3 der Wet betreffende verplichte deelneming in een bedrijfspensioenfonds verplicht zijn aan het bestuur van het fonds te verstrekken.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het Centraal Bureau is gevestigd in eene door Ons aan te wijzen gemeente.
 
@@ -38,7 +60,7 @@ Hebben goedgevonden en verstaan:
 
 4. Onze Minister van Justitie benoemt het aan het Centraal Bureau verbonden personeel.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De voorzitter en de deskundigen zijn gehouden hunne woonplaats te hebben in de gemeente, waar het Centraal Bureau is gevestigd.
 
@@ -46,7 +68,7 @@ Hebben goedgevonden en verstaan:
 
 3. Het aan het Centraal Bureau verbonden personeel kan met toestemming van den voorzitter buiten de gemeente van vestiging van het Bureau wonen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Alvorens in bediening te treden leggen de voorzitter, de deskundigen en het aan het Centraal Bureau verbonden personeel den volgenden eed (belofte) af:
 
@@ -64,21 +86,21 @@ Zoo waarlijk helpe mij God almachtig
 
 3. Van de beëediging wordt proces-verbaal opgemaakt.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De voorzitter geniet jaarlijks een maand vakantie. Voor afwezigheid gedurende langer dan acht achtereenvolgende dagen buiten zijn vakantie behoeft hij het verlof van Onze Minister van Justitie.
 
 2. Het verlof aan de deskundigen en het aan het Centraal Bureau verbonden personeel wordt verleend door den voorzitter.
 
-#### Artikel 6
+##### Artikel 6
 
 De deskundigen bekleeden geen openbare of particuliere nevenbetrekkingen of functiën, waaraan geldelijke voordeelen verbonden zijn, zonder toestemming van onze Minister van Justitie; het aan het Centraal Bureau verbonden personeel doet dit niet zonder toestemming van den voorzitter.
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 1. De voorzitter is belast met het leiden der vergaderingen van het Centraal Bureau en met de algemeene regeling van de werkzaamheden der deskundigen.
 
@@ -88,7 +110,7 @@ Vervallen
 
 4. Indien het Centraal Bureau overgaat tot het vaststellen van een Huishoudelijk Reglement, behoeft dit de goedkeuring van Onzen Minister van Justitie.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het Centraal Bureau oefent zijne in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001961&artikel=1&z=1998-01-01&g=1998-01-01), bedoelde taak uit door:
 
@@ -102,33 +124,33 @@ Vervallen
 
 4. De notarissen verleenen medewerking, mede door aan de deskundigen en de leden van het aan het Centraal Bureau verbonden personeel, door wie de deskundigen zich doen bijstaan inzage te geven van hunne boekhouding.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het Centraal Bureau zendt aan de Kamer van Toezicht zoo spoedig mogelijk na elk onderzoek als bedoeld in het eerste lid van het vorige artikel een door den deskundige onderteekend verslag van diens bevindingen.
 
 2. Leidt het onderzoek niet tot het maken van opmerkingen van bijzonderen aard, dan kan er mede worden volstaan alleen deze omstandigheid in het verslag te vermelden.
 
-#### Artikel 11
+##### Artikel 11
 
 In opdracht van den voorzitter van eene Kamer van Toezicht, die een onmiddellijk onderzoek ten aanzien van een bepaalden notaris noodig acht, zal het Centraal Bureau dat onderzoek onverwijld doen verrichten.
 
-#### Artikel 12
+##### Artikel 12
 
 De voorzitter van eene Kamer van Toezicht kan het Centraal Bureau opdragen een zijner deskundigen aan te wijzen om bijstand te verleenen aan het lid of de leden der Kamer, met het instellen van een onderzoek belast ingevolge artikel 17 van den ter uitvoering van artikel 50**b** der Wet op het Notarisambt vastgestelden algemeenen maatregel van bestuur.
 
-#### Artikel 13
+##### Artikel 13
 
 Het Centraal Bureau en de deskundigen verstrekken aan de Kamer van Toezicht en aan haar voorzitter alle inlichtingen, welke de Kamer of de voorzitter dienstig zal oordeelen.
 
-#### Artikel 14
+##### Artikel 14
 
 Het Centraal Bureau dient desgevraagd Onzen Minister van Justitie van voorlichting in alle vragen betreffende de uitvoering van artikel 73**a** der Wet op het Notarisambt. Het is bevoegd aan voornoemden Minister ook eigener beweging daaromtrent voordrachten te doen.
 
-#### Artikel 15
+##### Artikel 15
 
 Telken jare vóór 1 Mei brengt het Centraal Bureau aan Onzen Minister van Justitie schriftelijk verslag uit over zijne werkzaamheden in het afgeloopen jaar.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Vóór 1 Maart van elk jaar maakt het Centraal Bureau een staat van kosten op, welke zijn in het afgelopen jaar verrichte werkzaamheden hebben medegebracht. De staat bevat de verschillende posten van uitgaaf.
 
@@ -136,13 +158,13 @@ Telken jare vóór 1 Mei brengt het Centraal Bureau aan Onzen Minister van Justi
 
 3. De staat van kosten behoeft de goedkeuring van Onzen Minister van Justitie.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Indien het Centraal Bureau in het afgelopen jaar werkzaamheden als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001961&artikel=1&z=1998-01-01&g=1998-01-01), heeft verricht, stelt Onze Minister van Justitie, na overleg met het Centraal Bureau een door Onze Minister aangewezen vertegenwoordiger van het notariaat en het bestuur van het Notarieel Pensioenfonds, vast welk deel der kosten is te beschouwen als kosten, gemaakt ter uitoefening van de taak, bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001961&artikel=1&z=1998-01-01&g=1998-01-01).
 
 2. Het gezamenlijk bedrag der in het vorige artikel bedoelde kosten of, in het geval van het vorige lid, het na aftrek van het aldaar bedoelde deel overblijvende bedrag dier kosten wordt door het Centraal Bureau omgeslagen over alle in Nederland gevestigde notarissen met inachtneming van de navolgende regelen.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Telken jare vóór 1 April doen de notarissen aan het Centraal Bureau opgave tot welke der tien onderstaande inkomen-klassen zij behooren.
 
@@ -156,23 +178,23 @@ Telken jare vóór 1 Mei brengt het Centraal Bureau aan Onzen Minister van Justi
 
 6. De omslag behoeft de instemming van Onzen Minister van Justitie. De [artikelen 10:28](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:28) tot en met [10:31 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:31) zijn van overeenkomstige toepassing.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Het Centraal Bureau herinnert telken jare in de maand Januari de notarissen aan hunne verplichting tot het doen der opgave.
 
 2. Zij, die na herhaalde aanmaning niet vóór 15 April opgave hebben gedaan, worden door het Centraal Bureau ambtshalve in de hoogste klasse ingedeeld.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De aanslag over een jaar wordt ten spoedigste, zo mogelijk voor het eind van de maand mei van het daaropvolgende jaar, door het Centraal Bureau bekendgemaakt met vermelding waar, wanneer en hoe de betaling moet geschieden.
 
 2. Het Centraal Bureau brengt de vaststelling van het in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001961&artikel=17&z=1998-01-01&g=1998-01-01), bedoelde deel der kosten ten spoedigste ter kennis van het Notarieel Pensioenfonds met de mededeling waar, wanneer en hoe de betaling moet geschieden.
 
-#### Artikel 21
+##### Artikel 21
 
 In den in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0001961&artikel=16&z=1998-01-01&g=1998-01-01) bedoelden staat wordt opgenomen het bedrag der kosten van een vorig jaar, hetwelk onbetaald mocht zijn gebleven.
 
-#### Artikel 22
+##### Artikel 22
 
 Dit besluit treedt in werking op een door Ons te bepalen tijdstip.
 

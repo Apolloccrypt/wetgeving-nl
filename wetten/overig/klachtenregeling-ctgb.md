@@ -1,20 +1,45 @@
 ---
 title: "Klachtenregeling Ctgb"
 identifier: "BWBR0050628"
-categorie: "Overig"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050628"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050628"
+soort: "zbo"
+stam_id: "17328203"
+version_id: "30533912"
+internal_id: "C43770521"
+label_id: "17232294"
+dtd_version: "2.0"
+original_entry_into_force: "2025-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050628/2025-01-01/0"
+intitule_bron: "Stcrt.2024-42957"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-12-18"
+intitule_published: "2024-12-31"
+intitule_in_force: "2024-12-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-42957"
+original_signed_date: "2024-12-18"
+original_published_date: "2024-12-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-42957"
+entry_into_force_date: "2025-01-01"
+jci_1_3: "jci1.3:c:BWBR0050628&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0050628&g=2025-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "2024-12-18"
+entry_into_force: "2025-01-01"
 ---
-
 # Klachtenregeling Ctgb
 
 Gelet op [artikel 9:13 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:13),
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
@@ -26,19 +51,19 @@ In dit besluit wordt verstaan onder:
 
 - d. **Kwaliteitscoördinator:** de persoon die zorgdraagt voor de ontwikkeling, uitvoering en bewaking van een kwalitatief hoogstaand kwaliteitsmanagementsysteem bij het Ctgb.
 
-#### Artikel 2. Klacht
+##### Artikel 2. Klacht
 
 1. Een ieder heeft het recht om over de wijze waarop het Ctgb zich in een bepaalde aangelegenheid jegens hem of een ander heeft gedragen, een klacht in te dienen bij het Ctgb.
 
 2. Een gedraging van een persoon die werkzaam is onder verantwoordelijkheid van het Ctgb wordt aangemerkt als een gedraging van het Ctgb.
 
-#### Artikel 3. Bevoegdheid
+##### Artikel 3. Bevoegdheid
 
 1. Een oordeel over de klacht wordt namens het Ctgb gegeven door de Secretaris/Directeur, met inachtneming van het rapport van de Klachtencommissie Ctgb.
 
 2. Als de klacht een gedraging door de Secretaris/Directeur betreft, dan wordt een oordeel over de klacht namens het Ctgb door de voorzitter van het college gegeven, met inachtneming van het rapport van de Klachtencommissie Ctgb.
 
-#### Artikel 4. Klachtencommissie Ctgb
+##### Artikel 4. Klachtencommissie Ctgb
 
 1. De klacht wordt behandeld door de Klachtencommissie Ctgb. De Klachtencommissie Ctgb adviseert de Secretaris/Directeur over de klacht.
 
@@ -48,7 +73,7 @@ In dit besluit wordt verstaan onder:
 
 4. Als de klacht een gedraging door een van de leden van de Klachtencommissie Ctgb betreft treedt het Management Team in overleg om de vervanging van het lid te regelen.
 
-#### Artikel 5. Indienen en ontvangstbevestiging
+##### Artikel 5. Indienen en ontvangstbevestiging
 
 1. Het klaagschrift wordt schriftelijk ingediend bij klacht@ctgb.nl of per post.
 
@@ -56,13 +81,13 @@ In dit besluit wordt verstaan onder:
 
 3. De Klachtencommissie Ctgb bevestigt de ontvangst van het klaagschrift schriftelijk binnen 5 werkdagen na ontvangst.
 
-#### Artikel 6. Mondeling ingediende klacht
+##### Artikel 6. Mondeling ingediende klacht
 
 1. Bij de behandeling van mondeling ingediende klachten wijst de Klachtencommissie Ctgb de klager op de mogelijkheid een schriftelijke klacht in te dienen.
 
 2. Een mondeling ingediende klacht wordt door de Klachtencommissie Ctgb in beginsel op informele wijze afgehandeld.
 
-#### Artikel 7. Conclusies
+##### Artikel 7. Conclusies
 
 1. De Klachtencommissie Ctgb stelt de klager en degene tegen wiens gedraging de klacht zich richt schriftelijk en gemotiveerd in kennis van het oordeel van de Secretaris/Directeur alsmede van de eventuele conclusies die het daaraan verbindt.
 
@@ -70,7 +95,7 @@ In dit besluit wordt verstaan onder:
 
 3. Bij de kennisgeving wordt melding gemaakt van de mogelijkheid en de termijn om een klacht in te dienen bij de Nationale ombudsman of de Commissie voor de Verzoekschriften en de Burgerinitiatieven.
 
-#### Artikel 8. Rapportage
+##### Artikel 8. Rapportage
 
 1. De Klachtencommissie Ctgb brengt jaarlijks verslag uit aan de Secretaris/Directeur over de in het afgelopen jaar ontvangen en afgehandelde klachten en doet eventueel aanbevelingen.
 
@@ -78,7 +103,7 @@ In dit besluit wordt verstaan onder:
 
 3. In het jaarverslag van het Ctgb wordt het aantal ingediende en afgehandelde klachten vermeld.
 
-#### Artikel 9. Inwerkingtreding
+##### Artikel 9. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin dit besluit wordt geplaatst.
 

@@ -1,14 +1,37 @@
 ---
-title: "Herindelingswet Midden-Limburg"
+title: "Wet van 12 september 1990, houdende wijziging van de gemeentelijke indeling van Midden-Limburg"
 identifier: "BWBR0004857"
-categorie: "Overig"
-publicatiedatum: 1998-08-01
-laatste_update: 1998-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004857"
+country: "nl"
+rank: "wet"
+publication_date: "1998-08-01"
+last_updated: "1998-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004857"
+soort: "wet"
+stam_id: "1380703"
+version_id: "2071612"
+internal_id: "C2071611"
+label_id: "1339004"
+dtd_version: "2.0"
+original_entry_into_force: "1990-09-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004857/1998-08-01/0"
+intitule_bron: "Stb.1990-465"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1990-09-12"
+intitule_status: "goed"
+original_publication: "Stb.1990-465"
+original_signed_date: "1990-09-12"
+original_effect: "nieuwe-regeling"
+original_dossier: "21226"
+entry_into_force_date: "1990-09-14"
+jci_1_3: "jci1.3:c:BWBR0004857&z=1998-08-01&g=1998-08-01"
+jci_1_0: "1.0:c:BWBR0004857&g=1998-08-01"
+citeertitel_status: "officieel"
+short_title: "Herindelingswet Midden-Limburg"
+signed_date: "1990-09-12"
+entry_into_force: "1990-09-14"
 ---
-
-# Herindelingswet Midden-Limburg
+# Wet van 12 september 1990, houdende wijziging van de gemeentelijke indeling van Midden-Limburg
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +41,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### § 1
 
-#### Artikel 1
+##### Artikel 1
 
 1. Met ingang van de datum van herindeling worden de gemeenten Baexem, Beegden, Grathem, Haelen, Heel en Panheel, Heythuysen, Herten, Horn, Linne, Maasbracht, Melick en Herkenbosch, Montfort, Neer, St. Odiliënberg, Ohé en Laak, Posterholt, Roermond, Roggel, Stevensweert, Vlodrop en Wessem opgeheven.
 
@@ -130,7 +153,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - 7°. Grens met de gemeente Swalmen Beginnende in het onder A, sub 2° laatstomschreven punt volgt de grens in ongeveer noordoostelijke richting het midden van de rivier de Maas tot het meest noordelijke hoekpunt van het perceel, kadastraal bekend gemeente Neer, sectie M, nr. 263.
 
-#### Artikel 2
+##### Artikel 2
 
 Met ingang van de datum van herindeling vinden de volgende grenswijzigingen plaats:
 
@@ -218,13 +241,13 @@ Met ingang van de datum van herindeling vinden de volgende grenswijzigingen plaa
 
 #### § 2. Overige bepalingen
 
-#### Artikel 3
+##### Artikel 3
 
 1. Voor de secretaris en de ontvanger dan wel de met toepassing van [artikel 127**a** van de gemeentewet](onbekend) (**Stb.** 1931, 89) aangewezen ambtenaar of ambtenaren, belast met de taak van ontvanger van de nieuwe gemeenten Haelen, Heel, Heythuysen, Maasbracht, Melick en Herkenbosch, Posterholt, Roermond en Roggel gelden de instructies voor evenbedoelde functionarissen van de onderscheidenlijk op te heffen gemeenten Haelen, Heel en Panheel, Heythuysen, Maasbracht, Melick en Herkenbosch, Posterholt, Roermond en Roggel totdat zij door andere zijn vervangen.
 
 2. Voor de vergaderingen van de raad en van burgemeester en wethouders van de nieuwe gemeenten als bedoeld in het eerste lid gelden de reglementen van orde van de in het eerste lid bedoelde op te heffen gemeenten, totdat zij door andere zijn vervangen.
 
-#### Artikel 4
+##### Artikel 4
 
 Voor de toepassing van artikel 12, tweede lid, van de Wet algemene regelen gemeentelijke indeling (**Stb.** 1984, 475) treden de organen en ambtenaren van:
 
@@ -244,7 +267,7 @@ Voor de toepassing van artikel 12, tweede lid, van de Wet algemene regelen gemee
 
 - 8. de nieuwe gemeente Roggel in de plaats van de op te heffen gemeenten Neer en Roggel.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Met ingang van de datum van herindeling vervallen gemeenschappelijke regelingen waaraan uitsluitend wordt deelgenomen door:
 
@@ -268,7 +291,7 @@ De besturen van onderscheidenlijk de nieuwe gemeenten Haelen, Roermond, Roggel, 
 
 2. Voor de overige gemeenschappelijke regelingen treden, zolang nog geen uitvoering is gegeven aan artikel 14, vierde of vijfde lid, van de Wet algemene regelen gemeentelijke indeling, onderscheidenlijk de bovengenoemde nieuwe gemeenten in de plaats van de bovengenoemde op te heffen gemeenten.
 
-#### Artikel 6
+##### Artikel 6
 
 De in artikel 16, eerste lid, van de Wet algemene regelen gemeentelijke indeling bedoelde rechten en verplichtingen gaan op de datum van herindeling over van:
 
@@ -288,7 +311,7 @@ De in artikel 16, eerste lid, van de Wet algemene regelen gemeentelijke indeling
 
 - 8. de op te heffen gemeenten Neer en Roggel op de nieuwe gemeente Roggel.
 
-#### Artikel 7
+##### Artikel 7
 
 Ten aanzien van de rechten en verplichtingen die verband houden met de in artikel 17, eerste lid, van de Wet algemene regelen gemeentelijke indeling, bedoelde voorzieningen van drinkwater, electriciteit en gas treden in de plaats van:
 
@@ -308,7 +331,7 @@ Ten aanzien van de rechten en verplichtingen die verband houden met de in artike
 
 - 8. de op te heffen gemeenten Neer en Roggel de nieuwe gemeente Roggel.
 
-#### Artikel 8
+##### Artikel 8
 
 De in artikel 20, eerste lid, van de Wet algemene regelen gemeentelijke indeling bedoelde uitkeringen die door onderscheidenlijk aan het Rijk, de provincie of gemeenten over de vóór de datum van herindeling aangevangen boekingstijdvakken, dienstjaren of uitkeringsjaren met betrekking tot overgaand gebied van een gemeente verschuldigd zijn, worden gedaan aan onderscheidenlijk door:
 
@@ -328,13 +351,13 @@ De in artikel 20, eerste lid, van de Wet algemene regelen gemeentelijke indeling
 
 - 8. de nieuwe gemeente Roggel voor de op te heffen gemeenten Neer en Roggel.
 
-#### Artikel 9
+##### Artikel 9
 
 Onze Ministers van Justitie en van Binnenlandse Zaken bepalen na overleg met de commissaris van de Koningin in de provincie Limburg, die de burgemeesters van de betrokken gemeenten hoort, ten spoedigste na de inwerkingtreding van deze wet de organisatie met ingang van de datum van herindeling van respectievelijk het Korps Rijkspolitie en de gemeentepolitie van de nieuwe gemeenten.
 
 Dit artikel laat onverlet de bepalingen in de [Politiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0006299).
 
-#### Artikel 10
+##### Artikel 10
 
 1. Een verkiezing als bedoeld in artikel 24, eerste lid, van de Wet algemene regelen gemeentelijke indeling wordt gehouden in de nieuwe gemeenten Haelen, Heel, Heythuysen, Maasbracht, Melick en Herkenbosch, Posterholt, Roermond en Roggel.
 
@@ -342,7 +365,7 @@ Dit artikel laat onverlet de bepalingen in de [Politiewet](https://wetten.overhe
 
 3. Een verkiezing als bedoeld in artikel 24, eerste lid, van de Wet algemene regelen gemeentelijke indeling wordt tevens gehouden in de gemeenten Echt, Hunsel, Nederweert, Stramproy, Swalmen, Thorn en Weert.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De in artikel 31, eerste lid, van de Wet algemene regelen gemeentelijke indeling bedoelde ambtenaren gaan voorlopig over in dienst van:
 
@@ -364,7 +387,7 @@ Dit artikel laat onverlet de bepalingen in de [Politiewet](https://wetten.overhe
 
 2. Voor de in het tweede lid van artikel 29 van de Wet algemene regelen gemeentelijke indeling bedoelde gevallen gelden de gemeenten als in het eerste lid genoemd.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Onze Minister van Binnenlandse Zaken stelt in overleg met de colleges van burgemeester en wethouders van de op te heffen gemeenten Roermond en Melick en Herkenbosch, gedeputeerde staten gehoord, het aantal ambtenaren vast dat met ingang van de datum van herindeling van de op te heffen gemeente Melick en Herkenbosch overgaat in voorlopige dienst van de nieuwe gemeente Roermond.
 
@@ -376,7 +399,7 @@ Dit artikel laat onverlet de bepalingen in de [Politiewet](https://wetten.overhe
 
 5. Een beslissing als bedoeld in het derde lid wordt de betreffende ambtenaren, de colleges van burgemeester en wethouders van de op te heffen gemeenten Melick en Herkenbosch en Vlodrop en Roermond schriftelijk meegedeeld.
 
-#### Artikel 13
+##### Artikel 13
 
 Ingevolge het bepaalde in het eerste lid van artikel 42 van de Wet algemene regelen gemeentelijke indeling gaan op datum van herindeling de archiefbescheiden van:
 
@@ -396,27 +419,27 @@ Ingevolge het bepaalde in het eerste lid van artikel 42 van de Wet algemene rege
 
 - 8. de op te heffen gemeenten Herten en Roermond over naar de nieuwe gemeente Roermond.
 
-#### Artikel 14
+##### Artikel 14
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 15
+##### Artikel 15
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 16
+##### Artikel 16
 
 Indien ten aanzien van de in overgaand gebied gevestigde basisscholen ten gevolge van de herindeling een hoger aantal leerlingen dan dat, genoemd in de [artikelen 153, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=153), en [160, eerste lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=160) van toepassing is, geldt gedurende 5 achtereenvolgende schooljaren na de datum van herindeling het aantal leerlingen dat voor de datum van herindeling van toepassing was.
 
-#### Artikel 17
+##### Artikel 17
 
 Onze Minister van Binnenlandse Zaken stelt, voor zover nodig, binnen één maand na inwerkingtreding van deze wet, de definitieve grensbeschrijving vast.
 
-#### Artikel 18
+##### Artikel 18
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 19
+##### Artikel 19
 
 Deze wet kan worden aangehaald als: Herindelingswet Midden-Limburg.
 

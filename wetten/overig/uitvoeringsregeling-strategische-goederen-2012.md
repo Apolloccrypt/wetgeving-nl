@@ -1,13 +1,39 @@
 ---
-title: "Uitvoeringsregeling strategische goederen 2012"
+title: "Regeling van de Staatssecretaris van Economische Zaken, Landbouw en Innovatie van 28 oktober 2011, nr. WJZ/11134677, tot vaststelling van een herziene uitvoeringsregeling strategische goederen (Uitvoeringsregeling strategische goederen 2012)"
 identifier: "BWBR0030610"
-categorie: "Overig"
-publicatiedatum: 2021-09-09
-laatste_update: 2021-09-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030610"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-09-09"
+last_updated: "2021-09-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030610"
+soort: "ministeriele-regeling"
+stam_id: "11491163"
+version_id: "19412712"
+internal_id: "C27198171"
+label_id: "11464634"
+dtd_version: "2.0"
+original_entry_into_force: "2012-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030610/2021-09-09/0"
+intitule_bron: "Stcrt.2011-19960"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-10-28"
+intitule_published: "2011-11-08"
+intitule_in_force: "2011-11-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-11107"
+original_signed_date: "2012-05-29"
+original_published_date: "2012-06-05"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2012-11107"
+entry_into_force_date: "2012-07-01"
+jci_1_3: "jci1.3:c:BWBR0030610&z=2021-09-09&g=2021-09-09"
+jci_1_0: "1.0:c:BWBR0030610&g=2021-09-09"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsregeling strategische goederen 2012"
+signed_date: "2012-05-29"
+entry_into_force: "2012-07-01"
 ---
-
 # Regeling van de Staatssecretaris van Economische Zaken, Landbouw en Innovatie van 28 oktober 2011, nr. WJZ/11134677, tot vaststelling van een herziene uitvoeringsregeling strategische goederen (Uitvoeringsregeling strategische goederen 2012)
 
 Gelet op [verordening (EG) nr. 428/2009](32009R0428) van de Raad van 5 mei 2009 tot instelling van een communautaire regeling voor de controle op de uitvoer, de overbrenging, de tussenhandel en de doorvoer van producten voor tweeërlei gebruik (PbEU 2009, L 134), [richtlijn 2009/43/EG](32009L0043) van het Europees Parlement en de Raad van 6 mei 2009 betreffende de vereenvoudiging van de voorwaarden voor de overdracht van defensiegerelateerde producten binnen de Gemeenschap (PbEU 2009, L 146) en de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=1), [4b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=4b), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=6), [7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=7), [10, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=10), [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=12), [14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=14), [16, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=16), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=17), [19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=19), [21, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=21), [24, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=24), [25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=25), [26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=26), en [27, derde lid, van het Besluit strategische goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=27);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -38,13 +64,13 @@ In deze regeling wordt verstaan onder:
 
 - –. **verordening 952/2013:** verordening (EU) nr. 952/2013 van het Europees Parlement en van de Raad van 9 oktober 2013 tot vaststelling van het douanewetboek van de Unie (PbEU 2013, L 269);
 
-#### Artikel 2
+##### Artikel 2
 
 Als militaire goederen worden aangewezen de goederen, opgenomen in de gemeenschappelijke EU-lijst van militaire goederen.
 
 #### § 2. Aanvraag vergunning
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een vergunning voor militaire goederen wordt aangevraagd door de beschikkingsbevoegde, door degene die voor hem de douaneformaliteiten verricht, of, indien geen douaneformaliteiten worden verricht, door de persoon die de goederen vervoert.
 
@@ -56,7 +82,7 @@ Als militaire goederen worden aangewezen de goederen, opgenomen in de gemeenscha
 
 5. Een vergunning voor militaire goederen kan betrekking hebben op meegeleverde reserveonderdelen en toebehoren, voor zover deze worden geleverd uit hoofde van dezelfde overeenkomst die betrekking heeft op de levering van de militaire goederen waarvoor de vergunning is verleend.
 
-#### Artikel 4
+##### Artikel 4
 
 De inspecteur kan bij de vergunningaanvraag in ieder geval verzoeken om:
 
@@ -66,7 +92,7 @@ De inspecteur kan bij de vergunningaanvraag in ieder geval verzoeken om:
 
 #### § 3. Vrijstelling vergunningplicht
 
-#### Artikel 5
+##### Artikel 5
 
 [Artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=5), [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=11), en [artikel 18, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=18) zijn niet van toepassing op de doorvoer, uitvoer of overdracht van:
 
@@ -80,7 +106,7 @@ De inspecteur kan bij de vergunningaanvraag in ieder geval verzoeken om:
 
 #### § 3a. Voorwaarden
 
-#### Artikel 6
+##### Artikel 6
 
 1. De melding, bedoeld in [artikel 10 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=10) wordt schriftelijk gedaan door de beschikkingsbevoegde, door degene die voor hem de douaneformaliteiten verricht, of, indien geen douaneformaliteiten worden verricht, door de persoon die de goederen vervoert en vindt plaats bij de inspecteur.
 
@@ -106,7 +132,7 @@ De inspecteur kan bij de vergunningaanvraag in ieder geval verzoeken om:
 
 6. Een consent tot binnenkomen en uitgaan als bedoeld in [artikel 14, eerste lid, van de Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=14) geldt als een individuele doorvoervergunning als bedoeld in [artikel 5, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=5), indien de doorvoerzending niet is bestemd voor commerciële doeleinden.
 
-#### Artikel 7
+##### Artikel 7
 
 Geen melding is vereist voor:
 
@@ -118,7 +144,7 @@ Geen melding is vereist voor:
 
 #### § 4. Melding
 
-#### Artikel 8
+##### Artikel 8
 
 Aan een vergunning als bedoeld in artikel 3 van de Verordening producten voor tweeërlei gebruik of een vergunning voor militaire goederen kunnen ten minste de volgende voorschriften worden verbonden:
 
@@ -136,11 +162,11 @@ Aan een vergunning als bedoeld in artikel 3 van de Verordening producten voor tw
 
 - c. door middel van een bewijsstuk van ontvangst, een ambtelijk gewaarmerkte kopie van een invoerdocument of een eindgebruikersverklaring bij de inspecteur wordt aangetoond dat de goederen de bestemming waarvoor de vergunning is verleend, hebben bereikt.
 
-#### Artikel 9
+##### Artikel 9
 
 Een vergunning waarvan geen gebruik wordt gemaakt, wordt onder opgave van redenen terstond ingezonden aan de inspecteur.
 
-#### Artikel 10
+##### Artikel 10
 
 De beschikkingsbevoegde rapporteert aan de inspecteur binnen twee maanden na afloop van elk half kalenderjaar over het gebruik van een individuele of globale uitvoervergunning of een individuele of globale overdrachtsvergunning voor militaire goederen door middel van een overzicht waarin de volgende informatie staat:
 
@@ -154,7 +180,7 @@ De beschikkingsbevoegde rapporteert aan de inspecteur binnen twee maanden na afl
 
 #### § 6. Erkenning
 
-#### Artikel 11
+##### Artikel 11
 
 1. Het verzoek om erkenning, bedoeld in [artikel 27 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=27), wordt schriftelijk ingediend bij de inspecteur.
 
@@ -186,21 +212,21 @@ De beschikkingsbevoegde rapporteert aan de inspecteur binnen twee maanden na afl
 
 #### § 6. Erkenning
 
-#### Artikel 12
+##### Artikel 12
 
 De [Uitvoeringsregeling strategische goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024269) wordt ingetrokken.
 
-#### Artikel 13
+##### Artikel 13
 
 Deze regeling treedt in werking met ingang van 30 juni 2012.
 
-#### Artikel 14
+##### Artikel 14
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling strategische goederen 2012.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 5a
+##### Artikel 5a
 
 Voorwaarde voor gebruik van een vergunning als bedoeld in artikel 12, eerste lid, onder d, van de Verordening producten voor tweeërlei gebruik, is dat ten minste twee weken voorafgaand aan het gebruik ervan een schriftelijk verzoek om registratie wordt ingediend bij de Centrale dienst voor in- en uitvoer (CDIU), Postbus 30003, 9700 RD Groningen. Het verzoek tot registratie bevat in ieder geval de naam- en adresgegevens van de exporteur en indien de exporteur daarover beschikt, het nummer, bedoeld in artikel 1, onderdeel 18 van de gedelegeerde verordening (EU) nr. 2015/2446 van de Commissie van 28 juli 2015 tot aanvulling van verordening 952/2013 (PbEU 2015, L 343) (EORI-nummer).
 
@@ -212,7 +238,7 @@ Voorwaarde voor gebruik van een vergunning als bedoeld in artikel 12, eerste lid
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Deze regeling berust mede op de Verordening producten voor tweeërlei gebruik.
 

@@ -1,13 +1,37 @@
 ---
 title: "Regels inzake de financiering van vut-lasten"
 identifier: "BWBR0007824"
-categorie: "Overig"
-publicatiedatum: 1996-01-01
-laatste_update: 1996-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007824"
+country: "nl"
+rank: "zbo"
+publication_date: "1996-01-01"
+last_updated: "1996-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007824"
+soort: "zbo"
+stam_id: "6564113"
+version_id: "11369762"
+internal_id: "C15312451"
+label_id: "6552844"
+original_entry_into_force: "1996-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007824/1996-01-01/0"
+intitule_bron: "Stcrt.1996-16"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-12-28"
+intitule_published: "1996-01-23"
+intitule_in_force: "1996-01-23"
+intitule_status: "goed"
+original_publication: "Stcrt.1996-16"
+original_signed_date: "1995-12-28"
+original_published_date: "1996-01-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1996-16-p12-SC5027"
+entry_into_force_date: "1996-01-01"
+jci_1_3: "jci1.3:c:BWBR0007824&z=1996-01-01&g=1996-01-01"
+jci_1_0: "1.0:c:BWBR0007824&g=1996-01-01"
+citeertitel_status: "officieel"
+signed_date: "1995-12-28"
+entry_into_force: "1996-01-01"
 ---
-
 # Regels inzake de financiering van vut-lasten
 
 Het bestuur van de Stichting fonds vrijwillig vervroegd uittreden overheidspersoneel,
@@ -20,7 +44,7 @@ Bepaalt:
 
 De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit besluit wordt, tenzij uit de bepaling het tegendeel blijkt, verstaan onder:
 
@@ -46,7 +70,7 @@ Voor de toepassing van dit besluit wordt, tenzij uit de bepaling het tegendeel b
 
 #### Dekking van de Vut-lasten
 
-#### Artikel 2
+##### Artikel 2
 
 1. De lasten die voor het Vut-fonds ontstaan uit het bepaalde in [artikel 8 van de kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=8) en uit de vut-overeenkomst, worden met inachtneming van het bepaalde in [artikel 9, derde en vierde lid van die kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=9), respectievelijk artikel 2, derde lid van die overeenkomst gedekt door bijdragen (vut-bijdragen) van de werkgevers.
 
@@ -56,7 +80,7 @@ Voor de toepassing van dit besluit wordt, tenzij uit de bepaling het tegendeel b
 
 #### Verschuldigdheid Vut-bijdragen
 
-#### Artikel 3
+##### Artikel 3
 
 1. De werkgever, bedoeld in artikel 2.2, eerste lid, onderdeel a van het pensioenreglement is vut-bijdrage verschuldigd voor iedere in zijn dienst zijnde werknemer.
 
@@ -64,7 +88,7 @@ Voor de toepassing van dit besluit wordt, tenzij uit de bepaling het tegendeel b
 
 #### Berekening vut-bijdragen
 
-#### Artikel 4
+##### Artikel 4
 
 1. De vut-bijdrage, ter dekking van de lasten bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007824&artikel=2&z=1996-01-01&g=1996-01-01), bedraagt een jaarlijks vast te stellen percentage van het inkomen.
 
@@ -78,7 +102,7 @@ Voor de toepassing van dit besluit wordt, tenzij uit de bepaling het tegendeel b
 
 #### Wijze van betaling en gegevensaanlevering
 
-#### Artikel 5
+##### Artikel 5
 
 1. De werkgever betaalt de verschuldigde vut-bijdrage, in twaalf evenredige termijnen aan het Vut-fonds. De betaling dient te geschieden voor het einde van de maand volgende op de uitbetalingstermijn waarop die bijdrage betrekking heeft.
 
@@ -90,7 +114,7 @@ Voor de toepassing van dit besluit wordt, tenzij uit de bepaling het tegendeel b
 
 #### Verhaal-vutbijdrage
 
-#### Artikel 6
+##### Artikel 6
 
 1. De werkgever verhaalt 35 procent van de verschuldigde vut-bijdrage op de werknemer als vut-bijdrageverhaal.
 
@@ -118,10 +142,10 @@ met dien verstande dat het vut-bijdrageverhaal niet negatief zal kunnen zijn.
 
 #### Slotbepalingen
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit treedt in werking op 1 januari 1996.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit kan worden aangehaald als: Regels inzake de financiering van vut-lasten.

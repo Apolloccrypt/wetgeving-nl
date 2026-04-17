@@ -1,13 +1,38 @@
 ---
-title: "Beleidsregels verstrekken van informatie over verificatieonderzoeken in India en Pakistan"
+title: "Besluit van de Minister van Buitenlandse Zaken, houdende beleidsregels omtrent het verstrekken van informatie over verificatieonderzoeken in India en Pakistan"
 identifier: "BWBR0013833"
-categorie: "Bestuursrecht"
-publicatiedatum: 2002-07-19
-laatste_update: 2002-07-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013833"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2002-07-19"
+last_updated: "2002-07-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013833"
+soort: "beleidsregel"
+stam_id: "6188323"
+version_id: "10872672"
+internal_id: "C14727531"
+label_id: "6177354"
+original_entry_into_force: "2002-07-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013833/2002-07-19/0"
+intitule_bron: "Stcrt.2002-134"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-07-03"
+intitule_published: "2002-07-17"
+intitule_in_force: "2002-07-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2002-134"
+original_signed_date: "2002-07-03"
+original_published_date: "2002-07-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2002-134-p11-SC35489"
+entry_into_force_date: "2002-07-19"
+jci_1_3: "jci1.3:c:BWBR0013833&z=2002-07-19&g=2002-07-19"
+jci_1_0: "1.0:c:BWBR0013833&g=2002-07-19"
+citeertitel_status: "redactioneel"
+short_title: "Beleidsregels verstrekken van informatie over verificatieonderzoeken in India en Pakistan"
+signed_date: "2002-07-03"
+entry_into_force: "2002-07-19"
 ---
-
 # Besluit van de Minister van Buitenlandse Zaken, houdende beleidsregels omtrent het verstrekken van informatie over verificatieonderzoeken in India en Pakistan
 
 Gelet op de [artikelen 7:4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:4), [8:29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:29), en [8:45, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:45);
@@ -16,11 +41,11 @@ Gelet op [artikel 10, tweede lid, onder g, van de Wet openbaarheid van bestuur](
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Over de bronnen, methoden en technieken van het verificatieonderzoek in het kader van de behandeling van een verzoek om legalisatie van documenten in India en Pakistan alsmede de in dat verband opgestelde stukken, wordt geen informatie verstrekt, op grond van de in de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0013833&bijlage=1&z=2002-07-19&g=2002-07-19) bij dit besluit vermelde overwegingen.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst.
 

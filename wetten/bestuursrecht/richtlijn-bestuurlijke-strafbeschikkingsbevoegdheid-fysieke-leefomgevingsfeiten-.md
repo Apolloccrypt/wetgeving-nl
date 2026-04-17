@@ -1,13 +1,35 @@
 ---
 title: "Richtlijn bestuurlijke strafbeschikkingsbevoegdheid fysieke leefomgevingsfeiten (art. 257ba, tweede lid, Sv)"
 identifier: "BWBR0049103"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049103"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049103"
+soort: "beleidsregel"
+stam_id: "16971893"
+version_id: "29836232"
+internal_id: "C42765491"
+label_id: "16882804"
+dtd_version: "2.0"
+original_entry_into_force: "2024-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049103/2025-01-01/0"
+intitule_bron: "Stcrt.2023-34329"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2023-12-14"
+intitule_in_force: "2023-12-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-34329"
+original_published_date: "2023-12-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-34329"
+entry_into_force_date: "2024-01-01"
+jci_1_3: "jci1.3:c:BWBR0049103&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0049103&g=2025-01-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2024-01-01"
 ---
-
 # Richtlijn bestuurlijke strafbeschikkingsbevoegdheid fysieke leefomgevingsfeiten (art. 257ba, tweede lid, Sv)
 
 ### Samenvatting

@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel prioriteringsbeleid handhavingsverzoeken NVWA"
+title: "Beleidsregel van de Inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister en de Staatssecretaris van Volksgezondheid, Welzijn en Sport, de Minister van Landbouw, Natuur en Voedselkwaliteit, de Minister voor Natuur en Stikstof en de Minister van Economische Zaken en Klimaat van 14 juli 2022, NVWA/2022/5640, over het prioriteringsbeleid bij de behandeling van handhavingsverzoeken"
 identifier: "BWBR0047117"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-09-06
-laatste_update: 2022-09-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047117"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2022-09-06"
+last_updated: "2022-09-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047117"
+soort: "beleidsregel"
+stam_id: "16474533"
+version_id: "28867182"
+internal_id: "C40870881"
+label_id: "16396364"
+dtd_version: "2.0"
+original_entry_into_force: "2022-09-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047117/2022-09-06/0"
+intitule_bron: "Stcrt.2022-23147"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-07-14"
+intitule_published: "2022-09-05"
+intitule_in_force: "2022-09-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-23147"
+original_signed_date: "2022-07-14"
+original_published_date: "2022-09-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-23147"
+entry_into_force_date: "2022-09-06"
+jci_1_3: "jci1.3:c:BWBR0047117&z=2022-09-06&g=2022-09-06"
+jci_1_0: "1.0:c:BWBR0047117&g=2022-09-06"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel prioriteringsbeleid handhavingsverzoeken NVWA"
+signed_date: "2022-07-14"
+entry_into_force: "2022-09-06"
 ---
-
 # Beleidsregel van de Inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister en de Staatssecretaris van Volksgezondheid, Welzijn en Sport, de Minister van Landbouw, Natuur en Voedselkwaliteit, de Minister voor Natuur en Stikstof en de Minister van Economische Zaken en Klimaat van 14 juli 2022, NVWA/2022/5640, over het prioriteringsbeleid bij de behandeling van handhavingsverzoeken
 
 De Minister en de Staatssecretaris van Volksgezondheid, Welzijn en Sport, de Minister van Landbouw, Natuur en Voedselkwaliteit, de Minister voor Natuur en Stikstof en de Minister van Economische Zaken en Klimaat,
@@ -16,7 +42,7 @@ Gelet op[artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://we
 
 Besluiten:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -24,7 +50,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - –. **NVWA:** Nederlandse Voedsel- en Warenautoriteit.
 
-#### Artikel 2. Toetsingscriteria voor het in behandeling nemen van handhavingsverzoeken
+##### Artikel 2. Toetsingscriteria voor het in behandeling nemen van handhavingsverzoeken
 
 1. Voordat een handhavingsverzoek inhoudelijk in behandeling wordt genomen door de NVWA, wordt getoetst of het onderwerp van het verzoek voldoet aan de volgende criteria:
 
@@ -38,15 +64,15 @@ In deze beleidsregel wordt verstaan onder:
 
 3. De toepassing van een of meerdere criteria kan er toe leiden dat het verzoek wordt afgewezen.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze beleidsregel ziet enkel op de afwegingen die door de NVWA worden gemaakt of een handhavingsverzoek leidt tot een volledig handhavingsonderzoek of dat het verzoek wordt afgewezen. Het beleid dat de NVWA hanteert bij de keuze van de instrumenten die gebruikt worden bij eventuele handhaving, zoals bestuurlijke boetes of herstelmaatregelen, is beschreven in het algemeen en specifiek interventiebeleid
 
-#### Artikel 4
+##### Artikel 4
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin hij wordt geplaatst.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel prioriteringsbeleid handhavingsverzoeken NVWA.
 

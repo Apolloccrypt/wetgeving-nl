@@ -1,13 +1,38 @@
 ---
 title: "Verdrag inzake sociale zekerheid tussen het Koninkrijk der Nederlanden en de Arabische Republiek Egypte"
 identifier: "BWBV0001602"
-categorie: "Sociaal recht"
-publicatiedatum: 2005-09-01
-laatste_update: 2003-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001602"
+country: "nl"
+rank: "verdrag"
+publication_date: "2005-09-01"
+last_updated: "2003-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001602"
+soort: "verdrag"
+stam_id: "10001384813"
+version_id: "10001453712"
+internal_id: "C10006993501"
+label_id: "10001385164"
+dtd_version: "2.0"
+original_entry_into_force: "2005-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001602/2005-09-01/0"
+intitule_bron: "Trb.2003-145"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-09-01"
+intitule_published: "2003-09-12"
+intitule_in_force: "2005-09-08"
+intitule_status: "goed"
+original_publication: "Trb.2003-145"
+original_signed_date: "2003-09-01"
+original_published_date: "2003-09-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2003-145"
+entry_into_force_date: "2005-09-01"
+jci_1_3: "jci1.3:c:BWBV0001602&z=2005-09-01&g=2005-09-01"
+jci_1_0: "1.0:c:BWBV0001602&g=2005-09-01"
+citeertitel_status: "redactioneel"
+signed_date: "2003-09-01"
+entry_into_force: "2005-09-01"
 ---
-
 # Verdrag inzake sociale zekerheid tussen het Koninkrijk der Nederlanden en de Arabische Republiek Egypte
 
 Het Koninkrijk der Nederlanden
@@ -26,7 +51,7 @@ Zijn het volgende overeengekomen:
 
 ## DEEL I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 1. Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -56,7 +81,7 @@ Zijn het volgende overeengekomen:
 
 2. Andere in dit Verdrag gebruikte termen hebben de betekenis die daaraan in de toegepaste wetgeving wordt gegeven.
 
-#### Artikel 2. Materiële werkingssfeer
+##### Artikel 2. Materiële werkingssfeer
 
 Dit Verdrag is van toepassing:
 
@@ -86,15 +111,15 @@ Dit Verdrag is van toepassing:
 
 - iv. werkloosheidsuitkeringen.
 
-#### Artikel 3. Personele werkingssfeer
+##### Artikel 3. Personele werkingssfeer
 
 Tenzij anders bepaald in dit Verdrag, is dit Verdrag van toepassing op alle personen op wie de wetgeving van een van de Verdragsluitende Partijen of beide Verdragsluitende Partijen van toepassing is of is geweest, alsmede op de gezinsleden en nabestaanden van deze personen voorzover zij rechten ontlenen aan deze personen.
 
-#### Artikel 4. Gelijkheid van behandeling
+##### Artikel 4. Gelijkheid van behandeling
 
 Tenzij anders bepaald in dit Verdrag, hebben de onderdanen van een Verdragsluitende Partij, wanneer zij verblijven of wonen op het grondgebied van de andere Verdragsluitende Partij, dezelfde rechten en verplichtingen uit hoofde van de wetgeving van die Verdragsluitende Partij als de onderdanen van die Verdragsluitende Partij.
 
-#### Artikel 5. Export van uitkeringen
+##### Artikel 5. Export van uitkeringen
 
 1. Tenzij in dit Verdrag anders is bepaald, is een bepaling van de wetgeving van een Verdragsluitende Partij die de betaling van een uitkering beperkt uitsluitend omdat een uitkeringsgerechtigde of een lid van zijn gezin buiten het grondgebied van die Verdragsluitende Partij woont of verblijft, niet van toepassing ten aanzien van een uitkeringsgerechtigde of een lid van zijn gezin die respectievelijk dat op het grondgebied van de andere Verdragsluitende Partij woont of verblijft.
 
@@ -104,13 +129,13 @@ Tenzij anders bepaald in dit Verdrag, hebben de onderdanen van een Verdragsluite
 
 ## DEEL II. VASTSTELLING VAN DE TOEPASSELIJKE WETGEVING
 
-#### Artikel 6. Algemene regels
+##### Artikel 6. Algemene regels
 
 1. Personen op wie de bepalingen van dit deel van het Verdrag van toepassing zijn, zijn onderworpen aan de wetgeving van slechts één Verdragsluitende Partij. Die wetgeving wordt vastgesteld in overeenstemming met de bepalingen van de artikelen 7 tot en met 12.
 
 2. Een persoon die in overeenstemming met de bepalingen van dit deel onderworpen is aan de wetgeving van één Verdragsluitende Partij wordt beschouwd als wonend op het grondgebied van die Verdragsluitende Partij.
 
-#### Artikel 7. Werknemers
+##### Artikel 7. Werknemers
 
 1. Een persoon die als werknemer werkzaam is op het grondgebied van een Verdragsluitende Partij, is onderworpen aan de wetgeving van die Verdragsluitende Partij, zelfs indien hij op het grondgebied van de andere Verdragsluitende Partij woont of indien de zetel of het domicilie van de onderneming of de werkgever waarbij hij werkzaam is, zich bevindt op het grondgebied van de andere Verdragsluitende Partij.
 
@@ -118,21 +143,21 @@ Tenzij anders bepaald in dit Verdrag, hebben de onderdanen van een Verdragsluite
 
 3. Ambulant personeel in dienst van een onderneming die tegen betaling of vergoeding of voor eigen rekening internationaal vervoer van personen of goederen verricht, is onderworpen aan de wetgeving van de Verdragsluitende Partij op het grondgebied waarvan de onderneming haar hoofdzetel heeft, zelfs indien de betrokken werknemer op het grondgebied van de andere Verdragsluitende Partij woont. Indien een persoon echter als werknemer in dienst is van een filiaal of een vaste vertegenwoordiging van genoemde onderneming op het grondgebied van de andere Verdragsluitende Partij of indien die persoon werkt en woont op het grondgebied van deze Verdragsluitende Partij, is hij onderworpen aan de wetgeving van deze Verdragsluitende Partij.
 
-#### Artikel 8. Zelfstandigen
+##### Artikel 8. Zelfstandigen
 
 Een zelfstandige die zijn beroep uitoefent op het grondgebied van een Verdragsluitende Partij, is onderworpen aan de wetgeving van die Verdragsluitende Partij, zelfs indien hij woont op het grondgebied van de andere Verdragsluitende Partij.
 
-#### Artikel 9. Gedetacheerde werknemers
+##### Artikel 9. Gedetacheerde werknemers
 
 Artikel 7, eerste lid, is van toepassing, met inachtneming van de volgende uitzonderingen en voorwaarden:
 
 Indien een persoon die op het grondgebied van een Verdragsluitende Partij werkzaam is, door zijn werkgever waaraan hij normaal verbonden is gedetacheerd wordt op het grondgebied van de andere Verdragsluitende Partij om aldaar voor die werkgever bepaalde werkzaamheden te verrichten, terwijl de betaalde dienstbetrekking met deze werkgever wordt gehandhaafd, blijft hij voor de duur van de werkzaamheden onderworpen aan de wetgeving van eerstgenoemde Verdragsluitende Partij alsof hij nog op het grondgebied van deze Verdragsluitende Partij werkzaam was, mits de desbetreffende werkzaamheden niet meer belopen dan een periode van 24 maanden en de verklaring van detachering uiterlijk binnen de eerste drie maanden van deze periode is ingediend. Achtereenvolgende detacheringen van dezelfde werknemer door dezelfde werkgever gelden als één detachering, tenzij zij door perioden van ten minste drie maanden onderbroken zijn.
 
-#### Artikel 10. Bemanningsleden aan boord van schepen
+##### Artikel 10. Bemanningsleden aan boord van schepen
 
 Een persoon die als werknemer werkzaam is aan boord van een schip en op het grondgebied van een Verdragsluitende Partij woont, is onderworpen aan de wetgeving van de Verdragsluitende Partij op het grondgebied waarvan de werkgever zijn zetel of domicilie heeft.
 
-#### Artikel 11. Personeel van diplomatieke en consulaire vertegenwoordigingen
+##### Artikel 11. Personeel van diplomatieke en consulaire vertegenwoordigingen
 
 1. Onderdanen van een Verdragsluitende Partij die door de regering van die Verdragsluitende Partij worden uitgezonden naar het grondgebied van de andere Verdragsluitende Partij als lid van een diplomatieke vertegenwoordiging of consulaire post zijn onderworpen aan de wetgeving van de eerstgenoemde Verdragsluitende Partij.
 
@@ -144,19 +169,19 @@ Een persoon die als werknemer werkzaam is aan boord van een schip en op het gron
 
 5. Het in het eerste tot en met het vierde lid van dit artikel bepaalde is niet van toepassing op honoraire leden van een consulaire post of personen in persoonlijke dienst van dergelijke personen.
 
-#### Artikel 12. Uitzonderingen op de bepalingen van de artikelen 7 tot en met 11
+##### Artikel 12. Uitzonderingen op de bepalingen van de artikelen 7 tot en met 11
 
 De bevoegde autoriteiten van beide Verdragsluitende Partijen of de door de autoriteiten aangewezen lichamen kunnen ten behoeve van bepaalde categorieën personen of bepaalde personen uitzonderingen op de bepalingen van de artikelen 7 tot en met 11 overeenkomen en daarbij een verplichte verzekering krachtens de desbetreffende wetgeving invoeren.
 
 ## DEEL III. HANDHAVING
 
-#### Artikel 13. Identificatie
+##### Artikel 13. Identificatie
 
 1. Teneinde het recht op een uitkering of op de betaling van een uitkering ingevolge de Egyptische of Nederlandse wetgeving vast te stellen, is een uitkeringsgerechtigde of een lid van zijn gezin verplicht zich te identificeren door overlegging van een officieel identiteitsbewijs aan het bevoegde orgaan op het grondgebied waarvan de betrokken persoon woont of verblijft. Een officieel identiteitsbewijs omvat een paspoort of enig ander geldig identiteitsbewijs dat is afgegeven op het grondgebied waar de betrokken persoon woont of verblijft.
 
 2. Het betrokken bevoegde orgaan identificeert de uitkeringsgerechtigde of het lid van zijn gezin aan de hand van het officiële identiteitsbewijs. Het bevoegde orgaan stelt het bevoegde orgaan van de andere Verdragsluitende Partij door toezending van een afschrift van het officiële identiteitsbewijs ervan in kennis dat de identiteit van de uitkeringsgerechtigde, of van het lid van zijn gezin, is geverifieerd.
 
-#### Artikel 14. Verificatie van aanvragen en betalingen
+##### Artikel 14. Verificatie van aanvragen en betalingen
 
 1. Voor de toepassing van dit artikel wordt verstaan onder „informatie": gegevens betreffende identiteit, adres, gezinssituatie, werk, scholing, inkomen, vermogensbestanddelen, gezondheidstoestand, overlijden en hechtenis, of alle andere gegevens die relevant zijn voor de uitvoering van dit Verdrag.
 
@@ -170,7 +195,7 @@ De bevoegde autoriteiten van beide Verdragsluitende Partijen of de door de autor
 
 6. Bij de uitvoering van dit Verdrag zijn de instellingen elkaar behulpzaam en handelen zij als betrof het de uitvoering van hun eigen wetgeving. De administratieve bijstand die door de instellingen wordt verleend, is kosteloos. De bevoegde autoriteiten van de Verdragsluitende Partijen kunnen echter overeenkomen dat bepaalde kosten worden vergoed.
 
-#### Artikel 15. Geneeskundig onderzoek
+##### Artikel 15. Geneeskundig onderzoek
 
 1. Op het verzoek van het bevoegde orgaan van een Verdragsluitende Partij draagt het bevoegde orgaan van de andere Verdragsluitende Partij zorg voor het uitvoeren van het geneeskundig onderzoek ten aanzien van een uitkeringsgerechtigde of een lid van zijn gezin die respectievelijk dat woont of verblijft op het grondgebied van de laatstgenoemde Verdragsluitende Partij.
 
@@ -180,7 +205,7 @@ De bevoegde autoriteiten van beide Verdragsluitende Partijen of de door de autor
 
 4. De kosten van het onderzoek en, naar gelang van het geval, de uitgaven voor reis en verblijf worden voldaan door het bevoegde orgaan op verzoek waarvan het onderzoek wordt verricht.
 
-#### Artikel 16. Erkenning van beslissingen en uitspraken
+##### Artikel 16. Erkenning van beslissingen en uitspraken
 
 1. Iedere beslissing inzake de terugvordering van onverschuldigde betalingen of de inning van premies en administratieve boeten uit hoofde van de toepasselijke wetgeving genomen door een bevoegd orgaan in de ene Verdragsluitende Partij waartegen geen rechtsmiddelen meer openstaan en iedere rechterlijke uitspraak gedaan met betrekking tot een dergelijke beslissing waartegen geen rechtsmiddelen meer openstaan, wordt door de andere Verdragsluitende Partij erkend.
 
@@ -188,11 +213,11 @@ De bevoegde autoriteiten van beide Verdragsluitende Partijen of de door de autor
 
 3. Voor tenuitvoerlegging vatbare beslissingen en uitspraken die ingevolge het eerste en tweede lid zijn erkend, worden door de andere Verdragsluitende Partij ten uitvoer gelegd in overeenstemming met de op het grondgebied van die staat van kracht zijnde wettelijke bepalingen die van toepassing zijn op de tenuitvoerlegging van soortgelijke beslissingen en uitspraken. De uitvoerbaarverklaring dient te worden vermeld op het gewaarmerkte afschrift van die beslissing. De andere Verdragsluitende Partij wordt in kennis gesteld van de bevestiging dat de beslissing ten uitvoer is gelegd.
 
-#### Artikel 17. Terugvordering van onverschuldigde betalingen en administratieve boetes
+##### Artikel 17. Terugvordering van onverschuldigde betalingen en administratieve boetes
 
 Indien een bevoegd orgaan een voor tenuitvoerlegging vatbare beslissing heeft genomen in de zin van artikel 16 en de desbetreffende uitkeringsgerechtigde een uitkering ontvangt van een bevoegd orgaan van de andere Verdragsluitende Partij, kan het eerstbedoelde orgaan verzoeken dat de desbetreffende betaling of de administratieve boete wordt verrekend met in die Verdragsluitende Partij achterstallige bedragen of bedragen die nog verschuldigd zijn aan de uitkeringsgerechtigde. Het laatstgenoemde bevoegde orgaan brengt het bedrag in mindering binnen de grenzen van de door dat bevoegde orgaan toegepaste wet inzake de uitvoering van overeenkomstige beslissingen en maakt het bedrag over aan het eerstgenoemde bevoegde orgaan dat recht heeft op teruggave.
 
-#### Artikel 18. Weigering te betalen, opschorting, intrekking
+##### Artikel 18. Weigering te betalen, opschorting, intrekking
 
 Het bevoegde orgaan van een Verdragsluitende Partij kan weigeren een uitkering toe te kennen of de betaling ervan opschorten of intrekken indien:
 
@@ -202,33 +227,33 @@ Het bevoegde orgaan van een Verdragsluitende Partij kan weigeren een uitkering t
 
 ## DEEL IV. DIVERSE BEPALINGEN
 
-#### Artikel 19. Bescherming van gegevens
+##### Artikel 19. Bescherming van gegevens
 
 1. Wanneer, krachtens dit Verdrag, de bevoegde autoriteiten, bevoegde organen of instellingen van een Verdragsluitende Partij persoonsgegevens meedelen aan de bevoegde autoriteiten of bevoegde organen van de andere Verdragsluitende Partij, is die mededeling onderworpen aan de door de Verdragsluitende Partij die de gegevens verstrekt vastgestelde wettelijke bepalingen inzake de bescherming van gegevens. Elke daaropvolgende overdracht dan wel opslag, wijziging of vernietiging van de gegevens is onderworpen aan de bepalingen van de wetgeving inzake bescherming van gegevens van de ontvangende Verdragsluitende Partij.
 
 2. Het gebruik van persoonsgegevens voor andere doeleinden dan die van sociale zekerheid is onderworpen aan de goedkeuring van de betrokken persoon of in overeenstemming met andere waarborgen waarin de nationale wetgeving voorziet.
 
-#### Artikel 20. Uitvoering van het Verdrag
+##### Artikel 20. Uitvoering van het Verdrag
 
 De bevoegde organen van beide Verdragsluitende Partijen kunnen, door middel van aanvullende akkoorden, maatregelen vaststellen voor de toepassing van dit Verdrag.
 
-#### Artikel 21. Taal
+##### Artikel 21. Taal
 
 1. Voor de toepassing van dit Verdrag communiceren de bevoegde autoriteiten, bevoegde organen en instellingen van de Verdragsluitende Partijen rechtstreeks met elkaar in de Engelse taal.
 
 2. Geen enkel document wordt geweigerd op grond van het enkele feit dat het is opgesteld in een officiële taal van een Verdragsluitende Partij.
 
-#### Artikel 22. Valuta
+##### Artikel 22. Valuta
 
 Uitkeringen die krachtens de bepalingen van dit Verdrag verschuldigd zijn aan een uitkeringsgerechtigde worden overgemaakt volgens de op het tijdstip van overmaking geldende valutavoorschriften. Ten aanzien van bedragen die krachtens dit Verdrag worden overgemaakt is geen verbod op of beperking van overmaking van toepassing.
 
-#### Artikel 23. Beslechting van geschillen
+##### Artikel 23. Beslechting van geschillen
 
 De bevoegde autoriteiten van beide Verdragsluitende Partijen verrichten alle redelijke inspanningen om geschillen die voortvloeien uit de uitlegging of toepassing van dit Verdrag in onderlinge overeenstemming op te lossen.
 
 ## DEEL V. SLOTBEPALINGEN
 
-#### Artikel 24. Inwerkingtreding
+##### Artikel 24. Inwerkingtreding
 
 1. De Verdragsluitende Partijen stellen elkaar schriftelijk in kennis van de voltooiing van hun onderscheiden wettelijke of grondwettelijke procedures die vereist zijn voor de inwerkingtreding van dit Verdrag.
 
@@ -236,11 +261,11 @@ De bevoegde autoriteiten van beide Verdragsluitende Partijen verrichten alle red
 
 3. Het Koninkrijk der Nederlanden past artikel 5 voorlopig toe vanaf de eerste dag van de tweede maand volgend op de datum van ondertekening.
 
-#### Artikel 25. Territoriale toepassing
+##### Artikel 25. Territoriale toepassing
 
 Met betrekking tot het Koninkrijk der Nederlanden is dit Verdrag slechts van toepassing op het grondgebied van het Koninkrijk in Europa.
 
-#### Artikel 26. Beëindiging
+##### Artikel 26. Beëindiging
 
 Dit Verdrag kan te allen tijde worden beëindigd bij schriftelijke kennisgeving aan de andere Verdragsluitende Partij. In het geval van beëindiging blijft dit Verdrag van kracht tot het einde van het kalenderjaar volgend op het jaar waarin de kennisgeving van beëindiging door de andere Verdragsluitende Partij is ontvangen.
 

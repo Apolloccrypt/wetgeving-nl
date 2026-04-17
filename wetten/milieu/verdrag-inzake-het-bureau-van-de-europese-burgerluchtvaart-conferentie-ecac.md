@@ -1,13 +1,32 @@
 ---
 title: "Verdrag inzake het Bureau van de Europese Burgerluchtvaart Conferentie (ECAC)"
 identifier: "BWBV0007108"
-categorie: "Milieu"
-publicatiedatum: 2025-05-22
-laatste_update: 2025-05-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0007108"
+country: "nl"
+rank: "verdrag"
+publication_date: "2025-05-22"
+last_updated: "2025-05-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0007108"
+soort: "verdrag"
+stam_id: "10005710133"
+version_id: "10006309602"
+internal_id: "C10010213631"
+label_id: "10005691944"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0007108/2025-05-22/0"
+intitule_bron: "Trb.2025-70"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2025-09-05"
+intitule_status: "nogniet"
+original_publication: "Trb.2025-70"
+original_published_date: "2025-09-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2025-70"
+jci_1_3: "jci1.3:c:BWBV0007108&z=2025-05-22&g=2025-05-22"
+jci_1_0: "1.0:c:BWBV0007108&g=2025-05-22"
+citeertitel_status: "redactioneel"
+entry_into_force: "2025-09-05"
 ---
-
 # Verdrag inzake het Bureau van de Europese Burgerluchtvaart Conferentie (ECAC)
 
 De staten die partij zijn bij dit Verdrag, hierna te noemen de “partijen”;
@@ -22,7 +41,7 @@ Vastbesloten een Bureau met rechtspersoonlijkheid op te richten om de rol van he
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -40,7 +59,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - g. „Zetelovereenkomst”: de overeenkomst tussen het Bureau en de regering van de Franse Republiek betreffende de vestiging in Frankrijk van de permanente zetel van het Bureau en de vaststelling van de voorrechten en immuniteiten van het Bureau in Frankrijk.
 
-#### Artikel 2. Het Bureau
+##### Artikel 2. Het Bureau
 
 1. Het Bureau van de Conferentie, hierna „het Bureau” genoemd, wordt bij dit Verdrag opgericht.
 
@@ -50,21 +69,21 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 4. De zetel van het Bureau wordt in Frankrijk gevestigd.
 
-#### Artikel 3. Rechtspositie van het Bureau
+##### Artikel 3. Rechtspositie van het Bureau
 
 Het Bureau bezit internationale rechtspersoonlijkheid. Het Bureau bezit volledige handelingsbekwaamheid, noodzakelijk voor de uitoefening van zijn mandaat als omschreven in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0007108&artikel=4&z=2025-05-22&g=2025-05-22).
 
-#### Artikel 4. Mandaat van het Bureau
+##### Artikel 4. Mandaat van het Bureau
 
 Het mandaat van het Bureau bestaat uit het ondersteunen van de activiteiten van de Conferentie en het waarborgen van de uitvoering van de door de directeuren-generaal van de burgerluchtvaart van de ECAC-lidstaten aangenomen besluiten.
 
-#### Artikel 5. Voorrechten en immuniteiten van het Bureau
+##### Artikel 5. Voorrechten en immuniteiten van het Bureau
 
 1. De voorrechten en immuniteiten van het Bureau in Frankrijk worden vastgesteld in de zetelovereenkomst.
 
 2. Andere partijen kunnen voorrechten en immuniteiten verlenen ter ondersteuning van de activiteiten van het Bureau in hun landen, in het bijzonder voor wat betreft immuniteit van rechtsvervolging met betrekking tot het gesproken en geschreven woord en alle door de uitvoerend secretaris en medewerkers van het Bureau in hun officiële functies verrichte handelingen.
 
-#### Artikel 6. Het Comité van de partijen
+##### Artikel 6. Het Comité van de partijen
 
 1. Het Comité van de partijen bestaat uit één vertegenwoordiger van elke partij.
 
@@ -74,7 +93,7 @@ Het mandaat van het Bureau bestaat uit het ondersteunen van de activiteiten van 
 
 4. Het Comité van de partijen stelt zijn eigen reglement van orde vast.
 
-#### Artikel 7. Functies van het Comité van de partijen
+##### Artikel 7. Functies van het Comité van de partijen
 
 1. Het Comité van de partijen:
 
@@ -88,7 +107,7 @@ Het mandaat van het Bureau bestaat uit het ondersteunen van de activiteiten van 
 
 2. Het Comité van de partijen verricht geen van de activiteiten of oefent geen van de functies van de Conferentie uit.
 
-#### Artikel 8. Stemregels van het Comité van de partijen
+##### Artikel 8. Stemregels van het Comité van de partijen
 
 1. Besluiten van het Comité van de partijen worden voor zover mogelijk bij consensus genomen. Indien geen consensus kan worden bereikt, wordt een besluit genomen met een tweederdemeerderheid van de uitgebrachte stemmen.
 
@@ -96,17 +115,17 @@ Het mandaat van het Bureau bestaat uit het ondersteunen van de activiteiten van 
 
 3. Waarnemers bij het Comité van de partijen kunnen aan de besprekingen deelnemen, maar zij hebben geen stemrecht.
 
-#### Artikel 9. Medewerkers van het Bureau
+##### Artikel 9. Medewerkers van het Bureau
 
 1. Alle medewerkers van het Bureau hebben de nationaliteit van een ECAC-lidstaat.
 
 2. Geen enkele medewerker van het Bureau mag van enige regering of andere autoriteit buiten de Conferentie instructies vragen of aannemen met betrekking tot de vervulling van zijn of haar officiële taken.
 
-#### Artikel 10. Benoeming van de uitvoerend secretaris
+##### Artikel 10. Benoeming van de uitvoerend secretaris
 
 De Conferentie benoemt, op basis van een door het Comité van de partijen opgestelde lijst van voorgedragen kandidaten in volgorde van voorkeur, de uitvoerend secretaris voor een mandaat van ten hoogste vijf jaar, dat eenmaal kan worden verlengd, op basis van de door de directeuren-generaal van de burgerluchtvaart van de ECAC-lidstaten overeengekomen procedure.
 
-#### Artikel 11. Rol en taken van de uitvoerend secretaris
+##### Artikel 11. Rol en taken van de uitvoerend secretaris
 
 1. De uitvoerend secretaris treedt op als wettelijke vertegenwoordiger van het Bureau in de uitoefening van zijn in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0007108&artikel=4&z=2025-05-22&g=2025-05-22) vastgestelde mandaat en voert namens het Bureau onder meer de volgende taken uit:
 
@@ -156,11 +175,11 @@ De Conferentie benoemt, op basis van een door het Comité van de partijen opgest
 
 6. De uitvoerend secretaris kan de uitvoering van bovengenoemde taken geheel of gedeeltelijk delegeren aan de plaatsvervangend uitvoerend secretaris.
 
-#### Artikel 12. Partijen
+##### Artikel 12. Partijen
 
 ECAC-lidstaten kunnen partij bij dit Verdrag worden, hetzij volgens de procedure van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0007108&artikel=13&z=2025-05-22&g=2025-05-22), hetzij volgens de procedure van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0007108&artikel=14&z=2025-05-22&g=2025-05-22).
 
-#### Artikel 13. Ondertekening
+##### Artikel 13. Ondertekening
 
 1. ECAC-lidstaten kunnen partij worden door:
 
@@ -170,37 +189,37 @@ ECAC-lidstaten kunnen partij bij dit Verdrag worden, hetzij volgens de procedure
 
 2. Dit Verdrag blijft openstaan voor ondertekening tot aan de datum van inwerkingtreding van het Verdrag.
 
-#### Artikel 14. Toetreding
+##### Artikel 14. Toetreding
 
 Na de inwerkingtreding blijft dit Verdrag openstaan voor toetreding door elke staat die een ECAC-lidstaat is.
 
-#### Artikel 15. Inwerkingtreding
+##### Artikel 15. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking op de eerste dag van de derde maand volgend op de datum waarop de regering van de Franse Republiek ondertekeningen en, indien vereist, akten van bekrachtiging, aanvaarding of goedkeuring van tweeëntwintig ECAC-lidstaten heeft ontvangen.
 
 2. Ten aanzien van iedere staat die dit Verdrag bekrachtigt, aanvaardt, goedkeurt of tot het Verdrag toetreedt na de datum van inwerkingtreding van dit Verdrag, treedt dit Verdrag voor die staat in werking op de eerste dag van de derde maand na de datum van nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding bij de regering van de Franse Republiek.
 
-#### Artikel 16. Opzegging
+##### Artikel 16. Opzegging
 
 1. Elke partij kan dit Verdrag opzeggen door middel van een schriftelijke kennisgeving aan de regering van de Franse Republiek, die de partijen, de uitvoerend secretaris en de president van de Conferentie van deze opzegging in kennis stelt.
 
 2. De opzegging wordt van kracht twaalf maanden na de datum van ontvangst van de kennisgeving van opzegging door de regering van de Franse Republiek.
 
-#### Artikel 17. Beslechting van geschillen
+##### Artikel 17. Beslechting van geschillen
 
 Elk geschil tussen de partijen over de uitvoering of interpretatie van dit Verdrag wordt beslecht door middel van onderhandelingen tussen de betrokken partijen. Een dergelijk geschil dat niet door middel van onderhandelingen tussen de betrokken partijen wordt beslecht, wordt op verzoek van een van deze partijen voorgelegd ter bemiddeling door een derde of goede diensten van een derde.
 
-#### Artikel 18. Gevolgen van het Verdrag
+##### Artikel 18. Gevolgen van het Verdrag
 
 Dit Verdrag laat het soevereine recht van elke partij om haar eigen burgerluchtvaartsector te reguleren onverlet.
 
-#### Artikel 19. Wijzigingen van het Verdrag
+##### Artikel 19. Wijzigingen van het Verdrag
 
 1. De partijen kunnen dit Verdrag wijzigen. Een besluit om een wijziging aan te nemen en ter ondertekening, bekrachtiging, aanvaarding of goedkeuring aan de partijen voor te leggen, vereist de unanieme instemming van alle partijen.
 
 2. Een aldus aangenomen wijziging treedt voor alle partijen in werking op de eerste dag van de derde maand nadat de regering van de Franse Republiek de partijen in kennis heeft gesteld van de ontvangst van kennisgevingen van bekrachtiging, aanvaarding of goedkeuring van alle partijen.
 
-#### Artikel 20. Depositaris
+##### Artikel 20. Depositaris
 
 1. De regering van de Franse Republiek treedt op als depositaris voor dit Verdrag.
 

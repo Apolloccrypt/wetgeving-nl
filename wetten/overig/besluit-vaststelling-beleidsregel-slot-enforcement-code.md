@@ -1,13 +1,38 @@
 ---
 title: "Besluit vaststelling beleidsregel 'Slot Enforcement Code'"
 identifier: "BWBR0052360"
-categorie: "Overig"
-publicatiedatum: 2026-02-25
-laatste_update: 2026-02-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052360"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-02-25"
+last_updated: "2026-02-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052360"
+soort: "zbo"
+stam_id: "17779873"
+version_id: "31431882"
+internal_id: "C44900501"
+label_id: "17677764"
+dtd_version: "2.0"
+original_entry_into_force: "2026-02-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052360/2026-02-25/0"
+intitule_bron: "Stcrt.2026-7758"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2026-02-04"
+intitule_published: "2026-02-25"
+intitule_in_force: "2026-02-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-7758"
+original_signed_date: "2026-02-04"
+original_published_date: "2026-02-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-7758"
+entry_into_force_date: "2026-02-25"
+jci_1_3: "jci1.3:c:BWBR0052360&z=2026-02-25&g=2026-02-25"
+jci_1_0: "1.0:c:BWBR0052360&g=2026-02-25"
+citeertitel_status: "redactioneel"
+signed_date: "2026-02-04"
+entry_into_force: "2026-02-25"
 ---
-
 # Besluit vaststelling beleidsregel 'Slot Enforcement Code'
 
 Gelet op:
@@ -30,15 +55,15 @@ De beleidsregel ‘Slot Enforcement Code’ (versie 2.0 d.d. 13 november 2025) d
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De beleidsregel ‘Slot Enforcement Code’, versie 2.0, d.d. 13 november 2025, wordt vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met terugwerkende kracht tot en met 13 november 2025.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit en de daarbij behorende [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0052360&bijlage=1&z=2026-02-25&g=2026-02-25) worden gepubliceerd op de website van Airport Coordination Netherlands ([www.slotcoordination.nl](http://www.slotcoordination.nl)) en in de Staatscourant.
 

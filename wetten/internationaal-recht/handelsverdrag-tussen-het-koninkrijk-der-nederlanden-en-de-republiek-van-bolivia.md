@@ -1,13 +1,37 @@
 ---
 title: "Handelsverdrag tussen het Koninkrijk der Nederlanden en de Republiek van Bolivia"
 identifier: "BWBV0006012"
-categorie: "Internationaal recht"
-publicatiedatum: 1932-10-12
-laatste_update: 1932-10-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006012"
+country: "nl"
+rank: "verdrag"
+publication_date: "1932-10-12"
+last_updated: "1932-10-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006012"
+soort: "verdrag"
+stam_id: "10004981273"
+version_id: "10005300002"
+internal_id: "C10008168041"
+label_id: "10004964594"
+dtd_version: "2.0"
+original_entry_into_force: "1932-10-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006012/1932-10-12/0"
+intitule_bron: "Stb.1932-409"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1932-07-26"
+intitule_published: "1932-08-19"
+intitule_in_force: "1932-08-19"
+intitule_status: "goed"
+original_publication: "Stb.1932-409"
+original_signed_date: "1932-07-26"
+original_published_date: "1932-08-19"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1932-10-12"
+jci_1_3: "jci1.3:c:BWBV0006012&z=1932-10-12&g=1932-10-12"
+jci_1_0: "1.0:c:BWBV0006012&g=1932-10-12"
+citeertitel_status: "redactioneel"
+signed_date: "1932-07-26"
+entry_into_force: "1932-10-12"
 ---
-
 # Handelsverdrag tussen het Koninkrijk der Nederlanden en de Republiek van Bolivia
 
 Hare Majesteit de Koningin der Nederlanden en Zijne Excellentie de President der Boliviaansche Republiek, verlangend de thans tusschen de beide landen bestaande handelsbetrekkingen uit te breiden en te vergemakkelijken, hebben besloten een Handelsverdrag te sluiten en hebben te dien einde Hunne Gevolmachtigden benoemd, te weten:
@@ -24,7 +48,7 @@ Zijn Minister van Buitenlandsche Betrekkingen,
 
 die, na hunne wederzijdsche Volmachten te hebben uitgewisseld, welke in goeden en behoorlijken vorm werden bevonden, omtrent de navolgende artikelen zijn overeengekomen:
 
-#### Artikel I
+##### Artikel I
 
 1. De onderdanen van elk der Hooge Verdragsluitende Partijen zullen volle vrijheid hebben zich te begeven op het gebied van de andere Partij, daar te verblijven, te reizen en het te verlaten, mits zij zich echter gedragen naar de wetten en verordeningen, die er ter zake van kracht zijn of zullen zijn.
 
@@ -36,7 +60,7 @@ die, na hunne wederzijdsche Volmachten te hebben uitgewisseld, welke in goeden e
 
 5. De onderdanen van elk der Hooge Verdragsluitende Partijen, die, volgens de wetgeving van de andere, vreemdeling zijn en die op behoorlijke wijze hunne nationaliteit zullen hebben kenbaar gemaakt, zullen op het grondgebied van de andere zijn vrijgesteld van iederen persoonlijken dienstplicht en van iedere verplichte publiekrechtelijke functie, evenals van iedere bijdrage, hetzij in geld, hetzij in natura, opgelegd in plaats van genoemden persoonlijken dienstplicht. Zij zullen zoowel in vredes- als in oorlogstijd, slechts worden gedwongen tot die verrichtingen en vorderingen van militairen aard, welke worden opgelegd aan de eigen onderdanen of aan die van de meestbegunstigde natie in dezelfde mate en volgens dezelfde beginselen en tegen dezelfde schadeloosstellingen als dezen.
 
-#### Artikel. II
+##### Artikel. II
 
 1. De naamlooze vennootschappen en andere vereenigingen op het gebied van handel, nijverheid of financiën, met inbegrip van de scheepvaart- en verzekeringmaatschappijen, die haar zetel hebben op het gebied van één der Hooge Verdragsluitende Partijen zullen, op voorwaarde dat zij er, overeenkomstig de van kracht zijnde wetten, rechtspersoonlijkheid te hebben, worden erkend eveneens rechtspersoonlijkheid te hebben op het gebied van de andere. Zij zullen, mits zij zich gedragen naar de wetten en verordeningen, het recht hebben bij de rechtbanken in rechte op te treden, hetzij voor het instellen van een actie, hetzij om er te verdedigen.
 
@@ -44,11 +68,11 @@ die, na hunne wederzijdsche Volmachten te hebben uitgewisseld, welke in goeden e
 
 3. Genoemde maatschappijen zullen, evenals hare bijkantoren, op het gebied van de andere Partij dezelfde rechten genieten als die, welke worden of later zullen worden toegekend aan soortgelijke maatschappijen van de meestbegunstigde natie; met name zullen zij voor de uitoefening van haar bedrijf op het gebied der andere Partij geen belastingen, rechten, heffingen of bijdragen behoeven te betalen, onder welke benaming of van welken aard ook, hooger dan of verschillend van die, welke worden of zullen kunnen worden geheven van soortgelijke maatschappijen van de meestbegunstigde natie.
 
-#### Artikel III
+##### Artikel III
 
 De terreinen en woningen, opslagplaatsen, fabrieken, magazijnen en andere gebouwen der onderdanen van elk der Hooge Verdragsluitende Partijen op het gebied van de andere Partij, die gebezigd worden als woonplaats of voor den handel, zullen niet aan een onderzoek of doorzoekingen kunnen worden onderworpen, en de boeken, papieren en rekeningen, die er zich zullen bevinden zullen niet onderzocht of nagezien kunnen worden, behalve in de omstandigheden en op de wijze voorzien bij de wetten en verordeningen, die toepasselijk zijn op de eigen onderdanen of op de onderdanen van de meestbegunstigde natie.
 
-#### Artikel IV
+##### Artikel IV
 
 1. De handelaren, kooplieden, industrieelen en fabrikanten, die onderdanen zijn van één van de Hooge Verdragsluitende Partijen, zullen, evenals hunne handelsreizigers, het recht hebben op het gebied van de andere Partij de handelaren of producenten en de publieke verkoopplaatsen te bezoeken, er aankoopen te doen en bestellingen uit te lokken bij personen of huizen, die de aangeboden goederen weder-verkoopen of deze gebruiken in hun beroep of in hun nijverheid, mits zij betalen de wettige belastingen, die ter zake van kracht zijn.
 
@@ -56,7 +80,7 @@ De terreinen en woningen, opslagplaatsen, fabrieken, magazijnen en andere gebouw
 
 3. De aan een douanerecht onderworpen goederen, die zullen worden ingevoerd als monsters of modellen, met uitzondering van ten invoer verboden goederen, zullen tijdelijk worden binnengelaten onder vrijstelling van in- en uitvoerrechten, mits in acht genomen worden de douanevoorschriften en formaliteiten, noodig om te verzekeren hun wederuitvoer of de betaling van rechten, voorgeschreven voor het geval, dat geen wederuitvoer heeft plaats gehad binnen den termijn, bij de wet voorzien.
 
-#### Artikel V
+##### Artikel V
 
 1. Er zal volle en algeheele vrijheid van handel tusschen de gebieden van de Hooge Verdragsluitende Partijen bestaan.
 
@@ -68,25 +92,25 @@ De terreinen en woningen, opslagplaatsen, fabrieken, magazijnen en andere gebouw
 
 5. Op elk ander gebied verplicht elk der Hooge Verdragsluitende Partijen zich bovendien de andere, hetzij bij den invoer, hetzij bij den uitvoer, hetzij bij den doorvoer, niet te onderwerpen aan een behandeling, verschillend van of minder gunstig dan de behandeling toegepast op welken derden Staat ook, met name voor wat betreft de douanevoorschriften en hunne toepassing, den opslag, de wijze van verificatie en onderzoek van de goederen, de betalingsvoorwaarden der douanerechten en der belastingen en de classificatie en den uitleg van de tarieven. Zij zullen alle faciliteiten genieten, welke op douanegebied worden toegekend aan de voortbrengselen van elk ander land.
 
-#### Artikel VI
+##### Artikel VI
 
 Indien de omstandigheden het onvermijdelijk maken, zullen de Hooge Verdragsluitende Partijen kunnen verlangen, dat de voortbrengselen en koopwaren, ingevoerd binnen haar gebied, van een door de bevoegde autoriteit afgegeven certificaat van oorsprong, worden vergezeld. De legalisatie van de desbetreffende certificaten door een diplomatiek of consulair ambtenaar, zal geschieden tegen betaling van de zegels of van de wettige rechten, die van kracht zijn.
 
-#### Artikel VII
+##### Artikel VII
 
 De accijnzen, de voor rekening van den Staat, de provinciën en de gemeenten of andere openbare instellingen geheven binnenlandsche rechten en belastingen, waarmede worden belast of zullen worden belast de voortbrenging, de bereiding of het verbruik van goederen op het gebied van één der Hooge Verdragsluitende Partijen, zullen de voortbrengselen van de andere Partij niet op een zwaardere of lastiger wijze mogen treffen dan de gelijksoortige producten, die hun oorsprong vinden in het meestbegunstigde land.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Elk der Hooge Verdragsluitende Partijen zal kunnen benoemen Consuls-Generaal, Consuls, Vice-Consuls en andere Consulaire ambtenaren op het gebied van de andere, uitgezonderd het gebied van Nederlandsch-Indië, Suriname en Curaçao. De toelating en de bevoegdheden der Boliviaansche Consulaire ambtenaren op dit gebied zullen slechts kunnen worden geregeld door een bijzondere overeenkomst te dezer zake.
 
 De Consuls-Generaal, Consuls, Vice-Consuls en andere Consulaire ambtenaren zullen, na het exequatur of eenige andere noodzakelijke machtiging te hebben ontvangen van de Regeering van het land, waar zij zijn benoemd, op voet van wederkeerigheid, het recht hebben alle werkzaamheden uit te oefenen en van alle voorrechten, vrijstellingen en immuniteiten te genieten, die worden of zullen kunnen worden toegekend aan de Consulaire ambtenaren van denzelfden graad van de meestbegunstigde natie.
 
-#### Artikel IX
+##### Artikel IX
 
 Ingeval een onderdaan van een der Hooge Verdragsluitende Partijen zonder testament gemaakt te hebben, mocht overlijden op het grondgebied van de andere Partij, zullen de overheidspersonen, die volgens de plaatselijke wetten zijn belast met het beheer van de nalatenschap, daarmede de Consulaire ambtenaren in kennis stellen, ten einde aan de belanghebbenden de noodige inlichtingen over te brengen. De Consul-Generaal, Consul, Vice-Consul of andere Consulaire ambtenaar van het land waartoe de overledene behoorde, zal, voor zoover de wetgeving van elk land dat toelaat en in afwachting van de benoeming van een bewindvoerder en totdat deze laatste in staat zal zijn, zijn werkzaamheden te verrichten, bezit nemen van de persoonlijke eigendommen van den overledene, ten behoeve van zijn wettelijke erfgenamen en zijn schuldeischers.
 
-#### Artikel X
+##### Artikel X
 
 Niet zullen geacht worden te vallen onder de bepalingen van de behandeling op den voet der meestbegunstigde natie, de hierna te noemen rechten of voorrechten, te weten:
 
@@ -102,19 +126,19 @@ Niet zullen geacht worden te vallen onder de bepalingen van de behandeling op de
 
 - f. de heffing door één der beide Landen van supplementaire rechten, ter compensatie van premiën op den uitvoer of de voortbrenging, die enkele voortbrengselen in het ander Land zouden kunnen genieten.
 
-#### Artikel XI
+##### Artikel XI
 
 Elk geschil betreffende de uitlegging, de toepassing of de uitvoering van dit verdrag, dat niet tusschen de Hooge Verdragsluitende Partijen is kunnen worden opgelost, zal worden onderworpen aan het Permanente Hof van Internationale Justitie, dat bevoegd zal zijn op het geschilpunt te beslissen op verzoek van beide Partijen of één Harer.
 
-#### Artikel XII
+##### Artikel XII
 
 De bepalingen van dit verdrag zullen van toepassing zijn op het Nederlandsch grondgebied in Europa, evenals, met uitzondering van de bepalingen van artikel VIII, op Nederlandsch-Indië, op Suriname en op Curaçao.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Dit verdrag is opgesteld in de Nederlandsche, Spaansche en Fransche taal, met dien verstande, dat, in geval van gebrek aan overeenstemming of verschil van uitleg tusschen de Nederlandsche en Spaansche teksten, de Fransche tekst voorrang zal genieten.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Dit verdrag zal worden bekrachtigd en zijn bekrachtigingsoorkonden zullen zoodra doenlijk worden uitgewisseld te 's-Gravenhage.
 

@@ -1,13 +1,38 @@
 ---
 title: "Circulaire houtopslag"
 identifier: "BWBR0020466"
-categorie: "Bestuursrecht"
-publicatiedatum: 2006-11-02
-laatste_update: 2006-11-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020466"
+country: "nl"
+rank: "circulaire"
+publication_date: "2006-11-02"
+last_updated: "2006-11-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020466"
+soort: "circulaire"
+stam_id: "8704283"
+version_id: "13731922"
+internal_id: "C18535511"
+label_id: "8684414"
+dtd_version: "2.0"
+original_entry_into_force: "2006-11-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020466/2006-11-02/0"
+intitule_bron: "Stcrt.2006-214"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-10-25"
+intitule_published: "2006-11-02"
+intitule_in_force: "2006-11-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-214"
+original_signed_date: "2006-10-25"
+original_published_date: "2006-11-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-214-p29-SC77476"
+entry_into_force_date: "2006-11-02"
+jci_1_3: "jci1.3:c:BWBR0020466&z=2006-11-02&g=2006-11-02"
+jci_1_0: "1.0:c:BWBR0020466&g=2006-11-02"
+citeertitel_status: "redactioneel"
+signed_date: "2006-10-25"
+entry_into_force: "2006-11-02"
 ---
-
 # Circulaire houtopslag
 
 ### 1. Intrekking ontwerp-Reparatiebesluit

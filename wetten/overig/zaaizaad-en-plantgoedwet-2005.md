@@ -1,14 +1,42 @@
 ---
-title: "Zaaizaad- en plantgoedwet 2005"
+title: "Wet van 19 februari 2005, houdende een nieuwe regeling voor het toelaten van rassen, het in de handel brengen van teeltmateriaal en het verlenen van kwekersrecht (Zaaizaad- en plantgoedwet 2005)"
 identifier: "BWBR0018040"
-categorie: "Overig"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0018040"
+country: "nl"
+rank: "wet"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0018040"
+soort: "wet"
+stam_id: "6909293"
+version_id: "22015712"
+internal_id: "C31569761"
+label_id: "6898504"
+dtd_version: "2.0"
+original_entry_into_force: "2014-12-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0018040/2025-01-01/0"
+intitule_bron: "Stb.2005-184"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-02-19"
+intitule_published: "2005-04-07"
+intitule_in_force: "2006-01-31"
+intitule_status: "goed"
+original_publication: "Stb.2014-571"
+original_signed_date: "2014-12-17"
+original_published_date: "2014-12-24"
+original_effect: "structuurwijziging"
+original_dossier: "33910"
+original_url_id: "stb-2014-571"
+entry_into_force_date: "2014-12-17"
+entry_into_force_dossier: "33910"
+jci_1_3: "jci1.3:c:BWBR0018040&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0018040&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Zaaizaad- en plantgoedwet 2005"
+signed_date: "2014-12-17"
+entry_into_force: "2014-12-17"
 ---
-
-# Zaaizaad- en plantgoedwet 2005
+# Wet van 19 februari 2005, houdende een nieuwe regeling voor het toelaten van rassen, het in de handel brengen van teeltmateriaal en het verlenen van kwekersrecht (Zaaizaad- en plantgoedwet 2005)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +46,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -58,7 +86,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 2. Raad voor plantenrassen
 
-#### Artikel 2
+##### Artikel 2
 
 Er is een Raad voor plantenrassen, die tot taak heeft:
 
@@ -72,7 +100,7 @@ Er is een Raad voor plantenrassen, die tot taak heeft:
 
 - e. het toelaten en in het rassenregister inschrijven van plantengroepen als bedoeld in [artikel 85](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=8&artikel=85&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 3
+##### Artikel 3
 
 1. De Raad bestaat uit ten minste zeven en ten hoogste elf leden, de voorzitter daaronder begrepen. De benoeming vindt plaats op grond van deskundigheid op het gebied van de taken waarmee de Raad is belast.
 
@@ -84,7 +112,7 @@ Er is een Raad voor plantenrassen, die tot taak heeft:
 
 5. Bij algemene maatregel van bestuur kunnen één of meer afdelingen van de Raad worden ingesteld.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De benoeming van de voorzitter en de overige leden vindt plaats voor een periode van vijf jaar.
 
@@ -92,11 +120,11 @@ Er is een Raad voor plantenrassen, die tot taak heeft:
 
 3. Degene die is benoemd ter vervanging van een tussentijds opengevallen plaats, treedt af op het tijdstip waarop degene in wiens plaats hij is benoemd, zou moeten aftreden.
 
-#### Artikel 5
+##### Artikel 5
 
 De voorzitter en de overige leden, de secretaris en de adjunct-secretarissen nemen niet deel aan de behandeling van zaken, waarbij zij in enig opzicht persoonlijk betrokken zijn.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De kosten van de Raad komen ten laste van de rijksbegroting.
 
@@ -132,7 +160,7 @@ De voorzitter en de overige leden, de secretaris en de adjunct-secretarissen nem
 
 6. De Raad neemt geen stukken in behandeling en verstrekt geen afschriften en uittreksels uit het rassenregister, zolang niet het ingevolge dit artikel verschuldigde bedrag wordt voldaan.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De Raad kan getuigen en deskundigen horen in verband met het toelaten van rassen en opstanden en het verlenen van kwekersrecht.
 
@@ -146,7 +174,7 @@ De voorzitter en de overige leden, de secretaris en de adjunct-secretarissen nem
 
 6. De deskundigen zijn verplicht hun taak onpartijdig en naar beste weten te verrichten.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De Raad stelt een bestuursreglement vast, waarin in ieder geval wordt geregeld:
 
@@ -160,49 +188,49 @@ De voorzitter en de overige leden, de secretaris en de adjunct-secretarissen nem
 
 3. De Raad kan bij het in het eerst lid bedoelde reglement de uitoefening van daarbij aan te wijzen taken en bevoegdheden opdragen aan een of meer leden of aan de secretaris.
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
-#### Artikel 17
+##### Artikel 17
 
 Vervallen
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
 ### Hoofdstuk 3. Keuringsinstellingen
 
-#### Artikel 19
+##### Artikel 19
 
 1. Bij algemene maatregel van bestuur worden een of meer privaatrechtelijke rechtspersonen met volledige rechtsbevoegdheid belast met de keuring van teeltmateriaal en het uitreiken van bewijsstukken of kentekenen ter uitvoering van het bepaalde bij of krachtens [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=6&z=2025-01-01&g=2025-01-01) van deze wet.
 
@@ -210,13 +238,13 @@ Vervallen
 
 3. Bij een maatregel als bedoeld in het eerste lid kan een ingevolge dat lid aangewezen keuringsinstelling tevens worden belast met de erkenning of registratie van leveranciers, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=6&artikel=42&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 20
+##### Artikel 20
 
 1. Een krachtens [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=3&artikel=19&z=2025-01-01&g=2025-01-01) aangewezen keuringsinstelling is niet werkzaam met het oogmerk om winst te behalen.
 
 2. De keuringsinstelling stelt een reglement vast waarin wordt geregeld de wijze waarop de keuring wordt uitgevoerd en de wijze waarop het uitreiken van bewijsstukken en kentekenen plaatsvindt. Het reglement behoeft de goedkeuring van Onze Minister. De goedkeuring kan worden onthouden wegens strijd met het recht of op de grond dat het reglement naar het oordeel van Onze Minister een goede taakuitoefening door de keuringsinstelling kan belemmeren.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Voor zover de kosten van een keuringsinstelling betrekking hebben op de in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=3&artikel=19&z=2025-01-01&g=2025-01-01) bedoelde wettelijke taken, worden zij gedekt uit de door de keuringsinstelling vast te stellen en in rekening te brengen tarieven voor:
 
@@ -246,23 +274,23 @@ Vervallen
 
 5. De keuringsinstelling verricht geen activiteiten als bedoeld in het eerste lid of staakt deze, indien niet het ingevolge dit artikel verschuldigde bedrag wordt voldaan.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Wijzigingen van de statuten van een krachtens [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=3&artikel=19&z=2025-01-01&g=2025-01-01) aangewezen keuringsinstelling behoeven, alvorens zij van kracht zijn, de instemming van Onze Minister. Onze Minister draagt zorg voor de publicatie van de statuten in de Staatscourant.
 
 2. De benoeming en het ontslag van de voorzitter van een keuringsinstelling behoeft voorafgaande goedkeuring van Onze Minister.
 
-#### Artikel 23
+##### Artikel 23
 
 De keuringsinstelling houdt een afzonderlijke boekhouding bij ter zake van de bij of krachtens deze wet opgedragen taken en daaruit onmiddellijk voortvloeiende werkzaamheden en verantwoordt die taken en werkzaamheden afzonderlijk in haar jaarrekening.
 
-#### Artikel 24
+##### Artikel 24
 
 Op een keuringsinstelling als bedoeld in dit hoofdstuk is de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) van toepassing.
 
 ### Hoofdstuk 4. Het rassenregister
 
-#### Artikel 25
+##### Artikel 25
 
 1. Er is een Nederlands rassenregister dat bestemd is voor de inschrijving van rassen en opstanden. Het register is openbaar.
 
@@ -286,13 +314,13 @@ Op een keuringsinstelling als bedoeld in dit hoofdstuk is de [Kaderwet zelfstand
 
 - c. voor zover het opstanden betreft: een vermelding van de eigenaar of beheerder en de groeiplaats van de opstand.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Ter uitvoering van bindende besluiten van de Raad van de Europese Unie, van het Europees Parlement en de Raad van de Europese Unie gezamenlijk of van de Europese Commissie stelt de Raad nationale lijsten samen van de in Nederland van een gewas toegelaten rassen en opstanden, op basis van de in het rassenregister opgenomen gegevens.
 
 2. Van de vaststelling van een nationale lijst als bedoeld in het eerste lid wordt mededeling gedaan in de Staatscourant.
 
-#### Artikel 27
+##### Artikel 27
 
 1. De in [artikel 25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=4&artikel=25&z=2025-01-01&g=2025-01-01), bedoelde benaming is geschikt om het ras waarvoor zij wordt gebezigd, te identificeren.
 
@@ -310,7 +338,7 @@ Op een keuringsinstelling als bedoeld in dit hoofdstuk is de [Kaderwet zelfstand
 
 6. Bij ministeriële regeling worden, ter uitvoering van een bindend besluit van de Raad van de Europese Unie, van het Europees Parlement en de Raad gezamenlijk of van de Europese Commissie nadere regels gesteld omtrent de benaming. Bij het stellen van regels als bedoeld in de eerste volzin wordt tevens rekening gehouden met de door de Raad van de Europese Unie vastgestelde aanbevelingen met betrekking tot de benaming van rassen waarvoor kwekersrecht is verleend.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Alvorens een benaming vast te stellen, doet de Raad van het voornemen daartoe mededeling in de Staatscourant.
 
@@ -320,7 +348,7 @@ Op een keuringsinstelling als bedoeld in dit hoofdstuk is de [Kaderwet zelfstand
 
 4. Het bureau, bedoeld in [artikel 1 van de Rijksoctrooiwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=1) verstrekt aan de Raad desgevraagd inlichtingen omtrent bij hem ingeschreven merken.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Bij de aanvraag tot verlening van kwekersrecht en bij de aanvraag voor de toelating van een ras, doet de aanvrager een voorstel voor de benaming van het ras.
 
@@ -332,7 +360,7 @@ Op een keuringsinstelling als bedoeld in dit hoofdstuk is de [Kaderwet zelfstand
 
 5. De Raad verstrekt desgevraagd aan het bureau, bedoeld in [artikel 1 van de Rijksoctrooiwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=1) en het Bureau van de Unie inlichtingen over de bij hem ingeschreven benamingen.
 
-#### Artikel 30
+##### Artikel 30
 
 1. Indien het gebruik van een ingeschreven benaming voor teeltmateriaal van het ras, waarvoor deze is ingeschreven, op grond van een aan een ander met betrekking tot deze benaming toekomend recht bij rechterlijke uitspraak wordt verboden, haalt de Raad op verzoek van de meest gerede partij de ingeschreven benaming door en schrijft hij een voorlopige benaming in, in overleg met degene die belang heeft bij de toelating van een ras of met de houder van het kwekersrecht.
 
@@ -340,7 +368,7 @@ Op een keuringsinstelling als bedoeld in dit hoofdstuk is de [Kaderwet zelfstand
 
 3. Indien komt vast te staan dat een ras niet onder de ingeschreven benaming kan worden opgenomen op een door de Europese Commissie voor het gewas, waartoe het ras behoort, vastgestelde gemeenschappelijke rassenlijst, kan de Raad op een daartoe strekkend verzoek van de houder van het kwekersrecht, of van degene die om de toelating van een ras heeft verzocht, een ingeschreven benaming doorhalen en een voorlopige benaming inschrijven. Het tweede lid is van overeenkomstige toepassing.
 
-#### Artikel 31
+##### Artikel 31
 
 1. De Raad kan een voorlopige karakteriserende beschrijving vaststellen en inschrijven.
 
@@ -350,21 +378,21 @@ Op een keuringsinstelling als bedoeld in dit hoofdstuk is de [Kaderwet zelfstand
 
 - b. ambtshalve, indien dit in verband met de beschrijving van een ander ras noodzakelijk is, in welk geval degene die belang heeft bij de toelating van een ras dan wel de houder van het kwekersrecht wordt gehoord, of om andere redenen, maar dan alleen in overeenstemming met de hiervoor bedoelde personen.
 
-#### Artikel 32
+##### Artikel 32
 
 Onverminderd [artikel 3:41 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:41) worden de beslissingen van de Raad ingevolge dit hoofdstuk bekendgemaakt aan de in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=4&artikel=28&z=2025-01-01&g=2025-01-01) bedoelde belanghebbende, degene die ingevolge de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=4&artikel=30&z=2025-01-01&g=2025-01-01) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=4&artikel=31&z=2025-01-01&g=2025-01-01) belang heeft bij de toelating van een ras en de in de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=4&artikel=30&z=2025-01-01&g=2025-01-01) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=4&artikel=31&z=2025-01-01&g=2025-01-01) bedoelde houder van het kwekersrecht.
 
-#### Artikel 33
+##### Artikel 33
 
 Van de in dit hoofdstuk en de [hoofdstukken 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=5&z=2025-01-01&g=2025-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=7&z=2025-01-01&g=2025-01-01) bedoelde aanvragen en verzoeken en van de intrekking en afwijzing van de aanvragen en verzoeken wordt aantekening gedaan in het rassenregister en mededeling gedaan in de Staatscourant.
 
-#### Artikel 34
+##### Artikel 34
 
 De in dit hoofdstuk en de [hoofdstukken 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=5&z=2025-01-01&g=2025-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=7&z=2025-01-01&g=2025-01-01) bedoelde inschrijvingen en aantekeningen krachtens beslissingen, waartegen beroep openstaat, geschieden, zodra op het beroep is beslist of de beroepstermijn verstreken is, zonder dat beroep is ingesteld, dan wel zodra van het beroep afstand is gedaan door een schriftelijke daartoe strekkende kennisgeving aan de Raad.
 
 ### Hoofdstuk 5. Toelating van rassen en opstanden
 
-#### Artikel 35
+##### Artikel 35
 
 1. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de toelating van rassen en opstanden, die per gewas verschillend kunnen zijn. Deze regels kunnen in ieder geval betreffen:
 
@@ -388,7 +416,7 @@ De in dit hoofdstuk en de [hoofdstukken 5](https://wetten.overheid.nl/jci1.3:c:B
 
 6. Het in het eerste lid, onderdeel a, b en c, bedoelde technisch onderzoek wordt uitgevoerd onder verantwoordelijkheid van de Raad. Bij of krachtens de in het eerste lid bedoelde maatregel kunnen regels worden gesteld over de gevallen waarin en de voorwaarden waaronder de Raad ten behoeve van het technisch onderzoek van een ras gebruik kan maken van reeds met betrekking tot dat ras bestaande onderzoeksrapporten of van de resultaten van door de aanvrager zelf verrichte onderzoeken en bij de teelt opgedane praktische ervaringen.
 
-#### Artikel 36
+##### Artikel 36
 
 1. De Raad beslist op aanvraag omtrent de toelating van een ras of van een opstand.
 
@@ -404,7 +432,7 @@ De in dit hoofdstuk en de [hoofdstukken 5](https://wetten.overheid.nl/jci1.3:c:B
 
 4. De aanvraag voor de toelating van een opstand bevat een vermelding van de eigenaar of beheerder van de opstand, een vermelding van de locatie van de opstand alsmede een karakteriserende beschrijving van de opstand.
 
-#### Artikel 37
+##### Artikel 37
 
 1. Een toegelaten ras, onderscheidenlijk een toegelaten opstand, wordt ingeschreven in het rassenregister, waarbij gelijktijdig met de inschrijving van het ras, onderscheidenlijk van de opstand, aantekening wordt gedaan van de toelating en van de krachtens [artikel 39, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=6&artikel=39&z=2025-01-01&g=2025-01-01), aangewezen instandhouder of instandhouders, onderscheidenlijk van de eigenaar of beheerder van de opstand.
 
@@ -420,7 +448,7 @@ de naam van het desbetreffende ras draagt.
 
 4. Het vorige lid is niet van toepassing indien de in dat lid bedoelde benaming misleidend is of verwarrend kan werken voor wat het ras betreft, of indien andere feiten het gebruik ervan beletten, of indien een recht van een derde het vrije gebruik van deze benaming voor het betrokken ras in de weg staat.
 
-#### Artikel 38
+##### Artikel 38
 
 1. De toelating van een ras of opstand vervalt van rechtswege, zodra zes maanden zijn verstreken sinds de vergoeding, bedoeld in [artikel 6, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=2&artikel=6&z=2025-01-01&g=2025-01-01), verschuldigd is geworden, zonder dat betaling daarvan heeft plaats gehad. Van dit vervallen wordt in het rassenregister aantekening gedaan.
 
@@ -428,7 +456,7 @@ de naam van het desbetreffende ras draagt.
 
 ### Hoofdstuk 6. In de handel brengen van teeltmateriaal
 
-#### Artikel 39
+##### Artikel 39
 
 1. Bij of krachtens algemene maatregel van bestuur worden ten aanzien van bij die maatregel aan te wijzen gewassen regels gesteld over het in de handel brengen van teeltmateriaal van tot die gewassen behorende rassen of opstanden. Deze regels kunnen onder meer inhouden:
 
@@ -454,7 +482,7 @@ de naam van het desbetreffende ras draagt.
 
 7. De voorwaarden waaronder de in het zesde lid bedoelde toestemming kan worden gegeven alsmede de in dat lid bedoelde hoeveelheden worden bij ministeriële regeling vastgesteld.
 
-#### Artikel 40
+##### Artikel 40
 
 1. Het is verboden teeltmateriaal in de handel te brengen waarvan niet op basis van een keuring is vastgesteld dat het voldoet aan de bij of krachtens algemene maatregel van bestuur gestelde regels inzake de kwaliteit van het teeltmateriaal.
 
@@ -468,13 +496,13 @@ de naam van het desbetreffende ras draagt.
 
 - d. de wijze van keuring van het teeltmateriaal.
 
-#### Artikel 41
+##### Artikel 41
 
 1. Indien bij of krachtens een algemene maatregel van bestuur als bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=6&artikel=40&z=2025-01-01&g=2025-01-01) regels zijn gesteld omtrent de keuring van teeltmateriaal, kunnen daarbij bewijsstukken en kentekenen worden vastgesteld als uitsluitend bestemd om door of vanwege de daartoe gerechtigde op teeltmateriaal of de verpakking te worden aangebracht, dan wel bij het teeltmateriaal te worden gevoegd.
 
 2. Bij of krachtens een maatregel als bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=6&artikel=40&z=2025-01-01&g=2025-01-01) kunnen voorts regels worden gesteld betreffende het uitreiken, vervaardigen, voorhanden en in voorraad hebben, alsmede het afleveren en gebruiken van bewijsstukken en kentekenen en van cliché’s, stempels en andere werktuigen tot het vervaardigen of aanbrengen van die bewijsstukken en kentekenen.
 
-#### Artikel 42
+##### Artikel 42
 
 1. Het is leveranciers verboden teeltmateriaal van door Onze Minister aangewezen gewassen in de handel te brengen zonder daartoe strekkende erkenning of registratie door een keuringsinstelling.
 
@@ -484,7 +512,7 @@ de naam van het desbetreffende ras draagt.
 
 4. Het eerste lid is niet van toepassing op leveranciers die alleen verkopen of leveren aan personen die zich niet beroepshalve bezighouden met de productie van gewassen of het in de handel brengen van teeltmateriaal.
 
-#### Artikel 43
+##### Artikel 43
 
 1. Een erkenning of registratie als bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=6&artikel=42&z=2025-01-01&g=2025-01-01) wordt op verzoek verleend, onderscheidenlijk vindt op verzoek plaats indien is voldaan aan de bij of krachtens algemene maatregel van bestuur gestelde eisen.
 
@@ -498,7 +526,7 @@ de naam van het desbetreffende ras draagt.
 
 - d. voorzieningen ten behoeve van het toezicht dan wel de douanecontrole op de naleving van het bepaalde bij of krachtens deze wet.
 
-#### Artikel 44
+##### Artikel 44
 
 Bij ministeriële regeling worden regels gesteld omtrent het indienen van een aanvraag tot erkenning of registratie dan wel tot verlenging of wijziging daarvan alsmede omtrent de wijze van behandeling. Daarbij kan onder meer worden bepaald:
 
@@ -506,7 +534,7 @@ Bij ministeriële regeling worden regels gesteld omtrent het indienen van een aa
 
 - b. binnen welke termijn na wijziging van de in onderdeel a bedoelde gegevens een wijziging van de erkenning of registratie wordt aangevraagd.
 
-#### Artikel 45
+##### Artikel 45
 
 Een erkenning of registratie als bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=6&artikel=42&z=2025-01-01&g=2025-01-01) kan door de keuringsinstelling worden geschorst, ingetrokken dan wel doorgehaald, indien:
 
@@ -514,7 +542,7 @@ Een erkenning of registratie als bedoeld in [artikel 42](https://wetten.overheid
 
 - b. niet meer aan de in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=6&artikel=43&z=2025-01-01&g=2025-01-01) bedoelde eisen wordt voldaan, nadat de houder van de erkenning of de registratie een redelijke termijn tot aanpassing is gegeven.
 
-#### Artikel 46
+##### Artikel 46
 
 1. Onverminderd het recht tot het voeren van een handelsnaam en een merk wordt teeltmateriaal van een ingevolge het bepaalde bij of krachtens deze wet in het rassenregister ingeschreven ras uitsluitend onder de ingeschreven benaming in de handel gebracht.
 
@@ -528,7 +556,7 @@ Een erkenning of registratie als bedoeld in [artikel 42](https://wetten.overheid
 
 4. De ingeschreven benaming of een daarmee overeenstemmend woord wordt niet gebruikt voor ander teeltmateriaal van hetzelfde of een verwant gewas.
 
-#### Artikel 47
+##### Artikel 47
 
 1. De keuringsinstelling draagt er zorg voor dat teeltmateriaal, dat niet aan de bij of krachtens dit hoofdstuk gestelde regels voldoet, uit de handel wordt genomen. Hiertoe verplicht de keuringsinstelling de overtreder schriftelijk om binnen een door haar te bepalen termijn ondeugdelijk teeltmateriaal uit de handel te nemen, op te slaan of te vernietigen.
 
@@ -536,7 +564,7 @@ Een erkenning of registratie als bedoeld in [artikel 42](https://wetten.overheid
 
 3. De keuringsinstelling kan van de overtreder bij dwangbevel de ingevolge het tweede lid verschuldigde kosten invorderen. De [artikelen 4:114 tot en met 4:124 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:114) zijn van overeenkomstige toepassing.
 
-#### Artikel 48
+##### Artikel 48
 
 1. Onze Minister kan vrijstelling of ontheffing verlenen van het bepaalde bij of krachtens dit hoofdstuk.
 
@@ -552,7 +580,7 @@ Een erkenning of registratie als bedoeld in [artikel 42](https://wetten.overheid
 
 #### Paragraaf 1. De aanspraak op verlening van kwekersrecht
 
-#### Artikel 49
+##### Artikel 49
 
 1. Kwekersrecht kan worden verleend voor rassen van alle tot het plantenrijk behorende gewassen, voor zover het rassen betreft die nieuw, onderscheidbaar, homogeen en bestendig zijn.
 
@@ -572,7 +600,7 @@ Een erkenning of registratie als bedoeld in [artikel 42](https://wetten.overheid
 
 7. Om te bepalen of een ras voldoet aan de in het vierde tot en met het zesde lid bedoelde voorwaarden, wordt onder verantwoordelijkheid van de Raad een technisch onderzoek uitgevoerd. De kenmerken waartoe het onderzoek zich uitstrekt en de eisen waaraan het onderzoek voldoet, worden bij ministeriële regeling vastgesteld. Hierbij kunnen regels worden gesteld over de gevallen waarin en de voorwaarden waaronder de Raad ten behoeve van het technisch onderzoek van een ras gebruik kan maken van reeds met betrekking tot dat ras bestaande onderzoeksrapporten of van de resultaten van door de aanvrager zelf verrichte onderzoeken en bij de teelt opgedane praktische ervaringen.
 
-#### Artikel 50
+##### Artikel 50
 
 1. De aanspraak op verlening van kwekersrecht komt uitsluitend toe aan de kweker.
 
@@ -580,7 +608,7 @@ Een erkenning of registratie als bedoeld in [artikel 42](https://wetten.overheid
 
 3. Indien een ras buiten Nederland is gekweekt of ontdekt en ontwikkeld, terwijl de in het tweede lid bedoelde gehoudenheid niet bestaat, kan voor het ras kwekersrecht worden verleend, indien het een ras betreft waarvoor zowel in het land waar het ras is gekweekt als in Nederland kwekersrecht kan worden verleend.
 
-#### Artikel 51
+##### Artikel 51
 
 1. Indien de kweker een ras heeft gekweekt of heeft ontdekt en ontwikkeld in het kader van een dienstbetrekking of in het kader van een overeenkomst tot het verrichten van diensten ten behoeve van een ander, anders dan tegen loon, welke dienstbetrekking of overeenkomst met zich brengt, dat de kweker kweek- of ontwikkelingsarbeid verricht met betrekking tot het gewas, waartoe het ras behoort, komt de aanspraak op verlening van kwekersrecht in afwijking van [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=7&paragraaf=1&artikel=50&z=2025-01-01&g=2025-01-01) toe aan de werkgever dan wel de opdrachtgever dan wel de rechtverkrijgende van de werkgever of opdrachtgever.
 
@@ -588,15 +616,15 @@ Een erkenning of registratie als bedoeld in [artikel 42](https://wetten.overheid
 
 3. Elk beding waarbij van het tweede lid wordt afgeweken, is nietig.
 
-#### Artikel 52
+##### Artikel 52
 
 Indien twee of meer personen, anders dan in het geval bedoeld in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=7&paragraaf=1&artikel=53&z=2025-01-01&g=2025-01-01), in samenwerking een nieuw ras hebben gekweekt dan wel ontdekt en ontwikkeld, hebben zij gezamenlijk aanspraak op verlening van kwekersrecht.
 
-#### Artikel 53
+##### Artikel 53
 
 Indien ingevolge [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=7&paragraaf=1&artikel=52&z=2025-01-01&g=2025-01-01) twee of meer personen onafhankelijk van elkaar aanspraak op verlening van kwekersrecht voor hetzelfde nieuw ras zouden kunnen maken, komt de aanspraak op verlening van kwekersrecht toe aan degene, die het eerst een aanvraag daartoe heeft ingediend.
 
-#### Artikel 54
+##### Artikel 54
 
 1. Een kweker die in een andere Unie-staat overeenkomstig de geldende voorschriften een aanvraag tot verlening van kwekersrecht heeft ingediend, geniet ter verkrijging van kwekersrecht in Nederland voor hetzelfde ras een recht van voorrang, mits:
 
@@ -610,7 +638,7 @@ Indien ingevolge [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&ho
 
 #### Paragraaf 2. De verlening van kwekersrecht
 
-#### Artikel 55
+##### Artikel 55
 
 1. De aanvraag tot verlening van kwekersrecht wordt ingediend bij de Raad.
 
@@ -626,7 +654,7 @@ Indien ingevolge [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&ho
 
 4. Indien een aanvrager geen woonplaats of zetel binnen het grondgebied van de Europese Unie heeft, is deze verplicht binnen Nederland domicilie te kiezen bij een gemachtigde, welke keuze voor de toepassing van deze wet geacht wordt van kracht te blijven totdat schriftelijk aan de Raad is kennis gegeven van de wijziging van het gekozen domicilie.
 
-#### Artikel 56
+##### Artikel 56
 
 1. De Raad beslist op een aanvraag tot verlening van kwekersrecht en stelt overeenkomstig [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=4&z=2025-01-01&g=2025-01-01) de karakteriserende beschrijving en de benaming van het ras vast.
 
@@ -636,7 +664,7 @@ Indien ingevolge [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&ho
 
 #### Paragraaf 3. De rechten en verplichtingen van de houder van een kwekersrecht
 
-#### Artikel 57
+##### Artikel 57
 
 1. De houder van een kwekersrecht op een ras heeft het uitsluitend recht teeltmateriaal van dat ras voort te brengen of verder te vermeerderen, ten behoeve van de vermeerdering te behandelen, in de handel te brengen, uit te voeren, in te voeren, voor een van deze doeleinden in voorraad te hebben alsmede deze handelingen te doen verrichten.
 
@@ -654,7 +682,7 @@ Indien ingevolge [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&ho
 
 5. Het uitsluitend recht is tevens van toepassing op handelingen met betrekking tot producten die rechtstreeks zijn vervaardigd met gebruikmaking van geoogst materiaal van het ras waarvoor geen toestemming is verleend, tenzij de houder van het kwekersrecht redelijkerwijs zijn recht met betrekking tot het geoogste materiaal had kunnen uitoefenen.
 
-#### Artikel 58
+##### Artikel 58
 
 1. Het in [artikel 57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=7&paragraaf=3&artikel=57&z=2025-01-01&g=2025-01-01), bedoelde uitsluitend recht is tevens van toepassing op de in dat lid bedoelde handelingen met betrekking tot materiaal van:
 
@@ -678,13 +706,13 @@ Indien ingevolge [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&ho
 
 5. Het in het vierde lid bedoelde advies van de Raad bevat de gronden waarop het rust.
 
-#### Artikel 59
+##### Artikel 59
 
 1. Bij algemene maatregel van bestuur kan worden bepaald dat ten aanzien van een ras, behorende tot bij die algemene maatregel van bestuur aan te wijzen gewassen, het in [artikel 57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=7&paragraaf=3&artikel=57&z=2025-01-01&g=2025-01-01), bedoelde uitsluitend recht niet van toepassing is op het gebruik voor vermeerderingsdoeleinden binnen het eigen bedrijf van een teler van door die teler geoogst materiaal van dat ras of een ras als bedoeld in [artikel 58, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=7&paragraaf=3&artikel=58&z=2025-01-01&g=2025-01-01).
 
 2. Aan het gebruik van geoogst materiaal voor vermeerderingsdoeleinden binnen het eigen bedrijf, kunnen bij of krachtens de in het eerste lid bedoelde algemene maatregel van bestuur beperkingen of voorwaarden worden gesteld, die onder meer betrekking kunnen hebben op de maximale hoeveelheid te vermeerderen geoogst materiaal, de door de teler aan de houder van het kwekersrecht te verstrekken inlichtingen en bewijsstukken en de aan de houder van een kwekersrecht toekomende vergoedingen.
 
-#### Artikel 60
+##### Artikel 60
 
 Het in [artikel 57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=7&paragraaf=3&artikel=57&z=2025-01-01&g=2025-01-01), bedoelde uitsluitend recht is niet van toepassing op handelingen met materiaal van het beschermde ras of van een ras als bedoeld in [artikel 58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=7&paragraaf=3&artikel=58&z=2025-01-01&g=2025-01-01), dat door of met toestemming van de houder van het kwekersrecht, in Nederland of in één der lidstaten van de Europese Unie of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte in het verkeer is gebracht of dat van zodanig materiaal is afgeleid, met uitzondering van handelingen:
 
@@ -692,7 +720,7 @@ Het in [artikel 57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&
 
 - b. die uitvoer, anders dan voor verbruiksdoeleinden, van het materiaal inhouden naar een land, waar voor rassen van het gewas, waartoe het ras behoort, geen bescherming openstaat die vergelijkbaar is met de bescherming die op basis van het bepaalde in deze wet kan worden verkregen.
 
-#### Artikel 61
+##### Artikel 61
 
 1. De houder van een kwekersrecht is verplicht de licenties te verlenen die in het algemeen belang noodzakelijk zijn.
 
@@ -702,7 +730,7 @@ Het in [artikel 57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&
 
 4. Indien aan de houder van een kwekersrecht een licentie is verleend op grond van [artikel 57, vijfde lid, van de Rijksoctrooiwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=57), is de houder van het kwekersrecht verplicht aan de octrooihouder op diens verzoek onder redelijke voorwaarden een wederkerige licentie te verlenen om het beschermde ras te gebruiken.
 
-#### Artikel 62
+##### Artikel 62
 
 1. Indien de houder van het kwekersrecht zijn verplichtingen, bedoeld in [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=7&paragraaf=3&artikel=61&z=2025-01-01&g=2025-01-01), niet nakomt, wordt de licentie op verzoek van de belanghebbende door de Raad verleend.
 
@@ -712,7 +740,7 @@ Het in [artikel 57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&
 
 4. Nadat de licentie door de Raad is verleend en aan de verplichting tot het stellen van zekerheid, indien deze is opgelegd, is voldaan, wordt de licentie in het rassenregister ingeschreven. De licentie werkt eerst na die inschrijving, ook tegenover hen, die na de inschrijving van het in het eerste lid bedoelde verzoek rechten op het kwekersrecht hebben verkregen.
 
-#### Artikel 63
+##### Artikel 63
 
 1. Door een licentie wordt de bevoegdheid verkregen de daarin omschreven handelingen te verrichten, die krachtens [artikel 57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=7&paragraaf=3&artikel=57&z=2025-01-01&g=2025-01-01), aan anderen dan de houder van het kwekersrecht niet vrijstaan.
 
@@ -720,13 +748,13 @@ Het in [artikel 57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&
 
 3. Een licentie, verleend anders dan ingevolge de [artikelen 61](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=7&paragraaf=3&artikel=61&z=2025-01-01&g=2025-01-01) en [62](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=7&paragraaf=3&artikel=62&z=2025-01-01&g=2025-01-01), wordt op verzoek van de licentiehouder in het rassenregister ingeschreven. Zij is tegenover derden geldig na die inschrijving.
 
-#### Artikel 64
+##### Artikel 64
 
 Een krachtens [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=3&artikel=19&z=2025-01-01&g=2025-01-01) aangewezen keuringsinstelling alsmede een krachtens [artikel 8 van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=8) aangewezen controle-instelling, voor zover deze bij of krachtens [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755) is belast met de keuring van teeltmateriaal, verstrekt op verzoek aan de houder van een in Nederland geldend kwekersrecht met betrekking tot het door de keuringsinstelling, onderscheidenlijk controle-instelling, gekeurde teeltmateriaal, een overzicht van de personen of ondernemingen die teeltmateriaal van het ras, waarvoor het kwekersrecht is verleend, hebben voortgebracht en, voor zover mogelijk, van de hoeveelheden die zij daarvan hebben voortgebracht.
 
 #### Paragraaf 4. Het kwekersrecht als onderdeel van het vermogen
 
-#### Artikel 65
+##### Artikel 65
 
 1. Een kwekersrecht en een aanspraak op verlening van kwekersrecht zijn, zowel ten aanzien van het volle recht als voor een aandeel daarin, vatbaar voor overdracht of andere overgang.
 
@@ -738,7 +766,7 @@ Een krachtens [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofd
 
 5. Tot het doen verrichten van deze inschrijving door de Raad zijn beide partijen gelijkelijk bevoegd.
 
-#### Artikel 66
+##### Artikel 66
 
 1. Indien een kwekersrecht aan meer personen gezamenlijk toekomt, wordt hun verhouding tegenover elkaar en tegenover derden beheerst door hetgeen tussen hen bij overeenkomst is bepaald, wat hun verhouding tegenover derden betreft echter slechts, voor zover deze blijkt uit het rassenregister.
 
@@ -746,7 +774,7 @@ Een krachtens [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofd
 
 3. Iedere medegerechtigde is verplicht, vóór de vervreemding van zijn rechten aan een derde, deze aan zijn medegerechtigden tegen een redelijke prijs te koop aan te bieden.
 
-#### Artikel 67
+##### Artikel 67
 
 1. Pandrecht op een kwekersrecht wordt gevestigd bij een akte en werkt tegenover derden eerst wanneer de akte in het rassenregister is ingeschreven.
 
@@ -756,7 +784,7 @@ Een krachtens [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofd
 
 4. Akten, waaruit blijkt, dat het pandrecht heeft opgehouden te bestaan of krachteloos is geworden, worden in het rassenregister ingeschreven.
 
-#### Artikel 68
+##### Artikel 68
 
 1. Het beslag op een kwekersrecht wordt gelegd en het proces-verbaal van inbeslagneming wordt in het rassenregister ingeschreven met overeenkomstige toepassing van de bepalingen van het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827) betreffende executoriaal en conservatoir beslag op onroerende zaken, met dien verstande dat in het proces-verbaal van inbeslagneming in plaats van de aard en de ligging van de onroerende zaak een aanduiding van het kwekersrecht wordt opgenomen.
 
@@ -772,7 +800,7 @@ Een krachtens [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofd
 
 5. De [artikelen 504a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=504a), [538-541](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=538), [726, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=726), en [727 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=727) zijn in geval van beslag op een kwekersrecht van overeenkomstige toepassing.
 
-#### Artikel 69
+##### Artikel 69
 
 1. De verkoop van een kwekersrecht door een pandhouder of een beslaglegger tot verhaal van een vordering geschiedt in het openbaar ten overstaan van een bevoegde notaris. De [artikelen 508](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=508), [509](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=509), [513, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=513), [514, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=514), [515-519](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=515) en [521-529 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=521) zijn van overeenkomstige toepassing met dien verstande dat hetgeen daar ten aanzien van hypotheken en hypotheekhouders is voorgeschreven geldt voor de op het kwekersrecht rustende pandrechten en de pandhouders.
 
@@ -780,7 +808,7 @@ Een krachtens [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofd
 
 #### Paragraaf 5. De handhaving van het kwekersrecht
 
-#### Artikel 70
+##### Artikel 70
 
 1. De houder van een kwekersrecht kan zijn recht handhaven jegens een ieder die, zonder daartoe gerechtigd te zijn, een van de in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=7&paragraaf=3&artikel=57&z=2025-01-01&g=2025-01-01) bedoelde handelingen verricht.
 
@@ -806,7 +834,7 @@ Een krachtens [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofd
 
 12. De rechter kan op vordering van de houder van het kwekersrecht gelasten dat op kosten van degene die inbreuk op diens recht heeft gemaakt passende maatregelen worden getroffen tot verspreiding van informatie over de uitspraak.
 
-#### Artikel 71
+##### Artikel 71
 
 1. De houder van een kwekersrecht kan een redelijke vergoeding vorderen van degene die in de periode gelegen tussen de aanvraag van een kwekersrecht en de verlening van het kwekersrecht handelingen als bedoeld in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=7&paragraaf=3&artikel=57&z=2025-01-01&g=2025-01-01) heeft verricht met betrekking tot het ras, waarvoor kwekersrecht is aangevraagd.
 
@@ -818,11 +846,11 @@ Een krachtens [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofd
 
 #### Paragraaf 6. De duur van het kwekersrecht en de opeising
 
-#### Artikel 72
+##### Artikel 72
 
 De duur van het kwekersrecht bedraagt vanaf de datum van dagtekening van het kwekersrecht 25 jaar, met uitzondering van rassen van door Onze Minister aan te wijzen gewassen, waarvoor de duur van het kwekersrecht 30 jaar bedraagt.
 
-#### Artikel 73
+##### Artikel 73
 
 1. De houder van het kwekersrecht kan daarvan afstand doen.
 
@@ -832,7 +860,7 @@ De duur van het kwekersrecht bedraagt vanaf de datum van dagtekening van het kwe
 
 4. Het kwekersrecht vervalt met ingang van het tijdstip van de inschrijving van de akte in het rassenregister.
 
-#### Artikel 74
+##### Artikel 74
 
 1. Een kwekersrecht vervalt van rechtswege, zodra zes maanden zijn verstreken sinds de vergoeding, bedoeld [artikel 6, tweede lid, onderdeel f,](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=2&artikel=6&z=2025-01-01&g=2025-01-01) verschuldigd is geworden, zonder dat betaling daarvan heeft plaats gehad. Van dit vervallen wordt in het rassenregister aantekening gedaan.
 
@@ -840,7 +868,7 @@ De duur van het kwekersrecht bedraagt vanaf de datum van dagtekening van het kwe
 
 3. Indien een maand na de vervaldag nog niet is betaald, wordt hiervan binnen veertien dagen schriftelijk mededeling gedaan aan allen, die blijkens in het rassenregister ingeschreven stukken rechten op het kwekersrecht of licenties hebben verkregen of rechtsvorderingen het kwekersrecht betreffende hebben ingesteld.
 
-#### Artikel 75
+##### Artikel 75
 
 1. Een kwekersrecht wordt door de rechter vernietigd:
 
@@ -858,7 +886,7 @@ De duur van het kwekersrecht bedraagt vanaf de datum van dagtekening van het kwe
 
 4. Vernietiging van een kwekersrecht ontneemt aan het kwekersrecht en aan de rechten, die daaruit zijn afgeleid, alle verdere rechtsgevolgen.
 
-#### Artikel 76
+##### Artikel 76
 
 1. Een kwekersrecht kan geheel of voor wat betreft een aandeel daarin worden opgeëist, voor zover het is verleend aan iemand, die krachtens de [artikelen 50](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=7&paragraaf=1&artikel=50&z=2025-01-01&g=2025-01-01), [51](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=7&paragraaf=1&artikel=51&z=2025-01-01&g=2025-01-01) of [52](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=7&paragraaf=1&artikel=52&z=2025-01-01&g=2025-01-01) daarop geen of niet uitsluitend aanspraak had.
 
@@ -870,7 +898,7 @@ De duur van het kwekersrecht bedraagt vanaf de datum van dagtekening van het kwe
 
 5. Te goeder trouw voor de aantekening, bedoeld in [artikel 77, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=7&paragraaf=6&artikel=77&z=2025-01-01&g=2025-01-01), verkregen licenties blijven geldig tegenover de nieuwe houder van het kwekersrecht, die recht verkrijgt op de voor de licenties verschuldigde vergoeding.
 
-#### Artikel 77
+##### Artikel 77
 
 1. Van de toewijzing of afwijzing van een vordering tot opeising of vernietiging van een kwekersrecht wordt aantekening gedaan in het rassenregister.
 
@@ -878,7 +906,7 @@ De duur van het kwekersrecht bedraagt vanaf de datum van dagtekening van het kwe
 
 #### Paragraaf 7. Kwekersrechtelijke geschillen
 
-#### Artikel 78
+##### Artikel 78
 
 1. De rechtbank Den Haag is in eerste aanleg bij uitsluiting bevoegd voor vorderingen tot vernietiging en opeising van het kwekersrecht als bedoeld in de [artikelen 75](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=7&paragraaf=6&artikel=75&z=2025-01-01&g=2025-01-01) en [76](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=7&paragraaf=6&artikel=76&z=2025-01-01&g=2025-01-01).
 
@@ -890,7 +918,7 @@ De duur van het kwekersrecht bedraagt vanaf de datum van dagtekening van het kwe
 
 3. Van de vonnissen en beschikkingen van de rechtbank staat beroep open bij het gerechtshof Den Haag.
 
-#### Artikel 79
+##### Artikel 79
 
 1. De deskundige leden, bedoeld in de [artikelen 55a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=55a), en [70, tweede lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=70), worden bij koninklijk besluit benoemd. Zij worden genoemd lid, onderscheidenlijk plaatsvervangend lid, in de rechtbank Den Haag dan wel raad, onderscheidenlijk plaatsvervangend raad, in het gerechtshof Den Haag, al naar gelang het geval.
 
@@ -900,25 +928,25 @@ De duur van het kwekersrecht bedraagt vanaf de datum van dagtekening van het kwe
 
 4. [Artikel 66, vijfde lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=66) is van overeenkomstige toepassing ten aanzien van de leden en de plaatsvervangende leden onderscheidenlijk de raden en de plaatsvervangende raden.
 
-#### Artikel 80
+##### Artikel 80
 
 Ten aanzien van de leden en plaatsvervangende leden, onderscheidenlijk de raden en de plaatsvervangende raden, zijn de [artikelen 46c](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46c), [46ca](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46ca), [46d](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46d), [46f](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46f), [46i met uitzondering van het eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46i), [46j](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46j), [46l, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46l), [46m](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46m), [46o](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46o), en [46p van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46p) van overeenkomstige toepassing, met dien verstande dat voor de overeenkomstige toepassing van [artikel 46j](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46j) onderscheidenlijk [46o, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46o), onder functionele autoriteit wordt verstaan: bestuur onderscheidenlijk president van het gerecht.
 
-#### Artikel 81
+##### Artikel 81
 
 Onze Minister stelt regels vast over de toekenning van een vergoeding voor reis- en verblijfkosten en verdere vergoeding aan de leden en plaatsvervangende leden, onderscheidenlijk de raden en de plaatsvervangende raden.
 
-#### Artikel 82
+##### Artikel 82
 
 Bij de behandeling ter zitting van geschillen als bedoeld in [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=7&paragraaf=7&artikel=78&z=2025-01-01&g=2025-01-01) mogen gemachtigden van de houder van een kwekersrecht het woord voeren, onverminderd de verantwoordelijkheid van de advocaat.
 
-#### Artikel 83
+##### Artikel 83
 
 Van alle rechterlijke uitspraken betreffende een kwekersrecht wordt door de griffier binnen één maand kosteloos een afschrift aan de Raad gezonden.
 
 ### Hoofdstuk 8. Overige bepalingen
 
-#### Artikel 84
+##### Artikel 84
 
 Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot:
 
@@ -928,15 +956,15 @@ Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met
 
 - c. het horen van belanghebbenden door de Raad.
 
-#### Artikel 85
+##### Artikel 85
 
 Bij of krachtens algemene maatregel van bestuur kunnen, ter uitvoering van een besluit van de Raad van de Europese Unie, van het Europees Parlement en de Raad van de Europese Unie gezamenlijk of van de Europese Commissie, regels worden gesteld over de toelating van plantengroepen, die niet aan de vereisten van [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=5&artikel=35&z=2025-01-01&g=2025-01-01) voldoen, alsmede over het in de handel brengen van teeltmateriaal, afkomstig van die plantengroepen.
 
-#### Artikel 86
+##### Artikel 86
 
 Vervallen
 
-#### Artikel 87
+##### Artikel 87
 
 1. Indien in deze wet geregelde onderwerpen in het belang van een goede uitvoering van de wet nadere regeling behoeven, kan deze geschieden bij algemene maatregel van bestuur.
 
@@ -954,11 +982,11 @@ Vervallen
 
 - b. voorschriften uit een handelsverordening worden aangewezen waarop door Onze Minister aangewezen ambtenaren of personen toezicht houden of die Onze Minister, de Raad of een krachtens [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=3&artikel=19&z=2025-01-01&g=2025-01-01) aangewezen keuringsinstelling kunnen toepassen door besluiten te nemen.
 
-#### Artikel 88
+##### Artikel 88
 
 Vervallen
 
-#### Artikel 89
+##### Artikel 89
 
 1. Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de bij besluit van Onze Minister aangewezen ambtenaren en de bij besluit van Onze Minister aangewezen personen, werkzaam bij een krachtens [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=3&artikel=19&z=2025-01-01&g=2025-01-01) aangewezen keuringsinstelling.
 
@@ -966,25 +994,25 @@ Vervallen
 
 ### Hoofdstuk 9. Overgangs- en slotbepalingen
 
-#### Artikel 90
+##### Artikel 90
 
 1. Indien in enig burgerlijk- of strafgeding de beslissing afhangt van de vaststelling, als welk ras een groep van planten moet worden aangemerkt, wordt de Raad hierover gehoord. Het advies van de Raad bevat de gronden, waarop het rust.
 
 2. De Raad behandelt zaken, bedoeld in het eerste lid, bij voorrang boven alle andere zaken.
 
-#### Artikel 91
+##### Artikel 91
 
 Wijzigt de Wet op de economische delicten.
 
-#### Artikel 92
+##### Artikel 92
 
 Wijzigt de Wet op de rechterlijke organisatie.
 
-#### Artikel 93
+##### Artikel 93
 
 Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde verplichtingen.
 
-#### Artikel 94
+##### Artikel 94
 
 1. De op het tijdstip van inwerkingtreding van deze wet in het rassenregister ingeschreven rassen worden door de Raad opnieuw gerangschikt overeenkomstig de bij of krachtens [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=4&artikel=25&z=2025-01-01&g=2025-01-01) gestelde regels.
 
@@ -1004,11 +1032,11 @@ Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter hand
 
 9. De op het tijdstip van inwerkingtreding van deze wet ingevolge de [artikelen 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002541&artikel=25), [60](https://wetten.overheid.nl/jci1.3:c:BWBR0002541&artikel=60) en [69 van de Zaaizaad- en Plantgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002541&artikel=69) bij het Gerechtshof ’s- Gravenhage of de Hoge Raad aanhangige zaken worden behandeld en beslist overeenkomstig de bepalingen van de [Zaaizaad- en Plantgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002541).
 
-#### Artikel 95
+##### Artikel 95
 
 De [Zaaizaad- en Plantgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002541) wordt ingetrokken.
 
-#### Artikel 96
+##### Artikel 96
 
 1. Deze wet wordt aangehaald als: Zaaizaad- en plantgoedwet, met vermelding van het jaartal van het Staatsblad waarin zij zal worden geplaatst.
 
@@ -1016,7 +1044,7 @@ De [Zaaizaad- en Plantgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002541) 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 2a
+##### Artikel 2a
 
 Op de Raad voor plantenrassen is de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) van toepassing.
 
@@ -1050,7 +1078,7 @@ Op de Raad voor plantenrassen is de [Kaderwet zelfstandige bestuursorganen](http
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 48a
+##### Artikel 48a
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de teelt van gewassen.
 
@@ -1062,7 +1090,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - c. administratieve verplichtingen die samenhangen met het bedoelde in de onderdelen a en b, waaronder de verplichting tot het doen van meldingen.
 
-#### Artikel 48b
+##### Artikel 48b
 
 1. Onze Minister kan ontheffing verlenen van het bepaalde krachtens [artikel 48a, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=6a&artikel=48a&z=2025-01-01&g=2025-01-01), ten behoeve van onderzoek naar de uitkruising van genetisch gemodificeerde organismen of naar de vermenging van genetische gemodificeerde organismen met organismen die niet genetisch gemodificeerd zijn.
 

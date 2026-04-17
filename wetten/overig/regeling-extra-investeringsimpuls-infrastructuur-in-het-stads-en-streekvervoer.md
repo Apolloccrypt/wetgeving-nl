@@ -1,13 +1,37 @@
 ---
 title: "Regeling 'Extra investeringsimpuls infrastructuur in het stads- en streekvervoer'"
 identifier: "BWBR0007961"
-categorie: "Overig"
-publicatiedatum: 2002-01-01
-laatste_update: 2002-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007961"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2002-01-01"
+last_updated: "2002-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007961"
+soort: "ministeriele-regeling"
+stam_id: "4428923"
+version_id: "6225522"
+internal_id: "C6429731"
+label_id: "4407604"
+dtd_version: "2.0"
+original_entry_into_force: "1996-04-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007961/2002-01-01/0"
+intitule_bron: "Stcrt.1996-66"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-03-25"
+intitule_published: "1996-04-02"
+intitule_in_force: "1996-04-02"
+intitule_status: "goed"
+original_publication: "Stcrt.1996-66"
+original_signed_date: "1996-03-25"
+original_published_date: "1996-04-02"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1996-04-04"
+jci_1_3: "jci1.3:c:BWBR0007961&z=2002-01-01&g=2002-01-01"
+jci_1_0: "1.0:c:BWBR0007961&g=2002-01-01"
+citeertitel_status: "officieel"
+signed_date: "1996-03-25"
+entry_into_force: "1996-04-04"
 ---
-
 # Regeling 'Extra investeringsimpuls infrastructuur in het stads- en streekvervoer'
 
 Na overleg met de Ministers van Binnenlandse Zaken en Financiën;
@@ -18,7 +42,7 @@ Besluit:
 
 #### I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -42,11 +66,11 @@ In deze regeling wordt verstaan onder:
 
 - 10. **De minister:** de Minister van Verkeer en Waterstaat.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling is van toepassing op te realiseren en gerealiseerde investeringen in o.v-infrastructuur, welke zijn gericht op dan wel samenhangen met snelheidsbevorderende maatregelen ten behoeve van het lokaal en interlokaal openbaar vervoer.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Ten behoeve van investeringen in de o.v-infrastructuur, als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007961&paragraaf=I&artikel=2&z=2002-01-01&g=2002-01-01), door provincies, regionale openbare lichamen en gemeenten wordt een totaalbedrag van ten hoogste 900 miljoen gulden (prijspeil 1995), zijnde 90% van de op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0007961&paragraaf=II&artikel=6&z=2002-01-01&g=2002-01-01) in aanmerking te nemen projectkosten, beschikbaar gesteld.
 
@@ -70,7 +94,7 @@ Deze regeling is van toepassing op te realiseren en gerealiseerde investeringen 
 
 #### II. Vaststelling en betaling van de bijdrage
 
-#### Artikel 4
+##### Artikel 4
 
 1. Aan provincies, regionaal openbare lichamen en gemeenten wordt eenmalig een maximale bijdrage ten behoeve van de door hen te realiseren en gerealiseerde projecten beschikbaar gesteld.
 
@@ -84,7 +108,7 @@ Deze regeling is van toepassing op te realiseren en gerealiseerde investeringen 
 
 6. De op grond van dit artikel vastgestelde maximale bijdragen worden in de bij deze regeling behorende bijlage 1 vermeld.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De maximale bijdrage, als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007961&paragraaf=II&artikel=4&z=2002-01-01&g=2002-01-01), wordt jaarlijks voor de ontwikkeling van kosten op basis van de IMOC aangepast. De aanpassing geschiedt over dat gedeelte van de maximale bijdrage dat nog niet op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007961&paragraaf=II&artikel=7&z=2002-01-01&g=2002-01-01) betaalbaar zal worden gesteld. Bij de aanpassing zal rekening worden gehouden met de nog te verrichten betalingen tot en met 31 december van het lopende jaar.
 
@@ -102,7 +126,7 @@ Aan deze verhoging kunnen voorschriften worden verbonden.
 
 7. Alvorens toepassing te geven aan het vierde of vijfde lid stelt de minister gedeputeerde staten, het dagelijks bestuur dan wel burgemeester en wethouders in de gelegenheid hun zienswijze kenbaar te maken.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Bij de betaling van de maximale bijdrage, als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007961&paragraaf=II&artikel=7&z=2002-01-01&g=2002-01-01), worden onder kosten van een project verstaan de met een project samenhangende en zodanig opgevoerde kosten, waarvan uitsluitend als kosten van een project in aanmerking worden genomen de kosten van een onafhankelijke derde deskundige, als bedoeld in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007961&paragraaf=III&artikel=9&z=2002-01-01&g=2002-01-01), alsmede de in [artikel 5, eerste lid, van het Besluit Infrastructuurfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0006264&artikel=5) genoemde kosten, met dien
 
@@ -118,7 +142,7 @@ verstande dat:
 
 3. De op grond van dit artikel in aanmerking te nemen kosten per project kunnen ten hoogste € 11.344.505,00 bedragen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De betaling van de bijdrage aan provincies, regionaal openbare lichamen en gemeenten geschiedt per goedgekeurd programma op basis van de voortgangsrapportage, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007961&paragraaf=III&artikel=10&z=2002-01-01&g=2002-01-01).
 
@@ -128,13 +152,13 @@ verstande dat:
 
 4. Betaling van de bijdrage kan plaatsvinden tot en met 1 maart 2005.
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
 #### III. Wijze van indiening en te stellen eisen aan projecten
 
-#### Artikel 9
+##### Artikel 9
 
 1. Gedeputeerde staten, het dagelijkse bestuur en burgemeester en wethouders stellen conform de eisen, als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007961&paragraaf=III&artikel=11&z=2002-01-01&g=2002-01-01), een programma van projecten voor o.v-infrastructuur op en leggen dit programma van projecten ter goedkeuring aan de minister voor.
 
@@ -148,7 +172,7 @@ Vervallen
 
 6. De indiening dient te geschieden overeenkomstig de bij deze regeling behorende bijlage 2.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Wijzigingen op het programma van projecten kunnen middels de jaarlijkse voortgangsrapportage, als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007961&paragraaf=IV&artikel=13&z=2002-01-01&g=2002-01-01), worden ingediend.
 
@@ -156,7 +180,7 @@ Vervallen
 
 3. De [artikelen 9, het eerste tot en met het derde lid en het vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007961&paragraaf=III&artikel=9&z=2002-01-01&g=2002-01-01), en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0007961&paragraaf=III&artikel=11&z=2002-01-01&g=2002-01-01) zijn van overeenkomstige toepassing.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De ingediende programma’s van projecten, als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0007961&paragraaf=III&artikel=9&z=2002-01-01&g=2002-01-01), worden goedgekeurd, indien aan de volgende voorwaarden wordt voldaan:
 
@@ -182,7 +206,7 @@ en het alternatief:
 
 #### IV. Gereedmelding en voortgangsrapportage
 
-#### Artikel 12
+##### Artikel 12
 
 1. De verantwoording van de besteding van de bijdrage vindt plaats na 1 oktober en voor 31 december van het jaar waarin deze is betaald.
 
@@ -196,7 +220,7 @@ en het alternatief:
 
 6. De verantwoording, bedoeld in het eerste lid vindt plaats overeenkomstig de voorschriften van het controleprotocol, dat in bijlage 3 is opgenomen.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Gedeputeerde staten, het dagelijks bestuur en burgemeester en wethouders stellen jaarlijks een voortgangsrapportage op en dienen deze voor 1 oktober van elk jaar bij de minister in.
 
@@ -214,31 +238,31 @@ en het alternatief:
 
 #### V. Verantwoording, onderzoek, informatie en sanctie
 
-#### Artikel 14
+##### Artikel 14
 
 1. Gedeputeerde Staten, het dagelijks bestuur en burgemeester en wethouders dienen een projectenadministratie te voeren die zodanig is ingericht dat de op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0007961&paragraaf=II&artikel=6&z=2002-01-01&g=2002-01-01) in aanmerking te nemen kosten van een project hieruit kunnen worden afgeleid.
 
 2. Op verzoek van de minister dienen gedeputeerde staten, het dagelijks bestuur en burgemeester en wethouders aan de accountantsdienst van het ministerie inzage te geven in de gegevens die ten grondslag liggen aan de beoordeling door de registeraccountant van de gevoerde projectadministratie over enig jaar.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Ambtenaren welke door de minister daartoe zijn aangewezen kunnen bij provincies, regionaal openbare lichamen en gemeenten met betrekking tot projecten, als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007961&paragraaf=I&artikel=2&z=2002-01-01&g=2002-01-01), een onderzoek verrichten.
 
 2. Gedeputeerde staten, het dagelijks bestuur en burgemeester en wethouders zijn verplicht aan deze ambtenaren inzage te geven en alle informatie te verstrekken welke voor de controle van belang zijn.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De minister verbindt aan de verstrekking van een bijdrage de voor-waarde, dat degene aan wie de bijdrage wordt verstrekt, ten allen tijde verplicht is nadere informatie over de projecten te verstrekken.
 
 2. Bij informatie(borden) over de projecten wordt aangegeven dat het project mede mogelijk is gemaakt door een subsidie van het ministerie van Verkeer en Waterstaat.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Indien door een provincie, een regionaal openbaar lichaam dan wel een gemeente is gehandeld in strijd met deze regeling, dan kan de minister besluiten de betaling van de bijdrage voor projecten tot nader orde op te schorten, dan wel bij de hoogte van de vastgestelde maximale bijdrage, alsmede bij de betaling van de annuïteiten, hiermede rekening houden.
 
 #### VI. Overgangs- en slotbepalingen
 
-#### Artikel 17a
+##### Artikel 17a
 
 1. Indien op grond van artikel 39 van de Wet personenvervoer een in bijlage 1 genoemde gemeente met ingang van een bepaald kalenderjaar niet meer wordt aangewezen als bijdragegerechtigde in de zin van die wet, vallen projecten van die gemeente toe aan de provincie waarin deze gemeente is gelegen, tenzij het projecten betreft:
 
@@ -252,11 +276,11 @@ en het alternatief:
 
 4. Binnen 8 weken na inwerkingtreding van betreffend besluit op grond van artikel 39 van de Wet personenvervoer stellen burgemeester en wethouders en gedeputeerde staten van betrokken gemeente en provincie de minister op de hoogte van de werkelijke verdeling van de projecten inclusief de daarmee gemoeide bedragen.
 
-#### Artikel 18
+##### Artikel 18
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dag-tekening in de staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 1996. Zij vervalt op een door de Minister nader te bepalen tijdstip.
 
-#### Artikel 19
+##### Artikel 19
 
 Deze regeling kan worden aangehaald als: Regeling ’Extra investerings-impuls infrastructuur in het stads- en streekvervoer’.
 

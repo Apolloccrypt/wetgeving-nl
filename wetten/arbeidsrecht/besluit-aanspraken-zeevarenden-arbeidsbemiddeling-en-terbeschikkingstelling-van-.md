@@ -1,13 +1,39 @@
 ---
-title: "Besluit aanspraken zeevarenden, arbeidsbemiddeling en terbeschikkingstelling van arbeidskrachten in de zeevaart"
+title: "Besluit van 27 augustus 2012, houdende regels inzake aanspraken van zeevarenden, arbeidsbemiddeling en terbeschikkingstelling van arbeidskrachten in de zeevaart en tot wijziging van het Arbeidstijdenbesluit en het Arbeidsomstandighedenbesluit in verband met de implementatie van het Maritiem Arbeidsverdrag 2006 (Besluit aanspraken zeevarenden, arbeidsbemiddeling en terbeschikkingstelling van arbeidskrachten in de zeevaart)"
 identifier: "BWBR0031973"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2015-01-01
-laatste_update: 2015-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031973"
+country: "nl"
+rank: "amvb"
+publication_date: "2015-01-01"
+last_updated: "2015-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031973"
+soort: "AMvB"
+stam_id: "11840223"
+version_id: "19633492"
+internal_id: "C29545291"
+label_id: "11812504"
+dtd_version: "2.0"
+original_entry_into_force: "2013-08-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031973/2015-01-01/0"
+intitule_bron: "Stb.2012-397"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-08-27"
+intitule_published: "2012-09-13"
+intitule_in_force: "2013-07-12"
+intitule_status: "goed"
+original_publication: "Stb.2012-397"
+original_signed_date: "2012-08-27"
+original_published_date: "2012-09-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2012-397"
+entry_into_force_date: "2013-08-20"
+jci_1_3: "jci1.3:c:BWBR0031973&z=2015-01-01&g=2015-01-01"
+jci_1_0: "1.0:c:BWBR0031973&g=2015-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit aanspraken zeevarenden, arbeidsbemiddeling en terbeschikkingstelling van arbeidskrachten in de zeevaart"
+signed_date: "2012-08-27"
+entry_into_force: "2013-08-20"
 ---
-
 # Besluit van 27 augustus 2012, houdende regels inzake aanspraken van zeevarenden, arbeidsbemiddeling en terbeschikkingstelling van arbeidskrachten in de zeevaart en tot wijziging van het Arbeidstijdenbesluit en het Arbeidsomstandighedenbesluit in verband met de implementatie van het Maritiem Arbeidsverdrag 2006 (Besluit aanspraken zeevarenden, arbeidsbemiddeling en terbeschikkingstelling van arbeidskrachten in de zeevaart)
 
 Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 25 april 2012, nr. 12.000981, gedaan mede namens Onze Minister van Veiligheid en Justitie;
@@ -22,23 +48,23 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Aanspraken van zeevarenden
 
-#### Artikel 1. Samenloop loon en uitkering
+##### Artikel 1. Samenloop loon en uitkering
 
 Bij samenloop over eenzelfde tijdvak en ter zake van dezelfde arbeidsongeschiktheid van loon als bedoeld in [artikel 734 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=734) met een of meer uitkeringen op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) of de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), dan wel met een uitkering of een inkomensvoorziening op grond van de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), wordt het loon slechts uitbetaald voor zover het de uitkering of inkomensvoorziening, verleend ter zake van dezelfde arbeidsongeschiktheid, overtreft.
 
-#### Artikel 2. Verlies uitrusting
+##### Artikel 2. Verlies uitrusting
 
 1. De uitkering, bedoeld in [artikel 719, lid 2, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=719), wordt in geval van verlies van de gehele uitrusting gesteld op het bedrag, dat voor de desbetreffende zeevarende, al naar gelang de groep waartoe hij behoort, in de bij dit besluit gevoegde bijlage is vermeld.
 
 2. In geval van verlies van een gedeelte van de uitrusting, wordt het bedrag van de uitkering, bedoeld in het eerste lid, gesteld op de geldswaarde van het verloren gegane deel van de uitrusting tot ten hoogste het krachtens het eerste lid bepaalde bedrag.
 
-#### Artikel 3. Vangst als loon
+##### Artikel 3. Vangst als loon
 
 1. Voor de zeevarende in de zeevisserij, die verplicht verzekerd is op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) en wiens loon bestaat uit een aandeel in de vangst of de opbrengst daarvan, geldt voor de toepassing van de [artikelen 719, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=719), [732](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=732), [734](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=734), [734b](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=734b) en [734l van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=734l) als loon, berekend naar de tijdruimte van een maand, het bedrag, dat verkregen wordt door het voor hem geldende dagloon krachtens de Ziektewet te vermenigvuldigen met 313/12.
 
 2. Voor de zeevarende in de zeevisserij, die niet verplicht verzekerd is op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) en wiens loon bestaat uit een aandeel in de vangst of de opbrengst daarvan, geldt voor de toepassing van de [artikelen 719, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=719), [732](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=732), [734](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=734), [734d](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=734d), [734f](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=734f), [734h](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=734h), [734j](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=734j) en [734l van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=734l) als loon, berekend naar de tijdruimte van een maand, het bedrag, dat verkregen wordt door het dagloon, dat voor hem krachtens de Ziektewet zou gelden, indien hij verplicht verzekerd zou zijn ingevolge die wet, te vermenigvuldigen met 313/12.
 
-#### Artikel 4. Ziekte in verband met de zee-arbeidsovereenkomst
+##### Artikel 4. Ziekte in verband met de zee-arbeidsovereenkomst
 
 1. Als ziekten, bedoeld in [artikel 734e, lid 2, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=734e), worden aangewezen:
 
@@ -108,17 +134,17 @@ Bij samenloop over eenzelfde tijdvak en ter zake van dezelfde arbeidsongeschikth
 
 Op deze termijnen is de [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) niet van toepassing.
 
-#### Artikel 5. Geneeskundige behandeling
+##### Artikel 5. Geneeskundige behandeling
 
 1. De zeevarende, die op grond van [artikel 734g, lid 1, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=734g), recht heeft op geneeskundige behandeling of vergoeding daarvoor, ontvangt die behandeling of vergoeding overeenkomstig de in het land, waar de behandeling wordt verleend, ter zake geldende regels.
 
 2. Onder kunstmiddelen als bedoeld in [artikel 734g, lid 1, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=734g) worden verstaan de hulpmiddelen, op levering of vergoeding waarvan aanspraak bestaat op grond van de zorgverzekering, bedoeld in [artikel 1, onderdeel d, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1).
 
-#### Artikel 6. Samenloop loon en uitkering
+##### Artikel 6. Samenloop loon en uitkering
 
 Bij samenloop over eenzelfde tijdvak en ter zake van eenzelfde arbeidsongeschiktheid, overlijden of aandoening van uitkeringen of voorzieningen als bedoeld in de [artikelen 734d tot en met 734h van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=734d) met uitkeringen of voorzieningen op grond van een andere wettelijke regeling, waaronder begrepen een wettelijke regeling van een andere staat, worden de eerstbedoelde uitkeringen of voorzieningen slechts verleend, voor zover deze de laatstbedoelde uitkeringen of voorzieningen overtreffen. De eerste volzin vindt geen toepassing ten aanzien van samenloop van een uitkering ineens als bedoeld in [artikel 734h van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=734h) met een overlijdensuitkering als bedoeld in [artikel 674 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=674).
 
-#### Artikel 7. Hoogte loon
+##### Artikel 7. Hoogte loon
 
 1. Het naar tijdruimte in geld vastgestelde loon, bedoeld in de [artikelen 734d, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=734d), en [734j van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=734j), wordt verhoogd met:
 
@@ -132,17 +158,17 @@ Bij samenloop over eenzelfde tijdvak en ter zake van eenzelfde arbeidsongeschikt
 
 4. Indien het derde lid van toepassing is blijven het eerste en tweede lid buiten toepassing.
 
-#### Artikel 8. Andere loonbestanddelen
+##### Artikel 8. Andere loonbestanddelen
 
 Het bedrag, bedoeld in [artikel 734j, tweede zin, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=734j), wordt vastgesteld op een bedrag per jaar, dat wordt verkregen door vermenigvuldiging met het getal 260 van het bedrag, bedoeld in [artikel 17, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=17) met betrekking tot een loontijdvak van een dag, verminderd met de geldswaarde van andere loonbestanddelen als bedoeld in artikel 734j van Boek 7 van het Burgerlijk Wetboek.
 
 ### Hoofdstuk 2. Arbeidsbemiddeling en terbeschikkingstelling van arbeidskrachten in de zeevaart
 
-#### Artikel 9. Persoonsdocumenten
+##### Artikel 9. Persoonsdocumenten
 
 De kosten voor het verkrijgen van het monsterboekje en paspoort of vergelijkbare persoonlijke reisdocumenten vallen niet onder het verbod op tegenprestatie als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=3), en [artikel 9 van de Wet allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=9). De hierboven genoemde kosten komen ten laste van de zeevarende met uitzondering van de kosten voor het verkrijgen van een geldige geneeskundige verklaring en de kosten van visum. Deze kosten komen ten laste van de scheepsbeheerder.
 
-#### Artikel 10. Register
+##### Artikel 10. Register
 
 1. Degene die bemiddelt tussen werkgevers en werknemers bij het tot stand komen van een arbeidsovereenkomst dan wel een aanstelling tot ambtenaar en degene die arbeidskrachten ter beschikking stelt dienen ten behoeve van de toezichthouder, bedoeld in [artikel 13 van de Wet allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=13), een register bij te houden van alle zeevarenden die via hen zijn bemiddeld, of ter beschikking zijn gesteld.
 
@@ -164,7 +190,7 @@ De kosten voor het verkrijgen van het monsterboekje en paspoort of vergelijkbare
 
 - h. naam van schip (afhankelijk van de staat van dienst).
 
-#### Artikel 11. Verplichtingen
+##### Artikel 11. Verplichtingen
 
 Degene die bemiddelt tussen werkgevers en werknemers bij het tot stand komen van een zee-arbeidsovereenkomst of een arbeidsovereenkomst dan wel een aanstelling tot ambtenaar en degene die arbeidskrachten ter beschikking stelt dienen ervoor zorg te dragen dat:
 
@@ -184,19 +210,19 @@ Degene die bemiddelt tussen werkgevers en werknemers bij het tot stand komen van
 
 ### Hoofdstuk 3. Wijziging van het [Arbeidstijdenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007687)
 
-#### Artikel 12. Wijziging van het [Arbeidstijdenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007687)
+##### Artikel 12. Wijziging van het [Arbeidstijdenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007687)
 
 Wijzigt het Arbeidstijdenbesluit.
 
 ### Hoofdstuk 4. Wijziging van het [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498)
 
-#### Artikel 13. Wijziging van het [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498)
+##### Artikel 13. Wijziging van het [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498)
 
 Wijzigt het Arbeidsomstandighedenbesluit.
 
 ### Hoofdstuk 5. Overige bepalingen
 
-#### Artikel 14. Intrekking besluiten
+##### Artikel 14. Intrekking besluiten
 
 De volgende besluiten worden ingetrokken:
 
@@ -204,11 +230,11 @@ De volgende besluiten worden ingetrokken:
 
 - b. het [Besluit aanspraken van schepelingen, die niet verzekerd zijn ingevolge de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002612); en
 
-#### Artikel 15. Inwerkingtreding
+##### Artikel 15. Inwerkingtreding
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende hoofdstukken of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 16. Citeertitel
+##### Artikel 16. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit aanspraken zeevarenden, arbeidsbemiddeling en terbeschikkingstelling van arbeidskrachten in de zeevaart.
 

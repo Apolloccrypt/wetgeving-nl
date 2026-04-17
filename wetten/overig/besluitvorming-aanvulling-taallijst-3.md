@@ -1,13 +1,38 @@
 ---
 title: "Besluitvorming Aanvulling taallijst 3"
 identifier: "BWBR0047569"
-categorie: "Overig"
-publicatiedatum: 2022-12-02
-laatste_update: 2022-12-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047569"
+country: "nl"
+rank: "zbo"
+publication_date: "2022-12-02"
+last_updated: "2022-12-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047569"
+soort: "zbo"
+stam_id: "16584533"
+version_id: "29104482"
+internal_id: "C41368911"
+label_id: "16503994"
+dtd_version: "2.0"
+original_entry_into_force: "2022-12-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047569/2022-12-02/0"
+intitule_bron: "Stcrt.2022-31847"
+intitule_effect: "wijziging"
+intitule_signed: "2022-11-18"
+intitule_published: "2022-12-01"
+intitule_in_force: "2022-12-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-31847"
+original_signed_date: "2022-11-18"
+original_published_date: "2022-12-01"
+original_effect: "wijziging"
+original_url_id: "stcrt-2022-31847"
+entry_into_force_date: "2022-12-02"
+jci_1_3: "jci1.3:c:BWBR0047569&z=2022-12-02&g=2022-12-02"
+jci_1_0: "1.0:c:BWBR0047569&g=2022-12-02"
+citeertitel_status: "officieel"
+signed_date: "2022-11-18"
+entry_into_force: "2022-12-02"
 ---
-
 # Besluitvorming Aanvulling taallijst 3
 
 **Overwegende dat:**

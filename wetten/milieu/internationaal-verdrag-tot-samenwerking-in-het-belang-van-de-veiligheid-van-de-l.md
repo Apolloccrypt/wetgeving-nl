@@ -1,13 +1,35 @@
 ---
 title: "Internationaal Verdrag tot samenwerking in het belang van de veiligheid van de luchtvaart “EUROCONTROL”"
 identifier: "BWBV0004802"
-categorie: "Milieu"
-publicatiedatum: 2022-07-01
-laatste_update: 2022-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004802"
+country: "nl"
+rank: "verdrag"
+publication_date: "2022-07-01"
+last_updated: "2022-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004802"
+soort: "verdrag"
+stam_id: "10004326213"
+version_id: "10004526352"
+internal_id: "C10009780041"
+label_id: "10004311954"
+dtd_version: "2.0"
+original_entry_into_force: "1963-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004802/2022-07-01/0"
+intitule_bron: "Trb.1961-62"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1961-06-20"
+intitule_in_force: "1963-05-10"
+intitule_status: "goed"
+original_publication: "Trb.1961-62"
+original_published_date: "1961-06-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1961-62"
+entry_into_force_date: "1963-03-01"
+jci_1_3: "jci1.3:c:BWBV0004802&z=2022-07-01&g=2022-07-01"
+jci_1_0: "1.0:c:BWBV0004802&g=2022-07-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1963-03-01"
 ---
-
 # Internationaal Verdrag tot samenwerking in het belang van de veiligheid van de luchtvaart “EUROCONTROL”
 
 De Bondsrepubliek Duitsland,
@@ -44,7 +66,7 @@ overwegende bovendien dat het zeer gewenst is om het werk van de staten op het t
 
 zijn overeengekomen als volgt:
 
-#### Artikel 1
+##### Artikel 1
 
 1. De Verdragsluitende Partijen komen overeen, hun samenwerking op het gebied van de luchtvaart te versterken en hun gemeenschappelijke werkzaamheden op dit gebied te ontwikkelen, waarbij ten volle rekening wordt gehouden met de vereisten van de landsverdediging en tevens aan alle gebruikers van het luchtruim de grootst mogelijke vrijheid wordt gelaten die verenigbaar is met de vereiste graad van veiligheid. Zij komen derhalve overeen:
 
@@ -66,7 +88,7 @@ zijn overeengekomen als volgt:
 
 3. De zetel van de Organisatie is te Brussel gevestigd.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Organisatie heeft de volgende taken:
 
@@ -114,7 +136,7 @@ De tenuitvoerlegging van deze taken wordt per geval geregeld in een bijzondere o
 
 De tenuitvoerlegging van deze taken wordt per geval geregeld in bijzondere overeenkomsten tussen de Organisatie en de belanghebbende Staten.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Dit Verdrag is van toepassing op de diensten voor de „en route”-luchtvaart en de daarmee verband houdende naderingsdiensten en plaatselijke diensten ten behoeve van het luchtverkeer in de vluchtinlichtingengebieden vermeld in Bijlage 2.
 
@@ -122,11 +144,11 @@ De tenuitvoerlegging van deze taken wordt per geval geregeld in bijzondere overe
 
 3. In dit Verdrag slaat de uitdrukking „luchtverkeer” op het luchtverkeer van de burgerluchtvaartuigen, alsmede de militaire luchtvaartuigen en douane- en politieluchtvaartuigen die zich houden aan de procedures van de Internationale Burgerluchtvaartorganisatie.
 
-#### Artikel 4
+##### Artikel 4
 
 De Organisatie bezit rechtspersoonlijkheid. Zij bezit op het grondgebied van de Verdragsluitende Partijen de ruimste handelingsbevoegdheid welke door de nationale wetgevingen aan rechtspersonen wordt toegekend; zij kan, met name, roerende en onroerende goederen verwerven of vervreemden en in rechte optreden. Behoudens voor zover in dit Verdrag of in de bijgevoegde Statuten anders wordt bepaald, wordt zij vertegenwoordigd door het „Agentschap”, dat in haar naam handelt. Het „Agentschap” beheert het vermogen van de Organisatie.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De Commissie bestaat uit vertegenwoordigers van de Verdragsluitende Partijen. Elke Verdragsluitende Partij kan zich laten vertegenwoordigen door verscheidene afgevaardigden zodat met name de belangen der burgerluchtvaart zowel als die der nationale defensie vertegenwoordigd kunnen worden, maar beschikt slechts over één stem.
 
@@ -134,7 +156,7 @@ De Organisatie bezit rechtspersoonlijkheid. Zij bezit op het grondgebied van de 
 
 3. Indien bepalingen daaromtrent zijn voorzien in andere overeenkomsten, tussen de Organisatie en derde Staten gesloten overeenkomstig artikel 2, lid 1, met name voor de regeling van de verkeersstromen, wordt de Commissie uitgebreid en neemt zij haar besluiten op de in deze overeenkomsten bepaalde voorwaarden.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De Commissie neemt ter vervulling van de ingevolge artikel 2, lid 1, aan de Organisatie opgedragen taken de volgende maatregelen:
 
@@ -162,7 +184,7 @@ De Organisatie bezit rechtspersoonlijkheid. Zij bezit op het grondgebied van de 
 
 4. De Commissie kan namens de Organisatie een geschil aanhangig maken bij het in artikel 31 voorziene scheidsgerecht.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De beschikkingen worden door de Commissie met algemene stemmen van de Verdragsluitende Partijen gegeven en zijn voor deze bindend. Indien een Verdragsluitende Partij de Commissie evenwel mededeelt dat zij door dwingende redenen van nationaal belang verhinderd is gevolg te geven aan een met algemene stemmen gegeven beschikking op de in artikel 2, lid 1 (b) en (c), genoemde gebieden, kan zij van bedoelde beschikking afwijken mits zij de beweegredenen voor deze afwijking aan de Commissie uiteenzet. Binnen zes maanden na deze mededeling herziet de Commissie haar voorheen genomen beschikking, of besluit zij of aan de afwijking bepaalde voorwaarden of grenzen gesteld moeten worden. In beide gevallen vereist de door de Commissie te nemen beslissing eenparigheid van stemmen van de Verdragsluitende Partijen.
 
@@ -178,7 +200,7 @@ De Organisatie bezit rechtspersoonlijkheid. Zij bezit op het grondgebied van de 
 
 5. Aanbevelingen van de Commissie vereisen de meerderheid van stemmen van de Verdragsluitende Partijen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De in artikel 7 bedoelde stemweging geschiedt overeenkomstig de onderstaande tabel:
 
@@ -207,17 +229,17 @@ De Organisatie bezit rechtspersoonlijkheid. Zij bezit op het grondgebied van de 
 
 4. Het aantal stemmen wordt, overeenkomstig bovenstaande bepalingen, jaarlijks opnieuw vastgesteld.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De Commissie stelt haar huishoudelijk reglement vast, dat met algemene stemmen moet worden aangenomen.
 
 2. Dit reglement moet met name voorschriften bevatten met betrekking tot het voorzitterschap, de instelling van werkgroepen, en de voertalen van de Commissie.
 
-#### Artikel 10
+##### Artikel 10
 
 Het Agentschap stelt aan de Commissie het personeel en de materiële middelen ter beschikking die nodig zijn voor het uitoefenen van haar taak.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De Commissie onderhoudt met de belanghebbende Staten en internationale organisaties de betrekkingen die nodig zijn voor de verwezenlijking van de doelen van de Organisatie.
 
@@ -225,15 +247,15 @@ Het Agentschap stelt aan de Commissie het personeel en de materiële middelen te
 
 3. De Commissie kan het Agentschap op zijn voorstel de beslissing delegeren tot het openen van onderhandelingen en het sluiten van de overeenkomsten die nodig zijn voor de tenuitvoerlegging van de in artikel 2 bedoelde taken.
 
-#### Artikel 12
+##### Artikel 12
 
 De overeenkomsten inzake de in artikel 2 bedoelde taken tussen de Organisatie en een of meer Verdragsluitende Partijen, een of meer niet-Lid-Staten, of een internationale organisatie, moeten de respectieve taken, rechten en verplichtingen van de Partijen bij de overeenkomsten, alsmede de voorwaarden van de financiering en de te nemen maatregelen vastleggen. Zij kunnen tot stand worden gebracht door het Agentschap onder de voorwaarden van artikel 6, lid 3, en artikel 11, lid 3
 
-#### Artikel 13
+##### Artikel 13
 
 Het Agentschap kan, binnen het kader van de door de Commissie gegeven richtlijnen, met de betrokken openbare of particuliere technische diensten van de Verdragsluitende Partijen, van staten die geen partij zijn bij dit Verdrag of internationale organen, de betrekkingen onderhouden die noodzakelijk zijn voor de coördinatie van het luchtverkeer en voor het functioneren van zijn eigen diensten. Het kan daartoe, in naam van de Organisatie, en onder het voorbehoud dat het de Commissie ervan in kennis stelt, overeenkomsten aangaan, die een zuiver administratief, technisch of commercieel karakter dragen, voorzover die overeenkomsten nodig zijn voor het functioneren van het Agentschap.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Indien de nationale wetgeving terzake bepalingen bevat, wordt overeenkomstig die wetgeving en behoudens goedkeuring van de betrokken regeringen de verwerving van de onroerende goederen nodig voor het vestigen van inrichtingen van de Organisatie, aangemerkt als van algemeen nut. Hieraan zijn de rechtsgevolgen verbonden die de nationale wetgeving aan onteigeningen ten algemenen nutte verbindt. Indien omtrent de eerder bedoelde verwervingen geen overeenstemming tussen de partijen kan worden bereikt, kunnen de bevoegde autoriteiten van de betrokken staat terzake overeenkomstig hun nationale wetgeving de onteigeningsprocedure ten algemenen nutte toepassen.
 
@@ -243,25 +265,25 @@ Het Agentschap kan, binnen het kader van de door de Commissie gegeven richtlijne
 
 4. De uit de toepassing van de bepalingen van dit artikel voortvloeiende kosten, met inbegrip van de schadeloosstelling die overeenkomstig de wetgeving van de staat op wiens grondgebied de eigendommen zijn gelegen, verschuldigd is, komen ten laste van de Organisatie.
 
-#### Artikel 15
+##### Artikel 15
 
 Ingeval de Organisatie de in artikel 2, lid 2 (b), voorziene taken uitoefent, past het Agentschap de regelingen toe die van kracht zijn op de grondgebieden van de Verdragsluitende Partijen en in de delen van het luchtruim waarvoor de luchtverkeersleiding aan hen is toevertrouwd krachtens de internationale overeenkomsten bij welke zij partij zijn.
 
-#### Artikel 16
+##### Artikel 16
 
 Ingeval de Organisatie de in artikel 2, lid 2 (b), voorziene taken uitoefent, en binnen de grenzen van de aan de luchtverkeersleidingsdiensten toegekende rechten, geeft het Agentschap alle nodige aanwijzingen aan de gezagvoerders van de luchtvaartuigen. Deze zijn verplicht zich daaraan te houden, behalve in de gevallen van overmacht bedoeld in de in het voorgaande artikel genoemde regelingen.
 
-#### Artikel 17
+##### Artikel 17
 
 Ingeval de Organisatie de in artikel 2, lid 2 (b), voorziene taken uitoefent, worden de overtredingen van de luchtvaartwetgeving die zijn begaan in het luchtruim waarin het verschaffen van luchtverkeersleidingsdiensten is toevertrouwd aan het Agentschap, door speciaal hiervoor door het Agentschap aangestelde personen in processen-verbaal geconstateerd, onverminderd het door de nationale wetgevingen aan de opsporingsambtenaren van de Verdragsluitende Partijen toegekende recht om overtredingen van dezelfde aard te constateren. De bovengenoemde processen-verbaal hebben voor de nationale rechter dezelfde waarde als die, welke zijn opgemaakt door de nationale opsporingsambtenaren die bevoegd zijn om overtredingen van dezelfde aard te constateren.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De verspreiding van geschriften en ander voorlichtingsmateriaal dat door of aan de Organisatie wordt verzonden en verband houdt met haar officiële werkzaamheden, wordt op geen enkele wijze beperkt.
 
 2. Met betrekking tot haar officiële berichtgeving en het overbrengen van al haar documenten geniet de Organisatie een behandeling die even gunstig is als die welke elke Verdragsluitende Partij vergelijkbare internationale organisaties doet genieten.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De Organisatie is in de staat waar zich de zetel bevindt, en binnen het grondgebied van de Verdragsluitende Partijen, vrijgesteld van alle rechten en belastingen bij haar oprichting, ontbinding en liquidatie.
 
@@ -275,7 +297,7 @@ Ingeval de Organisatie de in artikel 2, lid 2 (b), voorziene taken uitoefent, wo
 
 6. De in dit artikel nedergelegde vrijstellingen strekken zich niet uit tot de belastingen en heffingen die worden geheven als vergoeding voor algemene door de Overheid verrichte diensten.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De Organisatie is vrijgesteld van alle douanerechten en heffingen van gelijke werking, waaronder niet begrepen kostenbijdragen of heffingen wegens verleende diensten, en zij is ontheven van elk verbod of elke beperking op in- en uitvoer van grondstoffen, materialen, benodigdheden en andere goederen die worden ingevoerd voor het officieel gebruik door de Organisatie en bestemd zijn voor de onroerende goederen en inrichtingen van de Organisatie of die nodig zijn om haar te doen functioneren.
 
@@ -285,13 +307,13 @@ Ingeval de Organisatie de in artikel 2, lid 2 (b), voorziene taken uitoefent, wo
 
 4. Bovendien is de Organisatie vrijgesteld van alle douanerechten en ontheven van elk verbod of elke beperking van in- en uitvoer, ten aanzien van de publikaties bedoeld in artikel 25 van de hierbijgevoegde Statuten.
 
-#### Artikel 21
+##### Artikel 21
 
 1. De Organisatie kan alle soorten valuta's bezitten en rekeningen aanhouden in alle geldsoorten, voorzover dit nodig is ter uitvoering van de werkzaamheden die voor het bereiken van haar doelstelling van belang zijn.
 
 2. De Verdragsluitende Partijen verplichten zich om haar alle volmachten te verlenen die nodig zijn om, in overeenstemming met de desbetreffende nationale voorschriften en internationale overeenkomsten, alle overboekingen van gelden te verrichten waartoe de oprichting en de werkzaamheden van de Organisatie aanleiding kunnen geven, waaronder de uitgifte, aflossing van, en rentebetaling op leningen, indien de uitgifte hiervan door de regering van de betrokken Verdragsluitende Partij is toegestaan.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Het Agentschap kan een beroep doen op de medewerking van gekwalificeerde onderdanen van de Verdragsluitende Partijen.
 
@@ -317,21 +339,21 @@ Ingeval de Organisatie de in artikel 2, lid 2 (b), voorziene taken uitoefent, wo
 
 8. De betrokken Regeringen nemen alle maatregelen die nodig zijn om te verzekeren dat de nettosalarissen vrij kunnen worden overgemaakt.
 
-#### Artikel 23
+##### Artikel 23
 
 De vertegenwoordigers van de Verdragsluitende Partijen genieten in het kader van de uitoefening van hun functies alsmede op hun reizen naar de plaats van samenkomst en terug onschendbaarheid van al hun officiële stukken en documenten.
 
-#### Artikel 24
+##### Artikel 24
 
 De Organisatie, de Directeur-generaal en de personeelsleden van de Organisatie zijn wegens het eigen stelsel van sociale verzekering vrijgesteld van alle verplichte bijdragen aan nationale sociale verzekeringsorganen, onverminderd de bij de inwerkingtreding van het in 1981 te Brussel ter ondertekening opengestelde Protocol tussen de Organisatie en een Verdragsluitende Partij bestaande regelingen.
 
-#### Artikel 25
+##### Artikel 25
 
 1. De contractuele aansprakelijkheid van de Organisatie wordt beheerst door de wet die op het betrokken contract van toepassing is.
 
 2. Wat de niet-contractuele aansprakelijkheid aangaat, moet de Organisatie de schaden veroorzaakt door de schuld van haar organen of door die van haar personeelsleden in de uitoefening van hun functies, vergoeden voor zover deze schade aan hen te wijten is. De voorgaande bepaling laat rechten op andere schadevergoedingen die hun grondslag vinden in de nationale wetgeving van de Verdragsluitende Partijen, onverlet.
 
-#### Artikel 26
+##### Artikel 26
 
 - (a). De inrichtingen van de Organisatie zijn onschendbaar. De eigendommen en bezittingen van de Organisatie zijn vrijgesteld van elke vordering, onteigening en inbeslagneming.
 
@@ -341,25 +363,25 @@ De Organisatie, de Directeur-generaal en de personeelsleden van de Organisatie z
 
 3. Evenwel, ten einde gerechtelijke onderzoeken uit te voeren en de tenuitvoerlegging van de rechterlijke uitspraken op hun respectieve grondgebieden te verzekeren, hebben de bevoegde autoriteiten van de Staat waar zich de zetel bevindt en van de andere landen waar inrichtingen en archieven zijn gevestigd, na kennisgeving aan de Directeur-generaal van het Agentschap, toegang tot de inrichtingen en archieven van de Organisatie.
 
-#### Artikel 27
+##### Artikel 27
 
 1. De Organisatie werkt te allen tijde samen met de bevoegde autoriteiten van de Verdragsluitende Partijen om een goede rechtsbedeling te vergemakkelijken, het nakomen van politieverordeningen te verzekeren en elk misbruik te voorkomen waartoe de in dit Verdrag genoemde voorrechten, immuniteiten, vrijstellingen of faciliteiten aanleiding zouden kunnen geven.
 
 2. De Organisatie vergemakkelijkt zoveel mogelijk de totstandkoming van werken die van algemeen belang zijn en die op het grondgebied van de Verdragsluitende Partijen worden uitgevoerd op of in de nabijheid van de percelen die aan de Organisatie zijn toegewezen.
 
-#### Artikel 28
+##### Artikel 28
 
 Ingeval de Organisatie de in artikel 2, lid 2 (b), voorziene taken uitoefent, zijn de internationale overeenkomsten en de nationale voorschriften, die betrekking hebben op de toegang tot, alsmede het overvliegen en de veiligheid van het grondgebied van de Verdragsluitende Partijen, bindend voor het Agentschap dat alle maatregelen neemt die voor de toepassing van die overeenkomsten en regelingen noodzakelijk zijn.
 
-#### Artikel 29
+##### Artikel 29
 
 Ingeval de Organisatie de in artikel 2, lid 2 (b), voorziene taken uitoefent, is het Agentschap verplicht om aan de Verdragsluitende Partijen die daartoe de wens te kennen geven, alle op luchtvaartuigen betrekking hebbende inlichtingen te verstrekken waarvan het uit hoofde van de uitoefening van zijn taak op de hoogte is, ten einde de Verdragsluitende Partijen in staat te stellen toezicht uit te oefenen op de toepassing van de internationale overeenkomsten en nationale voorschriften.
 
-#### Artikel 30
+##### Artikel 30
 
 De Verdragsluitende Partijen erkennen dat het noodzakelijk is dat de financiën van het Agentschap in evenwicht zijn en verbinden zich om, rekening houdende met de eigen inkomsten van het Agentschap, de nodige geldmiddelen ter beschikking te stellen binnen de grenzen en voorwaarden als vastgesteld in de hierbijgevoegde Statuten.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Ieder geschil dat tussen de Verdragsluitende Partijen of tussen de Verdragsluitende Partijen en de Organisatie, vertegenwoordigd door de Commissie, mocht ontstaan ten aanzien van de uitlegging of toepassing van dit Verdrag of van zijn bijlagen, en dat niet kan worden opgelost door rechtstreekse onderhandelingen of op enige andere wijze geregeld, zal op verzoek van een van de partijen aan arbitrage worden onderworpen.
 
@@ -371,7 +393,7 @@ De Verdragsluitende Partijen erkennen dat het noodzakelijk is dat de financiën 
 
 5. De beslissingen van het scheidsgerecht zijn bindend voor de partijen bij het geschil.
 
-#### Artikel 32
+##### Artikel 32
 
 1. De Statuten van het Agentschap en alle wijzigingen die erin mochten worden aangebracht onder de in dit Verdrag en in de hierbij gevoegde Statuten genoemde voorwaarden zijn rechtsgeldig en uitvoerbaar op het grondgebied van de Verdragsluitende Partijen.
 
@@ -379,15 +401,15 @@ De Verdragsluitende Partijen erkennen dat het noodzakelijk is dat de financiën 
 
 3. De bepalingen van de artikelen 1, 11, 19 en 20 van de bijgevoegde Statuten kunnen echter niet door de Commissie worden gewijzigd.
 
-#### Artikel 33
+##### Artikel 33
 
 In geval van crisis of oorlog kunnen de bepalingen van dit Verdrag geen afbreuk doen aan de vrijheid van handelen van de betrokken Verdragsluitende Partijen.
 
-#### Artikel 34
+##### Artikel 34
 
 De Verdragsluitende Partijen verbinden zich om het Agentschap te laten profiteren van de van kracht zijnde wettelijke bepalingen, die ten doel hebben de continuïteit van de openbare diensten te verzekeren.
 
-#### Artikel 35
+##### Artikel 35
 
 1. Dit Verdrag, zoals gewijzigd door het in 1981 te Brussel ter ondertekening opengestelde Protocol, wordt verlengd voor een tijdvak van twintig jaar, te rekenen vanaf de inwerkingtreding van voornoemd Protocol.
 
@@ -395,7 +417,7 @@ De Verdragsluitende Partijen verbinden zich om het Agentschap te laten profitere
 
 3. Indien met inachtneming van het voorafgaande de Organisatie wordt opgeheven, wordt zij geacht te bestaan ten dienste van haar liquidatie.
 
-#### Artikel 36
+##### Artikel 36
 
 1. Toetreding tot dit Verdrag, zoals gewijzigd door het in 1981 te Brussel ter ondertekening opengestelde Protocol, door elke Staat die voornoemd Protocol niet ondertekend heeft, is onderworpen aan:
 
@@ -409,11 +431,11 @@ De Verdragsluitende Partijen verbinden zich om het Agentschap te laten profitere
 
 4. De toetreding wordt van kracht op de eerste dag van de tweede maand volgende op de nederlegging van de akte van toetreding.
 
-#### Artikel 1
+##### Artikel 1
 
 Het Agentschap, opgericht bij artikel 1 van het Verdrag, wordt beheerst door deze Statuten.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het Agentschap vormt het orgaan dat belast is met het bereiken van de doeleinden en het uitvoeren van de in het Verdrag genoemde of door de Permanente Commissie (hierna te noemen „de Commissie”) vastgestelde taken. Het stelt voorstellen op en legt deze voor aan de daarvoor in aanmerking komende organen inzake de uitoefening van de onderscheiden functies en uitvoering van de onderscheiden taken van deze organen alsook de andere aan de Organisatie gedelegeerde taken. Het verleent eveneens bijstand aan de Commissie en haar ondergeschikte organen voor de uitvoering van hun toezichthoudende functies.
 
@@ -461,7 +483,7 @@ Het Agentschap, opgericht bij artikel 1 van het Verdrag, wordt beheerst door dez
 
 7. Het Agentschap werkt nauw samen met de gebruikersorganisaties om zo efficiënt en economisch mogelijk in de behoeften van de burgerluchtvaart te voorzien. Het werkt nauw samen met de militaire autoriteiten ten einde volgens dezelfde voorwaarden in de bijzondere behoeften van de militaire luchtvaart te voorzien.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Onder voorbehoud van de bevoegdheden die aan de Commissie zijn toegekend, wordt het Agentschap geleid door een Directeur-generaal die bij zijn beheer een grote onafhankelijkheid geniet wat betreft de invoering, het gebruik en het efficiënt functioneren van de hem ter beschikking gestelde technische, financiële en personele middelen. Uit dien hoofde neemt hij/zij de naar zijn/haar oordeel noodzakelijke initiatieven om aan zijn/haar verplichtingen te voldoen.
 
@@ -485,17 +507,17 @@ Het Agentschap, opgericht bij artikel 1 van het Verdrag, wordt beheerst door dez
 
 - c. de in artikel 13 van het Verdrag bedoelde contracten te sluiten.
 
-#### Artikel 4
+##### Artikel 4
 
 Onder voorbehoud van de bevoegdheden die aan de Commissie en aan zijn ondergeschikte organen zijn toegekend, voert een Bestuurscomité, hierna genoemd het „Comité”, de taken uit zoals voorzien in deze Statuten of in andere relevante internationale rechtsinstrumenten.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het Comité wordt samengesteld uit vertegenwoordigers van elk van de Verdragsluitende Partijen. Elke Verdragsluitende Partij mag meerdere vertegenwoordigers aanwijzen, zodat met name de belangen van de burgerluchtvaart en die van de nationale defensie vertegenwoordigd kunnen worden. Slechts één van de vertegenwoordigers is stemgerechtigd en hij dient een hoge ambtenaar te zijn die in zijn land een verantwoordelijke functie op het gebied van de luchtverkeersdienstverlening bekleedt. Elke vertegenwoordiger heeft een plaatsvervanger, die hem in geval van verhindering rechtens vertegenwoordigt.
 
 2. Voor zittingen van het Comité bestaat een quorum uit de stemgerechtigde vertegenwoordigers van driekwart van de Verdragsluitende Partijen. Indien het quorum niet wordt bereikt, worden de beraadslagingen uitgesteld tot een latere vergadering die opnieuw moet worden geconvoceerd en die niet eerder mag worden gehouden dan tien dagen na de voorgaande vergadering. Het quorum tijdens die vergadering bedraagt ten minste de helft van het aantal stemgerechtigde vertegenwoordigers.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het Comité stelt zijn huishoudelijk reglement op, met inbegrip van de regels betreffende de verkiezing van een Voorzitter en Vicevoorzitter en de benoeming van een Secretaris.
 
@@ -503,13 +525,13 @@ Onder voorbehoud van de bevoegdheden die aan de Commissie en aan zijn ondergesch
 
 3. Het reglement wordt ter goedkeuring aan de Commissie voorgelegd.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Voor de uitoefening van zijn taak kan het Agentschap onder andere de gebouwen en installaties die het nodig heeft construeren en exploiteren. Ten einde doublures te vermijden doet het echter een beroep op de nationale technische diensten en gebruikt het de bestaande nationale installaties telkens wanneer dat technisch en economisch gerechtvaardigd is.
 
 2. De Directeur-generaal legt maatregelen die genomen dienen te worden krachtens het voorgaande lid ter goedkeuring aan de Commissie voor.
 
-#### Artikel 8
+##### Artikel 8
 
 De Directeur-generaal stelt, met het oog op voorlegging aan de Commissie, het contractenreglement op dat betrekking heeft op:
 
@@ -519,7 +541,7 @@ De Directeur-generaal stelt, met het oog op voorlegging aan de Commissie, het co
 
 - c. de verkoop of overdracht van overtollige bezittingen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het Comité neemt zijn besluiten bij gewogen meerderheid.
 
@@ -531,15 +553,15 @@ De Directeur-generaal stelt, met het oog op voorlegging aan de Commissie, het co
 
 3. Bij staking van de stemmen besluit de Voorzitter, hetzij tijdens dezelfde vergadering tot een tweede stemming over te gaan, hetzij het voorstel op de agenda te plaatsen van een volgende vergadering waarvan hij de datum vaststelt. Indien op de volgende vergadering de stemmen opnieuw staken, is de stem van de Voorzitter doorslaggevend.
 
-#### Artikel 10
+##### Artikel 10
 
 Voor de toepassing van artikel 2, lid 1(l) van het Verdrag, neemt de uitgebreide Commissie bedoeld in de Multilaterale Overeenkomst betreffende „en route”-heffingen besluiten in overeenstemming met de bepalingen van die Overeenkomst.
 
-#### Artikel 11
+##### Artikel 11
 
 Het Comité stelt het Financieel Reglement op, dat aan de goedkeuring van de Commissie wordt onderworpen en onder meer bepaalt welke boekhoudregels gevolgd moeten worden ten aanzien van de inkomsten en uitgaven, op welke wijze de nationale bijdragen gestort moeten worden en onder welke voorwaarden de Organisatie leningen kan opnemen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Onverminderd het recht van de Verdragsluitende Partijen voorstellen voor te leggen, stelt de Directeur-generaal het Administratief Statuut van het personeel van het Agentschap op en onderwerpt dit aan de goedkeuring van de Commissie;
 
@@ -549,7 +571,7 @@ Het Comité stelt het Financieel Reglement op, dat aan de goedkeuring van de Com
 
 2. Slechts de Administratieve Rechtbank van de Internationale Arbeidsorganisatie is bevoegd tot regeling van geschillen tussen de Organisatie en het personeel van het Agentschap, met uitsluiting van alle andere nationale of internationale gerechten.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De Directeur-generaal wordt voor de tijd van vijf jaar benoemd door de Commissie met een meerderheid van de uitgebrachte stemmen, op voorwaarde dat die meerderheid volgens de in artikel 8 van het Verdrag voorziene weging ten minste driekwart van de uitgebrachte gewogen stemmen en ten minste driekwart van de stemuitbrengende Verdragsluitende Partijen vertegenwoordigt. Hij/zij is op dezelfde wijze eenmaal herbenoembaar. Het Statuut van de Directeur-generaal wordt door de Commissie goedgekeurd.
 
@@ -571,15 +593,15 @@ Het Comité stelt het Financieel Reglement op, dat aan de goedkeuring van de Com
 
 5. Het Comité stelt de voorwaarden vast waarop de Directeur-generaal bij diens verhindering wordt vervangen. Er wordt geen beroep op de Directeur van het Centrum Maastricht gedaan om de Directeur-Generaal tijdens diens afwezigheid te vervangen.
 
-#### Artikel 14
+##### Artikel 14
 
 De Commissie stelt de voertalen van het Agentschap vast.
 
-#### Artikel 15
+##### Artikel 15
 
 Het Agentschap verzorgt de voor zijn werkzaamheden noodzakelijke publicaties.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De begroting dient qua uitgaven en ontvangsten in evenwicht te zijn. Alle ontvangsten en uitgaven van het Agentschap dienen voor elk begrotingsjaar te worden geraamd.
 
@@ -587,17 +609,17 @@ Het Agentschap verzorgt de voor zijn werkzaamheden noodzakelijke publicaties.
 
 3. De Directeur-generaal legt de ontwerpbegroting en het ontwerp van het financieel vijfjarenplan uiterlijk op 31 oktober van het voorgaande jaar ter goedkeuring aan de Commissie voor.
 
-#### Artikel 17
+##### Artikel 17
 
 De begroting en het financieel vijfjarenplan kunnen, indien de omstandigheden zulks vereisen, in de loop van het begrotingsjaar worden herzien op de wijze die voor hun vaststelling en goedkeuring is voorgeschreven.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De diensten van het Agentschap kunnen op verzoek van de Commissie, op eigen initiatief of op verzoek van de Directeur-generaal, onderworpen worden aan administratieve of technische inspecties.
 
 2. Deze inspecties worden uitgevoerd door ambtenaren behorende tot de overheidsdiensten van de Verdragsluitende Partijen, zo nodig met externe bijstand. Elke inspectiecommissie bestaat uit ten minste twee leden van verschillende nationaliteit en tot elke inspectiecommissie moet voor zover mogelijk een lid behoren dat aan een voorgaande inspectie heeft deelgenomen.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Onverminderd het gestelde in onderstaand lid 2 worden de jaarlijkse bijdragen van de Verdragsluitende Partijen aan de begroting voor elk begrotingsjaar bepaald volgens onderstaande verdeelsleutel:
 
@@ -611,7 +633,7 @@ De begroting en het financieel vijfjarenplan kunnen, indien de omstandigheden zu
 
 4. De hier bedoelde grondslag voor de „en route”-heffingen is die welke is vastgesteld voor het voorlaatste jaar vóór het desbetreffende begrotingsjaar.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De Organisatie kan op de internationale kapitaalmarktende gelden opnemen die ter vervulling van haar taak noodzakelijk zijn.
 
@@ -623,15 +645,15 @@ De begroting en het financieel vijfjarenplan kunnen, indien de omstandigheden zu
 
 5. Ten aanzien van aangelegenheden die vallen binnen de werkingssfeer van dit artikel handelt de Organisatie in overleg met de bevoegde autoriteiten van de Verdragsluitende Partijen of met de circulatiebanken van die Verdragsluitende Partijen.
 
-#### Artikel 21
+##### Artikel 21
 
 In het ingevolge het bovenstaande artikel 11 aangenomen Financieel Reglement wordt voorzien in het ramen, uitvoeren en nazien van de ontvangsten en uitgaven van het Agentschap, met inachtneming van de bepalingen van deze Statuten.
 
-#### Artikel 22
+##### Artikel 22
 
 Vervallen
 
-#### Artikel 22bis
+##### Artikel 22bis
 
 1. Een Auditcomité zal onder andere:
 
@@ -655,31 +677,31 @@ Vervallen
 
 5. Het doel van de in het bovenstaande eerste lid, onderdeel a, genoemde controle die aan de hand van bescheiden en, zo nodig, ter plaatse geschiedt, heeft ten doel de juistheid van de ontvangsten en uitgaven na te gaan, en vast te stellen of het financiële jaarverslag een eerlijk en getrouw beeld geeft van de stand van zaken en financiële positie van de Organisatie. Het Auditcomité legt na afsluiting van elk begrotingsjaar een verslag aan de Commissie voor.
 
-#### Artikel 23
+##### Artikel 23
 
 Alle voorgestelde wijzigingen van de Statuten worden ter goedkeuring aan de Commissie voorgelegd, met inachtneming van het bepaalde in artikel 32, lid 3 van het Verdrag.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 Vervallen
 
-#### Artikel 2. Verkeersleidingscentrum Maastricht
+##### Artikel 2. Verkeersleidingscentrum Maastricht
 
 Vervallen
 
-#### Artikel 3. Verkeersleidingscentrum Karlsruhe
+##### Artikel 3. Verkeersleidingscentrum Karlsruhe
 
 Vervallen
 
-#### Artikel 4. In Ierland geïnstalleerde inrichtingen
+##### Artikel 4. In Ierland geïnstalleerde inrichtingen
 
 Vervallen
 
-#### Artikel 5. Resterende betalingen
+##### Artikel 5. Resterende betalingen
 
 Vervallen
 
-#### Artikel 6. Overgangsbepalingen inzake de begroting
+##### Artikel 6. Overgangsbepalingen inzake de begroting
 
 Vervallen
 
@@ -687,17 +709,17 @@ TEN BLIJKE WAARVAN, de ondergetekende Gevolmachtigden, na overlegging van hun in
 
 Gedaan te Brussel, op 13 december 1960, in de Duitse, Engelse, Franse en Nederlandse taal, in een enkel exemplaar, dat blijft berusten in het archief van de Regering van het Koninkrijk België, die een gewaarmerkt afschrift hiervan zal doen toekomen aan alle ondertekenende staten. In geval van afwijking tussen de teksten is de Franse tekst doorslaggevend.
 
-#### Artikel 17bis
+##### Artikel 17bis
 
 Er wordt een „EUROCONTROL-pensioenfonds” opgericht dat een afzonderlijke categorie activa van de Organisatie vormt. Het fonds bezit geen rechtspersoonlijkheid. Het wordt beheerd zoals vervat in het Aanhangsel bij deze Statuten.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De diensten van het Agentschap kunnen op verzoek van de Commissie, op eigen initiatief of op verzoek van de Directeur-generaal, onderworpen worden aan administratieve of technische inspecties.
 
 2. Deze inspecties worden uitgevoerd door ambtenaren behorende tot de overheidsdiensten van de Verdragsluitende Partijen, zo nodig met externe bijstand. Elke inspectiecommissie bestaat uit ten minste twee leden van verschillende nationaliteit en tot elke inspectiecommissie moet voor zover mogelijk een lid behoren dat aan een voorgaande inspectie heeft deelgenomen.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Onverminderd het gestelde in onderstaand lid 2 worden de jaarlijkse bijdragen van de Verdragsluitende Partijen aan de begroting voor elk begrotingsjaar bepaald volgens onderstaande verdeelsleutel:
 
@@ -711,7 +733,7 @@ Er wordt een „EUROCONTROL-pensioenfonds” opgericht dat een afzonderlijke cat
 
 4. De hier bedoelde grondslag voor de „en route”-heffingen is die welke is vastgesteld voor het voorlaatste jaar vóór het desbetreffende begrotingsjaar.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De Organisatie kan op de internationale kapitaalmarktende gelden opnemen die ter vervulling van haar taak noodzakelijk zijn.
 
@@ -723,39 +745,39 @@ Er wordt een „EUROCONTROL-pensioenfonds” opgericht dat een afzonderlijke cat
 
 5. Ten aanzien van aangelegenheden die vallen binnen de werkingssfeer van dit artikel handelt de Organisatie in overleg met de bevoegde autoriteiten van de Verdragsluitende Partijen of met de circulatiebanken van die Verdragsluitende Partijen.
 
-#### Artikel 21
+##### Artikel 21
 
 In het ingevolge het bovenstaande artikel 11 aangenomen Financieel Reglement wordt voorzien in het ramen, uitvoeren en nazien van de ontvangsten en uitgaven van het Agentschap, met inachtneming van de bepalingen van deze Statuten.
 
-#### Artikel 22
+##### Artikel 22
 
 Vervallen
 
-#### Artikel 23
+##### Artikel 23
 
 Alle voorgestelde wijzigingen van de Statuten worden ter goedkeuring aan de Commissie voorgelegd, met inachtneming van het bepaalde in artikel 32, lid 3 van het Verdrag.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 Vervallen
 
-#### Artikel 2. Verkeersleidingscentrum Maastricht
+##### Artikel 2. Verkeersleidingscentrum Maastricht
 
 Vervallen
 
-#### Artikel 3. Verkeersleidingscentrum Karlsruhe
+##### Artikel 3. Verkeersleidingscentrum Karlsruhe
 
 Vervallen
 
-#### Artikel 4. In Ierland geïnstalleerde inrichtingen
+##### Artikel 4. In Ierland geïnstalleerde inrichtingen
 
 Vervallen
 
-#### Artikel 5. Resterende betalingen
+##### Artikel 5. Resterende betalingen
 
 Vervallen
 
-#### Artikel 6. Overgangsbepalingen inzake de begroting
+##### Artikel 6. Overgangsbepalingen inzake de begroting
 
 Vervallen
 

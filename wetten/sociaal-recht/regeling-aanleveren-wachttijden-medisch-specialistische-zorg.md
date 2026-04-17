@@ -1,18 +1,43 @@
 ---
 title: "Regeling aanleveren wachttijden medisch-specialistische zorg"
 identifier: "BWBR0049078"
-categorie: "Sociaal recht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049078"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049078"
+soort: "zbo"
+stam_id: "16962513"
+version_id: "29817412"
+internal_id: "C42733741"
+label_id: "16873014"
+dtd_version: "2.0"
+original_entry_into_force: "2024-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049078/2024-01-01/0"
+intitule_bron: "Stcrt.2023-33998"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-11-28"
+intitule_published: "2023-12-12"
+intitule_in_force: "2023-12-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-33998"
+original_signed_date: "2023-11-28"
+original_published_date: "2023-12-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-33998"
+entry_into_force_date: "2024-01-01"
+jci_1_3: "jci1.3:c:BWBR0049078&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0049078&g=2024-01-01"
+citeertitel_status: "officieel"
+signed_date: "2023-11-28"
+entry_into_force: "2024-01-01"
 ---
-
 # Regeling aanleveren wachttijden medisch-specialistische zorg
 
 Gelet op [artikel 38, leden 4 en 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=38) en [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=62) en [68 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=68) (Wmg), is de Nederlandse Zorgautoriteit (NZa) bevoegd tot het stellen van regels op het gebied van wachttijden en wachttijdbemiddeling voor electieve medisch-specialistische zorg.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -48,11 +73,11 @@ In deze regeling wordt verstaan onder:
 
 - p. **wachtlijst:** een door iedere instelling, die onder de reikwijdte van deze regeling valt, bij te houden lijst met patiënten die bij die instelling wachten op het plannen van een afspraak voor polikliniekbezoek of diagnostiek.
 
-#### Artikel 2. Doel van de regeling
+##### Artikel 2. Doel van de regeling
 
 Deze regeling beoogt wachttijden voor electieve medisch-specialistische zorg, onderverdeeld in wachttijden voor behandeling, polikliniekbezoek en diagnostiek, per (sub)specialisme op een eenduidige en toegankelijke manier inzichtelijk te maken voor zowel patiënten als zorgverzekeraars. Het periodiek aanleveren van wachttijden door instellingen die onder de reikwijdte van deze regeling vallen is niet vrijblijvend, maar heeft een verplicht karakter. In de regeling wordt nader uitgewerkt aan welke verplichtingen instellingen moeten voldoen en welke methodiek zij moeten hanteren om de wachttijden te berekenen.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 1. Deze regeling is van toepassing op instellingen die:
 
@@ -62,7 +87,7 @@ Deze regeling beoogt wachttijden voor electieve medisch-specialistische zorg, on
 
 2. Deze regeling is niet van toepassing op abortusklinieken als bedoeld in [artikel 1 van de Wet afbreking zwangerschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=1).
 
-#### Artikel 4. Aanleveren wachttijden: verplichtingen
+##### Artikel 4. Aanleveren wachttijden: verplichtingen
 
 1. Een instelling levert eens in de twee weken op de peildatum, uiterlijk om 23.59 uur, voor elke locatie een overzicht met de wachttijden voor behandeling, polikliniekbezoek en diagnostiek aan via het Zorgbeeldportaal2[https://zorgbeeld.nza.nl](onbekend).
 
@@ -82,7 +107,7 @@ Deze regeling beoogt wachttijden voor electieve medisch-specialistische zorg, on
 
 7. Het aanleveren van de wachttijd voor **diagnostiek** geschiedt voor de diagnostische methoden of technieken, weergegeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049078&bijlage=1&z=2024-01-01&g=2024-01-01) behorend bij deze regeling.
 
-#### Artikel 5. Aanleveren wachttijden: methodiek
+##### Artikel 5. Aanleveren wachttijden: methodiek
 
 1. De wachttijden die op grond van deze regeling worden aangeleverd, worden uitgedrukt in kalenderdagen.
 
@@ -106,7 +131,7 @@ Deze regeling beoogt wachttijden voor electieve medisch-specialistische zorg, on
 
 - c. de uitkomst van de vaststelling bij a is de wachttijd voor polikliniekbezoek, respectievelijk diagnostiek, uitgedrukt in kalenderdagen, die op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049078&artikel=4&z=2024-01-01&g=2024-01-01) moet worden aangeleverd.
 
-#### Artikel 6. Informatieplicht wachtlijstbemiddeling
+##### Artikel 6. Informatieplicht wachtlijstbemiddeling
 
 1. Een instelling publiceert voor elke locatie de volgende tekst op haar website:
 
@@ -114,15 +139,15 @@ Deze regeling beoogt wachttijden voor electieve medisch-specialistische zorg, on
 
 2. In aanvulling op het eerste lid geldt, dat een instelling de patiënt mondeling of schriftelijk informeert over de mogelijkheid van wachtlijstbemiddeling door diens zorgverzekeraar, indien haar wachttijden voor behandeling, polikliniekbezoek of diagnostiek de Treeknorm overschrijden.
 
-#### Artikel 7. Intrekking oude regeling
+##### Artikel 7. Intrekking oude regeling
 
 De [regeling ‘Aanleveren wachttijden medisch-specialistische zorg’](https://wetten.overheid.nl/jci1.3:c:BWBR0047622), met kenmerk NR/REG-2315, wordt ingetrokken.
 
-#### Artikel 8. Overgangsbepaling
+##### Artikel 8. Overgangsbepaling
 
 Tenzij in de voorliggende regeling (NR/REG-2421) anders is bepaald, blijft de [regeling ‘Aanleveren wachttijden medisch-specialistische zorg’](https://wetten.overheid.nl/jci1.3:c:BWBR0045214), met kenmerk NR/REG-2127 en [NR/REG-2315](https://wetten.overheid.nl/jci1.3:c:BWBR0047622), van toepassing op gedragingen (handelen en nalaten) van zorgaanbieders die onder de werkingssfeer van die regeling vielen en die zijn aangevangen – en al dan niet beëindigd – in de periode dat die regeling gold.
 
-#### Artikel 9. Inwerkingtreding, publicatie en citeerregel
+##### Artikel 9. Inwerkingtreding, publicatie en citeerregel
 
 Deze regeling treedt in werking met ingang van 1 januari 2024.
 

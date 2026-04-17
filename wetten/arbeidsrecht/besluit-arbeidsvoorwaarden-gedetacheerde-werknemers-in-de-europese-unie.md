@@ -1,13 +1,39 @@
 ---
-title: "Besluit arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie"
+title: "Besluit van 28 november 2016 tot uitvoering van de Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie (Besluit arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie)"
 identifier: "BWBR0038821"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2025-12-12
-laatste_update: 2025-12-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038821"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-12-12"
+last_updated: "2025-12-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038821"
+soort: "AMvB"
+stam_id: "13812703"
+version_id: "26403012"
+internal_id: "C37634831"
+label_id: "13778764"
+dtd_version: "2.0"
+original_entry_into_force: "2020-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038821/2025-12-12/0"
+intitule_bron: "Stb.2016-477"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-11-28"
+intitule_published: "2016-12-08"
+intitule_in_force: "2016-12-08"
+intitule_status: "goed"
+original_publication: "Stb.2019-464"
+original_signed_date: "2019-12-03"
+original_published_date: "2019-12-12"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2019-464"
+entry_into_force_date: "2020-03-01"
+jci_1_3: "jci1.3:c:BWBR0038821&z=2025-12-12&g=2025-12-12"
+jci_1_0: "1.0:c:BWBR0038821&g=2025-12-12"
+citeertitel_status: "officieel"
+short_title: "Besluit arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie"
+signed_date: "2019-12-03"
+entry_into_force: "2020-03-01"
 ---
-
 # Besluit van 28 november 2016 tot uitvoering van de Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie (Besluit arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie)
 
 Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 12 september 2016, nr. 2016-0000193477;
@@ -20,11 +46,11 @@ Gezien het nader rapport van Onze Minister van Sociale Zaken en Werkgelegenheid 
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder wet: [Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBR0038054).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Op grond van een met redenen omkleed verzoek van een bevoegde instantie van een andere lidstaat verstrekken de door Onze Minister aangewezen ambtenaren die instantie onverwijld de gegevens over gedetacheerde werknemers en dienstverrichters in verband met het toezicht op de naleving van de arbeidsvoorwaarden en de arbeidsomstandigheden, bedoeld in artikel 3 van de detacheringsrichtlijn, voor zover die gegevens noodzakelijk zijn voor de administratieve samenwerking, bedoeld in [artikel 4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&artikel=4). Daarbij kan gebruik worden gemaakt van een nationaal identificatienummer, met inbegrip van het burgerservicenummer.
 
@@ -42,7 +68,7 @@ In dit besluit wordt verstaan onder wet: [Wet arbeidsvoorwaarden gedetacheerde w
 
 6. Wanneer er zich problemen voordoen om aan een verzoek om informatie te voldoen, stellen de door Onze Minister aangewezen ambtenaren de verzoekende instantie daarvan onverwijld in kennis, en geven daarbij aan op welke wijze invulling kan worden gegeven aan het verzoek. Wanneer er sprake is van aanhoudende problemen bij de uitwisseling van informatie stellen de door Onze Minister aangewezen ambtenaren de Europese Commissie hiervan op de hoogte via het IMI.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Onze Minister is bevoegd uit eigen beweging en verplicht op verzoek de gegevens met betrekking tot dienstverrichters, dienstontvangers, contactpersonen en gedetacheerde werknemers, die zijn verwerkt in verband met de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&artikel=4) en [8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&artikel=8), waaronder een nationaal identificatienummer zoals het burgerservicenummer begrepen kan worden, kosteloos te verstrekken aan:
 
@@ -60,7 +86,7 @@ In dit besluit wordt verstaan onder wet: [Wet arbeidsvoorwaarden gedetacheerde w
 
 3. Onze Minister is bevoegd uit eigen beweging en verplicht op verzoek de gegevens met betrekking tot dienstverrichters, dienstontvangers, contactpersonen en gedetacheerde werknemers, die zijn verwerkt in verband met de [artikelen 9e](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&artikel=9e), [9f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&artikel=9f), en [9g van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&artikel=9g), waaronder een nationaal identificatienummer zoals het burgerservicenummer begrepen kan worden, kosteloos te verstrekken aan de Sociale verzekeringsbank, voor zover die gegevens noodzakelijk zijn voor het vaststellen van de tijdvakken van verzekering voor de volksverzekeringen en de verzekeringsstatus van de gedetacheerde werknemers, of de toepassing van [Verordening (EG) nr. 883/2004](32004R0883) betreffende de coördinatie van de socialezekerheidsstelsels (PbEG 2004, L 200).
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een verzoek als bedoeld in [artikel 10a, eerste tot en met vierde lid, van de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=10a) wordt schriftelijk ingediend en met redenen omkleed. Indien uit het verzoek niet blijkt van een gegrond vermoeden van een mogelijke overtreding van een of meer algemeen verbindend verklaarde bepalingen van collectieve arbeidsovereenkomsten die gelden voor gedetacheerde werknemers en van de noodzaak voor de verzoeker om de verzochte gegevens te gebruiken voor het toezicht op de naleving van die bepaling of bepalingen, kan het verzoek worden geweigerd.
 
@@ -84,7 +110,7 @@ In dit besluit wordt verstaan onder wet: [Wet arbeidsvoorwaarden gedetacheerde w
 
 3. De gegevens, bedoeld in het tweede lid, onderdelen f tot en met h, worden gepseudonimiseerd.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De gegevens, bedoeld in de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038821&hoofdstuk=II&artikel=2&z=2025-12-12&g=2025-12-12), worden vernietigd na een periode van maximaal 7 jaar, te rekenen vanaf de datum van ontvangst van het gegeven.
 
@@ -96,7 +122,7 @@ In dit besluit wordt verstaan onder wet: [Wet arbeidsvoorwaarden gedetacheerde w
 
 5. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de in acht te nemen termijnen bij de verwerking van gegevens, bedoeld in de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038821&hoofdstuk=II&artikel=2&z=2025-12-12&g=2025-12-12).
 
-#### Artikel 6
+##### Artikel 6
 
 De elementen, bedoeld in [artikel 6, derde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&artikel=6), ter beoordeling of een onderneming daadwerkelijk substantiële activiteiten verricht om werknemers ter beschikking te stellen in het kader van transnationale dienstverrichting, bestaan uit:
 
@@ -116,7 +142,7 @@ De elementen, bedoeld in [artikel 6, derde lid, onderdeel a, van de wet](https:/
 
 - h. of de werknemer rechtmatig verblijft en rechtmatig zijn hoofdactiviteit uitoefent in de lidstaat waar de onderneming is gevestigd.
 
-#### Artikel 7
+##### Artikel 7
 
 De elementen, bedoeld in [artikel 6, derde lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&artikel=6), ter beoordeling of er sprake is van een gedetacheerde werknemer die tijdelijk arbeid in Nederland verricht, bestaan uit:
 
@@ -144,7 +170,7 @@ De elementen, bedoeld in [artikel 6, derde lid, onderdeel b, van de wet](https:/
 
 - l. hoe er feitelijk toezicht wordt gehouden en leiding wordt gegeven aan de werkzaamheden en of hierbij sprake is van een gezagsverhouding.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De verplichtingen van [artikel 8, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&artikel=8) zijn, voor wat betreft de identiteit van de persoon die de werkzaamheden uitvoert en de aard en vermoedelijke duur van de werkzaamheden, van overeenkomstige toepassing op zelfstandigen, die tijdelijk arbeid verrichten in Nederland in de sectoren van het beroeps- of bedrijfsleven, die in de Standaard Bedrijfsindeling worden aangeduid met de volgende classificaties:
 
@@ -216,7 +242,7 @@ De elementen, bedoeld in [artikel 6, derde lid, onderdeel b, van de wet](https:/
 
 - d. de locatie waar de werkzaamheden worden verricht.
 
-#### Artikel 9
+##### Artikel 9
 
 Een melding in de zin van [artikel 8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&artikel=8) is geldig voor de duur van een jaar voor:
 
@@ -250,7 +276,7 @@ Een melding in de zin van [artikel 8 van de wet](https://wetten.overheid.nl/jci1
 
 - c. een dienstverrichter die in het kader van transnationale dienstverrichting zijn werknemer ter beschikking stelt in de sector goederenvervoer en op wie zowel [artikel 9e](onbekend) als [artikel 9g van de wet](onbekend) niet van toepassing is, of een in het buitenland gevestigde zelfstandige die werkzaam is in de sector die in de Standaard Bedrijfsindeling is ingedeeld in de groep 49.4 Goederenvervoer over de weg, met inbegrip van de zelfstandige die in Nederland in opdracht van een in Nederland gevestigde dienstontvanger goederen levert.
 
-#### Artikel 10
+##### Artikel 10
 
 1. [Artikel 8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&artikel=8) is niet van toepassing op de dienstverrichter, die uitsluitend de volgende categorieën van werknemers detacheert naar Nederland:
 
@@ -298,7 +324,7 @@ Een melding in de zin van [artikel 8 van de wet](https://wetten.overheid.nl/jci1
 
 3. De dienstverrichter, die niet uitsluitend in het eerste lid genoemde categorieën van werknemers detacheert naar Nederland, meldt de in [artikel 8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&artikel=8) genoemde gegevens, met uitzondering van de identiteit van de gedetacheerde werknemer die valt onder een van de in het eerste lid genoemde categorieën en de bijdrage voor toepasselijke socialezekerheidsregelingen voor deze werknemer.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De verplichting, bedoeld in [artikel 2a, eerste lid, van de Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=2a) geldt niet voor de dienstverrichter op wie de meldingsplicht, bedoeld in [artikel 8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&artikel=8) van toepassing is en voor de dienstverrichter op wie [artikel 9e](onbekend) of [9g van de wet](onbekend) van toepassing is.
 
@@ -318,7 +344,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Hoofdstuk V. Wederzijdse bijstand bij handhaving en bestuurlijke handhaving
 
-#### Artikel 12
+##### Artikel 12
 
 1. De aangewezen ambtenaren, bedoeld in [artikel 10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&artikel=10), kunnen een verzoek tot invordering afwijzen op de volgende gronden:
 
@@ -330,7 +356,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 2. Een verzoek als bedoeld in [artikel 10, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&artikel=10) kan worden afgewezen, indien het verzoek niet voldoet aan de regels, bedoeld in artikel 10, vijfde lid, van de wet, onvolledig is of onmiskenbaar niet strookt met de onderliggende beslissing.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Als ernstige overtredingen als bedoeld in [artikel 15, derde en vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&artikel=15) worden aangewezen de overtredingen van de informatieverplichting, bedoeld in [artikel 6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&artikel=6) en van de administratieve eisen en controlemaatregelen, bedoeld in de [artikelen 8, eerste en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&artikel=8), en [9, eerste en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&artikel=9), waarbij ten minste twintig gedetacheerde werknemers betrokken zijn.
 
@@ -342,13 +368,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Hoofdstuk VI. Wijziging van andere besluiten
 
-#### Artikel 14
+##### Artikel 14
 
 Wijzigt het Vreemdelingenbesluit 2000.
 
 ### Hoofdstuk VII. Slotbepalingen
 
-#### Artikel 15
+##### Artikel 15
 
 Dit besluit wordt aangehaald als: Besluit arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie.
 

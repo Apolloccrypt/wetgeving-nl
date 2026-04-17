@@ -1,20 +1,45 @@
 ---
 title: "Regeling tarieven CBR 2012"
 identifier: "BWBR0030657"
-categorie: "Overig"
-publicatiedatum: 2012-01-01
-laatste_update: 2012-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030657"
+country: "nl"
+rank: "zbo"
+publication_date: "2012-01-01"
+last_updated: "2012-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030657"
+soort: "zbo"
+stam_id: "11501913"
+version_id: "18923572"
+internal_id: "C26403521"
+label_id: "11475184"
+dtd_version: "2.0"
+original_entry_into_force: "2012-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030657/2012-01-01/0"
+intitule_bron: "Stcrt.2011-20716"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-11-09"
+intitule_published: "2011-11-17"
+intitule_in_force: "2011-11-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-20716"
+original_signed_date: "2011-11-09"
+original_published_date: "2011-11-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-20716"
+entry_into_force_date: "2012-01-01"
+jci_1_3: "jci1.3:c:BWBR0030657&z=2012-01-01&g=2012-01-01"
+jci_1_0: "1.0:c:BWBR0030657&g=2012-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "2011-11-09"
+entry_into_force: "2012-01-01"
 ---
-
 # Regeling tarieven CBR 2012
 
 Overwegende dat door de Minister van Verkeer en Waterstaat op grond van de [regeling van 14 mei 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0008042), Staatscourant 101, goedkeuring is verleend aan de door het CBR te hanteren tarieven voor het jaar 2012;
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De tarieven van de CBR-examens op grond van de [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622) luiden als volgt:
 
@@ -83,7 +108,7 @@ De tarieven van de CBR-examens op grond van de [Wegenverkeerswet 1994](https://w
 
 Alle tarieven zijn inclusief 19% BTW.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling treedt in werking met ingang van 1 januari 2012.
 

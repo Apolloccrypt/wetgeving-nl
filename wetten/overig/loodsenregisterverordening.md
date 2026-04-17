@@ -1,13 +1,35 @@
 ---
 title: "Loodsenregisterverordening"
 identifier: "BWBR0034558"
-categorie: "Overig"
-publicatiedatum: 2014-01-01
-laatste_update: 2014-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034558"
+country: "nl"
+rank: "pbo"
+publication_date: "2014-01-01"
+last_updated: "2014-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034558"
+soort: "pbo"
+stam_id: "12524703"
+version_id: "21081022"
+internal_id: "C30263571"
+label_id: "12495454"
+dtd_version: "2.0"
+original_entry_into_force: "2014-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034558/2014-01-01/0"
+intitule_bron: "Stcrt.2013-36341"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2013-12-30"
+intitule_in_force: "2013-12-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-36341"
+original_published_date: "2013-12-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-36341"
+entry_into_force_date: "2014-01-01"
+jci_1_3: "jci1.3:c:BWBR0034558&z=2014-01-01&g=2014-01-01"
+jci_1_0: "1.0:c:BWBR0034558&g=2014-01-01"
+citeertitel_status: "officieel"
+entry_into_force: "2014-01-01"
 ---
-
 # Loodsenregisterverordening
 
 De ledenvergadering van de Nederlandse loodsencorporatie:
@@ -20,7 +42,7 @@ De Loodsenregisterverordening wordt als volgt vastgesteld:
 
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze verordening wordt verstaan onder:
 
@@ -32,7 +54,7 @@ In deze verordening wordt verstaan onder:
 
 ### Hoofdstuk II. De inschrijving in het register
 
-#### Artikel 2
+##### Artikel 2
 
 1. Binnen 13 weken na beëindiging van het bewijs tot deelname, bedoeld in [artikel 4 van de Deelnemings- en Inschrijvingsverordening](https://wetten.overheid.nl/jci1.3:c:BWBR0024643&artikel=4), als gevolg van het met goed gevolg afgelegd hebben van de examens, bedoeld in [artikel 9, eerste onder a, sub 1 van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=9), dient de aanvrager de aanvraag om ingeschreven te worden in het register in bij de algemene raad.
 
@@ -48,7 +70,7 @@ In deze verordening wordt verstaan onder:
 
 ### Hoofdstuk III. Frequentie-eisen en doorhaling
 
-#### Artikel 3
+##### Artikel 3
 
 1. Op het samenstel van de loodsplichtige scheepvaartwegen waarvoor een registerloods bevoegd is, moet hij in een periode van vierentwintig aaneengesloten maanden ten minste zeventig loods- of peilreizen maken.
 
@@ -60,7 +82,7 @@ In deze verordening wordt verstaan onder:
 
 - b. een schriftelijke verklaring van het bestuur van de regionale loodsencorporatie, waaruit blijkt dat de registerloods een loods- of peilreis heeft gemaakt, onder vermelding van de betreffende scheepvaartweg en de datum van die loods- of peilreis.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien de registerloods niet kan voldoen aan de in [artikel 3, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034558&hoofdstuk=III&artikel=3&z=2014-01-01&g=2014-01-01), gestelde eisen, kunnen de registerloods en het bestuur van de betreffende regionale loodsencorporatie bij de algemene raad een verzoek tot opschorting van de doorhaling van de inschrijving in het register indienen.
 
@@ -72,7 +94,7 @@ In deze verordening wordt verstaan onder:
 
 5. De algemene raad zendt een afschrift van haar besluit als bedoeld in het tweede lid aan de betreffende registerloods en aan het bestuur van de betreffende regionale loodsencorporatie.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De algemene raad haalt de inschrijving van een registerloods ambtshalve door:
 
@@ -88,13 +110,13 @@ In deze verordening wordt verstaan onder:
 
 ### Hoofdstuk IV. Administratieve bepalingen
 
-#### Artikel 6
+##### Artikel 6
 
 1. De registerloods meldt een wijziging van zijn naam, voornamen of adres onverwijld aan de algemene raad.
 
 2. De in het eerste lid bedoelde melding is voorzien van een uittreksel uit de gemeentelijke basisadministratie of uit een gelijkwaardig buitenlands register.
 
-#### Artikel 7
+##### Artikel 7
 
 De algemene raad brengt ambtshalve een wijziging aan in het register, voor zover het de gegevens van de loodsplichtige scheepvaartwegen of de categorieën van schepen betreft, waarvoor de registerloods bevoegd is:
 
@@ -102,7 +124,7 @@ De algemene raad brengt ambtshalve een wijziging aan in het register, voor zover
 
 - b. indien het een wijziging betreft die voortvloeit uit de voorwaarden, verbonden aan het besluit, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034558&hoofdstuk=III&artikel=4&z=2014-01-01&g=2014-01-01).
 
-#### Artikel 8
+##### Artikel 8
 
 1. De algemene raad tekent in het register na ontvangst de inhoud aan van:
 
@@ -120,7 +142,7 @@ De algemene raad brengt ambtshalve een wijziging aan in het register, voor zover
 
 2. Het eerste lid, onderdeel f, blijft ten aanzien van de registerloods, voor wie het verzoek bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034558&hoofdstuk=III&artikel=4&z=2014-01-01&g=2014-01-01) is gehonoreerd, gedurende de daarvoor geldende termijn, buiten toepassing.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De algemene raad vermeldt in het register de datum van:
 
@@ -148,7 +170,7 @@ De algemene raad brengt ambtshalve een wijziging aan in het register, voor zover
 
 ### Hoofdstuk IV. Bekendmakingen
 
-#### Artikel 10
+##### Artikel 10
 
 1. De algemene raad verstrekt een inschrijvingsverklaring, als bedoeld in [artikel 22, derde lid van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=22) onverwijld na de inschrijving aan de betrokken registerloods en doet een bevestiging van de inschrijving toekomen aan het bestuur van de betreffende regionale loodsencorporatie.
 
@@ -156,7 +178,7 @@ De algemene raad brengt ambtshalve een wijziging aan in het register, voor zover
 
 3. De voormalige registerloods is verplicht, nadat zijn inschrijving is doorgehaald, de in het eerste lid bedoelde verklaring onverwijld bij de algemene raad in te leveren.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De gegevens, bedoeld in [artikel 21, vierde lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=21) en in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034558&hoofdstuk=IV&artikel=9&z=2014-01-01&g=2014-01-01), van deze verordening worden aan eenieder die daarom verzoekt verstrekt tegen het krachtens [artikel 21, derde lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=21) vastgestelde tarief, ter dekking van de daarmee verband houdende kosten.
 
@@ -164,10 +186,10 @@ De algemene raad brengt ambtshalve een wijziging aan in het register, voor zover
 
 ### Hoofdstuk V. Overige bepalingen
 
-#### Artikel 12
+##### Artikel 12
 
 Deze verordening treedt in werking met ingang van de dag dat de [onderdelen I en K van artikel IX van de Aanpassingswet zbo’s IenM aan de Kaderwet zbo’s](https://wetten.overheid.nl/jci1.3:c:BWBR0032046&artikel=IX) in werking treden.
 
-#### Artikel 13
+##### Artikel 13
 
 Deze verordening wordt aangehaald als: Loodsenregisterverordening.

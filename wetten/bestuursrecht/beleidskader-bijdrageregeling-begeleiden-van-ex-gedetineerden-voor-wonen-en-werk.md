@@ -1,13 +1,35 @@
 ---
 title: "Beleidskader bijdrageregeling begeleiden van ex-gedetineerden voor wonen en werken 2026, Dienst Justitiële Inrichtingen"
 identifier: "BWBR0051599"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-10-10
-laatste_update: 2025-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051599"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2025-10-10"
+last_updated: "2025-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051599"
+soort: "beleidsregel"
+stam_id: "17548733"
+version_id: "30966522"
+internal_id: "C44349801"
+label_id: "17450064"
+dtd_version: "2.0"
+original_entry_into_force: "2025-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051599/2025-10-10/0"
+intitule_bron: "Stcrt.2025-34321"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2025-10-10"
+intitule_in_force: "2025-10-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-34321"
+original_published_date: "2025-10-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-34321"
+entry_into_force_date: "2025-10-10"
+jci_1_3: "jci1.3:c:BWBR0051599&z=2025-10-10&g=2025-10-10"
+jci_1_0: "1.0:c:BWBR0051599&g=2025-10-10"
+citeertitel_status: "redactioneel"
+entry_into_force: "2025-10-10"
 ---
-
 # Beleidskader bijdrageregeling begeleiden van ex-gedetineerden voor wonen en werken 2026, Dienst Justitiële Inrichtingen
 
 ### 1. Inleiding

@@ -1,13 +1,39 @@
 ---
-title: "Wijzigingsbesluit Besluit beroepsvereisten advocatuur, enz. (aanpassing aan Wet afschaffing procuraat en invoering elektronisch berichtenverkeer)"
+title: "Besluit van 3 juli 2008 tot aanpassing van enige besluiten aan de Wet afschaffing procuraat en invoering elektronisch berichtenverkeer"
 identifier: "BWBR0024154"
-categorie: "Verkeer"
-publicatiedatum: 2008-09-01
-laatste_update: 2008-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024154"
+country: "nl"
+rank: "amvb"
+publication_date: "2008-09-01"
+last_updated: "2008-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024154"
+soort: "AMvB"
+stam_id: "9644783"
+version_id: "15557602"
+internal_id: "C21228351"
+label_id: "9621914"
+dtd_version: "2.0"
+original_entry_into_force: "2008-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024154/2008-09-01/0"
+intitule_bron: "Stb.2008-276"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-07-03"
+intitule_published: "2008-07-15"
+intitule_in_force: "2008-07-15"
+intitule_status: "goed"
+original_publication: "Stb.2008-276"
+original_signed_date: "2008-07-03"
+original_published_date: "2008-07-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2008-276"
+entry_into_force_date: "2008-09-01"
+jci_1_3: "jci1.3:c:BWBR0024154&z=2008-09-01&g=2008-09-01"
+jci_1_0: "1.0:c:BWBR0024154&g=2008-09-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsbesluit Besluit beroepsvereisten advocatuur, enz. (aanpassing aan Wet afschaffing procuraat en invoering elektronisch berichtenverkeer)"
+signed_date: "2008-07-03"
+entry_into_force: "2008-09-01"
 ---
-
 # Besluit van 3 juli 2008 tot aanpassing van enige besluiten aan de Wet afschaffing procuraat en invoering elektronisch berichtenverkeer
 
 Op de voordracht van de Staatssecretaris van Justitie van 2 oktober 2007, Directie Wetgeving nr. 5507535/07/6;
@@ -20,55 +46,55 @@ Gezien het nader rapport van de Staatssecretaris van Justitie van 27 juni 2008, 
 
 Hebben goed gevonden en verstaan;
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Besluit beroepsvereisten advocatuur.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Besluit bijzondere akten van de burgerlijke stand.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Besluit gegevens scheepvaart 2007.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het Besluit ex artikelen 818 en 820 Wetboek van Burgerlijke Rechtsvordering.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Besluit Huwelijksgoederenregister 1969.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt het Besluit orde van dienst gerechten.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt het Besluit regels vergoeding advocaat voor rechtsbijstand ex artikel 817 Wetboek van Burgerlijke Rechtsvordering.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt het Besluit vergoedingen rechtsbijstand 2000.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt het Kostuum- en titulatuurbesluit rechterlijke organisatie.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt het Reglement voor de Kamer voor de Binnenvisserij 1964.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt het Tuchtrechtbesluit BIG.
 
-#### Artikel XII
+##### Artikel XII
 
 Ten aanzien van de vergoedingen voor handelingen verricht door procureurs voor inwerkingtreding van dit besluit blijft het recht zoals dit gold voor inwerkingtreding van dit besluit van toepassing.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Dit besluit treedt in werking op het tijdstip waarop de [Wet afschaffing procuraat en invoering elektronisch berichtenverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0023725) in werking treedt.
 

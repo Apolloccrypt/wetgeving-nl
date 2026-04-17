@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel macrobeheersinstrument geneeskundige geestelijke gezondheidszorg vanaf 2023"
+title: "Beleidsregel Macrobeheersinstrument geneeskundige geestelijke gezondheidszorg vanaf 2023 – BR/REG-23151, Nederlandse Zorgautoriteit"
 identifier: "BWBR0047982"
-categorie: "Sociaal recht"
-publicatiedatum: 2023-03-22
-laatste_update: 2023-03-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047982"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-03-22"
+last_updated: "2023-03-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047982"
+soort: "zbo"
+stam_id: "16698963"
+version_id: "29292072"
+internal_id: "C41722631"
+label_id: "16616264"
+dtd_version: "2.0"
+original_entry_into_force: "2023-03-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047982/2023-03-22/0"
+intitule_bron: "Stcrt.2023-8453"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-03-07"
+intitule_published: "2023-03-21"
+intitule_in_force: "2023-03-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-8453"
+original_signed_date: "2023-03-07"
+original_published_date: "2023-03-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-8453"
+entry_into_force_date: "2023-03-22"
+jci_1_3: "jci1.3:c:BWBR0047982&z=2023-03-22&g=2023-03-22"
+jci_1_0: "1.0:c:BWBR0047982&g=2023-03-22"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel macrobeheersinstrument geneeskundige geestelijke gezondheidszorg vanaf 2023"
+signed_date: "2023-03-07"
+entry_into_force: "2023-03-22"
 ---
-
 # Beleidsregel Macrobeheersinstrument geneeskundige geestelijke gezondheidszorg vanaf 2023 – BR/REG-23151, Nederlandse Zorgautoriteit
 
 Ingevolge [artikel 57, eerste lid, aanhef en onder d van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot het uitoefenen van de bevoegdheid om een grens vast te stellen op grond van [artikel 50, tweede lid, Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50).
@@ -16,15 +42,15 @@ Ingevolge [artikel 52, aanhef en onder f, Wmg](https://wetten.overheid.nl/jci1.3
 
 Ingevolge [artikel 59 aanhef en onder c, Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=59) heeft de Minister van Volksgezondheid, Welzijn en Sport met brieven van 28 november 2013 (kenmerk 169317-113129-MC) en 8 juli 2014 (kenmerk 377960-121393-MC) ten behoeve van de voorliggende beleidsregel aan de NZa een aanwijzing op grond van [artikel 7 Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7) gegeven.
 
-#### 1. Reikwijdte
+##### 1. Reikwijdte
 
 Deze beleidsregel is van toepassing op geneeskundige geestelijke gezondheidszorg (ggz) als omschreven bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450).
 
-#### 2. Doel van de beleidsregel
+##### 2. Doel van de beleidsregel
 
 Doel van deze beleidsregel is vastlegging van de wijze waarop de NZa ontstane overschrijdingen van het budgettair kader zorg (bkz) betrekking hebbend op de geneeskundige geestelijke gezondheidszorg met behulp van een macrobeheersinstrument (mbi) achteraf redresseert.
 
-#### 3. Begripsbepalingen
+##### 3. Begripsbepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -58,7 +84,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - iv. Overige prestaties waarvan de uitvoeringdatum valt in jaar t en die uiterlijk 1 juli jaar t+2 zijn gehonoreerd, inclusief de correcties volgend uit de materiële controles tot 1 juli jaar t+2.
 
-#### 4. Grenzen
+##### 4. Grenzen
 
 1. De NZa stelt (zo mogelijk) voorafgaand aan het kalenderjaar t ambtshalve in een beschikking als bedoeld in [artikel 50, tweede lid, onder c, Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50), een bovengrens vast. De som van de door afzonderlijke zorgaanbieders gezamenlijk in jaar t te realiseren omzet mag deze bovengrens niet overschrijden.
 
@@ -66,7 +92,7 @@ In deze beleidsregel wordt verstaan onder:
 
 3. De NZa maakt de hiervoor genoemde beschikkingen bekend door publicatie op haar website, toezending aan branche- en koepelorganisaties en door mededeling van de vaststelling ervan in de Staatscourant.
 
-#### 5. Macrobeheersinstrument
+##### 5. Macrobeheersinstrument
 
 1. Indien sprake blijkt (te zijn geweest) van een overschrijding van de bovengrens als bedoeld in [artikel 4 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047982&artikel=4&z=2023-03-22&g=2023-03-22), maakt de NZa die overschrijding op last van de minister ongedaan met gebruikmaking van het macrobeheersinstrument (mbi).
 
@@ -90,7 +116,7 @@ Ook deze beschikking maakt de NZa bekend door publicatie op haar website, toezen
 
 9. De NZa legt in de regeling ‘Macrobeheersinstrument geneeskundige geestelijke gezondheidszorg vanaf 2023’ vast op welke wijze en op welk moment zorgverzekeraars haar over de gerealiseerde omzet van de zorgaanbieders dienen te informeren.
 
-#### Artikel 6. Slotbepalingen
+##### Artikel 6. Slotbepalingen
 
 6.1. **Intrekken oude beleidsregel(s)**
 

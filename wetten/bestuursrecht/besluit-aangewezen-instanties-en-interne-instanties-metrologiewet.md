@@ -1,13 +1,39 @@
 ---
-title: "Besluit aangewezen instanties en interne instanties Metrologiewet"
+title: "Besluit van 7 december 2015, houdende regels omtrent aangewezen instanties en interne instanties Metrologiewet (Besluit aangewezen instanties en interne instanties Metrologiewet)"
 identifier: "BWBR0037326"
-categorie: "Bestuursrecht"
-publicatiedatum: 2016-04-20
-laatste_update: 2016-04-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037326"
+country: "nl"
+rank: "amvb"
+publication_date: "2016-04-20"
+last_updated: "2016-04-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037326"
+soort: "AMvB"
+stam_id: "13337793"
+version_id: "22859402"
+internal_id: "C33050541"
+label_id: "13305724"
+dtd_version: "2.0"
+original_entry_into_force: "2016-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037326/2016-04-20/0"
+intitule_bron: "Stb.2015-493"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-12-07"
+intitule_published: "2015-12-15"
+intitule_in_force: "2015-12-15"
+intitule_status: "goed"
+original_publication: "Stb.2015-493"
+original_signed_date: "2015-12-07"
+original_published_date: "2015-12-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2015-493"
+entry_into_force_date: "2016-01-01"
+jci_1_3: "jci1.3:c:BWBR0037326&z=2016-04-20&g=2016-04-20"
+jci_1_0: "1.0:c:BWBR0037326&g=2016-04-20"
+citeertitel_status: "officieel"
+short_title: "Besluit aangewezen instanties en interne instanties Metrologiewet"
+signed_date: "2015-12-07"
+entry_into_force: "2016-01-01"
 ---
-
 # Besluit van 7 december 2015, houdende regels omtrent aangewezen instanties en interne instanties Metrologiewet (Besluit aangewezen instanties en interne instanties Metrologiewet)
 
 Op de voordracht van Onze Minister van Economische Zaken van 14 september 2015, nr. WJZ/15122979;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 #### Paragraaf 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -30,11 +56,11 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 2. Criteria aangewezen instantie
 
-#### Artikel 2
+##### Artikel 2
 
 Een aangewezen instantie is naar nationaal recht van een lidstaat opgericht, heeft rechtspersoonlijkheid en is gevestigd in Nederland. Daarnaast is de instantie onafhankelijk van de organisaties of meetinstrumenten, die ze beoordeelt.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een aangewezen instantie, haar directeur of bestuur en het bij de conformiteitsbeoordeling betrokken personeel van de instantie zijn niet de ontwerper, fabrikant, leverancier, installateur, koper, eigenaar, onderhouder of gebruiker van de meetinstrumenten die zij controleren of de vertegenwoordiger van deze personen.
 
@@ -44,7 +70,7 @@ Een aangewezen instantie is naar nationaal recht van een lidstaat opgericht, hee
 
 4. De beloning van de directeur of het bestuur en het bij de conformiteitsbeoordeling betrokken personeel van een aangewezen instantie mag niet afhangen van het aantal uitgevoerde conformiteitsbeoordelingen of van de resultaten daarvan.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een aangewezen instantie is in staat de taken te vervullen in het kader van de procedure van conformiteitsbeoordeling waarvoor zij is aangemeld, ongeacht of deze taken door de aangewezen instantie zelf dan wel namens haar en onder haar verantwoordelijkheid worden verricht.
 
@@ -60,7 +86,7 @@ Een aangewezen instantie is naar nationaal recht van een lidstaat opgericht, hee
 
 7. Een aangewezen instantie neemt deel aan of zorgt er voor dat haar personeel op de hoogte is van de desbetreffende normalisatieactiviteiten en andere activiteiten van de coördinatiegroep van aangemelde instanties die is opgericht uit hoofde van desbetreffende harmonisatiewetgeving van de Europese Unie en hanteert diens besluiten en documenten als algemene richtsnoeren.
 
-#### Artikel 5
+##### Artikel 5
 
 Het voor de uitvoering van de toetsende taak in het kader van de conformiteitsbeoordeling verantwoordelijke personeel van een aangewezen instantie beschikt over:
 
@@ -72,17 +98,17 @@ Het voor de uitvoering van de toetsende taak in het kader van de conformiteitsbe
 
 - d. de bekwaamheid om certificaten, dossiers en rapporten op te stellen die aantonen dat de beoordelingen zijn verricht.
 
-#### Artikel 6
+##### Artikel 6
 
 Een aangewezen instantie beschikt over een passende verzekering tegen wettelijke aansprakelijkheid.
 
-#### Artikel 7
+##### Artikel 7
 
 Een aangewezen instantie beschikt over een accreditatie waarmee wordt aangetoond dat de aangewezen instantie voldoet aan de criteria uit de relevante geharmoniseerde normen waarvan de referentienummers in het Publicatieblad van de Europese Unie zijn bekend gemaakt en die de eisen van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037326&paragraaf=2&artikel=2&z=2016-04-20&g=2016-04-20), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037326&paragraaf=2&artikel=3&z=2016-04-20&g=2016-04-20), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0037326&paragraaf=2&artikel=4&z=2016-04-20&g=2016-04-20), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037326&paragraaf=2&artikel=5&z=2016-04-20&g=2016-04-20) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0037326&paragraaf=2&artikel=6&z=2016-04-20&g=2016-04-20) omvatten.
 
 #### Paragraaf 3. Uitbesteding of uitvoering door dochteronderneming
 
-#### Artikel 8
+##### Artikel 8
 
 1. Voordat een aangewezen instantie bepaalde taken uitbesteedt aan een onderaannemer of door een dochteronderneming laat uitvoeren, waarborgt zij dat deze onderaannemer of dochteronderneming aan de eisen van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037326&paragraaf=2&artikel=2&z=2016-04-20&g=2016-04-20), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037326&paragraaf=2&artikel=3&z=2016-04-20&g=2016-04-20), [4, tweede tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037326&paragraaf=2&artikel=4&z=2016-04-20&g=2016-04-20), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037326&paragraaf=2&artikel=5&z=2016-04-20&g=2016-04-20) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0037326&paragraaf=2&artikel=6&z=2016-04-20&g=2016-04-20) voldoet.
 
@@ -96,7 +122,7 @@ Een aangewezen instantie beschikt over een accreditatie waarmee wordt aangetoond
 
 6. Een aangewezen instantie zorgt ervoor dat de activiteiten van de onderaannemer of dochteronderneming geen afbreuk doen aan de vertrouwelijkheid, objectiviteit of onpartijdigheid van alle activiteiten waarop de aanwijzing betrekking heeft.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Een aangewezen instantie verricht conformiteitsbeoordelingstaken overeenkomstig de voor een meetinstrument voorgeschreven conformiteitsbeoordelingprocedures.
 
@@ -106,7 +132,7 @@ Een aangewezen instantie beschikt over een accreditatie waarmee wordt aangetoond
 
 #### Paragraaf 4. Interne instanties
 
-#### Artikel 10
+##### Artikel 10
 
 1. Een interne instantie:
 
@@ -120,21 +146,21 @@ Een aangewezen instantie beschikt over een accreditatie waarmee wordt aangetoond
 
 2. De ondernemer die gebruik maakt van een interne instantie en de Raad voor Accreditatie zorgen ervoor dat informatie over de accreditatie aan Onze Minister wordt verstrekt, indien deze hierom verzoekt.
 
-#### Artikel 11
+##### Artikel 11
 
 Het [Besluit aangewezen instanties Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019898) wordt ingetrokken.
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
-#### Artikel 13
+##### Artikel 13
 
 1. Dit besluit treedt in werking met ingang van 1 januari 2016, met uitzondering van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0037326&paragraaf=4&artikel=10&z=2016-04-20&g=2016-04-20) dat in werking treedt met ingang van 20 april 2016.
 
 2. [Artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0037326&paragraaf=4&artikel=12&z=2016-04-20&g=2016-04-20) vervalt met ingang van 20 april 2016.
 
-#### Artikel 14
+##### Artikel 14
 
 Dit besluit wordt aangehaald als: Besluit aangewezen instanties en interne instanties Metrologiewet.
 

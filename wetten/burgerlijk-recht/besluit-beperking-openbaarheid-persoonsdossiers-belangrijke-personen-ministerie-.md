@@ -1,13 +1,39 @@
 ---
-title: "Besluit beperking openbaarheid persoonsdossiers belangrijke personen Ministerie van Financiën, 1856–1985"
+title: "Besluit van de Minister van Financiën van 14 februari 2008, nr. BenC 2007-1191 M, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen persoonsdossiers belangrijke personen van het Ministerie van Financiën over de periode 1856–1985"
 identifier: "BWBR0023736"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2008-04-10
-laatste_update: 2008-04-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0023736"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2008-04-10"
+last_updated: "2008-04-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023736"
+soort: "ministeriele-regeling"
+stam_id: "9471363"
+version_id: "15257902"
+internal_id: "C20789401"
+label_id: "9448814"
+dtd_version: "2.0"
+original_entry_into_force: "2008-04-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023736/2008-04-10/0"
+intitule_bron: "Stcrt.2008-68"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-02-14"
+intitule_published: "2008-04-08"
+intitule_in_force: "2008-04-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-68"
+original_signed_date: "2008-02-14"
+original_published_date: "2008-04-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-68-p11-SC85198"
+entry_into_force_date: "2008-04-10"
+jci_1_3: "jci1.3:c:BWBR0023736&z=2008-04-10&g=2008-04-10"
+jci_1_0: "1.0:c:BWBR0023736&g=2008-04-10"
+citeertitel_status: "redactioneel"
+short_title: "Besluit beperking openbaarheid persoonsdossiers belangrijke personen Ministerie van Financiën, 1856–1985"
+signed_date: "2008-02-14"
+entry_into_force: "2008-04-10"
 ---
-
 # Besluit van de Minister van Financiën van 14 februari 2008, nr. BenC 2007-1191 M, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen persoonsdossiers belangrijke personen van het Ministerie van Financiën over de periode 1856–1985
 
 Gelet op [artikel 15, eerste lid, onder a en c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15);
@@ -16,15 +42,15 @@ Gezien het advies van de beheerder van de archiefbewaarplaats d.d. 1 juni 2007;
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Met het oog op de eerbiediging van de persoonlijke levenssfeer, alsmede op het anderszins voorkomen van onevenredige bevoordeling of benadeling van betrokken natuurlijke personen of rechtspersonen danwel van derden, worden aan de openbaarheid van de naar het Nationaal Archief over te brengen persoonsdossiers van belangrijke personen van het Ministerie van Financiën over de periode 1856–1985 met de inventarisnummers zoals opgenomen in de Bijlage, de in het [volgende artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0023736&artikel=2&z=2008-04-10&g=2008-04-10) genoemde beperkingen gesteld voor een termijn van maximaal honderd jaren gerekend vanaf de geboortedatum.
 
-#### Artikel 2
+##### Artikel 2
 
 Raadpleging van de in het [vorige artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0023736&artikel=1&z=2008-04-10&g=2008-04-10) genoemde bescheiden is mogelijk nadat de directeur van het Nationaal Archief daarmee heeft ingestemd. Voor het doen van het verzoek tot instemming wordt gebruikt gemaakt van het door het Nationaal Archief voorgeschreven formulier voor toestemming tot raadpleging van niet-openbare archieven.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt gepubliceerd.
 

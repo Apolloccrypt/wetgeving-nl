@@ -1,13 +1,39 @@
 ---
-title: "Boetebeleidsregel ACM 2014"
+title: "Beleidsregel van de Minister van Economische Zaken van 4 juli 2014, nr. WJZ/14112617, met betrekking tot het opleggen van bestuurlijke boetes door de Autoriteit Consument en Markt (Boetebeleidsregel ACM 2014)"
 identifier: "BWBR0035322"
-categorie: "Strafrecht"
-publicatiedatum: 2023-11-09
-laatste_update: 2023-11-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035322"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2023-11-09"
+last_updated: "2023-11-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035322"
+soort: "beleidsregel"
+stam_id: "12724903"
+version_id: "23410962"
+internal_id: "C33736061"
+label_id: "12695064"
+dtd_version: "2.0"
+original_entry_into_force: "2016-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035322/2023-11-09/0"
+intitule_bron: "Stcrt.2014-19776"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-07-04"
+intitule_published: "2014-07-15"
+intitule_in_force: "2014-07-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-34630"
+original_signed_date: "2016-06-28"
+original_published_date: "2016-06-30"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2016-34630"
+entry_into_force_date: "2016-07-01"
+jci_1_3: "jci1.3:c:BWBR0035322&z=2023-11-09&g=2023-11-09"
+jci_1_0: "1.0:c:BWBR0035322&g=2023-11-09"
+citeertitel_status: "officieel"
+short_title: "Boetebeleidsregel ACM 2014"
+signed_date: "2016-06-28"
+entry_into_force: "2016-07-01"
 ---
-
 # Beleidsregel van de Minister van Economische Zaken van 4 juli 2014, nr. WJZ/14112617, met betrekking tot het opleggen van bestuurlijke boetes door de Autoriteit Consument en Markt (Boetebeleidsregel ACM 2014)
 
 Gelet op [artikel 21 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=21), [artikel 4.21, eerste lid, van de Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=4.21), [artikel 3.8, eerste lid, van de Aanbestedingswet op defensie- en veiligheidsgebied](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&artikel=3.8), [artikel 77i van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=77i), [artikel 60ad van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=60ad), de [artikelen 12l, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=12l), en [12m, eerste en tweede lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=12m), de [artikelen 57](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=57), [70a, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=70a), [71](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=71), [73](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=73), [74, aanhef en onderdelen 1˚ tot en met 5˚, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=74), en [75, aanhef en onderdeel a, van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=75), [artikel 49, eerste en tweede lid, van de Postwet 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=49), [artikel 15.4, eerste tot en met derde lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=15.4), [artikel 18, zesde lid, van de Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=18), [artikel 2.9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&artikel=2.9) jo. [artikel 2.15 van de Wet handhaving consumentenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&artikel=2.15), [artikel 22 van de Wet implementatie EU-richtlijnen energie-efficiëntie](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&artikel=22) en [artikel IXC, vierde lid, aanhef en onderdeel a, en vijfde lid, aanhef en onderdeel a, van de Wet van 23 november 2006 tot wijziging van de Elektriciteitswet 1998 en van de Gaswet in verband met nadere regels omtrent een onafhankelijk netbeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=IXc) (Stb. 2006, 614);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1
+##### Artikel 1.1
 
 1. In deze beleidsregel wordt verstaan onder:
 
@@ -36,7 +62,7 @@ Besluit:
 
 2. Indien een overtreding korter dan een jaar heeft geduurd, wordt voor het bepalen van de betrokken omzet de totale periode dat de overtreding heeft geduurd in ogenschouw genomen.
 
-#### Artikel 1.2
+##### Artikel 1.2
 
 1. De betrokken omzet wordt afgerond op een veelvoud van € 1.000.
 
@@ -46,13 +72,13 @@ Besluit:
 
 #### § 2.1. Algemeen
 
-#### Artikel 2.1
+##### Artikel 2.1
 
 1. Indien de ACM constateert dat een overtreder meerdere overtredingen heeft begaan, kan zij, in plaats van elke overtreding afzonderlijk te beboeten, een bestuurlijke boete opleggen voor deze overtredingen gezamenlijk.
 
 2. In afwijking van het eerste lid legt de ACM voor gedragingen die zowel een overtreding vormen van de [artikelen 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=6) of [24, eerste lid, van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=24) als van de artikelen 101 of 102 van het VWEU, in beginsel één bestuurlijke boete op.
 
-#### Artikel 2.2
+##### Artikel 2.2
 
 De hoogte van de basisboete wordt, voor zover van toepassing, in ieder geval afgestemd op:
 
@@ -64,7 +90,7 @@ De hoogte van de basisboete wordt, voor zover van toepassing, in ieder geval afg
 
 #### § 2.2. Specifieke overtredingen met als basisboete een percentage van de betrokken omzet
 
-#### Artikel 2.3
+##### Artikel 2.3
 
 1. In geval van overtreding van de [artikelen 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=6) of [24, eerste lid, van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=24), 101 of 102 van het VWEU en in gevallen waarin de ACM op basis van [artikel 49, eerste en tweede lid van de Postwet 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=49) en [artikel 15.4, tweede lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=15.4) een bestuurlijke boete kan opleggen, stelt de ACM de basisboete vast op basis van de betrokken omzet.
 
@@ -78,13 +104,13 @@ De hoogte van de basisboete wordt, voor zover van toepassing, in ieder geval afg
 
 6. In het kader van specifieke preventie kan de ACM de in aanmerking te nemen betrokken omzet verhogen met het oog op het gewicht van de overtreder, uitgedrukt in de totale jaaromzet van deze overtreder in het boekjaar voorafgaande aan de boetebeschikking.
 
-#### Artikel 2.4
+##### Artikel 2.4
 
 De ACM stelt een basisboete vast tussen 0 tot 50% van de betrokken omzet van de overtreder.
 
 #### § 2.3. Overige overtredingen met als basisboete een promillage van de totale jaaromzet
 
-#### Artikel 2.5
+##### Artikel 2.5
 
 1. Indien [artikel 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035322&hoofdstuk=2&paragraaf=2.2&artikel=2.3&z=2023-11-09&g=2023-11-09), niet van toepassing is, stelt de ACM de basisboete, in het geval dat aan een overtreder blijkens een wettelijke bepaling een maximale boete van € 900.000 dan wel, indien dat meer is, een promillage van de totale jaaromzet kan worden opgelegd, vast binnen de bandbreedtes van de volgende boete categorieën:
 
@@ -110,7 +136,7 @@ De ACM stelt een basisboete vast tussen 0 tot 50% van de betrokken omzet van de 
 
 - c. de jaaromzet boven de € 1.000.000.000 telt voor 2% mee.
 
-#### Artikel 2.6
+##### Artikel 2.6
 
 1. Bij de toepassing van [artikel 2.5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035322&hoofdstuk=2&paragraaf=2.3&artikel=2.5&z=2023-11-09&g=2023-11-09), gaat de ACM uit van de in Nederland behaalde omzet.
 
@@ -128,7 +154,7 @@ De ACM stelt een basisboete vast tussen 0 tot 50% van de betrokken omzet van de 
 
 #### § 2.4. Het opleggen van bestuurlijke boetes aan natuurlijke personen
 
-#### Artikel 2.7
+##### Artikel 2.7
 
 1. Indien de ACM een bestuurlijke boete oplegt aan een natuurlijke persoon vanwege het geven van opdracht tot een overtreding of het feitelijk leiding geven aan een overtreding, kan de ACM bij de vaststelling van boeteverhogende en boeteverlagende omstandigheden als bedoeld in de [artikelen 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0035322&hoofdstuk=2&paragraaf=2.5&artikel=2.9&z=2023-11-09&g=2023-11-09) en [2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035322&hoofdstuk=2&paragraaf=2.5&artikel=2.10&z=2023-11-09&g=2023-11-09), rekening houden met de mate van betrokkenheid van de natuurlijke persoon bij het plegen van de overtreding en de positie van de natuurlijke persoon binnen de marktorganisatie waarvoor hij of zij werkzaam is, dan wel werkzaam was, en stelt de ACM een boetegrondslag vast die ten minste gerelateerd is aan de ernst van de overtreding en het inkomen en vermogen van de overtreder, teneinde tot een bestuurlijke boete te komen die uit het oogpunt van zowel algemene als specifieke preventie voldoende afschrikwekkend is.
 
@@ -178,13 +204,13 @@ De ACM stelt een basisboete vast tussen 0 tot 50% van de betrokken omzet van de 
 
 #### § 2.5. Boeteverhogende en boeteverlagende omstandigheden
 
-#### Artikel 2.8
+##### Artikel 2.8
 
 1. Bij de vaststelling van de bestuurlijke boete beziet de ACM of sprake is van boeteverhogende of boeteverlagende omstandigheden.
 
 2. De ACM bepaalt in redelijkheid de mate waarin de betrokken omstandigheid leidt tot een verhoging of verlaging van de basisboete.
 
-#### Artikel 2.9
+##### Artikel 2.9
 
 1. Boeteverhogende omstandigheden zijn in ieder geval:
 
@@ -198,7 +224,7 @@ De ACM stelt een basisboete vast tussen 0 tot 50% van de betrokken omzet van de 
 
 2. In geval van recidive als bedoeld in het eerste lid, onderdeel a, verhoogt de ACM de basisboete met 100%, tenzij dit gezien de omstandigheden van het concrete geval onredelijk zou zijn.
 
-#### Artikel 2.10
+##### Artikel 2.10
 
 Boeteverlagende omstandigheden zijn in ieder geval:
 
@@ -206,25 +232,25 @@ Boeteverlagende omstandigheden zijn in ieder geval:
 
 - b. de omstandigheid dat de overtreder uit eigen beweging degenen aan wie door de overtreding schade is berokkend, schadeloos heeft gesteld.
 
-#### Artikel 2.11
+##### Artikel 2.11
 
 Indien de ACM een bestuurlijke boete oplegt aan een natuurlijke persoon vanwege het geven van opdracht tot een overtreding of het feitelijk leiding geven aan een overtreding, kan de ACM bij de vaststelling van boeteverhogende en boeteverlagende omstandigheden als bedoeld in de [artikelen 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0035322&hoofdstuk=2&paragraaf=2.5&artikel=2.9&z=2023-11-09&g=2023-11-09) en [2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035322&hoofdstuk=2&paragraaf=2.5&artikel=2.10&z=2023-11-09&g=2023-11-09), rekening houden met de mate van betrokkenheid van de natuurlijke persoon bij het plegen van de overtreding en de positie van de natuurlijke persoon binnen de marktorganisatie waarvoor hij of zij werkzaam is, dan wel werkzaam was.
 
 #### § 2.6. De vaststelling van de bestuurlijke boete in uitzonderlijke omstandigheden
 
-#### Artikel 2.12
+##### Artikel 2.12
 
 In afwijking van de voorgaande artikelen kan de ACM, indien de uitzonderlijke omstandigheden van het geval naar haar oordeel hiertoe aanleiding geven, een symbolische bestuurlijke boete opleggen.
 
 ### Hoofdstuk 3. Aanbesteden
 
-#### Artikel 3.1
+##### Artikel 3.1
 
 1. Dit hoofdstuk is van toepassing op overtredingen waarvoor de ACM op grond van [artikel 4.21, eerste lid, van de Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=4.21) of [artikel 3.8, eerste lid, van de Aanbestedingswet op defensie- en veiligheidsgebied](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&artikel=3.8) een bestuurlijke boete kan opleggen.
 
 2. [Hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035322&hoofdstuk=2&z=2023-11-09&g=2023-11-09) is niet van toepassing op de in het eerste lid bedoelde overtredingen.
 
-#### Artikel 3.2
+##### Artikel 3.2
 
 1. In dit hoofdstuk wordt verstaan onder:
 
@@ -232,7 +258,7 @@ In afwijking van de voorgaande artikelen kan de ACM, indien de uitzonderlijke om
 
 - **overeenkomst:** een overeenkomst waarop [artikel 4.15, eerste lid, van de Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=4.15) of [artikel 3.1, eerste lid, van de Aanbestedingswet op defensie- en veiligheidsgebied](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&artikel=3.1) van toepassing is.
 
-#### Artikel 3.3
+##### Artikel 3.3
 
 1. De hoogte van een bestuurlijke boete bedraagt de waarde van het deel van de overeenkomst dat niet vernietigd is vermenigvuldigd met het boetepercentage.
 
@@ -244,7 +270,7 @@ In afwijking van de voorgaande artikelen kan de ACM, indien de uitzonderlijke om
 
 3. Indien de waarde van de overeenkomst hoger is dan de eerder door de aanbestedende dienst of het speciale-sectorbedrijf geraamde waarde van de opdracht wordt bij de toepassing van het eerste lid uitgegaan van die geraamde waarde voor het deel van de opdracht waaraan door de vernietiging van de overeenkomst de werking niet is ontzegd.
 
-#### Artikel 3.4
+##### Artikel 3.4
 
 1. De waarde van de overeenkomst wordt vastgesteld op grond van de volgende criteria:
 
@@ -262,7 +288,7 @@ In afwijking van de voorgaande artikelen kan de ACM, indien de uitzonderlijke om
 
 2. De waarde van het deel van de overeenkomst dat niet is vernietigd wordt vastgesteld op de wijze beschreven in het eerste lid.
 
-#### Artikel 3.5
+##### Artikel 3.5
 
 1. Indien de aanbestedende dienst of het speciale-sectorbedrijf ten onrechte geen voorafgaande aankondiging van de opdracht heeft bekendgemaakt, bedraagt het boetepercentage 15%.
 
@@ -272,7 +298,7 @@ In afwijking van de voorgaande artikelen kan de ACM, indien de uitzonderlijke om
 
 4. Indien een gedeeltelijke vernietiging van een overeenkomst is gebaseerd op [artikel 4.15, eerste lid, onderdeel c, van de Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=4.15) of [artikel 3.2, eerste lid, onderdeel c, van de Aanbestedingswet op defensie- en veiligheidsgebied](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&artikel=3.2), zijn voor de vaststelling van het boetepercentage het eerste en tweede lid van overeenkomstige toepassing.
 
-#### Artikel 3.6
+##### Artikel 3.6
 
 1. Indien de aanbestedende dienst of het speciale-sectorbedrijf de overeenkomst heeft gesloten tijdens de opschortende termijn bedraagt het boetepercentage 10%.
 
@@ -284,19 +310,19 @@ In afwijking van de voorgaande artikelen kan de ACM, indien de uitzonderlijke om
 
 ### Hoofdstuk 4. Overgangs- en slotbepalingen
 
-#### Artikel 4.1
+##### Artikel 4.1
 
 Op overtredingen waarvan een rapport is opgemaakt voorafgaand aan het tijdstip van inwerkingtreding van deze beleidsregel wordt beslist met toepassing van de Beleidsregels van de Minister van Economische Zaken voor het opleggen van bestuurlijke boetes door de ACM zoals deze golden onmiddellijk voorafgaand aan dat tijdstip.
 
-#### Artikel 4.2
+##### Artikel 4.2
 
 De [Beleidsregels van de Minister van Economische Zaken voor het opleggen van bestuurlijke boetes door de ACM](https://wetten.overheid.nl/jci1.3:c:BWBR0033327) worden ingetrokken.
 
-#### Artikel 4.3
+##### Artikel 4.3
 
 Deze beleidsregel treedt in werking met ingang van 1 augustus 2014.
 
-#### Artikel 4.4
+##### Artikel 4.4
 
 Deze beleidsregel wordt aangehaald als: Boetebeleidsregel ACM 2014.
 

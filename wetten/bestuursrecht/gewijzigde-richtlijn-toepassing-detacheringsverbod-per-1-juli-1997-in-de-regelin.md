@@ -1,13 +1,37 @@
 ---
 title: "Gewijzigde Richtlijn toepassing detacheringsverbod per 1 juli 1997 in de Regeling extra werkgelegenheid voor langdurigwerklozen"
 identifier: "BWBR0009054"
-categorie: "Bestuursrecht"
-publicatiedatum: 1997-12-19
-laatste_update: 1997-12-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009054"
+country: "nl"
+rank: "circulaire"
+publication_date: "1997-12-19"
+last_updated: "1997-12-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009054"
+soort: "circulaire"
+stam_id: "6418073"
+version_id: "11085172"
+internal_id: "C14998101"
+label_id: "6406894"
+original_entry_into_force: "1997-12-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009054/1997-12-19/0"
+intitule_bron: "Stcrt.1997-245"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-11-27"
+intitule_published: "1997-12-19"
+intitule_in_force: "1997-12-19"
+intitule_status: "goed"
+original_publication: "Stcrt.1997-245"
+original_signed_date: "1997-11-27"
+original_published_date: "1997-12-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1997-245-p35-SC11826"
+entry_into_force_date: "1997-12-19"
+jci_1_3: "jci1.3:c:BWBR0009054&z=1997-12-19&g=1997-12-19"
+jci_1_0: "1.0:c:BWBR0009054&g=1997-12-19"
+citeertitel_status: "redactioneel"
+signed_date: "1997-11-27"
+entry_into_force: "1997-12-19"
 ---
-
 # Gewijzigde Richtlijn toepassing detacheringsverbod per 1 juli 1997 in de Regeling extra werkgelegenheid voor langdurigwerklozen
 
 ### Inleiding

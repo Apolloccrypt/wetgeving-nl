@@ -1,13 +1,36 @@
 ---
-title: "Beleidsregels nevenactiviteiten 2016"
+title: "Beleidsregels van het Commissariaat voor de Media van 1 januari 2016 houdende beleidsregels omtrent nevenactiviteiten publieke media-instellingen (Beleidsregels nevenactiviteiten 2016)"
 identifier: "BWBR0037313"
-categorie: "Overig"
-publicatiedatum: 2017-07-07
-laatste_update: 2017-07-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037313"
+country: "nl"
+rank: "zbo"
+publication_date: "2017-07-07"
+last_updated: "2017-07-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037313"
+soort: "zbo"
+stam_id: "13334463"
+version_id: "24184382"
+internal_id: "C34747591"
+label_id: "13302434"
+dtd_version: "2.0"
+original_entry_into_force: "2017-07-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037313/2017-07-07/0"
+intitule_bron: "Stcrt.2015-44300"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2015-12-09"
+intitule_in_force: "2015-12-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-37835"
+original_published_date: "2017-07-06"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2017-37835"
+entry_into_force_date: "2017-07-07"
+jci_1_3: "jci1.3:c:BWBR0037313&z=2017-07-07&g=2017-07-07"
+jci_1_0: "1.0:c:BWBR0037313&g=2017-07-07"
+citeertitel_status: "officieel"
+short_title: "Beleidsregels nevenactiviteiten 2016"
+entry_into_force: "2017-07-07"
 ---
-
 # Beleidsregels van het Commissariaat voor de Media van 1 januari 2016 houdende beleidsregels omtrent nevenactiviteiten publieke media-instellingen (Beleidsregels nevenactiviteiten 2016)
 
 gelet op de [Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028),
@@ -20,7 +43,7 @@ gelet op de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWB
 
 Besluit:
 
-#### Artikel 1. Definities en reikwijdte
+##### Artikel 1. Definities en reikwijdte
 
 In deze beleidsregels wordt verstaan onder:
 
@@ -44,11 +67,11 @@ In deze beleidsregels wordt verstaan onder:
 
 - –. **onderwijsinstelling:** een instelling die is erkend door het Ministerie van OC&W en is opgenomen in één van de registers van OC&W.
 
-#### Artikel 2
+##### Artikel 2
 
 Overeenkomstig [artikel 2.132, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.132) kan alleen toestemming worden gegeven voor een nevenactiviteit die verband houdt met of ten dienst staat van de verwezenlijking van de publieke media-opdracht en direct gerelateerd is aan het media-aanbod van de publieke media-instelling, op marktconforme wijze wordt verricht en ten minste kostendekkend is.
 
-#### Artikel 3. Clusterindeling
+##### Artikel 3. Clusterindeling
 
 Het Commissariaat onderscheidt de volgende clusters van nevenactiviteiten:
 
@@ -66,7 +89,7 @@ Het Commissariaat onderscheidt de volgende clusters van nevenactiviteiten:
 
 - 7. Het op de markt (laten) brengen van overige producten of diensten; overig.
 
-#### Artikel 4. Relatie
+##### Artikel 4. Relatie
 
 Een nevenactiviteit **‘houdt verband met’**of**‘staat ten dienste van‘** de verwezenlijking van de publieke media-opdracht en is **‘direct gerelateerd aan‘** het media-aanbod van de publieke media-instelling, als bedoeld in [artikel 2.132, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.132), indien:
 
@@ -102,7 +125,7 @@ Een nevenactiviteit **‘houdt verband met’**of**‘staat ten dienste van‘**
 
 - b. de activiteit aantoonbaar inhoudelijk aansluit bij het media-aanbod van de publieke media-instelling.
 
-#### Artikel 5. Marktconformiteit
+##### Artikel 5. Marktconformiteit
 
 1. Bij de beoordeling of de nevenactiviteit op **‘marktconforme wijze‘** wordt verricht, als bedoeld in [artikel 2.132, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.132), wordt in ieder geval betrokken:
 
@@ -116,7 +139,7 @@ Een nevenactiviteit **‘houdt verband met’**of**‘staat ten dienste van‘**
 
 3. Het Commissariaat baseert zich bij het bepalen van de relevante markt, indien mogelijk, op de uitgangspunten en benaderingen van ACM.
 
-#### Artikel 6
+##### Artikel 6
 
 1. In die gevallen dat het Commissariaat naar aanleiding van de in kaart gebrachte relevante markt constateert dat geen sprake is van andere aanbieders van dezelfde of vergelijkbare producten of diensten, wordt de nevenactiviteit geacht marktconform te worden verricht.
 
@@ -124,15 +147,15 @@ Een nevenactiviteit **‘houdt verband met’**of**‘staat ten dienste van‘**
 
 3. In die gevallen waarin het Commissariaat van oordeel is dat de activiteit vanwege haar aard en omvang een gering belang vertegenwoordigt, wordt niet beoordeeld of de nevenactiviteit op marktconforme wijze wordt verricht, totdat belanghebbenden bij het nalaten van deze toets door middel van een handhavingsverzoek daarom vragen.
 
-#### Artikel 7
+##### Artikel 7
 
 Het Commissariaat betrekt bij de beoordeling van marktconformiteit ACM bij aangelegenheden van wederzijds belang.
 
-#### Artikel 8. Kostendekkendheid
+##### Artikel 8. Kostendekkendheid
 
 Nevenactiviteiten zijn niet **‘kostendekkend‘**, als bedoeld in [artikel 2.132, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.132), indien zij direct of indirect worden bekostigd door of anderszins ten laste komen van de publieke media-opdracht.
 
-#### Artikel 9
+##### Artikel 9
 
 In afwijking van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=8&z=2017-07-07&g=2017-07-07) van deze beleidsregels wordt de nevenactiviteit als **‘kostendekkend‘** aangemerkt indien:
 
@@ -140,11 +163,11 @@ In afwijking van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&art
 
 - 2. een negatief resultaat van een bestaande nevenactiviteit, bij wijze van uitzondering, wordt gecompenseerd met de positieve financiële resultaten van één of meer andere nevenactiviteiten in het betreffende boekjaar.
 
-#### Artikel 10
+##### Artikel 10
 
 Alle nevenactiviteiten dienen te worden verantwoord conform de in het van toepassing zijnde Handboek financiële verantwoording voorgeschreven wijze.
 
-#### Artikel 11. Meldingsprocedure reguliere nevenactiviteiten
+##### Artikel 11. Meldingsprocedure reguliere nevenactiviteiten
 
 1. Een publieke media-instelling dient een verzoek om toestemming voor het verrichten van een nevenactiviteit op de in deze beleidsregels voorgeschreven wijze in.
 
@@ -156,7 +179,7 @@ Alle nevenactiviteiten dienen te worden verantwoord conform de in het van toepas
 
 5. Desgevraagd verstrekt de publieke media-instelling het Commissariaat een exemplaar van het product dat voortkomt uit de nevenactiviteit of een drukproef daarvan.
 
-#### Artikel 12. Besluitvormingsprocedure reguliere nevenactiviteiten
+##### Artikel 12. Besluitvormingsprocedure reguliere nevenactiviteiten
 
 1. Het Commissariaat beslist binnen een redelijke termijn na ontvangst van het in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=11&z=2017-07-07&g=2017-07-07), bedoelde verzoek.
 
@@ -170,7 +193,7 @@ Alle nevenactiviteiten dienen te worden verantwoord conform de in het van toepas
 
 6. In een toestemmingsbesluit kan het Commissariaat nadere eisen stellen aan de uitvoering van een nevenactiviteit.
 
-#### Artikel 13. Procedure generieke toestemmingen
+##### Artikel 13. Procedure generieke toestemmingen
 
 1. Voor specifieke (groepen van) nevenactiviteiten heeft het Commissariaat een generiek toestemmingsbesluit afgegeven. Bedoelde besluiten zijn te raadplegen via de website van het Commissariaat.
 
@@ -180,7 +203,7 @@ Alle nevenactiviteiten dienen te worden verantwoord conform de in het van toepas
 
 4. Bij de melding maakt de publieke media-instelling gebruik van het Meldingsformulier generieke toestemmingen en vult zij dit formulier op de voorgeschreven wijze in.
 
-#### Artikel 14. Meldingsprocedure experimentele nevenactiviteiten
+##### Artikel 14. Meldingsprocedure experimentele nevenactiviteiten
 
 1. Een publieke media-instelling dient experimentele nevenactiviteiten op grond van [artikel 11a van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&artikel=11a) te melden op de door het Commissariaat voorgeschreven wijze.
 
@@ -188,7 +211,7 @@ Alle nevenactiviteiten dienen te worden verantwoord conform de in het van toepas
 
 3. Bij de melding maakt de publieke media-instelling gebruik van het Meldingsformulier experimentele nevenactiviteiten en vult zij dit formulier op de voorgeschreven wijze in.
 
-#### Artikel 15. Beëindiging van nevenactiviteiten
+##### Artikel 15. Beëindiging van nevenactiviteiten
 
 1. Nevenactiviteiten die niet (langer) binnen de reikwijdte van het (generieke) toestemmingsbesluit kunnen worden verricht, zijn niet (langer) toegestaan en dienen tijdig (opnieuw) ter beoordeling aan het Commissariaat te worden voorgelegd of dienen per direct te worden gestaakt.
 
@@ -196,7 +219,7 @@ Alle nevenactiviteiten dienen te worden verantwoord conform de in het van toepas
 
 3. In het in het eerste of tweede lid genoemde geval, meldt de publieke media-instellingen binnen 3 maanden na beëindiging van de nevenactiviteit aan het Commissariaat dat met de activiteit is gestopt.
 
-#### Artikel 16. Uitingen in het kader van nevenactiviteiten
+##### Artikel 16. Uitingen in het kader van nevenactiviteiten
 
 Oproepen in het kader van nevenactiviteiten in het media-aanbod zoals genoemd in [artikel 2.90 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.90) zijn toegestaan, indien:
 
@@ -218,11 +241,11 @@ Oproepen in het kader van nevenactiviteiten in het media-aanbod zoals genoemd in
 
 - 3. Het tweede is ook van toepassing op toegestane nevenactiviteiten die uit niet meer bestaan dan de licentieverlening van een auteurs- of merkrecht op een programmatitel aan een derde.
 
-#### Artikel 17. Openbaarmaking
+##### Artikel 17. Openbaarmaking
 
 Het Commissariaat maakt de door hem genomen besluiten met betrekking tot nevenactiviteiten openbaar conform de in de Werkwijze Communicatie van het Commissariaat voor de Media voorgeschreven wijze.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Het Commissariaat houdt een openbaar Register nevenactiviteiten bij waarin elk besluit aangaande nevenactiviteiten wordt opgenomen. Het Commissariaat vermeldt hierin eveneens de nevenactiviteiten die binnen de generieke toestemmingsbesluiten worden verricht.
 
@@ -232,13 +255,13 @@ Het Commissariaat maakt de door hem genomen besluiten met betrekking tot nevenac
 
 4. In het Register experimentele nevenactiviteiten wordt vermeld: het zaaknummer, de betrokken publieke media-instelling, de betrokken samenwerkingspartner, een korte omschrijving van de experimentele nevenactiviteit en de ingangsdatum.
 
-#### Artikel 19. Overgangs- en slotbepalingen
+##### Artikel 19. Overgangs- en slotbepalingen
 
 1. De voorafgaand aan de inwerkingtreding van deze beleidsregels genomen besluiten tot toestemming van nevenactiviteiten blijven in stand, tenzij de gewijzigde clusterindeling in deze beleidsregels aanleiding geven tot wijziging van een specifiek besluit. Dit geldt eveneens voor de voor 1 januari 2009 verleende goedkeuringen. Reeds goedgekeurde nevenactiviteiten worden in beginsel niet opnieuw getoetst.
 
 2. Op verzoeken om toestemming die zijn ingediend voor de datum van inwerkingtreding van deze beleidsregels, zijn de [Beleidsregels nevenactiviteiten 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025784) en aanverwante regelgeving van toepassing.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Deze beleidsregels treden in werking met ingang van 1 januari 2016.
 
@@ -308,7 +331,7 @@ Het Commissariaat maakt de door hem genomen besluiten met betrekking tot nevenac
 | [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0025784&artikel=16) (register) | Artikel 18, eerste lid (register) Artikel 18, vierde lid: nieuw artikel: register experimentele nevenactiviteiten |
 | [Artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0025784&artikel=17) (slotbepaling) | [Artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0037313&artikel=20&z=2016-01-01&g=2016-01-01) (overgangs- en slotbepalingen) |
 
-#### Artikel 14a. Samenwerking eenmalig project
+##### Artikel 14a. Samenwerking eenmalig project
 
 1. Een nevenactiviteit is een samenwerking in het kader van een eenmalig project indien:
 
@@ -320,7 +343,7 @@ Het Commissariaat maakt de door hem genomen besluiten met betrekking tot nevenac
 
 2. Een samenwerking in het kader van een eenmalig project hoeft niet te worden gemeld bij het Commissariaat.
 
-#### Artikel 14b. Gelijkwaardige samenwerking
+##### Artikel 14b. Gelijkwaardige samenwerking
 
 1. Een nevenactiviteit is een gelijkwaardige samenwerking indien:
 

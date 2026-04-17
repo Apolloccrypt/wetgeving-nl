@@ -1,13 +1,34 @@
 ---
 title: "Uitvoeringsreglement inzake aanvragen voor een financiële bijdrage voor de distributie van een film"
 identifier: "BWBR0009305"
-categorie: "Overig"
-publicatiedatum: 2009-12-31
-laatste_update: 1998-07-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009305"
+country: "nl"
+rank: "zbo"
+publication_date: "2009-12-31"
+last_updated: "1998-07-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009305"
+soort: "zbo"
+stam_id: "6565573"
+version_id: "11374852"
+internal_id: "C15318141"
+label_id: "6553954"
+original_entry_into_force: "1998-07-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009305/2009-12-31/0"
+intitule_bron: "Stcrt.1998-121"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1998-07-01"
+intitule_in_force: "1998-07-01"
+intitule_status: "goed"
+original_publication: "Stcrt.1998-121"
+original_published_date: "1998-07-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1998-121-p17-SC14482"
+entry_into_force_date: "1998-07-03"
+jci_1_3: "jci1.3:c:BWBR0009305&z=2009-12-31&g=2009-12-31"
+jci_1_0: "1.0:c:BWBR0009305&g=2009-12-31"
+citeertitel_status: "redactioneel"
+entry_into_force: "1998-07-03"
 ---
-
 # Uitvoeringsreglement inzake aanvragen voor een financiële bijdrage voor de distributie van een film
 
 Het bestuur van Stichting Nederlands Fonds voor de Film heeft besloten tot wijziging van de navolgende uitvoeringsreglementen. Deze reglementen luiden thans als volgt.

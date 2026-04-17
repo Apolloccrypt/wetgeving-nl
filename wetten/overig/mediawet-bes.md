@@ -1,18 +1,43 @@
 ---
 title: "Mediawet BES"
 identifier: "BWBR0028433"
-categorie: "Overig"
-publicatiedatum: 2023-01-01
-laatste_update: 2023-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028433"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2023-01-01"
+last_updated: "2023-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028433"
+soort: "wet-BES"
+stam_id: "10782833"
+version_id: "17760112"
+internal_id: "C24803871"
+label_id: "10757614"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028433/2023-01-01/0"
+intitule_bron: "Stb.2010-581"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-22"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-581"
+original_signed_date: "2010-09-22"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-581"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028433&z=2023-01-01&g=2023-01-01"
+jci_1_0: "1.0:c:BWBR0028433&g=2023-01-01"
+citeertitel_status: "officieel"
+signed_date: "2010-09-22"
+entry_into_force: "2010-10-10"
 ---
-
 # Mediawet BES
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -50,11 +75,11 @@ bron: "https://wetten.overheid.nl/BWBR0028433"
 
 #### § 2. Toestemming
 
-#### Artikel 2
+##### Artikel 2
 
 Het verzorgen van een omroepdienst in het openbaar lichaam Bonaire, Sint Eustatius of Saba is alleen toegestaan met toestemming van het Commissariaat.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een toestemming als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028433&paragraaf=2&artikel=2&z=2023-01-01&g=2023-01-01) wordt op aanvraag verleend en geldt voor tien jaar.
 
@@ -68,7 +93,7 @@ Het verzorgen van een omroepdienst in het openbaar lichaam Bonaire, Sint Eustati
 
 #### § 3. Voorschriften met betrekking tot de exploitatie
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het Commissariaat kan een aanvraag als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028433&paragraaf=2&artikel=3&z=2023-01-01&g=2023-01-01), afwijzen indien:
 
@@ -84,17 +109,17 @@ Het verzorgen van een omroepdienst in het openbaar lichaam Bonaire, Sint Eustati
 
 - c. overigens niet voldoet aan het bepaalde bij of krachtens deze wet.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een omroepinstelling bepaalt, onverminderd het bepaalde bij of krachtens deze wet, vorm en inhoud van het door haar verzorgde programma-aanbod en is daar verantwoordelijk voor.
 
 2. Een omroepinstelling brengt in overeenstemming met de werknemers die zijn belast met de verzorging en samenstelling van het programma-aanbod een redactiestatuut tot stand waarin de journalistieke rechten en plichten van deze werknemers zijn geregeld.
 
-#### Artikel 6
+##### Artikel 6
 
 Een omroepinstelling verspreidt geen programma-aanbod dat de lichamelijke, geestelijke of zedelijke ontwikkeling van minderjarigen ernstige schade kan toebrengen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De door een omroepinstelling verzorgde reclameboodschappen zijn als zodanig herkenbaar en door akoestische, visuele of ruimtelijke middelen duidelijk onderscheiden van de overige inhoud van het programma-aanbod.
 
@@ -110,7 +135,7 @@ Een omroepinstelling verspreidt geen programma-aanbod dat de lichamelijke, geest
 
 5. Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot het opnemen van reclameboodschappen in programma’s.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Programma-aanbod wordt alleen gesponsord als in het redactiestatuut, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028433&paragraaf=3&artikel=5&z=2023-01-01&g=2023-01-01), waarborgen zijn opgenomen voor de redactionele onafhankelijkheid van de werknemers die belast zijn met de verzorging en samenstelling van het programma-aanbod ten opzichte van de sponsors.
 
@@ -120,13 +145,13 @@ Een omroepinstelling verspreidt geen programma-aanbod dat de lichamelijke, geest
 
 4. Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot sponsorvermelding bij gesponsord programma-aanbod.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Een omroepinstelling stelt overeenkomstig het bepaalde bij of krachtens de [artikelen 10 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028433&paragraaf=4&artikel=10&z=2023-01-01&g=2023-01-01),zendtijd ter beschikking.
 
 2. Op degene aan wie zendtijd ter beschikking is gesteld zijn de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028433&paragraaf=3&artikel=5&z=2023-01-01&g=2023-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0028433&paragraaf=3&artikel=6&z=2023-01-01&g=2023-01-01), [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028433&paragraaf=3&artikel=7&z=2023-01-01&g=2023-01-01), en [8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028433&paragraaf=3&artikel=8&z=2023-01-01&g=2023-01-01), van overeenkomstige toepassing.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het Commissariaat wijst jaarlijks op aanvraag van Onze Minister-President, Minister van Algemene Zaken, een aantal uren zendtijd op de omroepdiensten toe ten behoeve van overheidsvoorlichting. Het Commissariaat wijst de dagen en tijdstippen aan waarop de toegewezen uren beschikbaar worden gesteld.
 
@@ -136,7 +161,7 @@ Een omroepinstelling verspreidt geen programma-aanbod dat de lichamelijke, geest
 
 4. De toegewezen uren worden geheel gebruikt en alleen voor overheidsvoorlichting.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Het Commissariaat wijst jaarlijks op aanvraag een aantal uren zendtijd op de omroepdiensten toe aan een politieke partij die bij de laatst gehouden verkiezing van de leden van de Tweede of Eerste Kamer der Staten-Generaal of een eilandsraad één of meer zetels heeft verworven.
 
@@ -154,23 +179,23 @@ Een omroepinstelling verspreidt geen programma-aanbod dat de lichamelijke, geest
 
 5. Een politieke partij gebruikt haar zendtijd geheel en alleen voor programma-aanbod op politiek terrein.
 
-#### Artikel 12
+##### Artikel 12
 
 Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld op grond waarvan het Commissariaat op aanvraag zendtijd op de omroepdiensten kan toewijzen aan ideële maatschappelijke organisaties, waaronder kerkgenootschappen en genootschappen op geestelijke grondslag.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Bij algemene maatregel van bestuur worden, op voordracht van Onze Minister-President, Minister van Algemene Zaken, na overleg met Onze Minister, regels gesteld op grond waarvan in geval van buitengewone omstandigheden zendtijd en de daarbij behorende faciliteiten zoals studio’s ter beschikking worden gesteld aan de bij of krachtens die algemene maatregel van bestuur aangewezen autoriteiten of personen.
 
 2. Onze Minister-President, Minister van Algemene Zaken, is bevoegd in de algemene noodtoestand, na overleg met Onze Minister, regels te stellen over de inhoud van radio- en televisieprogramma’s en het toezicht daarop, waarbij kan worden afgeweken van het bepaalde in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028433&paragraaf=5&artikel=14&z=2023-01-01&g=2023-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028433&paragraaf=5&artikel=15&z=2023-01-01&g=2023-01-01).
 
-#### Artikel 14
+##### Artikel 14
 
 Een omroepinstelling, een politieke partij en de overheid bewaren opnamen van het door hen verzorgde programma-aanbod gedurende een maand na de uitzending en stellen deze desgevraagd al dan niet in kopie binnen 24 uur ter beschikking aan het Commissariaat.
 
 #### § 5. Toezicht en handhaving
 
-#### Artikel 15
+##### Artikel 15
 
 1. Het Commissariaat is belast met de bestuursrechtelijke handhaving van het bepaalde bij of krachtens deze wet.
 
@@ -178,7 +203,7 @@ Een omroepinstelling, een politieke partij en de overheid bewaren opnamen van he
 
 #### § 5. Toezicht en opsporing
 
-#### Artikel 16
+##### Artikel 16
 
 1. Met het toezicht op de naleving zijn belast de leden van het Commissariaat en de bij besluit van het Commissariaat aangewezen medewerkers van het Commissariaat. Onze Minister kan daarnaast bij besluit andere personen aanwijzen die belast zijn met het toezicht ten behoeve van de bestuursrechtelijke handhaving door het Commissariaat. Van een besluit wordt mededeling gedaan door plaatsing in de Staatscourant.
 
@@ -196,13 +221,13 @@ Een omroepinstelling, een politieke partij en de overheid bewaren opnamen van he
 
 4. Een ieder is verplicht aan de leden van het Commissariaat en de krachtens het eerste lid aangewezen personen alle medewerking te verlenen die op grond van het tweede lid wordt gevorderd.
 
-#### Artikel 17
+##### Artikel 17
 
 De [Wet vestiging bedrijven BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028164) is niet van toepassing op een omroepinstelling.
 
 #### § 6. Overgangs- en Slotbepalingen
 
-#### Artikel 18
+##### Artikel 18
 
 1. Een vergunning die is verleend op grond van artikel 2 van de Televisie-landsverordening of op grond van de Mediawet BES zoals die wet op 10 oktober 2010 is komen te luiden, wordt met ingang van dat tijdstip aangemerkt als een toestemming op grond van deze wet en geldt tot het einde van de periode die bij de vergunningverlening is bepaald.
 
@@ -210,15 +235,15 @@ De [Wet vestiging bedrijven BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028164
 
 3. Op lopende bezwaar- en beroepsprocedures die voor het tijdstip van de inwerkingtreding van dit artikel zijn ingesteld en gericht zijn tegen besluiten die zijn genomen op grond van de Televisie-landsverordening of op grond van de Mediawet BES zoals die wet op 10 oktober 2010 luidde, blijven de bepalingen van de Televisie-landsverordening van toepassing.
 
-#### Artikel 19
+##### Artikel 19
 
 Deze wet wordt aangehaald als: Mediawet BES.
 
-#### Artikel 20
+##### Artikel 20
 
 [vervallen]
 
-#### Artikel 21
+##### Artikel 21
 
 Deze wet wordt aangehaald als: Mediawet BES.
 
@@ -228,6 +253,6 @@ Deze wet wordt aangehaald als: Mediawet BES.
 
 #### § 6. Overgangs- en slotbepalingen
 
-#### Artikel 18a
+##### Artikel 18a
 
 [Artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028433&paragraaf=3&artikel=7&z=2023-01-01&g=2023-01-01), dat niet bij Besluit van 3 februari 2011, houdende vaststelling van het tijdstip van inwerkingtreding van een aantal onderdelen van de Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba (Stb. 2011, 34) in werking is getreden, treedt in werking op een bij koninklijk besluit te bepalen tijdstip.

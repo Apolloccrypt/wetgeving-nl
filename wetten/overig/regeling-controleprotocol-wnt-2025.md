@@ -1,28 +1,54 @@
 ---
-title: "Regeling Controleprotocol WNT 2025"
+title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 18 juni 2025, nummer 2025-0000358619, houdende vaststelling van het Controleprotocol Wet normering topinkomens 2025 (Regeling Controleprotocol WNT 2025)"
 identifier: "BWBR0051144"
-categorie: "Overig"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051144"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051144"
+soort: "ministeriele-regeling"
+stam_id: "17454433"
+version_id: "30781922"
+internal_id: "C44122721"
+label_id: "17357204"
+dtd_version: "2.0"
+original_entry_into_force: "2025-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051144/2025-07-01/0"
+intitule_bron: "Stcrt.2025-19490"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-06-18"
+intitule_published: "2025-06-26"
+intitule_in_force: "2025-06-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-19490"
+original_signed_date: "2025-06-18"
+original_published_date: "2025-06-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-19490"
+entry_into_force_date: "2025-07-01"
+jci_1_3: "jci1.3:c:BWBR0051144&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0051144&g=2025-07-01"
+citeertitel_status: "officieel"
+short_title: "Regeling Controleprotocol WNT 2025"
+signed_date: "2025-06-18"
+entry_into_force: "2025-07-01"
 ---
-
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 18 juni 2025, nummer 2025-0000358619, houdende vaststelling van het Controleprotocol Wet normering topinkomens 2025 (Regeling Controleprotocol WNT 2025)
 
 Gelet op [artikel 1.9, onderdeel d, van de Wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=1.9);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Het protocol voor controle van het financieel verslaggevingsdocument door de accountant over het jaar 2025 op de naleving van de [Wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) en de daarop berustende bepalingen wordt vastgesteld overeenkomstig de bijlage bij deze regeling.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling treedt in werking met ingang van 1 juli 2025.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling wordt aangehaald als: Regeling Controleprotocol WNT 2025.
 

@@ -1,13 +1,38 @@
 ---
 title: "Besluit Tarieven Ctgb 2007"
 identifier: "BWBR0022971"
-categorie: "Overig"
-publicatiedatum: 2007-12-08
-laatste_update: 2007-12-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0022971"
+country: "nl"
+rank: "zbo"
+publication_date: "2007-12-08"
+last_updated: "2007-12-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0022971"
+soort: "zbo"
+stam_id: "9307323"
+version_id: "14946652"
+internal_id: "C20335371"
+label_id: "9286334"
+dtd_version: "2.0"
+original_entry_into_force: "2007-12-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0022971/2007-12-08/0"
+intitule_bron: "Stcrt.2007-238"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-10-10"
+intitule_published: "2007-12-07"
+intitule_in_force: "2007-12-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-238"
+original_signed_date: "2007-10-10"
+original_published_date: "2007-12-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2007-238-p24-SC83273"
+entry_into_force_date: "2007-12-08"
+jci_1_3: "jci1.3:c:BWBR0022971&z=2007-12-08&g=2007-12-08"
+jci_1_0: "1.0:c:BWBR0022971&g=2007-12-08"
+citeertitel_status: "officieel"
+signed_date: "2007-10-10"
+entry_into_force: "2007-12-08"
 ---
-
 # Besluit Tarieven Ctgb 2007
 
 Gelet op [artikel 8, eerste lid, sub b](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=8), en [artikel 10, eerste lid, van de Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=10) (Stb 2007, 125);
@@ -16,7 +41,7 @@ Besluit:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1. definities
+##### Artikel 1. definities
 
 In dit reglement wordt verstaan onder:
 
@@ -30,7 +55,7 @@ In dit reglement wordt verstaan onder:
 
 #### § 1. Aanvraag
 
-#### Artikel 2. algemeen
+##### Artikel 2. algemeen
 
 Voor de indiening van de navolgende aanvragen zijn de volgende bedragen verschuldigd:
 
@@ -66,7 +91,7 @@ Voor de indiening van de navolgende aanvragen zijn de volgende bedragen verschul
 
 #### § 2. Samenvatten en evalueren
 
-#### Artikel 3. algemeen
+##### Artikel 3. algemeen
 
 Voor het samenvatten en evalueren van de navolgende gegevens, die zijn overlegd bij een aanvraag als bedoeld in [artikel 2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0022971&hoofdstuk=2&paragraaf=1&artikel=2&z=2007-12-08&g=2007-12-08) zijn de volgende bedragen verschuldigd:
 
@@ -374,7 +399,7 @@ Voor het samenvatten en evalueren van de navolgende gegevens, die zijn overlegd 
 
 - 2. voor het afleiden van een MRL per gewasgroep: € 164,–.
 
-#### Artikel 4. micro-organismen
+##### Artikel 4. micro-organismen
 
 In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022971&hoofdstuk=2&paragraaf=2&artikel=3&z=2007-12-08&g=2007-12-08) zijn voor het samenvatten en evalueren van de navolgende gegevens, die zijn overlegd bij een aanvraag als bedoeld in [artikel 2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0022971&hoofdstuk=2&paragraaf=1&artikel=2&z=2007-12-08&g=2007-12-08) betreffende een gewasbeschermingsmiddel op basis van micro-organismen, de volgende bedragen verschuldigd:
 
@@ -514,7 +539,7 @@ In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022971&hoo
 
 #### § 3. Beoordelen
 
-#### Artikel 5. algemeen
+##### Artikel 5. algemeen
 
 Voor de beoordeling van de navolgende aspecten en criteria in het kader van een aanvraag als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022971&hoofdstuk=2&paragraaf=1&artikel=2&z=2007-12-08&g=2007-12-08) zijn de volgende bedragen verschuldigd:
 
@@ -530,7 +555,7 @@ Voor de beoordeling van de navolgende aspecten en criteria in het kader van een 
 
 - f. het eindoordeel over de toelaatbaarheidsaspecten: € 1.066,–.
 
-#### Artikel 6. wederzijdse erkenning
+##### Artikel 6. wederzijdse erkenning
 
 In afwijking van [artikel 5, aanhef en onder a, b, c, en d](https://wetten.overheid.nl/jci1.3:c:BWBR0022971&hoofdstuk=2&paragraaf=3&artikel=5&z=2007-12-08&g=2007-12-08) zijn voor de beoordeling van de navolgende aspecten en criteria in het kader van een wederzijdse erkenning van een toelating als bedoeld in [artikel 36 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=36), de volgende bedragen verschuldigd:
 
@@ -542,7 +567,7 @@ In afwijking van [artikel 5, aanhef en onder a, b, c, en d](https://wetten.overh
 
 - d. criteria ten aanzien van het milieu: € 1.804,–
 
-#### Artikel 7. vereenvoudigde uitbreiding
+##### Artikel 7. vereenvoudigde uitbreiding
 
 In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0022971&hoofdstuk=2&paragraaf=3&artikel=5&z=2007-12-08&g=2007-12-08) zijn voor de beoordeling van de navolgende aspecten en criteria in het kader van een aanvraag tot uitbreiding van de toepassing van een toegelaten gewasbeschermingsmiddel als bedoeld in [artikel 31 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=31) (vereenvoudigde uitbreiding), de volgende bedragen verschuldigd:
 
@@ -580,7 +605,7 @@ In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0022971&hoo
 
 - 5. Volksgezondheid: € 82,–
 
-#### Artikel 8. herregistratie
+##### Artikel 8. herregistratie
 
 1. In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0022971&hoofdstuk=2&paragraaf=3&artikel=5&z=2007-12-08&g=2007-12-08) zijn voor de beoordeling van de navolgende aspecten en criteria in het kader van een aanvraag tot herregistratie van een in Nederland voorlopig toegelaten gewasbeschermingsmiddel als bedoeld in [artikel 34 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=34), op basis van een nieuwe stof die is geplaatst op Annex I van [Richtlijn 91/414/EEG](31991L0414), de volgende bedragen verschuldigd:
 
@@ -604,13 +629,13 @@ In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0022971&hoo
 
 #### § 4. Plaatsing werkzame stof op Bijlage I [Richtlijn 91/414/EEG](31991L0414)
 
-#### Artikel 9. aanvraag
+##### Artikel 9. aanvraag
 
 1. Voor het in behandeling nemen van een aanvraag tot plaatsing van een (nieuwe) werkzame stof op Bijlage I bij [Richtlijn 91/414/EEG](31991L0414), is het volgende bedrag verschuldigd: € 11.165,–
 
 2. Dit lid is nog niet in werking getreden.
 
-#### Artikel 10. samenvatten en beoordelen
+##### Artikel 10. samenvatten en beoordelen
 
 1. Voor het samenvatten en beoordelen (monograph) van de aanvraag tot plaatsing als bedoeld in het [eerste lid van artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0022971&hoofdstuk=2&paragraaf=4&artikel=9&z=2007-12-08&g=2007-12-08), is het volgende bedrag verschuldigd:
 
@@ -620,7 +645,7 @@ In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0022971&hoo
 
 2. Dit lid is nog niet in werking getreden.
 
-#### Artikel 11. overige werkzaamheden
+##### Artikel 11. overige werkzaamheden
 
 1. Voor de werkzaamheden die na het uitbrengen van de samenvatting en beoordeling (de monograph) aan de Europese Commissie voor werkzame stoffen als bedoeld in het [eerste lid van artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0022971&hoofdstuk=2&paragraaf=4&artikel=9&z=2007-12-08&g=2007-12-08), nodig zijn voor de afronding van de Europese besluitvorming is een bedrag op basis van nacalculatie van de werkelijk gemaakte kosten verschuldigd. Het voorschot bedraagt: € 77.140,–-.
 
@@ -628,7 +653,7 @@ In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0022971&hoo
 
 #### § 5. Vrijstelling en ontheffing
 
-#### Artikel 12. proefontheffing
+##### Artikel 12. proefontheffing
 
 Voor de indiening van een aanvraag voor een vrijstelling of ontheffing ten behoeve van een proef of experiment als bedoeld in [artikel 37 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=37), is het volgende bedrag verschuldigd:
 
@@ -640,7 +665,7 @@ Voor de indiening van een aanvraag voor een vrijstelling of ontheffing ten behoe
 
 #### § 1. Aanvraag
 
-#### Artikel 13. algemeen
+##### Artikel 13. algemeen
 
 Voor de indiening van de navolgende aanvragen zijn de volgende bedragen verschuldigd:
 
@@ -674,7 +699,7 @@ Voor de indiening van de navolgende aanvragen zijn de volgende bedragen verschul
 
 #### § 2. Samenvatten en evalueren
 
-#### Artikel 14. algemeen
+##### Artikel 14. algemeen
 
 Voor het samenvatten en evalueren van de navolgende gegevens, die zijn overlegd bij een aanvraag als bedoeld in [artikel 13, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0022971&hoofdstuk=3&paragraaf=1&artikel=13&z=2007-12-08&g=2007-12-08) zijn de volgende bedragen verschuldigd:
 
@@ -934,7 +959,7 @@ Voor het samenvatten en evalueren van de navolgende gegevens, die zijn overlegd 
 
 #### § 3. Beoordelen
 
-#### Artikel 15. algemeen
+##### Artikel 15. algemeen
 
 Voor de beoordeling van de navolgende aspecten en criteria in het kader van een aanvraag als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0022971&hoofdstuk=3&paragraaf=1&artikel=13&z=2007-12-08&g=2007-12-08) zijn de volgende bedragen verschuldigd:
 
@@ -952,11 +977,11 @@ Voor de beoordeling van de navolgende aspecten en criteria in het kader van een 
 
 #### § 4. Plaatsing werkzame stof op Bijlage I [Richtlijn 98/8/EG](31998L0008)
 
-#### Artikel 16. aanvraag
+##### Artikel 16. aanvraag
 
 Voor het in behandeling nemen van een aanvraag tot plaatsing van een (nieuwe) werkzame stof op Bijlage I van [Richtlijn 98/8/EG](31998L0008) is het volgende bedrag verschuldigd: € 11.165,–.
 
-#### Artikel 17. samenvatten en beoordelen
+##### Artikel 17. samenvatten en beoordelen
 
 Voor het samenvatten en beoordelen van de aanvraag tot plaatsing als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0022971&hoofdstuk=3&paragraaf=4&artikel=16&z=2007-12-08&g=2007-12-08) en het opstellen van een verslag en aanbeveling omtrent het te nemen besluit, is het volgende bedrag verschuldigd:
 
@@ -968,13 +993,13 @@ Voor het samenvatten en beoordelen van de aanvraag tot plaatsing als bedoeld in 
 
 - d. het navolgende bedrag als bij de in behandelingname blijkt dat met een beperkte evaluatie kan worden volstaan: € 109.925,– .
 
-#### Artikel 18. overige werkzaamheden
+##### Artikel 18. overige werkzaamheden
 
 Voor de werkzaamheden die na het uitbrengen van het verslag en advies aan de Europese Commissie nodig zijn voor de afronding van de Europese besluitvorming is een bedrag op basis van nacalculatie van de werkelijk gemaakte kosten verschuldigd. Het voorschot bedraagt: € 77.140,–.
 
 #### § 5. Vrijstelling en ontheffing
 
-#### Artikel 19. proefontheffing
+##### Artikel 19. proefontheffing
 
 Voor de indiening van een aanvraag voor een vrijstelling of ontheffing ten behoeve van een proef of experiment als bedoeld in [artikel 64 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=64), is het volgende bedrag verschuldigd:
 
@@ -986,13 +1011,13 @@ Voor de indiening van een aanvraag voor een vrijstelling of ontheffing ten behoe
 
 #### § 1. Toepassingsbereik
 
-#### Artikel 20
+##### Artikel 20
 
 Dit hoofdstuk heeft betrekking op gewasbeschermingsmiddelen en biociden als bedoeld in [artikel 121, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=121).
 
 #### § 2. Verlenging van besluiten tot toelating
 
-#### Artikel 21
+##### Artikel 21
 
 1. Voor de beoordeling van de verlenging van de toelating van een middel als bedoeld in [artikel 122, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=122), is het volgende bedrag verschuldigd: € 1.650,–.
 
@@ -1000,7 +1025,7 @@ Dit hoofdstuk heeft betrekking op gewasbeschermingsmiddelen en biociden als bedo
 
 #### § 3. Overige aanvragen
 
-#### Artikel 22
+##### Artikel 22
 
 1. Voor de indiening van een aanvraag als bedoeld in [artikel 121, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=121), zijn de bedragen voor gewasbeschermingsmiddelen als genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022971&hoofdstuk=2&paragraaf=1&artikel=2&z=2007-12-08&g=2007-12-08) en voor biociden als genoemd in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0022971&hoofdstuk=3&paragraaf=1&artikel=13&z=2007-12-08&g=2007-12-08) verschuldigd.
 
@@ -1008,7 +1033,7 @@ Dit hoofdstuk heeft betrekking op gewasbeschermingsmiddelen en biociden als bedo
 
 #### § 4. Overige bepalingen
 
-#### Artikel 23. dringend vereist gewasbeschermingsmiddel of biocide
+##### Artikel 23. dringend vereist gewasbeschermingsmiddel of biocide
 
 1. Voor de indiening van een aanvraag als bedoeld in [artikel 123, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=123), is het volgende bedrag verschuldigd: € 1.722,–
 
@@ -1064,17 +1089,17 @@ Dit hoofdstuk heeft betrekking op gewasbeschermingsmiddelen en biociden als bedo
 
 - e. Het eindoordeel over de toelaatbaarheidsaspecten: € 1.066,–
 
-#### Artikel 24. vierde fase werkprogramma en biologische landbouw
+##### Artikel 24. vierde fase werkprogramma en biologische landbouw
 
 1. Voor de indiening van een aanvraag als bedoeld in [artikel 124, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=124), is het bedrag genoemd in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0022971&hoofdstuk=2&paragraaf=1&artikel=2&z=2007-12-08&g=2007-12-08) verschuldigd.
 
 2. Voor de beoordeling van een aanvraag als bedoeld in [artikel 124, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=124) zijn, voor zover van toepassing, de bedragen als genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022971&hoofdstuk=2&paragraaf=2&artikel=3&z=2007-12-08&g=2007-12-08) verschuldigd:
 
-#### Artikel 25. wijziging samenstelling
+##### Artikel 25. wijziging samenstelling
 
 Voor de indiening van een aanvraag als bedoeld in [artikel 125 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=125), is het bedrag verschuldigd als bedoeld in [artikel 2, eerste lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0022971&hoofdstuk=2&paragraaf=1&artikel=2&z=2007-12-08&g=2007-12-08) of [artikel 13, eerste lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0022971&hoofdstuk=3&paragraaf=1&artikel=13&z=2007-12-08&g=2007-12-08) van dit besluit.
 
-#### Artikel 26. vereenvoudigde uitbreiding biocide
+##### Artikel 26. vereenvoudigde uitbreiding biocide
 
 1. Voor de indiening van een aanvraag als bedoeld in [artikel 126 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=126), is het navolgende bedrag verschuldigd: € 1968,–.
 
@@ -1118,39 +1143,39 @@ Voor de indiening van een aanvraag als bedoeld in [artikel 125 van de wet](https
 
 ### Hoofdstuk 5. Overige tarieven
 
-#### Artikel 27. afleiden MTR niet in het kader van een toelating
+##### Artikel 27. afleiden MTR niet in het kader van een toelating
 
 1. Voor een verzoek tot het afleiden van een Maximaal Toelaatbaar Risico (MTR) buiten het kader van een (aanvraag tot) toelating is het volgende bedrag verschuldigd: € 513,–.
 
 2. Voor het afleiden van een MTR zijn de bedragen verschuldigd als genoemd in [artikel 3, onderdeel j.](https://wetten.overheid.nl/jci1.3:c:BWBR0022971&hoofdstuk=2&paragraaf=2&artikel=3&z=2007-12-08&g=2007-12-08) van dit besluit.
 
-#### Artikel 28. afleiden MRL niet in het kader van een toelating
+##### Artikel 28. afleiden MRL niet in het kader van een toelating
 
 1. Voor het verzoek tot het afleiden van een Maximaal Residu Limiet (MRL) buiten het kader van een (aanvraag tot) toelating is het volgende bedrag verschuldigd: € 513,–.
 
 2. Voor het afleiden van een MRL zijn de bedragen verschuldigd als genoemd in [artikel 3, onderdeel k.](https://wetten.overheid.nl/jci1.3:c:BWBR0022971&hoofdstuk=2&paragraaf=2&artikel=3&z=2007-12-08&g=2007-12-08) van dit besluit.
 
-#### Artikel 29. beoordeling technische werkzame stof niet in het kader van een toelating
+##### Artikel 29. beoordeling technische werkzame stof niet in het kader van een toelating
 
 Voor het beoordelen buiten het kader van een (aanvraag tot) toelating van de technische werkzame stof uit andere bronnen is het volgende bedrag verschuldigd: € 656,–.
 
-#### Artikel 30. jaarlijkse vergoeding
+##### Artikel 30. jaarlijkse vergoeding
 
 1. De jaarlijkse vergoeding voor registratie van een op 1 februari van het jaar waarvoor dit besluit is vastgesteld, toegelaten gewasbeschermingsmiddel of biocide bedraagt: € 1.240,– respectievelijk € 1.140,–.
 
 2. De betaling van het in het eerste lid bedoelde bedrag geschiedt binnen één maand na dagtekening van het verzoek tot betaling op de bij dit verzoek aangegeven wijze.
 
-#### Artikel 31. inlichtingen omtrent proeven op gewervelde dieren
+##### Artikel 31. inlichtingen omtrent proeven op gewervelde dieren
 
 1. Ter zake van het inwinnen van inlichtingen bij het College omtrent proeven op gewervelde dieren die bij een eerdere aanvraag tot toelating van een gewasbeschermingsmiddel of biocide zijn uitgevoerd als bedoeld in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=26) en [artikel 46, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=46) is een bedrag verschuldigd van € 162,–.
 
 2. De betaling van het in het eerste lid bedoelde bedrag geschiedt door overmaking van het verschuldigde bedrag aan het Ctgb tegelijkertijd met het indienen van een aanvraag.
 
-#### Artikel 32. bemiddeling uitwisseling dierproefgegevens
+##### Artikel 32. bemiddeling uitwisseling dierproefgegevens
 
 Ter zake de bemiddeling door het College als bedoeld in [artikel 8:3, tweede lid, Besluit Bestuursreglement regeling toelating gewasbeschermingsmiddelen en biociden Ctgb 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022969&artikel=8:3), is het volgende tarief verschuldigd: kostprijs.
 
-#### Artikel 33. Helpdesk Toelatingen
+##### Artikel 33. Helpdesk Toelatingen
 
 1. Bij een verzoek om inlichtingen aan de Helpdesk Toelatingen over aanvragen tot (uitbreiding van de) toelating is het volgende bedrag verschuldigd: € 487,–.
 
@@ -1158,23 +1183,23 @@ Ter zake de bemiddeling door het College als bedoeld in [artikel 8:3, tweede lid
 
 3. De advieskosten als bedoeld in het tweede lid kunnen worden verrekend met de in [artikel 2, onder a, b, f, h en i, sub 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022971&hoofdstuk=2&paragraaf=1&artikel=2&z=2007-12-08&g=2007-12-08), [artikel 13, onder a, f en i, sub 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022971&hoofdstuk=3&paragraaf=1&artikel=13&z=2007-12-08&g=2007-12-08) en [artikel 26, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022971&hoofdstuk=4&paragraaf=4&artikel=26&z=2007-12-08&g=2007-12-08) genoemde bedragen, tot een maximum van € 2.047,–, indien het advies van de Helpdesk Toelatingen heeft geleid tot een aanvraag als bedoeld in genoemde onderdelen van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022971&hoofdstuk=2&paragraaf=1&artikel=2&z=2007-12-08&g=2007-12-08) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0022971&hoofdstuk=3&paragraaf=1&artikel=13&z=2007-12-08&g=2007-12-08).
 
-#### Artikel 34. toezending register
+##### Artikel 34. toezending register
 
 1. Ter zake van een verzoek om toezending van een register is verschuldigd: € 28,–.
 
 2. De betaling van het in het eerste lid bedoelde bedrag geschiedt vooraf door overmaking van het verschuldigde bedrag aan het Ctgb onder vermelding van het type register.
 
-#### Artikel 35. exportverklaring
+##### Artikel 35. exportverklaring
 
 Voor het op verzoek verstrekken van een verklaring ten behoeve van de export van een gewasbeschermingsmiddel of een biocide, is een bedrag verschuldigd van € 61,–.
 
 ### Hoofdstuk 6. Slotbepalingen
 
-#### Artikel 36. overgangsregime
+##### Artikel 36. overgangsregime
 
 1. De op het tijdstip van inwerkingtreding van dit besluit aanhangige aanvragen worden met ingang van dat tijdstip overeenkomstig de bepalingen van dit besluit behandeld.
 
-#### Artikel 37. inwerkingtreding
+##### Artikel 37. inwerkingtreding
 
 1. Dit besluit treedt, na goedkeuring door Onze Minister, in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin dit besluit wordt geplaatst.
 
@@ -1182,7 +1207,7 @@ Voor het op verzoek verstrekken van een verklaring ten behoeve van de export van
 
 3. Het [Tarievenbesluit CTB 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0020884) wordt ingetrokken.
 
-#### Artikel 38. citeertitel
+##### Artikel 38. citeertitel
 
 Dit besluit wordt aangehaald als: Besluit Tarieven Ctgb 2007.
 

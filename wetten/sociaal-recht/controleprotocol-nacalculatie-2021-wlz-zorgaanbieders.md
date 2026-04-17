@@ -1,18 +1,40 @@
 ---
 title: "Controleprotocol nacalculatie 2021 Wlz-zorgaanbieders"
 identifier: "BWBR0046469"
-categorie: "Sociaal recht"
-publicatiedatum: 2022-03-28
-laatste_update: 2022-03-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046469"
+country: "nl"
+rank: "zbo"
+publication_date: "2022-03-28"
+last_updated: "2022-03-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046469"
+soort: "zbo"
+stam_id: "16307753"
+version_id: "28497762"
+internal_id: "C40212741"
+label_id: "16232944"
+dtd_version: "2.0"
+original_entry_into_force: "2022-03-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046469/2022-03-28/0"
+intitule_bron: "Stcrt.2022-8123"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2022-03-28"
+intitule_in_force: "2022-03-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-8123"
+original_published_date: "2022-03-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-8123"
+entry_into_force_date: "2022-03-28"
+jci_1_3: "jci1.3:c:BWBR0046469&z=2022-03-28&g=2022-03-28"
+jci_1_0: "1.0:c:BWBR0046469&g=2022-03-28"
+citeertitel_status: "redactioneel"
+entry_into_force: "2022-03-28"
 ---
-
 # Controleprotocol nacalculatie 2021 Wlz-zorgaanbieders
 
 Versie 2, maart 2022
 
-#### Artikel 1. Inleiding
+##### Artikel 1. Inleiding
 
 De zorgaanbieder verantwoordt in de nacalculatie-opgave 2021 de totaal financieel gerealiseerde productie over 2021, de totaal financiële realisatie overige onderdelen over 2021 en de totaal gerealiseerde lumpsum kwaliteitsbudget verpleeghuiszorg 2021.
 
@@ -128,7 +150,7 @@ In sommige situaties komt het voor dat een zorgkantoor nog correcties doorvoert 
 
 Deze correcties vallen buiten de scope van de assurance-opdracht van de accountant en zijn te beschouwen als ‘andere informatie’. Overeenkomstig Standaard 720.14 dient de accountant te overwegen of er (1) een inconsistentie van materieel belang bestaat tussen deze correcties in het ondertekeningsdocument ‘Ondertekening Langdurige zorg nacalculatie 2021’ en de correcties in de nacalculatie-opgave 2021 en (2) een inconsistentie van materieel belang bestaat tussen deze correcties opgenomen in de nacalculatie-opgave 2021 en de kennis van de accountant verkregen tijdens de controle van de nacalculatie-opgave 2021.
 
-#### Artikel 2. Procedure onderzoek nacalculatie 2021
+##### Artikel 2. Procedure onderzoek nacalculatie 2021
 
 De procedure van het onderzoek naar de juistheid van de nacalculatie-opgave 2021 ziet er als volgt uit:
 
@@ -146,7 +168,7 @@ Het zorgkantoor/de Wlz-uitvoerder controleert de nacalculatie-opgave 2021 van de
 
 De zorgaanbieder of het zorgkantoor/de Wlz-uitvoerder dient via het aanvragenportaal van de NZa de in paragraaf 1.1 genoemde stukken vóór 1 juni 20228Indien de zorgaanbieder in de nacalculatie-opgave een verantwoording opneemt voor het kwaliteitsbudget verpleeghuiszorg, dan moet de nacalculatie-opgave over 2021 vóór 24 juni 2022 ingediend zijn bij de NZa. in bij de NZa.
 
-#### Artikel 3. Toetsing productie en overige onderdelen
+##### Artikel 3. Toetsing productie en overige onderdelen
 
 Het object van onderzoek voor de accountant bestaat uit de in het ondertekeningsdocument ‘Ondertekening Langdurige zorg nacalculatie 2021’ van de zorgaanbieder opgenomen bedragen voor ‘Totaal financieel gerealiseerde productie over 2021’9Met productie wordt bedoeld de intramurale productie en de productie modulaire zorg. Modulaire zorg kan door een zorgaanbieder gedeclareerd worden voor cliënten die niet in een instelling verblijven. In deze groep vallen bijvoorbeeld: de Wlz-indiceerbaren, cliënten die overbruggingszorg ontvangen, cliënten voor wie het zorgkantoor/de Wlz uitvoerder een modulair pakket thuis (mpt) heeft vastgesteld, cliënten waarbij de modulaire zorg samenhangt met de prestatie logeren en cliënten die een volledig pakket thuis (vpt) ontvangen en waarbij de behandelfunctie via extramurale functies bekostigd wordt. Daarnaast kan modulaire zorg gedeclareerd worden voor cliënten die in een instelling verblijven en waarbij de behandelfunctie via extramurale functies bekostigd wordt.,10Eventuele financiële correcties van de productie door het zorgkantoor vallen buiten de scope van de accountantscontrole. De (correctie op) doorlopende kosten als gevolg van het SARS-CoV-2 virus vallen eveneens buiten de scope van de accountantscontrole (zie ook paragraaf 1.1). en ‘Totaal financiële realisatie overige onderdelen over 2021’ als onderdeel van de nacalculatie-opgave 2021.
 

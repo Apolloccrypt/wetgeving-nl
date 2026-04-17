@@ -1,18 +1,45 @@
 ---
 title: "Arbeidswet 2000 BES"
 identifier: "BWBR0028202"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028202"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028202"
+soort: "wet-BES"
+stam_id: "10693903"
+version_id: "27271152"
+internal_id: "C38529671"
+label_id: "10668954"
+dtd_version: "2.0"
+original_entry_into_force: "2020-11-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028202/2025-01-01/0"
+intitule_bron: "Stb.2010-590"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-07"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2020-496"
+original_signed_date: "2020-11-25"
+original_published_date: "2020-12-04"
+original_effect: "structuurwijziging"
+original_dossier: "35494"
+original_url_id: "stb-2020-496"
+entry_into_force_date: "2020-11-25"
+entry_into_force_dossier: "35494"
+jci_1_3: "jci1.3:c:BWBR0028202&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0028202&g=2025-01-01"
+citeertitel_status: "officieel"
+signed_date: "2020-11-25"
+entry_into_force: "2020-11-25"
 ---
-
 # Arbeidswet 2000 BES
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. Deze wet en de daarop berustende bepalingen zijn van toepassing op het verrichten en het laten verrichten van arbeid.
 
@@ -38,7 +65,7 @@ bron: "https://wetten.overheid.nl/BWBR0028202"
 
 - j. door personen van 18 jaar of ouder, die ambtenaar zijn in de zin van de [Ambtenarenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215) of van wie de arbeidsvoorwaarden bij of krachtens wettelijke regeling door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties dienen te worden goedgekeurd.
 
-#### Artikel 2
+##### Artikel 2
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -70,31 +97,31 @@ bron: "https://wetten.overheid.nl/BWBR0028202"
 
 - h. **rustdag:** de zondag dan wel de dag die voor de werknemer, die op zondag schemawerk verricht, volgens zijn werkrooster voor de zondag in de plaats komt. Onze Minister is bevoegd desverzocht te bepalen, dat voor de belijder van een godsdienst, die een andere wekelijkse rustdag voorschrijft dan de zondag, de voorgeschreven dag voor de toepassing van deze wet in de plaats treedt van de zondag.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Deze wet is niet van toepassing op werknemers van wie het bruto jaarinkomen meer bedraagt dan 260 maal het dagloon, bedoeld in [artikel 5, tweede lid, van de Wet ziekteverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=5).
 
 2. Voor de toepassing van deze wet en de daarop berustende bepalingen wordt onder inkomen verstaan: alle inkomsten uit arbeid in één onderneming, waaronder mede begrepen het naar tijdruimte vastgestelde loon, het vakantiegeld, provisie en winstbonussen en dergelijke, die als grondslag dienen voor de inkomstenbelasting, met uitzondering van de vergoeding voor overwerk en de toeslag, bedoeld in [artikel 11, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=11&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 4
+##### Artikel 4
 
 Het is verboden arbeid te laten verrichten in strijd met de bepalingen van deze wet of de daarop berustende bepalingen.
 
-#### Artikel 5
+##### Artikel 5
 
 De ouder of de voogd van het kind dat of de jeugdige die onder zijn ouderlijke macht respectievelijk voogdij staat, dan wel het hoofd van het gezin, waarin het kind of de jeugdige wordt opgevoed, zorgt ervoor dat het betreffende kind of de betreffende jeugdige geen arbeid verricht die bij of krachtens deze wet wordt verboden.
 
-#### Artikel 6
+##### Artikel 6
 
 Voor de toepassing van deze wet en de daarop berustende bepalingen kunnen meerdere werkgevers jegens de werknemer als één werkgever worden aangemerkt door Onze Minister, indien de eigendom van de ondernemingen grotendeels in handen is van dezelfde natuurlijke persoon of rechtspersoon, dan wel indien de feitelijke bestuursbevoegdheid of enige vorm van leiding in handen is van dezelfde natuurlijke persoon of rechtspersoon.
 
-#### Artikel 7
+##### Artikel 7
 
 Van het bepaalde bij of krachtens deze wet kan niet ten nadele van de werknemer worden afgeweken, tenzij dit uitdrukkelijk in de wet bepaald is.
 
 ### Hoofdstuk 2. Algemene bepalingen ten aanzien van de arbeidsduur, werktijden en rusttijden
 
-#### Artikel 8
+##### Artikel 8
 
 1. De arbeidsduur bedraagt ten hoogste 40 uur per week, berekend over een periode van vier weken, met dien verstande dat de arbeidsduur per dag niet meer dan tien uur bedraagt.
 
@@ -104,7 +131,7 @@ Van het bepaalde bij of krachtens deze wet kan niet ten nadele van de werknemer 
 
 4. Bij collectieve arbeidsovereenkomst kan van het eerste en tweede lid worden afgeweken.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Als rusttijd geldt:
 
@@ -130,7 +157,7 @@ Van het bepaalde bij of krachtens deze wet kan niet ten nadele van de werknemer 
 
 4. Het is verboden de werknemer arbeid te laten verrichten gedurende de voor hem geldende rusttijd, anders dan bij wijze van overwerk.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De arbeidstijd van een werknemer moet op elke dag waarop hij, al dan niet bij wijze van overwerk, meer dan zes uren arbeid verricht, na ten hoogste vijf uren arbeid worden onderbroken door een pauze van tenminste een half uur.
 
@@ -138,7 +165,7 @@ Van het bepaalde bij of krachtens deze wet kan niet ten nadele van de werknemer 
 
 3. Een onderbreking van de arbeidstijd van minder dan 15 minuten geldt niet als pauze.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Onder consignatie wordt voor de toepassing van deze wet verstaan: een tijdruimte tussen twee elkaar opeenvolgende diensten of tijdens een pauze, waarin de werknemer verplicht is bereikbaar te zijn om in geval van onvoorziene omstandigheden op oproep zo spoedig mogelijk de bedongen arbeid te verrichten.
 
@@ -164,7 +191,7 @@ Van het bepaalde bij of krachtens deze wet kan niet ten nadele van de werknemer 
 
 10. Onze Minister is bevoegd het opleggen van consignatiedienst aan een of meer werknemers in een onderneming te verbieden, dan wel daaraan nadere voorwaarden te verbinden of beperkingen te stellen indien hem dat met het oog op de gezondheid of het welzijn van de betrokken werknemer of werknemers wenselijk voorkomt.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Er is sprake van nachtdienst, indien de werknemer, die schemawerk verricht, volgens zijn werkrooster arbeid verricht op of na 0.00 uur of voor 6.00 uur, anders dan bij wijze van overwerk.
 
@@ -184,13 +211,13 @@ Van het bepaalde bij of krachtens deze wet kan niet ten nadele van de werknemer 
 
 6. Bij collectieve arbeidsovereenkomst kan van het tweede en derde lid worden afgeweken.
 
-#### Artikel 13
+##### Artikel 13
 
 Indien de werknemer in opdracht van de werkgever zijn werkzaamheden moet aanvangen op een tijdstip dat meer dan een uur afwijkt van de voor de werknemer geldende of gebruikelijke werktijd als aangegeven op de arbeidslijst bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=8&artikel=28&z=2025-01-01&g=2025-01-01), dan wel indien de werkgever voorziet dat de werknemer langer zal moeten werken dan de op die lijst aangeven arbeidsduur of dat van de op die lijst aangegeven tijdstippen zal moeten worden afgeweken anders dan bij wijze van overwerk, is de werkgever verplicht die opdracht tenminste twee maal 24 uren voorafgaand aan dat afwijkende tijdstip aan de werknemer kenbaar te maken.
 
 ### Hoofdstuk 3. Overwerk
 
-#### Artikel 14
+##### Artikel 14
 
 1. De arbeidsduur, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=8&z=2025-01-01&g=2025-01-01), bedraagt inclusief overwerk ten hoogste 50 uren per week, berekend over een periode van vier weken, met dien verstande dat de arbeidsduur inclusief overwerk per dag niet meer dan 11 uren bedraagt en de arbeidsduur inclusief overwerk berekend over een periode van 13 weken niet meer dan 45 uren per week bedraagt.
 
@@ -206,7 +233,7 @@ Indien de werknemer in opdracht van de werkgever zijn werkzaamheden moet aanvang
 
 7. Bij collectieve arbeidsovereenkomst kan van het eerste, tweede en derde lid worden afgeweken.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Voor verricht overwerk ontvangt de werknemer per uur, naast het voor hem geldende volle uurloon, een overwerktoeslag van tenminste 50 percent van zijn uurloon ter compensatie.
 
@@ -234,7 +261,7 @@ Indien de werknemer in opdracht van de werkgever zijn werkzaamheden moet aanvang
 
 6. Bij schriftelijke overeenkomst kan worden overeengekomen dat de in dit artikel bedoelde compensatie voor overwerk geheel of gedeeltelijk in betaald verlof plaatsvindt op voet van de in het eerste tot en met het derde lid genoemde toeslagen.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Indien de werkgever de werknemer oproept overwerk te verrichten op een dag, waarop hij geen arbeid verricht, wordt het overwerk geacht tenminste drie uren te duren.
 
@@ -244,17 +271,17 @@ Indien de werknemer in opdracht van de werkgever zijn werkzaamheden moet aanvang
 
 4. Een opdracht tot het verrichten van overwerk wordt door de werkgever zo tijdig mogelijk aan de werknemer gegeven. Bij het geven van een opdracht tot overwerk dient de werkgever de belangen van de werknemer zo veel mogelijk in acht te nemen.
 
-#### Artikel 17
+##### Artikel 17
 
 Onze Minister is bevoegd het laten verrichten van overwerk binnen een bepaalde onderneming, al dan niet ten aanzien van een bepaalde werknemer of groep van werknemers, te verbieden, aan een maximum omvang te verbinden of hieraan voorwaarden te verbinden, indien hem dat met het oog op de gezondheid of het welzijn van die werknemer of werknemers wenselijk voorkomt, dan wel indien hij oordeelt, dat de behoefte aan overwerk binnen die onderneming het gevolg is van een structureel tekort aan werknemers binnen die onderneming.
 
 ### Hoofdstuk 3A. Arbeid door zwangere en bevallen werkneemsters
 
-#### Artikel 18
+##### Artikel 18
 
 Het is verboden kinderen, al dan niet tegen betaling en al dan niet op grond van een arbeidsovereenkomst, arbeid te laten verrichten.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Voor de toepassing van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=4&artikel=18&z=2025-01-01&g=2025-01-01) wordt onder arbeid mede verstaan alle werkzaamheden buiten een onderneming, met uitzondering van werkzaamheden:
 
@@ -274,7 +301,7 @@ Het is verboden kinderen, al dan niet tegen betaling en al dan niet op grond van
 
 ### Hoofdstuk 5. Arbeid door jeugdigen
 
-#### Artikel 20
+##### Artikel 20
 
 Het is verboden om jeugdigen arbeid te laten verrichten in de tijd tussen:
 
@@ -282,7 +309,7 @@ Het is verboden om jeugdigen arbeid te laten verrichten in de tijd tussen:
 
 - b. 23.00 uur en 6.00 uur voor zover het gaat om een 16- of 17-jarige.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Het is verboden jeugdigen gevaarlijke arbeid te laten verrichten.
 
@@ -290,7 +317,7 @@ Het is verboden om jeugdigen arbeid te laten verrichten in de tijd tussen:
 
 ### Hoofdstuk 6. Feestdagen
 
-#### Artikel 22
+##### Artikel 22
 
 1. De werknemer behoudt over een feestdag aanspraak op tenminste het loon dat hij op die dag gedurende de voor hem geldende normale arbeidstijd zou hebben verdiend, indien die dag geen feestdag zou zijn.
 
@@ -300,7 +327,7 @@ Het is verboden om jeugdigen arbeid te laten verrichten in de tijd tussen:
 
 4. De vergoeding van één of meer feestdagen mag niet in de vorm van een opslag op het loon worden uitgekeerd.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaan onder feestdag:
 
@@ -336,7 +363,7 @@ Het is verboden om jeugdigen arbeid te laten verrichten in de tijd tussen:
 
 ### Hoofdstuk 7. Bijzondere bepalingen
 
-#### Artikel 24
+##### Artikel 24
 
 1. In afwijking van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=8&z=2025-01-01&g=2025-01-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=3&artikel=14&z=2025-01-01&g=2025-01-01) kan Onze Minister op een daartoe strekkend verzoek bij beschikking de arbeidsduur inclusief overwerk voor een onderneming voor een bepaalde tijd vaststellen op ten hoogste 60 uren per week, berekend over een periode van vier weken, voor zover dit voor die onderneming, gezien de bijzondere omstandigheden van het geval, noodzakelijk is voor een gezonde bedrijfsvoering.
 
@@ -344,7 +371,7 @@ Het is verboden om jeugdigen arbeid te laten verrichten in de tijd tussen:
 
 3. Wijzigingen in de werktijden, rusttijden en arbeidsduur in een onderneming, waarvoor een beschikking, bedoeld in het eerste lid, geldt, alsmede alle andere relevante wijzigingen in de bedrijfsvoering, worden niet doorgevoerd zonder voorafgaande schriftelijke goedkeuring van Onze Minister. Onze Minister kan aan zijn goedkeuring nadere voorwaarden verbinden.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Op huishoudelijk werk of persoonlijke diensten, verricht in dienst van een natuurlijke persoon in de huishouding van die persoon, zijn de [artikelen 8 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=8&z=2025-01-01&g=2025-01-01) niet van toepassing, met dien verstande dat ten aanzien van de werknemer, die bedoelde arbeid verricht, geldt dat:
 
@@ -364,7 +391,7 @@ Het is verboden om jeugdigen arbeid te laten verrichten in de tijd tussen:
 
 2. De verplichtingen bedoeld in de [artikelen 28 tot en met 30](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=8&artikel=28&z=2025-01-01&g=2025-01-01), zijn niet van toepassing op de natuurlijke persoon, bedoeld in het eerste lid.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Voor de toepassing van dit artikel wordt verstaan onder arbeid in een vol-continu bedrijf: arbeid, die niet uitsluitend een ondersteunend karakter draagt, en die wordt verricht in een onderneming waarbinnen naar de aard van het bedrijfs- of productieproces gedurende 24 uur per dag zonder onderbreking arbeid dient te worden verricht.
 
@@ -386,13 +413,13 @@ Het is verboden om jeugdigen arbeid te laten verrichten in de tijd tussen:
 
 4. Niettegenstaande het bepaalde in het tweede lid is Onze Minister bevoegd ten aanzien van een werknemer of een groep van werknemers, die in een bepaalde onderneming arbeid als bedoeld in het eerste lid verrichten, aanvullende voorwaarden te verbinden ten aanzien van de arbeidsduur, de arbeidsduur inclusief overwerk, de werktijden, de pauze en de rusttijden, indien hem dat met het oog op de gezondheid of het welzijn van die werknemer of groep van werknemers wenselijk voorkomt.
 
-#### Artikel 27
+##### Artikel 27
 
 Bij algemene maatregel van bestuur kunnen ten aanzien van een bepaalde bedrijfstak of ten aanzien van een bepaalde soort arbeid nadere of afwijkende regels worden gesteld ten aanzien van de [artikelen 8 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=8&z=2025-01-01&g=2025-01-01).
 
 ### Hoofdstuk 8. Administratieve bepalingen
 
-#### Artikel 28
+##### Artikel 28
 
 1. In de onderneming wordt op een plaats, die vrij toegankelijk is voor de betrokken werknemers, een arbeidslijst op zodanige wijze opgehangen, dat daarvan gemakkelijk kennis kan worden genomen. De arbeidslijst geeft een systematisch overzicht van de verschillende binnen de onderneming aanwezige functies en het daarbij begrote personeelsbestand, alsmede van de binnen de onderneming gehanteerde werktijden of werkroosters en van de binnen de onderneming geldende rusttijden.
 
@@ -408,27 +435,27 @@ Bij algemene maatregel van bestuur kunnen ten aanzien van een bepaalde bedrijfst
 
 5. Bij algemene maatregel van bestuur kunnen nadere regels gesteld worden waaraan de arbeidslijst dient te voldoen.
 
-#### Artikel 29
+##### Artikel 29
 
 De werkgever overlegt op verzoek van Onze Minister een personeelsregister, waarin de namen, geboortedata en nationaliteiten van de werknemers in de onderneming vermeld staan. Van werknemers, die niet van rechtswege zijn toegelaten in het openbaar lichaam Bonaire, Sint Eustatius of Saba, wordt het nummer en de datum van afgifte van de verblijfsvergunning vermeld.
 
-#### Artikel 30
+##### Artikel 30
 
 De werkgever overlegt op verzoek van Onze Minister een register van het binnen zijn onderneming verrichte overwerk over ten hoogste de afgelopen twaalf maanden. Het register geeft een overzicht van de namen van de werknemers, die overwerk hebben verricht, de data waarop het overwerk is verricht, de duur van het verrichte overwerk per werknemer en de voor het overwerk gegeven compensatie.
 
 ### Hoofdstuk 8. Administratieve bepalingen
 
-#### Artikel 31
+##### Artikel 31
 
 [vervallen]
 
-#### Artikel 32
+##### Artikel 32
 
 [vervallen]
 
 ### Hoofdstuk 10
 
-#### Artikel 33
+##### Artikel 33
 
 1. De werkgever draagt er zorg voor, dat in de onderneming geen arbeid wordt verricht in strijd met het bepaalde bij of krachtens deze wet. Tevens draagt de werkgever er zorg voor, dat de voorwaarden, die door Onze Minister krachtens deze wet worden gesteld, nageleefd worden.
 
@@ -438,7 +465,7 @@ De werkgever overlegt op verzoek van Onze Minister een register van het binnen z
 
 4. De werkgever dan wel het toezichthoudend personeel worden geacht aan de verplichtingen als bedoeld in het eerste respectievelijk derde lid te hebben voldaan, indien zij aantonen dat door hen de nodige bevelen zijn gegeven, de nodige maatregelen zijn genomen, de nodige middelen zijn verschaft en tevens het redelijkerwijze te vorderen toezicht is gehouden om de naleving te verzekeren van de bepalingen, voor de naleving waarvan zij verplicht zijn zorg te dragen.
 
-#### Artikel 34
+##### Artikel 34
 
 1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de door Onze Minister aangewezen ambtenaren.
 
@@ -462,13 +489,13 @@ De werkgever overlegt op verzoek van Onze Minister een register van het binnen z
 
 7. Een ieder is verplicht de in het eerste lid bedoelde ambtenaren en personen alle medewerking te verlenen die op grond van het vierde lid wordt gevorderd.
 
-#### Artikel 35
+##### Artikel 35
 
 Een ieder die betrokken is bij de uitvoering van deze wet en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding van die gegevens, behoudens voor zover enig wettelijk voorschrift hem tot mededeling verplicht of uit zijn taak de noodzaak tot mededeling voortvloeit.
 
 ### Hoofdstuk 10
 
-#### Artikel 36
+##### Artikel 36
 
 1. Hij, die opzettelijk de [artikelen 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=8&z=2025-01-01&g=2025-01-01), [9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=9&z=2025-01-01&g=2025-01-01), [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=10&z=2025-01-01&g=2025-01-01), [11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=11&z=2025-01-01&g=2025-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=4&artikel=18&z=2025-01-01&g=2025-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=5&artikel=20&z=2025-01-01&g=2025-01-01) of [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=5&artikel=21&z=2025-01-01&g=2025-01-01), overtreedt, wordt gestraft met een gevangenisstraf van ten hoogste vier jaren, een geldboete van de vijfde categorie of met beide straffen.
 
@@ -478,27 +505,27 @@ Een ieder die betrokken is bij de uitvoering van deze wet en daarbij de beschikk
 
 ### Hoofdstuk 12. Overgangs- en slotbepalingen
 
-#### Artikel 37 t/m 41
+##### Artikel 37 t/m 41
 
 [Vervallen]
 
-#### Artikel 42
+##### Artikel 42
 
 Alle ten gevolge van deze wet opgemaakte, overgelegde en over te leggen stukken zijn vrij van zegel en worden, indien registratie verplicht is gesteld, kosteloos geregistreerd.
 
-#### Artikel 43
+##### Artikel 43
 
 [vervallen]
 
-#### Artikel 44
+##### Artikel 44
 
 [vervallen]
 
-#### Artikel 45
+##### Artikel 45
 
 Deze wet wordt aangehaald als: Arbeidswet 2000 BES.
 
-#### Artikel 17a. Arbeid in de nacht
+##### Artikel 17a. Arbeid in de nacht
 
 1. De zwangere werkneemster kan niet worden verplicht arbeid te verrichten tussen 00.00 uur en 06.00 uur, tenzij de werkgever aannemelijk maakt dat dit redelijkerwijs niet van hem kan worden gevergd.
 
@@ -506,7 +533,7 @@ Deze wet wordt aangehaald als: Arbeidswet 2000 BES.
 
 3. Het eerste lid is van overeenkomstige toepassing ten aanzien van een werkneemster gedurende de periode van zes maanden na haar bevalling.
 
-#### Artikel 17b. Arbeid in periode rond de bevalling
+##### Artikel 17b. Arbeid in periode rond de bevalling
 
 De werkgever organiseert de arbeid zodanig, dat een werkneemster:
 
@@ -514,7 +541,7 @@ De werkgever organiseert de arbeid zodanig, dat een werkneemster:
 
 - b. geen arbeid verricht binnen zes weken na haar bevalling.
 
-#### Artikel 17c. Recht op voed- en kolfverlof
+##### Artikel 17c. Recht op voed- en kolfverlof
 
 1. Een werkneemster die een borstkind voedt, heeft, indien zij de werkgever hiervan in kennis heeft gesteld, gedurende de eerste negen levensmaanden van dat kind het recht de arbeid te onderbreken teneinde in de nodige rust en afzondering haar kind te zogen dan wel de borstvoeding te kolven. De werkgever biedt haar daartoe de gelegenheid en stelt, waar nodig, een geschikte af te sluiten besloten ruimte ter beschikking.
 

@@ -1,13 +1,39 @@
 ---
-title: "Besluit machtiging P-Direkt (Minister van Sociale Zaken en Werkgelegenheid)"
+title: "Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 2 november 2009, nr. BV/TPD/2009/17708, tot het verlenen van machtiging aan P-Direkt"
 identifier: "BWBR0026622"
-categorie: "Sociaal recht"
-publicatiedatum: 2009-11-12
-laatste_update: 2009-11-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026622"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2009-11-12"
+last_updated: "2009-11-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026622"
+soort: "ministeriele-regeling"
+stam_id: "10271503"
+version_id: "16811422"
+internal_id: "C23142841"
+label_id: "10246944"
+dtd_version: "2.0"
+original_entry_into_force: "2009-11-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026622/2009-11-12/0"
+intitule_bron: "Stcrt.2009-16845"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-11-02"
+intitule_published: "2009-11-10"
+intitule_in_force: "2009-11-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-16845"
+original_signed_date: "2009-11-02"
+original_published_date: "2009-11-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-16845"
+entry_into_force_date: "2009-11-12"
+jci_1_3: "jci1.3:c:BWBR0026622&z=2009-11-12&g=2009-11-12"
+jci_1_0: "1.0:c:BWBR0026622&g=2009-11-12"
+citeertitel_status: "redactioneel"
+short_title: "Besluit machtiging P-Direkt (Minister van Sociale Zaken en Werkgelegenheid)"
+signed_date: "2009-11-02"
+entry_into_force: "2009-11-12"
 ---
-
 # Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 2 november 2009, nr. BV/TPD/2009/17708, tot het verlenen van machtiging aan P-Direkt
 
 Handelend in overeenstemming met het Kabinetsbesluit van 4 juli 2003 tot oprichting van een Shared Service Center HRM voor Personeelsregistratie en Salarisadministratie;
@@ -16,7 +42,7 @@ Gelet op [artikel 10:12 van de Algemene wet bestuursrecht](https://wetten.overhe
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -28,7 +54,7 @@ In dit besluit wordt verstaan onder:
 
 - d. **machtiging:** de bevoegdheid om in naam van de minister handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De directeur P-Direkt wordt gemachtigd tot het verrichten van feitelijke handelingen die verband houden met de dienstverlening van P-Direkt aan het ministerie.
 
@@ -48,25 +74,25 @@ In dit besluit wordt verstaan onder:
 
 4. Voor de toepassing van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252) worden documenten die betrekking hebben op het ministerie en die berusten bij P-Direkt geacht te berusten bij het ministerie. De directeur P-Direkt heeft geen machtiging namens de minister verzoeken in het kader van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252) zonder tussenkomst van of namens de minister te behandelen.
 
-#### Artikel 3
+##### Artikel 3
 
 De uitoefening van de machtiging, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026622&artikel=2&z=2009-11-12&g=2009-11-12), geschiedt met inachtneming van de van toepassing zijnde wet- en regelgeving en richtlijnen.
 
-#### Artikel 4
+##### Artikel 4
 
 De directeur P-Direkt kan met betrekking tot zijn bevoegdheden, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026622&artikel=2&z=2009-11-12&g=2009-11-12), machtiging verlenen aan één of meer onder hem ressorterende functionarissen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De machtiging geldt voor de duur van de dienstverlening van P-Direkt aan het ministerie.
 
 2. De uitoefening van de machtiging vindt plaats vanaf de datum waarop het ministerie gebruik maakt van de dienstverlening van P-Direkt.
 
-#### Artikel 6
+##### Artikel 6
 
 De machtiging die is verleend aan het Facilitair SalarisCentrum ten behoeve van salarisbetalingen aan ambtenaren van het ministerie wordt vanaf het tijdstip van inwerkingtreding van dit besluit geacht te zijn verleend aan P-Direkt.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Dit besluit zal in de Staatscourant worden gepubliceerd.
 

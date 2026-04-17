@@ -1,22 +1,46 @@
 ---
 title: "Besluit Stichting ICTU"
 identifier: "BWBR0012579"
-categorie: "Overig"
-publicatiedatum: 2001-08-01
-laatste_update: 2001-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012579"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2001-08-01"
+last_updated: "2001-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012579"
+soort: "ministeriele-regeling"
+stam_id: "4298693"
+version_id: "6061442"
+internal_id: "C6265051"
+label_id: "4277274"
+dtd_version: "2.0"
+original_entry_into_force: "2001-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012579/2001-08-01/0"
+intitule_bron: "Stcrt.2001-118"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-06-15"
+intitule_published: "2001-06-22"
+intitule_in_force: "2001-06-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2001-118"
+original_signed_date: "2001-06-15"
+original_published_date: "2001-06-22"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2001-08-01"
+jci_1_3: "jci1.3:c:BWBR0012579&z=2001-08-01&g=2001-08-01"
+jci_1_0: "1.0:c:BWBR0012579&g=2001-08-01"
+citeertitel_status: "officieel"
+signed_date: "2001-06-15"
+entry_into_force: "2001-08-01"
 ---
-
 # Besluit Stichting ICTU
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit Besluit wordt verstaan onder:
 
-#### Artikel 2
+##### Artikel 2
 
 1. De minister verstrekt in 2001 een eenmalige startbijdrage van f 4.000.000,- aan de stichting.
 
@@ -38,7 +62,7 @@ In dit Besluit wordt verstaan onder:
 
 10. Op de verstrekking van de startbijdrage zijn verder van toepassing de voorwaarden zoals die worden omschreven in de statuten van de stichting en in het Overdrachtsprotocol ten behoeve van de overgang van ICT-programma's en programmabureaus naar de Stichting ICTU dat zal worden afgesloten tussen de minister en de stichting.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De minister verstrekt een eenmalige overbruggingsbijdrage van f 6.500.000,- aan de stichting.
 
@@ -60,6 +84,6 @@ In dit Besluit wordt verstaan onder:
 
 10. Op de verstrekking van de overbruggingsbijdrage zijn verder van toepassing de voorwaarden zoals die worden omschreven in de statuten van de stichting en in het Overdrachtsprotocol ten behoeve van de overgang van ICT-programma's en programmabureaus naar de Stichting ICTU dat zal worden afgesloten tussen de minister en de stichting.
 
-#### Artikel 4
+##### Artikel 4
 
 [Afdeling 4.2.8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.8) is niet van toepassing op de in de [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012579&artikel=3&z=2001-08-01&g=2001-08-01) genoemde overbruggingsbijdrage.

@@ -1,13 +1,38 @@
 ---
 title: "Inkomstenbelasting, schenk- en erfbelasting; diverse tegemoetkomingen bij bijzondere gebeurtenissen"
 identifier: "BWBR0026373"
-categorie: "Belastingrecht"
-publicatiedatum: 2018-12-18
-laatste_update: 2018-12-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026373"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2018-12-18"
+last_updated: "2018-12-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026373"
+soort: "beleidsregel"
+stam_id: "10175243"
+version_id: "16649262"
+internal_id: "C22920541"
+label_id: "10151684"
+dtd_version: "2.0"
+original_entry_into_force: "2009-09-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026373/2018-12-18/0"
+intitule_bron: "Stcrt.2018-68650"
+intitule_effect: "wijziging"
+intitule_signed: "2018-11-26"
+intitule_published: "2018-12-17"
+intitule_in_force: "2018-12-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-13657"
+original_signed_date: "2009-09-07"
+original_published_date: "2009-09-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-13657"
+entry_into_force_date: "2009-09-15"
+jci_1_3: "jci1.3:c:BWBR0026373&z=2018-12-18&g=2018-12-18"
+jci_1_0: "1.0:c:BWBR0026373&g=2018-12-18"
+citeertitel_status: "redactioneel"
+signed_date: "2009-09-07"
+entry_into_force: "2009-09-15"
 ---
-
 # Inkomstenbelasting, schenk- en erfbelasting; diverse tegemoetkomingen bij bijzondere gebeurtenissen
 
 Dit besluit beschrijft de fiscale gevolgen van tegemoetkomingen bij bijzondere gebeurtenissen zoals oorlogen en rampen (zoals de nieuwjaarsbrand in Volendam) en de fiscale gevolgen voor asbestslachtoffers. Dit besluit vervangt het [besluit van 13 februari 2007, nr. CPP2007/289M](https://wetten.overheid.nl/jci1.3:c:BWBR0021301).

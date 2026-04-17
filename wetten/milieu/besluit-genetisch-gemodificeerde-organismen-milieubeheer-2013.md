@@ -1,13 +1,39 @@
 ---
-title: "Besluit genetisch gemodificeerde organismen milieubeheer 2013"
+title: "Besluit van 1 april 2014, houdende regels met betrekking tot het ingeperkt gebruik en de doelbewuste introductie in het milieu van genetisch gemodificeerde organismen (Besluit genetisch gemodificeerde organismen milieubeheer 2013)"
 identifier: "BWBR0035090"
-categorie: "Milieu"
-publicatiedatum: 2024-05-18
-laatste_update: 2024-05-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035090"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-05-18"
+last_updated: "2024-05-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035090"
+soort: "AMvB"
+stam_id: "12664573"
+version_id: "21396802"
+internal_id: "C31730821"
+label_id: "12636654"
+dtd_version: "2.0"
+original_entry_into_force: "2015-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035090/2024-05-18/0"
+intitule_bron: "Stb.2014-157"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-04-01"
+intitule_published: "2014-04-30"
+intitule_in_force: "2015-02-05"
+intitule_status: "goed"
+original_publication: "Stb.2014-157"
+original_signed_date: "2014-04-01"
+original_published_date: "2014-04-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2014-157"
+entry_into_force_date: "2015-03-01"
+jci_1_3: "jci1.3:c:BWBR0035090&z=2024-05-18&g=2024-05-18"
+jci_1_0: "1.0:c:BWBR0035090&g=2024-05-18"
+citeertitel_status: "officieel"
+short_title: "Besluit genetisch gemodificeerde organismen milieubeheer 2013"
+signed_date: "2014-04-01"
+entry_into_force: "2015-03-01"
 ---
-
 # Besluit van 1 april 2014, houdende regels met betrekking tot het ingeperkt gebruik en de doelbewuste introductie in het milieu van genetisch gemodificeerde organismen (Besluit genetisch gemodificeerde organismen milieubeheer 2013)
 
 Op de voordracht van de Staatssecretaris van Infrastructuur en Milieu van 29 juni 2012 nr. IENM/BSK-2012/120140, gedaan in overeenstemming met Onze Staatssecretaris van Economische Zaken, Landbouw en Innovatie;
@@ -32,7 +58,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1
+##### Artikel 1.1
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder genetisch gemodificeerd organisme: organisme, met uitzondering van menselijke wezens, waarvan het genetisch materiaal is veranderd op een wijze die van nature niet mogelijk is door voortplanting of natuurlijke recombinatie.
 
@@ -40,17 +66,17 @@ Hebben goedgevonden en verstaan:
 
 3. Als genetisch gemodificeerd organisme worden niet aangemerkt organismen die zijn verkregen door middel van technieken als genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&bijlage=2&z=2024-05-18&g=2024-05-18).
 
-#### Artikel 1.2
+##### Artikel 1.2
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder ingeperkt gebruik: elke activiteit waarbij genetisch gemodificeerde organismen worden vervaardigd, in Nederland ingevoerd, toegepast, vervoerd, vernietigd of vermeerderd, dan wel waarbij het betreft het voorhanden hebben, aan een ander ter beschikking stellen of zich ontdoen van genetisch gemodificeerde organismen, indien bij die activiteit inperkingsmaatregelen worden gebruikt.
 
-#### Artikel 1.3
+##### Artikel 1.3
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder doelbewuste introductie: het op enigerlei wijze opzettelijk in het milieu brengen van een genetisch gemodificeerd organisme of een combinatie van genetisch gemodificeerde organismen zonder dat inperkingsmaatregelen aanwezig zijn of worden toegepast.
 
 2. Onder «doelbewuste introductie» worden in elk geval mede verstaan het vervaardigen, in Nederland invoeren, toepassen, voorhanden hebben, aan een ander ter beschikking stellen, vervoeren, zich ontdoen, vernietigen en vermeerderen van een genetisch gemodificeerde organisme of een combinatie van genetisch gemodificeerde organismen.
 
-#### Artikel 1.4
+##### Artikel 1.4
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -72,7 +98,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder ingeperkt
 
 2. Bij een aanwijzing als bedoeld in het eerste lid, onder c, kan Onze Minister bepalen dat een product slechts als een toegelaten product wordt aangemerkt, indien het product mede in overeenstemming met door Onze Minister gestelde eisen in de handel is gebracht.
 
-#### Artikel 1.5
+##### Artikel 1.5
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -138,7 +164,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder ingeperkt
 
 5. Onder «besluiten of aanbevelingen van de Raad van de Europese Unie of van de Europese Commissie» worden mede verstaan beschikkingen of adviezen van de Raad van de Europese Unie of van de Europese Commissie. Onder «besluit van de Raad van de Europese Unie of van de Europese Commissie» wordt mede verstaan een beschikking van de Raad van de Europese Unie of van de Europese Commissie.
 
-#### Artikel 1.6
+##### Artikel 1.6
 
 Onze Minister stelt regels met betrekking tot het vervoeren van:
 
@@ -148,7 +174,7 @@ Onze Minister stelt regels met betrekking tot het vervoeren van:
 
 - c. organismen, niet zijnde een micro-organisme, in associatie met een genetisch gemodificeerd micro-organisme.
 
-#### Artikel 1.7
+##### Artikel 1.7
 
 1. De [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=2&z=2024-05-18&g=2024-05-18), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=3&z=2024-05-18&g=2024-05-18) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=4&z=2024-05-18&g=2024-05-18) zijn niet van toepassing op:
 
@@ -158,7 +184,7 @@ Onze Minister stelt regels met betrekking tot het vervoeren van:
 
 2. In afwijking van het eerste lid zijn van toepassing op het vervoeren van een toegelaten product door de houder van een vergunning krachtens [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=4&z=2024-05-18&g=2024-05-18): de aan die vergunning verbonden voorschriften, voor zover deze betrekking hebben op het vervoer.
 
-#### Artikel 1.8
+##### Artikel 1.8
 
 1. Degene die genetisch gemodificeerde organismen aan een ander ter beschikking stelt, draagt er zorg voor dat op het etiket van de verpakking van of het bijgevoegde document bij de genetisch gemodificeerde organismen duidelijk zichtbaar is aangegeven dat het genetisch gemodificeerde organismen betreft.
 
@@ -170,7 +196,7 @@ Onze Minister stelt regels met betrekking tot het vervoeren van:
 
 3. Onze Minister kan nadere regels stellen met betrekking tot het bepaalde in het eerste en tweede lid.
 
-#### Artikel 1.9
+##### Artikel 1.9
 
 1. Onze Minister maakt het ontwerp van de regels die krachtens dit besluit worden gesteld, bekend in de Staatscourant. Aan eenieder wordt de gelegenheid geboden gedurende een bij die bekendmaking vast te stellen termijn opmerkingen over het ontwerp schriftelijk ter kennis van Onze Minister te brengen.
 
@@ -180,11 +206,11 @@ Onze Minister stelt regels met betrekking tot het vervoeren van:
 
 - b. het ontwerp van de regels naar het oordeel van Onze Minister slechts bepalingen van ondergeschikte betekenis bevat.
 
-#### Artikel 1.10
+##### Artikel 1.10
 
 Onze Minister kan regels stellen over de wijze waarop uitvoering wordt gegeven aan de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&bijlage=1&z=2024-05-18&g=2024-05-18) bij dit besluit, bij [richtlijn 2001/18](32001L0018) of bij [richtlijn 2009/41](32009L0041).
 
-#### Artikel 1.11
+##### Artikel 1.11
 
 Dit besluit en de daarop berustende bepalingen zijn mede van toepassing op activiteiten verricht binnen de exclusieve economische zone.
 
@@ -192,7 +218,7 @@ Dit besluit en de daarop berustende bepalingen zijn mede van toepassing op activ
 
 ## Titel 2.1. Algemene bepalingen inzake ingeperkt gebruik
 
-#### Artikel 2.1
+##### Artikel 2.1
 
 1. Dit hoofdstuk is niet van toepassing op:
 
@@ -212,17 +238,17 @@ Dit besluit en de daarop berustende bepalingen zijn mede van toepassing op activ
 
 - b. de gebruiker van het product daarbij de uit [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=5&artikel=5.1&z=2024-05-18&g=2024-05-18) voortvloeiende verplichtingen in acht neemt.
 
-#### Artikel 2.2
+##### Artikel 2.2
 
 1. Onze Minister stelt ter uitvoering van [richtlijn 2009/41](32009L0041) nadere regels met betrekking tot het ingeperkt gebruik.
 
 2. De regels hebben in elk geval betrekking op de beginselen van de risicobeoordeling en de inperkings- en andere beschermingsmaatregelen als bedoeld in de bijlagen III en IV bij [richtlijn 2009/41](32009L0041).
 
-#### Artikel 2.3
+##### Artikel 2.3
 
 Ingeperkt gebruik van genetisch gemodificeerde organismen is verboden, indien dit geschiedt in afwijking van het bepaalde bij of krachtens deze titel of titel 2.2.
 
-#### Artikel 2.4
+##### Artikel 2.4
 
 1. Als gegevens waarvoor de in [artikel 19.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=19.3) bedoelde bevoegdheid tot het overleggen van een tweede tekst eveneens geldt, worden aangewezen de gegevens die krachtens dit hoofdstuk aan Onze Minister worden overgelegd.
 
@@ -232,11 +258,11 @@ Ingeperkt gebruik van genetisch gemodificeerde organismen is verboden, indien di
 
 ### Afdeling 2.2.1. Risicobeoordeling en toekenning van inperkingsniveaus en van categorieën van fysische inperking
 
-#### Artikel 2.5
+##### Artikel 2.5
 
 De gebruiker maakt voorafgaand aan het ingeperkt gebruik een risicobeoordeling met betrekking tot dat ingeperkt gebruik, overeenkomstig de daartoe door Onze Minister krachtens [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=2&titeldeel=2.1&artikel=2.2&z=2024-05-18&g=2024-05-18) gestelde regels.
 
-#### Artikel 2.6
+##### Artikel 2.6
 
 1. De gebruiker bewaart een verslag van de risicobeoordeling als bedoeld in [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&artikel=2.5&z=2024-05-18&g=2024-05-18) en stelt dit in een passende vorm ter beschikking van Onze Minister, hetzij als onderdeel van een kennisgeving of een aanvraag om een vergunning als bedoeld in deze titel, hetzij op verzoek.
 
@@ -244,13 +270,13 @@ De gebruiker maakt voorafgaand aan het ingeperkt gebruik een risicobeoordeling m
 
 3. De gebruiker verstrekt desverzocht aan Onze Minister binnen de daartoe door Onze Minister gestelde termijn nadere informatie met betrekking tot de risicobeoordeling.
 
-#### Artikel 2.7
+##### Artikel 2.7
 
 1. De risicobeoordeling als bedoeld in [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&artikel=2.5&z=2024-05-18&g=2024-05-18) leidt, overeenkomstig de daartoe door Onze Minister krachtens [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=2&titeldeel=2.1&artikel=2.2&z=2024-05-18&g=2024-05-18) gestelde regels, tot de toekenning van een categorie van fysische inperking en een inperkingsniveau dat de gezondheid van de mens en het milieu passende bescherming biedt, al dan niet tezamen met beschermende maatregelen die bij de risicobeoordeling in de beschouwing zijn betrokken.
 
 2. Het toekennen van een categorie van fysische inperking en een inperkingsniveau geschiedt door de gebruiker met toepassing van door Onze Minister gestelde regels, voor zover elders in dit besluit niet anders is bepaald.
 
-#### Artikel 2.8
+##### Artikel 2.8
 
 1. Indien bij de gebruiker twijfel bestaat omtrent de uitkomst van de risicobeoordeling als bedoeld in [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&artikel=2.5&z=2024-05-18&g=2024-05-18) en omtrent de vraag welk van meer dan één inperkingsniveau passend is voor het voorgestelde ingeperkt gebruik, geldt het hoogste van die inperkingsniveaus, tenzij door Onze Minister desverzocht wordt besloten dat een lager inperkingsniveau, in combinatie met een categorie van fysische inperking, gerechtvaardigd is.
 
@@ -264,7 +290,7 @@ De gebruiker maakt voorafgaand aan het ingeperkt gebruik een risicobeoordeling m
 
 6. Onze Minister beslist binnen 45 dagen op een verzoek als bedoeld in het eerste, tweede of derde lid. De beslissing is een besluit als bedoeld in [artikel 20.3, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=20.3).
 
-#### Artikel 2.9
+##### Artikel 2.9
 
 1. In aanvulling op [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) verstrekt de gebruiker desverzocht aan Onze Minister binnen de daartoe door Onze Minister gestelde termijn nadere informatie ter voorbereiding van het besluit op een verzoek als bedoeld in [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&artikel=2.8&z=2024-05-18&g=2024-05-18).
 
@@ -274,7 +300,7 @@ De gebruiker maakt voorafgaand aan het ingeperkt gebruik een risicobeoordeling m
 
 4. Onze Minister stelt de verzoeker onverwijld op de hoogte van een besluit als bedoeld in het derde lid.
 
-#### Artikel 2.10
+##### Artikel 2.10
 
 1. Bij ministeriële regeling stelt Onze Minister op basis van een door hem uitgevoerde risicobeoordeling een of meer combinaties van lijsten vast, waarbij een combinatie lijsten omvat van:
 
@@ -298,7 +324,7 @@ behoeft met betrekking tot dat ingeperkt gebruik, in afwijking van [artikel 2.5]
 
 5. Het ingeperkt gebruik als bedoeld in het derde en vierde lid geschiedt op inperkingsniveau I in de daarbij aangegeven categorie van fysische inperking, dan wel in een van de daarbij aangegeven categorieën van fysische inperking.
 
-#### Artikel 2.11
+##### Artikel 2.11
 
 1. Bij ministeriële regeling kan Onze Minister op basis van een door hem uitgevoerde risicobeoordeling een lijst vaststellen van:
 
@@ -320,13 +346,13 @@ behoeft met betrekking tot dat ingeperkt gebruik, in afwijking van [artikel 2.5]
 
 4. Het ingeperkt gebruik als bedoeld in het tweede en derde lid geschiedt op inperkingsniveau II in de categorie van fysische inperking ML-II zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&bijlage=4&z=2024-05-18&g=2024-05-18).
 
-#### Artikel 2.12
+##### Artikel 2.12
 
 1. De gebruiker voert onmiddellijk een risicobeoordeling als bedoeld in [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&artikel=2.5&z=2024-05-18&g=2024-05-18) uit indien [artikel 2.10, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&artikel=2.10&z=2024-05-18&g=2024-05-18), of [artikel 2.11, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&artikel=2.11&z=2024-05-18&g=2024-05-18), als gevolg van een wijziging van een lijst, bedoeld in artikel 2.10, eerste lid, onderscheidenlijk artikel 2.11, eerste lid, niet langer van toepassing is op het ingeperkt gebruik.
 
 2. De [artikelen 2.6 tot en met 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&artikel=2.6&z=2024-05-18&g=2024-05-18) zijn van overeenkomstige toepassing.
 
-#### Artikel 2.13
+##### Artikel 2.13
 
 1. De gebruiker kan Onze Minister verzoeken vast te stellen dat een gastheer of vector in aanmerking komt voor opname op een lijst die is vastgesteld op grond van [artikel 2.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&artikel=2.10&z=2024-05-18&g=2024-05-18), onderscheidenlijk [artikel 2.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&artikel=2.11&z=2024-05-18&g=2024-05-18).
 
@@ -346,7 +372,7 @@ behoeft met betrekking tot dat ingeperkt gebruik, in afwijking van [artikel 2.5]
 
 #### § 2.2.2.1. Algemene bepalingen met betrekking tot inperkingsniveau I en II-k
 
-#### Artikel 2.14
+##### Artikel 2.14
 
 1. De gebruiker die ingeperkt gebruik verricht op inperkingsniveau I en II past de categorie van fysische inperking en het inperkingsniveau toe die bij of krachtens dit besluit aan de desbetreffende werkzaamheden zijn toegekend. De gebruiker neemt daarbij de beschermingsmaatregelen in acht die bij de risicobeoordeling in de beschouwing zijn betrokken.
 
@@ -356,7 +382,7 @@ behoeft met betrekking tot dat ingeperkt gebruik, in afwijking van [artikel 2.5]
 
 #### § 2.2.2.2. Nog niet kennisgegeven ingeperkt gebruik op inperkingsniveau I en II-k
 
-#### Artikel 2.15
+##### Artikel 2.15
 
 1. Voorafgaand aan ingeperkt gebruik op inperkingsniveau I of II geeft de gebruiker aan Onze Minister kennis van zijn voornemen om ingeperkt gebruik te verrichten.
 
@@ -368,7 +394,7 @@ behoeft met betrekking tot dat ingeperkt gebruik, in afwijking van [artikel 2.5]
 
 5. Onze Minister tekent de datum van ontvangst aan op de kennisgeving en zendt aan de gebruiker onverwijld een bewijs van ontvangst waarin die datum is vermeld.
 
-#### Artikel 2.16
+##### Artikel 2.16
 
 Met het ingeperkt gebruik op inperkingsniveau I mag worden begonnen op het eerste van de volgende twee tijdstippen:
 
@@ -376,7 +402,7 @@ Met het ingeperkt gebruik op inperkingsniveau I mag worden begonnen op het eerst
 
 - b. de tweede dag na de dag van aangetekende verzending van de kennisgeving.
 
-#### Artikel 2.17
+##### Artikel 2.17
 
 1. Met het ingeperkt gebruik op inperkingsniveau II mag worden begonnen 45 dagen na de datum van ontvangst van de kennisgeving.
 
@@ -392,7 +418,7 @@ Met het ingeperkt gebruik op inperkingsniveau I mag worden begonnen op het eerst
 
 5. De termijn, genoemd in het eerste lid, is niet van toepassing indien Onze Minister bij een beschikking toestemming heeft gegeven als bedoeld in het tweede lid.
 
-#### Artikel 2.18
+##### Artikel 2.18
 
 1. In aanvulling op [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) verstrekt de gebruiker desverzocht aan Onze Minister binnen de daartoe door Onze Minister gestelde termijn de nadere informatie waarom Onze Minister naar aanleiding van de kennisgeving heeft verzocht.
 
@@ -402,7 +428,7 @@ Met het ingeperkt gebruik op inperkingsniveau I mag worden begonnen op het eerst
 
 4. Onze Minister stelt de gebruiker onverwijld op de hoogte van een besluit als bedoeld in het derde lid, dat een besluit is als bedoeld in [artikel 20.3, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=20.3).
 
-#### Artikel 2.19
+##### Artikel 2.19
 
 1. Onze Minister kan:
 
@@ -432,7 +458,7 @@ Met het ingeperkt gebruik op inperkingsniveau I mag worden begonnen op het eerst
 
 9. De besluiten, bedoeld in het eerste lid, onderdelen a tot en met c, en het achtste lid, zijn besluiten als bedoeld in [artikel 20.3, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=20.3).
 
-#### Artikel 2.20
+##### Artikel 2.20
 
 1. Indien bij of krachtens dit besluit een daarbij aangegeven maatregel ter bescherming van de gezondheid van de mens en het milieu is vastgesteld, kan een andere maatregel worden toegepast indien Onze Minister heeft beslist dat met die maatregel ten minste een gelijkwaardig niveau van bescherming van de gezondheid van de mens en het milieu wordt bereikt.
 
@@ -440,7 +466,7 @@ Met het ingeperkt gebruik op inperkingsniveau I mag worden begonnen op het eerst
 
 3. Onze Minister beslist binnen acht weken over de gelijkwaardigheid van de andere maatregelen. Hij kan deze termijn eenmaal met ten hoogste zes weken verlengen.
 
-#### Artikel 2.21
+##### Artikel 2.21
 
 1. Onze Minister kan op verzoek van de gebruiker of ambtshalve de verplichting opleggen te voldoen aan voorschriften met betrekking tot:
 
@@ -462,7 +488,7 @@ Met het ingeperkt gebruik op inperkingsniveau I mag worden begonnen op het eerst
 
 #### § 2.2.2.3. Wijziging van reeds kennisgegeven ingeperkt gebruik op inperkingsniveau I en II-k
 
-#### Artikel 2.22
+##### Artikel 2.22
 
 1. Indien de gebruiker voornemens is activiteiten te wijzigen die eerder bij de kennisgeving zijn aangegeven, voert hij tevoren een risicobeoordeling als bedoeld in [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&artikel=2.5&z=2024-05-18&g=2024-05-18) uit die is gericht op de beoogde wijziging van die activiteiten. Onder wijziging van de activiteiten wordt mede verstaan het toevoegen van activiteiten aan het eerder in de kennisgeving beschreven onderzoek.
 
@@ -476,7 +502,7 @@ Met het ingeperkt gebruik op inperkingsniveau I mag worden begonnen op het eerst
 
 4. De [artikelen 2.6 tot en met 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&artikel=2.6&z=2024-05-18&g=2024-05-18) zijn van overeenkomstige toepassing.
 
-#### Artikel 2.23
+##### Artikel 2.23
 
 1. De gebruiker doet een kennisgeving aan Onze Minister indien de activiteiten blijkens de risicobeoordeling, bedoeld in [artikel 2.22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&paragraaf=2.2.2.3&artikel=2.22&z=2024-05-18&g=2024-05-18), na wijziging zullen worden verricht:
 
@@ -488,7 +514,7 @@ Met het ingeperkt gebruik op inperkingsniveau I mag worden begonnen op het eerst
 
 3. Indien de activiteiten zullen worden verricht op inperkingsniveau III of IV, dient de gebruiker een aanvraag om een vergunning in bij Onze Minister overeenkomstig [afdeling 2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.3&z=2024-05-18&g=2024-05-18).
 
-#### Artikel 2.24
+##### Artikel 2.24
 
 1. Indien de gebruiker een kennisgeving heeft gedaan als bedoeld in [artikel 2.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&paragraaf=2.2.2.3&artikel=2.23&z=2024-05-18&g=2024-05-18), mag met het gewijzigde ingeperkt gebruik worden begonnen op het eerste van de volgende twee tijdstippen:
 
@@ -500,13 +526,13 @@ Met het ingeperkt gebruik op inperkingsniveau I mag worden begonnen op het eerst
 
 3. Indien de gebruiker ingevolge [artikel 2.23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&paragraaf=2.2.2.3&artikel=2.23&z=2024-05-18&g=2024-05-18), een vergunning nodig heeft, mag met het gewijzigde ingeperkt gebruik eerst worden begonnen, zodra dat ingevolge de vergunning is toegestaan.
 
-#### Artikel 2.25
+##### Artikel 2.25
 
 De [artikelen 2.18 tot en met 2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&paragraaf=2.2.2.2&artikel=2.18&z=2024-05-18&g=2024-05-18) zijn van overeenkomstige toepassing, met dien verstande dat [artikel 2.19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&paragraaf=2.2.2.2&artikel=2.19&z=2024-05-18&g=2024-05-18), wordt gelezen als volgt:
 
 - 2. Een besluit als bedoeld in het eerste lid, onder c, kan worden genomen binnen 45 dagen na de datum van ontvangst van de kennisgeving, bedoeld in [artikel 2.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&paragraaf=2.2.2.3&artikel=2.23&z=2024-05-18&g=2024-05-18).
 
-#### Artikel 2.26
+##### Artikel 2.26
 
 1. Onverminderd [artikel 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&paragraaf=2.2.2.2&artikel=2.18&z=2024-05-18&g=2024-05-18) verstrekt de gebruiker aan Onze Minister op diens verzoek binnen de daartoe door Onze Minister gestelde termijn een volledige beschrijving van het ingeperkt gebruik op het door Onze Minister aangegeven inperkingsniveau.
 
@@ -514,7 +540,7 @@ De [artikelen 2.18 tot en met 2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0035
 
 #### § 2.2.2.4. Onbedoelde veranderingen en nieuwe informatie op inperkingsniveau I en II-k
 
-#### Artikel 2.27
+##### Artikel 2.27
 
 1. De gebruiker voert onmiddellijk een risicobeoordeling als bedoeld in [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&artikel=2.5&z=2024-05-18&g=2024-05-18) uit indien:
 
@@ -524,7 +550,7 @@ De [artikelen 2.18 tot en met 2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0035
 
 2. De [artikelen 2.6 tot en met 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&artikel=2.6&z=2024-05-18&g=2024-05-18) zijn van overeenkomstige toepassing.
 
-#### Artikel 2.28
+##### Artikel 2.28
 
 1. Indien de gebruiker op basis van de risicobeoordeling een andere categorie van fysische inperking toekent binnen het toegekende inperkingsniveau I of II, stelt hij Onze Minister daarvan onmiddellijk op de hoogte.
 
@@ -534,7 +560,7 @@ De [artikelen 2.18 tot en met 2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0035
 
 4. De gebruiker voert het ingeperkt gebruik vanaf dat tijdstip uit in de toegekende categorie van fysische inperking op inperkingsniveau II.
 
-#### Artikel 2.29
+##### Artikel 2.29
 
 1. Indien de gebruiker op basis van de risicobeoordeling inperkingsniveau III of IV toekent in plaats van inperkingsniveau I of II:
 
@@ -552,7 +578,7 @@ De [artikelen 2.18 tot en met 2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0035
 
 4. Indien toepassing is gegeven aan het derde lid, worden de voorhanden zijnde genetisch gemodificeerde organismen vernietigd, dan wel opgeslagen overeenkomstig de bij ministeriële regeling voor de opslag van deze organismen gestelde regels.
 
-#### Artikel 2.30
+##### Artikel 2.30
 
 1. Indien op basis van de risicobeoordeling inperkingsniveau I wordt toegekend in plaats van inperkingsniveau II, stelt de gebruiker Onze Minister daarvan onmiddellijk op de hoogte.
 
@@ -560,7 +586,7 @@ De [artikelen 2.18 tot en met 2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0035
 
 3. Onze Minister kan aan zijn instemming voorschriften verbinden.
 
-#### Artikel 2.31
+##### Artikel 2.31
 
 1. In het geval, bedoeld in de [artikelen 2.28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&paragraaf=2.2.2.4&artikel=2.28&z=2024-05-18&g=2024-05-18), [2.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&paragraaf=2.2.2.4&artikel=2.29&z=2024-05-18&g=2024-05-18), en [2.30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&paragraaf=2.2.2.4&artikel=2.30&z=2024-05-18&g=2024-05-18), kan Onze Minister de gebruiker bevelen het ingeperkt gebruik te schorsen of te beëindigen of de omstandigheden ervan te wijzigen.
 
@@ -570,7 +596,7 @@ De [artikelen 2.18 tot en met 2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0035
 
 #### § 2.2.2.5. Periodieke beoordeling met betrekking tot inperkingsniveau I en II-k
 
-#### Artikel 2.32
+##### Artikel 2.32
 
 1. Indien vijf jaren zijn verstreken sinds de laatste volledige risicobeoordeling, dan wel sinds de laatste toepassing van dit lid, beziet de gebruiker of de uitkomst van de risicobeoordeling, al dan niet vastgesteld met toepassing van [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&artikel=2.8&z=2024-05-18&g=2024-05-18), nog passend is.
 
@@ -586,7 +612,7 @@ De [artikelen 2.18 tot en met 2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0035
 
 #### § 2.2.2.6. Verdere bepalingen met betrekking tot inperkingsniveau I en II-k
 
-#### Artikel 2.33
+##### Artikel 2.33
 
 1. Voorafgaand aan het ingeperkt gebruik stelt de gebruiker veiligheidsprocedures op voor de bij ongewone voorvallen te nemen maatregelen.
 
@@ -594,7 +620,7 @@ De [artikelen 2.18 tot en met 2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0035
 
 3. In geval een situatie als beschreven in het tweede lid zich voordoet, neemt de gebruiker maatregelen om de risico’s voor de gezondheid van de mens en het milieu zo veel mogelijk te beperken.
 
-#### Artikel 2.34
+##### Artikel 2.34
 
 1. Indien Onze Minister de beschikking krijgt over gegevens waaruit blijkt dat mogelijk een ander inperkingsniveau of een andere categorie van fysische inperking moet worden toegekend, kan hij de gebruiker bevelen het ingeperkt gebruik te schorsen of te beëindigen of de omstandigheden ervan te wijzigen.
 
@@ -606,7 +632,7 @@ De [artikelen 2.18 tot en met 2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0035
 
 #### § 2.2.3.1. Algemene bepalingen met betrekking tot inperkingsniveau II-v, III en IV
 
-#### Artikel 2.35
+##### Artikel 2.35
 
 1. Ingeperkt gebruik op inperkingsniveau III of IV zonder vergunning van Onze Minister is verboden.
 
@@ -624,7 +650,7 @@ De [artikelen 2.18 tot en met 2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0035
 
 #### § 2.2.3.2. Nog niet vergund ingeperkt gebruik op inperkingsniveau II-v, III en IV
 
-#### Artikel 2.36
+##### Artikel 2.36
 
 1. Vervallen.
 
@@ -634,7 +660,7 @@ De [artikelen 2.18 tot en met 2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0035
 
 4. Onze Minister tekent de datum van ontvangst aan op de aanvraag en zendt aan de aanvrager onverwijld een bewijs van ontvangst waarin die datum is vermeld.
 
-#### Artikel 2.37
+##### Artikel 2.37
 
 1. Op de aanvraag om een vergunning beslist Onze Minister:
 
@@ -646,7 +672,7 @@ De [artikelen 2.18 tot en met 2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0035
 
 3. Een beslissing als bedoeld in het eerste lid is een besluit als bedoeld in [artikel 20.3, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=20.3).
 
-#### Artikel 2.38
+##### Artikel 2.38
 
 1. In aanvulling op [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) verstrekt de gebruiker desverzocht aan Onze Minister binnen de daartoe door Onze Minister gestelde termijn de nadere informatie waarom Onze Minister naar aanleiding van de aanvraag heeft verzocht.
 
@@ -656,7 +682,7 @@ De [artikelen 2.18 tot en met 2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0035
 
 4. Onze Minister stelt de aanvrager onverwijld op de hoogte van een besluit als bedoeld in het derde lid.
 
-#### Artikel 2.39
+##### Artikel 2.39
 
 1. In de vergunning wordt in elk geval bepaald dat op het ingeperkt gebruik de categorie van fysische inperking en het inperkingsniveau worden toegepast die met toepassing van dit hoofdstuk aan de desbetreffende werkzaamheden zijn toegekend.
 
@@ -664,17 +690,17 @@ De [artikelen 2.18 tot en met 2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0035
 
 3. Indien Onze Minister van oordeel is dat inperkingsniveau I of II moet worden toegekend, kan hij de aanvraag om een vergunning aanmerken als een kennisgeving. Onze Minister doet hiervan mededeling aan de gebruiker, onder vermelding van het van toepassing zijnde inperkingsniveau en de categorie van fysische inperking. De termijn, genoemd in [artikel 2.17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&paragraaf=2.2.2.2&artikel=2.17&z=2024-05-18&g=2024-05-18), is niet van toepassing.
 
-#### Artikel 2.40
+##### Artikel 2.40
 
 Indien het belang van de gezondheid van de mens en van het milieu zich daartegen niet verzet, kan Onze Minister bij de voorschriften die hij aan de vergunning verbindt, afwijken van de regels die gelden krachtens [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=2&titeldeel=2.1&artikel=2.2&z=2024-05-18&g=2024-05-18).
 
-#### Artikel 2.41
+##### Artikel 2.41
 
 De [artikelen 2.20](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&paragraaf=2.2.2.2&artikel=2.20&z=2024-05-18&g=2024-05-18) en [2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&paragraaf=2.2.2.2&artikel=2.21&z=2024-05-18&g=2024-05-18) zijn van overeenkomstige toepassing.
 
 #### § 2.2.3.3. Wijziging van reeds vergund ingeperkt gebruik op inperkingsniveau II-v, III en IV
 
-#### Artikel 2.42
+##### Artikel 2.42
 
 1. Indien de gebruiker voornemens is activiteiten te wijzigen waarop de vergunning betrekking heeft, voert hij tevoren een risicobeoordeling als bedoeld in [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&artikel=2.5&z=2024-05-18&g=2024-05-18) uit die is gericht op de beoogde wijziging van die activiteiten.
 
@@ -684,15 +710,15 @@ Onder wijziging van de activiteiten wordt mede verstaan het toevoegen van activi
 
 3. Zo nodig vraagt de gebruiker een wijziging van zijn vergunning aan.
 
-#### Artikel 2.43
+##### Artikel 2.43
 
 Onze Minister kan op aanvraag van de houder van de vergunning de vergunning wijzigen, daaronder mede begrepen het toevoegen van activiteiten aan het eerder in de vergunning beschreven onderzoek.
 
-#### Artikel 2.44
+##### Artikel 2.44
 
 Op de aanvraag om een wijziging van de vergunning zijn de [artikelen 2.36 tot en met 2.40](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.3&paragraaf=2.2.3.2&artikel=2.36&z=2024-05-18&g=2024-05-18) van overeenkomstige toepassing, met dien verstande dat eerder overgelegde gegevens niet opnieuw behoeven te worden overgelegd.
 
-#### Artikel 2.45
+##### Artikel 2.45
 
 1. Indien een aanvraag tot wijziging van een vergunning wordt ingediend, kan Onze Minister uit eigen beweging of op verzoek bepalen dat:
 
@@ -704,7 +730,7 @@ Op de aanvraag om een wijziging van de vergunning zijn de [artikelen 2.36 tot en
 
 3. Een met toepassing van het eerste lid verleende vergunning vervangt de eerder verleende vergunning of vergunningen. De eerder verleende vergunning of vergunningen vervalt onderscheidenlijk vervallen op het tijdstip waarop de met toepassing van het eerste lid verleende vergunning in werking treedt.
 
-#### Artikel 2.46
+##### Artikel 2.46
 
 1. Onze Minister kan bij ministeriële regeling categorieën van gevallen aanwijzen, waarin kan worden volstaan met een melding in plaats van een aanvraag tot wijziging van een vergunning.
 
@@ -714,7 +740,7 @@ Op de aanvraag om een wijziging van de vergunning zijn de [artikelen 2.36 tot en
 
 4. [Artikel 2.40](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.3&paragraaf=2.2.3.2&artikel=2.40&z=2024-05-18&g=2024-05-18) is van overeenkomstige toepassing op de verklaring.
 
-#### Artikel 2.47
+##### Artikel 2.47
 
 1. Onze Minister kan de vergunning ambtshalve wijzigen in het belang van de bescherming van de gezondheid van de mens of het milieu.
 
@@ -724,7 +750,7 @@ Op de aanvraag om een wijziging van de vergunning zijn de [artikelen 2.36 tot en
 
 #### § 2.2.3.4. Onbedoelde veranderingen en nieuwe informatie op inperkingsniveau II-v, III en IV
 
-#### Artikel 2.48
+##### Artikel 2.48
 
 1. De gebruiker voert onmiddellijk een risicobeoordeling als bedoeld in [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&artikel=2.5&z=2024-05-18&g=2024-05-18) uit indien:
 
@@ -734,7 +760,7 @@ Op de aanvraag om een wijziging van de vergunning zijn de [artikelen 2.36 tot en
 
 2. De [artikelen 2.6 tot en met 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&artikel=2.6&z=2024-05-18&g=2024-05-18) zijn van overeenkomstige toepassing.
 
-#### Artikel 2.49
+##### Artikel 2.49
 
 1. Indien op basis van de risicobeoordeling een andere categorie van fysische inperking wordt toegekend binnen het toegekende inperkingsniveau III of IV:
 
@@ -758,11 +784,11 @@ Op de aanvraag om een wijziging van de vergunning zijn de [artikelen 2.36 tot en
 
 5. Indien toepassing is gegeven aan het vierde lid worden de voorhanden zijnde genetisch gemodificeerde organismen vernietigd, dan wel opgeslagen overeenkomstig de bij ministeriële regeling voor de opslag van deze organismen gestelde regels.
 
-#### Artikel 2.50
+##### Artikel 2.50
 
 Indien op basis van de risicobeoordeling inperkingsniveau III wordt toegekend in plaats van inperkingsniveau IV, blijft de vergunning van toepassing totdat deze is gewijzigd.
 
-#### Artikel 2.51
+##### Artikel 2.51
 
 1. In het geval, bedoeld in [artikel 2.49, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.3&paragraaf=2.2.3.4&artikel=2.49&z=2024-05-18&g=2024-05-18), kan Onze Minister de gebruiker bevelen het ingeperkt gebruik te schorsen of te beëindigen of de omstandigheden ervan te wijzigen.
 
@@ -770,13 +796,13 @@ Indien op basis van de risicobeoordeling inperkingsniveau III wordt toegekend in
 
 3. Indien een bevel is gegeven om het ingeperkt gebruik te schorsen of te beëindigen, worden de voorhanden zijnde genetisch gemodificeerde organismen vernietigd, dan wel opgeslagen overeenkomstig de bij ministeriële regeling voor de opslag van deze organismen gestelde regels.
 
-#### Artikel 2.52
+##### Artikel 2.52
 
 Indien op basis van de risicobeoordeling inperkingsniveau I of II wordt toegekend, blijft de vergunning van toepassing totdat de vergunning dienovereenkomstig is gewijzigd of ingetrokken.
 
 #### § 2.2.3.5. Periodieke beoordeling met betrekking tot inperkingsniveau II-v, III en IV
 
-#### Artikel 2.53
+##### Artikel 2.53
 
 1. Indien vijf jaren zijn verstreken sinds de laatste volledige risicobeoordeling, dan wel sinds de laatste toepassing van dit lid, beziet de gebruiker of de uitkomst van de risicobeoordeling, al dan niet vastgesteld met toepassing van [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&artikel=2.8&z=2024-05-18&g=2024-05-18), nog passend is.
 
@@ -786,7 +812,7 @@ Indien op basis van de risicobeoordeling inperkingsniveau I of II wordt toegeken
 
 #### § 2.2.3.6. Verdere bepalingen met betrekking tot inperkingsniveau II-v, III en IV
 
-#### Artikel 2.54
+##### Artikel 2.54
 
 1. Indien Onze Minister de beschikking krijgt over gegevens waaruit blijkt dat mogelijk een ander inperkingsniveau of een andere categorie van fysische inperking moet worden toegekend, kan hij de gebruiker bevelen het ingeperkt gebruik te schorsen of te beëindigen of de omstandigheden ervan te wijzigen.
 
@@ -798,17 +824,17 @@ Indien op basis van de risicobeoordeling inperkingsniveau I of II wordt toegeken
 
 ### Afdeling 2.3.1. Bepalingen met betrekking tot de omgevingsvergunning voor de inrichting
 
-#### Artikel 2.55
+##### Artikel 2.55
 
 Vervallen
 
 ### Afdeling 2.3.2. Bepalingen met betrekking tot de algemene regels voor de inrichting
 
-#### Artikel 2.56
+##### Artikel 2.56
 
 Onze Minister is het bevoegd gezag dat beslist op aanvragen om toestemming tot het treffen van een gelijkwaardige maatregel als bedoeld in [artikel 4.7 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.7), in plaats van een maatregel die op grond van het bepaalde bij of krachtens dit besluit moet worden getroffen.
 
-#### Artikel 2.57
+##### Artikel 2.57
 
 1. Onze Minister kan een maatwerkvoorschrift als bedoeld in [artikel 4.5 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.5) stellen met betrekking tot:
 
@@ -826,23 +852,23 @@ Onze Minister is het bevoegd gezag dat beslist op aanvragen om toestemming tot h
 
 ### Afdeling 3.1. Algemeen
 
-#### Artikel 3.1
+##### Artikel 3.1
 
 1. Dit hoofdstuk is niet van toepassing op doelbewuste introductie voor overige doeleinden van medicinale stoffen en preparaten, die bestaan uit genetisch gemodificeerde organismen of die deze bevatten, voor gebruik door de mens, voor zover die handelingen krachtens door Onze Minister aangewezen communautaire regelgeving zijn toegelaten.
 
 2. Dit hoofdstuk is voorts niet van toepassing op de doelbewuste introductie voor overige doeleinden van een toegelaten product, voor zover daarbij de uit [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=4&z=2024-05-18&g=2024-05-18) voortvloeiende voorschriften of de uit [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=5&artikel=5.1&z=2024-05-18&g=2024-05-18) voortvloeiende verplichtingen in acht worden genomen.
 
-#### Artikel 3.2
+##### Artikel 3.2
 
 1. Doelbewuste introductie voor overige doeleinden zonder vergunning van Onze Minister is verboden.
 
 2. In dit hoofdstuk wordt verstaan onder «vergunning»: een vergunning als bedoeld in het eerste lid.
 
-#### Artikel 3.3
+##### Artikel 3.3
 
 Een vergunning geldt tevens voor ingeperkt gebruik van genetisch gemodificeerde organismen waarop de vergunning betrekking heeft.
 
-#### Artikel 3.4
+##### Artikel 3.4
 
 1. Onze Minister kan regels stellen over de doelbewuste introductie voor overige doeleinden. Deze regels kunnen verschillend zijn voor verschillende genetisch gemodificeerde organismen en verschillende werkzaamheden met die genetisch gemodificeerde organismen.
 
@@ -850,7 +876,7 @@ Een vergunning geldt tevens voor ingeperkt gebruik van genetisch gemodificeerde 
 
 3. Onze Minister kan van de regels ontheffing verlenen, indien het belang van de bescherming van de gezondheid van de mens en het milieu zich daartegen niet verzet. Hij kan een andere maatregel voorschrijven waarmee ten minste een gelijkwaardig niveau van bescherming van het milieu wordt bereikt.
 
-#### Artikel 3.5
+##### Artikel 3.5
 
 1. Als gegevens waarvoor de in [artikel 19.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=19.3) bedoelde bevoegdheid tot het overleggen van een tweede tekst eveneens geldt, worden aangewezen de gegevens die krachtens dit hoofdstuk aan Onze Minister worden overgelegd.
 
@@ -860,13 +886,13 @@ Een vergunning geldt tevens voor ingeperkt gebruik van genetisch gemodificeerde 
 
 #### § 3.2.1. Milieurisicobeoordeling
 
-#### Artikel 3.6
+##### Artikel 3.6
 
 Voorafgaand aan de aanvraag om verlening van een vergunning voert degene die voornemens is de doelbewuste introductie voor overige doeleinden uit te voeren een milieurisicobeoordeling uit.
 
 #### § 3.2.2. Verlening van de vergunning
 
-#### Artikel 3.7
+##### Artikel 3.7
 
 1. Bij de aanvraag om een vergunning wordt gebruik gemaakt van gestandaardiseerde gegevensformaten als bedoeld in artikel 39 septies van [verordening 178/2002](32002R0178) dan wel, bij afwezigheid daarvan, van formaten waarmee kan worden voldaan aan de openbaarmaking, bedoeld artikel 28, vierde lid, van [richtlijn 2001/18](32001L0018).
 
@@ -902,7 +928,7 @@ Voorafgaand aan de aanvraag om verlening van een vergunning voert degene die voo
 
 8. Onze Minister tekent de datum van ontvangst aan op de aanvraag en zendt de aanvrager onverwijld een bewijs van ontvangst waarin die datum is vermeld.
 
-#### Artikel 3.8
+##### Artikel 3.8
 
 1. In aanvulling op [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) verstrekt de aanvrager desverzocht aan Onze Minister binnen de daartoe door Onze Minister gestelde termijn nadere informatie ter voorbereiding van het besluit op een aanvraag als bedoeld in [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.7&z=2024-05-18&g=2024-05-18). Bij zijn verzoek geeft Onze Minister de redenen aan die aan het verzoek ten grondslag liggen.
 
@@ -912,11 +938,11 @@ Voorafgaand aan de aanvraag om verlening van een vergunning voert degene die voo
 
 4. Onze Minister stelt de aanvrager onverwijld op de hoogte van een besluit als bedoeld in het derde lid.
 
-#### Artikel 3.9
+##### Artikel 3.9
 
 Indien de aanvrager van een vergunning tijdens de behandeling van de aanvraag kennis neemt van nieuwe informatie ten aanzien van de risico’s die de genetisch gemodificeerde organismen of de handelingen daarmee kunnen opleveren voor de gezondheid van mens of het milieu, zorgt hij ervoor dat de in de aanvraag om een vergunning vermelde informatie zo spoedig mogelijk wordt herzien en bij Onze Minister wordt ingediend.
 
-#### Artikel 3.10
+##### Artikel 3.10
 
 1. Onze Minister zendt binnen 30 dagen na ontvangst van de aanvraag een samenvatting van de aanvraag aan de Europese Commissie.
 
@@ -924,7 +950,7 @@ Indien de aanvrager van een vergunning tijdens de behandeling van de aanvraag ke
 
 3. Een besluit als bedoeld in het tweede lid wordt bekendgemaakt in een van overheidswege uitgegeven blad of een dag-, nieuws- of huis-aan-huis-blad, dan wel op een andere geschikte wijze.
 
-#### Artikel 3.11
+##### Artikel 3.11
 
 1. De vergunning wordt verleend voor onbepaalde tijd dan wel voor een bij de vergunning aangegeven periode.
 
@@ -934,7 +960,7 @@ Indien de aanvrager van een vergunning tijdens de behandeling van de aanvraag ke
 
 #### § 3.2.3. Onbedoelde veranderingen en nieuwe informatie
 
-#### Artikel 3.12
+##### Artikel 3.12
 
 1. Indien:
 
@@ -952,7 +978,7 @@ Indien de aanvrager van een vergunning tijdens de behandeling van de aanvraag ke
 
 4. De houder van de vergunning vraagt zo nodig binnen vier weken na het doen van de mededeling een wijziging van de vergunning aan.
 
-#### Artikel 3.13
+##### Artikel 3.13
 
 1. Onze Minister kan ambtshalve of op verzoek een vergunning wijzigen of intrekken op grond van nieuwe informatie die gevolgen kan hebben voor de risico’s van de betrokken genetisch gemodificeerde organismen voor de gezondheid van de mens of het milieu.
 
@@ -968,11 +994,11 @@ Indien de aanvrager van een vergunning tijdens de behandeling van de aanvraag ke
 
 #### § 3.2.4. Melding van een voorgenomen wijziging in de doelbewuste introductie voor overige doeleinden en wijziging van de vergunning op verzoek
 
-#### Artikel 3.14
+##### Artikel 3.14
 
 In deze paragraaf wordt onder het wijzigen van een vergunning mede verstaan het wijzigen of uitbreiden van het bereik van de vergunning, waaronder het vervangen of toevoegen van een of meer locaties voor de doelbewuste introductie voor overige doeleinden.
 
-#### Artikel 3.15
+##### Artikel 3.15
 
 Onze Minister kan bij ministeriële regeling categorieën van gevallen aanwijzen, waarin een verandering in de doelbewuste introductie voor overige doeleinden wordt aangemerkt als een verandering die:
 
@@ -980,7 +1006,7 @@ Onze Minister kan bij ministeriële regeling categorieën van gevallen aanwijzen
 
 - b. geen significante gevolgen heeft voor een met betrekking tot die introductie uitgevoerde milieurisicobeoordeling.
 
-#### Artikel 3.16
+##### Artikel 3.16
 
 1. Een vergunning geldt tevens voor een verandering in de doelbewuste introductie voor overige doeleinden die behoort tot de categorieën van gevallen, aangewezen krachtens [artikel 3.15, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.4&artikel=3.15&z=2024-05-18&g=2024-05-18), onder voorwaarde dat het voornemen tot het uitvoeren van de verandering schriftelijk aan Onze Minister is gemeld overeenkomstig de bij of krachtens het tweede en derde lid gestelde regels, en vijf werkdagen zijn verstreken, gerekend vanaf:
 
@@ -994,7 +1020,7 @@ Onze Minister kan bij ministeriële regeling categorieën van gevallen aanwijzen
 
 4. Het eerste lid is niet van toepassing op een verandering die bestaat uit het vervangen of toevoegen van een of meer locaties voor de doelbewuste introductie voor overige doeleinden.
 
-#### Artikel 3.17
+##### Artikel 3.17
 
 Onze Minister kan een vergunning wijzigen op een daartoe strekkende aanvraag van de houder van de vergunning, indien deze aanvraag betrekking heeft op een geval dat behoort tot de categorieën van gevallen, aangewezen krachtens:
 
@@ -1002,17 +1028,17 @@ Onze Minister kan een vergunning wijzigen op een daartoe strekkende aanvraag van
 
 - b. [artikel 3.15, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.4&artikel=3.15&z=2024-05-18&g=2024-05-18).
 
-#### Artikel 3.18
+##### Artikel 3.18
 
 1. De aanvraag bevat de gegevens, aangegeven bij of krachtens [artikel 3.7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.7&z=2024-05-18&g=2024-05-18), voor zover deze gegevens van betekenis zijn voor de wijziging.
 
 2. Op de aanvraag om wijziging van een vergunning is [artikel 3.7, eerste en vierde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.7&z=2024-05-18&g=2024-05-18), van overeenkomstige toepassing.
 
-#### Artikel 3.19
+##### Artikel 3.19
 
 De [artikelen 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.8&z=2024-05-18&g=2024-05-18) en [3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.9&z=2024-05-18&g=2024-05-18) zijn van overeenkomstige toepassing.
 
-#### Artikel 3.20
+##### Artikel 3.20
 
 1. Onze Minister beslist op de aanvraag tot wijziging van de vergunning:
 
@@ -1024,13 +1050,13 @@ De [artikelen 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=3&a
 
 #### § 3.2.5. Wijziging en intrekking van de vergunning op andere gronden
 
-#### Artikel 3.21
+##### Artikel 3.21
 
 1. Onze Minister kan ambtshalve of op verzoek een vergunning wijzigen of intrekken op andere gronden dan die genoemd in de [paragrafen 3.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&z=2024-05-18&g=2024-05-18) en [3.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.4&z=2024-05-18&g=2024-05-18).
 
 2. Tot deze andere gronden behoort in elk geval de uitvoering van besluiten of aanbevelingen van de Raad van de Europese Unie of van de Europese Commissie.
 
-#### Artikel 3.22
+##### Artikel 3.22
 
 1. Op de aanvraag om wijziging van een vergunning op grond van [artikel 3.21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.5&artikel=3.21&z=2024-05-18&g=2024-05-18), zijn de [artikelen 3.7 tot en met 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.7&z=2024-05-18&g=2024-05-18) en [3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.11&z=2024-05-18&g=2024-05-18) van overeenkomstige toepassing, met dien verstande dat de gegevens, aangewezen bij of krachtens [artikel 3.7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.7&z=2024-05-18&g=2024-05-18), slechts behoeven te worden overgelegd voor zover deze gegevens van betekenis zijn voor de wijziging.
 
@@ -1046,7 +1072,7 @@ De [artikelen 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=3&a
 
 #### § 3.3.1. Gedifferentieerde procedure voor het verlenen en wijzigen van een vergunning op verzoek dan wel voor het melden van een wijziging van de doelbewuste introductie
 
-#### Artikel 3.23
+##### Artikel 3.23
 
 1. Onze Minister kan een vergunning verlenen of wijzigen overeenkomstig een procedure die bij besluit van de Raad van de Europese Unie of van de Europese Commissie op grond van artikel 7 van [richtlijn 2001/18](32001L0018) is vastgesteld.
 
@@ -1068,7 +1094,7 @@ De [artikelen 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=3&a
 
 #### § 3.3.1. Gedifferentieerde procedure voor het verlenen en wijzigen van een vergunning op verzoek dan wel voor het melden van een wijziging van de doelbewuste introductie
 
-#### Artikel 3.24
+##### Artikel 3.24
 
 1. Onze Minister wijst bij ministeriële regeling categorieën van genetisch gemodificeerde organismen aan waarvoor:
 
@@ -1082,7 +1108,7 @@ De [artikelen 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=3&a
 
 4. Indien deze paragraaf van toepassing is, is [paragraaf 3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&z=2024-05-18&g=2024-05-18) niet van toepassing.
 
-#### Artikel 3.25
+##### Artikel 3.25
 
 1. [Afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) en [afdeling 13.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&afdeling=13.2) zijn niet van toepassing op de voorbereiding van de beschikking op de aanvraag voor andere toepassingen dan genetisch gemodificeerde planten.
 
@@ -1096,7 +1122,7 @@ De [artikelen 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=3&a
 
 6. Onze Minister kan de aanvrager opdragen nadere gegevens te verstrekken. [Artikel 3.8, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.8&z=2024-05-18&g=2024-05-18), is van overeenkomstige toepassing.
 
-#### Artikel 3.26
+##### Artikel 3.26
 
 1. Onze Minister zendt zo spoedig mogelijk na ontvangst van de aanvraag een samenvatting van de aanvraag aan de Europese Commissie.
 
@@ -1106,7 +1132,7 @@ De [artikelen 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=3&a
 
 ### Afdeling 3.4. Verplichtingen van de houder van de vergunning
 
-#### Artikel 3.27
+##### Artikel 3.27
 
 1. De houder van een vergunning stuurt jaarlijks uiterlijk op 1 januari aan Onze Minister een verslag over de resultaten van de doelbewuste introductie voor overige doeleinden in het voorafgaande kalenderjaar. Onze Minister kan bij ministeriële regeling voor daarbij aangewezen categorieën van gevallen een andere datum dan 1 januari aanwijzen.
 
@@ -1118,7 +1144,7 @@ De [artikelen 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=3&a
 
 ### Afdeling 3.5. Verdere bepalingen
 
-#### Artikel 3.28
+##### Artikel 3.28
 
 1. Indien Onze Minister de beschikking krijgt over gegevens die belangrijke gevolgen kunnen hebben voor de beoordeling van de risico’s die aan de doelbewuste introductie voor overige doeleinden verbonden zijn, of indien sprake is van een wijziging of onbedoelde verandering in de doelbewuste introductie voor overige doeleinden die zodanige gevolgen kan hebben, kan hij – onverminderd het elders in dit hoofdstuk bepaalde – de betrokkene bevelen de doelbewuste introductie voor overige doeleinden te schorsen of te beëindigen of de omstandigheden ervan te wijzigen.
 
@@ -1132,27 +1158,27 @@ De [artikelen 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=3&a
 
 ### Afdeling 3.5. Verdere bepalingen
 
-#### Artikel 4.1
+##### Artikel 4.1
 
 1. Dit hoofdstuk is niet van toepassing op het ter beschikking stellen van genetisch gemodificeerde organismen aan derden voor ingeperkt gebruik of voor doelbewuste introductie voor overige doeleinden.
 
 2. Dit hoofdstuk is niet van toepassing op het in de handel brengen van een toegelaten product door een ander dan de houder van de vergunning op grond van dit hoofdstuk, voor zover die ander daarbij de uit [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=5&artikel=5.1&z=2024-05-18&g=2024-05-18) voortvloeiende verplichtingen in acht neemt.
 
-#### Artikel 4.2
+##### Artikel 4.2
 
 1. Het in de handel brengen zonder vergunning van Onze Minister is verboden.
 
 2. In dit hoofdstuk wordt verstaan onder «vergunning»: een vergunning als bedoeld in het eerste lid.
 
-#### Artikel 4.3
+##### Artikel 4.3
 
 De houder van een vergunning op grond van dit hoofdstuk neemt de aan de vergunning verbonden voorschriften mede in acht wanneer hij het betrokken product na het in de handel brengen gebruikt.
 
-#### Artikel 4.4
+##### Artikel 4.4
 
 Het is verboden materiaal in de handel te brengen dat is afgeleid van genetisch gemodificeerde organismen waarvoor een vergunning is verleend voor doelbewuste introductie voor overige doeleinden of waarvoor voor die doeleinden op andere wijze door een bevoegde instantie van een andere lidstaat van de Europese Unie schriftelijk toestemming is verleend, tenzij hiervoor door Onze Minister een vergunning voor het in de handel brengen of door een bevoegde instantie van een andere lidstaat van de Europese Unie schriftelijk toestemming is verleend.
 
-#### Artikel 4.5
+##### Artikel 4.5
 
 1. Als gegevens waarvoor de in [artikel 19.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=19.3) bedoelde bevoegdheid tot het overleggen van een tweede tekst eveneens geldt, worden aangewezen de gegevens die krachtens dit hoofdstuk aan Onze Minister worden overgelegd.
 
@@ -1160,15 +1186,15 @@ Het is verboden materiaal in de handel te brengen dat is afgeleid van genetisch 
 
 ### Afdeling 4.2. Verlening van de vergunning
 
-#### Artikel 4.6
+##### Artikel 4.6
 
 [Afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4), en [afdeling 13.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&afdeling=13.2) zijn niet van toepassing op een aanvraag om een vergunning.
 
-#### Artikel 4.7
+##### Artikel 4.7
 
 Voorafgaand aan de aanvraag om verlening van een vergunning voert degene die voornemens is een doelbewuste introductie uit te voeren door een genetisch gemodificeerd organisme in de handel te brengen een milieurisicobeoordeling uit.
 
-#### Artikel 4.8
+##### Artikel 4.8
 
 1. Bij de aanvraag om een vergunning wordt gebruik gemaakt van gestandaardiseerde gegevensformaten als bedoeld in artikel 39 septies van [verordening 178/2002](32002R0178) dan wel, bij afwezigheid daarvan, van formaten waarmee kan worden voldaan aan de openbaarmaking, bedoeld artikel 28, vierde lid, van [richtlijn 2001/18](32001L0018).
 
@@ -1206,7 +1232,7 @@ Voorafgaand aan de aanvraag om verlening van een vergunning voert degene die voo
 
 10. Onze Minister zendt onverwijld de in het tweede lid bedoelde samenvatting aan de bevoegde instanties van de andere lidstaten van de Europese Unie en aan de Europese Commissie.
 
-#### Artikel 4.9
+##### Artikel 4.9
 
 1. In aanvulling op [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) verstrekt de aanvrager desverzocht aan Onze Minister binnen de daartoe door Onze Minister gestelde termijn nadere informatie ter voorbereiding van het besluit op een aanvraag als bedoeld in [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=4&afdeling=4.2&artikel=4.8&z=2024-05-18&g=2024-05-18).
 
@@ -1216,11 +1242,11 @@ Voorafgaand aan de aanvraag om verlening van een vergunning voert degene die voo
 
 4. Onze Minister stelt de aanvrager onverwijld op de hoogte van een besluit als bedoeld in het derde lid.
 
-#### Artikel 4.10
+##### Artikel 4.10
 
 Indien de aanvrager van een vergunning tijdens de behandeling van de aanvraag kennis neemt van nieuwe informatie ten aanzien van de risico’s die de genetisch gemodificeerde organismen of de handelingen daarmee kunnen opleveren voor de gezondheid van de mens of het milieu, doet hij daarvan onmiddellijk mededeling aan Onze Minister, en past hij zo nodig de bij de aanvraag overgelegde gegevens aan.
 
-#### Artikel 4.11
+##### Artikel 4.11
 
 1. Onze Minister stelt binnen 90 dagen na ontvangst van een aanvraag om een vergunning, overeenkomstig bijlage VI bij [richtlijn 2001/18](32001L0018) een beoordelingsrapport op.
 
@@ -1228,11 +1254,11 @@ Indien de aanvrager van een vergunning tijdens de behandeling van de aanvraag ke
 
 3. Indien het beoordelingsrapport inhoudt dat het genetisch gemodificeerde organisme niet in de handel mag worden gebracht, zendt Onze Minister ten vroegste 15 dagen na toezending van het beoordelingsrapport aan de aanvrager en uiterlijk 105 dagen na ontvangst van de aanvraag, het beoordelingsrapport, samen met de informatie waarop het is gebaseerd, aan de Europese Commissie.
 
-#### Artikel 4.12
+##### Artikel 4.12
 
 Indien Onze Minister na toezending van het beoordelingsrapport maar vóór vergunningverlening kennis neemt van nieuwe informatie die van invloed kan zijn op de risico’s van de betrokken genetisch gemodificeerde organismen voor de gezondheid van mens of het milieu, zendt hij die informatie onverwijld aan de Europese Commissie en aan de bevoegde instanties van de andere lidstaten van de Europese Unie.
 
-#### Artikel 4.13
+##### Artikel 4.13
 
 1. Onze Minister beslist op een aanvraag om een vergunning:
 
@@ -1248,7 +1274,7 @@ Indien Onze Minister na toezending van het beoordelingsrapport maar vóór vergu
 
 3. Een besluit als bedoeld in het eerste lid is een besluit als bedoeld in [artikel 20.3, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=20.3) en wordt bekendgemaakt in een van overheidswege uitgegeven blad of een dag-, nieuws- of huis-aan-huis-blad, dan wel op een andere geschikte wijze.
 
-#### Artikel 4.14
+##### Artikel 4.14
 
 1. Een vergunning wordt voor ten hoogste tien jaren verleend.
 
@@ -1256,7 +1282,7 @@ Indien Onze Minister na toezending van het beoordelingsrapport maar vóór vergu
 
 3. Een vergunning voor bosbouwkundig teeltmateriaal wordt verleend voor een periode van ten hoogste tien jaren na de datum waarop uitgangsmateriaal afkomstig van het genetisch gemodificeerde organisme voor het eerst op een officiële nationale lijst is opgenomen overeenkomstig richtlijn nr. 1999/105/EG van de Raad van de Europese Unie van 22 december 1999 betreffende het in de handel brengen van bosbouwkundig teeltmateriaal (PbEG L 11).
 
-#### Artikel 4.15
+##### Artikel 4.15
 
 1. In een vergunning wordt ten minste vermeld:
 
@@ -1274,7 +1300,7 @@ Indien Onze Minister na toezending van het beoordelingsrapport maar vóór vergu
 
 2. Onder de monitoringvoorschriften, bedoeld in het eerste lid, onder f, worden mede verstaan de rapportage, de termijn van het monitoringplan en, voor zover van toepassing, voorschriften voor degenen die het product verkopen of gebruiken waaronder voor geteelde genetisch gemodificeerde organismen, de informatie die over de teeltlocatie moet worden verschaft.
 
-#### Artikel 4.16
+##### Artikel 4.16
 
 De voorschriften met betrekking tot de etikettering, bedoeld in [artikel 4.15, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=4&afdeling=4.2&artikel=4.15&z=2024-05-18&g=2024-05-18), zijn niet van toepassing:
 
@@ -1284,7 +1310,7 @@ De voorschriften met betrekking tot de etikettering, bedoeld in [artikel 4.15, e
 
 ### Afdeling 4.3. Verlenging van de vergunning
 
-#### Artikel 4.17
+##### Artikel 4.17
 
 1. Onze Minister kan op aanvraag van de houder van de vergunning de geldigheidsduur van een vergunning verlengen, indien deze verlenging uiterlijk negen maanden voor het verstrijken van de geldigheidsduur van de vergunning is aangevraagd.
 
@@ -1300,7 +1326,7 @@ De voorschriften met betrekking tot de etikettering, bedoeld in [artikel 4.15, e
 
 - d. zo nodig een voorstel tot wijziging of aanvulling van de aan de vergunning verbonden voorschriften, waaronder de voorschriften die verband houden met de toekomstige monitoring en de geldigheidsduur van de vergunning.
 
-#### Artikel 4.18
+##### Artikel 4.18
 
 1. Onze Minister tekent de datum van ontvangst aan op de aanvraag om verlenging van een vergunning en zendt de houder van de vergunning onverwijld een bewijs van ontvangst waarin die datum is vermeld.
 
@@ -1308,7 +1334,7 @@ De voorschriften met betrekking tot de etikettering, bedoeld in [artikel 4.15, e
 
 3. Onze Minister zendt het beoordelingsrapport aan de houder van de vergunning en zendt het beoordelingsrapport en een afschrift van de aanvraag onverwijld aan de Europese Commissie.
 
-#### Artikel 4.19
+##### Artikel 4.19
 
 1. Onze Minister beslist op een aanvraag om verlenging van een vergunning:
 
@@ -1328,7 +1354,7 @@ De voorschriften met betrekking tot de etikettering, bedoeld in [artikel 4.15, e
 
 5. Een besluit als bedoeld in het eerste lid is een besluit als bedoeld in[artikel 20.3, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=20.3) en wordt bekendgemaakt in een van overheidswege uitgegeven blad of een dag-, nieuws- of huis-aan-huis-blad, dan wel op een andere geschikte wijze.
 
-#### Artikel 4.20
+##### Artikel 4.20
 
 1. De [artikelen 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=4&afdeling=4.2&artikel=4.9&z=2024-05-18&g=2024-05-18), [4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=4&afdeling=4.2&artikel=4.10&z=2024-05-18&g=2024-05-18), [4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=4&afdeling=4.2&artikel=4.12&z=2024-05-18&g=2024-05-18), [4.15](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=4&afdeling=4.2&artikel=4.15&z=2024-05-18&g=2024-05-18) en [4.16](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=4&afdeling=4.2&artikel=4.16&z=2024-05-18&g=2024-05-18) zijn van overeenkomstige toepassing.
 
@@ -1336,13 +1362,13 @@ De voorschriften met betrekking tot de etikettering, bedoeld in [artikel 4.15, e
 
 ### Afdeling 4.4. Monitoring en nieuwe informatie
 
-#### Artikel 4.21
+##### Artikel 4.21
 
 1. De houder van een vergunning draagt zorg voor monitoring en rapportage overeenkomstig de in de vergunning opgenomen voorschriften.
 
 2. Hij dient de rapportage, bedoeld in het eerste lid, in bij Onze Minister, de Europese Commissie en de bevoegde instanties van de andere lidstaten van de Europese Unie.
 
-#### Artikel 4.22
+##### Artikel 4.22
 
 1. Indien de houder van een vergunning kennis neemt van nieuwe informatie ten aanzien van de risico’s die de genetisch gemodificeerde organismen of de handelingen daarmee kunnen opleveren voor de gezondheid van de mens of het milieu, zorgt hij ervoor dat:
 
@@ -1358,13 +1384,13 @@ De voorschriften met betrekking tot de etikettering, bedoeld in [artikel 4.15, e
 
 5. [Artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=4&afdeling=4.2&artikel=4.9&z=2024-05-18&g=2024-05-18) is van overeenkomstige toepassing.
 
-#### Artikel 4.23
+##### Artikel 4.23
 
 1. Onze Minister kan ambtshalve of op verzoek een vergunning wijzigen of intrekken op grond van nieuwe informatie die van invloed kan zijn op de risico’s van de betrokken genetisch gemodificeerde organismen voor de gezondheid van de mens of het milieu.
 
 2. Op de aanvraag om wijziging van een vergunning is [afdeling 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=4&afdeling=4.2&z=2024-05-18&g=2024-05-18) van overeenkomstige toepassing, met dien verstande dat de gegevens, aangewezen bij of krachtens [artikel 4.8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=4&afdeling=4.2&artikel=4.8&z=2024-05-18&g=2024-05-18), slechts behoeven te worden overgelegd voor zover deze gegevens van betekenis zijn voor de wijziging.
 
-#### Artikel 4.24
+##### Artikel 4.24
 
 1. Onze Minister beslist omtrent wijziging of intrekking van een vergunning als bedoeld in [artikel 4.23](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=4&afdeling=4.4&artikel=4.23&z=2024-05-18&g=2024-05-18):
 
@@ -1384,19 +1410,19 @@ De voorschriften met betrekking tot de etikettering, bedoeld in [artikel 4.15, e
 
 5. Een besluit als bedoeld in het eerste lid is een besluit als bedoeld in [artikel 20.3, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=20.3) en wordt bekendgemaakt in een van overheidswege uitgegeven blad of een dag-, nieuws- of huis-aan-huis-blad, dan wel op een andere geschikte wijze.
 
-#### Artikel 4.25
+##### Artikel 4.25
 
 Onze Minister kan het monitoringplan op verzoek of ambtshalve wijzigen, mits deze wijziging niet in strijd is met de aan de vergunning verbonden voorschriften.
 
 ### Afdeling 4.5. Wijziging en intrekking van de vergunning op andere gronden
 
-#### Artikel 4.26
+##### Artikel 4.26
 
 1. Onze Minister kan ambtshalve of op verzoek een vergunning wijzigen of intrekken op andere gronden dan die genoemd in [afdeling 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=4&afdeling=4.3&z=2024-05-18&g=2024-05-18) en [afdeling 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=4&afdeling=4.4&z=2024-05-18&g=2024-05-18).
 
 2. Tot deze andere gronden behoort in elk geval de uitvoering van besluiten of aanbevelingen van de Raad van de Europese Unie of van de Europese Commissie.
 
-#### Artikel 4.27
+##### Artikel 4.27
 
 1. Het besluit tot het wijzigen of intrekken van een vergunning als bedoeld in [artikel 4.26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=4&afdeling=4.5&artikel=4.26&z=2024-05-18&g=2024-05-18), wordt zo spoedig mogelijk genomen. Tenzij de vereiste spoed zich daartegen verzet, wordt de houder van de vergunning gehoord alvorens het besluit wordt genomen.
 
@@ -1406,7 +1432,7 @@ Onze Minister kan het monitoringplan op verzoek of ambtshalve wijzigen, mits dez
 
 ### Hoofdstuk 5. Verdere bepalingen omtrent het in de handel brengen van genetisch gemodificeerde organismen alsmede bepalingen omtrent het gebruik van toegelaten producten
 
-#### Artikel 5.1
+##### Artikel 5.1
 
 1. De gebruiker van een toegelaten product neemt bij het gebruik in acht, voor zover deze mede tot hem zijn gericht:
 
@@ -1420,11 +1446,11 @@ Onze Minister kan het monitoringplan op verzoek of ambtshalve wijzigen, mits dez
 
 2. Onze Minister maakt de voorschriften ten behoeve van de gebruikers, bedoeld in het eerste lid, onder b, c en d, elektronisch bekend.
 
-#### Artikel 5.2
+##### Artikel 5.2
 
 De houder van een schriftelijke toestemming voor het in de handel brengen, overeenkomstig [richtlijn 2001/18](32001L0018) verleend door de bevoegde instantie van een andere lidstaat, dient een afschrift van de door hem ingevolge genoemde richtlijn opgestelde monitoringrapporten in bij Onze Minister, voor zover deze monitoringrapporten betrekking hebben op genetisch gemodificeerde organismen die de houder van de schriftelijke toestemming in Nederland in de handel brengt.
 
-#### Artikel 5.3
+##### Artikel 5.3
 
 1. Onze Minister kan het in de handel brengen of het gebruik van genetisch gemodificeerde organismen als product of in een product in Nederland tijdelijk beperken of verbieden, indien hij als gevolg van nieuwe of aanvullende informatie of als gevolg van herbeoordeling van bestaande informatie aan de hand van nieuwe of nadere wetenschappelijke kennis duidelijke redenen heeft om aan te nemen dat de betrokken genetisch gemodificeerde organismen als product, of in een product waarvoor hij voor het in de handel brengen een vergunning heeft verleend of de bevoegde instantie van een andere lidstaat van de Europese Unie schriftelijke toestemming heeft gegeven, gevaar opleveren voor de gezondheid van de mens of het milieu.
 
@@ -1432,7 +1458,7 @@ De houder van een schriftelijke toestemming voor het in de handel brengen, overe
 
 3. Bij een besluit als bedoeld in het eerste lid bepaalt Onze Minister tevens in hoeverre de voorhanden zijnde genetisch gemodificeerde organismen worden vernietigd, dan wel worden opgeslagen overeenkomstig de bij ministeriële regeling voor de opslag van deze organismen gestelde regels.
 
-#### Artikel 5.4
+##### Artikel 5.4
 
 1. Onze Minister kan bij ministeriële regeling een register instellen waarin door hem aangewezen gegevens worden opgenomen met betrekking tot de teeltlocatie van toegelaten producten.
 
@@ -1442,7 +1468,7 @@ De houder van een schriftelijke toestemming voor het in de handel brengen, overe
 
 ### Afdeling 6.1. Overige verbodsbepalingen met betrekking tot dit besluit
 
-#### Artikel 6.1
+##### Artikel 6.1
 
 1. Een gedraging in strijd met het bepaalde bij of krachtens [artikel 1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=1&artikel=1.6&z=2024-05-18&g=2024-05-18), [1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=1&artikel=1.8&z=2024-05-18&g=2024-05-18), [3.28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=3&afdeling=3.5&artikel=3.28&z=2024-05-18&g=2024-05-18), [5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=5&artikel=5.1&z=2024-05-18&g=2024-05-18), [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=5&artikel=5.2&z=2024-05-18&g=2024-05-18), [5.3, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=5&artikel=5.3&z=2024-05-18&g=2024-05-18), of [5.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=5&artikel=5.4&z=2024-05-18&g=2024-05-18), is verboden.
 
@@ -1452,7 +1478,7 @@ De houder van een schriftelijke toestemming voor het in de handel brengen, overe
 
 ### Afdeling 6.2. Verbodsbepalingen en doorwerking bij Europese verordeningen, richtlijnen en besluiten of aanbevelingen van de Raad van de Europese Unie of van de Europese Commissie
 
-#### Artikel 6.2
+##### Artikel 6.2
 
 1. Het is verboden te handelen in strijd met artikel 4, eerste, tweede, vierde en zesde lid, van [verordening 1830/2003](32003R1830).
 
@@ -1462,7 +1488,7 @@ De houder van een schriftelijke toestemming voor het in de handel brengen, overe
 
 4. Het verbod, bedoeld in het derde lid, geldt niet indien artikel 6 van [verordening 1830/2003](32003R1830) van toepassing is.
 
-#### Artikel 6.3
+##### Artikel 6.3
 
 Het is verboden te handelen in strijd met het bepaalde bij:
 
@@ -1474,7 +1500,7 @@ Het is verboden te handelen in strijd met het bepaalde bij:
 
 - d. artikel 8, derde lid, van [verordening 1946/2003](32003R1946), voor zover er geen adequate maatregelen zijn genomen.
 
-#### Artikel 6.4
+##### Artikel 6.4
 
 Het is verboden te handelen in strijd met het bepaalde bij:
 
@@ -1482,17 +1508,17 @@ Het is verboden te handelen in strijd met het bepaalde bij:
 
 - b. artikel 10, eerste en tweede lid, van [verordening 1946/2003](32003R1946).
 
-#### Artikel 6.5
+##### Artikel 6.5
 
 Het is verboden te handelen in strijd met de voorschriften gesteld bij de artikelen 12 en 13 van [verordening 1946/2003](32003R1946).
 
-#### Artikel 6.6
+##### Artikel 6.6
 
 1. Onze Minister is de bevoegde instantie, bedoeld in artikel 3, negentiende lid, van [verordening 1946/2003](32003R1946) en treedt op als nationaal contactpunt, bedoeld in artikel 3, twintigste lid, van [verordening 1946/2003](32003R1946).
 
 2. Onze Minister draagt zorg voor de taken die in [verordening 1946/2003](32003R1946) aan de lidstaten zijn opgedragen.
 
-#### Artikel 6.7
+##### Artikel 6.7
 
 1. Een wijziging van een artikel van of een bijlage bij [richtlijn 2001/18](32001L0018) of [richtlijn 2009/41](32009L0041), waarnaar in dit besluit wordt verwezen, treedt voor de toepassing van dit besluit in werking met ingang van de dag waarop uitvoering moet zijn gegeven:
 
@@ -1508,7 +1534,7 @@ Het is verboden te handelen in strijd met de voorschriften gesteld bij de artike
 
 ### Afdeling 6.3. Overgangsbepalingen
 
-#### Artikel 6.8
+##### Artikel 6.8
 
 1. Een op het tijdstip van inwerkingtreding van dit besluit geldende vergunning krachtens [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004703&artikel=8), [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004703&artikel=9), [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004703&artikel=10), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004703&artikel=11) of [17, eerste lid, van het Besluit genetisch gemodificeerde organismen milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0004703&artikel=17), zoals dit laatstelijk gold, wordt aangemerkt als:
 
@@ -1530,11 +1556,11 @@ Het is verboden te handelen in strijd met de voorschriften gesteld bij de artike
 
 6. Het vijfde lid is van overeenkomstige toepassing op een vaststelling van rechtswege als bedoeld in [artikel 9, vierde lid, van genoemd besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004703&artikel=9).
 
-#### Artikel 6.9
+##### Artikel 6.9
 
 Vervallen
 
-#### Artikel 6.10
+##### Artikel 6.10
 
 Een op het tijdstip van inwerkingtreding van dit besluit geldende vergunning krachtens [artikel 23, eerste lid, van het Besluit genetisch gemodificeerde organismen milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0004703&artikel=23), zoals dit laatstelijk gold, wordt aangemerkt als:
 
@@ -1542,7 +1568,7 @@ Een op het tijdstip van inwerkingtreding van dit besluit geldende vergunning kra
 
 - b. een vergunning als bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=4&afdeling=4.1&artikel=4.2&z=2024-05-18&g=2024-05-18) van dit besluit, indien de vergunning betrekking heeft op de doelbewuste introductie door het in de handel brengen.
 
-#### Artikel 6.11
+##### Artikel 6.11
 
 1. Het [Besluit genetisch gemodificeerde organismen milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0004703) en de daarop gebaseerde regelgeving zoals deze gold voor het tijdstip van inwerkingtreding van dit besluit, blijft van toepassing op de onderstaande besluiten, totdat deze onherroepelijk zijn geworden:
 
@@ -1558,47 +1584,47 @@ Een op het tijdstip van inwerkingtreding van dit besluit geldende vergunning kra
 
 3. Nadat het onherroepelijk is geworden, wordt een besluit als bedoeld in het eerste lid, onder b, aangemerkt als een besluit omtrent het wijzigen van een vergunning als bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=3&afdeling=3.1&artikel=3.2&z=2024-05-18&g=2024-05-18) van dit besluit.
 
-#### Artikel 6.12
+##### Artikel 6.12
 
 Vervallen
 
-#### Artikel 6.13
+##### Artikel 6.13
 
 Vervallen
 
 ### Afdeling 6.4. Wijziging van andere besluiten
 
-#### Artikel 6.14
+##### Artikel 6.14
 
 Wijzigt het Besluit omgevingsrecht.
 
-#### Artikel 6.15
+##### Artikel 6.15
 
 Wijzigt het Besluit informatie inzake rampen en crises.
 
-#### Artikel 6.16
+##### Artikel 6.16
 
 Wijzigt het Besluit bescherming Antarctica.
 
-#### Artikel 6.17
+##### Artikel 6.17
 
 Wijzigt het Besluit centrale beoordeling medisch-wetenschappelijk onderzoek met mensen.
 
 ### Afdeling 6.5. Slotbepalingen
 
-#### Artikel 6.18
+##### Artikel 6.18
 
 Onze Minister publiceert jaarlijks langs elektronische weg een overzicht van de beschikkingen, besluiten, aanbevelingen en adviezen van de Raad van de Europese Unie of van de Europese Commissie die van belang zijn voor de toepassing van dit besluit.
 
-#### Artikel 6.19
+##### Artikel 6.19
 
 Het Besluit genetisch gemodificeerde organismen milieubeheer wordt ingetrokken.
 
-#### Artikel 6.20
+##### Artikel 6.20
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 6.21
+##### Artikel 6.21
 
 Dit besluit wordt aangehaald als: Besluit genetisch gemodificeerde organismen milieubeheer 2013.
 
@@ -1668,7 +1694,7 @@ met uitzondering van de organismen, die zijn verkregen door middel van de techni
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 2.13a
+##### Artikel 2.13a
 
 1. De gebruiker kan Onze Minister verzoeken vast te stellen dat een micro-organisme, een plant of een genetisch gemodificeerd organisme in aanmerking komt voor opname op een lijst die is vastgesteld op grond van [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=2&titeldeel=2.1&artikel=2.2&z=2024-05-18&g=2024-05-18).
 
@@ -1780,7 +1806,7 @@ tenzij daarbij andere recombinant-nucleïnezuurmoleculen of genetisch gemodifice
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 3.10a
+##### Artikel 3.10a
 
 1. [Afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4), [afdeling 13.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&afdeling=13.2) en [artikel 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.10&z=2024-05-18&g=2024-05-18) zijn niet van toepassing op de voorbereiding van de beslissing op een aanvraag voor toepassingen van medicinale stoffen en preparaten die bestaan uit genetisch gemodificeerde organismen of die deze bevatten, voor gebruik door de mens indien voor de aanvraag uitsluitend gebruik wordt gemaakt van gegevens of resultaten van een eerdere aanvraag om een vergunning van een andere aanvrager als bedoeld in [artikel 3.7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.7&z=2024-05-18&g=2024-05-18), die is verleend.
 
@@ -1798,7 +1824,7 @@ Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in 
 
 #### § 3.3.2. Procedure voor het verlenen op verzoek van een vergunning onder vaste voorschriften
 
-#### Artikel 3.26a
+##### Artikel 3.26a
 
 1. Dit artikel is van toepassing op een aanvraag voor toepassingen van medicinale stoffen en preparaten die bestaan uit genetisch gemodificeerde organismen of die deze bevatten, voor gebruik door de mens waarvoor een gestandaardiseerde milieurisicobeoordeling is vastgesteld en die bij ministeriële regeling zijn aangewezen.
 
@@ -1868,7 +1894,7 @@ De volgende categorieën van fysische inperking op de daarbij genoemde inperking
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 4.9a
+##### Artikel 4.9a
 
 1. Onze Minister besluit een aanvraag om een vergunning niet of niet verder te behandelen indien die aanvraag niet ontvankelijk is op grond van artikel 32 ter, vierde lid, eerste alinea, of vijfde lid, eerste alinea, van [verordening 178/2002](32002R0178).
 

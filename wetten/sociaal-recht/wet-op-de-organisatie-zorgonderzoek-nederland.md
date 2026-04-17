@@ -1,14 +1,41 @@
 ---
-title: "Wet op de organisatie ZorgOnderzoek Nederland"
+title: "Wet van 14 februari 1998, houdende Wet op de organisatie ZorgOnderzoek Nederland"
 identifier: "BWBR0009385"
-categorie: "Sociaal recht"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009385"
+country: "nl"
+rank: "wet"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009385"
+soort: "wet"
+stam_id: "772963"
+version_id: "1122702"
+internal_id: "C1122701"
+label_id: "749414"
+dtd_version: "2.0"
+original_entry_into_force: "1998-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009385/2025-01-01/0"
+intitule_bron: "Stb.1998-124"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-02-14"
+intitule_published: "1998-03-10"
+intitule_in_force: "1998-05-26"
+intitule_status: "goed"
+original_publication: "Stb.1998-124"
+original_signed_date: "1998-02-14"
+original_published_date: "1998-03-10"
+original_effect: "nieuwe-regeling"
+original_dossier: "25438"
+original_url_id: "stb-1998-124"
+entry_into_force_date: "1998-07-01"
+jci_1_3: "jci1.3:c:BWBR0009385&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0009385&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet op de organisatie ZorgOnderzoek Nederland"
+signed_date: "1998-02-14"
+entry_into_force: "1998-07-01"
 ---
-
-# Wet op de organisatie ZorgOnderzoek Nederland
+# Wet van 14 februari 1998, houdende Wet op de organisatie ZorgOnderzoek Nederland
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### § 1. Begripsbepaling
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -30,7 +57,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2. Instelling en taken van de organisatie
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een organisatie ZorgOnderzoek Nederland (ZON).
 
@@ -38,7 +65,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 3. De [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) is op de organisatie van toepassing.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De organisatie heeft tot taak het doen uitvoeren en het subsidiëren of het verlenen van opdrachten met betrekking tot projecten, experimenten, onderzoek en ontwikkeling op het terrein van gezondheid, preventie en zorg. De organisatie bewaakt daarbij de kwaliteit en de samenhang en bevordert tevens het gebruik van de resultaten.
 
@@ -50,7 +77,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 3. Samenstelling, bevoegdheden en werkwijze bestuur
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het bestuur van de organisatie bestaat uit ten hoogste negen leden waaronder de voorzitter.
 
@@ -62,17 +89,17 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 5. De benoeming geschiedt voor een periode van ten hoogste vier jaren. De leden zijn eenmaal aansluitend herbenoembaar.
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het bestuur van de organisatie laat zich ten behoeve van de voorbereiding en uitvoering van zijn werkzaamheden ondersteunen door een bureau met aan het hoofd een directeur.
 
 2. De directeur is secretaris van het bestuur van de organisatie.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het bestuur van de organisatie stelt een bestuursreglement vast.
 
@@ -84,13 +111,13 @@ Vervallen
 
 - c. de taken en bevoegdheden van de directeur.
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
 #### § 4. De programma's, de jaarplannen en de bekostiging
 
-#### Artikel 9
+##### Artikel 9
 
 1. Onze Minister wijst aandachtsgebieden aan waarvoor een programma zal worden vastgesteld.
 
@@ -106,11 +133,11 @@ Vervallen
 
 - d. de kwaliteitscriteria waaraan projecten, experimenten, onderzoek en ontwikkeling moeten voldoen.
 
-#### Artikel 10
+##### Artikel 10
 
 Vóór 1 november van elk boekjaar stelt het bestuur van de organisatie, met inachtneming van het in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009385&paragraaf=5&artikel=12&z=2025-01-01&g=2025-01-01), bedoelde maximale budget, in een jaarplan vast welke activiteiten in het daaropvolgende boekjaar ter verwezenlijking van de programma’s zullen worden uitgevoerd. Het jaarplan wordt tegelijk met de begroting, bedoeld in [artikel 26 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=26), aan Onze Minister toegezonden.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Het bestuur van de organisatie bekostigt projecten, experimenten, onderzoek en ontwikkeling met inachtneming van het jaarplan en de begroting.
 
@@ -124,7 +151,7 @@ Vóór 1 november van elk boekjaar stelt het bestuur van de organisatie, met ina
 
 #### § 5. Financiële bepalingen
 
-#### Artikel 12
+##### Artikel 12
 
 1. Het boekjaar is gelijk aan het kalenderjaar.
 
@@ -132,7 +159,7 @@ Vóór 1 november van elk boekjaar stelt het bestuur van de organisatie, met ina
 
 3. Onverminderd [artikel 27 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=27), is in de begroting een meerjarenraming opgenomen.
 
-#### Artikel 13
+##### Artikel 13
 
 Het bedrag van de goedgekeurde begroting van de organisatie komt ten laste van:
 
@@ -140,49 +167,49 @@ Het bedrag van de goedgekeurde begroting van de organisatie komt ten laste van:
 
 - b. derden, voor zover het betreft werkzaamheden die op verzoek van deze derden worden uitgevoerd.
 
-#### Artikel 14
+##### Artikel 14
 
 Het bestuur stelt het jaarverslag en de jaarrekening, bedoeld in de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18) en [34 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34), algemeen verkrijgbaar.
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
-#### Artikel 16
+##### Artikel 16
 
 1. Bij ministeriële regeling kunnen regels gesteld worden met betrekking tot het financieel beheer, de inrichting van de begroting en het financieel verslag, de omvang en aanwending van de egalisatiereserve, en de accountantscontrole.
 
 2. De accountant doet verslag van zijn bevindingen over de vraag of het beheer en de wijze waarop de organisatie is georganiseerd voldoen aan de eisen van rechtmatigheid, ordelijkheid en controleerbaarheid.
 
-#### Artikel 17
+##### Artikel 17
 
 Na afronding van een programma brengt het bestuur een verslag uit van de resultaten van het programma, en zendt dit toe aan Onze Minister.
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
-#### Artikel 19
+##### Artikel 19
 
 Vervallen
 
 #### § 7. Overgangs- en slotbepalingen
 
-#### Artikel 20
+##### Artikel 20
 
 In afwijking van [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009385&paragraaf=3&artikel=4&z=2025-01-01&g=2025-01-01), worden voor de eerste maal de helft van het aantal leden van het bestuur benoemd voor twee jaar en de overige leden, waaronder de voorzitter, voor vier jaar.
 
-#### Artikel 21
+##### Artikel 21
 
 1. De Wet op het praeventiefonds wordt ingetrokken.
 
 2. Het Praeventiefonds draagt zorg voor de voortzetting en afsluiting van de administratie, het bestandsbeheer en het kasbeheer en dient binnen een half jaar na de datum van inwerkingtreding van deze wet bij Onze Minister een finale verantwoording in. Voor de uitvoering van de eerste volzin blijft het Praeventiefonds in stand tot twee maanden na de datum waarop de verantwoording is ingediend.
 
-#### Artikel 22
+##### Artikel 22
 
 Wijzigt de Wet financiering volksverzekeringen.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Met ingang van de datum van inwerkingtreding van deze wet zijn de personeelsleden in dienst bij het Praeventiefonds van rechtswege ontslagen en aangesteld als ambtenaar in dienst van de organisatie.
 
@@ -190,7 +217,7 @@ Wijzigt de Wet financiering volksverzekeringen.
 
 3. De overgang van de in het eerste en tweede lid bedoelde personeelsleden vindt plaats met een rechtspositie die als geheel ten minste gelijkwaardig is aan die welke voor elk van hen gold bij het Praeventiefonds onderscheidenlijk het Ministerie van Volksgezondheid, Welzijn en Sport.
 
-#### Artikel 24
+##### Artikel 24
 
 1. De rechten en plichten van het Praeventiefonds gaan over op de organisatie.
 
@@ -198,21 +225,21 @@ Wijzigt de Wet financiering volksverzekeringen.
 
 3. De in het eerste en tweede lid bedoelde rechten en plichten gaan met ingang van de datum van inwerkingtreding van deze wet onder algemene titel en om niet over op de organisatie.
 
-#### Artikel 25
+##### Artikel 25
 
 1. De archiefbescheiden van het Praeventiefonds gaan met ingang van inwerkingtreding van deze wet over naar de organisatie, voor zover zij niet overeenkomstig het bepaalde in de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) zijn overgebracht naar een archiefbewaarplaats.
 
 2. Archiefbescheiden van het Ministerie van Volksgezondheid, Welzijn en Sport voor zover betrekking hebbend op activiteiten die als gevolg van de inwerkingtreding van deze wet overgaan op de organisatie, gaan met ingang van de datum van inwerkingtreding van deze wet over naar de organisatie, voor zover zij niet overeenkomstig de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) zijn overgebracht naar een archiefbewaarplaats.
 
-#### Artikel 26
+##### Artikel 26
 
 In wettelijke procedures en rechtsgedingen met betrekking tot activiteiten die als gevolg van de inwerkingtreding van deze wet overgaan op de organisatie waarbij het Praeventiefonds of het Ministerie van Volksgezondheid, Welzijn en Sport is betrokken, treedt met ingang van de datum van inwerkingtreding van deze wet de organisatie in plaats van het Praeventiefonds onderscheidenlijk Onze Minister.
 
-#### Artikel 27
+##### Artikel 27
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 28
+##### Artikel 28
 
 Deze wet kan worden aangehaald als: de Wet op de organisatie ZorgOnderzoek Nederland.
 

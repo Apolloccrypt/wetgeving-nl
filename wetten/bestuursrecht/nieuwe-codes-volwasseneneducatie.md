@@ -1,13 +1,36 @@
 ---
 title: "Nieuwe codes volwasseneneducatie"
 identifier: "BWBR0015488"
-categorie: "Bestuursrecht"
-publicatiedatum: 2003-09-10
-laatste_update: 2003-09-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015488"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2003-09-10"
+last_updated: "2003-09-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015488"
+soort: "beleidsregel"
+stam_id: "6471463"
+version_id: "11148762"
+internal_id: "C15068431"
+label_id: "6460054"
+original_entry_into_force: "2003-09-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015488/2003-09-10/0"
+intitule_bron: "Uitleg.2003-19"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-08-19"
+intitule_published: "2003-09-10"
+intitule_in_force: "2003-09-10"
+intitule_status: "goed"
+original_publication: "Uitleg.2003-19"
+original_signed_date: "2003-08-19"
+original_published_date: "2003-09-10"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2003-09-10"
+jci_1_3: "jci1.3:c:BWBR0015488&z=2003-09-10&g=2003-09-10"
+jci_1_0: "1.0:c:BWBR0015488&g=2003-09-10"
+citeertitel_status: "redactioneel"
+signed_date: "2003-08-19"
+entry_into_force: "2003-09-10"
 ---
-
 # Nieuwe codes volwasseneneducatie
 
 ### Algemeen

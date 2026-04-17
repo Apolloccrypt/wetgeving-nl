@@ -1,20 +1,45 @@
 ---
 title: "Besluit beperking openbaarheid Archief registraties bemanningsleden en door Ministerie van Verkeer en Waterstaat uitgegeven zee- en visvaartdiploma’s 1950 – 1985, Inspectie Leefomgeving en Transport"
 identifier: "BWBR0039260"
-categorie: "Milieu"
-publicatiedatum: 2017-03-02
-laatste_update: 2017-03-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039260"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-03-02"
+last_updated: "2017-03-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039260"
+soort: "ministeriele-regeling"
+stam_id: "13927123"
+version_id: "23944012"
+internal_id: "C34429251"
+label_id: "13891104"
+dtd_version: "2.0"
+original_entry_into_force: "2017-03-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039260/2017-03-02/0"
+intitule_bron: "Stcrt.2017-11547"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-01-23"
+intitule_published: "2017-03-01"
+intitule_in_force: "2017-03-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-11547"
+original_signed_date: "2017-01-23"
+original_published_date: "2017-03-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-11547"
+entry_into_force_date: "2017-03-02"
+jci_1_3: "jci1.3:c:BWBR0039260&z=2017-03-02&g=2017-03-02"
+jci_1_0: "1.0:c:BWBR0039260&g=2017-03-02"
+citeertitel_status: "redactioneel"
+signed_date: "2017-01-23"
+entry_into_force: "2017-03-02"
 ---
-
 # Besluit beperking openbaarheid Archief registraties bemanningsleden en door Ministerie van Verkeer en Waterstaat uitgegeven zee- en visvaartdiploma’s 1950 – 1985, Inspectie Leefomgeving en Transport
 
 Gelet op [artikel 15, lid 1, onder a Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van het Nationaal Archief d.d. 15 september 2014, met kenmerk NA/2014/14103
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Met het oog op de eerbiediging van de persoonlijke levenssfeer van betrokken personen zijn de inventarisnummers uit het ‘Archief inzake registraties van bemanningsleden en door het Ministerie van Verkeer en Waterstaat uitgegeven zee- en visvaartdiploma’s, 1950 – 1985 genoemd in de eerste kolom beperkt openbaar tot 1 januari van het jaar genoemd in de tweede kolom.
 
@@ -545,18 +570,18 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer van betrokken per
 | 490 | 2066 |
 | 491 | 2066 |
 
-#### Artikel 2
+##### Artikel 2
 
 De beperking aan de openbaarheid van een registratiekaart uit het archief vervalt als de persoon van wie de gegevens in een registratiekaart zijn opgenomen, aantoonbaar is overleden.
 
-#### Artikel 3
+##### Artikel 3
 
 Raadpleging of gebruik van de archiefbescheiden genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039260&artikel=1&z=2017-03-02&g=2017-03-02), is binnen de termijn waarvoor de beperkingen zijn gesteld uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemene Rijksarchivaris, die aan zijn toestemming voorwaarden kan verbinden. Een verzoek tot inzage zal worden behandeld volgens de daarvoor bij het Nationaal Archief geldende procedure voor inzage in archieven met bijzondere persoonsgegevens.
 
-#### Artikel 4
+##### Artikel 4
 
 Het vervaardigen van reproducties van documenten uit de dossiers in het archief als genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039260&artikel=1&z=2017-03-02&g=2017-03-02), is binnen de termijn waarvoor de beperkingen zijn gesteld uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemene rijksarchivaris, die aan zijn toestemming voorwaarden kan verbinden.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant, waarin het wordt geplaatst. Dit besluit wordt als bijlage gevoegd bij de “Verklaring van Overbrenging van het archief inzake de registraties van bemanningsleden en de door het Ministerie van Verkeer en Waterstaat uitgegeven zee- en visvaartdiploma’s”.

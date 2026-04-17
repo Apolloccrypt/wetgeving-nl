@@ -1,20 +1,46 @@
 ---
-title: "Regeling specifieke uitkering inhalen COVID-19-gerelateerde onderwijsvertragingen"
+title: "Regeling van de Minister voor Basis- en Voorgezet Onderwijs en Media van 30 september, nr. KO/28085678, houdende regels voor het verstrekken van specifieke uitkeringen voor het stimuleren van gemeentelijke maatregelen om COVID-19 gerelateerde onderwijsvertragingen in te lopen"
 identifier: "BWBR0045681"
-categorie: "Sociaal recht"
-publicatiedatum: 2023-01-01
-laatste_update: 2023-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045681"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-01-01"
+last_updated: "2023-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045681"
+soort: "ministeriele-regeling"
+stam_id: "16096033"
+version_id: "28076032"
+internal_id: "C39597661"
+label_id: "16027104"
+dtd_version: "2.0"
+original_entry_into_force: "2021-10-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045681/2023-01-01/0"
+intitule_bron: "Stcrt.2021-42927"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-09-30"
+intitule_published: "2021-10-11"
+intitule_in_force: "2021-10-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-42927"
+original_signed_date: "2021-09-30"
+original_published_date: "2021-10-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-42927"
+entry_into_force_date: "2021-10-12"
+jci_1_3: "jci1.3:c:BWBR0045681&z=2023-01-01&g=2023-01-01"
+jci_1_0: "1.0:c:BWBR0045681&g=2023-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling specifieke uitkering inhalen COVID-19-gerelateerde onderwijsvertragingen"
+signed_date: "2021-09-30"
+entry_into_force: "2021-10-12"
 ---
-
 # Regeling van de Minister voor Basis- en Voorgezet Onderwijs en Media van 30 september, nr. KO/28085678, houdende regels voor het verstrekken van specifieke uitkeringen voor het stimuleren van gemeentelijke maatregelen om COVID-19 gerelateerde onderwijsvertragingen in te lopen
 
 Gelet op [artikel 17, vijfde lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -40,11 +66,11 @@ In deze regeling wordt verstaan onder:
 
 - **thuiszitters:** alle op grond van de [Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628) kwalificatie- of leerplichtige jongeren die absoluut verzuimen of kort dan wel langdurig relatief verzuimen, met uitzondering van jongeren die zijn ingeschreven aan een instelling als bedoeld in [artikel 1, onderdeel c, van de Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=1).
 
-#### Artikel 2. Plafond voor verstrekken van specifieke uitkeringen
+##### Artikel 2. Plafond voor verstrekken van specifieke uitkeringen
 
 Het plafond voor het verstrekken van de specifieke uitkeringen bedraagt in totaal € 307.864.000
 
-#### Artikel 3. Verstrekken van de specifieke uitkering
+##### Artikel 3. Verstrekken van de specifieke uitkering
 
 1. De Minister verstrekt aan alle in Europees Nederland gelegen gemeenten een eenmalige specifieke uitkering om in de periode van 1 juli 2021 tot en met 31 juli 2025 in samenwerking met scholen en lokale partijen maatregelen te treffen om de onderwijsvertragingen bij kinderen als gevolg van COVID-19 in te lopen op cognitief, executief, sociaal en emotioneel vlak in aanvulling op de interventies die scholen nemen.
 
@@ -68,7 +94,7 @@ Het plafond voor het verstrekken van de specifieke uitkeringen bedraagt in totaa
 
 4. Een specifieke uitkering wordt niet verstrekt voor kosten die reeds uit andere hoofde zijn of worden gesubsidieerd of bekostigd.
 
-#### Artikel 4. Hoogte specifieke uitkering
+##### Artikel 4. Hoogte specifieke uitkering
 
 1. De specifieke uitkering bestaat uit twee delen:
 
@@ -78,7 +104,7 @@ Het plafond voor het verstrekken van de specifieke uitkeringen bedraagt in totaa
 
 2. De hoogte van de uitkering wordt aangepast op basis van de vaststelling van de definitieve leerlingenaantallen. De Minister kan in 2022 en 2023 loon- en prijsbijstelling toekennen.
 
-#### Artikel 5. Verplichtingen gemeente
+##### Artikel 5. Verplichtingen gemeente
 
 De gemeente:
 
@@ -86,7 +112,7 @@ De gemeente:
 
 - b. doet onverwijld een schriftelijke melding aan de Minister indien aannemelijk is geworden dat de activiteiten waarvoor de specifieke uitkering is verstrekt, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045681&artikel=3&z=2023-01-01&g=2023-01-01), niet tijdig of niet geheel zullen worden verricht of dat niet tijdig of niet geheel aan de verplichtingen in dit artikel zal worden voldaan.
 
-#### Artikel 6. Betaling
+##### Artikel 6. Betaling
 
 1. De specifieke uitkering wordt ambtshalve verleend.
 
@@ -94,7 +120,7 @@ De gemeente:
 
 3. De specifieke uitkering wordt in de periode van augustus 2021 tot en met juli 2023 uitbetaald in maandelijkse termijnen van gelijke omvang. De eerste betaling vindt plaats in december 2021. In deze maand wordt ook het bedrag voor de maanden augustus, september, oktober en november van het jaar 2021 uitbetaald.
 
-#### Artikel 7. Verantwoording, vaststelling en terugvordering
+##### Artikel 7. Verantwoording, vaststelling en terugvordering
 
 1. De ontvangende gemeente legt verantwoording af over de besteding van de specifieke uitkering op de wijze bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
@@ -102,12 +128,12 @@ De gemeente:
 
 3. Als uit de eindverantwoording blijkt dat de uitkering niet, niet geheel, of onrechtmatig is besteed kan de Minister tot twaalf maanden na het ontvangen van de eindverantwoording de uitkering ter hoogte van het niet of onrechtmatig bestede deel terugvorderen.
 
-#### Artikel 8. Inwerkingtreding en vervaldatum
+##### Artikel 8. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 juli 2021.
 
 2. Deze regeling vervalt met ingang van 1 juli 2028.
 
-#### Artikel 9. Citeertitel
+##### Artikel 9. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering inhalen COVID-19-gerelateerde onderwijsvertragingen.

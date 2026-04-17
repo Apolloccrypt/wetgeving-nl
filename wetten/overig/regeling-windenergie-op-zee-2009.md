@@ -1,13 +1,39 @@
 ---
-title: "Regeling windenergie op zee 2009"
+title: "Regeling van de Minister van Economische Zaken van 18 november 2009, nr. WJZ/9203919, tot aanwijzing van productie-installaties voor het opwekken van hernieuwbare elektriciteit met behulp van windenergie op zee als een subsidiabele categorie in het kader van de stimulering van duurzame energieproductie (Regeling windenergie op zee 2009)"
 identifier: "BWBR0026690"
-categorie: "Overig"
-publicatiedatum: 2010-07-24
-laatste_update: 2010-07-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026690"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2010-07-24"
+last_updated: "2010-07-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026690"
+soort: "ministeriele-regeling"
+stam_id: "10283423"
+version_id: "16831012"
+internal_id: "C23173911"
+label_id: "10258994"
+dtd_version: "2.0"
+original_entry_into_force: "2009-11-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026690/2010-07-24/0"
+intitule_bron: "Stcrt.2009-17851"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-11-18"
+intitule_published: "2009-11-24"
+intitule_in_force: "2009-11-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-17851"
+original_signed_date: "2009-11-18"
+original_published_date: "2009-11-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-17851"
+entry_into_force_date: "2009-11-25"
+jci_1_3: "jci1.3:c:BWBR0026690&z=2010-07-24&g=2010-07-24"
+jci_1_0: "1.0:c:BWBR0026690&g=2010-07-24"
+citeertitel_status: "officieel"
+short_title: "Regeling windenergie op zee 2009"
+signed_date: "2009-11-18"
+entry_into_force: "2009-11-25"
 ---
-
 # Regeling van de Minister van Economische Zaken van 18 november 2009, nr. WJZ/9203919, tot aanwijzing van productie-installaties voor het opwekken van hernieuwbare elektriciteit met behulp van windenergie op zee als een subsidiabele categorie in het kader van de stimulering van duurzame energieproductie (Regeling windenergie op zee 2009)
 
 Handelende na overleg met de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, de Minister van Landbouw, Natuur en Voedselkwaliteit en de Minister van Financiën;
@@ -18,7 +44,7 @@ Besluit:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -30,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Windenergie op zee
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Minister verstrekt op aanvraag subsidie aan producenten van hernieuwbare elektriciteit geproduceerd door een productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie op zee.
 
@@ -38,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 3. Een aanvraag om subsidie wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0026690&bijlage=1&z=2010-07-24&g=2010-07-24).
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het subsidieplafond voor het verlenen van subsidie die is aangevraagd in de periode, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026690&paragraaf=2&artikel=2&z=2010-07-24&g=2010-07-24), bedraagt € 5.384.817.810,00.
 
@@ -46,11 +72,11 @@ In deze regeling wordt verstaan onder:
 
 3. De criteria voor rangschikking, bedoeld in [artikel 60, eerste lid, onderdelen c tot en met e, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=60) zijn niet van toepassing.
 
-#### Artikel 4
+##### Artikel 4
 
 Het maximum tenderbedrag, bedoeld in [artikel 19, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=19), voor subsidie als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026690&paragraaf=2&artikel=2&z=2010-07-24&g=2010-07-24), bedraagt € 0,181000 per kWh.
 
-#### Artikel 5
+##### Artikel 5
 
 Voor de toepassing van [artikel 60, zesde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=60), wordt het door de producent opgegeven tenderbedrag ten behoeve van de rangschikking gecorrigeerd met het in de tabel opgenomen bedrag:
 
@@ -75,27 +101,27 @@ Voor de toepassing van [artikel 60, zesde lid, van het besluit](https://wetten.o
 
 2De coördinaten van het aanlandingspunt, bedoeld in de Wbr-vergunning van de subsidieaanvrager.
 
-#### Artikel 6
+##### Artikel 6
 
 De beschikking tot verlenen van een subsidie voor de productie van hernieuwbare elektriciteit met behulp van windenergie op zee wordt verleend onder de opschortende voorwaarde dat binnen acht weken na afgifte van deze beschikking een uitvoeringsovereenkomst overeenkomstig de overeenkomst opgenomen in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026690&bijlage=2&z=2010-07-24&g=2010-07-24) tot stand is gekomen tussen de Staat en de subsidie-aanvrager.
 
-#### Artikel 7
+##### Artikel 7
 
 De subsidie wordt voor een periode van 15 jaar verstrekt.
 
-#### Artikel 8
+##### Artikel 8
 
 De subsidie-ontvanger neemt de productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie op zee binnen 5 jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
 
-#### Artikel 9
+##### Artikel 9
 
 Het maximaal aantal vollasturen voor productie-installaties voor de productie van hernieuwbare elektriciteit met behulp van windenergie op zee bedraagt 3180 uren per jaar.
 
-#### Artikel 10
+##### Artikel 10
 
 De basiselektriciteitsprijs, bedoeld in [artikel 20, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=20) bedraagt € 0,051150 per kWh.
 
-#### Artikel 11
+##### Artikel 11
 
 De subsidie-ontvanger verstrekt tenminste eenmaal per jaar, op het tijdstip genoemd in de beschikking tot subsidieverlening, zowel per windmolen als per productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie op zee, de volgende gegevens aan de Minister:
 
@@ -109,7 +135,7 @@ De subsidie-ontvanger verstrekt tenminste eenmaal per jaar, op het tijdstip geno
 
 - e. de effecten van de uitval van windmolens op de bedrijfsvoering en op het onderhoud van die windmolens.
 
-#### Artikel 12
+##### Artikel 12
 
 De correcties op het tenderbedrag voor de subsidie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026690&paragraaf=2&artikel=2&z=2010-07-24&g=2010-07-24), worden voor 2010 als volgt vastgesteld:
 
@@ -119,11 +145,11 @@ De correcties op het tenderbedrag voor de subsidie, bedoeld in [artikel 2, eerst
 
 #### § 3. Slotbepalingen
 
-#### Artikel 13
+##### Artikel 13
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 14
+##### Artikel 14
 
 Deze regeling wordt aangehaald als: Regeling windenergie op zee 2009.
 

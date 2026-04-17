@@ -1,13 +1,38 @@
 ---
 title: "Overeenkomst over de verbetering en het onderhoud van het Grenskanaal (Netterdenscher Kanal) en de Wild alsmede het onderhoud en de bediening van kunstwerken in en aan deze wateren"
 identifier: "BWBV0002667"
-categorie: "Milieu"
-publicatiedatum: 1990-03-01
-laatste_update: 1990-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002667"
+country: "nl"
+rank: "verdrag"
+publication_date: "1990-03-01"
+last_updated: "1990-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002667"
+soort: "verdrag"
+stam_id: "10002964153"
+version_id: "10002966792"
+internal_id: "C10006997351"
+label_id: "10002950834"
+dtd_version: "2.0"
+original_entry_into_force: "1990-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002667/1990-03-01/0"
+intitule_bron: "Trb.1989-72"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1988-09-21"
+intitule_published: "1989-06-06"
+intitule_in_force: "1991-05-01"
+intitule_status: "goed"
+original_publication: "Trb.1989-72"
+original_signed_date: "1988-09-21"
+original_published_date: "1989-06-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1989-72"
+entry_into_force_date: "1990-03-01"
+jci_1_3: "jci1.3:c:BWBV0002667&z=1990-03-01&g=1990-03-01"
+jci_1_0: "1.0:c:BWBV0002667&g=1990-03-01"
+citeertitel_status: "officieel"
+signed_date: "1988-09-21"
+entry_into_force: "1990-03-01"
 ---
-
 # Overeenkomst over de verbetering en het onderhoud van het Grenskanaal (Netterdenscher Kanal) en de Wild alsmede het onderhoud en de bediening van kunstwerken in en aan deze wateren
 
 Het polderdistrict Rijn en IJssel, vertegenwoordigd door de dijkgraaf de heer Drs. W. Wolters
@@ -30,17 +55,17 @@ De verbetering en het onderhoud van het Grenskanaal (Netterdenscher Kanal) en de
 
 Dienovereenkomstig sluiten het Wasserverband en het polderdistrict met inachtneming van hoofdstuk 4, artikel 59, lid 2 van het Grensverdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland van 8 april 1960, de volgende overeenkomst.
 
-#### Artikel 1
+##### Artikel 1
 
 Het polderdistrict Rijn en IJssel verplicht zich - behoudens verplichtingen van derden - het aan de Nederlandse zijde van de grens gelegen deel van de watergang, gevormd door het Grenskanaal (Netterdenscher Kanal) en de Wild, dat begint nabij grenspaal 710, bovenstrooms van de uitmonding van de Lander (Hettergraf) en eindigt nabij grenspaal 663, bij de uitmonding in de Oude Rijn (Lobither Altrhein), te verbeteren en te onderhouden en de kunstwerken en beplantingen in en aan dit deel van de watergang die naar aanleiding van of samenhangend met de verbetering en het onderhoud van deze watergang werden aangebracht of nog worden aangebracht te onderhouden en/of te bedienen.
 
-#### Artikel 2
+##### Artikel 2
 
 Het Wasserverband Netterdenscher Kanal verplicht zich - behoudens verplichtingen van derden - het aan de Duitse zijde van de grens gelegen deel van de watergang, gevormd door het Grenskanaal (Netterdenscher Kanal) en de Wild, dat begint nabij grenspaal 710, bovenstrooms van de uitmonding van de Lander (Hettergraf) en eindigt nabij grenspaal 663, bij de uitmonding in de Oude Rijn (Lobither Altrhein), te verbeteren en te onderhouden en de kunstwerken en beplantingen in en aan dit deel van de watergang die naar aanleiding van of samenhangend met de verbetering en het onderhoud van deze watergang werden aangebracht of nog worden aangebracht te onderhouden en/of te bedienen.
 
 Het Wasserverband Netterdenscher Kanal verplicht zich de verbetering van de gedeelten op Duits gebied, gelegen tussen de grensvormende delen van de watergang, uit te voeren voor het tijdstip van gereedkomen van de gezamenlijk te verbeteren gedeelten en deze (zelf verbeterde) gedeelten van de watergang te onderhouden.
 
-#### Artikel 3
+##### Artikel 3
 
 a. De in de overwegingen bedoelde stuwen zijn:
 
@@ -64,11 +89,11 @@ Partijen beogen aan weerszijden van de gehele watergang een onderhoudsstrook van
 
 Als compensatiemaatregelen wordt nevens de beplanting aan de watergang voorzien in een verdere beplanting.
 
-#### Artikel 4
+##### Artikel 4
 
 De voor de verbetering en het onderhoud van de watergangen en de kunstwerken maatgevende toestand wordt in een door partijen gewaarmerkt plan vastgelegd, hetwelk met eventuele toekomstige, op dit plan aangegeven wijzigingen, onderdeel van deze overeenkomst is. Het plan moet een overzichtskaart met ingetekende stroomgebieden (1:25.000), een lengteprofiel en kenmerkende dwarsprofielen bevatten.
 
-#### Artikel 5
+##### Artikel 5
 
 De verbeteringskosten worden als volgt verdeeld:
 
@@ -76,13 +101,13 @@ De verbeteringskosten worden als volgt verdeeld:
 
 - b. De gedeelten op Duits grondgebied: van punt 0 (km) + 0 (m) tot 0 (km) + 92 (m) en van punt 9,1 (km) + 75 (m) tot 12,7 (km) + 53 (m) alsmede voor de stuw bij de Spijkerweg worden gedragen door het Wasserverband Netterdenscher Kanal.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Elke partij is verplicht de andere partij tijdig het tijdstip van het begin van de bouwwerkzaamheden mede te delen.
 
 2. Met de bouwwerkzaamheden moet worden begonnen binnen zes maanden na goedkeuring van de financiële steun van overheidswege en zij moeten zonder vertraging worden voltooid.
 
-#### Artikel 7
+##### Artikel 7
 
 Het onderhoud en de bediening van de in artikel 1 en artikel 2 genoemde grensvormende gedeelten watergang en kunstwerken wordt jaarlijks afwisselend, of om een andere tussen het Wasserverband Netterdenscher Kanal en het polderdistrict Rijn en IJssel overeengekomen periode, bij toerbeurt op gelijke wijze door een dezer partijen uitgevoerd. De per jaar beoogde onderhoudsmaatregelen en de te verwachten kosten daarvan dienen vooraf steeds met de andere partij te zijn overeengekomen.
 
@@ -90,11 +115,11 @@ De onderhoudskosten komen, verhoogd met zeven en half procent, ten laste van het
 
 De andere partij is verplicht om aan de met het onderhoud belaste partij uiterlijk voor 1 september vijfenzeventig procent van het volgens de begroting en de verdeelsleutel te betalen bedrag over te maken en om het resterende gedeelte binnen een maand na de voor 1 april van het jaar daarop volgend overgelegde rekening te voldoen.
 
-#### Artikel 8
+##### Artikel 8
 
 Partijen verplichten zich om in haar gebied te bevorderen dat een niet door haarzelf te onderhouden kunstwerk in en aan de in artikel 1 en artikel 2 genoemde watergangen door de daartoe verplichte derde wordt onderhouden.
 
-#### Artikel 9
+##### Artikel 9
 
 Partijen verplichten zich, onverminderd het voor haar dan geldende nationale recht, te bevorderen, dat bepalingen in haar reglementen worden opgenomen waardoor de eigenaren en gebruikers van aan de in artikel 1 en artikel 2 genoemde watergangen gelegen gronden worden verplicht:
 
@@ -110,7 +135,7 @@ Partijen verplichten zich, onverminderd het voor haar dan geldende nationale rec
 
 - f. te verhinderen dat ruimsel wegdrijft uit de sloten die uitmonden in de in artikel 1 en artikel 2 genoemde watergangen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Elke partij is verplicht de andere partij tijdig in te lichten, wanneer haar de bedoeling blijkt om een wezenlijke verandering aan de watergangen, aan de kunstwerken in en aan de watergangen of aan de waterhoeveelheden in het stroomgebied aan te brengen, of wanneer zij een zodanige verandering constateert. In het laatste geval kan de andere partij verlangen dat de betreffende partijen samen plaatselijk de oorzaak van de verandering gaan constateren. De artikelen 60 tot en met 62 van het Grensverdrag, alsmede de regelen van het dan geldende nationale recht blijven onverlet.
 
@@ -118,7 +143,7 @@ Partijen verplichten zich, onverminderd het voor haar dan geldende nationale rec
 
 Worden reglementen van partijen gewijzigd en worden hierdoor belangen uit deze overeenkomst aan Duitse of Nederlandse zijde getroffen, dan dient de dan andere zijde voorafgaand aan de wijziging te worden gehoord.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Voor het toezicht op het regelmatig onderhoud wordt een commissie van 4 leden (schouwcommissie) gevormd, die als volgt is samengesteld:
 
@@ -140,19 +165,19 @@ Het voorzitterschap wordt jaarlijks afwisselend bekleed door een vertegenwoordig
 
 7. De leden van de schouwcommissie kunnen op elk gewenst moment de in artikel 1 en artikel 2 genoemde watergangen bezichtigen. De partijen verplichten zich, onverminderd het dan voor haar geldende nationale recht, te bevorderen, dat in haar reglementen desbetreffende bepalingen worden opgenomen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Wijzigingen van de overeenkomst behoeven goedkeuring van de Regeringen van de Bondsrepubliek Duitsland en van het Koninkrijk der Nederlanden.
 
 2. Wijzigingen van de in artikel 5 en artikel 7 genoemde verdeelsleutel van kosten en van het in artikel 4 genoemde plan behoeven slechts toestemming van de Regierungspräsident in Düsseldorf en het college van Gedeputeerde Staten van Gelderland in Arnhem.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De overeenkomst wordt voor de duur van 10 jaar gesloten. Als zij niet minstens 3 jaar voor het einde van deze termijn wordt opgezegd, wordt zij stilzwijgend voor telkens 10 jaar verlengd.
 
 2. De opzegging dient te geschieden per aangetekende brief.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Deze overeenkomst behoeft de goedkeuring van de regeringen van de Bondsrepubliek Duitsland en van het Koninkrijk der Nederlanden.
 

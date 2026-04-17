@@ -1,20 +1,46 @@
 ---
-title: "Besluit ondermandaat, volmacht en machtiging van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Landbouw, Natuur en Voedselkwaliteit 2022"
+title: "Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit van 6 december 2021, nr. NVWA/2022/457, houdende verlening van ondermandaat, volmacht en machtiging voor de Nederlandse Voedsel-en Warenautoriteit van het Ministerie van Landbouw, Natuur en Voedselkwaliteit (Besluit ondermandaat, volmacht en machtiging Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Landbouw, Natuur en Voedselkwaliteit 2022)"
 identifier: "BWBR0046225"
-categorie: "Milieu"
-publicatiedatum: 2025-02-06
-laatste_update: 2025-02-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046225"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-02-06"
+last_updated: "2025-02-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046225"
+soort: "ministeriele-regeling"
+stam_id: "16241673"
+version_id: "28359102"
+internal_id: "C39997021"
+label_id: "16169174"
+dtd_version: "2.0"
+original_entry_into_force: "2022-01-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046225/2025-02-06/0"
+intitule_bron: "Stcrt.2022-1227"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-12-06"
+intitule_published: "2022-01-21"
+intitule_in_force: "2022-01-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-1227"
+original_signed_date: "2021-12-06"
+original_published_date: "2022-01-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-1227"
+entry_into_force_date: "2022-01-22"
+jci_1_3: "jci1.3:c:BWBR0046225&z=2025-02-06&g=2025-02-06"
+jci_1_0: "1.0:c:BWBR0046225&g=2025-02-06"
+citeertitel_status: "officieel"
+short_title: "Besluit ondermandaat, volmacht en machtiging van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Landbouw, Natuur en Voedselkwaliteit 2022"
+signed_date: "2021-12-06"
+entry_into_force: "2022-01-22"
 ---
-
 # Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit van 6 december 2021, nr. NVWA/2022/457, houdende verlening van ondermandaat, volmacht en machtiging voor de Nederlandse Voedsel-en Warenautoriteit van het Ministerie van Landbouw, Natuur en Voedselkwaliteit (Besluit ondermandaat, volmacht en machtiging Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Landbouw, Natuur en Voedselkwaliteit 2022)
 
 #### § 1. Algemene bepalingen
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 2
+##### Artikel 2
 
 1. Aan de inspecteur-generaal is voorbehouden: het nemen van besluiten, het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van andere handelingen dan een besluit of een privaatrechtelijke rechtshandeling betreffende de volgende aangelegenheden:
 
@@ -46,7 +72,7 @@ bron: "https://wetten.overheid.nl/BWBR0046225"
 
 - i. het afnemen van de eed en belofte van directeuren.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Aan de plaatsvervangend inspecteur-generaal, de directeuren, de plaatsvervangend directeur Interne Organisatie, de divisiehoofden, de afdelingshoofden en de teamleiders wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein, met dien verstande dat het aangaan van financiële verplichtingen het door de inspecteur-generaal vastgestelde bedrag niet te boven gaat.
 
@@ -126,17 +152,17 @@ bron: "https://wetten.overheid.nl/BWBR0046225"
 
 6. De in de leden 3, 4 en 5 bedoelde besluiten, beslissingen en overige handelingen betreffen medewerkers voor wie salarisschaal 1 tot en met 14 van paragraaf 6.3 van de CAO Rijk geldt.
 
-#### Artikel 4
+##### Artikel 4
 
 Aan de Chief Nature and Environment Officer, Chief Veterinary Inspector, de Chief Food Safety Officer, de Director National Plant Protection Organisation, de inspecteurs bij de afdeling Import, bij de afdeling Exportcertificering op locatie, bij de afdeling Toezicht Pluimvee en bij de afdeling Toezicht Roodvlees, de senior inspecteurs bij de afdeling Exportcertificering op afstand, de inspecteurs van de afdeling Dier, de inspecteurs van de afdeling Plant, vis, EU en natuur en de liaison agressie en geweld wordt, ieder voor zich, ondermandaat en machtiging verleend voor aangelegenheden op hun werkterrein.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Aan de directeur Strategie, het divisiehoofd Juridische Zaken en de teamleiders Bezwaar en Beroep wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor het nemen van beslissingen op bezwaarschriften, het instellen en intrekken van hoger beroep, het aantekenen van verzet en het aanvragen van voorlopige voorzieningen, alsmede het intrekken hiervan.
 
 2. Aan de directeur Strategie, het divisiehoofd Juridische Zaken, de teamleiders Bezwaar en Beroep en de juristen Bezwaar en Beroep, wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor het behandelen van bezwaar-, beroep- en hoger beroepschriften, verzetschriften en verzoeken om voorlopige voorzieningen, waaronder het indienen van verweerschriften en vertegenwoordiging op zitting.
 
-#### Artikel 6
+##### Artikel 6
 
 Aan de liaison agressie en geweld wordt machtiging verleend tot het vertegenwoordigen van de NVWA ter zitting bij de strafrechter, dan wel ter zitting bij de raadkamer ten behoeve van de behandeling van klaagschriften als bedoeld in [artikel 12, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=12).
 
@@ -150,7 +176,7 @@ Gelet op de schriftelijke toestemming van de secretaris-generaal, bedoeld in [ar
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -196,7 +222,7 @@ In dit besluit wordt verstaan onder:
 
 #### § 3. Vervanging
 
-#### Artikel 7
+##### Artikel 7
 
 1. De uit dit besluit voor de directeur Interne Organisatie, voortvloeiende bevoegdheden gaan ingeval van afwezigheid over op de plaatsvervangend directeur Interne Organisatie met uitzondering van het bepaalde in artikel 3, tweede lid.
 
@@ -208,25 +234,25 @@ In dit besluit wordt verstaan onder:
 
 #### § 4. Slotbepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 Een afschrift van dit besluit wordt gezonden aan de secretaris-generaal, de plaatsvervangend secretaris-generaal, de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat, de directeur Financieel-Economische Zaken van het Ministerie van Landbouw, Natuur en Voedselkwaliteit, de directeur Bedrijfsvoering van het Ministerie van Economische Zaken en Klimaat, de Auditdienst Rijk en aan degenen aan wie krachtens dit besluit ondermandaat, volmacht en machtiging is verleend.
 
-#### Artikel 9
+##### Artikel 9
 
 Het [Besluit ondermandaat, volmacht en machtiging van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Landbouw, Natuur en Voedselkwaliteit 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041828) wordt ingetrokken.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit treedt in werking met ingang van de dag na de datum van publicatie in de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 juli 2020, en werkt ten aanzien van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046225&paragraaf=2&artikel=3&z=2025-02-06&g=2025-02-06) terug tot 1 januari 2019.
 
-#### Artikel 11
+##### Artikel 11
 
 Dit besluit wordt aangehaald als: Besluit ondermandaat, volmacht en machtiging van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Landbouw, Natuur en Voedselkwaliteit 2022.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-#### Artikel 6a
+##### Artikel 6a
 
 1. Aan de algemeen directeur van het CJIB wordt ondermandaat en machtiging verleend voor het opmaken en uitvaardigen van dwangbevelen en de daaruit voortvloeiende uitvoering van executiegeschillen tegen dwangbevelen en het treffen van betalingsregelingen.
 

@@ -1,13 +1,37 @@
 ---
 title: "Nachtvluchtenregeling Schiphol"
 identifier: "BWBR0004219"
-categorie: "Milieu"
-publicatiedatum: 1987-10-17
-laatste_update: 1987-10-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004219"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1987-10-17"
+last_updated: "1987-10-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004219"
+soort: "ministeriele-regeling"
+stam_id: "3734003"
+version_id: "5516892"
+internal_id: "C5709981"
+label_id: "3713774"
+dtd_version: "2.0"
+original_entry_into_force: "1987-10-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004219/1987-10-17/0"
+intitule_bron: "Stcrt.1987-199"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1987-10-09"
+intitule_published: "1987-10-15"
+intitule_in_force: "1987-10-15"
+intitule_status: "goed"
+original_publication: "Stcrt.1987-199"
+original_signed_date: "1987-10-09"
+original_published_date: "1987-10-15"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1987-10-17"
+jci_1_3: "jci1.3:c:BWBR0004219&z=1987-10-17&g=1987-10-17"
+jci_1_0: "1.0:c:BWBR0004219&g=1987-10-17"
+citeertitel_status: "officieel"
+signed_date: "1987-10-09"
+entry_into_force: "1987-10-17"
 ---
-
 # Nachtvluchtenregeling Schiphol
 
 Handelende in overeenstemming met de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
@@ -34,13 +58,13 @@ Gelet op artikel 4 van het Besluit van 21 mei 1981, houdende vaststelling van en
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit besluit wordt verstaan onder geluidgecertificeerde vliegtuigen:
 
 Vliegtuigen die blijkens een verklaring van het bevoegde gezag van de Staat waarin het vliegtuig is geregistreerd, ten minste voldoen aan de in bijlage 16, Volume I (Aircraft Noise), van het Verdrag inzake de internationale burgerluchtvaart (Verdrag van Chicago, Trb. 1973, 109) gestelde geluidsnormen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Voor vaste vleugelvliegtuigen is het gebruik van de luchthaven Schiphol gedurende de periode van 23.00 tot 07.00 uur plaatselijke tijd voor opstijgingen en gedurende de periode van 23.00 uur tot 06.00 uur plaatselijke tijd voor landingen op de in de volgende leden vermelde wijze verboden dan wel beperkt.
 
@@ -50,7 +74,7 @@ Vliegtuigen die blijkens een verklaring van het bevoegde gezag van de Staat waar
 
 4. Voor opstijgingen van vliegtuigen met straalturbine-aandrijving moeten de nachtelijke standaardvertrekprocedures, zoals vastgelegd in bijlage EHAM 15 bij de beschikking van de directeur-generaal van de Rijksluchtvaartdienst van 20 december 1985, nr. LVB/L-2661, en zoals beschreven in de luchtvaartgids Nederland, RAC-4-1-5.7, worden toegepast.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het bepaalde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004219&artikel=2&z=1987-10-17&g=1987-10-17) is niet van toepassing op vliegtuigen die in nood verkeren of ten behoeve van reddingsacties of hulpverlening zijn ingezet.
 
@@ -64,10 +88,10 @@ Vliegtuigen die blijkens een verklaring van het bevoegde gezag van de Staat waar
 
 3. De havenmeester van de NV Luchthaven Schiphol wordt gemachtigd de in het tweede lid van dit artikel bedoelde ontheffing namens de minister van Verkeer en Waterstaat te verlenen. Hiervan wordt rapport opgemaakt en in afschrift naar de Rijksluchtvaartdienst gezonden.
 
-#### Artikel 4
+##### Artikel 4
 
 De beschikking van de staatssecretaris van Verkeer en Waterstaat van 20 mei 1979, nr. LI/L 22590 (Stcrt. 1979, 105), zoals gewijzigd bij besluit van de staatssecretaris van Verkeer en Waterstaat van 17 november 1981, Stcrt. 1981, 227, wordt ingetrokken.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking op de tweede dag na de datum van uitgifte van de Nederlandse Staatscourant waarin het wordt geplaatst.

@@ -1,13 +1,36 @@
 ---
-title: "Tweede tijdelijke vrijstelling eenvoudig in de handel brengen desinfectiemiddelen COVID-19 2020"
+title: "Tweede tijdelijke vrijstelling op grond van artikel 46, eerste lid van de Wet gewasbeschermingsmiddelen en biociden voor het eenvoudiger in de handel brengen van biociden in verband met de uitbraak COVID-19 (Tweede tijdelijke vrijstelling eenvoudig in de handel brengen desinfectiemiddelen COVID-19 2020)"
 identifier: "BWBR0044039"
-categorie: "Overig"
-publicatiedatum: 2020-09-30
-laatste_update: 2020-09-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044039"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-09-30"
+last_updated: "2020-09-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044039"
+soort: "ministeriele-regeling"
+stam_id: "15615973"
+version_id: "26995902"
+internal_id: "C38203391"
+label_id: "15556264"
+dtd_version: "2.0"
+original_entry_into_force: "2020-09-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044039/2020-09-30/0"
+intitule_bron: "Stcrt.2020-45759"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2020-09-01"
+intitule_in_force: "2020-09-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-45759"
+original_published_date: "2020-09-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-45759"
+entry_into_force_date: "2020-09-30"
+jci_1_3: "jci1.3:c:BWBR0044039&z=2020-09-30&g=2020-09-30"
+jci_1_0: "1.0:c:BWBR0044039&g=2020-09-30"
+citeertitel_status: "officieel"
+short_title: "Tweede tijdelijke vrijstelling eenvoudig in de handel brengen desinfectiemiddelen COVID-19 2020"
+entry_into_force: "2020-09-30"
 ---
-
 # Tweede tijdelijke vrijstelling op grond van artikel 46, eerste lid van de Wet gewasbeschermingsmiddelen en biociden voor het eenvoudiger in de handel brengen van biociden in verband met de uitbraak COVID-19 (Tweede tijdelijke vrijstelling eenvoudig in de handel brengen desinfectiemiddelen COVID-19 2020)
 
 In aanmerking genomen de toegenomen vraag naar desinfectiemiddelen, als gevolg van de uitbraak van COVID-19, in overleg met het ministerie van Volksgezondheid, Welzijn en Sport, het landelijk consortium hulpmiddelen en de Nederlandse Vereniging van Zeepfabrikanten;
@@ -16,7 +39,7 @@ Gelet op [artikel 46, eerste lid van de Wet gewasbeschermingsmiddelen](https://w
 
 BESLUIT:
 
-#### Artikel 1
+##### Artikel 1
 
 Ten behoeve van de bestrijding van infecties ten tijde van de uitbraak van het coronavirus SARS-CoV-2 en in verband met de bij deze bestrijding dreigende tekorten van handdesinfectiemiddelen die de werkzaamheden in een bedrijfs- of beroepsmatige omgeving compromitteren ten tijde van deze uitbraak, wordt op grond van:
 
@@ -32,19 +55,19 @@ Ten behoeve van de bestrijding van infecties ten tijde van de uitbraak van het c
 
 - b). artikel 55 van Verordening (EU) nr. 528/2012 toegestaan dat de onderdeel a bedoelde middelen onder de daarin genoemde voorwaarden op de markt worden aangeboden en gebruikt.
 
-#### Artikel 2
+##### Artikel 2
 
 Aan de vrijstelling en toestemming, bedoeld in [artikel 1, onderdelen a onderscheidenlijk b](https://wetten.overheid.nl/jci1.3:c:BWBR0044039&artikel=1&z=2020-09-30&g=2020-09-30), zijn de in de bijlage bij dit besluit opgenomen beperkingen en voorschriften verbonden.
 
-#### Artikel 3
+##### Artikel 3
 
 De vrijstelling en toestemming wordt verleend van 30 september 2020 tot en met 4 maart 2021.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit wordt aangehaald als: Tweede tijdelijke vrijstelling eenvoudig in de handel brengen desinfectiemiddelen COVID-19 2020.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang van 30 september 2020. Indien de Staatscourant waarin het besluit wordt geplaatst, wordt uitgegeven op of na de in de eerste volzin bedoelde datum, treedt het in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, en werkt het terug tot en met de in de eerste volzin bedoelde datum.
 

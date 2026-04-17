@@ -1,13 +1,35 @@
 ---
 title: "Verordening interdisciplinaire samenwerking 2015"
 identifier: "BWBR0037964"
-categorie: "Overig"
-publicatiedatum: 2016-05-30
-laatste_update: 2016-05-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037964"
+country: "nl"
+rank: "pbo"
+publication_date: "2016-05-30"
+last_updated: "2016-05-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037964"
+soort: "pbo"
+stam_id: "13553863"
+version_id: "24053112"
+internal_id: "C34559671"
+label_id: "13520854"
+dtd_version: "2.0"
+original_entry_into_force: "2016-05-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037964/2016-05-30/0"
+intitule_bron: "Stcrt.2016-25642"
+intitule_effect: "wijziging"
+intitule_published: "2016-05-20"
+intitule_in_force: "2016-05-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-25642"
+original_published_date: "2016-05-20"
+original_effect: "wijziging"
+original_url_id: "stcrt-2016-25642"
+entry_into_force_date: "2016-05-30"
+jci_1_3: "jci1.3:c:BWBR0037964&z=2016-05-30&g=2016-05-30"
+jci_1_0: "1.0:c:BWBR0037964&g=2016-05-30"
+citeertitel_status: "officieel"
+entry_into_force: "2016-05-30"
 ---
-
 # Verordening interdisciplinaire samenwerking 2015
 
 De ledenraad van de Koninklijke Notariële Beroepsorganisatie KNB;
@@ -48,7 +70,7 @@ Op grond van [artikel 110 eerste lid Wna](https://wetten.overheid.nl/jci1.3:c:BW
 
 ### Definities
 
-#### Artikel 1
+##### Artikel 1
 
 In deze verordening wordt verstaan onder:
 
@@ -76,7 +98,7 @@ Concreet gaat het bij de bedrijfsvoering om personeelsbeleid, informatietechnolo
 
 ### Algemeen
 
-#### Artikel 2
+##### Artikel 2
 
 Het is de notaris niet geoorloofd – direct danwel indirect – een samenwerkingsverband met beoefenaren van een ander beroep te onderhouden, dan met:
 
@@ -104,7 +126,7 @@ Het staat de notaris vrij andere samenwerkingsvormen aan te gaan met beroepsbeoe
 
 ### Aandeelhouderschap stemrecht en zeggenschap
 
-#### Artikel 3
+##### Artikel 3
 
 1. Alle aandelen van een praktijkrechtspersoon en een houdster-rechtspersoon met een in aandelen verdeeld kapitaal en de daarmee verbonden stemrechten of certificaten ervan zijn in handen van:
 
@@ -130,7 +152,7 @@ In het eerste lid wordt gesproken over de praktijkrechtspersoon, dit betekent da
 
 ### Presentatie
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het is de notaris niet geoorloofd om met andere dan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037964&artikel=2&z=2016-05-30&g=2016-05-30) genoemde beroepsbeoefenaren onder een gemeenschappelijke naam naar buiten op te treden.
 
@@ -164,7 +186,7 @@ Ook het gebruik van een deel van de naam van een ander kantoor kan de suggestie 
 
 ### Staaksgewijze opbouw
 
-#### Artikel 5
+##### Artikel 5
 
 1. De notarissen vormen gezamenlijk een staak waaraan binnen het samenwerkingsverband doorslaggevende zeggenschap ten aanzien van de praktijkuitoefening toekomt.
 
@@ -178,7 +200,7 @@ Het ligt in de rede dat beslissingen omtrent de eigen praktijkuitoefening binnen
 
 ### Bestuur
 
-#### Artikel 6
+##### Artikel 6
 
 1. Indien de praktijkrechtspersoon een bestuur heeft is de meerderheid van het bestuur en de voorzitter ervan notaris of beoefenaar van een toegestaan beroep als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037964&artikel=2&z=2016-05-30&g=2016-05-30).
 
@@ -208,7 +230,7 @@ Het derde lid bepaalt dat elke voorgenomen benoeming van iemand die geen notaris
 
 ### Onafhankelijkheid onpartijdigheid zorgvuldigheid en geheimhouding
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het is de notaris niet toegestaan zijn praktijk op zodanige wijze uit te oefenen, dat de onafhankelijkheid in de praktijkuitoefening – met inbegrip van het op onpartijdige wijze en met de grootst mogelijke zorgvuldigheid behartigen van de belangen van alle bij de rechtshandeling betrokken partijen – in gevaar wordt of kan worden gebracht of afbreuk wordt gedaan aan de zorg die hij als notaris behoort te betrachten ten opzichte van degenen te wier behoeve hij optreedt.
 
@@ -222,7 +244,7 @@ Er is in deze nieuwe verordening voor gekozen om een meer principle based regel 
 
 ### Notaris en kandidaat-notaris
 
-#### Artikel 8
+##### Artikel 8
 
 Onder notaris in deze verordening wordt ook verstaan de kandidaat-notaris, tenzij uit de aard van de bepaling anders voortvloeit.
 
@@ -232,7 +254,7 @@ Een toegevoegd notaris kan niet toetreden tot een samenwerkingsverband. Dit vloe
 
 ### Bevoegdheid nadere regelgeving bestuur KNB
 
-#### Artikel 9
+##### Artikel 9
 
 Het bestuur van de KNB is bevoegd om met betrekking tot de in deze verordening behandelde onderwerpen nadere regels te geven. Over het ontwerp daarvan wordt de ledenraad geraadpleegd. De regels worden zo spoedig mogelijk na vaststelling ter kennis van het ministerie van Veiligheid en Justitie gebracht.
 
@@ -240,7 +262,7 @@ Het bestuur van de KNB is op grond van [artikel 89, lid 5 WNA](https://wetten.ov
 
 ### Overgangsbepaling
 
-#### Artikel 10
+##### Artikel 10
 
 1. Met de invoering van deze verordening komen [artikel 16 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030484&artikel=16) en [artikel 17 van de Verordening beroeps-en gedragsregels 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0030484&artikel=17) (VBG) te vervallen.
 
@@ -250,10 +272,10 @@ De reeds bestaande samenwerkingen met medewerkers op grond van [artikel 16 tweed
 
 ### Slotbepalingen
 
-#### Artikel 11
+##### Artikel 11
 
 Deze verordening wordt aangehaald als Verordening interdisciplinaire samenwerking 2015.
 
-#### Artikel 12
+##### Artikel 12
 
 Deze verordening treedt in werking met ingang van 1 mei 2016 of zoveel later als de termijn van tien dagen na publicatie in de Staatscourant is verstreken als bedoeld in [artikel 91, tweede lid, van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=91) en vervangt de Verordening Interdisciplinaire samenwerking 2003, die hierbij wordt ingetrokken.

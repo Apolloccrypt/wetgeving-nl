@@ -1,13 +1,39 @@
 ---
-title: "Regeling wijziging en vaststelling percentages en bedragen voor Caribisch Nederland consumentenprijsindexcijfers voor 2026"
+title: "Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 12 november 2025, nr. 2025-0000251465, tot wijziging van bedragen en vaststelling van percentages en bedragen ten gevolge van de consumentenprijsindexcijfers voor 2026 voor Caribisch Nederland en tot vaststelling van de premiepercentages voor de werknemersverzekeringen en volksverzekeringen BES"
 identifier: "BWBR0051779"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051779"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051779"
+soort: "ministeriele-regeling-BES"
+stam_id: "17603373"
+version_id: "31080642"
+internal_id: "C44499351"
+label_id: "17503814"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051779/2026-01-01/0"
+intitule_bron: "Stcrt.2025-39413"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-11-12"
+intitule_published: "2025-11-19"
+intitule_in_force: "2025-11-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-39413"
+original_signed_date: "2025-11-12"
+original_published_date: "2025-11-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-39413"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051779&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051779&g=2026-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Regeling wijziging en vaststelling percentages en bedragen voor Caribisch Nederland consumentenprijsindexcijfers voor 2026"
+signed_date: "2025-11-12"
+entry_into_force: "2026-01-01"
 ---
-
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 12 november 2025, nr. 2025-0000251465, tot wijziging van bedragen en vaststelling van percentages en bedragen ten gevolge van de consumentenprijsindexcijfers voor 2026 voor Caribisch Nederland en tot vaststelling van de premiepercentages voor de werknemersverzekeringen en volksverzekeringen BES
 
 Handelende in overeenstemming met de Staatssecretaris van Financiën en de Staatssecretaris van Volksgezondheid, Welzijn en Sport;
@@ -16,27 +42,27 @@ Gelet op [artikel 7, vierde lid, van de Arbeidsvrederegeling BES](https://wetten
 
 Besluit:
 
-#### Artikel I. [Arbeidsvrederegeling BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028762)
+##### Artikel I. [Arbeidsvrederegeling BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028762)
 
 Wijzigt de Arbeidsvrederegeling BES.
 
-#### Artikel II. [Besluit onderstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028595)
+##### Artikel II. [Besluit onderstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028595)
 
 Wijzigt het Besluit onderstand BES.
 
-#### Artikel III. [Cessantiawet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028304)
+##### Artikel III. [Cessantiawet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028304)
 
 Het premiepercentage, bedoeld in [artikel 7, derde lid, van de Cessantiawet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=7), wordt vastgesteld op 0,10%.
 
-#### Artikel IV. [Regeling AOV en AWW bijdragen aan zorginstellingen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0039238)
+##### Artikel IV. [Regeling AOV en AWW bijdragen aan zorginstellingen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0039238)
 
 Wijzigt de Regeling AOV en AWW bijdragen aan zorginstellingen BES.
 
-#### Artikel V. [Regeling Pensioenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028776)
+##### Artikel V. [Regeling Pensioenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028776)
 
 Wijzigt de Regeling Pensioenwet BES.
 
-#### Artikel VI. [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459)
+##### Artikel VI. [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459)
 
 A. Wijzigt de Wet algemene ouderdomsverzekering BES.
 
@@ -52,7 +78,7 @@ C. De hoogte van de tegemoetkoming, bedoeld in [artikel 7b, eerste lid](https://
 
 D. Het percentage van de premie, bedoeld in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028459&artikel=26), wordt vastgesteld op 25,00%.
 
-#### Artikel VII. [Wet algemene weduwen- en wezenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028387)
+##### Artikel VII. [Wet algemene weduwen- en wezenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028387)
 
 A. Wijzigt de Wet algemene weduwen- en wezenverzekering BES.
 
@@ -60,15 +86,15 @@ B. Wijzigt de Wet algemene weduwen- en wezenverzekering BES.
 
 C. Het percentage van de premie, bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&artikel=29), wordt vastgesteld op 1,30%.
 
-#### Artikel VIII. [Wet kinderbijslagvoorziening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0037347)
+##### Artikel VIII. [Wet kinderbijslagvoorziening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0037347)
 
 Wijzigt de Wet kinderbijslagvoorziening BES.
 
-#### Artikel IX. [Wet minimumlonen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028170)
+##### Artikel IX. [Wet minimumlonen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028170)
 
 Wijzigt de Wet minimumlonen BES.
 
-#### Artikel X. [Wet ongevallenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028497)
+##### Artikel X. [Wet ongevallenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028497)
 
 A. [Artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=5) wordt als volgt gewijzigd:
 
@@ -94,7 +120,7 @@ B.
 
 Het premiepercentage, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=8), wordt vastgesteld op 0,20%.
 
-#### Artikel XI. [Wet ziekteverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028728)
+##### Artikel XI. [Wet ziekteverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028728)
 
 De [Wet ziekteverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028728) wordt als volgt gewijzigd:
 
@@ -118,7 +144,7 @@ A. [Artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=5) wordt 
 
 B. Het premiepercentage, bedoeld in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=8), wordt vastgesteld op 0,70%.
 
-#### Artikel XII. Inwerkingtreding
+##### Artikel XII. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2026.
 

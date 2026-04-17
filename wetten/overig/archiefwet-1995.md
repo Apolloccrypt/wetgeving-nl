@@ -1,14 +1,41 @@
 ---
-title: "Archiefwet 1995"
+title: "Wet van 28 april 1995, houdende vervanging van de Archiefwet 1962 (Stb. 313) en in verband daarmede wijziging van enige andere wetten"
 identifier: "BWBR0007376"
-categorie: "Overig"
-publicatiedatum: 2024-06-19
-laatste_update: 2024-06-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007376"
+country: "nl"
+rank: "wet"
+publication_date: "2024-06-19"
+last_updated: "2024-06-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007376"
+soort: "wet"
+stam_id: "1254373"
+version_id: "1854692"
+internal_id: "C1854691"
+label_id: "1215304"
+dtd_version: "2.0"
+original_entry_into_force: "1996-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007376/2024-06-19/0"
+intitule_bron: "Stb.1995-276"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-04-28"
+intitule_published: "1995-05-30"
+intitule_in_force: "1995-12-28"
+intitule_status: "goed"
+original_publication: "Stb.1995-276"
+original_signed_date: "1995-04-28"
+original_published_date: "1995-05-30"
+original_effect: "nieuwe-regeling"
+original_dossier: "22866"
+original_url_id: "stb-1995-276"
+entry_into_force_date: "1996-01-01"
+jci_1_3: "jci1.3:c:BWBR0007376&z=2024-06-19&g=2024-06-19"
+jci_1_0: "1.0:c:BWBR0007376&g=2024-06-19"
+citeertitel_status: "officieel"
+short_title: "Archiefwet 1995"
+signed_date: "1995-04-28"
+entry_into_force: "1996-01-01"
 ---
-
-# Archiefwet 1995
+# Wet van 28 april 1995, houdende vervanging van de Archiefwet 1962 (Stb. 313) en in verband daarmede wijziging van enige andere wetten
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -46,11 +73,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - f. archiefbewaarplaats: een bij of krachtens deze wet voor de blijvende bewaring van archiefbescheiden aangewezen bewaarplaats.
 
-#### Artikel 2
+##### Artikel 2
 
 Voor de toepassing van deze wet en de daarop berustende bepalingen worden onder overheidsorganen tevens begrepen overheidsorganen, welke voor of na de inwerkingtreding van deze wet zijn of zullen worden opgeheven.
 
-#### Artikel 2a
+##### Artikel 2a
 
 Bijzondere categorieën van persoonsgegevens en persoonsgegevens van strafrechtelijke aard als bedoeld in [paragraaf 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&paragraaf=3.1) onderscheidenlijk [paragraaf 3.2 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&paragraaf=3.2) kunnen worden verwerkt, indien die verwerking verband houdt met:
 
@@ -64,11 +91,11 @@ Bijzondere categorieën van persoonsgegevens en persoonsgegevens van strafrechte
 
 ### Hoofdstuk II. Archiefbescheiden in het algemeen
 
-#### Artikel 3
+##### Artikel 3
 
 De overheidsorganen zijn verplicht de onder hen berustende archiefbescheiden in goede, geordende en toegankelijke staat te brengen en te bewaren, alsmede zorg te dragen voor de vernietiging van de daarvoor in aanmerking komende archiefbescheiden.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een regeling, waarbij overheidsorganen worden opgeheven, samengevoegd of gesplitst, dan wel waarbij een of meer taken van een overheidsorgaan worden overgedragen aan een ander overheidsorgaan, houdt een voorziening in omtrent hun archiefbescheiden.
 
@@ -76,7 +103,7 @@ De overheidsorganen zijn verplicht de onder hen berustende archiefbescheiden in 
 
 3. Een regeling, waarbij taken van een overheidsorgaan geheel of gedeeltelijk worden overgedragen aan een rechtspersoon houdt een voorziening in omtrent de terbeschikkingstelling aan die rechtspersoon van de op die taken betrekking hebbende archiefbescheiden, voor zover deze niet zijn overgebracht naar een archiefbewaarplaats, voor een tijdvak van ten hoogste twintig jaar. Deze voorziening houdt tenminste in een nadere bepaling van het in de eerste volzin bedoelde tijdvak, alsmede een bepaling omtrent het toezicht op het beheer van de desbetreffende archiefbescheiden, overeenkomstig het bij of krachtens deze wet bepaalde.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De zorgdrager is verplicht tot het ontwerpen van selectielijsten waarin tenminste wordt aangegeven welke archiefbescheiden voor vernietiging in aanmerking komen.
 
@@ -90,15 +117,15 @@ De overheidsorganen zijn verplicht de onder hen berustende archiefbescheiden in 
 
 3. Een besluit tot vaststelling van een selectielijst wordt bekendgemaakt in de Staatscourant.
 
-#### Artikel 6
+##### Artikel 6
 
 Tot vernietiging van in een rijksarchiefbewaarplaats berustende archiefbescheiden mag Onze minister slechts overgaan na machtiging van degene, op wiens last deze archiefbescheiden zijn overgebracht.
 
-#### Artikel 7
+##### Artikel 7
 
 De zorgdrager is bevoegd archiefbescheiden te vervangen door reprodukties, teneinde de aldus vervangen bescheiden te vernietigen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De zorgdrager is bevoegd tot vervreemding van niet in een rijksarchiefbewaarplaats berustende archiefbescheiden, voor zover het betreft:
 
@@ -110,29 +137,29 @@ De zorgdrager is bevoegd archiefbescheiden te vervangen door reprodukties, tenei
 
 3. Tot vervreemding van in een rijksarchiefbewaarplaats berustende archiefbescheiden mag Onze minister slechts overgaan ter uitvoering van een in enige wet neergelegd voorschrift of na machtiging van degene, op wiens last deze archiefbescheiden zijn overgebracht.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent het ontwerpen van lijsten als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=5&z=2024-06-19&g=2024-06-19) alsmede omtrent de vervanging en vervreemding van archiefbescheiden.
 
 2. Onze Minister-President kan regels stellen op grond waarvan in geval van buitengewone omstandigheden kan worden afgeweken van hetgeen in deze wet is bepaald met betrekking tot de vernietiging van archiefbescheiden.
 
-#### Artikel 10
+##### Artikel 10
 
 Indien archiefbescheiden ten onrechte berusten onder een ander overheidsorgaan dan dat waaronder zij behoren te berusten, zien de betrokken zorgdragers erop toe, dat die bescheiden te bestemder plaatse geraken.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Ieder die archiefbescheiden onder zich heeft, is verplicht deze binnen vier weken, nadat hij een daartoe strekkende kennisgeving heeft ontvangen, aan het overheidsorgaan, waaronder zij volgens de bepalingen van deze wet zouden behoren te berusten, voor rekening en risico van dit overheidsorgaan af te staan, teneinde het in de gelegenheid te stellen hiervan een reproduktie te vervaardigen.
 
 2. Het overheidsorgaan geeft de archiefbescheiden binnen vier weken na ontvangst terug aan degene, die deze heeft afgestaan, ook al kan de overheid op die bescheiden uit anderen hoofde rechten doen gelden.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De zorgdrager brengt de archiefbescheiden die niet voor vernietiging in aanmerking komen en ouder zijn dan twintig jaar over naar een archiefbewaarplaats.
 
 2. Bij of krachtens algemene maatregel van bestuur worden regels gesteld, die bij de overbrenging van archiefbescheiden in acht dienen te worden genomen.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De zorgdrager kan archiefbescheiden die niet voor vernietiging in aanmerking komen en jonger zijn dan twintig jaar naar een archiefbewaarplaats overbrengen, wanneer naar het oordeel van de beheerder van de archiefbewaarplaats voldoende aanleiding bestaat hiervoor ruimte beschikbaar te stellen.
 
@@ -142,11 +169,11 @@ Indien archiefbescheiden ten onrechte berusten onder een ander overheidsorgaan d
 
 4. De in het derde lid bedoelde machtiging, waaraan voorwaarden kunnen worden verbonden, wordt verleend voor een periode van ten hoogste tien jaar, na afloop waarvan verlenging kan worden verkregen.
 
-#### Artikel 14
+##### Artikel 14
 
 De archiefbescheiden die in een archiefbewaarplaats berusten zijn, behoudens het bepaalde in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=15&z=2024-06-19&g=2024-06-19), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=16&z=2024-06-19&g=2024-06-19) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=17&z=2024-06-19&g=2024-06-19), openbaar. Ieder is, behoudens de beperkingen die voortvloeien uit het in die artikelen bepaalde, bevoegd die archiefbescheiden kosteloos te raadplegen en daarvan of daaruit afbeeldingen, afschriften, uittreksels en bewerkingen te maken of op zijn kosten te doen maken.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Bij de overbrenging van de in [artikel 1, onder **c** 1° en 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=I&artikel=1&z=2024-06-19&g=2024-06-19), bedoelde archiefbescheiden kan de zorgdrager, na advies van de beheerder van de archiefbewaarplaats, slechts beperkingen aan de openbaarheid stellen voor een bepaalde termijn en met het oog op:
 
@@ -170,13 +197,13 @@ Voor zover de beheerder van een archiefbewaarplaats een rijksarchivaris is als b
 
 7. Met betrekking tot de in het vijfde lid bedoelde archiefbescheiden zijn van toepassing de regelingen inzake het recht op informatie die zouden gelden indien de archiefbescheiden niet naar een archiefbewaarplaats waren overgebracht.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De openbaarheid van de in [artikel 1, onder **c** 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=I&artikel=1&z=2024-06-19&g=2024-06-19), bedoelde archiefbescheiden kan worden beperkt bij de desbetreffende overeenkomsten en beschikkingen.
 
 2. Indien deze archiefbescheiden uit anderen hoofde in een archiefbewaarplaats zijn opgenomen om daar te berusten, kan de zorgdrager beperkingen aan de openbaarheid stellen. Het in artikel 15 bepaalde is van overeenkomstige toepassing.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De beheerder van een archiefbewaarplaats stelt de daar berustende archiefbescheiden aan de verzoeker ter raadpleging of gebruik beschikbaar met inachtneming van de aan de openbaarheid gestelde beperkingen en overeenkomstig de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036795&artikel=5) en [6 van de Wet hergebruik van overheidsinformatie](https://wetten.overheid.nl/jci1.3:c:BWBR0036795&artikel=6).
 
@@ -186,7 +213,7 @@ Voor zover de beheerder van een archiefbewaarplaats een rijksarchivaris is als b
 
 4. Indien de aard of de mate van raadpleging of gebruik van archiefbescheiden een ernstige bedreiging vormt voor hun toestand, is de beheerder bevoegd te bepalen dat in de plaats van die archiefbescheiden reprodukties, niet zijnde archiefbescheiden als bedoeld in [artikel 1, onder **c** 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=I&artikel=1&z=2024-06-19&g=2024-06-19), ter beschikking worden gesteld.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De beheerder van een archiefbewaarplaats is verplicht archiefbescheiden voor een bepaalde tijd uit te lenen aan het overheidsorgaan, waaronder de bescheiden, indien zij niet naar een archiefbewaarplaats waren overgebracht, zouden berusten, tenzij naar zijn oordeel de toestand van de archiefbescheiden zich daartegen verzet.
 
@@ -200,7 +227,7 @@ Voor zover de beheerder van een archiefbewaarplaats een rijksarchivaris is als b
 
 6. De aan de uitlening verbonden kosten kunnen de verzoeker in rekening worden gebracht.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De zorgdrager stelt, indien de kosten, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=14&z=2024-06-19&g=2024-06-19) en in [artikel 18, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=18&z=2024-06-19&g=2024-06-19), in rekening worden gebracht, regels omtrent die kosten.
 
@@ -208,23 +235,23 @@ Voor zover de beheerder van een archiefbewaarplaats een rijksarchivaris is als b
 
 3. De zorgdrager maakt actief algemeen kenbaar welke kosten in rekening worden gebracht en met welke factoren rekening wordt gehouden bij de berekening daarvan. Op verzoek geeft de zorgdrager inzicht in de berekening met betrekking tot een concreet verzoek om gebruik.
 
-#### Artikel 20
+##### Artikel 20
 
 De beheerder van een archiefbewaarplaats is bevoegd afschriften af te geven van een authentieke akte die volgens deze wet door hem bewaard moet worden.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de duurzaamheid van door overheidsorganen op te maken archiefbescheiden, omtrent de bouw, verbouwing, inrichting en verandering van inrichting van archiefruimten en archiefbewaarplaatsen, alsmede omtrent de ingebruikneming van gebouwen of gedeelten van gebouwen als archiefruimte of archiefbewaarplaats.
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot het in geordende en toegankelijke staat brengen en bewaren van archiefbescheiden.
 
-#### Artikel 22
+##### Artikel 22
 
 Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de opleiding tot en het verkrijgen van diploma's in de archivistiek.
 
 ### Hoofdstuk III. Archiefbescheiden van het rijk
 
-#### Artikel 23
+##### Artikel 23
 
 1. De Eerste en de Tweede Kamer der Staten-Generaal, de andere Hoge Colleges van Staat, de directeur van het Kabinet van de Koning en Onze ministers dragen zorg voor hun archiefbescheiden, voor zover deze niet zijn overgebracht naar een rijksarchiefbewaarplaats.
 
@@ -234,7 +261,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de
 
 4. Bij algemene maatregel van bestuur worden regels gesteld omtrent de wijze waarop de in het eerste lid bedoelde zorg wordt uitgeoefend.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Onze minister is bevoegd overheidsorganen als bedoeld in de [artikelen 23, eerste lid en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=III&artikel=23&z=2024-06-19&g=2024-06-19), en [41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=VII&artikel=41&z=2024-06-19&g=2024-06-19), er op te wijzen dat zij dienen te voldoen aan het bepaalde bij of krachtens deze wet.
 
@@ -244,7 +271,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de
 
 4. De bevoegdheid, genoemd in het tweede lid, geldt niet ten aanzien van de Eerste en Tweede Kamer der Staten-Generaal, de andere Hoge Colleges van Staat en het Kabinet van de Koning.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Er is onder de bevelen van Onze minister een rijksarchiefdienst, aan het hoofd waarvan staat de algemene rijksarchivaris, die in het bezit dient te zijn van een diploma archivistiek.
 
@@ -254,7 +281,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de
 
 - b. het verrichten van bij of krachtens algemene maatregel van bestuur of door Onze minister opgedragen taken.
 
-#### Artikel 25a
+##### Artikel 25a
 
 1. Met het toezicht op de naleving van het bij of krachtens de wet bepaalde ten aanzien van het beheer van de archiefbescheiden, bedoeld in de [artikelen 23, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=III&artikel=23&z=2024-06-19&g=2024-06-19), en [41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=VII&artikel=41&z=2024-06-19&g=2024-06-19), zijn belast de bij besluit van Onze minister als hoofdinspecteur en inspecteurs aangewezen ambtenaren.
 
@@ -264,13 +291,13 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de
 
 4. Indien een toezichthouder met toepassing van [artikel 5:15 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15) een ruimte betreedt waarin de in de [artikelen 23, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=III&artikel=23&z=2024-06-19&g=2024-06-19), dan wel [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=VII&artikel=41&z=2024-06-19&g=2024-06-19), bedoelde archiefbescheiden worden bewaard, dan wel met toepassing van [artikel 5:18 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) inzage vordert van die archiefbescheiden, neemt hij de voorschriften ten aanzien van de beveiliging van geheimen in acht.
 
-#### Artikel 25b
+##### Artikel 25b
 
 1. De hoofdinspecteur, bedoeld in [artikel 25a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=III&artikel=25a&z=2024-06-19&g=2024-06-19), doet aan het overheidsorgaan mededeling van de bevindingen van het toezicht en van de voorzieningen die naar zijn oordeel dienen te worden getroffen.
 
 2. Hij brengt jaarlijks voor 1 juli aan Onze minister schriftelijk verslag uit van de bevindingen van het toezicht gedurende het afgelopen kalenderjaar. Onze minister legt dit verslag, vergezeld van zijn standpunt, over aan de Staten-Generaal.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Te 's-Gravenhage is gevestigd de algemene rijksarchiefbewaarplaats, welke is bestemd voor de bewaring van de archiefbescheiden der overheidsorganen, waarvan de functies zich over het gehele rijk uitstrekken of hebben uitgestrekt. De algemene rijksarchivaris is daarvan de beheerder.
 
@@ -288,7 +315,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de
 
 ### Hoofdstuk IV. Archiefbescheiden van provincies
 
-#### Artikel 27
+##### Artikel 27
 
 1. Overeenkomstig een door provinciale staten vast te stellen verordening dragen gedeputeerde staten zorg voor de archiefbescheiden van de provinciale organen.
 
@@ -298,11 +325,11 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de
 
 4. In afwijking van [artikel 4:21, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:21) is [titel 4.2 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2) van toepassing op de subsidie, bedoeld in het derde lid.
 
-#### Artikel 28
+##### Artikel 28
 
 Voor de bewaring van de op grond van [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=12&z=2024-06-19&g=2024-06-19), en [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=13&z=2024-06-19&g=2024-06-19), over te brengen archiefbescheiden van de provinciale organen wijzen gedeputeerde staten een provinciale archiefbewaarplaats aan.
 
-#### Artikel 29
+##### Artikel 29
 
 1. De provinciale archiefbewaarplaats wordt beheerd door een provinciearchivaris, die in het bezit dient te zijn van een diploma archivistiek of, zo geen zodanige archivaris mocht zijn aangewezen, door de secretaris.
 
@@ -312,7 +339,7 @@ Voor de bewaring van de op grond van [artikel 12, eerste lid](https://wetten.ove
 
 ### Hoofdstuk V. Archiefbescheiden van gemeenten
 
-#### Artikel 30
+##### Artikel 30
 
 1. Overeenkomstig een door de gemeenteraad vast te stellen verordening, welke aan gedeputeerde staten wordt medegedeeld, dragen burgemeester en wethouders zorg voor de archiefbescheiden van de gemeentelijke organen.
 
@@ -322,11 +349,11 @@ Voor de bewaring van de op grond van [artikel 12, eerste lid](https://wetten.ove
 
 4. In afwijking van [artikel 4:21, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:21) is [titel 4.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2) op de subsidie, bedoeld in het derde lid, van toepassing.
 
-#### Artikel 31
+##### Artikel 31
 
 Voor de bewaring van de op grond van [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=12&z=2024-06-19&g=2024-06-19), en [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=13&z=2024-06-19&g=2024-06-19), over te brengen archiefbescheiden van de gemeentelijke organen wijzen burgemeester en wethouders een gemeentelijke archiefbewaarplaats aan.
 
-#### Artikel 32
+##### Artikel 32
 
 1. De gemeentelijke archiefbewaarplaats wordt beheerd door een gemeentearchivaris, die in het bezit dient te zijn van een diploma archivistiek of, zo geen zodanige archivaris mocht zijn aangewezen, door de secretaris.
 
@@ -334,17 +361,17 @@ Voor de bewaring van de op grond van [artikel 12, eerste lid](https://wetten.ove
 
 3. Burgemeester en wethouders wijzen de gemeentearchivaris aan. De aanwijzing eindigt van rechtswege met ingang van de datum dat de uitoefening van de functie van gemeentearchivaris geen onderdeel meer uitmaakt van de werkzaamheden van de betreffende ambtenaar.
 
-#### Artikel 33
+##### Artikel 33
 
 Vervallen
 
-#### Artikel 34
+##### Artikel 34
 
 Vervallen
 
 ### Hoofdstuk VI. Archiefbescheiden van waterschappen
 
-#### Artikel 35
+##### Artikel 35
 
 1. Overeenkomstig een door het bestuur vast te stellen verordening, welke aan gedeputeerde staten wordt medegedeeld, draagt het dagelijks bestuur zorg voor de archiefbescheiden van de organen van het waterschap.
 
@@ -354,11 +381,11 @@ Vervallen
 
 4. In afwijking van [artikel 4:21, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:21) is [titel 4.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2) op de subsidie, bedoeld in het derde lid, van toepassing.
 
-#### Artikel 36
+##### Artikel 36
 
 Voor de bewaring van de op grond van [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=12&z=2024-06-19&g=2024-06-19), en [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=13&z=2024-06-19&g=2024-06-19), over te brengen archiefbescheiden van de organen van het waterschap wijst het bestuur een archiefbewaarplaats aan.
 
-#### Artikel 37
+##### Artikel 37
 
 1. De archiefbewaarplaats wordt beheerd door een waterschapsarchivaris, die in het bezit dient te zijn van een diploma archivistiek of, zo geen zodanige archivaris mocht zijn aangewezen, door de secretaris.
 
@@ -366,17 +393,17 @@ Voor de bewaring van de op grond van [artikel 12, eerste lid](https://wetten.ove
 
 3. Het bestuur wijst de waterschapsarchivaris aan. De aanwijzing eindigt van rechtswege met ingang van de datum dat de uitoefening van de functie van waterschapsarchivaris geen onderdeel meer uitmaakt van de werkzaamheden van de betreffende ambtenaar.
 
-#### Artikel 38
+##### Artikel 38
 
 Met betrekking tot de uitvoering van deze wet door het dagelijks bestuur zijn de [artikelen 124](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=124), [124a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=124a), [124c tot en met 124h](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=124c) alsmede [hoofdstuk XVII van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&hoofdstuk=XVII) van overeenkomstige toepassing.
 
-#### Artikel 39
+##### Artikel 39
 
 Vervallen
 
 ### Hoofdstuk VII. Archiefbescheiden van andere overheidsorganen
 
-#### Artikel 40
+##### Artikel 40
 
 1. Een regeling als bedoeld in de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) (**Stb**. 1989, 571) houdt tevens een voorziening in omtrent de zorg voor de archiefbescheiden van bij die regeling ingestelde openbare lichamen of gemeenschappelijke organen.
 
@@ -384,7 +411,7 @@ Vervallen
 
 3. Zolang bij een gemeenschappelijke regeling niet is voldaan aan de verplichting tot het treffen van een voorziening als bedoeld in het eerste lid, zijn van overeenkomstige toepassing de bepalingen die terzake gelden voor de gemeente dan wel, indien een provincie aan de regeling deelneemt, voor de provincie, waar het ingestelde lichaam of orgaan is gevestigd.
 
-#### Artikel 41
+##### Artikel 41
 
 1. Met de zorg voor de archiefbescheiden van andere dan in de voorafgaande artikelen bedoelde overheidsorganen, voor zover de archiefbescheiden niet zijn overgebracht naar een archiefbewaarplaats, is belast:
 
@@ -398,7 +425,7 @@ Vervallen
 
 ### Hoofdstuk VIII. Strafbepaling
 
-#### Artikel 42
+##### Artikel 42
 
 1. Hij die aan de bij [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=11&z=2024-06-19&g=2024-06-19), gestelde verplichting niet voldoet, wordt gestraft met geldboete van de tweede categorie.
 
@@ -406,19 +433,19 @@ Vervallen
 
 ### Hoofdstuk VIII. Strafbepaling
 
-#### Artikel 43
+##### Artikel 43
 
 De [Archiefwet 1962](onbekend) (**Stb.** 313) wordt ingetrokken.
 
-#### Artikel 44
+##### Artikel 44
 
 De voor de inwerkingtreding van deze wet op grond van de [artikelen 7**a**](onbekend) en [7**b** van de Archiefwet 1962](onbekend) aan de openbaarheid gestelde beperkingen blijven van kracht.
 
-#### Artikel 45
+##### Artikel 45
 
 De onder de overheidsorganen berustende archiefbescheiden die op het moment van de inwerkingtreding van deze wet ouder zijn dan twintig jaar, worden op last van de zorgdrager binnen een tijdvak van tien jaar na inwerkingtreding van deze wet naar een archiefbewaarplaats overgebracht.
 
-#### Artikel 46
+##### Artikel 46
 
 1. De op grond van het koninklijk besluit van 28 augustus 1919 (**Stb.** 547) tussen het Rijk en gemeenten getroffen regelingen met betrekking tot de inbewaringgeving van archiefbescheiden van de rechtbanken in eerste aanleg en van de vredegerechten blijven gehandhaafd, totdat deze regelingen na overleg met burgemeester en wethouders van de desbetreffende gemeente worden beëindigd.
 
@@ -426,173 +453,173 @@ De onder de overheidsorganen berustende archiefbescheiden die op het moment van 
 
 3. De ingevolge de in het tweede lid genoemde koninklijke besluiten naar een rijksarchiefbewaarplaats overgebrachte archiefbescheiden worden, op verzoek van de desbetreffende gemeente tot vervreemding van die archiefbescheiden, aan die gemeente overgedragen, indien zij dientengevolge komen te berusten in een ingevolge [artikel 33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=V&artikel=33&z=2024-06-19&g=2024-06-19), goedgekeurde archiefbewaarplaats, beheerd door een gemeentearchivaris die is aangewezen overeenkomstig het in [artikel 32, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=V&artikel=32&z=2024-06-19&g=2024-06-19), bepaalde.
 
-#### Artikel 47
+##### Artikel 47
 
 Andere dan de in [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=IX&artikel=46&z=2024-06-19&g=2024-06-19) bedoelde inbewaringgevingen blijven in stand tot het moment dat zij na overleg tussen de betrokken overheidslichamen zijn beëindigd.
 
-#### Artikel 48
+##### Artikel 48
 
 De ingevolge [artikel 3 van het Archiefbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=3) (**Stb.** 1968, 200), zoals dit luidde voor de inwerkingtreding van deze wet, vastgestelde lijsten van voor vernietiging in aanmerking komende archiefbescheiden blijven gehandhaafd totdat zij zijn vervangen door op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=5&z=2024-06-19&g=2024-06-19) van deze wet vastgestelde selectielijsten.
 
-#### Artikel 49
+##### Artikel 49
 
 De machtigingen, verleend op grond van [artikel 20 van het Archiefbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=20), zoals dit luidde voor de inwerkingtreding van deze wet, blijven gelden totdat zij zijn vervangen door een machtiging afgegeven overeenkomstig het in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=13&z=2024-06-19&g=2024-06-19), van deze wet bepaalde.
 
-#### Artikel 50
+##### Artikel 50
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 51
+##### Artikel 51
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 52
+##### Artikel 52
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 53
+##### Artikel 53
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 54
+##### Artikel 54
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 55
+##### Artikel 55
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 56
+##### Artikel 56
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 57
+##### Artikel 57
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 58
+##### Artikel 58
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 59
+##### Artikel 59
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 60
+##### Artikel 60
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 61
+##### Artikel 61
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 62
+##### Artikel 62
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 63
+##### Artikel 63
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 64
+##### Artikel 64
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 65
+##### Artikel 65
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 66
+##### Artikel 66
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 67
+##### Artikel 67
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 68
+##### Artikel 68
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 69
+##### Artikel 69
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 70
+##### Artikel 70
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 71
+##### Artikel 71
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 72
+##### Artikel 72
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 73
+##### Artikel 73
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 74
+##### Artikel 74
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 75
+##### Artikel 75
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 76
+##### Artikel 76
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 77
+##### Artikel 77
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 78
+##### Artikel 78
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 79
+##### Artikel 79
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 80
+##### Artikel 80
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 81
+##### Artikel 81
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 82
+##### Artikel 82
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 83
+##### Artikel 83
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 84
+##### Artikel 84
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 85
+##### Artikel 85
 
 Bij plaatsing in het **Staatsblad** wordt de in deze wet voorkomende aanduiding "19.." vervangen door het jaartal van het **Staatsblad** waarin deze wet wordt geplaatst en worden de drie puntjes in de in deze wet voorkomende aanduiding (**Stb.** ...) vervangen door het nummer van het **Staatsblad** waarin deze wet wordt geplaatst.
 
-#### Artikel 86
+##### Artikel 86
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 87
+##### Artikel 87
 
 Deze wet kan worden aangehaald als Archiefwet met vermelding van het jaartal van het **Staatsblad** waarin zij zal worden geplaatst.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 15a
+##### Artikel 15a
 
 1. [Artikel 15, eerste lid, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=15&z=2024-06-19&g=2024-06-19), is niet van toepassing voorzover in de archiefbescheiden milieu-informatie als bedoeld in [artikel 19.1a van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=19.1a) is neergelegd.
 
@@ -618,7 +645,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 2b. Hergebruik
+##### Artikel 2b. Hergebruik
 
 1. Onder gebruik in de zin van de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=14&z=2024-06-19&g=2024-06-19) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=17&z=2024-06-19&g=2024-06-19) van deze wet wordt ook het hergebruik verstaan in de zin van [Richtlijn 2019/1024/EU](32019L1024) van het Europees parlement en de Raad van 20 juni 2019 inzake het hergebruik van overheidsinformatie (PbEU 2019, L 172).
 

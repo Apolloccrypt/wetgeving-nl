@@ -1,18 +1,43 @@
 ---
 title: "Instellingsbesluit Adviescommissie Pôle de Compétitivité"
 identifier: "BWBR0019699"
-categorie: "Overig"
-publicatiedatum: 2006-03-31
-laatste_update: 2006-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019699"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2006-03-31"
+last_updated: "2006-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019699"
+soort: "ministeriele-regeling"
+stam_id: "8175483"
+version_id: "12989582"
+internal_id: "C29227991"
+label_id: "8156634"
+dtd_version: "2.0"
+original_entry_into_force: "2006-03-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019699/2006-03-31/0"
+intitule_bron: "Stcrt.2006-63"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-03-25"
+intitule_published: "2006-03-29"
+intitule_in_force: "2006-03-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-63"
+original_signed_date: "2006-03-25"
+original_published_date: "2006-03-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-63-p24-SC74416"
+entry_into_force_date: "2006-03-31"
+jci_1_3: "jci1.3:c:BWBR0019699&z=2006-03-31&g=2006-03-31"
+jci_1_0: "1.0:c:BWBR0019699&g=2006-03-31"
+citeertitel_status: "officieel"
+signed_date: "2006-03-25"
+entry_into_force: "2006-03-31"
 ---
-
 # Instellingsbesluit Adviescommissie Pôle de Compétitivité
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -20,7 +45,7 @@ In dit besluit wordt verstaan onder:
 
 - b. de minister: de Minister van Economische Zaken.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een Adviescommissie Pôle de Compétitivité.
 
@@ -40,7 +65,7 @@ In dit besluit wordt verstaan onder:
 
 4. Het advies van de commissie gaat vergezeld van een deugdelijke motivering.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De commissie bestaat uit een voorzitter en maximaal vijf leden.
 
@@ -60,7 +85,7 @@ In dit besluit wordt verstaan onder:
 
 - e. ir. R.E. Selman, te Sittard.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De commissie stelt haar eigen werkwijze vast.
 
@@ -70,27 +95,27 @@ In dit besluit wordt verstaan onder:
 
 4. Na het uitbrengen van haar advies over het innovatieprogramma ‘Pôle de Compétitivité’ is de commissie opgeheven.
 
-#### Artikel 5
+##### Artikel 5
 
 De commissie verstrekt desgevraagd aan de minister de voor de uitoefening van zijn taak benodigde inlichtingen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De voorzitter van de commissie ontvangt voor het bijwonen van een vergadering een vergoeding van € 260,00.
 
 2. Voor voorbereidende werkzaamheden in het kader van de commissie, anders dan het bijwonen van een vergadering, ontvangt de voorzitter een vergoeding, die wordt berekend op basis van een uurtarief dat is gebaseerd op [salarisschaal 18 van Bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) en op een voorbereidingstijd van 20 uur per vergadering.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De andere leden van de commissie ontvangen voor het bijwonen van een vergadering een vergoeding van € 200,00.
 
 2. Voor voorbereidende werkzaamheden in het kader van de commissie, anders dan het bijwonen van een vergadering, ontvangen de leden een vergoeding, die wordt berekend op basis van een uurtarief dat is gebaseerd op [salarisschaal 18 van Bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) en op een voorbereidingstijd van 16 uur per vergadering.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 maart 2006.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Adviescommissie Pôle de Compétitivité.
 

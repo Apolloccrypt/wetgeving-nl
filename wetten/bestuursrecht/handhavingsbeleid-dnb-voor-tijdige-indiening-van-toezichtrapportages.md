@@ -1,20 +1,46 @@
 ---
-title: "Handhavingsbeleid DNB voor tijdige indiening van toezichtrapportages"
+title: "Beleidsregel van de Nederlandsche Bank N.V. van 30 maart 2022 houdende regels met betrekking tot de tijdige indiening van toezichtrapportages"
 identifier: "BWBR0046616"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-02-13
-laatste_update: 2026-02-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046616"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-02-13"
+last_updated: "2026-02-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046616"
+soort: "zbo"
+stam_id: "16344543"
+version_id: "28591892"
+internal_id: "C40343181"
+label_id: "16269124"
+dtd_version: "2.0"
+original_entry_into_force: "2022-05-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046616/2026-02-13/0"
+intitule_bron: "Stcrt.2022-11493"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-03-30"
+intitule_published: "2022-05-02"
+intitule_in_force: "2022-05-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-11493"
+original_signed_date: "2022-03-30"
+original_published_date: "2022-05-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-11493"
+entry_into_force_date: "2022-05-03"
+jci_1_3: "jci1.3:c:BWBR0046616&z=2026-02-13&g=2026-02-13"
+jci_1_0: "1.0:c:BWBR0046616&g=2026-02-13"
+citeertitel_status: "officieel"
+short_title: "Handhavingsbeleid DNB voor tijdige indiening van toezichtrapportages"
+signed_date: "2022-03-30"
+entry_into_force: "2022-05-03"
 ---
-
 # Beleidsregel van de Nederlandsche Bank N.V. van 30 maart 2022 houdende regels met betrekking tot de tijdige indiening van toezichtrapportages
 
 De Nederlandsche Bank N.V. (DNB) heeft het volgende beleid vastgesteld met betrekking tot de handhaving van overtredingen van rapportageverplichtingen waarop DNB op grond van de [artikelen 1:79](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:79) en [1:80 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:80), [artikel 48 van de Wet toezicht trustkantoren 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&artikel=48), artikelen 175 en 176 van de Pensioenwet en de [artikelen 170](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=170) en [171 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=171), een bevoegdheid tot handhaven heeft (Handhavingsbeleid DNB voor tijdige indiening van toezichtrapportages).
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit beleid wordt verstaan onder:
 
@@ -34,21 +60,21 @@ In dit beleid wordt verstaan onder:
 
 - h. **toezichtrapportage:** elke wettelijk verplichte rapportage die een instelling periodiek binnen de daartoe vastgestelde termijnen verplicht is in te dienen bij DNB en waarbij DNB de bevoegde autoriteit is, met uitzondering van een statistische rapportage als bedoeld in [artikel 1 van het Handhavingsbeleid DNB voor tijdige indiening van statistische rapportages](onbekend).
 
-#### Artikel 2. Reikwijdte
+##### Artikel 2. Reikwijdte
 
 Dit beleid geldt als specifiek boetetoemetingsbeleid als bedoeld in [artikel 2 van het Algemeen Boetetoemetingsbeleid DNB](https://wetten.overheid.nl/jci1.3:c:BWBR0044472&artikel=2) van 19 november 2020.
 
-#### Artikel 3. Toepassingsbereik
+##### Artikel 3. Toepassingsbereik
 
 Dit beleid is van toepassing op een instelling.
 
 #### § 2. Indiening van toezichtrapportages
 
-#### Artikel 4. Wijze van indiening
+##### Artikel 4. Wijze van indiening
 
 Een instelling dient een toezichtrapportage digitaal in bij DNB via een daarvoor door DNB ontwikkeld elektronisch rapportagesysteem, dan wel per post.
 
-#### Artikel 5. Tijdige indiening
+##### Artikel 5. Tijdige indiening
 
 1. Een instelling dient een toezichtrapportage tijdig bij DNB in.
 
@@ -60,7 +86,7 @@ Een instelling dient een toezichtrapportage digitaal in bij DNB via een daarvoor
 
 #### § 3. Last onder dwangsom
 
-#### Artikel 6. Last onder dwangsom
+##### Artikel 6. Last onder dwangsom
 
 1. DNB legt in beginsel een last onder dwangsom op indien een instelling een toezichtrapportage niet tijdig indient.
 
@@ -70,13 +96,13 @@ Een instelling dient een toezichtrapportage digitaal in bij DNB via een daarvoor
 
 #### § 4. Bestuurlijke boete
 
-#### Artikel 7. Boeteoplegging
+##### Artikel 7. Boeteoplegging
 
 1. DNB legt in beginsel een bestuurlijke boete op aan een instelling voor het herhaaldelijk niet tijdig indienen van een toezichtrapportage.
 
 2. Onder herhaaldelijk wordt verstaan het binnen een aaneengesloten periode van dertien maanden voor de tweede maal niet tijdig indienen van een toezichtrapportage.
 
-#### Artikel 8. Stappenplan
+##### Artikel 8. Stappenplan
 
 1. In het kader van dit beleid hanteert DNB onderstaand stappenplan voor het vaststellen van de boetes wegens overtredingen van rapportageverplichtingen die zijn ingedeeld in boetecategorie 2 en 3.
 
@@ -138,15 +164,15 @@ Een instelling dient een toezichtrapportage digitaal in bij DNB via een daarvoor
 
 #### § 5. Overgangs- en slotbepalingen
 
-#### Artikel 9. Intrekking Handhavingsbeleid niet-tijdige indiening van toezichtrapportages
+##### Artikel 9. Intrekking Handhavingsbeleid niet-tijdige indiening van toezichtrapportages
 
 Met de vaststelling van dit beleid wordt het Handhavingsbeleid voor tijdige en kwalitatief voldoende financiële toezichtrapportages van onder toezicht staande ondernemingen van 16 mei 2013 ingetrokken, dat op de website van DNB bekend is gemaakt.
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 Dit beleid treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Dit beleid wordt aangehaald als: **Handhavingsbeleid DNB voor tijdige indiening van toezichtrapportages**.
 

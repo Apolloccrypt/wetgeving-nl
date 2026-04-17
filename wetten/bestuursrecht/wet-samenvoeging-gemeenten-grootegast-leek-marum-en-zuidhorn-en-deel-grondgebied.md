@@ -1,14 +1,41 @@
 ---
-title: "Wet samenvoeging gemeenten Grootegast, Leek, Marum en Zuidhorn en deel grondgebied gemeente Winsum"
+title: "Wet van 11 juli 2018 tot samenvoeging van de gemeenten Grootegast, Leek, Marum en Zuidhorn en een deel van het grondgebied van de gemeente Winsum"
 identifier: "BWBR0041292"
-categorie: "Bestuursrecht"
-publicatiedatum: 2018-09-15
-laatste_update: 2018-09-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041292"
+country: "nl"
+rank: "wet"
+publication_date: "2018-09-15"
+last_updated: "2018-09-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041292"
+soort: "wet"
+stam_id: "14707933"
+version_id: "25200962"
+internal_id: "C36033981"
+label_id: "14659914"
+dtd_version: "2.0"
+original_entry_into_force: "2018-09-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041292/2018-09-15/0"
+intitule_bron: "Stb.2018-280"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-07-11"
+intitule_published: "2018-08-31"
+intitule_in_force: "2018-08-31"
+intitule_status: "goed"
+original_publication: "Stb.2018-280"
+original_signed_date: "2018-07-11"
+original_published_date: "2018-08-31"
+original_effect: "nieuwe-regeling"
+original_dossier: "34829"
+original_url_id: "stb-2018-280"
+entry_into_force_date: "2018-09-15"
+jci_1_3: "jci1.3:c:BWBR0041292&z=2018-09-15&g=2018-09-15"
+jci_1_0: "1.0:c:BWBR0041292&g=2018-09-15"
+citeertitel_status: "redactioneel"
+short_title: "Wet samenvoeging gemeenten Grootegast, Leek, Marum en Zuidhorn en deel grondgebied gemeente Winsum"
+signed_date: "2018-07-11"
+entry_into_force: "2018-09-15"
 ---
-
-# Wet samenvoeging gemeenten Grootegast, Leek, Marum en Zuidhorn en deel grondgebied gemeente Winsum
+# Wet van 11 juli 2018 tot samenvoeging van de gemeenten Grootegast, Leek, Marum en Zuidhorn en een deel van het grondgebied van de gemeente Winsum
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,21 +45,21 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 #### § 1. Opheffing, instelling en grenswijziging van gemeenten
 
-#### Artikel 1
+##### Artikel 1
 
 Met ingang van de datum van herindeling worden de gemeenten Grootegast, Leek, Marum en Zuidhorn opgeheven.
 
-#### Artikel 2
+##### Artikel 2
 
 Met ingang van de datum van herindeling wordt de nieuwe gemeente Westerkwartier ingesteld, bestaande uit het grondgebied van de op te heffen gemeenten Grootegast, Leek, Marum en Zuidhorn en een deel van het grondgebied van de gemeente Winsum, zoals aangegeven op de bij deze wet behorende kaart.
 
 #### § 2. Overige bepalingen
 
-#### Artikel 3
+##### Artikel 3
 
 Voor de nieuwe gemeente Westerkwartier wordt de op te heffen gemeente Leek aangewezen voor de toepassing van [artikel 36 van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=36), in verband met de toepassing van de instructies en reglementen, bedoeld in dat artikel.
 
-#### Artikel 4
+##### Artikel 4
 
 Voor de op te heffen gemeenten Grootegast, Leek, Marum en Zuidhorn wordt de nieuwe gemeente Westerkwartier aangewezen voor de toepassing van de volgende bepalingen van de [Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718):
 
@@ -42,11 +69,11 @@ Voor de op te heffen gemeenten Grootegast, Leek, Marum en Zuidhorn wordt de nieu
 
 - c. [artikel 45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=45), in verband met de overgang van rechten en verplichtingen in verband met de voorziening van drinkwater, elektriciteit en gas.
 
-#### Artikel 5
+##### Artikel 5
 
 Wijzigt de Wet veiligheidsregio’s.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 

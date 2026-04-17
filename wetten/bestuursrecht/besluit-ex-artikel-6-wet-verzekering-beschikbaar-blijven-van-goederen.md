@@ -1,13 +1,35 @@
 ---
-title: "Besluit ex artikel 6, Wet verzekering beschikbaar blijven van goederen"
+title: "Besluit van 1 augustus 1959, houdende regelen betreffende de samenstelling, benoeming, werkwijze en bevoegdheid der commissies, bedoeld in artikel 6 van de wet van 10 juli 1952 (Stb. 407) ter verzekering van het beschikbaar blijven van goederen voor het geval van oorlog, oorlogsgevaar, daaraan verwante of daarmede verband houdende buitengewone omstandigheden"
 identifier: "BWBR0002323"
-categorie: "Bestuursrecht"
-publicatiedatum: 2012-12-07
-laatste_update: 2012-12-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002323"
+country: "nl"
+rank: "amvb"
+publication_date: "2012-12-07"
+last_updated: "2012-12-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002323"
+soort: "AMvB"
+stam_id: "423663"
+version_id: "622272"
+internal_id: "C622271"
+label_id: "412624"
+dtd_version: "2.0"
+original_entry_into_force: "1959-08-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002323/2012-12-07/0"
+intitule_bron: "Stb.1959-288"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1959-08-01"
+intitule_status: "goed"
+original_publication: "Stb.1959-288"
+original_signed_date: "1959-08-01"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1959-08-23"
+jci_1_3: "jci1.3:c:BWBR0002323&z=2012-12-07&g=2012-12-07"
+jci_1_0: "1.0:c:BWBR0002323&g=2012-12-07"
+citeertitel_status: "officieel"
+short_title: "Besluit ex artikel 6, Wet verzekering beschikbaar blijven van goederen"
+signed_date: "1959-08-01"
+entry_into_force: "1959-08-23"
 ---
-
 # Besluit van 1 augustus 1959, houdende regelen betreffende de samenstelling, benoeming, werkwijze en bevoegdheid der commissies, bedoeld in artikel 6 van de wet van 10 juli 1952 (Stb. 407) ter verzekering van het beschikbaar blijven van goederen voor het geval van oorlog, oorlogsgevaar, daaraan verwante of daarmede verband houdende buitengewone omstandigheden
 
 Op de voordracht van Onze Ministers van Economische Zaken en van Binnenlandse Zaken, Bezitsvorming en Publiekrechtelijke Bedrijfsorganisatie van 28 april 1959, no. 872 W.J.A.;
@@ -20,39 +42,39 @@ Gezien het nader rapport van Onze Ministers van Economische Zaken en van Binnenl
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 De commissies, die krachtens artikel 6, tweede lid, van de wet van 10 juli 1952 (**Stb.** 407) ter verzekering van het beschikbaar blijven van goederen voor het geval van oorlog, oorlogsgevaar, daaraan verwante of daarmede verband houdende buitengewone omstandigheden in hoogste ressort de schadeloosstellingen vaststellen, bedoeld in artikel 5 van die wet, bestaan ieder uit tien leden en vijf plaatsvervangende leden.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Onze Minister van Economische Zaken benoemt de leden en de plaatsvervangende leden der commissies. Hij benoemt voorts uit de leden een voorzitter en een of meer ondervoorzitters. Hij kan de benoemden wederom ontslaan.
 
 2. Een beschikking krachtens het eerste lid wordt vastgesteld in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Onze Minister van Economische Zaken benoemt voor iedere commissie een of meer secretarissen, die geen lid van de commissie zijn. Hij kan de benoemden wederom ontslaan.
 
 2. Onze Minister van Economische Zaken kan aan een secretaris een toelage toekennen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Bij de instelling van een commissie bepalen Wij zo nodig haar gebied.
 
 2. Heeft de schadeloosstelling betrekking op een onroerend goed, dat in het gebied van twee of meer commissies is gelegen, dan wordt zij vastgesteld door die commissie, in welker gebied het grootste gedeelte van het goed gelegen is.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De commissies nemen bij de vervulling van hun taak de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002323&artikel=1&z=2012-12-07&g=2012-12-07) genoemde wet en de tot uitvoering daarvan vastgestelde regelingen in acht.
 
 2. Zij beslissen zo spoedig mogelijk op de krachtens [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002323&artikel=6&z=2012-12-07&g=2012-12-07), dier wet ingediende verzoekschriften.
 
-#### Artikel 6
+##### Artikel 6
 
 De voorzitter van de commissie heeft de leiding van haar werkzaamheden. Hij bepaalt de plaats, waar en het tijdstip, waarop de commissie vergadert.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De commissie behandelt ieder verzoekschrift met drie leden, waaronder de voorzitter, de ondervoorzitter of, indien er meer ondervoorzitters zijn, een hunner. De voorzitter wijst die leden aan.
 
@@ -64,7 +86,7 @@ De voorzitter van de commissie heeft de leiding van haar werkzaamheden. Hij bepa
 
 5. De zittingen van de commissie worden bijgewoond door de secretaris of, zo er meer dan één secretaris is, door de daarvoor door de voorzitter aangewezen secretaris.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De commissies kunnen getuigen en deskundigen horen en deze laatsten verzoeken hun bericht schriftelijk uit te brengen. Zij kunnen het horen onder ede doen plaats hebben, tenzij de getuige of deskundige de leeftijd van zestien jaren nog niet heeft bereikt.
 
@@ -72,7 +94,7 @@ De voorzitter van de commissie heeft de leiding van haar werkzaamheden. Hij bepa
 
 3. Met de eed staat gelijk de belofte of bevestiging, die krachtens de wet voor de eed in de plaats treedt.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De beschikking van de commissie op het verzoekschrift komt tot stand door een beslissing bij meerderheid van stemmen en nadat Onze Minister die het bevel heeft gegeven of doen geven, en de betrokken rechthebbende in de gelegenheid zijn gesteld hun zienswijze daarover naar voren te brengen.
 
@@ -80,11 +102,11 @@ De voorzitter van de commissie heeft de leiding van haar werkzaamheden. Hij bepa
 
 3. De commissie doet van de beschikking mededeling aan Onze Minister van Economische Zaken door toezending van een afschrift.
 
-#### Artikel 10
+##### Artikel 10
 
 De commissies dienen, ieder voor wat hun gebied betreft, Onze betrokken Ministers van advies aangaande het bedrag van krachtens artikel 5 van Ons besluit van 8 mei 1959 te verlenen voorschotten.
 
-#### Artikel 11
+##### Artikel 11
 
 Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad**, waarin het wordt geplaatst.
 

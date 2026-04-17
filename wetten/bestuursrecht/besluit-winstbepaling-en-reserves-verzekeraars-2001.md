@@ -1,13 +1,39 @@
 ---
-title: "Besluit winstbepaling en reserves verzekeraars 2001"
+title: "Besluit van 21 december 2000, houdende vaststelling van het Besluit winstbepaling en reserves verzekeraars 2001"
 identifier: "BWBR0012096"
-categorie: "Bestuursrecht"
-publicatiedatum: 2011-01-01
-laatste_update: 2011-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012096"
+country: "nl"
+rank: "amvb"
+publication_date: "2011-01-01"
+last_updated: "2011-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012096"
+soort: "AMvB"
+stam_id: "1459073"
+version_id: "2186032"
+internal_id: "C2186031"
+label_id: "1417904"
+dtd_version: "2.0"
+original_entry_into_force: "2001-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012096/2011-01-01/0"
+intitule_bron: "Stb.2000-643"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-12-21"
+intitule_published: "2000-12-28"
+intitule_in_force: "2000-12-28"
+intitule_status: "goed"
+original_publication: "Stb.2000-643"
+original_signed_date: "2000-12-21"
+original_published_date: "2000-12-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2000-643"
+entry_into_force_date: "2001-01-01"
+jci_1_3: "jci1.3:c:BWBR0012096&z=2011-01-01&g=2011-01-01"
+jci_1_0: "1.0:c:BWBR0012096&g=2011-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit winstbepaling en reserves verzekeraars 2001"
+signed_date: "2000-12-21"
+entry_into_force: "2001-01-01"
 ---
-
 # Besluit van 21 december 2000, houdende vaststelling van het Besluit winstbepaling en reserves verzekeraars 2001
 
 Op de voordracht van de Staatssecretaris van Financiën van 20 november 2000, nr. WDB2000/873 M, Directoraat-Generaal voor Fiscale Zaken, Directie Wetgeving Directe Belastingen;
@@ -20,7 +46,7 @@ Gezien het nader rapport van de staatssecretaris van Financiën van 19 december 
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1. Reikwijdte en definities
+##### Artikel 1. Reikwijdte en definities
 
 1. Dit besluit geeft uitvoering aan [artikel 29, onderdeel a, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=29).
 
@@ -42,7 +68,7 @@ Hebben goedgevonden en verstaan:
 
 - h. verzekerd bedrag: verzekerd bedrag eigen rekening.
 
-#### Artikel 2. Grondslagen berekening premiereserve
+##### Artikel 2. Grondslagen berekening premiereserve
 
 1. De premiereserve wordt berekend naar de grondslagen die worden gehanteerd bij de bepaling van het tarief waarop de verzekeringen zijn of worden gesloten.
 
@@ -58,17 +84,17 @@ Hebben goedgevonden en verstaan:
 
 - 3°. de batepremie die uit de brutopremie wordt afgeleid door deze te verminderen met een bedrag gelijk aan het verschil tussen de brutopremie en de nettopremie voor de op het tijdstip van de omrekening nieuw te sluiten verzekeringen.
 
-#### Artikel 3. Nettomethode
+##### Artikel 3. Nettomethode
 
 De premiereserve wordt berekend op basis van de nettomethode.
 
-#### Artikel 4. Activering acquisitiekosten
+##### Artikel 4. Activering acquisitiekosten
 
 1. De kosten van een jaar die direct of indirect samenhangen met in dat jaar gesloten verzekeringsovereenkomsten tegen periodieke premiebetaling (acquisitiekosten), worden door een levensverzekeraar en een natura-uitvaartverzekeraar in gelijke delen ten laste van de winst van dat jaar en de daaropvolgende negen jaren gebracht.
 
 2. In afwijking van het eerste lid worden de acquisitiekosten die betrekking hebben op verzekeringsovereenkomsten waarvoor de overeengekomen periode van premiebetaling minder is dan tien jaren, gedurende die periode in gelijke delen ten laste van de winst gebracht.
 
-#### Artikel 5. Activering rentestandkortingen
+##### Artikel 5. Activering rentestandkortingen
 
 Een in een jaar toegekende rentestandkorting ter zake van een collectieve verzekering wordt door een levensverzekeraar en een natura-uitvaartverzekeraar als volgt in het jaar waarin de kortingen zijn verleend en de zeven daaropvolgende jaren ten laste van de winst gebracht:
 
@@ -76,15 +102,15 @@ Een in een jaar toegekende rentestandkorting ter zake van een collectieve verzek
 
 - b. in de vier volgende jaren telkens voor 10 percent.
 
-#### Artikel 6. Waardering vastrentende beleggingen
+##### Artikel 6. Waardering vastrentende beleggingen
 
 Vastrentende beleggingen worden door een levensverzekeraar en een natura-uitvaartverzekeraar niet als gevolg van stijging van de marktrente beneden de kostprijs gewaardeerd.
 
-#### Artikel 7. Egalisatiereserve
+##### Artikel 7. Egalisatiereserve
 
 Levensverzekeraars, natura-uitvaartverzekeraars en schadeverzekeraars kunnen een egalisatiereserve vormen.
 
-#### Artikel 8. Plafond egalisatiereserve
+##### Artikel 8. Plafond egalisatiereserve
 
 1. De egalisatiereserve bedraagt bij een levensverzekeraar en een natura-uitvaartverzekeraar ten hoogste 2,25 percent van de bij het einde van het jaar bestaande premiereserve.
 
@@ -92,7 +118,7 @@ Levensverzekeraars, natura-uitvaartverzekeraars en schadeverzekeraars kunnen een
 
 3. Voor de toepassing van het eerste lid worden de bedragen van de op de voet van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=5&z=2011-01-01&g=2011-01-01) ten laste van de winst te brengen rentestandkortingen in de jaren volgend op het jaar waarin de kortingen zijn verleend op de premiereserve in mindering gebracht.
 
-#### Artikel 9. Maximale jaarlijkse toevoeging egalisatiereserve
+##### Artikel 9. Maximale jaarlijkse toevoeging egalisatiereserve
 
 1. Het ten laste van de winst in de egalisatiereserve op te nemen bedrag beloopt in een jaar ten hoogste:
 
@@ -108,7 +134,7 @@ Levensverzekeraars, natura-uitvaartverzekeraars en schadeverzekeraars kunnen een
 
 2. De in het eerste lid, onderdeel b, bedoelde 22,5 percent wordt voor een schadeverzekeraar verhoogd tot 33,75 percent, voorzover toevoeging aan de reserve deze niet doet uitgaan boven tien percent van de op het jaar betrekking hebbende premies.
 
-#### Artikel 10. Extra toevoeging
+##### Artikel 10. Extra toevoeging
 
 1. Tot het bedrag waarmede ingevolge [artikel 11, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=11&z=2011-01-01&g=2011-01-01), de egalisatiereserve is verminderd, kan een extra toevoeging aan de reserve plaatsvinden. Deze toevoeging bedraagt in een jaar ten hoogste:
 
@@ -122,7 +148,7 @@ Levensverzekeraars, natura-uitvaartverzekeraars en schadeverzekeraars kunnen een
 
 2. Voor een schadeverzekeraar is met betrekking tot het in het eerste lid, onderdeel a, onder 1°, eerstbedoelde maximum, [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=9&z=2011-01-01&g=2011-01-01), van toepassing.
 
-#### Artikel 11. Onttrekkingen aan de egalisatiereserve
+##### Artikel 11. Onttrekkingen aan de egalisatiereserve
 
 1. Uit de egalisatiereserve wordt, voorzover mogelijk, achtereenvolgens aan de winst van een jaar toegevoegd:
 
@@ -152,15 +178,15 @@ Levensverzekeraars, natura-uitvaartverzekeraars en schadeverzekeraars kunnen een
 
 - d. transport- en luchtvaartverzekering.
 
-#### Artikel 12. Calamiteitenreserve
+##### Artikel 12. Calamiteitenreserve
 
 Schadeverzekeraars kunnen ter zake van atoomrisico's een calamiteitenreserve vormen.
 
-#### Artikel 13. Plafond calamiteitenreserve
+##### Artikel 13. Plafond calamiteitenreserve
 
 De calamiteitenreserve bedraagt ten hoogste het bij het einde van het jaar verzekerde bedrag ter zake van atoomrisico's.
 
-#### Artikel 14. Maximale jaarlijkse toevoeging calamiteitenreserve
+##### Artikel 14. Maximale jaarlijkse toevoeging calamiteitenreserve
 
 1. Het ten laste van de winst in de calamiteitenreserve op te nemen bedrag beloopt in een jaar ten hoogste:
 
@@ -172,7 +198,7 @@ De calamiteitenreserve bedraagt ten hoogste het bij het einde van het jaar verze
 
 2. Als technisch resultaat van atoomverzekeringen wordt aangemerkt het verschil tussen de op het jaar betrekking hebbende premies – na aftrek van de daarover verschuldigde provisies – en de op het jaar betrekking hebbende schaden.
 
-#### Artikel 15. Onttrekkingen aan de calamiteitenreserve
+##### Artikel 15. Onttrekkingen aan de calamiteitenreserve
 
 1. Uit de calamiteitenreserve wordt, voorzover mogelijk, achtereenvolgens aan de winst toegevoegd:
 
@@ -182,15 +208,15 @@ De calamiteitenreserve bedraagt ten hoogste het bij het einde van het jaar verze
 
 2. Overtreft bij het einde van een jaar de reserve het vermogen, verminderd met het gestorte kapitaal en met de overige toelaatbare reserves, voor wat de egalisatiereserve betreft na toepassing van [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=11&z=2011-01-01&g=2011-01-01), dan wordt het meerdere aan de winst van het jaar toegevoegd. Voor het bepalen van het vermogen vindt [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=11&z=2011-01-01&g=2011-01-01), laatste volzin, overeenkomstige toepassing.
 
-#### Artikel 16. Negatief technische resultaat van atoomverzekeringen
+##### Artikel 16. Negatief technische resultaat van atoomverzekeringen
 
 Voorzover het negatieve technische resultaat van atoomverzekeringen de calamiteitenreserve overtreft, wordt het meerdere geacht te behoren tot het technische resultaat van de branchegroep variaverzekering.
 
-#### Artikel 17. Belastingpercentage
+##### Artikel 17. Belastingpercentage
 
 Voor de berekening van de voor opneming in de egalisatiereserve en in de calamiteitenreserve beschikbare over het jaar genoten winst wordt de belasting gesteld op H percent van het belastbare bedrag of het belastbare binnenlandse bedrag. Daarbij staat H voor het percentage van het hoogste tarief, bedoeld in [artikel 22 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=22), geldend voor het jaar waarin de winst is genoten.
 
-#### Artikel 18. Storm- en hagelschade
+##### Artikel 18. Storm- en hagelschade
 
 1. Ingeval een schadeverzekeraar uitsluitend of nagenoeg uitsluitend stormschade of hagelschade verzekert, wordt in afwijking in zoverre van:
 
@@ -214,7 +240,7 @@ Voor de berekening van de voor opneming in de egalisatiereserve en in de calamit
 
 - b. [artikel 11, eerste lid, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=11&z=2011-01-01&g=2011-01-01), de aldaar bedoelde toevoeging aan de winst gesteld op het negatieve technische resultaat van molestverzekeringen, zijnde het bedrag waarmede de op het jaar betrekking hebbende schaden dat van de op het jaar betrekking hebbende premies – na aftrek van de daarover verschuldigde provisies – overtreft.
 
-#### Artikel 19. Fiscale eenheid
+##### Artikel 19. Fiscale eenheid
 
 Ingeval [artikel 15 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15) toepassing vindt ten aanzien van twee of meer vennootschappen die niet allen hetzij levensverzekeraar, hetzij natura-uitvaartverzekeraar, hetzij schadeverzekeraar zijn, vinden de in dit besluit – met uitzondering van [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=9&z=2011-01-01&g=2011-01-01), [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=10&z=2011-01-01&g=2011-01-01), en [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=18&z=2011-01-01&g=2011-01-01) – gegeven voorschriften, voorzover zij niet reeds van toepassing zijn, overeenkomstige toepassing met dien verstande dat, in afwijking in zoverre van:
 
@@ -222,15 +248,15 @@ Ingeval [artikel 15 van de Wet op de vennootschapsbelasting 1969](https://wetten
 
 - b. [artikel 9, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=9&z=2011-01-01&g=2011-01-01), het aldaar bedoelde maximum van de jaarlijkse toevoeging aan de egalisatiereserve wordt gesteld op de som van de onder die onderdeel gestelde maxima voor onderscheidenlijk een levensverzekeraar, een natura-uitvaartverzekeraar en een schadeverzekeraar.
 
-#### Artikel 20. Intrekking Besluit reserves verzekeraars
+##### Artikel 20. Intrekking Besluit reserves verzekeraars
 
 Het Besluit reserves verzekeraars wordt ingetrokken.
 
-#### Artikel 21. Citeertitel
+##### Artikel 21. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit winstbepaling en reserves verzekeraars 2001.
 
-#### Artikel 22. Inwerkingtreding
+##### Artikel 22. Inwerkingtreding
 
 1. Dit besluit treedt in werking met ingang van 1 januari 2001.
 

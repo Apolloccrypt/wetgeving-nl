@@ -1,13 +1,38 @@
 ---
 title: "Briefwisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Venezuela inzake het omzetten van het Memorandum van Overeenstemming van 29 juni 1991 inzake luchtdiensten tussen en via de Nederlandse Antillen en de Republiek Venezuela"
 identifier: "BWBV0001983"
-categorie: "Milieu"
-publicatiedatum: 1994-01-06
-laatste_update: 1994-01-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001983"
+country: "nl"
+rank: "verdrag"
+publication_date: "1994-01-06"
+last_updated: "1994-01-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001983"
+soort: "verdrag"
+stam_id: "10002591373"
+version_id: "10002582492"
+internal_id: "C10009810631"
+label_id: "10002580674"
+dtd_version: "2.0"
+original_entry_into_force: "1994-01-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001983/1994-01-06/0"
+intitule_bron: "Trb.1993-130"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1993-07-01"
+intitule_published: "1993-09-23"
+intitule_in_force: "1994-02-11"
+intitule_status: "goed"
+original_publication: "Trb.1993-130"
+original_signed_date: "1993-07-01"
+original_published_date: "1993-09-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1993-130"
+entry_into_force_date: "1994-01-06"
+jci_1_3: "jci1.3:c:BWBV0001983&z=1994-01-06&g=1994-01-06"
+jci_1_0: "1.0:c:BWBV0001983&g=1994-01-06"
+citeertitel_status: "redactioneel"
+signed_date: "1993-07-01"
+entry_into_force: "1994-01-06"
 ---
-
 # Briefwisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Venezuela inzake het omzetten van het Memorandum van Overeenstemming van 29 juni 1991 inzake luchtdiensten tussen en via de Nederlandse Antillen en de Republiek Venezuela
 
 Excellentie:

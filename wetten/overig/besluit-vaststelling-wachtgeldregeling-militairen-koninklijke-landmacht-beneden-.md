@@ -1,13 +1,35 @@
 ---
-title: "Besluit vaststelling wachtgeldregeling militairen Koninklijke landmacht beneden de rang officier"
+title: "Besluit van 17 augustus 1935, tot vaststelling van een wachtgeldregeling voor militairen der Koninklijke landmacht beneden den rang van officier"
 identifier: "BWBR0001967"
-categorie: "Overig"
-publicatiedatum: 1957-01-01
-laatste_update: 1957-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0001967"
+country: "nl"
+rank: "kb"
+publication_date: "1957-01-01"
+last_updated: "1957-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0001967"
+soort: "KB"
+stam_id: "1175663"
+version_id: "1736572"
+internal_id: "C1736571"
+label_id: "1139154"
+dtd_version: "2.0"
+original_entry_into_force: "1935-09-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0001967/1957-01-01/0"
+intitule_bron: "Stb.1935-515"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1935-08-17"
+intitule_status: "goed"
+original_publication: "Stb.1935-515"
+original_signed_date: "1935-08-17"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1935-09-22"
+jci_1_3: "jci1.3:c:BWBR0001967&z=1957-01-01&g=1957-01-01"
+jci_1_0: "1.0:c:BWBR0001967&g=1957-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit vaststelling wachtgeldregeling militairen Koninklijke landmacht beneden de rang officier"
+signed_date: "1935-08-17"
+entry_into_force: "1935-09-22"
 ---
-
 # Besluit van 17 augustus 1935, tot vaststelling van een wachtgeldregeling voor militairen der Koninklijke landmacht beneden den rang van officier
 
 Op de voordracht van Onze Ministers van Defensie en van Binnenlandsche Zaken van 4 April 1935, VIIIste Afdeeling, n°. 129, en van 12 April 1935, n°. 489II, Afdeeling Pensioenen en Wachtgelden;
@@ -26,7 +48,7 @@ A. in te trekken ons besluit van 30 December 1922 (**Staatsblad** n°. 774) tot 
 
 B. te bepalen:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Dit besluit verstaat onder "militairen" vrijwillig dienende militairen der landmacht beneden den rang van officier, niet behoorende tot het verlofspersoneel.
 
@@ -34,7 +56,7 @@ B. te bepalen:
 
 3. Een zoodanig wachtgeld kan ook worden toegekend aan den militair, die op verzoek wordt ontslagen, nadat hem is medegedeeld, dat het voornemen bestaat tot zijn ontslag op grond van het bepaalde bij artikel 19, tweede lid, onder **c,** van het Reglement voor de militaire ambtenaren der Koninklijke landmacht en eveneens aan den militair, die verbreking van zijn dienstverband vraagt en verkrijgt, indien hij behoort tot een wapen of dienstvak, waarbij een overcompleet aan militairen bestaat of spoedig zal zijn te wachten.
 
-#### Artikel 2
+##### Artikel 2
 
 Met betrekking tot den duur en het bedrag van het wachtgeld worden de militairen onderscheiden in:
 
@@ -42,13 +64,13 @@ Met betrekking tot den duur en het bedrag van het wachtgeld worden de militairen
 
 - b. de overigen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Voor de toepassing van de verdere artikelen van dit besluit wordt onder diensttijd verstaan de werkelijke diensttijd in den zin van de Pensioenwet voor de landmacht (**Staatsblad** 1922, n°. 66), volbracht bij het op wachtgeld stellen, met dien verstande dat, wanneer de diensttijd ten gevolge van ontslag is onderbroken geweest, de tijd vóór de onderbreking slechts medetelt, indien de onderbreking minder dan een jaar heeft geduurd.
 
 2. Bij de toepassing van het [derde lid van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001967&artikel=4&z=1957-01-01&g=1957-01-01) wordt niettemin de tijd vóór de onderbreking wel medegeteld, ook al heeft de onderbreking een jaar of langer geduurd.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Aan een militair, als bedoeld in [artikel 2, onder **a,**](https://wetten.overheid.nl/jci1.3:c:BWBR0001967&artikel=2&z=1957-01-01&g=1957-01-01) wordt het genot van wachtgeld toegekend gedurende een tijdvak, gelijk aan zijn diensttijd.
 
@@ -76,7 +98,7 @@ een en ander met inachtneming van het bepaalde bij de laatste zinsnede van het v
 
 7. Wanneer het derde lid niet van toepassing is, kan in buitengewone gevallen het wachtgeld na afloop van de in het eerste en tweede lid bedoelde termijnen voor een bepaalden tijd worden voortgezet; dat wachtgeld bedraagt ten hoogste, naargelang de betrokkene ten tijde van het ontslag al dan niet kostwinner was van een gezin, onderscheidenlijk 50 of 40 ten honderd van de laatstelijk genoten bezoldiging.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Wij behouden Ons voor, om in de gevallen, waarin zulks door Ons noodig wordt geoordeeld, aan belanghebbenden de verplichting op te leggen eene verbintenis aan te gaan bij het reservepersoneel der landmacht, zulks op de wijze nader door Ons te bepalen; zullende de toekenning of verdere uitkeering van wachtgeld aan een militair, gedurende den tijd bedoeld in artikel 4 van het sluiten dezer verbintenis afhankelijk worden gesteld.
 
@@ -90,7 +112,7 @@ een en ander met inachtneming van het bepaalde bij de laatste zinsnede van het v
 
 6. De hierbedoelde toelage wordt aan den reservist-wachtgelder niet toegekend in de gevallen, waarin geen toelagen worden genoten door het reservepersoneel, dat daarop overigens aanspraak heeft.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Voor de toepassing van dit besluit wordt onder laatstelijk genoten bezoldiging verstaan de bezoldiging welke op de dag voor het ontslag in de verlaten betrekking bij plaatsing in Nederland werd genoten of zou genoten zijn, vermeerderd met de tijdelijke kindertoelage, de tijdelijke kindertoeslag, de vakantieuitkering en eventuele in de pensioensgrondslag opgenomen inkomsten en baten.
 
@@ -100,7 +122,7 @@ een en ander met inachtneming van het bepaalde bij de laatste zinsnede van het v
 
 4. In afwijking van het gestelde in het eerste, tweede en derde lid wordt voor het wachtgeld, toegekend krachtens het [derde lid van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001967&artikel=4&z=1957-01-01&g=1957-01-01) als laatstelijk genoten bezoldiging aangemerkt het bedrag van den pensioensgrondslag, waarnaar het daarbedoelde wachtgeld is berekend.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Wanneer de op wachtgeld-gestelde inkomsten gaat genieten uit of in verband met arbeid of bedrijf, na het ontslag ter hand genomen, wordt, behoudens het bepaalde in het zevende lid van dit artikel:
 
@@ -128,7 +150,7 @@ Het hier bepaalde vindt overeenkomstige toepassing ten aanzien van inkomsten, ve
 
 7. In geval van inkomsten uit overwerk in dienst van openbare lichamen kan worden bepaald, dat voor die inkomsten de in het eerste lid van dit artikel onder A en C bedoelde vermindering geheel of ten deele tot wederopzegging achterwege blijft.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Indien de op wachtgeld-gestelde een hem aangeboden ambt of betrekking, die hem naar het oordeel van Onzen Minister van Defensie in verband met zijn persoonlijkheid en omstandigheden redelijkerwijze kan worden opgedragen, weigert te aanvaarden of ook anderszins, indien hij in de gelegenheid komt om op een wijze, die in verband met zijn persoonlijkheid en omstandigheden naar het oordeel van dien Minister voor hem geen gebruik maakt, dan wordt niettemin het wachtgeld verminderd met een zoodanig bedrag, alsof de verzuimde inkomsten wel worden genoten.
 
@@ -136,13 +158,13 @@ Het hier bepaalde vindt overeenkomstige toepassing ten aanzien van inkomsten, ve
 
 3. De bepalingen van dit artikel vinden overeenkomstige toepassing voor den militair, wien is medegedeeld, dat het voornemen bestaat tot zijn ontslag op grond van het bepaalde bij artikel 19, tweede lid, onder C van het Reglement voor de militaire ambtenaren der Koninklijke landmacht, in dezer voege, dat, indien zoodanig militair een ambt of betrekking weigert of niet van een gelegenheid gebruik maakt, als bedoeld in het eerste lid, de toekenning van wachtgeld achterwege blijft of slechts tot een verminderd bedrag geschiedt en dat bij niet-opvolging van de voorschriften, als bedoeld in het tweede lid, de toekenning van wachtgeld achterwege kan blijven of slechts tot een verminderd bedrag geschieden.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Voor de toepassing van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0001967&artikel=7&z=1957-01-01&g=1957-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0001967&artikel=8&z=1957-01-01&g=1957-01-01) van dit besluit worden onder inkomsten of verzuimde inkomsten mede verstaan bedragen, die ter zake van pensioenen ten laste van belanghebbende komen of zouden gekomen zijn.
 
 2. Als inkomsten, die genoten worden in dienst van een openbaar lichaam worden ten deze ook aangemerkt inkomsten verbonden aan een betrekking, welke aan de belanghebbende uitzicht geeft of kan geven op pensioen krachtens de Pensioenwet 1922 (**Stb.** 240).
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het wachtgeld vervalt:
 
@@ -158,15 +180,15 @@ Wanneer het wachtgeld op een der bovenomschreven wijzen is vervallen, dan is bij
 
 2. Het vervallen, schorsen, verminderen of vermeerderen van wachtgeld gaat in met den dag, waarop de reden van het vervallen, de schorsing, de vermindering of vermeerdering intreedt.
 
-#### Artikel 11
+##### Artikel 11
 
 Met den op wachtgeld-gestelde kan een regeling worden getroffen krachtens welke het wachtgeld geheel of ten deele wordt vervangen door een afkoopsom.
 
-#### Artikel 12
+##### Artikel 12
 
 Aan hem, die op wachtgeld zal worden of is gesteld, kan, indien hij elders arbeid of bedrijf gaat ter hand nemen, ter zake van de kosten, die voor hem aan de daartoe noodige verhuizing zijn verbonden, een bedrag worden toegekend, indien bij gebreke van die toekenning die arbeid of dat bedrijf door hem redelijkerwijze niet zou zijn te aanvaarden.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Het bedrag van het wachtgeld, over een jaar berekend, wordt naar boven tot een vollen gulden afgerond. Het wordt uitbetaald in maandelijksche termijnen. Met toestemming van den op wachtgeld gestelde kan de uitbetaling in langere termijnen geschieden.
 
@@ -182,7 +204,7 @@ Laat de overledene geen weduwe na, dan geschiedt de uitkeering ten behoeve van d
 
 6. Ten aanzien van de toelage, bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001967&artikel=5&z=1957-01-01&g=1957-01-01), wordt in overeenkomstigen zin gehandeld.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De ter uitvoering van dit besluit te nemen beslissingen worden genomen door Onzen Minister van Defensie met medewerking van Onzen Minister van Binnenlandsche Zaken.
 
@@ -190,7 +212,7 @@ Laat de overledene geen weduwe na, dan geschiedt de uitkeering ten behoeve van d
 
 3. Aan een verzoek om het advies van de in het vorig lid bedoelde commissie in te winnen zal slechts worden voldaan, indien dat verzoek bij het Departement van Defensie is ingekomen binnen 30 dagen na den datum, waarop de ter zake betrekkelijke beslissing is verzonden.
 
-#### Artikel 15
+##### Artikel 15
 
 Dit besluit treedt in werking met ingang van den tweeden dag na dien der dagteekening van het **Staatsblad,** waarin het is geplaatst.
 

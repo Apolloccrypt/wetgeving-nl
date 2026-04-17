@@ -1,13 +1,37 @@
 ---
 title: "Ziektekostentegemoetkoming per 1 januari 2000"
 identifier: "BWBR0011313"
-categorie: "Bestuursrecht"
-publicatiedatum: 2000-01-01
-laatste_update: 2000-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011313"
+country: "nl"
+rank: "circulaire"
+publication_date: "2000-01-01"
+last_updated: "2000-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011313"
+soort: "circulaire"
+stam_id: "6257063"
+version_id: "10939202"
+internal_id: "C14832621"
+label_id: "6245934"
+original_entry_into_force: "2000-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011313/2000-01-01/0"
+intitule_bron: "Stcrt.2000-86"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-04-19"
+intitule_published: "2000-05-03"
+intitule_in_force: "2000-05-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2000-86"
+original_signed_date: "2000-04-19"
+original_published_date: "2000-05-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2000-86-p20-SC23877"
+entry_into_force_date: "2000-01-01"
+jci_1_3: "jci1.3:c:BWBR0011313&z=2000-01-01&g=2000-01-01"
+jci_1_0: "1.0:c:BWBR0011313&g=2000-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "2000-04-19"
+entry_into_force: "2000-01-01"
 ---
-
 # Ziektekostentegemoetkoming per 1 januari 2000
 
 ### I. Samenvatting

@@ -1,13 +1,35 @@
 ---
-title: "Wijzigingsbesluit Uitvoeringsbesluit accijns"
+title: "Besluit van 24 december 1992, tot wijziging van het Uitvoeringsbesluit accijns in verband met de afschaffing van de fiscale grenzen"
 identifier: "BWBR0005809"
-categorie: "Belastingrecht"
-publicatiedatum: 1993-01-01
-laatste_update: 1993-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005809"
+country: "nl"
+rank: "amvb"
+publication_date: "1993-01-01"
+last_updated: "1993-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005809"
+soort: "AMvB"
+stam_id: "1488333"
+version_id: "2223242"
+internal_id: "C2223241"
+label_id: "1445304"
+dtd_version: "2.0"
+original_entry_into_force: "1993-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005809/1993-01-01/0"
+intitule_bron: "Stb.1992-712"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-12-24"
+intitule_status: "goed"
+original_publication: "Stb.1992-712"
+original_signed_date: "1992-12-24"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1993-01-01"
+jci_1_3: "jci1.3:c:BWBR0005809&z=1993-01-01&g=1993-01-01"
+jci_1_0: "1.0:c:BWBR0005809&g=1993-01-01"
+citeertitel_status: "officieel"
+short_title: "Wijzigingsbesluit Uitvoeringsbesluit accijns"
+signed_date: "1992-12-24"
+entry_into_force: "1993-01-01"
 ---
-
 # Besluit van 24 december 1992, tot wijziging van het Uitvoeringsbesluit accijns in verband met de afschaffing van de fiscale grenzen
 
 Op de voordracht van de Staatssecretaris van Financiën van 11 november 1992, nr. WV 92/538, Directoraat-Generaal voor Fiscale Zaken, Directie Wetgeving Verbruiksbelastingen;
@@ -20,17 +42,17 @@ Gezien het nader rapport van de Staatssecretaris van Financiën van 23 december 
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel II
+##### Artikel II
 
 1. De vrijstelling van accijns als bedoeld in artikel III van de Wet tot wijziging van de [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251) in verband met de afschaffing van de fiscale grenzen (**Stb.** 1992, 711) geldt alleen voor zover de hoeveelheid accijnsgoederen, per persoon en per reis, niet de maxima overschrijdt die zijn vastgesteld bij ministeriële regeling.
 
 2. Voor de toepassing van de vrijstelling met betrekking tot de accijnsgoederen die bestemd zijn om aan boord van een vliegtuig of een schip aan de reizigers te worden geleverd worden de accijnsgoederen geacht uit de accijnsgoederenplaats te zijn uitgeslagen op het tijdstip waarop zij worden geleverd aan de reizigers.
 
-#### Artikel III
+##### Artikel III
 
 Dit besluit treedt in werking met ingang van 1 januari 1993.
 

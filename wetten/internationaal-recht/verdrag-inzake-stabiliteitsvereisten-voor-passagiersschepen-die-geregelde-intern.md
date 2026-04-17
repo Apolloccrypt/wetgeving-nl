@@ -1,13 +1,37 @@
 ---
 title: "Verdrag inzake stabiliteitsvereisten voor passagiersschepen die geregelde internationale lijndiensten van en naar havens in Noord-West-Europa en de Baltische Zee onderhouden"
 identifier: "BWBV0001276"
-categorie: "Internationaal recht"
-publicatiedatum: 1997-04-01
-laatste_update: 1997-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001276"
+country: "nl"
+rank: "verdrag"
+publication_date: "1997-04-01"
+last_updated: "1997-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001276"
+soort: "verdrag"
+stam_id: "10001170843"
+version_id: "10001209082"
+internal_id: "C10006988651"
+label_id: "10001171144"
+original_entry_into_force: "1997-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001276/1997-04-01/0"
+intitule_bron: "Trb.1997-72"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-02-03"
+intitule_published: "1997-03-21"
+intitule_in_force: "1997-03-21"
+intitule_status: "goed"
+original_publication: "Trb.1997-72"
+original_signed_date: "1997-02-03"
+original_published_date: "1997-03-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1997-72"
+entry_into_force_date: "1997-04-01"
+jci_1_3: "jci1.3:c:BWBV0001276&z=1997-04-01&g=1997-04-01"
+jci_1_0: "1.0:c:BWBV0001276&g=1997-04-01"
+citeertitel_status: "officieel"
+signed_date: "1997-02-03"
+entry_into_force: "1997-04-01"
 ---
-
 # Verdrag inzake stabiliteitsvereisten voor passagiersschepen die geregelde internationale lijndiensten van en naar havens in Noord-West-Europa en de Baltische Zee onderhouden
 
 The Contracting Governments,
@@ -26,7 +50,7 @@ Recognising that the prevailing, often adverse, sea and weather conditions with 
 
 Have agreed as follows:
 
-#### Article 1. Definitions
+##### Article 1. Definitions
 
 For the purposes of the present Agreement:
 
@@ -40,7 +64,7 @@ For the purposes of the present Agreement:
 
 - e). Secretary-General means the Secretary-General of the International Maritime Organization.
 
-#### Article 2. General Obligation
+##### Article 2. General Obligation
 
 The Contracting Governments agree to apply the specific stability requirements to ro-ro passenger ships entitled to fly their flag and operating on regular scheduled international voyages carrying passengers
 
@@ -48,15 +72,15 @@ The Contracting Governments agree to apply the specific stability requirements t
 
 - b). to or from designated ports.
 
-#### Article 3. Specific Stability Requirements
+##### Article 3. Specific Stability Requirements
 
 The Contracting Governments agree to apply the specific stability requirements no later than the dates prescribed in annex 2.
 
-#### Article 4. Single Voyage Exemptions
+##### Article 4. Single Voyage Exemptions
 
 A ro-ro passenger ship which is not normally engaged on regular scheduled international voyages between or to or from designated ports but which is required to undertake a single voyage between such ports or to or from such a port may be exempted from any or all of the specific stability requirements by a Contracting Government or by the ship's flag State, following consultations with the Contracting Government or Governments between or to or from whose ports the voyage is to take place. An exemption shall not be granted by the ship's flag State unless the ship complies with international safety requirements which in the joint opinion of the ship's flag State and the Contracting Government or Governments between or to or from whose ports the voyage is to take place are adequate for the intended voyage.
 
-#### Article 5. Application to Ro-Ro Passenger Ships of Flag States Non-parties to the present Agreement
+##### Article 5. Application to Ro-Ro Passenger Ships of Flag States Non-parties to the present Agreement
 
 1. The Contracting Governments agree that the specific stability requirements should apply to all ro-ro passenger ships operating on regular scheduled international voyages carrying passengers between or to or from designated ports, irrespective of flag and bearing in mind the necessity to ensure that no more favourable treatment should be given to ships entitled to fly the flag of States non-parties to the present Agreement.
 
@@ -64,7 +88,7 @@ A ro-ro passenger ship which is not normally engaged on regular scheduled intern
 
 3. Each Contracting Government undertakes to advise the other Contracting Governments, the Secretary-General and, with respect to States that are members of the European Union, the Commission of the European Communities of the steps it has taken to implement paragraph 2 of this Article.
 
-#### Article 6. Mutual Acceptance of Documents
+##### Article 6. Mutual Acceptance of Documents
 
 1. Each Contracting Government shall provide each ship entitled to fly its flag and to which the present Agreement applies with a document indicating that the ship complies with the specific stability requirements.
 
@@ -72,7 +96,7 @@ A ro-ro passenger ship which is not normally engaged on regular scheduled intern
 
 3. When a State non-party to the present Agreement issues a document indicating that a ship complies with the specific stability requirements such a document will be accepted as **prima facie** evidence that the ship so complies.
 
-#### Article 7. Signature, Ratification, Acceptance, Approval and Accession
+##### Article 7. Signature, Ratification, Acceptance, Approval and Accession
 
 1. The present Agreement shall be open for signature at the Headquarters of the Organization from 1 July until 30 September 1996, and shall thereafter remain open for accession. States may become parties to the present Agreement by:
 
@@ -86,7 +110,7 @@ A ro-ro passenger ship which is not normally engaged on regular scheduled intern
 
 3. The Secretary-General shall inform the Governments of all States which have signed the present Agreement or acceded to it of any signature or of the deposit of any instrument of ratification, acceptance, approval or accession and the date of its deposit. When the conditions for entry into force have been met, the Secretary-General shall inform the Governments of these States of the date of entry into force of the Agreement.
 
-#### Article 8. Notification and Entry into Force
+##### Article 8. Notification and Entry into Force
 
 1. The present Agreement shall be notified by the Government of Sweden to the Secretary-General.
 
@@ -100,13 +124,13 @@ whichever is the later.
 
 2. Any instrument of ratification, acceptance, approval or accession deposited after the date on which the present Agreement enters into force shall take effect thirty days after the date of deposit.
 
-#### Article 9. Denunciation
+##### Article 9. Denunciation
 
 1. Any Contracting Government may, by written notification addressed to the Secretary-General, denounce the present Agreement.
 
 2. A denunciation shall take effect twelve months after its receipt by the Secretary-General.
 
-#### Article 10. Deposit and Registration
+##### Article 10. Deposit and Registration
 
 1. The present Agreement shall be deposited with the Secretary-General.
 
@@ -118,11 +142,11 @@ whichever is the later.
 
 3. As soon as the present Agreement enters into force the Secretary-General shall transmit a copy of the Agreement to the Secretariat of the United Nations for registration and publication in accordance with Article 102 of the Charter of the United Nations.
 
-#### Article 11. Languages
+##### Article 11. Languages
 
 The present Agreement is established in a single copy in the English, French, Spanish and Russian languages, each text being equally authentic.
 
-#### Application
+##### Application
 
 In accordance with this Agreement, passenger ships with ro-ro cargo spaces or special category spaces as defined in regulation II–2/3 of the International Convention for the Safety of Life at Sea, as amended, shall comply with the provisions of this Agreement not later than at the first yearly inspection following the date of compliance prescribed below, according to the value of A/Amax as defined in the annex to the Calculation Procedure to Assess the Survivability Characteristics of Existing Ro-Ro Passenger Ships When Using a Simplified Method Based Upon resolution A.265 (VIII), developed by the Maritime Safety Committee at its fifty-ninth session in June 1991 (MSC/Circ.574):
 
@@ -134,7 +158,7 @@ In accordance with this Agreement, passenger ships with ro-ro cargo spaces or sp
 | Less than 97.5% | 31 December 2000 |
 | 97.5% or higher | 31 December 2001 but in any case not later than 1 October 2002 |
 
-#### Stability Standard
+##### Stability Standard
 
 1. In addition to the requirements of SOLAS regulation II–1/8, ro-ro passenger ships shall comply, subject to the provisions of paragraph 2, if applicable, with the following:
 
@@ -186,11 +210,11 @@ In accordance with this Agreement, passenger ships with ro-ro cargo spaces or sp
 
 - .6. when a bulkhead above the ro-ro deck is assumed damaged, both compartments bordering the bulkhead shall be assumed flooded to the same height of water surface as calculated in paragraphs 1.1 and 1.3 above.
 
-#### 1. Objectives
+##### 1. Objectives
 
 In the tests provided for in paragraph 1.4 of the stability requirements pertaining to the agreement, the ship should prove capability to withstand a seaway defined in paragraph 3 hereunder in the worst damage case scenario.
 
-#### 2. Ship model
+##### 2. Ship model
 
 2.1. The model should copy the actual ship for both outer configuration and internal arrangement – in particular of all damaged spaces, having an effect on the process of flooding and shipping of water. The damage should represent the worst damage case defined for compliance with paragraph 2.3.2 of SOLAS regulation II–1/8 (SOLAS 90). An additional test is required at a level keel midship damage, if the worst damage location according tot SOLAS 90 is outside the range ± 10% Lpp from the midship. This additional test is only required when the ro-ro spaces are assumed to be damaged.
 
@@ -210,7 +234,7 @@ In the tests provided for in paragraph 1.4 of the stability requirements pertain
 
 - .5.2. isosceles triangular profile in the horizontal plane with a height equal to B/5 according to SOLAS regulation II–1/8.4.2.
 
-#### 3. Procedure for experiments
+##### 3. Procedure for experiments
 
 3.1. The model should be subjected to a long-crested irregular seaway defined by the JONSWAP spectrum with a significant wave height Hs, defined in paragraph 1.3 of the stability requirements and having peak enhancement factor γ and peak period Tp as follows:
 
@@ -230,13 +254,13 @@ In the tests provided for in paragraph 1.4 of the stability requirements pertain
 
 - .2. the worst midship damage case with regard to residual freeboard in the midship area if required by 2.1.
 
-#### 4. Survival criteria
+##### 4. Survival criteria
 
 4.1. The ship should be considered as surviving if a stationary state is reached for the successive test runs as required in 3.3 but subject to 4.2.
 
 4.2. Angles of roll of more than 30° against the vertical axis, occurring more frequently than in 20% of the rolling cycles or steady heel greater than 20° should be taken as capsizing events even if a stationary state is reached.
 
-#### 5. Test approval
+##### 5. Test approval
 
 5.1. It is the responsibility of the Administration to approve the model test programme in advance. It should also be borne in mind that lesser damages may provide a worst case scenario.
 

@@ -1,22 +1,47 @@
 ---
 title: "Wet inkomstenbelasting BES"
 identifier: "BWBR0029281"
-categorie: "Belastingrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029281"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029281"
+soort: "wet-BES"
+stam_id: "11169673"
+version_id: "18270512"
+internal_id: "C29532731"
+label_id: "11144954"
+dtd_version: "2.0"
+original_entry_into_force: "2011-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029281/2026-01-01/0"
+intitule_bron: "Stb.2010-851"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-12-21"
+intitule_published: "2010-12-28"
+intitule_in_force: "2010-12-24"
+intitule_status: "goed"
+original_publication: "Stb.2010-851"
+original_signed_date: "2010-12-21"
+original_published_date: "2010-12-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-851"
+entry_into_force_date: "2011-01-01"
+jci_1_3: "jci1.3:c:BWBR0029281&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0029281&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2010-12-21"
+entry_into_force: "2011-01-01"
 ---
-
 # Wet inkomstenbelasting BES
 
-#### Artikel A
+##### Artikel A
 
 De [hoofdstukken I](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=I) en [VIII van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII) zijn van overeenkomstige toepassing op deze wet en de daarop berustende bepalingen.
 
 ### Hoofdstuk I. Belastingplichtigen
 
-#### Artikel 1
+##### Artikel 1
 
 1. Onder de naam van «inkomstenbelasting» wordt een belasting geheven, waaraan onderworpen zijn, zij, die op de BES eilanden wonen (binnenlandse belastingplichtigen).
 
@@ -30,7 +55,7 @@ De [hoofdstukken I](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=I)
 
 3. Aan de inkomstenbelasting zijn mede onderworpen de niet op de BES eilanden wonende personen, die binnenlandse bronnen van inkomen hebben als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=III&artikel=17&z=2026-01-01&g=2026-01-01) (buitenlandse belastingplichtigen).
 
-#### Artikel 2
+##### Artikel 2
 
 De volgende verrichtingen van niet op de BES eilanden wonende personen worden, ook voor zover zij plaatsvinden op de BES eilanden, niet aangemerkt als uitoefening van een bedrijf of beroep op de BES eilanden:
 
@@ -40,7 +65,7 @@ De volgende verrichtingen van niet op de BES eilanden wonende personen worden, o
 
 ### Hoofdstuk II. Op de BES eilanden wonende belastingplichtigen
 
-#### Artikel 3
+##### Artikel 3
 
 1. De op de BES eilanden wonende personen zijn belastingplichtig naar hun belastbaar inkomen.
 
@@ -56,7 +81,7 @@ De volgende verrichtingen van niet op de BES eilanden wonende personen worden, o
 
 - c. rechten op periodieke uitkeringen.
 
-#### Artikel 4
+##### Artikel 4
 
 Voor de toepassing van deze wet wordt onder eigen woning verstaan een woning die de belastingplichtige anders dan tijdelijk als hoofdverblijf ter beschikking staat en:
 
@@ -66,7 +91,7 @@ Voor de toepassing van deze wet wordt onder eigen woning verstaan een woning die
 
 - c. die de belastingplichtige in vruchtgebruik heeft, dat verkregen is krachtens het erfrecht.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Als opbrengst van roerend kapitaal worden beschouwd de vruchten van kapitaal, dat niet in onroerende zaken of de rechten waaraan deze zijn onderworpen of in een eigen bedrijf of beroep is belegd, zoals:
 
@@ -92,7 +117,7 @@ Voor de toepassing van deze wet wordt onder eigen woning verstaan een woning die
 
 [vervallen]
 
-#### Artikel 6
+##### Artikel 6
 
 1. De opbrengst van onderneming en arbeid omvat de niet onder [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=5&z=2026-01-01&g=2026-01-01) vallende voordelen, die als winst, honorarium, traktement, salaris, loon, vrije woning, vrije kost en inwoning, aandeel in winst of overwinst, tantième, gratificatie, vacatie- of presentiegeld of onder welke naam of vorm ook worden verkregen uit bedrijf of beroep (ambt, waardigheid, bediening en bestaande of vroegere dienstbetrekking door belastingplichtige zelf of door een ander vervuld daaronder begrepen) en uit handelingen, werkzaamheden en diensten van elke aard.
 
@@ -128,13 +153,13 @@ Voor de toepassing van deze wet wordt onder eigen woning verstaan een woning die
 
 9. Voor de toepassing van dit artikel wordt met betrekking tot de personenauto, onderscheidenlijk de bestelauto, die voorafgaand aan de inwerkingtreding van deze wet in het kentekenregister is geregistreerd onder algemene bestedingsbelasting mede verstaan: omzetbelasting en invoerheffingen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De opbrengst van rechten op periodieke uitkeringen omvat onderstanden, lijfrenten, alsmede de verschuldigde verstrekkingen van levensonderhoud, huisvesting of andere zaken, in het algemeen, alle verschuldigde uitkeringen en verstrekkingen, niet aan een ambt of dienstbetrekking verbonden, die bij overlijden van de gerechtigde of van een derde eindigen.
 
 2. Periodieke uitkeringen en verstrekkingen die de tegenwaarde van een prestatie vormen, worden slechts belast voor zover zij, tezamen met op grond van het betreffende recht van de verzekeraar reeds ontvangen uitkeringen en verstrekkingen, de waarde van de prestatie te boven gaan. Tot de waarde van de prestatie worden niet gerekend de bedragen welke niet tot het inkomen zijn gerekend dan wel op het inkomen in mindering konden worden gebracht.
 
-#### Artikel 8
+##### Artikel 8
 
 Als inkomen of deel van het inkomen wordt niet beschouwd:
 
@@ -158,7 +183,7 @@ Als inkomen of deel van het inkomen wordt niet beschouwd:
 
 - j. uitkeringen als bedoeld in de [artikelen 7.51 tot en met 7.51f](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.51), [7.51h](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.51h), [7.51j](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.51j) en [7.51k, eerste en tweede lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.51k) en uitkeringen en verstrekkingen als bedoeld in de [artikelen 8.1.6a tot en met 8.1.6d](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=8.1.6a), [8.1.6f](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=8.1.6f) en [8.1.6i, eerste en tweede lid, van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=8.1.6i).
 
-#### Artikel 9
+##### Artikel 9
 
 1. De opbrengst in de vorige artikelen omschreven wordt ter berekening van het zuiver bedrag verminderd met de kosten tot verwerving, inning, en behoud der opbrengst en met de op de opbrengst rustende lasten, zoals:
 
@@ -184,7 +209,7 @@ renten van schulden alsmede kosten van geldlening, kosten vallende op de verzilv
 
 7. Behoudens ten aanzien van de opbrengst van bedrijf of beroep worden de kosten tot verwerving, inning en behoud van de opbrengst in aanmerking genomen tot en voor zover in een jaar tegenover die kosten positieve opbrengsten staan. De kosten tot verwerving, inning en behoud van de opbrengst die op grond van het bepaalde in de vorige volzin buiten aanmerking zijn gebleven, kunnen slechts met de positieve opbrengsten van de vijf volgende kalenderjaren worden verrekend en wel in de volgorde waarin ze zijn ontstaan.
 
-#### Artikel 9a
+##### Artikel 9a
 
 1. In geval in een kalenderjaar een bedrag van meer dan USD 2.794 wordt geïnvesteerd in bedrijfsmiddelen, wordt acht percent van het investeringsbedrag ten laste gebracht zowel van de winst van dat jaar als van de winst van het daaropvolgende jaar. Onder investeren wordt verstaan het aangaan van verplichtingen ter zake van de aanschaffing of de verbetering van de bedrijfsmiddelen, die voor de uitoefening van een onderneming op de BES eilanden worden gebezigd, zomede het maken van voortbrengingskosten daarvoor. Indien niet alle verplichtingen ter zake op de belastingplichtige drukken, wordt slechts het bedrag dat wel op de belastingplichtige drukt in aanmerking genomen.
 
@@ -230,11 +255,11 @@ Bijtelling heeft plaats tot ten hoogste het bedrag waarvoor destijds aftrek is v
 
 - b. de verminderingen in het algemeen of voor bepaalde groepen van bedrijfsmiddelen buiten toepassing stellen.
 
-#### Artikel 9b
+##### Artikel 9b
 
 Het bepaalde in [artikel 9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=9&z=2026-01-01&g=2026-01-01), [artikel 9A, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=9a&z=2026-01-01&g=2026-01-01) en [artikel 10 vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=10&z=2026-01-01&g=2026-01-01) vindt slechts toepassing, indien door de belastingplichtige een regelmatige boekhouding wordt gevoerd, met geregelde jaarlijkse afsluitingen. Houdt de belastingplichtige op aldus boek te houden dan wordt de reserve volgens artikel 10 lid 4 opgenomen in de winst van het laatste kalenderjaar met regelmatige boekhouding.
 
-#### Artikel 9c
+##### Artikel 9c
 
 1. Op de opbrengst uit arbeid, bedrijf en beroep, komen niet in mindering de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=9&z=2026-01-01&g=2026-01-01), bedoelde kosten welke verband houden met de volgende posten:
 
@@ -294,7 +319,7 @@ Het bepaalde in [artikel 9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 7. Voor de toepassing van het eerste lid, onderdelen k en l, wordt met de belastingplichtige gelijk gesteld degene die ten behoeve van de belastingplichtige opdracht heeft gegeven tot het misdrijf dan wel aan het misdrijf feitelijk leiding heeft gegeven.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Uitgaven voor aankoop, stichting, verbetering of verandering van gronden, gebouwen, werktuigen, gereedschappen en andere goederen, die voor de uitoefening van het bedrijf of beroep worden gebruikt, uitgaven voor overneming, uitbreiding, verbetering of verandering van het bedrijf of beroep en andere uitgaven van die aard, worden niet als bedrijfs- of beroepskosten beschouwd.
 
@@ -320,7 +345,7 @@ Het bepaalde in [artikel 9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 7. Bij het staken van een bedrijf of beroep dan wel bij overdracht of liquidatie van het gedeelte waartoe de in het vierde lid bedoelde reserve behoort, wordt deze reserve aangemerkt als een voordeel in de zin van [artikel 6, letter d](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=6&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 11
+##### Artikel 11
 
 1. Tot de bestanddelen van het in het [vierde lid van artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=3&z=2026-01-01&g=2026-01-01) omschreven inkomen behoren mede:
 
@@ -386,7 +411,7 @@ Het bepaalde in [artikel 9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 11. Het tweede lid is voorts niet van toepassing op afkoop van een recht op lijfrente als bedoeld in [artikel 16, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=16&z=2026-01-01&g=2026-01-01), behoudens voor zover het recht wordt omgezet in een ander recht op een soortgelijke lijfrente.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De belasting wordt geheven over de in enig kalenderjaar genoten belastbare som. Heeft de belastingplicht slechts gedurende een gedeelte van het kalenderjaar bestaan, dan treedt dit gedeelte (belastingtijdvak) daarvoor in de plaats. Ter berekening van de dan verschuldigde belasting wordt het in het belastingtijdvak genoten zuiver inkomen, met uitzondering van het inkomen, bedoeld in [artikel 11, tiende en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=11&z=2026-01-01&g=2026-01-01), herleid tot een voljaarsinkomen. Van de hierover volgens [artikel 24A](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=V&artikel=24a&z=2026-01-01&g=2026-01-01) verschuldigde belasting, na vermindering van de in [artikel 24, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=V&artikel=24&z=2026-01-01&g=2026-01-01), bedoelde bedragen, is zoveel driehonderdzestigsten verschuldigd als het aantal dagen bedraagt waarover in het kalenderjaar belastingplicht heeft bestaan.
 
@@ -402,17 +427,17 @@ volgens het tarief als bedoeld in [artikel 24A](https://wetten.overheid.nl/jci1.
 
 3. Bij de toepassing van dit artikel worden de bedragen, genoemd in de [artikelen 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=9&z=2026-01-01&g=2026-01-01), [16, eerste lid, onderdelen c en h, en het vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=16&z=2026-01-01&g=2026-01-01), en [artikel 16A, eerste lid, onderdeel e, tweede lid, onderdeel c, en het vijfde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=16a&z=2026-01-01&g=2026-01-01), evenredig toegepast voor het belastingtijdvak waarover de belastingplicht heeft bestaan.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Aandelen in de opbrengst van een bedrijf of beroep, dat niet door de belastingplichtige zelve wordt uitgeoefend, worden beschouwd als baten van het kalenderjaar waarin hun bedrag wordt vastgesteld.
 
 2. Heeft die vaststelling plaats nadat de belastingplichtige de BES eilanden metterwoon heeft verlaten dan wel na diens overlijden, dan wordt deze geacht plaats te hebben gehad in het jaar waarin de belastingplichtige de BES eilanden verliet dan wel overleed, doch in ieder geval vóór dit vertrek of overlijden.
 
-#### Artikel 14
+##### Artikel 14
 
 [vervallen]
 
-#### Artikel 15
+##### Artikel 15
 
 1. Indien de berekening van het zuiver inkomen leidt tot een negatief bedrag wordt dit aangemerkt als een verlies. Een verlies wordt verrekend met de zuivere inkomens van de volgende vijf belastingjaren, te beginnen bij het eerste van die jaren.
 
@@ -420,7 +445,7 @@ volgens het tarief als bedoeld in [artikel 24A](https://wetten.overheid.nl/jci1.
 
 3. Ingeval het huwelijk wordt ontbonden anders dan door overlijden wordt het verlies van een belastingplichtige voor zover dit is voortgevloeid uit bestanddelen van zijn zuiver inkomen welke van de zijde van zijn echtgenoot zijn opgekomen en niet kan worden verrekend met zuiver inkomen van de jaren waarin het huwelijk heeft bestaan, uitsluitend verrekend met zuivere inkomens van de gewezen echtgenoot. Met ontbinding van een huwelijk wordt gelijkgesteld het duurzaam gescheiden gaan leven.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Persoonlijke lasten zijn:
 
@@ -464,7 +489,7 @@ volgens het tarief als bedoeld in [artikel 24A](https://wetten.overheid.nl/jci1.
 
 - 2°. geldt voor de toepassing van het eerste lid, onderdeel f, en het tweede lid, in plaats van het inkomen van de belastingplichtige het gezamenlijke bedrag van het inkomen van de belastingplichtige en dat van zijn echtgenoot.
 
-#### Artikel 16a
+##### Artikel 16a
 
 1. Buitengewone lasten zijn de op de belastingplichtige drukkende uitgaven:
 
@@ -502,7 +527,7 @@ volgens het tarief als bedoeld in [artikel 24A](https://wetten.overheid.nl/jci1.
 
 6. Onze Minister kan nadere regels stellen op grond waarvan ingeval van twee ongehuwde ouders het recht op aftrek, bedoeld in het derde lid, kan worden overgeheveld naar de andere ouder dan wel in geval van één-ouderschap de aftrek kan worden verdubbeld.
 
-#### Artikel 16b
+##### Artikel 16b
 
 1. Opbrengsten, andere dan winst uit bedrijf of beroep, worden beschouwd te zijn genoten op het tijdstip waarop zij:
 
@@ -514,7 +539,7 @@ volgens het tarief als bedoeld in [artikel 24A](https://wetten.overheid.nl/jci1.
 
 ### Hoofdstuk III. Niet op de BES eilanden wonende belastingplichtigen
 
-#### Artikel 17
+##### Artikel 17
 
 1. De niet op de BES eilanden wonende personen bedoeld in [artikel 1, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=I&artikel=1&z=2026-01-01&g=2026-01-01), zijn belastingplichtig naar hun gehele belastbaar inkomen genoten in het kalenderjaar of belastingtijdvak, voor zover dit werd verkregen uit de opbrengst van:
 
@@ -540,7 +565,7 @@ volgens het tarief als bedoeld in [artikel 24A](https://wetten.overheid.nl/jci1.
 
 4. Voor de toepassing van dit artikel wordt een lichaam waarvan de oprichting heeft plaatsgevonden naar het op de BES eilanden geldende recht steeds geacht op de BES eilanden te zijn gevestigd.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De zuivere opbrengst van de in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=III&artikel=17&z=2026-01-01&g=2026-01-01) genoemde bronnen van inkomen wordt bepaald met inachtneming van de beginselen van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=4&z=2026-01-01&g=2026-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=5&z=2026-01-01&g=2026-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=6&z=2026-01-01&g=2026-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=7&z=2026-01-01&g=2026-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=9&z=2026-01-01&g=2026-01-01), [9B](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=9b&z=2026-01-01&g=2026-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=10&z=2026-01-01&g=2026-01-01).
 
@@ -550,7 +575,7 @@ volgens het tarief als bedoeld in [artikel 24A](https://wetten.overheid.nl/jci1.
 
 4. [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=16&z=2026-01-01&g=2026-01-01) is zijn niet op de in dit hoofdstuk bedoelde belastingplichtigen van toepassing.
 
-#### Artikel 19
+##### Artikel 19
 
 [vervallen]
 
@@ -558,7 +583,7 @@ volgens het tarief als bedoeld in [artikel 24A](https://wetten.overheid.nl/jci1.
 
 #### Vrijstellingen
 
-#### Artikel 20
+##### Artikel 20
 
 1. Dit artikel is van toepassing op een belastingplichtige die het gehele kalenderjaar gehuwd is geweest zonder duurzaam gescheiden te hebben geleefd, mits zowel de belastingplichtige als zijn echtgenoot op de BES eilanden woonde. Indien de belastingplichtige en zijn echtgenoot duurzaam gescheiden gaan leven en binnen zes maanden nadien de samenleving hervatten, worden zij voor de toepassing van dit artikel geacht niet duurzaam gescheiden te hebben geleefd.
 
@@ -592,47 +617,47 @@ volgens het tarief als bedoeld in [artikel 24A](https://wetten.overheid.nl/jci1.
 
 5. Bij de scheiding van goederen blijft op verzoek van een dan wel van beide echtgenoten het tweede lid buiten toepassing. In dat geval wordt de belasting berekend als ware het tweede lid wel van toepassing. Vervolgens wordt de door beide echtgenoten tezamen verschuldigde belasting omgeslagen in verhouding van ieders zuiver inkomen.
 
-#### Artikel 20a
+##### Artikel 20a
 
 1. Het persoonlijk inkomen van een minderjarig kind, alsmede de persoonlijke verminderingen van zijn inkomen, wordt aangemerkt als inkomen van dat kind.
 
 2. Het zuiver inkomen van een minderjarig kind, anders dan dat bedoeld in het eerste lid, wordt, onverminderd het bepaalde in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=IV&artikel=20&z=2026-01-01&g=2026-01-01), aangemerkt als zuiver inkomen van de belastingplichtige die het gezag over dat kind uitoefent.
 
-#### Artikel 21
+##### Artikel 21
 
 Indien ingevolge de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=IV&artikel=20&z=2026-01-01&g=2026-01-01) en [20A](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=IV&artikel=20a&z=2026-01-01&g=2026-01-01) inkomensbestanddelen van een derde zijn toegerekend aan de belastingplichtige is die derde, onverminderd zijn aansprakelijkheid uit andere hoofde, aansprakelijk voor een evenredig deel van de verschuldigde belasting, bepaald naar verhouding van de zonder toepassing van dat artikel berekende belastbare inkomens.
 
-#### Artikel 22
+##### Artikel 22
 
 [vervallen]
 
-#### Artikel 23
+##### Artikel 23
 
 [vervallen]
 
-#### Artikel 23a
+##### Artikel 23a
 
 [vervallen]
 
-#### Artikel 23b
+##### Artikel 23b
 
 [vervallen]
 
-#### Artikel 23c
+##### Artikel 23c
 
 [vervallen]
 
-#### Artikel 23d
+##### Artikel 23d
 
 [vervallen]
 
-#### Artikel 23e
+##### Artikel 23e
 
 [vervallen]
 
 ### Hoofdstuk V. Bedrag der belasting
 
-#### Artikel 24
+##### Artikel 24
 
 1. Belastbare som is:
 
@@ -654,7 +679,7 @@ Indien ingevolge de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR00292
 
 5. In afwijking van het eerste lid, onderdeel b, komt een niet op de BES eilanden woonachtige belastingplichtige die een uit de BES eilanden afkomstige pensioenuitkering geniet die op grond van de voor de BES eilanden geldende fiscale regels wordt belast, in aanmerking voor de in het eerste lid, onderdeel a, onder 2°, genoemde belastingvrije som, met dien verstande dat de belastingvrije som die deze belastingplichtige in aanmerking mag nemen maximaal wordt gesteld op het bedrag van de pensioenuitkering dat volgens de fiscale regels van de BES eilanden mag worden belast.
 
-#### Artikel 24a
+##### Artikel 24a
 
 1. Het bedrag van de over de belastbare som, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=V&artikel=24&z=2026-01-01&g=2026-01-01), verschuldigde belasting wordt bepaald aan de hand van de navolgende tabel (tarieftabel):
 
@@ -688,93 +713,93 @@ wordt in afwijking van het eerste lid de belasting op het belastbare inkomen bep
 
 10. In gevallen als bedoeld in het achtste lid, onderdeel b, bedraagt de belasting op het belastbare inkomen het met toepassing van het eerste lid bepaalde bedrag vermeerderd met 5% van het bedrag waarmee de belastbare som het in de eerste kolom van de tabel in het eerste lid vermelde bedrag te boven zou gaan indien daarin de persoonlijke lasten met betrekking tot een eigen woning, bedoeld in [artikel 16, eerste lid, onderdeel h, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=16&z=2026-01-01&g=2026-01-01), niet zouden zijn begrepen.
 
-#### Artikel 24b
+##### Artikel 24b
 
 Het zuivere bedrag van de voordelen, bedoeld in [artikel 11, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=11&z=2026-01-01&g=2026-01-01), alsmede de opbrengst, bedoeld in [artikel 17, eerste lid, onderdelen e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=III&artikel=17&z=2026-01-01&g=2026-01-01), wordt belast naar een tarief van 7,5%.
 
-#### Artikel 24c
+##### Artikel 24c
 
 Indien de belastingplichtige ook premieplichtig is voor de algemene ouderdomsverzekering BES of de algemene weduwen- en wezenverzekering BES of inkomensafhankelijke premie verschuldigd is ingevolge [artikel 11 van het Besluit zorgverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&artikel=11), geschiedt de heffing van de belasting en premie door middel van één belastingaanslag en voor zover de heffing plaatsvindt bij wege van conserverende aanslag, door middel van één conserverende belastingaanslag. Hierbij zijn de regels die gelden voor de heffing en de invordering van de inkomstenbelasting van overeenkomstige toepassing. In dat geval wordt, indien [artikel 8.22 van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.22) toepassing vindt, die bepaling eenmaal toegepast.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Bij het begin van het kalenderjaar vervangt Onze Minister de in de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=V&artikel=24&z=2026-01-01&g=2026-01-01) en [24A](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=V&artikel=24a&z=2026-01-01&g=2026-01-01) vermelde bedragen door andere. Het in artikel 24, tweede lid, vermelde bedrag wordt gesteld op het bedrag, genoemd in [artikel 9, eerste lid, van de Wet minimumlonen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028170&artikel=9), op 1 januari van het kalenderjaar, vermenigvuldigd met 2.080 en verminderd met USD 280. Het in artikel 24, derde lid, vermelde bedrag en de in [artikel 24A](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=V&artikel=24a&z=2026-01-01&g=2026-01-01) vermelde bedragen worden berekend door de te vervangen bedragen te vermenigvuldigen met de tabelcorrectiefactor en vervolgens de nodige geachte afrondingen aan te brengen.
 
 2. De tabelcorrectiefactor is één gedeeld door prijsindexverhouding. De prijsindexverhouding is de verhouding van het gemiddelde van de prijsindexcijfers van de gezinsconsumptie, zoals berekend door het Centraal Bureau voor de Statistiek, betrekking hebbende op de achttiende tot en met de zevende aan het kalenderjaar voorafgaande maand en het gemiddelde van die prijsindexcijfers, betrekking hebbende op de dertigste tot en met de negentiende aan het kalenderjaar voorafgaande maand. Voor de toepassing van de tweede volzin wordt onder prijsindexcijfers verstaan het aan de hand van het aantal inwoners gewogen gemiddelde van de prijsindexcijfers voor Bonaire, Sint Eustatius en Saba. Voor de toepassing van de derde volzin wordt het aantal inwoners van Bonaire gesteld op 26.552, het aantal inwoners van Sint Eustatius op 3.270 en het aantal inwoners van Saba op 2.158.
 
-#### Artikel 26
+##### Artikel 26
 
 [vervallen]
 
 ### Hoofdstuk VI. Belastingjaar
 
-#### Artikel 27
+##### Artikel 27
 
 Het belastingjaar is het kalenderjaar.
 
 ### Hoofdstuk VII. Aangifte
 
-#### Artikel 28
+##### Artikel 28
 
 De belasting wordt geheven bij wege van aanslag.
 
-#### Artikel 29
+##### Artikel 29
 
 [vervallen]
 
-#### Artikel 30
+##### Artikel 30
 
 [vervallen]
 
-#### Artikel 31
+##### Artikel 31
 
 [vervallen]
 
-#### Artikel 32
+##### Artikel 32
 
 [vervallen]
 
-#### Artikel 33
+##### Artikel 33
 
 [vervallen]
 
-#### Artikel 34
+##### Artikel 34
 
 [vervallen]
 
-#### Artikel 35
+##### Artikel 35
 
 [vervallen]
 
 ### Hoofdstuk VIII. Aanslagregeling
 
-#### Artikel 36
+##### Artikel 36
 
 [vervallen]
 
-#### Artikel 37
+##### Artikel 37
 
 [vervallen]
 
-#### Artikel 38
+##### Artikel 38
 
 [vervallen]
 
-#### Artikel 39
+##### Artikel 39
 
 [vervallen]
 
 ### Hoofdstuk IX. Aanslagen
 
-#### Artikel 40
+##### Artikel 40
 
 [vervallen]
 
-#### Artikel 41
+##### Artikel 41
 
 [vervallen]
 
-#### Artikel 41a
+##### Artikel 41a
 
 Als voorheffing op de inkomstenbelasting wordt aangemerkt de geheven belasting, daaronder niet begrepen de bij naheffing toegepaste verhoging, ingevolge de:
 
@@ -782,7 +807,7 @@ Als voorheffing op de inkomstenbelasting wordt aangemerkt de geheven belasting, 
 
 - b. Opbrengstbelasting als bedoeld in de [Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244), met uitzondering van de opbrengstbelasting geheven op basis van [artikel 5.8 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=5.8).
 
-#### Artikel 41b
+##### Artikel 41b
 
 1. Een aanslag wordt niet vastgesteld en verrekening van voorheffingen blijft achterwege tenzij:
 
@@ -792,7 +817,7 @@ Als voorheffing op de inkomstenbelasting wordt aangemerkt de geheven belasting, 
 
 2. In het geval, bedoeld in het eerste lid, onderdeel b, wordt de aanslag vastgesteld op nihil en blijft verrekening van voorheffingen achterwege indien het totaal van die voorheffingen de verschuldigde belasting niet of met niet meer dan USD 84 te boven gaat.
 
-#### Artikel 42
+##### Artikel 42
 
 [vervallen]
 
@@ -804,49 +829,49 @@ Als voorheffing op de inkomstenbelasting wordt aangemerkt de geheven belasting, 
 
 ### Hoofdstuk XIII
 
-#### Artikel 53
+##### Artikel 53
 
 [vervallen]
 
 ### Hoofdstuk XIV. Bijzondere bepalingen
 
-#### Artikel 54
+##### Artikel 54
 
 [vervallen]
 
-#### Artikel 55
+##### Artikel 55
 
 [vervallen]
 
-#### Artikel 56
+##### Artikel 56
 
 [vervallen]
 
-#### Artikel 57
+##### Artikel 57
 
 [vervallen]
 
-#### Artikel 58
+##### Artikel 58
 
 Bij ministeriële regeling kunnen nadere regels ter uitvoering van deze wet worden vastgesteld.
 
-#### Artikel 59
+##### Artikel 59
 
 [vervallen]
 
-#### Artikel 60
+##### Artikel 60
 
 [vervallen]
 
-#### Artikel 61
+##### Artikel 61
 
 [vervallen]
 
-#### Artikel 62
+##### Artikel 62
 
 [vervallen]
 
-#### Artikel 63
+##### Artikel 63
 
 [vervallen]
 
@@ -856,48 +881,48 @@ Bij ministeriële regeling kunnen nadere regels ter uitvoering van deze wet word
 
 #### Slotbepalingen
 
-#### Artikel 73
+##### Artikel 73
 
 Met betrekking tot op 31 december 2024 bestaande aanspraken op periodieke uitkeringen ter vervanging van gederfd of te derven loon als bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=11&z=2026-01-01&g=2026-01-01), zoals dat op 31 december 2024 luidde, blijft artikel 11, tweede lid, zoals dat op 31 december 2024 luidde, alsmede de daarop gebaseerde bepalingen, van toepassing.
 
-#### Artikel 74
+##### Artikel 74
 
 [vervallen]
 
-#### Artikel 74a
+##### Artikel 74a
 
 [vervallen]
 
-#### Artikel 75
+##### Artikel 75
 
 Deze wet wordt aangehaald als: Wet inkomstenbelasting BES.
 
-#### Artikel 76
+##### Artikel 76
 
 [vervallen]
 
 #### Overgangsbepalingen
 
-#### Artikel 77
+##### Artikel 77
 
 [vervallen]
 
-#### Artikel 78
+##### Artikel 78
 
 [vervallen]
 
-#### Artikel 79
+##### Artikel 79
 
 [vervallen]
 
-#### Artikel 80
+##### Artikel 80
 
 [vervallen]
 
-#### Artikel 81
+##### Artikel 81
 
 [vervallen]
 
-#### Artikel 82
+##### Artikel 82
 
 [vervallen]

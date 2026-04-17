@@ -1,14 +1,41 @@
 ---
-title: "Wet organisatie en bestuur gerechten"
+title: "Wet van 6 december 2001 tot wijziging van de Wet op de rechterlijke organisatie, de Wet rechtspositie rechterlijke ambtenaren en enkele andere wetten in verband met de modernisering van de organisatie en de instelling van een bestuur bij de gerechten (Wet organisatie en bestuur gerechten)"
 identifier: "BWBR0013099"
-categorie: "Bestuursrecht"
-publicatiedatum: 2011-07-01
-laatste_update: 2011-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013099"
+country: "nl"
+rank: "wet"
+publication_date: "2011-07-01"
+last_updated: "2011-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013099"
+soort: "wet"
+stam_id: "1643013"
+version_id: "2423512"
+internal_id: "C21697101"
+label_id: "1596484"
+dtd_version: "2.0"
+original_entry_into_force: "2002-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013099/2011-07-01/0"
+intitule_bron: "Stb.2001-582"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-12-06"
+intitule_published: "2001-12-18"
+intitule_in_force: "2001-12-20"
+intitule_status: "goed"
+original_publication: "Stb.2001-582"
+original_signed_date: "2001-12-06"
+original_published_date: "2001-12-18"
+original_effect: "nieuwe-regeling"
+original_dossier: "27181"
+original_url_id: "stb-2001-582"
+entry_into_force_date: "2002-01-01"
+jci_1_3: "jci1.3:c:BWBR0013099&z=2011-07-01&g=2011-07-01"
+jci_1_0: "1.0:c:BWBR0013099&g=2011-07-01"
+citeertitel_status: "officieel"
+short_title: "Wet organisatie en bestuur gerechten"
+signed_date: "2001-12-06"
+entry_into_force: "2002-01-01"
 ---
-
-# Wet organisatie en bestuur gerechten
+# Wet van 6 december 2001 tot wijziging van de Wet op de rechterlijke organisatie, de Wet rechtspositie rechterlijke ambtenaren en enkele andere wetten in verband met de modernisering van de organisatie en de instelling van een bestuur bij de gerechten (Wet organisatie en bestuur gerechten)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,39 +43,39 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is de [Wet op de rechte
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet op de rechterlijke organisatie.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Wet rechtspositie rechterlijke ambtenaren.
 
-#### Artikel III
+##### Artikel III
 
 De Wet op de samenstelling van de burgerlijke gerechten wordt ingetrokken.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Wet op de rechterlijke indeling.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Beroepswet.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Wet bestuursrechtspraak bedrijfsorganisatie.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Algemene wet bestuursrecht.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Wet op de ondernemingsraden.
 
-#### Artikel IX
+##### Artikel IX
 
 1. De benoemingen van degenen, die op de dag voorafgaand aan de inwerkingtreding van deze wet als kantonrechter zijn benoemd, worden van rechtswege gewijzigd in een benoeming tot vice-president van de rechtbank tot het rechtsgebied waarvan het kantongerecht behoort. Zij worden als zodanig niet beëdigd en geïnstalleerd. In afwijking van [artikel 15 van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=15) worden zij in salariscategorie 8 ingepast op het bedrag dat zij voorafgaand aan hun benoeming tot vice-president genoten. Zij worden belast met het behandelen en beslissen van kantonzaken. De kantonrechters die de werkzaamheden van kantonrechter in een nabijgelegen kanton op zich hebben genomen en in verband hiermee op basis van [artikel 11 van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=11) een salarisvermeerdering genieten, blijven in het genot hiervan voor zolang zij deze werkzaamheden na inwerkingtreding van deze wet blijven verrichten.
 
@@ -60,7 +87,7 @@ Wijzigt de Wet op de ondernemingsraden.
 
 5. De benoemingen van degenen, die op de dag voorafgaand aan de inwerkingtreding van deze wet zijn benoemd als lid onderscheidenlijk plaatsvervangend lid van de pachtkamer van een kantongerecht, worden van rechtswege gewijzigd in een benoeming tot deskundig lid onderscheidenlijk plaatsvervangend deskundig lid van een pachtkamer binnen de sector kanton van de rechtbank tot het rechtsgebied waarvan het kantongerecht behoort.
 
-#### Artikel X
+##### Artikel X
 
 1. De benoemingen van degenen, die op de dag voorafgaand aan de inwerkingtreding van deze wet als president van een gerechtshof zijn benoemd, worden van rechtswege gewijzigd in een benoeming tot coördinerend vice-president senior van hetzelfde gerechtshof. Zij worden als zodanig niet beëdigd en geïnstalleerd.
 
@@ -72,7 +99,7 @@ Wijzigt de Wet op de ondernemingsraden.
 
 5. Voor de toepasselijkheid van het bij of krachtens de [Beroepswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002170) onderscheidenlijk de [Wet bestuursrechtspraak bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002144) bepaalde wordt degene die als coördinerend vice-president senior van de Centrale Raad van Beroep onderscheidenlijk het College van Beroep voor het bedrijfsleven is benoemd, aangemerkt als lid met rechtspraak belast, bedoeld in [artikel 2, tweede lid, van de Beroepswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002170&artikel=2) onderscheidenlijk [artikel 3, tweede lid, van de Wet bestuursrechtspraak bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002144&artikel=3). Wat hun bezoldiging en onkostenvergoeding betreft worden de coördinerend vice-presidenten senior van de Centrale Raad van Beroep en het College van Beroep voor het bedrijfsleven gelijkgesteld met datzelfde ambt bij een gerechtshof.
 
-#### Artikel XI
+##### Artikel XI
 
 1. Degene die op de dag voorafgaand aan de inwerkingtreding van deze wet de president van een gerechtshof, een arrondissementsrechtbank, de Centrale Raad van Beroep onderscheidenlijk het College van Beroep voor het bedrijfsleven is, wordt van rechtswege benoemd als voorzitter van het bestuur, bedoeld in [artikel 15, eerste lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=15), van hetzelfde gerechtshof, dezelfde rechtbank, de Centrale Raad van Beroep onderscheidenlijk het College van Beroep voor het bedrijfsleven.
 
@@ -96,7 +123,7 @@ Wijzigt de Wet op de ondernemingsraden.
 
 11. Het eerste tot en met tiende lid zijn niet van toepassing ten aanzien van de presidenten, directeuren beheer, coördinerend kantonrechters, sectorvoorzitters en van een dagelijks bestuur deel uitmakende leden met rechtspraak belast, die op de dag voorafgaand aan de inwerkingtreding van deze wet tevens een functie vervullen die in [artikel 15 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=15) wordt aangemerkt als onverenigbaar met het zijn van lid van het bestuur van een gerecht dan wel op de dag voorafgaand aan de inwerkingtreding van deze wet tevens zijn aangewezen als kwartiermaker voor de Raad voor de rechtspraak.
 
-#### Artikel XII
+##### Artikel XII
 
 1. Aan de rechterlijk ambtenaar, die krachtens deze wet wordt of is benoemd in een ambt met een andere taakinhoud dan wel wordt of is benoemd in een ambt met een zelfde taakinhoud bij een ander gerecht of een zelfde gerecht met een andere standplaats, kan op zijn verzoek ontslag worden verleend bij koninklijk besluit op voordracht van Onze Minister van Justitie, indien hij ten tijde van die benoeming de leeftijd van 55 jaar heeft bereikt en ten minste tien aaneengesloten jaren bij een gerecht een rechtsprekend ambt dan wel het ambt van gerechtsauditeur of griffier heeft vervuld en het belang van de dienst zich naar het oordeel van Onze Minister van Justitie, gehoord de functionele autoriteit, niet tegen ontslag verzet. De rechterlijk ambtenaar doet zijn verzoek uiterlijk een jaar nadat hij is benoemd.
 
@@ -116,11 +143,11 @@ Wijzigt de Wet op de ondernemingsraden.
 
 6. Het eerste tot en met vijfde lid zijn niet van toepassing op de plaatsvervangers, bedoeld in [artikel 9 van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=9).
 
-#### Artikel XIII
+##### Artikel XIII
 
 Vervallen
 
-#### Artikel XIV
+##### Artikel XIV
 
 1. Wijzigt de Wet rechtspositie rechterlijke ambtenaren.
 
@@ -130,43 +157,43 @@ Vervallen
 
 - b. zijn benoemd in een rechtsprekend ambt bij een gerecht, mits zij met ingang van het tijdstip van die benoeming bij dat gerecht ook zijn benoemd als lid van het bestuur en de benoeming aansluit op een benoeming in een rechtsprekend ambt bij een ander gerecht waarvan zij met ingang van het tijdstip van die benoeming ook lid van het bestuur zijn geweest.
 
-#### Artikel XV
+##### Artikel XV
 
 De tewerkstellingen van degenen, die op de dag voorafgaand aan de inwerkingtreding van deze wet bij een kantongerecht in een functie, anders dan die van kantonrechter of kantonrechter-plaatsvervanger, op basis van een aanstelling werkzaam zijn, worden van rechtswege gewijzigd in een tewerkstelling in een gelijke functie bij de rechtbank tot het rechtsgebied waarvan het kantongerecht behoort.
 
-#### Artikel XVI
+##### Artikel XVI
 
 1. De benoemingen van degenen, die op de dag voorafgaand aan de inwerkingtreding van deze wet zijn benoemd als waarnemend griffier bij een kantongerecht, een arrondissementsrechtbank onderscheidenlijk een gerechtshof, worden van rechtswege gewijzigd in een benoeming als buitengriffier bij de rechtbank tot het rechtsgebied waarvan het kantongerecht behoort, bij dezelfde rechtbank onderscheidenlijk bij hetzelfde gerechtshof, tenzij zij op dezelfde dag bij een van deze gerechten tevens op basis van een aanstelling werkzaam zijn, als rechterlijk ambtenaar in opleiding de opleiding doorbrengen of als rechterlijk ambtenaar zijn benoemd. Zij worden als zodanig niet beëdigd.
 
 2. De benoemingen van degenen, die op de dag voorafgaand aan de inwerkingtreding van deze wet zijn benoemd als plaatsvervangend griffier bij de Centrale Raad van Beroep, worden van rechtswege gewijzigd in een benoeming als buitengriffier bij de Centrale Raad van Beroep, tenzij zij op dezelfde dag bij dat college tevens op basis van een aanstelling werkzaam zijn, als rechterlijk ambtenaar in opleiding de opleiding doorbrengen of als rechterlijk ambtenaar zijn benoemd. Zij worden als zodanig niet beëdigd.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Het archief van een kantongerecht wordt van rechtswege overgedragen aan de rechtbank tot het rechtsgebied waarvan dat kantongerecht behoort.
 
-#### Artikel XVIIA
+##### Artikel XVIIA
 
 1. Bij het voor de eerste maal vaststellen van de algemene maatregelen van bestuur, bedoeld in [artikel 41, tweede lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=41) blijft [artikel 41, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=41), buiten toepassing.
 
 2. Bij het voor de eerste maal vaststellen van de algemene maatregelen van bestuur, bedoeld in [artikel 59, tweede lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=59) blijft [artikel 59, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=59), buiten toepassing.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Wijzigt de Wet op de rechterlijke organisatie.
 
-#### Artikel XIX
+##### Artikel XIX
 
 Onze Minister van Justitie zendt binnen vijf jaren na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-#### Artikel XX
+##### Artikel XX
 
 Voor de plaatsing van deze wet in het Staatsblad stelt Onze Minister van Justitie de nummering van de artikelen, paragrafen, afdelingen en hoofdstukken van de [Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830) opnieuw vast, en brengt hij de in deze wet voorkomende aanhalingen van de artikelen,paragrafen, afdelingen en hoofdstukken van de [Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830) met de nieuwe nummering van die wet in overeenstemming.
 
-#### Artikel XXI
+##### Artikel XXI
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel XXII
+##### Artikel XXII
 
 Deze wet wordt aangehaald als: Wet organisatie en bestuur gerechten.
 

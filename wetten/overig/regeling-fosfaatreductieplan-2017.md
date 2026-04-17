@@ -1,20 +1,46 @@
 ---
-title: "Regeling fosfaatreductieplan 2017"
+title: "Regeling van de Staatssecretaris van Economische Zaken van 16 februari 2017, nr. WJZ/17023701, houdende invoering van de verplichting tot betaling van een geldsom (Regeling fosfaatreductieplan 2017)"
 identifier: "BWBR0039205"
-categorie: "Overig"
-publicatiedatum: 2020-01-01
-laatste_update: 2020-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039205"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-01-01"
+last_updated: "2020-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039205"
+soort: "ministeriele-regeling"
+stam_id: "13911853"
+version_id: "24075812"
+internal_id: "C34598441"
+label_id: "13876044"
+dtd_version: "2.0"
+original_entry_into_force: "2017-04-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039205/2020-01-01/0"
+intitule_bron: "Stcrt.2017-9915"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-02-16"
+intitule_published: "2017-02-17"
+intitule_in_force: "2017-02-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-25117"
+original_signed_date: "2017-04-26"
+original_published_date: "2017-04-28"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2017-25117"
+entry_into_force_date: "2017-04-26"
+jci_1_3: "jci1.3:c:BWBR0039205&z=2020-01-01&g=2020-01-01"
+jci_1_0: "1.0:c:BWBR0039205&g=2020-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling fosfaatreductieplan 2017"
+signed_date: "2017-04-26"
+entry_into_force: "2017-04-26"
 ---
-
 # Regeling van de Staatssecretaris van Economische Zaken van 16 februari 2017, nr. WJZ/17023701, houdende invoering van de verplichting tot betaling van een geldsom (Regeling fosfaatreductieplan 2017)
 
 Gelet op [artikel 13, eerste lid, van de Landbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&artikel=13) en [artikel 2 van de Kaderwet EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=2);
 
 Besluit:
 
-#### Artikel 1. (begripsbepalingen)
+##### Artikel 1. (begripsbepalingen)
 
 1. In deze regeling wordt verstaan onder:
 
@@ -48,7 +74,7 @@ Besluit:
 
 2. Voor de toepassing van deze regeling worden maart en april 2017 aangeduid als periode 1, mei en juni 2017 aangeduid als periode 2, juli en augustus 2017 aangeduid als periode 3, september en oktober 2017 aangeduid als periode 4 en november en december 2017 aangeduid als periode 5.
 
-#### Artikel 2. (omrekeningsfactor GVE)
+##### Artikel 2. (omrekeningsfactor GVE)
 
 Onder rund als bedoeld in [artikel 1, eerste lid, onderdelen d, e en l](https://wetten.overheid.nl/jci1.3:c:BWBR0039205&artikel=1&z=2020-01-01&g=2020-01-01), de [artikelen 4, derde tot en met negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039205&artikel=4&z=2020-01-01&g=2020-01-01), [6, tweede tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039205&artikel=6&z=2020-01-01&g=2020-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0039205&artikel=7&z=2020-01-01&g=2020-01-01), [9, eerste, tweede, vijfde, zesde en achtste tot en met tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039205&artikel=9&z=2020-01-01&g=2020-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0039205&artikel=11&z=2020-01-01&g=2020-01-01), [12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039205&artikel=12&z=2020-01-01&g=2020-01-01), en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0039205&artikel=13&z=2020-01-01&g=2020-01-01), wordt verstaan GVE overeenkomstig de volgende omrekeningsfactoren:
 
@@ -58,7 +84,7 @@ Onder rund als bedoeld in [artikel 1, eerste lid, onderdelen d, e en l](https://
 
 - c. 1 GVE voor een rund dan ten minste eenmaal heeft gekalfd.
 
-#### Artikel 3. (verminderingspercentage)
+##### Artikel 3. (verminderingspercentage)
 
 1. Het verminderingspercentage, bedoeld in [artikel 1, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0039205&artikel=1&z=2020-01-01&g=2020-01-01), bedraagt:
 
@@ -72,7 +98,7 @@ Onder rund als bedoeld in [artikel 1, eerste lid, onderdelen d, e en l](https://
 
 2. De verminderingspercentages voor de perioden 4 en 5 worden telkens uiterlijk op de laatste dag van de voorafgaande periode door de minister vastgesteld en bekendgemaakt in de Staatscourant en bedragen niet minder dan het verminderingspercentage van de voorafgaande periode.
 
-#### Artikel 4. (geldsom)
+##### Artikel 4. (geldsom)
 
 1. De minister legt de houder de verplichting op tot betaling van een geldsom in euro’s.
 
@@ -112,11 +138,11 @@ een en ander mits, in het geval van afvoer op of na 1 juni in periode 2 of in de
 
 9. Zodra na toepassing van het vijfde lid in een periode runderen ouder dan 35 dagen die niet hebben gekalfd worden afgevoerd anders dan voor slacht, export of in verband met sterfte, is dat lid, alsmede het achtste lid, op de houder voor de toepassing van dit artikel niet van toepassing voor die periode en de eventuele daarna nog volgende periode of perioden.
 
-#### Artikel 5. (geldsom houders runderen overig)
+##### Artikel 5. (geldsom houders runderen overig)
 
 Vervallen
 
-#### Artikel 6. (solidariteits-geldsom)
+##### Artikel 6. (solidariteits-geldsom)
 
 1. De minister legt de houder over elk van de perioden 1, 2, 3, 4 en 5 de verplichting tot betaling van een solidariteits-geldsom in euro’s op.
 
@@ -152,15 +178,15 @@ Vervallen
 
 8. Zodra na toepassing van het vierde lid in een periode runderen ouder dan 35 dagen die niet hebben gekalfd worden afgevoerd anders dan voor slacht, export of in verband met sterfte, is dat lid, alsmede het zevende lid, op de houder voor de toepassing van dit artikel niet van toepassing voor die periode en de eventuele daarna nog volgende periode of perioden.
 
-#### Artikel 7. (referentieaantal grondgebonden bedrijf)
+##### Artikel 7. (referentieaantal grondgebonden bedrijf)
 
 Indien houder runderen hield op 2 juli 2015 op een grondgebonden bedrijf, is het referentieaantal voor de toepassing van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039205&artikel=4&z=2020-01-01&g=2020-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0039205&artikel=6&z=2020-01-01&g=2020-01-01) niet verminderd met 4%.
 
-#### Artikel 8. (inwinning)
+##### Artikel 8. (inwinning)
 
 De geldsommen, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039205&artikel=4&z=2020-01-01&g=2020-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0039205&artikel=6&z=2020-01-01&g=2020-01-01), worden door de minister uiterlijk ingewonnen in de tweede maand die volgt op de maand waarover de geldsom is verschuldigd.
 
-#### Artikel 9. (bonus-geldsom)
+##### Artikel 9. (bonus-geldsom)
 
 1. De minister kent de houder van runderen uit de opbrengsten van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039205&artikel=4&z=2020-01-01&g=2020-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0039205&artikel=6&z=2020-01-01&g=2020-01-01) over juni van periode 2, augustus van periode 3, oktober van periode 4, onderscheidenlijk december van periode 5, een bonus-geldsom toe indien het gemiddeld aantal runderen in de desbetreffende maand lager is dan het referentieaantal, waarbij de hoogte van de geldsom een bedrag in euro’s bedraagt dat overeenkomt met de laagste uitkomst van de volgende vermenigvuldigingen:
 
@@ -188,11 +214,11 @@ De geldsommen, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:B
 
 9. Zodra na toepassing van het achtste lid in een periode runderen ouder dan 35 dagen die niet hebben gekalfd worden afgevoerd anders dan voor slacht, export of in verband met sterfte, is dat lid op de houder voor de toepassing van dit artikel niet van toepassing voor die periode en de eventuele daarna volgende periode of perioden.
 
-#### Artikel 10. (uitkering bonus-geldsom)
+##### Artikel 10. (uitkering bonus-geldsom)
 
 De geldsom, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039205&artikel=9&z=2020-01-01&g=2020-01-01), wordt uitgekeerd uiterlijk in de tweede maand die volgt op de maand waarin het recht op de geldsom is ontstaan.
 
-#### Artikel 11. (in- en uitscharing)
+##### Artikel 11. (in- en uitscharing)
 
 1. Indien een houder aantoont dat hij op 2 juli 2015 runderen had uitgeschaard die tussen 1 januari 2015 en 2 juli 2015 naar een inschaarder zijn gegaan, op 2 juli 2015 door die inschaarder werden gehouden en die uiterlijk op 31 december 2015 zijn teruggekomen op het bedrijf van de houder, kan de minister wanneer hiervoor door de houder uiterlijk voor 15 april 2017 een verzoek is ingediend zijn referentieaantal verhogen in de periode 1 en 5 mits, in het geval de inschaarder producent is van koemelk bestemd voor consumptie of verwerking, deze aantoonbaar instemt met verlaging van zijn referentieaantal in die perioden.
 
@@ -220,7 +246,7 @@ De geldsom, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3
 
 9. Een houder die een verzoek heeft ingediend als bedoeld in het eerste of vierde lid kan voor de toepassing van deze regeling tevens bij de minister voor 20 mei 2017 een verzoek indienen voor berekening van het jongveegetal in de perioden 2, 3 en 4 op de volgende, van [artikel 1, eerste lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0039205&artikel=1&z=2020-01-01&g=2020-01-01), afwijkende berekeningswijze: (het aantal runderen van de houder op 28 april 2017 van 0 tot 1 jaar en van 1 jaar of ouder dat niet heeft gekalfd verminderd met het aantal uitgeschaarde runderen overeenkomstig het tweede lid) gedeeld door het aantal runderen van de houder op 28 april 2017 dat ten minste eenmaal heeft gekalfd.
 
-#### Artikel 12. (bedrijfsovername en bijzondere omstandigheden)
+##### Artikel 12. (bedrijfsovername en bijzondere omstandigheden)
 
 1. Indien de houder, meldt en aantoont dat na 2 juli 2015 een beëindigd bedrijf is overgenomen, kan de minister het referentieaantal of het doelstellingsaantal van die houder op zijn verzoek verhogen met het referentieaantal of het doelstellingsaantal dat op grond van deze regeling van toepassing zou zijn geweest op de houder van het beëindigde bedrijf. Bij gedeeltelijke overname kan het referentieaantal of het doelstellingsaantal naar rato worden verhoogd.
 
@@ -228,7 +254,7 @@ De geldsom, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3
 
 3. Een verzoek als bedoeld in het eerste of tweede lid wordt uiterlijk op 1 april 2017 ingediend, dan wel, indien het een verzoek betreft als bedoeld in het eerste lid, uiterlijk 1 maand na de bedrijfsoverdracht indien de overdracht na 1 maart 2017 heeft plaatsgevonden.
 
-#### Artikel 13. (uitzonderingen)
+##### Artikel 13. (uitzonderingen)
 
 1. Bij het gemiddeld aantal runderen, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039205&artikel=4&z=2020-01-01&g=2020-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0039205&artikel=6&z=2020-01-01&g=2020-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0039205&artikel=9&z=2020-01-01&g=2020-01-01), is niet inbegrepen:
 
@@ -238,17 +264,17 @@ De geldsom, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3
 
 2. Het eerste lid, aanhef en onderdeel b, is uitsluitend van toepassing indien de houder van de runderen op een door de minister aangegeven wijze meldt welke runderen het betreft.
 
-#### Artikel 14. (inwerkingtreding)
+##### Artikel 14. (inwerkingtreding)
 
 Deze regeling treedt in werking met ingang van 1 maart 2017.
 
-#### Artikel 15. (citeertitel)
+##### Artikel 15. (citeertitel)
 
 Deze regeling wordt aangehaald als: Regeling fosfaatreductieplan 2017.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 9a. (herberekening)
+##### Artikel 9a. (herberekening)
 
 1. Telkens in het geval een rund dat ten minste eenmaal heeft gekalfd door de houder na 28 april 2017 in het I&R-systeem is afgemeld en binnen 4 maanden na die afmelding terugkeert in het I&R-systeem van die houder, past de minister, met ingang van de periode dat het rund door de houder in het I&R-systeem was afgemeld, voor die houder de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039205&artikel=4&z=2020-01-01&g=2020-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0039205&artikel=6&z=2020-01-01&g=2020-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0039205&artikel=9&z=2020-01-01&g=2020-01-01) voor de perioden 2 tot en met 5 opnieuw toe waarbij dat rund, voor zover van toepassing, alsnog meetelt bij het gemiddeld aantal runderen dat in de tweede maand van periode 2, onderscheidenlijk in de desbetreffende maanden van de perioden 3, 4 en 5, werd gehouden.
 

@@ -1,13 +1,39 @@
 ---
-title: "Regeling onderstand BES"
+title: "Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 31 augustus 2020, 2020-0000036179, tot uitvoering van het Besluit onderstand BES (Regeling onderstand BES)"
 identifier: "BWBR0044178"
-categorie: "Overig"
-publicatiedatum: 2021-01-01
-laatste_update: 2021-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044178"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2021-01-01"
+last_updated: "2021-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044178"
+soort: "ministeriele-regeling-BES"
+stam_id: "15651333"
+version_id: "27059612"
+internal_id: "C38280811"
+label_id: "15591174"
+dtd_version: "2.0"
+original_entry_into_force: "2021-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044178/2021-01-01/0"
+intitule_bron: "Stcrt.2020-51386"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-08-31"
+intitule_published: "2020-10-06"
+intitule_in_force: "2020-10-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-51386"
+original_signed_date: "2020-08-31"
+original_published_date: "2020-10-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-51386"
+entry_into_force_date: "2021-01-01"
+jci_1_3: "jci1.3:c:BWBR0044178&z=2021-01-01&g=2021-01-01"
+jci_1_0: "1.0:c:BWBR0044178&g=2021-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling onderstand BES"
+signed_date: "2020-08-31"
+entry_into_force: "2021-01-01"
 ---
-
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 31 augustus 2020, 2020-0000036179, tot uitvoering van het Besluit onderstand BES (Regeling onderstand BES)
 
 Gelet op de [artikelen 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&artikel=12), [18a, tweede lid, onderdeel d](onbekend), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&artikel=37) en [40 van het Besluit onderstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&artikel=40);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -30,19 +56,19 @@ In deze regeling wordt verstaan onder:
 
 #### Paragraaf 2.1. Algemene bepalingen ten aanzien van een maatregel
 
-#### Artikel 2. Het opleggen van een maatregel
+##### Artikel 2. Het opleggen van een maatregel
 
 1. Indien de belanghebbende naar het oordeel van de minister tekortschietend besef van verantwoordelijkheid betoont voor de voorziening in het bestaan dan wel de uit het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028595) voortvloeiende verplichtingen niet of niet voldoende nakomt, wordt overeenkomstig deze regeling een maatregel opgelegd.
 
 2. Een maatregel wordt afgestemd op de ernst van de gedraging, de mate waarin de belanghebbende de gedraging kan worden verweten en de omstandigheden waarin hij verkeert.
 
-#### Artikel 3. Berekeningsgrondslag
+##### Artikel 3. Berekeningsgrondslag
 
 1. De maatregel wordt toegepast op de berekeningsgrondslag, die wordt bepaald door het basisbedrag van de algemene onderstand en de voor belanghebbende geldende toeslagen waarmee het basisbedrag van de algemene onderstand wordt verhoogd.
 
 2. Voor de toepassing van [artikel 19 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&artikel=19) wordt de onderstand in aanmerking genomen alsof de maatregel niet is toegepast.
 
-#### Artikel 4. De beschikking tot opleggen van een maatregel
+##### Artikel 4. De beschikking tot opleggen van een maatregel
 
 In de beschikking tot het opleggen van een maatregel worden in ieder geval vermeld:
 
@@ -56,7 +82,7 @@ In de beschikking tot het opleggen van een maatregel worden in ieder geval verme
 
 - e. de eventuele reden om af te wijken van de maatregel, bedoeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0044178&hoofdstuk=2&paragraaf=2.2&artikel=11&z=2021-01-01&g=2021-01-01), [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044178&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2021-01-01&g=2021-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0044178&hoofdstuk=2&paragraaf=2.3&artikel=13&z=2021-01-01&g=2021-01-01), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044178&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2021-01-01&g=2021-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0044178&hoofdstuk=2&paragraaf=2.4&artikel=15&z=2021-01-01&g=2021-01-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0044178&hoofdstuk=2&paragraaf=2.4&artikel=16&z=2021-01-01&g=2021-01-01).
 
-#### Artikel 5. Horen van de belanghebbende
+##### Artikel 5. Horen van de belanghebbende
 
 1. Voordat een maatregel wordt opgelegd, wordt de belanghebbende in de gelegenheid gesteld zijn zienswijze naar voren te brengen.
 
@@ -70,7 +96,7 @@ In de beschikking tot het opleggen van een maatregel worden in ieder geval verme
 
 - d. de minister het horen niet nodig acht voor het vaststellen van de ernst van de gedraging of de mate van verwijtbaarheid.
 
-#### Artikel 6. Afzien van het opleggen van een maatregel
+##### Artikel 6. Afzien van het opleggen van een maatregel
 
 1. De minister ziet af van het opleggen van een maatregel indien:
 
@@ -82,23 +108,23 @@ In de beschikking tot het opleggen van een maatregel worden in ieder geval verme
 
 3. Indien de minister afziet van het opleggen van een maatregel op grond van dringende redenen, wordt de belanghebbende daarvan schriftelijk mededeling gedaan.
 
-#### Artikel 7. Ingangsdatum en duur van een maatregel
+##### Artikel 7. Ingangsdatum en duur van een maatregel
 
 1. De maatregel wordt opgelegd met ingang van de eerstvolgende tweewekelijke betaalperiode volgend op de datum waarop de beschikking tot het opleggen van de maatregel aan de belanghebbende is bekendgemaakt. Daarbij wordt uitgegaan van de voor die betaalperiode geldende bedragen van de algemene onderstand.
 
 2. Een maatregel wordt opgelegd voor de duur van vier weken.
 
-#### Artikel 8. Samenloop van gedragingen
+##### Artikel 8. Samenloop van gedragingen
 
 Indien een belanghebbende zich tegelijkertijd schuldig maakt aan verschillende gedragingen die het niet nakomen van een verplichting als genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044178&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2021-01-01&g=2021-01-01), inhouden, worden de verlagingen voor de onderscheiden gedragingen gelijktijdig toegepast met inachtneming van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044178&hoofdstuk=2&paragraaf=2.1&artikel=7&z=2021-01-01&g=2021-01-01).
 
-#### Artikel 9. Recidive
+##### Artikel 9. Recidive
 
 De duur van de maatregel kan worden verdubbeld, indien de belanghebbende zich binnen twaalf maanden na bekendmaking van een besluit waarbij een maatregel is opgelegd, opnieuw schuldig maakt aan een verwijtbare gedraging van dezelfde of hogere categorie. Met een beschikking waarmee een maatregel is opgelegd wordt gelijkgesteld de beschikking om daarvan af te zien op grond van dringende redenen als bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044178&hoofdstuk=2&paragraaf=2.1&artikel=6&z=2021-01-01&g=2021-01-01).
 
 #### Paragraaf 2.2. Geen of onvoldoende medewerking aan het verkrijgen of behouden van algemeen geaccepteerde arbeid
 
-#### Artikel 10. Indeling in categorieën
+##### Artikel 10. Indeling in categorieën
 
 Gedragingen van belanghebbenden waardoor de verplichting tot inschakeling in de arbeid op grond van [artikel 5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&artikel=5) niet of onvoldoende is nagekomen, worden onderscheiden in de volgende categorieën:
 
@@ -124,7 +150,7 @@ Gedragingen van belanghebbenden waardoor de verplichting tot inschakeling in de 
 
 - 2°. het door eigen toedoen niet behouden van algemeen geaccepteerde arbeid.
 
-#### Artikel 11. De hoogte van de maatregel
+##### Artikel 11. De hoogte van de maatregel
 
 Onverminderd [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044178&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2021-01-01&g=2021-01-01), wordt de maatregel als volgt vastgesteld:
 
@@ -138,13 +164,13 @@ Onverminderd [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR004
 
 #### Paragraaf 2.3. Niet nakomen van de inlichtingenplicht
 
-#### Artikel 12. Niet tijdig verstrekken van gegevens
+##### Artikel 12. Niet tijdig verstrekken van gegevens
 
 1. Indien een belanghebbende de inlichtingenplicht, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&artikel=11), niet is nagekomen door informatie die van belang is voor de verlening van onderstand of de voortzetting daarvan niet binnen de door de minister daartoe gestelde termijn te verstrekken, wordt een maatregel opgelegd van 5% van de berekeningsgrondslag, onverminderd [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044178&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2021-01-01&g=2021-01-01).
 
 2. Van het opleggen van de maatregel, bedoeld in het eerste lid, kan worden afgezien en worden volstaan met het geven van een schriftelijke waarschuwing, tenzij het niet of niet behoorlijk nakomen van de verplichting plaatsvindt binnen een periode van twee jaar te rekenen vanaf de datum waarop eerder aan de belanghebbende een schriftelijke waarschuwing is gegeven.
 
-#### Artikel 13. Verstrekken onjuiste of onvolledige inlichtingen met gevolgen voor de onderstand
+##### Artikel 13. Verstrekken onjuiste of onvolledige inlichtingen met gevolgen voor de onderstand
 
 1. Indien een belanghebbende aan de minister onjuiste of onvolledige inlichtingen heeft verstrekt en dit heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van onderstand, wordt een maatregel opgelegd die is afgestemd op de hoogte van het benadelingsbedrag.
 
@@ -158,7 +184,7 @@ Onverminderd [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR004
 
 - d. bij een benadelingsbedrag van USD 1600 of meer: 100% van de berekeningsgrondslag.
 
-#### Artikel 14. Verstrekken van onjuiste of onvolledige inlichtingen zonder gevolgen voor de onderstand
+##### Artikel 14. Verstrekken van onjuiste of onvolledige inlichtingen zonder gevolgen voor de onderstand
 
 1. Indien een belanghebbende aan de minister onjuiste of onvolledige inlichtingen heeft verstrekt en dit niet heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van onderstand, wordt een maatregel opgelegd van 10% van de berekeningsgrondslag, onverminderd [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044178&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2021-01-01&g=2021-01-01).
 
@@ -166,7 +192,7 @@ Onverminderd [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR004
 
 #### Paragraaf 2.4. Overige gedragingen die leiden tot een maatregel
 
-#### Artikel 15. Tekortschietend besef van verantwoordelijkheid
+##### Artikel 15. Tekortschietend besef van verantwoordelijkheid
 
 1. Indien een belanghebbende tekortschietend besef van verantwoordelijkheid voor de voorziening in het bestaan heeft betoond als bedoeld in [artikel 12, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&artikel=12), wordt een maatregel opgelegd die wordt afgestemd op de hoogte van het benadelingsbedrag.
 
@@ -180,19 +206,19 @@ Onverminderd [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR004
 
 - d. bij een benadelingsbedrag van USD 1600 of meer: 100% van de berekeningsgrondslag.
 
-#### Artikel 16. Zeer ernstige misdragingen
+##### Artikel 16. Zeer ernstige misdragingen
 
 Indien een belanghebbende zich zeer ernstig misdraagt tegenover de minister of zijn ambtenaren, onder omstandigheden die rechtstreeks verband houden met de uitvoering van het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028595) wordt een maatregel opgelegd van minimaal 20% van de berekeningsgrondslag, onverminderd [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044178&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2021-01-01&g=2021-01-01).
 
 ### Hoofdstuk 3. Vrijlating uitkeringen en vergoedingen
 
-#### Artikel 17. Vrijlating uitkering Schadefonds geweldsmisdrijven
+##### Artikel 17. Vrijlating uitkering Schadefonds geweldsmisdrijven
 
 Als uitkeringen als bedoeld in [artikel 18a, tweede lid, onderdeel d, van het besluit](onbekend) wordt aangewezen de uitkering als bedoeld in de [Wet schadefonds geweldsmisdrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0002979), met uitzondering van het deel van de uitkering dat vanwege de derving van levensonderhoud wordt verstrekt aan nabestaanden.
 
 ### Hoofdstuk 4. Gegevensuitwisseling
 
-#### Artikel 18. Gegevensverstrekking aan de minister
+##### Artikel 18. Gegevensverstrekking aan de minister
 
 1. De hieronder vermelde instanties en personen zijn verplicht desgevraagd aan de minister kosteloos opgaven en inlichtingen te verstrekken die noodzakelijk zijn voor de uitvoering van het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028595):
 
@@ -240,7 +266,7 @@ Als uitkeringen als bedoeld in [artikel 18a, tweede lid, onderdeel d, van het be
 
 4. De in het eerste en tweede lid bedoelde opgaven en inlichtingen worden desgevraagd schriftelijk, of in een andere vorm die redelijkerwijs kan worden verlangd, en zo spoedig mogelijk, doch in elk geval binnen vier weken na ontvangst van het verzoek hiertoe, verstrekt.
 
-#### Artikel 19. Gegevensverstrekking door de minister
+##### Artikel 19. Gegevensverstrekking door de minister
 
 1. De minister is bevoegd uit eigen beweging en verplicht desgevraagd uit de administratie ter zake van de uitvoering van het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028595) kosteloos de gegevens te verstrekken aan:
 
@@ -264,15 +290,15 @@ Als uitkeringen als bedoeld in [artikel 18a, tweede lid, onderdeel d, van het be
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 20. Intrekking regelingen
+##### Artikel 20. Intrekking regelingen
 
 De [Regeling gegevensuitwisseling onderstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028321) en de [Regeling verlaging onderstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028302) worden ingetrokken.
 
-#### Artikel 21. Inwerkingtreding
+##### Artikel 21. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2021.
 
-#### Artikel 22. Citeertitel
+##### Artikel 22. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling onderstand BES.
 

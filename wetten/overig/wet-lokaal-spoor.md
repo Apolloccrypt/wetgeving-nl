@@ -1,14 +1,42 @@
 ---
-title: "Wet lokaal spoor"
+title: "Wet van 10 juli 2013, houdende regels over de aanleg, het beheer, het gebruik en de veiligheid van lokale spoorwegen (Wet lokaal spoor)"
 identifier: "BWBR0034363"
-categorie: "Overig"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034363"
+country: "nl"
+rank: "wet"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034363"
+soort: "wet"
+stam_id: "12476323"
+version_id: "20980872"
+internal_id: "C30136531"
+label_id: "12447744"
+dtd_version: "2.0"
+original_entry_into_force: "2013-12-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034363/2024-01-01/0"
+intitule_bron: "Stb.2013-528"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-07-10"
+intitule_published: "2013-12-13"
+intitule_in_force: "2013-12-13"
+intitule_status: "goed"
+original_publication: "Stb.2013-528"
+original_signed_date: "2013-07-10"
+original_published_date: "2013-12-13"
+original_effect: "nieuwe-regeling"
+original_dossier: "33324"
+original_url_id: "stb-2013-528"
+entry_into_force_date: "2013-12-14"
+entry_into_force_dossier: "33324"
+jci_1_3: "jci1.3:c:BWBR0034363&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0034363&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet lokaal spoor"
+signed_date: "2013-07-10"
+entry_into_force: "2013-12-14"
 ---
-
-# Wet lokaal spoor
+# Wet van 10 juli 2013, houdende regels over de aanleg, het beheer, het gebruik en de veiligheid van lokale spoorwegen (Wet lokaal spoor)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +46,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -64,7 +92,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **Wet zwerfstroomen:** [Wet van 1 november 1924, houdende wettelijke maatregelen tegen aantasting van metalen voorwerpen in den bodem door zwerfstroomen, afkomstig van de spoorstaven van electrische spoor- en tramwegen](https://wetten.overheid.nl/jci1.3:c:BWBR0001921) (Stb. 1924, 498).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Lokale spoorwegen worden bij koninklijk besluit aangewezen.
 
@@ -80,7 +108,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 5. Bij of krachtens algemene maatregel van bestuur worden de elementen aangewezen die tot de lokale spoorweginfrastructuur behoren.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Deze wet is van toepassing op lokale spoorwegen.
 
@@ -116,7 +144,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Gedeputeerde staten dragen zorg voor de aanleg en het beheer van de lokale spoorweginfrastructuur in het gebied van de provincie voor zover die infrastructuur niet is gelegen in het krachtens [artikel 20, derde lid, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=20) aangewezen gebied.
 
@@ -126,7 +154,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 4. Het dagelijks bestuur kan zijn bevoegdheid, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=12&z=2024-01-01&g=2024-01-01), overdragen aan het college van burgemeester en wethouders van een van de in het krachtens [artikel 20, derde lid, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=20) aangewezen gebied liggende gemeenten.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De lokale spoorweginfrastructuur wordt zodanig aangelegd dat de lokale spoorweginfrastructuur:
 
@@ -140,7 +168,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels omtrent dit artikel worden gesteld.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Onverminderd [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=5&z=2024-01-01&g=2024-01-01), wordt nieuwe ondergrondse lokale spoorweginfrastructuur zodanig aangelegd dat:
 
@@ -156,15 +184,15 @@ werkzaamheden naar behoren uit te voeren.
 
 4. Bij ministeriële regeling kunnen regels worden gesteld ten aanzien van de methode voor het uitvoeren van een risicoanalyse en de aspecten die in ieder geval bij de risicoanalyse worden betrokken.
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het is verboden om lokale spoorweginfrastructuur in dienst te stellen zonder dat daarvoor een vergunning voor indienststelling is verleend door gedeputeerde staten onderscheidenlijk het dagelijks bestuur.
 
@@ -180,7 +208,7 @@ Vervallen
 
 7. Het is verboden te handelen in strijd met de voorschriften en beperkingen, bedoeld in het vierde lid.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het is verboden om een aanmerkelijke verbetering, vernieuwing of wijziging van de lokale spoorweginfrastructuur in dienst te stellen
 
@@ -194,7 +222,7 @@ Vervallen
 
 4. De beheerder vermeldt in het informatiedossier de zienswijze van de rechthebbende op de lokale spoorweginfrastructuur en motiveert, indien de voorgenomen verbetering, vernieuwing of wijziging afwijkt van die zienswijze, de redenen van die afwijking.
 
-#### Artikel 11
+##### Artikel 11
 
 Gedeputeerde staten onderscheidenlijk het dagelijks bestuur kunnen een vergunning als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=9&z=2024-01-01&g=2024-01-01) schorsen of intrekken indien:
 
@@ -202,15 +230,15 @@ Gedeputeerde staten onderscheidenlijk het dagelijks bestuur kunnen een vergunnin
 
 - b. de lokale spoorweginfrastructuur niet meer voldoet aan de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=5&z=2024-01-01&g=2024-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=6&z=2024-01-01&g=2024-01-01).
 
-#### Artikel 12
+##### Artikel 12
 
 Het dagelijks bestuur wijst het beperkingengebied aan waarbinnen het vergunningsvereiste, bedoeld in [artikel 5.1, tweede lid, aanhef en onder f, onder 4°, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1) geldt, voor zover dat beperkingengebied gelegen is in het krachtens [artikel 20, derde lid, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=20) aangewezen gebied.
 
-#### Artikel 13
+##### Artikel 13
 
 De rechthebbende wiens onroerende zaak door de lokale spoorweg wordt afgesneden van een openbare weg, heeft een recht van uitweg over de lokale spoorweg. [Artikel 57 van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=57) is van toepassing, met uitzondering van de schadevergoedingsplicht.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De natuurlijke of rechtspersoon die verantwoordelijk is voor de inrichting en het gebruik van een gebouw of werk dat geheel of gedeeltelijk bestemd is voor de aankomst en het vertrek van spoorvoertuigen met het oog op het in-, uit- of overstappen van reizigers draagt er zorg voor dat de inrichting en uitrusting van het gebouw of werk voldoet aan de bij of krachtens algemene maatregel van bestuur gestelde regels.
 
@@ -222,7 +250,7 @@ De rechthebbende wiens onroerende zaak door de lokale spoorweg wordt afgesneden 
 
 - b. het moment waarop de maatregelen voor de verschillende soorten gebouwen, werken of trajecten worden doorgevoerd en de hoeveelheid aangepaste gebouwen of werken.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Het is verboden om:
 
@@ -236,7 +264,7 @@ De rechthebbende wiens onroerende zaak door de lokale spoorweg wordt afgesneden 
 
 2. Het eerste lid is niet van toepassing voor zover de handelingen worden verricht in het kader van de rechtmatige uitoefening van het beheer, het vervoer of het toezicht daarop in de zin van deze wet.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Gedeputeerde staten onderscheidenlijk het dagelijks bestuur kunnen onderzoek verrichten naar de oorzaken van ongevallen en incidenten op lokale spoorwegen en naar andere onregelmatigheden in de afwikkeling van het spoorverkeer waardoor de veiligheid van het spoorverkeer of van daarbij betrokken personen in gevaar is gebracht of in gevaar gebracht had kunnen worden, indien zij dat onderzoek nodig achten ter evaluatie van het beleid op het terrein van de veiligheid van het spoorverkeer.
 
@@ -250,7 +278,7 @@ De rechthebbende wiens onroerende zaak door de lokale spoorweg wordt afgesneden 
 
 ### Hoofdstuk 3. Beheer van lokale spoorwegen
 
-#### Artikel 17
+##### Artikel 17
 
 1. Gedeputeerde staten onderscheidenlijk het dagelijks bestuur stellen ten minste een maal in de vier jaar een visie vast ten aanzien van een kwalitatief goed en doelmatig beheer. De visie is ten minste uitgewerkt in prestatienormen die betrekking hebben op de kwaliteit, betrouwbaarheid en beschikbaarheid van de lokale spoorweginfrastructuur. Daarbij worden tevens de tijdstippen bepaald waarop de verschillende onderdelen van de lokale spoorweginfrastructuur periodiek door de beheerder worden geschouwd.
 
@@ -258,7 +286,7 @@ De rechthebbende wiens onroerende zaak door de lokale spoorweg wordt afgesneden 
 
 3. Gedeputeerde staten onderscheidenlijk het dagelijks bestuur maken jaarlijks aan de hand van de prestatienormen en bijbehorende prestatie-indicatoren, bedoeld in het eerste en tweede lid, afspraken met de beheerder over de uitvoering van de beheertaken, alsmede over de benodigde financiële middelen ter realisatie van de afspraken.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Gedeputeerde staten onderscheidenlijk het dagelijks bestuur wijzen ten behoeve van het beheer van de lokale spoorweginfrastructuur voor een door hen te bepalen termijn een of meerdere beheerders aan.
 
@@ -284,7 +312,7 @@ De rechthebbende wiens onroerende zaak door de lokale spoorweg wordt afgesneden 
 
 10. Een intrekking op de gronden, genoemd in het negende lid, vindt niet plaats dan nadat gedeputeerde staten onderscheidenlijk het dagelijks bestuur de beheerder in de gelegenheid hebben gesteld om binnen een door hen te bepalen termijn het veiligheidsbeheersysteem adequaat toe te passen respectievelijk alsnog te voldoen aan [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=3&artikel=19&z=2024-01-01&g=2024-01-01).
 
-#### Artikel 19
+##### Artikel 19
 
 1. Het veiligheidsbeheersysteem van de beheerder:
 
@@ -316,7 +344,7 @@ De rechthebbende wiens onroerende zaak door de lokale spoorweg wordt afgesneden 
 
 3. Bij ministeriële regeling worden nadere regels gesteld over het veiligheidsbeheersysteem.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De lokale spoorweginfrastructuur waarover vervoer wordt verricht wordt door de beheerder zodanig beheerd dat de lokale spoorweginfrastructuur blijft voldoen aan de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=8&z=2024-01-01&g=2024-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=6&z=2024-01-01&g=2024-01-01).
 
@@ -332,7 +360,7 @@ De rechthebbende wiens onroerende zaak door de lokale spoorweg wordt afgesneden 
 
 4. Gedeputeerde staten onderscheidenlijk het dagelijks bestuur kunnen de beheerder bindende aanwijzingen geven met betrekking tot het beheer.
 
-#### Artikel 21
+##### Artikel 21
 
 1. De beheerder stelt, na overleg met de vervoerder en andere rechthebbenden op de lokale spoorweginfrastructuur jaarlijks ter uitvoering van de visie, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=3&artikel=17&z=2024-01-01&g=2024-01-01), een beheerplan op.
 
@@ -342,7 +370,7 @@ De rechthebbende wiens onroerende zaak door de lokale spoorweg wordt afgesneden 
 
 4. Gedeputeerde staten onderscheidenlijk het dagelijks bestuur kunnen in de voorschriften, bedoeld in [artikel 18, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=3&artikel=18&z=2024-01-01&g=2024-01-01), eisen stellen aan de inhoud en de procedure van totstandkoming van het beheerplan alsmede aan het jaarverslag.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De beheerder draagt er zorg voor dat werkzaamheden aan en in de directe nabijheid van de lokale spoorweg alsmede het met die werkzaamheden samenhangend verkeer veilig plaatsvinden. De beheerder treft maatregelen die redelijkerwijs noodzakelijk zijn om te voorkomen dat gevaar kan ontstaan voor:
 
@@ -358,7 +386,7 @@ De rechthebbende wiens onroerende zaak door de lokale spoorweg wordt afgesneden 
 
 2. Gedeputeerde staten onderscheidenlijk het dagelijks bestuur kunnen regels stellen over de veilige uitvoering van de werkzaamheden aan of in de directe nabijheid van de lokale spoorweg.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Indien de veiligheid van het gebruik of van het beheer van de lokale spoorweginfrastructuur in gevaar komt of dreigt te komen, neemt de beheerder passende maatregelen, waaronder zo nodig het geheel of gedeeltelijk buiten dienst stellen van de lokale spoorweg.
 
@@ -376,7 +404,7 @@ De rechthebbende wiens onroerende zaak door de lokale spoorweg wordt afgesneden 
 
 ### Hoofdstuk 4. Verkeer
 
-#### Artikel 24
+##### Artikel 24
 
 1. Gedeputeerde staten onderscheidenlijk het dagelijks bestuur belast de beheerder dan wel een vervoerder met de verkeersleiding over de lokale spoorweg.
 
@@ -386,7 +414,7 @@ De rechthebbende wiens onroerende zaak door de lokale spoorweg wordt afgesneden 
 
 4. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de taken van de verkeersleiding.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld in het belang van de verkeersveiligheid op de lokale spoorweg en de daaraan grenzende hoofdspoorwegen of bijzondere spoorwegen, bedoeld in [artikel 2, tweede of derde lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=2), alsmede aan de daaraan grenzende wegen, bedoeld in [artikel 1, eerste lid, onderdeel b, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1).
 
@@ -420,7 +448,7 @@ De rechthebbende wiens onroerende zaak door de lokale spoorweg wordt afgesneden 
 
 ### Hoofdstuk 5. Vervoer over de lokale spoorwegen
 
-#### Artikel 26
+##### Artikel 26
 
 1. Het is verboden met een spoorvoertuig over een lokale spoorweg te rijden zonder:
 
@@ -438,7 +466,7 @@ De rechthebbende wiens onroerende zaak door de lokale spoorweg wordt afgesneden 
 
 3. Het is verboden om tijdens het verkeer, bedoeld in het tweede lid, reizigers te vervoeren.
 
-#### Artikel 27
+##### Artikel 27
 
 1. De vervoerder beschikt over een door gedeputeerde staten onderscheidenlijk het dagelijks bestuur verleend veiligheidscertificaat.
 
@@ -454,7 +482,7 @@ De rechthebbende wiens onroerende zaak door de lokale spoorweg wordt afgesneden 
 
 7. Het is verboden te handelen in strijd met de voorschriften en beperkingen, bedoeld in het vierde lid.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Het veiligheidsbeheersysteem van de vervoerder:
 
@@ -484,7 +512,7 @@ De rechthebbende wiens onroerende zaak door de lokale spoorweg wordt afgesneden 
 
 3. Bij ministeriële regeling worden nadere regels gesteld over het veiligheidsbeheersysteem.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Een veiligheidscertificaat is ten hoogste vijf jaar geldig.
 
@@ -498,7 +526,7 @@ De rechthebbende wiens onroerende zaak door de lokale spoorweg wordt afgesneden 
 
 4. Gedeputeerde staten onderscheidenlijk het dagelijks bestuur kunnen nadere regels stellen over de uitvoering van het tweede en derde lid.
 
-#### Artikel 30
+##### Artikel 30
 
 1. Een tussen de beheerder en de vervoerder gesloten toegangsovereenkomst over het gebruik van de door de beheerder toegewezen vervoercapaciteit bevat in elk geval bedingen over:
 
@@ -510,7 +538,7 @@ De rechthebbende wiens onroerende zaak door de lokale spoorweg wordt afgesneden 
 
 3. Het is verboden de door de beheerder toegewezen vervoercapaciteit over te dragen of in gebruik te geven aan een andere vervoerder.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de toegankelijkheid van spoorvoertuigen voor mensen met een functiebeperking.
 
@@ -524,7 +552,7 @@ spoorvoertuigen of trajecten worden doorgevoerd en de hoeveelheid aangepaste spo
 
 3. De regels, bedoeld in het eerste lid, zijn niet van toepassing op het verrichten van incidenteel vervoer met historische spoorvoertuigen.
 
-#### Artikel 32
+##### Artikel 32
 
 1. Het is verboden om van een lokale spoorweg gebruik te maken met een spoorvoertuig waarvoor gedeputeerde staten onderscheidenlijk het dagelijks bestuur geen vergunning voor indienststelling hebben verleend.
 
@@ -552,7 +580,7 @@ spoorvoertuigen of trajecten worden doorgevoerd en de hoeveelheid aangepaste spo
 
 9. Gedeputeerde staten onderscheidenlijk het dagelijks bestuur kunnen ontheffing verlenen van het eerste lid, indien voor een spoorvoertuig reeds een voertuigvergunning als bedoeld in [artikel 26k, eerste lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26k), is verleend.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Het is verboden om een spoorvoertuig dat aanmerkelijk is gewijzigd in dienst te stellen zonder:
 
@@ -568,7 +596,7 @@ spoorvoertuigen of trajecten worden doorgevoerd en de hoeveelheid aangepaste spo
 
 5. Het eerste lid is niet van toepassing op spoorvoertuigen waarvoor ingevolge [artikel 32, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=32&z=2024-01-01&g=2024-01-01), geen vergunning voor indienststelling verplicht is.
 
-#### Artikel 34
+##### Artikel 34
 
 1. Gedeputeerde staten onderscheidenlijk het dagelijks bestuur verlenen op aanvraag een vergunning voor indienststelling voor een type spoorvoertuig.
 
@@ -582,7 +610,7 @@ spoorvoertuigen of trajecten worden doorgevoerd en de hoeveelheid aangepaste spo
 
 6. Gedeputeerde staten onderscheidenlijk het dagelijks bestuur kunnen nadere regels stellen over de verklaring van overeenstemming, bedoeld in het vijfde lid.
 
-#### Artikel 35
+##### Artikel 35
 
 1. De vervoerder verricht uitsluitend vervoer met een spoorvoertuig dat zich in een veilige staat bevindt en dat zodanig is onderhouden dat het blijft voldoen aan [artikel 32, tweede lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=32&z=2024-01-01&g=2024-01-01).
 
@@ -592,7 +620,7 @@ spoorvoertuigen of trajecten worden doorgevoerd en de hoeveelheid aangepaste spo
 
 ### Hoofdstuk 6. Eisen aan het personeel
 
-#### Artikel 36
+##### Artikel 36
 
 1. Onder een veiligheidsfunctie wordt in dit hoofdstuk verstaan een functie binnen het lokale spoorwegverkeersysteem die van aanmerkelijke invloed is op de veiligheid van het spoorverkeer over de lokale spoorweg.
 
@@ -600,7 +628,7 @@ spoorvoertuigen of trajecten worden doorgevoerd en de hoeveelheid aangepaste spo
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen tevens andere functies als veiligheidsfunctie binnen het lokale spoorwegverkeerssysteem worden aangewezen.
 
-#### Artikel 37
+##### Artikel 37
 
 1. Een veiligheidsfunctie wordt slechts uitgeoefend door een persoon die:
 
@@ -616,7 +644,7 @@ spoorvoertuigen of trajecten worden doorgevoerd en de hoeveelheid aangepaste spo
 
 4. Bij ministeriële regeling kunnen nadere regels worden gegeven omtrent het onderzoek, bedoeld in het eerste lid, onderdeel c.
 
-#### Artikel 38
+##### Artikel 38
 
 1. Degene die bij of krachtens het bepaalde in deze wet gerechtigd is om een veiligheidsfunctie uit te oefenen, ontvangt van degene onder wiens gezag hij die functie uitoefent, een bedrijfspas.
 
@@ -624,11 +652,11 @@ spoorvoertuigen of trajecten worden doorgevoerd en de hoeveelheid aangepaste spo
 
 3. Bij ministeriële regeling kunnen nadere regels worden gegeven omtrent de in het eerste lid bedoelde bedrijfspas.
 
-#### Artikel 39
+##### Artikel 39
 
 Het is degene onder wiens gezag een veiligheidsfunctie wordt uitgeoefend verboden om een veiligheidsfunctie binnen het lokale spoorwegverkeerssysteem te doen uitoefenen door een persoon van wie hij weet of redelijkerwijs moet weten dat die persoon niet voldoet aan de bij of krachtens deze wet aan de uitoefening van de veiligheidsfunctie gestelde eisen.
 
-#### Artikel 40
+##### Artikel 40
 
 1. Degene onder wiens gezag een persoon binnen het lokale spoorwegverkeerssysteem een functie uitoefent die van invloed kan zijn op de veiligheid van het verkeer over de lokale spoorweg, draagt er zorg voor dat die persoon daartoe geschikt is en de nodige kennis en bekwaamheid bezit.
 
@@ -636,7 +664,7 @@ Het is degene onder wiens gezag een veiligheidsfunctie wordt uitgeoefend verbode
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de vakbekwaamheidseisen van een veiligheidsfunctie.
 
-#### Artikel 41
+##### Artikel 41
 
 1. Het is een ieder verboden een veiligheidsfunctie uit te oefenen dan wel op de uitoefening van een zodanige functie toezicht te houden terwijl diegene verkeert onder zodanige invloed van een stof, waarvan hij weet of redelijkerwijs moet vermoeden dat het gebruik daarvan, al dan niet in combinatie met het gebruik van een andere stof, de vaardigheid tot het uitoefenen van die functie of tot het houden van toezicht daarop kan verminderen, dat hij niet tot het behoorlijk uitoefenen van die functie of tot het behoorlijk uitoefenen van toezicht op die functie in staat moet worden geacht.
 
@@ -654,7 +682,7 @@ Het is degene onder wiens gezag een veiligheidsfunctie wordt uitgeoefend verbode
 
 ### Hoofdstuk 7. Toezicht en handhaving
 
-#### Artikel 42
+##### Artikel 42
 
 1. Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de bij besluit van Onze Minister aangewezen personen.
 
@@ -676,11 +704,11 @@ Het is degene onder wiens gezag een veiligheidsfunctie wordt uitgeoefend verbode
 
 10. De ingevolge het zevende tot en met het negende lid in rekening gebrachte bedragen worden zodanig vastgesteld dat de geraamde baten niet uitgaan boven de geraamde kosten die in een rechtstreeks verband staan met de betrokken werkzaamheden.
 
-#### Artikel 43
+##### Artikel 43
 
 Het dagelijks bestuur is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde verplichtingen.
 
-#### Artikel 44
+##### Artikel 44
 
 1. Gedeputeerde staten onderscheidenlijk het dagelijks bestuur kunnen een bestuurlijke boete opleggen ter zake van overtreding van de bij of krachtens de [artikelen 9, eerste en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=9&z=2024-01-01&g=2024-01-01), [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=10&z=2024-01-01&g=2024-01-01), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=14&z=2024-01-01&g=2024-01-01), [22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=3&artikel=22&z=2024-01-01&g=2024-01-01), [23, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=3&artikel=23&z=2024-01-01&g=2024-01-01), [24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=4&artikel=24&z=2024-01-01&g=2024-01-01), [25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=4&artikel=25&z=2024-01-01&g=2024-01-01), [26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=26&z=2024-01-01&g=2024-01-01), [27, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=27&z=2024-01-01&g=2024-01-01), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=28&z=2024-01-01&g=2024-01-01), [31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=31&z=2024-01-01&g=2024-01-01), [32, eerste en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=32&z=2024-01-01&g=2024-01-01), [33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=33&z=2024-01-01&g=2024-01-01), [35, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=35&z=2024-01-01&g=2024-01-01), [37, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=6&artikel=37&z=2024-01-01&g=2024-01-01), [38 tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=6&artikel=38&z=2024-01-01&g=2024-01-01), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=6&artikel=39&z=2024-01-01&g=2024-01-01),[40, eerste lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=6&artikel=40&z=2024-01-01&g=2024-01-01), en[49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=8&artikel=49&z=2024-01-01&g=2024-01-01), gestelde voorschriften.
 
@@ -696,7 +724,7 @@ Het dagelijks bestuur is bevoegd tot oplegging van een last onder bestuursdwang 
 
 5. De in het tweede lid genoemde bedragen kunnen elke twee jaar, met ingang van 1 januari van een jaar, bij ministeriële regeling worden aangepast aan de ontwikkeling van de consumentenprijsindex sinds de vorige aanpassing van deze bedragen. Bij deze aanpassing wordt het geldbedrag van op een veelvoud van € 5,– naar beneden afgerond.
 
-#### Artikel 45
+##### Artikel 45
 
 1. Met de opsporing van de bij of krachtens deze wet strafbaar gestelde feiten zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), belast de met betrekking tot deze wet krachtens [artikel 17, eerste lid, onderdeel 2°, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=17) aangewezen ambtenaren. Deze ambtenaren zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de [artikelen 179 tot en met 182](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=179) en [184 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=184), voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.
 
@@ -704,7 +732,7 @@ Het dagelijks bestuur is bevoegd tot oplegging van een last onder bestuursdwang 
 
 3. Van een besluit als bedoeld in het tweede lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-#### Artikel 46
+##### Artikel 46
 
 1. Overtreding van de [artikelen 15, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=15&z=2024-01-01&g=2024-01-01), en [25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=4&artikel=25&z=2024-01-01&g=2024-01-01), wordt gestraft met hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie.
 
@@ -718,7 +746,7 @@ Het dagelijks bestuur is bevoegd tot oplegging van een last onder bestuursdwang 
 
 6. De feiten strafbaar gesteld bij dan wel krachtens de in het eerste en tweede lid bedoelde bepalingen zijn overtredingen. De in het derde lid strafbaar gestelde feiten zijn misdrijven.
 
-#### Artikel 47
+##### Artikel 47
 
 1. Een van de bij of krachtens [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=7&artikel=45&z=2024-01-01&g=2024-01-01) van deze wet of [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) met de opsporing van strafbare feiten belaste ambtenaren, kan een in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=6&artikel=41&z=2024-01-01&g=2024-01-01), bedoelde persoon van wie, uit het in artikel 41, vierde lid, bedoelde onderzoek of op andere wijze, naar het oordeel van die ambtenaar gebleken is dat hij onder zodanige invloed van het gebruik van een stof als bedoeld in artikel 41, eerste lid, verkeert, dat hij onvoldoende in staat is een veiligheidsfunctie uit te oefenen dan wel op de uitoefening van zodanige functie toezicht te houden, een verbod opleggen tot het uitoefenen van die functie of tot het houden van toezicht daarop, voor de tijd gedurende welke redelijkerwijs verwacht mag worden dat deze toestand zal voortduren tot ten hoogste vierentwintig uur. De eerste volzin is van overeenkomstige toepassing op degene die aanstalten maakt een veiligheidsfunctie te gaan uitoefenen dan wel op de uitoefening van zodanige functie toezicht te houden.
 
@@ -726,7 +754,7 @@ Het dagelijks bestuur is bevoegd tot oplegging van een last onder bestuursdwang 
 
 3. Het is degene aan wie een verbod als bedoeld in het eerste lid is opgelegd, verboden een veiligheidsfunctie uit te oefenen dan wel op de uitoefening van zodanige functie toezicht te houden, gedurende de tijd waarvoor dat verbod geldt.
 
-#### Artikel 48
+##### Artikel 48
 
 1. Bij verdenking dat een persoon heeft gehandeld in strijd met [artikel 41, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=6&artikel=41&z=2024-01-01&g=2024-01-01), kan de in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=7&artikel=47&z=2024-01-01&g=2024-01-01), bedoelde ambtenaar hem bevelen zijn medewerking te verlenen aan een onderzoek als bedoeld in artikel 41, tweede lid, onderdeel a.
 
@@ -750,7 +778,7 @@ Het dagelijks bestuur is bevoegd tot oplegging van een last onder bestuursdwang 
 
 ### Hoofdstuk 8. Overige bepalingen
 
-#### Artikel 49
+##### Artikel 49
 
 1. Vervoerders en beheerders verstrekken gedeputeerde staten onderscheidenlijk het dagelijks bestuur mondeling, schriftelijk of op andere door gedeputeerde staten onderscheidenlijk het dagelijks bestuur te bepalen wijze, alle bij hen berustende gegevens en geven inzage in boeken en bescheiden die betrekking hebben op het gebruik of beheer van de lokale spoorweginfrastructuur, voor zover gedeputeerde staten onderscheidenlijk het dagelijks bestuur dat redelijkerwijs voor de vervulling van hun taken nodig achten.
 
@@ -758,55 +786,55 @@ Het dagelijks bestuur is bevoegd tot oplegging van een last onder bestuursdwang 
 
 3. Gedeputeerde staten onderscheidenlijk het dagelijks bestuur gebruiken de gegevens of inlichtingen uitsluitend voor de uitvoering van hun taken en bevoegdheden krachtens deze wet of hun taken en bevoegdheden op het gebied van lokale spoorwegen krachtens de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885).
 
-#### Artikel 50
+##### Artikel 50
 
 Voor de toepassing van het bepaalde bij of krachtens deze wet gaat een wijziging van de spoorwegveiligheidsrichtlijn gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
-#### Artikel 51
+##### Artikel 51
 
 Het dagelijks bestuur kan de kosten die samenhangen met het in behandeling nemen van de aanvragen in verband met documenten die bij of krachtens deze wet worden afgegeven ten laste brengen van de aanvrager.
 
 ### Hoofdstuk 9. Wijziging andere wetten
 
-#### Artikel 52
+##### Artikel 52
 
 Wijzigt de Spoorwegwet.
 
-#### Artikel 53
+##### Artikel 53
 
 Wijzigt de Spoorwegwet 1875.
 
-#### Artikel 54
+##### Artikel 54
 
 Wijzigt de Locaalspoor- en Tramwegwet.
 
-#### Artikel 55
+##### Artikel 55
 
 Wijzigt de Wet aanleg locaalspoor- en tramwegen.
 
-#### Artikel 56
+##### Artikel 56
 
 Wijzigt de Wet zwerfstromen.
 
-#### Artikel 57
+##### Artikel 57
 
 Wijzigt de Wet op de economische delicten.
 
-#### Artikel 58
+##### Artikel 58
 
 Wijzigt het Burgerlijk Wetboek Boek 8.
 
-#### Artikel 59
+##### Artikel 59
 
 Wijzigt de Algemene wet bestuursrecht.
 
-#### Artikel 60
+##### Artikel 60
 
 Wijzigt de Vervoersnoodwet.
 
 ### Hoofdstuk 10. Overgangsbepalingen
 
-#### Artikel 61
+##### Artikel 61
 
 [Artikel 6, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=6&z=2024-01-01&g=2024-01-01), is niet van toepassing op tunnels:
 
@@ -816,43 +844,43 @@ Wijzigt de Vervoersnoodwet.
 
 - c. waarvan de bouw voorafgaand aan het tijdstip van inwerkingtreding van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=6&z=2024-01-01&g=2024-01-01) al is begonnen.
 
-#### Artikel 62
+##### Artikel 62
 
 1. [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=9&z=2024-01-01&g=2024-01-01) is niet van toepassing ten aanzien van lokale spoorweginfrastructuur die voorafgaand aan het tijdstip van inwerkingtreding van artikel 9 in gebruik is genomen op grond van de [Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007), de [Spoorwegwet 1875](https://wetten.overheid.nl/jci1.3:c:BWBR0001848), de [Wet aanleg locaalspoor- en tramwegen](https://wetten.overheid.nl/jci1.3:c:BWBR0001892) dan wel de [Locaalspoor- en Tramwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001866), en die onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van artikel 9 als zodanig in gebruik is.
 
 2. [Artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=10&z=2024-01-01&g=2024-01-01) is onverminderd van toepassing op in gebruik genomen lokale spoorweginfrastructuur als bedoeld in het eerste lid.
 
-#### Artikel 63
+##### Artikel 63
 
 Een vergunning, toestemming of ontheffing, die betrekking heeft op een lokale spoorweg en die is verleend op grond van [artikel 19 van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=19), [artikel 39 van de Spoorwegwet 1875](https://wetten.overheid.nl/jci1.3:c:BWBR0001848&artikel=39), de [artikelen 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003083&artikel=14), of [15 van het Reglement dienst hoofd- en lokaalspoorwegen](https://wetten.overheid.nl/jci1.3:c:BWBR0003083&artikel=15), de [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001898&artikel=5), of [14, derde lid, van het Tramwegreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001898&artikel=14), dan wel de [artikelen 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003454&artikel=12), of [15 van het Metroreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003454&artikel=15), en die onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=12&z=2024-01-01&g=2024-01-01) van kracht en onherroepelijk is, wordt gelijkgesteld met een vergunning als bedoeld in artikel 12.
 
-#### Artikel 64
+##### Artikel 64
 
 1. [Artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=32&z=2024-01-01&g=2024-01-01) is niet van toepassing op een spoorvoertuig dat voorafgaand aan het tijdstip van inwerkingtreding van artikel 32 op de lokale spoorweg is toegelaten en waarmee onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van artikel 32 verkeer wordt verricht op die lokale spoorweg.
 
 2. De [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=33&z=2024-01-01&g=2024-01-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=35&z=2024-01-01&g=2024-01-01) zijn onverminderd van toepassing op een toegelaten spoorvoertuig als bedoeld in het eerste lid.
 
-#### Artikel 65
+##### Artikel 65
 
 Ten aanzien van degene die op het tijdstip van inwerkingtreding van [artikel 37, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=6&artikel=37&z=2024-01-01&g=2024-01-01), een functie uitoefent binnen het lokale spoorwegverkeersysteem die van aanmerkelijke invloed is op de veiligheid van het spoorverkeer over de lokale spoorweg, geldt het bepaalde in artikel 37, eerste lid, onderdeel c, met ingang van de datum na een jaar van inwerkingtreding van artikel 37, eerste lid, onderdeel c.
 
-#### Artikel 66
+##### Artikel 66
 
 De op het tijdstip van inwerkingtreding van deze wet aanhangige bezwaar- en beroepschriften tegen besluiten op grond van de [Spoorwegwet 1875](https://wetten.overheid.nl/jci1.3:c:BWBR0001848), de [Wet aanleg locaalspoor- en tramwegen](https://wetten.overheid.nl/jci1.3:c:BWBR0001892), de [Locaalspoor- en Tramwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001866), het [Reglement dienst hoofd- en lokaalspoorwegen](https://wetten.overheid.nl/jci1.3:c:BWBR0003083), het [Tramwegreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001898) dan wel het [Metroreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003454) worden afgehandeld overeenkomstig het recht zoals dat gold voor het tijdstip van inwerkingtreding van deze wet.
 
 ### Hoofdstuk 11. Slotbepalingen
 
-#### Artikel 67
+##### Artikel 67
 
 Deze wet treedt in werking met ingang van de eerste dag van de vierentwintigste kalendermaand na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst met uitzondering van [hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=1&z=2024-01-01&g=2024-01-01), dat in werking treedt met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 
-#### Artikel 68
+##### Artikel 68
 
 Deze wet wordt aangehaald als: Wet lokaal spoor.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 19a
+##### Artikel 19a
 
 De infrastructuurbeheerder is verantwoordelijk voor zijn eigen beheer, bestuur en interne controle en neemt hierbij het heffings- en toewijzingskader en de specifieke regels die door de lidstaten zijn opgesteld, in acht.
 
@@ -860,11 +888,11 @@ De infrastructuurbeheerder is verantwoordelijk voor zijn eigen beheer, bestuur e
 
 ### Hoofdstuk 5. Vervoer over de lokale spoorwegen
 
-#### Artikel 29a
+##### Artikel 29a
 
 Een vervoerder die niet alleen onder de directe of indirecte zeggenschap staat van een onderneming of een andere entiteit die andere spoorvervoerdiensten dan stads-, voorstads- en regionale diensten verricht of integreert, maar die ook direct of indirect eigendom is van of wordt beheerd door de Staat, heeft een onafhankelijke rechtspositie op het vlak van bestuur, administratief beheer en interne administratieve, economische en boekhoudkundige controle, volgens welke hij in het bijzonder beschikt over een vermogen, een begroting en een boekhouding die gescheiden zijn van die van de Staat.
 
-#### Artikel 29b
+##### Artikel 29b
 
 1. Indien een vervoerder onder de directe of indirecte zeggenschap staat van een onderneming of een andere entiteit die andere spoorvervoerdiensten dan stads-, voorstads- en regionale diensten verricht of integreert, worden de winst-en-verliesrekeningen en balansen gescheiden opgesteld en gepubliceerd voor zover het betreft enerzijds activiteiten met betrekking tot de levering van vervoerdiensten door die vervoerder en anderzijds activiteiten met betrekking tot de levering van vervoerdiensten door die onderneming of andere entiteit.
 

@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregel bijzondere tandheelkunde instellingen"
 identifier: "BWBR0051226"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051226"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051226"
+soort: "zbo"
+stam_id: "17468963"
+version_id: "30809312"
+internal_id: "C44156331"
+label_id: "17371304"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051226/2026-01-01/0"
+intitule_bron: "Stcrt.2025-23465"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-07-02"
+intitule_published: "2025-07-10"
+intitule_in_force: "2025-07-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-23465"
+original_signed_date: "2025-07-02"
+original_published_date: "2025-07-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-23465"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051226&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051226&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2025-07-02"
+entry_into_force: "2026-01-01"
 ---
-
 # Beleidsregel bijzondere tandheelkunde instellingen
 
 Gelet op [artikel 57, eerste lid, onderdelen b en c, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot het uitoefenen van de bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen.
@@ -16,7 +41,7 @@ Gelet op [artikel 52, aanhef en onderdeel e, van de Wmg](https://wetten.overheid
 
 Gelet op [artikel 59, aanhef en onder b, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=59), heeft de Minister van Volksgezondheid, Welzijn en Sport (VWS) met de brief van 12 juli 2012 ([kenmerk MC-U-3122855](https://wetten.overheid.nl/jci1.3:c:BWBR0031816)) ten behoeve van voorliggende beleidsregel een aanwijzing op grond van [artikel 7 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7) aan de NZa gegeven.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
@@ -36,15 +61,15 @@ In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
 - –. intraveneuze sedatie en algehele anesthesie.
 
-#### Artikel 2. Doel van de beleidsregel
+##### Artikel 2. Doel van de beleidsregel
 
 Het doel van deze beleidsregel is om vast te leggen op welke wijze de NZa gebruik maakt van haar bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen op het gebied van bijzondere tandheelkunde.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze beleidsregel is van toepassing op bijzondere tandheelkundige zorg als omschreven bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) (Zvw) en de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) (Wlz) die wordt geleverd door instellingen voor bijzondere tandheelkunde, zoals omschreven in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051226&artikel=1&z=2026-01-01&g=2026-01-01) van deze beleidsregel.
 
-#### Artikel 4. Prestatiebeschrijvingen
+##### Artikel 4. Prestatiebeschrijvingen
 
 In het kader van deze beleidsregel worden de volgende prestatiebeschrijvingen onderscheiden:
 
@@ -56,7 +81,7 @@ In het kader van deze beleidsregel worden de volgende prestatiebeschrijvingen on
 
 - –. Intraveneuze sedatie (X611).
 
-#### Artikel 5. Totstandkoming tarieven
+##### Artikel 5. Totstandkoming tarieven
 
 Om rechtsgeldig een individueel vast tijdstarief mondzorg aan bijzondere zorggroepen (prestatiecode X731) in rekening te kunnen brengen moet de instelling voor bijzondere tandheelkunde hiervoor een tariefbeschikking van de Nederlandse Zorgautoriteit (NZa) hebben gekregen. Hiertoe dient de instelling jaarlijks, samen met de representerende zorgverzekeraars, een tariefverzoek in op basis van de begroting (van verwachte kosten en productie). Uitgangspunt is dat de instelling voor bijzondere tandheelkunde hulp verleent zonder winstoogmerk. Dit betekent dat het individueel vast tijdstarief mondzorg aan bijzondere zorggroepen als uitgangspunt heeft de aanvaardbare werkelijke kosten te dekken. Tot de aanvaardbare kostenposten kunnen worden gerekend:
 
@@ -317,7 +342,7 @@ Kosten voor het maken en beoordelen van (röntgen)foto’s kunnen separaat tegen
 
 Zowel de kosten voor intraveneuze sedatie als voor algehele anesthesie kunnen tegen de werkelijke kosten (via prestatiecode A20) worden gedeclareerd, voor zover deze niet voor rekening komen van het ziekenhuis of de anesthesist of met het individueel tijdstarief anesthesie (X631) of het individueel tarief sedatie (X611) in rekening worden gebracht.
 
-#### Artikel 6. Rente
+##### Artikel 6. Rente
 
 Bij de vaststelling van de aanvaardbare kosten wordt rente over eigen vermogen niet en rente over vreemd vermogen wel in aanmerking genomen. Over het vreemde vermogen wordt de in te calculeren rente als volgt berekend.
 
@@ -327,7 +352,7 @@ In afwijking van het vorenstaande wordt in het geval dat vreemd vermogen wordt a
 
 Voorts worden bij de bepaling van de aanvaardbare kosten de doorberekende rentekosten in mindering gebracht.
 
-#### Artikel 7. Afschrijving
+##### Artikel 7. Afschrijving
 
 De in de aanvaardbare kosten op te nemen afschrijvingskosten worden gebaseerd op de historische kostprijs.
 
@@ -366,7 +391,7 @@ Overname van een instelling door een andere rechtspersoon en verandering van rec
 
 Aanloopkosten, waaronder worden verstaan lopende uitgaven, zoals salarissen, opleidingskosten, etc., welke worden gemaakt reeds voordat de instelling in gebruik wordt genomen, dienen te worden geactiveerd en moeten volgens de richtlijn in 40 jaar worden afgeschreven.
 
-#### Artikel 8. Bouwrente
+##### Artikel 8. Bouwrente
 
 Indien een instelling geheel wordt vernieuwd, is het geoorloofd een bedrag in te calculeren. Dit bedrag dient ter gedeeltelijke dekking van de rente tijdens de bouw, die in mindering dient te worden gebracht van de investeringskosten van de nieuwbouw.
 
@@ -376,7 +401,7 @@ Indien dus door één rechtspersoon meerdere instellingen worden geëxploiteerd,
 
 Bouwrente wordt ingecalculeerd vanaf het moment dat daadwerkelijk met de bouw een aanvang wordt gemaakt.
 
-#### Artikel 9. Indexering van huur en erfpacht
+##### Artikel 9. Indexering van huur en erfpacht
 
 In afwijking van het aan de richtlijnen afschrijving en rente ten grondslag liggende uitgangspunt van de historische kostprijs, is een indexering van de kosten van huur en erfpacht van onroerend goed aanvaardbaar, mits aan de volgende voorwaarden wordt voldaan. Deze voorwaarden zijn:
 
@@ -398,20 +423,20 @@ De gehanteerde indexering mag ten hoogste bedragen:
 
 Voor de toepassing van deze richtlijn geldt dat overname van een instelling door een andere rechtspersoon, wijzigingen van rechtsovername of andere juridische constructie alleen, niet kunnen leiden tot een wijziging van de aanvaardbare kosten of tarieven van een instelling van gezondheidszorg. In twijfelgevallen is de strekking van de richtlijn doorslaggevend.
 
-#### Artikel 10. Intrekking oude beleidsregel
+##### Artikel 10. Intrekking oude beleidsregel
 
 Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt de [Beleidsregel bijzondere tandheelkunde instellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0050016) met kenmerk BR/REG-25115 ingetrokken.
 
-#### Artikel 11. Toepasselijkheid voorafgaande beleidsregel
+##### Artikel 11. Toepasselijkheid voorafgaande beleidsregel
 
 De [Beleidsregel bijzondere tandheelkunde instellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0050016), met kenmerk BR/REG-25115, blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die beleidsregel en die betrekking hebben op de periode waarvoor die beleidsregel gold.
 
-#### Artikel 12. Inwerkingtreding / Bekendmaking
+##### Artikel 12. Inwerkingtreding / Bekendmaking
 
 Deze beleidsregel treedt in werking met ingang van 1 januari 2026.
 
 Ingevolge [artikel 5, aanhef en onder e, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5), zal deze beleidsregel in de Staatscourant worden geplaatst. Deze beleidsregel ligt ter inzage bij de NZa en is te raadplegen op [www.nza.nl](http://www.nza.nl/).
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel bijzondere tandheelkunde instellingen.

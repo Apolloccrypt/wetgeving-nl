@@ -1,13 +1,35 @@
 ---
 title: "Aanvullende Overeenkomst betreffende de geldigheid voor het Vorstendom Liechtenstein van de Overeenkomst tussen de Lid-Staten van de Europese Gemeenschap voor Kolen en Staal en de Zwitserse Bondsstaat van 22 juli 1972"
 identifier: "BWBV0004730"
-categorie: "Internationaal recht"
-publicatiedatum: 2009-12-22
-laatste_update: 2009-12-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004730"
+country: "nl"
+rank: "verdrag"
+publication_date: "2009-12-22"
+last_updated: "2009-12-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004730"
+soort: "verdrag"
+stam_id: "10004283473"
+version_id: "10004477702"
+internal_id: "C10006983421"
+label_id: "10004268334"
+dtd_version: "2.0"
+original_entry_into_force: "2009-12-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004730/2009-12-22/0"
+intitule_bron: "Trb.2010-282"
+intitule_effect: "intrekking-regeling"
+intitule_published: "2010-11-26"
+intitule_in_force: "2010-11-26"
+intitule_status: "vervallen"
+original_publication: "Trb.2010-282"
+original_published_date: "2010-11-26"
+original_effect: "intrekking-regeling"
+original_url_id: "trb-2010-282"
+entry_into_force_date: "2009-12-22"
+jci_1_3: "jci1.3:c:BWBV0004730&z=2009-12-22&g=2009-12-22"
+jci_1_0: "1.0:c:BWBV0004730&g=2009-12-22"
+citeertitel_status: "redactioneel"
+entry_into_force: "2009-12-22"
 ---
-
 # Aanvullende Overeenkomst betreffende de geldigheid voor het Vorstendom Liechtenstein van de Overeenkomst tussen de Lid-Staten van de Europese Gemeenschap voor Kolen en Staal en de Zwitserse Bondsstaat van 22 juli 1972
 
 Het Koninkrijk België,
@@ -42,15 +64,15 @@ Overwegende dat het Vorstendom Liechtenstein de wens te kennen heeft gegeven dat
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 Vervallen
 
-#### Artikel 2
+##### Artikel 2
 
 Vervallen
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 

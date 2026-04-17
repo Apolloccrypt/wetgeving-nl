@@ -1,13 +1,35 @@
 ---
-title: "Militair keuringsreglement"
+title: "Besluit van 16 augustus 1960, houdende vaststelling van een nieuw reglement op het geneeskundige onderzoek omtrent de geschiktheid voor de militaire dienst"
 identifier: "BWBR0002346"
-categorie: "Bestuursrecht"
-publicatiedatum: 1986-01-01
-laatste_update: 1986-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002346"
+country: "nl"
+rank: "amvb"
+publication_date: "1986-01-01"
+last_updated: "1986-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002346"
+soort: "AMvB"
+stam_id: "657983"
+version_id: "956212"
+internal_id: "C956211"
+label_id: "638204"
+dtd_version: "2.0"
+original_entry_into_force: "1960-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002346/1986-01-01/0"
+intitule_bron: "Stb.1960-370"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1960-08-16"
+intitule_status: "goed"
+original_publication: "Stb.1960-370"
+original_signed_date: "1960-08-16"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1960-10-10"
+jci_1_3: "jci1.3:c:BWBR0002346&z=1986-01-01&g=1986-01-01"
+jci_1_0: "1.0:c:BWBR0002346&g=1986-01-01"
+citeertitel_status: "officieel"
+short_title: "Militair keuringsreglement"
+signed_date: "1960-08-16"
+entry_into_force: "1960-10-10"
 ---
-
 # Besluit van 16 augustus 1960, houdende vaststelling van een nieuw reglement op het geneeskundige onderzoek omtrent de geschiktheid voor de militaire dienst
 
 Op de voordracht van Onze minister van defensie van 4 juni 1960, no. 659797/657959;
@@ -46,7 +68,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Inleidende bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. De geschiktheid of ongeschiktheid voor de militaire dienst in verband met ziekten of gebreken wordt onderzocht en beoordeeld naar de bepalingen van dit besluit.
 
@@ -54,7 +76,7 @@ Hebben goedgevonden en verstaan:
 
 3. Zij, die de vereiste geschiktheid missen, doch te wier aanzien een heelkundige kunstbewerking uitzicht zou geven op het verkrijgen of herkrijgen van de geschiktheid, worden ongeschikt geacht, indien zij er niet in toestemmen die kunstbewerking te ondergaan.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit verstaat onder:
 
@@ -62,7 +84,7 @@ Dit besluit verstaat onder:
 
 - b. afwijking: een der ziekten of gebreken, vermeld in de bijlage van dit besluit.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Voor de toepassing van dit besluit worden de te onderzoeken personen onderscheiden in twee groepen, te weten:
 
@@ -78,7 +100,7 @@ onder groep B: indien het gaat om de geschiktheid als vrijwilliger.
 
 ### Hoofdstuk 2. Keuring van groep A (dienstplichtigen enz.)
 
-#### Artikel 4
+##### Artikel 4
 
 1. Personen van groep A worden ongeschikt geacht, indien zij:
 
@@ -94,7 +116,7 @@ onder groep B: indien het gaat om de geschiktheid als vrijwilliger.
 
 #### A. Algemeen
 
-#### Artikel 5
+##### Artikel 5
 
 1. Personen van groep B worden ongeschikt geacht voor de dienst bij het korps, het wapen, de dienstgroep, het dienstvak - of onderdeel daarvan - of dergelijke, waarvoor zij in aanmerking wensen te komen, indien zij:
 
@@ -110,7 +132,7 @@ onder groep B: indien het gaat om de geschiktheid als vrijwilliger.
 
 #### B. Gegadigden van groep B (vrijwilligers enz.) met beperkte geschiktheid
 
-#### Artikel 6
+##### Artikel 6
 
 1. Onze minister kan bepalen, dat een gegadigde kan volstaan met een door Onze minister aan te geven lagere graad van geschiktheid dan zou worden geëist volgens [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002346&hoofdstuk=3&paragraaf=A&artikel=5&z=1986-01-01&g=1986-01-01), mits moet worden verwacht, dat de beperkte geschiktheid de gegadigde niet zal verhinderen de aldaar bedoelde dienst naar behoren te verrichten zonder zijn gezondheid of die van anderen te schaden.
 
@@ -120,7 +142,7 @@ onder groep B: indien het gaat om de geschiktheid als vrijwilliger.
 
 #### A. Personen van groep B (vrijwilligers enz.) niet verplicht tot doorlopende werkelijke dienst
 
-#### Artikel 7
+##### Artikel 7
 
 1. Personen van groep B, wier dienstverband niet tot doorlopende werkelijke dienst verplicht, worden ongeschikt geacht voor de dienst bij het korps, het wapen, de dienstgroep, het dienstvak - of onderdeel daarvan - of dergelijke, waarvoor zij zich hebben verbonden of waarbij zij zijn benoemd, indien zij zijn komen te verkeren in een der gevallen, bedoeld in [het eerste lid van artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002346&hoofdstuk=3&paragraaf=A&artikel=5&z=1986-01-01&g=1986-01-01), tenzij herstel van de tekortkoming, welke die ongeschiktheid zou veroorzaken, binnen korte tijd mogelijk moet worden geacht.
 
@@ -130,7 +152,7 @@ onder groep B: indien het gaat om de geschiktheid als vrijwilliger.
 
 #### B. Personen van groep B (vrijwilligers enz.), verplicht tot doorlopende werkelijke dienst
 
-#### Artikel 8
+##### Artikel 8
 
 1. Personen van groep B, wier dienstverband tot doorlopende werkelijke dienst verplicht, worden, ongeacht of zij al of niet reeds in werkelijke dienst zijn of zijn geweest, ongeschikt geacht voor de dienst bij het korps, het wapen, de dienstgroep, het dienstvak - of onderdeel daarvan - of dergelijke, waarvoor zij zich hebben verbonden of waarbij zij zijn benoemd, indien zij een afwijking hebben, welke moet worden geoordeeld ongeneeslijk te zijn of waarvan de genezing vruchteloos is beproefd, onderscheidenlijk indien zij, ook na geneeskundige behandeling, niet meer voldoen aan de bijzondere eisen, bedoeld in [artikel 5, eerste lid onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0002346&hoofdstuk=3&paragraaf=A&artikel=5&z=1986-01-01&g=1986-01-01), tenzij moet worden verwacht, dat die afwijking, onderscheidenlijk het niet voldoen aan die eisen, hen niet zal verhinderen die dienst naar behoren te verrichten zonder hun gezondheid of die van anderen te schaden.
 
@@ -138,17 +160,17 @@ onder groep B: indien het gaat om de geschiktheid als vrijwilliger.
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 9
+##### Artikel 9
 
 Regelen ter uitvoering van dit besluit worden gegeven door of vanwege Onze minister.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Dit besluit kan worden aangehaald onder de titel van "Militair keuringsreglement" of onder de verkorte titel "MKR".
 
 2. De bijlage van dit besluit kan worden aangehaald onder de titel van "Lijst MKR".
 
-#### Artikel 11
+##### Artikel 11
 
 Ons besluit van 24 augustus 1949 (**Stb.** J 404) wordt ingetrokken.
 

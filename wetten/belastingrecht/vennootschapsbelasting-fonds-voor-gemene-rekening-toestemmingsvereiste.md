@@ -1,13 +1,38 @@
 ---
 title: "Vennootschapsbelasting, fonds voor gemene rekening, toestemmingsvereiste"
 identifier: "BWBR0021043"
-categorie: "Belastingrecht"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0021043"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0021043"
+soort: "beleidsregel"
+stam_id: "8874263"
+version_id: "22920782"
+internal_id: "C33145651"
+label_id: "8853664"
+dtd_version: "2.0"
+original_entry_into_force: "2015-12-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0021043/2025-01-01/0"
+intitule_bron: "Stcrt.2007-15"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-01-11"
+intitule_published: "2007-01-22"
+intitule_in_force: "2007-01-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-46505"
+original_signed_date: "2015-12-15"
+original_published_date: "2015-12-24"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2015-46505"
+entry_into_force_date: "2015-12-25"
+jci_1_3: "jci1.3:c:BWBR0021043&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0021043&g=2025-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "2015-12-15"
+entry_into_force: "2015-12-25"
 ---
-
 # Vennootschapsbelasting, fonds voor gemene rekening, toestemmingsvereiste
 
 De Minister van Financiën heeft het volgende besloten:

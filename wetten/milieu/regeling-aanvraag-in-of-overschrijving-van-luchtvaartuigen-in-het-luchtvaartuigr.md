@@ -1,18 +1,42 @@
 ---
 title: "Regeling aanvraag in- of overschrijving van luchtvaartuigen in het luchtvaartuigregister"
 identifier: "BWBR0009492"
-categorie: "Milieu"
-publicatiedatum: 1999-11-05
-laatste_update: 1999-11-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009492"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1999-11-05"
+last_updated: "1999-11-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009492"
+soort: "ministeriele-regeling"
+stam_id: "5233053"
+version_id: "9430792"
+internal_id: "C12637461"
+label_id: "5207494"
+dtd_version: "2.0"
+original_entry_into_force: "1998-03-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009492/1999-11-05/0"
+intitule_bron: "Stcrt.1998-60"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-03-20"
+intitule_published: "1998-03-27"
+intitule_in_force: "1998-03-27"
+intitule_status: "goed"
+original_publication: "Stcrt.1998-60"
+original_signed_date: "1998-03-20"
+original_published_date: "1998-03-27"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1998-03-29"
+jci_1_3: "jci1.3:c:BWBR0009492&z=1999-11-05&g=1999-11-05"
+jci_1_0: "1.0:c:BWBR0009492&g=1999-11-05"
+citeertitel_status: "officieel"
+signed_date: "1998-03-20"
+entry_into_force: "1998-03-29"
 ---
-
 # Regeling aanvraag in- of overschrijving van luchtvaartuigen in het luchtvaartuigregister
 
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Artikel 1. Algemeen
+##### Artikel 1. Algemeen
 
 1. Bij de aanvraag voor de inschrijving of overschrijving van een luchtvaartuig in het Nederlandse luchtvaartuigregister moeten de in de volgende artikelen genoemde gegevens worden ingediend.
 
@@ -20,7 +44,7 @@ bron: "https://wetten.overheid.nl/BWBR0009492"
 
 ### Hoofdstuk II. Inschrijving
 
-#### Artikel 2. Gegevens inzake het luchtvaartuig
+##### Artikel 2. Gegevens inzake het luchtvaartuig
 
 1. Bij de aanvraag voor een inschrijving in het luchtvaartuigregister moet een bewijs van eigendom van het luchtvaartuig worden ingediend.
 
@@ -34,7 +58,7 @@ bron: "https://wetten.overheid.nl/BWBR0009492"
 
 - d. een algemene beschrijving van het luchtvaartuig met vermelding van het aantal en type van de motor(en) en de luchtschroef(ven).
 
-#### Artikel 3. Gegevens inzake de aanvrager
+##### Artikel 3. Gegevens inzake de aanvrager
 
 1. Indien de aanvrager een natuurlijk persoon is, moet een niet langer dan zes maanden voor de aanvraag afgegeven, de aanvrager betreffend gewaarmerkt afschrift van de gegevens uit de basisadministratie persoonsgegevens inzake naam, woonadres en nationaliteit, worden ingediend, dan wel een daaraan gelijkwaardig document, afgegeven door de bevoegde autoriteit van de betreffende lidstaat van de Europese Unie of van de betreffende staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte.
 
@@ -58,7 +82,7 @@ bron: "https://wetten.overheid.nl/BWBR0009492"
 
 7. In het geval het in het vijfde lid bedoelde beheer wordt gevoerd door een rechtspersoon, gaat deze verklaring vergezeld van een recent uittreksel uit het handelsregister van de nevenvestiging in Nederland.
 
-#### Artikel 4. Door een houder van een luchtvaartuig ingediende aanvraag
+##### Artikel 4. Door een houder van een luchtvaartuig ingediende aanvraag
 
 1. Indien de aanvrager de houder is van een luchtvaartuig, waarvan de eigenaar een natuurlijk persoon is als bedoeld in [artikel 3, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0009492&hoofdstuk=II&artikel=3&z=1999-11-05&g=1999-11-05), of een rechtspersoon als bedoeld in [artikel 3, eerste lid, onderdeel c, van de Regeling Toezicht Luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&artikel=3), moeten de volgende gegevens worden ingediend:
 
@@ -76,14 +100,14 @@ bron: "https://wetten.overheid.nl/BWBR0009492"
 
 ### Hoofdstuk III. Overschrijving
 
-#### Artikel 5. Gegevens inzake het luchtvaartuig
+##### Artikel 5. Gegevens inzake het luchtvaartuig
 
 Bij de aanvraag tot overschrijving van een luchtvaartuig in het luchtvaartuigregister moeten worden ingediend een door de vorige eigenaar ondertekende verklaring dat het luchtvaartuig is overgegaan in eigendom van de aanvrager onder opgave van diens naam, woonplaats en nationaliteit.
 
-#### Artikel 6. Gegevens inzake de aanvrager of houder
+##### Artikel 6. Gegevens inzake de aanvrager of houder
 
 Met betrekking tot de bij een aanvraag tot overschrijving in te dienen gegevens inzake de aanvrager dan wel de houder van een luchtvaartuig, is het bepaalde in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009492&hoofdstuk=II&artikel=3&z=1999-11-05&g=1999-11-05) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009492&hoofdstuk=II&artikel=4&z=1999-11-05&g=1999-11-05) van overeenkomstige toepassing.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling wordt aangehaald als: Regeling aanvraag in- of overschrijving van luchtvaartuigen in het luchtvaartuigregister.

@@ -1,13 +1,39 @@
 ---
-title: "Besluit artikel 10 overnamerichtlijn"
+title: "Besluit van 5 april 2006 tot uitvoering van artikel 10 van Richtlijn 2004/25/EG van het Europees Parlement en de Raad van de Europese Unie van 21 april 2004 betreffende het openbaar overnamebod (Besluit artikel 10 overnamerichtlijn)"
 identifier: "BWBR0019731"
-categorie: "Bestuursrecht"
-publicatiedatum: 2015-11-01
-laatste_update: 2015-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019731"
+country: "nl"
+rank: "amvb"
+publication_date: "2015-11-01"
+last_updated: "2015-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019731"
+soort: "AMvB"
+stam_id: "8226873"
+version_id: "13032502"
+internal_id: "C17864661"
+label_id: "8207974"
+dtd_version: "2.0"
+original_entry_into_force: "2006-12-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019731/2015-11-01/0"
+intitule_bron: "Stb.2006-191"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-04-05"
+intitule_published: "2006-04-20"
+intitule_in_force: "2006-06-27"
+intitule_status: "goed"
+original_publication: "Stb.2006-191"
+original_signed_date: "2006-04-05"
+original_published_date: "2006-04-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2006-191"
+entry_into_force_date: "2006-12-31"
+jci_1_3: "jci1.3:c:BWBR0019731&z=2015-11-01&g=2015-11-01"
+jci_1_0: "1.0:c:BWBR0019731&g=2015-11-01"
+citeertitel_status: "officieel"
+short_title: "Besluit artikel 10 overnamerichtlijn"
+signed_date: "2006-04-05"
+entry_into_force: "2006-12-31"
 ---
-
 # Besluit van 5 april 2006 tot uitvoering van artikel 10 van Richtlijn 2004/25/EG van het Europees Parlement en de Raad van de Europese Unie van 21 april 2004 betreffende het openbaar overnamebod (Besluit artikel 10 overnamerichtlijn)
 
 Op de voordracht van Onze Minister van Justitie van 8 juli 2005, nr. 5362278/05/6;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister van Justitie van 28 maart 2006, Direc
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 1. In het bestuursverslag van een vennootschap, waarvan aandelen of met medewerking van de vennootschap uitgegeven certificaten van aandelen zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368), wordt mededeling gedaan omtrent:
 
@@ -50,11 +76,11 @@ Hebben goedgevonden en verstaan:
 
 3. Het eerste lid is niet van toepassing op een beleggingsmaatschappij of maatschappij voor collectieve belegging in effecten in de zin van [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), waarvan de rechten van deelneming, op verzoek van de deelnemers, ten laste van de activa van deze beleggingsmaatschappij of maatschappij voor collectieve belegging in effecten direct of indirect worden ingekocht of terugbetaald.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit wordt aangehaald als: Besluit artikel 10 overnamerichtlijn.
 

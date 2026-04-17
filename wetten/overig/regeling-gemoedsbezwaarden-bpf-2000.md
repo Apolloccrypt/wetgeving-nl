@@ -1,24 +1,48 @@
 ---
 title: "Regeling gemoedsbezwaarden Bpf 2000"
 identifier: "BWBR0012078"
-categorie: "Overig"
-publicatiedatum: 2001-01-01
-laatste_update: 2001-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012078"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2001-01-01"
+last_updated: "2001-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012078"
+soort: "ministeriele-regeling"
+stam_id: "3572863"
+version_id: "5356022"
+internal_id: "C5549111"
+label_id: "3552904"
+dtd_version: "2.0"
+original_entry_into_force: "2001-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012078/2001-01-01/0"
+intitule_bron: "Stcrt.2000-251"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-12-21"
+intitule_published: "2000-12-28"
+intitule_in_force: "2000-12-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2000-251"
+original_signed_date: "2000-12-21"
+original_published_date: "2000-12-28"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2001-01-01"
+jci_1_3: "jci1.3:c:BWBR0012078&z=2001-01-01&g=2001-01-01"
+jci_1_0: "1.0:c:BWBR0012078&g=2001-01-01"
+citeertitel_status: "officieel"
+signed_date: "2000-12-21"
+entry_into_force: "2001-01-01"
 ---
-
 # Regeling gemoedsbezwaarden Bpf 2000
 
 Gelet op [artikel 14, tweede lid, van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=14);
 
 Besluit:
 
-#### Artikel 1. De aanvraag
+##### Artikel 1. De aanvraag
 
 De aanvraag tot vrijstelling van de verplichtstelling van een persoon die gemoedsbezwaren heeft tegen iedere vorm van verzekering alsmede van een rechtspersoon waarbij natuurlijke personen betrokken zijn, die zodanige bezwaren hebben, bedoeld in [artikel 14, eerste lid, van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=14), geschiedt door indiening van een door de aanvrager ondertekende verklaring. Deze verklaring houdt ten minste in dat de aanvrager overwegende gemoedsbezwaren heeft tegen elke vorm van verzekering en mitsdien noch zichzelf, noch iemand anders, noch zijn eigendommen heeft verzekerd. Uit een door een werkgever ingediende verklaring moet voorts blijken of deze ook gemoedsbezwaren heeft tegen de nakoming van de hem als werkgever opgelegde verplichtingen.
 
-#### Artikel 2. Aanvraag betreffende een rechtspersoon
+##### Artikel 2. Aanvraag betreffende een rechtspersoon
 
 1. Indien de aanvraag een rechtspersoon betreft, wordt de aanvraag ingediend door het op grond van de wet of op grond van de statuten van de rechtspersoon daartoe bevoegde orgaan.
 
@@ -30,13 +54,13 @@ De aanvraag tot vrijstelling van de verplichtstelling van een persoon die gemoed
 
 - b. een gewaarmerkt afschrift van de notulen van de vergadering waarin het besluit tot het aanvragen van de vrijstelling is opgenomen.
 
-#### Artikel 3. Indienen van de aanvraag
+##### Artikel 3. Indienen van de aanvraag
 
 1. De in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012078&artikel=1&z=2001-01-01&g=2001-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0012078&artikel=2&z=2001-01-01&g=2001-01-01) bedoelde verklaring wordt ingediend bij het bedrijfstakpensioenfonds.
 
 2. Het bedrijfstakpensioenfonds onderzoekt of de verklaring overeenkomstig de waarheid is.
 
-#### Artikel 4. Verlenen van de aanvraag
+##### Artikel 4. Verlenen van de aanvraag
 
 1. Indien de verklaring naar de mening van het bedrijfstakpensioenfonds overeenkomstig de waarheid is, verleent deze de vrijstelling.
 
@@ -44,13 +68,13 @@ De aanvraag tot vrijstelling van de verplichtstelling van een persoon die gemoed
 
 3. Aan een werkgever die heeft verklaard geen gemoedsbezwaren te hebben tegen de nakoming van de hem als werkgever opgelegde verplichtingen, kan op die grond een vrijstelling van de hem anders dan in zijn hoedanigheid van werkgever opgelegde verplichtingen niet worden geweigerd.
 
-#### Artikel 5. Bewijs van vrijstelling
+##### Artikel 5. Bewijs van vrijstelling
 
 1. Van de verleende vrijstelling wordt door het bedrijfstakpensioenfonds een bewijs uitgereikt.
 
 2. De persoon of rechtspersoon die is vrijgesteld van zijn verplichtingen als werkgever, is verplicht te zorgen dat het hem uitgereikte bewijs van vrijstelling of een afschrift daarvan wordt en blijft opgehangen op een plaats, welke vrij toegankelijk is voor alle in zijn dienst zijnde werknemers en waar deze geregeld plegen te komen, op zodanig wijze, dat van hetgeen op het desbetreffende stuk staat vermeld, gemakkelijk kan worden kennisgenomen.
 
-#### Artikel 6. Spaarbijdragen
+##### Artikel 6. Spaarbijdragen
 
 1. De persoon of rechtspersoon die is vrijgesteld, betaalt dezelfde bijdragen welke hij verschuldigd zou zijn indien hij geen vrijstelling had, aan het bedrijfstakpensioenfonds in de vorm van spaarbijdragen. In de statuten en reglementen wordt geregeld waarop deze spaarbijdragen recht geven.
 
@@ -60,13 +84,13 @@ De aanvraag tot vrijstelling van de verplichtstelling van een persoon die gemoed
 
 4. Indien een werknemer die niet is vrijgesteld en in dienst is van een werkgever die wel is vrijgesteld, daartoe aan het bedrijfstakpensioenfonds een verzoek doet, worden de door de werkgever reeds betaalde spaarbijdragen en door het bedrijfstakpensioenfonds nog niet uitgekeerde, alsmede de door de werkgever nog verschuldigde spaarbijdragen omgezet in evenredige pensioenaanspraken ten behoeve van die werknemer. De laatste zin van het derde lid is van overeenkomstige toepassing.
 
-#### Artikel 7. Spaarrekening
+##### Artikel 7. Spaarrekening
 
 1. De op grond van [artikel 6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012078&artikel=6&z=2001-01-01&g=2001-01-01), ten behoeve van een persoon betaalde spaarbijdragen worden door of namens het bedrijfstakpensioenfonds geboekt op een die persoon betreffende spaarrekening.
 
 2. In de statuten of reglementen van het bedrijfstakpensioenfonds wordt aangegeven in welke gevallen en tot welke bedragen de persoon ten name van wie de spaarbijdragen zijn betaald, gerechtigd is gelden daarvan op te nemen.
 
-#### Artikel 8. Uit dienst treden werknemer
+##### Artikel 8. Uit dienst treden werknemer
 
 In de statuten of reglementen van het bedrijfstakpensioenfonds worden afzonderlijk de gevolgen geregeld van het uit dienst treden van een werknemer die niet is vrijgesteld, bij een werkgever die wel is vrijgesteld, indien:
 
@@ -76,7 +100,7 @@ In de statuten of reglementen van het bedrijfstakpensioenfonds worden afzonderli
 
 - c. ten aanzien van die werknemer geen enkele pensioenregeling van toepassing wordt.
 
-#### Artikel 9. Intrekken en vervallen van de vrijstelling
+##### Artikel 9. Intrekken en vervallen van de vrijstelling
 
 1. Een vrijstelling wordt door het bedrijfstakpensioenfonds ingetrokken:
 
@@ -90,11 +114,11 @@ In de statuten of reglementen van het bedrijfstakpensioenfonds worden afzonderli
 
 4. In de statuten of reglementen van het bedrijfstakpensioenfonds worden de gevolgen geregeld van de intrekking of het vervallen van een vrijstelling.
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2001.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling gemoedsbezwaarden Bpf 2000.
 

@@ -1,13 +1,36 @@
 ---
 title: "Omscholing algemene natuurwetenschappen (anw)"
 identifier: "BWBR0010503"
-categorie: "Milieu"
-publicatiedatum: 1999-07-14
-laatste_update: 1999-07-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010503"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "1999-07-14"
+last_updated: "1999-07-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010503"
+soort: "beleidsregel"
+stam_id: "6510013"
+version_id: "11205952"
+internal_id: "C15136261"
+label_id: "6498544"
+original_entry_into_force: "1999-07-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010503/1999-07-14/0"
+intitule_bron: "Uitleg.1999-18b"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-06-04"
+intitule_published: "1999-07-14"
+intitule_in_force: "1999-07-14"
+intitule_status: "goed"
+original_publication: "Uitleg.1999-18b"
+original_signed_date: "1999-06-04"
+original_published_date: "1999-07-14"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1999-07-14"
+jci_1_3: "jci1.3:c:BWBR0010503&z=1999-07-14&g=1999-07-14"
+jci_1_0: "1.0:c:BWBR0010503&g=1999-07-14"
+citeertitel_status: "redactioneel"
+signed_date: "1999-06-04"
+entry_into_force: "1999-07-14"
 ---
-
 # Omscholing algemene natuurwetenschappen (anw)
 
 ### 1. Inleiding

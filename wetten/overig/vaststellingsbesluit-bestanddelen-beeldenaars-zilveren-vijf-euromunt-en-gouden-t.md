@@ -1,13 +1,38 @@
 ---
-title: "Vaststellingsbesluit bestanddelen beeldenaars zilveren vijf-euromunt en gouden tien-euromunt (naar aanleiding van Nederlandse voorzitterschap Europese Unie)"
+title: "Besluit van 8 juni 2004, houdende vaststelling van de bestanddelen van de beeldenaars van de zilveren vijf-euromunt en de gouden tien-euromunt die in 2004 worden uitgegeven naar aanleiding van het Nederlandse voorzitterschap van de Europese Unie"
 identifier: "BWBR0016841"
-categorie: "Overig"
-publicatiedatum: 2004-06-25
-laatste_update: 2004-06-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0016841"
+country: "nl"
+rank: "kb"
+publication_date: "2004-06-25"
+last_updated: "2004-06-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0016841"
+soort: "KB"
+stam_id: "5924853"
+version_id: "10509702"
+internal_id: "C23631781"
+label_id: "5914444"
+original_entry_into_force: "2004-06-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0016841/2004-06-25/0"
+intitule_bron: "Stb.2004-277"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-06-08"
+intitule_published: "2004-06-24"
+intitule_in_force: "2004-06-24"
+intitule_status: "goed"
+original_publication: "Stb.2004-277"
+original_signed_date: "2004-06-08"
+original_published_date: "2004-06-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2004-277"
+entry_into_force_date: "2004-06-25"
+jci_1_3: "jci1.3:c:BWBR0016841&z=2004-06-25&g=2004-06-25"
+jci_1_0: "1.0:c:BWBR0016841&g=2004-06-25"
+citeertitel_status: "redactioneel"
+short_title: "Vaststellingsbesluit bestanddelen beeldenaars zilveren vijf-euromunt en gouden tien-euromunt (naar aanleiding van Nederlandse voorzitterschap Europese Unie)"
+signed_date: "2004-06-08"
+entry_into_force: "2004-06-25"
 ---
-
 # Besluit van 8 juni 2004, houdende vaststelling van de bestanddelen van de beeldenaars van de zilveren vijf-euromunt en de gouden tien-euromunt die in 2004 worden uitgegeven naar aanleiding van het Nederlandse voorzitterschap van de Europese Unie
 
 Op de voordracht van de Staatssecretaris van Financiën van 2 juni 2004, FM 2004-00661 M, Generale Thesaurie, Directie Financiële Markten, Afdeling Algemeen en Internationaal;
@@ -18,7 +43,7 @@ Hebben goedgevonden en verstaan:
 
 Besluit ook gepubliceerd in Stcrt. 2004/118.
 
-#### Artikel 1
+##### Artikel 1
 
 1. De beeldenaars van de zilveren vijf-euromunt en de gouden tien-euromunt die in 2004 worden uitgegeven naar aanleiding van het Nederlandse voorzitterschap van de Europese Unie, zijn op de voorzijde, overeenkomstig onderstaande afbeeldingen: Onze beeltenis en onder elkaar de woorden «**Beatrix**» en «**Koningin der Nederlanden**».
 
@@ -34,7 +59,7 @@ Tien-euromunt:
 
 5. De tien-euromunt heeft een fijngeribbelde rand.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 

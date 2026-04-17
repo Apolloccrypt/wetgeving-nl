@@ -1,13 +1,36 @@
 ---
 title: "Wijzigingen BRIN-mutatieprocedure en BRIN-mutatieformulier (BMF)"
 identifier: "BWBR0011359"
-categorie: "Bestuursrecht"
-publicatiedatum: 2000-05-24
-laatste_update: 2000-05-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011359"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2000-05-24"
+last_updated: "2000-05-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011359"
+soort: "beleidsregel"
+stam_id: "6498613"
+version_id: "11185242"
+internal_id: "C15113191"
+label_id: "6487334"
+original_entry_into_force: "2000-05-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011359/2000-05-24/0"
+intitule_bron: "Uitleg.2000-14"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-05-16"
+intitule_published: "2000-05-24"
+intitule_in_force: "2000-05-24"
+intitule_status: "goed"
+original_publication: "Uitleg.2000-14"
+original_signed_date: "2000-05-16"
+original_published_date: "2000-05-24"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2000-05-24"
+jci_1_3: "jci1.3:c:BWBR0011359&z=2000-05-24&g=2000-05-24"
+jci_1_0: "1.0:c:BWBR0011359&g=2000-05-24"
+citeertitel_status: "redactioneel"
+signed_date: "2000-05-16"
+entry_into_force: "2000-05-24"
 ---
-
 # Wijzigingen BRIN-mutatieprocedure en BRIN-mutatieformulier (BMF)
 
 ### Algemeen

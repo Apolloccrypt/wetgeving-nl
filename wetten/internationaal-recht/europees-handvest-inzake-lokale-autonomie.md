@@ -1,13 +1,38 @@
 ---
 title: "Europees Handvest inzake lokale autonomie"
 identifier: "BWBV0002625"
-categorie: "Internationaal recht"
-publicatiedatum: 1991-07-01
-laatste_update: 1991-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002625"
+country: "nl"
+rank: "verdrag"
+publication_date: "1991-07-01"
+last_updated: "1991-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002625"
+soort: "verdrag"
+stam_id: "10002953813"
+version_id: "10002956842"
+internal_id: "C10006978681"
+label_id: "10002940884"
+dtd_version: "2.0"
+original_entry_into_force: "1991-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002625/1991-07-01/0"
+intitule_bron: "Trb.1987-63"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1991-03-20"
+intitule_published: "1987-04-24"
+intitule_in_force: "1991-04-23"
+intitule_status: "goed"
+original_publication: "Trb.1987-63"
+original_signed_date: "1991-03-20"
+original_published_date: "1987-04-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1987-63"
+entry_into_force_date: "1991-07-01"
+jci_1_3: "jci1.3:c:BWBV0002625&z=1991-07-01&g=1991-07-01"
+jci_1_0: "1.0:c:BWBV0002625&g=1991-07-01"
+citeertitel_status: "officieel"
+signed_date: "1991-03-20"
+entry_into_force: "1991-07-01"
 ---
-
 # Europees Handvest inzake lokale autonomie
 
 De Lidstaten van de Raad van Europa die dit Handvest hebben ondertekend,
@@ -30,23 +55,23 @@ Verklarend dat dit het bestaan van lokale autoriteiten noodzakelijk maakt die be
 
 Zijn als volgt overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 De Partijen verbinden zich ertoe zich gebonden te achten door de volgende artikelen op de wijze en in de mate als is voorgeschreven in artikel 12 van dit Handvest.
 
 ## DEEL I
 
-#### Artikel 2. Grondwettelijke en wettelijke grondslag voor lokale autonomie
+##### Artikel 2. Grondwettelijke en wettelijke grondslag voor lokale autonomie
 
 Het beginsel van lokale autonomie dient te worden erkend in de interne wetgeving en waar mogelijk in de grondwet.
 
-#### Artikel 3. Het begrip lokale autonomie
+##### Artikel 3. Het begrip lokale autonomie
 
 1. Lokale autonomie houdt in het recht en het vermogen van lokale autoriteiten, binnen de grenzen van de wet, een belangrijk deel van de openbare aangelegenheden krachtens hun eigen verantwoordelijkheid en in het belang van de plaatselijke bevolking te regelen en te beheren.
 
 2. Dit recht wordt uitgeoefend door raden of vergaderingen waarvan de leden zijn gekozen door middel van vrije, geheime, op gelijkheid berustende, rechtstreekse en algemene verkiezingen, en die over uitvoerende organen kunnen beschikken die aan hen verantwoording zijn verschuldigd. Deze bepaling staat op geen enkele wijze in de weg aan het houden van vergaderingen van burgers, aan een referendum, dan wel aan enige andere vorm van rechtstreekse deelname van de burgers waar dit is toegestaan bij wet.
 
-#### Artikel 4. Reikwijdte van de lokale autonomie
+##### Artikel 4. Reikwijdte van de lokale autonomie
 
 1. De fundamentele bevoegdheden en verantwoordelijkheden van de lokale autoriteiten worden bij de grondwet of bij wet vastgesteld. Deze bepaling verhindert evenwel niet de attributie aan de lokale autoriteiten van bevoegdheden voor bepaalde doeleinden overeenkomstig de wet.
 
@@ -60,17 +85,17 @@ Het beginsel van lokale autonomie dient te worden erkend in de interne wetgeving
 
 6. De lokale autoriteiten dienen, voor zover mogelijk, tijdig en op gepaste wijze te worden geraadpleegd over de planning en de besluitvormingsprocedures aangaande alle zaken die hen rechtstreeks raken.
 
-#### Artikel 5. Bescherming van de territoriale grenzen van de lokale autoriteiten
+##### Artikel 5. Bescherming van de territoriale grenzen van de lokale autoriteiten
 
 Wijzigingen van plaatselijke gebiedsgrenzen worden niet aangebracht zonder vooraf de desbetreffende plaatselijke gemeenschappen te raadplegen, zo mogelijk door middel van een referendum, waar dit wettelijk is toegestaan.
 
-#### Artikel 6. Passende administratieve structuren en middelen ten behoeve van lokale autoriteiten
+##### Artikel 6. Passende administratieve structuren en middelen ten behoeve van lokale autoriteiten
 
 1. Onverminderd meer algemene wettelijke bepalingen kunnen de lokale autoriteiten hun eigen administratieve structuur vaststellen ten einde deze aan de plaatselijke behoeften aan te passen en een doelmatig bestuur te verzekeren.
 
 2. De rechtspositie van personeel bij lokale autoriteiten dient zodanig te zijn dat zij het mogelijk maakt kwalitatief hoogstaand personeel aan te nemen op basis van verdienste en bekwaamheid; hiertoe dienen voldoende opleidingsmogelijkheden, bezoldiging en carrièremogelijkheden te worden geboden.
 
-#### Artikel 7. Voorwaarden waaronder verantwoordelijkheden op lokaal niveau uitgeoefend worden
+##### Artikel 7. Voorwaarden waaronder verantwoordelijkheden op lokaal niveau uitgeoefend worden
 
 1. De rechtspositie van gekozen lokale vertegenwoordigers dient de vrije uitoefening van hun functies te waarborgen.
 
@@ -78,7 +103,7 @@ Wijzigingen van plaatselijke gebiedsgrenzen worden niet aangebracht zonder voora
 
 3. De functies en activiteiten welke onverenigbaar worden geacht met het bekleden van een ambt waarvoor men lokaal gekozen is, worden vastgelegd in de wet of fundamentele rechtsbeginselen.
 
-#### Artikel 8. Administratief toezicht op de activiteiten van de lokale autoriteiten
+##### Artikel 8. Administratief toezicht op de activiteiten van de lokale autoriteiten
 
 1. Elk administratief toezicht op de lokale autoriteiten mag slechts worden uitgeoefend overeenkomstig de procedures en in de gevallen, waarin door de grondwet of de wet is voorzien.
 
@@ -86,7 +111,7 @@ Wijzigingen van plaatselijke gebiedsgrenzen worden niet aangebracht zonder voora
 
 3. Administratief toezicht op lokale autoriteiten dient zodanig te worden uitgeoefend dat er sprake is van evenredigheid tussen de interventie van de toezichthoudende autoriteit en de belangen die deze beoogt te dienen.
 
-#### Artikel 9. Financiële middelen van lokale overheden
+##### Artikel 9. Financiële middelen van lokale overheden
 
 1. De lokale autoriteiten hebben binnen het kader van het nationale economische beleid, recht op voldoende eigen financiële middelen, waarover zij vrijelijk kunnen beschikken bij de uitoefening van hun bevoegdheden.
 
@@ -104,7 +129,7 @@ Wijzigingen van plaatselijke gebiedsgrenzen worden niet aangebracht zonder voora
 
 8. Ten einde te kunnen lenen voor kapitaalsinvesteringen dienen de lokale autoriteiten, binnen de grenzen bij de wet gesteld, toegang tot de nationale kapitaalmarkt te hebben.
 
-#### Artikel 10. Het recht van de lokale autoriteiten zich te organiseren
+##### Artikel 10. Het recht van de lokale autoriteiten zich te organiseren
 
 1. De lokale autoriteiten hebben het recht, bij de uitoefening van hun bevoegdheden, samen te werken en, binnen het kader van de wet, zich te verenigen met andere lokale autoriteiten ten einde taken van gemeenschappelijk belang uit te voeren.
 
@@ -112,13 +137,13 @@ Wijzigingen van plaatselijke gebiedsgrenzen worden niet aangebracht zonder voora
 
 3. De lokale autoriteiten hebben onder voorwaarden welke de wet kan stellen, het recht samen te werken met autoriteiten in andere Staten.
 
-#### Artikel 11. Wettelijke bescherming van lokale autonomie
+##### Artikel 11. Wettelijke bescherming van lokale autonomie
 
 De lokale autoriteiten hebben het recht rechtsmiddelen aan te wenden ten einde de zelfstandige uitoefening van hun bevoegdheden te verzekeren alsmede de eerbiediging van die beginselen van lokale autonomie die zijn vastgelegd in de grondwet of de interne wetgeving.
 
 ## DEEL II. Diverse bepalingen
 
-#### Artikel 12. Verplichtingen
+##### Artikel 12. Verplichtingen
 
 1. Elke Partij verbindt zich ertoe zich gebonden te achten door ten minste twintig bepalingen van Deel I van dit Handvest, waarvan er ten minste tien gekozen dienen te worden uit de volgende bepalingen:
 
@@ -144,17 +169,17 @@ De lokale autoriteiten hebben het recht rechtsmiddelen aan te wenden ten einde d
 
 3. Iedere Partij kan, op ieder later tijdstip, de Secretaris-Generaal ervan in kennis stellen, dat zij zich gebonden acht door enige andere bepaling van dit Handvest die zij nog niet aanvaard heeft krachtens het bepaalde in het eerste lid van dit artikel. Dergelijke verplichtingen die naderhand zijn aangegaan, worden beschouwd als een integrerend deel van de bekrachtiging, aanvaarding of goedkeuring van de Partij die hiervan kennis geeft, en hebben hetzelfde gevolg vanaf de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 13. Autoriteiten waarop dit Handvest van toepassing is
+##### Artikel 13. Autoriteiten waarop dit Handvest van toepassing is
 
 De beginselen van lokale autonomie die vervat zijn in dit Handvest zijn van toepassing op alle categorieën lokale autoriteiten die bestaan binnen het grondgebied van een Partij. Iedere Partij kan echter bij nederlegging van haar akte van bekrachtiging, aanvaarding of goedkeuring de categorieën lokale of regionale autoriteiten aanwijzen waartoe zij de reikwijdte van dit Handvest beoogt te beperken of die zij van de reikwijdte van dit Handvest beoogt uit te sluiten. Zij kan eveneens meer categorieën lokale of regionale autoriteiten onder de werking van het Handvest brengen door middel van een kennisgeving aan de Secretaris-Generaal van de Raad van Europa.
 
-#### Artikel 14. Verschaffing van informatie
+##### Artikel 14. Verschaffing van informatie
 
 Elke Partij doet de Secretaris-Generaal van de Raad van Europa alle ter zake dienende informatie toekomen betreffende wettelijke bepalingen en andere maatregelen die door haar zijn ingevoerd ten einde het bepaalde in dit Handvest na te komen.
 
 ## DEEL III
 
-#### Artikel 15. Ondertekening, bekrachtiging en inwerkingtreding
+##### Artikel 15. Ondertekening, bekrachtiging en inwerkingtreding
 
 1. Dit Handvest staat open voor ondertekening door de Lidstaten van de Raad van Europa. Het dient te worden bekrachtigd, aanvaard of goedgekeurd. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
 
@@ -162,7 +187,7 @@ Elke Partij doet de Secretaris-Generaal van de Raad van Europa alle ter zake die
 
 3. Met betrekking tot elke Lidstaat die nadien ermede instemt gebonden te worden door dit Handvest, treedt dit in werking op de eerste dag van de maand volgend op het verstrijken van een tijdvak van drie maanden na de datum van nederlegging van de akte van bekrachtiging, aanvaarding of goedkeuring.
 
-#### Artikel 16. Bepalingen betreffende de territoriale toepassing
+##### Artikel 16. Bepalingen betreffende de territoriale toepassing
 
 1. Elke Staat kan, ten tijde van de ondertekening of van de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding het gebied of de gebieden aanwijzen waarop dit Handvest van toepassing is.
 
@@ -170,13 +195,13 @@ Elke Partij doet de Secretaris-Generaal van de Raad van Europa alle ter zake die
 
 3. Elke verklaring overeenkomstig de twee voorgaande leden kan, met betrekking tot elk gebied dat in die verklaring wordt genoemd, ingetrokken worden middels kennisgeving gericht aan de Secretaris-Generaal. Deze intrekking wordt van kracht op de eerste dag van de maand volgend op het verstrijken van een tijdvak van zes maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 17. Opzegging
+##### Artikel 17. Opzegging
 
 1. Elke Partij kan dit Handvest opzeggen op ieder gewenst tijdstip na het verstrijken van een tijdvak van vijf jaar na de datum waarop het Handvest voor haar in werking is getreden. Zes maanden tevoren zal hiervan mededeling worden gedaan aan de Secretaris-Generaal van de Raad van Europa. Een zodanige opzegging heeft geen invloed op de geldigheid van het Handvest met betrekking tot de andere Partijen, mits er nimmer minder dan vier Partijen zijn.
 
 2. Elke Partij kan, overeenkomstig het in het voorgaande lid bepaalde, iedere door haar aanvaarde bepaling van Deel I van dit Handvest opzeggen, mits deze Partij gebonden blijft door het aantal en de soort bepalingen, zoals in het eerste lid van artikel 12 is vastgelegd. Elke Partij die, bij opzegging van een door haar aanvaarde bepaling, niet langer voldoet aan de in het eerste lid van artikel 12 gestelde eisen, wordt geacht ook het Handvest zelf opgezegd te hebben.
 
-#### Artikel 18. Kennisgevingen
+##### Artikel 18. Kennisgevingen
 
 De Secretaris-Generaal van de Raad van Europa stelt de Lidstaten van de Raad van Europa in kennis van:
 

@@ -1,13 +1,35 @@
 ---
-title: "Besluit ex artikel 28 Wet aansprakelijkheidsverzekering motorrijtuigen"
+title: "Besluit van 20 februari 1967, houdende regelen tot uitvoering van de Wet op het schadeverzekeringsbedrijf en van artikel 28 van de Wet aansprakelijkheidsverzekering motorrijtuigen"
 identifier: "BWBR0002557"
-categorie: "Bestuursrecht"
-publicatiedatum: 1974-08-01
-laatste_update: 1974-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002557"
+country: "nl"
+rank: "amvb"
+publication_date: "1974-08-01"
+last_updated: "1974-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002557"
+soort: "AMvB"
+stam_id: "405583"
+version_id: "596992"
+internal_id: "C596991"
+label_id: "395874"
+dtd_version: "2.0"
+original_entry_into_force: "1967-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002557/1974-08-01/0"
+intitule_bron: "Stb.1967-112"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1967-02-20"
+intitule_status: "goed"
+original_publication: "Stb.1967-112"
+original_signed_date: "1967-02-20"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1967-03-01"
+jci_1_3: "jci1.3:c:BWBR0002557&z=1974-08-01&g=1974-08-01"
+jci_1_0: "1.0:c:BWBR0002557&g=1974-08-01"
+citeertitel_status: "officieel"
+short_title: "Besluit ex artikel 28 Wet aansprakelijkheidsverzekering motorrijtuigen"
+signed_date: "1967-02-20"
+entry_into_force: "1967-03-01"
 ---
-
 # Besluit van 20 februari 1967, houdende regelen tot uitvoering van de Wet op het schadeverzekeringsbedrijf en van artikel 28 van de Wet aansprakelijkheidsverzekering motorrijtuigen
 
 Op de voordracht van Onze Ministers van Financiën en van Jusitie van 10 januari 1967, nr. A7/383, Generale Thesaurie, Directie Binnenlands Geldwezen;
@@ -24,7 +46,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk I. Bepalingen tot uitvoering van de Wet op het schadeverzekeringsbedrijf
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit hoofdstuk wordt verstaan onder:
 
@@ -34,11 +56,11 @@ onderneming: de onderneming, bedoeld in artikel 1, letter **d**, van de Wet op h
 
 vertegenwoordiger: de vertegenwoordiger, bedoeld in artikel 15, eerste lid, letter **e**, van de Wet op het schadeverzekeringsbedrijf.
 
-#### Artikel 2
+##### Artikel 2
 
 Elke onderneming is verplicht, nadat zij zich overeenkomstig het bepaalde in artikel 5, eerste lid, onderscheidenlijk artikel 52, eerste lid, van de wet bij de Verzekeringskamer heeft aangemeld, elke wijziging in haar statuten of reglementen, alsmede elke wijziging in de akte van aanstelling van haar vertegenwoordiger en in de samenstelling van haar bestuur en haar raad van commissarissen binnen veertien dagen na de totstandkoming daarvan ter kennis van de Verzekeringskamer te brengen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De periodieke uitkeringen, bedoeld in artikel 8, eerste lid, van de wet, zijn alle periodieke uitkeringen met een onbekende looptijd, dan wel met een looptijd langer dan twee jaren, met uitzondering van:
 
@@ -52,7 +74,7 @@ Elke onderneming is verplicht, nadat zij zich overeenkomstig het bepaalde in art
 
 2. De zekerheid, bedoeld in artikel 8, eerste lid, van de wet, moet voor ondernemingen, die op het tijdstip van inwerkingtreding van de wet het schadeverzekeringsbedrijf uitoefenen, worden gesteld binnen een maand nadat artikel 8 van de wet op hen van toepassing is geworden.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De extra-waarborgen, bedoeld in artikel 13, eerste lid, van de wet, worden berekend op de wijze, aangegeven in de staat N3b, waarvan het model is vastgesteld bij Ons besluit van 7 februari 1967 (**Stb.** 111).
 
@@ -60,7 +82,7 @@ De berekening en de waardering van de in deze staat vermelde activa en passiva b
 
 2. Het bedrag, bedoeld in artikel 13, derde lid, van de wet, bedraagt vierhonderdvijftigduizend gulden.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De zekerheid, bedoeld in artikel 15, eerste lid, letter **c**, van de wet, bedraagt vierhonderdvijftigduizend gulden.
 
@@ -68,7 +90,7 @@ De berekening en de waardering van de in deze staat vermelde activa en passiva b
 
 Indien binnen deze termijn de zekerheid niet is gesteld, wordt de aanmelding geacht te zijn vervallen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De zekerheid, bedoeld in de artikelen 8, eerste lid, en 15, eerste lid, letter **c**, der wet, kan slechts worden gesteld in de volgende waarden:
 
@@ -92,7 +114,7 @@ Indien binnen deze termijn de zekerheid niet is gesteld, wordt de aanmelding gea
 
 2. De in het eerste lid bedoelde waarden behoeven, zowel wat aard als wat waardering betreft, de goedkeuring van de Verzekeringskamer.
 
-#### Artikel 6a
+##### Artikel 6a
 
 1. De effecten, het schatkistpapier en de schriftelijke schuldbekentenissen terzake van de schuldvorderingen op naam der onderneming, welke door de Verzekeringskamer zijn goedgekeurd, worden toevertrouwd aan De Nederlandsche Bank N.V. of aan een andere, door de Verzekeringskamer goedgekeurde bankinstelling in Nederland, en wel tenzij een overeenkomst als bedoeld in het volgende lid wordt aangegaan, in open bewaring.
 
@@ -114,7 +136,7 @@ Indien binnen deze termijn de zekerheid niet is gesteld, wordt de aanmelding gea
 
 8. In geschriften ter uitvoering van dit artikel verwijst de bankinstelling, onderscheidenlijk de effectenbewaarinstelling, naar de voorschriften van de leden 3-6.
 
-#### Artikel 7
+##### Artikel 7
 
 Inschrijvingen in aandeelhoudersregisters en in schuldregisters, als bedoeld in [artikel 6, eerste lid, letter **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002557&hoofdstuk=I&artikel=6&z=1974-08-01&g=1974-08-01), keurt de Verzekeringskamer als waarden slechts goed onder voorwaarde:
 
@@ -128,7 +150,7 @@ Inschrijvingen in aandeelhoudersregisters en in schuldregisters, als bedoeld in 
 
 - b. dat de onderneming ten aanzien van de inschrijving en, zo zij een kennisgeving, als bedoeld onder letter **a**, 2°, heeft ontvangen, mede ten aanzien van dividend, claims, bonus-aandelen en dergelijke, onderscheidenlijk rente geen overeenkomst sluit noch enigerlei rechtshandeling verricht zonder schriftelijke machtiging van de Verzekeringskamer.
 
-#### Artikel 8
+##### Artikel 8
 
 Schuldvorderingen op naam der onderneming, als in [artikel 6, eerste lid, letter **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0002557&hoofdstuk=I&artikel=6&z=1974-08-01&g=1974-08-01), bedoeld, kunnen door de Verzekeringskamer als waarden worden goedgekeurd, mits van de schuldvordering uit een schriftelijke schuldbekentenis of andere akte blijkt en in die schuldbekentenis of akte dan wel in een nadere schriftelijke overeenkomst is opgenomen:
 
@@ -142,11 +164,11 @@ Schuldvorderingen op naam der onderneming, als in [artikel 6, eerste lid, letter
 
 - e. dat aflossingen en rentebetalingen, verricht in strijd met het bepaalde onder **a** en **b**, niet in mindering komen op de schuldvordering.
 
-#### Artikel 9
+##### Artikel 9
 
 De onderneming legt aan de Verzekeringskamer de bewijzen over, dat aan het bepaalde in [de artikelen 5, tweede lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002557&hoofdstuk=I&artikel=5&z=1974-08-01&g=1974-08-01), [6**a**, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002557&hoofdstuk=I&artikel=6a&z=1974-08-01&g=1974-08-01), [7, letter **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002557&hoofdstuk=I&artikel=7&z=1974-08-01&g=1974-08-01), en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002557&hoofdstuk=I&artikel=8&z=1974-08-01&g=1974-08-01) is voldaan.
 
-#### Artikel 10
+##### Artikel 10
 
 Onroerende goederen keurt de Verzekeringskamer als waarde slechts goed onder voorwaarde dat zonder haar schriftelijke machtiging:
 
@@ -156,7 +178,7 @@ Onroerende goederen keurt de Verzekeringskamer als waarde slechts goed onder voo
 
 - c. verhuringen niet voor langer dan tien jaren geschieden.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Van de goedkeuring van een hypothecaire vordering of van een onroerend goed doet de Verzekeringskamer onverwijld mededeling aan de bewaarder der hypotheken van de kring, waar het betrokken goed is gelegen.
 
@@ -166,7 +188,7 @@ Deze tekent in de openbare registers aan, dat zonder schriftelijke machtiging va
 
 3. Van de door hem ingevolge dit artikel in de openbare registers gestelde aantekeningen doet de bewaarder der hypotheken mededeling aan de Verzekeringskamer. Hij haalt deze aantekeningen geheel of gedeeltelijk door op schriftelijk verzoek van de Verzekeringskamer.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Het gedeelte van de geboekte bruto-premie, bedoeld in [artikel 15, eerste lid, letter **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0002557&hoofdstuk=II&artikel=15&z=1974-08-01&g=1974-08-01), van de wet, bedraagt:
 
@@ -180,7 +202,7 @@ Deze tekent in de openbare registers aan, dat zonder schriftelijke machtiging va
 
 ### Hoofdstuk II. Bepalingen tot uitvoering van de [Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415)
 
-#### Artikel 13
+##### Artikel 13
 
 Voor de toepassing van dit hoofdstuk wordt verstaan onder:
 
@@ -188,23 +210,23 @@ de wet: de [Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.ove
 
 verzekeraar: de verzekeraar, bedoeld in [artikel 2, vijfde lid, van de Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=2).
 
-#### Artikel 14
+##### Artikel 14
 
 1. Een verzoek om toelating als verzekeraar aan Onze Minister van Financiën wordt schriftelijk in tweevoud bij de Verzekeringskamer ingediend.
 
 2. Bij het verzoek om toelating legt de betrokken verzekeringsonderneming een door haar ondertekende verklaring in tweevoud over, dat haar voorwaarden van verzekering in de zin van de wet voldoen aan de door de wet gestelde eisen.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De zekerheid, bedoeld in [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=28), van de wet, bedraagt vierhonderdvijftigduizend gulden.
 
 2. Ten aanzien van deze zekerheid is het bepaalde in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002557&hoofdstuk=I&artikel=5&z=1974-08-01&g=1974-08-01), en in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002557&hoofdstuk=I&artikel=6&z=1974-08-01&g=1974-08-01) tot en met [11](https://wetten.overheid.nl/jci1.3:c:BWBR0002557&hoofdstuk=I&artikel=11&z=1974-08-01&g=1974-08-01) van overeenkomstige toepassing. De bewijzen, dat de zekerheid is gesteld, dienen in tweevoud bij de Verzekeringskamer te worden ingediend.
 
-#### Artikel 16
+##### Artikel 16
 
 De Verzekeringskamer zendt een exemplaar van het verzoek om toelating, vergezeld van haar gemotiveerd advies, met een exemplaar van de verklaring, bedoeld in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002557&hoofdstuk=II&artikel=14&z=1974-08-01&g=1974-08-01), en een exemplaar van elk der bewijzen, bedoeld in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002557&hoofdstuk=II&artikel=15&z=1974-08-01&g=1974-08-01), zo spoedig mogelijk toe aan Onze Minister van Financiën.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Een verzekeraar, die intrekking van de aan hem verleende toelating wenst, dient een daartoe strekkend verzoek aan Onze Minister van Financiën schriftelijk in tweevoud bij de Verzekeringskamer in.
 
@@ -214,31 +236,31 @@ De Verzekeringskamer zendt een exemplaar van het verzoek om toelating, vergezeld
 
 4. De Verzekeringskamer geeft voorts onverwijld kennis aan Onze Minister van Financiën van iedere haar bekend geworden omstandigheid of gebeurtenis, die ingevolge het bepaalde in [artikel 28, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=28), der wet leidt of kan leiden tot intrekking van een toelating als verzekeraar. Zij doet deze kennisgeving vergezeld gaan van haar gemotiveerd advies nopens eventuele intrekking.
 
-#### Artikel 18
+##### Artikel 18
 
 De toelating als verzekeraar en het vervallen of de intrekking van de toelating als verzekeraar wordt door de zorg van Onze Minister van Financiën bekend gemaakt in de **Nederlandse Staatscourant**.
 
 ### Hoofdstuk III. Bepalingen tot uitvoering zowel van de Wet op het schadeverzekeringsbedrijf als van de [Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415)
 
-#### Artikel 19
+##### Artikel 19
 
 1. In het begin van elk kalenderjaar stelt de Verzekeringskamer vast het bedrag der kosten, voor haar verbonden aan de uitvoering van de Wet op het schadeverzekeringsbedrijf en de [Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415) over het voorafgaande kalenderjaar.
 
 2. In de kosten is begrepen een rente over de uitgaven in het laatstbedoelde kalenderjaar, berekend over een vol jaar naar een rentevoet, die gelijk is aan het wisseldisconto van De Nederlandsche Bank N.V. geldende op 1 juli van dat kalenderjaar.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Jaarlijks voor de eerste maart geeft iedere verzekeringsonderneming die in het voorafgaande kalenderjaar haar bedrijf als onderneming in de zin van de Wet op het schadeverzekeringsbedrijf en eventueel als verzekeraar in de zin van de [Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415) heeft uitgeoefend, aan de Verzekeringskamer schriftelijk haar geboekte bruto premie-inkomen over het jaar, voorafgaande aan het laatstbedoelde jaar, op.
 
 2. Indien op de eerste maart de Verzekeringskamer de opgave niet heeft ontvangen wordt het betrokken premie-inkomen ambtshalve door haar geschat.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Aan de hand van de kostenvaststelling, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002557&hoofdstuk=III&artikel=19&z=1974-08-01&g=1974-08-01), en van de opgaven en schattingen van de premie-inkomens, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002557&hoofdstuk=III&artikel=20&z=1974-08-01&g=1974-08-01), stelt de Verzekeringskamer vast welk percentage de kosten over het voorafgaande jaar bedragen van de gezamenlijke premie-inkomens over het jaar, voorafgaande aan het laatstbedoelde jaar. Dit percentage wordt in twee decimalen nauwkeurig berekend en naar boven afgerond.
 
 2. Het volgens het voorgaande lid gevonden kostenpercentage, berekend over het opgegeven onderscheidenlijk geschatte premie-inkomen van iedere verzekeringsonderneming afzonderlijk, bepaalt ieders aanslag in de kosten, met dien verstande dat die aanslag tenminste tweehonderdenvijftig gulden bedraagt. De aanslag wordt naar boven afgerond op gehele guldens.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De Verzekeringskamer deelt de aanslag schriftelijk aan de betrokkene mede onder vermelding van het in aanmerking genomen premie-inkomen, van het toegepaste kostenpercentage en van de wijze waarop en het tijdstip waarvóór de betaling moet geschieden.
 
@@ -246,23 +268,23 @@ De toelating als verzekeraar en het vervallen of de intrekking van de toelating 
 
 3. Gedurende twee jaar na de dagtekening van de mededeling van de in het eerste lid bedoelde aanslag kan de Verzekeringskamer een aanslag herzien, indien haar de onjuistheid is gebleken van het premie-inkomen waarover die aanslag is berekend.
 
-#### Artikel 23
+##### Artikel 23
 
 De verzekeringsonderneming kan gedurende dertig dagen na de dagtekening van de mededeling van de aanslag of de herziene aanslag in beroep komen bij Onze Minister van Financiën.
 
-#### Artikel 24
+##### Artikel 24
 
 Het verschil tussen de in een jaar gemaakte kosten en de ontvangsten, voortvloeiende uit de aanslagen over dat jaar, wordt verrekend met het bedrag der kosten, dat tot grondslag van de nieuwe aanslag moet strekken. De bepaling van het in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002557&hoofdstuk=III&artikel=21&z=1974-08-01&g=1974-08-01), bedoelde percentage geschiedt na zodanige vermindering of toevoeging.
 
 ### Hoofdstuk IV. Overgangs- en slotbepalingen
 
-#### Artikel 25
+##### Artikel 25
 
 1. Ons besluit van 17 juli 1964 (**Stb.** 257) wordt ingetrokken op het tijdstip van het in werking treden van dit besluit, met dien verstande, dat het verhaal van de kosten, voor de Verzekeringskamer verbonden aan de uitvoering van de [Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415) gedurende de eerste acht maanden van het jaar 1966 alsnog overeenkomstig het bepaalde in Hoofdstuk VII van Ons besluit van 17 juli 1964 zal geschieden.
 
 2. Voor wat betreft het verhaal der kosten, voor de Verzekeringskamer verbonden aan de uitvoering van de Wet op het schadeverzekeringsbedrijf en van de [Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415) worden, onder inachtneming van het bepaalde in het vorige lid, de kosten over het jaar 1966 gevoegd bij die over het jaar 1967.
 
-#### Artikel 26
+##### Artikel 26
 
 Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad**, waarin het is geplaatst.
 

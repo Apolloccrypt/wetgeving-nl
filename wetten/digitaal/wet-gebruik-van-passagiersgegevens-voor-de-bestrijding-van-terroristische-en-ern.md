@@ -1,14 +1,41 @@
 ---
-title: "Wet gebruik van passagiersgegevens voor de bestrijding van terroristische en ernstige misdrijven"
+title: "Wet van 5 juni 2019, houdende regels ter implementatie van richtlijn (EU) 2016/681 van het Europees Parlement en de Raad van 27 april 2016 over het gebruik van persoonsgegevens van passagiers (PNR-gegevens) voor het voorkomen, opsporen, onderzoeken en vervolgen van terroristische misdrijven en ernstige criminaliteit (PbEU 2016, L 119) (Wet gebruik van passagiersgegevens voor de bestrijding van terroristische en ernstige misdrijven)"
 identifier: "BWBR0042301"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2022-06-11
-laatste_update: 2022-06-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042301"
+country: "nl"
+rank: "wet"
+publication_date: "2022-06-11"
+last_updated: "2022-06-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042301"
+soort: "wet"
+stam_id: "15095573"
+version_id: "25876992"
+internal_id: "C36880861"
+label_id: "15044354"
+dtd_version: "2.0"
+original_entry_into_force: "2019-06-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042301/2022-06-11/0"
+intitule_bron: "Stb.2019-205"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-06-05"
+intitule_published: "2019-06-17"
+intitule_in_force: "2019-06-17"
+intitule_status: "goed"
+original_publication: "Stb.2019-205"
+original_signed_date: "2019-06-05"
+original_published_date: "2019-06-17"
+original_effect: "nieuwe-regeling"
+original_dossier: "34861"
+original_url_id: "stb-2019-205"
+entry_into_force_date: "2019-06-18"
+jci_1_3: "jci1.3:c:BWBR0042301&z=2022-06-11&g=2022-06-11"
+jci_1_0: "1.0:c:BWBR0042301&g=2022-06-11"
+citeertitel_status: "officieel"
+short_title: "Wet gebruik van passagiersgegevens voor de bestrijding van terroristische en ernstige misdrijven"
+signed_date: "2019-06-05"
+entry_into_force: "2019-06-18"
 ---
-
-# Wet gebruik van passagiersgegevens voor de bestrijding van terroristische en ernstige misdrijven
+# Wet van 5 juni 2019, houdende regels ter implementatie van richtlijn (EU) 2016/681 van het Europees Parlement en de Raad van 27 april 2016 over het gebruik van persoonsgegevens van passagiers (PNR-gegevens) voor het voorkomen, opsporen, onderzoeken en vervolgen van terroristische misdrijven en ernstige criminaliteit (PbEU 2016, L 119) (Wet gebruik van passagiersgegevens voor de bestrijding van terroristische en ernstige misdrijven)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 #### § 1. Inleidende bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -60,17 +87,17 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **vlucht naar of vanuit derde landen:** een vlucht door een luchtvaartmaatschappij, waaronder de vluchten met tussenlandingen op het grondgebied van lidstaten of derde landen, die volgens plan vanuit een derde land zal aankomen op het grondgebied van Nederland of zal vertrekken vanaf het grondgebied van Nederland en volgens plan zal aankomen op het grondgebied van een derde land.
 
-#### Artikel 2
+##### Artikel 2
 
 De overeenkomstig deze wet verzamelde passagiersgegevens worden door de Passagiersinformatie-eenheid uitsluitend verwerkt voor het voorkomen, opsporen, onderzoeken en vervolgen van terroristische en ernstige misdrijven met inachtneming van het bepaalde bij of krachtens deze wet.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze wet is van toepassing op vluchten naar of vanuit derde landen, alsmede op vluchten binnen de Europese Unie, en de passagiersgegevens van deze vluchten.
 
 #### § 2. Verplichting luchtvaartmaatschappijen
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een luchtvaartmaatschappij verstrekt van elke vlucht als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042301&paragraaf=1&artikel=3&z=2022-06-11&g=2022-06-11) aan de Passagiersinformatie-eenheid de passagiersgegevens waarover zij ten behoeve van haar bedrijfsvoering beschikt. In geval van een gedeelde vlucht van twee of meer luchtvaartmaatschappijen, is de maatschappij die de vlucht uitvoert verplicht om alle passagiersgegevens te verstrekken.
 
@@ -88,7 +115,7 @@ Deze wet is van toepassing op vluchten naar of vanuit derde landen, alsmede op v
 
 #### § 3. De Passagiersinformatie-eenheid
 
-#### Artikel 5
+##### Artikel 5
 
 1. Er is een Passagiersinformatie-eenheid die tot taak heeft:
 
@@ -104,7 +131,7 @@ Deze wet is van toepassing op vluchten naar of vanuit derde landen, alsmede op v
 
 #### § 4. Verwerking van passagiersgegevens door de Passagiersinformatie-eenheid
 
-#### Artikel 6
+##### Artikel 6
 
 1. De Passagiersinformatie-eenheid verwerkt de overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042301&paragraaf=2&artikel=4&z=2022-06-11&g=2022-06-11) ontvangen passagiersgegevens uitsluitend met het oog op:
 
@@ -126,7 +153,7 @@ Deze wet is van toepassing op vluchten naar of vanuit derde landen, alsmede op v
 
 3. Het beoordelen van passagiers, op grond van het tweede lid, aanhef en onderdeel b, wordt verricht op een niet-discriminerende wijze, zodanig dat geen onderscheid wordt gemaakt naar iemands godsdienst of levensovertuiging, ras of etnische afkomst, politieke gezindheid, gezondheid, seksuele leven of geaardheid of lidmaatschap van een vakvereniging.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De criteria, bedoeld in [artikel 6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0042301&paragraaf=4&artikel=6&z=2022-06-11&g=2022-06-11), worden door de Passagiersinformatie-eenheid in overeenstemming met de betrokken bevoegde instanties vastgesteld en regelmatig getoetst.
 
@@ -140,7 +167,7 @@ Deze wet is van toepassing op vluchten naar of vanuit derde landen, alsmede op v
 
 - b. de eisen waaraan de criteria en de toepassing ervan moeten voldoen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Een positieve overeenkomst bij een verwerking als bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042301&paragraaf=4&artikel=6&z=2022-06-11&g=2022-06-11), die op geautomatiseerde wijze heeft plaatsgevonden, wordt door menselijke tussenkomst gecontroleerd om te bepalen of een bevoegde instantie maatregelen moet treffen of nader onderzoek moet doen.
 
@@ -148,7 +175,7 @@ Deze wet is van toepassing op vluchten naar of vanuit derde landen, alsmede op v
 
 #### § 5. Bevoegde instanties
 
-#### Artikel 9
+##### Artikel 9
 
 1. De bevoegde instanties die van de Passagiersinformatie-eenheid passagiersgegevens of het verwerkingsresultaat van die gegevens kunnen verzoeken of ontvangen, teneinde de gegevens die zijn ontvangen nader te onderzoeken, of de nodige maatregelen te treffen voor het voorkomen, opsporen, onderzoeken of vervolgen van terroristische of ernstige misdrijven, zijn:
 
@@ -166,11 +193,11 @@ Deze wet is van toepassing op vluchten naar of vanuit derde landen, alsmede op v
 
 #### § 6. Uitwisseling van passagiersgegevens met andere lidstaten en doorgifte aan Europol en derde landen
 
-#### Artikel 9a
+##### Artikel 9a
 
 De Passagiersinformatie-eenheid verstrekt de door de Passagiersinformatie-eenheden van de andere lidstaten ontvangen passagiersgegevens of het verwerkingsresultaat van die gegevens voor nader onderzoek aan de bevoegde instanties. [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0042301&paragraaf=4&artikel=8&z=2022-06-11&g=2022-06-11) is van overeenkomstige toepassing.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De Passagiersinformatie-eenheid verstrekt ingeval een persoon is aangemerkt op grond van [artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0042301&paragraaf=4&artikel=6&z=2022-06-11&g=2022-06-11), alle passagiersgegevens of het verwerkingsresultaat van die gegevens aan de betrokken Passagiersinformatie-eenheden van de andere lidstaten indien dat noodzakelijk en relevant is voor het voorkomen, opsporen, onderzoeken of vervolgen van terroristische of ernstige misdrijven.
 
@@ -182,17 +209,17 @@ De Passagiersinformatie-eenheid verstrekt de door de Passagiersinformatie-eenhed
 
 5. Bij algemene maatregel van bestuur worden nadere regels gesteld over de verstrekking van gegevens als bedoeld in het eerste tot en met vierde lid, alsmede over de verdere verwerking en de daarbij te stellen voorwaarden aan het gebruik daarvan door de ontvangstgerechtigde autoriteiten.
 
-#### Artikel 11
+##### Artikel 11
 
 In geval van een specifieke en concrete dreiging van een terroristisch of ernstig misdrijf, kan de Passagiersinformatie-eenheid op verzoek van de Passagiersinformatie-eenheid van een andere lidstaat dat voldoet aan de voorwaarden van [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042301&paragraaf=6&artikel=10&z=2022-06-11&g=2022-06-11), een luchtvaartmaatschappij een verzoek als bedoeld in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042301&paragraaf=2&artikel=4&z=2022-06-11&g=2022-06-11), doen, teneinde de ontvangen passagiersgegevens aan de Passagiersinformatie-eenheid van die andere lidstaat te verstrekken.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De Passagiersinformatie-eenheid geeft op een voldoende gemotiveerd verzoek van Europol, via de nationale Europol-eenheid, passagiersgegevens en zo nodig het verwerkingsresultaat van die gegevens door, voor zover dit in een bepaald geval noodzakelijk is voor Europol ter ondersteuning en versterking van het optreden van de lidstaten bij het voorkomen, opsporen, onderzoeken of vervolgen van een terroristisch of ernstig misdrijf dat onder de bevoegdheid van Europol valt.
 
 2. Bij algemene maatregel van bestuur worden nadere regels gesteld over de doorgifte van gegevens als bedoeld in het eerste lid, alsmede over de verdere verwerking en de daarbij te stellen voorwaarden aan het gebruik daarvan door Europol.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De Passagiersinformatie-eenheid kan passagiersgegevens en zo nodig het verwerkingsresultaat van die gegevens ingeval de verwerking al overeenkomstig [artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0042301&paragraaf=4&artikel=6&z=2022-06-11&g=2022-06-11), is uitgevoerd, uitsluitend aan een autoriteit in een derde land, doorgeven indien:
 
@@ -220,7 +247,7 @@ In geval van een specifieke en concrete dreiging van een terroristisch of ernsti
 
 #### § 7. Verzoeken aan andere lidstaten
 
-#### Artikel 14
+##### Artikel 14
 
 1. De Passagiersinformatie-eenheid kan, voor zover dit in een bepaald geval noodzakelijk is voor het voorkomen, opsporen, onderzoeken of vervolgen van een terroristisch of ernstig misdrijf, de Passagiersinformatie-eenheid van een andere lidstaat gemotiveerd verzoeken om passagiersgegevens of de gegevens van een persoon die is aangemerkt na beoordeling voorafgaand aan zijn geplande aankomst in of geplande vertrek uit die lidstaat.
 
@@ -230,13 +257,13 @@ In geval van een specifieke en concrete dreiging van een terroristisch of ernsti
 
 4. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de wijze waarop en de voorwaarden waaronder een verzoek als bedoeld in het eerste of tweede lid moet worden gedaan.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De Passagiersinformatie-eenheid kan in geval van een ernstige en concrete dreiging van een terroristisch of ernstig misdrijf, de Passagiersinformatie-eenheid van een andere lidstaat verzoeken een luchtvaartmaatschappij een verzoek als bedoeld in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042301&paragraaf=2&artikel=4&z=2022-06-11&g=2022-06-11), te doen, teneinde de ontvangen gegevens door te geven aan een bevoegde instantie voor het voorkomen, dan wel opsporen, onderzoeken of vervolgen van het betreffende terroristische of ernstige misdrijf.
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de wijze waarop en de voorwaarden waaronder een verzoek als bedoeld in het eerste lid moet worden gedaan.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Een bevoegde instantie kan in geval van dringende noodzaak en indien is voldaan aan de vereisten die op grond van het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) gelden voor toepassing van de gevraagde bevoegdheden in een nationaal onderzoek naar een terroristisch of een ernstig misdrijf, rechtstreeks een gemotiveerd verzoek aan de Passagiersinformatie-eenheid van een andere lidstaat doen om passagiersgegevens of de gegevens van een persoon die is aangemerkt na beoordeling voor geplande aankomst of vertrek door te geven.
 
@@ -246,11 +273,11 @@ In geval van een specifieke en concrete dreiging van een terroristisch of ernsti
 
 #### § 8. Gegevensbescherming
 
-#### Artikel 17
+##### Artikel 17
 
 Op de verwerking van persoonsgegevens door de Passagiersinformatie-eenheid zijn de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=1), [4 tot en met 4c](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=4), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=6), [6a](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=6a), [6c](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=6c), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=7), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=17), [24a tot en met 31c](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=24a), [33 tot en met 33b](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=33) en [35 tot en met 35c van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=35) van overeenkomstige toepassing, met dien verstande dat Onze Minister voor de Passagiersinformatie-eenheid wordt aangemerkt als verwerkingsverantwoordelijke.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De verwerkingsverantwoordelijke benoemt een functionaris voor gegevensbescherming die, onverminderd het bepaalde in de [artikelen 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042301&paragraaf=6&artikel=10&z=2022-06-11&g=2022-06-11), [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042301&paragraaf=6&artikel=13&z=2022-06-11&g=2022-06-11) en [20, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0042301&paragraaf=8&artikel=20&z=2022-06-11&g=2022-06-11), is belast met de controle op de verwerking van de persoonsgegevens door de Passagiersinformatie-eenheid en met de uitvoering van de desbetreffende waarborgen voor de gegevensbescherming.
 
@@ -264,13 +291,13 @@ Op de verwerking van persoonsgegevens door de Passagiersinformatie-eenheid zijn 
 
 6. [Artikel 36 van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=36) is van overeenkomstige toepassing.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De verwerking van persoonsgegevens als bedoeld in deze wet mag geen betrekking hebben op persoonsgegevens waaruit iemands godsdienst of levensovertuiging, ras of etnische afkomst, politieke gezindheid, gezondheid, seksuele leven of geaardheid of lidmaatschap van een vakvereniging blijkt.
 
 2. In het geval de Passagiersinformatie-eenheid gegevens als bedoeld in het eerste lid ontvangt, worden deze gegevens onmiddellijk gewist.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De Passagiersinformatie-eenheid draagt er zorg voor dat:
 
@@ -300,11 +327,11 @@ Op de verwerking van persoonsgegevens door de Passagiersinformatie-eenheid zijn 
 
 4. Indien een overeenkomst bij een verwerking als bedoeld in [artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0042301&paragraaf=4&artikel=6&z=2022-06-11&g=2022-06-11), ten onrechte positief is, kunnen de persoonsgegevens van betrokkene, met inachtneming van het bepaalde in het eerste lid, door de Passagiersinformatie-eenheid worden bewaard voor het doel om nieuwe onjuiste positieve overeenkomsten te onderkennen.
 
-#### Artikel 21
+##### Artikel 21
 
 **(Vervallen)**
 
-#### Artikel 22
+##### Artikel 22
 
 1. De verwerkingsverantwoordelijke houdt een register bij dat de volgende gegevens bevat:
 
@@ -326,7 +353,7 @@ Op de verwerking van persoonsgegevens door de Passagiersinformatie-eenheid zijn 
 
 4. De verwerkingsverantwoordelijke stelt de documentatie, bedoeld in het tweede lid, desgevraagd ter beschikking aan de Autoriteit persoonsgegevens.
 
-#### Artikel 23
+##### Artikel 23
 
 1. De verwerkingsverantwoordelijke draagt zorg voor de vastlegging langs elektronische weg van ten minste de volgende verwerkingen: het verzamelen, raadplegen, verstrekking onder meer in de vorm van doorgiften en wissen van de passagiersgegevens en de resultaten van de verwerking van die gegevens, met uitzondering van de verstrekking, bedoeld in [artikel 17 van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=17), indien dit zich niet verdraagt met het belang van de veiligheid van de staat.
 
@@ -338,7 +365,7 @@ Op de verwerking van persoonsgegevens door de Passagiersinformatie-eenheid zijn 
 
 #### § 9. Handhaving en sancties
 
-#### Artikel 24
+##### Artikel 24
 
 1. Overtreding van het bepaalde in [artikel 4, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042301&paragraaf=2&artikel=4&z=2022-06-11&g=2022-06-11), of krachtens artikel 4, vijfde lid, wordt gestraft met hechtenis van ten hoogste zes maanden of geldboete van de vierde categorie.
 
@@ -346,15 +373,15 @@ Op de verwerking van persoonsgegevens door de Passagiersinformatie-eenheid zijn 
 
 #### § 10. Slotbepalingen
 
-#### Artikel 25
+##### Artikel 25
 
 Onze Minister zendt binnen twee jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk. In dat verslag wordt afzonderlijk aandacht besteed aan de verwerking van passagiersgegevens van vluchten binnen de Europese Unie.
 
-#### Artikel 25a
+##### Artikel 25a
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2022/213. Wijzigt deze wet.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, met uitzondering van [artikel 25a](https://wetten.overheid.nl/jci1.3:c:BWBR0042301&paragraaf=10&artikel=25a&z=2022-06-11&g=2022-06-11).
 
@@ -362,7 +389,7 @@ Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 20
 
 3. De voordracht voor een krachtens het tweede lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.
 
-#### Artikel 27
+##### Artikel 27
 
 Deze wet wordt aangehaald als: Wet gebruik van passagiersgegevens voor de bestrijding van terroristische en ernstige misdrijven.
 

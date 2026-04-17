@@ -1,13 +1,38 @@
 ---
 title: "Inkomstenbelasting, persoonsgebonden aftrek, uitgaven voor specifieke zorgkosten en scholingsuitgaven"
 identifier: "BWBR0033228"
-categorie: "Belastingrecht"
-publicatiedatum: 2013-04-13
-laatste_update: 2013-04-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033228"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2013-04-13"
+last_updated: "2013-04-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033228"
+soort: "beleidsregel"
+stam_id: "12200013"
+version_id: "20412872"
+internal_id: "C28692201"
+label_id: "12171604"
+dtd_version: "2.0"
+original_entry_into_force: "2013-04-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033228/2013-04-13/0"
+intitule_bron: "Stcrt.2013-9571"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-04-04"
+intitule_published: "2013-04-12"
+intitule_in_force: "2013-04-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-9571"
+original_signed_date: "2013-04-04"
+original_published_date: "2013-04-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-9571"
+entry_into_force_date: "2013-04-13"
+jci_1_3: "jci1.3:c:BWBR0033228&z=2013-04-13&g=2013-04-13"
+jci_1_0: "1.0:c:BWBR0033228&g=2013-04-13"
+citeertitel_status: "redactioneel"
+signed_date: "2013-04-04"
+entry_into_force: "2013-04-13"
 ---
-
 # Inkomstenbelasting, persoonsgebonden aftrek, uitgaven voor specifieke zorgkosten en scholingsuitgaven
 
 heeft het volgende besloten.

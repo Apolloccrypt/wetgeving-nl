@@ -1,13 +1,39 @@
 ---
-title: "Regeling zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 31 oktober 2019, kenmerk 1604138-181029-WJZ, houdende nadere regels op grond van de Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten (Regeling zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten)"
 identifier: "BWBR0042738"
-categorie: "Sociaal recht"
-publicatiedatum: 2023-09-02
-laatste_update: 2023-09-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042738"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-09-02"
+last_updated: "2023-09-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042738"
+soort: "ministeriele-regeling"
+stam_id: "15219573"
+version_id: "26177392"
+internal_id: "C37357491"
+label_id: "15166344"
+dtd_version: "2.0"
+original_entry_into_force: "2020-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042738/2023-09-02/0"
+intitule_bron: "Stcrt.2019-60908"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-10-31"
+intitule_published: "2019-11-07"
+intitule_in_force: "2019-11-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-60908"
+original_signed_date: "2019-10-31"
+original_published_date: "2019-11-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-60908"
+entry_into_force_date: "2020-01-01"
+jci_1_3: "jci1.3:c:BWBR0042738&z=2023-09-02&g=2023-09-02"
+jci_1_0: "1.0:c:BWBR0042738&g=2023-09-02"
+citeertitel_status: "officieel"
+short_title: "Regeling zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten"
+signed_date: "2019-10-31"
+entry_into_force: "2020-01-01"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 31 oktober 2019, kenmerk 1604138-181029-WJZ, houdende nadere regels op grond van de Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten (Regeling zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten)
 
 Gelet op de [artikelen 1, eerste lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=1), [18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=18), [18c, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=18c), [19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=19), en [22, tiende lid van de Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=22) en [artikel 4.1, vijfde en zevende lid van het Besluit zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten](https://wetten.overheid.nl/jci1.3:c:BWBR0042266&artikel=4.1);
@@ -18,7 +44,7 @@ Treedt in werking op het tijdstip waarop de Wet zorg en dwangpsychogeriatrische 
 
 ### Hoofdstuk 1. – Begripsbepaling
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -26,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. – Categorieën van deskundigen
 
-#### Artikel 2
+##### Artikel 2
 
 Als categorie van deskundigen als bedoeld in [artikel 1, eerste lid, onderdeel g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=1) worden aangewezen:
 
@@ -70,13 +96,13 @@ Als categorie van deskundigen als bedoeld in [artikel 1, eerste lid, onderdeel g
 
 - –. sociaal pedagogische hulpverlening
 
-#### Artikel 3
+##### Artikel 3
 
 Als externe deskundigen als bedoeld in [artikel 22, tiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=22) worden aangewezen degenen, genoemd in [artikel 3.1, eerste lid, van het Besluit zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten](https://wetten.overheid.nl/jci1.3:c:BWBR0042266&artikel=3.1).
 
 ### Hoofdstuk 3. – Gegevensverwerking
 
-#### Artikel 4
+##### Artikel 4
 
 1. De zorgaanbieder verstrekt aan de inspectie per locatie het digitale overzicht, bedoeld in [artikel 17, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=17), onder vermelding van het vestigingsnummer van die locatie.
 
@@ -86,11 +112,11 @@ Als externe deskundigen als bedoeld in [artikel 22, tiende lid, van de wet](http
 
 4. Bij de verstrekking wordt het bestandstype .xml, of de technische opvolger daarvan, gehanteerd in een digitaal uitleesbaar formaat.
 
-#### Artikel 5
+##### Artikel 5
 
 Als format als bedoeld in [artikel 4.1, zevende lid, van het Besluit zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten](https://wetten.overheid.nl/jci1.3:c:BWBR0042266&artikel=4.1) voor het verstrekken van een digitaal overzicht wordt het format in de bijlage bij deze regeling vastgesteld.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De zorgaanbieder verstrekt aan de inspectie de analyse, bedoeld in [artikel 18, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=18), onder vermelding van het vestigingsnummer van de locatie waar de analyse betrekking op heeft.
 
@@ -104,7 +130,7 @@ Als format als bedoeld in [artikel 4.1, zevende lid, van het Besluit zorg en dwa
 
 6. In afwijking van het eerste lid kan de zorgaanbieder de analyse, bedoeld in het eerste lid, met redenen omkleed betrekking doen hebben op meerdere locaties.
 
-#### Artikel 7
+##### Artikel 7
 
 1. In de analyse, bedoeld in [artikel 18, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=18) neemt de zorgaanbieder in ieder geval op, uitgesplitst per vorm van onvrijwillige zorg zoals weergegeven in het format, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042738&hoofdstuk=3&artikel=5&z=2023-09-02&g=2023-09-02):
 
@@ -122,15 +148,15 @@ Als format als bedoeld in [artikel 4.1, zevende lid, van het Besluit zorg en dwa
 
 2. De zorgaanbieder stelt de door hem op grond van [artikel 3 van de Wet medezeggenschap cliënten zorginstellingen 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&artikel=3) ingestelde en ter zake betrokken cliëntenraad gedurende vier weken in gelegenheid om een reactie uit te brengen over de analyse, bedoeld in het eerste lid, en voegt deze toe aan de analyse. Indien de cliëntenraad geen reactie heeft gegeven, vermeldt de zorgaanbieder in de analyse wanneer hij de cliëntenraad hiertoe in de gelegenheid heeft gesteld.
 
-#### Artikel 8
+##### Artikel 8
 
 Ten aanzien van gegevensverwerkingen door zorgaanbieders die voortvloeien uit de wet en de daarop berustende bepalingen wordt als technische standaard als bedoeld in [artikel 4.1, vijfde lid, van het Besluit zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten](https://wetten.overheid.nl/jci1.3:c:BWBR0042266&artikel=4.1) NEN 7510, en de uitwerking daarvan in NEN 7512, aangewezen.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling treedt in werking op het tijdstip waarop de Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten in werking treedt.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten.
 

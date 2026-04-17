@@ -1,20 +1,45 @@
 ---
 title: "Mijnwet BES"
 identifier: "BWBR0028161"
-categorie: "Overig"
-publicatiedatum: 2019-01-01
-laatste_update: 2019-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028161"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2019-01-01"
+last_updated: "2019-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028161"
+soort: "wet-BES"
+stam_id: "10684963"
+version_id: "17645802"
+internal_id: "C24779341"
+label_id: "10659634"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028161/2019-01-01/0"
+intitule_bron: "Stb.2010-432"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-08-31"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-432"
+original_signed_date: "2010-08-31"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-432"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028161&z=2019-01-01&g=2019-01-01"
+jci_1_0: "1.0:c:BWBR0028161&g=2019-01-01"
+citeertitel_status: "officieel"
+signed_date: "2010-08-31"
+entry_into_force: "2010-10-10"
 ---
-
 # Mijnwet BES
 
-#### Artikel 1
+##### Artikel 1
 
 In de artikelen van deze wet en de daarop berustende bepalingen wordt verstaan onder Rijk: Nederland en Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 1a
+##### Artikel 1a
 
 1. Onder delfstoffen worden voor de toepassing dezer wettelijke regeling verstaan alle uit de bodem gedolven of op andere wijze uit de bodem gewonnen natuurlijke zelfstandigheden, met uitzondering van die zelfstandigheden die algemeen in Bonaire, Sint Eustatius en Saba voorkomen en uitsluitend dienen voor de aanleg van wegen, voor toeslag voor beton, en voor huizenbouw en kunstwerken in Bonaire, Sint Eustatius en Saba.
 
@@ -30,25 +55,25 @@ In de artikelen van deze wet en de daarop berustende bepalingen wordt verstaan o
 
 7. Bij de in het zesde lid bedoelde algemene maatregel van bestuur kunnen andere stoffen onder de werking daarvan worden gebracht, dan wel bepaalde delfstoffen aan de werking daarvan worden onttrokken.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De ontdekking van eene in deze wet genoemde delfstof geeft den ontdekker die òf is houder van eene vergunning tot opsporing òf concessionaris op het veld, binnen welks grenzen de delfstof is ontdekt, recht op concessie tot ontginning van de ontdekte delfstof, zoodra hij zijne aanspraken doet gelden, met dien verstande evenwel dat de ontdekker, die houder is van eene vergunning tot opsporing, zijne aanspraken behoort geldend te maken vóór het verstrijken van den termijn waarvoor de vergunning verleend of verlengd is en dat het vroeger ingediende verzoek de voorkeur heeft boven het later ingediende.
 
 2. Het hier bedoelde recht op concessie kan, mits in zijn geheel, aan anderen, voldoende aan de vereischten in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028161&artikel=5&z=2019-01-01&g=2019-01-01) gesteld, worden overgedragen, behoudens goedkeuring van Onze Minister van Economische Zaken en Klimaat.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het op grond van de concessie verworven recht behoort tot de onroerende zaken; het is voor hypotheek vatbaar en kan door den concessionaris worden vervreemd.
 
 2. De titel van aankomst van dat recht wordt openbaar gemaakt door publicatie in de Staatscourant. Eerst door die openbaarmaking wordt het recht als bestaande aangemerkt.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Onder rechthebbende op den grond wordt verstaan degene, die een zakelijk recht daarop heeft. Onder derde belanghebbende wordt verstaan degene, wiens uit een persoonlijk recht voortvloeiende belangen door eene opsporing of ontginning kunnen worden geschaad.
 
 2. Onder opsporing wordt verstaan het opzettelijk ingesteld onderzoek naar de in [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0028161&artikel=1a&z=2019-01-01&g=2019-01-01) genoemde delfstoffen met het oogmerk om recht tot mijnontginning te verwerven en onder ontginning of mijnontginning de opzettelijke winning van deze delfstoffen, onverschillig of die winning geschiedt door onderaardsche mijnwerken, open groeven, grondboringen of op andere wijze.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Geen anderen kunnen houders van vergunningen tot opsporing of van concessiën zijn dan:
 
@@ -66,7 +91,7 @@ met dien verstande, dat de niet in Bonaire, Sint Eustatius en Saba gevestigde pe
 
 4. Geschillen nopens het voldoen aan de vereischten van dit artikel worden beslist door den rechter.
 
-#### Artikel 6
+##### Artikel 6
 
 De vergunning tot opsporing, het recht op concessie en de concessie vervallen van rechtswege:
 
@@ -74,7 +99,7 @@ De vergunning tot opsporing, het recht op concessie en de concessie vervallen va
 
 - b. bij overlijden van den houder der vergunning, van dien van het recht op concessie of van den concessionaris, ten aanzien van zijnen rechtverkrijgende, die niet binnen den in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028161&artikel=5&z=2019-01-01&g=2019-01-01) genoemden termijn aan de in dat artikel gestelde vereischten heeft voldaan.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De concessionaris kan van de hem bij de concessie verleende rechten door Onze Minister van Economische Zaken en Klimaat worden vervallen verklaard:
 
@@ -84,24 +109,24 @@ De vergunning tot opsporing, het recht op concessie en de concessie vervallen va
 
 2. Tot de vervallenverklaring wordt niet overgegaan dan nadat de concessionaris of zijn gemachtigde door of vanwege Onze Minister van Economische Zaken en Klimaat met het voornemen tot vervallenverklaring bij eene bij deurwaardersexploit beteekende akte is in wetenschap gesteld, hem de gelegenheid is gegeven voor zijne belangen op te komen en hij tevens een hem te verleenen, met den datum van beteekening van het exploit ingaanden termijn van ten minste één jaar om zijne verplichtingen volledig na te komen of om aan de gestelde eischen te voldoen, onbenut heeft laten voorbijgaan. Voor zoover die verplichting strekt tot betaling van eene geldsom, zal de termijn ten minste drie maanden zijn.
 
-#### Artikel 8
+##### Artikel 8
 
 De concessionaris, die bij beschikking van Onze Minister van Economische Zaken en Klimaat van zijne rechten is vervallen verklaard, kan beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze wet, behoudens het [eerste en tweede lid van artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0028161&artikel=1a&z=2019-01-01&g=2019-01-01), benevens de daarop gegronde algemene maatregel van bestuur – voor zoover het tegendeel daarin niet is uitgedrukt – zijn niet van toepassing op van rijkswege ondernomen opsporingen en ontginningen, blijvende de bevoegdheid de rijksoverheid onverkort om opsporingen en ontginningen te bewerkstelligen, wanneer zij niet in strijd komen met aan bijzondere personen of gemeenschappen verleende mijnrechtelijke bevoegdheden.
 
 ## Slot- en overgangsbepalingen
 
-#### Artikel 10
+##### Artikel 10
 
 Deze wet is niet toepasselijk op de delfstof, ten aanzien waarvan de eigenaar van den grond als zoodanig vóór 1 Juli 1906 eenige daad van beschikking heeft verricht. Aan dien eigenaar en zijne rechtverkrijgenden wordt de beschikking over die delfstof gelaten, behoudens de bevoegdheid de rijksoverheid om, wanneer zij oordeelt dat het algemeen belang het vordert, de beschikking over die delfstof aan zich te trekken door onteigening van den grond.
 
-#### Artikel 11
+##### Artikel 11
 
 Op concessiën, verleend vóór het tijdstip waarop deze wet in werking treedt, zijn hare voorschriften, met uitzondering van [artikel 7, eerste lid, sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0028161&artikel=7&z=2019-01-01&g=2019-01-01), zoomede die van de op haar gegronde Koninklijke besluiten en koloniale verordeningen van toepassing, voor zoover zij niet strijden met den bepaaldelijk uitgedrukten inhoud dier concessiën, en met dien verstande, dat de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028161&artikel=5&z=2019-01-01&g=2019-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0028161&artikel=6&z=2019-01-01&g=2019-01-01) niet gelden voor hare houders, die op genoemd tijdstip aan de vereischten van artikel 5 niet voldeden, noch voor hunne rechtverkrijgenden.
 
-#### Artikel 12
+##### Artikel 12
 
 Deze wet wordt aangehaald als: Mijnwet BES.

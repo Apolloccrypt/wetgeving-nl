@@ -1,13 +1,38 @@
 ---
 title: "Regeling WBO-vergunning digitalisering bevolkingsonderzoek borstkanker"
 identifier: "BWBR0021700"
-categorie: "Bestuursrecht"
-publicatiedatum: 2007-06-01
-laatste_update: 2007-06-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0021700"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2007-06-01"
+last_updated: "2007-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0021700"
+soort: "ministeriele-regeling"
+stam_id: "9042603"
+version_id: "14410232"
+internal_id: "C19603351"
+label_id: "9021564"
+dtd_version: "2.0"
+original_entry_into_force: "2007-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0021700/2007-06-01/0"
+intitule_bron: "Stcrt.2007-70"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-04-02"
+intitule_published: "2007-04-11"
+intitule_in_force: "2007-04-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-70"
+original_signed_date: "2007-04-02"
+original_published_date: "2007-04-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2007-70-p25-SC80138"
+entry_into_force_date: "2007-06-01"
+jci_1_3: "jci1.3:c:BWBR0021700&z=2007-06-01&g=2007-06-01"
+jci_1_0: "1.0:c:BWBR0021700&g=2007-06-01"
+citeertitel_status: "redactioneel"
+signed_date: "2007-04-02"
+entry_into_force: "2007-06-01"
 ---
-
 # Regeling WBO-vergunning digitalisering bevolkingsonderzoek borstkanker
 
 Gezien het verzoek d.d. 1 mei 2006 van de Stichting Preventicon te Utrecht, de Stichting Bevolkingsonderzoek Borstkanker Noord-Nederland te Groningen en de Stichting Bevolkingsonderzoek Borstkanker Zuidwest Nederland, te Rotterdam, om een vergunning als bedoeld in [artikel 3, eerste lid, van de Wet op het bevolkingsonderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005699&artikel=3), voor een vergunning voor het bevolkingsonderzoek borstkanker. Het betreft drie proefbevolkingsonderzoeken ter voorbereiding op landelijke invoering van digitale mammografie in het bevolkingsonderzoek naar borstkanker;

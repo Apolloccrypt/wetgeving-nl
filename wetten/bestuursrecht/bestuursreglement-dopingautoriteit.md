@@ -1,13 +1,38 @@
 ---
 title: "Bestuursreglement Dopingautoriteit"
 identifier: "BWBR0042175"
-categorie: "Bestuursrecht"
-publicatiedatum: 2019-04-12
-laatste_update: 2019-04-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042175"
+country: "nl"
+rank: "zbo"
+publication_date: "2019-04-12"
+last_updated: "2019-04-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042175"
+soort: "zbo"
+stam_id: "15063723"
+version_id: "25818362"
+internal_id: "C36808971"
+label_id: "15012974"
+dtd_version: "2.0"
+original_entry_into_force: "2019-04-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042175/2019-04-12/0"
+intitule_bron: "Stcrt.2019-19721"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-01-01"
+intitule_published: "2019-04-11"
+intitule_in_force: "2019-04-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-19721"
+original_signed_date: "2019-01-01"
+original_published_date: "2019-04-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-19721"
+entry_into_force_date: "2019-04-12"
+jci_1_3: "jci1.3:c:BWBR0042175&z=2019-04-12&g=2019-04-12"
+jci_1_0: "1.0:c:BWBR0042175&g=2019-04-12"
+citeertitel_status: "officieel"
+signed_date: "2019-01-01"
+entry_into_force: "2019-04-12"
 ---
-
 # Bestuursreglement Dopingautoriteit
 
 Gelet op [artikel 8 van de Wet uitvoering antidopingbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&artikel=8) en [artikel 11 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=11) besluit de voorzitter van de Dopingautoriteit het volgende reglement vast te stellen. Dit reglement wordt aangeduid als ‘Bestuursreglement Dopingautoriteit’. Binnen de kaders die voor het governancemodel tussen eigenaar – opdrachtgever – Dopingautoriteit in de governancevisie1‘Concernsturing VWS, uitgangspunten voor de governance tussen VWS en Concernorganisaties’, vastgesteld in de Bestuursraad Bedrijfsvoering d.d. 5 juli 2018 zijn beschreven, legt de Dopingautoriteit in dit document regels over taakuitoefening, samenwerking en besluitvorming, integriteit, mandaat en volmacht vast. Op deze manier wordt mede invulling gegeven aan de Code Goed Bestuur Publieke Dienstverleners van de Handvestgroep Publiek Verantwoorden.

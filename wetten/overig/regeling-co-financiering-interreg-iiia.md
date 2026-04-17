@@ -1,20 +1,44 @@
 ---
 title: "Regeling co-financiering Interreg IIIA"
 identifier: "BWBR0013182"
-categorie: "Overig"
-publicatiedatum: 2002-11-16
-laatste_update: 2002-11-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013182"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2002-11-16"
+last_updated: "2002-11-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013182"
+soort: "ministeriele-regeling"
+stam_id: "4046013"
+version_id: "5819112"
+internal_id: "C6021851"
+label_id: "4025984"
+dtd_version: "2.0"
+original_entry_into_force: "2001-12-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013182/2002-11-16/0"
+intitule_bron: "Stcrt.2001-245"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-12-14"
+intitule_published: "2001-12-18"
+intitule_in_force: "2001-12-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2001-245"
+original_signed_date: "2001-12-14"
+original_published_date: "2001-12-18"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2001-12-20"
+jci_1_3: "jci1.3:c:BWBR0013182&z=2002-11-16&g=2002-11-16"
+jci_1_0: "1.0:c:BWBR0013182&g=2002-11-16"
+citeertitel_status: "officieel"
+signed_date: "2001-12-14"
+entry_into_force: "2001-12-20"
 ---
-
 # Regeling co-financiering Interreg IIIA
 
 Gelet op [artikel 3 van het Besluit co-financiering EFRO-programma's 2000/06](https://wetten.overheid.nl/jci1.3:c:BWBR0012390&artikel=3),
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Als Europees programma als bedoeld in [artikel 3, eerste lid, van het Besluit co-financiering EFRO-programma's 2000/06](https://wetten.overheid.nl/jci1.3:c:BWBR0012390&artikel=3) worden aangewezen:
 
@@ -24,11 +48,11 @@ Als Europees programma als bedoeld in [artikel 3, eerste lid, van het Besluit co
 
 - c. het programma communautair initiatief Interreg IIIA Grensregio Vlaanderen-Nederland en de daaraan gekoppelde sub-programma's van de Euregio Benelux-Middengebied en de Euregio Scheldemond, goedgekeurd bij beschikking van de Commissie van de Europese Gemeenschappen van 10 december 2001 (C(2001) 2893).
 
-#### Artikel 2
+##### Artikel 2
 
 De minister verstrekt op aanvraag subsidie aan de provincies Gelderland, Limburg, Noord-Brabant, Overijssel en Zeeland.
 
-#### Artikel 3
+##### Artikel 3
 
 Het subsidieplafond voor het verlenen van subsidies op grond van het [Besluit co-financiering EFRO-programma's 2000/06](https://wetten.overheid.nl/jci1.3:c:BWBR0012390) wordt voor de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013182&artikel=1&z=2002-11-16&g=2002-11-16) bedoelde programma's vastgesteld op € 42.428.450 en wordt verdeeld als volgt:
 
@@ -44,11 +68,11 @@ Het subsidieplafond voor het verlenen van subsidies op grond van het [Besluit co
 
 - f. voor de provincie Zeeland voor de uitvoering van het sub-programma van de Euregio Scheldemond, bedoeld in [artikel 1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0013182&artikel=1&z=2002-11-16&g=2002-11-16), € 2.949.571.
 
-#### Artikel 4
+##### Artikel 4
 
 De minister geeft een beschikking binnen dertien weken na de goedkeuring van het desbetreffende programma door de Commissie van de Europese Gemeenschappen.
 
-#### Artikel 5
+##### Artikel 5
 
 De minister beslist in ieder geval afwijzend:
 
@@ -56,7 +80,7 @@ De minister beslist in ieder geval afwijzend:
 
 - b. indien overigens in de financiering van het programma niet of in onvoldoende mate wordt bijgedragen door de aanvrager of anderen die het, gelet op de aard van het programma, mede aangaat.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De provincie, aan welke ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013182&artikel=2&z=2002-11-16&g=2002-11-16) subsidie wordt verstrekt, gebruikt die subsidie voor het verstrekken van subsidies aan degenen die een project uitvoeren dat past in een in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013182&artikel=1&z=2002-11-16&g=2002-11-16) bedoeld programma.
 
@@ -70,13 +94,13 @@ De minister beslist in ieder geval afwijzend:
 
 3. De provincie kan de subsidie ook gebruiken ten behoeve van door hem zelf uit te voeren projecten als bedoeld in het eerste lid, mits de minister hiervoor vooraf schriftelijke toestemming heeft verleend.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Op een subsidie ter zake waarvan een beschikking tot subsidieverlening geldt, kan op aanvraag van de provincie door de minister gedurende de periode 2001 tot en met 2005 jaarlijks een voorschot worden verstrekt.
 
 2. Een voorschot bedraagt ten hoogste 20 procent van het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013182&artikel=3&z=2002-11-16&g=2002-11-16) voor de desbetreffende regio genoemde bedrag.
 
-#### Artikel 8
+##### Artikel 8
 
 Tot en met 31 december 2001 geldt het volgende:
 
@@ -94,11 +118,11 @@ Tot en met 31 december 2001 geldt het volgende:
 
 - g. in afwijking van [artikel 3, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0013182&artikel=3&z=2002-11-16&g=2002-11-16), bedraagt het bedrag f 6.500.000,00.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en heeft terugwerkende kracht tot en met 11 december 2001.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling co-financiering Interreg IIIA.
 

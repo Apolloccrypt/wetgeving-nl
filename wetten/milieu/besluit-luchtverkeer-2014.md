@@ -1,13 +1,39 @@
 ---
-title: "Besluit luchtverkeer 2014"
+title: "Besluit van 5 december 2014 tot vaststelling van nieuwe regels inzake het luchtverkeer ter uitvoering van verordening (EU) nr. 923/2012 tot vaststelling van gemeenschappelijke luchtverkeersregels (Besluit luchtverkeer 2014)"
 identifier: "BWBR0035899"
-categorie: "Milieu"
-publicatiedatum: 2024-07-01
-laatste_update: 2024-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035899"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-07-01"
+last_updated: "2024-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035899"
+soort: "AMvB"
+stam_id: "12875803"
+version_id: "21885892"
+internal_id: "C31408761"
+label_id: "12845634"
+dtd_version: "2.0"
+original_entry_into_force: "2014-12-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035899/2024-07-01/0"
+intitule_bron: "Stb.2014-492"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-12-05"
+intitule_published: "2014-12-11"
+intitule_in_force: "2014-12-11"
+intitule_status: "goed"
+original_publication: "Stb.2014-492"
+original_signed_date: "2014-12-05"
+original_published_date: "2014-12-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2014-492"
+entry_into_force_date: "2014-12-12"
+jci_1_3: "jci1.3:c:BWBR0035899&z=2024-07-01&g=2024-07-01"
+jci_1_0: "1.0:c:BWBR0035899&g=2024-07-01"
+citeertitel_status: "officieel"
+short_title: "Besluit luchtverkeer 2014"
+signed_date: "2014-12-05"
+entry_into_force: "2014-12-12"
 ---
-
 # Besluit van 5 december 2014 tot vaststelling van nieuwe regels inzake het luchtverkeer ter uitvoering van verordening (EU) nr. 923/2012 tot vaststelling van gemeenschappelijke luchtverkeersregels (Besluit luchtverkeer 2014)
 
 Op de voordracht van de Staatssecretaris van Infrastructuur en Milieu van 6 oktober 2014, nr. IenM/BSK-2014/201301, Hoofddirectie Bestuurlijke en Juridische Zaken, gedaan mede namens Onze Minister van Defensie;
@@ -24,7 +50,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -72,25 +98,25 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - **zweefvliegtuig:** zweeftoestel met vaste vleugel, zijnde een luchtvaartuig zwaarder dan lucht, dat hoofdzakelijk in de lucht kan worden gehouden door aërodynamische reactiekrachten waarvan de vrije vlucht niet afhankelijk is van een motor.
 
-#### Artikel 2. OAT
+##### Artikel 2. OAT
 
 1. Verordening (EU) nr. 923/2012 is van overeenkomstige toepassing op militair luchtverkeer dat wordt aangemerkt als OAT.
 
 2. Onze Minister van Defensie kan vrijstelling of ontheffing verlenen van de bepalingen van verordening (EU) nr. 923/2012 voor zover het militair luchtverkeer betreft dat wordt aangemerkt als OAT. Aan de vrijstelling of ontheffing kunnen voorschriften worden verbonden. De vrijstelling of ontheffing kan onder beperkingen worden verleend.
 
-#### Artikel 3. Vrijstelling
+##### Artikel 3. Vrijstelling
 
 1. Bij regeling van Onze Minister kan vrijstelling worden verleend van de bepalingen van verordening (EU) nr. 923/2012 voor activiteiten van openbaar belang als bedoeld in artikel 4 van die verordening en de training die nodig is om deze activiteiten veilig te kunnen uitvoeren. Aan de vrijstelling kunnen voorschriften worden verbonden.
 
 2. Het is verboden in strijd te handelen met de voorschriften, bedoeld in het eerste lid.
 
-#### Artikel 4. Bijzondere vluchten
+##### Artikel 4. Bijzondere vluchten
 
 Bij regeling van Onze Minister kunnen regels worden gesteld ten aanzien van de deelname aan het luchtverkeer van luchtvaartuigen die naar hun aard niet kunnen voldoen aan de bepalingen van verordening (EU) nr. 923/2012, met dien verstande dat deze in overeenstemming zijn met de voorwaarden van artikel 71 van de basisverordening.
 
 ### Hoofdstuk II. Het luchtruim en luchtverkeersdiensten
 
-#### Artikel 5. Aanwijzing van luchtruimte en gecontroleerde luchthavens
+##### Artikel 5. Aanwijzing van luchtruimte en gecontroleerde luchthavens
 
 1. Bij regeling van Onze Minister worden in het vluchtinformatiegebied Amsterdam aangewezen:
 
@@ -112,7 +138,7 @@ Bij regeling van Onze Minister kunnen regels worden gesteld ten aanzien van de d
 
 luchtverkeersdiensten worden verleend.
 
-#### Artikel 6. Uitvoering van verlenen van luchtverkeersdiensten
+##### Artikel 6. Uitvoering van verlenen van luchtverkeersdiensten
 
 Bij regeling van Onze Minister worden regels gegeven voor:
 
@@ -124,13 +150,13 @@ Bij regeling van Onze Minister worden regels gegeven voor:
 
 - d. de wijze waarop diensten voor het ontwerpen van vluchtprocedures worden verleend.
 
-#### Artikel 7. Luchtverkeersroutes en -procedures
+##### Artikel 7. Luchtverkeersroutes en -procedures
 
 1. Bij regeling van Onze Minister worden in het vluchtinformatiegebied Amsterdam luchtverkeersroutes en -procedures, waaronder mede zijn begrepen naderings-, vertrek- en wachtprocedures, alsmede luchtverkeerspatronen voor luchthavenverkeer vastgesteld.
 
 2. De gezagvoerder voert een vlucht uit volgens de bij regeling van Onze Minister vastgestelde luchtverkeersroutes en -procedures alsmede luchtverkeerspatronen voor luchthavenverkeer tenzij door een verlener van luchtverkeersleidingsdiensten een anders luidende opdracht is gegeven.
 
-#### Artikel 8. Radio Mandatory Zone, Transponder Mandatory Zone, aerodrome traffic zone, helicopter protection zone of helicopter traffic zone
+##### Artikel 8. Radio Mandatory Zone, Transponder Mandatory Zone, aerodrome traffic zone, helicopter protection zone of helicopter traffic zone
 
 1. Bij regeling van Onze Minister kunnen delen van het luchtruim met vastgestelde afmetingen worden benoemd tot Radio Mandatory Zones waarbinnen het meenemen en gebruiken van radioapparatuur verplicht is. Onze Minister kan in die regeling informatie benoemen die in aanvulling op deel 6 van de bijlage bij verordening (EU) nr. 923/212 bij het binnenvliegen van een dergelijk deel van het luchtruim wordt gemeld.
 
@@ -140,13 +166,13 @@ Bij regeling van Onze Minister worden regels gegeven voor:
 
 4. Bij regeling van Onze Minister kunnen delen van het luchtruim rondom boor- of productieplatforms met vastgestelde afmetingen worden aangewezen als helicopter protection zones of helicopter traffic zones ter bescherming van helikopters die manoeuvres uitvoeren.
 
-#### Artikel 9. Gebieden met beperkingen
+##### Artikel 9. Gebieden met beperkingen
 
 Onze Minister kan ter bescherming van het luchtverkeer ten opzichte van bepaalde soorten luchtverkeer of van bijzondere luchtverkeersactiviteiten delen van het vluchtinformatiegebied Amsterdam aanwijzen waarbinnen het luchtverkeer tijdelijk wordt beperkt overeenkomstig door Onze Minister te stellen voorwaarden. Het is verboden in strijd te handelen met de voorwaarden.
 
 ### Hoofdstuk III. Algemene luchtverkeersregels
 
-#### Artikel 10. Afwerpen of sproeien
+##### Artikel 10. Afwerpen of sproeien
 
 1. Het is verboden voorwerpen of stoffen af te werpen of te sproeien tijdens de vlucht.
 
@@ -168,7 +194,7 @@ Onze Minister kan ter bescherming van het luchtverkeer ten opzichte van bepaalde
 
 5. Het is verboden in strijd te handelen met de voorschriften, bedoeld in het vierde lid.
 
-#### Artikel 11. Slepen
+##### Artikel 11. Slepen
 
 1. Het is verboden een luchtvaartuig of ander voorwerp tijdens de vlucht te slepen.
 
@@ -186,11 +212,11 @@ Onze Minister kan ter bescherming van het luchtverkeer ten opzichte van bepaalde
 
 5. Het is verboden in strijd te handelen met de voorschriften, bedoeld in het vierde lid.
 
-#### Artikel 12. Valschermsprongen
+##### Artikel 12. Valschermsprongen
 
 Bij regeling van Onze Minister worden regels gesteld voor het uitvoeren van een valschermsprong.
 
-#### Artikel 13. Kunstvluchten
+##### Artikel 13. Kunstvluchten
 
 1. Het is verboden kunstvluchten uit te voeren.
 
@@ -204,15 +230,15 @@ Bij regeling van Onze Minister worden regels gesteld voor het uitvoeren van een 
 
 - 2°. het luchtvaartuig niet een voorwerp of ander luchtvaartuig in de lucht sleept of geen valschermspringers naar het afspringpunt brengt.
 
-#### Artikel 14. Formatievluchten
+##### Artikel 14. Formatievluchten
 
 In aanvulling op het bepaalde in deel 3, hoofdstuk 1, van de bijlage bij verordening (EU) nr. 923/2012 zijn formatievluchten wanneer het gecontroleerde vluchten betreft, toegestaan indien vooraf een te volgen procedure is overeengekomen met de betrokken verlener van luchtverkeersleidingsdiensten.
 
-#### Artikel 15. Lichten op het water
+##### Artikel 15. Lichten op het water
 
 Bij regeling van Onze Minister kunnen regels worden gesteld over het tijdstip waarop lichten moeten worden gevoerd door luchtvaartuigen die zich op het water bevinden.
 
-#### Artikel 16. Vliegplannen
+##### Artikel 16. Vliegplannen
 
 1. Bij regeling van Onze Minister kunnen routes en vluchten als bedoeld in deel 4 van de bijlage bij verordening (EU) nr. 923/2012 worden aangewezen waar het verplicht is een vliegplan in te dienen. Een regeling wordt vastgesteld ter ondersteuning van:
 
@@ -226,11 +252,11 @@ Bij regeling van Onze Minister kunnen regels worden gesteld over het tijdstip wa
 
 ### Hoofdstuk IV. Vliegvoorschriften
 
-#### Artikel 17. Zichtweersomstandigheden
+##### Artikel 17. Zichtweersomstandigheden
 
 Bij regeling van Onze Minister kunnen regels worden gesteld omtrent het uitvoeren van VFR-vluchten bij een lagere zichtwaarde dan de waarde, bedoeld in deel 5 van de bijlage bij verordening (EU) nr. 923/2012. Deze regels worden gesteld onder de in dat deel bedoelde voorwaarden.
 
-#### Artikel 18. Zichtvliegvoorschriften
+##### Artikel 18. Zichtvliegvoorschriften
 
 1. Het uitvoeren van een VFR-vlucht buiten de daglichtperiode is verboden.
 
@@ -238,7 +264,7 @@ Bij regeling van Onze Minister kunnen regels worden gesteld omtrent het uitvoere
 
 3. Het is verboden in strijd te handelen met de voorschriften, bedoeld in het tweede lid.
 
-#### Artikel 19. Minimum vlieghoogte
+##### Artikel 19. Minimum vlieghoogte
 
 1. De minimumvlieghoogtes, bedoeld in deel 3, hoofdstuk 1, en deel 5 van de bijlage bij verordening (EU) nr. 923/2012 zijn niet van toepassing:
 
@@ -258,11 +284,11 @@ Bij regeling van Onze Minister kunnen regels worden gesteld omtrent het uitvoere
 
 4. Het is verboden in strijd te handelen met de voorschriften, bedoeld in het derde lid.
 
-#### Artikel 20. Maximumvlieghoogte
+##### Artikel 20. Maximumvlieghoogte
 
 Bij regeling van Onze Minister kunnen maximumvlieghoogtes voor het uitvoeren van vluchten worden vastgesteld.
 
-#### Artikel 21. Positiemeldingen van IFR-vluchten
+##### Artikel 21. Positiemeldingen van IFR-vluchten
 
 Indien ten behoeve van positiemeldingen van een vlucht geen verplichte meldingspunten zijn vastgesteld, vinden positiemeldingen plaats:
 
@@ -270,11 +296,11 @@ Indien ten behoeve van positiemeldingen van een vlucht geen verplichte meldingsp
 
 - b. dan wel, indien het een gecontroleerde vlucht betreft als bedoeld in deel 8 van de bijlage bij verordening (EU) nr. 923/2012, na het verstrijken van het tijdsverloop dat is opgegeven door de betrokken verlener van luchtverkeersleidingsdiensten.
 
-#### Artikel 22. Communicatie
+##### Artikel 22. Communicatie
 
 Indien de bepalingen over communicatie, bedoeld in deel 8 van de bijlage bij verordening (EU) nr. 923/2012, niet kunnen worden nagekomen door storing in de radioverbinding, wordt gehandeld overeenkomstig bij regeling van Onze Minister ter implementatie van de passende bepalingen krachtens de annexen 2 en 10 bij het Verdrag van Chicago gestelde regels.
 
-#### Artikel 23. Apparatuur
+##### Artikel 23. Apparatuur
 
 1. In het belang van de veiligheid van het luchtverkeer worden bij regeling van Onze Minister regels gesteld over de navigatie- en telecommunicatie-installaties en overige boordapparatuur waarmee een luchtvaartuig voor het uitvoeren van een vlucht is uitgerust en de eisen waar die installaties en apparatuur aan voldoen.
 
@@ -284,15 +310,15 @@ Indien de bepalingen over communicatie, bedoeld in deel 8 van de bijlage bij ver
 
 4. Het is verboden te handelen in strijd met de voorschriften, bedoeld in het derde lid.
 
-#### Artikel 24. Bediening apparatuur
+##### Artikel 24. Bediening apparatuur
 
 Bij regeling van Onze Minister worden regels gesteld over de bediening van de boordapparatuur.
 
-#### Artikel 25. Onderschepping
+##### Artikel 25. Onderschepping
 
 Bij regeling van Onze Minister kunnen overeenkomstig het Verdrag van Chicago in het belang van de veiligheid van het luchtverkeer regels worden gesteld over het onderscheppen van burgerluchtvaartuigen door militaire luchtvaartuigen of luchtvaartuigen die worden gebruikt voor politie- of douanedoeleinden.
 
-#### Artikel 26. Luchtvaartinlichtingen
+##### Artikel 26. Luchtvaartinlichtingen
 
 1. Ten behoeve van de vluchtvoorbereiding en de vluchtuitvoering verstrekt de LVNL vóór de vlucht de volgende luchtvaartinlichtingen:
 
@@ -326,57 +352,57 @@ Bij regeling van Onze Minister kunnen overeenkomstig het Verdrag van Chicago in 
 
 ### Hoofdstuk V. Wijzigingen in overige besluiten
 
-#### Artikel 27. [Besluit militaire luchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0025302)
+##### Artikel 27. [Besluit militaire luchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0025302)
 
 Wijzigt het Besluit militaire luchthavens.
 
-#### Artikel 28. [Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629)
+##### Artikel 28. [Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629)
 
 Wijzigt het Besluit bewijzen van bevoegdheid voor de luchtvaart.
 
-#### Artikel 29. [Besluit beperkingen burgerluchtverkeer Waddenzee](https://wetten.overheid.nl/jci1.3:c:BWBR0010215)
+##### Artikel 29. [Besluit beperkingen burgerluchtverkeer Waddenzee](https://wetten.overheid.nl/jci1.3:c:BWBR0010215)
 
 Wijzigt het Besluit beperkingen burgerluchtverkeer Waddenzee.
 
-#### Artikel 30. [Besluit burgerluchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0026525)
+##### Artikel 30. [Besluit burgerluchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0026525)
 
 Wijzigt het Besluit burgerluchthavens
 
-#### Artikel 31. [Besluit luchtvaartuigen 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023922)
+##### Artikel 31. [Besluit luchtvaartuigen 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023922)
 
 Wijzigt het Besluit luchtvaartuigen 2008.
 
-#### Artikel 32. [Regeling toezicht luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0002309)
+##### Artikel 32. [Regeling toezicht luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0002309)
 
 Wijzigt de Regeling Toezicht Luchtvaart.
 
 ### Hoofdstuk VI. Strafbepalingen en slotbepalingen
 
-#### Artikel 33. Strafbepalingen
+##### Artikel 33. Strafbepalingen
 
 Handelen in strijd met het bepaalde bij of krachtens de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=I&artikel=3&z=2024-07-01&g=2024-07-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=I&artikel=4&z=2024-07-01&g=2024-07-01), [4a](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=I&artikel=4a&z=2024-07-01&g=2024-07-01), [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=II&artikel=7&z=2024-07-01&g=2024-07-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=II&artikel=9&z=2024-07-01&g=2024-07-01), [10, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=III&artikel=10&z=2024-07-01&g=2024-07-01), [11, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=III&artikel=11&z=2024-07-01&g=2024-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=III&artikel=12&z=2024-07-01&g=2024-07-01), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=III&artikel=13&z=2024-07-01&g=2024-07-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=III&artikel=14&z=2024-07-01&g=2024-07-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=III&artikel=15&z=2024-07-01&g=2024-07-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=III&artikel=16&z=2024-07-01&g=2024-07-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=IV&artikel=17&z=2024-07-01&g=2024-07-01), [18, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=IV&artikel=18&z=2024-07-01&g=2024-07-01), [19, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=IV&artikel=19&z=2024-07-01&g=2024-07-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=IV&artikel=20&z=2024-07-01&g=2024-07-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=IV&artikel=21&z=2024-07-01&g=2024-07-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=IV&artikel=22&z=2024-07-01&g=2024-07-01) en [23, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=IV&artikel=23&z=2024-07-01&g=2024-07-01), is een strafbaar feit.
 
-#### Artikel 34. Overgangsrecht
+##### Artikel 34. Overgangsrecht
 
 1. De bij of krachtens de [artikelen 13, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=13), [14, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=14), [27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=27), [31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=31), [38, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=38), [44a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=44a), [45, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=45), [49 derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=49) en [51, tweede en derde lid, van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=51) afgegeven ontheffingen en vrijstellingen die hun geldigheid niet hebben verloren, behouden vanaf de inwerkingtreding van dit besluit hun geldigheid voor zover gedurende die periode hun geldigheid overeenkomstig de voorwaarden waaronder de ontheffing en vrijstelling is afgegeven niet is verlopen, en voor zover aan hetgeen bij of krachtens het [Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775), zoals deze gold voor de inwerkingtreding van deze regeling, is voldaan.
 
 2. De bij of krachtens [artikel 44, vierde en vijfde lid, van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=44) afgegeven ontheffingen en vrijstellingen van de in artikel 44, eerste lid, onderdelen a en c, van het Luchtverkeersreglement gestelde verboden, behouden hun geldigheid overeenkomstig de in het eerste lid genoemde voorwaarden.
 
-#### Artikel 35. Intrekking [Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775)
+##### Artikel 35. Intrekking [Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775)
 
 Het [Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775) wordt ingetrokken met dien verstande dat voor de toepassing van het [Luchthavenverkeerbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014330)[artikel 1 van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=1), zoals dat luidt op de dag van inwerkingtreding van dit besluit, van toepassing blijft, tot de eerstvolgende wijziging van [artikel 1 van het Luchthavenverkeerbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&artikel=1.1) in werking is getreden.
 
-#### Artikel 36. Inwerkingtreding
+##### Artikel 36. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 
-#### Artikel 37. Citeertitel
+##### Artikel 37. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit luchtverkeer 2014.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 4a. Overige bijzondere vluchten
+##### Artikel 4a. Overige bijzondere vluchten
 
 Bij regeling van Onze Minister kunnen regels worden gesteld ten aanzien van de deelname aan het luchtverkeer van luchtvaartuigen die niet onder het toepassingsgebied van verordening (EU) nr. 923/2012 vallen.
 

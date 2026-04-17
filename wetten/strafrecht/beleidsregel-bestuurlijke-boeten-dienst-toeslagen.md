@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregel bestuurlijke boeten Dienst Toeslagen"
+title: "Beleidsregel van de Staatssecretaris van Financiën van 10 Juni 2025 over herziening van het boetebeleid (Beleidsregel bestuurlijke boeten Dienst Toeslagen)"
 identifier: "BWBR0051123"
-categorie: "Strafrecht"
-publicatiedatum: 2025-06-20
-laatste_update: 2025-06-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051123"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2025-06-20"
+last_updated: "2025-06-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051123"
+soort: "beleidsregel"
+stam_id: "17448333"
+version_id: "30771562"
+internal_id: "C44111131"
+label_id: "17351184"
+dtd_version: "2.0"
+original_entry_into_force: "2025-06-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051123/2025-06-20/0"
+intitule_bron: "Stcrt.2025-20991"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-06-10"
+intitule_published: "2025-06-19"
+intitule_in_force: "2025-06-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-20991"
+original_signed_date: "2025-06-10"
+original_published_date: "2025-06-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-20991"
+entry_into_force_date: "2025-06-20"
+jci_1_3: "jci1.3:c:BWBR0051123&z=2025-06-20&g=2025-06-20"
+jci_1_0: "1.0:c:BWBR0051123&g=2025-06-20"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel bestuurlijke boeten Dienst Toeslagen"
+signed_date: "2025-06-10"
+entry_into_force: "2025-06-20"
 ---
-
 # Beleidsregel van de Staatssecretaris van Financiën van 10 Juni 2025 over herziening van het boetebeleid (Beleidsregel bestuurlijke boeten Dienst Toeslagen)
 
 Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) en [hoofdstuk 2, paragraaf, 6 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&paragraaf=6);
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -28,7 +54,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - e. **recidive:** recidive als bedoeld in [artikel 41, tweede lid, van de Awir](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=41).
 
-#### Artikel 2. Toepassingsgebied
+##### Artikel 2. Toepassingsgebied
 
 1. In dit besluit worden beleidsregels gegeven die gelden bij het opleggen van bestuurlijke boeten door Dienst Toeslagen op grond van [hoofdstuk 2, paragraaf 6, van de Awir](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&paragraaf=6).
 
@@ -36,7 +62,7 @@ In deze beleidsregel wordt verstaan onder:
 
 3. Op beboetbare feiten die zijn begaan vóór de inwerkingtredingsdatum van dit besluit blijven de (oude) beleidsregels van toepassing, zoals deze luidden ten tijde van het begaan van het beboetbare feit. Indien ter zake van deze feiten op het moment van inwerkingtreding van dit besluit nog geen boete is opgelegd of de boetebeschikking nog niet onherroepelijk vaststaat, dan zijn de beleidsregels van dit besluit van toepassing voor zover deze gunstiger zijn voor overtreder.
 
-#### Artikel 3. Verzuimboetes
+##### Artikel 3. Verzuimboetes
 
 1. Ter zake van een overtreding als bedoeld in [artikel 40, eerste lid, van de Awir](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=40) kan Dienst Toeslagen een boete opleggen.
 
@@ -64,7 +90,7 @@ In deze beleidsregel wordt verstaan onder:
 
 5. Als het aan grove schuld of opzet van de overtreder te wijten is dat de gegevens of inlichtingen niet zijn verstrekt, moet Dienst Toeslagen vooraf een keuze maken tussen het opleggen van een boete op grond van [artikel 40, eerste lid, van de Awir](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=40) of een boete op grond van [artikel 41, eerste lid, van de Awir](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=41).
 
-#### Artikel 4. Vergrijpboetes
+##### Artikel 4. Vergrijpboetes
 
 1. Ter zake van een overtreding als bedoeld in [artikel 41 van de Awir](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=41) kan Dienst Toeslagen een boete opleggen. Bij het bepalen van de hoogte van de boete aan een overtreder niet zijnde kinderopvangorganisatie gaat Dienst Toeslagen uit van het volgende schema:
 
@@ -125,7 +151,7 @@ In deze beleidsregel wordt verstaan onder:
 
 5. Bij het opleggen van een vergrijpboete zal Dienst Toeslagen steeds toepassing geven aan [artikel 5:53 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:53), waarbij een kennisgeving van het voornemen om een boete op te leggen wordt aangemerkt als een rapport in de zin van [artikel 5:48 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:48).
 
-#### Artikel 5. Overige bepalingen
+##### Artikel 5. Overige bepalingen
 
 1. Een eenmaal opgelegde verzuimboete sluit het opleggen van een vergrijpboete voor hetzelfde feit uit behoudens bij nieuwe bezwaren. Het opleggen van een vergrijpboete sluit het nadien opleggen van een verzuimboete voor hetzelfde feit uit. Een opgelegde vergrijpboete kan niet worden omgezet in een verzuimboete.
 
@@ -137,15 +163,15 @@ In deze beleidsregel wordt verstaan onder:
 
 5. Voor een mogelijke vermindering van de boete als gevolg van overschrijding van de redelijke termijn gelden de nadere regels die de Hoge Raad heeft gegeven in zijn arrest van 19 december 2008, nr. 42763, en zoals daarna bekrachtigd door de Raad van State.
 
-#### Artikel 6. Intrekking besluit
+##### Artikel 6. Intrekking besluit
 
 Het [Besluit Bestuurlijke Boeten Dienst Toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0034972) (Stcrt. 2024, 22935) wordt ingetrokken.
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel bestuurlijke boeten Dienst Toeslagen.
 

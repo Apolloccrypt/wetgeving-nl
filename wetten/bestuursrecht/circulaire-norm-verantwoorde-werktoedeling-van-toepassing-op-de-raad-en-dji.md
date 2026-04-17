@@ -1,13 +1,35 @@
 ---
 title: "Circulaire Norm verantwoorde werktoedeling van toepassing op de Raad en DJI"
 identifier: "BWBR0036557"
-categorie: "Bestuursrecht"
-publicatiedatum: 2015-04-24
-laatste_update: 2015-04-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036557"
+country: "nl"
+rank: "circulaire"
+publication_date: "2015-04-24"
+last_updated: "2015-04-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036557"
+soort: "circulaire"
+stam_id: "13145013"
+version_id: "22403852"
+internal_id: "C32092851"
+label_id: "13113654"
+dtd_version: "2.0"
+original_entry_into_force: "2015-04-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036557/2015-04-24/0"
+intitule_bron: "Stcrt.2015-10652"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2015-04-24"
+intitule_in_force: "2015-04-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-10652"
+original_published_date: "2015-04-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-10652"
+entry_into_force_date: "2015-04-24"
+jci_1_3: "jci1.3:c:BWBR0036557&z=2015-04-24&g=2015-04-24"
+jci_1_0: "1.0:c:BWBR0036557&g=2015-04-24"
+citeertitel_status: "redactioneel"
+entry_into_force: "2015-04-24"
 ---
-
 # Circulaire Norm verantwoorde werktoedeling van toepassing op de Raad en DJI
 
 Bij de uitvoering van jeugdhulptaken als bedoeld in de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925) dienen alle wettelijke voorschriften te worden nageleefd die bij of krachtens deze regelgeving zijn opgesteld en die zien op de norm van verantwoorde werktoedeling, als ware zij van overeenkomstige toepassing op de Raad voor de Kinderbescherming (de Raad) en op de onder de Dienst Justitiële Inrichtingen ressorterende rijks justitiële jeugdinrichtingen (rijks JJI’s)1Op grond van artikel 3b, tweede lid, van de Beginselenwet justitiële jeugdinrichtingen zijn de bepalingen in de Jeugdwet voor wat betreft de verantwoorde werktoedeling van overeenkomstige toepassing op de particuliere JJI’s. Deze circulaire ziet niet op de particuliere JJI’s omdat zij al op grond van de geldende regelgeving juridisch aan deze normen zijn gebonden..

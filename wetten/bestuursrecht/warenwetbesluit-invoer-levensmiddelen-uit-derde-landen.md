@@ -1,13 +1,35 @@
 ---
-title: "Warenwetbesluit Invoer levensmiddelen uit derde landen"
+title: "Besluit van 13 december 1993, houdende vaststelling van het Warenwetbesluit Invoer levensmiddelen uit derde landen"
 identifier: "BWBR0006310"
-categorie: "Bestuursrecht"
-publicatiedatum: 2019-12-14
-laatste_update: 2019-12-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006310"
+country: "nl"
+rank: "amvb"
+publication_date: "2019-12-14"
+last_updated: "2019-12-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006310"
+soort: "AMvB"
+stam_id: "1443973"
+version_id: "2164782"
+internal_id: "C2164781"
+label_id: "1403014"
+dtd_version: "2.0"
+original_entry_into_force: "1994-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006310/2019-12-14/0"
+intitule_bron: "Stb.1993-698"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1993-12-13"
+intitule_status: "goed"
+original_publication: "Stb.1993-698"
+original_signed_date: "1993-12-13"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1994-01-01"
+jci_1_3: "jci1.3:c:BWBR0006310&z=2019-12-14&g=2019-12-14"
+jci_1_0: "1.0:c:BWBR0006310&g=2019-12-14"
+citeertitel_status: "officieel"
+short_title: "Warenwetbesluit Invoer levensmiddelen uit derde landen"
+signed_date: "1993-12-13"
+entry_into_force: "1994-01-01"
 ---
-
 # Besluit van 13 december 1993, houdende vaststelling van het Warenwetbesluit Invoer levensmiddelen uit derde landen
 
 Op de voordracht van de Staatssecretaris van Welzijn, Volksgezondheid en Cultuur van 19 augustus 1993, nr. DGVgz/VVP/L 931301, gedaan in overeenstemming met Onze Minister van Economische Zaken en de Staatssecretaris van Landbouw, Natuurbeheer en Visserij;
@@ -22,7 +44,7 @@ Gezien het nader rapport van de Staatssecretaris van Welzijn, Volksgezondheid en
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -36,7 +58,7 @@ Hebben goedgevonden en verstaan:
 
 2. Dit besluit is niet van toepassing op een bindend EG-besluit voor zover dat, behoudens op ondergeschikte punten, ruimte laat voor het maken van keuzen van beleidsinhoudelijke aard.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het is verboden krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006310&artikel=4&z=2019-12-14&g=2019-12-14) aangewezen eet- of drinkwaren binnen Nederlands grondgebied te brengen of te verhandelen.
 
@@ -44,11 +66,11 @@ Hebben goedgevonden en verstaan:
 
 3. Het is verboden te handelen in strijd met een bepaling uit een bindend EG-besluit, voor zover het een verordening betreft en overtreding van die bepaling door Onze Minister is aangeduid als strafbaar feit.
 
-#### Artikel 3
+##### Artikel 3
 
 Eet- of drinkwaren worden slechts binnen Nederlands grondgebied gebracht of verhandeld indien die waren bij aanwending overeenkomstig redelijkerwijze te verwachten gebruik uit het oogpunt van gezondheid geschikt zijn voor menselijke consumptie.
 
-#### Artikel 4
+##### Artikel 4
 
 Onze Minister stelt ter uitvoering van:
 
@@ -58,11 +80,11 @@ Onze Minister stelt ter uitvoering van:
 
 nadere regels vast.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang van 1 januari 1994.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit wordt aangehaald als: Warenwetbesluit Invoer levensmiddelen uit derde landen.
 

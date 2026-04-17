@@ -1,13 +1,37 @@
 ---
 title: "Circulaire Onderhoudsbaggerspecie"
 identifier: "BWBR0018465"
-categorie: "Bestuursrecht"
-publicatiedatum: 2005-07-06
-laatste_update: 2005-07-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0018465"
+country: "nl"
+rank: "circulaire"
+publication_date: "2005-07-06"
+last_updated: "2005-07-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0018465"
+soort: "circulaire"
+stam_id: "7136863"
+version_id: "12037342"
+internal_id: "C16142521"
+label_id: "7124704"
+original_entry_into_force: "2005-07-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0018465/2005-07-06/0"
+intitule_bron: "Stcrt.2005-128"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-06-22"
+intitule_published: "2005-05-06"
+intitule_in_force: "2005-05-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-128"
+original_signed_date: "2005-06-22"
+original_published_date: "2005-05-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2005-128-p27-SC70585"
+entry_into_force_date: "2005-07-06"
+jci_1_3: "jci1.3:c:BWBR0018465&z=2005-07-06&g=2005-07-06"
+jci_1_0: "1.0:c:BWBR0018465&g=2005-07-06"
+citeertitel_status: "redactioneel"
+signed_date: "2005-06-22"
+entry_into_force: "2005-07-06"
 ---
-
 # Circulaire Onderhoudsbaggerspecie
 
 In deze circulaire vraag ik uw aandacht voor de regionale onderhoudsbaggerspecie. Ik verwijs naar het Tienjarenscenario waterbodems (TJS) voor de urgentie van de problematiek en de noodzaak om in afwachting van toekomstige regelgeving die is aangekondigd in de Beleidsbrief bodem nu reeds de mogelijkheden van de huidige regelgeving te benutten om problemen te verlichten. Ik schets het toekomstperspectief van de regelgeving voor grond en bagger, specifiek gericht op de veranderingen ten opzichte van de huidige regelgeving voor onderhoudsbaggerspecie. In dit verband vraag ik uw aandacht voor de resultaten van het project Bagger en Bodem dat in opdracht van het bestuurlijk overleg TJS voorwerk heeft gedaan voor de herziening van de regelgeving voor het op land brengen van onderhoudsbaggerspecie. Als eerste breng ik twee onderdelen in de regelgeving voor het verspreiden en toepassen van baggerspecie onder uw aandacht waarbij een nadere interpretatie kan helpen de knelpunten in de praktijk te verlichten. Bovendien wijs ik u op de ‘Handreiking verspreiding en toepassing van bagger’ en de mogelijkheden die het [Bouwstoffenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007667) en de bevoegdheid van GS om ontheffing van het stortverbod buiten inrichtingen te verlenen bieden. Ik doe een beroep op u als betrokken overheden om waar dat nodig is in gezamenlijk overleg, actief te zoeken naar mogelijkheden en locaties om onderhoudsbaggerspecie toe te passen, waarbij het huidige beleid met betrekking tot stand-still en instemming van de perceelseigenaar uiteraard van toepassing blijft. Daarbij is het van belang de perceelseigenaar van de relevante informatie te voorzien, zodat deze een beargumenteerde beslissing kan nemen over het accepteren van de bagger. Tenslotte wijs ik u op de mogelijkheid gebruik te maken van ondersteuning door de organisatie Bodem+.

@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregel huisartsenzorg en multidisciplinaire zorg 2026"
 identifier: "BWBR0051261"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051261"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051261"
+soort: "zbo"
+stam_id: "17473493"
+version_id: "30817752"
+internal_id: "C44167141"
+label_id: "17375874"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051261/2026-01-01/0"
+intitule_bron: "Stcrt.2025-24302"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-06-24"
+intitule_published: "2025-07-17"
+intitule_in_force: "2025-07-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-24302"
+original_signed_date: "2025-06-24"
+original_published_date: "2025-07-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-24302"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051261&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051261&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2025-06-24"
+entry_into_force: "2026-01-01"
 ---
-
 # Beleidsregel huisartsenzorg en multidisciplinaire zorg 2026
 
 Gelet op [artikel 57, eerste lid, onderdeel b en c, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot het uitoefenen van de bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen.
@@ -16,7 +41,7 @@ Gelet op [artikel 53, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c
 
 Gelet op [artikel 59, onderdeel b, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=59) heeft de Minister van Volksgezondheid, Welzijn en Sport (VWS) met brief van 14 juli 2014, met kenmerk [642423-123512-MC](https://wetten.overheid.nl/jci1.3:c:BWBR0035401), en brief van 11 juli 2017, met kenmerk 1153348-165402, ten behoeve van de voorliggende beleidsregel aanwijzingen op grond van [artikel 7 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7) aan de NZa gegeven.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
@@ -48,11 +73,11 @@ In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
 - **Huisartsenzorg bij eerstelijnsverblijf:** Huisartsenzorg bij verblijf als bedoeld in [artikel 2.12 Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.12) (Bzv), voor zover het gaat om verblijf dat medisch noodzakelijk is in verband met de geneeskundige zorg, bedoeld in [artikel 2.4 Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.4), voor zover het gaat om zorg zoals huisartsen die plegen te bieden.
 
-#### Artikel 2. Doel van de beleidsregel
+##### Artikel 2. Doel van de beleidsregel
 
 Het doel van deze beleidsregel is om vast te leggen op welke wijze de NZa gebruik maakt van haar bevoegdheid om tarieven en prestatiebeschrijvingen vast te leggen op het gebied van huisartsenzorg en multidisciplinaire zorg.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze beleidsregel is van toepassing op huisartsgeneeskundige zorg en multidisciplinaire zorg zoals omschreven bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) (Zvw).
 
@@ -60,7 +85,7 @@ Voor zover geen sprake is van zorg als omschreven in de vorige zin, is deze bele
 
 Deze beleidsregel is verder van toepassing op geneeskundige zorg zoals omschreven bij of krachtens de [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) betreffende de multidisciplinaire samenwerking tussen zorgaanbieders middels geïntegreerde eerstelijnszorgproducten.
 
-#### Artikel 4. Globale beschrijving bekostigingsmodel
+##### Artikel 4. Globale beschrijving bekostigingsmodel
 
 De bekostiging van huisartsgeneeskundige zorg en multidisciplinaire zorg waarvan huisartsenzorg onderdeel is (multidisciplinaire eerstelijnszorg) en is opgebouwd rondom drie segmenten, waarbij ieder segment zijn eigen kenmerken heeft.
 
@@ -90,7 +115,7 @@ Ruimte voor zorgvernieuwing in Segment 3 wordt geboden middels drie separate pre
 
 Prestaties die niet goed in één van de drie segmenten zijn in te passen, worden in een separaat artikel ([artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0051261&artikel=8&z=2026-01-01&g=2026-01-01), prestaties buiten segmenten) beschreven.
 
-#### Artikel 5. Prestatiebeschrijvingen en bepalingen Segment 1
+##### Artikel 5. Prestatiebeschrijvingen en bepalingen Segment 1
 
 Binnen Segment 1 worden de volgende prestatiebeschrijvingen onderscheiden:
 
@@ -510,7 +535,7 @@ De prestatie wordt maximaal één keer per zorgvraag gedeclareerd, ook indien er
 
 Onderlinge dienstverlening betreft de levering van een (deel)prestatie of van een geheel van prestaties door een 'andere zorgaanbieder' in opdracht van een 'zorgaanbieder'. De andere zorgaanbieder wordt in dit kader ook wel aangeduid als de 'uitvoerende zorgaanbieder'. De zorgaanbieder wordt in dit kader ook wel aangeduid als de 'opdrachtgevende zorgaanbieder'.
 
-#### Artikel 6. Prestatiebeschrijvingen en bepalingen in Segment 2
+##### Artikel 6. Prestatiebeschrijvingen en bepalingen in Segment 2
 
 Binnen Segment 2 worden de volgende prestatiebeschrijvingen onderscheiden:
 
@@ -708,7 +733,7 @@ Als de prestatie multidisciplinaire zorg hart- of vaatziekten – niet gecontrac
 
 - –. Alle prestaties zoals beschreven in deze beleidsregel.
 
-#### Artikel 7. Prestatiebeschrijvingen en bepalingen Segment 3
+##### Artikel 7. Prestatiebeschrijvingen en bepalingen Segment 3
 
 Binnen Segment 3 worden de volgende prestatiebeschrijvingen onderscheiden:
 
@@ -806,7 +831,7 @@ Binnen het domein zorgvernieuwing zijn drie separate prestaties onderscheiden.
 
 - 6. Voor de deelprestaties g tot en met i geldt niet noodzakelijkerwijs dat de afgesproken tarieven betrekking moeten hebben op een bedrag per verzekerde, dan wel een bedrag per geïncludeerde patiënt.
 
-#### Artikel 8. Prestatiebeschrijvingen en bepalingen buiten segmenten
+##### Artikel 8. Prestatiebeschrijvingen en bepalingen buiten segmenten
 
 Voor de prestaties buiten de segmenten worden de volgende prestatiebeschrijvingen onderscheiden.
 
@@ -1194,7 +1219,7 @@ Het totaal aan medisch noodzakelijke handelingen zoals beschreven in de per pres
 
 Onderlinge dienstverlening betreft de levering van een (deel)prestatie of van een geheel van prestaties door een 'andere zorgaanbieder' in opdracht van een 'zorgaanbieder'. De andere zorgaanbieder wordt in dit kader ook wel aangeduid als de 'uitvoerende zorgaanbieder'. De zorgaanbieder wordt in dit kader ook wel aangeduid als de 'opdrachtgevende zorgaanbieder'.
 
-#### Artikel 9. Tariefsoort en tariefonderbouwing
+##### Artikel 9. Tariefsoort en tariefonderbouwing
 
 Voor alle prestaties zoals beschreven in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0051261&artikel=5&z=2026-01-01&g=2026-01-01) van deze beleidsregel geldt dat de NZa maximumtarieven vaststelt. Uitzondering hierop vormt de prestatie onderlinge dienstverlening (zie artikel 5.1 onderdeel 7): hiervoor geldt een vrij tarief.
 
@@ -1234,15 +1259,15 @@ De onderbouwing van de rekenmethode die gehanteerd wordt door de NZa om tot de m
 
 De tarieven voor onderlinge dienstverlening in het kader van de prestaties buiten segmenten zijn vrij.
 
-#### Artikel 10. Intrekken oude beleidsregel
+##### Artikel 10. Intrekken oude beleidsregel
 
 Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt de [Beleidsregel huisartsenzorg en multidisciplinaire zorg 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0050022), met kenmerk BR/REG-25136, ingetrokken.
 
-#### Artikel 11. Toepasselijkheid voorafgaande beleidsregel
+##### Artikel 11. Toepasselijkheid voorafgaande beleidsregel
 
 De [Beleidsregel huisartsenzorg en multidisciplinaire zorg 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0050022) met kenmerk BR/REG-25136, blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die beleidsregel en die betrekking hebben op de periode waarvoor die beleidsregel gold.
 
-#### Artikel 12. Inwerkingtreding en bekendmaking
+##### Artikel 12. Inwerkingtreding en bekendmaking
 
 Deze beleidsregel treedt in werking met ingang van 1 januari 2026.
 
@@ -1250,6 +1275,6 @@ Ingevolge [artikel 5, aanhef en onder e, van de Bekendmakingswet](https://wetten
 
 De beleidsregel ligt ter inzage bij de NZa en is te raadplegen op [www.nza.nl](http://www.nza.nl).
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel huisartsenzorg en multidisciplinaire zorg 2026.

@@ -1,13 +1,39 @@
 ---
-title: "Besluit kleine herstellingen"
+title: "Besluit van 8 april 2003, houdende aanwijzing van herstellingen die moeten worden aangemerkt als kleine herstellingen als bedoeld in artikel 240 van Boek 7 van het Burgerlijk Wetboek (Besluit kleine herstellingen)"
 identifier: "BWBR0014931"
-categorie: "Bestuursrecht"
-publicatiedatum: 2003-08-01
-laatste_update: 2003-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0014931"
+country: "nl"
+rank: "amvb"
+publication_date: "2003-08-01"
+last_updated: "2003-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0014931"
+soort: "AMvB"
+stam_id: "3475753"
+version_id: "5259092"
+internal_id: "C6617461"
+label_id: "3455774"
+dtd_version: "2.0"
+original_entry_into_force: "2003-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0014931/2003-08-01/0"
+intitule_bron: "Stb.2003-168"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-04-08"
+intitule_published: "2003-04-29"
+intitule_in_force: "2003-06-17"
+intitule_status: "goed"
+original_publication: "Stb.2003-168"
+original_signed_date: "2003-04-08"
+original_published_date: "2003-04-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2003-168"
+entry_into_force_date: "2003-08-01"
+jci_1_3: "jci1.3:c:BWBR0014931&z=2003-08-01&g=2003-08-01"
+jci_1_0: "1.0:c:BWBR0014931&g=2003-08-01"
+citeertitel_status: "officieel"
+short_title: "Besluit kleine herstellingen"
+signed_date: "2003-04-08"
+entry_into_force: "2003-08-01"
 ---
-
 # Besluit van 8 april 2003, houdende aanwijzing van herstellingen die moeten worden aangemerkt als kleine herstellingen als bedoeld in artikel 240 van Boek 7 van het Burgerlijk Wetboek (Besluit kleine herstellingen)
 
 Op de voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 14 november 2002, nr. MJZ2002095609, gedaan mede namens Onze Minister van Justitie;
@@ -20,15 +46,15 @@ Gezien het nader rapport van Onze Minister van Volkshuisvesting, Ruimtelijke Ord
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 De herstellingen aangewezen in de bijlage behorend bij dit besluit worden in ieder geval aangemerkt als kleine herstellingen als bedoeld in [artikel 240 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=240).
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit wordt aangehaald als: Besluit kleine herstellingen.
 

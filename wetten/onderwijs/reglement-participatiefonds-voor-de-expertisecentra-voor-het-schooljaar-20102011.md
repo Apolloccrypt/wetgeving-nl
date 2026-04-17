@@ -1,20 +1,42 @@
 ---
 title: "Reglement Participatiefonds voor de Expertisecentra voor het schooljaar 2010–2011"
 identifier: "BWBR0027683"
-categorie: "Onderwijs"
-publicatiedatum: 2011-02-01
-laatste_update: 2011-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027683"
+country: "nl"
+rank: "zbo"
+publication_date: "2011-02-01"
+last_updated: "2011-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027683"
+soort: "zbo"
+stam_id: "10538163"
+version_id: "17372982"
+internal_id: "C23971871"
+label_id: "10514194"
+dtd_version: "2.0"
+original_entry_into_force: "2010-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027683/2011-02-01/0"
+intitule_bron: "Stcrt.2010-7952"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2010-05-28"
+intitule_in_force: "2010-05-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-7952"
+original_published_date: "2010-05-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-7952"
+entry_into_force_date: "2010-02-01"
+jci_1_3: "jci1.3:c:BWBR0027683&z=2011-02-01&g=2011-02-01"
+jci_1_0: "1.0:c:BWBR0027683&g=2011-02-01"
+citeertitel_status: "officieel"
+entry_into_force: "2010-02-01"
 ---
-
 # Reglement Participatiefonds voor de Expertisecentra voor het schooljaar 2010–2011
 
 Het bestuur van de Stichting Participatiefonds voor het Onderwijs besluit, gelet op de [Wet budgettering wachtgelden en instelling Participatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0007312) (Stb. 1995, 155), het [Besluit Participatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0008102) (Stb. 1996, 384) en de statuten van de Stichting Participatiefonds voor het Onderwijs, het volgende reglement voor de Expertisecentra vast te stellen:
 
 ### Deel 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 - 1. **Afvloeiingsvolgorde:** de volgorde waarin personeel voor afvloeiing in aanmerking komt. Hierin is tevens het eindigen van dienstverbanden van rechtswege betrokken. Hoofdregel is dat eerst al het tijdelijk aangestelde personeel dient te zijn afgevloeid voordat vast personeel kan worden ontslagen.
 
@@ -150,7 +172,7 @@ Vervanging bij de volgende vormen van afwezigheid van onderwijspersoneel wordt g
 
 ### Deel 2. Premie
 
-#### Artikel 2. Verplichting tot betaling van premie
+##### Artikel 2. Verplichting tot betaling van premie
 
 Het bevoegd gezag is verplicht, op de wijze zoals bepaald in de bestuursvoorschriften, een door het Participatiefonds te bepalen bijdrage te voldoen in verband met de kosten voor werkloosheidsuitkeringen, suppleties inzake arbeidsongeschiktheid alsmede uitkeringen wegens ziekte en arbeidsongeschiktheid van gewezen personeel anders dan op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888).
 
@@ -160,7 +182,7 @@ Er zijn geen toelichtingen.
 
 ### Deel 3. Instroomtoets
 
-#### Artikel 3. Het vergoedingsverzoek
+##### Artikel 3. Het vergoedingsverzoek
 
 3.1. **Vergoedingsverzoek**
 
@@ -224,7 +246,7 @@ Bij het beëindigen van een vervangingsbetrekking wordt het bevoegd gezag gevraa
 
 Hiertoe overlegt het bevoegd gezag een afschrift van de akte van aanstelling danwel een afschrift van de akte van benoeming.
 
-#### Artikel 4. Toetsing
+##### Artikel 4. Toetsing
 
 4.1. **Voorkomen werkloosheid**
 
@@ -350,7 +372,7 @@ Indien geen invulling is gegeven aan de verplichting als genoemd in categorie II
 
 Ook van het betrokken personeelslid mag verwacht worden dat deze de nodige inspanning verricht tot het behoud van werk. In het kader van de instroomtoets staat echter de inspanning van de werkgever centraal.
 
-#### Artikel 5. Personele bezetting
+##### Artikel 5. Personele bezetting
 
 5.1. Het bevoegd gezag verstrekt bij de ontslagen per of na 1 augustus 2010 informatie over de personele bezetting, als het ontslag op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7&z=2011-02-01&g=2011-02-01), [7A](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7A&z=2011-02-01&g=2011-02-01), [7B](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7B&z=2011-02-01&g=2011-02-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=8&z=2011-02-01&g=2011-02-01) of [11](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=11&z=2011-02-01&g=2011-02-01) gemeld wordt.
 
@@ -414,7 +436,7 @@ In dit artikel is aangegeven wanneer en op welke wijze het bevoegd gezag het Par
 
 De personele bezetting is alleen van belang indien deze van invloed is op de reden van ontslag, en is dus niet noodzakelijk bij persoonsgebonden redenen (dus wel bij ontslag op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7&z=2011-02-01&g=2011-02-01), [7A](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7A&z=2011-02-01&g=2011-02-01), [7B](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7B&z=2011-02-01&g=2011-02-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=8&z=2011-02-01&g=2011-02-01) of [11](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=11&z=2011-02-01&g=2011-02-01) en niet bij ontslag op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=9&z=2011-02-01&g=2011-02-01)).
 
-#### Artikel 6. Toewijzen/afwijzen vergoedingsverzoek
+##### Artikel 6. Toewijzen/afwijzen vergoedingsverzoek
 
 6.1. Een vergoedingsverzoek kan alleen worden toegewezen indien het ontslag is verleend met inachtneming van het gestelde in [artikel 7 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7&z=2011-02-01&g=2011-02-01) en wanneer tevens is voldaan aan het gestelde in [artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=4&z=2011-02-01&g=2011-02-01).
 
@@ -426,7 +448,7 @@ De personele bezetting is alleen van belang indien deze van invloed is op de red
 
 **Lees dit artikel voordat u het formulier ‘Opgave formatie’ invult.**
 
-#### Artikel 7. Ontslag wegens daling rijksbekostiging personeel en financiële bijdragen van derden bij ontslagbeleid
+##### Artikel 7. Ontslag wegens daling rijksbekostiging personeel en financiële bijdragen van derden bij ontslagbeleid
 
 7.1. **Ontslaggrond**
 
@@ -550,7 +572,7 @@ Voor de ruimte van de rijksbekostiging van personeel die ontstaat door natuurlij
 
 Bij een ontslag per andere datum dan 1 augustus of laatste schooldag past het bevoegd gezag zijn melding aan, aan deze andere datum en richt de melding verder in overeenkomstig de wijze als in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7&z=2010-12-02&g=2010-12-02) beschreven, maar nu met als uitgangspunt deze andere datum.
 
-#### Artikel 7A. Ontslag wegens daling rijksbekostiging personeel bij werkgelegenheidsbeleid
+##### Artikel 7A. Ontslag wegens daling rijksbekostiging personeel bij werkgelegenheidsbeleid
 
 7A.1. **Ontslaggrond**
 
@@ -652,7 +674,7 @@ Bij het beoordelen van een vergoedingsverzoek van uitkeringskosten welke het gev
 
 Bij een ontslag per andere datum dan 1 augustus of laatste schooldag past het bevoegd gezag zijn melding aan, aan deze andere datum en richt de melding verder in overeenkomstig de wijze als in [artikel 7A](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7A&z=2010-12-02&g=2010-12-02) beschreven, maar nu met als uitgangspunt deze andere datum.
 
-#### Artikel 7B. Ontslag wegens reorganisatie
+##### Artikel 7B. Ontslag wegens reorganisatie
 
 7B.1. **Ontslaggrond**
 
@@ -708,7 +730,7 @@ Bij een ontslag per andere datum dan 1 augustus of laatste schooldag past het be
 
 Bij een ontslag per andere datum dan 1 augustus of laatste schooldag past het bevoegd gezag zijn melding aan, aan deze andere datum en richt de melding verder in overeenkomstig de wijze als in [artikel 7B](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7B&z=2011-02-01&g=2011-02-01) beschreven, maar nu met als uitgangspunt deze andere datum.
 
-#### Artikel 8. Ontslag vanwege kwalitatieve fricties
+##### Artikel 8. Ontslag vanwege kwalitatieve fricties
 
 8.1. **Ontslaggrond**
 
@@ -826,7 +848,7 @@ Ten gevolge van natuurlijk verloop en andere ontslagen komt formatieruimte besch
 
 Ten gevolge van natuurlijk verloop en andere ontslagen komt formatieruimte beschikbaar. Om deze reden betrekt het bevoegd gezag het natuurlijk verloop en andere ontslagen bij de melding. Hierbij kan worden volstaan met het natuurlijk verloop en andere ontslagen dat zich in de in [artikel 8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=8&z=2011-02-01&g=2011-02-01) bedoelde situatie heeft voorgedaan.
 
-#### Artikel 9. Overige ontslaggronden
+##### Artikel 9. Overige ontslaggronden
 
 Overige gronden voor toewijzing van het vergoedingsverzoek kunnen zijn:
 
@@ -1154,7 +1176,7 @@ Daarnaast dient het bevoegd gezag te voldoen aan de inspanningsverplichting, art
 
 - 3. aanbieden van outplacement (outplacement vervangt de inspanningen 1 en 2 van deze categorie).
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
@@ -1164,7 +1186,7 @@ Er zijn geen toelichtingen.
 
 Er zijn geen toelichtingen.
 
-#### Artikel 11. Schoonmaakpersoneel/personeel Centrale Dienst
+##### Artikel 11. Schoonmaakpersoneel/personeel Centrale Dienst
 
 11.1. **Ontslaggrond**
 
@@ -1248,7 +1270,7 @@ Dit artikel is ook van toepassing op het ontslag van personeel bij een Centrale 
 
 Indien het ontslag op een andere datum dan 1 januari of 1 augustus wordt geëffectueerd, geeft het bevoegd gezag aan welke daling aan het ontslag ten grondslag ligt en waarom betrokkene niet langer in dienst gehouden kan worden.
 
-#### Artikel 12. Vormvoorschriften
+##### Artikel 12. Vormvoorschriften
 
 12.1. **Ter uitwerking van de in dit reglement opgenomen bepalingen omtrent toetsing van het ontslag worden door het bevoegd gezag de volgende formulieren gehanteerd en toelichtingen verstrekt:**
 
@@ -1298,7 +1320,7 @@ wordt hier tevens opgave van gedaan bij de melding van ontslag op grond van het 
 
 Uitgangspunt is dat alle informatie die het Participatiefonds in het kader van de instroomtoets van het bevoegd gezag ontvangt, wordt meegewogen in de beoordeling van het vergoedingsverzoek.
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
@@ -1306,13 +1328,13 @@ Vervallen
 
 Er zijn geen toelichtingen.
 
-#### Artikel 14. Nieuwe feiten en omstandigheden
+##### Artikel 14. Nieuwe feiten en omstandigheden
 
 14.1. Indien aan het Participatiefonds na het afgeven van de beschikking blijkt dat de beslissing genomen is op basis van onjuiste informatie, houdt zij zich het recht voor om de beslissing te herzien.
 
 14.2. Het bevoegd gezag doet schriftelijk melding van feiten en omstandigheden welke ten tijde van het nemen van de beslissing niet bekend waren of konden worden geacht en van zodanige aard zijn dat zij tot een andere beslissing aanleiding kunnen geven.
 
-#### Artikel 15. Medewerking controle
+##### Artikel 15. Medewerking controle
 
 Het bevoegd gezag is verplicht alle medewerking te verlenen aan een controle door of namens het Participatiefonds welke gericht is op de beoordeling van de rechtmatigheid van een melding. Het bevoegd gezag draagt zorg voor een administratie welke op een centraal punt is in te zien en geeft hier desgevraagd inzage in voor zover relevant en betrekking hebbend op de melding.
 
@@ -1322,7 +1344,7 @@ De in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artike
 
 ### Deel 4. Zelfstandig wachtgeldbeleid
 
-#### Artikel 16 tot en met 25
+##### Artikel 16 tot en met 25
 
 **Vervallen**
 
@@ -1332,39 +1354,39 @@ Er zijn geen toelichtingen.
 
 ### Deel 5. Slotbepalingen
 
-#### Artikel 26
+##### Artikel 26
 
 **Vervallen**
 
-#### Artikel 27. Toelichting en bestuursvoorschriften
+##### Artikel 27. Toelichting en bestuursvoorschriften
 
 27.1. Aan dit reglement is een toelichting toegevoegd die deel uitmaakt van het reglement.
 
 27.2. Het Participatiefonds hanteert bestuursvoorschriften waarin de belangrijkste uitvoeringstechnische verplichtingen voor bevoegde gezagsorganen zijn neergelegd.
 
-#### Artikel 28. Wijziging of afwijking van het reglement
+##### Artikel 28. Wijziging of afwijking van het reglement
 
 28.1. Het bestuur van het Participatiefonds is gerechtigd dit reglement op ieder moment aan te passen indien daar aanleiding toe is.
 
 28.2. Om zwaarwegende redenen kan het bestuur van het Participatiefonds afwijken van hetgeen in het reglement gesteld is.
 
-#### Artikel 29. Onvoorziene omstandigheden
+##### Artikel 29. Onvoorziene omstandigheden
 
 In gevallen waarin het reglement niet voorziet, beslist het bestuur van het Participatiefonds.
 
-#### Artikel 30. Wijziging voorgaand reglement
+##### Artikel 30. Wijziging voorgaand reglement
 
 Wijzigt hetReglement Participatiefonds voor de Expertisecentra voor het schooljaar 2009–2010.
 
-#### Artikel 31. Citeertitel
+##### Artikel 31. Citeertitel
 
 Dit reglement kan worden aangehaald als het ‘Reglement Participatiefonds voor de Expertisecentra voor het schooljaar 2010–2011’.
 
-#### Artikel 32. Inwerkingtreding
+##### Artikel 32. Inwerkingtreding
 
 Dit reglement treedt in werking op 1 februari 2010 en heeft betrekking op ontslagen die zijn of worden geëffectueerd in de periode van 1 augustus 2010 tot en met 31 juli 2011. Dit reglement is voor onbepaalde tijd van kracht.
 
-#### Artikel 33. Bekendmaking
+##### Artikel 33. Bekendmaking
 
 Dit reglement wordt bekendgemaakt middels toezending aan de betrokken bevoegde gezagsorganen, vermelding in het publicatieblad Rentree van het Participatiefonds en plaatsing op de internetsite van het Participatiefonds. Van de bekendmaking wordt mededeling gedaan in de Staatscourant.
 

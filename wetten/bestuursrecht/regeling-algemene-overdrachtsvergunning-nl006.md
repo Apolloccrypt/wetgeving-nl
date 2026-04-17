@@ -1,13 +1,39 @@
 ---
-title: "Regeling algemene overdrachtsvergunning NL006"
+title: "Regeling van de Staatssecretaris van Economische Zaken, Landbouw en Innovatie van 28 oktober 2011, nr. WJZ/11151311, houdende regels inzake de algemene overdrachtsvergunning NL006 voor reparatie, onderhoud en revisie (Regeling algemene overdrachtsvergunning NL006)"
 identifier: "BWBR0030606"
-categorie: "Bestuursrecht"
-publicatiedatum: 2021-07-31
-laatste_update: 2021-07-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030606"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-07-31"
+last_updated: "2021-07-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030606"
+soort: "ministeriele-regeling"
+stam_id: "11490183"
+version_id: "18899442"
+internal_id: "C26368071"
+label_id: "11463624"
+dtd_version: "2.0"
+original_entry_into_force: "2012-06-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030606/2021-07-31/0"
+intitule_bron: "Stcrt.2011-19964"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-10-28"
+intitule_published: "2011-11-08"
+intitule_in_force: "2011-11-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-19964"
+original_signed_date: "2011-10-28"
+original_published_date: "2011-11-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-19964"
+entry_into_force_date: "2012-06-30"
+jci_1_3: "jci1.3:c:BWBR0030606&z=2021-07-31&g=2021-07-31"
+jci_1_0: "1.0:c:BWBR0030606&g=2021-07-31"
+citeertitel_status: "officieel"
+short_title: "Regeling algemene overdrachtsvergunning NL006"
+signed_date: "2011-10-28"
+entry_into_force: "2012-06-30"
 ---
-
 # Regeling van de Staatssecretaris van Economische Zaken, Landbouw en Innovatie van 28 oktober 2011, nr. WJZ/11151311, houdende regels inzake de algemene overdrachtsvergunning NL006 voor reparatie, onderhoud en revisie (Regeling algemene overdrachtsvergunning NL006)
 
 Gelet op [richtlijn 2009/43](32009L0043) van het Europees Parlement en de Raad van 6 mei 2009 betreffende de vereenvoudiging van de voorwaarden voor de overdracht van defensiegerelateerde producten binnen de Gemeenschap (PbEU L 146) en de [artikelen 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=20), [25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=25), en [26, tweede lid, van het Besluit strategische goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=26);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -32,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Algemene overdrachtsvergunning
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Minister van Buitenlandse Zaken verleent een algemene overdrachtsvergunning voor de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030606&paragraaf=2&artikel=3&z=2021-07-31&g=2021-07-31) genoemde categorieën van militaire goederen indien aan de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030606&paragraaf=3&artikel=4&z=2021-07-31&g=2021-07-31) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0030606&paragraaf=3&artikel=5&z=2021-07-31&g=2021-07-31) genoemde voorwaarden is voldaan.
 
@@ -40,7 +66,7 @@ In deze regeling wordt verstaan onder:
 
 3. Deze regeling is van overeenkomstige toepassing op uitvoer naar Noorwegen, IJsland en het Verenigd Koninkrijk.
 
-#### Artikel 3
+##### Artikel 3
 
 De algemene overdrachtsvergunning geldt voor de volgende categorieën militaire goederen, waarbij de nummers verwijzen naar de nummers, opgenomen in de gemeenschappelijke EU-lijst van militaire goederen:
 
@@ -70,17 +96,17 @@ De algemene overdrachtsvergunning geldt voor de volgende categorieën militaire 
 
 #### § 3. Voorwaarden
 
-#### Artikel 4
+##### Artikel 4
 
 De algemene overdrachtsvergunning is verleend onder de voorwaarde dat de overdracht geschiedt in verband met reparatie, onderhoud en revisie.
 
-#### Artikel 5
+##### Artikel 5
 
 De algemene overdrachtsvergunning is verleend onder de voorwaarde dat de beschikkingsbevoegde naar aanleiding van een verzoek tot registratie als bedoeld in [artikel 26 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=26), een geldig registratienummer heeft.
 
 #### § 4. Voorschriften
 
-#### Artikel 6
+##### Artikel 6
 
 Aan het gebruik van de algemene overdrachtsvergunning zijn de volgende voorschriften verbonden:
 
@@ -100,7 +126,7 @@ Aan het gebruik van de algemene overdrachtsvergunning zijn de volgende voorschri
 
 #### § 5. Verzoek tot registratie en melding
 
-#### Artikel 7
+##### Artikel 7
 
 1. Een beschikkingsbevoegde dient een verzoek tot registratie en een melding als bedoeld in [artikel 26 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=26) ten minste twee weken voor het eerste gebruik van de algemene overdrachtsvergunning schriftelijk in bij de inspecteur.
 
@@ -110,7 +136,7 @@ Aan het gebruik van de algemene overdrachtsvergunning zijn de volgende voorschri
 
 #### § 6. Rapportage
 
-#### Artikel 8
+##### Artikel 8
 
 De beschikkingsbevoegde rapporteert aan de inspecteur binnen twee maanden na afloop van elk half kalenderjaar over het gebruik van de algemene overdrachtsvergunning, door middel van een overzicht waarin de volgende informatie staat:
 
@@ -124,11 +150,11 @@ De beschikkingsbevoegde rapporteert aan de inspecteur binnen twee maanden na afl
 
 #### § 7. Slotbepalingen
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling treedt in werking met ingang van 30 juni 2012.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling algemene overdrachtsvergunning NL006.
 

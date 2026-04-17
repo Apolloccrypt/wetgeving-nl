@@ -1,13 +1,39 @@
 ---
-title: "Regeling vaststelling voorschotverlening duurzame energieproductie 2020"
+title: "Regeling van de Minister van Economische Zaken en Klimaat van 18 oktober 2019, nr. WJZ/ 19239732, tot vaststelling van de correcties voor de voorschotverlening duurzame energieproductie 2020 (Regeling vaststelling voorschotverlening duurzame energieproductie 2020)"
 identifier: "BWBR0042710"
-categorie: "Overig"
-publicatiedatum: 2020-01-01
-laatste_update: 2020-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042710"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-01-01"
+last_updated: "2020-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042710"
+soort: "ministeriele-regeling"
+stam_id: "15214783"
+version_id: "26148832"
+internal_id: "C37193971"
+label_id: "15161744"
+dtd_version: "2.0"
+original_entry_into_force: "2020-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042710/2020-01-01/0"
+intitule_bron: "Stcrt.2019-58434"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-10-18"
+intitule_published: "2019-10-29"
+intitule_in_force: "2019-10-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-58434"
+original_signed_date: "2019-10-18"
+original_published_date: "2019-10-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-58434"
+entry_into_force_date: "2020-01-01"
+jci_1_3: "jci1.3:c:BWBR0042710&z=2020-01-01&g=2020-01-01"
+jci_1_0: "1.0:c:BWBR0042710&g=2020-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling vaststelling voorschotverlening duurzame energieproductie 2020"
+signed_date: "2019-10-18"
+entry_into_force: "2020-01-01"
 ---
-
 # Regeling van de Minister van Economische Zaken en Klimaat van 18 oktober 2019, nr. WJZ/ 19239732, tot vaststelling van de correcties voor de voorschotverlening duurzame energieproductie 2020 (Regeling vaststelling voorschotverlening duurzame energieproductie 2020)
 
 Gelet op [artikelen 14, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=14), [22, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=22), [31, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=31), [39, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=39), [47, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=47), en [54, vijfde lid, van het Besluit stimulering duurzame energie productie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=54);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -60,7 +86,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Correctiebedragen hernieuwbare elektriciteit
 
-#### Artikel 2
+##### Artikel 2
 
 De correcties op het basisbedrag voor subsidie voor een productie-installatie, bedoeld in het in de eerste kolom genoemde artikel, worden voor 2020 als volgt vastgesteld: voor wat betreft de elektriciteitsprijs, bedoeld in [artikel 14, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=14), het in de derde kolom genoemde bedrag en voor wat betreft de correcties, bedoeld in artikel 14, eerste lid, onderdelen b en c, van het besluit, het in de vierde kolom genoemde bedrag.
 
@@ -343,7 +369,7 @@ De correcties op het basisbedrag voor subsidie voor een productie-installatie, b
 | Artikel 14, onderdeel d | Fotovoltaïsche zonnepanelen (Zon PV), ≥ 1 MWp zonvolgend niet gebouwgebonden systeem (netlevering) | € 0,047 per kWh | € 0 per kWh |
 | Artikel 14, onderdeel d | Fotovoltaïsche zonnepanelen (Zon PV), ≥ 1 MWp zonvolgend niet gebouwgebonden systeem (niet-netlevering) | € 0,069 per kWh | € 0 per kWh |
 
-#### Artikel 3
+##### Artikel 3
 
 De correcties op het tenderbedrag voor subsidie voor een productie-installatie, bedoeld in het in de eerste kolom genoemde artikel, worden voor 2020 als volgt vastgesteld: voor wat betreft de elektriciteitsprijs, bedoeld in [artikel 22, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=22), het in de derde kolom genoemde bedrag en voor wat betreft de correcties, bedoeld in artikel 22, eerste lid, onderdelen b en c, van het besluit, het in de vierde kolom genoemde bedrag.
 
@@ -369,7 +395,7 @@ De correcties op het tenderbedrag voor subsidie voor een productie-installatie, 
 
 #### § 3. Correctiebedragen hernieuwbaar gas
 
-#### Artikel 4
+##### Artikel 4
 
 De correcties op het basisbedrag voor subsidie voor een productie-installatie, bedoeld in het in de eerste kolom genoemde artikel, worden voor 2020 als volgt vastgesteld: voor wat betreft de gasprijs, bedoeld in [artikel 31, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=31), het in de derde kolom genoemde bedrag en voor wat betreft de correcties, bedoeld in artikel 31, eerste lid, onderdelen b en c, van het besluit, het in de vierde kolom genoemde bedrag.
 
@@ -512,7 +538,7 @@ De correcties op het basisbedrag voor subsidie voor een productie-installatie, b
 | [Artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0042602&artikel=20) | Rioolwaterzuiveringsinstallaties bestaande slibgisting | € 0,020 per kWh | € 0 per kWh |
 | [Artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042602&artikel=22) | Biomassavergassing (≥95% biogeen) | € 0,020 per kWh | € 0 per kWh |
 
-#### Artikel 5
+##### Artikel 5
 
 De correcties op het tenderbedrag voor subsidie voor een productie-installatie, bedoeld in het in de eerste kolom genoemde artikel, worden voor 2020 als volgt vastgesteld: voor wat betreft de gasprijs, bedoeld in [artikel 39, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=39), het in de derde kolom genoemde bedrag en voor wat betreft de correcties, bedoeld in artikel 39, eerste lid, onderdeel b en c, van het besluit, het in de vierde kolom genoemde bedrag.
 
@@ -523,7 +549,7 @@ De correcties op het tenderbedrag voor subsidie voor een productie-installatie, 
 
 #### § 4. Correctiebedragen hernieuwbare warmte en gecombineerde opwekking van hernieuwbare elektriciteit en hernieuwbare warmte
 
-#### Artikel 6
+##### Artikel 6
 
 De correcties op het basisbedrag voor subsidie voor een productie-installatie, bedoeld in het in de eerste kolom genoemde artikel, worden voor 2020 als volgt vastgesteld: voor wat betreft de elektriciteits- of energieprijs, bedoeld in [artikel 47, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=47) het in de derde kolom genoemde bedrag en voor wat betreft de correcties, bedoeld in artikel 47, eerste lid, onderdelen b en c, het in de vierde kolom genoemde bedrag.
 
@@ -807,7 +833,7 @@ De correcties op het basisbedrag voor subsidie voor een productie-installatie, b
 | [Artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042602&artikel=42) | Stoomketel op houtpellets, warmte en gecombineerde opwekking | € 0,020 per kWh | € 0 per kWh |
 | [Artikel 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042602&artikel=44) | Direct inzet (brander) van houtpellets voor industriële toepassingen voor warmte en gecombineerde opwekking | € 0,025 per kWh | € 0 per kWh |
 
-#### Artikel 7
+##### Artikel 7
 
 De correcties op het tenderbedrag voor subsidie voor een productie-installatie, bedoeld in het in de eerste kolom genoemde artikel, worden voor 2020 als volgt vastgesteld: voor wat betreft de elektriciteits- of energieprijs, bedoeld in [artikel 54, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=47) het in de derde kolom genoemde bedrag en voor wat betreft de correcties, bedoeld in artikel 54, eerste lid, onderdelen b en c, van het besluit, het in de vierde kolom genoemde bedrag.
 
@@ -818,11 +844,11 @@ De correcties op het tenderbedrag voor subsidie voor een productie-installatie, 
 
 #### § 5. Slotbepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling treedt in werking met ingang van 1 januari 2020.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling wordt aangehaald als: Regeling vaststelling voorschotverlening duurzame energieproductie 2020.
 

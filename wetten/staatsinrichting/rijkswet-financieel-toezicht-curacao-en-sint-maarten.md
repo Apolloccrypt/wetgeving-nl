@@ -1,13 +1,40 @@
 ---
-title: "Rijkswet financieel toezicht Curaçao en Sint Maarten"
+title: "Rijkswet van 7 juli 2010, houdende regels voor het financieel toezicht op de landen Curaçao en Sint Maarten (Rijkswet financieel toezicht Curaçao en Sint Maarten)"
 identifier: "BWBR0028132"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028132"
+country: "nl"
+rank: "rijkswet"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028132"
+soort: "rijkswet"
+stam_id: "10669423"
+version_id: "17623642"
+internal_id: "C24663911"
+label_id: "10644424"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028132/2010-10-10/0"
+intitule_bron: "Stb.2010-334"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-07-07"
+intitule_published: "2010-09-01"
+intitule_in_force: "2010-10-01"
+intitule_status: "goed"
+original_publication: "Stb.2010-334"
+original_signed_date: "2010-07-07"
+original_published_date: "2010-09-01"
+original_effect: "nieuwe-regeling"
+original_dossier: "32026"
+original_url_id: "stb-2010-334"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028132&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028132&g=2010-10-10"
+citeertitel_status: "officieel"
+short_title: "Rijkswet financieel toezicht Curaçao en Sint Maarten"
+signed_date: "2010-07-07"
+entry_into_force: "2010-10-10"
 ---
-
 # Rijkswet van 7 juli 2010, houdende regels voor het financieel toezicht op de landen Curaçao en Sint Maarten (Rijkswet financieel toezicht Curaçao en Sint Maarten)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
@@ -30,7 +57,7 @@ Treedt in werking om 00:00 uur in Aruba, Curaçao, Sint Maarten, Bonaire, Sint E
 
 ### Hoofdstuk 1. Definitiebepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet wordt verstaan onder:
 
@@ -60,7 +87,7 @@ In deze wet wordt verstaan onder:
 
 ### Hoofdstuk 2. Het College financieel toezicht Curaçao en Sint Maarten
 
-#### Artikel 2. Inrichting en rechtspositie
+##### Artikel 2. Inrichting en rechtspositie
 
 1. Er is een College financieel toezicht Curaçao en Sint Maarten.
 
@@ -92,7 +119,7 @@ In deze wet wordt verstaan onder:
 
 11. Onze Minister stelt in overeenstemming met Onze Ministers van Financiën van de landen de vaste vergoeding van de leden van het college vast. Hierbij wordt de toepasselijke salarisschaal van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) en de toepasselijke deeltijdfactor aangegeven. De leden hebben voorts overeenkomstig het [Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889) en het [Reisbesluit buitenland](https://wetten.overheid.nl/jci1.3:c:BWBR0006842) recht op vergoeding van reis- en verblijfskosten. Daarnaast hebben de leden op declaratiebasis recht op vergoeding van kosten van internationale telefoongesprekken die zij maken in het kader van de werkzaamheden voor het college.
 
-#### Artikel 3. Nevenfuncties
+##### Artikel 3. Nevenfuncties
 
 1. Een lid van het college kan niet tevens zijn:
 
@@ -122,7 +149,7 @@ In deze wet wordt verstaan onder:
 
 4. Het college maakt de nevenfuncties van een lid openbaar. Openbaarmaking geschiedt bij zijn benoeming en voorts door jaarlijkse publicatie van een opgave van deze nevenfuncties in de Staatscourant, de Curaçaosche Courant en de Landscourant Sint Maarten.
 
-#### Artikel 4. Taken
+##### Artikel 4. Taken
 
 1. De taken van het college zijn, onverminderd de in andere artikelen van deze wet genoemde taken:
 
@@ -140,7 +167,7 @@ In deze wet wordt verstaan onder:
 
 4. Onze Minister kan, na instemming van de raad van ministers van het Koninkrijk, die handelt in overeenstemming met de besturen, beleidsregels vaststellen en algemene en bijzondere aanwijzingen geven ten aanzien van de uitoefening van de in deze wet aan het college toegekende taken en bevoegdheden.
 
-#### Artikel 5. Uitvoering van de taken
+##### Artikel 5. Uitvoering van de taken
 
 1. Het college stelt ter uitvoering van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028132&hoofdstuk=2&artikel=4&z=2010-10-10&g=2010-10-10) genoemde taken een bestuursreglement vast, waarin in ieder geval regels over de besluitvorming, werkwijze en procedures zijn opgenomen. In het reglement worden tevens regels opgenomen over de verdeling van de werkzaamheden bij de voorbereiding van de besluiten en adviezen van het college.
 
@@ -152,7 +179,7 @@ In deze wet wordt verstaan onder:
 
 5. Het college streeft bij het nemen van besluiten naar consensus. Indien bij het nemen van besluiten door het college de stemmen staken, heeft de voorzitter de doorslaggevende stem.
 
-#### Artikel 6. Uitvoeringsapparaat
+##### Artikel 6. Uitvoeringsapparaat
 
 1. Het college heeft een secretaris.
 
@@ -166,11 +193,11 @@ In deze wet wordt verstaan onder:
 
 6. De secretaris en de medewerkers van het college ondersteunen tevens het college financieel toezicht Bonaire, Sint Eustatius en Saba, zoals vastgelegd in de Wet financiele verhoudingen openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 7
+##### Artikel 7
 
 De leden, de secretaris en de medewerkers van het college alsmede hun echtgenoten of geregistreerde partners en minderjarige kinderen voor zover zij met hen een gemeenschappelijke huishouding voeren, zijn van rechtswege toegelaten tot de landen. Aan de leden, de secretaris en de medewerkers van het college alsmede hun echtgenoten of geregistreerde partners worden geen nadere voorwaarden gesteld voor de uitoefening van een beroep of het verrichten van arbeid.
 
-#### Artikel 8. Informatieplicht
+##### Artikel 8. Informatieplicht
 
 1. De besturen verstrekken het college alle inlichtingen die het voor de uitoefening van zijn taken nodig acht. Hiertoe behoren de gegevens van de desbetreffende collectieve sector van de landen.
 
@@ -178,11 +205,11 @@ De leden, de secretaris en de medewerkers van het college alsmede hun echtgenote
 
 3. Het college neemt de met betrekking tot natuurlijke personen en rechtspersonen in de desbetreffende landen geldende geheimhoudingsbepalingen in acht.
 
-#### Artikel 9. Bekostiging en financiering
+##### Artikel 9. Bekostiging en financiering
 
 De bezoldiging van de leden, de secretaris en de medewerkers van het college, alsmede de bekostiging van de overige apparaatsuitgaven komen ten laste van de begroting van Onze Minister.
 
-#### Artikel 10. Onvoldoende taakuitoefening
+##### Artikel 10. Onvoldoende taakuitoefening
 
 1. Indien naar het oordeel van de raad van ministers van het Koninkrijk het college bij de uitoefening van zijn taak ernstig in gebreke blijft, kan Onze Minister, in overeenstemming met de besturen, de noodzakelijke voorzieningen treffen.
 
@@ -190,7 +217,7 @@ De bezoldiging van de leden, de secretaris en de medewerkers van het college, al
 
 ### Hoofdstuk 3. Toezicht op de begroting
 
-#### Artikel 11. Advies van het college op de ontwerpbegroting en de ontwerpverordening tot wijziging van de begroting
+##### Artikel 11. Advies van het college op de ontwerpbegroting en de ontwerpverordening tot wijziging van de begroting
 
 1. Op verzoek van een bestuur adviseert het college binnen veertien dagen na dat verzoek op een ontwerpbegroting of ontwerpverordening tot wijziging van een begroting. Het college kan een bestuur ook ongevraagd adviseren op de betreffende ontwerpbegroting of ontwerpverordening tot wijziging van een begroting.
 
@@ -198,7 +225,7 @@ De bezoldiging van de leden, de secretaris en de medewerkers van het college, al
 
 3. Naast de gevallen, bedoeld in het eerste lid, kan het college ook overigens bij de begrotingsvoorbereiding gevraagd en ongevraagd adviseren
 
-#### Artikel 12. Advies van het college aan het bestuur
+##### Artikel 12. Advies van het college aan het bestuur
 
 1. Het bestuur zendt een begroting of een verordening tot wijziging van de begroting, onmiddellijk nadat deze is vastgesteld, aan het college.
 
@@ -210,7 +237,7 @@ De bezoldiging van de leden, de secretaris en de medewerkers van het college, al
 
 5. Indien naar het oordeel van het college het bestuur met de in het vierde lid bedoelde mededeling niet of niet voldoende de normen, genoemd in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028132&hoofdstuk=4&artikel=15&z=2010-10-10&g=2010-10-10), in acht neemt, dan wel indien het bestuur nalaat die mededeling aan het college te doen, geeft het college binnen veertien dagen na ontvangst van de mededeling, respectievelijk na het uitblijven ervan, daarover bericht aan het desbetreffende bestuur en aan de Staten.
 
-#### Artikel 13. Aanwijzing van de raad van ministers van het Koninkrijk
+##### Artikel 13. Aanwijzing van de raad van ministers van het Koninkrijk
 
 1. Indien na ten minste zeven dagen na verzending van het bericht, bedoeld in [artikel 12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028132&hoofdstuk=3&artikel=12&z=2010-10-10&g=2010-10-10), naar het oordeel van het college sprake blijft van een begroting, respectievelijk een verordening tot wijziging van de begroting die geheel of ten dele niet voldoet aan de normen, genoemd in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028132&hoofdstuk=4&artikel=15&z=2010-10-10&g=2010-10-10), bericht het college na afloop van die periode dienaangaande de raad van ministers van het Koninkrijk door tussenkomst van Onze Minister.
 
@@ -224,7 +251,7 @@ De bezoldiging van de leden, de secretaris en de medewerkers van het college, al
 
 6. Een aanwijzing als bedoeld in het vijfde lid geschiedt bij koninklijk besluit op de voordracht van Onze Minister, in overeenstemming met de conclusie van de raad van ministers van het Koninkrijk.
 
-#### Artikel 14. Geen begroting vastgesteld
+##### Artikel 14. Geen begroting vastgesteld
 
 1. Als het college op 15 december nog geen vastgestelde begroting heeft ontvangen en er naar zijn oordeel ook geen uitzicht bestaat dat binnen een redelijke termijn alsnog een ontwerpbegroting, respectievelijk een vastgestelde begroting zal worden toegezonden, bericht het college dienaangaande de raad van ministers van het Koninkrijk door tussenkomst van Onze Minister.
 
@@ -240,7 +267,7 @@ De bezoldiging van de leden, de secretaris en de medewerkers van het college, al
 
 ### Hoofdstuk 4. Beoordeling begrotingen en geldleningen
 
-#### Artikel 15. De financiële normen voor begrotingen
+##### Artikel 15. De financiële normen voor begrotingen
 
 1. Voor de beoordeling van de vastgestelde begroting van een land en een vastgestelde verordening tot wijziging van de begroting hanteert het college de volgende normen:
 
@@ -260,7 +287,7 @@ De bezoldiging van de leden, de secretaris en de medewerkers van het college, al
 
 3. Bij de begroting wordt een uiteenzetting verstrekt van de financiële toestand van het land.
 
-#### Artikel 16. Geldleningen
+##### Artikel 16. Geldleningen
 
 1. In de begrotingen, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028132&hoofdstuk=4&artikel=15&z=2010-10-10&g=2010-10-10), worden de voornemens tot het aantrekken van geldleningen opgenomen.
 
@@ -290,7 +317,7 @@ De bezoldiging van de leden, de secretaris en de medewerkers van het college, al
 
 ### Hoofdstuk 5. De uitvoering van de begroting en verantwoording daarover
 
-#### Artikel 17. Uitvoering van beleidsvoornemens
+##### Artikel 17. Uitvoering van beleidsvoornemens
 
 1. Indien het bestuur nalaat een voorziening ter uitvoering van een beleidsvoornemen te treffen of deze op een zodanig tijdstip vaststelt, implementeert of uitvoert dat de haalbaarheid van de uitgaven- en ontvangstenramingen in gevaar komt, adviseert het college hierover overeenkomstig [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028132&hoofdstuk=3&artikel=12&z=2010-10-10&g=2010-10-10).
 
@@ -298,7 +325,7 @@ De bezoldiging van de leden, de secretaris en de medewerkers van het college, al
 
 3. Op een advies als bedoeld in het eerste en tweede lid, is [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028132&hoofdstuk=3&artikel=13&z=2010-10-10&g=2010-10-10) van overeenkomstige toepassing.
 
-#### Artikel 18. Verantwoordingsinformatie
+##### Artikel 18. Verantwoordingsinformatie
 
 1. De besturen zenden uiterlijk zes weken na afloop van ieder kwartaal een uitvoeringsrapportage aan het college en aan de Staten.
 
@@ -316,7 +343,7 @@ De bezoldiging van de leden, de secretaris en de medewerkers van het college, al
 
 8. Op een advies als bedoeld in het zevende lid, zijn de [artikelen 12, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028132&hoofdstuk=3&artikel=12&z=2010-10-10&g=2010-10-10), en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0028132&hoofdstuk=3&artikel=13&z=2010-10-10&g=2010-10-10) van overeenkomstige toepassing.
 
-#### Artikel 19. Verbetering van het financieel beheer
+##### Artikel 19. Verbetering van het financieel beheer
 
 1. De besturen rapporteren uiterlijk zes weken na afloop van ieder kwartaal aan het college over de uitvoering van de implementatieplannen ter verbetering van het financieel beheer. Het college en de besturen stellen ten behoeve van die rapportage gezamenlijk een model vast, dat aangeeft over welke onderwerpen gerapporteerd wordt.
 
@@ -324,7 +351,7 @@ De bezoldiging van de leden, de secretaris en de medewerkers van het college, al
 
 3. Het college kan aanbevelingen geven op het terrein van het financieel beheer, rekening houdend met de bevindingen van de interne accountant en van de Algemene Rekenkamers van Curaçao en van Sint Maarten.
 
-#### Artikel 20. Aangaan van financiële verplichtingen
+##### Artikel 20. Aangaan van financiële verplichtingen
 
 1. De besturen gaan uitsluitend financiële verplichtingen aan voor zover deze zijn opgenomen in een begroting die niet ingevolge [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028132&hoofdstuk=3&artikel=13&z=2010-10-10&g=2010-10-10) is opgeschort.
 
@@ -346,7 +373,7 @@ De bezoldiging van de leden, de secretaris en de medewerkers van het college, al
 
 10. In geval van het aangaan van financiële verplichtingen en het verrichten van privaatrechtelijke rechtshandelingen waartoe door de Staten van een land is besloten, is dit artikel van overeenkomstige toepassing.
 
-#### Artikel 21. Machtigingen tot het verrichten van rechtshandelingen
+##### Artikel 21. Machtigingen tot het verrichten van rechtshandelingen
 
 1. Onze Minister van Financiën van het betrokken land houdt een register bij van de namen en functies van degenen die zijn gemachtigd tot het verrichten van privaatrechtelijke rechtshandelingen die voortvloeien uit een besluit tot het aangaan van financiële verplichtingen. Daarbij geeft hij tevens aan voor welke rechtshandelingen en tot welke bedragen zij gemachtigd zijn. Hij publiceert dit register na elke wijziging, maar in elk geval iedere zes maanden. Publicatie geschiedt op de website van Onze Minister van Financien van het betrokken land.
 
@@ -360,7 +387,7 @@ De bezoldiging van de leden, de secretaris en de medewerkers van het college, al
 
 6. Het college kan Onze Minister van Financien van het betrokken land aanbevelingen geven ter zake van de wijze waarop het beheer wordt gevoerd van het in dit artikel bedoelde register.
 
-#### Artikel 22. Bankrekeningen
+##### Artikel 22. Bankrekeningen
 
 1. De besturen dragen er, in overeenstemming met het college, zorg voor:
 
@@ -382,7 +409,7 @@ De bezoldiging van de leden, de secretaris en de medewerkers van het college, al
 
 5. Het college voert in verband met mogelijke toepassing van het tweede lid periodiek overleg met de besturen over het verwachte liquiditeitsverloop.
 
-#### Artikel 23. Vaststelling collectieve sector
+##### Artikel 23. Vaststelling collectieve sector
 
 1. Onze Minister en het desbetreffende bestuur wijzen tweejaarlijks gezamenlijk, na advies van het centraal bureau voor de statistiek van dat land in samenwerking met het Centraal Bureau voor de Statistiek van Nederland, voor 1 april aan welke rechtspersonen met ingang van het volgende begrotingsjaar behoren tot de desbetreffende collectieve sector.
 
@@ -392,7 +419,7 @@ De bezoldiging van de leden, de secretaris en de medewerkers van het college, al
 
 4. Het bestuur rapporteert jaarlijks voor 1 april aan het college over de voorlopige jaarcijfers over het voorgaande kalenderjaar van de desbetreffende collectieve sector.
 
-#### Artikel 24. Ontwikkelingen in de collectieve sector
+##### Artikel 24. Ontwikkelingen in de collectieve sector
 
 1. Het centraal bureau voor de statistiek van Curaçao onderscheidenlijk Sint Maarten rapporteert aan het desbetreffende bestuur uiterlijk op 1 september over de uitgaven-, ontvangsten-, tekort- en schuldcijfers van het voorafgaande jaar van de betrokken collectieve sector. Daarbij zijn de definities van het System of National Accounts leidend. Het Centraal Bureau voor de Statistiek Nederland adviseert het centraal bureau voor de statistiek van het betrokken land.
 
@@ -406,7 +433,7 @@ De bezoldiging van de leden, de secretaris en de medewerkers van het college, al
 
 ### Hoofdstuk 6. Bijzondere omstandigheden
 
-#### Artikel 25. Schade door buitengewone gebeurtenissen
+##### Artikel 25. Schade door buitengewone gebeurtenissen
 
 1. Indien dit nodig is in verband met het herstel van schade veroorzaakt door buitengewone gebeurtenissen, waaronder natuurrampen, kan het bestuur in overeenstemming met een beslissing daarover van de raad van ministers van het Koninkrijk, besluiten af te wijken van de normen, genoemd in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028132&hoofdstuk=4&artikel=15&z=2010-10-10&g=2010-10-10).
 
@@ -416,7 +443,7 @@ De bezoldiging van de leden, de secretaris en de medewerkers van het college, al
 
 ### Hoofdstuk 7. Beroep
 
-#### Artikel 26
+##### Artikel 26
 
 1. Tegen een koninklijk besluit als bedoeld in deze wet, houdende een of meer aanwijzingen, of tegen een koninklijk besluit als bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0028132&hoofdstuk=8&artikel=33&z=2010-10-10&g=2010-10-10) staat voor een bestuur gedurende dertig dagen na verzending van het besluit beroep open bij Ons. De Raad van State van het Koninkrijk is belast met het voorbereiden van het ontwerpbesluit inzake de beslissing op het beroep. Ons besluit wordt in het voor de bekendmaking van landsverordeningen gebruikte publicatieblad van het betrokken land bekend gemaakt en ter kennis van het betrokken bestuur en de Staten gebracht.
 
@@ -442,7 +469,7 @@ De bezoldiging van de leden, de secretaris en de medewerkers van het college, al
 
 12. Besluiten van Onze Minister op grond van deze wet zijn niet vatbaar voor beroep op de administratieve rechter op grond van de landsverordeningen van de landen die de administratieve rechtspraak regelen of de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537). Dit geldt eveneens voor Ons besluit als bedoeld in het eerste lid.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Indien op grond van [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028132&hoofdstuk=7&artikel=26&z=2010-10-10&g=2010-10-10), tegen een besluit beroep is ingesteld, kan een daartoe door de Vicepresident van de Raad van State aangewezen staatsraad op verzoek een voorlopige voorziening treffen indien onverwijlde spoed, gelet op de betrokken belangen, dat vereist.
 
@@ -470,7 +497,7 @@ De bezoldiging van de leden, de secretaris en de medewerkers van het college, al
 
 ### Hoofdstuk 8. Overgangs- en slotbepalingen
 
-#### Artikel 28. Deelnemingen
+##### Artikel 28. Deelnemingen
 
 De landen hebben regelgeving die voldoet aan internationaal aanvaarde normen op het gebied van:
 
@@ -480,7 +507,7 @@ De landen hebben regelgeving die voldoet aan internationaal aanvaarde normen op 
 
 - c. procedures en eisen rond de benoeming en het ontslag van bestuurders van rechtspersonen waarin de landen deelnemen.
 
-#### Artikel 29. Tijdelijke regeling rentelastnorm
+##### Artikel 29. Tijdelijke regeling rentelastnorm
 
 1. Voor het bij de inwerkingtreding van deze wet lopende begrotingsjaar wordt onder rentelastnorm verstaan de rentelast die overeenkomt met 5% van de voor dat jaar begrote gezamenlijke inkomsten van de collectieve sector van een land.
 
@@ -490,13 +517,13 @@ De landen hebben regelgeving die voldoet aan internationaal aanvaarde normen op 
 
 4. Voor het na de inwerkingtreding van deze wet beginnende vierde begrotingsjaar wordt onder rentelastnorm verstaan de rentelast die overeenkomt met 5% van de gemiddelde gerealiseerde gezamenlijke inkomsten van de collectieve sector van een land over de eerste twee jaren na inwerkingtreding van deze wet, en zoals die inkomsten zijn opgenomen in de begroting, na wijziging, van het derde jaar na inwerkingtreding van deze wet.
 
-#### Artikel 30. Lopende begroting bij aanvang toezicht
+##### Artikel 30. Lopende begroting bij aanvang toezicht
 
 1. Onmiddellijk na de inwerkingtreding van deze wet zenden de besturen aan het college een afschrift van de begroting voor het jaar van die inwerkingtreding.
 
 2. Het college beoordeelt die begroting overeenkomstig de beoordeling bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028132&hoofdstuk=3&artikel=12&z=2010-10-10&g=2010-10-10), en rapporteert uiterlijk vier weken na ontvangst van die begroting aan het bestuur overeenkomstig artikel 12, tweede lid. Artikel 12, derde tot en met vijfde lid, en [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028132&hoofdstuk=3&artikel=13&z=2010-10-10&g=2010-10-10) zijn van overeenkomstige toepassing.
 
-#### Artikel 31. Verantwoording in Nederlandse begroting
+##### Artikel 31. Verantwoording in Nederlandse begroting
 
 1. De uitgaven en ontvangsten samenhangende met het verstrekken van leningen als bedoeld in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028132&hoofdstuk=4&artikel=16&z=2010-10-10&g=2010-10-10) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0028132&hoofdstuk=5&artikel=22&z=2010-10-10&g=2010-10-10) door de Staat der Nederlanden aan de landen komen ten laste respectievelijk ten gunste van de begroting van Onze Minister.
 
@@ -504,11 +531,11 @@ De landen hebben regelgeving die voldoet aan internationaal aanvaarde normen op 
 
 3. De Staat der Nederlanden saneert de per 31 december 2005 bestaande schulden van de Nederlandse Antillen, Curaçao en Sint Maarten, met inbegrip van de herfinanciering van die schulden en de financiering van de rente op die schulden, tot het niveau van de voor het jaar 2005 geldende rentelastnorm en de betalingsachterstanden per 31 december 2005. De Staat der Nederlanden neemt de op de datum van inwerkingtreding van deze wet resterende hoofdsom van de in dit lid beschreven te saneren schulden over.
 
-#### Artikel 32. Beheer bescheiden
+##### Artikel 32. Beheer bescheiden
 
 Het beheer van de bescheiden betreffende de werkzaamheden van het college wordt in het bestuursreglement, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028132&hoofdstuk=2&artikel=5&z=2010-10-10&g=2010-10-10), geregeld. De bescheiden worden na beëindiging van de werkzaamheden van het college bewaard in het archief van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties. De bescheiden worden in afschrift ter beschikking gesteld van Curaçao en Sint Maarten.
 
-#### Artikel 33. Evaluatie en beëindiging toezicht
+##### Artikel 33. Evaluatie en beëindiging toezicht
 
 1. De raad van ministers van het Koninkrijk beslist vijf jaar na de inwerkingtreding van deze wet of en, zo ja, met ingang van welk tijdstip een van de landen of beide een of meer verplichtingen op grond van deze wet blijvend niet meer behoeft na te komen.
 
@@ -556,19 +583,19 @@ Het beheer van de bescheiden betreffende de werkzaamheden van het college wordt 
 
 13. [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028132&hoofdstuk=2&artikel=8&z=2010-10-10&g=2010-10-10) is ten aanzien van de evaluatiecommissie van overeenkomstige toepassing.
 
-#### Artikel 33a
+##### Artikel 33a
 
 Wijzigt deze wet.
 
-#### Artikel 34. Inwerkingtreding
+##### Artikel 34. Inwerkingtreding
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 35. Vervallen wet
+##### Artikel 35. Vervallen wet
 
 Deze wet vervalt op een bij koninklijk besluit te bepalen tijdstip. Dit tijdstip is het tijdstip met ingang waarvan alle verplichtingen op grond van deze wet ingevolge [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0028132&hoofdstuk=8&artikel=33&z=2010-10-10&g=2010-10-10) door beide landen blijvend niet meer behoeven te worden nagekomen.
 
-#### Artikel 36. Citeertitel
+##### Artikel 36. Citeertitel
 
 Deze wet wordt aangehaald als: Rijkswet financieel toezicht Curaçao en Sint Maarten.
 

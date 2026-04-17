@@ -1,20 +1,46 @@
 ---
-title: "Regeling persoonsgegevens vrijwillige ziektekostenverzekeringen WMG"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 7 juni 2011, kenmerk MC-U-3052256, houdende regels in verband met de verwerking van persoonsgegevens door ziektekostenverzekeraars bij de uitvoering van vrijwillige ziektekostenverzekeringen (WMG)"
 identifier: "BWBR0030097"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2018-07-28
-laatste_update: 2018-07-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030097"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2018-07-28"
+last_updated: "2018-07-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030097"
+soort: "ministeriele-regeling"
+stam_id: "11349783"
+version_id: "18619222"
+internal_id: "C25977671"
+label_id: "11323534"
+dtd_version: "2.0"
+original_entry_into_force: "2011-06-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030097/2018-07-28/0"
+intitule_bron: "Stcrt.2011-10339"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-06-07"
+intitule_published: "2011-06-16"
+intitule_in_force: "2011-06-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-10339"
+original_signed_date: "2011-06-07"
+original_published_date: "2011-06-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-10339"
+entry_into_force_date: "2011-06-17"
+jci_1_3: "jci1.3:c:BWBR0030097&z=2018-07-28&g=2018-07-28"
+jci_1_0: "1.0:c:BWBR0030097&g=2018-07-28"
+citeertitel_status: "officieel"
+short_title: "Regeling persoonsgegevens vrijwillige ziektekostenverzekeringen WMG"
+signed_date: "2011-06-07"
+entry_into_force: "2011-06-17"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 7 juni 2011, kenmerk MC-U-3052256, houdende regels in verband met de verwerking van persoonsgegevens door ziektekostenverzekeraars bij de uitvoering van vrijwillige ziektekostenverzekeringen (WMG)
 
 Gelet op [artikel 68a, vierde lid, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=68a);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -56,7 +82,7 @@ In deze regeling wordt verstaan onder:
 
 - m. **verwerker:** degene bedoeld in artikel 4, onderdeel 8, van de Algemene verordening gegevensbescherming.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Als persoonsgegevens, waaronder gegevens over gezondheid, als bedoeld in artikel 4, onderdeel 15 van de Algemene verordening gegevensbescherming, die voor verzekeraars noodzakelijk zijn voor de uitvoering van vrijwillige ziektekostenverzekeringen, worden aangemerkt de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030097&artikel=3&z=2018-07-28&g=2018-07-28) bedoelde persoonsgegevens.
 
@@ -78,7 +104,7 @@ In deze regeling wordt verstaan onder:
 
 3. Een verzekeraar mag de in het eerste lid bedoelde gegevens gebruiken voor het uitoefenen van verhaalsrecht.
 
-#### Artikel 3
+##### Artikel 3
 
 De verzekeraar beschikt ten behoeve van de in het voorgaande artikel aangegeven doelen over de volgende gegevens van de verzekerde:
 
@@ -100,7 +126,7 @@ De verzekeraar beschikt ten behoeve van de in het voorgaande artikel aangegeven 
 
 - i. overige gegevens die noodzakelijk zijn voor het verrichten van materiële controle dan wel fraudeonderzoek.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De zorgaanbieder is verplicht de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030097&artikel=3&z=2018-07-28&g=2018-07-28) bedoelde gegevens te verstrekken aan:
 
@@ -114,11 +140,11 @@ De verzekeraar beschikt ten behoeve van de in het voorgaande artikel aangegeven 
 
 3. Voor de door de verzekeraar of verwerker aangewezen persoon gelden dezelfde wettelijke voorschriften betreffende de geheimhouding van de verwerkte gegevens als voor de verzekeraar of de verwerker die hem heeft aangewezen.
 
-#### Artikel 5
+##### Artikel 5
 
 Met betrekking tot het uitvoeren van formele en materiële controle, het doen van fraudeonderzoek en het enquêteren door een verzekeraar en met betrekking tot het beroepsgeheim van zorgaanbieders is het bepaalde in de [artikelen 7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=7.4) en [7.5 tot en met 7.10 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=7.10) van overeenkomstige toepassing voor die verzekeraar en de daarbij betrokken zorgaanbieders en verzekerden.
 
-#### Artikel 6
+##### Artikel 6
 
 De verzekeraar verwerkt de persoonsgegevens, bedoeld in [artikel 68a, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=68a) slechts verder indien en voor zo ver dit noodzakelijk is voor de uitvoering van:
 
@@ -128,10 +154,10 @@ De verzekeraar verwerkt de persoonsgegevens, bedoeld in [artikel 68a, eerste en 
 
 - c. de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) voor doelen omschreven in de Regeling langdurige zorg.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling wordt aangehaald als: Regeling persoonsgegevens vrijwillige ziektekostenverzekeringen WMG.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.

@@ -1,13 +1,38 @@
 ---
 title: "Regeling specificaties en typegoedkeuring boordcomputer taxi"
 identifier: "BWBR0027945"
-categorie: "Overig"
-publicatiedatum: 2020-12-19
-laatste_update: 2020-12-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027945"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-12-19"
+last_updated: "2020-12-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027945"
+soort: "ministeriele-regeling"
+stam_id: "10616423"
+version_id: "22375462"
+internal_id: "C32032531"
+label_id: "10591844"
+dtd_version: "2.0"
+original_entry_into_force: "2015-03-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027945/2020-12-19/0"
+intitule_bron: "Stcrt.2010-11225"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-07-12"
+intitule_published: "2010-07-19"
+intitule_in_force: "2010-07-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-9656"
+original_signed_date: "2015-03-20"
+original_published_date: "2015-04-09"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2015-9656"
+entry_into_force_date: "2015-03-20"
+jci_1_3: "jci1.3:c:BWBR0027945&z=2020-12-19&g=2020-12-19"
+jci_1_0: "1.0:c:BWBR0027945&g=2020-12-19"
+citeertitel_status: "officieel"
+signed_date: "2015-03-20"
+entry_into_force: "2015-03-20"
 ---
-
 # Regeling specificaties en typegoedkeuring boordcomputer taxi
 
 Gelet op de artikelen [artikel 22, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=22), [23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=23), en [24 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=24);
@@ -16,7 +41,7 @@ Besluit:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -140,7 +165,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2.1. De onderdelen van de boordcomputer
 
-#### Artikel 2
+##### Artikel 2
 
 1. De boordcomputer bestaat uit ten minste:
 
@@ -172,7 +197,7 @@ In deze regeling wordt verstaan onder:
 
 4. De boordcomputer voldoet aan de bij deze regeling behorende bijlagen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De boordcomputer beschikt over een interne autonome tijdklok. Deze is voortdurend operationeel en levert de UTC, met een maximale onnauwkeurigheid van tachtig delen per miljoen.
 
@@ -188,7 +213,7 @@ In deze regeling wordt verstaan onder:
 
 7. Bij een externe stroomonderbreking van minder dan twaalf maanden blijft de interne autonome tijdklok functioneren.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De boordcomputer heeft vier werkingsmodi:
 
@@ -232,7 +257,7 @@ In deze regeling wordt verstaan onder:
 
 10. Indien in de operationele modus het werkingsniveau arbeidstijd of taxivoer actief is, leidt het invoeren van de inspectiekaart tot het pauzeren van de operationele modus, inclusief de betreffende kaartsessie. Na het afsluiten van de controlemodus wordt de operationele modus hervat.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De bewegingsopnemer levert impulsen aan de boordcomputer.
 
@@ -248,7 +273,7 @@ In deze regeling wordt verstaan onder:
 
 7. De auto wordt verondersteld zich in de toestand verplaatsen te bevinden wanneer er door de boordcomputer, op basis van de verplaatsingsopnemer, gedurende een periode van ten minste drie seconden een versnelling van ten minste 2 m/s2 wordt waargenomen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Als de boordcomputer is ingeschakeld bepaalt de positiebepalingsensor continue de positie van de auto.
 
@@ -272,7 +297,7 @@ In deze regeling wordt verstaan onder:
 
 6. De positiegegevens, bedoeld in het vijfde lid worden zodanig opgeslagen dat zij alleen overeenkomstig [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.5&artikel=23&z=2020-12-19&g=2020-12-19), overgebracht kunnen worden.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De boordcomputer stelt op basis van gegevens van de bewegingsopnemer en de constante van de boordcomputer continu de kilometerstand beschikbaar.
 
@@ -286,13 +311,13 @@ In deze regeling wordt verstaan onder:
 
 #### § 2.2. Registratie door de boordcomputer
 
-#### Artikel 8
+##### Artikel 8
 
 1. De boordcomputer verwerkt en registreert gegevens op zodanige wijze dat de vertrouwelijkheid, integriteit en beschikbaarheid van de gegevens gewaarborgd zijn.
 
 2. De authenticiteit, integriteit en onweerlegbaarheid van de in het geheugen opgeslagen gegevens wordt gegarandeerd aan de hand van een elektronische handtekening.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De boordcomputer registreert in de operationele modus, werkingsniveau arbeidstijd, de arbeids-, rij- en rusttijden, bedoeld in de [artikelen 5:4, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:4), [5:6](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:6), en [5:9, van de Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:9) en de [artikelen 2.5:1](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&artikel=2.5:1), [2.5:2](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&artikel=2.5:2), [2.5:3](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&artikel=2.5:3), [2.5:4](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&artikel=2.5:4), [2.5:5](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&artikel=2.5:5), [2.5:6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&artikel=2.5:6), en [2.5:7, van het Arbeidstijdenbesluit vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&artikel=2.5:7) van de bestuurder en maakt daarbij het volgende onderscheid:
 
@@ -314,7 +339,7 @@ In deze regeling wordt verstaan onder:
 
 7. De boordcomputer toont de gegevens waarover een elektronische handtekening geplaatst wordt. Deze omvatten ten minste de totalen van de aan de in het eerste lid bedoelde activiteiten bestede tijd.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De boordcomputer registreert in de operationele modus, werkingsniveau taxivervoer, per rit de ritadministratie en draagt zorg voor een aantoonbaar volledige registratie.
 
@@ -334,7 +359,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2.3. Ritbewijs
 
-#### Artikel 11
+##### Artikel 11
 
 De boordcomputer stelt in de operationele modus, werkingsniveau taxivervoer, ten behoeve van het afdrukken van een ritbewijs ten minste de volgende gegevens, inclusief een korte aanduiding van het gegeven, ter beschikking:
 
@@ -364,7 +389,7 @@ De boordcomputer stelt in de operationele modus, werkingsniveau taxivervoer, ten
 
 #### § 2.4. De werking van de boordcomputer
 
-#### Artikel 12
+##### Artikel 12
 
 1. In de bedrijfs-, controle- en activerings- en keuringsmodus kan de boordcomputer op verzoek vanuit het geheugen gegevens overbrengen naar externe gegevensdragers via een overbrengingsinterface.
 
@@ -376,7 +401,7 @@ De boordcomputer stelt in de operationele modus, werkingsniveau taxivervoer, ten
 
 5. Opgeslagen gegevens worden door de overbrenging niet verwijderd of veranderd.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Onverminderd [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.4&artikel=12&z=2020-12-19&g=2020-12-19) is het toegestaan om in elke modus gegevens via een andere verbinding naar een voor deze verbinding geautoriseerd bedrijf over te brengen, dan wel een opdracht voor het overbrengen van gegevens aan de boordcomputer te verzenden buiten een fysieke verbinding tussen ondernemerskaart en boordcomputer.
 
@@ -386,7 +411,7 @@ De boordcomputer stelt in de operationele modus, werkingsniveau taxivervoer, ten
 
 4. Op een overbrenging als bedoeld in het eerste lid, zijn de gegevenstoegangsrechten van de bedrijfsmodus van toepassing.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Direct nadat het contact van de auto ingeschakeld is, wordt de boordcomputer automatisch ingeschakeld, tenzij de boordcomputer al ingeschakeld is.
 
@@ -404,7 +429,7 @@ De boordcomputer stelt in de operationele modus, werkingsniveau taxivervoer, ten
 
 4. Indien een stroomonderbreking heeft plaatsgevonden en de stroomvoorziening is hersteld, wordt de boordcomputer automatisch teruggebracht in de staat waarin de boordcomputer zich bevond voordat de stroomonderbreking optrad.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Het vergaren van gegevens vindt plaats met behulp van sensoren, tenzij de verplichte informatie niet via een sensor kan worden verkregen.
 
@@ -414,13 +439,13 @@ De boordcomputer stelt in de operationele modus, werkingsniveau taxivervoer, ten
 
 4. De sensoren die worden gebruikt voor de automatische gegevensregistratie genereren en communiceren de benodigde gegevens op betrouwbare wijze.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De tijd dat de auto rijdt, terwijl in de operationele modus het werkingsniveau arbeidstijd is geselecteerd, wordt automatisch geregistreerd als rijtijd, tenzij er sprake is van een pauze.
 
 2. De tijd waarin de auto stilstaat terwijl in de operationele modus het werkingsniveau arbeidstijd is geselecteerd, wordt automatisch geregistreerd als andere werkzaamheden dan rijden, tenzij er sprake is van een pauze.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De boordcomputer:
 
@@ -480,7 +505,7 @@ De boordcomputer stelt in de operationele modus, werkingsniveau taxivervoer, ten
 
 - b. het nummer van de ondernemerskaart van de vervoerder zoals vastgelegd in de ingeschakelde bedrijfsvergrendeling.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Voordat een kaart wordt uitgenomen zorgt de boordcomputer ervoor dat de kaartsessie volledig en succesvol wordt beëindigd.
 
@@ -490,7 +515,7 @@ De boordcomputer stelt in de operationele modus, werkingsniveau taxivervoer, ten
 
 4. De handelingen, bedoeld in het eerste en derde lid, nemen maximaal vijf seconden in beslag.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De boordcomputer beheert de bedrijfsvergrendelingen die een vervoerder aanbrengt in de bedrijfsmodus.
 
@@ -506,7 +531,7 @@ De boordcomputer stelt in de operationele modus, werkingsniveau taxivervoer, ten
 
 7. De boordcomputer stelt de vervoerder in staat om via de bedrijfsvergrendeling de gegevens, bedoeld in het zesde lid, te wijzigen.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De boordcomputer kan alle geregistreerde gegevens lezen.
 
@@ -518,7 +543,7 @@ De boordcomputer stelt in de operationele modus, werkingsniveau taxivervoer, ten
 
 5. De identificatiegegevens, bedoeld in het [artikel 22, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.5&artikel=22&z=2020-12-19&g=2020-12-19), worden nooit beïnvloed door een stroomonderbreking.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Indien op basis van deze regeling geen andere informatie getoond behoeft te worden, toont de boordcomputer standaard de volgende gegevens:
 
@@ -538,7 +563,7 @@ De boordcomputer stelt in de operationele modus, werkingsniveau taxivervoer, ten
 
 #### § 2.5. Activering, deactivering en onderzoek van de boordcomputer
 
-#### Artikel 22
+##### Artikel 22
 
 1. In niet-geactiveerde toestand registreert de boordcomputer, uitgezonderd de gegevens, bedoeld in het tweede lid, geen gegevens en kan de boordcomputer uitsluitend de functies voor activering danwel deactivering uitvoeren.
 
@@ -584,7 +609,7 @@ De boordcomputer stelt in de operationele modus, werkingsniveau taxivervoer, ten
 
 7. Na activering is de boordcomputer volledig operationeel en kan deze, uitgezonderd activering zelf, alle functies uitvoeren.
 
-#### Artikel 23
+##### Artikel 23
 
 1. De deactivering van de boordcomputer vindt plaats in de activerings- en keuringsmodus.
 
@@ -596,7 +621,7 @@ De boordcomputer stelt in de operationele modus, werkingsniveau taxivervoer, ten
 
 5. De boordcomputer geraakt na deactivering in inactieve toestand en kan van daaruit uitsluitend de activeringsmodus en de keuringsmodus aannemen.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Het onderzoek van de boordcomputer vindt plaats in de activerings- en keuringsmodus.
 
@@ -614,7 +639,7 @@ De boordcomputer stelt in de operationele modus, werkingsniveau taxivervoer, ten
 
 #### § 2.6. Gebeurtenissen, fouten en storingen
 
-#### Artikel 25
+##### Artikel 25
 
 1. De boordcomputer is voorzien van een diagnosemechanisme dat ten minste het volgende vaststelt:
 
@@ -634,7 +659,7 @@ De boordcomputer stelt in de operationele modus, werkingsniveau taxivervoer, ten
 
 6. De boordcomputer beschikt bij normaal gebruik over voldoende opslagcapaciteit voor het vastleggen van gebeurtenissen, fouten en storingen over een periode van ten minste 52 weken.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Een fout treedt op wanneer de correcte werking van de boordcomputer gedurende korte tijd wordt onderbroken.
 
@@ -686,7 +711,7 @@ De boordcomputer stelt in de operationele modus, werkingsniveau taxivervoer, ten
 
 7. De boordcomputer staakt het uitvoeren van verdere handelingen wanneer een storing wordt gedetecteerd als bedoeld in het vierde lid, onderdelen a, b, c en e.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Het optreden van de onderstaande gebeurtenissen leidt tot een fout als bedoeld in [artikel 26, tweede lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.6&artikel=26&z=2020-12-19&g=2020-12-19):
 
@@ -720,7 +745,7 @@ De boordcomputer stelt in de operationele modus, werkingsniveau taxivervoer, ten
 
 7. Het vanuit de bedrijfsmodus gedurende 365 kalenderdagen niet overbrengen van gegevens bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.4&artikel=12&z=2020-12-19&g=2020-12-19), leidt tot een fout als bedoeld in [artikel 26, tweede lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.6&artikel=26&z=2020-12-19&g=2020-12-19).
 
-#### Artikel 28
+##### Artikel 28
 
 1. Het optreden van fouten als bedoeld in [artikel 26 tweede lid onderdelen a, b, of c](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.6&artikel=26&z=2020-12-19&g=2020-12-19), leidt tot een storing bedoeld in artikel 26 vierde lid, onderdeel b.
 
@@ -732,7 +757,7 @@ De boordcomputer stelt in de operationele modus, werkingsniveau taxivervoer, ten
 
 5. Het meer dan 100 maal optreden binnen een kalenderdag van een gebeurtenis als bedoeld in [artikel 26, tweede lid, onderdeel j of k](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&sub-paragraaf=2.6&artikel=26&z=2020-12-19&g=2020-12-19), leidt tot een storing als bedoeld in artikel 26, vierde lid, onderdeel c.
 
-#### Artikel 29
+##### Artikel 29
 
 1. De boordcomputer waarschuwt de gebruiker zodra het volgende wordt gedetecteerd:
 
@@ -758,7 +783,7 @@ De boordcomputer stelt in de operationele modus, werkingsniveau taxivervoer, ten
 
 #### § 2.7. Eisen aan het functioneren van de boordcomputer
 
-#### Artikel 30
+##### Artikel 30
 
 1. De boordcomputer voldoet aan de eisen die zijn neergelegd in NEN-ISO 10605 Severity level III. Met ESD contact ontladingen met 7 kV, ESD lucht ontladingen met 14 kV en Functional Status Classification A.
 
@@ -776,7 +801,7 @@ De boordcomputer stelt in de operationele modus, werkingsniveau taxivervoer, ten
 
 #### § 2.8. Beveiligingseisen
 
-#### Artikel 31
+##### Artikel 31
 
 1. De boordcomputer is voorzien van beveiligingsfuncties die de juiste en betrouwbare werking van de boordcomputer waarborgen.
 
@@ -794,13 +819,13 @@ De boordcomputer stelt in de operationele modus, werkingsniveau taxivervoer, ten
 
 #### § 3. Typegoedkeuring boordcomputer
 
-#### Artikel 32
+##### Artikel 32
 
 1. De Dienst Wegverkeer verleent een nationale typegoedkeuring voor een boordcomputer die voldoet aan de in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=2&z=2020-12-19&g=2020-12-19) opgenomen eisen.
 
 2. Tenzij in deze regeling anders is bepaald, is [afdeling 1 van hoofdstuk 3 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&afdeling=1) van overeenkomstige toepassing op alle aspecten van de nationale typegoedkeuring van een boordcomputer en wijzigingen daarvan.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Bij een aanvraag als bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&paragraaf=3&artikel=32&z=2020-12-19&g=2020-12-19), overlegt de fabrikant in elk geval de volgende bescheiden in de Nederlandse of Engelse taal:
 
@@ -830,11 +855,11 @@ De boordcomputer stelt in de operationele modus, werkingsniveau taxivervoer, ten
 
 5. Na verlening van typegoedkeuring door de Dienst Wegverkeer, verstrekt de minister op aanvraag en na betaling van het daarvoor verschuldigde tarief, aan de betreffende fabrikant systeemkaarten die alleen ten behoeve van inbouw in de te produceren typegoedgekeurde boordcomputers mogen worden aangewend.
 
-#### Artikel 34
+##### Artikel 34
 
 Vervallen
 
-#### Artikel 35
+##### Artikel 35
 
 1. In de bij de programmatuur behorende programmatuurgegevens neemt de fabrikant ten minste de volgende gegevens op:
 
@@ -860,31 +885,31 @@ Vervallen
 
 5. Na vervanging van de programmatuur met een programmatuurrevisie neemt de boordcomputer het programmatuurversienummer van de programmatuurrevisie over als het programmatuurversienummer van de programmatuur.
 
-#### Artikel 36
+##### Artikel 36
 
 Vervallen
 
 #### § 4. Overgangs- en slotbepalingen
 
-#### Artikel 37
+##### Artikel 37
 
 1. Van een wijziging van de normbladen waarnaar in deze regeling verwezen wordt, doet de minister mededeling in de Staatscourant.
 
 2. Een wijziging in een normblad heeft voor deze regeling pas rechtsgevolgen op 1 januari van het jaar volgende op dat waarin de mededeling bedoeld in het eerste lid heeft plaatsgevonden.
 
-#### Artikel 38
+##### Artikel 38
 
 Vervallen
 
-#### Artikel 39
+##### Artikel 39
 
 De [Regeling boordcomputer taxi](https://wetten.overheid.nl/jci1.3:c:BWBR0026626) wordt ingetrokken.
 
-#### Artikel 40
+##### Artikel 40
 
 Deze regeling wordt aangehaald als: Regeling specificaties en typegoedkeuring boordcomputer taxi.
 
-#### Artikel 41
+##### Artikel 41
 
 Deze regeling treedt in werking met ingang van 1 oktober 2010.
 
@@ -2062,7 +2087,7 @@ Het bericht A_TOTALEN is het antwoord op het bericht VR_TOTALEN. Het bericht bev
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 31a
+##### Artikel 31a
 
 De fabrikant voorziet erin dat de pin-code van de boordcomputerkaart gedeblokkeerd en gewijzigd kan worden op de wijze zoals gespecificeerd in de paragrafen 8.1, 8.3 en 8.4 van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&bijlage=4&z=2020-12-19&g=2020-12-19).
 
@@ -3280,7 +3305,7 @@ Voor het zetten van een elektronische handtekening met de sleutel-certificaatcom
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Deze regeling berust op [artikel 21, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=21), en [23, eerste en tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=23).
 

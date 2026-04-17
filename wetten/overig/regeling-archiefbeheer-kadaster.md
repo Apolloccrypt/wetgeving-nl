@@ -1,13 +1,38 @@
 ---
 title: "Regeling archiefbeheer Kadaster"
 identifier: "BWBR0027605"
-categorie: "Overig"
-publicatiedatum: 2021-02-06
-laatste_update: 2021-02-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027605"
+country: "nl"
+rank: "zbo"
+publication_date: "2021-02-06"
+last_updated: "2021-02-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027605"
+soort: "zbo"
+stam_id: "10516963"
+version_id: "17326482"
+internal_id: "C23910191"
+label_id: "10492274"
+dtd_version: "2.0"
+original_entry_into_force: "2004-05-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027605/2021-02-06/0"
+intitule_bron: "Stcrt.2004-86"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-04-20"
+intitule_published: "2004-05-06"
+intitule_in_force: "2004-05-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2004-86"
+original_signed_date: "2004-04-20"
+original_published_date: "2004-05-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2004-86-p13-SC64974"
+entry_into_force_date: "2004-05-08"
+jci_1_3: "jci1.3:c:BWBR0027605&z=2021-02-06&g=2021-02-06"
+jci_1_0: "1.0:c:BWBR0027605&g=2021-02-06"
+citeertitel_status: "officieel"
+signed_date: "2004-04-20"
+entry_into_force: "2004-05-08"
 ---
-
 # Regeling archiefbeheer Kadaster
 
 Gelet op [artikel 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14);
@@ -16,7 +41,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -54,13 +79,13 @@ In deze regeling wordt verstaan onder:
 
 - q. **werkproces:** uitvoering van de taak of handeling uit hoofde waarvan archiefbescheiden door de Dienst worden ontvangen of opgemaakt als naar hun aard bestemd om onder de Dienst te berusten.
 
-#### Artikel 2. Reikwijdte van de regeling
+##### Artikel 2. Reikwijdte van de regeling
 
 Deze regeling is van toepassing op archiefbescheiden van de Dienst, onverminderd hetgeen bij of krachtens de [Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541) of een andere wet is bepaald ten aanzien van in deze regeling geregelde onderwerpen.
 
 ### Hoofdstuk 2. Taken van het bestuur van de Dienst, de Recordsmanager en de beheerder
 
-#### Artikel 3. Taken van het bestuur van de Dienst
+##### Artikel 3. Taken van het bestuur van de Dienst
 
 1. Het bestuur van de Dienst, dat op grond van [artikel 41, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=41) zorgdrager voor de archiefbescheiden van de Dienst is, is binnen de Dienst eindverantwoordelijk voor de zorg voor de archiefbescheiden.
 
@@ -74,7 +99,7 @@ Deze regeling is van toepassing op archiefbescheiden van de Dienst, onverminderd
 
 3. Het bestuur van de Dienst stelt een ordeningsstructuur vast om de ordening en toegankelijkheid van archiefbescheiden te waarborgen. Deze ordeningsstructuur is gebaseerd op de werkprocessen van de Dienst.
 
-#### Artikel 4. Taken van de Recordsmanager
+##### Artikel 4. Taken van de Recordsmanager
 
 1. Onverminderd de overige in deze regeling genoemde taken van de Recordsmanager, is deze in ieder geval belast met:
 
@@ -92,7 +117,7 @@ Deze regeling is van toepassing op archiefbescheiden van de Dienst, onverminderd
 
 2. De Recordsmanager onderhoudt contacten en voert overleg met het Nationaal Archief, Regionale Historische Centra en de Rijksarchiefinspectie.
 
-#### Artikel 5. Taken van de beheerder
+##### Artikel 5. Taken van de beheerder
 
 1. Onverminderd de overige in deze regeling genoemde taken van de beheerder, is de beheerder belast met het beheer van de archiefbescheiden die tot het werkterrein van zijn organisatieonderdeel behoren.
 
@@ -126,11 +151,11 @@ Deze regeling is van toepassing op archiefbescheiden van de Dienst, onverminderd
 
 ### Hoofdstuk 3. Registratie, ordening, bewaring en beveiliging van archiefbescheiden
 
-#### Artikel 6. Registratie van archiefbescheiden
+##### Artikel 6. Registratie van archiefbescheiden
 
 Het bestuur van de Dienst stelt een procedure vast voor de registratie van archiefbescheiden en de bewaking van afdoeningstermijnen in een archiefsysteem.
 
-#### Artikel 7. Ordening en bewaring van archiefbescheiden
+##### Artikel 7. Ordening en bewaring van archiefbescheiden
 
 1. Het bestuur van de Dienst stelt richtlijnen vast voor de bewaring en de ordening van archiefbescheiden in een archiefsysteem volgens een doelmatige en doeltreffende systematiek. Deze richtlijnen waarborgen de toegankelijke staat van archiefbescheiden zodanig dat:
 
@@ -142,13 +167,13 @@ Het bestuur van de Dienst stelt een procedure vast voor de registratie van archi
 
 2. Het overzicht van blijvend te bewaren archiefbestanddelen is ingericht volgens de door het bestuur van de Dienst vastgestelde ordeningsstructuur.
 
-#### Artikel 8. Beveiliging van archiefbescheiden
+##### Artikel 8. Beveiliging van archiefbescheiden
 
 Het bestuur van de Dienst draagt zorg voor een adequate informatiebeveiliging, welke mede omvat de nodige procedurele en technische voorzieningen voor het tegengaan van wijziging, verwijdering, kopiëring of vernietiging van archiefbescheiden die daarvoor, gezien hun aard en status, niet in aanmerking komen.
 
 ### Hoofdstuk 4. Raadpleging, terbeschikkingstelling, uitlening, vervreemding, vervanging, selectie en vernietiging van archiefbescheiden; overdracht van archiefbescheiden aan een ander organisatieonderdeel; overbrenging van archiefbescheiden naar een archiefbewaarplaats; digitale archiefbescheiden
 
-#### Artikel 9. Raadpleging en terbeschikkingstelling van archiefbescheiden binnen de Dienst; overdracht van archiefbescheiden aan een ander organisatieonderdeel
+##### Artikel 9. Raadpleging en terbeschikkingstelling van archiefbescheiden binnen de Dienst; overdracht van archiefbescheiden aan een ander organisatieonderdeel
 
 1. Raadpleging en terbeschikkingstelling binnen een organisatieonderdeel is uitsluitend toegestaan aan medewerkers die zijn belast met behandeling van de desbetreffende aangelegenheid en kan door andere medewerkers van dat organisatieonderdeel slechts plaatsvinden na verkregen toestemming van de beheerder.
 
@@ -170,7 +195,7 @@ Het bestuur van de Dienst draagt zorg voor een adequate informatiebeveiliging, w
 
 7. De beheerder van het overdragende organisatieonderdeel is, ingeval het gaat om overdrachten als bedoeld in het zesde lid, onderdelen a en b, verantwoordelijk voor het opmaken van een verklaring van overdracht van archiefbescheiden aan het andere organisatieonderdeel. De verklaring wordt in tweevoud opgemaakt en door de betrokken beheerders ondertekend. Een exemplaar van deze verklaring wordt blijvend bewaard bij het overdragende organisatieonderdeel en het andere bij het ontvangende organisatieonderdeel.
 
-#### Artikel 10. Uitlening van archiefbescheiden aan en raadpleging er van door derden
+##### Artikel 10. Uitlening van archiefbescheiden aan en raadpleging er van door derden
 
 1. Het bestuur van de Dienst beslist over verzoeken tot uitlening aan of raadpleging door derden. [Artikel 9, tweede lid, tweede zin, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027605&hoofdstuk=4&artikel=9&z=2021-02-06&g=2021-02-06), is van overeenkomstige toepassing.
 
@@ -180,7 +205,7 @@ Het bestuur van de Dienst draagt zorg voor een adequate informatiebeveiliging, w
 
 4. Met uitzondering van de raadplegingen, bedoeld in de [artikelen 99 tot en met 107 van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=99), wordt, ingeval een verzoek tot raadpleging als bedoeld in het eerste lid wordt toegewezen, daarvan een verklaring in tweevoud opgemaakt, die een specificatie bevat van de te raadplegen archiefbescheiden en de aan de raadpleging gestelde voorwaarden. De verklaring wordt opgesteld door de beheerder. Een exemplaar van deze verklaring wordt blijvend bewaard bij het overdragende organisatieonderdeel en het andere wordt na ondertekening ter hand gesteld aan de betrokken derde.
 
-#### Artikel 11. Vervreemding
+##### Artikel 11. Vervreemding
 
 1. Het bestuur van de Dienst beslist, op grond van een gezamenlijk advies van de Recordsmanager en de desbetreffende beheerder, over vervreemding en plaatst het besluit hierover in de Staatscourant.
 
@@ -188,7 +213,7 @@ Het bestuur van de Dienst draagt zorg voor een adequate informatiebeveiliging, w
 
 3. Voor vervreemding is een machtiging vereist van de Minister van Onderwijs, Cultuur en Wetenschap, tenzij de vervreemding plaatsvindt ter uitvoering van een wetsbepaling.
 
-#### Artikel 12. Vervanging
+##### Artikel 12. Vervanging
 
 1. Het bestuur van de Dienst neemt de besluiten tot vervanging en publiceert deze in de Staatscourant.
 
@@ -200,7 +225,7 @@ Het bestuur van de Dienst draagt zorg voor een adequate informatiebeveiliging, w
 
 5. Van de vervanging wordt een verklaring opgesteld die wordt ondertekend door het bestuur van de Dienst. De verklaring bevat een specificatie van de te vervangen archiefbescheiden, geeft aan de redenen van de vervanging en geeft aan op welke wijze de vervanging heeft plaatsgevonden. De verklaring wordt in afschrift toegezonden aan de beheerders.
 
-#### Artikel 13. Selectie en vernietiging
+##### Artikel 13. Selectie en vernietiging
 
 1. De Recordsmanager is belast met het ontwerpen en onderhouden van selectielijsten, het voorleggen ervan aan het bestuur van de Dienst en het ter vaststelling aanbieden aan de Minister van Onderwijs, Cultuur en Wetenschap. Bij het ontwerpen van een selectielijst wordt rekening gehouden met de bij of krachtens de Algemene verordening gegevensbescherming gegeven bepalingen omtrent de bewaring en vernietiging van archiefbescheiden die persoonsgegevens bevatten.
 
@@ -218,11 +243,11 @@ Het bestuur van de Dienst draagt zorg voor een adequate informatiebeveiliging, w
 
 8. De Recordsmanager is belast met de controle op de uitvoering van selectielijsten en ziet er op toe dat selectie en vernietiging van archiefbescheiden met inachtneming van de geldende selectielijst geschiedt.
 
-#### Artikel 14. Overdracht van archiefbescheiden aan het semi-statisch archief
+##### Artikel 14. Overdracht van archiefbescheiden aan het semi-statisch archief
 
 Vervallen
 
-#### Artikel 15. Overbrenging van archiefbescheiden naar een archiefbewaarplaats
+##### Artikel 15. Overbrenging van archiefbescheiden naar een archiefbewaarplaats
 
 1. De beheerder is belast met het overbrengen van de daarvoor in aanmerking komende archiefbescheiden naar een archiefbewaarplaats.
 
@@ -236,29 +261,29 @@ Vervallen
 
 6. Ter voorbereiding op de overbrenging gaat de beheerder van het desbetreffende organisatieonderdeel na of uit enig wettelijk voorschrift beperkingen met betrekking tot de openbaarheid voortvloeien.
 
-#### Artikel 16. Digitale archiefbescheiden
+##### Artikel 16. Digitale archiefbescheiden
 
 Vervallen
 
 ### Hoofdstuk 5. Overige bepalingen
 
-#### Artikel 17. Verhuizing
+##### Artikel 17. Verhuizing
 
 1. De beheerder is, in geval van verhuizing van het desbetreffende organisatieonderdeel, verantwoordelijk voor het verhuizen van het archief.
 
 2. Bij het verhuizen van het archief wordt de daarvoor door het bestuur van de Dienst vastgestelde procedure gevolgd, beschreven in de ordeningsstructuur, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027605&hoofdstuk=2&artikel=3&z=2021-02-06&g=2021-02-06).
 
-#### Artikel 18. Vervoer van archiefbescheiden; plaatsing van archiefbescheiden bij derden
+##### Artikel 18. Vervoer van archiefbescheiden; plaatsing van archiefbescheiden bij derden
 
 1. De beheerder draagt er zorg voor dat vervoer van archiefbescheiden plaatsvindt met inachtneming van de door het bestuur van de Dienst daartoe zonodig vastgestelde richtlijnen.
 
 2. De beheerder draagt er zorg voor dat, ingeval archiefbescheiden tijdelijk bij een derde worden geplaatst, deze derde voldoende maatregelen neemt en voldoende waarborgen biedt dat de bij hem geplaatste archiefbescheiden worden bewaard overeenkomstig hetgeen daaromtrent is bepaald bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376). De in de eerste zin bedoelde verplichtingen van die derde worden schriftelijk vastgelegd in een overeenkomst.
 
-#### Artikel 19. Reorganisatie
+##### Artikel 19. Reorganisatie
 
 In geval van een reorganisatie is de beheerder belast met het afsluiten van het archief en het aanvangen van een nieuw te vormen archief in de nieuwe organisatie.
 
-#### Artikel 20. Interne audits; onderzoek en inspectie door de rijksarchiefinspectie
+##### Artikel 20. Interne audits; onderzoek en inspectie door de rijksarchiefinspectie
 
 1. Het bestuur van de Dienst draagt er zorg voor dat bij ieder organisatieonderdeel periodiek een audit op de toereikendheid van het archiefbeheer wordt uitgevoerd. Het bestuur van de Dienst stelt dit in het auditjaarplan vast.
 
@@ -270,7 +295,7 @@ In geval van een reorganisatie is de beheerder belast met het afsluiten van het 
 
 5. De beheerder is verplicht om alle benodigde medewerking te verlenen aan onderzoeken en inspecties, zowel vooraf aangekondigde als onaangekondigde, van de rijksarchiefinspectie.
 
-#### Artikel 21. Calamiteiten; buitengewone omstandigheden
+##### Artikel 21. Calamiteiten; buitengewone omstandigheden
 
 1. Het bestuur van de Dienst stelt een calamiteitenplan vast waarin wordt aangegeven hoe te handelen in geval van calamiteiten zoals brand, instorting, wateroverlast of explosie.
 
@@ -282,15 +307,15 @@ In geval van een reorganisatie is de beheerder belast met het afsluiten van het 
 
 ### Hoofdstuk 6. Invoerings- en slotbepalingen
 
-#### Artikel 22
+##### Artikel 22
 
 Deze regeling kan worden aangehaald als: Regeling archiefbeheer Kadaster.
 
-#### Artikel 23. Intrekking van bestaande regelingen
+##### Artikel 23. Intrekking van bestaande regelingen
 
 Vervallen
 
-#### Artikel 24. Inwerkingtreding
+##### Artikel 24. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 

@@ -1,14 +1,41 @@
 ---
-title: "Wet op de medische keuringen"
+title: "Wet van 5 juli 1997, houdende regels tot versterking van de rechtspositie van hen die een medische keuring ondergaan (Wet op de medische keuringen)"
 identifier: "BWBR0008819"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008819"
+country: "nl"
+rank: "wet"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008819"
+soort: "wet"
+stam_id: "613273"
+version_id: "890662"
+internal_id: "C890661"
+label_id: "595224"
+dtd_version: "2.0"
+original_entry_into_force: "1998-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008819/2025-01-01/0"
+intitule_bron: "Stb.1997-365"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-07-05"
+intitule_published: "1997-08-21"
+intitule_in_force: "1997-12-16"
+intitule_status: "goed"
+original_publication: "Stb.1997-365"
+original_signed_date: "1997-07-05"
+original_published_date: "1997-08-21"
+original_effect: "nieuwe-regeling"
+original_dossier: "23259"
+original_url_id: "stb-1997-365"
+entry_into_force_date: "1998-01-01"
+jci_1_3: "jci1.3:c:BWBR0008819&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0008819&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet op de medische keuringen"
+signed_date: "1997-07-05"
+entry_into_force: "1998-01-01"
 ---
-
-# Wet op de medische keuringen
+# Wet van 5 juli 1997, houdende regels tot versterking van de rechtspositie van hen die een medische keuring ondergaan (Wet op de medische keuringen)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +43,7 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is de rechtspositie van
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -44,13 +71,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - f. vragengrens: het over drie jaren gerekend totaal te verzekeren bedrag waar beneden de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=5&z=2025-01-01&g=2025-01-01) genoemde vragen niet mogen worden gesteld en het in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=6&z=2025-01-01&g=2025-01-01) genoemde onderzoek niet mag worden verricht.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Keuringen worden naar hun aard, inhoud en omvang beperkt tot het doel waarvoor zij worden verricht.
 
 2. Keuringsgegevens mogen slechts worden gebruikt voor het doel waarvoor zij zijn verkregen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Bij een keuring worden geen vragen gesteld en geen medische onderzoeken verricht die een onevenredige inbreuk betekenen op de persoonlijke levenssfeer van de keurling.
 
@@ -60,7 +87,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. onderzoek dat anderszins voor de keurling een onevenredig zware belasting met zich meebrengt.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Keuringen in verband met het aangaan en wijzigen van een burgerrechtelijke arbeidsverhouding die bij of krachtens de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) of de [Wet op de Arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) als dienstbetrekking wordt aangemerkt, of in verband met een aanstelling in openbare dienst worden slechts verricht indien aan de vervulling van de functie, waarop de arbeidsverhouding of aanstelling in openbare dienst betrekking heeft, bijzondere eisen op het punt van de medische geschiktheid moeten worden gesteld. Onder medische geschiktheid voor de functie wordt begrepen de bescherming van de gezondheid en veiligheid van de keurling en van derden bij de uitvoering van de desbetreffende arbeid.
 
@@ -74,13 +101,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 6. Geen uitsluiting of vermindering van rechten op grond van ziekten, aandoeningen of gebreken wordt bedongen door de verzekeraar bij de deelneming aan een voorziening dan wel regeling als bedoeld in het derde lid en bij het aangaan of wijzigen van een verzekering als bedoeld in het vierde en vijfde lid, voorzover ingevolge deze leden een keuringsverbod geldt.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Bij een keuring in verband met het aangaan of wijzigen van een verzekering mogen geen vragen worden gesteld over in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=3&z=2025-01-01&g=2025-01-01), genoemde ziekten, voor zover die op erfelijkheid betrekking hebben, bij de bloedverwanten van de aspirant-verzekerde en, tenzij de ziekte manifest is, bij de aspirant-verzekerde zelf en over onderzoek bij de aspirant-verzekerde en bij diens bloedverwanten gericht op de erfelijke aanleg voor ziekte en de resultaten van dergelijk onderzoek, indien de te sluiten verzekering de vragengrens niet overschrijdt. Bij de behandeling van de aanvrage voor het aangaan of wijzigen van een verzekering en bij een keuring in dat verband mogen geen uit andere hoofde reeds bij de keuringvrager, de keurend arts of geneeskundig adviseur aanwezige erfelijke gegevens over de aspirantverzekerde en diens bloedverwanten worden gebruikt.
 
 2. Voor arbeidsongeschiktheidsverzekeringen, voor zover niet vallende onder [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=4&z=2025-01-01&g=2025-01-01), bedraagt de vragengrens € 36 249,– per 1 januari 2025: € 51.100,– voor het eerste jaar van arbeidsongeschiktheid en € 24 267,– per 1 januari 2025: € 34.200,– voor de daaropvolgende jaren van arbeidsongeschiktheid. Voor levensverzekeringen bedraagt de vragengrens € 250 000 per 1 januari 2025: € 352.200,–. Bedoelde bedragen worden elke drie jaar bij ministeriële regeling aangepast aan de consumentenprijsindex.
 
-#### Artikel 6
+##### Artikel 6
 
 In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=3&z=2025-01-01&g=2025-01-01) mag bij het aangaan of wijzigen van een verzekering als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=5&z=2025-01-01&g=2025-01-01), een medisch onderzoek naar Aids of seropositiviteit voor Aids worden verricht:
 
@@ -88,21 +115,21 @@ In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&art
 
 - b. indien de te sluiten verzekering de vragengrens, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=5&z=2025-01-01&g=2025-01-01), niet overschrijdt, maar het antwoord van de keurling op de in het licht van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=2&z=2025-01-01&g=2025-01-01) en [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=3&z=2025-01-01&g=2025-01-01), gerechtvaardigde vragen daartoe aanleiding geeft.
 
-#### Artikel 7
+##### Artikel 7
 
 In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=3&z=2025-01-01&g=2025-01-01) kan, indien dit vanwege een dringend algemeen belang noodzakelijk is, Onze Minister van Volksgezondheid, Welzijn en Sport ten aanzien van een zich nieuw voordoende ziekte die valt onder [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=3&z=2025-01-01&g=2025-01-01), bij ministeriële regeling bepalen dat artikel 6 van overeenkomstige toepassing is, totdat over deze ziekte afspraken als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=9&z=2025-01-01&g=2025-01-01) zijn gemaakt. Het ontwerp van een ministeriële regeling als bedoeld in de eerste volzin wordt ten minste vier weken voordat de regeling wordt vastgesteld, toegezonden aan de beide kamers der Staten-Generaal.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De keuringvrager legt met inachtneming van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=2&z=2025-01-01&g=2025-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=3&z=2025-01-01&g=2025-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=4&z=2025-01-01&g=2025-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=5&z=2025-01-01&g=2025-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=6&z=2025-01-01&g=2025-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=7&z=2025-01-01&g=2025-01-01) het doel van de keuring, de vragen welke ten aanzien van de gezondheid zullen worden gesteld, en de medische onderzoeken welke mogen worden verricht, schriftelijk vast.
 
 2. Tijdig voor de aanvang van de keuring wordt aan de keurling op begrijpelijke wijze schriftelijk informatie gegeven over doel, vragen en onderzoeken, als bedoeld in het eerste lid, en over diens rechten bij keuringen.
 
-#### Artikel 9
+##### Artikel 9
 
 Representatieve organisaties van de werkgevers, respectievelijk de verzekeraars, representatieve organisaties van werknemers, respectievelijk de consumenten en patiënten en de representatieve organisatie van de artsen kunnen afspraken maken over de omschrijving van het doel van de keuring, als bedoeld in het [eerste lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=2&z=2025-01-01&g=2025-01-01), het verrichten van keuringen als bedoeld in het [eerste lid van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=4&z=2025-01-01&g=2025-01-01), en over de vragen en medische onderzoeken, als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=3&z=2025-01-01&g=2025-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=5&z=2025-01-01&g=2025-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=6&z=2025-01-01&g=2025-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=7&z=2025-01-01&g=2025-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=8&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 10
+##### Artikel 10
 
 1. De keurend arts en de geneeskundig adviseur oefenen hun taak uit met behoud van hun zelfstandig oordeel op het gebied van hun deskundigheid en van hun onafhankelijkheid ten opzichte van de keuringvrager.
 
@@ -110,11 +137,11 @@ Representatieve organisaties van de werkgevers, respectievelijk de verzekeraars,
 
 3. De keurend arts, respectievelijk de geneeskundig adviseur delen aan de keuringvrager niet meer mee dan voor het doel van de keuring strikt noodzakelijk is.
 
-#### Artikel 11
+##### Artikel 11
 
 De keurling heeft het recht medewerking te weigeren aan een keuring of een onderdeel daarvan indien ten aanzien daarvan niet voldaan is aan de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=2&z=2025-01-01&g=2025-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=3&z=2025-01-01&g=2025-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=4&z=2025-01-01&g=2025-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=5&z=2025-01-01&g=2025-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=6&z=2025-01-01&g=2025-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=7&z=2025-01-01&g=2025-01-01) of [8](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=8&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 12
+##### Artikel 12
 
 1. Indien aan de keuring een negatieve gevolgtrekking dan wel een positieve gevolgtrekking onder bepaalde beperkingen wordt verbonden, heeft de keurling het recht op herkeuring. De keurling maakt zijn wens daartoe met redenen omkleed kenbaar binnen een week nadat de genoemde gevolgtrekking aan hem is medegedeeld. De keuringvrager treft een regeling voor herkeuring door een onafhankelijk geneeskundige.
 
@@ -122,7 +149,7 @@ De keurling heeft het recht medewerking te weigeren aan een keuring of een onder
 
 3. De kosten van de herkeuring worden gedragen door de keuringvrager. Deze mag echter een redelijke bijdrage van de keurling verlangen.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=9&z=2025-01-01&g=2025-01-01) bedoelde organisaties kunnen een onafhankelijke klachtencommissie instellen, voor zover de klachtenbehandeling geen betrekking heeft op een keuring als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=4&z=2025-01-01&g=2025-01-01).
 
@@ -130,7 +157,7 @@ De keurling heeft het recht medewerking te weigeren aan een keuring of een onder
 
 3. De in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=9&z=2025-01-01&g=2025-01-01) bedoelde organisaties stellen het reglement van de klachtencommissie vast.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Bij algemene maatregel van bestuur worden nadere regels gesteld over het verrichten van keuringen als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=4&z=2025-01-01&g=2025-01-01), en de vragen welke ten aanzien van de gezondheid zullen worden gesteld, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=8&z=2025-01-01&g=2025-01-01).
 
@@ -142,17 +169,17 @@ De keurling heeft het recht medewerking te weigeren aan een keuring of een onder
 
 3. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld ter uitvoering van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=2&z=2025-01-01&g=2025-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=3&z=2025-01-01&g=2025-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=4&z=2025-01-01&g=2025-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=5&z=2025-01-01&g=2025-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=6&z=2025-01-01&g=2025-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=7&z=2025-01-01&g=2025-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=8&z=2025-01-01&g=2025-01-01) en [13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=13&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
-#### Artikel 16
+##### Artikel 16
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 2. In het koninklijk besluit bedoeld in het eerste lid kan worden bepaald dat ten aanzien van de keuringen, bedoeld in artikel 5, de artikelen 5, 9, 11, 12 en 13 op een later tijdstip in werking treden, doch niet later dan drie jaren na het in het eerste lid bedoelde tijdstip.
 
-#### Artikel 17
+##### Artikel 17
 
 Deze wet wordt aangehaald als: Wet op de medische keuringen.
 

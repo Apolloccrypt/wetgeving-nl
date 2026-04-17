@@ -1,13 +1,39 @@
 ---
-title: "Besluit minimumloon en minimumvakantiebijslag"
+title: "Besluit van 2 september 1996, houdende aanwijzing van een aantal arbeidsverhoudingen die als dienstbetrekking als bedoeld in artikel 2 van de Wet minimumloon en minimumvakantiebijslag worden beschouwd"
 identifier: "BWBR0008222"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2023-01-01
-laatste_update: 2023-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008222"
+country: "nl"
+rank: "amvb"
+publication_date: "2023-01-01"
+last_updated: "2023-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008222"
+soort: "AMvB"
+stam_id: "163713"
+version_id: "27797942"
+internal_id: "C39208321"
+label_id: "161814"
+dtd_version: "2.0"
+original_entry_into_force: "2021-05-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008222/2023-01-01/0"
+intitule_bron: "Stb.1996-481"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-09-02"
+intitule_published: "1996-10-03"
+intitule_in_force: "1996-10-03"
+intitule_status: "goed"
+original_publication: "Stb.2021-258"
+original_signed_date: "2021-05-26"
+original_published_date: "2021-06-04"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2021-258"
+entry_into_force_date: "2021-05-26"
+jci_1_3: "jci1.3:c:BWBR0008222&z=2023-01-01&g=2023-01-01"
+jci_1_0: "1.0:c:BWBR0008222&g=2023-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit minimumloon en minimumvakantiebijslag"
+signed_date: "2021-05-26"
+entry_into_force: "2021-05-26"
 ---
-
 # Besluit van 2 september 1996, houdende aanwijzing van een aantal arbeidsverhoudingen die als dienstbetrekking als bedoeld in artikel 2 van de Wet minimumloon en minimumvakantiebijslag worden beschouwd
 
 Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 27 maart 1996, Directie Arbeidsverhoudingen, nr. AV/RV/96/554;
@@ -22,17 +48,17 @@ Gezien het nader rapport van Onze Minister van Sociale Zaken en Werkgelegenheid 
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder wet: [Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638).
 
-#### Artikel 2
+##### Artikel 2
 
 Voor de toepassing van het bij of krachtens de wet bepaalde wordt onder dienstbetrekking als bedoeld in [artikel 2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=2) niet verstaan de arbeidsverhouding van degene die krachtens een overeenkomst tegen beloning kinderen opvangt in het kader van gastouderopvang als bedoeld in [artikel 1.1, eerste lid, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.1), waarbij de opvang plaatsvindt op het woonadres van de gastouder.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Na een herhaling van een overtreding of soortgelijke overtreding wordt een waarschuwing gegeven als bedoeld in [artikel 18i, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18i) en indien een herhaling van die of een soortgelijke overtreding is geconstateerd als bedoeld in dat artikel van de wet, wordt een bevel opgelegd door de daartoe aangewezen ambtenaar dat de door hem aangewezen werkzaamheden voor een daarbij aangegeven periode worden stilgelegd dan wel niet mogen aanvangen.
 
@@ -58,15 +84,15 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 4. Indien de aard van de overtreding of de met de overtreding samenhangende omstandigheden dan wel de gevolgen van een stillegging van de werkzaamheden daartoe aanleiding geven, kan worden afgezien van een waarschuwing als bedoeld in het eerste en tweede lid en kan worden afgezien van een bevel als bedoeld in het eerste en tweede lid.
 
-#### Artikel 4
+##### Artikel 4
 
 Ernstige overtredingen in de zin van [artikel 18f, derde en vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18f) zijn de overtredingen, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008222&paragraaf=4&artikel=3&z=2023-01-01&g=2023-01-01).
 
-#### Artikel 5
+##### Artikel 5
 
 Bij ministeriële regeling kan het aantal werknemers, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008222&paragraaf=4&artikel=3&z=2023-01-01&g=2023-01-01), worden aangepast.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Als een soortgelijke verplichting als bedoeld in [artikel 18f, tweede en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18f) worden aangewezen de verplichtingen op grond van:
 
@@ -84,19 +110,19 @@ Bij ministeriële regeling kan het aantal werknemers, bedoeld in [artikel 3, der
 
 - c. [artikel 13a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=13a) rustende verplichting, tenzij de werkgever slechts in strijd met het derde lid van dat artikel heeft gehandeld.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit wordt aangehaald als: Besluit minimumloon en minimumvakantiebijslag.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-#### Artikel 6a
+##### Artikel 6a
 
 1. De gegevens, bedoeld in [artikel 18pa van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18pa), worden door de toezichthouder of de door Onze Minister aangewezen ambtenaren geplaatst op een website met informatie van de toezichthouder of de door Onze Minister aangewezen ambtenaren, bedoeld in artikel 18pa, eerste lid, van de wet.
 
 2. De gegevens, bedoeld in [artikel 18pa van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18pa), blijven drie jaar na de datum van bekendmaking van het besluit, bedoeld in 18pa, eerste lid, van de wet, dan wel na verzending van een brief met de mededeling dat er geen overtreding is geconstateerd, beschikbaar op de website.
 
-#### Artikel 6b
+##### Artikel 6b
 
 1. De gegevens, bedoeld in [artikel 18pa van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18pa), betreffen:
 
@@ -114,7 +140,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 2. Indien na afronding van een onderzoek geen overtreding is geconstateerd die leidt tot de besluiten, genoemd in [artikel 6c](https://wetten.overheid.nl/jci1.3:c:BWBR0008222&paragraaf=5&artikel=6c&z=2023-01-01&g=2023-01-01), wordt bij de gegevens, genoemd in het eerste lid, de opmerking geplaatst dat geen overtreding is geconstateerd.
 
-#### Artikel 6c
+##### Artikel 6c
 
 1. In aanvulling op [artikel 6b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008222&paragraaf=5&artikel=6b&z=2023-01-01&g=2023-01-01), worden indien een onderzoek door de door Onze Minister aangewezen ambtenaren, bedoeld in [artikel 18a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18a), of [artikel 18c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18c) wordt gevolgd door een besluit tot het opleggen van een bestuurlijke boete als bedoeld in artikel 18c, of een besluit tot bevel tot staken van de werkzaamheden als bedoeld in [artikel 18i, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18i), de volgende gegevens met betrekking tot dat besluit openbaar gemaakt:
 
@@ -124,19 +150,19 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 2. Indien het besluit, bedoeld in het eerste lid, geheel of gedeeltelijk bestaat uit een bevel tot staken van de werkzaamheden, bedoeld in [artikel 18i van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18i), bevat de openbaarmaking tevens de periode waarin de werkzaamheden worden gestaakt.
 
-#### Artikel 6d
+##### Artikel 6d
 
 1. De openbaarmaking van de gegevens, bedoeld in de [artikelen 6b](https://wetten.overheid.nl/jci1.3:c:BWBR0008222&paragraaf=5&artikel=6b&z=2023-01-01&g=2023-01-01) en [6c](https://wetten.overheid.nl/jci1.3:c:BWBR0008222&paragraaf=5&artikel=6c&z=2023-01-01&g=2023-01-01), geschiedt niet eerder dan tien werkdagen, doch uiterlijk dertig werkdagen na de datum waarop het besluit tot openbaarmaking van deze gegevens aan belanghebbende bekend is gemaakt.
 
 2. Indien wordt verzocht om een voorlopige voorziening als bedoeld in [artikel 18pa, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18pa), wordt de termijn van dertig werkdagen, bedoeld in het eerste lid, overeenkomstig opgeschort.
 
-#### Artikel 6e
+##### Artikel 6e
 
 1. Op verzoek van de belanghebbende kan een schriftelijke reactie over de openbaarmaking van de gegevens, bedoeld in de [artikelen 6b](https://wetten.overheid.nl/jci1.3:c:BWBR0008222&paragraaf=5&artikel=6b&z=2023-01-01&g=2023-01-01) en [6c](https://wetten.overheid.nl/jci1.3:c:BWBR0008222&paragraaf=5&artikel=6c&z=2023-01-01&g=2023-01-01), van ten hoogste 2.000 leestekens worden gegeven, die zal worden gevoegd bij de openbaar te maken gegevens op de website met informatie van de toezichthouder of de door Onze Minister aangewezen ambtenaren.
 
 2. Onderdelen van de schriftelijke reactie die persoonsgegevens, bedrijfsnamen of bedrijfsgegevens van derden dan wel strafbare of aanstootgevende uitlatingen bevatten, worden niet op de website gepubliceerd.
 
-#### Artikel 6f
+##### Artikel 6f
 
 Indien in verband met een beslissing op bezwaar, beroep of hoger beroep wordt vastgesteld dat de gegevens, die op grond van [artikel 18pa van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18pa), en de [artikelen 6b](https://wetten.overheid.nl/jci1.3:c:BWBR0008222&paragraaf=5&artikel=6b&z=2023-01-01&g=2023-01-01) en [6c](https://wetten.overheid.nl/jci1.3:c:BWBR0008222&paragraaf=5&artikel=6c&z=2023-01-01&g=2023-01-01) openbaar zijn gemaakt, niet meer juist of volledig zijn, worden deze gegevens aangepast, binnen tien werkdagen na vaststelling of na ontvangst van de desbetreffende beslissing door Onze Minister.
 
@@ -148,7 +174,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### Paragraaf 3. Bevoegdheid tot volmachtverlening
 
-#### Artikel 2a
+##### Artikel 2a
 
 1. De werknemer is bevoegd om schriftelijke volmacht te verlenen aan de werkgever om uit het uit te betalen minimumloon in zijn naam betalingen te verrichten aan de verhuurder ter zake van de huur van woonruimte van de huurprijs, de kosten voor nutsvoorzieningen met een individuele meter en de servicekosten, bedoeld in [artikel 237 van Boek 7, derde lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=237), indien:
 
@@ -166,7 +192,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 4. De werkgever is bevoegd de betalingen, bedoeld in het eerste lid, te verrichten, indien hij aan de hand van de afschriften van de huurovereenkomst en van de bescheiden, bedoeld in het derde lid, heeft vastgesteld dat is voldaan aan de eisen, gesteld in het eerste en tweede lid.
 
-#### Artikel 2b
+##### Artikel 2b
 
 1. De werknemer is bevoegd om als verzekeringnemer schriftelijke volmacht te verlenen aan de werkgever om uit het uit te betalen minimumloon in zijn naam betalingen te verrichten aan de zorgverzekeraar ter zake van de verschuldigde premie voor zijn zorgverzekering als bedoeld in [artikel 1, onderdeel d, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1) en de verschuldigde premie voor een verzekering uitsluitend ter afdekking van zijn verplicht eigen risico, bedoeld in artikel 1, onderdeel g, van de Zorgverzekeringswet. De betalingen voor de verzekeringen, bedoeld in de vorige zin, bedragen gezamenlijk per betalingstermijn van het loon ten hoogste het bedrag van de geraamde gemiddelde nominale premie die een verzekerde voor een zorgverzekering betaalt, vermeerderd met 10 procent, gedeeld door het aantal betalingstermijnen voor het betrokken kalenderjaar.
 
@@ -176,7 +202,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 4. De werkgever is bevoegd de betalingen, bedoeld in het eerste lid, te verrichten, indien hij aan de hand van de afschriften van de zorgpolis en de verzekeringspolis, bedoeld in het derde lid, heeft vastgesteld dat is voldaan aan de eisen, gesteld in het eerste lid.
 
-#### Artikel 2c
+##### Artikel 2c
 
 1. De werknemer, die een arbeidsbeperkte is als bedoeld in [artikel 38b, eerste en tweede lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38b), of van wie het college van burgemeester en wethouders heeft vastgesteld dat hij uitsluitend in een beschutte omgeving onder aangepaste omstandigheden mogelijkheden tot arbeidsparticipatie heeft als bedoeld in [artikel 10b, eerste lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10b) is bevoegd om schriftelijke volmacht te verlenen aan de werkgever om uit het uit te betalen minimumloon in zijn naam betalingen te verrichten ter zake van:
 
@@ -194,7 +220,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 4. Dit artikel is van overeenkomstige toepassing op werknemers in bepaalde soorten dienstbetrekkingen die gelijkgesteld zijn met arbeidsbeperkten op grond van [artikel 38f, vijfde lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38f).
 
-#### Artikel 2d
+##### Artikel 2d
 
 Vervallen
 
@@ -206,13 +232,13 @@ Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 1. Voor de toepassing van het bij of krachtens de wet bepaalde wordt onder dienstbetrekking als bedoeld in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=2) mede verstaan de arbeidsverhouding van degene die, anders dan krachtens een overeenkomst van opdracht als bedoeld in [artikel 400 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=400), arbeid tegen beloning verricht, tenzij deze arbeid wordt verricht in de uitoefening van een bedrijf of in de zelfstandige uitoefening van een beroep.
 
 2. In het geval, bedoeld in het eerste lid, wordt onder werkgever verstaan de wederpartij met wie de overeenkomst, die ten grondslag ligt aan de arbeidsverhouding, is aangegaan.
 
-#### Artikel 2aa
+##### Artikel 2aa
 
 Voor de toepassing van het bij of krachtens de wet bepaalde wordt onder dienstbetrekking als bedoeld in [artikel 2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=2) niet verstaan de arbeidsverhouding van degene:
 
@@ -244,7 +270,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-#### Artikel 6g
+##### Artikel 6g
 
 De gegevens, bedoeld in [artikel 18p, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18p), betreffen:
 

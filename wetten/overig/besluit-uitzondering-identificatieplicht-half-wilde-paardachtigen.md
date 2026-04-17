@@ -1,20 +1,46 @@
 ---
-title: "Besluit uitzondering identificatieplicht half wilde paardachtigen"
+title: "Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 11 juli 2022, nr. WJZ/ 22233441, houdende aanwijzing van terreinen met populaties van half wilde paardachtigen die zijn uitgezonderd van de identificatieplicht (Besluit uitzondering identificatieplicht half wilde paardachtigen)"
 identifier: "BWBR0046920"
-categorie: "Overig"
-publicatiedatum: 2025-10-09
-laatste_update: 2025-10-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046920"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-10-09"
+last_updated: "2025-10-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046920"
+soort: "ministeriele-regeling"
+stam_id: "16422753"
+version_id: "28761642"
+internal_id: "C40702281"
+label_id: "16346734"
+dtd_version: "2.0"
+original_entry_into_force: "2022-07-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046920/2025-10-09/0"
+intitule_bron: "Stcrt.2022-19137"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-07-11"
+intitule_published: "2022-07-15"
+intitule_in_force: "2022-07-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-19137"
+original_signed_date: "2022-07-11"
+original_published_date: "2022-07-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-19137"
+entry_into_force_date: "2022-07-16"
+jci_1_3: "jci1.3:c:BWBR0046920&z=2025-10-09&g=2025-10-09"
+jci_1_0: "1.0:c:BWBR0046920&g=2025-10-09"
+citeertitel_status: "officieel"
+short_title: "Besluit uitzondering identificatieplicht half wilde paardachtigen"
+signed_date: "2022-07-11"
+entry_into_force: "2022-07-16"
 ---
-
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 11 juli 2022, nr. WJZ/ 22233441, houdende aanwijzing van terreinen met populaties van half wilde paardachtigen die zijn uitgezonderd van de identificatieplicht (Besluit uitzondering identificatieplicht half wilde paardachtigen)
 
 Gelet op artikel 60 van [verordening (EU) 2019/2035](32035R2019) van de Commissie van 28 juni 2019 tot aanvulling van [Verordening (EU) 2016/429](32329R2016) van het Europees Parlement en de Raad wat betreft regels voor inrichtingen waar landdieren worden gehouden en broederijen, alsmede voor de traceerbaarheid van bepaalde gehouden landdieren en broedeieren (Pb EU 2019, L 314) en [artikel 4.8 van het Besluit handhaving en overige zaken Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&artikel=4.8);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Als populaties van paardachtigen als bedoeld in artikel 60 van [verordening (EU) 2019/2035](32035R2019) van de Commissie van 28 juni 2019 tot aanvulling van [Verordening (EU) 2016/429](32329R2016) van het Europees Parlement en de Raad wat betreft regels voor inrichtingen waar landdieren worden gehouden en broederijen, alsmede voor de traceerbaarheid van bepaalde gehouden landdieren en broedeieren (Pb EU 2019, L 314), worden de populaties die leven in één van de volgende terreinen aangewezen:
 
@@ -75,11 +101,11 @@ Als populaties van paardachtigen als bedoeld in artikel 60 van [verordening (EU)
 | Westerbroekstermadepolder | Westerbroekstermapolder 9607 PW Foxhol |
 | Zoutkamperplaat | De Hooge Zuidwal te Zoutkamp |
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit wordt aangehaald als: Besluit uitzondering identificatieplicht half wilde paardachtigen.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 

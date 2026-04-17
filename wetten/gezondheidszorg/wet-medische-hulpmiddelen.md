@@ -1,14 +1,41 @@
 ---
-title: "Wet medische hulpmiddelen"
+title: "Wet van 24 oktober 2019, houdende regels over de veiligheid en kwaliteit van medische hulpmiddelen (Wet medische hulpmiddelen)"
 identifier: "BWBR0042755"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2026-02-19
-laatste_update: 2026-02-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042755"
+country: "nl"
+rank: "wet"
+publication_date: "2026-02-19"
+last_updated: "2026-02-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042755"
+soort: "wet"
+stam_id: "15223233"
+version_id: "26189112"
+internal_id: "C37906171"
+label_id: "15170244"
+dtd_version: "2.0"
+original_entry_into_force: "2020-06-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042755/2026-02-19/0"
+intitule_bron: "Stb.2019-400"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-10-24"
+intitule_published: "2019-11-11"
+intitule_in_force: "2020-06-04"
+intitule_status: "goed"
+original_publication: "Stb.2019-400"
+original_signed_date: "2019-10-24"
+original_published_date: "2019-11-11"
+original_effect: "nieuwe-regeling"
+original_dossier: "35043"
+original_url_id: "stb-2019-400"
+entry_into_force_date: "2020-06-05"
+jci_1_3: "jci1.3:c:BWBR0042755&z=2026-02-19&g=2026-02-19"
+jci_1_0: "1.0:c:BWBR0042755&g=2026-02-19"
+citeertitel_status: "officieel"
+short_title: "Wet medische hulpmiddelen"
+signed_date: "2019-10-24"
+entry_into_force: "2020-06-05"
 ---
-
-# Wet medische hulpmiddelen
+# Wet van 24 oktober 2019, houdende regels over de veiligheid en kwaliteit van medische hulpmiddelen (Wet medische hulpmiddelen)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -28,7 +55,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk 6. Overgangs- en slotbepalingen
 
-#### Artikel 23. Overgangsrecht
+##### Artikel 23. Overgangsrecht
 
 1. Besluiten als bedoeld in [artikel 10 van de Wet op de medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002697&artikel=10) die voor de inwerkingtreding van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=6&artikel=29&z=2026-02-19&g=2026-02-19) van deze wet zijn genomen, vervallen:
 
@@ -48,7 +75,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 - d. van toepassing op medische hulpmiddelen voor in-vitrodiagnostiek als bedoeld in artikel 110, vijfde lid, van Verordening (EU) 2017/746, die voor 26 mei 2021 in de handel zijn gebracht, met dien verstande dat in artikel 14 van de Wet op de medische hulpmiddelen voor «artikel 2, 3, 4, 5, 7, eerste lid, 9, eerste of derde lid, of 13» en in [artikel 1, aanhef en onder 4°, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1) voor «de Wet op de medische hulpmiddelen, de artikelen 2, 3, eerste lid, 4, 5, 7, eerste lid, en 9, eerste en derde lid» telkens wordt gelezen «Verordening (EU) 2017/746».
 
-#### Artikel 24. Overgangsrecht
+##### Artikel 24. Overgangsrecht
 
 1. In dit artikel wordt verstaan onder «tijdstip van intrekking»: de latere van de data, bedoeld in artikel 123, derde lid, onderdeel d, van Verordening (EU) 2017/745.
 
@@ -56,7 +83,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 3. [Artikel 5a van het Besluit actieve implantaten](https://wetten.overheid.nl/jci1.3:c:BWBR0006060&artikel=5a) en [artikel 5 van het Besluit medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0007307&artikel=5), zoals deze luidden op de dag voor het tijdstip van inwerkingtreding van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=6&artikel=29&z=2026-02-19&g=2026-02-19) van deze wet, zijn van toepassing tot achttien maanden na het tijdstip van intrekking.
 
-#### Artikel 25. Overgangsrecht
+##### Artikel 25. Overgangsrecht
 
 1. In dit artikel wordt verstaan onder «tijdstip van intrekking»: de latere van de data, bedoeld in artikel 113, derde lid, onderdeel f, van Verordening (EU) 2017/746.
 
@@ -64,37 +91,37 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 3. [Artikel 4 van het Besluit in-vitro diagnostica](https://wetten.overheid.nl/jci1.3:c:BWBR0012610&artikel=4), zoals dit luidde op de dag voor het tijdstip van inwerkingtreding van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=6&artikel=29&z=2026-02-19&g=2026-02-19) van deze wet, is van toepassing tot achttien maanden na het tijdstip van intrekking.
 
-#### Artikel 26. Overgangsrecht
+##### Artikel 26. Overgangsrecht
 
 Een positief oordeel als bedoeld in [artikel 2, tweede lid, van de Wet medisch-wetenschappelijk onderzoek met mensen](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&artikel=2), dat is afgegeven voor 26 mei 2021 voor een klinisch onderzoek als bedoeld in artikel 10 van [richtlijn 90/385/EEG](31990L0385) van de Raad van 20 juni 1990 betreffende de onderlinge aanpassing van de wetgevingen van de Lid-Staten inzake actieve implanteerbare medische hulpmiddelen (PbEG 1990, L 189) en in artikel 15 van [richtlijn 93/42/EEG](31993L0042) van de Raad van 14 juni 1993 betreffende medische hulpmiddelen (PbEG 1993, L 169) wordt aangemerkt als een positief oordeel voor wetenschappelijk onderzoek met medische hulpmiddelen als bedoeld in [artikel 1 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&artikel=1), mits de uitvoering van het onderzoek reeds is aangevangen.
 
-#### Artikel 27. Overgangsrecht
+##### Artikel 27. Overgangsrecht
 
 Vervallen
 
-#### Artikel 28. Overgangsrecht
+##### Artikel 28. Overgangsrecht
 
 [Artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=6&artikel=27&z=2026-02-19&g=2026-02-19) vervalt.
 
-#### Artikel 28a. Wijzigingen
+##### Artikel 28a. Wijzigingen
 
 De [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=1&artikel=1&z=2026-02-19&g=2026-02-19), [3 tot en met 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=2&artikel=3&z=2026-02-19&g=2026-02-19), [8 tot en met 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=3&artikel=8&z=2026-02-19&g=2026-02-19), [10a](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=4&artikel=10a&z=2026-02-19&g=2026-02-19), [10c tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=4&artikel=11&z=2026-02-19&g=2026-02-19), [23 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=6&artikel=23&z=2026-02-19&g=2026-02-19) kunnen bij ministeriële regeling worden gewijzigd in verband met aanpassingen van verwijzingen naar bindende EU-rechtshandelingen of onderdelen daarvan, voor zover die aanpassingen niet inhoudelijk van aard zijn.
 
-#### Artikel 29. Intrekking
+##### Artikel 29. Intrekking
 
 De [Wet op de medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002697) wordt ingetrokken.
 
-#### Artikel 30. Inwerkingtreding
+##### Artikel 30. Inwerkingtreding
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 31. Citeertitel
+##### Artikel 31. Citeertitel
 
 Deze wet wordt aangehaald als: Wet medische hulpmiddelen.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -110,11 +137,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **Verordening (EU) 2019/1020:** [Verordening (EU) 2019/1020](32920R2019) van het Europees Parlement en de Raad van 20 juni 2019 betreffende markttoezicht en conformiteit van producten en tot wijziging van [Richtlijn 2004/42/EG](32004L0042) en de [Verordeningen (EG) nr. 765/2008](32008R0765) en (EU) [nr. 305/2011](32011R0305) (PbEU 2019, L169).
 
-#### Artikel 2. Reikwijdte
+##### Artikel 2. Reikwijdte
 
 Deze wet is van toepassing op medische hulpmiddelen waarop Verordening (EU) 2017/745 van toepassing is en op medische hulpmiddelen voor in-vitrodiagnostiek waarop Verordening (EU) 2017/746 van toepassing is.
 
-#### Artikel 3. Gebruik van medische hulpmiddelen
+##### Artikel 3. Gebruik van medische hulpmiddelen
 
 1. Bij algemene maatregel van bestuur worden regels gesteld ter uitvoering van het bepaalde in artikel 18, tweede lid, van Verordening (EU) 2017/745.
 
@@ -126,7 +153,7 @@ Deze wet is van toepassing op medische hulpmiddelen waarop Verordening (EU) 2017
 
 3. In gevallen waarin een spoedige voorziening krachtens het tweede lid, onderdeel b, met uitzondering van artikel 97, tweede lid, van Verordening (EU) 2017/745, en artikel 92, tweede lid, van Verordening (EU) 2017/746, in het belang van de volksgezondheid of de veiligheid zo dringend geboden is dat de totstandkoming van een daartoe strekkende algemene maatregel van bestuur niet kan worden afgewacht, kan Onze Minister ter zake bij ministeriële regeling voorlopig geldende regels stellen en daarbij bepalingen van op die artikelen berustende algemene maatregelen van bestuur zo nodig buiten toepassing verklaren. De regeling vervalt een jaar nadat het in werking is getreden, of, indien binnen die termijn een algemene maatregel van bestuur ter vervanging van dat besluit in werking is getreden, op het tijdstip waarop de maatregel in werking treedt. De termijn kan door Onze Minister eenmaal met ten hoogste een jaar worden verlengd.
 
-#### Artikel 4. Administratieve voorschriften
+##### Artikel 4. Administratieve voorschriften
 
 1. Voor zover Verordening (EU) 2017/745 en Verordening (EU) 2017/746 de bevoegdheid geven tot de vaststelling van de taal waarin documenten worden opgesteld, vindt die vaststelling plaats bij regeling van Onze Minister.
 
@@ -140,7 +167,7 @@ Deze wet is van toepassing op medische hulpmiddelen waarop Verordening (EU) 2017
 
 ### Hoofdstuk 3. Bijzondere onderwerpen
 
-#### Artikel 5. Herverwerking
+##### Artikel 5. Herverwerking
 
 1. Herverwerking en verder gebruik van hulpmiddelen voor eenmalig gebruik als bedoeld in artikel 17, eerste lid, van Verordening (EU) 2017/745, zijn toegestaan.
 
@@ -150,17 +177,17 @@ Deze wet is van toepassing op medische hulpmiddelen waarop Verordening (EU) 2017
 
 4. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld ter uitvoering van artikel 17, negende lid, van Verordening (EU) 2017/745.
 
-#### Artikel 5a. Melding incidenten
+##### Artikel 5a. Melding incidenten
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2024/291.
 
-#### Artikel 5b. Beschikbaar houden van documenten
+##### Artikel 5b. Beschikbaar houden van documenten
 
 1. De fabrikant, dan wel zijn gemachtigde, draagt er zorg voor dat de documentatie, bedoeld in bijlage IX, hoofdstuk III, punt 7, van Verordening (EU) 2017/745 en bijlage IX, hoofdstuk III, punt 6, van Verordening (EU) 2017/746 gedurende in die bijlagen genoemde termijn ter beschikking blijft van Onze Minister, ook indien hij voor het verstrijken van die termijn failliet wordt verklaard of zijn bedrijfsactiviteiten staakt.
 
 2. De opdrachtgever, dan wel zijn contactpersoon, dan wel zijn wettelijk vertegenwoordiger, draagt er zorg voor dat de documentatie, bedoeld in bijlage XV van Verordening (EU) 2017/745 en bijlage XIV bij Verordening (EU) 2017/746 gedurende in die bijlagen genoemde termijn ter beschikking blijft van Onze Minister, ook indien hij voor het verstrijken van die termijn failliet wordt verklaard of zijn bedrijfsactiviteiten staakt.
 
-#### Artikel 6. Gunstbetoon
+##### Artikel 6. Gunstbetoon
 
 1. Voor de toepassing van dit artikel wordt verstaan onder:
 
@@ -192,13 +219,13 @@ Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 20
 
 - d. het betreft kortingen en bonussen die betrekking hebben op de inkoop van medische hulpmiddelen of van medische hulpmiddelen voor in-vitrodiagnostiek.
 
-#### Artikel 7. Tarieven
+##### Artikel 7. Tarieven
 
 1. Onze Minister kan de kosten die samenhangen met het verrichten van werkzaamheden als bedoeld in [Verordening (EU) 2017/745](32645R2017), [Verordening (EU) 2017/746](32646R2017) en [Verordening (EU) 2019/1020](32920R2019) ten laste brengen van degene ten behoeve van wie deze werkzaamheden worden verricht.
 
 2. De bedragen ter vergoeding van de kosten worden bij ministeriële regeling vastgesteld.
 
-#### Artikel 8. Aanwijzing bevoegde autoriteiten
+##### Artikel 8. Aanwijzing bevoegde autoriteiten
 
 1. Onze Minister wordt aangewezen als de voor de aangemelde instanties verantwoordelijke autoriteit, bedoeld in artikel 35, eerste lid, van Verordening (EU) 2017/745, en artikel 31, eerste lid, van Verordening (EU) 2017/746.
 
@@ -212,21 +239,21 @@ Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 20
 
 4. Onze Minister wijst de bevoegde autoriteit aan, bedoeld in artikel 59, eerste lid, van Verordening (EU) 2017/745, en artikel 54, eerste lid, van Verordening (EU) 2017/746.
 
-#### Artikel 9. Overige bevoegde autoriteiten
+##### Artikel 9. Overige bevoegde autoriteiten
 
 Onverminderd het elders bij of krachtens deze wet en in de [Wet medisch-wetenschappelijk onderzoek met mensen](https://wetten.overheid.nl/jci1.3:c:BWBR0009408) bepaalde, wijst Onze Minister de bevoegde autoriteiten aan, bedoeld in artikel 101 van Verordening (EU) 2017/745, en in artikel 96, van Verordening (EU) 2017/746. De aangewezen autoriteiten nemen die verordeningen in acht.
 
-#### Artikel 9a. Hulpmiddel naar maat
+##### Artikel 9a. Hulpmiddel naar maat
 
 Degenen die deskundig zijn om een voorschrift met specifieke ontwerpkenmerken af te geven voor een hulpmiddel naar maat als bedoeld in artikel 2, onderdeel 3, van Verordening (EU) 2017/745, zijn daartoe bevoegd.
 
 ### Hoofdstuk 4. Toezicht en handhaving
 
-#### Artikel 10. Toezicht op de naleving
+##### Artikel 10. Toezicht op de naleving
 
 Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet en van het bepaalde bij of krachtens [Verordening (EU) 2017/745](32645R2017), [Verordening (EU) 2017/746](32646R2017) en [Verordening (EU) 2019/1020](32920R2019) zijn belast de inspecteurs van de Inspectie gezondheidszorg en jeugd.
 
-#### Artikel 11. Strafbepaling
+##### Artikel 11. Strafbepaling
 
 1. Hij die handelt in strijd met artikel 7 van Verordening (EU) 2017/745 of met artikel 7 van Verordening (EU) 2017/746 wordt gestraft met een gevangenisstraf van ten hoogste twee jaren of een geldboete van de zesde categorie.
 
@@ -234,7 +261,7 @@ Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet en va
 
 3. Het in het eerste lid strafbaar gestelde feit is een misdrijf. Het in het tweede lid strafbaar gestelde feit is een overtreding.
 
-#### Artikel 12. Last onder dwangsom
+##### Artikel 12. Last onder dwangsom
 
 Onze Minister is bevoegd tot oplegging van een last onder dwangsom ter handhaving van:
 
@@ -244,11 +271,11 @@ Onze Minister is bevoegd tot oplegging van een last onder dwangsom ter handhavin
 
 - c. het bepaalde bij of krachtens de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=2&artikel=3&z=2026-02-19&g=2026-02-19), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=2&artikel=4&z=2026-02-19&g=2026-02-19), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=3&artikel=5&z=2026-02-19&g=2026-02-19), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=3&artikel=6&z=2026-02-19&g=2026-02-19), [9a](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=3&artikel=9a&z=2026-02-19&g=2026-02-19), [9c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=3&artikel=9c&z=2026-02-19&g=2026-02-19), en [10d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=4&artikel=10d&z=2026-02-19&g=2026-02-19), en van de maatregelen, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=4&artikel=15&z=2026-02-19&g=2026-02-19) van deze wet.
 
-#### Artikel 13. Last onder bestuursdwang
+##### Artikel 13. Last onder bestuursdwang
 
 Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij artikel 7 van [Verordening (EU) 2019/1020](32920R2019) gestelde verplichting.
 
-#### Artikel 14. Bestuurlijke boete
+##### Artikel 14. Bestuurlijke boete
 
 1. Onze Minister is bevoegd tot oplegging van een bestuurlijke boete van ten hoogste het bedrag dat is vastgesteld voor de zesde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23) of, indien dat meer is, ten hoogste 10% van de omzet van de onderneming, in het boekjaar voorafgaande aan de beschikking waarin de bestuurlijke boete wordt opgelegd, ter zake van een gedraging die in strijd is met:
 
@@ -268,7 +295,7 @@ Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter hand
 
 - d. artikel 7 van [Verordening (EU) 2019/1020](32920R2019).
 
-#### Artikel 15. Bijzondere maatregelen ter bescherming van de volksgezondheid
+##### Artikel 15. Bijzondere maatregelen ter bescherming van de volksgezondheid
 
 1. Onze Minister is bevoegd tot het nemen van:
 
@@ -290,31 +317,31 @@ Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter hand
 
 ### Hoofdstuk 5. Wijzigings- en samenloopbepalingen
 
-#### Artikel 16. Wijziging van de [Wet medisch-wetenschappelijk onderzoek met mensen](https://wetten.overheid.nl/jci1.3:c:BWBR0009408)
+##### Artikel 16. Wijziging van de [Wet medisch-wetenschappelijk onderzoek met mensen](https://wetten.overheid.nl/jci1.3:c:BWBR0009408)
 
 Wijzigt de Wet medisch-wetenschappelijk onderzoek met mensen.
 
-#### Artikel 17. Wijziging van de [Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746)
+##### Artikel 17. Wijziging van de [Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746)
 
 Wijzigt de Algemene douanewet.
 
-#### Artikel 18. Wijziging van de [Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505)
+##### Artikel 18. Wijziging van de [Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505)
 
 Wijzigt de Geneesmiddelenwet.
 
-#### Artikel 19. Wijziging van de [Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173)
+##### Artikel 19. Wijziging van de [Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173)
 
 Wijzigt de Wet kwaliteit, klachten en geschillen zorg.
 
-#### Artikel 20. Wijziging van de [Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063)
+##### Artikel 20. Wijziging van de [Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063)
 
 Wijzigt de Wet op de economische delicten.
 
-#### Artikel 21. Wijziging van de [Wet veiligheid en kwaliteit lichaamsmateriaal](https://wetten.overheid.nl/jci1.3:c:BWBR0014682)
+##### Artikel 21. Wijziging van de [Wet veiligheid en kwaliteit lichaamsmateriaal](https://wetten.overheid.nl/jci1.3:c:BWBR0014682)
 
 Wijzigt de Wet veiligheid en kwaliteit lichaamsmateriaal.
 
-#### Artikel 22. Samenloopbepaling
+##### Artikel 22. Samenloopbepaling
 
 1. Wijzigt deze wet.
 
@@ -324,7 +351,7 @@ Wijzigt de Wet veiligheid en kwaliteit lichaamsmateriaal.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 10a. Betreden woning zonder toestemming van de bewoner
+##### Artikel 10a. Betreden woning zonder toestemming van de bewoner
 
 1. De toezichthouders, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=4&artikel=10&z=2026-02-19&g=2026-02-19), zijn in afwijking van [artikel 5:15, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15) bevoegd met medeneming van de benodigde apparatuur een woning te betreden zonder toestemming van de bewoner ten behoeve van de uitoefening van de bevoegdheden, bedoeld in artikel 14, vierde lid, onderdelen a, d en e, van [Verordening (EU) 2019/1020](32920R2019).
 
@@ -334,7 +361,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 4. De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=2) en [3 van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=3) zijn niet van toepassing.
 
-#### Artikel 10b. Fictieve identiteit en hoedanigheid
+##### Artikel 10b. Fictieve identiteit en hoedanigheid
 
 1. De toezichthouders, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=4&artikel=10&z=2026-02-19&g=2026-02-19), zijn bevoegd om, ter uitvoering van [Verordening (EU) 2019/1020](32920R2019), onder verstrekking van onjuiste of onvolledige gegevens met betrekking tot hun identiteit en hoedanigheid, medische hulpmiddelen of medische hulpmiddelen voor in-vitrodiagnostiek te verkrijgen en de hieraan gerelateerde handelingen te verrichten voor zover dat voor de invulling van hun taak noodzakelijk is. [Artikel 5:12, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12) is niet van toepassing.
 
@@ -354,11 +381,11 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - g. hetgeen tijdens het onderzoek van het medisch hulpmiddel of medisch hulpmiddel voor in-vitrodiagnostiek is verricht, gebleken en overigens is voorgevallen.
 
-#### Artikel 10c. Wederzijdse bijstand
+##### Artikel 10c. Wederzijdse bijstand
 
 [Titel 5.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.2) is van overeenkomstige toepassing voor zover een toezichthouder bijstand verleent aan een markttoezichtautoriteit als bedoeld in artikel 3, onderdeel 4, van [Verordening (EU) 2019/1020](32920R2019) uit een lidstaat van de Europese Unie op grond van de artikelen 22 of 23 van [Verordening (EU) 2019/1020](32920R2019).
 
-#### Artikel 10d. Zelfstandige last
+##### Artikel 10d. Zelfstandige last
 
 1. Ter uitvoering van [Verordening (EU) 2019/1020](32920R2019) kan Onze Minister, indien er geen andere doeltreffende middelen voorhanden zijn om een ernstig risico als bedoeld in artikel 3, onderdeel 20, van [Verordening (EU) 2019/1020](32920R2019), gevormd door een medisch hulpmiddel of medisch hulpmiddel voor in-vitrodiagnostiek, weg te nemen, een zelfstandige last opleggen aan:
 
@@ -382,7 +409,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 9b. Actieve openbaarmaking
+##### Artikel 9b. Actieve openbaarmaking
 
 De op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=3&artikel=9&z=2026-02-19&g=2026-02-19) aangewezen bevoegde autoriteit maakt na ontvangst van een melding als bedoeld in artikel 10 bis, eerste lid, van [Verordening (EU) 2017/745](32017R0745) of artikel 10 bis, eerste lid, van [Verordening (EU) 2017/746](32017R0746), of van een uit een andere lidstaat afkomstige melding, als bedoeld in het derde lid van die artikelen, de volgende informatie openbaar:
 
@@ -392,7 +419,7 @@ De op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoof
 
 - c. de verwachte duur en begindatum van de onderbreking of de begindatum van de stopzetting.
 
-#### Artikel 9c. Ontheffing
+##### Artikel 9c. Ontheffing
 
 1. Een ontheffing als bedoeld in artikel 59, eerste lid, van [Verordening (EU) 2017/745](32017R0745) of artikel 54, eerste lid, van [Verordening (EU) 2017/746](32017R0746), kan onder beperkingen worden verleend. Voorts kunnen er voorschriften aan worden verbonden. De gestelde beperkingen of voorschriften kunnen worden gewijzigd.
 

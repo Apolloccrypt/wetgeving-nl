@@ -1,24 +1,46 @@
 ---
-title: "Stelselwet"
+title: "Wet van 12 juli 1821, houdende de grondslagen van het stelsel van 's Rijks belastingen, met den jare 1822"
 identifier: "BWBR0001826"
-categorie: "Overig"
-publicatiedatum: 1821-08-01
-laatste_update: 1821-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0001826"
+country: "nl"
+rank: "wet"
+publication_date: "1821-08-01"
+last_updated: "1821-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0001826"
+soort: "wet"
+stam_id: "1757553"
+version_id: "2607202"
+internal_id: "C2607201"
+label_id: "1712034"
+dtd_version: "2.0"
+original_entry_into_force: "1821-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0001826/1821-08-01/0"
+intitule_bron: "Stb.1821-9"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1821-07-12"
+intitule_status: "goed"
+original_publication: "Stb.1821-9"
+original_signed_date: "1821-07-12"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1821-08-01"
+jci_1_3: "jci1.3:c:BWBR0001826&z=1821-08-01&g=1821-08-01"
+jci_1_0: "1.0:c:BWBR0001826&g=1821-08-01"
+citeertitel_status: "officieel"
+short_title: "Stelselwet"
+signed_date: "1821-07-12"
+entry_into_force: "1821-08-01"
 ---
-
-# Stelselwet
+# Wet van 12 juli 1821, houdende de grondslagen van het stelsel van 's Rijks belastingen, met den jare 1822
 
 Alzoo Wij in overweging genomen hebben den uitslag der deliberatien van de kommissie, door Ons, bij besluit van den 23sten Januari des jaars 1820, n°. 17, tot herziening van het bestaande stelsel der In- en Uitgaande Regten en Accijnsen benoemd, en daardoor de noodzakelijkheid hebben ingezien, om in dat stelsel belangrijke wijzigingen daar te stellen, en hetzelve tevens, in zoo verre het voor de schatkist onvoldoende is, door zoodanige middelen aan te vullen, als daartoe het meest dienstig kunnen geacht worden;
 
-#### Artikel 1
+##### Artikel 1
 
 1. Met den jare 1822, zal het stelsel van ’s Rijks belastingen, zoo en in dier voege zijn ingerigt, als bij de navolgende artikelen is omschreven.
 
 2. Voor zoo verre door het niet genoegzaam tijdig arresteren der te vervaardigen speciale wetten, aan de voorschrevene tijdsbepaling niet mogt kunnen worden voldaan, zal de termijn, tot de gelijktijdige invoering derzelven, nader door Ons worden vastgesteld; voorbehoudens de bepaling hierna bij [art. 7](https://wetten.overheid.nl/jci1.3:c:BWBR0001826&artikel=7&z=1821-08-01&g=1821-08-01), § A gemaakt, in het geval dat de nieuwe wet op de patenten, niet gelijktijdig met de overige belastingen mogt kunnen worden ingevoerd.
 
-#### Artikel 2
+##### Artikel 2
 
 Het voorschreven stelsel, zal bestaan uit de navolgende belastingen:
 
@@ -88,17 +110,17 @@ Het voorschreven stelsel, zal bestaan uit de navolgende belastingen:
 
 - q. De regten op den in-, uit- en doorvoer van alle goederen, waren en koopmanschappen, mitsgaders het buitenlandsche tonnengeld.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De publieke en partikuliere entrepôts zullen, voor zoo veel zij bij de accijnsen noodig zijn, worden aangehouden, edoch zonder eenige kosten van toezigt, en alleenlijk onder eene billijke bepaling der huur, voor de eerstgenoemde.
 
 2. Ten opzigte van de sluit- en onsluitgelden, zullen zoodanige billijke bepalingen worden gemaakt, als geschikt zijn om aan de bezwaren der belanghebbenden te gemoet te komen.
 
-#### Artikel 4
+##### Artikel 4
 
 Bij de invoering der speciale wetten, zullen worden gehouden voor vervallen de tegenwoordig bestaande accijnsen op den turf, de steenkolen, de koffij, de buitenlandsche zeep, de potasch, de parelasch, de wedasch, de souda, de waag, de rondemaat, de buitenlandsche bieren en azijnen en en het buitenlandsch geraffineerde zout en suiker; bij het tarief der in- en uitgaande regten zal op deze afschaffing het noodig regard worden geslagen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Met opzigt tot de accijnsen en in het bijzonder omtrent het gemaal, het geslagt en het binnenlandsch gedisteleerd, zullen de speciale wetten, zoodanige wijzigingen bepalen of faciliteiten toestaan, als in verband met de hoegrootheid en den aard der belasting zullen noodig geacht worden, wanneer de locale of andere omstandigheden zulks vereischen. Bovendien zullen Wij, na geraadpleegd te hebben de Provinciale Staten, en na gehoord te hebben den Raad van State, de accijns op het gemaal ten platten lande, bij wijze van uitkoop of admodiatie door de plaatselijke besturen doen heffen, in geheele distrikten, arrondissementen of provincien, waar zulks ten algemeene nutte of ten gerijve der ingezetenen strekken kan, of wel door de Provinciale Staten zal verlangd worden; en zulks tot eene bepaalde principale som per hoofd berekend, welke in verband met de doorgaande consumtie van tarwe of rogge, en overeenkomstig de quotiteit der belasting zal moeten worden geregeld, zoodanig dat dezelve nimmer het **maximum** van f 1.40 in principaal, zijnde de impost van een mudde tarwe per hoofd, zal mogen te boven gaan.
 
@@ -106,11 +128,11 @@ Bij de invoering der speciale wetten, zullen worden gehouden voor vervallen de t
 
 3. In die steden welke geacht kunnen worden met het platte land gelijk te staan, zal de admodiatie voor het gemaal en de eigen aangifte der waarde van het geslagt, mede door Ons kunnen worden toegestaan.
 
-#### Artikel 6
+##### Artikel 6
 
 Van de belasting op het binnenlandsch geraffineerde zout, het gemaal, het geslagt, den wijn, het binnen- en buitenlandsch gedisteleerd, het bier, de azijn en de suiker zal afschrijving of restitutie gegeven worden der belasting, voor zoo verre deze objecten voor negotie naar buiten’slands worden uitgevoerd, op den voet en de wijze, en onder zoodanige bepalingen en voorzieningen, als bij de speciale wetten nader zullen worden omschreven.
 
-#### Artikel 7
+##### Artikel 7
 
 Ter bestrijding der gewone uitgaven, begrepen in de eerste afdeeling der begrooting bij de wet van 27 April 1820 (staatsblad n°. 7) vastgesteld, zullen worden gebezigd de navolgende belastingen en inkomsten.
 
@@ -126,7 +148,7 @@ Ter bestrijding der gewone uitgaven, begrepen in de eerste afdeeling der begroot
 
 - F. Eene somme niet te bovengaande die van een millioen vier maal honderd en vijftig duizend guldens, welke uit den opbrengst der in- en uitgaande regten, ter bestrijding van gewone uitgaven, zal worden afgezonderd.
 
-#### Artikel 8
+##### Artikel 8
 
 Ter bestrijding der buitengewone uitgaven, begrepen in de tweede afdeeling der begrooting, zoo als dezelve voor elk jaar, aanvang nemende met het jaar 1822, zullen worden bepaald, zullen gebezigd worden de navolgende belastingen en inkomsten.
 
@@ -142,11 +164,11 @@ Ter bestrijding der buitengewone uitgaven, begrepen in de tweede afdeeling der b
 
 - F. Zoo veel opcenten, in gelijken getalle te heffen, op al de directe belastingen en accijnsen voor de eerste afdeeling vastgesteld, als de wet zal bepalen noodig te zijn om de jaarlijksche uitgaven van de tweede afdeeling te bestrijden; ten ware er bijzondere redenen zijn mogten, om nopens eene of andere dier belastingen eene uitzondering te maken. In het geval bij [art. 7](https://wetten.overheid.nl/jci1.3:c:BWBR0001826&artikel=7&z=1821-08-01&g=1821-08-01), § A omschreven, zal het overige een zesde gedeelte der patentregten, en van het binnenlandsche tonnengeld, in de plaats van opcenten dier regten worden gebezigd.
 
-#### Artikel 9
+##### Artikel 9
 
 Omtrent de opcenten in § F van het vorig artikel omschreven, en welke jaarlijks voor de tweede afdeeling, naar mate der behoeften, zullen worden vastgesteld, wordt bepaald, dat wanneer dezelve een vijfde van het principaal der belasting en dus het getal van twintig zouden te bovengaan, andere middelen zullen kunnen in overweging komen om in de behoeften te voorzien, en dat, wanneer de omstandigheden mogten medebrengen, dat een vierde van het principaal der belasting niet toereikende was tot bestrijding der uitgaven, in de genoemde tweede afdeeling begrepen, andere middelen te dien einde zullen moeten worden voorgedragen.
 
-#### Artikel 10
+##### Artikel 10
 
 Bij de daarstelling der wetten op den ophef der in- en uitgaande regten en accijnsen, zal worden uitgegaan van de navolgende beginselen:
 
@@ -174,7 +196,7 @@ Bij de daarstelling der wetten op den ophef der in- en uitgaande regten en accij
 
 - m. De formaliteiten zullen zoo eenvoudig zijn, en de onkosten, voor zoo verre dezelve niet geheel kunnen worden afgeschaft, zoo gering gesteld worden, als het belang der schatkist, in verband met dat der belastingschuldigen, zal toelaten.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Met opzigt tot de hoegrootheid der regten, zal van het beginsel worden uitgegaan, dat, aan de eene zijde, de hoogte derzelve voor den bloei der commercie geene nadeelige gevolgen hebbe, of het gevaar zoude doen loopen, dat het aanwenden van middelen, om dezelve te ontwijken, daardoor zoude worden aangemoedigd, en aan de andere zijde, de binnenlandsche industrie eene behoorlijke bescherming tegen buitenlandsche mededinging geniete; zullende dienvolgens het **maximum** der regten, zoo op het inkomen als op het uitgaan, met betrekking tot voorwerpen, welke met de voortbrengselen der inlandsche nijverheid in een onmiddellijk verband staan, op zes per cent, en ten aanzien van alle andere, welke niet in die termen vallen, op drie per cent kunnen gebragt worden, behoudens in het eene, zoo wel als in het andere dezer gevallen, die uitzonderingen, omtrent welke men eventueel een verbod van invoer of uitvoer of een hooger regt mogt onvermijdelijk achten. Ook zal, in het bepalen der regten, op den invoer van grondstoffen ten behoeve der inlandsche nijverheid, en op den uitvoer van voortbrengselen dezer nijverheid, op de belangen van dezelve, een billijk regard worden geslagen, en in het algemeen worden geobserveerd, dat de goederen op 3 of op 6 per cent, en hooger bij den invoer aangeslagen, bij den uitvoer aan geringe regten zullen worden onderworpen en omgekeerd.
 
@@ -186,21 +208,21 @@ Bij de daarstelling der wetten op den ophef der in- en uitgaande regten en accij
 
 5. Ook zullen, ten aanzien van den in- of uitvoer, voor goederen met nederlandsche schepen, zoodanige restitutien van inkomende of uitgaande regten kunnen worden vastgesteld, als dienstig zullen geacht worden, om aan den inlandschen scheepsbouw, eene behoorlijke aanmoediging en ondersteuning te verleenen.
 
-#### Artikel 12
+##### Artikel 12
 
 Van den opbrengst der regten op de in-, uit- en doorvoer, tollen en buitenlandsche tonnengelden, zal jaarlijks eene som, niet te boven gaande die van een millioen en driemaal honderd duizend guldens, worden gepreleveerd, welke uitsluitend zal zijn bestemd, niet alleen om door het toeleggen van premien, in het bijzonder ondersteuning te bezorgen aan die takken van nationale nijverheid, aan welke dezelve niet genoegzaam kan worden verleend, zonder de regten te brengen tot eene zoodanige hoogte welke van nadeeligen invloed op de commercie zouden kunnen zijn, of tot bevordering der sluikerijen aanleiding geven, maar ook, om in het algemeen te kunnen strekken ter aanmoediging van fabrijken, trafijken, reederijen, visscherijen en landbouw.
 
-#### Artikel 13
+##### Artikel 13
 
 Alle bestaande bepalingen omtrent de inkomsten van het Syndikaat, blijven in volle kracht, en zullen mitsdien op de nieuwe of gewijzigde belastingen worden toepasselijk gemaakt.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Ter bestrijding der uitgaven van provinciaal belang, of der kosten van zoodanige andere onderwerpen, als met het algemeen belang in verband staande, tot bezuiniging en vereenvoudiging in de administratie aan het bestuur der provinciale Staten gedemandeerd zijn of mogten worden, zullen **zes** opcenten geheven worden op de hoofdsom der belastingen op de gebouwde en ongebouwde eigendommen en op het personeel. Voorschrevene opcenten zullen in iedere provincie uitsluitend bestemd zijn tot uitgaven tot die provincie betrekkelijk, zonder dat immer een algemeen fonds van deze opcenten kunne worden gemaakt. De aanvrage tot gebruik derzelve opcenten door de provinciale Staten te doen, zal moeten geschieden met opgave der objecten, tot welker bestrijding de aangevraagde sommen zullen moeten dienen, en onder zoodanige verantwoording als door Ons zal worden voorgeschreven.
 
 2. De genoemde opcenten zullen, in allen gevalle, gelijktijdig met de hoofdsommen, door ’s Rijks ambtenaren gepercipieerd worden.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Ter bestrijding der uitgaven van de gemeenten zullen worden geheven, op de hoofdsommen der belastingen op de ongebouwde en gebouwde eigendommen en op het personeel, **vijf** opcenten, tot zoo lang andere bepalingen omtrent de plaatselijke belastingen door Ons zullen zijn goedgekeurd.
 
@@ -208,7 +230,7 @@ Alle bestaande bepalingen omtrent de inkomsten van het Syndikaat, blijven in vol
 
 3. De opcenten zullen gelijktijdig met de hoofdsommen door ’s Rijks ambtenaren worden geïnd.
 
-#### Artikel 16
+##### Artikel 16
 
 Voor zoo ver door Ons aan eenige gemeenten opcenten mogten worden toegestaan op die accijnsen, ten behoeve van het Rijk wordende geheven, welke daarvoor vatbaar worden gerekend, zullen dezelve door ’s Rijks ambtenaren gelijktijdig met de accijnsen worden geïnd, en, tot schadevergoeding der daaruit voortvloeijende onkosten, zullen door die gemeenten 3 per cent van het beloop dier opcenten aan ’s Rijks schatkist worden uitgekeerd.
 

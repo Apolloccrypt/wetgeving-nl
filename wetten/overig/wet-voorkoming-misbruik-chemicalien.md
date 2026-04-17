@@ -1,14 +1,41 @@
 ---
-title: "Wet voorkoming misbruik chemicaliën"
+title: "Wet van 16 maart 1995, houdende regelen met betrekking tot de vervaardiging, het in de handel brengen en de in-, uit- en doorvoer van bepaalde chemicaliën ter voorkoming van misbruik"
 identifier: "BWBR0007286"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007286"
+country: "nl"
+rank: "wet"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007286"
+soort: "wet"
+stam_id: "444653"
+version_id: "28149282"
+internal_id: "C39864041"
+label_id: "432704"
+dtd_version: "2.0"
+original_entry_into_force: "2022-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007286/2026-01-01/0"
+intitule_bron: "Stb.1995-258"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-03-16"
+intitule_published: "1995-05-16"
+intitule_in_force: "1995-05-16"
+intitule_status: "goed"
+original_publication: "Stb.2021-544"
+original_signed_date: "2021-11-04"
+original_published_date: "2021-11-11"
+original_effect: "structuurwijziging"
+original_dossier: "35564"
+original_url_id: "stb-2021-544"
+entry_into_force_date: "2022-01-01"
+jci_1_3: "jci1.3:c:BWBR0007286&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0007286&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet voorkoming misbruik chemicaliën"
+signed_date: "2021-11-04"
+entry_into_force: "2022-01-01"
 ---
-
-# Wet voorkoming misbruik chemicaliën
+# Wet van 16 maart 1995, houdende regelen met betrekking tot de vervaardiging, het in de handel brengen en de in-, uit- en doorvoer van bepaalde chemicaliën ter voorkoming van misbruik
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### § 1. Algemene bepaling
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -32,7 +59,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - e. **Gedelegeerde Verordening:** Gedelegeerde Verordening (EU) 2015/1011 van de Commissie van 24 april 2015 tot aanvulling van Verordening (EG) nr. 273/2004 van het Europees Parlement en de Raad inzake drugsprecursoren en Verordening (EG) nr. 111/2005 van de Raad houdende voorschriften voor het toezicht op de handel tussen de Unie en derde landen in drugsprecursoren, en tot intrekking van Verordening (EG) nr. 1277/2005 van de Commissie (PbEU 2015, L 162).
 
-#### Artikel 2
+##### Artikel 2
 
 Het is verboden te handelen in strijd met voorschriften gesteld bij of krachtens:
 
@@ -44,7 +71,7 @@ Het is verboden te handelen in strijd met voorschriften gesteld bij of krachtens
 
 #### § 2. Handelsverkeer binnen de Gemeenschap
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het besluit op een aanvraag van een vergunning of een registratie, een speciale vergunning of een speciale registratie, als bedoeld in Verordening nr. 273/2004 en Verordening nr. 111/2005, dan wel het besluit tot schorsing of intrekking van een vergunning of registratie, een speciale vergunning of een speciale registratie, wordt genomen door Onze Minister.
 
@@ -52,7 +79,7 @@ Het is verboden te handelen in strijd met voorschriften gesteld bij of krachtens
 
 3. Bij regeling van Onze Minister kan worden bepaald dat voor de behandeling van een aanvraag om een vergunning of een registratie als bedoeld in het eerste lid een kostendekkende vergoeding is verschuldigd. De hoogte van deze vergoeding kan per categorie van vergunningen, registraties of precursoren verschillend worden vastgesteld.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien er een redelijk vermoeden bestaat dat geregistreerde stoffen als bedoeld in Verordening nr. 273/2004 en Verordening nr. 111/2005 bestemd zijn voor de illegale vervaardiging van verdovende middelen of psychotrope stoffen, verbiedt Onze Minister het binnen of buiten het douanegebied van de Unie brengen van deze stoffen.
 
@@ -60,7 +87,7 @@ Het is verboden te handelen in strijd met voorschriften gesteld bij of krachtens
 
 3. Onze Minister kan een verbod als bedoeld in het eerste lid opheffen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De bij besluit van Onze Minister aangewezen ambtenaren zijn belast met:
 
@@ -70,89 +97,89 @@ Het is verboden te handelen in strijd met voorschriften gesteld bij of krachtens
 
 2. Indien de aanwijzing, bedoeld in het eerste lid, ambtenaren betreft, ressorterende onder een ander ministerie dan dat van Onze Minister, wordt het desbetreffende besluit genomen in overeenstemming met Onze Minister die het mede aangaat.
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
 #### § 3. Handelsverkeer met landen buiten de Gemeenschap
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
 #### § 4. Toezicht
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
-#### Artikel 17
+##### Artikel 17
 
 Vervallen
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
-#### Artikel 19
+##### Artikel 19
 
 Vervallen
 
-#### Artikel 20
+##### Artikel 20
 
 Vervallen
 
 #### § 5. Slotbepalingen
 
-#### Artikel 21
+##### Artikel 21
 
 Vervallen
 
-#### Artikel 22
+##### Artikel 22
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 23
+##### Artikel 23
 
 Vervallen
 
-#### Artikel 24
+##### Artikel 24
 
 Deze wet treedt in werking met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst.
 
-#### Artikel 25
+##### Artikel 25
 
 Deze wet wordt aangehaald als: Wet voorkoming misbruik chemicaliën.
 
@@ -160,13 +187,13 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 2a
+##### Artikel 2a
 
 [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007286&artikel=2&z=2026-01-01&g=2026-01-01) kan bij algemene maatregel van bestuur worden gewijzigd in verband met aanpassingen van verwijzingen naar bindende EU-rechtshandelingen of onderdelen daarvan, voor zover de aanpassingen niet inhoudelijk van aard zijn.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 4a
+##### Artikel 4a
 
 1. Het is verboden een stof die op grond van het tweede lid is aangewezen, in te voeren, uit te voeren, te vervoeren of voorhanden te hebben.
 

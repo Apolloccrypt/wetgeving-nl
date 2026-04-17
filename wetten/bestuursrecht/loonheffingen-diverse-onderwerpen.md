@@ -1,13 +1,38 @@
 ---
 title: "Loonheffingen, diverse onderwerpen"
 identifier: "BWBR0038367"
-categorie: "Bestuursrecht"
-publicatiedatum: 2016-07-27
-laatste_update: 2016-07-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038367"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2016-07-27"
+last_updated: "2016-07-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038367"
+soort: "beleidsregel"
+stam_id: "13717913"
+version_id: "23505462"
+internal_id: "C33847131"
+label_id: "13684414"
+dtd_version: "2.0"
+original_entry_into_force: "2016-07-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038367/2016-07-27/0"
+intitule_bron: "Stcrt.2016-39198"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-07-15"
+intitule_published: "2016-07-26"
+intitule_in_force: "2016-07-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-39198"
+original_signed_date: "2016-07-15"
+original_published_date: "2016-07-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-39198"
+entry_into_force_date: "2016-07-27"
+jci_1_3: "jci1.3:c:BWBR0038367&z=2016-07-27&g=2016-07-27"
+jci_1_0: "1.0:c:BWBR0038367&g=2016-07-27"
+citeertitel_status: "redactioneel"
+signed_date: "2016-07-15"
+entry_into_force: "2016-07-27"
 ---
-
 # Loonheffingen, diverse onderwerpen
 
 De Staatssecretaris van Financiën heeft het volgende besloten.

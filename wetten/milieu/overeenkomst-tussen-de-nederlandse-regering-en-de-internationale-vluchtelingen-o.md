@@ -1,20 +1,44 @@
 ---
 title: "Overeenkomst tussen de Nederlandse Regering en de Internationale Vluchtelingen Organisatie"
 identifier: "BWBV0005744"
-categorie: "Milieu"
-publicatiedatum: 1950-06-20
-laatste_update: 1950-06-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005744"
+country: "nl"
+rank: "verdrag"
+publication_date: "1950-06-20"
+last_updated: "1950-06-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005744"
+soort: "verdrag"
+stam_id: "10004854973"
+version_id: "10005159772"
+internal_id: "C10007834601"
+label_id: "10004838664"
+dtd_version: "2.0"
+original_entry_into_force: "1950-06-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005744/1950-06-20/0"
+intitule_bron: "Stb.1950-K 397"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1950-09-08"
+intitule_published: "1950-10-20"
+intitule_in_force: "1950-10-20"
+intitule_status: "goed"
+original_publication: "Stb.1950-K 397"
+original_signed_date: "1950-09-08"
+original_published_date: "1950-10-20"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1950-06-20"
+jci_1_3: "jci1.3:c:BWBV0005744&z=1950-06-20&g=1950-06-20"
+jci_1_0: "1.0:c:BWBV0005744&g=1950-06-20"
+citeertitel_status: "redactioneel"
+signed_date: "1950-09-08"
+entry_into_force: "1950-06-20"
 ---
-
 # Overeenkomst tussen de Nederlandse Regering en de Internationale Vluchtelingen Organisatie
 
-#### Artikel 1
+##### Artikel 1
 
 De Nederlandse Regering en de Internationale Vluchtelingen Organisatie, wensende regelingen te treffen voor haar ondersteuning van bejaarde vluchtelingen onder mandaat van de Internationale Vluchtelingen Organisatie en aan hun gezinsleden, komen het volgende overeen inzake de voortdurende zorg en financiële onderstand van de dertig bejaarde vluchtelingen en hun tien gezinsleden, die begunstigden zijn krachtens de aangehechte lijfrente-verzekeringspolissen, uitgegeven door de Levensverzekeringmaatschappij van de Nederlandse Verzekering Maatschappij.
 
-#### Artikel 2
+##### Artikel 2
 
 De Nederlandse Regering:
 
@@ -28,7 +52,7 @@ De Nederlandse Regering:
 
 - (e). gaat accoord met het beginsel van rechtstreekse betaling van de lijfrenten aan de betrokken vluchtelingen.
 
-#### Artikel 3
+##### Artikel 3
 
 De Internationale Vluchtelingen Organisatie:
 

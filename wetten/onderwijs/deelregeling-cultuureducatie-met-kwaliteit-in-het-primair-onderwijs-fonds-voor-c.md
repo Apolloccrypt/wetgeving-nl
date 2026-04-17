@@ -1,13 +1,35 @@
 ---
 title: "Deelregeling Cultuureducatie met Kwaliteit in het primair onderwijs Fonds voor Cultuurparticipatie 2017–2020"
 identifier: "BWBR0037908"
-categorie: "Onderwijs"
-publicatiedatum: 2016-05-07
-laatste_update: 2016-05-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037908"
+country: "nl"
+rank: "zbo"
+publication_date: "2016-05-07"
+last_updated: "2016-05-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037908"
+soort: "zbo"
+stam_id: "13493953"
+version_id: "23513662"
+internal_id: "C33857271"
+label_id: "13461134"
+dtd_version: "2.0"
+original_entry_into_force: "2016-05-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037908/2016-05-07/0"
+intitule_bron: "Stcrt.2016-22890"
+intitule_effect: "wijziging"
+intitule_published: "2016-05-06"
+intitule_in_force: "2016-05-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-22890"
+original_published_date: "2016-05-06"
+original_effect: "wijziging"
+original_url_id: "stcrt-2016-22890"
+entry_into_force_date: "2016-05-07"
+jci_1_3: "jci1.3:c:BWBR0037908&z=2016-05-07&g=2016-05-07"
+jci_1_0: "1.0:c:BWBR0037908&g=2016-05-07"
+citeertitel_status: "officieel"
+entry_into_force: "2016-05-07"
 ---
-
 # Deelregeling Cultuureducatie met Kwaliteit in het primair onderwijs Fonds voor Cultuurparticipatie 2017–2020
 
 Gelet op [artikel 10, vierde lid, van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
@@ -16,7 +38,7 @@ Besluit:
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 1.1. Definities
+##### Artikel 1.1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -42,15 +64,15 @@ In deze regeling wordt verstaan onder:
 
 - **penvoerder:** een culturele instelling die voor zichzelf, en in samenwerking met een aantal andere culturele instellingen, een plan indient. De penvoerder is in die hoedanigheid degene met wie het Fonds voor Cultuurparticipatie de subsidierelatie aangaat en is daardoor volledig verantwoordelijk voor de naleving van de subsidieverplichtingen en voor de financiële en inhoudelijke subsidieverantwoording.
 
-#### Artikel 1.2. Doel van de regeling
+##### Artikel 1.2. Doel van de regeling
 
 Het bestuur kan voor de periode 2017–2020 meerjarige stimuleringssubsidies verstrekken voor activiteiten die scholen in het primair onderwijs in staat stellen samen met de culturele omgeving kwalitatief goede cultuureducatie duurzaam te verankeren. Hierbij ligt de nadruk op het verdiepen van cultuureducatie op reeds deelnemende scholen en het vergroten van het aantal deelnemende scholen.
 
-#### Artikel 1.3. Subsidieperiode
+##### Artikel 1.3. Subsidieperiode
 
 Subsidie wordt verstrekt voor een periode van vier jaar.
 
-#### Artikel 1.4. Subsidieplafond en beschikbare bedragen
+##### Artikel 1.4. Subsidieplafond en beschikbare bedragen
 
 1. Het subsidieplafond voor het totaal van de aanvragen is € 10.218.147,– per kalenderjaar.
 
@@ -66,7 +88,7 @@ Subsidie wordt verstrekt voor een periode van vier jaar.
 
 4. Als gevolg van een beslissing van de minister van OCW kan het subsidieplafond worden verhoogd of verlaagd.
 
-#### Artikel 1.5. Matching met provincie en gemeente
+##### Artikel 1.5. Matching met provincie en gemeente
 
 1. De aan het fonds gevraagde subsidie bedraagt ten minste € 45.000 per jaar, welk bedrag wordt gematcht door de provincie of gemeente.
 
@@ -78,7 +100,7 @@ Subsidie wordt verstrekt voor een periode van vier jaar.
 
 #### Paragraaf 2. Weigeringsgronden en voorwaarden
 
-#### Artikel 2.1. Weigeringsgronden
+##### Artikel 2.1. Weigeringsgronden
 
 1. Subsidie wordt in ieder geval geweigerd als voor de activiteiten waarvoor op grond van deze regeling subsidie wordt aangevraagd, aan de penvoerder of een betrokken culturele instelling uit dezelfde gemeente of provincie vierjaarlijkse instellingssubsidie is verleend op grond van de [Regeling op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597), zoals die luidt na inwerkingtreding van de [Subsidieregeling culturele basisinfrastructuur 2017–2020](https://wetten.overheid.nl/jci1.3:c:BWBR0037539). Wel kunnen activiteiten van een instelling die voornoemde subsidie ontvangt in het plan worden opgevoerd voor zover deze activiteiten aanvullend zijn op de activiteiten die zijn opgenomen in de aanvraag onder voornoemde regeling.
 
@@ -96,7 +118,7 @@ Subsidie wordt verstrekt voor een periode van vier jaar.
 
 - f. als de aanvraag geen uitsluitsel geeft over de mate waarin scholen inhoudelijk en financieel betrokken zijn, doordat een lijst van deelnemende scholen ontbreekt of doordat de financiële inzet van de scholen niet wordt toegelicht.
 
-#### Artikel 2.2. Voorwaarde
+##### Artikel 2.2. Voorwaarde
 
 1. De penvoerder dient te kunnen aantonen dat hij in 2013, 2014 en 2015 subsidie heeft ontvangen van de lokale overheid, tenzij dit reeds bekend is bij het fonds.
 
@@ -108,21 +130,21 @@ Subsidie wordt verstrekt voor een periode van vier jaar.
 
 3. De penvoerder zendt de jaarrekeningen over 2013, 2014 en 2015 mee bij de aanvraag, tenzij deze al in het bezit zijn van het fonds.
 
-#### Artikel 2.3. Aanvullende voorwaarde
+##### Artikel 2.3. Aanvullende voorwaarde
 
 De penvoerder en de betrokken instellingen zijn verplicht samen te werken met één of meerdere: pabo’s en kunstvakopleidingen en culturele instellingen.
 
-#### Artikel 2.4. Beperking
+##### Artikel 2.4. Beperking
 
 Een instelling die op basis van deze regeling subsidie ontvangt kan voor de activiteiten waarop die subsidie betrekking heeft, in de periode waarop die subsidie betrekking heeft, geen aanspraak maken op subsidie voor deze activiteiten op basis van andere deelregelingen van het fonds.
 
 #### Paragraaf 3. De aanvraag
 
-#### Artikel 3.1. De aanvrager
+##### Artikel 3.1. De aanvrager
 
 Een aanvraag kan worden ingediend door een instelling met rechtspersoonlijkheid zonder winstoogmerk en met een culturele doelstelling.
 
-#### Artikel 3.2. Waarvoor kan worden aangevraagd
+##### Artikel 3.2. Waarvoor kan worden aangevraagd
 
 Een aanvraag voor meerjarige subsidie kan worden ingediend voor het organiseren van de volgende activiteiten:
 
@@ -132,7 +154,7 @@ Een aanvraag voor meerjarige subsidie kan worden ingediend voor het organiseren 
 
 - c. versterken van de relatie van de school met de culturele en sociale omgeving, met het doel de kunstzinnige en culturele ontwikkeling van leerlingen te bevorderen.
 
-#### Artikel 3.3. Beoordelingscriteria
+##### Artikel 3.3. Beoordelingscriteria
 
 1. Aanvragen worden beoordeeld aan de hand van de volgende criteria:
 
@@ -146,35 +168,35 @@ Een aanvraag voor meerjarige subsidie kan worden ingediend voor het organiseren 
 
 2. Om voor subsidie in aanmerking te komen moet een aanvraag op alle in het vorige lid genoemde criteria positief zijn beoordeeld.
 
-#### Artikel 3.4. Indieningstermijn
+##### Artikel 3.4. Indieningstermijn
 
 Aanvragen kunnen vanaf 15 augustus 2016 worden ingediend en dienen voor 17 oktober 2016 13.00 uur door het fonds te zijn ontvangen.
 
-#### Artikel 3.5. Het aanvraagformulier
+##### Artikel 3.5. Het aanvraagformulier
 
 1. Een aanvraag wordt digitaal ingediend via de website van het fonds met behulp van een door het bestuur opgesteld formulier.
 
 2. Een aanvraag wordt alleen in behandeling genomen als het volledig ingevulde formulier tijdig is ontvangen en vergezeld gaat van de vereiste bijlagen.
 
-#### Artikel 3.6. Adhesieverklaring
+##### Artikel 3.6. Adhesieverklaring
 
 De aanvraag gaat vergezeld van een door de verantwoordelijk wethouder of gedeputeerde ondertekende adhesieverklaring van de desbetreffende gemeente of provincie.
 
-#### Artikel 3.7. Beoordeling
+##### Artikel 3.7. Beoordeling
 
 Aanvragen die voldoen aan de formele vereisten om voor subsidie in aanmerking te komen worden ter advisering voorgelegd aan het bureau van het fonds.
 
-#### Artikel 3.8. Toekenning
+##### Artikel 3.8. Toekenning
 
 1. Het fonds kent de subsidie toe aan de penvoerder.
 
 2. De penvoerder geeft de ontvangen subsidie, overeenkomstig de in de aanvraag aangegeven verdeelwijze, door aan de overige bij de aanvraag betrokken culturele instellingen.
 
-#### Artikel 3.9. Beslistermijn
+##### Artikel 3.9. Beslistermijn
 
 Het bestuur informeert de aanvrager uiterlijk 1 februari 2017 schriftelijk over zijn besluit op de aanvraag.
 
-#### Artikel 3.10. Vaststelling subsidie
+##### Artikel 3.10. Vaststelling subsidie
 
 1. Het bestuur stelt de subsidie vast na ontvangst van de verantwoording over de gehele subsidieperiode.
 
@@ -182,7 +204,7 @@ Het bestuur informeert de aanvrager uiterlijk 1 februari 2017 schriftelijk over 
 
 #### Paragraaf 4. Verplichtingen en verantwoording
 
-#### Artikel 4.1. Melding van wijzigingen
+##### Artikel 4.1. Melding van wijzigingen
 
 De penvoerder doet onverwijld melding aan het bestuur als:
 
@@ -192,7 +214,7 @@ De penvoerder doet onverwijld melding aan het bestuur als:
 
 - c. er aanzienlijke artistieke of zakelijke wijzigingen zijn ten opzichte van het plan op basis waarvan subsidie is verstrekt.
 
-#### Artikel 4.2. Kennisdeling, monitoring en evaluatie
+##### Artikel 4.2. Kennisdeling, monitoring en evaluatie
 
 De penvoerder is verplicht tot kennisdeling, monitoring en evaluatie van de activiteiten waarvoor subsidie is verstrekt, en
 
@@ -202,7 +224,7 @@ De penvoerder is verplicht tot kennisdeling, monitoring en evaluatie van de acti
 
 - c. zet in het projectplan uiteen op welke wijze hij uitvoering geeft aan het individuele monitoring- en evaluatietraject en is verplicht deel te nemen aan het landelijke traject voor monitoring en evaluatie.
 
-#### Artikel 4.3. Verantwoording
+##### Artikel 4.3. Verantwoording
 
 1. De penvoerder stuurt jaarlijks voor 1 juni een financiële verantwoording in van de uitgevoerde activiteiten in het vorige kalenderjaar.
 
@@ -212,11 +234,11 @@ De penvoerder is verplicht tot kennisdeling, monitoring en evaluatie van de acti
 
 4. De penvoerder draagt er zorg voor dat de accountant meewerkt aan onderzoeken naar de door hem verrichte (controle)werkzaamheden door een door het bestuur aan te wijzen partij. De daaraan verbonden kosten van de penvoerder komen voor zijn rekening.
 
-#### Artikel 4.4. Archivering
+##### Artikel 4.4. Archivering
 
 Databestanden met onderzoeksgegevens, cq. het goedgekeurde eindrapport, die zich lenen voor meervoudig gebruik dienen, geschoond van vertrouwelijke gegevens, de gerubriceerde gegevens en de gegevens waarvan op grond van de wet- en regelgeving het openbaar maken achterwege moet blijven, binnen drie maanden na publicatie van het eindrapport, cq. afronding van het onderzoek, aan het Data Archiving and Networked Services (DANS) van de Koninklijke Akademie van Wetenschappen (KNAW) te worden aangeboden.
 
-#### Artikel 4.5. Gebruik van open standaarden
+##### Artikel 4.5. Gebruik van open standaarden
 
 1. De penvoerder is verplicht de ICT voorzieningen die worden ontwikkeld in het kader van de gesubsidieerde activiteiten te bouwen volgens de open standaarden.
 
@@ -224,19 +246,19 @@ Databestanden met onderzoeksgegevens, cq. het goedgekeurde eindrapport, die zich
 
 #### Paragraaf 5. Overige bepalingen
 
-#### Artikel 5.1. Fusie
+##### Artikel 5.1. Fusie
 
 1. Als er sprake is of zal zijn van een juridische fusie tussen twee of meer instellingen wordt beoordeeld of de aanvraag voldoet aan het bepaalde in deze regeling, uitgaande van het totaal van de individuele prestaties.
 
 2. Aan de subsidieverlening kunnen verplichtingen worden verbonden met betrekking tot de termijn waarbinnen het in de aanvraag opgenomen voornemen tot fusie gerealiseerd moet zijn.
 
-#### Artikel 5.2. Inwerkingtreding en vervaldatum
+##### Artikel 5.2. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 1 januari 2021. Op bezwaar- en beroepsprocedures die op dat moment nog niet zijn afgerond, blijft het bepaalde in deze regeling van overeenkomstige toepassing.
 
-#### Artikel 5.3. Citeertitel
+##### Artikel 5.3. Citeertitel
 
 Deze regeling wordt aangehaald als: Deelregeling Cultuureducatie met Kwaliteit in het primair onderwijs Fonds voor Cultuurparticipatie 2017–2020.
 

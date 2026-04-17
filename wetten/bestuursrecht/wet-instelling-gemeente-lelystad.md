@@ -1,14 +1,38 @@
 ---
-title: "Wet instelling gemeente Lelystad"
+title: "Wet van 5 juli 1979, tot instelling van een gemeente Lelystad en nadere vaststelling van de grens van de gemeente Dronten"
 identifier: "BWBR0003250"
-categorie: "Bestuursrecht"
-publicatiedatum: 1996-01-01
-laatste_update: 1996-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003250"
+country: "nl"
+rank: "wet"
+publication_date: "1996-01-01"
+last_updated: "1996-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003250"
+soort: "wet"
+stam_id: "507683"
+version_id: "747112"
+internal_id: "C747111"
+label_id: "493954"
+dtd_version: "2.0"
+original_entry_into_force: "1979-07-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003250/1996-01-01/0"
+intitule_bron: "Stb.1979-378"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1979-07-05"
+intitule_status: "goed"
+original_publication: "Stb.1979-378"
+original_signed_date: "1979-07-05"
+original_effect: "nieuwe-regeling"
+original_dossier: "15455"
+entry_into_force_date: "1979-07-21"
+entry_into_force_dossier: "15455"
+jci_1_3: "jci1.3:c:BWBR0003250&z=1996-01-01&g=1996-01-01"
+jci_1_0: "1.0:c:BWBR0003250&g=1996-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet instelling gemeente Lelystad"
+signed_date: "1979-07-05"
+entry_into_force: "1979-07-21"
 ---
-
-# Wet instelling gemeente Lelystad
+# Wet van 5 juli 1979, tot instelling van een gemeente Lelystad en nadere vaststelling van de grens van de gemeente Dronten
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,11 +42,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk I. Instelling van een gemeente en grensbepaling
 
-#### Artikel 1
+##### Artikel 1
 
 Ingesteld wordt een gemeente, genaamd Lelystad.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het gebied van de gemeente Lelystad wordt als volgt bepaald:
 
@@ -32,19 +56,19 @@ beginnende in de zuidoostelijke hoek van het perceel, kadastraal bekend gemeente
 
 beginnende in de meest noordelijke hoek van het perceel, kadastraal bekend gemeente Oostelijk Flevoland, sectie I, nummer 198, volgt de grens welke enerzijds wordt begrensd door de percelen, kadastraal bekend gemeente Oostelijk Flevoland, sectie I, nummers 198, 176, 177, 179, 182, 185, 343, 118, 282, 304, 130, 132, 338, 250, 341, sectie L, nummers 372, 172, 173, 174, 79, 293, 308, 517 en 519 en anderzijds door de percelen, kadastraal bekend gemeente Oostelijk Flevoland, sectie I, nummers 196, 236, 237, 234, 235, 174, 173, 172, 162, 184, 342, 339, 340, sectie L, nummers 208, 283, 292, 291, 294, 300, 528, 301, 302, 516 en 518 tot de zuidwestelijke hoek van het perceel, kadastraal bekend gemeente Oostelijk Flevoland, sectie L, nummer 519. Vandaar volgt de grens, eerst in algemeen noordoostelijke en daarna in algemeen noord-noordwestelijke richting de bestaande grens tussen enerzijds het openbaar lichaam "Zuidelijke IJsselmeerpolders" en anderzijds de gemeenten Harderwijk, Nunspeet en Dronten, tot het punt van uitgang.
 
-#### Artikel 3
+##### Artikel 3
 
 De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003250&hoofdstuk=I&artikel=2&z=1996-01-01&g=1996-01-01) omschreven gebieden houden op deel uit te maken van het gebied van het openbaar lichaam "Zuidelijke IJsselmeerpolders".
 
 ### Hoofdstuk II. Hoger gezag
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
 ### Hoofdstuk III. Rechtskracht voorschriften en uitoefening bevoegdheden
 
-#### Artikel 5
+##### Artikel 5
 
 1. De op de dag vóór die van inwerkingtreding van deze wet voor het in het[eerste onderscheidenlijk tweede lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003250&hoofdstuk=I&artikel=2&z=1996-01-01&g=1996-01-01) omschreven gebied geldende voorschriften van de Landdrost van het openbaar lichaam "Zuidelijke IJsselmeerpolders" worden geacht te zijn vastgesteld door het bevoegde gezag der gemeente Lelystad onderscheidenlijk der gemeente Dronten; zij behouden hun rechtskracht voor zover dit gezag niet anders bepaalt.
 
@@ -52,11 +76,11 @@ Vervallen
 
 3. De bevoegdheden die bij de in het eerste lid bedoelde voorschriften zijn toegekend aan ambtenaren van het openbaar lichaam "Zuidelijke IJsselmeerpolders", worden uitgeoefend door de overeenkomstige ambtenaren van de gemeente Lelystad onderscheidenlijk Dronten.
 
-#### Artikel 6
+##### Artikel 6
 
 De op de dag vóór die van inwerkingtreding van deze wet voor het in [het eerste onderscheidenlijk tweede lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003250&hoofdstuk=I&artikel=2&z=1996-01-01&g=1996-01-01) omschreven gebied ingevolge artikel 11 van de Wet openbaar lichaam "Zuidelijke IJsselmeerpolders" geldende plannen tot regeling der bebouwing en der bestemming van gronden worden aangemerkt als ingevolge de [Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375) vastgestelde en goedgekeurde bestemmingsplannen. Zij behouden hun rechtskracht zolang het bevoegde gezag niet anders bepaalt.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Onverminderd het bepaalde in [artikel 302 van de gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=302) wordt de bevoegdheid tot het heffen en invorderen van bestaande plaatselijke belastingen in het in het[eerste onderscheidenlijk tweede lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003250&hoofdstuk=I&artikel=2&z=1996-01-01&g=1996-01-01) omschreven gebied over een belastingjaar dat vóór de dag van inwerkingtreding van deze wet is aangevangen, uitgeoefend door de organen en ambtenaren van de gemeente Lelystad onderscheidenlijk Dronten.
 
@@ -64,7 +88,7 @@ De op de dag vóór die van inwerkingtreding van deze wet voor het in [het eerst
 
 ### Hoofdstuk IV. Overgang rechten en verplichtingen
 
-#### Artikel 8
+##### Artikel 8
 
 1. Onverminderd het bepaalde in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0003250&hoofdstuk=IV&artikel=9&z=1996-01-01&g=1996-01-01) gaan op de dag van inwerkingtreding van deze wet alle rechten en verplichtingen van het openbaar lichaam "Zuidelijke IJsselmeerpolders", uitsluitend betrekking hebbende op het in het[eerste onderscheidenlijk tweede lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003250&hoofdstuk=I&artikel=2&z=1996-01-01&g=1996-01-01) omschreven gebied, over op de gemeente Lelystad onderscheidenlijk Dronten, zonder dat daarvoor een nadere akte wordt gevorderd.
 
@@ -74,25 +98,25 @@ De op de dag vóór die van inwerkingtreding van deze wet voor het in [het eerst
 
 4. Ten aanzien van de in het eerste en tweede lid begrepen onroerende zaken zal verandering van de tenaamstelling in de kadastrale leggers plaatshebben. Onze Minister van Binnenlandse Zaken doet de daartoe nodige opgave aan de desbetreffende hypotheekbewaarder.
 
-#### Artikel 9
+##### Artikel 9
 
 De uitkeringen die van overheidswege over de vóór de dag van inwerkingtreding van deze wet aangevangen boekingstijdvakken, dienstjaren of uitkeringsjaren met betrekking tot het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003250&hoofdstuk=I&artikel=2&z=1996-01-01&g=1996-01-01) omschreven gebied verschuldigd zijn, worden gedaan aan onderscheidenlijk door het openbaar lichaam "Zuidelijke IJsselmeerpolders".
 
-#### Artikel 10
+##### Artikel 10
 
 Indien in verband met het bepaalde in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003250&hoofdstuk=III&artikel=7&z=1996-01-01&g=1996-01-01), [artikel 8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003250&hoofdstuk=IV&artikel=8&z=1996-01-01&g=1996-01-01), en [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0003250&hoofdstuk=IV&artikel=9&z=1996-01-01&g=1996-01-01) een verrekening dient plaats te vinden, bepaalt Onze Minister van Binnenlandse Zaken, de betrokken besturen gehoord, het bedrag en, voor zoveel nodig, de wijze van betaling daarvan.
 
-#### Artikel 11
+##### Artikel 11
 
 Tegen een besluit van Onze Minister van Binnenlandse Zaken als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003250&hoofdstuk=IV&artikel=8&z=1996-01-01&g=1996-01-01), of [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003250&hoofdstuk=IV&artikel=10&z=1996-01-01&g=1996-01-01) staat voor elk daarbij betrokken bestuur binnen een maand, te rekenen van de dag van verzending van het besluit, beroep op Ons open.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De begroting van de inkomsten en uitgaven der gemeente Lelystad voor het op het tijdstip van inwerkingtreding van deze wet aanvangende dienstjaar wordt vastgesteld binnen drie maanden na dat tijdstip.
 
 2. Voor het tijdvak waarin voor de gemeente Lelystad nog geen begroting is vastgesteld, zijn burgemeester en wethouders dier gemeente bevoegd tot het doen van de door hen nodig geachte uitgaven, voor zover Onze Minister van Binnenlandse Zaken heeft verklaard dat daartegen geen bezwaar bestaat.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Wij wijzen op de voordracht van Onze Ministers van Binnenlandse Zaken, van Verkeer en Waterstaat en van Financiën, de raad der gemeente Lelystad onderscheidenlijk Dronten gehoord, de rijkseigendommen aan die in eigendom, beheer en onderhoud op deze gemeenten overgaan, en bepalen de voorwaarden en tijdstippen van overgang.
 
@@ -100,7 +124,7 @@ Tegen een besluit van Onze Minister van Binnenlandse Zaken als bedoeld in [artik
 
 ### Hoofdstuk V. Voorzieningen in verband met verkiezingen
 
-#### Artikel 14
+##### Artikel 14
 
 1. De kandidaatstelling en de eventuele stemming voor de eerste verkiezing van de leden van de raad der gemeente Lelystad geschieden op door Onze Minister van Binnenlandse Zaken vast te stellen dagen, met dien verstande dat de stemming plaatsvindt uiterlijk vier maanden na de dag waarop dit hoofdstuk in werking treedt.
 
@@ -110,23 +134,23 @@ Tegen een besluit van Onze Minister van Binnenlandse Zaken als bedoeld in [artik
 
 4. Als kiezersregister voor de eerste verkiezing van de raad wordt aangemerkt het gedeelte van het kiezersregister van het openbaar lichaam "Zuidelijke IJsselmeerpolders", betrekking hebbende op degenen die op de dag der kandidaatstelling werkelijke woonplaats hebben in het in het[eerste lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003250&hoofdstuk=I&artikel=2&z=1996-01-01&g=1996-01-01) omschreven gebied.
 
-#### Artikel 15
+##### Artikel 15
 
 Voor de toepassing van [artikel 21 der gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=21) ten aanzien van het lidmaatschap van de krachtens [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0003250&hoofdstuk=V&artikel=14&z=1996-01-01&g=1996-01-01) te kiezen raad worden onder ingezetenen verstaan zij die hun werkelijke woonplaats hebben in het in het[eerste lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003250&hoofdstuk=I&artikel=2&z=1996-01-01&g=1996-01-01) omschreven gebied.
 
-#### Artikel 16
+##### Artikel 16
 
 Het indelen in stemdistricten en het benoemen van de leden en de plaatsvervangende leden van het hoofdstembureau en van de stembureaus voor de in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0003250&hoofdstuk=V&artikel=14&z=1996-01-01&g=1996-01-01) bedoelde verkiezing geschieden vóór een door Onze Minister van Binnenlandse Zaken te bepalen dag door de Landdrost van het openbaar lichaam "Zuidelijke IJsselmeerpolders".
 
-#### Artikel 17
+##### Artikel 17
 
 Voor zover met betrekking tot de in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0003250&hoofdstuk=V&artikel=14&z=1996-01-01&g=1996-01-01) bedoelde verkiezing ingevolge enig wettelijk voorschrift medewerking moet worden verleend door de raad, burgemeester en wethouders of de burgemeester onderscheidenlijk door gedeputeerde staten of Onze Commissaris in de provincie, geschiedt dit door de Landdrost van het openbaar lichaam "Zuidelijke IJsselmeerpolders" onderscheidenlijk door Gedeputeerde Staten van Gelderland of Onze Commissaris in die provincie.
 
-#### Artikel 18
+##### Artikel 18
 
 Het onderzoek van de geloofsbrieven van de overeenkomstig [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0003250&hoofdstuk=V&artikel=14&z=1996-01-01&g=1996-01-01) gekozen leden geschiedt vóór een door Onze Minister van Binnenlandse Zaken te bepalen dag door de adviesraad tot bijstand van de Landdrost van het openbaar lichaam "Zuidelijke IJsselmeerpolders" voor het gebied "Lelystad".
 
-#### Artikel 19
+##### Artikel 19
 
 1. De eerste vergadering van de overeenkomstig [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0003250&hoofdstuk=V&artikel=14&z=1996-01-01&g=1996-01-01) gekozen raad vindt plaats op de eerste werkdag, volgende op de datum van instelling der gemeente. In deze vergadering worden de wethouders benoemd.
 
@@ -134,31 +158,31 @@ Het onderzoek van de geloofsbrieven van de overeenkomstig [artikel 14](https://w
 
 ### Hoofdstuk VI. Rechtspositie van de ambtenaren en het overig personeel
 
-#### Artikel 20
+##### Artikel 20
 
 Op de datum van inwerkingtreding dezer wet gaat het personeel, verbonden aan de in het in het[eerste lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003250&hoofdstuk=I&artikel=2&z=1996-01-01&g=1996-01-01) omschreven gebied gevestigde openbare scholen, over in dienst van de gemeente Lelystad op dezelfde voet als waarop en ook overigens in dezelfde rechtstoestand als waarin het op de dag, voorafgaande aan die datum, werkzaam was.
 
-#### Artikel 21
+##### Artikel 21
 
 1. De Landdrost van het openbaar lichaam "Zuidelijke IJsselmeerpolders" bepaalt tijdig, de betrokkenen gehoord en in overeenstemming met het dagelijks adviescollege dan wel, voor zover het gewoonlijk door de raad te benoemen functionarissen betreft, de adviesraad voor het gebied "Lelystad", welke overige in dienst van het openbaar lichaam werkzame ambtenaren - daaronder begrepen de op arbeidsovereenkomst naar burgerlijk recht werkzame personen - naar de gemeente Lelystad zullen overgaan. Van de dag van inwerkingtreding dezer wet af worden deze ambtenaren geacht in dezelfde rang, met dezelfde bezoldiging en ook overigens op dezelfde voet in dienst te zijn van de gemeente Lelystad.
 
 2. In de gevallen waarin tussen de Landdrost en het dagelijks adviescollege onderscheidenlijk de adviesraad geen overeenstemming wordt bereikt, beslist Onze Minister van Binnenlandse Zaken.
 
-#### Artikel 22
+##### Artikel 22
 
 De ambtenaren die door de toepassing van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0003250&hoofdstuk=VI&artikel=21&z=1996-01-01&g=1996-01-01) in dienst van de gemeente Lelystad overgaan, aanvaarden hun werkzaamheden op de dag van inwerkingtreding dezer wet. De eden of beloften, in verband met hun ambt afgelegd, worden geacht mede op die dienstvervulling betrekking te hebben.
 
-#### Artikel 23
+##### Artikel 23
 
 Indien het bevoegde gezag besluit tot wijziging of vervanging van de voorschriften betreffende de rechtstoestand van het gemeentepersoneel, worden voor de bezoldiging of de wedde van de in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0003250&hoofdstuk=VI&artikel=21&z=1996-01-01&g=1996-01-01) bedoelde ambtenaren ten minste de diensttijd en de bezoldigings- of wedderegeling in aanmerking genomen welke bij of ten aanzien van het openbaar lichaam "Zuidelijke IJsselmeerpolders" op de dag, voorafgaande aan de datum van inwerkingtreding dezer wet, voor de berekening van hun bezoldiging of wedde zou hebben gegolden.
 
-#### Artikel 24
+##### Artikel 24
 
 Uit de in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0003250&hoofdstuk=VI&artikel=21&z=1996-01-01&g=1996-01-01) bedoelde ambtenaren benoemt de Landdrost van het openbaar lichaam "Zuidelijke IJsselmeerpolders" met ingang van de datum van inwerkingtreding dezer wet een tijdelijke secretaris en een tijdelijke functionaris, belast met de taak van een ontvanger, van de gemeente Lelystad. Deze benoemingen worden geacht door de raad van de gemeente Lelystad te zijn gedaan en gelden tot de dag waarop de raad overeenkomstig de [gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416) een definitieve voorziening heeft getroffen.
 
 ### Hoofdstuk VII. Bijzondere voorzieningen met betrekking tot de politiezorg
 
-#### Artikel 25
+##### Artikel 25
 
 1. Tot het tijdstip waarop het openbaar lichaam "Zuidelijke IJsselmeerpolders" ingevolge artikel 2, vierde lid, der Politiewet een eigen korps gemeentepolitie heeft, wordt de politietaak in het gebied van het openbaar lichaam uitgeoefend door de gemeentepolitie van Lelystad.
 
@@ -168,11 +192,11 @@ Uit de in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0003250&hoofdstuk
 
 ### Hoofdstuk VIII. Voorzieningen in verband met de toepassing van enkele wetten
 
-#### Artikel 26
+##### Artikel 26
 
 Zij die op de dag, voorafgaande aan de datum van inwerkingtreding dezer wet, ingeschreven zijn als leerling van een openbare lagere onderscheidenlijk kleuterschool, gevestigd in het gebied van het openbaar lichaam "Zuidelijke IJsselmeerpolders" of dat van de gemeente Dronten, worden van genoemde datum af tot die school toegelaten op dezelfde voorwaarden als voordien golden.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Indien de datum van inwerkingtreding dezer wet op of na 1 maart valt, geldt voor de scholen, gevestigd in de nieuwe gemeente Lelystad, als het bedrag, bedoeld in artikel 55**bis**, eerste lid, der Lager-onderwijswet 1920, voor het jaar van inwerkingtreding het bedrag dat de Landdrost van het openbaar lichaam "Zuidelijke IJsselmeerpolders" ingevolge genoemd artikellid voor dat jaar heeft vastgesteld of krachtens het tweede lid geacht wordt te hebben vastgesteld. Indien de datum van inwerkingtreding vóór 1 maart ligt, geldt voor het jaar van inwerkingtreding het door de nieuwe gemeente Lelystad vastgestelde bedrag.
 
@@ -184,57 +208,57 @@ Zij die op de dag, voorafgaande aan de datum van inwerkingtreding dezer wet, ing
 
 5. Indien de datum van inwerkingtreding dezer wet vóór 1 maart valt, stelt de nieuwe gemeente Lelystad voor het jaar van inwerkingtreding het aantal wekelijkse lesuren, bedoeld in artikel 101**bis**, eerste lid, der Lager-Onderwijswet 1920 vast. Treedt de onderhavige wet op of na genoemde datum in werking, dan blijven de reeds vastgestelde getallen van kracht en vindt de vaststelling van de aan de besturen van de bijzondere scholen uit te keren vergoeding voor beloning van vakonderwijzers plaats op dezelfde grondslagen als voordien golden.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Op de datum van inwerkingtreding dezer wet gaan alle archiefbescheiden van het openbaar lichaam "Zuidelijke IJsselmeerpolders", uitsluitend betrekking hebbend op het in het[eerste onderscheidenlijk tweede lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003250&hoofdstuk=I&artikel=2&z=1996-01-01&g=1996-01-01) omschreven gebied, over naar de gemeente Lelystad onderscheidenlijk Dronten, met dien verstande dat de overbrenging als bedoeld in [artikel 12 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=12) ( **Stb.** 276) ten aanzien van deze bescheiden geschiedt als had deze overgang niet plaatsgevonden. Van de overgang wordt een verklaring opgemaakt volgens de krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=9) van genoemde wet voor vervreemding van archiefbescheiden gestelde regels.
 
 2. De besturen van de gemeenten Lelystad en Dronten hebben van de in het eerste lid genoemde datum af het recht te allen tijde kosteloos inzage te nemen van de archiefbescheiden van het openbaar lichaam "Zuidelijke IJsselmeerpolders" en op kosten hunner gemeente afschriften van of uittreksels uit die archiefbescheiden te vorderen, voor zover deze mede betrekking hebben op het in het[eerste onderscheidenlijk tweede lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003250&hoofdstuk=I&artikel=2&z=1996-01-01&g=1996-01-01) omschreven gebied.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Het bepaalde in het[eerste lid van artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0003250&hoofdstuk=VIII&artikel=28&z=1996-01-01&g=1996-01-01) is van overeenkomstige toepassing ten aanzien van de delen van het tot het bevolkingsregister van het openbaar lichaam "Zuidelijke IJsselmeerpolders" behorende persoons- en woningregister die betrekking hebben op de personen en woningen welke op de datum van inwerkingtreding dezer wet in het in het[eerste onderscheidenlijk tweede lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003250&hoofdstuk=I&artikel=2&z=1996-01-01&g=1996-01-01) omschreven gebied gevestigd dan wel gelegen zijn.
 
 2. De Landdrost van het openbaar lichaam "Zuidelijke IJsselmeerpolders" heeft van de in het eerste lid genoemde datum af het recht te allen tijde kosteloos inzage te nemen van de in dat lid bedoelde delen van het persoons- en woningregister en op kosten van het openbaar lichaam afschriften daarvan of uittreksels daaruit te vorderen.
 
-#### Artikel 30
+##### Artikel 30
 
 Kosten van bijstand als bedoeld in de [artikelen 16](onbekend), [17](onbekend) en [18 van de Algemene Bijstandswet](onbekend) ten behoeve van personen die op of vóór de datum van inwerkingtreding dezer wet woonachtig zijn of geweest zijn in het in het[eerste onderscheidenlijk tweede lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003250&hoofdstuk=I&artikel=2&z=1996-01-01&g=1996-01-01) omschreven gebied, komen met ingang van bedoelde datum ten laste van de gemeente Lelystad onderscheidenlijk Dronten.
 
-#### Artikel 31
+##### Artikel 31
 
 Met betrekking tot zaken, de dienstplicht, met inbegrip van de mobilisatieuitkeringen, alsmede de noodwachtplicht betreffende, vinden de voorschriften, door of namens Onze Minister van Defensie onderscheidenlijk van Binnenlandse Zaken gegeven ter zake van verhuizing, overeenkomstige toepassing ten aanzien van de overgang van personen van het openbaar lichaam "Zuidelijke IJsselmeerpolders" naar de gemeente Lelystad onderscheidenlijk Dronten krachtens deze wet.
 
-#### Artikel 32
+##### Artikel 32
 
 Binnen een door Ons te bepalen termijn moeten de in [artikel 27 der Wegenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&artikel=27) bedoelde leggers zijn vastgesteld onderscheidenlijk gewijzigd.
 
-#### Artikel 33
+##### Artikel 33
 
 Indien vóór de datum van inwerkingtreding dezer wet een notaris en/of een deurwaarder zijn benoemd ter standplaats Lelystad (openbaar lichaam "Zuidelijke IJsselmeerpolders") worden deze geacht te zijn benoemd ter standplaats de gemeente Lelystad.
 
-#### Artikel 34
+##### Artikel 34
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 35
+##### Artikel 35
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 36
+##### Artikel 36
 
 De door de gemeenten Lelystad en Dronten en het openbaar lichaam "Zuidelijke IJsselmeerpolders" ten behoeve van de Keuringsdienst van Waren over het op de datum van inwerkingtreding dezer wet lopende en het daaropvolgende dienstjaar verschuldigde bijdrage wordt, met afwijking van de daaromtrent krachtens [artikel 13, eerste lid, van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=13) gegeven regels, vastgesteld volgens het inwonertal van die gemeenten onderscheidenlijk dat openbaar lichaam op genoemde datum.
 
-#### Artikel 37
+##### Artikel 37
 
 Het door de Landdrost van het openbaar lichaam "Zuidelijke IJsselmeerpolders" genomen besluit tot toetreding, voor zoveel betreft het gebied van Oostelijk Flevoland, tot de gemeenschappelijke regeling voor de bescherming van de bevolking in de B-kring Gelderland a wordt met betrekking tot het in het[eerste onderscheidenlijk tweede lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003250&hoofdstuk=I&artikel=2&z=1996-01-01&g=1996-01-01) omschreven gebied met ingang van de dag van inwerkingtreding van deze wet geacht te zijn genomen door de Burgemeester van Lelystad onderscheidenlijk Dronten.
 
 ### Hoofdstuk IX. Slotbepalingen
 
-#### Artikel 38
+##### Artikel 38
 
 Geschillen omtrent de toepassing van deze wet, waarvan de beslissing niet aan anderen is opgedragen, worden door Ons beslist.
 
-#### Artikel 39
+##### Artikel 39
 
 Deze wet treedt in werking met ingang van een door Ons te bepalen dag, met uitzondering van [Hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0003250&hoofdstuk=V&z=1996-01-01&g=1996-01-01) en de[artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0003250&hoofdstuk=VI&artikel=21&z=1996-01-01&g=1996-01-01) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0003250&hoofdstuk=VI&artikel=24&z=1996-01-01&g=1996-01-01), die in werking treden op de tweede dag na de datum van uitgifte van het **Staatsblad** waarin deze wet wordt geplaatst.
 

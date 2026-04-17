@@ -1,13 +1,38 @@
 ---
 title: "Overeenkomst voor technische samenwerking tussen het Koninkrijk der Nederlanden en de Republiek Guatemala"
 identifier: "BWBV0002673"
-categorie: "Internationaal recht"
-publicatiedatum: 1992-07-02
-laatste_update: 1992-07-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002673"
+country: "nl"
+rank: "verdrag"
+publication_date: "1992-07-02"
+last_updated: "1992-07-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002673"
+soort: "verdrag"
+stam_id: "10002966683"
+version_id: "10002969322"
+internal_id: "C10006976831"
+label_id: "10002953314"
+dtd_version: "2.0"
+original_entry_into_force: "1992-07-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002673/1992-07-02/0"
+intitule_bron: "Trb.1991-145"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1991-09-20"
+intitule_published: "1991-10-30"
+intitule_in_force: "1992-10-02"
+intitule_status: "goed"
+original_publication: "Trb.1991-145"
+original_signed_date: "1991-09-20"
+original_published_date: "1991-10-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1991-145"
+entry_into_force_date: "1992-07-02"
+jci_1_3: "jci1.3:c:BWBV0002673&z=1992-07-02&g=1992-07-02"
+jci_1_0: "1.0:c:BWBV0002673&g=1992-07-02"
+citeertitel_status: "officieel"
+signed_date: "1991-09-20"
+entry_into_force: "1992-07-02"
 ---
-
 # Overeenkomst voor technische samenwerking tussen het Koninkrijk der Nederlanden en de Republiek Guatemala
 
 De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Guatemala,
@@ -18,13 +43,13 @@ vanuit hun wens de technische samenwerking te bevorderen en hiervoor een juridis
 
 zijn het volgende overeengekomen:
 
-#### Artikel I
+##### Artikel I
 
 1. Het doel van deze Overeenkomst is het bevorderen van de technische samenwerking tussen beide landen en het in dat kader scheppen van een juridisch en bestuurlijk kader voor samenwerkingsprojecten waarover beide bevoegde bestuurlijke autoriteiten van beide Partijen overeenstemming bereiken.
 
 2. De beslissing tot samenwerking zoals bedoeld in lid 1 van dit Artikel, de bijdragen aan een project en de wijze waarop elk project zal worden uitgevoerd, zullen per geval apart worden vastgesteld door middel van een administratief akkoord tussen genoemde bevoegde autoriteiten.
 
-#### Artikel II
+##### Artikel II
 
 1. Met betrekking tot de overeengekomen projecten, zal de Regering van de Republiek Guatemala het Nederlandse personeel, mits niet van Guatemalteekse nationaliteit, dat wordt ingezet als medewerker, deskundige of technicus voor de projecten, de volgende behandeling verlenen:
 
@@ -54,33 +79,33 @@ zijn het volgende overeengekomen:
 
 2. De Guatemalteekse Regering zal er voor zorgdragen dat het Nederlandse personeel, alsmede de gezinnen daarvan, worden behandeld op een wijze die niet minder gunstig is dan die waarop door een ander land of een andere internationale organisatie aan de Republiek Guatemala toegewezen personeel voor technische bijstand wordt behandeld.
 
-#### Artikel III
+##### Artikel III
 
 De Regering van Guatemala zal aansprakelijk zijn voor elke claim die door derden wordt ingediend tegen de Nederlandse Regering of het Nederlandse personeel dat in het kader van deze Overeenkomst in Guatemala werkzaam is. Voorwaarde hierbij is dat dit personeel niet de Guatemalteekse nationaliteit heeft en dat de claim voortkomt uit handelingen of activiteiten die door de Nederlandse Regering of het genoemde Nederlandse personeel zijn verricht tijdens de officiële uitvoering van hun taken. Deze bepaling zal niet van toepassing zijn wanneer de Partijen het erover eens zijn dat zo'n claim verband houdt met ernstige nalatigheid of een opzettelijke fout van het personeel.
 
-#### Artikel IV
+##### Artikel IV
 
 De bepalingen van de artikelen II en III van deze Overeenkomst zijn eveneens van toepassing op suppletie-deskundigen die door de Regering van het Koninkrijk der Nederlanden ter beschikking worden gesteld, voorzover zij niet de Guatemalteekse nationaliteit bezitten en ook niet in Guatemala wonen. Deze deskundigen moeten echter wel lokale inkomstenbelasting betalen over de van de Guatemalteekse Regering ontvangen emolumenten en inkomen.
 
-#### Artikel V
+##### Artikel V
 
 1. De Guatemalteekse Regering zal, na overleg met de Nederlandse Regering, het recht hebben te verzoeken om terugroepen van een Nederlands personeelslid wiens werk of gedrag onbevredigend is. De Nederlandse Regering zal, eveneens na overleg met de Guatemalteekse Regering, op ieder moment het recht hebben een Nederlands personeelslid terug te roepen. In geval van terugroepen, zal de Nederlandse Regering, indien de Guatemalteekse Regering daarom zou vragen, alles doen wat in haar macht ligt om te zorgen voor een geschikte vervanging voor het teruggeroepen Nederlands personeelslid.
 
 2. Alle Nederlandse personeelsleden zullen zich bij de uitoefening van hun taken houden aan de bepalingen die door de desbetreffende bevoegde autoriteiten zijn vastgesteld. Zij zullen, wat betreft de dagelijkse werkzaamheden van een project, zowel een operationele als adviserende taak hebben, waarbij ze voortdurend overleg zullen plegen met de Guatemalteekse autoriteiten die verantwoordelijk zijn voor de uitvoering van dat project.
 
-#### Artikel VI
+##### Artikel VI
 
 De bepalingen van deze Overeenkomst zijn eveneens van toepassing op het niet-Guatemalteekse en door Nederland aangestelde personeel, dat al voor de ingangsdatum van de Overeenkomst activiteiten op het gebied van technische assistentie in Guatemala uitvoert.
 
-#### Artikel VII
+##### Artikel VII
 
 De Nederlandse personeelsleden, inclusief de suppletiedeskundigen, zullen zich moeten houden aan de in Guatemala geldende regels en voorschriften, mits dergelijke regels en voorschriften niet in strijd zijn met een bepaling van deze Overeenkomst of enige andere vigerende regeling tussen beide Partijen, en die van toepassing is op de desbetreffende Nederlandse personeelsleden.
 
-#### Artikel VIII
+##### Artikel VIII
 
 De Regering van de Republiek Guatemala zal de Regering van het Koninkrijk der Nederlanden vrijstellen van alle in- en uitvoerrechten en andere officiële heffingen, inclusief de BTW, op apparatuur (ook motorvoertuigen) en alle andere zaken die door de Nederlandse regering worden geleverd in verband met de verschillende projecten.
 
-#### Artikel IX
+##### Artikel IX
 
 1. Deze Overeenkomst zal ingaan op de datum waarop beide Regeringen elkaar schriftelijk ervan in kennis hebben gesteld dat aan de in hun onderscheiden landen constitutioneel vereiste procedures is voldaan.
 

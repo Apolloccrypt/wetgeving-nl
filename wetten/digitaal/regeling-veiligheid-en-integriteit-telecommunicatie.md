@@ -1,20 +1,46 @@
 ---
-title: "Regeling veiligheid en integriteit telecommunicatie"
+title: "Regeling van de Minister van Economische Zaken en Klimaat van 1 oktober 2021, nr. WJZ/ 20056324, houdende nadere regels betreffende de veiligheid en integriteit van openbare elektronische communicatienetwerken en -diensten (Regeling veiligheid en integriteit telecommunicatie)"
 identifier: "BWBR0045665"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2021-10-06
-laatste_update: 2021-10-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045665"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-10-06"
+last_updated: "2021-10-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045665"
+soort: "ministeriele-regeling"
+stam_id: "16092523"
+version_id: "28062662"
+internal_id: "C39575731"
+label_id: "16023594"
+dtd_version: "2.0"
+original_entry_into_force: "2021-10-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045665/2021-10-06/0"
+intitule_bron: "Stcrt.2021-42618"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-10-01"
+intitule_published: "2021-10-05"
+intitule_in_force: "2021-10-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-42618"
+original_signed_date: "2021-10-01"
+original_published_date: "2021-10-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-42618"
+entry_into_force_date: "2021-10-06"
+jci_1_3: "jci1.3:c:BWBR0045665&z=2021-10-06&g=2021-10-06"
+jci_1_0: "1.0:c:BWBR0045665&g=2021-10-06"
+citeertitel_status: "officieel"
+short_title: "Regeling veiligheid en integriteit telecommunicatie"
+signed_date: "2021-10-01"
+entry_into_force: "2021-10-06"
 ---
-
 # Regeling van de Minister van Economische Zaken en Klimaat van 1 oktober 2021, nr. WJZ/ 20056324, houdende nadere regels betreffende de veiligheid en integriteit van openbare elektronische communicatienetwerken en -diensten (Regeling veiligheid en integriteit telecommunicatie)
 
 Gelet op [artikel 11a.1, vierde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11a.1) en [artikel 2, eerste lid, van het Besluit veiligheid en integriteit telecommunicatie](https://wetten.overheid.nl/jci1.3:c:BWBR0042843&artikel=2);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -32,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 - g. **te beschermen kritieke gegevens:** door de Minister aan de netwerkaanbieder als zodanig aangemerkte en bekendgemaakte gegevens ter bescherming van de nationale veiligheid.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De beheersmaatregelen in deze regeling zijn van toepassing op de kritieke onderdelen, aanpalende onderdelen, beveiligingselementen en beheeromgevingen van de netwerkaanbieder.
 
@@ -40,7 +66,7 @@ In deze regeling wordt verstaan onder:
 
 3. In afwijking van het bepaalde in het eerste lid is de beheersmaatregel, genoemd in de eerste kolom, onder categorie B, nummer 5, van de bijlage, van toepassing op het transport van te beschermen kritieke gegevens ongeacht het netwerkonderdeel waarover dat transport plaatsvindt.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De netwerkaanbieder voldoet op uiterlijk 1 oktober 2022 aan de beheersmaatregelen, genoemd in de eerste kolom van de bijlage, door implementatie van de implementatievereisten, genoemd in de tweede kolom van de bijlage.
 
@@ -50,11 +76,11 @@ In deze regeling wordt verstaan onder:
 
 4. De ontheffing wordt onder voorschriften of beperkingen verleend.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling wordt aangehaald als: Regeling veiligheid en integriteit telecommunicatie.
 

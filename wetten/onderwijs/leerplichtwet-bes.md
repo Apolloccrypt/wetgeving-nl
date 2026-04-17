@@ -1,18 +1,44 @@
 ---
 title: "Leerplichtwet BES"
 identifier: "BWBR0030281"
-categorie: "Onderwijs"
-publicatiedatum: 2025-08-01
-laatste_update: 2025-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030281"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2025-08-01"
+last_updated: "2025-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030281"
+soort: "wet-BES"
+stam_id: "11404263"
+version_id: "18718552"
+internal_id: "C26151711"
+label_id: "11378294"
+dtd_version: "2.0"
+original_entry_into_force: "2011-02-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030281/2025-08-01/0"
+intitule_bron: "Stb.2011-33"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-02-03"
+intitule_published: "2011-02-16"
+intitule_in_force: "2011-03-07"
+intitule_status: "goed"
+original_publication: "Stb.2011-33"
+original_signed_date: "2011-02-03"
+original_published_date: "2011-02-16"
+original_effect: "nieuwe-regeling"
+original_dossier: "32419"
+original_url_id: "stb-2011-33"
+entry_into_force_date: "2011-02-17"
+jci_1_3: "jci1.3:c:BWBR0030281&z=2025-08-01&g=2025-08-01"
+jci_1_0: "1.0:c:BWBR0030281&g=2025-08-01"
+citeertitel_status: "officieel"
+signed_date: "2011-02-03"
+entry_into_force: "2011-02-17"
 ---
-
 # Leerplichtwet BES
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 Deze wet verstaat onder:
 
@@ -56,7 +82,7 @@ Deze wet verstaat onder:
 
 - i. **persoonsgebonden nummer BES**: het ID-nummer dat van de jongere is opgenomen in de basisadministratie persoonsgegevens van het openbaar lichaam dan wel het door Onze Minister uitgegeven onderwijsnummer.
 
-#### Artikel 2. Aanwijzing scholen, instellingen en diploma’s
+##### Artikel 2. Aanwijzing scholen, instellingen en diploma’s
 
 1. Bij ministeriële regeling dan wel bij beschikking van Onze Minister kunnen:
 
@@ -70,7 +96,7 @@ Aan de aanwijzing kunnen voorwaarden worden verbonden.
 
 2. Onze Minister kan de aanwijzing intrekken indien het hoofd of het personeel van de school of instelling niet binnen de door hem gestelde redelijke termijn alle medewerking verleent die Onze Minister redelijkerwijs kan vorderen bij de uitoefening van zijn bevoegdheden. Indien het hoofd of het personeel van de school of instelling uit hoofde van ambt, beroep of wettelijk voorschrift verplicht zijn tot geheimhouding, kunnen zij het verlenen van medewerking weigeren, voor zover dit uit hun geheimhoudingsplicht voortvloeit.
 
-#### Artikel 3. Scholen als bedoeld in [artikel 1, onderdeel b, subonderdeel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=1&artikel=1&z=2025-08-01&g=2025-08-01)
+##### Artikel 3. Scholen als bedoeld in [artikel 1, onderdeel b, subonderdeel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=1&artikel=1&z=2025-08-01&g=2025-08-01)
 
 1. Onverminderd [titel I van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&titeldeel=I) en de [artikelen 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1), [1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.2), [1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.4), [3.37](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=3.37), [3.38](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=3.38), [7.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.9), [8.28](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=8.28) en [8.29 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=8.29), moet een school als bedoeld in [artikel 1, onderdeel b, subonderdeel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=1&artikel=1&z=2025-08-01&g=2025-08-01),
 
@@ -84,11 +110,11 @@ Aan de aanwijzing kunnen voorwaarden worden verbonden.
 
 4. Indien het besluit, bedoeld in het derde lid, daartoe aanleiding geeft, stelt het bestuurscollege de ouders van de leerlingen van de onderwijsvoorziening binnen 7 dagen schriftelijk op de hoogte van het feit dat de onderwijsvoorziening niet langer een school is als bedoeld in [artikel 1, onderdeel b, subonderdeel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=1&artikel=1&z=2025-08-01&g=2025-08-01), of verzekert het er zich van dat de onderwijsvoorziening de ouders daarvan op de hoogte heeft gesteld.
 
-#### Artikel 4. Meerderjarige jongeren
+##### Artikel 4. Meerderjarige jongeren
 
 Indien een leerplichtige jongere of een jongere die kwalificatieplichtig is meerderjarig is, rusten de verplichtingen en bevoegdheden die in deze wet zijn toebedeeld aan de in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=2&artikel=6&z=2025-08-01&g=2025-08-01), bedoelde personen op de jongere zelf.
 
-#### Artikel 5. Maatregelen
+##### Artikel 5. Maatregelen
 
 1. Indien de kwaliteit van het niet uit ’s Rijks kas bekostigde onderwijs ernstig of langdurig tekortschiet, kan Onze Minister op verzoek van het hoofd van een school of instelling of uit eigener beweging in overeenstemming met het hoofd maatregelen treffen.
 
@@ -96,7 +122,7 @@ Indien een leerplichtige jongere of een jongere die kwalificatieplichtig is meer
 
 #### § 2. Leerplicht
 
-#### Artikel 6. Verantwoordelijke personen
+##### Artikel 6. Verantwoordelijke personen
 
 1. Degene die het gezag over een jongere uitoefent, en degene die zich met de feitelijke verzorging van een jongere heeft belast, zijn verplicht overeenkomstig de bepalingen van deze wet te zorgen, dat de jongere als leerling van een school staat ingeschreven en deze school na inschrijving geregeld bezoekt. Bij de inschrijving wordt een van overheidswege verstrekt document of een bewijs van uitschrijving van een andere school overgelegd waarop de gegevens van de jongere betreffende zijn geslachtsnaam, voorletters, geboortedatum, geslacht en persoonsgebonden nummer BES zijn vermeld. Indien de in de eerste volzin bedoelde personen bij de inschrijving aannemelijk hebben gemaakt dat zij geen persoonsgebonden nummer BES van de jongere kunnen overleggen, leggen zij het persoonsgebonden nummer BES van de jongere over aan de school zodra zij daarvan kennis hebben gekregen.
 
@@ -104,7 +130,7 @@ Indien een leerplichtige jongere of een jongere die kwalificatieplichtig is meer
 
 3. De jongere die de leeftijd van 12 jaren heeft bereikt, is verplicht overeenkomstig de bepalingen van deze wet de school waaraan hij als leerling staat ingeschreven, geregeld te bezoeken, onverminderd het bepaalde in het eerste lid.
 
-#### Artikel 7. Begin en einde van de verplichting tot inschrijving
+##### Artikel 7. Begin en einde van de verplichting tot inschrijving
 
 1. De verplichting om te zorgen, dat een jongere als leerling van een school staat ingeschreven, begint op de eerste schooldag van de maand volgende op die waarin de jongere de leeftijd van vier jaar bereikt, en eindigt:
 
@@ -114,7 +140,7 @@ Indien een leerplichtige jongere of een jongere die kwalificatieplichtig is meer
 
 2. Een jongere die een basisschool in minder dan acht schooljaren heeft doorlopen, wordt voor de toepassing van het eerste lid onder a geacht reeds acht schooljaren een school te hebben bezocht.
 
-#### Artikel 8. Vervangende leerplicht
+##### Artikel 8. Vervangende leerplicht
 
 1. Indien het een jongere betreft die ten minste de leeftijd van 14 jaar heeft bereikt en waarvan naar het oordeel van het bestuurscollege is komen vast te staan, dat hij niet geschikt is volledig onderwijs aan een school te volgen, kan het bestuurscollege van het openbaar lichaam waar de jongere als ingezetene is ingeschreven, op aanvraag van de in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=2&artikel=6&z=2025-08-01&g=2025-08-01), bedoelde personen, in overeenstemming met het bevoegd gezag van de school, toestaan dat gedurende een bepaald schooljaar, voor zover nodig, in afwijking van het bepaalde in de [artikelen 2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.13), [2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.14), [2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.18), [2.31, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.31), en [2.38, zesde lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.38) de jongere aan de school een programma volgt, dat naast algemeen vormend onderwijs en op het beroep gericht onderwijs tevens praktijktijd bevat, bestaande uit arbeid van lichte aard, te verrichten naast en in de samenhang met het onderwijs.
 
@@ -132,7 +158,7 @@ Indien een leerplichtige jongere of een jongere die kwalificatieplichtig is meer
 
 6. Een jongere die wegens gedragsproblemen de veiligheid van medeleerlingen en personeel negatief beïnvloedt en die een grens heeft overschreden of dreigt te overschrijden en daardoor tijdelijk niet meer is te handhaven binnen de school, kan door het bestuurscollege van het openbaar lichaam waar de jongere als ingezetene is ingeschreven, op aanvraag van het bevoegd gezag van een school en na overleg met de in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=2&artikel=6&z=2025-08-01&g=2025-08-01), bedoelde personen, opgedragen worden een niet vrijblijvend traject te volgen buiten de school. Dit traject wordt gevolgd binnen een afgebakende periode van enkele maanden, waarin de jongere gemotiveerd wordt om zijn schoolloopbaan te vervolgen. Dit traject wordt gevolgd in een daartoe door Onze Minister aangewezen organisatie.
 
-#### Artikel 9. Vervangende leerplicht laatste schooljaar
+##### Artikel 9. Vervangende leerplicht laatste schooljaar
 
 1. Op aanvraag van de in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=2&artikel=6&z=2025-08-01&g=2025-08-01), bedoelde personen kan het bestuurscollege van het openbaar lichaam waar de jongere als ingezetene is ingeschreven, toestaan dat de inschrijving van de jongere aan een school voor het laatste schooljaar, bedoeld in [artikel 7, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=2&artikel=7&z=2025-08-01&g=2025-08-01), wordt vervangen door de inschrijving als mbo-student of vavo-student van een instelling als bedoeld in [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=3&z=2025-08-01&g=2025-08-01).
 
@@ -148,7 +174,7 @@ Indien een leerplichtige jongere of een jongere die kwalificatieplichtig is meer
 
 4. Het bestuurscollege besluit binnen 4 weken na ontvangst van de aanvraag, bedoeld in het eerste lid, en zendt binnen 2 weken na het nemen van het besluit daarvan afschrift aan de in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=2&artikel=6&z=2025-08-01&g=2025-08-01), bedoelde personen.
 
-#### Artikel 10. Begin en einde van de verplichting tot geregeld schoolbezoek
+##### Artikel 10. Begin en einde van de verplichting tot geregeld schoolbezoek
 
 1. De verplichting om te zorgen, dat een jongere de school waar hij als leerling staat ingeschreven, geregeld bezoekt, begint op de dag waarop hij na inschrijving op die school kan plaats nemen en eindigt tegelijk met de verplichting om te zorgen dat hij als leerling van een school staat ingeschreven.
 
@@ -156,7 +182,7 @@ Indien een leerplichtige jongere of een jongere die kwalificatieplichtig is meer
 
 #### § 3. Kwalificatieplicht
 
-#### Artikel 11. Inschrijving
+##### Artikel 11. Inschrijving
 
 1. De in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=2&artikel=6&z=2025-08-01&g=2025-08-01), bedoelde personen zijn verplicht te zorgen dat de jongere overeenkomstig de bepalingen van deze paragraaf staat ingeschreven als leerling, vavo-student of mbo-student bij een school of instelling die volledig onderwijs, een bij de wet geregelde combinatie van leren en werken een onderwijsprogramma als bedoeld in [artikel 2.107b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.107b), of [2.107l, tweede lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.107l) dan wel een onderwijsprogramma dat is vormgegeven volgens een samenwerkingsovereenkomst als bedoeld in [artikel 2.100, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.100), of [2.109, derde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.109) verzorgt en dat hij deze school of instelling na inschrijving geregeld bezoekt, als:
 
@@ -170,11 +196,11 @@ Indien een leerplichtige jongere of een jongere die kwalificatieplichtig is meer
 
 4. Als de inschrijving, bedoeld in het eerste lid, plaats vindt aan een andere school of instelling dan daarvoor door de jongere werd bezocht, wordt bij de inschrijving een van overheidswege verstrekt document of een bewijs van uitschrijving van een andere school of instelling overgelegd waarop de gegevens van de jongere betreffende zijn geslachtsnaam, voorletters, geboortedatum, geslacht en persoonsgebonden nummer BES zijn vermeld. Als de in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=2&artikel=6&z=2025-08-01&g=2025-08-01), bedoelde personen bij de inschrijving aannemelijk hebben gemaakt dat zij geen persoonsgebonden nummer BES van de jongere kunnen overleggen, leggen zij het persoonsgebonden nummer BES van de jongere over aan de school zodra zij daarvan kennis hebben verkregen.
 
-#### Artikel 12. Begin en einde verplichting tot inschrijving
+##### Artikel 12. Begin en einde verplichting tot inschrijving
 
 De verplichting, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=3&artikel=11&z=2025-08-01&g=2025-08-01), vangt aan direct na het einde van de leerplicht, bedoeld in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=2&z=2025-08-01&g=2025-08-01), en eindigt zodra de jongere de leeftijd van 18 jaar bereikt of een startkwalificatie heeft behaald.
 
-#### Artikel 13. De invulling van de verplichting tot geregeld schoolbezoek
+##### Artikel 13. De invulling van de verplichting tot geregeld schoolbezoek
 
 1. De jongere die als leerling, vavo-student of mbo-student van een school of instelling staat ingeschreven op grond van [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=3&artikel=11&z=2025-08-01&g=2025-08-01), is verplicht het volledige onderwijsprogramma , het volledige programma van de combinatie leren en werken, het onderwijsprogramma, bedoeld in artikel [2.107b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.107b), of [2.107l, tweede lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.107l) respectievelijk het onderwijsprogramma dat is vormgegeven volgens een samenwerkingsovereenkomst als bedoeld in [artikel 2.100, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.100), of [2.109, derde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.109), te volgen dat door die school of instelling wordt aangeboden.
 
@@ -182,7 +208,7 @@ De verplichting, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/
 
 #### § 4. Vrijstellingen
 
-#### Artikel 14. Gronden voor vrijstelling van inschrijving
+##### Artikel 14. Gronden voor vrijstelling van inschrijving
 
 De in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=2&artikel=6&z=2025-08-01&g=2025-08-01), bedoelde personen zijn vrijgesteld van de verplichting om te zorgen, dat een jongere als leerling van een school onderscheidenlijk als vavo-student of mbo-student van een instelling staat ingeschreven, zolang
 
@@ -192,7 +218,7 @@ De in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&pa
 
 - c. de jongere als leerling van een inrichting van onderwijs buiten een van de openbare lichamen staat ingeschreven en deze inrichting geregeld bezoekt.
 
-#### Artikel 15. Kennisgeving
+##### Artikel 15. Kennisgeving
 
 1. De in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=2&artikel=6&z=2025-08-01&g=2025-08-01), bedoelde personen kunnen zich slechts beroepen op vrijstelling, indien zij aan het bestuurscollege van het openbaar lichaam waar de jongere als ingezetene is ingeschreven, hebben kennis gegeven, voor welke jongere en op welke grond zij daarop aanspraak menen te mogen maken.
 
@@ -204,21 +230,21 @@ De in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&pa
 
 3. Het tweede lid onder b is niet van toepassing, indien uit de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=4&artikel=16&z=2025-08-01&g=2025-08-01) bedoelde verklaring blijkt, dat de jongere nooit geschikt zal zijn een school onderscheidenlijk een instelling te bezoeken.
 
-#### Artikel 16. Lichamelijke of psychische ongeschiktheid
+##### Artikel 16. Lichamelijke of psychische ongeschiktheid
 
 Een beroep op vrijstelling op grond van [artikel 14, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=4&artikel=14&z=2025-08-01&g=2025-08-01), kan slechts worden gedaan, indien bij de kennisgeving een verklaring van een door het bestuurscollege van het openbaar lichaam, waar de jongere als ingezetene is ingeschreven, aangewezen arts – niet zijnde de behandelende arts – of van een door het bestuurscollege aangewezen academisch gevormde of daarmede bij ministeriële regeling gelijkgestelde pedagoog of psycholoog is overgelegd, waaruit blijkt, dat deze de jongere niet geschikt acht om tot een school onderscheidenlijk een instelling te worden toegelaten. Deze verklaring mag niet ouder zijn dan drie maanden.
 
-#### Artikel 17. Bedenkingen tegen richting van school
+##### Artikel 17. Bedenkingen tegen richting van school
 
 1. Een beroep op vrijstelling op grond van [artikel 14, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=4&artikel=14&z=2025-08-01&g=2025-08-01), kan slechts worden gedaan, indien de kennisgeving de verklaring bevat, dat tegen de richting van het onderwijs op alle binnen redelijke afstand van de woning – of, bij het ontbreken van een vaste verblijfplaats, op alle binnen de openbare lichamen – gelegen scholen onderscheidenlijk instellingen waarop de jongere geplaatst zou kunnen worden, overwegende bedenkingen bestaan.
 
 2. Deze verklaring is niet geldig, indien de jongere in het jaar, voorafgaande aan de dagtekening van de kennisgeving, geplaatst is geweest op een school onderscheidenlijk een instelling van de richting waartegen bedenkingen worden geuit.
 
-#### Artikel 18. Bezoeken van school buiten een van de openbare lichamen
+##### Artikel 18. Bezoeken van school buiten een van de openbare lichamen
 
 Een beroep op vrijstelling op grond van [artikel 14, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=4&artikel=14&z=2025-08-01&g=2025-08-01), kan slechts worden gedaan, indien bij de kennisgeving een verklaring is overgelegd van het hoofd van de inrichting van onderwijs waaruit blijkt, dat de jongere als leerling van deze inrichting staat ingeschreven en haar geregeld bezoekt.
 
-#### Artikel 19. Uitschrijving
+##### Artikel 19. Uitschrijving
 
 Op aanvraag van de in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=2&artikel=6&z=2025-08-01&g=2025-08-01), bedoelde personen wordt een jongere binnen de in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=2&artikel=7&z=2025-08-01&g=2025-08-01), en [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=3&artikel=12&z=2025-08-01&g=2025-08-01) omschreven tijdvakken door het hoofd slechts van de lijst der leerlingen, vavo-studenten of mbo-studenten uitgeschreven:
 
@@ -228,7 +254,7 @@ Op aanvraag van de in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:
 
 - c. wegens de vrijstelling, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=4&artikel=27&z=2025-08-01&g=2025-08-01).
 
-#### Artikel 20. Gronden voor vrijstelling van geregeld schoolbezoek
+##### Artikel 20. Gronden voor vrijstelling van geregeld schoolbezoek
 
 De in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=2&artikel=6&z=2025-08-01&g=2025-08-01), bedoelde personen zijn vrijgesteld van de verplichting te zorgen dat de jongere de school waarop hij staat ingeschreven, geregeld bezoekt, en de leerplichtige jongere die de leeftijd van 12 jaren heeft bereikt alsmede de jongere die kwalificatieplichtig is, zijn vrijgesteld van de verplichting de school of de instelling geregeld te bezoeken, indien
 
@@ -246,31 +272,31 @@ De in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&pa
 
 - g. de jongere door andere gewichtige omstandigheden verhinderd is de school onderscheidenlijk de instelling te bezoeken.
 
-#### Artikel 21. Leeftijd leerling
+##### Artikel 21. Leeftijd leerling
 
 1. De in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=2&artikel=6&z=2025-08-01&g=2025-08-01), bedoelde personen zijn met betrekking tot de jongere die nog niet de leeftijd van zes jaar heeft bereikt, voor ten hoogste 5 uren per week vrijgesteld van de verplichting om te zorgen dat deze de school waarop hij staat ingeschreven, geregeld bezoekt. Van een beroep op deze vrijstelling wordt mededeling gedaan aan het hoofd.
 
 2. Naast de vrijstelling, bedoeld in het eerste lid, kan het hoofd op aanvraag van de in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=2&artikel=6&z=2025-08-01&g=2025-08-01), bedoelde personen ten behoeve van de jongere bedoeld in het eerste lid, tot ten hoogste 5 uren per week vrijstelling verlenen van de verplichting om te zorgen dat deze de school waarop hij staat ingeschreven, geregeld bezoekt.
 
-#### Artikel 22. Ziekte
+##### Artikel 22. Ziekte
 
 Een beroep op vrijstelling wegens ziekte van de jongere kan slechts worden gedaan, indien daarvan binnen twee dagen na het ontstaan van de verhindering aan het hoofd kennis is gegeven, zo mogelijk met opgave van de aard van de ziekte.
 
-#### Artikel 23. Plichten voortvloeiend uit godsdienst of levensovertuiging
+##### Artikel 23. Plichten voortvloeiend uit godsdienst of levensovertuiging
 
 Een beroep op vrijstelling wegens vervulling van plichten voortvloeiend uit godsdienst of levensovertuiging kan slechts worden gedaan indien daarvan uiterlijk twee dagen vóór de verhindering aan het hoofd kennis is gegeven.
 
-#### Artikel 24. Vakantie
+##### Artikel 24. Vakantie
 
 1. Een beroep op vrijstelling wegens vakantie van de jongere, bedoeld in [artikel 20, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=4&artikel=20&z=2025-08-01&g=2025-08-01), kan slechts worden gedaan indien het hoofd op aanvraag van de in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=2&artikel=6&z=2025-08-01&g=2025-08-01), bedoelde personen verlof heeft verleend dat de jongere voor de duur van het verlof de school onderscheidenlijk de instelling niet bezoekt.
 
 2. Verlof als bedoeld in het eerste lid kan door het hoofd slechts eenmaal voor ten hoogste tien dagen per schooljaar worden verleend en kan geen betrekking hebben op de eerste twee lesweken van het schooljaar. Het verlof, bedoeld in de eerste volzin, kan aan de jongere die kwalificatieplichtig is slechts worden verleend tot een evenredig deel van het aantal dagen dat hij op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=3&artikel=13&z=2025-08-01&g=2025-08-01) verplicht is onderwijs te volgen.
 
-#### Artikel 25. Kennisgeving bij beroep op vrijstelling
+##### Artikel 25. Kennisgeving bij beroep op vrijstelling
 
 Een beroep op vrijstelling wegens ziekte van de jongere, wegens vervulling van plichten voortvloeiend uit godsdienst of levensovertuiging wordt gedaan door middel van kennisgeving aan het hoofd door de in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=2&artikel=6&z=2025-08-01&g=2025-08-01), bedoelde personen, tenzij de leerplichtige jongere of de jongere die kwalificatieplichtig is niet meer woonachtig is bij deze personen, in welk geval de kennisgeving wordt gedaan door de jongere zelf.
 
-#### Artikel 26. Andere gewichtige omstandigheden
+##### Artikel 26. Andere gewichtige omstandigheden
 
 1. Een beroep op vrijstelling wegens andere gewichtige omstandigheden als bedoeld in [artikel 20 onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=4&artikel=20&z=2025-08-01&g=2025-08-01) kan slechts worden gedaan, indien het hoofd op aanvraag van de in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=2&artikel=6&z=2025-08-01&g=2025-08-01), bedoelde personen verlof heeft verleend, dat de jongere de school onderscheidenlijk de instelling tijdelijk niet bezoekt.
 
@@ -278,11 +304,11 @@ Een beroep op vrijstelling wegens ziekte van de jongere, wegens vervulling van p
 
 3. Het hoofd kan ten aanzien van dezelfde jongere wegens de in het eerste lid bedoelde omstandigheden voor ten hoogste tien dagen per schooljaar verlof als bedoeld in dat lid verlenen. Indien het verlof ten aanzien van dezelfde jongere wordt gevraagd voor meer dan tien dagen per schooljaar, besluit de ambtenaar van het openbaar lichaam waar de jongere woonachtig is, het hoofd gehoord. Het verlof, bedoeld in de eerste volzin, kan aan de jongere die kwalificatieplichtig is slechts worden verleend tot een evenredig deel van het aantal dagen dat hij op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=3&artikel=13&z=2025-08-01&g=2025-08-01) verplicht is onderwijs te volgen.
 
-#### Artikel 27. Vrijstelling wegens het volgen van ander onderwijs
+##### Artikel 27. Vrijstelling wegens het volgen van ander onderwijs
 
 In andere gevallen dan genoemd in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=4&artikel=14&z=2025-08-01&g=2025-08-01) kan het bestuurscollege op grond van bijzondere omstandigheden vrijstelling verlenen van de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=3&artikel=11&z=2025-08-01&g=2025-08-01) opgelegde verplichtingen, indien wordt aangetoond, dat de jongere op andere wijze voldoende onderwijs geniet.
 
-#### Artikel 27a. Vrijstelling en vertrek van een openbaar lichaam
+##### Artikel 27a. Vrijstelling en vertrek van een openbaar lichaam
 
 Bij vertrek uit een openbaar lichaam is een leerplichtige jongere die afwezig zal zijn gedurende de tijd dat er onderwijs wordt gegeven, in het bezit van een verklaring waaruit blijkt dat:
 
@@ -292,7 +318,7 @@ Bij vertrek uit een openbaar lichaam is een leerplichtige jongere die afwezig za
 
 #### § 5. Toezicht op de naleving van de wet
 
-#### Artikel 28. Leerplichtambtenaren
+##### Artikel 28. Leerplichtambtenaren
 
 1. Het toezicht op de naleving van deze wet anders dan door de hoofden is opgedragen aan het bestuurscollege. Het wijst daartoe een of meer ambtenaren aan.
 
@@ -312,13 +338,13 @@ Bij vertrek uit een openbaar lichaam is een leerplichtige jongere die afwezig za
 
 5. Deze ambtenaren zijn belast met de opsporing van de bij deze wet strafbaar gestelde feiten, onverminderd [artikel 184 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184).
 
-#### Artikel 29. Toezicht op de naleving
+##### Artikel 29. Toezicht op de naleving
 
 1. Ambtenaren als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=5&artikel=28&z=2025-08-01&g=2025-08-01), tonen bij de uitvoering van hun taak op verzoek van belanghebbenden hun legitimatiebewijs. Deze ambtenaren hebben toegang tot scholen en tot andere plaatsen, niet zijnde woningen, voor zover dat redelijkerwijs nodig is voor de uitvoering van hun taak, en kunnen zich indien nodig met behulp van de ambtenaren, genoemd in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=5&artikel=36&z=2025-08-01&g=2025-08-01), toegang verschaffen. Deze ambtenaren kunnen zich doen vergezellen van door hen aangewezen personen.
 
 2. Een ieder is verplicht deze ambtenaren medewerking te verlenen door hun aanwijzingen te volgen, de door hen gevraagde inlichtingen volledig en naar waarheid te verstrekken en de benodigde bijstand te verstrekken, een en ander voor zover die medewerking redelijkerwijs nodig is bij de uitvoering van hun toezichthoudende taak.
 
-#### Artikel 29a. Controle op naleving leerplicht door ambtenaren belast met de grensbewaking
+##### Artikel 29a. Controle op naleving leerplicht door ambtenaren belast met de grensbewaking
 
 1. Onverminderd het bepaalde in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=5&artikel=28&z=2025-08-01&g=2025-08-01) kunnen ambtenaren belast met de grensbewaking, bedoeld in de [Wet toelating en uitzetting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571), indien er ernstige twijfel bestaat of er wordt voldaan aan de verplichting de school of de instelling geregeld te bezoeken, bij vertrek van een openbaar lichaam van een jongere op wie [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=2&artikel=6&z=2025-08-01&g=2025-08-01) of [11](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=3&artikel=11&z=2025-08-01&g=2025-08-01) van toepassing is, eisen dat deze de verklaring, bedoeld in [artikel 27a](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=4&artikel=27a&z=2025-08-01&g=2025-08-01), toont.
 
@@ -326,11 +352,11 @@ Bij vertrek uit een openbaar lichaam is een leerplichtige jongere die afwezig za
 
 3. De ambtenaar, bedoeld in het eerste lid, stelt de ambtenaar, bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=5&artikel=28&z=2025-08-01&g=2025-08-01), zo spoedig mogelijk in kennis van een beslissing als bedoeld in het tweede lid.
 
-#### Artikel 30. Gemeenschappelijke regeling betreffende toezicht
+##### Artikel 30. Gemeenschappelijke regeling betreffende toezicht
 
 Gemeenschappelijke regelingen op de openbare lichamen betreffende het toezicht op de naleving van deze wet, alsmede wijziging of intrekking daarvan, worden mede ter kennis gebracht van Onze Minister en van de openbare lichamen die bij de regeling zijn aangesloten.
 
-#### Artikel 31. Kennisgeving in- en uitschrijvingen
+##### Artikel 31. Kennisgeving in- en uitschrijvingen
 
 1. De hoofden melden een beslissing tot verwijdering van een leerling, vavo-student of mbo-student terstond aan het bestuurscollege.
 
@@ -342,11 +368,11 @@ Gemeenschappelijke regelingen op de openbare lichamen betreffende het toezicht o
 
 5. Indien het bestuurscollege van het openbaar lichaam waar de leerling, vavo-student of mbo-student woon- of verblijfplaats heeft zijn bevoegdheden op grond van deze wet heeft ondergebracht in een gemeenschappelijke regeling als bedoeld in [artikel 124, eerste lid, van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=124), vindt de informatieverstrekking door de hoofden, bedoeld in dit artikel, plaats aan het orgaan dat daartoe volgens die gemeenschappelijke regeling is aangewezen.
 
-#### Artikel 32. Controle absoluut schoolverzuim door het bestuurscollege
+##### Artikel 32. Controle absoluut schoolverzuim door het bestuurscollege
 
 Het bestuurscollege controleert of de jongeren die als ingezetene zijn ingeschreven en nog leerplichtig of kwalificatieplichtig zijn, overeenkomstig de bepalingen van deze wet als leerling, vavo-student of mbo-student staan ingeschreven.
 
-#### Artikel 33. Kennisgeving relatief verzuim
+##### Artikel 33. Kennisgeving relatief verzuim
 
 1. Indien een ingeschreven leerling van een school ten aanzien van wie deze wet van toepassing is zonder geldige reden les- of praktijktijd heeft verzuimd en dit verzuim gedurende een periode van vier opeenvolgende lesweken meer dan zestien uren les- of praktijktijd bedraagt, geeft het hoofd van de school hiervan onverwijld kennis aan het bestuurscollege van het openbaar lichaam waar de leerling woon- of verblijfplaats heeft.
 
@@ -356,7 +382,7 @@ Het bestuurscollege controleert of de jongeren die als ingezetene zijn ingeschre
 
 4. Indien het bestuurscollege van het openbaar lichaam waar de leerling, vavo-student of mbo-student woon- of verblijfplaats heeft zijn bevoegdheden op grond van deze wet heeft ondergebracht in een gemeenschappelijke regeling als bedoeld in [artikel 124, eerste lid, van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=124), vindt de kennisgeving, bedoeld in het eerste of tweede lid, plaats aan het orgaan dat daartoe volgens die gemeenschappelijke regeling is aangewezen.
 
-#### Artikel 34. Onderzoek door leerplichtambtenaar
+##### Artikel 34. Onderzoek door leerplichtambtenaar
 
 1. Indien blijkt, dat een leerplichtige of kwalificatieplichtige jongere niet als leerling, vavo-student of mbo-student staat ingeschreven, zonder dat een grond voor vrijstelling aanwezig is, of indien een kennisgeving is ontvangen als bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=5&artikel=33&z=2025-08-01&g=2025-08-01) stelt de ambtenaar vanwege het bestuurscollege een onderzoek in. Hij hoort de in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=2&artikel=6&z=2025-08-01&g=2025-08-01), bedoelde personen en tracht hen ertoe te bewegen hun verplichtingen na te komen.
 
@@ -368,15 +394,15 @@ Het bestuurscollege controleert of de jongeren die als ingezetene zijn ingeschre
 
 5. Indien de in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=2&artikel=6&z=2025-08-01&g=2025-08-01), bedoelde personen reeds eerder zijn veroordeeld wegens het niet nakomen van de verplichtingen, opgelegd in artikel 6, eerste lid, of [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=3&artikel=11&z=2025-08-01&g=2025-08-01), zendt de ambtenaar een afschrift van het proces-verbaal aan de raad voor de kinderbescherming.
 
-#### Artikel 35. Overtreding arbeidsverbod
+##### Artikel 35. Overtreding arbeidsverbod
 
 Indien aan het hoofd of aan de ambtenaar blijkt, dat een jongere in strijd met de ter zake geldende voorschriften arbeid verricht, geven zij hiervan terstond kennis aan een daartoe door Onze Minister van Sociale Zaken en Werkgelegenheid aangewezen onder hem ressorterende ambtenaar.
 
-#### Artikel 36. Bevoegdheden politie
+##### Artikel 36. Bevoegdheden politie
 
 Ambtenaren van politie, aangesteld voor de uitvoering van de politietaak, zijn bevoegd een jongere die zij onder schooltijd op een voor het publiek toegankelijke plaats aantreffen, te brengen naar het hoofd van de school waarop de jongere als leerling staat ingeschreven.
 
-#### Artikel 37. Jaarverslag openbaar lichaam en verstrekking statistische gegevens
+##### Artikel 37. Jaarverslag openbaar lichaam en verstrekking statistische gegevens
 
 1. Het bestuurscollege brengt jaarlijks vóór 1 oktober verslag uit aan de eilandsraad over het in het laatst afgesloten school- of cursusjaar in het openbaar lichaam gevoerde beleid inzake de handhaving van de leerplicht en de kwalificatieplicht en de resultaten daarvan.
 
@@ -386,13 +412,13 @@ Ambtenaren van politie, aangesteld voor de uitvoering van de politietaak, zijn b
 
 #### § 6. Strafbepalingen
 
-#### Artikel 38. Strafbedreiging verantwoordelijke personen
+##### Artikel 38. Strafbedreiging verantwoordelijke personen
 
 1. De in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=2&artikel=6&z=2025-08-01&g=2025-08-01), bedoelde personen die de in artikel 6, eerste lid, of [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=3&artikel=11&z=2025-08-01&g=2025-08-01) opgelegde verplichtingen niet nakomen, worden gestraft met hechtenis van ten hoogste een maand of geldboete van de tweede categorie.
 
 2. De leerplichtige jongere die de leeftijd van 12 jaren heeft bereikt of de jongere die kwalificatieplichtig is, die de verplichting tot geregeld volgen van het onderwijs niet nakomt, wordt gestraft met een hoofdstraf als genoemd in [artikel 9, tweede lid, van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=9), met dien verstande dat de geldboete een geldboete van de tweede categorie is.
 
-#### Artikel 39. Bestuurlijke boete hoofd
+##### Artikel 39. Bestuurlijke boete hoofd
 
 Onze Minister kan een bestuurlijke boete van ten hoogste USD 1300 per overtreding, met een maximum van USD 130 000 per schooljaar, opleggen aan het hoofd dat:
 
@@ -402,37 +428,37 @@ Onze Minister kan een bestuurlijke boete van ten hoogste USD 1300 per overtredin
 
 - c. bij de uitvoering van deze wet onjuiste of onvolledige inlichtingen verstrekt.
 
-#### Artikel 40. Overtreding
+##### Artikel 40. Overtreding
 
 De bij deze wet strafbaar gestelde feiten worden beschouwd als overtredingen.
 
 #### § 7. Slot- en overgangsbepalingen
 
-#### Artikel 41. Nadere voorschriften
+##### Artikel 41. Nadere voorschriften
 
 1. Bij ministeriële regeling worden nadere voorschriften gegeven voor de uitvoering van deze wet en worden de modellen vastgesteld van de kennisgevingen en mededelingen, bedoeld in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=4&artikel=15&z=2025-08-01&g=2025-08-01), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=5&artikel=31&z=2025-08-01&g=2025-08-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=5&artikel=33&z=2025-08-01&g=2025-08-01) en [37, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=5&artikel=37&z=2025-08-01&g=2025-08-01). Bij deze regeling kan tevens worden bepaald dat de in artikel 37, tweede of derde lid, bedoelde opgave niet wordt gedaan aan Onze Minister maar aan het Centraal Bureau voor de Statistiek.
 
 2. De formulieren van de kennisgevingen en mededelingen, bedoeld in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=4&artikel=15&z=2025-08-01&g=2025-08-01), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=5&artikel=31&z=2025-08-01&g=2025-08-01) en [33](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=5&artikel=33&z=2025-08-01&g=2025-08-01) zijn voor de belanghebbenden kosteloos op het bestuurskantoor van het openbaar lichaam verkrijgbaar. De formulieren voor de opgaven van gegevens ten behoeve van statistisch onderzoek als bedoeld in [artikel 37, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=5&artikel=37&z=2025-08-01&g=2025-08-01) worden door het Rijk verstrekt.
 
-#### Artikel 42. Oude ontheffingen, vrijstellingen en verzoeken
+##### Artikel 42. Oude ontheffingen, vrijstellingen en verzoeken
 
 1. Ontheffingen en vrijstellingen die krachtens de Leerplichtlandsverordening of krachtens de Leerplichtwet BES zoals die wet op 10 oktober 2010 is komen te luiden, zijn verleend, worden geacht te zijn verleend krachtens deze wet voor de resterende duur waarvoor zij werden verleend.
 
 2. Verzoeken die op grond van artikel 4 van de Leerplichtlandsverordening zoals luidend op 9 oktober 2010 of op grond van artikel 4 van de Leerplichtwet BES, zoals dat artikel op 10 oktober 2010 is komen te luiden, zijn gedaan en waarop op die dag nog niet is beslist, worden afgehandeld met inachtneming van de regels die bij of krachtens de Leerplichtlandsverordening zijn gesteld.
 
-#### Artikel 43. Overgangsbepaling scholen waaraan aan leerplicht wordt voldaan
+##### Artikel 43. Overgangsbepaling scholen waaraan aan leerplicht wordt voldaan
 
 Een school die op 9 oktober 2010 was aangemerkt als een niet bekostigde school, wordt met ingang van de datum van inwerkingtreding van dit artikel aangemerkt als een school als bedoeld in [artikel 1, onderdeel b, subonderdeel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=1&artikel=1&z=2025-08-01&g=2025-08-01).
 
-#### Artikel 44. Citeertitel
+##### Artikel 44. Citeertitel
 
 Deze wet wordt aangehaald als: Leerplichtwet BES.
 
-#### Artikel 43a. Inwerkingtreding
+##### Artikel 43a. Inwerkingtreding
 
 De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=1&artikel=3&z=2025-08-01&g=2025-08-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=1&artikel=5&z=2025-08-01&g=2025-08-01) die niet bij Besluit van 3 februari 2011, houdende vaststelling van het tijdstip van inwerkingtreding van een aantal onderdelen van de Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba (Stb. 2011, 34) in werking zijn getreden, treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan, verschillend kan worden vastgesteld.
 
-#### Artikel 28a. Inspectie van het onderwijs
+##### Artikel 28a. Inspectie van het onderwijs
 
 1. Het toezicht op de naleving van deze wet door de hoofden is opgedragen aan de Inspectie van het onderwijs.
 

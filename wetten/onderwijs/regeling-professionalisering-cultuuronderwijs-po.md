@@ -1,13 +1,35 @@
 ---
 title: "Regeling Professionalisering Cultuuronderwijs PO"
 identifier: "BWBR0036872"
-categorie: "Onderwijs"
-publicatiedatum: 2015-10-14
-laatste_update: 2015-10-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036872"
+country: "nl"
+rank: "zbo"
+publication_date: "2015-10-14"
+last_updated: "2015-10-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036872"
+soort: "zbo"
+stam_id: "13227063"
+version_id: "22600932"
+internal_id: "C32405951"
+label_id: "13195444"
+dtd_version: "2.0"
+original_entry_into_force: "2015-07-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036872/2015-10-14/0"
+intitule_bron: "Stcrt.2015-21377"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2015-07-23"
+intitule_in_force: "2015-07-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-21377"
+original_published_date: "2015-07-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-21377"
+entry_into_force_date: "2015-07-24"
+jci_1_3: "jci1.3:c:BWBR0036872&z=2015-10-14&g=2015-10-14"
+jci_1_0: "1.0:c:BWBR0036872&g=2015-10-14"
+citeertitel_status: "officieel"
+entry_into_force: "2015-07-24"
 ---
-
 # Regeling Professionalisering Cultuuronderwijs PO
 
 Gelet op [artikel 10, vierde lid, van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
@@ -18,7 +40,7 @@ Besluit tot vaststelling van onderstaande regeling:
 
 #### Paragraaf 1. : Algemene bepalingen
 
-#### Artikel 1.1. Definities
+##### Artikel 1.1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -46,11 +68,11 @@ In deze regeling wordt verstaan onder:
 
 - **Gekapitaliseerde uren:** uren die aan het project worden besteed door schoolleiders en leerkrachten in loondienstverband.
 
-#### Artikel 1.2. Doel subsidieverstrekking
+##### Artikel 1.2. Doel subsidieverstrekking
 
 Flankerend aan de **Deelregeling Cultuureducatie met Kwaliteit in het primair onderwijs Fonds voor Cultuurparticipatie 2013–2016** kan het bestuur overeenkomstig de regels van deze regeling op aanvraag een projectsubsidie verstrekken voor een project dat strekt tot professionalisering van het cultuuronderwijs op bestuursniveau, schoolniveau en bij de (vak)leerkrachten, zodat kinderen een kwalitatief goed en samenhangend aanbod van cultuuronderwijs ontvangen.
 
-#### Artikel 1.3. Subsidieaanvrager
+##### Artikel 1.3. Subsidieaanvrager
 
 1. Een schoolbestuur met ten minste 5 aan het project deelnemende locaties of een samenwerkingsverband kan projectsubsidie aanvragen.
 
@@ -58,7 +80,7 @@ Flankerend aan de **Deelregeling Cultuureducatie met Kwaliteit in het primair on
 
 #### Paragraaf 2. : Subsidieverlening
 
-#### Artikel 2.1. Subsidieaanvraag
+##### Artikel 2.1. Subsidieaanvraag
 
 1. Een aanvraag voor projectsubsidie wordt digitaal ingediend via de website van het Fonds voor Cultuurparticipatie met gebruikmaking van een door het bestuur opgesteld formulier.
 
@@ -100,7 +122,7 @@ Flankerend aan de **Deelregeling Cultuureducatie met Kwaliteit in het primair on
 
 5. Subsidie wordt slechts verleend voor een projecten die vóór september 2016 starten en een looptijd van ten hoogste 24 maanden hebben.
 
-#### Artikel 2.2. Weigeringsgronden
+##### Artikel 2.2. Weigeringsgronden
 
 Subsidie kan, onverminderd het bepaalde in de [artikelen 4:5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) en [4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35), geweigerd worden indien:
 
@@ -108,7 +130,7 @@ Subsidie kan, onverminderd het bepaalde in de [artikelen 4:5](https://wetten.ove
 
 - b. de aanvrager niet voldoet aan de voor de betreffende instelling gebruikelijke normen met betrekking tot bestuur, toezicht en transparante verantwoording als bedoeld in de Code Goed Bestuur in het primair onderwijs.
 
-#### Artikel 2.3. Behandeling aanvragen
+##### Artikel 2.3. Behandeling aanvragen
 
 1. Het bestuur verdeelt het beschikbare bedrag, bedoeld in [artikel 2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036872&paragraaf=2&artikel=2.4&z=2015-10-14&g=2015-10-14), in de volgorde van ontvangst van de volledige aanvragen. Van een volledige aanvraag is sprake, indien wordt voldaan aan [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036872&paragraaf=2&artikel=2.1&z=2015-10-14&g=2015-10-14).
 
@@ -116,7 +138,7 @@ Subsidie kan, onverminderd het bepaalde in de [artikelen 4:5](https://wetten.ove
 
 3. Op een aanvraag wordt binnen een termijn van dertien weken na het sluiten van het aanvraagtijdvak , bedoeld in [artikel 2.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036872&paragraaf=2&artikel=2.4&z=2015-10-14&g=2015-10-14), beslist.
 
-#### Artikel 2.4. Aanvraagtijdvak en subsidieplafond
+##### Artikel 2.4. Aanvraagtijdvak en subsidieplafond
 
 1. Aanvragen voor projectsubsidie als bedoeld in [artikel 2.1.](https://wetten.overheid.nl/jci1.3:c:BWBR0036872&paragraaf=2&artikel=2.1&z=2015-10-14&g=2015-10-14) worden ingediend in de periode vanaf 1 juni 2015 tot 1 maart 2016 13:00 uur.
 
@@ -128,7 +150,7 @@ Subsidie kan, onverminderd het bepaalde in de [artikelen 4:5](https://wetten.ove
 
 5. De subsidie bedraagt per locatie maximaal € 20.000,– en per project maximaal € 200.000,–.
 
-#### Artikel 2.5. Projectkosten en matching
+##### Artikel 2.5. Projectkosten en matching
 
 1. Geen subsidie wordt verleend voor begrote kosten van projecten die voor de datum van indiening van de aanvraag ten behoeve van het project zijn ontwikkeld of uitgevoerd.
 
@@ -138,7 +160,7 @@ Subsidie kan, onverminderd het bepaalde in de [artikelen 4:5](https://wetten.ove
 
 4. Bij het bepalen van de hoogte van de subsidie wordt het matching principe toegepast. De subsidieaanvrager dient ten minste 50% van de totale variabele projectkosten met eigen middelen te matchen. Deze middelen mogen ook gekapitaliseerde uren zijn.
 
-#### Artikel 2.6. Beoordeling
+##### Artikel 2.6. Beoordeling
 
 1. Aanvragen die voldoen aan de vereisten om voor subsidie in aanmerking te komen worden door het bestuur ter advies voorgelegd aan een adviescommissie.
 
@@ -148,7 +170,7 @@ Subsidie kan, onverminderd het bepaalde in de [artikelen 4:5](https://wetten.ove
 
 4. Het bestuur neemt een besluit op de aanvraag.
 
-#### Artikel 2.7. Criteria bij de beoordeling
+##### Artikel 2.7. Criteria bij de beoordeling
 
 1. Aanvragen worden door de adviescommissie bedoeld in [artikel 2.6.](https://wetten.overheid.nl/jci1.3:c:BWBR0036872&paragraaf=2&artikel=2.6&z=2015-10-14&g=2015-10-14) getoetst op 3 criteria:
 
@@ -162,7 +184,7 @@ Subsidie kan, onverminderd het bepaalde in de [artikelen 4:5](https://wetten.ove
 
 #### Paragraaf 3. : Verplichtingen en verantwoording
 
-#### Artikel 3.1. Meldingsplicht
+##### Artikel 3.1. Meldingsplicht
 
 De subsidieontvanger meldt onverwijld aan het bestuur als:
 
@@ -172,11 +194,11 @@ De subsidieontvanger meldt onverwijld aan het bestuur als:
 
 - c. er aanzienlijke wijzigingen zijn ten opzichte van het projectplan op basis waarvan de subsidie is verstrekt.
 
-#### Artikel 3.2. Verantwoording, voorschotten, vaststelling en betaling
+##### Artikel 3.2. Verantwoording, voorschotten, vaststelling en betaling
 
 Verantwoording, bevoorschotting, vaststelling en betaling van de subsidie geschiedt overeenkomstig het daarover bepaalde in [hoofdstukken 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030858&hoofdstuk=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0030858&hoofdstuk=9),[10](https://wetten.overheid.nl/jci1.3:c:BWBR0030858&hoofdstuk=10) en [11 van het Algemeen reglement van het Fonds voor Cultuurparticipatie](https://wetten.overheid.nl/jci1.3:c:BWBR0030858&hoofdstuk=11).
 
-#### Artikel 3.3. Leernetwerk
+##### Artikel 3.3. Leernetwerk
 
 1. De subsidieontvanger, de deelnemende locaties en de eventuele samenwerkingspartners in het samenwerkingsverband als bedoeld in [artikel 1.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036872&paragraaf=1&artikel=1.3&z=2015-10-14&g=2015-10-14), committeren zich aan een leernetwerk. Dit netwerk is gericht op kennisdeling en kennisvermeerdering. Per project neemt minimaal één bestuurder en één schoolleider aan dit netwerk deel.
 
@@ -190,13 +212,13 @@ Verantwoording, bevoorschotting, vaststelling en betaling van de subsidie geschi
 
 #### Paragraaf 4. : Overige bepalingen
 
-#### Artikel 4.1. Inwerkingtreding
+##### Artikel 4.1. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van de dag na datum van uitgifte van de Staatscourant waarin zij is geplaatst.
 
 2. Deze regeling vervalt met ingang van 1 januari 2020. Op bezwaar-en beroepsprocedures die op dat moment nog niet zijn afgerond, blijft het bepaalde in deze regeling van overeenkomstige toepassing.
 
-#### Artikel 4.2. Citeertitel
+##### Artikel 4.2. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling Professionalisering Cultuuronderwijs PO.
 

@@ -1,13 +1,38 @@
 ---
-title: "Verdrag tussen de Regering van het Koninkrijk der Nederlanden en Regering van de Tsjechische Republiek inzake internationaal vervoer over de weg"
+title: "Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Tsjechische Republiek inzake internationaal vervoer over de weg"
 identifier: "BWBV0001359"
-categorie: "Internationaal recht"
-publicatiedatum: 1999-01-01
-laatste_update: 1999-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001359"
+country: "nl"
+rank: "verdrag"
+publication_date: "1999-01-01"
+last_updated: "1999-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001359"
+soort: "verdrag"
+stam_id: "10000373673"
+version_id: "10000381702"
+internal_id: "C10006989691"
+label_id: "10000373834"
+original_entry_into_force: "1999-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001359/1999-01-01/0"
+intitule_bron: "Trb.1998-105"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-11-10"
+intitule_published: "1998-05-07"
+intitule_in_force: "1998-12-17"
+intitule_status: "goed"
+original_publication: "Trb.1998-105"
+original_signed_date: "1998-11-10"
+original_published_date: "1998-05-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1998-105"
+entry_into_force_date: "1999-01-01"
+jci_1_3: "jci1.3:c:BWBV0001359&z=1999-01-01&g=1999-01-01"
+jci_1_0: "1.0:c:BWBV0001359&g=1999-01-01"
+citeertitel_status: "officieel"
+short_title: "Verdrag tussen de Regering van het Koninkrijk der Nederlanden en Regering van de Tsjechische Republiek inzake internationaal vervoer over de weg"
+signed_date: "1998-11-10"
+entry_into_force: "1999-01-01"
 ---
-
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Tsjechische Republiek inzake internationaal vervoer over de weg
 
 De Regering van het Koninkrijk der Nederlanden
@@ -20,7 +45,7 @@ Geleid door de wens, in het belang van hun economische betrekkingen, de ontwikke
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Toepassingsgebied
+##### Artikel 1. Toepassingsgebied
 
 1. De bepalingen van dit Verdrag zijn van toepassing op het internationaal vervoer van goederen en personen over de weg tegen betaling of voor eigen rekening tussen de grondgebieden van het Koninkrijk der Nederlanden en de Tsjechische Republiek, in doorvoer door hun landen, naar of van derde landen, en op cabotage, verricht door vervoerders die voertuigen gebruiken zoals omschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001359&artikel=2&z=1999-01-01&g=1999-01-01) van dit Verdrag.
 
@@ -28,7 +53,7 @@ Zijn het volgende overeengekomen:
 
 3. De toepassing van dit Verdrag doet geen afbreuk aan de toepassing door het Koninkrijk der Nederlanden, als lidstaat van de Europese Unie, van het recht van de Europese Unie.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -50,7 +75,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - –. voor de Tsjechische Republiek, het Ministerie van Verkeer en Verbindingen,
 
-#### Artikel 3. Toegang tot de markt
+##### Artikel 3. Toegang tot de markt
 
 1. Elk der Verdragsluitende Partijen kan een op het grondgebied van het andere land gevestigde vervoerder toestaan vervoer van goederen of personen te verrichten:
 
@@ -78,13 +103,13 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 3. Een vervoerder mag geen cabotage verrichten, tenzij hij daartoe speciale toestemming heeft verkregen van de bevoegde autoriteiten.
 
-#### Artikel 4. Gewichten en afmetingen
+##### Artikel 4. Gewichten en afmetingen
 
 1. De gewichten, met inbegrip van de asgewichten, en afmetingen van voertuigen dienen in overeenstemming te zijn met de officiële registratie van het voertuig en mogen de geldende grenzen in het gastheerland niet overschrijden.
 
 2. Indien het gewicht, het asgewicht en/of de afmetingen van een voertuig in beladen of onbeladen toestand bij het verrichten van vervoer ingevolge de bepalingen van dit Verdrag het in het gastheerland toelaatbare maximum overschrijden, is een bijzondere vergunning van het gastheerland vereist.
 
-#### Artikel 5. Naleving van de nationale wetgeving
+##### Artikel 5. Naleving van de nationale wetgeving
 
 1. Vervoerders van een van de landen en de bemanningen van hun voertuigen moeten, wanneer zij zich op het grondgebied van het andere land bevinden, de in dat land geldende wetten en voorschriften naleven.
 
@@ -92,11 +117,11 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 3. De in het eerste en tweede lid van dit artikel bedoelde wetten en voorschriften zullen worden toegepast op dezelfde voorwaarden als die voor inwoners van het gastheerland om discriminatie op grond van nationaliteit of plaats van vestiging uit te sluiten.
 
-#### Artikel 6. Overtredingen
+##### Artikel 6. Overtredingen
 
 In geval van overtreding van de bepalingen van dit Verdrag door een vervoerder gevestigd op het grondgebied van het Koninkrijk der Nederlanden of de Tsjechische Republiek, geeft het land op het grondgebied waarvan de overtreding plaatsvond, onverminderd de door dat land te ondernemen gerechtelijke stappen, daarvan kennis aan het andere land, dat de in zijn nationale wetgeving voorziene stappen zal ondernemen. De Verdragsluitende Partijen zullen elkaar in kennis stellen van eventuele opgelegde sancties.
 
-#### Artikel 7. Belastingaangelegenheden
+##### Artikel 7. Belastingaangelegenheden
 
 1. Voertuigen, met inbegrip van hun reserveonderdelen, die vervoer verrichten in overeenstemming met dit Verdrag, zijn wederzijds vrijgesteld van alle belastingen en heffingen opgelegd aan het verkeer of het bezit van voertuigen, alsook van alle speciale belastingen en heffingen opgelegd aan vervoerswerkzaamheden op het grondgebied van het andere land.
 
@@ -104,7 +129,7 @@ In geval van overtreding van de bepalingen van dit Verdrag door een vervoerder g
 
 3. De zich in de normale, vaste, door de fabrikant ingebouwde reservoirs van de voertuigen bevindende brandstof, alsmede de alleen voor de goede werking van die voertuigen bestemde smeermiddelen, zijn wederzijds vrijgesteld van douanerechten en andere belastingen en betalingen.
 
-#### Artikel 8. Gemengde Commissie
+##### Artikel 8. Gemengde Commissie
 
 1. De bevoegde autoriteiten van de Verdragsluitende Partijen regelen alle vraagstukken betreffende de uitvoering en toepassing van dit Verdrag.
 
@@ -130,15 +155,15 @@ In geval van overtreding van de bepalingen van dit Verdrag door een vervoerder g
 
 - g. de bevordering van intermodaal vervoer, met inbegrip van alle vraagstukken betreffende de toegang tot de markt.
 
-#### Artikel 9. Toepassing voor het Koninkrijk der Nederlanden
+##### Artikel 9. Toepassing voor het Koninkrijk der Nederlanden
 
 Wat het Koninkrijk der Nederlanden betreft, is dit Verdrag slechts van toepassing op het grondgebied van het Rijk in Europa.
 
-#### Artikel 10. Wijziging
+##### Artikel 10. Wijziging
 
 Door de Verdragsluitende Partijen overeengekomen wijzigingen van dit Verdrag worden van kracht op de eerste dag van de tweede maand die volgt op de datum waarop de Verdragsluitende Partijen elkaar schriftelijk ervan in kennis hebben gesteld dat aan de constitutionele voorwaarden in hun respectieve landen is voldaan.
 
-#### Artikel 11. Inwerkingtreding en beëindiging
+##### Artikel 11. Inwerkingtreding en beëindiging
 
 1. Dit Verdrag treedt in werking op de eerste dag van de tweede maand die volgt op de datum waarop de Verdragsluitende Partijen elkaar schriftelijk ervan in kennis hebben gesteld dat aan de constitutionele voorwaarden voor de inwerkingtreding van het Verdrag in hun respectieve landen is voldaan.
 

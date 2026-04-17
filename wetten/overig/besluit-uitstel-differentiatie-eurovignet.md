@@ -1,13 +1,37 @@
 ---
 title: "Besluit uitstel differentiatie eurovignet"
 identifier: "BWBR0012053"
-categorie: "Overig"
-publicatiedatum: 2001-02-01
-laatste_update: 2001-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012053"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2001-02-01"
+last_updated: "2001-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012053"
+soort: "ministeriele-regeling"
+stam_id: "3613413"
+version_id: "5396442"
+internal_id: "C5589531"
+label_id: "3593324"
+dtd_version: "2.0"
+original_entry_into_force: "2001-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012053/2001-02-01/0"
+intitule_bron: "Stcrt.2000-249"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-12-20"
+intitule_published: "2000-12-22"
+intitule_in_force: "2000-12-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2000-249"
+original_signed_date: "2000-12-20"
+original_published_date: "2000-12-22"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2001-02-01"
+jci_1_3: "jci1.3:c:BWBR0012053&z=2001-02-01&g=2001-02-01"
+jci_1_0: "1.0:c:BWBR0012053&g=2001-02-01"
+citeertitel_status: "officieel"
+signed_date: "2000-12-20"
+entry_into_force: "2001-02-01"
 ---
-
 # Besluit uitstel differentiatie eurovignet
 
 heeft het volgende besloten.

@@ -1,20 +1,46 @@
 ---
-title: "Regeling werkzaamheden, administratieve voorschriften en kosten eigenrisicodragen ZW"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 22 december 2009, IVV/I/09/27239, houdende regels inzake werkzaamheden, administratieve voorschriften en kosten eigenrisicodragen Ziektewet (Regeling werkzaamheden, administratieve voorschriften en kosten eigenrisicodragen ZW)"
 identifier: "BWBR0027022"
-categorie: "Overig"
-publicatiedatum: 2024-04-01
-laatste_update: 2024-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027022"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-04-01"
+last_updated: "2024-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027022"
+soort: "ministeriele-regeling"
+stam_id: "10366903"
+version_id: "25095562"
+internal_id: "C35888481"
+label_id: "10341944"
+dtd_version: "2.0"
+original_entry_into_force: "2018-06-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027022/2024-04-01/0"
+intitule_bron: "Stcrt.2009-20617"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-12-22"
+intitule_published: "2009-12-31"
+intitule_in_force: "2009-12-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-35457"
+original_signed_date: "2018-06-19"
+original_published_date: "2018-06-27"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2018-35457"
+entry_into_force_date: "2018-06-19"
+jci_1_3: "jci1.3:c:BWBR0027022&z=2024-04-01&g=2024-04-01"
+jci_1_0: "1.0:c:BWBR0027022&g=2024-04-01"
+citeertitel_status: "officieel"
+short_title: "Regeling werkzaamheden, administratieve voorschriften en kosten eigenrisicodragen ZW"
+signed_date: "2018-06-19"
+entry_into_force: "2018-06-19"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 22 december 2009, IVV/I/09/27239, houdende regels inzake werkzaamheden, administratieve voorschriften en kosten eigenrisicodragen Ziektewet (Regeling werkzaamheden, administratieve voorschriften en kosten eigenrisicodragen ZW)
 
 Gelet op [artikel 63a, zevende lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63a);
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -22,7 +48,7 @@ In deze regeling wordt verstaan onder:
 
 - b. **UWV:** Uitvoeringsinstituut werknemersverzekeringen.
 
-#### Artikel 2. Toetsing voorstellen voor beslissingen
+##### Artikel 2. Toetsing voorstellen voor beslissingen
 
 1. De eigenrisicodrager legt een voorstel voor een beslissing aan het UWV voor.
 
@@ -40,7 +66,7 @@ In deze regeling wordt verstaan onder:
 
 8. Het UWV maakt de beschikking zo spoedig mogelijk bekend.
 
-#### Artikel 3. Inrichting ziekteverzuimadministratie van eigenrisicodrager; controle op de uitvoering [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) door eigenrisicodrager
+##### Artikel 3. Inrichting ziekteverzuimadministratie van eigenrisicodrager; controle op de uitvoering [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) door eigenrisicodrager
 
 1. De eigenrisicodrager richt zijn ziekteverzuimadministratie als volgt in:
 
@@ -94,17 +120,17 @@ In deze regeling wordt verstaan onder:
 
 12. De overige beschikkingen maakt het UWV zo spoedig mogelijk bekend.
 
-#### Artikel 4. Informatieverstrekking door eigenrisicodrager en UWV met betrekking tot te verrichten werkzaamheden
+##### Artikel 4. Informatieverstrekking door eigenrisicodrager en UWV met betrekking tot te verrichten werkzaamheden
 
 1. De eigenrisicodrager verstrekt de gegevens die nodig zijn voor de uitvoering van de in [artikel 63a, eerste lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63a) genoemde werkzaamheden aan het UWV in de situatie dat het UWV werkzaamheden verricht voor de eigenrisicodrager.
 
 2. Indien een persoon als bedoeld in [artikel 29, tweede lid, onderdelen a, b en c, ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29), die laatstelijk tot de eigenrisicodrager in dienstbetrekking stond, het UWV informatie heeft verstrekt ter nakoming van de verplichting, bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=31), of [artikel 49 van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=49), deelt het UWV die informatie onverwijld mee aan de eigenrisicodrager met inachtneming van de [derde afdeling, paragraaf 2, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&paragraaf=2).
 
-#### Artikel 5. Informatieverstrekking door eigenrisicodrager aan het UWV
+##### Artikel 5. Informatieverstrekking door eigenrisicodrager aan het UWV
 
 Indien de eigenrisicodrager het vermoeden heeft dat een persoon als bedoeld in [artikel 29, tweede lid, onderdelen a, b en c, ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29), die laatstelijk tot hem in dienstbetrekking stond, de verplichting, bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=31), of [artikel 49 van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=49), niet of niet behoorlijk is nagekomen, deelt hij dit onverwijld mee aan het UWV.
 
-#### Artikel 6. Kosten werkzaamheden verricht door het UWV
+##### Artikel 6. Kosten werkzaamheden verricht door het UWV
 
 1. Indien het UWV werkzaamheden als bedoeld in [artikel 63a, eerste lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63) verricht, brengt het UWV de eigenrisicodrager ter zake van deze werkzaamheden per persoon als bedoeld in [artikel 29, tweede lid, onderdelen a, b en c, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29), die laatstelijk tot de eigenrisicodrager in dienstbetrekking stond en per genoemd onderdeel de volgende bedragen in rekening:
 
@@ -120,23 +146,23 @@ Indien de eigenrisicodrager het vermoeden heeft dat een persoon als bedoeld in [
 
 3. Indien het UWV naast het ziekengeld een bedrag aan wettelijke rente heeft betaald wegens het te laat betalen van ziekengeld, brengt het UWV ook de wettelijke rente in rekening bij de eigenrisicodrager.
 
-#### Artikel 7. Schadevergoeding, griffierecht en proceskosten na onrechtmatig gebleken beschikking
+##### Artikel 7. Schadevergoeding, griffierecht en proceskosten na onrechtmatig gebleken beschikking
 
 1. Indien blijkt dat een door het UWV genomen beschikking onrechtmatig is en op grond van een rechterlijke uitspraak een schadevergoeding verschuldigd is, betaalt het UWV de schadevergoeding.
 
 2. Indien de kosten, bedoeld in [artikel 7:15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:15), of [artikel 8:75, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:75) of het griffierecht bedoeld in [art. 8:74, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:74) moeten worden vergoed, betaalt het UWV die vergoeding.
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling werkzaamheden, administratieve voorschriften en kosten eigenrisicodragen ZW.
 
-#### Artikel 9. Inwerkingtreding
+##### Artikel 9. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2010.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 7a. Grondslag
+##### Artikel 7a. Grondslag
 
 Deze regeling berust op [artikel 63a, negende lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63a).
 

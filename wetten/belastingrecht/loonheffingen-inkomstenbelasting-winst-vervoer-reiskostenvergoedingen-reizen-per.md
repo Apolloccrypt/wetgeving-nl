@@ -1,13 +1,38 @@
 ---
 title: "Loonheffingen, inkomstenbelasting, winst, vervoer; reiskostenvergoedingen, reizen per auto en openbaar vervoer"
 identifier: "BWBR0047176"
-categorie: "Belastingrecht"
-publicatiedatum: 2022-09-24
-laatste_update: 2022-09-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047176"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2022-09-24"
+last_updated: "2022-09-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047176"
+soort: "beleidsregel"
+stam_id: "16489223"
+version_id: "28899792"
+internal_id: "C40919171"
+label_id: "16411414"
+dtd_version: "2.0"
+original_entry_into_force: "2022-09-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047176/2022-09-24/0"
+intitule_bron: "Stcrt.2022-24901"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-09-06"
+intitule_published: "2022-09-23"
+intitule_in_force: "2022-09-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-24901"
+original_signed_date: "2022-09-06"
+original_published_date: "2022-09-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-24901"
+entry_into_force_date: "2022-09-24"
+jci_1_3: "jci1.3:c:BWBR0047176&z=2022-09-24&g=2022-09-24"
+jci_1_0: "1.0:c:BWBR0047176&g=2022-09-24"
+citeertitel_status: "redactioneel"
+signed_date: "2022-09-06"
+entry_into_force: "2022-09-24"
 ---
-
 # Loonheffingen, inkomstenbelasting, winst, vervoer; reiskostenvergoedingen, reizen per auto en openbaar vervoer
 
 De Staatssecretaris van Financiën heeft het volgende besloten.

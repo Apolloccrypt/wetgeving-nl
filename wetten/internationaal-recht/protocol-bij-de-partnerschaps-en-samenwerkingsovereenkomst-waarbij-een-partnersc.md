@@ -1,13 +1,32 @@
 ---
 title: "Protocol bij de Partnerschaps- en samenwerkingsovereenkomst waarbij een partnerschap tot stand wordt gebracht tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Kirgizische Republiek anderzijds, in verband met de toetreding van de Republiek Kroatië tot de Europese Unie"
 identifier: "BWBV0006731"
-categorie: "Internationaal recht"
-publicatiedatum: 2013-07-01
-laatste_update: 1995-02-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006731"
+country: "nl"
+rank: "verdrag"
+publication_date: "2013-07-01"
+last_updated: "1995-02-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006731"
+soort: "verdrag"
+stam_id: "10005439923"
+version_id: "10005889512"
+internal_id: "C10009395471"
+label_id: "10005422504"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006731/2013-07-01/0"
+intitule_bron: "Trb.2018-52"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2018-04-20"
+intitule_status: "nogniet"
+original_publication: "Trb.2018-52"
+original_published_date: "2018-04-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2018-52"
+jci_1_3: "jci1.3:c:BWBV0006731&z=2013-07-01&g=2013-07-01"
+jci_1_0: "1.0:c:BWBV0006731&g=2013-07-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2018-04-20"
 ---
-
 # Protocol bij de Partnerschaps- en samenwerkingsovereenkomst waarbij een partnerschap tot stand wordt gebracht tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Kirgizische Republiek anderzijds, in verband met de toetreding van de Republiek Kroatië tot de Europese Unie
 
 Het Koninkrijk België,
@@ -92,19 +111,19 @@ Rekening houdende met de toetreding van de Republiek Kroatië tot de Unie en tot
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 De Republiek Kroatië wordt partij bij de [partnerschaps- en samenwerkingsovereenkomst tussen de Europese Gemeenschappen en hun lidstaten en de Kirgizische Republiek](https://wetten.overheid.nl/jci1.3:c:BWBV0001309). De Republiek Kroatië keurt op dezelfde wijze als de andere lidstaten de teksten goed van de [overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001309) en van de gemeenschappelijke verklaringen, de verklaringen en de briefwisselingen die aan de op dezelfde datum ondertekende Slotakte zijn gehecht.
 
-#### Artikel 2
+##### Artikel 2
 
 Na de ondertekening van dit protocol doet de Unie te zijner tijd de tekst van de [overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001309) in de Kroatische taal aan de lidstaten en aan de Kirgizische Republiek toekomen. Onder voorbehoud van de inwerkingtreding van dit protocol wordt de in de eerste zin van dit artikel bedoelde tekst authentiek op dezelfde voorwaarden als de teksten van de overeenkomst in de Bulgaarse, de Deense, de Duitse, de Engelse, de Estse, de Finse, de Franse, de Griekse, de Hongaarse, de Italiaanse, de Letse, de Litouwse, de Maltese, de Nederlandse, de Poolse, de Portugese, de Roemeense, de Sloveense, de Slowaakse, de Spaanse, de Tsjechische, de Zweedse, de Kirgizische en de Russische taal.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit protocol maakt een integrerend deel uit van de [overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001309).
 
-#### Artikel 4
+##### Artikel 4
 
 1. Dit protocol wordt door de partijen goedgekeurd overeenkomstig hun eigen procedure, en de partijen stellen elkaar in kennis van de voltooiing van de daartoe vereiste procedures.
 
@@ -112,7 +131,7 @@ Dit protocol maakt een integrerend deel uit van de [overeenkomst](https://wetten
 
 3. Dit protocol is in afwachting van zijn inwerkingtreding voorlopig van toepassing met ingang van 1 juli 2013.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit protocol wordt opgesteld in twee exemplaren in de Bulgaarse, de Deense, de Duitse, de Engelse, de Estse, de Finse, de Franse, de Griekse, de Hongaarse, de Italiaanse, de Kroatische, de Letse, de Litouwse, de Maltese, de Nederlandse, de Poolse, de Portugese, de Roemeense, de Sloveense, de Slowaakse, de Spaanse, de Tsjechische, de Zweedse, de Kirgizische en de Russische taal, waarbij alle teksten gelijkelijk authentiek zijn.
 

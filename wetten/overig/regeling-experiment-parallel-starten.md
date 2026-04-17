@@ -1,13 +1,38 @@
 ---
 title: "Regeling experiment parallel starten"
 identifier: "BWBR0023609"
-categorie: "Overig"
-publicatiedatum: 2008-03-13
-laatste_update: 2008-03-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0023609"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2008-03-13"
+last_updated: "2008-03-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023609"
+soort: "ministeriele-regeling"
+stam_id: "9447223"
+version_id: "15213132"
+internal_id: "C20730911"
+label_id: "9424754"
+dtd_version: "2.0"
+original_entry_into_force: "2008-03-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023609/2008-03-13/0"
+intitule_bron: "Stcrt.2008-50"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-03-09"
+intitule_published: "2008-03-11"
+intitule_in_force: "2008-03-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-50"
+original_signed_date: "2008-03-09"
+original_published_date: "2008-03-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-50-p20-SC84882"
+entry_into_force_date: "2008-03-13"
+jci_1_3: "jci1.3:c:BWBR0023609&z=2008-03-13&g=2008-03-13"
+jci_1_0: "1.0:c:BWBR0023609&g=2008-03-13"
+citeertitel_status: "redactioneel"
+signed_date: "2008-03-09"
+entry_into_force: "2008-03-13"
 ---
-
 # Regeling experiment parallel starten
 
 Handelende in overeenstemming met de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
@@ -16,7 +41,7 @@ Gelet op [artikel 8.23a, eerste lid, van de Wet luchtvaart](https://wetten.overh
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -36,15 +61,15 @@ In deze regeling wordt verstaan onder:
 
 - h. SID: Standard Instrument Departure, vertrekprocedure die de piloot middels een code in de boordcomputer invoert waardoor het vliegtuig die procedure volgt vanaf de startbaan, ook wel: uitvliegroute.
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 Het experiment beoogt gedurende het gebruiksjaar 2008, te onderzoeken of de nieuwe SID’s vanaf de Zwanenburgbaan, zoals deze zijn opgenomen in het ontwerp-LVB, onder alle condities (baan- en weersonafhankelijk) veilig kunnen worden gevlogen teneinde gelijktijdig starten vanaf de Polderbaan en de Zwanenburgbaan op basis van SID’s mogelijk te maken. Hiervan wordt een gunstig effect op de hinderbeleving verwacht.
 
-#### Artikel 3. Luchtverkeerwegen
+##### Artikel 3. Luchtverkeerwegen
 
 Voor de duur van het experiment wordt vrijstelling verleend van de [artikelen 3.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&artikel=3.1.1), en [3.1.3, eerste lid, van het LVB](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&artikel=3.1.3), met betrekking tot de luchtverkeerwegen die zijn aangewezen op [kaart 1/21 van bijlage 1 van het LVB](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&bijlage=1).
 
-#### Artikel 4. Grenswaarden
+##### Artikel 4. Grenswaarden
 
 In plaats van de grenswaarden, genoemd in [bijlage 2 van het LVB](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&bijlage=2) gelden tijdens dit experiment voor het gedeelte van het gebruiksjaar 2008 vanaf 13 maart 2008 voor de in de onderstaande tabel genoemde handhavingspunten de volgende grenswaarden:
 
@@ -116,17 +141,17 @@ In plaats van de grenswaarden, genoemd in [bijlage 3 van het LVB](https://wetten
 | 24 | 106.000 | 471.050 | 46,18 | (46,18) |
 | 25 | 100.475 | 472.525 | 48,81 | (49,81) |
 
-#### Artikel 5. Uitvoering
+##### Artikel 5. Uitvoering
 
 Het experiment houdt in dat minimaal 10.000 vertrekkende vluchten vanaf de Zwanenburgbaan via SID’s naar het noorden en het oosten vliegen. Op het moment dat deze vluchten plaatsvinden wordt er niet van de Polderbaan gevlogen. In deze tijdsperiode zullen daarom de vertrekkende vluchten naar het westen ook vanaf de Zwanenburgbaan plaatsvinden.
 
-#### Artikel 6. Gevolgen
+##### Artikel 6. Gevolgen
 
 Als gevolg van het experiment zal het aantal gehinderden in eerste instantie tijdelijk toenemen, maar het uiteindelijke resultaat van het vliegen op basis van SID’s van de Zwanenburgbaan bij gelijktijdig starten van de Polderbaan zal naar verwachting per saldo afname van de hinder opleveren. Dit mede doordat minder vaak zal hoeven worden uitgeweken naar de Buitenveldertbaan.
 
 Gedurende het experiment zullen de effecten regelmatig worden gemonitord.
 
-#### Artikel 7. Criteria
+##### Artikel 7. Criteria
 
 De criteria die onderdeel vormen van de afweging en de beoordeling of het experiment leidt tot het beoogde doel:
 
@@ -140,15 +165,15 @@ De criteria die onderdeel vormen van de afweging en de beoordeling of het experi
 
 - –. het effect op de ruimtelijke contouren zoals vastgelegd in het [Luchthavenindelingbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014329) en op bestaande verstedelijking en nieuwbouwplannen.
 
-#### Artikel 8. Onvoorziene gevallen
+##### Artikel 8. Onvoorziene gevallen
 
 In onvoorziene gevallen kunnen op advies van de belanghebbenden de Minister van Verkeer en Waterstaat en de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer overgaan tot het bijsturen, opschorten of vroegtijdig stopzetten van het experiment.
 
-#### Artikel 9. Termijn experiment
+##### Artikel 9. Termijn experiment
 
 De startdatum van dit experiment is 13 maart 2008 en het eindigt aan het einde van het gebruiksjaar, op 31 oktober 2008.
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 13 maart 2008.
 

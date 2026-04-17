@@ -1,20 +1,45 @@
 ---
 title: "Bestuursreglement Toelatingsorganisatie Kwaliteitsborging Bouw"
 identifier: "BWBR0047074"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-08-27
-laatste_update: 2022-08-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047074"
+country: "nl"
+rank: "zbo"
+publication_date: "2022-08-27"
+last_updated: "2022-08-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047074"
+soort: "zbo"
+stam_id: "16461783"
+version_id: "28841092"
+internal_id: "C40838791"
+label_id: "16384614"
+dtd_version: "2.0"
+original_entry_into_force: "2022-08-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047074/2022-08-27/0"
+intitule_bron: "Stcrt.2022-22324"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-04-22"
+intitule_published: "2022-08-26"
+intitule_in_force: "2022-08-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-22324"
+original_signed_date: "2022-04-22"
+original_published_date: "2022-08-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-22324"
+entry_into_force_date: "2022-08-27"
+jci_1_3: "jci1.3:c:BWBR0047074&z=2022-08-27&g=2022-08-27"
+jci_1_0: "1.0:c:BWBR0047074&g=2022-08-27"
+citeertitel_status: "redactioneel"
+signed_date: "2022-04-22"
+entry_into_force: "2022-08-27"
 ---
-
 # Bestuursreglement Toelatingsorganisatie Kwaliteitsborging Bouw
 
 **Besluit van het Bestuur van de Toelatingsorganisatie Kwaliteitsborging Bouw van 22 april 2022, houdende vaststelling van het bestuursreglement Toelatingsorganisatie Kwaliteitsborging Bouw op grond van artikel 7ao, eerste lid, van de Woningwet, goedgekeurd door de Minister voor Volkshuisvesting en Ruimtelijke Ordening op grond van artikel 11, eerste lid, Kaderwet zelfstandige bestuursorganen, bij brief van 6 juli 2022.**
 
 ### I. Algemeen
 
-#### Artikel 1. Begrippen en terminologie
+##### Artikel 1. Begrippen en terminologie
 
 Dit bestuursreglement verstaat onder:
 
@@ -42,7 +67,7 @@ Dit bestuursreglement verstaat onder:
 
 ### II. Samenstelling Bestuur
 
-#### Artikel 2. Samenstelling Bestuur
+##### Artikel 2. Samenstelling Bestuur
 
 1. Het Bestuur bestaat uit een Voorzitter en ten hoogste twee andere leden.
 
@@ -52,7 +77,7 @@ Dit bestuursreglement verstaat onder:
 
 ### III. Bevoegdheden, verantwoordelijkheden en taken
 
-#### Artikel 3. Bevoegdheden en verantwoordelijkheden
+##### Artikel 3. Bevoegdheden en verantwoordelijkheden
 
 1. Bij het Bestuur berusten alle taken en bevoegdheden die krachtens de wet en regelgeving en krachtens mandaatbesluit aan hem worden opgedragen.
 
@@ -78,7 +103,7 @@ Dit bestuursreglement verstaat onder:
 
 4. Het Bestuur stelt een mandaatbesluit op ten aanzien van de bevoegdheden van de medewerkers van de Dienst TloKB en publiceert dit besluit.
 
-#### Artikel 4. Taken
+##### Artikel 4. Taken
 
 1. Het Bestuur is belast met het besturen van de Toelatingsorganisatie kwaliteitsborging bouw. Dit houdt onder meer in dat het Bestuur verantwoordelijk is voor de uitvoering van alle taken en bevoegdheden die krachtens de wet en regelgeving en krachtens mandaatbesluit aan hem worden opgedragen.
 
@@ -90,17 +115,17 @@ Dit bestuursreglement verstaat onder:
 
 5. De Voorzitter wordt bij zijn afwezigheid of ontstentenis vervangen door de plaatsvervangend voorzitter. Hetgeen in dit Reglement omtrent de Voorzitter is bepaald, is mede van toepassing op de plaatsvervangend voorzitter wanneer deze de Voorzitter vervangt.
 
-#### Artikel 5. Vertrouwelijkheid
+##### Artikel 5. Vertrouwelijkheid
 
 De Bestuursleden nemen omtrent alle informatie en documentatie die zij in het kader van hun functie verkrijgen en die als vertrouwelijk is aangemerkt, dan wel waarvan de vertrouwelijkheid uit de aard der informatie voortvloeit of kan worden vermoed, strikte geheimhouding in acht, ook na hun aftreden.
 
 ### IV. Vergaderingen en werkwijze
 
-#### Artikel 6. Vergaderingen en werkwijze
+##### Artikel 6. Vergaderingen en werkwijze
 
 Het Bestuur vergadert conform het vergaderreglement. Derden kunnen slechts op uitnodiging van het Bestuur of de Voorzitter geheel of gedeeltelijk een vergadering van het Bestuur bijwonen.
 
-#### Artikel 7. Verschoning
+##### Artikel 7. Verschoning
 
 1. Een Bestuurslid heeft het recht van verschoning indien hij van mening is dat zijn onpartijdig­heid bij een bepaalde aangelegenheid in het geding zou kunnen zijn. Indien hij van het recht van verschoning gebruik maakt, doet hij hiervan mededeling aan de andere Bestuursleden.
 
@@ -110,7 +135,7 @@ Het Bestuur vergadert conform het vergaderreglement. Derden kunnen slechts op ui
 
 ### V. Transparantie, verantwoording en klachtenregeling
 
-#### Artikel 8. Transparantie en verantwoording
+##### Artikel 8. Transparantie en verantwoording
 
 1. De Bestuursleden voorzien het Bestuur -gevraagd en ongevraagd, en tijdig- van alle informatie over de hun toebedeelde taken en verantwoordelijkheden die nodig is voor een goede taakvervulling door het Bestuur.
 
@@ -124,13 +149,13 @@ Het Bestuur vergadert conform het vergaderreglement. Derden kunnen slechts op ui
 
 6. Het Bestuur zendt het jaarverslag naar de minister en naar beide kamers der Staten-Generaal.
 
-#### Artikel 9. Klachtenregeling
+##### Artikel 9. Klachtenregeling
 
 Het Bestuur stelt, met in achtneming van [hoofdstuk g van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9), een klachtenregeling vast, op grond waarvan eenieder het recht heeft om over de wijze waarop de Toelatingsorganisatie kwaliteitsborging bouw zich in een bepaalde aangelegenheid jegens hem of een ander heeft gedragen, een klacht in te dienen bij de Toelatingsorganisatie kwaliteitsborging bouw.
 
 ### VI. Adviesorgaan
 
-#### Artikel 10. Raad van advies
+##### Artikel 10. Raad van advies
 
 1. Het Bestuur stelt op basis van [artikel 19, lid 2, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=19) een Raad van advies in.
 
@@ -156,7 +181,7 @@ Het Bestuur stelt, met in achtneming van [hoofdstuk g van de Algemene wet bestuu
 
 ### VII. Reglementswijzigingen en slotbepaling
 
-#### Artikel 11. Wijziging Reglement
+##### Artikel 11. Wijziging Reglement
 
 1. Wijziging van dit Reglement geschiedt in overeenstemming met de besluitvormingsprocedure zoals bepaald in het vergaderreglement.
 
@@ -164,7 +189,7 @@ Het Bestuur stelt, met in achtneming van [hoofdstuk g van de Algemene wet bestuu
 
 3. Een wijziging in dit Reglement wordt gepubliceerd in de Staatscourant.
 
-#### Artikel 12. Slotbepaling
+##### Artikel 12. Slotbepaling
 
 1. In alle gevallen waarin dit Reglement niet voorziet, en in alle geschillen over de uitleg van dit Reglement, beslist de Voorzitter.
 

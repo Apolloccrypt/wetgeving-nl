@@ -1,13 +1,37 @@
 ---
 title: "Arrest Hoge Raad inzake belastbaarheid vergoeding parkeer-, tol- en veergelden"
 identifier: "BWBR0007704"
-categorie: "Bestuursrecht"
-publicatiedatum: 1995-12-18
-laatste_update: 1995-12-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007704"
+country: "nl"
+rank: "circulaire"
+publication_date: "1995-12-18"
+last_updated: "1995-12-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007704"
+soort: "circulaire"
+stam_id: "6301223"
+version_id: "10966432"
+internal_id: "C14862511"
+label_id: "6290034"
+original_entry_into_force: "1995-12-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007704/1995-12-18/0"
+intitule_bron: "Stcrt.1995-245"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-12-08"
+intitule_published: "1995-12-18"
+intitule_in_force: "1995-12-18"
+intitule_status: "goed"
+original_publication: "Stcrt.1995-245"
+original_signed_date: "1995-12-08"
+original_published_date: "1995-12-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1995-245-p11-SC4580"
+entry_into_force_date: "1995-12-18"
+jci_1_3: "jci1.3:c:BWBR0007704&z=1995-12-18&g=1995-12-18"
+jci_1_0: "1.0:c:BWBR0007704&g=1995-12-18"
+citeertitel_status: "redactioneel"
+signed_date: "1995-12-08"
+entry_into_force: "1995-12-18"
 ---
-
 # Arrest Hoge Raad inzake belastbaarheid vergoeding parkeer-, tol- en veergelden
 
 Circulaire aan de Ministers

@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst tot oprichting van de Square Kilometre Array Observatory"
 identifier: "BWBV0006802"
-categorie: "Internationaal recht"
-publicatiedatum: 2021-01-15
-laatste_update: 2021-01-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006802"
+country: "nl"
+rank: "verdrag"
+publication_date: "2021-01-15"
+last_updated: "2021-01-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006802"
+soort: "verdrag"
+stam_id: "10005471463"
+version_id: "10005946392"
+internal_id: "C10009777221"
+label_id: "10005454884"
+dtd_version: "2.0"
+original_entry_into_force: "2021-01-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006802/2021-01-15/0"
+intitule_bron: "Trb.2019-49"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2019-03-22"
+intitule_in_force: "2021-01-12"
+intitule_status: "goed"
+original_publication: "Trb.2019-49"
+original_published_date: "2019-03-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2019-49"
+entry_into_force_date: "2021-01-15"
+jci_1_3: "jci1.3:c:BWBV0006802&z=2021-01-15&g=2021-01-15"
+jci_1_0: "1.0:c:BWBV0006802&g=2021-01-15"
+citeertitel_status: "redactioneel"
+entry_into_force: "2021-01-15"
 ---
-
 # Overeenkomst tot oprichting van de Square Kilometre Array Observatory
 
 De partijen bij deze Overeenkomst,
@@ -30,7 +52,7 @@ Toegewijd aan een organisatie waar diversiteit en gelijkheid worden bevorderd en
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing en uitvoering van deze Overeenkomst en de Protocollen daarbij wordt verstaan onder:
 
@@ -58,7 +80,7 @@ Voor de toepassing en uitvoering van deze Overeenkomst en de Protocollen daarbij
 
 - l. „Financieringsschema”, een schema dat financiële bijdragen en voorwaarden van leden en geassocieerde leden voorschrijft voor de bouw en operationele activiteiten van de SKAO.
 
-#### Artikel 2. Oprichting en status van de SKAO
+##### Artikel 2. Oprichting en status van de SKAO
 
 1. De SKAO wordt hierbij opgericht als een internationale organisatie met rechtspersoonlijkheid. De organisatie beschikt over de bevoegdheid die nodig is voor het verrichten van haar taken en het verwezenlijken van haar doelstellingen, waaronder:
 
@@ -72,19 +94,19 @@ Voor de toepassing en uitvoering van deze Overeenkomst en de Protocollen daarbij
 
 3. De SKAO sluit overeenkomsten met het land van het hoofdkantoor en de gastlanden over de vestiging van de SKAO en het SKA-project. Deze overeenkomsten worden met eenparigheid van stemmen door de Raad goedgekeurd.
 
-#### Artikel 3. Doel van de SKAO
+##### Artikel 3. Doel van de SKAO
 
 1. Het doel van de SKAO is het faciliteren en bevorderen van een wereldwijde samenwerking op het gebied van radioastronomie ten behoeve van het uitvoeren van transformationele wetenschap. Het eerste doel van deze wereldwijde samenwerking is de uitvoering van het SKA-project.
 
 2. Afhankelijk van een besluit van de Raad kan de SKAO andere projecten starten of bijdragen aan andere projecten, dan het SKA-project, die verband houden met radioastronomie, technologie en de toepassingen daarvan. Deelname van leden en geassocieerde leden aan dergelijke andere projecten is facultatief.
 
-#### Artikel 4. Voorrechten en immuniteiten
+##### Artikel 4. Voorrechten en immuniteiten
 
 1. Alle leden kennen de voorrechten en immuniteiten toe als omschreven in het Protocol betreffende de voorrechten en immuniteiten van het Square Kilometre Array Observatory, dat als [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0006802&bijlage=A&z=2021-01-15&g=2021-01-15) wordt gehecht aan en een integrerend onderdeel vormt van deze Overeenkomst.
 
 2. Alle voorrechten en immuniteiten zijn uitsluitend bedoeld om de officiële werkzaamheden van de SKAO en de verwezenlijking van de doelstellingen te faciliteren.
 
-#### Artikel 5. SKA-project
+##### Artikel 5. SKA-project
 
 1. Het SKA-project wordt zodanig ingericht dat het geschikt is voor transformationele wetenschap, met een combinatie van gevoeligheid, scheidend vermogen en waarneemsnelheid die de huidige geavanceerde instrumenten bij relevante radiofrequenties ver overtreft.
 
@@ -94,7 +116,7 @@ Voor de toepassing en uitvoering van deze Overeenkomst en de Protocollen daarbij
 
 4. De volgende fasen van het SKA-project beginnen na goedkeuring door de Raad. Deelname aan de bouw van deze volgende fasen is facultatief. Financiële bijdragen voor de uitvoering van een volgende fase worden vastgesteld overeenkomstig het Financieel Protocol van het Square Kilometre Array Observatory.
 
-#### Artikel 6. Lidmaatschap en andere samenwerkingsvormen
+##### Artikel 6. Lidmaatschap en andere samenwerkingsvormen
 
 1. De partijen bij deze Overeenkomst zijn de leden van de SKAO. Het lidmaatschap staat open voor staten en internationale organisaties.
 
@@ -104,11 +126,11 @@ Voor de toepassing en uitvoering van deze Overeenkomst en de Protocollen daarbij
 
 4. De Raad kan met eenparigheid van stemmen besluiten andere entiteiten, zoals staten, internationale organisaties en instellingen, uit te nodigen met de SKAO samen te werken. De SKAO kan daartoe overeenkomsten en met hen sluiten. Deze overeenkomsten en regelingen dienen bij besluit van de Raad te worden goedgekeurd.
 
-#### Artikel 7. Organen
+##### Artikel 7. Organen
 
 Het SKAO bestaat uit een Raad en een directeur-generaal, bijgestaan door personeel.
 
-#### Artikel 8. Raad
+##### Artikel 8. Raad
 
 1. De Raad is het bestuursorgaan van de SKAO. Elk lid wordt in de Raad vertegenwoordigd door maximaal twee vertegenwoordigers, van wie er één de stemgerechtigde vertegenwoordiger is die gemachtigd is namens hem te handelen en te stemmen. Vertegenwoordigers kunnen zich laten bijstaan door adviseurs.
 
@@ -150,7 +172,7 @@ Het SKAO bestaat uit een Raad en een directeur-generaal, bijgestaan door persone
 
 13. De Raad richt een financiële commissie op waarin elk lid vertegenwoordigd is. De Raad zal andere commissies oprichten die noodzakelijk zijn voor de verwezenlijking van het doel van de SKAO. De Raad stelt het mandaat en de samenstelling van deze commissies vast.
 
-#### Artikel 9. Directeur-generaal en personeel
+##### Artikel 9. Directeur-generaal en personeel
 
 1. De Raad benoemt een directeur-generaal voor bepaalde tijd en kan de benoeming te allen tijde beëindigen overeenkomstig het personeelsreglement, dat bij besluit van de Raad wordt goedgekeurd. De directeur-generaal is de hoogste functionaris en de wettelijke vertegenwoordiger van SKAO. De directeur-generaal brengt verslag uit aan de Raad.
 
@@ -176,7 +198,7 @@ Het SKAO bestaat uit een Raad en een directeur-generaal, bijgestaan door persone
 
 4. De directeur-generaal en het personeel nemen het internationale karakter van de SKAO in acht en vervullen hun taken uitsluitend in het belang van de SKAO.
 
-#### Artikel 10. Financiële aangelegenheden
+##### Artikel 10. Financiële aangelegenheden
 
 1. De SKAO voert zijn financiële zaken uit in overeenstemming met het Financieel Protocol van de Square Kilometre Array Observatory, dat als [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0006802&bijlage=B&z=2021-01-15&g=2021-01-15) wordt gehecht aan en een integrerend deel vormt van deze Overeenkomst.
 
@@ -186,7 +208,7 @@ Het SKAO bestaat uit een Raad en een directeur-generaal, bijgestaan door persone
 
 4. De leden en geassocieerde leden hebben eenaandeel in het SKA-project dat evenredig is met hun cumulatieve toegezegde financiële bijdragen aan het SKA-project.
 
-#### Artikel 11. Intellectuele-eigendomsrechten
+##### Artikel 11. Intellectuele-eigendomsrechten
 
 1. De SKAO heeft een intellectueel-eigendomsbeleid dat door de Raad met eenparigheid van stemmen is goedgekeurd. Voor elke wijziging van het intellectuele-eigendomsbeleid door de Raad is een tweederdemeerderheid vereist, met uitzondering van de bepalingen die in het beleid zijn aangemerkt als bepalingen waarvoor eenparigheid van stemmen vereist is.
 
@@ -196,7 +218,7 @@ Het SKAO bestaat uit een Raad en een directeur-generaal, bijgestaan door persone
 
 4. De Raad kan besluiten toegang te verlenen tot nieuwe intellectuele eigendom door middel van het verlenen van niet-exclusieve, wereldwijde, royaltyvrije, eeuwigdurende en onherroepelijke sublicenties aan SKA-bijdragers, op grond waarvan zij deze innovatie- en werkproducten mogen gebruiken, onder voorbehoud van het verkrijgen van de toepasselijke licenties voor de bestaande intellectuele eigendomsrechten in de achtergrond en de intellectuele-eigendomsrechten van derde partijen, voor SKA-projectdoeleinden en andere niet-commerciële onderzoeks- en onderwijsdoeleinden, mits deze sublicenties geen betrekking hebben op activiteiten die door sublicentiehouders in concurrentie met de eigenaar van de nieuwe intellectuele eigendom worden ondernomen.
 
-#### Artikel 12. Inkoop
+##### Artikel 12. Inkoop
 
 1. Het hoofddoel van de inkoop is het succesvol verwerven van de goederen, werken en diensten die nodig zijn om het SKA-project tot stand te brengen door middel van financiële bijdragen in contanten, bijdragen in natura of een combinatie van beide, en tegelijkertijd het risico doeltreffend te beheren.
 
@@ -204,7 +226,7 @@ Het SKAO bestaat uit een Raad en een directeur-generaal, bijgestaan door persone
 
 3. Inkoop wordt uitgevoerd op basis van de principes van billijke vergoeding voor verrichte werkzaamheden, billijkheid, transparantie en concurrentievermogen.
 
-#### Artikel 13. Operationele activiteiten en toegang
+##### Artikel 13. Operationele activiteiten en toegang
 
 1. De SKAO voert zijn operationele activiteiten uit in overeenstemming met het door de Raad met eenparigheid van stemmen goedgekeurde operationele beleid. Voor elke wijziging van het operationele beleid door de Raad is een tweederdemeerderheid vereist, met uitzondering van de bepalingen die in het beleid zijn aangemerkt als bepalingen waarvoor eenparigheid van stemmen vereist is.
 
@@ -212,17 +234,17 @@ Het SKAO bestaat uit een Raad en een directeur-generaal, bijgestaan door persone
 
 3. De SKAO hanteert het principe dat de toegang van de leden en geassocieerde leden in verhouding staat tot hun aandeel in het project, tenzij de Raad met eenparigheid van stemmen anders besluit.
 
-#### Artikel 14. Geschillenbeslechting
+##### Artikel 14. Geschillenbeslechting
 
 Elk geschil tussen leden, of tussen een lid of leden en de SKAO, met betrekking tot de uitlegging of toepassing van deze Overeenkomst dat niet via onderhandelingen kan worden beslecht, wordt op verzoek van een van de partijen bij het geschil voorgelegd aan het Permanent Hof van Arbitrage overeenkomstig het desbetreffende arbitragereglement van het Permanent Hof van Arbitrage, tenzij de partijen bij het geschil een andere wijze van beslechting zijn overeengekomen.
 
-#### Artikel 15. Wijzigingen
+##### Artikel 15. Wijzigingen
 
 1. Elk lid dat een wijziging van deze Overeenkomst en de Protocollen daarbij wenst voor te stellen, stelt de directeur-generaal in kennis van zijn voorstel. De directeur-generaal doet deze voorstellen onverwijld aan alle leden toekomen. Na verloop van ten minste drie maanden roept de voorzitter vervolgens een vergadering van de Raad bijeen waar de Raad zal overwegen of de wijziging wordt overgenomen en aanbevolen zal worden aan de leden.
 
 2. De door de Raad aangenomen en aanbevolen wijzigingen treden voor alle leden in werking nadat alle leden deze overeenkomstig hun eigen nationale voorschriften hebben aanvaard. Dergelijke wijzigingen treden in werking dertig dagen nadat de depositaris de laatste kennisgeving van aanvaarding van de voorgestelde wijziging heeft ontvangen.
 
-#### Artikel 16. Opzegging
+##### Artikel 16. Opzegging
 
 1. Tien jaar na de datum van inwerkingtreding van deze Overeenkomst kan elk lid zich te allen tijde uit deze Overeenkomst terugtrekken door de depositaris schriftelijk van zijn opzegging in kennis te stellen. Opzeggen is toegestaan op voorwaarde dat het opzeggend lid aan zijn verplichtingen heeft voldaan, tenzij de Raad besluit van die verplichtingen af te zien.
 
@@ -230,17 +252,17 @@ Elk geschil tussen leden, of tussen een lid of leden en de SKAO, met betrekking 
 
 3. Een opzeggend lid kan geen aanspraak maken op het vermogen van de SKAO of op het bedrag van de financiële bijdragen die het reeds heeft betaald. Een opzeggend lid is niet aansprakelijk voor verplichtingen voortvloeiend uit operationele activiteiten van de SKAO die zijn verricht na het tijdstip waarop de kennisgeving van opzegging door de depositaris werd ontvangen.
 
-#### Artikel 17. Beëindiging en ontbinding
+##### Artikel 17. Beëindiging en ontbinding
 
 1. De Raad kan te allen tijde met eenparigheid van stemmen besluiten deze Overeenkomst te beëindigen. De beëindiging wordt pas van kracht nadat de verplichtingen van de SKAO jegens de gastlanden, met inbegrip van de ontmanteling van de SKA, zijn nagekomen. Zodra deze zijn nagekomen, stelt de Raad de datum vast waarop de beëindiging van kracht wordt. Bij beëindiging wordt de SKAO opgeheven en houdt deze op te bestaan als internationale organisatie. Alle activa worden geliquideerd en alle opbrengsten worden onder de leden verdeeld naar rato van de bijdragen die zij sinds hun toetreding hebben geleverd.
 
 2. De door de SKAO aangegane verplichtingen komen ten laste van de leden naar rato van en ten belope van de financiële bijdragen die zij sinds hun toetreding tot op het moment van het besluit tot beëindiging van het lidmaatschap aan de SKAO verschuldigd zijn geweest. Indien de verplichtingen of aansprakelijkheden van SKAO de totale middelen waarover SKAO op dat moment beschikt, te boven gaan, tracht de Raad met eenparigheid van stemmen de bijdrage van elk lid voor deze verplichting of aansprakelijkheid te verhogen.
 
-#### Artikel 18. Niet-nakoming van verplichtingen
+##### Artikel 18. Niet-nakoming van verplichtingen
 
 Wanneer de Raad besluit dat een lid zijn verplichtingen uit hoofde van deze Overeenkomst, met inbegrip van de betaling van financiële bijdragen, niet is nagekomen, wordt hij door de Raad verzocht deze niet-nakoming te corrigeren. Indien dat lid niet binnen de hem gestelde termijn op het verzoek van de Raad reageert, wordt het stemrecht van dat lid automatisch geschorst. De andere leden van de Raad kunnen besluiten andere maatregelen te nemen die zij in de gegeven omstandigheden passend achten, waaronder een unaniem besluit van de andere leden van de Raad dat het lid niet langer lid is van de SKAO.
 
-#### Artikel 19. Ondertekening, bekrachtiging, aanvaarding, goedkeuring, toetreding en inwerkingtreding
+##### Artikel 19. Ondertekening, bekrachtiging, aanvaarding, goedkeuring, toetreding en inwerkingtreding
 
 1. Deze Overeenkomst staat open voor ondertekening te Rome op 12 maart 2019 en vervolgens bij de depositaris vanaf 13 maart 2019 voor alle hierna genoemde staten:
 
@@ -270,7 +292,7 @@ het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland
 
 4. Voor elke staat of internationale organisatie die zijn of haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding deponeert na de inwerkingtreding van deze Overeenkomst, treedt de Overeenkomst voor die staat of organisatie in werking dertig dagen na de datum van de deponering van zijn of haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
 
-#### Artikel 20. Depositaris
+##### Artikel 20. Depositaris
 
 1. De Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland is de depositaris van deze Overeenkomst.
 
@@ -292,7 +314,7 @@ het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland
 
 De partijen bij de Overeenkomst zijn het volgende overeengekomen:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van dit Protocol wordt verstaan onder:
 
@@ -308,7 +330,7 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 - f. „Immuniteit van rechtsvervolging”, immuniteit van rechtsmacht en immuniteit van maatregelen van tenuitvoerlegging.
 
-#### Artikel 2. Immuniteit van rechtsvervolging
+##### Artikel 2. Immuniteit van rechtsvervolging
 
 Binnen het kader van de officiële werkzaamheden heeft de SKAO immuniteit van rechtsvervolging, behalve:
 
@@ -322,7 +344,7 @@ Binnen het kader van de officiële werkzaamheden heeft de SKAO immuniteit van re
 
 - e. Met betrekking tot een tegenvordering die rechtstreeks verband houdt met een hoofdvordering van de SKAO.
 
-#### Artikel 3. Het terrein
+##### Artikel 3. Het terrein
 
 1. Het terrein is onschendbaar. Eenieder die krachtens enige wettelijke bepaling bevoegd is om een locatie te betreden, oefent die bevoegdheid met betrekking tot het terrein niet uit, tenzij de directeur-generaal of het hoofd van het terrein, aangewezen door de directeur-generaal en handelend namens de directeur-generaal, daartoe toestemming heeft gegeven.
 
@@ -334,11 +356,11 @@ Binnen het kader van de officiële werkzaamheden heeft de SKAO immuniteit van re
 
 5. De archieven, waar zij zich ook bevinden en door wie zij ook worden bewaard, zijn te allen tijde onschendbaar.
 
-#### Artikel 4. Vrijstelling van directe belastingen
+##### Artikel 4. Vrijstelling van directe belastingen
 
 In het kader van de officiële werkzaamheden zijn de SKAO, zijn bezittingen, eigendommen, inkomsten, winsten, verrichtingen en transacties vrijgesteld van alle directe belastingen, met uitzondering van het gedeelte dat een heffing voor specifieke verleende diensten vertegenwoordigt.
 
-#### Artikel 5. Vrijstelling van douanerechten en indirecte belastingen
+##### Artikel 5. Vrijstelling van douanerechten en indirecte belastingen
 
 1. De SKAO is vrijgesteld van belasting over de toegevoegde waarde voor goederen en diensten (met inbegrip van publicaties, voorlichtingsmateriaal en motorvoertuigen) die van aanzienlijke waarde zijn en noodzakelijk zijn voor officiële werkzaamheden. De vrijstelling kan worden verleend op het verkooppunt of door middel van een latere terugbetaling, in overeenstemming met de desbetreffende praktijk van elke lidstaat. Beperkingen op het aantal van belasting over de toegevoegde waarde vrijgestelde motorvoertuigen kunnen worden toegepast, in overeenstemming met de nationale wetgeving en het nationale beleid van een lidstaat.
 
@@ -352,13 +374,13 @@ In het kader van de officiële werkzaamheden zijn de SKAO, zijn bezittingen, eig
 
 6. De lidstaten kunnen hun bijdragen in natura aan de SKAO vrijstellen van belasting over de toegevoegde waarde.
 
-#### Artikel 6. Wederverkoop van goederen
+##### Artikel 6. Wederverkoop van goederen
 
 1. Goederen die op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006802&bijlage=A&artikel=5&z=2021-01-15&g=2021-01-15) zijn verworven of ingevoerd, mogen op het grondgebied van een lidstaat niet worden verkocht, geschonken, verhuurd of anderszins vervreemd, tenzij die lidstaat daarvan vooraf in kennis is gesteld en alle relevante rechten en heffingen zijn betaald en aan alle met die lidstaat overeengekomen voorwaarden is voldaan.
 
 2. De te betalen rechten en heffingen worden door de lidstaat berekend op basis van de tarieven en de waarde van de goederen op de datum waarop zij ter beschikking worden gesteld. De lidstaat verstrekt de SKAO de nodige instructies betreffende de te volgen procedure.
 
-#### Artikel 7. Voorrechten en immuniteiten van het personeel, met inbegrip van de directeur-generaal
+##### Artikel 7. Voorrechten en immuniteiten van het personeel, met inbegrip van de directeur-generaal
 
 1. De directeur-generaal en alle personeelsleden die hun functie in een lidstaat uitoefenen, genieten samen met hun gezinsleden, behalve in de gevallen waarin de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0006802&bijlage=A&artikel=11&z=2021-01-15&g=2021-01-15) bedoelde bevoegde autoriteit deze immuniteit heeft opgeheven, de volgende voorrechten en immuniteiten:
 
@@ -378,7 +400,7 @@ In het kader van de officiële werkzaamheden zijn de SKAO, zijn bezittingen, eig
 
 2. Geen enkele lidstaat is verplicht de in dit artikel, eerste lid, onderdelen b, c, e, f en g, bedoelde voorrechten en immuniteiten uit te breiden tot zijn eigen onderdanen of permanente ingezetenen.
 
-#### Artikel 8. Voorrechten en immuniteiten van vertegenwoordigers
+##### Artikel 8. Voorrechten en immuniteiten van vertegenwoordigers
 
 1. Vertegenwoordigers die hun functie in een lidstaat uitoefenen, genieten de volgende voorrechten en immuniteiten, behalve voor zover deze immuniteit door de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0006802&bijlage=A&artikel=11&z=2021-01-15&g=2021-01-15) bedoelde bevoegde autoriteit in een bepaald geval is opgeheven:
 
@@ -392,19 +414,19 @@ In het kader van de officiële werkzaamheden zijn de SKAO, zijn bezittingen, eig
 
 3. Geen enkele lidstaat is verplicht de in dit artikel, eerste lid, onderdeel c, bedoelde voorrechten en immuniteiten uit te breiden tot zijn eigen onderdanen of permanente ingezetenen.
 
-#### Artikel 9. Deskundigen
+##### Artikel 9. Deskundigen
 
 1. Deskundigen genieten onschendbaarheid ten aanzien van hun officiële papieren en documenten voor zover nodig voor de uitoefening van hun functie namens de SKAO, alsook tijdens reizen in het kader van de uitoefening van hun functie.
 
 2. De lidstaten nemen maatregelen om het vrije verkeer van deskundigen bij de uitoefening van hun taken te faciliteren, overeenkomstig het nationale recht.
 
-#### Artikel 10. Samenwerking met de autoriteiten van de lidstaten
+##### Artikel 10. Samenwerking met de autoriteiten van de lidstaten
 
 1. Onverminderd hun voorrechten en immuniteiten dienen alle personen die uit hoofde van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006802&bijlage=A&artikel=7&z=2021-01-15&g=2021-01-15), [8](https://wetten.overheid.nl/jci1.3:c:BWBV0006802&bijlage=A&artikel=8&z=2021-01-15&g=2021-01-15) en [9](https://wetten.overheid.nl/jci1.3:c:BWBV0006802&bijlage=A&artikel=9&z=2021-01-15&g=2021-01-15) voorrechten en immuniteiten genieten de wet- en regelgeving te eerbiedigen van de lidstaat op wiens grondgebied zij in hun officiële hoedanigheid werkzaam zijn.
 
 2. De SKAO werkt te allen tijde samen met de desbetreffende autoriteiten van de lidstaten teneinde de handhaving van hun wetgeving te vereenvoudigen en misbruik in verband met de voorrechten, immuniteiten en faciliteiten als bedoeld in dit Protocol te voorkomen.
 
-#### Artikel 11. Doel en afstand van voorrechten en immuniteiten
+##### Artikel 11. Doel en afstand van voorrechten en immuniteiten
 
 1. De voorrechten en immuniteiten voorzien in dit Protocol worden niet vastgesteld ten behoeve van het behalen van persoonlijk voordeel door de personen aan wie zij worden verleend. Zij hebben uitsluitend tot doel het onbelemmerd functioneren van de SKAO en de volledige onafhankelijkheid van de personen aan wie zij worden toegekend, te waarborgen.
 
@@ -424,7 +446,7 @@ Wensend een beleidskader te bieden waarbinnen alle financiële transacties en an
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van dit Protocol wordt verstaan onder:
 
@@ -432,11 +454,11 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 - b. „Financiële regels”, alle regels, processen en procedures waarmee de vereisten van dit Financieel Protocol worden uitgevoerd, en die van tijd tot tijd door de Raad worden goedgekeurd.
 
-#### Artikel 2. Financieel beheer
+##### Artikel 2. Financieel beheer
 
 De SKAO volgt de principes van een gedegen financieel beheer, efficiency, transparantie en verantwoording bij het plannen en beheren van financiële middelen.
 
-#### Artikel 3. Financieringsschema
+##### Artikel 3. Financieringsschema
 
 1. Elk financieringsschema wordt met eenparigheid van stemmen door de Raad goedgekeurd.
 
@@ -452,7 +474,7 @@ De SKAO volgt de principes van een gedegen financieel beheer, efficiency, transp
 
 7. Leden en geassocieerde leden kunnen naast de bijdragen die voorzien zijn in het financieringsschema ook vrijwillige bijdragen doen.
 
-#### Artikel 4. Herzien en wijzigen van een financieringsschema
+##### Artikel 4. Herzien en wijzigen van een financieringsschema
 
 1. De Raad kan de financieringsschema’s herzien met het oog op een eventuele wijziging ervan, indien nodig, in overeenstemming met het financieel reglement.
 
@@ -462,13 +484,13 @@ De SKAO volgt de principes van een gedegen financieel beheer, efficiency, transp
 
 4. Een herziening of wijziging van een financieringsschema mag niet leiden tot een wijziging van de door een lid of geassocieerd lid te leveren financiële bijdragen, tenzij dat lid of geassocieerd lid daarmee instemt.
 
-#### Artikel 5. Deelname aan het project
+##### Artikel 5. Deelname aan het project
 
 1. Overeenkomstig [artikel 10, vierde lid, van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0006802&artikel=10&z=2021-01-15&g=2021-01-15) worden regels en voorschriften betreffende de aandeelbasis van projectdeelname bij besluit van de Raad goedgekeurd.
 
 2. Het aandeel van de financiële bijdragen van de leden en geassocieerde leden aan de werkzaamheden, met inbegrip van de kosten voor werkzaamheden, upgrades en ontmanteling, is gelijk aan het aandeel van de financiële bijdragen aan de bouw. Financiële bijdragen die tot gevolg hebben dat het proportionele aandeel voor de bouw en de werkzaamheden ongelijk is, en de wijze waarop zij worden verleend, zijn slechts toegestaan indien de Raad daarmee bij besluit heeft ingestemd.
 
-#### Artikel 6. Goedkeuring van de begroting
+##### Artikel 6. Goedkeuring van de begroting
 
 1. Voor de goedkeuring van de begroting door de Raad is een dubbele meerderheid vereist.
 
@@ -476,13 +498,13 @@ De SKAO volgt de principes van een gedegen financieel beheer, efficiency, transp
 
 3. Gewogen stemmen wordt gedefinieerd als het gebruik van stemrechten door elk lid voor de besluitvorming. Het stemrecht wordt bepaald door het huidige aandeel van elk lid in het project, zoals voorgeschreven in het Financieringsschema.
 
-#### Artikel 7. Gastlanden
+##### Artikel 7. Gastlanden
 
 1. Activa en infrastructuur die door een gastland ter beschikking worden gesteld overeenkomstig een gastlandovereenkomst tussen een gastland en de SKAO, en die in SKA-1 of een latere fase van het SKA-project worden opgenomen, worden gewaardeerd volgens een methode die is overeengekomen tussen het gastland en de SKAO, en goedgekeurd bij besluit van de Raad.
 
 2. De waarde van de overeenkomstig het eerste lid van dit artikel ter beschikking gestelde en ingebrachte activa en infrastructuur wordt door de Raad gecrediteerd als een financiële bijdrage aan de begroting voor de bouw van een volgende fase van SKA-1, tenzij met dat gastland anders is overeengekomen.
 
-#### Artikel 8. Leningen en aansprakelijkheid
+##### Artikel 8. Leningen en aansprakelijkheid
 
 1. De SKAO kan, na goedkeuring door de Raad bij besluit, leningen en schulden aangaan, binnen de grenzen van het financieel reglement. Geen enkel lid of geassocieerd lid zal als gevolg van een besluit tot het verkrijgen van een lening of het aangaan van schulden bijkomende financiële verplichtingen jegens het SKA-Observatory aangaan zonder diens uitdrukkelijke toestemming om een dergelijke verantwoordelijkheid op zich te nemen.
 

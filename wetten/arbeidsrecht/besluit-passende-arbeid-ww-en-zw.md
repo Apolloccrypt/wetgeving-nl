@@ -1,13 +1,39 @@
 ---
-title: "Besluit passende arbeid WW en ZW"
+title: "Besluit van 11 december 2014, houdende nadere regels omtrent het begrip passende arbeid zoals genoemd in de artikelen 24, derde lid, van de Werkloosheidswet en 30, vijfde lid, van de Ziektewet (Besluit passende arbeid WW en ZW)"
 identifier: "BWBR0036081"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2022-01-01
-laatste_update: 2022-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036081"
+country: "nl"
+rank: "amvb"
+publication_date: "2022-01-01"
+last_updated: "2022-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036081"
+soort: "AMvB"
+stam_id: "12926833"
+version_id: "22011112"
+internal_id: "C32169221"
+label_id: "12896004"
+dtd_version: "2.0"
+original_entry_into_force: "2015-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036081/2022-01-01/0"
+intitule_bron: "Stb.2014-525"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-12-11"
+intitule_published: "2014-12-19"
+intitule_in_force: "2015-05-12"
+intitule_status: "goed"
+original_publication: "Stb.2014-525"
+original_signed_date: "2014-12-11"
+original_published_date: "2014-12-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2014-525"
+entry_into_force_date: "2015-07-01"
+jci_1_3: "jci1.3:c:BWBR0036081&z=2022-01-01&g=2022-01-01"
+jci_1_0: "1.0:c:BWBR0036081&g=2022-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit passende arbeid WW en ZW"
+signed_date: "2014-12-11"
+entry_into_force: "2015-07-01"
 ---
-
 # Besluit van 11 december 2014, houdende nadere regels omtrent het begrip passende arbeid zoals genoemd in de artikelen 24, derde lid, van de Werkloosheidswet en 30, vijfde lid, van de Ziektewet (Besluit passende arbeid WW en ZW)
 
 Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 1 juli 2014, nr. 2014-000087757;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister van Sociale Zaken en Werkgelegenheid 
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -36,11 +62,11 @@ In dit besluit wordt verstaan onder:
 
 - **ZW:** de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888).
 
-#### Artikel 2. Doelgroep
+##### Artikel 2. Doelgroep
 
 Dit besluit is van toepassing op de werknemer die op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) of de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) recht heeft op een uitkering, met uitzondering van de werknemer die recht heeft op een uitkering op grond van de [artikelen 29, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29), [29a](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29a), [29b](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29b) en [29d van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29d), tenzij hij geen werkgever heeft.
 
-#### Artikel 3. Arbeid aansluitend op het niveau van de arbeid waaruit de werknemer werkloos of ziek is geworden
+##### Artikel 3. Arbeid aansluitend op het niveau van de arbeid waaruit de werknemer werkloos of ziek is geworden
 
 1. Om te bepalen of arbeid aansluit bij het niveau van de arbeid waaruit de werknemer werkloos of ziek is geworden, wordt gebruik gemaakt van de volgende opleidingscategorieën die voor arbeid vereist kunnen worden:
 
@@ -54,7 +80,7 @@ Dit besluit is van toepassing op de werknemer die op grond van de [Ziektewet](ht
 
 2. Arbeid die aansluit bij het niveau van de arbeid waaruit de werknemer werkloos of ziek is geworden, is arbeid waarvoor hetzelfde opleidingsniveau is vereist als het opleidingsniveau van de arbeid waaruit de werknemer werkloos of ziek is geworden.
 
-#### Artikel 4. Passende arbeid in de eerste zes maanden van de uitkering op grond van de WW of de ZW
+##### Artikel 4. Passende arbeid in de eerste zes maanden van de uitkering op grond van de WW of de ZW
 
 1. In de periode voordat zes maanden waarin een recht op uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) of de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) bestaat, zijn verstreken, is arbeid passend wanneer:
 
@@ -70,19 +96,19 @@ Dit besluit is van toepassing op de werknemer die op grond van de [Ziektewet](ht
 
 4. Het eerste lid, onderdeel b, is niet van toepassing indien het inkomen uit de dienstbetrekking waaruit de werknemer werkloos of ziek is geworden, aanzienlijk afwijkt van wat vergelijkbare werknemers in hetzelfde beroep in de regel gewoonlijk verdienen. Onder passende arbeid wordt dan verstaan arbeid met een beloning van 70% van het inkomen dat vergelijkbare werknemers in hetzelfde beroep als waaruit de werknemer werkloos of ziek is geworden, verdienen.
 
-#### Artikel 5. Uitzonderingen
+##### Artikel 5. Uitzonderingen
 
 Indien er sprake is van een bestaand recht op uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) of de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), is [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036081&artikel=4&z=2022-01-01&g=2022-01-01) van toepassing met dien verstande dat bij opvolgende of meerdere rechten geen nieuwe termijn van zes maanden start.
 
-#### Artikel 6. Intrekken Besluit passende arbeid schoolverlaters en academici WW en ZW
+##### Artikel 6. Intrekken Besluit passende arbeid schoolverlaters en academici WW en ZW
 
 Het [Besluit passende arbeid schoolverlaters en academici WW en ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0007683) wordt ingetrokken.
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit passende arbeid WW en ZW.
 

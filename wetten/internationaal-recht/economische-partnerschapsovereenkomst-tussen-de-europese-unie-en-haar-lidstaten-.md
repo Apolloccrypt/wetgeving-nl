@@ -1,13 +1,24 @@
 ---
 title: "Economische partnerschapsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de SADC-EPO-staten, anderzijds"
 identifier: "BWBV0006613"
-categorie: "Internationaal recht"
-publicatiedatum: 2016-06-10
-laatste_update: 2016-06-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006613"
+country: "nl"
+rank: "verdrag"
+publication_date: "2016-06-10"
+last_updated: "2016-06-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006613"
+soort: "verdrag"
+stam_id: "10005370663"
+version_id: "10005797922"
+internal_id: "C10009130681"
+label_id: "10005355684"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006613/2016-06-10/0"
+intitule_status: "nogniet"
+jci_1_3: "jci1.3:c:BWBV0006613&z=2016-06-10&g=2016-06-10"
+jci_1_0: "1.0:c:BWBV0006613&g=2016-06-10"
+citeertitel_status: "redactioneel"
 ---
-
 # Economische partnerschapsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de SADC-EPO-staten, anderzijds
 
 Preambule
@@ -136,7 +147,7 @@ hebben besloten deze overeenkomst te sluiten2[Red: De oorspronkelijke Bijlagen b
 
 ### HOOFDSTUK I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Doelstellingen
+##### Artikel 1. Doelstellingen
 
 De doelstellingen van deze overeenkomst zijn:
 
@@ -152,7 +163,7 @@ De doelstellingen van deze overeenkomst zijn:
 
 - f. versterken van de bestaande relaties tussen de partijen op basis van solidariteit en wederzijdse belangen. Hiertoe worden met deze overeenkomst de economische en handelsbetrekkingen verbeterd, wordt de uitvoering van het Protocol over handel in de regio van de ontwikkelingsgemeenschap van Zuidelijk Afrika, ondertekend op 24 augustus 1996 (SADC-handelsprotocol), en van de SACU-overeenkomst geconsolideerd, wordt een nieuwe handelsdynamiek tussen de partijen door middel van de geleidelijke, asymmetrische liberalisering van de onderlinge handel ondersteund, en wordt de samenwerking op alle gebieden die van belang zijn voor de handel versterkt, verruimd en verdiept, een en ander met inachtneming van de WTO-verplichtingen.
 
-#### Artikel 2. Beginselen
+##### Artikel 2. Beginselen
 
 1. Deze overeenkomst is gebaseerd op de grondbeginselen alsmede op de essentiële en fundamentele elementen, zoals neergelegd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&artikel=2) respectievelijk [artikel 9 van de Overeenkomst van Cotonou](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&artikel=9). Deze overeenkomst bouwt voort op de verworvenheden van de [Overeenkomst van Cotonou](https://wetten.overheid.nl/jci1.3:c:BWBV0005264), de [TDC-overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001476) en de eerdere ACS-EG-overeenkomsten op het gebied van regionale samenwerking en integratie en van samenwerking op economisch en handelsgebied.
 
@@ -162,7 +173,7 @@ De doelstellingen van deze overeenkomst zijn:
 
 4. De partijen komen overeen samen te werken om aan hun verbintenissen en verplichtingen te voldoen en de SADC-EPO-staten beter in staat te stellen deze overeenkomst uit te voeren.
 
-#### Artikel 3. Regionale integratie
+##### Artikel 3. Regionale integratie
 
 1. De partijen erkennen dat regionale integratie een integraal bestanddeel van hun partnerschap en een krachtig instrument voor het bereiken van de doelstellingen van deze overeenkomst is.
 
@@ -170,19 +181,19 @@ De doelstellingen van deze overeenkomst zijn:
 
 3. De partijen steunen in het bijzonder de integratieprocessen die zijn gebaseerd op de SACU-overeenkomst, het SADC-verdrag en de op 11 juli 2000 goedgekeurde Oprichtingsakte van de Afrikaanse Unie, alsmede het ontwikkelingsbeleid en de politieke doelstellingen die met die processen verband houden. De partijen beogen elkaar met behulp van die instrumenten bij de uitvoering van deze overeenkomst te ondersteunen, daarbij rekening houdend met hun respectieve ontwikkelingsniveau, behoeften, geografische realiteit en strategieën voor duurzame ontwikkeling.
 
-#### Artikel 4. Toezicht
+##### Artikel 4. Toezicht
 
 1. De partijen verbinden zich ertoe voortdurend toezicht te houden op het functioneren en het effect van deze overeenkomst door middel van passende mechanismen en tijdschema’s in het kader van hun respectieve participatieprocessen en participerende instellingen alsmede die welke in het kader van deze overeenkomst zijn ingevoerd, teneinde te waarborgen dat de doelstellingen van deze overeenkomst worden verwezenlijkt en dat deze overeenkomst correct wordt uitgevoerd en hun bevolking, en in het bijzonder de kwetsbaarste groepen, zoveel mogelijk voordelen biedt.
 
 2. De partijen verbinden zich ertoe elkaar onverwijld te raadplegen over elke aangelegenheid betreffende de uitvoering van deze overeenkomst.
 
-#### Artikel 5. Samenwerking in internationale fora
+##### Artikel 5. Samenwerking in internationale fora
 
 De partijen streven naar samenwerking in alle internationale fora waar aangelegenheden in verband met deze overeenkomst worden besproken.
 
 ### HOOFDSTUK II. HANDEL EN DUURZAME ONTWIKKELING
 
-#### Artikel 6. Context en doelstellingen
+##### Artikel 6. Context en doelstellingen
 
 1. De partijen herinneren aan Agenda 21 over milieu en ontwikkeling van 1992, de Verklaring van de Internationale Arbeidsorganisatie („IAO”) over de fundamentele principes en rechten met betrekking tot werk van 1998, het Uitvoeringsplan van Johannesburg over duurzame ontwikkeling van 2002, de Ministeriële Verklaring van de Economische en Sociale Raad van de VN over volledige werkgelegenheid en fatsoenlijk werk van 2006, de Verklaring van de IAO over sociale gerechtigheid voor een eerlijke mondialisering van 2008 en het slotdocument van de Conferentie van de VN over duurzame ontwikkeling van 2012 getiteld „The Future We Want”.
 
@@ -190,7 +201,7 @@ De partijen streven naar samenwerking in alle internationale fora waar aangelege
 
 3. De bepalingen van [DEEL III](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&deel=III&z=2016-06-10&g=2016-06-10) zijn niet van toepassing op dit hoofdstuk, met uitzondering van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&deel=I&hoofdstuk=II&artikel=7&z=2016-06-10&g=2016-06-10).
 
-#### Artikel 7. Duurzame ontwikkeling
+##### Artikel 7. Duurzame ontwikkeling
 
 1. De partijen herbevestigen dat de doelstelling van duurzame ontwikkeling op elk niveau van hun economische partnerschap moet worden toegepast en geïntegreerd, ter uitvoering van de prioritaire verplichtingen neergelegd in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&artikel=1), [2](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&artikel=2) en [9 van de Overeenkomst van Cotonou](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&artikel=9), en met name van de algemene verbintenis armoede terug te dringen en uiteindelijk uit te roeien op een wijze die in overeenstemming is met de doelstellingen van duurzame ontwikkeling.
 
@@ -202,13 +213,13 @@ De partijen streven naar samenwerking in alle internationale fora waar aangelege
 
 3. De partijen komen daarom overeen samen te werken aan de verwezenlijking van een duurzame ontwikkeling waarbij de mens centraal staat.
 
-#### Artikel 8. Multilaterale milieu- en arbeidsnormen en -overeenkomsten
+##### Artikel 8. Multilaterale milieu- en arbeidsnormen en -overeenkomsten
 
 1. De partijen erkennen de waarde van internationale governance en overeenkomsten op milieugebied als antwoord van de internationale gemeenschap op mondiale of regionale milieuproblemen, en beschouwen fatsoenlijk werk voor iedereen als hoofdelement van duurzame ontwikkeling voor alle landen en als prioritaire doelstelling van internationale samenwerking.
 
 2. Rekening houdend met de [Overeenkomst van Cotonou](https://wetten.overheid.nl/jci1.3:c:BWBV0005264), met name de [artikelen 49](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&artikel=49) en [50](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&artikel=50), herbevestigen de partijen in het kader van dit artikel hun rechten en hun verbintenis tot uitvoering van hun verplichtingen met betrekking tot de multilaterale milieuovereenkomsten („MEA’s”) en de IAO-verdragen die zij hebben geratificeerd.
 
-#### Artikel 9. Regelgevingsrecht en beschermingsniveaus
+##### Artikel 9. Regelgevingsrecht en beschermingsniveaus
 
 1. De partijen erkennen het recht van elke partij haar eigen niveaus van interne arbeids- en milieubescherming te bepalen, en dienovereenkomstig haar wetgeving en beleid ter zake vast te stellen of te wijzigen, overeenkomstig internationaal erkende normen en overeenkomsten waarbij zij partij zijn.
 
@@ -216,7 +227,7 @@ De partijen streven naar samenwerking in alle internationale fora waar aangelege
 
 3. De partijen erkennen dat het niet gepast is handel of investeringen aan te moedigen door de interne niveaus van arbeids- en milieubescherming af te zwakken of te verminderen, en zij wijken met het oog daarop niet af van hun respectieve arbeids- en milieuwetgeving noch verzuimen aanhoudend die daadwerkelijk te handhaven.
 
-#### Artikel 10. Handel en investeringen ten behoeve van duurzame ontwikkeling
+##### Artikel 10. Handel en investeringen ten behoeve van duurzame ontwikkeling
 
 1. De partijen herbevestigen hun verbintenis om de bijdrage van handel en investeringen aan de doelstelling van duurzame ontwikkeling in economisch, sociaal en ecologisch opzicht te versterken.
 
@@ -224,7 +235,7 @@ De partijen streven naar samenwerking in alle internationale fora waar aangelege
 
 3. Aan de dialoog en de samenwerking tussen de partijen in het kader van dit hoofdstuk via het Handels- en ontwikkelingscomité kan door andere betrokken autoriteiten en belanghebbenden worden deelgenomen.
 
-#### Artikel 11. Samenwerking bij handel en duurzame ontwikkeling
+##### Artikel 11. Samenwerking bij handel en duurzame ontwikkeling
 
 1. De partijen erkennen het belang van samenwerking op het gebied van handelsgerelateerde aspecten van het arbeids- en milieubeleid teneinde de doelstellingen van deze overeenkomst te verwezenlijken.
 
@@ -246,7 +257,7 @@ De partijen streven naar samenwerking in alle internationale fora waar aangelege
 
 ### HOOFDSTUK III. SAMENWERKINGSGEBIEDEN
 
-#### Artikel 12. Ontwikkelingssamenwerking
+##### Artikel 12. Ontwikkelingssamenwerking
 
 1. De partijen verbinden zich ertoe samen te werken met het oog op de uitvoering van deze overeenkomst en de ondersteuning van de handels- en ontwikkelingsstrategieën van de SADC-EPO-staten in het kader van het algemene regionale integratieproces van de SADC. De samenwerking kan zowel financiële als niet-financiële vormen aannemen.
 
@@ -260,7 +271,7 @@ De partijen streven naar samenwerking in alle internationale fora waar aangelege
 
 6. De partijen zijn het erover eens dat een regionaal mechanisme voor ontwikkelingsfinanciering, zoals een EPO-fonds, een nuttig instrument zou zijn om ontwikkelingsgelden doeltreffend te kanaliseren en de begeleidende maatregelen bij de EPO uit te voeren. De EU stemt ermee in de inspanningen van de regio om een dergelijk mechanisme op te zetten, te ondersteunen. Wanneer een audit bevredigende resultaten oplevert, zal de EU bijdragen in het fonds.
 
-#### Artikel 13. Samenwerkingsprioriteiten
+##### Artikel 13. Samenwerkingsprioriteiten
 
 1. Voor de uitvoering van deze overeenkomst en met inachtneming van het ontwikkelingsbeleid van de SADC-EPO-staten komen de partijen overeen dat de in dit artikel en in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&deel=I&hoofdstuk=III&artikel=14&z=2016-06-10&g=2016-06-10) genoemde onderwerpen prioritaire gebieden voor handels- en economische samenwerking zijn.
 
@@ -278,7 +289,7 @@ De partijen streven naar samenwerking in alle internationale fora waar aangelege
 
 8. De samenwerking bij de institutionele capaciteitsopbouw in verband met de EPO heeft ten doel steun te verlenen aan institutionele structuren ten behoeve van het beheer van de uitvoering van de EPO en de capaciteitsopbouw in verband met handelsbesprekingen en het handelsbeleid, in samenwerking met de desbetreffende institutionele mechanismen die zijn opgericht in het kader van het SADC-verdrag en de SACU-overeenkomst of in de respectieve SADC-EPO-staten.
 
-#### Artikel 14. Samenwerking op het gebied van begrotingsaanpassing
+##### Artikel 14. Samenwerking op het gebied van begrotingsaanpassing
 
 1. De partijen zijn zich ervan bewust dat de geleidelijke afschaffing dan wel de verlaging van douanerechten ingevolge deze overeenkomst van invloed kan zijn op de belastingontvangsten van de SADC-EPO-staten, en komen overeen op dit gebied samen te werken.
 
@@ -290,7 +301,7 @@ De partijen streven naar samenwerking in alle internationale fora waar aangelege
 
 3. De partijen zijn zich ervan bewust dat de verlaging van douanerechten in het bijzonder gevolgen zal hebben voor de belastingontvangsten van Lesotho en komen overeen bij de toepassing van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&deel=I&hoofdstuk=III&artikel=12&z=2016-06-10&g=2016-06-10) bijzondere aandacht te schenken aan de situatie van Lesotho.
 
-#### Artikel 15. Soorten maatregelen
+##### Artikel 15. Soorten maatregelen
 
 Ontwikkelingssamenwerking in het kader van deze overeenkomst omvat onder meer, maar niet uitsluitend, de volgende maatregelen in verband met deze overeenkomst:
 
@@ -310,7 +321,7 @@ Ontwikkelingssamenwerking in het kader van deze overeenkomst omvat onder meer, m
 
 - h. operationele steun, met inbegrip van uitrusting, materiaal en werkzaamheden in verband daarmee.
 
-#### Artikel 16. Samenwerking op het gebied van bescherming van intellectuele-eigendomsrechten
+##### Artikel 16. Samenwerking op het gebied van bescherming van intellectuele-eigendomsrechten
 
 1. De partijen herbevestigen hun verbintenissen op grond van [artikel 46 van de Overeenkomst van Cotonou](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&artikel=46) en hun rechten, verplichtingen en flexibiliteiten als vastgelegd in de Overeenkomst inzake de handelsaspecten van de intellectuele eigendom, die is opgenomen in [bijlage 1C bij de Overeenkomst tot oprichting van de Wereldhandelsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&bijlage=IC) („TRIPs-overeenkomst”).
 
@@ -328,7 +339,7 @@ Ontwikkelingssamenwerking in het kader van deze overeenkomst omvat onder meer, m
 
 8. Indien een overeenkomst die voortvloeit uit de in de leden 6 en 7 bedoelde onderhandelingen, leidt tot resultaten die onverenigbaar blijken met de toekomstige ontwikkeling van een regionaal kader van de SADC voor IER’s, zullen de partijen bij de onderhavige overeenkomst gezamenlijk inspanningen doen om deze overeenkomst aan te passen en in overeenstemming te brengen met het regionale kader en tegelijkertijd zorgen voor een evenwichtige verdeling van de voordelen.
 
-#### Artikel 17. Samenwerking op het gebied van overheidsopdrachten
+##### Artikel 17. Samenwerking op het gebied van overheidsopdrachten
 
 1. De partijen erkennen het belang van transparante overheidsopdrachten voor het bevorderen van de economische ontwikkeling en de industrialisering. De partijen zijn het eens over het belang van samenwerking voor het verbeteren van het wederzijdse begrip van hun respectieve regelingen voor overheidsopdrachten. De partijen verklaren opnieuw te hechten aan transparante en voorspelbare regelingen voor overheidsopdrachten in overeenstemming met de nationale wettelijke voorschriften.
 
@@ -340,7 +351,7 @@ Ontwikkelingssamenwerking in het kader van deze overeenkomst omvat onder meer, m
 
 5. Indien een overeenkomst die voortvloeit uit de in de leden 3 en 4 bedoelde onderhandelingen, leidt tot resultaten die onverenigbaar blijken met de toekomstige ontwikkeling van een regionaal kader van de SADC voor overheidsopdrachten, zullen de partijen bij de onderhavige overeenkomst gezamenlijk inspanningen doen om deze overeenkomst aan te passen en in overeenstemming te brengen met het regionale kader en tegelijkertijd zorgen voor een evenwichtige verdeling van de voordelen.
 
-#### Artikel 18. Samenwerking op het gebied van concurrentie
+##### Artikel 18. Samenwerking op het gebied van concurrentie
 
 1. De partijen erkennen dat bepaalde zakelijke praktijken, zoals concurrentiebeperkende overeenkomsten of onderling afgestemde feitelijke gedragingen en misbruik van machtsposities, de handel tussen de partijen kunnen beperken en daardoor de verwezenlijking van de doelstellingen van deze overeenkomst in gevaar kunnen brengen.
 
@@ -352,7 +363,7 @@ Ontwikkelingssamenwerking in het kader van deze overeenkomst omvat onder meer, m
 
 5. Indien een overeenkomst die voortvloeit uit de in de leden 3 en 4 bedoelde onderhandelingen, leidt tot resultaten die onverenigbaar blijken met de toekomstige ontwikkeling van een regionaal kader van de SADC voor concurrentie, zullen de partijen bij de onderhavige overeenkomst gezamenlijk inspanningen doen om deze overeenkomst aan te passen en in overeenstemming te brengen met het regionale kader en tegelijkertijd zorgen voor een evenwichtige verdeling van de voordelen.
 
-#### Artikel 19. Samenwerking op het gebied van fiscaal bestuur
+##### Artikel 19. Samenwerking op het gebied van fiscaal bestuur
 
 De partijen erkennen het belang van samenwerking met betrekking tot de beginselen van behoorlijk bestuur in belastingzaken via de bevoegde autoriteiten.
 
@@ -360,21 +371,21 @@ De partijen erkennen het belang van samenwerking met betrekking tot de beginsele
 
 ### HOOFDSTUK I. HANDEL IN GOEDEREN
 
-#### Artikel 20. Vrijhandelsgebied
+##### Artikel 20. Vrijhandelsgebied
 
 1. Bij deze overeenkomst wordt tussen de partijen een vrijhandelsgebied opgericht, in overeenstemming met de [Algemene Overeenkomst inzake Tarieven en Handel](onbekend) („GATT 1994”), en met name met artikel XXIV van die overeenkomst.
 
 2. Voor deze overeenkomst wordt het beginsel van asymmetrie, wat het niveau van en het tijdschema voor verbintenissen uit hoofde van deze overeenkomst betreft, in acht genomen, in overeenstemming met de specifieke behoeften en de capaciteitsbeperkingen van de SADC-EPO-staten.
 
-#### Artikel 21. Toepassingsgebied
+##### Artikel 21. Toepassingsgebied
 
 De bepalingen van dit hoofdstuk zijn van toepassing op de handel in goederen tussen de partijen3)Tenzij uitdrukkelijk anders bepaald, hebben de termen „goederen” en „producten” dezelfde betekenis..
 
-#### Artikel 22. Oorsprongsregels
+##### Artikel 22. Oorsprongsregels
 
 De in deze overeenkomst vastgestelde tariefpreferenties worden toegepast op goederen die aan de oorsprongsregels in Protocol I voldoen.
 
-#### Artikel 23. Douanerechten
+##### Artikel 23. Douanerechten
 
 1. Onder douanerechten worden verstaan alle soorten rechten en heffingen, met inbegrip van alle aanvullende belastingen en aanvullende heffingen, die worden opgelegd ter zake van of in verband met de invoer van goederen, met uitzondering van:
 
@@ -408,19 +419,19 @@ De in deze overeenkomst vastgestelde tariefpreferenties worden toegepast op goed
 
 9. De bepalingen van dit artikel zijn niet van toepassing op die producten die zijn uitgesloten van de verbintenissen tot tariefverlaging die worden aangeduid door de afbouwcategorie „X” in de lijst van elke partij in respectievelijk BIJLAGE I, II en III.
 
-#### Artikel 24. Douanerechten van de EU op producten van oorsprong uit de SADC-EPO-staten
+##### Artikel 24. Douanerechten van de EU op producten van oorsprong uit de SADC-EPO-staten
 
 1. Producten van oorsprong uit Botswana, Lesotho, Mozambique, Namibië en Swaziland krijgen bij invoer in de EU de in BIJLAGE I voor die landen vastgestelde rechten- en contingentvrije behandeling.
 
 2. Producten van oorsprong uit Zuid-Afrika krijgen bij invoer in de EU de in BIJLAGE I voor dat land vastgestelde behandeling.
 
-#### Artikel 25. Douanerechten van de SADC-EPO-staten op producten van oorsprong uit de EU
+##### Artikel 25. Douanerechten van de SADC-EPO-staten op producten van oorsprong uit de EU
 
 1. Producten van oorsprong uit de EU krijgen bij invoer in de SACU de in BIJLAGE II vastgestelde behandeling.
 
 2. Producten van oorsprong uit de EU krijgen bij invoer in Mozambique de in BIJLAGE III vastgestelde behandeling.
 
-#### Artikel 26. Rechten en belastingen bij uitvoer
+##### Artikel 26. Rechten en belastingen bij uitvoer
 
 1. Tenzij in dit artikel anders bepaald, worden vanaf de inwerkingtreding van deze overeenkomst in de handel tussen de partijen geen nieuwe douanerechten of belastingen ter zake van of in verband met de uitvoer van goederen ingevoerd, noch al bestaande rechten of belastingen verhoogd.
 
@@ -446,7 +457,7 @@ De in deze overeenkomst vastgestelde tariefpreferenties worden toegepast op goed
 
 10. De partijen komen overeen uiterlijk drie (3) jaar na de inwerkingtreding van deze overeenkomst dit artikel in het kader van de Gezamenlijke Raad SADC-EPO-staten – EU („Gezamenlijke Raad”) te herzien, waarbij ten volle rekening wordt gehouden met de gevolgen ervan voor de ontwikkeling en diversificatie van de economieën van de SADC-EPO-staten.
 
-#### Artikel 27. Vergoedingen en heffingen
+##### Artikel 27. Vergoedingen en heffingen
 
 1. Alle vergoedingen en heffingen van welke aard ook, invoer- en uitvoerrechten en de belastingen vallende onder [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&deel=II&hoofdstuk=III&artikel=40&z=2016-06-10&g=2016-06-10) uitgezonderd, die ter zake van of in verband met in- of uitvoer worden opgelegd, mogen niet hoger zijn dan de kosten van de verleende diensten en mogen geen indirecte bescherming van interne producten noch een belasting op de in- of uitvoer voor fiscale doeleinden inhouden.
 
@@ -472,7 +483,7 @@ De in deze overeenkomst vastgestelde tariefpreferenties worden toegepast op goed
 
 4. Voor consulaire diensten worden geen vergoedingen en heffingen opgelegd.
 
-#### Artikel 28. Gunstigere behandeling als gevolg van vrijhandelsovereenkomsten
+##### Artikel 28. Gunstigere behandeling als gevolg van vrijhandelsovereenkomsten
 
 1. Wat de in [artikel 23, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&deel=II&hoofdstuk=I&artikel=23&z=2016-06-10&g=2016-06-10), en [artikel 26, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&deel=II&hoofdstuk=I&artikel=26&z=2016-06-10&g=2016-06-10), omschreven douanerechten en de in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&deel=II&hoofdstuk=I&artikel=27&z=2016-06-10&g=2016-06-10) omschreven vergoedingen en andere heffingen betreft, past de EU elke gunstigere behandeling die toepasselijk wordt doordat zij na de ondertekening van deze overeenkomst partij wordt bij een preferentiële handelsovereenkomst met derde partijen, ook toe ten aanzien van de SADC-EPO-staten.
 
@@ -490,7 +501,7 @@ De in deze overeenkomst vastgestelde tariefpreferenties worden toegepast op goed
 
 8. In afwijking van lid 2 geldt dat wanneer de SACU of een MOL dat tot de SADC-EPO-staten behoort partij wordt bij een preferentiële handelsovereenkomst met een belangrijke handelsmacht en die preferentiële handelsovereenkomst voorziet in een gunstigere behandeling van de belangrijke handelsmacht door de SACU of het betrokken MOL dat tot de SADC-EPO-staten behoort dan die welke de EU uit hoofde van deze overeenkomst wordt verleend, de SACU of het respectieve MOL dat tot de SADC-EPO-staten behoort en de EU hierover in overleg treden teneinde te besluiten of en hoe de gunstigere behandeling uit de preferentiële handelsovereenkomst ook ten aanzien van de EU kan worden toegepast. De Gezamenlijke Raad kan voorstellen tot wijziging van de bepalingen van deze overeenkomst aannemen overeenkomstig [artikel 117](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&deel=VI&artikel=117&z=2016-06-10&g=2016-06-10).
 
-#### Artikel 29. Vrij verkeer
+##### Artikel 29. Vrij verkeer
 
 1. Op goederen van oorsprong uit de EU respectievelijk de SADC-EPO-staten worden bij invoer op het grondgebied van de SADC-EPO-staten respectievelijk de EU slechts éénmaal douanerechten geheven.
 
@@ -498,7 +509,7 @@ De in deze overeenkomst vastgestelde tariefpreferenties worden toegepast op goed
 
 3. De partijen komen overeen samen te werken met het oog op bevordering van het goederenverkeer en vereenvoudiging van de douaneprocedures in de SADC-EPO-staten, in het bijzonder als voorzien in [artikel 13, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&deel=I&hoofdstuk=III&artikel=13&z=2016-06-10&g=2016-06-10).
 
-#### Artikel 30. Speciale bepalingen over administratieve samenwerking
+##### Artikel 30. Speciale bepalingen over administratieve samenwerking
 
 1. De partijen zijn het erover eens dat administratieve samenwerking van essentieel belang is voor de toepassing van en de controle op de preferentiële behandeling die op grond van dit hoofdstuk wordt verleend, en benadrukken hun vastberadenheid om onregelmatigheden en fraude op het gebied van douane- en aanverwante aangelegenheden te bestrijden.
 
@@ -526,17 +537,17 @@ De in deze overeenkomst vastgestelde tariefpreferenties worden toegepast op goed
 
 - c. tijdelijke schorsingen op grond van dit artikel blijven beperkt tot wat nodig is om de financiële belangen van de betrokken partij te beschermen. De schorsingen duren niet langer dan zes (6) maanden, waarna verlenging mogelijk is nadat het Handels- en ontwikkelingscomité in de gelegenheid is geweest de kwestie opnieuw te onderzoeken. Tijdelijke schorsingen worden onmiddellijk na goedkeuring ervan ter kennis van het Handels- en ontwikkelingscomité gebracht. Binnen het Handels- en ontwikkelingscomité vindt hierover periodiek overleg plaats, met name met het oog op opheffing van de schorsingen zodra niet langer aan de voorwaarden voor de schorsing wordt voldaan.
 
-#### Artikel 31. Handelwijze bij administratieve fouten
+##### Artikel 31. Handelwijze bij administratieve fouten
 
 De partijen erkennen elkaars recht om administratieve fouten bij de uitvoering van deze overeenkomst te corrigeren. Wanneer fouten worden vastgesteld, kan elk van de partijen het Handels- en ontwikkelingscomité verzoeken de mogelijkheden te onderzoeken om passende maatregelen te nemen om de situatie te herstellen.
 
 ### HOOFDSTUK II. HANDELSBESCHERMINGSINSTRUMENTEN
 
-#### Artikel 32. Antidumpingmaatregelen en compenserende maatregelen
+##### Artikel 32. Antidumpingmaatregelen en compenserende maatregelen
 
 Ten aanzien van de rechten en verplichtingen van elk van de partijen in verband met de toepassing van antidumpingmaatregelen of compenserende maatregelen gelden de desbetreffende WTO-overeenkomsten. De bepalingen van [DEEL III](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&titeldeel=III&z=2016-06-10&g=2016-06-10)zijn niet van toepassing op dit artikel.
 
-#### Artikel 33. Multilaterale vrijwaringsmaatregelen
+##### Artikel 33. Multilaterale vrijwaringsmaatregelen
 
 1. Onder voorbehoud van het bepaalde in dit artikel belet niets in deze overeenkomst een partij maatregelen te treffen overeenkomstig artikel XIX van de GATT 1994, de [WTO-overeenkomst inzake vrijwaringsmaatregelen](onbekend), [artikel 5 van de WTO-overeenkomst inzake de landbouw](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=5), die een bijlage vormt bij de [Overeenkomst van Marrakesh tot oprichting van de Wereldhandelsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBV0001160) („WTO-overeenkomst”), en andere WTO-overeenkomsten ter zake.
 
@@ -546,7 +557,7 @@ Ten aanzien van de rechten en verplichtingen van elk van de partijen in verband 
 
 4. De bepalingen van [Deel III](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&deel=III&z=2016-06-10&g=2016-06-10) zijn niet van toepassing op lid 1.
 
-#### Artikel 34. Algemene bilaterale vrijwaringsmaatregelen
+##### Artikel 34. Algemene bilaterale vrijwaringsmaatregelen
 
 1. Niettegenstaande [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&deel=II&hoofdstuk=II&artikel=33&z=2016-06-10&g=2016-06-10) kan een partij respectievelijk de SACU, na alternatieve oplossingen te hebben onderzocht, vrijwaringsmaatregelen van beperkte duur toepassen die afwijken van de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&deel=II&hoofdstuk=I&artikel=24&z=2016-06-10&g=2016-06-10) en [25](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&deel=II&hoofdstuk=I&artikel=25&z=2016-06-10&g=2016-06-10), onder de voorwaarden van en in overeenstemming met de procedures in dit artikel.
 
@@ -608,7 +619,7 @@ Deze vrijwaringsmaatregelen mogen niet verder gaan dan wat nodig is om de ernsti
 
 10. De WTO-bepalingen over geschillenbeslechting zijn niet van toepassing op de krachtens dit artikel vastgestelde vrijwaringsmaatregelen.
 
-#### Artikel 35. Landbouwvrijwaringsmaatregelen
+##### Artikel 35. Landbouwvrijwaringsmaatregelen
 
 1. Niettegenstaande [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&deel=II&hoofdstuk=II&artikel=34&z=2016-06-10&g=2016-06-10) kan een vrijwaringsmaatregel in de vorm van een invoerrecht worden toegepast indien, gedurende een periode van twaalf maanden, het invoervolume naar de SACU van een in bijlage IV vermeld landbouwproduct van oorsprong uit de EU de daarin vermelde referentiehoeveelheid voor het product overschrijdt.
 
@@ -630,13 +641,13 @@ Deze vrijwaringsmaatregelen mogen niet verder gaan dan wat nodig is om de ernsti
 
 7. Dit artikel geldt slechts voor een periode van twaalf (12) jaar, te rekenen vanaf de datum van inwerkingtreding van deze overeenkomst.
 
-#### Artikel 36. Vrijwaringsmaatregelen inzake voedselzekerheid
+##### Artikel 36. Vrijwaringsmaatregelen inzake voedselzekerheid
 
 1. De partijen erkennen dat de verwijdering van handelsbelemmeringen tussen hen, zoals die in deze overeenkomst is voorzien, aanzienlijke problemen voor de producenten van landbouwproducten en voedingsmiddelen van de SADC-EPO-staten kan opleveren, en zij komen overeen hierover overleg met elkaar te voeren.
 
 2. Niettegenstaande [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&deel=II&hoofdstuk=II&artikel=34&z=2016-06-10&g=2016-06-10) geldt dat wanneer dit van wezenlijk belang is om een acute, algemene of plaatselijke schaarste van voedingsmiddelen of andere producten te voorkomen of te lenigen teneinde de voedselzekerheid van een SADC-EPO-staat te waarborgen en wanneer deze situatie tot grote moeilijkheden voor die staat leidt of dreigt te leiden, de betrokken SADC-EPO-staat overeenkomstig de procedure van artikel 34, lid 7, onder b), c) en d), lid 8 en lid 9, vrijwaringsmaatregelen kan vaststellen. De maatregel zal ten minste éénmaal per jaar aan een onderzoek worden onderworpen en wordt ingetrokken zodra de omstandigheden die tot de vaststelling ervan hebben geleid, niet meer bestaan.
 
-#### Artikel 37. Transitoire vrijwaringsmaatregelen van BLNS-staten
+##### Artikel 37. Transitoire vrijwaringsmaatregelen van BLNS-staten
 
 1. De partijen erkennen de gevoeligheid van de in bijlage V vermelde geliberaliseerde producten voor de BLNS-staten.
 
@@ -652,7 +663,7 @@ Deze vrijwaringsmaatregelen mogen niet verder gaan dan wat nodig is om de ernsti
 
 7. Na afloop van een periode van twaalf (12) jaar, te rekenen vanaf de datum van inwerkingtreding van deze overeenkomst, mag geen in dit artikel bedoelde vrijwaringsmaatregel meer worden vastgesteld.
 
-#### Artikel 38. Vrijwaringsmaatregelen ter bescherming van opkomende industrieën
+##### Artikel 38. Vrijwaringsmaatregelen ter bescherming van opkomende industrieën
 
 1. Niettegenstaande [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&deel=II&hoofdstuk=II&artikel=34&z=2016-06-10&g=2016-06-10) kunnen Botswana, Lesotho, Namibië, Mozambique en Swaziland verdere verlagingen van het douanerecht tijdelijk schorsen of het douanerecht verhogen tot een niveau dat het meestbegunstigingsrecht niet overschrijdt, wanneer een product van oorsprong uit de EU als gevolg van de verlaging van de douanerechten in dermate toegenomen hoeveelheden en onder zodanige omstandigheden op hun grondgebied wordt ingevoerd dat dit een bedreiging vormt voor de vestiging van een opkomende industrie of dat hierdoor voor een opkomende industrie die soortgelijke of rechtstreeks concurrerende producten vervaardigt, verstoringen ontstaan of dreigen te ontstaan.
 
@@ -676,11 +687,11 @@ Deze vrijwaringsmaatregelen mogen niet verder gaan dan wat nodig is om de ernsti
 
 ### HOOFDSTUK III. NIET-TARIFAIRE MAATREGELEN
 
-#### Artikel 39. Verbod op kwantitatieve beperkingen
+##### Artikel 39. Verbod op kwantitatieve beperkingen
 
 De partijen kunnen kwantitatieve beperkingen toepassen op voorwaarde dat dit geschiedt in overeenstemming met de [WTO-overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160).
 
-#### Artikel 40. Nationale behandeling op het gebied van interne belastingen en regelgeving
+##### Artikel 40. Nationale behandeling op het gebied van interne belastingen en regelgeving
 
 1. De partijen erkennen dat interne belastingen en andere interne heffingen, alsmede wetten, verordeningen en voorschriften betreffende verkoop, aanbod ten verkoop, koop, vervoer, distributie of gebruik van producten op de interne markt, en interne kwantitatieve regelingen die menging, be- of verwerking of gebruik van producten in bepaalde hoeveelheden of verhoudingen voorschrijven, niet op zodanige wijze op ingevoerde of interne producten mogen worden toegepast dat bescherming aan de interne productie wordt verleend.
 
@@ -702,7 +713,7 @@ De partijen kunnen kwantitatieve beperkingen toepassen op voorwaarde dat dit ges
 
 ### HOOFDSTUK IV. DOUANE EN HANDELSBEVORDERING
 
-#### Artikel 41. Doelstellingen
+##### Artikel 41. Doelstellingen
 
 De doelstellingen van dit hoofdstuk zijn:
 
@@ -714,7 +725,7 @@ De doelstellingen van dit hoofdstuk zijn:
 
 - d. bieden van de noodzakelijke steun aan de douanediensten van de SADC-EPO-staten voor de doeltreffende uitvoering van deze overeenkomst.
 
-#### Artikel 42. Samenwerking op administratief en douanegebied
+##### Artikel 42. Samenwerking op administratief en douanegebied
 
 1. De partijen nemen met het oog op de naleving van de bepalingen van dit hoofdstuk en om doeltreffend in te spelen op de in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&deel=II&hoofdstuk=IV&artikel=41&z=2016-06-10&g=2016-06-10) genoemde doelstellingen de volgende maatregelen:
 
@@ -736,7 +747,7 @@ De doelstellingen van dit hoofdstuk zijn:
 
 3. De partijen verlenen elkaar administratieve bijstand in douaneaangelegenheden in overeenstemming met protocol 2.
 
-#### Artikel 43. Douanewetgeving en -procedures
+##### Artikel 43. Douanewetgeving en -procedures
 
 1. De partijen komen overeen hun respectieve handels- en douanewetgeving alsmede hun respectieve handels- en douaneprocedures zoveel mogelijk te baseren op:
 
@@ -782,7 +793,7 @@ De doelstellingen van dit hoofdstuk zijn:
 
 - e. scheppen de partijen een goed klimaat voor de doeltreffende handhaving van de wettelijke vereisten.
 
-#### Artikel 44. Vergemakkelijking van de doorvoer
+##### Artikel 44. Vergemakkelijking van de doorvoer
 
 1. De partijen waarborgen de vrije doorvoer over hun grondgebied volgens de route die daarvoor het meest geschikt is. Eventuele controles of eisen moeten niet-discriminerend en evenredig zijn en overal op dezelfde wijze worden toegepast.
 
@@ -798,7 +809,7 @@ De doelstellingen van dit hoofdstuk zijn:
 
 - d. stimuleren de coördinatie tussen alle betrokken instanties, zowel intern als grensoverschrijdend.
 
-#### Artikel 45. Relaties met het bedrijfsleven
+##### Artikel 45. Relaties met het bedrijfsleven
 
 De partijen komen overeen:
 
@@ -810,19 +821,19 @@ De partijen komen overeen:
 
 - d. de samenwerking tussen de marktdeelnemers en de betrokken diensten te stimuleren door toepassing van instrumenten als memoranda van overeenstemming.
 
-#### Artikel 46. Vaststelling van de douanewaarde
+##### Artikel 46. Vaststelling van de douanewaarde
 
 1. Op de voorschriften inzake de vaststelling van de douanewaarde, die worden toegepast in de onder deze overeenkomst vallende handel, is de [Overeenkomst inzake de toepassing van artikel VII van de GATT 1994](onbekend) („WTO-overeenkomst inzake de douanewaarde”) van toepassing.
 
 2. De partijen werken samen aan een gemeenschappelijke aanpak van aangelegenheden in verband met de vaststelling van de douanewaarde.
 
-#### Artikel 47. Harmonisatie van douanenormen op regionaal niveau
+##### Artikel 47. Harmonisatie van douanenormen op regionaal niveau
 
 1. De partijen bevorderen de harmonisatie van de douanewetgeving, -procedures, -normen en -vereisten.
 
 2. Elk van de partijen bepaalt zelf de inhoud en het tempo van dit proces.
 
-#### Artikel 48. Steun voor de douanediensten van de SADC-EPO-staten
+##### Artikel 48. Steun voor de douanediensten van de SADC-EPO-staten
 
 1. De partijen erkennen het belang van steun voor de douanediensten van de SADC-EPO-staten bij de uitvoering van dit hoofdstuk, in overeenstemming met de bepalingen van Deel I, hoofdstuk III.
 
@@ -846,7 +857,7 @@ De partijen komen overeen:
 
 3. De partijen erkennen dat het noodzakelijk is de specifieke behoeften te evalueren met inachtneming van de situatie in elk land en met gebruikmaking van de WTO- en WDO-instrumenten voor de evaluatie van behoeften of van andere, onderling overeengekomen instrumenten.
 
-#### Artikel 49. Overgangsregelingen
+##### Artikel 49. Overgangsregelingen
 
 1. De partijen erkennen de noodzaak van overgangsregelingen om de soepele uitvoering van de bepalingen van dit hoofdstuk te waarborgen.
 
@@ -854,7 +865,7 @@ De partijen komen overeen:
 
 3. De Gezamenlijke Raad kan besluiten deze overgangsperiode met twee (2) jaar te verlengen wanneer de noodzakelijke capaciteit nog niet is bereikt.
 
-#### Artikel 50. Speciaal comité voor douane en handelsbevordering
+##### Artikel 50. Speciaal comité voor douane en handelsbevordering
 
 1. De partijen richten een speciaal comité voor douane en handelsbevordering op, dat bestaat uit vertegenwoordigers van de partijen.
 
@@ -882,13 +893,13 @@ De partijen komen overeen:
 
 ### HOOFDSTUK V. TECHNISCHE HANDELSBELEMMERINGEN
 
-#### Artikel 51. Multilaterale verplichtingen
+##### Artikel 51. Multilaterale verplichtingen
 
 1. De partijen bevestigen vastbesloten te zijn de rechten en verplichtingen uit hoofde van de [Overeenkomst inzake technische handelsbelemmeringen](onbekend) („TBT-overeenkomst van de WTO”) in acht te nemen.
 
 2. Die rechten en verplichtingen liggen ten grondslag aan de activiteiten van de partijen in het kader van dit hoofdstuk.
 
-#### Artikel 52. Doelstellingen
+##### Artikel 52. Doelstellingen
 
 De partijen komen overeen:
 
@@ -898,17 +909,17 @@ De partijen komen overeen:
 
 - c. technische capaciteit van de SADC-EPO-staten voor TBT-aangelegenheden tot stand te brengen en uit te breiden.
 
-#### Artikel 53. Toepassingsgebied en definities
+##### Artikel 53. Toepassingsgebied en definities
 
 1. De bepalingen van dit hoofdstuk zijn van toepassing op normen, technische voorschriften en conformiteitsbeoordelingsprocedures in de zin van de [TBT-overeenkomst van de WTO](onbekend), voor zover zij gevolgen hebben voor de handel waarop deze overeenkomst betrekking heeft.
 
 2. Voor de toepassing van dit hoofdstuk gelden de in de [TBT-overeenkomst van de WTO](onbekend) gebruikte definities.
 
-#### Artikel 54. Samenwerking en regionale integratie
+##### Artikel 54. Samenwerking en regionale integratie
 
 De partijen zijn het erover eens dat samenwerking tussen de nationale en regionale autoriteiten die bevoegd zijn voor TBT-aangelegenheden, zowel in de particuliere als in de overheidssector, belangrijk is voor de bevordering van de handel in de regio en tussen de partijen, alsmede voor het algehele proces van regionale integratie, en zij verbinden zich ertoe om met het oog hierop samen te werken.
 
-#### Artikel 55. Transparantie
+##### Artikel 55. Transparantie
 
 1. De partijen bevestigen opnieuw het beginsel van transparantie bij de toepassing van technische voorschriften en normen in overeenstemming met de [TBT-overeenkomst van de WTO](onbekend).
 
@@ -916,7 +927,7 @@ De partijen zijn het erover eens dat samenwerking tussen de nationale en regiona
 
 3. De partijen komen overeen een mechanisme voor vroegtijdige waarschuwing op te zetten om te verzekeren dat de SADC-EPO-staten vooraf in kennis worden gesteld van nieuwe maatregelen van de EU die gevolgen kunnen hebben voor de uitvoer van de SADC-EPO-staten naar de EU. De partijen maken optimaal gebruik van de bestaande mechanismen en voorkomen onnodige overlapping met multilaterale of unilaterale mechanismen.
 
-#### Artikel 56. Maatregelen in verband met technische handelsbelemmeringen
+##### Artikel 56. Maatregelen in verband met technische handelsbelemmeringen
 
 De partijen komen overeen mechanismen vast te stellen en toe te passen die door de [TBT-overeenkomst van de WTO](onbekend) worden ondersteund en het meest geschikt zijn voor specifieke prioritaire kwesties of sectoren. Bij deze mechanismen kan het gaan om:
 
@@ -938,7 +949,7 @@ De partijen komen overeen mechanismen vast te stellen en toe te passen die door 
 
 - i. bevordering van de deelname van de SADC-EPO-staten in internationale normalisatie-instellingen.
 
-#### Artikel 57. Rol van het Handels- en ontwikkelingscomité bij TBT-aangelegenheden
+##### Artikel 57. Rol van het Handels- en ontwikkelingscomité bij TBT-aangelegenheden
 
 De partijen komen overeen dat het Handels- en ontwikkelingscomité bevoegd is:
 
@@ -952,7 +963,7 @@ De partijen komen overeen dat het Handels- en ontwikkelingscomité bevoegd is:
 
 - e. alle andere onderwerpen te behandelen waarover de partijen met betrekking tot dit hoofdstuk overeenstemming bereiken.
 
-#### Artikel 58. Capaciteitsopbouw en technische bijstand
+##### Artikel 58. Capaciteitsopbouw en technische bijstand
 
 1. De partijen erkennen het belang van samenwerking op het gebied van technische voorschriften, normen, metrologie, accreditatie en conformiteitsbeoordeling om de doelstellingen van dit hoofdstuk te verwezenlijken.
 
@@ -970,13 +981,13 @@ De partijen komen overeen dat het Handels- en ontwikkelingscomité bevoegd is:
 
 ### HOOFDSTUK VI. SANITAIRE EN FYTOSANITAIRE MAATREGELEN
 
-#### Artikel 59. Multilaterale verplichtingen
+##### Artikel 59. Multilaterale verplichtingen
 
 1. De partijen bevestigen vastbesloten te zijn de rechten en verplichtingen uit hoofde van de [Overeenkomst inzake sanitaire en fytosanitaire maatregelen](onbekend) („SPS-overeenkomst van de WTO”), het [Internationaal Verdrag voor de bescherming van planten](https://wetten.overheid.nl/jci1.3:c:BWBV0003652) („IPPC”), de Codex Alimentarius-Commissie en de Wereldorganisatie voor diergezondheid („OIE”) in acht te nemen.
 
 2. Die rechten en verplichtingen liggen ten grondslag aan de activiteiten van de partijen in het kader van dit hoofdstuk.
 
-#### Artikel 60. Doelstellingen
+##### Artikel 60. Doelstellingen
 
 De partijen komen overeen:
 
@@ -988,19 +999,19 @@ De partijen komen overeen:
 
 - d. technische capaciteit van de SADC-EPO-staten voor de uitvoering van en het toezicht op SPS-maatregelen tot stand te brengen en uit te breiden, en daarbij een ruimer gebruik van internationale SPS-normen en andere SPS-aspecten te bevorderen.
 
-#### Artikel 61. Toepassingsgebied en definities
+##### Artikel 61. Toepassingsgebied en definities
 
 1. De bepalingen van dit hoofdstuk zijn van toepassing op SPS-maatregelen in de zin van de [SPS-Overeenkomst van de WTO](onbekend).
 
 2. Voor de toepassing van dit hoofdstuk gelden de in de [SPS-overeenkomst van de WTO](onbekend) en bij internationale normalisatie-instellingen, te weten de Codex Alimentarius-Commissie, het IPPC en de OIE, gebruikte definities.
 
-#### Artikel 62. Bevoegde instanties
+##### Artikel 62. Bevoegde instanties
 
 1. De SPS-instanties in de partijen zijn bevoegd voor de uitvoering van de in dit hoofdstuk bedoelde maatregelen.
 
 2. De partijen stellen elkaar, in overeenstemming met deze overeenkomst, in kennis van hun respectieve bevoegde SPS-instanties, en van alle wijzigingen daarin.
 
-#### Artikel 63. Transparantie
+##### Artikel 63. Transparantie
 
 1. De partijen bevestigen opnieuw het beginsel van transparantie bij de toepassing van SPS-maatregelen in overeenstemming met de [SPS-overeenkomst van de WTO](onbekend).
 
@@ -1010,13 +1021,13 @@ De partijen komen overeen:
 
 4. De partijen passen bij de vaststelling van invoervoorwaarden het beginsel van zonering of compartimentering toe, waarbij rekening wordt gehouden met internationale normen. Indien mogelijk kunnen van geval tot geval ook zones of compartimenten met een vastgestelde sanitaire of fytosanitaire status door de partijen gezamenlijk worden vastgesteld en voorgesteld, teneinde handelsverstoringen te voorkomen.
 
-#### Artikel 64. Uitwisseling van informatie
+##### Artikel 64. Uitwisseling van informatie
 
 1. De partijen komen overeen een systeem voor vroegtijdige waarschuwing op te zetten om te verzekeren dat de SADC-EPO-staten vooraf in kennis worden gesteld van nieuwe SPS-maatregelen van de EU die gevolgen kunnen hebben voor de uitvoer van de SADC-EPO-staten naar de EU. Dit systeem wordt in voorkomend geval gebaseerd op bestaande mechanismen.
 
 2. De partijen komen overeen samen te werken bij de uitbouw van het netwerk voor epidemiologische surveillance voor dierziekten en op fytosanitair gebied. De partijen wisselen informatie uit over het vóórkomen van schadelijke organismen en ziekten waarvan bekend is dat zij onmiddellijk gevaar voor de andere partij opleveren.
 
-#### Artikel 65. Rol van het Handels- en ontwikkelingscomité bij SPS-aangelegenheden
+##### Artikel 65. Rol van het Handels- en ontwikkelingscomité bij SPS-aangelegenheden
 
 Het Handels- en ontwikkelingscomité is bevoegd:
 
@@ -1034,11 +1045,11 @@ Het Handels- en ontwikkelingscomité is bevoegd:
 
 - g. alle andere relevante aangelegenheden in verband hiermee te bespreken.
 
-#### Artikel 66. Overleg
+##### Artikel 66. Overleg
 
 Indien een van de partijen van oordeel is dat een andere partij maatregelen heeft getroffen die gevolgen kunnen hebben of kunnen hebben gehad voor de toegang tot haar markt, vindt passend overleg plaats teneinde onnodige vertragingen te voorkomen en een passende oplossing te vinden in overeenstemming met de [SPS-overeenkomst van de WTO](onbekend). In dit verband verstrekken de partijen elkaar de namen en adressen van contactpunten met sanitaire en fytosanitaire expertise, teneinde de communicatie en de uitwisseling van informatie te vergemakkelijken.
 
-#### Artikel 67. Samenwerking, capaciteitsopbouw en technische bijstand
+##### Artikel 67. Samenwerking, capaciteitsopbouw en technische bijstand
 
 De partijen komen overeen:
 
@@ -1064,7 +1075,7 @@ De partijen komen overeen:
 
 ### HOOFDSTUK VII. LANDBOUW
 
-#### Artikel 68. Samenwerking op het gebied van landbouw
+##### Artikel 68. Samenwerking op het gebied van landbouw
 
 1. De partijen benadrukken het belang van de landbouwsector voor de SADC-EPO-staten wat betreft de voedselzekerheid, het scheppen van werkgelegenheid in plattelandsgebieden, het vergroten van de inkomens van landbouwbedrijven, het creëren van een inclusieve plattelandseconomie, en als basis voor verdergaande industrialisering en voor duurzame ontwikkeling, alsmede om bij te dragen tot de verwezenlijking van de doelstellingen van deze overeenkomst.
 
@@ -1074,29 +1085,29 @@ De partijen komen overeen:
 
 ### HOOFDSTUK VIII. LOPENDE BETALINGEN EN KAPITAALBEWEGINGEN
 
-#### Artikel 69. Lopende betalingen
+##### Artikel 69. Lopende betalingen
 
 1. Onder voorbehoud van de toepassing van de [artikelen 70](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&deel=II&hoofdstuk=VIII&artikel=70&z=2016-06-10&g=2016-06-10) en [71](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&deel=II&hoofdstuk=VIII&artikel=71&z=2016-06-10&g=2016-06-10) verbinden de partijen zich ertoe alle betalingen in vrij converteerbare valuta voor lopende transacties tussen hun ingezetenen toe te staan en geen beperkingen dienaangaande vast te stellen.
 
 2. De partijen kunnen de nodige maatregelen nemen om te waarborgen dat het bepaalde in lid 1 niet wordt gebruikt voor het verrichten van overschrijvingen die niet in overeenstemming zijn met de wet- en regelgeving van een partij.
 
-#### Artikel 70. Vrijwaringsmaatregelen
+##### Artikel 70. Vrijwaringsmaatregelen
 
 1. Wanneer betalingen en kapitaalbewegingen tussen de partijen in uitzonderlijke omstandigheden ernstige moeilijkheden veroorzaken of dreigen te veroorzaken voor het monetair beleid of het wisselkoersbeleid van een of meer SADC-EPO-staten of een of meer lidstaten van de Europese Unie, kan de EU of de betrokken SADC-EPO-staat voor ten hoogste zes (6) maanden strikt noodzakelijke vrijwaringsmaatregelen ten aanzien van betalingen en kapitaalbewegingen nemen.
 
 2. De Gezamenlijke Raad wordt onverwijld van de vaststelling van vrijwaringsmaatregelen en zo spoedig mogelijk van een tijdschema voor de opheffing ervan in kennis gesteld.
 
-#### Artikel 71. Betalingsbalansmoeilijkheden
+##### Artikel 71. Betalingsbalansmoeilijkheden
 
 Indien zich met betrekking tot de betalingsbalans of de buitenlandse financiële positie van een of meer lidstaten van de Europese Unie of van een SADC-EPO-staat ernstige moeilijkheden voordoen of dreigen voor te doen, kan die lidstaat respectievelijk die SADC-EPO-staat in overeenstemming met de voorwaarden bepaald in de [WTO-overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160) en de Statuten van het Internationaal Monetair Fonds beperkende maatregelen treffen, die van beperkte duur moeten zijn en niet verder mogen gaan dan nodig is om de situatie van de betalingsbalans te corrigeren. Een partij die dergelijke maatregelen heeft getroffen of gehandhaafd, stelt de andere partij daarvan onverwijld in kennis en legt zo spoedig mogelijk een tijdschema voor de opheffing van deze maatregelen voor.
 
 ### HOOFDSTUK IX. HANDEL IN DIENSTEN EN INVESTERINGEN
 
-#### Artikel 72. Doelstellingen
+##### Artikel 72. Doelstellingen
 
 De partijen erkennen het toenemende belang van de handel in diensten en investeringen voor de ontwikkeling van hun economieën en herbevestigen hun verbintenis met betrekking tot diensten in de [artikelen 41](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&artikel=41), [42](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&artikel=42) en [43 van de Overeenkomst van Cotonou](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&artikel=43) en hun respectieve rechten en verplichtingen in het kader van de [Algemene Overeenkomst betreffende de handel in diensten](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&bijlage=1B) („GATS”).
 
-#### Artikel 73. Handel in diensten
+##### Artikel 73. Handel in diensten
 
 1. De partijen kunnen onderhandelingen over de handel in diensten voeren met het oog op uitbreiding van het toepassingsgebied van deze overeenkomst. In dit verband hebben Botswana, Lesotho, Mozambique en Swaziland („deelnemende SADC-EPO-staten”), enerzijds, en de EU, anderzijds, onderhandelingen over de handel in diensten geopend, die zij zullen voortzetten.
 
@@ -1120,7 +1131,7 @@ De partijen erkennen het toenemende belang van de handel in diensten en invester
 
 5. Indien een overeenkomst die voortvloeit uit de in de leden 1 en 4 bedoelde onderhandelingen, leidt tot resultaten die onverenigbaar blijken met de toekomstige ontwikkeling van een regionaal kader van de SADC voor diensten, zullen de partijen bij de onderhavige overeenkomst onderhandelingen aangaan om deze overeenkomst in overeenstemming te brengen met een dergelijk regionaal kader en tegelijkertijd zorgen voor een evenwichtige verdeling van de voordelen.
 
-#### Artikel 74. Handel en investeringen
+##### Artikel 74. Handel en investeringen
 
 1. De EU en de deelnemende SADC-EPO-staten komen overeen samen te werken op het gebied van investeringen overeenkomstig [artikel 13, lid 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&deel=I&hoofdstuk=III&artikel=13&z=2016-06-10&g=2016-06-10), en kunnen in de toekomst onderhandelingen in overweging nemen over de sluiting van een overeenkomst inzake investeringen in andere economische sectoren dan de dienstensector.
 
@@ -1132,7 +1143,7 @@ De partijen erkennen het toenemende belang van de handel in diensten en invester
 
 ### HOOFDSTUK I. DOELSTELLING EN TOEPASSINGSGEBIED
 
-#### Artikel 75. Doelstelling
+##### Artikel 75. Doelstelling
 
 1. Het doel van [deel III](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&titeldeel=III&z=2016-06-10&g=2016-06-10) is geschillen tussen de partijen over de interpretatie en de toepassing van deze overeenkomst te vermijden of te beslechten teneinde waar mogelijk tot een onderling overeengekomen oplossing te komen.
 
@@ -1140,7 +1151,7 @@ De partijen erkennen het toenemende belang van de handel in diensten en invester
 
 3. In het kader van geschillen die betrekking hebben op een of meer van zijn individuele maatregelen, treedt een SADC-EPO-staat voor de toepassing van dit Deel individueel op en is voor de EU uitsluitend de specifieke staat die haars inziens een bepaling van deze overeenkomst heeft geschonden de andere partij in het geschil.
 
-#### Artikel 76. Toepassingsgebied
+##### Artikel 76. Toepassingsgebied
 
 1. [Deel III](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&titeldeel=III&z=2016-06-10&g=2016-06-10) is van toepassing op alle geschillen over de interpretatie en de toepassing van deze overeenkomst, tenzij uitdrukkelijk anders is bepaald.
 
@@ -1148,7 +1159,7 @@ De partijen erkennen het toenemende belang van de handel in diensten en invester
 
 ### HOOFDSTUK II. OVERLEG EN BEMIDDELING
 
-#### Artikel 77. Overleg
+##### Artikel 77. Overleg
 
 1. De partijen streven ernaar elk in [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&deel=III&hoofdstuk=I&artikel=76&z=2016-06-10&g=2016-06-10) bedoeld geschil op te lossen door te goeder trouw overleg te plegen om tot een schikking in der minne te komen.
 
@@ -1160,7 +1171,7 @@ De partijen erkennen het toenemende belang van de handel in diensten en invester
 
 5. Indien het overleg niet binnen de in respectievelijk lid 3 of lid 4 genoemde termijnen plaatsvindt, of indien het overleg is afgesloten zonder dat een onderling overeengekomen oplossing is bereikt, kan de klagende partij verzoeken om de instelling van een arbitragepanel overeenkomstig [artikel 79](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&deel=III&hoofdstuk=III&artikel=79&z=2016-06-10&g=2016-06-10).
 
-#### Artikel 78. Bemiddeling
+##### Artikel 78. Bemiddeling
 
 1. Indien het overleg niet tot een onderling overeengekomen oplossing leidt, kunnen de partijen overeenkomen een beroep te doen op een bemiddelaar. Tenzij de partijen anders overeenkomen, heeft het mandaat van de bemiddelaar betrekking op de in het verzoek om overleg genoemde aangelegenheid.
 
@@ -1174,13 +1185,13 @@ De partijen erkennen het toenemende belang van de handel in diensten en invester
 
 ### HOOFDSTUK III. GESCHILLENBESLECHTINGSPROCEDURES
 
-#### Artikel 79. Inleiding van de arbitrageprocedure
+##### Artikel 79. Inleiding van de arbitrageprocedure
 
 1. Wanneer de partijen er niet in zijn geslaagd het geschil door middel van het in [artikel 77](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&deel=III&hoofdstuk=II&artikel=77&z=2016-06-10&g=2016-06-10) bedoelde overleg of de in [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&deel=III&hoofdstuk=II&artikel=78&z=2016-06-10&g=2016-06-10) bedoelde bemiddeling op te lossen, kan de klagende partij verzoeken om de instelling van een arbitragepanel.
 
 2. Het verzoek om instelling van een arbitragepanel moet schriftelijk worden gedaan bij de partij waartegen de klacht gericht is en bij het Handels- en ontwikkelingscomité. De klagende partij vermeldt in haar verzoek de specifieke maatregelen die in het geding zijn en legt uit waarom die maatregelen een inbreuk op de bepalingen van deze overeenkomst zijn.
 
-#### Artikel 80. Instelling van het arbitragepanel
+##### Artikel 80. Instelling van het arbitragepanel
 
 1. Een arbitragepanel bestaat uit drie (3) arbiters.
 
@@ -1192,11 +1203,11 @@ De partijen erkennen het toenemende belang van de handel in diensten en invester
 
 5. De datum van instelling van het arbitragepanel is de datum waarop de drie (3) arbiters uiteindelijk worden aangewezen.
 
-#### Artikel 81. Tussentijds panelverslag
+##### Artikel 81. Tussentijds panelverslag
 
 Het arbitragepanel geeft de partijen in de regel uiterlijk honderdtwintig (120) dagen na de datum van instelling ervan kennis van een tussentijds verslag met een beschrijving van het geschil en met zijn bevindingen en conclusies. In dringende gevallen wordt de termijn verkort tot zestig (60) dagen. Een partij kan het arbitragepanel binnen vijftien (15) dagen na de kennisgeving van het tussentijdse verslag schriftelijke opmerkingen over specifieke aspecten van het tussentijdse verslag doen toekomen.
 
-#### Artikel 82. Arbitrale uitspraak
+##### Artikel 82. Arbitrale uitspraak
 
 1. Het arbitragepanel stelt de partijen en het Handels- en ontwikkelingscomité binnen honderdvijftig (150) dagen na de datum van instelling ervan in kennis van zijn uitspraak. Wanneer het arbitragepanel van oordeel is dat deze termijn niet kan worden gehaald, stelt de voorzitter van het panel de partijen en het Handels- en ontwikkelingscomité hiervan schriftelijk in kennis, met opgave van de redenen voor de vertraging en de datum waarop het panel zijn werkzaamheden denkt te kunnen voltooien. In geen geval mag van de uitspraak later dan honderdtachtig (180) dagen na de datum van instelling van het arbitragepanel worden kennisgegeven.
 
@@ -1204,11 +1215,11 @@ Het arbitragepanel geeft de partijen in de regel uiterlijk honderdtwintig (120) 
 
 3. Elk van de partijen kan het arbitragepanel verzoeken een aanbeveling te doen over de vraag hoe de partij waartegen de klacht gericht is, aan de overeenkomst kan voldoen.
 
-#### Artikel 83. Naleving van de arbitrale uitspraak
+##### Artikel 83. Naleving van de arbitrale uitspraak
 
 De partij waartegen de klacht gericht is, neemt alle nodige maatregelen om de arbitrale uitspraak na te leven en beide partijen streven ernaar overeenstemming te bereiken over de termijn waarbinnen die uitspraak moet worden nageleefd.
 
-#### Artikel 84. Redelijke termijn voor naleving
+##### Artikel 84. Redelijke termijn voor naleving
 
 1. Uiterlijk dertig (30) dagen na de datum van ontvangst door de partijen van de kennisgeving van de arbitrale uitspraak stelt de partij waartegen de klacht gericht is de klagende partij en het Handels- en ontwikkelingscomité in kennis van de redelijke termijn die zij nodig heeft om de arbitrale uitspraak na te leven.
 
@@ -1220,7 +1231,7 @@ De partij waartegen de klacht gericht is, neemt alle nodige maatregelen om de ar
 
 5. De partijen kunnen de redelijke termijn in onderling overleg verlengen.
 
-#### Artikel 85. Onderzoek van de maatregelen tot naleving van de arbitrale uitspraak
+##### Artikel 85. Onderzoek van de maatregelen tot naleving van de arbitrale uitspraak
 
 1. De partij waartegen de klacht gericht is, stelt de klagende partij en het Handels- en ontwikkelingscomité vóór afloop van de redelijke termijn in kennis van alle maatregelen die zij heeft getroffen om de arbitrale uitspraak na te leven.
 
@@ -1228,7 +1239,7 @@ De partij waartegen de klacht gericht is, neemt alle nodige maatregelen om de ar
 
 3. Indien het oorspronkelijke arbitragepanel, of één of meer van de leden ervan, niet opnieuw kan (kunnen) bijeenkomen, is de procedure van [artikel 80](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&deel=III&hoofdstuk=III&artikel=80&z=2016-06-10&g=2016-06-10) van toepassing. De termijn voor de kennisgeving van de uitspraak bedraagt honderdvijf (105) dagen na de datum van ontvangst van het in lid 2 bedoelde verzoek.
 
-#### Artikel 86. Tijdelijke maatregelen bij niet-naleving
+##### Artikel 86. Tijdelijke maatregelen bij niet-naleving
 
 1. Indien de partij waartegen de klacht gericht is niet vóór afloop van de redelijke termijn kennisgeeft van de maatregelen die zij heeft getroffen om de arbitrale uitspraak na te leven, of indien het arbitragepanel oordeelt dat de maatregel waarvan krachtens [artikel 85, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&deel=III&hoofdstuk=III&artikel=85&z=2016-06-10&g=2016-06-10), is kennisgegeven, niet verenigbaar is met de bepalingen van deze overeenkomst, doet de partij waartegen de klacht gericht is de klagende partij, op verzoek van deze laatste, een compensatieaanbod. Deze compensatie kan geheel of ten dele bestaan uit een financiële vergoeding, hoewel geen enkele bepaling van deze overeenkomst de partij waartegen de klacht gericht is, verplicht een dergelijke financiële vergoeding aan te bieden.
 
@@ -1244,7 +1255,7 @@ De partij waartegen de klacht gericht is, neemt alle nodige maatregelen om de ar
 
 7. Voor de toepassing van de [artikelen 86](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&deel=III&hoofdstuk=III&artikel=86&z=2016-06-10&g=2016-06-10) en [87](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&deel=III&hoofdstuk=III&artikel=87&z=2016-06-10&g=2016-06-10) worden met „passende maatregelen” maatregelen bedoeld die vergelijkbaar zijn met die op grond van het Memorandum van overeenstemming inzake de regels en procedures betreffende de beslechting van geschillen („DSU”), dat is neergelegd in [bijlage 2 bij de WTO-overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&bijlage=2).
 
-#### Artikel 87. Onderzoek van de nalevingsmaatregelen getroffen na de vaststelling van passende maatregelen
+##### Artikel 87. Onderzoek van de nalevingsmaatregelen getroffen na de vaststelling van passende maatregelen
 
 1. De partij waartegen de klacht gericht is, stelt de klagende partij en het Handels- en ontwikkelingscomité in kennis van alle maatregelen die zij heeft getroffen om de arbitrale uitspraak na te leven en van haar verzoek om beëindiging van de toepassing van passende maatregelen door de klagende partij.
 
@@ -1254,37 +1265,37 @@ De partij waartegen de klacht gericht is, neemt alle nodige maatregelen om de ar
 
 ### HOOFDSTUK IV. GEMEENSCHAPPELIJKE BEPALINGEN
 
-#### Artikel 88. Onderling overeengekomen oplossing
+##### Artikel 88. Onderling overeengekomen oplossing
 
 De partijen kunnen te allen tijde onderling een oplossing voor een onder dit hoofdstuk vallend geschil overeenkomen. Zij stellen het Handels- en ontwikkelingscomité en in voorkomend geval het arbitragepanel van die oplossing in kennis. Na goedkeuring van de onderling overeengekomen oplossing wordt de geschillenbeslechtingsprocedure beëindigd.
 
-#### Artikel 89. Reglement van orde en gedragscode
+##### Artikel 89. Reglement van orde en gedragscode
 
 1. De partijen komen binnen twaalf (12) maanden na de inwerkingtreding van deze overeenkomst tot overeenstemming over een reglement van orde en een gedragscode, die zullen worden goedgekeurd door de Gezamenlijke Raad.
 
 2. De vergaderingen van het arbitragepanel zijn overeenkomstig het reglement van orde openbaar, tenzij het arbitragepanel op eigen initiatief of op verzoek van de partijen anderszins besluit. Het arbitragepanel komt achter gesloten deuren bijeen wanneer de door een partij ingediende stukken of de argumenten van een partij vertrouwelijke informatie bevatten.
 
-#### Artikel 90. Informatie en technisch advies
+##### Artikel 90. Informatie en technisch advies
 
 Het arbitragepanel kan op verzoek van een partij of op eigen initiatief informatie inwinnen bij alle bronnen, met inbegrip van de bij het geschil betrokken partijen, die het voor de arbitrageprocedure nuttig acht. Het arbitragepanel heeft tevens het recht deskundigen om advies te vragen wanneer het dat nuttig acht. Belanghebbenden kunnen overeenkomstig het reglement van orde als amicus curiae opmerkingen bij het arbitragepanel indienen. Alle op deze manier verkregen informatie moet aan de partijen worden medegedeeld en voor opmerkingen aan hen worden voorgelegd.
 
-#### Artikel 91. Taal van de stukken en opmerkingen
+##### Artikel 91. Taal van de stukken en opmerkingen
 
 1. Voor de schriftelijke stukken en de mondelinge opmerkingen van de partijen wordt een van de officiële talen van de partijen gebruikt.
 
 2. De partijen streven ernaar om voor elke specifieke procedure in het kader van dit deel een gemeenschappelijke werktaal overeen te komen. Indien de partijen niet tot overeenstemming kunnen komen over een gemeenschappelijke werktaal, draagt elk van de partijen de zorg en de kosten voor de vertaling van haar schriftelijke stukken en voor vertolking tijdens hoorzittingen in de taal die is gekozen door de partij waartegen de klacht gericht is, tenzij die taal een officiële taal van die partij is. Bij het streven naar overeenstemming over een gemeenschappelijke werktaal houdt de EU rekening met het potentiële effect van de kosten ervan voor de SADC-EPO-staten.
 
-#### Artikel 92. Interpretatieregels
+##### Artikel 92. Interpretatieregels
 
 Het arbitragepanel legt de bepalingen van deze overeenkomst uit volgens de gebruikelijke regels voor de interpretatie van het internationaal publiekrecht, met inbegrip van die welke in het Verdrag van Wenen inzake het verdragenrecht zijn neergelegd. De uitspraken van het arbitragepanel kunnen de rechten en verplichtingen uit hoofde van deze overeenkomst niet verruimen of beperken.
 
-#### Artikel 93. Arbitrale uitspraken
+##### Artikel 93. Arbitrale uitspraken
 
 1. Het arbitragepanel stelt alles in het werk om elk besluit bij consensus te nemen. Wanneer het evenwel niet mogelijk is bij consensus tot een besluit te komen, wordt een besluit bij meerderheid van stemmen genomen.
 
 2. De uitspraak vermeldt de resultaten van het feitenonderzoek, de toepasselijkheid van de desbetreffende bepalingen van deze overeenkomst alsmede de aan de bevindingen en conclusies van het panel ten grondslag liggende motivering. Het Handels- en ontwikkelingscomité maakt de arbitrale uitspraak openbaar, maar kan besluiten dat niet te doen.
 
-#### Artikel 94. Lijst van arbiters
+##### Artikel 94. Lijst van arbiters
 
 1. Het Handels- en ontwikkelingscomité stelt uiterlijk drie (3) maanden na de inwerkingtreding van deze overeenkomst een lijst op van eenentwintig (21) personen die bereid en in staat zijn om als arbiter op te treden. Elk van de partijen wijst acht (8) personen aan die als arbiter in aanmerking komen. De partijen wijzen in onderling overleg tevens vijf (5) personen aan die geen onderdaan van een van de partijen zijn en die als voorzitter van het arbitragepanel kunnen optreden. Het Handels- en ontwikkelingscomité ziet erop toe dat de lijst te allen tijde overeenkomstig dit artikel bijgewerkt is.
 
@@ -1292,7 +1303,7 @@ Het arbitragepanel legt de bepalingen van deze overeenkomst uit volgens de gebru
 
 3. Het Handels- en ontwikkelingscomité kan een aanvullende lijst van vijftien (15) personen met sectorale expertise op specifieke onder deze overeenkomst vallende onderwerpen opstellen. Wanneer de selectieprocedure van [artikel 80](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&deel=III&hoofdstuk=III&artikel=80&z=2016-06-10&g=2016-06-10) wordt toegepast, kan de voorzitter van het Handels- en ontwikkelingscomité met instemming van beide partijen van die sectorale lijst gebruikmaken.
 
-#### Artikel 95. Verhouding tot WTO-verplichtingen
+##### Artikel 95. Verhouding tot WTO-verplichtingen
 
 1. De krachtens deze overeenkomst ingestelde arbitragepanels doen geen uitspraak in geschillen die verband houden met de rechten en verplichtingen van een partij uit hoofde van de [WTO-overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160).
 
@@ -1300,7 +1311,7 @@ Het arbitragepanel legt de bepalingen van deze overeenkomst uit volgens de gebru
 
 3. Geen enkele bepaling van deze overeenkomst belet een partij over te gaan tot een schorsing van verplichtingen die door het Orgaan voor geschillenbeslechting van de WTO is toegestaan.
 
-#### Artikel 96. Termijnen
+##### Artikel 96. Termijnen
 
 1. Alle in dit deel vermelde termijnen, met inbegrip van die waarbinnen de arbitragepanels moeten kennisgeven van hun uitspraken, worden gerekend in kalenderdagen vanaf de dag die volgt op de dag waarop het desbetreffende besluit wordt genomen of het desbetreffende feit plaatsvindt.
 
@@ -1308,7 +1319,7 @@ Het arbitragepanel legt de bepalingen van deze overeenkomst uit volgens de gebru
 
 ## DEEL IV. ALGEMENE UITZONDERINGEN
 
-#### Artikel 97. Algemene uitzonderingsclausule
+##### Artikel 97. Algemene uitzonderingsclausule
 
 Mits de hieronder bedoelde maatregelen niet zodanig worden toegepast dat zij een middel tot willekeurige of ongerechtvaardigde discriminatie tussen de partijen bij soortgelijke omstandigheden, of een verkapte beperking van de internationale handel vormen, wordt geen enkele bepaling van deze overeenkomst uitgelegd als een beletsel voor een van de partijen om maatregelen vast te stellen of toe te passen die:
 
@@ -1332,7 +1343,7 @@ Mits de hieronder bedoelde maatregelen niet zodanig worden toegepast dat zij een
 
 - j. van wezenlijk belang zijn voor de verwerving of distributie van producten waaraan een algemeen of plaatselijk tekort bestaat, mits de maatregelen in overeenstemming zijn met het beginsel dat de partijen en de SADC-EPO-staten recht hebben op een billijk aandeel in het internationale aanbod van die producten en, wanneer zij strijdig zijn met andere bepalingen van deze overeenkomst, worden beëindigd zodra de omstandigheden die aanleiding hebben gegeven tot de maatregelen, niet meer bestaan.
 
-#### Artikel 98. Uitzonderingen op grond van veiligheidsoverwegingen
+##### Artikel 98. Uitzonderingen op grond van veiligheidsoverwegingen
 
 1. Geen enkele bepaling van deze overeenkomst mag zodanig worden uitgelegd dat:
 
@@ -1350,7 +1361,7 @@ Mits de hieronder bedoelde maatregelen niet zodanig worden toegepast dat zij een
 
 2. Het Handels- en ontwikkelingscomité wordt ingelicht over maatregelen die krachtens lid 1, onder b) en c), worden genomen en over de beëindiging daarvan.
 
-#### Artikel 99. Belastingen
+##### Artikel 99. Belastingen
 
 1. Geen enkele bepaling van deze overeenkomst of van een in het kader van deze overeenkomst getroffen regeling mag worden uitgelegd als beletsel voor een van de partijen om bij de toepassing van de desbetreffende bepalingen van haar belastingwetgeving een onderscheid te maken tussen belastingbetalers die niet in dezelfde situatie verkeren, in het bijzonder met betrekking tot hun verblijfplaats of de plaats waar hun kapitaal is geïnvesteerd.
 
@@ -1360,11 +1371,11 @@ Mits de hieronder bedoelde maatregelen niet zodanig worden toegepast dat zij een
 
 ## DEEL V. INSTITUTIONELE BEPALINGEN
 
-#### Artikel 100. Gezamenlijke Raad
+##### Artikel 100. Gezamenlijke Raad
 
 Er wordt een Gezamenlijke Raad SADC-EPO-staten – EU („Gezamenlijke Raad”) opgericht, die toezicht houdt op de uitvoering van deze overeenkomst en deze beheert.
 
-#### Artikel 101. Samenstelling en taken
+##### Artikel 101. Samenstelling en taken
 
 1. De Gezamenlijke Raad bestaat uit de betrokken leden van de Raad van de EU en de betrokken leden van de Europese Commissie of hun vertegenwoordigers, enerzijds, en de betrokken ministers van de SADC-EPO-staten of hun vertegenwoordigers, anderzijds. De eerste vergadering van de Gezamenlijke Raad wordt gezamenlijk voorgezeten door de partijen.
 
@@ -1396,7 +1407,7 @@ Er wordt een Gezamenlijke Raad SADC-EPO-staten – EU („Gezamenlijke Raad”) 
 
 4. De Gezamenlijke Raad kan periodiek verslagen over de werking van deze overeenkomst indienen bij de Raad van Ministers die is opgericht overeenkomstig [artikel 15 van de Overeenkomst van Cotonou](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&artikel=15).
 
-#### Artikel 102. Beslissingsbevoegdheden en procedures
+##### Artikel 102. Beslissingsbevoegdheden en procedures
 
 1. Voor de verwezenlijking van de doelstellingen van deze overeenkomst heeft de Gezamenlijke Raad beslissingsbevoegdheid ten aanzien van alle onder deze overeenkomst vallende aangelegenheden.
 
@@ -1406,7 +1417,7 @@ Er wordt een Gezamenlijke Raad SADC-EPO-staten – EU („Gezamenlijke Raad”) 
 
 4. De Gezamenlijke Raad komt met regelmatige tussenpozen van niet meer dan twee (2) jaar bijeen, en wanneer de omstandigheden zulks vereisen in buitengewone vergadering, indien de partijen daartoe gezamenlijk besluiten.
 
-#### Artikel 103. Handels- en ontwikkelingscomité
+##### Artikel 103. Handels- en ontwikkelingscomité
 
 1. De Gezamenlijke Raad wordt bij de vervulling van zijn taken bijgestaan door een Handels- en ontwikkelingscomité, dat bestaat uit vertegenwoordigers van de partijen, gewoonlijk hoge ambtenaren.
 
@@ -1456,7 +1467,7 @@ Er wordt een Gezamenlijke Raad SADC-EPO-staten – EU („Gezamenlijke Raad”) 
 
 ## DEEL VI. ALGEMENE EN SLOTBEPALINGEN
 
-#### Artikel 104. Definitie van de partijen en naleving van de verplichtingen
+##### Artikel 104. Definitie van de partijen en naleving van de verplichtingen
 
 1. De partijen bij deze overeenkomst zijn Botswana, Lesotho, Namibië, Zuid-Afrika, Swaziland en Mozambique, enerzijds („de SADC-EPO-staten”), en de Europese Unie of haar lidstaten dan wel de Europese Unie en haar lidstaten, in het kader van hun respectieve bevoegdheidsgebieden overeenkomstig het Verdrag betreffende de Europese Unie (VEU) en het Verdrag betreffende de werking van de Europese Unie (VWEU), anderzijds („de EU”).
 
@@ -1468,7 +1479,7 @@ Er wordt een Gezamenlijke Raad SADC-EPO-staten – EU („Gezamenlijke Raad”) 
 
 5. De partijen treffen alle algemene of bijzondere maatregelen die vereist zijn om aan hun verplichtingen krachtens deze overeenkomst te voldoen en zien erop toe dat zij de in deze overeenkomst neergelegde doelstellingen in acht nemen.
 
-#### Artikel 105. Uitwisseling van informatie
+##### Artikel 105. Uitwisseling van informatie
 
 1. Om de communicatie met betrekking tot de doeltreffende uitvoering van deze overeenkomst te vergemakkelijken, wijzen de partijen vanaf de inwerkingtreding van de overeenkomst elk een coördinator voor de uitwisseling van informatie aan. De aanwijzing van een coördinator voor de uitwisseling van informatie laat de specifieke aanwijzing van bevoegde instanties in het kader van specifieke bepalingen van deze overeenkomst onverlet.
 
@@ -1476,7 +1487,7 @@ Er wordt een Gezamenlijke Raad SADC-EPO-staten – EU („Gezamenlijke Raad”) 
 
 3. Op verzoek van een partij verstrekt de andere partij, voor zover juridisch mogelijk, informatie en beantwoordt zij onverwijld elke vraag over een bestaande of voorgestelde maatregel die gevolgen kan hebben voor de handel tussen de partijen.
 
-#### Artikel 106. Transparantie
+##### Artikel 106. Transparantie
 
 1. Een partij publiceert haar wet- en regelgeving, procedures en algemene administratieve beschikkingen alsmede alle andere verbintenissen krachtens een internationale overeenkomst met betrekking tot enige handelsaangelegenheid die onder deze overeenkomst valt, of maakt deze openbaar. Wanneer dergelijke maatregelen na de inwerkingtreding van deze overeenkomst worden vastgesteld, worden zij ter kennis van de andere partij gebracht.
 
@@ -1492,17 +1503,17 @@ Wanneer evenwel de EU dergelijke informatie via een officiële, voor iedereen ko
 
 3. Geen enkele bepaling van deze overeenkomst verplicht een partij ertoe vertrouwelijke informatie te verstrekken wanneer bekendmaking ervan de rechtshandhaving zou belemmeren, anderszins in strijd zou zijn met het openbaar belang of schadelijk zou zijn voor de rechtmatige commerciële belangen van bepaalde openbare of particuliere ondernemingen, tenzij bekendmaking nodig mocht zijn in het kader van een procedure voor geschillenbeslechting ingevolge deze overeenkomst. Wanneer een krachtens [DEEL III](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&titeldeel=III&z=2016-06-10&g=2016-06-10) ingesteld panel bekendmaking nodig acht, ziet het erop toe dat de vertrouwelijkheid volledig in acht wordt genomen.
 
-#### Artikel 107. Tijdelijke moeilijkheden bij de uitvoering
+##### Artikel 107. Tijdelijke moeilijkheden bij de uitvoering
 
 Een partij die wegens factoren waarop zij geen invloed heeft, moeilijkheden ondervindt om aan haar verplichtingen uit hoofde van deze overeenkomst te voldoen, brengt de aangelegenheid onmiddellijk ter kennis van de Gezamenlijke Raad.
 
-#### Artikel 108. Regionale preferenties
+##### Artikel 108. Regionale preferenties
 
 1. Geen enkele bepaling van deze overeenkomst verplicht een partij ertoe een gunstiger behandeling die zij als onderdeel van haar regionale integratieproces toepast, naar de andere partij uit te breiden.
 
 2. Wanneer een SADC-EPO-staat de EU in het kader van deze overeenkomst een gunstiger behandeling of een voordeel toekent, geldt deze gunstiger behandeling of dit voordeel ook voor de andere SADC-EPO-staten.
 
-#### Artikel 109. Ultraperifere gebieden van de EU
+##### Artikel 109. Ultraperifere gebieden van de EU
 
 1. Gezien de geografische nabijheid van de ultraperifere gebieden van de EU en de SADC-EPO-staten en ter versterking van de economische en sociale banden tussen die gebieden en de SADC-EPO-staten, streven de partijen ernaar de samenwerking tussen de ultraperifere gebieden van de EU en de SADC-EPO-staten op alle door deze overeenkomst bestreken gebieden te bevorderen.
 
@@ -1512,21 +1523,21 @@ Een partij die wegens factoren waarop zij geen invloed heeft, moeilijkheden onde
 
 4. Geen enkele bepaling van deze overeenkomst belet de toepassing door de EU van bestaande maatregelen uit hoofde van [artikel 349 VWEU](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=349) die zijn gericht op verbetering van de structurele economische en sociale situatie van haar ultraperifere gebieden. Het is op grond van deze bepaling verboden andere handelstarieven tussen de partijen te handhaven dan die welke ingevolge BIJLAGE I, DEEL III, punt 2, zijn toegestaan.
 
-#### Artikel 110. Verhouding tot de [Overeenkomst van Cotonou](https://wetten.overheid.nl/jci1.3:c:BWBV0005264)
+##### Artikel 110. Verhouding tot de [Overeenkomst van Cotonou](https://wetten.overheid.nl/jci1.3:c:BWBV0005264)
 
 1. Met uitzondering van de bepalingen inzake ontwikkelingssamenwerking in [deel 3, titel II, van de Overeenkomst van Cotonou](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&titeldeel=II) hebben in geval van strijdigheid tussen de bepalingen van deze overeenkomst en die van deel 3, titel II, van de Overeenkomst van Cotonou de bepalingen van deze overeenkomst voorrang voor zover het de strijdige bepalingen betreft.
 
 2. Geen enkele bepaling van deze overeenkomst mag worden uitgelegd als beletsel voor een van de partijen om passende maatregelen uit hoofde van de [Overeenkomst van Cotonou](https://wetten.overheid.nl/jci1.3:c:BWBV0005264) vast te stellen.
 
-#### Artikel 111. Verhouding tot de [TDC-overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001476)
+##### Artikel 111. Verhouding tot de [TDC-overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001476)
 
 Voor de verhouding tussen deze overeenkomst en de [TDC-overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001476) gelden de bepalingen van protocol 4.
 
-#### Artikel 112. Verhouding tot de [WTO-overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160)
+##### Artikel 112. Verhouding tot de [WTO-overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160)
 
 De partijen komen overeen dat zij op grond van geen enkele bepaling van deze overeenkomst verplicht zijn te handelen op een wijze die in strijd is met hun WTO-verplichtingen.
 
-#### Artikel 113. Inwerkingtreding6)De partijen bij het aangehechte protocol betreffende geografische aanduidingen en handel in wijn en gedistilleerde dranken geven uitvoering aan de daarin opgenomen verbintenissen.
+##### Artikel 113. Inwerkingtreding6)De partijen bij het aangehechte protocol betreffende geografische aanduidingen en handel in wijn en gedistilleerde dranken geven uitvoering aan de daarin opgenomen verbintenissen.
 
 1. Deze overeenkomst wordt ondertekend, geratificeerd of goedgekeurd volgens de toepasselijke grondwettelijke of interne voorschriften en procedures van elke partij.
 
@@ -1544,7 +1555,7 @@ De partijen komen overeen dat zij op grond van geen enkele bepaling van deze ove
 
 8. Indien de partijen, in afwachting van de inwerkingtreding ervan, besluiten deze overeenkomst voorlopig toe te passen, worden alle verwijzingen in deze overeenkomst naar de datum van inwerkingtreding geacht betrekking te hebben op de datum waarop deze voorlopige toepassing van kracht wordt.
 
-#### Artikel 114. Duur
+##### Artikel 114. Duur
 
 1. Deze overeenkomst geldt voor onbepaalde tijd.
 
@@ -1552,13 +1563,13 @@ De partijen komen overeen dat zij op grond van geen enkele bepaling van deze ove
 
 3. De opzegging wordt zes (6) maanden na de datum van de in lid 2 bedoelde kennisgeving van kracht.
 
-#### Artikel 115. Territoriale toepassing
+##### Artikel 115. Territoriale toepassing
 
 1. Deze overeenkomst is van toepassing, enerzijds, op elk grondgebied waarop het [VEU](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) en het [VWEU](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) van toepassing zijn, onder de in die verdragen neergelegde voorwaarden, en, anderzijds, op het grondgebied van elk van de SADC-EPO-staten.
 
 2. Verwijzingen naar „grondgebied” in deze overeenkomst worden in deze zin begrepen.
 
-#### Artikel 116. Herzieningsclausule
+##### Artikel 116. Herzieningsclausule
 
 1. De partijen komen overeen deze overeenkomst uiterlijk vijf (5) jaar na de inwerkingtreding ervan in haar geheel te herzien. Die herziening laat aanpassingen, onderzoeken of herzieningen elders in deze overeenkomst voorzien, zoals in [artikel 12, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&deel=I&hoofdstuk=III&artikel=12&z=2016-06-10&g=2016-06-10), [artikel 16, lid 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&deel=I&hoofdstuk=III&artikel=16&z=2016-06-10&g=2016-06-10), [artikel 17, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&deel=I&hoofdstuk=III&artikel=17&z=2016-06-10&g=2016-06-10), [artikel 18, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&deel=I&hoofdstuk=III&artikel=18&z=2016-06-10&g=2016-06-10), [artikel 26, lid 10](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&deel=II&hoofdstuk=I&artikel=26&z=2016-06-10&g=2016-06-10), [artikel 33, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&deel=II&hoofdstuk=II&artikel=33&z=2016-06-10&g=2016-06-10), [artikel 35, lid 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&deel=II&hoofdstuk=II&artikel=35&z=2016-06-10&g=2016-06-10), en [artikel 65, onder e)](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&deel=II&hoofdstuk=VI&artikel=65&z=2016-06-10&g=2016-06-10), onverlet.
 
@@ -1566,13 +1577,13 @@ De partijen komen overeen dat zij op grond van geen enkele bepaling van deze ove
 
 3. De partijen zijn het erover eens dat deze overeenkomst kan moeten worden herzien in het licht van latere ontwikkelingen in de internationale economische betrekkingen en van het verstrijken van de [Overeenkomst van Cotonou](https://wetten.overheid.nl/jci1.3:c:BWBV0005264).
 
-#### Artikel 117. Wijzigingen
+##### Artikel 117. Wijzigingen
 
 1. Elke partij kan voorstellen voor wijzigingen van deze overeenkomst voor onderzoek en aanneming aan de Gezamenlijke Raad voorleggen.
 
 2. Na aanneming door de Gezamenlijke Raad worden wijzigingen van deze overeenkomst aan de partijen voorgelegd voor ratificatie, aanvaarding of goedkeuring overeenkomstig hun respectieve grondwettelijke bepalingen of interne wettelijke voorschriften.
 
-#### Artikel 118. Toetreding van nieuwe EU-lidstaten
+##### Artikel 118. Toetreding van nieuwe EU-lidstaten
 
 1. De Gezamenlijke Raad wordt in kennis gesteld van elk verzoek van een derde staat om toe te treden tot de EU. Tijdens de onderhandelingen tussen de EU en de staat die het verzoek heeft ingediend, verstrekt de EU de SADC-EPO-staten alle ter zake dienende inlichtingen. De SADC-EPO-staten stellen de EU in kennis van hun bezorgdheden en kunnen de EU om overleg verzoeken, zodat zij daar ten volle rekening mee kan houden. De EU stelt de SADC-EPO-staten in kennis van elke toetreding tot de EU.
 
@@ -1580,7 +1591,7 @@ De partijen komen overeen dat zij op grond van geen enkele bepaling van deze ove
 
 3. De partijen onderzoeken de gevolgen van de toetreding van nieuwe EU-lidstaten voor deze overeenkomst. De Gezamenlijke Raad kan zo nodig overgangs- of wijzigingsmaatregelen vaststellen.
 
-#### Artikel 119. Toetreding
+##### Artikel 119. Toetreding
 
 1. Een derde staat of een organisatie met bevoegdheden met betrekking tot de aangelegenheden waarop deze overeenkomst betrekking heeft, kan om toetreding tot deze overeenkomst verzoeken. Indien de Gezamenlijke Raad ermee instemt dit verzoek in overweging te nemen, voeren de partijen en de staat of de organisatie die het verzoek om toetreding heeft gedaan, onderhandelingen over de toetredingsvoorwaarden. Na aanneming van het toetredingsprotocol door de Gezamenlijke Raad wordt dit protocol aan de partijen voorgelegd voor ratificatie, aanvaarding of goedkeuring overeenkomstig hun respectieve grondwettelijke bepalingen of interne wettelijke voorschriften.
 
@@ -1588,21 +1599,21 @@ De partijen komen overeen dat zij op grond van geen enkele bepaling van deze ove
 
 3. Niettegenstaande lid 1 komen de partijen overeen dat in het geval van een verzoek van Angola aan de Gezamenlijke Raad om tot deze overeenkomst toe te treden, onderhandelingen over de toetredingsvoorwaarden op de grondslag van deze overeenkomst dienen te worden gevoerd, rekening houdend met de specifieke situatie van Angola.
 
-#### Artikel 120. Talen en authentieke teksten
+##### Artikel 120. Talen en authentieke teksten
 
 Deze overeenkomst is opgesteld in tweevoud in de Bulgaarse, de Deense, de Duitse, de Engelse, de Estse, de Finse, de Franse, de Griekse, de Hongaarse, de Italiaanse, de Kroatische, de Letse, de Litouwse, de Maltese, de Nederlandse, de Poolse, de Portugese, de Roemeense, de Sloveense, de Slowaakse, de Spaanse, de Tsjechische en de Zweedse taal, zijnde alle teksten gelijkelijk authentiek. Wanneer de teksten elkaar tegenspreken, geldt de taal waarin de onderhandelingen over de overeenkomst plaatsvonden.
 
-#### Artikel 121. Bijlagen
+##### Artikel 121. Bijlagen
 
 De bijlagen, protocollen en voetnoten bij deze overeenkomst vormen een integrerend onderdeel van deze overeenkomst.
 
-#### Artikel 122. Rechten en verplichtingen uit hoofde van deze overeenkomst
+##### Artikel 122. Rechten en verplichtingen uit hoofde van deze overeenkomst
 
 Geen enkele bepaling van deze overeenkomst mag aldus worden uitgelegd dat daaraan rechten kunnen worden ontleend door of daarmee verplichtingen worden opgelegd aan personen, anders dan die welke de partijen krachtens internationaal publiekrecht hebben vastgesteld.
 
 ## TITEL I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 Voor de toepassing van dit protocol wordt verstaan onder:
 
@@ -1646,7 +1657,7 @@ Voor de toepassing van dit protocol wordt verstaan onder:
 
 ## TITEL II. DEFINITIE VAN HET BEGRIP „PRODUCTEN VAN OORSPRONG”
 
-#### Artikel 2. Algemene voorwaarden
+##### Artikel 2. Algemene voorwaarden
 
 1. Voor de toepassing van deze overeenkomst worden de volgende producten beschouwd als van oorsprong uit de EU:
 
@@ -1660,7 +1671,7 @@ Voor de toepassing van dit protocol wordt verstaan onder:
 
 - b. in een SADC-EPO-staat verkregen producten waarin materialen zijn verwerkt die daar niet volledig zijn verkregen, op voorwaarde dat die materialen in die SADC-EPO-staat een be- of verwerking hebben ondergaan die toereikend is in de zin van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&titeldeel=II&artikel=8&z=2016-06-10&g=2016-06-10) van dit protocol.
 
-#### Artikel 3. Bilaterale cumulatie
+##### Artikel 3. Bilaterale cumulatie
 
 1. Dit artikel is uitsluitend van toepassing in geval van cumulatie tussen een SADC-EPO-staat en de EU.
 
@@ -1672,7 +1683,7 @@ Voor de toepassing van dit protocol wordt verstaan onder:
 
 5. Onverminderd [artikel 2, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&titeldeel=II&artikel=2&z=2016-06-10&g=2016-06-10), van dit protocol worden in een SADC-EPO-staat verrichte be- of verwerkingen geacht in de EU te hebben plaatsgevonden wanneer de materialen later aldaar be- of verwerkingen ondergaan die meer inhouden dan die welke in [artikel 9, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&titeldeel=II&artikel=9&z=2016-06-10&g=2016-06-10), van dit protocol worden genoemd en het product naar die SADC-EPO-staat wordt uitgevoerd.
 
-#### Artikel 4. Diagonale cumulatie
+##### Artikel 4. Diagonale cumulatie
 
 1. Dit artikel is niet van toepassing op de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&titeldeel=II&artikel=3&z=2016-06-10&g=2016-06-10) van dit protocol bedoelde cumulatie.
 
@@ -1734,7 +1745,7 @@ Voor de toepassing van dit protocol wordt verstaan onder:
 
 19. De in dit artikel bedoelde cumulatie is op de in bijlage IX genoemde producten slechts van toepassing na 1 oktober 2015.
 
-#### Artikel 5. Cumulatie met betrekking tot materialen die bij invoer in de EU een rechtenvrije behandeling krijgen op grond van het meestbegunstigingstarief
+##### Artikel 5. Cumulatie met betrekking tot materialen die bij invoer in de EU een rechtenvrije behandeling krijgen op grond van het meestbegunstigingstarief
 
 1. Onverminderd [artikel 2, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&titeldeel=II&artikel=2&z=2016-06-10&g=2016-06-10), van dit protocol worden niet van oorsprong zijnde materialen die bij invoer in de EU vrij zijn van douanerechten ingevolge de toepassing van de conventionele rechten van het meestbegunstigingstarief overeenkomstig het gemeenschappelijk douanetarief3)Overeenkomstig bijlage I bij Verordening (EEG) nr. 2658/87 van de Raad met betrekking tot de tarief- en statistieknomenclatuur en het gemeenschappelijk douanetarief, en latere wijzigings- en overeenkomstige rechtshandelingen. beschouwd als van oorsprong uit een SADC-EPO-staat wanneer zij zijn verwerkt in een product dat aldaar is verkregen. De materialen behoeven geen toereikende be- of verwerking te hebben ondergaan, op voorwaarde dat de be- of verwerking ingrijpender is dan de in [artikel 9, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&titeldeel=II&artikel=9&z=2016-06-10&g=2016-06-10), van dit protocol genoemde be- of verwerkingen.
 
@@ -1750,7 +1761,7 @@ Voor de toepassing van dit protocol wordt verstaan onder:
 
 - b. die zijn ingedeeld in GS-onderverdelingen welke overeenkomstig het gemeenschappelijk douanetarief van de EU achtcijfercodes omvatten die niet vrij zijn van douanerechten ingevolge de toepassing van de conventionele rechten van het meestbegunstigingstarief van de EU.
 
-#### Artikel 6. Cumulatie met betrekking tot materialen van oorsprong uit andere landen die in aanmerking komen voor preferentiële rechten- en contingentvrije toegang tot de EU
+##### Artikel 6. Cumulatie met betrekking tot materialen van oorsprong uit andere landen die in aanmerking komen voor preferentiële rechten- en contingentvrije toegang tot de EU
 
 1. Onverminderd [artikel 2, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&titeldeel=II&artikel=2&z=2016-06-10&g=2016-06-10), van dit protocol worden materialen van oorsprong uit landen en gebieden:
 
@@ -1802,7 +1813,7 @@ De materialen behoeven geen toereikende be- of verwerking te hebben ondergaan, o
 
 - b. de SADC-EPO-staat of -staten de EU via de Europese Commissie bijzonderheden verstrekt/verstrekken over overeenkomsten inzake administratieve samenwerking met de andere in dit artikel bedoelde landen of gebieden. De Commissie maakt in de C-reeks van het **Publicatieblad van de Europese Unie** de datum bekend met ingang waarvan de in dit artikel bedoelde cumulatie met de in dit artikel genoemde landen of gebieden die aan de gestelde voorwaarden voldoen, mag worden toegepast.
 
-#### Artikel 7. Volledig verkregen producten
+##### Artikel 7. Volledig verkregen producten
 
 1. Als volledig op het grondgebied van een SADC-EPO-staat of van de EU verkregen worden beschouwd:
 
@@ -1880,7 +1891,7 @@ De materialen behoeven geen toereikende be- of verwerking te hebben ondergaan, o
 
 - f. Alle partijen kunnen kwesties betreffende de toepassing van lid 3, onder a) tot en met e), bij de Gezamenlijke Raad aankaarten indien geen bevredigend besluit over de toepassing van die bepalingen wordt vastgesteld door het comité. Nadat een kwestie over de toepassing van lid 3, onder a) tot en met e), bij de Gezamenlijke Raad is aangekaart, neemt de Gezamenlijke Raad binnen honderdtachtig (180) dagen daarover een besluit. Indien de Gezamenlijke Raad binnen honderdtachtig (180) dagen geen besluit kan nemen, wordt de in lid 3 voorziene afwijking geschorst totdat overeenstemming is bereikt. Een partij kan ook besluiten de kwestie voor te leggen om te worden behandeld volgens het in [deel III](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&deel=III&z=2016-06-10&g=2016-06-10) van deze overeenkomst bedoelde mechanisme voor geschillenbeslechting van deze overeenkomst, indien in de Gezamenlijke Raad geen bevredigende oplossing wordt gevonden.
 
-#### Artikel 8. Toereikende be- of verwerking
+##### Artikel 8. Toereikende be- of verwerking
 
 1. Voor de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&titeldeel=II&artikel=2&z=2016-06-10&g=2016-06-10) van dit protocol worden niet volledig verkregen producten geacht een toereikende be- of verwerking te hebben ondergaan wanneer is voldaan aan de in bijlage II genoemde voorwaarden.
 
@@ -1898,7 +1909,7 @@ De materialen behoeven geen toereikende be- of verwerking te hebben ondergaan, o
 
 6. De leden 1 tot en met 5 zijn van toepassing behoudens het bepaalde in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&titeldeel=II&artikel=9&z=2016-06-10&g=2016-06-10) van dit protocol.
 
-#### Artikel 9. Ontoereikende be- of verwerking
+##### Artikel 9. Ontoereikende be- of verwerking
 
 1. Onverminderd lid 2 worden de volgende be- of verwerkingen beschouwd als ontoereikend om de oorsprongsstatus te verkrijgen, ongeacht of aan de voorwaarden van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&titeldeel=II&artikel=8&z=2016-06-10&g=2016-06-10) van dit protocol is voldaan:
 
@@ -1940,7 +1951,7 @@ De materialen behoeven geen toereikende be- of verwerking te hebben ondergaan, o
 
 2. Alle be- en verwerkingen die een product in de EU of in de SADC-EPO-staten heeft ondergaan, worden tezamen genomen om te bepalen of deze als ontoereikend in de zin van lid 1 moeten worden beschouwd.
 
-#### Artikel 10. In aanmerking te nemen eenheid
+##### Artikel 10. In aanmerking te nemen eenheid
 
 1. De voor de toepassing van dit protocol in aanmerking te nemen eenheid is het product dat bij het vaststellen van de indeling in de nomenclatuur van het geharmoniseerd systeem als de basiseenheid wordt beschouwd.
 
@@ -1952,15 +1963,15 @@ Hieruit volgt dat:
 
 2. Wanneer volgens algemene regel 5 voor de interpretatie van het geharmoniseerd systeem de verpakking meetelt voor het vaststellen van de indeling, telt deze ook mee voor het vaststellen van de oorsprong.
 
-#### Artikel 11. Toebehoren, vervangingsonderdelen en gereedschappen
+##### Artikel 11. Toebehoren, vervangingsonderdelen en gereedschappen
 
 Toebehoren, vervangingsonderdelen en gereedschappen die samen met materieel, machines, apparaten of voertuigen worden verzonden en die deel uitmaken van de normale uitrusting daarvan en in de prijs ervan zijn begrepen of niet afzonderlijk in rekening worden gebracht, worden geacht een geheel te vormen met het materieel of de machines, apparaten of voertuigen in kwestie.
 
-#### Artikel 12. Stellen en assortimenten
+##### Artikel 12. Stellen en assortimenten
 
 Stellen en assortimenten in de zin van algemene regel 3 voor de interpretatie van het geharmoniseerd systeem worden als van oorsprong beschouwd wanneer alle samenstellende delen van oorsprong zijn. Een stel of assortiment bestaande uit producten van oorsprong en producten die niet van oorsprong zijn, wordt als van oorsprong beschouwd wanneer de waarde van de producten die niet van oorsprong zijn niet meer dan 15% van de prijs af fabriek van het stel of assortiment bedraagt.
 
-#### Artikel 13. Neutrale elementen
+##### Artikel 13. Neutrale elementen
 
 Om de oorsprong van een product te bepalen, behoeft niet te worden nagegaan wat de oorsprong is van de bij de vervaardiging van dat product gebruikte:
 
@@ -1974,7 +1985,7 @@ Om de oorsprong van een product te bepalen, behoeft niet te worden nagegaan wat 
 
 ## TITEL III. TERRITORIALE VOORWAARDEN
 
-#### Artikel 14. Territorialiteitsbeginsel
+##### Artikel 14. Territorialiteitsbeginsel
 
 1. Behoudens het bepaalde in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&titeldeel=II&artikel=3&z=2016-06-10&g=2016-06-10), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&titeldeel=II&artikel=4&z=2016-06-10&g=2016-06-10), [5](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&titeldeel=II&artikel=5&z=2016-06-10&g=2016-06-10) en [6](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&titeldeel=II&artikel=6&z=2016-06-10&g=2016-06-10) van dit protocol en in lid 3 moet in een SADC-EPO-staat of in de EU zonder onderbreking zijn voldaan aan de in [titel II](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&titeldeel=II&z=2016-06-10&g=2016-06-10) genoemde voorwaarden voor het verkrijgen van de oorsprongsstatus.
 
@@ -2004,7 +2015,7 @@ Om de oorsprong van een product te bepalen, behoeft niet te worden nagegaan wat 
 
 8. Alle be- en verwerkingen waarop dit artikel van toepassing is en die buiten de EU of een SADC-EPO-staat plaatsvinden, geschieden onder een regeling voor passieve veredeling of onder een soortgelijke regeling.
 
-#### Artikel 15. Niet-wijziging
+##### Artikel 15. Niet-wijziging
 
 1. De voor binnenlands gebruik in een partij aangegeven producten zijn dezelfde producten als die welke zijn uitgevoerd uit de andere partij waaruit zij geacht worden van oorsprong te zijn. Zij zijn op geen enkele manier gewijzigd en hebben ook geen andere behandelingen ondergaan dan die welke noodzakelijk waren voor hun bewaring in goede staat of de toevoeging of het aanbrengen van merken, etiketten, verzegelingen of andere documentatie om te garanderen dat is voldaan aan de specifieke interne vereisten van de partij van invoer, voordat zij voor binnenlands gebruik werden aangegeven.
 
@@ -2014,7 +2025,7 @@ Om de oorsprong van een product te bepalen, behoeft niet te worden nagegaan wat 
 
 4. Aan de voorwaarden in de leden 1 tot en met 3 wordt geacht te zijn voldaan, tenzij de douaneautoriteiten redenen hebben om het tegendeel aan te nemen: in dergelijke gevallen kunnen de douaneautoriteiten de aangever verzoeken te bewijzen dat hij aan de voorwaarden voldoet, welk bewijs met alle middelen kan worden geleverd, onder meer vervoersovereenkomsten zoals cognossementen of feitelijk of concreet bewijsmateriaal zoals merktekens of nummering van de colli of ander bewijsmateriaal betreffende de goederen zelf.
 
-#### Artikel 16. Gescheiden boekhouding
+##### Artikel 16. Gescheiden boekhouding
 
 1. Wanneer het aanhouden van afzonderlijke voorraden van vervangbare materialen die van oorsprong en die niet van oorsprong zijn met aanzienlijke kosten of moeilijkheden gepaard gaat, kunnen de douaneautoriteiten, op schriftelijk verzoek van de betrokkenen, toestaan dat voor het beheer van deze voorraden de methode van de gescheiden boekhouding (hierna „methode” genoemd) wordt gebruikt.
 
@@ -2030,11 +2041,11 @@ Om de oorsprong van een product te bepalen, behoeft niet te worden nagegaan wat 
 
 7. Voor de toepassing van lid 1 wordt onder „vervangbare materialen” verstaan: materialen van dezelfde soort en handelskwaliteit, met dezelfde technische en fysische kenmerken, die niet van elkaar te onderscheiden zijn voor het bepalen van de oorsprong.
 
-#### Artikel 17. Verzending van suiker
+##### Artikel 17. Verzending van suiker
 
 Het is toegestaan ruwe suiker, niet gearomatiseerd en zonder toegevoegde kleurstoffen en bestemd voor verdere raffinage, van de onderverdelingen 1701 12, 1701 13 en 1701 14 van het geharmoniseerd systeem, van verschillende oorsprong, over zee te verzenden tussen de grondgebieden van de partijen zonder dat de suiker in afzonderlijke opslagplaatsen wordt bewaard. Daarbij wordt ervoor gezorgd dat even veel suiker als van oorsprong kan worden beschouwd als zou zijn aangegeven voor invoer indien de suiker in afzonderlijke opslagplaatsen werd bewaard. De laatste laadhaven moet tot het grondgebied van een ACS-EPO-staat behoren.
 
-#### Artikel 18. Tentoonstellingen
+##### Artikel 18. Tentoonstellingen
 
 1. Op producten van oorsprong die zijn verzonden naar een tentoonstelling in een ander land of gebied dan die bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&titeldeel=II&artikel=4&z=2016-06-10&g=2016-06-10) en [6](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&titeldeel=II&artikel=6&z=2016-06-10&g=2016-06-10) van dit protocol waarmee cumulatie mogelijk is, en die na de tentoonstelling worden verkocht voor invoer in de EU of een SADC-EPO-staat, is bij die invoer deze overeenkomst van toepassing, op voorwaarde dat ten genoegen van de douaneautoriteiten wordt aangetoond dat:
 
@@ -2052,7 +2063,7 @@ Het is toegestaan ruwe suiker, niet gearomatiseerd en zonder toegevoegde kleurst
 
 ## TITEL IV. BEWIJS VAN OORSPRONG
 
-#### Artikel 19. Algemene voorwaarden
+##### Artikel 19. Algemene voorwaarden
 
 1. Producten van oorsprong uit een SADC-EPO-staat komen bij invoer in de EU en producten van oorsprong uit de EU komen bij invoer in een SADC-EPO-staat voor de voordelen van deze overeenkomst in aanmerking op vertoon van:
 
@@ -2064,7 +2075,7 @@ Het is toegestaan ruwe suiker, niet gearomatiseerd en zonder toegevoegde kleurst
 
 3. Voor de toepassing van deze titel streven de exporteurs ernaar een taal te gebruiken die zowel door de SADC-EPO-staten als door de EU wordt gebruikt.
 
-#### Artikel 20. Procedure voor de afgifte van een certificaat inzake goederenverkeer EUR.1
+##### Artikel 20. Procedure voor de afgifte van een certificaat inzake goederenverkeer EUR.1
 
 1. Een certificaat inzake goederenverkeer EUR.1 wordt door de douaneautoriteiten van het land van uitvoer afgegeven op schriftelijke aanvraag van de exporteur of, onder diens verantwoordelijkheid, van zijn gemachtigde.
 
@@ -2080,7 +2091,7 @@ Het is toegestaan ruwe suiker, niet gearomatiseerd en zonder toegevoegde kleurst
 
 7. Een certificaat inzake goederenverkeer EUR.1 wordt door de douaneautoriteiten afgegeven en ter beschikking van de exporteur gesteld zodra de goederen werkelijk worden uitgevoerd of wanneer het zeker is dat zij zullen worden uitgevoerd.
 
-#### Artikel 21. Afgifte achteraf van het certificaat inzake goederenverkeer EUR.1
+##### Artikel 21. Afgifte achteraf van het certificaat inzake goederenverkeer EUR.1
 
 1. In afwijking van [artikel 20, lid 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&titeldeel=IV&artikel=20&z=2016-06-10&g=2016-06-10), van dit protocol kan een certificaat inzake goederenverkeer EUR.1 bij wijze van uitzondering worden afgegeven na de uitvoer van de producten waarop het betrekking heeft, indien:
 
@@ -2102,7 +2113,7 @@ of in het Portugees:
 
 5. De in lid 4 bedoelde vermelding wordt aangebracht in vak 7 van het certificaat inzake goederenverkeer EUR.1.
 
-#### Artikel 22. Afgifte van een duplicaat van het certificaat inzake goederenverkeer EUR.1
+##### Artikel 22. Afgifte van een duplicaat van het certificaat inzake goederenverkeer EUR.1
 
 1. In geval van diefstal, verlies of vernietiging van een certificaat inzake goederenverkeer EUR.1 kan de exporteur de douaneautoriteiten die het certificaat hebben afgegeven, verzoeken een duplicaat op te maken aan de hand van de uitvoerdocumenten die in hun bezit zijn.
 
@@ -2118,11 +2129,11 @@ of in het Portugees:
 
 4. Het duplicaat draagt dezelfde datum van afgifte als het oorspronkelijke certificaat inzake goederenverkeer EUR.1 en is vanaf die datum geldig.
 
-#### Artikel 23. Afgifte van een certificaat inzake goederenverkeer EUR.1 aan de hand van een eerder opgesteld of afgegeven bewijs van oorsprong
+##### Artikel 23. Afgifte van een certificaat inzake goederenverkeer EUR.1 aan de hand van een eerder opgesteld of afgegeven bewijs van oorsprong
 
 Voor producten van oorsprong die in een SADC-EPO-staat of in de EU onder toezicht van een douanekantoor zijn geplaatst, kan het oorspronkelijke bewijs van oorsprong bij verzending van deze producten of van een gedeelte daarvan naar een andere plaats in de SADC-EPO-staten of de EU worden vervangen door een of meer certificaten inzake goederenverkeer EUR.1. Die certificaten worden afgegeven door het douanekantoor dat toezicht houdt op de producten en geviseerd door de douaneautoriteit die toezicht houdt op de producten.
 
-#### Artikel 24. Voorwaarden voor het opstellen van een oorsprongsverklaring
+##### Artikel 24. Voorwaarden voor het opstellen van een oorsprongsverklaring
 
 1. De in [artikel 19, lid 1, onder a)](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&titeldeel=IV&artikel=19&z=2016-06-10&g=2016-06-10), van dit protocol genoemde oorsprongsverklaring kan worden opgesteld:
 
@@ -2140,7 +2151,7 @@ Voor producten van oorsprong die in een SADC-EPO-staat of in de EU onder toezich
 
 6. Een oorsprongsverklaring kan door de exporteur worden opgesteld bij of na de uitvoer van de producten waarop zij betrekking heeft, maar moet uiterlijk twee (2) jaar na de invoer van de producten waarop zij betrekking heeft in het land van invoer worden aangeboden.
 
-#### Artikel 25. Toegelaten exporteur
+##### Artikel 25. Toegelaten exporteur
 
 1. De douaneautoriteiten van het land van uitvoer kunnen een exporteur die veelvuldig producten verzendt waarop de bepalingen inzake handelssamenwerking van deze overeenkomst van toepassing zijn, vergunning verlenen om oorsprongsverklaringen op te stellen ongeacht de waarde van de betrokken producten. Een exporteur die een dergelijke vergunning aanvraagt, moet ten genoegen van de douaneautoriteiten alle waarborgen bieden die nodig zijn voor de controle op de oorsprong van de producten en de naleving van de overige voorwaarden van dit protocol.
 
@@ -2152,7 +2163,7 @@ Voor producten van oorsprong die in een SADC-EPO-staat of in de EU onder toezich
 
 5. De douaneautoriteiten kunnen de vergunning te allen tijde intrekken. Zij zijn verplicht dit te doen wanneer de toegelaten exporteur niet langer de in lid 1 bedoelde garanties biedt, niet meer aan de in lid 2 bedoelde voorwaarden voldoet of de vergunning niet op de juiste wijze gebruikt.
 
-#### Artikel 26. Geldigheid van het bewijs van oorsprong
+##### Artikel 26. Geldigheid van het bewijs van oorsprong
 
 1. Een bewijs van oorsprong is vanaf de datum van afgifte in het land van uitvoer tien (10) maanden geldig en moet binnen deze periode worden ingediend bij de douaneautoriteiten van het land van invoer.
 
@@ -2160,15 +2171,15 @@ Voor producten van oorsprong die in een SADC-EPO-staat of in de EU onder toezich
 
 3. In andere gevallen van verlate indiening kunnen de douaneautoriteiten van het land van invoer de bewijzen van oorsprong aanvaarden indien de producten vóór het verstrijken van genoemde termijn bij hen zijn aangebracht.
 
-#### Artikel 27. Overlegging van het bewijs van oorsprong
+##### Artikel 27. Overlegging van het bewijs van oorsprong
 
 Bewijzen van oorsprong worden bij de douaneautoriteiten van het land van invoer ingediend overeenkomstig de aldaar geldende procedures. Deze douaneautoriteiten kunnen eisen dat het bewijs van oorsprong wordt vertaald en dat de aangifte ten invoer vergezeld gaat van een verklaring van de importeur dat de producten aan de voorwaarden voor de toepassing van deze overeenkomst voldoen.
 
-#### Artikel 28. Invoer in deelzendingen
+##### Artikel 28. Invoer in deelzendingen
 
 Wanneer, op verzoek van de importeur en op de door de douaneautoriteiten van het land van invoer vastgestelde voorwaarden, gedemonteerde of niet-gemonteerde producten in de zin van algemene regel 2, onder a), voor de interpretatie van het geharmoniseerd systeem, vallende onder de afdelingen XVI of XVII of de posten 7308 of 9406 van het geharmoniseerd systeem, in deelzendingen worden ingevoerd, wordt bij de invoer van de eerste deelzending een enkel bewijs van oorsprong bij de douaneautoriteiten ingediend.
 
-#### Artikel 29. Vrijstelling van het bewijs van oorsprong
+##### Artikel 29. Vrijstelling van het bewijs van oorsprong
 
 1. Producten die in kleine colli door particulieren aan particulieren worden verzonden of die deel uitmaken van de persoonlijke bagage van reizigers, worden als producten van oorsprong toegelaten zonder dat een bewijs van oorsprong behoeft te worden overgelegd, voor zover deze producten niet als handelsgoederen worden ingevoerd en bij hun aangifte verklaard wordt dat zij aan de voorwaarden van dit protocol voldoen en er over de juistheid van deze verklaring geen twijfel bestaat. Voor postzendingen kan deze verklaring op het douaneaangifteformulier CN22/CN23 of op een daaraan gehecht blad worden gesteld.
 
@@ -2176,7 +2187,7 @@ Wanneer, op verzoek van de importeur en op de door de douaneautoriteiten van het
 
 3. Voorts mag de totale waarde van deze producten niet meer bedragen dan 500 EUR voor kleine colli of 1 200 EUR voor producten die deel uitmaken van de persoonlijke bagage van reizigers.
 
-#### Artikel 30. Informatieprocedure in verband met cumulatie
+##### Artikel 30. Informatieprocedure in verband met cumulatie
 
 1. Wanneer [artikel 3, leden 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&titeldeel=II&artikel=3&z=2016-06-10&g=2016-06-10), en [artikel 4, leden 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&titeldeel=II&artikel=4&z=2016-06-10&g=2016-06-10), van dit protocol worden toegepast, wordt het bewijs dat de materialen in de zin van dit protocol van oorsprong zijn uit een SADC-EPO-staat, de EU, een andere ACS-EPO-staat of een LGO geleverd door een certificaat inzake goederenverkeer EUR.1, door een oorsprongsverklaring of door de leveranciersverklaring waarvan het model in bijlage V A is opgenomen, afgegeven door de exporteur in het land of gebied waaruit de materialen afkomstig zijn, dan wel in de EU indien de materialen uit de EU afkomstig zijn. Wanneer [artikel 6, lid 1,](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&titeldeel=II&artikel=6&z=2016-06-10&g=2016-06-10) van dit protocol wordt toegepast, wordt het bewijs dat de materialen van oorsprong zijn, geleverd door formulier A of een verklaring van oorsprong.
 
@@ -2198,7 +2209,7 @@ Wanneer, op verzoek van de importeur en op de door de douaneautoriteiten van het
 
 10. Leveranciersverklaringen en inlichtingenbladen die vóór de inwerkingtreding van dit protocol overeenkomstig artikel 26 van bijlage II bij [Verordening (EG) nr. 1528/2007](32007R1528) van de Raad zijn afgegeven, behouden hun geldigheid gedurende een overgangsperiode van twaalf (12) maanden.
 
-#### Artikel 31. Bewijsstukken
+##### Artikel 31. Bewijsstukken
 
 De in [artikel 20, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&titeldeel=IV&artikel=20&z=2016-06-10&g=2016-06-10), en [artikel 24, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&titeldeel=IV&artikel=24&z=2016-06-10&g=2016-06-10), van dit protocol bedoelde documenten aan de hand waarvan wordt aangetoond dat producten waarvoor een certificaat inzake goederenverkeer EUR.1 of een oorsprongsverklaring is opgesteld, als producten van oorsprong uit een SADC-EPO-staat, de EU of een van de andere in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&titeldeel=II&artikel=4&z=2016-06-10&g=2016-06-10) en [6](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&titeldeel=II&artikel=6&z=2016-06-10&g=2016-06-10) van dit protocol bedoelde landen en gebieden kunnen worden aangemerkt en aan de andere voorwaarden van dit protocol voldoen, kunnen onder meer de volgende zijn:
 
@@ -2210,7 +2221,7 @@ De in [artikel 20, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&titeld
 
 - d. certificaten inzake goederenverkeer EUR.1 of oorsprongsverklaringen waaruit de oorsprongsstatus van de gebruikte materialen blijkt, die overeenkomstig dit protocol in een SADC-EPO-staat, in de EU of in een van de andere in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&titeldeel=II&artikel=4&z=2016-06-10&g=2016-06-10) bedoelde landen en gebieden zijn afgegeven of opgesteld.
 
-#### Artikel 32. Bewaring van het bewijs van oorsprong en de bewijsstukken
+##### Artikel 32. Bewaring van het bewijs van oorsprong en de bewijsstukken
 
 1. Exporteurs die om de afgifte van een certificaat inzake goederenverkeer EUR.1 verzoeken, bewaren de in [artikel 20, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&titeldeel=IV&artikel=20&z=2016-06-10&g=2016-06-10), van dit protocol bedoelde documenten gedurende ten minste drie (3) jaar.
 
@@ -2222,13 +2233,13 @@ De in [artikel 20, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&titeld
 
 5. De douaneautoriteiten van het land van invoer bewaren de certificaten inzake goederenverkeer EUR.1 en de bij hen ingediende oorsprongsverklaringen gedurende ten minste drie (3) jaar.
 
-#### Artikel 33. Verschillen en vormfouten
+##### Artikel 33. Verschillen en vormfouten
 
 1. Geringe verschillen tussen de gegevens op het bewijs van oorsprong en die op de documenten die voor het vervullen van de invoerformaliteiten bij het douanekantoor worden ingediend, maken het bewijs van oorsprong niet automatisch ongeldig indien blijkt dat dit document wel degelijk met de aangebrachte producten overeenstemt.
 
 2. Kennelijke vormfouten, zoals typefouten op het bewijs van oorsprong, mogen niet tot weigering van dit document leiden indien deze fouten niet van dien aard zijn dat zij twijfel doen rijzen over de juistheid van de daarin vermelde gegevens.
 
-#### Artikel 34. In euro’s uitgedrukte bedragen
+##### Artikel 34. In euro’s uitgedrukte bedragen
 
 1. Voor de toepassing van [artikel 24, lid 1, onder b)](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&titeldeel=IV&artikel=24&z=2016-06-10&g=2016-06-10), en [artikel 29, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&titeldeel=IV&artikel=29&z=2016-06-10&g=2016-06-10), van dit protocol wordt, wanneer de producten gefactureerd zijn in een andere valuta dan de euro, de tegenwaarde van de in euro’s uitgedrukte bedragen in de nationale valuta van de SADC-EPO-staten of van de lidstaten van de EU jaarlijks door elk van de betrokken landen vastgesteld.
 
@@ -2242,7 +2253,7 @@ De in [artikel 20, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&titeld
 
 ## TITEL V. REGELINGEN VOOR ADMINISTRATIEVE SAMENWERKING
 
-#### Artikel 35. Administratieve voorwaarden waaronder producten in aanmerking komen voor de voordelen van deze overeenkomst
+##### Artikel 35. Administratieve voorwaarden waaronder producten in aanmerking komen voor de voordelen van deze overeenkomst
 
 1. Producten die in de zin van dit protocol van oorsprong zijn uit een SADC-EPO-staat of uit de EU, komen op het moment van de douaneaangifte ten invoer alleen in aanmerking voor de uit deze overeenkomst voortvloeiende preferenties indien zij werden uitgevoerd op of na de datum waarop het land van uitvoer aan de bepalingen in lid 2 voldeed.
 
@@ -2254,7 +2265,7 @@ De in [artikel 20, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&titeld
 
 Zij doen de in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&titeldeel=V&artikel=36&z=2016-06-10&g=2016-06-10) van dit protocol bedoelde kennisgevingen.
 
-#### Artikel 36. Kennisgeving betreffende douaneautoriteiten
+##### Artikel 36. Kennisgeving betreffende douaneautoriteiten
 
 1. De SADC-EPO-staten en de EU doen elkaar via de Europese Commissie de adressen toekomen van de douaneautoriteiten die belast zijn met de afgifte en controle van certificaten inzake goederenverkeer EUR.1 en van oorsprongs- en leveranciersverklaringen, alsmede afdrukken van de stempels die in hun douanekantoren voor de afgifte van die certificaten worden gebruikt. Certificaten inzake goederenverkeer EUR.1 en oorsprongs- en leveranciersverklaringen worden met het oog op de preferentiële behandeling aanvaard vanaf de datum van ontvangst van die informatie door de Europese Commissie, het secretariaat van de SACU en het Ministerie van Industrie en Handel van Mozambique.
 
@@ -2262,13 +2273,13 @@ Zij doen de in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&tite
 
 3. De in lid 1 bedoelde autoriteiten handelen onder gezag van de regering van het betrokken land. De met de controle belaste autoriteiten maken deel uit van de overheid van het betrokken land.
 
-#### Artikel 37. Wederzijdse bijstand
+##### Artikel 37. Wederzijdse bijstand
 
 1. Ten behoeve van de correcte toepassing van dit protocol verlenen de EU en de SADC-EPO-staten elkaar, via de bevoegde douaneautoriteiten, bijstand bij de controle op de echtheid van de certificaten inzake goederenverkeer EUR.1, de oorsprongsverklaringen of de leveranciersverklaringen en de juistheid van de daarin vermelde gegevens.
 
 2. De geraadpleegde autoriteiten verstrekken de relevante gegevens over de omstandigheden waaronder het product is vervaardigd, met name over de omstandigheden waaronder de oorsprongsregels in de verschillende SADC-EPO-staten, de EU en de betrokken andere in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&titeldeel=II&artikel=4&z=2016-06-10&g=2016-06-10) en [6](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&titeldeel=II&artikel=6&z=2016-06-10&g=2016-06-10) van dit protocol bedoelde landen in acht zijn genomen.
 
-#### Artikel 38. Controle van het bewijs van oorsprong
+##### Artikel 38. Controle van het bewijs van oorsprong
 
 1. Bewijzen van oorsprong worden achteraf gecontroleerd op grond van een risicoanalyse en door middel van steekproeven of wanneer de douaneautoriteiten van het land van invoer gegronde redenen hebben om te twijfelen aan de echtheid van deze documenten, de oorsprongsstatus van de betrokken producten of de naleving van de andere voorwaarden van dit protocol.
 
@@ -2284,7 +2295,7 @@ Zij doen de in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&tite
 
 7. Wanneer de resultaten van de controle of andere beschikbare gegevens erop lijken te wijzen dat de bepalingen van dit protocol worden geschonden, stelt het land van uitvoer op eigen initiatief of op verzoek van het land van invoer met de nodige spoed een onderzoek in of laat het een onderzoek instellen om eventuele schendingen vast te stellen en te voorkomen; het betrokken land van uitvoer kan het land van invoer verzoeken aan deze controles deel te nemen.
 
-#### Artikel 39. Controle van leveranciersverklaringen
+##### Artikel 39. Controle van leveranciersverklaringen
 
 1. Leveranciersverklaringen worden gecontroleerd op grond van een risicoanalyse en door middel van steekproeven of wanneer de douaneautoriteiten van het land waar die verklaringen in aanmerking zijn genomen voor de afgifte van een certificaat inzake goederenverkeer EUR.1 of de opstelling van een oorsprongsverklaring, gegronde redenen hebben om te twijfelen aan de echtheid van het document of de juistheid van de daarin vermelde gegevens.
 
@@ -2296,23 +2307,23 @@ Zij doen de in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&tite
 
 5. Een certificaat inzake goederenverkeer EUR.1 dat is afgegeven, of een oorsprongsverklaring die is opgesteld op grond van een onjuiste leveranciersverklaring wordt geacht ongeldig te zijn.
 
-#### Artikel 40. Geschillenbeslechting
+##### Artikel 40. Geschillenbeslechting
 
 1. Geschillen ten aanzien van de in de [artikelen 38](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&titeldeel=V&artikel=38&z=2016-06-10&g=2016-06-10) en [39](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&titeldeel=V&artikel=39&z=2016-06-10&g=2016-06-10) van dit protocol bedoelde controles tussen de douaneautoriteiten die de controle aanvragen en de douaneautoriteiten die de controle moeten uitvoeren die niet onderling kunnen worden geregeld, alsmede problemen in verband met de interpretatie van dit protocol worden voorgelegd aan het comité.
 
 2. Op de regeling van geschillen tussen de importeur en de douaneautoriteiten van het land van invoer is in alle gevallen de wetgeving van het land van invoer van toepassing.
 
-#### Artikel 41. Sancties
+##### Artikel 41. Sancties
 
 Tegen eenieder die een document met onjuiste gegevens opstelt of laat opstellen met het doel een preferentiële behandeling voor producten te verkrijgen, worden sancties getroffen.
 
-#### Artikel 42. Vrije zones
+##### Artikel 42. Vrije zones
 
 1. De SADC-EPO-staten en de EU nemen alle nodige maatregelen om te voorkomen dat producten die onder geleide van een bewijs van oorsprong of een leveranciersverklaring worden verhandeld en die tijdens het vervoer in een op hun grondgebied gelegen vrije zone verblijven, door andere goederen worden vervangen of andere be- of verwerkingen ondergaan dan die welke bedoeld zijn om ze in goede staat te bewaren.
 
 2. In afwijking van lid 1 geven de bevoegde autoriteiten, wanneer producten van oorsprong uit een SADC-EPO-staat of uit de EU onder geleide van een bewijs van oorsprong in een vrije zone worden ingevoerd en er een be- of verwerking ondergaan, op verzoek van de exporteur een nieuw certificaat inzake goederenverkeer EUR.1 af, mits de be- of verwerking in overeenstemming is met de bepalingen van dit protocol.
 
-#### Artikel 43. Afwijkingen
+##### Artikel 43. Afwijkingen
 
 1. Het comité kan besluiten dat van dit protocol mag worden afgeweken wanneer de ontwikkeling van bestaande industrieën of de oprichting van nieuwe industrieën in de SADC-EPO-staten dit rechtvaardigt.
 
@@ -2378,7 +2389,7 @@ Dezelfde regels zijn van toepassing op verzoeken om een verlenging. Het formulie
 
 ## TITEL VI. CEUTA EN MELILLA
 
-#### Artikel 44. Bijzondere voorwaarden
+##### Artikel 44. Bijzondere voorwaarden
 
 1. De in dit protocol gebruikte term „EU” omvat niet Ceuta en Melilla. Onder „producten van oorsprong uit de EU” worden geen producten van oorsprong uit Ceuta en Melilla verstaan.
 
@@ -2394,7 +2405,7 @@ Dezelfde regels zijn van toepassing op verzoeken om een verlenging. Het formulie
 
 ## TITEL VII. SLOTBEPALINGEN
 
-#### Artikel 45. Herziening en toepassing van oorsprongsregels
+##### Artikel 45. Herziening en toepassing van oorsprongsregels
 
 1. Krachtens [artikel 101](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&deel=V&artikel=101&z=2016-06-10&g=2016-06-10) van deze overeenkomst onderwerpt de Gezamenlijke Raad de toepassing en de economische gevolgen van dit protocol jaarlijks, of telkens wanneer de SADC-EPO-staten of de EU daarom verzoeken, aan een onderzoek met het doel de noodzakelijk geachte wijzigingen of aanpassingen aan te brengen.
 
@@ -2404,15 +2415,15 @@ Dezelfde regels zijn van toepassing op verzoeken om een verlenging. Het formulie
 
 4. Het comité neemt overeenkomstig [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&deel=II&hoofdstuk=IV&artikel=50&z=2016-06-10&g=2016-06-10) van deze overeenkomst onder meer besluiten over afwijkingen van dit protocol, onder de in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&titeldeel=V&artikel=43&z=2016-06-10&g=2016-06-10) van dit protocol neergelegde voorwaarden.
 
-#### Artikel 46. Bijlagen
+##### Artikel 46. Bijlagen
 
 De bijlagen bij dit protocol maken daarvan een integrerend deel uit.
 
-#### Artikel 47. Tenuitvoerlegging van het protocol
+##### Artikel 47. Tenuitvoerlegging van het protocol
 
 De EU en de SADC-EPO-staten nemen elk de nodige maatregelen om dit protocol ten uitvoer te leggen.
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 Voor de toepassing van dit protocol wordt verstaan onder:
 
@@ -2428,7 +2439,7 @@ Voor de toepassing van dit protocol wordt verstaan onder:
 
 - f. „met de douanewetgeving strijdige handeling”: elke overtreding of poging tot overtreding van de douanewetgeving.
 
-#### Artikel 2. Toepassingsgebied
+##### Artikel 2. Toepassingsgebied
 
 1. De partijen verlenen elkaar bijstand om op de onder hun bevoegdheid vallende gebieden en op de wijze en voorwaarden die bij dit protocol zijn vastgesteld, een correcte toepassing van de douanewetgeving te waarborgen, in het bijzonder door met die wetgeving strijdige handelingen te voorkomen, op te sporen en te bestrijden.
 
@@ -2436,7 +2447,7 @@ Voor de toepassing van dit protocol wordt verstaan onder:
 
 3. Bijstand bij de invordering van rechten, belastingen en boeten valt niet onder dit protocol.
 
-#### Artikel 3. Bijstand op verzoek
+##### Artikel 3. Bijstand op verzoek
 
 1. Op aanvraag van de verzoekende autoriteit verstrekt de aangezochte autoriteit eerstgenoemde alle ter zake dienende informatie die deze nodig heeft om erop toe te zien dat de douanewetgeving correct wordt toegepast, met inbegrip van informatie betreffende voorgenomen of vastgestelde activiteiten die met deze wetgeving strijdige handelingen zijn of kunnen zijn.
 
@@ -2456,7 +2467,7 @@ Voor de toepassing van dit protocol wordt verstaan onder:
 
 - d. vervoermiddelen die op zodanige wijze worden of kunnen worden gebruikt dat redelijkerwijs kan worden vermoed dat die vervoermiddelen bedoeld zijn om te worden gebruikt bij met de douanewetgeving strijdige handelingen.
 
-#### Artikel 4. Ongevraagde bijstand
+##### Artikel 4. Ongevraagde bijstand
 
 De partijen verlenen elkaar, in overeenstemming met hun wettelijke en bestuursrechtelijke bepalingen, op eigen initiatief bijstand indien zij dit noodzakelijk achten voor de correcte toepassing van de douanewetgeving, in het bijzonder door gegevens te verstrekken omtrent:
 
@@ -2470,7 +2481,7 @@ De partijen verlenen elkaar, in overeenstemming met hun wettelijke en bestuursre
 
 - e. vervoermiddelen waarvan redelijkerwijs kan worden vermoed dat zij zijn, worden of kunnen worden gebruikt bij met de douanewetgeving strijdige handelingen.
 
-#### Artikel 5. Overhandiging van documenten en kennisgeving van besluiten
+##### Artikel 5. Overhandiging van documenten en kennisgeving van besluiten
 
 1. Op aanvraag van de verzoekende autoriteit neemt de aangezochte autoriteit, in overeenstemming met de haar toepasselijke wettelijke en bestuursrechtelijke bepalingen, alle maatregelen die nodig zijn voor:
 
@@ -2480,7 +2491,7 @@ De partijen verlenen elkaar, in overeenstemming met hun wettelijke en bestuursre
 
 2. Verzoeken om de overhandiging van documenten of de kennisgeving van besluiten worden schriftelijk aan de aangezochte autoriteit gericht in een officiële taal van die autoriteit of in een voor die autoriteit aanvaardbare taal.
 
-#### Artikel 6. Vorm en inhoud van verzoeken om bijstand
+##### Artikel 6. Vorm en inhoud van verzoeken om bijstand
 
 1. Verzoeken in het kader van dit protocol worden schriftelijk gedaan. Zij gaan vergezeld van de documenten die voor de behandeling van het verzoek noodzakelijk zijn. In spoedeisende gevallen kunnen verzoeken ook mondeling worden gedaan, mits zij onmiddellijk schriftelijk worden bevestigd. Verzoeken kunnen ook in elektronische vorm worden gedaan.
 
@@ -2502,7 +2513,7 @@ De partijen verlenen elkaar, in overeenstemming met hun wettelijke en bestuursre
 
 4. Indien een verzoek niet aan de hierboven vermelde vormvereisten voldoet, kan om correctie of aanvulling ervan worden verzocht. In de tussentijd kan opdracht worden gegeven tot conservatoire maatregelen.
 
-#### Artikel 7. Uitvoering van verzoeken
+##### Artikel 7. Uitvoering van verzoeken
 
 1. Binnen de grenzen van haar bevoegdheden en de beschikbare middelen behandelt de aangezochte autoriteit een verzoek om bijstand alsof zij voor eigen rekening of op verzoek van een andere autoriteit van dezelfde partij handelt, en verstrekt zij de al beschikbare informatie, verricht zij het nodige onderzoek of laat zij dit verrichten. Deze bepaling is eveneens van toepassing op autoriteiten waaraan de aangezochte autoriteit het verzoek doorstuurt wanneer zij dit niet zelf kan afhandelen.
 
@@ -2514,7 +2525,7 @@ De partijen verlenen elkaar, in overeenstemming met hun wettelijke en bestuursre
 
 - b. aanwezig zijn bij onderzoek dat op het grondgebied van laatstgenoemde wordt verricht.
 
-#### Artikel 8. Vorm waarin de informatie moet worden verstrekt
+##### Artikel 8. Vorm waarin de informatie moet worden verstrekt
 
 1. De aangezochte autoriteit deelt de uitslag van het onderzoek schriftelijk aan de verzoekende autoriteit mede en voegt daarbij de relevante documenten, gewaarmerkte afschriften of andere stukken.
 
@@ -2522,7 +2533,7 @@ De partijen verlenen elkaar, in overeenstemming met hun wettelijke en bestuursre
 
 3. Originelen van documenten worden uitsluitend op verzoek verstrekt wanneer gewaarmerkte afschriften niet toereikend zijn. Deze originelen worden ten spoedigste geretourneerd.
 
-#### Artikel 9. Gevallen waarin geen bijstand behoeft te worden verleend
+##### Artikel 9. Gevallen waarin geen bijstand behoeft te worden verleend
 
 1. Bijstand kan worden geweigerd of van bepaalde voorwaarden of eisen afhankelijk worden gesteld wanneer een betrokken partij van oordeel is dat bijstand op grond van dit protocol:
 
@@ -2538,7 +2549,7 @@ De partijen verlenen elkaar, in overeenstemming met hun wettelijke en bestuursre
 
 4. In de in de leden 1 en 2 bedoelde gevallen moeten het besluit van de aangezochte autoriteit en de redenen ervoor onverwijld aan de verzoekende autoriteit worden medegedeeld.
 
-#### Artikel 10. Doorgifte van informatie en geheimhoudingsplicht
+##### Artikel 10. Doorgifte van informatie en geheimhoudingsplicht
 
 1. Alle informatie die ter uitvoering van dit protocol in welke vorm dan ook wordt verstrekt, heeft een vertrouwelijk karakter of is slechts voor beperkte verspreiding bestemd, afhankelijk van de regelgeving van elke partij. De verstrekte gegevens vallen onder de geheimhoudingsplicht en worden beschermd overeenkomstig de wetgeving van de partij die ze heeft ontvangen en overeenkomstig de regelgeving die op de instanties van de EU van toepassing is.
 
@@ -2548,25 +2559,25 @@ De partijen verlenen elkaar, in overeenstemming met hun wettelijke en bestuursre
 
 4. De verkregen informatie wordt uitsluitend voor de toepassing van dit protocol gebruikt. Wanneer een van de partijen dergelijke informatie voor andere doeleinden wenst te gebruiken, moet zij de autoriteit die de informatie heeft verstrekt vooraf om schriftelijke toestemming vragen. Voor dit gebruik gelden dan de eventueel door deze autoriteit vastgestelde beperkingen.
 
-#### Artikel 11. Deskundigen en getuigen
+##### Artikel 11. Deskundigen en getuigen
 
 Een ambtenaar van een aangezochte autoriteit kan worden gemachtigd om, binnen de grenzen van de hem verleende machtiging, als deskundige of getuige te verschijnen in gerechtelijke of administratieve procedures betreffende onder dit protocol vallende aangelegenheden en daarbij de voor de procedure noodzakelijke voorwerpen, documenten of gewaarmerkte afschriften over te leggen. In de oproeping dient uitdrukkelijk te worden vermeld voor welke rechterlijke instantie of overheidsinstantie de ambtenaar moet verschijnen en over welke aangelegenheid en in welke functie of hoedanigheid hij zal worden ondervraagd.
 
-#### Artikel 12. Kosten van de bijstand
+##### Artikel 12. Kosten van de bijstand
 
 De partijen brengen elkaar geen kosten in rekening voor uitgaven die op grond van dit protocol worden gedaan, met uitzondering van eventuele uitgaven voor deskundigen en getuigen en voor tolken en vertalers die niet in overheidsdienst zijn.
 
-#### Artikel 13. Uitvoering
+##### Artikel 13. Uitvoering
 
 1. Met de uitvoering van dit protocol zijn enerzijds de douaneautoriteiten van de SADC-EPO-staten en anderzijds naargelang van het geval de bevoegde diensten van de Europese Commissie of de douaneautoriteiten van de lidstaten van de Europese Unie belast. Zij stellen alle praktische maatregelen en bepalingen voor de toepassing van dit protocol vast, rekening houdend met de geldende regelgeving, met name op het gebied van de gegevensbescherming.
 
 2. De partijen plegen onderling overleg en lichten elkaar in over alle uitvoeringsbepalingen die zij op grond van dit protocol vaststellen.
 
-#### Artikel 14. Wijzigingen
+##### Artikel 14. Wijzigingen
 
 De partijen kunnen het Handels- en ontwikkelingscomité aanbevelingen doen over wijzigingen die naar hun oordeel in dit protocol moeten worden aangebracht.
 
-#### Artikel 15. Slotbepalingen
+##### Artikel 15. Slotbepalingen
 
 1. Dit protocol is een aanvulling op en geen beletsel voor de toepassing van overeenkomsten inzake wederzijdse administratieve bijstand die tussen de partijen zijn gesloten of kunnen worden gesloten en staat niet in de weg aan uitgebreidere wederzijdse bijstand uit hoofde van dergelijke overeenkomsten.
 
@@ -2586,7 +2597,7 @@ GELEID DOOR DE WENS de ontwikkeling van geografische aanduidingen te bevorderen,
 
 ZICH BEWUST VAN het belang van de drankensector voor hun economieën en de noodzaak de onderlinge handel in wijnbouwproducten en gedistilleerde dranken te bevorderen,
 
-#### Artikel 1. Toepassing van het protocol
+##### Artikel 1. Toepassing van het protocol
 
 1. De bepalingen van dit protocol zijn van toepassing op Zuid-Afrika en op de EU („de partijen”).
 
@@ -2596,7 +2607,7 @@ ZICH BEWUST VAN het belang van de drankensector voor hun economieën en de noodz
 
 ## DEEL 1. GEOGRAFISCHE AANDUIDINGEN
 
-#### Artikel 2. Toepassingsgebied
+##### Artikel 2. Toepassingsgebied
 
 1. Dit deel is van toepassing op de erkenning en bescherming van geografische aanduidingen van producten die behoren tot de categorieën in de rubrieken van bijlage I bij dit protocol en die van oorsprong zijn uit het grondgebied van de partijen.
 
@@ -2604,7 +2615,7 @@ ZICH BEWUST VAN het belang van de drankensector voor hun economieën en de noodz
 
 3. Voor de toepassing van dit deel is de definitie van „geografische aanduidingen” verenigbaar met die van [artikel 22, lid 1, van de TRIPs-overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=22).
 
-#### Artikel 3. Bescherming van gevestigde geografische aanduidingen
+##### Artikel 3. Bescherming van gevestigde geografische aanduidingen
 
 1. De EU beschermt de in bijlage I bij dit protocol opgenomen geografische aanduidingen van Zuid-Afrika overeenkomstig het in dit protocol neergelegde beschermingsniveau.
 
@@ -2612,13 +2623,13 @@ ZICH BEWUST VAN het belang van de drankensector voor hun economieën en de noodz
 
 3. Wanneer al de in bijlage I bij dit protocol opgenomen geografische aanduidingen van de EU dan wel van Zuid-Afrika waarvoor als voorrangsdatum de „datum van inwerkingtreding” is aangegeven, overeenkomstig lid 1 of lid 2 zijn beschermd, stellen de partijen elkaar ervan in kennis dat de bescherming van kracht is.
 
-#### Artikel 4. Gebruiksrecht van geografische aanduidingen
+##### Artikel 4. Gebruiksrecht van geografische aanduidingen
 
 1. Een krachtens dit deel beschermde geografische aanduiding mag worden gebruikt door iedere marktdeelnemer die het betrokken product overeenkomstig de desbetreffende productspecificatie in de handel brengt.
 
 2. Zodra een geografische aanduiding krachtens dit deel is beschermd, mag het gebruik van deze beschermde benaming niet afhankelijk worden gesteld van registratie van de gebruikers of andere verplichtingen.
 
-#### Artikel 5. Omvang van de bescherming
+##### Artikel 5. Omvang van de bescherming
 
 1. De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&deel=1&artikel=3&z=2016-06-10&g=2016-06-10) bedoelde en in bijlage I bij dit protocol opgenomen geografische aanduidingen, alsmede die welke worden toegevoegd ingevolge [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&deel=1&artikel=7&z=2016-06-10&g=2016-06-10) van dit protocol, worden beschermd tegen:
 
@@ -2648,7 +2659,7 @@ ZICH BEWUST VAN het belang van de drankensector voor hun economieën en de noodz
 
 5. Geen enkele bepaling van dit deel verplicht Zuid-Afrika of de EU ertoe een geografische aanduiding te beschermen, indien deze aanduiding in het land van oorsprong niet of niet langer is beschermd. Zuid-Afrika en de EU stellen elkaar ervan in kennis wanneer een geografische aanduiding in het land van oorsprong niet langer wordt beschermd.
 
-#### Artikel 6. Verband tussen geografische aanduidingen en merken
+##### Artikel 6. Verband tussen geografische aanduidingen en merken
 
 1. De partijen weigeren de registratie of zorgen voor nietigverklaring van een merk dat in een van de in [artikel 5, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&deel=1&artikel=5&z=2016-06-10&g=2016-06-10), van dit protocol bedoelde situaties betrekking heeft op eenzelfde soort product, indien een aanvraag om het merk te registreren wordt ingediend na de datum van het verzoek om bescherming van de geografische aanduiding in het desbetreffende grondgebied. Een bevoegde autoriteit van een partij kan bepalen dat uitsluitend tot nietigverklaring wordt overgegaan indien een belanghebbende hiertoe naar behoren en overeenkomstig de toepasselijke wetgeving een aanvraag indient.
 
@@ -2660,7 +2671,7 @@ ZICH BEWUST VAN het belang van de drankensector voor hun economieën en de noodz
 
 5. Indien voor in bijlage I bij dit protocol opgenomen geografische aanduidingen waarvoor als voorrangsdatum de „datum van inwerkingtreding” is aangegeven, een merk wordt aangevraagd tussen de datum van bekendmaking met het oog op commentaar of oppositie in verband met deze geografische aanduidingen en de datum van inwerkingtreding van dit protocol, wordt in een van de in [artikel 5, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&deel=1&artikel=5&z=2016-06-10&g=2016-06-10), van dit protocol bedoelde situaties vermoed dat het merk te kwader trouw is aangevraagd.
 
-#### Artikel 7. Toevoeging van beschermde geografische aanduidingen
+##### Artikel 7. Toevoeging van beschermde geografische aanduidingen
 
 1. Zuid-Afrika en de EU kunnen overeenkomstig de procedures van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&deel=3&artikel=13&z=2016-06-10&g=2016-06-10) van dit protocol geografische aanduidingen toevoegen aan bijlage I bij dit protocol.
 
@@ -2680,13 +2691,13 @@ ZICH BEWUST VAN het belang van de drankensector voor hun economieën en de noodz
 
 6. Uit hoofde van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&deel=3&artikel=13&z=2016-06-10&g=2016-06-10) van dit protocol kan Zuid-Afrika met het oog op de ontwikkeling van geografische aanduidingen aldaar tot dertig (30) benamingen voorstellen die bij voorrang moeten worden beschermd. De EU zorgt ervoor dat deze verzoeken onverwijld haar interne procedures doorlopen.
 
-#### Artikel 8. Handhaving van bescherming
+##### Artikel 8. Handhaving van bescherming
 
 1. De partijen handhaven de in de artikelen 3 tot en met 7 van dit protocol bedoelde bescherming door passende bestuursrechtelijke maatregelen van de overheden en de rechterlijke instanties die zijn opgericht naar intern of regionaal recht van elke partij. Ook handhaven zij die bescherming op verzoek van een belanghebbende.
 
 2. Voor zover het interne en regionale recht voorziet in handhavingsmechanismen die gelijkwaardig zijn met de toepasselijke handhavingsmechanismen inzake etikettering, productie en intellectueel eigendom, wordt geacht dat dit recht aan de eisen van lid 1 voldoet.
 
-#### Artikel 9. Samenwerking inzake beheer van geografische aanduidingen
+##### Artikel 9. Samenwerking inzake beheer van geografische aanduidingen
 
 1. De EU en Zuid-Afrika stellen elkaar in kennis van de productspecificaties of een samenvatting daarvan alsmede van de contactpunten voor controlebepalingen die betrekking hebben op krachtens dit deel beschermde geografische aanduidingen van de andere partij, en kunnen deze openbaar maken.
 
@@ -2698,11 +2709,11 @@ ZICH BEWUST VAN het belang van de drankensector voor hun economieën en de noodz
 
 ## DEEL 2. HANDEL IN WIJNBOUWPRODUCTEN EN GEDISTILLEERDE DRANKEN
 
-#### Artikel 10. Toepassingsgebied en betrokken producten
+##### Artikel 10. Toepassingsgebied en betrokken producten
 
 Dit deel is van toepassing op wijnbouwproducten en gedistilleerde dranken die vallen onder de posten 2204 en 2208 van het op 14 juni 1983 te Brussel ondertekende [Internationaal Verdrag betreffende het geharmoniseerde systeem inzake de omschrijving en de codering van goederen](https://wetten.overheid.nl/jci1.3:c:BWBV0002538), hierna „geharmoniseerd systeem” genoemd.
 
-#### Artikel 11. Oenologische procedés
+##### Artikel 11. Oenologische procedés
 
 1. De EU staat de invoer en de afzet op haar grondgebied voor menselijke consumptie toe van wijnbouwproducten van oorsprong uit Zuid-Afrika die zijn geproduceerd volgens:
 
@@ -2724,7 +2735,7 @@ Dit deel is van toepassing op wijnbouwproducten en gedistilleerde dranken die va
 
 4. Ten aanzien van oenologische procedés herbevestigen de partijen hun WTO-toezeggingen inzake nationale behandeling en het beginsel van de meest begunstigde natie, met inachtneming van met name hun toezeggingen in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&titeldeel=V&artikel=40&z=2016-06-10&g=2016-06-10) van deze overeenkomst.
 
-#### Artikel 12. Certificering van wijn en gedistilleerde dranken
+##### Artikel 12. Certificering van wijn en gedistilleerde dranken
 
 1. Voor wijnbouwproducten en gedistilleerde dranken die uit Zuid-Afrika worden ingevoerd en op de markt van de EU worden gebracht, blijven de eventuele door de Europese Unie opgelegde documentatie en certificering beperkt tot wat is vastgesteld in afdeling A.2 van bijlage II bij dit protocol.
 
@@ -2732,7 +2743,7 @@ Dit deel is van toepassing op wijnbouwproducten en gedistilleerde dranken die va
 
 ## DEEL 3. ALGEMENE BEPALINGEN
 
-#### Artikel 13. Speciaal Comité
+##### Artikel 13. Speciaal Comité
 
 1. De partijen richten hierbij een Speciaal Comité voor geografische aanduidingen en handel in wijn en gedistilleerde dranken op, dat tot taak heeft toezicht te houden op de ontwikkeling van dit protocol, de onderlinge samenwerking te intensiveren, informatie en met name de productspecificaties of een samenvatting daarvan uit te wisselen en de dialoog over geografische aanduidingen te verbeteren.
 
@@ -2744,7 +2755,7 @@ Dit deel is van toepassing op wijnbouwproducten en gedistilleerde dranken die va
 
 5. Het Speciaal Comité stelt zijn reglement van orde vast.
 
-#### Artikel 14. Samenwerking en voorkoming van geschillen
+##### Artikel 14. Samenwerking en voorkoming van geschillen
 
 1. De partijen werken samen in aangelegenheden in verband met geografische aanduidingen en handel in wijn en gedistilleerde dranken, en met name:
 
@@ -2762,15 +2773,15 @@ Dit deel is van toepassing op wijnbouwproducten en gedistilleerde dranken die va
 
 2. De bepalingen van [deel III](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&deel=III&z=2016-06-10&g=2016-06-10) van deze overeenkomst zijn van toepassing op alle aangelegenheden die zich in verband met dit protocol voordoen, met dien verstande dat de verwijzingen naar partijen worden beperkt tot de partijen bij dit protocol en de verwijzingen naar het Handels- en ontwikkelingscomité worden geacht te verwijzen naar het Speciaal Comité.
 
-#### Artikel 15. Toepasselijke regels
+##### Artikel 15. Toepasselijke regels
 
 Tenzij in dit protocol of in deze overeenkomst anders is bepaald, vinden de invoer en afzet van producten die onder dit protocol vallen en tussen de partijen worden verhandeld, plaats overeenkomstig de wet- en regelgeving die op het grondgebied van de partij van invoer van toepassing is.
 
-#### Artikel 16. Toepassing van bepaalde concessies inzake markttoegang
+##### Artikel 16. Toepassing van bepaalde concessies inzake markttoegang
 
 Onverminderd [artikel 113, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&deel=VI&artikel=113&z=2016-06-10&g=2016-06-10), van deze overeenkomst worden uit hoofde van artikel 113, lid 6, van deze overeenkomst de in [artikel 24, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&deel=II&hoofdstuk=I&artikel=24&z=2016-06-10&g=2016-06-10), en [artikel 25, lid 1, van deze overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&deel=II&hoofdstuk=I&artikel=25&z=2016-06-10&g=2016-06-10) bedoelde concessies inzake markttoegang voor landbouwproducten die in de tarieflijsten van de bijlagen I en II bij deze overeenkomst met een sterretje (*) zijn aangeduid, uitsluitend verleend aan de partij die overeenkomstig [artikel 3, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006613&deel=1&artikel=3&z=2016-06-10&g=2016-06-10), van dit protocol de kennisgeving doet en vanaf de eerste dag van de maand na ontvangst van deze kennisgeving door de andere partij.
 
-#### Artikel 17. Verhouding tot andere overeenkomsten
+##### Artikel 17. Verhouding tot andere overeenkomsten
 
 1. De Overeenkomsten van 2002 in de vorm van een briefwisseling inzake de voorlopige toepassing van bepaalde overeenkomsten tussen de Europese Gemeenschap en Zuid-Afrika betreffende de handel in wijn en de handel in gedistilleerde dranken worden beëindigd.
 
@@ -2780,7 +2791,7 @@ Onverminderd [artikel 113, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBV000661
 
 - b. wordt in punt 6 van dat aanhangsel de zin „Deze bijstand vangt aan bij de inwerkingtreding van de overeenkomst inzake wijn en gedistilleerde dranken” vervangen door „Deze bijstand vangt aan op de datum van inwerkingtreding van protocol 3 betreffende geografische aanduidingen en handel in wijn en gedistilleerde dranken bij de economische partnerschapsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de SADC-EPO-staten, anderzijds”.
 
-#### Artikel 18. Overgangsmaatregelen
+##### Artikel 18. Overgangsmaatregelen
 
 Producten waarvan de productie, de omschrijving en de voorstelling op de datum van inwerkingtreding in overeenstemming is met de interne wet- en regelgeving van de partijen en met hun onderlinge bilaterale verplichtingen, maar strijdig is met dit protocol, mogen op de markt worden gebracht:
 
@@ -2788,7 +2799,7 @@ Producten waarvan de productie, de omschrijving en de voorstelling op de datum v
 
 - b. door kleinhandelaren tot de voorraden zijn uitgeput.
 
-#### Artikel 19. Slotbepalingen
+##### Artikel 19. Slotbepalingen
 
 1. De bijlagen bij dit protocol vormen een integrerend onderdeel van dit protocol.
 

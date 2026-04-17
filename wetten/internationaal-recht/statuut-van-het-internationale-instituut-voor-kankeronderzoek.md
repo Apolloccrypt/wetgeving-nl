@@ -1,20 +1,42 @@
 ---
 title: "Statuut van het Internationale Instituut voor Kankeronderzoek"
 identifier: "BWBV0004376"
-categorie: "Internationaal recht"
-publicatiedatum: 1972-05-23
-laatste_update: 1972-05-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004376"
+country: "nl"
+rank: "verdrag"
+publication_date: "1972-05-23"
+last_updated: "1972-05-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004376"
+soort: "verdrag"
+stam_id: "10004088193"
+version_id: "10004257002"
+internal_id: "C10007206811"
+label_id: "10004072794"
+dtd_version: "2.0"
+original_entry_into_force: "1967-04-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004376/1972-05-23/0"
+intitule_bron: "Trb.1966-145"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1966-05-18"
+intitule_in_force: "1972-11-17"
+intitule_status: "goed"
+original_publication: "Trb.1966-145"
+original_published_date: "1966-05-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1966-145"
+entry_into_force_date: "1967-04-27"
+jci_1_3: "jci1.3:c:BWBV0004376&z=1972-05-23&g=1972-05-23"
+jci_1_0: "1.0:c:BWBV0004376&g=1972-05-23"
+citeertitel_status: "redactioneel"
+entry_into_force: "1967-04-27"
 ---
-
 # Statuut van het Internationale Instituut voor Kankeronderzoek
 
-#### Artikel I. Doel
+##### Artikel I. Doel
 
 Het doel van het Internationale Instituut voor Kankeronderzoek is de bevordering van internationale samenwerking bij het kankeronderzoek. Het Instituut vormt een middel dat het de Deelnemende Staten en de Wereldgezondheidsorganisatie, in vereniging met het Internationale Verbond tot bestrijding van Kanker en andere daarbij betrokken internationale organisaties mogelijk maakt samen te werken bij het stimuleren van, en het verlenen van steun aan alle fasen van wetenschappelijk onderzoek verband houdende met het kankervraagstuk.
 
-#### Artikel II. Werkzaamheden
+##### Artikel II. Werkzaamheden
 
 Ter verwezenlijking van zijn doeleinden vervult het Instituut die volgende functies:
 
@@ -40,11 +62,11 @@ Ter verwezenlijking van zijn doeleinden vervult het Instituut die volgende funct
 
 - 5. Bij de uitvoering van het programma van permanente diensten of van bijzondere projecten kan het Instituut samenwerken met iedere andere instelling.
 
-#### Artikel III. Deelnemende Staten
+##### Artikel III. Deelnemende Staten
 
 Ieder Lid van de Wereldgezondheidsorganisatie kan, met inachtneming van de bepalingen van artikel XII, actief deelnemen aan de werkzaamheden van het Instituut door zich door middel van een aan de Directeur-Generaal van de Wereldgezondheidsorganisatie gerichte kennisgeving te verplichten de bepalingen van dit Statuut in acht te nemen en toe te passen. In dit Statuut worden Leden die een dergelijke kennisgeving hebben ingezonden „Deelnemende Staten” genoemd.
 
-#### Artikel IV. Structuur
+##### Artikel IV. Structuur
 
 Het Instituut omvat:
 
@@ -54,7 +76,7 @@ Het Instituut omvat:
 
 - (c). het Secretariaat.
 
-#### Artikel V. De Raad van Bestuur
+##### Artikel V. De Raad van Bestuur
 
 1. De Raad van Bestuur is samengesteld uit een vertegenwoordiger van elke Deelnemende Staat en de Directeur-Generaal van de Wereldgezondheidsorganisatie, die vergezeld kan worden door plaatsvervangers of adviseurs.
 
@@ -90,7 +112,7 @@ Het Instituut omvat:
 
 8. De Raad van Bestuur kan subcommissies en werkgroepen benoemen.
 
-#### Artikel VI. De Wetenschappelijke Raad
+##### Artikel VI. De Wetenschappelijke Raad
 
 1. De Wetenschappelijke Raad is samengesteld uit 12 zeer bekwame geleerden, die zijn gekozen vanwege hun technische kennis op het gebied van het kankeronderzoek en verwante gebieden.
 
@@ -110,7 +132,7 @@ Het Instituut omvat:
 
 - (e). het uitbrengen van verslag aan de Raad van Bestuur over de onder (b), (c) en (d) hierboven genoemde punten, zodat deze gelijk met het programma en de begroting door de Raad kunnen worden behandeld.
 
-#### Artikel VII. Het Secretariaat
+##### Artikel VII. Het Secretariaat
 
 1. Onder het algemene gezag van de Directeur-Generaal van de Wereldgezondheidsorganisatie is het Secretariaat het administratieve technische orgaan van het Instituut. Het voert bovendien de besluiten van de Raad van Bestuur en van de Wetenschappelijke Raad uit.
 
@@ -130,7 +152,7 @@ Het Instituut omvat:
 
 6. De Directeur van het Instituut zendt aan alle Deelnemende Staten en aan de Directeur-Generaal van de Wereldgezondheidsorganisatie een verslag van die stand van zaken op het Instituut alsmede de begroting voor het volgende boekjaar, die hen ten minste 30 dagen voor de gewone jaarvergadering van de Raad van Bestuur dienen te bereiken.
 
-#### Artikel VIII. Financiën
+##### Artikel VIII. Financiën
 
 1. De tekst van de vertaling is niet beschikbaar.
 
@@ -150,19 +172,19 @@ De bijzondere projecten van het Instituut worden gefinancierd uit dergelijke sch
 
 8. De gelden en andere activa van het Instituut worden behandeld als toevertrouwde gelden ingevolge artikel VI (6) en (7) van het financiële reglement van de Wereldgezondheidsorganisatie. De verantwoording hiervan en van de gelden en activa van de Wereldgezondheidsorganisatie vindt gescheiden plaats; zij worden beheerd overeenkomstig het financiële reglement, zoals aanvaard door de Raad van Bestuur.
 
-#### Artikel IX. Het hoofdkantoor
+##### Artikel IX. Het hoofdkantoor
 
 De zetel van het hoofdkantoor van het Instituut wordt vastgesteld door de Raad van Bestuur.
 
-#### Artikel X. Wijzigingen
+##### Artikel X. Wijzigingen
 
 Behoudens het bepaalde in artikel VIII, 4, worden wijzigingen in dit Statuut van kracht nadat zij door de Raad van Bestuur zijn aanvaard met een meerderheid van twee derde van de stemmen van zijn leden, die vertegenwoordigers van de Deelnemende Staten zijn, en aanvaard door de Wereldgezondheidsorganisatie.
 
-#### Artikel XI. Inwerkingtreding
+##### Artikel XI. Inwerkingtreding
 
 De bepalingen van dit Statuut treden in werking nadat vijf van de Staten die het initiatief hebben genomen tot het voorstel een Internationaal Instituut voor Kankeronderzoek in te stellen, de in artikel III bedoelde verplichting op zich hebben genomen de bepalingen van dit Statuut in acht te nemen en toe te passen.
 
-#### Artikel XII. Deelneming van nieuwe Staten
+##### Artikel XII. Deelneming van nieuwe Staten
 
 Na het in werking treden van dit Statuut kan elke Lid-Staat van de Wereldgezondheidsorganisatie worden toegelaten als Deelnemende Staat, mits:
 
@@ -170,6 +192,6 @@ Na het in werking treden van dit Statuut kan elke Lid-Staat van de Wereldgezondh
 
 - (b). die Staat daarna de in artikel III bedoelde verplichting op zich neemt.
 
-#### Artikel XIII. Uittreding
+##### Artikel XIII. Uittreding
 
 Een Deelnemende Staat kan zich terugtrekken van deelneming aan de werkzaamheden van het Instituut door de Directeur-Generaal van de Wereldgezondheidsorganisatie kennis te geven van zijn voornemen zich terug te trekken. Die kennisgeving wordt van kracht zes maanden na ontvangst daarvan door de Directeur-Generaal van de Wereldgezondheidsorganisatie.

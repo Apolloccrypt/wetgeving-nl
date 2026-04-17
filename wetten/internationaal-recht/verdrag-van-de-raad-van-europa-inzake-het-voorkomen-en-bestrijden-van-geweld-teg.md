@@ -1,13 +1,35 @@
 ---
 title: "Verdrag van de Raad van Europa inzake het voorkomen en bestrijden van geweld tegen vrouwen en huiselijk geweld"
 identifier: "BWBV0006074"
-categorie: "Internationaal recht"
-publicatiedatum: 2016-03-01
-laatste_update: 2016-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006074"
+country: "nl"
+rank: "verdrag"
+publication_date: "2016-03-01"
+last_updated: "2016-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006074"
+soort: "verdrag"
+stam_id: "10005012793"
+version_id: "10005335132"
+internal_id: "C10009014131"
+label_id: "10004997634"
+dtd_version: "2.0"
+original_entry_into_force: "2016-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006074/2016-03-01/0"
+intitule_bron: "Trb.2012-233"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2012-12-12"
+intitule_in_force: "2015-12-15"
+intitule_status: "goed"
+original_publication: "Trb.2012-233"
+original_published_date: "2012-12-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2012-233"
+entry_into_force_date: "2016-03-01"
+jci_1_3: "jci1.3:c:BWBV0006074&z=2016-03-01&g=2016-03-01"
+jci_1_0: "1.0:c:BWBV0006074&g=2016-03-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2016-03-01"
 ---
-
 # Verdrag van de Raad van Europa inzake het voorkomen en bestrijden van geweld tegen vrouwen en huiselijk geweld
 
 Preambule
@@ -50,7 +72,7 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. DOELSTELLINGEN, BEGRIPSOMSCHRIJVINGEN, GELIJKHEID EN NON-DISCRIMINATIE, ALGEMENE VERPLICHTINGEN
 
-#### Artikel 1. Doelstellingen van het Verdrag
+##### Artikel 1. Doelstellingen van het Verdrag
 
 1. De doelstellingen van dit Verdrag zijn:
 
@@ -66,7 +88,7 @@ Zijn het volgende overeengekomen:
 
 2. Teneinde de doeltreffende uitvoering van de bepalingen ervan door de partijen te waarborgen, wordt bij dit Verdrag een specifiek toezichtmechanisme ingesteld.
 
-#### Artikel 2. Reikwijdte van het Verdrag
+##### Artikel 2. Reikwijdte van het Verdrag
 
 1. Dit Verdrag is van toepassing op alle vormen van geweld tegen vrouwen, met inbegrip van huiselijk geweld, dat vrouwen buitenproportioneel treft.
 
@@ -74,7 +96,7 @@ Zijn het volgende overeengekomen:
 
 3. Dit Verdrag is zowel van toepassing in vredestijd als ten tijde van gewapende conflicten.
 
-#### Artikel 3. Begripsomschrijvingen
+##### Artikel 3. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag:
 
@@ -90,7 +112,7 @@ Voor de toepassing van dit Verdrag:
 
 - f. omvat het begrip „vrouwen” ook meisjes jonger dan 18 jaar.
 
-#### Artikel 4. Grondrechten, gelijkheid en non-discriminatie
+##### Artikel 4. Grondrechten, gelijkheid en non-discriminatie
 
 1. De partijen nemen de nodige wetgevende en andere maatregelen ter bevordering en bescherming van het recht van een ieder, en van vrouwen in het bijzonder, om in zowel de publieke als de privésfeer gevrijwaard te worden van geweld.
 
@@ -106,19 +128,19 @@ Voor de toepassing van dit Verdrag:
 
 4. Bijzondere maatregelen die nodig zijn ter voorkoming en bescherming van vrouwen tegen gendergerelateerd geweld worden niet discriminatoir geacht op grond van de bepalingen van dit Verdrag.
 
-#### Artikel 5. Verplichtingen van de staat en zorgvuldigheid
+##### Artikel 5. Verplichtingen van de staat en zorgvuldigheid
 
 1. De partijen onthouden zich van elke betrokkenheid bij daden van geweld tegen vrouwen en zien erop toe dat de autoriteiten van de staat, ambtenaren, agenten, instellingen en andere actoren die optreden namens de staat in overeenstemming met deze verplichting handelen.
 
 2. De partijen nemen de nodige wetgevende en andere maatregelen teneinde de vereiste zorgvuldigheid in acht te nemen bij het voorkomen, onderzoeken, bestraffen en bewerkstelligen van herstel na daden van geweld die vallen onder de reikwijdte van dit Verdrag en worden gepleegd door actoren die niet behoren tot het staatsapparaat.
 
-#### Artikel 6. Genderbewust beleid
+##### Artikel 6. Genderbewust beleid
 
 De partijen verplichten zich een genderperspectief te hanteren bij de uitvoering en toetsing van de gevolgen van de bepalingen van dit Verdrag en effectief beleid ten behoeve van de gelijkheid van vrouwen en mannen te implementeren evenals de bevordering van de eigen kracht van vrouwen.
 
 ### HOOFDSTUK II. INTEGRAAL BELEID EN GEGEVENS VERZAMELEN
 
-#### Artikel 7. Alomvattend en gecoördineerd beleid
+##### Artikel 7. Alomvattend en gecoördineerd beleid
 
 1. De partijen nemen de nodige wetgevende en andere maatregelen voor het aannemen en uitvoering van effectief, alomvattend en gecoördineerd nationaal beleid dat alle relevante maatregelen omvat ter voorkoming en bestrijding van alle vormen van geweld die onder de reikwijdte van dit Verdrag vallen en een holistisch antwoord vormen op geweld tegen vrouwen.
 
@@ -126,15 +148,15 @@ De partijen verplichten zich een genderperspectief te hanteren bij de uitvoering
 
 3. Maatregelen die uit hoofde van dit artikel worden genomen hebben waar van toepassing betrekking op alle betrokken actoren, zoals overheidsinstanties, nationale, regionale en lokale parlementen en autoriteiten, nationale mensenrechteninstanties en maatschappelijke organisaties.
 
-#### Artikel 8. Financiële middelen
+##### Artikel 8. Financiële middelen
 
 De partijen wijzen passende financiële middelen en personeel toe voor de adequate implementatie van integraal beleid, maatregelen en programma’s ter voorkoming en bestrijding van alle vormen van geweld die vallen onder de reikwijdte van dit Verdrag, met inbegrip van hetgeen wordt uitgevoerd door non-gouvernementele organisaties en het maatschappelijk middenveld.
 
-#### Artikel 9. Non-gouvernementele organisaties en het maatschappelijk middenveld
+##### Artikel 9. Non-gouvernementele organisaties en het maatschappelijk middenveld
 
 De partijen erkennen, stimuleren en ondersteunen de werkzaamheden van de betrokken non gouvernementele organisaties en het maatschappelijk middenveld ter bestrijding van geweld tegen vrouwen op alle niveaus en zetten een effectieve samenwerking op met deze organisaties.
 
-#### Artikel 10. Coördinerend orgaan
+##### Artikel 10. Coördinerend orgaan
 
 1. De partijen wijzen een of meer officiële organen aan of stellen die in die verantwoordelijk zijn voor de coördinatie, implementatie, toezicht op en toetsing van beleid en maatregelen ter voorkoming en bestrijding van alle vormen van geweld waarop dit Verdrag van toepassing is. Deze organen coördineren het verzamelen van gegevens zoals bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=II&artikel=11&z=2016-03-01&g=2016-03-01) en analyseren en verspreiden de resultaten.
 
@@ -142,7 +164,7 @@ De partijen erkennen, stimuleren en ondersteunen de werkzaamheden van de betrokk
 
 3. De partijen zien erop toe dat de uit hoofde van dit artikel aangewezen of ingestelde organen beschikken over de capaciteit om rechtstreeks te communiceren en betrekkingen te onderhouden met hun tegenhangers van de andere partijen.
 
-#### Artikel 11. Het verzamelen van gegevens en onderzoek
+##### Artikel 11. Het verzamelen van gegevens en onderzoek
 
 1. Ten behoeve van de uitvoering van dit Verdrag verplichten de partijen zich
 
@@ -158,7 +180,7 @@ De partijen erkennen, stimuleren en ondersteunen de werkzaamheden van de betrokk
 
 ### HOOFDSTUK III. PREVENTIE
 
-#### Artikel 12. Algemene verplichtingen
+##### Artikel 12. Algemene verplichtingen
 
 1. De partijen nemen de nodige maatregelen om veranderingen in de sociale en culturele gedragspatronen van vrouwen en mannen te stimuleren teneinde vooroordelen, gewoonten, tradities en alle andere praktijken gebaseerd op het idee dat vrouwen inferieur zouden zijn of op stereotype rollen van vrouwen en mannen uit te bannen.
 
@@ -172,25 +194,25 @@ De partijen erkennen, stimuleren en ondersteunen de werkzaamheden van de betrokk
 
 6. De partijen nemen de nodige maatregelen ter bevordering van programma’s en activiteiten met betrekking tot het versterken van de eigen kracht van vrouwen.
 
-#### Artikel 13. Bewustwording
+##### Artikel 13. Bewustwording
 
 1. De partijen voeren regelmatig en op alle niveaus bewustwordingscampagnes of -programma’s uit of bevorderen die, waarbij wordt samengewerkt met nationale mensenrechteninstellingen, organisaties die zich inzetten voor de gelijkheid van man en vrouw, het maatschappelijk middenveld en non-gouvernementele organisaties, in het bijzonder vrouwenorganisaties, teneinde waar mogelijk de bewustwording en kennis onder het publiek te bevorderen van de verschillende verschijningsvormen van alle vormen van geweld die vallen onder de reikwijdte van dit Verdrag, de gevolgen ervan voor kinderen en de noodzaak dat soort geweld te voorkomen.
 
 2. De partijen zien erop toe dat informatie over maatregelen die beschikbaar zijn om daden van geweld die vallen onder de reikwijdte van dit Verdrag te voorkomen breed onder het publiek wordt verspreid.
 
-#### Artikel 14. Onderwijs
+##### Artikel 14. Onderwijs
 
 1. De partijen nemen waar passend de maatregelen die nodig zijn om onderwijsmateriaal in te voeren over kwesties als de gelijkheid van vrouwen en mannen, niet-stereotype genderrollen, wederzijds respect, het geweldloos oplossen van conflicten in interpersoonlijke betrekkingen, gendergerelateerd geweld tegen vrouwen en het recht op persoonlijke integriteit, aangepast aan het ontwikkelingsniveau van de leerlingen in formele curricula en op alle onderwijsniveaus.
 
 2. De partijen nemen de maatregelen die nodig zijn om de in het eerste lid bedoelde grondbeginselen te bevorderen bij informele onderwijsvoorzieningen alsmede bij faciliteiten voor sport, cultuur en recreatie en de media.
 
-#### Artikel 15. Trainen van beroepskrachten
+##### Artikel 15. Trainen van beroepskrachten
 
 1. De partijen bieden of intensiveren passende trainingen voor de beroepskrachten die te maken hebben met slachtoffers of plegers van alle daden van geweld die vallen onder de reikwijdte van dit Verdrag, over het voorkomen en opsporen van dit soort geweld, over de gelijkheid van vrouwen en mannen, de behoeften en rechten van slachtoffers alsmede over hoe te voorkomen dat de slachtoffers opnieuw slachtoffer worden.
 
 2. De partijen bevorderen dat de training bedoeld in het eerste lid ook training omvat over gecoördineerde samenwerking tussen de verschillende instanties zodat de doorverwijzing bij gevallen van geweld die vallen onder de reikwijdte van dit Verdrag alomvattend is en adequaat verloopt.
 
-#### Artikel 16. Preventieve interventie en behandelprogramma’s
+##### Artikel 16. Preventieve interventie en behandelprogramma’s
 
 1. De partijen nemen de wetgevende of andere maatregelen die nodig zijn voor het opzetten of ondersteunen van programma’s om plegers van huiselijk geweld niet-gewelddadig gedrag in hun interpersoonlijke relaties aan te leren teneinde verder geweld te voorkomen en gewelddadige gedragspatronen te veranderen.
 
@@ -198,7 +220,7 @@ De partijen erkennen, stimuleren en ondersteunen de werkzaamheden van de betrokk
 
 3. Bij het treffen van de maatregelen bedoeld in het eerste en tweede lid, zien de partijen erop toe dat de veiligheid, ondersteuning en mensenrechten van de slachtoffers de eerste prioriteit zijn en dat deze programma’s, waar passend, in nauwe samenwerking met in slachtofferhulp gespecialiseerde instanties worden opgezet en uitgevoerd.
 
-#### Artikel 17. Participatie van de private sector en de media
+##### Artikel 17. Participatie van de private sector en de media
 
 1. De partijen moedigen de private sector, de sector voor informatie- en communicatietechnologie en de media aan, waarbij de vrijheid van meningsuiting en hun onafhankelijkheid naar behoren worden geëerbiedigd, deel te nemen aan het ontwikkelen en uitvoeren van beleid en het vaststellen van richtlijnen en normen voor zelfregulering om geweld tegen vrouwen te voorkomen en de eerbiediging van hun waardigheid te bevorderen.
 
@@ -206,7 +228,7 @@ De partijen erkennen, stimuleren en ondersteunen de werkzaamheden van de betrokk
 
 ### HOOFDSTUK IV. BESCHERMING EN ONDERSTEUNING
 
-#### Artikel 18. Algemene verplichtingen
+##### Artikel 18. Algemene verplichtingen
 
 1. De partijen nemen de wetgevende of andere maatregelen die nodig zijn ter bescherming van alle slachtoffers tegen verdere daden van geweld.
 
@@ -230,61 +252,61 @@ De partijen erkennen, stimuleren en ondersteunen de werkzaamheden van de betrokk
 
 5. In overeenstemming met hun verplichtingen uit hoofde van het internationale recht nemen de partijen passende maatregelen voor het verschaffen van consulaire diensten en andere diensten ter bescherming en ondersteuning van hun onderdanen en andere slachtoffers die recht hebben op deze bescherming.
 
-#### Artikel 19. Informatie
+##### Artikel 19. Informatie
 
 De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat slachtoffers tijdig adequate informatie ontvangen in een taal die zij begrijpen over de beschikbare vormen van ondersteuning en wettelijke maatregelen.
 
-#### Artikel 20. Algemene ondersteuningsdiensten
+##### Artikel 20. Algemene ondersteuningsdiensten
 
 1. De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat de slachtoffers toegang hebben tot diensten die hun herstel na geweld vergemakkelijken. Deze maatregelen omvatten zo nodig diensten op het gebied van juridische en psychologische advisering, financiële ondersteuning, huisvesting, onderwijs, training en ondersteuning bij het vinden van werk.
 
 2. De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat de slachtoffers toegang hebben tot gezondheidszorg en maatschappelijke hulpverlening, dat de diensten over voldoende middelen beschikken en dat de beroepskrachten opgeleid zijn voor het opvangen van slachtoffers en voor het hen doorverwijzen naar de passende diensten.
 
-#### Artikel 21. Bijstand bij individuele/collectieve klachten
+##### Artikel 21. Bijstand bij individuele/collectieve klachten
 
 De partijen waarborgen dat de slachtoffers beschikken over informatie en toegang hebben tot toepasselijke regionale en internationale individuele/collectieve klachtenmechanismen. De partijen bevorderen dat de bijstand aan slachtoffers die dergelijke klachten indienen op empathische en deskundige wijze wordt verstrekt.
 
-#### Artikel 22. Gespecialiseerde ondersteuning
+##### Artikel 22. Gespecialiseerde ondersteuning
 
 1. De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te voorzien in of regelingen te treffen voor een geografisch adequaat gespreide, rechtstreekse, korte en lange termijn gespecialiseerde dienstverlening voor slachtoffers die zijn blootgesteld aan de daden van geweld die vallen onder de reikwijdte van dit Verdrag.
 
 2. De partijen voorzien in of treffen regelingen voor in vrouwen gespecialiseerde hulpverlening aan alle vrouwelijke slachtoffers van geweld en hun kinderen.
 
-#### Artikel 23. Opvangplaatsen
+##### Artikel 23. Opvangplaatsen
 
 De partijen nemen de wetgevende of andere maatregelen die nodig zijn voor het opzetten van passende, gemakkelijk bereikbare opvangplaatsen in voldoende aantallen teneinde veilig onderdak te bieden aan slachtoffers, in het bijzonder vrouwen en hun kinderen, en hen proactief te bereiken.
 
-#### Artikel 24. Telefonische hulplijnen
+##### Artikel 24. Telefonische hulplijnen
 
 De partijen nemen de wetgevende of andere maatregelen die nodig zijn voor het opzetten in het gehele land van telefonische hulplijnen die 24 uur per dag gratis bereikbaar zijn voor advies aan bellers, op basis van vertrouwelijkheid of met voldoende waarborgen voor hun anonimiteit ter zake van alle vormen van geweld die onder de reikwijdte van dit Verdrag vallen.
 
-#### Artikel 25. Ondersteuning van slachtoffers van seksueel geweld
+##### Artikel 25. Ondersteuning van slachtoffers van seksueel geweld
 
 De partijen nemen de wetgevende of andere maatregelen die nodig zijn voor het in voldoende aantallen opzetten van passende, gemakkelijk bereikbare centra voor medisch en forensisch onderzoek, traumaverwerking en advisering van slachtoffers van verkrachting of seksueel geweld waar slachtoffers naar verwezen kunnen worden.
 
-#### Artikel 26. Bescherming en ondersteuning van kinderen die getuige zijn
+##### Artikel 26. Bescherming en ondersteuning van kinderen die getuige zijn
 
 1. De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat bij het bieden van bescherming en ondersteuning aan slachtoffers naar behoren rekening wordt gehouden met de rechten en behoeften van kinderen die getuige zijn van alle vormen van geweld die vallen onder de reikwijdte van dit Verdrag.
 
 2. Uit hoofde van dit artikel genomen maatregelen omvatten op de leeftijd toegesneden psychosociale hulp voor kinderen die getuige zijn geweest van een van de vormen van geweld die vallen onder de reikwijdte van dit Verdrag waarbij naar behoren rekening wordt gehouden met de belangen van het kind.
 
-#### Artikel 27. Melding
+##### Artikel 27. Melding
 
 De partijen nemen de maatregelen die nodig zijn om eenieder die getuige is van het plegen van daden van geweld die vallen onder de reikwijdte van dit Verdrag of die gegronde redenen heeft om aan te nemen dat dergelijke daden kunnen zijn gepleegd of dat verdere daden van geweld kunnen worden verwacht, te stimuleren daarvan melding te maken bij de bevoegde organisaties of autoriteiten.
 
-#### Artikel 28. Melding door beroepsbeoefenaars
+##### Artikel 28. Melding door beroepsbeoefenaars
 
 De partijen nemen de maatregelen die nodig zijn om te waarborgen dat de regels inzake vertrouwelijkheid die het nationale recht bepaalde beroepsbeoefenaars oplegt geen belemmering vormen voor de mogelijkheid onder passende voorwaarden melding te maken bij de bevoegde organisaties of autoriteiten, indien zij gegronde redenen hebben om aan te nemen dat er een ernstige daad van geweld die valt onder de reikwijdte van dit Verdrag is gepleegd en dat er meer ernstige daden van geweld te verwachten zijn.
 
 ### HOOFDSTUK V. MATERIEEL RECHT
 
-#### Artikel 29. Civiele rechtszaken en rechtsmiddelen
+##### Artikel 29. Civiele rechtszaken en rechtsmiddelen
 
 1. De partijen nemen de wetgevende of andere maatregelen die nodig zijn om slachtoffers te voorzien van passende civiele rechtsmiddelen tegen de dader.
 
 2. De partijen nemen de wetgevende of andere maatregelen die nodig zijn om slachtoffers in overeenstemming met de algemene beginselen van het internationale recht te voorzien van passende civiele rechtsmiddelen tegen de autoriteiten van de staat die hebben verzuimd binnen de reikwijdte van hun bevoegdheden de nodige preventieve of beschermende maatregelen te treffen.
 
-#### Artikel 30. Schadevergoeding
+##### Artikel 30. Schadevergoeding
 
 1. De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat slachtoffers het recht hebben schadevergoeding te vorderen van de daders met betrekking tot de overeenkomstig dit Verdrag strafbaar gestelde feiten.
 
@@ -292,29 +314,29 @@ De partijen nemen de maatregelen die nodig zijn om te waarborgen dat de regels i
 
 3. De maatregelen genomen uit hoofde van het tweede lid dienen te waarborgen dat de schadevergoeding binnen een redelijke termijn wordt toegekend.
 
-#### Artikel 31. Voogdij, omgangsregeling en veiligheid
+##### Artikel 31. Voogdij, omgangsregeling en veiligheid
 
 1. De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat bij de vaststelling van de voogdij en omgangsregeling voor de kinderen rekening wordt gehouden met gevallen van geweld die vallen onder de reikwijdte van dit Verdrag.
 
 2. De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat de uitvoering van een omgangsregeling of de voogdij niet ten koste gaat van de rechten en de veiligheid van het slachtoffer of de kinderen.
 
-#### Artikel 32. Civiele rechtsgevolgen van gedwongen huwelijken
+##### Artikel 32. Civiele rechtsgevolgen van gedwongen huwelijken
 
 De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat huwelijken gesloten onder bedreiging met geweld nietig of vernietigbaar zijn of ontbonden kunnen worden zonder onnodige financiële of administratieve lasten voor het slachtoffer.
 
-#### Artikel 33. Psychologisch geweld
+##### Artikel 33. Psychologisch geweld
 
 De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat opzettelijke gedragingen tot het door middel van dwang of bedreiging ernstig beschadigen van de geestelijke integriteit van een ander, strafbaar worden gesteld.
 
-#### Artikel 34. Stalking
+##### Artikel 34. Stalking
 
 De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat opzettelijke gedragingen tot herhaaldelijke bedreiging van een ander, hetgeen haar of hem doet vrezen voor haar of zijn veiligheid, strafbaar worden gesteld.
 
-#### Artikel 35. Fysiek geweld
+##### Artikel 35. Fysiek geweld
 
 De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat opzettelijke gedragingen tot het plegen van daden van fysiek geweld tegen een derde strafbaar worden gesteld.
 
-#### Artikel 36. Seksueel geweld, met inbegrip van verkrachting
+##### Artikel 36. Seksueel geweld, met inbegrip van verkrachting
 
 1. De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat de volgende opzettelijke gedragingen strafbaar worden gesteld:
 
@@ -328,13 +350,13 @@ De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te waarb
 
 3. De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat de bepalingen van het eerste lid tevens van toepassing zijn op gedragingen gericht tegen voormalige of huidige echtgenoten of partners erkend volgens het nationale recht.
 
-#### Artikel 37. Gedwongen huwelijk
+##### Artikel 37. Gedwongen huwelijk
 
 1. De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat opzettelijke gedragingen om een volwassene of een kind tot het aangaan van een huwelijk te dwingen, strafbaar worden gesteld.
 
 2. De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat opzettelijke gedragingen om een volwassene of een kind te lokken naar het grondgebied van een partij of staat niet zijnde de partij of staat waar hij of zij woont met het oogmerk deze volwassene of dat kind te dwingen tot het aangaan van een huwelijk, strafbaar worden gesteld.
 
-#### Artikel 38. Vrouwelijke genitale verminking
+##### Artikel 38. Vrouwelijke genitale verminking
 
 De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat de volgende opzettelijke gedragingen strafbaar worden gesteld:
 
@@ -344,7 +366,7 @@ De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te waarb
 
 - c. een meisje aanzetten, dwingen of ertoe bewegen de onder a genoemde handelingen te ondergaan.
 
-#### Artikel 39. Gedwongen abortus en gedwongen sterilisatie
+##### Artikel 39. Gedwongen abortus en gedwongen sterilisatie
 
 De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat de volgende opzettelijke gedragingen strafbaar worden gesteld:
 
@@ -352,27 +374,27 @@ De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te waarb
 
 - b. het zonder haar voorafgaande geïnformeerde toestemming of inzicht in de procedure verrichten van ingrepen met als doel of gevolg dat een vrouw zich niet langer op natuurlijke wijze kan voortplanten.
 
-#### Artikel 40. Seksuele intimidatie
+##### Artikel 40. Seksuele intimidatie
 
 De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat elke vorm van ongewenst verbaal, non-verbaal of fysiek seksueel getint gedrag met het doel of gevolg de waardigheid van een persoon te schenden, in het bijzonder door het creëren van een intimiderende, vijandige, onterende, vernederende of beledigende omgeving, onderworpen is aan strafrechtelijke of andere juridische sancties.
 
-#### Artikel 41. Medeplichtigheid of uitlokking en poging
+##### Artikel 41. Medeplichtigheid of uitlokking en poging
 
 1. De partijen nemen de wetgevende of andere maatregelen die nodig zijn om opzettelijke medeplichtigheid aan of opzettelijke uitlokking tot het plegen van de overeenkomstig de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=33&z=2016-03-01&g=2016-03-01), [34](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=34&z=2016-03-01&g=2016-03-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=35&z=2016-03-01&g=2016-03-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=36&z=2016-03-01&g=2016-03-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=37&z=2016-03-01&g=2016-03-01), [38, letter a](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=38&z=2016-03-01&g=2016-03-01), en [39](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=39&z=2016-03-01&g=2016-03-01) van dit Verdrag strafbaar gestelde feiten strafbaar te stellen.
 
 2. De partijen nemen de wetgevende of andere maatregelen die nodig zijn om opzettelijke pogingen tot het plegen van de overeenkomstig de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=35&z=2016-03-01&g=2016-03-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=36&z=2016-03-01&g=2016-03-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=37&z=2016-03-01&g=2016-03-01), [38, letter a](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=38&z=2016-03-01&g=2016-03-01), en [39](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=39&z=2016-03-01&g=2016-03-01) van dit Verdrag strafbaar gestelde feiten strafbaar te stellen.
 
-#### Artikel 42. Onaanvaardbare rechtvaardiging voor misdrijven, met inbegrip van misdrijven gepleegd in het kader van de zogenaamde „eer”
+##### Artikel 42. Onaanvaardbare rechtvaardiging voor misdrijven, met inbegrip van misdrijven gepleegd in het kader van de zogenaamde „eer”
 
 1. De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat bij strafprocedures ingesteld na het plegen van een van de daden van geweld die vallen onder de reikwijdte van dit Verdrag, cultuur, gewoonte, religie, traditie of de zogenaamde „eer” niet worden aangemerkt als rechtvaardiging voor deze daden. Dit heeft met name betrekking op beweringen dat het slachtoffer culturele, religieuze, sociale of traditionele normen zou hebben overtreden of gewoonten met betrekking tot gepast gedrag zou hebben geschonden.
 
 2. De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat het feit dat een persoon een kind aanzet tot het plegen van de handelingen bedoeld in het eerste lid niets afdoet aan de strafrechtelijke aansprakelijkheid van die persoon voor de gepleegde handelingen.
 
-#### Artikel 43. Toepasselijkheid van strafbare feiten
+##### Artikel 43. Toepasselijkheid van strafbare feiten
 
 De overeenkomstig dit Verdrag strafbaar gestelde feiten zijn van toepassing ongeacht de aard van de relatie tussen het slachtoffer en de dader.
 
-#### Artikel 44. Rechtsmacht
+##### Artikel 44. Rechtsmacht
 
 1. De partijen nemen de wetgevende of andere maatregelen die nodig zijn om rechtsmacht te vestigen met betrekking tot een overeenkomstig dit Verdrag strafbaar gesteld feit, indien dit strafbare feit wordt gepleegd:
 
@@ -398,7 +420,7 @@ De overeenkomstig dit Verdrag strafbaar gestelde feiten zijn van toepassing onge
 
 7. Onverminderd de algemene normen van het internationale recht sluit dit Verdrag geen enkele rechtsmacht uit in strafzaken die een partij in overeenstemming met haar nationale recht uitoefent.
 
-#### Artikel 45. Sancties en maatregelen
+##### Artikel 45. Sancties en maatregelen
 
 1. De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat op de overeenkomstig dit Verdrag strafbaar gestelde feiten doeltreffende, evenredige en afschrikkende straffen worden gesteld, rekening houdend met de ernst van de feiten. Deze sancties omvatten, wanneer dat passend is, vrijheidsberovende straffen die tot uitlevering kunnen leiden.
 
@@ -408,7 +430,7 @@ De overeenkomstig dit Verdrag strafbaar gestelde feiten zijn van toepassing onge
 
 - –. ontzetting uit de ouderlijke macht, indien de belangen van het kind, die tevens de veiligheid van het slachtoffer kunnen omvatten, niet op andere wijze gewaarborgd kunnen worden.
 
-#### Artikel 46. Strafverzwarende omstandigheden
+##### Artikel 46. Strafverzwarende omstandigheden
 
 De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat de volgende omstandigheden, voor zover deze niet reeds tot de bestanddelen van het strafbare feit behoren, in aanmerking kunnen worden genomen, overeenkomstig de relevante bepalingen van het nationale recht, als strafverzwarende omstandigheden bij het bepalen van de straf met betrekking tot de overeenkomstig dit Verdrag strafbaar gestelde feiten:
 
@@ -430,11 +452,11 @@ De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te waarb
 
 - i. de dader is eerder veroordeeld wegens soortgelijke strafbare feiten.
 
-#### Artikel 47. Vonnissen gewezen door een andere partij
+##### Artikel 47. Vonnissen gewezen door een andere partij
 
 De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te voorzien in de mogelijkheid bij het bepalen van de straf rekening te houden met onherroepelijke vonnissen die door een andere partij zijn gewezen met betrekking tot de overeenkomstig dit Verdrag strafbaar gestelde feiten.
 
-#### Artikel 48. Verbod op verplichte alternatieve procedures voor geschillenregeling of veroordeling
+##### Artikel 48. Verbod op verplichte alternatieve procedures voor geschillenregeling of veroordeling
 
 1. De partijen nemen de wetgevende of andere maatregelen die nodig zijn ten behoeve van een verbod op verplichte alternatieve procedures voor geschillenregeling, met inbegrip van bemiddeling en verzoening, ter zake van alle vormen van geweld die vallen onder de reikwijdte van dit Verdrag.
 
@@ -442,29 +464,29 @@ De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te voorz
 
 ### HOOFDSTUK VI. ONDERZOEK, VERVOLGING, PROCESRECHT EN BESCHERMENDE MAATREGELEN
 
-#### Artikel 49. Algemene verplichtingen
+##### Artikel 49. Algemene verplichtingen
 
 1. De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat onderzoeks- en gerechtelijke procedures met betrekking tot alle vormen van geweld die vallen onder de reikwijdte van dit Verdrag zonder onnodige vertraging worden uitgevoerd en dat in alle fasen van de strafrechtelijke procedure rekening wordt gehouden met de rechten van het slachtoffer.
 
 2. De partijen nemen de wetgevende of andere maatregelen die nodig zijn om, in overeenstemming met de grondbeginselen van de mensenrechten en met inachtneming van het genderperspectief op geweld, het daadwerkelijke onderzoek en de daadwerkelijke vervolging van overeenkomstig dit Verdrag strafbaar gestelde feiten te waarborgen.
 
-#### Artikel 50. Onmiddellijke respons, preventie en bescherming
+##### Artikel 50. Onmiddellijke respons, preventie en bescherming
 
 1. De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat de verantwoordelijke rechtshandhavende autoriteiten onverwijld en adequaat reageren op alle vormen van geweld die vallen onder de reikwijdte van dit Verdrag door de slachtoffers adequate en onmiddellijke bescherming te bieden.
 
 2. De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat de verantwoordelijke rechtshandhavende autoriteiten onverwijld en passend overgaan tot preventie van en bescherming tegen alle vormen van geweld die vallen onder de reikwijdte van dit Verdrag, met inbegrip van het inzetten van preventieve operationele maatregelen en het vergaren van bewijsmateriaal.
 
-#### Artikel 51. Risico-inventarisatie en risicobeheer
+##### Artikel 51. Risico-inventarisatie en risicobeheer
 
 1. De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat alle relevante autoriteiten het risico op de dood, de ernst van de situatie en de kans op herhaling van het geweld beoordelen teneinde de risico’s te beheersen en zo nodig gecoördineerd te zorgen voor veiligheid en ondersteuning.
 
 2. De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat er bij de in het eerste lid bedoelde beoordeling, in alle fasen van het onderzoek en bij de uitvoering van beschermende maatregelen, rekening wordt gehouden met het feit dat de plegers van daden van geweld die vallen onder de reikwijdte van het Verdrag in het bezit zijn van of toegang hebben tot vuurwapens.
 
-#### Artikel 52. Spoedeisende locatieverboden
+##### Artikel 52. Spoedeisende locatieverboden
 
 De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat de bevoegde autoriteiten gerechtigd worden een pleger van huiselijk geweld bij onmiddellijk gevaar te bevelen onverwijld de woning van het slachtoffer of van de persoon die gevaar loopt gedurende een toereikende periode te verlaten en de pleger te verbieden deze woning te betreden of contact op te nemen met het slachtoffer of de persoon die gevaar loopt. Bij uit hoofde van dit artikel genomen maatregelen wordt prioriteit verleend aan de veiligheid van slachtoffers of personen die gevaar lopen.
 
-#### Artikel 53. Gebieds- of contactverboden of beschermingsbevelen
+##### Artikel 53. Gebieds- of contactverboden of beschermingsbevelen
 
 1. De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat adequate gebieds- of contactverboden of beschermingsbevelen kunnen worden getroffen voor slachtoffers van alle vormen van geweld die vallen onder de reikwijdte van dit Verdrag.
 
@@ -482,17 +504,17 @@ De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te waarb
 
 3. De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat overtredingen van gebieds- of contactverboden of beschermingsbevelen getroffen uit hoofde van het eerste lid bestraft worden met doeltreffende, evenredige en afschrikkende strafrechtelijke of andere juridische sancties.
 
-#### Artikel 54. Onderzoek en bewijs
+##### Artikel 54. Onderzoek en bewijs
 
 De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat bewijsmateriaal met betrekking tot de seksuele achtergrond en gedragingen van het slachtoffer in civiele of strafrechtelijke procedures uitsluitend wordt toegelaten indien dat relevant en noodzakelijk is.
 
-#### Artikel 55. Procedures op verzoek van partijen en ambtshalve procedures
+##### Artikel 55. Procedures op verzoek van partijen en ambtshalve procedures
 
 1. De partijen waarborgen dat onderzoek naar of vervolging van de overeenkomstig de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=35&z=2016-03-01&g=2016-03-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=36&z=2016-03-01&g=2016-03-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=37&z=2016-03-01&g=2016-03-01), [38](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=38&z=2016-03-01&g=2016-03-01) en [39](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=39&z=2016-03-01&g=2016-03-01) van dit Verdrag strafbaar gestelde feiten niet volledig afhankelijk zijn van een melding of aangifte door een slachtoffer indien het feit geheel of gedeeltelijk op hun grondgebied heeft plaatsgevonden en dat de procedure kan worden voortgezet wanneer het slachtoffer haar of zijn verklaring of aangifte intrekt.
 
 2. De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat overheidsinstanties, non-gouvernementele organisaties en hulpverleners op het gebied van huiselijk geweld in overeenstemming met de voorwaarden voorzien in hun nationale recht slachtoffers op hun verzoek kunnen bijstaan en/of ondersteunen tijdens het onderzoek en de gerechtelijke procedures ter zake van de overeenkomstig dit Verdrag strafbaar gestelde feiten.
 
-#### Artikel 56. Beschermingsmaatregelen
+##### Artikel 56. Beschermingsmaatregelen
 
 1. De partijen nemen de wetgevende of andere maatregelen die nodig zijn om de rechten en belangen van slachtoffers te beschermen, met inbegrip van hun bijzondere behoeften als getuigen, tijdens alle fasen van het onderzoek en de gerechtelijke procedure, en met name door:
 
@@ -516,19 +538,19 @@ De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te waarb
 
 2. Voor kinderen die het slachtoffer of getuige zijn van geweld tegen vrouwen en huiselijk geweld worden waar nodig bijzondere beschermende maatregelen getroffen, rekening houdend met de belangen van het kind.
 
-#### Artikel 57. Rechtsbijstand
+##### Artikel 57. Rechtsbijstand
 
 De partijen voorzien in het recht op juridische bijstand en gratis rechtsbijstand voor
 
 slachtoffers onder de voorwaarden voorzien in hun nationale recht.
 
-#### Artikel 58. Verjaringstermijn
+##### Artikel 58. Verjaringstermijn
 
 De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat de verjaringstermijnen voor het instellen van gerechtelijke procedures ten aanzien van de overeenkomstig de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=36&z=2016-03-01&g=2016-03-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=37&z=2016-03-01&g=2016-03-01), [38](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=38&z=2016-03-01&g=2016-03-01) en [39](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=39&z=2016-03-01&g=2016-03-01) van dit Verdrag strafbaar gestelde feiten toereikend zijn en in verhouding staan tot de ernst van het desbetreffende strafbare feit, zodat het slachtoffer na het bereiken van de meerderjarigheid in de gelegenheid is een procedure in te stellen.
 
 ### HOOFDSTUK VII. MIGRATIE EN ASIEL
 
-#### Artikel 59. Verblijfstitel
+##### Artikel 59. Verblijfstitel
 
 1. De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat slachtoffers van wie de verblijfstitel afhangt van die van hun echtgenoot of van een volgens het nationale recht als zodanig erkende partner bij beëindiging van het huwelijk of de relatie, wanneer zich zeer moeilijke omstandigheden voordoen, op verzoek een eigen verblijfsvergunning krijgen ongeacht de duur van het huwelijk of de relatie. De voorwaarden voor de toekenning en duur van de zelfstandige verblijfsvergunning worden vastgesteld in het nationale recht.
 
@@ -542,7 +564,7 @@ De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te waarb
 
 4. De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat slachtoffers van gedwongen huwelijken die voor dat huwelijk naar een ander land zijn overgebracht en als gevolg daarvan hun verblijfstitel hebben verloren in het land waar zij hun vaste woon- of verblijfplaats hebben, deze kunnen herkrijgen.
 
-#### Artikel 60. Gendergerelateerde asielverzoeken
+##### Artikel 60. Gendergerelateerde asielverzoeken
 
 1. De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat gendergerelateerd geweld tegen vrouwen kan worden erkend als een vorm van vervolging in de zin van [artikel 1, A, tweede lid, van het Verdrag betreffende de status van vluchtelingen van 1951](https://wetten.overheid.nl/jci1.3:c:BWBV0001002&artikel=1) en als een vorm van ernstig gevaar die aanleiding geeft voor aanvullende/extra bescherming.
 
@@ -550,7 +572,7 @@ De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te waarb
 
 3. De partijen nemen de wetgevende of andere maatregelen die nodig zijn om gendersensitieve opvangprocedures en ondersteuningsdiensten voor asielzoekers op te zetten alsmede genderrichtlijnen en gendersensitieve asielprocedures, met inbegrip van de vaststelling van de vluchtelingenstatus en verzoeken om internationale bescherming.
 
-#### Artikel 61. Non-refoulement
+##### Artikel 61. Non-refoulement
 
 1. De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat het beginsel van non-refoulement wordt geëerbiedigd in overeenstemming met bestaande verplichtingen uit hoofde van het internationale recht.
 
@@ -558,7 +580,7 @@ De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te waarb
 
 ### HOOFDSTUK VIII. INTERNATIONALE SAMENWERKING
 
-#### Artikel 62. Algemene beginselen
+##### Artikel 62. Algemene beginselen
 
 1. De partijen werken, overeenkomstig de bepalingen van dit Verdrag en door toepassing van relevante toepasselijke internationale en regionale instrumenten voor samenwerking in civielrechtelijke en strafrechtelijke zaken, regelingen die zijn overeengekomen op basis van uniforme of wederkerige wetgeving en hun nationale recht, in zo ruim mogelijke mate met elkaar samen ten behoeve van:
 
@@ -576,11 +598,11 @@ De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te waarb
 
 4. De partijen trachten waar passend de voorkoming en bestrijding van geweld tegen vrouwen en huiselijk geweld te integreren in programma’s voor ontwikkelingssamenwerking ten behoeve van derde staten, onder meer door het sluiten van bilaterale en multilaterale verdragen met derde staten teneinde de bescherming van slachtoffers in overeenstemming met [artikel 18, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=IV&artikel=18&z=2016-03-01&g=2016-03-01), te vergemakkelijken.
 
-#### Artikel 63. Maatregelen ten behoeve van personen die gevaar lopen
+##### Artikel 63. Maatregelen ten behoeve van personen die gevaar lopen
 
 Indien een partij op grond van de haar beschikbare informatie gegronde redenen heeft om aan te nemen dat een persoon op het grondgebied van een andere partij direct gevaar loopt het slachtoffer te worden van een van de daden van geweld bedoeld in de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=36&z=2016-03-01&g=2016-03-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=37&z=2016-03-01&g=2016-03-01), [38](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=38&z=2016-03-01&g=2016-03-01) en [39](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=39&z=2016-03-01&g=2016-03-01) van dit Verdrag, wordt de partij die over deze informatie beschikt aangemoedigd deze onverwijld door te zenden naar de laatstgenoemde teneinde te waarborgen dat alle relevante beschermende maatregelen worden genomen. Indien van toepassing omvat deze informatie gegevens over bestaande beschermingsvoorzieningen ten behoeve van de persoon die gevaar loopt.
 
-#### Artikel 64. Informatie
+##### Artikel 64. Informatie
 
 1. De aangezochte partij licht de verzoekende partij onverwijld in over het eindresultaat van de krachtens dit hoofdstuk ondernomen actie. De aangezochte partij licht de verzoekende partij eveneens onverwijld in over omstandigheden die de uitvoering van de beoogde maatregelen onmogelijk maken of deze aanzienlijk dreigen te vertragen.
 
@@ -588,13 +610,13 @@ Indien een partij op grond van de haar beschikbare informatie gegronde redenen h
 
 3. Een partij die in overeenstemming met het tweede lid informatie ontvangt, verstrekt deze aan haar bevoegde autoriteiten zodat indien dit passend wordt geacht een procedure kan worden ingesteld of de informatie in aanmerking kan worden genomen in civielrechtelijke of strafrechtelijke procedures.
 
-#### Artikel 65. Bescherming van persoonsgegevens
+##### Artikel 65. Bescherming van persoonsgegevens
 
 Persoonsgegevens worden opgeslagen en gebruikt in overeenstemming met de verplichtingen van de partijen uit hoofde van het [Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBV0002783) (ETS nr. 108).
 
 ### HOOFDSTUK IX. TOEZICHTSMECHANISME
 
-#### Artikel 66. Groep van deskundigen inzake actie tegen geweld tegen vrouwen en huiselijk geweld
+##### Artikel 66. Groep van deskundigen inzake actie tegen geweld tegen vrouwen en huiselijk geweld
 
 1. De Groep van deskundigen inzake actie tegen geweld tegen vrouwen en huiselijk geweld (hierna te noemen „GREVIO”) houdt toezicht op de uitvoering van dit Verdrag door de partijen.
 
@@ -620,7 +642,7 @@ Persoonsgegevens worden opgeslagen en gebruikt in overeenstemming met de verplic
 
 7. De leden van GREVIO en andere leden van delegaties die de bezoeken aan landen omschreven in [artikel 68, negende en veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=IX&artikel=68&z=2016-03-01&g=2016-03-01), afleggen, genieten de voorrechten en immuniteiten vastgelegd in de bijlage bij dit Verdrag.
 
-#### Artikel 67. Comité van de Partijen
+##### Artikel 67. Comité van de Partijen
 
 1. Het Comité van de Partijen is samengesteld uit vertegenwoordigers van de partijen bij het Verdrag.
 
@@ -628,7 +650,7 @@ Persoonsgegevens worden opgeslagen en gebruikt in overeenstemming met de verplic
 
 3. Het Comité van de Partijen stelt zijn eigen reglement van orde vast.
 
-#### Artikel 68. Procedure
+##### Artikel 68. Procedure
 
 1. De partijen dienen bij de Secretaris-Generaal van de Raad van Europa een rapport gebaseerd op een door GREVIO opgestelde vragenlijst in over de wetgevende en andere maatregelen ter uitvoering van de bepalingen van dit Verdrag dat zal worden bestudeerd door GREVIO.
 
@@ -660,11 +682,11 @@ Persoonsgegevens worden opgeslagen en gebruikt in overeenstemming met de verplic
 
 15. Na bestudering van de uitkomsten van het onderzoek bedoeld in het veertiende lid doet GREVIO deze, tezamen met eventuele commentaren en aanbevelingen, toekomen aan de desbetreffende partij en, indien passend, aan het Comité van de Partijen en het Comité van Ministers van de Raad van Europa.
 
-#### Artikel 69. Algemene aanbevelingen
+##### Artikel 69. Algemene aanbevelingen
 
 GREVIO kan indien passend algemene aanbevelingen aannemen voor de uitvoering van dit Verdrag.
 
-#### Artikel 70. Betrokkenheid van parlementen bij toezicht
+##### Artikel 70. Betrokkenheid van parlementen bij toezicht
 
 1. De nationale parlementen worden uitgenodigd deel te nemen aan het toezicht op de maatregelen ter uitvoering van dit Verdrag.
 
@@ -674,7 +696,7 @@ GREVIO kan indien passend algemene aanbevelingen aannemen voor de uitvoering van
 
 ### HOOFDSTUK X. VERHOUDING TOT ANDERE INTERNATIONALE INSTRUMENTEN
 
-#### Artikel 71. Verhouding tot andere internationale instrumenten
+##### Artikel 71. Verhouding tot andere internationale instrumenten
 
 1. Dit Verdrag laat de verplichtingen onverlet die voortvloeien uit andere internationale instrumenten waarbij de partijen bij dit Verdrag partij zijn of zullen worden en die bepalingen bevatten over aangelegenheden waarop dit Verdrag van toepassing is.
 
@@ -682,7 +704,7 @@ GREVIO kan indien passend algemene aanbevelingen aannemen voor de uitvoering van
 
 ### HOOFDSTUK XI. WIJZIGINGEN VAN HET VERDRAG
 
-#### Artikel 72. Wijzigingen
+##### Artikel 72. Wijzigingen
 
 1. Elk voorstel tot wijziging van dit Verdrag dat door een partij wordt ingediend, wordt medegedeeld aan de Secretaris-Generaal van de Raad van Europa en door haar of hem toegezonden aan de lidstaten van de Raad van Europa, elke ondertekenaar, elke partij, de Europese Unie, elke staat die overeenkomstig de bepalingen van [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=XII&artikel=75&z=2016-03-01&g=2016-03-01) is uitgenodigd dit Verdrag te ondertekenen en aan elke staat die overeenkomstig de bepalingen van [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=XII&artikel=76&z=2016-03-01&g=2016-03-01) is uitgenodigd tot dit Verdrag toe te treden.
 
@@ -694,17 +716,17 @@ GREVIO kan indien passend algemene aanbevelingen aannemen voor de uitvoering van
 
 ### HOOFDSTUK XII. SLOTBEPALINGEN
 
-#### Artikel 73. Gevolgen van dit Verdrag
+##### Artikel 73. Gevolgen van dit Verdrag
 
 De bepalingen van dit Verdrag doen geen afbreuk aan de bepalingen van nationale wetten en bindende internationale instrumenten die reeds van kracht zijn of van kracht zullen worden en krachtens welke gunstiger rechten op het gebied van voorkoming en bestrijding van geweld tegen vrouwen en huiselijk geweld aan personen zijn of zouden worden toegekend.
 
-#### Artikel 74. Geschillenregeling
+##### Artikel 74. Geschillenregeling
 
 1. De partijen bij een geschil dat kan ontstaan inzake de toepassing of uitlegging van de bepalingen van dit Verdrag trachten het in de eerste plaats te beslechten door middel van onderhandelingen, bemiddeling, arbitrage of op een andere onderling overeen te komen vreedzame wijze.
 
 2. Het Comité van Ministers van de Raad van Europa kan procedures voor geschillenregeling vaststellen die beschikbaar zijn voor partijen bij een geschil indien zij daarmee instemmen.
 
-#### Artikel 75. Ondertekening en inwerkingtreding
+##### Artikel 75. Ondertekening en inwerkingtreding
 
 1. Dit Verdrag staat open voor ondertekening door de lidstaten van de Raad van Europa, door niet-lidstaten die hebben deelgenomen aan de opstelling hiervan en door de Europese Unie.
 
@@ -714,13 +736,13 @@ De bepalingen van dit Verdrag doen geen afbreuk aan de bepalingen van nationale 
 
 4. Ten aanzien van iedere in het eerste lid bedoelde staat of de Europese Unie, die daarna zijn of haar instemming door dit Verdrag te worden gebonden tot uitdrukking brengt, treedt het Verdrag in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van de nederlegging van de akte van bekrachtiging, aanvaarding of goedkeuring.
 
-#### Artikel 76. Toetreding tot het Verdrag
+##### Artikel 76. Toetreding tot het Verdrag
 
 1. Na de inwerkingtreding van dit Verdrag kan het Comité van Ministers van de Raad van Europa, na raadpleging en verkrijging van unanieme instemming van de partijen bij dit Verdrag, elke staat die geen lid is van de Raad van Europa en die niet heeft deelgenomen aan de opstelling van het Verdrag, uitnodigen tot dit Verdrag toe te treden, door een door de meerderheid als voorzien in [artikel 20, onderdeel d, van het Statuut van de Raad van Europa](https://wetten.overheid.nl/jci1.3:c:BWBV0005506&artikel=20) genomen besluit en door de unanieme stemming door de vertegenwoordigers van de partijen die recht hebben op een zetel in het Comité van Ministers.
 
 2. Ten aanzien van elke toetredende staat treedt het Verdrag in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van nederlegging van de akte van toetreding bij de Secretaris-Generaal van de Raad van Europa.
 
-#### Artikel 77. Territoriale toepassing
+##### Artikel 77. Territoriale toepassing
 
 1. Elke staat of de Europese Unie kan, op het tijdstip van ondertekening of bij de nederlegging van zijn of haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, het grondgebied of de grondgebieden waarop dit Verdrag van toepassing is nader aanduiden.
 
@@ -728,7 +750,7 @@ De bepalingen van dit Verdrag doen geen afbreuk aan de bepalingen van nationale 
 
 3. Elke krachtens de twee voorgaande leden gedane verklaring kan, met betrekking tot elk in die verklaring nader aangeduid grondgebied, worden ingetrokken door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte kennisgeving. De intrekking wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van die kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 78. Voorbehouden
+##### Artikel 78. Voorbehouden
 
 1. Ten aanzien van de bepalingen van dit Verdrag kunnen geen voorbehouden worden gemaakt, met uitzondering van de voorbehouden voorzien in het tweede en derde lid.
 
@@ -748,7 +770,7 @@ De bepalingen van dit Verdrag doen geen afbreuk aan de bepalingen van nationale 
 
 4. Elke partij kan een voorbehoud geheel of gedeeltelijk intrekken door middel van een verklaring gericht aan de Secretaris-Generaal van de Raad van Europa. Een dergelijke verklaring wordt van kracht met ingang van de datum van ontvangst door de Secretaris-Generaal.
 
-#### Artikel 79. Geldigheid en herziening van voorbehouden
+##### Artikel 79. Geldigheid en herziening van voorbehouden
 
 1. De in [artikel 78, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=XII&artikel=78&z=2016-03-01&g=2016-03-01), bedoelde voorbehouden zijn vijf jaar geldig, gerekend vanaf de dag van de inwerkingtreding van dit Verdrag ten aanzien van de betrokken partij. Dergelijke voorbehouden kunnen evenwel worden verlengd met tijdvakken van dezelfde duur.
 
@@ -756,13 +778,13 @@ De bepalingen van dit Verdrag doen geen afbreuk aan de bepalingen van nationale 
 
 3. Indien een partij in overeenstemming met [artikel 78, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=XII&artikel=78&z=2016-03-01&g=2016-03-01), een voorbehoud maakt, stelt zij GREVIO alvorens het te verlengen of op verzoek in kennis van de redenen die de voortzetting rechtvaardigen.
 
-#### Artikel 80. Opzegging
+##### Artikel 80. Opzegging
 
 1. Elke partij kan dit Verdrag te allen tijde opzeggen door middel van een kennisgeving gericht aan de Secretaris-Generaal van de Raad van Europa.
 
 2. Deze opzegging wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 81. Kennisgeving
+##### Artikel 81. Kennisgeving
 
 De Secretaris-Generaal van de Raad van Europa stelt de lidstaten van de Raad van Europa, de niet-lidstaten die hebben deelgenomen aan de opstelling van dit Verdrag alsmede elke ondertekenaar, elke partij, de Europese Unie en elke staat die is uitgenodigd tot dit Verdrag toe te treden, in kennis van:
 

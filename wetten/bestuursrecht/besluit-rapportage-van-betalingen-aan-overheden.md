@@ -1,13 +1,39 @@
 ---
-title: "Besluit rapportage van betalingen aan overheden"
+title: "Besluit van 10 november 2015, houdende regels ter uitvoering van de artikelen 41 tot en met 46 van richtlijn 2013/34/EU van het Europees Parlement en van de Raad van 26 juni 2013 betreffende de jaarlijkse financiële overzichten, geconsolideerde financiële overzichten en aanverwante verslagen van bepaalde ondernemingsvormen, tot wijziging van Richtlijn 2006/43/EG van het Europees Parlement en de Raad en tot intrekking van Richtlijnen 78/660/EEG en 83/349/EEG van de Raad (PbEU 2013, L 182) en van artikel 6 van Richtlijn 2013/50/EU van het Europees Parlement en de Raad van 22 oktober 2013 tot wijziging van Richtlijn 2004/109/EG van het Europees Parlement en de Raad betreffende de transparantievereisten die gelden voor informatie over uitgevende instellingen waarvan effecten tot de handel op een gereglementeerde markt zijn toegelaten, Richtlijn 2003/71/EG van het Europees Parlement en de Raad betreffende het prospectus dat gepubliceerd moet worden wanneer effecten aan het publiek worden aangeboden of tot de handel worden toegelaten en Richtlijn 2007/14/EG van de Commissie tot vaststelling van concrete uitvoeringsvoorschriften van een aantal bepalingen van Richtlijn 2004/109/EG (PbEU 2013, L 294) (Besluit rapportage van betalingen aan overheden)"
 identifier: "BWBR0037244"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-06-22
-laatste_update: 2024-06-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037244"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-06-22"
+last_updated: "2024-06-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037244"
+soort: "AMvB"
+stam_id: "13316423"
+version_id: "22810422"
+internal_id: "C33246611"
+label_id: "13284194"
+dtd_version: "2.0"
+original_entry_into_force: "2015-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037244/2024-06-22/0"
+intitule_bron: "Stb.2015-439"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-11-10"
+intitule_published: "2015-11-26"
+intitule_in_force: "2015-11-26"
+intitule_status: "goed"
+original_publication: "Stb.2015-439"
+original_signed_date: "2015-11-10"
+original_published_date: "2015-11-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2015-439"
+entry_into_force_date: "2015-12-01"
+jci_1_3: "jci1.3:c:BWBR0037244&z=2024-06-22&g=2024-06-22"
+jci_1_0: "1.0:c:BWBR0037244&g=2024-06-22"
+citeertitel_status: "officieel"
+short_title: "Besluit rapportage van betalingen aan overheden"
+signed_date: "2015-11-10"
+entry_into_force: "2015-12-01"
 ---
-
 # Besluit van 10 november 2015, houdende regels ter uitvoering van de artikelen 41 tot en met 46 van richtlijn 2013/34/EU van het Europees Parlement en van de Raad van 26 juni 2013 betreffende de jaarlijkse financiële overzichten, geconsolideerde financiële overzichten en aanverwante verslagen van bepaalde ondernemingsvormen, tot wijziging van Richtlijn 2006/43/EG van het Europees Parlement en de Raad en tot intrekking van Richtlijnen 78/660/EEG en 83/349/EEG van de Raad (PbEU 2013, L 182) en van artikel 6 van Richtlijn 2013/50/EU van het Europees Parlement en de Raad van 22 oktober 2013 tot wijziging van Richtlijn 2004/109/EG van het Europees Parlement en de Raad betreffende de transparantievereisten die gelden voor informatie over uitgevende instellingen waarvan effecten tot de handel op een gereglementeerde markt zijn toegelaten, Richtlijn 2003/71/EG van het Europees Parlement en de Raad betreffende het prospectus dat gepubliceerd moet worden wanneer effecten aan het publiek worden aangeboden of tot de handel worden toegelaten en Richtlijn 2007/14/EG van de Commissie tot vaststelling van concrete uitvoeringsvoorschriften van een aantal bepalingen van Richtlijn 2004/109/EG (PbEU 2013, L 294) (Besluit rapportage van betalingen aan overheden)
 
 Op de voordracht van Onze Minister van Veiligheid en Justitie van 16 september 2015, nr. 684628, gedaan mede namens Onze Minister van Financiën;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 Treedt in werking behoudens ten aanzien van uitgevende instellingen als bedoeld in artikel 1, onder i, niet zijnde organisaties van openbaar belang als bedoeld in artikel 398, zevende lid, van Boek 2 van het Burgerlijk Wetboek. Treedt in werking ten aanzien van uitgevende instellingen als bedoeld in artikel 1, onder i, niet zijnde organisaties van openbaar belang als bedoeld in artikel 398, zevende lid, van Boek 2 van het Burgerlijk Wetboek op 29 januari 2016 (Stb. 2016/41).
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -58,17 +84,17 @@ In dit besluit wordt verstaan onder:
 
 - i. **uitgevende instelling:** een uitgevende instelling als bedoeld in [artikel 5:25e van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25e).
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit is van toepassing op grote rechtspersonen, op organisaties van openbaar belang en op uitgevende instellingen die actief zijn in de winningsindustrie of in de houtkap van oerbossen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De grote rechtspersonen, de organisaties van openbaar belang en de uitgevende instellingen stellen jaarlijks een verslag op over betalingen aan overheden en maken dit verslag openbaar binnen twaalf maanden na afloop van het boekjaar op de wijze als bedoeld in [artikel 394, eerste lid, tweede volzin, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=394).
 
 2. Het eerste lid is niet van toepassing op de grote rechtspersonen, de organisaties van openbaar belang en de uitgevende instellingen waarvan de aan overheden verrichte betalingen zijn opgenomen in een geconsolideerd verslag over betalingen aan overheden dat overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037244&artikel=5&z=2024-06-22&g=2024-06-22) of overeenkomstig het recht van een lidstaat is opgesteld.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een betaling, hetzij afzonderlijk, hetzij in een reeks van samenhangende betalingen, hoeft niet in het verslag te worden vermeld indien deze betaling in een boekjaar minder dan € 100.000 bedraagt.
 
@@ -86,7 +112,7 @@ Dit besluit is van toepassing op grote rechtspersonen, op organisaties van openb
 
 5. De rapportage van de in dit artikel bedoelde betalingen strookt in de eerste plaats met het wezen, en dan pas met de vorm, van de betrokken betaling of activiteit. Betalingen en activiteiten worden niet kunstmatig gesplitst of samengevoegd om de toepassing van dit besluit te omzeilen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De grote rechtspersonen, de organisaties van openbaar belang en de uitgevende instellingen die ingevolge [artikel 406 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=406) of ingevolge [artikel 5:25c, derde, vierde en vijfde lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25c) gehouden zijn een geconsolideerde jaarrekening op te stellen, stellen een geconsolideerd verslag op over de betalingen aan overheden. Een grote rechtspersoon, organisatie van openbaar belang en uitgevende instelling als bedoeld in dit artikel wordt geacht actief te zijn in de winningsindustrie of in de houtkap van oerbossen indien een of meer rechtspersonen, waarvan de financiële gegevens opgenomen zijn in de geconsolideerde jaarrekening, actief zijn in de winningsindustrie of in de houtkap van oerbossen. Het geconsolideerde verslag omvat uitsluitend betalingen die voortvloeien uit winnings- en houtkapactiviteiten.
 
@@ -106,17 +132,17 @@ Dit besluit is van toepassing op grote rechtspersonen, op organisaties van openb
 
 Deze vrijstellingen gelden enkel wanneer zij tevens ten behoeve van de geconsolideerde jaarrekening worden toegepast.
 
-#### Artikel 6
+##### Artikel 6
 
 De in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037244&artikel=2&z=2024-06-22&g=2024-06-22) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037244&artikel=5&z=2024-06-22&g=2024-06-22) bedoelde rechtspersonen, organisaties van openbaar belang en uitgevende instellingen die een verslag opstellen en openbaar maken dat voldoet aan de verslagleggingsvereisten van een derde land die overeenkomstig artikel 47 van [richtlijn 2013/34](32013L0034)/EU van het Europees Parlement en van de Raad betreffende de jaarlijkse financiële overzichten, geconsolideerde financiële overzichten en aanverwante verslagen van bepaalde ondernemingsvormen, tot wijziging van [richtlijn 2006/43/EG](32006L0043) van het Europees Parlement en de Raad en tot intrekking van [richtlijnen 78/660/EEG](31978L0660) en [83/349/EEG](31983L0349) van de Raad (PbEU 2013, L 182) als gelijkwaardig aan de vereisten van hoofdstuk 10 van die richtlijn zijn beoordeeld, zijn vrijgesteld van de vereisten van dit besluit, behoudens voor de verplichting om dat verslag bekend te maken als bedoeld in [artikel 392a, tweede lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=392a) en [artikel 5:25e van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25e).
 
-#### Artikel 7
+##### Artikel 7
 
 1. Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor verschillende uitgevende instellingen verschillend kan worden vastgesteld.
 
 2. De in dit besluit vervatte voorschriften zijn van toepassing op verslagen die worden opgesteld over de boekjaren die aanvangen op of na 1 januari 2016.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit wordt aangehaald als: Besluit rapportage van betalingen aan overheden.
 

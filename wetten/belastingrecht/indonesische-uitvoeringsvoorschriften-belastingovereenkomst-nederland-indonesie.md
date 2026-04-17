@@ -1,13 +1,38 @@
 ---
-title: "Indonesische uitvoeringsvoorschriften belastingovereenkomst Nederland-Indonesië"
+title: "Indonesische voorschriften tot uitvoering van de op 5 maart 1973 tussen Nederland en Indonesië gesloten Overeenkomst tot het vermijden van dubbele belasting, zoals deze is gewijzigd bij het Protocol tot wijziging van 22 juli 1991, welk Protocol is gewijzigd bij het protocol van 23 augustus 1993"
 identifier: "BWBR0008578"
-categorie: "Belastingrecht"
-publicatiedatum: 1997-03-20
-laatste_update: 1997-03-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008578"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1997-03-20"
+last_updated: "1997-03-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008578"
+soort: "ministeriele-regeling"
+stam_id: "5099143"
+version_id: "9160922"
+internal_id: "C12188221"
+label_id: "5074624"
+dtd_version: "2.0"
+original_entry_into_force: "1997-03-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008578/1997-03-20/0"
+intitule_bron: "Stcrt.1997-54"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-03-03"
+intitule_published: "1997-03-18"
+intitule_in_force: "1997-03-18"
+intitule_status: "goed"
+original_publication: "Stcrt.1997-54"
+original_signed_date: "1997-03-03"
+original_published_date: "1997-03-18"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1997-03-20"
+jci_1_3: "jci1.3:c:BWBR0008578&z=1997-03-20&g=1997-03-20"
+jci_1_0: "1.0:c:BWBR0008578&g=1997-03-20"
+citeertitel_status: "officieel"
+short_title: "Indonesische uitvoeringsvoorschriften belastingovereenkomst Nederland-Indonesië"
+signed_date: "1997-03-03"
+entry_into_force: "1997-03-20"
 ---
-
 # Indonesische voorschriften tot uitvoering van de op 5 maart 1973 tussen Nederland en Indonesië gesloten Overeenkomst tot het vermijden van dubbele belasting, zoals deze is gewijzigd bij het Protocol tot wijziging van 22 juli 1991, welk Protocol is gewijzigd bij het protocol van 23 augustus 1993
 
 Besluit:
@@ -16,7 +41,7 @@ Door plaatsing in de Staatscourant het navolgende ter kennis van belanghebbende 
 
 #### Regeling inzake vermindering en vrijstelling van Indonesche belasting op dividenden, interest, royalty's en sommige andere soorten van inkomsten, genoten door inwoners van Nederland
 
-#### Artikel 1. Aanspraken inwoners van Nederland
+##### Artikel 1. Aanspraken inwoners van Nederland
 
 Aan de op 5 maart 1973 tussen Nederland en Indonesië gesloten Overeenkomst tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen (Trb. 1973, nr. 53), zoals deze is gewijzigd bij het op 22 juli 1991 te Koeala Loempoer gesloten Protocol tot wijziging van de genoemde Overeenkomst (Trb. 1991, nr. 133), welk Protocol is gewijzigd bij het op 23 augustus 1993 te Jakarta gesloten Protocol tot wijziging van het eerstgenoemde Protocol (Trb. 1993, nr. 136), kunnen inwoners van Nederland onder meer de volgende aanspraken ontlenen, geregeld in de hieronder tussen haakjes vermelde artikelen van de Overeenkomst en onderdelen van het Protocol:
 
@@ -54,7 +79,7 @@ Aan de op 5 maart 1973 tussen Nederland en Indonesië gesloten Overeenkomst tot 
 
 - 3. de beloning niet ten laste komt van een vaste inrichting die, of een vast middelpunt dat de werkgever in Indonesië heeft (artikel 15, tweede lid). De in de onderdelen a, b, d en e vermelde verminderingen zijn te berekenen over het brutobedrag van de dividenden, interest en royalty’s. De in de onderdelen a, b, d en e vermelde verminderingen zijn niet van toepassing indien de uiteindelijk gerechtigde tot de dividenden, de interest of de royalty’s in Indonesië een bedrijf uitoefent door middel van een aldaar gevestigde vaste inrichting, en het aandelenbezit uit hoofde waarvan de dividenden worden betaald, de vordering uit hoofde waarvan de interest verschuldigd is of het recht of de zaak uit hoofde waarvan de royalty’s verschuldigd zijn, tot het bedrijfsver-mogen van die vaste inrichting behoort (artikel 9, zesde lid, artikel 10, zesde lid, en artikel 11, vijfde lid).
 
-#### Artikel 2. Indonesische regeling
+##### Artikel 2. Indonesische regeling
 
 Ter uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008578&artikel=1&z=1997-03-20&g=1997-03-20) is van Indonesische zijde de volgende regeling getroffen:
 
@@ -88,11 +113,11 @@ Ter uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008578&a
 
 - 6. **Formulier** Aangezien het formulier ’Claim For Refund From Indonesian Income Tax Under Avoidance of Double Taxation Agreement’ niet door de Indonesische belastingadministratie wordt verstrekt, dient de belanghebbende inwoner van Nederland dat formulier zelf te vervaardigen in de navolgende vorm:
 
-#### Artikel 3. Intrekking
+##### Artikel 3. Intrekking
 
 De regeling van de Staatssecretaris van Financiën van 23 februari 1996, nr. IFZ96/213.U, Stcrt. van 5 maart 1996, nr. 46, wordt ingetrokken.
 
-#### Artikel 4. Inwerkingtreding
+##### Artikel 4. Inwerkingtreding
 
 1. Deze regeling kan worden aangehaald als [Indonesische uitvoeringsvoorschriften belastingovereenkomst Nederland-Indonesië](https://wetten.overheid.nl/jci1.3:c:BWBR0008578).
 

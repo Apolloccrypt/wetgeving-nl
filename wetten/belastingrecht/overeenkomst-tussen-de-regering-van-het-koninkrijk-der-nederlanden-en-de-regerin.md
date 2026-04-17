@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Zuid-Afrika tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen"
 identifier: "BWBV0005639"
-categorie: "Belastingrecht"
-publicatiedatum: 2008-12-28
-laatste_update: 2008-12-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005639"
+country: "nl"
+rank: "verdrag"
+publication_date: "2008-12-28"
+last_updated: "2008-12-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005639"
+soort: "verdrag"
+stam_id: "10004799963"
+version_id: "10005100942"
+internal_id: "C10007735971"
+label_id: "10004784124"
+dtd_version: "2.0"
+original_entry_into_force: "2008-12-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005639/2008-12-28/0"
+intitule_bron: "Trb.2009-1"
+intitule_effect: "intrekking-regeling"
+intitule_published: "2009-01-21"
+intitule_in_force: "2009-01-21"
+intitule_status: "vervallen"
+original_publication: "Trb.2009-1"
+original_published_date: "2009-01-21"
+original_effect: "intrekking-regeling"
+original_url_id: "trb-2009-1"
+entry_into_force_date: "2008-12-28"
+jci_1_3: "jci1.3:c:BWBV0005639&z=2008-12-28&g=2008-12-28"
+jci_1_0: "1.0:c:BWBV0005639&g=2008-12-28"
+citeertitel_status: "redactioneel"
+entry_into_force: "2008-12-28"
 ---
-
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Zuid-Afrika tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen
 
 De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek van Zuid-Afrika;
@@ -18,163 +40,163 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. REIKWIJDTE VAN DE OVEREENKOMST
 
-#### Artikel 1. Personen op wie de Overeenkomst van toepassing is
+##### Artikel 1. Personen op wie de Overeenkomst van toepassing is
 
 Vervallen
 
-#### Artikel 2. Belastingen waarop de Overeenkomst van toepassing is
+##### Artikel 2. Belastingen waarop de Overeenkomst van toepassing is
 
 Vervallen
 
 ### HOOFDSTUK II. BEGRIPSBEPALINGEN
 
-#### Artikel 3. Algemene begripsbepalingen
+##### Artikel 3. Algemene begripsbepalingen
 
 Vervallen
 
-#### Artikel 4. Fiscale woonplaats
+##### Artikel 4. Fiscale woonplaats
 
 Vervallen
 
-#### Artikel 5. Vaste inrichting
+##### Artikel 5. Vaste inrichting
 
 Vervallen
 
 ### HOOFDSTUK III. BELASTINGHEFFING NAAR HET INKOMEN
 
-#### Artikel 6. Inkomsten uit onroerende goederen
+##### Artikel 6. Inkomsten uit onroerende goederen
 
 Vervallen
 
-#### Artikel 7. Winst uit onderneming
+##### Artikel 7. Winst uit onderneming
 
 Vervallen
 
-#### Artikel 8. Zeevaart en luchtvaart
+##### Artikel 8. Zeevaart en luchtvaart
 
 Vervallen
 
-#### Artikel 9. Gelieerde ondernemingen
+##### Artikel 9. Gelieerde ondernemingen
 
 Vervallen
 
-#### Artikel 10. Dividenden
+##### Artikel 10. Dividenden
 
 Vervallen
 
-#### Artikel 11. Interest
+##### Artikel 11. Interest
 
 Vervallen
 
-#### Artikel 12. Royalty's
+##### Artikel 12. Royalty's
 
 Vervallen
 
-#### Artikel 13. Beperking van de artikelen 10, 11 en 12
+##### Artikel 13. Beperking van de artikelen 10, 11 en 12
 
 Vervallen
 
-#### Artikel 14. Vermogenswinsten
+##### Artikel 14. Vermogenswinsten
 
 Vervallen
 
-#### Artikel 15. Zelfstandige arbeid
+##### Artikel 15. Zelfstandige arbeid
 
 Vervallen
 
-#### Artikel 16. Niet-zelfstandige arbeid
+##### Artikel 16. Niet-zelfstandige arbeid
 
 Vervallen
 
-#### Artikel 17. Bestuurders- en commissarissenbeloningen
+##### Artikel 17. Bestuurders- en commissarissenbeloningen
 
 Vervallen
 
-#### Artikel 18. Artiesten en sportbeoefenaars
+##### Artikel 18. Artiesten en sportbeoefenaars
 
 Vervallen
 
-#### Artikel 19. Pensioenen
+##### Artikel 19. Pensioenen
 
 Vervallen
 
-#### Artikel 20. Overheidsfuncties
+##### Artikel 20. Overheidsfuncties
 
 Vervallen
 
-#### Artikel 21. Professoren en leraren
+##### Artikel 21. Professoren en leraren
 
 Vervallen
 
-#### Artikel 22. Studenten
+##### Artikel 22. Studenten
 
 Vervallen
 
-#### Artikel 23. Overige inkomsten
+##### Artikel 23. Overige inkomsten
 
 Vervallen
 
 ### HOOFDSTUK IV. WIJZE VAN VERMIJDING VAN DUBBELE BELASTING
 
-#### Artikel 24
+##### Artikel 24
 
 Vervallen
 
 ### HOOFDSTUK V. BIJZONDERE BEPALINGEN
 
-#### Artikel 25. Non-discriminatie
+##### Artikel 25. Non-discriminatie
 
 Vervallen
 
-#### Artikel 26. Regeling voor onderling overleg
+##### Artikel 26. Regeling voor onderling overleg
 
 Vervallen
 
-#### Artikel 27. Uitwisseling van inlichtingen
+##### Artikel 27. Uitwisseling van inlichtingen
 
 Vervallen
 
-#### Artikel 28. Diplomatieke en consulaire ambtenaren
+##### Artikel 28. Diplomatieke en consulaire ambtenaren
 
 Vervallen
 
-#### Artikel 29. Uitvoeringsvoorschriften
+##### Artikel 29. Uitvoeringsvoorschriften
 
 Vervallen
 
-#### Artikel 30. Opschorting van de scheepvaartovereenkomst van 1954
+##### Artikel 30. Opschorting van de scheepvaartovereenkomst van 1954
 
 Vervallen
 
 ### HOOFDSTUK VI. SLOTBEPALINGEN
 
-#### Artikel 31. Inwerkingtreding
+##### Artikel 31. Inwerkingtreding
 
 Vervallen
 
-#### Artikel 32. Beëindiging
+##### Artikel 32. Beëindiging
 
 Vervallen
 
 Bij de ondertekening van de Overeenkomst tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen, heden tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek van Zuid-Afrika gesloten, zijn de ondergetekenden, daartoe behoorlijk gevolmachtigd, overeengekomen dat de volgende bepalingen een integrerend deel van de Overeenkomst vormen.
 
-#### I. Ad artikel 4
+##### I. Ad artikel 4
 
 Vervallen
 
-#### II. Ad artikelen 10, 11 en 12
+##### II. Ad artikelen 10, 11 en 12
 
 Vervallen
 
-#### III. Ad artikel 20
+##### III. Ad artikel 20
 
 Vervallen
 
-#### IV. Ad artikel 24
+##### IV. Ad artikel 24
 
 Vervallen
 
-#### V. Ad artikel 27
+##### V. Ad artikel 27
 
 Vervallen
 

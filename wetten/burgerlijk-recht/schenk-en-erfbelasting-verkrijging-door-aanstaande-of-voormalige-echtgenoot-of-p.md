@@ -1,13 +1,38 @@
 ---
 title: "Schenk- en erfbelasting, verkrijging door aanstaande of voormalige echtgenoot of partner, wijziging huwelijkse voorwaarden, pleegkind"
 identifier: "BWBR0027898"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027898"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027898"
+soort: "beleidsregel"
+stam_id: "10607243"
+version_id: "17522562"
+internal_id: "C24248811"
+label_id: "10582534"
+dtd_version: "2.0"
+original_entry_into_force: "2010-07-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027898/2026-01-01/0"
+intitule_bron: "Stcrt.2010-10783"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-07-05"
+intitule_published: "2010-07-13"
+intitule_in_force: "2010-07-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-10783"
+original_signed_date: "2010-07-05"
+original_published_date: "2010-07-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-10783"
+entry_into_force_date: "2010-07-14"
+jci_1_3: "jci1.3:c:BWBR0027898&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0027898&g=2026-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "2010-07-05"
+entry_into_force: "2010-07-14"
 ---
-
 # Schenk- en erfbelasting, verkrijging door aanstaande of voormalige echtgenoot of partner, wijziging huwelijkse voorwaarden, pleegkind
 
 De minister van Financiën heeft het volgende besloten.

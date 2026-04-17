@@ -1,13 +1,38 @@
 ---
 title: "Memorandum van Overeenstemming tussen de Regering van het Koninkrijk der Nederlanden, de Regering van de Bondsrepubliek Duitsland, de Regering van de Franse Republiek en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland betreffende de gezamenlijke bouw en de gezamenlijke exploitatie van de Europese Transsone Windtunnel"
 identifier: "BWBV0002427"
-categorie: "Internationaal recht"
-publicatiedatum: 1988-11-01
-laatste_update: 1988-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002427"
+country: "nl"
+rank: "verdrag"
+publication_date: "1988-11-01"
+last_updated: "1988-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002427"
+soort: "verdrag"
+stam_id: "10002877963"
+version_id: "10002878192"
+internal_id: "C10006983551"
+label_id: "10002865454"
+dtd_version: "2.0"
+original_entry_into_force: "1988-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002427/1988-11-01/0"
+intitule_bron: "Trb.1988-62"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1988-11-01"
+intitule_published: "1988-06-07"
+intitule_in_force: "1989-01-13"
+intitule_status: "goed"
+original_publication: "Trb.1988-62"
+original_signed_date: "1988-11-01"
+original_published_date: "1988-06-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1988-62"
+entry_into_force_date: "1988-11-01"
+jci_1_3: "jci1.3:c:BWBV0002427&z=1988-11-01&g=1988-11-01"
+jci_1_0: "1.0:c:BWBV0002427&g=1988-11-01"
+citeertitel_status: "officieel"
+signed_date: "1988-11-01"
+entry_into_force: "1988-11-01"
 ---
-
 # Memorandum van Overeenstemming tussen de Regering van het Koninkrijk der Nederlanden, de Regering van de Bondsrepubliek Duitsland, de Regering van de Franse Republiek en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland betreffende de gezamenlijke bouw en de gezamenlijke exploitatie van de Europese Transsone Windtunnel
 
 De Regering van het Koninkrijk der Nederlanden,
@@ -30,7 +55,7 @@ Bevestigend de „Grondbeginselen voor Fase 3, de bouw en de exploitatie van de 
 
 Hebben als volgt besloten:
 
-#### Artikel 1. Onderwerp van het Memorandum van Overeenstemming
+##### Artikel 1. Onderwerp van het Memorandum van Overeenstemming
 
 1. De Deelnemende Partijen komen overeen gezamenlijk een transsone windtunnelinstallatie met een hoog getal van Reynolds, hierna te noemen: „de ETW” (Europese Transsone Windtunnel), te bouwen en te exploiteren, welke installatie dient te voldoen aan de eisen van onderzoek en ontwikkeling op het gebied van de lucht- en ruimtevaart in de komende decennia. De belangrijkste kenmerken van de ETW worden beschreven in Bijlage I bij dit Memorandum van Overeenstemming (hierna te noemden: „dit MvO”).
 
@@ -40,11 +65,11 @@ Hebben als volgt besloten:
 
 4. De ETW-vennootschap bouwt, exploiteert - door het uitvoeren van de windtunnelonderzoekingen in opdracht van voornamelijk de lucht- en ruimtevaartindustrieën in de deelnemende landen - en onderhoudt de ETW en ontwikkelt deze verder.
 
-#### Artikel 2. Plaats
+##### Artikel 2. Plaats
 
 De ETW wordt gebouwd te Keulen, Bondsrepubliek Duitsland, waarbij de grond door de Regering van de Bondsrepubliek Duitsland ter beschikking wordt gesteld zonder dat een huursom zal zijn verschuldigd. De belangrijkste onderdelen van de overeenkomst, te sluiten tussen de Regering van de Bondsrepubliek Duitsland en de ETWvennootschap, zijn opgenomen in Bijlage II bij dit MvO.
 
-#### Artikel 3. Bouwfase
+##### Artikel 3. Bouwfase
 
 1. De bouwfase van het ETW-project omvat
 
@@ -103,21 +128,21 @@ rekening houdend met de volgende voorlopige raming van de behoefte aan contante 
 
 10. Bij de gunning van contracten voor de bouw van de ETW zijn de kosten en de technische kwaliteit de doorslaggevende factoren; er wordt evenwel gestreefd naar een billijke verdeling van de contracten tussen de deelnemende landen.
 
-#### Artikel 4. Exploitatie van de ETW
+##### Artikel 4. Exploitatie van de ETW
 
 1. Na de periode van initiële exploitatie oefent de ETW-vennootschap haar bedrijf uit als een organisatie zonder winstoogmerk die zichzelf kan bedruipen.
 
 2. In principe worden de rente van het geïnvesteerd kapitaal en de afschrijving van de activa niet in de windtunneltarieven verdisconteerd.
 
-#### Artikel 5. Belastingen en heffingen
+##### Artikel 5. Belastingen en heffingen
 
 Met inachtneming van de desbetreffende bepalingen van de Duitse wetgeving is de ETW-vennootschap vrijgesteld van alle niet-terugvorderbare nationale belastingen of heffingen, alsmede van alle nietterugvorderbare plaatselijke belastingen. In alle andere gevallen restitueert de Regering van de Bondsrepubliek Duitsland al deze door de ETW-vennootschap betaalde belastingen of heffingen. Met betrekking tot belastingen en heffingen die niet meer zijn dan kosten in rekening gebracht door openbare nutsbedrijven, wordt geen vrijstelling of restitutie verleend.
 
-#### Artikel 6. Toelating van andere Regeringen
+##### Artikel 6. Toelating van andere Regeringen
 
 Indien enige andere regering de wens kenbaar maakt deel te nemen aan het ETW-project, dient over de toelating en de daarop betrekking hebbende voorwaarden door de Deelnemende Partijen unanieme overeenstemming te worden bereikt.
 
-#### Artikel 7. Informatie en rechten van de gebruiker
+##### Artikel 7. Informatie en rechten van de gebruiker
 
 1. De Deelnemende Partijen zijn zich ervan bewust dat gedurende de uitvoering van het ETW-project informatie ter beschikking komt of is gekomen uit de volgende bronnen:
 
@@ -153,11 +178,11 @@ Indien enige andere regering de wens kenbaar maakt deel te nemen aan het ETW-pro
 
 - (iii). ingeval de eigenaar vart zodanige informatie schade heeft geleden als gevolg van de onrechtmatige openbaarmaking of het onrechtmatige gebruik daarvan, is de desbetreffende ontvanger een rechtstreekse vergoeding aan de eigenaar verschuldigd.
 
-#### Artikel 8. Overdracht van rechten en verplichtingen
+##### Artikel 8. Overdracht van rechten en verplichtingen
 
 De Deelnemende Partijen dragen er zorg voor dat alle rechten (inclusief eigendomsrechten) en verplichtingen die gedurende de voorafgaande fasen van het ETW-project namens de voormalige Stuurgroep zijn verworven respectievelijk aangegaan, worden overgedragen aan de ETW-vennootschap.
 
-#### Artikel 9. Eisen tot schadevergoeding
+##### Artikel 9. Eisen tot schadevergoeding
 
 1. Elk der Deelnemende Partijen ziet af van het recht tot het instellen van een vordering tegen een van de andere Deelnemende Partijen wegens verlies van of schade aan haar eigendom of wegens enigerlei letsel (hieronder tevens begrepen letsel, de dood ten gevolge hebbende), schade of verlies, opgelopen of geleden door haar ambtenaren of vertegenwoordigers en voortvloeiend uit de werkzaamheden die ingevolge dit MvO worden verricht, behalve in het geval van grove nalatigheid, zoals in het derde lid van dit artikel is omschreven. Elk der Deelnemende Partijen vrijwaart de andere Deelnemende Partijen met betrekking tot een vordering wegens dit letsel, dit verlies of deze schade, opgelopen of geleden door haar ambtenaren of vertegenwoordigers.
 
@@ -167,17 +192,17 @@ De Deelnemende Partijen dragen er zorg voor dat alle rechten (inclusief eigendom
 
 4. Ten aanzien van enigerlei verlies, letsel of schade, veroorzaakt door andere leden van het ETW-personeel dan het ambtelijke personeel, dragen de Deelnemende Partijen er zorg voor dat de ETW vennootschap een passende verzekering afsluit, voor zover de aansprakelijkheid niet reeds is gedekt door bestaande verzekeringsstelsels.
 
-#### Artikel 10. Beveiliging
+##### Artikel 10. Beveiliging
 
 1. De classificatie van de informatie die betrekking heeft op de bouw en/of de exploitatie van de ETW, wordt door de ETW-vennootschap vastgesteld.
 
 2. Alle geclassificeerde informatie, met inbegrip van informatie die verband houdt met geclassificeerde proeven, die wordt uitgewisseld, gebruikt, geproduceerd of bewaard in verband met de werkzaamheden aan het ETW-project, wordt op even zorgvuldige wijze verzonden, opgeslagen, behandeld en beveiligd als voorgeschreven in “Nato Security Regulations C-M(55)15 (Final)” Beveiligingsvoorschriften van de NAVO C-M(55)15 (Definitief), d.d. 31 juli 1972, met inbegrip van alle aanvullingen en wijzigingen daarop.
 
-#### Artikel 11. Toegang tot de nationale instellingen voor wetenschappelijk onderzoek
+##### Artikel 11. Toegang tot de nationale instellingen voor wetenschappelijk onderzoek
 
 De Deelnemende Partijen verlenen op verzoek toegang tot de nationale instellingen voor wetenschappelijk onderzoek, voor het voeren van besprekingen in verband met de bouw of de exploitatie van de ETW, aan leden van de organen of van het personeel van de ETW, alsmede aan andere daarvoor in aanmerking komende personen. Bezoekers dienen zich te houden aan de beveiligingsvoorschriften en beveiligingsprocedures die bij de instellingen van kracht zijn.
 
-#### Artikel 12. Uitvindingen
+##### Artikel 12. Uitvindingen
 
 1. Technische kennis en uitvindingen, voortvloeiend uit werkzaamheden in de ETW-vennootschap, zijn eigendom van de ETWvennootschap.
 
@@ -185,19 +210,19 @@ De Deelnemende Partijen verlenen op verzoek toegang tot de nationale instellinge
 
 3. Alle rechten die voortvloeien uit de toepassing van dit artikel, zijn onderworpen aan de bepalingen van de Duitse wetgeving betreffende uitvindingen door werknemers, indien van toepassing.
 
-#### Artikel 13. Wijziging van het memorandum van overeenstemming
+##### Artikel 13. Wijziging van het memorandum van overeenstemming
 
 1. Aan het einde van de bouwfase plegen de Deelnemende Partijen overleg over de wenselijkheid dit MvO te herzien.
 
 2. Indien één van de Deelnemende Partijen het wenselijk acht enige bepaling van dit MvO te wijzigen, verzoekt zij de andere Deelnemende Partijen om overleg. Iedere wijziging van dit MvO waartoe gedurende bovengenoemd overleg unaniem is besloten, treedt in werking op de dag van de laatste kennisgeving van instemming overeenkomstig het bepaalde in artikel 15.
 
-#### Artikel 14. Geschillen
+##### Artikel 14. Geschillen
 
 1. Ieder geschil met betrekking tot de uitlegging of de toepassing van dit MvO wordt opgelost door middel van overleg tussen de Deelnemende Partijen en wordt niet aan een internationaal scheidsgerecht of aan een derde ter regeling voorgelegd.
 
 2. Indien het geschil niet door overleg wordt opgelost, wordt de kwestie verwezen naar een speciale commissie, waarin iedere Deelnemende Partij een gelijk aantal vertegenwoordigers benoemt. Deze commissie doet unaniem een voorstel voor de oplossing van het geschil. Indien de commissie daartoe niet in staat is, stelt zij een rapport op waarin de punten van overeenstemming en de punten van geschil zijn uiteengezet. Ten einde het geschil definitief te doen regelen door de regeringen, wordt dit rapport daarna voorgelegd aan de Minister van Defensie van de Franse Republiek, de Bondsminister voor Wetenschappelijk Onderzoek en Technologie van de Bondsrepubliek Duitsland, de Minister van Verkeer en Waterstaat van het Koninkrijk der Nederlanden en de Minister van Defensie van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland.
 
-#### Artikel 15. Datum van inwerkingtreding
+##### Artikel 15. Datum van inwerkingtreding
 
 1. Iedere Deelnemende Partij kan haar instemming betuigen met dit MvO, of met enige wijziging daarvan, hetzij door:
 
@@ -209,13 +234,13 @@ De Deelnemende Partijen verlenen op verzoek toegang tot de nationale instellinge
 
 3. Voor de Deelnemende Partij die, na de inwerkingtreding van het MvO, haar instemming betuigt overeenkomstig het bepaalde in het eerste lid onder b van dit artikel, wordt het MvO voorlopig toegepast. Het MvO treedt voor deze Deelnemende Partij in werking op de dag waarop zij de andere Deelnemende Partijen er van in kennis stelt dat haar binnenlandse constitutionele procedures terzake zijn vervuld.
 
-#### Artikel 16. Terugtrekking
+##### Artikel 16. Terugtrekking
 
 1. Terugtrekking - waarvan schriftelijk kennis dient te worden gegeven aan de overige Deelnemende Partijen - kan niet eerder geschieden dan aan het einde van de bouwfase, genoemd in artikel 3 lid 1 van dit MvO, tenzij de zich terugtrekkende Deelnemende Partij haar volledige aandeel in de totale kosten van de bouwfase volgens de laatste overeengekomen kostenraming op de datum van de kennisgeving van terugtrekking betaalt, aangepast tot aan de datum van de feitelijke terugtrekking, volgens de in Bijlage III bij dit MvO opgenomen formule. In elk geval dient een opzeggingstermijn van ten minste 2 jaar, te rekenen vanaf het einde van een kalenderjaar, in acht te worden genomen.
 
 2. Terugtrekking leidt niet tot enige vergoeding noch tot enige terugbetaling van nationale bijdragen, terwijl de voortzetting van het ETW-project daardoor niet wordt belet.
 
-#### Artikel 17. Authenticiteit
+##### Artikel 17. Authenticiteit
 
 Dit MvO wordt in de Nederlandse, de Engelse, de Duitse en de Franse taal in viervoud ondertekend, waarbij alle teksten gelijkelijk authentiek zijn.
 

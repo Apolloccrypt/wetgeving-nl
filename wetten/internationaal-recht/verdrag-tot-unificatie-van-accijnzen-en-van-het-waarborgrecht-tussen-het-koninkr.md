@@ -1,13 +1,37 @@
 ---
 title: "Verdrag tot unificatie van accijnzen en van het waarborgrecht tussen het Koninkrijk der Nederlanden, het Koninkrijk België en het Groot-Hertogdom Luxemburg"
 identifier: "BWBV0005676"
-categorie: "Internationaal recht"
-publicatiedatum: 1998-03-01
-laatste_update: 1998-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005676"
+country: "nl"
+rank: "verdrag"
+publication_date: "1998-03-01"
+last_updated: "1998-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005676"
+soort: "verdrag"
+stam_id: "10004810313"
+version_id: "10005113462"
+internal_id: "C10007825331"
+label_id: "10004794424"
+dtd_version: "2.0"
+original_entry_into_force: "1951-11-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005676/1998-03-01/0"
+intitule_bron: "Stb.1951-215"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1951-06-15"
+intitule_published: "1951-06-19"
+intitule_in_force: "1951-12-27"
+intitule_status: "goed"
+original_publication: "Stb.1951-215"
+original_signed_date: "1951-06-15"
+original_published_date: "1951-06-19"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1951-11-19"
+jci_1_3: "jci1.3:c:BWBV0005676&z=1998-03-01&g=1998-03-01"
+jci_1_0: "1.0:c:BWBV0005676&g=1998-03-01"
+citeertitel_status: "redactioneel"
+signed_date: "1951-06-15"
+entry_into_force: "1951-11-19"
 ---
-
 # Verdrag tot unificatie van accijnzen en van het waarborgrecht tussen het Koninkrijk der Nederlanden, het Koninkrijk België en het Groot-Hertogdom Luxemburg
 
 Hare Majesteit de Koningin der Nederlanden, enerzijds, en
@@ -34,13 +58,13 @@ Die, na elkaar hun in goede en behoorlijke vorm bevonden volmachten te hebben ov
 
 ### HOOFDSTUK I. Afgeschafte accijnzen
 
-#### Artikel 1
+##### Artikel 1
 
 Par. 1. In de Belgisch-Luxemburgse Economische Unie vervallen de accijnzen op koffie, op benzol, op azijn en azijnzuur, op margarine en andere bereide vetten, op lucifers en aansteektoestellen, op druiven- en moutsuiker.
 
 Par. 2. In België vervalt de accijns op natuurlijk en kunstmatig mineraalwater, gashoudend en gesteriliseerd water en op gashoudende of schuimende limonade.
 
-#### Artikel 2
+##### Artikel 2
 
 In Nederland vervallen de accijnzen op het geslacht, op zout, op houtgeest en op sigarettenpapier.
 
@@ -48,7 +72,7 @@ In Nederland vervallen de accijnzen op het geslacht, op zout, op houtgeest en op
 
 #### Alcohol
 
-#### Artikel 3
+##### Artikel 3
 
 Par. 1. In Nederland en in de Belgisch-Luxemburgse Economische Unie wordt op de aldaar vervaardigde ethylalcohol en ethylalcoholhoudende producten een accijns geheven van f 11,93 of fr. 157,— per hectoliter, voor elke graad van de alcoholmeter van Gay-Lussac, bij een temperatuur van 15 graden Celsius.
 
@@ -80,7 +104,7 @@ Par. 6. De totale hoeveelheid alcohol, vervaardigd door de in het Groothertogdom
 
 In dit totaal mogen de hoeveelheden alcohol, vervaardigd in stokerijen, welke in het Groothertogdom Luxemburg geoogste vruchten, bessen, wijn, most, wijnmoer of wortels verwerken, niet meer bedragen dan 300.000 liter.
 
-#### Artikel 4
+##### Artikel 4
 
 § 1. Bij invoer in Nederland en in de Belgisch-Luxemburgse Economische Unie wordt op ethylalcohol en op ethylalcoholhoudende produkten, met uitsluiting van bier en andere gegiste dranken dan die bedoeld in § 2, no's 1 tot en met 3, een accijns geheven welke als volgt wordt vastgesteld:
 
@@ -106,19 +130,19 @@ In dit totaal mogen de hoeveelheden alcohol, vervaardigd in stokerijen, welke in
 
 - 3. andere gegiste dranken dan bier en dan die, bedoeld onder 1, mits deze dranken volgens de alcoholmeter van Gay-Lussac, bij een temperatuur van 15. graden Celsius een sterkte hebben van meer dan 15 graden.
 
-#### Artikel 5
+##### Artikel 5
 
 De alcoholsterkte van de producten, welke zijn onderworpen aan de in de artikelen 3 en 4 bedoelde accijns, wordt uitgedrukt in graden en tienden van graden. De temperatuur wordt afgelezen in graden en halve graden.
 
 Voor de berekening van de accijns worden gedeelten van een deciliter voor een gehele deciliter gerekend.
 
-#### Artikel 6
+##### Artikel 6
 
 In België en in het Groothertogdom Luxemburg vervalt de bijzondere verbruikstaxe, welke wordt geheven van alcohol, gedistilleerde dranken, likeuren en andere alcoholische vloeistoffen.
 
 #### Bier
 
-#### Artikel 7
+##### Artikel 7
 
 Par. 1. In Nederland en in de Belgisch-Luxemburgse Economische Unie wordt op het aldaar vervaardigde bier de volgende accijns geheven per hectolitergraad wort:
 
@@ -131,33 +155,33 @@ Par. 2. Het aantal hectolitergraden wordt uitgedrukt in gehele getallen. Het is 
 
 Par. 3. Voor de toepassing van het in de eerste paragraaf vermelde tarief wordt in aanmerking genomen het aantal hectolitergraden wort van de brouwsels, vervaardigd in dezelfde brouwerij, waarvoor de accijns in een kalenderjaar verschuldigd is geworden. Indien eenzelfde accijnsplichtige de brouwerij slechts gedurende een gedeelte van een kalenderjaar in werking heeft gehad, wordt het in de eerste paragraaf vermeld aantal hectolitergraden voor dat jaar naar evenredigheid verminderd.
 
-#### Artikel 8
+##### Artikel 8
 
 Bij invoer in Nederland en in de Belgisch-Luxemburgse Economische Unie wordt op bier van alle soorten een accijns geheven van fl. 15,20 of fr. 200,— per hectoliter.
 
 #### Gegiste vruchtendranken
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 9bis
+##### Artikel 9bis
 
 Vervallen
 
 #### Mousserende gegiste dranken
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 10bis
+##### Artikel 10bis
 
 Vervallen
 
 #### Suiker
 
-#### Artikel 11
+##### Artikel 11
 
 In Nederland en in de Belgisch-Luxemburgse Economische Unie wordt op de aldaar uit beetwortels of uit suikerriet vervaardigde suiker een accijns geheven, welke als volgt wordt vastgesteld:
 
@@ -170,7 +194,7 @@ In Nederland en in de Belgisch-Luxemburgse Economische Unie wordt op de aldaar u
 | d. | Andere ................. | fl. 14,— of fr. 184,—. |
 | e. | Melasse, ongeschikt voor menselijke consumptie .................... | Vrij. |
 
-#### Artikel 12
+##### Artikel 12
 
 Bij invoer in Nederland en in de Belgisch-Luxemburgse Economische Unie wordt op suiker en op producten waaraan suiker is toegevoegd een accijns geheven, welke als volgt wordt vastgesteld:
 
@@ -185,11 +209,11 @@ Bij invoer in Nederland en in de Belgisch-Luxemburgse Economische Unie wordt op 
 
 - c. Melasse en alle andere producten, ongeschikt voor menselijke consumptie: ............... Vrij.
 
-#### Artikel 13
+##### Artikel 13
 
 Voor de berekening van de accijns, bedoeld in de artikelen 11 en 12, worden gedeelten van een kilogram voor een geheel kilogram gerekend.
 
-#### Artikel 14
+##### Artikel 14
 
 Par. 1. Aan fabrikanten van invertsuiker, die op het tijdstip van in werking treding van dit verdrag in het gebied van de Belgisch-Luxemburgse Economische Unie zijn gevestigd, kan voor de suiker, welke zij in hun fabriek verwerken tot invertsuiker, een vermindering worden verleend van de accijns, bedoeld in artikel 11 en artikel 12 letter **a**.
 
@@ -197,7 +221,7 @@ Par. 2. Het bedrag van de in paragraaf 1 bedoelde vermindering en de voorwaarden
 
 #### Tabak
 
-#### Artikel 15
+##### Artikel 15
 
 In Nederland en in de Belgisch-Luxemburgse Economische Unie wordt de accijns op aldaar vervaardigde en op ingevoerde tot verbruik bereide tabak geheven naar de volgende bedragen en maatstaven:
 
@@ -210,7 +234,7 @@ In Nederland en in de Belgisch-Luxemburgse Economische Unie wordt de accijns op 
 
 #### Minerale oliën
 
-#### Artikel 16
+##### Artikel 16
 
 Par. 1. Lichte minerale oliën, verkregen door de verwerking van aardoliën, bruinkool, turf, olielei, enz., welke in Nederland of in de Belgisch-Luxemburgse Economische Unie worden vervaardigd of ingevoerd, worden onderworpen aan een accijns van fl. 16,65 of fr. 219,— per hectoliter, bij een temperatuur van 15 graden Celsius.
 
@@ -218,7 +242,7 @@ Par. 2. In Nederland vervalt het bijzonder invoerrecht op benzine.
 
 Par. 3. In de Belgisch-Luxemburgse Economische Unie vervalt de accijns op minerale oliën, andere dan lichte oliën.
 
-#### Artikel 17
+##### Artikel 17
 
 Bij invoer in Nederland en in de Belgisch-Luxemburgse Economische Unie van producten, welke lichte minerale oliën van de in artikel 16 bedoelde soorten bevatten, wordt een accijns geheven, welke als volgt wordt vastgesteld:
 
@@ -228,11 +252,11 @@ Bij invoer in Nederland en in de Belgisch-Luxemburgse Economische Unie van produ
 
 ### HOOFDSTUK III. Algemene bepalingen inzake gemeenschappelijke accijnzen
 
-#### Artikel 18
+##### Artikel 18
 
 Op voorstel van de Administratieve Raad voor de Douaneregelingen, worden in Nederland en in de Belgisch-Luxemburgse Economische Unie de maatregelen getroffen ter verzekering van gelijkheid in de wettelijke en uitvoerende bepalingen betreffende de heffing van accijnzen waarvoor bij deze of enige andere overeenkomst een gemeenschappelijke regeling is voorzien.
 
-#### Artikel 19
+##### Artikel 19
 
 Par. 1. De goederen waarvoor een gemeenschappelijke accijnsregeling is getroffen, kunnen van Nederland naar de Belgisch-Luxemburgse Economische Unie en omgekeerd verzonden worden zonder heffing, onderscheidenlijk terugbetaling of afschrijving van de accijns, ter zake van de invoer of van de uitvoer.
 
@@ -240,7 +264,7 @@ Par. 2. De accijns door een der Verdragsluitende Partijen geheven van goederen w
 
 ### HOOFDSTUK IV. Waarborgrecht voor platina, gouden en zilveren werken
 
-#### Artikel 20
+##### Artikel 20
 
 Par. 1. In Nederland, in België en in Luxemburg worden terzake van de waarborg van rijkswege van platina, gouden en zilveren werken de navolgende bedragen geheven:
 
@@ -269,7 +293,7 @@ Par. 6. De Regeringen treffen in onderling overleg de nodige maatregelen ter uit
 
 ### HOOFDSTUK V. Slotbepalingen
 
-#### Artikel 21
+##### Artikel 21
 
 Door dit verdrag vervallen:
 
@@ -277,21 +301,21 @@ Door dit verdrag vervallen:
 
 - b. het verdrag tot unificatie van accijnzen, gesloten te 's-Gravenhage op 16 December 1948 en het protocol van 19 Mei 1949 inzake genoemd verdrag.
 
-#### Artikel 22
+##### Artikel 22
 
 De in dit verdrag omschreven maatregelen zullen in werking worden gesteld op tijdstippen, welke in onderling overleg, zullen worden vastgesteld. Wat betreft de accijns op dranken verkregen door gisting van sap of most van vruchten en die op mousserende gegiste dranken, wordt nochtans het bepaalde in artikel 19 geacht met ingang van 1 Januari 1948 in werking te zijn getreden.
 
-#### Artikel 23
+##### Artikel 23
 
 Vervallen
 
-#### Artikel 24
+##### Artikel 24
 
 Dit verdrag zal worden bekrachtigd en de akten van bekrachtiging zullen zo spoedig mogelijk te Brussel worden uitgewisseld.
 
 Op het ogenblik van ondertekening van het heden gesloten verdrag inzake de unificatie van accijnzen en van het waarborgrecht, zijn de ondertekenende Gevolmachtigden bovendien het navolgende overeengekomen, hetwelk een wezenlijk bestanddeel van het verdrag zelf uitmaakt.
 
-#### Artikel Enig
+##### Artikel Enig
 
 In verband met de verlaging van de in artikel 10 van het bovengenoemde verdrag vermelde belasting, zullen de mousserende wijnen, bedoeld in post 154 van het Tarief van invoerrechten behorende bij de Nederlandsch-Belgisch-Luxemburgse douane-overeenkomst, bij de inwerkingstelling van het geunificeerde stelsel van de omzetbelasting (overdrachtstaxe en aanverwante belastingen), worden opgenomen in de lijst van goederen, welke bij verkoop door de fabrikant of bij invoer aan het hoogste tarief worden onderworpen.
 

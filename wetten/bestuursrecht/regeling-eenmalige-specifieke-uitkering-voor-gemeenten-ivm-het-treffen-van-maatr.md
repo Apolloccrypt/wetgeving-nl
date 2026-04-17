@@ -1,18 +1,44 @@
 ---
-title: "Regeling eenmalige specifieke uitkering voor gemeenten i.v.m. het treffen van maatregelen ter vermindering van overlast en criminaliteit veroorzaakt door asielzoekers in 2023 en 2024"
+title: "Regeling van de Staatssecretaris van Justitie en Veiligheid van 8 september 2023, nr. 4879916, houdende een eenmalige specifieke uitkering voor gemeenten in verband met het treffen van maatregelen ter vermindering van overlast en criminaliteit veroorzaakt door asielzoekers in 2023 en 2024"
 identifier: "BWBR0048652"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-09-29
-laatste_update: 2023-09-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048652"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-09-29"
+last_updated: "2023-09-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048652"
+soort: "ministeriele-regeling"
+stam_id: "16862873"
+version_id: "29635892"
+internal_id: "C42403261"
+label_id: "16775034"
+dtd_version: "2.0"
+original_entry_into_force: "2023-09-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048652/2023-09-29/0"
+intitule_bron: "Stcrt.2023-26417"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-09-08"
+intitule_published: "2023-09-28"
+intitule_in_force: "2023-09-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-26417"
+original_signed_date: "2023-09-08"
+original_published_date: "2023-09-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-26417"
+entry_into_force_date: "2023-09-29"
+jci_1_3: "jci1.3:c:BWBR0048652&z=2023-09-29&g=2023-09-29"
+jci_1_0: "1.0:c:BWBR0048652&g=2023-09-29"
+citeertitel_status: "redactioneel"
+short_title: "Regeling eenmalige specifieke uitkering voor gemeenten i.v.m. het treffen van maatregelen ter vermindering van overlast en criminaliteit veroorzaakt door asielzoekers in 2023 en 2024"
+signed_date: "2023-09-08"
+entry_into_force: "2023-09-29"
 ---
-
 # Regeling van de Staatssecretaris van Justitie en Veiligheid van 8 september 2023, nr. 4879916, houdende een eenmalige specifieke uitkering voor gemeenten in verband met het treffen van maatregelen ter vermindering van overlast en criminaliteit veroorzaakt door asielzoekers in 2023 en 2024
 
 Gelet op [artikel 17, vijfde lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17);
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -20,11 +46,11 @@ In deze regeling wordt verstaan onder:
 
 - –. **staatssecretaris:** de Staatssecretaris van Justitie en Veiligheid
 
-#### Artikel 2. Specifieke uitkering
+##### Artikel 2. Specifieke uitkering
 
 De staatssecretaris kan in 2023 op aanvraag van een of meer gemeenten eenmalig een specifieke uitkering verstrekken ten behoeve van het treffen van maatregelen ter vermindering van overlast en criminaliteit veroorzaakt door asielzoekers.
 
-#### Artikel 3. Aanvraag
+##### Artikel 3. Aanvraag
 
 1. Een aanvraag bevat in ieder geval:
 
@@ -40,7 +66,7 @@ De staatssecretaris kan in 2023 op aanvraag van een of meer gemeenten eenmalig e
 
 3. De aanvraag wordt voor 1 november 2023 ingediend, met gebruikmaking van een door de staatssecretaris ter beschikking gesteld digitaal aanvraagformulier.
 
-#### Artikel 4. Hoogte specifieke uitkering en wijze van verstrekking
+##### Artikel 4. Hoogte specifieke uitkering en wijze van verstrekking
 
 1. Voor het verlenen van uitkeringen op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048652&artikel=2&z=2023-09-29&g=2023-09-29) is ten hoogste € 2.000.000 beschikbaar. [Artikel 4:25, tweede en derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:25) zijn van overeenkomstige toepassing.
 
@@ -54,11 +80,11 @@ De staatssecretaris kan in 2023 op aanvraag van een of meer gemeenten eenmalig e
 
 6. De aanvragen die voldoen aan de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048652&artikel=3&z=2023-09-29&g=2023-09-29) genoemde vereisten worden behandeld op volgorde van binnenkomst, waarbij alleen volledige aanvragen in behandeling worden genomen.
 
-#### Artikel 5. Meldingsplicht
+##### Artikel 5. Meldingsplicht
 
 De gemeente die een specifieke uitkering heeft ontvangen is verplicht om onverwijld een schriftelijke melding te doen zodra aannemelijk is dat de activiteiten waarvoor de specifieke uitkering is verleend niet, niet tijdig of niet geheel zullen worden verricht of dat niet, niet tijdig of niet geheel aan de aan de specifieke voorwaarden verbonden verplichtingen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048652&artikel=2&z=2023-09-29&g=2023-09-29) zal worden voldaan.
 
-#### Artikel 6. Vaststelling en verantwoording
+##### Artikel 6. Vaststelling en verantwoording
 
 1. Nadat de staatssecretaris de verantwoordingsinformatie, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), van de Minister van Binnenlandse Zaken en Koninkrijksrelaties heeft ontvangen, stelt de staatssecretaris de uitkering binnen 22 weken overeenkomstig de verlening vast.
 
@@ -74,11 +100,11 @@ De gemeente die een specifieke uitkering heeft ontvangen is verplicht om onverwi
 
 3. De gemeenten nemen de artikelen 107 en 108 van het Verdrag betreffende de Werking van de Europese Unie in acht bij de besteding van de specifieke uitkering.
 
-#### Artikel 7. Terugvordering
+##### Artikel 7. Terugvordering
 
 De staatssecretaris kan onverschuldigd uitgekeerde bedragen als bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048652&artikel=6&z=2023-09-29&g=2023-09-29), terugvorderen.
 
-#### Artikel 8. Inwerkingtreding
+##### Artikel 8. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 juni 2023.
 

@@ -1,13 +1,35 @@
 ---
 title: "Beleidsregels machtigingsvereiste"
 identifier: "BWBR0038875"
-categorie: "Overig"
-publicatiedatum: 2016-12-17
-laatste_update: 2016-12-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038875"
+country: "nl"
+rank: "zbo"
+publication_date: "2016-12-17"
+last_updated: "2016-12-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038875"
+soort: "zbo"
+stam_id: "13822783"
+version_id: "23720502"
+internal_id: "C34139721"
+label_id: "13788364"
+dtd_version: "2.0"
+original_entry_into_force: "2016-12-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038875/2016-12-17/0"
+intitule_bron: "Stcrt.2016-68896"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2016-12-16"
+intitule_in_force: "2016-12-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-68896"
+original_published_date: "2016-12-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-68896"
+entry_into_force_date: "2016-12-17"
+jci_1_3: "jci1.3:c:BWBR0038875&z=2016-12-17&g=2016-12-17"
+jci_1_0: "1.0:c:BWBR0038875&g=2016-12-17"
+citeertitel_status: "officieel"
+entry_into_force: "2016-12-17"
 ---
-
 # Beleidsregels machtigingsvereiste
 
 ### 1. Inleiding

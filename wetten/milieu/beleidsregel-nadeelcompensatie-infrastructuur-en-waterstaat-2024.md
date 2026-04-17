@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel nadeelcompensatie Infrastructuur en Waterstaat 2024"
+title: "Besluit van 7 december 2023, IENW/BSK-2023/355923 tot vaststelling van de Beleidsregel nadeelcompensatie Infrastructuur en Waterstaat 2024 (Beleidsregel nadeelcompensatie Infrastructuur en Waterstaat 2024)"
 identifier: "BWBR0049076"
-categorie: "Milieu"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049076"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049076"
+soort: "ministeriele-regeling"
+stam_id: "16962113"
+version_id: "29816572"
+internal_id: "C42732741"
+label_id: "16872674"
+dtd_version: "2.0"
+original_entry_into_force: "2024-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049076/2024-01-01/0"
+intitule_bron: "Stcrt.2023-33094"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-12-07"
+intitule_published: "2023-12-08"
+intitule_in_force: "2023-12-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-33094"
+original_signed_date: "2023-12-07"
+original_published_date: "2023-12-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-33094"
+entry_into_force_date: "2024-01-01"
+jci_1_3: "jci1.3:c:BWBR0049076&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0049076&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel nadeelcompensatie Infrastructuur en Waterstaat 2024"
+signed_date: "2023-12-07"
+entry_into_force: "2024-01-01"
 ---
-
 # Besluit van 7 december 2023, IENW/BSK-2023/355923 tot vaststelling van de Beleidsregel nadeelcompensatie Infrastructuur en Waterstaat 2024 (Beleidsregel nadeelcompensatie Infrastructuur en Waterstaat 2024)
 
 Gelet op de [artikelen 4:126](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:126) en [4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen en toepassingsbereik
+##### Artikel 1. Begripsbepalingen en toepassingsbereik
 
 1. In deze beleidsregel wordt verstaan onder:
 
@@ -28,7 +54,7 @@ Besluit:
 
 ### Hoofdstuk 2. Procedurebepalingen
 
-#### Artikel 2. Aanvraag
+##### Artikel 2. Aanvraag
 
 1. De aanvrager maakt gebruik van een door de Minister vastgesteld formulier.
 
@@ -42,11 +68,11 @@ Besluit:
 
 3. De Minister bevestigt de ontvangst van de aanvraag en stelt de aanvrager in kennis van de te volgen procedure.
 
-#### Artikel 3. Heffen recht
+##### Artikel 3. Heffen recht
 
 (gereserveerd)
 
-#### Artikel 4. Normaal maatschappelijk risico
+##### Artikel 4. Normaal maatschappelijk risico
 
 1. Onder het normaal maatschappelijk risico, bedoeld in [artikel 4:126, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:126) valt in ieder geval:
 
@@ -58,7 +84,7 @@ Besluit:
 
 2. De vaststelling van het normaal maatschappelijk risico geschiedt voor de daarbij aangewezen maatregelen aan de hand van hetgeen daarover in de bijlage bij deze beleidsregel is bepaald.
 
-#### Artikel 5. De adviescommissie
+##### Artikel 5. De adviescommissie
 
 1. De Minister kan een adviescommissie instellen.
 
@@ -88,7 +114,7 @@ Besluit:
 
 - f. wanneer toepassing wordt gegeven aan [artikel 4:131, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:131).
 
-#### Artikel 6. Het door de adviescommissie te verrichten onderzoek
+##### Artikel 6. Het door de adviescommissie te verrichten onderzoek
 
 1. De commissie dient de Minister van advies over de op de aanvraag te nemen beslissing.
 
@@ -106,7 +132,7 @@ Besluit:
 
 4. Indien een aanvraag om toekenning van een voorschot is ingediend door aanvrager, dient de commissie de Minister tevens van advies over de verlening van dit voorschot, vooruitlopend op de toekenning van nadeelcompensatie.
 
-#### Artikel 7. Bevoegdheden en verplichtingen informatie adviescommissie
+##### Artikel 7. Bevoegdheden en verplichtingen informatie adviescommissie
 
 1. De Minister stelt de commissie, al dan niet op verzoek, de gegevens ter beschikking die nodig zijn voor een goede vervulling van haar taak.
 
@@ -116,7 +142,7 @@ Besluit:
 
 4. De commissie kan een plaatsopneming houden, indien zij dit nodig acht.
 
-#### Artikel 8. Procedure adviescommissie
+##### Artikel 8. Procedure adviescommissie
 
 1. De commissie stelt de aanvrager in kennis van de te volgen procedure.
 
@@ -134,21 +160,21 @@ Besluit:
 
 ### Hoofdstuk 3. Slotbepalingen
 
-#### Artikel 9. Voorschot
+##### Artikel 9. Voorschot
 
 1. De Minister kan de aanvrager die naar redelijke verwachting in aanmerking komt voor een vergoeding in geld als bedoeld in [artikel 4:126 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:126) en wiens belang naar het oordeel van de Minister vordert dat aan hem een voorschot op deze vergoeding wordt toegekend, op aanvraag een voorschot toekennen.
 
 2. De Minister betrekt bij het besluit op de aanvraag om voorschot het advies als bedoeld in [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049076&hoofdstuk=2&artikel=6&z=2024-01-01&g=2024-01-01).
 
-#### Artikel 10. Intrekking
+##### Artikel 10. Intrekking
 
 De [Beleidsregel nadeelcompensatie Infrastructuur en Waterstaat 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0010692) wordt ingetrokken.
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 januari 2024.
 
-#### Artikel 12. Citeertitel
+##### Artikel 12. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel nadeelcompensatie Infrastructuur en Waterstaat 2024.
 
@@ -156,7 +182,7 @@ Deze beleidsregel wordt aangehaald als: Beleidsregel nadeelcompensatie Infrastru
 
 ### Normaal maatschappelijk risico voor ondernemingen bij tijdelijke infrastructurele maatregelen
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 In deze bijlage wordt verstaan onder:
 
@@ -170,7 +196,7 @@ In deze bijlage wordt verstaan onder:
 
 - **normomzet:** omzet op jaarbasis die naar redelijke verwachting behaald zou zijn, als de schadeveroorzakende gebeurtenis niet had plaatsgevonden.
 
-#### Artikel 2. Normaal maatschappelijk risico voor ondernemingen
+##### Artikel 2. Normaal maatschappelijk risico voor ondernemingen
 
 Bij schade door infrastructurele maatregelen valt in ieder geval onder het normaal maatschappelijk risico, bedoeld in [artikel 4:126, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:126):
 
@@ -178,7 +204,7 @@ Bij schade door infrastructurele maatregelen valt in ieder geval onder het norma
 
 - b. schade ten gevolge van een kostenstijging van maximaal 2% van de normkosten van een onderneming.
 
-#### Artikel 3. Normaal maatschappelijk risico en tijdelijke omzetdaling door normale infrastructurele maatregelen
+##### Artikel 3. Normaal maatschappelijk risico en tijdelijke omzetdaling door normale infrastructurele maatregelen
 
 - 1. Schade ten gevolge van een normale infrastructurele maatregel valt in ieder geval binnen het normaal maatschappelijk risico, bedoeld in [artikel 4:126, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:126), indien de schade het gevolg is van een tijdelijke omzetdaling die niet uitgaat boven de omzetdrempel, bedoeld in het tweede lid.
 
@@ -198,7 +224,7 @@ Bij schade door infrastructurele maatregelen valt in ieder geval onder het norma
 | 36-65% | 11% |
 | 65-100% | 8% |
 
-#### Artikel 4. Normaal maatschappelijk risico en tijdelijke kostenverhoging door normale infrastructurele maatregelen
+##### Artikel 4. Normaal maatschappelijk risico en tijdelijke kostenverhoging door normale infrastructurele maatregelen
 
 - 1. Schade ten gevolge van een normale infrastructurele maatregel valt in ieder geval binnen het normaal maatschappelijk risico, bedoeld in [artikel 4:126, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:126), indien de schade het gevolg is van een tijdelijke kostenverhoging die niet uitgaat boven de kostendrempel, bedoeld in het tweede lid.
 
@@ -220,11 +246,11 @@ Bij schade door infrastructurele maatregelen valt in ieder geval onder het norma
 
 - 4. In afwijking van artikel 1 wordt voor de toepassing van dit artikel onder normbrutowinstmarge verstaan: de omzet minus de som van de inkoopwaarde van de afzet plus de overige variabele kosten op jaarbasis, uitgedrukt in een percentage van de omzet, dat naar redelijke verwachting behaald zou zijn, als de schadeveroorzakende gebeurtenis niet had plaatsgevonden.
 
-#### Artikel 5. Normaal maatschappelijk risico en tijdelijke omzetdaling of tijdelijke kostenverhoging door niet-normale infrastructurele maatregelen
+##### Artikel 5. Normaal maatschappelijk risico en tijdelijke omzetdaling of tijdelijke kostenverhoging door niet-normale infrastructurele maatregelen
 
 Als de schade bedoeld in [artikel 4:126 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:126) ten gevolge van een niet-normale infrastructurele maatregel het bedrag, bedoeld in artikel 2, onderdelen a en b, overstijgt, kan door de Minister ter bepaling van het normaal maatschappelijk risico een kortingspercentage worden gehanteerd ten aanzien van het deel van de schade dat dat bedrag overstijgt.
 
-#### Artikel 6. Langdurige tijdelijke schade
+##### Artikel 6. Langdurige tijdelijke schade
 
 - 1. Als sprake is van langdurige schade als gevolg van een tijdelijke infrastructurele maatregel worden met ingang van het derde jaar waarin de schade wordt geleden door de Minister een lager drempelpercentage en een lager percentage ‘n’ dan genoemd in de artikelen 3 en 4 gehanteerd.
 

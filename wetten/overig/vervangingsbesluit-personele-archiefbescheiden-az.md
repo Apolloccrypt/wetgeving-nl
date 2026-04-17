@@ -1,36 +1,62 @@
 ---
-title: "Vervangingsbesluit personele archiefbescheiden AZ"
+title: "Besluit van de Minister-President, Minister van Algemene Zaken van 01-01-2018, nr. 3976193 met betrekking tot digitale vervanging van personele archiefbescheiden (Vervangingsbesluit personele archiefbescheiden AZ)"
 identifier: "BWBR0040540"
-categorie: "Overig"
-publicatiedatum: 2018-01-24
-laatste_update: 2018-01-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040540"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2018-01-24"
+last_updated: "2018-01-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040540"
+soort: "ministeriele-regeling"
+stam_id: "14514673"
+version_id: "24842882"
+internal_id: "C35540511"
+label_id: "14472944"
+dtd_version: "2.0"
+original_entry_into_force: "2018-01-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040540/2018-01-24/0"
+intitule_bron: "Stcrt.2018-3039"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-01-01"
+intitule_published: "2018-01-23"
+intitule_in_force: "2018-01-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-3039"
+original_signed_date: "2018-01-01"
+original_published_date: "2018-01-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-3039"
+entry_into_force_date: "2018-01-24"
+jci_1_3: "jci1.3:c:BWBR0040540&z=2018-01-24&g=2018-01-24"
+jci_1_0: "1.0:c:BWBR0040540&g=2018-01-24"
+citeertitel_status: "officieel"
+short_title: "Vervangingsbesluit personele archiefbescheiden AZ"
+signed_date: "2018-01-01"
+entry_into_force: "2018-01-24"
 ---
-
 # Besluit van de Minister-President, Minister van Algemene Zaken van 01-01-2018, nr. 3976193 met betrekking tot digitale vervanging van personele archiefbescheiden (Vervangingsbesluit personele archiefbescheiden AZ)
 
 Gelet op [artikel 7 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=7), [artikel 6, eerste lid, van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=6), [artikel 26b van de Archiefregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&artikel=26b) en [artikel 2, derde lid, onder a en onder c van het Besluit van de Minister van Algemene Zaken van 17 september 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0026523&artikel=2), nr. 3457336 tot het verlenen van machtiging aan P-Direkt (Stcrt. 2009, 15587);
 
 Besluit:
 
-#### Artikel 1. Archiefbescheiden
+##### Artikel 1. Archiefbescheiden
 
 Dit besluit heeft betrekking op routinematige vervanging door digitale reproducties van de archiefbescheiden die op grond van het Basisselectiedocument P-dossier ‘**Mens en Werk’** 1945 voor bewaring of vernietiging in aanmerking komen, waarna deze archiefbescheiden worden vernietigd.
 
-#### Artikel 2. Digitale vervanging
+##### Artikel 2. Digitale vervanging
 
 De digitale vervanging geschiedt ten minste overeenkomstig de specificaties en instellingen zoals deze zijn opgenomen in de bijlage bij dit besluit en op de wijze zoals beschreven in het Handboek Digitale Vervanging Personeelsdossiers van P-Direkt van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
-#### Artikel 3. Uitvoering
+##### Artikel 3. Uitvoering
 
 De digitale reproductie wordt uitgevoerd door P-Direkt.
 
-#### Artikel 4. Inwerkingtreding
+##### Artikel 4. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 5. Citeertitel
+##### Artikel 5. Citeertitel
 
 Dit besluit wordt aangehaald als: Vervangingsbesluit personele archiefbescheiden AZ.
 

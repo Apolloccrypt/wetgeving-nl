@@ -1,20 +1,46 @@
 ---
-title: "Regeling specifieke uitkering gemeente in verband met de versterking van de lokale integrale aanpak van radicalisering, extremisme en terrorisme 2023–2026"
+title: "Regeling van de Minister van Justitie en Veiligheid van 11 juli 2022, nr. 4098572, houdende een specifieke uitkering voor gemeenten in verband met de versterking van de lokale integrale aanpak van radicalisering, extremisme en terrorisme in 2023 – 2026"
 identifier: "BWBR0046954"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-07-24
-laatste_update: 2022-07-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046954"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-07-24"
+last_updated: "2022-07-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046954"
+soort: "ministeriele-regeling"
+stam_id: "16429593"
+version_id: "28779682"
+internal_id: "C40745951"
+label_id: "16353684"
+dtd_version: "2.0"
+original_entry_into_force: "2022-07-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046954/2022-07-24/0"
+intitule_bron: "Stcrt.2022-19011"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-07-11"
+intitule_published: "2022-07-22"
+intitule_in_force: "2022-07-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-19011"
+original_signed_date: "2022-07-11"
+original_published_date: "2022-07-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-19011"
+entry_into_force_date: "2022-07-24"
+jci_1_3: "jci1.3:c:BWBR0046954&z=2022-07-24&g=2022-07-24"
+jci_1_0: "1.0:c:BWBR0046954&g=2022-07-24"
+citeertitel_status: "officieel"
+short_title: "Regeling specifieke uitkering gemeente in verband met de versterking van de lokale integrale aanpak van radicalisering, extremisme en terrorisme 2023–2026"
+signed_date: "2022-07-11"
+entry_into_force: "2022-07-24"
 ---
-
 # Regeling van de Minister van Justitie en Veiligheid van 11 juli 2022, nr. 4098572, houdende een specifieke uitkering voor gemeenten in verband met de versterking van de lokale integrale aanpak van radicalisering, extremisme en terrorisme in 2023 – 2026
 
 Gelet op [artikel 17, vijfde lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -34,11 +60,11 @@ In deze regeling wordt verstaan onder:
 
 - –. **terrorisme:** het uit ideologische motieven (voorbereiden van het) plegen van op mensenlevens gericht geweld, of het veroorzaken van maatschappij-ontwrichtende schade, met als doel (een deel van) de bevolking ernstige vrees aan te jagen, maatschappelijke veranderingen te bewerkstelligen, en/of politieke besluitvorming te beïnvloeden.
 
-#### Artikel 2. Specifieke uitkering
+##### Artikel 2. Specifieke uitkering
 
 De minister kan in 2023 tot en met 2026 op aanvraag aan een gemeente een specifieke uitkering verstrekken met het oog op het ondersteunen van de lokale integrale aanpak van radicalisering, extremisme en terrorisme door onder andere het bestrijden en verzwakken van extremistische bewegingen in Nederland, het voorkomen van nieuwe aanwas en het tegengaan van radicalisering.
 
-#### Artikel 3. Categorieën
+##### Artikel 3. Categorieën
 
 1. De minister verstrekt een specifieke uitkering aan een gemeente voor het opzetten en onderhouden van de Basis op orde taken, voor preventieprojecten en voor eenjarige projecten.
 
@@ -62,7 +88,7 @@ De minister kan in 2023 tot en met 2026 op aanvraag aan een gemeente een specifi
 
 - b. een gericht preventieproject: zijnde een project dat is gericht op radicaliserende personen en hun directe omgeving.
 
-#### Artikel 4. Aanvraag
+##### Artikel 4. Aanvraag
 
 1. Zowel de gemeente als de hoofdaanvrager kunnen een aanvraag tot verlening van de specifieke uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046954&artikel=2&z=2022-07-24&g=2022-07-24), indienen bij de minister.
 
@@ -84,7 +110,7 @@ De minister kan in 2023 tot en met 2026 op aanvraag aan een gemeente een specifi
 
 6. De aanvraag wordt ingediend met gebruikmaking van een door de minister ter beschikking gesteld digitaal formulier.
 
-#### Artikel 5. Termijnen
+##### Artikel 5. Termijnen
 
 1. De aanvraag tot verlening van een specifieke uitkering voor de Basis op orde taken en voor de preventieprojecten wordt gedaan voor 30 september 2022 respectievelijk 30 september 2024.
 
@@ -92,7 +118,7 @@ De minister kan in 2023 tot en met 2026 op aanvraag aan een gemeente een specifi
 
 3. In hetzelfde jaar als waarin de aanvraag wordt gedaan, wordt hierop beslist voor 30 november.
 
-#### Artikel 6. Hoogte specifieke uitkering
+##### Artikel 6. Hoogte specifieke uitkering
 
 1. Het totale bedrag van de te verlenen uitkeringen op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046954&artikel=2&z=2022-07-24&g=2022-07-24) bedraagt jaarlijks maximaal € 5.925.000.
 
@@ -106,11 +132,11 @@ De minister kan in 2023 tot en met 2026 op aanvraag aan een gemeente een specifi
 
 4. Behoudens bijzondere omstandigheden kan voor het evalueren van de projecten waarvoor een uitkering is aangevraagd een uitkering worden toegekend tot ten hoogste tien procent van de uitkering die voor het desbetreffende project is aangevraagd.
 
-#### Artikel 7. Voorschot
+##### Artikel 7. Voorschot
 
 De minister verleent de gemeente of hoofdaanvrager een voorschot van 100% van de specifieke uitkering.
 
-#### Artikel 8. Wijziging
+##### Artikel 8. Wijziging
 
 1. Indien de besteding van de uitkering binnen de Basis op orde taken of binnen en tussen één of meer preventieprojecten wordt gewijzigd, wordt de minister daarvan op de hoogte gesteld door het zenden van een email aan versterkingsgelden@nctv.minjenv.nl.
 
@@ -126,13 +152,13 @@ De minister verleent de gemeente of hoofdaanvrager een voorschot van 100% van de
 
 - c. de doelstelling die met de gewijzigde inzet wordt beoogd.
 
-#### Artikel 9. Effectiviteit
+##### Artikel 9. Effectiviteit
 
 1. De gemeente die op grond van deze regeling een specifieke uitkering ontvangt, werkt mee aan een door de minister ingestelde evaluatie van de effectiviteit van de besteding van de gelden in de gemeente of de regio waartoe de gemeente behoort, waaronder het deelnemen aan een bijeenkomst waarin kennis en kunde over deze bestedingen en de effecten daarvan worden gedeeld.
 
 2. Het eerste lid is van overeenkomstige toepassing op de gemeente die door middel van een hoofdaanvrager een specifieke uitkering ontvangt.
 
-#### Artikel 10. Coördinatie
+##### Artikel 10. Coördinatie
 
 De hoofdaanvrager coördineert:
 
@@ -144,13 +170,13 @@ De hoofdaanvrager coördineert:
 
 - d. de evaluatie van de effectiviteit van de besteding van de gelden, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0046954&artikel=9&z=2022-07-24&g=2022-07-24).
 
-#### Artikel 11. Verantwoording
+##### Artikel 11. Verantwoording
 
 1. De gemeenten en de hoofdaanvrager leggen verantwoording af over de besteding van de specifieke uitkering op de wijze, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
 2. Indien uit de verantwoordingsinformatie blijkt dat de specifieke uitkering niet volledig is besteed aan de taken en projecten waarvoor deze is verstrekt, of onrechtmatig is besteed, kan de uitkering ter hoogte van het niet of onrechtmatig bestede deel door de minister worden teruggevorderd. De minister doet binnen een jaar na ontvangst van de verantwoordingsinformatie mededeling van de terugvordering aan de ontvanger van de specifieke uitkering.
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 juli 2022.
 

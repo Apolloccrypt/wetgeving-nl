@@ -1,13 +1,38 @@
 ---
 title: "Verordening op de klachtbehandeling"
 identifier: "BWBR0034671"
-categorie: "Overig"
-publicatiedatum: 2022-01-01
-laatste_update: 2022-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034671"
+country: "nl"
+rank: "zbo"
+publication_date: "2022-01-01"
+last_updated: "2022-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034671"
+soort: "zbo"
+stam_id: "12555043"
+version_id: "21162622"
+internal_id: "C30477371"
+label_id: "12525744"
+dtd_version: "2.0"
+original_entry_into_force: "2014-01-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034671/2022-01-01/0"
+intitule_bron: "Stcrt.2014-949"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-06-24"
+intitule_published: "2014-01-16"
+intitule_in_force: "2014-01-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-949"
+original_signed_date: "2013-06-24"
+original_published_date: "2014-01-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-949"
+entry_into_force_date: "2014-01-04"
+jci_1_3: "jci1.3:c:BWBR0034671&z=2022-01-01&g=2022-01-01"
+jci_1_0: "1.0:c:BWBR0034671&g=2022-01-01"
+citeertitel_status: "officieel"
+signed_date: "2013-06-24"
+entry_into_force: "2014-01-04"
 ---
-
 # Verordening op de klachtbehandeling
 
 Gelet op de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=5) en [19, tweede lid, aanhef en onder c, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=19);
@@ -26,41 +51,41 @@ Treedt in werking op het tijdstip waarop de Verordening gedrags- en beroepscode 
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 17
+##### Artikel 17
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel 18
+##### Artikel 18
 
 In artikel 1 komt de definitie van accountantskantoor te luiden:
 
 - –. accountantskantoor: het accountantskantoor, bedoeld in [artikel 1, van de Verordening op de ledengroepen](https://wetten.overheid.nl/jci1.3:c:BWBR0033813&artikel=1);
 
-#### Artikel 19
+##### Artikel 19
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel 20
+##### Artikel 20
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel 21
+##### Artikel 21
 
 1. Deze verordening treedt in werking op de dag na publicatie in de Staatscourant en werkt terug tot 1 januari 2014, met uitzondering van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0034671&hoofdstuk=5&artikel=18&z=2022-01-01&g=2022-01-01), dat in werking treedt op het tijdstip waarop de [Verordening gedrags- en beroepsregels accountants](https://wetten.overheid.nl/jci1.3:c:BWBR0034635) in werking treedt.
 
 2. Deze verordening wordt aangehaald als: Verordening op de klachtbehandeling.
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van deze verordening en de daarop rustende bepalingen wordt verstaan onder:
 
 - –. **accountantskantoor:** accountantskantoor als bedoeld in [artikel 1, van de Verordening op de ledengroepen](https://wetten.overheid.nl/jci1.3:c:BWBR0033813&artikel=1).
 
-#### Artikel 3
+##### Artikel 3
 
 Er is een instantie voor de behandeling van klachten tegen accountants: de Klachtencommissie.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De Klachtencommissie bestaat uit de volgende leden:
 
@@ -82,7 +107,7 @@ Er is een instantie voor de behandeling van klachten tegen accountants: de Klach
 
 7. Op verzoek van de accountant op wiens gedraging de klacht betrekking heeft of de klager, kunnen leden die een zaak behandelen, worden gewraakt op grond van feiten en omstandigheden waardoor de onpartijdigheid van de Klachtencommissie schade zou kunnen lijden.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het lidmaatschap van de Klachtencommissie eindigt:
 
@@ -102,7 +127,7 @@ Er is een instantie voor de behandeling van klachten tegen accountants: de Klach
 
 ### Hoofdstuk 4. Klachtbehandeling
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een ieder die wil klagen over de wijze waarop een accountant zich ten aanzien van de uitoefening van zijn beroep jegens hem heeft gedragen, kan hierover schriftelijk een klacht indienen bij de Klachtencommissie.
 
@@ -110,7 +135,7 @@ Er is een instantie voor de behandeling van klachten tegen accountants: de Klach
 
 3. Een klacht kan niet over de hoogte van een declaratie gaan.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De klacht wordt ondertekend en bevat ten minste:
 
@@ -128,7 +153,7 @@ Er is een instantie voor de behandeling van klachten tegen accountants: de Klach
 
 4. De secretaris van de Klachtencommissie is op verzoek behulpzaam bij het adresseren van de klacht.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De Klachtencommissie is niet verplicht de klacht in behandeling te nemen:
 
@@ -148,11 +173,11 @@ Er is een instantie voor de behandeling van klachten tegen accountants: de Klach
 
 4. Van het niet in behandeling nemen van de klacht stelt de Klachtencommissie klager zo spoedig mogelijk doch uiterlijk binnen vier weken na ontvangst van het klaagschrift schriftelijk in kennis.
 
-#### Artikel 9
+##### Artikel 9
 
 De Klachtencommissie draagt zorg voor een zorgvuldige afhandeling van de klacht.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De klager en de accountant op wiens gedraging de klacht betrekking heeft kunnen zich door een gemachtigde laten bijstaan of laten vertegenwoordigen.
 
@@ -162,7 +187,7 @@ De Klachtencommissie draagt zorg voor een zorgvuldige afhandeling van de klacht.
 
 4. Het derde lid is niet van toepassing ten aanzien van advocaten.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De Klachtencommissie bevestigt de ontvangst van het klaagschrift schriftelijk.
 
@@ -170,7 +195,7 @@ De Klachtencommissie draagt zorg voor een zorgvuldige afhandeling van de klacht.
 
 3. De accountant op wiens gedraging de klacht betrekking heeft, wordt de gelegenheid geboden om binnen vier weken een schriftelijke reactie in te dienen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De Klachtencommissie stelt de klager en de accountant op wiens gedraging de klacht betrekking heeft in de gelegenheid te worden gehoord.
 
@@ -178,7 +203,7 @@ De Klachtencommissie draagt zorg voor een zorgvuldige afhandeling van de klacht.
 
 3. Van het horen wordt een verslag gemaakt.
 
-#### Artikel 13
+##### Artikel 13
 
 De klacht vervalt zodra klager aan de Klachtencommissie te kennen geeft dat:
 
@@ -186,7 +211,7 @@ De klacht vervalt zodra klager aan de Klachtencommissie te kennen geeft dat:
 
 - b. hij zijn klacht intrekt.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De Klachtencommissie handelt de klacht zo spoedig mogelijk af, doch uiterlijk binnen 26 weken.
 
@@ -202,7 +227,7 @@ De klacht vervalt zodra klager aan de Klachtencommissie te kennen geeft dat:
 
 5. Van de verdaging wordt schriftelijk mededeling gedaan aan de klager en de accountant op wiens gedraging de klacht betrekking heeft.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De Klachtencommissie stelt de klager en de accountant op wiens gedraging de klacht betrekking heeft, schriftelijk en gemotiveerd in kennis van haar bevindingen inzake de klacht alsmede van een eventuele aanbeveling.
 
@@ -216,7 +241,7 @@ De klacht vervalt zodra klager aan de Klachtencommissie te kennen geeft dat:
 
 4. De Klachtencommissie kan haar beslissing toezenden aan het bestuur van de NBA, de accountantskamer en het College van Beroep voor het bedrijfsleven.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De secretaris van de Klachtencommissie draagt zorg voor de registratie van de ingediende klachten.
 
@@ -224,7 +249,7 @@ De klacht vervalt zodra klager aan de Klachtencommissie te kennen geeft dat:
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 2
+##### Artikel 2
 
 1. Deze verordening is van toepassing op:
 

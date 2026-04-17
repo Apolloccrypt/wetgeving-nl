@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst tot oprichting van de Afrikaanse Ontwikkelingsbank, gedaan te Khartoem op 4 augustus 1963, zoals gewijzigd bij Resolutie 05-79 aangenomen door de Raad van Bestuur op 17 mei 1979"
 identifier: "BWBV0004446"
-categorie: "Bestuursrecht"
-publicatiedatum: 2002-07-05
-laatste_update: 2002-07-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004446"
+country: "nl"
+rank: "verdrag"
+publication_date: "2002-07-05"
+last_updated: "2002-07-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004446"
+soort: "verdrag"
+stam_id: "10004133173"
+version_id: "10004303802"
+internal_id: "C10006977331"
+label_id: "10004120094"
+dtd_version: "2.0"
+original_entry_into_force: "1983-01-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004446/2002-07-05/0"
+intitule_bron: "Trb.1981-28"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1981-02-04"
+intitule_in_force: "1984-07-31"
+intitule_status: "goed"
+original_publication: "Trb.1981-28"
+original_published_date: "1981-02-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1981-28"
+entry_into_force_date: "1983-01-28"
+jci_1_3: "jci1.3:c:BWBV0004446&z=2002-07-05&g=2002-07-05"
+jci_1_0: "1.0:c:BWBV0004446&g=2002-07-05"
+citeertitel_status: "redactioneel"
+entry_into_force: "1983-01-28"
 ---
-
 # Overeenkomst tot oprichting van de Afrikaanse Ontwikkelingsbank, gedaan te Khartoem op 4 augustus 1963, zoals gewijzigd bij Resolutie 05-79 aangenomen door de Raad van Bestuur op 17 mei 1979
 
 De Regeringen namens wie deze Overeenkomst is ondertekend,
@@ -26,11 +48,11 @@ Zijn overeengekomen hierbij op te richten de Afrikaanse Ontwikkelingsbank (hiern
 
 ### HOOFDSTUK I. DOEL, TAKEN, LIDMAATSCHAP EN STRUCTUUR
 
-#### Artikel 1. Doel
+##### Artikel 1. Doel
 
 Het doel van de Bank is bij te dragen tot de duurzame economische ontwikkeling en de sociale vooruitgang van haar regionale leden – afzonderlijk en tezamen.
 
-#### Artikel 2. Taken
+##### Artikel 2. Taken
 
 1. Om aan haar doel te beantwoorden, vervult de Bank de volgende taken:
 
@@ -54,7 +76,7 @@ Het doel van de Bank is bij te dragen tot de duurzame economische ontwikkeling e
 
 3. De Bank wordt bij al haar besluiten geleid door het bepaalde in de artikelen 1 en 2 van deze Overeenkomst.
 
-#### Artikel 3. Lidmaatschap en geografisch gebied
+##### Artikel 3. Lidmaatschap en geografisch gebied
 
 1. Elk Afrikaans land dat de status van onafhankelijk land heeft, kan regionaal lid van de Bank worden. Het verwerft het lidmaatschap overeenkomstig artikel 64, eerste of tweede lid, van deze Overeenkomst.
 
@@ -62,13 +84,13 @@ Het doel van de Bank is bij te dragen tot de duurzame economische ontwikkeling e
 
 3. Niet-regionale landen die lid van het Afrikaanse Ontwikkelingsfonds zijn of worden, of die bijdragen aan het Afrikaanse Ontwikkelingsfonds hebben verstrekt of verstrekken op voorwaarden en bedingen die gelijksoortig zijn aan de voorwaarden en bedingen van de Overeenkomst tot oprichting van het Afrikaanse Ontwikkelingsfonds, kunnen ook tot de Bank worden toegelaten op tijdstippen en ingevolge algemene regels als door de Raad van Bestuur vast te stellen. Zodanige algemene regels kunnen alleen worden gewijzigd bij besluit van de Raad van Bestuur met een twee derde meerderheid van het totale aantal bestuurders, met inbegrip van twee derde van de bestuurders van niet-regionale leden, die niet minder dan drie vierde van het totale aantal stemmen van de Lid-Staten vertegenwoordigen.
 
-#### Artikel 4. Structuur
+##### Artikel 4. Structuur
 
 De Bank heeft een Raad van Bestuur, een College van Bewindvoerders, een president, ten minste een vice-president en andere leidinggevende functionarissen en employés die taken zullen verrichten als door de Bank bepaald.
 
 ### HOOFDSTUK II. KAPITAAL
 
-#### Artikel 5. Maatschappelijk kapitaal
+##### Artikel 5. Maatschappelijk kapitaal
 
 - a. Het maatschappelijk kapitaal van de Bank bestaat aanvankelijk uit 250.000.000 rekeneenheden. Het is verdeeld in 25.000 aandelen met een pari-waarde van 10.000 rekeneenheden elk, waarop door de leden kan worden ingeschreven. Het maatschappelijk kapitaal kan in overeenstemming met het derde lid van dit artikel worden verhoogd.
 
@@ -80,7 +102,7 @@ De Bank heeft een Raad van Bestuur, een College van Bewindvoerders, een presiden
 
 4. Het maatschappelijk kapitaal en verhogingen daarvan worden voor inschrijving toegewezen aan regionale en niet-regionale leden in een zodanige verhouding dat de onderscheiden groepen voor inschrijving beschikken over een zodanig aantal aandelen dat, indien daarop volledig zou worden ingeschreven, daardoor de regionale leden zestig procent van het totale aantal stemmen zouden hebben en niet-regionale leden veertig procent van het totale aantal stemmen.
 
-#### Artikel 6. Inschrijving op aandelen
+##### Artikel 6. Inschrijving op aandelen
 
 1. Ieder lid schrijft aanvankelijk in op de aandelen van het kapitaal van de Bank. De aanvankelijke inschrijving van elk lid bestaat uit een gelijk aantal volgestorte en niet-volgestorte aandelen. Het aantal aandelen waarop aanvankelijk dient te worden ingeschreven door een Staat die het lidmaatschap verwerft overeenkomstig artikel 64, eerste lid, van deze Overeenkomst is het aantal dat voor deze Staat is vastgelegd in bijlage A bij deze Overeenkomst, die een integrerend deel hiervan vormt. Het aantal aandelen waarop aanvankelijk dient te worden ingeschreven door andere leden wordt bepaald door de Raad van Bestuur.
 
@@ -94,7 +116,7 @@ De Bank heeft een Raad van Bestuur, een College van Bewindvoerders, een presiden
 
 6. De aandelen worden op generlei wijze verpand of bezwaard. Zij zijn slechts overdraagbaar aan de Bank.
 
-#### Artikel 7. Betaling van de inschrijving
+##### Artikel 7. Betaling van de inschrijving
 
 - a. Het bedrag in het volgestorte kapitaal van de Bank waarop aanvankelijk is ingeschreven door een lid dat het lidmaatschap verwerft overeenkomstig artikel 64, eerste lid, wordt betaald in zes termijnen, waarvan de eerste vijf procent beloopt, de tweede vijfendertig procent en de overige vier termijnen elk vijftien procent van dat bedrag.
 
@@ -112,7 +134,7 @@ De Bank heeft een Raad van Bestuur, een College van Bewindvoerders, een presiden
 
 5. De Bank bepaalt de plaats voor betalingen ingevolge dit artikel, met dien verstande dat tot het tijdstip van de eerste vergadering van haar Raad van Bestuur, bepaald in artikel 66 van deze Overeenkomst, de betaling van de eerste termijn, bedoeld in het eerste lid van dit artikel, dient te geschieden aan de Trustee, bedoeld in artikel 66.
 
-#### Artikel 8. Bijzondere fondsen
+##### Artikel 8. Bijzondere fondsen
 
 1. De Bank kan overgaan tot het instellen, of worden belast met het beheer, van Bijzondere Fondsen, waarvan de bedoeling is, dat zij bijdragen tot de verwezenlijking van haar doelstellingen die binnen haar arbeidsterrein vallen. Zij kan de middelen behorend tot zodanige Bijzondere Fondsen ontvangen, bezitten, gebruiken, vastleggen of op andere wijze daarover beschikken.
 
@@ -126,7 +148,7 @@ De Bank heeft een Raad van Bestuur, een College van Bewindvoerders, een presiden
 
 - c. Wanneer zodanige bijzondere regels en voorschriften niet van toepassing zijn, de Bijzondere Fondsen vallen onder de bepalingen van deze Overeenkomst.
 
-#### Artikel 9. Gewone kapitaalmiddelen
+##### Artikel 9. Gewone kapitaalmiddelen
 
 Voor de toepassing van deze Overeenkomst wordt onder de uitdrukking „gewone kapitaalmiddelen” van de Bank mede verstaan:
 
@@ -140,7 +162,7 @@ Voor de toepassing van deze Overeenkomst wordt onder de uitdrukking „gewone ka
 
 - e. Andere door de Bank ontvangen fondsen of inkomsten die geen deel uitmaken van haar bijzondere middelen.
 
-#### Artikel 10. Bijzondere middelen
+##### Artikel 10. Bijzondere middelen
 
 1. Voor de toepassing van deze Overeenkomst wordt met de uitdrukking „bijzondere middelen” bedoeld de middelen van de Bijzondere Fondsen en wordt daaronder mede verstaan:
 
@@ -156,7 +178,7 @@ Voor de toepassing van deze Overeenkomst wordt onder de uitdrukking „gewone ka
 
 2. Voor de toepassing van deze Overeenkomst wordt onder de uitdrukking „bijzondere middelen toebehorend aan een Bijzonder Fonds” mede verstaan de middelen, fondsen en inkomsten die in het voorgaande lid worden bedoeld en die - naar gelang het geval - worden bijgedragen aan, geleend of ontvangen door, zijn toegekomen aan of ter beschikking staan van het desbetreffende Bijzondere Fonds overeenkomstig de regels en voorschriften die op dat Bijzondere Fonds van toepassing zijn.
 
-#### Artikel 11. Scheiding van middelen
+##### Artikel 11. Scheiding van middelen
 
 1. De gewone kapitaalmiddelen en de bijzondere middelen van de Bank worden te allen tijde en in alle opzichten volledig van elkaar gescheiden gehouden, gebruikt, belast, belegd of anderszins aangewend. Elk Bijzonder Fonds, de middelen en rekeningen daarvan worden volledig gescheiden gehouden van andere Bijzondere Fondsen en de middelen en rekeningen daarvan.
 
@@ -166,11 +188,11 @@ Voor de toepassing van deze Overeenkomst wordt onder de uitdrukking „gewone ka
 
 ### HOOFDSTUK III. WERKZAAMHEDEN
 
-#### Artikel 12. Gebruik der middelen
+##### Artikel 12. Gebruik der middelen
 
 De middelen en faciliteiten van de Bank worden uitsluitend gebruikt om het doel te bereiken en de taken te vervullen, geregeld in de artikelen 1 en 2 van deze Overeenkomst.
 
-#### Artikel 13. Gewone en bijzondere werkzaamheden
+##### Artikel 13. Gewone en bijzondere werkzaamheden
 
 1. De werkzaamheden van de Bank bestaan uit gewone werkzaamheden en bijzondere werkzaamheden.
 
@@ -182,7 +204,7 @@ De middelen en faciliteiten van de Bank worden uitsluitend gebruikt om het doel 
 
 5. Uitgaven die rechtstreeks verband houden met de gewone werkzaamheden worden ten laste gebracht van de gewone kapitaalmiddelen van de Bank; uitgaven die rechtstreeks verband houden met bijzondere werkzaamheden worden ten laste gebracht van de desbetreffende bijzondere middelen. Andere uitgaven worden verantwoord op door de Bank te bepalen wijze.
 
-#### Artikel 14. Ontvangers en werkwijzen
+##### Artikel 14. Ontvangers en werkwijzen
 
 1. Bij haar werkzaamheden kan de Bank zorgen voor of bemiddeling verlenen bij het verschaffen van gelden aan een regionaal lid, een staatkundig onderdeel of orgaan daarvan of aan een instelling of onderneming op het grondgebied van een regionaal lid, alsmede aan internationale of regionale organen of instellingen die zich bezighouden met de ontwikkeling van Afrika. Onder voorbehoud van de bepalingen van dit hoofdstuk kan de Bank haar werkzaamheden uitvoeren op de volgende wijzen:
 
@@ -200,7 +222,7 @@ De middelen en faciliteiten van de Bank worden uitsluitend gebruikt om het doel 
 
 2. De bepalingen van deze Overeenkomst die van toepassing zijn op rechtstreekse leningen die de Bank kan verstrekken ingevolge letter a of b van het voorgaande lid zijn ook van toepassing op haar deelneming in een rechtstreekse lening aangegaan ingevolge een van deze letters. De bepalingen van deze Overeenkomst die van toepassing zijn op ingevolge letter d van het voorgaande lid door de Bank gegeven garanties van leningen zijn eveneens van toepassing wanneer de Bank slechts een gedeelte van een zodanige lening garandeert.
 
-#### Artikel 15. Beperkingen ten aanzien van de werkzaamheden
+##### Artikel 15. Beperkingen ten aanzien van de werkzaamheden
 
 1. Het totale uitstaande bedrag met betrekking tot de gewone werkzaamheden van de Bank mag nooit groter zijn dan het totale bedrag van haar onbezwaarde geplaatste kapitaal, reserves en overschotten begrepen in haar gewone kapitaalmiddelen.
 
@@ -212,7 +234,7 @@ De middelen en faciliteiten van de Bank worden uitsluitend gebruikt om het doel 
 
 - b. Op het tijdstip waarop de belegging wordt gedaan, mag het bedrag van een bepaalde belegging bedoeld in het voorgaande onderdeel niet hoger zijn dan een percentage van het aandelenkapitaal van de betrokken instelling of onderneming, welk percentage het College van Bewindvoerders dient te hebben vastgesteld voor elke uit hoofde van artikel 14, eerste lid, onderdeel c, van deze Overeenkomst te verrichten belegging. In geen geval mag de Bank trachten door een dergelijke belegging een beslissend belang te verkrijgen in de betrokken instelling of onderneming.
 
-#### Artikel 16. Beschikbaarstelling van valuta's voor rechtstreekse leningen
+##### Artikel 16. Beschikbaarstelling van valuta's voor rechtstreekse leningen
 
 Bij het verstrekken van rechtstreekse leningen verschaft de Bank de leningnemer andere valuta's dan de valuta van het lid op het grondgebied waarvan het desbetreffende project moet worden uitgevoerd (deze laatste valuta te noemen „lokale valuta”) die nodig zijn om de uitgaven in deviezen van dat project te dekken; altijd met dien verstande dat de Bank, bij het verstrekken van rechtstreekse leningen, gelden ter beschikking kan stellen teneinde lokale uitgaven voor het desbetreffende project te dekken:
 
@@ -220,7 +242,7 @@ Bij het verstrekken van rechtstreekse leningen verschaft de Bank de leningnemer 
 
 - b. indien, naar de mening van de Bank lokale uitgaven voor dat project waarschijnlijk bovenmatige schade of spanning op de betalingsbalans van het land waar het project moet worden uitgevoerd, zal veroorzaken en het bedrag van een zodanige financiering door de Bank niet hoger is dan een redelijk gedeelte van de totale door de leningnemer voor dat project gemaakte lokale kosten.
 
-#### Artikel 17. Beginselen welke bij de werkzaamheden in acht dienen te worden genomen
+##### Artikel 17. Beginselen welke bij de werkzaamheden in acht dienen te worden genomen
 
 1. De Bank laat zich bij de uitvoering van haar werkzaamheden door de volgende beginselen leiden:
 
@@ -252,7 +274,7 @@ Bij het verstrekken van rechtstreekse leningen verschaft de Bank de leningnemer 
 
 2. De Bank stelt de regels en voorschriften vast die nodig zijn voor de bestudering van aan haar voorgelegde projecten.
 
-#### Artikel 18. Voorwaarden voor rechtstreekse leningen en garanties
+##### Artikel 18. Voorwaarden voor rechtstreekse leningen en garanties
 
 1. In geval van rechtstreekse leningen die door de Bank worden verstrekt;
 
@@ -278,15 +300,15 @@ Bij het verstrekken van rechtstreekse leningen verschaft de Bank de leningnemer 
 
 - d. kan de Bank de andere door haar passend geachte voorwaarden stellen, met inachtneming van zowel het belang van het rechtstreeks bij het project betrokken lid als de belangen van de leden in hun geheel.
 
-#### Artikel 19. Provisie en vergoedingen
+##### Artikel 19. Provisie en vergoedingen
 
 Vervallen
 
-#### Artikel 20. Bijzondere reserve
+##### Artikel 20. Bijzondere reserve
 
 Vervallen
 
-#### Artikel 21. Wijzen waarop de Bank haar verplichtingen nakomt (Gewone werkzaamheden)
+##### Artikel 21. Wijzen waarop de Bank haar verplichtingen nakomt (Gewone werkzaamheden)
 
 1. Steeds wanneer dit nodig is om de contractuele betalingen van rente, andere lasten of aflossing op door de Bank opgenomen leningen te betalen of haar verplichtingen na te komen met betrekking tot overeenkomstige bepalingen ten aanzien van leningen die door de Bank zijn gegarandeerd en die ten laste komen van de gewone kapitaalmiddelen van de Bank, kan de Bank krachtens artikel 7, vierde lid, van deze Overeenkomst betaling verzoeken van een passend deel van het niet betaalde, ingeschreven, niet-volgestorte kapitaal.
 
@@ -296,7 +318,7 @@ Vervallen
 
 - b. haar verplichting af te kopen of op andere wijze na te komen, voor het geheel of een gedeelte van de door haarzelf opgenomen leningen.
 
-#### Artikel 22. Wijzen waarop de verplichtingen worden nagekomen met betrekking tot leningen voor Bijzondere Fondsen
+##### Artikel 22. Wijzen waarop de verplichtingen worden nagekomen met betrekking tot leningen voor Bijzondere Fondsen
 
 Betalingen om te voldoen aan verplichtingen met betrekking tot leningen van fondsen ter opneming in de bijzondere middelen die aan een Bijzonder Fonds toebehoren, komen ten laste van:
 
@@ -306,7 +328,7 @@ Betalingen om te voldoen aan verplichtingen met betrekking tot leningen van fond
 
 ### HOOFDSTUK IV. BEVOEGDHEID TOT HET AANGAAN VAN LENINGEN EN ANDERE BIJKOMENDE BEVOEGDHEDEN
 
-#### Artikel 23. Algemene bevoegdheden
+##### Artikel 23. Algemene bevoegdheden
 
 Naast de elders in deze Overeenkomst bepaalde bevoegdheden, is de Bank bevoegd:
 
@@ -334,7 +356,7 @@ Naast de elders in deze Overeenkomst bepaalde bevoegdheden, is de Bank bevoegd:
 
 - g. alle andere bevoegdheden uit te oefenen die nodig of wenselijk zijn voor de bevordering van haar doel en taken, overeenkomstig de bepalingen van deze Overeenkomst.
 
-#### Artikel 24. Bevoegdheid inzake bijzondere leningen
+##### Artikel 24. Bevoegdheid inzake bijzondere leningen
 
 1. De Bank kan een regionaal lid verzoeken bedragen van zijn valuta aan de Bank te lenen ter financiering van uitgaven voor goederen of diensten, geproduceerd in het grondgebied van dat lid ten behoeve van een in het grondgebied van een ander lid uit te voeren project.
 
@@ -348,11 +370,11 @@ Naast de elders in deze Overeenkomst bepaalde bevoegdheden, is de Bank bevoegd:
 
 6. Alle middelen die de Bank verkrijgt uit hoofde van het bepaalde in dit artikel vormen een Bijzonder Fonds.
 
-#### Artikel 25. Waarschuwing die dient te worden geplaatst op de waardepapieren
+##### Artikel 25. Waarschuwing die dient te worden geplaatst op de waardepapieren
 
 Ieder waardepapier dat door de Bank is uitgegeven of gegarandeerd draagt op de voorzijde duidelijk zichtbaar een verklaring inhoudende dat het geen schuldverplichting van enige Regering is, tenzij dit wel het geval is, in welk geval het dient te worden vermeld.
 
-#### Artikel 26. Waardebepaling van valuta's en vaststelling convertibiliteit
+##### Artikel 26. Waardebepaling van valuta's en vaststelling convertibiliteit
 
 Telkens wanneer het ingevolge deze Overeenkomst nodig is:
 
@@ -362,7 +384,7 @@ Telkens wanneer het ingevolge deze Overeenkomst nodig is:
 
 wordt een dergelijke bepaling of vaststelling op redelijke wijze verricht door de Bank na overleg met het Internationaal Monetair Fonds.
 
-#### Artikel 27. Gebruik van valuta’s
+##### Artikel 27. Gebruik van valuta’s
 
 1. Leden mogen geen beperkingen handhaven of opleggen aan het houden of gebruiken door de Bank of door een gemachtigde van de Bank, voor betalingen in enig land van:
 
@@ -390,7 +412,7 @@ wordt een dergelijke bepaling of vaststelling op redelijke wijze verricht door d
 
 - b. ingevolge een besluit van het College van Bewindvoerders.
 
-#### Artikel 28. Handhaving van de waarde van de valuta die de Bank onder haar berusting heeft
+##### Artikel 28. Handhaving van de waarde van de valuta die de Bank onder haar berusting heeft
 
 1. Steeds wanneer de pari-waarde van de valuta van een lid wordt verminderd in verhouding tot de rekeneenheid omschreven in artikel 5, eerste lid, onderdeel b, van deze Overeenkomst, of haar buitenlandse waarde naar de mening van de Bank in aanmerkelijke mate is gedeprecieerd, betaalt dat lid binnen een redelijke termijn een bedrag van zijn valuta aan de Bank, vereist om de waarde te handhaven van de valuta die de Bank onder haar berusting heeft op grond van zijn inschrijving.
 
@@ -400,7 +422,7 @@ wordt een dergelijke bepaling of vaststelling op redelijke wijze verricht door d
 
 ### HOOFDSTUK V. ORGANISATIE EN BESTUUR
 
-#### Artikel 29. Raad van Bestuur: bevoegdheden
+##### Artikel 29. Raad van Bestuur: bevoegdheden
 
 1. Alle bevoegdheden van de Bank berusten bij de Raad van Bestuur. De Raad geeft met name algemene richtlijnen inzake het kredietbeleid van de Bank.
 
@@ -424,13 +446,13 @@ wordt een dergelijke bepaling of vaststelling op redelijke wijze verricht door d
 
 3. De Raad van Bestuur behoudt de volledige bevoegdheid gezag uit te oefenen over aangelegenheden die ingevolge het bepaalde in het tweede lid van dit artikel zijn overgedragen aan het College van Bewindvoerders.
 
-#### Artikel 30. Raad van Bestuur: samenstelling
+##### Artikel 30. Raad van Bestuur: samenstelling
 
 1. Ieder lid is vertegenwoordigd in de Raad van Bestuur en benoemt een bestuurder en een plaatsvervanger. Dezen dienen hoogst bekwame personen te zijn met een ruime ervaring in economische en financiële aangelegenheden en dienen onderdaan van de Lidstaten te zijn. Elke bestuurder en plaatsvervanger bekleedt zijn functie vijf jaar, behoudens beëindiging van de aanstelling te eniger tijd, of herbenoeming, indien het lid dat hem heeft benoemd daartoe besluit. Een plaatsvervanger heeft geen stemrecht, behalve bij afwezigheid van zijn principaal. Op de jaarvergadering benoemt de Raad van Bestuur een van zijn leden tot voorzitter. De Voorzitter bekleedt zijn functie tot de verkiezing van de volgende voorzitter op de volgende jaarvergadering van de Raad, tenzij de Raad van Bestuur anders besluit.
 
 2. Bestuurders en plaatsvervangers bekleden hun functies zonder beloning van de Bank, doch de Bank kan hun een redelijke vergoeding geven voor de kosten, gemaakt in verband met het bijwonen van de vergaderingen.
 
-#### Artikel 31. Raad van Bestuur: procedure
+##### Artikel 31. Raad van Bestuur: procedure
 
 1. De Raad van Bestuur houdt een jaarvergadering en alle andere vergaderingen die de Raad nodig acht of door het College van Bewindvoerders worden bijeengeroepen. Vergaderingen van de Raad van Bestuur worden door het College van Bewindvoerders bijeengeroepen, wanneer daarom door vijf leden van de Bank, of door leden die een vierde van het totaal aantal stemmen van de leden bezitten, wordt verzocht. De jaarvergaderingen van de Raad van Bestuur worden gehouden in regionale en niet-regionale lidstaten.
 
@@ -440,7 +462,7 @@ wordt een dergelijke bepaling of vaststelling op redelijke wijze verricht door d
 
 4. De Raad van Bestuur en, voor zover het daartoe is gemachtigd, het College van Bewindvoerders, kunnen de filialen instellen en de regels en voorschriften vaststellen, die nodig of dienstig zijn voor de uitoefening door de Bank van haar werkzaamheden.
 
-#### Artikel 32. College van Bewindvoerders: bevoegdheden
+##### Artikel 32. College van Bewindvoerders: bevoegdheden
 
 Onverminderd de bevoegdheden van de Raad van Bestuur, bepaald in artikel 29 van deze Overeenkomst, is het College van Bewindvoerders verantwoordelijk voor de uitvoering van de algemene werkzaamheden van de Bank en dient daartoe, naast de bevoegdheden die uitdrukkelijk in deze Overeenkomst aan dit College zijn voorbehouden, alle bevoegdheden uit te oefenen die door de Raad van Bestuur daaraan zijn overgedragen, en in het bijzonder:
 
@@ -454,7 +476,7 @@ Onverminderd de bevoegdheden van de Raad van Bestuur, bepaald in artikel 29 van 
 
 - e. het bepalen van de algemene structuur van de diensten van de Bank.
 
-#### Artikel 33. College van Bewindvoerders: samenstelling
+##### Artikel 33. College van Bewindvoerders: samenstelling
 
 1. Het College van Bewindvoerders bestaat uit achttien leden, die geen bestuurder of plaatsvervanger mogen zijn. Twaalf leden worden gekozen door de bestuurders van de regionale leden en zes leden worden gekozen door de bestuurders van de niet-regionale leden. Zij worden door de Raad van Bestuur gekozen overeenkomstig Bijlage B bij deze Overeenkomst. Bij de verkiezing van het College van Bewindvoerders houdt de Raad van Bestuur terdege rekening met de hoge mate van bekwaamheid in economische en financiële aangelegenheden die voor de functie is vereist. De Raad van Bestuur kan slechts besluiten tot wijziging van het aantal leden van het College van Bewindvoerders met een drie vierde meerderheid van het totale aantal stemmen van de lidlanden, die, met betrekking tot bepalingen die uitsluitend betrekking hebben op het aantal en de verkiezing van bewindvoerders door regionale lid-landen, een twee derde meerderheid van de bestuurders van de regionale leden omvat, en met betrekking tot de bepalingen die uitsluitend betrekking hebben op het aantal en de verkiezing van bewindvoerders door niet-regionale lid-landen, een twee derde meerderheid - van de bestuurders van de niet-regionale leden omvat.
 
@@ -464,7 +486,7 @@ Onverminderd de bevoegdheden van de Raad van Bestuur, bepaald in artikel 29 van 
 
 4. Bewindvoerders mogen ten hoogste twee ambtstermijnen van elk drie jaar zitting nemen in het College van Bewindvoerders. Een bewindvoerder wiens ambtstermijn aanvangt tussen twee algemene verkiezingen komt in aanmerking te worden gekozen voor een termijn van in totaal ten hoogste zes jaar te rekenen vanaf de datum van zijn eerste verkiezing; hierbij geldt te allen tijde dat een bewindvoerder die ten tijde van zijn verkiezing twee ambtstermijnen van elk drie jaar heeft vervuld als plaatsvervangend bewindvoerder niet in aanmerking komt voor herverkiezing.
 
-#### Artikel 34. College van Bewindvoerders: procedure
+##### Artikel 34. College van Bewindvoerders: procedure
 
 1. Het College van Bewindvoerders is in permanente zitting bijeen op het hoofdkantoor van de Bank en vergadert zo vaak als de werkzaamheden van de Bank dit vereisen.
 
@@ -472,7 +494,7 @@ Onverminderd de bevoegdheden van de Raad van Bestuur, bepaald in artikel 29 van 
 
 3. De Raad van Bestuur stelt regels vast volgens welke een lid, indien er geen bewindvoerder van zijn nationaliteit is, vertegenwoordigd kan zijn op een vergadering van het College van Bewindvoerders wanneer wordt beraadslaagd over een verzoek gedaan door dat lid, of over een vraagstuk waarbij dat lid ten nauwste is betrokken.
 
-#### Artikel 35. Stemrecht
+##### Artikel 35. Stemrecht
 
 1. Ieder lid heeft 625 stemmen en daarnaast één stem voor elk aandeel van dat lid in het kapitaal van de Bank, met dien verstande evenwel dat in verband met een verhoging van het maatschappelijk kapitaal de Raad van Bestuur kan bepalen dat aan het maatschappelijk kapitaal van een zodanige verhoging geen stemrecht verbonden is en dat een zodanige verhoging van het kapitaal niet is onderworpen aan de rechten van voorkoop vastgelegd in artikel 6, tweede lid, van deze Overeenkomst.
 
@@ -480,13 +502,13 @@ Onverminderd de bevoegdheden van de Raad van Bestuur, bepaald in artikel 29 van 
 
 3. Tenzij uitdrukkelijk anders is bepaald in deze Overeenkomst, geschieden stemmingen in het College van Bewindvoerders als omschreven in dit artikel. Iedere bewindvoerder is gerechtigd het aantal stemmen uit te brengen dat hij bij zijn verkiezing op zich heeft verenigd; deze stemmen dienen als een eenheid te worden uitgebracht. Alle besluiten van het College van Bewindvoerders worden over het algemeen genomen met een meerderheid van zesenzestig tweederde procent van het totale aantal stemmen van de leden die vertegenwoordigd zijn tijdens de vergadering, met dien verstande dat over een aangelegenheid waarvan een lid heeft verklaard dat deze van groot belang is en een substantieel belang van dat lid betreft, op verzoek van dat lid met een meerderheid van zeventig procent van het totale aantal stemmen wordt besloten.
 
-#### Artikel 36. De president: benoeming
+##### Artikel 36. De president: benoeming
 
 1. De Raad van Bestuur kiest met een meerderheid van het totale aantal stemmen van de leden, met inbegrip van een meerderheid van het totale aantal stemmen van de regionale leden, de president van de Bank. Hij dient een hoogst bekwaam persoon te zijn in aangelegenheden betreffende de activiteiten, het beheer en bestuur van de Bank en hij dient een onderdaan van een regionale lidstaat te zijn. Gedurende zijn ambtstermijn mag hij noch bestuurder, noch bewindvoerder noch plaatsvervanger van dezen zijn. De ambtstermijn van de president is vijf jaar. Deze termijn kan worden verlengd, met dien verstande dat geen enkele persoon mag worden gekozen of optreden als president gedurende meer dan twee opeenvolgende termijnen van elk vijf jaar. De president wordt geschorst in zijn functie of uit zijn ambt ontzet indien de Raad van Bestuur daartoe besluit met een meerderheid van het totale aantal stemmen van de leden, met inbegrip van een meerderheid van het totale aantal stemmen van de regionale leden. Nadat de president is geschorst of uit zijn ambt is ontzet, benoemt de Raad van Bestuur een president ad interim, of kiest, naar gelang van het geval, een nieuwe president.
 
 2. Na overleg met het Bureau roept de voorzitter van de Raad van Bestuur een vergadering van de Raad van Bestuur bijeen teneinde de schorsing van de president naar aanleiding van de schriftelijke verzoeken van ten minste vijf bestuurders die ten minste vijf kiesdistricten vertegenwoordigen in overweging te nemen.
 
-#### Artikel 37. De functie van de president
+##### Artikel 37. De functie van de president
 
 1. De president is voorzitter van het College van Bewindvoerders maar heeft, behoudens een beslissende stem in geval van staking der stemmen, geen stemrecht. Hij mag deelnemen aan vergaderingen van de Raad van Bestuur, maar heeft geen stemrecht.
 
@@ -498,7 +520,7 @@ Onverminderd de bevoegdheden van de Raad van Bestuur, bepaald in artikel 29 van 
 
 5. Bij het aanstellen van leidinggevend en ander personeel is de allereerste overweging van de president dat hij de waarborging van een zo hoog mogelijk peil van doelmatigheid, technische bekwaamheid en integriteit verzekert; hij werft dit personeel aan op een zo breed mogelijke geografische basis, terdege rekening houdend met het regionale karakter van de Bank alsook met de deelneming van niet-regionale Staten.
 
-#### Artikel 38. Verbod van politieke activiteit: het internationale karakter van de Bank
+##### Artikel 38. Verbod van politieke activiteit: het internationale karakter van de Bank
 
 1. De Bank aanvaardt geen leningen of bijstand die in enigerlei opzicht haar doeleinden of taken zouden schaden, beperken, daarvan zouden afwijken of deze anderszins zouden veranderen.
 
@@ -506,7 +528,7 @@ Onverminderd de bevoegdheden van de Raad van Bestuur, bepaald in artikel 29 van 
 
 3. De president, vice-presidenten, leidinggevend personeel en ander personeel van de Bank staan bij het uitoefenen van hun functies uitsluitend in dienst van de Bank en stellen hun diensten aan geen enkele andere autoriteit ter beschikking. Ieder lid van de Bank eerbiedigt het internationale karakter van deze dienstbetrekking en onderneemt geen enkele poging een van hen in de uitoefening van zijn functie te beïnvloeden.
 
-#### Artikel 39. Vestiging van de Bank
+##### Artikel 39. Vestiging van de Bank
 
 1. Het hoofdkantoor van de Bank is gevestigd op het grondgebied van een regionale Lid-Staat. De keuze van de vestiging van het hoofdkantoor van de Bank geschiedt door de Raad van Bestuur tijdens zijn eerste vergadering, met inachtneming van de beschikbaarheid van voorzieningen voor de goede functionering van de Bank.
 
@@ -514,7 +536,7 @@ Onverminderd de bevoegdheden van de Raad van Bestuur, bepaald in artikel 29 van 
 
 3. De Bank kan elders bijkantoren of agentschappen vestigen.
 
-#### Artikel 40. Verbindingen met de Bank, plaatsen van bewaargeving
+##### Artikel 40. Verbindingen met de Bank, plaatsen van bewaargeving
 
 1. Ieder lid wijst een bevoegde autoriteit aan, waarmee de Bank in verbinding kan treden over aangelegenheden die voortvloeien uit deze Overeenkomst.
 
@@ -522,7 +544,7 @@ Onverminderd de bevoegdheden van de Raad van Bestuur, bepaald in artikel 29 van 
 
 3. De Bank kan haar activa bewaren bij door het College van Bewindvoerders te bepalen plaatsen van bewaargeving.
 
-#### Artikel 41. Publikatie van de Overeenkomst, voertalen, verstrekking van informatie en verslagen
+##### Artikel 41. Publikatie van de Overeenkomst, voertalen, verstrekking van informatie en verslagen
 
 1. De Bank streeft ernaar de tekst van deze Overeenkomst en al haar belangrijke documenten beschikbaar te doen zijn in de voornaamste in Afrika gebruikte talen. Indien mogelijk zijn de voertalen van de Bank Afrikaanse talen, de Engelse en de Franse taal.
 
@@ -532,7 +554,7 @@ Onverminderd de bevoegdheden van de Raad van Bestuur, bepaald in artikel 29 van 
 
 4. De Bank kan ook andere verslagen publiceren die zij voor de vervulling van haar doel en functies wenselijk acht. Deze verslagen worden aan de leden van de Bank toegezonden.
 
-#### Artikel 42. Verdeling van het netto inkomen
+##### Artikel 42. Verdeling van het netto inkomen
 
 1. De Raad van Bestuur stelt jaarlijks vast welk deel van het netto bedrijfsresultaat van de Bank, inclusief het netto bedrijfsresultaat van haar Bijzondere Fondsen - na voorziening van de bijzondere reserves, wordt toegevoegd aan de algemene reserves en welk deel eventueel wordt uitgekeerd.
 
@@ -542,13 +564,13 @@ Onverminderd de bevoegdheden van de Raad van Bestuur, bepaald in artikel 29 van 
 
 ### HOOFDSTUK VI. OPZEGGING VAN HET LIDMAATSCHAP EN SCHORSING VAN LEDEN, TIJDELIJKE OPSCHORTING EN BEËINDIGING VAN DE WERKZAAMHEDEN VAN DE BANK
 
-#### Artikel 43. Opzegging
+##### Artikel 43. Opzegging
 
 1. Ieder lid kan te allen tijde uit de Bank treden door middel van een aan het hoofdkantoor van de Bank gerichte schriftelijk kennisgeving van opzegging.
 
 2. De uittreding van een lid gaat in op de datum, vermeld in de kennisgeving, maar in geen geval eerder dan zes maanden na het tijdstip waarop de kennisgeving door de Bank is ontvangen.
 
-#### Artikel 44. Schorsing
+##### Artikel 44. Schorsing
 
 1. Indien een lid zijn verplichtingen uit hoofde van deze Overeenkomst of een andere verplichting tegenover de Bank die voortvloeit uit haar werkzaamheden uit hoofde van deze Overeenkomst niet nakomt, kan de Raad van Bestuur besluiten dat lid te schorsen waarbij ten minste 70 procent van het totale aantal stemmen van de leden vertegenwoordigd is. De Raad van Bestuur kan in plaats van schorsing van het lidmaatschap, besluiten tot schorsing van het stemrecht van het desbetreffende lid onder de voorwaarden vast te stellen door de Raad van Bestuur, overeenkomstig de regels aangenomen krachtens het vierde lid van dit artikel.
 
@@ -558,7 +580,7 @@ Onverminderd de bevoegdheden van de Raad van Bestuur, bepaald in artikel 29 van 
 
 4. De Raad van Bestuur neemt regels aan die nodig mochten zijn voor de uitvoering van dit artikel.
 
-#### Artikel 45. Vereffening van rekeningen
+##### Artikel 45. Vereffening van rekeningen
 
 1. Na het tijdstip waarop een Staat ophoudt lid te zijn (hierna in dit artikel de „beëindigingsdatum” te noemen), blijft het lid aansprakelijk voor zijn directe en indirecte verplichtingen jegens de Bank, zolang enig deel van de leningen en garanties die werden verstrekt voor de beëindigingsdatum nog uitstaat; maar hij houdt op betrokken te zijn bij verplichtingen ten aanzien van leningen en garanties die daarna door de Bank worden verstrekt, noch deelt hij in de winsten of de onkosten van de Bank.
 
@@ -576,23 +598,23 @@ Onverminderd de bevoegdheden van de Raad van Bestuur, bepaald in artikel 29 van 
 
 4. Indien de Bank in overeenstemming met artikel 47 van deze Overeenkomst haar werkzaamheden staakt binnen zes maanden na de beëindigingsdatum worden alle rechten van de desbetreffende Staat vastgesteld in overeenstemming met de bepalingen van artikel 47 tot en met 49 van deze Overeenkomst.
 
-#### Artikel 46. Tijdelijke staking der werkzaamheden
+##### Artikel 46. Tijdelijke staking der werkzaamheden
 
 In geval van onvoorziene omstandigheden kan de Raad van Bewindvoerders tijdelijk de werkzaamheden ten aanzien van nieuwe leningen en garanties opschorten, in afwachting van een gelegenheid tot verder overleg en handelen door de Raad van Bestuur.
 
-#### Artikel 47. Beëindiging der werkzaamheden
+##### Artikel 47. Beëindiging der werkzaamheden
 
 1. De Bank kan bij besluit van de Raad van Bestuur, genomen met een meerderheid van vijfenzeventig procent van het totale aantal stemmen van de leden, haar werkzaamheden ten aanzien van nieuwe leningen, garanties en beleggingen in aandelen beëindigen.
 
 2. Na haar werkzaamheden aldus te hebben beëindigd, houdt de Bank op staande voet op met alle werkzaamheden, behalve die welke nodig zijn voor het naar behoren te gelde maken, het in stand houden en het beschermen van haar activa en het vereffenen van haar schulden.
 
-#### Artikel 48. Verplichtingen van leden en betaling van vorderingen
+##### Artikel 48. Verplichtingen van leden en betaling van vorderingen
 
 1. In geval van beëindiging van de werkzaamheden van de Bank blijft de aansprakelijkheid van alle leden uit hoofde van niet-volgestorte inschrijvingen op het aandelenkapitaal van de Bank en ten aanzien van de waardevermindering van hun valuta's bestaan, totdat alle vorderingen der crediteuren, met inbegrip van alle voorwaardelijke vorderingen, zijn voldaan.
 
 2. Alle crediteuren die directe vorderingen hebben, worden eerst betaald uit de activa van de Bank en vervolgens uit de aan de Bank verrichte betalingen waar de Bank om heeft verzocht ter voldoening van niet-betaalde inschrijvingen. Voordat betalingen aan crediteuren, die directe vorderingen hebben, plaats vinden, treft het College van Bewindvoerders de naar zijn mening nodige maatregelen ter verzekering van een verdeling pro rata onder de houders van directe en voorwaardelijke vorderingen.
 
-#### Artikel 49. Verdeling der activa
+##### Artikel 49. Verdeling der activa
 
 1. In geval van beëindiging van de werkzaamheden van de Bank vindt er geen verdeling van activa aan de leden uit hoofde van hun inschrijving op het aandelenkapitaal plaats voordat
 
@@ -618,11 +640,11 @@ In geval van onvoorziene omstandigheden kan de Raad van Bewindvoerders tijdelijk
 
 ### HOOFDSTUK VII. RECHTSPOSITIE, IMMUNITEITEN, VRIJSTELLINGEN EN VOORRECHTEN
 
-#### Artikel 50. Rechtspositie
+##### Artikel 50. Rechtspositie
 
 Ten einde haar in staat te stellen haar doeleinden te bereiken en de haar opgelegde taken te vervullen, bezit de Bank onverkorte internationale rechtspersoonlijkheid. Zo kan zij overeenkomsten sluiten met leden, niet-Lid-Staten en andere internationale organisaties. Met hetzelfde doel worden in het grondgebied van elk lid aan de Bank de in dit Hoofdstuk vermelde rechtspositie, immuniteiten, vrijstellingen en voorrechten toegekend.
 
-#### Artikel 51. Rechtspositie in lid-landen
+##### Artikel 51. Rechtspositie in lid-landen
 
 Op het grondgebied van elk lid bezit de Bank onverkorte rechtspersoonlijkheid en in het bijzonder de bevoegdheid:
 
@@ -632,27 +654,27 @@ Op het grondgebied van elk lid bezit de Bank onverkorte rechtspersoonlijkheid en
 
 - c. rechtsgedingen te voeren.
 
-#### Artikel 52. Rechtshandelingen
+##### Artikel 52. Rechtshandelingen
 
 1. De Bank geniet immuniteit van iedere vorm van rechtsvordering behalve in gevallen voortvloeiend uit haar bevoegdheid te lenen, wanneer alleen een geding tegen haar kan worden aangespannen voor een bevoegde rechter op het grondgebied van een lid waar de Bank haar hoofdkantoor heeft, of op het grondgebied van een lid of een niet-Lid-Staat waar zij een vertegenwoordiger heeft aangesteld voor het aannemen van gerechtelijke aanzeggingen, of waardepapieren heeft uitgegeven of gegarandeerd. De Bank mag evenwel geen proces worden aangedaan door leden of personen die optreden voor of vorderingen hebben op leden.
 
 2. Eigendommen en activa van de Bank zijn vrij van iedere vorm van inbeslagneming, beslaglegging of executie vóór het uitspreken van een eindvonnis tegen de Bank, onverschillig waar zij zich bevinden en wie daarvan de houder is.
 
-#### Artikel 53. Immuniteit der activa en archieven
+##### Artikel 53. Immuniteit der activa en archieven
 
 1. Eigendommen en activa van de Bank zijn vrij van onderzoek, vordering, inbeslagneming, onteigening of andere vormen van beslaglegging of uitsluiting op last van de uitvoerende of wetgevende macht, onverschillig waar zij zich bevinden en wie daarvan de houder is.
 
 2. De archieven van de bank en, in het algemeen, alle documenten die zij bezit, of die bij haar berusten, zijn onschendbaar, waar zij zich ook bevinden.
 
-#### Artikel 54. Vrijstelling der activa van beperkende bepalingen
+##### Artikel 54. Vrijstelling der activa van beperkende bepalingen
 
 Voor zover voor de uitvoering der doeleinden en functies van de Bank nodig is, en behoudens de bepalingen van deze Overeenkomst, zijn alle eigendommen en andere activa van de Bank vrijgesteld van beperkingen, regelingen, controles en moratoria van welke aard ook.
 
-#### Artikel 55. Geprivilegieerde behandeling van mededelingen van de Bank
+##### Artikel 55. Geprivilegieerde behandeling van mededelingen van de Bank
 
 Officiële mededelingen van de Bank worden door de leden op dezelfde wijze behandeld als officiële mededelingen van enig ander lid.
 
-#### Artikel 56. Persoonlijke immuniteiten en voorrechten
+##### Artikel 56. Persoonlijke immuniteiten en voorrechten
 
 Alle bestuurders, bewindvoerders, plaatsvervangers, het leidinggevend en ander personeel van de Bank alsmede deskundigen en adviseurs die een missie voor de Bank vervullen:
 
@@ -662,7 +684,7 @@ Alle bestuurders, bewindvoerders, plaatsvervangers, het leidinggevend en ander p
 
 - iii. genieten dezelfde behandeling ten aanzien van reisfaciliteiten als door de leden aan de vertegenwoordigers, ambtenaren en employés van vergelijkbare rang van andere leden wordt toegekend.
 
-#### Artikel 57. Vrijstelling van belasting
+##### Artikel 57. Vrijstelling van belasting
 
 1. De Bank, haar bezittingen, andere activa, inkomsten en haar werkzaamheden en transacties zijn vrijgesteld van alle belastingen en douanerechten. De Bank is eveneens vrijgesteld van iedere verplichting betreffende de betaling, inhouding of inning van belastingen of heffingen.
 
@@ -680,17 +702,17 @@ Alle bestuurders, bewindvoerders, plaatsvervangers, het leidinggevend en ander p
 
 - ii. indien de plaats waar een kantoor van de Bank is gevestigd of waar zij haar bedrijf uitoefent, de enige rechtsgrond voor een dergelijke belasting zou zijn.
 
-#### Artikel 58. Kennisgeving van toepassing
+##### Artikel 58. Kennisgeving van toepassing
 
 Ieder lid geeft de Bank terstond kennis van de stappen die het speciaal heeft ondernomen om op zijn grondgebied aan de bepalingen van dit hoofdstuk uitvoering te geven.
 
-#### Artikel 59. Toepassing van immuniteiten, vrijstellingen en voorrechten
+##### Artikel 59. Toepassing van immuniteiten, vrijstellingen en voorrechten
 
 De in dit hoofdstuk genoemde immuniteiten, vrijstellingen en voorrechten worden verleend in het belang van de Bank. Het College van Bewindvoerders kan, in de mate en op de voorwaarden door dit College te bepalen, de in de artikelen 52, 54, 56 en 57 van deze Overeenkomst genoemde immuniteiten en vrijstellingen niet van kracht verklaren, wanneer zulks naar zijn mening in het belang van de Bank zou zijn. De president van de Bank heeft het recht en de plicht afstand te doen van de immuniteit van een personeelslid in gevallen waarin naar zijn mening deze immuniteit de rechtsgang zou belemmeren en er afstand van kan worden gedaan zonder het belang van de Bank te schaden.
 
 ### HOOFDSTUK VIII. WIJZIGINGEN, INTERPRETATIE, ARBITRAGE
 
-#### Artikel 60. Wijzigingen
+##### Artikel 60. Wijzigingen
 
 1. Elk voorstel tot wijziging van deze Overeenkomst, afkomstig van een lid, een bestuurder of het College van Bewindvoerders, wordt medegedeeld aan de Voorzitter van de Raad van Bestuur, die het voorstel voorlegt aan deze Raad. Indien de voorgestelde wijziging door de Raad wordt goedgekeurd, vraagt de Bank door middel van een rondschrijven, per fax of per telegram de leden of zij de voorgestelde wijziging aanvaarden. Wanneer tweederde van de leden met driekwart van het totale aantal stemmen van de leden, met inbegrip van tweederde van de regionale leden die driekwart van het totale aantal stemmen van de regionale leden bezitten, de voorgestelde wijziging hebben aanvaard, legt de Bank dit feit onverwijld vast in een aan de leden gerichte officiële mededeling.
 
@@ -708,7 +730,7 @@ De in dit hoofdstuk genoemde immuniteiten, vrijstellingen en voorrechten worden 
 
 5. Niettegenstaande het bepaalde in het eerste lid van dit artikel wordt uiterlijk drie jaar na de inwerkingtreding van deze Overeenkomst en in het licht van de ervaring van de Bank, de regel volgens welke ieder lid één stem heeft, aan een onderzoek onderworpen door de Raad van Bestuur of door een bijeenkomst van de Staatshoofden van de lid-landen overeenkomstig de voorwaarden van toepassing bij de aanvaarding van deze Overeenkomst.
 
-#### Artikel 61. Interpretatie
+##### Artikel 61. Interpretatie
 
 1. De Engelse en de Franse tekst van deze Overeenkomst worden als gelijkelijk authentiek beschouwd.
 
@@ -716,19 +738,19 @@ De in dit hoofdstuk genoemde immuniteiten, vrijstellingen en voorrechten worden 
 
 3. In elk geval waarin het College van Bewindvoerders volgens het tweede lid van dit artikel een beslissing heeft genomen, kan een lid verzoeken de zaak te verwijzen naar de Raad van Bestuur, aan wie - volgens een overeenkomstig artikel 31, derde lid, van deze Overeenkomst te bepalen procedure - binnen drie maanden een beslissing wordt gevraagd. Deze beslissing is definitief.
 
-#### Artikel 62. Arbitrage
+##### Artikel 62. Arbitrage
 
 Wanneer er een geschil is tussen de Bank en een voormalig lid, of tussen de Bank en een lid bij de beëindiging van de werkzaamheden van de Bank, wordt een dergelijk geschil onderworpen aan arbitrage door een tribunaal van drie scheidsmannen. Elke partij benoemt een scheidsman en de twee aldus benoemde scheidsmannen benoemen een derde scheidsman die tevens voorzitter zal zijn. Indien binnen dertig dagen na het verzoek om arbitrage een van de partijen geen scheidsman heeft benoemd, of indien binnen vijftien dagen na de benoeming van de twee scheidsmannen geen derde is benoemd, kan elk van beide partijen de Voorzitter van het Internationaal Gerechtshof of een andere overeenkomstig door de Raad van Bestuur aangenomen regels voorgeschreven autoriteit verzoeken een scheidsman te benoemen. De procedure wordt vastgesteld door de scheidsmannen. De derde scheidsman is evenwel volledig bevoegd alle procedurele kwesties te regelen in geval van meningsverschillen daaromtrent. Een meerderheid van stemmen van de scheidsmannen volstaat om tot een onherroepelijke en voor de partijen bindende beslissing te komen.
 
 ### HOOFDSTUK IX. SLOTBEPALINGEN
 
-#### Artikel 63. Ondertekening en nederlegging
+##### Artikel 63. Ondertekening en nederlegging
 
 1. Deze Overeenkomst, nedergelegd bij de Secretaris-Generaal van de Verenigde Naties (hierna te noemen de „Depositaris”) blijft tot 31 december 1963 openstaan voor ondertekening door de Regeringen van de Staten wier naam is vermeld in Bijlage A bij deze Overeenkomst.
 
 2. De Depositaris doet alle ondertekenaars een gewaarmerkt afschrift van deze Overeenkomst toekomen.
 
-#### Artikel 64. Bekrachtiging, aanvaarding, toetreding en verwerving van lidmaatschap
+##### Artikel 64. Bekrachtiging, aanvaarding, toetreding en verwerving van lidmaatschap
 
 - a. Deze Overeenkomst dient door de ondertekenaars te worden bekrachtigd of aanvaard. De akten van bekrachtiging of aanvaarding worden door de ondertekenende Regeringen bij de Depositaris nedergelegd voor 1 juli 1965. De Depositaris stelt de andere ondertekenaars in kennis van elke nederlegging en van de datum waarop deze is geschied.
 
@@ -738,11 +760,11 @@ Wanneer er een geschil is tussen de Bank en een voormalig lid, of tussen de Bank
 
 3. Bij nederlegging van zijn akte van bekrachtiging of aanvaarding kan een lid verklaren dat het voor zichzelf en zijn politieke onderdelen het recht voorbehoudt belasting te heffen op de door de Bank aan onderdanen of ingezetenen van dat lid betaalde salarissen en emolumenten.
 
-#### Artikel 65. Inwerkingtreding
+##### Artikel 65. Inwerkingtreding
 
 Deze Overeenkomst treedt in werking na nederlegging van akten van bekrachtiging of aanvaarding door twaalf ondertekenende Regeringen wier aanvankelijke inschrijvingen, zoals vervat in Bijlage A bij deze Overeenkomst, te zamen niet minder dan vijenzestig procent van het maatschappelijk kapitaal van de Bank omvatten; met dien verstande evenwel dat 1 januari 1964 de vroegste datum is waarop deze Overeenkomst in werking kan treden overeenkomstig het bepaalde in dit artikel.
 
-#### Artikel 66. Begin van de werkzaamheden
+##### Artikel 66. Begin van de werkzaamheden
 
 1. Zodra deze Overeenkomst in werking is getreden, benoemt elk lid een bestuurder en de hiertoe en voor het doel vermeld in artikel 7, vijfde lid, benoemde Trustee belegt de eerste vergadering van de Raad van Bestuur.
 
@@ -754,11 +776,11 @@ Deze Overeenkomst treedt in werking na nederlegging van akten van bekrachtiging 
 
 3. De Bank stelt de leden in kennis van de datum waarop zij haar werkzaamheden zal aanvangen.
 
-#### 1. Ondeelbare stem
+##### 1. Ondeelbare stem
 
 Bij de verkiezing van bewindvoerders brengt iedere bestuurder alle stemmen van het lid dat hij vertegenwoordigt op één enkele persoon uit.
 
-#### 2. Regionale Bewindvoerders
+##### 2. Regionale Bewindvoerders
 
 a. De twaalf personen die het hoogste aantal stemmen op zich verenigen van de bestuurders die de regionale leden vertegenwoordigen, zijn tot bewindvoerder verkozen, met die uitzondering dat degene die minder dan acht procent van het totale aantal stemmen van de regionale leden op zich heeft verenigd, niet als gekozen wordt beschouwd.
 
@@ -774,7 +796,7 @@ b. Indien bij de eerste stemming geen twaalf personen worden gekozen, vindt een 
 
 d. Indien na de tweede stemming geen 12 personen zijn gekozen, worden verdere stemmingen gehouden in overeenstemming met de beginselen neergelegd in deze Bijlage behalve dat nadat 11 personen zijn gekozen, de twaalfde - niettegenstaande de bepalingen van paragraaf 2a van deze Bijlage - bij enkelvoudige meerderheid van de overgebleven stemmen kan worden gekozen. Al zulke overblijvende stemmen worden geacht te hebben geteld voor de verkiezing van de twaalfde bewindvoerder.
 
-#### 3. Niet-regionale Bewindvoerders
+##### 3. Niet-regionale Bewindvoerders
 
 a. De zes personen die het hoogste aantal stemmen op zich verenigen van de bestuurders die de niet-regionale leden vertegenwoordigen, zijn tot bewindvoerder gekozen, behalve dat degene die minder dan veertien procent van het totale aantal stemmen van de niet-regionale leden op zich heeft verenigd, niet als gekozen wordt beschouwd.
 
@@ -810,7 +832,7 @@ Voorts erkennend de noodzaak dat de huidige leden van de Bank een deel van de ni
 
 Besluit als volgt:
 
-#### Artikel 1. Voorwaarden voor niet-regionaal lidmaatschap
+##### Artikel 1. Voorwaarden voor niet-regionaal lidmaatschap
 
 Niet-regionale landen die lid van het Afrikaanse Ontwikkelingsfonds zijn of worden of die bijdragen leveren of hebben geleverd aan het Afrikaanse Ontwikkelingsfonds op voorwaarden die soortgelijk zijn aan de voorwaarden van de Overeenkomst tot oprichting van het Afrikaanse Ontwikkelingsfonds, kunnen oorspronkelijke niet-regionale leden van de Bank worden, mits op 1 januari 1981, of op een door het College van Bewindvoerders te bepalen latere datum, aan de volgende voorwaarden is voldaan:
 
@@ -820,7 +842,7 @@ Niet-regionale landen die lid van het Afrikaanse Ontwikkelingsfonds zijn of word
 
 - (c). Ten minste tien niet-regionale landen, met inbegrip van niet minder dan vier landen waarvan de individuele bijdragen aan het Afrikaanse Ontwikkelingsfonds niet minder dan elk 40 miljoen RE bedragen, door de nederlegging van akten bij de Bank ermede hebben ingestemd in te schrijven op een totaal bedrag van 90.000 kapitaalaandelen overeenkomstig artikel 2 van deze Resolutie. De inschrijvingen op het kapitaal door elk van de niet-regionale landen dienen in een redelijke verhouding te staan tot hun onderscheiden bijdragen aan het Afrikaanse Ontwikkelingsfonds en dienen de bedragen te zijn als vermeld in het hieraan gehechte Aanhangsel I.
 
-#### Artikel 2. Inschrijvingen op het kapitaal
+##### Artikel 2. Inschrijvingen op het kapitaal
 
 a. De in het hieraan gehechte Aanhangsel I opgesomde niet-regionale landen kunnen inschrijven tot een totaal van 175.000 aandelen in het kapitaal;
 
@@ -842,7 +864,7 @@ d. De inschrijving van elk land op het niet-volgestorte kapitaal geschiedt op de
 
 e. Elk land is gerechtigd de stemmen uit te brengen die het totale aantal aandelen vertegenwoordigen waarop dat land heeft ingeschreven, met dien verstande evenwel dat in het geval van een gedeeltelijk of geheel te kort schieten in de betaling van een termijn van de inschrijving voor het volgestorte kapitaal, het aantal stemmen dat zulk een lid gerechtigd is uit te brengen, wordt verminderd naar verhouding van het tekort tot de totale inschrijving op het volgestorte kapitaal, tot het tijdstip waarop het tekort is aangezuiverd.
 
-#### Artikel 3. Vereisten voor niet-regionaal lidmaatschap
+##### Artikel 3. Vereisten voor niet-regionaal lidmaatschap
 
 Een niet-regionaal land wordt lid van de Bank wanneer:
 
@@ -858,15 +880,15 @@ Een niet-regionaal land wordt lid van de Bank wanneer:
 
 - (iii). Het land tegenover de Bank heeft aangetoond dat het alle nodige stappen heeft gedaan ter ondertekening van de Overeenkomst en ter nederlegging van een akte van aanvaarding of bekrachtiging, zoals bedoeld onder (i) en (ii) hierboven en dat het de Bank de door haar gevraagde informatie betreffende deze stappen heeft verstrekt.
 
-#### Artikel 4. Andere niet-regionale landen
+##### Artikel 4. Andere niet-regionale landen
 
 Andere niet-regionale landen die niet zijn opgesomd in Aanhangsel I kunnen niet-regionaal lid van de Bank worden overeenkomstig door de Raad van Bestuur vast te stellen voorwaarden. De inschrijvingen van deze andere niet-regionale landen en hun onderscheiden bijdragen aan het Afrikaanse Ontwikkelingsfonds dienen te zijn het aantal aandelen in het volgestorte en niet-volgestorte kapitaal en de bijdragen aan het Afrikaanse Ontwikkelingsfonds, zoals door de Raad van Bestuur vast te stellen met inachtneming van de voorwaarden voor de inschrijvingen en bijdragen van de niet-regionale landen, opgesomd in Aanhangsel I.
 
-#### Artikel 5. Kapitaal waarop niet is ingeschreven
+##### Artikel 5. Kapitaal waarop niet is ingeschreven
 
 Op kapitaal, zoals bedoeld in artikel 2, letter a, van deze Algemene Regels waarop niet binnen twee jaar te rekenen van de datum waarop deze Algemene Regels in werking zijn getreden, is ingeschreven door de in Aanhangsel I opgesomde niet-regionale landen of door andere niet-regionale landen zoals bedoeld in artikel 4, kan worden ingeschreven door de niet-regionale Lid-Staten die op dat tijdstip lid zijn. Elk niet-regionaal lid heeft het recht in te schrijven op een deel van de beschikbare aandelen dat gelijk is aan de verhouding waarin de aandelen waarvoor het reeds heeft ingeschreven staan tot het totale geplaatste kapitaal van de niet-regionale leden. Bij elke inschrijving dient de verhouding van volgestort tot niet-volgestort kapitaal te worden gehandhaafd, alsook een billijke verhouding tussen de bijdragen aan het Afrikaanse Ontwikkelingsfonds en de in deze Algemene Regels vastgelegde inschrijving op het maatschappelijk kapitaal.
 
-#### Artikel 6. Bijzonder quorum, aantal stemmen en vertegenwoordiging
+##### Artikel 6. Bijzonder quorum, aantal stemmen en vertegenwoordiging
 
 a. De goedkeuring van een meerderheid van het totale aantal Bestuurders van niet-regionale leden die niet minder dan drie vierde van het totale aantal stemmen van de niet-regionale lid-landen vertegenwoordigen, is vereist voor de goedkeuring van een wijziging van de Overeenkomst waarbij wordt gewijzigd:
 
@@ -884,11 +906,11 @@ b. Het deel van het aantal stemhebbende aandelen waarop door de niet-regionale l
 
 c. In de Algemene Statuten of het Huishoudelijk Reglement van het College van Bewindvoerders dient te worden voorzien in de benoeming van een tijdelijke Bewindvoerder die voor de Bewindvoerder kan optreden wanneer de Bewindvoerder en zijn plaatsvervanger niet beschikbaar zijn om een vergadering van het College van Bewindvoerders bij te wonen.
 
-#### Artikel 7. Handhaving van de waarde1)Bij de bepaling van de tegenwaarde in Rekeneenheden van de Bank van de verschillende valuta's waarin de inschrijvingen ingevolge deze Regels worden verricht, worden de nationale valuta's omgerekend tegen de op 17 mei 1979 geldende koers, zoals vastgesteld door het Internationale Monetaire Fonds en aan deze Regels gehecht, en dan omgezet in Rekeneenheden van de Bank tegen de omrekeningskoers van 1 Rekeneenheid van de Bank = US $ 1,20635.
+##### Artikel 7. Handhaving van de waarde1)Bij de bepaling van de tegenwaarde in Rekeneenheden van de Bank van de verschillende valuta's waarin de inschrijvingen ingevolge deze Regels worden verricht, worden de nationale valuta's omgerekend tegen de op 17 mei 1979 geldende koers, zoals vastgesteld door het Internationale Monetaire Fonds en aan deze Regels gehecht, en dan omgezet in Rekeneenheden van de Bank tegen de omrekeningskoers van 1 Rekeneenheid van de Bank = US $ 1,20635.
 
 Indien de wijziging waarbij het Bijzondere Trekkingsrecht (SDR) de waarde-eenheid voor de Afrikaanse Ontwikkelingsbank wordt (Resolutie 06-78) niet voor 19 mei 1979 wordt bekrachtigd, wordt de bekrachtigingsprocedure uitgesteld voor twee jaar, te rekenen van de datum waarop deze Algemene Regels in werking zijn getreden. Er zal geen verplichting bestaan tot handhaving van de waarde ten aanzien van volgestort of niet-volgestort kapitaal tot het tijdstip waarop het College van Bewindvoerders van de Afrikaanse Ontwikkelingsbank vaststelt dat het SDR definitief wordt toegepast als waarde-eenheid die van toepassing is op inschrijvingen van leden in de Wereldbank (IBRD) ten behoeve van de bepalingen in het Statuut van de IBRD inzake de handhaving van de waarde. Voor zover de waarde niet wordt gehandhaafd, zal bij de volgende kapitaalverhoging over een aanpassing van de stemmen worden gesproken, niettegenstaande de rechten van voorkoop.
 
-#### Artikel 8. Inwerkingtreding
+##### Artikel 8. Inwerkingtreding
 
 Deze Algemene Regels treden eerst in werking nadat het College van Bewindvoerders heeft vastgesteld dat aan alle voorwaarden in artikel 1 van deze Regels is voldaan en nadat de President heeft verklaard dat ten minste tien niet-regionale landen aan alle vereisten in artikel 3, letter c, van deze Regels hebben voldaan.
 

@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel Meldingsformulier transacties in financiële instrumenten in de eigen uigevende instelling"
+title: "Beleidsregel Wet op het financieel toezicht 06-02 van de Stichting Autoriteit Financiële Markten van 12 december 2006 inzake het meldingsformulier transacties in financiële instrumenten in de eigen uitgevende instelling als bedoeld in artikel 5:60"
 identifier: "BWBR0020754"
-categorie: "Overig"
-publicatiedatum: 2007-01-01
-laatste_update: 2007-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020754"
+country: "nl"
+rank: "zbo"
+publication_date: "2007-01-01"
+last_updated: "2007-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020754"
+soort: "zbo"
+stam_id: "8795043"
+version_id: "13938802"
+internal_id: "C18958061"
+label_id: "8774804"
+dtd_version: "2.0"
+original_entry_into_force: "2007-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020754/2007-01-01/0"
+intitule_bron: "Stcrt.2006-248"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-12-12"
+intitule_published: "2006-12-20"
+intitule_in_force: "2006-12-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-248"
+original_signed_date: "2006-12-12"
+original_published_date: "2006-12-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-248-p42-SC78386"
+entry_into_force_date: "2007-01-01"
+jci_1_3: "jci1.3:c:BWBR0020754&z=2007-01-01&g=2007-01-01"
+jci_1_0: "1.0:c:BWBR0020754&g=2007-01-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel Meldingsformulier transacties in financiële instrumenten in de eigen uigevende instelling"
+signed_date: "2006-12-12"
+entry_into_force: "2007-01-01"
 ---
-
 # Beleidsregel Wet op het financieel toezicht 06-02 van de Stichting Autoriteit Financiële Markten van 12 december 2006 inzake het meldingsformulier transacties in financiële instrumenten in de eigen uitgevende instelling als bedoeld in artikel 5:60
 
 ### Wettelijk kader

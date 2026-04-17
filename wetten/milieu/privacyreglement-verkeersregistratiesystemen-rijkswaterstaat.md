@@ -1,13 +1,37 @@
 ---
 title: "Privacyreglement verkeersregistratiesystemen Rijkswaterstaat"
 identifier: "BWBR0015302"
-categorie: "Milieu"
-publicatiedatum: 2003-07-11
-laatste_update: 2003-07-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015302"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2003-07-11"
+last_updated: "2003-07-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015302"
+soort: "ministeriele-regeling"
+stam_id: "5059893"
+version_id: "9124152"
+internal_id: "C12131081"
+label_id: "5035864"
+dtd_version: "2.0"
+original_entry_into_force: "2003-07-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015302/2003-07-11/0"
+intitule_bron: "Stcrt.2003-129"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-07-01"
+intitule_published: "2003-07-09"
+intitule_in_force: "2003-07-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2003-129"
+original_signed_date: "2003-07-01"
+original_published_date: "2003-07-09"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2003-07-11"
+jci_1_3: "jci1.3:c:BWBR0015302&z=2003-07-11&g=2003-07-11"
+jci_1_0: "1.0:c:BWBR0015302&g=2003-07-11"
+citeertitel_status: "officieel"
+signed_date: "2003-07-01"
+entry_into_force: "2003-07-11"
 ---
-
 # Privacyreglement verkeersregistratiesystemen Rijkswaterstaat
 
 Overwegende:
@@ -36,7 +60,7 @@ dat publicatie van dit reglement in de plaats komt van een dergelijke plaatselij
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -52,11 +76,11 @@ In dit besluit wordt verstaan onder:
 
 - f. **IVS90:** het Informatie- en Volgsysteem voor de Scheepvaart zoals beschreven in de bijlage bij dit besluit, met inbegrip van alle aan IVS90 gekoppelde systemen waaronder SITOS, BRIDGE en BICS en de opvolgers van bedoelde systemen.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit regelt de taken en bevoegdheden van de verantwoordelijke met betrekking tot de verwerking van persoonsgegevens, verkregen door het gebruik van verkeersregistratiesystemen die op, in of bij waterstaatswerken zijn geplaatst.
 
-#### Artikel 3
+##### Artikel 3
 
 Het doel van de verwerking van persoonsgegevens verkregen door verkeersregistratiesystemen, is het beheer van waterstaatswerken, in het bijzonder:
 
@@ -66,7 +90,7 @@ Het doel van de verwerking van persoonsgegevens verkregen door verkeersregistrat
 
 - c. het verrichten van noodzakelijke studies en onderzoeken en het verwerken van persoonsgegevens voor statistische en beleidsdoeleinden.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De beheerder is verantwoordelijk voor het beheer van de persoonsgegevens en treft daartoe passende technische en organisatorische maatregelen, nodig om de persoonsgegevens te beveiligen tegen verlies of tegen enige vorm van onrechtmatige verwerking.
 
@@ -74,7 +98,7 @@ Het doel van de verwerking van persoonsgegevens verkregen door verkeersregistrat
 
 3. Slechts de door de beheerder aangewezen ambtenaren hebben rechtstreeks toegang tot de persoonsgegevens.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Uitsluitend natuurlijke of rechtspersonen van wie persoonsgegevens zijn verzameld kunnen de beheerder verzoeken inzage te verkrijgen in de omtrent hen opgeslagen gegevens dan wel verzoeken deze gegevens te corrigeren.
 
@@ -92,7 +116,7 @@ Het doel van de verwerking van persoonsgegevens verkregen door verkeersregistrat
 
 - d. welke gegevens het betrof.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De beheerder weigert derden inzage en verstrekking van de persoonsgegevens, tenzij het betreft:
 
@@ -130,13 +154,13 @@ Het doel van de verwerking van persoonsgegevens verkregen door verkeersregistrat
 
 - e. naam en adres van de verzoeker.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Persoonsgegevens worden niet langer dan dertig dagen na vastlegging bewaard. Voor het IVS90 geldt de regeling zoals beschreven in de bijlage.
 
 2. Voor zover dit voortvloeit uit de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015302&artikel=3&z=2003-07-11&g=2003-07-11) omschreven doelen en er sprake is van bijzondere omstandigheden of incidenten kunnen de persoonsgegevens langer dan de termijn bedoeld in het eerste lid worden bewaard. Deze bewaring mag echter niet langer duren dan noodzakelijk is.
 
-#### Artikel 8
+##### Artikel 8
 
 De persoonsgegevens worden niet gekoppeld aan andere persoonsgegevens behoudens:
 
@@ -144,7 +168,7 @@ De persoonsgegevens worden niet gekoppeld aan andere persoonsgegevens behoudens:
 
 - b. het bepaalde in de bijlage omtrent het IVS90.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst.
 

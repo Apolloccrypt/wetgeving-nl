@@ -1,13 +1,38 @@
 ---
-title: "Erkenningsregeling geschillencommissies consumentenklachten 1997"
+title: "Erkenningsregeling geschillen- commissies consumentenklachten 1997"
 identifier: "BWBR0008448"
-categorie: "Overig"
-publicatiedatum: 2012-10-19
-laatste_update: 2012-10-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008448"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2012-10-19"
+last_updated: "2012-10-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008448"
+soort: "ministeriele-regeling"
+stam_id: "3530843"
+version_id: "5314092"
+internal_id: "C5507181"
+label_id: "3510964"
+dtd_version: "2.0"
+original_entry_into_force: "1997-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008448/2012-10-19/0"
+intitule_bron: "Stcrt.1996-248"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-12-19"
+intitule_published: "1996-12-23"
+intitule_in_force: "1996-12-23"
+intitule_status: "goed"
+original_publication: "Stcrt.1996-248"
+original_signed_date: "1996-12-19"
+original_published_date: "1996-12-23"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1997-01-01"
+jci_1_3: "jci1.3:c:BWBR0008448&z=2012-10-19&g=2012-10-19"
+jci_1_0: "1.0:c:BWBR0008448&g=2012-10-19"
+citeertitel_status: "officieel"
+short_title: "Erkenningsregeling geschillencommissies consumentenklachten 1997"
+signed_date: "1996-12-19"
+entry_into_force: "1997-01-01"
 ---
-
 # Erkenningsregeling geschillen- commissies consumentenklachten 1997
 
 Overwegende, dat het gewenst is een goede consumentenklachtenbehandeling te bevorderen;
@@ -16,7 +41,7 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -34,13 +59,13 @@ In deze regeling wordt verstaan onder:
 
 - g. **Stichting:** de Stichting Geschillencommissies voor Consumentenzaken (SGC), zijnde de overkoepelende organisatie voor instelling en instandhouding van erkende onafhankelijke geschillencommissies voor consumentenklachten.
 
-#### Artikel 2
+##### Artikel 2
 
 De Minister erkent een geschillencommissie op een overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008448&paragraaf=3&artikel=5&z=2012-10-19&g=2012-10-19) ingediende aanvraag en met inachtneming van het bepaalde in deze regeling, indien deze commissie naar zijn oordeel in voldoende mate zal bijdragen tot het oplossen van geschillen, die hun oorsprong vinden in consumentenklachten en indien deze commissie voldoet aan het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008448&paragraaf=2&z=2012-10-19&g=2012-10-19).
 
 #### § 2. Eisen ten aanzien van erkenning
 
-#### Artikel 3
+##### Artikel 3
 
 1. De bij de geschillencommissie aangesloten ondernemers dienen tot dezelfde branche te behoren.
 
@@ -52,7 +77,7 @@ De Minister erkent een geschillencommissie op een overeenkomstig [artikel 5](htt
 
 5. De Stichting stuurt een schriftelijk verzoek tot erkenning van de bij de Stichting aan te sluiten geschillencommissie aan de Minister.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De samenstelling van de geschillencommissie geschiedt met inachtneming van de volgende voorschriften:
 
@@ -100,19 +125,19 @@ De Minister erkent een geschillencommissie op een overeenkomstig [artikel 5](htt
 
 #### § 3. Aanvraag voor erkenning
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een aanvraag voor erkenning van een geschillencommissie dient bij de Minister te worden ingediend.
 
 2. De aanvraag dient informatie te bevatten over het aantal en marktaandeel van de bij de geschillencommissies aangesloten ondernemers en van gegevens waaruit blijkt dat aan het bepaalde in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008448&paragraaf=2&z=2012-10-19&g=2012-10-19) is voldaan.
 
-#### Artikel 6
+##### Artikel 6
 
 De Minister beslist op de aanvraag binnen 6 maanden nadat de aanvraag is ingediend. Van de beslissing wordt mededeling gedaan in de Staatscourant.
 
 #### § 4. Erkenning
 
-#### Artikel 7
+##### Artikel 7
 
 1. Een erkenning van een geschillencommissie geschiedt onder de volgende voorwaarden:
 
@@ -124,7 +149,7 @@ De Minister beslist op de aanvraag binnen 6 maanden nadat de aanvraag is ingedie
 
 #### § 5. Intrekking van erkenning
 
-#### Artikel 8
+##### Artikel 8
 
 1. De Minister kan een erkenning intrekken:
 
@@ -138,21 +163,21 @@ De Minister beslist op de aanvraag binnen 6 maanden nadat de aanvraag is ingedie
 
 2. Alvorens een beslissing tot intrekking te nemen hoort de Minister de geschillencommissie dan wel één of meer vertegenwoordigers daarvan, alsmede de overige naar zijn oordeel belanghebbenden.
 
-#### Artikel 9
+##### Artikel 9
 
 Van een beslissing tot intrekking van een erkenning van een geschillencommissie wordt mededeling gedaan in de Staatscourant.
 
 #### § 6. Slot- en overgangsbepalingen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Deze regeling treedt in werking met ingang van 1 januari 1997.
 
-#### Artikel 12
+##### Artikel 12
 
 Deze regeling wordt aangehaald als: Erkenningsregeling geschillencommissies consumentenklachten 1997.
 

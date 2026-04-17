@@ -1,13 +1,39 @@
 ---
-title: "Tijdelijk besluit digitale toegankelijkheid overheid"
+title: "Besluit van 3 mei 2018, houdende tijdelijke regels betreffende de toegankelijkheid van de websites en mobiele applicaties van overheidsinstanties (Tijdelijk besluit digitale toegankelijkheid overheid)"
 identifier: "BWBR0040936"
-categorie: "Bestuursrecht"
-publicatiedatum: 2018-07-01
-laatste_update: 2018-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040936"
+country: "nl"
+rank: "amvb"
+publication_date: "2018-07-01"
+last_updated: "2018-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040936"
+soort: "AMvB"
+stam_id: "14615563"
+version_id: "25025252"
+internal_id: "C35790011"
+label_id: "14569094"
+dtd_version: "2.0"
+original_entry_into_force: "2018-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040936/2018-07-01/0"
+intitule_bron: "Stb.2018-141"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-05-03"
+intitule_published: "2018-05-24"
+intitule_in_force: "2018-05-24"
+intitule_status: "goed"
+original_publication: "Stb.2018-141"
+original_signed_date: "2018-05-03"
+original_published_date: "2018-05-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2018-141"
+entry_into_force_date: "2018-07-01"
+jci_1_3: "jci1.3:c:BWBR0040936&z=2018-07-01&g=2018-07-01"
+jci_1_0: "1.0:c:BWBR0040936&g=2018-07-01"
+citeertitel_status: "officieel"
+short_title: "Tijdelijk besluit digitale toegankelijkheid overheid"
+signed_date: "2018-05-03"
+entry_into_force: "2018-07-01"
 ---
-
 # Besluit van 3 mei 2018, houdende tijdelijke regels betreffende de toegankelijkheid van de websites en mobiele applicaties van overheidsinstanties (Tijdelijk besluit digitale toegankelijkheid overheid)
 
 Op de voordracht van Onze Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 8 februari 2018, nr. 0000091712/CZW/SB;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -46,7 +72,7 @@ In dit besluit wordt verstaan onder:
 
 - **website:** verzameling samenhangende webpagina’s met content, zoals tekst, afbeeldingen of video’s.
 
-#### Artikel 2. Reikwijdte
+##### Artikel 2. Reikwijdte
 
 1. Dit besluit is niet van toepassing op websites en mobiele applicaties van:
 
@@ -74,7 +100,7 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 2. Toegankelijkheid
 
-#### Artikel 3. Toepassing
+##### Artikel 3. Toepassing
 
 1. Overheidsinstanties maken hun websites en mobiele applicaties toegankelijk door toepassing van standaard EN 301 549. Een wijziging of vervanging van deze standaard volgens de procedure van artikel 6, eerste, tweede of vierde lid, van richtlijn (EU) 2016/2102 gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven.
 
@@ -88,13 +114,13 @@ In dit besluit wordt verstaan onder:
 
 4. Een overheidsinstantie die van mening is dat sprake is van een onevenredige last, maakt in de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040936&hoofdstuk=2&artikel=4&z=2018-07-01&g=2018-07-01) bedoelde toegankelijkheidsverklaring kenbaar aan welke toegankelijkheidseisen niet wordt voldaan en biedt toegankelijke alternatieven.
 
-#### Artikel 4. Toegankelijkheidsverklaring
+##### Artikel 4. Toegankelijkheidsverklaring
 
 Overheidsinstanties publiceren op hun website of bij het downladen van een mobiele applicatie, volgens het daartoe door Onze Minister vastgestelde en gepubliceerde model, een actuele verklaring over de conformiteit van hun website of mobiele applicatie met dit besluit.
 
 ### Hoofdstuk 3. Monitoring en rapportage
 
-#### Artikel 5. Monitoring en rapportage
+##### Artikel 5. Monitoring en rapportage
 
 1. Onze Minister draagt zorg voor monitoring en rapportage inzake de naleving van dit besluit.
 
@@ -116,7 +142,7 @@ Overheidsinstanties publiceren op hun website of bij het downladen van een mobie
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 6. Gefaseerde toepassing
+##### Artikel 6. Gefaseerde toepassing
 
 Aan de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040936&hoofdstuk=2&artikel=3&z=2018-07-01&g=2018-07-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0040936&hoofdstuk=2&artikel=4&z=2018-07-01&g=2018-07-01) wordt:
 
@@ -126,11 +152,11 @@ Aan de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040936&hoofdstuk=2
 
 - c. wat betreft mobiele applicaties uiterlijk 23 juni 2021 voldaan.
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 juli 2018.
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Dit besluit wordt aangehaald als: Tijdelijk besluit digitale toegankelijkheid overheid.
 

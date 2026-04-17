@@ -1,14 +1,37 @@
 ---
-title: "Wet algemene regels herindeling"
+title: "Wet van 24 oktober 1984, houdende algemene regelen in verband met wijziging van de gemeentelijke indeling"
 identifier: "BWBR0003718"
-categorie: "Overig"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003718"
+country: "nl"
+rank: "wet"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003718"
+soort: "wet"
+stam_id: "2753463"
+version_id: "4210072"
+internal_id: "C4210071"
+label_id: "2701454"
+dtd_version: "2.0"
+original_entry_into_force: "1984-11-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003718/2024-01-01/0"
+intitule_bron: "Stb.1984-475"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1984-10-24"
+intitule_status: "goed"
+original_publication: "Stb.1984-475"
+original_signed_date: "1984-10-24"
+original_effect: "nieuwe-regeling"
+original_dossier: "16405"
+entry_into_force_date: "1984-11-08"
+jci_1_3: "jci1.3:c:BWBR0003718&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0003718&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet algemene regels herindeling"
+signed_date: "1984-10-24"
+entry_into_force: "1984-11-08"
 ---
-
-# Wet algemene regels herindeling
+# Wet van 24 oktober 1984, houdende algemene regelen in verband met wijziging van de gemeentelijke indeling
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +41,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze wet wordt verstaan onder:
 
@@ -46,7 +69,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - b. het voorstel voor een herindelingsregeling aan de ministerraad wordt gezonden, indien het betreft een herindelingsregeling waarvan de voorbereiding geschiedt door Onze Minister.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Bij een herindelingsontwerp, een herindelingsadvies en een herindelingsregeling zijn een of meer kaarten gevoegd waarop de wijzigingen van de provincie- of gemeentegrenzen zijn aangegeven.
 
@@ -58,7 +81,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een wijziging van de gemeentelijke indeling geschiedt bij wet.
 
@@ -76,7 +99,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - b. bij algemene maatregel van bestuur of bij wet.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een herindelingsadvies met betrekking tot een wijziging van de gemeentelijke indeling wordt door provinciale staten vastgesteld.
 
@@ -86,7 +109,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### Paragraaf 2. Voorbereidingen door gemeenten
 
-#### Artikel 5
+##### Artikel 5
 
 1. Bij de voorbereiding van een herindelingsregeling tot grenscorrectie als bedoeld in [artikel 3, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=II&paragraaf=1&artikel=3&z=2024-01-01&g=2024-01-01), of van een herindelingsadvies met betrekking tot een wijziging van de gemeentelijke indeling als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=II&paragraaf=1&artikel=4&z=2024-01-01&g=2024-01-01), stellen de raden van de betrokken gemeenten gezamenlijk een herindelingsontwerp vast en zenden dit aan gedeputeerde staten.
 
@@ -96,17 +119,17 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 4. De gemeenteraad onderscheidenlijk burgemeester en wethouders treffen op grond van dit artikel geen voorbereidingen voor een wijziging van de grenzen van de gemeente na het tijdstip waarop gedeputeerde staten of Onze Minister hebben medegedeeld dat door hen werkzaamheden ter hand zijn genomen in verband met de voorbereiding van een wijziging van de grenzen van de gemeente.
 
-#### Artikel 6
+##### Artikel 6
 
 Indien Onze Minister besluit op basis van een herindelingsadvies een voorstel voor een herindelingsregeling te doen, zendt hij het voorstel aan de ministerraad binnen vier maanden na ontvangst van het herindelingsadvies.
 
 #### Paragraaf 3. Voorbereidingen door provincies
 
-#### Artikel 7
+##### Artikel 7
 
 De voorbereiding van een herindelingsregeling tot grenscorrectie als bedoeld in [artikel 3, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=II&paragraaf=1&artikel=3&z=2024-01-01&g=2024-01-01), of van een herindelingsadvies met betrekking tot een wijziging van de gemeentelijke indeling als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=II&paragraaf=1&artikel=4&z=2024-01-01&g=2024-01-01), geschiedt met toepassing van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=II&paragraaf=3&artikel=8&z=2024-01-01&g=2024-01-01).
 
-#### Artikel 8
+##### Artikel 8
 
 1. Gedeputeerde staten stellen burgemeester en wethouders van de betrokken gemeenten in de gelegenheid met hen overleg te voeren over de wens tot grenscorrectie of tot wijziging van de gemeentelijke indeling. Het overleg duurt ten hoogste zes maanden.
 
@@ -118,7 +141,7 @@ De voorbereiding van een herindelingsregeling tot grenscorrectie als bedoeld in 
 
 5. De herindelingsregeling of het herindelingsadvies wordt vastgesteld uiterlijk vier maanden na afloop van de termijn, bedoeld in het vierde lid. Een vastgesteld herindelingsadvies wordt aan Onze Minister gezonden. Van de vaststelling van een herindelingsregeling wordt aan Onze Minister mededeling gedaan.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De voorbereiding van een herindelingsregeling tot een grenscorrectie die gepaard gaat met een wijziging van een provinciegrens als bedoeld in [artikel 3, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=II&paragraaf=1&artikel=3&z=2024-01-01&g=2024-01-01), of van een daartoe strekkend herindelingsadvies als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=II&paragraaf=1&artikel=4&z=2024-01-01&g=2024-01-01), geschiedt met overeenkomstige toepassing van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=II&paragraaf=3&artikel=8&z=2024-01-01&g=2024-01-01), met dien verstande dat:
 
@@ -128,17 +151,17 @@ De voorbereiding van een herindelingsregeling tot grenscorrectie als bedoeld in 
 
 2. Het herindelingsontwerp wordt tevens toegezonden aan de betrokken waterschapsbesturen.
 
-#### Artikel 10
+##### Artikel 10
 
 Gedeputeerde staten treffen op grond van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=II&paragraaf=3&artikel=8&z=2024-01-01&g=2024-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=II&paragraaf=3&artikel=9&z=2024-01-01&g=2024-01-01) geen voorbereidingen voor een wijziging van de grenzen van een gemeente na het tijdstip waarop Onze Minister heeft medegedeeld dat door hem werkzaamheden ter hand zijn genomen in verband met de voorbereiding van een wijziging van de grenzen van de gemeente.
 
-#### Artikel 11
+##### Artikel 11
 
 Indien Onze Minister besluit op basis van een herindelingsadvies een voorstel voor een herindelingsregeling te doen, zendt hij het voorstel aan de ministerraad binnen vier maanden na ontvangst van het herindelingsadvies.
 
 #### Paragraaf 4. Voorbereidingen door Onze Minister
 
-#### Artikel 12
+##### Artikel 12
 
 1. De voorbereiding van een herindelingsregeling door Onze Minister geschiedt met overeenkomstige toepassing van [artikel 8, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=II&paragraaf=3&artikel=8&z=2024-01-01&g=2024-01-01), met dien verstande dat:
 
@@ -154,13 +177,13 @@ Indien Onze Minister besluit op basis van een herindelingsadvies een voorstel vo
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 13
+##### Artikel 13
 
 1. Een wijziging van de provinciale indeling geschiedt bij wet.
 
 2. Een wijziging van de provinciale indeling die betreft een wijziging van provinciegrenzen met niet provinciaal ingedeeld gebied kan geschieden bij algemene maatregel van bestuur.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Een herindelingsadvies met betrekking tot een wijziging van de provinciale indeling wordt vastgesteld door de provinciale staten van de betrokken provincies gezamenlijk.
 
@@ -170,13 +193,13 @@ Indien Onze Minister besluit op basis van een herindelingsadvies een voorstel vo
 
 #### Paragraaf 2. Voorbereidingen door provincies
 
-#### Artikel 15
+##### Artikel 15
 
 1. Ten behoeve van de voorbereiding van een herindelingsadvies met betrekking tot een wijziging van de provinciale indeling als bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=III&paragraaf=1&artikel=14&z=2024-01-01&g=2024-01-01), stellen provinciale staten van de betrokken provincies een commissie in die is samengesteld uit leden van gedeputeerde staten van de betrokken provincies.
 
 2. De voorbereiding van het herindelingsadvies geschiedt met overeenkomstige toepassing van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=II&paragraaf=3&artikel=8&z=2024-01-01&g=2024-01-01), met dien verstande dat de commissie in de plaats treedt van gedeputeerde staten.
 
-#### Artikel 16
+##### Artikel 16
 
 De voorbereiding van een herindelingsadvies met betrekking tot een wijziging van de provinciale indeling als bedoeld in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=III&paragraaf=1&artikel=14&z=2024-01-01&g=2024-01-01), geschiedt met overeenkomstige toepassing van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=II&paragraaf=3&artikel=8&z=2024-01-01&g=2024-01-01), met dien verstande dat:
 
@@ -184,17 +207,17 @@ De voorbereiding van een herindelingsadvies met betrekking tot een wijziging van
 
 - b. gedeputeerde staten het herindelingsontwerp tevens aan provinciale staten van de andere betrokken provincie of provincies zenden. Zij kunnen tot uiterlijk drie maanden na ontvangst van het herindelingsontwerp hun zienswijze kenbaar maken aan de gedeputeerde staten die het voorstel hebben gedaan.
 
-#### Artikel 17
+##### Artikel 17
 
 De voorbereiding van een herindelingsadvies met betrekking tot een wijziging van de provinciale indeling als bedoeld in [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=III&paragraaf=1&artikel=14&z=2024-01-01&g=2024-01-01), geschiedt met overeenkomstige toepassing van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=II&paragraaf=3&artikel=8&z=2024-01-01&g=2024-01-01).
 
-#### Artikel 18
+##### Artikel 18
 
 Indien Onze Minister besluit op basis van een herindelingsadvies een voorstel voor een herindelingsregeling te doen, zendt hij het voorstel aan de ministerraad binnen vier maanden na ontvangst van het herindelingsadvies.
 
 #### Paragraaf 3. Voorbereidingen door Onze Minister
 
-#### Artikel 19
+##### Artikel 19
 
 1. De voorbereiding van een herindelingsregeling door Onze Minister geschiedt met overeenkomstige toepassing van [artikel 8, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=II&paragraaf=3&artikel=8&z=2024-01-01&g=2024-01-01), met dien verstande dat:
 
@@ -210,13 +233,13 @@ Indien Onze Minister besluit op basis van een herindelingsadvies een voorstel vo
 
 #### Paragraaf 4. Slotbepaling
 
-#### Artikel 20
+##### Artikel 20
 
 Een herindelingsontwerp vastgesteld met toepassing van dit hoofdstuk wordt tevens toegezonden aan de betrokken waterschapsbesturen.
 
 ### Hoofdstuk IV. Financieel toezicht
 
-#### Artikel 21
+##### Artikel 21
 
 1. Met ingang van de dag waarop een gemeente blijkens een herindelingsontwerp, een herindelingsadvies of een voorstel van wet in aanmerking komt om te worden opgeheven, behoeven de door gedeputeerde staten aangewezen besluiten van de raden en de colleges van burgemeester en wethouders van de betrokken gemeenten de goedkeuring van gedeputeerde staten.
 
@@ -226,53 +249,53 @@ Een herindelingsontwerp vastgesteld met toepassing van dit hoofdstuk wordt teven
 
 4. Het toezicht dat is aangevangen op grond van het eerste lid blijft van kracht tot de datum van herindeling of de datum waarop Onze Minister bepaalt dat het toezicht is vervallen.
 
-#### Artikel 22
+##### Artikel 22
 
 Vervallen
 
-#### Artikel 23
+##### Artikel 23
 
 Vervallen
 
-#### Artikel 24
+##### Artikel 24
 
 Vervallen
 
-#### Artikel 25
+##### Artikel 25
 
 Vervallen
 
-#### Artikel 26
+##### Artikel 26
 
 Vervallen
 
-#### Artikel 27
+##### Artikel 27
 
 Vervallen
 
 ### Hoofdstuk V. Rechtskracht voorschriften en uitoefening bevoegdheden
 
-#### Artikel 28
+##### Artikel 28
 
 De op de dag, voorafgaande aan de datum van herindeling, voor een overgaand gebied geldende gemeentelijke voorschriften behouden gedurende twee jaren na die datum voor dat gebied hun rechtskracht, voor zover het bevoegde orgaan van de gemeente waaraan dat gebied is toegevoegd, deze voorschriften niet eerder vervallen verklaart.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Het bevoegde orgaan van een nieuwe gemeente kan vóór afloop van de in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=V&artikel=28&z=2024-01-01&g=2024-01-01) bedoelde termijn een voorschrift als in dat artikel bedoeld voor het gehele gebied der gemeente geldend verklaren.
 
 2. Op gelijke wijze maken burgemeester en wethouders van de nieuwe gemeente tijdig vóór afloop van de in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=V&artikel=28&z=2024-01-01&g=2024-01-01) bedoelde termijn bekend welke overige in dat artikel bedoelde voorschriften na afloop van die termijn voor het gehele gebied der gemeente zullen gelden.
 
-#### Artikel 30
+##### Artikel 30
 
 1. De op de dag, voorafgaande aan de datum van herindeling, in een gemeente van kracht zijnde gemeentelijke voorschriften gelden gedurende twee jaren na die datum niet voor aan die gemeente toegevoegd gebied, voor zover het bevoegde orgaan van die gemeente deze voorschriften niet eerder voor dat gebied geldend verklaart.
 
 2. Het college van burgemeester en wethouders maakt tijdig vóór afloop van de in het eerste lid bedoelde termijn bekend welke in dat lid bedoelde voorschriften na afloop van die termijn voor het toegevoegde gebied zullen gelden.
 
-#### Artikel 31
+##### Artikel 31
 
 De op de dag, voorafgaande aan de datum van herindeling, geldende besluiten tot instelling van commissies als bedoeld in [hoofdstuk V van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&hoofdstuk=V) van gemeenten waarin een raadsverkiezing als bedoeld in [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VII&paragraaf=1&artikel=52&z=2024-01-01&g=2024-01-01) is gehouden, vervallen met ingang van die datum. Zij kunnen binnen een maand na die datum door het op grond van dat hoofdstuk bevoegde orgaan tot instelling van de commissies geheel of ten dele wederom geldend worden verklaard.
 
-#### Artikel 32
+##### Artikel 32
 
 1. De artikelen 28 tot en met 30 zijn niet van toepassing op belastingverordeningen op de voet van artikel 220 van de Gemeentewet. Ten aanzien van overgaand gebied houden deze verordeningen op te gelden met ingang van de datum van herindeling, doch zij behouden, onverminderd [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=V&artikel=39&z=2024-01-01&g=2024-01-01), hun rechtskracht voor de belastingjaren welke vóór die datum zijn aangevangen.
 
@@ -282,51 +305,51 @@ De op de dag, voorafgaande aan de datum van herindeling, geldende besluiten tot 
 
 4. De [artikelen 28 tot en met 30](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=V&artikel=28&z=2024-01-01&g=2024-01-01) zijn evenmin van toepassing op besluiten inzake de baatbelasting die zijn vastgesteld op de voet van [artikel 222 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=222) en op besluiten als bedoeld in [artikel XV, derde tot en met vijfde lid, van de Invoeringswet van de wet materiële belastingbepalingen Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0006638&artikel=XV). Deze besluiten worden aangemerkt als besluiten van de gemeente waaraan het gebied is toegevoegd.
 
-#### Artikel 32a
+##### Artikel 32a
 
 Vervallen
 
-#### Artikel 33
+##### Artikel 33
 
 De [artikelen 28 tot en met 30](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=V&artikel=28&z=2024-01-01&g=2024-01-01) en [32](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=V&artikel=32&z=2024-01-01&g=2024-01-01) zijn van overeenkomstige toepassing op besluiten tot vaststelling, wijziging of intrekking van belastingverordeningen die zijn genomen vóór de datum van herindeling en die op of na die datum in werking treden.
 
-#### Artikel 34
+##### Artikel 34
 
 1. In afwijking van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=V&artikel=28&z=2024-01-01&g=2024-01-01) en de [artikelen 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.4) en [3.1, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=3.1) worden vóór de datum van herindeling vastgestelde omgevingsplannen en omgevingsvisies als bedoeld in die artikelen van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) en voorkeursrechtbeschikkingen als bedoeld in [artikel 9.1 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=9.1), met betrekking tot overgaand gebied geacht te zijn vastgesteld door de raad van de gemeente waaraan dat gebied is toegevoegd en behouden zij hun rechtskracht zolang de raad niet anders bepaalt. De raad stelt binnen vijf jaar na de datum van herindeling één omgevingsplan en één omgevingsvisie vast.
 
 2. Een voor de datum van herindeling genomen voorbereidingsbesluit met het oog op de voorbereiding van in het omgevingsplan op te nemen regels als bedoeld in [artikel 4.14 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.14) met betrekking tot overgaand gebied wordt geacht te zijn genomen door de raad van de gemeente waaraan dat gebied is toegevoegd.
 
-#### Artikel 35
+##### Artikel 35
 
 Bij wijziging van een provinciegrens zijn de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=V&artikel=28&z=2024-01-01&g=2024-01-01) en [30](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=V&artikel=30&z=2024-01-01&g=2024-01-01) van overeenkomstige toepassing op provinciale voorschriften en het bevoegde orgaan van de betrokken provincies.
 
-#### Artikel 36
+##### Artikel 36
 
 1. Voor de secretaris en de griffier van een nieuwe gemeente gelden de instructies van de in de betrokken herindelingsregeling aan te wijzen gemeente totdat zij door andere zijn vervangen.
 
 2. Voor de vergaderingen van de raad en van burgemeester en wethouders van een nieuwe gemeente gelden de reglementen van orde van de in de betrokken herindelingswet aan te wijzen gemeente totdat zij door andere zijn vervangen.
 
-#### Artikel 37
+##### Artikel 37
 
 Met ingang van de datum van herindeling en zolang de in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=V&artikel=28&z=2024-01-01&g=2024-01-01) bedoelde voorschriften blijven gelden, oefenen in toegevoegd gebied de in de gemeente waarnaar dat gebied is overgegaan, bevoegde organen en ambtenaren de bevoegdheden uit welke bij die voorschriften aan overeenkomstige organen en ambtenaren zijn toegekend.
 
-#### Artikel 38
+##### Artikel 38
 
 1. Bij wijziging van een provinciegrens is [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=V&artikel=37&z=2024-01-01&g=2024-01-01) van overeenkomstige toepassing ten aanzien van de bevoegdheden van de organen en de ambtenaren van de provincie.
 
 2. In afwijking van het eerste lid wordt het toezicht op de bij de wijziging van de provinciale grens betrokken waterschappen uitgeoefend door de organen die daarmede op de dag, voorafgaande aan de datum van herindeling, belast waren, totdat bij reglementswijziging in de gevolgen van de betrokken herindelingsregeling is voorzien. Indien tussen de betrokken gedeputeerde staten niet binnen een jaar omtrent de reglementswijziging overeenstemming is bereikt, is [artikel 4 van de Waterstaatswet 1900](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&artikel=4) van toepassing.
 
-#### Artikel 39
+##### Artikel 39
 
 1. De bevoegdheid tot het heffen en invorderen van gemeentelijke belastingen in toegevoegd gebied over een belastingjaar dat vóór de datum van herindeling is aangevangen, blijft voorbehouden aan de organen en ambtenaren van de gemeente waartoe dat gebied vóór die datum behoorde.
 
 2. Indien de gemeente bij een herindelingswet wordt opgeheven, komt de bevoegdheid toe aan de organen en ambtenaren van de in die wet aan te wijzen gemeente.
 
-#### Artikel 40
+##### Artikel 40
 
 Onverminderd de [artikelen 226](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=226) en [228 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=228) is bij wijziging van een provinciegrens [artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=V&artikel=39&z=2024-01-01&g=2024-01-01), van overeenkomstige toepassing ten aanzien van provinciale belastingen.
 
-#### Artikel 41
+##### Artikel 41
 
 1. Gemeenschappelijke regelingen waaraan uitsluitend wordt deelgenomen door gemeenten waarvan het gebied in zijn geheel tot een en dezelfde gemeente komt te behoren, vervallen met ingang van de datum van herindeling. Burgemeester en wethouders van die gemeente treffen in verband hiermee de nodige voorzieningen.
 
@@ -342,17 +365,17 @@ Onverminderd de [artikelen 226](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&
 
 7. De voorgaande leden zijn niet van toepassing ten aanzien van gemeenschappelijke regelingen die van kracht zijn voor een gebied waarvan de omvang bij of krachtens wet dan wel bij koninklijk besluit is vastgesteld.
 
-#### Artikel 42
+##### Artikel 42
 
 Vervallen
 
-#### Artikel 43
+##### Artikel 43
 
 Voor zover aan een gemeenschappelijke regeling als bedoeld in [artikel 41, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=V&artikel=41&z=2024-01-01&g=2024-01-01), wordt deelgenomen door een provincie en die regeling mede betrekking heeft op gebied dat ingevolge een herindelingsregeling naar een andere provincie overgaat, is artikel 41, derde, vierde, zesde en zevende lid, van overeenkomstige toepassing ten aanzien van de betrokken provincies.
 
 ### Hoofdstuk VI. Overgang rechten en verplichtingen
 
-#### Artikel 44
+##### Artikel 44
 
 1. Onverminderd het tweede lid en de [artikelen 45](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VI&artikel=45&z=2024-01-01&g=2024-01-01) en [48](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VI&artikel=46&z=2024-01-01&g=2024-01-01) gaan op de datum van herindeling alle rechten en verplichtingen van een op te heffen gemeente over op de gemeente waaraan haar gebied wordt toegevoegd, dan wel, wanneer het gebied naar meer dan één gemeente overgaat, naar de in de betrokken herindelingsregeling aan te wijzen gemeente, zonder dat daarvoor een nadere akte wordt gevorderd.
 
@@ -362,33 +385,33 @@ Voor zover aan een gemeenschappelijke regeling als bedoeld in [artikel 41, derde
 
 4. Gedeputeerde staten van de betrokken provincie doen, ingeval op grond van het eerste en tweede lid registergoederen overgaan, de overgang van de betrokken registergoederen onverwijld inschrijven in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&afdeling=2). [Artikel 24, eerste lid, van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=24) is niet van toepassing.
 
-#### Artikel 45
+##### Artikel 45
 
 1. Met betrekking tot de voorziening van drinkwater, elektriciteit en gas blijft toegevoegd gebied deel uitmaken van het voorzieningsgebied van de bedrijven die daarin voorzagen of gerechtigd waren te voorzien op de dag, voorafgaande aan de datum van herindeling, voor zover de betrokken partijen ter zake geen nadere regeling treffen.
 
 2. Bij opheffing van een gemeente treedt ten aanzien van de rechten en verplichtingen die verband houden met de in het eerste lid bedoelde voorzieningen de in de betrokken herindelingswet aan te wijzen gemeente voor die gemeente in de plaats, zonder dat daarvoor een nadere akte wordt gevorderd.
 
-#### Artikel 46
+##### Artikel 46
 
 Bij wijziging van een provinciegrens zijn de [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VI&artikel=44&z=2024-01-01&g=2024-01-01) en [45](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VI&artikel=45&z=2024-01-01&g=2024-01-01) van overeenkomstige toepassing ten aanzien van rechten en verplichtingen van een provincie.
 
-#### Artikel 47
+##### Artikel 47
 
 1. Ten behoeve van de voortzetting van het comptabel beheer in verband met de overgang van gebied kunnen gedeputeerde staten, de colleges van burgemeester en wethouders van de betrokken gemeenten gehoord, aanwijzingen geven, welke door die colleges in acht moeten worden genomen.
 
 2. Voor het tijdvak waarin voor een nieuwe gemeente nog geen begroting is vastgesteld, zijn burgemeester en wethouders bevoegd tot het doen van uitgaven, voor zover daartegen bij gedeputeerde staten geen bezwaar bestaat.
 
-#### Artikel 48
+##### Artikel 48
 
 1. De uitkeringen die door onderscheidenlijk aan het Rijk, de provincie of gemeenten over de vóór de datum van herindeling aangevangen boekingstijdvakken, dienstjaren of uitkeringsjaren met betrekking tot overgaand gebied van een gemeente verschuldigd zijn, worden gedaan aan onderscheidenlijk door de gemeente waartoe dat gebied vóór die datum behoorde.
 
 2. Wanneer het een op te heffen gemeente betreft, geschieden de in het eerste lid bedoelde uitkeringen aan onderscheidenlijk door de gemeente waaraan het gebied van de op te heffen gemeente wordt toegevoegd of zo dit gebied naar meer dan één gemeente overgaat, de in de betrokken herindelingswet aan te wijzen gemeente.
 
-#### Artikel 49
+##### Artikel 49
 
 Bij wijziging van een provinciegrens is [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VI&artikel=48&z=2024-01-01&g=2024-01-01) van overeenkomstige toepassing ten aanzien van door onderscheidenlijk aan het Rijk of gemeenten met betrekking tot overgaand gebied van een provincie verschuldigde uitkeringen.
 
-#### Artikel 50
+##### Artikel 50
 
 1. Indien in verband met de [artikelen 39](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=V&artikel=39&z=2024-01-01&g=2024-01-01), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=V&artikel=41&z=2024-01-01&g=2024-01-01), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VI&artikel=44&z=2024-01-01&g=2024-01-01), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VI&artikel=45&z=2024-01-01&g=2024-01-01) en [48](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VI&artikel=48&z=2024-01-01&g=2024-01-01) een verrekening tussen gemeenten dient plaats te vinden worden, burgemeester en wethouders van die gemeenten gehoord, het bedrag en, zo nodig, de wijze van betaling vastgesteld:
 
@@ -402,7 +425,7 @@ Bij wijziging van een provinciegrens is [artikel 48](https://wetten.overheid.nl/
 
 3. Op een verzoek om verrekening als bedoeld in het eerste lid beslissen gedeputeerde staten niet afwijzend dan na de colleges van burgemeester en wethouders van de in dat lid bedoelde gemeenten te hebben gehoord.
 
-#### Artikel 51
+##### Artikel 51
 
 1. Indien bij een wijziging van een provinciegrens in verband met de [artikelen 40](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=V&artikel=40&z=2024-01-01&g=2024-01-01), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=V&artikel=43&z=2024-01-01&g=2024-01-01), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VI&artikel=46&z=2024-01-01&g=2024-01-01) en [49](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VI&artikel=49&z=2024-01-01&g=2024-01-01) een verrekening tussen provincies dient plaats te vinden, worden het bedrag en de wijze van betaling daarvan vastgesteld:
 
@@ -414,23 +437,23 @@ Bij wijziging van een provinciegrens is [artikel 48](https://wetten.overheid.nl/
 
 ### Hoofdstuk VII. Verkiezing vertegenwoordigend lichaam
 
-#### Artikel 52
+##### Artikel 52
 
 Bij een wijziging van de gemeentelijke indeling vinden tussentijdse raadsverkiezingen plaats. Indien een nieuwe gemeente wordt ingesteld is de naar inwoneraantal grootste gemeente die opgaat in de nieuwe gemeente met de voorbereiding daarvan belast.
 
-#### Artikel 53
+##### Artikel 53
 
 1. De op de dag, voorafgaande aan de datum van herindeling, zitting hebbende leden van de raad van een gemeente waarvoor een verkiezing als bedoeld in [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VII&paragraaf=1&artikel=52&z=2024-01-01&g=2024-01-01) wordt gehouden, treden met ingang van die datum af.
 
 2. Indien op de datum van herindeling niet de goedkeuring van de geloofsbrieven van meer dan de helft van de leden van de raad onherroepelijk is geworden, aanvaarden de leden van de raad hun ambt niet, totdat zulks het geval is. Gedurende deze tijd hebben de leden van de raad en de wethouders van de gemeente die ingevolge [artikel 52, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VII&paragraaf=1&artikel=52&z=2024-01-01&g=2024-01-01), met de voorbereiding van de tussentijdse raadsverkiezing is belast zitting als leden van de raad onderscheidenlijk als wethouders. De raad en het college van burgemeester en wethouders nemen gedurende deze tijd slechts besluiten welke geen uitstel kunnen lijden.
 
-#### Artikel 54
+##### Artikel 54
 
 1. Burgemeester en wethouders van een gemeente waarvan gebied overgaat naar een gemeente waarvoor een verkiezing als bedoeld in [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VII&paragraaf=1&artikel=52&z=2024-01-01&g=2024-01-01) wordt gehouden, zenden op een door gedeputeerde staten van de provincie waarvan laatstbedoelde gemeente deel uitmaakt of zal uitmaken, te bepalen datum aan burgemeester en wethouders van deze gemeente onderscheidenlijk de gemeente die ingevolge artikel 52, tweede volzin, met de voorbereiding van de tussentijdse raadsverkiezing is belast een opgave van de op bedoelde datum geregistreerde kiesgerechtigde personen welke op die datum in het overgaande gebied werkelijke woonplaats hebben.
 
 2. Indien tussen de in het eerste lid bedoelde datum en de dag van kandidaatstelling, bedoeld in [artikel 55, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VII&paragraaf=1&artikel=55&z=2024-01-01&g=2024-01-01), veranderingen optreden in de registratie van kiesgerechtigden die werkelijke woonplaats hebben of verkrijgen in de gemeente of het deel van de gemeente waarop een opgave als bedoeld in het eerste lid betrekking heeft, worden deze veranderingen onverwijld ter kennis gebracht van burgemeester en wethouders aan wie die opgave is gezonden, waarna dit college deze veranderingen in de opgave aanbrengt.
 
-#### Artikel 55
+##### Artikel 55
 
 1. De raad van een gemeente waarvoor een verkiezing als bedoeld in [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VII&paragraaf=1&artikel=52&z=2024-01-01&g=2024-01-01) wordt gehouden, zal bestaan uit het door gedeputeerde staten van de betrokken provincie met toepassing van [artikel 8 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=8) te bepalen aantal leden. Daartoe wordt het inwonertal van een gemeente bepaald aan de hand van de door het Centraal Bureau voor de Statistiek bekend gemaakte gegevens betreffende de bevolkingscijfers per 1 januari van het jaar waarin de verkiezing plaatsvindt.
 
@@ -448,7 +471,7 @@ Gedeputeerde staten kunnen, indien zwaarwegende redenen verband houdend met de d
 
 7. Voor zover ingevolge enig wettelijk voorschrift medewerking moet worden verleend door de raad, door burgemeester en wethouders of door de burgemeester, geschiedt dit door de raad, burgemeester en wethouders of de burgemeester van de bij een wijziging van de gemeentelijke indeling betrokken gemeente die niet wordt opgeheven onderscheidenlijk de gemeente die ingevolge [artikel 52, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VII&paragraaf=1&artikel=52&z=2024-01-01&g=2024-01-01), met de voorbereiding van de tussentijdse raadsverkiezing is belast.
 
-#### Artikel 56
+##### Artikel 56
 
 1. Voor de toepassing van [artikel 10 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=10) ten aanzien van het lidmaatschap van de raad van een gemeente waarvoor een verkiezing als bedoeld in [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VII&paragraaf=1&artikel=52&z=2024-01-01&g=2024-01-01) wordt gehouden, worden onder ingezetenen verstaan zij die werkelijke woonplaats hebben in het gebied dat met ingang van de datum van herindeling het grondgebied van de betrokken gemeente vormt.
 
@@ -458,7 +481,7 @@ Gedeputeerde staten kunnen, indien zwaarwegende redenen verband houdend met de d
 
 ### Hoofdstuk VIII. Rechtspositie van personeel
 
-#### Artikel 57
+##### Artikel 57
 
 1. Bij de toepassing van [afdeling 8 van titel 10 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&afdeling=8) op de overgang van personeel als gevolg van wijzigingen van de gemeentelijke indeling geldt als verkrijger de gemeente die op grond van [artikel 44, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VI&artikel=44&z=2024-01-01&g=2024-01-01), de rechtsopvolger is van de op te heffen gemeente.
 
@@ -466,15 +489,15 @@ Gedeputeerde staten kunnen, indien zwaarwegende redenen verband houdend met de d
 
 3. Eden en beloften, die ambtenaren in verband met hun functie bij de op te heffen gemeente hebben afgelegd, worden geacht mede betrekking te hebben op de dienstbetrekking bij de gemeente waar zij met ingang van de datum van herindeling in dienst zijn.
 
-#### Artikel 57a
+##### Artikel 57a
 
 Vervallen
 
-#### Artikel 58
+##### Artikel 58
 
 In het geval van een grenscorrectie gaat op de datum van herindeling het personeel, verbonden aan de in overgaand gebied gevestigde door de gemeente in stand gehouden scholen als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1) of [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1), over in dienst van de gemeente waaraan bedoeld gebied wordt toegevoegd.
 
-#### Artikel 59
+##### Artikel 59
 
 1. De aanwijzing van de secretaris van een gemeente die wordt opgeheven eindigt van rechtswege met ingang van de datum van herindeling.
 
@@ -486,7 +509,7 @@ In het geval van een grenscorrectie gaat op de datum van herindeling het persone
 
 5. De voorgaande leden zijn van overeenkomstige toepassing op de griffier van een gemeente die wordt opgeheven.
 
-#### Artikel 60
+##### Artikel 60
 
 1. Indien een nieuwe gemeente wordt ingesteld, wijzen gedeputeerde staten uiterlijk een maand voor de datum van herindeling een tijdelijke secretaris en een tijdelijke griffier aan. De aanwijzing gaat in met ingang van de datum van herindeling.
 
@@ -494,7 +517,7 @@ In het geval van een grenscorrectie gaat op de datum van herindeling het persone
 
 3. [Artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=V&artikel=36&z=2024-01-01&g=2024-01-01), is van overeenkomstige toepassing op de tijdelijke secretaris en de tijdelijke griffier.
 
-#### Artikel 61
+##### Artikel 61
 
 1. Het personeel, dat in dienst is van een gemeenschappelijke regeling met rechtspersoonlijkheid die ingevolge [artikel 41, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=V&artikel=41&z=2024-01-01&g=2024-01-01), vervalt, gaat met ingang van de datum van herindeling over in dienst van de gemeente die op grond van [artikel 44, eerste lid of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VI&artikel=44&z=2024-01-01&g=2024-01-01), de rechtsopvolger is van de op te heffen gemeente.
 
@@ -504,33 +527,33 @@ In het geval van een grenscorrectie gaat op de datum van herindeling het persone
 
 4. Gedeputeerde staten van de betrokken provincie kunnen bepalen dat de uitkeringen of betalingen waarop gewezen personeel, dat in dienst is of was van een ingevolge [artikel 41, vierde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=V&artikel=41&z=2024-01-01&g=2024-01-01), op te heffen of opgeheven gemeenschappelijke regeling met rechtspersoonlijkheid op de dag voorafgaande aan de herindeling wegens beëindiging van het dienstverband of ziekte aanspraak maakte ten laste komen van de bij de goedkeuring van de opheffing van de gemeenschappelijke regeling aan te wijzen gemeente of gemeenten.
 
-#### Artikel 62
+##### Artikel 62
 
 Vervallen
 
-#### Artikel 63
+##### Artikel 63
 
 Vervallen
 
-#### Artikel 64
+##### Artikel 64
 
 Vervallen
 
-#### Artikel 65
+##### Artikel 65
 
 Vervallen
 
-#### Artikel 66
+##### Artikel 66
 
 Vervallen
 
 ### Hoofdstuk IX. Voorzieningen in verband met de toepassing van enkele wetten
 
-#### Artikel 67
+##### Artikel 67
 
 Zij die op de dag, voorafgaande aan de datum van herindeling, ingeschreven zijn als leerling van een gemeentelijke school, gevestigd in een bij een wijziging van de gemeentelijke indeling betrokken gemeente, worden van genoemde datum af tot die school toegelaten op dezelfde voorwaarden als voordien golden.
 
-#### Artikel 68
+##### Artikel 68
 
 1. Voor zover ten aanzien van de in overgaand gebied gevestigde basisscholen, speciale scholen voor basisonderwijs, scholen voor speciaal onderwijs, voortgezet speciaal onderwijs en scholen of instellingen voor speciaal en voortgezet speciaal onderwijs op de datum van herindeling voor enig op die datum verstreken kalenderjaar [artikel 144, eerste, zesde en zevende lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=144) onderscheidenlijk [artikel 138, eerste, zesde en zevende lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=138) nog niet zijn toegepast, geschiedt dit door de colleges van burgemeester en wethouders van de gemeente waaraan dat gebied wordt toegevoegd.
 
@@ -538,13 +561,13 @@ Zij die op de dag, voorafgaande aan de datum van herindeling, ingeschreven zijn 
 
 3. Indien in verband met de vorige leden een verrekening tussen gemeenten dient plaats te vinden, is [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VI&artikel=50&z=2024-01-01&g=2024-01-01) ter zake van overeenkomstige toepassing.
 
-#### Artikel 69
+##### Artikel 69
 
 1. Ter bepaling van de uitkering krachtens [artikel 5.28 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.28) wordt voor de op de datum van herindeling lopende periode van vijf jaar, bedoeld in [artikel 5.26, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.26) het overschrijdingsbedrag per leerling over enig op die datum verstreken of het lopende kalenderjaar berekend als had geen herindeling plaatsgevonden, en over de overige jaren van dat tijdvak naar de toestand na laatstbedoeld kalenderjaar.
 
 2. [Artikel 68, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=IX&artikel=68&z=2024-01-01&g=2024-01-01), is ter zake van overeenkomstige toepassing.
 
-#### Artikel 70
+##### Artikel 70
 
 1. Onverminderd het tweede lid en [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=IX&artikel=71&z=2024-01-01&g=2024-01-01) gaan op de datum van herindeling de archiefbescheiden van een gemeente die wordt opgeheven, over naar de gemeente waaraan het gebied van de op te heffen gemeente wordt toegevoegd, dan wel, wanneer dat gebied aan meer dan één gemeente wordt toegevoegd, naar de in de betrokken herindelingsregeling aan te wijzen gemeente.
 
@@ -554,25 +577,25 @@ Zij die op de dag, voorafgaande aan de datum van herindeling, ingeschreven zijn 
 
 4. Bij wijziging van een provinciegrens zijn het tweede en derde lid van overeenkomstige toepassing ten aanzien van de overgang van provinciale archiefbescheiden.
 
-#### Artikel 71
+##### Artikel 71
 
 1. Met betrekking tot personen met een adres in overgaand gebied, wordt door burgemeester en wethouders van de gemeente waaraan het gebied wordt toegevoegd, het adres gewijzigd in de basisregistratie personen.
 
 2. Als datum van wijziging van de gemeentenaam geldt de datum van herindeling.
 
-#### Artikel 71a
+##### Artikel 71a
 
 Het persoonsregister, waarvoor burgemeester en wethouders van een gemeente die wordt opgeheven zorg dragen ter uitvoering van de [Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715), wordt door burgemeester en wethouders van deze gemeente overgedragen aan het college van burgemeester en wethouders van de gemeente waaraan het gebied van de op te heffen gemeente wordt toegevoegd, dan wel, indien dat gebied aan meer dan één gemeente wordt toegevoegd, aan de in de betrokken herindelingsregeling aan te wijzen gemeente.
 
-#### Artikel 72
+##### Artikel 72
 
 Kosten van bijstand als bedoeld in de [artikelen 40](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=40) en [42 van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=42) en kosten van ondersteuning bij arbeidsinschakeling als bedoeld in [artikel 10 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10) ten behoeve van personen die op of voor de datum van herindeling woonachtig zijn of geweest zijn in overgaand gebied, komen met ingang van bedoelde datum ten laste van de gemeente waaraan dat gebied is toegevoegd.
 
-#### Artikel 73
+##### Artikel 73
 
 Met betrekking tot zaken, de dienstplicht, met inbegrip van de mobilisatie-uitkeringen, alsmede de noodwachtplicht betreffende, vinden de voorschriften, door of namens Onze Minister van Defensie onderscheidenlijk bij koninklijk besluit dan wel door of namens Onze Minister gegeven ter zake van verhuizing, overeenkomstige toepassing ten aanzien van personen die krachtens een herindelingsregeling van een gemeente naar een andere gemeente overgaan.
 
-#### Artikel 74
+##### Artikel 74
 
 1. Van de wegen onderscheidenlijk gedeelten van wegen, gelegen in aan een nieuwe gemeente toegevoegd gebied, wordt een nieuwe wegenlegger opgemaakt met inachtneming van de [artikelen 34 tot en met 38 van de Wegenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&artikel=34), met dien verstande dat het ontwerp van de legger ook kan worden opgemaakt door gedeputeerde staten van de betrokken provincie. Zolang deze nieuwe legger niet is vastgesteld, blijven de bestaande wegenleggers van kracht.
 
@@ -582,25 +605,25 @@ Met betrekking tot zaken, de dienstplicht, met inbegrip van de mobilisatie-uitke
 
 4. Indien een gemeente wordt opgeheven en als gevolg daarvan de uitkering, bedoeld in [artikel 32, tweede lid, van de Wet herverdeling wegenbeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0005697&artikel=32) niet meer kan verstrekken aan andere onderhoudsplichtigen, wordt in de herindelingsregeling een andere gemeente in dit verband als rechtsopvolger aangewezen.
 
-#### Artikel 75
+##### Artikel 75
 
 Een herindelingsregeling is niet van invloed op de bevoegdheid van de rechter of op die van partijen met betrekking tot zaken, op de dag, voorafgaande aan de datum van herindeling, voor enig gerecht aanhangig.
 
-#### Artikel 76
+##### Artikel 76
 
 Een herindelingsregeling heeft geen beperking ten gevolge van het gebied waarbinnen vóór de datum van herindeling benoemde notarissen hun ambtsbediening uitoefenen.
 
-#### Artikel 77
+##### Artikel 77
 
 Vervallen
 
-#### Artikel 78
+##### Artikel 78
 
 Vervallen
 
 ### Hoofdstuk X. Voorbereiding van de overgang
 
-#### Artikel 79
+##### Artikel 79
 
 1. De besturen van de vóór de datum van herindeling bij een wijziging van de gemeentelijke indeling betrokken gemeenten dragen er in onderling overleg zorg voor dat de met het oog op de gewijzigde indeling met ingang van die datum te treffen voorzieningen tijdig worden voorbereid. Voorzieningen, de voorbereiding van de overgang van ambtenaren betreffende, zijn onderwerp van georganiseerd overleg met de centrales van verenigingen van ambtenaren en van overleg met de ondernemingsraden van de betrokken gemeenten.
 
@@ -608,89 +631,89 @@ Vervallen
 
 ### Hoofdstuk XI. Kernbepalingen met betrekking tot wijziging van de gemeentelijke indeling en grenscorrectie
 
-#### Artikel 80
+##### Artikel 80
 
 Vervallen
 
-#### Artikel 81
+##### Artikel 81
 
 Vervallen
 
-#### Artikel 82
+##### Artikel 82
 
 Vervallen
 
-#### Artikel 83
+##### Artikel 83
 
 Vervallen
 
-#### Artikel 84
+##### Artikel 84
 
 Vervallen
 
-#### Artikel 85
+##### Artikel 85
 
 Vervallen
 
-#### Artikel 86
+##### Artikel 86
 
 Vervallen
 
 ### Hoofdstuk XII. Kernbepalingen met betrekking tot wijziging van de provinciale indeling
 
-#### Artikel 87
+##### Artikel 87
 
 Vervallen
 
-#### Artikel 88
+##### Artikel 88
 
 Vervallen
 
-#### Artikel 89
+##### Artikel 89
 
 Vervallen
 
-#### Artikel 90
+##### Artikel 90
 
 Vervallen
 
-#### Artikel 91
+##### Artikel 91
 
 Vervallen
 
 ### Hoofdstuk XIII. Slotbepalingen
 
-#### Artikel 92
+##### Artikel 92
 
 Vervallen
 
-#### Artikel 93
+##### Artikel 93
 
 Vervallen
 
-#### Artikel 94
+##### Artikel 94
 
 Vervallen
 
-#### Artikel 95
+##### Artikel 95
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 96
+##### Artikel 96
 
 Vervallen
 
-#### Artikel 97
+##### Artikel 97
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 98
+##### Artikel 98
 
 Deze wet wordt aangehaald als: Wet algemene regels herindeling.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeries, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 43a
+##### Artikel 43a
 
 1. In afwijking van [artikel 81p van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=81p) kan de raad van een nieuwe gemeente op uiterlijk 15 januari van het jaar waarin de gemeente is ingesteld, de behandeling van verzoekschriften als bedoeld in [artikel 9:18, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:18), opdragen aan een gemeentelijke ombudsman of ombudscommissie, dan wel een gezamenlijke ombudsman of ombudscommissie. Het besluit werkt terug tot en met de datum van herindeling.
 
@@ -718,21 +741,21 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 #### Paragraaf 2. Wijziging van de zittingsduur gemeenteraad voorafgaand aan de datum van herindeling
 
-#### Artikel 56a
+##### Artikel 56a
 
 Deze paragraaf is van toepassing op gemeenten waarvoor in de periode van 1 oktober tot en met 31 december van het jaar voorafgaande aan het jaar waarin de reguliere gemeenteraadsverkiezingen plaatsvinden een voorstel van wet tot wijziging van de gemeentelijke indeling is ingediend bij de Tweede Kamer der Staten-Generaal.
 
-#### Artikel 56b
+##### Artikel 56b
 
 1. De verkiezing van de leden van de gemeenteraad in het jaar waarin de reguliere gemeenteraadsverkiezingen plaatsvinden en waarvoor de kandidaatstelling plaatsvindt op de dag, bedoeld in [artikel F 1, eerste lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=F_1), blijft achterwege.
 
 2. De zittingsduur van de leden van de raad wordt verlengd tot 1 januari van het jaar volgend op het jaar waarin de verkiezing, bedoeld in het eerste lid, achterwege blijft.
 
-#### Artikel 56c
+##### Artikel 56c
 
 Indien de datum van herindeling volgt op het jaar waarin reguliere gemeenteraadsverkiezingen hebben plaatsgevonden, eindigt de zittingsduur van de leden van de ingevolge [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VII&paragraaf=1&artikel=52&z=2024-01-01&g=2024-01-01) gekozen raad tegelijk met de zittingsduur van de leden van de raden van de overige gemeenten die zitting hebben op de datum van herindeling.
 
-#### Artikel 56d
+##### Artikel 56d
 
 1. Indien een voorstel van wet als bedoeld in [artikel 56a](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VII&paragraaf=2&artikel=56a&z=2024-01-01&g=2024-01-01) niet uiterlijk op de donderdag in de periode van 17 september tot en met 23 september in het jaar waarin de reguliere gemeenteraadsverkiezingen plaatsvinden tot wet is verheven en in werking is getreden, vindt de kandidaatstelling voor de verkiezing van de leden van de raad van een gemeente, genoemd in dat wetsvoorstel, plaats op de maandag in de periode van 5 tot en met 11 oktober van dat jaar. [Artikel 55, tweede lid, tweede en derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VII&paragraaf=1&artikel=55&z=2024-01-01&g=2024-01-01), is van toepassing.
 
@@ -750,7 +773,7 @@ Indien de datum van herindeling volgt op het jaar waarin reguliere gemeenteraads
 
 #### Paragraaf 3. Wijziging zittingsduur gemeenteraad na de datum van herindeling
 
-#### Artikel 56e
+##### Artikel 56e
 
 1. Indien de datum van herindeling valt binnen drie jaar voor de datum van de reguliere gemeenteraadsverkiezingen blijven deze verkiezingen in de betrokken gemeenten achterwege.
 

@@ -1,13 +1,38 @@
 ---
-title: "Hongaarse uitvoeringsvoorschriften belastingovereenkomst Nederland-Hongarije"
+title: "Hongaarse voorschriften belastingovereenkomst Nederland-Hongarije"
 identifier: "BWBR0004933"
-categorie: "Belastingrecht"
-publicatiedatum: 1991-01-01
-laatste_update: 1991-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004933"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1991-01-01"
+last_updated: "1991-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004933"
+soort: "ministeriele-regeling"
+stam_id: "3713163"
+version_id: "5496042"
+internal_id: "C5689131"
+label_id: "3692924"
+dtd_version: "2.0"
+original_entry_into_force: "1991-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004933/1991-01-01/0"
+intitule_bron: "Stcrt.1990-251"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1990-12-18"
+intitule_published: "1990-12-27"
+intitule_in_force: "1990-12-27"
+intitule_status: "goed"
+original_publication: "Stcrt.1990-251"
+original_signed_date: "1990-12-18"
+original_published_date: "1990-12-27"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1991-01-01"
+jci_1_3: "jci1.3:c:BWBR0004933&z=1991-01-01&g=1991-01-01"
+jci_1_0: "1.0:c:BWBR0004933&g=1991-01-01"
+citeertitel_status: "officieel"
+short_title: "Hongaarse uitvoeringsvoorschriften belastingovereenkomst Nederland-Hongarije"
+signed_date: "1990-12-18"
+entry_into_force: "1991-01-01"
 ---
-
 # Hongaarse voorschriften belastingovereenkomst Nederland-Hongarije
 
 Besluit:
@@ -16,7 +41,7 @@ Door plaatsing in de Staatscourant het navolgende ter kennis van belanghebbende 
 
 Regeling inzake vermindering van Hongaarse belasting op dividenden, interest en royalties uit Hongaarse bron, genoten door inwoners van Nederland.
 
-#### Artikel 1. Aanspraken van inwoners van Nederland
+##### Artikel 1. Aanspraken van inwoners van Nederland
 
 Aan de op op 5 juni 1986 tussen Nederland en Hongarije gesloten Overeenkomst tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen en het Protocol bij die Overeenkomst (Stb. 1986, nr. 72, en Trb. 1987, nr. 38), kunnen inwoners van Nederland onder meer de volgende aanspraken ontlenen, geregeld in de hieronder tussen haakjes vermelde artikelen van de Overeenkomst en onderdelen van het Protocol.
 
@@ -28,7 +53,7 @@ Aan de op op 5 juni 1986 tussen Nederland en Hongarije gesloten Overeenkomst tot
 
 - d. Algehele vrijstelling van de Hongaarse belasting op royalty's (vergoedingen van welke aard ook voor het gebruik van, of voor het recht van gebruik van, een auteursrecht op een werk op het gebied van letterkunde, kunst of wetenschap, waaronder begrepen bioscoopfilms, en films of geluidsbanden voor radio en televisie, van een octrooi, een fabrieks- of handelsmerk, een tekening of model, een plan, een geheim recept of een geheime werkwijze, of voor inlichtingen omtrent ervaringen op het gebied van nijverheid, handel of wetenschap), afkomstig uit Hongarije en betaald aan een inwoner van Nederland die de uiteindelijk gerechtigde daarvan is (artikel 12, eerste en derde lid). Vergoedingen, van welke aard ook, voor het gebruik van, of voor het recht van gebruik van, nijverheids- en handelsuitrusting of wetenschappelijke uitrusting, worden echter niet als royalty's aangemerkt (onderdeel IV, onderdeel b), van het Protocol). De in de onderdelen c en d van dit artikel vermelde vrijstellingen alsmede de in de onderdelen a en b van dit artikel vermelde verminderingen zijn niet van toepassing, indien de uiteindelijk gerechtigde tot de dividenden, de interest of de royalty's in Hongarije een bedrijf uitoefent door middel van een aldaar gevestigde vaste inrichting of in Hongarije zelfstandige arbeid verricht vanuit een aldaar gevestigd vast middelpunt, en het aandelenbezit uit hoofde waarvan de dividenden worden betaald, de vordering uit hoofde waarvan de interest wordt betaald of het recht of de zaak uit hoofde waarvan de royalty's worden betaald, tot het bedrijfsvermogen van die vaste inrichting of tot het beroepsvermogen van dat vaste middelpunt behoort (artikel 10, zesde lid, respectievelijk artikel 11, vierde lid, en artikel 12, vierde lid).
 
-#### Artikel 2. Hongaarse regeling
+##### Artikel 2. Hongaarse regeling
 
 Ter uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004933&artikel=1&z=1991-01-01&g=1991-01-01) is van Hongaarse zijde de volgende regeling getroffen:
 
@@ -44,11 +69,11 @@ Ter uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004933&a
 
 - 4. Termijn van indiening van verzoeken om teruggaaf van belasting Verzoeken om teruggaaf moeten worden ingediend binnen een tijdvak van vijf jaren na het einde van het kalenderjaar waarin de belasting is geheven (onderdeel V van het Protocol).
 
-#### Artikel 3. Intrekking
+##### Artikel 3. Intrekking
 
 De beschikking van de staatssecretaris van Financiën van 30 mei 1988, nr. 088-1517 (Stcrt. van 31 mei 1988, nr. 102), wordt ingetrokken.
 
-#### Artikel 4. Inwerkingtreding
+##### Artikel 4. Inwerkingtreding
 
 1. Deze regeling kan worden aangehaald als: Hongaarse uitvoeringsvoorschriften belastingovereenkomst Nederland-Hongarije.
 

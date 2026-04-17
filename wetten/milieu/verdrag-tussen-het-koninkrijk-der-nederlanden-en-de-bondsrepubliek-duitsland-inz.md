@@ -1,13 +1,38 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake de uitoefening van de luchtverkeersleiding door de Bondsrepubliek Duitsland boven Nederlands grondgebied alsmede de gevolgen van het burgergebruik van luchthaven Niederrhein op het grondgebied van het Koninkrijk der Nederlanden"
 identifier: "BWBV0001588"
-categorie: "Milieu"
-publicatiedatum: 2006-10-01
-laatste_update: 2003-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001588"
+country: "nl"
+rank: "verdrag"
+publication_date: "2006-10-01"
+last_updated: "2003-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001588"
+soort: "verdrag"
+stam_id: "10001472223"
+version_id: "10001550552"
+internal_id: "C10008748851"
+label_id: "10001472574"
+dtd_version: "2.0"
+original_entry_into_force: "2006-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001588/2006-10-01/0"
+intitule_bron: "Trb.2003-85"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-05-01"
+intitule_published: "2003-06-11"
+intitule_in_force: "2007-01-18"
+intitule_status: "goed"
+original_publication: "Trb.2003-85"
+original_signed_date: "2003-05-01"
+original_published_date: "2003-06-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2003-85"
+entry_into_force_date: "2006-10-01"
+jci_1_3: "jci1.3:c:BWBV0001588&z=2006-10-01&g=2006-10-01"
+jci_1_0: "1.0:c:BWBV0001588&g=2006-10-01"
+citeertitel_status: "redactioneel"
+signed_date: "2003-05-01"
+entry_into_force: "2006-10-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake de uitoefening van de luchtverkeersleiding door de Bondsrepubliek Duitsland boven Nederlands grondgebied alsmede de gevolgen van het burgergebruik van luchthaven Niederrhein op het grondgebied van het Koninkrijk der Nederlanden
 
 Het Koninkrijk der Nederlanden
@@ -34,7 +59,7 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. LUCHTVERKEERSLEIDING
 
-#### Artikel 1. Uitoefening van luchtverkeersleiding
+##### Artikel 1. Uitoefening van luchtverkeersleiding
 
 1. Het Koninkrijk der Nederlanden verleent de Bondsrepubliek Duitsland toestemming voor afwikkeling van het luchtverkeer met inachtneming van het Nederlandse recht en de bijzondere bepalingen van dit Verdrag in een deel van het Nederlandse luchtruim. De Bondsrepubliek Duitsland voert de luchtverkeersdienstverlening (luchtverkeersleiding, vluchtinformatieverstrekking, luchtverkeersadvisering, alarmeringsdienst) uit in genoemd luchtruim. Het Koninkrijk der Nederlanden stemt daartoe in met de door de Bondsrepubliek Duitsland op grond van de eerste volzin getroffen maatregelen voor de uitvoering van de luchtverkeersleiding.
 
@@ -42,11 +67,11 @@ Zijn het volgende overeengekomen:
 
 3. De benodigde operationele details worden tussen de met de uitvoering van ATS belaste autoriteiten van de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden geregeld in het kader van Letters of Agreement. Dit geldt ook voor de procedures inzake vluchten van en naar Luchthaven Niederrhein, voor zover deze voeren over Nederlands grondgebied.
 
-#### Artikel 2. Militaire vluchten
+##### Artikel 2. Militaire vluchten
 
 Vluchten van de Nederlandse Luchtmacht en de Noord Atlantische Verdragsorganisatie (NAVO) moeten in de desbetreffende luchtruimen naar gelang de omstandigheden en volgens de voorrangsregels te allen tijde uitgevoerd kunnen worden. Wanneer mogelijk wordt de Bondsrepubliek Duitsland tijdig in kennis gesteld van dergelijke vluchten.
 
-#### Artikel 3. Aansprakelijkheid
+##### Artikel 3. Aansprakelijkheid
 
 1. Indien de instantie die belast is met de uitvoering van ATS, dan wel haar functionarissen, uit hoofde van dit Verdrag aansprakelijk zijn voor schade aan personen, zaken of rechten die als gevolg van het luchtverkeer op het grondgebied van het Koninkrijk der Nederlanden is ontstaan, is het Koninkrijk der Nederlanden hiervoor aansprakelijk met inachtneming van de voorschriften die zijn aansprakelijkheid voor de eigen ATS-instanties bepalen.
 
@@ -64,7 +89,7 @@ Vluchten van de Nederlandse Luchtmacht en de Noord Atlantische Verdragsorganisat
 
 8. Uitsluitend de rechterlijke instanties van het Koninkrijk der Nederlanden zijn bevoegd te beslissen over geschillen inzake vorderingen uit hoofde van het eerste lid.
 
-#### Artikel 4. Bijstand
+##### Artikel 4. Bijstand
 
 1. Ten behoeve van de met de uitvoering van luchtverkeers-dienstverlening boven het Nederlandse grondgebied verbonden werkterreinen waarborgen de Verdragsluitende Partijen de wederzijdse en tijdige verstrekking van relevante inlichtingen en mededelingen alsmede de regelmatige uitwisseling van inlichtingen tussen de betrokken autoriteiten van de Verdragsluitende Partijen. De Bondsrepubliek Duitsland verplicht zich in het bijzonder aan het Koninkrijk der Nederlanden de gegevens ter beschikking te stellen die nodig zijn als toelichting op het luchtverkeer dat onder de Duitse luchtverkeersleiding zonder inschakeling van de Nederlandse autoriteit die verantwoordelijk is voor ATS heeft plaatsgevonden boven het Nederlandse grondgebied.
 
@@ -72,13 +97,13 @@ Vluchten van de Nederlandse Luchtmacht en de Noord Atlantische Verdragsorganisat
 
 3. De bepalingen inzake rechtshulp in strafzaken blijven onverminderd van kracht.
 
-#### Artikel 5. Vliegtuigongevalonderzoek
+##### Artikel 5. Vliegtuigongevalonderzoek
 
 De Bondsrepubliek Duitsland verzekert dat de Nederlandse autoriteit die belast is met het onderzoeken van vliegtuigongevallen met inachtneming van de Nederlandse wetgeving ingelicht wordt over alle vliegtuigongevallen en storingen, voor zover zij zijn vastgesteld boven het Nederlandse grondgebied. De Bondsrepubliek Duitsland stelt de benodigde documenten ter beschikking voor het onderzoek. Zij staat vertegenwoordigers van de bevoegde autoriteit toe haar ruimten te betreden, de desbetreffende documenten (onderzoeksrapporten, geregistreerde radargegevens, geluidsbanden en dergelijke) in te zien en stelt ze voor zover en zo lang als nodig voor analyse ter beschikking. De Bondsrepubliek Duitsland wordt in de gelegenheid gesteld waarnemers voor het onderzoek aan te wijzen. Zij wordt in kennis gesteld van de uitkomsten van het onderzoek.
 
 ### HOOFDSTUK II. DE GEVOLGEN VAN HET BURGERGEBRUIK VAN DE LUCHTHAVEN NIEDERRHEIN OP HET NEDERLANDSE GONDGEBIED
 
-#### Artikel 6. Verkeer van en naar Luchthaven Niederrhein
+##### Artikel 6. Verkeer van en naar Luchthaven Niederrhein
 
 1. Luchtverkeer van en naar Luchthaven Niederrhein boven Nederlands grondgebied is in principe alleen in de periode van 06:00 uur tot 23:00 uur toegestaan. Dit geldt niet voor:
 
@@ -98,7 +123,7 @@ De Bondsrepubliek Duitsland verzekert dat de Nederlandse autoriteit die belast i
 
 4. Zichtvliegcircuits en oefenvluchten zijn niet toegestaan boven Nederlands grondgebied.
 
-#### Artikel 7. Milieu- en veiligheidszaken, bouw- en exploitatieprocedures
+##### Artikel 7. Milieu- en veiligheidszaken, bouw- en exploitatieprocedures
 
 1. Grensoverschrijdende gevolgen voor milieu en veiligheid samenhangend met het gebruik van Luchthaven Niederrhein worden volgens de in het Koninkrijk der Nederlanden geldende berekeningsmethoden vastgesteld en naar Nederlands recht beoordeeld. De in de bijlage 2 bij dit Verdrag opgenomen geluidszone (met 35 en 40 KE) mag door het gebruik van Luchthaven Niederrhein niet overschreden worden dan met wederzijds goedvinden van de Verdragsluitende Partijen.
 
@@ -114,7 +139,7 @@ De Bondsrepubliek Duitsland verzekert dat de Nederlandse autoriteit die belast i
 
 ### HOOFDSTUK III. OVERIGE BEPALINGEN
 
-#### Artikel 8. Bescherming van persoonsgegevens
+##### Artikel 8. Bescherming van persoonsgegevens
 
 1. Persoonsgegevens mogen alleen aan de bevoegde instantie worden doorgegeven. Het gebruik van de op grond van dit Verdrag verstrekte gegevens is alleen toegestaan voor het in dit Verdrag omschreven doel waarvoor de gegevens zijn verstrekt, c.q. luchtverkeersleiding, en alleen onder de door de instantie die ze heeft verstrekt voor het desbetreffende geval vooraf gestelde voorwaarden. Persoonsgegevens mogen vervolgens alleen aan andere instanties worden doorgegeven en voor andere doeleinden worden gebruikt met voorafgaande toestemming van de instantie die ze heeft doorgegeven. Verstrekking van persoonsgegevens is voorts toegestaan:
 
@@ -138,7 +163,7 @@ De ontvanger stelt de instantie die de gegevens verstrekt op haar verzoek in ken
 
 7. De verzendende en ontvangende instantie zijn verplicht de verstrekte gegevens doeltreffend te beschermen tegen toegang, wijziging en bekendmaking door daartoe onbevoegden.
 
-#### Artikel 9. Gemeenschappelijke luchtverkeerscommissie
+##### Artikel 9. Gemeenschappelijke luchtverkeerscommissie
 
 1. De Verdragsluitende Partijen vormen een gemeenschappelijke luchtverkeerscommissie die regelmatig en ten minste eenmaal per jaar bijeenkomt. Op verzoek van een Verdragsluitende Partij vinden ook buitengewone bijeenkomsten van de gemeenschappelijke luchtverkeerscommissie plaats. De gemeenschappelijke luchtverkeerscommissie stelt een huishoudelijk reglement op.
 
@@ -146,7 +171,7 @@ De ontvanger stelt de instantie die de gegevens verstrekt op haar verzoek in ken
 
 3. De gemeenschappelijke luchtverkeerscommissie behandelt iedere kwestie die voortvloeit uit de uitlegging en toepassing van dit Verdrag. Zij ziet toe op de implementatie en naleving van de bepalingen van dit Verdrag en vervult in het bijzonder de haar uit hoofde van dit Verdrag toegewezen taken.
 
-#### Artikel 10. Consultatie
+##### Artikel 10. Consultatie
 
 1. Elke Verdragsluitende Partij kan te allen tijde verzoeken om overleg teneinde wijzigingen van dit Verdrag te bespreken, nadat de gemeenschappelijke luchtverkeerscommissie bedoeld in artikel 9 deze heeft besproken. Dit geldt ook voor besprekingen over de uitlegging en toepassing van dit Verdrag, indien een overleg overeenkomstig artikel 9 naar het oordeel van een Verdragsluitende Partij niet tot een bevredigend resultaat heeft geleid. Het overleg begint binnen 30 dagen na ontvangst van het verzoek door de andere Verdragsluitende Partij.
 
@@ -154,7 +179,7 @@ De ontvanger stelt de instantie die de gegevens verstrekt op haar verzoek in ken
 
 3. De Verdragsluitende Partijen komen overeen dat op verzoek van een Partij inzake de openstelling van het Nederlandse luchtruim in de randuren tussen 05:00 en 06:00 en tussen 23:00 en 24:00, dus buiten de in artikel 6, eerste lid, vastgestelde tijden, twee jaar na het sluiten van dit Verdrag voor de eerste maal opnieuw zal worden overlegd.
 
-#### Artikel 11. Oplossing van geschillen
+##### Artikel 11. Oplossing van geschillen
 
 1. Elk geschil over de uitlegging en toepassing van dit Verdrag dat niet middels het bepaalde in de artikelen 9 en 10 kan worden opgelost, wordt op verzoek van een Verdragsluitende Partij ter beslechting voorgelegd aan een arbitragecommissie.
 
@@ -164,7 +189,7 @@ De ontvanger stelt de instantie die de gegevens verstrekt op haar verzoek in ken
 
 4. Het scheidsgerecht beslist met meerderheid van stemmen op grond van bestaande verdragen en het volkenrecht. Zijn beslissingen zijn bindend en worden door de Verdragsluitende Partijen geëerbiedigd. Elke Verdragsluitende Partij draagt de kosten van de door haar benoemde scheidsman alsmede van haar vertegenwoordiging in de procedure voor het scheidsgerecht; de kosten van de voorzitter alsmede de overige kosten worden door de Verdragsluitende Partijen gelijkelijk gedragen. Voor het overige stelt het scheidsgerecht zijn eigen procedureregels vast.
 
-#### Artikel 12. Opschorting
+##### Artikel 12. Opschorting
 
 1. Elk van de Verdragsluitende Partijen kan de werking van dit Verdrag opschorten, wanneer vaststaat dat de andere Verdragsluitende Partij haar verplichtingen uit hoofde van de artikelen 1, 6, 7 en 8 op grove wijze verzaakt, waardoor onmiddellijk gevaar voor de openbare orde en veiligheid ontstaat en binnen 15 dagen na de kennisgeving daaromtrent geen corrigerende maatregelen zijn getroffen.
 
@@ -172,19 +197,19 @@ De ontvanger stelt de instantie die de gegevens verstrekt op haar verzoek in ken
 
 3. De opschorting en opheffing daarvan geschieden langs diplomatieke weg.
 
-#### Artikel 13. Geldigheidsduur en opzegging
+##### Artikel 13. Geldigheidsduur en opzegging
 
 Dit Verdrag wordt gesloten voor onbepaalde tijd. Elke Verdragsluitende Partij kan het langs diplomatieke weg opzeggen. In dat geval treedt het Verdrag twaalf maanden na ontvangst van de kennisgeving door de andere Verdragsluitende Partij buiten werking, indien de opzegging niet voor het verstrijken van deze termijn bij overeenkomst wordt herroepen.
 
-#### Artikel 14. Bestaande verdragsverhoudingen
+##### Artikel 14. Bestaande verdragsverhoudingen
 
 Dit Verdrag laat bestaande verdragsverhoudingen inzake het verloop van de staatsgrenzen, de exploitatieovereenkomsten tussen de bevoegde ATS-instanties alsmede maatregelen tegen geluidsoverlast en de rechten van de Verdragsluitende Partijen met betrekking tot het plaatsen en functioneren van radio- en telecommunicatiezenders onverlet. Beide Verdragsluitende Partijen zien erop toe dat door deze radio- en telecommunicatiezenders het functioneren van de voor de luchthaven noodzakelijke navigatie-installaties ten behoeve van de luchtverkeersleiding niet wordt verstoord.
 
-#### Artikel 15. Afspraken aangaande luchtruimindeling en geluidszone
+##### Artikel 15. Afspraken aangaande luchtruimindeling en geluidszone
 
 Bijlage 1 aangaande de indeling van het luchtruim en bijlage 2 aangaande de geluidszone zijn onderdeel van het Verdrag. De in artikel 9 bedoelde gemeenschappelijke luchtverkeerscommissie doet aanbevelingen voor wijzigingen daarvan die in werking treden op de dag waarop de Verdragsluitende Partijen elkaar hebben meegedeeld dat voldaan is aan de hiervoor geldende nationale voorschriften. Doorslaggevend hierbij is de datum van ontvangst van de laatste mededeling.
 
-#### Artikel 16. Bekrachtiging, inwerkingtreding en voorlopige toepassing
+##### Artikel 16. Bekrachtiging, inwerkingtreding en voorlopige toepassing
 
 1. Dit Verdrag dient te worden bekrachtigd. De akten van bekrachtiging worden zo spoedig mogelijk te Den Haag uitgewisseld.
 

@@ -1,13 +1,38 @@
 ---
 title: "Instellingsbesluit Commissie Evaluatie Beleidsplan KMar 2010"
 identifier: "BWBR0024458"
-categorie: "Overig"
-publicatiedatum: 2008-09-11
-laatste_update: 2008-09-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024458"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2008-09-11"
+last_updated: "2008-09-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024458"
+soort: "ministeriele-regeling"
+stam_id: "9714513"
+version_id: "15714192"
+internal_id: "C21485011"
+label_id: "9691474"
+dtd_version: "2.0"
+original_entry_into_force: "2008-09-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024458/2008-09-11/0"
+intitule_bron: "Stcrt.2008-174"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-09-01"
+intitule_published: "2008-09-09"
+intitule_in_force: "2008-09-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-174"
+original_signed_date: "2008-09-01"
+original_published_date: "2008-09-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-174-p3-SC87403"
+entry_into_force_date: "2008-09-11"
+jci_1_3: "jci1.3:c:BWBR0024458&z=2008-09-11&g=2008-09-11"
+jci_1_0: "1.0:c:BWBR0024458&g=2008-09-11"
+citeertitel_status: "officieel"
+signed_date: "2008-09-01"
+entry_into_force: "2008-09-11"
 ---
-
 # Instellingsbesluit Commissie Evaluatie Beleidsplan KMar 2010
 
 Overwegende,
@@ -28,7 +53,7 @@ Dat bij de eerste rapportage aan de Kamer is toegezegd dat na de implementatie v
 
 Besluit:
 
-#### Artikel 1. Commissie
+##### Artikel 1. Commissie
 
 1. Er is een commissie Evaluatie Beleidsplan KMar 2010.
 
@@ -42,7 +67,7 @@ Besluit:
 
 - c. Drs. E.H. Wellenstein.
 
-#### Artikel 2. Taken
+##### Artikel 2. Taken
 
 De commissie heeft de volgende taken:
 
@@ -52,11 +77,11 @@ De commissie heeft de volgende taken:
 
 - c. formuleer voorstellen voor verbetering met vermelding van de mogelijke consequenties.
 
-#### Artikel 3. Evaluatieteam
+##### Artikel 3. Evaluatieteam
 
 De commissie wordt bijgestaan in haar werk door een evaluatieteam onder leiding van een daartoe aangewezen auditmanager van de Audit Dienst Defensie.
 
-#### Artikel 4. Bevoegdheden
+##### Artikel 4. Bevoegdheden
 
 1. De commissie en het evaluatieteam hebben toegang tot alle objecten van de Koninklijke Marechaussee.
 
@@ -68,7 +93,7 @@ De commissie wordt bijgestaan in haar werk door een evaluatieteam onder leiding 
 
 5. Personeel in dienst van Defensie verstrekt aan de leden van de commissie en het evaluatieteam desgevraagd de benodigde inlichtingen en geeft de medewerking die voor de vervulling van de onderzoeksopdracht van de commissie noodzakelijk is.
 
-#### Artikel 5. Rapportage
+##### Artikel 5. Rapportage
 
 1. Gedurende de looptijd van het evaluatieonderzoek wordt door de voorzitter van de commissie gevraagd en ongevraagd mondeling gerapporteerd aan de secretaris-generaal van het Ministerie van Defensie.
 
@@ -76,22 +101,22 @@ De commissie wordt bijgestaan in haar werk door een evaluatieteam onder leiding 
 
 3. Het definitieve rapport wordt uiterlijk op 15 januari 2009 aan de Minister van Defensie aangeboden.
 
-#### Artikel 6. Documentatie
+##### Artikel 6. Documentatie
 
 1. Alle documenten die in het kader van het onderzoek worden verzameld, worden verwerkt en bewaard in overeenstemming met de vigerende wet- en regelgeving. Het dienovereenkomstig samengestelde archief wordt na voltooiing van de werkzaamheden van de commissie overdragen aan de opdrachtgever.
 
 2. De rapportages of andere publicaties mogen geen persoonsgegevens bevatten.
 
-#### Artikel 7. Vacatiegelden
+##### Artikel 7. Vacatiegelden
 
 1. De voorzitter en leden van de commissie ontvangen vacatiegeld, conform het [Vacatiegeldenbesluit 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004317) en de [Regeling maximumbedragen vacatiegeld 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0017556).
 
 2. De commissie komt in het kader van het vacatiegeld in aanmerking voor een vergoeding in de categorie ‘zwaar’.
 
-#### Artikel 8. Inwerkingtreding
+##### Artikel 8. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 9. Citeertitel
+##### Artikel 9. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie Evaluatie Beleidsplan KMar 2010.

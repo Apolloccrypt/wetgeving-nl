@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregels artikel 5 Besluit Interoperabiliteit"
+title: "Beleidsregels artikel 5 Besluit Interoperabiliteit, Onafhankelijke Post en Telecommunicatieautoriteit (OPTA)"
 identifier: "BWBR0033202"
-categorie: "Overig"
-publicatiedatum: 2013-02-15
-laatste_update: 2013-02-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033202"
+country: "nl"
+rank: "zbo"
+publication_date: "2013-02-15"
+last_updated: "2013-02-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033202"
+soort: "zbo"
+stam_id: "12195893"
+version_id: "20406102"
+internal_id: "C28684801"
+label_id: "12167344"
+dtd_version: "2.0"
+original_entry_into_force: "2013-02-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033202/2013-02-15/0"
+intitule_bron: "Stcrt.2013-3705"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-02-07"
+intitule_published: "2013-02-14"
+intitule_in_force: "2013-02-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-3705"
+original_signed_date: "2013-02-07"
+original_published_date: "2013-02-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-3705"
+entry_into_force_date: "2013-02-15"
+jci_1_3: "jci1.3:c:BWBR0033202&z=2013-02-15&g=2013-02-15"
+jci_1_0: "1.0:c:BWBR0033202&g=2013-02-15"
+citeertitel_status: "officieel"
+short_title: "Beleidsregels artikel 5 Besluit Interoperabiliteit"
+signed_date: "2013-02-07"
+entry_into_force: "2013-02-15"
 ---
-
 # Beleidsregels artikel 5 Besluit Interoperabiliteit, Onafhankelijke Post en Telecommunicatieautoriteit (OPTA)
 
 Gelet op [artikel 6.5 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=6.5) en [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016700&artikel=1) en [5 van het Besluit Interoperabiliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0016700&artikel=5).
@@ -16,7 +42,7 @@ Besluit:
 
 #### afdeling Eerste. – Algemeen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregels wordt verstaan onder:
 
@@ -46,7 +72,7 @@ In deze beleidsregels wordt verstaan onder:
 
 #### afdeling Tweede. – Regels voor oproepen naar niet-geografische nummers
 
-#### Artikel 2. Oproepen naar 090x- en 18-nummers
+##### Artikel 2. Oproepen naar 090x- en 18-nummers
 
 1. Naar het oordeel van het college voldoen aanbieders bij oproepen naar 090x- en 18-nummers aan de in [artikel 5, tweede lid, van het BI](https://wetten.overheid.nl/jci1.3:c:BWBR0016700&artikel=5) neergelegde verplichting tot het hanteren van tarieven of andere vergoedingen die vergelijkbaar zijn met de tarieven of andere vergoedingen die zij hanteren voor oproepen naar geografische nummers, indien zij voor dergelijke oproepen het C+S model hanteren.
 
@@ -68,7 +94,7 @@ In deze beleidsregels wordt verstaan onder:
 
 3. Naar het oordeel van het college dient een aanbieder er bij het gebruik van andere tariefmodellen voor zorg te dragen dat, op het niveau van iedere individuele oproep, de netto som van inkomsten en betalingen voor de oproep naar een niet-geografische nummer niet hoger is dan de netto som van inkomsten en betalingen – plus eventuele extra kosten – indien de oproep zou plaatsvinden naar een geografisch nummer.
 
-#### Artikel 3. Oproepen naar 0800-nummers
+##### Artikel 3. Oproepen naar 0800-nummers
 
 1. Naar het oordeel van het college voldoen aanbieders bij oproepen naar 0800-nummers aan de in [artikel 5, tweede lid, van het BI](https://wetten.overheid.nl/jci1.3:c:BWBR0016700&artikel=5) neergelegde verplichting tot het hanteren van tarieven of andere vergoedingen die vergelijkbaar zijn met de tarieven of andere vergoedingen die zij hanteren voor oproepen naar geografische nummers, indien zij voor dergelijke oproepen het 0800 model hanteren.
 
@@ -86,7 +112,7 @@ In deze beleidsregels wordt verstaan onder:
 
 - f. overige aanbieders dienen op het niveau van iedere individuele oproep tarieven of vergoedingen te hanteren die niet hoger zijn dan de tarieven of andere vergoedingen die zij hanteren voor oproepen naar geografische nummers.
 
-#### Artikel 4. Oproepen naar 084-, 085-, 087-, 088-, 116- en 14-nummers
+##### Artikel 4. Oproepen naar 084-, 085-, 087-, 088-, 116- en 14-nummers
 
 1. Naar het oordeel van het college voldoen aanbieders voor oproepen naar 084-, 085-, 087-, 088-, 116- en 14-nummers aan de in [artikel 5, tweede lid, van het BI](https://wetten.overheid.nl/jci1.3:c:BWBR0016700&artikel=5) neergelegde verplichting tot het hanteren van tarieven of andere vergoedingen die vergelijkbaar zijn met de tarieven of andere vergoedingen die zij hanteren voor oproepen naar geografische nummers, indien:
 
@@ -98,16 +124,16 @@ In deze beleidsregels wordt verstaan onder:
 
 #### afdeling Derde. – Slotbepalingen
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het college kan in bijzondere omstandigheden van dit beleid afwijken.
 
 2. Het college houdt zich uitdrukkelijk de mogelijkheid voor daarin wijzigingen aan te brengen. Toepassing van deze beleidsregels in de praktijk en voortschrijdend inzicht zullen zo nodig tot aanpassing of herziening ervan leiden.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze beleidsregels worden aangehaald als: “Beleidsregels artikel 5 Besluit Interoperabiliteit”.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze beleidsregels treden in werking met ingang van de dag na publicatie ervan in de Staatscourant.

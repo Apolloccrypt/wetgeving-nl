@@ -1,18 +1,44 @@
 ---
 title: "Regeling vertrouwelijke stukken"
 identifier: "BWBR0031383"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2021-12-09
-laatste_update: 2021-12-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031383"
+country: "nl"
+rank: "reglement"
+publication_date: "2021-12-09"
+last_updated: "2021-12-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031383"
+soort: "reglement"
+stam_id: "11693953"
+version_id: "28077152"
+internal_id: "C39598891"
+label_id: "11666604"
+dtd_version: "2.0"
+original_entry_into_force: "2021-10-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031383/2021-12-09/0"
+intitule_bron: "Kst.2010-32391"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-05-28"
+intitule_published: "2010-05-28"
+intitule_in_force: "2010-05-28"
+intitule_status: "goed"
+original_publication: "Kst.2021-35849"
+original_signed_date: "2021-05-31"
+original_published_date: "2021-06-01"
+original_effect: "structuurwijziging"
+original_dossier: "35849"
+entry_into_force_date: "2021-10-07"
+entry_into_force_dossier: "35849"
+jci_1_3: "jci1.3:c:BWBR0031383&z=2021-12-09&g=2021-12-09"
+jci_1_0: "1.0:c:BWBR0031383&g=2021-12-09"
+citeertitel_status: "redactioneel"
+signed_date: "2021-05-31"
+entry_into_force: "2021-10-07"
 ---
-
 # Regeling vertrouwelijke stukken
 
 #### Paragraaf 1. Algemeen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -26,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 #### Paragraaf 2. Vertrouwelijke stukken
 
-#### Artikel 2. Registratie van vertrouwelijke stukken
+##### Artikel 2. Registratie van vertrouwelijke stukken
 
 1. De Griffie plenair registreert vertrouwelijke stukken in Parlis.
 
@@ -40,7 +66,7 @@ In deze regeling wordt verstaan onder:
 
 3. Indien door de afzender is aangegeven dat op het stuk een embargo rust, wordt het einde van het embargo door de Griffie plenair aangegeven op het stuk. Na afloop van het embargo doet de Voorzitter mededeling van de ontvangst van het stuk. De Griffie plenair draagt vervolgens zorg voor de openbaarmaking van het stuk.
 
-#### Artikel 3. Openbaarmaking registratie, ter inzage legging en bewaring van vertrouwelijke stukken
+##### Artikel 3. Openbaarmaking registratie, ter inzage legging en bewaring van vertrouwelijke stukken
 
 1. Na de registratie in Parlis worden in ieder geval de geregistreerde gegevens van een vertrouwelijk stuk openbaar gemaakt.
 
@@ -48,7 +74,7 @@ In deze regeling wordt verstaan onder:
 
 3. Vertrouwelijke stukken worden ter Griffie plenair dan wel ter Centraal Informatie Punt bewaard in een afgesloten ruimte, waarvan de sleutel berust bij de Griffie plenair dan wel het Centraal Informatie Punt.
 
-#### Artikel 4. Inzage in vertrouwelijke stukken
+##### Artikel 4. Inzage in vertrouwelijke stukken
 
 1. De volgende personen kunnen bij het Centraal Informatie Punt verzoeken om inzage in een vertrouwelijk stuk:
 
@@ -86,17 +112,17 @@ In deze regeling wordt verstaan onder:
 
 #### Paragraaf 3. Positie niet-beëdigde personen
 
-#### Artikel 5. Positie niet-beëdigde personen
+##### Artikel 5. Positie niet-beëdigde personen
 
 Personen die niet op grond van een dienstverband als ambtenaar werkzaam zijn bij de ambtelijke diensten van de Tweede Kamer der Staten-Generaal ondertekenen voorafgaand aan de aanvang van de werkzaamheden een verklaring, inhoudende dat zij bekend zijn met de inhoud van deze regeling en dat zij deze in acht zullen nemen.
 
 #### Paragraaf 4. Slotbepalingen
 
-#### Artikel 6. Inwerkingtreding
+##### Artikel 6. Inwerkingtreding
 
 Deze regeling treedt in werking op hetzelfde tijdstip waarop de wijziging van het Reglement van Orde van de Tweede Kamer der Staten-Generaal in verband met de uitvoering van de aanbevelingen van de Commissie Prinsjesdagstukken alsmede in verband met enige technische wijzigingen in werking treedt. (Kamerstukken II, 32391, nr. 2)
 
-#### Artikel 4a. Behandeling vertrouwelijkheid
+##### Artikel 4a. Behandeling vertrouwelijkheid
 
 1. De brief waarmee een vertrouwelijk stuk is aangeboden aan de Kamer, wordt op de procedurevergadering van de behandelende commissie geagendeerd voor behandeling. Hierbij wordt vermeld dat de motivering van de vertrouwelijkheid van het stuk en andere voorwaarden daaromtrent ter bespreking zijn.
 
@@ -114,7 +140,7 @@ Deze regeling treedt in werking op hetzelfde tijdstip waarop de wijziging van he
 
 #### Paragraaf 2a. Tijdelijke terinzagelegging
 
-#### Artikel 4b. Tijdelijk ter inzage gelegde vertrouwelijke stukken
+##### Artikel 4b. Tijdelijk ter inzage gelegde vertrouwelijke stukken
 
 1. In uitzonderlijke gevallen kan een vertrouwelijk stuk slechts tijdelijk ter inzage worden gelegd. Bij de brief ter aanbieding van het stuk wordt nadrukkelijk gemotiveerd waarom het stuk slechts tijdelijk ter inzage wordt gelegd en wordt de termijn voor de ter inzagelegging vermeld.
 
@@ -124,7 +150,7 @@ Deze regeling treedt in werking op hetzelfde tijdstip waarop de wijziging van he
 
 #### Paragraaf 2c. Staatsgeheime stukken
 
-#### Artikel 4c. Staatsgeheime stukken
+##### Artikel 4c. Staatsgeheime stukken
 
 1. In zeer uitzonderlijke gevallen kan een staatsgeheim stuk ter inzage worden gelegd. Bij de brief ter aanbieding van het stuk wordt nadrukkelijk het staatsgeheime karakter van het stuk gemotiveerd.
 

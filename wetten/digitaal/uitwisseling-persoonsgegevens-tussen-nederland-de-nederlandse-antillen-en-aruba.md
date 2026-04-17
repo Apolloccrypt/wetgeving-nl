@@ -1,13 +1,37 @@
 ---
 title: "Uitwisseling persoonsgegevens tussen Nederland, de Nederlandse Antillen en Aruba"
 identifier: "BWBR0012779"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2001-09-01
-laatste_update: 2001-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012779"
+country: "nl"
+rank: "circulaire"
+publication_date: "2001-09-01"
+last_updated: "2001-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012779"
+soort: "circulaire"
+stam_id: "6414073"
+version_id: "11081252"
+internal_id: "C14993131"
+label_id: "6403054"
+original_entry_into_force: "2001-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012779/2001-09-01/0"
+intitule_bron: "Stcrt.2001-167"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-08-24"
+intitule_published: "2001-08-30"
+intitule_in_force: "2001-08-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2001-167"
+original_signed_date: "2001-08-24"
+original_published_date: "2001-08-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2001-167-p6-SC30708"
+entry_into_force_date: "2001-09-01"
+jci_1_3: "jci1.3:c:BWBR0012779&z=2001-09-01&g=2001-09-01"
+jci_1_0: "1.0:c:BWBR0012779&g=2001-09-01"
+citeertitel_status: "redactioneel"
+signed_date: "2001-08-24"
+entry_into_force: "2001-09-01"
 ---
-
 # Uitwisseling persoonsgegevens tussen Nederland, de Nederlandse Antillen en Aruba
 
 ### 1. Algemeen

@@ -1,20 +1,46 @@
 ---
-title: "Regeling uitzondering inlichtingenplicht"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 22 maart 2017, 2017-0000044513, tot vaststelling van de uitzondering van de inlichtingenplicht"
 identifier: "BWBR0039399"
-categorie: "Overig"
-publicatiedatum: 2022-04-01
-laatste_update: 2022-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039399"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-04-01"
+last_updated: "2022-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039399"
+soort: "ministeriele-regeling"
+stam_id: "13966513"
+version_id: "24368432"
+internal_id: "C34967361"
+label_id: "13929584"
+dtd_version: "2.0"
+original_entry_into_force: "2017-09-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039399/2022-04-01/0"
+intitule_bron: "Stcrt.2017-17689"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-03-22"
+intitule_published: "2017-03-30"
+intitule_in_force: "2017-03-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-52905"
+original_signed_date: "2017-09-13"
+original_published_date: "2017-09-20"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2017-52905"
+entry_into_force_date: "2017-09-13"
+jci_1_3: "jci1.3:c:BWBR0039399&z=2022-04-01&g=2022-04-01"
+jci_1_0: "1.0:c:BWBR0039399&g=2022-04-01"
+citeertitel_status: "officieel"
+short_title: "Regeling uitzondering inlichtingenplicht"
+signed_date: "2017-09-13"
+entry_into_force: "2017-09-13"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 22 maart 2017, 2017-0000044513, tot vaststelling van de uitzondering van de inlichtingenplicht
 
 Gelet op [artikel 49 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=49), [artikel 35, eerste lid, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=35), [artikel 15, tweede lid, onderdeel a, van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=15), [artikel 17, eerste lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=17), [artikel 13, eerste lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=13), en [artikel 13, eerste lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=13);
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -26,11 +52,11 @@ In deze regeling wordt verstaan onder:
 
 - **SVB:** de Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6).
 
-#### Artikel 2. Administratie
+##### Artikel 2. Administratie
 
 De basisregistratie personen, en de polisadministratie zijn administraties als bedoeld in [artikel 49 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=49), [artikel 35, eerste lid, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=35), [artikel 15, tweede lid, onderdeel a, van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=15), de [artikelen 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=17), en [36b, vierde lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=36b), [artikel 13, eerste lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=13), en [artikel 13, eerste lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=13).
 
-#### Artikel 3. Inlichtingenplicht aan de SVB
+##### Artikel 3. Inlichtingenplicht aan de SVB
 
 1. De inlichtingenplicht, bedoeld in [artikel 49 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=49), geldt niet ten aanzien van gegevens die in de basisregistratie personen zijn opgenomen ten aanzien van:
 
@@ -110,7 +136,7 @@ De basisregistratie personen, en de polisadministratie zijn administraties als b
 
 - b. wijzigingen in de hoogte van het loon, blijkend uit de loongerelateerde gegevens, bedoeld in [artikel 5.1, eerste lid, onderdeel j, Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.1).
 
-#### Artikel 4. Inlichtingenplicht aan het college
+##### Artikel 4. Inlichtingenplicht aan het college
 
 De inlichtingenplicht, bedoeld in de [artikelen 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=17), en [36b, vierde lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=36b), [artikel 13, eerste lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=13), en [artikel 13, eerste lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=13), geldt niet ten aanzien van gegevens die in de basisregistratie zijn opgenomen ten aanzien van:
 
@@ -118,17 +144,17 @@ De inlichtingenplicht, bedoeld in de [artikelen 17, eerste lid](https://wetten.o
 
 - b. het sluiten of eindigen van een huwelijk of geregistreerd partnerschap als bedoeld in [artikel 2.7, eerste lid, onderdeel a, onder 1°, van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.7).
 
-#### Artikel 5. Inwerkingtreding
+##### Artikel 5. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 juni 2017.
 
-#### Artikel 6. Citeertitel
+##### Artikel 6. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling uitzondering inlichtingenplicht.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 4a. Inlichtingenplicht aan het UWV
+##### Artikel 4a. Inlichtingenplicht aan het UWV
 
 1. De inlichtingenplicht van degene die aanspraak maakt op toeslag, of zijn echtgenoot, bedoeld in [artikel 12 van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=12), geldt niet ten aanzien van gegevens die in de basisregistratie personen zijn opgenomen ten aanzien van:
 

@@ -1,13 +1,35 @@
 ---
 title: "Regeling Leesbevordering Nederlands Letterenfonds"
 identifier: "BWBR0051328"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051328"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051328"
+soort: "zbo"
+stam_id: "17490063"
+version_id: "30848702"
+internal_id: "C44205221"
+label_id: "17392524"
+dtd_version: "2.0"
+original_entry_into_force: "2025-07-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051328/2026-01-01/0"
+intitule_bron: "Stcrt.2025-25672"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2025-07-28"
+intitule_in_force: "2025-07-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-25672"
+original_published_date: "2025-07-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-25672"
+entry_into_force_date: "2025-07-29"
+jci_1_3: "jci1.3:c:BWBR0051328&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051328&g=2026-01-01"
+citeertitel_status: "officieel"
+entry_into_force: "2025-07-29"
 ---
-
 # Regeling Leesbevordering Nederlands Letterenfonds
 
 gelet op het bepaalde in de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537),
@@ -20,7 +42,7 @@ Besluit:
 
 De volgende Regeling Leesbevordering Nederlands Letterenfonds vast te stellen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -42,11 +64,11 @@ In deze regeling wordt verstaan onder:
 
 - i. **Technisch lezen:** het koppelen van leestekens aan klanken voor een vloeiende leesvaardigheid, waarbij woorden en zinnen in één oogopslag worden herkend;
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 Met deze regeling wil het Letterenfonds projecten op het gebied van leesbevordering stimuleren en ondersteunen die vanwege hun vernieuwend karakter of innovatief concept een aanvulling vormen op het bestaande aanbod. Ook wil het Letterenfonds de impact van die projecten onderzoeken.
 
-#### Artikel 3. Activiteiten
+##### Artikel 3. Activiteiten
 
 1. Subsidie kan uitsluitend worden aangevraagd voor niet-commerciële projecten die zich richten op leesbevordering in het Koninkrijk.
 
@@ -58,7 +80,7 @@ Met deze regeling wil het Letterenfonds projecten op het gebied van leesbevorder
 
 5. De te subsidiëren activiteiten vangen niet eerder aan dan de dag na de dag waarop de subsidie wordt verleend.
 
-#### Artikel 4. Aanvrager
+##### Artikel 4. Aanvrager
 
 1. Subsidie kan uitsluitend worden aangevraagd door een rechtspersoon zonder winstoogmerk met volledige rechtsbevoegdheid die leesbevorderende of literatuur-educatieve activiteiten produceert en/of uitvoert in het Koninkrijk.
 
@@ -68,7 +90,7 @@ Met deze regeling wil het Letterenfonds projecten op het gebied van leesbevorder
 
 4. Een aanvrager kan per subsidieronde maximaal één aanvraag indienen.
 
-#### Artikel 5. Voorwaarden voor ondersteuning
+##### Artikel 5. Voorwaarden voor ondersteuning
 
 Ten aanzien van de in de sector gangbare codes geldt in deze regeling dat:
 
@@ -78,7 +100,7 @@ Ten aanzien van de in de sector gangbare codes geldt in deze regeling dat:
 
 - c. de aanvrager in de aanvraag beschrijft hoe hij zich verhoudt tot de Code Diversiteit en Inclusie.
 
-#### Artikel 6. Weigeringsgronden
+##### Artikel 6. Weigeringsgronden
 
 De subsidie wordt in ieder geval niet verleend indien:
 
@@ -92,7 +114,7 @@ De subsidie wordt in ieder geval niet verleend indien:
 
 - e. op één of meer van de beoordelingscriteria als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0051328&artikel=10&z=2026-01-01&g=2026-01-01), lager dan een voldoende wordt gescoord.
 
-#### Artikel 7. Aanvraagperiode
+##### Artikel 7. Aanvraagperiode
 
 1. Het bestuur behandelt de aanvragen in twee rondes per jaar, met uitzondering van 2025 waarin één aanvraagronde plaatsvindt.
 
@@ -102,13 +124,13 @@ De subsidie wordt in ieder geval niet verleend indien:
 
 4. Aanvragen die buiten de aanvraagperiode binnenkomen, of op dat moment niet compleet zijn, worden geweigerd.
 
-#### Artikel 8. Subsidieplafond
+##### Artikel 8. Subsidieplafond
 
 1. Het subsidieplafond bedraagt € 1.100.000 per jaar. Indien in enig jaar meerdere aanvraagrondes worden gehouden, wordt het subsidieplafond voor dat jaar gelijkelijk over deze aanvraagrondes verdeeld. Dit zijn deelsubsidieplafonds.
 
 2. Wijzigingen in de hoogte van een subsidieplafond of de verdeling over de aanvraagrondes, worden bekendgemaakt in de Staatscourant en op de website van het Letterenfonds.
 
-#### Artikel 9. Aanvraag
+##### Artikel 9. Aanvraag
 
 1. Een aanvraag voor subsidie wordt ingediend via de website van het Nederlands Letterenfonds.
 
@@ -136,7 +158,7 @@ De subsidie wordt in ieder geval niet verleend indien:
 
 7. Aanvragen kunnen, na een afwijzend besluit gebaseerd op een negatief oordeel op grond van de toets aan de beoordelingscriteria, genoemd in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0051328&artikel=11&z=2026-01-01&g=2026-01-01), in een volgende ronde niet meer voor hetzelfde project opnieuw worden ingediend. Aanvragers die vanwege te weinig budget zijn afgewezen, mogen in een volgende ronde eenmalig voor hetzelfde project opnieuw aanvragen.
 
-#### Artikel 10. Hoogte subsidiebedrag
+##### Artikel 10. Hoogte subsidiebedrag
 
 1. Het aan te vragen subsidiebedrag bedraagt minimaal € 25.000 en maximaal € 50.000.
 
@@ -148,7 +170,7 @@ De subsidie wordt in ieder geval niet verleend indien:
 
 5. Als de aanvrager een bibliotheek, POI (Provinciale Ondersteuningsinstelling) of een landelijke ondersteuningsinstelling voor bibliotheken is, dan dient – in afwijking van het derde lid – de aanvrager minimaal 50% van de kosten van het project uit eigen middelen of op andere wijze te financieren. Indien een bibliotheek is gevestigd in de Cariben bedraagt dit percentage 10%.
 
-#### Artikel 11. Beoordelingscriteria
+##### Artikel 11. Beoordelingscriteria
 
 1. Alle aanvragen worden getoetst aan de volgende criteria:
 
@@ -160,13 +182,13 @@ De subsidie wordt in ieder geval niet verleend indien:
 
 - d. realisme van de begroting.
 
-#### Artikel 12. Adviezen
+##### Artikel 12. Adviezen
 
 1. Aanvragen die in aanmerking komen voor een inhoudelijke beoordeling worden voor advies voorgelegd aan een adviescommissie.
 
 2. De adviescommissie geeft per beoordelingscriterium als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0051328&artikel=11&z=2026-01-01&g=2026-01-01) een inhoudelijk advies, met als conclusie het oordeel onvoldoende, zwak, voldoende, goed of zeer goed, en adviseert over het al dan niet toewijzen van de aanvragen en de subsidiehoogte.
 
-#### Artikel 13. Verdeling budget
+##### Artikel 13. Verdeling budget
 
 1. Aanvragen die op één of meer onderdelen als onvoldoende of zwak zijn beoordeeld, worden op inhoudelijke gronden afgewezen.
 
@@ -188,11 +210,11 @@ De subsidie wordt in ieder geval niet verleend indien:
 
 6. In afwijking van het derde lid is bij het maken van een keuze tussen twee of meer aanvragen die gelijk zijn gerangschikt en niet allemaal kunnen worden gehonoreerd omdat dan het deelsubsidieplafond wordt overschreden, de beoordeling bij het criterium ‘Toegevoegde waarde van het project op het bestaande aanbod’ leidend. Ontstaat daarna nogmaals een gelijke rangschikking, dan is de beoordeling bij het criterium ‘Visie op leesbevordering’ bepalend. Ontstaat dan nogmaals een gelijke rangschikking, dan wordt de aanvraag gehonoreerd die het meest bijdraagt aan de geografische spreiding van gehonoreerde projecten over het gehele Koninkrijk. Ontstaat dan nogmaals een gelijke rangschikking, dan wordt door middel van loting bepaald welke aanvraag alsnog gehonoreerd wordt. Indien het resterende bedrag minder dan 50% van het aangevraagde bedrag bedraagt van de aanvrager die op grond van dit lid wordt gehonoreerd, wordt de aanvraag afgewezen en kan het bestuur besluiten het overgebleven bedrag van het subsidieplafond door te schuiven naar de eerstvolgende subsidieronde.
 
-#### Artikel 14. Besluit
+##### Artikel 14. Besluit
 
 Het bestuur informeert de aanvrager binnen 22 weken na de uiterste datum van indiening van de aanvraag, schriftelijk over zijn besluit.
 
-#### Artikel 15. Verplichtingen subsidieontvanger
+##### Artikel 15. Verplichtingen subsidieontvanger
 
 1. De subsidieontvanger is verplicht om mee te werken aan een door of namens het Letterenfondsingesteld impactonderzoek.
 
@@ -208,7 +230,7 @@ Het bestuur informeert de aanvrager binnen 22 weken na de uiterste datum van ind
 
 4. De subsidieontvanger vermeldt het Nederlands Letterenfonds als subsidiegever met het logo op de website van het project en alle promotie- en documentatiemateriaal, zoals folders, affiches en brochures van het project.
 
-#### Artikel 16. Verlening, bevoorschotting en vaststelling subsidie
+##### Artikel 16. Verlening, bevoorschotting en vaststelling subsidie
 
 1. Binnen acht weken na verlening wordt aan de aanvrager het voorschot betaald. De subsidieontvanger ontvangt als voorschot 100% van het toegekende subsidiebedrag.
 
@@ -216,7 +238,7 @@ Het bestuur informeert de aanvrager binnen 22 weken na de uiterste datum van ind
 
 3. De beschikking tot subsidievaststelling wordt door het bestuur gegeven binnen 22 weken na de aanvraag daarvan.
 
-#### Artikel 17. Intrekkings- en wijzigingsgronden subsidieverlening
+##### Artikel 17. Intrekkings- en wijzigingsgronden subsidieverlening
 
 1. Het bestuur kan de subsidieverlening intrekken of wijzigen als de aanvrager niet heeft voldaan aan de aan de subsidie verbonden verplichtingen.
 
@@ -228,7 +250,7 @@ Het bestuur informeert de aanvrager binnen 22 weken na de uiterste datum van ind
 
 5. Indien de subsidieontvanger niet heeft voldaan aan de meldplicht, bedoeld in [artikel 15, tweede lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0051328&artikel=15&z=2026-01-01&g=2026-01-01), kan het bestuur de subsidie op nihil stellen en het subsidiebedrag inclusief de verschuldigde wettelijke rente terugvorderen.
 
-#### Artikel 18. Slotbepaling
+##### Artikel 18. Slotbepaling
 
 1. In alle gevallen waarin deze regeling niet voorziet, beslist het bestuur.
 
@@ -236,11 +258,11 @@ Het bestuur informeert de aanvrager binnen 22 weken na de uiterste datum van ind
 
 3. Het bestuur kan, gelet op het belang dat deze regeling beoogt te beschermen, een artikel buiten toepassing laten of daarvan afwijken voor zover strikte toepassing leidt tot een onbillijkheid van overwegende aard.
 
-#### Artikel 19. Inwerkingtreding
+##### Artikel 19. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na uitgifte van de Staatscourant waarin zij wordt geplaatst. In afwijking van de eerste volzin blijft deze regeling zoals zij luidde op de dag voorafgaand aan de datum met ingang waarvan deze regeling vervalt, van toepassing op de afwikkeling van op grond van deze regeling ingediende aanvragen en verleende subsidies.
 
-#### Artikel 20. Citeertitel
+##### Artikel 20. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling Leesbevordering Nederlands Letterenfonds.
 

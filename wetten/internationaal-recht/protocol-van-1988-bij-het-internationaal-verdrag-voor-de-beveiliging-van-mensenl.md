@@ -1,13 +1,38 @@
 ---
 title: "Protocol van 1988 bij het Internationaal Verdrag voor de Beveiliging van Mensenlevens op zee, 1974"
 identifier: "BWBV0002357"
-categorie: "Internationaal recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2004-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002357"
+country: "nl"
+rank: "verdrag"
+publication_date: "2026-01-01"
+last_updated: "2004-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002357"
+soort: "verdrag"
+stam_id: "10002805673"
+version_id: "10002805222"
+internal_id: "C10006976681"
+label_id: "10002793344"
+dtd_version: "2.0"
+original_entry_into_force: "2000-02-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002357/2026-01-01/0"
+intitule_bron: "Trb.1989-135"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1991-02-22"
+intitule_published: "1989-10-20"
+intitule_in_force: "2005-03-11"
+intitule_status: "goed"
+original_publication: "Trb.1989-135"
+original_signed_date: "1991-02-22"
+original_published_date: "1989-10-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1989-135"
+entry_into_force_date: "2000-02-03"
+jci_1_3: "jci1.3:c:BWBV0002357&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBV0002357&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "1991-02-22"
+entry_into_force: "2000-02-03"
 ---
-
 # Protocol van 1988 bij het Internationaal Verdrag voor de Beveiliging van Mensenlevens op zee, 1974
 
 De Partijen bij dit Protocol,
@@ -20,7 +45,7 @@ Overwegende dat in deze behoefte het best kan worden voorzien door het sluiten v
 
 Zijn overeengekomen als volgt:
 
-#### Artikel I. Algemene verplichtingen
+##### Artikel I. Algemene verplichtingen
 
 1. De Partijen bij dit Protocol verbinden zich ertoe uitvoering te geven aan de bepalingen van dit Protocol en van de Bijlage daarbij, die een integrerend deel van dit Protocol vormt. Elke verwijzing naar dit Protocol houdt tegelijkertijd een verwijzing naar de Bijlage in.
 
@@ -28,7 +53,7 @@ Zijn overeengekomen als volgt:
 
 3. Ten aanzien van schepen die zijn gerechtigd de vlag te voeren van een Staat die geen Partij bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003264) en dit Protocol is, passen de Partijen bij dit Protocol de bepalingen van het Verdrag en dit Protocol toe voor zover nodig om te verzekeren dat zulke schepen geen gunstiger behandeling wordt toegekend.
 
-#### Artikel II. Eerdere verdragen
+##### Artikel II. Eerdere verdragen
 
 1. Tussen de Partijen bij dit Protocol treedt dit Protocol in de plaats van het Protocol uit 1978 bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003264).
 
@@ -36,7 +61,7 @@ Zijn overeengekomen als volgt:
 
 3. Een Partij bij dit Protocol geeft geen certificaten af krachtens en in overeenstemming met de bepalingen van het [Internationaal Verdrag voor de Beveiliging van Mensenlevens op Zee, 1974](https://wetten.overheid.nl/jci1.3:c:BWBV0003264), zoals aangenomen op 1 november 1974.
 
-#### Artikel III. Verstrekking van inlichtingen
+##### Artikel III. Verstrekking van inlichtingen
 
 De Partijen bij dit Protocol verbinden zich ertoe aan de Secretaris-Generaal van de Internationale Maritieme Organisatie (hierna te noemen „de Organisatie”) mede te delen en bij hem neder te leggen:
 
@@ -46,7 +71,7 @@ De Partijen bij dit Protocol verbinden zich ertoe aan de Secretaris-Generaal van
 
 - c. een voldoende aantal exemplaren van krachtens de bepalingen van dit Protocol afgegeven certificaten.
 
-#### Artikel IV. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
+##### Artikel IV. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
 
 1. Dit Protocol staat open voor ondertekening op de zetel van de Organisatie van 1 maart 1989 tot 28 februari 1990 en blijft daarna openstaan voor toetreding. Onder voorbehoud van het bepaalde in het derde lid kunnen Staten hun instemming door dit Protocol te zijn gebonden tot uitdrukking brengen door:
 
@@ -60,7 +85,7 @@ De Partijen bij dit Protocol verbinden zich ertoe aan de Secretaris-Generaal van
 
 3. Dit Protocol kan slechts zonder voorbehoud worden ondertekend, bekrachtigd, aanvaard of goedgekeurd, of daartoe kan slechts worden toegetreden door Staten die het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003264) zonder voorbehoud hebben ondertekend, bekrachtigd, aanvaard, goedgekeurd, of daartoe zijn toegetreden.
 
-#### Artikel V. Inwerkingtreding
+##### Artikel V. Inwerkingtreding
 
 1. Dit Protocol treedt in werking twaalf maanden na de datum waarop aan beide onderstaande voorwaarden is voldaan:
 
@@ -74,7 +99,7 @@ De Partijen bij dit Protocol verbinden zich ertoe aan de Secretaris-Generaal van
 
 4. Een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding nedergelegd na de datum waarop een wijziging van dit Protocol wordt geacht te zijn aanvaard ingevolge artikel VI, is van toepassing op dit Protocol als gewijzigd.
 
-#### Artikel VI. Wijzigingen
+##### Artikel VI. Wijzigingen
 
 De procedures vervat in [artikel VIII van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&artikel=VIII) zijn van toepassing op wijzigingen op dit Protocol, met dien verstande dat:
 
@@ -84,7 +109,7 @@ De procedures vervat in [artikel VIII van het Verdrag](https://wetten.overheid.n
 
 - c. wijzigingen op het aanhangsel bij de Bijlage bij dit Protocol kunnen worden aangenomen en in werking treden in overeenstemming met de procedure die van toepassing is op wijzigingen op andere hoofdstukken van de [Bijlage bij het Verdrag](onbekend) dan [hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I).
 
-#### Artikel VII. Opzegging
+##### Artikel VII. Opzegging
 
 1. Dit Protocol kan te allen tijde door een Partij worden opgezegd na afloop van een termijn van vijf jaar, te rekenen van de datum waarop dit Protocol voor die Partij in werking treedt.
 
@@ -94,7 +119,7 @@ De procedures vervat in [artikel VIII van het Verdrag](https://wetten.overheid.n
 
 4. Opzegging van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003264) door een Partij wordt geacht opzegging van dit Protocol door die Partij in te houden. Deze opzegging wordt van kracht op dezelfde datum als waarop de opzegging van het Verdrag van kracht wordt overeenkomstig [artikel XI, letter (c) van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&artikel=XI).
 
-#### Artikel VIII. Depositaris
+##### Artikel VIII. Depositaris
 
 1. Dit Protocol wordt nedergelegd bij de Secretaris-Generaal van de Organisatie (hierna te noemen „de depositaris”).
 
@@ -112,7 +137,7 @@ De procedures vervat in [artikel VIII van het Verdrag](https://wetten.overheid.n
 
 3. Zodra dit Protocol in werking treedt, wordt een voor eensluidend gewaarmerkt afschrift daarvan door de depositaris toegezonden aan het Secretariaat van de Verenigde Naties ter registratie en publikatie overeenkomstig [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-#### Artikel IX. Talen
+##### Artikel IX. Talen
 
 Dit Protocol is opgesteld in een enkel oorspronkelijk exemplaar in de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse taal, zijnde alle teksten gelijkelijk authentiek. Er wordt een officiële vertaling in de Italiaanse taal opgesteld, die wordt nedergelegd bij het ondertekende oorspronkelijke exemplaar.
 

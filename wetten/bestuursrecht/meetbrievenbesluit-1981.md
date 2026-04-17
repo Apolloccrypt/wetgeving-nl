@@ -1,13 +1,35 @@
 ---
-title: "Meetbrievenbesluit 1981"
+title: "Besluit van 24 juni 1981, houdende bepalingen voor de meting van schepen"
 identifier: "BWBR0003417"
-categorie: "Bestuursrecht"
-publicatiedatum: 2010-12-31
-laatste_update: 2010-12-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003417"
+country: "nl"
+rank: "amvb"
+publication_date: "2010-12-31"
+last_updated: "2010-12-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003417"
+soort: "AMvB"
+stam_id: "484073"
+version_id: "718452"
+internal_id: "C718451"
+label_id: "470424"
+dtd_version: "2.0"
+original_entry_into_force: "1982-07-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003417/2010-12-31/0"
+intitule_bron: "Stb.1981-479"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1981-06-24"
+intitule_status: "goed"
+original_publication: "Stb.1981-479"
+original_signed_date: "1981-06-24"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1982-07-18"
+jci_1_3: "jci1.3:c:BWBR0003417&z=2010-12-31&g=2010-12-31"
+jci_1_0: "1.0:c:BWBR0003417&g=2010-12-31"
+citeertitel_status: "officieel"
+short_title: "Meetbrievenbesluit 1981"
+signed_date: "1981-06-24"
+entry_into_force: "1982-07-18"
 ---
-
 # Besluit van 24 juni 1981, houdende bepalingen voor de meting van schepen
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 27 november 1979, Afdeling Juridische Zaken, nr. J/S 24268, Directoraat-Generaal van Scheepvaart;
@@ -20,7 +42,7 @@ Gezien het nader Rapport van Onze Minister van Verkeer en Waterstaat van 17 juni
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Dit besluit verstaat onder:
 
@@ -34,7 +56,7 @@ Dit besluit verstaat onder:
 
 - e. "bijzondere meetbrief": de meetbrief, anders dan bedoeld onder **e**, vermeldende de bruto- en netto-tonnage van een schip, door Onze Minister afgegeven ten behoeve van een schip.
 
-#### Artikel 2. Aanvragen van een meetbrief
+##### Artikel 2. Aanvragen van een meetbrief
 
 1. De aanvraag van een meetbrief geschiedt bij Onze Minister. Bij de aanvraag worden zo mogelijk tekeningen van het schip overgelegd.
 
@@ -48,7 +70,7 @@ Deze aanvraag tot meting van de ruimte onder het bovendek geschiedt overeenkomst
 
 4. Bij een aanvraag van een nieuwe meetbrief wordt de oude meetbrief met het uittreksel uit de meetbrief, als bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003417&artikel=6&z=2010-12-31&g=2010-12-31), overgelegd. Is de oude meetbrief een buitenlandse meetbrief, dan is het derde lid van dit artikel daarop van overeenkomstige toepassing.
 
-#### Artikel 3. Verplichtingen van de aanvrager
+##### Artikel 3. Verplichtingen van de aanvrager
 
 1. De aanvrager van een meetbrief of van een meting van de ruimte onder het bovendek, bedoeld in het [tweede lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003417&artikel=2&z=2010-12-31&g=2010-12-31), verschaft de met meting belaste ambtenaren van de Inspectie Verkeer en Waterstaat de middelen en de hulp om op een veilige wijze aan en van boord te komen en elk gedeelte van het schip te bereiken. Hij verstrekt hun voorts de nodige tekeningen, welke bij Onze Minister blijven berusten, verschaft hun alle gevorderde inlichtingen die voor de uitvoering van hun taak nodig zijn en doet op hun aanwijzingen alle losse voorwerpen verplaatsen, die een juiste meting kunnen belemmeren.
 
@@ -58,7 +80,7 @@ Deze aanvraag tot meting van de ruimte onder het bovendek geschiedt overeenkomst
 
 4. De kapitein, de eigenaar of de reder van het schip is verplicht zorg te dragen, dat de in het tweede lid bedoelde merken in stand blijven en zo nodig worden vernieuwd.
 
-#### Artikel 4. Vaststelling van de tonnages
+##### Artikel 4. Vaststelling van de tonnages
 
 1. De vaststelling van de tonnages wordt verricht door Onze Minister.
 
@@ -66,17 +88,17 @@ Deze aanvraag tot meting van de ruimte onder het bovendek geschiedt overeenkomst
 
 3. De vaststelling geschiedt overeenkomstig de voorschriften, geldende voor het schip, ten behoeve waarvan een meetbrief is aangevraagd, en met inachtneming van de bepalingen van de wet.
 
-#### Artikel 5. Voor de vaststelling benodigde werktuigen
+##### Artikel 5. Voor de vaststelling benodigde werktuigen
 
 De soort en de inrichting der voor de vaststelling van de tonnages benodigde werktuigen worden vastgesteld door Onze Minister.
 
-#### Artikel 6. Model van de meetbrief en uittreksel
+##### Artikel 6. Model van de meetbrief en uittreksel
 
 1. De Internationale Meetbrief (1969) en de bijzondere meetbrieven moeten wat betreft de vorm in overeenstemming zijn met de door Onze Minister vast te stellen modellen.
 
 2. Bij de afgifte van een meetbrief wordt tevens zo nodig een uittreksel uit de meetbrief afgegeven voor het aanvragen van de zeebrief.
 
-#### Artikel 7. Verzoek tot hermeting
+##### Artikel 7. Verzoek tot hermeting
 
 1. Indien de aanvrager van een meetbrief van mening is, dat de vaststelling van de bruto- en netto-tonnage opgenomen in de meetbrief, niet juist is, kan hij binnen twee weken na afgifte van de meetbrief aan Onze Minister een nieuwe vaststelling verzoeken.
 
@@ -92,11 +114,11 @@ Blijkt de eerste vaststelling niet juist te zijn, dan wordt na de tweede vastste
 
 Bij afgifte van een nieuwe meetbrief met een uittreksel uit de meetbrief worden de na de eerste vaststelling afgegeven exemplaren aan Onze Minister teruggegeven.
 
-#### Artikel 8. Wijziging van de meetbrief
+##### Artikel 8. Wijziging van de meetbrief
 
 Op verzoek van een belanghebbende kan Onze Minister, na verrichte controle, in door hem afgegeven meetbrieven, en eventueel in uittreksels daarvan, die hun geldigheid niet hebben verloren, door hem gewaarmerkte wijzigingen aanbrengen.
 
-#### Artikel 9. Intrekking van de meetbrief
+##### Artikel 9. Intrekking van de meetbrief
 
 1. Indien een meetbrief, afgegeven door Onze Minister, zijn geldigheid verliest, wordt hij door Onze Minister ingetrokken.
 
@@ -106,25 +128,25 @@ Op verzoek van een belanghebbende kan Onze Minister, na verrichte controle, in d
 
 Degene, tot wie de vordering is gericht, is verplicht daaraan onverwijld te voldoen.
 
-#### Artikel 10. Nadere regelen
+##### Artikel 10. Nadere regelen
 
 1. Door of namens Onze Minister kunnen in het belang van een juiste uitvoering van dit besluit nadere regelen worden gesteld.
 
 2. De in het eerste lid bedoelde regelen worden in de **Staatscourant** geplaatst.
 
-#### Artikel 11. Aanwijzingen
+##### Artikel 11. Aanwijzingen
 
 Onze Minister kan algemene of bijzondere aanwijzingen geven ter bevordering van de juiste naleving van de wet, dit besluit en de regelen, bedoeld in het [eerste lid van artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003417&artikel=10&z=2010-12-31&g=2010-12-31).
 
-#### Artikel 12. Strafbepaling
+##### Artikel 12. Strafbepaling
 
 Het niet voldoen door de kapitein, de eigenaar of de reder aan een der verplichtingen, vermeld in de [artikelen 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003417&artikel=3&z=2010-12-31&g=2010-12-31), en [9, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003417&artikel=9&z=2010-12-31&g=2010-12-31), is een strafbaar feit als bedoeld in artikel 29 van de wet.
 
-#### Artikel 13. Intrekking Meetbrievenbesluit 1949
+##### Artikel 13. Intrekking Meetbrievenbesluit 1949
 
 Het Meetbrievenbesluit 1949 wordt ingetrokken op een door Ons te bepalen tijdstip.
 
-#### Artikel 14. Citeertitel en inwerkingtreding
+##### Artikel 14. Citeertitel en inwerkingtreding
 
 Dit besluit, hetwelk kan worden aangehaald als "Meetbrievenbesluit", onder vermelding van het jaartal van het **Staatsblad** waarin dit besluit is geplaatst, treedt in werking op een door Ons te bepalen tijdstip.
 

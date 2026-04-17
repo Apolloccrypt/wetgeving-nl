@@ -1,14 +1,38 @@
 ---
-title: "Wet bijzondere regels met betrekking tot het recht op uitkering als bedoeld in de Uitkeringswet gewezen militairen"
+title: "Wet van 1 oktober 1992, houdende bijzondere regels met betrekking tot het recht op uitkering als bedoeld in de Uitkeringswet gewezen militairen alsmede wijziging van die wet"
 identifier: "BWBR0005676"
-categorie: "Sociaal recht"
-publicatiedatum: 2006-06-30
-laatste_update: 2006-06-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005676"
+country: "nl"
+rank: "wet"
+publication_date: "2006-06-30"
+last_updated: "2006-06-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005676"
+soort: "wet"
+stam_id: "77153"
+version_id: "106112"
+internal_id: "C106111"
+label_id: "78154"
+dtd_version: "2.0"
+original_entry_into_force: "1992-11-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005676/2006-06-30/0"
+intitule_bron: "Stb.1992-573"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-10-01"
+intitule_status: "goed"
+original_publication: "Stb.1992-573"
+original_signed_date: "1992-10-01"
+original_effect: "nieuwe-regeling"
+original_dossier: "22511"
+entry_into_force_date: "1992-11-04"
+entry_into_force_dossier: "22511"
+jci_1_3: "jci1.3:c:BWBR0005676&z=2006-06-30&g=2006-06-30"
+jci_1_0: "1.0:c:BWBR0005676&g=2006-06-30"
+citeertitel_status: "officieel"
+short_title: "Wet bijzondere regels met betrekking tot het recht op uitkering als bedoeld in de Uitkeringswet gewezen militairen"
+signed_date: "1992-10-01"
+entry_into_force: "1992-11-04"
 ---
-
-# Wet bijzondere regels met betrekking tot het recht op uitkering als bedoeld in de Uitkeringswet gewezen militairen
+# Wet van 1 oktober 1992, houdende bijzondere regels met betrekking tot het recht op uitkering als bedoeld in de Uitkeringswet gewezen militairen alsmede wijziging van die wet
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +40,7 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is de [Uitkeringswet ge
 
 Zo is het, dat Wij, de Raad van State gehoord en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1. Bijzondere regels met betrekking tot het recht op uitkering als bedoeld in de [Uitkeringswet gewezen militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002540)
+##### Artikel 1. Bijzondere regels met betrekking tot het recht op uitkering als bedoeld in de [Uitkeringswet gewezen militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002540)
 
 1. In dit artikel wordt verstaan onder:
 
@@ -38,11 +62,11 @@ Zo is het, dat Wij, de Raad van State gehoord en met gemeen overleg der Staten-G
 
 4. Het recht van de belanghebbende op wachtgeld vervalt met ingang van de dag waarop voor hem recht op een uitkering ingevolge de wet ontstaat.
 
-#### Artikel 2
+##### Artikel 2
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst en werkt terug tot en met 1 januari 1990.
 

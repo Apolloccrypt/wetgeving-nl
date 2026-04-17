@@ -1,13 +1,38 @@
 ---
-title: "Ierse uitvoeringsvoorschriften belastingovereenkomst Nederland-Ierland"
+title: "Ierse voorschriften tot uitvoering van de op 11 februari 1969 tussen Nederland en Ierland gesloten Overeenkomst tot het vermijden van dubbele belasting"
 identifier: "BWBR0004887"
-categorie: "Belastingrecht"
-publicatiedatum: 1997-06-19
-laatste_update: 1997-06-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004887"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1997-06-19"
+last_updated: "1997-06-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004887"
+soort: "ministeriele-regeling"
+stam_id: "4283093"
+version_id: "6046632"
+internal_id: "C6250031"
+label_id: "4261604"
+dtd_version: "2.0"
+original_entry_into_force: "1991-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004887/1997-06-19/0"
+intitule_bron: "Stcrt.1990-206"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1990-10-22"
+intitule_published: "1990-10-23"
+intitule_in_force: "1990-10-23"
+intitule_status: "goed"
+original_publication: "Stcrt.1990-206"
+original_signed_date: "1990-10-22"
+original_published_date: "1990-10-23"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1991-01-01"
+jci_1_3: "jci1.3:c:BWBR0004887&z=1997-06-19&g=1997-06-19"
+jci_1_0: "1.0:c:BWBR0004887&g=1997-06-19"
+citeertitel_status: "officieel"
+short_title: "Ierse uitvoeringsvoorschriften belastingovereenkomst Nederland-Ierland"
+signed_date: "1990-10-22"
+entry_into_force: "1991-01-01"
 ---
-
 # Ierse voorschriften tot uitvoering van de op 11 februari 1969 tussen Nederland en Ierland gesloten Overeenkomst tot het vermijden van dubbele belasting
 
 Besluit:
@@ -16,7 +41,7 @@ Door plaatsing in de Staatscourant het navolgende ter kennis van belanghebbende 
 
 Regeling inzake vrijstelling van Ierse belasting op interest, royalty's, pensioenen en lijfrenten, genoten door inwoners van Nederland, alsmede ter zake van persoonlijke aftrekken waarop inwoners van Nederland met betrekking tot de heffing van Ierse income tax aanspraak kunnen maken.
 
-#### Artikel 1. Aanspraken van inwoners van Nederland
+##### Artikel 1. Aanspraken van inwoners van Nederland
 
 Aan de op 11 februari 1969 tussen Nederland en Ierland gesloten Overeenkomst tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en het vermogen (Trb. 1969, 37) kunnen inwoners van Nederland onder meer de volgende aanspraken ontlenen, geregeld in de hieronder tussen haakjes vermelde artikelen van Overeenkomst:
 
@@ -32,7 +57,7 @@ Aan de op 11 februari 1969 tussen Nederland en Ierland gesloten Overeenkomst tot
 
 De onder de onderdelen a en b van dit artikel vermelde vrijstellingen zijn niet van toepassing, indien de genieter van de interest of de royalty's in Ierland een vaste inrichting heeft en de vordering uit hoofde waarvan de interest verschuldigd is dan wel het recht of de zaak uit hoofde waarvan de royalty's verschuldigd zijn tot het bedrijfsvermogen van die vaste inrichting behoort.
 
-#### Artikel 2. Ierse regeling
+##### Artikel 2. Ierse regeling
 
 Met uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004887&artikel=1&z=1997-06-19&g=1997-06-19) is van Ierse zijde de volgende regeling getroffen:
 
@@ -60,11 +85,11 @@ Met uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004887&a
 
 - d. Termijn van indiening van de formulieren Verzoeken om teruggaaf van Ierse belasting moeten de Ierse belastingautoriteiten bereiken vóór het einde van het tiende aanslagjaar (eindigende op de 5e april) volgende op dat waarop zij betrekking hebben.
 
-#### Artikel 3. Intrekking.
+##### Artikel 3. Intrekking.
 
 De beschikking van de staatssecretaris van Financiën van 20 december 1971, nr. B71/24053 (Stcrt. van 21 december 1971, nr. 247), wordt ingetrokken.
 
-#### Artikel 4. Inwerkingtreding.
+##### Artikel 4. Inwerkingtreding.
 
 1. Deze regeling kan worden aangehaald als: Ierse uitvoeringsvoorschriften belastingovereenkomst Nederland-Ierland.
 

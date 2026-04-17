@@ -1,13 +1,38 @@
 ---
 title: "Circulaire opslag ontplofbare stoffen voor civiel gebruik"
 identifier: "BWBR0020120"
-categorie: "Bestuursrecht"
-publicatiedatum: 2006-07-26
-laatste_update: 2006-07-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020120"
+country: "nl"
+rank: "circulaire"
+publication_date: "2006-07-26"
+last_updated: "2006-07-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020120"
+soort: "circulaire"
+stam_id: "8560863"
+version_id: "13496732"
+internal_id: "C18135351"
+label_id: "8541844"
+dtd_version: "2.0"
+original_entry_into_force: "2006-07-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020120/2006-07-26/0"
+intitule_bron: "Stcrt.2006-161"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-07-19"
+intitule_published: "2006-08-21"
+intitule_in_force: "2006-08-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-161"
+original_signed_date: "2006-07-19"
+original_published_date: "2006-08-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-161-p12-SC76427"
+entry_into_force_date: "2006-07-26"
+jci_1_3: "jci1.3:c:BWBR0020120&z=2006-07-26&g=2006-07-26"
+jci_1_0: "1.0:c:BWBR0020120&g=2006-07-26"
+citeertitel_status: "redactioneel"
+signed_date: "2006-07-19"
+entry_into_force: "2006-07-26"
 ---
-
 # Circulaire opslag ontplofbare stoffen voor civiel gebruik
 
 Geacht College,

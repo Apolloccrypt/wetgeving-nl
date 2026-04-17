@@ -1,14 +1,42 @@
 ---
-title: "Wet Fonds economische structuurversterking"
+title: "Wet van 21 december 1995, houdende instelling van een Fonds economische structuurversterking"
 identifier: "BWBR0007788"
-categorie: "Overig"
-publicatiedatum: 2019-01-01
-laatste_update: 2019-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007788"
+country: "nl"
+rank: "wet"
+publication_date: "2019-01-01"
+last_updated: "2019-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007788"
+soort: "wet"
+stam_id: "1988193"
+version_id: "24039102"
+internal_id: "C34544241"
+label_id: "1937054"
+dtd_version: "2.0"
+original_entry_into_force: "2017-03-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007788/2019-01-01/0"
+intitule_bron: "Stb.1996-51"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-12-21"
+intitule_published: "1996-02-06"
+intitule_in_force: "1996-02-06"
+intitule_status: "goed"
+original_publication: "Stb.2017-139"
+original_signed_date: "2017-03-22"
+original_published_date: "2017-04-07"
+original_effect: "structuurwijziging"
+original_dossier: "34426"
+original_url_id: "stb-2017-139"
+entry_into_force_date: "2017-03-22"
+entry_into_force_dossier: "34426"
+jci_1_3: "jci1.3:c:BWBR0007788&z=2019-01-01&g=2019-01-01"
+jci_1_0: "1.0:c:BWBR0007788&g=2019-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet Fonds economische structuurversterking"
+signed_date: "2017-03-22"
+entry_into_force: "2017-03-22"
 ---
-
-# Wet Fonds economische structuurversterking
+# Wet van 21 december 1995, houdende instelling van een Fonds economische structuurversterking
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +44,7 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is ter financiering van
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Er is een Fonds economische structuurversterking, hierna te noemen: het fonds.
 
@@ -24,7 +52,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 3. Onze Ministers van Economische Zaken en Klimaat en van Financiën beheren de begroting van het fonds.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De ontvangsten van het fonds worden gevormd door:
 
@@ -70,7 +98,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 7. Indien opbrengsten als bedoeld in het eerste lid, onder e, als tijdelijke voorziening in het fonds zijn gestort in verband met vertraging in de in het eerste lid, onder b, bedoelde ontvangsten, kunnen deze bedragen op de in het eerste lid, onder b, bedoelde ontvangsten door Onze Minister van Economische Zaken en Klimaat in overeenstemming met Onze Minister van Financiën in mindering worden gebracht.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Ten laste van het fonds kunnen bijdragen worden toegekend aan andere begrotingen van het Rijk als bedoeld in [artikel 2.1, eerste lid, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=2.1) ten behoeve van de financiering van:
 
@@ -90,27 +118,27 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2. Aan de toekenning van een bijdrage kunnen voorwaarden worden verbonden.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Ten laste van het fonds kunnen in de begroting niet meer uitgaven worden geraamd dan het totaal van de geraamde ontvangsten, inclusief het gerealiseerde batig saldo van het fonds van het voorafgaande jaar, verminderd met 10 procent van de bij de ontwerp-begroting voor dat jaar geraamde ontvangsten als bedoeld in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0007788&artikel=2&z=2019-01-01&g=2019-01-01).
 
 2. In afwijking van [artikel 2.13, eerste lid, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=2.13) worden de begroting en de financiële verantwoording van het fonds op basis van het kasstelsel, bedoeld in [artikel 1.1 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=1.1), gepresenteerd.
 
-#### Artikel 5
+##### Artikel 5
 
 Onze Minister van Economische Zaken en Klimaat kan in overeenstemming met Onze Minister van Financiën regels stellen met betrekking tot de voorwaarden waaronder de bijdragen betaalbaar worden gesteld, alsmede met betrekking tot de informatieverstrekking over de besteding van de verkregen bijdragen.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze wet treedt in werking met ingang van de eerste dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst en werkt terug tot en met 1 januari 1993.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze wet kan worden aangehaald als: Wet Fonds economische structuurversterking.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 5a
+##### Artikel 5a
 
 1. In afwijking van [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007788&artikel=2&z=2019-01-01&g=2019-01-01), wordt met betrekking tot het jaar 2007 een percentage van 40,9 toegepast.
 
@@ -122,7 +150,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 4a
+##### Artikel 4a
 
 1. Voor het fonds kan worden afgezien van het indienen van een voorstel van wet tot vaststelling van de begroting.
 

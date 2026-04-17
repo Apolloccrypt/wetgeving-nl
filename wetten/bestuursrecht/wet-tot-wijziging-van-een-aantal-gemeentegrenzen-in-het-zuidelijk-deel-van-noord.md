@@ -1,14 +1,37 @@
 ---
-title: "Wet tot wijziging van een aantal gemeentegrenzen in het zuidelijk deel van Noord-Kennemerland"
+title: "Wet van 18 juni 1992, tot wijziging van een aantal gemeentegrenzen in het zuidelijk deel van Noord-Kennemerland"
 identifier: "BWBR0005556"
-categorie: "Bestuursrecht"
-publicatiedatum: 1992-07-17
-laatste_update: 1992-07-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005556"
+country: "nl"
+rank: "wet"
+publication_date: "1992-07-17"
+last_updated: "1992-07-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005556"
+soort: "wet"
+stam_id: "323963"
+version_id: "470452"
+internal_id: "C470451"
+label_id: "317064"
+dtd_version: "2.0"
+original_entry_into_force: "1992-07-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005556/1992-07-17/0"
+intitule_bron: "Stb.1992-374"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-06-18"
+intitule_status: "goed"
+original_publication: "Stb.1992-374"
+original_signed_date: "1992-06-18"
+original_effect: "nieuwe-regeling"
+original_dossier: "22527"
+entry_into_force_date: "1992-07-17"
+jci_1_3: "jci1.3:c:BWBR0005556&z=1992-07-17&g=1992-07-17"
+jci_1_0: "1.0:c:BWBR0005556&g=1992-07-17"
+citeertitel_status: "officieel"
+short_title: "Wet tot wijziging van een aantal gemeentegrenzen in het zuidelijk deel van Noord-Kennemerland"
+signed_date: "1992-06-18"
+entry_into_force: "1992-07-17"
 ---
-
-# Wet tot wijziging van een aantal gemeentegrenzen in het zuidelijk deel van Noord-Kennemerland
+# Wet van 18 juni 1992, tot wijziging van een aantal gemeentegrenzen in het zuidelijk deel van Noord-Kennemerland
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +41,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### § I. Grenswijzigingen
 
-#### Artikel 1
+##### Artikel 1
 
 Met ingang van de datum van herindeling vinden de volgende grenswijzigingen plaats:
 
@@ -106,19 +129,19 @@ Met ingang van de datum van herindeling vinden de volgende grenswijzigingen plaa
 
 #### § 2. Overige bepalingen
 
-#### Artikel 2
+##### Artikel 2
 
 Een verkiezing als bedoeld in [artikel 52, tweede lid, sub **b**, van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=52) (**Stb.** 1991, 317) wordt gehouden in de gemeente Schermer.
 
-#### Artikel 3
+##### Artikel 3
 
 Indien de datum van herindeling valt binnen een jaar voor de datum waarop de verkiezingen voor de leden van de gemeenteraden ingevolge de [Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627) moeten worden gehouden, vinden deze verkiezingen niet plaats in de gemeente waarin ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005556&paragraaf=2&artikel=2&z=1992-07-17&g=1992-07-17) verkiezingen zijn gehouden als bedoeld in [artikel 52 van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=52). De gewone zittingsperiode van de bij de laatstgenoemde verkiezingen gekozen leden van de raad en van de uit die raad benoemde wethouders eindigt tegelijk met de zittingsperiode van de bij de eerstgenoemde verkiezingen gekozen leden van de raden van de overige gemeenten.
 
-#### Artikel 4
+##### Artikel 4
 
 Door Onze Minister van Binnenlandse Zaken wordt voor zover nodig binnen een maand na inwerkingtreding van deze wet de definitieve grensbeschrijving vastgelegd.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 

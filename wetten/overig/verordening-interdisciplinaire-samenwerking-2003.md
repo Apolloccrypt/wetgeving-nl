@@ -1,13 +1,37 @@
 ---
 title: "Verordening interdisciplinaire samenwerking 2003"
 identifier: "BWBR0015246"
-categorie: "Overig"
-publicatiedatum: 2003-10-01
-laatste_update: 2003-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015246"
+country: "nl"
+rank: "pbo"
+publication_date: "2003-10-01"
+last_updated: "2003-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015246"
+soort: "pbo"
+stam_id: "6646973"
+version_id: "11483292"
+internal_id: "C15479591"
+label_id: "6635404"
+original_entry_into_force: "2003-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015246/2003-10-01/0"
+intitule_bron: "Stcrt.2003-185"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-06-18"
+intitule_published: "2003-09-25"
+intitule_in_force: "2003-09-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2003-185"
+original_signed_date: "2003-06-18"
+original_published_date: "2003-09-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2003-185-p22-SC61262"
+entry_into_force_date: "2003-10-01"
+jci_1_3: "jci1.3:c:BWBR0015246&z=2003-10-01&g=2003-10-01"
+jci_1_0: "1.0:c:BWBR0015246&g=2003-10-01"
+citeertitel_status: "officieel"
+signed_date: "2003-06-18"
+entry_into_force: "2003-10-01"
 ---
-
 # Verordening interdisciplinaire samenwerking 2003
 
 Overwegende dat het gewenst is regels vast te stellen over de wijze waarop samenwerkingsverbanden kunnen worden aangegaan ter waarborging van de onafhankelijkheid en onpartijdigheid van het notariaat;
@@ -24,7 +48,7 @@ stelt de navolgende verordening vast:
 
 #### Definities
 
-#### Artikel 1
+##### Artikel 1
 
 In deze verordening wordt verstaan onder:
 
@@ -40,7 +64,7 @@ In deze verordening wordt verstaan onder:
 
 #### Algemeen
 
-#### Artikel 2
+##### Artikel 2
 
 Het is de notaris niet geoorloofd - direct danwel indirect - een samenwerkingsverband met beoefenaren van een ander beroep te onderhouden, dan met:
 
@@ -52,7 +76,7 @@ Het is de notaris niet geoorloofd - direct danwel indirect - een samenwerkingsve
 
 #### Staaksgewijze opbouw
 
-#### Artikel 3
+##### Artikel 3
 
 De notarissen vormen gezamenlijk een staak waaraan binnen het samenwerkingsverband doorslaggevende zeggenschap ten aanzien van de praktijkuitoefening toekomt.
 
@@ -60,7 +84,7 @@ Indien tot het samenwerkingsverband slechts één notaris behoort komt die zegge
 
 #### Onafhankelijkheid en onpartijdigheid notaris
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het is de notaris niet toegestaan in het kader van het samenwerkingsverband enige verplichting aan te gaan of te onderhouden, waardoor de onafhankelijkheid in de praktijkuitoefening - met inbegrip van het op onpartijdige wijze en met de grootst mogelijke zorgvuldigheid behartigen van de belangen van alle bij de rechtshandeling betrokkenen - in gevaar wordt of kan worden gebracht of afbreuk wordt gedaan aan de zorg die hij als notaris behoort te betrachten ten opzichte van degenen te wier behoeve hij optreedt. De notaris gaat in het samenwerkingsverband ook niet anderszins over tot enig handelen of nalaten in afwijking van hetgeen een behoorlijk notaris betaamt. Hij creëert door het samenwerkingsverband niet een situatie of laat deze voortbestaan waardoor de vertrouwensrelatie met cliënten in gevaar wordt of kan worden gebracht.
 
@@ -72,7 +96,7 @@ Indien tot het samenwerkingsverband slechts één notaris behoort komt die zegge
 
 #### Verplichtingen voor beoefenaren van ander beroep
 
-#### Artikel 5
+##### Artikel 5
 
 1. De notaris legt aan de kantoorgenoten de verplichting op dat dezen zich, evenals de notaris, onthouden van voor de notaris bij of krachtens de wet verboden handelingen.
 
@@ -82,7 +106,7 @@ Indien tot het samenwerkingsverband slechts één notaris behoort komt die zegge
 
 #### Chinese walls
 
-#### Artikel 6
+##### Artikel 6
 
 1. De notaris opent in elke door een of meer partijen aan hem opgedragen zaak een eigen dossier.
 
@@ -98,7 +122,7 @@ De notaris kan een kantoorgenoot inzage geven in de gegevens mits alle betrokken
 
 #### Eigen praktijk
 
-#### Artikel 7
+##### Artikel 7
 
 De notaris zorgt ervoor dat de gezamenlijke notarissen binnen het samenwerkingsverband een zodanige praktijk voeren dat zij in hun praktijkuitoefening niet afhankelijk worden van hun kantoorgenoten.
 
@@ -106,7 +130,7 @@ Indien tot het samenwerkingsverband slechts één notaris behoort zorgt deze erv
 
 #### Naar buiten optreden. Naam
 
-#### Artikel 8
+##### Artikel 8
 
 1. Indien het naar buiten optreden en de praktijkuitoefening van het, al dan niet over verschillende vestigingen verdeeld, samenwerkingsverband niet geschieden onder één gemeenschappelijke naam, maakt de notaris daarbij ondubbelzinnig duidelijk dat hij deelnemer is van een samenwerkingsverband waarvan de deelnemers geheel of gedeeltelijk voor gezamenlijke rekening en risico praktijk uitoefenen of zeggenschap over bedrijfsvoering met elkaar delen.
 
@@ -120,7 +144,7 @@ Indien tot het samenwerkingsverband slechts één notaris behoort zorgt deze erv
 
 #### Naar buiten optreden. Deelnemers. Plaats
 
-#### Artikel 9
+##### Artikel 9
 
 1. Bij het naar buiten optreden blijkt wie als notaris en wie als beoefenaars van een ander beroep aan het samenwerkingsverband deelnemen en welk beroep zij uitoefenen.
 
@@ -130,7 +154,7 @@ Indien tot het samenwerkingsverband slechts één notaris behoort zorgt deze erv
 
 #### Tevoren toestemming
 
-#### Artikel 10
+##### Artikel 10
 
 De notaris mag pas een samenwerkingsverband aangaan nadat door het bestuur van de KNB is vastgesteld dat aan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015246&artikel=2&z=2003-10-01&g=2003-10-01) opgenomen criteria is voldaan.
 
@@ -142,7 +166,7 @@ Het bestuur kan tevens een verklaring van een onafhankelijke accountant verlange
 
 #### Verklaring
 
-#### Artikel 11
+##### Artikel 11
 
 De in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0015246&artikel=10&z=2003-10-01&g=2003-10-01) genoemde documenten omvatten het volgende:
 
@@ -156,19 +180,19 @@ De in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0015246&artikel=10&z=
 
 #### Notaris en kandidaat-notaris
 
-#### Artikel 12
+##### Artikel 12
 
 Onder notaris in deze verordening wordt ook verstaan de kandidaat-notaris, tenzij uit de aard van de bepaling anders voortvloeit.
 
 #### Bevoegdheid nadere regelgeving bestuur KNB
 
-#### Artikel 13
+##### Artikel 13
 
 Het bestuur van de KNB is bevoegd om met betrekking tot de in deze verordening behandelde onderwerpen nadere regels te geven. Over het ontwerp daarvan wordt de ledenraad geraadpleegd. De regels worden zo spoedig mogelijk na vaststelling ter kennis van het ministerie van Justitie gebracht.
 
 #### Overgangsbepaling
 
-#### Artikel 14
+##### Artikel 14
 
 Een notaris die behoort tot een samenwerkingsverband dat op moment van inwerkingtreding van deze verordening reeds bestaat zal, indien nodig, uiterlijk één jaar daarna de opzet daarvan in overeenstemming met de artikelen van deze verordening moeten hebben aangepast.
 
@@ -176,10 +200,10 @@ Binnen twee maanden na het verstrijken van deze termijn legt de notaris aan het 
 
 #### Slotbepalingen
 
-#### Artikel 15
+##### Artikel 15
 
 Deze verordening wordt aangehaald als Verordening interdisciplinaire samenwerking 2003.
 
-#### Artikel 16
+##### Artikel 16
 
 Deze verordening treedt in werking met ingang van 1 oktober 2003 of zoveel later als de termijn van tien dagen na publicatie in de Staatscourant als bedoeld in [artikel 91 lid 2 Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=91) is verstreken.

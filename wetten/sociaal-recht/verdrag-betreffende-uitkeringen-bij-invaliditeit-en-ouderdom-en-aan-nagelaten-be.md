@@ -1,13 +1,35 @@
 ---
 title: "Verdrag betreffende uitkeringen bij invaliditeit en ouderdom en aan nagelaten betrekkingen"
 identifier: "BWBV0004670"
-categorie: "Sociaal recht"
-publicatiedatum: 1970-10-27
-laatste_update: 1970-10-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004670"
+country: "nl"
+rank: "verdrag"
+publication_date: "1970-10-27"
+last_updated: "1970-10-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004670"
+soort: "verdrag"
+stam_id: "10004252973"
+version_id: "10004441482"
+internal_id: "C10006985961"
+label_id: "10004239104"
+dtd_version: "2.0"
+original_entry_into_force: "1970-10-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004670/1970-10-27/0"
+intitule_bron: "Trb.1968-131"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1968-10-18"
+intitule_in_force: "1969-12-19"
+intitule_status: "goed"
+original_publication: "Trb.1968-131"
+original_published_date: "1968-10-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1968-131"
+entry_into_force_date: "1970-10-27"
+jci_1_3: "jci1.3:c:BWBV0004670&z=1970-10-27&g=1970-10-27"
+jci_1_0: "1.0:c:BWBV0004670&g=1970-10-27"
+citeertitel_status: "redactioneel"
+entry_into_force: "1970-10-27"
 ---
-
 # Verdrag betreffende uitkeringen bij invaliditeit en ouderdom en aan nagelaten betrekkingen
 
 De Algemene Conferentie van de Internationale Arbeidsorganisatie,
@@ -22,7 +44,7 @@ Neemt heden, de 29ste juni 1967, het volgende Verdrag aan, dat kan worden aangeh
 
 ## Deel I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit Verdrag
 
@@ -50,7 +72,7 @@ Voor de toepassing van dit Verdrag
 
 - j. wordt onder de termen „contributieve uitkeringen” en „niet-contributieve uitkeringen” onderscheidenlijk verstaan: de uitkeringen waarvan de toekenning al dan niet afhankelijk is van een directe geldelijke bijdrage van de beschermde personen of hun werkgever, of van het gedurende een zeker tijdvak verrichten van arbeid.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Elk Lid te welks aanzien dit Verdrag van kracht is moet toepassen:
 
@@ -64,13 +86,13 @@ Voor de toepassing van dit Verdrag
 
 2. Elk Lid moet in zijn akte van bekrachtiging aangeven ten aanzien van welk der delen II tot en met IV van dit Verdrag het de verplichtingen, voortvloeiende uit het Verdrag, aanvaardt.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Elk Lid dat dit Verdrag heeft bekrachtigd kan later aan de Directeur-Generaal van het Internationaal Arbeidsbureau ter kennis brengen dat het de verplichtingen voortvloeiende uit het Verdrag aanvaardt ten aanzien van een of meer der delen II tot en met IV, voor zover het die in zijn akte van bekrachtiging niet reeds heeft genoemd.
 
 2. De aanvaarding van de verplichtingen bedoeld in het voorgaande lid, wordt geacht een integrerend deel uit te maken van de bekrachtiging en heeft gelijke rechtskracht te rekenen van de datum der kennisgeving.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een Lid dat op economisch gebied nog niet voldoende tot ontwikkeling is gekomen kan, door een bij de akte van bekrachtiging gevoegde gemotiveerde verklaring, zich het recht voorbehouden tot tijdelijke toepassing van de afwijkende bepalingen voorzien in artikel 9, tweede lid, artikel 13, tweede lid, artikel 16, tweede lid en artikel 22, tweede lid.
 
@@ -82,11 +104,11 @@ Voor de toepassing van dit Verdrag
 
 3. Elk Lid dat een verklaring heeft afgelegd overeenkomstig het eerste lid van dit artikel dient, wanneer de omstandigheden dit toelaten, het aantal beschermde loontrekkenden te verhogen.
 
-#### Artikel 5
+##### Artikel 5
 
 Wanneer op grond van een der delen II tot en met IV van dit Verdrag, waarop de bekrachtiging van toepassing is, een Lid gehouden is voorgeschreven groepen personen te beschermen die ten minste een bepaald percentage van de loontrekkenden of van het economisch actieve deel der bevolking uitmaken, moet dat Lid, alvorens zich te verbinden tot toepassing van dat deel, zich ervan vergewissen dat het bedoelde percentage is bereikt.
 
-#### Artikel 6
+##### Artikel 6
 
 Voor de toepassing van de delen II, III of IV van dit Verdrag kan een Lid rekening houden met de bescherming, voortvloeiende uit verzekeringen welke krachtens haar wetgeving niet verplicht zijn voor de beschermde personen, wanneer deze verzekeringen:
 
@@ -98,15 +120,15 @@ Voor de toepassing van de delen II, III of IV van dit Verdrag kan een Lid rekeni
 
 ## Deel II. Uitkeringen bij invaliditeit
 
-#### Artikel 7
+##### Artikel 7
 
 Elk Lid te welks aanzien dit deel van het Verdrag van kracht is, moet overeenkomstig de volgende artikelen van dit deel aan de beschermde personen uitkeringen bij invaliditeit waarborgen.
 
-#### Artikel 8
+##### Artikel 8
 
 De verzekerde eventualiteit moet omvatten de ongeschiktheid om enige beroepsmatige arbeid in bepaalde mate te verrichten, wanneer die ongeschiktheid waarschijnlijk blijvend zal zijn, dan wel wanneer zij voortbestaat na afloop van een voorgeschreven tijdvak van tijdelijke of aanvankelijke ongeschiktheid.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Tot de beschermde personen moeten worden gerekend:
 
@@ -122,7 +144,7 @@ De verzekerde eventualiteit moet omvatten de ongeschiktheid om enige beroepsmati
 
 - b. voorgeschreven groepen loontrekkenden in industriële ondernemingen, welke ten minste 50 procent uitmaken van het totale aantal loontrekkenden, werkzaam in industriële ondernemingen.
 
-#### Artikel 10
+##### Artikel 10
 
 De uitkering bij invaliditeit moet worden verleend in de vorm van een periodieke betaling berekend:
 
@@ -130,7 +152,7 @@ De uitkering bij invaliditeit moet worden verleend in de vorm van een periodieke
 
 - b. overeenkomstig de bepalingen van artikel 28, wanneer alle ingezetenen of de ingezetenen wier inkomsten tijdens de eventualiteit voorgeschreven grenzen niet overschrijden, worden beschermd.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De in artikel 10 bedoelde uitkering moet bij intreden van de verzekerde eventualiteit ten minste worden gewaarborgd:
 
@@ -150,11 +172,11 @@ De uitkering bij invaliditeit moet worden verleend in de vorm van een periodieke
 
 5. Aan het bepaalde in het eerste en tweede lid van dit artikel wordt geacht te zijn voldaan, wanneer een uitkering, berekend overeenkomstig deel V, ten minste wordt gewaarborgd aan ieder beschermd persoon die overeenkomstig voorgeschreven regelen een wachttijd van premiebetaling of arbeid heeft vervuld, die bij een voorgeschreven minimumleeftijd niet langer dan vijfjaren mag zijn, maar die naar gelang de leeftijd vordert, langer mag zijn, doch niet langer dan een voorgeschreven aantal jaren.
 
-#### Artikel 12
+##### Artikel 12
 
 De in de artikelen 10 en 11 bedoelde uitkering moet worden verleend tijdens de gehele duur van de eventualiteit of tot het tijdstip waarop deze wordt vervangen door een ouderdomsuitkering.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Elk Lid, te welks aanzien dit deel van het Verdrag van kracht is moet, onder voorgeschreven voorwaarden:
 
@@ -166,11 +188,11 @@ De in de artikelen 10 en 11 bedoelde uitkering moet worden verleend tijdens de g
 
 ## Deel III. Ouderdomsuitkeringen
 
-#### Artikel 14
+##### Artikel 14
 
 Elk Lid, te welks aanzien dit deel van het Verdrag van kracht is, moet overeenkomstig de volgende artikelen van dit deel aan de beschermde personen ouderdomsuitkeringen waarborgen.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De verzekerde eventualiteit bestaat in het bereikt hebben van een voorgeschreven leeftijd.
 
@@ -178,7 +200,7 @@ Elk Lid, te welks aanzien dit deel van het Verdrag van kracht is, moet overeenko
 
 3. Indien de voorgeschreven leeftijd gelijk is aan of hoger dan 65 jaar, moet deze onder voorgeschreven voorwaarden worden verlaagd voor personen die werkzaamheden hebben verricht welke door de nationale wetgeving met het oog op de ouderdomsuitkeringen als zwaar of ongezond worden aangemerkt.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Tot de beschermde personen moeten worden gerekend:
 
@@ -194,7 +216,7 @@ Elk Lid, te welks aanzien dit deel van het Verdrag van kracht is, moet overeenko
 
 - b. voorgeschreven groepen loontrekkenden in industriële ondernenemingen, welke ten minste 50 procent uitmaken van het totale aantal loontrekkenden, werkzaam in industriële ondernemingen.
 
-#### Artikel 17
+##### Artikel 17
 
 De ouderdomsuitkering moet worden verleend in de vorm van een periodieke betaling, berekend:
 
@@ -202,7 +224,7 @@ De ouderdomsuitkering moet worden verleend in de vorm van een periodieke betalin
 
 - b. overeenkomstig de bepalingen van artikel 28, wanneer alle ingezetenen of de ingezetenen wier inkomsten tijdens de eventualiteit voorgeschreven grenzen niet overschrijden worden beschermd.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De in artikel 17 bedoelde uitkering moet bij intreden van de verzekerde eventualiteit ten minste worden gewaarborgd:
 
@@ -220,17 +242,17 @@ De ouderdomsuitkering moet worden verleend in de vorm van een periodieke betalin
 
 4. Een evenredige vermindering van het percentage, aangegeven in de bij deel V gevoegde tabel, kan worden toegepast wanneer de wachttijd benodigd voor de toekenning van een met het verminderde percentage overeenkomende uitkering langer is dan tien jaren van premiebetaling of arbeid, dan wel vijf jaren van wonen; doch korter dan dertig jaren van premiebetaling of arbeid of twintig jaren van wonen. Ingeval bedoelde wachttijd langer is dan vijftien jaren van premiebetaling of arbeid, wordt een verminderde uitkering toegekend overeenkomstig het tweede lid van dit artikel.
 
-#### Artikel 19
+##### Artikel 19
 
 De in de artikelen 17 en 18 bedoelde uitkering moet worden verleend tijdens de gehele duur van de eventualiteit.
 
 ## Deel IV. Uitkeringen aan nagelaten betrekkingen
 
-#### Artikel 20
+##### Artikel 20
 
 Elk Lid, te welks aanzien dit deel van het Verdrag van kracht is, moet overeenkomstig de volgende artikelen van dit deel aan de beschermde personen een uitkering aan nagelaten betrekkingen waarborgen.
 
-#### Artikel 21
+##### Artikel 21
 
 1. De verzekerde eventualiteit moet omvatten het verlies van bestaansmiddelen door de weduwe of de kinderen tengevolge van het overlijden van hun kostwinner.
 
@@ -244,7 +266,7 @@ Elk Lid, te welks aanzien dit deel van het Verdrag van kracht is, moet overeenko
 
 4. Voor een weduwe zonder kinderen kan voor het verkrijgen van recht op een uitkering aan nagelaten betrekkingen een minimumduur van het huwelijk worden vereist.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Tot de beschermde personen moeten worden gerekend:
 
@@ -260,7 +282,7 @@ Elk Lid, te welks aanzien dit deel van het Verdrag van kracht is, moet overeenko
 
 - b. de echtgenoten, kinderen en andere personen die door de nationale wetgeving als ten laste komend worden aangemerkt, wier kostwinner behoorde tot voorgeschreven groepen loontrekkenden in industriële ondernemingen, welke ten minste 50 procent uitmaken van het totale aantal loontrekkenden, werkzaam in industriële ondernemingen.
 
-#### Artikel 23
+##### Artikel 23
 
 De uitkeringen aan nagelaten betrekkingen worden verleend in de vorm van een periodieke betaling, berekend:
 
@@ -268,7 +290,7 @@ De uitkeringen aan nagelaten betrekkingen worden verleend in de vorm van een per
 
 - b. overeenkomstig de bepalingen van artikel 28, wanneer alle ingezetenen of de ingezetenen wier inkomsten tijdens de eventualiteit voorgeschreven grenzen niet overschrijden worden beschermd.
 
-#### Artikel 24
+##### Artikel 24
 
 1. De in artikel 23 bedoelde uitkering moet bij het intreden van de verzekerde eventualiteit ten minste worden gewaarborgd:
 
@@ -288,13 +310,13 @@ De uitkeringen aan nagelaten betrekkingen worden verleend in de vorm van een per
 
 5. Aan het bepaalde in het eerste en tweede lid van dit artikel wordt geacht te zijn voldaan wanneer een uitkering, berekend overeenkomstig deel V, ten minste wordt gewaarborgd aan iedere beschermde persoon, wiens kostwinner overeenkomstig voorgeschreven regelen een wachttijd van premiebetaling of arbeid heeft vervuld die bij een voorgeschreven minimumleeftijd niet langer dan vijf jaren mag zijn, maar die naarmate de leeftijd vordert, niet langer mag zijn dan een voorgeschreven maximumaantal jaren.
 
-#### Artikel 25
+##### Artikel 25
 
 De in de artikelen 23 en 24 bedoelde uitkering moet worden verleend tijdens de gehele duur van de eventualiteit.
 
 ## Deel V. Berekening van periodieke betalingen
 
-#### Artikel 26
+##### Artikel 26
 
 1. Ten aanzien van elke periodieke betaling waarop dit artikel van toepassing is, moet het bedrag van de uitkering, vermeerderd met het bedrag van de tijdens de eventualiteit verstrekte kinderbijslag, zodanig zijn dat het voor de model-gerechtigde, bedoeld in de bij dit deel gevoegde tabel, ten minste gelijk is aan het in die tabel voor het onderhavige geval genoemde percentage van het totaal van de vroegere inkomsten uit arbeid van de gerechtigde of van zijn kostwinner en van het bedrag van de kinderbijslag, verstrekt aan een beschermde persoon die dezelfde gezinslasten heeft als de model-gerechtigde.
 
@@ -322,7 +344,7 @@ De in de artikelen 23 en 24 bedoelde uitkering moet worden verleend tijdens de g
 
 9. Het loon van de geschoolde mannelijke arbeider, met inbegrip van de eventuele duurtetoeslagen, wordt bepaald naar de grondslag van het loon voor een normaal aantal arbeidsuren, vastgesteld hetzij bij collectieve arbeidsovereenkomst, hetzij eventueel bij of krachtens de nationale wetgeving, hetzij krachtens gewoonte; wanneer de aldus vastgestelde lonen van streek tot streek verschillen en wanneer het voorgaande lid niet wordt toegepast, wordt het gemiddelde loon als grondslag genomen.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Ten aanzien van elke periodieke betaling waarop dit artikel van toepassing is, moet het bedrag van de uitkering, vermeerderd met het bedrag van de tijdens de eventualiteit verleende kinderbijslag, zodanig zijn dat het voor de model-gerechtigde, bedoeld in de bij dit deel gevoegde tabel, ten minste gelijk is aan het in die tabel voor de desbetreffende eventualiteit aangegeven percentage van het loon van een volwassen ongeschoolde mannelijke arbeider, vermeerderd met het bedrag van de kinderbijslag, verleend aan een beschermde persoon die dezelfde gezinslasten heeft als de model-gerechtigde.
 
@@ -342,7 +364,7 @@ De in de artikelen 23 en 24 bedoelde uitkering moet worden verleend tijdens de g
 
 7. Het loon van een volwassen ongeschoolde mannelijke arbeider, met inbegrip van de eventuele duurtetoeslagen, wordt bepaald naar de grondslag van het loon voor een normaal aantal arbeidsuren, vastgesteld hetzij bij collectieve arbeidsovereenkomst, hetzij eventueel bij of krachtens de nationale wetgeving, hetzij krachtens gewoonte; wanneer de aldus vastgestelde lonen van streek tot streek verschillen en wanneer het voorgaande lid niet wordt toegepast, wordt het gemiddelde loon als grondslag genomen.
 
-#### Artikel 28
+##### Artikel 28
 
 Ten aanzien van elke periodieke betaling waarop dit artikel van toepassing is:
 
@@ -360,7 +382,7 @@ Ten aanzien van elke periodieke betaling waarop dit artikel van toepassing is:
 
 - iii. alinea**b** van het eerste lid van artikel 22, wat betreft deel IV.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Het bedrag van de lopende periodieke betalingen, bedoeld in de artikelen 10, 17 en 23, wordt herzien na aanmerkelijke veranderingen in het algemene loonpeil of na aanmerkelijke veranderingen in de kosten van levensonderhoud.
 
@@ -376,11 +398,11 @@ Ten aanzien van elke periodieke betaling waarop dit artikel van toepassing is:
 
 ## Deel VI. Gemeenschappelijke bepalingen
 
-#### Artikel 30
+##### Artikel 30
 
 De nationale wetgeving moet voorzien in het behoud, onder voorgeschreven voorwaarden, van aanspraken op de contributieve uitkeringen bij invaliditeit en ouderdom en aan nagelaten betrekkingen.
 
-#### Artikel 31
+##### Artikel 31
 
 1. De uitkeringen bij invaliditeit en ouderdom of aan nagelaten betrekkingen kunnen onder voorgeschreven voorwaarden worden geschorst indien de gerechtigde betaalde arbeid verricht.
 
@@ -388,7 +410,7 @@ De nationale wetgeving moet voorzien in het behoud, onder voorgeschreven voorwaa
 
 3. De niet-contributieve uitkeringen bij invaliditeit en ouderdom of aan nagelaten betrekkingen kunnen worden verminderd wanneer de inkomsten uit arbeid van de gerechtigde of zijn andere inkomsten, of deze beide te zamen, een voorgeschreven bedrag te boven gaan.
 
-#### Artikel 32
+##### Artikel 32
 
 1. De uitkeringen, waarop een beschermde persoon recht zou hebben gehad op grond van een van de delen II tot en met IV van dit Verdrag, kunnen worden geschorst in een eventueel voor te schrijven mate:
 
@@ -408,31 +430,31 @@ De nationale wetgeving moet voorzien in het behoud, onder voorgeschreven voorwaa
 
 2. In voorgeschreven gevallen en binnen voorgeschreven grenzen moet een deel van de uitkering die normaal zou zijn toegekend, worden betaalbaar gesteld aan de personen die ten laste van de belanghebbende komen.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Ingeval een beschermde persoon gelijktijdig aanspraak kan of zou hebben kunnen maken op verschillende uitkeringen bij invaliditeit, bij ouderdom of aan nagelaten betrekkingen, kunnen deze uitkeringen onder voorgeschreven voorwaarden en binnen voorgeschreven grenzen worden verminderd. De beschermde persoon moet echter in totaal een bedrag ontvangen dat ten minste gelijk is aan dat van de meest gunstige uitkering.
 
 2. Ingeval een beschermde persoon aanspraak kan of zou hebben kunnen maken op een uitkering voorzien in dit Verdrag en, voor een zelfde eventualiteit, andere sociale verzekeringsuitkeringen in geld, met uitzondering van de kinderbijslag, ontvangt, kan de uitkering verschuldigd op grond van dit Verdrag onder voorgeschreven voorwaarden en binnen voorgeschreven grenzen worden verminderd of geschorst, met dien verstande dat het gedeelte van de uitkering dat wordt afgetrokken of geschorst het bedrag van de andere uitkeringen niet te boven gaat.
 
-#### Artikel 34
+##### Artikel 34
 
 1. Een ieder die aanspraak maakt op een uitkering moet het recht hebben beroep in te stellen wanneer hem een uitkering wordt geweigerd of wanneer hij zich niet kan verenigen met de hoedanigheid of het bedrag hiervan.
 
 2. Procedures moeten worden voorgeschreven, die het de eiser mogelijk maken zich te doen vertegenwoordigen of te doen bijstaan door een geschikte persoon van zijn keuze of door een afgevaardigde van een representatieve organisatie van beschermde personen.
 
-#### Artikel 35
+##### Artikel 35
 
 1. Elk Lid moet een algemene verantwoordelijkheid aanvaarden wat betreft het verlenen van de krachtens dit Verdrag toegekende uitkeringen en neemt alle hiertoe dienende maatregelen.
 
 2. Elk Lid moet een algemene verantwoordelijkheid aanvaarden voor een goede administratie van de instellingen en diensten die betrokken zijn bij de toepassing van dit Verdrag.
 
-#### Artikel 36
+##### Artikel 36
 
 Wanneer de administratie niet wordt gevoerd door een op overheidsvoorschriften berustende instelling of door een regeringsdepartement dat verantwoording verschuldigd is aan een parlement, moeten vertegenwoordigers van de beschermde personen deelnemen aan de administratie onder voorgeschreven voorwaarden; de nationale wetgeving kan eveneens voorzien in deelneming van vertegenwoordigers van de werkgevers en van de overheid.
 
 ## Deel VII. Diverse bepalingen
 
-#### Artikel 37
+##### Artikel 37
 
 Elk Lid, welks wetgeving loontrekkenden beschermt, kan, voor zover noodzakelijk, van de toepassing van dit Verdrag uitzonderen:
 
@@ -442,7 +464,7 @@ Elk Lid, welks wetgeving loontrekkenden beschermt, kan, voor zover noodzakelijk,
 
 - c. andere groepen loontrekkenden, waarvan het aantal niet groter mag zijn dan 10 procent van het totaal der loontrekkenden, anderen dan zij die met toepassing van de alinea's **a** en **b** van dit artikel zijn uitgezonderd.
 
-#### Artikel 38
+##### Artikel 38
 
 1. Elk Lid, welks wetgeving loontrekkenden beschermt, kan door een bij zijn akte van bekrachtiging gevoegde verklaring, loontrekkenden in de landbouwsector, die ten tijde van bedoelde bekrachtiging nog niet door zijn wetgeving zijn beschermd, tijdelijk van de toepassing van dit Verdrag uitsluiten.
 
@@ -450,7 +472,7 @@ Elk Lid, welks wetgeving loontrekkenden beschermt, kan, voor zover noodzakelijk,
 
 3. Elk Lid dat een verklaring heeft afgelegd overeenkomstig het eerste lid van dit artikel moet het aantal beschermde loontrekkenden in de landbouwsector vergroten in de mate en in een tempo dat de omstandigheden toelaten.
 
-#### Artikel 39
+##### Artikel 39
 
 1. Elk Lid dat dit Verdrag bekrachtigt kan door een bij zijn akte van bekrachtiging gevoegde verklaring van de toepassing van dit Verdrag uitsluiten:
 
@@ -464,11 +486,11 @@ wanneer deze categorieën worden beschermd door speciale regelingen welke voorzi
 
 3. Elk Lid dat een verklaring ingevolge het eerste lid van dit artikel heeft afgelegd kan later aan de Directeur-Generaal van het Internationaal Arbeidsbureau kennis geven dat het de verplichtingen van dit Verdrag aanvaardt ten aanzien van de categorie of categorieën personen die het bij zijn bekrachtiging heeft uitgesloten.
 
-#### Artikel 40
+##### Artikel 40
 
 Wanneer een beschermde persoon krachtens de nationale wetgeving in geval van overlijden van de kostwinner aanspraak heeft op periodieke uitkeringen, anders dan die aan nagelaten betrekkingen, kunnen deze periodieke uitkeringen voor de toepassing van dit Verdrag met uitkeringen aan nagelaten betrekkingen worden gelijkgesteld.
 
-#### Artikel 41
+##### Artikel 41
 
 1. Wanneer een Lid:
 
@@ -488,7 +510,7 @@ kan zulk een Lid gebruik maken van de bepalingen van het volgende lid.
 
 3. Ieder Lid dat van de bepalingen van het vorige lid heeft gebruik gemaakt, geeft in de rapporten over de toepassing van dit Verdrag, die liet krachtens artikel 22 van het Statuut van de Internationale Arbeidsorganisatie moet uitbrengen, de stand van zijn wetgeving en de uitvoering hiervan aan, met betrekking tot de vragen bedoeld in dit lid en de vooruitgang welke het met het oog op een volledige toepassing van het Verdrag heeft gemaakt.
 
-#### Artikel 42
+##### Artikel 42
 
 1. Wanneer een Lid:
 
@@ -500,7 +522,7 @@ kan zulk een Lid van sommige bepalingen van de delen II, III of IV afwijken, mit
 
 2. Elk Lid dat gebruik heeft gemaakt van zodanige afwijkende bepalingen vermeldt in de rapporten over de toepassing van dit Verdrag, die het krachtens [artikel 22 van het Statuut van de Internationale Arbeidsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBV0001986&artikel=22) moet uitbrengen, de stand van zijn wetgeving en de uitvoering hiervan met betrekking tot deze afwijkende bepalingen en de vooruitgang welke het met het oog op de volledige toepassing van het Verdrag heeft gemaakt.
 
-#### Artikel 43
+##### Artikel 43
 
 Dit Verdrag is niet van toepassing op:
 
@@ -508,7 +530,7 @@ Dit Verdrag is niet van toepassing op:
 
 - b. uitkeringen, toegekend voor eventualiteiten, die zich hebben voorgedaan nadat het desbetreffende deel van het Verdrag voor het betrokken Lid in werking is getreden, voor zover het recht op deze uitkeringen voortvloeit uit tijdvakken, voorafgaande aan de datum van genoemde inwerkingtreding.
 
-#### Artikel 44
+##### Artikel 44
 
 1. Dit Verdrag herziet, onder de hierna aan te duiden voorwaarden, het Verdrag inzake de ouderdomsverzekering (industrie, enz.), 1933; het Verdrag inzake de ouderdomsverzekering (landbouw), 1933; het Verdrag inzake de invaliditeitsverzekering (industrie, enz.), 1933; het Verdrag inzake de invaliditeitsverzekering (landbouw), 1933; het Verdrag inzake de overlijdensverzekering (industrie, enz.) 1933, en het Verdrag inzake de overlijdensverzekering (landbouw), 1933.
 
@@ -520,7 +542,7 @@ Dit Verdrag is niet van toepassing op:
 
 - c. de aanvaarding van de verplichtingen van deel IV van het Verdrag zal ipso jure de onmiddellijke opzegging van het Verdrag inzake de overlijdensverzekering (industrie, enz.), 1933, en het Verdrag inzake de overlijdensverzekering (landbouw), 1933, inhouden.
 
-#### Artikel 45
+##### Artikel 45
 
 1. Overeenkomstig [artikel 75 van het Verdrag betreffende de sociale zekerheid (minimumnormen)](https://wetten.overheid.nl/jci1.3:c:BWBV0004942&artikel=75), 1952, houden de volgende delen van genoemd Verdrag en de overeenkomstige bepalingen in de andere delen van genoemd Verdrag op van toepassing te zijn voor elk Lid dat dit Verdrag bekrachtigt, van de datum af, waarop de bepalingen van dit Verdrag dit Lid binden, mits geen verklaring overeenkomstig artikel 38 van kracht is:
 
@@ -538,17 +560,17 @@ Dit Verdrag is niet van toepassing op:
 
 - c. deel X, indien het Lid de verplichtingen van deel IV van dit Verdrag heeft aanvaard.
 
-#### Artikel 46
+##### Artikel 46
 
 Wanneer zulks wordt bepaald in een later door de Conferentie aangenomen Verdrag, hetwelk betrekking heeft op een of meer van de in dit Verdrag behandelde onderwerpen, houden de bepalingen van dit Verdrag welke in het nieuwe Verdrag worden genoemd, op van toepassing te zijn op elk Lid dat dit laatste Verdrag heeft bekrachtigd, van de datum af waarop dit Verdrag voor het betrokken Lid in werking treedt.
 
 ## Deel VIII. Slotbepalingen
 
-#### Artikel 47
+##### Artikel 47
 
 De formele bekrachtigingen van dit Verdrag worden aan de Directeur-Generaal van het Internationaal Arbeidsbureau medegedeeld en door hem ingeschreven.
 
-#### Artikel 48
+##### Artikel 48
 
 1. Dit Verdrag is slechts verbindend voor de Leden van de Internationale Arbeidsorganisatie die hun bekrachtiging door de Directeur-Generaal hebben doen registreren.
 
@@ -556,27 +578,27 @@ De formele bekrachtigingen van dit Verdrag worden aan de Directeur-Generaal van 
 
 3. Vervolgens treedt dit Verdrag voor ieder Lid in werking twaalf maanden na de datum waarop zijn bekrachtiging is ingeschreven.
 
-#### Artikel 49
+##### Artikel 49
 
 1. Elk Lid dat dit Verdrag heeft bekrachtigd, kan na verloop van een termijn van tien jaren na de datum van zijn inwerkingtreding dit Verdrag of één of meer der delen II tot en met IV opzeggen door middel van een aan de Directeur-Generaal van het Internationaal Arbeidsbureau gerichte en door deze geregistreerde verklaring. De opzegging wordt eerst van kracht een jaar nadat zij is geregistreerd.
 
 2. Elk Lid dat dit Verdrag heeft bekrachtigd en niet binnen een jaar na het verloop van de termijn van tien jaar als bedoeld in het voorgaande lid gebruik maakt van de bevoegdheid tot opzegging voorzien in dit artikel is voor een nieuwe termijn van tien jaren gebonden en kan daarna dit Verdrag of een der delen II tot en met IV opzeggen na afloop van elke termijn van tien jaar onder de voorwaarden bedoeld in dit artikel.
 
-#### Artikel 50
+##### Artikel 50
 
 1. De Directeur-Generaal van het Internationaal Arbeidsbureau geeft aan alle Leden van de Internationale Arbeidsorganisatie kennis van de registratie van alle bekrachtigingen en opzeggingen die hem door de Leden der Organisatie zijn medegedeeld.
 
 2. Bij de kennisgeving aan de Leden der Organisatie van de registratie van de tweede hem medegedeelde bekrachtiging, vestigt de Directeur-Generaal de aandacht van de Leden der Organisatie op de datum waarop dit Verdrag in werking treedt.
 
-#### Artikel 51
+##### Artikel 51
 
 De Directeur-Generaal van het Internationaal Arbeidsbureau doet aan de Secretaris-Generaal van de Verenigde Naties mededeling, ter registratie overeenkomstig [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102), van de volledige bijzonderheden betreffende alle bekrachtigingen en opzeggingen, welke door hem overeenkomstig de bepalingen van de vorige artikelen zijn geregistreerd.
 
-#### Artikel 52
+##### Artikel 52
 
 Telkens wanneer de Raad van Beheer van het Internationaal Arbeidsbureau zulks nodig oordeelt, brengt deze Raad aan de Algemene Conferentie verslag uit over de toepassing van dit Verdrag en onderzoekt of het wenselijk is de gehele of gedeeltelijke herziening ervan op de agenda van de Conferentie te plaatsen.
 
-#### Artikel 53
+##### Artikel 53
 
 1. Indien de Conferentie een nieuw Verdrag aanneemt, houdende gehele of gedeeltelijke herziening van dit Verdrag, zal, tenzij het nieuwe Verdrag anders bepaalt:
 
@@ -586,6 +608,6 @@ Telkens wanneer de Raad van Beheer van het Internationaal Arbeidsbureau zulks no
 
 2. Dit Verdrag blijft echter in elk geval naar vorm en inhoud van kracht voor de Leden die het bekrachtigd hebben en die het nieuwe Verdrag, houdende herziening, niet bekrachtigen.
 
-#### Artikel 54
+##### Artikel 54
 
 De Franse en de Engelse tekst van dit Verdrag zijn gelijkelijk authentiek.

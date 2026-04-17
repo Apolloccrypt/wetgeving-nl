@@ -1,13 +1,37 @@
 ---
 title: "Geluidhinder veroorzaakt door spooremplacementen; beoordeling in het kader van de vergunningverlening op basis van de Wet milieubeheer"
 identifier: "BWBR0009324"
-categorie: "Bestuursrecht"
-publicatiedatum: 1998-01-22
-laatste_update: 1998-01-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009324"
+country: "nl"
+rank: "circulaire"
+publication_date: "1998-01-22"
+last_updated: "1998-01-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009324"
+soort: "circulaire"
+stam_id: "6410223"
+version_id: "11076732"
+internal_id: "C14987221"
+label_id: "6399024"
+original_entry_into_force: "1998-01-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009324/1998-01-22/0"
+intitule_bron: "Stcrt.1998-14"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-01-13"
+intitule_published: "1998-01-22"
+intitule_in_force: "1998-01-22"
+intitule_status: "goed"
+original_publication: "Stcrt.1998-14"
+original_signed_date: "1998-01-13"
+original_published_date: "1998-01-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1998-14-p7-SC12348"
+entry_into_force_date: "1998-01-22"
+jci_1_3: "jci1.3:c:BWBR0009324&z=1998-01-22&g=1998-01-22"
+jci_1_0: "1.0:c:BWBR0009324&g=1998-01-22"
+citeertitel_status: "redactioneel"
+signed_date: "1998-01-13"
+entry_into_force: "1998-01-22"
 ---
-
 # Geluidhinder veroorzaakt door spooremplacementen; beoordeling in het kader van de vergunningverlening op basis van de Wet milieubeheer
 
 Geacht college,

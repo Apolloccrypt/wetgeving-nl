@@ -1,88 +1,116 @@
 ---
-title: "Belastingplan 2023"
+title: "Wet van 21 december 2022 tot wijziging van enkele belastingwetten en enige andere wetten (Belastingplan 2023)"
 identifier: "BWBR0047735"
-categorie: "Belastingrecht"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047735"
+country: "nl"
+rank: "wet"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047735"
+soort: "wet"
+stam_id: "16630673"
+version_id: "30522322"
+internal_id: "C43756301"
+label_id: "16549894"
+dtd_version: "2.0"
+original_entry_into_force: "2024-12-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047735/2025-01-01/0"
+intitule_bron: "Stb.2022-532"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-12-21"
+intitule_published: "2022-12-27"
+intitule_in_force: "2022-12-27"
+intitule_status: "goed"
+original_publication: "Stb.2024-435"
+original_signed_date: "2024-12-18"
+original_published_date: "2024-12-23"
+original_effect: "structuurwijziging"
+original_dossier: "36603"
+original_url_id: "stb-2024-435"
+entry_into_force_date: "2024-12-18"
+entry_into_force_dossier: "36603"
+jci_1_3: "jci1.3:c:BWBR0047735&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0047735&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Belastingplan 2023"
+signed_date: "2024-12-18"
+entry_into_force: "2024-12-18"
 ---
+# Wet van 21 december 2022 tot wijziging van enkele belastingwetten en enige andere wetten (Belastingplan 2023)
 
-# Belastingplan 2023
-
-#### Artikel I
-
-Wijzigt de Wet inkomstenbelasting 2001.
-
-#### Artikel II
+##### Artikel I
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel III
+##### Artikel II
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel IV
+##### Artikel III
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel V
+##### Artikel IV
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel VI
+##### Artikel V
+
+Wijzigt de Wet inkomstenbelasting 2001.
+
+##### Artikel VI
 
 Vervallen
 
-#### Artikel VII
+##### Artikel VII
 
 Vervallen
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Zorgverzekeringswet.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel XII
+##### Artikel XII
 
 Vervallen
 
-#### Artikel XIII
+##### Artikel XIII
 
 Voor de werknemer die over het laatste loontijdvak van 2022 een vergoeding genoot waarop [artikel 31a, achtste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31a) zoals dat op 31 december 2022 luidde van toepassing was, blijft artikel 31a, achtste lid, tweede, derde en vierde zin, van die wet buiten toepassing tot en met uiterlijk 31 december 2025. Indien de werknemer, bedoeld in de eerste zin, op enig moment na 31 december 2022 na een onderbreking opnieuw als ingekomen werknemer wordt aangemerkt, is de eerste zin slechts tot de onderbreking van toepassing.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt de Wet financiering sociale verzekeringen.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
 
-#### Artikel XVa
+##### Artikel XVa
 
 Wijzigt de Wet op de kansspelbelasting.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt de Successiewet 1956.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Wijzigt de Successiewet 1956.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 1. [Artikel 33a, tweede lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33a) zoals dat luidde op 31 december 2022 is met ingang van 1 januari 2024 niet meer van toepassing.
 
@@ -92,177 +120,177 @@ Wijzigt de Successiewet 1956.
 
 - b. waarvoor een beroep op de verhoogde vrijstelling, bedoeld in [artikel 33, onderdeel 5°, onder c, of onderdeel 7°, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33) zoals dat luidde op 31 december 2022 is gedaan.
 
-#### Artikel XIX
+##### Artikel XIX
 
 [Artikel 12, derde lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=12) zoals dat luidde op 31 december 2023 blijft tot en met 30 juni 2024 van toepassing op een schenking als bedoeld in [artikel 33a van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33a) zoals dat luidde op 31 december 2023 en op een schenking als bedoeld in artikel 33a, tweede lid, van de Successiewet 1956 zoals dat luidde op 31 december 2022.
 
-#### Artikel XX
+##### Artikel XX
 
 Wijzigt de Wet op belastingen van rechtsverkeer.
 
-#### Artikel XXI
+##### Artikel XXI
 
 Wijzigt de Wet op de omzetbelasting 1968.
 
-#### Artikel XXII
+##### Artikel XXII
 
 Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
 
-#### Artikel XXIII
+##### Artikel XXIII
 
 [Vervallen]
 
-#### Artikel XXIV
+##### Artikel XXIV
 
 De [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2) zijn bij het begin van het kalenderjaar 2024 van overeenkomstige toepassing op het bedrag, genoemd in [artikel XXII, onderdeel E, subonderdeel 1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0047735&artikel=XXII&z=2025-01-01&g=2025-01-01).
 
-#### Artikel XXV
+##### Artikel XXV
 
 Wijzigt de Wet milieubeheer.
 
-#### Artikel XXVI
+##### Artikel XXVI
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel XXVII
+##### Artikel XXVII
 
 [Artikel 90 van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=90) vindt bij het begin van het kalenderjaar 2023 geen toepassing op het bedrag, genoemd in [artikel 77 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=77).
 
-#### Artikel XXVIII
+##### Artikel XXVIII
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel XXIX
+##### Artikel XXIX
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel XXX
+##### Artikel XXX
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel XXXI
+##### Artikel XXXI
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel XXXII
+##### Artikel XXXII
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel XXXIII
+##### Artikel XXXIII
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel XXXIV
+##### Artikel XXXIV
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel XXXV
+##### Artikel XXXV
 
 [ Vervallen]
 
-#### Artikel XXXVI
+##### Artikel XXXVI
 
 Wijzigt de Wet op de accijns.
 
-#### Artikel XXXVII
+##### Artikel XXXVII
 
 Wijzigt de Wet op de accijns.
 
-#### Artikel XXXVIII
+##### Artikel XXXVIII
 
 Wijzigt de Wet op de accijns.
 
-#### Artikel XXXIX
+##### Artikel XXXIX
 
 [ Vervallen]
 
-#### Artikel XL
+##### Artikel XL
 
 Wijzigt de Wet op de verbruiksbelasting van alcoholvrije dranken.
 
-#### Artikel XLa
+##### Artikel XLa
 
 Wijzigt de Wet op de verbruiksbelasting van alcoholvrije dranken.
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel XLI
+##### Artikel XLI
 
 Wijzigt de Algemene wet inkomensafhankelijke regelingen.
 
-#### Artikel XLII
+##### Artikel XLII
 
 Wijzigt de Algemene wet inzake rijksbelastingen.
 
-#### Artikel XLIII
+##### Artikel XLIII
 
 Wijzigt de Invorderingswet 1990.
 
-#### Artikel XLIV
+##### Artikel XLIV
 
 Wijzigt de Wet loonbelasting BES.
 
-#### Artikel XLIVbis
+##### Artikel XLIVbis
 
 Wijzigt de Douane- en Accijnswet BES.
 
-#### Artikel XLIVa
+##### Artikel XLIVa
 
 Wijzigt de Belastingwet BES.
 
-#### Artikel XLIVb
+##### Artikel XLIVb
 
 Wijzigt de Douane- en Accijnswet BES.
 
-#### Artikel XLV
+##### Artikel XLV
 
 Wijzigt de Wet aanvullende koopkrachtmaatregelen 2022.
 
-#### Artikel XLVI
+##### Artikel XLVI
 
 Wijzigt de Algemene Kinderbijslagwet.
 
-#### Artikel XLVII
+##### Artikel XLVII
 
 Het in [artikel XLVI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0047735&artikel=XLVI&z=2025-01-01&g=2025-01-01), genoemde bedrag wordt vóór de toepassing van dat onderdeel vervangen door het bedrag, genoemd in [artikel 8.14a, eerste lid, onderdeel a, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.14a), zoals dat luidde op 31 december 2024.
 
-#### Artikel XLVIII
+##### Artikel XLVIII
 
 Wijzigt de Wet opslag duurzame energie- en klimaattransitie.
 
-#### Artikel XLIX
+##### Artikel XLIX
 
 De [Wet opslag duurzame energie- en klimaattransitie](https://wetten.overheid.nl/jci1.3:c:BWBR0032660) wordt met ingang van 1 januari 2024 ingetrokken.
 
-#### Artikel XLIXbis
+##### Artikel XLIXbis
 
 Wijzigt de Wet tijdelijk verlaagd tarief laadpalen.
 
-#### Artikel XLIXa
+##### Artikel XLIXa
 
 Wijzigt de Mijnbouwwet.
 
-#### Artikel L
+##### Artikel L
 
 Wijzigt het Belastingplan 2018.
 
-#### Artikel LI
+##### Artikel LI
 
 Wijzigt het Belastingplan 2021.
 
-#### Artikel LII
+##### Artikel LII
 
 Wijzigt de Wet fiscale maatregelen Klimaatakkoord.
 
-#### Artikel LIIa
+##### Artikel LIIa
 
 Voor periodieke giften die berusten op een vóór 4 oktober 2022, 16.00 uur, aangegane verplichting als bedoeld in [artikel 6.38, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.38) blijft artikel 6.38 van die wet zoals dat luidde op 31 december 2022, van toepassing tot en met 31 december 2026.
 
-#### Artikel LIII
+##### Artikel LIII
 
 Vervallen
 
-#### Artikel LIIIa
+##### Artikel LIIIa
 
 Bij de toepassing van [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [artikel 22d van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=22d) bij het begin van het kalenderjaar 2023 met betrekking tot:
 
@@ -272,27 +300,27 @@ Bij de toepassing van [artikel 10.1 van de Wet inkomstenbelasting 2001](https://
 
 - c. het in [artikel 8.11, tweede lid, eerste zin, onderdeel c, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.11) en [artikel 22a, tweede lid, onderdeel c, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=22a) als tweede vermelde bedrag wordt dat bedrag berekend door het vóór toepassing van [artikel I, onderdeel DD, onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047735&artikel=I&z=2025-01-01&g=2025-01-01), in artikel 8.11, tweede lid, eerste zin, onderdeel c, van de Wet inkomstenbelasting 2001 als tweede vermelde bedrag te vermenigvuldigen met de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2), en vervolgens te verhogen met het in artikel I, onderdeel DD, onder 3, vermelde bedrag.
 
-#### Artikel LIV
+##### Artikel LIV
 
 Wijzigt de Wet invoering minimumuurloon (Kamerstuk 35335).
 
-#### Artikel LV
+##### Artikel LV
 
 Wijzigt deze wet.
 
-#### Artikel LVI
+##### Artikel LVI
 
 Wijzigt de Wet toekomst pensioenen (Kamerstuk 36067).
 
-#### Artikel LVII
+##### Artikel LVII
 
 Wijzigt de Wet toekomst pensioenen (Kamerstuk 36067).
 
-#### Artikel LVIII
+##### Artikel LVIII
 
 Ingeval de samenloop van wetten die in 2022 in het Staatsblad zijn of worden gepubliceerd en wijzigingen aanbrengen in één of meer belastingwetten, niet of niet juist is geregeld, of indien als gevolg van die samenloop onjuistheden ontstaan in de aanduiding van artikelen, artikelonderdelen, verwijzingen en dergelijke in de desbetreffende wetten, kunnen die wetten op dit punt bij ministeriële regeling worden gewijzigd.
 
-#### Artikel LIX
+##### Artikel LIX
 
 1. Deze wet treedt in werking met ingang van 1 januari 2023, met dien verstande dat:
 
@@ -328,7 +356,7 @@ Ingeval de samenloop van wetten die in 2022 in het Staatsblad zijn of worden gep
 
 5. In afwijking van het eerste lid treedt [artikel XLA](https://wetten.overheid.nl/jci1.3:c:BWBR0047735&artikel=XLa&z=2025-01-01&g=2025-01-01) in werking op een bij koninklijk besluit te bepalen tijdstip dat niet ligt voor 1 januari 2029.
 
-#### Artikel LX
+##### Artikel LX
 
 Deze wet wordt aangehaald als: Belastingplan 2023.
 
@@ -340,7 +368,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel XXIIa
+##### Artikel XXIIa
 
 In de [Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806) vervalt [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=22) met ingang van 1 januari 2030.
 

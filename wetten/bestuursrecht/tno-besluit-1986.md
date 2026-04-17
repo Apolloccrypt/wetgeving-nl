@@ -1,13 +1,35 @@
 ---
-title: "TNO-besluit 1986"
+title: "Besluit van 24 april 1986 ter uitvoering van de artikelen 1, 15, 17, 18, 21, 37 en 45, tweede lid, van de TNO-wet"
 identifier: "BWBR0003953"
-categorie: "Bestuursrecht"
-publicatiedatum: 2012-12-07
-laatste_update: 2012-12-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003953"
+country: "nl"
+rank: "amvb"
+publication_date: "2012-12-07"
+last_updated: "2012-12-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003953"
+soort: "AMvB"
+stam_id: "952133"
+version_id: "1394152"
+internal_id: "C1394151"
+label_id: "923294"
+dtd_version: "2.0"
+original_entry_into_force: "1986-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003953/2012-12-07/0"
+intitule_bron: "Stb.1986-214"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1986-04-24"
+intitule_status: "goed"
+original_publication: "Stb.1986-214"
+original_signed_date: "1986-04-24"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1986-05-01"
+jci_1_3: "jci1.3:c:BWBR0003953&z=2012-12-07&g=2012-12-07"
+jci_1_0: "1.0:c:BWBR0003953&g=2012-12-07"
+citeertitel_status: "officieel"
+short_title: "TNO-besluit 1986"
+signed_date: "1986-04-24"
+entry_into_force: "1986-05-01"
 ---
-
 # Besluit van 24 april 1986 ter uitvoering van de artikelen 1, 15, 17, 18, 21, 37 en 45, tweede lid, van de TNO-wet
 
 Op de voordracht van Onze Minister van Onderwijs en Wetenschappen, van 24 februari 1986, nr. 7208/7158, centrale directie Wetgeving en Juridische Zaken;
@@ -22,7 +44,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemeen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 Dit besluit verstaat onder:
 
@@ -40,7 +62,7 @@ doelsubsidies: geldmiddelen, die Onze Ministers van Defensie, van Infrastructuur
 
 ### Hoofdstuk 2. Inrichting organisatie
 
-#### Artikel 2. Hoofdgroepen
+##### Artikel 2. Hoofdgroepen
 
 1. Alvorens een besluit te nemen tot instelling of opheffing van een hoofdgroep of een besluit waarbij het werkgebied van de hoofdgroep belangrijk wordt veranderd, hoort de raad van bestuur de betrokken programma-adviesraad en instituutsdirecties. De ondernemingsraad van de Organisatie wordt in de gelegenheid gesteld advies uit te brengen over het voorgenomen besluit.
 
@@ -52,7 +74,7 @@ doelsubsidies: geldmiddelen, die Onze Ministers van Defensie, van Infrastructuur
 
 5. De taken en bevoegdheden van een hoofddirectie worden geregeld in het reglement, bedoeld in [artikel 15, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&artikel=15).
 
-#### Artikel 3. Programma-adviesraden
+##### Artikel 3. Programma-adviesraden
 
 1. De samenstelling en de werkwijze van elke programma-adviesraad wordt geregeld in het reglement bedoeld in [artikel 15, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&artikel=15).
 
@@ -62,7 +84,7 @@ doelsubsidies: geldmiddelen, die Onze Ministers van Defensie, van Infrastructuur
 
 4. Indien de hoofddirectie of de raad van bestuur afwijkt van een door een programma-adviesraad uitgebracht advies, doet deze hiervan met redenen omkleed mededeling aan die programma-adviesraad.
 
-#### Artikel 4. Instituten
+##### Artikel 4. Instituten
 
 1. De raad van bestuur heeft, met inachtneming van het bepaalde in het tweede lid, de bevoegdheid instituten in te stellen of op te heffen.
 
@@ -80,7 +102,7 @@ doelsubsidies: geldmiddelen, die Onze Ministers van Defensie, van Infrastructuur
 
 ### Hoofdstuk 3. Defensie-onderzoek
 
-#### Artikel 5. Samenstelling Raad voor het defensie-onderzoek
+##### Artikel 5. Samenstelling Raad voor het defensie-onderzoek
 
 1. Als voorzitter van de raad voor het defensie-onderzoek treedt op het op voordracht van Onze Minister van Defensie benoemde lid van de raad van bestuur van de Organisatie.
 
@@ -100,7 +122,7 @@ doelsubsidies: geldmiddelen, die Onze Ministers van Defensie, van Infrastructuur
 
 3. De in het tweede lid, onder **e** en **f**, genoemde leden van de raad voor het defensie-onderzoek worden benoemd voor een tijdvak van vijf jaren, behoudens bij koninklijk besluit tussentijds verleend ontslag en zijn éénmaal voor een tijdvak van vijf jaren herbenoembaar. Hun wordt ontslag verleend met ingang van de eerste dag van de maand, waarin zij de leeftijd van zeventig jaren bereiken. De overige leden worden benoemd voor onbepaalde tijd.
 
-#### Artikel 6. Taken Raad voor het defensie-onderzoek
+##### Artikel 6. Taken Raad voor het defensie-onderzoek
 
 1. De taken en bevoegdheden, bedoeld in [artikel 18, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&artikel=18), van de raad voor het defensie-onderzoek zijn:
 
@@ -120,7 +142,7 @@ doelsubsidies: geldmiddelen, die Onze Ministers van Defensie, van Infrastructuur
 
 ### Hoofdstuk 4. Geldmiddelen
 
-#### Artikel 7. Subsidie
+##### Artikel 7. Subsidie
 
 1. Aan de Organisatie worden jaarlijks van rijkswege verstrekt een basissubsidie en doelsubsidies, voor zover de middelen daarvoor door de wetgever beschikbaar zijn gesteld.
 
@@ -140,7 +162,7 @@ doelsubsidies: geldmiddelen, die Onze Ministers van Defensie, van Infrastructuur
 
 De raad van bestuur zendt terstond na ontvangst van de subsidiebrief afschrift daarvan aan de raad voor het defensie-onderzoek.
 
-#### Artikel 8. Plannen en begrotingen
+##### Artikel 8. Plannen en begrotingen
 
 Met inachtneming van de subsidiebrief en het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0003953&hoofdstuk=3&artikel=6&z=2012-12-07&g=2012-12-07), stelt de raad van bestuur, na verkregen goedkeuring van de raad van toezicht, jaarlijks vóór 31 december vast:
 
@@ -148,17 +170,17 @@ Met inachtneming van de subsidiebrief en het bepaalde in [artikel 6](https://wet
 
 - b. de middellange termijnplannen van de hoofdgroepen, alsmede de exploitatie- en investeringsbegrotingen van de hoofdgroepen voor het eerstvolgende kalenderjaar.
 
-#### Artikel 9. Definitieve vaststelling
+##### Artikel 9. Definitieve vaststelling
 
 Na afloop van elk kalenderjaar stelt Onze Minister, in overeenstemming met Onze Ministers wie het mede aangaat, de bedragen bedoeld in [artikel 7, derde lid onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0003953&hoofdstuk=4&artikel=7&z=2012-12-07&g=2012-12-07), definitief vast en zendt hiervan bericht aan de raad van bestuur vóór 1 april van het daaropvolgende kalenderjaar.
 
 ### Hoofdstuk 5. Overgangs- en slotbepalingen
 
-#### Artikel 10. Citeertitel
+##### Artikel 10. Citeertitel
 
 Dit besluit kan worden aangehaald als: TNO-besluit 1986.
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 De [TNO-wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003906) en dit besluit treden in werking op 1 mei 1986.
 

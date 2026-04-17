@@ -1,13 +1,35 @@
 ---
-title: "Regeling georganiseerd overleg personeelsovergang Flevoland"
+title: "Besluit van 18 november 1985, houdende regeling van het georganiseerd overleg over aangelegenheden van algemeen belang voor de rechtstoestand van ambtenaren die overgaan in dienst van de provincie Flevoland"
 identifier: "BWBR0003882"
-categorie: "Bestuursrecht"
-publicatiedatum: 1985-12-12
-laatste_update: 1985-12-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003882"
+country: "nl"
+rank: "amvb"
+publication_date: "1985-12-12"
+last_updated: "1985-12-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003882"
+soort: "AMvB"
+stam_id: "735023"
+version_id: "1071642"
+internal_id: "C1071641"
+label_id: "712124"
+dtd_version: "2.0"
+original_entry_into_force: "1985-12-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003882/1985-12-12/0"
+intitule_bron: "Stb.1985-620"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1985-11-18"
+intitule_status: "goed"
+original_publication: "Stb.1985-620"
+original_signed_date: "1985-11-18"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1985-12-12"
+jci_1_3: "jci1.3:c:BWBR0003882&z=1985-12-12&g=1985-12-12"
+jci_1_0: "1.0:c:BWBR0003882&g=1985-12-12"
+citeertitel_status: "officieel"
+short_title: "Regeling georganiseerd overleg personeelsovergang Flevoland"
+signed_date: "1985-11-18"
+entry_into_force: "1985-12-12"
 ---
-
 # Besluit van 18 november 1985, houdende regeling van het georganiseerd overleg over aangelegenheden van algemeen belang voor de rechtstoestand van ambtenaren die overgaan in dienst van de provincie Flevoland
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken a.i. van 7 augustus 1985, nr. AB85/1452, directoraat-generaal voor Overheidspersoneelsbeleid, directie Overheidspersoneelszaken, afdeling Algemene en Juridische Zaken;
@@ -22,7 +44,7 @@ Hebben goedgevonden en verstaan:
 
 #### § I. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit besluit wordt verstaan onder:
 
@@ -44,7 +66,7 @@ plaatsingscommissie: de plaatsingscommissie bedoeld in [artikel 35, tweede lid, 
 
 #### § II. Het overleg met de Commissie
 
-#### Artikel 2
+##### Artikel 2
 
 1. Over de aangelegenheden welke de uitvoering van de bij of krachtens de [Wet instelling provincie Flevoland](https://wetten.overheid.nl/jci1.3:c:BWBR0003816) gestelde regelen betreffen en die van algemeen belang zijn voor de rechtstoestand van ambtenaren die overgaan in dienst van de provincie, met inbegrip van de regels volgens welke het personeelsbeleid ter zake van die overgang zal worden gevoerd, wordt niet beslist dan nadat daarover door of namens de voorzitter van het voorbereidingslichaam onderscheidenlijk de commissaris van de Koning van de provincie overleg is gepleegd met de Commissie.
 
@@ -64,7 +86,7 @@ plaatsingscommissie: de plaatsingscommissie bedoeld in [artikel 35, tweede lid, 
 
 - f. de Centrale van Middelbare en Hogere Functionarissen bij Overheid en Onderwijs (CMHA).
 
-#### Artikel 3
+##### Artikel 3
 
 1. Ieder van de in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003882&paragraaf=II&artikel=2&z=1985-12-12&g=1985-12-12), genoemde organisaties is bevoegd tot aanwijzing van twee leden en twee plaatsvervangende leden van de Commissie.
 
@@ -74,7 +96,7 @@ plaatsingscommissie: de plaatsingscommissie bedoeld in [artikel 35, tweede lid, 
 
 4. In afwachting van de beslissing van de voorzitter van het voorbereidingslichaam onderscheidenlijk de commissaris van de Koning van de provincie neemt het betrokken lid niet of niet meer deel aan het overleg. Na de uitsluiting wijst de desbetreffende organisatie een andere vertegenwoordiger aan als lid of plaatsvervangend lid van de Commissie in de plaats van de uitgeslotene.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het overleg staat onder leiding van de voorzitter van het voorbereidingslichaam onderscheidenlijk de commissaris van de Koning van de provincie tenzij zij bepalen dat een ander namens hen het overleg voert.
 
@@ -88,13 +110,13 @@ plaatsingscommissie: de plaatsingscommissie bedoeld in [artikel 35, tweede lid, 
 
 6. De leden van de Commissie kunnen zich na overleg met de voorzitter ter vergadering voor de behandeling van een bepaald onderwerp door deskundigen doen bijstaan.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003882&paragraaf=II&artikel=2&z=1985-12-12&g=1985-12-12), bedoelde aangelegenheden worden door de voorzitter van het overleg op de agenda van het overleg met de Commissie geplaatst.
 
 2. Elke organisatie is bevoegd aan de voorzitter van het overleg bepaalde tot de competentie van de Commissie behorende onderwerpen ter plaatsing op de agenda op te geven.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het overleg wordt gevoerd op een plaats, dag en uur door de voorzitter te bepalen.
 
@@ -104,19 +126,19 @@ plaatsingscommissie: de plaatsingscommissie bedoeld in [artikel 35, tweede lid, 
 
 4. Indien de Commissie daartoe een verzoek doet, verleent de voorzitter van het overleg zijn bemiddeling om aan de Commissie lokaliteit in een gebouw ter beschikking te stellen voor een door haar te houden vergadering.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Indien het wenselijk blijkt over de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003882&paragraaf=II&artikel=2&z=1985-12-12&g=1985-12-12) bedoelde aangelegenheden voorbereidende besprekingen te voeren of in het overleg genomen besluiten uit te werken, geschiedt deze voorbereiding of uitwerking door werkgroepen, bestaande uit vertegenwoordigers van de Commissie en door de voorzitter van het overleg daartoe aangewezen ambtenaren. Tenzij de voorzitter van het overleg anders bepaalt, staan de werkgroepen onder zijn leiding.
 
 2. Het bepaalde in [het vijfde en zesde lid van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003882&paragraaf=II&artikel=4&z=1985-12-12&g=1985-12-12) is van overeenkomstige toepassing.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het standpunt van de Commissie wordt bepaald bij eenvoudige meerderheid van stemmen.
 
 2. Elke organisatie brengt één stem uit.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Indien de voorzitter in het overleg tot het oordeel komt dat dit overleg niet tot een uitkomst leidt die de instemming van alle deelnemers aan dat overleg zal hebben, brengt hij dat oordeel binnen 3 dagen nadat hij daarvan in het overleg blijk gegeven heeft schriftelijk ter kennis aan de overige deelnemers.
 
@@ -124,17 +146,17 @@ plaatsingscommissie: de plaatsingscommissie bedoeld in [artikel 35, tweede lid, 
 
 3. Het bepaalde in [artikel 119**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=119b) juncto de [artikelen 110**d** tot en met 110**k** van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=110d) is van overeenkomstige toepassing.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het standpunt van de Commissie over haar voorgelegde dan wel op verzoek van haar zijde in het overleg besproken aangelegenheden wordt schriftelijk aan de voorzitter van het overleg bevestigd, waarbij desverlangd een samenvatting van de aan dit standpunt ten grondslag liggende argumenten wordt gegeven.
 
 2. Indien in de Commissie een minderheidsstandpunt blijkt te bestaan, wordt daarvan desverlangd in het geschrift bedoeld in het vorige lid, melding gemaakt.
 
-#### Artikel 11
+##### Artikel 11
 
 Indien over een aangelegenheid in afwijking van het standpunt van de Commissie wordt beslist, brengt de voorzitter van het overleg de redenen van deze afwijking zo spoedig mogelijk ter kennis aan de Commissie.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Van het in de vergaderingen van het overleg en de werkgroepen behandelde maakt de secretaris notulen. Bovendien wordt een verslag opgemaakt, bevattende een beknopte samenvatting van het verhandelde, voor zover dat voor openbaarmaking geschikt kan worden geacht.
 
@@ -142,7 +164,7 @@ Indien over een aangelegenheid in afwijking van het standpunt van de Commissie w
 
 #### § III. Slotbepaling
 
-#### Artikel 13
+##### Artikel 13
 
 Dit besluit, dat kan worden aangehaald als Regeling georganiseerd overleg personeelsovergang Flevoland, treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad,** waarin het wordt geplaatst.
 

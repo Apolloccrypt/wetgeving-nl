@@ -1,13 +1,39 @@
 ---
-title: "Regeling aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (inzake tariefmaatregel samenhangend met Hoofdlijnenakkoord Ouderenzorg)"
+title: "Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 7 juli 2025, kenmerk 4148261-1084926-PZO, op grond van artikel 7 van de Wet marktordening gezondheidzorg, inzake tariefmaatregel samenhangend met Hoofdlijnenakkoord Ouderenzorg"
 identifier: "BWBR0051243"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051243"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051243"
+soort: "ministeriele-regeling"
+stam_id: "17471003"
+version_id: "30813292"
+internal_id: "C44161521"
+label_id: "17373314"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051243/2026-01-01/0"
+intitule_bron: "Stcrt.2025-23956"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-07-07"
+intitule_published: "2025-07-15"
+intitule_in_force: "2025-07-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-23956"
+original_signed_date: "2025-07-07"
+original_published_date: "2025-07-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-23956"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051243&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051243&g=2026-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Regeling aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (inzake tariefmaatregel samenhangend met Hoofdlijnenakkoord Ouderenzorg)"
+signed_date: "2025-07-07"
+entry_into_force: "2026-01-01"
 ---
-
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 7 juli 2025, kenmerk 4148261-1084926-PZO, op grond van artikel 7 van de Wet marktordening gezondheidzorg, inzake tariefmaatregel samenhangend met Hoofdlijnenakkoord Ouderenzorg
 
 Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7):
@@ -18,7 +44,7 @@ Gezien de procedurevergadering van de vaste commissie voor Volksgezondheid, Welz
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze aanwijzing wordt verstaan onder:
 
@@ -42,11 +68,11 @@ In deze aanwijzing wordt verstaan onder:
 
 - –. **zzp:** prestatiebeschrijving zorgzwaartepakket.
 
-#### Artikel 2. Opdracht
+##### Artikel 2. Opdracht
 
 De zorgautoriteit stelt met ingang van 1 januari 2026 ter uitvoering van deze aanwijzing beleidsregels en waar nodig regels vast.
 
-#### Artikel 3. Tariefkorting in verband met financiële afspraken HLO
+##### Artikel 3. Tariefkorting in verband met financiële afspraken HLO
 
 1. Binnen de Wlz contracteerruimte 2026 die de Minister van VWS vaststelt op grond van [artikel 49e van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=49e), geldt per 1 januari 2026 een tariefmaatregel van € 260 miljoen in 2026, € 300 miljoen in 2027, € 340 miljoen in 2028, € 380 miljoen in 2029, € 400 miljoen in 2030 en € 414 miljoen structureel vanaf 2031 (prijspeil 2025).
 
@@ -60,11 +86,11 @@ alle vastgestelde prestatiebeschrijvingen voor zzp en vpt V&V 1 tot en met 10 bi
 
 5. De zorgautoriteit verwerkt de jaarlijkse tariefmaatregel generiek, naar rato te verdelen over de loon- en materiële kostencomponenten van de (bovengrens van de) integrale maximumtarieven- en bandbreedtetarieven (geschoond voor de component voor niet beïnvloedbare factoren) behorend bij de prestatiebeschrijvingen in het tweede lid.
 
-#### Artikel 4. Vaststellen nieuwe tarieven
+##### Artikel 4. Vaststellen nieuwe tarieven
 
 De zorgautoriteit dient de inhoud van deze aanwijzing als beschreven in voorgaande artikelen voor zover dit is aangewezen te betrekken bij het vaststellen van nieuwe tarieven. Dit betekent dat de zorgautoriteit de tariefmaatregel in de (loon- en materiële kostencomponenten van de) tarieven moet verwerken, indien de aan die tarieven ten grondslag liggende kostengegevens betrekking hebben op een jaar voorafgaand aan 2031 (het jaar waarin de maatregel haar structurele niveau bereikt). De zorgautoriteit doet dit door het verschil te verwerken tussen de tariefmaatregel voor het jaar waarop het nieuwe tarief betrekking heeft met de tariefmaatregel die al verwerkt was in de tarieven van het jaar waarop het kostenonderzoek betrekking heeft.
 
-#### Artikel 5. Inwerkingtreding
+##### Artikel 5. Inwerkingtreding
 
 Deze aanwijzing treedt per 1 januari 2026 in werking.
 

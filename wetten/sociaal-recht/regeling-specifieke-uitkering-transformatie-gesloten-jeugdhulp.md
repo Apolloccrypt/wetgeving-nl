@@ -1,20 +1,46 @@
 ---
-title: "Regeling specifieke uitkering transformatie gesloten jeugdhulp"
+title: "Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 11 november 2024, kenmerk 3999529-1074590-J houdende regels met betrekking tot het verstrekken van een specifieke uitkering voor de transformatie gesloten jeugdhulp"
 identifier: "BWBR0050438"
-categorie: "Sociaal recht"
-publicatiedatum: 2024-11-21
-laatste_update: 2024-11-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050438"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-11-21"
+last_updated: "2024-11-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050438"
+soort: "ministeriele-regeling"
+stam_id: "17276733"
+version_id: "30427972"
+internal_id: "C43633321"
+label_id: "17182134"
+dtd_version: "2.0"
+original_entry_into_force: "2024-11-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050438/2024-11-21/0"
+intitule_bron: "Stcrt.2024-37715"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-11-11"
+intitule_published: "2024-11-20"
+intitule_in_force: "2024-11-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-37715"
+original_signed_date: "2024-11-11"
+original_published_date: "2024-11-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-37715"
+entry_into_force_date: "2024-11-21"
+jci_1_3: "jci1.3:c:BWBR0050438&z=2024-11-21&g=2024-11-21"
+jci_1_0: "1.0:c:BWBR0050438&g=2024-11-21"
+citeertitel_status: "officieel"
+short_title: "Regeling specifieke uitkering transformatie gesloten jeugdhulp"
+signed_date: "2024-11-11"
+entry_into_force: "2024-11-21"
 ---
-
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 11 november 2024, kenmerk 3999529-1074590-J houdende regels met betrekking tot het verstrekken van een specifieke uitkering voor de transformatie gesloten jeugdhulp
 
 Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3) en [5 van de Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=5);
 
 Besluit:
 
-#### Artikel 1. Algemene begripsbepalingen
+##### Artikel 1. Algemene begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -56,13 +82,13 @@ In deze regeling wordt verstaan onder:
 
 - **VNG:** Vereniging van Nederlandse Gemeenten;
 
-#### Artikel 2. Toepasselijkheid [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) en [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepasselijkheid [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) en [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 1. Op deze regeling zijn de [artikelen 4:34](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:34), [4:35](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35), [4:37](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:37), [4:38](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:38), [4:48 tot en met 4:50](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:48), [4:56](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:56) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) van overeenkomstige toepassing.
 
 2. Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) niet van toepassing.
 
-#### Artikel 3. Doel van de regeling
+##### Artikel 3. Doel van de regeling
 
 1. De minister kan aan een coördinerende gemeente een uitkering verstrekken voor activiteiten die tot doel hebben uitvoering te geven aan de transformatie gesloten jeugdhulp in de periode van 1 januari 2024 tot en met 31 december 2030:
 
@@ -78,11 +104,11 @@ In deze regeling wordt verstaan onder:
 
 - c. de ontwikkeling en verwezenlijking van alternatieven voor gesloten jeugdhulp.
 
-#### Artikel 4. Dubbelfinanciering
+##### Artikel 4. Dubbelfinanciering
 
 Er wordt geen uitkering verstrekt voor activiteiten waarvoor de coördinerende gemeente reeds uit andere bron een vergoeding ontvangt.
 
-#### Artikel 5. Uitkering per coördinerende gemeente en uitkeringsplafond
+##### Artikel 5. Uitkering per coördinerende gemeente en uitkeringsplafond
 
 1. De uitkeringsplafonds voor de activiteiten als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050438&artikel=3&z=2024-11-21&g=2024-11-21) bedragen per hieronder genoemde coördinerende gemeente per genoemd jaar:
 
@@ -110,7 +136,7 @@ Er wordt geen uitkering verstrekt voor activiteiten waarvoor de coördinerende g
 
 5. Met het in het vierde lid bedoelde bedrag mogen de in [artikel 3, tweede lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0050438&artikel=3&z=2024-11-21&g=2024-11-21), genoemde activiteiten worden verricht.
 
-#### Artikel 6. Aanvraag tot verlening
+##### Artikel 6. Aanvraag tot verlening
 
 De minister verleent ambtshalve de uitkering in het jaar 2024 bedoeld in [artikel 3, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0050438&artikel=3&z=2024-11-21&g=2024-11-21), uiterlijk 31 december 2024.
 
@@ -124,7 +150,7 @@ De minister verleent ambtshalve de uitkering in het jaar 2024 bedoeld in [artike
 
 - b. een verklaring dat de coördinerend gemeente zich committeert aan de bestuurlijke afspraken.
 
-#### Artikel 7. Aanvraag tot herziening
+##### Artikel 7. Aanvraag tot herziening
 
 1. Indien de in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050438&artikel=5&z=2024-11-21&g=2024-11-21), bedoelde bedragen per coördinerende gemeente niet toereikend zijn of dat naar verwachting niet zullen zijn, om de in [artikel 3, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0050438&artikel=3&z=2024-11-21&g=2024-11-21), genoemde activiteiten voor een bovenregionaal gebied te voltooien, kan een coördinerende gemeente voor een locatie gesloten jeugdhulp een herziening aanvragen voor de volgende categorieën bestedingen:
 
@@ -152,7 +178,7 @@ De minister verleent ambtshalve de uitkering in het jaar 2024 bedoeld in [artike
 
 5. Een aanvraag tot herziening wordt in de jaren 2025, 2026 en 2027 telkens gedurende de periode van 1 april tot en met 1 mei ingediend.
 
-#### Artikel 8. Verlening en bevoorschotting
+##### Artikel 8. Verlening en bevoorschotting
 
 1. De minister besluit binnen 13 weken na ontvangst van de aanvraag van de uitkering en de aanvraag tot herziening van de uitkering.
 
@@ -170,7 +196,7 @@ De minister verleent ambtshalve de uitkering in het jaar 2024 bedoeld in [artike
 
 3. De minister verleent bij het besluit tot verlening van een uitkering op aanvraag en bij het besluit tot herziening, een voorschot van 100%.
 
-#### Artikel 9. Verplichtingen verbonden aan de uitkering
+##### Artikel 9. Verplichtingen verbonden aan de uitkering
 
 1. De aanvrager streeft ernaar dat:
 
@@ -192,7 +218,7 @@ De minister verleent ambtshalve de uitkering in het jaar 2024 bedoeld in [artike
 
 4. De aanvrager draagt er zorg voor dat de vanwege deze uitkering verstrekte middelen niet worden aangewend voor activiteiten waarvoor zij op andere wijze een vergoeding ontvangen.
 
-#### Artikel 10. Verantwoording
+##### Artikel 10. Verantwoording
 
 1. De aanvrager legt verantwoording af over de besteding van de uitkering op de wijze bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
@@ -200,7 +226,7 @@ De minister verleent ambtshalve de uitkering in het jaar 2024 bedoeld in [artike
 
 3. Daar waar sprake is van overdracht van middelen van een medeoverheid naar een andere medeoverheid is SiSa tussen medeoverheden van toepassing, conform [artikel 17a, tweede lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
-#### Artikel 11. Vaststelling
+##### Artikel 11. Vaststelling
 
 1. De minister besluit over de vaststelling van de uitkering uiterlijk 37 weken na ontvangst van de informatie, bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050438&artikel=10&z=2024-11-21&g=2024-11-21).
 
@@ -208,17 +234,17 @@ De minister verleent ambtshalve de uitkering in het jaar 2024 bedoeld in [artike
 
 3. Indien de verantwoordingsinformatie te laat, niet of niet volledig wordt verstrekt, kan de minister de uitkering op een lager bedrag vaststellen, aan de hand van de gegevens die tot het besluit tot vaststelling beschikbaar zijn gesteld.
 
-#### Artikel 12. Hardheidsclausule
+##### Artikel 12. Hardheidsclausule
 
 De minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover van toepassing gelet op het belang dat de desbetreffende bepaling beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 13. Inwerkingtreding en vervaldatum
+##### Artikel 13. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 16 juli 2030, met dien verstande dat zij van toepassing blijft op uitkeringen die voor die datum zijn verleend.
 
-#### Artikel 14. Citeertitel
+##### Artikel 14. Citeertitel
 
 Deze regeling wordt aangehaald als: regeling specifieke uitkering transformatie gesloten jeugdhulp.
 

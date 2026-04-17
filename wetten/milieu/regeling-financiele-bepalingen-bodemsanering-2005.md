@@ -1,13 +1,39 @@
 ---
-title: "Regeling financiële bepalingen bodemsanering 2005"
+title: "Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 16 december 2005, nr. LMV 2005.191530, Directie Lokale Milieukwaliteit en Verkeer, Afdeling Sturing Bodemsaneringsoperatie, houdende financiële bepalingen met betrekking tot bodemsanering (Regeling financiële bepalingen bodemsanering 2005)"
 identifier: "BWBR0019304"
-categorie: "Milieu"
-publicatiedatum: 2018-11-30
-laatste_update: 2018-11-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019304"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2018-11-30"
+last_updated: "2018-11-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019304"
+soort: "ministeriele-regeling"
+stam_id: "7745473"
+version_id: "13875132"
+internal_id: "C18808981"
+label_id: "7733444"
+dtd_version: "2.0"
+original_entry_into_force: "2006-12-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019304/2018-11-30/0"
+intitule_bron: "Stcrt.2005-250"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-12-16"
+intitule_published: "2005-12-23"
+intitule_in_force: "2005-12-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-242"
+original_signed_date: "2006-12-06"
+original_published_date: "2006-12-12"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2006-242-p19-SC78142"
+entry_into_force_date: "2006-12-06"
+jci_1_3: "jci1.3:c:BWBR0019304&z=2018-11-30&g=2018-11-30"
+jci_1_0: "1.0:c:BWBR0019304&g=2018-11-30"
+citeertitel_status: "redactioneel"
+short_title: "Regeling financiële bepalingen bodemsanering 2005"
+signed_date: "2006-12-06"
+entry_into_force: "2006-12-06"
 ---
-
 # Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 16 december 2005, nr. LMV 2005.191530, Directie Lokale Milieukwaliteit en Verkeer, Afdeling Sturing Bodemsaneringsoperatie, houdende financiële bepalingen met betrekking tot bodemsanering (Regeling financiële bepalingen bodemsanering 2005)
 
 Gelet op de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019285&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0019285&artikel=3), [4, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019285&artikel=4), [7, tweede, derde, vijfde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019285&artikel=7), [11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019285&artikel=11), [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019285&artikel=13), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0019285&artikel=20), [21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019285&artikel=21), [26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019285&artikel=26), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0019285&artikel=28), [29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019285&artikel=29), [41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019285&artikel=41), [43, van het Besluit financiële bepalingen bodemsanering](https://wetten.overheid.nl/jci1.3:c:BWBR0019285&artikel=43);
@@ -18,7 +44,7 @@ Treedt in werking als het Besluit financiële bepalingen bodemsanering in werkin
 
 ### Hoofdstuk 1. Definities
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -30,47 +56,47 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Verstrekken van budget aan overheden
 
-#### Artikel 2
+##### Artikel 2
 
 Vervallen
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
 ### Hoofdstuk 3. Verstrekken subsidies aan derden
 
-#### Artikel 8
+##### Artikel 8
 
 De ouderdom van de bodemverontreiniging als bedoeld in [artikel 11, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019285&artikel=11) wordt bepaald aan de hand van het protocol dat is opgenomen in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0019304&bijlage=6&z=2018-11-30&g=2018-11-30).
 
-#### Artikel 9
+##### Artikel 9
 
 1. Bij de aanvraag tot subsidieverlening wordt naast de in [artikel 13, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019285&artikel=13) genoemde gegevens tevens een begroting van de saneringskosten verstrekt, die is opgebouwd uit kostenposten zoals genoemd in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019304&bijlage=7&z=2018-11-30&g=2018-11-30).
 
 2. Deze begroting dient te worden opgemaakt volgens een goede werkomschrijving, waarin een duidelijk inzicht wordt geboden in de omvang en de eenheidsprijzen van werkzaamheden, en waarbij voorts geldt dat de kosten voor de aanvrager van de subsidie die betrekking hebben op de directievoering en milieukundige begeleiding van de sanering in het geval de netto-saneringskosten meer dan € 50.000 bedragen maximaal 10% van deze netto-saneringskosten mogen zijn, of in het geval deze kosten gelijk zijn aan of minder dan € 50.000 bedragen maximaal 20% van de netto-saneringskosten mogen zijn.
 
-#### Artikel 10
+##### Artikel 10
 
 Het financieel verslag, bedoeld in [artikel 21, tweede lid van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019285&artikel=21), gaat vergezeld van een specificatie van de werkelijke saneringskosten, opgebouwd uit kostenposten zoals genoemd in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019304&bijlage=7&z=2018-11-30&g=2018-11-30).
 
-#### Artikel 11
+##### Artikel 11
 
 1. De aanvraag tot subsidievaststelling, bedoeld in [artikel 21, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019285&artikel=21), bevat:
 
@@ -86,7 +112,7 @@ Indien niet wordt gekozen voor de goedkoopste offerte, wordt een schriftelijke m
 
 ### Hoofdstuk 4. Verdeling van de rijksbijdrage
 
-#### Artikel 12
+##### Artikel 12
 
 1. De melding, bedoeld in [artikel 26, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019285&artikel=26), bevat tevens:
 
@@ -110,13 +136,13 @@ Indien niet wordt gekozen voor de goedkoopste offerte, wordt een schriftelijke m
 
 - g. de looptijd van de subsidie.
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
 ### Hoofdstuk 5. Overige bepalingen
 
-#### Artikel 14
+##### Artikel 14
 
 De activiteiten op het gebied van onderzoek en sanering, bedoeld in [artikel 41, eerste lid van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019285&artikel=41) op grond waarvan subsidie kan worden verstrekt, zijn:
 
@@ -130,21 +156,21 @@ De activiteiten op het gebied van onderzoek en sanering, bedoeld in [artikel 41,
 
 - e. internationale samenwerking.
 
-#### Artikel 15
+##### Artikel 15
 
 De gegevens die dienen te worden verstrekt op grond van [artikel 43 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019285&artikel=43) zijn opgenomen in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0019304&bijlage=9&z=2018-11-30&g=2018-11-30).
 
 ### Hoofdstuk 6. Slotbepalingen
 
-#### Artikel 16
+##### Artikel 16
 
 De [Regeling financiële bepalingen bodemsanering 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013697), de [Circulaire ouderdomsbepaling](https://wetten.overheid.nl/jci1.3:c:BWBR0013325), Staatscourant 2002, 86 en de Circulaire procedure inzake verlaagde gemeentelijke bijdrage, Staatscourant 1994, 228, laatstelijk gewijzigd bij Staatscourant 2002, 14, worden ingetrokken.
 
-#### Artikel 17
+##### Artikel 17
 
 Deze regeling treedt in werking op het tijdstip waarop het [Besluit financiële bepalingen bodemsanering](https://wetten.overheid.nl/jci1.3:c:BWBR0019285) in werking treedt. Indien de dagtekening van de Staatscourant waarin deze regeling wordt geplaatst later is gelegen dan de tweede dag vóór genoemd tijdstip, treedt deze regeling in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. De [artikelen 2 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019304&hoofdstuk=2&artikel=2&z=2018-11-30&g=2018-11-30), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0019304&hoofdstuk=5&artikel=14&z=2018-11-30&g=2018-11-30) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0019304&hoofdstuk=5&artikel=15&z=2018-11-30&g=2018-11-30) werken terug tot en met 1 januari 2005.
 
-#### Artikel 18
+##### Artikel 18
 
 Deze regeling wordt aangehaald als: Regeling financiële bepalingen bodemsanering 2005.
 
@@ -186,7 +212,7 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen met toelichting; een volledig exemplaar van de regeling, inclusief de bijlagen zal aan alle budgethouders en bevoegde overheden worden gezonden. Daarnaast zal de volledige regeling inclusief de bijlagen ter inzage worden gelegd bij het Ministerie van VROM en zal worden geplaatst op www.vrom.nl
 
-#### Artikel 13a
+##### Artikel 13a
 
 In het geval, bedoeld in [artikel 40a, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019285&artikel=40a), legt de eigenaar of erfpachter tezamen met het verzoek, bedoeld in [artikel 40, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019285&artikel=40) een verklaring overeenkomstig het model in [bijlage 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0019304&bijlage=8a&z=2018-11-30&g=2018-11-30) bij deze regeling omtrent de minimis-steun over.
 
@@ -200,7 +226,7 @@ Ligt ter inzage bij het Ministerie van VROM.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen met toelichting; een volledig exemplaar van de regeling, inclusief de bijlagen zal aan alle budgethouders en bevoegde overheden worden gezonden. Daarnaast zal de volledige regeling inclusief de bijlagen ter inzage worden gelegd bij het Ministerie van VROM en zal worden geplaatst op www.vrom.nl
 
-#### Artikel 11a
+##### Artikel 11a
 
 1. Projectsubsidie als bedoeld in [artikel 31, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019285&artikel=31), kan worden verleend voor het collectief saneren van gevallen van ernstige verontreiniging van bedrijfsterreinen waarbij door de coördinerende rechtspersoon uit de projectsubsidie een korting wordt verstrekt ten behoeve van de kosten van sanering van een bedrijfsterrein indien in ieder geval voldaan wordt aan de volgende voorwaarden:
 
@@ -244,7 +270,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 5. De Minister van Infrastructuur en Milieu kan bij het verlenen van de projectsubsidie nadere voorschriften stellen met betrekking tot het bepaalde in dit artikel.
 
-#### Artikel 11b
+##### Artikel 11b
 
 De in [artikel 11a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019304&hoofdstuk=3&artikel=11a&z=2018-11-30&g=2018-11-30), genoemde saneringskosten betreffen de kostenposten zoals genoemd in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019304&bijlage=7&z=2018-11-30&g=2018-11-30).
 
@@ -264,7 +290,7 @@ Ligt ter inzage bij het Ministerie van VROM.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen met toelichting; een volledig exemplaar van de regeling, inclusief de bijlagen zal aan alle budgethouders en bevoegde overheden worden gezonden. Daarnaast zal de volledige regeling inclusief de bijlagen ter inzage worden gelegd bij het Ministerie van VROM en zal worden geplaatst op www.vrom.nl
 
-#### Artikel 17a
+##### Artikel 17a
 
 Deze regeling vervalt met ingang van 1 januari 2025 met dien verstande dat het van toepassing blijft op subsidies die voor die datum zijn aangevraagd op basis van het [Besluit financiële bepalingen bodemsanering](https://wetten.overheid.nl/jci1.3:c:BWBR0019285).
 

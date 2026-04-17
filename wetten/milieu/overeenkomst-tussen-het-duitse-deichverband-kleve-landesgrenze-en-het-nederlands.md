@@ -1,13 +1,35 @@
 ---
-title: "Overeenkomst tussen het Duitse Deichverband "Kleve-Landesgrenze" en het Nederlandse Polderdistrict "Maas en Waal" over de waterafvoer uit het gemeenschappelijke stroomgebied naar het gemaal te Nijmegen"
+title: "Overeenkomst tussen het Duitse Deichverband \"Kleve-Landesgrenze\" en het Nederlandse Polderdistrict \"Maas en Waal\" over de waterafvoer uit het gemeenschappelijke stroomgebied naar het gemaal te Nijmegen"
 identifier: "BWBV0003825"
-categorie: "Milieu"
-publicatiedatum: 2010-08-18
-laatste_update: 2010-08-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003825"
+country: "nl"
+rank: "verdrag"
+publication_date: "2010-08-18"
+last_updated: "2010-08-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003825"
+soort: "verdrag"
+stam_id: "10003735293"
+version_id: "10003797402"
+internal_id: "C10006983001"
+label_id: "10003720354"
+dtd_version: "2.0"
+original_entry_into_force: "1975-10-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003825/2010-08-18/0"
+intitule_bron: "Trb.1973-12"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1973-02-06"
+intitule_in_force: "1976-03-03"
+intitule_status: "goed"
+original_publication: "Trb.1973-12"
+original_published_date: "1973-02-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1973-12"
+entry_into_force_date: "1975-10-15"
+jci_1_3: "jci1.3:c:BWBV0003825&z=2010-08-18&g=2010-08-18"
+jci_1_0: "1.0:c:BWBV0003825&g=2010-08-18"
+citeertitel_status: "redactioneel"
+entry_into_force: "1975-10-15"
 ---
-
 # Overeenkomst tussen het Duitse Deichverband "Kleve-Landesgrenze" en het Nederlandse Polderdistrict "Maas en Waal" over de waterafvoer uit het gemeenschappelijke stroomgebied naar het gemaal te Nijmegen
 
 Het Deichverband „Kleve-Landesgrenze” (hierna te noemen „het Deichverband”), vertegenwoordigd door de Dijkgraaf Robert Jansen en het Polderdistrict „Maas en Waal” (hierna te noemen „het Polderdistrict”), vertegenwoordigd door de Dijkgraaf P. Th. Ermers gaan van de volgende overwegingen uit:
@@ -28,7 +50,7 @@ De Permanente Nederlands-Duitse Grenswaterencommissie heeft zich met deze wijzig
 
 Daarom sluiten het Deichverband en het Polderdistrict (als rechtsopvolger van het Polderdistrict „Circul van de Ooy en Millingen”) met inachtneming van Hoofdstuk 4, artikel 59 van het Grensverdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland van 8 april 1960, de volgende Overeenkomst.
 
-#### Artikel 1
+##### Artikel 1
 
 1. Het Polderdistrict neemt op zich:
 
@@ -40,7 +62,7 @@ Daarom sluiten het Deichverband en het Polderdistrict (als rechtsopvolger van he
 
 3. Het Deichverband en het Polderdistrict zullen, elk in hun deel van het gemeenschappelijke stroomgebied, alles in het werk stellen, opdat het zuiver houden van het water in de in het eerste lid genoemde watergangen overeenkomstig hun nationale wetgeving wordt gewaarborgd.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Bij het nakomen van zijn verplichting tot exploiteren, beheren en onderhouden als bedoeld in artikel 1, eerste lid, zal het Polderdistrict het grondplan in acht nemen, alsmede de voorschriften die het Deichverband en het Polderdistrict terstond na het sluiten van deze Overeenkomst in onderlinge overeenstemming opstellen en waarin in het bijzonder ook de aan te houden waterstanden worden vastgelegd.
 
@@ -52,7 +74,7 @@ De uitvoering dient te geschieden volgens plannen, welke door beide partijen gez
 
 4. De voorschriften en plannen als bedoeld in het eerste en tweede lid alsmede mogelijke toekomstige wijzigingen behoeven slechts de goedkeuring van de Regierungspräsident te Düsseldorf en van Gedeputeerde Staten van Gelderland te Arnhem.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Voor het begin van elk rekeningsjaar (kalenderjaar) maakt het Polderdistrict een begroting op, waarin met voorafgaande toestemming van het Deichverband de verwachte inkomsten en uitgaven, met de uitvoering van deze Overeenkomst in verband staande, en het dienovereenkomstig door het Deichverband te dragen aandeel in de kosten afzonderlijk geraamd worden.
 
@@ -68,7 +90,7 @@ Het Polderdistrict dient het Deichverband tijdig daartoe uit te nodigen. Het bep
 
 5. De wettige vertegenwoordiger van het Deichverband of de door hem hiertoe aangewezen personen hebben het recht, zich te allen tijde op de hoogte te stellen van de toestand van het gemaal alsmede van de exploitatie, het beheer en het onderhoud daarvan; zij hebben het recht om inzage te nemen van alle bescheiden van het Polderdistrict die betrekking hebben op deze overeenkomst.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het Deichverband neemt op zich:
 
@@ -82,7 +104,7 @@ Het Polderdistrict dient het Deichverband tijdig daartoe uit te nodigen. Het bep
 
 4. Op verzoek van een der partijen zullen de partijen zich tezamen ter plaatse op de hoogte stellen van het bestaan van zodanige werkzaamheden.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Als vooruitbetaling op de volgens het eerste lid van artikel 4 door hem te dragen kosten betaalt het Deichverband aan het Polderdistrict jaarlijks vóór 1 juli een bedrag ter grootte van 50 % van het in de begroting van het lopende rekeningsjaar voor hem geraamde aandeel in de totale kosten.
 
@@ -90,7 +112,7 @@ De overblijvende kosten dienen te worden betaald binnen twee maanden na overlegg
 
 2. Alle betalingen geschieden in Nederlands courant.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het huidige gemeenschappelijke stroomgebied, het gedeelte van het stroomgebied van het Deichverband (Duitse stroomgebied) en dat van het Polderdistrict (Nederlands stroomgebied) zijn aangegeven op een kaart, die door beide partijen blijkens hun ondertekening voor juist wordt gehouden en deel uitmaakt van deze overeenkomst.
 
@@ -98,37 +120,37 @@ De overblijvende kosten dienen te worden betaald binnen twee maanden na overlegg
 
 3. Als er wijziging komt in de grootte der beheerskosten (art. 4, eerste lid, onder b) tengevolge van het aanvaarden van andere taken door het polderdistrict of door vergroting van het districtsgebied, dan treden het Deichverband en het Polderdistrict met elkaar in onderhandeling over een herverdeling van de beheerskosten.
 
-#### Artikel 7
+##### Artikel 7
 
 Schade, die een der partijen lijdt als gevolg van niet-nakoming door de andere partij van de ingevolge deze overeenkomst op haar rustende verplichtingen, dient te worden vergoed. Het Deichverband heeft het recht zich voor door hem geleden en door het Polderdistrict erkende schade vergoeding te verschaffen door deze dienovereenkomstig in mindering te brengen op het aandeel in de kosten, dat jaarlijks door hem moet worden bijgedragen.
 
-#### Artikel 8
+##### Artikel 8
 
 Bij de gunning van werken ter uitvoering van deze overeenkomst dienen Duitse en Nederlandse ondernemingen in aanmerking te komen zoveel mogelijk naar de verhouding, waarin de kosten overeenkomstig het eerste lid van artikel 4 onder a van deze overeenkomst over het Deichverband en het Polderdistrict worden verdeeld.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De partijen kunnen zelf, of door middel van de bij hen aangesloten lagere lichamen, voor betere afwatering van hun wederzijdse deel van het stroomgebied op hun eigen kosten aanvullende inrichtingen bouwen en exploiteren.
 
 2. Een betere afwatering dient te worden aangemerkt als een beïnvloeding in de zin van het tweede lid van artikel 4. Dat geldt niet voor de normale afwatering van voor landbouwdoeleinden gebezigde gronden, welke langs natuurlijke weg of op kunstmatige wijze tot stand komt.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Na beëindiging van de overeenkomst zal het polderdistrict aan het Deichverband diens aandeel in de kosten voor de bouw van het gemaal en voor mogelijke verbeteringen en uitbreidingen terugbetalen. De grootte van het aandeel wordt vastgesteld aan de hand van de waarde, die het gemaal ten tijde van de beëindiging van de overeenkomst heeft.
 
 2. Alles, wat tot de inrichting van de kantoren en vergaderruimten van het polderdistrict behoort, is zijn eigendom en zulks onafhankelijk van de omstandigheid, of de betrokken zaken thans reeds aanwezig zijn of nog zullen worden verkregen.
 
-#### Artikel 11
+##### Artikel 11
 
 Wijzigingen van deze overeenkomst behoeven de goedkeuring der Regeringen van de Bondsrepubliek Duitsland en van het Koninkrijk der Nederlanden. Zulks geldt niet voor een wijziging in de kostenverdeling ingevolge het bepaalde in het tweede lid van artikel 6.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Deze overeenkomst wordt gesloten voor 40 jaar. Als zij niet drie jaar voor de afloopdatum wordt opgezegd, wordt zij stilzwijgend voor telkens tien jaar verlengd.
 
 2. De opzegging dient te geschieden per aangetekende brief.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Deze overeenkomst behoeft de goedkeuring van de Regering van het Koninkrijk der Nederlanden en van de Regering van de Bondsrepubliek Duitsland. Zij treedt in werking een maand nadat de laatste der beide mededelingen van goedkeuring door de andere partij is ontvangen. De partijen stellen het tijdstip van de inwerkingtreding vast door middel van briefwisseling.
 

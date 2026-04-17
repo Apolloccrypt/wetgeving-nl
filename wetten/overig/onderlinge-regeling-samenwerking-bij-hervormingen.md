@@ -1,13 +1,38 @@
 ---
 title: "Onderlinge regeling samenwerking bij hervormingen"
 identifier: "BWBR0048172"
-categorie: "Overig"
-publicatiedatum: 2023-04-04
-laatste_update: 2023-04-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048172"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-04-04"
+last_updated: "2023-04-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048172"
+soort: "ministeriele-regeling"
+stam_id: "16748793"
+version_id: "29410962"
+internal_id: "C42050381"
+label_id: "16664834"
+dtd_version: "2.0"
+original_entry_into_force: "2023-04-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048172/2023-04-04/0"
+intitule_bron: "Stcrt.2023-13947"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-04-04"
+intitule_published: "2023-05-17"
+intitule_in_force: "2023-05-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-13947"
+original_signed_date: "2023-04-04"
+original_published_date: "2023-05-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-13947"
+entry_into_force_date: "2023-04-04"
+jci_1_3: "jci1.3:c:BWBR0048172&z=2023-04-04&g=2023-04-04"
+jci_1_0: "1.0:c:BWBR0048172&g=2023-04-04"
+citeertitel_status: "officieel"
+signed_date: "2023-04-04"
+entry_into_force: "2023-04-04"
 ---
-
 # Onderlinge regeling samenwerking bij hervormingen
 
 In overweging genomen hebbende dat:
@@ -26,7 +51,7 @@ Komen als volgt overeen:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze onderlinge regeling wordt, tenzij anders bepaald, verstaan onder:
 
@@ -64,13 +89,13 @@ In deze onderlinge regeling wordt, tenzij anders bepaald, verstaan onder:
 
 - q. **Werkorganisatie:** de werkorganisatie, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048172&paragraaf=2&artikel=4&z=2023-04-04&g=2023-04-04).
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 Het doel van deze onderlinge regeling is om hervormingen in de publieke sectoren van de Landen door te voeren, teneinde de economische weerbaarheid en bestuurskracht van de Landen te verhogen. De hervormingen vinden op verantwoorde wijze plaats, rekening houdend met de sociaaleconomische omstandigheden en capaciteit van elk Land.
 
 #### § 2. Werkwijze bij uitvoering Landspakketten
 
-#### Artikel 3. Landspakket
+##### Artikel 3. Landspakket
 
 1. De afspraken over de hervormingen in de publieke sector van een land zijn neergelegd in het landspakket van elk land.
 
@@ -78,7 +103,7 @@ Het doel van deze onderlinge regeling is om hervormingen in de publieke sectoren
 
 3. Een landspakket kan tussentijds door de regering van Nederland en de regering van Aruba, Curaçao onderscheidenlijk Sint Maarten bij onderlinge regeling op grond van [artikel 38, eerste lid, van het Statuut](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=38), worden gewijzigd. Een wijziging komt niet tot stand dan nadat de Staten van het betrokken land gedurende tien werkdagen in de gelegenheid zijn gesteld om kennis te nemen van het ontwerp ervan en hun eventuele wensen of bezwaren ter kennis van de Minister van Algemene Zaken te brengen.
 
-#### Artikel 4. Uitvoering en samenwerking
+##### Artikel 4. Uitvoering en samenwerking
 
 1. De coördinatie van de uitvoering van de landspakketten berust in de landen bij de Ministers van Algemene Zaken. Zij worden hierin bijgestaan door onder hen ressorterende Uitvoeringsorganisaties.
 
@@ -92,7 +117,7 @@ Het doel van deze onderlinge regeling is om hervormingen in de publieke sectoren
 
 6. De Landen en Nederland verstrekken elkaar, met inachtneming van de wettelijke geheimhoudingsverplichtingen en andere wettelijke verplichtingen die in elk land gelden, alle gegevens en inlichtingen die redelijkerwijs nodig zijn voor het uitvoeren van de taken, bedoeld in het vierde lid.
 
-#### Artikel 5. Uitvoeringsagenda
+##### Artikel 5. Uitvoeringsagenda
 
 1. De Uitvoeringsorganisatie en de Werkorganisatie stellen ter verwezenlijking van het landspakket ieder half jaar en, zo nodig, tussentijds gezamenlijk een concept voor een uitvoeringsagenda op. Nadat het concept is opgesteld, wordt dit ter vaststelling aan de Ministers voorgelegd. De afspraken over resultaten in een uitvoeringsagenda vormen de basis waarop de voortgang, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048172&paragraaf=2&artikel=7&z=2023-04-04&g=2023-04-04), wordt beoordeeld.
 
@@ -106,7 +131,7 @@ Het doel van deze onderlinge regeling is om hervormingen in de publieke sectoren
 
 6. Nadat een uitvoeringsagenda in zijn geheel is vastgesteld, wordt deze, na afstemming tussen de Uitvoeringsorganisatie en de Werkorganisatie, toegezonden aan de volksvertegenwoordigingen die het aangaan.
 
-#### Artikel 6. Plan van aanpak
+##### Artikel 6. Plan van aanpak
 
 1. Een minister of, voor zover van toepassing, een overheidsorgaan die het aangaat kan ter uitvoering van de in een uitvoeringsagenda omschreven activiteiten een concept voor een plan van aanpak opstellen voor de ontwikkeling en uitvoering van een hervormingsproject, -programma of -maatregel. Nadat het concept is opgesteld, wordt dit na instemming van de Minister van Algemene Zaken of Raad van Ministers van een land en de Minister van Binnenlandse Zaken en Koninkrijksrelaties vastgesteld. Deze procedure wordt nader uitgewerkt in het reglement.
 
@@ -134,7 +159,7 @@ Het doel van deze onderlinge regeling is om hervormingen in de publieke sectoren
 
 Onthouding van instemming vindt niet plaats dan nadat aan de minister of, voor zover van toepassing, het overheidsorgaan die het aangaat gelegenheid tot overleg is geboden. Als dit overleg niet tot overeenstemming leidt, starten de Ministers een bemiddelingstraject. De procedure, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048172&paragraaf=2&artikel=8&z=2023-04-04&g=2023-04-04), is van overeenkomstige toepassing.
 
-#### Artikel 7. Uitvoeringsrapportage
+##### Artikel 7. Uitvoeringsrapportage
 
 1. De Uitvoeringsorganisatie en de Werkorganisatie stellen ieder halfjaar en, zo nodig, tussentijds gezamenlijk een concept voor een uitvoeringsrapportage op. Nadat het concept is opgesteld, wordt dit ter vaststelling aan de Ministers voorgelegd.
 
@@ -146,7 +171,7 @@ Onthouding van instemming vindt niet plaats dan nadat aan de minister of, voor z
 
 5. Als in de bemiddeling geen overeenstemming wordt bereikt, wordt het in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048172&paragraaf=2&artikel=8&z=2023-04-04&g=2023-04-04), bedoelde verslag bij de uitvoeringsrapportage gevoegd. In de uitvoeringsrapportage wordt voor het onderdeel waarop de bemiddeling ziet dan volstaan met een verwijzing naar dit verslag.
 
-#### Artikel 8. Bemiddeling
+##### Artikel 8. Bemiddeling
 
 1. Als de Ministers geen overeenstemming bereiken in de gevallen, bedoeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048172&paragraaf=2&artikel=5&z=2023-04-04&g=2023-04-04), [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048172&paragraaf=2&artikel=6&z=2023-04-04&g=2023-04-04), [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048172&paragraaf=2&artikel=7&z=2023-04-04&g=2023-04-04), [artikel 10, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0048172&paragraaf=4&artikel=10&z=2023-04-04&g=2023-04-04), of [artikel 11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048172&paragraaf=4&artikel=11&z=2023-04-04&g=2023-04-04), wijzen zij binnen twee weken na afloop van het overleg tussen de Ministers een onafhankelijke bemiddelaar aan. De bemiddeling is erop gericht om de Ministers alsnog tot overeenstemming te laten komen. In de opdracht aan de bemiddelaar beschrijven de Ministers het onderwerp waarover een meningsverschil bestaat
 
@@ -168,7 +193,7 @@ Onthouding van instemming vindt niet plaats dan nadat aan de minister of, voor z
 
 #### § 3. Financiële ondersteuning uitvoering landspakketten
 
-#### Artikel 9. Middelen
+##### Artikel 9. Middelen
 
 1. In het kader van het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048172&paragraaf=2&artikel=4&z=2023-04-04&g=2023-04-04), stelt de Minister van Binnenlandse Zaken en Koninkrijksrelaties middelen beschikbaar ter ondersteuning van het uitvoeren van de landspakketten. Deze middelen kunnen worden aangewend voor:
 
@@ -182,7 +207,7 @@ Onthouding van instemming vindt niet plaats dan nadat aan de minister of, voor z
 
 #### § 4. Slotbepalingen
 
-#### Artikel 10. Evaluatie
+##### Artikel 10. Evaluatie
 
 1. De Ministers van Algemene Zaken en de Minister van Binnenlandse Zaken en Koninkrijksrelaties zenden binnen drie jaar na de inwerkingtreding van deze onderlinge regeling aan de Volksvertegenwoordiging een verslag over de doeltreffendheid en de doelmatigheid van deze regeling in onderscheidenlijk de Arubaanse, Curaçaose en Sint Maartense praktijk.
 
@@ -206,7 +231,7 @@ Onthouding van instemming vindt niet plaats dan nadat aan de minister of, voor z
 
 6. De bekostiging van de begroting van de evaluatiecommissie komt gelijkelijk ten laste van de begrotingen van de Ministeries van Algemene Zaken en het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
-#### Artikel 11. Inwerkingtreding, verval en beëindiging
+##### Artikel 11. Inwerkingtreding, verval en beëindiging
 
 1. Deze onderlinge regeling treedt in werking met ingang van de dag van ondertekening ervan.
 
@@ -218,7 +243,7 @@ Onthouding van instemming vindt niet plaats dan nadat aan de minister of, voor z
 
 5. Als een hervormingsproject, -programma of -maatregel, voortvloeiend uit een uitvoeringsagenda of een plan van aanpak, twee maanden voor het vervallen van deze regeling nog niet is afgerond, terwijl dit project, programma of deze maatregel financieel is ondersteund ingevolge [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0048172&paragraaf=3&artikel=9&z=2023-04-04&g=2023-04-04), treedt de Uitvoeringsorganisatie van het betrokken Land met de Werkorganisatie in overleg om afspraken te maken over de realisering van het project, programma of deze maatregel na het verval van de regeling. Deze afspraken behoeven de instemming van de Ministers.
 
-#### Artikel 12. Citeertitel
+##### Artikel 12. Citeertitel
 
 Deze onderlinge regeling wordt aangehaald als: Onderlinge regeling samenwerking bij hervormingen.
 

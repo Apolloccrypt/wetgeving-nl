@@ -1,13 +1,36 @@
 ---
 title: "Wijziging van de drempel in de groeiregeling materiële instandhouding (MI) voor het basisonderwijs"
 identifier: "BWBR0013763"
-categorie: "Onderwijs"
-publicatiedatum: 2002-01-01
-laatste_update: 2002-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013763"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2002-01-01"
+last_updated: "2002-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013763"
+soort: "beleidsregel"
+stam_id: "6456393"
+version_id: "11130662"
+internal_id: "C15047771"
+label_id: "6445094"
+original_entry_into_force: "2002-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013763/2002-01-01/0"
+intitule_bron: "Uitleg.2002-17"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-06-11"
+intitule_published: "2002-06-26"
+intitule_in_force: "2002-06-26"
+intitule_status: "goed"
+original_publication: "Uitleg.2002-17"
+original_signed_date: "2002-06-11"
+original_published_date: "2002-06-26"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2002-01-01"
+jci_1_3: "jci1.3:c:BWBR0013763&z=2002-01-01&g=2002-01-01"
+jci_1_0: "1.0:c:BWBR0013763&g=2002-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "2002-06-11"
+entry_into_force: "2002-01-01"
 ---
-
 # Wijziging van de drempel in de groeiregeling materiële instandhouding (MI) voor het basisonderwijs
 
 In deze publicatie wil ik u op de hoogte stellen van een voorgenomen wijziging van [artikel 14, zesde lid, van het Bekostigingsbesluit WPO](onbekend), die van invloed is op het insturen van de 1-maarttelling voor het bekostigingsjaar 2002.

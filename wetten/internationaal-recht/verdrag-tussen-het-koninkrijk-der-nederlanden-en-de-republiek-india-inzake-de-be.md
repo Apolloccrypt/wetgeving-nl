@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek India inzake de bevordering en bescherming van investeringen"
 identifier: "BWBV0006079"
-categorie: "Internationaal recht"
-publicatiedatum: 2016-12-01
-laatste_update: 2016-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006079"
+country: "nl"
+rank: "verdrag"
+publication_date: "2016-12-01"
+last_updated: "2016-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006079"
+soort: "verdrag"
+stam_id: "10005016653"
+version_id: "10005815692"
+internal_id: "C10009179641"
+label_id: "10004999964"
+dtd_version: "2.0"
+original_entry_into_force: "2016-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006079/2016-12-01/0"
+intitule_bron: "Trb.2016-195"
+intitule_effect: "intrekking-regeling"
+intitule_published: "2016-12-08"
+intitule_in_force: "2016-12-08"
+intitule_status: "vervallen"
+original_publication: "Trb.2016-195"
+original_published_date: "2016-12-08"
+original_effect: "intrekking-regeling"
+original_url_id: "trb-2016-195"
+entry_into_force_date: "2016-12-01"
+jci_1_3: "jci1.3:c:BWBV0006079&z=2016-12-01&g=2016-12-01"
+jci_1_0: "1.0:c:BWBV0006079&g=2016-12-01"
+citeertitel_status: "officieel"
+entry_into_force: "2016-12-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek India inzake de bevordering en bescherming van investeringen
 
 De Regering van het Koninkrijk der Nederlanden
@@ -22,67 +44,67 @@ In het besef dat wederzijdse bescherming van dergelijke investeringen uit hoofde
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Vervallen
 
-#### Artikel 2. Werkingssfeer van het Verdrag
+##### Artikel 2. Werkingssfeer van het Verdrag
 
 Vervallen
 
-#### Artikel 3. Investeringsbevordering
+##### Artikel 3. Investeringsbevordering
 
 Vervallen
 
-#### Artikel 4. Nationale behandeling en behandeling van meestbegunstigde natie
+##### Artikel 4. Nationale behandeling en behandeling van meestbegunstigde natie
 
 Vervallen
 
-#### Artikel 5. Onteigening
+##### Artikel 5. Onteigening
 
 Vervallen
 
-#### Artikel 6. Schadeloosstelling voor verliezen
+##### Artikel 6. Schadeloosstelling voor verliezen
 
 Vervallen
 
-#### Artikel 7. Repatriëring van de investering en opbrengsten
+##### Artikel 7. Repatriëring van de investering en opbrengsten
 
 Vervallen
 
-#### Artikel 8. Subrogatie
+##### Artikel 8. Subrogatie
 
 Vervallen
 
-#### Artikel 9. Investeringsgeschillen
+##### Artikel 9. Investeringsgeschillen
 
 Vervallen
 
-#### Artikel 10. Geschillen tussen de Verdragsluitende Partijen
+##### Artikel 10. Geschillen tussen de Verdragsluitende Partijen
 
 Vervallen
 
-#### Artikel 11. Toepasselijke wetgeving
+##### Artikel 11. Toepasselijke wetgeving
 
 Vervallen
 
-#### Artikel 12. Verboden en beperkingen
+##### Artikel 12. Verboden en beperkingen
 
 Vervallen
 
-#### Artikel 13. Toepassing van andere regels
+##### Artikel 13. Toepassing van andere regels
 
 Vervallen
 
-#### Artikel 14. Toepassingsgebied
+##### Artikel 14. Toepassingsgebied
 
 Vervallen
 
-#### Artikel 15. Inwerkingtreding
+##### Artikel 15. Inwerkingtreding
 
 Vervallen
 
-#### Artikel 16. Werkingsduur en beëindiging
+##### Artikel 16. Werkingsduur en beëindiging
 
 Vervallen
 

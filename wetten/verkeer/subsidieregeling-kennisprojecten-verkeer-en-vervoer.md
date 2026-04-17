@@ -1,26 +1,50 @@
 ---
 title: "Subsidieregeling kennisprojecten verkeer en vervoer"
 identifier: "BWBR0011844"
-categorie: "Verkeer"
-publicatiedatum: 2004-11-04
-laatste_update: 2004-11-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011844"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2004-11-04"
+last_updated: "2004-11-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011844"
+soort: "ministeriele-regeling"
+stam_id: "4726843"
+version_id: "6543792"
+internal_id: "C6994761"
+label_id: "4705164"
+dtd_version: "2.0"
+original_entry_into_force: "2000-11-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011844/2004-11-04/0"
+intitule_bron: "Stcrt.2000-231"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-11-28"
+intitule_published: "2000-11-28"
+intitule_in_force: "2000-11-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2000-231"
+original_signed_date: "2000-11-28"
+original_published_date: "2000-11-28"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2000-11-30"
+jci_1_3: "jci1.3:c:BWBR0011844&z=2004-11-04&g=2004-11-04"
+jci_1_0: "1.0:c:BWBR0011844&g=2004-11-04"
+citeertitel_status: "officieel"
+signed_date: "2000-11-28"
+entry_into_force: "2000-11-30"
 ---
-
 # Subsidieregeling kennisprojecten verkeer en vervoer
 
 Gelet op de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009196&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0009196&artikel=3) en [4 van de Kaderwet subsidies Verkeer en Waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0009196&artikel=4);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 1. In deze regeling wordt verstaan onder:
 
 a. **de minister:** de Minister van Verkeer en Waterstaat; b. **Connekt:** de stichting Connekt; c. **het bestuur:** het bestuur van de stichting Connekt; d. **kennisinfrastructuur:** de capaciteit van zowel de publieke als de private op kennis gerichte instellingen om voor de samenleving relevante kennisproducten te leveren; e. **fundamenteel/strategisch onderzoek:** uitbreiding van de algemene wetenschappelijke en technische kennis zonder industriële of commerciële doelstellingen; f. **industrieel onderzoek:** onderzoek dat gericht is op het opdoen van nieuwe kennis met het doel deze kennis bij de ontwikkeling van nieuwe producten, processen of diensten te gebruiken, of om bestaande producten, processen of diensten aanmerkelijk te verbeteren; g. **preconcurrentiële ontwikkeling:** de omzetting van de resultaten van industrieel onderzoek in plannen, schema's of ontwerpen voor nieuwe gewijzigde of verbeterde producten, processen of diensten, met inbegrip van de fabricage van een prototype, demonstratie- of modelproject, die niet voor industriële of commerciële doeleinden kunnen worden aangewend; h. **kennisverspreiding:** het actief opslaan, onderhouden, ontsluiten en verspreiden van kennis, die is ontwikkeld op basis van fundamenteel strategisch onderzoek, industrieel onderzoek, preconcurrentiële ontwikkeling en studies naar de technische haalbaarheid van industrieel onderzoek of preconcurrentiële ontwikkeling.
 
-#### Artikel 2. Subsidieverstrekking
+##### Artikel 2. Subsidieverstrekking
 
 1. De minister kan subsidie verstrekken voor de uitvoering van een jaarprogramma, ter verbetering van de kennisinfrastructuur voor verkeer en vervoer, bestaande uit deelprogramma's voor:
 
@@ -42,7 +66,7 @@ a. **de minister:** de Minister van Verkeer en Waterstaat; b. **Connekt:** de st
 
 4. Op de resultaten behaald binnen een deelprogramma als bedoeld in het eerste lid, rusten geen exclusieve intellectuele eigendomsrechten. Met het oog op het actief verspreiden van de kennis op het gebied van verkeer en vervoer, stelt Connekt alle resultaten tegen vergoeding van uitleveringskosten aan een ieder ter beschikking. De kennisverspreiding vindt onverwijld na afronding van de onderzoeksactiviteit of ontwikkelingsactiviteit plaats.
 
-#### Artikel 3. Subsidieplafond
+##### Artikel 3. Subsidieplafond
 
 Het subsidieplafond voor de subsidiëring van de uitvoering van jaarprogramma's bedraagt:
 
@@ -52,7 +76,7 @@ Het subsidieplafond voor de subsidiëring van de uitvoering van jaarprogramma's 
 
 - c. € 1.200.000,00 voor de periode van 2004 tot en met 2007 waarvan per jaar maximaal € 300.000.
 
-#### Artikel 4. Subsidiepercentages
+##### Artikel 4. Subsidiepercentages
 
 1. De subsidie voor kennisverspreiding als onderdeel van een deelprogramma als bedoeld in artikel 2, eerste lid, bedraagt 100%.
 
@@ -74,11 +98,11 @@ Het subsidieplafond voor de subsidiëring van de uitvoering van jaarprogramma's 
 
 5. Indien andere organen van openbaar bestuur bijdragen aan de verbetering van de kennisinfrastructuur voor verkeer en vervoer, brengt Connekt deze bijdrage aan het desbetreffende deelprogramma van het jaarprogramma, voorzover het betreft bijdragen in de subsidiabele kosten, in mindering op de in dit artikel genoemde subsidie.
 
-#### Artikel 5
+##### Artikel 5
 
 Op de verstrekking van subsidies is [afdeling 4.2.8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.8) van toepassing, voorzover daarvan in deze regeling niet uitdrukkelijk wordt afgeweken.
 
-#### Artikel 6. Aanvraag voor subsidie
+##### Artikel 6. Aanvraag voor subsidie
 
 1. Het bestuur dient een aanvraag voor een subsidie voor de uitvoering van een jaarprogramma, bij de minister in voor 1 november van het jaar, voorafgaand aan het jaar waarop de aanvraag voor subsidie betrekking heeft.
 
@@ -92,7 +116,7 @@ Op de verstrekking van subsidies is [afdeling 4.2.8 van de Algemene wet bestuurs
 
 6. In afwijking van het eerste lid worden de aanvragen voor subsidie voor zowel 2004 als 2005 uiterlijk 1 december 2004 ingediend.
 
-#### Artikel 7. Vereisten inzake het jaarprogramma
+##### Artikel 7. Vereisten inzake het jaarprogramma
 
 1. Een jaarprogramma als bedoeld in artikel 6, tweede lid, bevat tenminste de volgende gegevens:
 
@@ -134,7 +158,7 @@ Op de verstrekking van subsidies is [afdeling 4.2.8 van de Algemene wet bestuurs
 
 - b. diensten op basis van aantoonbare salariskosten met een opslag van ten hoogste 40%.
 
-#### Artikel 8. Vaststelling van het bedrag van de subsidieverlening
+##### Artikel 8. Vaststelling van het bedrag van de subsidieverlening
 
 1. Binnen zes weken nadat het bestuur de gegevens, bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011844&artikel=6&z=2004-11-04&g=2004-11-04) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0011844&artikel=7&z=2004-11-04&g=2004-11-04), heeft overgelegd, beoordeelt de minister het jaarprogramma.
 
@@ -146,7 +170,7 @@ Op de verstrekking van subsidies is [afdeling 4.2.8 van de Algemene wet bestuurs
 
 5. Indien het bestuur een melding als bedoeld in [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011844&artikel=10&z=2004-11-04&g=2004-11-04), maakt, wijzigt de minister binnen 6 weken de beschikking, bedoeld in het tweede lid.
 
-#### Artikel 9. Voorschotten
+##### Artikel 9. Voorschotten
 
 1. Op verzoek van het bestuur kan de minister voorschotten verlenen.
 
@@ -158,7 +182,7 @@ Op de verstrekking van subsidies is [afdeling 4.2.8 van de Algemene wet bestuurs
 
 5. In afwijking van het tweede lid kan de minister voor het jaar 2003 het bedrag van de voorschotten bepalen tot een maximum van 100% van het voor dat kalenderjaar verleende subsidiebedrag.
 
-#### Artikel 10. Verplichtingen van de subsidieontvanger
+##### Artikel 10. Verplichtingen van de subsidieontvanger
 
 1. De uitvoering van het jaarprogramma start binnen het jaar waarvoor de subsidie is verleend.
 
@@ -176,7 +200,7 @@ Op de verstrekking van subsidies is [afdeling 4.2.8 van de Algemene wet bestuurs
 
 8. Statutenwijziging en ontbinding van Connekt behoeven de voorafgaande goedkeuring van de minister.
 
-#### Artikel 11. Subsidievaststelling
+##### Artikel 11. Subsidievaststelling
 
 1. Het bestuur dient voor 1 juni na afloop van het boekjaar een aanvraag tot vaststelling van de subsidie in.
 
@@ -184,17 +208,17 @@ Op de verstrekking van subsidies is [afdeling 4.2.8 van de Algemene wet bestuurs
 
 3. De accountant hanteert een door de minister vastgesteld controleprotocol.
 
-#### Artikel 12
+##### Artikel 12
 
 De minister stelt binnen acht weken nadat het bestuur een aanvraag tot vaststelling van de subsidie heeft ingediend het bedrag van de subsidie vast.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Het bestuur verstrekt jaarlijks aan de minister een verslag met daarin gegevens over de doeltreffendheid en de effecten van deze regeling in de praktijk.
 
 2. Het bestuur verstrekt desgevraagd aan de minister onverwijld de voor de uitoefening van zijn taak benodigde inlichtingen.
 
-#### Artikel 14. Overgangsbepalingen
+##### Artikel 14. Overgangsbepalingen
 
 1. Na de inwerkingtreding van deze regeling berusten op [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011844&artikel=2&z=2004-11-04&g=2004-11-04), van deze regeling:
 
@@ -204,11 +228,11 @@ De minister stelt binnen acht weken nadat het bestuur een aanvraag tot vaststell
 
 2. Connekt treedt in de plaats van het Centrum voor transporttechnologie, het bureau Intelligente transportsystemen Nederland en het projectbureau Integrale Verkeers- en Vervoerstudies, voorzover het betreft de subsidiabele uitgaven respectievelijk gevolgen voor de kasadministratie en aangegane verplichtingen, voorzover betrekking hebbend op 2000 of latere jaren.
 
-#### Artikel 15. Inwerkingtreding
+##### Artikel 15. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot 1 januari 2000.
 
-#### Artikel 16. Citeertitel
+##### Artikel 16. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling kennisprojecten verkeer en vervoer.
 

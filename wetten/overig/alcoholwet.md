@@ -1,14 +1,39 @@
 ---
-title: "Alcoholwet"
+title: "Wet van 7 oktober 1964, tot regeling van de uitoefening van de bedrijven en de werkzaamheid, waarin of in het kader waarvan alcoholhoudende drank wordt verstrekt"
 identifier: "BWBR0002458"
-categorie: "Overig"
-publicatiedatum: 2025-02-12
-laatste_update: 2025-02-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002458"
+country: "nl"
+rank: "wet"
+publication_date: "2025-02-12"
+last_updated: "2025-02-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002458"
+soort: "wet"
+stam_id: "2936553"
+version_id: "27474412"
+internal_id: "C39223031"
+label_id: "2886804"
+dtd_version: "2.0"
+original_entry_into_force: "2021-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002458/2025-02-12/0"
+intitule_bron: "Stb.1964-386"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1964-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2021-26"
+original_signed_date: "2020-12-16"
+original_published_date: "2021-01-28"
+original_effect: "structuurwijziging"
+original_dossier: "35337"
+original_url_id: "stb-2021-26"
+entry_into_force_date: "2021-07-01"
+jci_1_3: "jci1.3:c:BWBR0002458&z=2025-02-12&g=2025-02-12"
+jci_1_0: "1.0:c:BWBR0002458&g=2025-02-12"
+citeertitel_status: "officieel"
+short_title: "Alcoholwet"
+signed_date: "2020-12-16"
+entry_into_force: "2021-07-01"
 ---
-
-# Alcoholwet
+# Wet van 7 oktober 1964, tot regeling van de uitoefening van de bedrijven en de werkzaamheid, waarin of in het kader waarvan alcoholhoudende drank wordt verstrekt
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +43,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan onder:
 
@@ -108,7 +133,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### § 2. Algemene bepalingen
 
-#### Artikel 2
+##### Artikel 2
 
 1. Bij algemene maatregel van bestuur kunnen in het belang van de volksgezondheid regels worden gesteld met betrekking tot de inhoud van reclame voor alcoholhoudende drank, de doelgroepen waarop zodanige reclame is gericht, alsmede de tijd en wijze waarop en de plaats waar reclame wordt gemaakt. Deze regels kunnen verboden, beperkingen van en voorschriften ten aanzien van reclameuitingen bevatten. In de maatregel wordt een overgangsregeling getroffen ten aanzien van reclameuitingen die reeds waren geopenbaard op het tijdstip van inwerkingtreding van die maatregel.
 
@@ -118,13 +143,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 4. Een krachtens het eerste lid vastgestelde algemene maatregel van bestuur treedt niet eerder in werking dan acht weken na de datum van uitgifte van het Staatsblad waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het is verboden zonder daartoe strekkende vergunning van de burgemeester het horecabedrijf of slijtersbedrijf uit te oefenen.
 
 2. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op de aanvraag van een vergunning als bedoeld in het eerste lid.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Een vergunning is vereist voor iedere inrichting.
 
@@ -132,15 +157,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 3. Indien een terras onderdeel is van een inrichting, die onderdeel uitmaakt van een winkel wordt slechts een vergunning ten aanzien van het terras verleend, indien dit onmiddellijk aansluit aan een horecalokaliteit. Voor de overige terrassen wordt slechts vergunning verleend, indien zij in de onmiddellijke nabijheid van een horecalokaliteit zijn gelegen.
 
-#### Artikel 3a
+##### Artikel 3a
 
 Vervallen
 
-#### Artikel 3b
+##### Artikel 3b
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 1. Bij gemeentelijke verordening worden ter voorkoming van oneerlijke mededinging regels gesteld waaraan paracommerciële rechtspersonen zich te houden hebben bij de verstrekking van alcoholhoudende drank.
 
@@ -160,19 +185,19 @@ Vervallen
 
 6. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op een aanvraag om een ontheffing als bedoeld in het vierde lid.
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 5a
+##### Artikel 5a
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Op de voorbereiding van een beslissing tot verlening van een vergunning op grond van artikel 3 voor het horecabedrijf aan een paracommerciële rechtspersoon is [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Een vergunning is vereist voor iedere inrichting.
 
@@ -180,7 +205,7 @@ Op de voorbereiding van een beslissing tot verlening van een vergunning op grond
 
 3. Indien een terras onderdeel is van een inrichting, die onderdeel uitmaakt van een winkel wordt slechts een vergunning ten aanzien van het terras verleend, indien dit onmiddellijk aansluit aan een horecalokaliteit. Voor de overige terrassen wordt slechts vergunning verleend, indien zij in de onmiddellijke nabijheid van een horecalokaliteit zijn gelegen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Leidinggevenden van het horecabedrijf en het slijtersbedrijf voldoen aan de volgende eisen:
 
@@ -204,7 +229,7 @@ Op de voorbereiding van een beslissing tot verlening van een vergunning op grond
 
 6. Indien een paracommerciële rechtspersoon het horecabedrijf uitoefent, voldoen ten minste twee leidinggevenden aan de bij of krachtens dit artikel gestelde eisen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het bestuur van een paracommerciële rechtspersoon stelt voor het verkrijgen van een vergunning tot uitoefening van het horecabedrijf een reglement vast dat waarborgt dat de verstrekking van alcoholhoudende drank in de inrichting vanuit het oogpunt van sociale hygiëne op verantwoorde wijze geschiedt.
 
@@ -220,15 +245,15 @@ Op de voorbereiding van een beslissing tot verlening van een vergunning op grond
 
 5. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de inhoud van het reglement.
 
-#### Artikel 3c
+##### Artikel 3c
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Een krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=3&z=2025-02-12&g=2025-02-12) verleende vergunning geldt ten aanzien van het verstrekken van alcoholhoudende drank niet voor andere gedeelten van de openbare weg dan die, waar dat verstrekken door de burgemeester uitdrukkelijk is toegestaan.
 
-#### Artikel 11a
+##### Artikel 11a
 
 1. Er is een Landelijke commissie sociale hygiëne.
 
@@ -236,19 +261,19 @@ Een krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragr
 
 #### § 2a. De Landelijke commissie sociale hygiëne
 
-#### Artikel 12
+##### Artikel 12
 
 1. Het is verboden alcoholhoudende drank te verstrekken voor gebruik ter plaatse anders dan in een in de vergunning vermelde horecalokaliteit of anders dan op een in de vergunning vermeld terras, tenzij het betreft het vanuit zodanige lokaliteit afleveren van alcoholhoudende drank op bestelling in hotelkamers ingericht voor nachtverblijf of het verstrekken van alcoholhoudende drank door het in dergelijke hotelkamers beschikbaar te stellen.
 
 2. Het is verboden sterke drank te verstrekken voor gebruik elders dan ter plaatse anders dan in een slijtlokaliteit die in de vergunning is vermeld.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Het is verboden in een horecalokaliteit of op een terras alcoholhoudende drank te verstrekken voor gebruik elders dan ter plaatse.
 
 2. Het is verboden in een slijtlokaliteit alcoholhoudende drank te verstrekken voor gebruik ter plaatse, tenzij het betreft verstrekking om niet door een persoon die in die slijtlokaliteit dienst pleegt te doen en die verstrekking tot doel heeft een klant die daarom verzoekt een alcoholhoudende drank die in dat slijtersbedrijf verkrijgbaar is te laten proeven.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Het is verboden een slijtlokaliteit gelijktijdig in gebruik te hebben voor het verrichten van andere bedrijfsactiviteiten dan die welke tot het slijtersbedrijf behoren dan wel toe te laten dat daarin zodanige activiteiten worden uitgeoefend.
 
@@ -270,7 +295,7 @@ Een krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragr
 
 4. Onder diensten van recreatieve aard als bedoeld in het derde lid, onder b, wordt niet verstaan het aanbieden van kansspelen, met uitzondering van dit aanbod in inrichtingen als bedoeld in [artikel 27g, tweede lid, van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27g) en het aanwezig hebben van speelautomaten als bedoeld in [Titel Va van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=Va).
 
-#### Artikel 15
+##### Artikel 15
 
 1. Het is verboden de kleinhandel of de zelfbedieningsgroothandel of een in [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=14&z=2025-02-12&g=2025-02-12), genoemde activiteit, uit te oefenen in een lokaliteit behorende tot een inrichting waarin het horecabedrijf wordt uitgeoefend, indien het publiek uitsluitend toegang heeft tot die lokaliteit door een lokaliteit te betreden waar alcoholhoudende drank aanwezig is.
 
@@ -280,23 +305,23 @@ Een krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragr
 
 - b. oorpluggen, -dopjes of -stopjes die in de gehoorgang kunnen worden geplaatst ter bescherming van het gehoor.
 
-#### Artikel 15a
+##### Artikel 15a
 
 Vervallen
 
-#### Artikel 16
+##### Artikel 16
 
 Het is degene, die bedrijfsmatig of anders dan om niet alcoholhoudende drank verstrekt, verboden daartoe automaten, waaruit de afnemers zelfstandig zodanige drank kunnen betrekken aanwezig te hebben, tenzij deze zich bevinden in hotelkamers, ingericht voor nachtverblijf, welke deel uitmaken van een inrichting waarin het horecabedrijf rechtmatig wordt uitgeoefend.
 
-#### Artikel 17
+##### Artikel 17
 
 Het is verboden bedrijfsmatig of anders dan om niet alcoholhoudende drank voor gebruik elders dan ter plaatse aan particulieren te verstrekken of af te leveren anders dan in een gesloten verpakking, die niet zonder kenbare beschadiging kan worden geopend.
 
-#### Artikel 17a
+##### Artikel 17a
 
 Vervallen
 
-#### Artikel 18
+##### Artikel 18
 
 1. Het is verboden in de uitoefening van een ander bedrijf dan het slijtersbedrijf zwak-alcoholhoudende drank voor gebruik elders dan ter plaatse aan particulieren te verstrekken.
 
@@ -310,7 +335,7 @@ Vervallen
 
 3. Zwak-alcoholhoudende dranken zijn in de gevallen bedoeld in het tweede lid, zodanig in de besloten ruimte geplaatst, dat deze dranken voor het publiek duidelijk te onderscheiden zijn van alcoholvrije dranken. Alcoholvrije alternatieven voor bier en wijn behoeven niet te worden onderscheiden van zwak-alcoholhoudende dranken.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Het is verboden, anders dan in de rechtmatige uitoefening van verkoop op afstand door een slijtersbedrijf of in de uitoefening van het partijen-cateringbedrijf gelegenheid te bieden tot het doen van bestellingen voor sterke drank en sterke drank op bestelling af te leveren of te doen afleveren aan huizen van particulieren.
 
@@ -326,7 +351,7 @@ Vervallen
 
 - b. anders dan in de uitoefening van het partijen-cateringbedrijf vanuit een niet voor publiek toegankelijke besloten ruimte waar vanuit het partijen-cateringbedrijf wordt uitgeoefend.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Het is verboden bedrijfsmatig of anders dan om niet alcoholhoudende drank te verstrekken aan een persoon van wie niet is vastgesteld dat deze de leeftijd van 18 jaar heeft bereikt. Onder verstrekken als bedoeld in de eerste volzin wordt eveneens begrepen het verstrekken van alcoholhoudende drank aan een persoon van wie is vastgesteld dat deze de leeftijd van 18 jaar heeft bereikt, welke drank echter kennelijk bestemd is voor een persoon van wie niet is vastgesteld dat deze de leeftijd van 18 jaar heeft bereikt.
 
@@ -342,11 +367,11 @@ Vervallen
 
 5. Het is verboden in kennelijke staat van dronkenschap of kennelijk onder invloed van andere psychotrope stoffen dienst te doen in een slijtlokaliteit of horecalokaliteit.
 
-#### Artikel 21
+##### Artikel 21
 
 Het is verboden bedrijfsmatig of anders dan om niet alcoholhoudende drank te verstrekken, indien redelijkerwijs moet worden vermoed, dat dit tot verstoring van de openbare orde, veiligheid of zedelijkheid zal leiden.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Het is verboden bedrijfsmatig of anders dan om niet alcoholhoudende drank te verstrekken:
 
@@ -364,11 +389,11 @@ Het is verboden bedrijfsmatig of anders dan om niet alcoholhoudende drank te ver
 
 3. Een krachtens het tweede lid vastgestelde algemene maatregel van bestuur treedt niet eerder in werking dan acht weken na de datum van uitgifte van het Staatsblad waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal.
 
-#### Artikel 23
+##### Artikel 23
 
 Vervallen
 
-#### Artikel 24
+##### Artikel 24
 
 1. Het is verboden een horecalokaliteit of een slijtlokaliteit voor het publiek geopend te houden indien in de inrichting niet aanwezig is:
 
@@ -412,7 +437,7 @@ Vervallen
 
 6. Het eerste lid, onder c, is niet van toepassing op een horecalokaliteit of slijtlokaliteit behorend bij een horecabedrijf of slijtersbedrijf aangewezen krachtens artikel 30b.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Het is degene die, anders dan in de rechtmatige uitoefening van het slijtersbedrijf of horecabedrijf, een ruimte voor het publiek geopend houdt, verboden:
 
@@ -436,7 +461,7 @@ Vervallen
 
 #### § 4. Vergunningen
 
-#### Artikel 26
+##### Artikel 26
 
 1. Een aanvraag om een vergunning als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=3&z=2025-02-12&g=2025-02-12) wordt gesteld op een formulier of een elektronische informatiedrager, die bij regeling van Onze Minister worden vastgesteld.
 
@@ -450,7 +475,7 @@ Vervallen
 
 3. Bij regeling van Onze Minister kunnen ten aanzien van het formulier, bedoeld in het tweede lid, nadere regels worden gesteld.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Een vergunning wordt geweigerd indien:
 
@@ -470,11 +495,11 @@ Vervallen
 
 4. Voordat toepassing wordt gegeven aan het derde lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=8), om een advies als bedoeld in [artikel 9 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=9) worden gevraagd.
 
-#### Artikel 28
+##### Artikel 28
 
 Een vergunning wordt verleend, indien geen der in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=4&artikel=27&z=2025-02-12&g=2025-02-12) bedoelde weigeringsgronden aanwezig is.
 
-#### Artikel 29
+##### Artikel 29
 
 1. De burgemeester vermeldt in een vergunning:
 
@@ -494,11 +519,11 @@ Een vergunning wordt verleend, indien geen der in [artikel 27](https://wetten.ov
 
 4. De vergunning en het aanhangsel worden gesteld op een formulier dat bij regeling van Onze Minister wordt vastgesteld.
 
-#### Artikel 30
+##### Artikel 30
 
 Indien een inrichting een zodanige verandering ondergaat dat zij niet langer in overeenstemming is met de in de vergunning gegeven omschrijving, is de vergunninghouder verplicht bedoelde wijziging binnen één maand bij de burgemeester te melden. De burgemeester verstrekt, indien nog aan de ten aanzien van de inrichting gestelde eisen wordt voldaan, een gewijzigde vergunning, waarin de ingevolge [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=4&artikel=29&z=2025-02-12&g=2025-02-12) vereiste omschrijving is aangepast aan de nieuwe situatie.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Een vergunning wordt door de burgemeester ingetrokken, indien:
 
@@ -520,13 +545,13 @@ Indien een inrichting een zodanige verandering ondergaat dat zij niet langer in 
 
 4. Indien een vergunning is ingetrokken omdat is gehandeld in strijd met de voorschriften en beperkingen verbonden aan de vergunning, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=4&z=2025-02-12&g=2025-02-12) of 25a, wordt de bevoegdheid om aan de betrokken rechtspersoon een nieuwe vergunning te verlenen opgeschort tot een jaar nadat het besluit tot intrekking onherroepelijk is geworden.
 
-#### Artikel 32
+##### Artikel 32
 
 1. Een vergunning kan in de gevallen bedoeld in [artikel 31, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=4&artikel=31&z=2025-02-12&g=2025-02-12), door de burgemeester worden geschorst voor een periode van ten hoogste 12 weken.
 
 2. Tijdens de schorsing verleent de burgemeester de vergunninghouder geen nieuwe vergunning op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=3&z=2025-02-12&g=2025-02-12).
 
-#### Artikel 33
+##### Artikel 33
 
 Een vergunning vervalt, wanneer:
 
@@ -536,13 +561,13 @@ Een vergunning vervalt, wanneer:
 
 - c. de verlening van een vergunning, strekkende tot vervanging van eerstbedoelde vergunning, van kracht is geworden.
 
-#### Artikel 34
+##### Artikel 34
 
 Een faillissement of toepassing van de schuldsaneringsregeling natuurlijke personen heeft ten aanzien van het krachtens [artikel 31, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=4&artikel=31&z=2025-02-12&g=2025-02-12), of [33, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=4&artikel=33&z=2025-02-12&g=2025-02-12), intrekken of vervallen van de vergunning een opschortende werking tot het tijdstip waarop het faillissement onderscheidenlijk de toepassing van de schuldsaneringsregeling eindigt.
 
 #### § 3a. Gemeentelijke verordenende bevoegdheid
 
-#### Artikel 35
+##### Artikel 35
 
 1. De burgemeester kan ten aanzien van het verstrekken van zwak-alcoholhoudende drank op aanvraag ontheffing verlenen van het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=3&z=2025-02-12&g=2025-02-12) voor de uitoefening van het horecabedrijf gestelde verbod, bij een in de beschikking aangewezen bijzondere gelegenheid van zeer tijdelijke aard voor een aaneengesloten periode van ten hoogste twaalf dagen, mits de verstrekking geschiedt onder onmiddellijke leiding van een persoon die:
 
@@ -566,29 +591,29 @@ De naam van deze persoon staat op de ontheffing vermeld.
 
 #### § 4. Vergunningen
 
-#### Artikel 36
+##### Artikel 36
 
 De burgemeester is bevoegd aan andere personen dan hen, die wonen in de ruimte, waarin in strijd met deze wet alcoholhoudende drank wordt verstrekt, de toegang tot die ruimte te ontzeggen.
 
-#### Artikel 37
+##### Artikel 37
 
 Vervallen
 
-#### Artikel 38
+##### Artikel 38
 
 Het is verboden ter zake van een aanvraag om een vergunning of een ontheffing onjuiste of onvolledige gegevens te verstrekken.
 
-#### Artikel 39
+##### Artikel 39
 
 Indien in deze wet geregelde onderwerpen in het belang van een goede uitvoering van deze wet nadere regeling behoeven, kan deze geschieden bij algemene maatregel van bestuur.
 
-#### Artikel 40
+##### Artikel 40
 
 Voor zover in deze wet niet anders is bepaald, kunnen ten aanzien van de onderwerpen, waarin zij voorziet, geen provinciale of gemeentelijke verordeningen worden gemaakt.
 
 #### § 4. Vergunningen
 
-#### Artikel 41
+##### Artikel 41
 
 1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast:
 
@@ -604,15 +629,15 @@ Voor zover in deze wet niet anders is bepaald, kunnen ten aanzien van de onderwe
 
 3. In afwijking van het eerste lid zijn met het toezicht op naleving van het verbod, bedoeld in de [artikelen 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=14&z=2025-02-12&g=2025-02-12), en [15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=15&z=2025-02-12&g=2025-02-12), voor zover het tabaksproducten en aanverwante producten in de zin van de [Tabaks- en rookwarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302) betreft, de op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=13) van die Wet aangewezen ambtenaren of andere personen belast.
 
-#### Artikel 42
+##### Artikel 42
 
 De in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=7&artikel=41&z=2025-02-12&g=2025-02-12) bedoelde ambtenaren zijn bevoegd, met medeneming van de benodigde apparatuur, een woning binnen te treden zonder toestemming van de bewoner, waar bedrijfsmatig of anders dan om niet alcoholhoudende drank aan particulieren wordt verstrekt of waar naar hun redelijk vermoeden zodanige verstrekking plaatsvindt.
 
-#### Artikel 43
+##### Artikel 43
 
 Van een besluit als bedoeld in [artikel 41, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=7&artikel=41&z=2025-02-12&g=2025-02-12), wordt mededeling gedaan door plaatsing in de Staatscourant onderscheidenlijk het gemeenteblad.
 
-#### Artikel 44
+##### Artikel 44
 
 1. De burgemeester kan de natuurlijke persoon of de rechtspersoon die een bedrijf exploiteert als bedoeld in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=18&z=2025-02-12&g=2025-02-12), de bevoegdheid ontzeggen zwak-alcoholhoudende drank te verkopen vanaf de locatie waar in een periode van 12 maanden driemaal [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=20&z=2025-02-12&g=2025-02-12), is overtreden.
 
@@ -624,7 +649,7 @@ Van een besluit als bedoeld in [artikel 41, eerste lid, onderdelen a en b](https
 
 #### § 5. Ontheffing
 
-#### Artikel 45
+##### Artikel 45
 
 1. Het is personen die de leeftijd van 18 jaar nog niet hebben bereikt, verboden op voor publiek toegankelijke plaatsen alcoholhoudende drank aanwezig te hebben of voor consumptie gereed te hebben, met uitzondering van plaatsen waar bedrijfsmatig of anders dan om niet alcoholhoudende drank voor gebruik elders dan ter plaatse wordt verstrekt.
 
@@ -642,17 +667,17 @@ Van een besluit als bedoeld in [artikel 41, eerste lid, onderdelen a en b](https
 
 #### § 6. Overige bepalingen
 
-#### Artikel 46
+##### Artikel 46
 
 Een wijziging van [Richtlijn 2005/36/EG](32005L0036) van het Europees Parlement en de Raad van 7 september 2005 betreffende de erkenning van beroepskwalificaties (PbEU 2005, L 255) gaat voor de toepassing van deze wet gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven.
 
-#### Artikel 47
+##### Artikel 47
 
 1. Het in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=13&z=2025-02-12&g=2025-02-12) gestelde verbod geldt tot een door Ons te bepalen tijdstip niet voor degene, die op 30 september 1967 feitelijk alcoholhoudende drank voor gebruik ter plaatse en sterke drank voor gebruik elders dan ter plaatse verstrekte in een lokaliteit, waarvoor een op grond van de Drankwet (Stb. 1931, 476) verleende volledige vergunning gold, voor zover het die lokaliteit betreft.
 
 2. Het in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=13&z=2025-02-12&g=2025-02-12) gestelde verbod geldt tot een door Ons te bepalen tijdstip voorts niet voor degene, die in een lokaliteit, waarvoor een op grond van de Drankwet (Stb. 1931, 476) verleende vergunning of verleend verlof A gold, op 30 september 1967 feitelijk alcoholhoudende drank voor gebruik ter plaatse verstrekte en tevens bedrijfsmatig aan particulieren zwak-alcoholhoudende drank voor gebruik elders dan ter plaatse verstrekte, voor zover het betreft het gelijktijdig in gebruik hebben van die lokaliteit voor het bedrijfsmatig verstrekken van alcoholhoudende drank voor gebruik ter plaatse en voor het bedrijfsmatig aan particulieren verstrekken van zwak-alcoholhoudende drank voor gebruik elders dan ter plaatse.
 
-#### Artikel 48
+##### Artikel 48
 
 [Artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=9&artikel=47&z=2025-02-12&g=2025-02-12) is van overeenkomstige toepassing voor degene, die op 1 november 1967 feitelijk een horecabedrijf of slijtersbedrijf uitoefende:
 
@@ -660,13 +685,13 @@ Een wijziging van [Richtlijn 2005/36/EG](32005L0036) van het Europees Parlement 
 
 - b. als rechtverkrijgende van een persoon als onder a bedoeld diens bedrijf voortzettend krachtens de wet van 14 april 1960 (Stb. 155).
 
-#### Artikel 49
+##### Artikel 49
 
 Deze wet wordt aangehaald als: Alcoholwet.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 44a
+##### Artikel 44a
 
 1. De burgemeester kan een bestuurlijke boete opleggen ter zake van overtreding binnen zijn gemeente van het bij of krachtens de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=3&z=2025-02-12&g=2025-02-12), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=4&z=2025-02-12&g=2025-02-12), [9, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=9&z=2025-02-12&g=2025-02-12), [12 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=12&z=2025-02-12&g=2025-02-12), [20, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=20&z=2025-02-12&g=2025-02-12), [22, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=22&z=2025-02-12&g=2025-02-12), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=24&z=2025-02-12&g=2025-02-12), [25, behoudens het derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=25&z=2025-02-12&g=2025-02-12), [25a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3a&artikel=25a&z=2025-02-12&g=2025-02-12), [25b tot en met 25e](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3a&artikel=25b&z=2025-02-12&g=2025-02-12), [25f, tweede lid, onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3a&artikel=25f&z=2025-02-12&g=2025-02-12), [29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=4&artikel=29&z=2025-02-12&g=2025-02-12), [35, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=5&artikel=35&z=2025-02-12&g=2025-02-12), of [38](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=6&artikel=38&z=2025-02-12&g=2025-02-12) gestelde.
 
@@ -686,7 +711,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 6. De boete komt toe aan de gemeente, waar de overtreding heeft plaatsgevonden.
 
-#### Artikel 44b
+##### Artikel 44b
 
 1. Bij algemene maatregel van bestuur wordt een bijlage vastgesteld, die bij elke daarin omschreven overtreding het bedrag van de deswege op te leggen bestuurlijke boete bepaalt.
 
@@ -694,31 +719,31 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 3. Bij algemene maatregel van bestuur kan worden bepaald dat bij ministeriële regeling elke twee jaar het bedrag van de op te leggen boete wordt gewijzigd aan de hand van een bij algemene maatregel van bestuur aan te wijzen prijsindex. Bij algemene maatregel van bestuur kunnen nadere regels ten aanzien van de indexering worden vastgesteld. Aan de eerste volzin wordt geen gevolg gegeven indien het in [artikel 44a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=7&artikel=44a&z=2025-02-12&g=2025-02-12), genoemde bedrag daarbij zou worden overschreden.
 
-#### Artikel 44c
+##### Artikel 44c
 
 Vervallen
 
-#### Artikel 44d
+##### Artikel 44d
 
 Vervallen
 
-#### Artikel 44e
+##### Artikel 44e
 
 Vervallen
 
-#### Artikel 44f
+##### Artikel 44f
 
 Vervallen
 
-#### Artikel 44g
+##### Artikel 44g
 
 Vervallen
 
-#### Artikel 44h
+##### Artikel 44h
 
 Vervallen
 
-#### Artikel 44i
+##### Artikel 44i
 
 Vervallen
 
@@ -728,13 +753,13 @@ Vervallen
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 19a
+##### Artikel 19a
 
 Vervallen
 
 #### § 3a. Gemeentelijke verordenende bevoegdheid
 
-#### Artikel 25a
+##### Artikel 25a
 
 1. Bij gemeentelijke verordening kan het bedrijfsmatig of anders dan om niet verstrekken van alcoholhoudende drank in inrichtingen worden verboden of aan beperkingen worden onderworpen.
 
@@ -746,7 +771,7 @@ Vervallen
 
 3. Onverminderd [artikel 10, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=10&z=2025-02-12&g=2025-02-12), kunnen bij gemeentelijke verordening als bedoeld in het eerste lid, aanvullend aan hetgeen is geregeld bij of krachtens [artikel 4.3, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.3) eisen worden gesteld aan de minimumvloeroppervlakte van een slijtlokaliteit of horecalokaliteit.
 
-#### Artikel 25b
+##### Artikel 25b
 
 1. Bij gemeentelijke verordening kan worden verboden dat in horecalokaliteiten en op terrassen bezoekers worden toegelaten beneden een bij die verordening te bepalen leeftijd welke echter niet hoger mag zijn dan 21 jaar.
 
@@ -756,13 +781,13 @@ Vervallen
 
 - b. de leeftijd van degene die wenst te worden toegelaten, wordt vastgesteld op de in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=20&z=2025-02-12&g=2025-02-12), bedoelde wijze.
 
-#### Artikel 25c
+##### Artikel 25c
 
 1. Bij gemeentelijke verordening kan het bedrijfsmatig of anders dan om niet verstrekken van zwak-alcoholhoudende drank in of vanuit locaties als bedoeld in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=18&z=2025-02-12&g=2025-02-12), of [artikel 19, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=19&z=2025-02-12&g=2025-02-12), worden verboden of aan beperkingen worden onderworpen. Een dergelijk verbod of beperking heeft slechts betrekking op een beperkte tijdsruimte.
 
 2. Bij zodanige verordening kan worden bepaald dat het verbod slechts geldt in bij die verordening aangewezen delen van de gemeente.
 
-#### Artikel 25d
+##### Artikel 25d
 
 1. Bij gemeentelijke verordening kan ter bescherming van de volksgezondheid of in het belang van de openbare orde worden verboden bedrijfsmatig of anders dan om niet alcoholhoudende dranken te verstrekken voor gebruik ter plaatse tegen een prijs die voor een periode van 24 uur of korter lager is dan 60% van de prijs die in de betreffende horecalokaliteit of op het betreffende terras gewoonlijk wordt gevraagd.
 
@@ -770,7 +795,7 @@ Vervallen
 
 #### § 4. Vergunningen
 
-#### Artikel 30a
+##### Artikel 30a
 
 1. Een vergunninghouder meldt aan de burgemeester zijn wens:
 
@@ -798,7 +823,7 @@ Vervallen
 
 #### § 5. Ontheffing
 
-#### Artikel 44aa
+##### Artikel 44aa
 
 1. Onze Minister kan een bestuurlijke boete opleggen ter zake van overtreding van het gestelde bij of krachtens:
 
@@ -816,13 +841,13 @@ Vervallen
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 48a
+##### Artikel 48a
 
 Op besluiten van Onze Minister die genomen zijn vòòr 1 januari 2013 blijft het recht zoals dat gold tot die datum van toepassing.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 43a
+##### Artikel 43a
 
 1. De gemeenteraad stelt uiterlijk zes maanden na inwerkingtreding van dit artikel voor de eerste maal een preventie- en handhavingsplan alcohol vast. Vervolgens wordt dit plan elke vier jaar gelijktijdig met de vaststelling van de nota gemeentelijk gezondheidsbeleid, bedoeld in [artikel 13, tweede lid, van de Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=13), vastgesteld. Het plan kan tussentijds worden gewijzigd.
 
@@ -846,13 +871,13 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 2a
+##### Artikel 2a
 
 1. Het is verboden om bedrijfsmatig of anders dan om niet alcoholhoudende drank aan te bieden of te verstrekken voor gebruik elders dan ter plaatse tegen een prijs die voor een periode van een maand of korter lager is dan 75% van de prijs die in het betreffende verkooppunt gewoonlijk wordt gevraagd.
 
 2. Het is verboden om bedrijfsmatig of anders dan om niet alcoholhoudende drank aan te bieden of te verstrekken voor gebruik elders dan ter plaatse waarbij de indruk wordt gewekt dat de prijs lager is dan 75% van de prijs die gewoonlijk wordt gevraagd.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Leidinggevenden van het horecabedrijf en het slijtersbedrijf voldoen aan de volgende eisen:
 
@@ -872,7 +897,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 6. Het eerste lid, onderdeel a, en het derde lid zijn tevens van toepassing op personen die onmiddellijk leidinggeven aan een horecabedrijf of slijtersbedrijf.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het bestuur van een paracommerciële rechtspersoon stelt voor het verkrijgen van een vergunning tot uitoefening van het horecabedrijf een reglement vast dat waarborgt dat de verstrekking van alcoholhoudende drank in de inrichting vanuit het oogpunt van sociale hygiëne op verantwoorde wijze geschiedt.
 
@@ -888,7 +913,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 5. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de inhoud van het reglement.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Een slijtlokaliteit staat niet rechtstreeks in verbinding met een neringruimte.
 
@@ -902,11 +927,11 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 #### § 3. Bijzondere bepalingen
 
-#### Artikel 14a
+##### Artikel 14a
 
 Het is verboden om bij het aanbieden en verstrekken van sterke drank in het kader van verkoop op afstand in de rechtmatige uitoefening van het slijtersbedrijf, gelijktijdig andere bedrijfsactiviteiten dan die welke tot het slijtersbedrijf behoren uit te oefenen.
 
-#### Artikel 20a
+##### Artikel 20a
 
 1. Bij of krachtens algemene maatregel van bestuur worden eisen gesteld aan verkoop op afstand van alcoholhoudende drank. Deze eisen hebben in elk geval betrekking op:
 
@@ -926,11 +951,11 @@ Het is verboden om bij het aanbieden en verstrekken van sterke drank in het kade
 
 #### § 3a. Gemeentelijke verordenende bevoegdheid
 
-#### Artikel 25e
+##### Artikel 25e
 
 Bij gemeentelijke verordening kan met inachtneming van [artikel 3, eerste lid, van de Winkeltijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007952&artikel=3) vrijstelling worden verleend van het in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=3&z=2025-02-12&g=2025-02-12), ten aanzien van het horecabedrijf vervatte verbod en het in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=14&z=2025-02-12&g=2025-02-12), vervatte verbod ten behoeve van proeverijen in slijtlokaliteiten buiten de dagen en tijden dat de slijtlokaliteiten regulier zijn opengesteld. Bij algemene maatregel van bestuur worden regels gesteld waaraan een proeverij moet voldoen.
 
-#### Artikel 25f
+##### Artikel 25f
 
 1. Bij gemeentelijke verordening kan, in geval van ernstige aantasting van de openbare orde, de leefomgeving of de volksgezondheid, een gebied worden aangewezen als alcoholoverlastgebied.
 
@@ -942,7 +967,7 @@ Bij gemeentelijke verordening kan met inachtneming van [artikel 3, eerste lid, v
 
 - c. verboden of beperkingen kunnen worden opgelegd als bedoeld in de [artikelen 25a](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3a&artikel=25a&z=2025-02-12&g=2025-02-12), [25b](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3a&artikel=25b&z=2025-02-12&g=2025-02-12), en [25d](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3a&artikel=25d&z=2025-02-12&g=2025-02-12).
 
-#### Artikel 25g
+##### Artikel 25g
 
 1. Bij gemeentelijke verordening kan worden bepaald dat op vervoermiddelen die bestemd zijn voor het vervoer van personen waar bedrijfsmatig of anders dan om niet alcoholhoudende drank wordt verstrekt, een medewerker aanwezig is die voldoet aan de eis gesteld in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=8&z=2025-02-12&g=2025-02-12).
 
@@ -950,7 +975,7 @@ Bij gemeentelijke verordening kan met inachtneming van [artikel 3, eerste lid, v
 
 3. De burgemeester doet een melding aan Onze Minister als een zodanige verordening is vastgesteld.
 
-#### Artikel 42a
+##### Artikel 42a
 
 1. De in [artikel 41, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=7&artikel=41&z=2025-02-12&g=2025-02-12), bedoelde ambtenaren zijn bevoegd tot het sluiten van een verkoopovereenkomst als bedoeld in [artikel 20a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=20a&z=2025-02-12&g=2025-02-12), onder verstrekking van onjuiste of onvolledige gegevens met betrekking tot hun naam, adres en leeftijd, voor zover dat voor de vervulling van hun taken dringend noodzakelijk is. Zij brengen degene die alcoholhoudende drank te koop aanbiedt of verkoopt in het kader van verkoop op afstand niet tot andere overtredingen dan waarop diens opzet reeds was gericht. [Artikel 5:12, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12) is niet van toepassing.
 
@@ -968,13 +993,13 @@ Bij gemeentelijke verordening kan met inachtneming van [artikel 3, eerste lid, v
 
 - f. hetgeen tijdens het onderzoek is verricht, gebleken en overigens is voorgevallen.
 
-#### Artikel 43b
+##### Artikel 43b
 
 Onze Minister is bevoegd tot oplegging van een last onder dwangsom ter handhaving van [artikel 2a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=2a&z=2025-02-12&g=2025-02-12).
 
 #### § 8. Bepalingen van strafrechtelijke aard
 
-#### Artikel 45a
+##### Artikel 45a
 
 1. Onverminderd [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=20&z=2025-02-12&g=2025-02-12), is het personen die de leeftijd van 18 jaar hebben bereikt, verboden op voor publiek toegankelijke plaatsen anders dan bedrijfsmatig alcoholhoudende drank te verstrekken aan een persoon die de leeftijd van 18 jaar nog niet heeft bereikt.
 
@@ -984,7 +1009,7 @@ Onze Minister is bevoegd tot oplegging van een last onder dwangsom ter handhavin
 
 #### § 9. Overgangs- en slotbepalingen
 
-#### Artikel 48b
+##### Artikel 48b
 
 1. Vergunningen en ontheffingen die zijn verleend op grond van de Drank- en Horecawet zoals deze luidde voor inwerkingtreding van dit artikel, berusten na inwerkingtreding van dit artikel op het van toepassing zijnde artikel van de Alcoholwet.
 
@@ -992,7 +1017,7 @@ Onze Minister is bevoegd tot oplegging van een last onder dwangsom ter handhavin
 
 3. Personen die waren ingeschreven in het register op grond van [artikel 8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=8&z=2025-02-12&g=2025-02-12), zoals dat luidde voor inwerkingtreding van dit artikel, worden na inwerkingtreding van dit artikel ingeschreven in het Register sociale hygiëne.
 
-#### Artikel 48c
+##### Artikel 48c
 
 1. Ten aanzien van degene die rechtmatig het horecabedrijf of slijtersbedrijf uitoefent in een inrichting waarvoor een op grond van de artikelen 40, 43 of 44 van de Drank- en Horecawet zoals deze luidde voor 26 mei 2000 verleende ontheffing geldt, blijft de ontheffing gelden. Voornoemde ontheffing geldt ook voor degene die de uitoefening van het bedrijf in die inrichting rechtsgeldig voortzet. Het in de eerste volzin bepaalde geldt niet als er een onderbreking van de bedrijfsuitoefening is geweest gedurende een periode van langer dan een jaar. Ten aanzien van ontheffingen verleend voor een bepaalde tijd vervallen de aan die ontheffing verbonden tijdsbeperkingen. Dit lid vervalt op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende volzinnen verschillend kan worden vastgesteld.
 
@@ -1000,7 +1025,7 @@ Onze Minister is bevoegd tot oplegging van een last onder dwangsom ter handhavin
 
 3. [Artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=4&artikel=29&z=2025-02-12&g=2025-02-12) is niet van toepassing op de op 26 mei 2000 geldende vergunningen.
 
-#### Artikel 48d
+##### Artikel 48d
 
 1. De eisen gesteld bij of krachtens [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=8&z=2025-02-12&g=2025-02-12), en [11d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2a&artikel=11d&z=2025-02-12&g=2025-02-12), ten aanzien van sociale hygiëne gelden niet ten aanzien van personen die op 1 januari 1996 als bedrijfsleider of beheerder stonden vermeld op een krachtens de Drank- en Horecawet geldende vergunning.
 
@@ -1008,7 +1033,7 @@ Onze Minister is bevoegd tot oplegging van een last onder dwangsom ter handhavin
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 11b
+##### Artikel 11b
 
 1. De Landelijke commissie sociale hygiëne bestaat uit ten minste drie en ten hoogste vijf leden.
 
@@ -1016,7 +1041,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 3. De Landelijke commissie sociale hygiëne stelt een bestuursreglement vast en maakt deze openbaar.
 
-#### Artikel 11c
+##### Artikel 11c
 
 1. De Landelijke commissie sociale hygiëne heeft tot taak:
 
@@ -1030,7 +1055,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 3. De Landelijke commissie sociale hygiëne is bevoegd tot het verwerken van persoonsgegevens waaronder het burgerservicenummer, bedoeld in [artikel 1, onder b, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1), voor zover dit voor de uitvoering van haar taken noodzakelijk is.
 
-#### Artikel 11d
+##### Artikel 11d
 
 1. Een diploma wordt slechts erkend als bewijsstuk indien de onderwijsinstelling die het diploma afgeeft, waarborgt dat degene die het diploma ontvangt, beschikt over voldoende kennis en inzicht met betrekking tot sociale hygiëne.
 
@@ -1040,7 +1065,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 4. Indien de onderwijsinstelling die het diploma afgeeft niet langer voldoet aan het bepaalde bij of krachtens het eerste en tweede lid, kan de erkenning van het diploma als bewijsstuk worden ingetrokken.
 
-#### Artikel 11e
+##### Artikel 11e
 
 1. Inschrijving in het Register sociale hygiëne vindt slechts plaats indien de in te schrijven persoon:
 
@@ -1052,7 +1077,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 2. Op zijn verzoek wordt een ingeschreven persoon uit het Register sociale hygiëne uitgeschreven.
 
-#### Artikel 11f
+##### Artikel 11f
 
 1. De Landelijke commissie sociale hygiëne brengt de kosten die samenhangen met het erkennen van een diploma als bewijsstuk, het inschrijven in het Register sociale hygiëne en het afgeven van een Verklaring kennis en inzicht sociale hygiëne ten laste van de aanvrager.
 
@@ -1070,7 +1095,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 30b
+##### Artikel 30b
 
 1. [Artikel 30a](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=4&artikel=30a&z=2025-02-12&g=2025-02-12) is van overeenkomstige toepassing op een bij algemene maatregel van bestuur aan te wijzen categorie van personen die werkzaam zijn in bij algemene maatregel van bestuur aan te wijzen categorieën van horecabedrijven of slijtersbedrijven.
 
@@ -1086,7 +1111,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 48e
+##### Artikel 48e
 
 1. Indien de tot een inrichting behorende lokaliteiten die op 30 september 1967 in gebruik waren voor de verstrekking van alcoholhoudende drank in de uitoefening van het horecabedrijf of slijtersbedrijf, toen wel voldeden aan de ingevolge de Drankwet (Stb. 1931, 476) met betrekking tot hun afmetingen geldende eisen maar niet in overeenstemming zijn met de eisen, ter zake van de afmetingen van lokaliteiten voor die uitoefening gesteld krachtens [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=10&z=2025-02-12&g=2025-02-12) van de onderhavige wet, worden zij nochtans geacht aan de ingevolge dat artikel voor de uitoefening van dat bedrijf geldende afmetingseisen te voldoen.
 

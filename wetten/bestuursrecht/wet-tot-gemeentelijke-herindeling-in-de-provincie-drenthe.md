@@ -1,14 +1,41 @@
 ---
-title: "Wet tot gemeentelijke herindeling in de provincie Drenthe"
+title: "Wet van 19 juni 1997 tot gemeentelijke herindeling in de provincie Drenthe"
 identifier: "BWBR0008753"
-categorie: "Bestuursrecht"
-publicatiedatum: 1998-01-01
-laatste_update: 1998-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008753"
+country: "nl"
+rank: "wet"
+publication_date: "1998-01-01"
+last_updated: "1998-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008753"
+soort: "wet"
+stam_id: "593643"
+version_id: "864312"
+internal_id: "C864311"
+label_id: "576054"
+dtd_version: "2.0"
+original_entry_into_force: "1997-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008753/1998-01-01/0"
+intitule_bron: "Stb.1997-283"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-06-19"
+intitule_published: "1997-07-15"
+intitule_in_force: "1997-07-29"
+intitule_status: "goed"
+original_publication: "Stb.1997-283"
+original_signed_date: "1997-06-19"
+original_published_date: "1997-07-15"
+original_effect: "nieuwe-regeling"
+original_dossier: "25046"
+original_url_id: "stb-1997-283"
+entry_into_force_date: "1997-08-01"
+jci_1_3: "jci1.3:c:BWBR0008753&z=1998-01-01&g=1998-01-01"
+jci_1_0: "1.0:c:BWBR0008753&g=1998-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet tot gemeentelijke herindeling in de provincie Drenthe"
+signed_date: "1997-06-19"
+entry_into_force: "1997-08-01"
 ---
-
-# Wet tot gemeentelijke herindeling in de provincie Drenthe
+# Wet van 19 juni 1997 tot gemeentelijke herindeling in de provincie Drenthe
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### Paragraaf 1. Opheffing en instelling van gemeenten
 
-#### Artikel 1
+##### Artikel 1
 
 Met ingang van de datum van herindeling worden de onderstaande gemeenten opgeheven.
 
@@ -86,7 +113,7 @@ Zuidwolde
 
 Zweeloo
 
-#### Artikel 2
+##### Artikel 2
 
 1. Met ingang van de datum van herindeling worden de onderstaande nieuwe gemeenten ingesteld.
 
@@ -138,13 +165,13 @@ Zuidlaren
 
 #### Paragraaf 2. Grenswijzigingen van een gemeente die niet wordt opgeheven
 
-#### Artikel 3
+##### Artikel 3
 
 De grenzen van de gemeenten Assen en Hoogeveen worden gewijzigd als aangegeven op de bij deze wet behorende kaart.
 
 #### Paragraaf 3. Bepalingen in verband met de toepassing van de [Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718)
 
-#### Artikel 4
+##### Artikel 4
 
 In de onderstaande tabel zijn voor de nieuwe gemeenten de op te heffen gemeenten aangewezen voor de toepassing van [artikel 36 van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=36), in verband met de instructies en reglementen, bedoeld in dat artikel.
 
@@ -163,7 +190,7 @@ In de onderstaande tabel zijn voor de nieuwe gemeenten de op te heffen gemeenten
 | De Wolden | Zuidwolde |
 | Zuidlaren | Zuidlaren |
 
-#### Artikel 5
+##### Artikel 5
 
 In de onderstaande tabel zijn voor de op te heffen gemeenten de nieuwe gemeenten aangewezen voor de toepassing van de volgende bepalingen van de [Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718):
 
@@ -203,13 +230,13 @@ In de onderstaande tabel zijn voor de op te heffen gemeenten de nieuwe gemeenten
 |   |   |
 | Zuidlaren | Eelde Vries Zuidlaren |
 
-#### Artikel 6
+##### Artikel 6
 
 1. [Artikel 41, eerste lid van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=41) is van overeenkomstige toepassing ten aanzien van gemeenschappelijke regelingen waaraan uitsluitend wordt deelgenomen door gemeenten waarvan het gebied grotendeels tot een en dezelfde gemeente komt te behoren.
 
 2. Voor de toepassing van [artikel 41, derde lid, van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=41), zijn voor de op te heffen gemeenten de nieuwe gemeenten aangewezen overeenkomstig de bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008753&paragraaf=3&artikel=5&z=1998-01-01&g=1998-01-01) behorende tabel.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Voor de nieuwe gemeenten die bij deze wet worden ingesteld, alsmede in de gemeente Hoogeveen, worden tussentijdse raadsverkiezingen als bedoeld in [artikel 52 van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=52) gehouden.
 
@@ -221,23 +248,23 @@ In de onderstaande tabel zijn voor de op te heffen gemeenten de nieuwe gemeenten
 
 #### Paragraaf 4. Overige bepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 De gemeenteraden van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008753&paragraaf=1&artikel=2&z=1998-01-01&g=1998-01-01), en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008753&paragraaf=2&artikel=3&z=1998-01-01&g=1998-01-01) genoemde gemeenten nemen in de belastingverordening op de onroerende-zaakbelastingen ter zake van de kalenderjaren 1998 tot en met 2000 voor de onderscheidene toegevoegde gebieden dezelfde waardepeildata op als voor deze gebieden zijn gehanteerd bij de vaststelling van de waarden van de onroerende zaken, als bedoeld in [hoofdstuk IV van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV) voor het tijdvak dat aanvangt op 1 januari 1997. [Artikel 41, tweede tot en met zevende lid, van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=41) zijn van overeenkomstige toepassing voor de onderscheidene toegevoegde gebieden.
 
-#### Artikel 9
+##### Artikel 9
 
 Wijzigt de Wet op de rechterlijke indeling.
 
-#### Artikel 10
+##### Artikel 10
 
 Wijzigt de Politiewet 1993.
 
-#### Artikel 11
+##### Artikel 11
 
 Gedeputeerde staten van Drenthe kunnen bij de vaststelling van de grensbeschrijving, bedoeld in [artikel 10, tweede lid, van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=10), kennelijke onjuistheden verbeteren in de grenzen zoals die zijn aangegeven op de bij deze wet behorende kaart. Zij stellen Onze Minister van Binnenlandse Zaken onverwijld in kennis van de aangebrachte verbeteringen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Onze Minister van Onderwijs, Cultuur en Wetenschappen stelt op de wijze als aangegeven in de [artikelen 56](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=56), tweede lid, [107**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=107a) en [107**b**, tweede lid, van de Wet op het basisonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=107b) de stichtings- en opheffingsnormen voor scholen voor basisonderwijs vast voor de bij deze wet betrokken gemeenten onderscheidenlijk delen van gemeenten.
 
@@ -245,7 +272,7 @@ Gedeputeerde staten van Drenthe kunnen bij de vaststelling van de grensbeschrijv
 
 3. De ingevolge het eerste en tweede lid vastgestelde stichtings- en opheffingsnormen treden in de plaats van de voor de betrokken gemeenten op grond van [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=56), tweede, derde, vierde en vijfde lid, [107](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=107), tweede lid, [107](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=107)**b**en [107**c** van de Wet op het basisonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=107c) vastgestelde normen. De nieuwe normen gelden met ingang van 1 januari volgend op de datum van herindeling. Tot en met 31 december volgend op de datum van herindeling blijven op de scholen in de bij deze wet betrokken gemeenten de normen van toepassing die golden op de dag voorafgaande aan de datum van herindeling.
 
-#### Artikel 13
+##### Artikel 13
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 

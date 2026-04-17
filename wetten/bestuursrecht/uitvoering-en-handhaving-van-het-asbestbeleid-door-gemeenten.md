@@ -1,13 +1,38 @@
 ---
 title: "Uitvoering en handhaving van het asbestbeleid door gemeenten"
 identifier: "BWBR0007417"
-categorie: "Bestuursrecht"
-publicatiedatum: 1995-06-19
-laatste_update: 1995-06-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007417"
+country: "nl"
+rank: "circulaire"
+publication_date: "1995-06-19"
+last_updated: "1995-06-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007417"
+soort: "circulaire"
+stam_id: "6450693"
+version_id: "11123892"
+internal_id: "C19271591"
+label_id: "6439524"
+dtd_version: "2.0"
+original_entry_into_force: "1995-06-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007417/1995-06-19/0"
+intitule_bron: "Stcrt.1995-115"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-05-31"
+intitule_published: "1995-06-19"
+intitule_in_force: "1995-06-19"
+intitule_status: "goed"
+original_publication: "Stcrt.1995-115"
+original_signed_date: "1995-05-31"
+original_published_date: "1995-06-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1995-115-p9-SC2916"
+entry_into_force_date: "1995-06-19"
+jci_1_3: "jci1.3:c:BWBR0007417&z=1995-06-19&g=1995-06-19"
+jci_1_0: "1.0:c:BWBR0007417&g=1995-06-19"
+citeertitel_status: "redactioneel"
+signed_date: "1995-05-31"
+entry_into_force: "1995-06-19"
 ---
-
 # Uitvoering en handhaving van het asbestbeleid door gemeenten
 
 Circulaire aan:

@@ -1,13 +1,39 @@
 ---
-title: "Schaderegeling Tweede Maasvlakte"
+title: "Regeling houdende bepalingen omtrent de instelling van een gezamenlijke schadebeoordelingcommissie ten behoeve van de coördinatie van verzoeken om schadevergoeding in verband met de aanleg van de Tweede Maasvlakte (Schaderegeling Tweede Maasvlakte)"
 identifier: "BWBR0024048"
-categorie: "Overig"
-publicatiedatum: 2008-06-27
-laatste_update: 2008-06-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024048"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2008-06-27"
+last_updated: "2008-06-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024048"
+soort: "ministeriele-regeling"
+stam_id: "9554193"
+version_id: "15448452"
+internal_id: "C29412371"
+label_id: "9531364"
+dtd_version: "2.0"
+original_entry_into_force: "2008-06-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024048/2008-06-27/0"
+intitule_bron: "Stcrt.2008-120"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-06-17"
+intitule_published: "2008-06-25"
+intitule_in_force: "2008-06-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-120"
+original_signed_date: "2008-06-17"
+original_published_date: "2008-06-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-120-p16-SC86220"
+entry_into_force_date: "2008-06-27"
+jci_1_3: "jci1.3:c:BWBR0024048&z=2008-06-27&g=2008-06-27"
+jci_1_0: "1.0:c:BWBR0024048&g=2008-06-27"
+citeertitel_status: "officieel"
+short_title: "Schaderegeling Tweede Maasvlakte"
+signed_date: "2008-06-17"
+entry_into_force: "2008-06-27"
 ---
-
 # Regeling houdende bepalingen omtrent de instelling van een gezamenlijke schadebeoordelingcommissie ten behoeve van de coördinatie van verzoeken om schadevergoeding in verband met de aanleg van de Tweede Maasvlakte (Schaderegeling Tweede Maasvlakte)
 
 Handelende in overeenstemming met het College van Gedeputeerde Staten van de provincie Zuid-Holland, en de Colleges van Burgemeester en Wethouders van de Gemeenten Rotterdam en Westvoorne;
@@ -20,7 +46,7 @@ tot vaststelling van de navolgende beleidsregeling en het navolgende instellings
 
 #### § 1. Algemeen
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 In deze regeling wordt verstaan onder:
 
@@ -34,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Beleidsregeling coördinatie schadevergoeding Tweede Maasvlakte
 
-#### Artikel 2. Toepassingsbereik
+##### Artikel 2. Toepassingsbereik
 
 1. Deze regeling is van toepassing op verzoeken om vergoeding van geleden of te lijden schade als gevolg van de rechtmatige uitoefening van een aan het publiekrecht ontleende bevoegdheid of taak voor de aanleg van de Tweede Maasvlakte:
 
@@ -48,13 +74,13 @@ In deze regeling wordt verstaan onder:
 
 - b. de rechtmatige uitoefening van de bevoegdheden, bedoeld in de [artikelen19a](https://wetten.overheid.nl/jci1.3:c:BWBR0009641&artikel=19a), [19b](https://wetten.overheid.nl/jci1.3:c:BWBR0009641&artikel=19b) en [20 van de Natuurbeschermingswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009641&artikel=20), voor zover die bevoegdheden betrekking hebben op de zone, genoemd in onderdeel a, met dien verstande dat verzoeken die voor 30 juni 2014 zijn ingediend, ook na deze datum worden afgehandeld volgens de bepalingen van deze regeling.
 
-#### Artikel 3. Eén loket voor verzoeken
+##### Artikel 3. Eén loket voor verzoeken
 
 1. Het bevoegd gezag legt de verzoeken voor aan de commissie voor advies over de op het verzoek te nemen beslissing.
 
 2. Een bij de commissie ingediend verzoek wordt geacht te zijn ingediend bij het bevoegd gezag.
 
-#### Artikel 4. Procedure en advies
+##### Artikel 4. Procedure en advies
 
 1. Op de voorbereiding van het advies zijn de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0010692&artikel=13) en [16 tot en met 19 van de Regeling nadeelcompensatie Verkeer en Waterstaat 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010692&artikel=16) van overeenkomstige toepassing, tenzij het verzoek betrekking heeft, of mede betrekking heeft, op een besluit als bedoeld in [artikel 31, eerste lid, van de Natuurbeschermingswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009641&artikel=31).
 
@@ -66,11 +92,11 @@ In deze regeling wordt verstaan onder:
 
 #### § 3. Instellingsbesluit schadebeoordelingscommissie Tweede Maasvlakte
 
-#### Artikel 5. Instelling commissie
+##### Artikel 5. Instelling commissie
 
 Er is een schadebeoordelingscommissie Tweede Maasvlakte.
 
-#### Artikel 6. Samenstelling
+##### Artikel 6. Samenstelling
 
 1. De commissie bestaat uit drie leden onder wie de voorzitter, alsmede drie plaatsvervangende leden.
 
@@ -82,17 +108,17 @@ Er is een schadebeoordelingscommissie Tweede Maasvlakte.
 
 5. Aan de commissie kan een secretaris worden toegevoegd.
 
-#### Artikel 7. Vergoeding
+##### Artikel 7. Vergoeding
 
 Aan de leden en de plaatsvervangende leden wordt een vergoeding toegekend voor werkzaamheden, alsmede voor het bijwonen van vergaderingen en reis- en verblijfkosten.
 
-#### Artikel 8. Archief
+##### Artikel 8. Archief
 
 De commissie brengt en bewaart de archiefbescheiden in goede, geordende en toegankelijke staat. Indien de commissie wordt opgeheven, wordt het archief overgedragen aan de beheerder van het archief van het ministerie van Verkeer en Waterstaat, met inachtneming van het bepaalde in het [Besluit archiefoverdrachten rijksadministratie](https://wetten.overheid.nl/jci1.3:c:BWBR0004427).
 
 #### § 4. Mandaat-, volmacht- en machtigingsbesluit
 
-#### Artikel 9. Mandaat, volmacht en machtiging
+##### Artikel 9. Mandaat, volmacht en machtiging
 
 1. De Minister van Landbouw, Natuur en Voedselkwaliteit, het college van gedeputeerde staten van de provincie Zeeland en de colleges van burgemeester en wethouders van de gemeenten Rotterdam en Westvoorne verlenen de Minister van Verkeer en Waterstaat mandaat, volmacht en machtiging om de voor deze regeling noodzakelijke besluiten te nemen en handelingen te verrichten.
 
@@ -102,7 +128,7 @@ De commissie brengt en bewaart de archiefbescheiden in goede, geordende en toega
 
 #### § 5. Slotbepalingen
 
-#### Artikel 10. Inwerkingtreding en verval van de regeling en overgangsbepaling
+##### Artikel 10. Inwerkingtreding en verval van de regeling en overgangsbepaling
 
 1. Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2008.
 
@@ -110,7 +136,7 @@ De commissie brengt en bewaart de archiefbescheiden in goede, geordende en toega
 
 3. Verzoeken die voor 1 januari 2024 zijn ingediend, worden ook na deze datum afgehandeld volgens de bepalingen van deze regeling.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Schaderegeling Tweede Maasvlakte.
 

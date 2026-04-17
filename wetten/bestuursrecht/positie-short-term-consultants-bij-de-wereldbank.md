@@ -1,13 +1,38 @@
 ---
-title: "Positie short term consultants bij de Wereldbank"
+title: "Besluit staatssecretaris van Financiën 20 september 1999, nr. IFZ99/1044"
 identifier: "BWBR0027807"
-categorie: "Bestuursrecht"
-publicatiedatum: 1999-09-20
-laatste_update: 1999-09-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027807"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "1999-09-20"
+last_updated: "1999-09-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027807"
+soort: "beleidsregel"
+stam_id: "10583453"
+version_id: "17466252"
+internal_id: "C24161551"
+label_id: "10558304"
+dtd_version: "2.0"
+original_entry_into_force: "1999-09-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027807/1999-09-20/0"
+intitule_bron: "Infob.1999-683"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-09-20"
+intitule_published: "1999-01-01"
+intitule_in_force: "1999-01-01"
+intitule_status: "goed"
+original_publication: "Infob.1999-683"
+original_signed_date: "1999-09-20"
+original_published_date: "1999-01-01"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1999-09-20"
+jci_1_3: "jci1.3:c:BWBR0027807&z=1999-09-20&g=1999-09-20"
+jci_1_0: "1.0:c:BWBR0027807&g=1999-09-20"
+citeertitel_status: "redactioneel"
+short_title: "Positie short term consultants bij de Wereldbank"
+signed_date: "1999-09-20"
+entry_into_force: "1999-09-20"
 ---
-
 # Besluit staatssecretaris van Financiën 20 september 1999, nr. IFZ99/1044
 
 De directeur-generaal voor Fiscale Zaken heeft namens de Staatssecretaris van Financiën het volgende besloten.

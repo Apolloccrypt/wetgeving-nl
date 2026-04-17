@@ -1,13 +1,35 @@
 ---
 title: "Protocol ter uitvoering van artikel 1, lid 2, van het Verdrag betreffende de instelling en het statuut van een Benelux-Gerechtshof"
 identifier: "BWBV0004610"
-categorie: "Internationaal recht"
-publicatiedatum: 1974-01-01
-laatste_update: 1974-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004610"
+country: "nl"
+rank: "verdrag"
+publication_date: "1974-01-01"
+last_updated: "1974-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004610"
+soort: "verdrag"
+stam_id: "10004221713"
+version_id: "10004399702"
+internal_id: "C10008343601"
+label_id: "10004206624"
+dtd_version: "2.0"
+original_entry_into_force: "1974-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004610/1974-01-01/0"
+intitule_bron: "Trb.1969-127"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1969-08-15"
+intitule_in_force: "1973-12-21"
+intitule_status: "goed"
+original_publication: "Trb.1969-127"
+original_published_date: "1969-08-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1969-127"
+entry_into_force_date: "1974-01-01"
+jci_1_3: "jci1.3:c:BWBV0004610&z=1974-01-01&g=1974-01-01"
+jci_1_0: "1.0:c:BWBV0004610&g=1974-01-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1974-01-01"
 ---
-
 # Protocol ter uitvoering van artikel 1, lid 2, van het Verdrag betreffende de instelling en het statuut van een Benelux-Gerechtshof
 
 De Regering van het Koninkrijk België,
@@ -24,7 +46,7 @@ Gelet op het advies van de Raadgevende Interparlementaire Beneluxraad van 29 nov
 
 Hebben tot dat doel besloten een Protocol te sluiten en zijn de volgende bepalingen overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 Ter uitvoering van [artikel 1, lid 2 van het Verdrag betreffende de instelling en het statuut van een Benelux-Gerechtshof](https://wetten.overheid.nl/jci1.3:c:BWBV0004117&artikel=1) worden als gemeenschappelijke rechtsregels aangewezen:
 
@@ -80,27 +102,27 @@ Ter uitvoering van [artikel 1, lid 2 van het Verdrag betreffende de instelling e
 
 - 2°. het V[erdrag aangaande de uitlevering en de rechtshulp in strafzaken tussen het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBV0001006), ondertekend te Brussel op 27 juni 1962;
 
-#### Artikel 2
+##### Artikel 2
 
 Wijzigt het Verdrag tot instelling van de Benelux Economische Unie; 's-Gravenhage, 3 februari 1958.
 
-#### Artikel 3
+##### Artikel 3
 
 Wijzigt de Overeenkomst tussen het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, inzake de verlegging van de personencontrole naar de buitengrenzen van het Beneluxgebied, Brussel, 11 april 1960.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Dit Protocol is van toepassing op de bepalingen der overeenkomsten, vermeld in artikel 1, welke in werking zijn en ten aanzien van die welke dit op het ogenblik van inwerkingtreding van dit Protocol nog niet zijn, van de datum van hun inwerkingtreding af.
 
 2. Het is eveneens van toepassing op de bepalingen van de Aanvullende Protocollen, bedoeld in artikel 1, onder A 8°, voor zover deze - hoewel nog niet in werking getreden - voorlopig worden toegepast in elk der drie Staten.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Wat het Koninkrijk der Nederlanden betreft, is dit Protocol slechts van toepassing op het in Europa gelegen grondgebied.
 
 2. De Regering van het Koninkrijk der Nederlanden kan de toepassing van dit Protocol uitbreiden tot Suriname en de Nederlandse Antillen bij een daartoe strekkende verklaring, te richten tot het Secretariaat-Generaal van de Benelux Economische Unie.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Dit Protocol zal worden bekrachtigd en de akten van bekrachtiging zullen worden neergelegd bij het Secretariaat-Generaal van de Benelux Economische Unie.
 

@@ -1,13 +1,39 @@
 ---
-title: "Luchthavenindelingbesluit Schiphol"
+title: "Besluit van 26 november 2002 tot vaststelling van een luchthavenindelingbesluit voor de luchthaven Schiphol (Luchthavenindelingbesluit Schiphol)"
 identifier: "BWBR0014329"
-categorie: "Milieu"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0014329"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0014329"
+soort: "AMvB"
+stam_id: "3266203"
+version_id: "22756372"
+internal_id: "C32900201"
+label_id: "3246444"
+dtd_version: "2.0"
+original_entry_into_force: "2015-10-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0014329/2025-07-01/0"
+intitule_bron: "Stb.2002-591"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-11-26"
+intitule_published: "2002-12-17"
+intitule_in_force: "2002-12-17"
+intitule_status: "goed"
+original_publication: "Stb.2015-389"
+original_signed_date: "2015-10-15"
+original_published_date: "2015-11-03"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2015-389"
+entry_into_force_date: "2015-10-15"
+jci_1_3: "jci1.3:c:BWBR0014329&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0014329&g=2025-07-01"
+citeertitel_status: "redactioneel"
+short_title: "Luchthavenindelingbesluit Schiphol"
+signed_date: "2015-10-15"
+entry_into_force: "2015-10-15"
 ---
-
 # Besluit van 26 november 2002 tot vaststelling van een luchthavenindelingbesluit voor de luchthaven Schiphol (Luchthavenindelingbesluit Schiphol)
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 12 juli 2002, kenmerk HDJZ/LUV/2002-1856, gedaan mede namens Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
@@ -24,7 +50,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1.1. Begripsbepalingen
 
-#### Artikel 1.1.1
+##### Artikel 1.1.1
 
 1. In dit besluit wordt verstaan onder:
 
@@ -50,7 +76,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1.2. Het luchthavengebied en het beperkingengebied
 
-#### Artikel 1.2.1
+##### Artikel 1.2.1
 
 1. Het luchthavengebied is het gebied dat als zodanig is aangewezen op de kaart in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&bijlage=1&z=2025-07-01&g=2025-07-01) bij dit besluit.
 
@@ -60,17 +86,17 @@ Hebben goedgevonden en verstaan:
 
 #### § 2.1. Regels binnen het luchthavengebied
 
-#### Artikel 2.1.1
+##### Artikel 2.1.1
 
 De locatie die bestemd is voor het banenstelsel van de luchthaven is als zodanig aangewezen op de kaart in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&bijlage=1&z=2025-07-01&g=2025-07-01) bij dit besluit.
 
 #### § 2.2. Regels binnen het beperkingengebied
 
-#### Artikel 2.2.1
+##### Artikel 2.2.1
 
 Op de locaties die op de kaart in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&bijlage=3&z=2025-07-01&g=2025-07-01) bij dit besluit met nummer 1 zijn aangewezen, zijn met het oog op externe veiligheid geen zeer kwetsbare, kwetsbare of beperkt kwetsbare gebouwen of kwetsbare of beperkt kwetsbare locaties toegestaan, behoudens bestaand gebruik van gebouwen niet zijnde woningen.
 
-#### Artikel 2.2.2
+##### Artikel 2.2.2
 
 1. Op de locaties die zijn aangewezen op de kaart in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&bijlage=4&z=2025-07-01&g=2025-07-01) bij dit besluit zijn geen objecten toegestaan die hoger zijn dan de in die bijlage aangegeven maximale waarden.
 
@@ -88,7 +114,7 @@ Op de locaties die op de kaart in [bijlage 3](https://wetten.overheid.nl/jci1.3:
 
 6. Op de in het eerste lid bedoelde locaties is het verboden zonder of in afwijking van een omgevingsvergunning werken, geen bouwwerken zijnde, of werkzaamheden uit te voeren, voor zover deze werken of werkzaamheden reiken tot een hoogte boven de in dat lid bedoelde maximale waarden.
 
-#### Artikel 2.2.3
+##### Artikel 2.2.3
 
 1. Op de locaties die zijn aangewezen op de kaart in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&bijlage=5&z=2025-07-01&g=2025-07-01) bij dit besluit is het verrichten of toelaten van een activiteit binnen de volgende categorieën niet toegestaan:
 
@@ -108,7 +134,7 @@ Op de locaties die op de kaart in [bijlage 3](https://wetten.overheid.nl/jci1.3:
 
 ### Hoofdstuk 3. Slotbepalingen
 
-#### Artikel 3.1
+##### Artikel 3.1
 
 1. Een omgevingsplan wordt in overeenstemming gebracht met dit besluit bij eerstvolgende wijziging van dat plan.
 
@@ -116,11 +142,11 @@ Op de locaties die op de kaart in [bijlage 3](https://wetten.overheid.nl/jci1.3:
 
 3. Onze Minister van Infrastructuur en Milieu voert voor 11 november 2018 een evaluatie uit van de doeltreffendheid en doelmatigheid van [artikel 2.2.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&hoofdstuk=2&paragraaf=2.2&artikel=2.2.2a&z=2025-07-01&g=2025-07-01) in de praktijk.
 
-#### Artikel 3.2
+##### Artikel 3.2
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 3.3
+##### Artikel 3.3
 
 Dit besluit wordt aangehaald als: Luchthavenindelingbesluit Schiphol.
 
@@ -140,7 +166,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 2.2.2a
+##### Artikel 2.2.2a
 
 1. Op de locaties die zijn aangewezen op de kaart in [bijlage 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&bijlage=4a&z=2025-07-01&g=2025-07-01) bij dit besluit zijn objecten die hoger zijn dan de in die bijlage aangegeven maximale waarde toegestaan mits uit een advies van de Inspectie Leefomgeving en Transport blijkt dat het object geen belemmering vormt voor het functioneren van radarapparatuur met het oog op veilig luchtverkeer.
 
@@ -160,7 +186,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 5. Op de in het eerste lid bedoelde locaties is het verboden zonder of in afwijking van een omgevingsvergunning werken, geen bouwwerken zijnde, of werkzaamheden uit te voeren, voor zover deze werken of werkzaamheden reiken tot een hoogte boven de in dat lid bedoelde maximale waarden.
 
-#### Artikel 2.2.4
+##### Artikel 2.2.4
 
 1. Op de locaties die zijn aangewezen op de kaart in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&bijlage=6&z=2025-07-01&g=2025-07-01) bij dit besluit is geen vaste laserinstallatie toegestaan en geen windturbine die met de tiphoogte steekt door een vlak met een maatgevende toetshoogte zoals opgenomen in de in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&bijlage=4&z=2025-07-01&g=2025-07-01) opgenomen kaart, met een ashoogte van meer dan 35 meter, of in geval van plaatsing op een gebouw, met een tiphoogte van meer dan 5 meter dan wel meer dan 35 meter voor gebouw en tiphoogte tezamen.
 
@@ -190,11 +216,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 2.2.1a
+##### Artikel 2.2.1a
 
 Op de locaties die op de kaart in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&bijlage=3&z=2025-07-01&g=2025-07-01) bij dit besluit met nummer 2 zijn aangewezen, zijn met het oog op geluidbelasting geen geluidgevoelige gebouwen toegestaan.
 
-#### Artikel 2.2.1b
+##### Artikel 2.2.1b
 
 1. Op de locaties die op de kaart in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&bijlage=3&z=2025-07-01&g=2025-07-01) bij dit besluit met nummer 3 zijn aangewezen, zijn met het oog op externe veiligheid geen zeer kwetsbare, kwetsbare of beperkt kwetsbare gebouwen of kwetsbare of beperkt kwetsbare locaties toegestaan, behoudens bestaand gebruik.
 
@@ -202,7 +228,7 @@ Op de locaties die op de kaart in [bijlage 3](https://wetten.overheid.nl/jci1.3:
 
 3. In afwijking van het eerste lid is eveneens herstructurering van een gebied met gebouwen of locaties met een kantoor- of industriefunctie toegestaan, indien dit niet leidt tot een toename van het aantal werknemers per hectare binnen dit gebied.
 
-#### Artikel 2.2.1c
+##### Artikel 2.2.1c
 
 Op de locaties die op de kaart in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&bijlage=3&z=2025-07-01&g=2025-07-01) bij dit besluit met nummer 4 zijn aangewezen, zijn met het oog op geluidbelasting geen geluidgevoelige gebouwen toegestaan, behoudens:
 
@@ -216,13 +242,13 @@ Op de locaties die op de kaart in [bijlage 3](https://wetten.overheid.nl/jci1.3:
 
 - e. nieuwbouw van een bedrijfswoning, voor zover de noodzaak daarvan is aangetoond.
 
-#### Artikel 2.2.1d
+##### Artikel 2.2.1d
 
 1. Op de locaties die op de kaart in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&bijlage=3&z=2025-07-01&g=2025-07-01) bij dit besluit met nummer 5 zijn aangewezen, zijn buiten bestaand stedelijk gebied geen nieuwe woningbouwlocaties toegestaan.
 
 2. Voor de locaties die op de kaart in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&bijlage=3&z=2025-07-01&g=2025-07-01) bij dit besluit met nummer 5 zijn aangewezen, motiveren gemeenten in de toelichting op het omgevingsplan of in de onderbouwing van de omgevingsvergunning de wijze waarop rekening is gehouden met de mogelijke gevolgen van een vliegtuigongeval met meerdere slachtoffers op de grond als gevolg van ruimtelijke ontwikkelingen.
 
-#### Artikel 2.2.1e
+##### Artikel 2.2.1e
 
 1. Van bestaand gebruik als bedoeld in de [artikelen 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&hoofdstuk=2&paragraaf=2.2&artikel=2.2.1&z=2025-07-01&g=2025-07-01), [2.2.1b](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&hoofdstuk=2&paragraaf=2.2&artikel=2.2.1b&z=2025-07-01&g=2025-07-01) en [2.2.1c](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&hoofdstuk=2&paragraaf=2.2&artikel=2.2.1c&z=2025-07-01&g=2025-07-01) is sprake indien op 1 januari 2018 op de desbetreffende locatie een gebouw of object rechtmatig aanwezig is of een omgevingsvergunning is verleend voor het bouwen van een gebouw of object op de desbetreffende locatie, mits binnen zes maanden na die datum een begin met de werkzaamheden is gemaakt.
 

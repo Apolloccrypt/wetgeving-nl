@@ -1,32 +1,57 @@
 ---
 title: "Vervangingsbesluit personele archiefbescheiden Eerste Kamer der Staten-Generaal"
 identifier: "BWBR0041304"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2018-09-01
-laatste_update: 2018-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041304"
+country: "nl"
+rank: "reglement"
+publication_date: "2018-09-01"
+last_updated: "2018-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041304"
+soort: "reglement"
+stam_id: "14716553"
+version_id: "25210352"
+internal_id: "C36043601"
+label_id: "14668504"
+dtd_version: "2.0"
+original_entry_into_force: "2018-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041304/2018-09-01/0"
+intitule_bron: "Stcrt.2018-49408"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-07-25"
+intitule_published: "2018-08-31"
+intitule_in_force: "2018-08-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-49408"
+original_signed_date: "2018-07-25"
+original_published_date: "2018-08-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-49408"
+entry_into_force_date: "2018-09-01"
+jci_1_3: "jci1.3:c:BWBR0041304&z=2018-09-01&g=2018-09-01"
+jci_1_0: "1.0:c:BWBR0041304&g=2018-09-01"
+citeertitel_status: "officieel"
+signed_date: "2018-07-25"
+entry_into_force: "2018-09-01"
 ---
-
 # Vervangingsbesluit personele archiefbescheiden Eerste Kamer der Staten-Generaal
 
 Gelet op [artikel 7 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=7), [artikel 6, eerste lid, van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=6) en [artikel 26b van de Archiefregeling 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&artikel=26b);
 
 BESLUIT
 
-#### Artikel 1
+##### Artikel 1
 
 Dit besluit heeft betrekking op archiefbescheiden op papier die behoren of zullen gaan behoren tot het personeelsdossier van de medewerkers van de Eerste Kamer der Staten-Generaal. Deze archiefbescheiden worden vervangen door digitale reproducties. Deze vervanging betreft alle papieren archiefbescheiden die betrekking hebben op personeelsgegevens en salarisgegevens zoals beschreven in het vigerende Basisselectiedocument P-dossier.
 
-#### Artikel 2
+##### Artikel 2
 
 De digitale vervanging geschiedt ten minste overeenkomstig de specificaties en instellingen zoals deze zijn opgenomen in de bijlage en op de wijze zoals beschreven in het Handboek Digitale Vervanging Personeelsdossiers van P-Direkt.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt gepubliceerd.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit wordt aangehaald als: Vervangingsbesluit personele archiefbescheiden Eerste Kamer der Staten-Generaal.
 

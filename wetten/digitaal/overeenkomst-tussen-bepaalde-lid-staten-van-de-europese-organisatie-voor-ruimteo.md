@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst tussen bepaalde Lid-Staten van de Europese Organisatie voor Ruimteonderzoek en de Europese Organisatie voor Ruimteonderzoek betreffende de uitvoering van een telecommunicatiesatellieten-programma"
 identifier: "BWBV0003421"
-categorie: "Digitaal en privacy"
-publicatiedatum: 1979-11-14
-laatste_update: 1979-11-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003421"
+country: "nl"
+rank: "verdrag"
+publication_date: "1979-11-14"
+last_updated: "1979-11-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003421"
+soort: "verdrag"
+stam_id: "10003525323"
+version_id: "10003574912"
+internal_id: "C10006982391"
+label_id: "10003511334"
+dtd_version: "2.0"
+original_entry_into_force: "1979-11-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003421/1979-11-14/0"
+intitule_bron: "Trb.1975-76"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1975-07-14"
+intitule_in_force: "1980-01-10"
+intitule_status: "goed"
+original_publication: "Trb.1975-76"
+original_published_date: "1975-07-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1975-76"
+entry_into_force_date: "1979-11-14"
+jci_1_3: "jci1.3:c:BWBV0003421&z=1979-11-14&g=1979-11-14"
+jci_1_0: "1.0:c:BWBV0003421&g=1979-11-14"
+citeertitel_status: "redactioneel"
+entry_into_force: "1979-11-14"
 ---
-
 # Overeenkomst tussen bepaalde Lid-Staten van de Europese Organisatie voor Ruimteonderzoek en de Europese Organisatie voor Ruimteonderzoek betreffende de uitvoering van een telecommunicatiesatellieten-programma
 
 Preambule
@@ -34,11 +56,11 @@ Gelet op het op 18 mei 1972 ondertekende Memorandum van Overeenstemming tussen d
 
 Zijn overeengekomen als volgt:
 
-#### Artikel 1
+##### Artikel 1
 
 De Deelnemers nemen de uitvoering op zich van een in fasen gesplitst programma, dat ten doel heeft het ontwerpen, ontwikkelen, bouwen en installeren van een experimenteel en pre-operationeel ruimtesegment van een stelsel van ruimtecommunicatie, dat voldoet aan de behoeften van de gebruikers en dat, na voltooiing van het programma, betrouwbare operationele satellieten ter beschikking stelt van de gebruikers. De elementen van dit ruimtesegment worden beschreven in Bijlage A bij deze Overeenkomst.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het in artikel 1 bedoelde programma wordt gesplitst in twee Fasen. Het werd voorafgegaan door een reeds voltooide voorbereidende Fase van programmaomschrijving (Fase 1). Deze beide Fasen (tot in bijzonderheden omschreven in Bijlage A bij deze Overeenkomst) zijn als volgt:
 
@@ -48,13 +70,13 @@ De Deelnemers nemen de uitvoering op zich van een in fasen gesplitst programma, 
 
 2. De besluiten over te gaan tot sub-fase 2bis en tot Fase 3 worden genomen in overeenstemming met het bepaalde in artikel 5.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Krachtens artikel VIII van het Verdrag voert de Organisatie het in artikel 1 bedoelde programma uit overeenkomstig het tijdschema en de andere bepalingen, vervat in Bijlage A bij deze Overeenkomst.
 
 2. Tenzij in deze Overeenkomst anders is bepaald, voert de Organisatie het programma uit overeenkomstig de binnen de Organisatie geldende regels en procedures.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een Programmaraad, bestaande uit vertegenwoordigers van de Deelnemers, is verantwoordelijk voor het programma en neemt alle desbetreffende beslissingen overeenkomstig de bepalingen van deze Overeenkomst.
 
@@ -66,11 +88,11 @@ De Deelnemers nemen de uitvoering op zich van een in fasen gesplitst programma, 
 
 5. De besluiten van de Programmaraad worden genomen overeenkomstig de bepalingen van deze Overeenkomst. Tenzij uitdrukkelijk anders is bepaald, worden de in het Verdrag en in het Huishoudelijk Reglement van de Raad van de Organisatie neergelegde voorschriften voor stemuitbrenging mutatis mutandis toegepast.
 
-#### Artikel 5
+##### Artikel 5
 
 Besluiten inzake de aanvang en de juiste inhoud van sub-fase 2bis en Fase 3 van het programma worden genomen door de Programmaraad met een twee derde meerderheid van stemmen, mits deze meerderheid ten minste twee derde van de bijdragen aan het programma vertegenwoordigt. Indien op deze wijze geen besluit tot stand kan komen om over te gaan tot Fase 3, plegen de Staten die niettemin het programma willen voortzetten, onderling overleg en zij stellen voorwaarden vast voor een zodanige voortzetting. Zij brengen dienovereenkomstig verslag uit aan de Raad, die de eventueel vereiste maatregelen neemt.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De uitgaven die voortvloeien uit de uitvoering van het programma door de Organisatie krachtens deze Overeenkomst, worden bekostigd door de Deelnemers overeenkomstig de in Bijlage B bij deze Overeenkomst neergelegde bepalingen en binnen de grenzen van het vaste financiële kader dat in overeenstemming met het bepaalde in dit artikel voor elke Fase is vastgesteld.
 
@@ -80,7 +102,7 @@ Besluiten inzake de aanvang en de juiste inhoud van sub-fase 2bis en Fase 3 van 
 
 4. De op het programma betrekking hebbende jaarlijkse begrotingen worden met een twee derde meerderheid van stemmen door de Programmaraad goedgekeurd binnen de grenzen van het desbetreffende vaste financiële kader.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De Deelnemers komen overeen dat, ten einde in geval van veranderingen in het prijspeil het vaste financiële kader voor een Fase te kunnen herzien, de op dat tijdstip binnen de Organisatie geldende procedure zal worden toegepast.
 
@@ -90,31 +112,31 @@ Besluiten inzake de aanvang en de juiste inhoud van sub-fase 2bis en Fase 3 van 
 
 - b). Indien de cumulatieve overschrijding van de voor de voltooiing geraamde kosten meer beloopt dan 20% van het bedrag van het desbetreffende vaste financiële kader, kunnen de Deelnemers die zulks wensen zich terugtrekken uit het Programma, onder voorbehoud van het bepaalde in artikel 17. De Deelnemers die het programma wensen voort te zetten, plegen onderling overleg en stellen de voorwaarden voor een zodanige voortzetting vast. Zij brengen dienovereenkomstig verslag uit aan de Raad, die de vereiste besluiten neemt.
 
-#### Artikel 8
+##### Artikel 8
 
 Intellectuele eigendomsrechten voortvloeiend uit de uitvoering van het programma, evenals toegang tot aldus verkregen technische gegevens, zijn voorbehouden aan de Deelnemers, maar de Organisatie heeft het recht daar kosteloos gebruik van te maken voor al haar werkzaamheden.
 
-#### Artikel 9
+##### Artikel 9
 
 De Deelnemers machtigen de Organisatie tot het sluiten van de nodige contracten voor de uitvoering van het programma overeenkomstig de regels en procedures van de Organisatie. Bij het plaatsen van contracten en toeleveringscontracten voor de uitvoering van het programma wordt evenwel, waar mogelijk, voorkeur gegeven aan het laten verrichten van de werkzaamheden op het grondgebied van de Deelnemers, met inachtneming van de besluiten van de Raad ter zake van het industriële beleid en de werkverdeling.
 
-#### Artikel 10
+##### Artikel 10
 
 De Organisatie, optredend namens de Deelnemers, is eigenares van de in het kader van het programma ontwikkelde satellieten, alsmede van de installaties en uitrusting die voor de uitvoering tot en met Fase 3 zijn verworven. De Programmaraad neemt, in overleg met de Raad van de Organisatie, besluiten inzake de overdracht van verworven installaties en uitrusting.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De Deelnemers stellen de Organisatie schadeloos voor elke verplichting die deze aangaat, Indien haar internationale aansprakelijkheid in het geding komt ten gevolge van de uitvoering van het programma.
 
 2. Elke door de Organisatie ten aanzien van het programma ontvangen schadeloosstelling wordt gecrediteerd op de jaarlijkse programmabegrotingen bedoeld in het vierde lid van artikel 6.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Elk geschil dat zich voordoet tussen twee of meer Deelnemers of tussen een van hen en de Organisatie betreffende de uitlegging of de toepassing van deze Overeenkomst en dat niet in onderling overleg kan worden geregeld, wordt op verzoek van een der partijen bij het geschil voorgelegd aan een scheidsman die moet worden benoemd door de President van het Internationaal Gerechtshof. De scheidsman mag geen onderdaan zijn van een Staat die partij is bij het geschil en evenmin ingezetene van die Staat zijn.
 
 2. De partijen bij de Overeenkomst die geen partij zijn bij het geschil hebben het recht zich te voegen in de procedure en de beslissing van de scheidsman is bindend voor alle Deelnemers en de Organisatie, ongeacht of zij zich in de procedure hebben gevoegd.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Deze Overeenkomst staat van 1 juni 1973 tot 21 september 1973 open voor ondertekening door de Deelnemers.
 
@@ -132,19 +154,19 @@ De Organisatie, optredend namens de Deelnemers, is eigenares van de in het kader
 
 6. Tenzij de Programmaraad met eenparigheid van stemmen anders besluit, betaalt een Regering die partij bij deze Overeenkomst wordt na haar inwerkingtreding een bijdrage gelijk aan die welke zij zou hebben betaald indien zij partij bij de Overeenkomst zou zijn geweest op het tijdstip van de inwerkingtreding daarvan en voor deze bijdrage worden de andere Deelnemers gecrediteerd naar verhouding van hun bijdragen.
 
-#### Artikel 14
+##### Artikel 14
 
 De Regering van een Staat die geen lid van de Organisatie is, kan bij de Raad van de Organisatie een verzoek indienen om toetreding tot het programma; voor een besluit van de Raad tot instemming met een zodanig verzoek is eenparigheid van stemmen vereist en het moet worden genomen in overleg met de Programmaraad die met eenparigheid van stemmen de toetredingsvoorwaarden bepaalt.
 
-#### Artikel 15
+##### Artikel 15
 
 De Organisatie stelt, na overleg met de Programmaraad, de Deelnemers ervan in kennis wanneer het programma naar behoren is voltooid overeenkomstig de bepalingen van deze Overeenkomst en deze Overeenkomst wordt beëindigd bij ontvangst van een zodanige kennisgeving.
 
-#### Artikel 16
+##### Artikel 16
 
 De Deelnemers kunnen tot beëindiging van de uitvoering van het programma besluiten met een twee derde meerderheid van stemmen, die ten minste twee derde van de bijdragen aan dit programma vertegenwoordigen.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Een Deelnemer die zich krachtens artikel 5 en het tweede lid, letter b, van artikel 7 wenst terug te trekken, stelt de Organisatie van zijn terugtrekking in kennis. Deze terugtrekking wordt van kracht op de datum van de kennisgeving, zulks onder voorbehoud van de volgende bepalingen:
 
@@ -158,21 +180,21 @@ De Deelnemers kunnen tot beëindiging van de uitvoering van het programma beslui
 
 3. Indien een niet-Lid-Staat die overeenkomstig het bepaalde in artikel 14 van deze Overeenkomst tot het programma is toegetreden, zich uit het programma wenst terug te trekken, is het bepaalde in dit artikel mutatis mutandis van toepassing.
 
-#### Artikel 18
+##### Artikel 18
 
 De Bijlagen A en B bij deze Overeenkomst vormen een integrerend deel daarvan.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Deze Overeenkomst kan op verzoek van een Deelnemer of van de Organisatie worden herzien. Wijzigingen worden van kracht wanneer alle Partijen de depot-Regering van hun goedkeuring mededeling hebben gedaan.
 
 2. De Bijlagen bij deze Overeenkomst kunnen door de Programmaraad worden herzien overeenkomstig het bepaalde vervat in de herzieningsclausules van die Bijlagen.
 
-#### Artikel 20
+##### Artikel 20
 
 Bij de inwerkingtreding van de Overeenkomst doet de Regering van de Franse Republiek deze registreren bij het Secretariaat van de Verenigde Naties, zulks overeenkomstig [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-#### Artikel 21
+##### Artikel 21
 
 De Regering van de Franse Republiek treedt op als depositaris van deze Overeenkomst en stelt de Deelnemers en de Organisatie in kennis van de datum van inwerkingtreding van deze Overeenkomst en van wijzigingen daarop en van de nederlegging van alle akten van bekrachtiging, goedkeuring, toetreding en verklaringen van intentie tot voorlopige toepassing van de Overeenkomst.
 

@@ -1,20 +1,45 @@
 ---
-title: "Oekraïense uitvoeringsvoorschriften belastingverdrag Nederland-Oekraïne"
+title: "Regeling inzake vermindering en vrijstelling van Oekraïense belasting op dividenden, interest, en royalty's, genoten door inwoners van Nederland"
 identifier: "BWBR0008491"
-categorie: "Belastingrecht"
-publicatiedatum: 1997-01-15
-laatste_update: 1997-01-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008491"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1997-01-15"
+last_updated: "1997-01-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008491"
+soort: "ministeriele-regeling"
+stam_id: "3964083"
+version_id: "5737152"
+internal_id: "C5939881"
+label_id: "3944064"
+dtd_version: "2.0"
+original_entry_into_force: "1997-01-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008491/1997-01-15/0"
+intitule_bron: "Stcrt.1997-8"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-01-07"
+intitule_published: "1997-01-13"
+intitule_in_force: "1997-01-13"
+intitule_status: "goed"
+original_publication: "Stcrt.1997-8"
+original_signed_date: "1997-01-07"
+original_published_date: "1997-01-13"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1997-01-15"
+jci_1_3: "jci1.3:c:BWBR0008491&z=1997-01-15&g=1997-01-15"
+jci_1_0: "1.0:c:BWBR0008491&g=1997-01-15"
+citeertitel_status: "officieel"
+short_title: "Oekraïense uitvoeringsvoorschriften belastingverdrag Nederland-Oekraïne"
+signed_date: "1997-01-07"
+entry_into_force: "1997-01-15"
 ---
-
 # Regeling inzake vermindering en vrijstelling van Oekraïense belasting op dividenden, interest, en royalty's, genoten door inwoners van Nederland
 
 Besluit:
 
 Door plaatsing in de Staatscourant het navolgende ter kennis van belanghebbende inwoners van Nederland te brengen:
 
-#### Artikel 1. Aanspraken van inwoners van Nederland
+##### Artikel 1. Aanspraken van inwoners van Nederland
 
 Aan het op 24 oktober 1995 tussen Nederland en Oekraïne gesloten Verdrag tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen en het Protocol bij dat Verdrag (Trb. 1995, 285), kunnen inwoners van Nederland onder meer de volgende aanspraken ontlenen, geregeld in de hieronder tussen haakjes vermelde artikelen van het Verdrag en onderdelen van het Protocol:
 
@@ -52,7 +77,7 @@ De in de onderdelen a, b, g, h en j van dit artikel vermelde verminderingen word
 
 De in onderdelen a, b, g, h en j van dit artikel vermelde verminderingen zijn niet van toepassing indien de genieter van de dividenden, de interest of de royalty’s in Oekraïne een bedrijf uitoefent door middel van een aldaar gevestigde vaste inrichting of in Oekraïne zelfstandige arbeid verricht vanuit een aldaar gevestigd vast middelpunt, en het aandelenbezit uit hoofde waarvan de dividenden worden betaald, de vordering uit hoofde waarvan de interest wordt betaald of het recht of de zaak uit hoofde waarvan de royalty’s worden betaald, tot het bedrijfsvermogen van die vaste inrichting of tot het beroepsvermogen van dat vaste middelpunt behoort (artikel 10, zevende lid, respectievelijk artikel 11, zesde lid, en artikel 12, zesde lid).
 
-#### Artikel 2. Oekraïense regeling
+##### Artikel 2. Oekraïense regeling
 
 Ter uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008491&artikel=1&z=1997-01-15&g=1997-01-15) is van Oekraïense zijde de volgende regeling getroffen:
 
@@ -86,7 +111,7 @@ Termijn van indiening van verzoeken om teruggaaf van belasting
 
 5. Exemplaren van de Oekraïense formulieren ’Request for exemption from tax on profits of non-resident who does not carry on business in Ukraine through a permanent establishment’ en ’Request for refund of tax on profits from Ukraine source and paid to non-resident who does not carry on business in Ukraine through a permanent establishment’ zijn op aanvraag verkrijgbaar, in Nederland bij de Belastingdienst/Centrum voor facilitaire dienstverlening, Afdeling Logistiek reprografisch centrum, Postbus 1314, 7301 BN Apeldoorn, en in de Oekraïne bij Ministry of Finance of Ukraine, Main State Tax Inspectorate of Ukraine, Lvovsky square 8, 254055 Kiev-55.
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 1. Deze regeling kan worden aangehaald als: Oekraïense uitvoeringsvoorschriften belastingverdrag Nederland-Oekraïne.
 

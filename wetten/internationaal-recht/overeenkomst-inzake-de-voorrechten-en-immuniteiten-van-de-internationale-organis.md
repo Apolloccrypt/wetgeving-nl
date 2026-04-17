@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst inzake de voorrechten en immuniteiten van de Internationale Organisatie voor Atoomenergie"
 identifier: "BWBV0004919"
-categorie: "Internationaal recht"
-publicatiedatum: 1963-08-29
-laatste_update: 1963-08-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004919"
+country: "nl"
+rank: "verdrag"
+publication_date: "1963-08-29"
+last_updated: "1963-08-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004919"
+soort: "verdrag"
+stam_id: "10004385873"
+version_id: "10004588372"
+internal_id: "C10007140401"
+label_id: "10004370544"
+dtd_version: "2.0"
+original_entry_into_force: "1963-08-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004919/1963-08-29/0"
+intitule_bron: "Trb.1965-49"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1965-03-25"
+intitule_in_force: "1965-03-25"
+intitule_status: "goed"
+original_publication: "Trb.1965-49"
+original_published_date: "1965-03-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1965-49"
+entry_into_force_date: "1963-08-29"
+jci_1_3: "jci1.3:c:BWBV0004919&z=1963-08-29&g=1963-08-29"
+jci_1_0: "1.0:c:BWBV0004919&g=1963-08-29"
+citeertitel_status: "redactioneel"
+entry_into_force: "1963-08-29"
 ---
-
 # Overeenkomst inzake de voorrechten en immuniteiten van de Internationale Organisatie voor Atoomenergie
 
 Whereas [Article XV.C of the Statute of the International Atomic Energy Agency](https://wetten.overheid.nl/jci1.3:c:BWBV0004777&artikel=XV) provides that the legal capacity, privileges and immunities referred to in that Article shall be defined in a separate agreement or agreements between the Agency, represented for this purpose by the Director General acting under the instructions of the Board of Governors, and the Members;
@@ -22,7 +44,7 @@ Has approved, without committing the Governments represented on the Board, the t
 
 Invites the Members of the Agency to consider and, if they see fit, to accept this Agreement.
 
-#### Article I. Definitions
+##### Article I. Definitions
 
 **Section 1**
 
@@ -44,13 +66,13 @@ In this Agreement:
 
 - (v). For the purposes of Articles VI and IX, the expression “officials of the Agency” means the Director General and all members of the staff of the Agency except those who are locally recruited and assigned to hourly rates.
 
-#### Article II. Juridical Personality
+##### Article II. Juridical Personality
 
 **Section 2**
 
 The Agency shall possess juridical personality. It shall have the capacity (a) to contract, (b) to acquire and dispose of immovable and movable property and (c) to institute legal proceedings.
 
-#### Article III. Property, Funds and Assets
+##### Article III. Property, Funds and Assets
 
 **Section 3**
 
@@ -90,7 +112,7 @@ The Agency, its assets, income and other property shall be:
 
 While the Agency will not, as a general rule, claim exemption from excise duties and from taxes on the sale of movable and immovable property which form part of the price to be paid, nevertheless when the Agency is making important purchases for official use of property on which such duties and taxes have been charged or are chargeable, States parties to this Agreement will, whenever possible, make appropriate administrative arrangements for the remission or return of the amount of duty or tax.
 
-#### Article IV. Facilities in respect of communications
+##### Article IV. Facilities in respect of communications
 
 **Section 10**
 
@@ -104,7 +126,7 @@ The Agency shall have the right to use codes and to dispatch and receive corresp
 
 Nothing in this section shall be construed to preclude the adoption of appropriate security precautions to be determined by agreement between a State party to this Agreement and the Agency.
 
-#### Article V. Representatives of Members
+##### Article V. Representatives of Members
 
 **Section 12**
 
@@ -138,7 +160,7 @@ Privileges and immunities are accorded to the representatives of Members, not fo
 
 The provisions of sections 12, 13 and 14 are not applicable in relation to the authorities of a State of which the person is a national or of which he is or has been a representative.
 
-#### Article VI. Officials
+##### Article VI. Officials
 
 **Section 17**
 
@@ -178,7 +200,7 @@ Privileges and immunities are granted to officials in the interest of the Agency
 
 The Agency shall co-operate at all times with the appropriate authorities of Member States to facilitate the proper administration of justice, secure the observance of police regulations and prevent the occurrence of any abuses in connexion with the privileges, immunities and facilities mentioned in this Article.
 
-#### Article VII. Experts on missions for the Agency
+##### Article VII. Experts on missions for the Agency
 
 **Section 23**
 
@@ -204,7 +226,7 @@ Nothing in sub-paragraphs (c) and (d) of section 23 shall be construed to preclu
 
 Privileges and immunities are granted to the experts of the Agency in the interests of the Agency and not for the personal benefit of the individuals themselves. The Agency shall have the right and the duty to waive the immunity of any expert in any case where, in its opinion, the immunity would impede the course of justice and can be waived without prejudice to the interests of the Agency.
 
-#### Article VIII. Abuses of privilege
+##### Article VIII. Abuses of privilege
 
 **Section 26**
 
@@ -218,7 +240,7 @@ Representatives of Members at meetings convened by the Agency, while exercising 
 
 - (b). In the case of an official to whom section 20 is not applicable, no order to leave the country shall be issued by the territorial authorities other than with the approval of the Foreign Minister of the country in question, and such approval shall be given only after consultation with the Director General of the Agency; and, if expulsion proceedings are taken against an official, the Director-General of the Agency shall have the right to appear in such proceedings on behalf of the person against whom they are instituted.
 
-#### Article IX. Laissez-passer
+##### Article IX. Laissez-passer
 
 **Section 28**
 
@@ -240,7 +262,7 @@ Similar facilities to those specified in section 30 shall be accorded to experts
 
 The Director General, the Deputy Directors General and other officials of a rank not lower than head of division of the Agency, travelling on United Nations **laissez-passer** on the business of the Agency, shall be granted the same facilities for travel as are accorded to officials of comparable rank in diplomatic missions.
 
-#### Article X. Settlement of disputes
+##### Article X. Settlement of disputes
 
 **Section 33**
 
@@ -254,7 +276,7 @@ The Agency shall make provision for appropriate modes of settlement of:
 
 Unless in any case it is agreed by the parties to have recourse to another mode of settlement, all differences arising out of the interpretation or application of the present Agreement shall be referred to the International Court of Justice, in accordance with the [Statute of the Court](https://wetten.overheid.nl/jci1.3:c:BWBV0005509). If a difference arises between the Agency and a Member and they do not agree on any other mode of settlement, a request shall be made for an advisory opinion on any legal question involved, in accordance with [Article 96 of the Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=96) and [Article 65 of the Statute of the Court](https://wetten.overheid.nl/jci1.3:c:BWBV0005509&artikel=65) and the relevant provisions of the agreement concluded between the United Nations and the Agency. The opinion given by the Court shall be accepted as decisive by the parties.
 
-#### Article XI. Interpretation
+##### Article XI. Interpretation
 
 **Section 35**
 
@@ -268,7 +290,7 @@ The provisions of this Agreement shall in no way limit or prejudice the privileg
 
 This Agreement shall not itself operate so as to abrogate, or derogate from, any provisions of the [Statute of the Agency](https://wetten.overheid.nl/jci1.3:c:BWBV0004777) or any rights or obligations which the Agency may otherwise have, acquire or assume.
 
-#### Article XII. Final provisions
+##### Article XII. Final provisions
 
 **Section 38**
 

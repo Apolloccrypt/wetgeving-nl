@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Federale Volksrepubliek Zuidslavië betreffende geregelde luchtdiensten"
 identifier: "BWBV0005254"
-categorie: "Milieu"
-publicatiedatum: 1958-03-03
-laatste_update: 1958-03-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005254"
+country: "nl"
+rank: "verdrag"
+publication_date: "1958-03-03"
+last_updated: "1958-03-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005254"
+soort: "verdrag"
+stam_id: "10004535773"
+version_id: "10004754822"
+internal_id: "C10007209551"
+label_id: "10004520824"
+dtd_version: "2.0"
+original_entry_into_force: "1958-03-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005254/1958-03-03/0"
+intitule_bron: "Trb.1957-70"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1957-06-07"
+intitule_in_force: "1958-03-31"
+intitule_status: "goed"
+original_publication: "Trb.1957-70"
+original_published_date: "1957-06-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1957-70"
+entry_into_force_date: "1958-03-03"
+jci_1_3: "jci1.3:c:BWBV0005254&z=1958-03-03&g=1958-03-03"
+jci_1_0: "1.0:c:BWBV0005254&g=1958-03-03"
+citeertitel_status: "redactioneel"
+entry_into_force: "1958-03-03"
 ---
-
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Federale Volksrepubliek Zuidslavië betreffende geregelde luchtdiensten
 
 De Regering van het Koninkrijk der Nederlanden en de Regering van de Federale Volksrepubliek Zuidslavië, hierna te noemen „Overeenkomstsluitende Partijen”,
@@ -20,13 +42,13 @@ dat het bijgevolg nodig is een Overeenkomst te sluiten, welke de geregelde lucht
 
 Hebben hun Gevolmachtigden aangewezen die, tot dat doel behoorlijk gemachtigd, het volgende zijn overeengekomen:
 
-#### Artikel I
+##### Artikel I
 
 De Overeenkomstsluitende Partijen verlenen elkaar op basis van wederkerigheid het recht de in de Bijlage van deze Overeenkomst omschreven geregelde luchtdiensten in te stellen.
 
 Overeenkomstig de bepalingen van deze Overeenkomst kunnen die diensten geheel of gedeeltelijk in exploitatie worden genomen, hetzij onmiddellijk, hetzij op een latere datum ter keuze van de Overeenkomstsluitende Partij waaraan dat recht is verleend.
 
-#### Artikel II
+##### Artikel II
 
 1. Elk van de Overeenkomstsluitende Partijen zal aan de andere Overeenkomstsluitende Partij een of meer luchtvervoersondernemingen aanwijzen, die krachtens deze Overeenkomst tot taak zullen hebben de geregelde luchtdiensten te exploiteren.
 
@@ -34,7 +56,7 @@ Overeenkomstig de bepalingen van deze Overeenkomst kunnen die diensten geheel of
 
 3. Alvorens de bovengenoemde exploitatievergunning aan een door de andere Overeenkomstsluitende Partij aangewezen onderneming te verlenen, zullen de onderscheiden Luchtvaartautoriteiten zich ervan kunnen overtuigen, dat die onderneming voldoet aan de eisen, gesteld door de wetten en bepalingen die normaliter van toepassing zijn op de geregelde luchtdiensten, mits deze niet strijdig zijn met de bepalingen van deze Overeenkomst.
 
-#### Artikel III
+##### Artikel III
 
 1. Elke Overeenkomstsluitende Partij behoudt zich het recht voor, aan de door de andere Overeenkomstsluitende Partij aangewezen onderneming of ondernemingen de exploitatievergunning te weigeren of deze tijdelijk of voorgoed in te trekken, wanneer zij niet het bewijs heeft dat een overwegend deel van de eigendom van en het daadwerkelijk toezicht op die ondernemingen toebehoren aan een der Overeenkomstsluitende Partijen of berusten bij hun onderdanen.
 
@@ -42,11 +64,11 @@ Overeenkomstig de bepalingen van deze Overeenkomst kunnen die diensten geheel of
 
 Een zodanige maatregel zal echter niet worden genomen dan nadat een tussen de onderscheiden Luchtvaartautoriteiten gepleegd overleg niet is geslaagd.
 
-#### Artikel IV
+##### Artikel IV
 
 De Overeenkomstsluitende Partij welke het vervoer van passagiers, postzendingen en vracht, die worden opgenomen op een punt om te worden afgezet op een ander punt binnen haar grondgebied, zou wensen voor te behouden aan haar eigen luchtvervoersonderneming(en), zal haar beslissing dienaangaande ter kennis brengen van de andere Overeenkomstsluitende Partij.
 
-#### Artikel V
+##### Artikel V
 
 1. Aan de aangewezen onderneming of ondernemingen zal een rechtvaardige en billijke behandeling worden verzekerd bij de exploitatie van de in de Bijlage vastgestelde diensten.
 
@@ -54,11 +76,11 @@ De Overeenkomstsluitende Partij welke het vervoer van passagiers, postzendingen 
 
 3. Bij de exploitatie van de bedoelde diensten zal de totale capaciteit welke door de ondernemingen, aangewezen door de beide Overeenkomstsluitende Partijen, wordt verschaft op dezelfde trajecten welke op hun wederzijdse grondgebieden uitkomen in een redelijke verhouding moeten staan tot de vraag naar luchtvervoer.
 
-#### Artikel VI
+##### Artikel VI
 
 De verleende rechten mogen door de aangewezen onderneming of ondernemingen van een Overeenkomstsluitende Partij niet op onredelijke wijze worden uitgeoefend ten nadele of ten koste van enige luchtvervoersonderneming van de andere Overeenkomstsluitende Partij, die geregeld vervoer bewerkstelligt op het geheel of een gedeelte van dezelfde lijn.
 
-#### Artikel VII
+##### Artikel VII
 
 1. De tarieven zullen worden vastgesteld op een redelijk peil, daarbij rekening houdende met de exploitatiekosten, een redelijke winst en de hoedanigheden van de overeengekomen diensten, zodat elke ongewenste concurrentie wordt voorkomen. Bij het vaststellen van die tarieven zal men ook rekening houden met de beginselen die de internationale luchtdiensten op dit gebied beheersen.
 
@@ -66,11 +88,11 @@ De verleende rechten mogen door de aangewezen onderneming of ondernemingen van e
 
 Met betrekking tot de dienstregelingen zullen de onderscheiden Luchtvaartautoriteiten in het belang van de veiligheid in de lucht en de goede werking van de grondafhandeling hun instemming afhankelijk kunnen stellen van de aanvaarding van eventueel gemaakte opmerkingen.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Door de Overeenkomstsluitende Partijen zal op hun grondgebieden geen enkel onderscheid mogen worden gemaakt tussen de aangewezen ondernemingen en de andere buitenlandse luchtvervoersondernemingen.
 
-#### Artikel IX
+##### Artikel IX
 
 1. Elke Overeenkomstsluitende Partij verbindt zich dat de bedragen welke van de aangewezen onderneming of ondernemingen van de andere Overeenkomstsluitende Partij worden geheven voor het gebruik van de luchthavens en andere technische installaties, niet hoger zullen zijn dan die welke worden geheven van alle andere buitenlandse luchtvervoersondernemingen die gelijksoortige internationale diensten exploiteren.
 
@@ -84,11 +106,11 @@ Terwijl zij zich op dat grondgebied bevinden, zullen zij onder toezicht van de d
 
 5. De volgens lid 4 vrijgestelde artikelen zullen niet mogen worden gelost zonder toestemming van de Douane-autoriteiten van die Overeenkomstsluitende Partij. Gedurende de landingen zullen zij onderworpen zijn aan het toezicht van genoemde Autoriteiten, maar zonder dat hun verplaatsing en gebruik, welke om technische redenen geschieden, zullen worden belemmerd.
 
-#### Artikel X
+##### Artikel X
 
 De bewijzen van luchtwaardigheid en de bewijzen van bevoegdheid, uitgereikt of geldig verklaard door een Overeenkomstsluitende Partij, zullen voor de exploitatie van de overeengekomen diensten door de andere Overeenkomstsluitende Partij worden erkend. Elke Overeenkomstsluitende Partij behoudt zich evenwel het recht voor, voor de luchtvaart boven haar grondgebied de erkenning van bewijzen van bevoegdheid, welke aan haar onderdanen zijn toegekend door een andere Staat, te weigeren.
 
-#### Artikel XI
+##### Artikel XI
 
 De luchtvaartuigen, toebehorende aan de aangewezen onderneming of ondernemingen van de Overeenkomstsluitende Partijen en bestemd voor diensten genoemd in de Bijlage, alsmede de leden van hun bemanningen zullen voorzien moeten zijn van geldige bescheiden en wel:
 
@@ -108,13 +130,13 @@ De luchtvaartuigen, toebehorende aan de aangewezen onderneming of ondernemingen 
 
 - zo nodig, een bijzondere vergunning voor het vervoer door de lucht van bepaalde soorten goederen.
 
-#### Artikel XII
+##### Artikel XII
 
 1. Elke Overeenkomstsluitende Partij verbindt zich op haar grondgebied in dezelfde mate hulp te verlenen aan de in nood verkerende luchtvaartuigen van de andere Overeenkomstsluitende Partij, die gebruikt worden voor de exploitatie van de onderhavige diensten, als aan haar eigen luchtvaartuigen die soortgelijke internationale diensten uitvoeren. Deze verplichting strekt zich in dezelfde mate uit tot de opsporing van eventueel vermiste luchtvaartuigen.
 
 2. In geval een zodanig luchtvaartuig een ongeval overkomt, dat dood, ernstige verwondingen of ernstige schade aan het luchtvaartuig ten gevolge heeft, zal de Overeenkomstsluitende Partij op wier grondgebied het ongeval plaats heeft een onderzoek naar de oorzaak en de omstandigheden daarvan instellen. Aan de Overeenkomstsluitende Partij waartoe het luchtvaartuig behoort zal het zijn toegestaan, waarnemers te zenden die het onderzoek zullen bijwonen. De Overeenkomstsluitende Partij die het onderzoek zal instellen zal het rapport en de bevindingen terzake aan de andere Overeenkomstsluitende Partij toezenden door bemiddeling van haar Luchtvaarautoriteit.
 
-#### Artikel XIII
+##### Artikel XIII
 
 1. De wetten en voorschriften welke op het grondgebied van een Overeenkomstsluitende Partij het binnenkomen, het verblijf en het vertrek van de in de internationale luchtvaart gebruikte luchtvaartuigen of het gebruik van deze luchtvaartuigen op en boven genoemd grondgebied regelen, zullen van toepassing zijn op de luchtvaartuigen van de aangewezen onderneming of ondernemingen van de andere Overeenkomstsluitende Partij.
 
@@ -122,17 +144,17 @@ De luchtvaartuigen, toebehorende aan de aangewezen onderneming of ondernemingen 
 
 3. De aangewezen onderneming of ondernemingen van een Overeenkomstsluitende Partij zullen gehouden zijn hun commerciële werkzaamheid op het grondgebied van de andere Overeenkomstsluitende Partij aan te passen aan de wetten en voorschriften van laatstgenoemde Partij.
 
-#### Artikel XIV
+##### Artikel XIV
 
 In een geest van nauwe samenwerking zal de Luchtvaartautoriteit van een Overeenkomstsluitende Partij aan de Luchtvaartautoriteit van de andere Overeenkomstsluitende Partij kunnen voorstellen, overleg te plegen met het oogmerk zich ervan te verzekeren dat de beginselen, neergelegd in deze Overeenkomst, op een bevredigende wijze worden toegepast en uitgevoerd.
 
-#### Artikel XV
+##### Artikel XV
 
 1. In geval een Overeenkomstsluitende Partij het wenselijk acht enige bepaling van deze Overeenkomst te wijzigen, zal zij te allen tijde langs diplomatieke weg kunnen verzoeken, dat terzake onderhandelingen tussen de Luchtvaartautoriteiten worden gevoerd. Deze onderhandelingen zullen moeten worden aangevangen binnen een periode van zestig dagen, gerekend van de datum van het verzoek af. Indien genoemde Autoriteiten tot overeenstemming komen betreffende de aan te brengen wijzigingen, zullen deze wijzigingen eerst van kracht worden nadat elke Overeenkomstsluitende Partij aan de andere Overeenkomstsluitende Partij mededeling heeft gedaan van de bekrachtiging of goedkeuring van die wijzigingen volgens haar grondwettelijke regels.
 
 2. Ingeval de Luchtvaartautoriteit van een Overeenkomstsluitende Partij het noodzakelijk acht enige bepaling van de Bijlage te wijzigen of aan te vullen, zal zij te allen tijde onderhandelingen kunnen verzoeken met de Luchtvaartautoriteit van de andere Overeenkomstsluitende Partij. Deze onderhandelingen zullen plaats moeten hebben binnen een periode van zestig dagen, gerekend van de datum van het verzoek af. Indien genoemde Autoriteiten tot overeenstemming komen betreffende de voorgestelde wijzigingen en toevoegingen, zullen deze worden aangenomen door middel van een schriftelijke Regeling, welke ook de datum van ingang van haar toepassing zal vaststellen. Deze Regeling zal geen inbreuk mogen maken op de beginselen welke door de onderhavige Overeenkomst zijn vastgesteld.
 
-#### Artikel XVI
+##### Artikel XVI
 
 De Overeenkomstsluitende Partijen zullen pogen elk geschil dat zou kunnen rijzen met betrekking tot de uitlegging of de toepassing van deze Overeenkomst en haar Bijlage door rechtstreekse onderhandelingen op te lossen.
 
@@ -144,7 +166,7 @@ Elke Overeenkomstsluitende Partij zal de helft van de kosten dragen, welke aan d
 
 De beslissingen van het scheidsgerecht zijn bindend voor de beide Overeenkomstsluitende Partijen.
 
-#### Artikel XVII
+##### Artikel XVII
 
 A. Voor de toepassing van deze Overeenkomst en haar Bijlage betekenen de volgende uitdrukkingen:
 
@@ -166,23 +188,23 @@ A. Voor de toepassing van deze Overeenkomst en haar Bijlage betekenen de volgend
 
 B. De Bijlage bij deze Overeenkomst zal geacht worden een wezenlijk deel uit te maken van de Overeenkomst en elke verwijzing naar de Overeenkomst zal ook betrekking hebben op genoemde Bijlage, tenzij het tegendeel is bepaald.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Deze Overeenkomst zal in overeenstemming worden gebracht met elk multilateraal luchtvaartverdrag dat bindend zou worden voor de Overeenkomstsluitende Partijen.
 
-#### Artikel XIX
+##### Artikel XIX
 
 Voor zover hun internationale verplichtingen hen daartoe noodzaken, zullen de Overeenkomstsluitende Partijen aan de Internationale Burgerlijke Luchtvaart Organisatie mededeling doen van deze Overeenkomst en haar Bijlage, van de wijzigingen welke daarin zouden kunnen worden aangebracht, alsmede van haar eventuele opzegging.
 
-#### Artikel XX
+##### Artikel XX
 
 Elke Overeenkomstsluitende Partij zal te allen tijde aan de andere Overeenkomstsluitende Partij mededeling kunnen doen van haar wens deze Overeenkomst op te zeggen. De geldigheid van de Overeenkomst zal een einde nemen twaalf maanden na de datum van ontvangst van de mededeling door een van de Overeenkomstsluitende Partijen, tenzij die mededeling vóór het einde van die periode in onderlinge overeenstemming wordt ingetrokken.
 
-#### Artikel XXI
+##### Artikel XXI
 
 Deze Overeenkomst vervangt alle overeenkomsten op het gebied van de burgerlijke luchtvaart, die vroeger tussen de beide Landen zijn gesloten.
 
-#### Artikel XXII
+##### Artikel XXII
 
 Deze Overeenkomst zal van kracht worden op de dag waarop de Overeenkomstsluitende Partijen elkaar door middel van een notawisseling, welke zo spoedig mogelijk te 's-Gravenhage zal plaats hebben, zullen mededelen, dat de Overeenkomst door elk van hen volgens de grondwettelijke regels is bekrachtigd of goedgekeurd.
 

@@ -1,13 +1,39 @@
 ---
-title: "Regeling vaststelling bedragen per eenheid provinciefonds over 2006"
+title: "Regeling van 10 juli 2007, nr. 2007-0000251548, tot vaststelling van de bedragen per eenheid voor de uitkering uit het provinciefonds over het uitkeringsjaar 2006"
 identifier: "BWBR0022308"
-categorie: "Bestuursrecht"
-publicatiedatum: 2007-07-26
-laatste_update: 2007-07-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0022308"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2007-07-26"
+last_updated: "2007-07-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0022308"
+soort: "ministeriele-regeling"
+stam_id: "9167453"
+version_id: "14668062"
+internal_id: "C19959201"
+label_id: "9146244"
+dtd_version: "2.0"
+original_entry_into_force: "2007-07-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0022308/2007-07-26/0"
+intitule_bron: "Stcrt.2007-140"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-07-10"
+intitule_published: "2007-07-24"
+intitule_in_force: "2007-07-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-140"
+original_signed_date: "2007-07-10"
+original_published_date: "2007-07-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2007-140-p7-SC81462"
+entry_into_force_date: "2007-07-26"
+jci_1_3: "jci1.3:c:BWBR0022308&z=2007-07-26&g=2007-07-26"
+jci_1_0: "1.0:c:BWBR0022308&g=2007-07-26"
+citeertitel_status: "redactioneel"
+short_title: "Regeling vaststelling bedragen per eenheid provinciefonds over 2006"
+signed_date: "2007-07-10"
+entry_into_force: "2007-07-26"
 ---
-
 # Regeling van 10 juli 2007, nr. 2007-0000251548, tot vaststelling van de bedragen per eenheid voor de uitkering uit het provinciefonds over het uitkeringsjaar 2006
 
 Mede namens de Minister van Financiën;
@@ -16,11 +42,11 @@ Gelet op [artikel 9 van de Financiële-verhoudingswet](https://wetten.overheid.n
 
 Stelt vast:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor het uitkeringsjaar 2006 worden de bedragen per eenheid voor de uitkering uit het provinciefonds, bedoeld in [artikel 9 van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=9), vastgesteld overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022308&bijlage=1&z=2007-07-26&g=2007-07-26) bij dit besluit.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

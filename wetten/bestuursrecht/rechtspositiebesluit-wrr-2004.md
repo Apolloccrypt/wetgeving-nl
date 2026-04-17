@@ -1,13 +1,38 @@
 ---
-title: "Rechtspositiebesluit WRR 2004"
+title: "Besluit van 15 september 2004 tot vaststelling van de rechtspositie van de voorzitter en de leden van de Wetenschappelijke Raad voor het Regeringsbeleid (Rechtspositiebesluit WRR 2004)"
 identifier: "BWBR0017208"
-categorie: "Bestuursrecht"
-publicatiedatum: 2020-01-01
-laatste_update: 2020-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0017208"
+country: "nl"
+rank: "amvb"
+publication_date: "2020-01-01"
+last_updated: "2020-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0017208"
+soort: "AMvB"
+stam_id: "6171673"
+version_id: "10843732"
+internal_id: "C14706751"
+label_id: "6160834"
+original_entry_into_force: "2004-10-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0017208/2020-01-01/0"
+intitule_bron: "Stb.2004-489"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-09-15"
+intitule_published: "2004-10-05"
+intitule_in_force: "2004-10-05"
+intitule_status: "goed"
+original_publication: "Stb.2004-489"
+original_signed_date: "2004-09-15"
+original_published_date: "2004-10-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2004-489"
+entry_into_force_date: "2004-10-06"
+jci_1_3: "jci1.3:c:BWBR0017208&z=2020-01-01&g=2020-01-01"
+jci_1_0: "1.0:c:BWBR0017208&g=2020-01-01"
+citeertitel_status: "officieel"
+short_title: "Rechtspositiebesluit WRR 2004"
+signed_date: "2004-09-15"
+entry_into_force: "2004-10-06"
 ---
-
 # Besluit van 15 september 2004 tot vaststelling van de rechtspositie van de voorzitter en de leden van de Wetenschappelijke Raad voor het Regeringsbeleid (Rechtspositiebesluit WRR 2004)
 
 Op de voordracht van Onze Minister-President, Minister van Algemene Zaken, van 25 juni 2004, nr. 04M466956;
@@ -20,7 +45,7 @@ Gezien het nader rapport van Onze Minister-President, Minister van Algemene Zake
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -32,7 +57,7 @@ In dit besluit wordt verstaan onder:
 
 - d. rijksambtenaren: degenen die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het salaris van het lid dat tot voorzitter van de Raad is benoemd, is gelijk aan het maximum van salarisschaal 19 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
@@ -50,7 +75,7 @@ In dit besluit wordt verstaan onder:
 
 8. Indien een lid overlijdt, ontvangt zijn weduwe of weduwnaar, waaronder mede wordt verstaan de achtergebleven levenspartner of achtergebleven geregistreerd partner, van wie de overleden ambtenaar niet duurzaam gescheiden leefde, dan wel zijn minderjarige kinderen, een uitkering overeenkomstig de bepalingen die daarover zijn opgenomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Boven en behalve het salaris, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017208&artikel=2&z=2020-01-01&g=2020-01-01), genieten de leden een vakantie-uitkering, een eindejaarsuitkering, een tegemoetkoming in de ziektekosten, een vergoeding van reis- en verblijfkosten voor zowel reizen in het kader van woon-werkverkeer alsmede dienstreizen, een vergoeding van verplaatsingskosten en een gratificatie bij ambtsjubileum overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
@@ -58,13 +83,13 @@ In dit besluit wordt verstaan onder:
 
 3. De leden ontvangen een vaste bruto-vergoeding voor de kosten van voorzieningen die voor eigen rekening komen en die door hen mede worden aangewend ten behoeve van de vervulling van hun ambt. Deze bruto-vergoeding bedraagt voor het lid dat tot voorzitter van de Raad is benoemd 50% en voor de overige leden van de Raad 35% van het bedrag overeenkomstig hetgeen een lid van de topmanagementgroep ontvangt aan representatiekostenvergoeding op grond van hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst die is gesloten voor rijksambtenaren.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een lid meldt afwezigheid in verband met ziekte terstond aan de daartoe aangewezen afdeling van het Ministerie van Algemene Zaken.
 
 2. De bedrijfsgeneeskundige begeleiding van een lid dat door ziekte verhinderd is de werkzaamheden uit te voeren zal worden verzorgd door een door Onze Minister aan te wijzen bedrijfsarts.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De leden van de Raad leggen op de dag van aanvang van de werkzaamheden, doch uiterlijk twee weken erna, in handen van Onze Minister de eed of belofte af:
 
@@ -78,13 +103,13 @@ In dit besluit wordt verstaan onder:
 
 4. Het is het lid verboden andere betrekkingen te vervullen en nevenwerkzaamheden te verrichten waardoor de goede vervulling van het ambt niet in redelijkheid zou zijn verzekerd.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een lid is van rechtswege in zijn ambt geschorst, wanneer hij krachtens wettelijke maatregel van zijn vrijheid is beroofd.
 
 2. Door Onze Minister kan een lid van de Raad worden geschorst, indien tegen hem een gerechtelijk vooronderzoek ter zake van een misdrijf wordt ingesteld of indien er een ander ernstig vermoeden is voor het bestaan van feiten of omstandigheden die tot ontslag zouden kunnen leiden.
 
-#### Artikel 7
+##### Artikel 7
 
 Aan een lid wordt bij koninklijk besluit ontslag verleend:
 
@@ -100,23 +125,23 @@ Aan een lid wordt bij koninklijk besluit ontslag verleend:
 
 - f. wanneer naar het oordeel van Onze Minister het lid door handelen of nalaten ernstig nadeel toebrengt aan het in hem te stellen vertrouwen.
 
-#### Artikel 8
+##### Artikel 8
 
 Een lid dat niet wordt herbenoemd zonder dat hij daarom heeft verzocht en daardoor werkloos wordt in de zin van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), dan wel wordt ontslagen wegens blijvende arbeidsongeschiktheid wegens ziekte of gebreken, heeft, tenzij recht bestaat op ouderdomspensioen, recht op een bovenwettelijke uitkering overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
-#### Artikel 9
+##### Artikel 9
 
 Onze Minister kan van dit besluit afwijken voor zover toepassing, gelet op het belang dat dit besluit beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-#### Artikel 11
+##### Artikel 11
 
 Het Rechtspositiebesluit WRR van 14 augustus 1976 wordt ingetrokken.
 
-#### Artikel 12
+##### Artikel 12
 
 Dit besluit wordt aangehaald als: Rechtspositiebesluit WRR 2004.
 

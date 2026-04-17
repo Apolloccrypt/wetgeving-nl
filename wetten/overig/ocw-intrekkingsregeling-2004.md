@@ -1,13 +1,38 @@
 ---
-title: "OCW-intrekkingsregeling 2004"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap, van 16 december 2004, nr. WJZ/2004/57142(8153), houdende intrekking van diverse regelingen op het terrein van het Ministerie van Onderwijs, Cultuur en Wetenschap in verband met het feit dat deze hun betekenis hebben verloren (OCW-intrekkingsregeling 2004)"
 identifier: "BWBR0017727"
-categorie: "Overig"
-publicatiedatum: 2004-12-31
-laatste_update: 2004-12-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0017727"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2004-12-31"
+last_updated: "2004-12-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0017727"
+soort: "ministeriele-regeling"
+stam_id: "6531453"
+version_id: "11311192"
+internal_id: "C15405151"
+label_id: "6520124"
+original_entry_into_force: "2004-12-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0017727/2004-12-31/0"
+intitule_bron: "Stcrt.2004-247"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-12-16"
+intitule_published: "2004-12-22"
+intitule_in_force: "2004-12-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2004-247"
+original_signed_date: "2004-12-16"
+original_published_date: "2004-12-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2004-247-p61-SC68011"
+entry_into_force_date: "2004-12-31"
+jci_1_3: "jci1.3:c:BWBR0017727&z=2004-12-31&g=2004-12-31"
+jci_1_0: "1.0:c:BWBR0017727&g=2004-12-31"
+citeertitel_status: "officieel"
+short_title: "OCW-intrekkingsregeling 2004"
+signed_date: "2004-12-16"
+entry_into_force: "2004-12-31"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap, van 16 december 2004, nr. WJZ/2004/57142(8153), houdende intrekking van diverse regelingen op het terrein van het Ministerie van Onderwijs, Cultuur en Wetenschap in verband met het feit dat deze hun betekenis hebben verloren (OCW-intrekkingsregeling 2004)
 
 Gelet op de [artikelen 4:4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:4) en [4:23, derde lid, onderdeel d, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:23), de [artikelen 5, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5), en [49 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=49), de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006759&artikel=2), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0006759&artikel=5), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0006759&artikel=5a), [11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006759&artikel=11), [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006759&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0006759&artikel=13), [23a](https://wetten.overheid.nl/jci1.3:c:BWBR0006759&artikel=23a), [24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006759&artikel=24), [32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006759&artikel=32), [35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006759&artikel=35), [36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006759&artikel=36), en [48 van het Bekostigingsbesluit cultuuruitingen](https://wetten.overheid.nl/jci1.3:c:BWBR0006759&artikel=48), de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009768&artikel=2), [4, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009768&artikel=4), [7, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009768&artikel=7), en [13 van het Bekostigingsbesluit inburgering nieuwkomers](https://wetten.overheid.nl/jci1.3:c:BWBR0009768&artikel=13), [artikel 11, zesde lid, van het Bekostigingsbesluit WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=11), [artikel 4 van het Besluit informatievoorziening WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0008948&artikel=4), [artikel 4a van het Besluit rijkssubsidiëring historische buitenplaatsen](https://wetten.overheid.nl/jci1.3:c:BWBR0006058&artikel=4a), [artikel 2a van het Besluit rijkssubsidiëring onderhoud monumenten](https://wetten.overheid.nl/jci1.3:c:BWBR0004654&artikel=2a), [artikel 11 van het Besluit RVC’s, regionaal zorgbudget en praktijkscholen met declaratiebekostiging](https://wetten.overheid.nl/jci1.3:c:BWBR0015137&artikel=11), artikel 3 van het Besluit van het Het Europees Parlement en de Raad van 13 oktober 1999, tot uitroeping van het Europees Jaar van de talen 2001 (PbEG C 311 E), [artikel 30 van het Rechtspositiebesluit WPO/WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0015136&artikel=30), [artikel 7 van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.- v.b.o.](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=7), de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=16) en [17, vijfde lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17), de [artikelen 15c, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005441&artikel=15c), en [15c2, eerste lid, onderdeel b, van het Formatiebesluit WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0005441&artikel=15c2), [artikel 13 van de Interimwet zij-instroom leraren primair en voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0011469&artikel=13), [artikel E.9 van de Invoeringswet W.H.B.O.](https://wetten.overheid.nl/jci1.3:c:BWBR0003966&artikel=E.9) juncto [artikel 16.1, eerste lid, onderdeel e, van de Wet op het hoger onderwijs en het wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=16.1) en [artikel 115 van de Overgangswet W.V.O.](https://wetten.overheid.nl/jci1.3:c:BWBR0002595&artikel=115), [artikel 1, onderdeel b, onder 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=1), juncto [1a van de Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=1a), [artikel 5, tweede en derde lid, van de Les- en cursusgeldwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&artikel=5), [artikel 53c, tweede lid, van het Mediabesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004237&artikel=53c), de [artikelen 32, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004149&artikel=32), en [128, eerste lid, van de Mediawet](https://wetten.overheid.nl/jci1.3:c:BWBR0004149&artikel=128), de [artikelen 39](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=39) en [58, eerste lid, van de Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=58), de [artikelen 108](https://wetten.overheid.nl/jci1.3:c:BWBR0002595&artikel=108), [109](https://wetten.overheid.nl/jci1.3:c:BWBR0002595&artikel=109), [110](https://wetten.overheid.nl/jci1.3:c:BWBR0002595&artikel=110), [111](https://wetten.overheid.nl/jci1.3:c:BWBR0002595&artikel=111), [112](https://wetten.overheid.nl/jci1.3:c:BWBR0002595&artikel=112), [113](https://wetten.overheid.nl/jci1.3:c:BWBR0002595&artikel=113) en [114 van de Overgangswet W.V.O.](https://wetten.overheid.nl/jci1.3:c:BWBR0002595&artikel=114), de [artikelen 2, onderdeel b, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008816&artikel=2), [7, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008816&artikel=7), [9, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008816&artikel=9), en [artikel 12 van de Regeling ziektekostenvoorziening onderwijs- en onderzoekpersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0008816&artikel=12), [artikel 5, tweede lid, van de Subsidieregeling Kennisuitwisseling Beroepsonderwijs Bedrijfsleven](https://wetten.overheid.nl/jci1.3:c:BWBR0010048&artikel=5), [artikel 3 van de Subsidieregeling publieksvoorlichting wetenschap en technologie](https://wetten.overheid.nl/jci1.3:c:BWBR0010223&artikel=3), [artikel 3 van de Subsidieregeling WeTeN 2001–2004](https://wetten.overheid.nl/jci1.3:c:BWBR0011976&artikel=3), [artikel 15, tweede lid, van het Uitvoeringsbesluit Les- en cursusgeldwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&artikel=15), [artikel 2.2.3, derde lid, van het Uitvoeringsbesluit WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=2.2.3), [artikel 4, eerste lid, van het Vacatiegeldenbesluit 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004317&artikel=4), de [artikelen 2.2.3, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.2.3), [2.3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.3.1), [2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.7), [11.1](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=11.1), [12.1.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=12.1.2), [12.3.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=12.3.8), [12.3.9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=12.3.9), [12.3.35, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=12.3.35), [12.3.36](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=12.3.36) en [12.3.48, tweede lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=12.3.48), [artikel 24, vierde lid, van de Wet inburgering nieuwkomers](https://wetten.overheid.nl/jci1.3:c:BWBR0009544&artikel=24), [artikel 146 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=146), de [artikelen 15.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=15.1), [7.43, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.43), en [7.56, eerste en derde lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.56), de [artikelen 76](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=76), [77](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=77), [116](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=116), [123, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=123), [126, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=126), [155](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=155) en [164 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=164), [artikel 13 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=13), de [artikelen 75c](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=75c), [75d](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=75d), [84b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=84b), [85, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=85), [85a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=85a), [89, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=89), [96m, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=96m), [103b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=103b), en [104 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=104), [artikel 4, eerste lid, van de Wet overige OCenW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4), [artikel 12, derde lid, van de Wet subsidiëring landelijke onderwijsondersteunende activiteiten](https://wetten.overheid.nl/jci1.3:c:BWBR0008725&artikel=12), de [artikelen 1, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0003659&artikel=1), en [15 van de Wet tot behoud van cultuurbezit](https://wetten.overheid.nl/jci1.3:c:BWBR0003659&artikel=15), [artikel III van de Wet van 1 december 1994, houdende wijziging van de Wet op het basisonderwijs en de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs inzake de bevoegdheid voor het geven van onderwijs in niet-Nederlandse taal en cultuur](https://wetten.overheid.nl/jci1.3:c:BWBR0007053&artikel=III) (Stb. 848), [artikel VI, onderdeel F, van de Wet van 2 juli 1997 tot wijziging van de Wet op het voortgezet onderwijs, de Wet op het hoger onderwijs en wetenschappelijk onderzoek en de Wet educatie en beroepsonderwijs in verband met verbetering van de aansluiting van het voorbereidend wetenschappelijk onderwijs en het hoger algemeen voortgezet onderwijs op het hoger onderwijs (profielen voortgezet onderwijs)](onbekend) (Stb. 322), [artikel II, onderdelen I, M, R en S van de Wet van 23 mei 1990, houdende wijziging van de Wet op het voortgezet onderwijs inzake sectorvorming en vernieuwing van het middelbaar beroepsonderwijs, alsmede van enige andere wetten](onbekend) (Stb. 266), [artikel X van de Wet van 15 mei 1997 tot wijziging van onder meer de Wet op het basisonderwijs, de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs en de Wet op het voortgezet onderwijs inzake het gemeentelijk onderwijsachterstandenbeleid (Gemeentelijk onderwijsachterstandenbeleid)](https://wetten.overheid.nl/jci1.3:c:BWBR0008684&artikel=X) (Stb. 237), de [artikelen II, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009638&artikel=II), [IV, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009638&artikel=IV), [V](https://wetten.overheid.nl/jci1.3:c:BWBR0009638&artikel=V), [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0009638&artikel=VIII), [XVI, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009638&artikel=XVI), [XIX, onderdeel B](onbekend), en [XXII van de Wet van 25 mei 1998 tot wijziging van onder meer de Wet op het voortgezet onderwijs in verband met de invoering van leerwegen in de hogere leerjaren van het middelbaar algemeen voortgezet onderwijs en het voorbereidend beroepsonderwijs, alsmede van leerwegondersteunend en praktijkonderwijs (regeling leerwegen mavo en vbo; invoering leerwegondersteunend en praktijkonderwijs)](https://wetten.overheid.nl/jci1.3:c:BWBR0009638&artikel=XXII) (Stb. 337), de [artikelen X, eerste lid, onderdeel b, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007420&artikel=X), en [XI, derde en vijfde lid, van de Wet van 31 mei 1995, houdende wijziging van onder meer de Wet op het voortgezet onderwijs in verband met de invoering van lump-sum-bekostiging voor de personeels- en exploitatiekosten van scholen voor voorbereidend wetenschappelijk onderwijs, algemeen voortgezet onderwijs en voorbereidend beroepsonderwijs, alsmede in verband met decentralisatie van de rechtspositieregeling bij die scholen, behoudens een aantal op centraal niveau vast te stellen onderwerpen (regeling lump sum en decentralisatie rechtspositieregeling v.w.o.-a.v.o.-v.b.o.)](https://wetten.overheid.nl/jci1.3:c:BWBR0007420&artikel=XI) (Stb. 318), [artikel 17, tweede lid, van de Wet van 11 september 1996 tot gemeentelijke herindeling samenwerkingsgebieden Midden-Brabant, Breda en Westelijk Noord-Brabant en in een gedeelte van de samenwerkingsgebieden Zuidoost-Brabant en ’s-Hertogenbosch](https://wetten.overheid.nl/jci1.3:c:BWBR0008231&artikel=17) (Stb. 449), de [artikelen VIIIb](https://wetten.overheid.nl/jci1.3:c:BWBR0009524&artikel=VIIIb) en [VIIIc van de Wet van 2 april 1998, houdende wijziging van de Wet op het hoger onderwijs en wetenschappelijk onderzoek en de Wet op de studiefinanciering ter uitvoering van in het hoger onderwijs- en onderzoekplan 1996 aangekondigde maatregelen](https://wetten.overheid.nl/jci1.3:c:BWBR0009524&artikel=VIIIc) (Stb. 216), [artikel IX van de Wet van 27 februari 1997, houdende wijziging van de Wet op het hoger onderwijs en wetenschappelijk onderzoek in verband met de bestuursorganisatie van en medezeggenschap in universiteiten (modernisering universitaire bestuursorganisatie)](https://wetten.overheid.nl/jci1.3:c:BWBR0008573&artikel=IX) (Stb. 117), [artikel II, onderdeel M, derde lid, van de Wet van 23 mei 1990, houdende wijziging van de Wet op het voortgezet onderwijs inzake sectorvorming en vernieuwing van het middelbaar beroepsonderwijs, alsmede van enige andere wetten](onbekend) (Stb. 266), [artikel XVII van de Wet van 30 mei 2002 tot wijziging van de Wet op het voortgezet onderwijs en een aantal andere wetten in verband met onder meer de invoering van een regeling voor de bekostiging van het leerwegondersteunend onderwijs en het praktijkonderwijs en een regionaal zorgbudget](https://wetten.overheid.nl/jci1.3:c:BWBR0013730&artikel=XVII) (Stb. 288), [artikel IX, tweede lid, van de Wet van 2 april 1998 tot wijziging van enkele onderwijswetten en technische wijziging van enkele andere wetten in verband met het totstandbrengen van onder meer een Wet op het primair onderwijs en een Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&artikel=IX) (Stb. 228) en [artikel 5, zesde lid, van de Wet verzelfstandiging rijksmuseale diensten](https://wetten.overheid.nl/jci1.3:c:BWBR0006030&artikel=5);
@@ -16,7 +41,7 @@ Besluit:
 
 #### § 1. Intrekking van regelingen en besluiten
 
-#### Artikel I. Primair onderwijs
+##### Artikel I. Primair onderwijs
 
 De volgende regelingen en besluiten worden ingetrokken:
 
@@ -240,7 +265,7 @@ De volgende regelingen en besluiten worden ingetrokken:
 
 - fffff. Wijziging programma’s van eisen basisonderwijs en vaststelling bedragen voor 1999.
 
-#### Artikel II. Voortgezet onderwijs
+##### Artikel II. Voortgezet onderwijs
 
 De volgende regelingen en besluiten worden ingetrokken:
 
@@ -548,7 +573,7 @@ De volgende regelingen en besluiten worden ingetrokken:
 
 - vvvvvv. Vrijstellingsregeling examen nieuw vwo/havo naar oud.
 
-#### Artikel III. Beroepsonderwijs en volwasseneneducatie
+##### Artikel III. Beroepsonderwijs en volwasseneneducatie
 
 De volgende regelingen en besluiten worden ingetrokken:
 
@@ -704,7 +729,7 @@ De volgende regelingen en besluiten worden ingetrokken:
 
 - xxx. Tijdelijke regeling steunmaatregelen financiële positie en financieel management bve-instellingen.
 
-#### Artikel IV. Hoger onderwijs
+##### Artikel IV. Hoger onderwijs
 
 De volgende regelingen en besluiten worden ingetrokken:
 
@@ -780,7 +805,7 @@ De volgende regelingen en besluiten worden ingetrokken:
 
 - jj. Vaststelling collegegeld studiejaar 2002–2003.
 
-#### Artikel V. Onderzoek en wetenschapsbeleid
+##### Artikel V. Onderzoek en wetenschapsbeleid
 
 De volgende besluiten worden ingetrokken:
 
@@ -822,7 +847,7 @@ De volgende besluiten worden ingetrokken:
 
 - s. Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen van 19 juli 1997, nr. DWB/CMI-497/14754 tot opheffing van de Stichting voor Onderzoek van het Onderwijs (Stcrt. 188).
 
-#### Artikel VI. Studiefinancieringsbeleid
+##### Artikel VI. Studiefinancieringsbeleid
 
 De volgende regelingen en besluiten worden ingetrokken:
 
@@ -856,7 +881,7 @@ De volgende regelingen en besluiten worden ingetrokken:
 
 - o. Regeling van de Minister van Onderwijs, Cultuur en Wetenschappen van 30 maart 1999, nr. SFB-1999/13377 tot herziening van het cursusgeld voor het cursusjaar 2000–2001 (Stcrt. 63).
 
-#### Artikel VII. Internationaal beleid
+##### Artikel VII. Internationaal beleid
 
 De volgende regelingen en besluiten worden ingetrokken:
 
@@ -866,7 +891,7 @@ De volgende regelingen en besluiten worden ingetrokken:
 
 - c. Subsidieregeling beurzenprogramma DELTA: subsidieplafond 2002.
 
-#### Artikel VIII. Cultuur
+##### Artikel VIII. Cultuur
 
 De volgende regelingen en besluiten worden ingetrokken:
 
@@ -950,7 +975,7 @@ De volgende regelingen en besluiten worden ingetrokken:
 
 - nn. Toelatingsregeling galeries 1996.
 
-#### Artikel IX. Personeelsbeleid
+##### Artikel IX. Personeelsbeleid
 
 De volgende regelingen worden ingetrokken:
 
@@ -970,7 +995,7 @@ De volgende regelingen worden ingetrokken:
 
 - h. Tijdelijke aanvullende stimuleringsregeling ID-banen in het primair en voortgezet onderwijs.
 
-#### Artikel X. Centrale Financiën Instellingen
+##### Artikel X. Centrale Financiën Instellingen
 
 De volgende regelingen en besluiten worden ingetrokken:
 
@@ -1006,7 +1031,7 @@ De volgende regelingen en besluiten worden ingetrokken:
 
 - p. Regeling vaststelling telformulier voor groeiformatie van basisscholen bij toename van het aantal leerlingen.
 
-#### Artikel XI. Overig
+##### Artikel XI. Overig
 
 De volgende regelingen en besluiten worden ingetrokken:
 
@@ -1026,17 +1051,17 @@ De volgende regelingen en besluiten worden ingetrokken:
 
 #### § 2. Overgangs- en slotbepalingen
 
-#### Artikel XII. Overgangsbepaling
+##### Artikel XII. Overgangsbepaling
 
 1. Voor zover er ter zake nog sprake is van enige bestuursrechtelijke afdoening, met inbegrip van bezwaar- en beroepsprocedures, vindt deze overeenkomstig de regelingen, bedoeld in de artikelen I tot en met XI, plaats.
 
 2. Bestaande aanspraken en verplichtingen bij, op grond of in het kader van de regelingen, bedoeld in de artikelen I tot en met XI blijven in stand.
 
-#### Artikel XIII. Inwerkingtreding
+##### Artikel XIII. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 31 december 2004.
 
-#### Artikel XIV. Citeertitel
+##### Artikel XIV. Citeertitel
 
 Deze regeling wordt aangehaald als: OCW-intrekkingsregeling 2004.
 

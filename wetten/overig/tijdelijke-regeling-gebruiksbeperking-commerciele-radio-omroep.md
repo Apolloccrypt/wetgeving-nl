@@ -1,13 +1,39 @@
 ---
-title: "Tijdelijke regeling gebruiksbeperking commerciële radio-omroep"
+title: "Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 13 februari 2020, nr. WJZ/ 19242023, tot vaststelling van tijdelijke regels met betrekking tot de maximale hoeveelheid frequentieruimte bestemd voor commerciële FM-radio-omroep die één rechtspersoon kan gebruiken of verwerven (Tijdelijke regeling gebruiksbeperking commerciële FM-radio-omroep)"
 identifier: "BWBR0043213"
-categorie: "Overig"
-publicatiedatum: 2025-12-24
-laatste_update: 2025-12-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043213"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-12-24"
+last_updated: "2025-12-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043213"
+soort: "ministeriele-regeling"
+stam_id: "15350183"
+version_id: "30159552"
+internal_id: "C43215711"
+label_id: "15295304"
+dtd_version: "2.0"
+original_entry_into_force: "2024-06-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043213/2025-12-24/0"
+intitule_bron: "Stcrt.2020-10066"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-02-13"
+intitule_published: "2020-02-26"
+intitule_in_force: "2020-02-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-18624"
+original_signed_date: "2024-06-07"
+original_published_date: "2024-06-19"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2024-18624"
+entry_into_force_date: "2024-06-07"
+jci_1_3: "jci1.3:c:BWBR0043213&z=2025-12-24&g=2025-12-24"
+jci_1_0: "1.0:c:BWBR0043213&g=2025-12-24"
+citeertitel_status: "officieel"
+short_title: "Tijdelijke regeling gebruiksbeperking commerciële radio-omroep"
+signed_date: "2024-06-07"
+entry_into_force: "2024-06-07"
 ---
-
 # Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 13 februari 2020, nr. WJZ/ 19242023, tot vaststelling van tijdelijke regels met betrekking tot de maximale hoeveelheid frequentieruimte bestemd voor commerciële FM-radio-omroep die één rechtspersoon kan gebruiken of verwerven (Tijdelijke regeling gebruiksbeperking commerciële FM-radio-omroep)
 
 Gelet op [artikel 3.11 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.11);
@@ -16,7 +42,7 @@ Besluit:
 
 Treedt in werking op het tijdstip waarop de wet van 14 maart 2018 tot wijziging van de Telecommunicatiewet en van de Mediawet 2008 (gebruiksbeperking frequentieruimte en digitale radio-omroep) (Stb. 2018, 87) in werking treedt.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -38,11 +64,11 @@ In deze regeling wordt verstaan onder:
 
 - **wet:** [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950).
 
-#### Artikel 2. Toepassingsbereik
+##### Artikel 2. Toepassingsbereik
 
 Deze regeling is van toepassing op frequentieruimte die bestemd is voor commerciële radio-omroep.
 
-#### Artikel 3. Als één aanmerken van twee of meer rechtspersonen
+##### Artikel 3. Als één aanmerken van twee of meer rechtspersonen
 
 Voor de toepassing van [artikel 3.11, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.11), worden twee of meer rechtspersonen als één rechtspersoon aangemerkt, als:
 
@@ -50,39 +76,39 @@ Voor de toepassing van [artikel 3.11, tweede lid, van de wet](https://wetten.ove
 
 - b. een natuurlijk persoon of groep van natuurlijke personen direct of indirect een zodanige zeggenschap of feitelijke invloed heeft in twee of meer rechtspersonen dat deze in belangrijke mate het beleid van die rechtspersonen kan bepalen of aanmerkelijke invloed heeft op de inhoud van dat beleid.
 
-#### Artikel 4. Maximum landelijke FM-omroep
+##### Artikel 4. Maximum landelijke FM-omroep
 
 Voor de uitzending via de FM-band van radioprogramma’s, andere dan bedoeld in [artikel 7, eerste lid, van de Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=7), door één rechtspersoon, worden ten hoogste drie FM-frequenties of samenstellen van FM-frequenties gebruikt of verworven.
 
-#### Artikel 5. Maximum niet-landelijke omroep
+##### Artikel 5. Maximum niet-landelijke omroep
 
 1. Voor de uitzending via de FM-band van radioprogramma’s als bedoeld in [artikel 7, eerste lid, van de Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=7), door één rechtspersoon, wordt ten hoogste een hoeveelheid frequentieruimte gebruikt of verworven waarvan het demografisch bereik van de desbetreffende FM-frequenties of samenstellen van FM-frequenties tezamen niet meer bedraagt dan 30 procent.
 
 2. Het demografisch bereik van in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043213&bijlage=1&z=2025-12-24&g=2025-12-24), tabel 2, genoemde allotments waarin één rechtspersoon vergunningen verwerft of gebruikt, bedraagt tezamen niet meer dan 50 procent.
 
-#### Artikel 6. Inwerkingtreding
+##### Artikel 6. Inwerkingtreding
 
 Deze regeling treedt in werking op het tijdstip waarop de wet van 14 maart 2018 tot wijziging van de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) en van de [Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028) (gebruiksbeperking frequentieruimte en digitale radio-omroep) (Stb. 2018, 87) in werking treedt en vervalt op een door de Minister van Economische Zaken en Klimaat te bepalen tijdstip.
 
-#### Artikel 7. Citeertitel
+##### Artikel 7. Citeertitel
 
 Deze regeling wordt aangehaald als: Tijdelijke regeling gebruiksbeperking commerciële radio-omroep.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 5a. Maximum allotment 9C
+##### Artikel 5a. Maximum allotment 9C
 
 In allotment 9C bedraagt de maximale hoeveelheid frequentieruimte per rechtspersoon: vier vergunningen voor het gebruik van 1/12e deel van de capaciteit van de multiplex.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3a. Scheiding commerciële radio-omroepmarkten
+##### Artikel 3a. Scheiding commerciële radio-omroepmarkten
 
 Eén rechtspersoon gebruikt of verwerft slechts frequentieruimte uit één van de categorieën, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043213&bijlage=1&z=2025-12-24&g=2025-12-24).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3b. Overgangsrecht scheiding commerciële radio-markten
+##### Artikel 3b. Overgangsrecht scheiding commerciële radio-markten
 
 [Artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0043213&artikel=3a&z=2025-12-24&g=2025-12-24), zoals dat luidde vóór inwerkingtreding van de [Regeling aanvraag- en veilingprocedure digitale radio-omroep DAB laag 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049835) blijft van toepassing op frequentieruimte die door een rechtspersoon is verkregen of werd gebruikt vóór inwerkingtreding van de Regeling aanvraag- en veilingprocedure digitale radio-omroep DAB laag 6.
 

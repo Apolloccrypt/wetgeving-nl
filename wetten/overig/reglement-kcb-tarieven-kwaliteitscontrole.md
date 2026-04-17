@@ -1,32 +1,57 @@
 ---
 title: "Reglement KCB tarieven kwaliteitscontrole"
 identifier: "BWBR0019172"
-categorie: "Overig"
-publicatiedatum: 2006-01-01
-laatste_update: 2006-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019172"
+country: "nl"
+rank: "zbo"
+publication_date: "2006-01-01"
+last_updated: "2006-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019172"
+soort: "zbo"
+stam_id: "7920923"
+version_id: "12784852"
+internal_id: "C17242891"
+label_id: "7908584"
+dtd_version: "2.0"
+original_entry_into_force: "2006-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019172/2006-01-01/0"
+intitule_bron: "Stcrt.2006-18"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-12-06"
+intitule_published: "2006-01-25"
+intitule_in_force: "2006-01-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-18"
+original_signed_date: "2005-12-06"
+original_published_date: "2006-01-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-18-p22-SC73551"
+entry_into_force_date: "2006-01-01"
+jci_1_3: "jci1.3:c:BWBR0019172&z=2006-01-01&g=2006-01-01"
+jci_1_0: "1.0:c:BWBR0019172&g=2006-01-01"
+citeertitel_status: "officieel"
+signed_date: "2005-12-06"
+entry_into_force: "2006-01-01"
 ---
-
 # Reglement KCB tarieven kwaliteitscontrole
 
 Het bestuur van de Stichting Kwaliteits-Controle-Bureau voor Groenten en Fruit (KCB) heeft, gelet op [artikel 11 van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=11), op 6 december 2005 het volgende reglement vastgesteld.
 
 De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
-#### Artikel 1
+##### Artikel 1
 
 De ‘[Regeling KCB tarieven certificaten](https://wetten.overheid.nl/jci1.3:c:BWBR0010491)’, die op 11 mei 1999 door het bestuur is vastgesteld en bij besluit van 7 juli 1999 (no. TRCJZ/1999/6436) door de minister van het toenmalige ministerie van Landbouw, Natuurbeheer en Visserij is goedgekeurd en is gepubliceerd in de Staatscourant van 9 augustus 1999, wordt ingetrokken. Daarvoor in de plaats komt de voorliggende ‘Reglement KCB tarieven kwaliteitscontrole’.
 
-#### Artikel 2
+##### Artikel 2
 
 In dit reglement worden de definities en begrippen gebruikt overeenkomstig het gestelde in [artikel 1 van het Controlereglement van het KCB](https://wetten.overheid.nl/jci1.3:c:BWBR0005820&artikel=1) en artikel 1 van het Reglement Interne Kwaliteitscontrole (RIK) van het KCB, die zijn vastgesteld door het bestuur van het KCB in de vergadering van 8 november 2004 en 15 maart 2005 en bij besluit van 17 maart 2005, nr. TRCJZ/2005/581 zijn goedgekeurd door de minister van Landbouw, Natuur en Voedselkwaliteit.
 
-#### Artikel 3
+##### Artikel 3
 
 Als vergoeding voor het certificaat als bedoeld in artikel 5, lid 2, van de Verordening, het waarmerken daarvan en de steekproefsgewijze inspectie van de (re)exportzending waarop het betreffende certificaat betrekking heeft, wordt € 16,85 per certificaat in rekening gebracht in het geval het bedrijf, ten behoeve waarvan het certificaat wordt gewaarmerkt, deelnemer is aan het RIK.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Als vergoeding voor het certificaat als bedoeld in artikel 5, lid 2 van de Verordening en het waarmerken daarvan ten behoeve van een bedrijf dat geen deelnemer is aan het RIK wordt € 5,35 per certificaat in rekening gebracht.
 
@@ -52,7 +77,7 @@ Als vergoeding voor het certificaat als bedoeld in artikel 5, lid 2, van de Vero
 
 - b. € 421,58 indien het de inspectiewerkzaamheden in het tweede lid, onder b en c, betreft.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Als vergoeding voor de kosten van het uitvoeren van een bedrijfsaudit, als bedoeld in artikel 5.2.3 en artikel 5.5 van het Reglement Interne Kwaliteitscontrole, en die in het eerste jaar van deelname halfjaarlijks en daarna jaarlijks wordt uitgevoerd, wordt € 561,25 per bedrijfsaudit in rekening gebracht.
 
@@ -60,14 +85,14 @@ Als vergoeding voor het certificaat als bedoeld in artikel 5, lid 2, van de Vero
 
 3. In het geval een tussentijdse bedrijfsaudit, als bedoeld in artikel 5.5.2 van het Reglement Interne Kwaliteitscontrole, wordt verricht, wordt als vergoeding € 561,25 in rekening gebracht.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit reglement kan worden aangehaald als ‘Reglement KCB tarieven kwaliteitscontrole’.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit reglement treedt in werking op 1 januari 2006.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit reglement wordt in de Staatscourant geplaatst.

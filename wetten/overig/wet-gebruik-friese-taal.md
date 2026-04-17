@@ -1,14 +1,41 @@
 ---
-title: "Wet gebruik Friese taal"
+title: "Wet van 2 oktober 2013, houdende regels met betrekking tot het gebruik van de Friese taal in het bestuurlijk verkeer en in het rechtsverkeer (Wet gebruik Friese taal)"
 identifier: "BWBR0034047"
-categorie: "Overig"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034047"
+country: "nl"
+rank: "wet"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034047"
+soort: "wet"
+stam_id: "12401603"
+version_id: "20811372"
+internal_id: "C30110511"
+label_id: "12372904"
+dtd_version: "2.0"
+original_entry_into_force: "2014-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034047/2024-01-01/0"
+intitule_bron: "Stb.2013-382"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-10-02"
+intitule_published: "2013-10-17"
+intitule_in_force: "2013-12-12"
+intitule_status: "goed"
+original_publication: "Stb.2013-382"
+original_signed_date: "2013-10-02"
+original_published_date: "2013-10-17"
+original_effect: "nieuwe-regeling"
+original_dossier: "33335"
+original_url_id: "stb-2013-382"
+entry_into_force_date: "2014-01-01"
+jci_1_3: "jci1.3:c:BWBR0034047&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0034047&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet gebruik Friese taal"
+signed_date: "2013-10-02"
+entry_into_force: "2014-01-01"
 ---
-
-# Wet gebruik Friese taal
+# Wet van 2 oktober 2013, houdende regels met betrekking tot het gebruik van de Friese taal in het bestuurlijk verkeer en in het rechtsverkeer (Wet gebruik Friese taal)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,33 +45,33 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet wordt verstaan onder Onze Minister: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
-#### Artikel 2
+##### Artikel 2
 
 De officiële talen in de provincie Fryslân zijn het Nederlands en het Fries.
 
-#### Artikel 2a
+##### Artikel 2a
 
 Gelet op de gezamenlijke verantwoordelijkheid en zorgplicht voor de Friese taal en cultuur maken het Rijk en de provincie Fryslân periodiek bestuursafspraken ter uitwerking van de verantwoordelijkheid inzake de Friese taal en cultuur. Vanwege de internationale verdragsafspraken op dit terrein kunnen de bestuursafspraken ook voor de Friese taal en cultuur relevante beleidsterreinen omvatten die liggen buiten het gebruik van de Friese taal in het bestuurlijk verkeer en in het rechtsverkeer.
 
 ### Hoofdstuk 2. Gebruik van de Friese taal in het bestuurlijk verkeer
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een ieder kan de Friese taal gebruiken in het verkeer met bestuursorganen, voor zover deze in de provincie Fryslân zijn gevestigd, alsmede met de onder hun verantwoordelijkheid werkzame personen.
 
 2. Het eerste lid geldt niet indien het bestuursorgaan heeft verzocht de Nederlandse taal te gebruiken op de grond dat het gebruik van de Friese taal tot een onevenredige belasting van het bestuurlijk verkeer zou leiden.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Bestuursorganen en de onder hun verantwoordelijkheid werkzame personen kunnen in het verkeer binnen de provincie Fryslân de Friese taal gebruiken.
 
 2. Het eerste lid geldt niet indien een wederpartij heeft verzocht de Nederlandse taal te gebruiken op de grond dat het gebruik van de Friese taal tot een onbevredigend verloop van het mondeling verkeer zou leiden.
 
-#### Artikel 5
+##### Artikel 5
 
 1. In de provincie Fryslân gevestigde bestuursorganen die niet tot de centrale overheid behoren, stellen regels op over het gebruik van de Friese taal in schriftelijke stukken en in het mondeling verkeer. De regels bevatten in ieder geval bepalingen gericht op het versterken van de positie van de Friese taal binnen het werkgebied van het betreffende bestuursorgaan.
 
@@ -54,13 +81,13 @@ Gelet op de gezamenlijke verantwoordelijkheid en zorgplicht voor de Friese taal 
 
 4. Bestuursorganen die niet tot de centrale overheid behoren en die niet in de provincie Fryslân gevestigd zijn, waarvan het werkterrein zich uitstrekt tot de provincie Fryslân of een deel daarvan, kunnen regels stellen over het gebruik van de Friese taal, in het bijzonder in schriftelijke stukken.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Onze Minister die het aangaat, kan voor onderdelen van de centrale overheid waarvan het werkterrein zich uitstrekt tot de provincie Fryslân of een deel daarvan, regels stellen over het gebruik van de Friese taal in schriftelijke stukken en in het mondeling verkeer.
 
 2. Ter uitvoering van het eerste lid kan een onderdeel van de centrale overheid een beleidsplan opstellen inzake het gebruik van de Friese taal.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Een schriftelijk stuk in de Friese taal wordt tevens in de Nederlandse taal opgesteld, indien het:
 
@@ -70,7 +97,7 @@ Gelet op de gezamenlijke verantwoordelijkheid en zorgplicht voor de Friese taal 
 
 2. De bekendmaking, mededeling of terinzagelegging van een schriftelijk stuk als bedoeld in het eerste lid geschiedt in ieder geval ook in de Nederlandse taal, tenzij redelijkerwijs kan worden aangenomen dat daaraan geen behoefte bestaat.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Indien een schriftelijk stuk in de Friese taal is opgesteld, verstrekt het bestuursorgaan daarvan op verzoek een vertaling in de Nederlandse taal.
 
@@ -86,7 +113,7 @@ Gelet op de gezamenlijke verantwoordelijkheid en zorgplicht voor de Friese taal 
 
 - b. een besluit of andere handeling inhoudt waarbij de verzoeker belanghebbende is.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Een ieder kan in vergaderingen van in de provincie Fryslân gevestigde vertegenwoordigende organen de Friese taal gebruiken.
 
@@ -94,7 +121,7 @@ Gelet op de gezamenlijke verantwoordelijkheid en zorgplicht voor de Friese taal 
 
 ### Hoofdstuk 3. Gebruik van de Friese taal in het rechtsverkeer
 
-#### Artikel 10
+##### Artikel 10
 
 1. Hij die ter uitvoering van een wettelijk voorschrift mondeling een eed, belofte of bevestiging moet afleggen, is bevoegd in plaats van de wettelijk voorgeschreven woorden de daarmede in de Friese taal overeenkomende woorden uit te spreken.
 
@@ -106,11 +133,11 @@ Gelet op de gezamenlijke verantwoordelijkheid en zorgplicht voor de Friese taal 
 
 - c. indien een bevestiging wordt afgelegd, voor de woorden: «Dat verklaar ik» in de plaats de woorden: «Dat ferklearje ik».
 
-#### Artikel 11
+##### Artikel 11
 
 Een persoon die in de provincie Fryslân woont, feitelijk verblijf houdt of zetel heeft en die ter terechtzitting bij de rechtbank Noord-Nederland of het gerechtshof Arnhem-Leeuwarden van ambtswege het woord voert dan wel verplicht is zich aan een verhoor te onderwerpen of bevoegd is het woord te voeren, is bevoegd zich te bedienen van de Friese taal.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Indien een verdachte, partij, getuige of belanghebbende zich ter terechtzitting op de voet van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0034047&hoofdstuk=3&artikel=11&z=2024-01-01&g=2024-01-01) wil bedienen van de Friese taal, bepaalt de rechter die de leiding van de zitting heeft ambtshalve of op verzoek zonodig dat bijstand wordt verleend door een tolk. [Artikel 276 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=276) is van toepassing indien het onderzoek ter terechtzitting plaatsvindt in het kader van een strafzaak.
 
@@ -118,17 +145,17 @@ Een persoon die in de provincie Fryslân woont, feitelijk verblijf houdt of zete
 
 3. In afwijking van het tweede lid kan de rechter bepalen dat in een civiele zaak de vergoeding aan de tolk ten laste komt van degene op wiens verzoek bijstand door een tolk wordt verleend, indien achteraf blijkt dat de kosten voor bijstand door een tolk, nodeloos zijn aangewend.
 
-#### Artikel 13
+##### Artikel 13
 
 Indien een verdachte of getuige zich ter terechtzitting in een strafzaak buiten de gevallen bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0034047&hoofdstuk=3&artikel=11&z=2024-01-01&g=2024-01-01) wil bedienen van de Friese taal en aannemelijk maakt dat hij zich in het Nederlands onvoldoende kan uitdrukken, bepaalt de rechter die de leiding van de zitting heeft, indien hij zulks wenselijk acht, dat bijstand wordt verleend door een tolk.[Artikel 276 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=276) is van toepassing.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Hetgeen in de Friese taal is gesproken wordt, indien het in het proces-verbaal wordt opgenomen, in die taal vermeld. De rechter kan bepalen dat een vertaling in het Nederlands wordt gemaakt.
 
 2. Indien ingevolge [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0034047&hoofdstuk=3&artikel=13&z=2024-01-01&g=2024-01-01) in een strafzaak gebruik is gemaakt van de Friese taal, vindt opneming in het proces-verbaal in het Nederlands plaats en wordt daarin aangetekend dat de Friese taal is gebezigd.
 
-#### Artikel 15
+##### Artikel 15
 
 1. In strafzaken, civiele zaken en bestuursrechtelijke zaken die aanhangig zijn bij de rechtbank Noord-Nederland of het gerechtshof Arnhem-Leeuwarden, mogen processtukken, met uitzondering van dagvaardingen in strafzaken, in de Friese taal worden gesteld.
 
@@ -140,7 +167,7 @@ Indien een verdachte of getuige zich ter terechtzitting in een strafzaak buiten 
 
 5. In afwijking van het vierde lid kan de rechter bepalen dat in een civiele zaak de kosten van een vertaling ten laste komen van de bij de zaak betrokkene die om de vertaling in het Nederlands heeft verzocht, indien achteraf blijkt dat de kosten nodeloos zijn aangewend.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Indien stukken of opgaven, welke ingevolge wettelijk voorschrift in openbare registers moeten worden ingeschreven, in de Friese taal zijn gesteld, wordt tevens de overlegging gevorderd van getrouwe vertalingen in het Nederlands, vervaardigd en voor overeenstemmend verklaard door een voor de Friese taal als bevoegd toegelaten beëdigde vertaler of, indien de inschrijving betrekking heeft op een notariële akte, door de notaris, die de akte heeft verleden.
 
@@ -150,7 +177,7 @@ Indien een verdachte of getuige zich ter terechtzitting in een strafzaak buiten 
 
 4. In afwijking van het eerste lid worden in de provincie Fryslân akten van de burgerlijke stand zowel in de Friese taal als in het Nederlands opgemaakt.
 
-#### Artikel 17
+##### Artikel 17
 
 1. In alle gevallen, waarin een ontwerp van een akte de goedkeuring behoeft van een rechter, kan de definitieve akte in de Friese taal worden opgemaakt, mits daaronder wordt gesteld een verklaring van een voor de Friese taal als bevoegd toegelaten beëdigde vertaler waaruit blijkt, dat de akte een getrouwe vertaling is van het door de rechter goedgekeurde ontwerp. Wordt de akte notarieel verleden, dan kan de verklaring van de beëdigde vertaler worden vervangen door een verklaring van de notaris, die de akte verlijdt.
 
@@ -158,13 +185,13 @@ Indien een verdachte of getuige zich ter terechtzitting in een strafzaak buiten 
 
 ### Hoofdstuk 4. Instelling Orgaan voor de Friese taal
 
-#### Artikel 18
+##### Artikel 18
 
 1. Er is een Orgaan voor de Friese taal, hierna te noemen: het Orgaan.
 
 2. Het Orgaan is gevestigd te Leeuwarden.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Het Orgaan heeft tot taak de gelijke positie van de Friese taal en de Nederlandse taal in de provincie Fryslân te bevorderen.
 
@@ -190,7 +217,7 @@ Indien een verdachte of getuige zich ter terechtzitting in een strafzaak buiten 
 
 3. De in het tweede lid, onder a, onder 1° tot en met 4°, genoemde bestuursorganen en instanties sturen binnen drie maanden na ontvangst van de rapportage een reactie aan het Orgaan op de aan hen gerichte rapportage.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Het Orgaan bestaat uit vijf leden, onder wie een voorzitter en een vicevoorzitter.
 
@@ -198,7 +225,7 @@ Indien een verdachte of getuige zich ter terechtzitting in een strafzaak buiten 
 
 3. Het Orgaan kan waarnemers toelaten.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Het Orgaan heeft een secretaris.
 
@@ -210,67 +237,67 @@ Indien een verdachte of getuige zich ter terechtzitting in een strafzaak buiten 
 
 5. Onze Minister benoemt, bevordert, schorst en ontslaat, na overleg met de voorzitter van het Orgaan, de secretaris en de andere medewerkers.
 
-#### Artikel 22
+##### Artikel 22
 
 Het Orgaan voert de in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0034047&hoofdstuk=4&artikel=19&z=2024-01-01&g=2024-01-01) genoemde taken uit op basis van een tweejaarlijks werkprogramma, dat na overleg met Onze Minister wordt opgesteld.
 
-#### Artikel 23
+##### Artikel 23
 
 Het beheer van de bescheiden betreffende de werkzaamheden van het Orgaan geschiedt met inachtneming van de beheersregels en het bepaalde bij en krachtens de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376). De bescheiden worden na het beëindigen van de werkzaamheden overgedragen aan het archief van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
 ### Hoofdstuk 5. Opneming van de Friese formuleringen inzake eed en belofte in overige wetgeving
 
-#### Artikel 24
+##### Artikel 24
 
 Wijzigt de Advocatenwet.
 
-#### Artikel 25
+##### Artikel 25
 
 Wijzigt het Burgerlijk Wetboek Boek 1.
 
-#### Artikel 26
+##### Artikel 26
 
 Wijzigt de Gerechtsdeurwaarderswet.
 
-#### Artikel 27
+##### Artikel 27
 
 Wijzigt de Wet beëdigde tolken en vertalers.
 
-#### Artikel 28
+##### Artikel 28
 
 Wijzigt de Wet op de rechterlijke organisatie.
 
-#### Artikel 29
+##### Artikel 29
 
 Wijzigt de Wet op het notarisambt.
 
-#### Artikel 30
+##### Artikel 30
 
 Wijzigt de Wet rechtspositie rechterlijke ambtenaren.
 
 ### Hoofdstuk 6. Slotbepalingen
 
-#### Artikel 31
+##### Artikel 31
 
 Onze Minister draagt zorg voor een vertaling in de Friese taal van deze wet en van de krachtens deze wet vastgestelde regelingen en doet daarvan mededeling door plaatsing in de Staatscourant.
 
-#### Artikel 31a
+##### Artikel 31a
 
 De [artikelen 2:7 tot en met 2:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:10) vervallen.
 
-#### Artikel 32
+##### Artikel 32
 
 De [Wet gebruik Friese taal in het rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002219) wordt ingetrokken.
 
-#### Artikel 33
+##### Artikel 33
 
 Wijzigt deze wet.
 
-#### Artikel 34
+##### Artikel 34
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 35
+##### Artikel 35
 
 Deze wet wordt aangehaald als: Wet gebruik Friese taal.
 

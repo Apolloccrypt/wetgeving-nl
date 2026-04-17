@@ -1,13 +1,38 @@
 ---
 title: "Inkomstenregeling burgerlijke ambtenaren defensie"
 identifier: "BWBR0039881"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2025-12-25
-laatste_update: 2025-12-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039881"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-12-25"
+last_updated: "2025-12-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039881"
+soort: "ministeriele-regeling"
+stam_id: "14129513"
+version_id: "24300082"
+internal_id: "C34883551"
+label_id: "14090864"
+dtd_version: "2.0"
+original_entry_into_force: "2005-05-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039881/2025-12-25/0"
+intitule_bron: "Stcrt.2017-46304"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-05-09"
+intitule_published: "2017-08-15"
+intitule_in_force: "2017-08-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-46304"
+original_signed_date: "2005-05-09"
+original_published_date: "2017-08-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-46304"
+entry_into_force_date: "2005-05-11"
+jci_1_3: "jci1.3:c:BWBR0039881&z=2025-12-25&g=2025-12-25"
+jci_1_0: "1.0:c:BWBR0039881&g=2025-12-25"
+citeertitel_status: "officieel"
+signed_date: "2005-05-09"
+entry_into_force: "2005-05-11"
 ---
-
 # Inkomstenregeling burgerlijke ambtenaren defensie
 
 De Staatssecretaris van Defensie
@@ -18,7 +43,7 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -30,11 +55,11 @@ In deze regeling wordt verstaan onder:
 
 - d. **groep 3:** de ambtenaar die niet behoort tot groep 1 of groep 2.
 
-#### Artikel 2. Commandant
+##### Artikel 2. Commandant
 
 Als commandant, bedoeld in [artikel 1, onderdeel d, van het IBBAD](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=1), wordt aangewezen de functionaris genoemd in de Regeling aanwijzing commandanten defensie, ieder voor de onder hem ressorterende ambtenaren.
 
-#### Artikel 3. Vaststelling pensioengevend inkomen
+##### Artikel 3. Vaststelling pensioengevend inkomen
 
 Het pensioengevend inkomen bestaat uit:
 
@@ -70,7 +95,7 @@ Het pensioengevend inkomen bestaat uit:
 
 ### Hoofdstuk 2. Toelagen voor risico’s, inconveniënten en functiegebonden werkzaamheden
 
-#### Artikel 4. Toelage munitieruimen
+##### Artikel 4. Toelage munitieruimen
 
 1. In dit artikel wordt verstaan onder:
 
@@ -118,7 +143,7 @@ Het pensioengevend inkomen bestaat uit:
 
 4. Aanspraak op de toelage, bedoeld in het derde lid, heeft ook de ambtenaar die zich in opdracht van de commandant in een ruimte bevindt waarin te zelfder tijd tot de in het eerste lid behorende werkzaamheden worden verricht, indien dat met het oog op die werkzaamheden noodzakelijk is.
 
-#### Artikel 5. Toelage bezwarende arbeidsomstandigheden
+##### Artikel 5. Toelage bezwarende arbeidsomstandigheden
 
 1. In dit artikel wordt verstaan onder:
 
@@ -174,7 +199,7 @@ Het pensioengevend inkomen bestaat uit:
 
 - c. van 200% voor het werken onder bezwarende omstandigheden boven 600 uur per jaar.
 
-#### Artikel 5a. Bindingspremie
+##### Artikel 5a. Bindingspremie
 
 1. De bindingspremie, bedoeld in [artikel 47 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=47), heeft een tijdelijk karakter en wordt voor een periode van ten hoogste vijf jaar toegekend. De aanspraak op de premie ontstaat eerst na afloop van de periode waarvoor de bindingspremie is toegekend.
 
@@ -192,11 +217,11 @@ Het pensioengevend inkomen bestaat uit:
 
 8. Indien de billijkheid dat vordert kan het hoofd defensieonderdeel gehele of gedeeltelijke ontheffing van de terugbetalingsverplichting vaststellen. Hiervan is in elk geval sprake indien het ontslag het gevolg is van omstandigheden die niet aan de ambtenaar te wijten zijn.
 
-#### Artikel 5b. Samenloop functioneringstoelage, bindingspremie
+##### Artikel 5b. Samenloop functioneringstoelage, bindingspremie
 
 Bij toekenning van een aanspraak op een wervingstoelage als bedoeld in [artikel 18 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=18), een functioneringstoelage, als bedoeld in [artikel 46 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=46), een bindingspremie, als bedoeld in [artikel 47 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=47), of een beloning, als bedoeld in [artikel 45 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=45), bedraagt de totale waarde van die aanspraken, gerekend over de voorafgaande 12 maanden, maximaal 40% van het tot een jaarbedrag herleide salaris in de maand van de toekenning.
 
-#### Artikel 6. Duiktoelage
+##### Artikel 6. Duiktoelage
 
 1. De ambtenaar die als duiker of leerling-duiker een dienstopdracht buiten een onderwaterlaboratorium in het water of onder water uitvoert, heeft aanspraak op een toelage, waarvan het bedrag wordt vastgesteld met toepassing van [tabel 14 van de Inkomstenregeling militairen](onbekend) en de groepsindeling, zoals vermeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=1&artikel=1&z=2025-12-25&g=2025-12-25).
 
@@ -208,7 +233,7 @@ Bij toekenning van een aanspraak op een wervingstoelage als bedoeld in [artikel 
 
 3. De in [tabel 14 van de Inkomstenregeling militairen](onbekend) genoemde bedragen worden verdubbeld, indien de diensten, bedoeld in het eerste lid, worden verricht binnen de poolcirkel of in het tijdvak van 1 oktober tot en met 30 april in de gematigde luchtstreken. Het vorenstaande is niet van toepassing bij het verrichten van die diensten in water dat kunstmatig op temperatuur is gebracht.
 
-#### Artikel 6a. Toelage verblijf onderwaterlaboratorium
+##### Artikel 6a. Toelage verblijf onderwaterlaboratorium
 
 1. In dit artikel wordt verstaan onder onderwaterlaboratorium: een in het water neergelaten toestel waarin de druk gelijk kan worden gemaakt aan de omgevende waterdruk en waarin zodanige voorzieningen zijn aangebracht dat één of meerdere personen daarin gedurende langere tijd en zonder gebruikmaking van ademhalingsapparatuur kunnen verblijven.
 
@@ -230,7 +255,7 @@ Bij toekenning van een aanspraak op een wervingstoelage als bedoeld in [artikel 
 
 5. De wijze van berekenen van de toelage, bedoeld in het tweede lid, voor de tijd, bedoeld in het vierde lid, onder b, heeft geen invloed op de aanspraak van de ambtenaar op de duiktoelage, bedoeld in [artikel 15 van de Inkomstenregeling militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&artikel=15).
 
-#### Artikel 6b. Toelage verblijf recompressietoestel
+##### Artikel 6b. Toelage verblijf recompressietoestel
 
 1. De ambtenaar, die in opdracht van de commandant voor het verrichten of ondergaan van een keuring, een medische behandeling of een proefneming moet verblijven in een recompressietoestel waarin de druk is verhoogd, heeft aanspraak op een toelage, waarvan het bedrag wordt vastgesteld met toepassing van [tabel 16 van de Inkomstenregeling militairen](onbekend).
 
@@ -240,7 +265,7 @@ Bij toekenning van een aanspraak op een wervingstoelage als bedoeld in [artikel 
 
 - b. een tijd van een halve minuut of minder verwaarloosd en een tijd van meer dan een halve minuut aangemerkt als een volle minuut.
 
-#### Artikel 7. Toelage meerdaagse dienstreis ZZF
+##### Artikel 7. Toelage meerdaagse dienstreis ZZF
 
 1. In dit artikel wordt verstaan onder:
 
@@ -258,7 +283,7 @@ Bij toekenning van een aanspraak op een wervingstoelage als bedoeld in [artikel 
 
 3. De ambtenaar heeft aanspraak op € 55,74 voor iedere ZZF-dag waarop aan de in het tweede lid bedoelde voorwaarden zijn voldaan.
 
-#### Artikel 7a. Vlieggeld
+##### Artikel 7a. Vlieggeld
 
 1. In dit artikel wordt verstaan onder:
 
@@ -294,13 +319,13 @@ Bij toekenning van een aanspraak op een wervingstoelage als bedoeld in [artikel 
 
 8. Het hoofd defensieonderdeel kan maxima stellen aan het aantal vlieguren dat wordt vergolden met vlieggeld of bijzonder vlieggeld.
 
-#### Artikel 7b. Toelage parachutespringen
+##### Artikel 7b. Toelage parachutespringen
 
 De ambtenaar met een Nederlands militair parachutistenbrevet, of in opleiding daarvoor, heeft, indien hij in opdracht van de commandant een conditiesprong, onderscheidenlijk oefensprong met een parachute uit een vliegtuig of luchtballon tijdens de vlucht maakt, aanspraak op een toelage, waarvan het bedrag wordt vastgesteld met toepassing van tabel 9 van de Inkomstenregeling militairen.
 
 ### Hoofdstuk 3. Uitkeringen
 
-#### Artikel 8. Diensttijdgratificatie
+##### Artikel 8. Diensttijdgratificatie
 
 1. De commandant kent aan de ambtenaar een diensttijdgratificatie toe bij het bereiken van een diensttijd bij de overheid van 12½, 25, 40 of 50 jaar trouwe dienst. De gratificatie bedraagt 25% van de maandelijkse bezoldiging bij een 12½-jarig ambtsjubileum, 75% van de maandelijkse bezoldiging bij een 25-jarig ambtsjubileum en 100% van de maandelijkse bezoldiging bij een 40- en bij een 50-jarig ambtsjubileum, naar boven af te ronden op een veelvoud van € 2,50.
 
@@ -344,7 +369,7 @@ De ambtenaar met een Nederlands militair parachutistenbrevet, of in opleiding da
 
 13. Indien de ambtenaar, na een aantal jaren en maanden te hebben gewerkt in een voltijdaanstelling tegen de daarbij behorende volledige bezoldiging is gaan werken in een deeltijdaanstelling, wordt bij het bereiken van het vereiste aantal jaren van 12½, 25, 40 of 50 de gratificatie berekend naar het aantal jaren en maanden dat in een voltijdaanstelling en het aantal jaren en maanden dat in deeltijdaanstelling is gewerkt. Voor de berekening van de jaren en maanden gewerkt in een voltijdaanstelling wordt gerekend met de voltijdbezoldiging dat zou behoren bij de aanstelling op de datum van het ambtsjubileum. Voor de overige jaren en maanden dat in een deeltijdaanstelling is gewerkt wordt gerekend met de werkelijk geldende deeltijdbezoldiging op de datum van het ambtsjubileum.
 
-#### Artikel 9. Proportionele diensttijdgratificatie
+##### Artikel 9. Proportionele diensttijdgratificatie
 
 1. De commandant kent aan de ambtenaar een proportionele diensttijdgratificatie toe, indien de ambtenaar wordt ontslagen met toepassing van één van de volgende artikelen uit het [Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040):
 
@@ -374,11 +399,11 @@ De ambtenaar met een Nederlands militair parachutistenbrevet, of in opleiding da
 
 ### Hoofdstuk 4. Kostentegemoetkomingen
 
-#### Artikel 10. Tegemoetkoming ziektekostenverzekering
+##### Artikel 10. Tegemoetkoming ziektekostenverzekering
 
 [Vervallen]
 
-#### Artikel 11. Tegemoetkoming in de kosten van representatie
+##### Artikel 11. Tegemoetkoming in de kosten van representatie
 
 1. Voor de toepassing van dit artikel wordt verstaan onder representatie:
 
@@ -398,7 +423,7 @@ het op formele wijze ontvangen en bezoeken van zakenrelaties met het oogmerk de 
 
 - b. voor de overige landen: € 7,67.
 
-#### Artikel 12. Tegemoetkoming in de kosten van recepties
+##### Artikel 12. Tegemoetkoming in de kosten van recepties
 
 1. De ambtenaar die een receptie houdt ter gelegenheid van:
 
@@ -410,7 +435,7 @@ het op formele wijze ontvangen en bezoeken van zakenrelaties met het oogmerk de 
 
 2. De ambtenaar die met toestemming van het hoofd defensieonderdeel voor de gelegenheden bedoeld in het eerste lid, functionarissen uitnodigt die werkzaam zijn buiten het eigen defensieonderdeel waarmee hij, uit hoofde van zijn functie, veelvuldige en intensieve zakelijke contacten onderhoudt, kan aanspraak maken op een tegemoetkoming in de daaraan verbonden kosten tot een maximumbedrag van € 8,44 per genodigde.
 
-#### Artikel 13. Maaltijdvergoeding bij overwerk
+##### Artikel 13. Maaltijdvergoeding bij overwerk
 
 1. In dit artikel wordt verstaan onder:
 
@@ -428,7 +453,7 @@ het op formele wijze ontvangen en bezoeken van zakenrelaties met het oogmerk de 
 
 4. Deze regeling is niet van toepassing voor zover een andere regeling in een vergoeding van de in deze regeling bedoelde kosten voorziet.
 
-#### Artikel 14. Telefoonkostenvergoeding
+##### Artikel 14. Telefoonkostenvergoeding
 
 1. De ambtenaar heeft aanspraak op een gehele of gedeeltelijke vergoeding van de kosten verbonden aan het bezit dan wel het gebruik van een privé-telefoonaansluiting voor dienstdoeleinden indien naar het oordeel van de commandant de ambtenaar aannemelijk heeft gemaakt dat de telefoonaansluiting voor meer dan 10% wordt gebruikt voor dienstdoeleinden.
 
@@ -440,11 +465,11 @@ het op formele wijze ontvangen en bezoeken van zakenrelaties met het oogmerk de 
 
 - 2°. 50% bij regelmatig gebruik (enkele uitgaande diensttelefoongesprekken per dag) van de privé-telefoonaansluiting voor dienstdoeleinden.
 
-#### Artikel 14a. Internetkostenvergoeding
+##### Artikel 14a. Internetkostenvergoeding
 
 Vervallen
 
-#### Artikel 14b. Tegemoetkoming in de extra kosten voor zorg voor jonge kinderen tijdens inzet
+##### Artikel 14b. Tegemoetkoming in de extra kosten voor zorg voor jonge kinderen tijdens inzet
 
 1. In dit artikel wordt verstaan onder:
 
@@ -466,11 +491,11 @@ Vervallen
 
 ### Hoofdstuk 5. Inhoudingen
 
-#### Artikel 15. Woningen
+##### Artikel 15. Woningen
 
 De berekeningsbasis als bedoeld in [artikel 61, eerste lid, van het IBBAD](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=61) wordt indien het een woning betreft die in het buitenland is gelegen, verhoogd met de duurtecorrectie – voor zover deze positief is –, berekend over het voor de ambtenaar geldende standaard netto Nederland in de zin van het Voorzieningenstelsel buitenland defensiepersoneel.
 
-#### Artikel 16. Kost en inwoning
+##### Artikel 16. Kost en inwoning
 
 1. Het maximum van het verschuldigde bedrag voor het vanwege Defensie verstrekte gebruik van kost, bedoeld in [artikel 60, eerste lid, van het IBBAD](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=60), wordt gesteld op € 165,34 per maand.
 
@@ -482,7 +507,7 @@ De berekeningsbasis als bedoeld in [artikel 61, eerste lid, van het IBBAD](https
 
 5. Bij geoorloofde afwezigheid wordt het bedrag dat voor het genot van kost verschuldigd zou zijn voor elke dag dat dit emolument niet wordt genoten, verminderd met € 4,78 per dag.
 
-#### Artikel 17. Gebruik van energie en water
+##### Artikel 17. Gebruik van energie en water
 
 1. Het maximum van het verschuldigde bedrag voor het vanwege Defensie verstrekte gebruik van verwarming van de woning, bedoeld in [artikel 61, eerste lid, onderdeel b, van het IBBAD](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=61), wordt gesteld op € 188,97.
 
@@ -494,7 +519,7 @@ De berekeningsbasis als bedoeld in [artikel 61, eerste lid, van het IBBAD](https
 
 ### Hoofdstuk 6. Anticumulatie pas
 
-#### Artikel 18
+##### Artikel 18
 
 1. In dit artikel wordt verstaan onder:
 
@@ -526,43 +551,43 @@ het salaris bedoeld in [artikel 12, eerste lid, van het Inkomstenbesluit burgerl
 
 11. De ambtenaar wordt door het aanvaarden van het terugbrengen van de arbeidsduur met toepassing van [artikel 30c van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=30c) geacht er in toe te stemmen dat allen die daarvoor naar het oordeel van de commandant in aanmerking komen omtrent zijn omstandigheden alle inlichtingen geven welke voor de uitvoering van dit artikel noodzakelijk zijn.
 
-#### Artikel 19
+##### Artikel 19
 
 [Bevat wijzigingen in andere regelgeving]
 
-#### Artikel 20
+##### Artikel 20
 
 [Bevat wijzigingen in andere regelgeving]
 
-#### Artikel 21
+##### Artikel 21
 
 [Bevat wijzigingen in andere regelgeving]
 
-#### Artikel 22
+##### Artikel 22
 
 [Bevat wijzigingen in andere regelgeving]
 
-#### Artikel 23
+##### Artikel 23
 
 [Bevat wijzigingen in andere regelgeving]
 
-#### Artikel 24
+##### Artikel 24
 
 [Bevat wijzigingen in andere regelgeving]
 
-#### Artikel 25
+##### Artikel 25
 
 [Bevat wijzigingen in andere regelgeving]
 
-#### Artikel 26
+##### Artikel 26
 
 [Bevat wijzigingen in andere regelgeving]
 
-#### Artikel 27
+##### Artikel 27
 
 [Bevat wijzigingen in andere regelgeving]
 
-#### Artikel 28. Intrekking van regelingen
+##### Artikel 28. Intrekking van regelingen
 
 Ingetrokken worden:
 
@@ -600,10 +625,10 @@ Ingetrokken worden:
 
 - q. Salarisregeling burgertandartsen defensie.
 
-#### Artikel 29. Inwerkingtreding
+##### Artikel 29. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 11 mei 2005.
 
-#### Artikel 30. Citeertitel
+##### Artikel 30. Citeertitel
 
 Deze regeling wordt aangehaald als ‘Inkomstenregeling burgerlijke ambtenaren defensie’.

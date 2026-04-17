@@ -1,13 +1,39 @@
 ---
-title: "VenW-intrekkingsregeling 2008"
+title: "Regeling van de Minister van Verkeer en Waterstaat, houdende intrekking van diverse regelingen op het terrein van het Ministerie van Verkeer en Waterstaat in verband met het feit dat deze hun betekenis hebben verloren (VenW-Intrekkingsregeling 2008)"
 identifier: "BWBR0024209"
-categorie: "Overig"
-publicatiedatum: 2008-07-23
-laatste_update: 2008-07-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024209"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2008-07-23"
+last_updated: "2008-07-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024209"
+soort: "ministeriele-regeling"
+stam_id: "9656413"
+version_id: "15579782"
+internal_id: "C21249221"
+label_id: "9633484"
+dtd_version: "2.0"
+original_entry_into_force: "2008-07-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024209/2008-07-23/0"
+intitule_bron: "Stcrt.2008-138"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-07-10"
+intitule_published: "2008-07-21"
+intitule_in_force: "2008-07-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-138"
+original_signed_date: "2008-07-10"
+original_published_date: "2008-07-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-138-p17-SC86630"
+entry_into_force_date: "2008-07-23"
+jci_1_3: "jci1.3:c:BWBR0024209&z=2008-07-23&g=2008-07-23"
+jci_1_0: "1.0:c:BWBR0024209&g=2008-07-23"
+citeertitel_status: "officieel"
+short_title: "VenW-intrekkingsregeling 2008"
+signed_date: "2008-07-10"
+entry_into_force: "2008-07-23"
 ---
-
 # Regeling van de Minister van Verkeer en Waterstaat, houdende intrekking van diverse regelingen op het terrein van het Ministerie van Verkeer en Waterstaat in verband met het feit dat deze hun betekenis hebben verloren (VenW-Intrekkingsregeling 2008)
 
 Gelet op [artikel 2b, derde lid, van de Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&artikel=2b) en artikel 12, derde lid, van het Lozingenbesluit Wvo tandartspraktijken;
@@ -18,11 +44,11 @@ Besluit:
 
 #### § 1. Intrekking van regelingen
 
-#### Artikel I. Water
+##### Artikel I. Water
 
 De [Regeling Meldingen Wvo tandartspraktijken](https://wetten.overheid.nl/jci1.3:c:BWBR0007028) wordt ingetrokken.
 
-#### Artikel II. Verkeer
+##### Artikel II. Verkeer
 
 De volgende regelingen worden ingetrokken:
 
@@ -42,17 +68,17 @@ De volgende regelingen worden ingetrokken:
 
 #### § 2. Overgangs- en slotbepalingen
 
-#### Artikel III. Overgangsbepaling
+##### Artikel III. Overgangsbepaling
 
 1. Voor zover er ter zake nog sprake is van enige bestuursrechtelijke afdoening, met inbegrip van bezwaar- en beroepsprocedures, vindt deze overeenkomstig de regelingen, bedoeld in de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0024209&paragraaf=1&artikel=I&z=2008-07-23&g=2008-07-23) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0024209&paragraaf=1&artikel=II&z=2008-07-23&g=2008-07-23), plaats.
 
 2. Bestaande aanspraken en verplichtingen bij, op grond of in het kader van de regelingen, bedoeld in de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0024209&paragraaf=1&artikel=I&z=2008-07-23&g=2008-07-23) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0024209&paragraaf=1&artikel=II&z=2008-07-23&g=2008-07-23), blijven in stand.
 
-#### Artikel IV. Inwerkingtreding
+##### Artikel IV. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel V. Citeertitel
+##### Artikel V. Citeertitel
 
 Deze regeling wordt aangehaald als: VenW-intrekkingsregeling 2008.
 

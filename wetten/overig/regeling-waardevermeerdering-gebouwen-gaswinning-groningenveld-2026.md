@@ -1,20 +1,46 @@
 ---
-title: "Regeling waardevermeerdering gebouwen gaswinning Groningenveld 2026"
+title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 26 februari 2026, nr. 2026-0000072641, houdende regels over waardevermeerdering van gebouwen in verband met schade als gevolg van gaswinning Groningenveld (Regeling waardevermeerdering gebouwen gaswinning Groningenveld 2026) [KetenID WGK 028672]"
 identifier: "BWBR0052415"
-categorie: "Overig"
-publicatiedatum: 2026-03-12
-laatste_update: 2026-03-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052415"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-03-12"
+last_updated: "2026-03-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052415"
+soort: "ministeriele-regeling"
+stam_id: "17796253"
+version_id: "31464632"
+internal_id: "C44940121"
+label_id: "17693944"
+dtd_version: "2.0"
+original_entry_into_force: "2026-03-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052415/2026-03-12/0"
+intitule_bron: "Stcrt.2026-7927"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2026-02-26"
+intitule_published: "2026-03-11"
+intitule_in_force: "2026-03-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-7927"
+original_signed_date: "2026-02-26"
+original_published_date: "2026-03-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-7927"
+entry_into_force_date: "2026-03-12"
+jci_1_3: "jci1.3:c:BWBR0052415&z=2026-03-12&g=2026-03-12"
+jci_1_0: "1.0:c:BWBR0052415&g=2026-03-12"
+citeertitel_status: "officieel"
+short_title: "Regeling waardevermeerdering gebouwen gaswinning Groningenveld 2026"
+signed_date: "2026-02-26"
+entry_into_force: "2026-03-12"
 ---
-
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 26 februari 2026, nr. 2026-0000072641, houdende regels over waardevermeerdering van gebouwen in verband met schade als gevolg van gaswinning Groningenveld (Regeling waardevermeerdering gebouwen gaswinning Groningenveld 2026) [KetenID WGK 028672]
 
 Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=3) en [4, eerste lid, aanhef en onderdelen a tot en met f, en h, van de Kaderwet overige BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=4) en de [artikelen 6, vijfde lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=6), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=8), [9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=9), [11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=11), en [14 van het Kaderbesluit BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=14);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -44,7 +70,7 @@ In deze regeling wordt verstaan onder:
 
 - **woning:** gebouw of gedeelte van een gebouw dat bestemd of mede bestemd is voor bewoning met inbegrip van de bijgebouwen die bijdragen aan de woonbestemming.
 
-#### Artikel 2. Subsidie voor verduurzamingsmaatregelen en maatwerkadviesrapport
+##### Artikel 2. Subsidie voor verduurzamingsmaatregelen en maatwerkadviesrapport
 
 1. De minister verstrekt op aanvraag subsidie voor een verduurzamingsmaatregel of een maatwerkadviesrapport aan een eigenaar van een woning of een gebouw met een logiesfunctie, een onderneming, of een maatschappelijke organisatie, aan wiens woning, gebouw met een logiesfunctie of ander gebouw, blijkens een schriftelijk stuk:
 
@@ -78,7 +104,7 @@ In deze regeling wordt verstaan onder:
 
 3. Aanvragen om subsidie als bedoeld in het eerste of tweede lid, kunnen worden ingediend vanaf het tijdstip van inwerkingtreding van deze regeling tot en met 31 augustus 2026.
 
-#### Artikel 3. Subsidiabele kosten
+##### Artikel 3. Subsidiabele kosten
 
 1. De subsidiabele kosten zijn de kosten ter zake van een gebouw als bedoeld in [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052415&artikel=2&z=2026-03-12&g=2026-03-12), of ter zake van een lokaal energieproject, voor:
 
@@ -124,11 +150,11 @@ In deze regeling wordt verstaan onder:
 
 2. Vóór indiening van de aanvraag door de aanvrager gemaakte kosten komen niet voor subsidie in aanmerking, tenzij deze zijn gemaakt ter voldoening aan een contractuele verplichting die is aangegaan vóór de indiening van de aanvraag, doch na de datum waarop een schaderapport of een concept daarvan is uitgebracht door een schade-expert in opdracht van een in [artikel 2, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0052415&artikel=2&z=2026-03-12&g=2026-03-12) genoemde instantie of een aanbod is gedaan voor een vergoeding als bedoeld in artikel 2, eerste lid, onderdeel d.
 
-#### Artikel 4. Hoogte van de subsidie
+##### Artikel 4. Hoogte van de subsidie
 
 De subsidie bedraagt 100% van de subsidiabele kosten met een maximum van € 4.000,– per gebouw.
 
-#### Artikel 5. Afwijzingsgronden
+##### Artikel 5. Afwijzingsgronden
 
 1. De minister beslist afwijzend op een aanvraag voor zover:
 
@@ -142,7 +168,7 @@ De subsidie bedraagt 100% van de subsidiabele kosten met een maximum van € 4.0
 
 2. De afwijzingsgronden, genoemd in het eerste lid, onderdelen a tot en met c, zijn niet van toepassing indien voor het gebouw door een andere eigenaar voor een door die eigenaar geleden schade, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052415&artikel=2&z=2026-03-12&g=2026-03-12), subsidie wordt aangevraagd.
 
-#### Artikel 6. Subsidieplafond en rangschikking van de aanvragen
+##### Artikel 6. Subsidieplafond en rangschikking van de aanvragen
 
 1. Het subsidieplafond bedraagt € 15.320.905,40.
 
@@ -150,7 +176,7 @@ De subsidie bedraagt 100% van de subsidiabele kosten met een maximum van € 4.0
 
 3. Indien op de dag dat het subsidieplafond wordt bereikt meer dan één volledige aanvraag is ontvangen, stelt de minister de onderlinge rangschikking van aanvragen vast op volgorde van binnenkomst.
 
-#### Artikel 7. Verplichtingen van de subsidieontvanger
+##### Artikel 7. Verplichtingen van de subsidieontvanger
 
 1. Een verduurzamingsmaatregel of een maatwerkadviesrapport, waarvoor op grond van deze regeling een subsidie is verleend, wordt binnen een termijn van 24 maanden na de verlening van de subsidie aangebracht of geïnstalleerd en in gebruik genomen, respectievelijk opgeleverd.
 
@@ -164,7 +190,7 @@ De subsidie bedraagt 100% van de subsidiabele kosten met een maximum van € 4.0
 
 - b. de deelneming in een lokaal energieproject ten behoeve waarvan subsidie is verleend niet binnen vijf jaar na de datum van de subsidievaststelling.
 
-#### Artikel 8. Informatieverplichtingen
+##### Artikel 8. Informatieverplichtingen
 
 1. Een aanvraag voor subsidie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052415&artikel=2&z=2026-03-12&g=2026-03-12) bevat de gegevens van de aanvrager, waaronder ten minste:
 
@@ -190,15 +216,15 @@ De subsidie bedraagt 100% van de subsidiabele kosten met een maximum van € 4.0
 
 2. De aanvraag door een onderneming bevat tevens een verklaring als bedoeld in artikel 7, vierde lid, van de de-minimisverordening.
 
-#### Artikel 9. Staatssteun
+##### Artikel 9. Staatssteun
 
 De subsidie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052415&artikel=2&z=2026-03-12&g=2026-03-12), bevat staatssteun, indien deze aan een onderneming wordt verstrekt, en wordt gerechtvaardigd door artikel 3, tweede lid, van de de-minimisverordening.
 
-#### Artikel 10. Inwerkingtreding en vervaltermijn
+##### Artikel 10. Inwerkingtreding en vervaltermijn
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 september 2026, met dien verstande dat deze van toepassing blijft op aanvragen die voor deze datum zijn ingediend en subsidies die voor deze datum zijn verleend.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling waardevermeerdering gebouwen gaswinning Groningenveld 2026.
 

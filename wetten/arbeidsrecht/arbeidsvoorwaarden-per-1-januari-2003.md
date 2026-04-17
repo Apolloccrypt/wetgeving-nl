@@ -1,13 +1,36 @@
 ---
 title: "Arbeidsvoorwaarden per 1 januari 2003"
 identifier: "BWBR0014684"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2003-02-19
-laatste_update: 2003-02-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0014684"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2003-02-19"
+last_updated: "2003-02-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0014684"
+soort: "beleidsregel"
+stam_id: "6495423"
+version_id: "11181182"
+internal_id: "C15106811"
+label_id: "6484044"
+original_entry_into_force: "2003-02-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0014684/2003-02-19/0"
+intitule_bron: "Uitleg.2003-4/5"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-02-07"
+intitule_published: "2003-02-19"
+intitule_in_force: "2003-02-19"
+intitule_status: "goed"
+original_publication: "Uitleg.2003-4/5"
+original_signed_date: "2003-02-07"
+original_published_date: "2003-02-19"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2003-02-19"
+jci_1_3: "jci1.3:c:BWBR0014684&z=2003-02-19&g=2003-02-19"
+jci_1_0: "1.0:c:BWBR0014684&g=2003-02-19"
+citeertitel_status: "redactioneel"
+signed_date: "2003-02-07"
+entry_into_force: "2003-02-19"
 ---
-
 # Arbeidsvoorwaarden per 1 januari 2003
 
 In onderhavige publicatie wil ik u op de hoogte stellen over de volgende zaken:

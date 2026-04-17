@@ -1,13 +1,38 @@
 ---
 title: "Regeling tussen de bevoegde autoriteiten België en Nederland (wederzijdse aanwezigheid belastingambtenaren)"
 identifier: "BWBR0023781"
-categorie: "Belastingrecht"
-publicatiedatum: 2008-04-01
-laatste_update: 2008-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0023781"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2008-04-01"
+last_updated: "2008-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023781"
+soort: "beleidsregel"
+stam_id: "9485783"
+version_id: "15292572"
+internal_id: "C20831871"
+label_id: "9463184"
+dtd_version: "2.0"
+original_entry_into_force: "2008-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023781/2008-04-01/0"
+intitule_bron: "Stcrt.2008-79"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-04-14"
+intitule_published: "2008-04-23"
+intitule_in_force: "2008-04-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-79"
+original_signed_date: "2008-04-14"
+original_published_date: "2008-04-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-79-p14-SC85404"
+entry_into_force_date: "2008-04-01"
+jci_1_3: "jci1.3:c:BWBR0023781&z=2008-04-01&g=2008-04-01"
+jci_1_0: "1.0:c:BWBR0023781&g=2008-04-01"
+citeertitel_status: "redactioneel"
+signed_date: "2008-04-14"
+entry_into_force: "2008-04-01"
 ---
-
 # Regeling tussen de bevoegde autoriteiten België en Nederland (wederzijdse aanwezigheid belastingambtenaren)
 
 De datum van inwerkingtreding ligt voor de datum van uitgifte.

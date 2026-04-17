@@ -1,13 +1,39 @@
 ---
-title: "Besluit inwilliging AVV-verzoek varkenshouderijsector"
+title: "Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 24 april 2020, nr. 19135433, houdende inwilliging AVV-verzoek varkenshouderijsector"
 identifier: "BWBR0043561"
-categorie: "Overig"
-publicatiedatum: 2020-05-23
-laatste_update: 2020-05-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043561"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-05-23"
+last_updated: "2020-05-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043561"
+soort: "ministeriele-regeling"
+stam_id: "15461303"
+version_id: "26722652"
+internal_id: "C37878551"
+label_id: "15404204"
+dtd_version: "2.0"
+original_entry_into_force: "2020-05-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043561/2020-05-23/0"
+intitule_bron: "Stcrt.2020-27442"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-04-24"
+intitule_published: "2020-05-22"
+intitule_in_force: "2020-05-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-27442"
+original_signed_date: "2020-04-24"
+original_published_date: "2020-05-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-27442"
+entry_into_force_date: "2020-05-23"
+jci_1_3: "jci1.3:c:BWBR0043561&z=2020-05-23&g=2020-05-23"
+jci_1_0: "1.0:c:BWBR0043561&g=2020-05-23"
+citeertitel_status: "redactioneel"
+short_title: "Besluit inwilliging AVV-verzoek varkenshouderijsector"
+signed_date: "2020-04-24"
+entry_into_force: "2020-05-23"
 ---
-
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 24 april 2020, nr. 19135433, houdende inwilliging AVV-verzoek varkenshouderijsector
 
 De Minister van Landbouw, Natuur en Voedselkwaliteit,
@@ -18,7 +44,7 @@ Gelet op de inhoud van de aanvraag van de vereniging Producenten Organisatie Var
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In de [artikelen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043561&artikel=2&z=2020-05-23&g=2020-05-23) van dit besluit wordt verstaan onder:
 
@@ -34,15 +60,15 @@ In de [artikelen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043561
 
 - f. **niet bij de POV aangesloten marktdeelnemers:** Ondernemers als bedoeld in paragraaf 1, onderdeel c, van de [Registratieregeling POV](https://wetten.overheid.nl/jci1.3:c:BWBR0043561&bijlage=B&z=2020-05-23&g=2020-05-23) en paragraaf 1, onderdeel b, van de [Bijdrageregeling POV](https://wetten.overheid.nl/jci1.3:c:BWBR0043561&bijlage=C&z=2020-05-23&g=2020-05-23), voor zover dit ondernemers betreft die geen lid zijn van POV.
 
-#### Artikel 2
+##### Artikel 2
 
 De onderzoeksagenda is overeenkomstig artikel 164, eerste lid, van [Verordening 1308/2013](32013R1308) verbindend voor niet bij POV aangesloten marktdeelnemers met ingang van de inwerkingtreding van dit besluit tot en met 31 december 2020.
 
-#### Artikel 3
+##### Artikel 3
 
 Overeenkomstig artikel 165 van [Verordening 1308/2013](32013R1308) zijn de [Registratieregeling POV](https://wetten.overheid.nl/jci1.3:c:BWBR0043561&bijlage=B&z=2020-05-23&g=2020-05-23) en de [Bijdrageregeling POV](https://wetten.overheid.nl/jci1.3:c:BWBR0043561&bijlage=C&z=2020-05-23&g=2020-05-23) van toepassing op niet bij POV aangesloten marktdeelnemers met ingang van de inwerkingtreding van dit besluit tot en met 31 december 2020.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 

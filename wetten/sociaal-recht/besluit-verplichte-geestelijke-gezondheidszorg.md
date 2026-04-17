@@ -1,13 +1,39 @@
 ---
-title: "Besluit verplichte geestelijke gezondheidszorg"
+title: "Besluit van 16 mei 2019, houdende regels ter uitvoering van de Wet verplichte geestelijke gezondheidszorg (Besluit verplichte geestelijke gezondheidszorg)"
 identifier: "BWBR0042262"
-categorie: "Sociaal recht"
-publicatiedatum: 2021-09-18
-laatste_update: 2021-09-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042262"
+country: "nl"
+rank: "amvb"
+publication_date: "2021-09-18"
+last_updated: "2021-09-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042262"
+soort: "AMvB"
+stam_id: "15087023"
+version_id: "25860722"
+internal_id: "C37356721"
+label_id: "15035814"
+dtd_version: "2.0"
+original_entry_into_force: "2020-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042262/2021-09-18/0"
+intitule_bron: "Stb.2019-198"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-05-16"
+intitule_published: "2019-06-05"
+intitule_in_force: "2019-11-29"
+intitule_status: "goed"
+original_publication: "Stb.2019-198"
+original_signed_date: "2019-05-16"
+original_published_date: "2019-06-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2019-198"
+entry_into_force_date: "2020-01-01"
+jci_1_3: "jci1.3:c:BWBR0042262&z=2021-09-18&g=2021-09-18"
+jci_1_0: "1.0:c:BWBR0042262&g=2021-09-18"
+citeertitel_status: "officieel"
+short_title: "Besluit verplichte geestelijke gezondheidszorg"
+signed_date: "2019-05-16"
+entry_into_force: "2020-01-01"
 ---
-
 # Besluit van 16 mei 2019, houdende regels ter uitvoering van de Wet verplichte geestelijke gezondheidszorg (Besluit verplichte geestelijke gezondheidszorg)
 
 Op de voordracht van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 18 januari 2019, kenmerk 1216589-166828-WJZ, gedaan mede namens Onze Minister voor Rechtsbescherming;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Begripsbepaling
 
-#### Artikel 1.1
+##### Artikel 1.1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -38,7 +64,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 2. Ambulante verplichte zorg
 
-#### Artikel 2.1
+##### Artikel 2.1
 
 Ambulante verplichte zorg omvat het:
 
@@ -58,7 +84,7 @@ Ambulante verplichte zorg omvat het:
 
 - h. aanbrengen van beperkingen in de vrijheid het eigen leven in te richten, die tot gevolg hebben dat betrokkene iets moet doen of nalaten, waaronder begrepen het gebruik van communicatiemiddelen.
 
-#### Artikel 2.2
+##### Artikel 2.2
 
 1. Ambulante verplichte zorg kan uitsluitend worden toegepast indien:
 
@@ -86,13 +112,13 @@ Ambulante verplichte zorg omvat het:
 
 2. De zorgverantwoordelijke betrekt bij het in het eerste lid, onderdelen a en b, bedoelde overleg tevens deskundigen van andere disciplines, voor zover de aard van de ambulante verplichte zorg daartoe noodzaakt.
 
-#### Artikel 2.3
+##### Artikel 2.3
 
 In geval van ambulante verplichte zorg op grond van een crisismaatregel of een machtiging tot voortzetting van een crisismaatregel zijn [artikel 2.2, eerste lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0042262&hoofdstuk=2&artikel=2.2&z=2021-09-18&g=2021-09-18), niet van toepassing.
 
 ### Hoofdstuk 3. Gegevensverwerking
 
-#### Artikel 3.1
+##### Artikel 3.1
 
 1. De verwerkingsverantwoordelijke voor een gegevensverwerking die voortvloeit uit de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040635) treft de nodige maatregelen van technische en organisatorische aard teneinde te borgen dat persoonsgegevens zijn beveiligd tegen:
 
@@ -128,7 +154,7 @@ In geval van ambulante verplichte zorg op grond van een crisismaatregel of een m
 
 ### Hoofdstuk 4. Middelen en maatregelen waar het zorgplan niet in voorziet, ten aanzien van personen met een strafrechtelijke titel
 
-#### Artikel 4.1
+##### Artikel 4.1
 
 Middelen en maatregelen die kunnen worden toegepast in een situatie als bedoeld in [artikel 9:8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&artikel=9:8), zijn:
 
@@ -152,17 +178,17 @@ Middelen en maatregelen die kunnen worden toegepast in een situatie als bedoeld 
 
 ### Hoofdstuk 5. Samenstelling en werkwijze van de klachtencommissie
 
-#### Artikel 5.1
+##### Artikel 5.1
 
 In een klachtencommissie hebben in ieder geval een jurist en een psychiater zitting.
 
-#### Artikel 5.2
+##### Artikel 5.2
 
 De klachtencommissie zendt de klager een bewijs van ontvangst van de klacht, waarin de datum van ontvangst is vermeld.
 
 ### Hoofdstuk 6. Patiëntenvertrouwenspersoon
 
-#### Artikel 6.1
+##### Artikel 6.1
 
 1. De patiëntenvertrouwenspersoon is niet tevens door de zorgaanbieder aangewezen op grond van [artikel 15 van de Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=15).
 
@@ -170,59 +196,59 @@ De klachtencommissie zendt de klager een bewijs van ontvangst van de klacht, waa
 
 ### Hoofdstuk 7. Aanpassing van andere besluiten
 
-#### Artikel 7.1
+##### Artikel 7.1
 
 Wijzigt het Besluit langdurige zorg.
 
-#### Artikel 7.2
+##### Artikel 7.2
 
 Wijzigt het Besluit algemene rechtspositie politie.
 
-#### Artikel 7.3
+##### Artikel 7.3
 
 Wijzigt het Besluit eigen bijdrage rechtsbijstand.
 
-#### Artikel 7.4
+##### Artikel 7.4
 
 Wijzigt het Besluit rechtspositie rechterlijke ambtenaren.
 
-#### Artikel 7.5
+##### Artikel 7.5
 
 Wijzigt het Besluit rechtspositie vrijwillige politie.
 
-#### Artikel 7.6
+##### Artikel 7.6
 
 Wijzigt het Besluit regels landelijk parket en functioneel parket alsmede ten aanzien van mandateren bevoegdheden officier van justitie.
 
-#### Artikel 7.7
+##### Artikel 7.7
 
 Wijzigt het Besluit vergoedingen rechtsbijstand 2000.
 
-#### Artikel 7.8
+##### Artikel 7.8
 
 Wijzigt het Algemeen militair ambtenarenreglement.
 
-#### Artikel 7.9
+##### Artikel 7.9
 
 Wijzigt het Burgerlijk ambtenarenreglement defensie.
 
-#### Artikel 7.10
+##### Artikel 7.10
 
 Wijzigt het Algemeen rijksambtenarenreglement.
 
 ### Hoofdstuk 8. Slotbepalingen
 
-#### Artikel 8.1
+##### Artikel 8.1
 
 De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 8.2
+##### Artikel 8.2
 
 Dit besluit wordt aangehaald als: Besluit verplichte geestelijke gezondheidszorg.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 3.2
+##### Artikel 3.2
 
 De gegevens, genoemd in [artikel 2, onderdelen a tot en met h, van het Besluit vorderen gegevens telecommunicatie](https://wetten.overheid.nl/jci1.3:c:BWBR0017081&artikel=2), worden aangewezen als gegevens in de zin van [artikel 13:3a, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&artikel=13:3a).
 

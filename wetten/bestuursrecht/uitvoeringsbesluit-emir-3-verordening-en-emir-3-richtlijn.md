@@ -1,13 +1,39 @@
 ---
-title: "Uitvoeringsbesluit EMIR 3-verordening en EMIR 3-richtlijn"
+title: "Besluit van 3 juli 2025 tot wijziging van het Besluit EU-verordeningen Wft en het Besluit Gedragstoezicht financiële ondernemingen Wft ter uitvoering van Verordening (EU) 2024/2987 en Richtlijn (EU) 2024/2994 betreffende clearingmarkten (Uitvoeringsbesluit EMIR 3-verordening en EMIR 3-richtlijn) [KetenID WGK026839]"
 identifier: "BWBR0051236"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-07-15
-laatste_update: 2025-07-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051236"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-07-15"
+last_updated: "2025-07-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051236"
+soort: "AMvB"
+stam_id: "17470073"
+version_id: "30811432"
+internal_id: "C44158911"
+label_id: "17372374"
+dtd_version: "2.0"
+original_entry_into_force: "2025-07-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051236/2025-07-15/0"
+intitule_bron: "Stb.2025-187"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-07-03"
+intitule_published: "2025-07-14"
+intitule_in_force: "2025-07-14"
+intitule_status: "goed"
+original_publication: "Stb.2025-187"
+original_signed_date: "2025-07-03"
+original_published_date: "2025-07-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2025-187"
+entry_into_force_date: "2025-07-15"
+jci_1_3: "jci1.3:c:BWBR0051236&z=2025-07-15&g=2025-07-15"
+jci_1_0: "1.0:c:BWBR0051236&g=2025-07-15"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsbesluit EMIR 3-verordening en EMIR 3-richtlijn"
+signed_date: "2025-07-03"
+entry_into_force: "2025-07-15"
 ---
-
 # Besluit van 3 juli 2025 tot wijziging van het Besluit EU-verordeningen Wft en het Besluit Gedragstoezicht financiële ondernemingen Wft ter uitvoering van Verordening (EU) 2024/2987 en Richtlijn (EU) 2024/2994 betreffende clearingmarkten (Uitvoeringsbesluit EMIR 3-verordening en EMIR 3-richtlijn) [KetenID WGK026839]
 
 Op de voordracht van Onze Minister van Financiën van 18 april 2024, 2025-0000086493, directie Financiële Markten;
@@ -20,19 +46,19 @@ Gezien het nader rapport van Onze Minister van Financiën van 30 juni 2025, 2025
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Besluit EU-verordeningen Wft.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Besluit Gedragstoezicht financiële ondernemingen Wft.
 
-#### Artikel III
+##### Artikel III
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-#### Artikel IV
+##### Artikel IV
 
 Dit besluit wordt aangehaald als: Uitvoeringsbesluit EMIR 3-verordening en EMIR 3-richtlijn.
 

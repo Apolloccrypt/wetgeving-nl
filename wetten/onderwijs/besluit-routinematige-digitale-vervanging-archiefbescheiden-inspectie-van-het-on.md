@@ -1,13 +1,39 @@
 ---
-title: "Besluit routinematige digitale vervanging archiefbescheiden Inspectie van het onderwijs"
+title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap en de Inspecteur-generaal van het onderwijs van 25 augustus 2O17, nr. WJZ/1245752 (4974369), houdende routinematige digitale vervanging van archiefbescheiden die niet voor vernietiging in aanmerking komen (Besluit routinematige digitale vervanging archiefbescheiden Inspectie voor het onderwijs)"
 identifier: "BWBR0039934"
-categorie: "Onderwijs"
-publicatiedatum: 2018-06-21
-laatste_update: 2018-06-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039934"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2018-06-21"
+last_updated: "2018-06-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039934"
+soort: "ministeriele-regeling"
+stam_id: "14142413"
+version_id: "24323052"
+internal_id: "C34916891"
+label_id: "14103244"
+dtd_version: "2.0"
+original_entry_into_force: "2017-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039934/2018-06-21/0"
+intitule_bron: "Stcrt.2017-49579"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-08-25"
+intitule_published: "2017-08-31"
+intitule_in_force: "2017-08-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-49579"
+original_signed_date: "2017-08-25"
+original_published_date: "2017-08-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-49579"
+entry_into_force_date: "2017-09-01"
+jci_1_3: "jci1.3:c:BWBR0039934&z=2018-06-21&g=2018-06-21"
+jci_1_0: "1.0:c:BWBR0039934&g=2018-06-21"
+citeertitel_status: "officieel"
+short_title: "Besluit routinematige digitale vervanging archiefbescheiden Inspectie van het onderwijs"
+signed_date: "2017-08-25"
+entry_into_force: "2017-09-01"
 ---
-
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap en de Inspecteur-generaal van het onderwijs van 25 augustus 2O17, nr. WJZ/1245752 (4974369), houdende routinematige digitale vervanging van archiefbescheiden die niet voor vernietiging in aanmerking komen (Besluit routinematige digitale vervanging archiefbescheiden Inspectie voor het onderwijs)
 
 Gelet op:
@@ -22,7 +48,7 @@ de [Regeling Informatiebeheer OCW 2013](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 Over te gaan tot routinematige digitale vervanging van archiefbescheiden die niet voor vernietiging in aanmerking komen
 
@@ -30,11 +56,11 @@ Over te gaan tot routinematige digitale vervanging van archiefbescheiden die nie
 
 - b. volgens de specificaties, vastgelegd in de bij dit besluit horende bijlage ‘handboek routinematige digitale vervanging eDocs’.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit wordt aangehaald als: Besluit routinematige digitale vervanging archiefbescheiden Inspectie van het onderwijs.
 

@@ -1,13 +1,39 @@
 ---
-title: "Uitvoeringsbesluit verordening Europese groene obligaties"
+title: "Besluit van 26 februari 2025 tot wijziging van het Besluit EU-verordeningen Wft en het Besluit bestuurlijke boetes financiële sector ter uitvoering van Verordening (EU) 2023/2631 betreffende Europese groene obligaties en optionele openbaarmakingen voor obligaties die als ecologisch duurzame obligaties op de markt worden gebracht en voor aan duurzaamheid gekoppelde obligaties (Uitvoeringsbesluit verordening Europese groene obligaties)"
 identifier: "BWBR0050856"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-03-18
-laatste_update: 2025-03-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050856"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-03-18"
+last_updated: "2025-03-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050856"
+soort: "AMvB"
+stam_id: "17385373"
+version_id: "30649472"
+internal_id: "C43940241"
+label_id: "17288514"
+dtd_version: "2.0"
+original_entry_into_force: "2025-03-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050856/2025-03-18/0"
+intitule_bron: "Stb.2025-67"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-02-26"
+intitule_published: "2025-03-17"
+intitule_in_force: "2025-03-17"
+intitule_status: "goed"
+original_publication: "Stb.2025-67"
+original_signed_date: "2025-02-26"
+original_published_date: "2025-03-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2025-67"
+entry_into_force_date: "2025-03-18"
+jci_1_3: "jci1.3:c:BWBR0050856&z=2025-03-18&g=2025-03-18"
+jci_1_0: "1.0:c:BWBR0050856&g=2025-03-18"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsbesluit verordening Europese groene obligaties"
+signed_date: "2025-02-26"
+entry_into_force: "2025-03-18"
 ---
-
 # Besluit van 26 februari 2025 tot wijziging van het Besluit EU-verordeningen Wft en het Besluit bestuurlijke boetes financiële sector ter uitvoering van Verordening (EU) 2023/2631 betreffende Europese groene obligaties en optionele openbaarmakingen voor obligaties die als ecologisch duurzame obligaties op de markt worden gebracht en voor aan duurzaamheid gekoppelde obligaties (Uitvoeringsbesluit verordening Europese groene obligaties)
 
 Op de voordracht van Onze Minister van Financiën van 15 januari 2025, 2024-0000563560, directie Financiële Markten;
@@ -20,23 +46,23 @@ Gezien het nader rapport van Onze Minister van Financiën van 24 februari 2025, 
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Besluit EU-verordeningen Wft.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Besluit bestuurlijke boetes financiële sector.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Besluit Gedragstoezicht financiële ondernemingen Wft.
 
-#### Artikel IV
+##### Artikel IV
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-#### Artikel V
+##### Artikel V
 
 Dit besluit wordt aangehaald als: Uitvoeringsbesluit verordening Europese groene obligaties.
 

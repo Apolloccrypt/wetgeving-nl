@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling expertisedeling onderwijs nieuwkomersleeringen"
+title: "Regeling van de Minister Primair en Voortgezet Onderwijs van 31 augustus 2022, nr. PO/33528646, houdende regels voor de subsidieverstrekking voor expertisedeling ten behoeve van onderwijs aan nieuwkomersleerlingen (Subsidieregeling expertisedeling onderwijs nieuwkomersleerlingen)"
 identifier: "BWBR0047123"
-categorie: "Onderwijs"
-publicatiedatum: 2022-09-09
-laatste_update: 2022-09-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047123"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-09-09"
+last_updated: "2022-09-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047123"
+soort: "ministeriele-regeling"
+stam_id: "16475923"
+version_id: "28869882"
+internal_id: "C40874441"
+label_id: "16397814"
+dtd_version: "2.0"
+original_entry_into_force: "2022-09-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047123/2022-09-09/0"
+intitule_bron: "Stcrt.2022-23901"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-08-31"
+intitule_published: "2022-09-08"
+intitule_in_force: "2022-09-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-23901"
+original_signed_date: "2022-08-31"
+original_published_date: "2022-09-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-23901"
+entry_into_force_date: "2022-09-09"
+jci_1_3: "jci1.3:c:BWBR0047123&z=2022-09-09&g=2022-09-09"
+jci_1_0: "1.0:c:BWBR0047123&g=2022-09-09"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling expertisedeling onderwijs nieuwkomersleeringen"
+signed_date: "2022-08-31"
+entry_into_force: "2022-09-09"
 ---
-
 # Regeling van de Minister Primair en Voortgezet Onderwijs van 31 augustus 2022, nr. PO/33528646, houdende regels voor de subsidieverstrekking voor expertisedeling ten behoeve van onderwijs aan nieuwkomersleerlingen (Subsidieregeling expertisedeling onderwijs nieuwkomersleerlingen)
 
 Gelet op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4) en [5 van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=5) en de [artikelen 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3) en [2.1 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=2.1);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -36,11 +62,11 @@ In deze regeling wordt verstaan onder:
 
 - **WVO 2020:** [Wet op het voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0002399).
 
-#### Artikel 2. Toepassing [Kaderregeling subsidies OCW,SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepassing [Kaderregeling subsidies OCW,SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 De [Kaderregeling subsidies OCW SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) is van toepassing op subsidies die op grond van deze regeling worden vertrekt.
 
-#### Artikel 3. Te subsidiëren activiteiten
+##### Artikel 3. Te subsidiëren activiteiten
 
 1. De minister kan subsidie verstrekken aan een bevoegd gezag van een school die voorkomt op de lijst van scholen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047123&bijlage=1&z=2022-09-09&g=2022-09-09) bij deze subsidieregeling voor het delen van expertise over het geven van onderwijs aan nieuwkomersleerlingen.
 
@@ -58,7 +84,7 @@ De [Kaderregeling subsidies OCW SZW en VWS](https://wetten.overheid.nl/jci1.3:c:
 
 4. Onder de activiteiten, bedoeld in het tweede lid, wordt niet verstaan het daadwerkelijk geven van onderwijs aan nieuwkomersleerlingen.
 
-#### Artikel 4. Subsidieplafond en wijze van verdeling van beschikbare middelen
+##### Artikel 4. Subsidieplafond en wijze van verdeling van beschikbare middelen
 
 1. Voor de subsidieverstrekking op grond van deze regeling is een bedrag beschikbaar van € 3.000.000.
 
@@ -68,7 +94,7 @@ De [Kaderregeling subsidies OCW SZW en VWS](https://wetten.overheid.nl/jci1.3:c:
 
 4. Indien het bedrag, bedoeld in het eerste lid, niet volledig wordt benut, wordt het restant gelijkelijk verdeeld over alle voor toewijzing in aanmerking komende aanvragen. Hierbij wordt een maximumbedrag gehanteerd van € 60.000 per school als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047123&bijlage=1&z=2022-09-09&g=2022-09-09) bij deze subsidieregeling voor subsidieverstrekking aan een bevoegd gezag als bedoeld in [artikel 1 van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1) en een maximumbedrag van € 40.000 per school als bedoeld in bijlage 1 bij deze subsidieregeling voor subsidieverstrekking aan een bevoegd gezag als bedoeld in [artikel 1 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1).
 
-#### Artikel 5. Aanvraag subsidie
+##### Artikel 5. Aanvraag subsidie
 
 1. Een subsidieaanvraag kan worden ingediend van 15 september 2022 tot en met 15 oktober 2022.
 
@@ -76,29 +102,29 @@ De [Kaderregeling subsidies OCW SZW en VWS](https://wetten.overheid.nl/jci1.3:c:
 
 3. Voor de subsidieaanvraag wordt gebruik gemaakt van het digitale aanvraagformulier dat is bekendgemaakt op de website [www.dus-i.nl](onbekend).
 
-#### Artikel 6. Uitvoering activiteiten
+##### Artikel 6. Uitvoering activiteiten
 
 De te subsidiëren activiteiten worden uiterlijk op 31 december 2023 afgerond.
 
-#### Artikel 7. Verstrekking en betaling
+##### Artikel 7. Verstrekking en betaling
 
 1. Als de activiteiten zijn uitgevoerd en aan de verplichtingen is voldaan, kan het niet aangewende deel van de subsidie worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt.
 
 2. De subsidie wordt direct vastgesteld binnen 9 weken na sluiting van de aanvraagtermijn.
 
-#### Artikel 8. Verantwoording
+##### Artikel 8. Verantwoording
 
 1. De verantwoording van de subsidie geschiedt in de jaarverslaggeving overeenkomstig de [Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132) met model G, onderdeel 1, zoals bedoeld in richtlijn 660 van de Raad voor de Jaarverslaggeving.
 
 2. De subsidieontvanger toont op verzoek van de Minister aan dat de activiteiten waarvoor subsidie is verstrekt, zijn verricht en dat is voldaan aan de verplichtingen die aan de subsidie verbonden zijn. De Minister kan daarbij vragen om schriftelijke verklaringen van de scholen waarmee expertise is gedeeld, waaruit blijkt dat deze scholen daadwerkelijk begeleiding hebben ontvangen.
 
-#### Artikel 9. Inwerkingtreding en vervaldatum
+##### Artikel 9. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 1 januari 2027.
 
-#### Artikel 10. Citeertitel
+##### Artikel 10. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling expertisedeling onderwijs nieuwkomersleeringen.
 

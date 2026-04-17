@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregel omtrent actieve openbaarmaking van inspectiegegevens door de NVWA 2024"
+title: "Beleidsregel van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit van 21 oktober 2024, NVWA/2024/010073916, over het actief openbaar maken van inspectiegegevens van bedrijven en producten (Beleidsregel omtrent actieve openbaarmaking van inspectiegegevens door de NVWA 2024)"
 identifier: "BWBR0050345"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2024-10-30
-laatste_update: 2024-10-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050345"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2024-10-30"
+last_updated: "2024-10-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050345"
+soort: "beleidsregel"
+stam_id: "17251473"
+version_id: "30385832"
+internal_id: "C43574611"
+label_id: "17157114"
+dtd_version: "2.0"
+original_entry_into_force: "2024-10-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050345/2024-10-30/0"
+intitule_bron: "Stcrt.2024-34873"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-10-21"
+intitule_published: "2024-10-29"
+intitule_in_force: "2024-10-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-34873"
+original_signed_date: "2024-10-21"
+original_published_date: "2024-10-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-34873"
+entry_into_force_date: "2024-10-30"
+jci_1_3: "jci1.3:c:BWBR0050345&z=2024-10-30&g=2024-10-30"
+jci_1_0: "1.0:c:BWBR0050345&g=2024-10-30"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel omtrent actieve openbaarmaking van inspectiegegevens door de NVWA 2024"
+signed_date: "2024-10-21"
+entry_into_force: "2024-10-30"
 ---
-
 # Beleidsregel van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit van 21 oktober 2024, NVWA/2024/010073916, over het actief openbaar maken van inspectiegegevens van bedrijven en producten (Beleidsregel omtrent actieve openbaarmaking van inspectiegegevens door de NVWA 2024)
 
 Gelet op [titel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.3) en in het bijzonder [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81), [artikel 44 tot en met 44e van de Gezondheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&artikel=44), [artikel 2 van het Besluit openbaarmaking toezicht- en uitvoeringsgegevens Gezondheidswet en Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0041861&artikel=2), [Hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=3), [artikelen 3.1 tot en met 3.5, van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=3.1), [artikel 13a, eerste lid, van de Mandaatregeling VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&artikel=13a) en [artikel 6, zevende lid van het Besluit mandaat, volmacht en machtiging LNV 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&artikel=6);
 
 Besluit:
 
-#### Artikel 1. definities
+##### Artikel 1. definities
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -60,7 +86,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - –. **Woo:** [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754).
 
-#### Artikel 2. Algemene uitgangspunten openbaarmaking
+##### Artikel 2. Algemene uitgangspunten openbaarmaking
 
 1. De openbaarmaking vindt overeenkomstig de wet en het besluit of de [Woo](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) plaats.
 
@@ -70,7 +96,7 @@ In deze beleidsregel wordt verstaan onder:
 
 4. De NVWA maakt de in het tweede lid genoemde informatie zoveel mogelijk op de website van de NVWA actief openbaar.
 
-#### Artikel 3. Informatie die actief openbaar wordt gemaakt
+##### Artikel 3. Informatie die actief openbaar wordt gemaakt
 
 1. De in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050345&artikel=2&z=2024-10-30&g=2024-10-30), bedoelde informatie omvat in ieder geval:
 
@@ -84,7 +110,7 @@ In deze beleidsregel wordt verstaan onder:
 
 4. Bij afgebakende projectmatige bedrijfsonderzoeken, gericht op naleving van inspectieonderwerpen, behorende bij een thema, zal het oordeel op grond van de eerste of de eerste twee inspecties (in het geval er meerdere inspecties bij hetzelfde bedrijf binnen het project zijn uitgevoerd) openbaar gemaakt worden. In het geval er meer inspecties binnen het project zijn uitgevoerd, kan ook gemotiveerd gekozen worden voor het openbaar maken van meer dan twee inspectieresultaten binnen dat project.
 
-#### Artikel 4. Informatie die niet actief openbaar gemaakt wordt
+##### Artikel 4. Informatie die niet actief openbaar gemaakt wordt
 
 De in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050345&artikel=2&z=2024-10-30&g=2024-10-30), bedoelde informatie omvat niet:
 
@@ -100,7 +126,7 @@ De in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050345&ar
 
 - –. Informatie waarvan het, vanuit een toezichtvernieuwing en het beoogde effect daarvan, ongewenst is deze openbaar te maken.
 
-#### Artikel 5. Wijze van openbaar maken per bedrijf
+##### Artikel 5. Wijze van openbaar maken per bedrijf
 
 1. De openbaarmaking gebeurt gestructureerd en zoveel mogelijk op uniforme wijze op niveau van thema, inspectieonderwerp en – indien relevant – inspectie-item.
 
@@ -152,7 +178,7 @@ De in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050345&ar
 
 6. De uitwerking van de oordelen is opgenomen in hoofdstuk 3 van de bijlage.
 
-#### Artikel 6. Wijze van openbaar maken per product
+##### Artikel 6. Wijze van openbaar maken per product
 
 1. De openbaarmaking gebeurt zoveel mogelijk gestructureerd en op uniforme wijze op niveau van thema, inspectieonderwerp en – indien relevant – inspectie-item.
 
@@ -185,19 +211,19 @@ De in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050345&ar
 
 5. De uitwerking van de oordelen is opgenomen in hoofdstuk 3 van de bijlage.
 
-#### Artikel 7
+##### Artikel 7
 
 De wijze van publicatie en het starten van nieuwe openbaarmakingstrajecten vindt overeenkomstig de bijlage plaats.
 
-#### Artikel 8
+##### Artikel 8
 
 De [beleidsregel omtrent actieve openbaarmaking van inspectiegegevens door de NVWA](https://wetten.overheid.nl/jci1.3:c:BWBR0043907) wordt ingetrokken.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin hij wordt geplaatst.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel omtrent actieve openbaarmaking van inspectiegegevens door de NVWA 2024.
 

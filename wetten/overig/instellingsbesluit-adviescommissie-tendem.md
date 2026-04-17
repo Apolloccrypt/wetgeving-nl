@@ -1,22 +1,47 @@
 ---
-title: "Instellingsbesluit adviescommissie TENDEM"
+title: "Instelling adviescommissie TENDEM"
 identifier: "BWBR0010933"
-categorie: "Overig"
-publicatiedatum: 1999-12-10
-laatste_update: 1999-12-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010933"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1999-12-10"
+last_updated: "1999-12-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010933"
+soort: "ministeriele-regeling"
+stam_id: "3957403"
+version_id: "5730502"
+internal_id: "C5933231"
+label_id: "3937414"
+dtd_version: "2.0"
+original_entry_into_force: "1999-12-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010933/1999-12-10/0"
+intitule_bron: "Stcrt.1999-237"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-12-06"
+intitule_published: "1999-12-08"
+intitule_in_force: "1999-12-08"
+intitule_status: "goed"
+original_publication: "Stcrt.1999-237"
+original_signed_date: "1999-12-06"
+original_published_date: "1999-12-08"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1999-12-10"
+jci_1_3: "jci1.3:c:BWBR0010933&z=1999-12-10&g=1999-12-10"
+jci_1_0: "1.0:c:BWBR0010933&g=1999-12-10"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit adviescommissie TENDEM"
+signed_date: "1999-12-06"
+entry_into_force: "1999-12-10"
 ---
-
 # Instelling adviescommissie TENDEM
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een adviescommissie TENDEM die tot taak heeft Novem op haar verzoek te adviseren omtrent aanvragen in het kader van het energieprogramma TENDEM.
 
@@ -34,7 +59,7 @@ In dit besluit wordt verstaan onder:
 
 8. Het beheer van de bescheiden betreffende de werkzaamheden van de commissie geschiedt op overeenkomstige wijze als bij Novem. De bescheiden worden na beëindiging van de werkzaamheden van de commissie opgeborgen in het archief van Novem.
 
-#### Artikel 3
+##### Artikel 3
 
 Ter gelegenheid van de instelling van de adviescommissie TENDEM worden, te rekenen vanaf 11 oktober 1999, voor een periode van twee jaar als leden benoemd:
 
@@ -54,11 +79,11 @@ Ter gelegenheid van de instelling van de adviescommissie TENDEM worden, te reken
 
 - h. ir. E. van Andel te Boekelo.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit wordt aangehaald als: Instellingsbesluit adviescommissie TENDEM.
 

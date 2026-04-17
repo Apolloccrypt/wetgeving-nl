@@ -1,13 +1,35 @@
 ---
-title: "Besluit ex artikel 18 Wet overgangsregeling arbeidsongeschiktheidsverzekering"
+title: "Besluit van 22 juni 1967, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 18 van de Wet overgangsregeling arbeidsongeschiktheidsverzekering"
 identifier: "BWBR0002590"
-categorie: "Arbeidsrecht"
-publicatiedatum: 1967-07-01
-laatste_update: 1967-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002590"
+country: "nl"
+rank: "amvb"
+publication_date: "1967-07-01"
+last_updated: "1967-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002590"
+soort: "AMvB"
+stam_id: "391763"
+version_id: "577302"
+internal_id: "C577301"
+label_id: "381914"
+dtd_version: "2.0"
+original_entry_into_force: "1967-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002590/1967-07-01/0"
+intitule_bron: "Stb.1967-333"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1967-06-22"
+intitule_status: "goed"
+original_publication: "Stb.1967-333"
+original_signed_date: "1967-06-22"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1967-07-01"
+jci_1_3: "jci1.3:c:BWBR0002590&z=1967-07-01&g=1967-07-01"
+jci_1_0: "1.0:c:BWBR0002590&g=1967-07-01"
+citeertitel_status: "officieel"
+short_title: "Besluit ex artikel 18 Wet overgangsregeling arbeidsongeschiktheidsverzekering"
+signed_date: "1967-06-22"
+entry_into_force: "1967-07-01"
 ---
-
 # Besluit van 22 juni 1967, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 18 van de Wet overgangsregeling arbeidsongeschiktheidsverzekering
 
 Op de voordracht van Onze Minister van Sociale Zaken en Volksgezondheid van 11 mei 1967, Directoraat-Generaal voor Sociale Voorzieningen, Directie Sociale Verzekering, Afdeling Algemene Zaken, Nr. 57191;
@@ -20,7 +42,7 @@ Gezien het nader rapport van onze Minister van Sociale Zaken en Volksgezondheid 
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 De in [artikel 17, eerste lid, van de Wet overgangsregeling arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002551&artikel=17) vermelde reeks van percentages wordt gewijzigd in de volgende reeks:
 
@@ -73,7 +95,7 @@ De in [artikel 17, eerste lid, van de Wet overgangsregeling arbeidsongeschikthei
 | 1 januari 1967 tot 1 april 1967 | 106 |
 | 1 april 1967 tot 1 juli 1967 | 104. |
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van 1 juli 1967.
 

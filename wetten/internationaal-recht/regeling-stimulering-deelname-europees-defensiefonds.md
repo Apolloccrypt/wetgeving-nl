@@ -1,20 +1,46 @@
 ---
-title: "Regeling stimulering deelname Europees Defensiefonds"
+title: "Regeling van de Minister van Economische Zaken en Klimaat van 29 november 2021, nr. WJZ/ 21294511, houdende de vaststelling van subsidie-instrumenten ter stimulering van de deelname van ondernemingen aan acties in het kader van het Europees Defensiefonds (Regeling stimulering deelname Europees Defensiefonds)"
 identifier: "BWBR0045966"
-categorie: "Internationaal recht"
-publicatiedatum: 2025-04-16
-laatste_update: 2025-04-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045966"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-04-16"
+last_updated: "2025-04-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045966"
+soort: "ministeriele-regeling"
+stam_id: "16167523"
+version_id: "29423162"
+internal_id: "C42075111"
+label_id: "16096064"
+dtd_version: "2.0"
+original_entry_into_force: "2023-05-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045966/2025-04-16/0"
+intitule_bron: "Stcrt.2021-48328"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-11-29"
+intitule_published: "2021-12-01"
+intitule_in_force: "2021-12-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-15432"
+original_signed_date: "2023-05-26"
+original_published_date: "2023-05-30"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2023-15432"
+entry_into_force_date: "2023-05-26"
+jci_1_3: "jci1.3:c:BWBR0045966&z=2025-04-16&g=2025-04-16"
+jci_1_0: "1.0:c:BWBR0045966&g=2025-04-16"
+citeertitel_status: "officieel"
+short_title: "Regeling stimulering deelname Europees Defensiefonds"
+signed_date: "2023-05-26"
+entry_into_force: "2023-05-26"
 ---
-
 # Regeling van de Minister van Economische Zaken en Klimaat van 29 november 2021, nr. WJZ/ 21294511, houdende de vaststelling van subsidie-instrumenten ter stimulering van de deelname van ondernemingen aan acties in het kader van het Europees Defensiefonds (Regeling stimulering deelname Europees Defensiefonds)
 
 Gelet op [artikel 3 van de Kaderwet EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3);
 
 Besluit:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 In deze regeling wordt verstaan onder:
 
@@ -60,7 +86,7 @@ In deze regeling wordt verstaan onder:
 
 - **zeggenschap:** zeggenschap als bedoeld in artikel 2, onderdeel 6, van de EDF Verordening.
 
-#### Artikel 2. Subsidieverstrekking
+##### Artikel 2. Subsidieverstrekking
 
 De minister verstrekt op aanvraag subsidie aan:
 
@@ -68,7 +94,7 @@ De minister verstrekt op aanvraag subsidie aan:
 
 - b. een ondernemer die een ontwikkelactiviteit verricht in het kader van een actie.
 
-#### Artikel 3. Subsidiabele kosten
+##### Artikel 3. Subsidiabele kosten
 
 1. Voor subsidie, bedoeld in [artikel 2, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045966&artikel=2&z=2025-04-16&g=2025-04-16), komen uitsluitend in aanmerking consultancykosten als bedoeld in artikel 18 van de algemene groepsvrijstellingverordening ter voorbereiding op deelname aan een consortium.
 
@@ -78,7 +104,7 @@ De minister verstrekt op aanvraag subsidie aan:
 
 4. Kosten die betrekking hebben op activiteiten als bedoeld in artikel 9, vijfde en zesde lid, van de EDF Verordening komen niet in aanmerking voor subsidie als bedoeld in [artikel 2, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045966&artikel=2&z=2025-04-16&g=2025-04-16).
 
-#### Artikel 4. Steunintensiteit
+##### Artikel 4. Steunintensiteit
 
 1. De subsidie, bedoeld in [artikel 2, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045966&artikel=2&z=2025-04-16&g=2025-04-16), bedraagt ten hoogste 50 procent van de subsidiabele kosten.
 
@@ -90,13 +116,13 @@ De minister verstrekt op aanvraag subsidie aan:
 
 - b. 15 procent, indien is voldaan aan de voorwaarden, bedoeld in artikel 25, zesde lid, onderdeel b, onder i, van de algemene groepsvrijstellingsverordening.
 
-#### Artikel 5. Subsidiemaximum
+##### Artikel 5. Subsidiemaximum
 
 1. De subsidie, bedoeld in [artikel 2, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045966&artikel=2&z=2025-04-16&g=2025-04-16), bedraagt ten hoogste € 5.000 per actie per oproep.
 
 2. De subsidie, bedoeld in [artikel 2, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045966&artikel=2&z=2025-04-16&g=2025-04-16), bedraagt ten hoogste € 1.500.000 per actie.
 
-#### Artikel 6. Aanvraag tot subsidieverlening
+##### Artikel 6. Aanvraag tot subsidieverlening
 
 1. Een aanvraag tot subsidieverlening wordt ingediend met gebruikmaking van een middel dat door de minister beschikbaar wordt gesteld.
 
@@ -136,7 +162,7 @@ De minister verstrekt op aanvraag subsidie aan:
 
 7. Een subsidieaanvraag kan worden ingediend vanaf 09:00 uur op de in het tweede en vierde lid genoemde begindatum en is tijdig ingediend indien deze op de in het tweede en vierde lid genoemde sluitingsdatum voor 17:00 uur is ontvangen.
 
-#### Artikel 7. Afwijzingsgronden
+##### Artikel 7. Afwijzingsgronden
 
 1. De minister beslist afwijzend op een aanvraag tot subsidieverstrekking indien:
 
@@ -178,7 +204,7 @@ De minister verstrekt op aanvraag subsidie aan:
 
 - c. de minister van Defensie financiering verstrekt voor de ontwikkelactiviteiten waarvoor subsidie als bedoeld in [artikel 2, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045966&artikel=2&z=2025-04-16&g=2025-04-16), wordt aangevraagd.
 
-#### Artikel 8. Verdeling subsidieplafond
+##### Artikel 8. Verdeling subsidieplafond
 
 1. Het subsidieplafond voor subsidie als bedoeld in [artikel 2, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045966&artikel=2&z=2025-04-16&g=2025-04-16), bedraagt € 0 per openstellingsperiode als bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045966&artikel=6&z=2025-04-16&g=2025-04-16).
 
@@ -200,7 +226,7 @@ De minister verstrekt op aanvraag subsidie aan:
 
 8. Indien blijkt dat het totale bedrag van de te verlenen subsidies voor acties als bedoeld in [artikel 2, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045966&artikel=2&z=2025-04-16&g=2025-04-16), in een bepaalde openstellingsperiode lager is dan het daarvoor vastgestelde subsidieplafond, wordt het overblijvende bedrag aan het subsidieplafond voor acties als bedoeld in [artikel 2, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045966&artikel=2&z=2025-04-16&g=2025-04-16), toegevoegd.
 
-#### Artikel 9. Opschortende voorwaarden
+##### Artikel 9. Opschortende voorwaarden
 
 1. De subsidieverlening, bedoeld in [artikel 2, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045966&artikel=2&z=2025-04-16&g=2025-04-16), vindt plaats onder de opschortende voorwaarden dat:
 
@@ -210,19 +236,19 @@ De minister verstrekt op aanvraag subsidie aan:
 
 2. Voor een onderneming die onder zeggenschap staat van een niet-geassocieerd derde land of van een entiteit uit een niet-geassocieerd derde land, wordt de voorwaarde genoemd in het eerste lid, onderdeel a, uitsluitend vervuld, indien de garanties, bedoeld in artikel 9, vierde lid, van de EDF Verordening, zijn geaccepteerd door de Europese Commissie.
 
-#### Artikel 10. Beslistermijn
+##### Artikel 10. Beslistermijn
 
 1. De minister geeft een beschikking op een aanvraag om subsidie als bedoeld in [artikel 2, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045966&artikel=2&z=2025-04-16&g=2025-04-16), binnen 8 weken na ontvangst van de aanvraag.
 
 2. De minister geeft de beschikking op een aanvraag tot verlening van subsidie als bedoeld in [artikel 2, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045966&artikel=2&z=2025-04-16&g=2025-04-16), binnen 8 weken na ontvangst van de aanvraag maar uiterlijk een werkdag voor de sluitingsdatum van de oproep.
 
-#### Artikel 11. Start- en realisatietermijn
+##### Artikel 11. Start- en realisatietermijn
 
 1. De dienstverlening door een externe consultant waarvoor subsidie op grond van [artikel 2, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045966&artikel=2&z=2025-04-16&g=2025-04-16), wordt verstrekt, vangt aan nadat de aanvraag tot subsidieverlening is ingediend en is uiterlijk voltooid voordat de aanvrager is gebonden door de consortiumovereenkomst of zodra de oproep is gesloten.
 
 2. De ontwikkelactiviteiten, waarvoor subsidie op grond van [artikel 2, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045966&artikel=2&z=2025-04-16&g=2025-04-16), wordt verstrekt, worden verricht in de periode tussen de aanvang van de actie en het einde van de looptijd van het Europees Defensiefonds, bedoeld in artikel 1 van de EDF Verordening.
 
-#### Artikel 12. Verplichtingen subsidieontvanger
+##### Artikel 12. Verplichtingen subsidieontvanger
 
 1. De subsidieontvanger doet onverwijld schriftelijk mededeling aan de minister:
 
@@ -260,7 +286,7 @@ De minister verstrekt op aanvraag subsidie aan:
 
 10. De subsidieontvanger verleent gedurende vijf jaar na de datum van de beschikking tot subsidievaststelling medewerking aan een evaluatie van de doeltreffendheid en de effecten van de aan hem verleende subsidie, voor zover medewerking redelijkerwijs van hem kan worden verlangd.
 
-#### Artikel 13. Voorschotten
+##### Artikel 13. Voorschotten
 
 1. Nadat is voldaan aan de opschortende voorwaarden, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045966&artikel=9&z=2025-04-16&g=2025-04-16), en de financieringsovereenkomst voor de betreffende actie ondertekend is door de Europese Commissie, verstrekt de minister voorschotten voor een subsidie als bedoeld in [artikel 2, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045966&artikel=2&z=2025-04-16&g=2025-04-16).
 
@@ -276,7 +302,7 @@ De minister verstrekt op aanvraag subsidie aan:
 
 7. Het geheel aan voorschotten als bedoeld in het eerste lid, bedraagt niet meer dan het voorschotpercentage, bedoeld in het vierde lid, maal de maximale hoogte van de subsidie.
 
-#### Artikel 14. Staatssteun
+##### Artikel 14. Staatssteun
 
 1. De subsidie, bedoeld in [artikel 2, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045966&artikel=2&z=2025-04-16&g=2025-04-16), bevat staatssteun en wordt gerechtvaardigd door artikel 18 van de algemene groepsvrijstellingsverordening.
 
@@ -284,7 +310,7 @@ De minister verstrekt op aanvraag subsidie aan:
 
 3. De minister verstrekt in aanvulling op de door de Europese Commissie uit het Europees Defensiefonds verstrekte financiering voor de subsidiabele kosten of een deel daarvan slechts een zodanig bedrag aan subsidie dat het totale bedrag aan steun niet meer bedraagt dan het bedrag dat op grond van deze regeling kan worden verstrekt noch meer bedraagt dan toegestaan volgens de algemene groepsvrijstellingsverordening.
 
-#### Artikel 15. Aanvraag en termijn subsidievaststelling
+##### Artikel 15. Aanvraag en termijn subsidievaststelling
 
 1. De beschikking tot subsidieverlening, bedoeld in [artikel 2, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045966&artikel=2&z=2025-04-16&g=2025-04-16), houdt tevens in de subsidievaststelling.
 
@@ -298,17 +324,17 @@ De minister verstrekt op aanvraag subsidie aan:
 
 4. De minister geeft de beschikking tot subsidievaststelling binnen dertien weken na ontvangst van de aanvraag daartoe dan wel nadat de voor het indienen ervan geldende termijn is verstreken.
 
-#### Artikel 16
+##### Artikel 16
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 17
+##### Artikel 17
 
 Deze regeling wordt aangehaald als: Regeling stimulering deelname Europees Defensiefonds.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 15a
+##### Artikel 15a
 
 Deze regeling vervalt met ingang van 29 november 2026, met dien verstande dat deze van toepassing blijft op subsidies die voor deze datum zijn verleend.
 

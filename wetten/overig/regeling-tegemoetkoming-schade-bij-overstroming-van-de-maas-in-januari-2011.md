@@ -1,13 +1,38 @@
 ---
 title: "Regeling tegemoetkoming schade bij overstroming van de Maas in januari 2011"
 identifier: "BWBR0030242"
-categorie: "Overig"
-publicatiedatum: 2011-07-13
-laatste_update: 2011-07-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030242"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2011-07-13"
+last_updated: "2011-07-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030242"
+soort: "ministeriele-regeling"
+stam_id: "11390123"
+version_id: "18692582"
+internal_id: "C26083381"
+label_id: "11363914"
+dtd_version: "2.0"
+original_entry_into_force: "2011-07-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030242/2011-07-13/0"
+intitule_bron: "Stcrt.2011-12398"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-07-01"
+intitule_published: "2011-07-12"
+intitule_in_force: "2011-07-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-12398"
+original_signed_date: "2011-07-01"
+original_published_date: "2011-07-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-12398"
+entry_into_force_date: "2011-07-13"
+jci_1_3: "jci1.3:c:BWBR0030242&z=2011-07-13&g=2011-07-13"
+jci_1_0: "1.0:c:BWBR0030242&g=2011-07-13"
+citeertitel_status: "officieel"
+signed_date: "2011-07-01"
+entry_into_force: "2011-07-13"
 ---
-
 # Regeling tegemoetkoming schade bij overstroming van de Maas in januari 2011
 
 Handelende in overeenstemming met de Minister van Financiën en met de Staatssecretarissen van Economische Zaken, Landbouw en Innovatie en van Infrastructuur en Milieu;
@@ -18,7 +43,7 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -30,23 +55,23 @@ In deze regeling wordt verstaan onder:
 
 - d. **kostenbedrag:** de gemaakte kosten, vastgesteld door een schade-expert, waarop in mindering zijn gebracht de kosten, bedoeld in [artikel 4, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=4) juncto [artikel 5 van het Besluit tegemoetkoming schade bij rampen](https://wetten.overheid.nl/jci1.3:c:BWBR0010000&artikel=5).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Deze regeling is van toepassing op de schade en kosten die op 8, 9, 10 en 11 januari 2011 in het schadegebied zijn ontstaan als rechtstreeks en onmiddellijk gevolg van een overstroming door zoet water, veroorzaakt door een rivierafvoer met een gemiddelde kans van voorkomen van minder dan 1/10 per jaar.
 
 2. Indien het onverkort vasthouden aan het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030242&paragraaf=1&artikel=1&z=2011-07-13&g=2011-07-13) omschreven schadegebied tot onbillijke situaties leidt, kan de Minister van Veiligheid en Justitie in individuele gevallen bij zijn besluitvorming van dat schadegebied afwijken.
 
-#### Artikel 3
+##### Artikel 3
 
 Aan deze regeling kan slechts aanspraak tot tegemoetkoming worden ontleend nadat de Europese Commissie de verenigbaarheid van deze regeling met artikel 107 van het Verdrag betreffende de werking van de Europese Unie heeft vastgesteld.
 
 #### § 2. Hoogte van de tegemoetkoming
 
-#### Artikel 4. Schade aan de woning, woonwagen of woonschip
+##### Artikel 4. Schade aan de woning, woonwagen of woonschip
 
 De hoogte van de tegemoetkoming in de schade, bedoeld in [artikel 4, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=4), bedraagt 90% van het schadebedrag.
 
-#### Artikel 5. Schade aan inboedel
+##### Artikel 5. Schade aan inboedel
 
 De hoogte van de tegemoetkoming in de schade, bedoeld in [artikel 4, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=4), bedraagt:
 
@@ -56,11 +81,11 @@ De hoogte van de tegemoetkoming in de schade, bedoeld in [artikel 4, eerste lid,
 
 - c. 50% van het schadebedrag tussen € 15.370 en € 30.740.
 
-#### Artikel 6. Schade aan openbare infrastructurele voorzieningen
+##### Artikel 6. Schade aan openbare infrastructurele voorzieningen
 
 De hoogte van de tegemoetkoming in de schade, bedoeld in [artikel 4, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=4), bedraagt 58,5% van het schadebedrag.
 
-#### Artikel 7. Schade aan vaste en vlottende activa
+##### Artikel 7. Schade aan vaste en vlottende activa
 
 1. De hoogte van de tegemoetkoming in de schade, bedoeld in [artikel 4, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=4), bedraagt 65% van het schadebedrag.
 
@@ -68,7 +93,7 @@ De hoogte van de tegemoetkoming in de schade, bedoeld in [artikel 4, eerste lid,
 
 3. In afwijking van het eerste lid bedraagt de hoogte van de tegemoetkoming in de schade, bedoeld in [artikel 4, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=4), voor een gedupeerd openbaar lichaam 58,5% van het schadebedrag.
 
-#### Artikel 8. Teeltplanschade
+##### Artikel 8. Teeltplanschade
 
 1. De hoogte van de tegemoetkoming in de schade, bedoeld in [artikel 4, eerste lid, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=4), bedraagt 65% van het schadebedrag.
 
@@ -80,15 +105,15 @@ De hoogte van de tegemoetkoming in de schade, bedoeld in [artikel 4, eerste lid,
 
 3. Indien een gedupeerde op grond van het tweede lid geen recht heeft op een tegemoetkoming in teeltplanschade, wordt deze schade niet meegenomen bij de berekening van het drempelbedrag en het eigen risico, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0030242&paragraaf=2&artikel=13&z=2011-07-13&g=2011-07-13).
 
-#### Artikel 9. Bedrijfsschade
+##### Artikel 9. Bedrijfsschade
 
 De hoogte van de tegemoetkoming in de schade, bedoeld in [artikel 4, eerste lid, onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=4), bedraagt 65% van het schadebedrag.
 
-#### Artikel 10. Opstartkosten
+##### Artikel 10. Opstartkosten
 
 De hoogte van de tegemoetkoming in de kosten, bedoeld in [artikel 4, eerste lid, onderdeel g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=4), bedraagt 65% van de kosten.
 
-#### Artikel 11. Evacuatiekosten
+##### Artikel 11. Evacuatiekosten
 
 1. De hoogte van de tegemoetkoming in de kosten, bedoeld in [artikel 4, eerste lid, onderdeel h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=4), bedraagt 100% van het kostenbedrag als gevolg van een door het bevoegd gezag geboden of geadviseerd verlaten van de woon- of vestigingsplaats, doch ten minste € 770;
 
@@ -96,11 +121,11 @@ De hoogte van de tegemoetkoming in de kosten, bedoeld in [artikel 4, eerste lid,
 
 In afwijking van het eerste lid de hoogte van de tegemoetkoming voor particulieren, kerkgenootschappen, verenigingen en stichtingen 100% van het kostenbedrag als gevolg van een door het bevoegd gezag geboden of geadviseerd verlaten van de woon- of vestigingsplaats, doch ten minste € 260 en ten hoogste € 510;
 
-#### Artikel 12. Bereddings- en opruimingskosten
+##### Artikel 12. Bereddings- en opruimingskosten
 
 De hoogte van de tegemoetkoming in de kosten, bedoeld in [artikel 4, eerste lid, onderdelen i en j, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=4), gemaakt ter voorkoming, beperking of opruiming van schade als bedoeld in de [artikelen 4 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030242&paragraaf=2&artikel=4&z=2011-07-13&g=2011-07-13), bedraagt 65% van het kostenbedrag.
 
-#### Artikel 13. Drempelbedragen en eigen risico
+##### Artikel 13. Drempelbedragen en eigen risico
 
 1. Indien de som van de schade- en kostenbedragen, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030242&paragraaf=2&artikel=4&z=2011-07-13&g=2011-07-13), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0030242&paragraaf=2&artikel=5&z=2011-07-13&g=2011-07-13) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0030242&paragraaf=2&artikel=12&z=2011-07-13&g=2011-07-13), voor particulieren meer bedraagt dan € 570, heeft de gedupeerde recht op een tegemoetkoming in de schade en kosten.
 
@@ -112,17 +137,17 @@ De hoogte van de tegemoetkoming in de kosten, bedoeld in [artikel 4, eerste lid,
 
 #### § 3. Berekeningsgrondslag
 
-#### Artikel 14
+##### Artikel 14
 
 De schadetermijn voor de teeltplanschade, bedoeld in [artikel 4, eerste lid, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=4), en de bedrijfsschade, bedoeld in artikel 4, eerste lid, onderdeel f, van de wet, wordt gerekend vanaf 11 januari 2011 tot het moment waarop het bedrijf redelijkerwijs in staat moet worden geacht op zijn normale productieniveau te werken, rekening houdend met de geteelde gewassen of de gehouden diersoorten, met een maximum van 52 weken.
 
-#### Artikel 15
+##### Artikel 15
 
 Het uurloon, bedoeld in de [artikelen 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010000&artikel=2), en [3, derde lid, van het Besluit tegemoetkoming schade bij rampen](https://wetten.overheid.nl/jci1.3:c:BWBR0010000&artikel=3), wordt vastgesteld op € 18,90 bruto per mensuur.
 
 #### § 4. Procedure
 
-#### Artikel 16
+##### Artikel 16
 
 1. Degene die aanspraak wenst te maken op een tegemoetkoming in de schade of kosten meldt dit uiterlijk 15 augustus 2011 bij de Dienst Regelingen van het Ministerie van Economische Zaken, Landbouw en Innovatie door middel van het daartoe bestemde WTS-schademeldingsformulier, dat kan worden aangevraagd bij de Dienst Regelingen. Een schademelding kan tot deze datum worden aangevuld.
 
@@ -132,11 +157,11 @@ Het uurloon, bedoeld in de [artikelen 2, tweede lid](https://wetten.overheid.nl/
 
 4. De aanvraag tot verlening van een tegemoetkoming in schade of kosten wordt ingediend door middel van het door de schade-expert, na overleg met de aanvrager, ingevulde en door de aanvrager ondertekende WTS-aanvraagformulier. De aanvraag wordt ingediend bij de Dienst Regelingen binnen acht dagen nadat de schade-expert het WTS-aanvraagformulier aan de gedupeerde heeft verstrekt.
 
-#### Artikel 17
+##### Artikel 17
 
 De Minister van Veiligheid en Justitie beslist binnen dertien weken na ontvangst van de aanvraag, bedoeld in [artikel 16, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030242&paragraaf=4&artikel=16&z=2011-07-13&g=2011-07-13). Indien niet binnen deze termijn een besluit op de aanvraag kan worden genomen, stelt de minister de aanvrager daarvan in kennis en noemt daarbij een redelijke termijn waarbinnen de beschikking tegemoet kan worden gezien.
 
-#### Artikel 18
+##### Artikel 18
 
 De beschikking op een aanvraag bevat in ieder geval:
 
@@ -150,11 +175,11 @@ De beschikking op een aanvraag bevat in ieder geval:
 
 #### § 5. Slotbepalingen
 
-#### Artikel 19
+##### Artikel 19
 
 Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 20
+##### Artikel 20
 
 Deze regeling wordt aangehaald als: Regeling tegemoetkoming schade bij overstroming van de Maas in januari 2011.
 

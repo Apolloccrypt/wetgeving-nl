@@ -1,20 +1,45 @@
 ---
-title: "Regeling procedure reorganisaties sector Rechterlijke Macht"
+title: "Regeling van de Minister van Justitie van 20 december 2004, nr. 5326086/804, inzake de procedure bij reorganisaties in de sector Rechterlijke Macht"
 identifier: "BWBR0017783"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2020-04-21
-laatste_update: 2020-04-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0017783"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-04-21"
+last_updated: "2020-04-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0017783"
+soort: "ministeriele-regeling"
+stam_id: "6546183"
+version_id: "11342152"
+internal_id: "C29117451"
+label_id: "6534694"
+original_entry_into_force: "2004-12-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0017783/2020-04-21/0"
+intitule_bron: "Stcrt.2004-250"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-12-20"
+intitule_published: "2004-12-27"
+intitule_in_force: "2004-12-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2004-250"
+original_signed_date: "2004-12-20"
+original_published_date: "2004-12-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2004-250-p34-SC68174"
+entry_into_force_date: "2004-12-29"
+jci_1_3: "jci1.3:c:BWBR0017783&z=2020-04-21&g=2020-04-21"
+jci_1_0: "1.0:c:BWBR0017783&g=2020-04-21"
+citeertitel_status: "redactioneel"
+short_title: "Regeling procedure reorganisaties sector Rechterlijke Macht"
+signed_date: "2004-12-20"
+entry_into_force: "2004-12-29"
 ---
-
 # Regeling van de Minister van Justitie van 20 december 2004, nr. 5326086/804, inzake de procedure bij reorganisaties in de sector Rechterlijke Macht
 
 Gelet op [artikel 36e van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=36e);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. De [Regeling procedure bij reorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0007967) zoals die gold tot en met 30 september 2019 is van toepassing op de rechterlijke ambtenaren, met dien verstande dat:
 
@@ -46,7 +71,7 @@ Besluit:
 
 3. In afwijking van het eerste lid, is [artikel 5, derde en vierde lid van de Regeling procedure bij reorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0007967&artikel=5) niet van overeenkomstige toepassing op de rechterlijke ambtenaren.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 22 december 2004.
 

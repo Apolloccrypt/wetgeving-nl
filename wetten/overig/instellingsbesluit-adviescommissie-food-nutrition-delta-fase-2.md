@@ -1,18 +1,44 @@
 ---
-title: "Instellingsbesluit Adviescommissie Food & Nutrition Delta fase 2"
+title: "Besluit van de Minister van Economische Zaken van 12 mei 2006, nr. O&I PI 6034649, tot instelling van een adviescommissie Food & Nutrition Delta fase 2 (Instellingsbesluit Adviescommissie Food & Nutrition Delta fase 2)"
 identifier: "BWBR0019860"
-categorie: "Overig"
-publicatiedatum: 2006-05-26
-laatste_update: 2006-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019860"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2006-05-26"
+last_updated: "2006-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019860"
+soort: "ministeriele-regeling"
+stam_id: "8302093"
+version_id: "13166572"
+internal_id: "C29246761"
+label_id: "8283164"
+dtd_version: "2.0"
+original_entry_into_force: "2006-05-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019860/2006-05-26/0"
+intitule_bron: "Stcrt.2006-101"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-05-12"
+intitule_published: "2006-05-24"
+intitule_in_force: "2006-05-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-101"
+original_signed_date: "2006-05-12"
+original_published_date: "2006-05-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-101-p12-SC75099"
+entry_into_force_date: "2006-05-26"
+jci_1_3: "jci1.3:c:BWBR0019860&z=2006-05-26&g=2006-05-26"
+jci_1_0: "1.0:c:BWBR0019860&g=2006-05-26"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Adviescommissie Food & Nutrition Delta fase 2"
+signed_date: "2006-05-12"
+entry_into_force: "2006-05-26"
 ---
-
 # Besluit van de Minister van Economische Zaken van 12 mei 2006, nr. O&I PI 6034649, tot instelling van een adviescommissie Food & Nutrition Delta fase 2 (Instellingsbesluit Adviescommissie Food & Nutrition Delta fase 2)
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -20,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - b. de minister: de Minister van Economische Zaken.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een Adviescommissie Food & Nutrition Delta fase 2.
 
@@ -40,7 +66,7 @@ In dit besluit wordt verstaan onder:
 
 4. Het advies van de commissie gaat vergezeld van een deugdelijke motivering.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De commissie bestaat uit een voorzitter en vier leden.
 
@@ -60,7 +86,7 @@ In dit besluit wordt verstaan onder:
 
 - e. prof.dr.ir. C.T. Verrips, te Utrecht.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De commissie stelt haar eigen werkwijze vast.
 
@@ -70,27 +96,27 @@ In dit besluit wordt verstaan onder:
 
 4. Na het uitbrengen van haar advies over het innovatieprogramma ‘Food & Nutrition Delta fase 2’ is de commissie opgeheven.
 
-#### Artikel 5
+##### Artikel 5
 
 De commissie verstrekt desgevraagd aan de minister de voor de uitoefening van zijn taak benodigde inlichtingen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De voorzitter van de commissie ontvangt voor het bijwonen van een vergadering een vergoeding van € 260,00.
 
 2. Voor voorbereidende werkzaamheden in het kader van de commissie, anders dan het bijwonen van een vergadering, ontvangt de voorzitter een vergoeding, die wordt berekend op basis van een uurtarief dat is gebaseerd op [salarisschaal 18 van Bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) en op een voorbereidingstijd van 20 uur per vergadering.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De andere leden van de commissie ontvangen voor het bijwonen van een vergadering een vergoeding van € 200,00.
 
 2. Voor voorbereidende werkzaamheden in het kader van de commissie, anders dan het bijwonen van een vergadering, ontvangen de leden een vergoeding, die wordt berekend op basis van een uurtarief dat is gebaseerd op [salarisschaal 18 van Bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) en op een voorbereidingstijd van 16 uur per vergadering.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 april 2006.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Adviescommissie Food & Nutrition Delta fase 2.
 

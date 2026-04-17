@@ -1,13 +1,35 @@
 ---
 title: "Benelux-Overeenkomst betreffende de uitoefening van de advocatuur"
 identifier: "BWBV0004241"
-categorie: "Internationaal recht"
-publicatiedatum: 1971-09-01
-laatste_update: 1971-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004241"
+country: "nl"
+rank: "verdrag"
+publication_date: "1971-09-01"
+last_updated: "1971-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004241"
+soort: "verdrag"
+stam_id: "10004014553"
+version_id: "10004177962"
+internal_id: "C10008344521"
+label_id: "10003999164"
+dtd_version: "2.0"
+original_entry_into_force: "1971-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004241/1971-09-01/0"
+intitule_bron: "Trb.1969-13"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1969-02-18"
+intitule_in_force: "1971-08-20"
+intitule_status: "goed"
+original_publication: "Trb.1969-13"
+original_published_date: "1969-02-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1969-13"
+entry_into_force_date: "1971-09-01"
+jci_1_3: "jci1.3:c:BWBV0004241&z=1971-09-01&g=1971-09-01"
+jci_1_0: "1.0:c:BWBV0004241&g=1971-09-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1971-09-01"
 ---
-
 # Benelux-Overeenkomst betreffende de uitoefening van de advocatuur
 
 De Regeringen van de Beneluxlanden, die deze Overeenkomst hebben ondertekend,
@@ -16,17 +38,17 @@ Overwegende dat de voortdurend verdergaande economische integratie van de Benelu
 
 Zijn als volgt overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 1. De advocaten die in een van de Overeenkomstsluitende Staten zijn ingeschreven, kunnen in burgerlijke zaken, strafzaken en administratieve zaken pleiten voor de rechtsprekende instanties van de andere Overeenkomstsluitende Staat, mits zij worden bijgestaan door een advocaat die gerechtigd is te pleiten ter plaatse waar zij aldus werkzaam zijn, en wel met dezelfde voorrechten en dezelfde verplichtingen als de advocaat die hen bijstaat.
 
 2. Het recht om te pleiten omvat het recht het dossier in te zien en het recht om de gedetineerde te bezoeken.
 
-#### Artikel 2
+##### Artikel 2
 
 De advocaten dragen in voorkomend geval het costuum van de balie waartoe zij behoren of het costuum van de ontvangende balie.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De beoordeling van overtredingen van de ereregelen door de advocaat in de uitoefening van de in artikel 1 genoemde werkzaamheden behoort tot de bevoegdheid van de tuchtrechtelijke autoriteiten van de ontvangende balie, onverminderd de bevoegdheid van de tuchtrechtelijke autoriteiten van de balie waartoe de betrokken advocaat behoort.
 
@@ -34,21 +56,21 @@ De advocaten dragen in voorkomend geval het costuum van de balie waartoe zij beh
 
 3. De tuchtrechtelijke autoriteiten van de balie waartoe de betrokken advocaat behoort worden ingelicht omtrent de beslissing en de omstandigheden die tot die beslissing hebben geleid.
 
-#### Artikel 4
+##### Artikel 4
 
 Indien en zolang deze Overeenkomst van kracht is voor de drie Beneluxlanden, worden de bepalingen daarvan aangemerkt als gemeenschappelijke rechtsregels voor de toepassing van de [hoofdstukken III](https://wetten.overheid.nl/jci1.3:c:BWBV0004117&hoofdstuk=III) en [IV van het Verdrag van 31 maart 1965 betreffende de instelling en het statuut van een Benelux-Gerechtshof](https://wetten.overheid.nl/jci1.3:c:BWBV0004117&hoofdstuk=IV).
 
-#### Artikel 5
+##### Artikel 5
 
 1. Wat het Koninkrijk der Nederlanden betreft, is deze Overeenkomst slechts van toepassing op het in Europa gelegen grondgebied.
 
 2. De Regering van het Koninkrijk der Nederlanden kan de toepassing van deze Overeenkomst uitbreiden tot Suriname en de Nederlandse Antillen bij een daartoe strekkende verklaring, te richten tot de Belgische Regering. Deze uitbreiding zal in werking treden op de eerste dag van de tweede maand volgende op de datum van de ontvangst van deze verklaring door de Belgische Regering.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze Overeenkomst staat open voor ondertekening voor de Regeringen der Beneluxlanden.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Deze Overeenkomst zal worden bekrachtigd en de akten van bekrachtiging zullen worden nedergelegd bij de Belgische Regering.
 
@@ -56,7 +78,7 @@ Deze Overeenkomst staat open voor ondertekening voor de Regeringen der Beneluxla
 
 3. Voor de Regering van het Beneluxland die de Overeenkomst bekrachtigt na de nederlegging van de tweede akte van bekrachtiging, zal de Overeenkomst in werking treden op de eerste dag van de tweede maand, volgende op de datum van de nederlegging van haar akte van bekrachtiging.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Deze Overeenkomst kan slechts worden opgezegd na overleg tussen de Regeringen van de Beneluxlanden.
 
@@ -64,7 +86,7 @@ Deze Overeenkomst staat open voor ondertekening voor de Regeringen der Beneluxla
 
 3. Opzegging door de Regering van het Koninkrijk der Nederlanden kan beperkt worden tot de gebieden of tot een van de gebieden, bedoeld in artikel 5, lid 2.
 
-#### Artikel 9
+##### Artikel 9
 
 De Belgische Regering zal aan de Nederlandse en de Luxemburgse Regering kennis geven van:
 
@@ -78,7 +100,7 @@ De Belgische Regering zal aan de Nederlandse en de Luxemburgse Regering kennis g
 
 ### Toelichting op de artikelen
 
-#### Artikel 1
+##### Artikel 1
 
 De Overeenkomst beperkt zich tot het pleiten en de daarmee samenhangende verplichtingen en strekt zich niet uit tot de vertegenwoordiging van partijen.
 
@@ -90,21 +112,21 @@ Bij de uitoefening van zijn functie geniet de buitenlandse advocaat dezelfde voo
 
 De buitenlandse advocaat die wordt bijgestaan door een plaatselijke advocaat, heeft dezelfde rechten als deze laatste ten aanzien van de inzage van het dossier en het contact met de gedetineerde door bezoek en correspondentie. Hij behoeft niet meer formaliteiten te vervullen dan voor de plaatselijke advocaat gelden.
 
-#### Artikel 2
+##### Artikel 2
 
 Ten aanzien van het dragen van de toga zullen de advocaten zich dienen te houden aan de plaatselijke gebruiken. Zij hebben niettemin de keuze tussen de toga van de balie waartoe zij behoren of de toga van de ontvangende balie.
 
-#### Artikel 3
+##### Artikel 3
 
 De beperkte tuchtrechtelijke bevoegdheid van de autoriteiten van de ontvangende balie t.a.v. buitenlandse advocaten zal volgens dezelfde regels worden uitgeoefend als die welke toepasselijk zijn op de ter plaatse ingeschreven advocaten. Het gekozen stelsel is gebaseerd op de gebruiken die in het algemeen in België worden gevolgd, maar heeft niet ten doel de balies te verplichten tuchtrechtspraak uit te oefenen over buitenlandse advocaten, indien zulks niet strookt met hun gebruiken.
 
 Zulks neemt niet weg, dat de buitenlandse advocaat onderworpen blijft aan de tuchtrechtspraak van zijn eigen balie, waarvan de autoriteiten zullen beoordelen of de overtredingen aanleiding dienen te geven tot sancties hunnerzijds. Overleg terzake tussen de betrokken balies zou wenselijk kunnen blijken.
 
-#### Artikelen 4 en 5
+##### Artikelen 4 en 5
 
 Deze artikelen behoeven geen toelichting.
 
-#### Artikelen 6. en volgende
+##### Artikelen 6. en volgende
 
 De formulering van deze artikelen wijkt af van die, welke in het algemeen in Benelux-Overeenkomsten wordt gebezigd. Hierdoor wordt het mogelijk, dat de Overeenkomst tussen twee Staten in werking treedt, zodra deze haar hebben bekrachtigd en dat de derde Staat er zich later bij aansluit.
 

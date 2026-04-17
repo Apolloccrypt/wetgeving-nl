@@ -1,20 +1,46 @@
 ---
-title: "Regeling uitvoering aanpak piekbelasting"
+title: "Regeling van de Minister voor Natuur en Stikstof van 23 november 2023, nr. WJZ/ 33440152, houdende regels voor het verstrekken van specifieke uitkeringen in verband met de uitvoering van de aanpak piekbelasting (Regeling uitvoering aanpak piekbelasting)"
 identifier: "BWBR0048957"
-categorie: "Belastingrecht"
-publicatiedatum: 2025-10-02
-laatste_update: 2025-10-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048957"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-10-02"
+last_updated: "2025-10-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048957"
+soort: "ministeriele-regeling"
+stam_id: "16935163"
+version_id: "29763672"
+internal_id: "C42655271"
+label_id: "16846634"
+dtd_version: "2.0"
+original_entry_into_force: "2023-11-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048957/2025-10-02/0"
+intitule_bron: "Stcrt.2023-32263"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-11-23"
+intitule_published: "2023-11-27"
+intitule_in_force: "2023-11-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-32263"
+original_signed_date: "2023-11-23"
+original_published_date: "2023-11-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-32263"
+entry_into_force_date: "2023-11-28"
+jci_1_3: "jci1.3:c:BWBR0048957&z=2025-10-02&g=2025-10-02"
+jci_1_0: "1.0:c:BWBR0048957&g=2025-10-02"
+citeertitel_status: "officieel"
+short_title: "Regeling uitvoering aanpak piekbelasting"
+signed_date: "2023-11-23"
+entry_into_force: "2023-11-28"
 ---
-
 # Regeling van de Minister voor Natuur en Stikstof van 23 november 2023, nr. WJZ/ 33440152, houdende regels voor het verstrekken van specifieke uitkeringen in verband met de uitvoering van de aanpak piekbelasting (Regeling uitvoering aanpak piekbelasting)
 
 Gelet op [artikelen 2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=2a), en [3 van de Kaderwet EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3);
 
 Besluit:
 
-#### Artikel 1. begripsbepalingen
+##### Artikel 1. begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -34,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 - –. **werkafspraken:** afspraken van het Rijk met de provincie over de uitvoering van de aanpak piekbelasting door het Rijk in de betreffende provincie.
 
-#### Artikel 2. specifieke uitkering
+##### Artikel 2. specifieke uitkering
 
 1. De minister verstrekt op aanvraag een specifieke uitkering aan de provincie:
 
@@ -58,13 +84,13 @@ In deze regeling wordt verstaan onder:
 
 - d. die reeds uit anderen hoofde zijn of worden gesubsidieerd.
 
-#### Artikel 3. hoogte van de uitkering
+##### Artikel 3. hoogte van de uitkering
 
 1. De specifieke uitkering bedraagt per provincie ten hoogste het bedrag, genoemd in de bijlage bij deze regeling.
 
 2. De betaling wordt verminderd met de hoogte van de btw waarvoor de provincie op grond van de [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817) voor compensatie in aanmerking komt.
 
-#### Artikel 4. aanvraag tot verlening
+##### Artikel 4. aanvraag tot verlening
 
 1. De specifieke uitkering kan worden aangevraagd tot 5 december 2023, 17:00 uur, met gebruikmaking van een door de minister beschikbaar gesteld middel.
 
@@ -74,39 +100,39 @@ In deze regeling wordt verstaan onder:
 
 - b. een opgave van de omvang van de kosten waarvoor de provincie in aanmerking komt voor compensatie op grond van de [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817), per kalenderjaar.
 
-#### Artikel 5. beslistermijn
+##### Artikel 5. beslistermijn
 
 De minister verleent de specifieke uitkering binnen acht weken na ontvangst van de aanvraag.
 
-#### Artikel 6. verplichtingen
+##### Artikel 6. verplichtingen
 
 1. De provincie neemt het Unierecht met betrekking tot mededinging, aanbesteding en staatssteun in acht bij de besteding van de specifieke uitkering.
 
 2. De minister kan in de beschikking tot verlening aanvullende verplichtingen opleggen.
 
-#### Artikel 7. voorschot
+##### Artikel 7. voorschot
 
 1. De minister verleent de provincie in de beschikking tot verlening een voorschot.
 
 2. Het voorschot wordt verdeeld over de jaren 2023, 2024 en 2025 conform de beschikking tot subsidieverlening in termijnen uitbetaald.
 
-#### Artikel 8. verlenging periode
+##### Artikel 8. verlenging periode
 
 Vervallen
 
-#### Artikel 9. verantwoording en vaststelling
+##### Artikel 9. verantwoording en vaststelling
 
 1. De provincie legt verantwoording af over de besteding van de specifieke uitkering op de wijze, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
 2. Nadat de minister de relevante verantwoordingsinformatie, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), van de minister van Binnenlandse Zaken en Koninkrijksrelaties heeft ontvangen, stelt de minister de uitkering binnen 22 weken na die ontvangst ambtshalve vast.
 
-#### Artikel 10. inwerkingtreding
+##### Artikel 10. inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 28 november 2028, met dien verstande dat zij van toepassing blijft op specifieke uitkeringen die voor die datum zijn aangevraagd, verleend of vastgesteld.
 
-#### Artikel 11. citeertitel
+##### Artikel 11. citeertitel
 
 Deze regeling wordt aangehaald als: Regeling uitvoering aanpak piekbelasting.
 

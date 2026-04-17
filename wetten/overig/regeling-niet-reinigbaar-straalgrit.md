@@ -1,24 +1,49 @@
 ---
 title: "Regeling niet-reinigbaar straalgrit"
 identifier: "BWBR0009203"
-categorie: "Overig"
-publicatiedatum: 2013-01-01
-laatste_update: 2013-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009203"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2013-01-01"
+last_updated: "2013-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009203"
+soort: "ministeriele-regeling"
+stam_id: "4885673"
+version_id: "19721332"
+internal_id: "C27685571"
+label_id: "4863674"
+dtd_version: "2.0"
+original_entry_into_force: "2012-10-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009203/2013-01-01/0"
+intitule_bron: "Stcrt.1997-245"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-12-18"
+intitule_published: "1997-12-19"
+intitule_in_force: "1997-12-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-21103"
+original_signed_date: "2012-10-17"
+original_published_date: "2012-10-24"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2012-21103"
+entry_into_force_date: "2012-10-17"
+jci_1_3: "jci1.3:c:BWBR0009203&z=2013-01-01&g=2013-01-01"
+jci_1_0: "1.0:c:BWBR0009203&g=2013-01-01"
+citeertitel_status: "officieel"
+signed_date: "2012-10-17"
+entry_into_force: "2012-10-17"
 ---
-
 # Regeling niet-reinigbaar straalgrit
 
 Gelet op artikel 7 van het Besluit stortverbod afvalstoffen (Stb 1997, 665);
 
 besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-#### Artikel 2
+##### Artikel 2
 
 Straalgrit is niet-reinigbaar indien:
 
@@ -43,27 +68,27 @@ Straalgrit is niet-reinigbaar indien:
 | 11º. | extraheerbare organische halogeenverbindingen | 500 mg/kg ds; |
 | 12º. | organotinverbindingen (uitgedrukt als tin) | 200 mg/kg ds. |
 
-#### Artikel 3
+##### Artikel 3
 
 De gewichtsprocenten en de concentratie van de stoffen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009203&artikel=2&z=2013-01-01&g=2013-01-01), worden gemeten door een onderzoekslaboratorium overeenkomstig de methode die is aangegeven in de bijlage.
 
-#### Artikel 4
+##### Artikel 4
 
 Met de in deze regeling genoemde normen en richtlijnen worden gelijkgesteld normen en richtlijnen die zijn vastgesteld in een andere lidstaat van de Europese Unie dan wel een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, en een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd.
 
-#### Artikel 5
+##### Artikel 5
 
 Na inwerkingtreding van deze regeling worden de met toepassing van de Regeling niet-reinigbaar straalgrit (Stcrt. 1996, 121) vastgestelde besluiten aangemeld als besluiten, vastgesteld met toepassing van deze regeling.
 
-#### Artikel 6
+##### Artikel 6
 
 De Regeling niet-reinigbaar straalgrit (Stcrt. 1996, 121) wordt ingetrokken.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling treedt in werking met ingang van de tweede dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling wordt aangehaald als: Regeling niet-reinigbaar straalgrit.
 
@@ -99,7 +124,7 @@ Het onderzoekslaboratorium vermeldt in een schriftelijk verslag van de meting te
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 5a
+##### Artikel 5a
 
 De Regeling niet-reinigbaar straalgrit berust op [artikel 9 van het Besluit stortplaatsen en stortverboden afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&artikel=9).
 

@@ -1,13 +1,38 @@
 ---
 title: "Circulaire GBA en woonfraude"
 identifier: "BWBR0023984"
-categorie: "Bestuursrecht"
-publicatiedatum: 2008-05-14
-laatste_update: 2008-05-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0023984"
+country: "nl"
+rank: "circulaire"
+publication_date: "2008-05-14"
+last_updated: "2008-05-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023984"
+soort: "circulaire"
+stam_id: "9525073"
+version_id: "15401812"
+internal_id: "C21011061"
+label_id: "9502264"
+dtd_version: "2.0"
+original_entry_into_force: "2008-05-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023984/2008-05-14/0"
+intitule_bron: "Stcrt.2008-112"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-05-23"
+intitule_published: "2008-06-13"
+intitule_in_force: "2008-06-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-112"
+original_signed_date: "2008-05-23"
+original_published_date: "2008-06-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-112-p11-SC86052"
+entry_into_force_date: "2008-05-14"
+jci_1_3: "jci1.3:c:BWBR0023984&z=2008-05-14&g=2008-05-14"
+jci_1_0: "1.0:c:BWBR0023984&g=2008-05-14"
+citeertitel_status: "redactioneel"
+signed_date: "2008-05-23"
+entry_into_force: "2008-05-14"
 ---
-
 # Circulaire GBA en woonfraude
 
 ### 1. **Inleiding**

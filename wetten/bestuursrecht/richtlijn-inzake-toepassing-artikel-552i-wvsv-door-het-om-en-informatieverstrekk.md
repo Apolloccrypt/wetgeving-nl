@@ -1,13 +1,36 @@
 ---
-title: "Richtlijn inzake toepassing artikel 552i WvSv door het OM en informatieverstrekking door de politie (wederzijdse rechtshulp in strafzaken)"
+title: "Richtlijn inzake de toepassing van artikel 552i WvSv door het OM en de informatieverstrekking door de politie in het kader van de wederzijdse rechtshulp in strafzaken"
 identifier: "BWBR0023576"
-categorie: "Bestuursrecht"
-publicatiedatum: 2008-03-01
-laatste_update: 2008-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0023576"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2008-03-01"
+last_updated: "2008-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023576"
+soort: "beleidsregel"
+stam_id: "9438463"
+version_id: "15197852"
+internal_id: "C20711681"
+label_id: "9416194"
+dtd_version: "2.0"
+original_entry_into_force: "2008-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023576/2008-03-01/0"
+intitule_bron: "Stcrt.2008-45"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2008-03-04"
+intitule_in_force: "2008-03-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-45"
+original_published_date: "2008-03-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-45-p18-SC84741"
+entry_into_force_date: "2008-03-01"
+jci_1_3: "jci1.3:c:BWBR0023576&z=2008-03-01&g=2008-03-01"
+jci_1_0: "1.0:c:BWBR0023576&g=2008-03-01"
+citeertitel_status: "redactioneel"
+short_title: "Richtlijn inzake toepassing artikel 552i WvSv door het OM en informatieverstrekking door de politie (wederzijdse rechtshulp in strafzaken)"
+entry_into_force: "2008-03-01"
 ---
-
 # Richtlijn inzake de toepassing van artikel 552i WvSv door het OM en de informatieverstrekking door de politie in het kader van de wederzijdse rechtshulp in strafzaken
 
 ### 1. Inleiding

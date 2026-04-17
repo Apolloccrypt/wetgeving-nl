@@ -1,34 +1,60 @@
 ---
-title: "Besluit vaststelling beleidsregels subsidiëring Versnellingsprogramma Informatie-uitwisseling Patiënt en Professional fase 2"
+title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 13 juli 2017, 617-165745-CZ, houdende vaststelling van beleidsregels voor het subsidiëren van overige instellingen voor medisch specialistische zorg, voor het stimuleren van elektronische gegevensuitwisseling tussen patiënt en zorgaanbieder (Besluit vaststelling beleidsregels subsidiëring Versnellingsprogramma Informatie-uitwisseling Patiënt en Professional fase 2)"
 identifier: "BWBR0039835"
-categorie: "Overig"
-publicatiedatum: 2019-10-19
-laatste_update: 2019-10-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039835"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2019-10-19"
+last_updated: "2019-10-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039835"
+soort: "ministeriele-regeling"
+stam_id: "14080683"
+version_id: "24246172"
+internal_id: "C34825671"
+label_id: "14041624"
+dtd_version: "2.0"
+original_entry_into_force: "2017-07-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039835/2019-10-19/0"
+intitule_bron: "Stcrt.2017-41685"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-07-13"
+intitule_published: "2017-07-24"
+intitule_in_force: "2017-07-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-41685"
+original_signed_date: "2017-07-13"
+original_published_date: "2017-07-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-41685"
+entry_into_force_date: "2017-07-25"
+jci_1_3: "jci1.3:c:BWBR0039835&z=2019-10-19&g=2019-10-19"
+jci_1_0: "1.0:c:BWBR0039835&g=2019-10-19"
+citeertitel_status: "officieel"
+short_title: "Besluit vaststelling beleidsregels subsidiëring Versnellingsprogramma Informatie-uitwisseling Patiënt en Professional fase 2"
+signed_date: "2017-07-13"
+entry_into_force: "2017-07-25"
 ---
-
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 13 juli 2017, 617-165745-CZ, houdende vaststelling van beleidsregels voor het subsidiëren van overige instellingen voor medisch specialistische zorg, voor het stimuleren van elektronische gegevensuitwisseling tussen patiënt en zorgaanbieder (Besluit vaststelling beleidsregels subsidiëring Versnellingsprogramma Informatie-uitwisseling Patiënt en Professional fase 2)
 
 Gelet op [artikel 3, tweede lid, van de Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3) en [artikel 1.3 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De beleidsregels voor het verstrekken van subsidies aan overige instellingen voor medisch specialistische zorg en Zelfstandige Klinieken Nederland voor het stimuleren van gestandaardiseerde elektronische gegevensuitwisseling tussen patiënt en zorgaanbieder worden vastgesteld overeenkomstig de bijlage bij dit besluit.
 
-#### Artikel 2
+##### Artikel 2
 
 Wijzigt de Kaderregeling subsidies OCW, SZW en VWS.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
 2. Dit besluit vervalt met ingang van 1 april 2020.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit wordt aangehaald als: Besluit vaststelling beleidsregels subsidiëring Versnellingsprogramma Informatie-uitwisseling Patiënt en Professional fase 2.
 

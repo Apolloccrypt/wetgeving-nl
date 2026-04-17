@@ -1,13 +1,39 @@
 ---
-title: "Samenwerkingsregeling waarborging plannen van aanpak landstaken Curaçao en Sint Maarten"
+title: "Besluit van 24 juli 2010, houdende tijdelijke voorzieningen voor de samenwerking bij en de waarborging van de uitvoering van de plannen van aanpak door de landen Curaçao en Sint Maarten (Samenwerkingsregeling waarborging plannen van aanpak landstaken Curaçao en Sint Maarten)"
 identifier: "BWBR0028136"
-categorie: "Overig"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028136"
+country: "nl"
+rank: "rijks_kb"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028136"
+soort: "rijksKB"
+stam_id: "10670733"
+version_id: "17625342"
+internal_id: "C24683201"
+label_id: "10645854"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028136/2010-10-10/0"
+intitule_bron: "Stb.2010-344"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-07-25"
+intitule_published: "2010-09-01"
+intitule_in_force: "2010-10-01"
+intitule_status: "goed"
+original_publication: "Stb.2010-344"
+original_signed_date: "2010-07-25"
+original_published_date: "2010-09-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-344"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028136&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028136&g=2010-10-10"
+citeertitel_status: "officieel"
+short_title: "Samenwerkingsregeling waarborging plannen van aanpak landstaken Curaçao en Sint Maarten"
+signed_date: "2010-07-25"
+entry_into_force: "2010-10-10"
 ---
-
 # Besluit van 24 juli 2010, houdende tijdelijke voorzieningen voor de samenwerking bij en de waarborging van de uitvoering van de plannen van aanpak door de landen Curaçao en Sint Maarten (Samenwerkingsregeling waarborging plannen van aanpak landstaken Curaçao en Sint Maarten)
 
 Op de voordracht van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 12 maart 2010, nr. 2010-0000160250, CZW, in overeenstemming met de regering van de Nederlandse Antillen en de bestuurscolleges van de eilandgebieden Curaçao en Sint Maarten;
@@ -28,7 +54,7 @@ Treedt in werking om 00:00 uur in Aruba, Curaçao, Sint Maarten, Bonaire, Sint E
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -50,7 +76,7 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 2. Plannen van aanpak
 
-#### Artikel 2. Plannen van aanpak
+##### Artikel 2. Plannen van aanpak
 
 1. Indien het Land op grond van de toetsingscriteria niet of onvoldoende in staat is met ingang van de datum van transitie een taak uit te oefenen, is er voor deze taak een plan van aanpak.
 
@@ -70,7 +96,7 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 3. De instelling en inrichting van de voortgangscommissies
 
-#### Artikel 3. De instelling van de voortgangscommissie
+##### Artikel 3. De instelling van de voortgangscommissie
 
 1. Indien voor een Land een of meer plannen van aanpak zijn vastgesteld, dan wordt bij koninklijk besluit een voortgangscommissie ingesteld, indien het Curaçao betreft, onder de naam «voortgangscommissie Curaçao» en, indien het Sint Maarten betreft, onder de naam «voortgangscommissie Sint Maarten».
 
@@ -80,7 +106,7 @@ In dit besluit wordt verstaan onder:
 
 4. De voortgangscommissie heeft haar zetel in het desbetreffende Land.
 
-#### Artikel 4. De benoeming en het ontslag van de leden van de voortgangscommissie
+##### Artikel 4. De benoeming en het ontslag van de leden van de voortgangscommissie
 
 1. De voorzitter en de andere leden worden benoemd op grond van deskundigheid en ervaring op het gebied van overheidsorganisaties.
 
@@ -106,7 +132,7 @@ In dit besluit wordt verstaan onder:
 
 9. Onze Minister stelt de vaste vergoeding van de leden van de voortgangscommissie vast. Hierbij wordt de toepasselijke salarisschaal van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) en de toepasselijke deeltijdfactor aangegeven. De leden hebben voorts overeenkomstig het [Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889) en het [Reisbesluit buitenland](https://wetten.overheid.nl/jci1.3:c:BWBR0006842) recht op vergoeding van reis- en verblijfskosten. Daarnaast hebben de leden op declaratiebasis recht op vergoeding van kosten van internationale telefoongesprekken die zij maken in het kader van de werkzaamheden voor de voortgangscommissie.
 
-#### Artikel 5. Incompatibiliteiten en verboden nevenfuncties
+##### Artikel 5. Incompatibiliteiten en verboden nevenfuncties
 
 1. Een lid van de voortgangscommissie kan niet tevens zijn:
 
@@ -136,7 +162,7 @@ In dit besluit wordt verstaan onder:
 
 4. De voortgangscommissie maakt de nevenfuncties en andere betrekkingen van een lid openbaar. Openbaarmaking geschiedt bij zijn benoeming en voorts door jaarlijkse publicatie van een opgave van deze nevenfuncties en betrekkingen in de Staatscourant en een in het Land algemeen verkrijgbaar publicatieblad.
 
-#### Artikel 6. Uitvoeringsapparaat
+##### Artikel 6. Uitvoeringsapparaat
 
 1. De voortgangscommissie heeft een secretaris.
 
@@ -148,7 +174,7 @@ In dit besluit wordt verstaan onder:
 
 5. De secretaris en de medewerkers zijn geen lid van de voortgangscommissie.
 
-#### Artikel 7. Besluitvorming
+##### Artikel 7. Besluitvorming
 
 1. De voortgangscommissie streeft bij het nemen van besluiten naar consensus.
 
@@ -158,17 +184,17 @@ In dit besluit wordt verstaan onder:
 
 4. De voorzitter en de secretaris van de voortgangscommissie bevorderen een doelmatige en voorspoedige uitvoering van de taken van de voortgangscommissie.
 
-#### Artikel 8. Toelating
+##### Artikel 8. Toelating
 
 De leden, de secretaris en de medewerkers van de voortgangscommissie alsmede hun echtgenoten of geregistreerde partners en minderjarige kinderen voor zover zij met hen een gemeenschappelijke huishouding voeren, zijn van rechtswege toegelaten tot het desbetreffende Land. Aan de leden, de secretaris en de medewerkers van de voortgangscommissie alsmede hun echtgenoten of geregistreerde partners worden geen nadere voorwaarden gesteld voor de uitoefening van een beroep of het verrichten van arbeid.
 
-#### Artikel 9. Bekostiging
+##### Artikel 9. Bekostiging
 
 De vergoeding van de leden, de secretaris en de medewerkers van de voortgangscommissie, alsmede de bekostiging van de overige apparaatsuitgaven komen voor de helft ten laste van de begroting van Onze Minister en voor de helft ten laste van de begroting van het Land.
 
 ### Hoofdstuk 4. Het ministerieel overleg
 
-#### Artikel 10. Instelling ministerieel overleg
+##### Artikel 10. Instelling ministerieel overleg
 
 1. Indien voor een Land een of meer plannen van aanpak zijn vastgesteld, is er, indien het Curaçao betreft, een ministerieel overleg plannen van aanpak Curaçao en, indien het Sint Maarten betreft, een ministerieel overleg plannen van aanpak Sint Maarten.
 
@@ -180,7 +206,7 @@ De vergoeding van de leden, de secretaris en de medewerkers van de voortgangscom
 
 3. Onze Minister-President van het Land treedt op als voorzitter van het ministerieel overleg.
 
-#### Artikel 11. De ondersteuning
+##### Artikel 11. De ondersteuning
 
 1. Het ministerieel overleg heeft een secretaris.
 
@@ -188,19 +214,19 @@ De vergoeding van de leden, de secretaris en de medewerkers van de voortgangscom
 
 3. De secretaris is geen lid van het ministerieel overleg.
 
-#### Artikel 12. De wijze van besluitvorming
+##### Artikel 12. De wijze van besluitvorming
 
 1. Het ministerieel overleg besluit bij eenparigheid van stemmen na Onze Minister van het Land te hebben gehoord.
 
 2. Indien het ministerieel overleg bij de uitvoering van zijn taken niet tot overeenstemming kan komen, stelt Onze Minister zo spoedig mogelijk de raad van ministers van het Koninkrijk hiervan in kennis.
 
-#### Artikel 13. De bijeenkomsten
+##### Artikel 13. De bijeenkomsten
 
 Het ministerieel overleg vergadert zo vaak als een lid van dat overleg dat nodig acht.
 
 ### Hoofdstuk 5. De taken van en medewerking door Onze Minister van het Land
 
-#### Artikel 14. De taken van Onze Minister van het Land
+##### Artikel 14. De taken van Onze Minister van het Land
 
 Onze Minister van het Land heeft tot taak:
 
@@ -212,13 +238,13 @@ Onze Minister van het Land heeft tot taak:
 
 - d. overeenkomstig de [hoofdstukken 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028136&hoofdstuk=9&z=2010-10-10&g=2010-10-10) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0028136&hoofdstuk=10&z=2010-10-10&g=2010-10-10) zo nodig de uitvoering van het plan van aanpak waarvoor hij verantwoordelijk is, te wijzigen.
 
-#### Artikel 15. De uitvoeringsrapportage
+##### Artikel 15. De uitvoeringsrapportage
 
 1. Onze Minister van het Land zendt uiterlijk twee weken na afloop van elk kwartaal een uitvoeringsrapportage aan de voortgangsscommissie. In deze uitvoeringsrapportage gaat Onze Minister van het Land in op de voortgang en de uitvoering van de plannen van aanpak waarvoor hij verantwoordelijk is.
 
 2. Onze Minister van het Land zendt een afschrift van de uitvoeringsrapportage naar de Staten van het Land.
 
-#### Artikel 16. Het verlenen van medewerking
+##### Artikel 16. Het verlenen van medewerking
 
 1. Onze Minister van het Land verleent de voortgangscommissie alle medewerking die zij nodig heeft voor de vervulling van haar taken.
 
@@ -228,7 +254,7 @@ Onze Minister van het Land heeft tot taak:
 
 ### Hoofdstuk 6. De taken van de voortgangscommissie
 
-#### Artikel 17. De taken van de voortgangscommissie
+##### Artikel 17. De taken van de voortgangscommissie
 
 De voortgangscommissie heeft tot taak:
 
@@ -242,7 +268,7 @@ De voortgangscommissie heeft tot taak:
 
 - e. overeenkomstig [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0028136&hoofdstuk=9&artikel=36&z=2010-10-10&g=2010-10-10) te adviseren aan Onze Minister van het Land over de uitvoering van de plannen van aanpak.
 
-#### Artikel 18. De voortgangsrapportage
+##### Artikel 18. De voortgangsrapportage
 
 1. Met inachtneming van het vierde lid zendt de voortgangscommissie uiterlijk zes weken na afloop van ieder kwartaal voor elk plan van aanpak een voortgangsrapportage aan het ministerieel overleg. In deze rapportage legt de voortgangscommissie haar bevindingen neer ten aanzien van de voortgang en de uitvoering van de plannen van aanpak door Onze Minister van het Land.
 
@@ -254,27 +280,27 @@ De voortgangscommissie heeft tot taak:
 
 5. In geval van ontvangst van de reactie van Onze Minister van het Land kan de voortgangscommissie de termijn van het eerste lid met een week verlengen.
 
-#### Artikel 19. De verantwoording door de voortgangscommissie
+##### Artikel 19. De verantwoording door de voortgangscommissie
 
 De voortgangscommissie verstrekt desgevraagd inlichtingen over haar werkzaamheden aan Onze Minister, aan Onze Minister-President van het Land en aan Onze Minister van het Land.
 
-#### Artikel 20. Aanwijzingen
+##### Artikel 20. Aanwijzingen
 
 Het ministerieel overleg kan, na instemming van de raad van ministers van het Koninkrijk, algemene en bijzondere aanwijzingen geven ten aanzien van de uitoefening van de in dit besluit aan de voortgangscommissie toegekende taken en bevoegdheden.
 
-#### Artikel 21. Onvoldoende taakuitoefening
+##### Artikel 21. Onvoldoende taakuitoefening
 
 1. Indien naar het oordeel van de raad van ministers van het Koninkrijk de voortgangscommissie bij de uitoefening van haar taak ernstig in gebreke blijft, kan Onze Minister, in overeenstemming met de raad van ministers van het Land, de noodzakelijke voorzieningen treffen.
 
 2. Deze voorzieningen worden, spoedeisende gevallen uitgezonderd, niet eerder getroffen dan nadat de voortgangscommissie in de gelegenheid is gesteld om binnen een door Onze Minister, in overeenstemming met de raad van ministers van het Koninkrijk te stellen termijn alsnog haar taak naar behoren uit te voeren.
 
-#### Artikel 22. Geheimhouding
+##### Artikel 22. Geheimhouding
 
 De voortgangscommissie neemt de met betrekking tot natuurlijke en rechtspersonen in het Land geldende geheimhoudingsbepalingen in acht.
 
 ### Hoofdstuk 7. De taken van het ministerieel overleg
 
-#### Artikel 23. De taken van het ministerieel overleg
+##### Artikel 23. De taken van het ministerieel overleg
 
 Het ministerieel overleg heeft tot taak:
 
@@ -288,7 +314,7 @@ Het ministerieel overleg heeft tot taak:
 
 ### Hoofdstuk 8. De wijziging van een plan van aanpak
 
-#### Artikel 24. De wijziging van het plan van aanpak
+##### Artikel 24. De wijziging van het plan van aanpak
 
 1. Onze Minister van het Land kan een plan van aanpak wijzigen:
 
@@ -306,11 +332,11 @@ Het ministerieel overleg heeft tot taak:
 
 - b. het is in het licht van de toetsingscriteria gewenst dat de taak waarvoor het plan van aanpak is opgesteld gedurende de looptijd van het plan of daarna op een andere wijze wordt verricht dan in het plan van aanpak is aangeven.
 
-#### Artikel 25. De aanbeveling van de voortgangscommissie tot wijziging
+##### Artikel 25. De aanbeveling van de voortgangscommissie tot wijziging
 
 De voortgangscommissie kan Onze Minister van het Land een aanbeveling tot wijziging van een plan van aanpak geven indien zij van oordeel is dat zich een situatie als bedoeld in [artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028136&hoofdstuk=8&artikel=24&z=2010-10-10&g=2010-10-10), voordoet.
 
-#### Artikel 26. De reactie van Onze Minister van het Land
+##### Artikel 26. De reactie van Onze Minister van het Land
 
 1. Onze Minister van het Land deelt binnen veertien dagen na ontvangst van een aanbeveling als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028136&hoofdstuk=8&artikel=25&z=2010-10-10&g=2010-10-10) aan de voortgangscommissie mee in hoeverre en, voor zover wordt rekening gehouden met de aanbeveling, op welke wijze hiermee rekening wordt gehouden.
 
@@ -318,11 +344,11 @@ De voortgangscommissie kan Onze Minister van het Land een aanbeveling tot wijzig
 
 3. Indien na ten minste zeven dagen volgend op de dag van verzending van het bericht, bedoeld in het tweede lid, naar het oordeel van de voortgangscommissie sprake blijft van een situatie als bedoeld in [artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028136&hoofdstuk=8&artikel=24&z=2010-10-10&g=2010-10-10), bericht de voortgangscommissie na afloop van die periode dienaangaande het ministerieel overleg.
 
-#### Artikel 27. De aanbeveling van het ministerieel overleg tot wijziging
+##### Artikel 27. De aanbeveling van het ministerieel overleg tot wijziging
 
 Het ministerieel overleg kan, al dan niet naar aanleiding van een bericht van de voortgangscommissie als bedoeld in [artikel 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028136&hoofdstuk=8&artikel=26&z=2010-10-10&g=2010-10-10), Onze Minister van het Land een aanbeveling tot wijziging van een plan van aanpak geven indien het van oordeel is dat zich een situatie als bedoeld in [artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028136&hoofdstuk=8&artikel=24&z=2010-10-10&g=2010-10-10), voordoet.
 
-#### Artikel 28. De reactie van Onze Minister van het Land
+##### Artikel 28. De reactie van Onze Minister van het Land
 
 1. Onze Minister van het Land deelt binnen veertien dagen na ontvangst van een aanbeveling als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028136&hoofdstuk=8&artikel=27&z=2010-10-10&g=2010-10-10) aan het ministerieel overleg mee in hoeverre en, voor zover wordt rekening gehouden met de aanbeveling, op welke wijze hiermee rekening wordt gehouden.
 
@@ -330,7 +356,7 @@ Het ministerieel overleg kan, al dan niet naar aanleiding van een bericht van de
 
 3. Indien na ten minste zeven dagen volgend op de dag van verzending van het bericht, bedoeld in het tweede lid, naar het oordeel van het ministerieel overleg sprake blijft van een situatie als bedoeld in [artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028136&hoofdstuk=8&artikel=24&z=2010-10-10&g=2010-10-10), bericht Onze Minister na afloop van die periode dienaangaande de raad van ministers van het Koninkrijk.
 
-#### Artikel 29. Advies bij wijziging uit eigen beweging
+##### Artikel 29. Advies bij wijziging uit eigen beweging
 
 1. Indien Onze Minister van het Land uit eigen beweging een plan van aanpak wenst te wijzigen, zendt hij een voorstel hiertoe ter advisering aan de voortgangscommissie.
 
@@ -338,7 +364,7 @@ Het ministerieel overleg kan, al dan niet naar aanleiding van een bericht van de
 
 3. Na ontvangst van het advies van de voortgangscommissie stelt Onze Minister van het Land binnen twee weken het gewijzigde plan van aanpak vast, dan wel stelt Onze Minister van het Land binnen twee weken vast dat het plan van aanpak niet gewijzigd zal worden.
 
-#### Artikel 30. De bekrachtiging van een gewijzigd plan van aanpak
+##### Artikel 30. De bekrachtiging van een gewijzigd plan van aanpak
 
 1. Onverwijld na de vaststelling van een gewijzigd plan van aanpak, zendt Onze Minister van het Land het gewijzigde plan, indien van toepassing vergezeld van het advies van de voortgangscommissie, ter bekrachtiging aan het ministerieel overleg.
 
@@ -348,7 +374,7 @@ Het ministerieel overleg kan, al dan niet naar aanleiding van een bericht van de
 
 ### Hoofdstuk 9. De wijziging van de uitvoering van een plan van aanpak
 
-#### Artikel 31. De wijziging van de uitvoering van een plan van aanpak
+##### Artikel 31. De wijziging van de uitvoering van een plan van aanpak
 
 1. Voor zover het niet noodzakelijk of gewenst is hiervoor het plan van aanpak te wijzigen, kan Onze Minister van het Land de uitvoering van een plan van aanpak wijzigen:
 
@@ -366,11 +392,11 @@ Het ministerieel overleg kan, al dan niet naar aanleiding van een bericht van de
 
 - b. het is gewenst dat het plan van aanpak op een andere wijze ten uitvoer wordt gebracht dan in de praktijk geschiedt.
 
-#### Artikel 32. De aanbeveling van de voortgangscommissie tot wijziging
+##### Artikel 32. De aanbeveling van de voortgangscommissie tot wijziging
 
 De voortgangscommissie kan Onze Minister van het Land een aanbeveling tot wijziging van de uitvoering van een plan van aanpak geven indien zij van oordeel is dat zich een situatie als bedoeld in [artikel 31, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028136&hoofdstuk=9&artikel=31&z=2010-10-10&g=2010-10-10), voordoet.
 
-#### Artikel 33. De reactie van Onze Minister van het Land
+##### Artikel 33. De reactie van Onze Minister van het Land
 
 1. Onze Minister van het Land deelt binnen veertien dagen na ontvangst van een aanbeveling als bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0028136&hoofdstuk=9&artikel=32&z=2010-10-10&g=2010-10-10) aan de voortgangscommissie mee in hoeverre en, voor zover wordt rekening gehouden met de aanbeveling, op welke wijze hiermee rekening wordt gehouden.
 
@@ -378,11 +404,11 @@ De voortgangscommissie kan Onze Minister van het Land een aanbeveling tot wijzig
 
 3. Indien na ten minste zeven dagen volgend op de dag van verzending van het bericht, bedoeld in het tweede lid, naar het oordeel van de voortgangscommissie sprake blijft van een situatie als bedoeld in [artikel 31, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028136&hoofdstuk=9&artikel=31&z=2010-10-10&g=2010-10-10), bericht de voortgangscommissie na afloop van die periode dienaangaande het ministerieel overleg.
 
-#### Artikel 34. De aanbeveling van het ministerieel overleg tot wijziging
+##### Artikel 34. De aanbeveling van het ministerieel overleg tot wijziging
 
 Het ministerieel overleg kan, al dan niet naar aanleiding van een bericht van de voortgangscommissie als bedoeld in [artikel 33, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028136&hoofdstuk=9&artikel=33&z=2010-10-10&g=2010-10-10), Onze Minister van het Land een aanbeveling tot wijziging van de uitvoering van een plan van aanpak geven indien het van oordeel is, dat zich een situatie als bedoeld in [artikel 31, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028136&hoofdstuk=9&artikel=31&z=2010-10-10&g=2010-10-10), voordoet.
 
-#### Artikel 35. De reactie van Onze Minister van het Land
+##### Artikel 35. De reactie van Onze Minister van het Land
 
 1. Onze Minister van het Land deelt binnen veertien dagen na ontvangst van een aanbeveling als bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0028136&hoofdstuk=9&artikel=34&z=2010-10-10&g=2010-10-10) aan het ministerieel overleg mee in hoeverre en, voor zover wordt rekening gehouden met de aanbeveling, op welke wijze hiermee rekening wordt gehouden.
 
@@ -390,13 +416,13 @@ Het ministerieel overleg kan, al dan niet naar aanleiding van een bericht van de
 
 3. Indien na ten minste zeven dagen volgend op de dag van verzending van het bericht, bedoeld in het tweede lid, naar het oordeel van het ministerieel overleg sprake blijft van een situatie als bedoeld in [artikel 31, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028136&hoofdstuk=9&artikel=31&z=2010-10-10&g=2010-10-10), bericht Onze Minister na afloop van die periode dienaangaande de raad van ministers van het Koninkrijk.
 
-#### Artikel 36. Advies over de uitvoering van een plan van aanpak
+##### Artikel 36. Advies over de uitvoering van een plan van aanpak
 
 1. Onze Minister van het Land kan de voortgangscommissie om advies vragen over de uitvoering van het plan van aanpak.
 
 2. De voortgangscommissie brengt binnen twee weken na ontvangst van de adviesaanvraag het advies uit en zendt een afschrift hiervan aan het ministerieel overleg.
 
-#### Artikel 37. Voltooiing uitvoering plan van aanpak
+##### Artikel 37. Voltooiing uitvoering plan van aanpak
 
 1. Indien Onze Minister van het Land van oordeel is dat de uitvoering van een plan van aanpak is voltooid, zendt Onze Minister van het Land een gemotiveerde verklaring, vergezeld van het advies van de voortgangscommissie, aan het ministerieel overleg, ter bekrachtiging van dat oordeel.
 
@@ -404,7 +430,7 @@ Het ministerieel overleg kan, al dan niet naar aanleiding van een bericht van de
 
 ### Hoofdstuk 10. De raad van ministers van het Koninkrijk
 
-#### Artikel 38. Het treffen van een voorziening
+##### Artikel 38. Het treffen van een voorziening
 
 1. De raad van ministers van het Koninkrijk kan, Onze Minister van het Land gehoord, een voorziening treffen met betrekking tot een plan van aanpak of de uitvoering daarvan.
 
@@ -414,7 +440,7 @@ Het ministerieel overleg kan, al dan niet naar aanleiding van een bericht van de
 
 ### Hoofdstuk 11. Beroep
 
-#### Artikel 39. Kroonberoep
+##### Artikel 39. Kroonberoep
 
 1. Tegen een koninklijk besluit als bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0028136&hoofdstuk=10&artikel=38&z=2010-10-10&g=2010-10-10), staat voor Onze Minister van het Land gedurende dertig dagen na verzending van het besluit beroep open bij Ons. De Raad van State van het Koninkrijk is belast met het voorbereiden van het ontwerpbesluit inzake de beslissing op het beroep. Ons besluit wordt in een in het Land algemeen verkrijgbaar publicatieblad bekend gemaakt en ter kennis van Onze Minister van het Land gebracht.
 
@@ -440,7 +466,7 @@ Het ministerieel overleg kan, al dan niet naar aanleiding van een bericht van de
 
 12. Besluiten van Onze Minister op grond van dit besluit zijn niet vatbaar voor beroep op de administratieve rechter op grond van de Landsverordening Administratieve rechtsspraak of de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537). Dit geldt eveneens voor Ons besluit als bedoeld in het eerste lid.
 
-#### Artikel 40. Verzoek om voorlopige voorziening
+##### Artikel 40. Verzoek om voorlopige voorziening
 
 1. Indien op grond van [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0028136&hoofdstuk=11&artikel=39&z=2010-10-10&g=2010-10-10), tegen een besluit beroep is ingesteld, kan een daartoe door de Vice-President aangewezen staatsraad op verzoek een voorlopige voorziening treffen indien onverwijlde spoed, gelet op de betrokken belangen, dat vereist.
 
@@ -468,11 +494,11 @@ Het ministerieel overleg kan, al dan niet naar aanleiding van een bericht van de
 
 ### Hoofdstuk 12. Slotbepalingen
 
-#### Artikel 41. Beheer bescheiden
+##### Artikel 41. Beheer bescheiden
 
 De bescheiden betreffende de werkzaamheden van de voortgangscommissie worden na beëindiging van haar werkzaamheden bewaard in het archief van Onze Minister-President van het Land. De bescheiden worden in afschrift ter beschikking gesteld van Onze Minister.
 
-#### Artikel 42. Inwerkingtreding, intrekking en verlenging
+##### Artikel 42. Inwerkingtreding, intrekking en verlenging
 
 1. Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Dit tijdstip ligt niet eerder dan vier weken na de datum van uitgifte van het Staatsblad waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal.
 
@@ -482,7 +508,7 @@ De bescheiden betreffende de werkzaamheden van de voortgangscommissie worden na 
 
 4. Een voordracht voor een koninklijk besluit, als bedoeld in het tweede en derde lid, wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
-#### Artikel 43. Citeertitel
+##### Artikel 43. Citeertitel
 
 Dit besluit wordt aangehaald als: Samenwerkingsregeling waarborging plannen van aanpak landstaken Curaçao en Sint Maarten.
 

@@ -1,14 +1,42 @@
 ---
-title: "Wijzigingswet Wet educatie en beroepsonderwijs, enz. (decentralisatie rechtspositieregeling educatie en beroepsonderwijs"
+title: "Wet van 3 juli 1996, houdende wijziging van de Wet educatie en beroepsonderwijs in verband met decentralisatie van regelgeving op arbeidsvoorwaardelijk terrein, alsmede wijziging van enkele andere wetten (decentralisatie rechtspositieregeling educatie en beroepsonderwijs)"
 identifier: "BWBR0008163"
-categorie: "Onderwijs"
-publicatiedatum: 1997-01-01
-laatste_update: 1997-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008163"
+country: "nl"
+rank: "wet"
+publication_date: "1997-01-01"
+last_updated: "1997-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008163"
+soort: "wet"
+stam_id: "2732773"
+version_id: "20165222"
+internal_id: "C28346221"
+label_id: "2679974"
+dtd_version: "2.0"
+original_entry_into_force: "1996-07-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008163/1997-01-01/0"
+intitule_bron: "Stb.1996-397"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-07-03"
+intitule_published: "1996-07-23"
+intitule_in_force: "1996-07-23"
+intitule_status: "goed"
+original_publication: "Stb.1996-397"
+original_signed_date: "1996-07-03"
+original_published_date: "1996-07-23"
+original_effect: "nieuwe-regeling"
+original_dossier: "23946"
+original_url_id: "stb-1996-397"
+entry_into_force_date: "1996-07-24"
+entry_into_force_dossier: "23946"
+jci_1_3: "jci1.3:c:BWBR0008163&z=1997-01-01&g=1997-01-01"
+jci_1_0: "1.0:c:BWBR0008163&g=1997-01-01"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet Wet educatie en beroepsonderwijs, enz. (decentralisatie rechtspositieregeling educatie en beroepsonderwijs"
+signed_date: "1996-07-03"
+entry_into_force: "1996-07-24"
 ---
-
-# Wijzigingswet Wet educatie en beroepsonderwijs, enz. (decentralisatie rechtspositieregeling educatie en beroepsonderwijs
+# Wet van 3 juli 1996, houdende wijziging van de Wet educatie en beroepsonderwijs in verband met decentralisatie van regelgeving op arbeidsvoorwaardelijk terrein, alsmede wijziging van enkele andere wetten (decentralisatie rechtspositieregeling educatie en beroepsonderwijs)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -20,11 +48,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 Artikelen I, onderdelen A, B, H-U, III, onderdeel A.10, IV onderdeel J, V, onderdelen B en C, VII en IX werken terug tot en met 01-01-1996.
 
-#### ARTIKEL I. WIJZIGING WET EDUCATIE EN BEROEPSONDERWIJS
+##### ARTIKEL I. WIJZIGING WET EDUCATIE EN BEROEPSONDERWIJS
 
 Wijzigt de Wet educatie en beroepsonderwijs.
 
-#### ARTIKEL II. INVOERINGS- EN OVERGANGSRECHT
+##### ARTIKEL II. INVOERINGS- EN OVERGANGSRECHT
 
 - 1. Indien op het tijdstip van inwerkingtreding van deze wet door het bevoegd gezag van een openbare instelling of van een agrarisch innovatie- en praktijkcentrum geen bepalingen omtrent aanstelling, schorsing, disciplinaire maatregelen en ontslag als bedoeld in [artikel 4.1.2, vierde lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=4.1.2) zijn vastgesteld, worden deze bepalingen vastgesteld door Onze Minister van Onderwijs, Cultuur en Wetenschappen en, voor zover het betreft landbouwonderwijs, Onze Minister van Landbouw, Natuurbeheer en Visserij.
 
@@ -36,39 +64,39 @@ B. Voor zover door het bevoegd gezag van een instelling, van een agrarisch innov
 
 - 2. Tot het in het eerste lid bedoelde bij koninklijk besluit te bepalen tijdstip kunnen de in dat lid bedoelde op de dag voorafgaand aan het tijdstip van inwerkingtreding van die wet geldende regels, voor zover bij of krachtens algemene maatregel van bestuur vastgesteld, worden gewijzigd bij algemene maatregel van bestuur onderscheidenlijk bij ministeriële regeling.
 
-#### ARTIKEL III. WIJZIGING WET VAN 31 MEI 1995 (STB. 318)
+##### ARTIKEL III. WIJZIGING WET VAN 31 MEI 1995 (STB. 318)
 
 Wijzigt de Wet op het voortgezet onderwijs, enz. (regeling lump sum en decentralisatie rechtspositieregeling v.w.o.-a.v.o.-v.b.o.)
 
-#### ARTIKEL IV. WIJZIGING WET OP HET VOORTGEZET ONDERWIJS
+##### ARTIKEL IV. WIJZIGING WET OP HET VOORTGEZET ONDERWIJS
 
 Wijzigt de Wet op het voortgezet onderwijs.
 
-#### ARTIKEL V. WIJZIGING WET OP HET VOORTGEZET ONDERWIJS
+##### ARTIKEL V. WIJZIGING WET OP HET VOORTGEZET ONDERWIJS
 
 Wijzigt de Wet op het voortgezet onderwijs.
 
-#### ARTIKEL VI. WIJZIGING LES- EN CURSUSGELDWET
+##### ARTIKEL VI. WIJZIGING LES- EN CURSUSGELDWET
 
 Wijzigt de Les- en cursusgeldwet.
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### ARTIKEL VII. WIJZIGING WET TEGEMOETKOMING STUDIEKOSTEN
+##### ARTIKEL VII. WIJZIGING WET TEGEMOETKOMING STUDIEKOSTEN
 
 Wijzigt de Wet tegemoetkoming studiekosten.
 
-#### ARTIKEL VIII. WIJZIGING WET TEGEMOETKOMING STUDIEKOSTEN
+##### ARTIKEL VIII. WIJZIGING WET TEGEMOETKOMING STUDIEKOSTEN
 
 Wijzigt de Wet tegemoetkoming studiekosten.
 
-#### ARTIKEL IX. OVERGANGSBEPALING GEORGANISEERD OVERLEG; OVERGANGSBEPALING AANHANGIGE GESCHILLEN
+##### ARTIKEL IX. OVERGANGSBEPALING GEORGANISEERD OVERLEG; OVERGANGSBEPALING AANHANGIGE GESCHILLEN
 
 1. Vervallen.
 
 2. Op geschillen tussen personeel en bevoegd gezag onderscheidenlijk bestuur van een school, instelling of instituut als bedoeld in [artikel 12.3.2, eerste lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=12.3.2), of landelijk orgaan voor het beroepsonderwijs als bedoeld in die wet, die aanhangig zijn gemaakt bij een commissie van beroep of bij de burgerlijke rechter ingevolge de voorschriften, geldend op de dag voorafgaand aan het tijdstip waarop Onze Minister van Onderwijs, Cultuur en Wetenschappen ten aanzien van die school, die instelling of dat instituut toepassing geeft aan artikel 12.3.1 onderscheidenlijk [artikel 12.3.10 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=12.3.10), blijven de op die dag geldende voorschriften van toepassing.
 
-#### ARTIKEL X. INWERKINGTREDING
+##### ARTIKEL X. INWERKINGTREDING
 
 1. De [artikelen I, onderdelen C tot en met G, en II](https://wetten.overheid.nl/jci1.3:c:BWBR0008163&artikel=I&z=1997-01-01&g=1997-01-01) treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende in die onderdelen genoemde instellingen, innovatie- en praktijkcentra en landelijke organen verschillend kan worden vastgesteld.
 

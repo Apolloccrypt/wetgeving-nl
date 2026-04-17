@@ -1,13 +1,37 @@
 ---
 title: "Overeenkomst, opgesteld op grond van Artikel K.3 van het Verdrag betreffende de Europese Unie, aangaande de bescherming van de financiële belangen van de Europese Gemeenschappen"
 identifier: "BWBV0001473"
-categorie: "Internationaal recht"
-publicatiedatum: 2002-10-17
-laatste_update: 2002-10-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001473"
+country: "nl"
+rank: "verdrag"
+publication_date: "2002-10-17"
+last_updated: "2002-10-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001473"
+soort: "verdrag"
+stam_id: "10000425943"
+version_id: "10000434022"
+internal_id: "C10006988041"
+label_id: "10000426124"
+original_entry_into_force: "2002-10-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001473/2002-10-17/0"
+intitule_bron: "Trb.1995-289"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-02-16"
+intitule_published: "1995-12-21"
+intitule_in_force: "2002-10-09"
+intitule_status: "goed"
+original_publication: "Trb.1995-289"
+original_signed_date: "2001-02-16"
+original_published_date: "1995-12-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1995-289"
+entry_into_force_date: "2002-10-17"
+jci_1_3: "jci1.3:c:BWBV0001473&z=2002-10-17&g=2002-10-17"
+jci_1_0: "1.0:c:BWBV0001473&g=2002-10-17"
+citeertitel_status: "officieel"
+signed_date: "2001-02-16"
+entry_into_force: "2002-10-17"
 ---
-
 # Overeenkomst, opgesteld op grond van Artikel K.3 van het Verdrag betreffende de Europese Unie, aangaande de bescherming van de financiële belangen van de Europese Gemeenschappen
 
 De Hoge Verdragsluitende Partijen bij deze Overeenkomst, de Lid-Staten van de Europese Unie,
@@ -28,7 +52,7 @@ Vastbesloten om samen de fraude waardoor de financiële belangen van de Europese
 
 Hebben overeenstemming bereikt omtrent de volgende bepalingen:
 
-#### Artikel 1. Algemene bepalingen
+##### Artikel 1. Algemene bepalingen
 
 1. Voor de toepassing van deze Overeenkomst wordt onder fraude waardoor de financiële belangen van de Europese Gemeenschappen worden geschaad, verstaan:
 
@@ -54,7 +78,7 @@ Hebben overeenstemming bereikt omtrent de volgende bepalingen:
 
 4. Het opzet bij een handeling of een nalaten als bedoeld in de leden 1 en 3, kan worden afgeleid uit objectieve feitelijke omstandigheden.
 
-#### Artikel 2. Sancties
+##### Artikel 2. Sancties
 
 1. Elke Lid-Staat neemt de nodige maatregelen opdat op de in lid 1 bedoelde gedragingen, alsmede medeplichtigheid aan, uitlokking van of poging tot de in artikel 1, lid 1, bedoelde gedragingen, doeltreffende, evenredige en afschrikkende strafrechtelijke sancties worden gesteld, met inbegrip, ten minste bij ernstige fraude, van vrijheidsstraffen die aanleiding kunnen geven tot uitlevering; als ernstige fraude wordt aangemerkt iedere fraude waarmee een door elke Lid-Staat te bepalen minimumbedrag is gemoeid. Dit minimumbedrag mag niet hoger zijn dan 50.000 ecu.
 
@@ -62,11 +86,11 @@ Hebben overeenstemming bereikt omtrent de volgende bepalingen:
 
 3. Het in lid 2 genoemde bedrag kan door de Raad van de Europese Unie met eenparigheid van stemmen worden gewijzigd.
 
-#### Artikel 3. Strafrechtelijke aansprakelijkheid van leidinggevenden
+##### Artikel 3. Strafrechtelijke aansprakelijkheid van leidinggevenden
 
 Elke Lid-Staat treft de nodige maatregelen opdat ondernemingshoofden of personen die beslissings- of controlebevoegdheid binnen een onderneming hebben, overeenkomstig de beginselen van zijn nationaal recht, strafrechtelijk aansprakelijk kunnen worden gesteld in geval van frauduleuze handelingen ten nadele van de financiële belangen van de Europese Gemeenschappen als bedoeld in artikel 1, die voor rekening van de onderneming door een aan hen ondergeschikte persoon zijn begaan.
 
-#### Artikel 4. Rechtsmacht
+##### Artikel 4. Rechtsmacht
 
 1. Elke Lid-Staat neemt de nodige maatregelen om zijn rechtsmacht te vestigen ten aanzien van de overeenkomstig de artikelen 1 en 2, lid 1, strafbaar gestelde feiten waarbij
 
@@ -78,7 +102,7 @@ Elke Lid-Staat treft de nodige maatregelen opdat ondernemingshoofden of personen
 
 2. Elke Lid-Staat kan bij de kennisgeving als bedoeld in artikel 11, lid 2, verklaren dat hij de bepaling van lid 1, derde streepje, van het onderhavige artikel niet toepast.
 
-#### Artikel 5. Uitlevering en vervolging
+##### Artikel 5. Uitlevering en vervolging
 
 1. Elke Lid-Staat die ingevolge zijn nationale recht geen eigen onderdanen uitlevert, treft de nodige maatregelen om zijn rechtsmacht te vestigen ten aanzien van overeenkomstig de artikelen 1 en 2, lid 1, strafbaar gestelde feiten die door deze onderdanen buiten zijn grondgebied worden begaan.
 
@@ -88,13 +112,13 @@ Elke Lid-Staat treft de nodige maatregelen opdat ondernemingshoofden of personen
 
 4. Voor de toepassing van dit artikel worden onder „onderdanen van een Lid-Staat” de personen verstaan als omschreven in de verklaring die de betrokken Lid-Staat heeft afgelegd uit hoofde van [artikel 6, lid 1, onder b), van het Europees Verdrag betreffende uitlevering](https://wetten.overheid.nl/jci1.3:c:BWBV0001010&artikel=6), alsmede de personen bedoeld in lid 1, onder c), van dat artikel.
 
-#### Artikel 6. Samenwerking
+##### Artikel 6. Samenwerking
 
 1. Wanneer twee of meer Lid-Staten betrokken zijn bij een strafbaar gestelde fraude als omschreven in artikel 1, werken deze Lid-Staten doeltreffend samen bij het onderzoek, de vervolging en de bestraffing van het strafbaar feit, bijvoorbeeld door middel van wederzijdse rechtshulp, uitlevering, overdracht van strafvervolging of tenuitvoerlegging van in een andere Lid-Staat gewezen rechterlijke beslissingen.
 
 2. Wanneer meer dan één Lid-Staat bevoegd is en elk van hen ter zake van dezelfde feiten een vervolging kan instellen, bepalen de betrokken Lid-Staten in onderling overleg wie van hen de dader of daders zal vervolgen, met het doel de vervolging zo mogelijk in één Lid-Staat te centraliseren.
 
-#### Artikel 7. Ne bis in idem-beginsel
+##### Artikel 7. Ne bis in idem-beginsel
 
 1. De Lid-Staten passen in hun nationale strafrecht het „ne bis in idem"-beginsel toe, volgens hetwelk een persoon die bij onherroepelijk vonnis in een Lid-Staat is berecht, in een andere Lid-Staat niet kan worden vervolgd ter zake van dezelfde feiten, op voorwaarde dat ingeval een straf of maatregel is opgelegd, deze reeds is ondergaan of feitelijk ten uitvoer wordt gelegd, dan wel op grond van de wetten van de veroordelende Staat niet meer ten uitvoer gelegd kan worden.
 
@@ -110,23 +134,23 @@ Elke Lid-Staat treft de nodige maatregelen opdat ondernemingshoofden of personen
 
 4. Dit artikel laat de relevante bilaterale of multilaterale overeenkomsten tussen Lid-Staten, alsmede de met betrekking daartoe afgelegde verklaringen, onverlet.
 
-#### Artikel 8. Hof van Justitie
+##### Artikel 8. Hof van Justitie
 
 1. Geschillen tussen Lid-Staten over de uitlegging of de toepassing van deze Overeenkomst worden, met het oog op een oplossing, in een eerste fase in de Raad besproken volgens de procedure van titel VI van het Verdrag betreffende de Europese Unie. Indien binnen zes maanden geen oplossing is gevonden, kan de zaak door een bij het geschil betrokken partij aan het Hof van Justitie van de Europese Gemeenschappen worden voorgelegd.
 
 2. Ieder geschil tussen één of meer Lid-Staten en de Commissie betreffende artikel 1 of artikel 10 van deze Overeenkomst dat niet door middel van onderhandelingen kon worden opgelost, kan aan het Hof van Justitie van de Europese Gemeenschappen worden voorgelegd.
 
-#### Artikel 9. Nationale bepalingen
+##### Artikel 9. Nationale bepalingen
 
 Niets in deze Overeenkomst belet de Lid-Staten nationale bepalingen aan te nemen die verder gaan dan de verplichtingen uit hoofde van deze Overeenkomst.
 
-#### Artikel 10. Mededeling
+##### Artikel 10. Mededeling
 
 1. De Lid-Staten delen aan de Commissie van de Europese Gemeenschappen de tekst mede van hun nationale bepalingen ter omzetting van de verplichtingen die krachtens deze Overeenkomst op hen rusten.
 
 2. Voor de toepassing van deze Overeenkomst stellen de Hoge Verdragsluitende Partijen in de Raad van de Europese Unie vast, welke gegevens moeten worden verstrekt, respectievelijk uitgewisseld tussen de Lid-Staten onderling dan wel tussen de Lid-Staten en de Commissie, alsmede de wijze waarop een en ander geschiedt.
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 1. Deze Overeenkomst wordt de Lid-Staten ter aanneming volgens hun onderscheiden grondwettelijke bepalingen voorgelegd.
 
@@ -134,7 +158,7 @@ Niets in deze Overeenkomst belet de Lid-Staten nationale bepalingen aan te nemen
 
 3. Deze Overeenkomst treedt in werking negentig dagen na de kennisgeving als bedoeld in lid 2 door de Lid-Staat die als laatste daartoe overgaat.
 
-#### Artikel 12. Toetreding van nieuwe Lid-Staten
+##### Artikel 12. Toetreding van nieuwe Lid-Staten
 
 1. Elke Staat die lid wordt van de Europese Unie, kan tot deze Overeenkomst toetreden.
 
@@ -144,7 +168,7 @@ Niets in deze Overeenkomst belet de Lid-Staten nationale bepalingen aan te nemen
 
 4. Deze Overeenkomst treedt ten aanzien van elke toetredende Staat in werking negentig dagen nadat diens akte van toetreding is neergelegd, of op de datum van haar inwerkingtreding indien deze Overeenkomst bij het verstrijken van de genoemde periode van negentig dagen nog niet in werking is getreden.
 
-#### Artikel 13. Depositaris
+##### Artikel 13. Depositaris
 
 1. De Secretaris-Generaal van de Raad van de Europese Unie is depositaris van deze Overeenkomst.
 

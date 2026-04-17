@@ -1,13 +1,38 @@
 ---
 title: "Regeling archiefbeheer NZa"
 identifier: "BWBR0041538"
-categorie: "Overig"
-publicatiedatum: 2018-11-13
-laatste_update: 2018-11-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041538"
+country: "nl"
+rank: "zbo"
+publication_date: "2018-11-13"
+last_updated: "2018-11-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041538"
+soort: "zbo"
+stam_id: "14855343"
+version_id: "25410302"
+internal_id: "C36276221"
+label_id: "14807084"
+dtd_version: "2.0"
+original_entry_into_force: "2018-11-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041538/2018-11-13/0"
+intitule_bron: "Stcrt.2018-63073"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-10-29"
+intitule_published: "2018-11-12"
+intitule_in_force: "2018-11-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-63073"
+original_signed_date: "2018-10-29"
+original_published_date: "2018-11-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-63073"
+entry_into_force_date: "2018-11-13"
+jci_1_3: "jci1.3:c:BWBR0041538&z=2018-11-13&g=2018-11-13"
+jci_1_0: "1.0:c:BWBR0041538&g=2018-11-13"
+citeertitel_status: "officieel"
+signed_date: "2018-10-29"
+entry_into_force: "2018-11-13"
 ---
-
 # Regeling archiefbeheer NZa
 
 gelet op [artikel 41, tweede lid, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=41) en [artikel 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14),
@@ -18,7 +43,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -70,11 +95,11 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Reikwijdte en verantwoordelijkheden
 
-#### Artikel 2. Reikwijdte
+##### Artikel 2. Reikwijdte
 
 Deze regeling is van toepassing op alle archiefbescheiden van de NZa.
 
-#### Artikel 3. Verantwoordelijkheden RvB
+##### Artikel 3. Verantwoordelijkheden RvB
 
 1. De RvB draagt zorg voor voldoende budget benodigd voor de uitvoering van het archiefbeheer.
 
@@ -82,7 +107,7 @@ Deze regeling is van toepassing op alle archiefbescheiden van de NZa.
 
 3. De RvB draagt zorg voor het inrichten en in stand houden van voldoende en doelmatige archiefruimten die voldoen aan de wettelijke vereisten.
 
-#### Artikel 4. Verantwoordelijkheid uitvoering archiefbeheer
+##### Artikel 4. Verantwoordelijkheid uitvoering archiefbeheer
 
 1. De verantwoordelijke draagt er zorg voor dat de onder hem berustende archiefbescheiden in goede, geordende en toegankelijke staat worden gebracht en bewaard en hij draagt zorg voor de tijdige vernietiging van de daarvoor in aanmerking komende archiefbescheiden. Hierbij wordt het beleid van de NZa gevolgd op het terrein van informatiebeveiliging.
 
@@ -98,7 +123,7 @@ Deze regeling is van toepassing op alle archiefbescheiden van de NZa.
 
 7. De medewerkers die verantwoordelijk zijn voor functioneel beheer dragen samen met de medewerkers van de ICT-leverancier en het verantwoordelijk team zorg voor de inrichting van de informatiesystemen noodzakelijk voor archieftaken, zodanig dat deze voldoen aan de wettelijke vereisten.
 
-#### Artikel 5. Overleg
+##### Artikel 5. Overleg
 
 1. De verantwoordelijke onderhoudt contacten en voert waar noodzakelijk gezamenlijk periodiek overleg met alle directeuren en unitmanagers over de gang van zaken rondom het archiefbeheer.
 
@@ -108,7 +133,7 @@ Deze regeling is van toepassing op alle archiefbescheiden van de NZa.
 
 ### Hoofdstuk 3. Uitvoering
 
-#### Artikel 6. Duurzaamheid van archiefbescheiden
+##### Artikel 6. Duurzaamheid van archiefbescheiden
 
 1. De verantwoordelijke zorgt dat bij het opmaken dan wel bewaren van archiefbescheiden die bestemd zijn om blijvend te worden bewaard, aan de daarvoor geldende eisen uit de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) wordt voldaan.
 
@@ -116,7 +141,7 @@ Deze regeling is van toepassing op alle archiefbescheiden van de NZa.
 
 3. Voor het systematisch en zorgvuldig beheer van archiefbescheiden wordt onder andere gebruik gemaakt van een ordeningsstructuur.
 
-#### Artikel 7. Registratie
+##### Artikel 7. Registratie
 
 1. Elke medewerker van de NZa draagt zorg voor tijdige en correcte registratie in het daarvoor op dat moment aangewezen informatiesysteem van door hem zelf opgemaakte, ontvangen en verzonden archiefbescheiden.
 
@@ -152,7 +177,7 @@ Deze regeling is van toepassing op alle archiefbescheiden van de NZa.
 
 3. Een directeur of unitmanager, danwel een door een van hen aangewezen medewerker, stelt samen met de verantwoordelijke werkafspraken op voor de registratie van de archiefbescheiden en de bewaking van de hieraan door de verantwoordelijke toegekende voortgangs- en afdoeningstermijnen met betrekking tot zijn of haar directie of unit.
 
-#### Artikel 8. Informatieverstrekking binnen de NZa
+##### Artikel 8. Informatieverstrekking binnen de NZa
 
 1. De verantwoordelijke beslist over verzoeken van directies en units tot raadpleging of uitlening van de onder zijn beheer staande archiefbescheiden. Het lenen en raadplegen van archiefbescheiden is voorbehouden aan medewerkers van de directie of unit, die zijn belast met de behandeling van de betreffende aangelegenheid en aan andere medewerkers na verkregen toestemming van de betreffende directeur of unitmanager.
 
@@ -170,7 +195,7 @@ Deze regeling is van toepassing op alle archiefbescheiden van de NZa.
 
 8. Indien er door een NZa-medewerker toegang wordt gevraagd tot digitale archiefbescheiden waar de betreffende medewerker geen authorisatie voor heeft, zal dit ter goedkeuring worden voorgelegd aan de verantwoordelijke unitmanager die eigenaar is van dat archiefbescheiden.
 
-#### Artikel 9. Vervreemding van archiefbescheiden
+##### Artikel 9. Vervreemding van archiefbescheiden
 
 1. De RvB beslist op grond van een advies van de verantwoordelijke en de betreffende directie of unit, over het voornemen tot vervreemding van archiefbescheiden. Een dergelijke vervreemding kan alleen plaatsvinden aan een andere zorgdrager in de zin van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376).
 
@@ -178,7 +203,7 @@ Deze regeling is van toepassing op alle archiefbescheiden van de NZa.
 
 3. De vervreemding bedoeld in het eerste lid, vindt niet eerder plaats dan nadat door de Minister van Onderwijs, Cultuur en Wetenschap een machtiging is afgegeven, tenzij de vervreemding plaatsvindt ter uitvoering van een wettelijk voorschrift.
 
-#### Artikel 10. Ter beschikkingstelling aan en raadpleging van archiefbescheiden door derden
+##### Artikel 10. Ter beschikkingstelling aan en raadpleging van archiefbescheiden door derden
 
 1. De verantwoordelijke beslist over verzoeken tot terbeschikkingstelling of raadpleging van archiefbescheiden door derden. De verantwoordelijke pleegt hierover waar nodig overleg met de betreffende directies en units binnen de NZa waaronder de archiefbescheiden vallen.
 
@@ -192,17 +217,17 @@ Deze regeling is van toepassing op alle archiefbescheiden van de NZa.
 
 6. Indien een verzoek om terbeschikkingstelling wordt toegewezen, stelt de verantwoordelijke een kopie van de gevraagde archiefbescheiden ter beschikking. Indien het niet mogelijk is om een kopie van de gevraagde archiefbescheiden ter beschikking te stellen maakt de verantwoordelijke de afweging of het mogelijk is inzage te verlenen in de originele archiefbescheiden. Indien de verantwoordelijke besluit geen inzage te verlenen in de originele archiefbescheiden, wordt het verzoek afgewezen.
 
-#### Artikel 11. Verhuizing
+##### Artikel 11. Verhuizing
 
 1. De directeur van een directie of een unitmanager is in het geval van een interne verhuizing van de directie of unit verantwoordelijk voor het verhuizen van het analoge dynamisch archief van zijn directie of unit.
 
 2. De verantwoordelijke draagt in het geval van een verhuizing van de NZa of een directie of unit van de NZa naar een ander gebouw, zorg voor het verhuizen van de onder de NZa of een verhuizende directie of unit hiervan berustende archiefbescheiden.
 
-#### Artikel 12. organisatiewijzigingen
+##### Artikel 12. organisatiewijzigingen
 
 De verantwoordelijke draagt zorg voor het afsluiten, samenvoegen of splitsen van het archief in het geval van een reorganisatie, opheffing of privatisering en met het aanvangen of het opnieuw vormen van een archief in de nieuwe organisatie.
 
-#### Artikel 13. Vervanging
+##### Artikel 13. Vervanging
 
 1. De RvB besluit over de vervanging van archiefbescheiden door reprodukties van de voor vernietiging of voor blijvende bewaring in aanmerking komende archiefbescheiden.
 
@@ -210,7 +235,7 @@ De verantwoordelijke draagt zorg voor het afsluiten, samenvoegen of splitsen van
 
 3. Van de vervanging wordt door een door de verantwoordelijke aan te wijzen medewerker een verklaring opgesteld. De verantwoordelijke ondertekent deze verklaring. De verklaring bevat een specificatie van de vervangen archiefbescheiden en geeft aan op grond waarvan en op welke manier de vervanging heeft plaatsgevonden. De verklaringen van vervanging worden blijvend bewaard door de verantwoordelijke.
 
-#### Artikel 14. Selectie en vernietiging van archiefbescheiden
+##### Artikel 14. Selectie en vernietiging van archiefbescheiden
 
 1. Een door de verantwoordelijke aan te wijzen medewerker is belast met het ontwerpen en onderhouden van de selectielijst, het voorleggen ervan aan de RvB en het ter vaststelling ervan aanbieden aan de Minister van Onderwijs, Cultuur en Wetenschap op grond van [artikel 5, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5).
 
@@ -234,7 +259,7 @@ De verantwoordelijke draagt zorg voor het afsluiten, samenvoegen of splitsen van
 
 11. De verantwoordelijke draagt de te vernietigen analoge archiefbescheiden over aan een daartoe gecertificeerd bedrijf dat garant staat voor een juiste en veilige vernietiging van archiefbescheiden.
 
-#### Artikel 15. Overdracht analoge archiefbescheiden aan de verantwoordelijke
+##### Artikel 15. Overdracht analoge archiefbescheiden aan de verantwoordelijke
 
 1. De directeur of unitmanager draagt analoge archiefbescheiden een jaar na de beëindiging van de administratieve afhandeling van dat archiefbescheiden over aan de verantwoordelijke. De verantwoordelijke slaat de ontvangen archiefbescheiden op in het semi-statisch archief.
 
@@ -242,7 +267,7 @@ De verantwoordelijke draagt zorg voor het afsluiten, samenvoegen of splitsen van
 
 3. In afwijking van het eerste en tweede lid, draagt een directeur of unitmanager overeenkomsten en documenten zoals bankgaranties die door de NZa dan wel externe partijen zijn opgesteld en die betrekking hebben op zijn directie, unit of taken, binnen een maand na ondertekening respectievelijk ontvangst, over aan de verantwoordelijke. In het geval het overeenkomsten en bankgaranties betreffen die een accountant ten behoeve van de accountantscontrole moet raadplegen danwel in moet zien, zal een directeur of unitmanager de accountant hiervoor verwijzen naar de verantwoordelijke.
 
-#### Artikel 16. Overbrenging naar de archiefbewaarplaats /e-depot
+##### Artikel 16. Overbrenging naar de archiefbewaarplaats /e-depot
 
 1. De verantwoordelijke is belast met het overbrengen van de daarvoor in aanmerking komende archiefbescheiden naar de archiefbewaarplaats.
 
@@ -260,7 +285,7 @@ De verantwoordelijke draagt zorg voor het afsluiten, samenvoegen of splitsen van
 
 8. De overbrenging van archiefbescheiden wordt vastgelegd in een door de verantwoordelijke ondertekende verklaring die specificaties van de archiefbescheiden en eventuele beperkingen aan de openbaarheid bevat. Een exemplaar van deze verklaring wordt gearchiveerd.
 
-#### Artikel 17. Audit
+##### Artikel 17. Audit
 
 1. De verantwoordelijke stelt in opdracht van de RvB een controleplan op dat aangeeft wanneer de verantwoordelijke audits op het archiefbeheer bij alle directies en units uitvoert.
 
@@ -274,11 +299,11 @@ De verantwoordelijke draagt zorg voor het afsluiten, samenvoegen of splitsen van
 
 6. De verantwoordelijke stelt aan de hand van de rapporten van de afzonderlijke units en directies ten behoeve van de tweejaarlijkse audit bij de RvB een totaalrapport op.
 
-#### Artikel 18. Erfgoedinspectie
+##### Artikel 18. Erfgoedinspectie
 
 Op aanwijzing van de verantwoordelijke verlenen de directies, unitmanagers en de medewerkers van de NZa alle benodigde medewerking aan onderzoeken en inspecties van de Erfgoedinspectie.
 
-#### Artikel 19. Digitale archiefbescheiden
+##### Artikel 19. Digitale archiefbescheiden
 
 1. De in dit artikel opgenomen bepalingen voor digitale archiefbescheiden zijn, tenzij uit de bepaling anders voortvloeit, van toepassing op zowel de blijvend te bewaren digitale archiefbescheiden als de te vernietigen digitale archiefbescheiden.
 
@@ -290,7 +315,7 @@ Op aanwijzing van de verantwoordelijke verlenen de directies, unitmanagers en de
 
 5. De verantwoordelijke maakt in samenspraak met de unitmanager die verantwoordelijk is voor het functioneel beheer, een verklaring op van de conversie of migratie van de digitale archiefbescheiden, die tenminste een beschrijving van de geconverteerde of gemigreerde digitale archiefbescheiden bevat en waarin tevens is aangegeven op welke wijze en met welk resultaat getoetst is of na de conversie of migratie aan de toegankelijke staat en authenticiteit van de digitale archiefbescheiden is of kan worden voldaan.
 
-#### Artikel 20. Ordeningsstructuur
+##### Artikel 20. Ordeningsstructuur
 
 1. De verantwoordelijke zorgt ervoor dat de NZa beschikt over een actueel, compleet en logisch samenhangend overzicht van de bij de NZa berustende archiefbescheiden, geordend overeenkomstig het ten tijde van de vorming van het archief daarvoor geldende ordeningsstructuur.
 
@@ -298,7 +323,7 @@ Op aanwijzing van de verantwoordelijke verlenen de directies, unitmanagers en de
 
 3. De verantwoordelijke zorgt samen met de medewerkers die werkzaam zijn bij de unit die als taak informatiemanagement heeft, voor een actuele architectuurplaat.
 
-#### Artikel 21. Buitengewone omstandigheden
+##### Artikel 21. Buitengewone omstandigheden
 
 1. De verantwoordelijke draagt er, in samenspraak met de RvB, zorg voor dat in geval van calamiteiten die dit noodzakelijk maken, de archiefbescheiden onmiddellijk worden overgebracht naar veilige locaties.
 
@@ -310,14 +335,14 @@ Op aanwijzing van de verantwoordelijke verlenen de directies, unitmanagers en de
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 22. Citeertitel
+##### Artikel 22. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling archiefbeheer NZa.
 
-#### Artikel 23. Intrekken archiefregeling
+##### Artikel 23. Intrekken archiefregeling
 
 De Regeling archiefbeheer Nederlandse Zorgautoriteit 2009 wordt ingetrokken.
 
-#### Artikel 24. Inwerkingtreding
+##### Artikel 24. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na plaatsing in de Staatscourant.

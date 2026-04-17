@@ -1,13 +1,35 @@
 ---
 title: "Protocol inzake toetreding van de Portugese Republiek en het Koninkrijk Spanje tot het Verdrag van economische, sociale en culturele samenwerking en collectieve zelfverdediging, ondertekend te Brussel op 17 maart 1948, zoals gewijzigd bij het Protocol tot wijziging en aanvulling van het Verdrag van Brussel, ondertekend te Parijs op 23 oktober 1954"
 identifier: "BWBV0002172"
-categorie: "Sociaal recht"
-publicatiedatum: 2011-06-30
-laatste_update: 2011-06-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002172"
+country: "nl"
+rank: "verdrag"
+publication_date: "2011-06-30"
+last_updated: "2011-06-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002172"
+soort: "verdrag"
+stam_id: "10002686913"
+version_id: "10004915482"
+internal_id: "C10007384321"
+label_id: "10002675254"
+dtd_version: "2.0"
+original_entry_into_force: "2011-06-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002172/2011-06-30/0"
+intitule_bron: "Trb.2011-179"
+intitule_effect: "intrekking-regeling"
+intitule_published: "2011-10-04"
+intitule_in_force: "2011-10-04"
+intitule_status: "vervallen"
+original_publication: "Trb.2011-179"
+original_published_date: "2011-10-04"
+original_effect: "intrekking-regeling"
+original_url_id: "trb-2011-179"
+entry_into_force_date: "2011-06-30"
+jci_1_3: "jci1.3:c:BWBV0002172&z=2011-06-30&g=2011-06-30"
+jci_1_0: "1.0:c:BWBV0002172&g=2011-06-30"
+citeertitel_status: "officieel"
+entry_into_force: "2011-06-30"
 ---
-
 # Protocol inzake toetreding van de Portugese Republiek en het Koninkrijk Spanje tot het Verdrag van economische, sociale en culturele samenwerking en collectieve zelfverdediging, ondertekend te Brussel op 17 maart 1948, zoals gewijzigd bij het Protocol tot wijziging en aanvulling van het Verdrag van Brussel, ondertekend te Parijs op 23 oktober 1954
 
 De Partijen bij het Verdrag van economische, sociale en culturele samenwerking en collectieve zelfverdediging, ondertekend te Brussel op 17 maart 1948, zoals gewijzigd en aangevuld bij het Protocol ondertekend te Parijs op 23 oktober 1954 en de andere Protocollen en Bijlagen die daarvan een integrerend deel uitmaken, hierna te noemen „het Verdrag”, enerzijds,
@@ -38,15 +60,15 @@ Overwegende dat de uitbreiding van de Westeuropese Unie met de Portugese Republi
 
 Zijn het volgende overeengekomen:
 
-#### Artikel I
+##### Artikel I
 
 Vervallen
 
-#### Artikel II
+##### Artikel II
 
 Vervallen
 
-#### Artikel III
+##### Artikel III
 
 Vervallen
 

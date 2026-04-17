@@ -1,14 +1,42 @@
 ---
-title: "Wijzigingswet belastingwetten c.a. (Belastingplan 2001)"
+title: "Wet van 14 december 2000 tot wijziging van belastingwetten c.a. (Belastingplan 2001)"
 identifier: "BWBR0011985"
-categorie: "Belastingrecht"
-publicatiedatum: 2003-01-01
-laatste_update: 2003-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011985"
+country: "nl"
+rank: "wet"
+publication_date: "2003-01-01"
+last_updated: "2003-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011985"
+soort: "wet"
+stam_id: "1460243"
+version_id: "2187282"
+internal_id: "C2187281"
+label_id: "1419064"
+dtd_version: "2.0"
+original_entry_into_force: "2001-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011985/2003-01-01/0"
+intitule_bron: "Stb.2000-569"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-12-14"
+intitule_published: "2000-12-27"
+intitule_in_force: "2000-12-27"
+intitule_status: "goed"
+original_publication: "Stb.2000-569"
+original_signed_date: "2000-12-14"
+original_published_date: "2000-12-27"
+original_effect: "nieuwe-regeling"
+original_dossier: "27431"
+original_url_id: "stb-2000-569"
+entry_into_force_date: "2001-01-01"
+entry_into_force_dossier: "27431"
+jci_1_3: "jci1.3:c:BWBR0011985&z=2003-01-01&g=2003-01-01"
+jci_1_0: "1.0:c:BWBR0011985&g=2003-01-01"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet belastingwetten c.a. (Belastingplan 2001)"
+signed_date: "2000-12-14"
+entry_into_force: "2001-01-01"
 ---
-
-# Wijzigingswet belastingwetten c.a. (Belastingplan 2001)
+# Wet van 14 december 2000 tot wijziging van belastingwetten c.a. (Belastingplan 2001)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,71 +44,71 @@ Alzo Wij in overweging genomen hebben, dat het in het kader van het fiscale bele
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Wet op de omzetbelasting 1968.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Algemene wet inzake rijksbelastingen.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Wet op belastingen van rechtsverkeer.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Successiewet 1956.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Wet belasting zware motorrijtuigen.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Wet op de motorrijtuigenbelasting 1994.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt de Wet waardering onroerende zaken.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt de Invoeringswet Wet inkomstenbelasting 2001.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt de Wet inschakeling werkzoekenden.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt de Wet sociale werkvoorziening.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt de Kaderwet SZW-subsidies.
 
-#### Artikel XVIA
+##### Artikel XVIA
 
 1. In afwijking van [artikel 71a, tweede lid, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=71a) bedraagt de teruggaaf voor de in dat artikel bedoelde motorrijtuigen per 1000 L:
 
@@ -96,7 +124,7 @@ Wijzigt de Kaderwet SZW-subsidies.
 
 3. De bedragen die zijn teruggegeven op basis van [artikel 71a van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=71a) met betrekking tot afleveringen die in 2000 hebben plaatsgevonden, worden in mindering gebracht op de bedragen die worden teruggegeven op basis van het eerste lid.
 
-#### Artikel XVIB
+##### Artikel XVIB
 
 1. [Artikel 71a van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=71a) is van overeenkomstige toepassing op de in dat artikel bedoelde halfzware olie en gasolie die in het jaar 2000 is afgeleverd in de brandstoftanks van en is gebruikt voor het aandrijven op de weg van een vrachtauto met een toegestane maximum massa van minder dan 12 000 kg, van een autobus of van een bestelauto.
 
@@ -126,7 +154,7 @@ Wijzigt de Kaderwet SZW-subsidies.
 
 5. [Artikel 71a, derde lid, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=71a) is niet van toepassing.
 
-#### Artikel XVIC
+##### Artikel XVIC
 
 1. Indien daartoe overeenkomstig artikel 8, vierde lid, van [richtlijn nr. 92/81/EEG](31992L0081) van de Raad van de Europese Gemeenschappen van 19 oktober 1992 (PbEG L 316) betreffende de harmonisatie van de structuur van de accijns op minerale oliën, instemming van de Raad is verkregen, is [artikel 71a van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=71a) van overeenkomstige toepassing op de in dat artikel bedoelde halfzware olie en gasolie die in het jaar 2000 is afgeleverd in de brandstoftanks van en is gebruikt voor het aandrijven op de weg van een taxi.
 
@@ -150,15 +178,15 @@ Wijzigt de Kaderwet SZW-subsidies.
 
 5. [Artikel 71a, derde lid, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=71a) is niet van toepassing.
 
-#### Artikel XVID
+##### Artikel XVID
 
 Wijzigt de Wet op de accijns.
 
-#### Artikel XVIE
+##### Artikel XVIE
 
 Artikel XVID, onderdeel A, vindt toepassing nadat artikel 27a van de Wet op de accijns bij het begin van het kalenderjaar 2001 is toegepast.
 
-#### Artikel XVIF
+##### Artikel XVIF
 
 1. Wijzigt de Wet op de accijns.
 
@@ -168,35 +196,35 @@ Artikel XVID, onderdeel A, vindt toepassing nadat artikel 27a van de Wet op de a
 
 4. Ter vaststelling van het aandeel van de uitgeslagen en ingevoerde hoeveelheden van de in het eerste tot en met derde lid bedoelde halfzware olie en gasolie die voldoet aan de in het eerste lid genoemde milieutechnische specificaties dient bij de aangiften ter zake van de uitslag of invoer van halfzware olie en gasolie aangegeven te worden of en zo ja met betrekking tot welke hoeveelheden de aangifte betrekking heeft op halfzware olie en gasolie die voldoet aan de in het eerste lid genoemde milieutechnische specificaties.
 
-#### Artikel XVIG
+##### Artikel XVIG
 
 De [artikelen 84a](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=84a) en [84b van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=84b) vinden geen toepassing op de in de artikelen XVID, onderdeel A, en XVIF, eerste tot en met derde lid, opgenomen aanpassingen van de accijns.
 
-#### Artikel XVIH
+##### Artikel XVIH
 
 Wijzigt de Wet op de motorrijtuigenbelasting 1994.
 
-#### Artikel XVII
+##### Artikel XVII
 
 In afwijking van [artikel 83 van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=83) wordt met betrekking tot vrachtauto's teruggaaf van motorrijtuigenbelasting verleend over tijdvakken die nog niet zijn aangevangen op 1 augustus 2001. De teruggaaf bedraagt het verschil tussen de betaalde belasting en de belasting die is verschuldigd op grond van [artikel 25a van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=25).
 
-#### Artikel XVIJ
+##### Artikel XVIJ
 
 Wijzigt deze wet.
 
-#### Artikel XVIK
+##### Artikel XVIK
 
 [Artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0011727&artikel=I), en [artikel III, eerste lid, van het koninklijk besluit van 23 oktober 2000 (Stb. 471) tot wijziging van het Besluit uitsluiting aftrek omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0011727&artikel=II) worden goedgekeurd.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Indien door de Commissie van de Europese Gemeenschappen de in de [artikelen 8, aanhef en onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=8), [10a](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=10a) of [36i, zesde lid, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36i), opgenomen regelingen als gevolg van de met ingang van 1 januari 2001 voorgenomen tariefverhogingen in de grondwaterbelasting en de regulerende energiebelasting, geheel of gedeeltelijk als ongeoorloofde steun in de zin van artikel 87 EG-Verdrag worden aangemerkt, worden bij ministeriële regeling de in vorenbedoelde artikelen opgenomen regelingen met terugwerkende kracht tot 1 januari 2001 zodanig aangepast dat zij in overeenstemming zijn met het door de Commissie uitgesproken oordeel.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Wijzigt de Zeevaartbemanningswet en de Wijzigingswet Wet op de inkomstenbelasting 1964 (technische aard).
 
-#### Artikel XIX
+##### Artikel XIX
 
 1. Deze wet treedt in werking met ingang van 1 januari 2001.
 

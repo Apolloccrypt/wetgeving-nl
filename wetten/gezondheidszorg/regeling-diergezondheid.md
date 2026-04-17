@@ -1,13 +1,39 @@
 ---
-title: "Regeling diergezondheid"
+title: "Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 12 april 2021, nr. WJZ/ 21072840, houdende regels met betrekking tot de preventie en bestrijding van dierziekten en tot wijziging van de Regeling diergeneesmiddelen, de Regeling dierlijke producten, de Regeling diergeneeskundigen, de Regeling diervoeders 2012, de Regeling handhaving en overige zaken Wet dieren en de Regeling houders van dieren (Regeling diergezondheid)"
 identifier: "BWBR0045053"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2025-06-05
-laatste_update: 2025-06-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045053"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-06-05"
+last_updated: "2025-06-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045053"
+soort: "ministeriele-regeling"
+stam_id: "15932633"
+version_id: "27718682"
+internal_id: "C39100401"
+label_id: "15867564"
+dtd_version: "2.0"
+original_entry_into_force: "2021-04-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045053/2025-06-05/0"
+intitule_bron: "Stcrt.2021-17794"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-04-12"
+intitule_published: "2021-04-16"
+intitule_in_force: "2021-04-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-17794"
+original_signed_date: "2021-04-12"
+original_published_date: "2021-04-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-17794"
+entry_into_force_date: "2021-04-21"
+jci_1_3: "jci1.3:c:BWBR0045053&z=2025-06-05&g=2025-06-05"
+jci_1_0: "1.0:c:BWBR0045053&g=2025-06-05"
+citeertitel_status: "officieel"
+short_title: "Regeling diergezondheid"
+signed_date: "2021-04-12"
+entry_into_force: "2021-04-21"
 ---
-
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 12 april 2021, nr. WJZ/ 21072840, houdende regels met betrekking tot de preventie en bestrijding van dierziekten en tot wijziging van de Regeling diergeneesmiddelen, de Regeling dierlijke producten, de Regeling diergeneeskundigen, de Regeling diervoeders 2012, de Regeling handhaving en overige zaken Wet dieren en de Regeling houders van dieren (Regeling diergezondheid)
 
 Handelende in overeenstemming met de Minister voor Medische Zorg en Sport en na overleg met de Minister van Sociale Zaken en Werkgelegenheid;
@@ -18,7 +44,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemeen
 
-#### Artikel 1.1. Begripsbepalingen
+##### Artikel 1.1. Begripsbepalingen
 
 1. In deze regeling wordt verstaan onder:
 
@@ -36,7 +62,7 @@ Besluit:
 
 ### Hoofdstuk 2. Aanwijzing ziekten en zoönosen
 
-#### Artikel 2.1. Aanwijzing dierziekten
+##### Artikel 2.1. Aanwijzing dierziekten
 
 Als dierziekten als bedoeld in [artikel 5.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.3) worden aangewezen:
 
@@ -66,7 +92,7 @@ Als dierziekten als bedoeld in [artikel 5.3 van de wet](https://wetten.overheid.
 
 - c. overdraagbare spongiforme encefalopathieën (TSE’s) als bedoeld in verordening in [verordening (EG) nr. 999/2001](32001R0999) bij zoogdieren (Mammalia).
 
-#### Artikel 2.2. Aanwijzing zoönosen
+##### Artikel 2.2. Aanwijzing zoönosen
 
 Als zoönosen als bedoeld in [artikel 5.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.3) worden aangewezen de in de onderstaande tabel genoemde ziekten bij de daarbij genoemde soorten:
 
@@ -75,13 +101,13 @@ Als zoönosen als bedoeld in [artikel 5.3 van de wet](https://wetten.overheid.nl
 | Infecties met Salmonella enteritidis, Salmonella hadar, Salmonella infantis, Salmonella typhimurium, Salmonella virchow en Salmonella enterica serovar Paratyphi B var. Java | Vogels die worden gehouden voor de productie van vlees, broedeieren en consumptie-eieren, met uitzondering van kippen die worden gehouden voor de productie van consumptie-eieren |
 | Infectie met Sars-CoV-2 | Marterachtigen (Mustelidae) en wasbeerhonden (Nyctereutes) |
 
-#### Artikel 2.3. Aanwijzing regio verplaatsen waterdieren naar andere lidstaat
+##### Artikel 2.3. Aanwijzing regio verplaatsen waterdieren naar andere lidstaat
 
 Als regio als bedoeld in artikel 21 van verordening (EU) nr. 2020/990 wordt aangewezen het grondgebied van Nederland.
 
 ### Hoofdstuk 3. Waardevaststelling bij ziektebestrijdingsmaatregelen
 
-#### Artikel 3.1. Indeling dieren, producten en voorwerpen waardevaststelling
+##### Artikel 3.1. Indeling dieren, producten en voorwerpen waardevaststelling
 
 De indeling, bedoeld in [artikel 4.2, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&artikel=4.2), is:
 
@@ -145,7 +171,7 @@ De indeling, bedoeld in [artikel 4.2, tweede lid, van het besluit](https://wette
 
 #### § 4.1. Diergezondheidsheffing
 
-#### Artikel 4.1. Aantal dieren heffingsgrondslag
+##### Artikel 4.1. Aantal dieren heffingsgrondslag
 
 Het aantal:
 
@@ -159,7 +185,7 @@ dat in een kalenderjaar wordt gehouden, bedoeld in [artikel 9.18, eerste lid, va
 
 #### § 4.1. Diergezondheidsheffing
 
-#### Artikel 4.2. Verzorgingsvergoeding
+##### Artikel 4.2. Verzorgingsvergoeding
 
 1. De vergoeding, bedoeld in [artikel 9.12, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=9.12), omvat, voor zover deze kosten niet uit andere hoofde worden vergoed, de kosten voor:
 
@@ -201,7 +227,7 @@ dat in een kalenderjaar wordt gehouden, bedoeld in [artikel 9.18, eerste lid, va
 
 ### Hoofdstuk 5. Waarschuwingsborden en kentekenen
 
-#### Artikel 5.1. Model waarschuwingsborden en kentekenen
+##### Artikel 5.1. Model waarschuwingsborden en kentekenen
 
 Als modellen als bedoeld in [artikel 2.3, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&artikel=2.3) worden aangewezen:
 
@@ -211,33 +237,33 @@ Als modellen als bedoeld in [artikel 2.3, eerste lid, van het besluit](https://w
 
 ### Hoofdstuk 5. Waarschuwingsborden en kentekenen
 
-#### Artikel 6.1. Wijziging [Regeling diergeneesmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0032626)
+##### Artikel 6.1. Wijziging [Regeling diergeneesmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0032626)
 
 Wijzigt de Regeling diergeneesmiddelen.
 
-#### Artikel 6.2. Wijziging [Regeling dierlijke producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032462)
+##### Artikel 6.2. Wijziging [Regeling dierlijke producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032462)
 
 Wijzigt de Regeling dierlijke producten.
 
-#### Artikel 6.3. Wijziging [Regeling diergeneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0035238)
+##### Artikel 6.3. Wijziging [Regeling diergeneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0035238)
 
 Wijzigt de Regeling diergeneeskundigen.
 
-#### Artikel 6.4. Wijzing [Regeling diervoeders 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0028123)
+##### Artikel 6.4. Wijzing [Regeling diervoeders 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0028123)
 
 Wijzigt de Regeling diervoeders 2012.
 
-#### Artikel 6.5. Wijziging [Regeling handhaving en overige zaken Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0032523)
+##### Artikel 6.5. Wijziging [Regeling handhaving en overige zaken Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0032523)
 
 Wijzigt de Regeling handhaving en overige zaken Wet dieren.
 
-#### Artikel 6.6. Wijziging [regeling houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035248)
+##### Artikel 6.6. Wijziging [regeling houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035248)
 
 Wijzigt de Regeling houders van dieren.
 
 ### Hoofdstuk 7. Slotbepalingen
 
-#### Artikel 7.1. Intrekken regelingen
+##### Artikel 7.1. Intrekken regelingen
 
 De volgende regelingen worden ingetrokken:
 
@@ -275,15 +301,15 @@ De volgende regelingen worden ingetrokken:
 
 - q. de [Tijdelijke vrijstellingsregeling enten AI-gevoelige vogels dierentuinen 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014990).
 
-#### Artikel 7.2. [Regeling identificatie en registratie van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0014538)
+##### Artikel 7.2. [Regeling identificatie en registratie van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0014538)
 
 Wijzigt de Regeling identificatie en registratie van dieren.
 
-#### Artikel 7.3
+##### Artikel 7.3
 
 Deze regeling treedt in werking met ingang van 21 april 2021.
 
-#### Artikel 7.4
+##### Artikel 7.4
 
 Deze regeling wordt aangehaald als: Regeling diergezondheid.
 
@@ -301,7 +327,7 @@ Blauw van kleur met een witte opdruk:
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 2.4. Aanwijzing vogelgriep bij zoogdieren met uitzondering van runderen en varkens als meldingsplichtige dierziekte
+##### Artikel 2.4. Aanwijzing vogelgriep bij zoogdieren met uitzondering van runderen en varkens als meldingsplichtige dierziekte
 
 1. Als dierziekte als bedoeld in [artikel 1.30, eerste lid, onderdeel b, van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.30) wordt aangewezen hoog pathogene aviaire influenza bij gehouden of in het wild levende zoogdieren met uitzondering van runderen en varkens.
 
@@ -329,7 +355,7 @@ Blauw van kleur met een witte opdruk:
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 2.5. Vrijstelling meldingsplicht vogelgriep bij runderen en varkens
+##### Artikel 2.5. Vrijstelling meldingsplicht vogelgriep bij runderen en varkens
 
 Aan eenieder wordt vrijstelling verleend van de verplichting van melding, bedoeld in [artikel 1.30, eerste lid, aanhef en onderdeel a, van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.30) van hoogpathogene aviaire influenza bij runderen en varkens voor zover sprake is van een vermoeden van besmetting.
 

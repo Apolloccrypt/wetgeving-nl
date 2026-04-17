@@ -1,28 +1,53 @@
 ---
-title: "Vaststellingsregeling bedragen uitkering per eenheid gemeentefonds 2001"
+title: "Regeling van 29 augustus 2003, nr. FO2003/74822, tot vaststelling van de bedragen per eenheid voor de uitkering uit het gemeentefonds over het uitkeringsjaar 2001"
 identifier: "BWBR0015530"
-categorie: "Bestuursrecht"
-publicatiedatum: 2004-12-24
-laatste_update: 2004-12-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015530"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2004-12-24"
+last_updated: "2004-12-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015530"
+soort: "ministeriele-regeling"
+stam_id: "6513583"
+version_id: "11209862"
+internal_id: "C15140651"
+label_id: "6502104"
+original_entry_into_force: "2004-12-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015530/2004-12-24/0"
+intitule_bron: "Stcrt.2004-247"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-08-29"
+intitule_published: "2004-12-22"
+intitule_in_force: "2004-12-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2004-247"
+original_signed_date: "2003-08-29"
+original_published_date: "2004-12-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2004-247-p14-SC67864"
+entry_into_force_date: "2004-12-24"
+jci_1_3: "jci1.3:c:BWBR0015530&z=2004-12-24&g=2004-12-24"
+jci_1_0: "1.0:c:BWBR0015530&g=2004-12-24"
+citeertitel_status: "redactioneel"
+short_title: "Vaststellingsregeling bedragen uitkering per eenheid gemeentefonds 2001"
+signed_date: "2003-08-29"
+entry_into_force: "2004-12-24"
 ---
-
 # Regeling van 29 augustus 2003, nr. FO2003/74822, tot vaststelling van de bedragen per eenheid voor de uitkering uit het gemeentefonds over het uitkeringsjaar 2001
 
 Gelet op [artikel 9 van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=9) en [artikel 6 van de Invoeringswet Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008291&artikel=6);
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor het uitkeringsjaar 2001 worden de bedragen per eenheid, bedoeld in [artikel 9 van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=9), vastgesteld overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0015530&bijlage=1&z=2004-12-24&g=2004-12-24) bij deze regeling.
 
-#### Artikel 2
+##### Artikel 2
 
 Voor het uitkeringsjaar 2001 worden de bedragen, bedoeld in [artikel 6 van de Invoeringswet Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008291&artikel=6), vastgesteld overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015530&bijlage=2&z=2004-12-24&g=2004-12-24) bij deze regeling.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 

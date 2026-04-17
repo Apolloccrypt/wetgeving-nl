@@ -1,13 +1,38 @@
 ---
 title: "Overeenkomst ter uitvoering van artikel 6 van de Overeenkomst inzake de terbeschikkingstelling en exploitatie van installaties en diensten voor het luchtvervoer door EUROCONTROL in het Luchtverkeersleidingcentrum Maastricht"
 identifier: "BWBV0002855"
-categorie: "Milieu"
-publicatiedatum: 1990-02-19
-laatste_update: 1990-02-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002855"
+country: "nl"
+rank: "verdrag"
+publication_date: "1990-02-19"
+last_updated: "1990-02-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002855"
+soort: "verdrag"
+stam_id: "10003181813"
+version_id: "10003188522"
+internal_id: "C10006979751"
+label_id: "10003167684"
+dtd_version: "2.0"
+original_entry_into_force: "1990-02-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002855/1990-02-19/0"
+intitule_bron: "Trb.1987-18"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1988-10-13"
+intitule_published: "1987-01-30"
+intitule_in_force: "1990-03-02"
+intitule_status: "goed"
+original_publication: "Trb.1987-18"
+original_signed_date: "1988-10-13"
+original_published_date: "1987-01-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1987-18"
+entry_into_force_date: "1990-02-19"
+jci_1_3: "jci1.3:c:BWBV0002855&z=1990-02-19&g=1990-02-19"
+jci_1_0: "1.0:c:BWBV0002855&g=1990-02-19"
+citeertitel_status: "officieel"
+signed_date: "1988-10-13"
+entry_into_force: "1990-02-19"
 ---
-
 # Overeenkomst ter uitvoering van artikel 6 van de Overeenkomst inzake de terbeschikkingstelling en exploitatie van installaties en diensten voor het luchtvervoer door EUROCONTROL in het Luchtverkeersleidingcentrum Maastricht
 
 De Regering van de Bondsrepubliek Duitsland,
@@ -32,7 +57,7 @@ Gelet op hun verplichting om tot overeenstemming te komen inzake de vaststelling
 
 zijn overeengekomen als volgt:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Ter bevordering van de aan de Organisatie opgedragen taak en van de exploitatie van het luchtverkeersleidingscentrum Maastricht, wordt door de Partijen een coördinatiegroep voor Maastricht, hierna genoemd „de Groep”, ingesteld.
 
@@ -58,7 +83,7 @@ zijn overeengekomen als volgt:
 
 5. De beslissingen van de Groep worden met eenparigheid van de Partijen genomen en zijn voor elk der Partijen verbindend.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Partijen komen overeen, in hun jaarlijkse kostengrondslag voor de en-route heffingen een bedrag op te nemen dat overeenkomt met de jaarlijkse afschrijving en rentelasten op de kapitaaluitgaven wegens de in het luchtverkeersleidingscentrum Maastricht verrichte investeringen, en deze bedragen onderling om te slaan in evenredigheid met het luchtverkeersleidingspersoneel dat ingedeeld is bij de verkeersleidingssectoren voor het luchtruim van elk der Partijen, waarbij het luchtruim van het Koninkrijk België en van het Groothertogdom Luxemburg als geheel wordt beschouwd.
 
@@ -68,11 +93,11 @@ zijn overeengekomen als volgt:
 
 4. De respectievelijk door het Koninkrijk België en het Groothertogdom Luxemburg ingevolge bovenstaande leden 1 en 2 te dragen aandelen, die als een geheel worden beschouwd, worden door deze Staten verdeeld op basis van de in de Bijlage van deze Overeenkomst vermelde percentages.
 
-#### Artikel 3
+##### Artikel 3
 
 De in de Bijlage bij deze Overeenkomst vervatte bepalingen vormen een geheel met deze Overeenkomst. Zij kunnen evenwel met gemeenschappelijke instemming van het Koninkrijk België en het Groothertogdom Luxemburg worden gewijzigd.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Deze Overeenkomst dient te worden bekrachtigd, aanvaard of goedgekeurd.
 
@@ -84,7 +109,7 @@ De in de Bijlage bij deze Overeenkomst vervatte bepalingen vormen een geheel met
 
 5. De Regering van het Koninkrijk België doet deze Overeenkomst bij de Secretaris-Generaal van de Verenigde Naties registreren overeenkomstig [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102) en bij de Raad van de ICAO overeenkomstig [artikel 83 van het op 7 december 1944 te Chicago ondertekende Verdrag inzake de internationale burgerlijke luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=83).
 
-#### Artikel 5
+##### Artikel 5
 
 Deze Overeenkomst blijft van kracht op dezelfde voorwaarden als die welke in [artikel 15 van de Bijzondere overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&artikel=15) zijn voorzien.
 

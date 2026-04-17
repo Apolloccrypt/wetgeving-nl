@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tot bestrijding van wederrechtelijke gedragingen betreffende de burgerluchtvaart"
 identifier: "BWBV0006221"
-categorie: "Milieu"
-publicatiedatum: 2018-07-01
-laatste_update: 2018-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006221"
+country: "nl"
+rank: "verdrag"
+publication_date: "2018-07-01"
+last_updated: "2018-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006221"
+soort: "verdrag"
+stam_id: "10005105233"
+version_id: "10005451402"
+internal_id: "C10009499701"
+label_id: "10005088514"
+dtd_version: "2.0"
+original_entry_into_force: "2018-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006221/2018-07-01/0"
+intitule_bron: "Trb.2013-134"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2013-08-15"
+intitule_in_force: "2018-11-23"
+intitule_status: "goed"
+original_publication: "Trb.2013-134"
+original_published_date: "2013-08-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2013-134"
+entry_into_force_date: "2018-07-01"
+jci_1_3: "jci1.3:c:BWBV0006221&z=2018-07-01&g=2018-07-01"
+jci_1_0: "1.0:c:BWBV0006221&g=2018-07-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2018-07-01"
 ---
-
 # Verdrag tot bestrijding van wederrechtelijke gedragingen betreffende de burgerluchtvaart
 
 De staten die partij zijn bij dit Verdrag,
@@ -20,7 +42,7 @@ Ervan overtuigd dat, teneinde deze bedreigingen beter het hoofd te kunnen bieden
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Aan een strafbaar feit maakt zich schuldig hij die wederrechtelijk en opzettelijk:
 
@@ -86,7 +108,7 @@ onder omstandigheden die deze bedreiging geloofwaardig maken.
 
 - ii. hetzij in de wetenschap van de bedoeling van de groep om een strafbaar feit zoals bedoeld in het eerste, tweede of derde lid van dit artikel te plegen.
 
-#### Artikel 2
+##### Artikel 2
 
 Voor de toepassing van dit Verdrag:
 
@@ -134,11 +156,11 @@ Voor de toepassing van dit Verdrag:
 
 - j. hebben de termen „basismateriaal” en „splijtstoffen” dezelfde betekenis als die welke daaraan is gegeven in het [Statuut van de Internationale Organisatie voor Atoomenergie](https://wetten.overheid.nl/jci1.3:c:BWBV0004777), gedaan te New York op 26 oktober 1956.
 
-#### Artikel 3
+##### Artikel 3
 
 Elke staat die partij is verbindt zich ertoe zware straffen te stellen op de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2018-07-01&g=2018-07-01) bedoelde strafbare feiten.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Elke staat die partij is kan, in overeenstemming met zijn nationale rechtsbeginselen, de nodige maatregelen nemen om een op zijn grondgebied gevestigde of overeenkomstig zijn recht opgezette rechtspersoon aansprakelijk te kunnen stellen indien een persoon belast met het beheer van of toezicht op die rechtspersoon in die hoedanigheid een strafbaar feit als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2018-07-01&g=2018-07-01) heeft gepleegd. Deze aansprakelijkheid kan strafrechtelijk, civielrechtelijk of bestuursrechtelijk zijn.
 
@@ -146,7 +168,7 @@ Elke staat die partij is verbindt zich ertoe zware straffen te stellen op de in 
 
 3. Indien een staat die partij is de noodzakelijke maatregelen neemt om een rechtspersoon aansprakelijk te stellen in overeenstemming met het eerste lid van dit artikel, tracht hij er op toe te zien dat de toepasselijke strafrechtelijke, civielrechtelijke of bestuursrechtelijke sancties doeltreffend, evenredig en ontmoedigend zijn. Deze sancties kunnen geldelijke sancties omvatten.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Dit Verdrag is niet van toepassing op luchtvaartuigen gebruikt door de strijdkrachten, de douane of de politie.
 
@@ -164,7 +186,7 @@ Elke staat die partij is verbindt zich ertoe zware straffen te stellen op de in 
 
 6. De bepalingen van het tweede, derde, vierde en vijfde lid van dit artikel zijn eveneens van toepassing in de gevallen bedoeld in het [artikel 1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2018-07-01&g=2018-07-01).
 
-#### Artikel 6
+##### Artikel 6
 
 1. Niets in dit Verdrag tast op enige wijze andere rechten, verplichtingen en verantwoordelijkheden aan van staten en individuen op grond van het internationaal recht, met name de doelstellingen en beginselen van het [Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143), het [Verdrag inzake de internationale burgerluchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0005507) en het internationaal humanitair recht.
 
@@ -172,11 +194,11 @@ Elke staat die partij is verbindt zich ertoe zware straffen te stellen op de in 
 
 3. De bepalingen van het tweede lid van dit artikel mogen niet zodanig worden uitgelegd dat anderszins wederrechtelijke gedragingen zouden worden gebillijkt of gewettigd of dat vervolging op grond van andere wetten wordt belet.
 
-#### Artikel 7
+##### Artikel 7
 
 Niets in dit Verdrag tast de rechten, verplichtingen en verantwoordelijkheden aan van de staten die partij zijn bij het [Verdrag inzake de niet-verspreiding van kernwapens](https://wetten.overheid.nl/jci1.3:c:BWBV0004367), ondertekend te Londen, Moskou en Washington op 1 juli 1968, het [Verdrag tot verbod van de ontwikkeling, de produktie en de aanleg van voorraden van bacteriologische (biologische) en toxinewapens en inzake de vernietiging van deze wapens](https://wetten.overheid.nl/jci1.3:c:BWBV0003925), ondertekend te Londen, Moskou en Washington op 10 april 1972 of het [Verdrag tot verbod van de ontwikkeling, de produktie, de aanleg van voorraden en het gebruik van chemische wapens en inzake de vernietiging van deze wapens](https://wetten.overheid.nl/jci1.3:c:BWBV0001193), gedaan te Parijs op 13 januari 1993.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Elke staat die partij is neemt de maatregelen die nodig kunnen zijn om zijn rechtsmacht te vestigen met betrekking tot de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2018-07-01&g=2018-07-01) bedoelde strafbare feiten in de volgende gevallen:
 
@@ -200,7 +222,7 @@ Niets in dit Verdrag tast de rechten, verplichtingen en verantwoordelijkheden aa
 
 4. Dit Verdrag sluit geen rechtsmacht in strafzaken uit die wordt uitgeoefend in overeenstemming met de nationale wetgeving.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Een staat die partij is op wiens grondgebied de dader of vermeende dader zich bevindt, neemt deze persoon, indien hij ervan overtuigd is dat de omstandigheden dit rechtvaardigen, in hechtenis of neemt andere maatregelen ter verzekering van diens aanwezigheid. De inhechtenisneming en andere maatregelen dienen in overeenstemming te zijn met de wetgeving van die staat, maar mogen niet langer duren dan noodzakelijk is voor het instellen van strafvervolging of een uitleveringsprocedure.
 
@@ -210,15 +232,15 @@ Niets in dit Verdrag tast de rechten, verplichtingen en verantwoordelijkheden aa
 
 4. Wanneer een staat die partij is krachtens dit artikel een persoon in hechtenis heeft genomen, stelt hij de staten die partij zijn die ingevolge [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=8&z=2018-07-01&g=2018-07-01), hun rechtsmacht hebben gevestigd en ingevolge [artikel 21, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=21&z=2018-07-01&g=2018-07-01), hun rechtsmacht hebben gevestigd en de depositaris in kennis hebben gesteld, en, indien hij dit nodig acht, iedere andere belanghebbende staat, in kennis van het feit dat de betrokken persoon in hechtenis is genomen en van de omstandigheden die zijn detentie rechtvaardigen. De staat die partij is die het voorlopig onderzoek bedoeld in het tweede lid van dit artikel instelt, deelt zijn bevindingen onverwijld mee aan voornoemde staten die partij zijn en geeft tevens aan of hij voornemens is zijn rechtsmacht uit te oefenen.
 
-#### Artikel 10
+##### Artikel 10
 
 De staat die partij is op wiens grondgebied de vermeende dader wordt aangetroffen, is, indien hij deze persoon niet uitlevert, ongeacht of het strafbare feit op zijn grondgebied is gepleegd, in alle gevallen verplicht de zaak voor vervolging aan zijn bevoegde autoriteiten over te dragen. Deze autoriteiten nemen hun beslissing op dezelfde wijze als in het geval van een gewoon strafbaar feit van ernstige aard krachtens de wetgeving van die staat.
 
-#### Artikel 11
+##### Artikel 11
 
 Iedere persoon die in hechtenis wordt genomen of tegen wie andere maatregelen worden getroffen of een procedure wordt ingesteld op grond van dit Verdrag, wordt een eerlijke behandeling verzekerd, met inbegrip van het genot van alle rechten en waarborgen in overeenstemming met de wetgeving van de staat op het grondgebied waarvan die persoon zich bevindt en de toepasselijke bepalingen van het internationaal recht, met inbegrip van het internationaal recht inzake de rechten van de mens.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2018-07-01&g=2018-07-01) bedoelde strafbare feiten worden geacht als uitleveringsdelicten te zijn inbegrepen in alle bestaande uitleveringsverdragen tussen de staten die partij zijn. De staten die partij zijn verplichten zich ertoe de strafbare feiten op te nemen als uitleveringsdelicten in elk uitleveringsverdrag dat tussen hen wordt gesloten.
 
@@ -230,35 +252,35 @@ Iedere persoon die in hechtenis wordt genomen of tegen wie andere maatregelen wo
 
 5. Voor uitlevering tussen staten die partij zijn worden de in [artikel 1, vijfde lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2018-07-01&g=2018-07-01), bedoelde strafbare feiten als gelijkwaardig beschouwd.
 
-#### Artikel 13
+##### Artikel 13
 
 Geen van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2018-07-01&g=2018-07-01) bedoelde strafbare feiten wordt, ten behoeve van uitlevering of wederzijdse rechtshulp, aangemerkt als een politiek delict, een met een politiek delict samenhangend strafbaar feit of een strafbaar feit ingegeven door politieke motieven. Bijgevolg mag een verzoek om uitlevering of om wederzijdse rechtshulp op grond van een dergelijk strafbaar feit niet worden geweigerd uitsluitend op grond van het feit dat het een politiek delict, een met een politiek delict samenhangend strafbaar feit of een strafbaar feit ingegeven door politieke motieven betreft.
 
-#### Artikel 14
+##### Artikel 14
 
 Niets in dit Verdrag mag zo worden uitgelegd dat het een verplichting tot uitlevering of tot het verlenen van wederzijdse rechtshulp zou inhouden, indien de aangezochte staat die partij is ernstige redenen heeft om aan te nemen dat het verzoek om uitlevering met betrekking tot de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2018-07-01&g=2018-07-01) bedoelde strafbare feiten of om wederzijdse rechtshulp met betrekking tot dergelijke feiten is gedaan met de bedoeling een persoon te vervolgen of te bestraffen op grond van zijn ras, godsdienst, nationaliteit, etnische afkomst, politieke overtuiging of geslacht of dat inwilliging van het verzoek de positie van die persoon om een van deze redenen ongunstig zou kunnen beïnvloeden.
 
-#### Artikel 15
+##### Artikel 15
 
 De staten die partij zijn die voor het luchtvervoer gemeenschappelijke exploitatie-organisaties of internationale exploitatie-organisaties oprichten, die gebruikmaken van luchtvaartuigen die onderworpen zijn aan gemeenschappelijke of internationale inschrijving, kiezen op passende wijze voor elk luchtvaartuig een staat uit hun midden die de rechtsmacht uitoefent en voor de toepassing van dit Verdrag de bevoegdheden heeft behorend bij een staat waar een luchtvaartuig is ingeschreven. Zij doen daarvan mededeling aan de Secretaris-Generaal van de Internationale Burgerluchtvaartorganisatie, die alle staten die partij zijn van deze mededeling in kennis stelt.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De staten die partij zijn streven ernaar, overeenkomstig het internationale en nationale recht, alle redelijke maatregelen te nemen om de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2018-07-01&g=2018-07-01) bedoelde strafbare feiten te voorkomen.
 
 2. Wanneer ten gevolge van het plegen van een van de strafbare feiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2018-07-01&g=2018-07-01) een vlucht is vertraagd of onderbroken, stelt elke staat die partij is op het grondgebied waarvan het luchtvaartuig, de passagiers of de bemanning zich bevinden, alles in het werk om de passagiers en de bemanning hun reis zo spoedig mogelijk te laten voortzetten en draagt het luchtvaartuig en zijn lading onverwijld over aan de rechthebbenden.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De staten die partij zijn verlenen elkaar de ruimst mogelijke rechtshulp bij strafrechtelijke procedures ter zake van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2018-07-01&g=2018-07-01) bedoelde strafbare feiten. In alle gevallen is het recht van de aangezochte staat van toepassing.
 
 2. De bepalingen van het eerste lid van dit artikel laten verplichtingen uit hoofde van een ander bilateraal of multilateraal verdrag dat wederzijdse rechtshulp in strafzaken geheel of ten dele regelt of zal regelen onverlet.
 
-#### Artikel 18
+##### Artikel 18
 
 Een staat die partij is die redenen heeft te veronderstellen dat een van de strafbare feiten bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2018-07-01&g=2018-07-01) zal worden gepleegd, brengt, overeenkomstig zijn nationale recht, alle relevante informatie in zijn bezit ter kennis van die staten die partij zijn die naar zijn mening de in [artikel 8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=8&z=2018-07-01&g=2018-07-01) bedoelde staten zijn.
 
-#### Artikel 19
+##### Artikel 19
 
 Elke staat die partij is doet overeenkomstig zijn nationale recht zo spoedig mogelijk mededeling aan de Raad van de Internationale Burgerluchtvaartorganisatie inzake alle relevante informatie in zijn bezit betreffende:
 
@@ -268,7 +290,7 @@ Elke staat die partij is doet overeenkomstig zijn nationale recht zo spoedig mog
 
 - c. de maatregelen die zijn genomen ten aanzien van de dader of de vermeende dader, en in het bijzonder de uitkomst van elke uitleveringsprocedure of andere gerechtelijke procedure.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Elk geschil tussen twee of meer staten die partij zijn inzake de uitlegging of toepassing van dit Verdrag dat niet door onderhandelingen kan worden beslecht, wordt op verzoek van één van hen voorgelegd voor arbitrage. Indien de partijen er binnen zes maanden na de datum van het verzoek om arbitrage niet in zijn geslaagd overeenstemming te bereiken over de regeling van de arbitrage, kan elk van deze partijen het geschil voorleggen aan het Internationaal Gerechtshof door middel van een verzoek overeenkomstig het Statuut van het Hof.
 
@@ -276,7 +298,7 @@ Elke staat die partij is doet overeenkomstig zijn nationale recht zo spoedig mog
 
 3. Een staat die partij is die een voorbehoud heeft gemaakt in overeenstemming met het voorgaande lid, kan dit voorbehoud te allen tijde intrekken door middel van een kennisgeving aan de depositaris.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Dit Verdrag staat open voor ondertekening te Beijing op 10 september 2010 door staten die hebben deelgenomen aan de Diplomatieke Conferentie inzake veiligheid van de luchtvaart, gehouden te Beijing van 30 augustus tot 10 september 2010. Na 27 september 2010 staat het Verdrag open voor ondertekening door alle staten op het hoofdkwartier van de Internationale Burgerluchtvaartorganisatie te Montreal totdat het in overeenstemming met [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=22&z=2018-07-01&g=2018-07-01) in werking treedt.
 
@@ -290,7 +312,7 @@ Elke staat die partij is doet overeenkomstig zijn nationale recht zo spoedig mog
 
 - b. kan verklaren dat hij de bepalingen van [artikel 1, vierde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBV0006221&artikel=1&z=2018-07-01&g=2018-07-01), in overeenstemming met de beginselen van zijn strafrecht betreffende de uitsluiting van aansprakelijkheid van familieleden zal toepassen.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Dit Verdrag treedt in werking op de eerste dag van de tweede maand die volgt op de datum van de nederlegging van de tweeëntwintigste akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
 
@@ -298,13 +320,13 @@ Elke staat die partij is doet overeenkomstig zijn nationale recht zo spoedig mog
 
 3. Zodra dit Verdrag in werking treedt, wordt het door de depositaris bij de Verenigde Naties geregistreerd.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Elke staat die partij is kan dit Verdrag opzeggen door middel van een schriftelijke kennisgeving aan de depositaris.
 
 2. De opzegging wordt van kracht een jaar na de datum waarop de kennisgeving is ontvangen door de depositaris.
 
-#### Artikel 24
+##### Artikel 24
 
 In de betrekkingen tussen de staten die partij zijn heeft dit Verdrag voorrang boven de volgende instrumenten:
 
@@ -312,7 +334,7 @@ In de betrekkingen tussen de staten die partij zijn heeft dit Verdrag voorrang b
 
 - b. het [Protocol tot bestrijding van wederrechtelijke daden van geweld op luchthavens voor de internationale burgerluchtvaart bij het Verdrag tot bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van de burgerluchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0002152), gedaan te Montreal op 23 september 1971, ondertekend te Montreal op 24 februari 1988.
 
-#### Artikel 25
+##### Artikel 25
 
 De depositaris stelt alle staten die partij zijn bij dit Verdrag en alle ondertekenende of toetredende staten bij dit Verdrag onverwijld in kennis van de datum van elke ondertekening, de datum van nederlegging van elke akte van bekrachtiging, goedkeuring, aanvaarding of toetreding, de datum van inwerkingtreding van dit Verdrag en alle overige relevante informatie.
 

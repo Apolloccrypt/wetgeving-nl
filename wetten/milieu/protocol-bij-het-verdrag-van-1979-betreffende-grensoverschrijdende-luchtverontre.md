@@ -1,13 +1,35 @@
 ---
 title: "Protocol bij het Verdrag van 1979 betreffende grensoverschrijdende luchtverontreiniging over lange afstand inzake de verdergaande vermindering van zwavelemissies"
 identifier: "BWBV0004644"
-categorie: "Milieu"
-publicatiedatum: 1998-08-05
-laatste_update: 1998-08-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004644"
+country: "nl"
+rank: "verdrag"
+publication_date: "1998-08-05"
+last_updated: "1998-08-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004644"
+soort: "verdrag"
+stam_id: "10004234223"
+version_id: "10004421692"
+internal_id: "C10006987371"
+label_id: "10004219594"
+dtd_version: "2.0"
+original_entry_into_force: "1998-08-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004644/1998-08-05/0"
+intitule_bron: "Trb.1994-205"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1994-10-07"
+intitule_in_force: "1998-06-25"
+intitule_status: "goed"
+original_publication: "Trb.1994-205"
+original_published_date: "1994-10-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1994-205"
+entry_into_force_date: "1998-08-05"
+jci_1_3: "jci1.3:c:BWBV0004644&z=1998-08-05&g=1998-08-05"
+jci_1_0: "1.0:c:BWBV0004644&g=1998-08-05"
+citeertitel_status: "redactioneel"
+entry_into_force: "1998-08-05"
 ---
-
 # Protocol bij het Verdrag van 1979 betreffende grensoverschrijdende luchtverontreiniging over lange afstand inzake de verdergaande vermindering van zwavelemissies
 
 De Partijen,
@@ -48,7 +70,7 @@ Bevestigend het [Protocol inzake de vermindering van zwavelemissies of van de gr
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van dit Protocol wordt verstaan onder:
 
@@ -94,7 +116,7 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 - 21. „Zwavelbudget”: een matrix van berekende bijdragen aan de depositie van geoxydeerde zwavelverbindingen in ontvangstgebieden, afkomstig van de emissies vanuit nader omschreven gebieden.
 
-#### Artikel 2. Fundamentele verplichtingen
+##### Artikel 2. Fundamentele verplichtingen
 
 1. De Partijen zullen hun zwavelemissies beheersen en verminderen teneinde de gezondheid van de mens en het milieu te beschermen tegen schadelijke gevolgen, met name de gevolgen van verzuring, en ervoor te zorgen, voor zover mogelijk, zonder dat zulks buitensporige kosten met zich meebrengt, dat deposities van geoxydeerde zwavelverbindingen op de lange termijn de kritische belasting voor zwavel die in Bijlage I als kritische zwaveldepositie is vermeld, overeenkomstig de huidige wetenschappelijke kennis, niet overschrijden.
 
@@ -136,7 +158,7 @@ waarbij Bijlage IV als richtsnoer dient.
 
 8. De Partijen zullen, met inachtneming van het resultaat van de eerste toetsing ingevolge artikel 8 en uiterlijk een jaar na de afronding van die toetsing, onderhandelingen aangaan inzake verdere verplichtingen ter vermindering van de emissies.
 
-#### Artikel 3. Uitwisseling van technologie
+##### Artikel 3. Uitwisseling van technologie
 
 1. De Partijen vergemakkelijken, in overeenstemming met hun nationale wetten, voorschriften en gewoonten, de uitwisseling van technologieën en technieken, waaronder die welke zijn gericht op verhoging van het energierendement, het gebruik van duurzame energie en de verwerking van laagzwavelige brandstoffen, ter vermindering van zwavelemissies, met name door het bevorderen van:
 
@@ -152,7 +174,7 @@ waarbij Bijlage IV als richtsnoer dient.
 
 3. De Partijen vangen uiterlijk zes maanden na de datum van inwerkingtreding van dit Protocol aan met de bestudering van procedures om gunstigere voorwaarden te scheppen voor de uitwisseling van technologie ter vermindering van zwavelemissies.
 
-#### Artikel 4. Nationale strategieën, beleidslijnen, programma’s, maatregelen en informatie
+##### Artikel 4. Nationale strategieën, beleidslijnen, programma’s, maatregelen en informatie
 
 1. Teneinde haar verplichtingen ingevolge artikel 2 na te komen, neemt elke Partij:
 
@@ -166,7 +188,7 @@ waarbij Bijlage IV als richtsnoer dient.
 
 - b. de effecten van deposities van geoxydeerde zwavelverbindingen en andere verzurende verbindingen.
 
-#### Artikel 5. Rapportage
+##### Artikel 5. Rapportage
 
 1. Elke Partij verstrekt, via de Uitvoerend Secretaris van de Commissie, met een door het Uitvoerend Orgaan vastgestelde regelmaat, aan het Uitvoerend Orgaan informatie over:
 
@@ -192,7 +214,7 @@ Partijen in gebieden buiten de geografische reikwijdte van het EMEP stellen soor
 
 5. De Partijen dragen op zittingen van het Uitvoerend Orgaan zorg voor het opstellen, met regelmatige tussenpozen, van herziene informatie over berekende en internationaal geoptimaliseerde toedeling voor emissievermindering aan de Staten binnen de geografische reikwijdte van het EMEP, met geïntegreerde evaluatiemodellen, teneinde, voor de toepassing van artikel 2, eerste lid, van dit Protocol het verschil tussen de feitelijke deposities van geoxydeerde zwavelverbindingen en de waarden van de kritische belasting verder te verkleinen.
 
-#### Artikel 6. Onderzoek, ontwikkeling en monitoring
+##### Artikel 6. Onderzoek, ontwikkeling en monitoring
 
 De Partijen stimuleren het onderzoek, de ontwikkeling, de monitoring en de samenwerking met betrekking tot:
 
@@ -208,7 +230,7 @@ De Partijen stimuleren het onderzoek, de ontwikkeling, de monitoring en de samen
 
 - f. de economische evaluatie van de uit de vermindering van zwavelemissies voortvloeiende baten voor het milieu en de gezondheid van de mens.
 
-#### Artikel 7. Naleving
+##### Artikel 7. Naleving
 
 1. Hierbij wordt een Implementatiecomité ingesteld, dat is belast met de toetsing van de implementatie van dit Protocol en de nakoming door de Partijen van hun verplichtingen. Het brengt verslag uit aan de Partijen op zittingen van het Uitvoerend Orgaan en doet de Partijen aanbevelingen die het passend acht.
 
@@ -218,7 +240,7 @@ De Partijen stimuleren het onderzoek, de ontwikkeling, de monitoring en de samen
 
 4. De toepassing van de procedure betreffende de naleving laat de bepalingen van artikel 9 van dit Protocol onverlet.
 
-#### Artikel 8. Toetsingen door de Partijen op zittingen van het Uitvoerend Orgaan
+##### Artikel 8. Toetsingen door de Partijen op zittingen van het Uitvoerend Orgaan
 
 1. Op zittingen van het Uitvoerend Orgaan toetsen de Partijen, overeenkomstig [artikel 10, tweede lid, letter a, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003681&artikel=10), de door de Partijen en het EMEP verstrekte informatie, de gegevens betreffende de gevolgen van deposities van zwavelverbindingen en andere verzurende verbindingen en de verslagen van het Implementatiecomité, bedoeld in artikel 7, eerste lid, van dit Protocol.
 
@@ -234,7 +256,7 @@ De Partijen stimuleren het onderzoek, de ontwikkeling, de monitoring en de samen
 
 - d. De procedures, de methoden en het tijdschema voor deze toetsingen worden nader bepaald door de Partijen op een zitting van het Uitvoerend Orgaan. De eerste toetsing dient in 1997 te zijn afgerond.
 
-#### Artikel 9. Beslechting van geschillen
+##### Artikel 9. Beslechting van geschillen
 
 1. In geval van een geschil tussen twee of meer Partijen betreffende de uitlegging of toepassing van dit Protocol, streven de betrokken Partijen naar beslechting van het geschil door middel van onderhandelingen of op een andere vreedzame wijze van hun eigen keuze. De partijen bij het geschil stellen het Uitvoerend Orgaan in kennis van hun geschil.
 
@@ -254,11 +276,11 @@ Een Partij die een regionale organisatie voor economische integratie is, kan een
 
 6. Voor de toepassing van het vijfde lid wordt een conciliaticcommissie gevormd. De commissie bestaat uit een gelijk aantal leden, benoemd door elke betrokken partij of, wanneer bij de conciliatie betrokken partijen een zelfde belang nebben, door de groep die dat zelfde belang heeft, en een voorzitter, gekozen door de aldus benoemde leden gezamenlijk. De commissie doet uitspraak in de vorm van een aanbeveling, die de partijen te goeder trouw in overweging nemen.
 
-#### Artikel 10. Bijlagen
+##### Artikel 10. Bijlagen
 
 De Bijlagen bij dit Protocol vormen een integrerend deel van dit Protocol. De Bijlagen I en IV dragen het karakter van een aanbeveling.
 
-#### Artikel 11. Wijzigingen en aanpassingen
+##### Artikel 11. Wijzigingen en aanpassingen
 
 1. Elke Partij kan wijzigingen op dit Protocol voorstellen. Elke Partij bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003681) kan een aanpassing van Bijlage II bij dit Protocol voorstellen, door daaraan haar naam toe te voegen, te zamen met de emissieniveaus, de plafonds voor zwavelemissies en het percentage van de emissievermindering.
 
@@ -272,37 +294,37 @@ De Bijlagen bij dit Protocol vormen een integrerend deel van dit Protocol. De Bi
 
 6. Aanpassingen van Bijlage II dienen bij consensus te worden aangenomen door de Partijen die aanwezig zijn op een zitting van het Uitvoerend Orgaan en worden voor alle Partijen bij dit Protocol van kracht op de negentigste dag na de datum waarop de Uitvoerend Secretaris van de Commissie die Partijen schriftelijk in kennis stelt van de aanneming van de aanpassing.
 
-#### Artikel 12. Ondertekening
+##### Artikel 12. Ondertekening
 
 1. Dit Protocol staat open voor ondertekening te Oslo op 14 juni 1994, vervolgens op de zetel van de Verenigde Naties te New York tot 12 december 1994 door Staten die lid zijn van de Commissie, alsmede Staten die een raadgevende status bij de Commissie hebben, overeenkomstig paragraaf 8 van resolutie 36 (IV) van de Economische en Sociale Raad van 28 maart 1947, en door regionale organisaties voor economische integratie, opgericht door soevereine Staten die lid zijn van de Commissie, die bevoegd zijn te onderhandelen over verdragen met betrekking tot onder dit Protocol vallende aangelegenheden en deze verdragen te sluiten en toe te passen, mits de betrokken Staten en organisaties Partij bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003681) zijn en zijn vermeld in Bijlage II.
 
 2. Deze regionale organisaties voor economische integratie oefenen, wanneer het aangelegenheden betreft die onder hun bevoegdheden vallen, zelf de rechten uit en vervullen zelf de taken die door dit Protocol aan hun lidstaten worden toegekend. In deze gevallen mogen de lidstaten van deze organisaties deze rechten niet afzonderlijk uitoefenen.
 
-#### Artikel 13. Bekrachtiging, aanvaarding, goedkeuring en toetreding
+##### Artikel 13. Bekrachtiging, aanvaarding, goedkeuring en toetreding
 
 1. Dit Protocol behoeft bekrachtiging, aanvaarding of goedkeuring door de ondertekenaars.
 
 2. Dit Protocol staat met ingang van 12 december 1994 open voor toetreding door de Staten en organisaties die voldoen aan de eisen van artikel 12, eerste lid.
 
-#### Artikel 14. Depositaris
+##### Artikel 14. Depositaris
 
 De akten van bekrachtiging, aanvaarding, goedkeuring of toetreding worden nedergelegd bij de Secretaris-Generaal van de Verenigde Naties, die de taken van depositaris verricht.
 
-#### Artikel 15. Inwerkingtreding
+##### Artikel 15. Inwerkingtreding
 
 1. Dit Protocol treedt in werking op de negentigste dag volgend op de datum waarop de zestiende akte van bekrachtiging, aanvaarding, goedkeuring of toetreding is nedergelegd.
 
 2. Voor elke in artikel 12, eerste lid, bedoelde Staat of organisatie die dit Protocol bekrachtigt, aanvaardt of goedkeurt of hiertoe toetreedt na de nederlegging van de zestiende akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, treedt het Protocol in werking op de negentigste dag volgend op de datum van nederlegging door deze Partij van haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
 
-#### Artikel 16. Opzegging
+##### Artikel 16. Opzegging
 
 Vijf jaar na de datum waarop dit Protocol voor een Partij in werking is getreden, kan deze Partij dit Protocol te allen tijde opzeggen door middel van een schriftelijke kennisgeving aan de depositaris. De opzegging wordt van kracht op de negentigste dag na de datum waarop de depositaris de kennisgeving heeft ontvangen, of op een in de kennisgeving van opzegging aangegeven latere datum.
 
-#### Artikel 17. Authentieke teksten
+##### Artikel 17. Authentieke teksten
 
 Het origineel van dit Protocol, waarvan de Engelse, de Franse en de Russische tekst gelijkelijk authentiek zijn, wordt nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
 
-#### I. INLEIDING
+##### I. INLEIDING
 
 1. Deze bijlage heeft tot doel een richtsnoer te geven bij de vaststelling van de keuzen en technologieën voor de beheersing van zwavel ter nakoming van de verplichtingen van het huidige Protocol.
 
@@ -316,7 +338,7 @@ Het origineel van dit Protocol, waarvan de Engelse, de Franse en de Russische te
 
 6. Wanneer maatregelen of technologieën worden gepland voor zwavelbronnen die ook andere stoffen uitstoten, met name stikstofoxiden (NOX), deeltjes, zware metalen en vluchtige organische stoffen (VOS), verdient het aanbeveling deze in samenhang met op specifieke verontreinigende stoffen gerichte beheersingsmethoden te beschouwen teneinde het totale bestrijdingseffect te maximaliseren en de inwerking op het milieu tot een minimum te beperken, en met name de verplaatsing van luchtverontreinigingsproblemen naar andere media (zoals afvalwater en vast afval) te voorkomen.
 
-#### II. BELANGRIJKE STATIONAIRE BRONNEN VAN ZWAVELEMISSIES
+##### II. BELANGRIJKE STATIONAIRE BRONNEN VAN ZWAVELEMISSIES
 
 7. Verbranding van fossiele brandstoffen is de belangrijkste bron van antropogene zwavelemissies uit stationaire bronnen. Daarnaast kunnen enkele processen waarbij geen verbranding optreedt, aanzienlijk tot de emissies bijdragen. De belangrijkste categorieën stationaire bronnen, op basis van EMEP/CORINAIR’90, omvatten:
 
@@ -348,7 +370,7 @@ Het origineel van dit Protocol, waarvan de Engelse, de Franse en de Russische te
 
 8. Uit de gegevens (1990) voor het ECE-gebied als geheel blijkt dat circa 88% van de totale zwavelemissies afkomstig is van de diverse verbrandingsprocessen (20% van industriële verbrandingsprocessen), 5% van produktieprocessen en 7% van olieraffinaderijen. De elektriciteitsproduktie is in veel landen de belangrijkste afzonderlijke veroorzaker van zwavelemissies. In sommige landen draagt de industriële sector (inclusief raffinaderijen) eveneens in sterke mate bij aan de SO2-uitstoot. Hoewel de emissies van raffinaderijen in het ECE-gebied betrekkelijk gering zijn, hebben zij een grote invloed op de zwavelemissies uit andere bronnen door de in de olieprodukten aanwezige zwavel. Normaal blijft 60% van de hoeveelheid zwavel in de ruwe olie achter in de geraffineerde produkten, wordt 60% teruggewonnen als zuivere zwavel en ontsnapt 10% via de schoorsteen.
 
-#### III. ALGEMENE MOGELIJKHEDEN VOOR VERMINDERING VAN DE DOOR VERBRANDING VEROORZAAKTE ZWAVELEMISSIES
+##### III. ALGEMENE MOGELIJKHEDEN VOOR VERMINDERING VAN DE DOOR VERBRANDING VEROORZAAKTE ZWAVELEMISSIES
 
 9. Algemene mogelijkheden voor vermindering van de zwavelemissies zijn:
 
@@ -413,7 +435,7 @@ Het origineel van dit Protocol, waarvan de Engelse, de Franse en de Russische te
 
 - e. processen voor rookgasontwikkeling (FGD) Met deze processen wordt beoogd reeds gevormde zwaveloxiden te verwijderen; zij worden ook als secundaire maatregelen aangeduid. De geavanceerde technologieën voor rookgasbehandeling zijn alle gebaseerd op de verwijdering van zwavel door middel van natte, droge of semi-droge en katalytische chemische processen. Om een zo efficiënt mogelijk programma voor vermindering van de zwavelemissies te ontwikkelen naast de onder (i) vermelde maatregelen voor energiebeheer moet een combinatie van onder (ii) aangegeven technologische maatregelen worden overwogen. In sommige gevallen kunnen methodes voor vermindering van de zwavelemissies ook leiden tot een vermindering van de emissies van C02, NOx en andere verontreinigende stoffen. De in elektriciteitscentrales, warmte/kracht- en stadsverwarmingsinstallaties toegepaste processen voor rookgasbehandeling omvatten: natte reiniging met kalk/kalksteen (LWS), het sproeidroogproces (SDA), het Wellman Lord-proces (WL), reiniging met ammoniak (AS) en processen voor de gecombineerde verwijdering van NOx/SOx (gebruik van geactiveerde kool (AC) en gecombineerde katalytische verwijdering van NOx/SOx). In de sector elektriciteitsopwekking bestaat de geïnstalleerde FGD-capaciteit voor 85% resp. 10% uit LWS- en SDA-voorzieningen. Verschillende nieuwe rookgasontzwavelingsprocessen, zoals droge reiniging met een elektronenbundel (EBDS) en Mark 13A, bevinden zich nog in het proefstadium. In tabel 2 wordt het rendement van bovenvermelde secundaire maatregelen aangegeven op basis van de met een groot aantal installaties opgedane ervaring. De geïnstalleerde capaciteit en het capaciteitsbereik worden eveneens vermeld. Door lokale of met de betrokken installatie samenhangende factoren kan het voorkomen dat van verschillende technologieën voor vermindering van de zwaveluitstoot met vergelijkbare kenmerken een bepaalde technologie in een gegeven geval niet bruikbaar is. Tabel 2 vermeldt tevens de marge waarbinnen de investeringskosten voor de onder (ii), c), d) en e), genoemde technologieën zich gewoonlijk bewegen. Bij de toepassing van deze technologieën in individuele gevallen dient er evenwel rekening mee te worden gehouden, dat de met maatregelen voor emissievermindering samenhangende investeringskosten onder andere worden bepaald door de specifieke technologieën die worden toegepast, de benodigde beheersingssystemen, de omvang van de installatie, de mate waarin de zwaveluitstoot moet worden verminderd en het tijdschema voor de geplande onderhoudscycli. De tabel geeft dus alleen een algemene indicatie van de investeringskosten. De investeringskosten voor de aanpassing van bestaande installaties overtreffen doorgaans die voor nieuwe installaties.
 
-#### IV. BEHEERSINGSTECHNIEKEN VOOR ANDERE SECTOREN
+##### IV. BEHEERSINGSTECHNIEKEN VOOR ANDERE SECTOREN
 
 10. De in punt 9. (ii), a) t/m e), vermelde beheersingstechnieken zijn niet alleen geschikt voor de sector elektriciteitsopwekking, maar ook voor diverse andere sectoren van de industrie. Er is reeds gedurende verschillende jaren praktijkervaring mee opgedaan, in de meeste gevallen in elektriciteitscentrales.
 
@@ -444,7 +466,7 @@ Het origineel van dit Protocol, waarvan de Engelse, de Franse en de Russische te
 
 - g. Bij geavanceerde Clausinstallaties wordt een ontzwavelingsrendement van meer dan 99% gehaald.
 
-#### V. BIJPRODUKTEN EN NEVENEFFECTEN
+##### V. BIJPRODUKTEN EN NEVENEFFECTEN
 
 14. Naarmate in de landen binnen het ECE-gebied de inspanningen worden opgevoerd om de zwavelemissies uit stationaire bronnen te verminderen, zullen ook de hoeveelheden bijprodukten toenemen.
 
@@ -462,7 +484,7 @@ Het origineel van dit Protocol, waarvan de Engelse, de Franse en de Russische te
 
 - e. Verwijdering van vast afval.
 
-#### VI. MONITORING EN RAPPORTAGE
+##### VI. MONITORING EN RAPPORTAGE
 
 17. De maatregelen die worden genomen ter uitvoering van nationale strategieën en beleidsplannen voor vermindering van de luchtverontreiniging omvatten: wet- en regelgeving, positieve en negatieve economische prikkels, alsook technologische eisen (beste beschikbare technologie).
 

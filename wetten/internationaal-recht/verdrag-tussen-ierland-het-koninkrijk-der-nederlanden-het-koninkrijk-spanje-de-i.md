@@ -1,13 +1,38 @@
 ---
 title: "Verdrag tussen Ierland, het Koninkrijk der Nederlanden, het Koninkrijk Spanje, de Italiaanse Republiek, de Portugese Republiek, de Franse Republiek en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland tot oprichting van een Maritiem Analyse- en Operatiecentrum op het gebied van verdovende middelen"
 identifier: "BWBV0002869"
-categorie: "Internationaal recht"
-publicatiedatum: 2010-04-02
-laatste_update: 2007-09-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002869"
+country: "nl"
+rank: "verdrag"
+publication_date: "2010-04-02"
+last_updated: "2007-09-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002869"
+soort: "verdrag"
+stam_id: "10003187833"
+version_id: "10003196502"
+internal_id: "C10006998281"
+label_id: "10003173924"
+dtd_version: "2.0"
+original_entry_into_force: "2010-04-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002869/2010-04-02/0"
+intitule_bron: "Trb.2007-231"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-12-01"
+intitule_published: "2007-12-21"
+intitule_in_force: "2010-05-27"
+intitule_status: "goed"
+original_publication: "Trb.2007-231"
+original_signed_date: "2007-12-01"
+original_published_date: "2007-12-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2007-231"
+entry_into_force_date: "2010-04-02"
+jci_1_3: "jci1.3:c:BWBV0002869&z=2010-04-02&g=2010-04-02"
+jci_1_0: "1.0:c:BWBV0002869&g=2010-04-02"
+citeertitel_status: "redactioneel"
+signed_date: "2007-12-01"
+entry_into_force: "2010-04-02"
 ---
-
 # Verdrag tussen Ierland, het Koninkrijk der Nederlanden, het Koninkrijk Spanje, de Italiaanse Republiek, de Portugese Republiek, de Franse Republiek en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland tot oprichting van een Maritiem Analyse- en Operatiecentrum op het gebied van verdovende middelen
 
 De Partijen bij dit Verdrag,
@@ -38,13 +63,13 @@ Komen als volgt overeen:
 
 ### HOOFDSTUK I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Doelstelling
+##### Artikel 1. Doelstelling
 
 1. Het Maritiem Analyse- en Operatiecentrum op het gebied van verdovende middelen, hierna te noemen „het Centrum”, wordt bij dezen in overeenstemming met dit Verdrag door de Partijen opgericht.
 
 2. Alle Partijen worden lid van het Centrum. Het Centrum voorziet in een basis voor de betrokkenheid van de Partijen bij multilaterale samenwerking op het gebied van de bestrijding van de smokkel van verdovende middelen over zee en door de lucht.
 
-#### Artikel 2. Reikwijdte
+##### Artikel 2. Reikwijdte
 
 1. De Partijen werken via het Centrum samen bij de bestrijding van de smokkel van verdovende middelen over zee en door de lucht over de Atlantische Oceaan naar Europa en de westkust van Afrika, met de mogelijkheid de operaties uit te breiden naar onder andere het westelijk deel van het Middellandse-Zeegebied, hierna te noemen het „operatiegebied”.
 
@@ -56,21 +81,21 @@ Komen als volgt overeen:
 
 - c. zich inspannen om de beschikbaarheid van middelen te verzekeren die, waar mogelijk, vooraf worden gemeld, teneinde onderscheppingsoperaties te vereenvoudigen ter bestrijding van de smokkel van verdovende middelen over zee en door de lucht.
 
-#### Artikel 3. Rechtspersoonlijkheid
+##### Artikel 3. Rechtspersoonlijkheid
 
 Het Centrum heeft rechtspersoonlijkheid op het grondgebied van elk van de Partijen, met inbegrip van de bevoegdheid contracten af te sluiten en roerende en onroerende goederen te verwerven en te vervreemden.
 
-#### Artikel 4. Zetel
+##### Artikel 4. Zetel
 
 Het Centrum wordt gevestigd in Lissabon, Portugal, hierna te noemen „de Gastheerstaat”.
 
-#### Artikel 5. Waarnemers
+##### Artikel 5. Waarnemers
 
 1. Elke Staat of internationale organisatie met dezelfde doelstellingen als de Partijen wat betreft de bestrijding van de smokkel van verdovende middelen over zee en door de lucht kan bij besluit van de Uitvoerende Raad en onder door de Raad vast te stellen voorwaarden worden uitgenodigd waarnemer te worden.
 
 2. Op de uitwisseling van persoonsgegevens en andere informatie met waarnemers is artikel 6 van toepassing en deze uitwisseling dient beperkt te blijven tot hetgeen strikt noodzakelijk is voor hun medewerking aan de activiteiten van het Centrum.
 
-#### Artikel 6. Bescherming van persoonsgegevens en andere informatie die door de Partijen is verstrekt
+##### Artikel 6. Bescherming van persoonsgegevens en andere informatie die door de Partijen is verstrekt
 
 1. Persoonsgegevens en andere informatie die door de Partijen is verstrekt, worden verwerkt en beschermd in overeenstemming met de nationale wetgeving van de Partijen, het EU-recht en het internationale recht dat bindend is voor de Partijen, met inbegrip van het [Verdrag van de Raad van Europa tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBV0002783), op 28 januari 1981 aangenomen te Straatsburg.
 
@@ -78,11 +103,11 @@ Het Centrum wordt gevestigd in Lissabon, Portugal, hierna te noemen „de Gasthe
 
 ### HOOFDSTUK II. ORGANISATIE EN FUNCTIONEREN VAN HET CENTRUM
 
-#### Artikel 7. Structuur
+##### Artikel 7. Structuur
 
 Het Centrum zal bestaan uit een Uitvoerende Raad, een directeur, verbindingsofficieren en personeel.
 
-#### Artikel 8. Uitvoerende Raad
+##### Artikel 8. Uitvoerende Raad
 
 1. De Uitvoerende Raad zal bestaan uit een hoge vertegenwoordiger van elke Partij, die niet zal optreden als verbindingsofficier bij het Centrum.
 
@@ -108,7 +133,7 @@ Het Centrum zal bestaan uit een Uitvoerende Raad, een directeur, verbindingsoffi
 
 5. Alle besluiten van de Uitvoerende Raad worden met eenparigheid van stemmen van de Partijen genomen.
 
-#### Artikel 9. Directeur van het Centrum
+##### Artikel 9. Directeur van het Centrum
 
 1. De Uitvoerende Raad benoemt de directeur van het Centrum uit een van de Partijen voor een termijn van twee jaar, die eenmaal met ten hoogste twee jaar kan worden verlengd.
 
@@ -128,7 +153,7 @@ Het Centrum zal bestaan uit een Uitvoerende Raad, een directeur, verbindingsoffi
 
 3. De Gastheerstaat waarborgt de noodzakelijke bescherming en ondersteuning van de directeur.
 
-#### Artikel 10. Verbindingsofficieren
+##### Artikel 10. Verbindingsofficieren
 
 1. De Partijen plaatsen verbindingsofficieren bij het Centrum.
 
@@ -138,13 +163,13 @@ Het Centrum zal bestaan uit een Uitvoerende Raad, een directeur, verbindingsoffi
 
 4. De Gastheerstaat waarborgt de noodzakelijke bescherming en ondersteuning van de verbindingsofficieren die bij het Centrum zijn geplaatst.
 
-#### Artikel 11. Personeel
+##### Artikel 11. Personeel
 
 1. De directeur van het Centrum kan, met toestemming van de Uitvoerende Raad, personeel aanstellen voor het uitvoeren van administratieve, technische of onderhoudstaken in het Centrum.
 
 2. Dit personeel neemt geen deel aan de operationele taken van het Centrum.
 
-#### Artikel 12. Procedures
+##### Artikel 12. Procedures
 
 Het uit hoofde van artikel 8, derde lid, onderdeel d, door de Uitvoerende Raad aan te nemen procedurehandboek omvat het volgende:
 
@@ -166,15 +191,15 @@ Het uit hoofde van artikel 8, derde lid, onderdeel d, door de Uitvoerende Raad a
 
 - i. overige aspecten van de taken van het Centrum.
 
-#### Artikel 13. Operationele en tactische beslissingen
+##### Artikel 13. Operationele en tactische beslissingen
 
 Elke Partij is verantwoordelijk voor operationele en tactische beslissingen en elke beslissing dient te stroken met de grondbeginselen en regels van het internationaal recht, alsmede met hun onderscheiden nationale wetten en procedures.
 
-#### Artikel 14. Toepasselijk recht
+##### Artikel 14. Toepasselijk recht
 
 Op het dagelijks functioneren van het Centrum is het recht van de Gastheerstaat van toepassing.
 
-#### Artikel 15. Kosten
+##### Artikel 15. Kosten
 
 1. De kosten die betrekking hebben op het budget van het Centrum, met uitzondering van de kosten van de verbindingsofficieren, worden gelijkelijk voldaan en gedragen door de Partijen bij dit Verdrag.
 
@@ -182,29 +207,29 @@ Op het dagelijks functioneren van het Centrum is het recht van de Gastheerstaat 
 
 3. Aanvullende financiering voor het functioneren en beheren van het Centrum kan worden gevraagd van bronnen binnen de Europese Unie of elders.
 
-#### Artikel 16. Samenwerking met andere entiteiten
+##### Artikel 16. Samenwerking met andere entiteiten
 
 Onder strategische aanwijzingen van de Uitvoerende Raad kan het Centrum samenwerken met andere entiteiten die dezelfde doelstellingen nastreven wat betreft de bestrijding van de smokkel van verdovende middelen over zee en door de lucht.
 
-#### Artikel 17. Evaluatie
+##### Artikel 17. Evaluatie
 
 Twee jaar na de inwerkingtreding van dit Verdrag wordt het functioneren van het Centrum geëvalueerd door een comité waarin één vertegenwoordiger van elke Partij zitting heeft.
 
 ### HOOFDSTUK III. SLOTBEPALINGEN
 
-#### Artikel 18. Internationale verplichtingen
+##### Artikel 18. Internationale verplichtingen
 
 Niets in dit Verdrag mag worden uitgelegd als onverenigbaar met bestaande internationale verplichtingen vervat in andere internationale overeenkomsten die de Partijen binden.
 
-#### Artikel 19. Beslechting van geschillen
+##### Artikel 19. Beslechting van geschillen
 
 Geschillen die voortvloeien uit de uitlegging of toepassing van dit Verdrag worden in overleg of langs een andere door de Partijen overeen te komen wijze van beslechting geregeld.
 
-#### Artikel 20. Depositaris
+##### Artikel 20. Depositaris
 
 De Regering van de Portugese Republiek treedt op als depositaris van dit Verdrag.
 
-#### Artikel 21. Inwerkingtreding
+##### Artikel 21. Inwerkingtreding
 
 1. Dit Verdrag staat open voor ondertekening door Ierland, het Koninkrijk der Nederlanden, het Koninkrijk Spanje, de Italiaanse Republiek, de Portugese Republiek, de Franse Republiek en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland.
 
@@ -214,23 +239,23 @@ De Regering van de Portugese Republiek treedt op als depositaris van dit Verdrag
 
 4. Voor de overige ondertekenende Staten treedt dit Verdrag in werking zestig dagen na de datum waarop de kennisgeving, bedoeld in het tweede lid van dit artikel, is gedeponeerd.
 
-#### Artikel 22. Toetreding
+##### Artikel 22. Toetreding
 
 1. Na de inwerkingtreding staat dit Verdrag open voor toetreding door elke Staat die met eenparigheid van stemmen van de Partijen is uitgenodigd toe te treden.
 
 2. Dit Verdrag treedt voor de toetredende Staat in werking zestig dagen na de datum van de nederlegging van de desbetreffende akte van toetreding.
 
-#### Artikel 23. Wijzigingen
+##### Artikel 23. Wijzigingen
 
 1. Dit Verdrag kan met onderlinge schriftelijke toestemming van alle Partijen worden gewijzigd.
 
 2. De wijzigingen treden in werking zestig dagen na de datum waarop alle Partijen er schriftelijk en langs diplomatieke weg kennis van hebben gegeven dat aan hun nationale vereisten is voldaan.
 
-#### Artikel 24. Voorlopige toepassing
+##### Artikel 24. Voorlopige toepassing
 
 Elke Staat kan bij de ondertekening van het Verdrag verklaren de bepalingen van het Verdrag voorlopig toe te zullen passen in afwachting van de inwerkingtreding ervan voor die Staat.
 
-#### Artikel 25. Beëindiging en opzegging
+##### Artikel 25. Beëindiging en opzegging
 
 1. Dit Verdrag kan te allen tijde in wederzijds overleg tussen de Partijen worden beëindigd waarbij zij overeenkomen op welke datum de bepalingen van het Verdrag ophouden van kracht te zijn.
 
@@ -242,7 +267,7 @@ Elke Staat kan bij de ondertekening van het Verdrag verklaren de bepalingen van 
 
 5. Niettegenstaande beëindiging of opzegging blijven alle informatie en gegevens die uit hoofde van dit Verdrag zijn doorgegeven onverminderd beschermd overeenkomstig de in dit Verdrag vervatte bepalingen.
 
-#### Artikel 26. Registratie
+##### Artikel 26. Registratie
 
 Dit Verdrag wordt na zijn inwerkingtreding door de depositaris aan het Secretariaat van de Verenigde Naties toegezonden ter registratie overeenkomstig [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 

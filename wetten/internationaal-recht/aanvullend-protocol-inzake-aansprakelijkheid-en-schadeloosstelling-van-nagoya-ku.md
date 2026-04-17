@@ -1,13 +1,35 @@
 ---
 title: "Aanvullend Protocol inzake aansprakelijkheid en schadeloosstelling van Nagoya-Kuala Lumpur bij het Protocol van Cartagena inzake bioveiligheid"
 identifier: "BWBV0005391"
-categorie: "Internationaal recht"
-publicatiedatum: 2018-03-05
-laatste_update: 2018-03-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005391"
+country: "nl"
+rank: "verdrag"
+publication_date: "2018-03-05"
+last_updated: "2018-03-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005391"
+soort: "verdrag"
+stam_id: "10004608803"
+version_id: "10004857592"
+internal_id: "C10009310251"
+label_id: "10004593594"
+dtd_version: "2.0"
+original_entry_into_force: "2018-03-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005391/2018-03-05/0"
+intitule_bron: "Trb.2011-130"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2011-08-17"
+intitule_in_force: "2018-01-02"
+intitule_status: "goed"
+original_publication: "Trb.2011-130"
+original_published_date: "2011-08-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2011-130"
+entry_into_force_date: "2018-03-05"
+jci_1_3: "jci1.3:c:BWBV0005391&z=2018-03-05&g=2018-03-05"
+jci_1_0: "1.0:c:BWBV0005391&g=2018-03-05"
+citeertitel_status: "redactioneel"
+entry_into_force: "2018-03-05"
 ---
-
 # Aanvullend Protocol inzake aansprakelijkheid en schadeloosstelling van Nagoya-Kuala Lumpur bij het Protocol van Cartagena inzake bioveiligheid
 
 De Partijen bij dit Aanvullende Protocol,
@@ -24,11 +46,11 @@ Herinnerend aan [artikel 27 van het Protocol](https://wetten.overheid.nl/jci1.3:
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Doel
+##### Artikel 1. Doel
 
 Het doel van dit Aanvullende Protocol is bij te dragen aan het behoud en duurzaam gebruik van biologische diversiteit, waarbij ook rekening wordt gehouden met de risico’s voor de gezondheid van de mens, door het vaststellen van internationale voorschriften en procedures op het gebied van aansprakelijkheid en schadeloosstelling met betrekking tot gemodificeerde levende organismen.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 1. De uitdrukkingen gebezigd in [artikel 2 van het Verdrag inzake biologische diversiteit](https://wetten.overheid.nl/jci1.3:c:BWBV0001136&artikel=2), hierna te noemen „het Verdrag”, en [artikel 3 van het Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0001513&artikel=3) zijn van toepassing op dit Aanvullende Protocol.
 
@@ -64,7 +86,7 @@ Het doel van dit Aanvullende Protocol is bij te dragen aan het behoud en duurzaa
 
 - d. de omvang van nadelige effecten voor de gezondheid van de mens in de context van het [Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0001513).
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 1. Dit Aanvullende Protocol is van toepassing op schade die voortvloeit uit gemodificeerde levende organismen die afkomstig zijn uit grensoverschrijdende verplaatsing. De bedoelde gemodificeerde levende organismen zijn:
 
@@ -86,11 +108,11 @@ Het doel van dit Aanvullende Protocol is bij te dragen aan het behoud en duurzaa
 
 7. Het nationale recht ter uitvoering van dit Aanvullende Protocol is tevens van toepassing op schade die voortvloeit uit grensoverschrijdende verplaatsingen van gemodificeerde levende organismen van niet-Partijen.
 
-#### Artikel 4. Causaal verband
+##### Artikel 4. Causaal verband
 
 Een causaal verband dient te worden vastgesteld tussen de schade en het desbetreffende gemodificeerde levende organisme overeenkomstig het nationale recht.
 
-#### Artikel 5. Bestrijdingsmaatregelen
+##### Artikel 5. Bestrijdingsmaatregelen
 
 1. In het geval van schade verplichten Partijen de desbetreffende exploitant of exploitanten, met inachtneming van eventuele vereisten van de bevoegde autoriteit:
 
@@ -120,7 +142,7 @@ Een causaal verband dient te worden vastgesteld tussen de schade en het desbetre
 
 8. Bestrijdingsmaatregelen worden uitgevoerd overeenkomstig het nationale recht.
 
-#### Artikel 6. Uitsluitingsgronden
+##### Artikel 6. Uitsluitingsgronden
 
 1. De Partijen kunnen in hun nationale recht voorzien in de volgende uitsluitingsgronden:
 
@@ -130,7 +152,7 @@ Een causaal verband dient te worden vastgesteld tussen de schade en het desbetre
 
 2. De Partijen kunnen in hun nationale recht voorzien in andere uitsluitingsgronden of beperkingen die zij opportuun achten.
 
-#### Artikel 7. Termijnen
+##### Artikel 7. Termijnen
 
 De Partijen kunnen in hun nationale recht voorzien in:
 
@@ -138,15 +160,15 @@ De Partijen kunnen in hun nationale recht voorzien in:
 
 - b. de aanvang van het tijdvak waarop een termijn betrekking heeft.
 
-#### Artikel 8. Financiële limieten
+##### Artikel 8. Financiële limieten
 
 De Partijen kunnen in hun nationale recht voorzien in financiële limieten voor het verhalen van kosten en uitgaven die verband houden met bestrijdingsmaatregelen.
 
-#### Artikel 9. Verhaalsrecht
+##### Artikel 9. Verhaalsrecht
 
 Dit Aanvullende Protocol begrenst noch beperkt het recht van een exploitant op verhaal of schadeloosstelling jegens een andere persoon.
 
-#### Artikel 10. Financiële zekerheid
+##### Artikel 10. Financiële zekerheid
 
 1. De Partijen behouden het recht in hun nationale recht te voorzien in financiële zekerheid.
 
@@ -160,11 +182,11 @@ Dit Aanvullende Protocol begrenst noch beperkt het recht van een exploitant op v
 
 - c. een identificatie van de geschikte entiteiten voor het voorzien in financiële zekerheid.
 
-#### Artikel 11. Aansprakelijkheid van Staten voor internationale onrechtmatige daden
+##### Artikel 11. Aansprakelijkheid van Staten voor internationale onrechtmatige daden
 
 Dit Aanvullende Protocol laat de rechten en verplichtingen van de Staten uit hoofde van de regels van het algemeen internationale recht ten aanzien van de aansprakelijkheid van Staten voor internationale onrechtmatige daden onverlet.
 
-#### Artikel 12. Uitvoering en verhouding met wettelijke aansprakelijkheid
+##### Artikel 12. Uitvoering en verhouding met wettelijke aansprakelijkheid
 
 1. De Partijen voorzien in hun nationale recht in voorschriften en procedures ter zake van schade. Ter uitvoering van deze verplichting voorzien de Partijen in bestrijdingsmaatregelen overeenkomstig dit Aanvullende Protocol en zij kunnen, al naar gelang het geval:
 
@@ -192,21 +214,21 @@ Dit Aanvullende Protocol laat de rechten en verplichtingen van de Staten uit hoo
 
 - d. het recht vorderingen in te stellen.
 
-#### Artikel 13. Evaluatie en toetsing
+##### Artikel 13. Evaluatie en toetsing
 
 Vijf jaar na de inwerkingtreding en daarna om de vijf jaar toetst de Conferentie van de Partijen die als Vergadering van de Partijen bij het [Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0001513) fungeert de effectiviteit van dit Aanvullende Protocol, mits de voor een dergelijke toetsing benodigde informatie door Partijen ter beschikking is gesteld. De toetsing geschiedt in het kader van de evaluatie en toetsing van het Protocol zoals omschreven in [artikel 35 van het Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0001513&artikel=35), tenzij anders wordt besloten door de Partijen bij dit Aanvullende Protocol. De eerste toetsing behelst mede een toetsing van de effectiviteit van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0005391&artikel=10&z=2018-03-05&g=2018-03-05) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0005391&artikel=12&z=2018-03-05&g=2018-03-05).
 
-#### Artikel 14. Conferentie van de Partijen die als Vergadering van de Partijen bij het [Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0001513) fungeert
+##### Artikel 14. Conferentie van de Partijen die als Vergadering van de Partijen bij het [Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0001513) fungeert
 
 1. Met inachtneming van de bepalingen van [artikel 32, tweede lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001136&artikel=32) fungeert de Conferentie van de Partijen die als Vergadering van de Partijen bij het [Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0001513) fungeert als de Vergadering van de Partijen bij dit Aanvullende Protocol.
 
 2. De Conferentie van de Partijen die als Vergadering van de Partijen bij dit [Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0001513) fungeert, toetst geregeld de tenuitvoerlegging van dit Aanvullende Protocol en neemt binnen haar mandaat de besluiten die nodig zijn om de effectieve tenuitvoerlegging daarvan te bevorderen. Zij vervult de functies die haar bij dit Aanvullende Protocol zijn toegewezen en, dienovereenkomstig, de functies die haar bij [artikel 29, vierde lid, onderdelen a en f, van het Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0001513&artikel=29) zijn toegewezen.
 
-#### Artikel 15. Secretariaat
+##### Artikel 15. Secretariaat
 
 Het bij [artikel 24 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001136&artikel=24) ingestelde Secretariaat fungeert als Secretariaat van dit Aanvullende Protocol.
 
-#### Artikel 16. Verhouding tot het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001136) en het [Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0001513)
+##### Artikel 16. Verhouding tot het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001136) en het [Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0001513)
 
 1. Dit Aanvullende Protocol vormt een aanvulling op het [Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0001513) en noch een aanpassing noch een wijziging daarvan.
 
@@ -216,11 +238,11 @@ Het bij [artikel 24 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV000
 
 4. Onverminderd het derde lid van dit artikel laat dit Aanvullende Protocol de rechten en verplichtingen van een Partij uit hoofde van het internationale recht onverlet.
 
-#### Artikel 17. Ondertekening
+##### Artikel 17. Ondertekening
 
 Dit Aanvullende Protocol staat open voor ondertekening door Partijen bij het [Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0001513) op het kantoor van de Verenigde Naties te New York van 7 maart 2011 tot en met 6 maart 2012.
 
-#### Artikel 18. Inwerkingtreding
+##### Artikel 18. Inwerkingtreding
 
 1. Dit Aanvullende Protocol treedt in werking op de negentigste dag na de datum van de nederlegging van de veertigste akte van bekrachtiging, aanvaarding, goedkeuring of toetreding door Staten of regionale organisaties voor economische integratie die Partij zijn bij het [Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0001513).
 
@@ -228,11 +250,11 @@ Dit Aanvullende Protocol staat open voor ondertekening door Partijen bij het [Pr
 
 3. Voor de toepassing van het eerste en tweede lid van dit artikel wordt een door een regionale organisatie voor economische integratie nedergelegde akte niet meegeteld naast de door lidstaten van die organisatie nedergelegde akten.
 
-#### Artikel 19. Voorbehouden
+##### Artikel 19. Voorbehouden
 
 Ten aanzien van dit Aanvullende Protocol kan geen enkel voorbehoud worden gemaakt.
 
-#### Artikel 20. Opzegging
+##### Artikel 20. Opzegging
 
 1. Na het verstrijken van twee jaar na de datum waarop dit Aanvullende Protocol voor een Partij in werking is getreden, kan die Partij dit Aanvullende Protocol te allen tijde opzeggen door middel van een schriftelijke kennisgeving aan de Depositaris.
 
@@ -240,7 +262,7 @@ Ten aanzien van dit Aanvullende Protocol kan geen enkel voorbehoud worden gemaak
 
 3. Elke Partij die het [Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0001513) overeenkomstig [artikel 39 van het Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0001513&artikel=39) opzegt, wordt geacht ook dit Aanvullende Protocol te hebben opgezegd.
 
-#### Artikel 21. Authentieke teksten
+##### Artikel 21. Authentieke teksten
 
 Het oorspronkelijke exemplaar van dit Aanvullende Protocol, waarvan de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse tekst gelijkelijk authentiek zijn, wordt nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
 

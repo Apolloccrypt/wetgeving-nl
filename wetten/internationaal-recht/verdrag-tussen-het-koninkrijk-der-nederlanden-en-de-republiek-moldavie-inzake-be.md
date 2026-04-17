@@ -1,13 +1,32 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Moldavië inzake betaalde werkzaamheden door afhankelijke gezinsleden van leden van diplomatieke vertegenwoordigingen en consulaire posten"
 identifier: "BWBV0007110"
-categorie: "Internationaal recht"
-publicatiedatum: 2025-08-21
-laatste_update: 2025-08-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0007110"
+country: "nl"
+rank: "verdrag"
+publication_date: "2025-08-21"
+last_updated: "2025-08-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0007110"
+soort: "verdrag"
+stam_id: "10005710913"
+version_id: "10006310002"
+internal_id: "C10010214241"
+label_id: "10005692284"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0007110/2025-08-21/0"
+intitule_bron: "Trb.2025-72"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2025-09-17"
+intitule_status: "nogniet"
+original_publication: "Trb.2025-72"
+original_published_date: "2025-09-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2025-72"
+jci_1_3: "jci1.3:c:BWBV0007110&z=2025-08-21&g=2025-08-21"
+jci_1_0: "1.0:c:BWBV0007110&g=2025-08-21"
+citeertitel_status: "redactioneel"
+entry_into_force: "2025-09-17"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Moldavië inzake betaalde werkzaamheden door afhankelijke gezinsleden van leden van diplomatieke vertegenwoordigingen en consulaire posten
 
 Het Koninkrijk der Nederlanden
@@ -22,7 +41,7 @@ Geleid door de wens op basis van wederkerigheid afhankelijke gezinsleden van led
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag,
 
@@ -44,11 +63,11 @@ Voor de toepassing van dit Verdrag,
 
 - ○. een fysieke of verstandelijke beperking heeft, ongeacht de leeftijd, en derhalve door de ontvangende staat wordt geacht deel uit te maken van het huishouden van het lid van de vertegenwoordiging.
 
-#### Artikel 2. Toestemming om betaalde werkzaamheden te verrichten
+##### Artikel 2. Toestemming om betaalde werkzaamheden te verrichten
 
 Het wordt afhankelijke gezinsleden van leden van de vertegenwoordiging van het Koninkrijk der Nederlanden in de Republiek Moldavië en van de Republiek Moldavië in het Koninkrijk der Nederlanden toegestaan betaalde werkzaamheden te verrichten in de ontvangende staat in overeenstemming met de wet- en regelgeving van die staat na het verkrijgen van toestemming in overeenstemming met de bepalingen van dit Verdrag.
 
-#### Artikel 3. Procedure
+##### Artikel 3. Procedure
 
 1. Een afhankelijk gezinslid dient toestemming te verkrijgen van de ontvangende staat alvorens betaalde werkzaamheden te verrichten in die staat. De ambassade van de zendstaat stuurt namens het afhankelijke gezinslid een schriftelijk verzoek om toestemming aan de Directie Protocol van het Ministerie van Buitenlandse Zaken van de ontvangende staat.
 
@@ -62,21 +81,21 @@ Het wordt afhankelijke gezinsleden van leden van de vertegenwoordiging van het K
 
 6. De ontvangende staat kan de toestemming om de werkzaamheden te verrichten op enig moment weigeren of intrekken indien het afhankelijke gezinslid de wetten omtrent immigratie of naturalisatie of de belastingwetten van de ontvangende staat schendt.
 
-#### Artikel 4. Civielrechtelijke of bestuursrechtelijke immuniteit
+##### Artikel 4. Civielrechtelijke of bestuursrechtelijke immuniteit
 
 Een afhankelijk gezinslid dat krachtens het [Verdrag van Wenen inzake diplomatiek verkeer](onbekend) of enige andere internationale overeenkomst immuniteit van rechtsmacht geniet, geniet geen civielrechtelijke of bestuursrechtelijke immuniteit ten aanzien van tegen hem of haar ingestelde vorderingen met betrekking tot elk handelen of nalaten dat verband houdt met de betaalde werkzaamheden die hij of zij verricht in de ontvangende staat.
 
-#### Artikel 5. Strafrechtelijke immuniteit
+##### Artikel 5. Strafrechtelijke immuniteit
 
 1. Indien een afhankelijk gezinslid immuniteit geniet ten aanzien van de rechtsmacht in strafzaken van de ontvangende staat ingevolge het [Verdrag van Wenen inzake diplomatiek verkeer](onbekend) of enige andere internationale overeenkomst, doet de zendstaat afstand van de immuniteit van het betrokken afhankelijke gezinslid ten aanzien van de rechtsmacht in strafzaken van de ontvangende staat met betrekking tot elk handelen of nalaten dat verband houdt met hun betaalde werkzaamheden, behalve in bijzondere gevallen waarin de zendstaat van mening is dat het doen van afstand in strijd is met zijn belangen.
 
 2. Het afstand doen van immuniteit heeft geen betrekking op maatregelen van preventieve aard of de tenuitvoerlegging van een vonnis; daarvoor is afzonderlijk afstand doen van immuniteit noodzakelijk. In dergelijke gevallen verzoekt de ontvangende staat de zendstaat schriftelijk afstand te doen van deze immuniteit.
 
-#### Artikel 6. Sociale zekerheid en belastingen
+##### Artikel 6. Sociale zekerheid en belastingen
 
 Een afhankelijk gezinslid dat toestemming heeft verkregen voor het verrichten van betaalde werkzaamheden uit hoofde van dit Verdrag is onderworpen aan het socialezekerheidsstelsel van de ontvangende staat ten aanzien van alle aangelegenheden die verband houden met zijn of haar werkzaamheden in die staat. Een afhankelijk gezinslid is tevens verplicht in de ontvangende staat alle belastingen naar het inkomen te betalen die voortvloeien uit het verrichten van betaalde werkzaamheden op grond van dit Verdrag, voor zover dit niet strijdig is met andere toepasselijke internationale instrumenten die voor beide partijen bindend zijn.
 
-#### Artikel 7. Vervallen van de toestemming
+##### Artikel 7. Vervallen van de toestemming
 
 1. De toestemming voor een afhankelijk gezinslid om betaalde werkzaamheden te verrichten in de ontvangende staat eindigt wanneer:
 
@@ -88,15 +107,15 @@ Een afhankelijk gezinslid dat toestemming heeft verkregen voor het verrichten va
 
 2. Betaalde werkzaamheden aangevangen in overeenstemming met de bepalingen van dit Verdrag geven het afhankelijke gezinslid niet het recht in de ontvangende staat te blijven wonen en geven bedoeld afhankelijk gezinslid evenmin het recht deze werkzaamheden te blijven voortzetten of in de ontvangende Staat andere werkzaamheden te aan te vangen nadat de uit hoofde van dit Verdrag verleende toestemming is beëindigd.
 
-#### Artikel 8. Wijziging
+##### Artikel 8. Wijziging
 
 Met wederzijdse schriftelijke instemming kunnen de partijen wijzigingen en aanvullingen voorstellen bij dit Verdrag in de vorm van afzonderlijke protocollen die een integrerend onderdeel vormen van dit Verdrag en in werking treden in overeenstemming met [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0007110&artikel=10&z=2025-08-21&g=2025-08-21) van dit Verdrag.
 
-#### Artikel 9. Geschillen
+##### Artikel 9. Geschillen
 
 Elk geschil dat voortvloeit uit de uitlegging of toepassing van de bepalingen van dit Verdrag worden door de partijen geregeld via onderhandelingen.
 
-#### Artikel 10. Inwerkingtreding, looptijd en beëindiging
+##### Artikel 10. Inwerkingtreding, looptijd en beëindiging
 
 1. Dit Verdrag treedt in werking op de eerste dag van de tweede maand na de datum van ontvangst van de laatste schriftelijke kennisgeving langs diplomatieke weg waarin de partijen elkaar ervan in kennis hebben gesteld dat is voldaan aan de interne wettelijke procedures die vereist zijn voor de inwerkingtreding van dit Verdrag.
 

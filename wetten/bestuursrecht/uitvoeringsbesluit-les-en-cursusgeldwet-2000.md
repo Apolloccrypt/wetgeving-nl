@@ -1,13 +1,39 @@
 ---
-title: "Uitvoeringsbesluit Les- en cursusgeldwet 2000"
+title: "Besluit van 7 juni 2000, houdende intrekking van het Uitvoeringsbesluit Les- en cursusgeldwet en vervanging door het Uitvoeringsbesluit Les- en cursusgeldwet 2000 (Uitvoeringsbesluit Les- en cursusgeldwet 2000)"
 identifier: "BWBR0011400"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011400"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011400"
+soort: "AMvB"
+stam_id: "1387223"
+version_id: "2080922"
+internal_id: "C2080921"
+label_id: "1345384"
+dtd_version: "2.0"
+original_entry_into_force: "2000-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011400/2026-01-01/0"
+intitule_bron: "Stb.2000-250"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-06-07"
+intitule_published: "2000-06-20"
+intitule_in_force: "2000-07-20"
+intitule_status: "goed"
+original_publication: "Stb.2000-250"
+original_signed_date: "2000-06-07"
+original_published_date: "2000-06-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2000-250"
+entry_into_force_date: "2000-08-01"
+jci_1_3: "jci1.3:c:BWBR0011400&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0011400&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsbesluit Les- en cursusgeldwet 2000"
+signed_date: "2000-06-07"
+entry_into_force: "2000-08-01"
 ---
-
 # Besluit van 7 juni 2000, houdende intrekking van het Uitvoeringsbesluit Les- en cursusgeldwet en vervanging door het Uitvoeringsbesluit Les- en cursusgeldwet 2000 (Uitvoeringsbesluit Les- en cursusgeldwet 2000)
 
 Op de voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschappen, van 5 april 2000, nr. WJZ/2000/11620 (1711), directie Wetgeving en Juridische Zaken, gedaan mede namens Onze Minister van Landbouw, Natuurbeheer en Visserij;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit en de daarop berustende bepalingen wordt, voor zover niet anders bepaald, verstaan onder:
 
@@ -42,7 +68,7 @@ In dit besluit en de daarop berustende bepalingen wordt, voor zover niet anders 
 
 ### Hoofdstuk 2. Lesgeld
 
-#### Artikel 2. Procedure inschrijving bij een instelling
+##### Artikel 2. Procedure inschrijving bij een instelling
 
 1. Het bevoegd gezag schrijft een onderwijsdeelnemer in voor een opleiding. Het bevoegd gezag zorgt dat de onderwijsdeelnemer bekend is met de verplichting tot het betalen van lesgeld op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188).
 
@@ -50,11 +76,11 @@ In dit besluit en de daarop berustende bepalingen wordt, voor zover niet anders 
 
 3. Inschrijving geschiedt door of namens het bevoegd gezag.
 
-#### Artikel 3. Beëindiging inschrijving
+##### Artikel 3. Beëindiging inschrijving
 
 Het bevoegd gezag beëindigt de inschrijving van de onderwijsdeelnemer op zijn aanvraag of zodra de onderwijsdeelnemer de opleiding met goed gevolg heeft afgesloten.
 
-#### Artikel 4. Voldoening lesgeld
+##### Artikel 4. Voldoening lesgeld
 
 1. Het lesgeld wordt door de lesgeldplichtige aan het Ministerie van OCW voldaan. De lesgeldplichtige heeft de keuze tussen:
 
@@ -86,11 +112,11 @@ Het bevoegd gezag beëindigt de inschrijving van de onderwijsdeelnemer op zijn a
 
 4. Indien de lesgeldplichtige een opdracht tot automatische incasso voor betaling in termijnen heeft verstrekt en de onderwijsdeelnemer na 30 september van het studiejaar wordt ingeschreven, wordt het verschuldigde bedrag afgeschreven op bij ministeriële regeling te bepalen tijdstippen.
 
-#### Artikel 5. Vermindering lesgeld
+##### Artikel 5. Vermindering lesgeld
 
 Voor een onderwijsdeelnemer die na 31 oktober van een studiejaar wordt ingeschreven aan een instelling, wordt het lesgeld verminderd met eentwaalfde deel voor iedere verstreken hele maand in dat studiejaar.
 
-#### Artikel 6. Geen lesgeld verschuldigd
+##### Artikel 6. Geen lesgeld verschuldigd
 
 1. Geen lesgeld is verschuldigd indien de inschrijving van de onderwijsdeelnemer voor 1 oktober van dat studiejaar wordt beëindigd.
 
@@ -106,7 +132,7 @@ Voor een onderwijsdeelnemer die na 31 oktober van een studiejaar wordt ingeschre
 
 4. Bij ministeriële regeling wordt bepaald welke bewijsstukken de lesgeldplichtige overlegt om voor vrijstelling in aanmerking te komen.
 
-#### Artikel 7. Terugbetaling lesgeld
+##### Artikel 7. Terugbetaling lesgeld
 
 1. Indien de inschrijving voor 1 mei van het studiejaar wordt beëindigd vanwege een in het tweede lid genoemde reden, wordt het lesgeld voor dat studiejaar op aanvraag van de lesgeldplichtige terugbetaald met eentwaalfde deel voor iedere resterende hele maand in dat studiejaar.
 
@@ -124,13 +150,13 @@ Voor een onderwijsdeelnemer die na 31 oktober van een studiejaar wordt ingeschre
 
 4. Geen teruggave van lesgeld vindt plaats indien op grond van de [Wet tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012438) of de [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453) een tegemoetkoming in de onderwijsbijdrage is toegekend of als voorschot is verstrekt, en de tegemoetkoming of het voorschot is verrekend met de verplichting tot het betalen van lesgeld.
 
-#### Artikel 8. Informatieverplichtingen instellingen
+##### Artikel 8. Informatieverplichtingen instellingen
 
 De instellingen verstrekken Onze minister gegevens omtrent de inschrijving op een bij ministeriële regeling te bepalen wijze.
 
 ### Hoofdstuk 3. Cursusgeld
 
-#### Artikel 9. Procedure inschrijving bij een cursus
+##### Artikel 9. Procedure inschrijving bij een cursus
 
 1. Een aanvraag tot inschrijving van een cursist bij een cursus kan uitsluitend worden gedaan door degene die op grond van de inschrijving cursusgeldplichtig zal zijn.
 
@@ -144,11 +170,11 @@ De instellingen verstrekken Onze minister gegevens omtrent de inschrijving op ee
 
 - b. een betalingsregeling als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=11&z=2026-01-01&g=2026-01-01) is getroffen.
 
-#### Artikel 10. Beëindiging inschrijving
+##### Artikel 10. Beëindiging inschrijving
 
 Het bevoegd gezag beëindigt de inschrijving van de cursist op aanvraag van de cursusgeldplichtige. Het bevoegd gezag verstrekt een bewijs van uitschrijving aan de cursusgeldplichtige. Het bewijs van uitschrijving bevat bij ministeriële regeling te bepalen gegevens.
 
-#### Artikel 11. Voldoening cursusgeld
+##### Artikel 11. Voldoening cursusgeld
 
 1. Het cursusgeld is door de cursusgeldplichtige verschuldigd aan de instelling die het onderwijs aan de cursus verzorgt.
 
@@ -166,17 +192,17 @@ Het bevoegd gezag beëindigt de inschrijving van de cursist op aanvraag van de c
 
 5. De cursusgeldplichtige verstrekt aan het bevoegd gezag bewijsstukken voor de aanspraak op terugbetaling van cursusgeld als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=14&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 12. Vermindering cursusgeld
+##### Artikel 12. Vermindering cursusgeld
 
 Voor een cursist die in de loop van het studiejaar wordt ingeschreven, wordt het cursusgeld verminderd met eentwaalfde deel voor iedere in dat studiejaar reeds verstreken maand.
 
-#### Artikel 13. Geen cursusgeld verschuldigd
+##### Artikel 13. Geen cursusgeld verschuldigd
 
 1. Geen cursusgeld is verschuldigd indien de cursist bij aanvang van het studiejaar waarin de cursus plaatsvindt de leeftijd van 18 jaren nog niet heeft bereikt.
 
 2. Geen cursusgeld is verschuldigd indien de cursist bij de instelling die de cursus verzorgt, tevens is ingeschreven voor een opleiding waarvoor lesgeld is verschuldigd.
 
-#### Artikel 14. Terugbetaling cursusgeld
+##### Artikel 14. Terugbetaling cursusgeld
 
 1. Indien de inschrijving wordt beëindigd wegens een in het tweede of derde lid genoemde reden, wordt het cursusgeld voor het desbetreffende studiejaar op aanvraag van de cursusgeldplichtige geheel of gedeeltelijk terugbetaald met eentwaalfde deel voor iedere in dat studiejaar resterende hele maand waarin de cursist niet langer zal zijn ingeschreven.
 
@@ -196,7 +222,7 @@ Voor een cursist die in de loop van het studiejaar wordt ingeschreven, wordt het
 
 5. Indien de inschrijving wordt beëindigd wegens het met goed gevolg hebben afgerond van de opleiding, wordt het cursusgeld voor het desbetreffende studiejaar op aanvraag van de cursusgeldplichtige terugbetaald met een tiende deel voor iedere in het studiejaar resterende maand waarin de cursist niet langer zal zijn ingeschreven. De laatste twee maanden van het studiejaar tellen daarbij niet mee.
 
-#### Artikel 15. Omvang cursusgeld
+##### Artikel 15. Omvang cursusgeld
 
 1. Het cursusgeld, bedoeld in [artikel 6, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&artikel=6), bedraagt voor de volgende categorieën cursussen voor het cursusjaar 2024–2025:
 
@@ -210,33 +236,33 @@ Voor een cursist die in de loop van het studiejaar wordt ingeschreven, wordt het
 
 3. Onder de consumentenprijsindex, bedoeld in het tweede lid, wordt verstaan: de consumentenprijsindex «reeks alle huishoudens» zoals vastgesteld door het Centraal Bureau voor de Statistiek.
 
-#### Artikel 16. Afwijking cursusgeldtarieven
+##### Artikel 16. Afwijking cursusgeldtarieven
 
 Indien de aard van het onderwijs, de cursusduur, het aantal lessen of de doelgroep van de cursus daartoe aanleiding geeft, kunnen bij ministeriële regeling de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2026-01-01&g=2026-01-01) genoemde cursusgeldtarieven worden verlaagd.
 
 ### Hoofdstuk 4. Slot- en overgangsbepalingen
 
-#### Artikel 17. Tarieven lesgeld en cursusgeld 2023–2024 in verband met overgang naar nieuwe indexatiesystematiek
+##### Artikel 17. Tarieven lesgeld en cursusgeld 2023–2024 in verband met overgang naar nieuwe indexatiesystematiek
 
 Vervallen
 
-#### Artikel 18. Intrekking Uitvoeringsbesluit Les- en cursusgeldwet
+##### Artikel 18. Intrekking Uitvoeringsbesluit Les- en cursusgeldwet
 
 1. Het Uitvoeringsbesluit Les- en cursusgeldwet wordt ingetrokken.
 
 2. In afwijking van het eerste lid blijven de hoofdstukken van het Uitvoeringsbesluit Les- en cursusgeldwet van kracht tot het tijdstip van inwerkingtreding van de overeenkomstige hoofdstukken van het Uitvoeringsbesluit Les- en cursusgeldwet 2000.
 
-#### Artikel 19. Inwerkingtreding
+##### Artikel 19. Inwerkingtreding
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Bij koninklijk besluit kan een ander tijdstip worden vastgesteld waarop de verschillende hoofdstukken of onderdelen daarvan in werking treden.
 
-#### Artikel 20. Citeertitel
+##### Artikel 20. Citeertitel
 
 Dit besluit wordt aangehaald als «Uitvoeringsbesluit Les- en cursusgeldwet 2000».
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 8a. Opschorting inning lesgeld
+##### Artikel 8a. Opschorting inning lesgeld
 
 Vervallen
 
@@ -246,7 +272,7 @@ Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 3a. Omvang lesgeld
+##### Artikel 3a. Omvang lesgeld
 
 1. Het lesgeld, bedoeld in [artikel 5, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&artikel=5), bedraagt voor het studiejaar 2024–2025 € 1419.
 

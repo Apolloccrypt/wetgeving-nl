@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregel macrobeheersinstrument multidisciplinaire zorg 2024"
 identifier: "BWBR0048494"
-categorie: "Sociaal recht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048494"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048494"
+soort: "zbo"
+stam_id: "16825213"
+version_id: "29561532"
+internal_id: "C42257151"
+label_id: "16737804"
+dtd_version: "2.0"
+original_entry_into_force: "2024-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048494/2024-01-01/0"
+intitule_bron: "Stcrt.2023-17883"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-06-20"
+intitule_published: "2023-06-29"
+intitule_in_force: "2023-06-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-17883"
+original_signed_date: "2023-06-20"
+original_published_date: "2023-06-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-17883"
+entry_into_force_date: "2024-01-01"
+jci_1_3: "jci1.3:c:BWBR0048494&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0048494&g=2024-01-01"
+citeertitel_status: "officieel"
+signed_date: "2023-06-20"
+entry_into_force: "2024-01-01"
 ---
-
 # Beleidsregel macrobeheersinstrument multidisciplinaire zorg 2024
 
 Gelet op [artikel 57, eerste lid, onderdeel d, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot het uitoefenen van de bevoegdheid om een grens vast te stellen op grond van [artikel 50, tweede lid, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50).
@@ -16,7 +41,7 @@ Gelet op [artikel 50, tweede lid, van de Wmg](https://wetten.overheid.nl/jci1.3:
 
 Gelet op [artikel 59 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=59) heeft de Minister van Volksgezondheid, Welzijn en Sport met brief van 14 juli 2014, kenmerk 642423-123512-MC, ten behoeve van de voorliggende beleidsregel een aanwijzing op grond van [artikel 7 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7) aan de NZa gegeven.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
@@ -46,15 +71,15 @@ In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
 - **Zorgverzekeringsfonds:** het fonds bedoeld in [artikel 39 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=39).
 
-#### Artikel 2. Doel van de beleidsregel
+##### Artikel 2. Doel van de beleidsregel
 
 Doel van deze beleidsregel is vast te leggen op welke wijze de NZa gebruik maakt van haar bevoegdheid om ontstane overschrijdingen van het Budgettair kader zorg, betrekking hebbend op multidisciplinaire zorg, met behulp van een macrobeheersinstrument, achteraf te redresseren.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze beleidsregel is van toepassing op multidisciplinaire zorg zoals omschreven bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) (Zvw).
 
-#### Artikel 4. Bekendmaking in 2023 van de grenzen
+##### Artikel 4. Bekendmaking in 2023 van de grenzen
 
 1. De Minister maakt in 2023 bij kaderbrief aan de NZa de hoogte van de macro-omzetgrens voor 2024 bekend.
 
@@ -64,7 +89,7 @@ Deze beleidsregel is van toepassing op multidisciplinaire zorg zoals omschreven 
 
 4. De NZa maakt de hiervoor genoemde beschikkingen bekend door publicatie op haar website, toezending aan branche- en koepelorganisaties en door mededeling van de vaststelling in de Staatscourant. De NZa kan de grenzen genoemd in artikel 4.2 en 4.3 vaststellen in één enkele beschikking.
 
-#### Artikel 5. Procedure na 2024
+##### Artikel 5. Procedure na 2024
 
 1. De Minister bericht de NZa na afloop van 2024 met een realisatiebrief of de collectieve bovengrens van 2024 is overschreden en, zo ja, welk totaalbedrag door de zorgaanbieders gezamenlijk in het Zorgverzekeringsfonds moet worden gestort, het doelbedrag.
 
@@ -88,13 +113,13 @@ Deze beleidsregel is van toepassing op multidisciplinaire zorg zoals omschreven 
 
 10. De NZa legt in de [Regeling macrobeheersinstrument multidisciplinaire zorg 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0048498) vast op welke wijze en op welk moment zorgverzekeraars haar over de gerealiseerde omzet van de zorgaanbieders dienen te informeren.
 
-#### Artikel 6. Intrekken oude beleidsregel
+##### Artikel 6. Intrekken oude beleidsregel
 
 Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt de Beleidsregel macrobeheersinstrument multidisciplinaire zorg 2021, met kenmerk BR/REG-21132, ingetrokken.
 
 Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt de Beleidsregel macrobeheersinstrument multidisciplinaire zorg 2020, met kenmerk BR/REG-20135, ingetrokken.
 
-#### Artikel 7. Bekendmaking, inwerkingtreding en citeertitel
+##### Artikel 7. Bekendmaking, inwerkingtreding en citeertitel
 
 Deze beleidsregel treedt in werking met ingang van 1 januari 2024.
 

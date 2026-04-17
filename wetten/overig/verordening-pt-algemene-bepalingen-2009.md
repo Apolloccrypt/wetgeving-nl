@@ -1,13 +1,38 @@
 ---
-title: "Verordening PT algemene bepalingen 2009"
+title: "Verordening van het bestuur van het Productschap Tuinbouw, d.d. 26 januari 2010 houdende de vaststelliing van algernene bepalingen die gelden ten aanzen van het productschap (Verordening PT algemene bepalingen 2009)"
 identifier: "BWBR0027562"
-categorie: "Overig"
-publicatiedatum: 2011-05-22
-laatste_update: 2011-05-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027562"
+country: "nl"
+rank: "pbo"
+publication_date: "2011-05-22"
+last_updated: "2011-05-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027562"
+soort: "pbo"
+stam_id: "10509293"
+version_id: "17310882"
+internal_id: "C23882671"
+label_id: "10484494"
+dtd_version: "2.0"
+original_entry_into_force: "2010-03-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027562/2011-05-22/0"
+intitule_bron: "Vbbo.2010-15"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-01-26"
+intitule_published: "2010-03-12"
+intitule_in_force: "2010-03-12"
+intitule_status: "goed"
+original_publication: "Vbbo.2010-15"
+original_signed_date: "2010-01-26"
+original_published_date: "2010-03-12"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2010-03-14"
+jci_1_3: "jci1.3:c:BWBR0027562&z=2011-05-22&g=2011-05-22"
+jci_1_0: "1.0:c:BWBR0027562&g=2011-05-22"
+citeertitel_status: "officieel"
+short_title: "Verordening PT algemene bepalingen 2009"
+signed_date: "2010-01-26"
+entry_into_force: "2010-03-14"
 ---
-
 # Verordening van het bestuur van het Productschap Tuinbouw, d.d. 26 januari 2010 houdende de vaststelliing van algernene bepalingen die gelden ten aanzen van het productschap (Verordening PT algemene bepalingen 2009)
 
 gelet op de [artikelen 77](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=77), [83](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=83), [93](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=93), [95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95), [96](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=96), [104](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=104), [106](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=106), [126](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), [127 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=127);
@@ -20,7 +45,7 @@ Besluit:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1:1
+##### Artikel 1:1
 
 1. In deze verordening worden de begripsbepalingen van het [Instellingsbesluit Productschap tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235) overgenomen.
 
@@ -36,7 +61,7 @@ Besluit:
 
 #### § 2. Registratie en administratie van ondernemingen
 
-#### Artikel 2:1
+##### Artikel 2:1
 
 1. Het productschap houdt een register van ondernemingen in beheer.
 
@@ -48,7 +73,7 @@ Besluit:
 
 5. Het bestuur van het productschap is bevoegd bij besluit nadere voorschriften vast te stellen ter uitvoering van het bepaalde in de voorgaande leden.
 
-#### Artikel 2:2
+##### Artikel 2:2
 
 1. De ondernemer is verplicht:
 
@@ -90,7 +115,7 @@ Besluit:
 
 #### § 3. Heffing en invordering
 
-#### Artikel 3:1
+##### Artikel 3:1
 
 In deze paragraaf wordt verstaan onder:
 
@@ -99,7 +124,7 @@ In deze paragraaf wordt verstaan onder:
 | b. | aangifteformulier | : door het productschap – al dan niet in elektronische vorm – opgesteld formulier voor het verkrijgen van gegevens die nodig zijn om de omvang van de grondslag voor de verschillende heffingsverordeningen te bepalen; |
 | c. | boekenccntrole | : controle van de in de onderneming of bij diens accountant aanwezige boeken en/of bescheiden, waarbij de in de onderneming aanwezige voorraden, alsmede bedrijfsmiddelen, kunnen worden bezichtigd en opgenomen en daartoe de vrije gelegenheid wordt gegeven, noodzakelijk voor de vaststelling van een juiste en volledige omvang van die grondslagen die leiden tot de, over de te controleren periode, op te leggen heffingen. |
 
-#### Artikel 3:2
+##### Artikel 3:2
 
 1. Een ondernemer retourneert het toegezonden aangifteformulier aan het productschap binnen 30 dagen na ontvangst ervan dan wel binnen de uiterste termijn van retourzending naar waarheid ingevuld en ondertekend.
 
@@ -111,7 +136,7 @@ In deze paragraaf wordt verstaan onder:
 
 3. Wordt de ambtshalve schatting, met medewerking van de ondernemer, alsnog omgezet in een normale aangifte, dan blijft de € 40 aan administratiekosten verschuldigd.
 
-#### Artikel 3:3
+##### Artikel 3:3
 
 1. Het productschap is gerechtigd ten behoeve van de op te leggen heffing een boekencontrole uit te voeren.
 
@@ -121,7 +146,7 @@ In deze paragraaf wordt verstaan onder:
 
 4. De termijn waarover de boekencontrole zich uitstrekt is maximaal zeven jaar, waarbij niet meer dan de vijf meest recente aangiftejaren worden gecontroleerd.
 
-#### Artikel 3:4
+##### Artikel 3:4
 
 1. De betaling geschiedt binnen zes weken na dagtekening van de nota.
 
@@ -133,25 +158,25 @@ In deze paragraaf wordt verstaan onder:
 
 - c. de ondernemer zich metterwoon in het buitenland heeft gevestigd of van het voornemen daartoe blijkt.
 
-#### Artikel 3:5
+##### Artikel 3:5
 
 In afwijking van het bepaalde in de voorgaande artikelen van deze paragraaf kan de heffingsplichtige een voorlopige heffing worden opgelegd tot het bedrag waarop de heffing vermoedelijk zal worden vastgesteld. De voorlopige heffing wordt verrekend met de krachtens de van toepassing zijnde verordening verschuldigde heffing.
 
-#### Artikel 3:6
+##### Artikel 3:6
 
 Aan de ondernemer, die niet of niet geheel binnen de in [artikel 3:4](https://wetten.overheid.nl/jci1.3:c:BWBR0027562&paragraaf=3&artikel=3:4&z=2011-05-22&g=2011-05-22) bedoelde termijn heeft betaald, worden de daaruit voortvloeiende extra kosten in rekening gebracht, alsmede de wettelijke interest over het niet betaalde bedrag, te berekenen vanaf de dag waarop de betaling dient te zijn verricht.
 
-#### Artikel 3:7
+##### Artikel 3:7
 
 Het productschap is bevoegd tot verrekening van door de ondernemer aan het productschap verschuldigde bedragen met de door de ondernemer van het productschap te ontvangen bedragen.
 
-#### Artikel 3:8
+##### Artikel 3:8
 
 De invorderingskosten bij een dwangbevel zijn voor rekening en risico van de ondernemer.
 
 #### § 4. Factuurmelding
 
-#### Artikel 4:1
+##### Artikel 4:1
 
 1. Ten behoeve van het verkrijgen van statistische informatie lis iedere ondernemer verplicht de voor de buitenlandse afnemer bestemde facturen maandelijks aan het productschap te zenden, met uitzondering van facturen die betrekking hebben op uitgangsmateriaal.
 
@@ -161,7 +186,7 @@ De invorderingskosten bij een dwangbevel zijn voor rekening en risico van de ond
 
 #### § 5. Geheimhouding
 
-#### Artikel 5:1
+##### Artikel 5:1
 
 1. De gegevens verkregen uit hoofde van het bepaalde in deze verordening dienen in handen van de voorzitter of door deze aan te wijzen functionarissen van het secretariaat van het productschap te worden gesteld, tenzij in deze verordening anders is bepaald.
 
@@ -169,11 +194,11 @@ De invorderingskosten bij een dwangbevel zijn voor rekening en risico van de ond
 
 #### § 6. Toezicht
 
-#### Artikel 6:1
+##### Artikel 6:1
 
 Het productschap zal toezicht uitoefenen op degene aan wie een subsidie dan wel een andere financiële bijdrage wordt verstrekt. Eén en ander zal worden vastgelegd in een nader op te stellen regeling.
 
-#### Artikel 6:2
+##### Artikel 6:2
 
 1. Op overtreding van het bepaalde bij of krachtens [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027562&paragraaf=2&z=2011-05-22&g=2011-05-22) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0027562&paragraaf=3&z=2011-05-22&g=2011-05-22) worden tuchtrechtelijke maatregelen gesteld.
 
@@ -181,13 +206,13 @@ Het productschap zal toezicht uitoefenen op degene aan wie een subsidie dan wel 
 
 #### § 7. Slotbepalingen
 
-#### Artikel 7:1
+##### Artikel 7:1
 
 1. De [Verordening PT algemene bepalingen 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022738) wordt ingetrokken, met dien verstande dat zaken met betrekking tot heffingen over de jaren gelegen vóór de inwerkingtreding van onderhavige verordening, geschieden overeenkomstig de [Verordening PT algemene bepalingen 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022738).
 
 2. Deze verordening treedt in werking de tweede dag na plaatsing ervan in het Verordeningenblad Bedrijfsorganisatie.
 
-#### Artikel 7:2
+##### Artikel 7:2
 
 1. Verwijzingen naar de [Verordening PT algemene bepalingen 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022738) moeten worden gelezen als verwijzingen naar de Verordening PT algemene bepalingen 2009.
 

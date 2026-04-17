@@ -1,13 +1,39 @@
 ---
-title: "Wijzigingsbesluit Besluit begroting en verantwoording provincies en gemeenten (wijzigingen interne sturing door provinciale staten en raad, enz.)"
+title: "Besluit van 5 maart 2016, houdende wijziging van het Besluit begroting en verantwoording provincies en gemeenten in verband met de invoering van een aantal wijzigingen die bijdragen aan de interne sturing door provinciale staten en de raad alsmede aan een betere vergelijkbaarheid tussen provincies en tussen gemeenten"
 identifier: "BWBR0037728"
-categorie: "Bestuursrecht"
-publicatiedatum: 2017-12-09
-laatste_update: 2017-12-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037728"
+country: "nl"
+rank: "amvb"
+publication_date: "2017-12-09"
+last_updated: "2017-12-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037728"
+soort: "AMvB"
+stam_id: "13440283"
+version_id: "23070552"
+internal_id: "C33401521"
+label_id: "13407384"
+dtd_version: "2.0"
+original_entry_into_force: "2016-04-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037728/2017-12-09/0"
+intitule_bron: "Stb.2016-101"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-03-05"
+intitule_published: "2016-03-17"
+intitule_in_force: "2016-04-13"
+intitule_status: "goed"
+original_publication: "Stb.2016-101"
+original_signed_date: "2016-03-05"
+original_published_date: "2016-03-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2016-101"
+entry_into_force_date: "2016-04-14"
+jci_1_3: "jci1.3:c:BWBR0037728&z=2017-12-09&g=2017-12-09"
+jci_1_0: "1.0:c:BWBR0037728&g=2017-12-09"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsbesluit Besluit begroting en verantwoording provincies en gemeenten (wijzigingen interne sturing door provinciale staten en raad, enz.)"
+signed_date: "2016-03-05"
+entry_into_force: "2016-04-14"
 ---
-
 # Besluit van 5 maart 2016, houdende wijziging van het Besluit begroting en verantwoording provincies en gemeenten in verband met de invoering van een aantal wijzigingen die bijdragen aan de interne sturing door provinciale staten en de raad alsmede aan een betere vergelijkbaarheid tussen provincies en tussen gemeenten
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 15 december 2015, nr 2015-0000742862;
@@ -20,11 +46,11 @@ Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijks
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Besluit begroting en verantwoording provincies en gemeenten.
 
-#### Artikel II
+##### Artikel II
 
 1. Op investeringen in de openbare ruimte met maatschappelijk nut die voor de inwerkingtreding van dit besluit zijn gedaan blijft het [Besluit begroting en verantwoording provincies en gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0014606) van toepassing zoals dat gold op de dag voor de inwerkingtreding van dit besluit.
 
@@ -34,7 +60,7 @@ Wijzigt het Besluit begroting en verantwoording provincies en gemeenten.
 
 4. Op de begroting en jaarrekening voor 2017 van de openbaren lichamen die op grond van de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) zijn vastgesteld blijft het [Besluit begroting en verantwoording provincies en gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0014606) van toepassing zoals dat gold op de dag voor de inwerkingtreding van dit besluit.
 
-#### Artikel III
+##### Artikel III
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 

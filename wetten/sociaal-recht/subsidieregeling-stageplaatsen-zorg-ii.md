@@ -1,13 +1,39 @@
 ---
-title: "Subsidieregeling stageplaatsen zorg II"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport, nr. MEVA/ABA-3072441, houdende regels voor het subsidiëren van stageplaatsen in de zorg vanaf studiejaar 2011/2012 (Subsidieregeling stageplaatsen zorg 2011/2012)"
 identifier: "BWBR0030326"
-categorie: "Sociaal recht"
-publicatiedatum: 2025-10-01
-laatste_update: 2025-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030326"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-10-01"
+last_updated: "2025-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030326"
+soort: "ministeriele-regeling"
+stam_id: "11417423"
+version_id: "28797662"
+internal_id: "C40776161"
+label_id: "11391014"
+dtd_version: "2.0"
+original_entry_into_force: "2022-07-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030326/2025-10-01/0"
+intitule_bron: "Stcrt.2011-13935"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-07-20"
+intitule_published: "2011-07-29"
+intitule_in_force: "2011-07-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-19652"
+original_signed_date: "2022-07-19"
+original_published_date: "2022-07-29"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2022-19652"
+entry_into_force_date: "2022-07-19"
+jci_1_3: "jci1.3:c:BWBR0030326&z=2025-10-01&g=2025-10-01"
+jci_1_0: "1.0:c:BWBR0030326&g=2025-10-01"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling stageplaatsen zorg II"
+signed_date: "2022-07-19"
+entry_into_force: "2022-07-19"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport, nr. MEVA/ABA-3072441, houdende regels voor het subsidiëren van stageplaatsen in de zorg vanaf studiejaar 2011/2012 (Subsidieregeling stageplaatsen zorg 2011/2012)
 
 Handelende in overeenstemming met de Staatssecretaris van Volksgezondheid, Welzijn en Sport;
@@ -16,7 +42,7 @@ Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artike
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -74,7 +100,7 @@ In deze regeling wordt verstaan onder:
 
 - k. DAEB de-minimisverklaring: verklaring als bedoeld in artikel 7, vierde lid, van de [Verordening (EU) 2023/2832](32023R2832) van de Commissie van 13 december 2023 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun verleend aan diensten van algemeen economisch belang verrichtende ondernemingen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De minister kan aan een stageaanbieder, die in een studiejaar meer dan een vijfde van het aantal uren van één gerealiseerde stageplaats realiseert, jaarlijks op aanvraag een subsidie verstrekken voor het realiseren van stageplaatsen. De subsidie voor een zorgopleiding als bedoeld in [artikel 1, onderdeel c, onder 1° en 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0030326&artikel=1&z=2025-10-01&g=2025-10-01), bestaat uit een tegemoetkoming in de begeleidingskosten en voor een zorgopleiding als bedoeld in artikel 1, onderdeel c, onder 2° en 4°, uit een tegemoetkoming in de loonkosten.
 
@@ -126,7 +152,7 @@ In deze regeling wordt verstaan onder:
 
 13. De subsidie wordt niet verstrekt aan stageaanbieders die in het studiejaar op grond van deze regeling stageplekken tegen betaling aanbieden aan studenten.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De subsidie wordt op aanvraag vastgesteld.
 
@@ -140,11 +166,11 @@ In deze regeling wordt verstaan onder:
 
 6. Een verzoek tot verhoging van het in de aanvraag vermelde aantal gerealiseerde stageplaatsen dat na de datum, bedoeld in het derde lid, wordt ontvangen, wordt afgewezen.
 
-#### Artikel 4
+##### Artikel 4
 
 Uiterlijk 31 december geeft de minister een beschikking tot vaststelling van de subsidie.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De subsidieontvanger meldt meteen aan de minister als:
 
@@ -154,17 +180,17 @@ Uiterlijk 31 december geeft de minister een beschikking tot vaststelling van de 
 
 2. De melding wordt schriftelijk gedaan. De melding wordt voorzien van een toelichting. Bij de melding worden de relevante stukken overgelegd.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De stageaanbieder verstrekt aan de door de minister aangewezen personen op hun verzoek alle bescheiden en inlichtingen die noodzakelijk zijn voor een juiste vervulling van hun taak.
 
 2. De stageaanbieder werkt mee aan de door of namens de minister ingestelde onderzoekingen die erop zijn gericht de minister inlichtingen te verschaffen ten behoeve van de ontwikkeling van het beleid.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling vervalt met ingang van 1 augustus 2027.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling wordt aangehaald als: Subsidieregeling stageplaatsen zorg II.
 
@@ -418,7 +444,7 @@ Voor de opleiding Dienstverlening niveau 2 geldt dat een gerealiseerde stageplaa
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) niet van toepassing.
 
@@ -440,7 +466,7 @@ Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3a
+##### Artikel 3a
 
 1. Indien een stageaanbieder een bedrag van € 300.000 tot ten hoogste € 750.000 van de subsidie inzet voor het realiseren van stageplaatsen voor deelnemers die onderwijs volgen dat niet uit de openbare kas bekostigd wordt, wordt aan deze stageaanbieder als dienst van algemeen economisch belang opgedragen: het realiseren van een stageplaats voor een deelnemer die onderwijs volgt dat niet uit de openbare kas bekostigd wordt.
 

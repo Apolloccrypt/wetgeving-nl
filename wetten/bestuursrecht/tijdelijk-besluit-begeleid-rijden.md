@@ -1,13 +1,39 @@
 ---
-title: "Tijdelijk besluit begeleid rijden"
+title: "Besluit van 7 oktober 2011, houdende tijdelijke regels ten behoeve van een experiment met begeleid rijden, en een enkele wijziging van technische aard (Tijdelijk besluit begeleid rijden)"
 identifier: "BWBR0030554"
-categorie: "Bestuursrecht"
-publicatiedatum: 2017-10-31
-laatste_update: 2017-10-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030554"
+country: "nl"
+rank: "amvb"
+publication_date: "2017-10-31"
+last_updated: "2017-10-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030554"
+soort: "AMvB"
+stam_id: "11470973"
+version_id: "18858572"
+internal_id: "C26320791"
+label_id: "11444334"
+dtd_version: "2.0"
+original_entry_into_force: "2011-10-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030554/2017-10-31/0"
+intitule_bron: "Stb.2011-454"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-10-07"
+intitule_published: "2011-10-25"
+intitule_in_force: "2011-10-25"
+intitule_status: "goed"
+original_publication: "Stb.2011-454"
+original_signed_date: "2011-10-07"
+original_published_date: "2011-10-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2011-454"
+entry_into_force_date: "2011-10-26"
+jci_1_3: "jci1.3:c:BWBR0030554&z=2017-10-31&g=2017-10-31"
+jci_1_0: "1.0:c:BWBR0030554&g=2017-10-31"
+citeertitel_status: "officieel"
+short_title: "Tijdelijk besluit begeleid rijden"
+signed_date: "2011-10-07"
+entry_into_force: "2011-10-26"
 ---
-
 # Besluit van 7 oktober 2011, houdende tijdelijke regels ten behoeve van een experiment met begeleid rijden, en een enkele wijziging van technische aard (Tijdelijk besluit begeleid rijden)
 
 Op de voordracht van Onze Minister van Infrastructuur en Milieu, gedaan mede namens Onze Minister van Veiligheid en Justitie, van 30 juni 2011, nr. IenM/BSK-2011/91960, Hoofddirectie Bestuurlijke en Juridische Zaken;
@@ -20,15 +46,15 @@ Gezien het nader rapport van Onze Minister van Infrastructuur en Milieu van 4 ok
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Reglement rijbewijzen.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Wijzigingsbesluit Reglement rijbewijzen (invoering experiment verlaging leeftijdseisen voor buschauffeurs).
 
-#### Artikel III
+##### Artikel III
 
 [Hoofdstuk VIIIb van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=VIIIb) zoals dat luidt tot 1 november 2017, blijft, tot het tijdstip waarop het bij Koninklijke boodschap van 14 maart 2017 ingediende voorstel van wet tot wijziging van de [Wegenverkeerswet 1994](onbekend) in verband met de definitieve invoering van begeleid rijden tot wet is of wordt verheven en die wet in werking treedt, van toepassing op:
 
@@ -36,15 +62,15 @@ Wijzigt het Wijzigingsbesluit Reglement rijbewijzen (invoering experiment verlag
 
 - b. in aanvulling op onderdeel a op personen die op 31 oktober 2017 de leeftijd van zestien jaar, maar nog niet de leeftijd van achttien jaar hebben bereikt.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt dit besluit.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Reglement rijbewijzen.
 
-#### Artikel VI
+##### Artikel VI
 
 1. Dit besluit treedt in werking met ingang van 1 november 2011 met uitzondering van:
 
@@ -54,7 +80,7 @@ Wijzigt het Reglement rijbewijzen.
 
 2. [Hoofdstuk VIIIb van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=VIIIb) vervalt zes jaren na de inwerkingtreding van dit hoofdstuk.
 
-#### Artikel VII
+##### Artikel VII
 
 Dit besluit wordt aangehaald als: Tijdelijk besluit begeleid rijden.
 

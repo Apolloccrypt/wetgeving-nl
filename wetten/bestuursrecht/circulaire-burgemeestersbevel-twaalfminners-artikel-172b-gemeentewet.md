@@ -1,13 +1,38 @@
 ---
 title: "Circulaire Burgemeestersbevel twaalfminners, artikel 172b Gemeentewet"
 identifier: "BWBR0028138"
-categorie: "Bestuursrecht"
-publicatiedatum: 2010-09-01
-laatste_update: 2010-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028138"
+country: "nl"
+rank: "circulaire"
+publication_date: "2010-09-01"
+last_updated: "2010-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028138"
+soort: "circulaire"
+stam_id: "10671483"
+version_id: "17626652"
+internal_id: "C24389051"
+label_id: "10646634"
+dtd_version: "2.0"
+original_entry_into_force: "2010-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028138/2010-09-01/0"
+intitule_bron: "Stcrt.2010-13482"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-08-19"
+intitule_published: "2010-08-31"
+intitule_in_force: "2010-08-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-13482"
+original_signed_date: "2010-08-19"
+original_published_date: "2010-08-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-13482"
+entry_into_force_date: "2010-09-01"
+jci_1_3: "jci1.3:c:BWBR0028138&z=2010-09-01&g=2010-09-01"
+jci_1_0: "1.0:c:BWBR0028138&g=2010-09-01"
+citeertitel_status: "redactioneel"
+signed_date: "2010-08-19"
+entry_into_force: "2010-09-01"
 ---
-
 # Circulaire Burgemeestersbevel twaalfminners, artikel 172b Gemeentewet
 
 ### 1. Inleiding

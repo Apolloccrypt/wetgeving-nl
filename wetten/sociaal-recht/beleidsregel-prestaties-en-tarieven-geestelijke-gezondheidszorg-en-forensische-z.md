@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregel prestaties en tarieven geestelijke gezondheidszorg en forensische zorg"
 identifier: "BWBR0051661"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051661"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051661"
+soort: "zbo"
+stam_id: "17566973"
+version_id: "30997152"
+internal_id: "C44390831"
+label_id: "17468684"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051661/2026-01-01/0"
+intitule_bron: "Stcrt.2025-36596"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-10-21"
+intitule_published: "2025-10-24"
+intitule_in_force: "2025-10-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-36596"
+original_signed_date: "2025-10-21"
+original_published_date: "2025-10-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-36596"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051661&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051661&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2025-10-21"
+entry_into_force: "2026-01-01"
 ---
-
 # Beleidsregel prestaties en tarieven geestelijke gezondheidszorg en forensische zorg
 
 Gelet op [artikel 57, eerste lid, onderdelen b en c, van de Wet marktordening gezondheidszorg (Wmg)](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) juncto [artikel 6 van het Besluit uitbreiding en beperking werkingssfeer Wet marktordening gezondheidszorg (Bub Wmg)](https://wetten.overheid.nl/jci1.3:c:BWBR0020326&artikel=6), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot het uitoefenen van de bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen.

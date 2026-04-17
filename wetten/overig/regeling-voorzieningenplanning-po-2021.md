@@ -1,20 +1,46 @@
 ---
-title: "Regeling voorzieningenplanning po 2021"
+title: "Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 28 augustus 2020, nr. PO/17898051, houdende regels voor de voorzieningenplanning bij scholen in het primair onderwijs (Regeling voorzieningenplanning po 2021)"
 identifier: "BWBR0044044"
-categorie: "Overig"
-publicatiedatum: 2024-08-01
-laatste_update: 2024-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044044"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-08-01"
+last_updated: "2024-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044044"
+soort: "ministeriele-regeling"
+stam_id: "15617073"
+version_id: "28867392"
+internal_id: "C40871101"
+label_id: "15557454"
+dtd_version: "2.0"
+original_entry_into_force: "2022-08-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044044/2024-08-01/0"
+intitule_bron: "Stcrt.2020-46176"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-08-28"
+intitule_published: "2020-09-02"
+intitule_in_force: "2020-09-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-23306"
+original_signed_date: "2022-08-25"
+original_published_date: "2022-09-08"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2022-23306"
+entry_into_force_date: "2022-08-25"
+jci_1_3: "jci1.3:c:BWBR0044044&z=2024-08-01&g=2024-08-01"
+jci_1_0: "1.0:c:BWBR0044044&g=2024-08-01"
+citeertitel_status: "officieel"
+short_title: "Regeling voorzieningenplanning po 2021"
+signed_date: "2022-08-25"
+entry_into_force: "2022-08-25"
 ---
-
 # Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 28 augustus 2020, nr. PO/17898051, houdende regels voor de voorzieningenplanning bij scholen in het primair onderwijs (Regeling voorzieningenplanning po 2021)
 
 Gelet op de [artikelen 74, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=74), [74a, eerste, derde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=74a), [75, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=75), [84a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=84a), [170, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=170) en [194e, vijfde lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=194e);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -46,11 +72,11 @@ In deze regeling wordt verstaan onder:
 
 - **wet:** [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420).
 
-#### Artikel 2. Beschikbaar stellen gegevens over voedingsgebied nieuwe school
+##### Artikel 2. Beschikbaar stellen gegevens over voedingsgebied nieuwe school
 
 DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot het voedingsgebied via de elektronische weg beschikbaar aan de aanvrager.
 
-#### Artikel 3. Melding voorgenomen aanvraag tot bekostiging
+##### Artikel 3. Melding voorgenomen aanvraag tot bekostiging
 
 1. Het bevoegd gezag maakt melding van een voorgenomen aanvraag als bedoeld in [artikel 75, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=75), tussen 1 juni tot en met 30 juni in het kalenderjaar van de aanvraag, bedoeld in artikel 75, eerste lid, van de wet.
 
@@ -82,7 +108,7 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 5. De melding van de voorgenomen aanvraag tot bekostiging wordt gedaan in het digitale portaal via de website www.duo.nl.
 
-#### Artikel 4. Aanvraag tot bekostiging
+##### Artikel 4. Aanvraag tot bekostiging
 
 1. Een aanvraag als bedoeld in [artikel 74, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=74), bevat naast de gegevens, genoemd in artikel 74, eerste, tweede en derde lid van de wet de volgende gegevens:
 
@@ -114,13 +140,13 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 3. De aanvraag tot bekostiging wordt ingediend in het digitale portaal via de website www.duo.nl.
 
-#### Artikel 5. Verklaring omtrent het gedrag
+##### Artikel 5. Verklaring omtrent het gedrag
 
 1. De verklaring omtrent het gedrag, bedoeld in [artikel 74, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=74), is afgegeven volgens het screeningsprofiel onderwijs.
 
 2. De verklaring omtrent het gedrag wordt zowel via het digitale portaal, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044044&artikel=4&z=2024-08-01&g=2024-08-01), als in originele vorm aan DUO verstrekt.
 
-#### Artikel 6. Nadere regels belangstellingsmeting
+##### Artikel 6. Nadere regels belangstellingsmeting
 
 1. De correctiefactor, bedoeld in [artikel 74a, derde lid, onderdeel a, letter z en onderdeel b, letter z, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=74a), is 0,7.
 
@@ -128,7 +154,7 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 3. De aantallen, bedoeld in [artikel 74a, derde lid, onderdeel a, letters x en w, en onderdeel b, letter w, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=74a), stelt DUO vanaf 1 juli in het jaar van aanvraag beschikbaar aan de aanvrager.
 
-#### Artikel 7. Geldigheid ouderverklaringen
+##### Artikel 7. Geldigheid ouderverklaringen
 
 1. De ouderverklaring, bedoeld in [artikel 74a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=74a), wordt door de ouder ingediend via de website www.duo.nl in de periode van 1 juli tot en met 29 oktober in het kalenderjaar van de aanvraag.
 
@@ -152,7 +178,7 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 9. Bij overtreding van het achtste lid kan de minister besluiten dat alle ingediende ouderverklaringen geen deel meer uitmaken van de desbetreffende belangstellingsmeting.
 
-#### Artikel 8. Uitzonderingssituaties toepassing marktonderzoek
+##### Artikel 8. Uitzonderingssituaties toepassing marktonderzoek
 
 1. Een marktonderzoek als bedoeld in [artikel 74a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=74a), is uitsluitend toegestaan indien:
 
@@ -162,7 +188,7 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 2. Bij het aantonen van een groei als bedoeld in het eerste lid, onderdeel a, gebruikt het bevoegd gezag in ieder geval gegevens verstrekt door het Centraal Bureau voor de Statistiek en een voorspelling van de gemeente ten aanzien van de woningbouw waar het betreffende viercijferig postcodegebied in is gelegen.
 
-#### Artikel 9. Nadere regels marktonderzoek
+##### Artikel 9. Nadere regels marktonderzoek
 
 1. Een marktonderzoek als bedoeld in [artikel 74a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=74a), wordt schriftelijk uitgevoerd, waarbij de anonimiteit van de ondervraagden wordt gegarandeerd.
 
@@ -192,7 +218,7 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 9. Indien de onderzoekspopulatie, bedoeld in [artikel 74a, vijfde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=74a), minder dan 5.000 leerlingen bedraagt, is het minimale aantal leerlingen ten aanzien van wie aan het marktonderzoek is deelgenomen, bedoeld in artikel 74a, derde lid, onderdeel b, letter x, van de wet, 10% van de onderzoekspopulatie. Indien de onderzoekspopulatie 5.000 of meer leerlingen bedraagt, is het minimale aantal leerlingen ten aanzien van wie aan het marktonderzoek is deelgenomen, bedoeld in artikel 74a, derde lid, onderdeel b, letter x, van de wet, 500.
 
-#### Artikel 10. Verzelfstandiging
+##### Artikel 10. Verzelfstandiging
 
 1. Indien sprake is van verzelfstandiging als bedoeld in [artikel 84a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=84a):
 
@@ -228,11 +254,11 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 5. De aantallen in het derde lid, letters g en h en het vierde lid, letters k en l stelt DUO vanaf 1 juli in het jaar van de aanvraag beschikbaar aan de aanvrager.
 
-#### Artikel 11. Melding grondslag school
+##### Artikel 11. Melding grondslag school
 
 Het bevoegd gezag dient een melding van een grondslag of een wijziging van een grondslag als bedoeld in [artikel 164, eerste en derde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=164), in bij DUO.
 
-#### Artikel 12. Uitvoeringsvoorschriften overgangsrecht plan van scholen 2022–2025
+##### Artikel 12. Uitvoeringsvoorschriften overgangsrecht plan van scholen 2022–2025
 
 1. Op het plan van scholen 2022–2025, bedoeld in [artikel 211, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=211), dat is vastgesteld door de gemeenteraad voor 1 augustus 2021 en uiterlijk op 31 december 2021 is goedgekeurd door de minister, is dit artikel van toepassing.
 
@@ -244,7 +270,7 @@ Het bevoegd gezag dient een melding van een grondslag of een wijziging van een g
 
 5. Dit artikel is van overeenkomstige toepassing op besluiten genomen op grond van [artikel 211, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=211).
 
-#### Artikel 13. Uitvoeringsvoorschriften overgangsrecht plan van scholen 2021–2024
+##### Artikel 13. Uitvoeringsvoorschriften overgangsrecht plan van scholen 2021–2024
 
 1. Op het plan van scholen 2021–2024, bedoeld in [artikel 211, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=211), dat is vastgesteld door de gemeenteraad voor 1 augustus 2020 en uiterlijk op 31 december 2020 is goedgekeurd door de minister, is dit artikel van toepassing.
 
@@ -256,14 +282,14 @@ Het bevoegd gezag dient een melding van een grondslag of een wijziging van een g
 
 5. Dit artikel is van overeenkomstige toepassing op besluiten genomen op grond van [artikel 211, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=211).
 
-#### Artikel 14. Inwerkingtreding
+##### Artikel 14. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 februari 2021.
 
-#### Artikel 15. Citeertitel
+##### Artikel 15. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling voorzieningenplanning po 2021. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 4a. Aanvragen tot bekostiging 2022
+##### Artikel 4a. Aanvragen tot bekostiging 2022
 
 In afwijking van [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044044&artikel=4&z=2024-08-01&g=2024-08-01), blijkt voor aanvragen die worden ingediend in 2022 uit het document, bedoeld in [artikel 74, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=74), dat in de periode van 15 september 2021 en 15 september 2022 de in dat artikel bedoelde partijen zijn uitgenodigd om te overleggen.

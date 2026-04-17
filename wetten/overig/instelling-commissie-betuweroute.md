@@ -1,13 +1,37 @@
 ---
 title: "Instelling Commissie Betuweroute"
 identifier: "BWBR0006954"
-categorie: "Overig"
-publicatiedatum: 1994-10-20
-laatste_update: 1994-10-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006954"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1994-10-20"
+last_updated: "1994-10-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006954"
+soort: "ministeriele-regeling"
+stam_id: "4286843"
+version_id: "6050352"
+internal_id: "C6253751"
+label_id: "4265324"
+dtd_version: "2.0"
+original_entry_into_force: "1994-10-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006954/1994-10-20/0"
+intitule_bron: "Stcrt.1994-203"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-10-07"
+intitule_published: "1994-10-21"
+intitule_in_force: "1994-10-21"
+intitule_status: "goed"
+original_publication: "Stcrt.1994-203"
+original_signed_date: "1994-10-07"
+original_published_date: "1994-10-21"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1994-10-20"
+jci_1_3: "jci1.3:c:BWBR0006954&z=1994-10-20&g=1994-10-20"
+jci_1_0: "1.0:c:BWBR0006954&g=1994-10-20"
+citeertitel_status: "officieel"
+signed_date: "1994-10-07"
+entry_into_force: "1994-10-20"
 ---
-
 # Instelling Commissie Betuweroute
 
 Overwegende dat zij:

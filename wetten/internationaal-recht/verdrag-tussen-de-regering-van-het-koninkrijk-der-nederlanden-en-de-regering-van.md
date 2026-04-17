@@ -1,13 +1,32 @@
 ---
 title: "Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Franse Republiek inzake het wederzijdse recht van achtervolging tijdens maritieme antidrugsoperaties in de nabijheid van Saint Martin en Sint Maarten"
 identifier: "BWBV0007141"
-categorie: "Internationaal recht"
-publicatiedatum: 2026-03-10
-laatste_update: 2026-04-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0007141"
+country: "nl"
+rank: "verdrag"
+publication_date: "2026-03-10"
+last_updated: "2026-04-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0007141"
+soort: "verdrag"
+stam_id: "10005726423"
+version_id: "10006328002"
+internal_id: "C10010241681"
+label_id: "10005707914"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0007141/2026-03-10/0"
+intitule_bron: "Trb.2026-36"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2026-04-08"
+intitule_status: "nogniet"
+original_publication: "Trb.2026-36"
+original_published_date: "2026-04-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2026-36"
+jci_1_3: "jci1.3:c:BWBV0007141&z=2026-03-10&g=2026-03-10"
+jci_1_0: "1.0:c:BWBV0007141&g=2026-03-10"
+citeertitel_status: "redactioneel"
+entry_into_force: "2026-04-08"
 ---
-
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Franse Republiek inzake het wederzijdse recht van achtervolging tijdens maritieme antidrugsoperaties in de nabijheid van Saint Martin en Sint Maarten
 
 The government of the Kingdom of the Netherlands
@@ -36,7 +55,7 @@ Wishing to develop standard operating procedures for the conduct of maritime cou
 
 Have agreed as follows:
 
-#### Article 1. Definitions
+##### Article 1. Definitions
 
 For the purposes of this Agreement:
 
@@ -48,7 +67,7 @@ For the purposes of this Agreement:
 
 - d). “joint maritime operations” refers to planned maritime operations set up to detect and monitor suspect vessels. These operations are strictly limited to the sole observation of suspect vessels. They rule out any interception, use of constraint or deprivation of freedom.
 
-#### Article 2. Objectives
+##### Article 2. Objectives
 
 This Agreement has the objective:
 
@@ -62,7 +81,7 @@ This Agreement has the objective:
 
 - e). to join forces to combat or control drug trafficking.
 
-#### Article 3. Geographical limitations
+##### Article 3. Geographical limitations
 
 This Agreement applies:
 
@@ -70,7 +89,7 @@ This Agreement applies:
 
 - b). for pursuit: to all actions executed inside the French and Dutch territorial seas of Saint-Martin – Sint Maarten, excluding internal waters.
 
-#### Article 4. Services involved
+##### Article 4. Services involved
 
 The maritime services covered by this Agreement are:
 
@@ -78,7 +97,7 @@ The maritime services covered by this Agreement are:
 
 - b). for the Kingdom of the Netherlands part: the Dutch Caribbean Coast Guard (DCCG) including Royal Netherlands Navy Units under DCCG tactical command (TACOM), represented by the director of the Dutch Caribbean Coast Guard.
 
-#### Article 5. Operational points of contact
+##### Article 5. Operational points of contact
 
 1. For the implementation of this Agreement, both Parties establish operational points of contact (POC). These operational POCs are the primary points of contact during operational phases. These operational POCs are 24/7 available to execute this Agreement.
 
@@ -96,7 +115,7 @@ The maritime services covered by this Agreement are:
 
 3. The Parties update each other on the contact details of the operational POC as frequently as needed.
 
-#### Article 6. Permanent mutual operational support framework for joint maritime operations
+##### Article 6. Permanent mutual operational support framework for joint maritime operations
 
 A permanent mutual operational support framework is established for joint maritime operations.
 
@@ -112,7 +131,7 @@ This operational support framework includes:
 
 - 2. **Implementation of joint maritime operations** During the operations described in paragraph 1 of this Article, when a vessel of interest is detected by one Party, operating in the territorial sea of the other Party, which requires immediate reaction, that Party is to notify the other Party immediately with all relevant information, including position and time of sighting, description and name of vessel involved, course and speed of vessel and all other information relating to offences suspected in relation with drug trafficking. These reports should be done in the most appropriate and direct way and always be followed by a written report.
 
-#### Article 7. Pursuit
+##### Article 7. Pursuit
 
 1. In accordance with the provisions of the [San Jose Agreement](onbekend), maritime assets of one Party who have begun, in their territorial sea or on the high seas, the pursuit of a vessel suspected of an offence linked to drug trafficking, shall be authorized, under the limitations specified in [Article 8](https://wetten.overheid.nl/jci1.3:c:BWBV0007141&artikel=8&z=2026-03-10&g=2026-03-10) of this Agreement, to continue the pursuit in the other Party’s territorial sea when the competent authorities of the latter Party have been unable to arrive on the spot in time to take over the pursuit.
 
@@ -134,7 +153,7 @@ This operational support framework includes:
 
 8. During operations, the Party in whose territorial sea the pursuit is taking place is to provide instructions to the detecting asset of the other Party as soon as possible, always followed by a written instruction that rules out any use of force (which includes warning orders and immobilization of a suspect vessel) while waiting for an asset belonging to the one Party to take over the pursuit.
 
-#### Article 8. Limitations to Pursuit
+##### Article 8. Limitations to Pursuit
 
 In accordance with the provisions of the San Jose Agreement, cross-border operations conducted within this operational support framework are limited to the following:
 
@@ -146,13 +165,13 @@ In accordance with the provisions of the San Jose Agreement, cross-border operat
 
 - d). while in the territorial sea of the other Party, pursuing law enforcement officers of one Party do not exercise any prerogative of public authority other than that of rescuing and assisting persons in danger.
 
-#### Article 9. Reports
+##### Article 9. Reports
 
 After the completion of the operations stated in [Article 7](https://wetten.overheid.nl/jci1.3:c:BWBV0007141&artikel=7&z=2026-03-10&g=2026-03-10) of this Agreement, the operational POC from the pursuing law enforcement officers’ side issues a report stating the area of operation, time frame and a list of all vessels observed including their name, type, position, course and speed and any characteristics of particular interest.
 
 This report is sent to the operational POC of the other Party within 24 hours of the completion of the operation.
 
-#### Article 10. Port calls during operations
+##### Article 10. Port calls during operations
 
 1. During operations, the vessels of one Party may be authorized to enter the ports of the other Party.
 
@@ -170,21 +189,21 @@ The other Party provides all relevant information regarding the emergency.
 
 4. During above mentioned port calls, inspecting or boarding vessels or persons in this maritime area, which includes territorial sea, internal waters and port waters, remains strictly forbidden by law enforcement officers of the other Party.
 
-#### Article 11. Exercises
+##### Article 11. Exercises
 
 Coordinated exercises are held at regular intervals in order to train the crews of maritime assets involved in this Agreement to communicate with each other.
 
-#### Article 12. Evaluation of the operational support framework
+##### Article 12. Evaluation of the operational support framework
 
 1. Both Parties meet at least once per year in order to analyze, identify, organize, and improve all cooperation in the surveillance operations within the scope of this Agreement. These meetings will be held on the island in turn by each of the Parties.
 
 2. A Party may request an intermediate evaluation at any time. The other Party adheres to this request within one month. The maritime services referred to in [Article 4](https://wetten.overheid.nl/jci1.3:c:BWBV0007141&artikel=4&z=2026-03-10&g=2026-03-10) of this Agreement conduct the evaluations.
 
-#### Article 13. Amendment
+##### Article 13. Amendment
 
 This Agreement may be amended by the mutual written consent of the Parties. Any amendment shall enter into force in accordance with the provisions laid down in [Article 16](https://wetten.overheid.nl/jci1.3:c:BWBV0007141&artikel=16&z=2026-03-10&g=2026-03-10).
 
-#### Article 14. Termination
+##### Article 14. Termination
 
 1. Each Party may terminate this Agreement by means of a written notice through diplomatic channels.
 
@@ -192,11 +211,11 @@ This Agreement may be amended by the mutual written consent of the Parties. Any 
 
 3. The termination of the Agreement shall not release the Parties from any obligations contracted during its application.
 
-#### Article 15. Dispute resolution
+##### Article 15. Dispute resolution
 
 Any dispute concerning the interpretation or application of this Agreement shall be settled by consultation between the Parties.
 
-#### Article 16. Entry into force
+##### Article 16. Entry into force
 
 1. This Agreement shall enter into force on the last date on which both Parties have notified each other, in writing and through diplomatic channels, of the completion of the internal procedure for its entry into force.
 

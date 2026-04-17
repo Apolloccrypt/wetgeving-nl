@@ -1,13 +1,39 @@
 ---
-title: "Wijzigingsregeling Voorschrift Vreemdelingen 2000, enz. (Wet modern migratiebeleid)"
+title: "Regeling van de Staatssecretaris van Veiligheid en Justitie van 27 maart 2013, nummer 2013-0000175332, houdende wijziging van het Voorschrift Vreemdelingen 2000 (honderdenzestiende wijziging)"
 identifier: "BWBR0033191"
-categorie: "Overig"
-publicatiedatum: 2013-06-01
-laatste_update: 2013-06-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033191"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2013-06-01"
+last_updated: "2013-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033191"
+soort: "ministeriele-regeling"
+stam_id: "12192463"
+version_id: "20402092"
+internal_id: "C28680771"
+label_id: "12163854"
+dtd_version: "2.0"
+original_entry_into_force: "2013-04-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033191/2013-06-01/0"
+intitule_bron: "Stcrt.2013-9199"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-03-27"
+intitule_published: "2013-04-09"
+intitule_in_force: "2013-04-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-9199"
+original_signed_date: "2013-03-27"
+original_published_date: "2013-04-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-9199"
+entry_into_force_date: "2013-04-10"
+jci_1_3: "jci1.3:c:BWBR0033191&z=2013-06-01&g=2013-06-01"
+jci_1_0: "1.0:c:BWBR0033191&g=2013-06-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsregeling Voorschrift Vreemdelingen 2000, enz. (Wet modern migratiebeleid)"
+signed_date: "2013-03-27"
+entry_into_force: "2013-04-10"
 ---
-
 # Regeling van de Staatssecretaris van Veiligheid en Justitie van 27 maart 2013, nummer 2013-0000175332, houdende wijziging van het Voorschrift Vreemdelingen 2000 (honderdenzestiende wijziging)
 
 Handelende in overeenstemming met de Minister van Economische Zaken,
@@ -16,19 +42,19 @@ Gelet op de [artikelen 2b, eerste lid, onder e](https://wetten.overheid.nl/jci1.
 
 Besluit:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Voorschrift Vreemdelingen 2000.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005.
 
-#### Artikel III
+##### Artikel III
 
 Het document, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.1), of de verklaring, bedoeld in [artikel 9, derde lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=9), afgegeven voor inwerkingtreding van de [Wet modern migratiebeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027930) blijft geldig tot de daarop aangegeven datum, dan wel tot de vervanging van dat document door een document afgegeven op grond van de [Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823).
 
-#### Artikel IV
+##### Artikel IV
 
 Deze regeling treedt in werking op het tijdstip waarop de [Wet modern migratiebeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027930) in werking treedt, met uitzondering van [artikel I, onderdeel Q](https://wetten.overheid.nl/jci1.3:c:BWBR0033191&artikel=I&z=2013-06-01&g=2013-06-01), dat in werking treedt met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 

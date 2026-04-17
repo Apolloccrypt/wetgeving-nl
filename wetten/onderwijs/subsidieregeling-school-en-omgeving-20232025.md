@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling School en Omgeving 2023–2025"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 3 juli 2023, nr. 37417750, houdende regels voor de subsidiëring van een verrijkte schooldag voor leerlingen in het primair onderwijs, voortgezet onderwijs, speciaal onderwijs en voortgezet speciaal onderwijs 2023–2025 (Subsidieregeling School en omgeving 2023–2025)"
 identifier: "BWBR0048360"
-categorie: "Onderwijs"
-publicatiedatum: 2024-02-24
-laatste_update: 2024-02-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048360"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-02-24"
+last_updated: "2024-02-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048360"
+soort: "ministeriele-regeling"
+stam_id: "16792763"
+version_id: "29973792"
+internal_id: "C42974811"
+label_id: "16707724"
+dtd_version: "2.0"
+original_entry_into_force: "2024-02-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048360/2024-02-24/0"
+intitule_bron: "Stcrt.2023-18849"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-07-03"
+intitule_published: "2023-07-06"
+intitule_in_force: "2023-07-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-5511"
+original_signed_date: "2024-02-13"
+original_published_date: "2024-02-23"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2024-5511"
+entry_into_force_date: "2024-02-13"
+jci_1_3: "jci1.3:c:BWBR0048360&z=2024-02-24&g=2024-02-24"
+jci_1_0: "1.0:c:BWBR0048360&g=2024-02-24"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling School en Omgeving 2023–2025"
+signed_date: "2024-02-13"
+entry_into_force: "2024-02-13"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 3 juli 2023, nr. 37417750, houdende regels voor de subsidiëring van een verrijkte schooldag voor leerlingen in het primair onderwijs, voortgezet onderwijs, speciaal onderwijs en voortgezet speciaal onderwijs 2023–2025 (Subsidieregeling School en omgeving 2023–2025)
 
 Gelet op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4) en [5 van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=5) en de [artikelen 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3) en [2.1 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=2.1);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -56,11 +82,11 @@ In deze regeling wordt verstaan onder:
 
 - **voorloper:** lokale coalitie die op grond van de [Regeling selectie voorlopers Rijke Schooldag](https://wetten.overheid.nl/jci1.3:c:BWBR0046620) door de minister als voorloper is aangemerkt.
 
-#### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
-#### Artikel 3. Doel van de regeling en te subsidiëren activiteiten
+##### Artikel 3. Doel van de regeling en te subsidiëren activiteiten
 
 1. De minister kan voor de schooljaren 2023–2024 en 2024–2025 subsidie verstrekken aan een bevoegd gezag van een school met een categorie A-vestiging of categorie B-vestiging, als deelnemer aan een lokale coalitie voor het uitvoeren van een programma verrijkte schooldag, dat aansluit bij het curriculum van de desbetreffende school.
 
@@ -100,7 +126,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 - b. een bevoegd gezag van een school die deel uitmaakt van een coalitie waarvoor middelen heeft aangevraagd op grond van de specifieke uitkering Kansrijke wijk, te weten de coalities: RSOV22003 Leeuwarden, RSOV22018 Heerlen, RSOV22019 Zaanstad, RSOV22026 Groningen stad en RSOV22034 Rotterdam Zuid.
 
-#### Artikel 4. Regievoerder
+##### Artikel 4. Regievoerder
 
 1. Eén bevoegd gezag treedt namens de lokale coalitie op als regievoerder. Uitsluitend het bevoegd gezag van één van de deelnemende vestigingen in de lokale coalitie kan als regievoerder optreden.
 
@@ -112,7 +138,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 5. Indien de regievoerder zijn taken aan een nieuwe regievoerder overdraagt, maakt de oorspronkelijke regievoerder daar melding van bij DUS-I.
 
-#### Artikel 5. Aanvraag subsidie
+##### Artikel 5. Aanvraag subsidie
 
 1. De subsidie wordt door het bevoegd gezag van een vestiging aangevraagd. Het bevoegd gezag kan per vestiging maximaal één aanvraag indienen, met dien verstande dat een aanvraag als bedoeld in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0048360&artikel=3a&z=2024-02-24&g=2024-02-24) niet meetelt bij de bepaling van het aantal aanvragen.
 
@@ -160,7 +186,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 - d. het geschatte totaal aantal leerlingen dat deelneemt aan activiteiten in de lokale coalitie.
 
-#### Artikel 6. Subsidieplafond, maximale hoogte subsidie
+##### Artikel 6. Subsidieplafond, maximale hoogte subsidie
 
 1. Voor subsidieverstrekking op grond van deze regeling is voor de schooljaren 2023–2024 en 2024–2025 in totaal een bedrag beschikbaar van € 563.103.423,–.
 
@@ -178,13 +204,13 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 5. Als de middelen na afloop van de aanvraagperiode als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048360&artikel=5&z=2024-02-24&g=2024-02-24), niet volledig zijn benut, wordt het resterende bedrag beschikbaar gesteld voor subsidieaanvragen van de coalities voor activiteiten die betrekking hebben op kennisdeling, of ten behoeve van het landelijke programma School en Omgeving. Subsidie kan in september 2024 worden aangevraagd.
 
-#### Artikel 7. Subsidiebedrag
+##### Artikel 7. Subsidiebedrag
 
 1. Het subsidiebedrag voor een categorie A-vestiging wordt berekend door het aantal opgegeven leerlingen van de desbetreffende vestiging dat naar verwachting zal deelnemen aan het programma verrijkte schooldag te vermenigvuldigen met een bedrag van € 236,– per aangevraagd klokuur, per schooljaar.
 
 2. Het subsidiebedrag voor een categorie B-vestiging wordt berekend door het aantal opgegeven leerlingen van de desbetreffende vestiging dat naar verwachting zal deelnemen aan het programma verrijkte schooldag te vermenigvuldigen met een bedrag van € 118,– per klokuur, per schooljaar voor tien uur per week, met dien verstande dat voor een vestiging die op grond van [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0048360&artikel=3a&z=2024-02-24&g=2024-02-24) voor het schooljaar 2024–2025 te gelden heeft als categorie A-vestiging voor dat schooljaar het bedrag en de berekeningswijze, bedoeld in het eerste lid, van toepassing zijn.
 
-#### Artikel 8. Subsidieverplichtingen
+##### Artikel 8. Subsidieverplichtingen
 
 1. In aanvulling op [hoofdstuk 5 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=5) worden aan de subsidieontvanger de volgende verplichtingen opgelegd:
 
@@ -216,7 +242,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 - c. het eerste lid, aanhef en onderdeel i, uitsluitend van toepassing voor wat betreft het schooljaar 2023–2024.
 
-#### Artikel 9. Vaststelling, betaling, besteding en verantwoording
+##### Artikel 9. Vaststelling, betaling, besteding en verantwoording
 
 1. De subsidie, bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048360&artikel=7&z=2024-02-24&g=2024-02-24) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0048360&artikel=10&z=2024-02-24&g=2024-02-24), wordt direct vastgesteld op uiterlijk:
 
@@ -250,7 +276,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 11. De subsidieontvanger toont op verzoek van de minister aan dat de activiteiten waarvoor subsidie is verstrekt, zijn verricht en dat is voldaan aan de verplichtingen die aan de subsidie verbonden zijn.
 
-#### Artikel 10. Subsidie kosten lerende aanpak
+##### Artikel 10. Subsidie kosten lerende aanpak
 
 1. De minister kan bovendien voor de schooljaren 2023–2024 en 2024–2025 aan de regievoerder, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048360&artikel=4&z=2024-02-24&g=2024-02-24), indien de lokale coalitie als voorloper is aangewezen, een eenmalige subsidie verstrekken als tegemoetkoming in de kosten om een actieve bijdrage te leveren aan de kennisopbouw en kennisdeling in het kader van de lerende aanpak.
 
@@ -274,17 +300,17 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 9. Als de activiteiten zijn uitgevoerd en aan de verplichtingen is voldaan, kan het eventueel niet aangewende deel van de subsidie worden besteed aan activiteiten waarvoor bekostiging wordt verstrekt.
 
-#### Artikel 11. Hardheidsclausule
+##### Artikel 11. Hardheidsclausule
 
 De minister kan één of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing daarvan gelet op het belang dat de desbetreffende bepaling beoogt te beschermen zou leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 12. Inwerkingtreding en geldigheidsduur
+##### Artikel 12. Inwerkingtreding en geldigheidsduur
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 1 juni 2027, met dien verstande dat zij van toepassing blijft ten aanzien van subsidies die op grond van deze regeling zijn verstrekt.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling School en Omgeving 2023–2025.
 
@@ -1191,11 +1217,11 @@ Deze bijlage is gebaseerd op de vestigingsnummers die bekend zijn bij het Minist
 | 41349 | 01UB00 | sbao en (v)so | RSOV22027 |
 | 44813 | 22OG00 | sbao en (v)so | RSOV22016 |
 
-#### Artikel 3a. Omzetting categorie B-vestiging naar categorie A-vestiging
+##### Artikel 3a. Omzetting categorie B-vestiging naar categorie A-vestiging
 
 Op aanvraag van het bevoegd gezag kan de Minister bepalen, dat een categorie B-vestiging die tevens is opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048360&bijlage=4&z=2024-02-24&g=2024-02-24) en waarvoor subsidie is verstrekt op grond van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048360&artikel=3&z=2024-02-24&g=2024-02-24), voor wat betreft het schooljaar 2024–2025 te gelden heeft als categorie A-vestiging.
 
-#### Artikel 5a. Aanvraag omzetting categorie vestiging
+##### Artikel 5a. Aanvraag omzetting categorie vestiging
 
 1. Een aanvraag als bedoeld in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0048360&artikel=3a&z=2024-02-24&g=2024-02-24) kan worden ingediend van 1 april 2024 tot en met 30 april 2024. Aanvragen die worden ingediend na 30 april 2024 worden afgewezen.
 

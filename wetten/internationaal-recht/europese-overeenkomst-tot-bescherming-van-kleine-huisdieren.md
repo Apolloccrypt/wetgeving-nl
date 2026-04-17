@@ -1,13 +1,35 @@
 ---
 title: "Europese Overeenkomst tot bescherming van kleine huisdieren"
 identifier: "BWBV0006923"
-categorie: "Internationaal recht"
-publicatiedatum: 2023-07-01
-laatste_update: 2023-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006923"
+country: "nl"
+rank: "verdrag"
+publication_date: "2023-07-01"
+last_updated: "2023-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006923"
+soort: "verdrag"
+stam_id: "10005592633"
+version_id: "10006129072"
+internal_id: "C10009968571"
+label_id: "10005574964"
+dtd_version: "2.0"
+original_entry_into_force: "2023-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006923/2023-07-01/0"
+intitule_bron: "Trb.1988-1"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1988-01-15"
+intitule_in_force: "2023-01-18"
+intitule_status: "goed"
+original_publication: "Trb.1988-1"
+original_published_date: "1988-01-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1988-1"
+entry_into_force_date: "2023-07-01"
+jci_1_3: "jci1.3:c:BWBV0006923&z=2023-07-01&g=2023-07-01"
+jci_1_0: "1.0:c:BWBV0006923&g=2023-07-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2023-07-01"
 ---
-
 # Europese Overeenkomst tot bescherming van kleine huisdieren
 
 Preambule
@@ -38,7 +60,7 @@ Zijn als volgt overeengekomen:
 
 ### HOOFDSTUK I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 1. Onder een klein huisdier wordt verstaan een dier dat door de mens, in het bijzonder thuis voor zijn genoegen en gezelschap, wordt gehouden of bedoeld is gehouden te worden.
 
@@ -52,7 +74,7 @@ Zijn als volgt overeengekomen:
 
 6. Onder bevoegde autoriteit wordt verstaan de door de Lidstaat aangewezen autoriteit.
 
-#### Artikel 2. Reikwijdte en toepassing
+##### Artikel 2. Reikwijdte en toepassing
 
 1. Elke Partij verbindt zich ertoe de noodzakelijke maatregelen te nemen om uitvoering te geven aan de bepalingen van deze Overeenkomst met betrekking tot:
 
@@ -66,13 +88,13 @@ Zijn als volgt overeengekomen:
 
 ### HOOFDSTUK II. BEGINSELEN VOOR HET HOUDEN VAN KLEINE HUISDIEREN
 
-#### Artikel 3. Grondbeginselen voor het welzijn van dieren
+##### Artikel 3. Grondbeginselen voor het welzijn van dieren
 
 1. Niemand mag een klein huisdier nodeloos pijn doen, laten lijden of angst aanjagen.
 
 2. Niemand mag een klein huisdier in de steek laten.
 
-#### Artikel 4. Het houden van kleine huisdieren
+##### Artikel 4. Het houden van kleine huisdieren
 
 1. Ieder die een klein huisdier houdt of erin heeft toegestemd daarvoor te zorgen, is verantwoordelijk voor gezondheid en welzijn ervan.
 
@@ -90,19 +112,19 @@ Zijn als volgt overeengekomen:
 
 - b. ondanks dat aan deze voorwaarden wordt voldaan, het dier zich niet aan gevangenschap kan aanpassen.
 
-#### Artikel 5. Het fokken
+##### Artikel 5. Het fokken
 
 Ieder die een klein huisdier voor het fokken selecteert, is verantwoordelijk voor het rekening houden met de anatomische, fysiologische en gedragskenmerken die de gezondheid en het welzijn van de nakomelingen of het moederdier in gevaar kunnen brengen.
 
-#### Artikel 6. Leeftijdsgrens bij verwerving
+##### Artikel 6. Leeftijdsgrens bij verwerving
 
 Een klein huisdier wordt niet verkocht aan personen jonger dan 16 jaar zonder de uitdrukkelijke toestemming van hun ouders of andere personen die de ouderlijke verantwoordelijkheid uitoefenen.
 
-#### Artikel 7. Het africhten
+##### Artikel 7. Het africhten
 
 Een klein huisdier wordt niet afgericht op een wijze die nadelig is voor zijn gezondheid en welzijn, in het bijzonder door het te dwingen zich boven zijn natuurlijke vermogens of kracht in te spannen, of door kunstmatige hulpmiddelen te gebruiken die letsel of nodeloos pijn, lijden of angst veroorzaken.
 
-#### Artikel 8. Handel, commercieel fokken en in pension hebben, dierenasiels
+##### Artikel 8. Handel, commercieel fokken en in pension hebben, dierenasiels
 
 1. Ieder die op het tijdstip van inwerkingtreding van deze Overeenkomst handelt in kleine huisdieren of deze commercieel fokt of in pension heeft, dan wel een dierenasiel beheert, dient binnen een door elke Partij vast te stellen passende termijn zulks op te geven aan de bevoegde autoriteit.
 
@@ -126,7 +148,7 @@ Ieder die voornemens is zich met één van deze activiteiten bezig te houden, di
 
 5. De bevoegde autoriteit controleert, overeenkomstig de nationale wetgeving, of al dan niet aan de bovengenoemde voorwaarde wordt voldaan.
 
-#### Artikel 9. Reclame, amusement, tentoonstellingen, wedstrijden en soortgelijke evenementen
+##### Artikel 9. Reclame, amusement, tentoonstellingen, wedstrijden en soortgelijke evenementen
 
 1. Kleine huisdieren mogen niet worden gebruikt voor reclame, amusement, tentoonstellingen, wedstrijden en soortgelijke evenementen, tenzij:
 
@@ -140,7 +162,7 @@ Ieder die voornemens is zich met één van deze activiteiten bezig te houden, di
 
 - b. op enig ander tijdstip, wanneer zulks de gezondheid en het welzijn van het dier in gevaar kan brengen.
 
-#### Artikel 10. Chirurgische ingrepen
+##### Artikel 10. Chirurgische ingrepen
 
 1. Chirurgische ingrepen ter verandering van het uiterlijk van een klein huisdier of voor andere niet-curatieve doeleinden zijn verboden, en in het bijzonder:
 
@@ -162,7 +184,7 @@ Ieder die voornemens is zich met één van deze activiteiten bezig te houden, di
 
 - b. Ingrepen waarbij geen narcose is vereist, mogen worden verricht door een op grond van de nationale wetgeving bevoegde persoon.
 
-#### Artikel 11. Het doden
+##### Artikel 11. Het doden
 
 1. Alleen een dierenarts of een andere bevoegde persoon mag een klein huisdier doden, behalve in een noodsituatie om een einde te maken aan het lijden van een dier, wanneer diergeneeskundige of andere bevoegde hulp niet snel kan worden verkregen, of in alle andere onder de nationale wetgeving vallende noodsituaties. Het doden dient te geschieden met een minimum aan lichamelijk en geestelijk lijden, passend bij de omstandigheden. De gekozen methode dient, behalve in een noodsituatie ofwel
 
@@ -182,7 +204,7 @@ Degene die verantwoordelijk is voor het doden, dient zich ervan te vergewissen d
 
 ### HOOFDSTUK III. AANVULLENDE MAATREGELEN VOOR ZWERFDIEREN
 
-#### Artikel 12. Vermindering van het aantal
+##### Artikel 12. Vermindering van het aantal
 
 Wanneer een Partij van mening is dat het aantal zwerfdieren een probleem voor haar is, dient zij de passende wettelijke en/of bestuursrechtelijke maatregelen te nemen die nodig zijn om dit aantal te verminderen op een wijze die niet nodeloos pijn, lijden of angst veroorzaakt.
 
@@ -200,13 +222,13 @@ Wanneer een Partij van mening is dat het aantal zwerfdieren een probleem voor ha
 
 - iii. de vinder van een zwerfhond of -kat aan te moedigen deze te melden aan de bevoegde autoriteit.
 
-#### Artikel 13. Uitzonderingen op het vangen, houden en doden
+##### Artikel 13. Uitzonderingen op het vangen, houden en doden
 
 Uitzonderingen op de in deze Overeenkomst vervatte beginselen voor het vangen, houden en doden van zwerfdieren mogen slechts worden gemaakt indien zij onvermijdelijk zijn in het kader van nationale programma's voor de bestrijding van ziekten.
 
 ### HOOFDSTUK IV. VOORLICHTING EN EDUCATIE
 
-#### Artikel 14. Voorlichtings- en opleidingsprogramma 's
+##### Artikel 14. Voorlichtings- en opleidingsprogramma 's
 
 De Partijen verbinden zich ertoe, de ontwikkeling te stimuleren van voorlichtings- en educatieprogramma's ter bevordering van het besef en de kennis van de bepalingen en de beginselen van deze Overeenkomst bij de organisaties en personen betrokken bij het houden, fokken, africhten, verhandelen en in pension hebben van kleine huisdieren. In deze programma's dient in het bijzonder de aandacht te worden gevestigd op de volgende onderwerpen:
 
@@ -226,7 +248,7 @@ De Partijen verbinden zich ertoe, de ontwikkeling te stimuleren van voorlichting
 
 ### HOOFDSTUK V. MULTILATERAAL OVERLEG
 
-#### Artikel 15. Multilateraal overleg
+##### Artikel 15. Multilateraal overleg
 
 1. Binnen vijf jaar na de inwerkingtreding van de Overeenkomst en elke vijf jaar daarna en, in elk geval, wanneer een meerderheid van de vertegenwoordigers van de Partijen zulks verzoekt, voeren de Partijen multilateraal overleg binnen de Raad van Europa over de toepassing van de Overeenkomst en over de wenselijkheid deze te herzien of bepalingen ervan uit te breiden. Dit overleg vindt plaats op door de Secretaris-Generaal van de Raad van Europa bijeengeroepen vergadering.
 
@@ -238,7 +260,7 @@ De Partijen verbinden zich ertoe, de ontwikkeling te stimuleren van voorlichting
 
 ### HOOFDSTUK VI. WIJZIGINGEN
 
-#### Artikel 16. Wijzigingen
+##### Artikel 16. Wijzigingen
 
 1. Iedere door een Partij of het Comité van Ministers voorgestelde wijziging van de artikelen 1 tot en met 14 wordt medegedeeld aan de Secretaris-Generaal van de Raad van Europa en door deze toegezonden aan de Lidstaten van de Raad van Europa, aan iedere Partij, en aan iedere Staat die overeenkomstig het bepaalde in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006923&hoofdstuk=VII&artikel=19&z=2023-07-01&g=2023-07-01) is uitgenodigd tot de Overeenkomst toe te treden.
 
@@ -248,23 +270,23 @@ De Partijen verbinden zich ertoe, de ontwikkeling te stimuleren van voorlichting
 
 ### HOOFDSTUK VII. SLOTBEPALINGEN
 
-#### Artikel 17. Ondertekening, bekrachtiging, aanvaarding, goedkeuring
+##### Artikel 17. Ondertekening, bekrachtiging, aanvaarding, goedkeuring
 
 Deze Overeenkomst staat open voor ondertekening door de Lidstaten van de Raad van Europa. De Overeenkomst dient te worden bekrachtigd, aanvaard of goedgekeurd. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
 
-#### Artikel 18. Inwerkingtreding
+##### Artikel 18. Inwerkingtreding
 
 1. Deze Overeenkomst treedt in werking op de eerste dag van de maand die volgt op het verstrijken van een periode van zes maanden na de datum waarop vier Lidstaten van de Raad van Europa in overeenstemming met het bepaalde in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0006923&hoofdstuk=VII&artikel=17&z=2023-07-01&g=2023-07-01) hebben verklaard zich gebonden te achten door de Overeenkomst.
 
 2. Ten aanzien van iedere Lidstaat die later verklaart zich gebonden te achten door de Overeenkomst, treedt de Overeenkomst in werking op de eerste dag van de maand die volgt op het verstrijken van een periode van zes maanden na de datum van nederlegging van de akte van bekrachtiging, aanvaarding of goedkeuring.
 
-#### Artikel 19. Toetreding van niet-lidstaten
+##### Artikel 19. Toetreding van niet-lidstaten
 
 1. Na de inwerkingtreding van deze Overeenkomst kan het Comité van Ministers van de Raad van Europa iedere Staat, die geen lid van de Raad van Europa is, uitnodigen toe te treden tot deze Overeenkomst door een besluit daartoe bij de meerderheid van stemmen, bedoeld in [artikel 20, letter d, van het Statuut van de Raad van Europa](https://wetten.overheid.nl/jci1.3:c:BWBV0005506&artikel=20), en bij unanimiteit van de vertegenwoordigers van de Overeenkomstsluitende Staten gerechtigd zitting te hebben in het Comité van Ministers.
 
 2. Ten aanzien van iedere toetredende Staat treedt de Overeenkomst in werking op de eerste dag van de maand die volgt op het verstrijken van een periode van zes maanden na de datum van nederlegging van de akte van toetreding bij de Secretaris-Generaal van de Raad van Europa.
 
-#### Artikel 20. Territoriale clausule
+##### Artikel 20. Territoriale clausule
 
 1. Iedere Staat kan bij de ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding het gebied of de gebieden aanwijzen waarop deze Overeenkomst van toepassing is.
 
@@ -272,7 +294,7 @@ Deze Overeenkomst staat open voor ondertekening door de Lidstaten van de Raad va
 
 3. Iedere verklaring, gedaan krachtens beide vorige leden, kan ten aanzien van ieder in die verklaring aangewezen gebied, worden ingetrokken door middel van een aan de Secretaris-Generaal gerichte kennisgeving. Deze intrekking wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een periode van zes maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 21. Voorbehouden
+##### Artikel 21. Voorbehouden
 
 1. Iedere Staat kan bij de ondertekeningen of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding verklaren dat hij één of meer voorbehouden maakt ten aanzien van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006923&hoofdstuk=II&artikel=6&z=2023-07-01&g=2023-07-01) en [artikel 10, eerste lid, letter a](https://wetten.overheid.nl/jci1.3:c:BWBV0006923&hoofdstuk=II&artikel=10&z=2023-07-01&g=2023-07-01). Geen ander voorbehoud is toegestaan.
 
@@ -280,13 +302,13 @@ Deze Overeenkomst staat open voor ondertekening door de Lidstaten van de Raad va
 
 3. De Partij die een voorbehoud heeft gemaakt ten aanzien van een bepaling van deze Overeenkomst, kan de toepassing van die bepaling door een andere Partij niet vragen; indien het gemaakte voorbehoud gedeeltelijk of voorwaardelijk is, kan zij evenwel de toepassing van die bepaling vragen voor zover zij dit zelf heeft aanvaard.
 
-#### Artikel 22. Opzegging
+##### Artikel 22. Opzegging
 
 1. Iedere Partij kan te allen tijde deze Overeenkomst opzeggen door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte kennisgeving.
 
 2. Deze opzegging wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een periode van zes maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 23. Kennisgeving
+##### Artikel 23. Kennisgeving
 
 1. De Secretaris-Generaal van de Raad van Europa stelt de Lidstaten van de Raad van Europa en iedere Staat die tot deze Overeenkomst is toegetreden of daartoe is uitgenodigd, in kennis van:
 

@@ -1,24 +1,50 @@
 ---
-title: "Beleidsregels Humanitaire Hulp 2008"
+title: "Besluit van de Minister voor Ontwikkelingssamenwerking van 27 maart 2008, nr. DMV/HH-0058/08, tot vaststelling van beleidsregels voor subsidiëring van humanitaire hulp op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Beleidsregels Humanitaire Hulp 2008)"
 identifier: "BWBR0023791"
-categorie: "Bestuursrecht"
-publicatiedatum: 2008-04-26
-laatste_update: 2008-04-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0023791"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2008-04-26"
+last_updated: "2008-04-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023791"
+soort: "beleidsregel"
+stam_id: "9487213"
+version_id: "15294942"
+internal_id: "C20835901"
+label_id: "9464624"
+dtd_version: "2.0"
+original_entry_into_force: "2008-04-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023791/2008-04-26/0"
+intitule_bron: "Stcrt.2008-80"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-03-27"
+intitule_published: "2008-04-24"
+intitule_in_force: "2008-04-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-80"
+original_signed_date: "2008-03-27"
+original_published_date: "2008-04-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-80-p7-SC85422"
+entry_into_force_date: "2008-04-26"
+jci_1_3: "jci1.3:c:BWBR0023791&z=2008-04-26&g=2008-04-26"
+jci_1_0: "1.0:c:BWBR0023791&g=2008-04-26"
+citeertitel_status: "redactioneel"
+short_title: "Beleidsregels Humanitaire Hulp 2008"
+signed_date: "2008-03-27"
+entry_into_force: "2008-04-26"
 ---
-
 # Besluit van de Minister voor Ontwikkelingssamenwerking van 27 maart 2008, nr. DMV/HH-0058/08, tot vaststelling van beleidsregels voor subsidiëring van humanitaire hulp op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Beleidsregels Humanitaire Hulp 2008)
 
 Gelet op [artikel 6 van het Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=6) en [artikel 3.1 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artikel=3.1);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor subsidieverlening op grond van [artikel 3.1 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artikel=3.1) in het kader van humanitaire hulp gelden voor de periode 1 januari 2008 tot en met 31 december 2008 de beleidsregels zoals neergelegd in de bijlage bij dit besluit.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het geplaatst wordt.
 

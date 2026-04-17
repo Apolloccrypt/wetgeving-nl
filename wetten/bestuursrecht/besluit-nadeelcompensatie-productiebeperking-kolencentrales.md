@@ -1,13 +1,39 @@
 ---
-title: "Besluit nadeelcompensatie productiebeperking kolencentrales"
+title: "Besluit van 16 december 2021, houdende regels met betrekking tot vergoeding van schade van exploitanten van kolencentrales in verband met de beperking van de CO2-emissie (Besluit nadeelcompensatie productiebeperking kolencentrales)"
 identifier: "BWBR0046085"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-01-01
-laatste_update: 2022-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046085"
+country: "nl"
+rank: "amvb"
+publication_date: "2022-01-01"
+last_updated: "2022-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046085"
+soort: "AMvB"
+stam_id: "16200413"
+version_id: "28275712"
+internal_id: "C39865791"
+label_id: "16128554"
+dtd_version: "2.0"
+original_entry_into_force: "2022-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046085/2022-01-01/0"
+intitule_bron: "Stb.2021-640"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-12-16"
+intitule_published: "2021-12-22"
+intitule_in_force: "2021-12-22"
+intitule_status: "goed"
+original_publication: "Stb.2021-640"
+original_signed_date: "2021-12-16"
+original_published_date: "2021-12-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2021-640"
+entry_into_force_date: "2022-01-01"
+jci_1_3: "jci1.3:c:BWBR0046085&z=2022-01-01&g=2022-01-01"
+jci_1_0: "1.0:c:BWBR0046085&g=2022-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit nadeelcompensatie productiebeperking kolencentrales"
+signed_date: "2021-12-16"
+entry_into_force: "2022-01-01"
 ---
-
 # Besluit van 16 december 2021, houdende regels met betrekking tot vergoeding van schade van exploitanten van kolencentrales in verband met de beperking van de CO2-emissie (Besluit nadeelcompensatie productiebeperking kolencentrales)
 
 Op de voordracht van de Staatssecretaris van Economische Zaken en Klimaat – Klimaat en Energie van 5 november 2021, nr. WJZ/20267590;
@@ -20,7 +46,7 @@ Gezien het nader rapport van de Staatssecretaris van Economische Zaken en Klimaa
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -30,7 +56,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - **wet:** [Wet verbod op kolen bij elektriciteitsproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0042905).
 
-#### Artikel 2. Grondslag van de schadevergoeding
+##### Artikel 2. Grondslag van de schadevergoeding
 
 1. De vergoeding wordt berekend voor de periode waarin [artikel 3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042905&artikel=3) van toepassing is.
 
@@ -50,7 +76,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 6. Een vergoeding van referentierente als bedoeld in artikel 9 van Verordening (EG) nr. 794/2004 van de Commissie van 21 april 2004 tot uitvoering van Verordening (EG) nr. 659/1999 van de Raad tot vaststelling van nadere bepalingen voor de toepassing van artikel 93 van het Verdrag (PbEU 2004, L 140) met betrekking tot de schade maakt deel uit van de vergoeding. Het tijdstip waarop de referentierente ingaat wordt gesteld op de datum waarop de [Wet van 7 juli 2021 tot wijziging van de Wet verbod op kolen bij elektriciteitsproductie in verband met beperking van de CO2-emissie](https://wetten.overheid.nl/jci1.3:c:BWBR0045514) (Stb. 2021, 382) in werking treedt en eindigt op het moment van vaststelling van de hoogte van de vergoeding.
 
-#### Artikel 3. Berekening van de verwachte netto vrije kasstroom
+##### Artikel 3. Berekening van de verwachte netto vrije kasstroom
 
 1. De verwachte netto vrijekasstroom wordt als volgt berekend: de verwachting van de brutomarge minus operationele kosten minus vennootschapsbelasting minus investeringskosten. De contante waarde van de verwachte netto vrije kasstroom wordt bepaald door de verwachte netto vrije kasstroom te verdisconteren met een voor de productie-eenheid representatieve en marktconforme disconteringsvoet.
 
@@ -62,7 +88,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 5. De verwachte investeringskosten betreffen in ieder geval reguliere investeringen, mutaties in het werkkapitaal en revisies.
 
-#### Artikel 4. Indienen verzoek
+##### Artikel 4. Indienen verzoek
 
 1. Het verzoek, bedoeld in [artikel 4, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042905&artikel=4), wordt ingediend bij Onze Minister binnen drie maanden na de inwerkingtreding van dit besluit en met gebruikmaking van een middel dat door Onze Minister beschikbaar wordt gesteld.
 
@@ -72,7 +98,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de gegevens die bij het verzoek worden ingediend en de stukken die daarbij worden overgelegd.
 
-#### Artikel 5. Terugvordering
+##### Artikel 5. Terugvordering
 
 1. Onze Minister besluit dat de aan de exploitant van een productie-installatie toegekende vergoeding ten aanzien van het kalenderjaar waarin de maatregel van toepassing is, wordt verlaagd tot € 0, indien na afloop van het desbetreffende kalenderjaar blijkt dat in dat kalenderjaar de exploitant van een productie-installatie geen schade heeft geleden als gevolg van de maatregel, omdat:
 
@@ -84,19 +110,19 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Onze Minister vordert bij de exploitant de op grond van het besluit bedoeld in het eerste lid, onverschuldigd betaalde vergoeding terug.
 
-#### Artikel 6. Nadere regels in verband met goedkeuring door de Europese Commissie
+##### Artikel 6. Nadere regels in verband met goedkeuring door de Europese Commissie
 
 Bij ministeriële regeling kunnen nadere regels worden gesteld in verband met de berekening van de vergoeding ter verkrijging van de goedkeuring van de Europese Commissie in een procedure als bedoeld in artikel 108, vierde lid, van het Verdrag betreffende de werking van de Europese Unie.
 
-#### Artikel 7. Advies
+##### Artikel 7. Advies
 
 Onze Minister kan zich ten behoeve van de vaststelling van de hoogte van de vergoeding laten bijstaan door een onafhankelijke adviseur.
 
-#### Artikel 8. Inwerkingtreding
+##### Artikel 8. Inwerkingtreding
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 9. Citeertitel
+##### Artikel 9. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit nadeelcompensatie productiebeperking kolencentrales.
 

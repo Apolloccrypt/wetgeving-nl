@@ -1,13 +1,37 @@
 ---
 title: "Regeling plaatsing en overplaatsing jeugdigen"
 identifier: "BWBR0012741"
-categorie: "Sociaal recht"
-publicatiedatum: 2015-03-24
-laatste_update: 2015-03-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012741"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2015-03-24"
+last_updated: "2015-03-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012741"
+soort: "ministeriele-regeling"
+stam_id: "4542753"
+version_id: "6349152"
+internal_id: "C6593621"
+label_id: "4521224"
+dtd_version: "2.0"
+original_entry_into_force: "2001-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012741/2015-03-24/0"
+intitule_bron: "Stcrt.2001-156"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-08-14"
+intitule_published: "2001-08-15"
+intitule_in_force: "2001-08-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2001-156"
+original_signed_date: "2001-08-14"
+original_published_date: "2001-08-15"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2001-09-01"
+jci_1_3: "jci1.3:c:BWBR0012741&z=2015-03-24&g=2015-03-24"
+jci_1_0: "1.0:c:BWBR0012741&g=2015-03-24"
+citeertitel_status: "officieel"
+signed_date: "2001-08-14"
+entry_into_force: "2001-09-01"
 ---
-
 # Regeling plaatsing en overplaatsing jeugdigen
 
 Gelet op [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=8), [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=15), en [artikel 16, zesde lid, van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=16).
@@ -18,7 +42,7 @@ Besluit:
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -28,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 #### Paragraaf 2. Beveiligingsniveau
 
-#### Artikel 2
+##### Artikel 2
 
 1. In een beperkt beveiligde inrichting of afdeling kunnen jeugdigen worden geplaatst:
 
@@ -44,13 +68,13 @@ In deze regeling wordt verstaan onder:
 
 - b. die aansluitend op de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel, genoemd in [artikel 8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=8), een andere vrijheidsstraf of vrijheidsbenemende maatregel zullen ondergaan.
 
-#### Artikel 3
+##### Artikel 3
 
 In een normaal beveiligde inrichting of afdeling worden jeugdigen, als bedoeld in [artikel 8, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=8), geplaatst alsmede jeugdigen die op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012741&paragraaf=2&artikel=2&z=2015-03-24&g=2015-03-24) niet in aanmerking komen voor plaatsing in een beperkt beveiligde inrichting of afdeling.
 
 #### Paragraaf 3. Inrichtingen en afdelingen voor bijzondere opvang dan wel behandeling
 
-#### Artikel 4
+##### Artikel 4
 
 Jeugdigen kunnen worden geplaatst op een door de Minister van Veiligheid en Justitie als zodanig aangewezen:
 
@@ -62,21 +86,21 @@ Jeugdigen kunnen worden geplaatst op een door de Minister van Veiligheid en Just
 
 - d. observatieafdeling.
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
 #### Paragraaf 4. Plaatsing en overplaatsing van strafrechtelijke jeugdigen
 
-#### Artikel 7
+##### Artikel 7
 
 Indien de selectiefunctionaris afwijkt van de in [artikel 12, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=12) genoemde aanwijzingen, stelt de selectiefunctionaris het openbaar ministerie dan wel de autoriteit die de straf of de maatregel heeft opgelegd hiervan schriftelijk en gemotiveerd op de hoogte.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De selectiefunctionaris betrekt bij zijn beslissing tot plaatsing in een inrichting van een jeugdige aan wie de maatregel plaatsing in een inrichting voor jeugdigen is opgelegd mede:
 
@@ -96,7 +120,7 @@ Indien de selectiefunctionaris afwijkt van de in [artikel 12, vijfde lid, van de
 
 6. De selectiefunctionaris neemt de beslissing tot overplaatsing naar een afdeling als bedoeld in [artikel 4, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0012741&paragraaf=3&artikel=4&z=2015-03-24&g=2015-03-24), met inachtneming van [artikel 22d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=22d).
 
-#### Artikel 9
+##### Artikel 9
 
 1. In deze bepaling wordt onder jeugdige verstaan de jeugdige in voorlopige hechtenis, de jeugdige die tot een onherroepelijke vrijheidsstraf is veroordeeld, de jeugdige in gijzeling en de jeugdige in vreemdelingenbewaring.
 
@@ -112,13 +136,13 @@ Indien de selectiefunctionaris afwijkt van de in [artikel 12, vijfde lid, van de
 
 #### Paragraaf 5. Plaatsing en overplaatsing van civielrechtelijke jeugdigen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
 #### Paragraaf 6. Opname in een ziekenhuis, dan wel een andere instelling
 
-#### Artikel 11
+##### Artikel 11
 
 1. Indien overbrenging naar een psychiatrisch ziekenhuis, bedoeld in [artikel 12, achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=12), geïndiceerd is, dient de directeur van de inrichting waar de jeugdige verblijft, na overleg met een psychiater, een daartoe strekkend advies in bij de selectiefunctionaris.
 
@@ -140,7 +164,7 @@ Vervallen
 
 6. De jeugdige kan in het kader van de behandeling, met instemming van de selectiefunctionaris, een dagbehandeling volgen. De directeur van de inrichting waar de jeugdige administratief is ingeschreven, pleegt hieromtrent overleg met de selectiefunctionaris. Het tweede lid, onder d, is van overeenkomstige toepassing. Voorwaarde voor plaatsing is dat voorzien is in de noodzakelijke kosten van bestaan.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Indien overbrenging naar een algemeen ziekenhuis dan wel een andere instelling als bedoeld in [artikel 47, vierde lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=47) medisch geïndiceerd is, gaat de directeur tot overbrenging over. In bijzondere gevallen, waaronder het risico van onttrekking door de jeugdige aan het toezicht en de veiligheid voor anderen onvoldoende gewaarborgd wordt, kan de jeugdige worden overgebracht naar het Penitentiair Ziekenhuis, bedoeld in [artikel 32 van de Regeling selectie, plaatsing en overplaatsing gedetineerden](https://wetten.overheid.nl/jci1.3:c:BWBR0011558&artikel=32).
 
@@ -156,11 +180,11 @@ Vervallen
 
 #### Paragraaf 7. Slotbepalingen
 
-#### Artikel 13
+##### Artikel 13
 
 Deze Regeling treedt in werking op 1 september 2001
 
-#### Artikel 14
+##### Artikel 14
 
 Deze regeling wordt aangehaald als: Regeling plaatsing en overplaatsing jeugdigen.
 

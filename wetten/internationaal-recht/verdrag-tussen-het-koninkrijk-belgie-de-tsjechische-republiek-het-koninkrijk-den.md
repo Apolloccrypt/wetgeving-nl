@@ -1,13 +1,38 @@
 ---
 title: "Verdrag tussen het Koninkrijk België, de Tsjechische Republiek, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Republiek Estland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, Ierland, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, de Republiek Hongarije, de Republiek Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Republiek Polen, de Portugese Republiek, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland, het Koninkrijk Zweden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland (lidstaten van de Europese Unie) en de Republiek Bulgarije en de Republiek Roemenië betreffende de toetreding van de Republiek Bulgarije en de Republiek Roemenië tot de Europese Unie"
 identifier: "BWBV0001819"
-categorie: "Internationaal recht"
-publicatiedatum: 2008-07-03
-laatste_update: 2005-04-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001819"
+country: "nl"
+rank: "verdrag"
+publication_date: "2008-07-03"
+last_updated: "2005-04-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001819"
+soort: "verdrag"
+stam_id: "10002528663"
+version_id: "10002517232"
+internal_id: "C10006997041"
+label_id: "10002519054"
+dtd_version: "2.0"
+original_entry_into_force: "2007-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001819/2008-07-03/0"
+intitule_bron: "Trb.2005-196"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-08-31"
+intitule_published: "2005-08-19"
+intitule_in_force: "2007-01-19"
+intitule_status: "goed"
+original_publication: "Trb.2005-196"
+original_signed_date: "2006-08-31"
+original_published_date: "2005-08-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2005-196"
+entry_into_force_date: "2007-01-01"
+jci_1_3: "jci1.3:c:BWBV0001819&z=2008-07-03&g=2008-07-03"
+jci_1_0: "1.0:c:BWBV0001819&g=2008-07-03"
+citeertitel_status: "redactioneel"
+signed_date: "2006-08-31"
+entry_into_force: "2007-01-01"
 ---
-
 # Verdrag tussen het Koninkrijk België, de Tsjechische Republiek, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Republiek Estland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, Ierland, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, de Republiek Hongarije, de Republiek Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Republiek Polen, de Portugese Republiek, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland, het Koninkrijk Zweden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland (lidstaten van de Europese Unie) en de Republiek Bulgarije en de Republiek Roemenië betreffende de toetreding van de Republiek Bulgarije en de Republiek Roemenië tot de Europese Unie
 
 Zijne Majesteit de Koning der Belgen,
@@ -82,7 +107,7 @@ Die, na overlegging van hun in goede en behoorlijke vorm bevonden volmachten, om
 
 Overeenstemming hebben bereikt:
 
-#### Artikel 1
+##### Artikel 1
 
 1. De Republiek Bulgarije en Roemenië worden lid van de Europese Unie.
 
@@ -92,7 +117,7 @@ Overeenstemming hebben bereikt:
 
 4. Het Protocol, met inbegrip van de bijlagen en aanhangsels daarbij, wordt gehecht aan het [Verdrag tot vaststelling van een Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBV0005879) voor Europa en aan het [Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie](https://wetten.overheid.nl/jci1.3:c:BWBV0004033), en de bepalingen van dit Protocol maken een integrerend deel van deze Verdragen uit.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Indien het [Verdrag tot vaststelling van een Grondwet voor Europa](https://wetten.overheid.nl/jci1.3:c:BWBV0005879) op de datum van toetreding niet van kracht is, worden de Republiek Bulgarije en Roemenië Partij bij de Verdragen waarop de Unie is gegrondvest, zoals deze Verdragen zijn gewijzigd of aangevuld.
 
@@ -104,11 +129,11 @@ In dat geval wordt artikel 1, leden 2 tot en met 4, van kracht op de datum van i
 
 Handelingen die op grond van dit Verdrag of de in lid 2 bedoelde Akte zijn vastgesteld vóór de inwerkingtreding van het in artikel 1, lid 3, bedoelde Protocol, blijven van toepassing en de rechtsgevolgen ervan blijven gehandhaafd totdat deze handelingen worden gewijzigd of ingetrokken.
 
-#### Artikel 3
+##### Artikel 3
 
 De bepalingen betreffende de rechten en verplichtingen van de lidstaten, alsmede de algemene en bijzondere bevoegdheden van de Instellingen van de Unie, zoals die zijn neergelegd in de Verdragen waarbij de Republiek Bulgarije en Roemenië partij worden, zijn van toepassing ten aanzien van dit Verdrag.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Dit Verdrag zal door de Hoge Verdragsluitende Partijen worden bekrachtigd overeenkomstig hun onderscheiden grondwettelijke bepalingen. De akten van bekrachtiging zullen uiterlijk op 31 december 2006 worden neergelegd bij de Regering van de Italiaanse Republiek.
 
@@ -124,13 +149,13 @@ Indien een dergelijk besluit wordt genomen met betrekking tot slechts één toet
 
 Deze maatregelen treden slechts in werking onder voorbehoud en op de datum van inwerkingtreding van het onderhavige Verdrag.
 
-#### Artikel 5
+##### Artikel 5
 
 De in de Bulgaarse en de Roemeense taal opgestelde tekst van het [Verdrag tot vaststelling van een Grondwet voor Europa](https://wetten.overheid.nl/jci1.3:c:BWBV0005879) wordt aan dit Verdrag gehecht. Deze teksten zijn op gelijke wijze authentiek als de teksten van het Verdrag tot vaststelling van een Grondwet voor Europa die zijn opgesteld in de Deense, de Duitse, de Engelse, de Estse, de Finse, de Franse, de Griekse, de Hongaarse, de Ierse, de Italiaanse, de Letse, de Litouwse, de Maltese, de Nederlandse, de Poolse, de Portugese, de Sloveense, de Slowaakse, de Spaanse, de Tsjechische en de Zweedse taal.
 
 De Regering van de Italiaanse Republiek zendt aan de Regeringen van de Republiek Bulgarije en Roemenië een voor eensluidend gewaarmerkt afschrift van het [Verdrag tot vaststelling van een Grondwet voor Europa](https://wetten.overheid.nl/jci1.3:c:BWBV0005879) in alle in de eerste alinea genoemde talen.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit Verdrag, opgesteld in één enkel exemplaar, in de Bulgaarse, de Deense, de Duitse, de Engelse, de Estse, de Finse, de Franse, de Griekse, de Hongaarse, de Ierse, de Italiaanse, de Letse, de Litouwse, de Maltese, de Nederlandse, de Poolse, de Portugese, de Roemeense, de Sloveense, de Slowaakse, de Spaanse, de Tsjechische en de Zweedse taal, zijnde de teksten in elk van deze talen gelijkelijk authentiek, zal worden neergelegd in het archief van de Regering van de Italiaanse Republiek, die een voor eensluidend gewaarmerkt afschrift daarvan toezendt aan de Regeringen der andere ondertekenende Staten.
 
@@ -138,7 +163,7 @@ Overeenkomstig artikel 2 van het Toetredingsverdrag is deze Akte van toepassing 
 
 ## DEEL EERSTE. BEGINSELEN
 
-#### Artikel 1
+##### Artikel 1
 
 In de zin van deze Akte:
 
@@ -158,11 +183,11 @@ In de zin van deze Akte:
 
 - -. worden met de uitdrukking „Instellingen" bedoeld de bij de oorspronkelijke Verdragen opgerichte Instellingen.
 
-#### Artikel 2
+##### Artikel 2
 
 Onmiddellijk na de toetreding zijn de oorspronkelijke Verdragen en de door de Instellingen en de Europese Centrale Bank vóór de toetreding genomen besluiten verbindend voor Bulgarije en Roemenië en in deze staten toepasselijk onder de voorwaarden waarin door die Verdragen en deze Akte wordt voorzien.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Bulgarije en Roemenië treden toe tot de door de Vertegenwoordigers van de Regeringen der lidstaten, in het kader van de Raad bijeen, genomen besluiten en gesloten overeenkomsten.
 
@@ -176,7 +201,7 @@ Onmiddellijk na de toetreding zijn de oorspronkelijke Verdragen en de door de In
 
 6. De Raad kan op voorstel van de Commissie met eenparigheid van stemmen bijlage I aanvullen met de verdragen, overeenkomsten en protocollen die vóór de datum van toetreding zijn ondertekend.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De bepalingen van het Schengenacquis zoals dat in het kader van de Europese Unie is opgenomen door middel van het [Protocol dat is gehecht aan het Verdrag betreffende de Europese Unie en het Verdrag tot oprichting van de Europese Gemeenschap](onbekend) (hierna het „Schengenprotocol" genoemd), en de daarop voortbouwende of op een andere wijze daaraan gerelateerde rechtsbesluiten die zijn opgesomd in bijlage II, evenals alle andere dergelijke rechtsbesluiten die eventueel worden aangenomen vóór de toetredingsdatum, zijn vanaf de datum van toetreding verbindend voor en toepasselijk in Bulgarije en Roemenië.
 
@@ -184,11 +209,11 @@ Onmiddellijk na de toetreding zijn de oorspronkelijke Verdragen en de door de In
 
 De Raad besluit na raadpleging van het Europees Parlement met eenparigheid van stemmen van de leden die de regeringen vertegenwoordigen van de lidstaten ten aanzien waarvan de bepalingen van dit lid reeds van kracht zijn en van de vertegenwoordiger van de regering van de lidstaat ten aanzien waarvan die bepalingen van kracht moeten worden. De leden van de Raad die de regeringen van Ierland en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland vertegenwoordigen, nemen aan dit besluit deel voorzover het verband houdt met de bepalingen van het Schengenacquis en de daarop voortbouwende of op een andere wijze daaraan gerelateerde rechtsbesluiten waaraan deze lidstaten deelnemen.
 
-#### Artikel 5
+##### Artikel 5
 
 Vanaf de datum van toetreding nemen Bulgarije en Roemenië aan de Economische en Monetaire Unie deel als lidstaat met een derogatie in de zin van [artikel 122 van het EG-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=122).
 
-#### Artikel 6
+##### Artikel 6
 
 1. De door de Gemeenschap of uit hoofde van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=24) of [artikel 38 van het EU-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=38) met een of meer derde staten, met een internationale organisatie of met een onderdaan van een derde staat gesloten of voorlopig toegepaste overeenkomsten of akkoorden, zijn verbindend voor Bulgarije en Roemenië, en wel onder de in de oorspronkelijke Verdragen en in deze Akte neergelegde voorwaarden.
 
@@ -236,7 +261,7 @@ Voorzover de overeenkomsten tussen Bulgarije, Roemenië of beide staten enerzijd
 
 Met name zeggen zij, op de datum van toetreding of zo spoedig mogelijk daarna, de internationale visserijovereenkomsten en hun lidmaatschap van de internationale visserijorganisaties op waarbij ook de Gemeenschap partij is, tenzij hun lidmaatschap geen verband houdt met visserijzaken.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De bepalingen van deze Akte kunnen, tenzij anders is bepaald, uitsluitend worden geschorst, gewijzigd of ingetrokken door middel van de procedures voorzien in de oorspronkelijke Verdragen die het mogelijk maken tot een herziening van die Verdragen te komen.
 
@@ -244,7 +269,7 @@ Met name zeggen zij, op de datum van toetreding of zo spoedig mogelijk daarna, d
 
 3. De bepalingen van deze Akte waarvan het doel of het gevolg is dat besluiten van de Instellingen anders dan bij wijze van overgangsmaatregel worden ingetrokken of gewijzigd, verkrijgen hetzelfde rechtskarakter als de daardoor ingetrokken of gewijzigde bepalingen en zijn onderworpen aan dezelfde regels als laatstgenoemde bepalingen.
 
-#### Artikel 8
+##### Artikel 8
 
 Ten aanzien van de toepassing van de oorspronkelijke Verdragen en van de door de Instellingen genomen besluiten gelden, bij wijze van overgang, de in deze Akte neergelegde afwijkende bepalingen.
 
@@ -252,11 +277,11 @@ Ten aanzien van de toepassing van de oorspronkelijke Verdragen en van de door de
 
 ## TITEL I. INSTITUTIONELE BEPALINGEN
 
-#### Artikel 9
+##### Artikel 9
 
 Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap; Rome, 25-03-1957. Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie; Rome, 25-03-1957.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap; Rome, 25-03-1957. Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie; Rome, 25-03-1957.
 
@@ -264,39 +289,39 @@ Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap; Rome, 25-03-1957
 
 3. Wijzigt het Verdrag betreffende de Europese Unie; Maastricht, 07-02-1992.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Wijzigt het Protocol, gehecht aan het Verdrag betreffende de Europese Unie, Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap; Rome, 25-03-1957. Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie; Rome, 25-03-1957, Wijzigt het Verdrag betreffende het statuut van het Hof van Justitie; Nice, 26-02-2001.
 
 2. Wijzigt het Protocol, gehecht aan het Verdrag betreffende de Europese Unie, Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap; Rome, 25-03-1957, Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie; Rome, 25-03-1957, Wijzigt het Verdrag betreffende het statuut van het Hof van Justitie; Nice, 26-02-2001.
 
-#### Artikel 12
+##### Artikel 12
 
 Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap; Rome, 25-03-1957. Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie; Rome, 25-03-1957.
 
-#### Artikel 13
+##### Artikel 13
 
 Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap; Rome, 25-03-1957.
 
-#### Artikel 14
+##### Artikel 14
 
 Wijzigt het Protocol betreffende de Statuten van het Europees Stelsel van Centrale Banken en de Europese Centrale Bank; Maastricht, 07-02-1992.
 
-#### Artikel 15
+##### Artikel 15
 
 Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie; Rome, 25-03-1957.
 
 ## TITEL II. ANDERE AANPASSINGEN
 
-#### Artikel 16
+##### Artikel 16
 
 Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap; Rome, 25-03-1957.
 
-#### Artikel 17
+##### Artikel 17
 
 Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap; Rome, 25-03-1957.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap; Rome, 25-03-1957.
 
@@ -308,21 +333,21 @@ Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap; Rome, 25-03-1957
 
 ## TITEL I. AANPASSINGEN VAN BESLUITEN VAN DE INSTELLINGEN
 
-#### Artikel 19
+##### Artikel 19
 
 Ten aanzien van de besluiten genoemd in bijlage III van deze Akte vinden de aanpassingen plaats die in die bijlage worden omschreven.
 
-#### Artikel 20
+##### Artikel 20
 
 De ingevolge de toetreding noodzakelijke aanpassingen van de besluiten vermeld in de lijst in bijlage IV van deze Akte, worden verricht overeenkomstig de in die bijlage vervatte richtsnoeren.
 
 ## TITEL II. OVERIGE BEPALINGEN
 
-#### Artikel 21
+##### Artikel 21
 
 De in bijlage V van deze Akte opgesomde maatregelen worden toegepast op de in die bijlage bepaalde voorwaarden.
 
-#### Artikel 22
+##### Artikel 22
 
 De Raad kan, met eenparigheid van stemmen, op voorstel van de Commissie en na raadpleging van het Europees Parlement besluiten tot de aanpassingen van de bepalingen van deze Akte betreffende het gemeenschappelijk landbouwbeleid welke nodig kunnen blijken ten gevolge van een wijziging van de communautaire voorschriften.
 
@@ -330,13 +355,13 @@ De Raad kan, met eenparigheid van stemmen, op voorstel van de Commissie en na ra
 
 ## TITEL I. OVERGANGSMAATREGELEN
 
-#### Artikel 23
+##### Artikel 23
 
 De in de bijlagen VI en VII bij deze Akte vermelde besluiten zijn ten aanzien van Bulgarije en Roemenië van toepassing onder de in die bijlagen neergelegde voorwaarden.
 
 ## TITEL II. INSTITUTIONELE BEPALINGEN
 
-#### Artikel 24
+##### Artikel 24
 
 1. In afwijking van het maximumaantal leden van het Europees Parlement als vastgesteld in [artikel 189, tweede alinea, van het EG-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=189) en in [artikel 107, tweede alinea, van het EGA-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004033&artikel=107), wordt met het oog op de toetreding van Bulgarije en Roemenië het aantal leden van het Europees Parlement verhoogd met het onderstaande aantal vertegenwoordigers van deze landen vanaf de datum van toetreding tot het begin van de zittingsperiode 2009–2014 van het Europees Parlement:
 
@@ -350,7 +375,7 @@ De in de bijlagen VI en VII bij deze Akte vermelde besluiten zijn ten aanzien va
 
 ## TITEL III. FINANCIËLE BEPALINGEN
 
-#### Artikel 25
+##### Artikel 25
 
 1. Vanaf de datum van toetreding storten Bulgarije en Roemenië de volgende bedragen overeenkomende met hun aandeel in het kapitaal gestort voor het geplaatste kapitaal als gedefinieerd in [artikel 4 van de statuten van de Europese Investeringsbank](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=4)2)De vermelde getallen zijn indicatief en gebaseerd op de voor 2003 door Eurostat gepubliceerde gegevens..
 
@@ -368,7 +393,7 @@ Deze bijdragen worden gestort in acht gelijke termijnen die vervallen op 31 mei 
 
 3. De in lid 1 en 2 bedoelde stortingen worden door Bulgarije en Roemenië verricht in contanten in euro's, behoudens een door de Raad van gouverneurs met eenparigheid van stemmen besloten afwijking.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Bulgarije en Roemenië betalen de volgende bijdragen aan het Fonds voor onderzoek inzake kolen en staal bedoeld in Besluit 2002/234/EGKS van de vertegenwoordigers van de regeringen der lidstaten, in het kader van de Raad bijeen, van 27 februari 2002 betreffende de financiële gevolgen van de beëindiging van het EGKS-Verdrag en betreffende het Fonds voor onderzoek inzake kolen en staal2)PB L 79 van 22.3.2002, blz. 42.:
 
@@ -387,7 +412,7 @@ Deze bijdragen worden gestort in acht gelijke termijnen die vervallen op 31 mei 
 
 2012: 35%.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Vanaf de datum van toetreding worden de aanbesteding, de contractsafsluiting, de uitvoering en de betaling inzake pretoetredingsbijstand in het kader van het Phare-programma 1)[Verordening (EEG) nr. 3906/89](31989R3906) van de Raad van 18.12.1989 betreffende economische hulp ten gunste van bepaalde landen van Midden- en Oost-Europa (PB L 375 van 23.12.1989, blz. 11). Verordening laatstelijk gewijzigd bij [Verordening (EG) nr. 769/2004](32004R0769) (PB L 123 van 27.4.2004, blz. 1).
 
@@ -409,7 +434,7 @@ Onverminderd hetgeen voorafgaat, kunnen pretoetredingsmiddelen gedurende de eers
 
 4. Om te zorgen voor de noodzakelijke geleidelijke beëindiging van de in lid 1 bedoelde financiële instrumenten voor de pretoetredingsbijstand en van het ISPA-programma1)[Verordening (EG) nr. 1267/1999](31999R1267) van de Raad van 21.6.1999 tot instelling van een pretoetredingsinstrument voor structuurbeleid (PB L 161 van 26.6.1999, blz. 73). Verordening laatstelijk gewijzigd bij [Verordening (EG) nr. 769/2004](32004R0769) (PB L 123 van 27.4.2004, blz. 1)., kan de Commissie alle passende maatregelen treffen om in Bulgarije en Roemenië het nodige statutaire personeel te handhaven gedurende een periode van maximaal negentien maanden na de toetreding. Tijdens die periode genieten de ambtenaren, het tijdelijk personeel en de arbeidscontractanten die voor de toetreding in Bulgarije en Roemenië gedetacheerd waren en die in die lidstaten in dienst moeten blijven na de toetreding, bij wijze van uitzondering dezelfde financiële en materiële voorwaarden als die welke door de Commissie vóór de toetreding werden toegepast overeenkomstig het Statuut van de ambtenaren van de Europese Gemeenschappen en de Regeling welke van toepassing is op de andere personeelsleden van de Gemeenschappen zoals die zijn vastgesteld bij Verordening (EEG, Euratom, EGKS) nr. 259/68PB L 56 van 4.3.1968, blz. 1. Verordening laatstelijk gewijzigd bij Verordening (EG, Euratom) nr. 723/2004 (PB L 124 van 27.4.2004, blz. 1).. De administratieve uitgaven, met inbegrip van de salarissen van andere personeelsleden, worden gefinancierd uit de begrotingspost „Stapsgewijze vermindering van de pretoetredingssteun voor nieuwe lidstaten" of overeenkomstige begrotingsposten in het kader van het passende beleidsonderdeel van de algemene begroting van de Europese Gemeenschappen dat betrekking heeft op de uitbreiding., kan de Commissie alle passende maatregelen treffen om in Bulgarije en Roemenië het nodige statutaire personeel te handhaven gedurende een periode van maximaal negentien maanden na de toetreding. Tijdens die periode genieten de ambtenaren, het tijdelijk personeel en de arbeidscontractanten die voor de toetreding in Bulgarije en Roemenië gedetacheerd waren en die in die lidstaten in dienst moeten blijven na de toetreding, bij wijze van uitzondering dezelfde financiële en materiële voorwaarden als die welke door de Commissie vóór de toetreding werden toegepast overeenkomstig het Statuut van de ambtenaren van de Europese Gemeenschappen en de Regeling welke van toepassing is op de andere personeelsleden van de Gemeenschappen zoals die zijn vastgesteld bij Verordening (EEG, Euratom, EGKS) nr. 259/681)PB L 56 van 4.3.1968, blz. 1. Verordening laatstelijk gewijzigd bij Verordening (EG-Euratom) nr. 723/2004 (PB L 124 van 27.4.2004, blz. 1).. De administratieve uitgaven, met inbegrip van de salarissen van andere personeelsleden, worden gefinancierd uit de begrotingspost „Stapsgewijze vermindering van de pretoetredingssteun voor nieuwe lidstaten" of overeenkomstige begrotingsposten in het kader van het passende beleidsonderdeel van de algemene begroting van de Europese Gemeenschappen dat betrekking heeft op de uitbreiding.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Maatregelen waarop op de datum van toetreding een besluit inzake bijstand uit hoofde van [Verordening (EG) nr. 1267/1999](31999R1267) tot instelling van een pretoetredingsinstrument voor structuurbeleid van toepassing is, en die op die datum nog niet volledig zijn uitgevoerd, worden geacht door de Commissie te zijn goedgekeurd uit hoofde van [Verordening (EG) nr. 1164/94](31994R1164) van de Raad van 16 mei 1994 tot oprichting van een Cohesiefonds2)PB L 130 van 25.5.1994. Verordening laatstelijk gewijzigd bij de Toetredingsakte van 2003 (PB L 236 van 23.9.2003, blz. 33).. De bedragen die nog moeten worden vastgesteld met het oog op de uitvoering van bedoelde maatregelen, worden uit hoofde van de op de datum van toetreding geldende verordening inzake het Cohesiefonds vastgesteld en toegewezen aan het met deze verordening overeenstemmende hoofdstuk van de algemene begroting van de Europese Gemeenschappen. Tenzij in de leden 2 tot en met 5 wordt voorzien in een andere regeling, zijn de bepalingen betreffende de uitvoering van maatregelen die zijn goedgekeurd uit hoofde van de laatstgenoemde verordening van toepassing op die maatregelen.. De bedragen die nog moeten worden vastgesteld met het oog op de uitvoering van bedoelde maatregelen, worden uit hoofde van de op de datum van toetreding geldende verordening inzake het Cohesiefonds vastgesteld en toegewezen aan het met deze verordening overeenstemmende hoofdstuk van de algemene begroting van de Europese Gemeenschappen. Tenzij in de leden 2 tot en met 5 wordt voorzien in een andere regeling, zijn de bepalingen betreffende de uitvoering van maatregelen die zijn goedgekeurd uit hoofde van de laatstgenoemde verordening van toepassing op die maatregelen.
 
@@ -421,11 +446,11 @@ Onverminderd hetgeen voorafgaat, kunnen pretoetredingsmiddelen gedurende de eers
 
 5. De Commissie kan, in uitzonderlijke en naar behoren gemotiveerde gevallen, voor de in lid 1 bedoelde maatregelen specifieke afwijkingen toestaan van de voorschriften die uit hoofde van de op de datum van toetreding geldende verordening inzake het Cohesiefonds worden toegepast.
 
-#### Artikel 29
+##### Artikel 29
 
 Wanneer de termijn voor meerjarenvastleggingen in het kader van het SAPARD-programma1)[Verordening (EG) nr. 1268/1999](31999R1268) van de Raad van 21 juni 1999 inzake steunverlening door de Gemeenschap voor pretoetredingsmaatregelen op het gebied van landbouw en plattelandsontwikkeling in de kandidaat-lidstaten in Midden- en Oost-Europa gedurende de pretoetredingsperiode (PB L 161 van 26.6.1999, blz. 87). Verordening laatstelijk gewijzigd bij [Verordening (EG) nr. 2008/2004](32004R2008) (PB L 349 van 25.11.2004, blz. 12). met betrekking tot de bebossing van landbouwland, steun voor de oprichting van producentengroeperingen of milieuregelingen voor de landbouw, de toegestane uiterste datum voor betalingen in het kader van SAPARD overschrijdt, zullen de uitstaande vastleggingen worden gedekt binnen het programma voor plattelandsontwikkeling voor het tijdvak 2007–2013. Indien in dit verband specifieke overgangsmaatregelen nodig zijn, worden deze vastgesteld volgens de in artikel 90, lid 2, van Verordening (EG) nr. 1698/2005 van de Raad van 20 september 2005 inzake steun voor plattelandsontwikkeling uit het Europees Landbouwfonds voor Plattelandsontwikkeling (ELFPO) bedoelde procedure.
 
-#### Artikel 30
+##### Artikel 30
 
 1. Bulgarije, dat, zoals toegezegd, eenheid 1 en eenheid 2 van de kerncentrale van Kozloduy voor 2003 definitief gesloten heeft, om die vervolgens te ontmantelen, zegt toe eenheid 3 en eenheid 4 van deze centrale in 2006 definitief te zullen sluiten en vervolgens te zullen ontmantelen.
 
@@ -439,7 +464,7 @@ De steun (of delen daarvan) kan beschikbaar worden gesteld als een bijdrage van 
 
 3. De Commissie kan voorschriften voor de uitvoering van de in lid 2 bedoelde steunverlening vaststellen overeenkomstig Besluit 1999/468/EG van de Raad van 28 juni 1999 tot vaststelling van de voorwaarden voor de uitoefening van de aan de Commissie verleende uitvoeringsbevoegdheden 1)PB L 184 van 17.7.1999, blz. 23.. Daartoe wordt de Commissie bijgestaan door een comité. De artikelen 4 en 7 van Besluit 1999/468/EC zijn van toepassing. De in artikel 4, lid 3, van Besluit 1999/468/EG bedoelde termijn bedraagt zes weken. Het comité stelt zijn reglement van orde vast. Daartoe wordt de Commissie bijgestaan door een comité. De artikelen 4 en 7 van Besluit 1999/468/EC zijn van toepassing. De in artikel 4, lid 3, van Besluit 1999/468/EG bedoelde termijn bedraagt zes weken. Het comité stelt zijn reglement van orde vast.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Voor het eerste jaar na de toetreding verstrekt de Unie tijdelijke financiële bijstand, hierna de „overgangsfaciliteit" genoemd, aan Bulgarije en Roemenië voor de ontwikkeling en versterking van hun administratieve en justitiële capaciteit om de communautaire wetgeving uit te voeren en te handhaven, en de uitwisseling van beste praktijken tussen overeenkomstige instanties in verschillende landen te bevorderen. Uit deze bijstand zullen projecten voor institutionele ontwikkeling en daarmee samenhangende beperkte, kleinschalige investeringen worden gefinancierd.
 
@@ -451,7 +476,7 @@ De vastleggingskredieten voor de overgangsfaciliteit voor Bulgarije en Roemenië
 
 4. Over de bijstand uit hoofde van de overgangsfaciliteit wordt besloten en de uitvoering ervan wordt bepaald overeenkomstig [Verordening (EEG) nr. 3906/89](31989R3906) van de Raad betreffende economische hulp ten gunste van bepaalde landen van Midden- en Oost-Europa.
 
-#### Artikel 32
+##### Artikel 32
 
 1. Hierbij worden een cashflow- en Schengenfaciliteit als tijdelijk instrument ingesteld om Bulgarije en Roemenië vanaf de datum van toetreding tot eind 2009 te helpen bij het financieren van acties aan de nieuwe buitengrenzen van de Unie met het oog op de uitvoering van het Schengenacquis en de controle aan de buitengrenzen, alsook bij het verbeteren van de cashflow in de nationale begroting.
 
@@ -470,7 +495,7 @@ De vastleggingskredieten voor de overgangsfaciliteit voor Bulgarije en Roemenië
 
 5. De Commissie kan de voor de werking van de tijdelijke cashflow- en Schengenfaciliteit noodzakelijke technische bepalingen aannemen.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Zonder vooruit te lopen op toekomstige beleidsbeslissingen zijn de totale vastleggingskredieten voor structurele maatregelen voor Bulgarije en Roemenië voor een periode van drie jaar (2007–2009) als volgt:
 
@@ -483,7 +508,7 @@ De vastleggingskredieten voor de overgangsfaciliteit voor Bulgarije en Roemenië
 
 2. Gedurende deze drie jaar (2007–2009) worden de reikwijdte en de aard van de interventies binnen deze vaste middelentoewijzingen per land vastgesteld op basis van de dan toepasselijke bepalingen voor uitgaven voor structurele maatregelen.
 
-#### Artikel 34
+##### Artikel 34
 
 1. Naast de op de datum van toetreding van kracht zijnde verordeningen betreffende plattelandsontwikkeling zijn de bepalingen van de afdelingen I, II en III van bijlage VIII van toepassing op Bulgarije en Roemenië tijdens de periode 2007-2009, met uitzondering van punt D van afdeling I van die bijlage, dat eveneens van toepassing is tijdens de periode 2010-2013 in het geval van de verstrekking van adviesdiensten aan landbouwers die de aan semizelfvoorzieningsbedrijven toegekende steun ontvangen. De specifieke financiële bepalingen van afdeling IV van bijlage VIII zijn op Bulgarije en Roemenië van toepassing gedurende de volledige programmeringsperiode 2007-2013.
 
@@ -493,13 +518,13 @@ De vastleggingskredieten voor de overgangsfaciliteit voor Bulgarije en Roemenië
 
 4. Indien nodig, past de Raad met gekwalificeerde meerderheid van de stemmen, op voorstel van de Commissie en na raadpleging van het Europees Parlement, bijlage VIII aan, teneinde voor samenhang met de verordeningen betreffende plattelandsontwikkeling te zorgen.
 
-#### Artikel 35
+##### Artikel 35
 
 De in de artikelen 30, 31, 32, 33 en 34 bedoelde bedragen worden jaarlijks overeenkomstig de prijsbewegingen aangepast door de Commissie als onderdeel van de jaarlijkse technische aanpassingen van de financiële vooruitzichten.
 
 ## TITEL IV. OVERIGE BEPALINGEN
 
-#### Artikel 36
+##### Artikel 36
 
 1. Indien zich voor het einde van een periode van ten hoogste drie jaar na de toetreding ernstige en mogelijk aanhoudende moeilijkheden voordoen in een sector van het economische leven, dan wel moeilijkheden die de economische toestand van een bepaalde streek ernstig kunnen verstoren, kan Bulgarije of Roemenië machtiging vragen om beschermingsmaatregelen te nemen, zodat de toestand weer in evenwicht kan worden gebracht en de betrokken sector kan worden aangepast aan de economie van de interne markt.
 
@@ -511,19 +536,19 @@ In geval van ernstige economische moeilijkheden spreekt de Commissie zich op uit
 
 3. De overeenkomstig lid 2 toegestane maatregelen kunnen afwijkingen van de regels van het [EG-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) en van deze Akte inhouden, voorzover en voor zolang zij strikt noodzakelijk zijn om de in lid 1 bedoelde doelstellingen te verwezenlijken. Bij voorrang moeten die maatregelen worden gekozen die de werking van de interne markt het minst verstoren.
 
-#### Artikel 37
+##### Artikel 37
 
 Bij niet-naleving door Bulgarije of Roemenië van in het kader van de toetredingsonderhandelingen aangegane verbintenissen, waardoor de werking van de interne markt ernstig wordt verstoord, met inbegrip van verbintenissen inzake sectoraal beleid betreffende economische activiteiten met grensoverschrijdende gevolgen, of bij onmiddellijke dreiging van een dergelijke verstoring, kan de Commissie tot aan het einde van een periode van ten hoogste drie jaar na de toetreding op een met redenen omkleed verzoek van een lidstaat, dan wel op eigen initiatief, passende maatregelen treffen.
 
 Deze maatregelen moeten evenredig zijn, en er moet voorrang worden gegeven aan maatregelen die de werking van de interne markt het minst verstoren en, in voorkomend geval, aan de toepassing van de bestaande sectorale vrijwaringsmechanismen. Deze vrijwaringsmaatregelen mogen echter niet worden gebruikt als middel tot willekeurige discriminatie, noch als verkapte beperking van de handel tussen de lidstaten. Op een vrijwaringsclausule kan zelfs vóór de toetreding een beroep gedaan worden op basis van de bevindingen van het toezicht, en de aangenomen maatregelen worden vanaf de eerste dag van toetreding van kracht, tenzij hierin een latere datum is bepaald. De maatregelen worden niet langer gehandhaafd dan strikt noodzakelijk is, en zij worden in elk geval ingetrokken wanneer de betrokken verplichting is nagekomen. Zij kunnen evenwel tot na de in de eerste alinea bedoelde periode worden toegepast indien de betrokken verplichtingen niet zijn nagekomen. In antwoord op de vooruitgang die door de betrokken nieuwe lidstaat bij het nakomen van zijn verplichtingen is geboekt, kan de Commissie in voorkomend geval de maatregelen aanpassen. De Commissie stelt de Raad tijdig in kennis alvorens zij vrijwaringsmaatregelen intrekt, en zij houdt terdege rekening met de desbetreffende opmerkingen van de Raad.
 
-#### Artikel 38
+##### Artikel 38
 
 Indien er zich in Bulgarije of Roemenië ernstige tekortkomingen of directe risico's op dergelijke tekortkomingen voordoen bij de omzetting, de stand van de uitvoering of de toepassing van de kaderbesluiten of andere ter zake doende verbintenissen, samenwerkingsinstrumenten en besluiten betreffende wederzijdse erkenning in strafzaken uit hoofde van [titel VI van het EU-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&titeldeel=VI) en richtlijnen en verordeningen inzake wederzijdse erkenning in burgerlijke zaken uit hoofde van [titel IV van het EG-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&titeldeel=IV), kan de Commissie tot aan het einde van een periode van ten hoogste drie jaar na de toetreding op een met redenen omkleed verzoek van een lidstaat, dan wel op eigen initiatief, en na overleg met de lidstaten, passende maatregelen treffen, waarbij zij de voorwaarden en praktische regels voor de toepassing ervan aangeeft.
 
 Deze maatregelen kunnen de vorm aannemen van een tijdelijke schorsing van de toepassing van de betrokken bepalingen en besluiten in de betrekkingen tussen Bulgarije en Roemenië en een andere lidstaat of andere lidstaten, zonder afbreuk te doen aan de verdere nauwe justitiële samenwerking. Op een vrijwaringsclausule kan zelfs vóór de toetreding een beroep gedaan worden op basis van de bevindingen van het toezicht, en de aangenomen maatregelen worden vanaf de eerste dag van toetreding van kracht, tenzij hierin een latere datum is bepaald. De maatregelen worden niet langer gehandhaafd dan strikt noodzakelijk is, en zij worden in elk geval ingetrokken wanneer de betrokken tekortkomingen zijn verholpen. Zij kunnen evenwel tot na de in de eerste alinea bedoelde periode worden toegepast zo lang de betrokken tekortkomingen blijven bestaan. In antwoord op de vooruitgang die door de betrokken nieuwe lidstaat bij het verhelpen van de aangegeven tekortkomingen is geboekt, kan de Commissie in voorkomend geval de maatregelen aanpassen na overleg met de lidstaten. De Commissie stelt de Raad tijdig in kennis alvorens zij vrijwaringsmaatregelen intrekt, en zij houdt terdege rekening met de desbetreffende opmerkingen van de Raad.
 
-#### Artikel 39
+##### Artikel 39
 
 1. Indien uit de voortdurende monitoring door de Commissie van de door Bulgarije en Roemenië in het kader van de toetredingsonderhandelingen aangegane verbintenissen en met name de monitoringverslagen van de Commissie, duidelijk blijkt dat de stand van voorbereiding voor de aanneming en uitvoering van het acquis in Bulgarije en Roemenië zodanig is dat er een ernstig gevaar bestaat dat één van beide staten op een aantal belangrijke gebieden klaarblijkelijk niet gereed is om voor de datum van toetreding van 1 januari 2007 te voldoen aan de voorwaarden voor lidmaatschap, kan de Raad, met eenparigheid van stemmen op basis van een aanbeveling van de Commissie, besluiten dat de datum van toetreding van dat land met één jaar wordt uitgesteld tot 1 januari 2008.
 
@@ -533,17 +558,17 @@ Deze maatregelen kunnen de vorm aannemen van een tijdelijke schorsing van de toe
 
 4. In geval van een besluit overeenkomstig de leden 1, 2 of 3, neemt de Raad met gekwalificeerde meerderheid van stemmen onmiddellijk een besluit over de aanpassingen die noodzakelijk zijn geworden door het besluit tot uitstel bij deze Akte, met inbegrip van daaraan gehechte bijlagen en aanhangsels.
 
-#### Artikel 40
+##### Artikel 40
 
 Teneinde de goede werking van de interne markt niet te verstoren mag de tenuitvoerlegging van de nationale voorschriften van Bulgarije en Roemenië gedurende de in de bijlagen VI en VII bedoelde overgangsperioden niet leiden tot grenscontroles tussen de lidstaten.
 
-#### Artikel 41
+##### Artikel 41
 
 Indien overgangsmaatregelen nodig zijn ter vergemakkelijking van de overgang van de in Bulgarije en Roemenië bestaande regeling naar die welke voortvloeit uit de toepassing van het gemeenschappelijk landbouwbeleid overeenkomstig het bepaalde in deze Akte, worden deze maatregelen door de Commissie vastgesteld volgens de procedure van artikel 25, lid 2, van [Verordening (EG) nr. 1784/2003](32003R1784) van de Raad van 29 september 2003 houdende een gemeenschappelijke ordening der markten in de sector granen 2)PB L 270 van 21.10.2003, blz. 78.of, naar gelang van het geval, van de desbetreffende artikelen van de andere verordeningen houdende een gemeenschappelijke ordening der landbouwmarkten of volgens de desbetreffende procedure van de toepasselijke wetgeving. De in dit artikel bedoelde overgangsmaatregelen kunnen worden aangenomen gedurende een tijdvak dat drie jaar na de datum van toetreding verstrijkt; de toepassing ervan is beperkt tot dat tijdvak. De Raad kan dit tijdvak met eenparigheid van stemmen op voorstel van de Commissie en na raadpleging van het Europees Parlement verlengen.
 
 De overgangsmaatregelen die betrekking hebben op de toepassing van ingevolge de toetreding vereiste maar niet in deze Akte gespecificeerde instrumenten betreffende het gemeenschappelijk landbouwbeleid, worden vóór de datum van toetreding door de Raad op voorstel van de Commissie met een gekwalificeerde meerderheid aangenomen of, indien die maatregelen gevolgen hebben voor oorspronkelijk door de Commissie aangenomen instrumenten, door de Commissie volgens de procedure die is vereist voor de aanneming van de betrokken instrumenten.
 
-#### Artikel 42
+##### Artikel 42
 
 Indien er overgangsmaatregelen nodig zijn om de overgang te vergemakkelijken van de in Bulgarije en Roemenië bestaande regeling naar de regeling die voortvloeit uit de toepassing van de communautaire veterinaire en fytosanitaire wetgeving en wetgeving inzake voedselveiligheid, dienen deze maatregelen door de Commissie volgens de in de toepasselijke wetgeving vastgestelde procedure te worden aangenomen. Deze maatregelen worden genomen gedurende een tijdvak dat drie jaar na de datum van toetreding verstrijkt; de toepassing ervan is beperkt tot dat tijdvak.
 
@@ -551,21 +576,21 @@ Indien er overgangsmaatregelen nodig zijn om de overgang te vergemakkelijken van
 
 ## TITEL I. HET IN WERKINGE STELLEN VAN DE INSTELLINGEN EN ORGANEN
 
-#### Artikel 43
+##### Artikel 43
 
 Het Europees Parlement brengt in zijn Reglement de aanpassingen aan die door de toetreding noodzakelijk zijn geworden.
 
-#### Artikel 44
+##### Artikel 44
 
 De Raad brengt in zijn Reglement van Orde de aanpassingen aan die door de toetreding noodzakelijk zijn geworden.
 
-#### Artikel 45
+##### Artikel 45
 
 Van elke nieuwe lidstaat wordt op de dag van toetreding een onderdaan benoemd tot lid van de Commissie. De nieuwe leden van de Commissie worden met gekwalificeerde meerderheid van stemmen en in overeenstemming met de voorzitter van de Commissie door de Raad benoemd, na raadpleging van het Europees Parlement.
 
 De ambtstermijn van de aldus benoemde leden eindigt tegelijk met die van de leden die op het tijdstip van toetreding in functie zijn.
 
-#### Artikel 46
+##### Artikel 46
 
 1. Bij het Hof van Justitie en bij het Gerecht van eerste aanleg worden elk twee rechters benoemd.
 
@@ -581,23 +606,23 @@ Het aldus aangepaste reglement voor de procesvoering moet door de Raad met gekwa
 
 4. Voor het wijzen van het vonnis in zaken die op de datum van toetreding bij het Hof of het Gerecht aanhangig zijn en waarvoor de mondelinge procedure vóór deze datum is ingeleid, komen het Hof en het Gerecht in voltallige zitting of de Kamers bijeen in de samenstelling van voor de toetreding, en passen zij het reglement voor de procesvoering toe zoals dit op de dag voor de toetredingsdatum gold.
 
-#### Artikel 47
+##### Artikel 47
 
 De Rekenkamer wordt aangevuld door de benoeming van twee extra leden met een ambtstermijn van zes jaar.
 
-#### Artikel 48
+##### Artikel 48
 
 Het Economisch en Sociaal Comité wordt aangevuld door de benoeming van 27 leden die de verschillende economische en sociale componenten van de georganiseerde civiele samenleving in Bulgarije en Roemenië vertegenwoordigen. De ambtstermijn van de aldus benoemde leden eindigt tegelijk met die van de leden die op het tijdstip van toetreding in functie zijn.
 
-#### Artikel 49
+##### Artikel 49
 
 Het Comité van de Regio's wordt aangevuld door de benoeming van 27 leden die een regionaal of lokaal lichaam uit Bulgarije en Roemenië vertegenwoordigen, en die ofwel in een regionaal of lokaal lichaam gekozen zijn, ofwel politiek verantwoording schuldig zijn aan een gekozen vergadering. De ambtstermijn van de aldus benoemde leden eindigt tegelijk met die van de leden die op het tijdstip van toetreding in functie zijn.
 
-#### Artikel 50
+##### Artikel 50
 
 De door de toetreding noodzakelijk geworden aanpassingen van de statuten en van de reglementen van orde van de bij de oorspronkelijke Verdragen ingestelde comités geschieden zo spoedig mogelijk na de toetreding.
 
-#### Artikel 51
+##### Artikel 51
 
 1. Nieuwe leden van de bij de Verdragen of door een besluit van de Instellingen opgerichte comités, groepen of andere organen, worden benoemd onder de voorwaarden en overeenkomstig de procedures voor de benoeming van leden van deze comités, groepen of andere organen. De ambtstermijn van de nieuw benoemde leden eindigt tegelijk met die van de leden die op het tijdstip van toetreding in functie zijn.
 
@@ -605,53 +630,53 @@ De door de toetreding noodzakelijk geworden aanpassingen van de statuten en van 
 
 ## TITEL II. TOEPASSING VAN DE BESLUITEN VAN DE INSTELLINGEN
 
-#### Artikel 52
+##### Artikel 52
 
 Vanaf het tijdstip van toetreding wordt ervan uitgegaan dat de richtlijnen en beschikkingen in de zin van [artikel 249 van het EG-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=249) en van [artikel 161 van het EGA-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004033&artikel=161), eveneens tot Bulgarije en Roemenië zijn gericht, voorzover deze richtlijnen en beschikkingen tot alle huidige lidstaten zijn gericht. Behoudens wat richtlijnen en beschikkingen betreft die in werking zijn getreden overeenkomstig [artikel 254, leden 1 en 2, van het EG-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=254), wordt ervan uitgegaan dat van deze richtlijnen en beschikkingen onmiddellijk na de toetreding kennis is gegeven aan Bulgarije en Roemenië.
 
-#### Artikel 53
+##### Artikel 53
 
 1. Bulgarije en Roemenië stellen de maatregelen in werking die nodig zijn om vanaf de datum van toetreding uitvoering te geven aan de richtlijnen en beschikkingen in de zin van [artikel 249 van het EG-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=249) en van [artikel 161 van het EGA-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004033&artikel=161), tenzij in de onderhavige Akte een andere termijn is vastgesteld. Uiterlijk op de datum van toetreding of, in voorkomend geval, binnen de in de onderhavige Akte vastgestelde termijn, stellen zij de Commissie van deze maatregelen in kennis.
 
 2. Voorzover wijzigingen die door de onderhavige Akte zijn aangebracht in de richtlijnen in de zin van [artikel 249 van het EG-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=249) en [artikel 161 van het EGA-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004033&artikel=161), een wijziging van de wettelijke en bestuursrechtelijke bepalingen van de huidige lidstaten vereisen, stellen de huidige lidstaten de maatregelen in werking die nodig zijn om vanaf het tijdstip van toetreding uitvoering te geven aan de gewijzigde richtlijnen, tenzij in de onderhavige Akte een andere termijn is vastgesteld. Uiterlijk op de datum van toetreding of, indien later, binnen de in de onderhavige Akte vastgestelde termijn, stellen zij de Commissie van deze maatregelen in kennis.
 
-#### Artikel 54
+##### Artikel 54
 
 De wettelijke en bestuursrechtelijke bepalingen voor de bescherming van de gezondheid van de werknemers en van de bevolking op het grondgebied van Bulgarije en Roemenië tegen de aan ioniserende straling verbonden gevaren worden overeenkomstig [artikel 33 van het EGA-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004033&artikel=33), door deze Staten aan de Commissie medegedeeld binnen een termijn van drie maanden, te rekenen vanaf de toetreding.
 
-#### Artikel 55
+##### Artikel 55
 
 Naar aanleiding van een met redenen omkleed verzoek van Bulgarije of Roemenië dat uiterlijk op de datum van toetreding aan de Commissie is gericht, kan de Raad, op voorstel van de Commissie, of de Commissie, indien het oorspronkelijke besluit door de Commissie was aangenomen, maatregelen nemen houdende tijdelijke afwijkingen van de besluiten van de Instellingen die tussen 1 oktober 2004 en de datum van toetreding zijn vastgesteld. De maatregelen worden aangenomen overeenkomstig de stemregels die gelden voor de aanneming van de besluiten waarvoor om een tijdelijke afwijking is verzocht. Als deze afwijkingen na de toetreding worden aangenomen, dan kunnen zij vanaf de datum van toetreding worden toegepast.
 
-#### Artikel 56
+##### Artikel 56
 
 Indien besluiten van de Instellingen van vóór de toetreding in verband met de toetreding moeten worden aangepast, en in deze Akte of de bijlagen daarvan niet in de noodzakelijke aanpassingen is voorzien, past de Raad met gekwalificeerde meerderheid van stemmen, op voorstel van de Commissie, of de Commissie, indien het oorspronkelijke besluit door de Commissie was aangenomen, daartoe de nodige besluiten aan. Als deze aanpassingen na de toetreding worden aangenomen, kunnen zij vanaf de datum van toetreding worden toegepast.
 
-#### Artikel 57
+##### Artikel 57
 
 Behoudens andersluidende bepalingen, stelt de Raad, op voorstel van de Commissie, met gekwalificeerde meerderheid van stemmen, de bepalingen vast die nodig zijn ter uitvoering van de bepalingen van deze Akte.
 
-#### Artikel 58
+##### Artikel 58
 
 De teksten van de besluiten van de Instellingen en de Europese Centrale Bank die vóór de toetreding zijn aangenomen en door de Raad, de Commissie of de Europese Centrale Bank in de Bulgaarse en de Roemeense taal zijn opgesteld, zijn vanaf het tijdstip van toetreding op gelijke wijze authentiek als de in de huidige talen vastgestelde teksten. Zij worden in het Publicatieblad van de Europese Unie bekendgemaakt, wanneer de teksten in de huidige talen aldus zijn bekendgemaakt.
 
 ## TITEL III. SLOTBEPALINGEN
 
-#### Artikel 59
+##### Artikel 59
 
 Bijlagen I tot en met IX en de aanhangsels daarbij maken een integrerend deel van deze Akte uit.
 
-#### Artikel 60
+##### Artikel 60
 
 De Regering van de Italiaanse Republiek zendt aan de Regeringen van de Republiek Bulgarije en Roemenië een voor eensluidend gewaarmerkt afschrift in de Deense, de Duitse, de Engelse, de Estse, de Finse, de Franse, de Griekse, de Hongaarse, de Ierse, de Italiaanse, de Letse, de Litouwse, de Maltese, de Nederlandse, de Poolse, de Portugese, de Sloveense, de Slowaakse, de Spaanse, de Tsjechische en de Zweedse taal toe van het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507), het [Verdrag tot oprichting van de Europese Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506), het [Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie](https://wetten.overheid.nl/jci1.3:c:BWBV0004033) en de Verdragen tot wijziging of aanvulling daarvan, met inbegrip van de Verdragen betreffende de toetreding van het Koninkrijk Denemarken, Ierland en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, van de Helleense Republiek, [van het Koninkrijk Spanje en de Portugese Republiek](https://wetten.overheid.nl/jci1.3:c:BWBV0002952), van de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden, alsook [van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek](https://wetten.overheid.nl/jci1.3:c:BWBV0001642).
 
 De teksten van deze Verdragen die zijn opgesteld in de Bulgaarse en de Roemeense taal, worden aan de onderhavige Akte gehecht. Deze teksten zijn op gelijke wijze authentiek als de teksten van de in de eerste alinea genoemde Verdragen die zijn opgesteld in de huidige talen.
 
-#### Artikel 61
+##### Artikel 61
 
 De secretaris-generaal van de Raad van de Europese Unie zal een voor eensluidend gewaarmerkt afschrift van de internationale overeenkomsten die zijn nedergelegd in het archief van het secretariaat-generaal, aan de Regeringen van de Republiek Bulgarije en Roemenië toezenden.
 
-#### I
+##### I
 
 1. Teneinde te waarborgen dat de Republiek Bulgarije en Roemenië, hierna toetredende staten te noemen, voldoende worden ingelicht, worden alle voorstellen, mededelingen, aanbevelingen of initiatieven die kunnen leiden tot besluiten van de instellingen of organen van de Europese Unie, na toezending aan de Raad ter kennis van de toetredende staten gebracht.
 
@@ -673,7 +698,7 @@ De secretaris-generaal van de Raad van de Europese Unie zal een voor eensluidend
 
 10. De in de voorgaande punten omschreven procedure is eveneens van toepassing op alle door de toetredende staten te nemen besluiten die van invloed kunnen zijn op de verbintenissen die voortvloeien uit hun hoedanigheid van toekomstige leden van de Unie.
 
-#### II
+##### II
 
 11. De Unie en de Republiek Bulgarije en Roemenië nemen de nodige maatregelen om hun toetreding tot de in de artikelen 3, lid 3, 6, lid 2, en 6, lid 6, van de Akte betreffende de voorwaarden en de nadere regels voor de toelating van de Republiek Bulgarije en Roemenië tot de Europese Unie bedoelde overeenkomsten of akkoorden voorzover mogelijk, en overeenkomstig het in die akte bepaalde, te doen samenvallen met de inwerkingtreding van het Toetredingsverdrag.
 
@@ -683,6 +708,6 @@ De secretaris-generaal van de Raad van de Europese Unie zal een voor eensluidend
 
 14. Bepaalde door de Gemeenschap gesloten niet-preferentiële akkoorden die ook na de datum van toetreding blijven gelden, kunnen worden aangepast om rekening te houden met de uitbreiding van de Unie. De Gemeenschap zal de vertegenwoordigers van de toetredende staten overeenkomstig de in de vorige alinea omschreven procedure bij de onderhandelingen over deze aanpassing betrekken.
 
-#### III
+##### III
 
 15. De Instellingen van de Unie stellen tijdig de bepalingen vast die worden bedoeld in de artikelen 58 en 60 van het Protocol betreffende de voorwaarden en de nadere regels voor de toelating van de Republiek Bulgarije en Roemenië tot de Europese Unie en in de artikelen 58 en 60 van de Akte betreffende de voorwaarden voor de toelating van de Republiek Bulgarije en Roemenië tot de Europese Unie. Daartoe verstrekken de regeringen van de Republiek Bulgarije en van Roemenië de Instellingen tijdig ontwerp-vertalingen van genoemde teksten.

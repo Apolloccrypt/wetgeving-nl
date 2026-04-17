@@ -1,13 +1,38 @@
 ---
 title: "Douane, verzamelzendingen bij uitvoer"
 identifier: "BWBR0026808"
-categorie: "Bestuursrecht"
-publicatiedatum: 2009-12-15
-laatste_update: 2008-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026808"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2009-12-15"
+last_updated: "2008-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026808"
+soort: "beleidsregel"
+stam_id: "10309393"
+version_id: "16895612"
+internal_id: "C23273041"
+label_id: "10284894"
+dtd_version: "2.0"
+original_entry_into_force: "2009-12-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026808/2009-12-15/0"
+intitule_bron: "Stcrt.2009-19092"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-12-07"
+intitule_published: "2009-12-14"
+intitule_in_force: "2009-12-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-19092"
+original_signed_date: "2009-12-07"
+original_published_date: "2009-12-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-19092"
+entry_into_force_date: "2009-12-15"
+jci_1_3: "jci1.3:c:BWBR0026808&z=2009-12-15&g=2009-12-15"
+jci_1_0: "1.0:c:BWBR0026808&g=2009-12-15"
+citeertitel_status: "redactioneel"
+signed_date: "2009-12-07"
+entry_into_force: "2009-12-15"
 ---
-
 # Douane, verzamelzendingen bij uitvoer
 
 De staatssecretaris van Financiën heeft het volgende besloten.

@@ -1,13 +1,38 @@
 ---
 title: "Protocol van toetreding van het Koninkrijk der Nederlanden tot de Overeenkomst van 16 december 1988 betreffende de bouw en de exploitatie van een Europese installatie voor synchrotronstraling"
 identifier: "BWBV0002982"
-categorie: "Internationaal recht"
-publicatiedatum: 2016-07-23
-laatste_update: 1991-12-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002982"
+country: "nl"
+rank: "verdrag"
+publication_date: "2016-07-23"
+last_updated: "1991-12-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002982"
+soort: "verdrag"
+stam_id: "10003286073"
+version_id: "10003309292"
+internal_id: "C10009265431"
+label_id: "10003271804"
+dtd_version: "2.0"
+original_entry_into_force: "2016-07-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002982/2016-07-23/0"
+intitule_bron: "Trb.1992-155"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1989-01-01"
+intitule_published: "1992-10-23"
+intitule_in_force: "2008-04-03"
+intitule_status: "goed"
+original_publication: "Trb.1992-155"
+original_signed_date: "1989-01-01"
+original_published_date: "1992-10-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1992-155"
+entry_into_force_date: "2016-07-23"
+jci_1_3: "jci1.3:c:BWBV0002982&z=2016-07-23&g=2016-07-23"
+jci_1_0: "1.0:c:BWBV0002982&g=2016-07-23"
+citeertitel_status: "officieel"
+signed_date: "1989-01-01"
+entry_into_force: "2016-07-23"
 ---
-
 # Protocol van toetreding van het Koninkrijk der Nederlanden tot de Overeenkomst van 16 december 1988 betreffende de bouw en de exploitatie van een Europese installatie voor synchrotronstraling
 
 De Regeringen
@@ -50,33 +75,33 @@ zijn overeengekomen als volgt:
 
 Inwerkingtreding voorheen volgens Trb. 2008/45 gesteld op 28 februari 1993.
 
-#### Artikel 1
+##### Artikel 1
 
 Het Koninkrijk der Nederlanden treedt tot de [Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0002889) van 16 december 1988 toe als Overeenkomstsluitende Partij.
 
-#### Artikel 2
+##### Artikel 2
 
 2.1. Gezamenlijk optredend als één Overeenkomstsluitende Partij hebben de Regeringen van het Koninkrijk België en van het Koninkrijk der Nederlanden een consortium gevormd.
 
 2.2. Dit consortium, genaamd "Benesync", wordt beschouwd als Lid van de Vennootschap vanaf de datum waarop deze is opgericht.
 
-#### Artikel 3
+##### Artikel 3
 
 Wijzigt de Overeenkomst betreffende de bouw en exploitatie van een Europese Synchrotronstralingsinstallatie; Parijs, 16 december 1988.
 
-#### Artikel 4
+##### Artikel 4
 
 [Bijlage 1 bij de Overeenkomst (Statuten van de Vennootschap „Europese installatie voor synchrotronstraling”)](onbekend) wordt dienovereenkomstig gewijzigd en gevoegd bij dit Protocol.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit Protocol treedt in werking één maand nadat alle Regeringen die de [Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0002889) van 16 december 1988 hebben ondertekend en de Regering van het Koninkrijk der Nederlanden bij de Regering van de Franse Republiek een akte van bekrachtiging, goedkeuring of aanvaarding van dit Protocol hebben neergelegd.
 
-#### 1
+##### 1
 
 Wijzigt de Overeenkomst betreffende de bouw en exploitatie van een Europese Synchrotronstralingsinstallatie; Parijs, 16 december 1988.
 
-#### 2
+##### 2
 
 1. Wijzigt de Overeenkomst betreffende de bouw en exploitatie van een Europese Synchrotronstralingsinstallatie; Parijs, 16 december 1988.
 

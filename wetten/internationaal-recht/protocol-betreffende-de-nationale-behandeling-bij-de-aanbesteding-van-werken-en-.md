@@ -1,13 +1,35 @@
 ---
 title: "Protocol betreffende de nationale behandeling bij de aanbesteding van werken en de aankoop van goederen"
 identifier: "BWBV0004734"
-categorie: "Internationaal recht"
-publicatiedatum: 1960-11-01
-laatste_update: 1960-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004734"
+country: "nl"
+rank: "verdrag"
+publication_date: "1960-11-01"
+last_updated: "1960-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004734"
+soort: "verdrag"
+stam_id: "10004285653"
+version_id: "10004483082"
+internal_id: "C10007309501"
+label_id: "10004270604"
+dtd_version: "2.0"
+original_entry_into_force: "1958-08-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004734/1960-11-01/0"
+intitule_bron: "Trb.1956-76"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1956-07-30"
+intitule_in_force: "1958-10-08"
+intitule_status: "goed"
+original_publication: "Trb.1956-76"
+original_published_date: "1956-07-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1956-76"
+entry_into_force_date: "1958-08-29"
+jci_1_3: "jci1.3:c:BWBV0004734&z=1960-11-01&g=1960-11-01"
+jci_1_0: "1.0:c:BWBV0004734&g=1960-11-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1958-08-29"
 ---
-
 # Protocol betreffende de nationale behandeling bij de aanbesteding van werken en de aankoop van goederen
 
 De Regeringen van Nederland, België en Luxemburg,
@@ -26,15 +48,15 @@ Voor voorlopige toepassing zie ook Trb. 1958/137.
 
 Voor voorlopige toepassing zie ook Trb. 1958/137.
 
-#### Artikel 1
+##### Artikel 1
 
 Vervallen
 
-#### Artikel 2
+##### Artikel 2
 
 Vervallen
 
-#### Artikel 3
+##### Artikel 3
 
 A. De ondernemingen, welke wensen deel te nemen aan onderhandse aanbestedingen, worden op haar verzoek door de overheidsinstellingen op de lijsten van gegadigden geplaatst. De keuze van de tot inschrijving uit te nodigen gegadigden wordt gemaakt zonder dat tussen de ondernemingen uit de drie landen wordt gediscrimineerd;
 
@@ -42,7 +64,7 @@ B. Voor zover de belanghebbenden niet in de gelegenheid worden gesteld aanwezig 
 
 Deze bekendmaking behelst het bedrag, waartegen de order is gegund en geschiedt hetzij in de pers, hetzij schriftelijk aan de inschrijvers wier aanbod niet werd aanvaard.
 
-#### Artikel 4
+##### Artikel 4
 
 A. De Nederlandse aannemers, die in België of Luxemburg werken wensen uit te voeren, dienen hun aanvraag tot het verkrijgen van de vereiste vergunning in bij de betrokken Belgische of Luxemburgse instanties, door tussenkomst van het Nederlandse Ministerie van Economische Zaken.
 
@@ -62,19 +84,19 @@ D. De beslissingen op de sub A en B van dit artikel bedoelde aanvragen worden ge
 
 E. Iedere Regering waakt er voor, dat de aannemers uit de partnerlanden bij de toepassing van eventuele particuliere mededingingsregelingen even gunstig behandeld worden als de nationale aannemers.
 
-#### Artikel 5
+##### Artikel 5
 
 De aannemers en leveranciers uit de partnerlanden worden vrijgesteld van de verplichting, vóór de aanbesteding een waarborgsom te storten.
 
-#### Artikel 6
+##### Artikel 6
 
 De termijnen, gedurende welke de inschrijver gehouden is tot gestanddoening van zijn aanbieding, zullen in de drie landen met elkaar in overeenstemming worden gebracht.
 
-#### Artikel 7
+##### Artikel 7
 
 De inschrijving dient te geschieden in de valuta van het land waar de aanbesteding plaats vindt.
 
-#### Artikel 8
+##### Artikel 8
 
 De instelling van de bijzondere gemengde Commissie bedoeld in hoofdstuk IV, punt 3 van het Protocol van Oostende van 31 juli 1950 wordt bevestigd.
 
@@ -94,19 +116,19 @@ De adressen waaraan in elk der drie landen de verzoeken om inlichtingen en de kl
 
 De Commissie is verplicht tot geheimhouding van alle gegevens van bijzondere of individuele aard welke haar uit hoofde van de uitoefening van haar taak bekend zijn geworden.
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 Dit Protocol zal worden bekrachtigd en de akten van bekrachtiging zullen worden neder gelegd bij de Regering van België.
 

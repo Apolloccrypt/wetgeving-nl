@@ -1,20 +1,46 @@
 ---
-title: "Regeling specifieke uitkering IZA-doelen 2023–2026"
+title: "Regeling van de Minister voor Langdurige Zorg en Sport van 7 juli 2023, kenmerk 3634246-1050406-DMO, houdende een specifieke uitkering voor IZA-doelen 2023–2026 (Regeling specifieke uitkering IZA-doelen 2023–2026)"
 identifier: "BWBR0048411"
-categorie: "Sociaal recht"
-publicatiedatum: 2025-10-18
-laatste_update: 2025-10-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048411"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-10-18"
+last_updated: "2025-10-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048411"
+soort: "ministeriele-regeling"
+stam_id: "16806223"
+version_id: "29525842"
+internal_id: "C42211471"
+label_id: "16719824"
+dtd_version: "2.0"
+original_entry_into_force: "2023-07-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048411/2025-10-18/0"
+intitule_bron: "Stcrt.2023-19964"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-07-07"
+intitule_published: "2023-07-17"
+intitule_in_force: "2023-07-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-19964"
+original_signed_date: "2023-07-07"
+original_published_date: "2023-07-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-19964"
+entry_into_force_date: "2023-07-18"
+jci_1_3: "jci1.3:c:BWBR0048411&z=2025-10-18&g=2025-10-18"
+jci_1_0: "1.0:c:BWBR0048411&g=2025-10-18"
+citeertitel_status: "officieel"
+short_title: "Regeling specifieke uitkering IZA-doelen 2023–2026"
+signed_date: "2023-07-07"
+entry_into_force: "2023-07-18"
 ---
-
 # Regeling van de Minister voor Langdurige Zorg en Sport van 7 juli 2023, kenmerk 3634246-1050406-DMO, houdende een specifieke uitkering voor IZA-doelen 2023–2026 (Regeling specifieke uitkering IZA-doelen 2023–2026)
 
 Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3) en [5 van de Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=5);
 
 Besluit:
 
-#### Artikel 1. Algemene begripsbepalingen
+##### Artikel 1. Algemene begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -44,13 +70,13 @@ In deze regeling wordt verstaan onder:
 
 - **Werkagenda VNG bij het IZA:** de door de VNG bij het IZA opgestelde werkagenda, zoals opgenomen in bijlage 2 bij het GALA.
 
-#### Artikel 2. Toepasselijkheid [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) en [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepasselijkheid [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) en [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 1. Op deze regeling zijn de [artikelen 4:35](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35), [4:37](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:37), [4:38](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:38), [4:40](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:40), [4:46](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:46), [4:48 tot en met 4:50](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:48), [4:56](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:56) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) van overeenkomstige toepassing.
 
 2. Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) niet van toepassing.
 
-#### Artikel 3. IZA-doelen
+##### Artikel 3. IZA-doelen
 
 1. De minister kan aan een mandaathouder een uitkering verstrekken voor activiteiten in een samenwerkingsregio in het kader van de ambities en doelen zoals gesteld in het IZA en uitgewerkt in de Werkagenda VNG bij het IZA:
 
@@ -66,15 +92,15 @@ In deze regeling wordt verstaan onder:
 
 - c. het opstellen van een mandaatstructuur.
 
-#### Artikel 4. Hoogte van de uitkering
+##### Artikel 4. Hoogte van de uitkering
 
 De uitkering voor activiteiten als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048411&artikel=3&z=2025-10-18&g=2025-10-18) bedraagt per kalenderjaar ten hoogste het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048411&bijlage=1&z=2025-10-18&g=2025-10-18) bij deze regeling bij de desbetreffende mandaathouder en het desbetreffende jaar genoemde bedrag.
 
-#### Artikel 5. Dubbelfinanciering
+##### Artikel 5. Dubbelfinanciering
 
 Er wordt geen uitkering verstrekt voor activiteiten waarvoor reeds een uitkering is verstrekt op grond van de [Regeling specifieke uitkering voor sport en bewegen, gezondheidsbevordering, cultuurparticipatie en de sociale basis 2023–2026](https://wetten.overheid.nl/jci1.3:c:BWBR0047862).
 
-#### Artikel 6. Aanvraag, verlening en bevoorschotting
+##### Artikel 6. Aanvraag, verlening en bevoorschotting
 
 1. De minister verleent de uitkering voor het jaar 2023 ambtshalve uiterlijk 30 september 2023.
 
@@ -96,7 +122,7 @@ Er wordt geen uitkering verstrekt voor activiteiten waarvoor reeds een uitkering
 
 7. De minister verleent bij het besluit tot verlening van een uitkering een voorschot van 100%, dat in jaarlijkse termijnen wordt betaald.
 
-#### Artikel 7. Verplichtingen verbonden aan de uitkering
+##### Artikel 7. Verplichtingen verbonden aan de uitkering
 
 1. Indien bij de aanvraag als bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048411&artikel=6&z=2025-10-18&g=2025-10-18), geen regioplan wordt overgelegd, kan de minister bij de verleningsbeschikking nadere verplichtingen opleggen.
 
@@ -108,13 +134,13 @@ Er wordt geen uitkering verstrekt voor activiteiten waarvoor reeds een uitkering
 
 - b. zich andere omstandigheden voordoen of zullen voordoen die van belang kunnen zijn voor een beslissing tot wijziging, intrekking of vaststelling van de uitkering.
 
-#### Artikel 8. Verantwoording
+##### Artikel 8. Verantwoording
 
 1. De gemeenten die van de mandaathouder in de betreffende samenwerkingsregio middelen ontvangen uit de specifieke uitkering sturen voor hun activiteiten de vereiste verantwoordingsinformatie aan de mandaathouder.
 
 2. De mandaathouder legt uiterlijk op 15 juli van het jaar volgend op het begrotingsjaar verantwoording af over de besteding van de volledige specifieke uitkering, zoals bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
-#### Artikel 9. Vaststelling en terugvordering
+##### Artikel 9. Vaststelling en terugvordering
 
 1. De minister besluit uiterlijk 37 weken na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048411&artikel=8&z=2025-10-18&g=2025-10-18), over de vaststelling van de uitkering.
 
@@ -122,17 +148,17 @@ Er wordt geen uitkering verstrekt voor activiteiten waarvoor reeds een uitkering
 
 3. Indien de informatie ten behoeve van de verantwoording te laat, niet of niet volledig wordt verstrekt, kan de minister de uitkering op een lager bedrag vaststellen, aan de hand van de gegevens die tot het besluit tot vaststelling beschikbaar zijn gesteld.
 
-#### Artikel 10. Hardheidsclausule
+##### Artikel 10. Hardheidsclausule
 
 De minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover van toepassing gelet op het belang dat de desbetreffende bepaling beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 11. Inwerkingtreding en vervaldatum
+##### Artikel 11. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 16 juli 2027, met dien verstande dat zij van toepassing blijft op uitkeringen die voor die datum zijn verleend.
 
-#### Artikel 12. Citeertitel
+##### Artikel 12. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering IZA-doelen 2023–2026.
 

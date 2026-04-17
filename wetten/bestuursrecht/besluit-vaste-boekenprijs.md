@@ -1,13 +1,38 @@
 ---
-title: "Besluit vaste boekenprijs"
+title: "Besluit van 3 mei 2005, houdende regels ter uitvoering van bepalingen van de Wet op de vaste boekenprijs (Besluit vaste boekenprijs)"
 identifier: "BWBR0018298"
-categorie: "Bestuursrecht"
-publicatiedatum: 2013-01-01
-laatste_update: 2013-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0018298"
+country: "nl"
+rank: "amvb"
+publication_date: "2013-01-01"
+last_updated: "2013-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0018298"
+soort: "AMvB"
+stam_id: "7021803"
+version_id: "11902392"
+internal_id: "C16198981"
+label_id: "7010004"
+original_entry_into_force: "2005-07-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0018298/2013-01-01/0"
+intitule_bron: "Stb.2005-269"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-05-03"
+intitule_published: "2005-05-31"
+intitule_in_force: "2005-07-26"
+intitule_status: "goed"
+original_publication: "Stb.2005-269"
+original_signed_date: "2005-05-03"
+original_published_date: "2005-05-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2005-269"
+entry_into_force_date: "2005-07-27"
+jci_1_3: "jci1.3:c:BWBR0018298&z=2013-01-01&g=2013-01-01"
+jci_1_0: "1.0:c:BWBR0018298&g=2013-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit vaste boekenprijs"
+signed_date: "2005-05-03"
+entry_into_force: "2005-07-27"
 ---
-
 # Besluit van 3 mei 2005, houdende regels ter uitvoering van bepalingen van de Wet op de vaste boekenprijs (Besluit vaste boekenprijs)
 
 Op de voordracht van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, mr. Medy C. van der Laan, van 23 februari 2005, nr. MLB/BJZ/2005/7902;
@@ -22,7 +47,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Kortingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. Bij gelijktijdige verkoop aan eenzelfde eindafnemer van meerdere exemplaren van een boek of een muziekuitgave kan de verkoper een korting op de vaste prijs toepassen van:
 
@@ -34,7 +59,7 @@ Hebben goedgevonden en verstaan:
 
 3. Bij gelijktijdige verkoop van ten minste 2 exemplaren van een boek aan eenzelfde eindafnemer kan de verkoper een korting op de vaste prijs toepassen van ten hoogste 5 procent, indien de eindafnemer kan aantonen dat hij in het kalenderjaar waarin de verkoop plaatsvindt voor ten minste een bij ministeriële regeling te bepalen bedrag aan boeken van de desbetreffende verkoper afneemt.
 
-#### Artikel 2
+##### Artikel 2
 
 Voor boeken of muziekuitgaven die dienen tot onderwijs dat vanwege de overheid of vanwege een rechtspersoon zonder winstoogmerk wordt gegeven, voor zover die boeken en muziekuitgaven deel uitmaken van de voorgeschreven literatuur, kan de verkoper een korting op de vaste prijs toepassen van:
 
@@ -42,7 +67,7 @@ Voor boeken of muziekuitgaven die dienen tot onderwijs dat vanwege de overheid o
 
 - b. ten hoogste 5 procent bij gelijktijdige verkoop van meerdere verschillende van die boeken of muziekuitgaven aan een eindafnemer die is ingeschreven als leerling of student aan een instelling die valt onder de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682).
 
-#### Artikel 3
+##### Artikel 3
 
 1. Bij verkoop ten behoeve van bibliotheken van onderwijsinstellingen en bibliotheken verbonden aan penitentiaire inrichtingen of ziekenhuizen en verpleeginrichtingen in het kader van de uitoefening van hun bibliotheekfunctie, en bij verkoop aan openbare bibliotheken in het kader van de uitoefening van hun publieksfunctie, kan de verkoper bij gelijktijdige verkoop van ten minste 15 exemplaren van een boek of een muziekuitgave een korting op de vaste prijs toepassen van ten hoogste 10 procent voor boeken en ten hoogste 5 procent voor muziekuitgaven.
 
@@ -50,7 +75,7 @@ Voor boeken of muziekuitgaven die dienen tot onderwijs dat vanwege de overheid o
 
 3. De verkoper wiens activiteiten geheel of nagenoeg geheel bestaan uit het verkopen aan openbare bibliotheken van voor gebruik door openbare bibliotheken geschikt gemaakte boeken, kan bij verkoop daarvan aan openbare bibliotheken in het kader van de uitoefening van hun publieksfunctie een korting op de vaste prijs toepassen van ten hoogste 25 procent.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een collectieve spaaractie is een actie:
 
@@ -66,7 +91,7 @@ Voor boeken of muziekuitgaven die dienen tot onderwijs dat vanwege de overheid o
 
 3. De verkoper kan alleen bij deelname aan een collectieve spaaractie bij verkoop van een boek of een muziekuitgave aan een eindafnemer een korting op de vaste prijs toepassen in de vorm van aanvaarding van betaling ten laste van een door de eindafnemer in het kader van een collectieve spaaractie opgebouwd spaartegoed.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een collectieve promotieactie is een actie:
 
@@ -82,7 +107,7 @@ Voor boeken of muziekuitgaven die dienen tot onderwijs dat vanwege de overheid o
 
 2. De verkoper kan alleen bij deelname aan een collectieve promotieactie bij verkoop van boeken of muziekuitgaven aan een eindafnemer in het kader van de collectieve promotieactie een korting op de vaste prijs toepassen in de vorm van een of meer op geld waardeerbare geschenken, mits de geschenken behoren tot het door de organiserende rechtspersoon ontwikkelde promotiepakket.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Kortingen als bedoeld in de [artikelen 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018298&hoofdstuk=1&artikel=1&z=2013-01-01&g=2013-01-01) kunnen niet gelijktijdig worden toegepast.
 
@@ -90,7 +115,7 @@ Voor boeken of muziekuitgaven die dienen tot onderwijs dat vanwege de overheid o
 
 ### Hoofdstuk 2. Bijzondere prijzen
 
-#### Artikel 7
+##### Artikel 7
 
 1. De uitgever of importeur kan voor een boek of een muziekuitgave in het kader van een individuele promotieactie tijdelijk een van de vaste prijs afwijkende actieprijs vaststellen.
 
@@ -100,7 +125,7 @@ Voor boeken of muziekuitgaven die dienen tot onderwijs dat vanwege de overheid o
 
 4. Indien voor een boek of muziekuitgave reeds een actieprijs is vastgesteld, stelt de uitgever of importeur geen nieuwe actieprijs voor dat boek onderscheidenlijk die muziekuitgave vast dan twaalf maanden na de ingangsdatum van de laatste actieprijs.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De uitgever of importeur kan voor een boek of een muziekuitgave een van de vaste prijs afwijkende combinatieprijs vaststellen.
 
@@ -110,23 +135,23 @@ Voor boeken of muziekuitgaven die dienen tot onderwijs dat vanwege de overheid o
 
 4. [Artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018298&hoofdstuk=2&artikel=7&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De uitgever of importeur kan voor individuele boeken of muziekuitgaven die door hun uniforme uiterlijk en vormgeving of door een duidelijke vermelding op het titelblad kenbaar zijn als behorende tot een serie, een van de vaste prijs afwijkende serieprijs vaststellen.
 
 2. Een serieprijs geldt uitsluitend bij gelijktijdige verkoop van verschillende titels van de serie aan dezelfde eindafnemer of bij verkoop aan een eindafnemer die zich vooraf schriftelijk verplicht heeft tot afname van de gehele serie of meerdere verschillende titels van de serie.
 
-#### Artikel 10
+##### Artikel 10
 
 Voor boeken en muziekuitgaven die voor rekening van of met aanmerkelijke steun van een niet op winst gerichte maatschappelijke of ideële organisatie tot stand zijn gekomen en die verband houden met de statutaire doelstelling van de desbetreffende organisatie, kan de uitgever een uitsluitend voor de leden of begunstigers van die organisatie geldende van de vaste prijs afwijkende ledenprijs vaststellen.
 
-#### Artikel 11
+##### Artikel 11
 
 Bij ministeriële regeling kunnen nadere regels gesteld worden omtrent het vaststellen van de in de [artikelen 7 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0018298&hoofdstuk=2&artikel=7&z=2013-01-01&g=2013-01-01) bedoelde bijzondere prijzen.
 
 ### Hoofdstuk 3. De boekenclub
 
-#### Artikel 12
+##### Artikel 12
 
 1. Een boekenclub als bedoeld in [artikel 8, onderdeel a, van de Wet op de vaste boekenprijs](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&artikel=8):
 
@@ -142,7 +167,7 @@ Bij ministeriële regeling kunnen nadere regels gesteld worden omtrent het vasts
 
 - b. wordt een deugdelijk gescheiden administratie ten aanzien van beide verkoopactiviteiten gevoerd.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De boekenclub stelt ten minste eenmaal per jaar zijn leden schriftelijk op de hoogte van het boekenclubaanbod.
 
@@ -152,7 +177,7 @@ Bij ministeriële regeling kunnen nadere regels gesteld worden omtrent het vasts
 
 4. Met betrekking tot de koopverplichting, bedoeld in [artikel 12, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0018298&hoofdstuk=3&artikel=12&z=2013-01-01&g=2013-01-01), kan bij ministeriële regeling per product een minimale waarde worden vastgesteld.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De door de uitgever of importeur vast te stellen boekenclubprijs is niet lager dan 80 procent van de vaste prijs, behalve voor zover en voor zolang bij aanpassing van de vaste prijs als bedoeld in [artikel 5 van de Wet op de vaste boekenprijs](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&artikel=5) uit toepassing van [artikel 9 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&artikel=9) noodzakelijkerwijs anders voortvloeit.
 
@@ -172,7 +197,7 @@ kan de uitgever of importeur in afwijking van het eerste lid een boekenclubprijs
 
 ### Hoofdstuk 4. De distributie-infrastructuur
 
-#### Artikel 15
+##### Artikel 15
 
 1. Representatieve organisaties van uitgevers en verkopers kunnen onderling en met één of meer distributeurs afspraken maken ten behoeve van de instandhouding van een distributie-infrastructuur met het oog op het handhaven van een voldoende geografische spreiding en beschikbaarheid van met name minder courante boeken en muziekuitgaven ten behoeve van eindafnemers in Nederland.
 
@@ -188,11 +213,11 @@ kan de uitgever of importeur in afwijking van het eerste lid een boekenclubprijs
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 16
+##### Artikel 16
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Laatstbedoeld besluit wordt niet genomen voordat vier weken zijn verstreken nadat het onderhavige besluit is overgelegd aan de beide kamers der Staten-Generaal, en evenmin indien binnen die termijn door of namens een der kamers of door ten minste een vijfde van het grondwettelijk aantal leden van een der kamers de wens te kennen wordt gegeven dat het in dit besluit geregelde onderwerp bij wet wordt geregeld.
 
-#### Artikel 17
+##### Artikel 17
 
 Dit besluit wordt aangehaald als: Besluit vaste boekenprijs.
 

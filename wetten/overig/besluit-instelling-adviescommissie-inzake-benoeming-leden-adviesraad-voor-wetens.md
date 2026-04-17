@@ -1,20 +1,46 @@
 ---
-title: "Besluit instelling adviescommissie inzake benoeming leden Adviesraad voor wetenschap, technologie en innovatie"
+title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 26 juni 2023, nr. OWB/39165914, houdende de instelling van een adviescommissie inzake de benoeming van leden van de Adviesraad voor wetenschap, technologie en innovatie"
 identifier: "BWBR0048994"
-categorie: "Overig"
-publicatiedatum: 2024-09-12
-laatste_update: 2024-09-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048994"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-09-12"
+last_updated: "2024-09-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048994"
+soort: "ministeriele-regeling"
+stam_id: "16944353"
+version_id: "29781502"
+internal_id: "C42681931"
+label_id: "16854994"
+dtd_version: "2.0"
+original_entry_into_force: "2023-12-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048994/2024-09-12/0"
+intitule_bron: "Stcrt.2023-33811"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-06-26"
+intitule_published: "2023-12-04"
+intitule_in_force: "2023-12-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-33811"
+original_signed_date: "2023-06-26"
+original_published_date: "2023-12-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-33811"
+entry_into_force_date: "2023-12-05"
+jci_1_3: "jci1.3:c:BWBR0048994&z=2024-09-12&g=2024-09-12"
+jci_1_0: "1.0:c:BWBR0048994&g=2024-09-12"
+citeertitel_status: "redactioneel"
+short_title: "Besluit instelling adviescommissie inzake benoeming leden Adviesraad voor wetenschap, technologie en innovatie"
+signed_date: "2023-06-26"
+entry_into_force: "2023-12-05"
 ---
-
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 26 juni 2023, nr. OWB/39165914, houdende de instelling van een adviescommissie inzake de benoeming van leden van de Adviesraad voor wetenschap, technologie en innovatie
 
 Gelet op [artikel 2 van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=2);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -22,13 +48,13 @@ In dit besluit wordt verstaan onder:
 
 - b). **commissie:** Adviescommissie benoeming leden (AWTI).
 
-#### Artikel 2. Instelling en taak
+##### Artikel 2. Instelling en taak
 
 1. Er is een commissie die tot taak heeft de minister te adviseren over de benoeming van de voorzitter en leden van de Adviesraad voor wetenschap, technologie en innovatie, kortweg AWTI.
 
 2. De commissie neemt daarbij het relevante wettelijke kader in acht.
 
-#### Artikel 3. Leden
+##### Artikel 3. Leden
 
 1. Tot de leden van de commissie worden benoemd:
 
@@ -42,7 +68,7 @@ In dit besluit wordt verstaan onder:
 
 3. Bij het ontstaan van vacatures bij de AWTI kan de minister de samenstelling van de commissie gedeeltelijk of geheel wijzigen.
 
-#### Artikel 4. Werkwijze en vergoeding
+##### Artikel 4. Werkwijze en vergoeding
 
 1. De commissie stelt haar eigen werkwijze vast.
 
@@ -50,7 +76,7 @@ In dit besluit wordt verstaan onder:
 
 3. In aanvulling op [artikel 3 van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=3) worden twee selectiegespreken (inclusief de voor- en nabespreking van die gesprekken) als één vergadering beschouwd.
 
-#### Artikel 5. Ondersteuning commissie
+##### Artikel 5. Ondersteuning commissie
 
 1. De commissie wordt ondersteund door een secretariaat.
 
@@ -58,15 +84,15 @@ In dit besluit wordt verstaan onder:
 
 3. In het secretariaat wordt voorzien door de minister.
 
-#### Artikel 6. Archiefbescheiden
+##### Artikel 6. Archiefbescheiden
 
 De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden de bescheiden betreffende die werkzaamheden over aan de directie Organisatie en Bedrijfsvoering van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
-#### Artikel 7. Instellingsduur
+##### Artikel 7. Instellingsduur
 
 Vervallen
 
-#### Artikel 8. Inwerkingtreding
+##### Artikel 8. Inwerkingtreding
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant, waarin het wordt geplaatst, en werkt daarbij terug tot 1 juli 2023.
 

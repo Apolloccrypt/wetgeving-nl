@@ -1,13 +1,35 @@
 ---
-title: "Besluit ex artikel 439, n°. 2, Wetboek van Strafrecht."
+title: "Besluit van 6 juni 1888, tot vaststelling van den algemeenen maatregel van bestuur, bedoeld bij artikel 439, no. 2, van het Wetboek van Strafrecht"
 identifier: "BWBR0001856"
-categorie: "Strafrecht"
-publicatiedatum: 2013-01-01
-laatste_update: 2013-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0001856"
+country: "nl"
+rank: "kb"
+publication_date: "2013-01-01"
+last_updated: "2013-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0001856"
+soort: "KB"
+stam_id: "418903"
+version_id: "614232"
+internal_id: "C614231"
+label_id: "407694"
+dtd_version: "2.0"
+original_entry_into_force: "1888-07-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0001856/2013-01-01/0"
+intitule_bron: "Stb.1888-87"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1888-06-06"
+intitule_status: "goed"
+original_publication: "Stb.1888-87"
+original_signed_date: "1888-06-06"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1888-07-05"
+jci_1_3: "jci1.3:c:BWBR0001856&z=2013-01-01&g=2013-01-01"
+jci_1_0: "1.0:c:BWBR0001856&g=2013-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit ex artikel 439, n°. 2, Wetboek van Strafrecht."
+signed_date: "1888-06-06"
+entry_into_force: "1888-07-05"
 ---
-
 # Besluit van 6 juni 1888, tot vaststelling van den algemeenen maatregel van bestuur, bedoeld bij artikel 439, no. 2, van het Wetboek van Strafrecht
 
 Gezien artikel 439, n°. 2, van het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854);
@@ -20,7 +42,7 @@ Gezien het nader rapport van Onze genoemde Ministers, van den 17den Mei 1888, af
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 1. De koopman, bedoeld in [artikel 439, n°. 2, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=439), is verplicht een register te houden, waarvan de bladen van een doorloopend nommer zijn voorzien en door de burgemeester van zijn woonplaats of de korpschef worden gewaarmerkt.
 
@@ -32,7 +54,7 @@ Hebben goedgevonden en verstaan:
 
 5. De bedoelde koopman zal tevens in het register aanteekenen, op dezelfde wijze als in het derde lid van dit artikel is voorgeschreven, aan wien en op welken dag goederen, als in het tweede lid zijn vermeld, voor zich zelven of namens zijnen lastgever door hem zijn verkocht, verruild, in pand gegeven of op eenige andere wijze met zijn medeweten of door zijn toedoen uit zijn bezit zijn geraakt.
 
-#### Artikel 2
+##### Artikel 2
 
 De koopman, bedoeld in artikel 439, n°. 2, van het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854), is verplicht het door hem als zoodanig gehouden register op aanvrage te vertoonen aan den burgemeester of aan den door dezen aangewezen ambtenaar, als ook aan den bevelvoerenden officier of aan den door dezen aangewezen officier of onderofficier.
 

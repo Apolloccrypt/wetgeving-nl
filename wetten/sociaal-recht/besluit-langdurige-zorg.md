@@ -1,13 +1,39 @@
 ---
-title: "Besluit langdurige zorg"
+title: "Besluit van 9 december 2014, houdende regels inzake de langdurige zorg (Besluit langdurige zorg)"
 identifier: "BWBR0035948"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-04-01
-laatste_update: 2026-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035948"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-04-01"
+last_updated: "2026-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035948"
+soort: "AMvB"
+stam_id: "12889793"
+version_id: "21931532"
+internal_id: "C31461401"
+label_id: "12860474"
+dtd_version: "2.0"
+original_entry_into_force: "2015-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035948/2026-04-01/0"
+intitule_bron: "Stb.2014-520"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-12-09"
+intitule_published: "2014-12-18"
+intitule_in_force: "2014-12-18"
+intitule_status: "goed"
+original_publication: "Stb.2014-520"
+original_signed_date: "2014-12-09"
+original_published_date: "2014-12-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2014-520"
+entry_into_force_date: "2015-01-01"
+jci_1_3: "jci1.3:c:BWBR0035948&z=2026-04-01&g=2026-04-01"
+jci_1_0: "1.0:c:BWBR0035948&g=2026-04-01"
+citeertitel_status: "officieel"
+short_title: "Besluit langdurige zorg"
+signed_date: "2014-12-09"
+entry_into_force: "2015-01-01"
 ---
-
 # Besluit van 9 december 2014, houdende regels inzake de langdurige zorg (Besluit langdurige zorg)
 
 Op de voordracht van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 6 oktober 2014, kenmerk 673059-126985-WJZ;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1.1
+##### Artikel 1.1.1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -84,23 +110,23 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 2. De verzekerden
 
-#### Artikel 2.1.1
+##### Artikel 2.1.1
 
 1. De aanmelding, bedoeld in [artikel 2.2.1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=2.2.1), geschiedt door inlevering van een volledig ingevuld en door of namens de verzekerde ondertekend formulier.
 
 2. Het Zorginstituut kan een of meer model-aanmeldingsformulieren vaststellen.
 
-#### Artikel 2.1.2
+##### Artikel 2.1.2
 
 1. Terstond nadat de verzekerde is ingeschreven verstrekt de Wlz-uitvoerder hem een bewijs van inschrijving, dat de verzekerde, desverlangd, bij het tot gelding brengen van zijn recht op zorg kan overleggen.
 
 2. Het Zorginstituut kan een model vaststellen voor het bewijs van inschrijving, bedoeld in het eerste lid. Het Zorginstituut kan technische specificaties vaststellen waaraan een inschrijvingsbewijs moet voldoen als gebruik wordt gemaakt van een magneetstripkaart of een chipkaart.
 
-#### Artikel 2.1.3
+##### Artikel 2.1.3
 
 Indien het Zorginstituut met toepassing van [artikel 35, derde lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=35) zorgverzekeraars op de hoogte heeft gesteld van zijn constatering dat een verzekerde bij twee of meer zorgverzekeraars verzekerd is, is [artikel 2.2.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=2.2.1), slechts van toepassing op de oudste inschrijving bij een zorgverzekeraar.
 
-#### Artikel 2.1.4
+##### Artikel 2.1.4
 
 1. De inschrijving bij een Wlz-uitvoerder, bedoeld in [artikel 2.2.1, tweede en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=2.2.1), geldt gedurende één kalenderjaar. Indien een inschrijving later dan per 1 januari van een jaar tot stand is gekomen, geldt de inschrijving tot en met 31 december van het volgende kalenderjaar.
 
@@ -114,7 +140,7 @@ Indien het Zorginstituut met toepassing van [artikel 35, derde lid, van de Zorgv
 
 #### § 1. Het verzekerde pakket en het recht op zorg
 
-#### Artikel 3.1.1
+##### Artikel 3.1.1
 
 1. De verzekerde die is aangewezen op zorg, heeft recht op samenhangende zorg behorende bij het bij de verzekerde best passende zorgprofiel. Bij ministeriële regeling worden zorgprofielen vastgesteld.
 
@@ -124,7 +150,7 @@ Indien het Zorginstituut met toepassing van [artikel 35, derde lid, van de Zorgv
 
 4. Het recht op zorg kan nader worden geregeld bij ministeriële regeling. Aan het recht op zorg, met inbegrip van het recht op meer zorg, bedoeld in het tweede lid, kunnen bij ministeriële regeling voorwaarden worden verbonden en beperkingen worden gesteld. Deze beperkingen kunnen mede betrekking hebben op gebruikelijke zorg en algemeen gebruikelijke voorzieningen.
 
-#### Artikel 3.1.2
+##### Artikel 3.1.2
 
 1. Het individuele gebruik van mobiliteitshulpmiddelen, bedoeld in [artikel 3.1.1, eerste lid, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1), omvat het gebruik van bij ministeriële regeling aangewezen hulpmiddelen voor het zich verplaatsen of laten verplaatsen:
 
@@ -134,7 +160,7 @@ Indien het Zorginstituut met toepassing van [artikel 35, derde lid, van de Zorgv
 
 2. Bij ministeriële regeling kunnen regels worden gesteld omtrent het gebruik van hulpmiddelen, met inbegrip van regels omtrent het vereist zijn en het verkrijgen van voorafgaande toestemming van de Wlz-uitvoerder.
 
-#### Artikel 3.1.3
+##### Artikel 3.1.3
 
 1. Logeeropvang als bedoeld in [artikel 3.1.1, eerste lid, onderdeel g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1) omvat het gedurende maximaal 156 etmalen per kalenderjaar door verzekerde die zorg in natura of een persoonsgebonden budget ontvangt logeren in een voor hem beschermende woonomgeving, geboden door een zorgaanbieder die daarbij tevens voorziet in samenhangende zorg.
 
@@ -148,7 +174,7 @@ Indien het Zorginstituut met toepassing van [artikel 35, derde lid, van de Zorgv
 
 4. Indien een indicatiebesluit gedurende een deel van een kalenderjaar geldig is, wordt het maximum aantal etmalen, bedoeld in het eerste lid, berekend door het aantal weken in dat kalenderjaar gedurende welke het indicatiebesluit geldig is, te vermenigvuldigen met drie.
 
-#### Artikel 3.1.4
+##### Artikel 3.1.4
 
 1. De vergoeding van een woningaanpassing, bedoeld in [artikel 3.1.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.3), betreft kosten voor het verrichten van aard- en nagelvaste aanpassingen aan de woning die noodzakelijk zijn in verband met het opheffen van ergonomische belemmeringen bij het verlenen van zorg in en direct rond de woning, met uitzondering van de kosten van achterstallig onderhoud.
 
@@ -162,7 +188,7 @@ Indien het Zorginstituut met toepassing van [artikel 35, derde lid, van de Zorgv
 
 4. Bij ministeriële regeling kan het recht op woningaanpassingen nader worden geregeld en afhankelijk worden gesteld van daarbij te stellen voorwaarden.
 
-#### Artikel 3.1.5
+##### Artikel 3.1.5
 
 De verzekerde heeft geen recht op zorg ingevolge de wet indien hij:
 
@@ -174,13 +200,13 @@ De verzekerde heeft geen recht op zorg ingevolge de wet indien hij:
 
 #### § 2. Bepalingen over indicatiebesluiten
 
-#### Artikel 3.2.1
+##### Artikel 3.2.1
 
 1. De aanvraag van een indicatiebesluit kan zowel mondeling als schriftelijk worden gedaan.
 
 2. Van een mondeling ingediende aanvraag maakt het CIZ een verslag waarin ten minste de in [artikel 4:2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:2) bedoelde ondertekening door de verzekerde en gegevens zijn opgenomen.
 
-#### Artikel 3.2.2
+##### Artikel 3.2.2
 
 1. De voorbereiding van een indicatiebesluit omvat in ieder geval een onderzoek van de verzekerde in persoon.
 
@@ -188,7 +214,7 @@ De verzekerde heeft geen recht op zorg ingevolge de wet indien hij:
 
 3. Bij ministeriële regeling kunnen regels worden gesteld over de voorbereiding van een indicatiebesluit en het onderzoek. In deze regels kan ook bepaald worden in welke gevallen het in het eerste lid bedoelde onderzoek niet hoeft plaats te vinden.
 
-#### Artikel 3.2.3
+##### Artikel 3.2.3
 
 Indien de verzekerde is aangewezen op zorg, vermeldt het indicatiebesluit:
 
@@ -206,25 +232,25 @@ Indien de verzekerde is aangewezen op zorg, vermeldt het indicatiebesluit:
 
 - g. de geldigheidsduur van het indicatiebesluit.
 
-#### Artikel 3.2.4
+##### Artikel 3.2.4
 
 1. Het CIZ neemt zo snel mogelijk, doch binnen zes weken na ontvangst van de aanvraag een beslissing op de aanvraag.
 
 2. Indien een verzekerde wegens bijzondere omstandigheden reeds in een instelling verblijft, wordt een indicatiebesluit uiterlijk binnen twee weken genomen. Indien de verzekerde ingevolge het indicatiebesluit is aangewezen op in de wet geregeld zorg, werkt het indicatiebesluit terug tot en met de dag waarop het verblijf is aangevangen met een maximale periode van twee weken.
 
-#### Artikel 3.2.5
+##### Artikel 3.2.5
 
 Een indicatiebesluit geldt voor onbepaalde tijd, tenzij het indicatiebesluit behoort tot een bij ministeriële regeling aangewezen categorie indicatiebesluiten waarvoor de geldigheidsduur wordt vastgesteld door het CIZ binnen de door deze regeling gestelde maximumduur.
 
 #### § 3.1. Eigen bijdrage algemeen
 
-#### Artikel 3.3.1.1
+##### Artikel 3.3.1.1
 
 1. De verzekerde van achttien jaar of ouder draagt bij in de kosten van de zorg.
 
 2. De eigen bijdrage is mede afhankelijk van het inkomen en het vermogen van de verzekerde en diens echtgenoot.
 
-#### Artikel 3.3.1.2
+##### Artikel 3.3.1.2
 
 1. Het vermogen van een persoon is zijn vermogensgrondslag, bedoeld in het tweede of derde lid, waarvan op aanvraag van de verzekerde wordt afgetrokken het bedrag ter grootte van door de verzekerde in het peiljaar of enig eerder jaar ontvangen eenmalige uitkeringen die bij ministeriële regeling van Onze Minister of Onze Minister van Financiën krachtens [artikel 47 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=47) zijn aangewezen, met dien verstande dat het vermogen ten minste nihil bedraagt.
 
@@ -236,7 +262,7 @@ Een indicatiebesluit geldt voor onbepaalde tijd, tenzij het indicatiebesluit beh
 
 5. Bij ministeriële regeling kan een periode worden vastgesteld gedurende welke het bedrag van een uitkering als bedoeld in het eerste lid, kan worden afgetrokken, welke periode kan verschillen per uitkering.
 
-#### Artikel 3.3.1.3
+##### Artikel 3.3.1.3
 
 1. De verzekerde is de eigen bijdrage verschuldigd aan het CAK.
 
@@ -250,13 +276,13 @@ Een indicatiebesluit geldt voor onbepaalde tijd, tenzij het indicatiebesluit beh
 
 - b. gegevens van het zorgkantoor over het verstrekken van zorg als bedoeld bij of krachtens de wet aan een verzekerde waaronder, indien van toepassing, de ingangsdatum van de periode waarover een persoonsgebonden budget wordt verleend.
 
-#### Artikel 3.3.1.4
+##### Artikel 3.3.1.4
 
 1. Een wijziging in de burgerlijke staat van de verzekerde en het bereiken van een voor de toepassing van dit besluit van belang zijnde leeftijd door de verzekerde of zijn echtgenoot wordt in aanmerking genomen met ingang van de datum waarop de bijdrage wordt vastgesteld, met dien verstande dat bij de jaarlijkse herberekening, bedoeld in [artikel 3.3.2.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.8&z=2026-04-01&g=2026-04-01), een verzekerde als pensioengerechtigde wordt beschouwd indien hij uiterlijk op 31 januari van het kalenderjaar waarop de herberekening betrekking heeft, de pensioengerechtigde leeftijd heeft bereikt.
 
 2. De verzekerde meldt aan het CAK wijzigingen als bedoeld in het eerste lid.
 
-#### Artikel 3.3.1.5
+##### Artikel 3.3.1.5
 
 1. De eigen bijdrage wordt zo spoedig mogelijk vastgesteld nadat de gegevens, bedoeld in [artikel 3.3.1.3, vierde lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.1&artikel=3.3.1.3&z=2026-04-01&g=2026-04-01), door het CAK zijn ontvangen.
 
@@ -270,7 +296,7 @@ Een indicatiebesluit geldt voor onbepaalde tijd, tenzij het indicatiebesluit beh
 
 - c. zich bijzondere of verzwarende omstandigheden voordoen voor de verzekerde.
 
-#### Artikel 3.3.1.6
+##### Artikel 3.3.1.6
 
 1. De eigen bijdrage wordt zo spoedig mogelijk herzien na het tijdstip waarop het CAK in kennis is gesteld van de omstandigheid die aanleiding geeft tot de wijziging.
 
@@ -296,7 +322,7 @@ Een indicatiebesluit geldt voor onbepaalde tijd, tenzij het indicatiebesluit beh
 
 8. De aanvraag, bedoeld in het zevende lid, wordt gedaan uiterlijk vijf jaar na het bekend worden bij de verzekerde van een omstandigheid die aanleiding geeft tot herziening van de bijdrage.
 
-#### Artikel 3.3.1.7
+##### Artikel 3.3.1.7
 
 1. Bij ministeriële regeling worden de bedragen, genoemd in de [artikelen 3.3.2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.1&z=2026-04-01&g=2026-04-01), [3.3.2.2, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.2&z=2026-04-01&g=2026-04-01) en [3.3.2.4, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.4&z=2026-04-01&g=2026-04-01), jaarlijks gewijzigd aan de hand van de prijsindex voor de gezinsconsumptie. De berekende bedragen worden naar beneden afgerond op een veelvoud van € 0,2. Bij de jaarlijkse toepassing van de eerste zin wordt de afronding buiten beschouwing gelaten.
 
@@ -304,7 +330,7 @@ Een indicatiebesluit geldt voor onbepaalde tijd, tenzij het indicatiebesluit beh
 
 #### § 3.2. De berekening van de eigen bijdragen
 
-#### Artikel 3.3.2.1
+##### Artikel 3.3.2.1
 
 1. De eigen bijdrage bedraagt per maand een twaalfde gedeelte van het bijdrageplichtig inkomen, berekend volgens [artikel 3.3.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.3&z=2026-04-01&g=2026-04-01), voor:
 
@@ -318,7 +344,7 @@ Een indicatiebesluit geldt voor onbepaalde tijd, tenzij het indicatiebesluit beh
 
 3. In het geval, bedoeld in het eerste lid, onderdeel c, zijn de verzekerde en zijn echtgenoot tezamen slechts eenmaal de eigen bijdrage, berekend overeenkomstig het eerste en tweede lid, verschuldigd.
 
-#### Artikel 3.3.2.2
+##### Artikel 3.3.2.2
 
 1. In afwijking van [artikel 3.3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.1&z=2026-04-01&g=2026-04-01) bedraagt een eigen bijdrage per maand een twaalfde gedeelte van 10% van het bijdrageplichtig inkomen, berekend volgens [artikel 3.3.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.4&z=2026-04-01&g=2026-04-01) voor:
 
@@ -384,7 +410,7 @@ Een indicatiebesluit geldt voor onbepaalde tijd, tenzij het indicatiebesluit beh
 
 11. De aanvraag, bedoeld in het negende lid, wordt gedaan uiterlijk vier maanden na afloop van het kalenderjaar waarop de aanvraag betrekking heeft of uiterlijk vier maanden na de datum waarop de bijdrage op basis van het bijdrageplichtig inkomen wordt vastgesteld.
 
-#### Artikel 3.3.2.3
+##### Artikel 3.3.2.3
 
 1. Het bijdrageplichtig inkomen, bedoeld in [artikel 3.3.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.1&z=2026-04-01&g=2026-04-01), wordt als volgt berekend:
 
@@ -408,7 +434,7 @@ Een indicatiebesluit geldt voor onbepaalde tijd, tenzij het indicatiebesluit beh
 
 5. Inkomen dat buiten Nederland wordt belast, dan wel is vrijgesteld van belasting op grond van bepalingen van internationaal recht, wordt mede in aanmerking genomen als ware dit aan de Nederlandse belastingwetgeving onderworpen. Op aanvraag van de verzekerde wordt daarop de in het buitenland verschuldigde belasting in mindering gebracht.
 
-#### Artikel 3.3.2.4
+##### Artikel 3.3.2.4
 
 1. Voor de berekening van de eigen bijdrage, bedoeld in [artikel 3.3.2.2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.2&z=2026-04-01&g=2026-04-01), bestaat het bijdrageplichtig inkomen uit het inkomen over het peiljaar van de ongehuwde verzekerde, onderscheidenlijk van de gehuwde verzekerden tezamen, vermeerderd met de vermogensinkomensbijtelling. Dit bijdrageplichtig inkomen wordt verminderd met € 7.727,60, indien een verzekerde een modulair pakket thuis of een persoonsgebonden budget ontvangt.
 
@@ -420,15 +446,15 @@ Een indicatiebesluit geldt voor onbepaalde tijd, tenzij het indicatiebesluit beh
 
 5. Inkomen dat in het buitenland wordt belast, dan wel is vrijgesteld van belasting op grond van bepalingen van internationaal recht, wordt mede in aanmerking genomen als ware dit aan de Nederlandse belastingwetgeving onderworpen. Op aanvraag van de verzekerde wordt daarop de in het buitenland verschuldigde belasting in mindering gebracht.
 
-#### Artikel 3.3.2.5
+##### Artikel 3.3.2.5
 
 Vervallen
 
-#### Artikel 3.3.2.6
+##### Artikel 3.3.2.6
 
 Indien [artikel 3.3.2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.3&z=2026-04-01&g=2026-04-01), van toepassing is, worden, in afwijking van artikel 3.3.2.3, eerste lid, onderdeel b, subonderdeel 2, twaalf maal het in het lopende kalenderjaar geldende bedrag voor zak- en kleedgeld, de in het lopende kalenderjaar te betalen premies voor een zorgverzekering gecorrigeerd voor de zorgtoeslag en, indien van toepassing, de algemene korting voor wie de pensioensgerechtigde leeftijd nog niet heeft bereikt onderscheidenlijk de algemene korting voor wie de pensioengerechtigde leeftijd heeft bereikt, alsmede extra vrijlatingen als bedoeld in artikel 3.3.2.3, eerste lid, onderdeel b, subonderdeel 2, in mindering gebracht.
 
-#### Artikel 3.3.2.7
+##### Artikel 3.3.2.7
 
 1. Indien ten aanzien van de ongehuwde verzekerde of de gehuwde verzekerde en diens echtgenoot geen voor de vaststelling van de eigen bijdrage benodigde gegevens inzake het inkomen en de rendementsgrondslag beschikbaar zijn:
 
@@ -438,13 +464,13 @@ Indien [artikel 3.3.2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR003
 
 2. Indien na de vaststelling van de eigen bijdrage uit alsnog beschikbaar gekomen gegevens inzake het inkomen of de rendementsgrondslag of uit een wijziging van deze gegevens, blijkt dat de eigen bijdrage op een te hoog of te laag bedrag is vastgesteld, herziet het CAK de eigen bijdrage met inachtneming van de beschikbaar gekomen gegevens dan wel van die wijziging.
 
-#### Artikel 3.3.2.8
+##### Artikel 3.3.2.8
 
 1. De hoogte van de eigen bijdrage wordt jaarlijks opnieuw berekend voor de periode van de eerste dag van januari tot en met de eenendertigste dag van de daaropvolgende maand december.
 
 2. In afwijking van [artikel 3.3.2.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.7&z=2026-04-01&g=2026-04-01), geldt, indien het inkomen bij de jaarlijkse herberekening nog moet worden vastgesteld, als eigen bijdrage, de eigen bijdrage die over de laatste maand in het vorige kalenderjaar verschuldigd was.
 
-#### Artikel 3.3.2.9
+##### Artikel 3.3.2.9
 
 1. Bij de berekening van de eigen bijdrage wordt afwezigheid uit de instelling, anders dan in verband met beëindiging van de zorgverlening, buiten beschouwing gelaten.
 
@@ -454,35 +480,35 @@ Indien [artikel 3.3.2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR003
 
 #### § 3.3. Eigen bijdrage voor modulair pakket thuis
 
-#### Artikel 3.3.3.1
+##### Artikel 3.3.3.1
 
 Vervallen
 
-#### Artikel 3.3.3.2
+##### Artikel 3.3.3.2
 
 Vervallen
 
-#### Artikel 3.3.3.3
+##### Artikel 3.3.3.3
 
 Vervallen
 
-#### Artikel 3.3.3.4
+##### Artikel 3.3.3.4
 
 Vervallen
 
 #### § 4. Wachttijd
 
-#### Artikel 3.4.1
+##### Artikel 3.4.1
 
 Degene die, komend van buiten Nederland, in Nederland is gaan wonen en als gevolg daarvan verzekerd is geworden in de zin van de wet, heeft gedurende de eerste twaalf maanden na het tijdstip waarop hij zich in Nederland heeft gevestigd, geen recht op zorg indien hij op dat tijdstip reeds op de desbetreffende zorg is aangewezen, dan wel indien de gezondheidstoestand van betrokkene kennelijk moest doen verwachten, dat hij binnen een half jaar op de desbetreffende zorg zou zijn aangewezen.
 
-#### Artikel 3.4.2
+##### Artikel 3.4.2
 
 1. In afwijking van [artikel 3.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=4&artikel=3.4.1&z=2026-04-01&g=2026-04-01) bedraagt voor de daar bedoelde verzekerde die in Nederland is gaan wonen binnen twaalf jaar nadat zijn verzekering ingevolge de wet of de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) laatstelijk is geëindigd of, indien het een minderjarige betreft, de verzekering ingevolge de wet dan wel de Algemene Wet Bijzondere Ziektekosten van zijn wettelijk vertegenwoordiger laatstelijk is geëindigd, de periode gedurende welke hij geen recht op de in artikel 3.4.1 bedoelde zorg heeft, een aantal maanden overeenkomend met het aantal volle jaren liggende tussen het tijdstip van vestiging in Nederland en het einde van het laatste tijdvak van verzekering ingevolge de wet dan wel de Algemene Wet Bijzondere Ziektekosten.
 
 2. Indien de verzekerde, bedoeld in het eerste lid, in die periode van twaalf jaar ten laste van Nederland recht heeft gehad op verstrekkingen met toepassing van een Verordening van de Raad van de Europese gemeenschappen of van een verdrag inzake sociale zekerheid waarbij Nederland partij is, wordt het aantal volle jaren gedurende welke hij dat recht ten laste van Nederland had, in mindering gebracht op de periode, bedoeld in het eerste lid.
 
-#### Artikel 3.4.3
+##### Artikel 3.4.3
 
 De [artikelen 3.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=4&artikel=3.4.1&z=2026-04-01&g=2026-04-01) en [3.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=4&artikel=3.4.2&z=2026-04-01&g=2026-04-01) zijn niet van toepassing op:
 
@@ -494,25 +520,25 @@ De [artikelen 3.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3
 
 #### § 4. Wachttijd
 
-#### Artikel 3.5.1
+##### Artikel 3.5.1
 
 In een besluit tot het verlenen van een modulair pakket thuis, drukt de Wlz-uitvoerder het recht op zorg van de verzekerde uit in modules, die bij ministeriële regeling per zorgprofiel worden vastgesteld.
 
-#### Artikel 3.5.2
+##### Artikel 3.5.2
 
 Bij ministeriële regeling kunnen regels worden gesteld over de berekening van de maximumkosten van een modulair pakket thuis, bedoeld in [artikel 3.3.2, vierde lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.3.2) en over de bestanddelen van de kosten die daarbij buiten beschouwing dienen te blijven.
 
-#### Artikel 3.5.3
+##### Artikel 3.5.3
 
 Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de aanvraag, de verlening of de weigering van een modulair pakket thuis of een volledig pakket thuis.
 
 #### § 5. Zorg in natura
 
-#### Artikel 3.6.1
+##### Artikel 3.6.1
 
 Een persoonsgebonden budget wordt per kalenderjaar verstrekt.
 
-#### Artikel 3.6.2
+##### Artikel 3.6.2
 
 1. Het zorgkantoor verleent geen persoonsgebonden budget indien:
 
@@ -528,7 +554,7 @@ Een persoonsgebonden budget wordt per kalenderjaar verstrekt.
 
 3. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de verlening of weigering van een persoonsgebonden budget.
 
-#### Artikel 3.6.3
+##### Artikel 3.6.3
 
 Een persoonsgebonden budget bedraagt ten hoogste een bij ministeriële regeling te bepalen bedrag. Bij deze regeling kunnen nadere regels worden gesteld omtrent de:
 
@@ -538,7 +564,7 @@ Een persoonsgebonden budget bedraagt ten hoogste een bij ministeriële regeling 
 
 - c. de hoogte van het bedrag indien de verzekerde naast het persoonsgebonden budget ook een modulair pakket thuis ontvangt of wenst te ontvangen.
 
-#### Artikel 3.6.4
+##### Artikel 3.6.4
 
 1. De verzekerde sluit een schriftelijke overeenkomst met iedere zorgaanbieder of mantelzorger die hij ten laste van zijn persoonsgebonden budget zorg wenst te laten verlenen.
 
@@ -548,7 +574,7 @@ Een persoonsgebonden budget bedraagt ten hoogste een bij ministeriële regeling 
 
 4. In afwijking van het eerste en het tweede lid kan de verzekerde zelf betalingen verrichten ten laste van zijn persoonsgebonden budget indien het gaat om kosten verbonden aan vervoer als bedoeld in [artikel 3.1.1, eerste lid, onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1) waarvoor de verzekerde geen schriftelijke overeenkomst heeft gesloten.
 
-#### Artikel 3.6.5
+##### Artikel 3.6.5
 
 1. Bij ministeriële regeling worden maximumtarieven vastgesteld voor de verlening van zorg die vanuit het persoonsgebonden budget kan worden bekostigd.
 
@@ -568,7 +594,7 @@ Een persoonsgebonden budget bedraagt ten hoogste een bij ministeriële regeling 
 
 4. Indien onderdeel a en onderdeel b, van het tweede lid, gelijktijdig van toepassing zijn op een mantelzorger, dan geldt het tarief voor mantelzorgers bedoeld in het tweede lid, onderdeel b.
 
-#### Artikel 3.6.6
+##### Artikel 3.6.6
 
 1. De Sociale verzekeringsbank voert het budgetbeheer uit:
 
@@ -582,7 +608,7 @@ Een persoonsgebonden budget bedraagt ten hoogste een bij ministeriële regeling 
 
 2. Bij ministeriële regeling worden regels gesteld omtrent het staken van betaling door de Sociale verzekeringsbank. Deze regels zullen in ieder geval betrekking hebben op betalingen in strijd met wettelijke voorschriften, in strijd met beschikkingen omtrent het persoonsgebonden budget of in strijd met overeenkomsten, bedoeld in het eerste lid.
 
-#### Artikel 3.6.7
+##### Artikel 3.6.7
 
 Bij ministeriële regeling kunnen regels worden gesteld in het belang van een goede uitvoering van het persoonsgebonden budget. Deze regels kunnen mede betrekking hebben op:
 
@@ -602,7 +628,7 @@ Bij ministeriële regeling kunnen regels worden gesteld in het belang van een go
 
 #### § 7. Levering buiten Nederland
 
-#### Artikel 3.7.1
+##### Artikel 3.7.1
 
 1. Aan een verzekerde wordt een vergoeding verstrekt voor kosten van zorg, indien die zorg buiten Nederland is verleend en anders dan op de in [artikel 3.3.1, eerste of tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.3.1) omschreven wijze is verkregen als gevolg van de navolgende omstandigheden:
 
@@ -626,7 +652,7 @@ Bij ministeriële regeling kunnen regels worden gesteld in het belang van een go
 
 5. De verzekerde heeft gedurende het reizen of het tijdelijk verblijven buiten Nederland geen recht op zorg of op een vergoeding van de kosten daarvan, indien de zorg aan de verzekerde wordt verleend door een instelling als bedoeld in [artikel 1.1.1, onderdeel 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=1.1.1) die tevens zorg verleent in het Europese deel van Nederland.
 
-#### Artikel 3.7.2
+##### Artikel 3.7.2
 
 1. De verzekerde kan een aan hem verleend persoonsgebonden budget voor ten hoogste dertien weken per kalenderjaar tijdens verblijf buiten een van de staten van de Europese Unie, de Europese Economische Ruimte of Zwitserland gebruiken voor betaling van zorg, indien die zorg is verkregen als voortzetting van reeds binnen Nederland aangevangen zorg.
 
@@ -650,7 +676,7 @@ waarbij wordt verstaan onder:
 
 #### § 7. Levering buiten Nederland
 
-#### Artikel 4.1.1
+##### Artikel 4.1.1
 
 1. Ten behoeve van de beoordeling, bedoeld in [artikel 4.1.1, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.1.1), gaat de zorgautoriteit ten minste na of de rechtspersoon die de wet wenst te gaan uitvoeren voldoet aan de volgende eisen:
 
@@ -676,7 +702,7 @@ waarbij wordt verstaan onder:
 
 4. De zorgautoriteit is bevoegd nadere regels te stellen omtrent de inhoud van het programma van werkzaamheden.
 
-#### Artikel 4.1.2
+##### Artikel 4.1.2
 
 1. De zorgautoriteit stelt vast of de Wlz-uitvoerder er zorg voor heeft gedragen dat de geschiktheid en de betrouwbaarheid van personen als bedoeld in [artikel 4.1.1, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.1.1) buiten twijfel staat, op basis van de voornemens, handelingen en antecedenten van deze personen.
 
@@ -734,7 +760,7 @@ waarbij wordt verstaan onder:
 
 #### § 1. De aan- en afmelding en de statuten
 
-#### Artikel 4.2.1
+##### Artikel 4.2.1
 
 1. De regio’s, bedoeld in [artikel 4.2.4, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4) zijn:
 
@@ -802,7 +828,7 @@ waarbij wordt verstaan onder:
 
 2. Bij ministeriële regeling wordt bepaald welke gemeenten tot welke regio behoren.
 
-#### Artikel 4.2.2
+##### Artikel 4.2.2
 
 1. De administratieve werkzaamheden die een op grond van [artikel 4.2.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4) aangewezen Wlz-uitvoerder verricht, betreffen:
 
@@ -814,7 +840,7 @@ waarbij wordt verstaan onder:
 
 #### § 2. Regels ten behoeve van de aanwijzing, bedoeld in [artikel 4.2.4, tweede lid, Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4)
 
-#### Artikel 4.3.1
+##### Artikel 4.3.1
 
 Een Wlz-uitvoerder besteedt de uitvoering van [artikel 4.2.1, eerste lid, onderdelen a, en b, onder 2° en 3°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.1), middellijk noch onmiddellijk uit aan een zorgaanbieder.
 
@@ -822,7 +848,7 @@ Een Wlz-uitvoerder besteedt de uitvoering van [artikel 4.2.1, eerste lid, onderd
 
 #### § 3. Uitbestedingsverbod
 
-#### Artikel 5.1.1
+##### Artikel 5.1.1
 
 1. Het Zorginstituut voert ten behoeve van de gezamenlijke zorg voor de instandhouding van het elektronisch gegevensverkeer, bedoeld in [artikel 9.1.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=9.1.6), de volgende beheertaken uit:
 
@@ -836,7 +862,7 @@ Een Wlz-uitvoerder besteedt de uitvoering van [artikel 4.2.1, eerste lid, onderd
 
 #### § 1. Zorginstituut
 
-#### Artikel 5.2.1
+##### Artikel 5.2.1
 
 1. Het CIZ beoordeelt of een verzekerde op grond van [artikel 10.1.4, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=10.1.4), in aanmerking komt voor ADL-assistentie.
 
@@ -846,17 +872,17 @@ Een Wlz-uitvoerder besteedt de uitvoering van [artikel 4.2.1, eerste lid, onderd
 
 4. Indien daartoe aanleiding bestaat, verzoekt het CIZ de zorgvrager, bedoeld in het tweede lid, zich te behoeve van het onderzoek in persoon te melden. De daaraan verbonden reis- en verblijfskosten zijn voor rekening van de zorgvrager.
 
-#### Artikel 5.2.2
+##### Artikel 5.2.2
 
 Vervallen
 
-#### Artikel 5.2.3
+##### Artikel 5.2.3
 
 Het verbod op mandaatverlening, bedoeld in [artikel 7.1.2, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=7.1.2), geldt niet voor door Onze Minister aangewezen organisaties die voor 1 januari 2015 experimenten uitvoerden met regelarme indicatiestelling.
 
 ### Hoofdstuk 6. Zorgplanbespreking
 
-#### Artikel 6.1.1
+##### Artikel 6.1.1
 
 Bij de bespreking, bedoeld in [artikel 8.1.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=8.1.1), tussen de zorgaanbieder en de verzekerde die zijn zorg geleverd wenst te krijgen in natura over de wijze waarop de verzekerde zijn leven wenst in te richten en de ondersteuning die de verzekerde daarbij van de zorgaanbieder zal ontvangen, wordt in ieder geval aandacht besteed aan:
 
@@ -880,7 +906,7 @@ Bij de bespreking, bedoeld in [artikel 8.1.1, eerste lid, van de wet](https://we
 
 ### Hoofdstuk 6. Zorgplanbespreking
 
-#### Artikel 7.1.1
+##### Artikel 7.1.1
 
 1. Het Zorginstituut verstrekt aan organisaties subsidies voor het verlenen van ADL-assistentie voor zover die organisaties de ADL-assistentie verlenen aan verzekerden die woonachtig zijn in ADL-woningen.
 
@@ -902,125 +928,125 @@ Bij de bespreking, bedoeld in [artikel 8.1.1, eerste lid, van de wet](https://we
 
 #### § 1. Volksgezondheid, Welzijn en Sport
 
-#### Artikel 8.1.1
+##### Artikel 8.1.1
 
 Wijzigt het Besluit beschikbaarheidbijdrage WMG.
 
-#### Artikel 8.1.2
+##### Artikel 8.1.2
 
 Wijzigt het Besluit uitbreiding en beperking werkingssfeer WMG.
 
-#### Artikel 8.1.3
+##### Artikel 8.1.3
 
 Wijzigt het Uitvoeringsbesluit WTZi.
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel 8.1.4
+##### Artikel 8.1.4
 
 Wijzigt het Uitvoeringsbesluit artikel 1, tweede lid, Kwaliteitswet zorginstellingen, enz.
 
-#### Artikel 8.1.5
+##### Artikel 8.1.5
 
 Wijzigt het Besluit zorgverzekering.
 
-#### Artikel 8.1.6
+##### Artikel 8.1.6
 
 Wijzigt het Besluit gebruik burgerservicenummer in de zorg.
 
-#### Artikel 8.1.7
+##### Artikel 8.1.7
 
 Wijzigt het Aanpassingsbesluit Zorgverzekeringswet.
 
-#### Artikel 8.1.8
+##### Artikel 8.1.8
 
 Wijzigt het Besluit Jeugdwet.
 
-#### Artikel 8.1.9
+##### Artikel 8.1.9
 
 Wijzigt het Uitvoeringsbesluit Wmo 2015.
 
 #### § 2. Financiën
 
-#### Artikel 8.2.2
+##### Artikel 8.2.2
 
 Wijzigt het Uitvoeringsbesluit inkomstenbelasting 2001.
 
 #### § 2. Financiën
 
-#### Artikel 8.3.1
+##### Artikel 8.3.1
 
 Wijzigt het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999.
 
-#### Artikel 8.3.2
+##### Artikel 8.3.2
 
 Wijzigt het Besluit Wfsv.
 
-#### Artikel 8.3.3
+##### Artikel 8.3.3
 
 Wijzigt het Besluit SUWI.
 
-#### Artikel 8.3.4
+##### Artikel 8.3.4
 
 Wijzigt het Besluit aanwijzing registraties gezamenlijke huishouding 1998.
 
-#### Artikel 8.3.5
+##### Artikel 8.3.5
 
 Wijzigt het Besluit uitvoering sociale werkvoorziening en begeleid werken.
 
-#### Artikel 8.3.6
+##### Artikel 8.3.6
 
 Wijzigt het Schattingsbesluit arbeidsongeschiktheidswetten.
 
 #### § 3. Sociale Zaken en Werkgelegenheid
 
-#### Artikel 8.4.1
+##### Artikel 8.4.1
 
 Wijzigt het Interimbesluit forensische zorg.
 
-#### Artikel 8.4.2
+##### Artikel 8.4.2
 
 Wijzigt het Reglement verpleging ter beschikking gestelden.
 
-#### Artikel 8.4.3
+##### Artikel 8.4.3
 
 Wijzigt de Penitentiaire maatregel.
 
-#### Artikel 8.4.4
+##### Artikel 8.4.4
 
 Wijzigt het Vrijstellingsbesluit Wbp.
 
 #### § 5. Wonen en Rijksdienst
 
-#### Artikel 8.5.1
+##### Artikel 8.5.1
 
 Wijzigt het Besluit op de huurtoeslag.
 
 #### § 4. Veiligheid en Justitie
 
-#### Artikel 8.6.1
+##### Artikel 8.6.1
 
 Wijzigt het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen.
 
-#### Artikel 8.6.2
+##### Artikel 8.6.2
 
 Wijzigt het Besluit bijzondere militaire pensioenen.
 
 #### § 6. Defensie
 
-#### Artikel 8.7.1
+##### Artikel 8.7.1
 
 Wijzigt het Besluit administratieve bepalingen inzake het wegverkeer (BABW).
 
 #### § 5. Wonen en Rijksdienst
 
-#### Artikel 8.8.1
+##### Artikel 8.8.1
 
 Wijzigt het Besluit Bibob.
 
 #### § 6. Defensie
 
-#### Artikel 8.9.1
+##### Artikel 8.9.1
 
 Wijzigt het Besluit tijdelijke verruiming toepassingsbereik concentratietoezicht op ondernemingen die zorg verlenen.
 
@@ -1028,65 +1054,65 @@ Wijzigt het Besluit tijdelijke verruiming toepassingsbereik concentratietoezicht
 
 ### Hoofdstuk 9. Innovatie
 
-#### Artikel 10.1
+##### Artikel 10.1
 
 Het [Administratiebesluit Bijzondere Ziektekostenverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0003585) wordt ingetrokken.
 
-#### Artikel 10.2
+##### Artikel 10.2
 
 Het [Besluit wachttijd bijzondere ziektekostenverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0005337) wordt ingetrokken.
 
-#### Artikel 10.3
+##### Artikel 10.3
 
 Het [Besluit zorgaanspraken AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0014149) wordt ingetrokken.
 
-#### Artikel 10.4
+##### Artikel 10.4
 
 Het [Besluit zorgplanbespreking AWBZ-zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0025521) wordt ingetrokken.
 
-#### Artikel 10.5
+##### Artikel 10.5
 
 Het [Bijdragebesluit zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0008253) wordt ingetrokken.
 
-#### Artikel 10.6
+##### Artikel 10.6
 
 Het [Inschrijvingsbesluit bijzondere ziektekostenverzekering 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005335) wordt ingetrokken.
 
-#### Artikel 10.7
+##### Artikel 10.7
 
 Het [Zorgindicatiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008946) wordt ingetrokken.
 
-#### Artikel 10.8
+##### Artikel 10.8
 
 Na de inwerkingtreding van de wet berust het [Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010182) mede op [artikel 2.1.1, vierde en vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=2.1.1).
 
-#### Artikel 10.9
+##### Artikel 10.9
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2016/484.
 
 Tot uiterlijk 1 mei 2015 is het [derde lid van artikel 2.10 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.10) niet van toepassing op de verzekerde aan wie onmiddellijk voorafgaand aan de intrekking van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) een persoonsgebonden budget op grond van die wet was verleend voor persoonlijke verzorging als bedoeld in [artikel 4 van het Besluit zorgaanspraken AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=4) of voor verpleging als bedoeld in [artikel 5 van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=5).
 
-#### Artikel 10.10
+##### Artikel 10.10
 
 Een zorgkantoor zorgt in afwijking van [artikel 7.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=7&artikel=7.1.2&z=2026-04-01&g=2026-04-01) voor een project voor preventieve maatregelen waaraan het deelneemt op het tijdstip van inwerkingtreding van artikel I, onderdeel B, van het Besluit van 4 februari 2026 tot wijziging van het Besluit langdurige zorg in verband met regels inzake maatregelen van zorgkantoren gericht op voorkoming, vermindering of uitstel van de behoefte aan zorg op grond van de Wet langdurige zorg en tot wijziging van het Besluit Wfsv (Stb. 2026, 24), binnen drie maanden na dat tijdstip, voor een projectplan dat voldoet aan artikel 7.1.2.
 
-#### Artikel 10.11
+##### Artikel 10.11
 
 Bij ministeriële regeling kunnen ten behoeve van een goede uitvoering van dit besluit nadere regels worden gesteld met betrekking tot de in dit besluit geregelde onderwerpen.
 
-#### Artikel 10.12
+##### Artikel 10.12
 
 1. Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
 2. [Artikel 8.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=8&paragraaf=1&artikel=8.1.3&z=2026-04-01&g=2026-04-01) werkt terug tot en met de datum waarop [de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) in werking treedt.
 
-#### Artikel 10.13
+##### Artikel 10.13
 
 Dit besluit wordt aangehaald als: Besluit langdurige zorg.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 10.10a
+##### Artikel 10.10a
 
 Vervallen
 
@@ -1094,31 +1120,31 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### § 7. Infrastructuur en Milieu
 
-#### Artikel 9.1. Begripsbepalingen
+##### Artikel 9.1. Begripsbepalingen
 
 Vervallen
 
-#### Artikel 9.2. Doel van het experiment
+##### Artikel 9.2. Doel van het experiment
 
 Vervallen
 
-#### Artikel 9.3. Reikwijdte en toegang tot het experiment.
+##### Artikel 9.3. Reikwijdte en toegang tot het experiment.
 
 Vervallen
 
-#### Artikel 9.4. Ondersteuningsplan
+##### Artikel 9.4. Ondersteuningsplan
 
 Vervallen
 
-#### Artikel 9.5. Organisatie integraal budget
+##### Artikel 9.5. Organisatie integraal budget
 
 Vervallen
 
-#### Artikel 9.6. Verlening, -vaststelling van het integrale budget en trekkingsrecht
+##### Artikel 9.6. Verlening, -vaststelling van het integrale budget en trekkingsrecht
 
 Vervallen
 
-#### Artikel 9.7. Evaluatie
+##### Artikel 9.7. Evaluatie
 
 Vervallen
 
@@ -1128,7 +1154,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 3.3.2.4a
+##### Artikel 3.3.2.4a
 
 Vervallen
 
@@ -1186,7 +1212,7 @@ Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 3.3.1.2a
+##### Artikel 3.3.1.2a
 
 De vermogensinkomensbijtelling bedraagt 4% van het vermogen van de ongehuwde verzekerde, dan wel de opgetelde vermogens van de gehuwde verzekerden.
 
@@ -1234,7 +1260,7 @@ De vermogensinkomensbijtelling bedraagt 4% van het vermogen van de ongehuwde ver
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 3.3.2.2a
+##### Artikel 3.3.2.2a
 
 1. In geval aan een verzekerde of gehuwde verzekerden tezamen meerdere leveringsvormen zijn toegekend, wordt met het oog op de samenloop van bijdragen bij de toepassing van de [artikelen 3.3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.1&z=2026-04-01&g=2026-04-01) en [3.3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.2&z=2026-04-01&g=2026-04-01) de volgende rangorde in acht genomen bij de verschuldigdheid van bijdragen door de ongehuwde verzekerde of de gehuwde verzekerden tezamen:
 
@@ -1280,7 +1306,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 2.1.5
+##### Artikel 2.1.5
 
 Als regio als bedoeld in [artikel 2.2.1, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=2.2.1) wordt aangewezen Utrecht.
 
@@ -1320,7 +1346,7 @@ Als regio als bedoeld in [artikel 2.2.1, eerste lid, onderdeel b, van de wet](ht
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 7.1.2
+##### Artikel 7.1.2
 
 Een zorgkantoor zorgt voorafgaand aan het deelnemen aan een project voor preventieve maatregelen voor een projectplan waarin worden opgenomen:
 
@@ -1336,11 +1362,11 @@ Een zorgkantoor zorgt voorafgaand aan het deelnemen aan een project voor prevent
 
 - f. een aannemelijke en navolgbare onderbouwing dat het bedrag van de verwachte besparing van kosten voor het op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) verzekerde pakket ten minste overeenkomt met de financiële bijdrage van het zorgkantoor.
 
-#### Artikel 7.1.3
+##### Artikel 7.1.3
 
 De financiële bijdrage van het zorgkantoor aan het project voor preventieve maatregelen bedraagt niet meer dan de in het projectplan aannemelijk en navolgbaar onderbouwde verwachte besparing van kosten van het op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) verzekerde pakket.
 
-#### Artikel 7.1.4
+##### Artikel 7.1.4
 
 1. Het zorgkantoor zorgt jaarlijks voor 1 juli voor de monitoring van het project over het voorafgaande kalenderjaar.
 

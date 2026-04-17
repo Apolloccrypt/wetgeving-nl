@@ -1,13 +1,39 @@
 ---
-title: "Aanvullend Protocol bij het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens inzake toezichthoudende autoriteiten en grensoverschrijdend verkeer van gegeven"
+title: "Aanvullend Protocol bij het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens inzake toezichthoudende autoriteiten en grensoverschrijdend verkeer van gegevens"
 identifier: "BWBV0002948"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2005-01-01
-laatste_update: 2001-11-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002948"
+country: "nl"
+rank: "verdrag"
+publication_date: "2005-01-01"
+last_updated: "2001-11-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002948"
+soort: "verdrag"
+stam_id: "10003265543"
+version_id: "10003286942"
+internal_id: "C10006994331"
+label_id: "10003251324"
+dtd_version: "2.0"
+original_entry_into_force: "2005-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002948/2005-01-01/0"
+intitule_bron: "Trb.2003-122"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-09-08"
+intitule_published: "2003-08-06"
+intitule_in_force: "2004-11-30"
+intitule_status: "goed"
+original_publication: "Trb.2003-122"
+original_signed_date: "2004-09-08"
+original_published_date: "2003-08-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2003-122"
+entry_into_force_date: "2005-01-01"
+jci_1_3: "jci1.3:c:BWBV0002948&z=2005-01-01&g=2005-01-01"
+jci_1_0: "1.0:c:BWBV0002948&g=2005-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Aanvullend Protocol bij het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens inzake toezichthoudende autoriteiten en grensoverschrijdend verkeer van gegeven"
+signed_date: "2004-09-08"
+entry_into_force: "2005-01-01"
 ---
-
 # Aanvullend Protocol bij het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens inzake toezichthoudende autoriteiten en grensoverschrijdend verkeer van gegevens
 
 Preambule
@@ -22,7 +48,7 @@ Overwegend dat vanwege de toename van het aantal grensoverschrijdende uitwisseli
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Toezichthoudende autoriteiten
+##### Artikel 1. Toezichthoudende autoriteiten
 
 1. Elke Partij stelt een of meer autoriteiten verantwoordelijk voor het toezicht op de naleving van de maatregelen in haar nationale recht waarmee uitvoering wordt gegeven aan de grondbeginselen vervat in de [hoofdstukken II en III van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002783&hoofdstuk=II) en in dit Protocol.
 
@@ -36,7 +62,7 @@ Zijn het volgende overeengekomen:
 
 5. In overeenstemming met de bepalingen van [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBV0002783&hoofdstuk=IV) en onverminderd de bepalingen van [artikel 13 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002783&artikel=13), werken de toezichthoudende autoriteiten met elkaar samen voor zover nodig voor de vervulling van hun taken, in het bijzonder door uitwisseling van alle nuttige informatie.
 
-#### Artikel 2. Grensoverschrijdend verkeer van persoonsgegevens naar een ontvanger die niet onder de rechtsmacht valt van een Partij bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002783)
+##### Artikel 2. Grensoverschrijdend verkeer van persoonsgegevens naar een ontvanger die niet onder de rechtsmacht valt van een Partij bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002783)
 
 1. Elke Partij bepaalt dat de doorgifte van persoonsgegevens naar een ontvanger die valt onder de rechtsmacht van een staat of organisatie die geen Partij is bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002783) uitsluitend kan plaatsvinden wanneer die staat of organisatie een passend niveau van bescherming waarborgt voor de beoogde gegevensoverdracht.
 
@@ -50,7 +76,7 @@ Zijn het volgende overeengekomen:
 
 - b. indien de houder die verantwoordelijk is voor de overdracht voorziet in waarborgen die met name kunnen voortvloeien uit contractuele bepalingen en deze voldoende worden geacht door de bevoegde autoriteiten overeenkomstig het nationale recht.
 
-#### Artikel 3. Slotbepalingen
+##### Artikel 3. Slotbepalingen
 
 1. De Partijen beschouwen de artikelen 1 en 2 van dit Protocol als aanvullende artikelen bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002783) en alle bepalingen van het Verdrag zijn van overeenkomstige toepassing.
 

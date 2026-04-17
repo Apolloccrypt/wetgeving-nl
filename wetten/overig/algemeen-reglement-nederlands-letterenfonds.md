@@ -1,13 +1,35 @@
 ---
 title: "Algemeen reglement Nederlands Letterenfonds"
 identifier: "BWBR0032735"
-categorie: "Overig"
-publicatiedatum: 2013-01-01
-laatste_update: 2013-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032735"
+country: "nl"
+rank: "zbo"
+publication_date: "2013-01-01"
+last_updated: "2013-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032735"
+soort: "zbo"
+stam_id: "12039183"
+version_id: "20052052"
+internal_id: "C28175681"
+label_id: "12011064"
+dtd_version: "2.0"
+original_entry_into_force: "2013-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032735/2013-01-01/0"
+intitule_bron: "Stcrt.2013-683"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2013-01-15"
+intitule_in_force: "2013-01-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-683"
+original_published_date: "2013-01-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-683"
+entry_into_force_date: "2013-01-01"
+jci_1_3: "jci1.3:c:BWBR0032735&z=2013-01-01&g=2013-01-01"
+jci_1_0: "1.0:c:BWBR0032735&g=2013-01-01"
+citeertitel_status: "officieel"
+entry_into_force: "2013-01-01"
 ---
-
 # Algemeen reglement Nederlands Letterenfonds
 
 Gelet op de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
@@ -20,7 +42,7 @@ Besluit:
 
 De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -44,7 +66,7 @@ In deze regeling wordt verstaan onder:
 
 - 10. **wet:** de [Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904).
 
-#### Artikel 2. Toepasselijkheid
+##### Artikel 2. Toepasselijkheid
 
 1. Het Algemeen reglement is van toepassing op alle aanvragen die bij het bestuur worden ingediend en de subsidies die het Letterenfonds verstrekt.
 
@@ -52,11 +74,11 @@ In deze regeling wordt verstaan onder:
 
 3. [Titel 4.2 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2) is van toepassing op de verstrekking van subsidie op basis van deze regeling.
 
-#### Artikel 3. Doelstelling
+##### Artikel 3. Doelstelling
 
 Het bestuur kan subsidie verstrekken voor activiteiten die bijdragen aan één of meer doelstellingen van het Letterenfonds zoals genoemd in de statuten van het Letterenfonds.
 
-#### Artikel 4. Kring van aanvragers
+##### Artikel 4. Kring van aanvragers
 
 Het Letterenfonds kan op aanvraag subsidie verstrekken aan:
 
@@ -68,7 +90,7 @@ Het Letterenfonds kan op aanvraag subsidie verstrekken aan:
 
 - d. rechtspersonen met volledige rechtsbevoegdheid die mede tot doel hebben de schepping, productie, publicatie, distributie, presentatie of promotie van oorspronkelijk Nederlands- en Friestalige literaire werken dan wel van literaire vertalingen uit dan wel in de Nederlandse of Friese taal.
 
-#### Artikel 5. Vereisten
+##### Artikel 5. Vereisten
 
 1. Een subsidie kan slechts worden verleend, indien naar het oordeel van het bestuur:
 
@@ -94,11 +116,11 @@ Het Letterenfonds kan op aanvraag subsidie verstrekken aan:
 
 - d. de in Nederland gevestigde rechtspersoon, voor zover niet op winst gericht, werkt overeenkomstig de Code Cultural Governance.
 
-#### Artikel 6. Begrotingsvoorbehoud
+##### Artikel 6. Begrotingsvoorbehoud
 
 Een subsidie wordt verleend onder de voorwaarde dat de Minister daartoe in enig tijdvak bijbehorende financiële middelen aan het Letterenfonds ter beschikking stelt.
 
-#### Artikel 7. Subsidieplafond
+##### Artikel 7. Subsidieplafond
 
 1. Het bestuur kan per deelregeling één of meer subsidieplafonds vaststellen en bepalen hoe het beschikbare bedrag wordt verdeeld.
 
@@ -106,21 +128,21 @@ Een subsidie wordt verleend onder de voorwaarde dat de Minister daartoe in enig 
 
 3. Het subsidieplafond kan per ronde of kalenderjaar verschillen en wordt gepubliceerd op de website van het Letterenfonds, www.letterenfonds.nl.
 
-#### Artikel 8. Subsidievorm
+##### Artikel 8. Subsidievorm
 
 Het bestuur verstrekt projectsubsidies en meerjarige subsidies.
 
-#### Artikel 9. Weigeringsgronden
+##### Artikel 9. Weigeringsgronden
 
 1. Onverminderd het bepaalde in de [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537), wordt een aanvraag voor een subsidie afgewezen, indien naar het oordeel van het bestuur niet wordt voldaan aan het bepaalde in het Algemeen reglement of de van toepassing zijnde deelregeling.
 
 2. Een aanvraag voor subsidie kan verder worden afgewezen, indien de aanvrager voor dezelfde activiteiten en binnen hetzelfde tijdvak reeds subsidie ontvangt van het Letterenfonds of de Minister op grond van de [Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005904).
 
-#### Artikel 10. Aanvraagtermijn
+##### Artikel 10. Aanvraagtermijn
 
 De aanvraag kan het gehele jaar door worden ingediend, tenzij bij deelregeling anders is bepaald.
 
-#### Artikel 11. Aanvraag
+##### Artikel 11. Aanvraag
 
 1. De aanvraag voor een subsidie wordt ingediend met behulp van een daartoe door het Letterenfonds vastgesteld aanvraagformulier.
 
@@ -150,15 +172,15 @@ De aanvraag kan het gehele jaar door worden ingediend, tenzij bij deelregeling a
 
 - b. een verklaring waarin hij garandeert dat zijn financiële positie, en dan met name de relatie tussen beschikbare middelen en aangegane verplichtingen, voorafgaand aan de aanvraag geen negatieve ontwikkeling heeft gekend die bedreigend is geweest voor de stabiliteit en solvabiliteit van de aanvrager en, naar reële verwachting, deze ook niet zal kennen.
 
-#### Artikel 12. Beoordelingscriteria
+##### Artikel 12. Beoordelingscriteria
 
 Het bestuur beoordeelt de aanvraag op grond van de doelstellingen zoals genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032735&artikel=3&z=2013-01-01&g=2013-01-01) en de daarmee verbonden beoordelingscriteria kwaliteit en diversiteit. De deelregelingen bevatten nadere beoordelingscriteria.
 
-#### Artikel 13. Hoogte van het subsidiebedrag
+##### Artikel 13. Hoogte van het subsidiebedrag
 
 Het bestuur kan richtbedragen vaststellen voor de hoogte van het subsidiebedrag. Deze richtbedragen worden gepubliceerd op de website van het Letterenfonds, www.letterenfonds.nl.
 
-#### Artikel 14. Advies inwinnen
+##### Artikel 14. Advies inwinnen
 
 1. Het bestuur kan een aanvraag voor subsidie ter advisering voorleggen aan een adviescommissie bestaande uit leden van de raad van advies of aan externe adviseurs.
 
@@ -166,7 +188,7 @@ Het bestuur kan richtbedragen vaststellen voor de hoogte van het subsidiebedrag.
 
 3. Het bestuur betrekt de door de raad van advies of externe adviseurs uitgebrachte adviezen bij de beoordeling van de aanvraag.
 
-#### Artikel 15. Verplichtingen
+##### Artikel 15. Verplichtingen
 
 1. Het bestuur legt aan de subsidieontvanger de verplichting op dat:
 
@@ -200,17 +222,17 @@ Het bestuur kan richtbedragen vaststellen voor de hoogte van het subsidiebedrag.
 
 - c. de subsidieontvanger meewerkt aan dan wel er zorg voor draagt dat de accountant meewerkt aan onderzoeken naar de door hem verrichte (controle)werkzaamheden door een door het bestuur van het Letterenfonds aan te wijzen partij. De daaraan verbonden kosten worden geacht te zijn begrepen in de subsidie.
 
-#### Artikel 16. Beleidsprioriteiten
+##### Artikel 16. Beleidsprioriteiten
 
 Het bestuur kan met inachtneming van deze regeling, buiten het toepassingsgebied van de deelregelingen, een subsidie verstrekken ter uitvoering van door het bestuur vastgestelde beleidsprioriteiten.
 
-#### Artikel 17. Subsidieverlening en -vaststelling
+##### Artikel 17. Subsidieverlening en -vaststelling
 
 1. Het bestuur geeft, indien een subsidie wordt verstrekt, direct een beschikking tot subsidievaststelling tenzij in de deelregeling anders is bepaald.
 
 2. De beschikking tot subsidieverlening of -vaststelling gaat vergezeld van een algemene motivering. Een nader op het individuele geval toegespitste motivering wordt op verzoek van de aanvrager verstrekt of wanneer het bestuur dit noodzakelijk acht.
 
-#### Artikel 18. Termijnen
+##### Artikel 18. Termijnen
 
 1. Het bestuur beslist binnen 13 weken na ontvangst van de aanvraag of, indien sprake is van een subsidieplafond en de toekenning plaatsvindt in volgorde van rangschikking of evenredige verdeling, binnen 13 weken na afloop van de periode waarin aanvragen kunnen worden ingediend.
 
@@ -218,7 +240,7 @@ Het bestuur kan met inachtneming van deze regeling, buiten het toepassingsgebied
 
 3. Indien het bestuur een beschikking tot subsidieverlening heeft gegeven, wordt de aanvraag van een beschikking tot subsidievaststelling ingediend binnen 13 weken na het verrichten van de activiteiten waarvoor de subsidie is verleend dan wel binnen een in een deelregeling of verleningsbeschikking op te nemen afwijkende termijn. De beschikking tot subsidievaststelling wordt gegeven binnen 22 weken na de aanvraag daarvan.
 
-#### Artikel 19. Voorschot, termijn en betaling
+##### Artikel 19. Voorschot, termijn en betaling
 
 1. Indien de beschikking tot subsidievaststelling direct wordt gegeven, wordt de wijze van betaling in de beschikking bepaald.
 
@@ -226,7 +248,7 @@ Het bestuur kan met inachtneming van deze regeling, buiten het toepassingsgebied
 
 3. Binnen acht weken na dagtekening van het besluit tot subsidievaststelling wordt het subsidiebedrag betaald of verrekend met betaalde voorschotten, tenzij in de vaststellingsbeschikking anders is bepaald.
 
-#### Artikel 20. Verantwoording
+##### Artikel 20. Verantwoording
 
 1. Het bestuur kan een steekproef laten uitvoeren. De subsidieontvanger toont in dat geval aan dat is voldaan aan de subsidieverplichtingen. Bij deelregeling of bij besluit kan worden aangegeven op welke wijze dit geschiedt.
 
@@ -236,7 +258,7 @@ Het bestuur kan met inachtneming van deze regeling, buiten het toepassingsgebied
 
 - b. de subsidieontvanger rekening en verantwoording aflegt aan de hand van een financieel verslag. [Artikel 4:76 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:76) is dan van overeenkomstige toepassing. Het financieel verslag gaat vergezeld van een verklaring omtrent de getrouwheid en de rechtmatigheid, afgegeven door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
 
-#### Artikel 21. Intrekkings- en wijzigingsgronden subsidieverlening en -vaststelling
+##### Artikel 21. Intrekkings- en wijzigingsgronden subsidieverlening en -vaststelling
 
 1. Het bestuur kan de subsidieverlening of -vaststelling intrekken of wijzigen als de subsidieontvanger niet heeft voldaan aan de aan de subsidie verbonden verplichtingen.
 
@@ -248,7 +270,7 @@ Het bestuur kan met inachtneming van deze regeling, buiten het toepassingsgebied
 
 5. Het bedrag waarmee de subsidie eventueel wordt verlaagd wordt verrekend met eventueel reeds betaalde gedeelten van de subsidie of teruggevorderd. Indien de subsidieontvanger niet heeft voldaan aan de meldplicht zoals genoemd in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032735&artikel=15&z=2013-01-01&g=2013-01-01), kan het bestuur de subsidie op nihil stellen en het subsidiebedrag inclusief de verschuldigde wettelijke rente terugvorderen.
 
-#### Artikel 22. Bepalingen bij overlijden ontvanger
+##### Artikel 22. Bepalingen bij overlijden ontvanger
 
 1. Degene die als erfgenaam aanspraken jegens het Letterenfonds wil doen gelden bij overlijden van de subsidieontvanger dient een verklaring van erfrecht te overleggen waaruit blijkt dat hij daartoe gerechtigd is.
 
@@ -258,7 +280,7 @@ Het bestuur kan met inachtneming van deze regeling, buiten het toepassingsgebied
 
 4. In een deelregeling kan het bestuur rechten en verplichtingen regelen die tussen het Letterenfonds en de erfgenamen bestaan vanaf het moment van overlijden en procedureregels vaststellen betreffende de uitoefening van genoemde rechten en verplichtingen.
 
-#### Artikel 23. Slot- en overgangsbepalingen
+##### Artikel 23. Slot- en overgangsbepalingen
 
 1. In alle gevallen waarin deze regeling niet voorziet, beslist het bestuur.
 

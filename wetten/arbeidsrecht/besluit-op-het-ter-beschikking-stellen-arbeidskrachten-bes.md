@@ -1,16 +1,41 @@
 ---
 title: "Besluit op het ter beschikking stellen arbeidskrachten BES"
 identifier: "BWBR0028416"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028416"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028416"
+soort: "AMvB-BES"
+stam_id: "10778093"
+version_id: "17754662"
+internal_id: "C24840121"
+label_id: "10752764"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028416/2010-10-10/0"
+intitule_bron: "Stb.2010-618"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-16"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-618"
+original_signed_date: "2010-09-16"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-618"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028416&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028416&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-16"
+entry_into_force: "2010-10-10"
 ---
-
 # Besluit op het ter beschikking stellen arbeidskrachten BES
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -18,25 +43,25 @@ In dit besluit wordt verstaan onder:
 
 - b. **vergunning:** een vergunning als bedoeld in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028435&artikel=2).
 
-#### Artikel 2
+##### Artikel 2
 
 De houder van een vergunning vermeldt in de door hem gevoerde correspondentie het nummer en kenmerk van zijn vergunning en draagt er zorg voor dat de vergunning in zijn vestiging of vestigingen op een voor zowel ter beschikking te stellen arbeidskrachten als ondernemingen die voornemens zijn arbeidskrachten in te lenen gemakkelijk toegankelijke plaats zodanig is opgehangen dat deze duidelijk leesbaar is.
 
-#### Artikel 3
+##### Artikel 3
 
 De houder van een vergunning stelt een arbeidskracht ten hoogste gedurende een tijdvak van zes maanden aan dezelfde onderneming ter beschikking.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Twee opeenvolgende terbeschikkingstellingen door de houder van een vergunning van dezelfde arbeidskracht aan dezelfde onderneming gelden als één doorlopende terbeschikkingstelling, wanneer de duur van het tussenliggende tijdvak minder dan drie maanden bedraagt.
 
 2. In geval een arbeidskracht aan een onderneming ter beschikking wordt gesteld ter vervanging van een eerder door de houder van een vergunning aan de onderneming ter beschikking gestelde arbeidskracht, gelden beide terbeschikkingstellingen als één doorlopende terbeschikkingstelling, wanneer de duur van het tussenliggende tijdvak minder dan drie maanden bedraagt.
 
-#### Artikel 5
+##### Artikel 5
 
 Indien een arbeidskracht door de houder van een vergunning aan een onderneming ter beschikking is gesteld en deze arbeidskracht daarna binnen een tijdvak van drie maanden bij dezelfde onderneming werkzaam is geweest op basis van een arbeidsovereenkomst voor bepaalde duur, stelt de houder van een vergunning deze arbeidskracht niet binnen een tijdvak van drie maanden na het verstrijken van die duur opnieuw ter beschikking aan dezelfde onderneming.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De houder van een vergunning kent aan ter beschikking gestelde arbeidskrachten lonen en overige vergoedingen toe overeenkomstig die welke worden toegekend aan werknemers, werkzaam in gelijke of gelijkwaardige functies in dienst van de inlenende onderneming.
 
@@ -44,15 +69,15 @@ Indien een arbeidskracht door de houder van een vergunning aan een onderneming t
 
 3. Het eerste lid is evenmin van toepassing indien op de inlenende onderneming een collectieve arbeidsovereenkomst van toepassing is waarin bepalingen zijn opgenomen ten aanzien van lonen en overige vergoedingen die betrekking hebben op de ter beschikking gestelde arbeidskrachten in de inlenende onderneming.
 
-#### Artikel 7
+##### Artikel 7
 
 De houder van een vergunning legt aan arbeidskrachten geen verplichtingen op of belemmeringen in de weg ter zake van het al dan niet aangaan van een arbeidsverhouding.
 
-#### Artikel 8
+##### Artikel 8
 
 De houder van een vergunning stelt geen arbeidskrachten ter beschikking indien hij weet of redelijkerwijs kan weten dat dit leidt tot handelen in strijd met de openbare orde of goede zeden.
 
-#### Artikel 9
+##### Artikel 9
 
 De houder van een vergunning geeft aan het bestuurscollege van het desbetreffende openbare lichaam voorafgaand schriftelijk kennis van:
 
@@ -66,15 +91,15 @@ De houder van een vergunning geeft aan het bestuurscollege van het desbetreffend
 
 - e. opening en sluiting van filialen of nevenvestigingen die zich met ter beschikking stellen van arbeidskrachten gaan bezighouden.
 
-#### Artikel 10
+##### Artikel 10
 
 Het is de houder van een vergunning, die overgaat tot overname van een onderneming die of van een onderdeel van de onderneming dat zich met het ter beschikking stellen van arbeidskrachten bezig houdt, behoudens voorafgaande schriftelijke toestemming van het bestuurscollege, niet toegestaan het ter beschikking stellen van arbeidskrachten voort te zetten dat geschiedde door de overgenomen onderneming, respectievelijk het overgenomen onderdeel van die onderneming.
 
-#### Artikel 11
+##### Artikel 11
 
 Het is de houder van een vergunning, behoudens voorafgaande schriftelijke toestemming van het bestuurscollege, niet toegestaan het ter beschikking stellen van arbeidskrachten voort te zetten in geval van verkoop of overdracht anderszins van de onderneming die of van een onderdeel van de onderneming dat zich met het ter beschikking stellen van arbeidskrachten bezighoudt.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De houder van een vergunning voert een gescheiden administratie die wekelijks wordt bijgehouden en die per onderneming aan welke arbeidskrachten ter beschikking worden gesteld, tenminste de volgende gegevens bevat:
 
@@ -94,7 +119,7 @@ Het is de houder van een vergunning, behoudens voorafgaande schriftelijke toeste
 
 2. De houder van een vergunning draagt er zorg voor dat de gegevens die in zijn administratie zijn opgenomen tenminste gedurende vijf jaar na het tijdstip van opname in die administratie behouden blijven.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De houder van een vergunning verstrekt aan het bestuurscollege van het desbetreffende openbare lichaam tenminste éénmaal per jaar kosteloos de door het bestuurscollege gevraagde gegevens betreffende ter beschikking stellen van arbeidskrachten met gebruikmaking van een door het bestuurscollege daartoe verstrekt formulier en binnen een door het bestuurscollege gestelde termijn.
 
@@ -102,10 +127,10 @@ Het is de houder van een vergunning, behoudens voorafgaande schriftelijke toeste
 
 3. De modellen van de in het eerste en tweede lid bedoelde formulieren worden vastgesteld bij eilandsverordening.
 
-#### Artikel 14
+##### Artikel 14
 
 Dit besluit berust op [artikel 8 van de Wet op het ter beschikking stellen arbeidskrachten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028435&artikel=8).
 
-#### Artikel 15
+##### Artikel 15
 
 Dit besluit wordt aangehaald als: Besluit op het ter beschikking stellen arbeidskrachten BES.

@@ -1,20 +1,46 @@
 ---
-title: "Beheersregeling informatiemanagement BZ 2023"
+title: "Besluit van de Minister van Buitenlandse Zaken van 12 juni 2023, nr. MINBUZA-2023.798181, tot vaststelling van beheersregels voor het informatiemanagement van het Ministerie van Buitenlandse Zaken (Beheersregeling informatiemanagement BZ 2023)"
 identifier: "BWBR0048414"
-categorie: "Overig"
-publicatiedatum: 2023-07-19
-laatste_update: 2023-07-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048414"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-07-19"
+last_updated: "2023-07-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048414"
+soort: "ministeriele-regeling"
+stam_id: "16807323"
+version_id: "29527722"
+internal_id: "C42213831"
+label_id: "16721014"
+dtd_version: "2.0"
+original_entry_into_force: "2023-07-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048414/2023-07-19/0"
+intitule_bron: "Stcrt.2023-20081"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-06-12"
+intitule_published: "2023-07-18"
+intitule_in_force: "2023-07-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-20081"
+original_signed_date: "2023-06-12"
+original_published_date: "2023-07-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-20081"
+entry_into_force_date: "2023-07-19"
+jci_1_3: "jci1.3:c:BWBR0048414&z=2023-07-19&g=2023-07-19"
+jci_1_0: "1.0:c:BWBR0048414&g=2023-07-19"
+citeertitel_status: "officieel"
+short_title: "Beheersregeling informatiemanagement BZ 2023"
+signed_date: "2023-06-12"
+entry_into_force: "2023-07-19"
 ---
-
 # Besluit van de Minister van Buitenlandse Zaken van 12 juni 2023, nr. MINBUZA-2023.798181, tot vaststelling van beheersregels voor het informatiemanagement van het Ministerie van Buitenlandse Zaken (Beheersregeling informatiemanagement BZ 2023)
 
 Gelet op [artikel 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -52,11 +78,11 @@ In dit besluit wordt verstaan onder:
 
 - q. **vervreemding:** het in eigendom overdragen van overheidsinformatie aan een andere zorgdrager of aan derden.
 
-#### Artikel 2. Reikwijdte
+##### Artikel 2. Reikwijdte
 
 Deze regeling is van toepassing op de gehele informatiehuishouding van het ministerie, dat wil zeggen op het beheer van alle informatie die het ministerie creëert of ontvangt bij het uitvoeren van zijn taken, ongeacht werkproces, inhoud, gebruikte applicatie, technische vorm, formele status, fase van creatie en behandeling, bewaartermijn en beherende functionaris.
 
-#### Artikel 3. De minister
+##### Artikel 3. De minister
 
 De minister
 
@@ -66,7 +92,7 @@ De minister
 
 - 3. mandateert de verantwoordelijkheden als zorgdrager aan de CIO.
 
-#### Artikel 4. CIO
+##### Artikel 4. CIO
 
 De CIO
 
@@ -76,7 +102,7 @@ De CIO
 
 - 3. stelt de strategische beleidskaders van het informatiemanagement vast.
 
-#### Artikel 5. Hoofd Informatiemanagement
+##### Artikel 5. Hoofd Informatiemanagement
 
 Het hoofd Informatiemanagement
 
@@ -88,7 +114,7 @@ Het hoofd Informatiemanagement
 
 - 4. vertegenwoordigt het ministerie in departementale, interdepartementale en internationale gremia op het gebied van informatiemanagement.
 
-#### Artikel 6. Hoofd van een dienstonderdeel
+##### Artikel 6. Hoofd van een dienstonderdeel
 
 Het hoofd van een dienstonderdeel
 
@@ -96,23 +122,23 @@ Het hoofd van een dienstonderdeel
 
 - 2. is verantwoordelijk voor de juiste omgang door medewerkers met overheidsinformatie en spreekt medewerkers hierop aan.
 
-#### Artikel 7. Medewerkers
+##### Artikel 7. Medewerkers
 
 Elke medewerker is verantwoordelijk voor de juiste omgang met de door hem behandelde of gecreëerde overheidsinformatie conform de richtlijnen en procedures en met behulp van de middelen bepaald door het hoofd Informatiemanagement.
 
-#### Artikel 8. Externe deskundige
+##### Artikel 8. Externe deskundige
 
 Een onafhankelijke externe expert Informatiehuishouding adviseert, gevraagd en ongevraagd, de departementsleiding en de CIO over vraagstukken die de informatiehuishouding van het ministerie aangaan en is betrokken bij het vaststellen van de selectielijst en het samenstellen van de hotspotlijst. De expert is een extern geweten rond dilemma’s op het gebied van maatschappelijke en IV-inhoudelijke ontwikkelingen.
 
-#### Artikel 9. Intrekking
+##### Artikel 9. Intrekking
 
 De [Beheersregeling archiefbeheer BZ 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041605) wordt ingetrokken.
 
-#### Artikel 10. Citeertitel
+##### Artikel 10. Citeertitel
 
 De regeling kan worden aangehaald als: Beheersregeling informatiemanagement BZ 2023.
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 

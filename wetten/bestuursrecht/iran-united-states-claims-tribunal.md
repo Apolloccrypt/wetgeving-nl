@@ -1,13 +1,37 @@
 ---
 title: "Iran-United States Claims Tribunal"
 identifier: "BWBR0027792"
-categorie: "Bestuursrecht"
-publicatiedatum: 1988-06-02
-laatste_update: 1988-06-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027792"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "1988-06-02"
+last_updated: "1988-06-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027792"
+soort: "beleidsregel"
+stam_id: "10578343"
+version_id: "17459232"
+internal_id: "C24152081"
+label_id: "10553544"
+dtd_version: "2.0"
+original_entry_into_force: "1988-06-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027792/1988-06-02/0"
+intitule_bron: "Infob.1988-0"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1988-06-02"
+intitule_published: "1988-01-01"
+intitule_in_force: "1988-01-01"
+intitule_status: "goed"
+original_publication: "Infob.1988-0"
+original_signed_date: "1988-06-02"
+original_published_date: "1988-01-01"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1988-06-02"
+jci_1_3: "jci1.3:c:BWBR0027792&z=1988-06-02&g=1988-06-02"
+jci_1_0: "1.0:c:BWBR0027792&g=1988-06-02"
+citeertitel_status: "redactioneel"
+signed_date: "1988-06-02"
+entry_into_force: "1988-06-02"
 ---
-
 # Iran-United States Claims Tribunal
 
 ### 1. Inleiding

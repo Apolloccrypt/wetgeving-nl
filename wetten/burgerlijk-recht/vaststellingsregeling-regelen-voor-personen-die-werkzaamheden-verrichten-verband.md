@@ -1,16 +1,40 @@
 ---
 title: "Vaststellingsregeling regelen voor personen, die werkzaamheden verrichten, verband houdende met de luchtwaardigheid van vliegtuigen"
 identifier: "BWBR0009490"
-categorie: "Burgerlijk recht"
-publicatiedatum: 1998-08-21
-laatste_update: 1998-08-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009490"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1998-08-21"
+last_updated: "1998-08-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009490"
+soort: "ministeriele-regeling"
+stam_id: "5253183"
+version_id: "9447582"
+internal_id: "C12656571"
+label_id: "5229144"
+dtd_version: "2.0"
+original_entry_into_force: "1998-03-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009490/1998-08-21/0"
+intitule_bron: "Stcrt.1998-60"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-03-20"
+intitule_published: "1998-03-27"
+intitule_in_force: "1998-03-27"
+intitule_status: "goed"
+original_publication: "Stcrt.1998-60"
+original_signed_date: "1998-03-20"
+original_published_date: "1998-03-27"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1998-03-29"
+jci_1_3: "jci1.3:c:BWBR0009490&z=1998-08-21&g=1998-08-21"
+jci_1_0: "1.0:c:BWBR0009490&g=1998-08-21"
+citeertitel_status: "officieel"
+signed_date: "1998-03-20"
+entry_into_force: "1998-03-29"
 ---
-
 # Vaststellingsregeling regelen voor personen, die werkzaamheden verrichten, verband houdende met de luchtwaardigheid van vliegtuigen
 
-#### Artikel 1. Eisen voor de verkrijging van een erkenning
+##### Artikel 1. Eisen voor de verkrijging van een erkenning
 
 1. De aanvrager moet naar het oordeel van de Minister van Verkeer en Waterstaat met betrekking tot het gebied van de werkzaamheden, ten aanzien waarvan hij de erkenning aanvraagt:
 
@@ -28,7 +52,7 @@ bron: "https://wetten.overheid.nl/BWBR0009490"
 
 - d. indien de erkenning vliegproeven zal omvatten, ten minste houder zijn van een geldig vliegbewijs B 3, waarin de bevoegdverklaring "blindvliegen" is gesteld; voorts moet de aanvrager tijdens vluchten, waarvan de gezamenlijke tijdsduur ten minste 2000 uren bedraagt, als houder van een vliegbewijs vliegtuigen hebben bestuurd, waarvan ten minste 100 uren in het tijdvak van twaalf maanden, onmiddellijk voorafgaande aan de aanvraag, en waarvan ten minste 100 uren een vliegtuig van het type, waarvoor hij de erkenning aanvraagt.
 
-#### Artikel 2. Verplichtingen van de houder van een erkenning
+##### Artikel 2. Verplichtingen van de houder van een erkenning
 
 1. De houder van een erkenning is verplicht de verklaringen met betrekking tot de uit hoofde van de erkenning door hem verrichte werkzaamheden te zenden aan het hoofd van de afdeling Luchtvaartinspectie van de Minister van Verkeer en Waterstaat; deze verklaringen dienen te worden gesteld op de daarvoor door het evengenoemde hoofd geaccepteerde formulieren.
 
@@ -36,19 +60,19 @@ bron: "https://wetten.overheid.nl/BWBR0009490"
 
 3. De houder is verplicht de Minister van Verkeer en Waterstaat tijdig op de hoogte te stellen van proevenprogramma's en proeven, zodat deze proeven eventueel door medewerkers van het Directoraat-Generaal van de Rijksluchtvaartdienst kunnen worden bijgewoond.
 
-#### Artikel 3. Model van de erkenning
+##### Artikel 3. Model van de erkenning
 
 De erkenning zal geschieden in de vorm als in de bijlage van deze beschikking is aangegeven.
 
-#### Artikel 4. Geldigheidsduur
+##### Artikel 4. Geldigheidsduur
 
 De geldigheidsduur van een erkenning is twaalf maanden.
 
-#### Artikel 5. Verlenging van de geldigheidsduur
+##### Artikel 5. Verlenging van de geldigheidsduur
 
 De erkenning kan telkens worden verlengd voor een tijdvak van ten hoogste twaalf maanden.
 
-#### Artikel 6. Intrekking
+##### Artikel 6. Intrekking
 
 Een erkenning wordt geheel of gedeeltelijk door de Minister van Verkeer en Waterstaat ingetrokken:
 

@@ -1,20 +1,45 @@
 ---
 title: "Beleidsregels bestuurlijke boetes vervoerswetgeving ACM"
 identifier: "BWBR0037110"
-categorie: "Strafrecht"
-publicatiedatum: 2024-07-24
-laatste_update: 2024-07-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037110"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-07-24"
+last_updated: "2024-07-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037110"
+soort: "zbo"
+stam_id: "13285323"
+version_id: "30256802"
+internal_id: "C43335381"
+label_id: "13253354"
+dtd_version: "2.0"
+original_entry_into_force: "2024-07-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037110/2024-07-24/0"
+intitule_bron: "Stcrt.2015-37015"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-10-15"
+intitule_published: "2015-10-23"
+intitule_in_force: "2015-10-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-23948"
+original_signed_date: "2024-07-02"
+original_published_date: "2024-07-23"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2024-23948"
+entry_into_force_date: "2024-07-02"
+jci_1_3: "jci1.3:c:BWBR0037110&z=2024-07-24&g=2024-07-24"
+jci_1_0: "1.0:c:BWBR0037110&g=2024-07-24"
+citeertitel_status: "officieel"
+signed_date: "2024-07-02"
+entry_into_force: "2024-07-02"
 ---
-
 # Beleidsregels bestuurlijke boetes vervoerswetgeving ACM
 
 Gelet op [artikel 45f, eerste lid, aanhef en onder a, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=45f), [artikel 76, tweede lid, aanhef en onder a, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=76), de [artikelen 8.25h, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.25h), en [11.24 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=11.24), [artikel 96a van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=96a) en [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
 
 Besluit:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 In dit besluit wordt verstaan onder:
 
@@ -26,11 +51,11 @@ In dit besluit wordt verstaan onder:
 
 - d. **jaaromzet:** omzet van de overtreder als bedoeld in [artikel 12o van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=12o).
 
-#### Artikel 2. Algemeen uitgangspunt
+##### Artikel 2. Algemeen uitgangspunt
 
 ACM bepaalt de hoogte van een op te leggen bestuurlijke boete zodanig dat deze, in het kader van specifieke preventie, een overtreder weerhoudt van het begaan van een volgende overtreding en, in het kader van algemene preventie, potentiële andere overtreders weerhoudt van het begaan van een(zelfde) overtreding.
 
-#### Artikel 3. Wijze van totstandkoming
+##### Artikel 3. Wijze van totstandkoming
 
 1. ACM bepaalt de hoogte van een op te leggen bestuurlijke boete op basis van de boetegrondslag, die per geval wordt vastgesteld.
 
@@ -40,7 +65,7 @@ ACM bepaalt de hoogte van een op te leggen bestuurlijke boete zodanig dat deze, 
 
 4. In afwijking van de vorige leden kan ACM een symbolische bestuurlijke boete opleggen wanneer bijzondere omstandigheden naar haar oordeel daartoe aanleiding geven
 
-#### Artikel 4. Berekening van de boete
+##### Artikel 4. Berekening van de boete
 
 1. ACM bepaalt de boetegrondslag op basis van de jaaromzet van de overtreder in het boekjaar voorafgaande aan de beschikking waarbij zij de bestuurlijke boete oplegt.
 
@@ -76,7 +101,7 @@ categorie VI Boetebandbreedte tussen € 50.000,– en 75‰ van de jaaromzet
 
 - c. de jaaromzet boven de € 1.000.000.000 telt voor 1% mee.
 
-#### Artikel 5. Boeteverhogende of -verlagende omstandigheden
+##### Artikel 5. Boeteverhogende of -verlagende omstandigheden
 
 1. Bij vaststelling van de bestuurlijke boete beziet ACM of sprake is van boeteverhogende of boeteverlagende omstandigheden.
 
@@ -100,7 +125,7 @@ categorie VI Boetebandbreedte tussen € 50.000,– en 75‰ van de jaaromzet
 
 - b. de omstandigheid dat de overtreder uit eigen beweging degenen aan wie door de overtreding schade is berokkend, schadeloos heeft gesteld.
 
-#### Artikel 6. Vaststelling van de hoogte
+##### Artikel 6. Vaststelling van de hoogte
 
 1. ACM stelt de hoogte van de op te leggen bestuurlijke boete vast met inachtneming van:
 
@@ -116,19 +141,19 @@ categorie VI Boetebandbreedte tussen € 50.000,– en 75‰ van de jaaromzet
 
 4. De hoogte van de op te leggen bestuurlijke boete rondt ACM af naar beneden op een veelvoud van € 1.000,–.
 
-#### Artikel 7. Intrekking eerder besluit
+##### Artikel 7. Intrekking eerder besluit
 
 Het besluit ‘[Beleidsregels NMa bestuurlijke boetes vervoerswetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0033428)’ wordt ingetrokken.
 
-#### Artikel 8. Overgangsbeleid
+##### Artikel 8. Overgangsbeleid
 
 Op overtredingen waarvan een rapport is opgemaakt voorafgaand aan het tijdstip van inwerkingtreding van deze beleidsregel wordt beslist met toepassing van de [Beleidsregels NMa bestuurlijke boetes vervoerswetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0033428) zoals deze golden onmiddellijk voorafgaand aan dat tijdstip.
 
-#### Artikel 9. Citeertitel
+##### Artikel 9. Citeertitel
 
 Dit besluit wordt aangehaald als: ‘Beleidsregels bestuurlijke boetes vervoerswetgeving ACM’.
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van publicatie in de Staatscourant.
 
@@ -160,7 +185,7 @@ Noot:
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 6a. - Nieuwe grondslag
+##### Artikel 6a. - Nieuwe grondslag
 
 Dit besluit berust mede op [artikel 9, eerste lid, aanhef en onder b, van de Uitvoeringswet EU-zeehavenverordening](https://wetten.overheid.nl/jci1.3:c:BWBR0044856&artikel=9).
 

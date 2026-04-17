@@ -1,13 +1,37 @@
 ---
 title: "Wijziging financiële arbeidsvoorwaarden sector Rijk per 1 januari 2001"
 identifier: "BWBR0011975"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2001-01-01
-laatste_update: 2001-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011975"
+country: "nl"
+rank: "circulaire"
+publication_date: "2001-01-01"
+last_updated: "2001-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011975"
+soort: "circulaire"
+stam_id: "6265183"
+version_id: "10947862"
+internal_id: "C14843391"
+label_id: "6254464"
+original_entry_into_force: "2001-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011975/2001-01-01/0"
+intitule_bron: "Stcrt.2000-249"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-12-14"
+intitule_published: "2000-12-22"
+intitule_in_force: "2000-12-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2000-249"
+original_signed_date: "2000-12-14"
+original_published_date: "2000-12-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2000-249-p9-SC26979"
+entry_into_force_date: "2001-01-01"
+jci_1_3: "jci1.3:c:BWBR0011975&z=2001-01-01&g=2001-01-01"
+jci_1_0: "1.0:c:BWBR0011975&g=2001-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "2000-12-14"
+entry_into_force: "2001-01-01"
 ---
-
 # Wijziging financiële arbeidsvoorwaarden sector Rijk per 1 januari 2001
 
 ### Inleiding/managementinformatie

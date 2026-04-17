@@ -1,20 +1,46 @@
 ---
-title: "Regeling aanvullende bekostiging uitvoering arbeidsmarkttoelage 2026"
+title: "Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 10 december 2025, nr. VO/F/55351459, tot het verstrekken van aanvullende bekostiging voor het primair en voortgezet onderwijs voor de uitvoering van een arbeidsmarkttoelage voor 2026 (Regeling aanvullende bekostiging uitvoering arbeidsmarkttoelage 2026)"
 identifier: "BWBR0052080"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052080"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052080"
+soort: "ministeriele-regeling"
+stam_id: "17708463"
+version_id: "31254412"
+internal_id: "C44693811"
+label_id: "17607274"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052080/2026-01-01/0"
+intitule_bron: "Stcrt.2025-44238"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-12-10"
+intitule_published: "2025-12-23"
+intitule_in_force: "2025-12-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-44238"
+original_signed_date: "2025-12-10"
+original_published_date: "2025-12-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-44238"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0052080&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0052080&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling aanvullende bekostiging uitvoering arbeidsmarkttoelage 2026"
+signed_date: "2025-12-10"
+entry_into_force: "2026-01-01"
 ---
-
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 10 december 2025, nr. VO/F/55351459, tot het verstrekken van aanvullende bekostiging voor het primair en voortgezet onderwijs voor de uitvoering van een arbeidsmarkttoelage voor 2026 (Regeling aanvullende bekostiging uitvoering arbeidsmarkttoelage 2026)
 
 Gelet op [artikel 119, tweede lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=119), [artikel 117, tweede lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=117) en [artikel 5.9, eerste lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.9);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -54,7 +80,7 @@ In deze regeling wordt verstaan onder:
 
 - **WVO 2020:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
-#### Artikel 2. Doel van de aanvullende bekostiging
+##### Artikel 2. Doel van de aanvullende bekostiging
 
 1. De minister verstrekt aanvullende bekostiging met als doel het versterken van de arbeidsmarktpositie van:
 
@@ -68,7 +94,7 @@ In deze regeling wordt verstaan onder:
 
 2. De aanvullende bekostiging is bedoeld voor het toekennen van een arbeidsmarkttoelage aan al het personeel dat werkzaam is op de vestiging of vestigingen, bedoeld in het eerste lid, onverminderd de mogelijkheid dat de aanvullende bekostiging ook kan worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt.
 
-#### Artikel 3. Aanvullende bekostiging scholen voor primair onderwijs
+##### Artikel 3. Aanvullende bekostiging scholen voor primair onderwijs
 
 1. De minister verstrekt aanvullende bekostiging voor het kalenderjaar 2026 aan:
 
@@ -94,7 +120,7 @@ In deze regeling wordt verstaan onder:
 
 7. De minister stelt de aanvullende bekostiging uiterlijk in de maand december van 2026 gewijzigd vast op basis van het aantal leerlingen dat op het moment van de berekening staat ingeschreven op de vestiging op 1 februari 2025 en de kabinetsbijdrage voor loon- en prijsbijstelling voor dat jaar.
 
-#### Artikel 4. Aanvullende bekostiging scholen voor voortgezet onderwijs
+##### Artikel 4. Aanvullende bekostiging scholen voor voortgezet onderwijs
 
 1. De minister verstrekt aanvullende bekostiging voor het kalenderjaar 2026 aan het bevoegd gezag van een school:
 
@@ -116,25 +142,25 @@ In deze regeling wordt verstaan onder:
 
 7. De minister stelt de aanvullende bekostiging uiterlijk in de maand december van 2026 gewijzigd vast op basis van het door de accountant gevalideerde aantal leerlingen op 1 oktober 2025 en de kabinetsbijdrage voor loon- en prijsbijstelling voor dat jaar.
 
-#### Artikel 5. Besteding en verantwoording
+##### Artikel 5. Besteding en verantwoording
 
 De verantwoording van de besteding van deze aanvullende bekostiging geschiedt in de jaarverslaggeving overeenkomstig de [Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132).
 
-#### Artikel 6. Monitoring en evaluatie
+##### Artikel 6. Monitoring en evaluatie
 
 Ten behoeve van de monitoring van de implementatie en effecten van deze regeling op landelijk niveau verstrekt het bevoegd gezag desgevraagd een samenhangend overzicht van de gepleegde inspanningen en uitkomsten, waaronder financieel inzicht in de besteding, ter verwezenlijking van het doel, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052080&artikel=2&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 7. Hardheidsclausule
+##### Artikel 7. Hardheidsclausule
 
 De minister kan met betrekking tot de selectie van vestigingen die in aanmerking komen voor de regeling, in bijzondere gevallen afwijken van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052080&artikel=3&z=2026-01-01&g=2026-01-01), of [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052080&artikel=4&z=2026-01-01&g=2026-01-01), voor zover een vestiging van een school voldoet aan de criteria, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052080&artikel=2&z=2026-01-01&g=2026-01-01), maar niet is opgenomen in de betreffende bijlage.
 
-#### Artikel 8. Inwerkingtreding
+##### Artikel 8. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2026. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na 31 december 2025, treedt zij in werking met ingang van de dag na de datum van publicatie van de Staatscourant waarin zij wordt geplaatst, en werkt zij terug tot en met 1 januari 2026.
 
 2. Deze regeling vervalt met ingang van 1 januari 2030.
 
-#### Artikel 9. Citeertitel
+##### Artikel 9. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling aanvullende bekostiging uitvoering arbeidsmarkttoelage 2026.
 

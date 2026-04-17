@@ -1,13 +1,37 @@
 ---
 title: "Aanvullend Protocol bij het Verdrag inzake de overbrenging van gevonniste personen"
 identifier: "BWBV0001542"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2002-10-01
-laatste_update: 2002-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001542"
+country: "nl"
+rank: "verdrag"
+publication_date: "2002-10-01"
+last_updated: "2002-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001542"
+soort: "verdrag"
+stam_id: "10000136903"
+version_id: "10000663912"
+internal_id: "C10006989391"
+label_id: "10000137054"
+original_entry_into_force: "2002-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001542/2002-10-01/0"
+intitule_bron: "Trb.1998-64"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-06-18"
+intitule_published: "1998-03-06"
+intitule_in_force: "2002-07-15"
+intitule_status: "goed"
+original_publication: "Trb.1998-64"
+original_signed_date: "2002-06-18"
+original_published_date: "1998-03-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1998-64"
+entry_into_force_date: "2002-10-01"
+jci_1_3: "jci1.3:c:BWBV0001542&z=2002-10-01&g=2002-10-01"
+jci_1_0: "1.0:c:BWBV0001542&g=2002-10-01"
+citeertitel_status: "officieel"
+signed_date: "2002-06-18"
+entry_into_force: "2002-10-01"
 ---
-
 # Aanvullend Protocol bij het Verdrag inzake de overbrenging van gevonniste personen
 
 Preambule
@@ -22,13 +46,13 @@ Overwegende dat het wenselijk is het [Verdrag](https://wetten.overheid.nl/jci1.3
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Algemene bepalingen
+##### Artikel 1. Algemene bepalingen
 
 1. De in dit Protocol gebruikte termen en uitdrukkingen dienen te worden uitgelegd in de zin van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001039).
 
 2. De bepalingen van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001039) zijn van toepassing voor zover zij verenigbaar zijn met de bepalingen van dit Protocol.
 
-#### Artikel 2. Personen die uit de Staat van veroordeling zijn gevlucht
+##### Artikel 2. Personen die uit de Staat van veroordeling zijn gevlucht
 
 1. Wanneer een onderdaan van een Partij die is veroordeeld bij onherroepelijk vonnis, uitgesproken op het grondgebied van een andere Partij, zich aan de tenuitvoerlegging of verdere tenuitvoerlegging van de veroordeling in de Staat van veroordeling tracht te onttrekken door te vluchten naar het grondgebied van de eerstgenoemde Partij voordat hij de veroordeling heeft ondergaan, kan de Staat van veroordeling de andere Partij verzoeken de tenuitvoerlegging van de veroordeling over te nemen.
 
@@ -36,7 +60,7 @@ Zijn het volgende overeengekomen:
 
 3. De instemming van de gevonniste persoon is voor de overdracht van de tenuitvoerlegging van de veroordeling niet vereist.
 
-#### Artikel 3. Gevonniste personen voor wie een bevel tot uitzetting of uitwijzing geldt
+##### Artikel 3. Gevonniste personen voor wie een bevel tot uitzetting of uitwijzing geldt
 
 1. Op verzoek van de Staat van veroordeling kan de Staat van tenuitvoerlegging, met inachtneming van de bepalingen van dit artikel, ermee instemmen een gevonniste persoon zonder de instemming van die persoon over te brengen, wanneer de tegen hem uitgesproken veroordeling of een daaruit voortvloeiende administratieve beslissing een bevel tot uitzetting of uitwijzing inhoudt of enige andere maatregel krachtens welke het aan die persoon na zijn invrijheidsstelling niet langer is toegestaan op het grondgebied van de Staat van veroordeling te verblijven.
 
@@ -58,7 +82,7 @@ Zijn het volgende overeengekomen:
 
 6. Elke Verdragsluitende Staat kan door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte verklaring aangeven dat hij de tenuitvoerlegging van veroordelingen onder de in dit artikel beschreven omstandigheden niet over zal nemen.
 
-#### Artikel 4. Ondertekening en inwerkingtreding
+##### Artikel 4. Ondertekening en inwerkingtreding
 
 1. Dit Protocol staat open voor ondertekening door de Lidstaten van de Raad van Europa en de andere Staten die het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001039) hebben ondertekend. Het dient te worden bekrachtigd, aanvaard of goedgekeurd. Een Ondertekenaar kan dit Protocol niet bekrachtigen, aanvaarden of goedkeuren, indien hij niet eerder het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001039) heeft bekrachtigd, aanvaard of goedgekeurd of dit gelijktijdig bekrachtigt, aanvaardt of goedkeurt. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
 
@@ -66,13 +90,13 @@ Zijn het volgende overeengekomen:
 
 3. Ten aanzien van iedere ondertekenende Staat die zijn akte van bekrachtiging, aanvaarding of goedkeuring later nederlegt, treedt het Protocol in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van nederlegging.
 
-#### Artikel 5. Toetreding
+##### Artikel 5. Toetreding
 
 1. Elke Staat die geen Lidstaat is en die is toegetreden tot het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001039), kan toetreden tot dit Protocol na de inwerkingtreding ervan.
 
 2. Ten aanzien van elke toetredende Staat treedt het Protocol in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van nederlegging van de akte van toetreding.
 
-#### Artikel 6. Territoriale toepassing
+##### Artikel 6. Territoriale toepassing
 
 1. Elke Staat kan op het tijdstip van ondertekening of bij nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding specificeren op welk grondgebied of welke grondgebieden dit Protocol van toepassing is.
 
@@ -80,11 +104,11 @@ Zijn het volgende overeengekomen:
 
 3. Elke krachtens de twee vorige leden gedane verklaring kan met betrekking tot ieder in die verklaring gespecificeerd grondgebied worden ingetrokken door een aan de Secretaris-Generaal gerichte kennisgeving. De intrekking wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van die kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 7. Toepassing in de tijd
+##### Artikel 7. Toepassing in de tijd
 
 Dit Protocol is van toepassing op de tenuitvoerlegging van veroordelingen die of voor of na de inwerkingtreding van het Protocol zijn uitgesproken.
 
-#### Artikel 8. Opzegging
+##### Artikel 8. Opzegging
 
 1. Elke Verdragsluitende Staat kan te allen tijde dit Protocol opzeggen door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte kennisgeving.
 
@@ -94,7 +118,7 @@ Dit Protocol is van toepassing op de tenuitvoerlegging van veroordelingen die of
 
 4. Opzegging van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001039) heeft automatisch opzegging van dit Protocol ten gevolge.
 
-#### Artikel 9. Kennisgevingen
+##### Artikel 9. Kennisgevingen
 
 De Secretaris-Generaal van de Raad van Europa stelt de Lidstaten van de Raad van Europa, elke Ondertekenaar, elke Partij en elke andere Staat die is uitgenodigd toe te treden tot het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001039) in kennis van:
 

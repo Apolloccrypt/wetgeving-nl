@@ -1,30 +1,52 @@
 ---
 title: "Overeenkomst betreffende de afgifte van een verklaring van huwelijksbevoegdheid"
 identifier: "BWBV0003766"
-categorie: "Burgerlijk recht"
-publicatiedatum: 1985-02-01
-laatste_update: 1985-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003766"
+country: "nl"
+rank: "verdrag"
+publication_date: "1985-02-01"
+last_updated: "1985-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003766"
+soort: "verdrag"
+stam_id: "10003702233"
+version_id: "10003763192"
+internal_id: "C10006980181"
+label_id: "10003687644"
+dtd_version: "2.0"
+original_entry_into_force: "1985-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003766/1985-02-01/0"
+intitule_bron: "Trb.1981-71"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1981-04-29"
+intitule_in_force: "1985-01-25"
+intitule_status: "goed"
+original_publication: "Trb.1981-71"
+original_published_date: "1981-04-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1981-71"
+entry_into_force_date: "1985-02-01"
+jci_1_3: "jci1.3:c:BWBV0003766&z=1985-02-01&g=1985-02-01"
+jci_1_0: "1.0:c:BWBV0003766&g=1985-02-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1985-02-01"
 ---
-
 # Overeenkomst betreffende de afgifte van een verklaring van huwelijksbevoegdheid
 
 De Staten die deze Overeenkomst hebben ondertekend, leden van de Internationale Commissie voor de Burgerlijke Stand, verlangend gemeenschappelijke bepalingen vast te stellen betreffende de afgifte van een verklaring van huwelijksbevoegdheid aan hun onderdanen met het oog op de huwelijkssluiting in het buitenland, indachtig de aanbeveling betreffende het huwelijksrecht, aangenomen door de Algemene Vergadering van de Internationale Commissie voor de Burgerlijke Stand op 8 september 1976 te Wenen, zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 Iedere Overeenkomstsluitende Staat verbindt zich tot het afgeven van een verklaring van huwelijksbevoegdheid die overeenkomt met het aan deze Overeenkomst als bijlage toegevoegde model, wanneer een van zijn onderdanen zulks met het oog op zijn huwelijkssluiting in het buitenland verzoekt en hij volgens de wet van de Staat die de verklaring afgeeft, aan de voorwaarden voor het sluiten van dit huwelijk voldoet.
 
-#### Artikel 2
+##### Artikel 2
 
 Voor de toepassing van deze Overeenkomst worden met onderdanen van een Overeenkomstsluitende Staat gelijkgesteld vluchtelingen en staatlozen wier persoonlijke staat door de wet van die Staat wordt beheerst.
 
-#### Artikel 3
+##### Artikel 3
 
 Alle in de verklaring op te nemen gegevens worden geschreven in Latijnse drukletters; zij kunnen bovendien worden geschreven in de lettertekens van de taal van de autoriteit die de verklaring afgeeft.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De data worden geschreven in Arabische cijfers; zij geven achtereenvolgens aan onder de symbolen Jo, Mo en An, de dag, de maand en het jaar. De dag en de maand worden aangeduid door twee cijfers, het jaar door vier cijfers. De eerste negen dagen van de maand en de eerste negen maanden van het jaar worden aangeduid door de cijfers 01 tot en met 09.
 
@@ -50,11 +72,11 @@ Alle in de verklaring op te nemen gegevens worden geschreven in Latijnse druklet
 
 - -. in geval van afwezigheid, de letters ABS.
 
-#### Artikel 5
+##### Artikel 5
 
 Indien de bevoegde autoriteit niet in staat is een vakje of een gedeelte van een vakje in te vullen, dan wordt dit vakje of dit gedeelte van het vakje door strepen onbruikbaar gemaakt.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Op de voorzijde van iedere verklaring worden de onveranderlijke vermeldingen, met uitzondering van de in artikel 4 voor de data voorgeschreven symbolen, gedrukt in ten minste twee talen, waaronder de officiële taal of één van de officiële talen van de Staat waar de verklaring wordt afgegeven en de Franse taal.
 
@@ -70,43 +92,43 @@ Indien de bevoegde autoriteit niet in staat is een vakje of een gedeelte van een
 
 4. Iedere vertaling moet worden goedgekeurd door het Bureau van de Internationale Commissie voor de Burgerlijke Stand.
 
-#### Artikel 7
+##### Artikel 7
 
 De verklaringen worden gedagtekend en voorzien van de handtekening en het stempel van de autoriteit die deze heeft afgegeven. De geldigheidsduur van de verklaringen wordt beperkt tot een termijn van zes maanden te rekenen vanaf de datum van afgifte.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Bij de ondertekening, de bekrachtiging, de aanvaarding, de goedkeuring of de toetreding wijzen de Overeenkomstsluitende Staten de autoriteiten aan die bevoegd zijn de verklaringen af te geven.
 
 2. Iedere latere wijziging wordt medegedeeld aan de Zwitserse Bondsraad.
 
-#### Artikel 9
+##### Artikel 9
 
 Iedere wijziging van de verklaring door een Staat moet worden goedgekeurd door de Internationale Commissie voor de Burgerlijke Stand.
 
-#### Artikel 10
+##### Artikel 10
 
 De verklaringen worden vrijgesteld van legalisatie en iedere overeenkomstige formaliteit op het grondgebied van elk der door deze Overeenkomst gebonden Staten.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze Overeenkomst wordt bekrachtigd, aanvaard of goedgekeurd en de akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Zwitserse Bondsraad.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Deze Overeenkomst treedt in werking op de eerste dag van de derde maand volgend op de maand van nederlegging van de derde akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
 
 2. Ten aanzien van de Staat die de Overeenkomst bekrachtigt, aanvaardt, goedkeurt of na haar inwerkingtreding tot de Overeenkomst toetreedt, wordt de Overeenkomst van kracht op de eerste dag van de derde maand volgend op de maand waarin deze Staat zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding heeft nedergelegd.
 
-#### Artikel 13
+##### Artikel 13
 
 Iedere Staat kan tot deze Overeenkomst toetreden. De akte van toetreding wordt nedergelegd bij de Zwitserse Bondsraad.
 
-#### Artikel 14
+##### Artikel 14
 
 Geen enkel voorbehoud op deze Overeenkomst is toegestaan.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Iedere Staat kan bij de ondertekening, de bekrachtiging, de aanvaarding, de goedkeuring of de toetreding of op ieder tijdstip daarna, verklaren dat deze Overeenkomst zich uitstrekt tot alle gebieden voor welker internationale betrekkingen hij verantwoordelijk is of tot één of meer van deze gebieden.
 
@@ -114,13 +136,13 @@ Geen enkel voorbehoud op deze Overeenkomst is toegestaan.
 
 3. Iedere verklaring inzake uitbreiding kan worden ingetrokken door middel van een aan de Zwitserse Bondsraad gerichte kennisgeving en de Overeenkomst houdt op van toepassing te zijn in het bedoelde gebied op de eerste dag van de derde maand volgend op de maand van ontvangst van voornoemde kennisgeving.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Deze Overeenkomst blijft voor onbepaalde tijd van kracht.
 
 2. Iedere Staat die Partij is bij deze Overeenkomst is evenwel bevoegd de Overeenkomst op te zeggen te allen tijde na het verstrijken van een termijn van één jaar te rekenen vanaf de datum waarop de Overeenkomst voor deze Staat in werking is getreden. De opzegging wordt ter kennis gebracht van de Zwitserse Bondsraad en wordt van kracht op de eerste dag van de zesde maand volgend op de maand van ontvangst van deze kennisgeving. De Overeenkomst blijft tussen de overige Staten van kracht.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De Zwitserse Bondsraad stelt de Staten die lid zijn van de Internationale Commissie voor de Burgerlijke Stand alsmede iedere andere Staat die tot deze Overeenkomst is toegetreden in kennis van
 

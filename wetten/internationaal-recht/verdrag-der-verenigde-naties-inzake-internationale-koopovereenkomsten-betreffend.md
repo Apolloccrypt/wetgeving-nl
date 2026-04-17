@@ -1,13 +1,35 @@
 ---
 title: "Verdrag der Verenigde Naties inzake internationale koopovereenkomsten betreffende roerende zaken"
 identifier: "BWBV0003909"
-categorie: "Internationaal recht"
-publicatiedatum: 1992-01-01
-laatste_update: 1992-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003909"
+country: "nl"
+rank: "verdrag"
+publication_date: "1992-01-01"
+last_updated: "1992-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003909"
+soort: "verdrag"
+stam_id: "10003766783"
+version_id: "10003832432"
+internal_id: "C10006980331"
+label_id: "10003752854"
+dtd_version: "2.0"
+original_entry_into_force: "1992-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003909/1992-01-01/0"
+intitule_bron: "Trb.1981-184"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1981-08-17"
+intitule_in_force: "1991-02-14"
+intitule_status: "goed"
+original_publication: "Trb.1981-184"
+original_published_date: "1981-08-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1981-184"
+entry_into_force_date: "1992-01-01"
+jci_1_3: "jci1.3:c:BWBV0003909&z=1992-01-01&g=1992-01-01"
+jci_1_0: "1.0:c:BWBV0003909&g=1992-01-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1992-01-01"
 ---
-
 # Verdrag der Verenigde Naties inzake internationale koopovereenkomsten betreffende roerende zaken
 
 De Staten die partij zijn bij dit Verdrag,
@@ -24,7 +46,7 @@ Zijn overeengekomen als volgt:
 
 ### Hoofdstuk I. TOEPASSINGSGEBIED
 
-#### Artikel 1
+##### Artikel 1
 
 1. Dit Verdrag is van toepassing op koopovereenkomsten betreffende roerende zaken tussen partijen die in verschillende Staten gevestigd zijn:
 
@@ -36,7 +58,7 @@ Zijn overeengekomen als volgt:
 
 3. Voor de toepasselijkheid van het Verdrag is zonder belang welke nationaliteit de partijen hebben, of zij kooplieden zijn en of de overeenkomst burgerrechtelijk dan wel handelsrechtelijk van aard is.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit Verdrag is niet van toepassing op:
 
@@ -52,13 +74,13 @@ Dit Verdrag is niet van toepassing op:
 
 - f. de koop van elektrische energie.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Met koopovereenkomsten staan gelijk overeenkomsten tot levering van te vervaardigen of voort te brengen roerende zaken, tenzij de partij die de zaken bestelt een wezenlijk deel van de voor de vervaardiging of voortbrenging benodigde grondstoffen moet verschaffen.
 
 2. Dit Verdrag is niet van toepassing op overeenkomsten waarin het belangrijkste deel van de verplichtingen van de partij die de roerende zaken levert, bestaat in de verstrekking van arbeidskracht of de verlening van andere diensten.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit Verdrag regelt uitsluitend de totstandkoming van koopovereenkomsten en de rechten en verplichtingen van verkoper en koper voortvloeiend uit een zodanige overeenkomst. Behoudens voorzover uitdrukkelijk anders is bepaald in dit Verdrag, heeft het in het bijzonder geen betrekking op:
 
@@ -66,23 +88,23 @@ Dit Verdrag regelt uitsluitend de totstandkoming van koopovereenkomsten en de re
 
 - b. de gevolgen die de overeenkomst kan hebben voor de eigendom van de verkochte zaken.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit Verdrag is niet van toepassing op de aansprakelijkheid van de verkoper voor dood of letsel veroorzaakt door de zaken.
 
-#### Artikel 6
+##### Artikel 6
 
 De partijen kunnen de toepassing van dit Verdrag uitsluiten of, onverminderd het bij artikel 12 bepaalde, afwijken van elk van de bepalingen hiervan, dan wel het gevolg daarvan wijzigen.
 
 ### Hoofdstuk II. ALGEMENE BEPALINGEN
 
-#### Artikel 7
+##### Artikel 7
 
 1. Bij de uitleg van dit Verdrag dient rekening te worden gehouden met het internationale karakter ervan en met de noodzaak eenvormigheid in de toepassing ervan en naleving van de goede trouw in de internationale handel te bevorderen.
 
 2. Vragen betreffende de door dit Verdrag geregelde onderwerpen, die hierin niet uitdrukkelijk zijn beslist, worden opgelost aan de hand van de algemene beginselen waarop dit Verdrag berust, of bij ontstentenis van zodanige beginselen, in overeenstemming met het krachtens de regels van internationaal privaatrecht toepasselijke recht.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Voor de toepassing van dit Verdrag dienen verklaringen afgelegd door en andere gedragingen van een partij te worden uitgelegd in overeenstemming met haar bedoeling, wanneer de andere partij die bedoeling kende of daarvan niet onkundig kon zijn.
 
@@ -90,13 +112,13 @@ De partijen kunnen de toepassing van dit Verdrag uitsluiten of, onverminderd het
 
 3. Bij het bepalen van de bedoeling van een partij of de zin die een redelijk persoon daaraan zou hebben toegekend, dient naar behoren rekening te worden gehouden met alle ter zake dienende omstandigheden van het geval, waaronder begrepen de onderhandelingen, eventuele handelwijzen die tussen partijen gebruikelijk zijn, gewoonten en alle latere gedragingen van partijen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De partijen zijn gebonden door elke gewoonte waarmee zij hebben ingestemd en door alle handelwijzen die tussen hen gebruikelijk zijn.
 
 2. Tenzij anders is overeengekomen, worden partijen geacht op hun overeenkomst of de totstandkoming hiervan stilzwijgend toepasselijk te hebben verklaard een gewoonte waarmee zij bekend waren of behoorden te zijn en die in de internationale handel op grote schaal bekend is aan, en regelmatig wordt nageleefd door partijen bij overeenkomsten van dezelfde soort in de desbetreffende handelsbranche.
 
-#### Artikel 10
+##### Artikel 10
 
 Voor de toepassing van dit Verdrag:
 
@@ -104,33 +126,33 @@ Voor de toepassing van dit Verdrag:
 
 - b. wordt, indien een partij geen vestiging heeft, zijn gewone verblijfplaats als zodanig aangemerkt.
 
-#### Artikel 11
+##### Artikel 11
 
 Een koopovereenkomst behoeft niet door middel van een geschrift te worden gesloten of bewezen en is aan geen enkel ander vormvereiste onderworpen. Zij kan door alle bewijsmiddelen, getuigen daaronder begrepen, worden bewezen.
 
-#### Artikel 12
+##### Artikel 12
 
 Enigerlei bepaling in artikel 11, artikel 29 of Deel II van dit Verdrag, krachtens welke het is toegestaan op andere wijze dan door middel van een geschrift een koopovereenkomst te sluiten, te wijzigen of door enkele wilsovereenstemming te beëindigen dan wel een aanbod te doen ofte aanvaarden of een andere wilsuiting te doen, is niet van toepassing wanneer een van de partijen haar vestiging heeft in een Verdragsluitende Staat die een verklaring heeft afgelegd ingevolge artikel 96 van dit Verdrag. Partijen mogen niet afwijken van dit artikel of het gevolg ervan wijzigen.
 
-#### Artikel 13
+##### Artikel 13
 
 Voor de toepassing van dit Verdrag worden onder „geschrift” mede verstaan een telegram en een telexbericht.
 
 ## DEEL II. TOTSTANDKOMING VAN DE OVEREENKOMST
 
-#### Artikel 14
+##### Artikel 14
 
 1. Een voorstel tot het sluiten van een overeenkomst, gericht tot één of meer bepaalde personen vormt een aanbod, indien het voldoende bepaald is en daaruit blijkt van de wil van de aanbieder om in geval van aanvaarding gebonden te zijn. Een voorstel is voldoende bepaald, indien daarin de zaken worden aangeduid en de hoeveelheid en de prijs uitdrukkelijk of stilzwijgend worden vastgesteld of bepaalbaar zijn.
 
 2. Een ander voorstel dan een dat is gericht tot één of meer bepaalde personen dient louter te worden beschouwd als een uitnodiging tot het doen van een aanbod, tenzij door de persoon die het voorstel doet duidelijk het tegendeel wordt aangegeven.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Een aanbod wordt van kracht wanneer het de wederpartij bereikt.
 
 2. Een aanbod kan, zelfs indien het onherroepelijk is, worden ingetrokken, indien de intrekking ervan de wederpartij eerder dan of gelijktijdig met het aanbod bereikt.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Een aanbod kan worden herroepen totdat de overeenkomst is gesloten, indien die herroeping de wederpartij bereikt voordat deze een aanvaarding heeft verzonden.
 
@@ -140,11 +162,11 @@ Voor de toepassing van dit Verdrag worden onder „geschrift” mede verstaan ee
 
 - b. indien het redelijk was dat de wederpartij erop vertrouwde dat het onherroepelijk was en de wederpartij in vertrouwen op het aanbod heeft gehandeld.
 
-#### Artikel 17
+##### Artikel 17
 
 Een aanbod vervalt, ook indien het onherroepelijk is, wanneer een verwerping de aanbieder bereikt.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Een verklaring afgelegd door, of een andere gedraging van de wederpartij, waaruit blijkt van instemming met een aanbod, is een aanvaarding. Stilzwijgen of niet reageren geldt op zichzelf niet als aanvaarding.
 
@@ -152,7 +174,7 @@ Een aanbod vervalt, ook indien het onherroepelijk is, wanneer een verwerping de 
 
 3. Indien echter op grond van het aanbod, de tussen partijen gebruikelijke handelwijzen of de gewoonte, de wederpartij van haar instemming kan doen blijken door het verrichten van een handeling, bijvoorbeeld met betrekking tot de verzending van de zaken of het betalen van de prijs, zonder kennisgeving aan de aanbieder, is de aanvaarding van kracht op het tijdstip waarop de handeling wordt verricht, mits de handeling wordt verricht binnen de in het voorgaande lid bedoelde termijn.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Een antwoord op een aanbod dat tot aanvaarding strekt, maar aanvullingen, beperkingen of andere wijzigingen bevat, geldt als een verwerping van het aanbod en vormt een tegenaanbod.
 
@@ -160,27 +182,27 @@ Een aanbod vervalt, ook indien het onherroepelijk is, wanneer een verwerping de 
 
 3. Aanvullende of afwijkende voorwaarden met betrekking tot onder andere de prijs, betaling, kwaliteit en hoeveelheid van de zaken, plaats en tijd van aflevering, omvang van aansprakelijkheid van één van beide partijen jegens de andere of de beslechting van geschillen worden geacht de voorwaarden van het aanbod wezenlijk aan te tasten.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Een door de aanbieder in een telegram of een brief gestelde termijn voor aanvaarding gaat in op het tijdstip waarop het telegram aangeboden voor verzending of op de dag waarop de brief is gedateerd, of indien de brief niet is gedateerd, op de datum van het postmerk op de enveloppe. Een telefonisch, per telex of via een andere vorm van onmiddellijke communicatie gestelde termijn voor aanvaarding gaat in op het tijdstip waarop het aanbod de geadresseerde bereikt.
 
 2. Officiële feestdagen of vrije dagen die vallen binnen de voor aanvaarding gestelde termijn worden bij de berekening van deze termijn inbegrepen. Indien een kennisgeving van aanvaarding niet kan worden afgegeven aan het adres van de aanbieder op de laatste dag van deze termijn, omdat deze valt op een officiële feestdag of een vrije dag op de plaats van vestiging van de aanbieder, wordt de termijn echter verlengd tot de eerstvolgende werkdag.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Een te late aanvaarding geldt niettemin als aanvaarding, indien de aanbieder zulks zonder uitstel mondeling ter kennis brengt van de wederpartij, of een hiertoe strekkende kennisgeving verzendt.
 
 2. Indien uit een brief of ander geschrift dat een te late aanvaarding bevat, blijkt dat verzending onder zodanige omstandigheden heeft plaatsgevonden dat hij bij normale overbrenging de aanbieder tijdig zou hebben bereikt, geldt de te late aanvaarding als aanvaarding, tenzij de aanbieder onverwijld de wederpartij mondeling verwittigt dat hij zijn aanbod als vervallen beschouwt of een hiertoe strekkende kennisgeving verzendt.
 
-#### Artikel 22
+##### Artikel 22
 
 Een aanvaarding kan worden ingetrokken indien de intrekking de aanbieder bereikt vóór of op het tijdstip waarop de aanvaarding van kracht zou zijn geworden.
 
-#### Artikel 23
+##### Artikel 23
 
 Een overeenkomst komt tot stand op het tijdstip waarop een aanvaarding van een aanbod van kracht wordt in overeenstemming met het bepaalde in dit Verdrag.
 
-#### Artikel 24
+##### Artikel 24
 
 Voor de toepassing van dit Deel van het Verdrag „bereikt” een aanbod, een verklaring van aanvaarding of enige andere verklaring de wederpartij, wanneer die haar mondeling is gedaan of anderszins is afgegeven aan haar persoonlijk, aan haar vestiging of postadres, of, indien zij geen vestiging of postadres heeft, aan haar gewone verblijfplaats.
 
@@ -188,23 +210,23 @@ Voor de toepassing van dit Deel van het Verdrag „bereikt” een aanbod, een ve
 
 ### Hoofdstuk 1. ALGEMENE BEPALINGEN
 
-#### Artikel 25
+##### Artikel 25
 
 Een tekortkoming van een der partijen in de nakoming van de uit de overeenkomst voortvloeiende verbintenissen is wezenlijk, indien zij leidt tot zodanige schade voor de andere partij dat haar in aanmerkelijke mate wordt onthouden wat zij uit hoofde van de overeenkomst mag verwachten, tenzij de partij die tekort schiet, dit gevolg niet heeft voorzien en een redelijk persoon van dezelfde hoedanigheid in dezelfde omstandigheden het evenmin zou hebben voorzien.
 
-#### Artikel 26
+##### Artikel 26
 
 Een verklaring van ontbinding van de overeenkomst is uitsluitend geldig indien zij geschiedt door middel van een kennisgeving aan de andere partij.
 
-#### Artikel 27
+##### Artikel 27
 
 Indien een kennisgeving, verzoek of andere mededeling door een partij wordt gedaan in overeenstemming met dit Deel van het Verdrag en met in de omstandigheden passende middelen, ontneemt een vertraging of vergissing bij het overbrengen van de mededeling of het niet aankomen hiervan die partij niet het recht zich op de mededeling te beroepen, tenzij in dit Deel uitdrukkelijk anders wordt bepaald.
 
-#### Artikel 28
+##### Artikel 28
 
 Indien in overeenstemming met het bepaalde in dit Verdrag een partij het recht heeft de nakoming van een verplichting door de andere partij te verlangen, is de rechter niet gehouden tot nakoming te veroordelen, tenzij de rechter dit op grond van zijn eigen recht eveneens zou doen met betrekking tot soortgelijke koopovereenkomsten, waarop dit Verdrag niet van toepassing is.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Een overeenkomst kan worden gewijzigd of beëindigd door enkele wilsovereenstemming tussen de partijen.
 
@@ -212,13 +234,13 @@ Indien in overeenstemming met het bepaalde in dit Verdrag een partij het recht h
 
 ### Hoofdstuk II. VERPLICHTINGEN VAN DE VERKOPER
 
-#### Artikel 30
+##### Artikel 30
 
 De verkoper moet de zaken afleveren, zo nodig de documenten afgeven en de eigendom van de zaken overdragen, een en ander volgens de bepalingen van de overeenkomst en van dit Verdrag.
 
 ### Afdeling I. **Aflevering van de roerende zaken en afgifte van documenten**
 
-#### Artikel 31
+##### Artikel 31
 
 Indien de verkoper niet gehouden is de zaken op enige andere bepaalde plaats af te leveren, bestaat zijn verplichting tot aflevering:
 
@@ -228,7 +250,7 @@ Indien de verkoper niet gehouden is de zaken op enige andere bepaalde plaats af 
 
 - c. in andere gevallen - uit het ter beschikking stellen van de zaken aan de koper op de plaats waar de verkoper zijn vestiging had ten tijde van het sluiten van de overeenkomst.
 
-#### Artikel 32
+##### Artikel 32
 
 1. Indien de verkoper, in overeenstemming met de overeenkomst of dit Verdrag, de zaken afgeeft aan een vervoerder en indien de zaken niet duidelijk zijn bestemd tot uitvoering van de overeenkomst door merktekens, door verzendingsdocumenten of anderszins, moet de verkoper de koper in kennis stellen van de verzending, onder nauwkeurige omschrijving van de zaken.
 
@@ -236,7 +258,7 @@ Indien de verkoper niet gehouden is de zaken op enige andere bepaalde plaats af 
 
 3. Indien de verkoper niet gehouden is een verzekering af te sluiten met betrekking tot het vervoer van de zaken, moet hij de koper op diens verzoek alle beschikbare informatie verstrekken die nodig is om hem in staat te stellen een zodanige verzekering af te sluiten.
 
-#### Artikel 33
+##### Artikel 33
 
 De verkoper moet de zaken afleveren:
 
@@ -246,13 +268,13 @@ De verkoper moet de zaken afleveren:
 
 - c. in alle andere gevallen, binnen een redelijke termijn na het sluiten van de overeenkomst.
 
-#### Artikel 34
+##### Artikel 34
 
 Indien de verkoper gehouden is documenten met betrekking tot de zaken af te geven, moet hij deze afgeven op het tijdstip, en op de plaats en in de vorm die door de overeenkomst worden vereist. Indien de verkoper vóór dat tijdstip documenten heeft afgegeven, kan hij tot op het voorgeschreven tijdstip eventuele onvolkomenheden in de documenten rechtzetten, indien de uitoefening van dit recht voor de koper geen onredelijk ongerief of onredelijke kosten meebrengt. De koper behoudt echter zijn recht op schadevergoeding overeenkomstig dit Verdrag.
 
 ### Afdeling II. **Het beantwoorden van de zaken aan de overeenkomst en rechten van derden**
 
-#### Artikel 35
+##### Artikel 35
 
 1. De verkoper dient zaken af te leveren waarvan de hoeveelheid, de kwaliteit en de omschrijving voldoen aan de in de overeenkomst gestelde eisen en die zijn verpakt op de in de overeenkomst vereiste wijze.
 
@@ -268,17 +290,17 @@ Indien de verkoper gehouden is documenten met betrekking tot de zaken af te geve
 
 3. De verkoper is niet ingevolge het in het voorgaande lid onder a-d bepaalde aansprakelijk voor het niet beantwoorden van de zaken aan de overeenkomst, indien de koper op het tijdstip van het sluiten van de overeenkomst wist of had behoren te weten dat de zaken niet aan de overeenkomst beantwoordden.
 
-#### Artikel 36
+##### Artikel 36
 
 1. De verkoper is in overeenstemming met de overeenkomst en dit Verdrag aansprakelijk indien de zaken niet aan de overeenkomst beantwoorden op het tijdstip waarop het risico op de koper overgaat, ook al blijkt zulks eerst daarna.
 
 2. De verkoper is tevens aansprakelijk voor elk niet beantwoorden van de zaken aan de overeenkomst hetwelk optreedt na het in het voorgaande lid genoemde tijdstip en te wijten is aan een tekortkoming in de nakoming van een van zijn verplichtingen, waaronder begrepen een garantie dat de zaken gedurende een bepaalde tijd geschikt zullen blijven voor het doel waarvoor zij normaal bestemd zijn of voor enigerlei bijzonder doel, dan wel nader aangegeven hoedanigheden of kenmerken zullen behouden.
 
-#### Artikel 37
+##### Artikel 37
 
 Indien de verkoper zaken heeft afgeleverd vóór de afleveringsdatum, mag hij tot aan die datum een eventueel ontbrekend deel afleveren of een eventueel tekort in de afgeleverde hoeveelheid zaken aanvullen, dan wel zaken die niet aan de overeenkomst beantwoorden vervangen of herstellen, mits de uitoefening van dit recht voor de koper geen onredelijk ongerief of onredelijke kosten meebrengt. De koper behoudt echter zijn recht op schadevergoeding overeenkomstig dit Verdrag.
 
-#### Artikel 38
+##### Artikel 38
 
 1. De koper moet de zaken binnen een, gelet op de omstandigheden zo kort mogelijke, termijn keuren of doen keuren.
 
@@ -286,21 +308,21 @@ Indien de verkoper zaken heeft afgeleverd vóór de afleveringsdatum, mag hij to
 
 3. Indien de koper de bestemming van de zaken onderweg wijzigt of hij deze doorzendt zonder dat hij redelijkerwijs gelegenheid heeft deze te keuren en de verkoper ten tijde van het sluiten van de overeenkomst de mogelijkheid van deze wijziging of doorzending kende of behoorde te kennen, kan de keuring worden uitgesteld tot het tijdstip waarop de zaken op de nieuwe bestemming zijn aangekomen.
 
-#### Artikel 39
+##### Artikel 39
 
 1. De koper verliest het recht om zich erop te beroepen dat de zaken niet aan de overeenkomst beantwoorden, indien hij niet binnen een redelijke termijn nadat hij dit heeft ontdekt of had behoren te ontdekken de verkoper hiervan in kennis stelt, onder opgave van de aard van de tekortkoming.
 
 2. In ieder geval verliest de koper het recht om zich erop te beroepen dat de zaken niet aan de overeenkomst beantwoorden, indien hij de verkoper niet uiterlijk binnen een termijn van twee jaar na de datum waarop de zaken feitelijk aan de koper werden afgegeven, hiervan in kennis stelt, tenzij deze termijn niet overeenstemt met een in de overeenkomst opgenomen garantietermijn.
 
-#### Artikel 40
+##### Artikel 40
 
 De verkoper kan zich niet beroepen op het bepaalde in de artikelen 38 en 39, indien het niet beantwoorden van de zaken aan de overeenkomst betrekking heeft op feiten die hij kende of waarvan hij niet onkundig had kunnen zijn en die hij niet aan de koper heeft bekend gemaakt.
 
-#### Artikel 41
+##### Artikel 41
 
 De verkoper dient zaken te leveren waarop geen rechten of aanspraken van derden rusten, tenzij de koper ermee heeft ingestemd om de zaken onder die beperkingen aan te nemen. Indien een zodanig recht of een zodanige aanspraak is gebaseerd op industriële eigendom of op andere intellectuele eigendom, wordt de verplichting van de verkoper evenwel beheerst door artikel 42.
 
-#### Artikel 42
+##### Artikel 42
 
 1. De verkoper dient zaken af te leveren waarop geen rechten of aanspraken van derden rusten die zijn gebaseerd op industriële eigendom of andere intellectuele eigendom, waarmede de verkoper op het tijdstip waarop de overeenkomst werd gesloten, bekend was of waarvan hij niet onkundig had kunnen zijn, mits dat recht of die aanspraak is gebaseerd op industriële eigendom of andere intellectuele eigendom:
 
@@ -314,19 +336,19 @@ De verkoper dient zaken te leveren waarop geen rechten of aanspraken van derden 
 
 - b. het recht of de aanspraak voortvloeit uit het feit dat de verkoper zich heeft gehouden aan door de koper verstrekte technische tekeningen, ontwerpen, formules of andere soortgelijke specificaties.
 
-#### Artikel 43
+##### Artikel 43
 
 1. De verkoper verliest het recht zich te beroepen op het bepaalde in de artikelen 41 en 42, indien hij nalaat binnen redelijke tijd nadat hij kennis kreeg of had behoren te krijgen van het recht of de aanspraak van de derde, de verkoper daarvan in kennis te stellen, onder nadere aanduiding van de aard van het recht of de aanspraak.
 
 2. De verkoper is niet gerechtigd zich te beroepen op het bepaalde in het voorgaande lid, indien hij bekend was met het recht of de aanspraak van de derde en met de aard daarvan.
 
-#### Artikel 44
+##### Artikel 44
 
 Niettegenstaande het bepaalde in artikel 39, eerste lid, en artikel 43, eerste lid, kan de koper de prijs verlagen in overeenstemming met het bepaalde in artikel 50 of, anders dan terzake van gederfde winst, schadevergoeding eisen indien hij een redelijke verontschuldiging heeft voor het feit dat hij de vereiste kennisgeving niet heeft gedaan.
 
 ### Afdeling III. Gevolgen van niet-nakoming van de verplichtingen van de verkoper
 
-#### Artikel 45
+##### Artikel 45
 
 1. Indien de verkoper tekort schiet in de nakoming van een krachtens de overeenkomst of dit Verdrag op hem rustende verplichting, kan de koper:
 
@@ -338,7 +360,7 @@ Niettegenstaande het bepaalde in artikel 39, eerste lid, en artikel 43, eerste l
 
 3. Wanneer de koper een recht uitoefent terzake van een tekortkoming, kan een rechter of scheidsgerecht de verkoper geen uitstel verlenen.
 
-#### Artikel 46
+##### Artikel 46
 
 1. De koper kan nakoming door de verkoper van zijn verplichtingen eisen, tenzij de koper een recht heeft uitgeoefend dat onverenigbaar is met deze eis.
 
@@ -346,13 +368,13 @@ Niettegenstaande het bepaalde in artikel 39, eerste lid, en artikel 43, eerste l
 
 3. Indien de zaken niet beantwoorden aan de overeenkomst, kan de koper van de verkoper herstel eisen, tenzij zulks, alle omstandigheden in aanmerking genomen, onredelijk is. Een verzoek tot herstel moet worden gedaan hetzij in combinatie met een ingevolge artikel 39 gedane kennisgeving, hetzij binnen een redelijke termijn daarna.
 
-#### Artikel 47
+##### Artikel 47
 
 1. De koper kan een aanvullende termijn van redelijke duur stellen voor het nakomen door de verkoper van zijn verplichtingen.
 
 2. Tenzij de koper een kennisgeving van de verkoper heeft ontvangen dat deze niet binnen de aldus gestelde termijn zijn verplichtingen zal nakomen, mag de koper gedurende deze termijn geen rechten uitoefenen terzake van niet-nakoming. De koper verliest hierdoor echter niet zijn eventuele recht op schadevergoeding wegens te late nakoming.
 
-#### Artikel 48
+##### Artikel 48
 
 1. Behoudens het bepaalde in artikel 49 mag de verkoper zelfs na de voor aflevering bepaalde datum op eigen kosten een eventuele tekortkoming in de nakoming van zijn verplichtingen herstellen, indien hij dit kan doen zonder onredelijke vertraging en zonder onredelijk ongerief voor de koper te veroorzaken of deze in het ongewisse te laten over de vergoeding door de verkoper van door de koper reeds gemaakte kosten. De koper behoudt echter zijn recht op schadevergoeding overeenkomstig dit Verdrag.
 
@@ -362,7 +384,7 @@ Niettegenstaande het bepaalde in artikel 39, eerste lid, en artikel 43, eerste l
 
 4. Een verzoek of kennisgeving van de zijde van de verkoper ingevolge de leden 2 en 3 van dit artikel is slechts geldig indien het door de koper is ontvangen.
 
-#### Artikel 49
+##### Artikel 49
 
 1. De koper kan de overeenkomst ontbonden verklaren:
 
@@ -382,17 +404,17 @@ Niettegenstaande het bepaalde in artikel 39, eerste lid, en artikel 43, eerste l
 
 - (iii). na het verstrijken van een door de verkoper in overeenstemming met artikel 48, tweede lid, aangegeven aanvullende termijn, of nadat de koper heeft verklaard dat hij geen nakoming zal aanvaarden.
 
-#### Artikel 50
+##### Artikel 50
 
 Indien de zaken niet beantwoorden aan de overeenkomst en ongeacht of de prijs reeds is betaald, kan de koper de prijs verlagen in dezelfde verhouding als waarin de waarde die de feitelijk afgeleverde zaken hadden op het tijdstip van aflevering staat tot de waarde die wel aan de overeenkomst beantwoordende zaken op dat tijdstip zouden hebben gehad. De koper mag de prijs echter niet verlagen, indien de verkoper in overeenstemming met artikel 37 of artikel 48 een tekortkoming in de nakoming van zijn verplichtingen herstelt of indien de koper weigert nakoming door de verkoper in overeenstemming met die artikelen te aanvaarden.
 
-#### Artikel 51
+##### Artikel 51
 
 1. Indien de verkoper slechts een gedeelte van de zaken aflevert of indien slechts een gedeelte van de afgeleverde zaken aan de overeenkomst beantwoordt, zijn de artikelen 46 tot en met 50 van toepassing met betrekking tot het gedeelte dat ontbreekt of dat niet aan de overeenkomst beantwoordt.
 
 2. De koper kan slechts dan de overeenkomst in haar geheel ontbonden verklaren indien het feit dat slechts een gedeelte is afgeleverd of dat niet aan de overeenkomst beantwoordende zaken zijn afgeleverd een wezenlijke tekortkoming vormt.
 
-#### Artikel 52
+##### Artikel 52
 
 1. Indien de verkoper de zaken aflevert vóór de bepaalde datum, kan de koper de aflevering aanvaarden of afwijzen.
 
@@ -400,25 +422,25 @@ Indien de zaken niet beantwoorden aan de overeenkomst en ongeacht of de prijs re
 
 ### Hoofdstuk III. VERPLICHTINGEN VAN DE KOPER
 
-#### Artikel 53
+##### Artikel 53
 
 De koper is verplicht de koopprijs te betalen en de zaken in ontvangst te nemen; een en ander in overeenstemming met de eisen van de overeenkomst en dit Verdrag.
 
 ### Afdeling I. **Betaling van de koopprijs**
 
-#### Artikel 54
+##### Artikel 54
 
 De verplichting van de koper om de prijs te betalen houdt tevens in dat hij de stappen onderneemt en formaliteiten vervult die krachtens de overeenkomst of eventuele wetten en voorschriften nodig zijn om de betaling mogelijk te maken.
 
-#### Artikel 55
+##### Artikel 55
 
 Wanneer de koop rechtsgeldig is gesloten zonder dat de overeenkomst uitdrukkelijk of stilzwijgend de prijs bepaalt of in de wijze van bepaling daarvan voorziet, worden de partijen geacht, tenzij het tegendeel blijkt, zich stilzwijgend te hebben gehouden aan de prijs die ten tijde van het sluiten van de overeenkomst voor zodanige onder vergelijkbare omstandigheden verkochte zaken gewoonlijk wordt bedongen in de betrokken handelsbranche.
 
-#### Artikel 56
+##### Artikel 56
 
 Wordt de prijs vastgesteld naar het gewicht van de zaken, dan is in geval van twijfel het netto-gewicht beslissend.
 
-#### Artikel 57
+##### Artikel 57
 
 1. Indien de koper niet gehouden is de prijs op een bepaalde andere plaats te betalen, dient hij de verkoper te betalen:
 
@@ -428,7 +450,7 @@ Wordt de prijs vastgesteld naar het gewicht van de zaken, dan is in geval van tw
 
 2. De verkoper dient een verhoging van de aan de betaling verbonden kosten die het gevolg is van een verandering in zijn plaats van vestiging na het sluiten van de overeenkomst, voor zijn rekening te nemen.
 
-#### Artikel 58
+##### Artikel 58
 
 1. Indien de koper niet gehouden is de prijs op een nader aangegeven ander tijdstip te betalen, dient hij deze te betalen wanneer de verkoper hetzij de zaken, hetzij de daarop betrekking hebbende documenten ter beschikking stelt van de koper, zulks in overeenstemming met de overeenkomst en dit Verdrag. De verkoper kan een zodanige betaling als voorwaarde stellen voor de afgifte van de zaken of de documenten.
 
@@ -436,13 +458,13 @@ Wordt de prijs vastgesteld naar het gewicht van de zaken, dan is in geval van tw
 
 3. De koper is niet verplicht tot betaling van de prijs voordat hij gelegenheid heeft gehad de zaken te keuren, tenzij de door partijen overeengekomen procedures voor aflevering of betaling met deze mogelijkheid niet verenigbaar zijn.
 
-#### Artikel 59
+##### Artikel 59
 
 De koper dient de prijs te betalen op de in de overeenkomst bepaalde of aan de hand van de overeenkomst en dit Verdrag te bepalen datum, zonder dat de verkoper hierom behoeft te verzoeken of hiertoe enige formaliteit behoeft te vervullen.
 
 ### Afdeling II. **Inontvangstneming van de zaken**
 
-#### Artikel 60
+##### Artikel 60
 
 De verplichting van de koper tot inontvangstneming bestaat in:
 
@@ -452,7 +474,7 @@ De verplichting van de koper tot inontvangstneming bestaat in:
 
 ### Afdeling III. **Gevolgen van niet-nakoming van de verplichtingen van de koper**
 
-#### Artikel 61
+##### Artikel 61
 
 1. Indien de koper tekort schiet in de nakoming van de krachtens de overeenkomst of dit Verdrag op hem rustende verplichtingen, kan de verkoper:
 
@@ -464,17 +486,17 @@ De verplichting van de koper tot inontvangstneming bestaat in:
 
 3. Indien de verkoper een recht uitoefent terzake van een tekortkoming kan een rechter of scheidsgerecht de koper geen uitstel verlenen.
 
-#### Artikel 62
+##### Artikel 62
 
 De verkoper kan van de koper eisen dat deze de prijs betaalt, de zaken in ontvangst neemt of zijn andere verplichtingen nakomt, tenzij de verkoper een recht heeft uitgeoefend dat onverenigbaar is met deze eis.
 
-#### Artikel 63
+##### Artikel 63
 
 1. De verkoper kan een aanvullende termijn van redelijke duur stellen voor het nakomen door de koper van zijn verplichtingen.
 
 2. Tenzij de verkoper een kennisgeving van de koper heeft ontvangen dat deze niet binnen de aldus gestelde termijn zijn verplichtingen zal nakomen, mag de verkoper gedurende deze termijn geen rechten uitoefenen terzake van niet-nakoming. De verkoper verliest hierdoor echter niet zijn eventuele recht op schadevergoeding wegens te late nakoming.
 
-#### Artikel 64
+##### Artikel 64
 
 1. De verkoper kan de overeenkomst ontbonden verklaren:
 
@@ -492,7 +514,7 @@ De verkoper kan van de koper eisen dat deze de prijs betaalt, de zaken in ontvan
 
 - (ii). na het verstrijken van een door de verkoper in overeenstemming met artikel 63, eerste lid, gestelde aanvullende termijn, of nadat de koper heeft verklaard dat hij zijn verplichtingen niet binnen een zodanige aanvullende termijn zal nakomen.
 
-#### Artikel 65
+##### Artikel 65
 
 1. Indien de koper krachtens de overeenkomst de vorm, de afmeting of andere kenmerken van de zaken nader moet bepalen en hij deze specificatie niet op het overeengekomen tijdstip of binnen een redelijke termijn na ontvangst van een hiertoe strekkend verzoek van de verkoper verricht, kan de verkoper, onverminderd zijn eventuele andere rechten, zelf overgaan tot specificatie in overeenstemming met de behoeften van de koper, voor zover deze hem bekend zijn.
 
@@ -500,21 +522,21 @@ De verkoper kan van de koper eisen dat deze de prijs betaalt, de zaken in ontvan
 
 ### Hoofdstuk IV. OVERGANG VAN HET RISICO
 
-#### Artikel 66
+##### Artikel 66
 
 Het verlies van of schade aan de zaken nadat het risico is overgegaan op de koper, ontslaat deze niet van de verplichting de prijs te betalen, tenzij het verlies of de schade te wijten is aan een handeling of nalatigheid van de verkoper.
 
-#### Artikel 67
+##### Artikel 67
 
 1. Indien de overeenkomst tevens het vervoer van de zaken omvat en de verkoper niet gehouden is deze op een bepaalde plaats af te geven, gaat het risico over op de koper wanneer de zaken aan de eerste vervoerder worden afgegeven ter verzending aan de koper in overeenstemming met de overeenkomst. Indien de verkoper gehouden is de zaken op een bepaalde plaats aan de vervoerder af te geven, gaat het risico eerst over op de koper wanneer de zaken op die plaats aan de vervoerder worden afgegeven. De omstandigheid dat de verkoper bevoegd is de op de zaken betrekking hebbende documenten te behouden, is niet van invloed op de overgang van het risico.
 
 2. Desondanks gaat het risico niet over op de koper dan nadat de zaken duidelijk zijn bestemd tot uitvoering van de overeenkomst door merktekens, door verzendingsdocumenten, door kennisgeving aan de koper of anderszins.
 
-#### Artikel 68
+##### Artikel 68
 
 Het risico met betrekking tot zaken die tijdens doorvoer zijn verkocht, gaat over op de koper vanaf het tijdstip van het sluiten van de overeenkomst. Indien de omstandigheden zulks uitwijzen, draagt de koper echter het risico vanaf het tijdstip waarop de zaken werden afgegeven aan de vervoerder die de documenten waarin de vervoerovereenkomst is neergelegd, heeft uitgegeven. Desondanks draagt de verkoper het risico van verlies of schade, indien de verkoper op het tijdstip waarop de koopovereenkomst werd gesloten ermee bekend was of had behoren te zijn dat de zaken verloren waren geraakt of waren beschadigd en hij dit niet aan de koper heeft meegedeeld.
 
-#### Artikel 69
+##### Artikel 69
 
 1. In gevallen die niet vallen onder de artikelen 67 en 68 gaat het risico over op de koper wanneer hij de zaken overneemt of, indien hij zulks niet tijdig doet, vanaf het tijdstip waarop de zaken aan hem ter beschikking worden gesteld en het niet in ontvangst nemen van de zaken een tekortkoming oplevert.
 
@@ -522,7 +544,7 @@ Het risico met betrekking tot zaken die tijdens doorvoer zijn verkocht, gaat ove
 
 3. Indien de overeenkomst betrekking heeft op nog niet geïdentificeerde zaken, worden de zaken eerst geacht ter beschikking van de koper te zijn gesteld, wanneer zij duidelijk zijn bestemd tot uitvoering van de overeenkomst.
 
-#### Artikel 70
+##### Artikel 70
 
 Indien de verkoper zich heeft schuldig gemaakt aan een wezenlijke tekortkoming, doen de artikelen 67, 68 en 69 geen afbreuk aan de rechten die de koper terzake van deze tekortkoming ten dienste staan.
 
@@ -530,7 +552,7 @@ Indien de verkoper zich heeft schuldig gemaakt aan een wezenlijke tekortkoming, 
 
 ### Afdeling I. **Toekomstige tekortkoming en overeenkomsten strekkende tot opeenvolgende afleveringen**
 
-#### Artikel 71
+##### Artikel 71
 
 1. Een partij mag de nakoming van haar verplichtingen opschorten, indien na het sluiten van de overeenkomst blijkt dat de andere partij een wezenlijk deel van haar verplichtingen niet zal nakomen ten gevolge van:
 
@@ -542,7 +564,7 @@ Indien de verkoper zich heeft schuldig gemaakt aan een wezenlijke tekortkoming, 
 
 3. Een partij die hetzij vóór, hetzij na verzending van de zaken de nakoming opschort, moet de andere partij onmiddellijk in kennis stellen van de opschorting en moet voortgaan met de nakoming, indien de andere partij voldoende zekerheid stelt voor de nakoming van haar verplichtingen.
 
-#### Artikel 72
+##### Artikel 72
 
 1. Indien het vóór de datum van nakoming duidelijk is dat één van de partijen zich schuldig zal maken aan een wezenlijke tekortkoming, kan de andere partij de overeenkomst ontbonden verklaren.
 
@@ -550,7 +572,7 @@ Indien de verkoper zich heeft schuldig gemaakt aan een wezenlijke tekortkoming, 
 
 3. Het voorgaande lid is niet van toepassing indien de andere partij heeft verklaard dat zij haar verplichtingen niet zal nakomen.
 
-#### Artikel 73
+##### Artikel 73
 
 1. Indien bij een overeenkomst strekkende tot opeenvolgende afleveringen van zaken de tekortkoming van een partij in de nakoming van haar verplichtingen ten aanzien van één aflevering een wezenlijke tekortkoming ten aanzien van die aflevering vormt, kan de wederpartij de overeenkomst ten aanzien van die aflevering ontbonden verklaren.
 
@@ -560,33 +582,33 @@ Indien de verkoper zich heeft schuldig gemaakt aan een wezenlijke tekortkoming, 
 
 ### Afdeling II. Schadevergoeding
 
-#### Artikel 74
+##### Artikel 74
 
 De schadevergoeding wegens een tekortkoming van een partij bestaat uit een bedrag gelijk aan de schade, met inbegrip van de gederfde winst, die door de andere partij als gevolg van de tekortkoming wordt geleden. Een zodanige schadevergoeding mag evenwel niet hoger zijn dan de schade die de partij die in de nakoming is tekort geschoten bij het sluiten van de overeenkomst voorzag of had behoren te voorzien als mogelijk gevolg van de tekortkoming, gegeven de feiten die zij kende of die zij had behoren te kennen.
 
-#### Artikel 75
+##### Artikel 75
 
 Indien de overeenkomst wordt ontbonden en de koper of de verkoper op een redelijke wijze en binnen een redelijke termijn na de ontbinding een dekkingskoop heeft gesloten, komt aan de partij die schadevergoeding eist, het verschil toe tussen de overeengekomen prijs en die van de dekkingskoop, onverminderd haar recht op vergoeding van andere schade overeenkomstig artikel 74.
 
-#### Artikel 76
+##### Artikel 76
 
 1. In geval van ontbinding van de overeenkomst heeft, indien de zaken een dagprijs hebben, de partij die schadevergoeding eist, zo zij niet is overgegaan tot een dekkingskoop als bedoeld in artikel 75, recht op het verschil tussen de in de overeenkomst bepaalde prijs en de ten tijde van de ontbinding geldende dagprijs, onverminderd haar recht op vergoeding van andere schade overeenkomstig artikel 74. Indien evenwel de partij die schadevergoeding eist de overeenkomst heeft ontbonden na de zaken te hebben overgenomen, wordt de dagprijs ten tijde van die overname gehanteerd in plaats van de dagprijs ten tijde van de ontbinding.
 
 2. Voor de toepassing van het vorige lid, is de dagprijs die welke geldt op de plaats waar de zaken hadden moeten worden afgeleverd, of, indien er op die plaats geen dagprijs is, de prijs op een andere plaats die deze redelijkerwijs kan vervangen; hierbij wordt rekening gehouden met de verschillen in de kosten van vervoer van de zaken.
 
-#### Artikel 77
+##### Artikel 77
 
 Een partij die zich beroept op een tekortkoming moet de in de gegeven omstandigheden redelijke maatregelen treffen tot beperking van de uit de tekortkoming voortvloeiende schade, met inbegrip van de gederfde winst. Laat zij zodanige maatregelen na, dan kan de partij die in de nakoming is tekort geschoten een vermindering van de schadevergoeding verlangen ten belope van het bedrag waarmee het verlies had moeten worden beperkt.
 
 ### Afdeling III. Rente
 
-#### Artikel 78
+##### Artikel 78
 
 Indien een partij tekort schiet in de betaling van de prijs of van enig ander achterstallig bedrag, heeft de andere partij recht op rente hierover, onverminderd haar recht op schadevergoeding overeenkomstig artikel 74.
 
 ### Afdeling IV. **Bevrijdende omstandigheden**
 
-#### Artikel 79
+##### Artikel 79
 
 1. Een partij is niet aansprakelijk voor een tekortkoming in de nakoming van een van haar verplichtingen, indien zij aantoont dat de tekortkoming werd veroorzaakt door een verhindering die buiten haar macht lag en dat van haar redelijkerwijs niet kon worden verwacht dat zij bij het sluiten van de overeenkomst met die verhindering rekening zou hebben gehouden of dat zij deze of de gevolgen ervan zou hebben vermeden of te boven zou zijn gekomen.
 
@@ -602,19 +624,19 @@ Indien een partij tekort schiet in de betaling van de prijs of van enig ander ac
 
 5. Niets in dit artikel verhindert partijen krachtens dit Verdrag enig ander recht dan dat op schadevergoeding, uit te oefenen.
 
-#### Artikel 80
+##### Artikel 80
 
 Een partij kan zich niet beroepen op een tekortkoming van de andere partij voor zover die tekortkoming werd veroorzaakt door een handeling of nalatigheid van eerstgenoemde partij.
 
 ### Afdeling V. **Gevolgen van de ontbinding**
 
-#### Artikel 81
+##### Artikel 81
 
 De ontbinding bevrijdt beide partijen van hun verplichtingen uit de overeenkomst, onverminderd een eventueel verschuldigde schadevergoeding. Ontbinding is niet van invloed op een bepaling van de overeenkomst met betrekking tot de beslechting van geschillen of op andere bepalingen van de overeenkomst die de rechten en verplichtingen van partijen na ontbinding van de overeenkomst regelen.
 
 - 2. Een partij die de overeenkomst geheel of ten dele heeft uitgevoerd, kan van de andere partij teruggave eisen van hetgeen zij uit hoofde van de overeenkomst heeft gepresteerd. Hebben beide partijen het recht teruggave te vorderen, dan moet deze teruggave over en weer gelijktijdig geschieden.
 
-#### Artikel 82
+##### Artikel 82
 
 1. De koper verliest het recht de overeenkomst ontbonden te verklaren of van de verkoper te eisen dat deze vervangende zaken aflevert, indien het hem onmogelijk is de zaken goeddeels in dezelfde staat terug te geven als waarin hij deze heeft ontvangen.
 
@@ -626,11 +648,11 @@ De ontbinding bevrijdt beide partijen van hun verplichtingen uit de overeenkomst
 
 - c. indien de koper de zaken of een gedeelte daarvan in de normale uitoefening van zijn bedrijf heeft verkocht of in overeenstemming met een normale wijze van gebruiken heeft verbruikt of verwerkt, alvorens hij ontdekte of had behoren te ontdekken dat deze niet beantwoordden aan de overeenkomst.
 
-#### Artikel 83
+##### Artikel 83
 
 Een koper die het recht verloren heeft de overeenkomst ontbonden te verklaren of van de verkoper te eisen dat deze in overeenstemming met artikel 82 vervangende zaken aflevert, behoudt alle andere rechten die de overeenkomst en dit Verdrag hem toekennen.
 
-#### Artikel 84
+##### Artikel 84
 
 1. Indien de verkoper gehouden is de prijs terug te betalen moet hij hierover tevens rente betalen vanaf het tijdstip waarop de prijs werd betaald.
 
@@ -642,21 +664,21 @@ Een koper die het recht verloren heeft de overeenkomst ontbonden te verklaren of
 
 ### Afdeling VI. **Zorg voor behoud van de zaken**
 
-#### Artikel 85
+##### Artikel 85
 
 Indien de koper nalatig is met de inontvangstneming van de zaken of indien hij, wanneer de prijs dient te worden betaald bij aflevering van de zaken, in gebreke blijft de prijs te betalen en de verkoper hetzij de zaken onder zich heeft, hetzij daarover anderszins zeggenschap kan uitoefenen, moet de verkoper alle in de omstandigheden redelijke maatregelen voor het behoud van de zaken treffen. Hij heeft het recht deze onder zich te houden totdat hij door de koper voor de door hem in redelijkheid gemaakte kosten schadeloos is gesteld.
 
-#### Artikel 86
+##### Artikel 86
 
 1. Indien de koper de zaken heeft ontvangen en hij voornemens is enigerlei recht krachtens de overeenkomst of dit Verdrag uit te oefenen om deze te weigeren, moet hij alle in de omstandigheden redelijke maatregelen voor het behoud van de zaken treffen. Hij heeft het recht deze onder zich te houden totdat hij door de verkoper voor de door hem in redelijkheid gemaakte kosten schadeloos is gesteld.
 
 2. Indien de aan de koper verzonden zaken op hun plaats van bestemming te zijner beschikking zijn gesteld, en hij het recht om deze te weigeren, uitoefent, moet hij deze voor rekening van de verkoper onder zich nemen, mits dit kan geschieden zonder betaling van de prijs en zonder onredelijk ongerief of onredelijke kosten. Deze bepaling is niet van toepassing, indien de verkoper op de plaats van bestemming aanwezig is of iemand aldaar bevoegd is de zaken voor diens rekening onder zijn hoede te nemen. Indien de koper de zaken onder zich neemt ingevolge dit lid, worden zijn rechten en verplichtingen beheerst door het vorige lid.
 
-#### Artikel 87
+##### Artikel 87
 
 Een partij die gehouden is maatregelen voor het behoud van de zaken te treffen, kan deze voor rekening van de andere partij in bewaring geven in de opslagruimte van een derde, mits de hieruit voortvloeiende kosten niet onredelijk zijn.
 
-#### Artikel 88
+##### Artikel 88
 
 1. Een partij die in overeenstemming met de artikelen 85 of 86 gehouden is voor het behoud van de zaken te zorgen kan deze op een geschikte wijze verkopen, indien de wederpartij bij het aanvaarden of terugnemen van de zaken of bij de betaling van de prijs of de kosten van bewaring een onredelijk grote vertraging laat ontstaan, mits zij de wederpartij op redelijke wijze kennis heeft gegeven van haar voornemen om te verkopen.
 
@@ -666,15 +688,15 @@ Een partij die gehouden is maatregelen voor het behoud van de zaken te treffen, 
 
 ## DEEL IV. SLOTBEPALINGEN
 
-#### Artikel 89
+##### Artikel 89
 
 De Secretaris-Generaal van de Verenigde Naties wordt hierbij aangewezen als depositaris van dit Verdrag.
 
-#### Artikel 90
+##### Artikel 90
 
 Dit Verdrag prevaleert niet boven enige internationale overeenkomst die reeds is of kan worden gesloten en die bepalingen bevat met betrekking tot de aangelegenheid waarop dit Verdrag van toepassing is, mits de partijen hun vestiging hebben in Staten die partij zijn bij een zodanige overeenkomst.
 
-#### Artikel 91
+##### Artikel 91
 
 1. Dit Verdrag is opengesteld voor ondertekening tijdens de slotbijeenkomst van de Conferentie der Verenigde Naties inzake de Internationale koop van roerende zaken en zal tot 30 september 1981 opengesteld blijven voor ondertekening door alle Staten op de Zetel van de Organisatie der Verenigde Naties te New York.
 
@@ -684,13 +706,13 @@ Dit Verdrag prevaleert niet boven enige internationale overeenkomst die reeds is
 
 4. De akten van bekrachtiging, aanvaarding, goedkeuring en toetreding dienen te worden nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
 
-#### Artikel 92
+##### Artikel 92
 
 1. Een Verdragsluitende Staat kan op het tijdstip van ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding verklaren dat hij niet zal zijn gebonden door Deel II van dit Verdrag of dat hij niet zal zijn gebonden door Deel III van dit Verdrag.
 
 2. Een Verdragsluitende Staat die in overeenstemming met het voorgaande lid een verklaring aflegt met betrekking tot Deel II of Deel III van dit Verdrag, dient, waar het aangelegenheden betreft die vallen onder het Deel waarop de verklaring van toepassing is, niet te worden beschouwd als een Verdragsluitende Staat in de zin van artikel 1, eerste lid van dit Verdrag.
 
-#### Artikel 93
+##### Artikel 93
 
 1. Indien een Verdragsluitende Staat die twee of meer gebiedsdelen heeft, waarin, in overeenstemming met zijn grondwet, verschillende rechtsstelsels gelden met betrekking tot de in dit Verdrag behandelde aangelegenheden, kan hij op het tijdstip van ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding verklaren dat dit Verdrag zal gelden voor al zijn gebiedsdelen, of slechts voor één of meer hiervan en kan hij te allen tijde zijn verklaring wijzigen door een andere verklaring in te dienen.
 
@@ -700,7 +722,7 @@ Dit Verdrag prevaleert niet boven enige internationale overeenkomst die reeds is
 
 4. Indien een Verdragsluitende Staat geen verklaring ingevolge het eerste lid van dit artikel aflegt, is het Verdrag van toepassing op alle gebiedsdelen van die Staat.
 
-#### Artikel 94
+##### Artikel 94
 
 1. Twee of meer Verdragsluitende Staten die dezelfde of nauw verwante rechtsregels hebben met betrekking tot onder dit Verdrag vallende aangelegenheden, kunnen te allen tijde verklaren dat het Verdrag niet van toepassing zal zijn op koopovereenkomsten of de totstandkoming daarvan, waarbij de partijen hun vestiging in die Staten hebben. Dergelijke verklaringen kunnen gezamenlijk of door middel van wederkerige eenzijdige verklaringen worden afgelegd.
 
@@ -708,15 +730,15 @@ Dit Verdrag prevaleert niet boven enige internationale overeenkomst die reeds is
 
 3. Indien een Staat ten aanzien waarvan ingevolge het voorgaande lid een verklaring is afgelegd, vervolgens een Verdragsluitende Staat wordt, zal de verklaring, met ingang van de datum waarop het Verdrag ten aanzien van de nieuwe Verdragsluitende Staat in werking treedt, de werking hebben van een ingevolge het eerste lid afgelegde verklaring, met dien verstande dat de nieuwe Verdragsluitende Staat die verklaring onderschrijft of een wederkerige eenzijdige verklaring aflegt.
 
-#### Artikel 95
+##### Artikel 95
 
 Iedere Staat kan op het tijdstip van nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding verklaren dat hij niet zal zijn gebonden door artikel 1, eerste lid, onder b, van dit Verdrag.
 
-#### Artikel 96
+##### Artikel 96
 
 Een Verdragsluitende Staat wiens wetgeving vereist dat koopovereenkomsten door middel van een geschrift worden gesloten of bewezen, kan te allen tijde een verklaring afleggen in overeenstemming met artikel 12, dat enigerlei bepaling in artikel 11, artikel 29, of Deel II van dit Verdrag, krachtens welke het is toegestaan op andere wijze dan door middel van een geschrift een koopovereenkomst te sluiten, te wijzigen of door enkele wilsovereenstemming te beëindigen dan wel een aanbod te doen ofte aanvaarden of een andere wilsuiting te doen, niet van toepassing is indien een van de partijen haar vestiging in die Staat heeft.
 
-#### Artikel 97
+##### Artikel 97
 
 1. Krachtens dit Verdrag op het tijdstip van ondertekening afgelegde verklaringen dienen te worden bevestigd bij bekrachtiging, aanvaarding of goedkeuring.
 
@@ -728,11 +750,11 @@ Een Verdragsluitende Staat wiens wetgeving vereist dat koopovereenkomsten door m
 
 5. Een intrekking van een krachtens artikel 94 afgelegde verklaring maakt vanaf de datum waarop de intrekking van kracht wordt, iedere wederkerige verklaring, door een andere Staat uit hoofde van dat artikel afgelegd, ongeldig.
 
-#### Artikel 98
+##### Artikel 98
 
 Voorbehouden worden niet toegestaan, behoudens die welke uitdrukkelijk in dit Verdrag zijn toegestaan.
 
-#### Artikel 99
+##### Artikel 99
 
 1. Dit Verdrag treedt in werking, behoudens het bepaalde in het zesde lid van dit artikel, op de eerste dag van de maand volgend op het verstrijken van een tijdvak van twaalf maanden na de datum van nederlegging van de tiende akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, waaronder begrepen een akte die een krachtens artikel 92 afgelegde verklaring bevat.
 
@@ -746,13 +768,13 @@ Voorbehouden worden niet toegestaan, behoudens die welke uitdrukkelijk in dit Ve
 
 6. Voor de toepassing van dit artikel worden bekrachtigingen, aanvaardingen, goedkeuringen en toetredingen met betrekking tot dit Verdrag door Staten die partij zijn bij het Haags Totstandkomingsverdrag van 1964 of het Haags Koopverdrag van 1964 eerst van kracht wanneer de vereiste opzeggingen door die Staten met betrekking tot beide laatste Verdragen, zelf van kracht zijn geworden. De depositaris van dit Verdrag dient overleg te plegen met de Regering van het Koninkrijk der Nederlanden als depositaris van de Verdragen van 1964, ten einde op dit punt de noodzakelijke coördinatie te garanderen.
 
-#### Artikel 100
+##### Artikel 100
 
 1. Dit Verdrag is slechts van toepassing op de totstandkoming van een overeenkomst wanneer het voorstel tot het sluiten van de overeenkomst is gedaan op of na de datum waarop het Verdrag in werking treedt ten aanzien van de in artikel 1, eerste lid, onder a, bedoelde Verdragsluitende Staten of de in artikel 1, eerste lid, onder b bedoelde Verdragsluitende Staat.
 
 2. Dit Verdrag is slechts van toepassing op overeenkomsten die zijn gesloten op of na de datum waarop het Verdrag in werking treedt ten aanzien van de in artikel 1, eerste lid, onder a, bedoelde Verdragsluitende Staten of de in artikel 1, eerste lid, onder b, bedoelde Verdragsluitende Staat.
 
-#### Artikel 101
+##### Artikel 101
 
 1. Een Verdragsluitende Staat kan dit Verdrag of Deel II of Deel III van het Verdrag opzeggen door middel van een officiële schriftelijke kennisgeving aan de depositaris.
 

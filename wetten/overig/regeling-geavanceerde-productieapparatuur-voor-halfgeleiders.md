@@ -1,20 +1,46 @@
 ---
-title: "Regeling geavanceerde productieapparatuur voor halfgeleiders"
+title: "Regeling van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 23 juni 2023, nr. MinBuza.2023.15246-27 houdende invoering van een vergunningplicht voor de uitvoer van geavanceerde productieapparatuur voor halfgeleiders die niet zijn genoemd in bijlage I van Verordening 2021/821 (Regeling geavanceerde productieapparatuur voor halfgeleiders)"
 identifier: "BWBR0048439"
-categorie: "Overig"
-publicatiedatum: 2025-11-25
-laatste_update: 2025-11-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048439"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-11-25"
+last_updated: "2025-11-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048439"
+soort: "ministeriele-regeling"
+stam_id: "16813243"
+version_id: "30561172"
+internal_id: "C43812891"
+label_id: "16726814"
+dtd_version: "2.0"
+original_entry_into_force: "2025-01-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048439/2025-11-25/0"
+intitule_bron: "Stcrt.2023-18212"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-06-23"
+intitule_published: "2023-06-30"
+intitule_in_force: "2023-06-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-1894"
+original_signed_date: "2025-01-13"
+original_published_date: "2025-01-15"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2025-1894"
+entry_into_force_date: "2025-01-13"
+jci_1_3: "jci1.3:c:BWBR0048439&z=2025-11-25&g=2025-11-25"
+jci_1_0: "1.0:c:BWBR0048439&g=2025-11-25"
+citeertitel_status: "officieel"
+short_title: "Regeling geavanceerde productieapparatuur voor halfgeleiders"
+signed_date: "2025-01-13"
+entry_into_force: "2025-01-13"
 ---
-
 # Regeling van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 23 juni 2023, nr. MinBuza.2023.15246-27 houdende invoering van een vergunningplicht voor de uitvoer van geavanceerde productieapparatuur voor halfgeleiders die niet zijn genoemd in bijlage I van Verordening 2021/821 (Regeling geavanceerde productieapparatuur voor halfgeleiders)
 
 Gelet op [artikel 4 van het Besluit strategische goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=4);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -30,11 +56,11 @@ In deze regeling wordt verstaan onder:
 
 - −. **Verordening producten voor tweeërlei gebruik:** [Verordening (EU) 2021/821](32721R2021) van het Europees parlement en de Raad van 20 mei 2021 tot instelling van een Unieregeling voor controle op de uitvoer, de tussenhandel, de technische bijstand, de doorvoer en de overbrenging van producten voor tweeërlei gebruik (herschikking) (PbEU 2021, L 206).
 
-#### Artikel 2
+##### Artikel 2
 
 Het is verboden zonder vergunning van de Minister geavanceerde productieapparatuur voor halfgeleiders uit te voeren uit Nederland.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een aanvraag voor een vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048439&artikel=2&z=2025-11-25&g=2025-11-25) wordt gedaan door de exporteur en ingediend bij de inspecteur.
 
@@ -48,13 +74,13 @@ Het is verboden zonder vergunning van de Minister geavanceerde productieapparatu
 
 3. De inspecteur kan bij de aanvraag in ieder geval verzoeken om de overeenkomst die ten grondslag ligt aan de betreffende uitvoer en om een verklaring betreffende het eindgebruik.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Aan een vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048439&artikel=2&z=2025-11-25&g=2025-11-25) kunnen voorwaarden en voorschriften worden verbonden.
 
 2. Een vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048439&artikel=2&z=2025-11-25&g=2025-11-25) kan onder beperkingen worden verleend.
 
-#### Artikel 5
+##### Artikel 5
 
 Een vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048439&artikel=2&z=2025-11-25&g=2025-11-25) kan in ieder geval ingetrokken worden als:
 
@@ -64,11 +90,11 @@ Een vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BW
 
 - c. overwegingen van nationaal buitenlands- en veiligheidsbeleid daartoe aanleiding geven.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling treedt in werking met ingang van 1 september 2023.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling wordt aangehaald als: Regeling geavanceerde productieapparatuur voor halfgeleiders.
 
@@ -94,7 +120,7 @@ Algemene noten, acroniemen, afkortingen en definities in bijlage I behorende bij
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 5a
+##### Artikel 5a
 
 Deze regeling berust mede op [artikel 2, vijfde lid, van de Wet strategische diensten](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&artikel=2).
 

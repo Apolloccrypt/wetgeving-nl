@@ -1,13 +1,37 @@
 ---
 title: "Ziektekostentegemoetkoming per 1 januari 2003"
 identifier: "BWBR0014975"
-categorie: "Bestuursrecht"
-publicatiedatum: 2003-01-01
-laatste_update: 2003-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0014975"
+country: "nl"
+rank: "circulaire"
+publication_date: "2003-01-01"
+last_updated: "2003-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0014975"
+soort: "circulaire"
+stam_id: "6395383"
+version_id: "11057622"
+internal_id: "C14962741"
+label_id: "6384234"
+original_entry_into_force: "2003-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0014975/2003-01-01/0"
+intitule_bron: "Stcrt.2003-84"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-04-14"
+intitule_published: "2003-05-02"
+intitule_in_force: "2003-05-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2003-84"
+original_signed_date: "2003-04-14"
+original_published_date: "2003-05-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2003-084-p10-SC39783"
+entry_into_force_date: "2003-01-01"
+jci_1_3: "jci1.3:c:BWBR0014975&z=2003-01-01&g=2003-01-01"
+jci_1_0: "1.0:c:BWBR0014975&g=2003-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "2003-04-14"
+entry_into_force: "2003-01-01"
 ---
-
 # Ziektekostentegemoetkoming per 1 januari 2003
 
 ### I. Samenvatting

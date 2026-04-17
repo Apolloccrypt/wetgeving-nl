@@ -1,13 +1,38 @@
 ---
 title: "Studiefaciliteitenregeling burgerlijke ambtenaren defensie"
 identifier: "BWBR0043998"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2021-03-04
-laatste_update: 2021-03-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043998"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-03-04"
+last_updated: "2021-03-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043998"
+soort: "ministeriele-regeling"
+stam_id: "15606433"
+version_id: "27573622"
+internal_id: "C38899211"
+label_id: "15547244"
+dtd_version: "2.0"
+original_entry_into_force: "2021-02-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043998/2021-03-04/0"
+intitule_bron: "Stcrt.2020-42690"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-03-24"
+intitule_published: "2020-08-13"
+intitule_in_force: "2020-08-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-9568"
+original_signed_date: "2021-02-17"
+original_published_date: "2021-03-03"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2021-9568"
+entry_into_force_date: "2021-02-17"
+jci_1_3: "jci1.3:c:BWBR0043998&z=2021-03-04&g=2021-03-04"
+jci_1_0: "1.0:c:BWBR0043998&g=2021-03-04"
+citeertitel_status: "officieel"
+signed_date: "2021-02-17"
+entry_into_force: "2021-02-17"
 ---
-
 # Studiefaciliteitenregeling burgerlijke ambtenaren defensie
 
 Gelet op [artikel 94a van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=94a)
@@ -16,7 +41,7 @@ Besluit:
 
 De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 In deze regeling wordt verstaan onder:
 
@@ -34,7 +59,7 @@ In deze regeling wordt verstaan onder:
 
 - e. **‘Uitkering’:** een uitkering op grond van het [Besluit Uitkering wegens functioneel leeftijdsontslag burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006041) of een uitkering op grond van het [Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0010510)
 
-#### Artikel 2. Algemene voorwaarden
+##### Artikel 2. Algemene voorwaarden
 
 - 1. De ambtenaar die voor studiefaciliteiten in aanmerking wenst te komen dient de aanvraag daartoe in de regel in voor de aanvang van de studie. Hij laat deze aanvraag vergezeld gaan van de voor de beoordeling door het hoofd defensieonderdeel noodzakelijke gegevens en van een schatting van de te maken studiekosten.
 
@@ -46,7 +71,7 @@ In deze regeling wordt verstaan onder:
 
 - 5. Aan de ambtenaar, die krachtens een op hem van toepassing zijnde regeling aanspraak heeft op een verhoging van zijn bezoldiging uitsluitend op grond van het voltooien van een studie, worden ter zake van die studie geen studiefaciliteiten verleend.
 
-#### Artikel 3. Studieverlof
+##### Artikel 3. Studieverlof
 
 - 1. Tenzij het belang van een goede dienstuitoefening zich daartegen verzet, kan door het hoofd defensieonderdeel aan de ambtenaar studieverlof worden verleend voor ten hoogste een halve dag per week, met dien verstande dat indien lessen in de normale diensturen moeten worden gevolgd, het verlof tot maximaal één dag per week kan worden verleend.
 
@@ -54,7 +79,7 @@ In deze regeling wordt verstaan onder:
 
 - 3. Ter voorbereiding op een examen en tentamen als bovenbedoeld kan bovendien studieverlof worden verleend voor ten hoogste vijf halve dagen per jaar.
 
-#### Artikel 4. Tegemoetkoming in studiekosten
+##### Artikel 4. Tegemoetkoming in studiekosten
 
 - 1. Voor volledige tegemoetkoming komen in aanmerking:
 
@@ -68,7 +93,7 @@ In deze regeling wordt verstaan onder:
 
 - 4. Een tegemoetkoming in studiekosten wordt eerst verleend nadat de ambtenaar schriftelijk heeft verklaard dat hij bekend is met de verplichting tot gehele of gedeeltelijke terugbetaling als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043998&artikel=5&z=2021-03-04&g=2021-03-04).
 
-#### Artikel 5. Terugbetaling tegemoetkoming studiekosten
+##### Artikel 5. Terugbetaling tegemoetkoming studiekosten
 
 - 1. De ambtenaar is verplicht tot terugbetaling van de aan hem verleende tegemoetkoming in de studiekosten ingeval de studie niet met goed gevolg is afgesloten op grond van omstandigheden die naar het oordeel van het hoofd defensieonderdeel aan de ambtenaar te wijten zijn.
 
@@ -78,19 +103,19 @@ In deze regeling wordt verstaan onder:
 
 ## Slotbepalingen
 
-#### Artikel 6
+##### Artikel 6
 
 In bijzondere gevallen kan het hoofd defensieonderdeel afwijken van het bepaalde in de vorige artikelen.
 
-#### Artikel 7
+##### Artikel 7
 
 De regeling treedt in werking met ingang van 1 april 1994.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling wordt aangehaald als: **Studiefaciliteitenregeling burgerlijke ambtenaren defensie**.
 
-#### Artikel 4a. Maximale vergoeding individuele opleidingsaanspraak
+##### Artikel 4a. Maximale vergoeding individuele opleidingsaanspraak
 
 De kosten van een opleiding als bedoeld in [artikel 20 van het BARD](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=20) worden vergoed:
 
@@ -110,7 +135,7 @@ De kosten van een opleiding als bedoeld in [artikel 20 van het BARD](https://wet
 
 - h. tot ten hoogste € 4.000,– in het geval van een diensttijd als ambtenaar bij Defensie van minimaal 9 jaar of meer.
 
-#### Artikel 4b. Vergoeding van kosten
+##### Artikel 4b. Vergoeding van kosten
 
 De kosten bedoeld in [artikel 20 van het BARD](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=20), die voor vergoeding in aanmerking komen, zijn, voor zover zij niet rechtstreeks voor rekening komen van of rechtstreeks worden betaald door het ministerie van defensie:
 

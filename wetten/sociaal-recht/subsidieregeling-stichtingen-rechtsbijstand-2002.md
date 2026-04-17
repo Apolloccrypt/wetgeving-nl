@@ -1,20 +1,41 @@
 ---
 title: "Subsidieregeling stichtingen rechtsbijstand 2002"
 identifier: "BWBR0012124"
-categorie: "Sociaal recht"
-publicatiedatum: 2002-01-01
-laatste_update: 2002-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012124"
+country: "nl"
+rank: "zbo"
+publication_date: "2002-01-01"
+last_updated: "2002-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012124"
+soort: "zbo"
+stam_id: "6555283"
+version_id: "11355072"
+internal_id: "C15295771"
+label_id: "6544174"
+original_entry_into_force: "2002-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012124/2002-01-01/0"
+intitule_bron: "Stcrt.2001-249"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2001-12-27"
+intitule_in_force: "2001-12-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2001-249"
+original_published_date: "2001-12-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2001-249-p57-SC32508"
+entry_into_force_date: "2002-01-01"
+jci_1_3: "jci1.3:c:BWBR0012124&z=2002-01-01&g=2002-01-01"
+jci_1_0: "1.0:c:BWBR0012124&g=2002-01-01"
+citeertitel_status: "officieel"
+entry_into_force: "2002-01-01"
 ---
-
 # Subsidieregeling stichtingen rechtsbijstand 2002
 
 De raden voor rechtsbijstand in de hofressorten Amsterdam, Arnhem, 's-Gravenhage, 's-Hertogenbosch en Leeuwarden besluiten gezamenlijk, gelet op [artikel 42b, eerste lid, van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=42b), de volgende regeling vast te stellen.
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -34,17 +55,17 @@ In deze regeling wordt verstaan onder:
 
 - h. **de subsidie**: de subsidie bedoeld in [artikel 2, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=2).
 
-#### Artikel 2
+##### Artikel 2
 
 De raad stelt de stichting uiterlijk 31 juli van elk jaar schriftelijk in kennis van de voorlopige beleidsmatige en budgettaire kaders voor het daarop volgende jaar.
 
 #### Paragraaf 2. De aanvraag
 
-#### Artikel 3
+##### Artikel 3
 
 Uiterlijk 15 september van elk jaar wordt de subsidieaanvraag voor het daarop volgende boekjaar bij de raad ingediend.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het activiteitenplan bedoeld in [artikel 4:61, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:61) is het activiteitenplan dat deel uitmaakt van het werkplan van de stichting.
 
@@ -52,21 +73,21 @@ Uiterlijk 15 september van elk jaar wordt de subsidieaanvraag voor het daarop vo
 
 #### Paragraaf 3. Subsidieverlening en bevoorschotting
 
-#### Artikel 5
+##### Artikel 5
 
 Vóór 31 januari van het jaar waarop de aanvraag betrekking heeft, wordt op de aanvraag van de subsidie beschikt.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De subsidie kan pas worden verleend indien het werkplan van de stichting die subsidie aanvraagt, door de raad is goedgekeurd.
 
 2. Indien vóór 31 januari van het jaar waarop de aanvraag betrekking heeft, de ingevolge [artikel 23, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=23) vereiste instemming van de raad met het activiteitenplan of de begroting niet is verkregen, wordt bij de beslissing op de aanvraag een voorziening getroffen teneinde de continuïteit van de werkzaamheden van de stichting te verzekeren.
 
-#### Artikel 7
+##### Artikel 7
 
 Indien ten tijde van de verlening van de subsidie het jaarplan bedoeld in [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=7) nog niet van kracht is, wordt de subsidie verleend onder de voorwaarde van goedkeuring van het jaarplan van de raad door de Minister.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Bij de verlening van de subsidie kan de raad bepalen dat het subsidiebedrag door hem wordt bijgesteld, rekening houdend met de ontwikkeling van het prijspeil of de ontwikkeling in de in de kosten van de arbeidsvoorwaarden.
 
@@ -74,23 +95,23 @@ Indien ten tijde van de verlening van de subsidie het jaarplan bedoeld in [artik
 
 3. Indien een subsidie met toepassing van het eerste lid wordt bijgesteld, kan de bevoorschotting overeenkomstig worden gewijzigd.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De subsidieverlening geschiedt met inachtneming van het tussen de Vereniging Rechtshulporganisaties Nederland en de Raden voor Rechtsbijstand overeengekomen Financieringsakkoord d.d. 8 oktober 1998 en later doorgevoerde wijzigingen.
 
 2. De subsidie wordt verleend onder de voorwaarde dat de stichting heeft ingestemd met het in het voorgaande lid bedoelde Financieringsakkoord.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Bij de beschikking worden de aard en de omvang van de door de stichting in het boekjaar te leveren producten en te verrichten diensten en activiteiten aangegeven.
 
 2. Bij de beschikking wordt de omvang van de door de stichting wettelijk te innen eigen bijdragen vastgesteld alsmede de wijze waarop deze is bepaald en wordt aangegeven, welk deel daarvan aan de raad dient te worden afgedragen.
 
-#### Artikel 11
+##### Artikel 11
 
 Bij de subsidieverlening kunnen verplichtingen worden opgelegd met betrekking tot de in [artikel 4:37 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:37) aangegeven onderwerpen, alsmede andere verplichtingen die strekken tot verwezenlijking van het doel van de subsidie als bedoeld in [artikel 4:38 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:38).
 
-#### Artikel 12
+##### Artikel 12
 
 1. De raad kan op aanvraag voorschotten verlenen.
 
@@ -98,13 +119,13 @@ Bij de subsidieverlening kunnen verplichtingen worden opgelegd met betrekking to
 
 3. Indien een verzoek tot faillietverklaring van de stichting of tot het verlenen van surséance van betaling is ingediend, wordt de verlening en betaling van voorschotten opgeschort en worden reeds uitbetaalde voorschotten teruggevorderd, voor zover deze niet kunnen worden verrekend ingevolge [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012124&paragraaf=5&artikel=31&z=2002-01-01&g=2002-01-01).
 
-#### Artikel 13
+##### Artikel 13
 
 Zolang de subsidie niet is vastgesteld kan de raad de subsidie intrekken of ten nadele van de subsidieontvanger wijzigen indien aan de stichting surséance van betaling is verleend en naar het oordeel van de raad, de bewindvoerder gehoord, een gunstige ontwikkeling niet is te verwachten.
 
 #### Paragraaf 4. Verplichtingen van de subsidieontvanger
 
-#### Artikel 14
+##### Artikel 14
 
 1. De stichting zorgt ervoor dat de doelstellingen waarvoor subsidie wordt verleend op doelmatige en effectieve wijze worden nagestreefd en de werkzaamheden dienovereenkomstig worden geregeld, en dat een goed beleid en beheer wordt gevoerd.
 
@@ -114,7 +135,7 @@ Zolang de subsidie niet is vastgesteld kan de raad de subsidie intrekken of ten 
 
 4. Indien er naar het oordeel van de raad aanwijzingen zijn dat uit hoofde van de voorgaande leden op de stichting rustende verplichtingen niet worden of zijn nageleefd, kan de raad ter uitvoering van het bepaalde in [artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) de stichting verplichten om mede te werken aan een extern onderzoek. De stichting verleent aan dat onderzoek alle medewerking die redelijkerwijs van haar kan worden gevorderd.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De stichting zorgt ervoor dat het bureau genoegzaam herkenbaar en toegankelijk is voor degenen die op grond van onvoldoende financiële draagkracht aanspraak kunnen maken op rechtsbijstand in de zin van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368).
 
@@ -122,7 +143,7 @@ Zolang de subsidie niet is vastgesteld kan de raad de subsidie intrekken of ten 
 
 3. De stichting draagt ervoor zorg dat de informatie vervat in het reglement die betrekking heeft op de verlening van rechtsbijstand door het bureau en de inhoud van de klachtenregeling bedoeld in [artikel 22, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=22), voldoende aan het publiek bekend worden.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De stichting neemt de door de raad nader aan te geven eisen in acht die betrekking hebben op de deskundigheid waaraan de met het verlenen van rechtsbijstand belaste medewerkers van de stichting, moeten voldoen.
 
@@ -132,7 +153,7 @@ Zolang de subsidie niet is vastgesteld kan de raad de subsidie intrekken of ten 
 
 4. De stichting maakt gebruik van het landelijke geautomatiseerde systeem dat wordt beheerd door de Stichting Integraal Rechtshulpinformatie Systeem en neemt de daarbij behorende registratievoorschriften en informatieprotocol in acht, tenzij de raad vooraf heeft ingestemd met een afwijkend gebruik.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Het is de stichting niet toegestaan andere rechtskundige bijstand te verlenen dan rechtsbijstand als bedoeld in [artikel 1, eerste lid, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0012124&paragraaf=1&artikel=1&z=2002-01-01&g=2002-01-01), van deze regeling.
 
@@ -142,7 +163,7 @@ Zolang de subsidie niet is vastgesteld kan de raad de subsidie intrekken of ten 
 
 4. Indien de stichting voornemens is een samenwerkingsverband aan te gaan met betrekking tot andere activiteiten dan als bedoeld in de voorgaande leden meldt zij het voornemen daartoe schriftelijk bij de raad.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De stichting is verplicht een doelmatig beheer te voeren. De raad kan ter zake nadere aanwijzingen geven.
 
@@ -150,7 +171,7 @@ Zolang de subsidie niet is vastgesteld kan de raad de subsidie intrekken of ten 
 
 3. Indien het gevoerde beleid of beheer, dan wel de financiële situatie van de stichting daartoe naar het oordeel van de raad aanleiding geeft, kan de raad als tijdelijke maatregel bepalen dat de stichting zonder zijn toestemming geen financiële verplichtingen mag aangaan die een door de raad nader vast te stellen bedrag overstijgen.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Tenzij bij de subsidieverlening anders is bepaald, dient de stichting uiterlijk op 21 januari, op 21 mei en op 21 september met betrekking tot de in de vier daaraan voorafgaande maanden gerealiseerde producten een rapportage in bij de raad overeenkomstig een door de raad vast te stellen model.
 
@@ -158,11 +179,11 @@ Zolang de subsidie niet is vastgesteld kan de raad de subsidie intrekken of ten 
 
 3. Indien een faillissement of surséance van betaling dreigt, stelt de stichting de raad daarvan onverwijld in kennis.
 
-#### Artikel 20
+##### Artikel 20
 
 De stichting draagt er zorg voor dat gelden die bestemd zijn voor rechtzoekenden op een afzonderlijke rekening worden gestort en afzonderlijk worden geadministreerd en onverwijld aan de rechtzoekenden worden doorbetaald.
 
-#### Artikel 21
+##### Artikel 21
 
 1. De stichting vormt een egalisatiereserve bedoeld in [artikel 4:72 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:72).
 
@@ -170,7 +191,7 @@ De stichting draagt er zorg voor dat gelden die bestemd zijn voor rechtzoekenden
 
 3. Indien de stichting in het boekjaar baten heeft verworven uit vergoedingen voor activiteiten in het kader van de [Wet schuldsanering natuurlijke personen](onbekend) mag zij 10% van die baten toevoegen aan de overeenkomstig het voorgaande lid bepaalde maximum egalisatiereserve.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De stichting verzekert haar burgerrechtelijke aansprakelijkheid tegenover derden voor een som van ten minste f 1.000.000,- per gebeurtenis en per geval.
 
@@ -180,7 +201,7 @@ De stichting draagt er zorg voor dat gelden die bestemd zijn voor rechtzoekenden
 
 4. De stichting verzekert haar roerende zaken tegen brandschade en diefstal naar vervangingswaarde
 
-#### Artikel 23
+##### Artikel 23
 
 1. De stichting behoeft de toestemming van de raad voor de handelingen die zijn omschreven in [artikel 4:71, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:71).
 
@@ -190,7 +211,7 @@ De stichting draagt er zorg voor dat gelden die bestemd zijn voor rechtzoekenden
 
 - b. het vormen van een hogere egalisatiereserve dan op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0012124&paragraaf=4&artikel=21&z=2002-01-01&g=2002-01-01) is toegestaan.
 
-#### Artikel 24
+##### Artikel 24
 
 1. De stichting brengt aan de rechtzoekende de eigen bijdrage en de kosten genoemd in [artikel 4 van het Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=4) in rekening, onverminderd de eventuele aanspraak van de rechtzoekende op restitutie daarvan in verband met verhaal op diens wederpartij.
 
@@ -198,7 +219,7 @@ De stichting draagt er zorg voor dat gelden die bestemd zijn voor rechtzoekenden
 
 3. De baten die voortvloeien uit vergoedingen ingevolge het eerste en tweede lid, alsmede de opbrengsten die voortvloeien uit verhaal van kosten van rechtsbijstand op een wederpartij van een rechtzoekende worden ten gunste van het resultaat geboekt, onverminderd het bepaalde in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0012124&paragraaf=4&artikel=21&z=2002-01-01&g=2002-01-01).
 
-#### Artikel 25
+##### Artikel 25
 
 1. Het is de stichting niet toegestaan baten bij derden te verwerven die een bedrag van 20% van de subsidieverlening te boven gaan.
 
@@ -212,15 +233,15 @@ De stichting draagt er zorg voor dat gelden die bestemd zijn voor rechtzoekenden
 
 #### Paragraaf 5. De subsidievaststelling
 
-#### Artikel 26
+##### Artikel 26
 
 De stichting dient binnen drie maanden na afloop van het boekjaar een aanvraag tot vaststelling van de subsidie in.
 
-#### Artikel 27
+##### Artikel 27
 
 De ingevolge [artikel 4:76 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:76) over te leggen jaarrekening bestaat uit een balans per het einde van het boekjaar, een exploitatierekening over het boekjaar en een adequate toelichting op de balans en de exploitatierekening.
 
-#### Artikel 28
+##### Artikel 28
 
 1. De raad stelt nader vast op welke wijze de jaarrekening dient te worden ingericht en welke gegevens en bescheiden bij de aanvraag tot vaststelling van de subsidie dienen te worden verschaft.
 
@@ -228,7 +249,7 @@ De ingevolge [artikel 4:76 van de Algemene wet bestuursrecht](https://wetten.ove
 
 3. Indien blijkt dat de producten en diensten met het oog waarop de subsidie is verleend, niet volledig zijn geleverd, wordt de subsidie lager vastgesteld overeenkomstig de daadwerkelijk geleverde producten en diensten, tenzij naar het oordeel van de raad bijzondere omstandigheden daaraan in de weg staan of door de stichting ten genoegen van de raad wordt aangetoond dat haar dat niet of niet ten volle mag worden toegerekend.
 
-#### Artikel 29
+##### Artikel 29
 
 1. In de gevallen, bedoeld in [artikel 4:41, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:41), is de stichting aan de raad een door hem te bepalen vergoeding voor vermogensvorming verschuldigd.
 
@@ -236,11 +257,11 @@ De ingevolge [artikel 4:76 van de Algemene wet bestuursrecht](https://wetten.ove
 
 3. Het eerste lid is niet van toepassing, indien de activiteiten van de stichting met toestemming van de raad door een derde worden voortgezet en de activa en passiva tegen boekwaarde aan die derde in eigendom zijn overgedragen.
 
-#### Artikel 30
+##### Artikel 30
 
 Binnen twee maanden na ontvangst van de aanvraag tot vaststelling van de subsidie besluit de raad tot vaststelling van de subsidie.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Het subsidiebedrag wordt overeenkomstig de subsidievaststelling, onder verrekening van de betaalde voorschotten, binnen acht weken na de subsidievaststelling betaald.
 
@@ -248,7 +269,7 @@ Binnen twee maanden na ontvangst van de aanvraag tot vaststelling van de subsidi
 
 #### Paragraaf 6. Controle
 
-#### Artikel 32
+##### Artikel 32
 
 1. [Artikel 4:76 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:76) is van toepassing.
 
@@ -260,16 +281,16 @@ Binnen twee maanden na ontvangst van de aanvraag tot vaststelling van de subsidi
 
 #### Paragraaf 7. Slotbepalingen
 
-#### Artikel 33
+##### Artikel 33
 
 Deze regeling treedt in werking met ingang van 1 januari 2002.
 
-#### Artikel 34
+##### Artikel 34
 
 1. Voorgenomen wijzigen van de subsidieregeling worden tijdig ter kennis gebracht van de Vereniging Rechtshulporganisaties Nederland.
 
 2. Indien de Raden voornemens zijn de subsidieregeling ingrijpend te wijzigen, stellen zij de Vereniging Rechtshulporganisaties Nederland in de gelegenheid haar zienswijze omtrent die regeling naar voren te brengen.
 
-#### Artikel 35
+##### Artikel 35
 
 Deze regeling wordt aangehaald als: Subsidieregeling stichtingen rechtsbijstand 2002.

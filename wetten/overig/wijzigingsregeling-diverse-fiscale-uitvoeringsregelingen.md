@@ -1,13 +1,39 @@
 ---
-title: "Wijzigingsregeling diverse fiscale uitvoeringsregelingen"
+title: "Wijziging van enige fiscale uitvoeringsregelingen in verband met de Wet financiering sociale verzekeringen en de Invoeringswet Wet financiering sociale verzekeringen"
 identifier: "BWBR0018787"
-categorie: "Overig"
-publicatiedatum: 2006-01-01
-laatste_update: 2006-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0018787"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2006-01-01"
+last_updated: "2006-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0018787"
+soort: "ministeriele-regeling"
+stam_id: "7356693"
+version_id: "12310412"
+internal_id: "C16560061"
+label_id: "7344514"
+dtd_version: "2.0"
+original_entry_into_force: "2005-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0018787/2006-01-01/0"
+intitule_bron: "Stcrt.2005-184"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-09-20"
+intitule_published: "2005-09-22"
+intitule_in_force: "2005-09-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-184"
+original_signed_date: "2005-09-20"
+original_published_date: "2005-09-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2005-184-p10-SC71654"
+entry_into_force_date: "2005-11-01"
+jci_1_3: "jci1.3:c:BWBR0018787&z=2006-01-01&g=2006-01-01"
+jci_1_0: "1.0:c:BWBR0018787&g=2006-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsregeling diverse fiscale uitvoeringsregelingen"
+signed_date: "2005-09-20"
+entry_into_force: "2005-11-01"
 ---
-
 # Wijziging van enige fiscale uitvoeringsregelingen in verband met de Wet financiering sociale verzekeringen en de Invoeringswet Wet financiering sociale verzekeringen
 
 Handelende in overeenstemming met de Minister van Sociale Zaken en Werkgelegenheid;
@@ -16,27 +42,27 @@ Gelet op de [artikelen 6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&art
 
 Besluit:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Uitvoeringsregeling inkomstenbelasting 2001.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Uitvoeringsregeling loonbelasting 2001.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Uitvoeringsregeling werknemersspaarregelingen en winstdelingsregelingen.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Regeling loonbelasting- en premietabellen 1990.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994.
 
-#### Artikel VI
+##### Artikel VI
 
 1. Deze regeling treedt in werking op 1 januari 2006.
 

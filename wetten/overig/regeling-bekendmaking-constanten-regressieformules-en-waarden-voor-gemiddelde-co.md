@@ -1,13 +1,35 @@
 ---
 title: "Regeling bekendmaking constanten regressieformules en waarden voor gemiddelde CO2-uitstoot benzine- en dieselauto’s 2007"
 identifier: "BWBR0022363"
-categorie: "Overig"
-publicatiedatum: 2006-08-24
-laatste_update: 2006-08-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0022363"
+country: "nl"
+rank: "zbo"
+publication_date: "2006-08-24"
+last_updated: "2006-08-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0022363"
+soort: "zbo"
+stam_id: "9175953"
+version_id: "14684012"
+internal_id: "C19980361"
+label_id: "9154684"
+dtd_version: "2.0"
+original_entry_into_force: "2006-08-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0022363/2006-08-24/0"
+intitule_bron: "Stcrt.2006-164"
+intitule_effect: "nieuw"
+intitule_published: "2006-08-24"
+intitule_in_force: "2006-08-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-164"
+original_published_date: "2006-08-24"
+original_effect: "nieuw"
+original_url_id: "stcrt-2006-164-p23-SC76591"
+entry_into_force_date: "2006-08-24"
+jci_1_3: "jci1.3:c:BWBR0022363&z=2006-08-24&g=2006-08-24"
+jci_1_0: "1.0:c:BWBR0022363&g=2006-08-24"
+citeertitel_status: "redactioneel"
+entry_into_force: "2006-08-24"
 ---
-
 # Regeling bekendmaking constanten regressieformules en waarden voor gemiddelde CO2-uitstoot benzine- en dieselauto’s 2007
 
 Gelet op [artikel 8 van het Besluit etikettering energiegebruik personenauto’ s](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=8) van 3-11-2000 (Stb. 2000, nr. 475).

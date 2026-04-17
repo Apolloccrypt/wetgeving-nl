@@ -1,13 +1,37 @@
 ---
 title: "Regeling melding bijzondere voorvallen jeugdigen"
 identifier: "BWBR0012739"
-categorie: "Sociaal recht"
-publicatiedatum: 2015-10-01
-laatste_update: 2015-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012739"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2015-10-01"
+last_updated: "2015-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012739"
+soort: "ministeriele-regeling"
+stam_id: "4955683"
+version_id: "8614132"
+internal_id: "C11156051"
+label_id: "4933074"
+dtd_version: "2.0"
+original_entry_into_force: "2001-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012739/2015-10-01/0"
+intitule_bron: "Stcrt.2001-156"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-08-14"
+intitule_published: "2001-08-15"
+intitule_in_force: "2001-08-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2001-156"
+original_signed_date: "2001-08-14"
+original_published_date: "2001-08-15"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2001-09-01"
+jci_1_3: "jci1.3:c:BWBR0012739&z=2015-10-01&g=2015-10-01"
+jci_1_0: "1.0:c:BWBR0012739&g=2015-10-01"
+citeertitel_status: "officieel"
+signed_date: "2001-08-14"
+entry_into_force: "2001-09-01"
 ---
-
 # Regeling melding bijzondere voorvallen jeugdigen
 
 Gelet op [artikel 5, tweede lid van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=5);
@@ -16,7 +40,7 @@ Gezien het advies van de Raad voor Strafrechtstoepassing en Jeugdbescherming van
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -28,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 - d. **divisiedirecteur ForZo/JJI:** de directeur van de divisie Forensische Zorg en Justitiële Jeugdinrichtingen van de DJI.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Bijzondere voorvallen die onmiddellijk door de directeur van de inrichting telefonisch en schriftelijk per elektronische post aan de divisiedirecteur ForZo/JJI worden gemeld, zijn de volgende:
 
@@ -66,17 +90,17 @@ In deze regeling wordt verstaan onder:
 
 - j. ontslag op staande voet van een personeelslid of medewerker.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Bij de melding bijzondere voorvallen wordt gebruik gemaakt van het formulier melding bijzonder voorval dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012739&bijlage=1&z=2015-10-01&g=2015-10-01) bij deze regeling is gevoegd.
 
 2. De afloop van bijzonder voorvallen wordt schriftelijk gemeld met gebruikmaking van het formulier afhandeling bijzonder voorval dat als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012739&bijlage=2&z=2015-10-01&g=2015-10-01) bij deze regeling is gevoegd.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling treedt in werking op 1 september 2001.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling wordt aangehaald als: Regeling melding bijzondere voorvallen jeugdigen.
 

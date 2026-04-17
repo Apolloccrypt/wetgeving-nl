@@ -1,13 +1,37 @@
 ---
 title: "Verordening beroeps- en gedragsregels"
 identifier: "BWBR0011435"
-categorie: "Overig"
-publicatiedatum: 2011-02-17
-laatste_update: 2011-02-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011435"
+country: "nl"
+rank: "pbo"
+publication_date: "2011-02-17"
+last_updated: "2011-02-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011435"
+soort: "pbo"
+stam_id: "6832793"
+version_id: "11713862"
+internal_id: "C15789971"
+label_id: "6821524"
+dtd_version: "2.0"
+original_entry_into_force: "2000-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011435/2011-02-17/0"
+intitule_bron: "Stcrt.2000-182"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-06-21"
+intitule_published: "2000-09-20"
+intitule_in_force: "2000-09-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2000-182"
+original_signed_date: "2000-06-21"
+original_published_date: "2000-09-20"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2000-10-01"
+jci_1_3: "jci1.3:c:BWBR0011435&z=2011-02-17&g=2011-02-17"
+jci_1_0: "1.0:c:BWBR0011435&g=2011-02-17"
+citeertitel_status: "officieel"
+signed_date: "2000-06-21"
+entry_into_force: "2000-10-01"
 ---
-
 # Verordening beroeps- en gedragsregels
 
 Overwegende dat het gewenst is beroeps- en gedragsregels vast te stellen;
@@ -24,17 +48,17 @@ stelt de navolgende verordening vast:
 
 #### Eer en aanzien van het notariaat
 
-#### Artikel 1
+##### Artikel 1
 
 #### Eigen taak notaris
 
-#### Artikel 2
+##### Artikel 2
 
 Ook indien een opdrachtgever anders zou verlangen, blijft de notaris gehouden de werkzaamheden te verrichten die hij in verband met de opdracht als notaris behoort te verrichten. Dit geldt ook wanneer door derden al werkzaamheden zijn verricht.
 
 #### Onderzoeksplicht registergoederen e.d.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Bij de levering van registergoederen en de vestiging daarop van beperkte rechten stelt de notaris een zodanig onderzoek in dat over de rechtstoestand van het registergoed zo min mogelijk onzekerheid bestaat. Hij vermeldt de gegevens die voor de rechtstoestand van belang zijn in de akte. De notaris draagt bij de levering van een registergoed zoveel mogelijk zorg dat de verkoper de koopsom ontvangt en het verkochte door de koper wordt verkregen overeenkomstig de gemaakte afspraken voor wat betreft de vrije en onbezwaarde levering.
 
@@ -42,7 +66,7 @@ Ook indien een opdrachtgever anders zou verlangen, blijft de notaris gehouden de
 
 #### Voorlichting; dienstweigering
 
-#### Artikel 4
+##### Artikel 4
 
 1. De notaris is gehouden alle partijen bij de rechtshandeling waarvoor zijn tussenkomst is ingeroepen voor te lichten met betrekking tot de gevolgen van de handeling, voor zover de wet of de gewoonte dit van hem verlangt.
 
@@ -52,13 +76,13 @@ Ook indien een opdrachtgever anders zou verlangen, blijft de notaris gehouden de
 
 #### Inhoud akte; dienstweigering
 
-#### Artikel 5
+##### Artikel 5
 
 Onder andere gegronde redenen van dienstweigering als bedoeld in [artikel 21 lid 2 Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=21) wordt begrepen dat de notaris weet of vermoedt dat de inhoud van de akte waarvoor zijn tussenkomst is ingeroepen in strijd is met de waarheid of wanneer de in de akte vermelde door partijen in acht te nemen formaliteiten van de rechtshandeling niet in acht zijn genomen. De notaris is gehouden dienaangaande een onderzoek in ie stellen voor zover de wet of de gewoonte dit van hem verlangt.
 
 #### Vaststelling feiten; dienstweigering
 
-#### Artikel 6
+##### Artikel 6
 
 Onder andere gegronde redenen van dienstweigering als bedoeld in [artikel 21 lid 2 Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=21) wordt begrepen dat de notaris verzocht wordt mee te werken aan een vaststellen van feiten dal niet past bij zijn ambtsuitoefening.
 
@@ -66,7 +90,7 @@ De notaris verleent zijn medewerking al dan met neergelegd in een proces-verbaal
 
 #### Geen ontslag geheimhoudingsplicht; doorbreking
 
-#### Artikel 7
+##### Artikel 7
 
 1. Niet gepubliceerd.
 
@@ -74,13 +98,13 @@ De notaris verleent zijn medewerking al dan met neergelegd in een proces-verbaal
 
 #### Ontvangst contanten
 
-#### Artikel 8
+##### Artikel 8
 
 De notaris neemt in geen geval meer in contanten in ontvangst dan het bedrag dat door het bestuur bij reglement zal worden vastgesteld.
 
 #### Afwikkeling onverdeeldheid
 
-#### Artikel 9
+##### Artikel 9
 
 1. De notaris die opdracht krijgt tot afwikkeling van een onverdeeldheid kan niet partijadviseur van de opdrachtgever(s) zijn, maar moet de belangen behartigen van allen die bij de onverdeeldheid zijn betrokken.
 
@@ -88,7 +112,7 @@ De notaris neemt in geen geval meer in contanten in ontvangst dan het bedrag dat
 
 #### Dienstverlening
 
-#### Artikel 10
+##### Artikel 10
 
 1. De notaris dient er voor te zorgen, dat zijn kantoor alle gebruikelijke notariële diensten kan bieden.
 
@@ -100,13 +124,13 @@ De notaris neemt in geen geval meer in contanten in ontvangst dan het bedrag dat
 
 #### Kantoor en medewerkers
 
-#### Artikel 11
+##### Artikel 11
 
 De notaris dient er voor te zorgen dat de inrichting en de organisatie van zijn kantoor voldoen aan de eisen van een goede praktijkuitoefening. Hij ziet er op toe dat zijn medewerkers over de bekwaamheid beschikken die is vereist voor het verrichten van de aan hen opgedragen werkzaamheden.
 
 #### Onafhankelijkheid; verbod provisie e.d.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De notaris dient er voor te zorgen dat hij zijn onafhankelijke ambtsuitoefening zodanig handhaaft dat hij in financieël opzicht niet afhankelijk wordt van een bepaalde opdrachtgever, tussenpersoon of adviseur.
 
@@ -116,29 +140,29 @@ De notaris dient er voor te zorgen dat de inrichting en de organisatie van zijn 
 
 #### Verbod handel en actieve belegging
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
 #### Verzekeringsplicht
 
-#### Artikel 14
+##### Artikel 14
 
 De notaris moet voldoende verzekerd zijn tegen vermogensschaden als gevolg van aansprakelijkheid, ongeacht uit welken hoofde deze aansprakelijkheid kan ontstaan, en tegen risico's in de persoonlijke en de zakelijke sfeer, zoals ziekte, brand en diefstal.
 
 #### Voldoen aan financiële en andere verplichtingen
 
-#### Artikel 15
+##### Artikel 15
 
 #### Vermelding opdrachtgever
 
-#### Artikel 16
+##### Artikel 16
 
 De notaris draagt er zorg voor dat in de jaarstukken melding wordt gemaakt van de in dat jaar aanvaarde, dat wel nog lopende opdrachten voor projecten waarbij één opdrachtgever, tussenpersoon of adviseur is betrokken waarvan het wegvallen voor de kantoorvoering meer dan marginale gevolgen kan hebben.
 
 #### Collegiale verhoudingen
 
-#### Artikel 17
+##### Artikel 17
 
 1. De notaris dient zich jegens zijn beroepsgenoot als een goede collega te gedragen.
 
@@ -146,7 +170,7 @@ De notaris draagt er zorg voor dat in de jaarstukken melding wordt gemaakt van d
 
 #### Keuze van de notaris
 
-#### Artikel 18
+##### Artikel 18
 
 1. De notaris dient zoveel mogelijk te voorkomen dat de vrijheid van notariskeuze onnodig wordt beperkt.
 
@@ -154,7 +178,7 @@ De notaris draagt er zorg voor dat in de jaarstukken melding wordt gemaakt van d
 
 #### Verhouding notaris-kantoorgenoten
 
-#### Artikel 19
+##### Artikel 19
 
 1. De notaris dient te voorkomen dat hij in een zaak die hij als notaris behandelt voor twee of meer partijen, een kantoorgenoot optreedt ten behoeve van één of meer van de partijen, tenzij alle betrokkenen - de notaris en de kantoorgenoot daaronder begrepen - met dit optreden instemmen.
 
@@ -162,17 +186,17 @@ De notaris draagt er zorg voor dat in de jaarstukken melding wordt gemaakt van d
 
 3. Indien in een situatie als bedoeld in de leden 1 en 2 alsnog een niet aanstonds overbrugbaar belangenconflict tussen partijen is ontgaan of dreigt te ontslaan, zal de kantoorgenoot zich moeten terugtrekken. Trad de notaris op als partijadviseur dan zal ook hij zich, naast zijn kantoorgenoot, moeten terugtrekken.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De notaris dient te voorkomen dat in een zaak die hij als notaris behandelt voor twee of meer partijen en waarin een niet aanstonds overbrugbaar belangenconflict is ontstaan of dreigt te ontstaan, een kantoorgenoot in dat conflict voor één of enkele van de partijen gaat optreden.
 
 2. De notaris dient te voorkomen dat in een zaak die hij als partijadviseur behandelt en waarin tussen de betrokken partijen een niet aanstonds overbrugbaar belangenconflict is ontstaan of dreigt ie ontstaan, een kantoorgenoot in dat conflict gaat optreden voor een andere partij.
 
-#### Artikel 21
+##### Artikel 21
 
 Wanneer naar aanleiding van een door de notaris behandelde zaak of gegeven advies een conflict ontstaat over het handelen of nalaten van de notaris dient de notaris te voorkomen dat een kantoorgenoot voor een andere partij bij het geschil optreedt.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De notaris passeert geen akten bij de totstandkoming waarvan hij of een kantoorgenoot als partijadviseur van een van partijen betrokken is geweest, tenzij alle betrokkenen daarmee instemmen. De notaris trekt zich alsnog terug zodra er een niet aanstonds overbrugbaar belangenconflict is ontstaan of dreigt te ontstaan.
 
@@ -180,7 +204,7 @@ Wanneer naar aanleiding van een door de notaris behandelde zaak of gegeven advie
 
 #### Samenwerkingsverband met notaris of kandidaat-notaris
 
-#### Artikel 23
+##### Artikel 23
 
 1. De notaris kan een samenwerkingsverband aangaan met een andere notaris of met een kandidaat-notaris, de uitoefening van de praktijk dient onder gemeenschappelijke naam te geschieden.
 
@@ -194,7 +218,7 @@ Toegestaan is tevens het gebruik van de naam of de namen van natuurlijke persone
 
 #### Naar buiten optreden
 
-#### Artikel 24
+##### Artikel 24
 
 1. De notaris draagt zorg bij het naar buiten optreden voor een juiste en volledige presentatie van het kantoor.
 
@@ -206,45 +230,45 @@ Toegestaan is tevens het gebruik van de naam of de namen van natuurlijke persone
 
 #### Optreden als partijadviseur
 
-#### Artikel 25
+##### Artikel 25
 
 De notaris die naar buiten optreedt als partijadviseur maakt jegens derden tijdig kenbaar dat hij in die hoedanigheid optreedt.
 
 #### Publiciteit
 
-#### Artikel 26
+##### Artikel 26
 
 Vervallen
 
-#### Artikel 27
+##### Artikel 27
 
 Vervallen
 
-#### Artikel 28
+##### Artikel 28
 
 Vervallen
 
-#### Artikel 29
+##### Artikel 29
 
 Vervallen
 
-#### Artikel 30
+##### Artikel 30
 
 Vervallen
 
-#### Artikel 31
+##### Artikel 31
 
 Vervallen
 
 #### Notaris en kandidaat-notaris
 
-#### Artikel 32
+##### Artikel 32
 
 Onder notaris in deze verordening wordt ook verstaan de kandidaat-notaris, tenzij uit de aard van de bepaling anders voortvloeit.
 
 #### Bevoegdheid nadere regelgeving bestuur KNB
 
-#### Artikel 33
+##### Artikel 33
 
 Het bestuur van de KNB is bevoegd om met betrekking tot de in deze verordening behandelde onderwerpen nadere regels te geven. Over het ontwerp daarvan wordt de ledenraad geraadpleegd.
 
@@ -252,10 +276,10 @@ De regels worden zo spoedig mogelijk na vaststelling ter kennis van het minister
 
 #### Slotbepalingen
 
-#### Artikel 34
+##### Artikel 34
 
 Deze verordening wordt aangehaald als Verordening beroeps- en gedragsregels.
 
-#### Artikel 35
+##### Artikel 35
 
 Deze verordening treedt in werking met ingang van 1 oktober 2000 of zoveel later als de termijn van tien dagen na publicatie in de Staatscourant als bedoeld in [artikel 91 lid 2 Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=91) is verstreken.

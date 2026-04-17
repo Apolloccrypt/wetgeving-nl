@@ -1,13 +1,35 @@
 ---
 title: "Verdrag van de Raad van Europa inzake de bescherming van kinderen tegen seksuele uitbuiting en seksueel misbruik"
 identifier: "BWBV0004127"
-categorie: "Internationaal recht"
-publicatiedatum: 2010-07-01
-laatste_update: 2010-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004127"
+country: "nl"
+rank: "verdrag"
+publication_date: "2010-07-01"
+last_updated: "2010-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004127"
+soort: "verdrag"
+stam_id: "10003942433"
+version_id: "10004077792"
+internal_id: "C10008344781"
+label_id: "10003928234"
+dtd_version: "2.0"
+original_entry_into_force: "2010-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004127/2010-07-01/0"
+intitule_bron: "Trb.2008-58"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2008-04-02"
+intitule_in_force: "2010-05-17"
+intitule_status: "goed"
+original_publication: "Trb.2008-58"
+original_published_date: "2008-04-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2008-58"
+entry_into_force_date: "2010-07-01"
+jci_1_3: "jci1.3:c:BWBV0004127&z=2010-07-01&g=2010-07-01"
+jci_1_0: "1.0:c:BWBV0004127&g=2010-07-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2010-07-01"
 ---
-
 # Verdrag van de Raad van Europa inzake de bescherming van kinderen tegen seksuele uitbuiting en seksueel misbruik
 
 Preambule
@@ -44,7 +66,7 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. DOELSTELLINGEN, BEGINSEL VAN NON-DISCRIMINATIE EN BEGRIPSOMSCHRIJVINGEN
 
-#### Artikel 1. Doelstellingen
+##### Artikel 1. Doelstellingen
 
 1. De doelstellingen van dit Verdrag zijn:
 
@@ -56,11 +78,11 @@ Zijn het volgende overeengekomen:
 
 2. Teneinde de doeltreffende uitvoering van de bepalingen door de Partijen te waarborgen, wordt bij dit Verdrag een specifiek mechanisme voor toezicht ingesteld.
 
-#### Artikel 2. Beginsel van non-discriminatie
+##### Artikel 2. Beginsel van non-discriminatie
 
 De uitvoering van de bepalingen van dit Verdrag door de Partijen, met name het genot van maatregelen ter bescherming van de rechten van slachtoffers, wordt gewaarborgd zonder enige discriminatie op welke grond dan ook, zoals geslacht, ras, kleur, taal, godsdienst, politieke of andere mening, nationale of maatschappelijke afkomst, het behoren tot een nationale minderheid, vermogen, geboorte, seksuele geaardheid, gezondheid, handicap of andere status.
 
-#### Artikel 3. Begripsomschrijvingen
+##### Artikel 3. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -72,11 +94,11 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 ### HOOFDSTUK II. PREVENTIEVE MAATREGELEN
 
-#### Artikel 4. Beginselen
+##### Artikel 4. Beginselen
 
 Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om alle vormen van seksuele uitbuiting en seksueel misbruik van kinderen te voorkomen en om kinderen te beschermen.
 
-#### Artikel 5. Werving, training en bewustmaking van personen die tijdens hun werk met kinderen in aanraking komen
+##### Artikel 5. Werving, training en bewustmaking van personen die tijdens hun werk met kinderen in aanraking komen
 
 1. Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om bij personen die regelmatig met kinderen in aanraking komen in de sectoren onderwijs, gezondheidszorg, sociale bescherming, justitie en rechtshandhaving en op gebieden die verband houden met sport, cultuur en recreatie, bewustzijn te stimuleren inzake de bescherming en rechten van kinderen.
 
@@ -84,21 +106,21 @@ Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om alle vor
 
 3. Elke Partij neemt de wetgevende of andere maatregelen, in overeenstemming met haar nationale recht, die nodig zijn om ervoor te zorgen dat in de voorwaarden voor toegang tot de beroepen waarbij men regelmatig in aanraking komt met kinderen waarborgen zijn ingebouwd dat de kandidaten voor deze beroepen nooit zijn veroordeeld wegens seksuele uitbuiting of seksueel misbruik van kinderen.
 
-#### Artikel 6. Voorlichting voor kinderen
+##### Artikel 6. Voorlichting voor kinderen
 
 Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat kinderen, tijdens het basis- en voortgezet onderwijs, informatie krijgen over de gevaren van seksuele uitbuiting en seksueel misbruik, alsmede over de middelen om zichzelf te beschermen, aangepast aan hun ontwikkelingsniveau. Deze informatie, die, indien aangewezen, in samenwerking met ouders wordt gegeven, wordt geplaatst in een bredere context van informatie over seksualiteit en besteedt in het bijzonder aandacht aan risicosituaties, met name die waarbij het gebruik van nieuwe informatie- en communicatietechnologieën een rol speelt.
 
-#### Artikel 7. Preventieve interventieprogramma’s en -maatregelen
+##### Artikel 7. Preventieve interventieprogramma’s en -maatregelen
 
 Elke Partij waarborgt dat personen die vrezen dat zij mogelijk een van de overeenkomstig dit Verdrag strafbaar gestelde feiten zullen plegen, toegang hebben, indien aangewezen, tot effectieve interventieprogramma’s of -maatregelen bedoeld om het risico dat de feiten worden gepleegd te evalueren en te voorkomen.
 
-#### Artikel 8. Maatregelen gericht op het algemene publiek
+##### Artikel 8. Maatregelen gericht op het algemene publiek
 
 1. Elke Partij voert bewustwordingscampagnes uit, of bevordert deze, gericht op het algemene publiek waarin informatie wordt gegeven over het verschijnsel seksuele uitbuiting en seksueel misbruik van kinderen en over preventieve maatregelen die kunnen worden genomen.
 
 2. Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om de verspreiding van materiaal waarin de overeenkomstig dit Verdrag strafbaar gestelde feiten worden gepromoot, te voorkomen of te verbieden.
 
-#### Artikel 9. Participatie van kinderen, de particuliere sector, de media en het maatschappelijk middenveld
+##### Artikel 9. Participatie van kinderen, de particuliere sector, de media en het maatschappelijk middenveld
 
 1. Elke Partij bevordert de participatie van kinderen, al naargelang hun ontwikkelingsniveau, in de ontwikkeling en uitvoering van beleid, programma’s of andere initiatieven met betrekking tot het bestrijden van seksuele uitbuiting en seksueel misbruik van kinderen.
 
@@ -110,7 +132,7 @@ Elke Partij waarborgt dat personen die vrezen dat zij mogelijk een van de overee
 
 ### HOOFDSTUK III. GESPECIALISEERDE AUTORITEITEN EN COÖRDINERENDE INSTANTIES
 
-#### Artikel 10. Nationale maatregelen inzake coördinatie en samenwerking
+##### Artikel 10. Nationale maatregelen inzake coördinatie en samenwerking
 
 1. Elke Partij neemt de maatregelen die nodig zijn om de coördinatie op nationaal of lokaal niveau te waarborgen tussen de verschillende instellingen die verantwoordelijk zijn voor de bescherming tegen, voorkoming en bestrijding van de seksuele uitbuiting en het seksueel misbruik van kinderen, met name de sectoren onderwijs, gezondheid en sociale dienstverlening en de rechtshandhavende en gerechtelijke autoriteiten.
 
@@ -124,23 +146,23 @@ Elke Partij waarborgt dat personen die vrezen dat zij mogelijk een van de overee
 
 ### HOOFDSTUK IV. BESCHERMENDE MAATREGELEN EN HULP AAN SLACHTOFFERS
 
-#### Artikel 11. Beginselen
+##### Artikel 11. Beginselen
 
 1. Elke Partij stelt effectieve sociale programma's en multidisciplinaire structuren in om slachtoffers, hun naaste familie en elke persoon aan wiens zorg zij zijn toevertrouwd de noodzakelijke ondersteuning te bieden.
 
 2. Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat, wanneer er onzekerheid bestaat over de leeftijd van het slachtoffer en er gronden zijn om aan te nemen dat het slachtoffer een kind is, aan het betreffende slachtoffer de beschermende maatregelen en hulp die voor kinderen zijn voorzien worden verleend, in afwachting van verificatie van zijn leeftijd.
 
-#### Artikel 12. Melden van de verdenking van seksuele uitbuiting of seksueel misbruik
+##### Artikel 12. Melden van de verdenking van seksuele uitbuiting of seksueel misbruik
 
 1. Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat de regels inzake vertrouwelijkheid die door het nationale recht worden opgelegd aan bepaalde beroepsbeoefenaars die in het kader van hun werk met kinderen in aanraking komen, geen belemmering vormen voor de mogelijkheid, voor deze beroepsbeoefenaars, bij de diensten die voor de bescherming van kinderen verantwoordelijk zijn melding te maken van elke situatie van een kind ten aanzien waarvan zij redelijke gronden hebben om aan te nemen dat het slachtoffer is van seksuele uitbuiting of seksueel misbruik.
 
 2. Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om elke persoon die op de hoogte is van, of, te goeder trouw, het vermoeden heeft van seksuele uitbuiting of seksueel misbruik van kinderen, aan te moedigen deze feiten bij de bevoegde diensten te melden.
 
-#### Artikel 13. Hulplijnen
+##### Artikel 13. Hulplijnen
 
 Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om de instelling van informatiediensten, zoals telefonische en internethulplijnen, die bellers informatie geven, zelfs op basis van vertrouwelijkheid of met inachtneming van hun anonimiteit, aan te moedigen en te ondersteunen.
 
-#### Artikel 14. Hulp aan slachtoffers
+##### Artikel 14. Hulp aan slachtoffers
 
 1. Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om slachtoffers te helpen, op de korte en lange termijn, bij hun fysieke en psychosociale herstel. Bij de uit hoofde van dit lid genomen maatregelen wordt zorgvuldig rekening gehouden met de opvattingen, behoeften en zorgen van het kind.
 
@@ -156,7 +178,7 @@ Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om de inste
 
 ### HOOFDSTUK V. INTERVENTIEPROGRAMMA’S OF -MAATREGELEN
 
-#### Artikel 15. Algemene beginselen
+##### Artikel 15. Algemene beginselen
 
 1. Elke Partij voorziet in of bevordert, in overeenstemming met haar nationale recht, effectieve interventieprogramma’s of -maatregelen voor de personen bedoeld in [artikel 16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=V&artikel=16&z=2010-07-01&g=2010-07-01), met het oog op het voorkomen en tot een minimum terugbrengen van het risico op herhaling van zedendelicten tegen kinderen. Dergelijke programma’s of maatregelen dienen op elk moment tijdens de procedure toegankelijk te zijn, zowel binnen als buiten penitentiaire inrichtingen, in overeenstemming met de in het nationale recht vastgelegde voorwaarden.
 
@@ -166,7 +188,7 @@ Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om de inste
 
 4. Elke Partij voorziet, in overeenstemming met haar nationale recht, in een beoordeling van de effectiviteit van de toegepaste programma’s en maatregelen.
 
-#### Artikel 16. Personen voor wie de interventieprogramma’s en -maatregelen bedoeld zijn
+##### Artikel 16. Personen voor wie de interventieprogramma’s en -maatregelen bedoeld zijn
 
 1. Elke Partij waarborgt dat, in overeenstemming met haar nationale recht, personen die strafrechtelijk worden vervolgd wegens een van de overeenkomstig dit Verdrag strafbaar gestelde feiten toegang hebben tot de in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=V&artikel=15&z=2010-07-01&g=2010-07-01), genoemde programma’s of maatregelen, onder voorwaarden die geen negatieve gevolgen hebben voor of in strijd zijn met de rechten van de verdediging en de vereisten van een eerlijk en onpartijdig proces, en met name met inachtneming van het beginsel van de onschuldpresumptie.
 
@@ -174,7 +196,7 @@ Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om de inste
 
 3. Elke Partij waarborgt, in overeenstemming met haar nationale recht, dat er interventieprogramma’s of -maatregelen worden ontwikkeld voor of aangepast aan de ontwikkelingsbehoeften van kinderen die een zedendelict plegen, met inbegrip van degenen die onder de leeftijd zijn waarop zij strafrechtelijk aansprakelijk kunnen worden gesteld, met het oog op de behandeling van hun seksuele gedragsproblemen.
 
-#### Artikel 17. Informatie en toestemming
+##### Artikel 17. Informatie en toestemming
 
 1. Elke Partij waarborgt, in overeenstemming met haar nationale recht, dat de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=V&artikel=16&z=2010-07-01&g=2010-07-01) bedoelde personen aan wie interventieprogramma’s of -maatregelen zijn voorgesteld volledig worden geïnformeerd over de redenen voor het voorstel en met volledige kennis van de feiten toestemmen in deelname aan het programma of de maatregel.
 
@@ -182,7 +204,7 @@ Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om de inste
 
 ### HOOFDSTUK VI. MATERIEEL STRAFRECHT
 
-#### Artikel 18. Seksueel misbruik
+##### Artikel 18. Seksueel misbruik
 
 1. Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat de volgende opzettelijke gedragingen strafbaar worden gesteld:
 
@@ -200,7 +222,7 @@ Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om de inste
 
 3. De bepalingen van het eerste lid, onderdeel a, zijn niet bedoeld als zijnde van toepassing op vrijwillige seksuele handelingen tussen minderjarigen.
 
-#### Artikel 19. Strafbare feiten met betrekking tot kinderprostitutie
+##### Artikel 19. Strafbare feiten met betrekking tot kinderprostitutie
 
 1. Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat de volgende opzettelijke gedragingen strafbaar worden gesteld:
 
@@ -212,7 +234,7 @@ Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om de inste
 
 2. Voor de toepassing van dit artikel wordt onder het begrip „kinderprostitutie” verstaan het feit dat een kind wordt gebruikt voor seksuele activiteiten waarbij bij wijze van betaling geld of een andere vorm van beloning of vergoeding wordt gegeven of beloofd, ongeacht of deze betaling, belofte of vergoeding aan het kind of een derde wordt gegeven of gedaan.
 
-#### Artikel 20. Strafbare feiten met betrekking tot kinderpornografie
+##### Artikel 20. Strafbare feiten met betrekking tot kinderpornografie
 
 1. Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat de volgende opzettelijke gedragingen, indien wederrechtelijk gepleegd, strafbaar worden gesteld:
 
@@ -238,7 +260,7 @@ Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om de inste
 
 4. Elke Partij kan zich het recht voorbehouden het eerste lid, onderdeel f, gedeeltelijk of in het geheel niet toe te passen.
 
-#### Artikel 21. Strafbare feiten met betrekking tot de deelname van een kind aan pornografische voorstellingen
+##### Artikel 21. Strafbare feiten met betrekking tot de deelname van een kind aan pornografische voorstellingen
 
 1. Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat de volgende opzettelijke gedragingen strafbaar worden gesteld:
 
@@ -250,15 +272,15 @@ Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om de inste
 
 2. Elke Partij kan zich het recht voorbehouden de toepassing van het eerste lid, onderdeel c, te beperken tot gevallen waarin kinderen zijn geworven of gedwongen in overeenstemming met het eerste lid, onderdeel a of b.
 
-#### Artikel 22. Het corrumperen van kinderen
+##### Artikel 22. Het corrumperen van kinderen
 
 Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn voor het strafbaar stellen van het opzettelijk getuige laten zijn, voor seksuele doeleinden, van een kind dat de ingevolge [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=VI&artikel=18&z=2010-07-01&g=2010-07-01), vastgestelde leeftijd niet heeft bereikt, van seksueel misbruik of seksuele activiteiten, ook zonder dat het kind daaraan moet deelnemen.
 
-#### Artikel 23. Benaderen van kinderen voor seksuele doeleinden
+##### Artikel 23. Benaderen van kinderen voor seksuele doeleinden
 
 Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn voor het strafbaar stellen van het doen van een voorstel, door middel van informatie- en communicatietechnologie, door een volwassene aan een kind dat de ingevolge [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=VI&artikel=18&z=2010-07-01&g=2010-07-01), vastgestelde leeftijd niet heeft bereikt, tot een ontmoeting met als vooropgezet doel het plegen van een overeenkomstig artikel 18, eerste lid, onderdeel a, of [artikel 20, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=VI&artikel=20&z=2010-07-01&g=2010-07-01), strafbaar gesteld feit tegen hem of haar, wanneer dit voorstel is gevolgd door materiële handelingen die tot een dergelijke ontmoeting leiden.
 
-#### Artikel 24. Medeplichtigheid of uitlokking en poging
+##### Artikel 24. Medeplichtigheid of uitlokking en poging
 
 1. Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om medeplichtigheid aan of uitlokking van een van de overeenkomstig dit Verdrag strafbaar gestelde feiten, indien zulks opzettelijk geschiedt, strafbaar te stellen.
 
@@ -266,7 +288,7 @@ Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn voor het st
 
 3. Elke Partij kan zich het recht voorbehouden het tweede lid gedeeltelijk of in het geheel niet toe te passen op de overeenkomstig [artikel 20, eerste lid, onderdelen b, d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=VI&artikel=20&z=2010-07-01&g=2010-07-01), [artikel 21, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=VI&artikel=21&z=2010-07-01&g=2010-07-01), en de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=VI&artikel=22&z=2010-07-01&g=2010-07-01) en 23 strafbaar gestelde feiten.
 
-#### Artikel 25. Rechtsmacht
+##### Artikel 25. Rechtsmacht
 
 1. Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om haar rechtsmacht te vestigen met betrekking tot een overeenkomstig dit Verdrag strafbaar gesteld feit, indien dit strafbare feit wordt gepleegd:
 
@@ -296,7 +318,7 @@ Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn voor het st
 
 9. Onverminderd de algemene regels van het internationale recht, sluit dit Verdrag geen enkele rechtsmacht uit die een Partij in overeenstemming met haar nationale recht uitoefent.
 
-#### Artikel 26. Aansprakelijkheid van rechtspersonen
+##### Artikel 26. Aansprakelijkheid van rechtspersonen
 
 1. Elke Partij neemt de wettelijke en andere maatregelen die nodig zijn om te waarborgen dat een rechtspersoon aansprakelijk kan worden gesteld voor een overeenkomstig dit Verdrag strafbaar gesteld feit, wanneer dit te zijner voordeel wordt gepleegd door een natuurlijke persoon, individueel handelend of als lid van een orgaan van de rechtspersoon, die binnen die rechtspersoon een leidinggevende functie vervult die gebaseerd is op
 
@@ -312,7 +334,7 @@ Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn voor het st
 
 4. Deze aansprakelijkheid geldt onverminderd de strafrechtelijke aansprakelijkheid van de natuurlijke personen die het strafbare feit hebben gepleegd.
 
-#### Artikel 27. Sancties en maatregelen
+##### Artikel 27. Sancties en maatregelen
 
 1. Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat op de overeenkomstig dit Verdrag strafbaar gestelde feiten doeltreffende, evenredige en afschrikkende straffen worden gesteld, rekening houdend met de ernst van de feiten. Deze sancties omvatten straffen die vrijheidsbeneming met zich mee kunnen brengen en tot uitlevering kunnen leiden.
 
@@ -340,7 +362,7 @@ Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn voor het st
 
 5. Elke Partij mag vaststellen dat de opbrengsten van strafbare feiten of de in overeenstemming met dit artikel geconfisqueerde bezittingen worden toegewezen aan een speciaal fonds ter financiering van preventie- en hulpprogramma's voor slachtoffers van de overeenkomstig dit Verdrag strafbaar gestelde feiten.
 
-#### Artikel 28. Strafverzwarende omstandigheden
+##### Artikel 28. Strafverzwarende omstandigheden
 
 Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat de volgende omstandigheden, voor zover deze niet reeds tot de bestanddelen van het strafbare feit behoren, in aanmerking kunnen worden genomen, overeenkomstig de relevante bepalingen van het nationale recht, als strafverzwarende omstandigheden bij het bepalen van de sancties met betrekking tot de overeenkomstig dit Verdrag strafbaar gestelde feiten:
 
@@ -358,13 +380,13 @@ Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om te waarb
 
 - g. de dader is eerder wegens soortgelijke feiten veroordeeld.
 
-#### Artikel 29. Eerdere veroordelingen
+##### Artikel 29. Eerdere veroordelingen
 
 Elke Partij neemt de wettelijke of andere maatregelen die nodig zijn om te voorzien in de mogelijkheid bij het bepalen van de straf rekening te houden met onherroepelijke vonnissen die door een andere Partij zijn gewezen met betrekking tot de overeenkomstig dit Verdrag strafbaar gestelde feiten.
 
 ### HOOFDSTUK VII. ONDERZOEK, VERVOLGING EN PROCESRECHT
 
-#### Artikel 30. Beginselen
+##### Artikel 30. Beginselen
 
 1. Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat onderzoeken en strafrechtelijke procedures worden uitgevoerd in het belang van het kind en met inachtneming van zijn rechten.
 
@@ -380,7 +402,7 @@ Elke Partij neemt de wettelijke of andere maatregelen die nodig zijn om te voorz
 
 - –. om eenheden of onderzoeksdiensten in staat te stellen de slachtoffers van de overeenkomstig [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=VI&artikel=20&z=2010-07-01&g=2010-07-01) strafbaar gestelde feiten te identificeren, met name door analyse van kinderpornografisch materiaal, zoals foto’s of audiovisuele opnamen die zijn uitgezonden of beschikbaar zijn gesteld door het gebruik van informatie- en communicatietechnologieën.
 
-#### Artikel 31. Algemene beschermende maatregelen
+##### Artikel 31. Algemene beschermende maatregelen
 
 1. Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om de rechten en belangen van slachtoffers te beschermen, met inbegrip van hun bijzondere behoeften als getuigen, tijdens alle fasen van het onderzoek en de strafrechtelijke procedure, en met name door:
 
@@ -408,21 +430,21 @@ Elke Partij neemt de wettelijke of andere maatregelen die nodig zijn om te voorz
 
 6. Elke Partij waarborgt dat de informatie die in overeenstemming met de bepalingen van dit artikel aan de slachtoffers wordt verstrekt, is aangepast aan hun leeftijd en ontwikkelingsniveau en in een taal is gesteld die zij begrijpen.
 
-#### Artikel 32. Instelling van de procedure
+##### Artikel 32. Instelling van de procedure
 
 Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat het onderzoek naar of de vervolging van de overeenkomstig dit Verdrag strafbaar gestelde feiten niet afhankelijk is van de aangifte of beschuldiging door een slachtoffer en dat de procedure kan worden voortgezet zelfs al trekt het slachtoffer zijn verklaring in.
 
-#### Artikel 33. Verjaringstermijn
+##### Artikel 33. Verjaringstermijn
 
 Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat de verjaringstermijn voor het instellen van een procedure met betrekking tot de overeenkomstig de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=VI&artikel=18&z=2010-07-01&g=2010-07-01), [19, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=VI&artikel=19&z=2010-07-01&g=2010-07-01), en [21, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=VI&artikel=21&z=2010-07-01&g=2010-07-01), strafbaar gestelde feiten een zodanige duur heeft dat het mogelijk is de procedure op doeltreffende wijze in te stellen nadat het slachtoffer meerderjarig is geworden, waarbij deze termijn evenredig is aan de zwaarte van het desbetreffende strafbare feit.
 
-#### Artikel 34. Onderzoek
+##### Artikel 34. Onderzoek
 
 1. Elke Partij neemt de maatregelen die nodig kunnen zijn om te waarborgen dat de met onderzoek belaste personen, eenheden of diensten gespecialiseerd zijn op het gebied van de bestrijding van seksuele uitbuiting en seksueel misbruik van kinderen of dat de personen hiervoor worden opgeleid. Dergelijke eenheden of diensten dienen over toereikende financiële middelen te beschikken.
 
 2. Elke Partij neemt de wetgevende of andere maatregelen die nodig kunnen zijn om te waarborgen dat onzekerheid over de feitelijke leeftijd van het slachtoffer het instellen van een strafrechtelijk onderzoek niet zal verhinderen.
 
-#### Artikel 35. Het verhoor van kinderen
+##### Artikel 35. Het verhoor van kinderen
 
 1. Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat:
 
@@ -442,7 +464,7 @@ Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om te waarb
 
 3. Wanneer er onzekerheid bestaat over de leeftijd van het slachtoffer en er gronden zijn om aan te nemen dat het slachtoffer een kind is, zijn de in het eerste en tweede lid vastgestelde maatregelen van toepassing, in afwachting van verificatie van diens leeftijd.
 
-#### Artikel 36. Strafproces
+##### Artikel 36. Strafproces
 
 1. Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn, met inachtneming van de regels inzake de onafhankelijkheid van beoefenaars van juridische beroepen, om te waarborgen dat opleiding inzake de rechten van kinderen en seksuele uitbuiting en seksueel misbruik van kinderen beschikbaar is voor alle personen die bij het proces betrokken zijn, met name rechters, officieren van justitie en advocaten.
 
@@ -454,7 +476,7 @@ Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om te waarb
 
 ### HOOFDSTUK VIII
 
-#### Artikel 37. Vastleggen en opslaan van nationale gegevens over veroordeelde zedendelinquenten
+##### Artikel 37. Vastleggen en opslaan van nationale gegevens over veroordeelde zedendelinquenten
 
 1. Ten behoeve van het voorkomen en vervolgen van de overeenkomstig dit Verdrag strafbaar gestelde feiten, neemt elke Partij de wetgevende of andere maatregelen die nodig zijn voor het verzamelen en opslaan, in overeenstemming met de desbetreffende bepalingen inzake de bescherming van persoonsgegevens en andere toepasselijke regels en waarborgen die in het nationale recht zijn voorzien, van gegevens met betrekking tot de identiteit en het genetisch profiel (DNA) van personen die veroordeeld zijn wegens de overeenkomstig dit Verdrag strafbaar gestelde feiten.
 
@@ -464,7 +486,7 @@ Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om te waarb
 
 ### HOOFDSTUK IX. INTERNATIONALE SAMENWERKING
 
-#### Artikel 38. Algemene beginselen en maatregelen ten aanzien van internationale samenwerking
+##### Artikel 38. Algemene beginselen en maatregelen ten aanzien van internationale samenwerking
 
 1. De Partijen werken, overeenkomstig de bepalingen van dit Verdrag en door toepassing van relevante toepasselijke internationale en regionale instrumenten, regelingen die zijn overeengekomen op basis van uniforme of wederkerige wetgeving en overeenkomstig hun nationale recht, in zo ruim mogelijke mate met elkaar samen ten behoeve van:
 
@@ -482,7 +504,7 @@ Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om te waarb
 
 ### HOOFDSTUK X. TOEZICHTSMECHANISME
 
-#### Artikel 39. Comité van de Partijen
+##### Artikel 39. Comité van de Partijen
 
 1. Het Comité van de Partijen is samengesteld uit vertegenwoordigers van de Partijen bij het Verdrag.
 
@@ -490,7 +512,7 @@ Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om te waarb
 
 3. Het Comité van de Partijen stelt zijn eigen reglement van orde vast.
 
-#### Artikel 40. Andere vertegenwoordigers
+##### Artikel 40. Andere vertegenwoordigers
 
 1. De Parlementaire Vergadering van de Raad van Europa, de Commissaris voor de rechten van de mens, de Europese Commissie voor Strafrechtelijke Vraagstukken (CDPC), alsmede overige relevante intergouvernementele comités van de Raad van Europa, benoemen elk een vertegenwoordiger bij het Comité van de Partijen.
 
@@ -500,7 +522,7 @@ Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om te waarb
 
 4. De vertegenwoordigers benoemd ingevolge het eerste, tweede en derde lid van dit artikel, nemen zonder stemrecht deel aan de zittingen van het Comité van de Partijen.
 
-#### Artikel 41. Taken van het Comité van de Partijen
+##### Artikel 41. Taken van het Comité van de Partijen
 
 1. Het Comité van de Partijen ziet toe op de uitvoering van dit Verdrag. Het reglement van orde van het Comité van de Partijen bepaalt de procedure voor toetsing van de uitvoering van dit Verdrag.
 
@@ -518,11 +540,11 @@ Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om te waarb
 
 ### HOOFDSTUK XI. VERHOUDING TOT ANDERE INTERNATIONALE INSTRUMENTEN
 
-#### Artikel 42. Verhouding tot het [Verdrag inzake de rechten van het kind](https://wetten.overheid.nl/jci1.3:c:BWBV0002508) en het [Facultatief Protocol daarbij inzake de verkoop van kinderen, kinderprostitutie en kinderpornografie](https://wetten.overheid.nl/jci1.3:c:BWBV0001752)
+##### Artikel 42. Verhouding tot het [Verdrag inzake de rechten van het kind](https://wetten.overheid.nl/jci1.3:c:BWBV0002508) en het [Facultatief Protocol daarbij inzake de verkoop van kinderen, kinderprostitutie en kinderpornografie](https://wetten.overheid.nl/jci1.3:c:BWBV0001752)
 
 Dit Verdrag laat de rechten en verplichtingen die voortvloeien uit de bepalingen van het [Verdrag inzake de rechten van het kind](https://wetten.overheid.nl/jci1.3:c:BWBV0002508) en het [Facultatief Protocol daarbij inzake de verkoop van kinderen, kinderprostitutie en kinderpornografie](https://wetten.overheid.nl/jci1.3:c:BWBV0001752)onverlet en beoogt de bescherming die door deze instrumenten wordt geboden te verbeteren en de erin vastgestelde normen aan te vullen.
 
-#### Artikel 43. Verhouding tot andere internationale instrumenten
+##### Artikel 43. Verhouding tot andere internationale instrumenten
 
 1. Dit Verdrag laat de rechten en verplichtingen onverlet die voortvloeien uit de bepalingen van andere internationale instrumenten waarbij de Partijen bij dit Verdrag partij zijn of zullen worden en die bepalingen bevatten inzake door dit Verdrag geregelde aangelegenheden en die een grotere bescherming van en meer hulp aan kinderen die het slachtoffer van seksuele uitbuiting en seksueel misbruik zijn, waarborgen.
 
@@ -532,7 +554,7 @@ Dit Verdrag laat de rechten en verplichtingen die voortvloeien uit de bepalingen
 
 ### HOOFDSTUK XII. WIJZIGINGEN VAN HET VERDRAG
 
-#### Artikel 44. Wijzigingen
+##### Artikel 44. Wijzigingen
 
 1. Elk voorstel tot wijziging van dit Verdrag dat door een Partij wordt ingediend, wordt medegedeeld aan de Secretaris-Generaal van de Raad van Europa en door hem of haar toegezonden aan de lidstaten van de Raad van Europa, elke ondertekenaar, elke Staat die Partij is, de Europese Gemeenschap, elke Staat die overeenkomstig de bepalingen van [artikel 45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=XIII&artikel=45&z=2010-07-01&g=2010-07-01), is uitgenodigd dit Verdrag te ondertekenen en aan elke Staat die overeenkomstig de bepalingen van [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=XIII&artikel=46&z=2010-07-01&g=2010-07-01), is uitgenodigd tot dit Verdrag toe te treden.
 
@@ -546,7 +568,7 @@ Dit Verdrag laat de rechten en verplichtingen die voortvloeien uit de bepalingen
 
 ### HOOFDSTUK XIII. SLOTBEPALINGEN
 
-#### Artikel 45. Ondertekening en inwerkingtreding
+##### Artikel 45. Ondertekening en inwerkingtreding
 
 1. Dit Verdrag staat open voor ondertekening door de lidstaten van de Raad van Europa, door Staten die geen lid van de Raad zijn en die hebben deelgenomen aan de opstelling ervan en door de Europese Gemeenschap.
 
@@ -556,13 +578,13 @@ Dit Verdrag laat de rechten en verplichtingen die voortvloeien uit de bepalingen
 
 4. Ten aanzien van iedere in het eerste lid bedoelde Staat of de Europese Gemeenschap, die daarna het feit dat hij of zij ermee instemt door dit Verdrag te worden gebonden, tot uitdrukking brengt, treedt het Verdrag in werking op de eerste dag van de maand na het verstrijken van een tijdvak van drie maanden na de datum van de nederlegging van de akte van bekrachtiging, aanvaarding of goedkeuring.
 
-#### Artikel 46. Toetreding tot het Verdrag
+##### Artikel 46. Toetreding tot het Verdrag
 
 1. Na de inwerkingtreding van dit Verdrag kan het Comité van Ministers van de Raad van Europa, na raadpleging en verkrijging van unanieme instemming van de Partijen bij dit Verdrag, elke Staat die geen lid is van de Raad van Europa en die niet heeft deelgenomen aan de opstelling van het Verdrag, uitnodigen tot dit Verdrag toe te treden, door een door de meerderheid als voorzien in artikel 20, onderdeel d, van het Statuut van de Raad van Europa genomen besluit en door de unanieme stemming door de vertegenwoordigers van de Verdragsluitende Staten die recht hebben op een zetel in het Comité van Ministers.
 
 2. Ten aanzien van elke toetredende Staat treedt het Verdrag in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van nederlegging van de akte van toetreding bij de Secretaris-Generaal van de Raad van Europa.
 
-#### Artikel 47. Territoriale toepassing
+##### Artikel 47. Territoriale toepassing
 
 1. Elke Staat of de Europese Gemeenschap kan, op het tijdstip van de ondertekening of bij de nederlegging van zijn of haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, het grondgebied of de grondgebieden waarop dit Verdrag van toepassing is nader aanduiden.
 
@@ -570,17 +592,17 @@ Dit Verdrag laat de rechten en verplichtingen die voortvloeien uit de bepalingen
 
 3. Iedere krachtens de twee voorgaande leden gedane verklaring kan, met betrekking tot elk in die verklaring nader aangeduid grondgebied, worden ingetrokken door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte kennisgeving. De intrekking wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 48. Voorbehouden
+##### Artikel 48. Voorbehouden
 
 Ten aanzien van de bepalingen van dit Verdrag kunnen geen voorbehouden worden gemaakt, met uitzondering van de uitdrukkelijk vastgestelde voorbehouden. Voorbehouden kunnen te allen tijde worden ingetrokken.
 
-#### Artikel 49. Opzegging
+##### Artikel 49. Opzegging
 
 1. Elke Partij kan dit Verdrag te allen tijde opzeggen door middel van een kennisgeving gericht aan de Secretaris-Generaal van de Raad van Europa.
 
 2. Deze opzegging wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 50. Kennisgeving
+##### Artikel 50. Kennisgeving
 
 1. De Secretaris-Generaal van de Raad van Europa stelt de lidstaten van de Raad van Europa, alle ondertekenende Staten, alle Staten die Partij zijn, de Europese Gemeenschap, alle Staten die overeenkomstig de bepalingen van [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=XIII&artikel=45&z=2010-07-01&g=2010-07-01) zijn uitgenodigd dit Verdrag te ondertekenen en alle Staten die overeenkomstig de bepalingen van [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=XIII&artikel=46&z=2010-07-01&g=2010-07-01) zijn uitgenodigd tot dit Verdrag toe te treden in kennis van:
 

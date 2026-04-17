@@ -1,13 +1,39 @@
 ---
-title: "Besluit militaire luchthavens"
+title: "Besluit van 6 februari 2009, houdende de vaststelling van regels met betrekking tot militaire luchthavens (Besluit militaire luchthavens)"
 identifier: "BWBR0025302"
-categorie: "Milieu"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0025302"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0025302"
+soort: "AMvB"
+stam_id: "9904083"
+version_id: "16148242"
+internal_id: "C23100881"
+label_id: "9881054"
+dtd_version: "2.0"
+original_entry_into_force: "2009-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0025302/2024-01-01/0"
+intitule_bron: "Stb.2009-72"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-02-06"
+intitule_published: "2009-02-19"
+intitule_in_force: "2009-10-30"
+intitule_status: "goed"
+original_publication: "Stb.2009-72"
+original_signed_date: "2009-02-06"
+original_published_date: "2009-02-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2009-72"
+entry_into_force_date: "2009-11-01"
+jci_1_3: "jci1.3:c:BWBR0025302&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0025302&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit militaire luchthavens"
+signed_date: "2009-02-06"
+entry_into_force: "2009-11-01"
 ---
-
 # Besluit van 6 februari 2009, houdende de vaststelling van regels met betrekking tot militaire luchthavens (Besluit militaire luchthavens)
 
 Op de voordracht van de Staatssecretaris van Defensie van 21 april 2008, nr. C/2008009692, Directie Juridische Zaken, gedaan in overeenstemming met Onze Minister van Volkshuisvesting Ruimtelijke Ordening en Milieubeheer;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit wordt verstaan onder:
 
@@ -60,7 +86,7 @@ Hebben goedgevonden en verstaan:
 
 3. Een opvangcentrum als bedoeld in [artikel 1, onderdeel d, van de Wet Centraal Orgaan opvang asielzoekers](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&artikel=1) is geen woning als bedoeld in dit besluit.
 
-#### Artikel 2
+##### Artikel 2
 
 1. [Titel 10.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&titeldeel=10.3) is van toepassing op de volgende militaire luchthavens:
 
@@ -74,7 +100,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 2.1. Geluidsbelasting in Kosteneenheden
 
-#### Artikel 3
+##### Artikel 3
 
 1. De geluidsbelasting door landende en opstijgende luchtvaartuigen, bedoeld in [artikel 10.12, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.12), wordt uitgedrukt in Kosteneenheden.
 
@@ -100,7 +126,7 @@ en waarin het teken «L» staat voor het maximaal geluidsniveau in dB(A) dat voo
 
 #### § 2.2. De maximaal toelaatbare geluidsbelasting buiten de geluidszone
 
-#### Artikel 4
+##### Artikel 4
 
 Voor de in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoofdstuk=1&artikel=2&z=2024-01-01&g=2024-01-01), genoemde luchthavens is de grenswaarde voor de maximaal toelaatbare geluidsbelasting buiten de geluidszone 35 Kosteneenheden.
 
@@ -108,13 +134,13 @@ Voor de in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.
 
 #### § 2.3.1. Nieuwbouw
 
-#### Artikel 5
+##### Artikel 5
 
 1. De maximaal toelaatbare geluidsbelasting van woningen en andere geluidsgevoelige gebouwen die op het tijdstip van vaststelling van de geluidszone daarbinnen nog niet aanwezig zijn en waarvoor nog geen omgevingsvergunning voor het bouwen is verleend, is 35 Kosteneenheden.
 
 2. De maximaal toelaatbare geluidsbelasting van standplaatsen en ligplaatsen die op het tijdstip van vaststelling van de geluidszone daarbinnen nog niet aanwezig zijn, is 35 Kosteneenheden.
 
-#### Artikel 6
+##### Artikel 6
 
 In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoofdstuk=2&paragraaf=2.3&sub-paragraaf=2.3.1&artikel=5&z=2024-01-01&g=2024-01-01), is de maximaal toelaatbare geluidsbelasting van woningen en andere geluidsgevoelige gebouwen als bedoeld in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoofdstuk=2&paragraaf=2.3&sub-paragraaf=2.3.1&artikel=5&z=2024-01-01&g=2024-01-01) 45 Kosteneenheden:
 
@@ -126,7 +152,7 @@ In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 - 4°. voor woningen die ter plaatse dringend noodzakelijk zijn om redenen van locatie- of bedrijfsgebondenheid.
 
-#### Artikel 7
+##### Artikel 7
 
 In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoofdstuk=2&paragraaf=2.3&sub-paragraaf=2.3.1&artikel=5&z=2024-01-01&g=2024-01-01), is de maximaal toelaatbare geluidsbelasting van woningen of andere geluidsgevoelige gebouwen als bedoeld in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoofdstuk=2&paragraaf=2.3&sub-paragraaf=2.3.1&artikel=5&z=2024-01-01&g=2024-01-01) 65 Kosteneenheden:
 
@@ -144,11 +170,11 @@ In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 #### § 2.3.2.1. Bestaande woningen
 
-#### Artikel 8
+##### Artikel 8
 
 40 Kosteneenheden is de maximaal toelaatbare geluidsbelasting van een woning die op het tijdstip van vaststelling van de geluidszone daarbinnen reeds aanwezig is of nog niet aanwezig is maar waarvoor de omgevingsvergunning voor het bouwen is verleend.
 
-#### Artikel 9
+##### Artikel 9
 
 In afwijking van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoofdstuk=2&paragraaf=2.3&sub-paragraaf=2.3.2&sub-paragraaf=2.3.2.1&artikel=8&z=2024-01-01&g=2024-01-01) is 65 Kosteneenheden de maximaal toelaatbare geluidsbelasting van een woning als bedoeld in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoofdstuk=2&paragraaf=2.3&sub-paragraaf=2.3.2&sub-paragraaf=2.3.2.1&artikel=8&z=2024-01-01&g=2024-01-01) indien:
 
@@ -162,11 +188,11 @@ In afwijking van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoo
 
 #### § 2.3.2.2. Bestaande andere geluidsgevoelige gebouwen
 
-#### Artikel 10
+##### Artikel 10
 
 35 Kosteneenheden is de maximaal toelaatbare geluidsbelasting van een ander geluidsgevoelig gebouw dat op het tijdstip van vaststelling van de geluidszone daarbinnen reeds aanwezig is of nog niet aanwezig is maar waarvoor de omgevingsvergunning voor het bouwen is verleend.
 
-#### Artikel 11
+##### Artikel 11
 
 In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoofdstuk=2&paragraaf=2.3&sub-paragraaf=2.3.2&sub-paragraaf=2.3.2.2&artikel=10&z=2024-01-01&g=2024-01-01) is 65 Kosteneenheden de maximaal toelaatbare geluidsbelasting van een ander geluidsgevoelig gebouw als bedoeld in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoofdstuk=2&paragraaf=2.3&sub-paragraaf=2.3.2&sub-paragraaf=2.3.2.2&artikel=10&z=2024-01-01&g=2024-01-01) indien:
 
@@ -180,17 +206,17 @@ In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&ho
 
 #### § 2.3.2.3. Bestaande standplaatsen en ligplaatsen
 
-#### Artikel 12
+##### Artikel 12
 
 De maximaal toelaatbare geluidsbelasting van een standplaats die op het tijdstip van vaststelling van de geluidszone daarbinnen reeds aanwezig is, is 40 Kosteneenheden.
 
-#### Artikel 13
+##### Artikel 13
 
 De maximaal toelaatbare geluidsbelasting van een ligplaats die op het tijdstip van vaststelling van de geluidszone daarbinnen reeds aanwezig is, is 40 Kosteneenheden.
 
 #### § 2.3.2.4. Blijfrecht
 
-#### Artikel 14
+##### Artikel 14
 
 1. Ten aanzien van degene die op het tijdstip van vaststelling van de geluidszone rechtmatig gebruiker is van een woning, ander geluidsgevoelig gebouw, standplaats of ligplaats als bedoeld in § 2.3.2, kan beëindiging van dit gebruik niet worden gevergd.
 
@@ -198,13 +224,13 @@ De maximaal toelaatbare geluidsbelasting van een ligplaats die op het tijdstip v
 
 #### § 2.4. Grenswaarden in geval van afzonderlijke burgergeluidsruimte
 
-#### Artikel 15
+##### Artikel 15
 
 Indien op de in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoofdstuk=1&artikel=2&z=2024-01-01&g=2024-01-01), genoemde luchthavens een vergunning voor burgermedegebruik door tussenkomst van een burgerexploitant is verleend, bedraagt de grenswaarde voor de maximaal toelaatbare geluidsbelasting voor het burgerluchtverkeer 35 Kosteneenheden en voor het militaire luchtverkeer 35 Kosteneenheden.
 
 ### Hoofdstuk 3. Regels met betrekking tot maximale hoogte van objecten
 
-#### Artikel 16
+##### Artikel 16
 
 1. De maximaal toelaatbare hoogte van objecten in, op of boven de grond, die op 25 juni 2004 niet in het obstakelbeheergebied aanwezig waren is, in verband met de veiligheid van het luchthavenluchtverkeer, in overeenstemming met de blijkens een in de Staatscourant bekend gemaakte mededeling van Onze Minister van kracht zijnde versie van de NATO Standardization Agreement nr. 3759 inzake NATO Supplement to ICAO DOC 8168-OPS/611, Volume II, for the preparation of instrument approach and departure Procedures – AATCP-1(B). De eerste volzin is niet van toepassing indien:
 
@@ -236,13 +262,13 @@ Indien op de in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/
 
 #### § 4.1. Algemene bepalingen met betrekking tot burgerluchtvaart op militaire luchthavens
 
-#### Artikel 17
+##### Artikel 17
 
 1. Het militair luchtverkeer op of boven militaire luchthavens mag onder geen omstandigheden worden gehinderd door de burgerluchtvaart.
 
 2. De gezagvoerders van landende, opstijgende, taxiënde en parkerende burgerluchtvaartuigen gedragen zich stipt overeenkomstig de aanwijzingen die met betrekking tot het luchtverkeer door de plaatselijke luchtverkeersleidingsdiensten worden gegeven.
 
-#### Artikel 18
+##### Artikel 18
 
 1. In het belang van de uitvoering van de militaire taak kan de commandant van de militaire luchthaven aanwijzingen aan de burgerluchtvaart geven omtrent het gebruik van de militaire luchthaven.
 
@@ -252,13 +278,13 @@ Indien op de in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/
 
 4. Bij niet nakoming van de door de commandant gegeven aanwijzingen kan de commandant de toegang tot de luchthaven ontzeggen dan wel beperkingen of een tijdelijk verbod opleggen voor wat betreft het gebruik van de luchthaven.
 
-#### Artikel 19
+##### Artikel 19
 
 De militaire luchthaven wordt op behoorlijke wijze gebruikt door het burgerluchtverkeer.
 
 #### § 4.2. Bepalingen met betrekking tot recreatieve burgerluchtvaart op militaire luchthavens
 
-#### Artikel 20
+##### Artikel 20
 
 In deze paragraaf wordt verstaan onder:
 
@@ -282,7 +308,7 @@ In deze paragraaf wordt verstaan onder:
 
 - f. **zeilvliegen:** vliegen met een zweeftoestel met starre hoofdstructuur, dat kan worden gedragen en slechts kan worden gestart en geland door gebruik te maken van de benen van de bestuurder.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Recreatieve burgerluchtvaart is niet toegestaan:
 
@@ -292,7 +318,7 @@ In deze paragraaf wordt verstaan onder:
 
 2. Sleepvliegen is niet toegestaan vóór 12:00 uur op zondag en op christelijke feestdagen.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Recreatieve burgerluchtvaart wordt uitsluitend beoefend in aanwezigheid van een voor de betrokken vorm van recreatieve burgerluchtvaart bevoegde coördinator als bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoofdstuk=4&paragraaf=4.2&artikel=23&z=2024-01-01&g=2024-01-01).
 
@@ -300,7 +326,7 @@ In deze paragraaf wordt verstaan onder:
 
 3. Indien meerdere verenigingen op de luchthaven tegelijkertijd een zelfde vorm van recreatieve burgerluchtvaart beoefenen, treedt één van de voor die vorm aangewezen coördinatoren als bedoeld in het eerste lid op als coördinator voor het geheel van die vorm van recreatieve burgerluchtvaart.
 
-#### Artikel 23
+##### Artikel 23
 
 1. De commandant van de luchthaven wijst afhankelijk van de op de betrokken luchthaven beoefende vormen van recreatieve burgerluchtvaart de volgende coördinatoren aan:
 
@@ -326,7 +352,7 @@ In deze paragraaf wordt verstaan onder:
 
 6. De commandant van de luchthaven is bevoegd tot intrekking of schorsing van de aanwijzing tot coördinator of hoofdvliegcoördinator, indien betrokkene niet meer aan de ingevolge het vijfde lid gestelde eisen voldoet of zich schuldig maakt aan wangedrag.
 
-#### Artikel 24
+##### Artikel 24
 
 1. De beoefenaars van recreatieve burgerluchtvaart gedragen zich stipt overeenkomstig de aanwijzingen die door de betrokken coördinator worden gegeven.
 
@@ -334,7 +360,7 @@ In deze paragraaf wordt verstaan onder:
 
 3. Indien slechts één vorm van recreatieve burgerluchtvaart wordt uitgeoefend op de luchthaven, wordt de functie van hoofdvliegcoördinator vervuld door de voor de betrokken vorm van recreatieve burgerluchtvaart aangewezen coördinator.
 
-#### Artikel 25
+##### Artikel 25
 
 Onverminderd [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoofdstuk=4&paragraaf=4.2&artikel=21&z=2024-01-01&g=2024-01-01) kan de recreatieve burgerluchtvaart buiten de reguliere openstellingtijden van de betrokken luchthaven gebruik maken van de luchthaven, indien wordt voldaan aan de volgende voorwaarden:
 
@@ -346,7 +372,7 @@ Onverminderd [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoofds
 
 - d. in een verkeerscircuit voor motorsportvliegen bevinden zich maximaal drie vliegtuigen.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Op een militaire luchthaven zijn maximaal twee sleepvliegtuigen gestationeerd. In incidentele gevallen kan, na verkregen toestemming van de commandant, het aantal van twee sleepvliegtuigen tijdelijk worden verhoogd tot maximaal vier.
 
@@ -356,13 +382,13 @@ Onverminderd [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoofds
 
 4. Tijdens sleepvliegen worden geen passagiers medegevoerd met dien verstande dat het is toegestaan dat tijdens controlevluchten als bedoeld in [artikel 20, onder c, onderdeel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoofdstuk=4&paragraaf=4.2&artikel=20&z=2024-01-01&g=2024-01-01), een tweede bevoegd sleepvlieger meevliegt en dat tijdens de in [artikel 20, eerste lid, onder c, onderdeel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoofdstuk=4&paragraaf=4.2&artikel=20&z=2024-01-01&g=2024-01-01), bedoelde vluchten, gedurende het vluchtgedeelte dat niet daadwerkelijk wordt gesleept, de bestuurder van het over te slepen zweefvliegtuig wordt meegevoerd.
 
-#### Artikel 27
+##### Artikel 27
 
 Buiten de reguliere openstellingtijden vinden geen vluchten met motorsportvliegtuigen plaats van of naar militaire luchthavens.
 
 #### § 4.3. Bepalingen met betrekking tot burgerluchtvaart uit oogpunt van algemeen maatschappelijk belang
 
-#### Artikel 28
+##### Artikel 28
 
 Burgerluchtvaart die een algemeen maatschappelijk belang dient, kan buiten de reguliere openstellingtijden van de betrokken militaire luchthaven gebruik maken van die luchthaven, indien wordt voldaan aan de volgende voorwaarden:
 
@@ -376,17 +402,17 @@ Burgerluchtvaart die een algemeen maatschappelijk belang dient, kan buiten de re
 
 #### § 4.4. Nadere regels
 
-#### Artikel 29
+##### Artikel 29
 
 Bij regeling van Onze Minister kunnen met betrekking tot het gebruik van de luchthaven door de burgerluchtvaart nadere regels worden gesteld.
 
 ### Hoofdstuk 5. Regels ten aanzien van aanleg, inrichting, uitrusting en het gebruik van helihavens met luchthavenregeling
 
-#### Artikel 30
+##### Artikel 30
 
 Dit hoofdstuk is van toepassing op de ingevolge [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoofdstuk=1&artikel=2&z=2024-01-01&g=2024-01-01), aangewezen helihavens.
 
-#### Artikel 31
+##### Artikel 31
 
 1. De aanleg, inrichting en uitrusting van een helihaven zijn zodanig dat helikopters daarvan een veilig gebruik kunnen maken.
 
@@ -396,7 +422,7 @@ Dit hoofdstuk is van toepassing op de ingevolge [artikel 2, eerste lid, onderdee
 
 4. Op of in de onmiddellijke nabijheid van een helihaven zijn voldoende en deugdelijke reddings- en brandblusmiddelen aanwezig voor het redden van mensenlevens en de bestrijding van vliegtuigbranden, alsmede voldoende en ter zake kundig personeel voor de bediening van deze middelen.
 
-#### Artikel 32
+##### Artikel 32
 
 1. Alvorens een helihaven door een helikopter mag worden gebruikt, moet toestemming zijn verkregen van de beheerder van de helihaven.
 
@@ -420,7 +446,7 @@ Dit hoofdstuk is van toepassing op de ingevolge [artikel 2, eerste lid, onderdee
 
 4. Elk kwartaal dient een kopie van het register, bedoeld in het tweede lid, onderdeel c, te worden gezonden aan de Militaire Luchtvaart Autoriteit.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Het verkeerscircuit, de routering, de snelheid en de hoogte van vertrekkende en binnenkomende helikopters zijn zodanig gekozen, dat het optreden van vermijdbare geluidhinder, met name in de bebouwde kommen en in de omgeving van bijzondere bebouwing, zoals ziekenhuizen en sanatoria, wordt voorkomen.
 
@@ -428,17 +454,17 @@ Dit hoofdstuk is van toepassing op de ingevolge [artikel 2, eerste lid, onderdee
 
 ### Hoofdstuk 6. Openbaarheid gegevens
 
-#### Artikel 34
+##### Artikel 34
 
 Met betrekking tot de geluidsbelasting door militaire luchtvaartuigen zijn de prestatiegegevens met bijbehorend geselecteerd motorvermogen van die luchtvaartuigen niet openbaar.
 
 ### Hoofdstuk 7. Regels omtrent vergunning voor burgermedegebruik
 
-#### Artikel 35
+##### Artikel 35
 
 De vergunning voor medegebruik wordt niet verleend aan een rechtspersoon die doelen nastreeft of een relatie heeft met organisaties of verbanden die doelen nastreven die niet verenigbaar zijn met de taken van het Ministerie van Defensie.
 
-#### Artikel 36
+##### Artikel 36
 
 1. Het overdragen van een vergunning voor burgermedegebruik behoeft de toestemming van Onze Minister.
 
@@ -448,17 +474,17 @@ De vergunning voor medegebruik wordt niet verleend aan een rechtspersoon die doe
 
 ### Hoofdstuk 8. Slotbepalingen
 
-#### Artikel 37
+##### Artikel 37
 
 De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillenden artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 38
+##### Artikel 38
 
 Dit besluit wordt aangehaald als: Besluit militaire luchthavens.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 36a
+##### Artikel 36a
 
 [Artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoofdstuk=6&artikel=34&z=2024-01-01&g=2024-01-01) van dit besluit, zoals dat artikel luidde vóór 1 januari 2017, blijft ten aanzien van de in dat artikel genoemde gegevens met betrekking tot de geluidsbelasting van toepassing op de periode voorafgaande aan dat tijdstip.
 

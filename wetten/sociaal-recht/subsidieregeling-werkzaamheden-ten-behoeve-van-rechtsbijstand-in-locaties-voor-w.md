@@ -1,20 +1,45 @@
 ---
 title: "Subsidieregeling werkzaamheden ten behoeve van rechtsbijstand in locaties voor Wijkrechtspraak 2024–2026"
 identifier: "BWBR0049573"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049573"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049573"
+soort: "zbo"
+stam_id: "17074133"
+version_id: "30046722"
+internal_id: "C43063991"
+label_id: "16983024"
+dtd_version: "2.0"
+original_entry_into_force: "2024-04-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049573/2026-01-01/0"
+intitule_bron: "Stcrt.2024-12401"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-03-04"
+intitule_published: "2024-04-17"
+intitule_in_force: "2024-04-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-12401"
+original_signed_date: "2024-03-04"
+original_published_date: "2024-04-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-12401"
+entry_into_force_date: "2024-04-18"
+jci_1_3: "jci1.3:c:BWBR0049573&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0049573&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2024-03-04"
+entry_into_force: "2024-04-18"
 ---
-
 # Subsidieregeling werkzaamheden ten behoeve van rechtsbijstand in locaties voor Wijkrechtspraak 2024–2026
 
 gelet op [artikel 37b, van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=37b), waarin is bepaald dat het bestuur van de raad ten behoeve van de verlening van rechtsbijstand subsidie kan verstrekken voor bijzondere doeleinden en projecten, besluit de volgende regeling vast te stellen.
 
 ### Hoofdstuk I. Algemeen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze subsidieregeling wordt verstaan onder:
 
@@ -42,17 +67,17 @@ In deze subsidieregeling wordt verstaan onder:
 
 - l. **regeling:** Subsidieregeling werkzaamheden ten behoeve van rechtsbijstand in locaties voor Wijkrechtspraak 2024;
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 De subsidieregeling heeft tot doel een kader te bieden waarbinnen de Raad in afwijking van het [Bvr](https://wetten.overheid.nl/jci1.3:c:BWBR0011018) een vergoeding in de vorm van een toeslag kan vaststellen voor de extra werkzaamheden die een advocaat verricht in een toegevoegde zaak die wordt behandeld in de wijkrechtspraak.
 
 ### Hoofdstuk II. Voorwaarden
 
-#### Artikel 3. Algemeen
+##### Artikel 3. Algemeen
 
 De advocaat aan wie een toevoeging is afgegeven voor een zaak die wordt behandeld in het kader van de wijkrechtspraak, komt overeenkomstig deze regeling in aanmerking voor een aanvullende vergoeding.
 
-#### Artikel 4. De subsidie
+##### Artikel 4. De subsidie
 
 1. Aan de advocaat wordt op aanvraag een subsidie verstrekt in de vorm van een toeslag van 3 punten voor verleende rechtsbijstand in een op basis van een toevoeging behandelde zaak.
 
@@ -66,23 +91,23 @@ De advocaat aan wie een toevoeging is afgegeven voor een zaak die wordt behandel
 
 6. De advocaat doet, overeenkomstig door het bestuur gestelde regels, opgave van de met de rechtsbijstandverlening gemoeide tijdsbesteding en onderscheid daarbij de tijd die met de extra activiteiten is gemoeid waarvoor de toeslag is verleend.
 
-#### Artikel 5. Overige bepalingen
+##### Artikel 5. Overige bepalingen
 
 De advocaat draagt desgevraagd actief bij aan de door het Kenniscentrum bij de Raad voor Rechtsbijstand opgezette monitoring en evaluatie van de regeling.
 
 ### Hoofdstuk III. Toepassing
 
-#### Artikel 6. Subsidieplafond
+##### Artikel 6. Subsidieplafond
 
 Het subsidieplafond is vastgesteld op maximaal € 300.000 exclusief btw per kalenderjaar. Het beschikbare bedrag zal worden verdeeld op basis van volgorde van aanvraag.
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 1. Deze subsidieregeling treedt in werking op de dag na publicatie daarvan in de Staatscourant en werkt terug tot en met 1 januari 2024.
 
 2. Deze subsidieregeling vervalt op 1 januari 2027.
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Deze subsidieregeling wordt aangehaald als ‘Subsidieregeling werkzaamheden ten behoeve van rechtsbijstand in locaties voor Wijkrechtspraak 2024–2026’.
 

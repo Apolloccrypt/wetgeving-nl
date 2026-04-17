@@ -1,13 +1,39 @@
 ---
-title: "Instellingsbesluit Commissie Mijnbouwschade"
+title: "Besluit van de Minister van Economische Zaken en Klimaat van 5 juni 2020, nr. WJZ/ 20110425, tot instelling van de Commissie Mijnbouwschade (Instellingsbesluit Commissie Mijnbouwschade)"
 identifier: "BWBR0043624"
-categorie: "Overig"
-publicatiedatum: 2025-10-17
-laatste_update: 2025-10-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043624"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-10-17"
+last_updated: "2025-10-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043624"
+soort: "ministeriele-regeling"
+stam_id: "15483793"
+version_id: "26758142"
+internal_id: "C37923931"
+label_id: "15426474"
+dtd_version: "2.0"
+original_entry_into_force: "2020-06-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043624/2025-10-17/0"
+intitule_bron: "Stcrt.2020-30336"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-06-05"
+intitule_published: "2020-06-10"
+intitule_in_force: "2020-06-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-30336"
+original_signed_date: "2020-06-05"
+original_published_date: "2020-06-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-30336"
+entry_into_force_date: "2020-06-11"
+jci_1_3: "jci1.3:c:BWBR0043624&z=2025-10-17&g=2025-10-17"
+jci_1_0: "1.0:c:BWBR0043624&g=2025-10-17"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Commissie Mijnbouwschade"
+signed_date: "2020-06-05"
+entry_into_force: "2020-06-11"
 ---
-
 # Besluit van de Minister van Economische Zaken en Klimaat van 5 juni 2020, nr. WJZ/ 20110425, tot instelling van de Commissie Mijnbouwschade (Instellingsbesluit Commissie Mijnbouwschade)
 
 Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
@@ -16,7 +42,7 @@ Besluit:
 
 ### I. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -56,7 +82,7 @@ In dit besluit wordt verstaan onder:
 
 ### II. Commissie mijnbouwschade
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een Commissie Mijnbouwschade, deze bestaat uit:
 
@@ -114,7 +140,7 @@ De Commissie kan de Minister verzoeken om een wijziging van een protocol indien 
 
 10. De Commissie kan zich laten bijstaan door deskundigen. De werkwijze van de Commissie omvat de wijze waarop onderzoek wordt verricht, de kwaliteitseisen die gesteld worden aan de door de Commissie ingeschakelde deskundigen, de werkwijze van de deskundigen en de vergoeding van hun kosten.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De Commissie bestaat uit:
 
@@ -154,13 +180,13 @@ De Commissie kan de Minister verzoeken om een wijziging van een protocol indien 
 
 8. De Minister stelt huisvesting ter beschikking aan de Commissie.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Aan de leden van de Commissie wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 17, trede 10 van [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
 
 2. In een besluit tot benoeming van een lid van de Commissie wordt de arbeidsduurfactor voor de vergoeding vastgesteld.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De Commissie wordt ondersteund door de uitvoeringsorganisatie.
 
@@ -172,11 +198,11 @@ De Commissie kan de Minister verzoeken om een wijziging van een protocol indien 
 
 ### III. Slotbepalingen
 
-#### Artikel 6
+##### Artikel 6
 
 De Commissie brengt jaarlijks aan de Minister een verslag uit over haar werkzaamheden van het afgelopen jaar. In dit verslag wordt in elk geval aandacht besteed aan de door de Commissie gehanteerde werkwijze, procedures en beoordelingsmethodiek.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Jaarlijks vindt in opdracht van de Minister een evaluatie plaats van de behandeling van schademeldingen door de Commissie.
 
@@ -184,7 +210,7 @@ De Commissie brengt jaarlijks aan de Minister een verslag uit over haar werkzaam
 
 3. De Minister maakt het verslag van de evaluatie, bedoeld in het eerste en tweede lid, openbaar.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Ten behoeve van de goede uitvoering van [artikel 2, tweede lid tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043624&hoofdstuk=II&artikel=2&z=2025-10-17&g=2025-10-17), verwerkt de Commissie de nodige gegevens, waaronder persoonsgegevens. De Commissie is verwerkingsverantwoordelijke voor deze verwerking.
 
@@ -192,15 +218,15 @@ De Commissie brengt jaarlijks aan de Minister een verslag uit over haar werkzaam
 
 3. De Commissie, de mijnbouwonderneming en overige organisaties belast met de behandeling van schade verstrekken elkaar desgevraagd de informatie, waaronder begrepen de persoonsgegevens, bedoeld in het eerste en tweede lid voor zover dit noodzakelijk is in het belang van de goede uitvoering van [artikel 2, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043624&hoofdstuk=II&artikel=2&z=2025-10-17&g=2025-10-17).
 
-#### Artikel 9
+##### Artikel 9
 
 De Commissie, haar leden, de uitvoeringsorganisatie en de eventueel benoemde secretaris en eventuele andere door hen of één van hen in de zaak betrokken personen zijn noch contractueel noch buitencontractueel aansprakelijk voor eventuele schade door eigen of andermans handelen of nalaten of door gebruik van hulpzaken in of rond een schadebehandelingsprocedure, tenzij en voor zover dwingend Nederlands recht anders bepaalt.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 juni 2020.
 
-#### Artikel 11
+##### Artikel 11
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie Mijnbouwschade.
 
@@ -280,7 +306,7 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Eerste afdeling – algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit protocol wordt verstaan onder:
 
@@ -300,13 +326,13 @@ In dit protocol wordt verstaan onder:
 
 - –. **zoutcaverne op land:** zoutcaverne gelegen binnen de Nederlandse gemeente- en provinciegrenzen.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit protocol is van toepassing op de behandeling van schademeldingen als gevolg van bodembeweging door de aanleg of exploitatie van een mijnbouwwerk ten behoeve van zoutwinning.
 
 ### Tweede afdeling – procedure
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een schademelding wordt ingediend bij de Commissie Mijnbouwschade met behulp van een door de Commissie vastgesteld formulier.
 
@@ -346,7 +372,7 @@ Dit protocol is van toepassing op de behandeling van schademeldingen als gevolg 
 
 - q. een verklaring dat het schademeldingsformulier naar waarheid is ingevuld.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De Commissie bevestigt de ontvangst van de schademelding zo spoedig mogelijk, doch uiterlijk binnen een week na de ontvangst ervan.
 
@@ -360,7 +386,7 @@ Dit protocol is van toepassing op de behandeling van schademeldingen als gevolg 
 
 - b. niet met de mijnbouwonderneming tot overeenstemming te zijn gekomen over de afhandeling van de schademelding wordt de schade waar de melding betrekking op heeft niet aangemerkt als schade als bedoeld in [artikel 2, vierde lid, onderdeel c, van het Instellingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043624&hoofdstuk=II&artikel=2&z=2025-10-17&g=2025-10-17).
 
-#### Artikel 5
+##### Artikel 5
 
 1. Indien:
 
@@ -380,7 +406,7 @@ informeert de Commissie de schademelder en de mijnbouwonderneming zo spoedig mog
 
 5. De Commissie stelt de mijnbouwonderneming in de gelegenheid om binnen een door de Commissie te stellen redelijke termijn gegevens en stukken aan te leveren die naar het oordeel van de mijnbouwonderneming nodig zijn om een advies uit te brengen naar aanleiding van de schademelding.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De Commissie wijst naar aanleiding van een schademelding één of meerdere deskundigen aan om, binnen een daartoe door de Commissie gestelde termijn van ten hoogste zes maanden na ontvangst van de schademelding, een deskundigenrapport uit te brengen in het licht van de door de Commissie op te stellen advies, waarbij het onderzoek zal worden verricht op basis van een in de branche gangbare, algemeen erkende beoordelingsmethodiek voor schadevaststelling. De Commissie streeft ernaar dat de opname door de deskundige zo spoedig mogelijk maar uiterlijk binnen drie maanden na aanwijzing van de deskundige plaatsvindt.
 
@@ -410,7 +436,7 @@ informeert de Commissie de schademelder en de mijnbouwonderneming zo spoedig mog
 
 9. Indien het voor het uitbrengen van een rapport noodzakelijk is dat meer of andere deskundigen worden benoemd om onderzoek te doen, kan de deskundige de Commissie daarom verzoeken of kan de Commissie uit eigen beweging besluiten om een aanvullend rapport te vragen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De Commissie stelt een conceptadvies als bedoeld in artikel 9, eerste lid, vast zonder een deskundige als bedoeld in artikel 6, eerste lid, aan te wijzen, indien uit een eerste inhoudelijke beoordeling van de schademelding blijkt dat de schademelding:
 
@@ -424,11 +450,11 @@ informeert de Commissie de schademelder en de mijnbouwonderneming zo spoedig mog
 
 3. De Commissie kan, indien bijzondere omstandigheden daartoe aanleiding geven, afwijken van het eerste lid ten einde onbillijkheden van overwegende aard te voorkomen.
 
-#### Artikel 8
+##### Artikel 8
 
 Indien na een geïnduceerde beving in een gebied in korte tijd een groter aantal schademeldingen wordt ontvangen door de Commissie, kan de Commissie in overleg met de vertegenwoordigers van de betrokken regionale overheden, in het belang van een voortvarende schadebehandeling met de betrokken mijnbouwonderneming overeenkomen dat de Commissie voor bepaalde categorieën schademeldingen binnen een door de Commissie vastgesteld toepassingsgebied een causaal verband aanneemt en zonder een deskundigenonderzoek ter plaatse een conceptadvies als bedoeld in artikel 9, eerste lid, vaststelt.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De Commissie stelt binnen vier weken nadat de deskundige zijn rapport heeft uitgebracht zijn conceptadvies op.
 
@@ -446,7 +472,7 @@ Indien na een geïnduceerde beving in een gebied in korte tijd een groter aantal
 
 8. De Commissie geeft uitvoering aan het in het vijfde lid bedoelde oordeel.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De Commissie stelt binnen twee weken na ommekomst van de zienswijze termijn, bedoeld in artikel 9, tweede of vierde lid, of indien van toepassing na ontvangst van het oordeel bedoeld in artikel 9, vijfde lid, een advies als bedoeld in [artikel 2, tweede lid, van het Instellingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043624&hoofdstuk=II&artikel=2&z=2025-10-17&g=2025-10-17) vast.
 
@@ -472,13 +498,13 @@ Indien na een geïnduceerde beving in een gebied in korte tijd een groter aantal
 
 - i. indien van toepassing, het oordeel bedoeld in artikel 9, vijfde lid.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Een partij kan tot acht weken na de dagtekening van het advies de Commissie verzoeken een kennelijke rekenfout, schrijffout of andere fout die zich voor eenvoudig herstel leent in het advies te verbeteren.
 
 2. Als de Commissie het advies verbetert, dan wordt dit in een apart stuk vermeld. Het stuk wordt zo spoedig mogelijk aan partijen gezonden.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Indien de Commissie in zijn advies heeft geoordeeld dat de mijnbouwonderneming een schadebedrag moet vergoeden aan de schademelder, zendt de Commissie aan de schademelder tevens een instemmingsformulier.
 
@@ -526,7 +552,7 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Eerste afdeling – algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit protocol wordt verstaan onder:
 
@@ -546,13 +572,13 @@ In dit protocol wordt verstaan onder:
 
 - –. **zoutcaverne op land:** zoutcaverne gelegen binnen de Nederlandse gemeente- en provinciegrenzen.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit protocol is van toepassing op de behandeling van schademeldingen als gevolg van bodembeweging door de exploitatie van een mijnbouwwerk ten behoeve van de opslag van stoffen in een zoutcaverne op land.
 
 ### Tweede afdeling – procedure
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een schademelding wordt ingediend bij de Commissie Mijnbouwschade met behulp van een door de Commissie vastgesteld formulier.
 
@@ -592,7 +618,7 @@ Dit protocol is van toepassing op de behandeling van schademeldingen als gevolg 
 
 - q. een verklaring dat het schademeldingsformulier naar waarheid is ingevuld.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De Commissie bevestigt de ontvangst van de schademelding zo spoedig mogelijk, doch uiterlijk binnen een week na de ontvangst ervan.
 
@@ -606,7 +632,7 @@ Dit protocol is van toepassing op de behandeling van schademeldingen als gevolg 
 
 - b. niet met de mijnbouwonderneming tot overeenstemming te zijn gekomen over de afhandeling van de schademelding wordt de schade waar de melding betrekking op heeft niet aangemerkt als schade als bedoeld in [artikel 2, vierde lid, onderdeel c, van het Instellingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043624&hoofdstuk=II&artikel=2&z=2025-10-17&g=2025-10-17).
 
-#### Artikel 5
+##### Artikel 5
 
 1. Indien:
 
@@ -626,7 +652,7 @@ informeert de Commissie de schademelder en de mijnbouwonderneming zo spoedig mog
 
 5. De Commissie stelt de mijnbouwonderneming in de gelegenheid om binnen een door de Commissie te stellen redelijke termijn gegevens en stukken aan te leveren die naar het oordeel van de mijnbouwonderneming nodig zijn om een advies uit te brengen naar aanleiding van de schademelding.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De Commissie wijst naar aanleiding van een schademelding één of meerdere deskundigen aan om, binnen een daartoe door de Commissie gestelde termijn van ten hoogste zes maanden na ontvangst van de schademelding, een deskundigenrapport uit te brengen in het licht van het door de Commissie op te stellen advies, waarbij het onderzoek zal worden verricht op basis van een in de branche gangbare, algemeen erkende beoordelingsmethodiek voor schadevaststelling. De Commissie streeft ernaar dat de opname door de deskundige zo spoedig mogelijk maar uiterlijk binnen drie maanden na aanwijzing van de deskundige plaatsvindt.
 
@@ -656,7 +682,7 @@ informeert de Commissie de schademelder en de mijnbouwonderneming zo spoedig mog
 
 9. Indien het voor het uitbrengen van een rapport noodzakelijk is dat meer of andere deskundigen worden benoemd om onderzoek te doen, kan de deskundige de Commissie daarom verzoeken of kan de Commissie uit eigen beweging besluiten om een aanvullend rapport te vragen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De Commissie stelt een conceptadvies als bedoeld in artikel 9, eerste lid, vast zonder een deskundige als bedoeld in artikel 6, eerste lid, aan te wijzen, indien uit een eerste inhoudelijke beoordeling van de schademelding blijkt dat de schademelding:
 
@@ -670,11 +696,11 @@ informeert de Commissie de schademelder en de mijnbouwonderneming zo spoedig mog
 
 3. De Commissie kan, indien bijzondere omstandigheden daartoe aanleiding geven, afwijken van het eerste lid ten einde onbillijkheden van overwegende aard te voorkomen.
 
-#### Artikel 8
+##### Artikel 8
 
 Indien na een geïnduceerde beving in een gebied in korte tijd een groter aantal schademeldingen wordt ontvangen door de Commissie, kan de Commissie in overleg met de vertegenwoordigers van de betrokken regionale overheden, in het belang van een voortvarende schadebehandeling met de betrokken mijnbouwonderneming overeenkomen dat de Commissie voor bepaalde categorieën schademeldingen binnen een door de Commissie vastgesteld toepassingsgebied een causaal verband aanneemt en zonder een deskundigenonderzoek ter plaatse een conceptadvies als bedoeld in artikel 9, eerste lid, vaststelt.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De Commissie stelt binnen vier weken nadat de deskundige zijn rapport heeft uitgebracht zijn conceptadvies op.
 
@@ -692,7 +718,7 @@ Indien na een geïnduceerde beving in een gebied in korte tijd een groter aantal
 
 8. De Commissie geeft uitvoering aan het in het vijfde lid bedoelde oordeel.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De Commissie stelt binnen twee weken na ommekomst van de zienswijze termijn, bedoeld in artikel 9, tweede of vierde lid, of indien van toepassing na ontvangst van het oordeel bedoeld in artikel 9, vijfde lid, een advies als bedoeld in [artikel 2, tweede lid, van het Instellingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043624&hoofdstuk=II&artikel=2&z=2025-10-17&g=2025-10-17) vast.
 
@@ -718,13 +744,13 @@ Indien na een geïnduceerde beving in een gebied in korte tijd een groter aantal
 
 - i. indien van toepassing, het oordeel bedoeld in artikel 9, vijfde lid.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Een partij kan tot acht weken na de dagtekening van het advies de Commissie verzoeken een kennelijke rekenfout, schrijffout of andere fout die zich voor eenvoudig herstel leent in het advies te verbeteren.
 
 2. Als de Commissie het advies verbetert, dan wordt dit in een apart stuk vermeld. Het stuk wordt zo spoedig mogelijk aan partijen gezonden.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Indien de Commissie in zijn advies heeft geoordeeld dat de mijnbouwonderneming een schadebedrag moet vergoeden aan de schademelder, zendt de Commissie aan de schademelder tevens een instemmingsformulier.
 
@@ -772,7 +798,7 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Eerste afdeling – algemeen
 
-#### Artikel 1. definities
+##### Artikel 1. definities
 
 In dit protocol wordt verstaan onder:
 
@@ -790,13 +816,13 @@ In dit protocol wordt verstaan onder:
 
 - –. **woning:** woning als bedoeld in [artikel 1, van het Besluit tegemoetkoming particuliere woningeigenaren mijnbouwschade steenkoolwinning Limburg](https://wetten.overheid.nl/jci1.3:c:BWBR0051623&artikel=1).
 
-#### Artikel 2. reikwijdte
+##### Artikel 2. reikwijdte
 
 Dit protocol is van toepassing op de behandeling van adviesvragen met betrekking tot aanvragen om een voorziening als bedoeld in [artikel 2, eerste lid, van Besluit tegemoetkoming particuliere woningeigenaren mijnbouwschade steenkoolwinning Limburg](https://wetten.overheid.nl/jci1.3:c:BWBR0051623&artikel=2).
 
 ### Tweede afdeling – procedure
 
-#### Artikel 3. eerste reactie op de adviesvraag
+##### Artikel 3. eerste reactie op de adviesvraag
 
 1. De Commissie informeert de aanvrager zo spoedig mogelijk over de te volgen procedure. Tevens geeft de Commissie de aanvrager informatie over de zaakbegeleider.
 
@@ -804,7 +830,7 @@ Dit protocol is van toepassing op de behandeling van adviesvragen met betrekking
 
 3. De Commissie kan de aanvrager in de gelegenheid stellen om een mondelinge toelichting te geven op zijn aanvraag.
 
-#### Artikel 4. onderzoek ten behoeve van advisering
+##### Artikel 4. onderzoek ten behoeve van advisering
 
 1. Ten behoeve van haar advisering:
 
@@ -840,7 +866,7 @@ Dit protocol is van toepassing op de behandeling van adviesvragen met betrekking
 
 9. Indien het voor het uitbrengen van een rapport noodzakelijk is dat meer of andere inspecteurs worden benoemd om onderzoek te doen, kan de inspecteur de Commissie daarom verzoeken of kan de Commissie uit eigen beweging besluiten om een aanvullend rapport te vragen.
 
-#### Artikel 5. beoordeling zonder deskundigenonderzoeken
+##### Artikel 5. beoordeling zonder deskundigenonderzoeken
 
 1. De Commissie stelt in ieder geval een conceptadvies als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043624&hoofdstuk=III&artikel=7&z=2025-10-17&g=2025-10-17), vast zonder eerste opname, kostencalculatie en inspectie als bedoeld in [artikel 4, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0043624&hoofdstuk=II&artikel=4&z=2025-10-17&g=2025-10-17), indien uit een eerste inhoudelijke beoordeling als bedoeld in artikel 4, eerste lid, onderdeel a blijkt dat de adviesvraag geen mijnbouwschade als bedoeld in [artikel 1 van het Besluit tegemoetkoming particuliere woningeigenaren mijnbouwschade steenkoolwinning Limburg](https://wetten.overheid.nl/jci1.3:c:BWBR0051623&artikel=1) betreft.
 
@@ -854,11 +880,11 @@ Dit protocol is van toepassing op de behandeling van adviesvragen met betrekking
 
 4. De Commissie kan, indien bijzondere omstandigheden daartoe aanleiding geven, afwijken van het eerste en het tweede lid.
 
-#### Artikel 6. procedure in geval van acuut onveilige situatie
+##### Artikel 6. procedure in geval van acuut onveilige situatie
 
 Indien de Commissie vermoedt dat er sprake is van een acuut onveilige situatie, als bedoeld in [artikel 1 van het Besluit tegemoetkoming particuliere woningeigenaren mijnbouwschade steenkoolwinning Limburg](https://wetten.overheid.nl/jci1.3:c:BWBR0051623&artikel=1), dan meldt de Commissie dit onverwijld aan het college van burgemeester en wethouders van de gemeente waarin de woning zich bevindt.
 
-#### Artikel 7. zienswijze
+##### Artikel 7. zienswijze
 
 1. De Commissie stelt zijn conceptadvies op binnen 6 weken:
 
@@ -872,7 +898,7 @@ Indien de Commissie vermoedt dat er sprake is van een acuut onveilige situatie, 
 
 3. De termijn, bedoeld in het tweede lid, kan op verzoek van de aanvrager één keer met een door de Commissie vast te stellen termijn worden verlengd.
 
-#### Artikel 8. advies Commissie
+##### Artikel 8. advies Commissie
 
 1. De Commissie stelt binnen vier weken na ommekomst van de zienswijzetermijn, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043624&hoofdstuk=III&artikel=7&z=2025-10-17&g=2025-10-17), een advies vast, als bedoeld in [artikel 2, derde lid, van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043624&hoofdstuk=II&artikel=2&z=2025-10-17&g=2025-10-17).
 
@@ -904,7 +930,7 @@ Indien de Commissie vermoedt dat er sprake is van een acuut onveilige situatie, 
 
 - k. indien van toepassing, de zienswijze of zienswijzen bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043624&hoofdstuk=III&artikel=7&z=2025-10-17&g=2025-10-17).
 
-#### Artikel 9. verbetering van het advies
+##### Artikel 9. verbetering van het advies
 
 1. Een partij kan tot acht weken na de dagtekening van het advies de Commissie verzoeken een kennelijke rekenfout, schrijffout of andere fout die zich voor eenvoudig herstel leent in het advies te verbeteren.
 

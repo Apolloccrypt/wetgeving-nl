@@ -1,13 +1,39 @@
 ---
-title: "Toegangsbeperkingsbesluit Middelplaat en Slikken van Voorne"
+title: "Besluit van de Staatssecretaris van Economische Zaken van 25 oktober 2016, kenmerk 16150943, tot wijziging van de (beperking in) toegankelijkheid van enkele gebiedsdelen ex artikel 20 Natuurbeschermingswet 1998, gelegen binnen het Natura 2000 gebied ‘Voordelta’ (Toegangsbeperkingsbesluit Middelplaat en Slikken van Voorne)"
 identifier: "BWBR0038670"
-categorie: "Overig"
-publicatiedatum: 2016-11-01
-laatste_update: 2016-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038670"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2016-11-01"
+last_updated: "2016-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038670"
+soort: "ministeriele-regeling"
+stam_id: "13782103"
+version_id: "23634092"
+internal_id: "C34024491"
+label_id: "13748284"
+dtd_version: "2.0"
+original_entry_into_force: "2016-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038670/2016-11-01/0"
+intitule_bron: "Stcrt.2016-57773"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-10-25"
+intitule_published: "2016-10-31"
+intitule_in_force: "2016-10-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-57773"
+original_signed_date: "2016-10-25"
+original_published_date: "2016-10-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-57773"
+entry_into_force_date: "2016-11-01"
+jci_1_3: "jci1.3:c:BWBR0038670&z=2016-11-01&g=2016-11-01"
+jci_1_0: "1.0:c:BWBR0038670&g=2016-11-01"
+citeertitel_status: "redactioneel"
+short_title: "Toegangsbeperkingsbesluit Middelplaat en Slikken van Voorne"
+signed_date: "2016-10-25"
+entry_into_force: "2016-11-01"
 ---
-
 # Besluit van de Staatssecretaris van Economische Zaken van 25 oktober 2016, kenmerk 16150943, tot wijziging van de (beperking in) toegankelijkheid van enkele gebiedsdelen ex artikel 20 Natuurbeschermingswet 1998, gelegen binnen het Natura 2000 gebied ‘Voordelta’ (Toegangsbeperkingsbesluit Middelplaat en Slikken van Voorne)
 
 Handelende in overeenstemming met de minister van Infrastructuur en Milieu;
@@ -16,7 +42,7 @@ Gelet op [artikel 20, eerste en tweede lid, van de Natuurbeschermingswet 1998](h
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Voor het binnen het Natura 2000 gebied ‘Voordelta’ gelegen winterrustgebied ‘Middelplaat’ als aangegeven op de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038670&artikel=3&z=2016-11-01&g=2016-11-01) genoemde kaart, wordt de toegankelijkheid beperkt, in die zin dat het verboden is activiteiten te verrichten in de periode van 1 november tot 1 april in het winterrustgebied, met uitzondering van de hierna genoemde activiteiten.
 
@@ -30,7 +56,7 @@ Besluit:
 
 - e). **Onderhoud kabels en leidingen** Onderhoudswerkzaamheden aan kabels en leidingen is binnen de verboden periode alleen toegestaan bij dringende noodzaak, zulks ter beoordeling vooraf van het bevoegd gezag en onder eventueel nader voorgeschreven bepalingen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. In artikel 2 van het besluit van 9 juni 2008 geldt een toegangsbeperking voor het rustgebied ‘Slikken van Voorne’ als aangegeven op de in lid 1 van dat artikel genoemde kaart. Op grond van [artikel 20, lid 4, van de Nb-wet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009641&artikel=20) geldt de toegangsbeperking niet voor de in het voornoemde besluit van 2008 daar genoemde uitzonderingen en, additioneel daarop, voor de navolgende uitzonderingen:
 
@@ -48,7 +74,7 @@ Besluit:
 
 - d). **Visserij met zegen** Visserij met zegen is toegestaan gedurende het gehele jaar voor het vaartuig Tholen 17, met inachtneming van een maximum vaarsnelheid van 7 knopen (13 km/h). De uitzondering om te vissen met zegen voor het vaartuig Tholen 5 vervalt hierbij.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De gebieden waarvan de toegankelijkheid door middel van dit besluit wordt beperkt zijn aangegeven op de bij dit besluit behorende kaart ‘Wijzigingsbesluit Middelplaat en Slikken van Voorne’ en de kaarten per rustgebied, alsmede de bij deze kaart behorende bijlage met omsluitende coördinaten.
 

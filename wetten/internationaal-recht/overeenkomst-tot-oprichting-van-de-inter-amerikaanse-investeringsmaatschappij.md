@@ -1,18 +1,43 @@
 ---
 title: "Overeenkomst tot oprichting van de Inter-Amerikaanse Investeringsmaatschappij"
 identifier: "BWBV0002298"
-categorie: "Internationaal recht"
-publicatiedatum: 2024-10-01
-laatste_update: 2024-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002298"
+country: "nl"
+rank: "verdrag"
+publication_date: "2024-10-01"
+last_updated: "2024-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002298"
+soort: "verdrag"
+stam_id: "10002763133"
+version_id: "10002762372"
+internal_id: "C10006978381"
+label_id: "10002750944"
+dtd_version: "2.0"
+original_entry_into_force: "1987-03-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002298/2024-10-01/0"
+intitule_bron: "Trb.1985-67"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1987-03-12"
+intitule_published: "1985-05-03"
+intitule_in_force: "1987-07-24"
+intitule_status: "goed"
+original_publication: "Trb.1985-67"
+original_signed_date: "1987-03-12"
+original_published_date: "1985-05-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1985-67"
+entry_into_force_date: "1987-03-12"
+jci_1_3: "jci1.3:c:BWBV0002298&z=2024-10-01&g=2024-10-01"
+jci_1_0: "1.0:c:BWBV0002298&g=2024-10-01"
+citeertitel_status: "officieel"
+signed_date: "1987-03-12"
+entry_into_force: "1987-03-12"
 ---
-
 # Overeenkomst tot oprichting van de Inter-Amerikaanse Investeringsmaatschappij
 
 De landen namens welke deze Overeenkomst is ondertekend, komen overeen de Inter-Amerikaanse Investeringsmaatschappij op te richten, waarop de volgende bepalingen van toepassing zijn:
 
-#### Artikel I. Doel en taken
+##### Artikel I. Doel en taken
 
 Het doel van de Maatschappij is de economische ontwikkeling te bevorderen van haar in ontwikkeling zijnde regionale lid-landen door de oprichting, uitbreiding en modernisering aan te moedigen van particuliere ondernemingen, bij voorkeur de kleine en middelgrote, zodat de werkzaamheden van de Inter-Amerikaanse Ontwikkelingsbank (hierna te noemen „de Bank”) worden aangevuld.
 
@@ -32,7 +57,7 @@ Voor de verwezenlijking van haar doel verricht de Maatschappij de volgende taken
 
 De werkzaamheden van de Maatschappij worden verricht overeenkomstig de beleidslijnen voor de exploitatie, financiering en investeringen die uitvoerig zijn omschreven in de door de Raad van Bewindvoerders van de Maatschappij goedgekeurde voorschriften, welke voorschriften door deze Raad kunnen worden gewijzigd.
 
-#### Artikel II. Leden en kapitaal
+##### Artikel II. Leden en kapitaal
 
 - (a). De leden die de Maatschappij hebben opgericht zijn die lid-landen van de Bank die deze Overeenkomst op de in artikel XI, afdeling l(a) aangegeven datum hebben ondertekend en de aanvankelijke betaling vereist in afdeling 3(b) van dit artikel hebben verricht.
 
@@ -82,7 +107,7 @@ In geval van een verhoging van het kapitaal overeenkomstig afdeling 2(c) en (d) 
 
 De aansprakelijkheid van de leden ten aanzien van de aandelen waarop zij hebben ingeschreven is beperkt tot het niet volgestorte deel van de uitgifteprijs. Een lid is niet, op grond van zijn lidmaatschap, aansprakelijk voor verplichtingen van de Maatschappij.
 
-#### Artikel III. Werkzaamheden
+##### Artikel III. Werkzaamheden
 
 Ter verwezenlijking van haar doeleinden is de Maatschappij bevoegd:
 
@@ -160,7 +185,7 @@ De Maatschappij is tevens bevoegd:
 
 De Maatschappij en haar leidinggevend personeel dienen zich niet in de politieke aangelegenheden van een lid te mengen, noch zich bij hun beslissingen door het politieke karakter van het betrokken lid of de betrokken leden te laten beïnvloeden. Bij het nemen van haar beslissingen mag de Maatschappij zich uitsluitend door economische overwegingen laten leiden en deze overwegingen worden onpartijdig tegen elkaar afgewogen ten einde de in deze Overeenkomst omschreven doelstellingen te verwezenlijken.
 
-#### Artikel IV. Organisatie en bestuur
+##### Artikel IV. Organisatie en bestuur
 
 De Maatschappij heeft een Raad van Bestuur, een Raad van Bewindvoerders, een Voorzitter van de Raad van Bewindvoerders, een Algemeen Beheerder en het leidinggevende en andere personeel dat de Raad van Bewindvoerders van de Maatschappij nodig oordeelt.
 
@@ -282,7 +307,7 @@ De Raad van Bewindvoerders stelt de hoofdlijnen voor de organisatie van de Maats
 
 - (c). De dividenden worden betaald op de wijze en in de valuta of valuta's door de Maatschappij bepaald.
 
-#### Artikel V. Opzegging en schorsing van leden
+##### Artikel V. Opzegging en schorsing van leden
 
 - (a). Ieder lid kan uit de Maatschappij treden door middel van een aan het hoofdkantoor van de Maatschappij gerichte schriftelijke kennisgeving van zijn voornemen daartoe. Een zodanige uittreding gaat in op de in de kennisgeving vermelde datum, doch in geen geval eerder dan zes maanden na de datum waarop de kennisgeving door de Maatschappij werd ontvangen. Het lid kan, te allen tijde voordat de uittreding ingaat, door middel van een schriftelijke kennisgeving aan de Maatschappij, afzien van zijn voornemen tot uittreding.
 
@@ -302,7 +327,7 @@ De Raad van Bewindvoerders stelt de hoofdlijnen voor de organisatie van de Maats
 
 - (d). Er mag geen bedrag dat krachtens deze afdeling aan een voormalig lid voor zijn aandelen verschuldigd is, worden betaald tot één maand na het tijdstip waarop dit lid ophoudt tot de instelling te behoren. Indien de Maatschappij binnen dat tijdvak de werkzaamheden staakt, worden de rechten van dat lid vastgesteld volgens de bepalingen van artikel VI en wordt zulk een lid ter zake van dat artikel als lid van de Maatschappij beschouwd, doch heeft het geen stemrecht.
 
-#### Artikel VI. Staking en beëindiging der werkzaamheden
+##### Artikel VI. Staking en beëindiging der werkzaamheden
 
 In geval van onvoorziene omstandigheden kan de Raad van Bewindvoerders de werkzaamheden ten aanzien van nieuwe investeringen, leningen en garanties opschorten, tot het tijdstip waarop de Raad van Bestuur in de gelegenheid is de situatie te onderzoeken en maatregelen ter zake te nemen.
 
@@ -320,7 +345,7 @@ In geval van onvoorziene omstandigheden kan de Raad van Bewindvoerders de werkza
 
 - (c). Elk lid dat activa ontvangt die ingevolge dit artikel zijn verdeeld, geniet ten aanzien van deze activa dezelfde rechten als de Maatschappij vóór de verdeling daarvan genoot.
 
-#### Artikel VII. Rechtspersoonlijkheid, immuniteiten, vrijstellingen en voorrechten
+##### Artikel VII. Rechtspersoonlijkheid, immuniteiten, vrijstellingen en voorrechten
 
 Ten einde de Maatschappij in staat te stellen haar doeleinden te bereiken en de haar opgedragen taken te vervullen, worden op het grondgebied van elk lid-land aan de Maatschappij de in dit artikel vermelde rechtspositie, immuniteiten, vrijstellingen en voorrechten toegekend.
 
@@ -372,7 +397,7 @@ Ieder lid-land neemt overeenkomstig zijn wetgeving de nodige maatregelen om op z
 
 De Maatschappij kan naar eigen goeddunken afstand doen van elk der voorrechten of immuniteiten die krachtens dit artikel zijn toegekend, voor zover en op de voorwaarden door haar te bepalen.
 
-#### Artikel VIII. Wijzigingen
+##### Artikel VIII. Wijzigingen
 
 Artikel 1. **Wijzigingen**
 
@@ -388,7 +413,7 @@ Artikel 1. **Wijzigingen**
 
 - (c). Ieder voorstel deze Overeenkomst te wijzigen, afkomstig hetzij van een lid-land hetzij van de Raad van Bewindvoerders, wordt ingediend bij de Voorzitter van de Raad van Bestuur, die het voorstel aan de Raad van Bestuur voorlegt. Indien een wijziging is aangenomen, legt de Maatschappij de aanvaarding in een officiële mededeling aan alle leden vast. Wijzigingen worden voor alle leden drie maanden na de datum van de officiële mededeling van kracht, tenzij de Raad van Bestuur daarvoor een andere periode vaststelt.
 
-#### Artikel IX. Interpretatie en arbitrage
+##### Artikel IX. Interpretatie en arbitrage
 
 - (a). Meningsverschillen omtrent de interpretatie van de bepalingen van deze Overeenkomst die rijzen tussen een lid en de Maatschappij of tussen leden onderling, worden ter beslissing voorgelegd aan de Raad n Bewindvoerders. Leden die in bijzondere mate bij het desbetreffende meningsverschil zijn betrokken, zijn gerechtigd zich gedurende de ndeling in de Raad van Bewindvoerders te doen vertegenwoordigen als bepaald in artikel IV, afdeling 4, letter (l).
 
@@ -396,7 +421,7 @@ Artikel 1. **Wijzigingen**
 
 Wanneer er onenigheid ontstaat tussen de Maatschappij en een lid dat heeft opgehouden lid te zijn, of tussen de Maatschappij en een lid, nadat is beslist dat de werkzaamheden van de instelling zullen worden beëindigd, wordt zulk een onenigheid onderworpen aan arbitrage door een tribunaal van drie scheidsmannen. Een der scheidsmannen wordt door de Maatschappij benoemd, een andere door het betrokken lid en de derde, tenzij de partijen anders beslissen, door de President van het Internationale Gerechtshof. Indien alle pogingen om unanieme overeenstemming te bereiken, falen, worden de beslissingen genomen met een meerderheid van de drie scheidsmannen. De derde scheidsman is gemachtigd alle vragen betreffende de procedure te regelen, waaromtrent verschil van mening bij de partijen bestaat.
 
-#### Artikel X. Algemene bepalingen
+##### Artikel X. Algemene bepalingen
 
 De zetel van de Maatschappij is gevestigd op dezelfde plaats als de zetel van de Bank. De Raad van Bewindvoerders van de Maatschappij kan, met een meerderheid die ten minste twee derde van de stemmen van de leden vertegenwoordigt, andere kantoren vestigen op de grondgebieden van lid-landen.
 
@@ -404,7 +429,7 @@ De Maatschappij kan regelingen treffen met andere organisaties ten aanzien van d
 
 Ieder lid wijst een officieel lichaam aan dat met de Maatschappij het contact onderhoudt over zaken die verband houden met deze Overeenkomst.
 
-#### Artikel XI. Slotbepalingen
+##### Artikel XI. Slotbepalingen
 
 - (a). Deze Overeenkomst wordt nedergelegd bij de Bank, waar zij tot 31 december 1985 of tot een door de Raad van Bewindvoerders van de Maatschappij te bepalen latere datum openstaat voor ondertekening door de vertegenwoordigers van de in Bijlage A vermelde landen. Ingeval deze Overeenkomst niet in werking is getreden, kan door de vertegenwoordigers van de landen die de Slotakte van de onderhandelingen inzake de oprichting van de Inter-Amerikaanse Investeringsmaatschappij hebben ondertekend een latere datum worden vastgesteld. Iedere ondertekenaar van deze Overeenkomst legt bij de Bank een akte neder, waarin wordt verklaard dat hij deze Overeenkomst heeft aanvaard of bekrachtigd in overeenstemming met zijn eigen wetten en dat hij de nodige stappen heeft ondernomen om al zijn verplichtingen ingevolge deze Overeenkomst na te kunnen komen.
 

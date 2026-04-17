@@ -1,13 +1,38 @@
 ---
 title: "Verzamelbesluit dividendbelasting 2025"
 identifier: "BWBR0051629"
-categorie: "Belastingrecht"
-publicatiedatum: 2025-10-18
-laatste_update: 2025-10-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051629"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2025-10-18"
+last_updated: "2025-10-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051629"
+soort: "beleidsregel"
+stam_id: "17555963"
+version_id: "30978992"
+internal_id: "C44366171"
+label_id: "17457744"
+dtd_version: "2.0"
+original_entry_into_force: "2025-10-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051629/2025-10-18/0"
+intitule_bron: "Stcrt.2025-34752"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-10-07"
+intitule_published: "2025-10-17"
+intitule_in_force: "2025-10-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-34752"
+original_signed_date: "2025-10-07"
+original_published_date: "2025-10-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-34752"
+entry_into_force_date: "2025-10-18"
+jci_1_3: "jci1.3:c:BWBR0051629&z=2025-10-18&g=2025-10-18"
+jci_1_0: "1.0:c:BWBR0051629&g=2025-10-18"
+citeertitel_status: "officieel"
+signed_date: "2025-10-07"
+entry_into_force: "2025-10-18"
 ---
-
 # Verzamelbesluit dividendbelasting 2025
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

@@ -1,13 +1,38 @@
 ---
 title: "Kaderverdrag inzake een multilateraal nucleair milieuprogramma in de Russische Federatie"
 identifier: "BWBV0001589"
-categorie: "Milieu"
-publicatiedatum: 2005-03-04
-laatste_update: 2003-05-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001589"
+country: "nl"
+rank: "verdrag"
+publication_date: "2005-03-04"
+last_updated: "2003-05-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001589"
+soort: "verdrag"
+stam_id: "10001467363"
+version_id: "10001545572"
+internal_id: "C10006993691"
+label_id: "10001467594"
+dtd_version: "2.0"
+original_entry_into_force: "2005-03-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001589/2005-03-04/0"
+intitule_bron: "Trb.2003-110"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-05-21"
+intitule_published: "2003-08-01"
+intitule_in_force: "2005-09-26"
+intitule_status: "goed"
+original_publication: "Trb.2003-110"
+original_signed_date: "2003-05-21"
+original_published_date: "2003-08-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2003-110"
+entry_into_force_date: "2005-03-04"
+jci_1_3: "jci1.3:c:BWBV0001589&z=2005-03-04&g=2005-03-04"
+jci_1_0: "1.0:c:BWBV0001589&g=2005-03-04"
+citeertitel_status: "redactioneel"
+signed_date: "2003-05-21"
+entry_into_force: "2005-03-04"
 ---
-
 # Kaderverdrag inzake een multilateraal nucleair milieuprogramma in de Russische Federatie
 
 De Regering van het Koninkrijk België, de Regering van het Koninkrijk Denemarken, de Regering van de Republiek Finland, de Regering van de Franse Republiek, de Regering van de Bondsrepubliek Duitsland, de Regering van het Koninkrijk der Nederlanden, de Regering van het Koninkrijk Noorwegen, de Regering van de Russische Federatie, de Regering van het Koninkrijk Zweden, de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, de Regering van de Verenigde Staten van Amerika, de Europese Gemeenschap en de Europese Gemeenschap voor Atoomenergie (hierna te noemen de „Partijen"),
@@ -30,17 +55,17 @@ In herinnering roepend de beginselverklaring van de leden en waarnemers van de R
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Multilateraal nucleair milieuprogramma in de Russische Federatie (MNEPR)
+##### Artikel 1. Multilateraal nucleair milieuprogramma in de Russische Federatie (MNEPR)
 
 1. De Partijen zetten bij dezen een kader op teneinde de samenwerking op het gebied van de veiligheid van het beheer van bestraalde splijtstof en radioactief afval in de Russische Federatie te vergemakkelijken. Dit kader wordt aangeduid als het multilateraal nucleair milieuprogramma in de Russische Federatie (MNEPR). Het MNEPR is van toepassing op projecten aangegaan tussen de Donoren en Ontvangers of elke andere samenwerkingsvorm die zij zijn overeengekomen. Het kan tevens van toepassing zijn op projecten of elke andere samenwerkingsvorm op andere terreinen van nucleaire activiteiten, met inbegrip van nucleaire veiligheid, indien zulks is overeengekomen door de betrokken Partijen.
 
 2. De Partijen trachten bij de bijstandsactiviteiten dubbel werk te voorkomen en zien erop toe dat deze de activiteiten uit hoofde van andere multilaterale of bilaterale fondsen, overeenkomsten, mechanismen of regelingen aanvullen.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag wordt verstaan onder de volgende termen:
 
-#### Artikel 3. Samenwerkingsvormen uit hoofde van het MNEPR
+##### Artikel 3. Samenwerkingsvormen uit hoofde van het MNEPR
 
 1. Bijstand uit hoofde van het MNEPR kan worden verleend door middel van:
 
@@ -56,7 +81,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder de volgende termen:
 
 3. De verlening van bijstand door de Donoren uit hoofde van dit Verdrag is afhankelijk van de beschikbaarheid van de daarvoor bestemde fondsen.
 
-#### Artikel 4. MNEPR-comité
+##### Artikel 4. MNEPR-comité
 
 1. Teneinde de samenwerking te vergemakkelijken en informatie uit hoofde van het MNEPR uit te wisselen richten Partijen bij dezen het MNEPR-comité op. Het MNEPR-comité bestaat uit één erkende officiële/regeringsvertegenwoordiger van elke Partij, die ook zal fungeren als contactpersoon voor alle kwesties die van belang zijn voor het MNEPR.
 
@@ -84,13 +109,13 @@ Voor de toepassing van dit Verdrag wordt verstaan onder de volgende termen:
 
 6. Het MNEPR-comité neemt besluiten en doet aanbevelingen bij consensus.
 
-#### Artikel 5. Coördinator van multilaterale financiering uit hoofde van het MNEPR
+##### Artikel 5. Coördinator van multilaterale financiering uit hoofde van het MNEPR
 
 1. De Donorpartijen bij een gemeenschappelijke financieringsregeling, als bedoeld in artikel 3, eerste lid, onderdeel c, kunnen daar een coördinator voor aanwijzen.
 
 2. De coördinator heeft dezelfde rechten en verplichtingen als de Donorpartijen uit hoofde van dit Verdrag, indien hij namens de Donoren activiteiten verricht.
 
-#### Artikel 6. Specifieke toezeggingen
+##### Artikel 6. Specifieke toezeggingen
 
 1. Partijen bevorderen de activiteiten die nodig zijn voor de uitvoering van projecten uit hoofde van het MNEPR.
 
@@ -98,7 +123,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder de volgende termen:
 
 3. De verlening van bijstand wordt aangevuld met Russische middelen. Deze middelen kunnen in natura of anderszins worden verschaft voor de uitvoering van projecten uit hoofde van het MNEPR.
 
-#### Artikel 7. Vorderingen, gerechtelijke procedures en vrijwaring
+##### Artikel 7. Vorderingen, gerechtelijke procedures en vrijwaring
 
 1. Dit Verdrag wordt aangevuld door een Protocol dat bepalingen bevat inzake vorderingen, gerechtelijke procedures en vrijwaring terzake van vorderingen tegen Donoren en hun medewerkers of tegen aannemers, onderaannemers, adviseurs, leveranciers of toeleveranciers van uitrusting, goederen en diensten op elk niveau en hun medewerkers wegens verlies dat of schade die, van welke aard ook, voortvloeit uit activiteiten verricht uit hoofde van dit Verdrag.
 
@@ -106,13 +131,13 @@ Voor de toepassing van dit Verdrag wordt verstaan onder de volgende termen:
 
 3. Een Partij die niet toetreedt tot het Protocol kan met de Russische Partij een afzonderlijk verdrag sluiten inzake vorderingen, gerechtelijke procedures en vrijwaring ter zake van vorderingen wegens verlies dat of schade die, van welke aard ook, voortvloeit uit activiteiten verricht uit hoofde van dit Verdrag.
 
-#### Artikel 8. Gebruik en heroverdracht van bijstand
+##### Artikel 8. Gebruik en heroverdracht van bijstand
 
 1. Tenzij voorafgaand schriftelijke toestemming is verkregen van de Donor, draagt de Ontvanger het eigendomsrecht op of het bezit van uit hoofde van dit Verdrag verleende bijstand niet over aan een entiteit, anders dan een functionaris, medewerker of agent van die Donor of die Ontvanger, en staat hij niet toe dat de bijstand wordt gebruikt voor andere doeleinden dan waarvoor deze is verleend.
 
 2. De Russische Partij neemt alle redelijke maatregelen die binnen haar macht liggen teneinde de veiligheid en het passend gebruik van de uit hoofde van dit Verdrag verleende bijstand te waarborgen en te voorkomen dat deze zonder toestemming wordt overgedragen.
 
-#### Artikel 9. Vrijstelling van belastingen of soortgelijke heffingen
+##### Artikel 9. Vrijstelling van belastingen of soortgelijke heffingen
 
 1. De Russische Partij stelt uit hoofde van dit Verdrag verleende bijstand vrij van douaneheffingen, winstbelastingen, andere belastingen en soortgelijke heffingen. De Russische Partij neemt alle nodige maatregelen om te waarborgen dat geen lokale of regionale belastingen worden geheven over uit hoofde van dit Verdrag verleende bijstand. Deze maatregelen omvatten de verstrekking van brieven van bevoegde lokale en/of regionale autoriteiten waarin wordt bevestigd dat er geen belastingen worden geheven over uit hoofde van dit Verdrag verleende bijstand. Voorafgaand aan de uitvoering van de projecten worden deze bevestigingen inzake de lokaliteiten en regio's waar de projecten uit hoofde van dit Verdrag zullen worden uitgevoerd gedeponeerd bij ten minste een van de Depositarissen.
 
@@ -126,17 +151,17 @@ Voor de toepassing van dit Verdrag wordt verstaan onder de volgende termen:
 
 6. De Russische Partij is verantwoordelijk voor procedures ter waarborging van de uitvoering van dit artikel. De nodige documenten worden afgegeven door de desbetreffende bevoegde autoriteit.
 
-#### Artikel 10. Boekhouding, accountantscontrole en inspectie
+##### Artikel 10. Boekhouding, accountantscontrole en inspectie
 
 1. Elke Ontvanger voert een deugdelijke boekhouding van alle bijstandsfondsen die worden ontvangen van Donoren en verstrekt deze, tezamen met alle ondersteunende documentatie, op gezette tijden aan de betrokken Donor of Donoren, zoals omschreven in de desbetreffende Uitvoeringsovereenkomst of zoals anderszins overeengekomen.
 
 2. Op verzoek hebben vertegenwoordigers van een Donor het recht binnen zestig dagen na de indiening van het verzoek het gebruik van de door die Donor verschafte bijstand in overeenstemming met dit Verdrag te inspecteren, indien mogelijk op de plaats waar deze zich bevindt of gebruikt wordt, en hebben zij gedurende een termijn van zeven jaar na de afronding of voortijdige beëindiging van het desbetreffende project het recht alle aanverwante stukken en documentatie te controleren, tenzij in de Uitvoeringsovereenkomst een andere termijn is vastgesteld. De praktische aspecten van dergelijke controles en inspecties worden vastgelegd in de Uitvoeringsovereenkomsten.
 
-#### Artikel 11. Intellectueel eigendom
+##### Artikel 11. Intellectueel eigendom
 
 De Partijen regelen in de Uitvoeringsovereenkomsten wanneer nodig de doeltreffende bescherming en toewijzing van intellectuele eigendomsrechten die uit hoofde van dit Verdrag worden overgedragen of gecreëerd.
 
-#### Artikel 12. Rechtspositie, binnenkomst en vertrek van medewerkers
+##### Artikel 12. Rechtspositie, binnenkomst en vertrek van medewerkers
 
 1. De Russische Partij vergemakkelijkt de binnenkomst en het vertrek van functionarissen van de Donoren die partij zijn bij dit Verdrag alsmede van hun medewerkers en van aannemers, onderaannemers, adviseurs, leveranciers en toeleveranciers en hun medewerkers op en vanuit het grondgebied van de Russische Federatie ten behoeve van de uitvoering van activiteiten in overeenstemming met dit Verdrag.
 
@@ -144,31 +169,31 @@ De Partijen regelen in de Uitvoeringsovereenkomsten wanneer nodig de doeltreffen
 
 3. De Russische Partij waarborgt dat de aannemers, onderaannemers, adviseurs, leveranciers, toeleveranciers en hun medewerkers bedoeld in het eerste lid van dit artikel, naar en vanuit het grondgebied van de Russische Federatie al hun persoonlijke huishoudelijke bezittingen alsmede levensmiddelen voor persoonlijk gebruik mogen invoeren en uitvoeren zonder douanerechten, belastingen of andere heffingen verschuldigd te zijn. Het is toegestaan een motorvoertuig per gezin belastingvrij in te voeren in en weder uit te voeren vanuit de Russische Federatie, met dien verstande dat het voertuig alleen wordt gebruikt gedurende de looptijd van de desbetreffende overeenkomst en aan het eind daarvan weder wordt uitgevoerd.
 
-#### Artikel 13. Geschillenbeslechting
+##### Artikel 13. Geschillenbeslechting
 
 Eventuele geschillen tussen twee of meer Partijen inzake de uitlegging van dit Verdrag of de uitvoering ervan worden opgelost door middel van overleg. Het overleg vindt plaats uiterlijk drie maanden nadat een van de Partijen een schriftelijk verzoek ter zake indient bij de andere Partij of Partijen.
 
-#### Artikel 14. Gunning van contracten
+##### Artikel 14. Gunning van contracten
 
 Indien een Partij een contract voor de verwerving van goederen en diensten, met inbegrip van bouwwerkzaamheden, voor de uitvoering van dit Verdrag gunt, geschiedt zulks in overeenstemming met de wet- en regelgeving van die Partij of andere wet- en regelgeving naar keuze van die Partij. Ook Russische ondernemingen kunnen worden ingezet als aannemer of onderaannemer.
 
-#### Artikel 15. Wijzigingen
+##### Artikel 15. Wijzigingen
 
 1. Dit Verdrag of een aanvullend protocol daarbij kan worden gewijzigd in overleg tussen de Partijen bij dit Verdrag.
 
 2. Overeenkomstig dit artikel uitgevoerde wijzigingen dienen te worden bekrachtigd, aanvaard of goedgekeurd door alle Partijen. De wijzigingen worden voor alle Partijen van kracht dertig dagen na de datum van ontvangst door ten minste een van de Depositarissen van de laatste kennisgeving van bekrachtiging, aanvaarding of goedkeuring.
 
-#### Artikel 16. Toetreding
+##### Artikel 16. Toetreding
 
 1. Dit Verdrag staat open voor toetreding door elke door het MNEPR-comité uitgenodigde staat, intergouvernementele organisatie of regionale organisatie voor economische integratie waarop het internationaal publiekrecht van toepassing is.
 
 2. Dit Verdrag treedt voor de toetredende Partij in werking dertig dagen na de datum van ontvangst door ten minste een van de Depositarissen van de akte van toetreding van de toetredende Partij en de laatste van de kennisgevingen van de Partijen inzake instemming daarmee.
 
-#### Artikel 17. Depositarissen
+##### Artikel 17. Depositarissen
 
 De Minister van Buitenlandse Zaken van de Russische Federatie en de Secretaris-Generaal van de Organisatie voor Economische Samenwerking en Ontwikkeling worden bij dezen aangewezen als Depositarissen. De Depositarissen vervullen hun taken in overeenstemming met [artikel 77 van het Verdrag van Wenen inzake het verdragenrecht](https://wetten.overheid.nl/jci1.3:c:BWBV0003441&artikel=77) van 23 mei 1969 en in overleg met elkaar.
 
-#### Artikel 18. Inwerkingtreding, duur, terugtrekking en beëindiging
+##### Artikel 18. Inwerkingtreding, duur, terugtrekking en beëindiging
 
 1. Dit Verdrag dient te worden bekrachtigd, aanvaard of goedgekeurd. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij ten minste een van de Depositarissen. Het treedt in werking dertig dagen na de datum van ontvangst van deze akten van de Russische Partij en van een van de andere ondertekenaars en blijft vanaf die datum gedurende een tijdvak van vijf jaar van kracht. Voor elke ondertekenaar die een dergelijke akte op een later tijdstip nederlegt, treedt dit Verdrag in werking dertig dagen na de ontvangst ervan door ten minste een van de Depositarissen en blijft van kracht tot aan het verstrijken van het oorspronkelijke tijdvak van vijf jaar.
 

@@ -1,13 +1,35 @@
 ---
-title: "Wijzigingsbesluit Schepenbesluit 1965"
+title: "Besluit van 14 januari 1992, houdende wijziging van het Schepenbesluit 1965"
 identifier: "BWBR0005390"
-categorie: "Overig"
-publicatiedatum: 1992-02-01
-laatste_update: 1992-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005390"
+country: "nl"
+rank: "rijks_kb"
+publication_date: "1992-02-01"
+last_updated: "1992-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005390"
+soort: "rijksKB"
+stam_id: "1487193"
+version_id: "2218272"
+internal_id: "C2218271"
+label_id: "1444214"
+dtd_version: "2.0"
+original_entry_into_force: "1992-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005390/1992-02-01/0"
+intitule_bron: "Stb.1992-35"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-01-14"
+intitule_status: "goed"
+original_publication: "Stb.1992-35"
+original_signed_date: "1992-01-14"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1992-02-01"
+jci_1_3: "jci1.3:c:BWBR0005390&z=1992-02-01&g=1992-02-01"
+jci_1_0: "1.0:c:BWBR0005390&g=1992-02-01"
+citeertitel_status: "officieel"
+short_title: "Wijzigingsbesluit Schepenbesluit 1965"
+signed_date: "1992-01-14"
+entry_into_force: "1992-02-01"
 ---
-
 # Besluit van 14 januari 1992, houdende wijziging van het Schepenbesluit 1965
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 8 oktober 1991, nr. J 31 699/91, Directoraat-Generaal Scheepvaart en Maritieme Zaken;
@@ -30,35 +52,35 @@ De bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde;
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel II
+##### Artikel II
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel III
+##### Artikel III
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel IV
+##### Artikel IV
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel V
+##### Artikel V
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel VI
+##### Artikel VI
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel VII
+##### Artikel VII
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel VIII
+##### Artikel VIII
 
 1. Op schepen gebouwd vóór 1 februari 1992 zijn ten aanzien van de bij dit besluit gewijzigde constructie en inrichtingsvoorschriften van de [Bijlagen II](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=II) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=III) en [IV van het Schepenbesluit 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=IV) van toepassing de bepalingen van die voorschriften, zoals deze luidden vóór de inwerkingtreding van dit besluit.
 
@@ -72,7 +94,7 @@ Per 1 februari 1999 moeten alle schepen voldoen aan de radiocommunicatie-voorsch
 
 3. Het Hoofd van de Scheepvaartinspectie kan ontheffing verlenen van één of meer bepalingen ten aanzien van de radiocommunicatie, indien de daarmee verband houdende voorzieningen aan wal of de voorschreven radio-installaties niet of onvoldoende beschikbaar zijn. Aan een dergelijke ontheffing kunnen voorschriften worden verbonden.
 
-#### Artikel IX
+##### Artikel IX
 
 Dit besluit treedt in werking met ingang van 1 februari 1992.
 

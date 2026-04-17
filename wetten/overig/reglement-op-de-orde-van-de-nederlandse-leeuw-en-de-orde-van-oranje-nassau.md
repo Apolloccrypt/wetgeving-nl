@@ -1,13 +1,39 @@
 ---
-title: "Reglement op de Orde van de Nederlandse Leeuw en de Orde van Oranje-Nassau"
+title: "Besluit van 10 mei 1995, houdende nadere regels met betrekking tot de Orde van de Nederlandse Leeuw en de Orde van Oranje-Nassau"
 identifier: "BWBR0007391"
-categorie: "Overig"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007391"
+country: "nl"
+rank: "rijks_kb"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007391"
+soort: "rijksKB"
+stam_id: "774223"
+version_id: "1124032"
+internal_id: "C1124031"
+label_id: "750454"
+dtd_version: "2.0"
+original_entry_into_force: "1995-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007391/2010-10-10/0"
+intitule_bron: "Stb.1995-264"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-05-10"
+intitule_published: "1995-05-16"
+intitule_in_force: "1995-05-16"
+intitule_status: "goed"
+original_publication: "Stb.1995-264"
+original_signed_date: "1995-05-10"
+original_published_date: "1995-05-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-1995-264"
+entry_into_force_date: "1995-08-01"
+jci_1_3: "jci1.3:c:BWBR0007391&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0007391&g=2010-10-10"
+citeertitel_status: "officieel"
+short_title: "Reglement op de Orde van de Nederlandse Leeuw en de Orde van Oranje-Nassau"
+signed_date: "1995-05-10"
+entry_into_force: "1995-08-01"
 ---
-
 # Besluit van 10 mei 1995, houdende nadere regels met betrekking tot de Orde van de Nederlandse Leeuw en de Orde van Oranje-Nassau
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken van 10 maart 1994, Directoraat-Generaal Openbaar Bestuur;
@@ -26,7 +52,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk I. Verleningscriteria
 
-#### Artikel 1
+##### Artikel 1
 
 1. De Orde van de Nederlandse Leeuw strekt tot onderscheiding van personen wegens bijzondere verdiensten van zeer exceptionele aard jegens de samenleving.
 
@@ -38,7 +64,7 @@ Hebben goedgevonden en verstaan:
 
 - c. iemand alleen of samen met anderen, al dan niet in opdracht, een zeer uitzonderlijke prestatie heeft verricht.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Orde van Oranje-Nassau strekt tot onderscheiding van personen wegens bijzondere verdiensten jegens de samenleving.
 
@@ -54,11 +80,11 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. De onderscheidingstekens van de Orde van de Nederlandse Leeuw
 
-#### Artikel 3
+##### Artikel 3
 
 In de artikelen 4 en 5 worden onder versiersel en lint verstaan het versiersel en het lint, zoals omschreven in artikel 7 van de wet van 29 september 1815, houdende instelling van de Orde van de Nederlandse Leeuw (**Stb.** 1994, 352).
 
-#### Artikel 4
+##### Artikel 4
 
 De uit te reiken onderscheidingstekens zijn voor de onderscheiden graden van:
 
@@ -84,7 +110,7 @@ De uit te reiken onderscheidingstekens zijn voor de onderscheiden graden van:
 
 - 2°. het draagteken, opgemaakt in de vorm van een strik. Het wordt gedragen in plaats van het onder 1° genoemde onderscheidingsteken.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007391&hoofdstuk=II&paragraaf=1&artikel=4&z=2010-10-10&g=2010-10-10) genoemde versierselen met lint kunnen in een verkleinde vorm worden gedragen in plaats van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007391&hoofdstuk=II&paragraaf=1&artikel=4&z=2010-10-10&g=2010-10-10) genoemde onderscheidingstekens.
 
@@ -92,11 +118,11 @@ De uit te reiken onderscheidingstekens zijn voor de onderscheiden graden van:
 
 #### § 2. De onderscheidingstekens van de Orde van Oranje-Nassau
 
-#### Artikel 6
+##### Artikel 6
 
 In de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007391&hoofdstuk=II&paragraaf=2&artikel=7&z=2010-10-10&g=2010-10-10) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0007391&hoofdstuk=II&paragraaf=2&artikel=8&z=2010-10-10&g=2010-10-10) worden onder versiersel en lint verstaan het versiersel en lint, zoals omschreven in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0001859&artikel=7) van de wet van 4 april 1892, houdende instelling van de Orde van Oranje-Nassau (**Stb.** 1994, 351).
 
-#### Artikel 7
+##### Artikel 7
 
 De uit te reiken onderscheidingstekens zijn voor de onderscheiden graden van:
 
@@ -140,7 +166,7 @@ De uit te reiken onderscheidingstekens zijn voor de onderscheiden graden van:
 
 - 2°. het draagteken, zijnde het lint, opgemaakt in de vorm van een strik. Het draagteken wordt gedragen in plaats van het onder 1° genoemde onderscheidingsteken.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007391&hoofdstuk=II&paragraaf=2&artikel=7&z=2010-10-10&g=2010-10-10) genoemde versierselen met lint kunnen in een verkleinde vorm worden gedragen in plaats van de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007391&hoofdstuk=II&paragraaf=2&artikel=7&z=2010-10-10&g=2010-10-10) genoemde onderscheidingstekens.
 
@@ -148,7 +174,7 @@ De uit te reiken onderscheidingstekens zijn voor de onderscheiden graden van:
 
 ### Hoofdstuk III. Procedure
 
-#### Artikel 9
+##### Artikel 9
 
 1. Een voorstel tot verlening van een onderscheiding wordt gericht aan de burgemeester of de gezaghebber van de woonplaats van de te onderscheiden persoon.
 
@@ -164,21 +190,21 @@ De uit te reiken onderscheidingstekens zijn voor de onderscheiden graden van:
 
 7. Van elk besluit omtrent een voorstel tot verlening van een onderscheiding wordt door Onze Minister wie het aangaat opgave gedaan aan het Kapittel.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Een voorstel tot verlening van een onderscheiding aan een burgemeester wordt gericht aan de commissaris van de Koning van de provincie waarin de burgemeester woont. De commissaris zendt het voorstel met zijn advies aan het Kapittel. [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0007391&hoofdstuk=III&artikel=9&z=2010-10-10&g=2010-10-10), vierde tot en met zevende lid, is van toepassing.
 
 2. Een voorstel tot verlening van een onderscheiding aan een commissaris van de Koning wordt gericht aan de burgemeester van de woonplaats van de commissaris. De burgemeester zendt het voorstel met zijn advies aan het Kapittel. [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0007391&hoofdstuk=III&artikel=9&z=2010-10-10&g=2010-10-10), vierde tot en met zevende lid, is van toepassing.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Een voorstel tot verlening van een onderscheiding aan een in Nederland verblijvende buitenlandse diplomaat of buitenlandse militair of een in het buitenland verblijvende persoon, wordt gericht aan Onze Minister van Buitenlandse Zaken. Deze zendt het voorstel voor advies aan het Kapittel. [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0007391&hoofdstuk=III&artikel=9&z=2010-10-10&g=2010-10-10), vierde tot en met zevende lid, is van toepassing, met dien verstande dat in het geval van een buitenlandse militair de voordracht geschiedt door Onze Minister van Buitenlandse Zaken in overeenstemming met Onze Minister van Defensie.
 
-#### Artikel 12
+##### Artikel 12
 
 Onverminderd [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0007391&hoofdstuk=III&artikel=9&z=2010-10-10&g=2010-10-10), eerste lid, kan een voorstel tot verlening van een onderscheiding aan een actief dienende Nederlandse militair aan Onze Minister van Defensie worden gericht. Onze Minister van Defensie zendt het voorstel aan de burgemeester van de woonplaats van de betrokken militair. [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0007391&hoofdstuk=III&artikel=9&z=2010-10-10&g=2010-10-10), tweede tot en met zevende lid, is van toepassing.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Een voorstel tot verlening van een onderscheiding aan een persoon, woonachtig in Aruba, Curaçao of Sint Maarten, wordt gericht aan de raad van ministers van Aruba, Curaçao, respectievelijk Sint Maarten.
 
@@ -194,7 +220,7 @@ Onverminderd [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0007391&hoofdst
 
 7. Van elk besluit omtrent een voorstel tot verlening van een onderscheiding wordt door Onze Minister wie het aangaat opgave gedaan aan het Kapittel.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De volgende personen worden geacht aan een of meer van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007391&hoofdstuk=I&artikel=2&z=2010-10-10&g=2010-10-10) genoemde criteria te voldoen:
 
@@ -216,11 +242,11 @@ Onverminderd [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0007391&hoofdst
 
 5. Een voordracht tot verlening van een onderscheiding aan een minister of staatssecretaris van Aruba, Curaçao of Sint Maarten die ingevolge het eerste lid, onderdeel d, geacht wordt aan een of meer van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007391&hoofdstuk=I&artikel=2&z=2010-10-10&g=2010-10-10) genoemde criteria te voldoen, wordt gedaan door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties na overleg met Onze Minister-President van Aruba, Curaçao respectievelijk Sint Maarten. De voordracht wordt niet eerder gedaan dan nadat de te onderscheiden persoon zijn ambt heeft neergelegd. [Artikel 9, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007391&hoofdstuk=III&artikel=9&z=2010-10-10&g=2010-10-10), is van toepassing.
 
-#### Artikel 15
+##### Artikel 15
 
 Ten aanzien van de verlening van een onderscheiding bij koninklijk besluit aan een lid van het koninklijk huis, alsmede aan buitenlandse staatshoofden, is [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0007391&hoofdstuk=III&artikel=9&z=2010-10-10&g=2010-10-10), zevende lid, van toepassing.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De uitreiking van de onderscheiding geschiedt door de burgemeester, de gezaghebber, de commissaris van de Koning, de Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba of Onze Minister wie het aangaat.
 
@@ -228,11 +254,11 @@ Ten aanzien van de verlening van een onderscheiding bij koninklijk besluit aan e
 
 3. De uitreiking van de onderscheiding geschiedt in Aruba, Curaçao en Sint Maarten door of namens de Gouverneur.
 
-#### Artikel 17
+##### Artikel 17
 
 De verlening van een onderscheiding wordt binnen een maand na verlening gepubliceerd in de Staatscourant.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Bij de onderscheiding behoort een oorkonde die wordt ondertekend door de Kanselier van de Orde van de Nederlandse Leeuw.
 
@@ -240,27 +266,27 @@ De verlening van een onderscheiding wordt binnen een maand na verlening gepublic
 
 ### Hoofdstuk IV. Slot- en overgangsbepalingen
 
-#### Artikel 19
+##### Artikel 19
 
 1. De [hoofdstukken I](https://wetten.overheid.nl/jci1.3:c:BWBR0007391&hoofdstuk=I&z=2010-10-10&g=2010-10-10) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0007391&hoofdstuk=III&z=2010-10-10&g=2010-10-10) zijn niet van toepassing op de behandeling van een voorstel tot verlening van een onderscheiding indien daarmee wordt beoogd een onderscheiding uit te doen reiken op een tijdstip gelegen voor de uitreiking ter gelegenheid van de dag waarop de verjaardag van de Koning wordt gevierd in 1996.
 
 2. Indien omtrent een voorstel als bedoeld in het eerste lid besloten wordt dat de datum van uitreiking zal zijn gelegen op of na de uitreiking ter gelegenheid van de dag waarop de verjaardag van de Koning wordt gevierd in 1996, wordt het voorstel overeenkomstig de [hoofdstukken I](https://wetten.overheid.nl/jci1.3:c:BWBR0007391&hoofdstuk=I&z=2010-10-10&g=2010-10-10) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0007391&hoofdstuk=III&z=2010-10-10&g=2010-10-10) behandeld.
 
-#### Artikel 20
+##### Artikel 20
 
 De richtlijnen voor het verlenen van koninklijke onderscheidingen, zoals vastgesteld door de ministerraad op 27 september 1948, worden ingetrokken, met dien verstande dat deze van toepassing blijven op voorstellen als bedoeld in artikel 19, eerste lid.
 
-#### Artikel 21
+##### Artikel 21
 
 Dit besluit treedt in werking met ingang van de eerste dag van de derde kalendermaand na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst.
 
-#### Artikel 22
+##### Artikel 22
 
 Dit besluit wordt aangehaald als: Reglement op de Orde van de Nederlandse Leeuw en de Orde van Oranje-Nassau.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad**, in het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba** zal worden geplaatst.
 
-#### Artikel 10a
+##### Artikel 10a
 
 1. Een voorstel tot verlening van een onderscheiding aan een gezaghebber wordt gericht aan de Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba. De Rijksvertegenwoordiger zendt het voorstel met zijn advies aan het Kapittel. [Artikel 9, vierde lid tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007391&hoofdstuk=III&artikel=9&z=2010-10-10&g=2010-10-10), is van toepassing.
 

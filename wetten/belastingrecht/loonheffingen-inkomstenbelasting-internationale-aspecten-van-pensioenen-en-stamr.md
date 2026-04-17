@@ -1,13 +1,38 @@
 ---
 title: "Loonheffingen, inkomstenbelasting, internationale aspecten van pensioenen en stamrechten"
 identifier: "BWBR0037121"
-categorie: "Belastingrecht"
-publicatiedatum: 2024-04-05
-laatste_update: 2024-04-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037121"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2024-04-05"
+last_updated: "2024-04-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037121"
+soort: "beleidsregel"
+stam_id: "13287603"
+version_id: "22743272"
+internal_id: "C32884551"
+label_id: "13255964"
+dtd_version: "2.0"
+original_entry_into_force: "2015-10-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037121/2024-04-05/0"
+intitule_bron: "Stcrt.2015-36798"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-10-09"
+intitule_published: "2015-10-27"
+intitule_in_force: "2015-10-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-36798"
+original_signed_date: "2015-10-09"
+original_published_date: "2015-10-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-36798"
+entry_into_force_date: "2015-10-28"
+jci_1_3: "jci1.3:c:BWBR0037121&z=2024-04-05&g=2024-04-05"
+jci_1_0: "1.0:c:BWBR0037121&g=2024-04-05"
+citeertitel_status: "redactioneel"
+signed_date: "2015-10-09"
+entry_into_force: "2015-10-28"
 ---
-
 # Loonheffingen, inkomstenbelasting, internationale aspecten van pensioenen en stamrechten
 
 De Staatssecretaris van Financiën heeft het volgende besloten.

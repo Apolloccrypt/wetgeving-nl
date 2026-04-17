@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake de exploitatie van het Sillimanite-veld"
 identifier: "BWBV0006753"
-categorie: "Internationaal recht"
-publicatiedatum: 2018-07-19
-laatste_update: 2018-07-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006753"
+country: "nl"
+rank: "verdrag"
+publication_date: "2018-07-19"
+last_updated: "2018-07-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006753"
+soort: "verdrag"
+stam_id: "10005447283"
+version_id: "10005903732"
+internal_id: "C10009417251"
+label_id: "10005429884"
+dtd_version: "2.0"
+original_entry_into_force: "2018-07-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006753/2018-07-19/0"
+intitule_bron: "Trb.2018-117"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2018-07-20"
+intitule_in_force: "2018-07-20"
+intitule_status: "goed"
+original_publication: "Trb.2018-117"
+original_published_date: "2018-07-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2018-117"
+entry_into_force_date: "2018-07-19"
+jci_1_3: "jci1.3:c:BWBV0006753&z=2018-07-19&g=2018-07-19"
+jci_1_0: "1.0:c:BWBV0006753&g=2018-07-19"
+citeertitel_status: "redactioneel"
+entry_into_force: "2018-07-19"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake de exploitatie van het Sillimanite-veld
 
 The Kingdom of the Netherlands
@@ -28,7 +50,7 @@ Considering that the Licensees have the intention to exploit the Sillimanite Fie
 
 Have agreed as follows:
 
-#### Article 1. Definitions
+##### Article 1. Definitions
 
 For the purposes of this Agreement:
 
@@ -46,7 +68,7 @@ For the purposes of this Agreement:
 
 - –. “Unit Operator” has the meaning given in [Article 2(3)](https://wetten.overheid.nl/jci1.3:c:BWBV0006753&artikel=2&z=2018-07-19&g=2018-07-19).
 
-#### Article 2. Exploitation of the Sillimanite Field
+##### Article 2. Exploitation of the Sillimanite Field
 
 1. The exploitation of the Sillimanite Field shall be undertaken in accordance with the terms of this Agreement.
 
@@ -62,7 +84,7 @@ For the purposes of this Agreement:
 
 7. Neither Party or its relevant Competent Authority shall permit production from the Sillimanite Field until the respective tax authorities of the two Parties have reached agreement regarding the taxation of the profits and gains arising from such production.
 
-#### Article 3. Rights and Obligations of the Parties
+##### Article 3. Rights and Obligations of the Parties
 
 - a). Before production of gas from the Sillimanite Field is scheduled to commence, the Unit Operator needs approval of each Party or their relevant Competent Authority for the measurement systems used to determine the quantities and value of gas won and saved from the Sillimanite Field.
 
@@ -94,7 +116,7 @@ Each Party shall designate one arbitrator, and the two arbitrators so designated
 
 10. Nothing in this Agreement shall be interpreted as prejudicing or restricting the exercise of jurisdiction by the courts of either Party, in conformity with international law.
 
-#### Article 4. Entry into Force and Duration
+##### Article 4. Entry into Force and Duration
 
 1. This Agreement shall enter into force on the date of signature.
 

@@ -1,13 +1,39 @@
 ---
-title: "Besluit Wmcz 2018"
+title: "Besluit van 13 januari 2020, houdende regels over de reikwijdte van de Wet medezeggenschap cliënten zorginstellingen 2018 en de inperking van de verplichting tot het instellen van een cliëntenraad (Besluit Wmcz 2018)"
 identifier: "BWBR0043098"
-categorie: "Bestuursrecht"
-publicatiedatum: 2021-01-01
-laatste_update: 2021-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043098"
+country: "nl"
+rank: "amvb"
+publication_date: "2021-01-01"
+last_updated: "2021-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043098"
+soort: "AMvB"
+stam_id: "15325263"
+version_id: "26480292"
+internal_id: "C37717921"
+label_id: "15270734"
+dtd_version: "2.0"
+original_entry_into_force: "2020-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043098/2021-01-01/0"
+intitule_bron: "Stb.2020-15"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-01-13"
+intitule_published: "2020-01-27"
+intitule_in_force: "2020-03-20"
+intitule_status: "goed"
+original_publication: "Stb.2020-15"
+original_signed_date: "2020-01-13"
+original_published_date: "2020-01-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2020-15"
+entry_into_force_date: "2020-07-01"
+jci_1_3: "jci1.3:c:BWBR0043098&z=2021-01-01&g=2021-01-01"
+jci_1_0: "1.0:c:BWBR0043098&g=2021-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit Wmcz 2018"
+signed_date: "2020-01-13"
+entry_into_force: "2020-07-01"
 ---
-
 # Besluit van 13 januari 2020, houdende regels over de reikwijdte van de Wet medezeggenschap cliënten zorginstellingen 2018 en de inperking van de verplichting tot het instellen van een cliëntenraad (Besluit Wmcz 2018)
 
 Op de voordracht van Onze Minister voor Medische Zorg van 30 oktober 2019, kenmerk 1576496-194819-WJZ;
@@ -22,11 +48,11 @@ Hebben goedgevonden en verstaan:
 
 Treedt in werking op het tijdstip waarop de Wet medezeggenschap cliënten zorginstellingen 2018 in werking treedt.
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder «wet»: [Wet medezeggenschap cliënten zorginstellingen 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0042294).
 
-#### Artikel 2
+##### Artikel 2
 
 De [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042294) is niet van toepassing op de volgende instellingen:
 
@@ -66,7 +92,7 @@ De [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042294) is niet van toepassing
 
 - 13°. leveren van roerende voorzieningen of mobiliteitshulpmiddelen als bedoeld in [artikel 3.1.1, eerste lid, onderdeel a, onder 3°, onderscheidenlijk onderdeel e, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1).
 
-#### Artikel 3
+##### Artikel 3
 
 Als zorg als bedoeld in [artikel 3, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&artikel=3) wordt aangewezen alle zorg die niet bestaat uit:
 
@@ -74,15 +100,15 @@ Als zorg als bedoeld in [artikel 3, eerste lid, onderdeel b, van de wet](https:/
 
 - b. persoonlijke verzorging, begeleiding of verpleging als bedoeld in [artikel 3.1.1, eerste lid, onderdeel b, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1) of [artikel 2.10 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.10).
 
-#### Artikel 4
+##### Artikel 4
 
 Wijzigt het Uitvoeringsbesluit WTZi.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking op het tijdstip waarop de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042294) in werking treedt.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit wordt aangehaald als: Besluit Wmcz 2018.
 

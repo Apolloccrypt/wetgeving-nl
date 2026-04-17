@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel onderzoekskader SBB 2024"
+title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap, van 9 september 2024, nr. MBO/46959232, tot intrekking van de Beleidsregel van de Inspecteur-generaal van het onderwijs, van 25 april 2016, nr. IvHO 482652, houdende invoering van het Onderzoekskader 2016 voor het toezicht op de Samenwerkingsorganisatie Beroepsonderwijs Bedrijfsleven (Stcrt. 2016, 36453) onder vaststelling van de beleidsregel houdende het Onderzoekskader 2023 voor het toezicht op de Samenwerkingsorganisatie Beroepsonderwijs Bedrijfsleven (Beleidsregel onderzoekskader SBB 2024)"
 identifier: "BWBR0050242"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-10-01
-laatste_update: 2024-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050242"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2024-10-01"
+last_updated: "2024-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050242"
+soort: "beleidsregel"
+stam_id: "17230653"
+version_id: "30346962"
+internal_id: "C43525931"
+label_id: "17136364"
+dtd_version: "2.0"
+original_entry_into_force: "2024-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050242/2024-10-01/0"
+intitule_bron: "Stcrt.2024-31547"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-09-09"
+intitule_published: "2024-09-30"
+intitule_in_force: "2024-09-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-31547"
+original_signed_date: "2024-09-09"
+original_published_date: "2024-09-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-31547"
+entry_into_force_date: "2024-10-01"
+jci_1_3: "jci1.3:c:BWBR0050242&z=2024-10-01&g=2024-10-01"
+jci_1_0: "1.0:c:BWBR0050242&g=2024-10-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel onderzoekskader SBB 2024"
+signed_date: "2024-09-09"
+entry_into_force: "2024-10-01"
 ---
-
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap, van 9 september 2024, nr. MBO/46959232, tot intrekking van de Beleidsregel van de Inspecteur-generaal van het onderwijs, van 25 april 2016, nr. IvHO 482652, houdende invoering van het Onderzoekskader 2016 voor het toezicht op de Samenwerkingsorganisatie Beroepsonderwijs Bedrijfsleven (Stcrt. 2016, 36453) onder vaststelling van de beleidsregel houdende het Onderzoekskader 2023 voor het toezicht op de Samenwerkingsorganisatie Beroepsonderwijs Bedrijfsleven (Beleidsregel onderzoekskader SBB 2024)
 
 Gelet op [artikel 13, eerste lid, van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=13);
@@ -16,19 +42,19 @@ Gezien de voordracht van de Inspecteur-generaal van het onderwijs van 21 decembe
 
 Besluit:
 
-#### Artikel 1. Vaststelling onderzoekskader SBB 2023
+##### Artikel 1. Vaststelling onderzoekskader SBB 2023
 
 Het Onderzoekskader 2023 voor het toezicht op de Samenwerkingsorganisatie Beroepsonderwijs Bedrijfsleven wordt vastgesteld overeenkomstig de bijlage bij dit besluit.
 
-#### Artikel 2. Intrekking onderzoekskader SBB 2016
+##### Artikel 2. Intrekking onderzoekskader SBB 2016
 
 De [Beleidsregel van de Inspecteur-generaal van het onderwijs, van 25 april 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038263), nr. IvHO 482652, houdende invoering van het Onderzoekskader 2016 voor het toezicht op de Samenwerkingsorganisatie Beroepsonderwijs Bedrijfsleven (Stcrt. 2016, 36453) wordt ingetrokken.
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 oktober 2024.
 
-#### Artikel 4. Citeertitel
+##### Artikel 4. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel onderzoekskader SBB 2024.
 

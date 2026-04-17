@@ -1,13 +1,39 @@
 ---
-title: "Besluit verzekeringskeuringen ex-kankerpatiënten"
+title: "Besluit van 2 november 2020, houdende regels voor verzekeringskeuringen van ex-kankerpatiënten ten behoeve van het afsluiten van overlijdensrisicoverzekeringen en uitvaartverzekeringen (Besluit verzekeringskeuringen ex-kankerpatiënten)"
 identifier: "BWBR0044342"
-categorie: "Bestuursrecht"
-publicatiedatum: 2021-01-01
-laatste_update: 2021-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044342"
+country: "nl"
+rank: "amvb"
+publication_date: "2021-01-01"
+last_updated: "2021-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044342"
+soort: "AMvB"
+stam_id: "15698473"
+version_id: "27202162"
+internal_id: "C38434341"
+label_id: "15637334"
+dtd_version: "2.0"
+original_entry_into_force: "2021-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044342/2021-01-01/0"
+intitule_bron: "Stb.2020-453"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-11-02"
+intitule_published: "2020-11-17"
+intitule_in_force: "2020-11-17"
+intitule_status: "goed"
+original_publication: "Stb.2020-453"
+original_signed_date: "2020-11-02"
+original_published_date: "2020-11-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2020-453"
+entry_into_force_date: "2021-01-01"
+jci_1_3: "jci1.3:c:BWBR0044342&z=2021-01-01&g=2021-01-01"
+jci_1_0: "1.0:c:BWBR0044342&g=2021-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit verzekeringskeuringen ex-kankerpatiënten"
+signed_date: "2020-11-02"
+entry_into_force: "2021-01-01"
 ---
-
 # Besluit van 2 november 2020, houdende regels voor verzekeringskeuringen van ex-kankerpatiënten ten behoeve van het afsluiten van overlijdensrisicoverzekeringen en uitvaartverzekeringen (Besluit verzekeringskeuringen ex-kankerpatiënten)
 
 Op de voordracht van Onze Minister van Financiën van 13 juli 2020, 2020-118913, directie Financiële Markten, gedaan mede namens Onze Minister van Volksgezondheid, Welzijn en Sport;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister van Financiën van 28 oktober 2020, 2
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Dit besluit is van toepassing op keuringen in verband met het aangaan of wijzigen van:
 
@@ -30,7 +56,7 @@ Hebben goedgevonden en verstaan:
 
 2. Voor de toepassing van dit besluit wordt onder overlijdensrisicoverzekering verstaan: een levensverzekering die alleen recht geeft op een uitkering indien de persoon op wiens leven de verzekering betrekking heeft, voor een in de polis genoemde datum komt te overlijden.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De vraag of er bij een keurling in het verleden kanker is gediagnosticeerd is een onevenredige inbreuk op de persoonlijke levenssfeer van de keurling in de zin van [artikel 3, eerste lid, van de Wet op de medische keuringen](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=3), indien:
 
@@ -40,7 +66,7 @@ Hebben goedgevonden en verstaan:
 
 2. Indien de keurling op het moment dat de kanker werd gediagnosticeerd jonger was dan 21 jaar, bedraagt de in het eerste lid van dit artikel bedoelde termijn vijf jaar.
 
-#### Artikel 3
+##### Artikel 3
 
 In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044342&artikel=2&z=2021-01-01&g=2021-01-01) gelden kortere termijnen waarna aan een keurling niet meer mag worden gevraagd of hij in het verleden aan een bepaalde vorm van kanker heeft geleden, indien:
 
@@ -48,11 +74,11 @@ In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044342&art
 
 - b. er op grond van [artikel 9 van de Wet op de medische keuringen](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=9) afspraken zijn gemaakt tussen representatieve organisaties van patiënten en verzekeraars over de met betrekking tot die vorm van kanker te hanteren termijnen.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van 1 januari 2021.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit wordt aangehaald als: Besluit verzekeringskeuringen ex-kankerpatiënten.
 

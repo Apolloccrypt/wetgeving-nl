@@ -1,20 +1,42 @@
 ---
 title: "Protocol inzake het verbod of de beperking van het gebruik van mijnen, valstrikmijnen en andere mechanismen, zoals gewijzigd op 3 mei 1996 (Protocol II zoals gewijzigd op 3 mei 1996), gehecht aan het Verdrag inzake het verbod of de beperking van het gebruik van bepaalde conventionele wapens die geacht kunnen worden buitensporig leed te veroorzaken of een niet-onderscheidende werking te hebben"
 identifier: "BWBV0004938"
-categorie: "Internationaal recht"
-publicatiedatum: 1999-09-25
-laatste_update: 1999-09-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004938"
+country: "nl"
+rank: "verdrag"
+publication_date: "1999-09-25"
+last_updated: "1999-09-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004938"
+soort: "verdrag"
+stam_id: "10004395163"
+version_id: "10004598472"
+internal_id: "C10006989261"
+label_id: "10004379994"
+dtd_version: "2.0"
+original_entry_into_force: "1999-09-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004938/1999-09-25/0"
+intitule_bron: "Trb.1996-260"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1996-10-04"
+intitule_in_force: "1999-07-12"
+intitule_status: "goed"
+original_publication: "Trb.1996-260"
+original_published_date: "1996-10-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1996-260"
+entry_into_force_date: "1999-09-25"
+jci_1_3: "jci1.3:c:BWBV0004938&z=1999-09-25&g=1999-09-25"
+jci_1_0: "1.0:c:BWBV0004938&g=1999-09-25"
+citeertitel_status: "redactioneel"
+entry_into_force: "1999-09-25"
 ---
-
 # Protocol inzake het verbod of de beperking van het gebruik van mijnen, valstrikmijnen en andere mechanismen, zoals gewijzigd op 3 mei 1996 (Protocol II zoals gewijzigd op 3 mei 1996), gehecht aan het Verdrag inzake het verbod of de beperking van het gebruik van bepaalde conventionele wapens die geacht kunnen worden buitensporig leed te veroorzaken of een niet-onderscheidende werking te hebben
 
-#### ARTIKEL 1. : GEWIJZIGD PROTOCOL
+##### ARTIKEL 1. : GEWIJZIGD PROTOCOL
 
 Het Protocol inzake het verbod of de beperking van het gebruik van mijnen, valstrikmijnen en andere mechanismen (Protocol II), gehecht aan het [Verdrag inzake het verbod of de beperking van het gebruik van bepaalde conventionele wapens die geacht kunnen worden buitensporig leed te veroorzaken of een niet-onderscheidende werking te hebben](https://wetten.overheid.nl/jci1.3:c:BWBV0003694) („het Verdrag”) wordt hierbij gewijzigd. De tekst van het gewijzigde Protocol luidt als volgt:
 
-#### Artikel 1. Toepassingsgebied
+##### Artikel 1. Toepassingsgebied
 
 1. Dit Protocol heeft betrekking op het gebruik te land van de mijnen, valstrikmijnen en andere mechanismen die hieronder worden omschreven, met inbegrip van mijnen gelegd ter belemmering van de toegang tot stranden, overgangen van waterwegen of rivieren, maar is niet van toepassing op het gebruik van tegen schepen gerichte mijnen op zee of in de binnenwateren.
 
@@ -28,7 +50,7 @@ Het Protocol inzake het verbod of de beperking van het gebruik van mijnen, valst
 
 6. Door de toepassing van de bepalingen van dit Protocol op partijen bij een conflict die geen Hoge Verdragsluitende Partijen zijn en die dit Protocol hebben aanvaard, wordt noch impliciet, noch expliciet hun juridische status of die van een betwist grondgebied gewijzigd.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 Voor de toepassing van dit Protocol wordt verstaan onder:
 
@@ -62,7 +84,7 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 - 15. „Overdracht”: naast de fysieke verplaatsing van mijnen naar of van het grondgebied van een staat, de overdracht van het eigendomsrecht en van de zeggenschap over de mijnen, maar niet de overdracht van een grondgebied waarop mijnen zijn geplaatst.
 
-#### Artikel 3. Algemene beperkingen op het gebruik van mijnen, valstrikmijnen en andere mechanismen
+##### Artikel 3. Algemene beperkingen op het gebruik van mijnen, valstrikmijnen en andere mechanismen
 
 1. Dit artikel is van toepassing op:
 
@@ -106,11 +128,11 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 11. Er dient op effectieve wijze een waarschuwing te worden gegeven vóór elke plaatsing van mijnen, valstrikmijnen en andere mechanismen die de burgerbevolking zouden kunnen treffen, tenzij de omstandigheden dat niet toelaten.
 
-#### Artikel 4. Beperkingen op het gebruik van anti-personeelmijnen
+##### Artikel 4. Beperkingen op het gebruik van anti-personeelmijnen
 
 Het is verboden anti-personeelmijnen te gebruiken die niet op te sporen zijn in de zin van punt 2 van de Technische Bijlage.
 
-#### Artikel 5. Beperkingen op het gebruik van anti-personeelmijnen anders dan op afstand gelegde mijnen
+##### Artikel 5. Beperkingen op het gebruik van anti-personeelmijnen anders dan op afstand gelegde mijnen
 
 1. Dit artikel is van toepassing op anti-personeelmijnen anders dan op afstand gelegde mijnen.
 
@@ -132,7 +154,7 @@ Het is verboden anti-personeelmijnen te gebruiken die niet op te sporen zijn in 
 
 - b. het gebied wordt bewaakt door militair personeel om burgers doeltreffend te verhinderen het te betreden.
 
-#### Artikel 6. Beperkingen op het gebruik van op afstand gelegde mijnen
+##### Artikel 6. Beperkingen op het gebruik van op afstand gelegde mijnen
 
 1. Het is verboden op afstand gelegde mijnen te gebruiken, tenzij zij zijn geregistreerd in overeenstemming met punt 1, onder b), van de Technische Bijlage.
 
@@ -142,7 +164,7 @@ Het is verboden anti-personeelmijnen te gebruiken die niet op te sporen zijn in 
 
 4. Er dient op doeltreffende wijze een waarschuwing te worden gegeven, voorafgaand aan het leggen of het afwerpen van op afstand gelegde mijnen die ook de burgerbevolking zouden kunnen treffen, tenzij de omstandigheden dit niet toelaten.
 
-#### Artikel 7. Verbod van het gebruik van valstrikmijnen en andere mechanismen
+##### Artikel 7. Verbod van het gebruik van valstrikmijnen en andere mechanismen
 
 1. Onverminderd de bij gewapende conflicten toe te passen regels van het volkenrecht met betrekking tot bedrog en verraad, is het onder alle omstandigheden verboden valstrikmijnen en andere mechanismen te gebruiken die op enigerlei wijze zijn gehecht aan of verbonden met:
 
@@ -174,7 +196,7 @@ Het is verboden anti-personeelmijnen te gebruiken die niet op te sporen zijn in 
 
 - b. maatregelen worden genomen om de burgers tegen hun uitwerking te beschermen, bijvoorbeeld door het plaatsen van schildwachten, het doen uitgaan van waarschuwingen of het aanbrengen van afzettingen.
 
-#### Artikel 8. Overdracht
+##### Artikel 8. Overdracht
 
 1. Ter bevordering van de doelstellingen van dit Protocol, verplicht elke Hoge Verdragsluitende Partij zich ertoe:
 
@@ -190,7 +212,7 @@ Het is verboden anti-personeelmijnen te gebruiken die niet op te sporen zijn in 
 
 3. Alle Hoge Verdragsluitende Partijen onthouden zich, zolang dit Protocol nog niet in werking is getreden, van alle handelingen die in strijd zouden zijn met het eerste lid, onder a), van dit artikel.
 
-#### Artikel 9. Registratie en gebruik van informatie inzake mijnenvelden, bemijnde gebieden, mijnen, valstrikmijnen en andere mechanismen
+##### Artikel 9. Registratie en gebruik van informatie inzake mijnenvelden, bemijnde gebieden, mijnen, valstrikmijnen en andere mechanismen
 
 1. Alle informatie inzake mijnenvelden, bemijnde gebieden, mijnen, valstrikmijnen en andere mechanismen wordt geregistreerd in overeenstemming met de bepalingen van de Technische Bijlage.
 
@@ -200,7 +222,7 @@ Tegelijkertijd verschaffen alle partijen bij een conflict aan de andere partij o
 
 3. Dit artikel laat het bepaalde in de artikelen 10 en 12 van dit Protocol onverlet.
 
-#### Artikel 10. Het ruimen van mijnenvelden, bemijnde gebieden, mijnen, valstrikmijnen en andere mechanismen en internationale samenwerking
+##### Artikel 10. Het ruimen van mijnenvelden, bemijnde gebieden, mijnen, valstrikmijnen en andere mechanismen en internationale samenwerking
 
 1. Onmiddellijk na de beëindiging van de daadwerkelijke vijandelijkheden dienen alle mijnenvelden, bemijnde gebieden, mijnen, valstrikmijnen en andere mechanismen te worden geruimd, verwijderd, vernietigd of onderhouden in overeenstemming met artikel 3 en artikel 5, tweede lid, van dit Protocol.
 
@@ -210,7 +232,7 @@ Tegelijkertijd verschaffen alle partijen bij een conflict aan de andere partij o
 
 4. Steeds wanneer dat nodig is, streven de partijen ernaar overeenstemming te bereiken, zowel onderling als, indien nodig, met andere staten en met internationale organisaties, inzake de verlening van technische en materiële bijstand, met inbegrip, indien de omstandigheden zich daartoe lenen, van gezamenlijk optreden, noodzakelijk om deze verantwoordelijkheden na te komen.
 
-#### Artikel 11. Technologische samenwerking en bijstand
+##### Artikel 11. Technologische samenwerking en bijstand
 
 1. Elke Hoge Verdragsluitende Partij verplicht zich ertoe een zo ruim mogelijke uitwisseling van uitrustingen, materieel en wetenschappelijke en technische informatie inzake de toepassing van dit Protocol en van mijnruimmiddelen te bevorderen en heeft het recht te participeren in een dergelijke uitwisseling. In het bijzonder leggen de Hoge Verdragsluitende Partijen geen onredelijke beperkingen op inzake het leveren van uitrustingen voor het ruimen van mijnen en daarmee verband houdende technologische informatie voor humanitaire doeleinden.
 
@@ -226,7 +248,7 @@ Tegelijkertijd verschaffen alle partijen bij een conflict aan de andere partij o
 
 7. Elke Hoge Verdragsluitende Partij heeft het recht, desgewenst, te trachten technische bijstand te verkrijgen van een andere Hoge Verdragsluitende Partij en deze te ontvangen met betrekking tot specifieke relevante technologie, anders dan op het gebied van wapens, voor zover noodzakelijk en mogelijk, teneinde de periode van opschorting van de naleving van bepaalde bepalingen, zoals in de Technische Bijlage bepaald, te bekorten.
 
-#### Artikel 12. Bescherming tegen de uitwerking van mijnenvelden, bemijnde gebieden, mijnen, valstrikmijnen en andere mechanismen
+##### Artikel 12. Bescherming tegen de uitwerking van mijnenvelden, bemijnde gebieden, mijnen, valstrikmijnen en andere mechanismen
 
 1. **Toepassing**
 
@@ -304,7 +326,7 @@ Voor de leden van de in dit artikel bedoelde strijdkrachten en missies geldt dat
 
 - b. zich onthouden van elke actie of activiteit die onverenigbaar is met de onpartijdige en internationale aard van hun taken.
 
-#### Artikel 13. Overleg van de Hoge Verdragsluitende Partijen
+##### Artikel 13. Overleg van de Hoge Verdragsluitende Partijen
 
 1. De Hoge Verdragsluitende Partijen verplichten zich ertoe onderling overleg te plegen en samen te werken inzake alle kwesties betreffende de werking van dit Protocol. Hiertoe wordt jaarlijks een conferentie van de Hoge Verdragsluitende Partijen gehouden.
 
@@ -336,7 +358,7 @@ Voor de leden van de in dit artikel bedoelde strijdkrachten en missies geldt dat
 
 5. De kosten van de conferentie van de Hoge Verdragsluitende Partijen worden gedragen door de Hoge Verdragsluitende Partijen en door de Staten die geen partij zijn en die deelnemen aan de werkzaamheden van de conferentie, volgens de aan de omstandigheden aangepaste verdeelsleutel van de Verenigde Naties.
 
-#### Artikel 14. Naleving van de bepalingen
+##### Artikel 14. Naleving van de bepalingen
 
 1. Elke Hoge Verdragsluitende Partij neemt alle passende maatregelen, waaronder wetgevende maatregelen, om schendingen van de bepalingen van dit Protocol door personen of op grondgebieden die onder haar rechtsmacht vallen of waarover zij feitelijk gezag uitoefent, te voorkomen en tegen te gaan.
 
@@ -346,6 +368,6 @@ Voor de leden van de in dit artikel bedoelde strijdkrachten en missies geldt dat
 
 4. De Hoge Verdragsluitende Partijen verplichten zich ertoe met elkaar overleg te plegen en bilateraal met elkaar samen te werken, door tussenkomst van de Secretaris-Generaal van de Verenigde Naties of volgens andere geschikte internationale procedures, om de problemen op te lossen die zich kunnen voordoen met betrekking tot de uitlegging en toepassing van de bepalingen van dit Protocol.
 
-#### ARTIKEL 2. : INWERKINGTREDING
+##### ARTIKEL 2. : INWERKINGTREDING
 
 Dit gewijzigde Protocol treedt in werking op de in [artikel 8, eerste lid, onder b, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003694&artikel=8) bepaalde wijze.

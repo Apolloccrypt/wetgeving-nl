@@ -1,13 +1,37 @@
 ---
 title: "Huursubsidiewet, in het bijzonder de prestatienormen"
 identifier: "BWBR0008597"
-categorie: "Bestuursrecht"
-publicatiedatum: 1997-07-01
-laatste_update: 1997-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008597"
+country: "nl"
+rank: "circulaire"
+publication_date: "1997-07-01"
+last_updated: "1997-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008597"
+soort: "circulaire"
+stam_id: "6412243"
+version_id: "11079412"
+internal_id: "C14991161"
+label_id: "6401314"
+original_entry_into_force: "1997-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008597/1997-07-01/0"
+intitule_bron: "Stcrt.1997-59"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-03-14"
+intitule_published: "1997-03-25"
+intitule_in_force: "1997-03-25"
+intitule_status: "goed"
+original_publication: "Stcrt.1997-59"
+original_signed_date: "1997-03-14"
+original_published_date: "1997-03-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1997-59-p10-SC8797"
+entry_into_force_date: "1997-07-01"
+jci_1_3: "jci1.3:c:BWBR0008597&z=1997-07-01&g=1997-07-01"
+jci_1_0: "1.0:c:BWBR0008597&g=1997-07-01"
+citeertitel_status: "redactioneel"
+signed_date: "1997-03-14"
+entry_into_force: "1997-07-01"
 ---
-
 # Huursubsidiewet, in het bijzonder de prestatienormen
 
 Circulaire aan de colleges van b. en w.

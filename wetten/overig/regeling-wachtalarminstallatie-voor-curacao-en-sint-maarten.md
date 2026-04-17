@@ -1,20 +1,46 @@
 ---
-title: "Regeling wachtalarminstallatie voor Curaçao en Sint Maarten"
+title: "Regeling houdende uitvoering voor de Nederlandse Antillen van artikel 276, zesde lid, van het Vissersvaartuigenbesluit (Regeling wachtalarminstallatie voor de Nederlandse Antillen)"
 identifier: "BWBR0027063"
-categorie: "Overig"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027063"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027063"
+soort: "ministeriele-regeling"
+stam_id: "10385233"
+version_id: "17086752"
+internal_id: "C23573281"
+label_id: "10360644"
+dtd_version: "2.0"
+original_entry_into_force: "1996-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027063/2010-10-10/0"
+intitule_bron: "Stcrt.1996-190"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-09-11"
+intitule_published: "1996-10-02"
+intitule_in_force: "1996-10-02"
+intitule_status: "goed"
+original_publication: "Stcrt.1996-190"
+original_signed_date: "1996-09-11"
+original_published_date: "1996-10-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1996-190-p8-SC7076"
+entry_into_force_date: "1996-11-01"
+jci_1_3: "jci1.3:c:BWBR0027063&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0027063&g=2010-10-10"
+citeertitel_status: "officieel"
+short_title: "Regeling wachtalarminstallatie voor Curaçao en Sint Maarten"
+signed_date: "1996-09-11"
+entry_into_force: "1996-11-01"
 ---
-
 # Regeling houdende uitvoering voor de Nederlandse Antillen van artikel 276, zesde lid, van het Vissersvaartuigenbesluit (Regeling wachtalarminstallatie voor de Nederlandse Antillen)
 
 Gelet op [artikel 276, zesde lid, van het Vissersvaartuigenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004607&artikel=276);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Een wachtalarminstallatie wordt inen uitgeschakeld door middel van een sleutelbediende schakelaar.
 
@@ -32,7 +58,7 @@ Besluit:
 
 8. Een wachtalarminstallatie voldoet aan de als bijlage bij deze regeling behorende paragrafen 5 en 6 van de op 6 november 1991 aangenomen Resolutie A.694(17) van de Internationale Maritieme Organisatie.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De kapitein ziet erop toe dat de wachtalarminstallatie in werking is wanneer uitsluitend door de chef van de wacht op de brug wacht wordt gelopen.
 
@@ -40,11 +66,11 @@ Besluit:
 
 3. De kapitein houdt bij de keuze van de looptijd van het tijdmeetsysteem rekening met de bestaande toestand en omstandigheden.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling geldt voor Curaçao en Sint Maarten.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling wordt aangehaald als: Regeling wachtalarminstallatie voor Curaçao en Sint Maarten.
 

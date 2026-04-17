@@ -1,13 +1,39 @@
 ---
-title: "Besluit noodmaatregelen coronacrisis Caribisch Nederland"
+title: "Fiscale tegemoetkomingen naar aanleiding van de coronacrisis; (Besluit noodmaatregelen coronacrisis Caribisch Nederland)"
 identifier: "BWBR0045646"
-categorie: "Overig"
-publicatiedatum: 2024-01-01
-laatste_update: 2021-04-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045646"
+country: "nl"
+rank: "beleidsregel_bes"
+publication_date: "2024-01-01"
+last_updated: "2021-04-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045646"
+soort: "beleidsregel-BES"
+stam_id: "16085883"
+version_id: "28033472"
+internal_id: "C39544141"
+label_id: "16017394"
+dtd_version: "2.0"
+original_entry_into_force: "2021-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045646/2024-01-01/0"
+intitule_bron: "Stcrt.2021-42309"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-09-24"
+intitule_published: "2021-09-29"
+intitule_in_force: "2021-09-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-42309"
+original_signed_date: "2021-09-24"
+original_published_date: "2021-09-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-42309"
+entry_into_force_date: "2021-10-01"
+jci_1_3: "jci1.3:c:BWBR0045646&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0045646&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit noodmaatregelen coronacrisis Caribisch Nederland"
+signed_date: "2021-09-24"
+entry_into_force: "2021-10-01"
 ---
-
 # Fiscale tegemoetkomingen naar aanleiding van de coronacrisis; (Besluit noodmaatregelen coronacrisis Caribisch Nederland)
 
 Dit besluit is een actualisatie van het ingetrokken [besluit van 28 juni 2021, nr. 2021-121257](https://wetten.overheid.nl/jci1.3:c:BWBR0045305) (Stcrt. 2021, 33904).

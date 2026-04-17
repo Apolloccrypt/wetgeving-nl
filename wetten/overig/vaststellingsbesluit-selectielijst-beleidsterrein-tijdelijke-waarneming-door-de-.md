@@ -1,13 +1,39 @@
 ---
-title: "Vaststellingsbesluit selectielijst beleidsterrein tijdelijke waarneming door de Raad van het Koninklijk gezag over de periode 1945–2000 (Raad van State)"
+title: "Besluit van 16 maart 2006, nr. 06.000758, houdende vaststelling van de selectielijst van de Raad van State op het beleidsterrein tijdelijke waarneming door de Raad van het Koninklijk gezag over de periode 1945–2000"
 identifier: "BWBR0019663"
-categorie: "Overig"
-publicatiedatum: 2006-04-20
-laatste_update: 2006-04-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019663"
+country: "nl"
+rank: "kb"
+publication_date: "2006-04-20"
+last_updated: "2006-04-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019663"
+soort: "KB"
+stam_id: "8215053"
+version_id: "13024592"
+internal_id: "C17528901"
+label_id: "8196154"
+dtd_version: "2.0"
+original_entry_into_force: "2006-04-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019663/2006-04-20/0"
+intitule_bron: "Stcrt.2006-75"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-03-16"
+intitule_published: "2006-04-18"
+intitule_in_force: "2006-04-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-75"
+original_signed_date: "2006-03-16"
+original_published_date: "2006-04-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-75-p16-SC74533"
+entry_into_force_date: "2006-04-20"
+jci_1_3: "jci1.3:c:BWBR0019663&z=2006-04-20&g=2006-04-20"
+jci_1_0: "1.0:c:BWBR0019663&g=2006-04-20"
+citeertitel_status: "redactioneel"
+short_title: "Vaststellingsbesluit selectielijst beleidsterrein tijdelijke waarneming door de Raad van het Koninklijk gezag over de periode 1945–2000 (Raad van State)"
+signed_date: "2006-03-16"
+entry_into_force: "2006-04-20"
 ---
-
 # Besluit van 16 maart 2006, nr. 06.000758, houdende vaststelling van de selectielijst van de Raad van State op het beleidsterrein tijdelijke waarneming door de Raad van het Koninklijk gezag over de periode 1945–2000
 
 Op de voordracht van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, van 16 februari 2006, nr. C/S&A/05/2145, gedaan in overeenstemming met de Raad van State;
@@ -18,11 +44,11 @@ Gezien het advies van de Raad voor Cultuur van 13 augustus 2001, nr. arc-2001.24
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde ‘Selectielijst voor de handelingen van de Raad van State op het beleidsterrein Tijdelijke waarneming van het Koninklijk gezag over de periode 1945–2000’ en de daarbij behorende toelichting worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

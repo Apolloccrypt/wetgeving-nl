@@ -1,13 +1,37 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en Mongolië inzake de bevordering en de wederzijdse bescherming van investeringen"
 identifier: "BWBV0001203"
-categorie: "Internationaal recht"
-publicatiedatum: 1996-06-01
-laatste_update: 1996-06-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001203"
+country: "nl"
+rank: "verdrag"
+publication_date: "1996-06-01"
+last_updated: "1996-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001203"
+soort: "verdrag"
+stam_id: "10000332623"
+version_id: "10000340642"
+internal_id: "C10006987901"
+label_id: "10000332814"
+original_entry_into_force: "1996-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001203/1996-06-01/0"
+intitule_bron: "Trb.1995-156"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-11-20"
+intitule_published: "1995-06-23"
+intitule_in_force: "1996-05-01"
+intitule_status: "goed"
+original_publication: "Trb.1995-156"
+original_signed_date: "1995-11-20"
+original_published_date: "1995-06-23"
+original_effect: "structuurwijziging"
+original_url_id: "trb-1995-156"
+entry_into_force_date: "1996-06-01"
+jci_1_3: "jci1.3:c:BWBV0001203&z=1996-06-01&g=1996-06-01"
+jci_1_0: "1.0:c:BWBV0001203&g=1996-06-01"
+citeertitel_status: "officieel"
+signed_date: "1995-11-20"
+entry_into_force: "1996-06-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en Mongolië inzake de bevordering en de wederzijdse bescherming van investeringen
 
 The Government of the Kingdom of the Netherlands
@@ -24,7 +48,7 @@ Recognizing that agreement upon the treatment to be accorded to such investments
 
 Have agreed as follows:
 
-#### Article 1
+##### Article 1
 
 For the purposes of the present Agreement:
 
@@ -54,13 +78,13 @@ For the purposes of the present Agreement:
 
 - (ii). with respect to the Kingdom of the Netherlands, the territory which constitutes the Kingdom of the Netherlands including also the maritime areas adjacent to the coast, to the extent to which the Kingdom of the Netherlands exercises sovereign rights or jurisdiction in those areas according to international law.
 
-#### Article 2
+##### Article 2
 
 Either Contracting Party shall, within the framework of its laws and regulations, promote economic cooperation through the protection in its territory of investments of nationals of the other Contracting Party.
 
 Subject to its right to exercise powers conferred by its laws or regulations, each Contracting Party shall admit such investments.
 
-#### Article 3
+##### Article 3
 
 1. Each Contracting Party shall ensure fair and equitable treatment of the investments of nationals of the other Contracting Party, which shall not be less favourable than that accorded either to investments of its own nationals or to investments of nationals of any third State, and shall not impair, by unreasonable or discriminatory measures, the operation, management, maintenance, use, enjoyment or disposal thereof by those nationals. Each Contracting Party shall accord to such investments full physical security and protection.
 
@@ -78,7 +102,7 @@ Subject to its right to exercise powers conferred by its laws or regulations, ea
 
 5. If the provisions of law of either Contracting Party or obligations under international law existing at present or established hereafter between the Contracting Parties in addition to the present Agreement contain a regulation, whether general or specific, entitling investments by nationals of the other Contracting Party to a treatment more favourable than is provided for by the present Agreement, such regulation shall to the extent that it is more favourable prevail over the present Agreement.
 
-#### Article 4
+##### Article 4
 
 The Contracting Parties shall guarantee that payments relating to an investment may be transferred. The transfers shall be made in a freely convertible currency, without restriction or delay. Such transfers include in particular though not exclusively:
 
@@ -100,7 +124,7 @@ The Contracting Parties shall guarantee that payments relating to an investment 
 
 - g). the proceeds of sale or liquidation of the investment.
 
-#### Article 5
+##### Article 5
 
 Neither Contracting Party shall take any measures depriving, directly or indirectly, nationals of the other Contracting Party of their investments unless the following conditions are complied with:
 
@@ -110,27 +134,27 @@ Neither Contracting Party shall take any measures depriving, directly or indirec
 
 - c). the measures are taken against just compensation. Such compensation shall represent the genuine value of the investments affected, shall include interest at a normal commercial rate until the date of payment and shall, in order to be effective for the claimants, be paid and made transferable, without delay, to the country designated by the claimants concerned and in the currency of the country of which the claimants are nationals or in any freely convertible currency accepted by the claimants.
 
-#### Article 6
+##### Article 6
 
 Nationals of the one Contracting Party who suffer losses in respect of their investments in the territory of the other Contracting Party owing to war or other armed conflict, revolution, a state of national emergency, revolt, insurrection or riot shall be accorded by the latter Contracting Party treatment, as regards restitution, indemnification, compensation or other settlement, no less favourable than that which that Contracting Party accords to its own nationals or to nationals of any third State, whichever is more favourable to the nationals concerned.
 
-#### Article 7
+##### Article 7
 
 If the investments of a national of the one Contracting Party are insured against non-commercial risks or otherwise give rise to payment of indemnification in respect of such investments under a system established by law, regulation or government contract any subrogation of the insurer or re-insurer or Agency designated by the one Contracting Party to the rights of the said national pursuant to the terms of such insurance or under any other indemnity given shall be recognized by the other Contracting Party.
 
-#### Article 8
+##### Article 8
 
 Each Contracting Party hereby consents to submit any legal dispute arising between that Contracting Party and a national of the other Contracting Party concerning an investment of that national in the territory of the former Contracting Party to the International Centre for Settlement of Investment Disputes for settlement by conciliation or arbitration under the Convention on the Settlement of Investment Disputes between States and Nationals of other States opened for signature at Washington on 18 March 1965. A legal person which is a national of one Contracting Party and which before such a dispute arises is controlled by nationals of the other Contracting Party shall in accordance with Article 25 (2) (b) of the Convention for the purpose of the Convention be treated as a national of the other Contracting Party.
 
-#### Article 9
+##### Article 9
 
 The provisions of this Agreement shall apply to investments made by nationals of the one Contacting Party in the territory of the other Contracting Party after 31 December 1992. It shall however not apply to any dispute concerning an investment which arose, or any claim concerning an investment which was settled before its entry into force.
 
-#### Article 10
+##### Article 10
 
 Either Contracting Party may propose the other Party that consultations be held on any matter concerning the interpretation or application of the Agreement. The other Party shall accord sympathetic consideration to the proposal and shall afford adequate opportunity for such consultations.
 
-#### Article 11
+##### Article 11
 
 1. Any dispute between the Contracting Parties concerning the interpretation or application of the present Agreement, which cannot be settled within a reasonable lapse of time, by means of diplomatic negotiations, shall, unless the Parties have otherwise agreed, be submitted, at the request of either Party, to an arbitral tribunal, composed of three members. Each Party shall appoint one arbitrator and the two arbitrators thus appointed shall together appoint a third arbitrator as their chairman who is not a national of either Party.
 
@@ -146,11 +170,11 @@ Either Contracting Party may propose the other Party that consultations be held 
 
 7. The tribunal shall reach its decision by a majority of votes. Such decision shall be final and binding on the Parties.
 
-#### Article 12
+##### Article 12
 
 As regards the Kingdom of the Netherlands, the present Agreement shall apply to the part of the Kingdom in Europe, the Netherlands Antilles and to Aruba, unless the notification provided for in Article 13, paragraph 1 provides otherwise.
 
-#### Article 13
+##### Article 13
 
 1. The present Agreement shall enter into force on the first day of the second month following the date on which the Contracting Parties have notified each other in writing that the procedures constitutionally required therefor in their respective countries have been complied with, and shall remain in force for a period of fifteen years.
 

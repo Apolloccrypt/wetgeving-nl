@@ -1,13 +1,37 @@
 ---
 title: "Personeelsinformatie sector Rijk"
 identifier: "BWBR0008458"
-categorie: "Bestuursrecht"
-publicatiedatum: 1997-01-01
-laatste_update: 1997-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008458"
+country: "nl"
+rank: "circulaire"
+publication_date: "1997-01-01"
+last_updated: "1997-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008458"
+soort: "circulaire"
+stam_id: "6331823"
+version_id: "10985052"
+internal_id: "C14875781"
+label_id: "6320804"
+original_entry_into_force: "1997-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008458/1997-01-01/0"
+intitule_bron: "Stcrt.1997-1"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-12-20"
+intitule_published: "1997-01-02"
+intitule_in_force: "1997-01-02"
+intitule_status: "goed"
+original_publication: "Stcrt.1997-1"
+original_signed_date: "1996-12-20"
+original_published_date: "1997-01-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1997-1-p5-SC8022"
+entry_into_force_date: "1997-01-01"
+jci_1_3: "jci1.3:c:BWBR0008458&z=1997-01-01&g=1997-01-01"
+jci_1_0: "1.0:c:BWBR0008458&g=1997-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "1996-12-20"
+entry_into_force: "1997-01-01"
 ---
-
 # Personeelsinformatie sector Rijk
 
 «Circulaire aan de ministers»

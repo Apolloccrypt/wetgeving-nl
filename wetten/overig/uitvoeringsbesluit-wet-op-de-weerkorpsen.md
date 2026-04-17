@@ -1,13 +1,35 @@
 ---
-title: "Uitvoeringsbesluit Wet op de weerkorpsen"
+title: "Besluit van 2 juli 1938, houdende bepalingen tot uitvoering van de Wet op de weerkorpsen"
 identifier: "BWBR0001992"
-categorie: "Overig"
-publicatiedatum: 2011-01-01
-laatste_update: 2011-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0001992"
+country: "nl"
+rank: "kb"
+publication_date: "2011-01-01"
+last_updated: "2011-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0001992"
+soort: "KB"
+stam_id: "1041983"
+version_id: "1530502"
+internal_id: "C1530501"
+label_id: "1009754"
+dtd_version: "2.0"
+original_entry_into_force: "1939-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0001992/2011-01-01/0"
+intitule_bron: "Stb.1938-247"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1938-07-02"
+intitule_status: "goed"
+original_publication: "Stb.1938-247"
+original_signed_date: "1938-07-02"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1939-02-01"
+jci_1_3: "jci1.3:c:BWBR0001992&z=2011-01-01&g=2011-01-01"
+jci_1_0: "1.0:c:BWBR0001992&g=2011-01-01"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsbesluit Wet op de weerkorpsen"
+signed_date: "1938-07-02"
+entry_into_force: "1939-02-01"
 ---
-
 # Besluit van 2 juli 1938, houdende bepalingen tot uitvoering van de Wet op de weerkorpsen
 
 Op de voordracht van Onze Ministers van Justitie van 24 Januari 1938, 5de Afdeeling, n°. 500G, van Binnenlandsche Zaken van 28 Januari 1938, Afdeeling Binnenlandsch Bestuur, n°. 1709, en van Defensie van 28 Januari 1938, Geheim Litt. W.23;
@@ -22,7 +44,7 @@ Hebben goedgevonden en verstaan:
 
 #### § I. Inleidende bepaling
 
-#### Artikel 1
+##### Artikel 1
 
 Als organisaties, voor welke het verbod van het eerste lid van artikel 1 der Wet op de weerkorpsen niet geldt, worden toegelaten:
 
@@ -34,19 +56,19 @@ Als organisaties, voor welke het verbod van het eerste lid van artikel 1 der Wet
 
 #### § II. Bijzondere Vrijwillige Landstorm
 
-#### Artikel 2
+##### Artikel 2
 
 1. De bewapening, kleeding en uitrusting van hen, die tot den Bijzonderen Vrijwilligen Landstorm behooren, de inrichting en het houden van opslagplaatsen, alsmede de opberging en het onderhoud van wapenen, munitie, kleeding en uitrusting geschieden met inachtneming van de door Onze Ministers van Defensie en van Binnenlandsche Zaken te stellen regelen.
 
 2. Met het toezicht op de naleving van het bij of krachtens deze paragraaf bepaalde zijn belast de door Onze Ministers van Defensie en van Binnenlandse Zaken aangewezen ambtenaren.
 
-#### Artikel 3
+##### Artikel 3
 
 De Bijzondere Vrijwillige Landstorm en elk zijner onderdeelen geven aan Onzen Minister van Binnenlandsche Zaken of een namens dezen optredenden ambtenaar of orgaan op de eerste vordering inzage van de boeken en bescheiden, op zijne samenstelling en inrichting, op zijn beheer en op zijne bewapening betrekking hebbende, en verschaffen daarbij alle ter zake gewenschte inlichtingen.
 
 #### § III. Vrijwillige Burgerwachten
 
-#### Artikel 4
+##### Artikel 4
 
 1. Erkenning van eene organisatie als "Vrijwillige Burgerwacht" kan op daartoe strekkend verzoek door Onzen Minister van Binnenlandsche Zaken geschieden. Geen erkenning vindt plaats, indien de organisatie geen rechtspersoon met volledige rechtsbevoegdheid is en haar huishoudelijke en overige reglementen niet de instemming van Onze Minister van Binnenlandse Zaken hebben.
 
@@ -56,7 +78,7 @@ De Bijzondere Vrijwillige Landstorm en elk zijner onderdeelen geven aan Onzen Mi
 
 4. Wijzigingen in de in het eerste lid bedoelde reglementen treden niet in werking, alvorens Onze Minister van Binnenlandse Zaken ermee heeft ingestemd.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Uit de statuten van eene Vrijwillige Burgerwacht moet blijken:
 
@@ -70,11 +92,11 @@ De Bijzondere Vrijwillige Landstorm en elk zijner onderdeelen geven aan Onzen Mi
 
 - b. de uniformen en de bewapening.
 
-#### Artikel 6
+##### Artikel 6
 
 Elk openbaar vertoon en elke andere in het openbaar blijkende bemoeiing van eene Vrijwillige Burgerwacht of hare onderdeelen en organen buiten de gemeente van vestiging zijn verboden, tenzij met uitdrukkelijke toestemming van Onzen Minister van Binnenlandsche Zaken.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Instemming van den burgemeester behoeven:
 
@@ -92,7 +114,7 @@ Elk openbaar vertoon en elke andere in het openbaar blijkende bemoeiing van eene
 
 3. De Vrijwillige Burgerwacht voert geen correspondentie met militaire autoriteiten en doet den burgemeester voortdurend mededeeling van alle correspondentie, harerzijds gevoerd met andere burgerlijke autoriteiten dan het bestuur der gemeente van vestiging of zijn organen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Met het toezicht op de naleving van het bij of krachtens deze paragraaf bepaalde zijn belast de door Onze Minister van Binnenlandse Zaken aangewezen ambtenaren alsmede de burgemeester en de door hem aangewezen ambtenaren.
 
@@ -100,7 +122,7 @@ Elk openbaar vertoon en elke andere in het openbaar blijkende bemoeiing van eene
 
 #### § IV. Weerbaarheidsvereenigingen en schietvereenigingen
 
-#### Artikel 9
+##### Artikel 9
 
 1. Erkenning van eene organisatie als "Weerbaarheidsvereeniging" of als "Schietvereeniging" kan op daartoe strekkend verzoek door Onzen Minister van Defensie geschieden. Geen erkenning vindt plaats, indien de vereniging geen volledige rechtsbevoegdheid bezit.
 
@@ -108,59 +130,59 @@ Elk openbaar vertoon en elke andere in het openbaar blijkende bemoeiing van eene
 
 3. Onze Minister van Defensie kan aan de erkenning voorwaarden verbinden.
 
-#### Artikel 10
+##### Artikel 10
 
 Uit de statuten van eene weerbaarheidsvereeniging of van eene schietvereeniging moet blijken, dat van het lidmaatschap der vereeniging zijn uitgesloten zij, die van revolutionnaire gezindheid zijn.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Uit de statuten van eene weerbaarheidsvereeniging moet blijken, dat de vereeniging uitsluitend ten doel heeft haar leden in de gelegenheid te stellen zich vrijwillig voor te bereiden op den krijgsdienst of wel het onderhouden en verhoogen van reeds door de leden verkregen militaire bekwaamheden.
 
 2. Uit de statuten van eene schietvereeniging moet blijken, dat de vereeniging uitsluitend ten doel heeft het geven van gelegenheid tot en de beoefening van het schieten met inachtneming van de daaromtrent voor de Koninklijke landmacht geldende voorschriften.
 
-#### Artikel 12
+##### Artikel 12
 
 Weerbaarheidsvereenigingen en schietvereenigingen zijn verplicht hare werkzaamheden te staken wanneer er sprake is van een uitzonderingstoestand als bedoeld in [artikel 103 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=103).
 
-#### Artikel 13
+##### Artikel 13
 
 Eene weerbaarheidsvereeniging of schietvereeniging treedt, behoudens het bepaalde in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0001992&paragraaf=IV&artikel=15&z=2011-01-01&g=2011-01-01), slechts op in onderling verband, voor zoover dit voor het houden van hare oefeningen noodig is.
 
-#### Artikel 14
+##### Artikel 14
 
 Het is aan eene weerbaarheidsvereeniging en aan eene schietvereeniging verboden in eenigerlei vorm aan de weermacht of politie steun te verleenen bij de uitvoering van de aan deze organen opgedragen taak tot handhaving van de uit- en inwendige veiligheid des lands en van de openbare orde en rust of daartoe hare diensten aan te bieden.
 
-#### Artikel 15
+##### Artikel 15
 
 Onze Minister van Defensie is bevoegd om in bijzondere gevallen eene weerbaarheidsvereeniging of schietvereeniging te vergunnen in onderling verband op te treden tot het verrichten van of deelnemen aan eerbetoon. Onze Minister van Defensie besluit binnen acht weken na ontvangst van de aanvraag. [Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) is van toepassing op de aanvraag om de vergunning.
 
-#### Artikel 16
+##### Artikel 16
 
 Uniformkleeding en onderscheidingsteekenen worden niet gedragen of gevoerd dan met de toestemming van Onzen Minister van Defensie. Onze Minister van Defensie besluit binnen acht weken na ontvangst van de aanvraag. [Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) is van toepassing op het verzoek om toestemming.
 
 #### § V. Slotbepaling
 
-#### Artikel 17
+##### Artikel 17
 
 Dit besluit treedt in werking tegelijk met de Wet op de weerkorpsen.
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
-#### Artikel 19
+##### Artikel 19
 
 Vervallen
 
-#### Artikel 20
+##### Artikel 20
 
 Vervallen
 
-#### Artikel 21
+##### Artikel 21
 
 Vervallen
 
-#### Artikel 22
+##### Artikel 22
 
 Vervallen
 

@@ -1,24 +1,49 @@
 ---
 title: "Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Scheepvaart en maritieme zaken over de periode vanaf 1945 (Minister van Sociale Zaken en Werkgelegenheid)"
 identifier: "BWBR0024118"
-categorie: "Sociaal recht"
-publicatiedatum: 2008-07-09
-laatste_update: 2008-07-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024118"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2008-07-09"
+last_updated: "2008-07-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024118"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "9637863"
+version_id: "15546042"
+internal_id: "C25329301"
+label_id: "9614904"
+dtd_version: "2.0"
+original_entry_into_force: "2008-07-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024118/2008-07-09/0"
+intitule_bron: "Stcrt.2008-128"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-06-16"
+intitule_published: "2008-07-07"
+intitule_in_force: "2008-07-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-128"
+original_signed_date: "2008-06-16"
+original_published_date: "2008-07-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-128-p7-SC86416"
+entry_into_force_date: "2008-07-09"
+jci_1_3: "jci1.3:c:BWBR0024118&z=2008-07-09&g=2008-07-09"
+jci_1_0: "1.0:c:BWBR0024118&g=2008-07-09"
+citeertitel_status: "officieel"
+signed_date: "2008-06-16"
+entry_into_force: "2008-07-09"
 ---
-
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Scheepvaart en maritieme zaken over de periode vanaf 1945 (Minister van Sociale Zaken en Werkgelegenheid)
 
 Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
 
 De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 27 mei 2008 , nr. bca-2008.04829/2);
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van de Minister van Sociale Zaken en Werkgelegenheid en de onder hem ressorterende actoren op het beleidsterrein Scheepvaart en maritieme zaken over de periode vanaf 1945’ en de daarbij behorende toelichting worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

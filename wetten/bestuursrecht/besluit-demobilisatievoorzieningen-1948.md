@@ -1,13 +1,35 @@
 ---
-title: "Besluit Demobilisatievoorzieningen 1948"
+title: "Besluit van 14 februari 1948, houdende vaststelling van het Besluit Demobilisatievoorzieningen 1948"
 identifier: "BWBR0002038"
-categorie: "Bestuursrecht"
-publicatiedatum: 1965-01-01
-laatste_update: 1965-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002038"
+country: "nl"
+rank: "amvb"
+publication_date: "1965-01-01"
+last_updated: "1965-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002038"
+soort: "AMvB"
+stam_id: "341653"
+version_id: "499382"
+internal_id: "C499381"
+label_id: "334094"
+dtd_version: "2.0"
+original_entry_into_force: "1948-02-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002038/1965-01-01/0"
+intitule_bron: "Stb.1948-I 57"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1948-02-14"
+intitule_status: "goed"
+original_publication: "Stb.1948-I 57"
+original_signed_date: "1948-02-14"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1948-02-29"
+jci_1_3: "jci1.3:c:BWBR0002038&z=1965-01-01&g=1965-01-01"
+jci_1_0: "1.0:c:BWBR0002038&g=1965-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit Demobilisatievoorzieningen 1948"
+signed_date: "1948-02-14"
+entry_into_force: "1948-02-29"
 ---
-
 # Besluit van 14 februari 1948, houdende vaststelling van het Besluit Demobilisatievoorzieningen 1948
 
 Op de voordracht van Onze Ministers van Oorlog, van Marine, van Overzeese Gebiedsdelen, van Financiën, van Economische Zaken, van Landbouw, Visserij en Voedselvoorziening, van Onderwijs, Kunsten en Wetenschappen, van Sociale Zaken en van Binnenlandse Zaken van 16 December 1947, Afdeling A 2, Bureau 3, Nr. 628;
@@ -20,7 +42,7 @@ Gezien het nader rapport van Onze voornoemde Ministers van 10 Februari 1948, Geh
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en in de regelingen ter uitvoering van dit besluit wordt verstaan onder:
 
@@ -34,7 +56,7 @@ In dit besluit en in de regelingen ter uitvoering van dit besluit wordt verstaan
 
 - e. **"het Oosten":** het grondgebied van het voormalige Nederlandsch-Indië; voorts het Verre Oosten met aangrenzende zeegebieden zomede de Stille Oceaan met inbegrip van de daarin gelegen eilanden en de daaraan gelegen havens.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit is van toepassing op militairen der Koninklijke Marine en der Koninklijke Landmacht, die worden gedemobiliseerd, met uitzondering van:
 
@@ -46,21 +68,21 @@ Dit besluit is van toepassing op militairen der Koninklijke Marine en der Konink
 
 - d. militairen, die na 30 April 1950 naar het Oosten zijn uitgezonden, behalve indien en voor zover zij in het Verre Oosten met aangrenzende zeegebieden of in de Stille Oceaan met inbegrip van de daarin gelegen eilanden en de daaraan gelegen havens werkelijke dienst hebben verricht als lid van ter beschikking van de Verenigde Naties gestelde strijdkrachten, in welk geval evenwel ten aanzien van de militairen der Koninklijke landmacht de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002038&artikel=5&z=1965-01-01&g=1965-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002038&artikel=6&z=1965-01-01&g=1965-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002038&artikel=7&z=1965-01-01&g=1965-01-01) buiten toepassing blijven.
 
-#### Artikel 3
+##### Artikel 3
 
 Aan militairen, die bij hun opkomst in werkelijke dienst hun woonplaats buiten Nederland hadden en zich, na in Nederland te zijn gedemobiliseerd, wederom in het land van hun vroegere woonplaats metterwoon vestigen, kan hetgeen hun ingevolge dit besluit toekomt - naar regelen, vast te stellen door Onze Minister van Marine, onderscheidenlijk Onze Minister van Oorlog - geheel of gedeeltelijk worden uitbetaald in de valuta van het land, waar de militairen zich vestigen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Militairen worden zo spoedig mogelijk na hun aankomst in Nederland in het genot gesteld van verlof met behoud van bezoldiging. Dit verlof bedraagt veertien dagen voor ieder jaar, doorgebracht buiten Nederland, of - in bijzondere gevallen - zoveel langer als door Onze Minister van Marine, onderscheidenlijk Onze Minister van Oorlog, noodzakelijk wordt geacht.
 
 2. Bij de bepaling van dit verlof wordt een gedeelte van een jaar, mits het een half jaar of meer bedraagt, voor een jaar gerekend.
 
-#### Artikel 5
+##### Artikel 5
 
 Militairen ontvangen een door Onze Ministers van Marine, van Oorlog en van Financiën vast te stellen uitkering ineens.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Militairen ontvangen, overeenkomstig door Onze Ministers van Marine, van Oorlog en van Financiën vast te stellen regelen, een premie voor iedere maand werkelijke dienst, na 6 Juni 1944 in het Oosten verricht, tenzij zij - naar het oordeel van Onze Minister van Marine, onderscheidenlijk Onze Minister van Oorlog - zich tijdens hun verblijf in het Oosten hebben schuldig gemaakt aan ernstig plichtsverzuim of grove misdragingen, in welk geval de premie geheel of gedeeltelijk kan worden ingehouden.
 
@@ -68,15 +90,15 @@ Militairen ontvangen een door Onze Ministers van Marine, van Oorlog en van Finan
 
 3. Voor de toepassing van dit artikel wordt de werkelijke dienst in het Oosten geacht aan te vangen op de dag van vertrek uit Nederland met definitieve bestemming voor het Oosten. Onze Minister van Marine, onderscheidenlijk Onze Minister van Oorlog, bepaalt de aanvang van de werkelijke dienst in het Oosten voor militairen, die van elders dan Nederland uit met definitieve bestemming voor het Oosten zijn vertrokken. De werkelijke dienst in het Oosten wordt geacht te eindigen op de dag van terugkeer in Nederland, of, indien de militair tevoren overlijdt, op de dag van overlijden.
 
-#### Artikel 7
+##### Artikel 7
 
 Militairen ontvangen een nader door Onze Ministers van Marine, van Oorlog en van Financiën vast te stellen tegemoetkoming in de kosten van aanschaffing van kleding.
 
-#### Artikel 8
+##### Artikel 8
 
 De loonbelasting, verschuldigd over de bedragen, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002038&artikel=5&z=1965-01-01&g=1965-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002038&artikel=6&z=1965-01-01&g=1965-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002038&artikel=7&z=1965-01-01&g=1965-01-01), komt ten laste van 's-Rijks schatkist.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Militairen genieten gedurende een bepaalde periode voorrang:
 
@@ -90,21 +112,21 @@ De loonbelasting, verschuldigd over de bedragen, bedoeld in de [artikelen 5](htt
 
 3. Onze Ministers van Sociale Zaken, van Marine, van Oorlog en van Financiën stellen nadere regelen vast ter uitvoering van dit artikel met inachtneming van het Koninklijk besluit van 17 Juli 1944 (**Staatsblad** nr. E 51), houdende regelen betreffende de arbeidsbemiddeling en de scholing, herscholing en omscholing.
 
-#### Artikel 9a
+##### Artikel 9a
 
 Bij de vervulling van daarvoor naar hun oordeel in aanmerking komende vacatures bij de burgerlijke Rijksdienst verlenen Onze Ministers, hoofden van departementen van algemeen bestuur, overeenkomstig richtlijnen, te geven door de Raad van Ministers, voorrang aan militairen, die aan de ter zake gestelde eisen van bekwaamheid en geschiktheid voldoen.
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 10a
+##### Artikel 10a
 
 1. In bijzondere gevallen kunnen militairen in aanmerking komen voor een crediet voor zakelijke doeleinden, over welk crediet interest is verschuldigd.
 
 2. Onze Ministers van Economische Zaken, van Landbouw, Visserij en Voedselvoorziening, van Marine, van Oorlog en van Financiën stellen regelen vast ter uitvoering van dit artikel.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Aan militairen kan voor studiedoeleinden een renteloos voorschot of een toelage worden toegekend.
 
@@ -114,11 +136,11 @@ Vervallen
 
 4. Onze Ministers van Marine, van Oorlog, van Onderwijs, Kunsten en Wetenschappen, van Landbouw, Visserij en Voedselvoorziening en van Financiën stellen regelen vast ter uitvoering van dit artikel.
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
-#### Artikel 13
+##### Artikel 13
 
 Onze Minister van Marine, onderscheidenlijk Onze Minister van Oorlog, kan - de in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002038&artikel=14&z=1965-01-01&g=1965-01-01) bedoelde Raad van Advies inzake Demobilisatievoorzieningen gehoord - dit besluit geheel of gedeeltelijk van overeenkomstige toepassing verklaren op:
 
@@ -134,13 +156,13 @@ Onze Minister van Marine, onderscheidenlijk Onze Minister van Oorlog, kan - de i
 
 - 2. tijdelijke vlootpredikanten, tijdelijke vlootaalmoezeniers en reserve-legerpredikanten en -aalmoezeniers: mits zij gedurende zes maanden in het Oosten hun taak hebben verricht en de dienst bij de Koninklijke Marine of de Koninklijke Landmacht verlaten.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Door Onze Ministers van Marine en van Oorlog wordt voor de tijd, dat deze nodig zal blijken, een Raad van Advies inzake Demobilisatievoorzieningen ingesteld.
 
 2. Onze voornoemde Ministers stellen gezamenlijk regelen vast nopens de taak, de samenstelling en de werkwijze van de Raad van Advies.
 
-#### Artikel 15
+##### Artikel 15
 
 Dit besluit kan worden aangehaald als "Besluit Demobilisatievoorzieningen 1948".
 

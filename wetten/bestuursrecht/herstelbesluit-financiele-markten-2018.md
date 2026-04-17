@@ -1,13 +1,39 @@
 ---
-title: "Herstelbesluit financiële markten 2018"
+title: "Besluit van 12 juli 2018 tot wijziging van het Besluit prudentiële regels Wft, het Besluit Markttoegang financiële ondernemingen Wft, het Besluit bijzondere prudentiële maatregelen, beleggerscompensatie en depositogarantie Wft, het Besluit Gedragstoezicht financiële ondernemingen Wft, het Besluit bestuurlijke boetes financiële sector, het Besluit politiegegevens en het Besluit prudentieel toezicht financiële groepen Wft (Herstelbesluit financiële markten 2018)"
 identifier: "BWBR0041205"
-categorie: "Bestuursrecht"
-publicatiedatum: 2018-07-28
-laatste_update: 2018-07-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041205"
+country: "nl"
+rank: "amvb"
+publication_date: "2018-07-28"
+last_updated: "2018-07-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041205"
+soort: "AMvB"
+stam_id: "14690093"
+version_id: "25166592"
+internal_id: "C35981161"
+label_id: "14642474"
+dtd_version: "2.0"
+original_entry_into_force: "2018-07-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041205/2018-07-28/0"
+intitule_bron: "Stb.2018-243"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-07-12"
+intitule_published: "2018-07-27"
+intitule_in_force: "2018-07-27"
+intitule_status: "goed"
+original_publication: "Stb.2018-243"
+original_signed_date: "2018-07-12"
+original_published_date: "2018-07-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2018-243"
+entry_into_force_date: "2018-07-28"
+jci_1_3: "jci1.3:c:BWBR0041205&z=2018-07-28&g=2018-07-28"
+jci_1_0: "1.0:c:BWBR0041205&g=2018-07-28"
+citeertitel_status: "officieel"
+short_title: "Herstelbesluit financiële markten 2018"
+signed_date: "2018-07-12"
+entry_into_force: "2018-07-28"
 ---
-
 # Besluit van 12 juli 2018 tot wijziging van het Besluit prudentiële regels Wft, het Besluit Markttoegang financiële ondernemingen Wft, het Besluit bijzondere prudentiële maatregelen, beleggerscompensatie en depositogarantie Wft, het Besluit Gedragstoezicht financiële ondernemingen Wft, het Besluit bestuurlijke boetes financiële sector, het Besluit politiegegevens en het Besluit prudentieel toezicht financiële groepen Wft (Herstelbesluit financiële markten 2018)
 
 Op de voordracht van Onze Minister van Financiën van 31 mei 2018, 2018-0000090074, directie Financiële Markten, gedaan in overeenstemming met Onze Minister van Justitie en Veiligheid;
@@ -20,39 +46,39 @@ Gezien het nader rapport van Onze Minister van Financiën van 10 juli 2018, 2018
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Besluit prudentiële regels Wft.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Besluit Markttoegang financiële ondernemingen Wft.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Besluit bijzondere prudentiële maatregelen, beleggerscompensatie en depositogarantie Wft.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het Besluit Gedragstoezicht financiële ondernemingen Wft.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Besluit bestuurlijke boetes financiële sector.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt het Besluit politiegegevens.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt het Besluit prudentieel toezicht financiële groepen Wft.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-#### Artikel IX
+##### Artikel IX
 
 Dit besluit wordt aangehaald als: Herstelbesluit financiële markten 2018.
 

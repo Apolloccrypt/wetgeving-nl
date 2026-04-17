@@ -1,13 +1,38 @@
 ---
 title: "Circulaire Werkkostenregeling Appa, vervallen gratificatie voorzitter en aanpassing procedure bij ziekte voorzitter"
 identifier: "BWBR0029754"
-categorie: "Bestuursrecht"
-publicatiedatum: 2011-01-01
-laatste_update: 2011-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029754"
+country: "nl"
+rank: "circulaire"
+publication_date: "2011-01-01"
+last_updated: "2011-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029754"
+soort: "circulaire"
+stam_id: "11277543"
+version_id: "18471232"
+internal_id: "C25755841"
+label_id: "11251794"
+dtd_version: "2.0"
+original_entry_into_force: "2011-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029754/2011-01-01/0"
+intitule_bron: "Stcrt.2011-4927"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-03-08"
+intitule_published: "2011-03-23"
+intitule_in_force: "2011-03-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-4927"
+original_signed_date: "2011-03-08"
+original_published_date: "2011-03-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-4927"
+entry_into_force_date: "2011-01-01"
+jci_1_3: "jci1.3:c:BWBR0029754&z=2011-01-01&g=2011-01-01"
+jci_1_0: "1.0:c:BWBR0029754&g=2011-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "2011-03-08"
+entry_into_force: "2011-01-01"
 ---
-
 # Circulaire Werkkostenregeling Appa, vervallen gratificatie voorzitter en aanpassing procedure bij ziekte voorzitter
 
 ### 1. Inleiding

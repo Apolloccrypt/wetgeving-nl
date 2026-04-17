@@ -1,13 +1,39 @@
 ---
-title: "Warenwetbesluit Specerijen en kruiden"
+title: "Besluit van 7 april 1998, houdende het Warenwetbesluit Specerijen en kruiden"
 identifier: "BWBR0009540"
-categorie: "Bestuursrecht"
-publicatiedatum: 2016-02-19
-laatste_update: 2016-02-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009540"
+country: "nl"
+rank: "amvb"
+publication_date: "2016-02-19"
+last_updated: "2016-02-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009540"
+soort: "AMvB"
+stam_id: "796213"
+version_id: "1154272"
+internal_id: "C1154271"
+label_id: "771254"
+dtd_version: "2.0"
+original_entry_into_force: "1998-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009540/2016-02-19/0"
+intitule_bron: "Stb.1998-258"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-04-07"
+intitule_published: "1998-05-01"
+intitule_in_force: "1998-05-01"
+intitule_status: "goed"
+original_publication: "Stb.1998-258"
+original_signed_date: "1998-04-07"
+original_published_date: "1998-05-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-1998-258"
+entry_into_force_date: "1998-05-01"
+jci_1_3: "jci1.3:c:BWBR0009540&z=2016-02-19&g=2016-02-19"
+jci_1_0: "1.0:c:BWBR0009540&g=2016-02-19"
+citeertitel_status: "officieel"
+short_title: "Warenwetbesluit Specerijen en kruiden"
+signed_date: "1998-04-07"
+entry_into_force: "1998-05-01"
 ---
-
 # Besluit van 7 april 1998, houdende het Warenwetbesluit Specerijen en kruiden
 
 Op de voordracht van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 18 september 1997, nr. GZB/VVB/975145, gedaan in overeenstemming met Onze Ministers van Economische Zaken en van Landbouw, Natuurbeheer en Visserij;
@@ -20,15 +46,15 @@ Gezien het nader rapport van de Staatssecretaris van Volksgezondheid, Welzijn en
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder **specerijen** en **kruiden**: eetwaren, zijnde delen van planten die aromatisch smaken of ruiken dan wel een scherpe smaak bezitten, en die bestemd zijn om aan eet- en drinkwaren te worden toegevoegd.
 
-#### Artikel 2
+##### Artikel 2
 
 Het is verboden met gebruikmaking van de bij dit besluit aangegeven aanduidingen andere specerijen en kruiden te verhandelen dan die waaraan die aanduidingen bij dit besluit zijn voorbehouden.
 
-#### Artikel 3
+##### Artikel 3
 
 Specerijen en kruiden mogen worden aangeduid met een in onderstaande tabel bedoelde aanduiding, voor zover de desbetreffende waar voldoet aan de daarbij opgenomen eisen inzake achtereenvolgens de ten hoogste toegelaten gehaltes aan as en zand, uitgedrukt in gewichtsprocenten (%w/w), en het ten minste vereiste gehalte aan vluchtige olie, uitgedrukt in volumeprocenten (%v/w), steeds berekend op de droge stof.
 
@@ -70,19 +96,19 @@ Specerijen en kruiden mogen worden aangeduid met een in onderstaande tabel bedoe
 | vanille | Vanilla fragrans | – | – | – |
 | venkel(zaad) | Foeniculum vulgare | 9 | 2 | 1,5 |
 
-#### Artikel 4
+##### Artikel 4
 
 Als methoden van onderzoek welke bij uitsluiting beslissend zijn voor de vaststelling of al dan niet is voldaan aan de bij dit besluit gestelde regels, worden aangewezen chromatografische en andere scheidingsmethoden, organoleptische bepalingsmethoden en detectiemethoden, alsmede de daartoe door een andere lid-staat van de Europese Unie aangewezen methode.
 
-#### Artikel 5
+##### Artikel 5
 
 Het Specerijenbesluit ([Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969)) wordt ingetrokken.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit treedt in werking met ingang van 1 mei 1998.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit wordt aangehaald als: Warenwetbesluit Specerijen en kruiden.
 

@@ -1,14 +1,37 @@
 ---
-title: "Wijzigingswet Wet op het hoger onderwijs en wetenschappelijk onderzoek, enz. (decentralisatie van regelgeving op arbeidsvoorwaardelijk terrein)"
+title: "Wet van 21 december 1994, houdende wijziging van de Wet op het hoger onderwijs en wetenschappelijk onderzoek in verband met decentralisatie van regelgeving op arbeidsvoorwaardelijk terrein"
 identifier: "BWBR0007145"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2005-08-03
-laatste_update: 2005-08-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007145"
+country: "nl"
+rank: "wet"
+publication_date: "2005-08-03"
+last_updated: "2005-08-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007145"
+soort: "wet"
+stam_id: "556013"
+version_id: "20155802"
+internal_id: "C28319901"
+label_id: "540014"
+dtd_version: "2.0"
+original_entry_into_force: "1995-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007145/2005-08-03/0"
+intitule_bron: "Stb.1994-942"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-12-21"
+intitule_status: "goed"
+original_publication: "Stb.1994-942"
+original_signed_date: "1994-12-21"
+original_effect: "nieuwe-regeling"
+original_dossier: "23218"
+entry_into_force_date: "1995-01-01"
+jci_1_3: "jci1.3:c:BWBR0007145&z=2005-08-03&g=2005-08-03"
+jci_1_0: "1.0:c:BWBR0007145&g=2005-08-03"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet Wet op het hoger onderwijs en wetenschappelijk onderzoek, enz. (decentralisatie van regelgeving op arbeidsvoorwaardelijk terrein)"
+signed_date: "1994-12-21"
+entry_into_force: "1995-01-01"
 ---
-
-# Wijzigingswet Wet op het hoger onderwijs en wetenschappelijk onderzoek, enz. (decentralisatie van regelgeving op arbeidsvoorwaardelijk terrein)
+# Wet van 21 december 1994, houdende wijziging van de Wet op het hoger onderwijs en wetenschappelijk onderzoek in verband met decentralisatie van regelgeving op arbeidsvoorwaardelijk terrein
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,19 +41,19 @@ dat in verband hiermee wijziging van de [Wet op het hoger onderwijs en wetenscha
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel II
+##### Artikel II
 
 Vervallen
 
-#### Artikel III
+##### Artikel III
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel IV
+##### Artikel IV
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan, alsmede ten aanzien van de onderscheiden instellingen, verschillend kan worden gesteld.
 

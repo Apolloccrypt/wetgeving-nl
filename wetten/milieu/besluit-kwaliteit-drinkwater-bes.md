@@ -1,18 +1,43 @@
 ---
 title: "Besluit kwaliteit drinkwater BES"
 identifier: "BWBR0028642"
-categorie: "Milieu"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028642"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028642"
+soort: "AMvB-BES"
+stam_id: "10914733"
+version_id: "17898492"
+internal_id: "C24847421"
+label_id: "10889934"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028642/2010-10-10/0"
+intitule_bron: "Stb.2010-676"
+intitule_effect: "nieuw"
+intitule_signed: "2010-09-27"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-676"
+original_signed_date: "2010-09-27"
+original_published_date: "2010-10-01"
+original_effect: "nieuw"
+original_url_id: "stb-2010-676"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028642&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028642&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-27"
+entry_into_force: "2010-10-10"
 ---
-
 # Besluit kwaliteit drinkwater BES
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -20,7 +45,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. **Onze Minister:** Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit is van toepassing op:
 
@@ -30,7 +55,7 @@ Dit besluit is van toepassing op:
 
 - c. drinkwater dat in enig levensmiddelenbedrijf wordt gebruikt voor de vervaardiging, de behandeling, de conservering of het in de handel brengen van voor menselijke consumptie bestemde producten of stoffen, voor zover dit water in direct contact komt of kan komen met deze producten of stoffen.
 
-#### Artikel 3
+##### Artikel 3
 
 Bij dit besluit horen de volgende bijlagen:
 
@@ -58,11 +83,11 @@ Bij dit besluit horen de volgende bijlagen:
 
 ### Hoofdstuk 2. Regels met betrekking tot de kwaliteit
 
-#### Artikel 4
+##### Artikel 4
 
 De minimum kwaliteitseisen, bedoeld in [artikel 12, tweede lid, van de Wet drinkwater BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028180&artikel=12) zijn opgenomen in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&bijlage=A&z=2010-10-10&g=2010-10-10).
 
-#### Artikel 5
+##### Artikel 5
 
 Drinkwater voldoet op de volgende punten aan de parameters die zijn opgenomen in de onderdelen I, II en III van de tabel in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&bijlage=A&z=2010-10-10&g=2010-10-10):
 
@@ -74,11 +99,11 @@ Drinkwater voldoet op de volgende punten aan de parameters die zijn opgenomen in
 
 - d. voor water dat wordt gebruikt in een levensmiddelenbedrijf, op het punt waar het in het bedrijf wordt gebruikt.
 
-#### Artikel 6
+##### Artikel 6
 
 Indien het drinkwater aan een tappunt niet voldoet aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&hoofdstuk=2&artikel=5&z=2010-10-10&g=2010-10-10) bedoelde parameters en wordt vastgesteld dat het drinkwater bij het desbetreffende leverantiepunt van de distributeur daaraan wèl voldoet, wordt ervan uitgegaan dat het niet voldoen aan bedoelde parameters wordt veroorzaakt in het intern leidingnet.
 
-#### Artikel 7
+##### Artikel 7
 
 1. In gevallen als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&hoofdstuk=2&artikel=6&z=2010-10-10&g=2010-10-10), waarin is vastgesteld dat het niet voldoen aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&hoofdstuk=2&artikel=5&z=2010-10-10&g=2010-10-10) bedoelde parameters wordt veroorzaakt in het intern leidingnet, nemen de producenten en distributeurs in het geval van bij algemene maatregel van bestuur, nader aan te wijzen categorieën van openbare gelegenheden, voor zover zulks in hun vermogen ligt, passende maatregelen.
 
@@ -86,7 +111,7 @@ Indien het drinkwater aan een tappunt niet voldoet aan de in [artikel 5](https:/
 
 3. Tot de in het tweede lid bedoelde maatregelen kan ook behoren het toepassen van behandelingstechnieken.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Indien niet voldaan wordt aan de onderdelen II of III van de tabel in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&bijlage=A&z=2010-10-10&g=2010-10-10), kan het bestuurscollege, gehoord de toezichthouder, indien het belang van de volksgezondheid zich daartegen niet verzet en de watervoorziening in het desbetreffende gebied redelijkerwijs niet op een andere wijze kan worden voortgezet, op verzoek van de producent of distributeur ontheffing verlenen van waarden uit onderdelen II of III van de tabel in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&bijlage=A&z=2010-10-10&g=2010-10-10).
 
@@ -114,7 +139,7 @@ de periode voor ontheffing.
 
 7. In het geval, bedoeld in het zesde lid, kan het bestuurscollege op verzoek van de houder van de ontheffing besluiten tot verlenging van de periode waarvoor de ontheffing geldt. Het eerste tot en met vijfde lid is van overeenkomstige toepassing. Nadien is in uitzonderlijke gevallen op overeenkomstige wijze verlenging mogelijk.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Een besluit tot verlening van een ontheffing als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&hoofdstuk=2&artikel=8&z=2010-10-10&g=2010-10-10), of tot verlenging van de periode waarvoor de ontheffing geldt als bedoeld in artikel 8, zevende lid, omvat in ieder geval de volgende gegevens:
 
@@ -134,7 +159,7 @@ de periode voor ontheffing.
 
 3. De bepalingen van dit artikel hebben geen betrekking op water verpakt in flessen of andersoortig klein verpakkingsmateriaal.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Indien het bestuurscollege, gehoord de toezichthouder, van oordeel is dat de overschrijding van de parameterwaarde van onderdelen II of III onbeduidend is en indien herstelmaatregelen overeenkomstig [artikel 13, eerste lid, onderdeel c, van de Wet drinkwater BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028180&artikel=13), het probleem binnen maximaal dertig dagen kunnen beëindigen, is [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&hoofdstuk=2&artikel=8&z=2010-10-10&g=2010-10-10) niet van toepassing.
 
@@ -146,7 +171,7 @@ de periode voor ontheffing.
 
 ### Hoofdstuk 3. Regels met betrekking tot de waarborging van de kwaliteit
 
-#### Artikel 11
+##### Artikel 11
 
 1. De producent en de distributeur voeren met het oog op de waarborging van de kwaliteit en continuïteit van de productie en levering van drinkwater een risicoanalyse uit van de productie- en distributievoorzieningen van het drinkwater van bron tot verbruiker.
 
@@ -158,7 +183,7 @@ de periode voor ontheffing.
 
 5. Het bestuurscollege zendt een exemplaar van de risicoanalyse aan Onze Minister en aan de inspecteur.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De producent en distributeur maken op basis van de risicoanalyse een beheersplan.
 
@@ -166,7 +191,7 @@ de periode voor ontheffing.
 
 3. Het beheersplan wordt aan het bestuurscollege overgelegd.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De eigenaren en beheerders van de in [artikel 5 van de Wet drinkwater BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028180&artikel=5) genoemde locaties bemonsteren het water twee keer per jaar voor onderzoek op de aanwezigheid van legionellabacteriën. Het aantal monsterpunten is afhankelijk van het aantal tappunten in de installatie, met dien verstande dat:
 
@@ -186,17 +211,17 @@ de periode voor ontheffing.
 
 5. Indien uit de analyseresultaten blijkt dat het aantal kolonievormende eenheden legionellabacteriën per liter water in één of meer van de monsters meer dan 100 bedraagt, draagt de in het eerste lid bedoelde eigenaar of beheerder ervoor zorg dat een overeenkomstig BRL 6010 gecertificeerd bedrijf een risicoanalyse uitvoert en een beheersplan opstelt, specifiek gericht op de beheersing van het aantal legionellabacteriën. De eigenaar of beheerder voert de in het beheersplan opgenomen maatregelen uit.
 
-#### Artikel 14
+##### Artikel 14
 
 In het kader van de waarborging van de kwaliteit van het drinkwater controleert de producent of distributeur van een openbare watervoorziening de rechtstreeks of indirect op het leidingnet van zijn bedrijf aangesloten woninginstallaties, interne watervoorzieningen en interne leidingnetten op gevaar voor verontreiniging van het leidingnet van zijn bedrijf.
 
 ### Hoofdstuk 4. Regels met betrekking tot de controle van de kwaliteit
 
-#### Artikel 15
+##### Artikel 15
 
 In de [bijlagen B](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&bijlage=B&z=2010-10-10&g=2010-10-10), [C](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&bijlage=C&z=2010-10-10&g=2010-10-10), [D](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&bijlage=D&z=2010-10-10&g=2010-10-10) en [E](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&bijlage=E&z=2010-10-10&g=2010-10-10) is ter uitvoering van [artikel 12, derde lid, van de Wet drinkwater BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028180&artikel=12) opgenomen wie, waar, wanneer en op welke wijze wordt gecontroleerd ten einde vast te stellen of drinkwater voldoet aan de bij artikel 12, eerste lid, van de Wet drinkwater BES en aan de krachtens artikel 12, tweede lid, van de Wet drinkwater BES bij dit besluit gestelde eisen.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De producent of distributeur van een openbare of interne watervoorziening stelt voorafgaand aan het tijdstip van ingebruikneming van een watervoorziening een meetprogramma op dat representatief is voor de gehele productievoorziening respectievelijk het gehele waterleidingnet met in achtneming van de in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&bijlage=B&z=2010-10-10&g=2010-10-10) opgenomen tabellen I en II.
 
@@ -206,7 +231,7 @@ In de [bijlagen B](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&bijlage=B&z=2
 
 4. Voor micro-organismen, parasieten of stoffen die niet zijn genoemd in de in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&bijlage=A&z=2010-10-10&g=2010-10-10) opgenomen onderdelen I, II en III, verricht de producent of distributeur van een openbare of interne watervoorziening metingen indien er aanwijzingen zijn om aan te nemen dat deze aanwezig zijn in aantallen per volume eenheid of concentraties die nadelige gevolgen voor de volksgezondheid kunnen hebben.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De toezichthouder kan bepalen dat door hem aangegeven parameters, genoemd in tabel I van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&bijlage=B&z=2010-10-10&g=2010-10-10), frequenter worden onderzocht dan in tabel II van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&bijlage=B&z=2010-10-10&g=2010-10-10) is aangegeven. Tevens kan hij bepalen dat andere dan de in tabel I van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&bijlage=B&z=2010-10-10&g=2010-10-10) genoemde, door hem aangegeven parameters, onderzocht worden in een door hem aangegeven frequentie, indien dat naar zijn oordeel van belang is voor het verkrijgen van voldoende inzicht in de kwaliteit van het water.
 
@@ -224,7 +249,7 @@ In de [bijlagen B](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&bijlage=B&z=2
 
 4. Bij verlaging van de frequentie bedraagt het aantal te nemen monsters ten minste de helft van de in tabel II van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&bijlage=B&z=2010-10-10&g=2010-10-10) genoemde aantallen, tenzij de toezichthouder in een bijzonder geval oordeelt dat met een nog lagere frequentie kan worden volstaan.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De producent of distributeur van een openbare of interne watervoorziening die drinkwater van een ander betrekt teneinde dit zonder behandeling aan derden ter beschikking te stellen, onderzoekt dit ter plaatse waar hij dit water betrekt overeenkomstig de tabellen I en II, opgenomen in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&bijlage=B&z=2010-10-10&g=2010-10-10). Indien in dit geval drinkwater wordt betrokken van een andere openbare watervoorziening kan de toezichthouder toestaan dat bedoeld onderzoek op andere, door hem aan te geven wijze wordt uitgevoerd.
 
@@ -238,7 +263,7 @@ In de [bijlagen B](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&bijlage=B&z=2
 
 6. Het bepaalde in het derde, vierde en vijfde lid, geschiedt overeenkomstig de richtlijnen die zijn opgenomen in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&bijlage=E&z=2010-10-10&g=2010-10-10).
 
-#### Artikel 19
+##### Artikel 19
 
 1. De producent of distributeur, neemt bij het opstellen van het meetprogramma, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&hoofdstuk=4&artikel=16&z=2010-10-10&g=2010-10-10), eerste lid, tevens tabel III van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&bijlage=B&z=2010-10-10&g=2010-10-10) in acht.
 
@@ -256,11 +281,11 @@ In de [bijlagen B](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&bijlage=B&z=2
 
 - c. andere dan in tabel III van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&bijlage=B&z=2010-10-10&g=2010-10-10) genoemde, door hem aangegeven parameters, onderzocht worden indien dat naar zijn oordeel van belang is voor het verkrijgen van voldoende inzicht in de kwaliteit van het water.
 
-#### Artikel 20
+##### Artikel 20
 
 De producent of distributeur houdt de in [artikelen 16 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&hoofdstuk=4&artikel=16&z=2010-10-10&g=2010-10-10) bedoelde resultaten van de aldaar bedoelde onderzoeken gedurende vijf jaar onder zich.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Bij het uitvoeren van onderzoek als bedoeld in de [artikelen 16 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&hoofdstuk=4&artikel=16&z=2010-10-10&g=2010-10-10) worden de specificaties, genoemd in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&bijlage=D&z=2010-10-10&g=2010-10-10), in acht genomen. Voor de in tabel I van bijlage D genoemde parameters worden de aldaar genoemde analysemethoden toegepast.
 
@@ -268,7 +293,7 @@ De producent of distributeur houdt de in [artikelen 16 tot en met 19](https://we
 
 3. Voor de in tabel II van [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&bijlage=D&z=2010-10-10&g=2010-10-10) genoemde parameters worden bij de analyse de daar vermelde prestatiekenmerken in acht genomen.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De auditmonstername, bedoeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&bijlage=B&z=2010-10-10&g=2010-10-10), geschiedt onder verantwoordelijkheid van het door Onze Minister aangewezen laboratorium.
 
@@ -280,15 +305,15 @@ De producent of distributeur houdt de in [artikelen 16 tot en met 19](https://we
 
 ### Hoofdstuk 5. Voorschriften voor laboratoria
 
-#### Artikel 23
+##### Artikel 23
 
 Het analyseren van monsters, voorgeschreven in dit besluit, geschiedt uitsluitend door een laboratorium dat een kwaliteitsborgingsysteem hanteert dat minimaal gebaseerd is op ISO-norm 17025 of een gelijkwaardige norm en die daarvoor overeenkomstig die norm geaccrediteerd zijn.
 
-#### Artikel 24
+##### Artikel 24
 
 Een gelijkwaardige norm als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&hoofdstuk=5&artikel=23&z=2010-10-10&g=2010-10-10) wordt uitsluitend toegepast na daartoe verkregen toestemming van Onze Minister, gehoord de inspecteur. Bij de aanvraag worden alle gegevens die voor de beoordeling van de gelijkwaardigheid met de bedoelde norm relevant zijn, in de door de inspecteur aangegeven vorm aan hem overgelegd.
 
-#### Artikel 25
+##### Artikel 25
 
 Een aangewezen laboratorium als bedoeld in [artikel 14, eerste lid, van de Wet drinkwater BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028180&artikel=14), neemt hetgeen in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&bijlage=D&z=2010-10-10&g=2010-10-10) van dit besluit is opgenomen in acht.
 
@@ -296,17 +321,17 @@ Een aangewezen laboratorium als bedoeld in [artikel 14, eerste lid, van de Wet d
 
 #### § 1. Gezondheid
 
-#### Artikel 26
+##### Artikel 26
 
 De producent of distributeur draagt de in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&hoofdstuk=6&paragraaf=1&artikel=27&z=2010-10-10&g=2010-10-10) bedoelde personeelsleden niet op, de in dat lid bedoelde werkzaamheden te verrichten, noch laat hij toe, dat zodanige personen deze werkzaamheden verrichten, indien het voorgeschreven geneeskundig onderzoek niet heeft plaatsgehad.
 
-#### Artikel 27
+##### Artikel 27
 
 1. De producent en distributeur dragen zorg dat een arts is belast met het periodieke geneeskundige onderzoek van die leden van het personeel bij zijn bedrijf, die geregeld werkzaamheden verrichten bij aanleg, herstel, onderhoud of controle van middelen tot behandeling, opslag, vervoer of distributie van drinkwater, voor zover zij bij het verrichten van deze werkzaamheden middellijk of onmiddellijk het drinkwater kunnen besmetten.
 
 2. Bij verschil van inzicht tussen de producent en distributeur en de arts, bedoeld in het eerste lid, omtrent de beantwoording van de vraag of een lid van het personeel ingevolge het bepaalde in het eerste lid aan geneeskundig onderzoek moet worden onderworpen, beslist de inspecteur.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Het geneeskundige onderzoek, bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&hoofdstuk=6&paragraaf=1&artikel=27&z=2010-10-10&g=2010-10-10), dat wordt verricht in verband met de indiensttreding of eerste tewerkstelling van personeelsleden voor werkzaamheden, als bedoeld in artikel 27, eerste lid, omvat:
 
@@ -324,7 +349,7 @@ De producent of distributeur draagt de in [artikel 27](https://wetten.overheid.n
 
 4. Het geneeskundig onderzoek, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&hoofdstuk=6&paragraaf=1&artikel=27&z=2010-10-10&g=2010-10-10), dat wordt verricht met betrekking tot de personeelsleden, anders dan in de gevallen, bedoeld in het eerste en tweede lid, omvat zodanige onderzoekingen, als de inspecteur nodig oordeelt. De inspecteur kan bepalen, dat deze onderzoekingen meermalen of periodiek worden verricht.
 
-#### Artikel 29
+##### Artikel 29
 
 1. De producent of distributeur houdt een register, waarin de namen, geboortedata, woonplaatsen, adressen en functies zijn vermeld van de leden van het personeel van zijn bedrijf, tot wier taak behoort werkzaamheden als bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&hoofdstuk=6&paragraaf=1&artikel=27&z=2010-10-10&g=2010-10-10), te verrichten.
 
@@ -332,7 +357,7 @@ De producent of distributeur draagt de in [artikel 27](https://wetten.overheid.n
 
 3. De producent of distributeur stelt de toezichthouder in kennis van de naam, de woonplaats en het adres van degene, die ingevolge [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&hoofdstuk=6&paragraaf=1&artikel=27&z=2010-10-10&g=2010-10-10), met het geneeskundige onderzoek is belast.
 
-#### Artikel 30
+##### Artikel 30
 
 Degene die belast is met het geneeskundige onderzoek, is verplicht:
 
@@ -340,7 +365,7 @@ Degene die belast is met het geneeskundige onderzoek, is verplicht:
 
 - b. aan de toezichthouder alle door deze met betrekking tot het geneeskundige onderzoek gevraagde inlichtingen te verstrekken.
 
-#### Artikel 31
+##### Artikel 31
 
 1. De producent of distributeur kan tegen een beslissing als bedoeld in de [artikelen 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&hoofdstuk=6&paragraaf=1&artikel=27&z=2010-10-10&g=2010-10-10) en [28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&hoofdstuk=6&paragraaf=1&artikel=28&z=2010-10-10&g=2010-10-10), onder b, derde lid, onder b, en vierde lid, bij Onze Minister administratief beroep instellen. Het beroep schorst de verplichting tot het voldoen aan de beslissing, tenzij de inspecteur daarbij heeft bepaald, dat zij ongeacht beroep moet worden uitgevoerd.
 
@@ -348,25 +373,25 @@ Degene die belast is met het geneeskundige onderzoek, is verplicht:
 
 #### § 2. Hygiëne
 
-#### Artikel 32
+##### Artikel 32
 
 De producenten en distributeurs dragen zorg voor het opstellen, regelmatig voorlichten en hanteren van hygiënische richtlijnen voor het personeel, dat geregeld werkzaamheden verricht bij aanleg, herstel, onderhoud of controle van middelen tot behandeling, opslag, vervoer of distributie van drinkwater, voor zover zij bij het verrichten van deze werkzaamheden middellijk of onmiddellijk het drinkwater kunnen besmetten.
 
 #### § 3. Deskundigheid
 
-#### Artikel 33
+##### Artikel 33
 
 De producenten en distributeurs dragen zorg dat het personeel met het oog op het waarborgen van de productie en distributie van drinkwater dat voldoet aan het gestelde in [artikel 12, eerste en tweede lid, van de Wet drinkwater BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028180&artikel=12), over de benodigde deskundigheid beschikt.
 
 #### § 4. Derden
 
-#### Artikel 34
+##### Artikel 34
 
 Het in de [artikelen 26 tot en met 33](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&hoofdstuk=6&paragraaf=1&artikel=26&z=2010-10-10&g=2010-10-10) bepaalde is van overeenkomstige toepassing in geval bij het verrichten van de werkzaamheden gebruikt gemaakt wordt van aannemers of onderaannemers.
 
 ### Hoofdstuk 7. Voorschriften met betrekking tot materialen en chemicaliën
 
-#### Artikel 35
+##### Artikel 35
 
 1. Onverminderd het bepaalde in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&hoofdstuk=2&z=2010-10-10&g=2010-10-10), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&hoofdstuk=3&z=2010-10-10&g=2010-10-10) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&hoofdstuk=4&z=2010-10-10&g=2010-10-10) draagt de producent of distributeur zorg dat de materialen en chemicaliën die gebruikt worden bij de winning, bereiding, de behandeling, de opslag, het transport of de distributie van drinkwater en de wijze waarop deze worden toegepast, er niet toe leiden dat deze materialen en chemicaliën:
 
@@ -378,7 +403,7 @@ Het in de [artikelen 26 tot en met 33](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 3. Het eerste en tweede lid zijn niet van toepassing voor zover bij de distributie van drinkwater te gebruiken materialen deel uitmaken van een gebouw.
 
-#### Artikel 36
+##### Artikel 36
 
 1. Aan de in [artikel 35, eerste lid, onder b, en tweede lid juncto het eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&hoofdstuk=7&artikel=35&z=2010-10-10&g=2010-10-10), gestelde eis wordt voldaan voorzover het betreft materialen en chemicaliën:
 
@@ -390,11 +415,11 @@ Het in de [artikelen 26 tot en met 33](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 ### Hoofdstuk 8. Voorschriften met betrekking tot rapportage
 
-#### Artikel 37
+##### Artikel 37
 
 Voor de verplichting, bedoeld in [artikel 13, eerste lid, onderdeel b, van de Wet drinkwater BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028180&artikel=13), geldt voor de in onderdeel III van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&bijlage=A&z=2010-10-10&g=2010-10-10) opgenomen parameters een rapportageplicht aan de toezichthouder direct na drie gemeten normafwijkingen binnen een periode van een week. Bij continue meting van de parameter geschiedt de melding bij gemeten overschrijding op drie verschillende dagen binnen een week.
 
-#### Artikel 38
+##### Artikel 38
 
 1. De producent of distributeur belast met de drinkwatervoorziening geeft in de eerste maand van elk nieuw kwartaal een systematisch overzicht van de resultaten van de metingen, bedoeld in de [artikelen 16 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&hoofdstuk=4&artikel=16&z=2010-10-10&g=2010-10-10), het optreden van incidenten en calamiteiten, de wijze van handelen na het constateren van deze calamiteiten van het voorgaande kwartaal. De toezichthouder kan aangeven in welke vorm dat dient te geschieden.
 
@@ -402,7 +427,7 @@ Voor de verplichting, bedoeld in [artikel 13, eerste lid, onderdeel b, van de We
 
 ### Hoofdstuk 9. Voorschriften met betrekking tot de voorlichting door de producenten en distributeurs van drinkwater aan hun afnemers en gebruikers
 
-#### Artikel 39
+##### Artikel 39
 
 1. In de gevallen, waarin het bestuurscollege ontheffing als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&hoofdstuk=2&artikel=8&z=2010-10-10&g=2010-10-10) verleent, wordt hiervan openbare kennisgeving gedaan in één of meer plaatselijke dagbladen en voorts op de voor publicatie van officiële mededelingen gebruikelijke wijze.
 
@@ -414,37 +439,37 @@ bij regulier onderhoud: de gebruikers minimaal twee dagen vooraf te worden gewaa
 
 bij onvoorziene omstandigheden inzake het onderhoud: de gebruikers zo snel en adequaat mogelijk, bijvoorbeeld via de media, te worden geïnformeerd.
 
-#### Artikel 40
+##### Artikel 40
 
 De producent of distributeur, die op grond van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&hoofdstuk=4&artikel=16&z=2010-10-10&g=2010-10-10) verplicht is tot het opstellen van een meetprogramma, stelt jaarlijks voor 1 april een overzicht op van de kwaliteit van het door hem geleverde drinkwater in het voorgaande kalenderjaar, dat bedoeld is voor afnemers en gebruikers. Dit overzicht is openbaar en ligt ter inzage op een voor een ieder toegankelijke plaats.
 
 ### Hoofdstuk 10. Overgangs- en slotbepalingen
 
-#### Artikel 41
+##### Artikel 41
 
 Dit besluit berust op [artikel 12, vierde lid, van de Wet drinkwater BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028180&artikel=12) en [artikel 3, eerste en tweede lid, van de Warenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&artikel=3).
 
-#### Artikel 42
+##### Artikel 42
 
 Dit besluit wordt aangehaald als: Besluit kwaliteit drinkwater BES.
 
-#### Artikel 43
+##### Artikel 43
 
 [vervallen]
 
-#### Artikel 44
+##### Artikel 44
 
 [vervallen]
 
-#### Artikel 45
+##### Artikel 45
 
 [vervallen]
 
-#### Artikel 46
+##### Artikel 46
 
 [vervallen]
 
-#### Artikel 47
+##### Artikel 47
 
 [vervallen]
 

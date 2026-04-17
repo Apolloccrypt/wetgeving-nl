@@ -1,13 +1,39 @@
 ---
-title: "Besluit slachtoffers van strafbare feiten"
+title: "Besluit van 24 augustus 2016, houdende regels voor de rechten, de ondersteuning en de bescherming van slachtoffers van strafbare feiten (Besluit slachtoffers van strafbare feiten)"
 identifier: "BWBR0038468"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-07-01
-laatste_update: 2022-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038468"
+country: "nl"
+rank: "amvb"
+publication_date: "2022-07-01"
+last_updated: "2022-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038468"
+soort: "AMvB"
+stam_id: "13741993"
+version_id: "23553852"
+internal_id: "C34525201"
+label_id: "13708414"
+dtd_version: "2.0"
+original_entry_into_force: "2017-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038468/2022-07-01/0"
+intitule_bron: "Stb.2016-310"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-08-24"
+intitule_published: "2016-09-05"
+intitule_in_force: "2017-03-31"
+intitule_status: "goed"
+original_publication: "Stb.2016-310"
+original_signed_date: "2016-08-24"
+original_published_date: "2016-09-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2016-310"
+entry_into_force_date: "2017-04-01"
+jci_1_3: "jci1.3:c:BWBR0038468&z=2022-07-01&g=2022-07-01"
+jci_1_0: "1.0:c:BWBR0038468&g=2022-07-01"
+citeertitel_status: "officieel"
+short_title: "Besluit slachtoffers van strafbare feiten"
+signed_date: "2016-08-24"
+entry_into_force: "2017-04-01"
 ---
-
 # Besluit van 24 augustus 2016, houdende regels voor de rechten, de ondersteuning en de bescherming van slachtoffers van strafbare feiten (Besluit slachtoffers van strafbare feiten)
 
 Op de voordracht van Onze Minister van Veiligheid en Justitie van 6 juni 2016, nr. 768965, directie Wetgeving en Juridische Zaken;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Definities
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -40,7 +66,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Instellingen voor slachtofferhulp
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het slachtoffer heeft, rekening houdend met zijn behoeften, voor, tijdens en gedurende een passende termijn na het strafproces kosteloos toegang tot slachtofferhulporganisaties.
 
@@ -50,7 +76,7 @@ In deze regeling wordt verstaan onder:
 
 4. De beschikbaarheid van slachtofferhulp, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038468&hoofdstuk=2&artikel=3&z=2022-07-01&g=2022-07-01), is niet afhankelijk van het doen van aangifte door het slachtoffer van een strafbaar feit.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De slachtofferhulporganisaties zorgen ten minste voor:
 
@@ -68,13 +94,13 @@ In deze regeling wordt verstaan onder:
 
 3. De slachtofferhulporganisaties voeren de taken uit overeenkomstig de bepalingen van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038468&hoofdstuk=2&artikel=2&z=2022-07-01&g=2022-07-01) en 3 van dit besluit.
 
-#### Artikel 4
+##### Artikel 4
 
 Bij ministeriële regeling kunnen nadere voorschriften worden gegeven betreffende de toegang bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038468&hoofdstuk=2&artikel=2&z=2022-07-01&g=2022-07-01) van slachtoffers en hun familieleden tot instellingen voor slachtofferhulp, de voorwaarden voor deze toegang, organisatie en werkzaamheden van instellingen voor slachtofferhulp.
 
 ### Hoofdstuk 3. Informatie over rechten en voorzieningen
 
-#### Artikel 5
+##### Artikel 5
 
 De opsporingsambtenaar of andere ambtenaar van een organisatie die opsporing van strafbare feiten tot taak heeft, verstrekt het slachtoffer bij zijn eerste contact met de betrokken opsporingsambtenaar onverwijld informatie betreffende:
 
@@ -100,25 +126,25 @@ De opsporingsambtenaar of andere ambtenaar van een organisatie die opsporing van
 
 - k. de wijze waarop het slachtoffer de kosten als gevolg van zijn deelname aan de strafprocedure vergoed kan krijgen en de hierbij geldende voorwaarden.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De omvang en gedetailleerdheid van de informatie, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038468&hoofdstuk=3&artikel=5&z=2022-07-01&g=2022-07-01), kan verschillen afhankelijk van de specifieke behoeften en persoonlijke omstandigheden van het slachtoffer en de aard van het strafbare feit.
 
 2. Afhankelijk van de behoeften van het slachtoffer en het belang van dergelijke informatie in iedere fase van het strafproces, kan de opsporingsambtenaar in een later stadium meer gedetailleerde informatie dan genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038468&hoofdstuk=3&artikel=5&z=2022-07-01&g=2022-07-01), aan het slachtoffer verstrekken.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Er worden passende maatregelen genomen om het slachtoffer bij zijn contacten met autoriteiten in het kader van het strafproces, indien nodig, te helpen om deze autoriteiten te begrijpen en zelf als slachtoffer te worden begrepen.
 
 2. Indien de informatie als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038468&hoofdstuk=3&artikel=5&z=2022-07-01&g=2022-07-01) wordt verstrekt en het slachtoffer de Nederlandse taal niet of onvoldoende begrijpt, dan wordt op verzoek van het slachtoffer deze informatie verstrekt in een taal die het slachtoffer begrijpt of wordt hem de nodige taalkundige bijstand geboden.
 
-#### Artikel 8
+##### Artikel 8
 
 Bij ministeriële regeling worden nadere voorschriften gegeven betreffende de inhoud en wijze van verstrekking van de informatie, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038468&hoofdstuk=3&artikel=5&z=2022-07-01&g=2022-07-01), de omvang en gedetailleerdheid van de informatie, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0038468&hoofdstuk=3&artikel=6&z=2022-07-01&g=2022-07-01) en de maatregelen, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0038468&hoofdstuk=3&artikel=7&z=2022-07-01&g=2022-07-01).
 
 ### Hoofdstuk 4. Maatregelen tot bescherming
 
-#### Artikel 9
+##### Artikel 9
 
 1. Tijdens het voorbereidend onderzoek en het onderzoek ter terechtzitting:
 
@@ -140,7 +166,7 @@ Bij ministeriële regeling worden nadere voorschriften gegeven betreffende de in
 
 ### Hoofdstuk 5. Individuele beoordeling, specifieke beschermingsbehoeften, bijzondere maatregelen en minderjarigen
 
-#### Artikel 10
+##### Artikel 10
 
 1. De opsporingsambtenaar, of andere ambtenaar van een organisatie die opsporing van strafbare feiten tot taak heeft, zorgt ervoor dat het slachtoffer, tijdens of zo spoedig mogelijk na het eerste contact, een tijdige en individuele beoordeling krijgt om specifieke beschermingsbehoeften te onderkennen en om te bepalen of en in welke mate het slachtoffer tijdens het strafproces en de tenuitvoerlegging van strafrechtelijke beslissingen van bijzondere maatregelen gebruik moet kunnen maken, gelet op zijn bijzondere kwetsbaarheid voor secundaire en herhaalde victimisatie, voor intimidatie en voor vergelding.
 
@@ -168,7 +194,7 @@ Bij ministeriële regeling worden nadere voorschriften gegeven betreffende de in
 
 7. Bij ministeriële regeling kunnen nadere voorschriften worden gegeven betreffende de toepassing van de individuele beoordeling.
 
-#### Artikel 11
+##### Artikel 11
 
 Tijdens het voorbereidend onderzoek en het onderzoek ter terechtzitting kunnen de volgende maatregelen worden genomen voor het overeenkomstig [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038468&hoofdstuk=5&artikel=10&z=2022-07-01&g=2022-07-01), geïdentificeerde slachtoffer met specifieke beschermingsbehoeften:
 
@@ -180,7 +206,7 @@ Tijdens het voorbereidend onderzoek en het onderzoek ter terechtzitting kunnen d
 
 - d. alle verhoren van het slachtoffer van seksueel geweld, gender-gerelateerd geweld of geweld in hechte relaties worden, tenzij hij door een officier van justitie of een rechter wordt ondervraagd, indien het slachtoffer dat wenst, gedaan door een persoon van hetzelfde geslacht als het slachtoffer, mits dit geen afbreuk doet aan het verloop van het voorbereidend onderzoek en het onderzoek ter terechtzitting.
 
-#### Artikel 12
+##### Artikel 12
 
 Tijdens het onderzoek ter terechtzitting kunnen de volgende maatregelen worden genomen voor het overeenkomstig [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038468&hoofdstuk=5&artikel=10&z=2022-07-01&g=2022-07-01), geïdentificeerde slachtoffer met specifieke beschermingsbehoeften:
 
@@ -190,13 +216,13 @@ Tijdens het onderzoek ter terechtzitting kunnen de volgende maatregelen worden g
 
 - c. de rechter beveelt behandeling met gesloten deuren overeenkomstig [artikel 269 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=269).
 
-#### Artikel 13
+##### Artikel 13
 
 1. Minderjarige slachtoffers worden beschouwd als slachtoffers met specifieke beschermingsbehoeften. Zij krijgen een individuele beoordeling als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038468&hoofdstuk=5&artikel=10&z=2022-07-01&g=2022-07-01), teneinde te bepalen of en in welke mate zij in aanmerking komen voor bijzondere maatregelen, als bedoeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0038468&hoofdstuk=5&artikel=11&z=2022-07-01&g=2022-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0038468&hoofdstuk=5&artikel=12&z=2022-07-01&g=2022-07-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0038468&hoofdstuk=5&artikel=14&z=2022-07-01&g=2022-07-01).
 
 2. Indien er onzekerheid bestaat over de leeftijd van een slachtoffer en er voldoende reden is om aan te nemen dat het slachtoffer minderjarig is, dan wordt het slachtoffer voor de toepassing van dit besluit verondersteld minderjarig te zijn.
 
-#### Artikel 14
+##### Artikel 14
 
 Als het slachtoffer minderjarig is dan kunnen, naast de maatregelen bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0038468&hoofdstuk=5&artikel=11&z=2022-07-01&g=2022-07-01), de volgende maatregelen worden getroffen, voor het voorbereidend onderzoek en het onderzoek ter terechtzitting:
 
@@ -206,13 +232,13 @@ Als het slachtoffer minderjarig is dan kunnen, naast de maatregelen bedoeld in [
 
 - c. indien er een belangenconflict is of kan bestaan tussen het minderjarige slachtoffer en de personen die het ouderlijk gezag of de voogdij uitoefenen, komt het recht op bijstand en op vertegenwoordiging door een advocaat toe aan het minderjarige slachtoffer, overeenkomstig [artikel 51c, tweede en derde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=51c).
 
-#### Artikel 15
+##### Artikel 15
 
 1. Bij het horen van een minderjarig slachtoffer worden de leeftijd en het ontwikkelingsniveau van de minderjarige op passende wijze in aanmerking genomen.
 
 2. Het minderjarige slachtoffer of zijn wettelijk vertegenwoordiger of bijzondere curator, als bedoeld in [artikel 250 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=250), worden geïnformeerd over alle rechten en maatregelen die specifiek verband houden met het minderjarige slachtoffer.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De maatregelen bedoeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0038468&hoofdstuk=5&artikel=11&z=2022-07-01&g=2022-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0038468&hoofdstuk=5&artikel=12&z=2022-07-01&g=2022-07-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0038468&hoofdstuk=5&artikel=14&z=2022-07-01&g=2022-07-01) worden alleen genomen indien hierdoor de rechten van de verdediging niet worden geschaad.
 
@@ -228,11 +254,11 @@ het slachtoffer zelf of een derde schade kan lijden of afbreuk kan worden gedaan
 
 ### Hoofdstuk 6. Herstelrechtvoorzieningen
 
-#### Artikel 17
+##### Artikel 17
 
 Bij de toepassing van herstelrechtvoorzieningen, bedoeld in [artikel 51h van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=51h), worden maatregelen getroffen om slachtoffers te vrijwaren van secundaire en herhaalde victimisatie, van intimidatie en van vergelding.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De herstelrechtvoorzieningen, bedoeld in [artikel 51h van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=51h), worden toegepast onder de volgende voorwaarden:
 
@@ -250,17 +276,17 @@ Bij de toepassing van herstelrechtvoorzieningen, bedoeld in [artikel 51h van de 
 
 ### Hoofdstuk 7. Inwerkingtreding en citeertitel
 
-#### Artikel 19
+##### Artikel 19
 
 Deze regeling treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 20
+##### Artikel 20
 
 Deze regeling wordt aangehaald als: Besluit slachtoffers van strafbare feiten.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 5a
+##### Artikel 5a
 
 De ambtenaar, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038468&hoofdstuk=3&artikel=5&z=2022-07-01&g=2022-07-01), verstrekt aan een slachtoffer van een strafbaar feit dat is gepleegd door middel van misbruik van zijn persoonsgegevens informatie over manieren om zichzelf tegen de negatieve gevolgen daarvan te beschermen en instellingen die zich met verschillende aspecten van dergelijke misdrijven en ondersteuning aan slachtoffers bezighouden.
 

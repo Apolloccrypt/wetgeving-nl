@@ -1,13 +1,39 @@
 ---
-title: "Inkomstenbelasting,vennootschapsbelasting, fiscale behandeling van aanspraken van medisch specialisten op een transitiefonds"
+title: "Inkomstenbelasting, vennootschapsbelasting, fiscale behandeling van aanspraken van medisch specialisten op een transitiefonds"
 identifier: "BWBR0035619"
-categorie: "Belastingrecht"
-publicatiedatum: 2014-10-10
-laatste_update: 2014-10-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035619"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2014-10-10"
+last_updated: "2014-10-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035619"
+soort: "beleidsregel"
+stam_id: "12811953"
+version_id: "21759352"
+internal_id: "C31233901"
+label_id: "12781724"
+dtd_version: "2.0"
+original_entry_into_force: "2014-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035619/2014-10-10/0"
+intitule_bron: "Stcrt.2014-28591"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-10-02"
+intitule_published: "2014-10-09"
+intitule_in_force: "2014-10-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-28591"
+original_signed_date: "2014-10-02"
+original_published_date: "2014-10-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-28591"
+entry_into_force_date: "2014-10-10"
+jci_1_3: "jci1.3:c:BWBR0035619&z=2014-10-10&g=2014-10-10"
+jci_1_0: "1.0:c:BWBR0035619&g=2014-10-10"
+citeertitel_status: "redactioneel"
+short_title: "Inkomstenbelasting,vennootschapsbelasting, fiscale behandeling van aanspraken van medisch specialisten op een transitiefonds"
+signed_date: "2014-10-02"
+entry_into_force: "2014-10-10"
 ---
-
 # Inkomstenbelasting, vennootschapsbelasting, fiscale behandeling van aanspraken van medisch specialisten op een transitiefonds
 
 De Staatssecretaris van Financiën heeft het volgende besloten.

@@ -1,18 +1,43 @@
 ---
 title: "Beleidsregel kaders medewerking defensie aan (defensie-) schietverenigingen, studentenweerbaarheidsverenigingen en defensieschietteams"
 identifier: "BWBR0047947"
-categorie: "Onderwijs"
-publicatiedatum: 2023-03-07
-laatste_update: 2023-03-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047947"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2023-03-07"
+last_updated: "2023-03-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047947"
+soort: "beleidsregel"
+stam_id: "16690423"
+version_id: "29277112"
+internal_id: "C41700201"
+label_id: "16607774"
+dtd_version: "2.0"
+original_entry_into_force: "2023-03-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047947/2023-03-07/0"
+intitule_bron: "Stcrt.2023-7047"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-02-17"
+intitule_published: "2023-03-06"
+intitule_in_force: "2023-03-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-7047"
+original_signed_date: "2023-02-17"
+original_published_date: "2023-03-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-7047"
+entry_into_force_date: "2023-03-07"
+jci_1_3: "jci1.3:c:BWBR0047947&z=2023-03-07&g=2023-03-07"
+jci_1_0: "1.0:c:BWBR0047947&g=2023-03-07"
+citeertitel_status: "officieel"
+signed_date: "2023-02-17"
+entry_into_force: "2023-03-07"
 ---
-
 # Beleidsregel kaders medewerking defensie aan (defensie-) schietverenigingen, studentenweerbaarheidsverenigingen en defensieschietteams
 
 Besluit:
 
-#### Artikel 1. algemene begripsbepalingen
+##### Artikel 1. algemene begripsbepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -28,7 +53,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - f. **defensieschietteam:** een door een hoofd defensieonderdeel aangewezen team van militaire sportschutters die zich hebben bekwaamd op een of meer wapens en in dit kader deelnemen aan schietsportwedstrijden.
 
-#### Artikel 2. medewerking aan een defensieschietvereniging
+##### Artikel 2. medewerking aan een defensieschietvereniging
 
 1. Door het Ministerie van Defensie kan medewerking worden verleend aan een defensieschietvereniging om bij het Ministerie van Defensie in gebruik zijnde schietbanen dan wel schietterreinen te gebruiken. Medewerking kan slechts plaatsvinden indien er restcapaciteit beschikbaar is en nadat daartoe conform de procedure, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0047947&artikel=6&z=2023-03-07&g=2023-03-07), toestemming is verleend. Het hoofd defensieonderdeel of een door deze aangewezen onderschikte kan schriftelijk toestemmen dat wapens, toebehoren, aanvullende uitrusting of ander materiaal voor de duur van het schieten in gebruik worden gegeven. Aan de toestemming, bedoeld in de vorige volzin kunnen voorwaarden worden verbonden.
 
@@ -44,7 +69,7 @@ In deze beleidsregel wordt verstaan onder:
 
 3. In gebruik gegeven wapens, toebehoren, aanvullende uitrusting of ander materiaal worden niet meegenomen buiten defensieterreinen.
 
-#### Artikel 3. medewerking aan een studentenweerbaarheidsvereniging
+##### Artikel 3. medewerking aan een studentenweerbaarheidsvereniging
 
 1. Door het Ministerie van Defensie kan medewerking worden verleend aan een studentenweerbaarheidsvereniging om bij het Ministerie van Defensie in gebruik zijnde schietbanen dan wel schietterreinen te gebruiken. Medewerking kan slechts plaatsvinden indien er restcapaciteit beschikbaar is en nadat daartoe conform de procedure, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0047947&artikel=6&z=2023-03-07&g=2023-03-07), toestemming is verleend. De Commandant Landstrijdkrachten of een door deze aangewezen onderschikte kan schriftelijk toestemmen dat wapens, toebehoren, aanvullende uitrusting of ander materiaal voor de duur van het schieten dan wel de ceremoniële activiteit in gebruik worden gegeven. Aan de toestemming, bedoeld in de vorige volzin kunnen voorwaarden worden verbonden.
 
@@ -62,7 +87,7 @@ In deze beleidsregel wordt verstaan onder:
 
 4. In gebruik gegeven wapens, toebehoren, aanvullende uitrusting of ander materiaal worden niet meegenomen buiten defensieterreinen. Dit lid is niet van toepassing op onklaar gemaakte wapens, toebehoren, aanvullende uitrusting of ander materiaal ten behoeve van ceremonieel gebruik. Indien de in de tweede volzin bedoelde wapens, toebehoren, aanvullende uitrusting of ander materiaal in gebruik worden gegeven voor ceremonieel gebruik buiten defensieterreinen draagt het Commando Landstrijdkrachten er voor zorg dat de voorwaarde wordt gesteld dat genoemd materieel op eerste aanwijzing door of namens de Commandant Landstrijdkrachten, onverwijld wordt ingeleverd bij de functionaris van wie dit materieel is ontvangen.
 
-#### Artikel 4. medewerking aan een KNSA-schietvereniging
+##### Artikel 4. medewerking aan een KNSA-schietvereniging
 
 1. Door het Ministerie van Defensie kan medewerking worden verleend aan een KNSA-schietvereniging om bij het Ministerie van Defensie in gebruik zijnde schietbanen dan wel schietterreinen te gebruiken. Medewerking kan slechts plaatsvinden indien er restcapaciteit beschikbaar is en nadat daartoe conform de procedure, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0047947&artikel=6&z=2023-03-07&g=2023-03-07), toestemming is verleend. Door het Ministerie van Defensie worden géén wapens, toebehoren, aanvullende uitrusting of ander materiaal in gebruik gegeven of anderszins ter beschikking gesteld.
 
@@ -76,7 +101,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - d. KNSA-schietverenigingen.
 
-#### Artikel 5. medewerking aan een defensieschietteam
+##### Artikel 5. medewerking aan een defensieschietteam
 
 1. Door het Ministerie van Defensie kan in het kader van de militaire schietsport medewerking worden verleend aan een defensieschietteam om bij het Ministerie van Defensie in gebruik zijnde schietbanen dan wel schietterreinen te gebruiken. Door het Ministerie van Defensie kunnen wapens, toebehoren, aanvullende uitrusting of ander materiaal in gebruik worden gegeven.
 
@@ -88,7 +113,7 @@ In deze beleidsregel wordt verstaan onder:
 
 5. De toestemming, bedoeld in het derde lid, kan op ieder moment worden ingetrokken. Van een verleende toestemming tot opslag buiten defensieterreinen wordt mededeling gedaan aan de Koninklijke marechaussee en de Nationale politie.
 
-#### Artikel 6. procedure intern Defensie verzoek medegebruik schietbaan
+##### Artikel 6. procedure intern Defensie verzoek medegebruik schietbaan
 
 1. Een verzoek tot het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047947&artikel=2&z=2023-03-07&g=2023-03-07), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0047947&artikel=3&z=2023-03-07&g=2023-03-07) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0047947&artikel=4&z=2023-03-07&g=2023-03-07) genoemde medegebruik van een bij het Ministerie van Defensie in gebruik zijnde schietbaan of schietterrein wordt ingediend bij de onder de Commandant der Strijdkrachten ressorterende Directeur Aansturing Operationele Gereedheid. Laatstgenoemde functionaris treedt in overleg met het defensieonderdeel waaronder de schietbaan of het schietterrein valt en kan in voorkomend geval het betrokken defensieonderdeel verzoeken de behandeling over te nemen.
 
@@ -96,23 +121,23 @@ In deze beleidsregel wordt verstaan onder:
 
 3. Het schieten door een vereniging op een bij het Ministerie van Defensie in gebruik zijnde schietbaan, of schietterrein geschiedt onder leiding van een door de beheerder van de schietbaan of het schietterrein waar een schietvereniging medewerking vraagt, aangewezen militair of verenigingsfunctionaris die is belast met de leiding van de schietoefeningen, en met in achtneming van alle regels en voorschriften.
 
-#### Artikel 7. verantwoordelijkheid naleving beleidsregel
+##### Artikel 7. verantwoordelijkheid naleving beleidsregel
 
 De verantwoordelijkheid voor de naleving van deze beleidsregel berust bij het hoofd defensieonderdeel.
 
-#### Artikel 8. controle naleving beleidsregel
+##### Artikel 8. controle naleving beleidsregel
 
 De Koninklijke marechaussee is belast met de controle op de naleving van deze regeling.
 
-#### Artikel 9. intrekking oude regeling
+##### Artikel 9. intrekking oude regeling
 
 Het Weerbaarheidsvoorschrift 1980, met nummer CWW.80/032 van 17 december 1980, wordt ingetrokken.
 
-#### Artikel 10. inwerkingtreding
+##### Artikel 10. inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 11. citeertitel
+##### Artikel 11. citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel kaders medewerking defensie aan (defensie-) schietverenigingen, studentenweerbaarheidsverenigingen en defensieschietteams.
 

@@ -1,13 +1,35 @@
 ---
 title: "Verordening op de organen voor de Beroepsreglementering"
 identifier: "BWBR0047744"
-categorie: "Overig"
-publicatiedatum: 2023-06-21
-laatste_update: 2023-06-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047744"
+country: "nl"
+rank: "pbo"
+publication_date: "2023-06-21"
+last_updated: "2023-06-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047744"
+soort: "pbo"
+stam_id: "16636423"
+version_id: "29176612"
+internal_id: "C41448671"
+label_id: "16554734"
+dtd_version: "2.0"
+original_entry_into_force: "2023-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047744/2023-06-21/0"
+intitule_bron: "Stcrt.2022-34519"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2022-12-22"
+intitule_in_force: "2022-12-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-34519"
+original_published_date: "2022-12-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-34519"
+entry_into_force_date: "2023-05-01"
+jci_1_3: "jci1.3:c:BWBR0047744&z=2023-06-21&g=2023-06-21"
+jci_1_0: "1.0:c:BWBR0047744&g=2023-06-21"
+citeertitel_status: "officieel"
+entry_into_force: "2023-05-01"
 ---
-
 # Verordening op de organen voor de Beroepsreglementering
 
 Gelet op [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=3), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=5) en [19, eerste lid, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=19);
@@ -16,7 +38,7 @@ Stelt de volgende verordening vast:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van deze verordening wordt verstaan onder:
 
@@ -44,7 +66,7 @@ Voor de toepassing van deze verordening wordt verstaan onder:
 
 ### Hoofdstuk 2. Het belanghebbendenorgaan beroepsreglementering
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een Belanghebbendenorgaan beroepsreglementering, hierna te noemen: het Belanghebbendenorgaan.
 
@@ -60,7 +82,7 @@ Voor de toepassing van deze verordening wordt verstaan onder:
 
 3. Het Belanghebbendenorgaan kan in het kader van zijn taken externe deskundigen inschakelen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het Belanghebbendenorgaan bestaat uit de volgende leden:
 
@@ -86,7 +108,7 @@ Voor de toepassing van deze verordening wordt verstaan onder:
 
 10. In de uitoefening van de taken wordt het Belanghebbendenorgaan bijgestaan door een staf. De staf legt operationeel verantwoording af aan de voorzitter van het Belanghebbendenorgaan en wordt middels een interne SLA door de beroepsorganisatie aan het Belanghebbendenorgaan ter beschikking gesteld.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een lid van het Belanghebbendenorgaan wordt benoemd op persoonlijke titel en handelt zonder last.
 
@@ -110,7 +132,7 @@ Voor de toepassing van deze verordening wordt verstaan onder:
 
 - i. een arbeidsovereenkomst met de beroepsorganisatie of het verrichten van werkzaamheden voor de beroepsorganisatie uit hoofde van een andere overeenkomst.
 
-#### Artikel 5
+##### Artikel 5
 
 Het lidmaatschap van het Belanghebbendenorgaan eindigt:
 
@@ -126,11 +148,11 @@ Het lidmaatschap van het Belanghebbendenorgaan eindigt:
 
 - f. bij een daartoe strekkende beslissing van het bestuur na een voordracht van het Belanghebbendenorgaan wegens ongeschiktheid.
 
-#### Artikel 6
+##### Artikel 6
 
 [VERVALLEN]
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het Belanghebbendenorgaan vergadert ten minste vijf keer per jaar of zo dikwijls als het dat nodig oordeelt.
 
@@ -146,7 +168,7 @@ Het lidmaatschap van het Belanghebbendenorgaan eindigt:
 
 ### Hoofdstuk 3. Het College voor beroepsreglementering
 
-#### Artikel 8
+##### Artikel 8
 
 1. Er is een College voor beroepsreglementering, hierna te noemen: het College.
 
@@ -162,7 +184,7 @@ Het lidmaatschap van het Belanghebbendenorgaan eindigt:
 
 4. Het College kan in het kader van zijn taken externe deskundigen, waaronder accountants, inschakelen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het College bestaat uit de volgende collegeleden:
 
@@ -192,7 +214,7 @@ Het lidmaatschap van het Belanghebbendenorgaan eindigt:
 
 11. In de uitoefening van zijn taken en die van de subcommissies wordt het College bijgestaan door een staf. De staf legt verantwoording af aan de voorzitter van het college en wordt middels een interne service level agreement door de beroepsorganisatie aan het College ter beschikking gesteld.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Een subcommissie bestaat uit de volgende subcommissieleden:
 
@@ -214,7 +236,7 @@ Het lidmaatschap van het Belanghebbendenorgaan eindigt:
 
 8. Het subcommissielid dat benoemd is ter vervulling van een tussentijds opengevallen plaats, kan eenmaal worden herbenoemd voor een periode van vier jaar.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Een lid van het College of een subcommissie wordt benoemd op persoonlijke titel en handelt zonder last.
 
@@ -240,7 +262,7 @@ Het lidmaatschap van het Belanghebbendenorgaan eindigt:
 
 - j. een arbeidsovereenkomst met de beroepsorganisatie of het verrichten van werkzaamheden voor de beroepsorganisatie uit hoofde van een andere overeenkomst.
 
-#### Artikel 12
+##### Artikel 12
 
 Het lidmaatschap van het College of een subcommissie eindigt:
 
@@ -254,11 +276,11 @@ Het lidmaatschap van het College of een subcommissie eindigt:
 
 - e. bij een daartoe strekkende beslissing van het bestuur na een voordracht van het College wegens ongeschiktheid.
 
-#### Artikel 13
+##### Artikel 13
 
 [VERVALLEN]
 
-#### Artikel 14
+##### Artikel 14
 
 1. Het College of een subcommissie vergadert ten minste negen keer per jaar of zo dikwijls als het dat nodig oordeelt.
 
@@ -272,13 +294,13 @@ Het lidmaatschap van het College of een subcommissie eindigt:
 
 ### Hoofdstuk 4. Werkwijze van het College voor beroepsreglementering
 
-#### Artikel 15
+##### Artikel 15
 
 Het College voert zijn werkzaamheden uit in een door hem ingericht eerlijk en transparant beroepsreglementeringsproces en richt zich daarbij op een goede beroepsuitoefening van accountants en het maatschappelijk belang daarvan.
 
 ### Hoofdstuk 5. Samenwerking met het bestuur en tussen het belanghebbendenorgaan en het college
 
-#### Artikel 16
+##### Artikel 16
 
 1. Het bestuur stelt het jaarplan voor beroepsregelgeving vast op voordracht van het College.
 
@@ -294,7 +316,7 @@ Het College voert zijn werkzaamheden uit in een door hem ingericht eerlijk en tr
 
 7. Het College reageert op consultaties van internationale organisaties namens de beroepsorganisatie. Het College legt het concept van de reactie met een advies van het Belanghebbendenorgaan voor aan het bestuur. Als het advies op belangrijke punten afwijkt van de reactie van het College beslist het bestuur over de uiteindelijke reactie.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Een voornemen van het College tot het doen van een voordracht als bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047744&hoofdstuk=5&artikel=16&z=2023-06-21&g=2023-06-21), behoeft de instemming van het Belanghebbendenorgaan. Bij het ontbreken van de instemming van het Belanghebbendenorgaan, doet het College de voordracht, bedoeld in artikel 16, eerste lid, vergezeld van de motivering van het Belanghebbendenorgaan voor de onthouding van de instemming.
 
@@ -308,17 +330,17 @@ Het College voert zijn werkzaamheden uit in een door hem ingericht eerlijk en tr
 
 ### Hoofdstuk 6. Overige bepalingen
 
-#### Artikel 18
+##### Artikel 18
 
 Jaarlijks voor 1 april brengt het College een verslag uit omtrent de uitgevoerde werkzaamheden in het afgelopen kalenderjaar en maakt dit openbaar.
 
-#### Artikel 19
+##### Artikel 19
 
 Jaarlijks voor 1 april brengt het Belanghebbendenorgaan een verslag uit omtrent de werkzaamheden in het afgelopen kalenderjaar en maakt dit openbaar.
 
 ### Hoofdstuk 7. Overgangsbepalingen
 
-#### Artikel 20
+##### Artikel 20
 
 1. Bij de inwerkingtreding van deze verordening:
 
@@ -332,7 +354,7 @@ Jaarlijks voor 1 april brengt het Belanghebbendenorgaan een verslag uit omtrent 
 
 ### Hoofdstuk 8. Slotbepaling
 
-#### Artikel 21
+##### Artikel 21
 
 1. Deze verordening treedt in werking op 1 mei 2023.
 

@@ -1,13 +1,39 @@
 ---
-title: "Regeling specifieke uitkering aanvullende seksuele gezondheidzorg"
+title: "Regeling van de Minister voor Medische Zorg van 11 maart 2024, kenmerk 3778259-1062120-PG, houdende het verstrekken van een specifieke uitkering ten behoeve van aanvullende seksuele gezondheidszorg (Regeling specifieke uitkering aanvullende seksuele gezondheidszorg)"
 identifier: "BWBR0049474"
-categorie: "Sociaal recht"
-publicatiedatum: 2025-12-23
-laatste_update: 2025-12-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049474"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-12-23"
+last_updated: "2025-12-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049474"
+soort: "ministeriele-regeling"
+stam_id: "17052053"
+version_id: "30003342"
+internal_id: "C43012021"
+label_id: "16961684"
+dtd_version: "2.0"
+original_entry_into_force: "2024-03-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049474/2025-12-23/0"
+intitule_bron: "Stcrt.2024-8166"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-03-11"
+intitule_published: "2024-03-19"
+intitule_in_force: "2024-03-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-8166"
+original_signed_date: "2024-03-11"
+original_published_date: "2024-03-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-8166"
+entry_into_force_date: "2024-03-20"
+jci_1_3: "jci1.3:c:BWBR0049474&z=2025-12-23&g=2025-12-23"
+jci_1_0: "1.0:c:BWBR0049474&g=2025-12-23"
+citeertitel_status: "officieel"
+short_title: "Regeling specifieke uitkering aanvullende seksuele gezondheidzorg"
+signed_date: "2024-03-11"
+entry_into_force: "2024-03-20"
 ---
-
 # Regeling van de Minister voor Medische Zorg van 11 maart 2024, kenmerk 3778259-1062120-PG, houdende het verstrekken van een specifieke uitkering ten behoeve van aanvullende seksuele gezondheidszorg (Regeling specifieke uitkering aanvullende seksuele gezondheidszorg)
 
 Gelet op [artikel 3 van de Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1. Begripsbepalingen
+##### Artikel 1.1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -72,23 +98,23 @@ In deze regeling wordt verstaan onder:
 
 - **uitkering:** specifieke uitkering als bedoeld in [artikel 15a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=15a).
 
-#### Artikel 1.2. Toepasselijkheid [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) en [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 1.2. Toepasselijkheid [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) en [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 1. Op uitkeringen verstrekt op grond van deze regeling zijn de [artikelen 4:35](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35), [4:37 tot en met 4:39](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:37), [4:46](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:46), [4:48 tot en met 4:50](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:48), [4:56](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:56), [4:57](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) en [4:72, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:72) van overeenkomstige toepassing.
 
 2. Op uitkeringen verstrekt op grond van deze regeling zijn de begrippen bijdragen van derden, eigen bijdrage en kosten, bedoeld in [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.1) en [hoofdstuk 5 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=5) van overeenkomstige toepassing.
 
-#### Artikel 1.3. Activiteiten waarvoor een uitkering wordt verstrekt
+##### Artikel 1.3. Activiteiten waarvoor een uitkering wordt verstrekt
 
 De minister kan per kalenderjaar op aanvraag een uitkering verstrekken aan een coördinerende GGD voor activiteiten in het kader van aanvullende seksuele gezondheidszorg en coördinatie in de regio waarbinnen de coördinerende GGD werkzaam is.
 
-#### Artikel 1.4. Dienst van algemeen economisch belang
+##### Artikel 1.4. Dienst van algemeen economisch belang
 
 Vervallen
 
 ### Hoofdstuk 2. Verlening
 
-#### Artikel 2.1. Aanvraag tot verlening
+##### Artikel 2.1. Aanvraag tot verlening
 
 1. De aanvraag tot verlening van een uitkering kan jaarlijks tot uiterlijk 13 weken voor de aanvang van het jaar waar de uitkering betrekking op heeft door de coördinerende GGD worden ingediend tot en met 30 september 2033.
 
@@ -106,7 +132,7 @@ Vervallen
 
 - b. een document waarin de coördinerende GGD een regiobrede meerjarenvisie beschrijft.
 
-#### Artikel 2.2. Verlening en bevoorschotting
+##### Artikel 2.2. Verlening en bevoorschotting
 
 1. De minister beslist binnen 13 weken na ontvangst op de aanvraag.
 
@@ -116,7 +142,7 @@ Vervallen
 
 ### Hoofdstuk 3. Soa-zorg en seksualiteitshulpverlening
 
-#### Artikel 3.1. Nadere invulling activiteiten [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=3&z=2025-12-23&g=2025-12-23)
+##### Artikel 3.1. Nadere invulling activiteiten [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=3&z=2025-12-23&g=2025-12-23)
 
 1. Activiteiten in het kader van seksualiteitshulpverlening, zijn:
 
@@ -144,7 +170,7 @@ Vervallen
 
 - e. het registeren van gegevens over de zorg, bedoeld onder a tot en met d, ten behoeve van surveillance en onderzoek naar de aanwezigheid van soa en beleidsvorming op het gebied van collectieve preventie en soa-bestrijding.
 
-#### Artikel 3.2. Hoogte van de uitkering
+##### Artikel 3.2. Hoogte van de uitkering
 
 1. De uitkering voor activiteiten, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=3&artikel=3.1&z=2025-12-23&g=2025-12-23), met uitzondering van activiteiten bedoeld in artikel 3.1, tweede lid, onder c, in het kader van soa-zorg, seksualiteitshulpverlening en de coördinatie daarvan bedraagt voor het kalenderjaar 2024 ten hoogste:
 
@@ -220,7 +246,7 @@ Vervallen
 
 5. De minister kan de maximumbedragen van de uitkering jaarlijks indexeren.
 
-#### Artikel 3.3. Voorwaarden
+##### Artikel 3.3. Voorwaarden
 
 1. De soa-zorg en seksualiteitshulpverlening zijn afgestemd op de collectieve preventie en de curatieve gezondheidszorg.
 
@@ -256,7 +282,7 @@ Vervallen
 
 6. Diagnostiek ten behoeve van PrEP-zorg wordt verricht in het kader van het startconsult of het vervolgconsult, bedoeld in [artikel 4.1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=4&artikel=4.1&z=2025-12-23&g=2025-12-23), ten behoeve van het stellen van een diagnose voor hiv, syfilis, chlamydia, gonorroe, hepatitis-c en, indien diagnostiek hiernaar geïndiceerd is, de nierfunctie.
 
-#### Artikel 3.4. Verplichtingen
+##### Artikel 3.4. Verplichtingen
 
 De coördinerende GGD draagt er ten behoeve van diens regio zorg voor dat in het jaar waarvoor de uitkering wordt verstrekt:
 
@@ -272,7 +298,7 @@ De coördinerende GGD draagt er ten behoeve van diens regio zorg voor dat in het
 
 ### Hoofdstuk 4. PrEP-zorg
 
-#### Artikel 4.1. Nadere invulling activiteiten [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=4&z=2025-12-23&g=2025-12-23)
+##### Artikel 4.1. Nadere invulling activiteiten [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=4&z=2025-12-23&g=2025-12-23)
 
 Activiteiten in het kader van PrEP-zorg, zijn:
 
@@ -282,11 +308,11 @@ Activiteiten in het kader van PrEP-zorg, zijn:
 
 - c. het uitschrijven van recepten voor orale PrEP.
 
-#### Artikel 4.2. Voorwaarden
+##### Artikel 4.2. Voorwaarden
 
 De PrEP-zorg is gericht op personen met een verhoogd risico op hiv, zoals in ieder geval mannen die seks hebben met mannen en transgender personen die voldoen aan de inclusiecriteria uit de vigerende beroepsrichtlijn.
 
-#### Artikel 4.3. Kosten start- en vervolgconsulten
+##### Artikel 4.3. Kosten start- en vervolgconsulten
 
 1. Het gemiddelde tarief voor het kalenderjaar 2024 is:
 
@@ -300,7 +326,7 @@ De PrEP-zorg is gericht op personen met een verhoogd risico op hiv, zoals in ied
 
 - b. per vervolgconsult maximaal € 53,–.
 
-#### Artikel 4.4. Hoogte van de uitkering
+##### Artikel 4.4. Hoogte van de uitkering
 
 1. De uitkering voor activiteiten in het kader van PrEP-zorg, bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=4&artikel=4.1&z=2025-12-23&g=2025-12-23), en de coördinatie daarvan bedraagt voor de periode van 1 augustus 2024 tot en met 31 december 2024 ten hoogste:
 
@@ -358,7 +384,7 @@ De PrEP-zorg is gericht op personen met een verhoogd risico op hiv, zoals in ied
 
 4. De minister kan de maximumbedragen van de uitkering jaarlijks indexeren.
 
-#### Artikel 4.5. Verplichtingen
+##### Artikel 4.5. Verplichtingen
 
 De coördinerende GGD draagt er ten behoeve van zijn regio zorg voor dat in het jaar waarvoor de uitkering wordt verstrekt:
 
@@ -372,7 +398,7 @@ De coördinerende GGD draagt er ten behoeve van zijn regio zorg voor dat in het 
 
 ### Hoofdstuk 5. Verplichtingen, verantwoording, vaststelling en egalisatiereserve
 
-#### Artikel 5.1. Algemene verplichtingen
+##### Artikel 5.1. Algemene verplichtingen
 
 De coördinerende GGD draagt ten behoeve van diens regio zorg voor dat in het jaar waarvoor de uitkering wordt verstrekt:
 
@@ -382,7 +408,7 @@ De coördinerende GGD draagt ten behoeve van diens regio zorg voor dat in het ja
 
 - c. de aanvullende seksuele gezondheidszorg van verantwoorde kwaliteit conform het vigerende kwaliteitsprofiel en vigerende beroepsrichtlijnen is.
 
-#### Artikel 5.2. Verantwoording en vaststelling
+##### Artikel 5.2. Verantwoording en vaststelling
 
 1. De coördinerende GGD legt verantwoording af over de besteding van de uitkering op de wijze bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
@@ -390,7 +416,7 @@ De coördinerende GGD draagt ten behoeve van diens regio zorg voor dat in het ja
 
 3. Indien de activiteiten waarvoor de uitkering is verleend zijn verricht en daarnaast volledig is voldaan aan de voorwaarden en verplichtingen die verbonden zijn aan de uitkering, wordt de uitkering vastgesteld op het bedrag dat bestaat uit de gerealiseerde kosten, tot ten hoogste de genoemde bedragen in de [artikelen 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=3&artikel=3.2&z=2025-12-23&g=2025-12-23) en [4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=4&artikel=4.4&z=2025-12-23&g=2025-12-23), verminderd met de eventuele overschrijding van de maximaal toegestane toevoeging aan de egalisatiereserve, bedoeld in [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=5&artikel=5.3&z=2025-12-23&g=2025-12-23).
 
-#### Artikel 5.3. Egalisatiereserve
+##### Artikel 5.3. Egalisatiereserve
 
 1. De ontvanger van een uitkering, als bedoeld in [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=1&artikel=1.3&z=2025-12-23&g=2025-12-23), vormt een egalisatiereserve.
 
@@ -398,7 +424,7 @@ De coördinerende GGD draagt ten behoeve van diens regio zorg voor dat in het ja
 
 3. Indien de uitkering wordt verlaagd wegens het niet of niet geheel verrichten van de activiteiten waarvoor de uitkering is verleend, wordt de maximaal toegestane egalisatiereserve berekend op basis van de verlaagde uitkering.
 
-#### Artikel 5.4. Opbouw egalisatiereserve
+##### Artikel 5.4. Opbouw egalisatiereserve
 
 1. De egalisatiereserve wordt gevormd door een toevoeging bij een positief exploitatieresultaat en een onttrekking bij een negatief exploitatieresultaat.
 
@@ -410,7 +436,7 @@ De coördinerende GGD draagt ten behoeve van diens regio zorg voor dat in het ja
 
 5. Voor de toepassing van de vorige leden worden uitsluitend in aanmerking genomen de kosten, de bijdragen van derden en de uitkering met betrekking tot activiteiten waarvoor de uitkering is verleend en die werkelijk zijn verricht.
 
-#### Artikel 5.5. Besteding egalisatiereserve
+##### Artikel 5.5. Besteding egalisatiereserve
 
 1. De egalisatiereserve wordt in een kalenderjaar uitsluitend besteed aan activiteiten waarvoor de uitkering in dat kalenderjaar is verleend en die niet kunnen worden bekostigd uit de uitkering die is verleend ten behoeve van dat kalenderjaar.
 
@@ -420,21 +446,21 @@ De coördinerende GGD draagt ten behoeve van diens regio zorg voor dat in het ja
 
 ### Hoofdstuk 6. Slotbepalingen
 
-#### Artikel 6.1. Hardheidsclausule
+##### Artikel 6.1. Hardheidsclausule
 
 De minister kan, gelet op het belang dat deze regeling beoogt te beschermen, artikelen buiten toepassing laten of daarvan afwijken voor zover strikte toepassing leidt tot een onbillijkheid van overwegende aard.
 
-#### Artikel 6.2. Overgangsbepaling
+##### Artikel 6.2. Overgangsbepaling
 
 1. De [Regeling tijdelijke specifieke uitkering aanvullende seksuele gezondheidzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0048331) vervalt.
 
 2. Deze regeling is van toepassing op uitkeringen die zijn verleend op grond van de [Regeling tijdelijke specifieke uitkering aanvullende seksuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0048331), voorafgaand aan de inwerkingtreding van onderhavige regeling.
 
-#### Artikel 6.3. Wijziging [Regeling Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0022160)
+##### Artikel 6.3. Wijziging [Regeling Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0022160)
 
 Wijzigt de Regeling Geneesmiddelenwet.
 
-#### Artikel 6.4. Inwerkingtreding en vervaldatum
+##### Artikel 6.4. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
@@ -442,7 +468,7 @@ Wijzigt de Regeling Geneesmiddelenwet.
 
 3. In afwijking van het tweede lid, vervalt [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=1&artikel=1.4&z=2025-12-23&g=2025-12-23) op het tijdstip waarop artikel I, onderdelen B en D, van het bij koninklijke boodschap van 30 maart 2023 ingediende voorstel van wet tot wijziging van de [Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705) vanwege de invoering van een vergunningplicht en een meldplicht ter zake van het verrichten van handelingen met poliovirus en enkele anderen wijzigingen (Kamerstukken 36 334) in werking treedt.
 
-#### Artikel 6.5. Citeertitel
+##### Artikel 6.5. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering aanvullende seksuele gezondheidzorg.
 

@@ -1,13 +1,39 @@
 ---
-title: "Tweede aanpassingsbesluit inzake verhoging AOW-leeftijd"
+title: "Besluit van 2 augustus 2012 tot wijziging van een aantal algemene maatregelen van bestuur in verband met de verhoging van de leeftijd waarop op grond van de Algemene Ouderdomswet recht op ouderdomspensioen ontstaat (Tweede Aanpassingsbesluit inzake verhoging AOW-leeftijd)"
 identifier: "BWBR0031883"
-categorie: "Bestuursrecht"
-publicatiedatum: 2013-01-01
-laatste_update: 2013-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031883"
+country: "nl"
+rank: "amvb"
+publication_date: "2013-01-01"
+last_updated: "2013-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031883"
+soort: "AMvB"
+stam_id: "11822143"
+version_id: "19594072"
+internal_id: "C27493721"
+label_id: "11794504"
+dtd_version: "2.0"
+original_entry_into_force: "2013-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031883/2013-01-01/0"
+intitule_bron: "Stb.2012-362"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-08-02"
+intitule_published: "2012-08-08"
+intitule_in_force: "2012-07-18"
+intitule_status: "goed"
+original_publication: "Stb.2012-362"
+original_signed_date: "2012-08-02"
+original_published_date: "2012-08-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2012-362"
+entry_into_force_date: "2013-01-01"
+jci_1_3: "jci1.3:c:BWBR0031883&z=2013-01-01&g=2013-01-01"
+jci_1_0: "1.0:c:BWBR0031883&g=2013-01-01"
+citeertitel_status: "officieel"
+short_title: "Tweede aanpassingsbesluit inzake verhoging AOW-leeftijd"
+signed_date: "2012-08-02"
+entry_into_force: "2013-01-01"
 ---
-
 # Besluit van 2 augustus 2012 tot wijziging van een aantal algemene maatregelen van bestuur in verband met de verhoging van de leeftijd waarop op grond van de Algemene Ouderdomswet recht op ouderdomspensioen ontstaat (Tweede Aanpassingsbesluit inzake verhoging AOW-leeftijd)
 
 Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 13 juli 2012, nr. IVV/OOG/12/10290;
@@ -64,97 +90,97 @@ Treedt in werking op het tijdstip waarop artikel I van de Wet verhoging AOW- en 
 
 ### Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Besluit inburgering.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Besluit op de huurtoeslag.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Besluit voorzieningen Remigratiewet.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het Rechtspositiebesluit raads- en commissieleden.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Rechtspositiebesluit staten- en commissieleden.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt het Vreemdelingenbesluit 2000.
 
 ### Ministerie van Economische Zaken, Landbouw en Innovatie
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt het Besluit samenstelling en werkwijze commissie beheer landbouwgronden.
 
 ### Ministerie van Sociale Zaken en Werkgelegenheid
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt het Algemeen inkomensbesluit socialezekerheidswetten.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt het Besluit berekening afkoopsommen ongevalsuitkeringen 2008.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt het Besluit bijstandverlening zelfstandigen 2004.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt het Besluit reserve-overdracht N.S.-personeel.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt het Besluit uitvoering afwikkeling liquidatieuitkeringen en voorzieningen.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt het Besluit WWB 2007.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt het Schattingsbesluit arbeidsongeschiktheidswetten.
 
 ### Ministerie van Volksgezondheid, Welzijn en Sport
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt het Besluit draagkracht burger-oorlogsslachtoffers.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt het Besluit draagkracht vervolgden.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Wijzigt het Besluit maatschappelijke ondersteuning.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Wijzigt het Besluit tegemoetkoming chronisch zieken en gehandicapten.
 
-#### Artikel XIX
+##### Artikel XIX
 
 Wijzigt het Besluit toeslag premie ziektekostenverzekering Wubo en Wuv.
 
-#### Artikel XX
+##### Artikel XX
 
 Wijzigt het Bijdragebesluit zorg.
 
-#### Artikel XXI. Inwerkingtreding
+##### Artikel XXI. Inwerkingtreding
 
 Dit besluit treedt in werking op het tijdstip waarop [artikel I van de Wet verhoging AOW- en pensioenrichtleeftijd](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=I) in werking treedt.
 
-#### Artikel XXII. Citeertitel
+##### Artikel XXII. Citeertitel
 
 Dit besluit wordt aangehaald als: Tweede aanpassingsbesluit inzake verhoging AOW-leeftijd.
 

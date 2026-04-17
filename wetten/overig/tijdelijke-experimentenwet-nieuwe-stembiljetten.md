@@ -1,14 +1,42 @@
 ---
-title: "Tijdelijke experimentenwet nieuwe stembiljetten"
+title: "Wet van 1 juni 2022, houdende tijdelijke regels voor experimenten met nieuwe stembiljetten (Tijdelijke experimentenwet nieuwe stembiljetten)"
 identifier: "BWBR0047212"
-categorie: "Overig"
-publicatiedatum: 2025-02-12
-laatste_update: 2025-02-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047212"
+country: "nl"
+rank: "wet"
+publication_date: "2025-02-12"
+last_updated: "2025-02-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047212"
+soort: "wet"
+stam_id: "16500633"
+version_id: "28915812"
+internal_id: "C40939641"
+label_id: "16422364"
+dtd_version: "2.0"
+original_entry_into_force: "2022-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047212/2025-02-12/0"
+intitule_bron: "Stb.2022-261"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-06-01"
+intitule_published: "2022-09-30"
+intitule_in_force: "2022-09-30"
+intitule_status: "goed"
+original_publication: "Stb.2022-261"
+original_signed_date: "2022-06-01"
+original_published_date: "2022-09-30"
+original_effect: "nieuwe-regeling"
+original_dossier: "35455"
+original_url_id: "stb-2022-261"
+entry_into_force_date: "2022-10-01"
+entry_into_force_dossier: "35455"
+jci_1_3: "jci1.3:c:BWBR0047212&z=2025-02-12&g=2025-02-12"
+jci_1_0: "1.0:c:BWBR0047212&g=2025-02-12"
+citeertitel_status: "officieel"
+short_title: "Tijdelijke experimentenwet nieuwe stembiljetten"
+signed_date: "2022-06-01"
+entry_into_force: "2022-10-01"
 ---
-
-# Tijdelijke experimentenwet nieuwe stembiljetten
+# Wet van 1 juni 2022, houdende tijdelijke regels voor experimenten met nieuwe stembiljetten (Tijdelijke experimentenwet nieuwe stembiljetten)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +46,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 #### § 1. Algemene bepaling
 
-#### Artikel 1. Begripsbepaling
+##### Artikel 1. Begripsbepaling
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -26,7 +54,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2. Het experiment
 
-#### Artikel 2. Doel en deelname
+##### Artikel 2. Doel en deelname
 
 1. Onze Minister kan besluiten dat bij een verkiezing als bedoeld in de [Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627) of de [Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718) een experiment plaatsvindt met als doel de invoering van een stembiljet met een handzaam formaat, ten behoeve van het gebruik in het stemlokaal, dat:
 
@@ -38,7 +66,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Bij een verkiezing van de leden van de Eerste Kamer kan Onze Minister, na instemming van provinciale staten, een provincie aanwijzen waar wordt geëxperimenteerd.
 
-#### Artikel 3. Afwijken van de [Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627)
+##### Artikel 3. Afwijken van de [Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627)
 
 1. De experimenten vinden voor zover mogelijk plaats overeenkomstig hetgeen bij en krachtens de [Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627) is bepaald.
 
@@ -56,7 +84,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 3. De voordracht voor een krachtens het tweede lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.
 
-#### Artikel 4. Voorzieningen
+##### Artikel 4. Voorzieningen
 
 1. Onze Minister wijst de voorzieningen aan die bij een experiment worden gebruikt.
 
@@ -70,11 +98,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 3. Registratie van logo’s ten behoeve van het experiment
 
-#### Artikel 5. Registratie van logo’s voor de verkiezing van leden van de Tweede Kamer
+##### Artikel 5. Registratie van logo’s voor de verkiezing van leden van de Tweede Kamer
 
 Iedere politieke groepering die een aanduiding heeft ingeschreven of inschrijft in het register, bedoeld in [artikel G 1 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=G_1), dient bij het centraal stembureau voor de verkiezing van de leden van de Tweede Kamer, indien bij deze verkiezing sprake is van een experiment als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047212&paragraaf=2&artikel=2&z=2025-02-12&g=2025-02-12), van deze wet, een schriftelijk verzoek in, als bedoeld in [artikel G 1a, eerste lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=G_1), om het logo waarmee zij voor die verkiezing op de kandidatenlijst wenst te worden vermeld, bij te schrijven in het register. Indien een politieke groepering waarvan wel een aanduiding in het register staat ingeschreven op de tweeënveertigste dag voor de kandidaatstelling geen logo heeft geregistreerd, wordt voor de toepassing van de registraties in het verkiezingsproces enkel gebruik gemaakt van de in het register opgenomen aanduiding van de politieke groepering.
 
-#### Artikel 6. Registratie van logo’s voor de verkiezing van de leden van provinciale staten
+##### Artikel 6. Registratie van logo’s voor de verkiezing van de leden van provinciale staten
 
 1. Iedere politieke groepering die een aanduiding heeft ingeschreven of inschrijft in het register, bedoeld in [artikel G 2 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=G_2), en waarvan het logo niet reeds bij het centraal stembureau voor de verkiezing van de leden van de Tweede Kamer is geregistreerd, dient bij het centraal stembureau voor de verkiezing van de leden van de provinciale staten, indien bij deze verkiezing sprake is van een experiment als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047212&paragraaf=2&artikel=2&z=2025-02-12&g=2025-02-12), van deze wet, een schriftelijk verzoek in om het logo waarmee zij voor die verkiezing op de kandidatenlijst wenst te worden vermeld, bij te schrijven in het register. De verzoeken die zijn ontvangen of aangevuld als bedoeld in [artikel 4:5, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5), na de tweeënveertigste dag voor de kandidaatstelling, blijven voor de daaropvolgende verkiezing buiten behandeling. Indien een politieke groepering waarvan wel een aanduiding in het register staat ingeschreven op die dag geen logo heeft geregistreerd, wordt voor de toepassing van de registraties in het verkiezingsproces enkel gebruik gemaakt van de in het register opgenomen aanduiding van de politieke groepering.
 
@@ -86,7 +114,7 @@ Iedere politieke groepering die een aanduiding heeft ingeschreven of inschrijft 
 
 3. [Artikel G 5, eerste lid, aanhef en onder a, en tweede lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=G_5) is van overeenkomstige toepassing op een besluit dat is genomen op grond van dit artikel.
 
-#### Artikel 7. Registratie van logo’s voor de verkiezing van de leden van het algemeen bestuur
+##### Artikel 7. Registratie van logo’s voor de verkiezing van de leden van het algemeen bestuur
 
 1. Iedere politieke groepering die een aanduiding heeft ingeschreven of inschrijft in het register, bedoeld in [artikel G 2a van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=G_2a), en waarvan het logo niet reeds bij het centraal stembureau voor de verkiezing van de leden van de Tweede Kamer is geregistreerd, dient bij het centraal stembureau voor de verkiezing van de leden van het algemeen bestuur, indien bij deze verkiezing sprake is van een experiment als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047212&paragraaf=2&artikel=2&z=2025-02-12&g=2025-02-12), van deze wet, een schriftelijk verzoek in om het logo waarmee zij voor die verkiezing op de kandidatenlijst wenst te worden vermeld, bij te schrijven in het register. De verzoeken die zijn ontvangen of aangevuld als bedoeld in [artikel 4:5, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5), na de tweeënveertigste dag voor de kandidaatstelling, blijven voor de daaropvolgende verkiezing buiten behandeling. Indien een politieke groepering waarvan wel een aanduiding in het register staat ingeschreven op die dag geen logo heeft geregistreerd, wordt voor de toepassing van de registraties in het verkiezingsproces enkel gebruik gemaakt van de in het register opgenomen aanduiding van de politieke groepering.
 
@@ -98,7 +126,7 @@ Iedere politieke groepering die een aanduiding heeft ingeschreven of inschrijft 
 
 3. [Artikel G 5, eerste lid, aanhef en onder a, en tweede lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=G_5) is van overeenkomstige toepassing op een besluit dat is genomen op grond van dit artikel.
 
-#### Artikel 8. Registratie van logo’s voor de verkiezing van de leden van de gemeenteraad
+##### Artikel 8. Registratie van logo’s voor de verkiezing van de leden van de gemeenteraad
 
 1. Iedere politieke groepering die een aanduiding heeft ingeschreven of inschrijft in het register, bedoeld in [artikel G 3 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=G_5), en waarvan het logo niet reeds bij het centraal stembureau voor de verkiezing van de leden van de Tweede Kamer, onderscheidenlijk provinciale staten, is geregistreerd, dient bij het centraal stembureau voor de verkiezing van de leden van de gemeenteraad, indien bij deze verkiezing sprake is van een experiment als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047212&paragraaf=2&artikel=2&z=2025-02-12&g=2025-02-12), van deze wet een schriftelijk verzoek in om het logo waarmee zij voor die verkiezing op de kandidatenlijst wenst te worden vermeld, bij te schrijven in het register. De verzoeken die zijn ontvangen of aangevuld als bedoeld in [artikel 4:5, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5), na de tweeënveertigste dag voor de kandidaatstelling, blijven voor de daaropvolgende verkiezing buiten behandeling. Indien een politieke groepering waarvan wel een aanduiding in het register staat ingeschreven op die dag geen logo heeft geregistreerd, wordt voor de toepassing van de registraties in het verkiezingsproces enkel gebruik gemaakt van de in het register opgenomen aanduiding van de politieke groepering.
 
@@ -110,7 +138,7 @@ Iedere politieke groepering die een aanduiding heeft ingeschreven of inschrijft 
 
 3. [Artikel G 5, eerste lid, aanhef en onder a, en tweede lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=G_5) is van overeenkomstige toepassing op een besluit dat is genomen op grond van dit artikel.
 
-#### Artikel 9. Registratie van logo’s voor de verkiezing van de leden van de Eerste Kamer
+##### Artikel 9. Registratie van logo’s voor de verkiezing van de leden van de Eerste Kamer
 
 1. Iedere politieke groepering die een aanduiding heeft ingeschreven of inschrijft in het register, bedoeld in [artikel Q 6 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Q_6), en waarvan het logo niet reeds bij het centraal stembureau voor de verkiezing van de leden van de Tweede Kamer is geregistreerd, dient bij het centraal stembureau voor de verkiezing van de leden van de Eerste Kamer, indien bij deze verkiezing sprake is van een experiment als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047212&paragraaf=2&artikel=2&z=2025-02-12&g=2025-02-12), van deze wet, een schriftelijk verzoek in om het logo waarmee zij voor die verkiezing op de kandidatenlijst wenst te worden vermeld, bij te schrijven in het register. De verzoeken die zijn ontvangen of aangevuld als bedoeld in [artikel 4:5, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5), na de negenentwintigste dag voor de kandidaatstelling, blijven voor de daaropvolgende verkiezing buiten behandeling. Indien een politieke groepering waarvan wel een aanduiding in het register staat ingeschreven op die dag geen logo heeft geregistreerd, wordt voor de toepassing van de registraties in het verkiezingsproces enkel gebruik gemaakt van de in het register opgenomen aanduiding van de politieke groepering.
 
@@ -118,7 +146,7 @@ Iedere politieke groepering die een aanduiding heeft ingeschreven of inschrijft 
 
 3. [Artikel Q 6, vijfde lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Q_6) is van overeenkomstige toepassing.
 
-#### Artikel 10. Publicatie en doorwerking van logo’s
+##### Artikel 10. Publicatie en doorwerking van logo’s
 
 1. In de publicatie, bedoeld in [artikel G 1, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=G_1), onderscheidenlijk [artikel G 2, achtste lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=G_1), doet het centraal stembureau tevens mededeling van de op grond van deze wet en de [Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627) door hem geregistreerde logo’s van politieke groeperingen, voor zover de registratie daarvan onherroepelijk is.
 
@@ -130,7 +158,7 @@ Iedere politieke groepering die een aanduiding heeft ingeschreven of inschrijft 
 
 #### § 4. Bonaire, Sint Eustatius en Saba
 
-#### Artikel 11. Toepassingsbereik
+##### Artikel 11. Toepassingsbereik
 
 1. Deze wet is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba, met inachtneming van het in deze paragraaf bepaalde.
 
@@ -144,7 +172,7 @@ Iedere politieke groepering die een aanduiding heeft ingeschreven of inschrijft 
 
 - c. in plaats van «provinciale staten» gelezen «het kiescollege».
 
-#### Artikel 12. Registratie, publicatie en doorwerking van logo’s
+##### Artikel 12. Registratie, publicatie en doorwerking van logo’s
 
 1. Indien het betreft een verzoek om registratie van een logo ten behoeve van de verkiezing van de leden van een kiescollege, wordt:
 
@@ -160,47 +188,47 @@ Iedere politieke groepering die een aanduiding heeft ingeschreven of inschrijft 
 
 #### § 5. Overige bepalingen
 
-#### Artikel 13. Wijziging [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
+##### Artikel 13. Wijziging [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
 
 Wijzigt de Algemene wet bestuursrecht.
 
-#### Artikel 14. Wijziging [Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627)
+##### Artikel 14. Wijziging [Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627)
 
 Wijzigt de Kieswet.
 
-#### Artikel 15. Wijziging [Tijdelijke experimentenwet stembiljetten en centrale stemopneming](https://wetten.overheid.nl/jci1.3:c:BWBR0033598)
+##### Artikel 15. Wijziging [Tijdelijke experimentenwet stembiljetten en centrale stemopneming](https://wetten.overheid.nl/jci1.3:c:BWBR0033598)
 
 Wijzigt de Tijdelijke experimentenwet stembiljetten en centrale stemopneming.
 
-#### Artikel 16. Evaluatie
+##### Artikel 16. Evaluatie
 
 Elk experiment wordt geëvalueerd. Bij de algemene maatregel van bestuur, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047212&paragraaf=2&artikel=3&z=2025-02-12&g=2025-02-12), worden de criteria voor de evaluatie geregeld.
 
-#### Artikel 17. Intrekking wijziging [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
+##### Artikel 17. Intrekking wijziging [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
 
 Wijzigt de Algemene wet bestuursrecht.
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel 18. Vervallen verwijzing [Tijdelijke experimentenwet stembiljetten en centrale stemopneming](https://wetten.overheid.nl/jci1.3:c:BWBR0033598)
+##### Artikel 18. Vervallen verwijzing [Tijdelijke experimentenwet stembiljetten en centrale stemopneming](https://wetten.overheid.nl/jci1.3:c:BWBR0033598)
 
 Wijzigt deze wet.
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel 19. Samenloop [Wet elektronische publicaties](https://wetten.overheid.nl/jci1.3:c:BWBR0043961) (35 218)
+##### Artikel 19. Samenloop [Wet elektronische publicaties](https://wetten.overheid.nl/jci1.3:c:BWBR0043961) (35 218)
 
 Wijzigt deze wet.
 
-#### Artikel 20. Samenloop Wijziging van de [Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627) in verband met de definitieve invoering van het nieuwe stembiljet voor kiezers buiten Nederland (35 670)
+##### Artikel 20. Samenloop Wijziging van de [Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627) in verband met de definitieve invoering van het nieuwe stembiljet voor kiezers buiten Nederland (35 670)
 
 Wijzigt deze wet.
 
-#### Artikel 21. Samenloop [Wet nieuwe procedure vaststelling verkiezingsuitslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047041)
+##### Artikel 21. Samenloop [Wet nieuwe procedure vaststelling verkiezingsuitslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047041)
 
 Wijzigt de Wet nieuwe procedure vaststelling verkiezingsuitslagen.
 
-#### Artikel 22. Inwerkingtreding
+##### Artikel 22. Inwerkingtreding
 
 1. Deze wet, met uitzondering van de artikelen 17 en 18, treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en vervalt tien jaar na het tijdstip van inwerkingtreding.
 
@@ -208,7 +236,7 @@ Wijzigt de Wet nieuwe procedure vaststelling verkiezingsuitslagen.
 
 3. Artikel 18 treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 23. Citeertitel
+##### Artikel 23. Citeertitel
 
 Deze wet wordt aangehaald als: Tijdelijke experimentenwet nieuwe stembiljetten.
 

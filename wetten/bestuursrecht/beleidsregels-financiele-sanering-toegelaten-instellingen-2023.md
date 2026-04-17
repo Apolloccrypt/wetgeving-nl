@@ -1,13 +1,35 @@
 ---
 title: "Beleidsregels financiële sanering toegelaten instellingen 2023"
 identifier: "BWBR0047632"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-01-01
-laatste_update: 2023-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047632"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2023-01-01"
+last_updated: "2023-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047632"
+soort: "beleidsregel"
+stam_id: "16596563"
+version_id: "29107562"
+internal_id: "C41372841"
+label_id: "16515124"
+dtd_version: "2.0"
+original_entry_into_force: "2023-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047632/2023-01-01/0"
+intitule_bron: "Stcrt.2022-34038"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2022-12-16"
+intitule_in_force: "2022-12-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-34038"
+original_published_date: "2022-12-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-34038"
+entry_into_force_date: "2023-01-01"
+jci_1_3: "jci1.3:c:BWBR0047632&z=2023-01-01&g=2023-01-01"
+jci_1_0: "1.0:c:BWBR0047632&g=2023-01-01"
+citeertitel_status: "officieel"
+entry_into_force: "2023-01-01"
 ---
-
 # Beleidsregels financiële sanering toegelaten instellingen 2023
 
 De directie van WSW, namens de Minister voor Volkshuisvesting en Ruimtelijke Ordening, en gezien de schriftelijke instemming van de Minister voor Volkshuisvesting en Ruimtelijke Ordening,

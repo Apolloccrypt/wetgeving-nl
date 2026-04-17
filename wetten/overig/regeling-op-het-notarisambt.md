@@ -1,20 +1,46 @@
 ---
-title: "Regeling op het notarisambt"
+title: "Regeling van de Minister van Veiligheid en Justitie van 11 december 2012, nr. 32952, houdende regels over het notarisambt (Regeling op het notarisambt)"
 identifier: "BWBR0032707"
-categorie: "Overig"
-publicatiedatum: 2020-01-01
-laatste_update: 2020-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032707"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-01-01"
+last_updated: "2020-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032707"
+soort: "ministeriele-regeling"
+stam_id: "12033593"
+version_id: "21844352"
+internal_id: "C31356431"
+label_id: "12005524"
+dtd_version: "2.0"
+original_entry_into_force: "2014-11-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032707/2020-01-01/0"
+intitule_bron: "Stcrt.2012-26483"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-12-11"
+intitule_published: "2012-12-31"
+intitule_in_force: "2012-12-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-33807"
+original_signed_date: "2014-11-19"
+original_published_date: "2014-11-27"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2014-33807"
+entry_into_force_date: "2014-11-19"
+jci_1_3: "jci1.3:c:BWBR0032707&z=2020-01-01&g=2020-01-01"
+jci_1_0: "1.0:c:BWBR0032707&g=2020-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling op het notarisambt"
+signed_date: "2014-11-19"
+entry_into_force: "2014-11-19"
 ---
-
 # Regeling van de Minister van Veiligheid en Justitie van 11 december 2012, nr. 32952, houdende regels over het notarisambt (Regeling op het notarisambt)
 
 Gelet op de [artikelen 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=8), [24, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=24), [25, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=25), [25a van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=25a), [artikel 26 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=26), de [artikelen 4, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032084&artikel=4) en [12, zesde lid, van het Besluit op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0032084&artikel=12) en [artikel 2 van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=2);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -32,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 #### Inhoud verslag en verklaring of mededeling en overige gegevens ten behoeve van Bureau Financieel Toezicht ([artikel 24, vierde en vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=24))
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het in [artikel 24, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=24) genoemde verslag ten aanzien van de kantoorwerkzaamheden omvat de jaarrekening met de balans, de staat van baten en lasten (winst- en verliesrekening) en de toelichting daarop.
 
@@ -56,29 +82,29 @@ In deze regeling wordt verstaan onder:
 
 #### Hoogte van de verschuldigde vergoeding voor indiening van een verzoek bij de Commissie toegang notariaat ([artikel 8, vierde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=8))
 
-#### Artikel 3
+##### Artikel 3
 
 De verschuldigde vergoeding voor het indienen van een verzoek op grond van [artikel 8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=8) bedraagt € 1.600,–.
 
 #### Wijze van berekening en uitkering van de rente van de op de bijzondere rekening gestorte gelden ([artikel 25, zevende lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=25))
 
-#### Artikel 4
+##### Artikel 4
 
 1. De rente wordt berekend aan de hand van het rentepercentage dat in het normale economische verkeer gebruikelijk is, mede gelet op de omvang van het bedrag en de tijdsduur dat het bedrag op de bijzondere rekening(en) staat.
 
 2. De rente wordt berekend naar evenredigheid van hetgeen ten gunste van de rechthebbende op de bijzondere rekening(en) is gestort.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Tenzij schriftelijk anders overeengekomen, wordt de aan het aandeel van de rechthebbende op de bijzondere rekening(en) toegevoegde rente zo snel mogelijk, doch uiterlijk gelijk met het aandeel aan de rechthebbende, uitgekeerd.
 
 2. De rente over het aandeel van de rechthebbende op de bijzondere rekening(en) wordt volledig uitgekeerd aan de rechthebbende.
 
-#### Artikel 6
+##### Artikel 6
 
 De eventuele kosten in verband met de renteberekening dan wel het beheer en de beschikking over de bijzondere rekening(en) mogen niet met de rente over het aandeel van de rechthebbende op de bijzondere rekening(en) worden verrekend.
 
-#### Artikel 7
+##### Artikel 7
 
 In afwijking van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032707&artikel=4&z=2020-01-01&g=2020-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0032707&artikel=5&z=2020-01-01&g=2020-01-01) behoeft geen rente te worden vergoed in de volgende gevallen:
 
@@ -88,11 +114,11 @@ In afwijking van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR003270
 
 #### Melding aan het Bureau in geval van mogelijk aanmerkelijke nadelige gevolgen voor de financiële positie van een notaris ([artikel 25a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=25))
 
-#### Artikel 8
+##### Artikel 8
 
 Als zich een gebeurtenis voordoet die mogelijk aanmerkelijke nadelige gevolgen voor de financiële positie van een notaris kan hebben, meldt de notaris dit volledig en onverwijld aan het Bureau.
 
-#### Artikel 9
+##### Artikel 9
 
 Als gebeurtenis in de zin van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032707&artikel=8&z=2020-01-01&g=2020-01-01) van deze regeling worden aangemerkt:
 
@@ -124,7 +150,7 @@ Als gebeurtenis in de zin van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BW
 
 - d. een verstrekking aan de autoriteiten op grond van [artikel 25, achtste of negende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=25).
 
-#### Artikel 10
+##### Artikel 10
 
 1. Naast de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0032707&artikel=9&z=2020-01-01&g=2020-01-01) omschreven gebeurtenissen kan de notaris andere gebeurtenissen die aanmerkelijke nadelige gevolgen voor de (financiële) positie van een de notarisorganisatie en/of de notaris privé kunnen hebben, aan het Bureau melden.
 
@@ -132,19 +158,19 @@ Als gebeurtenis in de zin van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BW
 
 #### Wijze van indiening gegevens en doen van meldingen aan het Bureau ([artikel 24, vierde en vijfde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=24))
 
-#### Artikel 11
+##### Artikel 11
 
 Het Bureau zendt onze minister jaarlijks voor 1 oktober een ontwerp-begroting, bedoeld in de [artikel 26 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=26), voor het daarop volgende jaar.
 
 #### Indiening ontwerp-begroting Bureau
 
-#### Artikel 12
+##### Artikel 12
 
 De leden en plaatsvervangend leden van de kamers voor het notariaat hebben per vergadering recht op vergoeding van reis- en verblijfkosten overeenkomstig het [Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889).
 
 #### Vergoeding reis- en verblijfkosten leden en plaatsvervangend leden Kamers
 
-#### Artikel 13
+##### Artikel 13
 
 1. Aan de leden en plaatsvervangend leden van de Commissie wordt per vergadering een vergoeding toegekend van 3% van het maximum van salarisschaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
@@ -154,19 +180,19 @@ De leden en plaatsvervangend leden van de kamers voor het notariaat hebben per v
 
 #### Vergoeding kosten leden en plaatsvervangend leden van de Commissie toegang notariaat
 
-#### Artikel 14
+##### Artikel 14
 
 Deze regeling treedt in werking met ingang van 1 januari 2013.
 
-#### Artikel 15
+##### Artikel 15
 
 Deze regeling wordt aangehaald als: Regeling op het notarisambt.
 
-#### Artikel 16
+##### Artikel 16
 
 Deze regeling met toelichting zal in de Staatscourant worden geplaatst.
 
-#### Artikel 10a
+##### Artikel 10a
 
 De gegevens bedoeld in [artikel 24, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=24) en de overige gegevens bedoeld in artikel 24, vijfde lid, van de wet, dienen digitaal te worden ingediend via een daartoe door het Bureau beschikbaar gestelde elektronische toepassing.
 

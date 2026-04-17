@@ -1,13 +1,38 @@
 ---
 title: "Toelatingscriteria EURES lid en partner"
 identifier: "BWBR0042177"
-categorie: "Overig"
-publicatiedatum: 2019-05-03
-laatste_update: 2019-05-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042177"
+country: "nl"
+rank: "zbo"
+publication_date: "2019-05-03"
+last_updated: "2019-05-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042177"
+soort: "zbo"
+stam_id: "15064453"
+version_id: "25819072"
+internal_id: "C36809681"
+label_id: "15013684"
+dtd_version: "2.0"
+original_entry_into_force: "2019-05-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042177/2019-05-03/0"
+intitule_bron: "Stcrt.2019-25159"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-04-23"
+intitule_published: "2019-05-03"
+intitule_in_force: "2019-05-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-25159"
+original_signed_date: "2019-04-23"
+original_published_date: "2019-05-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-25159"
+entry_into_force_date: "2019-05-03"
+jci_1_3: "jci1.3:c:BWBR0042177&z=2019-05-03&g=2019-05-03"
+jci_1_0: "1.0:c:BWBR0042177&g=2019-05-03"
+citeertitel_status: "officieel"
+signed_date: "2019-04-23"
+entry_into_force: "2019-05-03"
 ---
-
 # Toelatingscriteria EURES lid en partner
 
 EURES (EURopean Employment Services) is in 1993 opgericht door de Europese Commissie en de landen van de EER plus Zwitserland. Het netwerk heeft als doel het bevorderen van het recht op vrij verkeer van werknemers. Op 13 mei 2016 is EURES [Verordening 589/2016](32016R0589) in werking getreden. De verordening stelt een open en transparant toelatingssysteem in ieder EURES-land verplicht. Partijen kunnen na toelating (een deel van) de EURES-taken uitvoeren. Doel is versterking en uitbreiding van het EURES-netwerk en de Europese dienstverlening.

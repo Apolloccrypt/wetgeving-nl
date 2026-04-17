@@ -1,18 +1,43 @@
 ---
-title: "Voorschriften van Bangladesh tot uitvoering belastingverdrag Nederland-Bangladesh"
+title: "Voorschriften van Bangladesh tot uitvoering van het op 13 juli 1993 tussen Nederland en Bangladesh gesloten Verdrag tot het vermijden van dubbele belasting"
 identifier: "BWBR0007426"
-categorie: "Belastingrecht"
-publicatiedatum: 1995-08-01
-laatste_update: 1995-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007426"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1995-08-01"
+last_updated: "1995-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007426"
+soort: "ministeriele-regeling"
+stam_id: "4030463"
+version_id: "5803562"
+internal_id: "C6006301"
+label_id: "4010434"
+dtd_version: "2.0"
+original_entry_into_force: "1995-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007426/1995-08-01/0"
+intitule_bron: "Stcrt.1995-110"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-06-02"
+intitule_published: "1995-06-12"
+intitule_in_force: "1995-06-12"
+intitule_status: "goed"
+original_publication: "Stcrt.1995-110"
+original_signed_date: "1995-06-02"
+original_published_date: "1995-06-12"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1995-08-01"
+jci_1_3: "jci1.3:c:BWBR0007426&z=1995-08-01&g=1995-08-01"
+jci_1_0: "1.0:c:BWBR0007426&g=1995-08-01"
+citeertitel_status: "officieel"
+short_title: "Voorschriften van Bangladesh tot uitvoering belastingverdrag Nederland-Bangladesh"
+signed_date: "1995-06-02"
+entry_into_force: "1995-08-01"
 ---
-
 # Voorschriften van Bangladesh tot uitvoering van het op 13 juli 1993 tussen Nederland en Bangladesh gesloten Verdrag tot het vermijden van dubbele belasting
 
 #### Regeling inzake vermindering en vrijstelling van belasting van Bangladesh op dividenden, interest, en royalty's, genoten door inwoners van Nederland
 
-#### Artikel 1. Aanspraken van inwoners van Nederland
+##### Artikel 1. Aanspraken van inwoners van Nederland
 
 Aan het op 13 juli 1993 tussen Nederland en Bangladesh gesloten Verdrag tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen, en het Protocol bij dat Verdrag (Trb. 1993, 145 en Trb. 1994, 42), kunnen inwoners van Nederland onder meer de volgende aanspraken ontlenen, geregeld in de hieronder tussen haakjes vermelde artikelen van het Verdrag en onderdelen van het Protocol:
 
@@ -32,7 +57,7 @@ Aan het op 13 juli 1993 tussen Nederland en Bangladesh gesloten Verdrag tot het 
 
 - h. vermindering tot 10 percent van de belasting van Bangladesh op royalty’s, afkomstig uit Bangladesh en betaald aan een inwoner van Nederland die de uiteindelijk gerechtigde daarvan is (artikel 12, tweede lid). De uitdrukking ’royalty’s’, zoals gebezigd in artikel 12, betekent vergoedingen van welke aard ook voor het gebruik van, of voor het recht van gebruik van, een auteursrecht op een werk op het gebied van letterkunde, kunst of wetenschap, waaronder begrepen bioscoopfilms, films- of beeld- en geluidsbanden voor radio- of televisie-uitzendingen, een octrooi, een fabrieks- of handelsmerk, een tekening of model, een plan, een geheim recept of een geheime werkwijze, of voor inlichtingen omtrent ervaringen op het gebied van nijverheid, handel of wetenschap (artikel 12, derde lid). Vergoedingen voor technische diensten, daaronder begrepen studies of onderzoeken van wetenschappelijke, geologische of technische aard, of voor contracten inzake bouw- of constructiewerkzaamheden met inbegrip van de daartoe behorende blauwdrukken, dan wel voor diensten van raadgevende of toezichthoudende aard worden beschouwd als vergoedingen waarop de bepalingen van artikel 7 of artikel 14 van toepassing zijn (onderdeel IV van het Protocol). De in de onderdelen a, b, g en h van dit artikel vermelde verminderingen worden berekend over het bruto bedrag van de dividenden, interest en royalty’s. De in onderdelen a, b, g en h van dit artikel vermelde verminderingen zijn niet van toepassing indien de uiteindelijk gerechtigde tot de dividenden, de interest of de royalty’s in Bangladesh een bedrijf uitoefent door middel van een aldaar gevestigde vaste inrichting of in Bangladesh zelfstandige arbeid verricht vanuit een aldaar gevestigd vast middelpunt, en het aandelenbezit uit hoofde waarvan de dividenden worden betaald, de vordering uit hoofde waarvan de interest wordt betaald of het recht of de zaak uit hoofde waarvan de royalty’s worden betaald, tot het bedrijfsvermogen van die vaste inrichting of tot het beroepsvermogen van dat vaste middelpunt behoort (artikel 10, vijfde lid, respectievelijk artikel 11, vijfde lid, en artikel 12, vierde lid).
 
-#### Artikel 2. Regeling van Bangladesh
+##### Artikel 2. Regeling van Bangladesh
 
 Ter uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007426&artikel=1&z=1995-08-01&g=1995-08-01) is van de zijde van Bangladesh de volgende regeling getroffen:
 
@@ -60,7 +85,7 @@ Ter uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007426&a
 
 - 3. Termijn van indiening van verzoeken om teruggaaf van belasting Verzoeken om teruggaaf van belasting van Bangladesh moeten worden ingediend binnen een tijdvak van vier jaren na afloop van het aanslagjaar waarin de belasting is geheven (onderdeel III van het Protocol).
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 1. Deze regeling kan worden aangehaald als: Voorschriften van Bangladesh tot uitvoering belastingverdrag Nederland-Bangladesh.
 

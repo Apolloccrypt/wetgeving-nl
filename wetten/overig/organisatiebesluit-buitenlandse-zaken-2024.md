@@ -1,13 +1,39 @@
 ---
-title: "Organisatiebesluit Buitenlandse Zaken 2024"
+title: "Besluit van de Minister van Buitenlandse Zaken van 13 augustus 2024, met kenmerk nr.BZ2402895, tot vaststelling van de organisatie van het Ministerie van Buitenlandse Zaken (Organisatiebesluit Buitenlandse Zaken 2024)"
 identifier: "BWBR0050160"
-categorie: "Overig"
-publicatiedatum: 2024-08-22
-laatste_update: 2024-08-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050160"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-08-22"
+last_updated: "2024-08-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050160"
+soort: "ministeriele-regeling"
+stam_id: "17207613"
+version_id: "30299232"
+internal_id: "C43468351"
+label_id: "17113624"
+dtd_version: "2.0"
+original_entry_into_force: "2024-08-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050160/2024-08-22/0"
+intitule_bron: "Stcrt.2024-27281"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-08-13"
+intitule_published: "2024-08-21"
+intitule_in_force: "2024-08-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-27281"
+original_signed_date: "2024-08-13"
+original_published_date: "2024-08-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-27281"
+entry_into_force_date: "2024-08-22"
+jci_1_3: "jci1.3:c:BWBR0050160&z=2024-08-22&g=2024-08-22"
+jci_1_0: "1.0:c:BWBR0050160&g=2024-08-22"
+citeertitel_status: "officieel"
+short_title: "Organisatiebesluit Buitenlandse Zaken 2024"
+signed_date: "2024-08-13"
+entry_into_force: "2024-08-22"
 ---
-
 # Besluit van de Minister van Buitenlandse Zaken van 13 augustus 2024, met kenmerk nr.BZ2402895, tot vaststelling van de organisatie van het Ministerie van Buitenlandse Zaken (Organisatiebesluit Buitenlandse Zaken 2024)
 
 Gelet op [artikel 3, tweede lid, van het Coördinatiebesluit organisatie, bedrijfsvoering en informatiesystemen rijksdienst](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=3);
@@ -16,7 +42,7 @@ Overwegende de missie van het Ministerie van Buitenlandse Zaken om het Koninkrij
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
@@ -32,7 +58,7 @@ In dit besluit wordt verstaan onder:
 
 - f. **managementraad:** de Managementraad bestaande uit de plaatsvervangend secretaris-generaal (PSG) en de plaatsvervangend directeuren-generaal (plv. DG’s). De hoofddirecteuren Personeel en Organisatie (HDPO), Bedrijfsvoering (HDBV) en Postennet (HDPN), de directeur Financieel-Economische Zaken (FEZ), de directeur Open Overheid, alsmede de plaatsvervangend directeuren Communicatie (COM) en Ondersteuning Bestuur (DOB) van het ministerie hebben een vaste adviesfunctie in de Managementraad.
 
-#### Artikel 2. Hoofdstructuur
+##### Artikel 2. Hoofdstructuur
 
 Het ministerie bestaat uit de volgende onderdelen:
 
@@ -52,15 +78,15 @@ Het ministerie bestaat uit de volgende onderdelen:
 
 - h. de Posten.
 
-#### Artikel 3. Bestuursraad
+##### Artikel 3. Bestuursraad
 
 De Bestuursraad neemt besluiten, maakt afspraken en ziet toe op de uitvoering van aangelegenheden op zijn werkterrein overeenkomstig de vergaderafspraken van de Bestuursraad. De Bestuursraad is verantwoordelijk voor de inrichting en het functioneren van het departement en het postennet in de ruimste zin des woords. De eindverantwoordelijkheid berust bij de SG, tevens voorzitter van de Bestuursraad, die belast is met de ambtelijke leiding van al hetgeen het ministerie betreft.
 
-#### Artikel 4. Managementraad
+##### Artikel 4. Managementraad
 
 De Managementraad vormt op tactisch niveau de schakel tussen beleid en uitvoering. De Managementraad stuurt door besluitvorming over en monitoring van organisatie-brede projecten en programma’s met betrekking tot het functioneren van het departement en de posten. PSG is voorzitter van de Managementraad. De Managementraad rapporteert aan de Bestuursraad.
 
-#### Artikel 5. Secretaris-Generaal (SG) en Plaatsvervangend Secretaris-Generaal (PSG)
+##### Artikel 5. Secretaris-Generaal (SG) en Plaatsvervangend Secretaris-Generaal (PSG)
 
 1. De secretaris-generaal heeft onder andere tot taak:
 
@@ -114,7 +140,7 @@ De SG geeft leiding aan de volgende centrale dienstonderdelen:
 
 - k. 3W | WereldWijd Werken (3W). 3W is een shared service organisatie belast met de levering van producten en diensten ter ondersteuning van diegenen die voor de Nederlandse overheid in het buitenland werken, reizen en verblijven.
 
-#### Artikel 6. Directoraat-Generaal Buitenlandse Economische Betrekkingen (DGBEB)
+##### Artikel 6. Directoraat-Generaal Buitenlandse Economische Betrekkingen (DGBEB)
 
 1. Het Directoraat-Generaal Buitenlandse Economische Betrekkingen (DGBEB) staat onder leiding van de Directeur-Generaal Buitenlandse Economische Betrekkingen en is belast met het versterken van de positie van ondernemend Nederland in de wereld. Het DGBEB draagt bij aan de ontwikkeling van een duurzaam mondiaal handels- en investeringssysteem. Tot de taak van het DGBEB behoren economische diplomatie, het bevorderen van de bilaterale handel en investeringen, het stimuleren van internationaal ondernemen, de acquisitie van investeringen uit het buitenland, de opdrachtverlening aan de Rijksdienst voor Ondernemend Nederland (RVO) op het gebied van economische diplomatie, het sluiten van handels- en investeringsverdragen via de Europese Unie, het sluiten van bilaterale investeringsverdragen en het stimuleren van internationaal maatschappelijk verantwoord ondernemen. Het DGBEB is, in overleg met het DGPZ, verantwoordelijk voor de controle op de export van strategische goederen.
 
@@ -128,7 +154,7 @@ Het DGBEB organiseert de economische missies naar het buitenland en is aanspreek
 
 - c. de directie Internationale Marktordening en Handelspolitiek (IMH). IMH is belast met het bevorderen van open internationale handel en investeringen alsmede de verankering daarvan in internationale afspraken en in Europees beleid. Voorts bevordert IMH internationaal maatschappelijk verantwoord ondernemen door de ontwikkeling van gedragsstandaarden voor het ondernemen en door als netwerkpartner rond internationaal ondernemen publiek-privaat bij te dragen aan het realiseren van duurzaamheids- en ontwikkelingsdoelen. IMH controleert de export van strategische goederen, met name goederen voor tweeërlei gebruik, gericht op kansen voor het innovatieve en hightech bedrijfsleven en een veiliger wereld.
 
-#### Artikel 7. Directoraat-Generaal Europese Samenwerking (DGES)
+##### Artikel 7. Directoraat-Generaal Europese Samenwerking (DGES)
 
 1. Het Directoraat-Generaal Europese Samenwerking (DGES) staat onder leiding van de Directeur-Generaal Europese Samenwerking en is verantwoordelijk voor de relatie tussen Nederland en afzonderlijke (kandidaat)lidstaten van de Europese Unie (EU). Het DGES draagt zorg voor een samenhangend Nederlands beleid binnen de Europese Unie en regionale organisaties zoals de Raad van Europa en de Benelux. Het DGES stemt de Nederlandse inbreng in het Europese besluitvormingsproces af met andere ministeries. Het DGES is een schakel tussen de andere ministeries en de permanente vertegenwoordiging bij de Europese Unie (PV EU) in Brussel. Het DGES draagt zorg voor de dienstverlening aan Nederlanders die in het buitenland verblijven, stelt beleid op t.a.v. visumverlening en is dienstverlenend aan de vreemdelingenketen op het terrein van toelating van vreemdelingen. Voorts is het DGES belast met internationale culturele samenwerking.
 
@@ -146,7 +172,7 @@ Het DGBEB organiseert de economische missies naar het buitenland en is aanspreek
 
 - f. de eenheid Internationaal Cultuurbeleid (ICE) is belast met de internationale culturele samenwerking, bestaande uit internationaal cultuurbeleid, internationale erfgoed samenwerking, alsmede cultuur en ontwikkelingshulp. ICE draagt door middel van cultuuruitwisseling en culturele initiatieven bij aan de Nederlandse bilaterale relaties en aan het beeld van Nederland over de grens. ICE versterkt de internationale positie van de Nederlandse creatieve industrie. Hoofd ICE is tevens Ambassadeur Internationale Culturele Samenwerking (ACS).
 
-#### Artikel 8. Directoraat-Generaal Internationale Samenwerking (DGIS)
+##### Artikel 8. Directoraat-Generaal Internationale Samenwerking (DGIS)
 
 1. Het Directoraat-Generaal Internationale Samenwerking (DGIS) staat onder leiding van de Directeur-Generaal Internationale Samenwerking en draagt zorg voor de initiëring, de coördinatie, het budgettair beheer en de uitvoering van het beleid voor internationale samenwerking.
 
@@ -162,7 +188,7 @@ Het DGBEB organiseert de economische missies naar het buitenland en is aanspreek
 
 - e. de directie Inclusieve Groene Groei (IGG). IGG is belast met de zorg voor de totstandkoming en uitvoering van het Nederlandse internationale beleid op de thema’s energie, klimaat, water, voedselzekerheid, grondstoffen en de polaire gebieden. Directeur IGG is tevens Ambassadeur Duurzame Ontwikkeling (AMDO) en Arctisch Ambassadeur (ARCA).
 
-#### Artikel 9. Directoraat-Generaal Politieke Zaken (DGPZ)
+##### Artikel 9. Directoraat-Generaal Politieke Zaken (DGPZ)
 
 1. Het Directoraat-Generaal Politieke Zaken (DGPZ) staat onder leiding van de Directeur-Generaal Politieke Zaken en geeft invulling aan het buitenlandbeleid (waaronder op het terrein van vrede en veiligheid, mensenrechten en het regiobeleid) en adviseert en coördineert op het gebied van buitenlandpolitieke aangelegenheden.
 
@@ -182,7 +208,7 @@ Het DGBEB organiseert de economische missies naar het buitenland en is aanspreek
 
 - g. de Eenheid Sanctiebeleid (ESB). ESB heeft tot doel om, met een strategische inzet, effectieve coördinatie van de naleving en doorontwikkeling van het instrumentarium, invulling te geven aan de Nederlandse ambitie om met de inzet van het sanctie-instrument de geopolitieke rol van de EU te ondersteunen. De directeur/speciaal gezant maakt deel uit van het DGPZ-MT.
 
-#### Artikel 10. Posten
+##### Artikel 10. Posten
 
 1. De posten ressorteren onder de secretaris-generaal (SG). De SG is onder meer verantwoordelijk voor hun jaarplannen, resultaatafspraken, formatie en personeel. Daarin wordt de SG bijgestaan door de hoofddirectie Postennet (HDPN). Voor de consulaire functie is er domeinsturing vanuit HDCV, voor de financiële functie vanuit FEZ. Sturing op beleid is er vanuit de Directoraten-Generaal binnen het Ministerie van Buitenlandse Zaken en vanuit andere ministeries.
 
@@ -204,19 +230,19 @@ Het DGBEB organiseert de economische missies naar het buitenland en is aanspreek
 
 De Chef de Poste van een ambassade of gezantschap kan tevens belast zijn met aansturing van de (honoraire) consulaten(-generaal) in het ambtsgebied.
 
-#### Artikel 11
+##### Artikel 11
 
 Tot de taak van de Plaatsvervangend Secretaris-Generaal en de Directeuren-Generaal ten aanzien van de onder hen behorende dienstonderdelen behoort voorts de uitvoering van andere taken dan hiervoor genoemd, opgedragen door de Secretaris-Generaal, gehoord de Bestuursraad.
 
-#### Artikel 12
+##### Artikel 12
 
 Het [Organisatiebesluit Buitenlandse Zaken 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0047008) wordt ingetrokken.
 
-#### Artikel 13
+##### Artikel 13
 
 Dit besluit wordt aangehaald als: Organisatiebesluit Buitenlandse Zaken 2024.
 
-#### Artikel 14
+##### Artikel 14
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 

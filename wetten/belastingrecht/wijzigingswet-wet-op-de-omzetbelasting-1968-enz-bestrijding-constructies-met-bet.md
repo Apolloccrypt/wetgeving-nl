@@ -1,14 +1,42 @@
 ---
-title: "Wijzigingswet Wet op de omzetbelasting 1968, enz. (bestrijding constructies met betrekking tot onroerende zaken)"
+title: "Wet van 18 december 1995, tot wijziging van de Wet op de omzetbelasting 1968, de Wet op belastingen van rechtsverkeer en enkele andere belastingwetten in verband met de bestrijding van constructies met betrekking tot onroerende zaken"
 identifier: "BWBR0007756"
-categorie: "Belastingrecht"
-publicatiedatum: 1995-12-29
-laatste_update: 1995-12-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007756"
+country: "nl"
+rank: "wet"
+publication_date: "1995-12-29"
+last_updated: "1995-12-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007756"
+soort: "wet"
+stam_id: "538403"
+version_id: "789322"
+internal_id: "C789321"
+label_id: "522674"
+dtd_version: "2.0"
+original_entry_into_force: "1995-12-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007756/1995-12-29/0"
+intitule_bron: "Stb.1995-659"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-12-18"
+intitule_published: "1995-12-28"
+intitule_in_force: "1995-12-28"
+intitule_status: "goed"
+original_publication: "Stb.1995-659"
+original_signed_date: "1995-12-18"
+original_published_date: "1995-12-28"
+original_effect: "nieuwe-regeling"
+original_dossier: "24172"
+original_url_id: "stb-1995-659"
+entry_into_force_date: "1995-12-29"
+entry_into_force_dossier: "24172"
+jci_1_3: "jci1.3:c:BWBR0007756&z=1995-12-29&g=1995-12-29"
+jci_1_0: "1.0:c:BWBR0007756&g=1995-12-29"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet Wet op de omzetbelasting 1968, enz. (bestrijding constructies met betrekking tot onroerende zaken)"
+signed_date: "1995-12-18"
+entry_into_force: "1995-12-29"
 ---
-
-# Wijzigingswet Wet op de omzetbelasting 1968, enz. (bestrijding constructies met betrekking tot onroerende zaken)
+# Wet van 18 december 1995, tot wijziging van de Wet op de omzetbelasting 1968, de Wet op belastingen van rechtsverkeer en enkele andere belastingwetten in verband met de bestrijding van constructies met betrekking tot onroerende zaken
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,23 +44,23 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is maatregelen te treff
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel II
+##### Artikel II
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel III
+##### Artikel III
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel IV
+##### Artikel IV
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel V
+##### Artikel V
 
 1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst, en werkt met uitzondering van [artikel II, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0007756&artikel=II&z=1995-12-29&g=1995-12-29), [artikel III, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0007756&artikel=III&z=1995-12-29&g=1995-12-29).2, en het in [artikel III, onderdeel H](https://wetten.overheid.nl/jci1.3:c:BWBR0007756&artikel=III&z=1995-12-29&g=1995-12-29), opgenomen [artikel 55 van de Wet op belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=55), terug tot en met 31 maart 1995, 18.00 uur.
 
@@ -62,7 +90,7 @@ Bevat wijzigingen in andere regelgeving.
 
 10. Met betrekking tot de verkrijging van zaken als bedoeld in [artikel 4 van de Wet op belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=4) blijft [artikel III, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0007756&artikel=III&z=1995-12-29&g=1995-12-29), buiten toepassing indien wordt aangetoond dat de verkrijging het gevolg is van een op 31 maart 1995, 18.00 uur, bestaande schriftelijke overeenkomst, mits de overeenkomst binnen vier weken na de inwerkingtreding van deze wet is gemeld bij de inspecteur.
 
-#### Artikel VI
+##### Artikel VI
 
 1. [Artikel 258 van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=258) is van toepassing op de verhuur van onroerende zaken op grond van een op 31 maart 1995, 18.00 uur, bestaande schriftelijke overeenkomst.
 

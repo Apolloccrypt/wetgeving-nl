@@ -1,13 +1,35 @@
 ---
 title: "Reglement Participatiefonds voor het Primair Onderwijs en de Expertisecentra versie 1 januari 2025"
 identifier: "BWBR0050289"
-categorie: "Onderwijs"
-publicatiedatum: 2026-03-10
-laatste_update: 2026-03-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050289"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-03-10"
+last_updated: "2026-03-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050289"
+soort: "zbo"
+stam_id: "17239413"
+version_id: "30756482"
+internal_id: "C44085151"
+label_id: "17145634"
+dtd_version: "2.0"
+original_entry_into_force: "2025-06-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050289/2026-03-10/0"
+intitule_bron: "Stcrt.2024-33307"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2024-10-15"
+intitule_in_force: "2024-10-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-18874"
+original_published_date: "2025-06-04"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2025-18874"
+entry_into_force_date: "2025-06-04"
+jci_1_3: "jci1.3:c:BWBR0050289&z=2026-03-10&g=2026-03-10"
+jci_1_0: "1.0:c:BWBR0050289&g=2026-03-10"
+citeertitel_status: "officieel"
+entry_into_force: "2025-06-04"
 ---
-
 # Reglement Participatiefonds voor het Primair Onderwijs en de Expertisecentra versie 1 januari 2025
 
 ### Hoofdstuk 1. Algemene bepalingen

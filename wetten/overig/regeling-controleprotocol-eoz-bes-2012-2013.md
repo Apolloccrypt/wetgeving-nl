@@ -1,28 +1,54 @@
 ---
-title: "Regeling controleprotocol EOZ BES 2012-2013"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap, van 8 mei 2013, nr. IvhO/H3487415, houdende vaststelling van het controleprotocol voor de expertisecentra onderwijszorg in de sectoren PO, VO en BVE in Caribisch Nederland (Regeling controleprotocol EOZ BES 2012-2013)"
 identifier: "BWBR0033547"
-categorie: "Overig"
-publicatiedatum: 2013-06-20
-laatste_update: 2012-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033547"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2013-06-20"
+last_updated: "2012-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033547"
+soort: "ministeriele-regeling-BES"
+stam_id: "12287253"
+version_id: "20575762"
+internal_id: "C28939151"
+label_id: "12258534"
+dtd_version: "2.0"
+original_entry_into_force: "2013-06-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033547/2013-06-20/0"
+intitule_bron: "Stcrt.2013-15607"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-05-08"
+intitule_published: "2013-06-19"
+intitule_in_force: "2013-06-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-15607"
+original_signed_date: "2013-05-08"
+original_published_date: "2013-06-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-15607"
+entry_into_force_date: "2013-06-20"
+jci_1_3: "jci1.3:c:BWBR0033547&z=2013-06-20&g=2013-06-20"
+jci_1_0: "1.0:c:BWBR0033547&g=2013-06-20"
+citeertitel_status: "officieel"
+short_title: "Regeling controleprotocol EOZ BES 2012-2013"
+signed_date: "2013-05-08"
+entry_into_force: "2013-06-20"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap, van 8 mei 2013, nr. IvhO/H3487415, houdende vaststelling van het controleprotocol voor de expertisecentra onderwijszorg in de sectoren PO, VO en BVE in Caribisch Nederland (Regeling controleprotocol EOZ BES 2012-2013)
 
 Gelet op artikel 10, derde lid, van de subsidiebeschikking EOZ van 3 augustus 2012;
 
 Besluit:
 
-#### Artikel 1. Vaststelling controleprotocol EOZ BES
+##### Artikel 1. Vaststelling controleprotocol EOZ BES
 
 Het protocol voor de controle door de accountant bij de jaarlijkse verantwoording door de expertisecentra onderwijszorg in Caribisch Nederland over de periode 2012–2013 wordt vastgesteld overeenkomstig de bijlage bij deze regeling.
 
-#### Artikel 2. Inwerkingtreding
+##### Artikel 2. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin deze regeling wordt geplaatst en werkt terug tot en met 1 augustus 2012.
 
-#### Artikel 3. Citeertitel
+##### Artikel 3. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling controleprotocol EOZ BES 2012–2013.
 

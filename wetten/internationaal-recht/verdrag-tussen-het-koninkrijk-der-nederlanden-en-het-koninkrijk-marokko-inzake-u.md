@@ -1,13 +1,24 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Marokko inzake uitlevering"
 identifier: "BWBV0007025"
-categorie: "Internationaal recht"
-publicatiedatum: 2023-12-18
-laatste_update: 2023-12-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0007025"
+country: "nl"
+rank: "verdrag"
+publication_date: "2023-12-18"
+last_updated: "2023-12-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0007025"
+soort: "verdrag"
+stam_id: "10005643713"
+version_id: "10006216602"
+internal_id: "C10010054521"
+label_id: "10005625984"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0007025/2023-12-18/0"
+intitule_status: "nogniet"
+jci_1_3: "jci1.3:c:BWBV0007025&z=2023-12-18&g=2023-12-18"
+jci_1_0: "1.0:c:BWBV0007025&g=2023-12-18"
+citeertitel_status: "redactioneel"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Marokko inzake uitlevering
 
 Het Koninkrijk der Nederlanden
@@ -30,11 +41,11 @@ Geleid door de wens om te zorgen voor samenwerking met eerbiediging van de mense
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Verplichting tot uitlevering
+##### Artikel 1. Verplichting tot uitlevering
 
 De twee Partijen komen overeen, met inachtneming van de in dit Verdrag opgenomen bepalingen, personen aan elkaar uit te leveren die worden aangetroffen op het grondgebied van een van beide staten en tegen wie een strafvervolging is ingesteld of die worden gezocht met het oog op de tenuitvoerlegging van een door de rechter opgelegde straf of maatregel, welke vrijheidsbeneming met zich mee brengt, als gevolg van het plegen van een strafbaar feit.
 
-#### Artikel 2. Feiten die tot uitlevering kunnen leiden
+##### Artikel 2. Feiten die tot uitlevering kunnen leiden
 
 1. Uitlevering wordt toegestaan voor feiten die krachtens de wetten van de verzoekende partij en van de aangezochte partij strafbaar zijn gesteld met een vrijheidsstraf of met een maatregel welke vrijheidsbeneming meebrengt, met een maximum van ten minste een jaar of met een zwaardere straf. Als om uitlevering wordt verzocht met het oog op de tenuitvoerlegging van een strafvonnis, dient het deel van de straf dat nog moet worden uitgevoerd ten minste zes maanden te bedragen.
 
@@ -42,7 +53,7 @@ De twee Partijen komen overeen, met inachtneming van de in dit Verdrag opgenomen
 
 3. Voor strafbare feiten op het gebied van retributies, belastingen, douane en deviezen wordt uitlevering verleend onder de in dit Verdrag bepaalde voorwaarden.
 
-#### Artikel 3. Weigering van uitlevering
+##### Artikel 3. Weigering van uitlevering
 
 1. Uitlevering wordt niet toegestaan:
 
@@ -76,17 +87,17 @@ De twee Partijen komen overeen, met inachtneming van de in dit Verdrag opgenomen
 
 - e. indien de aangezochte staat, de aard van het strafbare feit en de belangen van de verzoekende staat in aanmerking nemend, van oordeel is dat de uitlevering van de opgeëiste persoon onverenigbaar is met humanitaire overwegingen, in het bijzonder gelet op de leeftijd of de gezondheid van die persoon.
 
-#### Artikel 4. Uitlevering van onderdanen
+##### Artikel 4. Uitlevering van onderdanen
 
 1. Uitleveringsverzoeken betreffende onderdanen worden behandeld overeenkomstig de nationale wetten van elke Partij. De hoedanigheid van onderdaan wordt beoordeeld op de datum waarop de feiten zijn begaan.
 
 2. Indien uitlevering uitsluitend op grond van de nationaliteit van de opgeëiste persoon wordt geweigerd, draagt de aangezochte Partij, overeenkomstig haar wetgeving en bij melding van de feiten door de verzoekende partij, de zaak voor vervolging aan haar bevoegde autoriteiten over. Te dien einde worden documenten, verslagen en voorwerpen die betrekking hebben op het strafbare feit kosteloos toegezonden op de wijze als bepaald in het [eerste lid van artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0007025&artikel=6&z=2023-12-18&g=2023-12-18), en wordt de verzoekende Partij in kennis gesteld van het genomen besluit.
 
-#### Artikel 5. Doodstraf
+##### Artikel 5. Doodstraf
 
 Indien op het feit waarvoor uitlevering wordt verzocht krachtens het recht van de verzoekende Partij de doodstraf is gesteld, wordt die straf krachtens dit Verdrag van rechtswege vervangen door de straf voor dezelfde feiten naar het recht van de aangezochte Partij.
 
-#### Artikel 6. Procedure met betrekking tot uitlevering en vereiste stukken
+##### Artikel 6. Procedure met betrekking tot uitlevering en vereiste stukken
 
 1. Het verzoek tot uitlevering en alle daaropvolgende correspondentie worden langs diplomatieke weg toegezonden.
 
@@ -102,11 +113,11 @@ Indien op het feit waarvoor uitlevering wordt verzocht krachtens het recht van d
 
 - e. een zo nauwkeurig mogelijk signalement van de opgeëiste persoon, en alle andere inlichtingen die van belang zijn om zijn identiteit en nationaliteit vast te stellen en, indien mogelijk, informatie aan de hand waarvan de opgeëiste persoon kan worden opgespoord.
 
-#### Artikel 7. Aanvullende informatie
+##### Artikel 7. Aanvullende informatie
 
 Indien de door de verzoekende Partij verstrekte informatie of documenten niet toereikend blijken om de aangezochte partij in staat te stellen een besluit uit hoofde van dit Verdrag te nemen, verzoekt laatstgenoemde Partij om de nodige aanvullende informatie en kan zij een termijn vaststellen voor het verkrijgen van deze informatie. Deze termijn mag niet korter zijn dan 20 dagen vanaf de datum van ontvangst van het verzoek. Aanvullende informatie of documenten kunnen rechtstreeks worden gevraagd en uitgewisseld tussen de in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0007025&artikel=23&z=2023-12-18&g=2023-12-18) hierna bedoelde centrale autoriteiten van de twee Partijen.
 
-#### Artikel 8. Voorlopige aanhouding
+##### Artikel 8. Voorlopige aanhouding
 
 1. In geval van spoed kunnen de bevoegde autoriteiten van de verzoekende Partij de voorlopige aanhouding van de opgeëiste persoon verzoeken.
 
@@ -120,7 +131,7 @@ Indien de door de verzoekende Partij verstrekte informatie of documenten niet to
 
 6. Invrijheidstelling vormt geen beletsel voor een nieuwe aanhouding en uitlevering van de opgeëiste persoon indien het officiële verzoek en de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0007025&artikel=6&z=2023-12-18&g=2023-12-18) bedoelde documenten op een latere datum worden overgelegd.
 
-#### Artikel 9. Specialiteitsbeginsel
+##### Artikel 9. Specialiteitsbeginsel
 
 1. De uitgeleverde persoon wordt niet vervolgd, berecht of in hechtenis gesteld met het oog op de tenuitvoerlegging van een straf of maatregel, noch aan enige andere beperking van zijn persoonlijke vrijheid onderworpen, wegens enig ander voor de overlevering begaan feit dan het feit dat de reden tot uitlevering is geweest, behalve in de volgende gevallen:
 
@@ -138,15 +149,15 @@ Indien de door de verzoekende Partij verstrekte informatie of documenten niet to
 
 - c. wordt bestraft met een maximumstraf die gelijk is aan of lager is dan die welke is vastgesteld voor het strafbare feit waarvoor uitlevering is verleend.
 
-#### Artikel 10. Verderlevering aan een derde staat
+##### Artikel 10. Verderlevering aan een derde staat
 
 Behoudens in het geval bedoeld in [artikel 9, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBV0007025&artikel=9&z=2023-12-18&g=2023-12-18), kan de verderlevering aan een derde staat niet worden toegestaan zonder de instemming van de Partij die de uitlevering heeft verleend. Die Partij kan overlegging van de in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007025&artikel=6&z=2023-12-18&g=2023-12-18), bedoelde stukken eisen.
 
-#### Artikel 11. Samenloop van verzoeken
+##### Artikel 11. Samenloop van verzoeken
 
 Indien door meerdere staten gelijktijdig om uitlevering wordt verzocht hetzij voor hetzelfde feit hetzij voor andere feiten, houdt de aangezochte Partij rekening met alle omstandigheden en met name met de ernst van het strafbare feit, de datum en plaats van het plegen ervan, de respectieve data van de verzoeken en de data van ontvangst ervan, de nationaliteit van de opgeëiste persoon en zijn status van beklaagde of veroordeelde, de mogelijkheid van latere uitlevering aan een andere staat.
 
-#### Artikel 12. Beslissing en overlevering
+##### Artikel 12. Beslissing en overlevering
 
 1. De aangezochte Partij deelt de verzoekende Partij onverwijld op de in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007025&artikel=6&z=2023-12-18&g=2023-12-18), bedoelde wijze haar beslissing omtrent het verzoek tot uitlevering mede.
 
@@ -158,7 +169,7 @@ Indien door meerdere staten gelijktijdig om uitlevering wordt verzocht hetzij vo
 
 5. In geval van overmacht die de overlevering of ontvangst van de opgeëiste persoon in de weg staat, stelt de getroffen Partij de andere Partij daarvan in kennis; beide Partijen komen een nieuwe overleveringsdatum overeen en het bepaalde in het vierde lid zal van toepassing zijn.
 
-#### Artikel 13. Tijdelijke of uitgestelde overlevering
+##### Artikel 13. Tijdelijke of uitgestelde overlevering
 
 1. De aangezochte Partij kan, na de uitlevering te hebben aanvaard, de overlevering van de opgeëiste persoon uitstellen wanneer tegen hem een procedure loopt of wanneer hij op het grondgebied van de aangezochte Partij een straf ondergaat wegens een ander strafbaar feit totdat de procedure is afgesloten of de daaraan opgelegde straf ten uitvoer is gelegd. De aangezochte Partij stelt de verzoekende Partij onmiddellijk in kennis van het uitstel van de overlevering.
 
@@ -166,7 +177,7 @@ Indien door meerdere staten gelijktijdig om uitlevering wordt verzocht hetzij vo
 
 3. De overlevering kan ook worden uitgesteld wanneer de overdracht wegens de gezondheidstoestand van de opgeëiste persoon zijn leven in gevaar kan brengen of zijn toestand kan verslechteren.
 
-#### Artikel 14. Inbeslagneming en overdracht van voorwerpen
+##### Artikel 14. Inbeslagneming en overdracht van voorwerpen
 
 1. Op verzoek van de verzoekende Partij neemt de aangezochte Partij, voor zover zulks krachtens haar wet is toegestaan. voorwerpen, kostbaarheden of documenten met betrekking tot het strafbare feit in beslag die als bewijs kunnen worden gebruikt of die naar aanleiding van het strafbare feit zijn aangetroffen op het ogenblik van de aanhouding in het bezit van de opgeëiste persoon zijn dan wel later zijn ontdekt en draagt deze over .
 
@@ -176,11 +187,11 @@ Indien door meerdere staten gelijktijdig om uitlevering wordt verzocht hetzij vo
 
 4. Wanneer de aangezochte Partij of derden rechten hebben verkregen op de voorwerpen die met het oog op een strafproces aan de verzoekende Partij zijn overhandigd, worden die voorwerpen zo spoedig mogelijk en kosteloos teruggegeven aan de aangezochte Partij, overeenkomstig de bepalingen van dit artikel.
 
-#### Artikel 15. Vereenvoudigde uitleveringsprocedure
+##### Artikel 15. Vereenvoudigde uitleveringsprocedure
 
 Beide Partijen kunnen gebruikmaken van een vereenvoudigde uitleveringsprocedure overeenkomstig hun respectieve nationale wetgeving.
 
-#### Artikel 16. Doortocht
+##### Artikel 16. Doortocht
 
 1. De doortocht over het grondgebied van een van de Partijen van een persoon die geen onderdaan is van die staat en die door een derde staat aan de andere Partij is overgeleverd, wordt door de centrale autoriteiten toegestaan na overlegging langs diplomatieke weg, of via de centrale autoriteit of via Interpol, in spoedeisende gevallen van een van de in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007025&artikel=6&z=2023-12-18&g=2023-12-18), bedoelde documenten, op voorwaarde dat dit niet strijdig is met de openbare orde of dat er geen strafbare feiten zijn ten aanzien waarvan de uitlevering overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0007025&artikel=3&z=2023-12-18&g=2023-12-18) moet worden geweigerd.
 
@@ -196,17 +207,17 @@ Beide Partijen kunnen gebruikmaken van een vereenvoudigde uitleveringsprocedure 
 
 5. De verzoekende Partij vergoedt de doorvoerpartij alle kosten die daartoe eventueel zijn gemaakt.
 
-#### Artikel 17. Te gebruiken talen en authenticatie van documenten
+##### Artikel 17. Te gebruiken talen en authenticatie van documenten
 
 1. Verzoeken om uitlevering en de bijbehorende stukken kunnen worden toegezonden in de taal van de verzoekende Partij, vergezeld van een vertaling in de taal van de aangezochte Partij of in de Franse taal.
 
 2. De stukken en documenten welke krachtens dit Verdrag worden overgedragen zijn vrijgesteld van alle formaliteiten van legalisatie.
 
-#### Artikel 18. Vertrouwelijkheid
+##### Artikel 18. Vertrouwelijkheid
 
 Beide Partijen komen overeen de vertrouwelijkheid te bewaren van alle documenten en informatie die tijdens uitleveringsprocedures worden gebruikt, met uitzondering van die welke noodzakelijk worden geacht voor de uitvoering van het verzoek.
 
-#### Artikel 19. Bescherming van persoonsgegevens
+##### Artikel 19. Bescherming van persoonsgegevens
 
 1. Voor de toepassing van dit artikel wordt onder gegevens verstaan alle informatie betreffende een geïdentificeerde of identificeerbare natuurlijke persoon.
 
@@ -220,7 +231,7 @@ Beide Partijen komen overeen de vertrouwelijkheid te bewaren van alle documenten
 
 6. De Partijen plegen overleg indien een krachtens het interne recht bevoegde rechterlijke autoriteit beslist over de toelaatbaarheid van de doorgifte van gegevens van de ene Partij naar de andere uit hoofde van dit Verdrag.
 
-#### Artikel 20. Kosten
+##### Artikel 20. Kosten
 
 1. De uit hoofde van de uitlevering op het grondgebied van de aangezochte Partij gemaakte kosten komen ten laste van die Partij.
 
@@ -228,17 +239,17 @@ Beide Partijen komen overeen de vertrouwelijkheid te bewaren van alle documenten
 
 3. Indien wordt vastgesteld dat er sprake is van buitengewone kosten, kunnen de Partijen in onderling overleg bepalen op welke wijze deze kosten moeten worden gedekt.
 
-#### Artikel 21. Verhouding tot andere verdragen
+##### Artikel 21. Verhouding tot andere verdragen
 
 Dit Verdrag laat de rechten en verplichtingen van de Partijen uit hoofde van enig ander verdrag, conventie of overeenkomst onverlet.
 
-#### Artikel 22. Overleg
+##### Artikel 22. Overleg
 
 1. De Partijen plegen langs diplomatieke weg overleg over de interpretatie en toepassing van dit Verdrag.
 
 2. Er wordt een gemengd raadgevend comité opgericht, bestaande uit vertegenwoordigers van het Ministerie van Justitie van beide Partijen, dat op verzoek van een van de Partijen periodiek bijeenkomt om de oplossing van problemen in verband met de toepassing van dit Verdrag te vergemakkelijken.
 
-#### Artikel 23. Centrale autoriteiten
+##### Artikel 23. Centrale autoriteiten
 
 1. De Partijen wijzen als centrale autoriteiten aan:
 
@@ -256,7 +267,7 @@ Dit Verdrag laat de rechten en verplichtingen van de Partijen uit hoofde van eni
 
 2. Beide partijen stellen elkaar schriftelijk via diplomatieke kanalen op de hoogte van elke wijziging van de centrale autoriteit.
 
-#### Artikel 24. Territoriale toepassing
+##### Artikel 24. Territoriale toepassing
 
 In overeenstemming met [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0007025&artikel=25&z=2023-12-18&g=2023-12-18) is dit Verdrag van toepassing:
 
@@ -264,7 +275,7 @@ In overeenstemming met [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0007
 
 - 2. Voor het Koninkrijk der Nederlanden: het Europese deel van Nederland, op Aruba, Curaçao, Sint Maarten, het Caribische deel van Nederland (de eilanden Bonaire, Sint Eustatius en Saba), tenzij in de in [artikel 25, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0007025&artikel=25&z=2023-12-18&g=2023-12-18), bedoelde kennisgeving anders is bepaald. In het laatste geval kan het Koninkrijk der Nederlanden de toepassing van dit Verdrag te allen tijde uitbreiden tot een of meer van zijn grondgebieden door middel van een kennisgeving die langs diplomatieke weg aan het Koninkrijk Marokko wordt toegezonden.
 
-#### Artikel 25. Slotbepalingen
+##### Artikel 25. Slotbepalingen
 
 1. Elk van de Partijen stelt de andere Partij in kennis van de voltooiing van de voor de inwerkingtreding van dit Verdrag grondwettelijk vereiste procedures.
 

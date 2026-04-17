@@ -1,14 +1,40 @@
 ---
-title: "Wet laden en lossen zeeschepen"
+title: "Wet van 15 december 2004, houdende regels ten aanzien van het veilig laden en lossen van zeeschepen (Wet laden en lossen zeeschepen)"
 identifier: "BWBR0017718"
-categorie: "Overig"
-publicatiedatum: 2010-12-31
-laatste_update: 2010-12-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0017718"
+country: "nl"
+rank: "wet"
+publication_date: "2010-12-31"
+last_updated: "2010-12-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0017718"
+soort: "wet"
+stam_id: "6508073"
+version_id: "11197232"
+internal_id: "C15368491"
+label_id: "6496924"
+original_entry_into_force: "2004-12-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0017718/2010-12-31/0"
+intitule_bron: "Stb.2004-683"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-12-15"
+intitule_published: "2004-12-23"
+intitule_in_force: "2004-12-30"
+intitule_status: "goed"
+original_publication: "Stb.2004-683"
+original_signed_date: "2004-12-15"
+original_published_date: "2004-12-23"
+original_effect: "nieuwe-regeling"
+original_dossier: "29713"
+original_url_id: "stb-2004-683"
+entry_into_force_date: "2004-12-31"
+jci_1_3: "jci1.3:c:BWBR0017718&z=2010-12-31&g=2010-12-31"
+jci_1_0: "1.0:c:BWBR0017718&g=2010-12-31"
+citeertitel_status: "officieel"
+short_title: "Wet laden en lossen zeeschepen"
+signed_date: "2004-12-15"
+entry_into_force: "2004-12-31"
 ---
-
-# Wet laden en lossen zeeschepen
+# Wet van 15 december 2004, houdende regels ten aanzien van het veilig laden en lossen van zeeschepen (Wet laden en lossen zeeschepen)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -20,7 +46,7 @@ De datum van inwerkingtreding is vastgesteld onder toepassing van artikel 16 van
 
 ### Hoofdstuk 1. Inleidende bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze wet en de daarop berustende bepalingen wordt, tenzij daarin anders is bepaald, verstaan onder:
 
@@ -62,7 +88,7 @@ De datum van inwerkingtreding is vastgesteld onder toepassing van artikel 16 van
 
 2. In deze wet en de daarop berustende bepalingen wordt, tenzij daarin anders is bepaald, onder graan mede verstaan: tarwe, mais, haver, rogge, gerst, rijst, peulvruchten, zaden en hun bewerkte vormen, waarvan het gedrag gelijk is aan dat van graan in onbewerkte staat.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Deze wet is van toepassing op:
 
@@ -76,13 +102,13 @@ De datum van inwerkingtreding is vastgesteld onder toepassing van artikel 16 van
 
 #### § 1. Verplichtingen van de terminalexploitant
 
-#### Artikel 3
+##### Artikel 3
 
 1. De terminalexploitant controleert of een bulkschip dat een door hem geëxploiteerde terminal aandoet, operationeel geschikt is voor het laden of lossen van vaste bulklading.
 
 2. Bij ministeriële regeling wordt vastgesteld welke aspecten van een bulkschip ter voldoening aan het eerste lid moeten worden gecontroleerd.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De terminalexploitant zorgt ervoor dat:
 
@@ -92,7 +118,7 @@ De datum van inwerkingtreding is vastgesteld onder toepassing van artikel 16 van
 
 2. Bij ministeriële regeling wordt bepaald welke informatie in de handleiding, bedoeld in het eerste lid, onderdeel b, moet worden opgenomen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De terminalexploitant zorgt ervoor dat in de terminal een gecertificeerd kwaliteitszorgsysteem wordt ontwikkeld en toegepast, dat voldoet aan bij ministeriële regeling aan te wijzen ISO-normen of daaraan gelijkwaardige normen.
 
@@ -100,19 +126,19 @@ De datum van inwerkingtreding is vastgesteld onder toepassing van artikel 16 van
 
 3. Bij ministeriële regeling kunnen nadere regels worden gesteld ten aanzien van de verplichtingen, bedoeld in het eerste en tweede lid.
 
-#### Artikel 6
+##### Artikel 6
 
 De terminalexploitant stelt een of meer personen aan als terminalvertegenwoordigers, die belast zijn met de voorbereiding, uitvoering en voltooiing van laad- of losverrichtingen in de terminal ten behoeve van een bepaald bulkschip.
 
 #### § 2. Verplichtingen van de kapitein en de terminalvertegenwoordiger
 
-#### Artikel 7
+##### Artikel 7
 
 1. De kapitein verstrekt de terminalvertegenwoordiger ruim voor het vermoedelijke aankomsttijdstip van het bulkschip bij de terminal de bij ministeriële regeling vast te stellen informatie.
 
 2. De terminalvertegenwoordiger verstrekt, nadat hij de eerste aankondiging van het vermoedelijke aankomsttijdstip van het bulkschip heeft ontvangen, de kapitein de bij ministeriële regeling vat te stellen informatie.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De kapitein:
 
@@ -128,7 +154,7 @@ De terminalexploitant stelt een of meer personen aan als terminalvertegenwoordig
 
 - b. gaat na of de kapitein in een zo vroeg mogelijk stadium beschikt over de bij ministeriële regeling vast te stellen gegevens.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De kapitein en de terminalvertegenwoordiger bereiken, alvorens vaste bulklading wordt geladen of gelost, overeenstemming over een laad- of losplan dat zeker stelt dat de voor dat bulkschip vastgestelde maximale langskrachten en buigende momenten op het bulkschip niet zullen worden overschreden gedurende het laden of lossen. Het laad- of losplan gaat vergezeld van bij ministeriële regeling vast te stellen controlelijsten.
 
@@ -138,7 +164,7 @@ De terminalexploitant stelt een of meer personen aan als terminalvertegenwoordig
 
 4. Bij ministeriële regeling kunnen regels worden gesteld over de bij de totstandkoming of wijziging van het laad- of losplan en de controlelijsten, bedoeld in het eerste lid, te gebruiken modellen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De kapitein en de terminalvertegenwoordiger voeren de laad- of losverrichtingen uit volgens het overeengekomen laad- of losplan.
 
@@ -148,21 +174,21 @@ De terminalexploitant stelt een of meer personen aan als terminalvertegenwoordig
 
 4. De kapitein en de terminalvertegenwoordiger brengen een doeltreffende communicatie tot stand en houden deze ononderbroken in stand, om op verzoeken om informatie over het verloop van het laden of lossen te kunnen reageren en om te verzekeren dat prompt gevolg wordt gegeven aan een bevel van de kapitein of de terminalvertegenwoordiger om de laad- of losverrichtingen stop te zetten.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Na het laden of lossen stellen de kapitein en de terminalvertegenwoordiger een schriftelijke verklaring op, waarin zij bevestigen dat het laden of lossen volgens het laad- of losplan, met inbegrip van eventuele overeengekomen wijzigingen, is verlopen.
 
 2. Bij ministeriële regeling wordt bepaald welke overige informatie in de schriftelijke verklaring wordt opgenomen.
 
-#### Artikel 12
+##### Artikel 12
 
 Het laad- of losplan en eventuele naderhand overeengekomen wijzigingen worden door de kapitein en de terminalvertegenwoordiger gedurende zes maanden bewaard.
 
-#### Artikel 13
+##### Artikel 13
 
 De terminalvertegenwoordiger stelt de toezichthouder, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017718&hoofdstuk=3&artikel=15&z=2010-12-31&g=2010-12-31), en de kapitein terstond in kennis van door hem aan boord van een bulkschip vastgestelde tekortkomingen waardoor de veiligheid van het laden of lossen van vaste bulklading in gevaar kan komen.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Wanneer de structuur of de uitrusting van het bulkschip tijdens het laden of lossen wordt beschadigd, wordt deze schade door de terminalvertegenwoordiger aan de kapitein gemeld en zo nodig gerepareerd.
 
@@ -174,7 +200,7 @@ De terminalvertegenwoordiger stelt de toezichthouder, bedoeld in [artikel 15, ee
 
 ### Hoofdstuk 3. Toezicht
 
-#### Artikel 15
+##### Artikel 15
 
 1. Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de ambtenaren van de Inspectie Verkeer en Waterstaat.
 
@@ -186,7 +212,7 @@ De terminalvertegenwoordiger stelt de toezichthouder, bedoeld in [artikel 15, ee
 
 ### Hoofdstuk 4. Sancties
 
-#### Artikel 16
+##### Artikel 16
 
 1. De toezichthouder zet het laden of lossen van vaste bulklading stop indien hij duidelijke aanwijzingen heeft dat de veiligheid van het bulkschip of de bemanning door de laad- of loshandelingen in gevaar zou worden gebracht.
 
@@ -196,7 +222,7 @@ De terminalvertegenwoordiger stelt de toezichthouder, bedoeld in [artikel 15, ee
 
 4. [Afdeling 5.3.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=5.3.1) is niet van toepassing op de in het eerste lid bedoelde bevoegdheid.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De toezichthouder, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017718&hoofdstuk=3&artikel=15&z=2010-12-31&g=2010-12-31), kan een bulkschip aanhouden, indien schade die tijdens het laden of lossen van vaste bulklading is ontstaan de veiligheid van het bulkschip of de bemanning in gevaar zou kunnen brengen.
 
@@ -204,7 +230,7 @@ De terminalvertegenwoordiger stelt de toezichthouder, bedoeld in [artikel 15, ee
 
 3. [Afdeling 5.3.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=5.3.1) is niet van toepassing op de in het eerste lid bedoelde bevoegdheid.
 
-#### Artikel 18
+##### Artikel 18
 
 1. In afwijking van [artikel 3:41, eerste lid, van de Algemene wet bestuursrecht](onbekend) geschiedt de bekendmaking van het besluit tot stopzetting van het laden of lossen of aanhouding voorzover dat gericht is tot het bulkschip, door uitreiking van dit besluit aan de kapitein.
 
@@ -214,7 +240,7 @@ De terminalvertegenwoordiger stelt de toezichthouder, bedoeld in [artikel 15, ee
 
 4. Het eerste tot en met derde lid is van overeenkomstige toepassing op besluiten tot opheffing van de stopzetting van het laden of lossen of tot opheffing van de aanhouding.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Het is de terminalexploitant verboden om bulkschepen in zijn terminal te laden of te lossen zonder aan de bij of krachtens de [artikelen 3 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017718&hoofdstuk=2&paragraaf=1&artikel=3&z=2010-12-31&g=2010-12-31) op hem rustende verplichtingen te voldoen.
 
@@ -228,7 +254,7 @@ De terminalvertegenwoordiger stelt de toezichthouder, bedoeld in [artikel 15, ee
 
 ### Hoofdstuk 5. Rechtsbescherming
 
-#### Artikel 20
+##### Artikel 20
 
 1. Tegen besluiten van een toezichthouder kan iedere belanghebbende beroep instellen bij Onze Minister.
 
@@ -236,17 +262,17 @@ De terminalvertegenwoordiger stelt de toezichthouder, bedoeld in [artikel 15, ee
 
 ### Hoofdstuk 6. Overige bepalingen
 
-#### Artikel 21
+##### Artikel 21
 
 1. Onze Minister verleent op aanvraag voor ten hoogste twaalf maanden ontheffing van de verplichting, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017718&hoofdstuk=2&paragraaf=1&artikel=5&z=2010-12-31&g=2010-12-31) ten behoeve van een terminal die na 5 februari 2005 in werking wordt genomen, indien de terminalexploitant voldoende heeft aangetoond voornemens te zijn in die terminal een kwaliteitszorgsysteem als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017718&hoofdstuk=2&paragraaf=1&artikel=5&z=2010-12-31&g=2010-12-31), in te voeren.
 
 2. In aanvulling op [artikel 4.2, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:2) kunnen bij ministeriële regeling regels worden gesteld met betrekking tot de aanvraagprocedure.
 
-#### Artikel 22
+##### Artikel 22
 
 De toezichthouder, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017718&hoofdstuk=3&artikel=15&z=2010-12-31&g=2010-12-31), kan een aanwijzing geven aan de terminalvertegenwoordiger en de kapitein over de toepassing van de [artikelen 9 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0017718&hoofdstuk=2&paragraaf=2&artikel=9&z=2010-12-31&g=2010-12-31).
 
-#### Artikel 23
+##### Artikel 23
 
 1. De kosten die samenhangen met de behandeling van de aanvraag en de afgifte van de ontheffing, bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017718&hoofdstuk=6&artikel=21&z=2010-12-31&g=2010-12-31), of een ontheffing als bedoeld in [artikel 24, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017718&hoofdstuk=6&artikel=24&z=2010-12-31&g=2010-12-31), alsmede duplicaten en gewaarmerkte afschriften van een ontheffing, worden ten laste gebracht van de aanvrager van de ontheffing.
 
@@ -254,7 +280,7 @@ De toezichthouder, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.n
 
 3. In de regeling, bedoeld in het tweede lid, kan worden bepaald dat de vergoeding van kosten voorafgaand aan de behandeling van de aanvraag en de afgifte van de ontheffing, alsmede duplicaten en gewaarmerkte afschriften van de ontheffing, of in termijnen wordt betaald.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen ter implementatie van laden- en lossenrichtlijnen of ter uitvoering van bepalingen uit het SOLAS-verdrag die betrekking hebben op de zeevaart en regels stellen over procedures, taken en verantwoordelijkheden voor, tijdens en na het laden of lossen van een schip, of over technische eisen, informatieverschaffing of de afhandeling van schade in verband met het laden of lossen, regels worden gesteld.
 
@@ -270,13 +296,13 @@ De toezichthouder, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.n
 
 7. Een gedraging in strijd met de in het zesde lid bedoelde beperkingen en voorwaarden is verboden.
 
-#### Artikel 25
+##### Artikel 25
 
 Een wijziging van het SOLAS-verdrag gaat voor de toepassing van deze wet gelden met ingang van de dag waarop de betrokken wijziging internationaal in werking treedt, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, anders wordt bepaald.
 
 ### Hoofdstuk 7. Overgangs- en slotbepalingen
 
-#### Artikel 26
+##### Artikel 26
 
 Aan [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017718&hoofdstuk=2&paragraaf=1&artikel=5&z=2010-12-31&g=2010-12-31), wordt:
 
@@ -284,15 +310,15 @@ Aan [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017718&hoof
 
 - b. wat betreft de certificering van het kwaliteitszorgsysteem uiterlijk met ingang van 5 februari 2006 voldaan.
 
-#### Artikel 27
+##### Artikel 27
 
 Wijzigt de Wet op de economische delicten.
 
-#### Artikel 28
+##### Artikel 28
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. In dat besluit wordt zo nodig toepassing gegeven aan [artikel 16 van de Tijdelijke referendumwet](onbekend).
 
-#### Artikel 29
+##### Artikel 29
 
 Deze wet wordt aangehaald als: Wet laden en lossen zeeschepen.
 

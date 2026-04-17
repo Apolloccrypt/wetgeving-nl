@@ -1,13 +1,39 @@
 ---
-title: "Vaststellingsbesluit eenmalige uitkering 2005 en 2006 en wijziging besluiten in het kader van arbeidsvoorwaardenovereenkomst sector Defensie, periode 1 januari 2004 - 28 februari 2007"
+title: "Besluit van 11 mei 2007 tot vaststelling van een eenmalige uitkering 2005, een eenmalige uitkering 2006 en tot wijziging van enige besluiten in het kader van de arbeidsvoorwaardenovereenkomst voor de sector Defensie over de periode 1 januari 2004 tot en met 28 februari 2007, alsmede in verband met enige technische wijzigingen"
 identifier: "BWBR0022164"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2007-07-04
-laatste_update: 2007-07-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0022164"
+country: "nl"
+rank: "amvb"
+publication_date: "2007-07-04"
+last_updated: "2007-07-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0022164"
+soort: "AMvB"
+stam_id: "9134703"
+version_id: "14605252"
+internal_id: "C29472131"
+label_id: "9113774"
+dtd_version: "2.0"
+original_entry_into_force: "2007-07-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0022164/2007-07-04/0"
+intitule_bron: "Stb.2007-229"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-05-11"
+intitule_published: "2007-07-03"
+intitule_in_force: "2007-07-03"
+intitule_status: "goed"
+original_publication: "Stb.2007-229"
+original_signed_date: "2007-05-11"
+original_published_date: "2007-07-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2007-229"
+entry_into_force_date: "2007-07-04"
+jci_1_3: "jci1.3:c:BWBR0022164&z=2007-07-04&g=2007-07-04"
+jci_1_0: "1.0:c:BWBR0022164&g=2007-07-04"
+citeertitel_status: "redactioneel"
+short_title: "Vaststellingsbesluit eenmalige uitkering 2005 en 2006 en wijziging besluiten in het kader van arbeidsvoorwaardenovereenkomst sector Defensie, periode 1 januari 2004 - 28 februari 2007"
+signed_date: "2007-05-11"
+entry_into_force: "2007-07-04"
 ---
-
 # Besluit van 11 mei 2007 tot vaststelling van een eenmalige uitkering 2005, een eenmalige uitkering 2006 en tot wijziging van enige besluiten in het kader van de arbeidsvoorwaardenovereenkomst voor de sector Defensie over de periode 1 januari 2004 tot en met 28 februari 2007, alsmede in verband met enige technische wijzigingen
 
 ### Hoofdstuk 1. Toekenning van een eenmalige uitkering 2005 aan het defensiepersoneel (Toekenning eenmalige uitkering 2005 defensiepersoneel)
@@ -18,43 +44,43 @@ bron: "https://wetten.overheid.nl/BWBR0022164"
 
 ### Hoofdstuk 2. Toekenning van een eenmalige uitkering 2006 aan het defensiepersoneel (Toekenning eenmalige uitkering 2006 defensiepersoneel)
 
-#### Artikel 4
+##### Artikel 4
 
 Wijzigt het Besluit vaststelling eenmalige uitkering 2004, enz. (arbeidsvoorwaardenmaatregelen sector Defensie).
 
-#### Artikel 5
+##### Artikel 5
 
 Wijzigt het Algemeen militair ambtenarenreglement.
 
-#### Artikel 6
+##### Artikel 6
 
 Wijzigt het Besluit dienstreizen defensie.
 
-#### Artikel 7
+##### Artikel 7
 
 Wijzigt het Besluit personenchauffeurs defensie.
 
-#### Artikel 8
+##### Artikel 8
 
 Wijzigt het Besluit uitkering wegens functioneel leeftijdsontslag burgerlijke ambtenaren defensie.
 
-#### Artikel 9
+##### Artikel 9
 
 Wijzigt het Burgerlijk ambtenarenreglement defensie.
 
-#### Artikel 10
+##### Artikel 10
 
 Wijzigt het Inkomstenbesluit burgerlijke ambtenaren defensie.
 
-#### Artikel 11
+##### Artikel 11
 
 Wijzigt het Inkomstenbesluit militairen.
 
-#### Artikel 12
+##### Artikel 12
 
 Wijzigt het Verplaatsingskostenbesluit burgerlijke ambtenaren defensie.
 
-#### Artikel 13
+##### Artikel 13
 
 Wijzigt het Verplaatsingskostenbesluit militairen.
 
@@ -72,7 +98,7 @@ Gezien het nader rapport van de Staatssecretaris van Defensie van 2 mei 2007, nr
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Voor de toepassing van dit artikel wordt verstaan onder:
 
@@ -104,7 +130,7 @@ Hebben goedgevonden en verstaan:
 
 4. De eenmalige uitkering 2005 maakt voor de betrokkene, bedoeld in het eerste lid, onderdeel c, subonderdeel 2° en 4°, deel uit van de pensioengrondslag.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Voor de toepassing van dit artikel wordt verstaan onder:
 
@@ -138,7 +164,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 3. Toekenning van een eenmalige nominale uitkering 2006 en een eenmalige nominale uitkering 2007 aan gewezen militairen met een UKW-uitkering (Toekenning nominale uitkeringen 2006 en 2007 aan UKW-ers)
 
-#### Artikel 3
+##### Artikel 3
 
 1. De gewezen militair die op 1 januari 2006 aanspraak heeft op een uitkering op grond van de [Uitkeringswet gewezen militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002540), heeft aanspraak op een eenmalige nominale bruto uitkering ter grootte van € 435.
 
@@ -152,7 +178,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 6. Slotbepalingen
 
-#### Artikel 19
+##### Artikel 19
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2006, met dien verstande dat:
 
@@ -168,23 +194,23 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 14
+##### Artikel 14
 
 Wijzigt het Algemeen militair ambtenarenreglement.
 
-#### Artikel 15
+##### Artikel 15
 
 Wijzigt het Besluit personenchauffeurs defensie.
 
-#### Artikel 16
+##### Artikel 16
 
 Wijzigt het Burgerlijk ambtenarenreglement defensie.
 
-#### Artikel 17
+##### Artikel 17
 
 Wijzigt het Inkomstenbesluit burgerlijke ambtenaren defensie.
 
-#### Artikel 18
+##### Artikel 18
 
 Wijzigt het Inkomstenbesluit militairen.
 

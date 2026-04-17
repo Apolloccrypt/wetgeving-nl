@@ -1,13 +1,39 @@
 ---
-title: "Besluit vaststelling beleidsregels Onderzoekskader 2019 voor het toezicht op de Nederlandse scholen in het buitenland primair onderwijs en voortgezet onderwijs"
+title: "Besluit van de Minister voor Basis- en Voortgezet Onderwijs en Media, van 12 februari 2019, nr. 5252180, tot intrekking van waarderingskaders onder vaststelling van beleidsregels houdende Onderzoekskaders 2019"
 identifier: "BWBR0042056"
-categorie: "Onderwijs"
-publicatiedatum: 2024-08-01
-laatste_update: 2024-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042056"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-08-01"
+last_updated: "2024-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042056"
+soort: "ministeriele-regeling"
+stam_id: "15040093"
+version_id: "25768082"
+internal_id: "C36744571"
+label_id: "14989474"
+dtd_version: "2.0"
+original_entry_into_force: "2019-03-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042056/2024-08-01/0"
+intitule_bron: "Stcrt.2019-16503"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-02-12"
+intitule_published: "2019-03-27"
+intitule_in_force: "2019-03-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-16503"
+original_signed_date: "2018-02-12"
+original_published_date: "2019-03-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-16503"
+entry_into_force_date: "2019-03-28"
+jci_1_3: "jci1.3:c:BWBR0042056&z=2024-08-01&g=2024-08-01"
+jci_1_0: "1.0:c:BWBR0042056&g=2024-08-01"
+citeertitel_status: "redactioneel"
+short_title: "Besluit vaststelling beleidsregels Onderzoekskader 2019 voor het toezicht op de Nederlandse scholen in het buitenland primair onderwijs en voortgezet onderwijs"
+signed_date: "2018-02-12"
+entry_into_force: "2019-03-28"
 ---
-
 # Besluit van de Minister voor Basis- en Voortgezet Onderwijs en Media, van 12 februari 2019, nr. 5252180, tot intrekking van waarderingskaders onder vaststelling van beleidsregels houdende Onderzoekskaders 2019
 
 Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
@@ -18,7 +44,7 @@ Besluit:
 
 De datum van inwerkingtreding in de publicatie ligt voor de datum van uitgifte.
 
-#### Artikel 1
+##### Artikel 1
 
 De volgende beleidsregels worden vastgesteld:
 
@@ -26,7 +52,7 @@ De volgende beleidsregels worden vastgesteld:
 
 - 2. Onderzoekskader 2019 voor het toezicht op de Nederlandse scholen in het buitenland voortgezet onderwijs (bijlage II).
 
-#### Artikel 2
+##### Artikel 2
 
 De volgende beleidsregels worden ingetrokken:
 
@@ -34,7 +60,7 @@ De volgende beleidsregels worden ingetrokken:
 
 - 2. Waarderingskader NTC Voortgezet Onderwijs 20122https://www.onderwijsinspectie.nl/onderwijssectoren/nederlands-onderwijs-in-het-buitenland/documenten/publicaties/2012/01/01/waarderingskader-ntc-voortgezet-onderwijs-2012:
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van 1 januari 2019.
 

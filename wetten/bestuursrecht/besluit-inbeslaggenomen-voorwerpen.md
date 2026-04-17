@@ -1,13 +1,39 @@
 ---
-title: "Besluit inbeslaggenomen voorwerpen"
+title: "Besluit van 27 december 1995, houdende vaststelling van een algemene maatregel van bestuur tot uitvoering van de artikelen 117, eerste tot en met derde lid, en 118 van het Wetboek van Strafvordering betreffende de bewaring van inbeslaggenomen voorwerpen"
 identifier: "BWBR0007823"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007823"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007823"
+soort: "AMvB"
+stam_id: "2031283"
+version_id: "3035052"
+internal_id: "C3035051"
+label_id: "1979594"
+dtd_version: "2.0"
+original_entry_into_force: "1996-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007823/2025-01-01/0"
+intitule_bron: "Stb.1995-699"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-12-27"
+intitule_published: "1995-12-28"
+intitule_in_force: "1995-12-28"
+intitule_status: "goed"
+original_publication: "Stb.1995-699"
+original_signed_date: "1995-12-27"
+original_published_date: "1995-12-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-1995-699"
+entry_into_force_date: "1996-01-01"
+jci_1_3: "jci1.3:c:BWBR0007823&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0007823&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit inbeslaggenomen voorwerpen"
+signed_date: "1995-12-27"
+entry_into_force: "1996-01-01"
 ---
-
 # Besluit van 27 december 1995, houdende vaststelling van een algemene maatregel van bestuur tot uitvoering van de artikelen 117, eerste tot en met derde lid, en 118 van het Wetboek van Strafvordering betreffende de bewaring van inbeslaggenomen voorwerpen
 
 Op de voordracht van Onze Minister van Justitie van 28 november 1995, directie wetgeving nr. 527684/95/6.
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister van Justitie van 21 december 1995, di
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 Als bewaarders, bedoeld in [artikel 118, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=118), worden aangewezen:
 
@@ -50,43 +76,43 @@ Als bewaarders, bedoeld in [artikel 118, eerste lid, van het Wetboek van Strafvo
 
 - i. Domeinen Roerende Zaken van het Ministerie van Financiën voor bewaring van alle overige inbeslaggenomen voorwerpen.
 
-#### Artikel 2
+##### Artikel 2
 
 Zo spoedig mogelijk na de inbeslagneming beschrijft de inbeslagnemende ambtenaar en buitengewone opsporingsambtenaar het voorwerp zorgvuldig en, zo mogelijk na verpakking, waarmerkt deze het voorwerp deugdelijk, zodat te allen tijde de aard van het voorwerp, de herkomst en de reden van de inbeslagneming kan worden vastgesteld.
 
-#### Artikel 3
+##### Artikel 3
 
 De bewaarder geeft een voorwerp niet af dan tegen een bewijs, waarin de datum van de afgifte, de aard van het voorwerp en de naam en de hoedanigheid van de ontvanger zijn vermeld.
 
-#### Artikel 4
+##### Artikel 4
 
 Inbeslaggenomen geld wordt zo spoedig mogelijk op de bankrekening van de bewaarder als bedoeld in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007823&artikel=1&z=2025-01-01&g=2025-01-01), gestort, tenzij de officier van justitie bepaalt dat de bewaarder, bedoeld in artikel 1, onderdeel d, e of i, dit geld onder zich houdt.
 
-#### Artikel 5
+##### Artikel 5
 
 Indien de Koninklijke Nederlandse Munt N.V. de voorwerpen die bij hem in bewaring zijn gegeven, nog niet heeft beoordeeld wanneer afgifte van die voorwerpen wordt gevraagd, vormt hij zijn oordeel, alvorens tot afgifte over te gaan, zo spoedig mogelijk.
 
-#### Artikel 6
+##### Artikel 6
 
 De bewaarder draagt zorg dat een voorwerp zodanig wordt opgeslagen, dat het steeds met het minst mogelijk oponthoud voor het onderzoek beschikbaar kan worden gesteld.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De bewaarders en de ambtenaren die inbeslaggenomen voorwerpen onder zich hebben, nemen de nodige maatregelen tegen beschadiging, waardevermindering en ontvreemding van deze voorwerpen en tegen het ontstaan van gevaar voor personen of goederen door deze voorwerpen.
 
 2. Met betrekking tot voorwerpen, inbeslaggenomen ter zake van een overtreding van het bepaalde bij of krachtens de [Gezondheids- en welzijnswet voor dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0005662) dan wel de [Plantenziektenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002075) wordt, indien de daartoe te raadplegen ambtenaar van het Ministerie van Economische Zaken, Landbouw en Innovatie van mening is dat de wering van besmettingsgevaar dat eist, door de bewaarder zo spoedig mogelijk na de inbeslagneming de door deze ambtenaar aan te geven maatregelen genomen.
 
-#### Artikel 8
+##### Artikel 8
 
 Voorwerpen die om bijzondere redenen niet kunnen worden opgeslagen in een onder beheer van de bewaarder staande opslagplaats, mogen door hem op een andere geschikte plaats in bewaring worden gegeven.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Indien en voor zolang de opslag ingevolge het vorige artikel geschiedt in een ruimte in beheer bij een andere in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007823&artikel=1&z=2025-01-01&g=2025-01-01) genoemde bewaarder, wordt deze als de bewaarder van de voorwerpen aangemerkt.
 
 2. Als een geval als bedoeld in het eerste lid zich voordoet stelt de oorspronkelijke bewaarder het openbaar ministerie hiervan zo spoedig mogelijk schriftelijk in kennis. Daarnaast stuurt hij een afschrift van deze inkennisstelling aan de bewaarder van het voorwerp.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Onder de voorwerpen, bedoeld in [artikel 117, tweede lid, onder a, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=117), welke niet geschikt zijn voor opslag, zijn in ieder geval begrepen:
 
@@ -132,7 +158,7 @@ Voorwerpen die om bijzondere redenen niet kunnen worden opgeslagen in een onder 
 
 - 4°. motoren en auto’s met een waarde van meer dan € 600 en minder dan € 3.000.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De bewaring, het onderhoud en de teruggave van inbeslaggenomen voorwerpen of de opbrengst daarvan geschieden zonder kosten voor degene bij wie het voorwerp werd inbeslaggenomen en voor degene aan wie zij moeten worden teruggegeven.
 
@@ -154,11 +180,11 @@ Voorwerpen die om bijzondere redenen niet kunnen worden opgeslagen in een onder 
 
 - c. dat op last van de officier van justitie wegens een bijzondere reden niet giraal wordt bewaard.
 
-#### Artikel 12
+##### Artikel 12
 
 De bewaarders zijn na het verstrijken van de termijn bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007823&artikel=11&z=2025-01-01&g=2025-01-01), bevoegd met betrekking tot voorwerpen, ten aanzien waarvan het niet mogelijk is gebleken de last tot teruggave uit te voeren omdat de rechthebbende geen aanspraak heeft gemaakt op afgifte, te handelen op dezelfde wijze als met betrekking tot verbeurd verklaarde voorwerpen.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De opsporingsambtenaar die een inbeslaggenomen voorwerp bedoeld in [artikel 10, eerste lid, onder](https://wetten.overheid.nl/jci1.3:c:BWBR0007823&artikel=10&z=2025-01-01&g=2025-01-01) zich heeft, stelt zich onverwijld met het openbaar ministerie in verbinding, met het verzoek tot het verlenen van een machtiging tot vernietiging. De opsporingsambtenaar draagt tevens zorg voor de uitvoering van de machtiging tot vernietiging van middelen als bedoeld in de [artikelen 2 en 3 van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2) op de wijze bepaald in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0007823&artikel=15&z=2025-01-01&g=2025-01-01). [Artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007823&artikel=14&z=2025-01-01&g=2025-01-01) blijft buiten toepassing.
 
@@ -166,7 +192,7 @@ De bewaarders zijn na het verstrijken van de termijn bedoeld in [artikel 11, der
 
 3. Indien machtiging tot vernietiging of vervreemding is verleend aan de opsporingsambtenaar die het voorwerp onder zich heeft, stelt deze het voorwerp onverwijld ter beschikking van de daarvoor in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007823&artikel=1&z=2025-01-01&g=2025-01-01) aangewezen bewaarder.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Alvorens aan een verkregen machtiging tot het vernietigen, prijsgeven of bestemmen tot een ander doel dan het onderzoek uitvoering wordt gegeven, wordt de prijs geschat, die het betrokken voorwerp bij verkoop redelijkerwijs zou moeten opbrengen.
 
@@ -174,7 +200,7 @@ De bewaarders zijn na het verstrijken van de termijn bedoeld in [artikel 11, der
 
 3. De geschatte prijs en het oordeel van de in het tweede lid bedoelde deskundige worden in een rapport aan de officier van justitie vermeld.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Aan een machtiging tot het vernietigen of prijsgeven van een voorwerp wordt zo spoedig mogelijk gevolg gegeven op de voor het betrokken voorwerp geschikte wijze, met dien verstande dat in het geval, bedoeld in het [tweede lid van artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007823&artikel=7&z=2025-01-01&g=2025-01-01), aan een machtiging tot vernietiging gevolg wordt gegeven op de door de daartoe te raadplegen ambtenaar van het Ministerie van Economische Zaken, Landbouw en Innovatie aan te geven wijze.
 
@@ -186,19 +212,19 @@ De bewaarders zijn na het verstrijken van de termijn bedoeld in [artikel 11, der
 
 5. De datum en de wijze van uitvoering van de in dit artikel genoemde maatregelen worden vermeld in een rapport aan de officier van justitie.
 
-#### Artikel 16
+##### Artikel 16
 
 De bewaarder die een machtiging tot vervreemding om baat heeft uitgevoerd ten aanzien van voorwerpen die op grond van [artikel 94](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=94) of [94a van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=94a) inbeslaggenomen zijn, draagt na de uitvoering van deze last de opbrengst over aan de bewaarder genoemd in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007823&artikel=1&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 17
+##### Artikel 17
 
 Het besluit van 6 augustus 1993, **Stb.** 440 wordt ingetrokken.
 
-#### Artikel 18
+##### Artikel 18
 
 Dit besluit treedt in werking op 1 januari 1996.
 
-#### Artikel 19
+##### Artikel 19
 
 Dit besluit kan worden aangehaald als Besluit inbeslaggenomen voorwerpen.
 

@@ -1,13 +1,36 @@
 ---
 title: "Gewijzigde opzet van de carrièrepatronen voor het onderwijs ondersteunend personeel (OOP) en de aanpassingen in het RPBO in verband met de uniformering van de systematiek van de carrièrepatronen per 1 maart 2001"
 identifier: "BWBR0012797"
-categorie: "Onderwijs"
-publicatiedatum: 2001-09-19
-laatste_update: 2001-09-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012797"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2001-09-19"
+last_updated: "2001-09-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012797"
+soort: "beleidsregel"
+stam_id: "6817443"
+version_id: "11694122"
+internal_id: "C15762101"
+label_id: "6806014"
+original_entry_into_force: "2001-09-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012797/2001-09-19/0"
+intitule_bron: "Uitleg.2001-21"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-08-30"
+intitule_published: "2001-09-19"
+intitule_in_force: "2001-09-19"
+intitule_status: "goed"
+original_publication: "Uitleg.2001-21"
+original_signed_date: "2001-08-30"
+original_published_date: "2001-09-19"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2001-09-19"
+jci_1_3: "jci1.3:c:BWBR0012797&z=2001-09-19&g=2001-09-19"
+jci_1_0: "1.0:c:BWBR0012797&g=2001-09-19"
+citeertitel_status: "redactioneel"
+signed_date: "2001-08-30"
+entry_into_force: "2001-09-19"
 ---
-
 # Gewijzigde opzet van de carrièrepatronen voor het onderwijs ondersteunend personeel (OOP) en de aanpassingen in het RPBO in verband met de uniformering van de systematiek van de carrièrepatronen per 1 maart 2001
 
 ### Inleiding

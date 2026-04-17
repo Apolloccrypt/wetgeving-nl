@@ -1,14 +1,41 @@
 ---
-title: "Wijzigingswet Wet Luchtverkeer (bewijzen van bevoegdheid, bestrijding drank- en drugsgebruik)"
+title: "Wet van 26 maart 1997 tot wijziging van de Wet Luchtverkeer (bewijzen van bevoegdheid, bestrijding drank- en drugsgebruik)"
 identifier: "BWBR0008613"
-categorie: "Milieu"
-publicatiedatum: 2000-01-19
-laatste_update: 2000-01-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008613"
+country: "nl"
+rank: "wet"
+publication_date: "2000-01-19"
+last_updated: "2000-01-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008613"
+soort: "wet"
+stam_id: "574573"
+version_id: "834902"
+internal_id: "C834901"
+label_id: "557554"
+dtd_version: "2.0"
+original_entry_into_force: "1998-01-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008613/2000-01-19/0"
+intitule_bron: "Stb.1997-255"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-03-26"
+intitule_published: "1997-06-26"
+intitule_in_force: "1998-01-20"
+intitule_status: "goed"
+original_publication: "Stb.1997-255"
+original_signed_date: "1997-03-26"
+original_published_date: "1997-06-26"
+original_effect: "nieuwe-regeling"
+original_dossier: "24513"
+original_url_id: "stb-1997-255"
+entry_into_force_date: "1998-01-21"
+jci_1_3: "jci1.3:c:BWBR0008613&z=2000-01-19&g=2000-01-19"
+jci_1_0: "1.0:c:BWBR0008613&g=2000-01-19"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet Wet Luchtverkeer (bewijzen van bevoegdheid, bestrijding drank- en drugsgebruik)"
+signed_date: "1997-03-26"
+entry_into_force: "1998-01-21"
 ---
-
-# Wijzigingswet Wet Luchtverkeer (bewijzen van bevoegdheid, bestrijding drank- en drugsgebruik)
+# Wet van 26 maart 1997 tot wijziging van de Wet Luchtverkeer (bewijzen van bevoegdheid, bestrijding drank- en drugsgebruik)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -20,25 +47,25 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 Werkt terug tot en met 1 januari 1998.
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet Luchtverkeer.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Luchtvaartwet.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Coördinatiewet uitzonderingstoestanden.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Invoeringswet Coördinatiewet uitzonderingstoestanden.
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel V
+##### Artikel V
 
 1. De door Onze Minister van Verkeer en Waterstaat krachtens de [Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267) aan leden van het boordpersoneel afgegeven bewijzen van bevoegdheid, de daarop aangetekende bevoegdverklaringen alsmede de door hem aan leden van het boordpersoneel afgegeven bewijzen van gelijkstelling, welke op het tijdstip van inwerkingtreding van deze wet geldig zijn, worden aangemerkt als bewijzen van bevoegdheid, bevoegdverklaringen respectievelijk bewijzen van gelijkstelling op grond van de [Wet Luchtverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0005555).
 
@@ -46,7 +73,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 3. Opleidingen, welke krachtens de [Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267) zijn erkend, worden aangemerkt als opleidingen, erkend op grond van de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555).
 
-#### Artikel VI
+##### Artikel VI
 
 1. De behandeling van aanvragen om bewijzen van bevoegdheid, bevoegdverklaringen, bewijzen van gelijkstelling en medische verklaringen, alsmede van aanvragen om verlenging of vernieuwing van die bewijzen of verklaringen, welke voor het tijdstip van inwerkingtreding van deze wet door leden van het boordpersoneel zijn ingediend, geschiedt overeenkomstig de bepalingen van de [Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267), zoals die tot dat tijdstip luidden.
 
@@ -56,27 +83,27 @@ Dit onderdeel is nog niet inwerking getreden
 
 4. Op grond van het eerste, tweede of derde lid verleende bewijzen van bevoegdheid, bevoegdverklaringen, bewijzen van gelijkstelling en medische verklaringen worden aangemerkt als bewijzen van bevoegdheid, bevoegdverklaringen, bewijzen van gelijkstelling respectievelijk medische verklaringen op grond van de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555).
 
-#### Artikel VII
+##### Artikel VII
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Wet Luchtverkeer.
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Wet Luchtverkeer.
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel X
+##### Artikel X
 
 Het [Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775) wordt aangemerkt te zijn vastgesteld krachtens de artikelen 5.5, 5.11 en 5.12.
 
-#### Artikel XI
+##### Artikel XI
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 

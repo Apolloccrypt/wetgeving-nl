@@ -1,13 +1,37 @@
 ---
-title: "Resultaat onderzoek inzake ’Leidraad voor Europees aanbesteden’"
+title: "Controlebevindingen zoeklichtactie Europees aanbesteden"
 identifier: "BWBR0011147"
-categorie: "Internationaal recht"
-publicatiedatum: 2000-02-16
-laatste_update: 2000-02-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011147"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2000-02-16"
+last_updated: "2000-02-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011147"
+soort: "beleidsregel"
+stam_id: "6509553"
+version_id: "11198802"
+internal_id: "C15128671"
+label_id: "6498054"
+original_entry_into_force: "2000-02-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011147/2000-02-16/0"
+intitule_bron: "Uitleg.2000-4/5"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-02-03"
+intitule_published: "2000-02-16"
+intitule_in_force: "2000-02-16"
+intitule_status: "goed"
+original_publication: "Uitleg.2000-4/5"
+original_signed_date: "2000-02-03"
+original_published_date: "2000-02-16"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2000-02-16"
+jci_1_3: "jci1.3:c:BWBR0011147&z=2000-02-16&g=2000-02-16"
+jci_1_0: "1.0:c:BWBR0011147&g=2000-02-16"
+citeertitel_status: "redactioneel"
+short_title: "Resultaat onderzoek inzake ’Leidraad voor Europees aanbesteden’"
+signed_date: "2000-02-03"
+entry_into_force: "2000-02-16"
 ---
-
 # Controlebevindingen zoeklichtactie Europees aanbesteden
 
 ### Algemeen

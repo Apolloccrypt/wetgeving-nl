@@ -1,13 +1,39 @@
 ---
-title: "Regeling sturing van en toezicht op de Luchtverkeersleiding Nederland"
+title: "Regeling van de Minister van Infrastructuur en Milieu, van 12 december 2012, nr. IENM/BSK-2012/241280, houdende vaststelling regels in verband met de implementatie van de Kaderwet zelfstandige bestuursorganen en de sturing van en het toezicht op de Luchtverkeersleiding Nederland (Regeling sturing van en toezicht op de Luchtverkeersleiding Nederland)"
 identifier: "BWBR0032483"
-categorie: "Milieu"
-publicatiedatum: 2013-01-01
-laatste_update: 2013-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032483"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2013-01-01"
+last_updated: "2013-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032483"
+soort: "ministeriele-regeling"
+stam_id: "11966813"
+version_id: "19892192"
+internal_id: "C27935001"
+label_id: "11938854"
+dtd_version: "2.0"
+original_entry_into_force: "2013-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032483/2013-01-01/0"
+intitule_bron: "Stcrt.2012-25324"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-12-12"
+intitule_published: "2012-12-19"
+intitule_in_force: "2012-12-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-25324"
+original_signed_date: "2012-12-12"
+original_published_date: "2012-12-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-25324"
+entry_into_force_date: "2013-01-01"
+jci_1_3: "jci1.3:c:BWBR0032483&z=2013-01-01&g=2013-01-01"
+jci_1_0: "1.0:c:BWBR0032483&g=2013-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling sturing van en toezicht op de Luchtverkeersleiding Nederland"
+signed_date: "2012-12-12"
+entry_into_force: "2013-01-01"
 ---
-
 # Regeling van de Minister van Infrastructuur en Milieu, van 12 december 2012, nr. IENM/BSK-2012/241280, houdende vaststelling regels in verband met de implementatie van de Kaderwet zelfstandige bestuursorganen en de sturing van en het toezicht op de Luchtverkeersleiding Nederland (Regeling sturing van en toezicht op de Luchtverkeersleiding Nederland)
 
 Gelet op de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=26) en [32 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=32) en de [artikelen 5.32, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.32), en [5.42, eerste en tweede lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.42);
@@ -16,7 +42,7 @@ BESLUIT:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -34,27 +60,27 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Bestuur en raad van toezicht van de LVNL
 
-#### Artikel 2. Ontstentenis bestuur
+##### Artikel 2. Ontstentenis bestuur
 
 De LVNL informeert de minister onverwijld over de ontstentenis van een lid van de raad van bestuur met het oog op de conform [artikel 5.28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.28) te treffen voorziening.
 
-#### Artikel 3. Rol raad van toezicht
+##### Artikel 3. Rol raad van toezicht
 
 De raad van toezicht oefent onafhankelijk van bestuur en minister toezicht uit. De raad van toezicht heeft een interne toezichtfunctie en is daarbij gericht op het beleid van de directie en op de algemene gang van zaken in de LVNL. De raad van toezicht richt zich bij de vervulling van de taak naar het belang van de LVNL en weegt daartoe de in aanmerking komende belangen van de bij de LVNL betrokkenen af.
 
 #### § 3. Financieel toezicht
 
-#### Artikel 4. Begroting
+##### Artikel 4. Begroting
 
 De LVNL zendt jaarlijks voor 1 november de begroting voor het daaropvolgende jaar aan de minister.
 
-#### Artikel 5. Financieel meerjarenbeleidsplan
+##### Artikel 5. Financieel meerjarenbeleidsplan
 
 1. Het aan de minister voor te leggen financieel meerjarenbeleidsplan omvat de periode van het eerstvolgende begrotingsjaar en de vier daarop volgende jaren.
 
 2. Naast de vereisten die voortvloeien uit de common requirements en de verordening inzake prestatiesturing bevat het financieel meerjarenbeleidsplan tevens een omgevingsanalyse.
 
-#### Artikel 6. Controleprotocol
+##### Artikel 6. Controleprotocol
 
 1. Het controleprotocol is uitgewerkt in de bijlage bij deze regeling.
 
@@ -66,7 +92,7 @@ De LVNL zendt jaarlijks voor 1 november de begroting voor het daaropvolgende jaa
 
 - b. de juiste en volledige hantering van de vastgestelde tarieven.
 
-#### Artikel 7. Invulling van [artikel 5.32, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.32) juncto [artikel 32 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=32)
+##### Artikel 7. Invulling van [artikel 5.32, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.32) juncto [artikel 32 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=32)
 
 1. De LVNL behoeft de voorafgaande instemming van de minister voor:
 
@@ -92,11 +118,11 @@ De LVNL zendt jaarlijks voor 1 november de begroting voor het daaropvolgende jaa
 
 #### § 4. Informatie-uitwisseling
 
-#### Artikel 8. Jaarrekening
+##### Artikel 8. Jaarrekening
 
 Bij de inrichting van de jaarrekening wordt onderscheid gemaakt tussen de baten en lasten, alsook tussen de ontvangsten en uitgaven uit de bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) aan de LVNL opgedragen taken dan wel uit andere activiteiten.
 
-#### Artikel 9. Jaarverslag
+##### Artikel 9. Jaarverslag
 
 1. In aanvulling op [titel 9, van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9), en de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18) en [19 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=19) bevat het jaarverslag in ieder geval de volgende onderdelen:
 
@@ -132,7 +158,7 @@ Bij de inrichting van de jaarrekening wordt onderscheid gemaakt tussen de baten 
 
 - c. het aantal ingediende schadeclaims, onderverdeeld naar taak, en de resultaten daarvan.
 
-#### Artikel 10. Uitvoeringstoets LVNL
+##### Artikel 10. Uitvoeringstoets LVNL
 
 1. De minister legt de volgende voornemens tijdig aan de LVNL voor met het oog op een uitvoeringstoets:
 
@@ -150,7 +176,7 @@ Bij de inrichting van de jaarrekening wordt onderscheid gemaakt tussen de baten 
 
 4. Indien in de loop van het besluitvormingsproces het aan de LVNL voorgelegde voornemen op voor de LVNL relevante punten wordt gewijzigd, legt de minister de wijzigingen ten behoeve van een finale uitvoeringstoets voor aan de LVNL.
 
-#### Artikel 11. Uitvoeringsevaluaties
+##### Artikel 11. Uitvoeringsevaluaties
 
 1. De LVNL evalueert op een daartoe door de minister gedaan verzoek of uit eigen beweging de uitvoering van nieuw of bijgesteld beleid dan wel nieuwe of bijgestelde wet- en regelgeving.
 
@@ -158,19 +184,19 @@ Bij de inrichting van de jaarrekening wordt onderscheid gemaakt tussen de baten 
 
 3. De minister reageert op de door de LVNL toegezonden rapportage en geeft daarbij in ieder geval aan hoe de rapportage in de besluitvorming is of zal worden betrokken.
 
-#### Artikel 12. ICT-projecten
+##### Artikel 12. ICT-projecten
 
 De LVNL verschaft de minister structureel informatie over lopende dan wel in voorbereiding zijnde ICT-projecten waarover aan de Tweede Kamer der Staten-Generaal wordt gerapporteerd.
 
-#### Artikel 13. Integriteit
+##### Artikel 13. Integriteit
 
 De LVNL informeert de minister over het gevoerde integriteitsbeleid.
 
-#### Artikel 14. Onderzoek door derden ten behoeve van toezicht
+##### Artikel 14. Onderzoek door derden ten behoeve van toezicht
 
 Indien de minister na overleg met de LVNL een derde aanwijst om in het kader van het toezicht op het functioneren van de LVNL onderzoek te doen naar een door de minister te bepalen onderdeel van de LVNL of van de taakuitoefening door de LVNL, verstrekt de LVNL aan deze derde op de door de derde te bepalen wijze de ter zake van het onderzoek gevraagde informatie voor zover dit niet beperkt is door de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) of contract.
 
-#### Artikel 15. Informatieverstrekking van de minister aan de LVNL
+##### Artikel 15. Informatieverstrekking van de minister aan de LVNL
 
 De minister verstrekt de LVNL informatie met betrekking tot:
 
@@ -186,7 +212,7 @@ De minister verstrekt de LVNL informatie met betrekking tot:
 
 - f. klachten over het functioneren van de LVNL.
 
-#### Artikel 16. Instemmingstoets minister
+##### Artikel 16. Instemmingstoets minister
 
 1. De LVNL legt tot hem gerichte voorstellen tot taakopdracht door een ander bestuursorgaan tijdig voor aan de minister met het oog op het verkrijgen van diens instemming.
 
@@ -194,21 +220,21 @@ De minister verstrekt de LVNL informatie met betrekking tot:
 
 #### § 5. Overige bepalingen
 
-#### Artikel 17. Intrekking regeling
+##### Artikel 17. Intrekking regeling
 
 Het [Informatiestatuut LVNL](https://wetten.overheid.nl/jci1.3:c:BWBR0011600) wordt ingetrokken.
 
-#### Artikel 18. Citeertitel
+##### Artikel 18. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling sturing van en toezicht op de Luchtverkeersleiding Nederland.
 
-#### Artikel 19. Overgangsrecht
+##### Artikel 19. Overgangsrecht
 
 1. Op de jaarstukken 2012 worden de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0032483&paragraaf=3&artikel=6&z=2013-01-01&g=2013-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0032483&paragraaf=4&artikel=8&z=2013-01-01&g=2013-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0032483&paragraaf=4&artikel=9&z=2013-01-01&g=2013-01-01) niet toegepast voor zover deze bepalingen afwijken van de eerdere met de LVNL gemaakte afspraken en de LVNL heeft aangegeven voor de jaarstukken 2012 niet te kunnen voldoen aan de onderhavige regeling.
 
 2. Indien de LVNL heeft aangegeven voor de jaarstukken 2012 niet te kunnen voldoen aan de onderhavige regeling, geldt voor de jaarstukken 2012 de regelgeving zoals deze voor inwerkingtreding van deze regeling van toepassing was.
 
-#### Artikel 20. Inwerkingtreding
+##### Artikel 20. Inwerkingtreding
 
 Deze regeling treedt in werking op 1 januari 2013.
 

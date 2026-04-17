@@ -1,13 +1,38 @@
 ---
 title: "Regeling grenswaarden experiment concentreren uitvliegroute Spijkerboor"
 identifier: "BWBR0022862"
-categorie: "Overig"
-publicatiedatum: 2009-11-01
-laatste_update: 2009-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0022862"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2009-11-01"
+last_updated: "2009-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0022862"
+soort: "ministeriele-regeling"
+stam_id: "9284523"
+version_id: "14903062"
+internal_id: "C20275291"
+label_id: "9263084"
+dtd_version: "2.0"
+original_entry_into_force: "2007-11-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0022862/2009-11-01/0"
+intitule_bron: "Stcrt.2007-225"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-11-20"
+intitule_published: "2007-11-20"
+intitule_in_force: "2007-11-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-225"
+original_signed_date: "2007-11-20"
+original_published_date: "2007-11-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2007-225-p42-SC83082"
+entry_into_force_date: "2007-11-22"
+jci_1_3: "jci1.3:c:BWBR0022862&z=2009-11-01&g=2009-11-01"
+jci_1_0: "1.0:c:BWBR0022862&g=2009-11-01"
+citeertitel_status: "redactioneel"
+signed_date: "2007-11-20"
+entry_into_force: "2007-11-22"
 ---
-
 # Regeling grenswaarden experiment concentreren uitvliegroute Spijkerboor
 
 De Minister van Verkeer en Waterstaat, handelende in overeenstemming met de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,
@@ -16,7 +41,7 @@ Gelet op [artikel 8.23a, eerste lid, van de Wet luchtvaart](https://wetten.overh
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -38,11 +63,11 @@ In deze regeling wordt verstaan onder:
 
 - i. gebruiksjaar 2010: de periode van 1 november 2009 tot en met 31 oktober 2010.
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 Het experiment beoogt gedurende de gebruiksjaren 2008, 2009 en 2010 te onderzoeken of door het verkleinen van de horizontale spreiding van de uitvliegroute Spijkerboor vanaf de Kaagbaan (baan 24) per saldo de geluidhinder voor bewoners van Hoofddorp en Nieuw-Vennep afneemt.
 
-#### Artikel 3. Grenswaarden
+##### Artikel 3. Grenswaarden
 
 1. In plaats van de grenswaarden, genoemd in [bijlage 2 van het LVB](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&bijlage=2), gelden voor het gebruiksjaar 2008 voor de in de onderstaande tabel genoemde handhavingspunten de volgende grenswaarden:
 
@@ -211,15 +236,15 @@ Het experiment beoogt gedurende de gebruiksjaren 2008, 2009 en 2010 te onderzoek
 | 24 | 106.000 | 471.050 | 46,15 | (47,15) |
 | 25 | 100.475 | 472.525 | 48,84 | (49,84) |
 
-#### Artikel 4. Uitvoering
+##### Artikel 4. Uitvoering
 
 Het experiment houdt in dat alle Boeing 737 vliegtuigen van KLM bij vertrekkende vluchten vanaf de Kaagbaan (baan 24) de eerste bocht van de uitvliegroute Spijkerboor tussen Nieuw-Vennep en Hoofddorp nauwkeuriger vliegen, doordat de bocht met een vaste bochtstraal wordt gecodeerd.
 
-#### Artikel 5. Gevolgen
+##### Artikel 5. Gevolgen
 
 Als gevolg van het experiment zal naar verwachting per saldo minder hinder worden gecreëerd. Gedurende het experiment zullen de effecten regelmatig worden gemonitord.
 
-#### Artikel 6. Criteria
+##### Artikel 6. Criteria
 
 De criteria die onderdeel vormen van de afweging en de beoordeling of het experiment wordt omgezet in een wijziging van het [LVB](https://wetten.overheid.nl/jci1.3:c:BWBR0014330) zijn:
 
@@ -233,15 +258,15 @@ De criteria die onderdeel vormen van de afweging en de beoordeling of het experi
 
 - –. het effect op ruimtelijke contouren zoals vastgelegd in het [Luchthavenindelingbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014329), alsmede op de 20Ke contour uit de Nota Ruimte.
 
-#### Artikel 7. Onvoorziene gevallen
+##### Artikel 7. Onvoorziene gevallen
 
 In onvoorziene gevallen overleggen partijen in de begeleidingscommissie Pilots van de CROS. De begeleidingscommissie brengt hierover verslag uit aan de CROS, die vervolgens advies tot bijsturen, tijdelijk opschorten of stopzetten van het experiment uitbrengt aan de Minister van Verkeer en Waterstaat en de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.
 
-#### Artikel 8. Termijn
+##### Artikel 8. Termijn
 
 De termijn van het experiment betreft de periode vanaf 22 november 2007 tot en met 31 oktober 2008. De termijn van het verlengde experiment betreft het gebruiksjaar 2009. De termijn van het op grond van [artikel 8.23a, zesde lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.23a) verlengde experiment betreft de periode vanaf 1 november 2009 tot het tijdstip waarop het besluit tot wijziging van het [LVB](https://wetten.overheid.nl/jci1.3:c:BWBR0014330) waarmee het experiment onderdeel wordt van dat besluit in werking treedt.
 
-#### Artikel 9. Inwerkingtreding
+##### Artikel 9. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 22 november 2007.
 

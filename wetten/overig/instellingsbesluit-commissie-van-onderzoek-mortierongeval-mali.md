@@ -1,16 +1,41 @@
 ---
 title: "Instellingsbesluit Commissie van onderzoek mortierongeval Mali"
 identifier: "BWBR0047886"
-categorie: "Overig"
-publicatiedatum: 2023-02-18
-laatste_update: 2023-02-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047886"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-02-18"
+last_updated: "2023-02-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047886"
+soort: "ministeriele-regeling"
+stam_id: "16676993"
+version_id: "29253022"
+internal_id: "C41652461"
+label_id: "16594654"
+dtd_version: "2.0"
+original_entry_into_force: "2023-02-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047886/2023-02-18/0"
+intitule_bron: "Stcrt.2023-5596"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-02-10"
+intitule_published: "2023-02-17"
+intitule_in_force: "2023-02-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-5596"
+original_signed_date: "2023-02-10"
+original_published_date: "2023-02-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-5596"
+entry_into_force_date: "2023-02-18"
+jci_1_3: "jci1.3:c:BWBR0047886&z=2023-02-18&g=2023-02-18"
+jci_1_0: "1.0:c:BWBR0047886&g=2023-02-18"
+citeertitel_status: "officieel"
+signed_date: "2023-02-10"
+entry_into_force: "2023-02-18"
 ---
-
 # Instellingsbesluit Commissie van onderzoek mortierongeval Mali
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -18,7 +43,7 @@ In dit besluit wordt verstaan onder:
 
 - b. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047886&artikel=2&z=2023-02-18&g=2023-02-18).
 
-#### Artikel 2. Instelling en taak
+##### Artikel 2. Instelling en taak
 
 1. Er is een externe onafhankelijke commissie belast met de taak bedoeld in het tweede lid.
 
@@ -34,7 +59,7 @@ In dit besluit wordt verstaan onder:
 
 4. De commissie is bevoegd gedurende het onderzoek aanvullende vragen te formuleren en deze te onderzoeken en beantwoorden, indien zij daartoe bij de uitvoering van haar onderzoeksopdracht aanleiding ziet.
 
-#### Artikel 3. Samenstelling, benoeming, ontslag
+##### Artikel 3. Samenstelling, benoeming, ontslag
 
 1. De commissie bestaat uit vier leden, waaronder een voorzitter.
 
@@ -46,7 +71,7 @@ In dit besluit wordt verstaan onder:
 
 5. De leden van de commissie kunnen (op eigen verzoek of wegens ongeschiktheid, onbekwaamheid of op andere zwaarwegende gronden) op voordracht van de voorzitter worden geschorst en ontslagen door de Minister. De voorzitter kan (op eigen verzoek of wegens ongeschiktheid, onbekwaamheid of op andere zwaarwegende gronden) worden geschorst en ontslagen door de Minister.
 
-#### Artikel 4. Leden
+##### Artikel 4. Leden
 
 Tot lid van de commissie worden benoemd:
 
@@ -58,11 +83,11 @@ Tot lid van de commissie worden benoemd:
 
 - d. prof. dr. P.L.J. Bos.
 
-#### Artikel 5. Instellingsduur
+##### Artikel 5. Instellingsduur
 
 De commissie wordt ingesteld voor de duur van het onderzoek.
 
-#### Artikel 6. Ondersteuning
+##### Artikel 6. Ondersteuning
 
 1. De commissie voorziet zelf in haar secretariaat.
 
@@ -72,7 +97,7 @@ De commissie wordt ingesteld voor de duur van het onderzoek.
 
 4. De Minister draagt, op verzoek van de voorzitter, zorg voor de nodige voorzieningen ten behoeve van de werkzaamheden van de commissie.
 
-#### Artikel 7. Werkwijze
+##### Artikel 7. Werkwijze
 
 1. De commissie stelt haar eigen werkwijze vast.
 
@@ -100,7 +125,7 @@ De commissie wordt ingesteld voor de duur van het onderzoek.
 
 5. Omdat sprake is van een onderzoek dat door externen wordt verricht is de Aanwijzing Interne voorvalonderzoeken Defensie (SG-989) niet van toepassing.
 
-#### Artikel 8. Inwinnen van inlichtingen onderzoekscommissie
+##### Artikel 8. Inwinnen van inlichtingen onderzoekscommissie
 
 1. De commissie is bevoegd zich voor het inwinnen van inlichtingen rechtstreeks te wenden tot personen en instellingen en hen te verzoeken die medewerking te verlenen die redelijkerwijs nodig is voor de uitvoering van het onderzoek.
 
@@ -122,11 +147,11 @@ De commissie wordt ingesteld voor de duur van het onderzoek.
 
 10. De commissie zal zich verantwoorden over de aan haar geboden medewerking in het onderzoeksrapport.
 
-#### Artikel 9. Vergoeding
+##### Artikel 9. Vergoeding
 
 Op de werkzaamheden van de voorzitter en de leden is het [Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279) van toepassing.
 
-#### Artikel 10. Kosten van de onderzoekscommissie
+##### Artikel 10. Kosten van de onderzoekscommissie
 
 1. De kosten van de commissie komen, op basis van een door de Minister goedgekeurde begroting, voor rekening van de Minister. Onder kosten worden in ieder geval verstaan:
 
@@ -142,13 +167,13 @@ Op de werkzaamheden van de voorzitter en de leden is het [Besluit vergoedingen a
 
 2. De commissie biedt zo spoedig mogelijk na haar instelling een begroting aan de Minister aan. Deze bevat de kosten van de commissie. De uitgaven van de commissie worden vastgelegd in een financieel overzicht. Over het financieel overzicht stelt de ADR een accountantsverklaring op.
 
-#### Artikel 11. Eindrapport
+##### Artikel 11. Eindrapport
 
 1. De commissie brengt een eindrapport uit aan de Minister.
 
 2. De commissie verstrekt aan de Minister desgevraagd tussentijds de door haar gewenste inlichtingen.
 
-#### Artikel 12. Archiefbescheiden
+##### Artikel 12. Archiefbescheiden
 
 1. Het archief van de onderzoekscommissie wordt na afloop van de werkzaamheden van de commissie overgebracht naar het archief van het Ministerie van Defensie, Defensie Materieel Organisatie, Joint Informatievoorziening Commando, afdeling Informatiebeheer.
 
@@ -156,15 +181,15 @@ Op de werkzaamheden van de voorzitter en de leden is het [Besluit vergoedingen a
 
 3. De verplichtingen ter zake opslag, verwerking en vernietiging van gerubriceerde of gemerkte informatie worden in een separaat protocol vastgelegd.
 
-#### Artikel 13. Vrijwaring
+##### Artikel 13. Vrijwaring
 
 De Commissie, de leden van de Commissie en het secretariaat zijn zowel collectief als individueel gevrijwaard voor mogelijke claims van derden en financiële gevolgen met betrekking tot het uitvoeren van de opdracht onder [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047886&artikel=2&z=2023-02-18&g=2023-02-18) van dit besluit, tenzij van hun zijde sprake is van opzet of grove schuld.
 
-#### Artikel 14. Inwerkingtreding
+##### Artikel 14. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant, waarin het wordt geplaatst en werkt ten aanzien van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0047886&artikel=9&z=2023-02-18&g=2023-02-18) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0047886&artikel=10&z=2023-02-18&g=2023-02-18) terug tot en met 1 december 2022 voor zover het gaat om voorbereidende werkzaamheden.
 
-#### Artikel 15. Citeertitel
+##### Artikel 15. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie van onderzoek mortierongeval Mali.
 

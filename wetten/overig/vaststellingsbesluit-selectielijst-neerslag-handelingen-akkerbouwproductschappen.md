@@ -1,13 +1,37 @@
 ---
 title: "Vaststellingsbesluit selectielijst neerslag handelingen Akkerbouwproductschappen beleidsterrein Publiekrechtelijke bedrijfsorganisaties periode 1956–2002"
 identifier: "BWBR0018133"
-categorie: "Overig"
-publicatiedatum: 2005-06-16
-laatste_update: 2005-06-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0018133"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2005-06-16"
+last_updated: "2005-06-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0018133"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "7092253"
+version_id: "11987322"
+internal_id: "C25315181"
+label_id: "7080204"
+original_entry_into_force: "2005-06-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0018133/2005-06-16/0"
+intitule_bron: "Stcrt.2005-112"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-03-22"
+intitule_published: "2005-06-14"
+intitule_in_force: "2005-06-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-112"
+original_signed_date: "2005-03-22"
+original_published_date: "2005-06-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2005-112-p13-SC70236"
+entry_into_force_date: "2005-06-16"
+jci_1_3: "jci1.3:c:BWBR0018133&z=2005-06-16&g=2005-06-16"
+jci_1_0: "1.0:c:BWBR0018133&g=2005-06-16"
+citeertitel_status: "redactioneel"
+signed_date: "2005-03-22"
+entry_into_force: "2005-06-16"
 ---
-
 # Vaststellingsbesluit selectielijst neerslag handelingen Akkerbouwproductschappen beleidsterrein Publiekrechtelijke bedrijfsorganisaties periode 1956–2002
 
 Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
@@ -16,11 +40,11 @@ De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 4 november 200
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van de Akkerbouwproductschappen en de onder hem ressorterende actoren op het beleidsterrein Publiekrechtelijke bedrijfsorganisaties over de periode vanaf 1956–2002’ en de daarbij behorende toelichting worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

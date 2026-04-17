@@ -1,13 +1,38 @@
 ---
 title: "Inkomstenbelasting, vennootschapsbelasting, dividendbelasting, Algemene wet inzake rijksbelastingen, commanditaire vennootschap; het toestemmingsvereiste"
 identifier: "BWBR0037431"
-categorie: "Belastingrecht"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037431"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037431"
+soort: "beleidsregel"
+stam_id: "13362633"
+version_id: "22907032"
+internal_id: "C33129401"
+label_id: "13330604"
+dtd_version: "2.0"
+original_entry_into_force: "2015-12-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037431/2025-01-01/0"
+intitule_bron: "Stcrt.2015-46508"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-12-15"
+intitule_published: "2015-12-24"
+intitule_in_force: "2015-12-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-46508"
+original_signed_date: "2015-12-15"
+original_published_date: "2015-12-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-46508"
+entry_into_force_date: "2015-12-25"
+jci_1_3: "jci1.3:c:BWBR0037431&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0037431&g=2025-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "2015-12-15"
+entry_into_force: "2015-12-25"
 ---
-
 # Inkomstenbelasting, vennootschapsbelasting, dividendbelasting, Algemene wet inzake rijksbelastingen, commanditaire vennootschap; het toestemmingsvereiste
 
 De Staatssecretaris van Financiën heeft het volgende besloten.

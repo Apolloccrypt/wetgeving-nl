@@ -1,13 +1,38 @@
 ---
 title: "Inter-Amerikaans Verdrag inzake de bescherming en het behoud van zeeschildpadden"
 identifier: "BWBV0001954"
-categorie: "Internationaal recht"
-publicatiedatum: 2001-05-02
-laatste_update: 2001-05-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001954"
+country: "nl"
+rank: "verdrag"
+publication_date: "2001-05-02"
+last_updated: "2001-05-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001954"
+soort: "verdrag"
+stam_id: "10002582253"
+version_id: "10002573042"
+internal_id: "C10006990551"
+label_id: "10002571704"
+dtd_version: "2.0"
+original_entry_into_force: "2001-05-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001954/2001-05-02/0"
+intitule_bron: "Trb.1999-45"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-11-29"
+intitule_published: "1999-03-19"
+intitule_in_force: "2001-04-10"
+intitule_status: "goed"
+original_publication: "Trb.1999-45"
+original_signed_date: "2000-11-29"
+original_published_date: "1999-03-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1999-45"
+entry_into_force_date: "2001-05-02"
+jci_1_3: "jci1.3:c:BWBV0001954&z=2001-05-02&g=2001-05-02"
+jci_1_0: "1.0:c:BWBV0001954&g=2001-05-02"
+citeertitel_status: "redactioneel"
+signed_date: "2000-11-29"
+entry_into_force: "2001-05-02"
 ---
-
 # Inter-Amerikaans Verdrag inzake de bescherming en het behoud van zeeschildpadden
 
 Preambule
@@ -40,7 +65,7 @@ Verlangend door middel van dit Verdrag passende maatregelen vast te stellen ter 
 
 Zijn als volgt overeengekomen:
 
-#### Artikel I. Begripsomschrijvingen
+##### Artikel I. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag betekent:
 
@@ -52,15 +77,15 @@ Voor de toepassing van dit Verdrag betekent:
 
 - 4. „Amerikaanse Staten": de Staten van Noord-, Midden- en Zuid-Amerika en de Caribische Zee, alsmede andere Staten met grondgebied op het vasteland of op eilanden van dit gebied.
 
-#### Artikel II. Doelstelling
+##### Artikel II. Doelstelling
 
 De doelstelling van dit Verdrag is het bevorderen van de bescherming, het behoud en het herstel van zeeschildpaddenpopulaties en van de habitats van welke zij afhankelijk zijn, aan de hand van de beste wetenschappelijke gegevens die beschikbaar zijn, met inachtneming van de milieu-, sociaal-economische en culturele kenmerken van de Partijen.
 
-#### Artikel III. Toepassingsgebied van het Verdrag
+##### Artikel III. Toepassingsgebied van het Verdrag
 
 Het toepassingsgebied van dit Verdrag (het Verdragsgebied) omvat het landgebied in de Amerikaanse landen van elk der Partijen, alsmede de maritieme gebieden van de Atlantische Oceaan, de Caribische Zee en de Stille Zuidzee, waar elk der Partijen soevereiniteit, soevereine rechten of rechtsmacht uitoefent over levende mariene rijkdommen, overeenkomstig het internationale recht, als weergegeven in het Verdrag van de Verenigde Naties inzake het recht van de zee.
 
-#### Artikel IV. Maatregelen
+##### Artikel IV. Maatregelen
 
 1. Elke Partij neemt passende en noodzakelijke maatregelen, overeenkomstig het internationale recht en aan de hand van de beste wetenschappelijk gegevens die beschikbaar zijn, ter bescherming, behoud en herstel van zeeschildpaddenpopulaties en hun habitats:
 
@@ -104,7 +129,7 @@ Het toepassingsgebied van dit Verdrag (het Verdragsgebied) omvat het landgebied 
 
 4. Indien een noodsituatie wordt vastgesteld die de inspanningen ter verwezenlijking van dit Verdrag schaadt en gezamenlijke actie vereist, overwegen de Partijen de aanvaarding van passende en toereikende maatregelen om de situatie aan te pakken. Deze maatregelen zijn van tijdelijke aard en stoelen op de beste wetenschappelijke bevindingen die beschikbaar zijn.
 
-#### Artikel V. Vergaderingen van de Partijen
+##### Artikel V. Vergaderingen van de Partijen
 
 1. Gedurende de eerste drie jaren nadat dit Verdrag in werking is getreden houden de Partijen ten minste eenmaal per jaar een gewone vergadering om zaken betreffende de uitvoering van de bepalingen van dit Verdrag te bespreken. Daarna houden de Partijen ten minste elke twee jaar een gewone vergadering.
 
@@ -128,7 +153,7 @@ Het toepassingsgebied van dit Verdrag (het Verdragsgebied) omvat het landgebied 
 
 6. De Partijen kunnen andere belanghebbende Staten, ter zake doende internationale organisaties, alsmede de privé-sector, wetenschappelijke instellingen en niet-gouvernementele organisaties met erkende ervaring in zaken betreffende dit Verdrag uitnodigen haar vergaderingen als waarnemer bij te wonen en deel te nemen aan de activiteiten krachtens dit Verdrag.
 
-#### Artikel VI. Het secretariaat
+##### Artikel VI. Het secretariaat
 
 1. Tijdens haar eerste vergadering overwegen de Partijen de oprichting van een secretariaat met de volgende taken:
 
@@ -150,7 +175,7 @@ Het toepassingsgebied van dit Verdrag (het Verdragsgebied) omvat het landgebied 
 
 2. Als de Partijen tot oprichting besluiten, overwegen zij de mogelijkheid het secretariaat te benoemen uit deskundige internationale organisaties die bereid en in staat zijn de in dit artikel bepaalde taken uit te voeren. De Partijen stellen de financieringswijze vast benodigd voor de uitvoering van de taken van het secretariaat.
 
-#### Artikel VII. Raadgevend comité
+##### Artikel VII. Raadgevend comité
 
 1. Tijdens haar eerste vergadering richten de Partijen een raadgevend comité van deskundigen op, hierna te noemen „het raadgevend comité", dat is samengesteld als volgt:
 
@@ -184,7 +209,7 @@ Het toepassingsgebied van dit Verdrag (het Verdragsgebied) omvat het landgebied 
 
 4. De Partijen kunnen groepen van deskundigen oprichten ter advisering van het raadgevend comité.
 
-#### Artikel VIII. Wetenschappelijk comité
+##### Artikel VIII. Wetenschappelijk comité
 
 1. Tijdens haar eerste vergadering richten de Partijen een wetenschappelijk comité op dat zal bestaan uit door de Partijen aangewezen vertegenwoordigers en dat bij voorkeur vergadert voorafgaand aan de vergaderingen van het raadgevend comité.
 
@@ -202,7 +227,7 @@ Het toepassingsgebied van dit Verdrag (het Verdragsgebied) omvat het landgebied 
 
 - f. het vervullen van alle andere wetenschappelijke taken die de Partijen het opdragen.
 
-#### Artikel IX. Programma's van toezicht
+##### Artikel IX. Programma's van toezicht
 
 1. Gedurende het jaar volgend op de inwerkingtreding van dit Verdrag, stelt elke Partij binnen haar grondgebied en in maritieme gebieden waarover zij soevereiniteit, soevereine rechten of rechtsmacht uitoefent, een programma vast teneinde toezicht te verzekeren op de toepassing van de in dit Verdrag neergelegde of ingevolge dit Verdrag aangenomen maatregelen ter bescherming en behoud van zeeschildpadden en hun habitats.
 
@@ -210,17 +235,17 @@ Het toepassingsgebied van dit Verdrag (het Verdragsgebied) omvat het landgebied 
 
 3. Bij de uitvoering van het programma kan elke Partij optreden met de steun van of in samenwerking met andere belanghebbende Staten en relevante internationale organisaties, alsmede niet-gouvernementele organisaties.
 
-#### Artikel X. Naleving
+##### Artikel X. Naleving
 
 Elke Partij verzekert, binnen haar grondgebied en in de maritieme gebieden waarover zij soevereiniteit, soevereine rechten of rechtsmacht uitoefent, daadwerkelijke naleving van de in dit Verdrag neergelegde of ingevolge dit Verdrag aangenomen maatregelen ter bescherming en behoud van zeeschildpadden en hun habitats.
 
-#### Artikel XI. Jaarverslagen
+##### Artikel XI. Jaarverslagen
 
 1. Overeenkomstig Bijlage IV stelt elke Partij een jaarverslag op over de programma's die zij heeft aangenomen ter bescherming en behoud van zeeschildpadden en hun habitats, alsmede over alle programma's die zij mogelijkerwijs heeft aangenomen met betrekking tot het gebruik van deze soorten overeenkomstig het derde lid van artikel IV.
 
 2. Elke Partij verschaft, hetzij rechtstreeks hetzij via het secretariaat, indien opgericht, haar jaarverslag aan de andere Partijen en aan het raadgevend comité en het wetenschappelijk comité ten minste 30 dagen voor de volgende algemene vergadering van de Partijen en stelt deze jaarverslagen ook ter beschikking aan andere Staten of belanghebbende instanties die daarom verzoeken.
 
-#### Artikel XII. Internationale samenwerking
+##### Artikel XII. Internationale samenwerking
 
 1. De Partijen bevorderen bilaterale en multilaterale samenwerkingsactiviteiten ter bevordering van de doelstelling van dit Verdrag en zoeken, indien dit gepast wordt geacht, de steun van relevante internationale organisaties.
 
@@ -232,7 +257,7 @@ Elke Partij verzekert, binnen haar grondgebied en in de maritieme gebieden waaro
 
 5. De samenwerkingsactiviteiten houden tevens in het verlenen van bijstand, met inbegrip van technische bijstand aan Partijen die ontwikkelingslanden zijn, teneinde hen bij te staan bij het nakomen van hun verplichtingen krachtens dit Verdrag.
 
-#### Artikel XIII. Financiële middelen
+##### Artikel XIII. Financiële middelen
 
 1. Tijdens haar eerste vergadering schatten de Partijen de behoefte aan en de mogelijkheden van de verkrijging van financiële middelen in, met inbegrip van de oprichting van een speciaal fonds voor bijvoorbeeld de volgende doelen:
 
@@ -240,11 +265,11 @@ Elke Partij verzekert, binnen haar grondgebied en in de maritieme gebieden waaro
 
 - b. bijstand aan de Partijen die ontwikkelingslanden zijn bij de nakoming van haar verplichtingen krachtens dit Verdrag, met inbegrip van het verschaffen van toegang tot de meest passend geachte technologie.
 
-#### Artikel XIV. Coördinatie
+##### Artikel XIV. Coördinatie
 
 De Partijen streven ernaar hun activiteiten krachtens dit Verdrag te coördineren met relevante internationale organisaties, op mondiaal, regionaal of subregionaal niveau.
 
-#### Artikel XV. Maatregelen inzake de handel
+##### Artikel XV. Maatregelen inzake de handel
 
 1. Bij de uitvoering van dit Verdrag, handelen de Partijen overeenkomstig de bepalingen van de Overeenkomst tot oprichting van de Wereldhandelsorganisatie (WTO), aangenomen te Marrakesh in 1994, met inbegrip van de Bijlagen daarbij.
 
@@ -252,23 +277,23 @@ De Partijen streven ernaar hun activiteiten krachtens dit Verdrag te coördinere
 
 3. De Partijen streven ernaar de handel in vis en visserijproducten behorend bij dit Verdrag te vergemakkelijken overeenkomstig haar internationale verplichtingen.
 
-#### Artikel XVI. Beslechting van geschillen
+##### Artikel XVI. Beslechting van geschillen
 
 1. Een Partij kan een of meer andere Partijen raadplegen over een geschil met betrekking tot de uitlegging of de toepassing van de bepalingen van dit Verdrag, teneinde zo spoedig mogelijk een voor alle bij het geschil betrokken partijen bevredigende oplossing te bereiken.
 
 2. Indien een geschil binnen een redelijke termijn niet wordt beslecht door middel van deze raadpleging, raadplegen de betrokken Partijen elkaar zo spoedig mogelijk teneinde het geschil te beslechten met alle vreedzame middelen waartoe zij kunnen besluiten overeenkomstig het internationale recht, met inbegrip van, indien van toepassing, die middelen die zijn neergelegd in het Verdrag van de Verenigde Naties inzake het recht van de zee.
 
-#### Artikel XVII. Rechten van de Partijen
+##### Artikel XVII. Rechten van de Partijen
 
 1. Geen bepaling van dit Verdrag mag worden uitgelegd op een wijze die schade toebrengt aan de soevereiniteit, de soevereine rechten of de rechtsmacht die een Partij uitoefent overeenkomstig het internationale recht, of die deze ondergraaft.
 
 2. Geen bepaling van dit Verdrag, noch maatregelen getroffen of activiteiten verricht ter uitvoering ervan, kunnen worden uitgelegd op een wijze die het een Partij mogelijk maakt een vordering in te stellen of soevereiniteit, soevereine rechten of rechtsmacht uit te oefenen in strijd met het internationale recht.
 
-#### Artikel XVIII. Uitvoering op nationaal niveau
+##### Artikel XVIII. Uitvoering op nationaal niveau
 
 Elke Partij neemt maatregelen in haar respectieve nationale recht ter uitvoering van de bepalingen van dit Verdrag en ter verzekering van de daadwerkelijke naleving ervan door middel van beleid, plannen en programma's voor de bescherming en het behoud van zeeschildpadden en hun habitats.
 
-#### Artikel XIX. Niet-partijen
+##### Artikel XIX. Niet-partijen
 
 1. De Partijen stimuleren:
 
@@ -278,43 +303,43 @@ Elke Partij neemt maatregelen in haar respectieve nationale recht ter uitvoering
 
 2. De Partijen stimuleren alle Staten die geen partij zijn bij dit Verdrag om wetten en regelingen aan te nemen die stroken met de bepalingen van dit Verdrag.
 
-#### Artikel XX. Aanvullende protocollen
+##### Artikel XX. Aanvullende protocollen
 
 Teneinde de bescherming en het behoud van zeeschildpadden buiten het Verdragsgebied waar deze soorten ook voorkomen, te bevorderen, moeten de Partijen met Staten die niet in aanmerking komen om partij te worden bij dit Verdrag onderhandelen over een aanvullend protocol of aanvullende protocollen, in overeenstemming met de doelstelling van dit Verdrag, waarbij alle belanghebbende Staten partij kunnen worden.
 
-#### Artikel XXI. Ondertekening en bekrachtiging
+##### Artikel XXI. Ondertekening en bekrachtiging
 
 1. Dit Verdrag staat open voor ondertekening voor Amerikaanse Staten, te Caracas, Venezuela, van 1 december 1996 tot 31 december 1998.
 
 2. Dit Verdrag dient te worden bekrachtigd door de ondertekenende Staten overeenkomstig hun nationale wetten en procedures. De akten van bekrachtiging dienen te worden nedergelegd bij de Regering van Venezuela, die depositaris is.
 
-#### Artikel XXII. Inwerkingtreding en toetreding
+##### Artikel XXII. Inwerkingtreding en toetreding
 
 1. Dit Verdrag treedt in werking 90 dagen na de dag waarop de achtste akte van bekrachtiging is nedergelegd.
 
 2. Nadat dit Verdrag in werking is getreden, staat het open voor toetreding door Amerikaanse Staten. Dit Verdrag treedt in werking voor elk van deze Staten op de dag van nederlegging van de akte van toetreding bij de depositaris.
 
-#### Artikel XXIII. Voorbehouden
+##### Artikel XXIII. Voorbehouden
 
 Voorbehouden bij ondertekening en bekrachtiging van, of toetreding tot, dit Verdrag zijn niet toegestaan.
 
-#### Artikel XXIV. Wijzigingen
+##### Artikel XXIV. Wijzigingen
 
 1. Een Partij kan een wijziging van dit Verdrag voorstellen door de depositaris ten minste 60 dagen voorafgaand aan de eerstvolgende vergadering van de Partijen de tekst van een voorgestelde wijziging te verschaffen. De depositaris zendt een voorgestelde wijziging onmiddellijk naar alle Partijen.
 
 2. Wijzigingen van dit Verdrag, aangenomen overeenkomstig de bepalingen van artikel V, vijfde lid, treden in werking nadat de depositaris de akten van bekrachtiging van alle Partijen heeft ontvangen.
 
-#### Artikel XXV. Opzegging
+##### Artikel XXV. Opzegging
 
 Een Partij kan dit Verdrag op elk tijdstip na 12 maanden vanaf de datum waarop dit Verdrag voor die Partij in werking is getreden, opzeggen door middel van een schriftelijke kennisgeving van de opzegging aan de depositaris. De depositaris bericht de andere Partijen over de opzegging binnen 30 dagen na ontvangst van deze kennisgeving. De opzegging treedt in werking zes maanden na ontvangst van deze kennisgeving.
 
-#### Artikel XXVI. De status van de bijlagen
+##### Artikel XXVI. De status van de bijlagen
 
 1. De Bijlagen bij dit Verdrag vormen een integrerend deel van dit Verdrag. Alle verwijzingen naar dit Verdrag worden geacht tevens verwijzingen te zijn naar de Bijlagen bij dit Verdrag.
 
 2. Tenzij de Partijen anders overeenkomen, kunnen de Bijlagen bij dit Verdrag bij consensus worden gewijzigd bij elke vergadering van de Partijen. Tenzij anders overeengekomen, treden wijzigingen van een Bijlage in werking voor alle Partijen een jaar nadat zij zijn aangenomen.
 
-#### Artikel XXVII. Authentieke teksten en gewaarmerkte afschriften
+##### Artikel XXVII. Authentieke teksten en gewaarmerkte afschriften
 
 1. De Engelse, Franse, Portugese en Spaanse teksten van dit Verdrag zijn gelijkelijk authentiek.
 

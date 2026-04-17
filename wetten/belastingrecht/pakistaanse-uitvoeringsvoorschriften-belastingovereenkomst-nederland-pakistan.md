@@ -1,13 +1,38 @@
 ---
-title: "Pakistaanse uitvoeringsvoorschriften belastingovereenkomst Nederland-Pakistan"
+title: "Regeling inzake vermindering en vrijstelling van Pakistaanse belasting op dividenden, interest, royalty's en sommige andere soorten van inkomsten, genoten door inwoners van Nederland"
 identifier: "BWBR0004979"
-categorie: "Belastingrecht"
-publicatiedatum: 1991-01-27
-laatste_update: 1991-01-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004979"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1991-01-27"
+last_updated: "1991-01-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004979"
+soort: "ministeriele-regeling"
+stam_id: "5046253"
+version_id: "9098662"
+internal_id: "C12093391"
+label_id: "5022334"
+dtd_version: "2.0"
+original_entry_into_force: "1991-01-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004979/1991-01-27/0"
+intitule_bron: "Stcrt.1991-18"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1991-01-25"
+intitule_published: "1991-01-25"
+intitule_in_force: "1991-01-25"
+intitule_status: "goed"
+original_publication: "Stcrt.1991-18"
+original_signed_date: "1991-01-25"
+original_published_date: "1991-01-25"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1991-01-27"
+jci_1_3: "jci1.3:c:BWBR0004979&z=1991-01-27&g=1991-01-27"
+jci_1_0: "1.0:c:BWBR0004979&g=1991-01-27"
+citeertitel_status: "officieel"
+short_title: "Pakistaanse uitvoeringsvoorschriften belastingovereenkomst Nederland-Pakistan"
+signed_date: "1991-01-25"
+entry_into_force: "1991-01-27"
 ---
-
 # Regeling inzake vermindering en vrijstelling van Pakistaanse belasting op dividenden, interest, royalty's en sommige andere soorten van inkomsten, genoten door inwoners van Nederland
 
 Besluit:
@@ -16,7 +41,7 @@ Door plaatsing in de Staatscourant het navolgende ter kennis van belanghebbende 
 
 **Regeling inzake vermindering en vrijstelling van Pakistaanse belasting op dividenden, interest, royalty's en sommige andere soorten van inkomsten, genoten door inwoners van Nederland.**
 
-#### Artikel 1. Aanspraken van inwoners van Nederland
+##### Artikel 1. Aanspraken van inwoners van Nederland
 
 Aan de op 24 maart 1982 tussen Nederland en Pakistan gesloten Overeenkomst tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen (Trb. 1982, nr. 63), en het Protocol bij die Overeenkomst, kunnen inwoners van Nederland onder meer de volgende aanspraken ontlenen, geregeld in de hieronder tussen haakjes vermelde artikelen van de Overeenkomst en onderdelen van het Protocol:
 
@@ -38,7 +63,7 @@ Aan de op 24 maart 1982 tussen Nederland en Pakistan gesloten Overeenkomst tot h
 
 - i. Algehele vrijstelling van de Pakistaanse belasting op uit Pakistan afkomstige pensioenen ter zake van vroegere dienstbetrekking (met uitzondering van overheidspensioenen betaald door of namens de Pakistaanse Regering) en op lijfrenten betaald aan een inwoner van Nederland (artikel 18). De in de onderdelen a, b en d tot en met h van dit artikel vermelde verminderingen zijn te berekenen over het brutobedrag van de dividenden, interest en royalty's. De in onderdeel c van dit artikel vermelde vrijstelling alsmede de in de onderdelen a, b en d tot en met h van dit artikel vermelde verminderingen zijn niet van toepassing indien de uiteindelijk gerechtigde tot de dividenden, de interest of de royalty's in Pakistan een bedrijf uitoefent door middel van een aldaar gevestigde vaste inrichting of in Pakistan zelfstandige arbeid verricht vanuit een aldaar gevestigd vast middelpunt, en het aandelenbezit uit hoofde waarvan de dividenden worden betaald, de vordering uit hoofde waarvan de interest wordt betaald, of het recht of de zaak uit hoofde waarvan de royalty's verschuldigd zijn, tot het bedrijfsvermogen van die vaste inrichting of tot het beroepsvermogen van dat vaste middelpunt behoort (artikel 10, vijfde lid, respectievelijk artikel 11, vijfde lid, en artikel 12, vierde lid).
 
-#### Artikel 2. Pakistaanse regeling
+##### Artikel 2. Pakistaanse regeling
 
 Ter uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004979&artikel=1&z=1991-01-27&g=1991-01-27) is van Pakistaanse zijde de volgende regeling getroffen:
 
@@ -48,11 +73,11 @@ Ter uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004979&a
 
 - 3. Termijn van indiening van verzoeken om teruggaaf van belasting Verzoeken om teruggaaf van Pakistaanse belasting geheven van dividenden, interest en royalty's moeten worden ingediend binnen een tijdvak van drie jaren na het einde van het kalenderjaar waarin de belasting is geheven (onderdeel V van het Protocol).
 
-#### Artikel 3. Intrekking
+##### Artikel 3. Intrekking
 
 De beschikking van de Staatssecretaris van Financiën van 6 juni 1983, nr. 083-1387 (Stcrt. van 6 juni 1983, nr. 106), wordt ingetrokken.
 
-#### Artikel 4. Inwerkingtreding
+##### Artikel 4. Inwerkingtreding
 
 1. Deze regeling kan worden aangehaald als: Pakistaanse uitvoeringsvoorschriften belastingovereenkomst Nederland-Pakistan.
 

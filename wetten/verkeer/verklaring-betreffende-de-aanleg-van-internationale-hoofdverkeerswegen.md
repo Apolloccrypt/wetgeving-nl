@@ -1,13 +1,35 @@
 ---
 title: "Verklaring betreffende de aanleg van internationale hoofdverkeerswegen"
 identifier: "BWBV0005605"
-categorie: "Verkeer"
-publicatiedatum: 1967-11-07
-laatste_update: 1967-11-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005605"
+country: "nl"
+rank: "verdrag"
+publication_date: "1967-11-07"
+last_updated: "1967-11-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005605"
+soort: "verdrag"
+stam_id: "10004758373"
+version_id: "10005034742"
+internal_id: "C10007604631"
+label_id: "10004742394"
+dtd_version: "2.0"
+original_entry_into_force: "1952-12-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005605/1967-11-07/0"
+intitule_bron: "Trb.1954-123"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1954-10-02"
+intitule_in_force: "1954-10-02"
+intitule_status: "goed"
+original_publication: "Trb.1954-123"
+original_published_date: "1954-10-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1954-123"
+entry_into_force_date: "1952-12-04"
+jci_1_3: "jci1.3:c:BWBV0005605&z=1967-11-07&g=1967-11-07"
+jci_1_0: "1.0:c:BWBV0005605&g=1967-11-07"
+citeertitel_status: "redactioneel"
+entry_into_force: "1952-12-04"
 ---
-
 # Verklaring betreffende de aanleg van internationale hoofdverkeerswegen
 
 De ondergetekenden, behoorlijk gemachtigd,
@@ -20,27 +42,27 @@ Overwegende, dat het voor het nauwer aanhalen van de betrekkingen tussen de Euro
 
 #### A. NORMEN VOOR DE INTERNATIONALE HOOFDVERKEERSWEGEN
 
-#### I. Algemeen
+##### I. Algemeen
 
 De tekst van de vertaling is niet beschikbaar.
 
-#### II. Wegen
+##### II. Wegen
 
 De tekst van de vertaling is niet beschikbaar.
 
-#### III. Aansluitpunten en kruispunten
+##### III. Aansluitpunten en kruispunten
 
 De tekst van de vertaling is niet beschikbaar.
 
-#### IV. Omleggingen om steden en dorpen en lintbebouwing
+##### IV. Omleggingen om steden en dorpen en lintbebouwing
 
 De tekst van de vertaling is niet beschikbaar.
 
-#### V. Bruggen, tunnels, galerijen, enz.
+##### V. Bruggen, tunnels, galerijen, enz.
 
 De tekst van de vertaling is niet beschikbaar.
 
-#### VI. Landschapszorg
+##### VI. Landschapszorg
 
 De tekst van de vertaling is niet beschikbaar.
 

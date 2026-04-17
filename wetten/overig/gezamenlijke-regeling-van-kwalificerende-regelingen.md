@@ -1,24 +1,49 @@
 ---
 title: "Gezamenlijke regeling van kwalificerende regelingen"
 identifier: "BWBR0008492"
-categorie: "Overig"
-publicatiedatum: 1998-02-05
-laatste_update: 1998-02-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008492"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1998-02-05"
+last_updated: "1998-02-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008492"
+soort: "ministeriele-regeling"
+stam_id: "4793243"
+version_id: "6599782"
+internal_id: "C7057021"
+label_id: "4771454"
+dtd_version: "2.0"
+original_entry_into_force: "1997-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008492/1998-02-05/0"
+intitule_bron: "Stcrt.1997-29"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-01-09"
+intitule_published: "1997-02-11"
+intitule_in_force: "1996-12-23"
+intitule_status: "goed"
+original_publication: "Stcrt.1997-29"
+original_signed_date: "1997-01-09"
+original_published_date: "1997-02-11"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1997-01-01"
+entry_into_force_dossier: "24583"
+jci_1_3: "jci1.3:c:BWBR0008492&z=1998-02-05&g=1998-02-05"
+jci_1_0: "1.0:c:BWBR0008492&g=1998-02-05"
+citeertitel_status: "officieel"
+signed_date: "1997-01-09"
+entry_into_force: "1997-01-01"
 ---
-
 # Gezamenlijke regeling van kwalificerende regelingen
 
 Gelet op [artikel 35b, derde lid, van de Belastingregeling voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&artikel=35b);
 
 Besluiten:
 
-#### 1
+##### 1
 
 Deze regeling geeft uitvoering aan [artikel 35b, derde lid, van de Belastingregeling voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&artikel=35b).
 
-#### 2
+##### 2
 
 Als regelingen als bedoeld in [artikel 35b, derde lid, van de Belastingregeling voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&artikel=35b) worden aangewezen:
 
@@ -66,10 +91,10 @@ Als regelingen als bedoeld in [artikel 35b, derde lid, van de Belastingregeling 
 
 - i. Landsverordening Vrije Zones (A.B. 1988 no. GT 7), zoals deze luidde op 1 januari 1996, met dien verstande dat de bescherming van de [Belastingregeling voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002464) niet van toepassing is indien een vennootschap welke onder deze Landsverordening kwalificeert zich in enige mate (dat wil zeggen voor 10% of meer) toelegt op financiële dienstverlening.
 
-#### 3
+##### 3
 
 Deze regeling treedt in werking met ingang van de dag waarop de rijkswet wijziging van de [Belastingregeling voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002464) in verband met maatregelen met het oog op het tegengaan van misbruik en oneigenlijk gebruik alsmede in verband met enige technische aanpassingen inwerking treedt.
 
-#### 4
+##### 4
 
 Deze regeling kan worden aangehaald als: Gezamenlijke regeling van kwalificerende regelingen.

@@ -1,13 +1,24 @@
 ---
 title: "Overeenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Armenië, anderzijds, inzake een gemeenschappelijke luchtvaartruimte"
 identifier: "BWBV0006948"
-categorie: "Milieu"
-publicatiedatum: 2021-11-15
-laatste_update: 2021-11-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006948"
+country: "nl"
+rank: "verdrag"
+publication_date: "2021-11-15"
+last_updated: "2021-11-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006948"
+soort: "verdrag"
+stam_id: "10005604343"
+version_id: "10006146152"
+internal_id: "C10009875821"
+label_id: "10005586454"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006948/2021-11-15/0"
+intitule_status: "nogniet"
+jci_1_3: "jci1.3:c:BWBV0006948&z=2021-11-15&g=2021-11-15"
+jci_1_0: "1.0:c:BWBV0006948&g=2021-11-15"
+citeertitel_status: "redactioneel"
 ---
-
 # Overeenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Armenië, anderzijds, inzake een gemeenschappelijke luchtvaartruimte
 
 Het Koninkrijk België,
@@ -120,11 +131,11 @@ De wens uitdrukkend een overeenkomst inzake luchtvervoer te sluiten, in aanvulli
 
 Zijn als volgt overeengekomen:
 
-#### Artikel 1. Doel
+##### Artikel 1. Doel
 
 Deze overeenkomst heeft tot doel een gemeenschappelijke luchtvaartruimte tussen de partijen tot stand te brengen, gebaseerd op geleidelijke openstelling van de markten, liberalisering van de eigendom van en het zeggenschap over luchtvaartmaatschappijen, eerlijke en gelijke concurrentievoorwaarden, non-discriminatie en gemeenschappelijke regels op het gebied van veiligheid, beveiliging, luchtverkeersbeheer, sociale aspecten en het milieu. Daartoe worden in deze overeenkomst de tussen de partijen toepasselijke regels uiteengezet. Deze regels omvatten de bepalingen die zijn opgenomen in de in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0006948&bijlage=II&z=2021-11-15&g=2021-11-15) genoemde wetgeving.
 
-#### Artikel 2. Definities
+##### Artikel 2. Definities
 
 Tenzij anders bepaald, wordt met het oog op de toepassing van deze overeenkomst verstaan onder:
 
@@ -172,7 +183,7 @@ Tenzij anders bepaald, wordt met het oog op de toepassing van deze overeenkomst 
 
 ## TITEL I. ECONOMISCHE BEPALINGEN
 
-#### Artikel 3. Toekenning van rechten
+##### Artikel 3. Toekenning van rechten
 
 1. De overgangsbepalingen van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0006948&bijlage=I&z=2021-11-15&g=2021-11-15) van deze overeenkomst zijn van toepassing op de in dit artikel vastgestelde rechten.
 
@@ -230,7 +241,7 @@ De bij dit lid voorziene operationele flexibiliteit kan worden uitgeoefend zonde
 
 8. Niettegenstaande andere bepalingen van deze overeenkomst heeft elke partij het recht te weigeren internationaal luchtvervoer uit te voeren naar, van of via het grondgebied van een derde land waarmee deze partij geen diplomatieke betrekkingen onderhoudt.
 
-#### Artikel 4. Exploitatievergunning en technische vergunning
+##### Artikel 4. Exploitatievergunning en technische vergunning
 
 1. Bij ontvangst van een aanvraag voor een exploitatievergunning van een luchtvaartmaatschappij van een partij, verleent de andere partij zo spoedig mogelijk de exploitatievergunningen en passende technische vergunningen, voor zover:
 
@@ -262,7 +273,7 @@ Indien, na ontvangst van een aanvraag voor een exploitatievergunning van een luc
 
 Dit lid heeft geen betrekking op de erkenning van vaststellingen die verband houden met veiligheidscertificaten of -vergunningen, beveiligingsregelingen of verzekeringsdekking.
 
-#### Artikel 5. Weigering, intrekking, schorsing of beperking van exploitatievergunningen en technische vergunningen
+##### Artikel 5. Weigering, intrekking, schorsing of beperking van exploitatievergunningen en technische vergunningen
 
 1. Elke partij mag de exploitatievergunningen of technische vergunningen weigeren, intrekken, schorsen, aan voorwaarden onderwerpen of beperken of de activiteiten van een luchtvaartmaatschappij van de andere partij op een andere wijze weigeren, schorsen, aan voorwaarden onderwerpen of beperken als:
 
@@ -290,7 +301,7 @@ Dit lid heeft geen betrekking op de erkenning van vaststellingen die verband hou
 
 3. Dit artikel houdt geen beperking in van de rechten van de partijen om de exploitatievergunning of technische vergunning van een luchtvaartmaatschappij of luchtvaartmaatschappijen van de andere partij te weigeren, in te trekken, te schorsen, aan voorwaarden te onderwerpen of te beperken overeenkomstig [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006948&titeldeel=II&artikel=14&z=2021-11-15&g=2021-11-15) of [15](https://wetten.overheid.nl/jci1.3:c:BWBV0006948&titeldeel=II&artikel=15&z=2021-11-15&g=2021-11-15).
 
-#### Artikel 6. Investeringen in luchtvaartmaatschappijen
+##### Artikel 6. Investeringen in luchtvaartmaatschappijen
 
 1. Niettegenstaande de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006948&titeldeel=I&artikel=4&z=2021-11-15&g=2021-11-15) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0006948&titeldeel=I&artikel=5&z=2021-11-15&g=2021-11-15), en nadat het gemengd comité overeenkomstig [artikel 23, lid 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006948&titeldeel=III&artikel=23&z=2021-11-15&g=2021-11-15), heeft gecontroleerd of elke partij of haar onderdelen volgens haar wetgeving een meerderheidsbelang in of feitelijke zeggenschap over een luchtvaartmaatschappij van de andere partij mag verwerven, kunnen de partijen toestaan dat EU-lidstaten of hun onderdanen meerderheidseigenaar worden van of effectieve zeggenschap verwerven over een luchtvaartmaatschappij uit Armenië, of dat Armenië of onderdanen van Armenië meerderheidseigenaar worden van of effectieve zeggenschap verwerven over een luchtvaartmaatschappij uit de Europese Unie, overeenkomstig lid 2 van dit artikel.
 
@@ -298,7 +309,7 @@ Dit lid heeft geen betrekking op de erkenning van vaststellingen die verband hou
 
 In die beslissing worden de voorwaarden gespecificeerd voor de exploitatie van de in deze overeenkomst overeengekomen diensten en van de diensten tussen derde landen en de partijen. [Artikel 23, lid 11](https://wetten.overheid.nl/jci1.3:c:BWBV0006948&titeldeel=III&artikel=23&z=2021-11-15&g=2021-11-15), is niet van toepassing op die beslissing.
 
-#### Artikel 7. Naleving van wet- en regelgeving
+##### Artikel 7. Naleving van wet- en regelgeving
 
 1. Als luchtvaartmaatschappijen van de ene partij het grondgebied van de andere partij binnenkomen of verlaten, moeten zij zich houden aan de op dat grondgebied toepasselijke wet- en regelgeving inzake binnenkomst op en vertrek uit het grondgebied door luchtvaartuigen die internationaal luchtvervoer uitvoeren en inzake de exploitatie van luchtvaartuigen.
 
@@ -306,7 +317,7 @@ In die beslissing worden de voorwaarden gespecificeerd voor de exploitatie van d
 
 3. De partijen staan op hun grondgebied toe dat de luchtvaartmaatschappij van de andere partij maatregelen neemt om te garanderen dat alleen personen worden vervoerd die beschikken over de vereiste reisdocumenten voor binnenkomst op hun grondgebied of voor transit via het grondgebied van de andere partij.
 
-#### Artikel 8. Eerlijke concurrentie
+##### Artikel 8. Eerlijke concurrentie
 
 1. De partijen erkennen dat het hun gezamenlijke doelstelling is een eerlijk concurrentieklimaat te scheppen en aan de bedrijven van beide partijen die actief zijn in de luchtvervoerssector eerlijke en gelijke kansen te bieden om de concurrentie aan te gaan voor de exploitatie van overeengekomen diensten op de gespecificeerde routes. De partijen nemen dan ook alle passende maatregelen om ervoor te zorgen dat deze doelstelling wordt bereikt.
 
@@ -342,7 +353,7 @@ In die beslissing worden de voorwaarden gespecificeerd voor de exploitatie van d
 
 13. Als de partijen er niet in slagen om het probleem binnen 30 dagen na het begin van het overleg op te lossen of als het overleg niet binnen 30 dagen na de ontvangst van het verzoek betreffende een vermeende inbreuk tegen lid 10 van start gaat, en voor zover de bevoegde concurrentieautoriteit of rechtbank een schending van de antitrustwetgeving heeft vastgesteld, heeft de partij die om overleg heeft gevraagd het recht om de uit hoofde van deze overeenkomst aan de luchtvaartmaatschappijen van de andere partij toegekende rechten te schorsen door de exploitatievergunning van deze luchtvaartmaatschappijen te weigeren, in te trekken of te schorsen, door de uitoefening van die rechten te onderwerpen aan de door haar nodig geachte voorwaarden, door heffingen op te leggen of door andere maatregelen te nemen. Op grond van dit lid genomen maatregelen moeten passend en evenredig zijn en inzake toepassingsgebied en duur beperkt zijn tot hetgeen strikt noodzakelijk is.
 
-#### Artikel 9. Commerciële opportuniteiten
+##### Artikel 9. Commerciële opportuniteiten
 
 1. Met inachtneming van de overgangsbepalingen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0006948&bijlage=I&z=2021-11-15&g=2021-11-15) zien de partijen erop toe dat hun relevante wetten, regels en procedures beantwoorden aan de regelgevende eisen en normen op het gebied van luchtvervoer, zoals gespecificeerd [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0006948&bijlage=II&z=2021-11-15&g=2021-11-15), deel A.
 
@@ -402,7 +413,7 @@ voor zover i) de exploiterende luchtvaartmaatschappij houder is van de passende 
 
 mits alle deelnemers aan die overeenkomsten het vereiste gezag hebben en voldoen aan de voorwaarden die zijn vastgesteld in de wet- en regelgeving die door de partijen op dergelijke overeenkomsten wordt toegepast. Geen van beide partijen eist van de luchtvaartmaatschappij die de luchtvaartuigen ter beschikking stelt dat zij krachtens deze overeenkomst moet beschikken over verkeersrechten voor de routes waarop de luchtvaartuigen zullen worden ingezet. De partijen mogen eisen dat deze overeenkomsten worden goedgekeurd door hun bevoegde autoriteiten. Als een partij een dergelijke goedkeuring eist, beperkt zij de administratieve lasten van de goedkeuringsprocedures voor de luchtvaartmaatschappijen tot een minimum.
 
-#### Artikel 10. Douanerechten en belastingen
+##### Artikel 10. Douanerechten en belastingen
 
 1. Bij aankomst op het grondgebied van de ene partij worden luchtvaartuigen die door luchtvaartmaatschappijen van de andere partij worden ingezet voor internationaal luchtvervoer, hun gebruikelijke apparatuur, brandstof, smeermiddelen, technische verbruiksgoederen, grondapparatuur, reserveonderdelen (inclusief motoren), boordproviand (inclusief voedsel, drank en alcoholhoudende dranken, tabak en andere producten die bestemd zijn om tijdens de vlucht in beperkte hoeveelheden aan passagiers te worden verkocht of door passagiers te worden verbruikt) en andere voorwerpen die bestemd zijn voor of uitsluitend worden gebruikt in verband met de exploitatie of het onderhoud van voor internationaal luchtvervoer ingezette luchtvaartuigen, voor zover zij aan boord van het luchtvaartuig blijven, op basis van wederkerigheid vrijgesteld van alle invoerbeperkingen, eigendomstaksen en heffingen op activa, douanerechten, accijnzen en soortgelijke vergoedingen en rechten die:
 
@@ -436,7 +447,7 @@ mits alle deelnemers aan die overeenkomsten het vereiste gezag hebben en voldoen
 
 10. Deze overeenkomst doet geen afbreuk aan de bepalingen van de tussen EU-lidstaten en Armenië gesloten verdragen inzake het vermijden van dubbele belasting op inkomsten en kapitaal.
 
-#### Artikel 11. Gebruikersheffingen
+##### Artikel 11. Gebruikersheffingen
 
 1. Met inachtneming van de overgangsbepalingen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0006948&bijlage=I&z=2021-11-15&g=2021-11-15) zien de partijen erop toe dat hun relevante wetten, regels en procedures beantwoorden aan de regelgevende eisen en normen op het gebied van luchtvervoer, zoals gespecificeerd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0006948&bijlage=II&z=2021-11-15&g=2021-11-15), deel A.
 
@@ -446,7 +457,7 @@ mits alle deelnemers aan die overeenkomsten het vereiste gezag hebben en voldoen
 
 4. Elke partij eist dat de bevoegde heffingsautoriteiten of -organen op haar grondgebied en de luchtvaartmaatschappijen die gebruik maken van de diensten en installaties overleg plegen en de informatie uitwisselen die nodig is om nauwkeurig te kunnen nagaan of de gebruikersheffingen redelijk zijn, overeenkomstig de beginselen van de leden 2 en 3. Elke partij ziet erop toe dat de bevoegde heffingsautoriteiten of -organen de gebruikers binnen een redelijke termijn in kennis stellen van ieder voorstel tot wijziging van de gebruikersheffingen, zodat de gebruikers hun mening en opmerkingen kunnen geven alvorens wijzigingen worden doorgevoerd.
 
-#### Artikel 12. Passagiers- en goederentarieven
+##### Artikel 12. Passagiers- en goederentarieven
 
 1. Elke partij staat toe dat de luchtvaartmaatschappijen van de partijen hun passagiers- en goederentarieven vrij vaststellen op basis van vrije en eerlijke mededinging.
 
@@ -454,7 +465,7 @@ mits alle deelnemers aan die overeenkomsten het vereiste gezag hebben en voldoen
 
 3. De bevoegde autoriteiten kunnen onderling overleg plegen over kwesties als de eisen en procedures voor de aanmelding van passagiers- en goederentarieven en passagiers- en goederentarieven die mogelijkerwijs oneerlijk, onredelijk, discriminerend of gesubsidieerd zijn.
 
-#### Artikel 13. Statistieken
+##### Artikel 13. Statistieken
 
 1. Elke partij verstrekt de andere partij op niet-discriminerende basis de beschikbare statistieken over luchtdiensten die in het kader van deze overeenkomst worden geëxploiteerd, zoals vereist uit hoofde van hun wet- en regelgeving, en die redelijkerwijze kan worden gevraagd.
 
@@ -462,7 +473,7 @@ mits alle deelnemers aan die overeenkomsten het vereiste gezag hebben en voldoen
 
 ## TITEL II. SAMENWERKING OP REGELGEVINGSGEBIED
 
-#### Artikel 14. Veiligheid van de luchtvaart
+##### Artikel 14. Veiligheid van de luchtvaart
 
 1. Met inachtneming van de overgangsbepalingen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0006948&bijlage=I&z=2021-11-15&g=2021-11-15) zien de partijen erop toe dat hun relevante wetten, regels en procedures beantwoorden aan de regelgevende eisen en normen op het gebied van luchtvervoer, zoals gespecificeerd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0006948&bijlage=II&z=2021-11-15&g=2021-11-15), deel B.
 
@@ -490,7 +501,7 @@ Wanneer Armenië de in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0006
 
 7. Alle overeenkomstig lid 5 door een partij genomen maatregelen worden stopgezet zodra de aanleiding voor het nemen van die maatregelen is weggevallen.
 
-#### Artikel 15. Beveiliging van de luchtvaart
+##### Artikel 15. Beveiliging van de luchtvaart
 
 1. Met inachtneming van de overgangsbepalingen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0006948&bijlage=I&z=2021-11-15&g=2021-11-15) zien de partijen erop toe dat hun relevante wetten, regels en procedures beantwoorden aan de regelgevende eisen en normen op het gebied van de beveiliging van de luchtvaart, zoals gespecificeerd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0006948&bijlage=II&z=2021-11-15&g=2021-11-15), deel C.
 
@@ -518,7 +529,7 @@ Wanneer Armenië de in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0006
 
 13. Alle overeenkomstig lid 11 genomen maatregelen worden stopgezet zodra de andere partij de bepalingen van dit artikel naleeft.
 
-#### Artikel 16. Luchtverkeersbeheer
+##### Artikel 16. Luchtverkeersbeheer
 
 1. Met inachtneming van de overgangsbepalingen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0006948&bijlage=I&z=2021-11-15&g=2021-11-15) zien de partijen erop toe dat hun relevante wetten, regels en procedures beantwoorden aan de regelgevende eisen en normen op het gebied van luchtvervoer, zoals gespecificeerd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0006948&bijlage=II&z=2021-11-15&g=2021-11-15), deel D, en indien niet voorzien bij het EU-regelgevingskader, minstens aan de relevante normen en aanbevolen praktijken van de ICAO, onder de in dit artikel vermelde voorwaarden.
 
@@ -542,7 +553,7 @@ Wanneer Armenië de in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0006
 
 - d. neemt Armenië de nodige maatregelen om de prestatieregeling van de Europese Unie toe te passen met als doel de algemene vluchtefficiëntie te optimaliseren, de kosten te beperken en de veiligheid en capaciteit van de bestaande systemen te vergroten.
 
-#### Artikel 17. Milieu
+##### Artikel 17. Milieu
 
 1. Met inachtneming van de overgangsbepalingen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0006948&bijlage=I&z=2021-11-15&g=2021-11-15) zien de partijen erop toe dat hun relevante wetten, regels en procedures beantwoorden aan de regelgevende eisen en normen op het gebied van luchtvervoer, zoals gespecificeerd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0006948&bijlage=II&z=2021-11-15&g=2021-11-15), deel E.
 
@@ -568,15 +579,15 @@ Wanneer Armenië de in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0006
 
 7. De partijen erkennen dat het noodzakelijk is passende maatregelen te nemen om de gevolgen van de luchtvaart voor het milieu te voorkomen of te beperken, voor zover deze maatregelen volledig verenigbaar zijn met hun rechten en plichten uit hoofde van het internationaal recht.
 
-#### Artikel 18. Aansprakelijkheid van luchtvaartmaatschappijen
+##### Artikel 18. Aansprakelijkheid van luchtvaartmaatschappijen
 
 De partijen bevestigen hun verplichtingen uit hoofde van het [Verdrag tot het brengen van eenheid in enige bepalingen inzake het internationale luchtvervoer](https://wetten.overheid.nl/jci1.3:c:BWBV0001644), dat op 28 mei 1999 in Montreal is opgesteld (het Verdrag van Montreal).
 
-#### Artikel 19. Bescherming van de consument
+##### Artikel 19. Bescherming van de consument
 
 Met inachtneming van de overgangsbepalingen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0006948&bijlage=I&z=2021-11-15&g=2021-11-15) zien de partijen erop toe dat hun relevante wetten, regels en procedures beantwoorden aan de regelgevende eisen en normen op het gebied van luchtvervoer, zoals gespecificeerd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0006948&bijlage=II&z=2021-11-15&g=2021-11-15), deel F.
 
-#### Artikel 20. Geautomatiseerde boekingssystemen
+##### Artikel 20. Geautomatiseerde boekingssystemen
 
 1. Met inachtneming van de overgangsbepalingen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0006948&bijlage=I&z=2021-11-15&g=2021-11-15) zien de partijen erop toe dat hun relevante wetten, regels en procedures beantwoorden aan de regelgevende eisen en normen op het gebied van luchtvervoer, zoals gespecificeerd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0006948&bijlage=II&z=2021-11-15&g=2021-11-15), deel A.
 
@@ -588,7 +599,7 @@ Met inachtneming van de overgangsbepalingen in [bijlage I](https://wetten.overhe
 
 5. De partijen zorgen ervoor dat eigenaars en exploitanten van geautomatiseerde boekingssystemen van een partij die voldoet aan de relevante regelgevende voorschriften van de andere partij dezelfde mogelijkheden krijgen om eigenaar te worden van geautomatiseerde boekingssystemen op het grondgebied van de andere partij als de eigenaars en exploitanten van andere geautomatiseerde boekingssystemen hebben op de markt van die partij.
 
-#### Artikel 21. Sociale aspecten
+##### Artikel 21. Sociale aspecten
 
 1. Met inachtneming van de overgangsbepalingen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0006948&bijlage=I&z=2021-11-15&g=2021-11-15) zien de partijen erop toe dat hun relevante wetten, regels en procedures beantwoorden aan de regelgevende eisen en normen op het gebied van luchtvervoer, zoals gespecificeerd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0006948&bijlage=II&z=2021-11-15&g=2021-11-15), deel G.
 
@@ -606,7 +617,7 @@ Met inachtneming van de overgangsbepalingen in [bijlage I](https://wetten.overhe
 
 ## TITEL III. INSTITUTIONELE EN SLOTBEPALINGEN
 
-#### Artikel 22. Interpretatie en tenuitvoerlegging
+##### Artikel 22. Interpretatie en tenuitvoerlegging
 
 1. De partijen treffen alle passende algemene en specifieke maatregelen om de naleving van de uit deze overeenkomst voortvloeiende verplichtingen te garanderen en onthouden zich van maatregelen die de verwezenlijking van de doelstellingen van deze overeenkomst in gevaar kunnen brengen.
 
@@ -618,7 +629,7 @@ Met inachtneming van de overgangsbepalingen in [bijlage I](https://wetten.overhe
 
 5. Voor zover de bepalingen van deze overeenkomst en de bepalingen van de in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0006948&bijlage=II&z=2021-11-15&g=2021-11-15) genoemde besluiten inhoudelijk identiek zijn aan de overeenkomstige regels van de EU-Verdragen en op grond van de EU-Verdragen genomen handelingen, worden deze bepalingen, wat hun uitvoering en toepassing betreft, in overeenstemming met de toepasselijke uitspraken en besluiten van het Hof van Justitie en de Europese Commissie uitgelegd.
 
-#### Artikel 23. Gemengd comité
+##### Artikel 23. Gemengd comité
 
 1. Er wordt een gemengd comité van vertegenwoordigers van de partijen opgericht. Het is verantwoordelijk voor het toezicht op het beheer van deze overeenkomst en het zorgt voor de correcte uitvoering ervan. Het doet aanbevelingen en neemt beslissingen in de gevallen waarin deze overeenkomst uitdrukkelijk voorziet.
 
@@ -662,7 +673,7 @@ Met inachtneming van de overgangsbepalingen in [bijlage I](https://wetten.overhe
 
 12. Deze overeenkomst belet de verantwoordelijke autoriteiten van de partijen niet om buiten het gemengd comité samen te werken en besprekingen te voeren, onder meer op het gebied van beveiliging, veiligheid, milieu, luchtverkeersbeheer, luchtvaartinfrastructuur, mededinging en consumentenbescherming. De partijen houden het gemengd comité op de hoogte van de resultaten van deze samenwerking en besprekingen die een effect kunnen hebben op de toepassing van deze verordening.
 
-#### Artikel 24. Geschillenbeslechting en arbitrage
+##### Artikel 24. Geschillenbeslechting en arbitrage
 
 1. Ieder geschil met betrekking tot de toepassing of interpretatie van deze overeenkomst, behalve in het kader van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006948&titeldeel=I&artikel=8&z=2021-11-15&g=2021-11-15) ontstane kwesties, dat niet door een bijeenkomst van het gemengd comité wordt opgelost, kan op verzoek van een partij worden doorverwezen naar arbitrage overeenkomstig de procedures van dit artikel.
 
@@ -694,7 +705,7 @@ Met inachtneming van de overgangsbepalingen in [bijlage I](https://wetten.overhe
 
 13. Als het scheidsgerecht een schending van deze overeenkomst vaststelt en de verantwoordelijke partij zich niet aan de definitieve beslissing van het scheidsgerecht houdt of niet binnen 40 dagen na de kennisgeving van de definitieve beslissing van het scheidsgerecht met de andere partij overeenstemming bereikt over een voor beide partijen aanvaardbare oplossing, dan kan de andere partij de toepassing van vergelijkbare uit deze overeenkomst voortvloeiende rechten schorsen of, indien nodig, de toepassing van deze overeenkomst volledig schorsen tot de verantwoordelijke partij voldoet aan de definitieve beslissing van het scheidsgerecht of tot de partijen overeenstemming hebben bereikt over een voor beide partijen aanvaardbare oplossing.
 
-#### Artikel 25. Vrijwaringsmaatregelen
+##### Artikel 25. Vrijwaringsmaatregelen
 
 1. Indien een van de partijen van mening is dat de andere partij een uit deze overeenkomst voortvloeiende verplichting niet is nagekomen, kan zij passende vrijwaringsmaatregelen nemen. De werkingssfeer en de duur van deze vrijwaringsmaatregelen worden beperkt tot hetgeen strikt noodzakelijk is om het probleem te verhelpen of om het evenwicht in het kader van deze overeenkomst te herstellen. Voorrang wordt gegeven aan maatregelen die de werking van deze overeenkomst zo weinig mogelijk verstoren.
 
@@ -708,7 +719,7 @@ Met inachtneming van de overgangsbepalingen in [bijlage I](https://wetten.overhe
 
 6. De overeenkomstig dit artikel genomen maatregelen worden stopgezet zodra de in gebreke blijvende partij voldoet aan de bepalingen van deze overeenkomst.
 
-#### Artikel 26. Verhouding met andere overeenkomsten
+##### Artikel 26. Verhouding met andere overeenkomsten
 
 1. Tijdens de periode van voorlopige toepassing op grond van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBV0006948&titeldeel=III&artikel=30&z=2021-11-15&g=2021-11-15) worden de bilaterale overeenkomsten en regelingen tussen Armenië en EU-lidstaten die bestaan op het ogenblik van de ondertekening van deze overeenkomst geschorst, tenzij anders bepaald in lid 2 van dit artikel.
 
@@ -722,7 +733,7 @@ Met inachtneming van de overgangsbepalingen in [bijlage I](https://wetten.overhe
 
 4. Indien de partijen toetreden tot een multilaterale overeenkomst of overgaan tot de bekrachtiging van een besluit van de ICAO of een andere internationale organisatie dat betrekking heeft op onder deze overeenkomst vallende aangelegenheden, plegen zij tijdig overleg in het gemengd comité op grond van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0006948&titeldeel=III&artikel=23&z=2021-11-15&g=2021-11-15) om te bepalen of deze overeenkomst naar aanleiding hiervan moet worden herzien.
 
-#### Artikel 27. Wijzigingen
+##### Artikel 27. Wijzigingen
 
 1. Alle wijzigingen van deze overeenkomst kunnen door de partijen worden overeengekomen op grond van overleg overeenkomstig [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0006948&titeldeel=III&artikel=23&z=2021-11-15&g=2021-11-15). De wijzigingen worden van kracht overeenkomstig de bepalingen van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBV0006948&titeldeel=III&artikel=30&z=2021-11-15&g=2021-11-15).
 
@@ -744,17 +755,17 @@ Met inachtneming van de overgangsbepalingen in [bijlage I](https://wetten.overhe
 
 - c. andere maatregelen aanbevelen, die binnen een redelijke termijn moeten worden vastgesteld, teneinde de goede werking van deze overeenkomst te waarborgen.
 
-#### Artikel 28. Beëindiging
+##### Artikel 28. Beëindiging
 
 Een partij kan te allen tijde de andere partij langs diplomatieke kanalen schriftelijk meedelen dat zij besloten heeft deze overeenkomst te beëindigen. Deze kennisgeving wordt tegelijk ook naar de ICAO en het secretariaat van de Verenigde Naties gestuurd.
 
 Deze overeenkomst houdt op te bestaan om middernacht GMT aan het einde van het verkeersseizoen van de Internationale Burgerluchtvaartorganisatie dat één jaar na de datum van schriftelijke mededeling van de beëindiging van kracht is, tenzij de mededeling in onderlinge overeenstemming tussen de partijen wordt ingetrokken voordat deze termijn is verstreken.
 
-#### Artikel 29. Registratie
+##### Artikel 29. Registratie
 
 Deze overeenkomst en alle wijzigingen daarvan worden, zodra ze in werking zijn getreden, geregistreerd bij de ICAO-Raad, overeenkomstig [artikel 83 van het ICAO-verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=83), en bij het secretariaat van de Verenigde Naties, overeenkomstig [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-#### Artikel 30. Inwerkingtreding en voorlopige toepassing
+##### Artikel 30. Inwerkingtreding en voorlopige toepassing
 
 1. Deze overeenkomst dient door de partijen te worden bekrachtigd of goedgekeurd overeenkomstig hun eigen procedures. De instrumenten van bekrachtiging of goedkeuring worden neergelegd bij de depositaris, die de andere partij daarvan in kennis stelt.
 
@@ -770,7 +781,7 @@ Deze overeenkomst en alle wijzigingen daarvan worden, zodra ze in werking zijn g
 
 - b. het door Armenië neergelegde bekrachtigings- of goedkeuringsinstrument, zoals vermeld in lid 1.
 
-#### Artikel 31. Authentieke teksten
+##### Artikel 31. Authentieke teksten
 
 Deze overeenkomst is in tweevoud opgesteld in de Bulgaarse, de Deense, de Duitse, de Engelse, de Estse, de Finse, de Franse, de Griekse, de Hongaarse, de Ierse, de Italiaanse, de Kroatische, de Letse, de Litouwse, de Maltese, de Nederlandse, de Poolse, de Portugese, de Roemeense, de Sloveense, de Slowaakse, de Spaanse, de Tsjechische, de Zweedse en de Armeense taal, waarbij alle teksten gelijkelijk authentiek zijn.
 

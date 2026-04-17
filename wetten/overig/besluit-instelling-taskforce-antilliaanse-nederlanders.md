@@ -1,13 +1,39 @@
 ---
-title: "Besluit instelling Taskforce Antilliaanse Nederlanders"
+title: "Besluit van de Minister voor Wonen, Wijken en Integratie van 6 februari 2008, nr. DGW/I&I20086274, tot instelling van de Taskforce Antilliaanse Nederlanders"
 identifier: "BWBR0023489"
-categorie: "Overig"
-publicatiedatum: 2008-02-22
-laatste_update: 2008-02-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0023489"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2008-02-22"
+last_updated: "2008-02-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023489"
+soort: "ministeriele-regeling"
+stam_id: "9421093"
+version_id: "15166652"
+internal_id: "C29390201"
+label_id: "9398644"
+dtd_version: "2.0"
+original_entry_into_force: "2008-02-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023489/2008-02-22/0"
+intitule_bron: "Stcrt.2008-36"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-02-06"
+intitule_published: "2008-02-20"
+intitule_in_force: "2008-02-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-36"
+original_signed_date: "2008-02-06"
+original_published_date: "2008-02-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-36-p25-SC84536"
+entry_into_force_date: "2008-02-22"
+jci_1_3: "jci1.3:c:BWBR0023489&z=2008-02-22&g=2008-02-22"
+jci_1_0: "1.0:c:BWBR0023489&g=2008-02-22"
+citeertitel_status: "officieel"
+short_title: "Besluit instelling Taskforce Antilliaanse Nederlanders"
+signed_date: "2008-02-06"
+entry_into_force: "2008-02-22"
 ---
-
 # Besluit van de Minister voor Wonen, Wijken en Integratie van 6 februari 2008, nr. DGW/I&I20086274, tot instelling van de Taskforce Antilliaanse Nederlanders
 
 Overwegende dat:
@@ -24,7 +50,7 @@ Overwegende dat:
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -36,7 +62,7 @@ In dit besluit wordt verstaan onder:
 
 - d. taskforce: Taskforce Antilliaanse Nederlanders.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Ingesteld wordt de Taskforce Antilliaanse Nederlanders.
 
@@ -44,7 +70,7 @@ In dit besluit wordt verstaan onder:
 
 3. De Minister kan in overleg met de taskforce besluiten de in het tweede lid genoemde periode te verlengen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De taskforce heeft tot taak:
 
@@ -62,7 +88,7 @@ In dit besluit wordt verstaan onder:
 
 6. Zo nodig treedt de Minister met de AG-21 in overleg terzake van werkzaamheden van de taskforce.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De taskforce bestaat uit een voorzitter en ten minste vijf en ten hoogste acht leden.
 
@@ -82,7 +108,7 @@ In dit besluit wordt verstaan onder:
 
 3. De Minister kan, na overleg met de voorzitter, leden ontslaan en nieuwe leden benoemen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De taskforce is onafhankelijk en verricht zijn werkzaamheden zonder last of ruggespraak. De leden hebben op persoonlijke titel zitting in de taskforce.
 
@@ -90,13 +116,13 @@ In dit besluit wordt verstaan onder:
 
 3. Indien sprake is van een (dreigende) belangenverstrengeling met betrekking tot een bepaald onderwerp, onthoudt het desbetreffende lid van de taskforce zich met betrekking tot dat onderwerp van verdere deelname of besluitvorming.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De taskforce kan zich voor de uitvoering van zijn activiteiten zonodig doen bijstaan door derden.
 
 2. Indien de taskforce toepassing wenst te geven aan het eerste lid, stelt hij of een derde een voorstel met financiële onderbouwing op. De Minister beslist op dit voorstel, waarbij voorwaarden kunnen worden gesteld.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het [Vacatiegeldenbesluit 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0004317) is van toepassing.
 
@@ -106,15 +132,15 @@ In dit besluit wordt verstaan onder:
 
 4. De Minister kan het aantal vacatievergoedingen verhogen.
 
-#### Artikel 8
+##### Artikel 8
 
 De archiefbescheiden van de taskforce worden na het staken van de activiteiten, of indien de omstandigheden daartoe aanleiding geven zoveel eerder, ter beschikking gesteld aan de Minister.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 16 januari 2008.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit instelling Taskforce Antilliaanse Nederlanders.
 

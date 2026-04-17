@@ -1,13 +1,38 @@
 ---
 title: "Memorandum van overeenstemming tussen Georgië en Nederland inzake de uitwisseling van inlichtingen in belastingzaken"
 identifier: "BWBR0037500"
-categorie: "Belastingrecht"
-publicatiedatum: 2015-12-02
-laatste_update: 2015-12-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037500"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2015-12-02"
+last_updated: "2015-12-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037500"
+soort: "beleidsregel"
+stam_id: "13383133"
+version_id: "22950042"
+internal_id: "C33177751"
+label_id: "13351044"
+dtd_version: "2.0"
+original_entry_into_force: "2015-12-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037500/2015-12-02/0"
+intitule_bron: "Stcrt.2016-126"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-11-23"
+intitule_published: "2016-01-06"
+intitule_in_force: "2016-01-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-126"
+original_signed_date: "2015-11-23"
+original_published_date: "2016-01-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-126"
+entry_into_force_date: "2015-12-02"
+jci_1_3: "jci1.3:c:BWBR0037500&z=2015-12-02&g=2015-12-02"
+jci_1_0: "1.0:c:BWBR0037500&g=2015-12-02"
+citeertitel_status: "officieel"
+signed_date: "2015-11-23"
+entry_into_force: "2015-12-02"
 ---
-
 # Memorandum van overeenstemming tussen Georgië en Nederland inzake de uitwisseling van inlichtingen in belastingzaken
 
 De Staatssecretaris van Financiën maakt het volgende bekend.

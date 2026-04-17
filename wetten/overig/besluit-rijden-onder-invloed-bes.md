@@ -1,13 +1,39 @@
 ---
-title: "Besluit rijden onder invloed BES"
+title: "Besluit van 10 juni 2020, houdende regels over de onderzoeken die kunnen worden ingezet op Bonaire, Sint Eustatius en Saba ter vaststelling van het gebruik van alcohol of andere stoffen die de rijvaardigheid kunnen beïnvloeden (Besluit rijden onder invloed BES)"
 identifier: "BWBR0043727"
-categorie: "Overig"
-publicatiedatum: 2022-07-01
-laatste_update: 2022-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043727"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2022-07-01"
+last_updated: "2022-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043727"
+soort: "AMvB-BES"
+stam_id: "15516483"
+version_id: "26812872"
+internal_id: "C37990841"
+label_id: "15459004"
+dtd_version: "2.0"
+original_entry_into_force: "2020-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043727/2022-07-01/0"
+intitule_bron: "Stb.2020-190"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-06-10"
+intitule_published: "2020-06-23"
+intitule_in_force: "2020-06-23"
+intitule_status: "goed"
+original_publication: "Stb.2020-190"
+original_signed_date: "2020-06-10"
+original_published_date: "2020-06-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2020-190"
+entry_into_force_date: "2020-07-01"
+jci_1_3: "jci1.3:c:BWBR0043727&z=2022-07-01&g=2022-07-01"
+jci_1_0: "1.0:c:BWBR0043727&g=2022-07-01"
+citeertitel_status: "officieel"
+short_title: "Besluit rijden onder invloed BES"
+signed_date: "2020-06-10"
+entry_into_force: "2020-07-01"
 ---
-
 # Besluit van 10 juni 2020, houdende regels over de onderzoeken die kunnen worden ingezet op Bonaire, Sint Eustatius en Saba ter vaststelling van het gebruik van alcohol of andere stoffen die de rijvaardigheid kunnen beïnvloeden (Besluit rijden onder invloed BES)
 
 Op de voordracht van Onze Minister van Justitie en Veiligheid, directie Wetgeving en Juridische Zaken, nr. 2803524;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
 
@@ -38,7 +64,7 @@ In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
 
 #### § 2. Blaastest
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een blaastest bestaat uit:
 
@@ -48,7 +74,7 @@ In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
 
 2. Een blaastest wordt verricht door een opsporingsambtenaar.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het voorlopig ademonderzoek geschiedt door het laten blazen van ademlucht in een bij ministeriële regeling aangewezen ademtester.
 
@@ -58,7 +84,7 @@ In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
 
 4. De opsporingsambtenaar deelt het resultaat van het voorlopig ademonderzoek direct mede aan degene bij wie het onderzoek is verricht.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het nader ademonderzoek geschiedt door het zo nodig viermaal laten blazen van ademlucht in een bij ministeriële regeling aangewezen ademanalyseapparaat. Het blazen kan worden beëindigd zodra het twee meetresultaten heeft opgeleverd.
 
@@ -68,7 +94,7 @@ In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
 
 4. Indien het nader ademonderzoek niet heeft geleid tot een geldig resultaat, kan het onderzoek eenmaal opnieuw worden verricht.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Indien het nader ademonderzoek het vermoeden bevestigt dat het alcoholgehalte in de adem hoger is dan op grond van de eilandsverordening is toegestaan, vermeldt de opsporingsambtenaar het resultaat van het onderzoek in het proces-verbaal.
 
@@ -84,7 +110,7 @@ In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
 
 #### § 3. Bloedonderzoek
 
-#### Artikel 6
+##### Artikel 6
 
 1. Ten behoeve van het bloedonderzoek neemt een arts of verpleegkundige door middel van een venapunctie twee buisjes bloed af van de verdachte. Indien een venapunctie vanuit medisch oogpunt niet verantwoord is, geschiedt afname door middel van een infuus. De arts of verpleegkundige mag ook één buisje bloed afnemen indien het vanuit medisch oogpunt niet verantwoord is twee buisjes bloed af te nemen. De hoeveelheid bloed dat ieder buisje dient te bevatten, wordt bij ministeriële regeling vastgesteld.
 
@@ -92,7 +118,7 @@ In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
 
 3. De arts of verpleegkundige ontvangt voor de bloedafname een vergoeding van de organisatie waarbij de opsporingsambtenaar werkzaam is en die voor de bloedafname zorgdraagt. De hoogte van de vergoeding wordt bij ministeriële regeling vastgesteld.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Bij de bloedafname is een opsporingsambtenaar aanwezig die:
 
@@ -108,7 +134,7 @@ In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
 
 3. Bij ministeriële regeling kunnen regels worden gesteld over de omstandigheden waaronder de buisjes of het buisje met bloed worden bewaard en vervoerd.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De opsporingsambtenaar formuleert de opdracht voor de onderzoeker die het bloedonderzoek verricht. De onderzoeker is verbonden aan een laboratorium.
 
@@ -120,7 +146,7 @@ In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
 
 3. Indien de accreditatie van een laboratorium is ingetrokken, geschorst of na haar vervaldatum niet is verlengd, kan in dat laboratorium geen bloedonderzoek meer worden verricht.
 
-#### Artikel 9
+##### Artikel 9
 
 Het laboratorium legt in een bestand de volgende gegevens vast:
 
@@ -132,7 +158,7 @@ Het laboratorium legt in een bestand de volgende gegevens vast:
 
 - d. de opdrachtgever van het bloedonderzoek.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het bloedonderzoek wordt verricht binnen vier weken na ontvangst van de buisjes met bloed. De methode van onderzoek voldoet aan de bij ministeriële regeling vastgestelde eisen.
 
@@ -152,13 +178,13 @@ Het laboratorium legt in een bestand de volgende gegevens vast:
 
 5. De onderzoeker stuurt het verslag binnen de termijn, bedoeld in het eerste lid, aan de opdrachtgever van het bloedonderzoek.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De opsporingsambtenaar stelt de verdachte binnen een week na ontvangst van het verslag schriftelijk in kennis van het resultaat van het bloedonderzoek.
 
 2. Indien het verslag het vermoeden bevestigt dat het alcoholgehalte van het bloed hoger is dan op grond van de eilandsverordening is toegestaan, wijst de opsporingsambtenaar de verdachte op het recht op tegenonderzoek, onder vermelding van het sporenidentificatienummer, tenzij de bloedafname heeft plaatsgevonden in het kader van een tegenonderzoek.
 
-#### Artikel 12
+##### Artikel 12
 
 1. In geval van een tegenonderzoek stelt het laboratorium dat het bloedonderzoek heeft verricht, het voor dat onderzoek bestemde buisje met bloed ter beschikking aan het laboratorium dat het tegenonderzoek verricht.
 
@@ -172,7 +198,7 @@ Het laboratorium legt in een bestand de volgende gegevens vast:
 
 6. De verdachte ontvangt de kosten van het tegenonderzoek uit ’s Rijks kas terug indien het resultaat van het tegenonderzoek het vermoeden niet bevestigt dat het alcoholgehalte in zijn bloed hoger is dan op grond van de eilandsverordening is toegestaan.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Het laboratorium dat het bloedonderzoek of het tegenonderzoek heeft verricht, vernietigt het bloed dat na dat onderzoek resteert een half jaar na de datum van dagtekening van het verslag. Is het recht op tegenonderzoek vervallen, dan vernietigt het laboratorium dat het tegenonderzoek zou verrichten het bloed een half jaar na de ontvangst.
 
@@ -182,17 +208,17 @@ Het laboratorium legt in een bestand de volgende gegevens vast:
 
 4. Het laboratorium houdt aantekening van iedere vernietiging.
 
-#### Artikel 14
+##### Artikel 14
 
 Indien een laboratorium, niet zijnde het laboratorium van het Nederlands Forensisch Instituut, voornemens is zijn werkzaamheden op het terrein van bloedonderzoek te beëindigen, zorgt dat laboratorium ervoor dat het bloed en de afschriften van de verslagen die bij dat laboratorium worden bewaard, alsmede de daarbij behorende gegevens, worden overgedragen aan het bij ministeriële regeling aangewezen laboratorium. Het vorengaande vindt geen toepassing als het laboratorium fuseert met een ander laboratorium als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043727&paragraaf=3&artikel=8&z=2022-07-01&g=2022-07-01). In dat geval worden het bloed, de afschriften van de verslagen en de daarbij behorende gegevens bewaard in dat andere laboratorium.
 
 #### § 4. Slotbepalingen
 
-#### Artikel 15
+##### Artikel 15
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 16
+##### Artikel 16
 
 Dit besluit wordt aangehaald als: Besluit rijden onder invloed BES.
 

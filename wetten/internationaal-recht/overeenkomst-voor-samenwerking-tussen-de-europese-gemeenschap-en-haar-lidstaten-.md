@@ -1,13 +1,32 @@
 ---
 title: "Overeenkomst voor samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Zwitserse Bondsstaat, anderzijds, ter bestrijding van fraude en andere illegale activiteiten die hun financiële belangen schaden"
 identifier: "BWBV0004079"
-categorie: "Internationaal recht"
-publicatiedatum: 2010-03-21
-laatste_update: 2010-03-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004079"
+country: "nl"
+rank: "verdrag"
+publication_date: "2010-03-21"
+last_updated: "2010-03-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004079"
+soort: "verdrag"
+stam_id: "10003902093"
+version_id: "10004011482"
+internal_id: "C10008430311"
+label_id: "10003887374"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004079/2010-03-21/0"
+intitule_bron: "Trb.2004-332"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2004-12-27"
+intitule_status: "nogniet"
+original_publication: "Trb.2004-332"
+original_published_date: "2004-12-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2004-332"
+jci_1_3: "jci1.3:c:BWBV0004079&z=2010-03-21&g=2010-03-21"
+jci_1_0: "1.0:c:BWBV0004079&g=2010-03-21"
+citeertitel_status: "redactioneel"
+entry_into_force: "2004-12-27"
 ---
-
 # Overeenkomst voor samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Zwitserse Bondsstaat, anderzijds, ter bestrijding van fraude en andere illegale activiteiten die hun financiële belangen schaden
 
 De Europese Gemeenschap,
@@ -86,11 +105,11 @@ De Overeenkomst wordt voorlopig toegepast in de verhouding met Zwitserland.
 
 ## TITEL I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Voorwerp
+##### Artikel 1. Voorwerp
 
 Voorwerp van deze overeenkomst is de uitbreiding van de administratieve bijstand en de wederzijdse rechtshulp in strafzaken tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Zwitserse Bondsstaat, anderzijds, ter bestrijding van de in [Artikel2](https://wetten.overheid.nl/jci1.3:c:BWBV0004079&titeldeel=I&artikel=2&z=2010-03-21&g=2010-03-21) vermelde illegale activiteiten.
 
-#### Artikel 2. Werkingssfeer
+##### Artikel 2. Werkingssfeer
 
 1. Deze overeenkomst is van toepassing op de volgende gebieden:
 
@@ -112,17 +131,17 @@ Voorwerp van deze overeenkomst is de uitbreiding van de administratieve bijstand
 
 4. De directe belastingen zijn van de werkingssfeer van deze overeenkomst uitgesloten.
 
-#### Artikel 3. Minder belangrijke gevallen
+##### Artikel 3. Minder belangrijke gevallen
 
 1. De autoriteit van de aangezochte overeenkomstsluitende partij kan een verzoek om samenwerking afwijzen wanneer het vermoedelijke te lage of ontdoken bedrag aan rechten lager ligt dan 25 000 EUR, of de vermoedelijke waarde van de op onregelmatige wijze in- of uitgevoerde goederen minder bedraagt dan 100 000 EUR, tenzij de feiten wegens hun aard of de persoon van de dader door de verzoekende overeenkomstsluitende partij als zeer ernstig worden beschouwd.
 
 2. De autoriteit van de aangezochte overeenkomstsluitende partij stelt de autoriteit van de verzoekende overeenkomstsluitende partij onverwijld in kennis van de redenen waarom het verzoek om samenwerking wordt afgewezen.
 
-#### Artikel 4. Openbare orde
+##### Artikel 4. Openbare orde
 
 De samenwerking kan worden geweigerd indien de aangezochte overeenkomstsluitende partij van mening is dat uitvoering van het verzoek haar soevereiniteit, veiligheid, openbare orde of andere wezenlijke belangen zal aantasten.
 
-#### Artikel 5. Het verstrekken van inlichtingen en bewijsmateriaal
+##### Artikel 5. Het verstrekken van inlichtingen en bewijsmateriaal
 
 1. De in enigerlei vorm uit hoofde van deze overeenkomst verstrekte of verkregen inlichtingen en bewijzen vallen onder de geheimhoudingsplicht en genieten de bescherming die geldt voor soortgelijke gegevens krachtens de nationale wetgeving van de ontvangende overeenkomstsluitende partij en krachtens de overeenkomstige bepalingen die van toepassing zijn op de communautaire instellingen.
 
@@ -136,7 +155,7 @@ Deze inlichtingen en bewijzen mogen niet worden meegedeeld aan andere personen d
 
 5. Wenst een overeenkomstsluitende partij krachtens deze overeenkomst verkregen inlichtingen en bewijzen te verstrekken aan een derde staat, dan is daarvoor de toestemming vereist van de overeenkomstsluitende partij waarvan deze gegevens en bewijzen afkomstig zijn.
 
-#### Artikel 6. Vertrouwelijkheid
+##### Artikel 6. Vertrouwelijkheid
 
 De verzoekende overeenkomstsluitende partij kan verlangen dat de aangezochte overeenkomstsluitende partij het verzoek en de inhoud ervan vertrouwelijk behandelt, tenzij dit de uitvoering van het verzoek belemmert. Indien de aangezochte overeenkomstsluitende partij niet kan voldoen aan het vereiste van vertrouwelijkheid, stelt zij de autoriteit van de verzoekende overeenkomstsluitende partij daarvan vooraf in kennis.
 
@@ -144,23 +163,23 @@ De verzoekende overeenkomstsluitende partij kan verlangen dat de aangezochte ove
 
 ### HOOFDSTUK 1. ALGEMENE BEPALINGEN
 
-#### Artikel 7. Verband met andere overeenkomsten
+##### Artikel 7. Verband met andere overeenkomsten
 
 Deze titel laat de toepasselijke bepalingen inzake wederzijdse rechtshulp in strafzaken, de verdergaande verplichtingen inzake administratieve bijstand of de gunstiger bepalingen van bilaterale of multilaterale overeenkomsten inzake samenwerking tussen de overeenkomstsluitende partijen, met name het aanvullend protocol inzake wederzijdse administratieve bijstand in douanezaken van 9 juni 1997, onverlet.
 
-#### Artikel 8. Draagwijdte
+##### Artikel 8. Draagwijdte
 
 1. De overeenkomstsluitende partijen verlenen elkaar wederzijdse bijstand om de in deze overeenkomst bedoelde illegale activiteiten te bestrijden, met name door de preventie, de opsporing en het onderzoek van transacties en andere handelingen en nalatigheden die in strijd zijn met de relevante wetgeving.
 
 2. De bijstand overeenkomstig deze titel heeft betrekking op alle bevoegde bestuurlijke autoriteiten van de overeenkomstsluitende partijen die optreden in het kader van de uitoefening van hun bevoegdheden inzake administratief onderzoek en strafvervolging, met inbegrip van de gevallen waarin deze autoriteiten bevoegdheden uitoefenen op verzoek van de gerechtelijke autoriteiten. Wanneer een strafrechtelijk onderzoek wordt verricht door of onder leiding van een gerechtelijke autoriteit, bepaalt deze autoriteit of daarmee samenhangende verzoeken om wederzijdse bijstand of samenwerking ingediend worden op grond van de toepasselijke bepalingen betreffende wederzijdse rechtshulp in strafzaken dan wel op grond van deze titel.
 
-#### Artikel 9. Bevoegdheden
+##### Artikel 9. Bevoegdheden
 
 1. De autoriteiten van de overeenkomstsluitende partijen passen de bepalingen van deze titel toe in het kader van de bevoegdheden die hun overeenkomstig het interne recht zijn toegekend. Niets in deze titel kan worden uitgelegd als een wijziging van de bevoegdheden die krachtens interne bepalingen aan de autoriteiten van de overeenkomstsluitende partijen in de zin van deze titel zijn toegekend. Zij gaan te werk alsof zij ten eigen behoeve of op verzoek van een andere autoriteit van dezelfde overeenkomstsluitende partij handelen. Daartoe gebruiken zij alle hun in het kader van hun intern recht ter beschikking staande wettelijke bevoegdheden ter inwilliging van het verzoek.
 
 2. Verzoeken gericht tot autoriteiten die niet bevoegd zijn, worden onverwijld doorgezonden aan de bevoegde autoriteit.
 
-#### Artikel 10. Evenredigheid
+##### Artikel 10. Evenredigheid
 
 De autoriteit van de aangezochte overeenkomstsluitende partij kan een verzoek om samenwerking afwijzen wanneer het duidelijk is dat:
 
@@ -168,7 +187,7 @@ De autoriteit van de aangezochte overeenkomstsluitende partij kan een verzoek om
 
 - b. de autoriteit van de verzoekende overeenkomstsluitende partij voor het verkrijgen van de gevraagde inlichtingen niet eerst een beroep heeft gedaan op alle gebruikelijke bronnen die zij in de gegeven omstandigheden had kunnen benutten zonder het verkrijgen van het beoogde resultaat in gevaar te brengen.
 
-#### Artikel 11. Centrale diensten
+##### Artikel 11. Centrale diensten
 
 1. Elke overeenkomstsluitende partij wijst de centrale dienst of diensten aan die bevoegd zijn om de verzoeken om administratieve bijstand in de zin van deze titel te behandelen.
 
@@ -182,7 +201,7 @@ Om de gevraagde bijstand te verlenen doen deze diensten beroep op alle bevoegde 
 
 ### HOOFDSTUK 2. BIJSTAND OP VERZOEK
 
-#### Artikel 12. Verzoeken om inlichtingen
+##### Artikel 12. Verzoeken om inlichtingen
 
 1. Binnen de grenzen van de werkingssfeer van deze overeenkomst deelt de autoriteit van de aangezochte overeenkomstsluitende partij op verzoek van de autoriteit van de verzoekende overeenkomstsluitende partij, deze laatste autoriteit alle inlichtingen mee waarover zij of andere autoriteiten van dezelfde overeenkomstsluitende partij beschikken en die deze autoriteit nodig heeft om illegale activiteiten in de zin van deze overeenkomst te voorkomen, op te sporen en te bestraffen dan wel om schuldvorderingen in te vorderen. De autoriteit van de aangezochte overeenkomstsluitende partij verricht elk administratief onderzoek dat nodig is om deze inlichtingen te verkrijgen.
 
@@ -190,11 +209,11 @@ Om de gevraagde bijstand te verlenen doen deze diensten beroep op alle bevoegde 
 
 3. In onderlinge overeenstemming tussen de autoriteit van de verzoekende overeenkomstsluitende partij en die van de aangezochte overeenkomstsluitende partij en overeenkomstig de gedetailleerde instructies van de laatstbedoelde autoriteit kunnen ambtenaren die daartoe zijn gemachtigd door de autoriteit van de verzoekende overeenkomstsluitende partij in de kantoren van de autoriteiten van de aangezochte overeenkomstsluitende partij toegang hebben tot de documenten en inlichtingen in de zin van lid 1 die in het bezit zijn van deze autoriteiten en betrekking hebben op specifieke illegale activiteiten die onder de werkingssfeer van deze overeenkomst vallen. De betrokken ambtenaren mogen deze documenten kopiëren.
 
-#### Artikel 13. Verzoeken tot uitoefening van toezicht
+##### Artikel 13. Verzoeken tot uitoefening van toezicht
 
 Op verzoek van de autoriteit van de verzoekende overeenkomstsluitende partij oefent de autoriteit van de aangezochte overeenkomstsluitende partij voorzover mogelijk toezicht uit op de goederenhandel die in strijd is met de in [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004079&titeldeel=I&artikel=2&z=2010-03-21&g=2010-03-21) bedoelde regelgeving. Dit toezicht kan betrekking hebben op personen ten aanzien van wie gegronde vermoedens bestaan dat zij aan deze illegale activiteiten deelnemen of hebben deelgenomen dan wel dat zij daartoe voorbereidingen hebben getroffen, alsmede op gebouwen, vervoermiddelen en goederen die verband houden met deze activiteiten.
 
-#### Artikel 14. Kennisgeving en toezending per post
+##### Artikel 14. Kennisgeving en toezending per post
 
 1. Op verzoek van de autoriteit van de verzoekende overeenkomstsluitende partij en met inachtneming van de interne voorschriften van de aangezochte overeenkomstsluitende partij, geeft de autoriteit van de aangezochte overeenkomstsluitende partij de geadresseerde kennis of laat zij hem kennis geven van alle besluiten of beslissingen die uitgaan van de bevoegde autoriteiten van de verzoekende overeenkomstsluitende partij en die onder de werkingssfeer van deze overeenkomst vallen.
 
@@ -204,7 +223,7 @@ Op verzoek van de autoriteit van de verzoekende overeenkomstsluitende partij oef
 
 Deze personen kunnen daaraan gevolg geven en de relevante documenten en inlichtingen verstrekken in de vorm die is vastgesteld in de voorschriften en de regelgeving op basis waarvan de middelen zijn toegekend.
 
-#### Artikel 15. Verzoeken tot onderzoeken
+##### Artikel 15. Verzoeken tot onderzoeken
 
 1. Op verzoek van de verzoekende overeenkomstsluitende partij verricht de aangezochte overeenkomstsluitende partij de passende onderzoeken of doet zij deze verrichten naar transacties of gedragingen die illegale activiteiten in de zin van deze overeenkomst vormen, of die bij de autoriteit van de verzoekende overeenkomstsluitende partij het gegronde vermoeden doen ontstaan dat dergelijke illegale activiteiten werden gepleegd.
 
@@ -214,7 +233,7 @@ De autoriteit van de aangezochte overeenkomstsluitende partij deelt de resultate
 
 3. De autoriteit van de aangezochte overeenkomstsluitende partij breidt deze bijstand uit tot alle aspecten, voorwerpen en personen die duidelijk samenhangen met de in het verzoek om bijstand vermelde zaak, zonder dat daartoe een aanvullend verzoek nodig is. In twijfelgevallen neemt de autoriteit van de aangezochte overeenkomstsluitende partij eerst contact op met de autoriteit van de verzoekende overeenkomstsluitende partij.
 
-#### Artikel 16. Aanwezigheid van ambtenaren die door de autoriteit van de verzoekende overeenkomstsluitende partij zijn gemachtigd
+##### Artikel 16. Aanwezigheid van ambtenaren die door de autoriteit van de verzoekende overeenkomstsluitende partij zijn gemachtigd
 
 1. De autoriteit van de verzoekende overeenkomstsluitende partij en die van de aangezochte overeenkomstsluitende partij kunnen overeenkomen dat door de eerstbedoelde autoriteit aangewezen ambtenaren aanwezig mogen zijn bij het in het [voorgaande Artikel](https://wetten.overheid.nl/jci1.3:c:BWBV0004079&titeldeel=II&hoofdstuk=2&artikel=15&z=2010-03-21&g=2010-03-21) bedoelde onderzoek. Hun aanwezigheid is niet afhankelijk van de instemming van de persoon of de marktdeelnemer bij wie het onderzoek plaatsvindt.
 
@@ -226,11 +245,11 @@ Daarentegen hebben zij wel toegang tot dezelfde gebouwen en documenten als de am
 
 4. De inlichtingen die ter kennis worden gebracht van de autoriteit van de verzoekende overeenkomstsluitende partij kunnen niet als bewijs worden gebruikt voordat toestemming is verleend voor het verstrekken van de stukken betreffende de uitvoering.
 
-#### Artikel 17. Verplichting tot samenwerking
+##### Artikel 17. Verplichting tot samenwerking
 
 De marktdeelnemers zijn verplicht mee te werken aan de uitvoering van het verzoek om administratieve bijstand, door toegang te verlenen tot hun gebouwen, vervoermiddelen en documenten en door alle relevante inlichtingen te verstrekken.
 
-#### Artikel 18. Vorm en inhoud van verzoeken om bijstand
+##### Artikel 18. Vorm en inhoud van verzoeken om bijstand
 
 1. Verzoeken om bijstand worden schriftelijk gedaan. Zij gaan vergezeld van de documenten die voor de behandeling ervan dienstig worden geacht. In spoedeisende gevallen worden mondelinge verzoeken aanvaard, die evenwel zo spoedig mogelijk schriftelijk moeten worden bevestigd.
 
@@ -252,7 +271,7 @@ De marktdeelnemers zijn verplicht mee te werken aan de uitvoering van het verzoe
 
 4. Onjuiste of onvolledige verzoeken kunnen worden gecorrigeerd of aangevuld. In afwachting daarvan worden de maatregelen die nodig zijn voor de uitvoering van het verzoek reeds getroffen.
 
-#### Artikel 19. Gebruik van inlichtingen
+##### Artikel 19. Gebruik van inlichtingen
 
 1. De verkregen inlichtingen worden uitsluitend voor de in deze overeenkomst omschreven doeleinden gebruikt. Wanneer een overeenkomstsluitende partij dergelijke inlichtingen voor andere doeleinden wenst te gebruiken, dient zij daarvoor de voorafgaande schriftelijke toestemming te krijgen van de autoriteit die deze inlichtingen heeft verstrekt. Een dergelijk gebruik is dan onderworpen aan de door deze autoriteit opgelegde beperkingen.
 
@@ -262,7 +281,7 @@ De marktdeelnemers zijn verplicht mee te werken aan de uitvoering van het verzoe
 
 ### HOOFDSTUK 3. BIJSTAND OP EIGEN INITIATIEF
 
-#### Artikel 20. Bijstand op eigen initiatief
+##### Artikel 20. Bijstand op eigen initiatief
 
 1. De in het [voorgaande hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBV0004079&titeldeel=II&hoofdstuk=2&z=2010-03-21&g=2010-03-21) vastgelegde vormen van samenwerking kunnen ook zonder voorafgaand verzoek van een andere overeenkomstsluitende partij plaatsvinden.
 
@@ -272,13 +291,13 @@ De marktdeelnemers zijn verplicht mee te werken aan de uitvoering van het verzoe
 
 ### HOOFDSTUK 4. BIJZONDERE VORMEN VAN SAMENWERKING
 
-#### Artikel 21. Gezamenlijke acties
+##### Artikel 21. Gezamenlijke acties
 
 1. Wanneer bij in-, uit- en doorvoer van goederen wegens de omvang van deze transacties en de ermee gepaard gaande risico's op het gebied van belastingen en subsidies grote schadeposten voor de begroting van de overeenkomstsluitende partijen kunnen ontstaan, kunnen deze partijen overeenkomen om gezamenlijke grensoverschrijdende acties uit te voeren met het oog op de preventie en de vervolging van onder de werkingssfeer van deze overeenkomst vallende illegale activiteiten.
 
 2. De coördinatie en planning van de grensoverschrijdende acties behoren tot de bevoegdheid van de centrale dienst of een door hem aangewezen dienst.
 
-#### Artikel 22. Gezamenlijke bijzondere onderzoeksteams
+##### Artikel 22. Gezamenlijke bijzondere onderzoeksteams
 
 1. In onderlinge overeenstemming kunnen de autoriteiten van verschillende overeenkomstsluitende partijen een gezamenlijk bijzonder onderzoeksteam oprichten dat in een van de overeenkomstsluitende partijen is gevestigd.
 
@@ -286,7 +305,7 @@ De marktdeelnemers zijn verplicht mee te werken aan de uitvoering van het verzoe
 
 3. Deelname aan een dergelijk team verleent de betrokken vertegenwoordigers van de autoriteiten van de overeenkomstsluitende partij geen bevoegdheid op het grondgebied van de overeenkomstsluitende partij waar de onderzoeken worden verricht.
 
-#### Artikel 23. Verbindingsambtenaren
+##### Artikel 23. Verbindingsambtenaren
 
 1. Om elkaar te steunen bij het verlenen van de administratieve bijstand, kunnen de bevoegde autoriteiten van de overeenkomstsluitende partijen overeenkomen om voor bepaalde of onbepaalde duur verbindingsambtenaren van een overeenkomstsluitende partij bij de bevoegde diensten van een andere overeenkomstsluitende partij te detacheren.
 
@@ -308,7 +327,7 @@ De marktdeelnemers zijn verplicht mee te werken aan de uitvoering van het verzoe
 
 ### HOOFDSTUK 5. INVORDERING
 
-#### Artikel 24. Invordering
+##### Artikel 24. Invordering
 
 1. Op verzoek van de verzoekende overeenkomstsluitende partij gaat de aangezochte overeenkomstsluitende partij over tot invordering van onder de werkingssfeer van deze overeenkomst vallende schuldvorderingen als betrof het eigen schuldvorderingen.
 
@@ -322,13 +341,13 @@ De marktdeelnemers zijn verplicht mee te werken aan de uitvoering van het verzoe
 
 ## TITEL III. WEDERZIJDSE RECHTSHULP
 
-#### Artikel 25. Verband met andere overeenkomsten
+##### Artikel 25. Verband met andere overeenkomsten
 
 1. Met de bepalingen van deze titel wordt beoogd het [Europees Verdrag aangaande de wederzijdse rechtshulp in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBV0001009) van 20 april 1959 en het [Verdrag inzake het witwassen, de opsporing, de inbeslagneming en de confiscatie van opbrengsten van misdrijven](https://wetten.overheid.nl/jci1.3:c:BWBV0002638) van 8 november 1990 aan te vullen en de toepassing ervan tussen de overeenkomstsluitende partijen te vergemakkelijken.
 
 2. Er wordt geen afbreuk gedaan aan gunstiger bepalingen van bilaterale of multilaterale overeenkomsten tussen de overeenkomstsluitende partijen.
 
-#### Artikel 26. Procedures waarvoor eveneens wederzijdse rechtshulp wordt verleend
+##### Artikel 26. Procedures waarvoor eveneens wederzijdse rechtshulp wordt verleend
 
 1. Wederzijdse rechtshulp wordt eveneens verleend:
 
@@ -340,7 +359,7 @@ De marktdeelnemers zijn verplicht mee te werken aan de uitvoering van het verzoe
 
 2. Rechtshulp wordt ook verleend ten behoeve van onderzoeken en procedures met het oog op de inbeslagneming en confiscatie van hulpmiddelen en van opbrengsten van deze vergrijpen.
 
-#### Artikel 27. Toezending van verzoeken
+##### Artikel 27. Toezending van verzoeken
 
 1. Verzoeken uit hoofde van deze titel worden door de autoriteit van de verzoekende overeenkomstsluitende partij gedaan via een bevoegde centrale autoriteit van de aangezochte overeenkomstsluitende partij ofwel rechtstreeks bij de autoriteit van de overeenkomstsluitende partij die bevoegd is voor de uitvoering van het verzoek van de verzoekende overeenkomstsluitende partij. De autoriteit van de verzoekende overeenkomstsluitende partij en, in voorkomend geval, de autoriteit van de aangezochte overeenkomstsluitende partij zenden hun centrale autoriteit ter informatie een kopie van het verzoek toe.
 
@@ -354,7 +373,7 @@ De autoriteit van de aangezochte overeenkomstsluitende partij zendt de autoritei
 
 5. De overeenkomstsluitende partijen delen bij de in [Artikel 44, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004079&titeldeel=IV&artikel=44&z=2010-03-21&g=2010-03-21), bedoelde kennisgeving mee welke de voor de toepassing van dit Artikel bevoegde centrale autoriteiten zijn.
 
-#### Artikel 28. Toezending per post
+##### Artikel 28. Toezending per post
 
 1. Gerechtelijke stukken in procedures wegens illegale activiteiten in de zin van deze overeenkomst worden door de overeenkomstsluitende partijen in de regel rechtstreeks per post toegezonden aan de personen die zich op het grondgebied van de andere overeenkomstsluitende partij bevinden.
 
@@ -364,13 +383,13 @@ De autoriteit van de aangezochte overeenkomstsluitende partij zendt de autoritei
 
 4. De gerechtelijke stukken gaan vergezeld van een nota waarin wordt aangegeven dat de geadresseerde bij de in de nota genoemde autoriteit inlichtingen kan inwinnen over zijn rechten en verplichtingen met betrekking tot de stukken.
 
-#### Artikel 29. Voorlopige maatregelen
+##### Artikel 29. Voorlopige maatregelen
 
 1. Binnen de grenzen van haar intern recht en haar bevoegdheden en op verzoek van de autoriteit van de verzoekende overeenkomstsluitende partij gelast de bevoegde autoriteit van de aangezochte overeenkomstsluitende partij de voorlopige maatregelen die nodig zijn om de bestaande situatie te handhaven, bedreigde juridische belangen te beschermen of bewijsmateriaal te vrijwaren, voorzover het verzoek om rechtshulp niet kennelijk niet ontvankelijk lijkt.
 
 2. Preventieve bevriezing en inbeslagneming worden gelast voor hulpmiddelen en opbrengsten van strafbare feiten waarvoor om rechtshulp wordt verzocht. Indien de opbrengsten van een strafbaar feit geheel of gedeeltelijk niet meer bestaan, worden dezelfde maatregelen gelast voor zich op het grondgebied van de aangezochte overeenkomstsluitende partij bevindende voorwerpen waarvan de waarde overeenkomt met die van de betrokken opbrengsten.
 
-#### Artikel 30. Aanwezigheid van de autoriteiten van de verzoekende overeenkomstsluitende partij
+##### Artikel 30. Aanwezigheid van de autoriteiten van de verzoekende overeenkomstsluitende partij
 
 1. De aangezochte overeenkomstsluitende partij stemt er op verzoek van de verzoekende overeenkomstsluitende partij in toe dat vertegenwoordigers van de autoriteiten van de verzoekende partij aanwezig zijn bij de uitvoering van het verzoek om wederzijdse rechtshulp. Deze aanwezigheid is niet afhankelijk van de instemming van de personen op wie de maatregel betrekking heeft. Aan de toestemming kunnen voorwaarden worden verbonden.
 
@@ -378,7 +397,7 @@ De autoriteit van de aangezochte overeenkomstsluitende partij zendt de autoritei
 
 3. Deze aanwezigheid mag er niet toe leiden dat feiten onder schending van de geheimhoudingsplicht of van de rechten van de betrokkene bekend worden aan anderen dan aan de op basis van de voorgaande leden bevoegde personen. De inlichtingen die ter kennis worden gebracht van de autoriteit van de verzoekende overeenkomstsluitende partij kunnen niet als bewijs worden gebruikt voordat de beslissing inzake het verstrekken van de stukken betreffende de uitvoering in kracht van gewijsde is gegaan.
 
-#### Artikel 31. Huiszoekingen en inbeslagneming van voorwerpen
+##### Artikel 31. Huiszoekingen en inbeslagneming van voorwerpen
 
 1. De overeenkomstsluitende partijen onderwerpen de inwilligbaarheid van rogatoire commissies strekkende tot huiszoeking en inbeslagneming niet aan verdergaande voorwaarden dan dat:
 
@@ -388,7 +407,7 @@ De autoriteit van de aangezochte overeenkomstsluitende partij zendt de autoritei
 
 2. Rogatoire commissies strekkende tot huiszoeking en inbeslagneming wegens witwaspraktijken die onder de werkingssfeer van deze overeenkomst vallen, zijn ook ontvankelijk mits de handelingen die het voorafgaande feit vormen naar het recht van beide overeenkomstsluitende partijen strafbaar zijn gesteld met een vrijheidsstraf of een tot vrijheidsbeneming strekkende maatregel met een maximum van meer dan zes maanden.
 
-#### Artikel 32. Verzoek om financiële en bankgegevens
+##### Artikel 32. Verzoek om financiële en bankgegevens
 
 1. Indien is voldaan aan de voorwaarden van [Artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBV0004079&titeldeel=III&artikel=31&z=2010-03-21&g=2010-03-21), voert de aangezochte overeenkomstsluitende partij verzoeken om rechtshulp uit die betrekking hebben op het verkrijgen en het doorgeven van financiële en bankgegevens, met inbegrip van:
 
@@ -410,7 +429,7 @@ De autoriteit van de aangezochte overeenkomstsluitende partij zendt de autoritei
 
 5. Een overeenkomstsluitende partij beroept zich niet op het bankgeheim als reden om iedere medewerking bij een rechtshulpverzoek van een andere overeenkomstsluitende partij te weigeren.
 
-#### Artikel 33. Gecontroleerde aflevering
+##### Artikel 33. Gecontroleerde aflevering
 
 1. De bevoegde autoriteit van de aangezochte overeenkomstsluitende partij verbindt zich ertoe ervoor te zorgen dat op verzoek van de autoriteit van de verzoekende overeenkomstsluitende partij gecontroleerde aflevering op haar grondgebied kan worden toegestaan in het kader van strafrechtelijke onderzoeken naar strafbare feiten die aanleiding kunnen geven tot uitlevering.
 
@@ -418,7 +437,7 @@ De autoriteit van de aangezochte overeenkomstsluitende partij zendt de autoritei
 
 3. De gecontroleerde aflevering plaatsvindt volgens de in het recht van de aangezochte overeenkomstsluitende partij vastgestelde procedures. Het recht om te handelen en om het optreden te leiden en te controleren berust bij de bevoegde autoriteiten van die partij.
 
-#### Artikel 34. Overgave met het oog op confiscatie of teruggave
+##### Artikel 34. Overgave met het oog op confiscatie of teruggave
 
 1. Op verzoek van de verzoekende overeenkomstsluitende partij kunnen voorwerpen, documenten, gelden of andere waarden waarop bewarend beslag is gelegd worden overgegeven met het oog op confiscatie of teruggave aan de rechthebbende.
 
@@ -426,7 +445,7 @@ De autoriteit van de aangezochte overeenkomstsluitende partij zendt de autoritei
 
 3. De betrokken rechten van derden te goeder trouw blijven onverlet.
 
-#### Artikel 35. Versnelling van de rechtshulp
+##### Artikel 35. Versnelling van de rechtshulp
 
 1. De autoriteit van de aangezochte overeenkomstsluitende partij voldoet zo spoedig mogelijk aan het verzoek om rechtshulp en houdt daarbij zoveel mogelijk rekening met de door de autoriteit van de verzoekende overeenkomstsluitende partij aangegeven procedurele of andere termijnen. Deze autoriteit licht de redenen voor de gestelde termijn toe.
 
@@ -434,7 +453,7 @@ De autoriteit van de aangezochte overeenkomstsluitende partij zendt de autoritei
 
 Indien te verwachten valt dat niet binnen de door de autoriteit van de verzoekende overeenkomstsluitende partij gestelde termijn aan het verzoek kan worden voldaan en de in lid 1, tweede volzin, bedoelde redenen concrete aanwijzingen bevatten dat elke vertraging de door deze autoriteit gevoerde procedure aanzienlijk zal schaden, geeft de autoriteit van de aangezochte overeenkomstsluitende partij onverwijld aan hoeveel tijd zij nodig acht voor de uitvoering van het verzoek. De autoriteit van de verzoekende overeenkomstsluitende partij geeft onverwijld te kennen of het verzoek desalniettemin wordt gehandhaafd. Beide autoriteiten kunnen vervolgens afspreken welk gevolg aan het verzoek zal worden gegeven.
 
-#### Artikel 36. Gebruik van de verstrekte inlichtingen en bewijzen
+##### Artikel 36. Gebruik van de verstrekte inlichtingen en bewijzen
 
 Behalve voor doeleinden van de procedure waarvoor rechtshulp werd verleend, kunnen de in het kader van de rechtshulpprocedure verstrekte inlichtingen en bewijzen ook worden gebruikt:
 
@@ -444,7 +463,7 @@ Behalve voor doeleinden van de procedure waarvoor rechtshulp werd verleend, kunn
 
 - c. in procedures met het oog op de confiscatie van hulpmiddelen en van opbrengsten van strafbare feiten waarvoor rechtshulp zou moeten worden verleend en in schadevergoedingsprocedures wegens feiten waarvoor rechtshulp werd verleend.
 
-#### Artikel 37. Het verstrekken van inlichtingen en bewijsmateriaal op eigen initiatief
+##### Artikel 37. Het verstrekken van inlichtingen en bewijsmateriaal op eigen initiatief
 
 1. Binnen de grenzen van hun intern recht en hun bevoegdheden kunnen de gerechtelijke autoriteiten van een overeenkomstsluitende partij op eigen initiatief inlichtingen en bewijsmateriaal verstrekken aan een gerechtelijke autoriteit van een andere overeenkomstsluitende partij wanneer zij van oordeel zijn dat deze nuttig zouden kunnen zijn voor de autoriteit van de ontvangende overeenkomstsluitende partij bij het inleiden of uitvoeren van onderzoeken of procedures dan wel dat deze inlichtingen en bewijsmateriaal ertoe kunnen leiden dat deze autoriteit een verzoek om wederzijdse rechtshulp indient.
 
@@ -452,13 +471,13 @@ Behalve voor doeleinden van de procedure waarvoor rechtshulp werd verleend, kunn
 
 3. Alle autoriteiten van de overeenkomstsluitende partijen zijn aan deze voorwaarden gebonden.
 
-#### Artikel 38. Procedures in de aangezochte overeenkomstsluitende partij
+##### Artikel 38. Procedures in de aangezochte overeenkomstsluitende partij
 
 Het verzoek om rechtshulp doet geen afbreuk aan de rechten die voor de verzoekende overeenkomstsluitende partij kunnen voortvloeien uit haar hoedanigheid van burgerlijke partij in interne strafprocedures die bij de autoriteiten van de aangezochte overeenkomstsluitende partij zijn ingeleid.
 
 ## TITEL IV. SLOTBEPALINGEN
 
-#### Artikel 39. Gemengd comité
+##### Artikel 39. Gemengd comité
 
 1. Er wordt een gemengd comité ingesteld, bestaande uit vertegenwoordigers van de overeenkomstsluitende partijen, dat belast wordt met de correcte toepassing van deze overeenkomst. Het comité doet hiertoe aanbevelingen en neemt besluiten in de gevallen bedoeld in deze overeenkomst. Het neemt besluiten met eenparigheid van stemmen.
 
@@ -468,27 +487,27 @@ Het verzoek om rechtshulp doet geen afbreuk aan de rechten die voor de verzoeken
 
 4. Het gemengd comité kan besluiten werkgroepen of groepen van deskundigen in te stellen om zich bij de uitvoering van zijn taken te laten bijstaan.
 
-#### Artikel 40. Regeling van geschillen
+##### Artikel 40. Regeling van geschillen
 
 1. Elke overeenkomstsluitende partij kan een geschil betreffende de uitlegging of de toepassing van deze overeenkomst voorleggen aan het gemengd comité, met name wanneer zij van mening is dat een andere overeenkomstsluitende partij herhaaldelijk geen gevolg heeft gegeven aan de tot haar gerichte verzoeken om samenwerking.
 
 2. Het gemengd comité tracht het geschil zo spoedig mogelijk op te lossen. Het gemengd comité krijgt de beschikking over alle nuttige inlichtingen om de situatie diepgaand te onderzoeken en een aanvaardbare oplossing te vinden. Het gemengd comité onderzoekt hiertoe alle mogelijkheden om de goede werking van deze overeenkomst te behouden.
 
-#### Artikel 41. Wederkerigheid
+##### Artikel 41. Wederkerigheid
 
 1. De autoriteit van de aangezochte overeenkomstsluitende partij kan een verzoek om samenwerking afwijzen wanneer de verzoekende overeenkomstsluitende partij herhaaldelijk geen gevolg heeft gegeven aan een verzoek om samenwerking in soortgelijke gevallen.
 
 2. Vooraleer een verzoek om samenwerking wordt afgewezen op basis van wederkerigheid, moet het gemengd comité op de hoogte worden gebracht teneinde het de mogelijkheid te bieden zijn standpunt over de kwestie kenbaar te maken.
 
-#### Artikel 42. Herziening
+##### Artikel 42. Herziening
 
 Wanneer een overeenkomstsluitende partij deze overeenkomst wenst te herzien, legt zij een voorstel daartoe aan het gemengd comité voor, dat aanbevelingen doet, inzonderheid met het oog op het openen van onderhandelingen.
 
-#### Artikel 43. Territoriale werkingssfeer
+##### Artikel 43. Territoriale werkingssfeer
 
 Deze overeenkomst is enerzijds van toepassing op het grondgebied van de Zwitserse Bondsstaat en anderzijds op de grondgebieden waar het [Verdrag tot oprichting van de Europese Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) van toepassing is en onder de in dat Verdrag neergelegde voorwaarden.
 
-#### Artikel 44. Inwerkingtreding
+##### Artikel 44. Inwerkingtreding
 
 1. Deze overeenkomst wordt voor onbepaalde tijd gesloten.
 
@@ -496,15 +515,15 @@ Deze overeenkomst is enerzijds van toepassing op het grondgebied van de Zwitsers
 
 3. Tot de inwerkingtreding van deze overeenkomst kan elke overeenkomstsluitende partij bij de kennisgeving als bedoeld in lid 2, of op enig ander later tijdstip, verklaren dat de overeenkomst op haar van toepassing is in haar betrekkingen met de andere overeenkomstsluitende partijen die eenzelfde verklaring hebben afgelegd. Deze verklaringen worden van toepassing negentig dagen na ontvangst van de kennisgeving.
 
-#### Artikel 45. Opzegging
+##### Artikel 45. Opzegging
 
 De Europese Gemeenschap of de Zwitserse Bondsstaat kan deze overeenkomst opzeggen door kennisgeving aan de andere overeenkomstsluitende partij. De opzegging wordt van kracht zes maanden na ontvangst van de kennisgeving van de opzegging.
 
-#### Artikel 46. Toepassing in de tijd
+##### Artikel 46. Toepassing in de tijd
 
 De bepalingen van deze overeenkomst zijn van toepassing op verzoeken betreffende illegale activiteiten die ten minste zes maanden na de datum van ondertekening van de overeenkomst zijn gepleegd.
 
-#### Artikel 47. Uitbreiding van de overeenkomst tot nieuwe lidstaten van de EU
+##### Artikel 47. Uitbreiding van de overeenkomst tot nieuwe lidstaten van de EU
 
 1. Elke staat die lid wordt van de Europese Unie kan, door middel van een schriftelijke kennisgeving aan de overeenkomstsluitende partijen, overeenkomstsluitende partij worden bij deze overeenkomst.
 
@@ -514,7 +533,7 @@ De bepalingen van deze overeenkomst zijn van toepassing op verzoeken betreffende
 
 4. Indien deze overeenkomst bij de kennisgeving van de toetredingsakte van de toetredende nieuwe lidstaten nog niet in werking is getreden, is [Artikel 44, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004079&titeldeel=IV&artikel=44&z=2010-03-21&g=2010-03-21), van toepassing op deze lidstaten.
 
-#### Artikel 48. Talen
+##### Artikel 48. Talen
 
 1. Deze overeenkomst is opgesteld in tweevoud in de Deense, de Duitse, de Engelse, de Estse, de Finse, de Franse, de Griekse, de Hongaarse, de Italiaanse, de Letse, de Litouwse, de Nederlandse, de Poolse, de Portugese, de Sloveense, de Slowaakse, de Spaanse, de Tsjechische en de Zweedse taal, zijnde alle teksten gelijkelijk authentiek.
 

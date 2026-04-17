@@ -1,13 +1,35 @@
 ---
 title: "Europees Verdrag betreffende de sociale zekerheid van arbeiders werkzaam bij het internationaal vervoer"
 identifier: "BWBV0005125"
-categorie: "Arbeidsrecht"
-publicatiedatum: 1958-10-01
-laatste_update: 1958-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005125"
+country: "nl"
+rank: "verdrag"
+publication_date: "1958-10-01"
+last_updated: "1958-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005125"
+soort: "verdrag"
+stam_id: "10004476873"
+version_id: "10004689942"
+internal_id: "C10007089421"
+label_id: "10004462004"
+dtd_version: "2.0"
+original_entry_into_force: "1958-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005125/1958-10-01/0"
+intitule_bron: "Trb.1957-111"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1957-08-08"
+intitule_in_force: "1958-09-01"
+intitule_status: "goed"
+original_publication: "Trb.1957-111"
+original_published_date: "1957-08-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1957-111"
+entry_into_force_date: "1958-10-01"
+jci_1_3: "jci1.3:c:BWBV0005125&z=1958-10-01&g=1958-10-01"
+jci_1_0: "1.0:c:BWBV0005125&g=1958-10-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1958-10-01"
 ---
-
 # Europees Verdrag betreffende de sociale zekerheid van arbeiders werkzaam bij het internationaal vervoer
 
 De Regeringen van de Staten, die dit Verdrag hebben ondertekend,
@@ -26,7 +48,7 @@ Zijn de volgende bepalingen overeengekomen:
 
 ## Titel I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit Verdrag:
 
@@ -62,7 +84,7 @@ Voor de toepassing van dit Verdrag:
 
 - i). wordt verstaan onder „gezinsleden”: de leden van het gezin, die als zodanig worden aangemerkt ingevolge de wetgeving welke het bevoegde orgaan toepast.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De arbeiders zijn slechts aan de wetgeving van één Verdragsluitende Partij onderworpen.
 
@@ -76,7 +98,7 @@ Voor de toepassing van dit Verdrag:
 
 ## Titel II. Bepalingen betreffende de uitkeringen op het gebied der sociale zekerheid
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een arbeider die zich bevindt op het grondgebied van een andere Verdragsluitende Partij dan die waarvan de wetgeving op hem van toepassing is gezien de in artikel 1, onder **h**), van dit Verdrag omschreven werkzaamheden, en wiens toestand het verlenen van uitkeringen wegens ziekte of moederschap noodzakelijk maakt, heeft recht op bedoelde uitkeringen alsof hij zich bevond op het grondgebied van de Verdragsluitende Partij, waarvan de wetgeving op hem van toepassing is.
 
@@ -90,7 +112,7 @@ Voor de toepassing van dit Verdrag:
 
 6. Het bepaalde in de voorgaande leden is van overeenkomstige toepassing op de gezinsleden van een arbeider werkzaam aan boord van een binnenvaartuig, die met hem op dat vaartuig wonen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een arbeider die op het grondgebied van een der Verdragsluitende Partijen het slachtoffer wordt van een bedrijfsongeval of van een beroepsziekte en zich bevindt op het grondgebied van een andere Verdragsluitende Partij dan die, waarvan de wetgeving op hem van toepassing is gezien de in artikel 1, onder **h**), van dit Verdrag omschreven werkzaamheden, heeft recht op uitkeringen in natura en op periodieke uitkeringen in geld anders dan renten, alsof het ongeval of de beroepsziekte ware voorgevallen op het grondgebied van de Verdragsluitende Partij, waarvan de wetgeving op hem van toepassing is.
 
@@ -102,11 +124,11 @@ Voor de toepassing van dit Verdrag:
 
 5. Ten aanzien van de periodieke uitkeringen in geld, anders dan renten, is artikel 3, lid 5, van dit Verdrag van overeenkomstige toepassing.
 
-#### Artikel 5
+##### Artikel 5
 
 In de gevallen, bedoeld in de artikelen 3 en 4, is het bevoegde orgaan gehouden het werkelijke bedrag van de uitkeringen in natura terug te betalen aan het orgaan dat de uitkeringen heeft verleend. De betrokken bevoegde autoriteiten kunnen echter overeenkomen, dat terugbetaling zal geschieden door middel van een vaste vergoeding; zij kunnen eveneens, vooral met het oog op vereenvoudiging, overeenkomen, dat terugbetaling in het geheel niet zal geschieden.
 
-#### Artikel 6
+##### Artikel 6
 
 Indien de wetgeving van een Verdragsluitende Partij voorziet in het verlenen van uitkeringen in natura aan elke zich op het grondgebied van deze Partij bevindende arbeider ongeacht nationaliteit of sociale verzekering en, hetzij in het algemeen dan wel onder voorbehoud van wederkerigheidsovereenkomsten, ongeacht zijn woonplaats,
 
@@ -116,13 +138,13 @@ Indien de wetgeving van een Verdragsluitende Partij voorziet in het verlenen van
 
 - c). is bovenbedoelde Verdragsluitende Partij gehouden op verzoek van elke andere Partij met deze in onderhandeling te treden, teneinde een overeenkomst te sluiten, welke voorziet in het verlenen van uitkeringen in natura aan arbeiders die overeenkomstig de wetgeving van de ene Partij verzekerd zijn en die zich op het grondgebied van de andere Partij bevinden.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Wanneer een arbeider die onderworpen is aan de wetgeving van een der Verdragsluitende Partijen overlijdt op het grondgebied van een andere Verdragsluitende Partij, waar hij zich bevindt voor arbeid als omschreven in artikel 1, onder **h**), van dit Verdrag, wordt het overlijden geacht te hebben plaatsgevonden op het grondgebied van eerstgenoemde Partij voor wat betreft het vaststellen van het recht op de uitkering bij overlijden ten aanzien van de wetgeving van deze Partij. De uitkering bij overlijden kan de aanvrager niet geweigerd worden op grond van het feit dat hij zich niet op bedoeld grondgebied bevond, maar op dat van een andere Verdragsluitende Partij.
 
 2. Het bepaalde in het voorgaande lid is van overeenkomstige toepassing wanneer een gezinslid, bedoeld in artikel 3, lid 6, van dit Verdrag, overlijdt op het grondgebied van een andere Verdragsluitende Partij dan die, waar het bevoegde orgaan is gevestigd.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Voor de toepassing van de artikelen 3, 4 en 7 van dit Verdrag zijn de arbeiders onderworpen aan de verplichtingen en genieten zij de uitkeringen ingevolge de wetgeving van een Verdragsluitende Partij, waarvan zij de nationaliteit niet bezitten, onder dezelfde voorwaarden als de onderdanen van die Partij.
 
@@ -130,11 +152,11 @@ Indien de wetgeving van een Verdragsluitende Partij voorziet in het verlenen van
 
 ## Titel III. Diverse bepalingen
 
-#### Artikel 9
+##### Artikel 9
 
 In de in artikel 2, lid 4, van dit Verdrag bedoelde gevallen is de werkgever gehouden tot nakoming van de verplichtingen welke voortvloeien uit de door het bevoegde orgaan toegepaste wetgeving.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De bevoegde autoriteiten van de Verdragsluitende Partijen:
 
@@ -146,29 +168,29 @@ In de in artikel 2, lid 4, van dit Verdrag bedoelde gevallen is de werkgever geh
 
 2. Voor de toepassing van het onder **a**) en **b**) van het voorgaande lid gestelde kan de Directeur-Generaal van het Internationaal Arbeidsbureau op verzoek van of na overleg met de bevoegde autoriteiten van de Verdragsluitende Partijen vergaderingen van vertegenwoordigers van genoemde autoriteiten beleggen.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Voor de toepassing van dit Verdrag verlenen de autoriteiten en de organen van de Verdragsluitende Partijen elkaar wederzijdse bijstand; zij handelen als betrof het de toepassing van hun eigen wetgeving. De wederzijdse administratieve bijstand van genoemde autoriteiten en organen geschiedt in beginsel kosteloos; na overleg met de belanghebbende organen kunnen de bevoegde autoriteiten van de Verdragsluitende Partijen echter overeenkomen bepaalde kosten terug te betalen.
 
 2. De organen en de autoriteiten van alle Verdragsluitende Partijen kunnen voor de toepassing van dit Verdrag rechtstreeks met elkaar in verbinding treden, alsmede met de belanghebbende personen of hun gemachtigden.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De vrijstelling of verlaging van rechten, zegelrechten, griffie- of registratierechten, geregeld bij de wetgeving van een der Verdragsluitende Partijen met betrekking tot de bescheiden of documenten, welke ter uitvoering van de wetgeving van deze Partij dienen te worden overgelegd door of ten aanzien van een arbeider of een lid van zijn gezin, wordt uitgebreid tot de overeenkomstige bescheiden en documenten, welke dienen te worden overgelegd ter uitvoering van de wettelijke regeling van een andere Verdragsluitende Partij of van dit Verdrag.
 
 2. Alle akten, documenten of bescheiden van welke aard dan ook, welke dienen te worden overgelegd door of ten aanzien van een arbeider of een lid van zijn gezin voor de uitvoering van dit Verdrag zijn vrijgesteld van legalisatie door de diplomatieke en consulaire autoriteiten.
 
-#### Artikel 13
+##### Artikel 13
 
 De aanvragen, verklaringen of beroepschriften, welke voor de uitvoering van de wetgeving van een der Verdragsluitende Partijen binnen een bepaalde termijn moeten worden ingediend bij een autoriteit, orgaan of andere instelling van die Partij, zijn ontvankelijk indien zij binnen dezelfde termijn worden ingediend bij een overeenkomstige autoriteit, orgaan of andere instelling van een andere Verdragsluitende Partij. In dat geval zal een aldus ingeschakelde autoriteit, orgaan of instelling onverwijld deze aanvragen, verklaringen of beroepschriften doen toekomen aan de autoriteit, het orgaan of de instelling van eerstgenoemde Partij, hetzij rechtstreeks, hetzij door bemiddeling van de bevoegde autoriteiten van de Verdragsluitende Partijen.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De organen van een Verdragsluitende Partij, welke uit hoofde van dit Verdrag gelden verschuldigd zijn aan organen of personen die zich op het grondgebied van een andere Verdragsluitende Partij bevinden, kunnen het verschuldigde rechtens voldoen in de munt van eerstgenoemde Partij.
 
 2. De overmaking van gelden, welke voortvloeit uit de toepassing van dit Verdrag, heeft plaats overeenkomstig de overeenkomsten terzake, welke op het tijdstip van de overmaking van kracht zijn tussen twee of meer Verdragsluitende Partijen. In de gevallen waarin zodanige overeenkomsten niet van kracht zijn tussen twee Verdragsluitende Partijen treffen de bevoegde autoriteiten van die Partijen of de autoriteiten die bevoegd zijn inzake internationale betalingen in gemeen overleg de voor deze overmaking noodzakelijke maatregelen.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Elk geschil dat ontstaat tussen twee of meer Verdragsluitende Partijen betreffende de uitlegging of toepassing van dit Verdrag wordt door rechtstreekse onderhandelingen tussen de bevoegde autoriteiten van de betrokken Verdragsluitende Partijen opgelost. Wanneer het een vraag betreft, welke voor de gezamenlijke Verdragsluitende Partijen van belang is, kan het geschil worden voorgelegd aan een vergadering van vertegenwoordigers der bevoegde autoriteiten van alle Verdragsluitende Partijen, bijeengeroepen overeenkomstig artikel 10, lid 2. Een dergelijke vergadering kan het geschil slechts beslechten met algemene stemmen en in overeenstemming met de grondbeginselen en de geest van dit Verdrag.
 
@@ -178,47 +200,47 @@ De aanvragen, verklaringen of beroepschriften, welke voor de uitvoering van de w
 
 ## Titel IV. Overgangs- en slotbepalingen
 
-#### Artikel 16
+##### Artikel 16
 
 1. Dit Verdrag opent geen enkel recht op uitkeringen over een vóór het tijdstip van zijn inwerkingtreding gelegen tijdvak.
 
 2. In geval van opzegging van dit Verdrag blijft elk recht, verkregen ingevolge zijn bepalingen, gehandhaafd.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De bepalingen van dit Verdrag, met uitzondering van artikel 2, laten onverlet de bepalingen van elke andere bestaande of toekomstige bilaterale of multilaterale overeenkomst inzake sociale zekerheid tussen twee of meer Verdragsluitende Partijen, die van toepassing zijn op arbeiders werkzaam bij het internationaal vervoer en voor hen voordeliger zijn.
 
 2. Indien een overeenkomst wordt gesloten door een Verdragsluitende Partij of door de bevoegde autoriteit van deze Partij met een Staat die of een gebied dat geen Verdragsluitende Partij is, of met de bevoegde autoriteit van deze Staat of dit gebied, en deze overeenkomst bepaalt dat de arbeiders onderworpen zullen zijn aan de wetgeving inzake sociale zekerheid van deze Staat of van dit gebied, laat het bepaalde in artikel 2 de bepalingen van die overeenkomst onverlet.
 
-#### Artikel 18
+##### Artikel 18
 
 De bepalingen van dit Verdrag inzake het verstrekken van uitkeringen behoeven niet te worden toegepast wanneer de arbeider of één van zijn gezinsleden bedoeld in artikel 3, lid 6, en in artikel 7, lid 2, genoemde uitkeringen rechtstreeks geniet op grond van de wetgeving van de Verdragsluitende Partij, welke op hem van toepassing is.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Dit Verdrag staat open voor ondertekening door elk Europees Lid van de Internationale Arbeidsorganisatie.
 
 2. Dit Verdrag zal worden bekrachtigd. Elke akte van bekrachtiging zal worden nedergelegd bij de Directeur-Generaal van het Internationaal Arbeidsbureau.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Na verloop van een termijn van twee jaren, te rekenen van het tijdstip der inwerkingtreding van het Verdrag af, zoals dat is vastgesteld in artikel 21, eerste lid, kan een Europese Staat die geen Lid van de Internationale Arbeidsorganisatie is tot het Verdrag toetreden, mits met de eenstemmige goedkeuring der Verdragsluitende Partijen. De toetreding tot het Verdrag geeft dezelfde rechten en brengt dezelfde verplichtingen met zich mede als de bekrachtiging.
 
 2. Elke akte van toetreding zal worden nedergelegd bij de Directeur-Generaal van het Internationaal Arbeidsbureau.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Dit Verdrag zal in werking treden op de eerste dag van de tweede maand, volgende op die waarin de tweede akte van bekrachtiging wordt nedergelegd.
 
 2. Voor elke ondertekenende Staat die het Verdrag op een later tijdstip bekrachtigt of ten aanzien van elke Staat die tot het Verdrag toetreedt zal dit Verdrag in werking treden op de eerste dag van de tweede maand, volgende op die, waarin zijn akte van bekrachtiging of van toetreding wordt nedergelegd.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Dit Verdrag blijft voor onbepaalde tijd van kracht, behoudens het recht van elke Verdragsluitende Partij het op te zeggen door middel van een mededeling aan de Directeur-Generaal van het Internationaal Arbeidsbureau. De opzegging wordt zes maanden na ontvangst van die mededeling van kracht.
 
 2. Na het verstrijken van een tijdvak van twee jaren, te rekenen van de inwerkingtreding van dit Verdrag af, kan elke Verdragsluitende Partij aan de Directeur-Generaal van het Internationaal Arbeidsbureau verzoeken een bijeenkomst van vertegenwoordigers van de Verdragsluitende Partijen te beleggen teneinde na te gaan of het Verdrag eventueel herzien dient te worden.
 
-#### Artikel 23
+##### Artikel 23
 
 De Directeur-Generaal van het Internationaal Arbeidsbureau zal aan de ondertekenende Staten en, zo nodig, aan de Staten die tot het Verdrag zijn toegetreden, mededeling doen:
 
@@ -228,13 +250,13 @@ De Directeur-Generaal van het Internationaal Arbeidsbureau zal aan de onderteken
 
 - c). van elke overeenkomstig artikel 22, eerste lid, ontvangen mededeling inzake opzegging.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Zodra dit Verdrag in werking is getreden wordt een gewaarmerkt afschrift overeenkomstig [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102) door de Directeur-Generaal van het Internationaal Arbeidsbureau gezonden aan de Secretaris-Generaal der Verenigde Naties ter registratie.
 
 2. Overeenkomstig [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102) bericht de Directeur-Generaal van het Internationaal Arbeidsbureau aan de Secretaris-Generaal der Verenigde Naties elke bekrachtiging, toetreding en opzegging, waarvan hem kennis is gegeven, ter registratie.
 
-#### Artikel 25
+##### Artikel 25
 
 De teksten in de Franse en de Engelse taal van dit Verdrag zijn gelijkelijk authentiek.
 

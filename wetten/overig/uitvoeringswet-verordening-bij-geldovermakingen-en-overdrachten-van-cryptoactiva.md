@@ -1,14 +1,41 @@
 ---
-title: "Uitvoeringswet verordening bij geldovermakingen en overdrachten van cryptoactiva te voegen informatie"
+title: "Wet van 11 december 2024 tot wijziging van de Wet ter voorkoming van witwassen en financieren van terrorisme en enige andere wetten in verband met de uitvoering van Verordening (EU) 2023/1113 betreffende bij geldovermakingen en overdrachten van bepaalde cryptoactiva te voegen informatie en tot wijziging van Richtlijn (EU) 2015/849 (Uitvoeringswet verordening bij geldovermakingen en overdrachten van cryptoactiva te voegen informatie)"
 identifier: "BWBR0050680"
-categorie: "Overig"
-publicatiedatum: 2025-02-04
-laatste_update: 2025-02-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050680"
+country: "nl"
+rank: "wet"
+publication_date: "2025-02-04"
+last_updated: "2025-02-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050680"
+soort: "wet"
+stam_id: "17341763"
+version_id: "30562112"
+internal_id: "C43861941"
+label_id: "17245774"
+dtd_version: "2.0"
+original_entry_into_force: "2025-02-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050680/2025-02-04/0"
+intitule_bron: "Stb.2024-414"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-12-11"
+intitule_published: "2024-12-17"
+intitule_in_force: "2025-02-03"
+intitule_status: "goed"
+original_publication: "Stb.2024-414"
+original_signed_date: "2024-12-11"
+original_published_date: "2024-12-17"
+original_effect: "nieuwe-regeling"
+original_dossier: "36526"
+original_url_id: "stb-2024-414"
+entry_into_force_date: "2025-02-04"
+jci_1_3: "jci1.3:c:BWBR0050680&z=2025-02-04&g=2025-02-04"
+jci_1_0: "1.0:c:BWBR0050680&g=2025-02-04"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringswet verordening bij geldovermakingen en overdrachten van cryptoactiva te voegen informatie"
+signed_date: "2024-12-11"
+entry_into_force: "2025-02-04"
 ---
-
-# Uitvoeringswet verordening bij geldovermakingen en overdrachten van cryptoactiva te voegen informatie
+# Wet van 11 december 2024 tot wijziging van de Wet ter voorkoming van witwassen en financieren van terrorisme en enige andere wetten in verband met de uitvoering van Verordening (EU) 2023/1113 betreffende bij geldovermakingen en overdrachten van bepaalde cryptoactiva te voegen informatie en tot wijziging van Richtlijn (EU) 2015/849 (Uitvoeringswet verordening bij geldovermakingen en overdrachten van cryptoactiva te voegen informatie)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,19 +43,19 @@ Alzo Wij in overweging genomen hebben, dat het noodzakelijk is om regels te stel
 
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet ter voorkoming van witwassen en financieren van terrorisme.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Wet op de economische delicten.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Sanctiewet 1977.
 
-#### Artikel IV
+##### Artikel IV
 
 1. Aanbieders van diensten voor het wisselen tussen virtuele valuta en fiduciaire valuta en van bewaarportemonnees die op het moment van inwerkingtreding van deze wet geregistreerd stonden in het register, bedoeld in [artikel 23f van de Wet ter voorkoming van witwassen en het financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=23f), zoals dat luidde voorafgaand aan de inwerkingtreding van deze wet, mogen, tenzij die registratie wordt doorgehaald, hun diensten blijven aanbieden tot en met 30 juni 2025 of totdat hun overeenkomstig artikel 63 van [Verordening (EU) 2023/1114](32023R1114) van het Europees Parlement en de Raad van 31 mei 2023 betreffende cryptoactivamarkten en tot wijziging van [Verordeningen (EU) nr. 1093/2010](32010R1093) en [(EU) nr. 1095/2010](32010R1095) en [Richtlijnen 2013/36/EU](32013L0036) en [(EU) 2019/1937](32019L1937) (PbEU 2023, L 150) een vergunning is verleend of geweigerd, naargelang wat zich het eerst voordoet.
 
@@ -46,11 +73,11 @@ Wijzigt de Sanctiewet 1977.
 
 - b. indien ter zake nog geen rapport van bevindingen was opgesteld: de Autoriteit Financiële Markten.
 
-#### Artikel V
+##### Artikel V
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel VI
+##### Artikel VI
 
 Deze wet wordt aangehaald als: Uitvoeringswet verordening bij geldovermakingen en overdrachten van cryptoactiva te voegen informatie.
 

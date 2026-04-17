@@ -1,20 +1,46 @@
 ---
-title: "Regeling vaststelling regels betreffende eisen inzake ecologisch ontwerp verwarmingstoestellen"
+title: "Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 21 augustus 2017, nr. IENM/BSK-2017/28365, houdende regels betreffende de eisen inzake ecologisch ontwerp van verwarmingstoestellen"
 identifier: "BWBR0039921"
-categorie: "Overig"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039921"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039921"
+soort: "ministeriele-regeling"
+stam_id: "14140113"
+version_id: "29337622"
+internal_id: "C41831341"
+label_id: "14101084"
+dtd_version: "2.0"
+original_entry_into_force: "2023-04-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039921/2024-01-01/0"
+intitule_bron: "Stcrt.2017-48536"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-08-21"
+intitule_published: "2017-08-25"
+intitule_in_force: "2017-08-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-10014"
+original_signed_date: "2023-04-06"
+original_published_date: "2023-04-14"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2023-10014"
+entry_into_force_date: "2023-04-06"
+jci_1_3: "jci1.3:c:BWBR0039921&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0039921&g=2024-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Regeling vaststelling regels betreffende eisen inzake ecologisch ontwerp verwarmingstoestellen"
+signed_date: "2023-04-06"
+entry_into_force: "2023-04-06"
 ---
-
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 21 augustus 2017, nr. IENM/BSK-2017/28365, houdende regels betreffende de eisen inzake ecologisch ontwerp van verwarmingstoestellen
 
 Gelet op [Richtlijn 92/42/EEG](31992L0042) van de Raad van 21 mei 1992 betreffende de rendementseisen voor nieuwe olie- en gasgestookte centrale-verwarmingsketels (PbEG 1992, L167), Verordening (EU) nr. 813/2013 van de Commissie van 2 augustus 2013 tot uitvoering van [Richtlijn 2009/125/EG](32009L0125) van het Europees Parlement en de Raad wat eisen inzake ecologisch ontwerp voor ruimteverwarmingstoestellen en combinatieverwarmingstoestellen betreft (PbEU 2013, L239) en de [artikelen 9.4.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.4.4), [9.4.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.4.5) en [11a.2, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=11a.2) juncto [artikel 21.6, zesde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=21.6);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -44,7 +70,7 @@ In deze regeling wordt verstaan onder:
 
 - **verordening (EU)813/2013:** verordening (EU) nr. 813/2013 van de Commissie van 2 augustus 2013 tot uitvoering van [Richtlijn 2009/125/EG](32009L0125) van het Europees Parlement en de Raad wat eisen inzake ecologisch ontwerp voor ruimteverwarmingstoestellen en combinatieverwarmingstoestellen betreft (PbEU 2013, L239).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Alvorens de CE-markering en de conformiteitsverklaring overeenkomstig [artikel 9.4.5, tweede lid, eerste volzin, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.4.5) worden aangebracht op onderscheidenlijk bijgevoegd bij in serie geproduceerde centrale-verwarmingsketels die vallen binnen het toepassingsbereik van [richtlijn 92/42/EEG](31992L0042), toont de fabrikant de overeenstemming van de ketels met de eisen inzake ecologisch ontwerp die voor de desbetreffende categorie van ketels gelden op grond van verordening (EU)813/2008, aan door:
 
@@ -54,7 +80,7 @@ In deze regeling wordt verstaan onder:
 
 2. Een conformiteitsbeoordeling als bedoeld in het eerste lid, van het rendement van een gasgestookte ketel wordt verricht met toepassing van de procedures voor de beoordeling van de overeenstemming van een dergelijke ketel met de veiligheidsvoorschriften voor gastoestellen die zijn voorgeschreven in [artikel 5, tweede lid, van het Besluit gastoestellen](https://wetten.overheid.nl/jci1.3:c:BWBR0005384&artikel=5).
 
-#### Artikel 3
+##### Artikel 3
 
 1. De minister kan op aanvraag een erkenning verlenen aan een conformiteitsbeoordelingsinstantie voor het uitvoeren van werkzaamheden als bedoeld in het tweede lid.
 
@@ -74,7 +100,7 @@ In deze regeling wordt verstaan onder:
 
 6. Het is verboden een werkzaamheid als omschreven in het tweede lid, uit te voeren zonder dat daarvoor wordt beschikt over een krachtens het eerste lid verleende erkenning.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een aanvraag om een erkenning wordt ingediend bij de minister.
 
@@ -86,7 +112,7 @@ In deze regeling wordt verstaan onder:
 
 - c. de accreditatie die voor de werkzaamheden aan de verzoeker is verleend.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De minister beslist binnen acht weken na de datum van ontvangst van de aanvraag.
 
@@ -96,7 +122,7 @@ In deze regeling wordt verstaan onder:
 
 4. De minister meldt de erkende instantie overeenkomstig artikel 8, eerste lid, van [richtlijn 92/42/EEG](31992L0042) aan bij de Europese Commissie.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een erkenning vermeldt ten minste de naam en de vestigingsplaats van de erkende instantie en de werkzaamheden waarvoor de erkenning is verleend.
 
@@ -104,7 +130,7 @@ In deze regeling wordt verstaan onder:
 
 3. De minister maakt het besluit in de Staatscourant bekend.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Een erkenning wordt gewijzigd, geschorst, onderscheidenlijk ingetrokken indien:
 
@@ -128,21 +154,21 @@ In deze regeling wordt verstaan onder:
 
 - c. een voornemen tot beëindiging van de werkzaamheden waarvoor de erkenning is verleend.
 
-#### Artikel 8
+##### Artikel 8
 
 Kiwa Nederland B.V. is ten behoeve van het uitvoeren van de in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039921&artikel=3&z=2024-01-01&g=2024-01-01), bedoelde werkzaamheden aangewezen als instantie als bedoeld in artikel 8, eerste lid, van [richtlijn 92/42/EEG](31992L0042), tot een jaar na het tijdstip van inwerkingtreding van deze regeling of het eerdere tijdstip waarop aan die instantie op grond van artikel 3, eerste lid, een erkenning is verleend.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling treedt in werking met ingang van 1 oktober 2017.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Deze regeling berust mede op [artikel 21.6, vierde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=21.6).
 
-#### Artikel 7a
+##### Artikel 7a
 
 1. Het is marktdeelnemers die betrokken zijn of zijn geweest bij het op de markt aanbieden van in serie geproduceerde centrale-verwarmingsketels als bedoeld in artikel 2, eerste lid, verboden te handelen in strijd met artikel 7, eerste lid, van de EU-verordening markttoezicht.
 

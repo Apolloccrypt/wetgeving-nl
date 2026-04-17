@@ -1,13 +1,36 @@
 ---
 title: "Aanvullende formatie zeer moeilijk lerende kinderen (zmlk-leerlingen) in de groepen drie tot en met acht van de basisschool"
 identifier: "BWBR0015142"
-categorie: "Onderwijs"
-publicatiedatum: 2003-08-01
-laatste_update: 2003-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015142"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2003-08-01"
+last_updated: "2003-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015142"
+soort: "beleidsregel"
+stam_id: "6483633"
+version_id: "11162592"
+internal_id: "C15084851"
+label_id: "6472204"
+original_entry_into_force: "2003-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015142/2003-08-01/0"
+intitule_bron: "Uitleg.2003-15"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-05-28"
+intitule_published: "2003-06-11"
+intitule_in_force: "2003-06-11"
+intitule_status: "goed"
+original_publication: "Uitleg.2003-15"
+original_signed_date: "2003-05-28"
+original_published_date: "2003-06-11"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2003-08-01"
+jci_1_3: "jci1.3:c:BWBR0015142&z=2003-08-01&g=2003-08-01"
+jci_1_0: "1.0:c:BWBR0015142&g=2003-08-01"
+citeertitel_status: "redactioneel"
+signed_date: "2003-05-28"
+entry_into_force: "2003-08-01"
 ---
-
 # Aanvullende formatie zeer moeilijk lerende kinderen (zmlk-leerlingen) in de groepen drie tot en met acht van de basisschool
 
 ### Inleiding

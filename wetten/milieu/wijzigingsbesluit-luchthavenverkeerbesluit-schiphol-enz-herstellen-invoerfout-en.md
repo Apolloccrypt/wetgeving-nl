@@ -1,13 +1,38 @@
 ---
-title: "Wijzigingsbesluit Luchthavenverkeerbesluit Schiphol, enz. (herstellen invoerfout en wijziging uitvliegroutes in westelijke richting vanaf de Polderbaan)"
+title: "Besluit van 23 augustus 2004 tot wijziging van het Luchthavenverkeerbesluit Schiphol en het Luchthavenindelingbesluit Schiphol in verband met het herstellen van een invoerfout en wijziging van uitvliegroutes in westelijke richting vanaf de Polderbaan"
 identifier: "BWBR0017134"
-categorie: "Milieu"
-publicatiedatum: 2004-08-31
-laatste_update: 2004-08-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0017134"
+country: "nl"
+rank: "amvb"
+publication_date: "2004-08-31"
+last_updated: "2004-08-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0017134"
+soort: "AMvB"
+stam_id: "6054383"
+version_id: "10702592"
+internal_id: "C14528991"
+label_id: "6043624"
+original_entry_into_force: "2004-08-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0017134/2004-08-31/0"
+intitule_bron: "Stb.2004-425"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-08-23"
+intitule_published: "2004-08-30"
+intitule_in_force: "2004-08-30"
+intitule_status: "goed"
+original_publication: "Stb.2004-425"
+original_signed_date: "2004-08-23"
+original_published_date: "2004-08-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2004-425"
+entry_into_force_date: "2004-08-31"
+jci_1_3: "jci1.3:c:BWBR0017134&z=2004-08-31&g=2004-08-31"
+jci_1_0: "1.0:c:BWBR0017134&g=2004-08-31"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsbesluit Luchthavenverkeerbesluit Schiphol, enz. (herstellen invoerfout en wijziging uitvliegroutes in westelijke richting vanaf de Polderbaan)"
+signed_date: "2004-08-23"
+entry_into_force: "2004-08-31"
 ---
-
 # Besluit van 23 augustus 2004 tot wijziging van het Luchthavenverkeerbesluit Schiphol en het Luchthavenindelingbesluit Schiphol in verband met het herstellen van een invoerfout en wijziging van uitvliegroutes in westelijke richting vanaf de Polderbaan
 
 Op de voordracht van de Staatssecretaris van Verkeer en Waterstaat van 2 juli 2004, nr. HDJZ/LUV/2004-1650, Hoofddirectie Juridische Zaken, gedaan mede namens Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
@@ -22,15 +47,15 @@ Gezien het nader rapport van de Staatssecretaris van Verkeer en Waterstaat van 2
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Luchthavenverkeerbesluit Schiphol.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Luchthavenindelingbesluit Schiphol.
 
-#### Artikel III. Invoeringsbepaling
+##### Artikel III. Invoeringsbepaling
 
 1. Dit artikel is van toepassing indien de inwerkingtreding van dit besluit niet samenvalt met het begin van het gebruiksjaar.
 
@@ -114,7 +139,7 @@ Berekeningsnummer: 2004-07-01 10:00:10
 
 XY-coördinaten in meters (RD-stelsel)
 
-#### Artikel IV. Inwerkingtreding
+##### Artikel IV. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. Indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven op of na 2 september 2004, treedt het in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, en werkt het terug tot en met 2 september 2004.
 

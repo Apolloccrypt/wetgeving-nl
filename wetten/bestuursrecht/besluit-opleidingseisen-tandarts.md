@@ -1,13 +1,39 @@
 ---
-title: "Besluit opleidingseisen tandarts"
+title: "Besluit van 3 oktober 1997, houdende regels inzake de opleiding tot tandarts (Besluit opleidingseisen tandarts)"
 identifier: "BWBR0008949"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008949"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008949"
+soort: "AMvB"
+stam_id: "629143"
+version_id: "913802"
+internal_id: "C913801"
+label_id: "610424"
+dtd_version: "2.0"
+original_entry_into_force: "1997-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008949/2026-01-01/0"
+intitule_bron: "Stb.1997-480"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-10-03"
+intitule_published: "1997-10-28"
+intitule_in_force: "1997-11-27"
+intitule_status: "goed"
+original_publication: "Stb.1997-480"
+original_signed_date: "1997-10-03"
+original_published_date: "1997-10-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-1997-480"
+entry_into_force_date: "1997-12-01"
+jci_1_3: "jci1.3:c:BWBR0008949&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0008949&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit opleidingseisen tandarts"
+signed_date: "1997-10-03"
+entry_into_force: "1997-12-01"
 ---
-
 # Besluit van 3 oktober 1997, houdende regels inzake de opleiding tot tandarts (Besluit opleidingseisen tandarts)
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 1 oktober 1996, CSZ/BenO-9610517);
@@ -24,17 +50,17 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder «wet»: de [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251).
 
-#### Artikel 2
+##### Artikel 2
 
 Om in het krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008949&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01) van de wet ingestelde register van tandartsen te kunnen worden ingeschreven, is vereist het bezit van een door een universiteit als bedoeld in [hoofdstuk 7 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7) uitgereikt getuigschrift waaruit blijkt dat de betrokkene met goed gevolg het examen heeft afgelegd ter afsluiting van een opleiding tot tandarts die voldoet aan de [artikelen 2a tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0008949&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01) van dit besluit.
 
 #### § 2. Opleidingseisen
 
-#### Artikel 3
+##### Artikel 3
 
 1. De opleiding tot tandarts is gericht op het verwerven van kennis, inzicht en vaardigheid voor alle werkzaamheden die verband houden met de preventie, de diagnose en de behandeling van afwijkingen en ziekten van tanden, mond, kaken en omliggende weefsels en meer in het bijzonder de volgende aspecten van de tandheelkundige beroepsuitoefening:
 
@@ -60,7 +86,7 @@ Om in het krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008949&
 
 - c. personen bij wie tandheelkundige problemen of de behandeling daarvan wordt beïnvloed door somatische of psychische problematiek.
 
-#### Artikel 4
+##### Artikel 4
 
 Het aspect professionele tandheelkundige vorming is zodanig ingericht dat de betrokkene voldoende kennis verwerft van de wetenschappen waarop de tandheelkunde berust, alsmede een goed inzicht in de wetenschappelijke methoden en met name de beginselen van de meting van biologische functies, in de beoordeling van wetenschappelijk vastgestelde feiten alsmede in de analyse van gegevens en in staat is tot:
 
@@ -76,7 +102,7 @@ Het aspect professionele tandheelkundige vorming is zodanig ingericht dat de bet
 
 - f. de evaluatie van eigen handelen, op grond waarvan eigen beperkingen worden herkend en erkend.
 
-#### Artikel 5
+##### Artikel 5
 
 Het aspect communicatie en voorlichting is zodanig ingericht dat de betrokkene in staat is tot:
 
@@ -86,7 +112,7 @@ Het aspect communicatie en voorlichting is zodanig ingericht dat de betrokkene i
 
 - c. het geven van voorlichting aan de patiënt ter zake van preventief tandheelkundig gedrag en tandheelkundige behandeling en voorts het helpen bij diens besluitvorming over het toepassen van preventieve en curatieve maatregelen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het aspect onderzoek en diagnose van tandheelkundige problemen is zodanig ingericht dat de betrokkene:
 
@@ -114,7 +140,7 @@ Het aspect communicatie en voorlichting is zodanig ingericht dat de betrokkene i
 
 - g. het opstellen van een behandelplan en het verwijzen van de patiënt naar een andere hulpverlener indien dit in het belang van diens gezondheid noodzakelijk is.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het aspect instellen en handhaven van een optimale mondgezondheid is zodanig ingericht dat de betrokkene in staat is tot:
 
@@ -140,7 +166,7 @@ Het aspect communicatie en voorlichting is zodanig ingericht dat de betrokkene i
 
 2. Tijdens de opleiding tot tandarts wordt voldoende klinische ervaring onder deskundig toezicht opgedaan.
 
-#### Artikel 8
+##### Artikel 8
 
 Het aspect beginselen van de tandheelkundige gezondheidszorg is zodanig ingericht dat de betrokkene:
 
@@ -150,11 +176,11 @@ Het aspect beginselen van de tandheelkundige gezondheidszorg is zodanig ingerich
 
 - c. inzicht verwerft in de structuur en financiering van de tandheelkundige gezondheidszorg.
 
-#### Artikel 9
+##### Artikel 9
 
 Het aspect medische noodsituaties is zodanig ingericht dat de betrokkene in staat is tot zodanig handelen in medische noodsituaties dat de patiënt in een stabiele toestand komt en kan blijven totdat adequate hulp beschikbaar is.
 
-#### Artikel 10
+##### Artikel 10
 
 Het aspect praktijkvoering is zodanig ingericht dat de betrokkene in staat is tot:
 
@@ -170,17 +196,17 @@ Het aspect praktijkvoering is zodanig ingericht dat de betrokkene in staat is to
 
 #### § 3. Overgangs- en slotbepalingen
 
-#### Artikel 11
+##### Artikel 11
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 12
+##### Artikel 12
 
 Dit besluit wordt aangehaald als: Besluit opleidingseisen tandarts.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-#### Artikel 2a
+##### Artikel 2a
 
 1. De opleiding tot tandarts duurt ten minste vijf jaar en omvat ten minste 5.000 uur voltijds theoretisch en praktisch onderwijs.
 

@@ -1,13 +1,36 @@
 ---
-title: "Vijfde tijdelijke vrijstelling desinfectie luchtvaartuigen COVID-19 2022"
+title: "Tijdelijke vrijstelling op grond van artikel 46, eerste lid van de Wet gewasbeschermingsmiddelen en biociden voor het gebruik van desinfectiemiddelen in luchtvaartuigen in verband met de uitbraak COVID-19 (Vijfde tijdelijke vrijstelling desinfectie luchtvaartuigen COVID-19 2022)"
 identifier: "BWBR0046982"
-categorie: "Milieu"
-publicatiedatum: 2022-08-08
-laatste_update: 2022-08-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046982"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-08-08"
+last_updated: "2022-08-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046982"
+soort: "ministeriele-regeling"
+stam_id: "16439153"
+version_id: "28798952"
+internal_id: "C40778381"
+label_id: "16363224"
+dtd_version: "2.0"
+original_entry_into_force: "2022-08-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046982/2022-08-08/0"
+intitule_bron: "Stcrt.2022-19278"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2022-07-22"
+intitule_in_force: "2022-07-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-19278"
+original_published_date: "2022-07-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-19278"
+entry_into_force_date: "2022-08-08"
+jci_1_3: "jci1.3:c:BWBR0046982&z=2022-08-08&g=2022-08-08"
+jci_1_0: "1.0:c:BWBR0046982&g=2022-08-08"
+citeertitel_status: "officieel"
+short_title: "Vijfde tijdelijke vrijstelling desinfectie luchtvaartuigen COVID-19 2022"
+entry_into_force: "2022-08-08"
 ---
-
 # Tijdelijke vrijstelling op grond van artikel 46, eerste lid van de Wet gewasbeschermingsmiddelen en biociden voor het gebruik van desinfectiemiddelen in luchtvaartuigen in verband met de uitbraak COVID-19 (Vijfde tijdelijke vrijstelling desinfectie luchtvaartuigen COVID-19 2022)
 
 Handelende in overeenstemming met de Minister van Landbouw, Natuur en Voedselkwaliteit;
@@ -18,7 +41,7 @@ Gelet op [artikel 46, eerste lid, van de Wet gewasbeschermingsmiddelen en biocid
 
 BESLUIT:
 
-#### Artikel 1
+##### Artikel 1
 
 Ten behoeve van de bestrijding van infecties ten tijde van de uitbraak van het coronavirus SARS-CoV-2 en in verband met de oppervlaktedesinfectie in luchtvaartuigen en het waarborgen van de luchtwaardigheid van de luchtvaartuigen, wordt op grond van:
 
@@ -34,15 +57,15 @@ Ten behoeve van de bestrijding van infecties ten tijde van de uitbraak van het c
 
 - b). artikel 55 van [Verordening (EU) nr. 528/2012](32012R0528) toegestaan dat de in onderdeel a genoemde middelen onder de daarin genoemde voorwaarden op de markt worden aangeboden en gebruikt.
 
-#### Artikel 2
+##### Artikel 2
 
 Aan de vrijstelling en toestemming, bedoeld in [artikel 1, onderdelen a onderscheidenlijk b](https://wetten.overheid.nl/jci1.3:c:BWBR0046982&artikel=1&z=2022-08-08&g=2022-08-08), zijn de in de bijlage bij dit besluit opgenomen beperkingen en voorschriften verbonden. Gebruik buiten deze beperkingen en voorwaarden valt buiten deze vrijstelling.
 
-#### Artikel 3
+##### Artikel 3
 
 De vrijstelling annex toestemming wordt verleend van 8 augustus 2022 tot en met 3 februari 2023.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit wordt aangehaald als: Vijfde tijdelijke vrijstelling desinfectie luchtvaartuigen COVID-19 2022.
 

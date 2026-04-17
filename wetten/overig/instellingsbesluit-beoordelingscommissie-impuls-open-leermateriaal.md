@@ -1,20 +1,46 @@
 ---
-title: "Instellingsbesluit beoordelingscommissie Impuls open leermateriaal"
+title: "Besluit van de Minister voor Primair en Voortgezet Onderwijs van 9 oktober 2023, nr. 40808959, houdende instelling van de beoordelingscommissie voor het Impuls open leermateriaal programma voor de periode 2023 tot en met 2027 (Instellingsbesluit beoordelingscommissie Impuls open leermateriaal 2023–2027)"
 identifier: "BWBR0048761"
-categorie: "Overig"
-publicatiedatum: 2024-10-23
-laatste_update: 2024-10-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048761"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-10-23"
+last_updated: "2024-10-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048761"
+soort: "ministeriele-regeling"
+stam_id: "16885373"
+version_id: "29678112"
+internal_id: "C42488071"
+label_id: "16797434"
+dtd_version: "2.0"
+original_entry_into_force: "2023-10-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048761/2024-10-23/0"
+intitule_bron: "Stcrt.2023-28591"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-10-09"
+intitule_published: "2023-10-20"
+intitule_in_force: "2023-10-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-28591"
+original_signed_date: "2023-10-09"
+original_published_date: "2023-10-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-28591"
+entry_into_force_date: "2023-10-21"
+jci_1_3: "jci1.3:c:BWBR0048761&z=2024-10-23&g=2024-10-23"
+jci_1_0: "1.0:c:BWBR0048761&g=2024-10-23"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit beoordelingscommissie Impuls open leermateriaal"
+signed_date: "2023-10-09"
+entry_into_force: "2023-10-21"
 ---
-
 # Besluit van de Minister voor Primair en Voortgezet Onderwijs van 9 oktober 2023, nr. 40808959, houdende instelling van de beoordelingscommissie voor het Impuls open leermateriaal programma voor de periode 2023 tot en met 2027 (Instellingsbesluit beoordelingscommissie Impuls open leermateriaal 2023–2027)
 
 Gelet op de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=1) en [2 van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2), [artikel 2 van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=2) en [artikel 10, eerste lid, van de Subsidieregeling Impuls open leermateriaal](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&artikel=10);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -28,7 +54,7 @@ In dit besluit wordt verstaan onder:
 
 - **regeling:** [Subsidieregeling Impuls open leermateriaal](https://wetten.overheid.nl/jci1.3:c:BWBR0048594).
 
-#### Artikel 2. Instelling en taak van de commissie
+##### Artikel 2. Instelling en taak van de commissie
 
 1. Er is een beoordelingscommissie Impuls open leermateriaal.
 
@@ -42,7 +68,7 @@ In dit besluit wordt verstaan onder:
 
 4. Voor de taken, bedoeld in het derde lid, adviseert de commissie de minister binnen 16 weken na afloop van de aanvraagperiode, bedoeld in de [artikelen 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&artikel=12), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&artikel=13), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&artikel=14), en [14h van de regeling](onbekend).
 
-#### Artikel 3. Samenstelling, benoeming en ontslag
+##### Artikel 3. Samenstelling, benoeming en ontslag
 
 1. De commissie bestaat uit een voorzitter en ten hoogste 5 overige leden.
 
@@ -64,7 +90,7 @@ In dit besluit wordt verstaan onder:
 
 7. Bij tussentijds ontslag van een overig lid kan de minister een ander lid benoemen.
 
-#### Artikel 4. Leden
+##### Artikel 4. Leden
 
 Tot leden van de commissie worden benoemd:
 
@@ -80,7 +106,7 @@ Tot leden van de commissie worden benoemd:
 
 - f. mevrouw L. Krul.
 
-#### Artikel 5. Secretariaat
+##### Artikel 5. Secretariaat
 
 1. De minister voorziet in het secretariaat van de commissie, dat bij DUS-I wordt belegd.
 
@@ -88,17 +114,17 @@ Tot leden van de commissie worden benoemd:
 
 3. Het secretariaat is voor de inhoudelijke uitvoering van zijn taak uitsluitend verantwoording schuldig aan de commissie.
 
-#### Artikel 6. Werkwijze
+##### Artikel 6. Werkwijze
 
 1. De commissie stelt haar eigen werkwijze vast binnen de kaders van de regeling.
 
 2. Na toestemming van de minister kan de commissie zich door andere personen laten bijstaan voor zover dat voor de vervulling van haar taak nodig is.
 
-#### Artikel 7. Informatieplicht
+##### Artikel 7. Informatieplicht
 
 De commissie verstrekt aan de minister desgevraagd de door hem gewenste inlichtingen. De minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.
 
-#### Artikel 8. Vergoeding
+##### Artikel 8. Vergoeding
 
 1. De vergoeding van de voorzitter van de commissie bedraagt € 420,00 per dagdeel.
 
@@ -114,25 +140,25 @@ De commissie verstrekt aan de minister desgevraagd de door hem gewenste inlichti
 
 4. De reiskostenvergoeding is € 0,21 per kilometer of de werkelijk gemaakte kosten met het openbaar vervoer.
 
-#### Artikel 9. Kosten van de commissie
+##### Artikel 9. Kosten van de commissie
 
 Voor zover goedgekeurd komen de kosten van de commissie voor rekening van de minister.
 
-#### Artikel 10. Openbaarmaking
+##### Artikel 10. Openbaarmaking
 
 Rapporten, notities, verslagen, adviezen en andere producten die door of namens de commissie worden vervaardigd of vergaard, worden niet door de commissie openbaar gemaakt, maar uitsluitend aan de minister uitgebracht of overgedragen.
 
-#### Artikel 11. Archiefbescheiden
+##### Artikel 11. Archiefbescheiden
 
 De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden de bescheiden betreffende die werkzaamheden over aan het archief van de Directie Voortgezet Onderwijs van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
-#### Artikel 12. Inwerkingtreding en vervaldatum
+##### Artikel 12. Inwerkingtreding en vervaldatum
 
 1. Dit besluit treedt in werking met ingang van de dag na uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 oktober 2023.
 
 2. Dit besluit vervalt met ingang van 1 januari 2028.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit beoordelingscommissie Impuls open leermateriaal.
 

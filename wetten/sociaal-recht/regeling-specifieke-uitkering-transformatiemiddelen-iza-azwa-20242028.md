@@ -1,20 +1,46 @@
 ---
-title: "Regeling specifieke uitkering transformatiemiddelen IZA & AZWA 2024–2028"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 15 mei 2024, kenmerk 3821421-1065214-DMO, houdende een specifieke uitkering voor de uitvoering van transformatieplannen in het kader van het Integraal Zorgakkoord (Regeling specifieke uitkering transformatiemiddelen IZA 2024-2027)"
 identifier: "BWBR0049737"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-04-01
-laatste_update: 2026-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049737"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-04-01"
+last_updated: "2026-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049737"
+soort: "ministeriele-regeling"
+stam_id: "17113023"
+version_id: "30118762"
+internal_id: "C43155721"
+label_id: "17021564"
+dtd_version: "2.0"
+original_entry_into_force: "2024-05-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049737/2026-04-01/0"
+intitule_bron: "Stcrt.2024-17398"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-05-15"
+intitule_published: "2024-05-28"
+intitule_in_force: "2024-05-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-17398"
+original_signed_date: "2024-05-15"
+original_published_date: "2024-05-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-17398"
+entry_into_force_date: "2024-05-29"
+jci_1_3: "jci1.3:c:BWBR0049737&z=2026-04-01&g=2026-04-01"
+jci_1_0: "1.0:c:BWBR0049737&g=2026-04-01"
+citeertitel_status: "officieel"
+short_title: "Regeling specifieke uitkering transformatiemiddelen IZA & AZWA 2024–2028"
+signed_date: "2024-05-15"
+entry_into_force: "2024-05-29"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 15 mei 2024, kenmerk 3821421-1065214-DMO, houdende een specifieke uitkering voor de uitvoering van transformatieplannen in het kader van het Integraal Zorgakkoord (Regeling specifieke uitkering transformatiemiddelen IZA 2024-2027)
 
 Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3) en [5 van de Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=5);
 
 Besluit:
 
-#### Artikel 1. Algemene begripsbepalingen
+##### Artikel 1. Algemene begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -46,13 +72,13 @@ In deze regeling wordt verstaan onder:
 
 - **Zorgverzekeringsfonds:** het fonds genoemd in [artikel 39 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=39).
 
-#### Artikel 2. Toepasselijkheid [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) en [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepasselijkheid [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) en [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 1. Op deze regeling zijn de [artikelen 4:34](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:34), [4:35](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35), [4:37](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:37), [4:38](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:38), [4:48 tot en met 4:50](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:48), [4:56](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:56) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) van overeenkomstige toepassing.
 
 2. Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) niet van toepassing.
 
-#### Artikel 3. Doel van de regeling
+##### Artikel 3. Doel van de regeling
 
 De Minister kan op aanvraag aan een gemeente een specifieke uitkering verstrekken voor de voorbereiding en uitvoering van een transformatieplan in de periode van 1 januari 2024 tot en met 31 december 2028 met, conform de IZA-doelen, een substantiële impact op:
 
@@ -64,11 +90,11 @@ De Minister kan op aanvraag aan een gemeente een specifieke uitkering verstrekke
 
 - d. de omvang van zorgvastgoed in relatie tot de omvang van de zorgaanbieder.
 
-#### Artikel 4. Dubbelfinanciering
+##### Artikel 4. Dubbelfinanciering
 
 Indien een gemeente reeds een vergoeding van overheidswege ontvangt voor activiteiten die onderdeel uitmaken van een transformatieplan, wordt alleen een specifieke uitkering verstrekt waar het gaat om additionele activiteiten.
 
-#### Artikel 5. Uitkeringsplafond
+##### Artikel 5. Uitkeringsplafond
 
 1. Het uitkeringsplafond voor aanvragen op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049737&artikel=3&z=2026-04-01&g=2026-04-01) bedraagt voor de gehele looptijd van de regeling € 352.973.325.
 
@@ -76,7 +102,7 @@ Indien een gemeente reeds een vergoeding van overheidswege ontvangt voor activit
 
 3. Een specifieke uitkering wordt geweigerd voor zover door verstrekking van de uitkering het uitkeringsplafond zou worden overschreden.
 
-#### Artikel 6. Aanvraag
+##### Artikel 6. Aanvraag
 
 1. Een specifieke uitkering wordt op aanvraag verleend.
 
@@ -94,7 +120,7 @@ Indien een gemeente reeds een vergoeding van overheidswege ontvangt voor activit
 
 - d. indien meerdere gemeenten deelnemen aan een transformatieplan, een bewijsstuk waaruit blijkt dat de penvoerder bevoegd is om de aanvraag namens een andere gemeente in te dienen.
 
-#### Artikel 7. Verlening en bevoorschotting
+##### Artikel 7. Verlening en bevoorschotting
 
 1. De Minister beslist binnen 13 weken na ontvangst van de aanvraag.
 
@@ -114,7 +140,7 @@ Indien een gemeente reeds een vergoeding van overheidswege ontvangt voor activit
 
 3. De Minister verstrekt bij het besluit tot verlening van een specifieke uitkering ambtshalve een voorschot van 100%, dat wordt uitgekeerd in jaarlijkse termijnen op basis van de bij de aanvraag overgelegde begroting.
 
-#### Artikel 8. Verplichtingen
+##### Artikel 8. Verplichtingen
 
 1. De gemeente draagt er zorg voor dat:
 
@@ -130,7 +156,7 @@ Indien een gemeente reeds een vergoeding van overheidswege ontvangt voor activit
 
 3. De gemeente draagt er zorg voor dat de vanwege deze specifieke uitkering verstrekte middelen niet worden aangewend voor activiteiten waarvoor zij op andere wijze een vergoeding ontvangt.
 
-#### Artikel 9. Verantwoording
+##### Artikel 9. Verantwoording
 
 1. De gemeente legt verantwoording af over de besteding van de specifieke uitkering op de wijze bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
@@ -138,7 +164,7 @@ Indien een gemeente reeds een vergoeding van overheidswege ontvangt voor activit
 
 3. Indien de verantwoordingsinformatie te laat, niet of niet volledig wordt verstrekt, kan de Minister de specifieke uitkering op een lager bedrag vaststellen, aan de hand van de gegevens die tot het besluit tot vaststelling beschikbaar zijn gesteld.
 
-#### Artikel 10. Vaststelling
+##### Artikel 10. Vaststelling
 
 1. De Minister beslist over de vaststelling van de specifieke uitkering uiterlijk 37 weken na ontvangst van de verantwoordingsinformatie.
 
@@ -156,17 +182,17 @@ Indien een gemeente reeds een vergoeding van overheidswege ontvangt voor activit
 
 5. De Minister doet binnen een jaar na ontvangst van de verantwoordingsinformatie mededeling van de terugvordering aan de ontvanger van de specifieke uitkering.
 
-#### Artikel 11. Hardheidsclausule
+##### Artikel 11. Hardheidsclausule
 
 De Minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover van toepassing gelet op het belang dat de desbetreffende bepaling beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 12. Inwerkingtreding en vervaldatum
+##### Artikel 12. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 16 juli 2030, met dien verstande dat zij van toepassing blijft op uitkeringen die voor die datum zijn verleend.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering transformatiemiddelen IZA & AZWA 2024–2028.
 

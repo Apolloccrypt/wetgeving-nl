@@ -1,18 +1,43 @@
 ---
 title: "Besluit etikettering van levensmiddelen BES"
 identifier: "BWBR0028313"
-categorie: "Overig"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028313"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028313"
+soort: "AMvB-BES"
+stam_id: "10749883"
+version_id: "17724152"
+internal_id: "C24789431"
+label_id: "10724884"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028313/2010-10-10/0"
+intitule_bron: "Stb.2010-659"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-15"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-659"
+original_signed_date: "2010-09-15"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-659"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028313&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028313&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-15"
+entry_into_force: "2010-10-10"
 ---
-
 # Besluit etikettering van levensmiddelen BES
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -62,11 +87,11 @@ bron: "https://wetten.overheid.nl/BWBR0028313"
 
 8. Dit besluit is niet van toepassing op door liefdadigheidsinstellingen uit te delen eet- of drinkwaren.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Dit besluit berust op de [onderdelen a, f en j van het eerste lid van artikel 3 van de Warenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&artikel=3).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het is verboden eet- of drinkwaren te verhandelen anders dan met inachtneming van de voorschriften in dit besluit gesteld met betrekking tot hun aanduiding en tot het bezigen van vermeldingen of voorstellingen.
 
@@ -76,11 +101,11 @@ Dit besluit berust op de [onderdelen a, f en j van het eerste lid van artikel 3 
 
 #### § 2. De aanduiding
 
-#### Artikel 3
+##### Artikel 3
 
 Bij de verhandeling van voorverpakte, verpakte of onverpakte eet- of drinkwaren moet, met inachtneming van de bij dit besluit terzake gestelde regels, de van toepassing zijnde aanduiding worden gebezigd.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De aanduiding, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028313&paragraaf=2&artikel=3&z=2010-10-10&g=2010-10-10), is de aanduiding voorgeschreven in de wettelijke bepalingen die op de betrokken eet- of drinkwaar van toepassing zijn. Bij het ontbreken van dergelijke bepalingen is de aanduiding:
 
@@ -100,7 +125,7 @@ Bij de verhandeling van voorverpakte, verpakte of onverpakte eet- of drinkwaren 
 
 #### § 3. Vermeldingen
 
-#### Artikel 5
+##### Artikel 5
 
 1. Bij de verhandeling van voorverpakte eet- of drinkwaren moeten, met inachtneming van de bij dit besluit gestelde regels, de volgende vermeldingen worden gebezigd:
 
@@ -134,7 +159,7 @@ Bij de verhandeling van voorverpakte, verpakte of onverpakte eet- of drinkwaren 
 
 #### § 3.1. De lijst van ingrediënten
 
-#### Artikel 6
+##### Artikel 6
 
 1. De vermelding van de lijst van ingrediënten, bedoeld in [artikel 5, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028313&paragraaf=3&artikel=5&z=2010-10-10&g=2010-10-10), moet zonder onderbreking geschieden in de volgorde van afnemend gewicht waarin de ingrediënten bij de bereiding zijn gebruikt, voorafgegaan door het woord «ingrediënten». Een gewichtstolerantie van 10% relatief is daarbij toegestaan.
 
@@ -150,7 +175,7 @@ Bij de verhandeling van voorverpakte, verpakte of onverpakte eet- of drinkwaren 
 
 - b. water deel uitmaakt van een opgietvloeistof, zoals nader omschreven in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028313&paragraaf=3&sub-paragraaf=3.2&artikel=14&z=2010-10-10&g=2010-10-10), welke gewoonlijk niet wordt geconsumeerd.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Ingrediënten moeten worden vermeld met hun specifieke naam. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028313&paragraaf=2&artikel=4&z=2010-10-10&g=2010-10-10) is van overeenkomstige toepassing.
 
@@ -182,13 +207,13 @@ Bij de verhandeling van voorverpakte, verpakte of onverpakte eet- of drinkwaren 
 
 6. De in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0028313&bijlage=II&z=2010-10-10&g=2010-10-10) opgenomen vermelding gemodificeerd zetmeel wordt aangevuld met een omschrijving van de specifieke plantaardige oorsprong indien dat ingrediënt gluten kan bevatten.
 
-#### Artikel 8
+##### Artikel 8
 
 1. In afwijking van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028313&paragraaf=3&sub-paragraaf=3.1&artikel=6&z=2010-10-10&g=2010-10-10), mogen voor waren die zijn geconcentreerd of gedroogd en waaraan water moet worden toegevoegd om deze voor gebruik gereed te maken, in plaats van het woord «ingrediënten» worden gebezigd de woorden «ingrediënten van de waar na toebereiding» of woorden van gelijke strekking, gevolgd door een lijst van de in de waar aanwezige ingrediënten met een opsomming in de volgorde van de hoeveelheden na de bedoelde toevoeging.
 
 2. In afwijking van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028313&paragraaf=3&sub-paragraaf=3.1&artikel=6&z=2010-10-10&g=2010-10-10), mag voor eetwaren die hetzij bestaan uit een mengsel van vruchten of groenten, hetzij bestaan uit een mengsel van specerijen of kruiden, in plaats van het woord «ingrediënten» worden gebezigd de woorden «ingrediënten in wisselende verhouding» of woorden van gelijke strekking. Hierna volgt een lijst van de in de waar aanwezige grondstoffen in een willekeurige volgorde, tenzij één of meer van deze vruchten, groenten, specerijen of kruiden aanmerkelijk in gewicht overheerst.
 
-#### Artikel 9
+##### Artikel 9
 
 De in [artikel 5, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028313&paragraaf=3&artikel=5&z=2010-10-10&g=2010-10-10), bedoelde lijst van ingrediënten behoeft niet te worden vermeld ten aanzien van:
 
@@ -210,7 +235,7 @@ De in [artikel 5, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 - 2°. uit de aanduiding van de eet- of drinkwaar de aard van het ingrediënt duidelijk kan worden afgeleid.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De hoeveelheid van een ingrediënt of categorie ingrediënten die bij de bereiding van een eet- of drinkwaar is gebruikt, wordt vermeld indien het desbetreffende ingrediënt of de desbetreffende categorie ingrediënten:
 
@@ -256,7 +281,7 @@ De in [artikel 5, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 #### § 3.2. De nettohoeveelheid
 
-#### Artikel 11
+##### Artikel 11
 
 1. Onder nettohoeveelheid als bedoeld in [artikel 5, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0028313&paragraaf=3&artikel=5&z=2010-10-10&g=2010-10-10), wordt verstaan de hoeveelheid van een eet- of drinkwaar die in elk geval in de verpakking aanwezig is. Zij moet worden uitgedrukt in:
 
@@ -286,7 +311,7 @@ De in [artikel 5, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 5. In afwijking van het eerste lid mag voor een voorverpakte eet- of drinkwaar waarvan de hoeveelheid ingevolge het vierde lid in een aantal stuks mag zijn uitgedrukt, een zodanige hoeveelheidsvermelding achterwege worden gelaten, indien het aantal stuks van die eet- of drinkwaar zonder opening van de verpakking van buitenaf duidelijk kan worden gezien en gemakkelijk kan worden geteld.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Indien een voorverpakte eet- of drinkwaar bestaat uit een aantal verpakte eenheden die ook als afzonderlijke verkoopeenheden aan eindverbruikers plegen te worden verhandeld, en die elk een zelfde hoeveelheid van die eet- of drinkwaar bevatten, moet:
 
@@ -296,13 +321,13 @@ De in [artikel 5, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 2. In afwijking van het eerste lid behoeven de aldaar bedoelde vermeldingen niet te worden gebezigd, indien het totale aantal afzonderlijke verpakte eenheden duidelijk kan worden gezien en van buitenaf gemakkelijk kan worden geteld, en de vermelding van de nettohoeveelheid van elke afzonderlijke verpakte eenheid van buitenaf duidelijk kan worden gezien.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Voor een voorverpakte eet- of drinkwaar die bestaat uit een aantal verpakte eenheden die afzonderlijk niet als een verkoopeenheid aan eindverbruikers plegen te worden verhandeld, moet behalve de vermelding van de nettohoeveelheid, tevens een vermelding worden gebezigd, die het totale aantal van vorenbedoelde eenheden aangeeft.
 
 2. In afwijking van het eerste lid behoeft de aldaar bedoelde vermelding van het aantal eenheden niet te worden gebezigd ten aanzien van suikerwerk waarvan de hoeveelheid in elke verpakte eenheid ten hoogste 15 gram is.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Voor een voorverpakte eetwaar die bestaat uit vaste bestanddelen en een opgietvloeistof, moet tevens een vermelding worden gebezigd die het uitlekgewicht van het vaste hoofdbestanddeel aangeeft. Die vermelding moet inhouden het woord «uitlekgewicht», gevolgd door de waarde van dat gewicht, met dien verstande dat het woord «uitlekgewicht» mag worden vervangen door de benaming van het vaste hoofdbestanddeel, indien een aanduiding is gebezigd waarvan de benaming van dat hoofdbestanddeel en van de opgietvloeistof deel uitmaakt.
 
@@ -312,7 +337,7 @@ De in [artikel 5, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 - b. het sap van de betrokken groente of van het betrokken fruit, indien het hoofdbestanddeel van de waar verduurzaamde groente of verduurzaamd fruit is.
 
-#### Artikel 15
+##### Artikel 15
 
 De [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028313&paragraaf=3&sub-paragraaf=3.2&artikel=11&z=2010-10-10&g=2010-10-10), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0028313&paragraaf=3&sub-paragraaf=3.2&artikel=12&z=2010-10-10&g=2010-10-10) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0028313&paragraaf=3&sub-paragraaf=3.2&artikel=13&z=2010-10-10&g=2010-10-10) zijn niet van toepassing ten aanzien van:
 
@@ -322,7 +347,7 @@ De [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028313&paragraaf=3&su
 
 #### § 3.3. De datum van minimale houdbaarheid
 
-#### Artikel 16
+##### Artikel 16
 
 1. De datum van minimale houdbaarheid, bedoeld in [artikel 5, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0028313&paragraaf=3&artikel=5&z=2010-10-10&g=2010-10-10), moet worden gebezigd voor andere eet- of drinkwaren dan die bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028313&paragraaf=3&sub-paragraaf=3.4&artikel=17&z=2010-10-10&g=2010-10-10).
 
@@ -380,7 +405,7 @@ een en ander met dien verstande dat in afwijking van het in het tweede lid bepaa
 
 #### § 3.4. De uiterste consumptiedatum
 
-#### Artikel 17
+##### Artikel 17
 
 1. De uiterste consumptiedatum, bedoeld in [artikel 5, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0028313&paragraaf=3&artikel=5&z=2010-10-10&g=2010-10-10), moet worden gebezigd voor eet- of drinkwaren die uit microbiologisch oogpunt zeer bederfelijk zijn en derhalve na korte tijd een onmiddellijk gevaar voor de volksgezondheid kunnen opleveren.
 
@@ -392,7 +417,7 @@ een en ander met dien verstande dat in afwijking van het in het tweede lid bepaa
 
 #### § 3.5. Overige vermeldingen
 
-#### Artikel 18
+##### Artikel 18
 
 De aanwijzing omtrent de bewaring en het gebruik, bedoeld in [artikel 5, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0028313&paragraaf=3&artikel=5&z=2010-10-10&g=2010-10-10), wordt gebezigd:
 
@@ -400,15 +425,15 @@ De aanwijzing omtrent de bewaring en het gebruik, bedoeld in [artikel 5, eerste 
 
 - b. indien zonder de aanwijzing omtrent het gebruik of het gebruiksklaar maken de eet- of drinkwaar niet op de juiste wijze kan worden gebruikt of gebruiksklaar worden gemaakt.
 
-#### Artikel 19
+##### Artikel 19
 
 De vermelding van de gegevens omtrent de producent, importeur of leverancier, bedoeld in [artikel 5, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0028313&paragraaf=3&artikel=5&z=2010-10-10&g=2010-10-10), moet bestaan uit de naam of de handelsnaam en het adres, met dien verstande dat voor rechtspersonen de vermelding van het adres mag worden vervangen door de vermelding van de plaats van vestiging.
 
-#### Artikel 20
+##### Artikel 20
 
 De vermelding van de plaats van oorsprong of herkomst, bedoeld in [artikel 5, eerste lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0028313&paragraaf=3&artikel=5&z=2010-10-10&g=2010-10-10), moet bestaan uit een regionale, territoriale of topografische vermelding, en moet worden gebezigd indien weglating ervan de koper zou kunnen misleiden ten aanzien van de werkelijke oorsprong of herkomst.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Het alcoholgehalte, bedoeld in [artikel 5, eerste lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0028313&paragraaf=3&artikel=5&z=2010-10-10&g=2010-10-10), moet worden gebezigd voor dranken met een effectief alcoholgehalte van meer dan 1,2 volumeprocenten, en moet bestaan uit het symbool «% vol», voorafgegaan door het werkelijke gehalte, bepaald bij 20 °C, en weergegeven met ten hoogste een decimaal. Deze vermelding wordt al dan niet voorafgegaan door «alcohol» of «alc.».
 
@@ -428,7 +453,7 @@ De vermelding van de plaats van oorsprong of herkomst, bedoeld in [artikel 5, ee
 
 - g. voor overige dranken: 0,3% vol.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De vermelding betreffende de produktiepartij, bedoeld in [artikel 5, eerste lid, onder i, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028313&paragraaf=3&artikel=5&z=2010-10-10&g=2010-10-10), geschiedt in de vorm van een nummercode op de wijze waarop deze in het land van herkomst gebruikelijk is danwel is voorgeschreven.
 
@@ -442,17 +467,17 @@ De vermelding van de plaats van oorsprong of herkomst, bedoeld in [artikel 5, ee
 
 4. De datum van minimale houdbaarheid onderscheidenlijk de uiterste consumptiedatum, voor zover deze een dagaanduiding inhoudt, geldt als een vermelding als bedoeld in het eerste lid.
 
-#### Artikel 23
+##### Artikel 23
 
 De vermelding betreffende een verpakkingsgas, bedoeld in [artikel 5, eerste lid, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0028313&paragraaf=3&artikel=5&z=2010-10-10&g=2010-10-10), bestaat uit de woorden «verpakt onder beschermende atmosfeer» en wordt gebezigd voor eet- of drinkwaren waarvan de houdbaarheid is verlengd met behulp van de – bij of krachtens enige wettelijke regeling toegelaten – verpakkingsgassen.
 
 #### § 4. Het aanbrengen van aanduidingen en vermeldingen
 
-#### Artikel 24
+##### Artikel 24
 
 De in dit besluit bedoelde aanduiding en vermeldingen moeten duidelijk zichtbaar en met het blote oog gemakkelijk leesbaar zijn aangebracht en mogen niet door vegen kunnen worden uitgewist. Zij moeten, behoudens de vermelding, bedoeld in [artikel 5, eerste lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0028313&paragraaf=3&artikel=5&z=2010-10-10&g=2010-10-10), in elk geval in een van de volgende talen zijn gesteld: Nederlands, Papiaments, Engels of Spaans.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Voor wat betreft voorverpakte eet- of drinkwaren moeten de in dit besluit bedoelde aanduiding en vermeldingen voorkomen op de verpakking of op een daaraan gehecht etiket.
 
@@ -482,21 +507,21 @@ mits op de buitenste verpakking waarin de waar wordt verhandeld, worden gebezigd
 
 5. In afwijking van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028313&paragraaf=2&artikel=3&z=2010-10-10&g=2010-10-10) en [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028313&paragraaf=3&artikel=5&z=2010-10-10&g=2010-10-10), behoeven op gestandaardiseerde tapmaatflessen, waarin melk of melkprodukten zijn verpakt, slechts de datum van minimale houdbaarheid of de uiterste consumptiedatum, alsmede gegevens omtrent de producent, verpakker of verkoper te worden gebezigd.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Voor wat betreft een niet voorverpakte eet- of drinkwaar als bedoeld in [artikel 1, vierde lid, onderdelen b, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0028313&paragraaf=1&artikel=1&z=2010-10-10&g=2010-10-10), moeten de aanduiding alsmede de vermelding van de nettohoeveelheid voor het publiek in ieder geval duidelijk zichtbaar zijn aangebracht op het voorwerp waarin of waarop de betrokken waar zich bevindt, of op een onmiddellijk boven bedoeld voorwerp geplaatst(e) bord of kaart.
 
 2. Voor wat betreft een niet voorverpakte eet- of drinkwaar als bedoeld in [artikel 1, vierde lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0028313&paragraaf=1&artikel=1&z=2010-10-10&g=2010-10-10), moet bovendien de vermelding van de produktiepartij voorkomen op de verpakking of op een daaraan gehecht etiket, of, indien zulks niet mogelijk is, op het handelsdocument dat de betrokken waar vergezelt.
 
-#### Artikel 27
+##### Artikel 27
 
 Voor wat betreft een verpakte eet- of drinkwaar moeten de aanduiding alsmede de vermelding van de produktiepartij zijn aangebracht op de verpakking, of, indien zulks niet mogelijk is, op het handelsdocument dat de betrokken waar vergezelt.
 
-#### Artikel 28
+##### Artikel 28
 
 Voor wat betreft een onverpakte eet- of drinkwaar moet de aanduiding voor het publiek duidelijk zichtbaar zijn aangebracht op het voorwerp waarin of waarop de betrokken waar zich bevindt, of op een onmiddellijk boven bedoeld voorwerp geplaatst bord of geplaatste kaart.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Indien zich in een verpakking een in afzonderlijk verpakte eenheden verdeelde hoeveelheid van een zelfde eet- of drinkwaar bevindt, wordt eerstbedoelde verpakking aangemerkt als de verpakking, bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028313&paragraaf=4&artikel=25&z=2010-10-10&g=2010-10-10).
 
@@ -504,7 +529,7 @@ Voor wat betreft een onverpakte eet- of drinkwaar moet de aanduiding voor het pu
 
 3. In afwijking van het eerste en tweede lid behoeven de in die leden voorgeschreven aanduiding en vermeldingen niet op de buitenzijde van de volgens die leden aangemerkte verpakking of op een op die verpakking aangebracht etiket te zijn aangebracht, indien die verpakking helder doorzichtig is, en de zich in bedoelde verpakking bevindende eenheden de volgens dit besluit voorgeschreven aanduiding en vermeldingen dragen en deze voldoende zichtbaar zijn.
 
-#### Artikel 30
+##### Artikel 30
 
 1. Aanduidingen, vermeldingen of voorstellingen die doordat zij onjuist of onvolledig zijn of een onjuiste indruk wekken, misleidend zijn met betrekking tot de kenmerken van de betrokken eet- of drinkwaar, en met name tot de aard, identiteit, hoedanigheid, samenstelling, hoeveelheid, houdbaarheid, oorsprong of herkomst, wijze van vervaardiging of verkrijging, mogen bij het verhandelen van eet- en drinkwaren, en bij de aanprijzing ervan, niet worden gebezigd.
 
@@ -516,17 +541,17 @@ Voor wat betreft een onverpakte eet- of drinkwaar moet de aanduiding voor het pu
 
 #### § 5. Overgangs- en slotbepalingen
 
-#### Artikel 31
+##### Artikel 31
 
 1. Indien in enig wettelijk voorschrift is bepaald dat ten aanzien van een bepaalde eet- of drinkwaar of een bepaalde categorie van eet- of drinkwaren, de aanduiding, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028313&paragraaf=2&artikel=3&z=2010-10-10&g=2010-10-10), of één of meer der vermeldingen, bedoeld in [artikel 5, eerste, onderscheidenlijk tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028313&paragraaf=3&artikel=5&z=2010-10-10&g=2010-10-10), niet mogen, dan wel niet behoeven te worden gebezigd, is met betrekking tot die eet- of drinkwaar of die categorie van eet- of drinkwaren het in genoemde artikelen bepaalde niet van toepassing, voor zover het die aanduiding of de betrokken melding betreft.
 
 2. Indien ten aanzien van een bepaalde eet- of drinkwaar of een bepaalde categorie van eet- of drinkwaren, met betrekking tot een aanduiding, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028313&paragraaf=2&artikel=3&z=2010-10-10&g=2010-10-10), of één of meer der vermeldingen als bedoeld in [artikel 5, eerste, onderscheidenlijk tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028313&paragraaf=3&artikel=5&z=2010-10-10&g=2010-10-10), een vrijstelling of ontheffing is verleend van een ander wettelijk voorschrift dan het onderhavige besluit, is het in genoemde artikelen bepaalde niet van toepassing, voor zover het die aanduiding of betrokken vermeldingen betreft.
 
-#### Artikel 32
+##### Artikel 32
 
 Dit besluit treedt in werking met ingang van de dag na die der uitgifte van het Publicatieblad waarin het geplaatst is, en werkt terug tot en met 11 november 2004.
 
-#### Artikel 33
+##### Artikel 33
 
 Dit besluit kan worden aangehaald als: Besluit etikettering van levensmiddelen BES.
 

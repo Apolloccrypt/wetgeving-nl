@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregel erkenning tot het Nederlands cultureel erfgoed behorende monumenten gelegen buiten Nederland"
+title: "Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 3 juli 2015, nr. WJZ/785850 (10601), over het erkennen van buiten Nederland gelegen monumenten die verband houden met het Nederlands cultureel erfgoed en die voldoen aan de criteria voor aanwijzing als rijksmonument, in verband met aftrek van uitgaven voor die monumenten in de inkomstenbelasting (Beleidsregel erkenning tot het Nederlands cultureel erfgoed behorende monumenten gelegen buiten Nederland)"
 identifier: "BWBR0036824"
-categorie: "Bestuursrecht"
-publicatiedatum: 2016-07-01
-laatste_update: 2016-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036824"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2016-07-01"
+last_updated: "2016-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036824"
+soort: "beleidsregel"
+stam_id: "13216573"
+version_id: "22563142"
+internal_id: "C32361101"
+label_id: "13184844"
+dtd_version: "2.0"
+original_entry_into_force: "2015-07-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036824/2016-07-01/0"
+intitule_bron: "Stcrt.2015-19301"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-07-03"
+intitule_published: "2015-07-13"
+intitule_in_force: "2015-07-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-19301"
+original_signed_date: "2015-07-03"
+original_published_date: "2015-07-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-19301"
+entry_into_force_date: "2015-07-14"
+jci_1_3: "jci1.3:c:BWBR0036824&z=2016-07-01&g=2016-07-01"
+jci_1_0: "1.0:c:BWBR0036824&g=2016-07-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel erkenning tot het Nederlands cultureel erfgoed behorende monumenten gelegen buiten Nederland"
+signed_date: "2015-07-03"
+entry_into_force: "2015-07-14"
 ---
-
 # Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 3 juli 2015, nr. WJZ/785850 (10601), over het erkennen van buiten Nederland gelegen monumenten die verband houden met het Nederlands cultureel erfgoed en die voldoen aan de criteria voor aanwijzing als rijksmonument, in verband met aftrek van uitgaven voor die monumenten in de inkomstenbelasting (Beleidsregel erkenning tot het Nederlands cultureel erfgoed behorende monumenten gelegen buiten Nederland)
 
 Gelet op [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) en het [besluit van 7 september 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0026387), nr. 2009/1290M, laatstelijk gewijzigd bij besluit van juli 2015, nr. BLKB 2015/762M;
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -24,7 +50,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - **rijksmonument:** rijksmonument als bedoeld in [artikel 1.1 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=1.1).
 
-#### Artikel 2. Reikwijdte
+##### Artikel 2. Reikwijdte
 
 De minister kan op aanvraag van een eigenaar van een onroerend monument dat gelegen is op het grondgebied van een andere lidstaat van de Europese Unie of een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, een erkenning verstrekken inhoudende dat:
 
@@ -32,11 +58,11 @@ De minister kan op aanvraag van een eigenaar van een onroerend monument dat gele
 
 - b. het in aanmerking zou komen voor aanwijzing als rijksmonument als het monument op het grondgebied van Nederland had gelegen.
 
-#### Artikel 3. Voorwaarden
+##### Artikel 3. Voorwaarden
 
 De minister verstrekt een erkenning alleen indien de aanvrager aantoont dat het monument voldoet aan de criteria, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036824&artikel=4&z=2016-07-01&g=2016-07-01).
 
-#### Artikel 4. Beoordelingscriteria
+##### Artikel 4. Beoordelingscriteria
 
 1. Een monument komt slechts in aanmerking voor erkenning indien het monument:
 
@@ -114,7 +140,7 @@ De minister verstrekt een erkenning alleen indien de aanvrager aantoont dat het 
 
 3. Een op het grondgebied van een andere lidstaat van de Europese Unie of een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte gelegen monument komt in ieder geval niet voor erkenning in aanmerking indien het niet voldoet aan een van de waarden, bedoeld in het tweede lid, onderdeel a of b, onder i of ii.
 
-#### Artikel 5. In te dienen documenten
+##### Artikel 5. In te dienen documenten
 
 1. Voor het doen van een aanvraag kan de minister een aanvraagformulier vaststellen.
 
@@ -144,15 +170,15 @@ De minister verstrekt een erkenning alleen indien de aanvrager aantoont dat het 
 
 3. De aanvrager verstrekt de minister op diens verzoek een door een beëdigde vertaler gemaakte vertaling van de ingediende documenten.
 
-#### Artikel 6. Beslistermijn
+##### Artikel 6. Beslistermijn
 
 De minister beslist op een aanvraag binnen een redelijke termijn als bedoeld in [artikel 4:13, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:13).
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel erkenning tot het Nederlands cultureel erfgoed behorende monumenten gelegen buiten Nederland.
 

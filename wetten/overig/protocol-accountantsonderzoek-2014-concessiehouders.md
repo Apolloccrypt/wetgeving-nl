@@ -1,13 +1,35 @@
 ---
 title: "Protocol Accountantsonderzoek 2014 Concessiehouders"
 identifier: "BWBR0035783"
-categorie: "Overig"
-publicatiedatum: 2014-11-25
-laatste_update: 2014-11-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035783"
+country: "nl"
+rank: "zbo"
+publication_date: "2014-11-25"
+last_updated: "2014-11-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035783"
+soort: "zbo"
+stam_id: "12848973"
+version_id: "21874932"
+internal_id: "C31395251"
+label_id: "12819114"
+dtd_version: "2.0"
+original_entry_into_force: "2014-11-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035783/2014-11-25/0"
+intitule_bron: "Stcrt.2014-32476"
+intitule_effect: "wijziging"
+intitule_published: "2014-11-24"
+intitule_in_force: "2014-11-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-32476"
+original_published_date: "2014-11-24"
+original_effect: "wijziging"
+original_url_id: "stcrt-2014-32476"
+entry_into_force_date: "2014-11-25"
+jci_1_3: "jci1.3:c:BWBR0035783&z=2014-11-25&g=2014-11-25"
+jci_1_0: "1.0:c:BWBR0035783&g=2014-11-25"
+citeertitel_status: "officieel"
+entry_into_force: "2014-11-25"
 ---
-
 # Protocol Accountantsonderzoek 2014 Concessiehouders
 
 Oktober 2014

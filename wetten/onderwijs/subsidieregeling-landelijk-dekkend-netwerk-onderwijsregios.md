@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling Landelijk dekkend netwerk onderwijsregio’s"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap en de Minister voor Primair en Voortgezet Onderwijs van 4 juni 2024, nr. PO/44416590, houdende regels voor het verstrekken van subsidie aan onderwijsregio’s (Subsidieregeling Landelijk dekkend netwerk onderwijsregio’s)"
 identifier: "BWBR0049781"
-categorie: "Onderwijs"
-publicatiedatum: 2025-06-13
-laatste_update: 2025-06-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049781"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-06-13"
+last_updated: "2025-06-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049781"
+soort: "ministeriele-regeling"
+stam_id: "17122053"
+version_id: "30761352"
+internal_id: "C44091071"
+label_id: "17030604"
+dtd_version: "2.0"
+original_entry_into_force: "2025-06-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049781/2025-06-13/0"
+intitule_bron: "Stcrt.2024-18763"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-06-04"
+intitule_published: "2024-06-10"
+intitule_in_force: "2024-06-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-20154"
+original_signed_date: "2025-06-10"
+original_published_date: "2025-06-12"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2025-20154"
+entry_into_force_date: "2025-06-13"
+jci_1_3: "jci1.3:c:BWBR0049781&z=2025-06-13&g=2025-06-13"
+jci_1_0: "1.0:c:BWBR0049781&g=2025-06-13"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling Landelijk dekkend netwerk onderwijsregio’s"
+signed_date: "2025-06-10"
+entry_into_force: "2025-06-13"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap en de Minister voor Primair en Voortgezet Onderwijs van 4 juni 2024, nr. PO/44416590, houdende regels voor het verstrekken van subsidie aan onderwijsregio’s (Subsidieregeling Landelijk dekkend netwerk onderwijsregio’s)
 
 Gelet op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4) en [5 van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=5) en de [artikelen 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3) en [2.1 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=2.1);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -124,15 +150,15 @@ In deze regeling wordt verstaan onder:
 
 - **zij-instromer:** degene die beschikt over een geschiktheidsverklaring als bedoeld in [artikel 171 van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=171), [artikel 151 van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=151), [artikel 7.28 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.28) of als bedoeld in [artikel 4.2.4, eerste lid, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=4.2.4);
 
-#### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
-#### Artikel 3. Subsidieplafond kalenderjaar 2025
+##### Artikel 3. Subsidieplafond kalenderjaar 2025
 
 Voor subsidieverstrekking op grond van deze regeling is voor de periode van 1 januari 2025 tot en met 31 december 2025 in totaal een bedrag beschikbaar van € 214.100.000,–.
 
-#### Artikel 4. Activiteiten onderwijsregio
+##### Artikel 4. Activiteiten onderwijsregio
 
 1. De Minister kan voor de periode van 1 januari 2025 tot en met 31 december 2025 subsidie verstrekken aan een penvoerder als tegemoetkoming in de kosten voor de uitvoering van een plan van aanpak als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0049781&paragraaf=2&artikel=8&z=2025-06-13&g=2025-06-13), gericht op de samenwerking tussen schoolbesturen, lerarenopleidingen en de beroepsgroep in de onderwijsregio om te zorgen voor voldoende en goed opgeleid onderwijspersoneel.
 
@@ -140,7 +166,7 @@ Voor subsidieverstrekking op grond van deze regeling is voor de periode van 1 ja
 
 3. Het plan van aanpak heeft betrekking op activiteiten die gericht zijn op het werven, matchen, opleiden, begeleiden en professionaliseren van onderwijspersoneel in een onderwijsregio.
 
-#### Artikel 5. Subsidiebedrag onderwijsregio
+##### Artikel 5. Subsidiebedrag onderwijsregio
 
 1. Het door een penvoerder aan te vragen subsidiebedrag bestaat uit:
 
@@ -158,7 +184,7 @@ Voor subsidieverstrekking op grond van deze regeling is voor de periode van 1 ja
 
 4. Indien het bedrag, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049781&paragraaf=2&artikel=3&z=2025-06-13&g=2025-06-13), ontoereikend is om alle daarvoor in aanmerking komende aanvragen te kunnen toewijzen, worden de subsidiebedragen, bedoeld in het eerste lid, onderdeel a en b, per aanvraag evenredig naar beneden bijgesteld.
 
-#### Artikel 6. Aanvraag subsidie onderwijsregio
+##### Artikel 6. Aanvraag subsidie onderwijsregio
 
 1. Een aanvraag wordt ingediend door een penvoerder.
 
@@ -192,7 +218,7 @@ Voor subsidieverstrekking op grond van deze regeling is voor de periode van 1 ja
 
 6. De aanvraag wordt medeondertekend door alle bevoegde gezagsorganen die betrokken zijn bij de aanvraag. Hiermee verklaren zij gezamenlijk het plan van aanpak uit te zullen voeren. Zij verklaren bovendien dat alle gegevens die noodzakelijk zijn voor de verantwoording door de penvoerder van de besteding van de subsidie op verzoek aan de penvoerder worden verstrekt.
 
-#### Artikel 7. Eisen aan de onderwijsregio
+##### Artikel 7. Eisen aan de onderwijsregio
 
 1. Een onderwijsregio bestaat uit de schoolbesturen met deelnemende vestigingen, één of meer lerarenopleidingen en de beroepsgroep.
 
@@ -226,7 +252,7 @@ Voor subsidieverstrekking op grond van deze regeling is voor de periode van 1 ja
 
 - d. Onderwijsregio PLG+.
 
-#### Artikel 8. Plan van aanpak onderwijsregio
+##### Artikel 8. Plan van aanpak onderwijsregio
 
 1. Het plan van aanpak bevat voor de periode waarop deze betrekking heeft, in aanvulling op [artikel 3.4 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.4), in ieder geval een beschrijving van:
 
@@ -264,7 +290,7 @@ Voor subsidieverstrekking op grond van deze regeling is voor de periode van 1 ja
 
 2. Het plan van aanpak van de onderwijsregio, de aanbevelingen van de Realisatie-Eenheid en de lijst met deelnemende partijen van een onderwijsregio worden door de Minister na toekenning van de subsidie openbaar gemaakt met inachtneming van de voorschriften uit de Algemene verordening gegevensbescherming.
 
-#### Artikel 9. Subsidieverplichtingen onderwijsregio
+##### Artikel 9. Subsidieverplichtingen onderwijsregio
 
 1. De activiteiten waarvoor subsidie wordt verstrekt, worden uitgevoerd in de periode van 1 januari 2025 tot en met 31 december 2025.
 
@@ -282,7 +308,7 @@ Voor subsidieverstrekking op grond van deze regeling is voor de periode van 1 ja
 
 - b. die zodanig is opgezet dat deze voldoende waarborgen biedt voor correcte en adequate rapportages.
 
-#### Artikel 10. Penvoerder
+##### Artikel 10. Penvoerder
 
 1. Eén bevoegd gezag dat deelneemt aan de onderwijsregio treedt namens de andere bevoegde gezagsorganen in de regio op als penvoerder.
 
@@ -290,7 +316,7 @@ Voor subsidieverstrekking op grond van deze regeling is voor de periode van 1 ja
 
 3. De penvoerder is verantwoordelijk voor alle aan de subsidie verbonden verplichtingen, ongeacht welke van de deelnemende partijen feitelijk is belast met de uitvoering van de daarop betrekking hebbende werkzaamheden.
 
-#### Artikel 11. Beoordeling basiskwaliteit aspirant-opleidingsschool
+##### Artikel 11. Beoordeling basiskwaliteit aspirant-opleidingsschool
 
 1. De Minister beoordeelt in 2025 de basiskwaliteit van de aspirant-opleidingsscholen die in 2021 zijn gestart als aspirant-opleidingsschool aan de hand van de criteria, opgenomen in [bijlage 1 van de Regeling tegemoetkoming kosten opleidingsscholen 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042461&bijlage=1), zoals die luidde op 25 april 2023.
 
@@ -304,7 +330,7 @@ Voor subsidieverstrekking op grond van deze regeling is voor de periode van 1 ja
 
 6. Indien de Minister de basiskwaliteit van een aspirant-opleidingsschool uit 2019 als onvoldoende beoordeelt, dan wordt de aspirant-opleidingsschool niet aangewezen als opleidingsschool en vervalt de status van aspirant-opleidingsschool na 31 december 2025.
 
-#### Artikel 12. Commissie beoordelingsgerichte peer review
+##### Artikel 12. Commissie beoordelingsgerichte peer review
 
 1. Er is een commissie beoordelingsgerichte peer review, die bestaat uit onafhankelijke deskundigen op het gebied van Samen Opleiden en een voorzitter. De leden en de voorzitter van de commissie worden benoemd door de Minister.
 
@@ -320,7 +346,7 @@ Voor subsidieverstrekking op grond van deze regeling is voor de periode van 1 ja
 
 5. De commissie functioneert bij de uitvoering van haar taken in een wisselende samenstelling van ten minste drie commissieleden bij het uitvoeren van de beoordelingsgerichte peer review.
 
-#### Artikel 13. Verlening, vaststelling en verantwoording
+##### Artikel 13. Verlening, vaststelling en verantwoording
 
 1. In afwijking van [artikel 9.1, vierde lid, van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=9.1), wordt de subsidie aan de penvoerderbinnen 13 weken na sluiting van de aanvraagperiode verleend. De Minister verstrekt een voorschot van 100%, dat in één keer wordt uitbetaald.
 
@@ -332,11 +358,11 @@ Voor subsidieverstrekking op grond van deze regeling is voor de periode van 1 ja
 
 5. De penvoerder toont op verzoek van de Minister aan dat de activiteiten waarvoor subsidie is verstrekt, zijn verricht en dat is voldaan aan de verplichtingen die aan de subsidie verbonden zijn.
 
-#### Artikel 14. Subsidieplafond kalenderjaren 2026–2029
+##### Artikel 14. Subsidieplafond kalenderjaren 2026–2029
 
 Voor subsidieverstrekking op grond van deze regeling is in 2026 voor de kalenderjaren 2026 tot en met 2029 een totaalbedrag van € 1.095.632.000,– beschikbaar.
 
-#### Artikel 15. Activiteiten onderwijsregio
+##### Artikel 15. Activiteiten onderwijsregio
 
 1. De minister kan voor de periode van 1 januari 2026 tot en met 31 december 2029 subsidie verstrekken aan een penvoerder als tegemoetkoming in de kosten voor de uitvoering van een activiteitenplan als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0049781&paragraaf=3&artikel=19&z=2025-06-13&g=2025-06-13), gericht op de samenwerking tussen schoolbesturen, lerarenopleidingen en de beroepsgroep in de onderwijsregio om te zorgen voor voldoende en goed opgeleid onderwijspersoneel en het leren omgaan met schaarste aan onderwijspersoneel.
 
@@ -344,7 +370,7 @@ Voor subsidieverstrekking op grond van deze regeling is in 2026 voor de kalender
 
 3. Het activiteitenplan heeft betrekking op activiteiten die gericht zijn op het werven, matchen, opleiden, begeleiden en professionaliseren van onderwijspersoneel in een onderwijsregio.
 
-#### Artikel 16. Subsidiebedrag onderwijsregio
+##### Artikel 16. Subsidiebedrag onderwijsregio
 
 1. Het door een penvoerder aan te vragen subsidiebedrag bestaat uit:
 
@@ -386,7 +412,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### § 3. Bepalingen voor subsidieaanvragen voor subsidieverstrekking voor kalenderjaren 2026 – 2029
 
-#### Artikel 17. Aanvraag subsidie onderwijsregio
+##### Artikel 17. Aanvraag subsidie onderwijsregio
 
 1. Een aanvraag wordt ingediend door een penvoerder van een onderwijsregio zoals genoemd in het overzicht in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049781&bijlage=3&z=2025-06-13&g=2025-06-13).
 
@@ -416,7 +442,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 6. De aanvraag wordt medeondertekend door alle bevoegde gezagsorganen die deelnemen aan de uitvoering van het activiteitenplan en betrokken zijn bij de aanvraag. Hiermee verklaren zij gezamenlijk het activiteitenplan uit te zullen voeren. Zij verklaren bovendien dat alle gegevens die noodzakelijk zijn voor de verantwoording door de penvoerder van de besteding van de subsidie op verzoek aan de penvoerder worden verstrekt.
 
-#### Artikel 18. Eisen aan de onderwijsregio
+##### Artikel 18. Eisen aan de onderwijsregio
 
 1. Een onderwijsregio is een regio zoals genoemd in het overzicht in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049781&bijlage=3&z=2025-06-13&g=2025-06-13).
 
@@ -424,7 +450,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 3. Indien sprake is van een wijziging van een onderwijsregio als bedoeld in het eerste lid, dan dient een onderwijsregio te voldoen aan de eisen, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0049781&paragraaf=2&artikel=7&z=2025-06-13&g=2025-06-13).
 
-#### Artikel 19. Activiteitenplan onderwijsregio
+##### Artikel 19. Activiteitenplan onderwijsregio
 
 1. Het activiteitenplan is een plan met een gedetailleerde uitwerking van de activiteiten, bedoeld in het tweede lid, voor het kalenderjaar 2026 en op hoofdlijnen voor de periode 1 januari 2027 tot en met 31 december 2029. Dit geschiedt met gebruikmaking van het format dat daartoe door DUS-I beschikbaar wordt gesteld.
 
@@ -448,7 +474,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 3. Het activiteitenplan van de onderwijsregio en de lijst met deelnemende partijen van een onderwijsregio worden door het Ministerie van Onderwijs, Cultuur en Wetenschap na verlening van de subsidie openbaar gemaakt met inachtneming van de voorschriften van de algemene verordening gegevensbescherming.
 
-#### Artikel 20. Samenwerkingsovereenkomst
+##### Artikel 20. Samenwerkingsovereenkomst
 
 1. De partijen in de onderwijsregio sluiten met het oog op hun samenwerking een samenwerkingsovereenkomst.
 
@@ -474,7 +500,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 4. Voor de samenwerkingsovereenkomst kan gebruik gemaakt worden van het format dat daartoe op de website van de DUS-I beschikbaar wordt gesteld.
 
-#### Artikel 21. Meerjarige ambitieafspraken
+##### Artikel 21. Meerjarige ambitieafspraken
 
 1. De onderwijsregio’s maken meerjarige kwantitatieve en kwalitatieve ambitieafspraken tot en met 2029. De ambitieafspraken zijn gericht op het realiseren van de maatschappelijke regionale opgave van de onderwijsregio en gaan in ieder geval in op:
 
@@ -490,7 +516,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 3. Voor het vastleggen van de meerjarige ambitieafspraken kan gebruik gemaakt worden van het format dat daartoe op de website van de DUS-I beschikbaar wordt gesteld.
 
-#### Artikel 22. Subsidieverplichtingen onderwijsregio
+##### Artikel 22. Subsidieverplichtingen onderwijsregio
 
 1. De activiteiten waarvoor subsidie wordt verstrekt, worden uitgevoerd in de periode van 1 januari 2026 tot en met 31 december 2029.
 
@@ -516,7 +542,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 10. De penvoerder is ervoor verantwoordelijk dat de deelnemende partijen aan de onderwijsregio op verzoek van de minister of de Realisatie-Eenheid actief meewerken aan kennisdelingsactiviteiten.
 
-#### Artikel 23. Penvoerder
+##### Artikel 23. Penvoerder
 
 1. Een bevoegd gezag dat deelneemt aan de onderwijsregio treedt namens de andere bevoegde gezagsorganen in de regio op als penvoerder.
 
@@ -532,7 +558,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 5. Een overeenkomst als bedoeld in het vierde lid wordt, alvorens die in werking treedt, ter goedkeuring voorgelegd aan de minister en bevat, voor zover sprake is van reeds betaalde voorschotten, een regeling over bijschrijving daarvan op het vroegst mogelijke moment op een bankrekening van de nieuwe penvoerder.
 
-#### Artikel 24. Verlening, vaststelling en verantwoording
+##### Artikel 24. Verlening, vaststelling en verantwoording
 
 1. In afwijking van [artikel 9.1, vierde lid, van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=9.1), wordt de subsidie aan de penvoerder binnen 13 weken na sluiting van de aanvraagperiode verleend. De minister verstrekt een voorschot van 100%, dat in vier termijnen wordt uitbetaald. De betaling van de eerste termijn zal plaatsvinden in februari 2026 en zal 25% betreffen van het subsidiebedrag. De betalingen van de overige termijnen zullen plaatsvinden in februari 2027, februari 2028 en februari 2029 als aan alle subsidieverplichtingen als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0049781&paragraaf=3&artikel=22&z=2025-06-13&g=2025-06-13) tot dan toe is voldaan.
 
@@ -552,17 +578,17 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### § 4. Slotbepalingen
 
-#### Artikel 25. Hardheidsclausule
+##### Artikel 25. Hardheidsclausule
 
 De Minister kan deze regeling in bijzondere gevallen buiten toepassing verklaren of daarvan afwijken, voor zover de toepassing, gelet op het belang dat deze regeling beoogt te beschermen, tot een onbillijkheid van overwegende aard zal leiden.
 
-#### Artikel 26. Inwerkingtreding en vervaldatum
+##### Artikel 26. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 1 januari 2028, met dien verstande dat de regeling van toepassing blijft ten aanzien van de subsidies die voor die datum op grond van de regeling zijn verstrekt.
 
-#### Artikel 27. Citeertitel
+##### Artikel 27. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling Landelijk dekkend netwerk onderwijsregio’s.
 

@@ -1,13 +1,38 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en Jamaica inzake technische samenwerking"
 identifier: "BWBV0001090"
-categorie: "Internationaal recht"
-publicatiedatum: 1994-01-01
-laatste_update: 1994-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001090"
+country: "nl"
+rank: "verdrag"
+publication_date: "1994-01-01"
+last_updated: "1994-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001090"
+soort: "verdrag"
+stam_id: "10002193663"
+version_id: "10002271882"
+internal_id: "C10006977781"
+label_id: "10002183914"
+dtd_version: "2.0"
+original_entry_into_force: "1994-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001090/1994-01-01/0"
+intitule_bron: "Trb.1993-122"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1993-06-29"
+intitule_published: "1993-09-21"
+intitule_in_force: "1994-02-11"
+intitule_status: "goed"
+original_publication: "Trb.1993-122"
+original_signed_date: "1993-06-29"
+original_published_date: "1993-09-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1993-122"
+entry_into_force_date: "1994-01-01"
+jci_1_3: "jci1.3:c:BWBV0001090&z=1994-01-01&g=1994-01-01"
+jci_1_0: "1.0:c:BWBV0001090&g=1994-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "1993-06-29"
+entry_into_force: "1994-01-01"
 ---
-
 # Overeenkomst tussen het Koninkrijk der Nederlanden en Jamaica inzake technische samenwerking
 
 The Government of the Kingdom of the Netherlands and the Government of Jamaica;
@@ -18,13 +43,13 @@ Desiring to promote technical cooperation, and to create for that purpose the ne
 
 Have agreed as follows:
 
-#### Article I
+##### Article I
 
 1. The aim of this Agreement shall be to promote technical cooperation and to create to that effect the legal and administrative framework for technical cooperation projects upon which the competent administrative authorities of the two Parties may decide for the purpose of implementing this Agreement.
 
 2. A decision to cooperate as referred to in paragraph 1 above, the contributions to a project and the manner in which that project is to be implemented shall in each case be laid down in an administrative arrangement to be established by the two competent administrative authorities.
 
-#### Article II
+##### Article II
 
 In connection with a project, the Government of Jamaica shall:
 
@@ -54,7 +79,7 @@ In connection with a project, the Government of Jamaica shall:
 
 - 2. The Government of Jamaica shall ensure that the Netherlands personnel as well as their families are accorded treatment of a manner no less favourable than that accorded to technical assistance personnel assigned to Jamaica by any other country or international organization.
 
-#### Article III
+##### Article III
 
 1. The Government of Jamaica shall indemnify and hold harmless the Netherlands Government and the Netherlands personnel against any extra-contractual civil liability arising from any act or omission on the part of one or more of the said individuals during the operations governed by or undertaken in virtue of this Agreement causing the death of or physical injury to a third party or damage to the property of a third party, in so far as such liability is not covered by insurance, and shall abstain from making any claim or instituting any action for extra-contractual civil liability unless such liabiliy derives from wilful misconduct or from gross negligence on the part of one or more of the said individuals.
 
@@ -62,33 +87,33 @@ In connection with a project, the Government of Jamaica shall:
 
 3. If the Government of Jamaica so requests, the Government of the Netherlands shall provide the competent authorities of Jamaica with the administrative or legal assistance needed for satisfactory solution of any problems that may arise in connection with the application of the paragraphs 1 and 2 of this Article.
 
-#### Article IV
+##### Article IV
 
 1. The Government of Jamaica, after consulting with the Netherlands Government, will have the right to request the recall of any Netherlands personnel whose work or conduct is unsatisfactory; the Netherlands Government, after similar consultations with the Jamaican Government, will have the right to recall any Netherlands personnel at any time; in case of recall, the Netherlands Government will make every effort to obtain an adequate replacement for the recalled Netherlands personnel if the Government of Jamaica so requests.
 
 2. All Netherlands personnel will carry out their assignment to be agreed upon by the respective competant authorities. As far as the daily operations of a project are concerned they will act in close consultation with the Jamaican authorities responsible for the execution of the project, and they shall respect the operational instructions given by those authorities. The Netherlands personnel shall respect the laws in force in Jamaica.
 
-#### Article V
+##### Article V
 
 1. The provisions in this Agreement concerning Netherlands personnel shall apply equally to persons employed by the Netherlands Government and to persons employed by business enterprises or other organizations with which the Netherlands Government has concluded an agreement for the execution of a project on which both competent authorities have decided to cooperate.
 
 2. The Netherlands personnel made available may perform operational or advisory duties.
 
-#### Article VI
+##### Article VI
 
 1. The provisions of Article II, III, IV, paragraph 1, of this Agreement are also applicable to the topping-up experts made available by the Netherlands. However, those experts would be required to pay local income tax on emoluments paid to them by the Government of Jamaica.
 
 2. The experts, mentioned under paragraph 1 of this Article, shall be under the exclusive direction of the relevant Jamaican authorities. The experts will have to comply with such orders and regulations as are in force in Jamaica at any given time, provided such orders and regulations do not conflict with any provision of this Agreement or any other arrangement between the two Contracting Parties applicable to the experts concerned.
 
-#### Article VII
+##### Article VII
 
 The Government of Jamaica shall exempt from all import and export duties and other official charges including VAT the equipment (including motor vehicles) and other supplies provided by the Netherlands Government in connection with a project.
 
-#### Article VIII
+##### Article VIII
 
 The provisions of this Agreement shall apply equally to the Netherlands personnel already working in the field of technical cooperation projects in Jamaica before the date on which this Agreement becomes effective.
 
-#### Article IX
+##### Article IX
 
 1. This Agreement will be applied provisionally from the date of its signature and shall enter into force on the date on which the two Governments have given each other written notification that the procedures constitutionally required in their respective countries have been complied with.
 
@@ -106,13 +131,13 @@ Geleid door de wens de technische samenwerking te bevorderen en hiertoe het nood
 
 Zijn het volgende overeengekomen:
 
-#### Artikel I
+##### Artikel I
 
 1. Het doel van deze Overeenkomst is de technische samenwerking te bevorderen en hiertoe het juridische en administratieve kader te scheppen voor projecten inzake technische samenwerking waartoe de bevoegde bestuurlijke autoriteiten van beide Partijen ter uitvoering van deze Overeenkomst besluiten.
 
 2. Een besluit tot samenwerking als bedoeld in het eerste lid hierboven, de bijdragen aan een project en de wijze waarop dat project wordt uitgevoerd, worden per geval vastgelegd in een administratief akkoord, te sluiten door de twee bevoegde bestuurlijke autoriteiten.
 
-#### Artikel II
+##### Artikel II
 
 In verband met een project verbindt de Regering van Jamaica zich ertoe:
 
@@ -142,7 +167,7 @@ In verband met een project verbindt de Regering van Jamaica zich ertoe:
 
 - 2. De Regering van Jamaica verzekert dat de Nederlandse personeelsleden en hun gezinnen op niet minder gunstige wijze worden behandeld dan personeel dat ten behoeve van technische bijstand naar Jamaica wordt uitgezonden door andere landen of internationale organisaties.
 
-#### Artikel III
+##### Artikel III
 
 1. De Regering van Jamaica stelt de Nederlandse Regering en het Nederlandse personeel schadeloos en vrijwaart ze ter zake van elke extra-contractuele wettelijke aansprakelijkheid die voortvloeit uit het verrichten of nalaten van enige handeling door een of meer van de bedoelde personen tijdens hun werkzaamheden uit hoofde van deze Overeenkomst die de dood van of letsel aan derden of schade aan het eigendom van derden veroorzaken, voorzover deze aansprakelijkheid niet door een verzekering is gedekt, en onthoudt zich van het instellen van vorderingen of het nemen van gerechtelijke stappen vanwege extra-contractuele wettelijke aansprakelijkheid, tenzij de wettelijke aansprakelijkheid het gevolg is van opzettelijk onjuist handelen of grove nalatigheid van een of meer van de bedoelde personen.
 
@@ -150,33 +175,33 @@ In verband met een project verbindt de Regering van Jamaica zich ertoe:
 
 3. Indien de Regering van Jamaica zulks verzoekt, verschaft de Regering van Nederland de bevoegde autoriteiten van Jamaica de administratieve of juridische bijstand die nodig is voor een bevredigende regeling van eventuele problemen die kunnen ontstaan in verband met de toepassing van het eerste en tweede lid van dit artikel.
 
-#### Artikel IV
+##### Artikel IV
 
 1. De Regering van Jamaica heeft het recht, na overleg met de Nederlandse Regering, te verzoeken om terugroeping van ieder lid van het Nederlandse personeel wiens werk of gedrag onbevredigend is. De Nederlandse Regering heeft het recht, na soortgelijk overleg met de Jamaicaanse Regering, te allen tijde leden van het Nederlandse personeel terug te roepen. In geval van terugroeping stelt de Nederlandse Regering alles in het werk om, indien de Regering van Jamaica zulks verzoekt, een geschikte vervanger te vinden voor het teruggeroepen personeelslid.
 
 2. Alle Nederlandse personeelsleden vervullen hun taken zoals wordt overeengekomen door de onderscheiden bevoegde autoriteiten. Wat de dagelijkse werkzaamheden met betrekking tot een project betreft, handelen zij in nauw overleg met de Jamaicaanse autoriteiten die verantwoordelijk zijn voor de uitvoering van het project, en nemen zij de door die autoriteiten gegeven werkinstructies in acht. Het Nederlandse personeel dient de in Jamaica geldende wetten te eerbiedigen.
 
-#### Artikel V
+##### Artikel V
 
 1. De bepalingen van deze Overeenkomst betreffende Nederlands personeel zijn gelijkelijk van toepassing op personen in dienst van de Nederlandse Regering en op personen in dienst van ondernemingen of andere organisaties waarmee de Nederlandse Regering een overeenkomst heeft gesloten voor de uitvoering van een project waaraan beide bevoegde autoriteiten hebben besloten mede te werken.
 
 2. Het beschikbaar gestelde Nederlandse personeel kan zowel uitvoerende als adviserende taken verrichten.
 
-#### Artikel VI
+##### Artikel VI
 
 1. De bepalingen van de artikelen II, III en IV, eerste lid, van deze Overeenkomst zijn eveneens van toepassing op de door Nederland beschikbaar gestelde suppletie-deskundigen. Deze deskundigen dienen echter wel lokale inkomstenbelasting te betalen over honoraria die aan hen worden betaald door de Regering van Jamaica.
 
 2. De in het eerste lid van dit artikel bedoelde deskundigen staan uitsluitend onder het gezag van de desbetreffende Jamaicaanse autoriteiten. De deskundigen dienen verordeningen en regelingen die in Jamaica op een bepaald tijdstip van kracht zijn, na te leven, mits die verordeningen en regelingen niet in strijd zijn met de bepalingen van deze Overeenkomst of die van eventuele andere regelingen tussen de twee Overeenkomstsluitende Partijen die van toepassing zijn op de betrokken deskundigen.
 
-#### Artikel VII
+##### Artikel VII
 
 De Regering van Jamaica stelt de uitrusting (met inbegrip van motorvoertuigen) en andere materialen die de Nederlandse Regering in verband met een project verschaft, vrij van alle in- en uitvoerrechten en andere officiële heffingen, met inbegrip van BTW.
 
-#### Artikel VIII
+##### Artikel VIII
 
 De bepalingen van deze Overeenkomst zijn eveneens van toepassing op Nederlands personeel dat reeds werkzaam is bij projecten of het gebied van technische samenwerking in Jamaica voor de datum waarop deze Overeenkomst van kracht wordt.
 
-#### Artikel IX
+##### Artikel IX
 
 1. Deze Overeenkomst wordt voorlopig toegepast vanaf de datum van ondertekening en treedt in werking op de datum waarop de beide Regeringen elkaar er schriftelijk van in kennis hebben gesteld dat aan de in hun onderscheiden landen daarvoor grondwettelijk vereiste procedures is voldaan.
 

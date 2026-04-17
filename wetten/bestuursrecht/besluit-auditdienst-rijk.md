@@ -1,13 +1,39 @@
 ---
-title: "Besluit Auditdienst Rijk"
+title: "Besluit van 19 juni 2018, nr. 2017001795, houdende regels over de Auditdienst Rijk (Besluit Auditdienst Rijk)"
 identifier: "BWBR0041159"
-categorie: "Bestuursrecht"
-publicatiedatum: 2018-07-18
-laatste_update: 2018-07-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041159"
+country: "nl"
+rank: "amvb"
+publication_date: "2018-07-18"
+last_updated: "2018-07-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041159"
+soort: "AMvB"
+stam_id: "14682563"
+version_id: "25145002"
+internal_id: "C35951751"
+label_id: "14635174"
+dtd_version: "2.0"
+original_entry_into_force: "2018-07-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041159/2018-07-18/0"
+intitule_bron: "Stb.2018-218"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-06-19"
+intitule_published: "2018-07-17"
+intitule_in_force: "2018-07-17"
+intitule_status: "goed"
+original_publication: "Stb.2018-218"
+original_signed_date: "2018-06-19"
+original_published_date: "2018-07-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2018-218"
+entry_into_force_date: "2018-07-18"
+jci_1_3: "jci1.3:c:BWBR0041159&z=2018-07-18&g=2018-07-18"
+jci_1_0: "1.0:c:BWBR0041159&g=2018-07-18"
+citeertitel_status: "officieel"
+short_title: "Besluit Auditdienst Rijk"
+signed_date: "2018-06-19"
+entry_into_force: "2018-07-18"
 ---
-
 # Besluit van 19 juni 2018, nr. 2017001795, houdende regels over de Auditdienst Rijk (Besluit Auditdienst Rijk)
 
 Op de voordracht van Onze Minister van Financiën van 13 oktober 2017, nr. 2017-0000195198;
@@ -22,13 +48,13 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1. Begrippen
+##### Artikel 1. Begrippen
 
 De begrippen van [artikel 1.1 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=1.1) zijn van overeenkomstige toepassing op dit besluit.
 
 #### § 2. Organisatie, taakuitvoering en kwaliteitsbeheersing
 
-#### Artikel 2. Organisatie, taakuitvoering en kwaliteitsbeheersing
+##### Artikel 2. Organisatie, taakuitvoering en kwaliteitsbeheersing
 
 1. Onze Minister van Financiën draagt er zorg voor dat de directie van de Auditdienst Rijk in meerderheid bestaat uit accountants als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
 
@@ -36,7 +62,7 @@ De begrippen van [artikel 1.1 van de Comptabiliteitswet 2016](https://wetten.ove
 
 #### § 3. Het onderzoek naar de verantwoording en het beheer van het Rijk
 
-#### Artikel 3. Taken met betrekking tot het onderzoek naar de verantwoording en het beheer van het Rijk
+##### Artikel 3. Taken met betrekking tot het onderzoek naar de verantwoording en het beheer van het Rijk
 
 1. Onze Minister van Financiën draagt aan de Auditdienst Rijk de taak op om jaarlijks onderzoek uit te voeren naar:
 
@@ -56,7 +82,7 @@ De begrippen van [artikel 1.1 van de Comptabiliteitswet 2016](https://wetten.ove
 
 5. Het onderzoek, bedoeld in de voorgaande leden, wordt uitgevoerd onder leiding van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
 
-#### Artikel 4. Reikwijdte taken met betrekking tot het onderzoek naar de verantwoording en het beheer van het Rijk
+##### Artikel 4. Reikwijdte taken met betrekking tot het onderzoek naar de verantwoording en het beheer van het Rijk
 
 1. Het onderzoek, bedoeld in [artikel 3, eerste lid, aanhef en onder a, en het derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041159&paragraaf=3&artikel=3&z=2018-07-18&g=2018-07-18), is erop gericht na te gaan of voldaan is aan de normen, bedoeld in de [artikelen 3.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=3.8), en [3.10 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=3.10).
 
@@ -66,7 +92,7 @@ De begrippen van [artikel 1.1 van de Comptabiliteitswet 2016](https://wetten.ove
 
 4. Het onderzoek, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041159&paragraaf=3&artikel=3&z=2018-07-18&g=2018-07-18), is erop gericht na te gaan of voldaan is aan de normen, bedoeld in de[Regeling Grote Projecten](https://wetten.overheid.nl/jci1.3:c:BWBR0021424).
 
-#### Artikel 5. Informatie en raadpleging bescheiden vanwege de taken met betrekking tot het onderzoek naar de verantwoording en het beheer van het Rijk
+##### Artikel 5. Informatie en raadpleging bescheiden vanwege de taken met betrekking tot het onderzoek naar de verantwoording en het beheer van het Rijk
 
 1. Onze Ministers en de colleges zijn gehouden aan de Auditdienst Rijk:
 
@@ -76,7 +102,7 @@ De begrippen van [artikel 1.1 van de Comptabiliteitswet 2016](https://wetten.ove
 
 2. Het eerste is van overeenkomstige toepassing indien een administratie of de daarmee samenhangende taken aan een derde worden uitbesteed.
 
-#### Artikel 6. Rapporten naar aanleiding van de taken met betrekking tot het onderzoek naar de verantwoording en het beheer van het Rijk
+##### Artikel 6. Rapporten naar aanleiding van de taken met betrekking tot het onderzoek naar de verantwoording en het beheer van het Rijk
 
 1. De uitkomsten van het onderzoek, bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041159&paragraaf=3&artikel=3&z=2018-07-18&g=2018-07-18), worden jaarlijks per jaarverslag vastgelegd in een rapport als bedoeld in [artikel 2.37, eerste lid, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=2.37).
 
@@ -100,7 +126,7 @@ De begrippen van [artikel 1.1 van de Comptabiliteitswet 2016](https://wetten.ove
 
 #### § 4. Overige taken en bevoegdheden
 
-#### Artikel 7. Overige taken
+##### Artikel 7. Overige taken
 
 1. Onze Ministers en de colleges kunnen aan de Auditdienst Rijk de opdracht geven onderzoek uit te voeren naar:
 
@@ -116,11 +142,11 @@ De begrippen van [artikel 1.1 van de Comptabiliteitswet 2016](https://wetten.ove
 
 3. Het onderzoek, bedoeld in het eerste lid, aanhef en onder b en d en het tweede lid, wordt uitgevoerd onder leiding van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
 
-#### Artikel 8. Informatie en raadpleging bescheiden vanwege overige taken
+##### Artikel 8. Informatie en raadpleging bescheiden vanwege overige taken
 
 De [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041159&paragraaf=3&artikel=5&z=2018-07-18&g=2018-07-18) en [6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041159&paragraaf=3&artikel=6&z=2018-07-18&g=2018-07-18), zijn van overeenkomstige toepassing op de taken, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041159&paragraaf=4&artikel=7&z=2018-07-18&g=2018-07-18).
 
-#### Artikel 9. Rapporten naar aanleiding van overige taken
+##### Artikel 9. Rapporten naar aanleiding van overige taken
 
 1. De uitkomsten van het onderzoek, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041159&paragraaf=4&artikel=7&z=2018-07-18&g=2018-07-18), worden in een rapport vastgelegd.
 
@@ -128,13 +154,13 @@ De [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041159&paragraaf=3&art
 
 #### § 5. Evaluatie- en overige bepalingen
 
-#### Artikel 10. Evaluatie taken en organisatie
+##### Artikel 10. Evaluatie taken en organisatie
 
 1. Onze Minister van Financiën draagt zorg dat de organisatie van de Auditdienst Rijk en de uitvoering van de taken, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041159&paragraaf=3&artikel=3&z=2018-07-18&g=2018-07-18) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0041159&paragraaf=4&artikel=7&z=2018-07-18&g=2018-07-18), elke vijf jaren worden geëvalueerd. De uitkomsten van de evaluatie worden in een rapport vastgelegd.
 
 2. In afwijking van het eerste lid, kan voor de termijn van vijf jaren, bedoeld in het eerste lid, op verzoek van de interdepartementale commissie Auditdienst Rijk, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0041159&paragraaf=5&artikel=11&z=2018-07-18&g=2018-07-18), een kortere termijn worden gehanteerd.
 
-#### Artikel 11. Interdepartementale commissie Auditdienst Rijk
+##### Artikel 11. Interdepartementale commissie Auditdienst Rijk
 
 1. Er is een interdepartementale commissie Auditdienst Rijk.
 
@@ -152,11 +178,11 @@ De [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041159&paragraaf=3&art
 
 #### § 6. Slotbepalingen
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2018.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit Auditdienst Rijk.
 

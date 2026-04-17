@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregel vergunning visserij met aangepaste aalvistuigen op andere soorten dan aal"
+title: "Beleidsregels van de Staatssecretaris van Economische Zaken van 28 juni 2014, nr. WJZ / 14104616, voor het verlenen van een ontheffing voor het gebruik van aalvistuigen voor de visserij op wolhandkrab en Noordzeekrab (Beleidsregels ontheffing wolhandkrab- en Noordzeekrabvisserij)"
 identifier: "BWBR0035289"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-08-26
-laatste_update: 2025-08-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035289"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2025-08-26"
+last_updated: "2025-08-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035289"
+soort: "beleidsregel"
+stam_id: "12717413"
+version_id: "21513622"
+internal_id: "C30885561"
+label_id: "12687314"
+dtd_version: "2.0"
+original_entry_into_force: "2014-07-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035289/2025-08-26/0"
+intitule_bron: "Stcrt.2014-18825"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-06-28"
+intitule_published: "2014-07-04"
+intitule_in_force: "2014-07-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-18825"
+original_signed_date: "2014-06-28"
+original_published_date: "2014-07-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-18825"
+entry_into_force_date: "2014-07-05"
+jci_1_3: "jci1.3:c:BWBR0035289&z=2025-08-26&g=2025-08-26"
+jci_1_0: "1.0:c:BWBR0035289&g=2025-08-26"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel vergunning visserij met aangepaste aalvistuigen op andere soorten dan aal"
+signed_date: "2014-06-28"
+entry_into_force: "2014-07-05"
 ---
-
 # Beleidsregels van de Staatssecretaris van Economische Zaken van 28 juni 2014, nr. WJZ / 14104616, voor het verlenen van een ontheffing voor het gebruik van aalvistuigen voor de visserij op wolhandkrab en Noordzeekrab (Beleidsregels ontheffing wolhandkrab- en Noordzeekrabvisserij)
 
 Gelet op de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=11) en [12 van het Reglement voor de binnenvisserij 1985](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=12) en [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Een vergunning als bedoeld in [artikel 36, eerste en derde lid, van de Uitvoeringsregeling visserij](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&artikel=36) voor het gebruik van vistuigen, genoemd in [artikel 32a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&artikel=32a), van die regeling, ten behoeve van de visserij op andere soorten dan aal, wordt op aanvraag verleend.
 
@@ -32,7 +58,7 @@ Besluit:
 
 - b. ambtenaren als bedoeld in [artikel 54a van de Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=54a) en opsporingsambtenaren toegang hebben tot het systeem, bedoeld in onderdeel a, subonderdeel 3°.
 
-#### Artikel 2
+##### Artikel 2
 
 Een aanvraag als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035289&artikel=1&z=2025-08-26&g=2025-08-26), gaat vergezeld van een projectplan waarin:
 
@@ -44,7 +70,7 @@ Een aanvraag als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/j
 
 - d. in voorkomend geval uiteen wordt gezet hoe wordt voldaan aan de overige eisen, bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035289&artikel=1&z=2025-08-26&g=2025-08-26).
 
-#### Artikel 3
+##### Artikel 3
 
 1. Aan een vergunning als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035289&artikel=1&z=2025-08-26&g=2025-08-26) zijn in ieder geval de volgende voorschriften verbonden:
 
@@ -64,11 +90,11 @@ Een aanvraag als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/j
 
 3. Indien niet aan de voorschriften wordt voldaan kan de vergunning worden ingetrokken.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze beleidsregel berust op [artikel 36, eerste lid, van de Uitvoeringsregeling visserij](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&artikel=36) en [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81).
 
-#### Artikel 5
+##### Artikel 5
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel vergunning visserij met aangepaste aalvistuigen op andere soorten dan aal.
 

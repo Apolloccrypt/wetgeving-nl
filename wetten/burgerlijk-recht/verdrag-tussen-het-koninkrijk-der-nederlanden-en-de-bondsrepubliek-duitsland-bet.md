@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland betreffende de wederzijdse erkenning en tenuitvoerlegging van rechterlijke beslissingen en andere executoriale titels in burgerlijke zaken"
 identifier: "BWBV0004221"
-categorie: "Burgerlijk recht"
-publicatiedatum: 1965-09-15
-laatste_update: 1965-09-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004221"
+country: "nl"
+rank: "verdrag"
+publication_date: "1965-09-15"
+last_updated: "1965-09-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004221"
+soort: "verdrag"
+stam_id: "10004008103"
+version_id: "10004169352"
+internal_id: "C10008336151"
+label_id: "10003992814"
+dtd_version: "2.0"
+original_entry_into_force: "1965-09-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004221/1965-09-15/0"
+intitule_bron: "Trb.1963-50"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1963-06-27"
+intitule_in_force: "1965-08-27"
+intitule_status: "goed"
+original_publication: "Trb.1963-50"
+original_published_date: "1963-06-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1963-50"
+entry_into_force_date: "1965-09-15"
+jci_1_3: "jci1.3:c:BWBV0004221&z=1965-09-15&g=1965-09-15"
+jci_1_0: "1.0:c:BWBV0004221&g=1965-09-15"
+citeertitel_status: "redactioneel"
+entry_into_force: "1965-09-15"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland betreffende de wederzijdse erkenning en tenuitvoerlegging van rechterlijke beslissingen en andere executoriale titels in burgerlijke zaken
 
 HARE MAJESTEIT DE KONINGIN DER NEDERLANDEN
@@ -38,7 +60,7 @@ Het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van 
 
 ## TITEL I. Erkenning van rechterlijke beslissingen
 
-#### Artikel 1
+##### Artikel 1
 
 (1). De in burgerlijke zaken door de gerechten van een der Staten gegeven beslissingen, waarbij in eigenlijke of oneigenlijke rechtspraak uitspraak is gedaan over rechten van partijen, worden in de andere Staat erkend, ook al zijn zij nog niet in kracht van gewijsde gegaan. Door de erkenning wordt aan de beslissingen het gezag toegekend, dat hun toekomt in de Staat waar zij zijn gegeven.
 
@@ -52,7 +74,7 @@ Het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van 
 
 - c). op beslissingen waarbij een failliet-verklaring is uitgesproken, een procedure omtrent een akkoord ter afwending van een faillissement (Vergleichsverfahren zur Abwendung des Konkurses) is geopend of surséance van betaling is verleend, noch op andere beslissingen in deze procedures, voor zover zij uitsluitend voor deze procedures betekenis hebben.
 
-#### Artikel 2
+##### Artikel 2
 
 De erkenning mag slechts worden geweigerd,
 
@@ -66,13 +88,13 @@ De erkenning mag slechts worden geweigerd,
 
 - 2. dat hij geen gelegenheid heeft gehad verweer te voeren, omdat de dagvaarding of de beschikking hem niet of niet tijdig genoeg heeft bereikt; dit geldt echter niet, wanneer de eiser aantoont dat de gedaagde tegen de beslissing geen rechtsmiddel heeft aangewend, hoewel hij van haar had kennis gekregen.
 
-#### Artikel 3
+##### Artikel 3
 
 (1). De erkenning mag niet worden geweigerd op de enkele grond dat het gerecht, dat de beslissing heeft gegeven, naar de regels van zijn internationaal privaatrecht andere wetten heeft toegepast dan die, welke naar het internationaal privaatrecht van de Staat, waar de beslissing wordt ingeroepen, hadden moeten zijn toegepast.
 
 (2). Niettemin mag de erkenning op de in het eerste lid genoemde grond worden geweigerd, indien de beslissing berust op een beoordeling van een familierechtelijke of erfrechtelijke rechtsbetrekking, van de rechtsbevoegdheid of handelingsbekwaamheid, de wettelijke vertegenwoordiging of de verklaring van vermoedelijk overlijden van een onderdaan van de Staat waar een beroep op de beslissing wordt gedaan, tenzij zij ook bij toepassing van het internationaal privaatrecht van deze Staat gerechtvaardigd zou zijn geweest.
 
-#### Artikel 4
+##### Artikel 4
 
 (1). De gerechten van de Staat waar de beslissing is gegeven, worden als bevoegd in de zin van dit Verdrag erkend,
 
@@ -98,7 +120,7 @@ De erkenning mag slechts worden geweigerd,
 
 (2). De bevoegdheid van de gerechten van de Staat waar de beslissing is gegeven, wordt echter in de gevallen van het eerste lid, onder **a-d, h** en **i** , niet erkend, wanneer tot kennisneming van de eis die tot de beslissing heeft geleid, de gerechten van de Staat waar de beslissing wordt ingeroepen, of de gerechten van een derde Staat uitsluitend bevoegd zijn; dit geldt met name voor eisen die een recht op een onroerend goed of een vordering uit een recht op zulk een goed tot onderwerp hebben.
 
-#### Artikel 5
+##### Artikel 5
 
 (1). De in een Staat gegeven beslissing, welke in de andere Staat wordt ingeroepen, mag slechts worden getoetst aan de in artikel 2 en artikel 3, lid 2, genoemde weigeringsgronden. Het gerecht van de Staat waar een beroep op de beslissing wordt gedaan, is bij zijn onderzoek of de voorwaarde van artikel 2, onder **b**, is vervuld, gebonden aan de feitelijke- en rechtsoverwegingen op grond waarvan het gerecht zijn bevoegdheid heeft vastgesteld.
 
@@ -106,25 +128,25 @@ De erkenning mag slechts worden geweigerd,
 
 ## TITEL II. Tenuitvoerlegging van rechterlijke beslissingen
 
-#### Artikel 6
+##### Artikel 6
 
 (1). Rechterlijke beslissingen, die in een van beide Staten uitvoerbaar zijn en in de andere Staat ingevolge dit Verdrag moeten worden erkend, worden in deze Staat ten uitvoer gelegd, indien dit daar krachtens een verlof tot tenuitvoerlegging is toegelaten.
 
 (2). Dit geldt ook voor beslissingen, die nog niet in kracht van gewijsde zijn gegaan.
 
-#### Artikel 7
+##### Artikel 7
 
 Behelst de beslissing van een Nederlands gerecht een veroordeling van de schuldenaar tot betaling van een dwangsom aan de schuldeiser voor het geval gene handelt in strijd met zijn verplichting tot het doen of nalaten van een handeling, zo wordt in de Bondsrepubliek Duitsland eerst dan verlof tot tenuitvoerlegging gegeven, indien het beloop van de verbeurde dwangsom door een nadere beslissing van het Nederlandse gerecht is vastgesteld.
 
-#### Artikel 8
+##### Artikel 8
 
 De procedure ter verkrijging van een verlof tot tenuitvoerlegging wordt, onverminderd de bepalingen van dit Verdrag, geregeld door het recht van de Staat waar de tenuitvoerlegging moet plaats vinden.
 
-#### Artikel 9
+##### Artikel 9
 
 Het verzoek tot afgifte van een verlof tot tenuitvoerlegging kan worden gedaan door ieder die in de Staat waar de beslissing is gegeven, daaraan rechten kan ontlenen.
 
-#### Artikel 10
+##### Artikel 10
 
 De partij die verlening van een verlof tot tenuitvoerlegging verzoekt, moet overleggen:
 
@@ -136,7 +158,7 @@ De partij die verlening van een verlof tot tenuitvoerlegging verzoekt, moet over
 
 - d). een vertaling van de voormelde stukken in de taal van het aangezochte gerecht, welke vertaling door een diplomatieke of consulaire vertegenwoordiger of door een ambtelijk benoemde of beëdigde vertaler van een van beide Staten voor eensluidend is verklaard.
 
-#### Artikel 11
+##### Artikel 11
 
 (1). Bij zijn beslissing op het verzoek tot afgifte van een verlof tot tenuitvoerlegging bepaalt het aangezochte gerecht zich ertoe te onderzoeken
 
@@ -146,7 +168,7 @@ De partij die verlening van een verlof tot tenuitvoerlegging verzoekt, moet over
 
 (2). De beslissing waarop het verlof tot tenuitvoerlegging moet worden gegeven, mag in geen geval getoetst worden op haar juistheid.
 
-#### Artikel 12
+##### Artikel 12
 
 Het verlof tot tenuitvoerlegging kan ook slechts voor een deel van de beslissing worden gegeven,
 
@@ -154,11 +176,11 @@ Het verlof tot tenuitvoerlegging kan ook slechts voor een deel van de beslissing
 
 - b). indien de beslissing verscheidene vorderingen betreft en het verzoek van de partij die de tenuitvoerlegging verlangt, slechts ten aanzien van een of enige vorderingen gegrond is.
 
-#### Artikel 13
+##### Artikel 13
 
 De tenuitvoerlegging mag pas een aanvang nemen, nadat de van het verlof tot tenuitvoerlegging voorziene beslissing aan de schuldenaar volgens het recht van de Staat waar de tenuitvoerlegging moet plaats vinden, is betekend.
 
-#### Artikel 14
+##### Artikel 14
 
 (1). Tegen een beslissing waarbij een verlof tot tenuitvoerlegging is verleend, kan de schuldenaar aanvoeren:
 
@@ -170,13 +192,13 @@ De tenuitvoerlegging mag pas een aanvang nemen, nadat de van het verlof tot tenu
 
 (2). Het geding waarin deze verweren kunnen worden aangevoerd, wordt geregeld door het recht van de Staat waar de tenuitvoerlegging moet plaatsvinden.
 
-#### Artikel 15
+##### Artikel 15
 
 Is de partij die de tenuitvoerlegging verlangt, in de Staat waar de gerechtelijke beslissing is gegeven, toegelaten om kosteloos te procederen, dan geniet zij datzelfde recht zonder meer ook in de andere Staat, zowel in de procedure tot verlening van het verlof tot tenuitvoerlegging, als bij de tenuitvoerlegging zelf.
 
 ## TITEL III. Erkenning en tenuitvoerlegging van andere executoriale titels
 
-#### Artikel 16
+##### Artikel 16
 
 (1). In de andere Staat worden behalve rechterlijke beslissingen ook de volgende executoriale titels erkend en als in kracht van gewijsde gegane rechterlijke beslissingen ten uitvoer gelegd, voor zover zij in de Staat waar zij tot stand gekomen zijn, voor tenuitvoerlegging vatbaar zijn:
 
@@ -190,39 +212,39 @@ Is de partij die de tenuitvoerlegging verlangt, in de Staat waar de gerechtelijk
 
 (2). Op het verzoek tot verlening van het verlof tot tenuitvoerlegging en voor de verdere procedure zijn de artikelen 9, 10, onder **a, c** en **d,** 12, 13, 14, eerste lid, onder **a** en **c** , en tweede lid, alsmede artikel 15 van overeenkomstige toepassing. Bij de beslissing op het verzoek tot verlening van het verlof tot tenuitvoerlegging moet het aangezochte gerecht zich bepalen tot het onderzoek of de vereiste stukken zijn overgelegd en of de in artikel 2, onder **a,** genoemde weigeringsgrond aanwezig is.
 
-#### Artikel 17
+##### Artikel 17
 
 De erkenning en tenuitvoerlegging van scheidsrechterlijke uitspraken blijven geregeld door de Verdragen die daaromtrent tussen de beide Staten van kracht zijn of zullen worden.
 
 ## TITEL IV. Bijzondere bepalingen
 
-#### Artikel 18
+##### Artikel 18
 
 (1). Indien een zaak voor het gerecht van een der beide Staten aanhangig is en de beslissing in die zaak in de andere Staat zal moeten worden erkend, dan moet een gerecht van deze Staat in een geding dat bij dit gerecht over hetzelfde onderwerp en tussen dezelfde partijen naderhand aanhangig wordt, de niet-ontvankelijkheid uitspreken.
 
 (2). Evenwel kunnen de bevoegde autoriteiten van elk der beide Staten in spoedeisende gevallen verlof geven tot het treffen van de in hun interne recht voorziene voorlopige maatregelen, daaronder begrepen maatregelen tot bewaring van recht, en wel ongeacht bij welk gerecht de hoofdzaak aanhangig is.
 
-#### Artikel 19
+##### Artikel 19
 
 Dit Verdrag doet geen afbreuk aan de bepalingen van andere Overeenkomsten, die tussen de beide Staten van kracht zijn of zullen worden en die voor bijzondere rechtsgebieden de erkenning en de tenuitvoerlegging van rechterlijke beslissingen of andere executoriale titels regelen.
 
-#### Artikel 20
+##### Artikel 20
 
 Dit Verdrag is slechts van toepassing op die rechterlijke beslissingen en andere executoriale titels, die na zijn inwerkingtreding zijn tot stand gekomen of verleden.
 
 ## TITEL V. Slotbepalingen
 
-#### Artikel 21
+##### Artikel 21
 
 (1). Dit Verdrag geldt, wat het Koninkrijk der Nederlanden betreft, alleen voor het in Europa gelegen deel van het Koninkrijk.
 
 (2). Dit Verdrag kan door wisseling van nota's tussen de Regeringen van de beide Staten toepasselijk worden verklaard op elk der buiten Europa gelegen delen van het Koninkrijk der Nederlanden. In de notawisseling wordt het tijdstip van inwerkingtreding vastgesteld.
 
-#### Artikel 22
+##### Artikel 22
 
 Dit Verdrag geldt ook voor het „Land” Berlijn, tenzij de Regering van de Bondsrepubliek Duitsland tegenover de Regering van het Koninkrijk der Nederlanden binnen drie maanden na de inwerkingtreding van het Verdrag het tegendeel verklaart.
 
-#### Artikel 23
+##### Artikel 23
 
 (1). Dit Verdrag zal worden bekrachtigd. De akten van bekrachtiging zullen zo spoedig mogelijk in Bonn worden uitgewisseld.
 

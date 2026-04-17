@@ -1,13 +1,34 @@
 ---
 title: "Ziektekostentegemoetkoming per 1 januari 2004"
 identifier: "BWBR0016257"
-categorie: "Bestuursrecht"
-publicatiedatum: 2004-01-01
-laatste_update: 2004-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0016257"
+country: "nl"
+rank: "circulaire"
+publication_date: "2004-01-01"
+last_updated: "2004-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0016257"
+soort: "circulaire"
+stam_id: "6420053"
+version_id: "11087462"
+internal_id: "C15000981"
+label_id: "6408774"
+original_entry_into_force: "2004-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0016257/2004-01-01/0"
+intitule_bron: "Stcrt.2004-66"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2004-04-05"
+intitule_in_force: "2004-04-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2004-66"
+original_published_date: "2004-04-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2004-66-p10-SC64537"
+entry_into_force_date: "2004-01-01"
+jci_1_3: "jci1.3:c:BWBR0016257&z=2004-01-01&g=2004-01-01"
+jci_1_0: "1.0:c:BWBR0016257&g=2004-01-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2004-01-01"
 ---
-
 # Ziektekostentegemoetkoming per 1 januari 2004
 
 ### I. Samenvatting

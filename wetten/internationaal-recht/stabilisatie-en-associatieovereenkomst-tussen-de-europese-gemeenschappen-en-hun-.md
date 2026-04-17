@@ -1,13 +1,35 @@
 ---
 title: "Stabilisatie- en associatieovereenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Republiek Montenegro, anderzijds"
 identifier: "BWBV0004153"
-categorie: "Internationaal recht"
-publicatiedatum: 2014-12-12
-laatste_update: 2014-12-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004153"
+country: "nl"
+rank: "verdrag"
+publication_date: "2014-12-12"
+last_updated: "2014-12-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004153"
+soort: "verdrag"
+stam_id: "10003974003"
+version_id: "10004121072"
+internal_id: "C10008461381"
+label_id: "10003961494"
+dtd_version: "2.0"
+original_entry_into_force: "2010-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004153/2014-12-12/0"
+intitule_bron: "Trb.2007-224"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2007-12-06"
+intitule_in_force: "2010-05-25"
+intitule_status: "goed"
+original_publication: "Trb.2007-224"
+original_published_date: "2007-12-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2007-224"
+entry_into_force_date: "2010-05-01"
+jci_1_3: "jci1.3:c:BWBV0004153&z=2014-12-12&g=2014-12-12"
+jci_1_0: "1.0:c:BWBV0004153&g=2014-12-12"
+citeertitel_status: "redactioneel"
+entry_into_force: "2010-05-01"
 ---
-
 # Stabilisatie- en associatieovereenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Republiek Montenegro, anderzijds
 
 Het Koninkrijk België,
@@ -120,7 +142,7 @@ Gezien de wens om de culturele samenwerking te intensiveren en de uitwisseling v
 
 Zijn het volgende overeengekomen:1)[Red: De Bijlagen bij de Overeenkomst en bij de Protocollen liggen ter inzage bij de Afdeling Verdragen van het Ministerie van Buitenlandse Zaken en zijn te vinden op http://eur-lex/europa.eu/nl/index.htm.]
 
-#### Artikel 1
+##### Artikel 1
 
 1. Er wordt een associatie tot stand gebracht tussen de Gemeenschappen en hun lidstaten, enerzijds, en de Republiek Montenegro, anderzijds.
 
@@ -142,31 +164,31 @@ Zijn het volgende overeengekomen:1)[Red: De Bijlagen bij de Overeenkomst en bij 
 
 ## TITEL I. ALGEMENE BEGINSELEN
 
-#### Artikel 2
+##### Artikel 2
 
 Eerbiediging van de democratische beginselen en de mensenrechten, zoals deze zijn vastgesteld in de [Universele Verklaring van de rechten van de mens](https://wetten.overheid.nl/jci1.3:c:BWBV0001008) en gedefinieerd in het [Europees Verdrag betreffende de bescherming van de rechten van de mens en de fundamentele vrijheden](https://wetten.overheid.nl/jci1.3:c:BWBV0001000), de slotakte van Helsinki en het Handvest van Parijs voor een Nieuw Europa, eerbiediging van de beginselen van het internationale recht (waaronder volledige medewerking aan het Internationaal Strafhof voor het voormalige Joegoslavië) en de rechtsstaat en de beginselen van de markteconomie zoals deze zijn neergelegd in het document van de CVSE-conferentie van Bonn over economische samenwerking, vormt de grondslag van het binnen- en buitenlandse beleid van de partijen en is een essentieel element van deze overeenkomst.
 
-#### Artikel 3
+##### Artikel 3
 
 De bestrijding van de verspreiding van massavernietigingswapens en de overbrengingsmiddelen daarvoor is een essentieel element van deze overeenkomst.
 
-#### Artikel 4
+##### Artikel 4
 
 De partijen bevestigen nogmaals het belang dat zij hechten aan het nakomen van internationale verplichtingen, met name volledige samenwerking met het Internationale Strafhof voor Voormalig Joegoslavië.
 
-#### Artikel 5
+##### Artikel 5
 
 Internationale en regionale vrede en stabiliteit, de ontwikkeling van betrekkingen van goed nabuurschap, mensenrechten en de bescherming van minderheden staan centraal in het stabilisatie- en associatieproces, als bedoeld in de conclusies van de Raad van de Europese Unie van 21 juni 1999. De sluiting en de tenuitvoerlegging van deze overeenkomst geschieden in het kader van de conclusies van de Raad van de Europese Unie van 29 april 1997, en zijn gebaseerd op de afzonderlijke verdiensten van Montenegro.
 
-#### Artikel 6
+##### Artikel 6
 
 Montenegro verbindt zich ertoe de samenwerking en de betrekkingen van goed nabuurschap met de overige landen van de regio te blijven bevorderen, wat mede inhoudt dat een passend niveau van wederzijdse concessies op het gebied van het verkeer van personen, goederen, kapitaal en diensten wordt ingesteld en dat projecten van wederzijds belang worden ontwikkeld, met name inzake grensbeheer, de bestrijding van georganiseerde misdaad, corruptie, witwassen van geld, illegale migratie en smokkel, met name van mensen, lichte wapens en drugs. Deze verbintenis is van fundamenteel belang voor de ontwikkeling van de betrekkingen en de samenwerking tussen de partijen en draagt bij tot de regionale stabiliteit.
 
-#### Artikel 7
+##### Artikel 7
 
 De partijen bevestigen nogmaals het belang dat zij hechten aan de bestrijding van terrorisme en de nakoming van internationale verplichtingen op dit gebied.
 
-#### Artikel 8
+##### Artikel 8
 
 De associatie wordt geleidelijk volledig verwezenlijkt gedurende een overgangsperiode van maximaal vijf jaar.
 
@@ -178,13 +200,13 @@ De volledige associatie zal geleidelijk tot stand worden gebracht. Uiterlijk in 
 
 Deze toetsing geldt niet voor het vrije verkeer van goederen, waarvoor in [Titel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IV&z=2014-12-12&g=2014-12-12) een aparte regeling wordt vastgesteld.
 
-#### Artikel 9
+##### Artikel 9
 
 De overeenkomst moet volledig verenigbaar zijn met de relevante WTO-bepalingen, met name artikel XXIV van de Algemene Overeenkomst betreffende tarieven en handel van 1994 (GATT 1994) en [artikel V van de Algemene Overeenkomst betreffende de handel in diensten (GATS)](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=V), en moet dienovereenkomstig worden uitgevoerd.
 
 ## TITEL II. POLITIEKE DIALOOG
 
-#### Artikel 10
+##### Artikel 10
 
 1. In het kader van deze overeenkomst wordt de politieke dialoog tussen de partijen verder ontwikkeld. Deze dialoog begeleidt en consolideert de toenadering tussen de Europese Unie en Montenegro en draagt bij tot nauwe solidariteitsbanden en nieuwe vormen van samenwerking tussen de partijen.
 
@@ -208,7 +230,7 @@ De partijen komen bovendien overeen samen te werken en bij te dragen aan de stri
 
 De politieke dialoog hierover kan op regionale basis plaatsvinden.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De politieke dialoog vindt plaats binnen de Stabilisatie- en associatieraad, die de algemene verantwoordelijkheid draagt voor alle aangelegenheden die de partijen hem voorleggen.
 
@@ -220,17 +242,17 @@ De politieke dialoog hierover kan op regionale basis plaatsvinden.
 
 - –. alle andere middelen die een zinvolle bijdrage kunnen leveren aan de consolidatie, ontwikkeling en intensivering van de dialoog, zoals onder meer vastgesteld in de agenda van Thessaloniki.
 
-#### Artikel 12
+##### Artikel 12
 
 Op parlementair niveau vindt de politieke dialoog plaats in het kader van het bij [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=X&artikel=125&z=2014-12-12&g=2014-12-12) ingestelde Parlementair Stabilisatie- en associatiecomité.
 
-#### Artikel 13
+##### Artikel 13
 
 De politieke dialoog kan plaatsvinden in multilateraal verband en als regionale dialoog waarbij andere landen in de regio worden betrokken, onder meer in het kader van het forum tussen de EU en de Westelijke Balkan.
 
 ## TITEL III. REGIONALE SAMENWERKING
 
-#### Artikel 14
+##### Artikel 14
 
 In overeenstemming met zijn verbintenis op het gebied van internationale en regionale vrede en stabiliteit en de ontwikkeling van betrekkingen van goed nabuurschap, bevordert Montenegro actief de regionale samenwerking. Ook kan de Gemeenschap via haar programma’s voor technische bijstand projecten steunen met een regionale of grensoverschrijdende dimensie.
 
@@ -238,7 +260,7 @@ Telkens wanneer Montenegro voornemens is de samenwerking met een van de in de [a
 
 Montenegro zorgt voor de volledige tenuitvoerlegging van de bestaande bilaterale overeenkomsten die tot stand zijn gekomen op grond van het memorandum van overeenstemming met Servië en Montenegro inzake handelsbevordering en liberalisering, dat op 27 juni 2001 in Brussel werd ondertekend en van de Midden-Europese Vrijhandelsovereenkomst, die op 19 december 2006 in Boekarest werd ondertekend.
 
-#### Artikel 15. Samenwerking met andere landen die een stabilisatie- en associatieovereenkomst hebben gesloten
+##### Artikel 15. Samenwerking met andere landen die een stabilisatie- en associatieovereenkomst hebben gesloten
 
 Na de ondertekening van deze overeenkomst opent Montenegro met de landen die reeds een stabilisatie- en associatieovereenkomst hebben ondertekend, onderhandelingen over de sluiting van bilaterale overeenkomsten inzake regionale samenwerking, waarvan het doel is de samenwerking tussen de betrokken landen uit te breiden.
 
@@ -258,11 +280,11 @@ Deze overeenkomsten worden gesloten binnen twee jaar na de inwerkingtreding van 
 
 Montenegro opent vergelijkbare onderhandelingen met de resterende landen van de regio, zodra deze landen een stabilisatie- en associatieovereenkomst hebben ondertekend.
 
-#### Artikel 16. Samenwerking met andere bij het stabilisatie- en associatieproces betrokken landen
+##### Artikel 16. Samenwerking met andere bij het stabilisatie- en associatieproces betrokken landen
 
 Montenegro streeft naar regionale samenwerking met de andere bij het stabilisatie- en associatieproces betrokken staten op sommige of alle onder deze overeenkomst vallende samenwerkingsgebieden, met name die van wederzijds belang. Deze samenwerking moet te allen tijde verenigbaar zijn met de beginselen en doelstellingen van deze overeenkomst.
 
-#### Artikel 17. Samenwerking met kandidaat-lidstaten van de EU die niet bij het stabilisatie- en associatieproces betrokken zijn
+##### Artikel 17. Samenwerking met kandidaat-lidstaten van de EU die niet bij het stabilisatie- en associatieproces betrokken zijn
 
 1. Montenegro zou met elke kandidaat-lidstaat van de Europese Unie de samenwerking moeten versterken en een overeenkomst sluiten voor regionale samenwerking op elk van de onder deze overeenkomst vallende samenwerkingsterreinen. Een dergelijke overeenkomst moet de bilaterale betrekkingen tussen Montenegro en dat land geleidelijk afstemmen op het relevante onderdeel van de betrekkingen tussen de Europese Gemeenschap en haar lidstaten en dat land.
 
@@ -272,7 +294,7 @@ Deze onderhandelingen moeten zo snel mogelijk worden geopend om de bovengenoemde
 
 ## TITEL IV. VRIJ VERKEER VAN GOEDEREN
 
-#### Artikel 18
+##### Artikel 18
 
 1. De Gemeenschap en Montenegro brengen in de loop van een overgangsperiode van ten hoogste vijf jaar na de inwerkingtreding van de overeenkomst geleidelijk een bilaterale vrijhandelszone tot stand overeenkomstig de bepalingen van deze overeenkomst, de [GATT 1994](onbekend) en de [WTO](https://wetten.overheid.nl/jci1.3:c:BWBV0001160). Daarbij houden zij rekening met de hierna vermelde specifieke eisen.
 
@@ -306,19 +328,19 @@ komen deze verlaagde rechten vanaf de datum waarop de verlagingen worden toegepa
 
 ### HOOFDSTUK I. INDUSTRIEPRODUCTEN
 
-#### Artikel 19. Definities
+##### Artikel 19. Definities
 
 1. Dit hoofdstuk is van toepassing op producten van oorsprong uit de Gemeenschap of uit Montenegro, vermeld in de hoofdstukken 25 tot en met 97 van de gecombineerde nomenclatuur, met uitzondering van de producten genoemd in [bijlage 1, punt I, onder ii), van de WTO Overeenkomst inzake de landbouw](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=1).
 
 2. De handel tussen de partijen in producten die onder het [Euratom- Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004033) vallen, geschiedt in overeenstemming met de bepalingen van dat Verdrag.
 
-#### Artikel 20. Concessies van de Gemeenschap voor industrieproducten
+##### Artikel 20. Concessies van de Gemeenschap voor industrieproducten
 
 1. De douanerechten en heffingen van gelijke werking die van toepassing zijn bij invoer in de Gemeenschap van industrieproducten van oorsprong uit Montenegro, worden bij de inwerkingtreding van de overeenkomst afgeschaft.
 
 2. Kwantitatieve beperkingen bij invoer in de Gemeenschap van industrieproducten van oorsprong uit Montenegro en maatregelen van gelijke werking worden bij de inwerkingtreding van de overeenkomst afgeschaft.
 
-#### Artikel 21. Concessies van Montenegro voor industrieproducten
+##### Artikel 21. Concessies van Montenegro voor industrieproducten
 
 1. De douanerechten die van toepassing zijn bij invoer in Montenegro van niet in bijlage I vermelde industrieproducten van oorsprong uit de Gemeenschap worden bij de inwerkingtreding van de overeenkomst afgeschaft.
 
@@ -328,13 +350,13 @@ komen deze verlaagde rechten vanaf de datum waarop de verlagingen worden toegepa
 
 4. Kwantitatieve beperkingen bij invoer in Montenegro van producten van oorsprong uit de Gemeenschap en maatregelen van gelijke werking worden bij de inwerkingtreding van de overeenkomst afgeschaft.
 
-#### Artikel 22. Rechten en beperkingen op uitvoer
+##### Artikel 22. Rechten en beperkingen op uitvoer
 
 1. Bij de inwerkingtreding van deze overeenkomst schaffen de Gemeenschap en Montenegro alle douanerechten bij uitvoer en heffingen die eenzelfde effect op hun onderlinge handel hebben af.
 
 2. De Gemeenschap en Montenegro schaffen bij de inwerkingtreding van deze overeenkomst wederzijds alle kwantitatieve beperkingen bij de uitvoer en alle maatregelen van gelijke werking af.
 
-#### Artikel 23. Versnelde verlaging van het douanerecht
+##### Artikel 23. Versnelde verlaging van het douanerecht
 
 Montenegro verklaart zich bereid zijn douanerechten in het handelsverkeer met de Gemeenschap sneller te verlagen dan in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IV&hoofdstuk=I&artikel=21&z=2014-12-12&g=2014-12-12) bepaald, als de algemene economische situatie in Montenegro en de situatie in de betrokken sector van de economie dat toelaten.
 
@@ -342,7 +364,7 @@ De Stabilisatie- en associatieraad analyseert de situatie dienaangaande en doet 
 
 ### HOOFDSTUK II. LANDBOUW EN VISSERIJ
 
-#### Artikel 24. Definities
+##### Artikel 24. Definities
 
 1. Dit hoofdstuk is van toepassing op de handel in landbouw- en visserijproducten van oorsprong uit de Gemeenschap of uit Montenegro.
 
@@ -350,11 +372,11 @@ De Stabilisatie- en associatieraad analyseert de situatie dienaangaande en doet 
 
 3. Deze definitie omvat vis en visserijproducten die vallen onder hoofdstuk 3, de posten 1604 en 1605, en de posten 0511 91, 2301 20 en ex 1902 20 („gevulde deegwaren, bevattende meer dan 20 gewichtspercenten vis, schaal- of weekdieren of andere ongewervelde waterdieren”).
 
-#### Artikel 25. Bewerkte landbouwproducten
+##### Artikel 25. Bewerkte landbouwproducten
 
 Protocol 1 bevat de handelsregeling voor de daarin genoemde bewerkte landbouwproducten.
 
-#### Artikel 26. Concessies van de Gemeenschap voor de invoer van landbouwproducten van oorsprong uit Montenegro
+##### Artikel 26. Concessies van de Gemeenschap voor de invoer van landbouwproducten van oorsprong uit Montenegro
 
 1. Met ingang van de inwerkingtreding van deze overeenkomst schaft de Gemeenschap alle kwantitatieve beperkingen en maatregelen van gelijke werking af die van toepassing zijn op de invoer van landbouwproducten van oorsprong uit Montenegro.
 
@@ -364,7 +386,7 @@ Voor de producten die vallen onder hoofdstukken 7 en 8 van de gecombineerde nome
 
 3. Bij de inwerkingtreding van deze overeenkomst stelt de Gemeenschap de douanerechten die van toepassing zijn bij invoer in de Gemeenschap van de in bijlage II gedefinieerde producten van de categorie „baby beef” van oorsprong uit Montenegro vast op 20% van het recht ad valorem en 20% van het specifieke recht als vastgesteld in het gemeenschappelijk douanetarief van de Europese Gemeenschappen, binnen een jaarlijks tariefcontingent van 800 ton geslacht gewicht.
 
-#### Artikel 27. Concessies van Montenegro voor landbouwproducten
+##### Artikel 27. Concessies van Montenegro voor landbouwproducten
 
 1. Met ingang van de inwerkingtreding van deze overeenkomst schaft Montenegro alle kwantitatieve beperkingen en maatregelen van gelijke werking af die van toepassing zijn op de invoer van landbouwproducten van oorsprong uit de Gemeenschap.
 
@@ -378,17 +400,17 @@ Voor de producten die vallen onder hoofdstukken 7 en 8 van de gecombineerde nome
 
 3. Met ingang van de inwerkingtreding van het protocol bij deze overeenkomst waarbij rekening wordt gehouden met de toetreding van de Republiek Kroatië tot de Europese Unie past Montenegro de douanerechten toe die van toepassing zijn op de invoer van bepaalde landbouwproducten van oorsprong uit de Europese Unie, binnen de aangegeven hoeveelheden, als vermeld in bijlage III d.
 
-#### Artikel 28. Het protocol inzake wijn en gedistilleerde dranken
+##### Artikel 28. Het protocol inzake wijn en gedistilleerde dranken
 
 In protocol 2 is de regeling neergelegd die van toepassing is op de daarin genoemde wijn en gedistilleerde dranken.
 
-#### Artikel 29. Concessies van de Gemeenschap voor vis en visserijproducten
+##### Artikel 29. Concessies van de Gemeenschap voor vis en visserijproducten
 
 1. Met ingang van de inwerkingtreding van deze overeenkomst schaft de Gemeenschap alle kwantitatieve beperkingen en maatregelen van gelijke werking af die van toepassing zijn op de invoer van vis en visserijproducten van oorsprong uit Montenegro.
 
 2. Met ingang van de inwerkingtreding van deze overeenkomst schaft de Gemeenschap alle douanerechten en maatregelen van gelijke werking op de niet in bijlage IV vermelde vis en visserijproducten van oorsprong uit Montenegro af. Op de in bijlage IV vermelde producten zijn de daarin opgenomen bepalingen van toepassing.
 
-#### Artikel 30. Concessies van Montenegro voor vis en visserijproducten
+##### Artikel 30. Concessies van Montenegro voor vis en visserijproducten
 
 1. Met ingang van de inwerkingtreding van deze overeenkomst schaft Montenegro alle kwantitatieve beperkingen en maatregelen van gelijke werking af die van toepassing zijn op de invoer van vis en visserijproducten van oorsprong uit de Gemeenschap.
 
@@ -396,15 +418,15 @@ In protocol 2 is de regeling neergelegd die van toepassing is op de daarin genoe
 
 3. Met ingang van de inwerkingtreding van het protocol bij deze overeenkomst waarbij rekening wordt gehouden met de toetreding van de Republiek Kroatië tot de Europese Unie schaft Montenegro alle douanerechten en maatregelen van gelijke werking af voor vis en visserijproducten van oorsprong uit de Gemeenschap, andere dan die vermeld in bijlage V a. Op de in bijlage V vermelde producten zijn de daarin opgenomen bepalingen van toepassing.
 
-#### Artikel 31. Herzieningsclausule
+##### Artikel 31. Herzieningsclausule
 
 Rekening houdend met de omvang van het handelsverkeer in landbouw- en visserijproducten tussen de partijen, de bijzondere gevoeligheden van die producten, de regels van het gemeenschappelijk landbouw- en visserijbeleid van de Gemeenschap en het landbouw- en visserijbeleid van Montenegro, de rol van landbouw en visserij in de Montenegrijnse economie en de gevolgen van de multilaterale handelsbesprekingen in het kader van de WTO, alsmede de eventuele toetreding van Montenegro tot de WTO, onderzoeken de Gemeenschap en Montenegro binnen drie jaar na de inwerkingtreding van deze overeenkomst in de Stabilisatie- en associatieraad per product, systematisch en op basis van passende wederkerigheid, de mogelijkheden om elkaar verdere concessies te verlenen teneinde de handel in landbouw- en visserijproducten verder te liberaliseren.
 
-#### Artikel 32. Vrijwaringsclausule betreffende landbouw en visserij
+##### Artikel 32. Vrijwaringsclausule betreffende landbouw en visserij
 
 Onverminderd de andere bepalingen van deze overeenkomst, met name [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IV&hoofdstuk=III&artikel=41&z=2014-12-12&g=2014-12-12), plegen beide partijen, indien, wegens de bijzondere gevoeligheid van de markten voor landbouw- en visserijproducten, de invoer van producten van oorsprong uit een partij waarvoor de concessies uit hoofde van de artikelen 25 tot en met 30 zijn verleend, ernstige problemen veroorzaakt op de markt of voor de binnenlandse regelingen van de andere partij, zo spoedig mogelijk overleg om een passende oplossing te vinden voor het probleem. In afwachting van deze oplossing kan de betrokken partij de passende maatregelen nemen die zij noodzakelijk acht.
 
-#### Artikel 33. Bescherming van geografische aanduidingen voor landbouw- en visserijproducten en voedingsmiddelen anders dan wijn en gedistilleerde dranken
+##### Artikel 33. Bescherming van geografische aanduidingen voor landbouw- en visserijproducten en voedingsmiddelen anders dan wijn en gedistilleerde dranken
 
 1. Montenegro beschermt de geografische aanduidingen van de Gemeenschap die in de Gemeenschap zijn geregistreerd uit hoofde van Verordening (EG) nr. 510/2006 van de Raad van 20 maart 2006 inzake de bescherming van geografische aanduidingen en oorsprongsbenamingen van landbouwproducten en levensmiddelen overeenkomstig dit artikel. Geografische aanduidingen van Montenegro kunnen in de Gemeenschap worden geregistreerd onder de voorwaarden zoals beschreven in genoemde verordening.
 
@@ -422,15 +444,15 @@ Onverminderd de andere bepalingen van deze overeenkomst, met name [artikel 41](h
 
 ### HOOFDSTUK III. GEMEENSCHAPPELIJKE BEPALINGEN
 
-#### Artikel 34. Toepassingsgebied
+##### Artikel 34. Toepassingsgebied
 
 Behoudens andersluidende bepalingen in dit hoofdstuk of in protocol 1 zijn de bepalingen van dit hoofdstuk van toepassing op de handel tussen de partijen in alle producten.
 
-#### Artikel 35. Gunstigere concessies
+##### Artikel 35. Gunstigere concessies
 
 De bepalingen van deze titel vormen in geen geval een belemmering voor de eenzijdige toepassing van gunstiger maatregelen door een partij.
 
-#### Artikel 36. Standstill
+##### Artikel 36. Standstill
 
 1. Zodra deze overeenkomst in werking treedt, mogen in het handelsverkeer tussen de Gemeenschap en Montenegro geen nieuwe douanerechten bij invoer of bij uitvoer of heffingen van gelijke werking worden ingesteld, noch mogen de rechten of heffingen die reeds van toepassing zijn, worden verhoogd.
 
@@ -438,17 +460,17 @@ De bepalingen van deze titel vormen in geen geval een belemmering voor de eenzij
 
 3. Onverminderd de overeenkomstig de artikelen 26 tot en met 30 verleende concessies vormen de leden 1 en 2 van dit artikel in geen enkel opzicht een beletsel voor de voortzetting van het landbouwbeleid van Montenegro en van de Gemeenschap, noch voor het nemen van enige maatregel in het kader van dit beleid, voor zover de invoerregeling in de bijlagen II tot en met V en protocol 1 daardoor niet wordt beïnvloed.
 
-#### Artikel 37. Verbod op fiscale discriminatie
+##### Artikel 37. Verbod op fiscale discriminatie
 
 1. De Gemeenschap en Montenegro onthouden zich van alle binnenlandse maatregelen of praktijken van fiscale aard die, direct of indirect, discrimineren tussen de producten van de ene partij en soortgelijke producten van oorsprong uit het grondgebied van de andere partij, en schaffen dergelijke bestaande maatregelen of praktijken af.
 
 2. De teruggave van binnenlandse indirecte belastingen voor producten die naar het grondgebied van een van de partijen worden uitgevoerd, mag niet hoger zijn dan de daarop geheven indirecte belastingen.
 
-#### Artikel 38. Rechten van fiscale aard
+##### Artikel 38. Rechten van fiscale aard
 
 De bepalingen betreffende de afschaffing van de douanerechten bij invoer zijn eveneens van toepassing op douanerechten van fiscale aard.
 
-#### Artikel 39. Douane-unies, vrijhandelszones, regelingen voor grensverkeer
+##### Artikel 39. Douane-unies, vrijhandelszones, regelingen voor grensverkeer
 
 1. De overeenkomst vormt geen beletsel voor de handhaving of de oprichting van douane-unies, vrijhandelszones of regelingen voor grensverkeer, mits de in deze overeenkomst neergelegde handelsregelingen daardoor niet worden gewijzigd.
 
@@ -456,13 +478,13 @@ De bepalingen betreffende de afschaffing van de douanerechten bij invoer zijn ev
 
 3. De partijen plegen in de Stabilisatie- en associatieraad overleg over de in de leden 1 en 2 bedoelde overeenkomsten en desgewenst over andere belangrijke onderwerpen in verband met hun respectieve handelspolitiek ten aanzien van derde landen. Een dergelijk overleg vindt met name plaats bij de toetreding van een derde land tot de Gemeenschap, teneinde rekening te kunnen houden met de onderlinge belangen van de Gemeenschap en Montenegro als omschreven in deze overeenkomst.
 
-#### Artikel 40. Dumping en subsidiëring
+##### Artikel 40. Dumping en subsidiëring
 
 1. De bepalingen in deze overeenkomst beletten de partijen niet handelsbeschermingsmaatregelen overeenkomstig lid 2 en [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IV&hoofdstuk=III&artikel=41&z=2014-12-12&g=2014-12-12) te treffen.
 
 2. Als een partij constateert dat in het handelsverkeer met de andere partij dumping plaatsvindt en/of tot compenserende maatregelen aanleiding gevende subsidies worden gegeven, kan die partij passende maatregelen nemen tegen deze praktijk op grond van de [WTO-overeenkomst betreffende de tenuitvoerlegging van artikel VI van de GATT 1994](onbekend), de [WTO-overeenkomst inzake subsidies en compenserende maatregelen](onbekend), en haar eigen wetgeving ter zake.
 
-#### Artikel 41. Vrijwaringsclausule
+##### Artikel 41. Vrijwaringsclausule
 
 1. De bepalingen van artikel XIX van de GATT 1994 en van de [WTO-overeenkomst inzake vrijwaringsmaatregelen](onbekend) zijn van toepassing in de betrekkingen tussen de partijen.
 
@@ -490,7 +512,7 @@ De vrijwaringsmaatregelen worden de Stabilisatie- en associatieraad onmiddellijk
 
 6. Wanneer de Gemeenschap of Montenegro de invoer van producten die de in dit artikel bedoelde moeilijkheden kunnen doen rijzen aan een administratieve procedure onderwerpen die ten doel heeft snel informatie te verschaffen over de tendens van de handelsstromen, stelt de betrokken partij de andere partij daarvan in kennis.
 
-#### Artikel 42. Tekortclausule
+##### Artikel 42. Tekortclausule
 
 1. Wanneer naleving van de bepalingen van deze titel leidt tot:
 
@@ -508,19 +530,19 @@ kan die partij passende maatregelen nemen overeenkomstig de voorwaarden en proce
 
 5. Alle krachtens dit artikel genomen maatregelen worden de Stabilisatie- en associatieraad onmiddellijk ter kennis gebracht en worden in die raad op gezette tijden aan een onderzoek onderworpen, in het bijzonder om een tijdschema vast te stellen voor de afschaffing ervan zodra de omstandigheden dat toelaten.
 
-#### Artikel 43. Staatsmonopolies
+##### Artikel 43. Staatsmonopolies
 
 Met betrekking tot staatsmonopolies van commerciële aard zorgt Montenegro ervoor dat er bij de inwerkingtreding van deze overeenkomst geen sprake meer is van discriminatie tussen onderdanen van de lidstaten van de Europese Unie en onderdanen van Montenegro ten aanzien van de omstandigheden waaronder goederen worden verworven en op de markt gebracht.
 
-#### Artikel 44. Oorsprongsregels
+##### Artikel 44. Oorsprongsregels
 
 Tenzij anders bepaald in deze overeenkomst, zijn de oorsprongsregels voor de toepassing van deze overeenkomst in protocol 3 vastgesteld.
 
-#### Artikel 45. Toegestane beperkingen
+##### Artikel 45. Toegestane beperkingen
 
 Deze overeenkomst vormt geen beletsel voor verbodsbepalingen of beperkingen ten aanzien van invoer, uitvoer of doorvoer die gerechtvaardigd zijn uit hoofde van de bescherming van de openbare zedelijkheid, de openbare orde en de openbare veiligheid, de gezondheid en het leven van personen, dieren of planten, de bescherming van het nationale artistieke, historische en archeologische erfgoed, of de bescherming van de intellectuele, industriële en commerciële eigendom, of regels betreffende goud en zilver. Dergelijke verboden of beperkingen mogen echter geen middel tot willekeurige discriminatie, noch een verkapte beperking van de handel tussen de partijen vormen.
 
-#### Artikel 46. Niet-verlening van administratieve medewerking
+##### Artikel 46. Niet-verlening van administratieve medewerking
 
 1. De partijen komen overeen dat administratieve samenwerking essentieel is voor de uitvoering van en controle op de preferentiële behandeling die op grond van deze titel wordt verleend en benadrukken zich te zullen inzetten om onregelmatigheden en fraude in douane- en aanverwante aangelegenheden te bestrijden.
 
@@ -546,11 +568,11 @@ In het kader van dit artikel is onder andere sprake van onregelmatigheden of fra
 
 5. Tegelijk met de kennisgeving aan het Stabilisatie- en associatiecomité overeenkomstig lid 4, onder a), moet de betrokken partij in haar officiële publicatieblad een kennisgeving voor importeurs publiceren. De voor de importeurs bestemde kennisgeving moet voor het betrokken product aangeven dat op basis van objectieve informatie is geconcludeerd dat geen administratieve samenwerking is verleend en/of dat er sprake is van onregelmatigheden of fraude.
 
-#### Artikel 47
+##### Artikel 47
 
 Indien de bevoegde autoriteiten de preferentiële uitvoerregeling niet op de juiste wijze hebben beheerd, en met name indien zij protocol 3 bij de overeenkomst niet juist hebben toegepast en dit gevolgen heeft voor de overeenkomstsluitende partij die te maken krijgt met die consequenties in de vorm van invoerrechten, mag de Stabilisatie- en associatieraad verzoeken de mogelijkheden van de goedkeuring van passende maatregelen te onderzoeken om de situatie op te lossen.
 
-#### Artikel 48
+##### Artikel 48
 
 De toepassing van deze overeenkomst laat de toepassing van de bepalingen van het Gemeenschapsrecht op de Canarische Eilanden onverlet.
 
@@ -558,7 +580,7 @@ De toepassing van deze overeenkomst laat de toepassing van de bepalingen van het
 
 ### HOOFDSTUK I. VERKEER VAN WERKNEMERS
 
-#### Artikel 49
+##### Artikel 49
 
 1. Met inachtneming van de in elke lidstaat geldende voorwaarden en modaliteiten:
 
@@ -568,7 +590,7 @@ De toepassing van deze overeenkomst laat de toepassing van de bepalingen van het
 
 2. Montenegro verleent, volgens de in dat land geldende voorwaarden en modaliteiten, aan werknemers die onderdaan zijn van een lidstaat en die legaal op zijn grondgebied werkzaam zijn, alsmede aan hun echtgenoot en kinderen die daar legaal verblijven, de in lid 1 vermelde behandeling.
 
-#### Artikel 50
+##### Artikel 50
 
 1. Rekening houdend met de arbeidsmarktsituatie in de lidstaten, hun wetgeving en de voorschriften die in de lidstaten gelden op het gebied van de mobiliteit van werknemers:
 
@@ -578,7 +600,7 @@ De toepassing van deze overeenkomst laat de toepassing van de bepalingen van het
 
 2. Na drie jaar onderzoekt de Stabilisatie- en associatieraad of andere verbeteringen, zoals bijvoorbeeld toegang tot beroepsopleiding, overeenkomstig de in de lidstaten geldende regels en procedures en met inachtneming van de arbeidsmarktsituatie in de lidstaten en de Gemeenschap tot stand kunnen worden gebracht.
 
-#### Artikel 51
+##### Artikel 51
 
 1. Er worden regels vastgesteld voor de coördinatie van de socialezekerheidsstelsels die van toepassing zijn op legaal op het grondgebied van een lidstaat werkzame werknemers die onderdaan van Montenegro zijn en hun legaal in die lidstaat verblijvende gezinsleden. Hiertoe worden bij een besluit van de Stabilisatie- en associatieraad, dat alle rechten en verplichtingen uit hoofde van bilaterale overeenkomsten onverlet laat indien deze in een gunstigere behandeling voorzien, de volgende bepalingen ingevoerd:
 
@@ -592,7 +614,7 @@ De toepassing van deze overeenkomst laat de toepassing van de bepalingen van het
 
 ### HOOFDSTUK II. VESTIGING
 
-#### Artikel 52. Definities
+##### Artikel 52. Definities
 
 Voor de toepassing van deze overeenkomst wordt verstaan onder:
 
@@ -618,7 +640,7 @@ Voor de toepassing van deze overeenkomst wordt verstaan onder:
 
 - i. „financiële diensten”: de in bijlage VI omschreven activiteiten. De Stabilisatie- en associatieraad kan de werkingssfeer van die bijlage uitbreiden of wijzigen.
 
-#### Artikel 53
+##### Artikel 53
 
 1. Montenegro vereenvoudigt het op zijn grondgebied opzetten van werkzaamheden door vennootschappen en onderdanen van de Gemeenschap. Montenegro verleent daartoe vanaf de inwerkingtreding van deze overeenkomst:
 
@@ -642,7 +664,7 @@ Voor de toepassing van deze overeenkomst wordt verstaan onder:
 
 - b. hebben dochterondernemingen en filialen van vennootschappen uit de Gemeenschap vanaf de inwerkingtreding van de overeenkomst hetzelfde recht om eigendomsrechten op onroerend goed te verwerven en te genieten als Montenegrijnse vennootschappen en, wat betreft openbare goederen en goederen van algemeen belang, dezelfde rechten als Montenegrijnse vennootschappen, wanneer zulks noodzakelijk is voor de uitoefening van de economische activiteiten waarvoor zij zich gevestigd hebben.
 
-#### Artikel 54
+##### Artikel 54
 
 1. Met inachtneming van [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&hoofdstuk=II&artikel=56&z=2014-12-12&g=2014-12-12) en uitgezonderd de in bijlage VI beschreven financiële diensten kan elke partij de vestiging van en de werkzaamheden van vennootschappen en onderdanen op haar grondgebied regelen, voor zover deze regelingen vennootschappen en onderdanen van de andere partij niet discrimineren ten opzichte van de eigen vennootschappen en onderdanen.
 
@@ -650,23 +672,23 @@ Voor de toepassing van deze overeenkomst wordt verstaan onder:
 
 3. Geen van de bepalingen van deze overeenkomst mag op zodanige wijze worden geïnterpreteerd dat zij een partij verplicht tot het verstrekken van informatie betreffende de zaken en de boekhouding van individuele cliënten, dan wel vertrouwelijke of geheime informatie die in het bezit is van overheidsinstanties.
 
-#### Artikel 55
+##### Artikel 55
 
 1. Onverminderd de multilaterale overeenkomst voor een Europese Gemeenschappelijke Luchtvaartruimte (hierna: “ECAA” genoemd), is dit hoofdstuk niet van toepassing op het luchtvervoer, de binnenvaart en cabotage in het zeevervoer.
 
 2. De Stabilisatie- en associatieraad kan aanbevelingen doen voor verbetering van de voorwaarden voor vestiging en voor het uitoefenen van activiteiten op de in lid 1 vermelde gebieden.
 
-#### Artikel 56
+##### Artikel 56
 
 1. De [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&hoofdstuk=II&artikel=53&z=2014-12-12&g=2014-12-12) en [54](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&hoofdstuk=II&artikel=54&z=2014-12-12&g=2014-12-12) vormen geen beletsel voor de toepassing door een partij, met betrekking tot de vestiging en uitoefening van activiteiten op haar grondgebied van filialen van vennootschappen van een andere partij die op het grondgebied van de eerste partij geen rechtspersoonlijkheid bezitten, van bijzondere regels die gerechtvaardigd zijn op grond van juridische of technische verschillen tussen bedoelde filialen en filialen van vennootschappen die op het grondgebied van de eerste partij rechtspersoonlijkheid bezitten, of, wat financiële diensten betreft, om prudentiële redenen.
 
 2. Het verschil in behandeling blijft beperkt tot hetgeen als gevolg van dergelijke juridische of technische verschillen strikt noodzakelijk is of, wat financiële diensten betreft, tot hetgeen om prudentiële redenen noodzakelijk is.
 
-#### Artikel 57
+##### Artikel 57
 
 Teneinde de toegang tot en de uitoefening van gereglementeerde activiteiten in het kader van vrije beroepen in Montenegro respectievelijk de Gemeenschap voor onderdanen van de Gemeenschap respectievelijk Montenegro te vergemakkelijken, onderzoekt de Stabilisatie- en associatieraad welke maatregelen moeten worden getroffen met het oog op de onderlinge erkenning van diploma’s. De raad kan daartoe alle noodzakelijke maatregelen nemen.
 
-#### Artikel 58
+##### Artikel 58
 
 1. Een op het grondgebied van Montenegro respectievelijk de Gemeenschap gevestigde vennootschap uit de Gemeenschap respectievelijk Montenegrijnse vennootschap heeft het recht, met inachtneming van de wetgeving van het gastland van vestiging, op het grondgebied van Montenegro respectievelijk de Gemeenschap werknemers die onderdaan zijn van een lidstaat van de Gemeenschap respectievelijk van Montenegro in dienst te nemen of deze door een van haar dochterondernemingen of filialen in dienst te laten nemen, indien dergelijke werknemers een sleutelpositie in de zin van lid 2 van dit artikel bekleden en zij uitsluitend een dienstverband hebben met vennootschappen, dochterondernemingen of filialen. De geldigheidsduur van de verblijfs- en werkvergunningen van deze werknemers is beperkt tot de periode waarin zij als zodanig werkzaam zijn.
 
@@ -692,7 +714,7 @@ Teneinde de toegang tot en de uitoefening van gereglementeerde activiteiten in h
 
 ### HOOFDSTUK III. HET VERLENEN VAN DIENSTEN
 
-#### Artikel 59
+##### Artikel 59
 
 1. De Gemeenschap en Montenegro verbinden zich ertoe overeenkomstig de hiernavolgende bepalingen de nodige stappen te ondernemen om geleidelijk het verrichten van diensten mogelijk te maken door vennootschappen en onderdanen van de Gemeenschap en Montenegro die zijn gevestigd op het grondgebied van een andere partij dan die van de persoon voor wie de diensten worden verricht.
 
@@ -700,13 +722,13 @@ Teneinde de toegang tot en de uitoefening van gereglementeerde activiteiten in h
 
 3. Vier jaar na de inwerkingtreding van de overeenkomst neemt de Stabilisatie- en associatieraad de nodige maatregelen om het bepaalde in lid 1 geleidelijk ten uitvoer te leggen. Hierbij wordt rekening gehouden met de vorderingen die de partijen maken bij de onderlinge aanpassing van hun wetgeving.
 
-#### Artikel 60
+##### Artikel 60
 
 1. De partijen treffen geen maatregelen en ondernemen geen acties die de voorwaarden voor het verrichten van diensten door vennootschappen of onderdanen van de Gemeenschap of Montenegro die gevestigd zijn op het grondgebied van een andere partij dan die van de persoon voor wie de diensten worden verricht aanmerkelijk restrictiever maken ten opzichte van de situatie op de dag voorafgaande aan de inwerkingtreding van deze overeenkomst.
 
 2. Indien een partij van mening is dat maatregelen die door de andere partij na de inwerkingtreding van deze overeenkomst zijn genomen, tot een situatie leiden die ten aanzien van het verrichten van diensten aanmerkelijk restrictiever is dan op de datum van inwerkingtreding van deze overeenkomst, kan eerstgenoemde partij de andere partij om overleg verzoeken.
 
-#### Artikel 61
+##### Artikel 61
 
 Ten aanzien van vervoersdiensten tussen de Gemeenschap en Montenegro zijn de volgende bepalingen van toepassing:
 
@@ -732,11 +754,11 @@ Ten aanzien van vervoersdiensten tussen de Gemeenschap en Montenegro zijn de vol
 
 ### HOOFDSTUK IV. BETALINGS- EN KAPITAALVERKEER
 
-#### Artikel 62
+##### Artikel 62
 
 De partijen verbinden zich ertoe, overeenkomstig artikel VIII van de Statuten van het Internationaal Monetair Fonds, machtiging te verlenen tot alle betalingen en overboekingen in vrij convertibele valuta op de lopende rekening van de betalingsbalans tussen de Gemeenschap en Montenegro.
 
-#### Artikel 63
+##### Artikel 63
 
 1. Met betrekking tot de verrichtingen op de kapitaalrekening en de financiële rekening van de betalingsbalans garanderen de partijen vanaf de inwerkingtreding van deze overeenkomst het vrije verkeer van kapitaal dat verband houdt met directe investeringen in ondernemingen die in overeenstemming met de wetten van het gastland zijn opgericht, en met investeringen in overeenstemming met [hoofdstuk II van titel V](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&hoofdstuk=II&z=2014-12-12&g=2014-12-12), alsook de liquidatie of de repatriëring van die investeringen en van alle opbrengsten daarvan.
 
@@ -754,7 +776,7 @@ De partijen verbinden zich ertoe, overeenkomstig artikel VIII van de Statuten va
 
 8. De partijen plegen overleg teneinde het kapitaalverkeer tussen de Gemeenschap en Montenegro te vergemakkelijken met het oog op de verwezenlijking van de doelstellingen van deze overeenkomst.
 
-#### Artikel 64
+##### Artikel 64
 
 1. Gedurende het eerste jaar volgend op de inwerkingtreding van de overeenkomst nemen de Gemeenschap en Montenegro maatregelen om de voorwaarden tot stand te brengen voor verdere geleidelijke toepassing van de communautaire regelgeving betreffende het vrije verkeer van kapitaal.
 
@@ -762,21 +784,21 @@ De partijen verbinden zich ertoe, overeenkomstig artikel VIII van de Statuten va
 
 ### HOOFDSTUK V. ALGEMENE BEPALINGEN
 
-#### Artikel 65
+##### Artikel 65
 
 1. De bepalingen van deze titel zijn van toepassing onder voorbehoud van de beperkingen die gerechtvaardigd zijn uit hoofde van de openbare orde, de openbare veiligheid en de volksgezondheid.
 
 2. Zij zijn niet van toepassing op werkzaamheden die, al dan niet incidenteel, verband houden met de uitoefening van het openbaar gezag op het grondgebied van de partijen.
 
-#### Artikel 66
+##### Artikel 66
 
 Voor de toepassing van deze titel belet geen enkele bepaling van deze overeenkomst de partijen hun wetten en voorschriften betreffende toelating en verblijf, werkgelegenheid, arbeidsvoorwaarden, vestiging van natuurlijke personen en het verrichten van diensten toe te passen, met name wat betreft het toekennen, verlengen of weigeren van een verblijfsvergunning, mits zij ze niet toepassen op een manier die de voor een partij uit een specifieke bepaling van de overeenkomst voortvloeiende voordelen tenietdoet of beperkt. Deze bepaling laat de toepassing van [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&hoofdstuk=V&artikel=65&z=2014-12-12&g=2014-12-12) onverlet.
 
-#### Artikel 67
+##### Artikel 67
 
 Deze titel is eveneens van toepassing op vennootschappen die gezamenlijk door Montenegrijnse en communautaire vennootschappen of onderdanen worden bestuurd en hun exclusieve eigendom zijn.
 
-#### Artikel 68
+##### Artikel 68
 
 1. De overeenkomstig de bepalingen van deze titel toegekende meestbegunstigingsbehandeling is niet van toepassing op de belastingvoordelen waarin de partijen voorzien of in de toekomst zullen voorzien in het kader van overeenkomsten ter voorkoming van dubbele belastingheffing of andere fiscale regelingen.
 
@@ -784,7 +806,7 @@ Deze titel is eveneens van toepassing op vennootschappen die gezamenlijk door Mo
 
 3. Niets in deze titel kan worden uitgelegd als een beletsel voor de lidstaten of Montenegro om bij de toepassing van de desbetreffende bepalingen van hun fiscaal recht een onderscheid te maken tussen belastingplichtigen die zich niet in identieke situaties bevinden, in het bijzonder met betrekking tot hun woonplaats.
 
-#### Artikel 69
+##### Artikel 69
 
 1. De partijen spannen zich waar mogelijk in om het opleggen van beperkende maatregelen te vermijden, waaronder maatregelen met betrekking tot de invoer om met de betalingsbalans verband houdende redenen. Indien dergelijke maatregelen worden genomen, verstrekt de partij die ze heeft genomen de andere partij zo spoedig mogelijk een tijdschema voor de opheffing ervan.
 
@@ -792,17 +814,17 @@ Deze titel is eveneens van toepassing op vennootschappen die gezamenlijk door Mo
 
 3. De beperkende maatregelen mogen geen betrekking hebben op overmakingen in verband met investeringen, met name de repatriëring van geïnvesteerde of geherinvesteerde bedragen en van daaruit voortvloeiende inkomsten van ongeacht welke aard.
 
-#### Artikel 70
+##### Artikel 70
 
 De bepalingen van deze titel worden geleidelijk aangepast, met name in het licht van de eisen die in [artikel V van de GATS](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=V) worden gesteld.
 
-#### Artikel 71
+##### Artikel 71
 
 De bepalingen van deze overeenkomst doen geen afbreuk aan toepassing door elke partij van alle maatregelen die nodig zijn om te voorkomen dat de door haar getroffen maatregelen ten aanzien van toegang van derde landen tot haar markt worden ontdoken via de bepalingen van deze overeenkomst.
 
 ## TITEL VI. HARMONISATIE VAN WETGEVING, RECHTSHANDHAVING EN MEDEDINGINGSREGELS
 
-#### Artikel 72
+##### Artikel 72
 
 1. De partijen erkennen het belang van de aanpassing van de bestaande wetgeving van Montenegro aan die van de Gemeenschap en van de doeltreffende toepassing daarvan. Montenegro streeft ernaar zijn huidige en toekomstige wetgeving geleidelijk in overeenstemming te brengen met het acquis van de Gemeenschap. Montenegro ziet erop toe dat de bestaande en toekomstige wetgeving naar behoren ten uitvoer wordt gelegd en nageleefd.
 
@@ -814,7 +836,7 @@ De aanpassing vindt plaats op basis van een programma waarover de Europese Commi
 
 4. Montenegro stelt tevens, in overeenstemming met de Europese Commissie, de voorwaarden vast voor het toezicht op de tenuitvoerlegging van de aanpassing van de wetgeving en de te treffen rechtshandhavingsmaatregelen.
 
-#### Artikel 73. Bepalingen betreffende de concurrentie en andere economische aspecten
+##### Artikel 73. Bepalingen betreffende de concurrentie en andere economische aspecten
 
 1. Onverenigbaar met de goede werking van de overeenkomst zijn, voor zover de handel tussen de Gemeenschap en Montenegro daardoor ongunstig kan worden beïnvloed:
 
@@ -848,13 +870,13 @@ De aanpassing vindt plaats op basis van een programma waarover de Europese Commi
 
 10. Als een van de partijen van mening is dat een bepaalde praktijk onverenigbaar is met lid 1, kan zij, na overleg in de Stabilisatie- en associatieraad, of 30 werkdagen na het verzoek om dergelijk overleg, passende maatregelen nemen. Niets in dit artikel vormt een beletsel of een hindernis voor het nemen van antidumpingmaatregelen of compenserende maatregelen door de partijen overeenkomstig de desbetreffende artikelen van de [GATT 1994](onbekend) en de [WTO-overeenkomst inzake subsidies en compenserende maatregelen](onbekend), of hun interne wetgeving op dit gebied.
 
-#### Artikel 74. Overheidsondernemingen
+##### Artikel 74. Overheidsondernemingen
 
 Uiterlijk aan het einde van het derde jaar na de inwerkingtreding van deze overeenkomst past Montenegro op overheidsondernemingen en ondernemingen waaraan bijzondere of uitsluitende rechten zijn toegekend, de beginselen van het [EG-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) toe, en dan met name [artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=86).
 
 De bijzondere rechten van overheidsondernemingen tijdens de overgangsperiode omvatten niet de mogelijkheid tot instelling van kwantitatieve beperkingen of maatregelen van gelijke werking op de invoer in Montenegro van goederen van oorsprong uit de Gemeenschap.
 
-#### Artikel 75. Intellectuele, industriële en commerciële eigendom
+##### Artikel 75. Intellectuele, industriële en commerciële eigendom
 
 1. Overeenkomstig de bepalingen van dit artikel en bijlage VII bevestigen de partijen het belang dat zij hechten aan een adequate en efficiënte bescherming van intellectuele-, industriële- en commerciële-eigendomsrechten.
 
@@ -866,7 +888,7 @@ De bijzondere rechten van overheidsondernemingen tijdens de overgangsperiode omv
 
 5. Indien zich op het gebied van intellectuele, industriële en commerciële eigendom problemen voordoen die de handelsvoorwaarden ongunstig beïnvloeden, dan worden zij, op verzoek van een der partijen, onverwijld aan de Stabilisatie- en associatieraad voorgelegd om tot een voor beide partijen bevredigende oplossing te komen.
 
-#### Artikel 76. Overheidsopdrachten
+##### Artikel 76. Overheidsopdrachten
 
 1. De partijen beschouwen het openstellen van de aanbesteding van overheidsopdrachten op basis van non-discriminatie en wederkerigheid, vooral in het kader van de WTO, als een na te streven doel.
 
@@ -882,7 +904,7 @@ Zodra de regering van Montenegro de wetgeving heeft goedgekeurd waarbij de commu
 
 6. Op de vestiging, de activiteiten en de verlening van diensten tussen de Gemeenschap en Montenegro, alsmede de werkgelegenheid en het verkeer van werknemers in verband met de uitvoering van overheidsopdrachten zijn de artikelen 49 tot en met 64 van toepassing.
 
-#### Artikel 77. Normalisatie, metrologie, accreditering en conformiteitsbeoordeling
+##### Artikel 77. Normalisatie, metrologie, accreditering en conformiteitsbeoordeling
 
 1. Montenegro neemt de nodige maatregelen om de wetgeving geleidelijk in overeenstemming te brengen met de technische regelgeving van de Gemeenschap en de Europese procedures voor normalisatie, metrologie, accreditering en conformiteitsbeoordeling.
 
@@ -896,7 +918,7 @@ Zodra de regering van Montenegro de wetgeving heeft goedgekeurd waarbij de commu
 
 - –. indien mogelijk, het sluiten van een overeenkomst inzake conformiteitsbeoordeling en aanvaarding van industrieproducten zodra Montenegro zijn wetgeving en procedures voldoende heeft aangepast aan die van de Gemeenschap en voldoende deskundigheid beschikbaar is.
 
-#### Artikel 78. Consumentenbescherming
+##### Artikel 78. Consumentenbescherming
 
 De partijen werken samen om de normen voor de bescherming van de consument in Montenegro aan te passen aan die in de Gemeenschap. Een effectieve consumentenbescherming is noodzakelijk voor een goed functionerende markteconomie, en deze bescherming is afhankelijk van de ontwikkeling van administratieve infrastructuren voor markttoezicht en wetshandhaving.
 
@@ -912,21 +934,21 @@ Daartoe en ter behartiging van hun gemeenschappelijke belangen stimuleren de par
 
 - –. uitwisseling van informatie over gevaarlijke producten.
 
-#### Artikel 79. Arbeidsomstandigheden en gelijke kansen
+##### Artikel 79. Arbeidsomstandigheden en gelijke kansen
 
 Montenegro moet zijn wetgeving op het gebied van arbeidsomstandigheden geleidelijk aanpassen aan die van de Gemeenschap, met name op de gebieden gezondheid en veiligheid op het werk en gelijke kansen.
 
 ## TITEL VII. JUSTITIE, VRIJHEID EN VEILIGHEID
 
-#### Artikel 80. Institutionele versterking en de rechtsstaat
+##### Artikel 80. Institutionele versterking en de rechtsstaat
 
 Bij de samenwerking op het gebied van justitie, vrijheid en veiligheid schenken de partijen bijzondere aandacht aan de consolidering van de rechtsstaat en institutionele versterking op alle niveaus, bij de overheid in het algemeen en bij de rechtshandhaving en het justitiële apparaat in het bijzonder. De samenwerking is met name gericht op de versterking van de onafhankelijkheid van het justitiële apparaat en de verbetering van de doeltreffendheid daarvan, de verbetering van het functioneren van de politie en andere rechtshandhavingsinstanties, het voorzien in adequate opleiding en bestrijding van corruptie en de georganiseerde misdaad.
 
-#### Artikel 81. Bescherming van persoonsgegevens
+##### Artikel 81. Bescherming van persoonsgegevens
 
 Zodra deze overeenkomst in werking is getreden, past Montenegro zijn wetgeving inzake de bescherming van persoonsgegevens aan de Gemeenschapswetgeving en internationale wetgeving op het gebied van privacy aan. Montenegro richt een of meer onafhankelijke toezichthoudende organen op die over voldoende financiële en personele middelen beschikken om efficiënt te kunnen toezien op de naleving van de wetgeving inzake de bescherming van persoonsgegevens. De partijen zullen samenwerken om dit doel te bereiken.
 
-#### Artikel 82. Visa, grensbeheer, asiel en migratie
+##### Artikel 82. Visa, grensbeheer, asiel en migratie
 
 De partijen werken samen op het gebied van visa, grenstoezicht, asiel en migratie en zetten een kader op voor deze samenwerking, ook op regionaal niveau, waarbij in voorkomend geval rekening wordt gehouden met en optimaal geprofiteerd wordt van bestaande initiatieven op dit vlak.
 
@@ -950,7 +972,7 @@ De samenwerking is vooral gericht op:
 
 - –. op het gebied van legale migratie: toelatingsregels en de rechten en de status van de toegelaten personen. Ten aanzien van migratie komen de partijen overeen onderdanen van derde landen die legaal op hun grondgebied verblijven een billijke behandeling te geven, en een integratiebeleid te bevorderen dat deze onderdanen rechten en plichten geeft die vergelijkbaar zijn met die van hun staatsburgers.
 
-#### Artikel 83. Preventie en controle van illegale immigratie; overname
+##### Artikel 83. Preventie en controle van illegale immigratie; overname
 
 De partijen werken samen met oog op de preventie en controle van illegale immigratie. Daartoe verbinden Montenegro en de lidstaten zich ertoe hun onderdanen die illegaal op het grondgebied van de andere partij verblijven over te nemen en een overnameovereenkomst [te sluiten] en volledig ten uitvoer te leggen, met inbegrip van een verplichting tot overname van onderdanen van andere landen en stateloze personen.
 
@@ -962,19 +984,19 @@ Montenegro zegt toe overnameovereenkomsten te sluiten met de andere landen van h
 
 De Stabilisatie- en associatieraad onderzoekt welke andere gezamenlijke inspanningen kunnen worden geleverd met het oog op de preventie en controle van illegale immigratie, met inbegrip van mensenhandel en illegale migratienetwerken.
 
-#### Artikel 84. Witwassen van geld en financiering van terrorisme
+##### Artikel 84. Witwassen van geld en financiering van terrorisme
 
 1. De partijen werken samen om te voorkomen dat hun financiële systemen worden gebruikt voor het witwassen van de opbrengsten uit criminele activiteiten in het algemeen en drugsmisdrijven in het bijzonder, alsmede voor de financiering van terrorisme.
 
 2. De samenwerking op dit gebied omvat administratieve en technische bijstand met het oog op de tenuitvoerlegging van voorschriften en het efficiënt functioneren van passende normen en mechanismen ter voorkoming van het witwassen van geld en de financiering van terrorisme die gelijkwaardig zijn aan die welke zijn aangenomen door de Gemeenschap en internationale fora op dit gebied, in het bijzonder de Financial Action Task Force (FATF).
 
-#### Artikel 85. Samenwerking op het gebied van drugs
+##### Artikel 85. Samenwerking op het gebied van drugs
 
 1. Binnen het kader van hun respectieve bevoegdheden werken de partijen samen met het oog op een evenwichtige en geïntegreerde aanpak van drugsvraagstukken. Beleid en maatregelen met betrekking tot drugs zijn gericht op het versterken van de structuren om illegale drugs te bestrijden, waaronder het beperken van het aanbod aan, de handel in en de vraag naar illegale drugs, waarbij de gevolgen voor de gezondheid en de maatschappelijke consequenties van drugsgebruik worden aangepakt en precursoren beter gecontroleerd worden.
 
 2. De partijen komen overeen welke samenwerkingsmethoden nodig zijn om deze doelstellingen te bereiken. De activiteiten worden gebaseerd op gezamenlijk overeengekomen principes in overeenstemming met het drugsbeleid van de EU.
 
-#### Artikel 86. Voorkoming en bestrijding van georganiseerde misdaad en andere illegale activiteiten
+##### Artikel 86. Voorkoming en bestrijding van georganiseerde misdaad en andere illegale activiteiten
 
 De partijen werken samen aan de voorkoming en bestrijding van al dan niet georganiseerde criminele en illegale activiteiten, zoals:
 
@@ -1002,7 +1024,7 @@ Op het gebied van valsemunterij werkt Montenegro nauw samen met de Europese Geme
 
 Regionale samenwerking en de naleving van internationaal erkende normen op het gebied van de bestrijding van georganiseerde misdaad worden bevorderd.
 
-#### Artikel 87. Bestrijding van terrorisme
+##### Artikel 87. Bestrijding van terrorisme
 
 Overeenkomstig de internationale verdragen waarbij zij partij zijn en hun eigen wet- en regelgeving komen de partijen overeen samen te werken aan de voorkoming en bestrijding van terroristische daden en de financiering daarvan:
 
@@ -1014,7 +1036,7 @@ Overeenkomstig de internationale verdragen waarbij zij partij zijn en hun eigen 
 
 ## TITEL VIII. SAMENWERKINGSBELEID
 
-#### Artikel 88
+##### Artikel 88
 
 1. De Gemeenschap en Montenegro werken nauw samen om de ontwikkeling en het groeipotentieel van Montenegro te bevorderen. Die samenwerking versterkt de bestaande economische banden op een zo breed mogelijke basis, ten voordele van beide partijen.
 
@@ -1022,7 +1044,7 @@ Overeenkomstig de internationale verdragen waarbij zij partij zijn en hun eigen 
 
 3. Het samenwerkingsbeleid moet in een regionaal samenwerkingskader worden geïntegreerd. Bijzondere aandacht moet worden geschonken aan maatregelen die de samenwerking tussen Montenegro en zijn buurlanden, waaronder lidstaten, bevorderen en aldus bijdragen tot de regionale stabiliteit. De Stabilisatie- en associatieraad bepaalt welk van de hierna omschreven samenwerkingsterreinen prioriteit heeft, en wat prioriteit heeft binnen de verschillende terreinen, overeenkomstig het Europees partnerschap.
 
-#### Artikel 89. Economisch beleid en handelspolitiek
+##### Artikel 89. Economisch beleid en handelspolitiek
 
 De Gemeenschap en Montenegro vergemakkelijken het proces van economische hervormingen door middel van samenwerking die beoogt het inzicht in de basiselementen van hun respectieve economieën en het formuleren en uitvoeren van economisch beleid in een markteconomie te verbeteren.
 
@@ -1040,23 +1062,23 @@ De samenwerking is tevens gericht op de versterking van de rechtsstaat op zakeli
 
 Samenwerking op dit gebied omvat ook de uitwisseling van informatie over de beginselen en de werking van de Europese Economische en Monetaire Unie.
 
-#### Artikel 90. Statistische samenwerking
+##### Artikel 90. Statistische samenwerking
 
 De samenwerking tussen de partijen is in eerste instantie gericht op prioritaire gebieden die verband houden met het acquis van de Gemeenschap op het gebied van de statistiek, waaronder op economisch, monetair en financieel gebied en op het gebied van de handel. De statistische samenwerking is met name gericht op de ontwikkeling van efficiënte en duurzame statistische stelsels die in staat zijn de betrouwbare, objectieve en nauwkeurige gegevens te leveren die nodig zijn om het overgangs- en hervormingsproces in Montenegro te plannen en te controleren. Ook moet de statistische samenwerking het bureau voor de statistiek van Montenegro in staat stellen beter te voldoen aan de behoeften van nationale en internationale afnemers (overheid en particuliere sector). Het statistisch stelsel moet de fundamentele beginselen van de statistiek die door de VN zijn uitgevaardigd, de Europese praktijkcode voor statistieken en de bepalingen van de Europese statistiekwetgeving eerbiedigen en zich ontwikkelen in de richting van het acquis. De partijen werken met name samen om de vertrouwelijkheid van persoonsgegevens te waarborgen, de verzameling van gegevens en doorgifte daarvan aan het Europees statistisch systeem geleidelijk te intensiveren en informatie uit te wisselen inzake methoden, kennisoverdracht en opleiding.
 
-#### Artikel 91. Bank- en verzekeringswezen en andere financiële diensten
+##### Artikel 91. Bank- en verzekeringswezen en andere financiële diensten
 
 De samenwerking tussen Montenegro en de Gemeenschap is gericht op prioritaire gebieden die verband houden met het communautair acquis voor het bank- en verzekeringswezen en financiële diensten. De partijen werken samen om een passend kader tot stand te brengen en verder te ontwikkelen voor het stimuleren van het bank- en verzekeringswezen en de sector financiële diensten in Montenegro, op basis van eerlijke concurrentie en de waarborging van gelijke marktvoorwaarden.
 
-#### Artikel 92. Interne controle en externe boekhoudkundige controle
+##### Artikel 92. Interne controle en externe boekhoudkundige controle
 
 De samenwerking tussen de partijen is gericht op prioritaire gebieden die verband houden met het communautair acquis op het gebied van interne controle van de overheidsfinanciën (PIFC) en externe boekhoudkundige controle. De partijen werken door het uitwerken en goedkeuren van relevante regelgeving met name samen aan de ontwikkeling van efficiënte systemen voor PIFC (waaronder financieel beheer en financiële controle en operationeel onafhankelijke interne boekhoudkundige controle) en onafhankelijke externe boekhoudkundige controle in Montenegro overeenkomstig internationaal erkende normen en methoden en de op Europees niveau overeengekomen beste praktijken. De samenwerking zal zich ook richten op de opbouw van capaciteit voor de hoogste auditinstantie in Montenegro. Om de uit bovenstaande eisen voortvloeiende taken met betrekking tot coördinatie en harmonisatie te kunnen uitvoeren, moet de samenwerking zich ook richten op de oprichting en versterking van centrale harmonisatie-eenheden voor financieel beheer, financiële controle en interne boekhoudkundige controle.
 
-#### Artikel 93. Stimulering en bescherming van investeringen
+##### Artikel 93. Stimulering en bescherming van investeringen
 
 De samenwerking tussen de partijen, binnen de reikwijdte van hun respectieve bevoegdheden, op het gebied van de bevordering en bescherming van investeringen is erop gericht een gunstig klimaat te creëren voor binnenlandse en buitenlandse particuliere investeringen, die essentieel zijn voor de economische en industriële revitalisering van Montenegro. Montenegro zal zich met name toeleggen op de verbetering van het juridisch kader dat investeringen stimuleert en beschermt.
 
-#### Artikel 94. Industriële samenwerking
+##### Artikel 94. Industriële samenwerking
 
 De samenwerking richt zich op stimulering van de modernisering en herstructurering van de industrie van Montenegro en van individuele sectoren. Hieronder valt ook industriële samenwerking tussen het bedrijfsleven aan beide zijden om de particuliere sector te versterken, waarbij de bescherming van het milieu gewaarborgd moet zijn.
 
@@ -1064,27 +1086,27 @@ Samenwerkingsinitiatieven op het gebied van de industrie dienen een afspiegeling
 
 In het kader van de samenwerking wordt ook op passende wijze rekening gehouden met het communautair acquis op het gebied van industriebeleid.
 
-#### Artikel 95. Midden- en kleinbedrijf
+##### Artikel 95. Midden- en kleinbedrijf
 
 De partijen streven ernaar het midden- en kleinbedrijf in de particuliere sector te ontwikkelen en te versterken, nieuwe ondernemingen op te richten op terreinen met groeipotentieel en de samenwerking tussen het midden- en kleinbedrijf in de Gemeenschap en Montenegro te vergroten.
 
 In het kader van de samenwerking wordt op passende wijze rekening gehouden met prioritaire gebieden met betrekking tot het communautair acquis op het gebied van het midden- en kleinbedrijf en met de tien beginselen die zijn vastgelegd in het Europees Handvest voor kleine ondernemingen.
 
-#### Artikel 96. Toerisme
+##### Artikel 96. Toerisme
 
 De samenwerking tussen de partijen op het gebied van toerisme is voornamelijk gericht op de intensivering van de informatiestroom over toerisme (via internationale netwerken, databanken, enz.), waarbij de totstandbrenging van infrastructuur wordt gestimuleerd die tot investeringen in de toeristische sector kan leiden, en op deelname van Montenegro aan belangrijke Europese organisaties voor toerisme. Ook zullen de mogelijkheden worden onderzocht voor gemeenschappelijke activiteiten, de versterking van de samenwerking tussen de toeristische sector, deskundigen, regeringen en overheidsinstanties op het gebied van toerisme en kennisoverdracht (door middel van opleiding, uitwisselingen, workshops). In het kader van de samenwerking wordt op passende wijze rekening gehouden met het communautair acquis in verband met deze sector.
 
 De samenwerking kan in een regionaal samenwerkingskader worden geïntegreerd.
 
-#### Artikel 97. De landbouw en de agro-industriële sector
+##### Artikel 97. De landbouw en de agro-industriële sector
 
 Op alle prioritaire gebieden die verband houden met het communautair acquis op landbouwgebied zal samenwerking tussen de partijen worden ontwikkeld, alsmede op veterinair en fytosanitair gebied. De samenwerking is met name gericht op de modernisering en herstructurering van de landbouw en levensmiddelensector, zodat wordt voldaan aan de gezondheidsvoorschriften van de Gemeenschap, de verbetering van het waterbeheer en plattelandsontwikkeling, alsmede de ontwikkeling van de bosbouwsector in Montenegro en op de ondersteuning van de geleidelijke aanpassing van de Montenegrijnse wetgeving en praktijk aan de communautaire regels en normen.
 
-#### Artikel 98. Visserij
+##### Artikel 98. Visserij
 
 De partijen onderzoeken de mogelijkheid om in de visserijsector gebieden van wederzijds belang aan te wijzen waarop samenwerking voor elk van hen voordeel zou opleveren. In het kader van de samenwerking wordt op passende wijze rekening gehouden met het communautair acquis op visserijgebied, waaronder de naleving van internationale verplichtingen betreffende regels van de internationale en de regionale visserijorganisaties inzake het beheer en de instandhouding van de visbestanden.
 
-#### Artikel 99. Douane
+##### Artikel 99. Douane
 
 De samenwerking tussen de partijen op dit gebied is erop gericht de naleving te waarborgen van de op handelsgebied in te voeren bepalingen en het douanesysteem van Montenegro aan te passen aan dat van de Gemeenschap, teneinde zo de weg vrij te maken voor de in het kader van deze overeenkomst geplande liberaliseringsmaatregelen en de geleidelijke aanpassing van de Montenegrijnse douanewetgeving aan het acquis.
 
@@ -1092,7 +1114,7 @@ In het kader van de samenwerking wordt op passende wijze rekening gehouden met h
 
 In protocol 6 worden de regels vastgesteld inzake wederzijdse administratieve bijstand tussen partijen op het gebied van douane.
 
-#### Artikel 100. Belastingen
+##### Artikel 100. Belastingen
 
 De door de partijen tot stand te brengen samenwerking op belastinggebied omvat maatregelen die gericht zijn op de verdere hervorming van het Montenegrijnse belastingstelsel en de herstructurering van de belastingdienst, teneinde de efficiëntie van de belastinginning te verbeteren en belastingfraude te bestrijden.
 
@@ -1100,7 +1122,7 @@ In het kader van de samenwerking wordt op passende wijze rekening gehouden met d
 
 De samenwerking richt zich ook op het vergroten van de transparantie en het bestrijden van corruptie, alsmede het uitwisselen van informatie met de lidstaten, teneinde de handhaving van maatregelen ter voorkoming van belastingfraude, -ontwijking of -ontduiking te vergemakkelijken. Montenegro zal ook het netwerk van bilaterale overeenkomsten met de lidstaten voltooien, overeenkomstig de laatste versie van het OESO-modelverdrag inzake belasting naar inkomen en vermogen en de OESO-modelovereenkomst betreffende de uitwisseling van belastinggegevens, voor zover de verzoekende lidstaat hierbij aangesloten is.
 
-#### Artikel 101. Samenwerking op sociaal gebied
+##### Artikel 101. Samenwerking op sociaal gebied
 
 Op het gebied van de werkgelegenheid heeft de samenwerking tussen de partijen voornamelijk betrekking op het verbeteren van de diensten voor arbeidsbemiddeling en loopbaanadvies, ondersteuningsmaatregelen en het stimuleren van de plaatselijke ontwikkeling om de herstructurering van industrie en arbeidsmarkt te begeleiden. De samenwerking vindt tevens plaats in de vorm van studies, detachering van deskundigen, voorlichting en opleiding.
 
@@ -1108,7 +1130,7 @@ De samenwerking tussen de partijen is gericht op de vergemakkelijking van de her
 
 In het kader van de samenwerking wordt rekening gehouden met de prioritaire terreinen in verband met het communautair acquis op dit gebied.
 
-#### Artikel 102. Onderwijs en opleiding
+##### Artikel 102. Onderwijs en opleiding
 
 De partijen werken samen om het peil van het algemene onderwijs en van beroepsonderwijs en -opleiding, alsmede van het jongerenbeleid en jongerenwerk, waaronder niet-formeel onderwijs, in Montenegro te verhogen. De verwezenlijking van de doelstellingen van de Verklaring van Bologna (die in het kader van het intergouvernementele proces van Bologna is aangenomen) is een prioriteit voor het hoger onderwijs.
 
@@ -1118,11 +1140,11 @@ De relevante communautaire programma’s en instrumenten dragen bij tot de verbe
 
 In het kader van de samenwerking wordt rekening gehouden met de prioritaire terreinen in verband met het communautair acquis op dit gebied.
 
-#### Artikel 103. Samenwerking op cultureel gebied
+##### Artikel 103. Samenwerking op cultureel gebied
 
 De partijen verbinden zich ertoe de samenwerking op cultureel gebied te bevorderen. Deze samenwerking beoogt onder meer het wederzijds begrip en het wederzijds respect voor personen, gemeenschappen en volkeren te doen toenemen. De partijen verbinden zich er eveneens toe om samen te werken om de culturele diversiteit te bevorderen, met name in het kader van het UNESCO-verdrag inzake de bescherming en bevordering van de diversiteit van culturele uitingen.
 
-#### Artikel 104. Samenwerking op audiovisueel gebied
+##### Artikel 104. Samenwerking op audiovisueel gebied
 
 De partijen werken samen ter bevordering van de audiovisuele industrie in Europa en stimuleren coproducties voor film en televisie.
 
@@ -1130,29 +1152,29 @@ De samenwerking kan programma’s en faciliteiten omvatten voor de opleiding van
 
 Montenegro stemt zijn beleid inzake de regulering van de inhoudelijke aspecten van grensoverschrijdende televisie af op dat van de EG en past zijn wetgeving aan het EU-acquis aan. Montenegro besteedt daarbij bijzondere aandacht aan vraagstukken in verband met de verwerving van intellectuele-eigendomsrechten voor satelliet-, kabel- of etheruitzendingen.
 
-#### Artikel 105. Informatiemaatschappij
+##### Artikel 105. Informatiemaatschappij
 
 Op alle gebieden die verband houden met het communautair acquis op het gebied van de informatiemaatschappij zal samenwerking worden ontwikkeld. Er wordt voornamelijk steun verleend voor de geleidelijke aanpassing van beleid en wetgeving van Montenegro in deze sector aan beleid en wetgeving van de Gemeenschap.
 
 De partijen werken tevens samen met het oog op de verdere ontwikkeling van de informatiemaatschappij in Montenegro. Algemene doelstellingen zijn de voorbereiding van de maatschappij als geheel op het digitale tijdperk, het aantrekken van investeringen en het zorgen voor de interoperabiliteit van netwerken en diensten.
 
-#### Artikel 106. Netwerken en diensten voor elektronische communicatie
+##### Artikel 106. Netwerken en diensten voor elektronische communicatie
 
 De samenwerking is in eerste instantie gericht op prioritaire gebieden die verband houden met het communautair acquis op dit gebied.
 
 De partijen moeten met name de samenwerking op het gebied van elektronische-communicatienetwerken en -diensten versterken, waarbij het uiteindelijke doel is dat Montenegro het communautaire acquis op deze gebieden drie jaar na inwerkingtreding van deze overeenkomst overneemt.
 
-#### Artikel 107. Informatie en communicatie
+##### Artikel 107. Informatie en communicatie
 
 De Gemeenschap en Montenegro nemen de nodige maatregelen om de onderlinge uitwisseling van informatie te stimuleren. Prioriteit wordt verleend aan programma’s die basisinformatie over de Gemeenschap verstrekken aan het algemene publiek en meer gespecialiseerde informatie aan professionele doelgroepen in Montenegro.
 
-#### Artikel 108. Vervoer
+##### Artikel 108. Vervoer
 
 De samenwerking tussen de partijen is gericht op prioritaire gebieden die verband houden met het communautair acquis op het gebied van vervoer.
 
 De samenwerking kan met name worden gericht op de herstructurering en modernisering van de Montenegrijnse vervoerssystemen, de verbetering van het vrij verkeer van reizigers en goederen, de verbetering van de toegang tot de vervoersmarkt en -voorzieningen, met inbegrip van havens en luchthavens. Daarnaast kan steun worden verleend voor de ontwikkeling van multimodale infrastructuurvoorzieningen in verband met de voornaamste trans-Europese netwerken, met name ter versterking van regionale verbindingen in Zuidoost-Europa, overeenkomstig het memorandum van overeenstemming inzake het kernnetwerk voor regionaal vervoer. Gestreefd wordt naar exploitatienormen die vergelijkbaar zijn met die in de Gemeenschap en naar de ontwikkeling in Montenegro van een vervoerssysteem dat compatibel is met dat in de Gemeenschap en daarop aansluit, alsmede een betere bescherming van het milieu in de context van het vervoer.
 
-#### Artikel 109. Energie
+##### Artikel 109. Energie
 
 De samenwerking is voornamelijk gericht op prioritaire gebieden die verband houden met het communautair acquis op milieugebied. De samenwerking wordt gebaseerd op het regionale Verdrag tot oprichting van de energiegemeenschap en zal gericht zijn op de geleidelijke integratie van Montenegro in de Europese energiemarkten. De samenwerking omvat met name:
 
@@ -1162,7 +1184,7 @@ De samenwerking is voornamelijk gericht op prioritaire gebieden die verband houd
 
 - –. formulering van randvoorwaarden voor de herstructurering van energiebedrijven en samenwerking tussen bedrijven in die sector.
 
-#### Artikel 110. Nucleaire veiligheid
+##### Artikel 110. Nucleaire veiligheid
 
 De partijen werken samen op het gebied van nucleaire veiligheid en splijtstofbewaking. De samenwerking kan de volgende onderwerpen omvatten:
 
@@ -1172,25 +1194,25 @@ De partijen werken samen op het gebied van nucleaire veiligheid en splijtstofbew
 
 - –. aansprakelijkheid van derden bij kernrampen.
 
-#### Artikel 111. Milieu
+##### Artikel 111. Milieu
 
 De partijen ontwikkelen en versterken hun samenwerking op milieugebied, vooral om de achteruitgang van het milieu een halt toe te roepen en te beginnen met het milieu te verbeteren met het oog op duurzame ontwikkeling.
 
 De partijen werken met name samen met het oog op de versterking van de bestuurlijke structuren en procedures om strategische planning van milieuvraagstukken en coördinatie tussen de relevante actoren te waarborgen; de nadruk zal liggen op de aanpassing van de wetgeving van Montenegro aan die van de Gemeenschap. De samenwerking kan ook worden toegespitst op de ontwikkeling van strategieën om plaatselijke, regionale en grensoverschrijdende lucht- en waterverontreiniging aanzienlijk te verminderen, de totstandbrenging van een kader voor efficiënte, duurzame en schone energieproductie en -gebruik en de uitvoering van milieueffectrapportage en strategische milieueffectbeoordelingen. Bijzondere aandacht zal worden geschonken aan ratificatie en tenuitvoerlegging van het [Kyoto-protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0001538).
 
-#### Artikel 112. Samenwerking op het gebied van onderzoek en technologische ontwikkeling
+##### Artikel 112. Samenwerking op het gebied van onderzoek en technologische ontwikkeling
 
 De partijen bevorderen de samenwerking op het gebied van civiel wetenschappelijk onderzoek en technologische ontwikkeling (OTO), met wederzijds voordeel als uitgangspunt en rekening houdende met de beschikbaarheid van hulpmiddelen en adequate toegang tot elkaars programma’s, waarbij erop wordt toegezien dat intellectuele-, industriële- en commerciële-eigendomsrechten goed worden beschermd.
 
 In het kader van de samenwerking wordt rekening gehouden met de prioritaire terreinen in verband met het communautair acquis op het gebied van onderzoek en technologische ontwikkeling.
 
-#### Artikel 113. Regionale en plaatselijke ontwikkeling
+##### Artikel 113. Regionale en plaatselijke ontwikkeling
 
 De partijen zetten zich in voor de versterking van de regionale en plaatselijke ontwikkelingssamenwerking, teneinde bij te dragen tot de economische ontwikkeling en de vermindering van regionale verschillen. Specifieke aandacht wordt geschonken aan grensoverschrijdende, internationale en interregionale samenwerking.
 
 In het kader van de samenwerking wordt rekening gehouden met de prioritaire terreinen in verband met het communautair acquis op het gebied van regionale ontwikkeling.
 
-#### Artikel 114. Openbaar bestuur
+##### Artikel 114. Openbaar bestuur
 
 De samenwerking is erop gericht dat de ontwikkeling van efficiënt en verantwoordelijk openbaar bestuur in Montenegro wordt gegarandeerd, zodat met name ondersteuning wordt verleend aan de invoering van de rechtsstaat, het juist functioneren van de staatsinstellingen ten behoeve van de Montenegrijnse bevolking in het algemeen en de vlotte ontwikkeling van de verhoudingen tussen de EU en Montenegro.
 
@@ -1198,21 +1220,21 @@ De samenwerking is voornamelijk gericht op institutionele opbouw, waaronder de o
 
 ## TITEL IX. FINANCIËLE SAMENWERKING
 
-#### Artikel 115
+##### Artikel 115
 
 Met het oog op de verwezenlijking van de doelstellingen van deze overeenkomst en in overeenstemming met de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=I&artikel=5&z=2014-12-12&g=2014-12-12), [116](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IX&artikel=116&z=2014-12-12&g=2014-12-12) en [118](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IX&artikel=118&z=2014-12-12&g=2014-12-12) komt Montenegro in aanmerking voor financiële steun van de Gemeenschap in de vorm van subsidies en leningen, waaronder leningen van de Europese Investeringsbank. De steun van de Gemeenschap is afhankelijk van de vorderingen met betrekking tot de politieke criteria van Kopenhagen, en met name de verwezenlijking van de specifieke prioriteiten van het Europees Partnerschap. Hierbij wordt ook rekening gehouden met de resultaten van het jaarlijks onderzoek van de landen van het stabilisatie- en associatieproces, met name wat betreft de toezeggingen van de begunstigde landen om democratische, economische en institutionele hervormingen door te voeren, en met andere conclusies van de Raad, met name ten aanzien van de naleving van aanpassingsprogramma’s. De steun aan Montenegro wordt afgestemd op de geconstateerde behoeften, de overeengekomen prioriteiten, het vermogen tot opneming en terugbetaling en de maatregelen die worden getroffen om de economie te hervormen en te herstructureren.
 
-#### Artikel 116
+##### Artikel 116
 
 De financiële bijstand in de vorm van subsidies wordt verleend via operationele maatregelen die bij een verordening van de Raad worden ingesteld, binnen een door de Gemeenschap na overleg met Montenegro vast te stellen indicatief meerjarenkader en op basis van jaarlijkse actieprogramma’s.
 
 De financiële bijstand kan betrekking hebben op alle samenwerkingsterreinen, waarbij met name aandacht wordt besteed aan justitie, vrijheid en veiligheid, harmonisatie van wetgeving, economische ontwikkeling en milieubescherming.
 
-#### Artikel 117
+##### Artikel 117
 
 In het geval van bijzondere noodzaak kan de Gemeenschap op verzoek van Montenegro, in overleg met de internationale financiële instellingen, onderzoeken of bij wijze van uitzondering macrofinanciële bijstand kan worden verleend, op bepaalde voorwaarden en met inachtneming van de beschikbaarheid van alle financiële middelen. Deze bijstand wordt dan vrijgegeven op bepaalde voorwaarden, die in het kader van een door Montenegro en het Internationaal Monetair Fonds overeen te komen programma worden vastgesteld.
 
-#### Artikel 118
+##### Artikel 118
 
 Met het oog op optimale benutting van de beschikbare middelen zien de partijen erop toe dat de bijdragen van de Gemeenschap worden verstrekt in nauwe coördinatie met andere financieringsbronnen, zoals lidstaten, andere landen en internationale financiële instellingen.
 
@@ -1220,11 +1242,11 @@ Daartoe wisselen de partijen regelmatig informatie uit over alle bronnen van bij
 
 ## TITEL X. INSTITUTIONELE, ALGEMENE EN SLOTBEPALINGEN
 
-#### Artikel 119
+##### Artikel 119
 
 Er wordt een Stabilisatie- en associatieraad opgericht, die toezicht houdt op de toepassing en de tenuitvoerlegging van de overeenkomst. De Stabilisatie- en associatieraad komt op passend niveau bijeen met regelmatige tussenpozen en wanneer de omstandigheden dat vereisen. Hij behandelt alle belangrijke vraagstukken die zich in het kader van de overeenkomst voordoen, en alle andere, bilaterale of internationale vraagstukken van gemeenschappelijk belang.
 
-#### Artikel 120
+##### Artikel 120
 
 1. De Stabilisatie- en associatieraad bestaat uit enerzijds leden van de Raad van de Europese Unie en leden van de Europese Commissie, en anderzijds leden van de regering van Montenegro.
 
@@ -1236,11 +1258,11 @@ Er wordt een Stabilisatie- en associatieraad opgericht, die toezicht houdt op de
 
 5. De Europese Investeringsbank neemt, voor aangelegenheden die onder haar bevoegdheid vallen, als waarnemer deel aan de werkzaamheden van de Stabilisatie- en associatieraad.
 
-#### Artikel 121
+##### Artikel 121
 
 Om de doelstellingen van de overeenkomst te bereiken, heeft de Stabilisatie- en associatieraad de bevoegdheid besluiten te nemen binnen de toepassingssfeer van deze overeenkomst voor de in de overeenkomst vermelde gevallen. Deze besluiten zijn bindend voor de partijen, die de nodige maatregelen treffen voor de uitvoering ervan. De Stabilisatie- en associatieraad mag ook passende aanbevelingen doen. De besluiten en aanbevelingen van de raad worden vastgesteld in onderlinge overeenstemming tussen de partijen.
 
-#### Artikel 122
+##### Artikel 122
 
 1. De Stabilisatie- en associatieraad wordt bij de vervulling van zijn taken bijgestaan door een Stabilisatie- en associatiecomité, bestaande uit enerzijds vertegenwoordigers van de Raad van de Europese Unie en vertegenwoordigers van de Europese Commissie, en anderzijds vertegenwoordigers van Montenegro.
 
@@ -1248,17 +1270,17 @@ Om de doelstellingen van de overeenkomst te bereiken, heeft de Stabilisatie- en 
 
 3. De Stabilisatie- en associatieraad mag bevoegdheden aan het Stabilisatie- en associatiecomité delegeren. In dat geval neemt het Stabilisatie- en associatiecomité zijn besluiten volgens de voorwaarden van [artikel 121](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=X&artikel=121&z=2014-12-12&g=2014-12-12).
 
-#### Artikel 123
+##### Artikel 123
 
 Het Stabilisatie- en associatiecomité kan subcomités oprichten. Voor het einde van het eerste jaar na de inwerkingtreding van de overeenkomst zet het Stabilisatie- en associatiecomité de nodige subcomités op voor de adequate uitvoering van de overeenkomst.
 
 Er wordt een subcomité ingesteld voor aangelegenheden met betrekking tot migratie.
 
-#### Artikel 124
+##### Artikel 124
 
 De Stabilisatie- en associatieraad kan tot de oprichting besluiten van andere speciale comités of lichamen die hem bij de uitvoering van zijn taken kunnen bijstaan. In zijn reglement van orde legt de Stabilisatie- en associatieraad de samenstelling van deze comités of lichamen vast en bepaalt hij hun taken en werkwijze.
 
-#### Artikel 125
+##### Artikel 125
 
 Er wordt een Parlementair Stabilisatie- en associatiecomité opgericht. Dit zal als forum dienen waar leden van het Montenegrijnse parlement en het Europese Parlement elkaar kunnen ontmoeten en van gedachten kunnen wisselen. Dit comité komt met door hemzelf te bepalen tussenpozen bijeen.
 
@@ -1268,11 +1290,11 @@ Het Parlementair Stabilisatie- en associatiecomité stelt zijn reglement van ord
 
 Het Parlementair Stabilisatie- en associatiecomité wordt beurtelings voorgezeten door een lid van het Europees Parlement en een lid van het Montenegrijnse Parlement, overeenkomstig de in het reglement van orde neer te leggen bepalingen.
 
-#### Artikel 126
+##### Artikel 126
 
 Binnen het toepassingsgebied van deze overeenkomst beijvert elk van beide partijen zich om ervoor te zorgen dat natuurlijke personen en rechtspersonen van de andere partij, zonder discriminatie ten opzichte van haar eigen onderdanen, toegang krijgen tot de ter zake bevoegde gerechtelijke instanties en administratieve lichamen van de partijen, ter verdediging van hun individuele rechten en hun eigendomsrechten.
 
-#### Artikel 127
+##### Artikel 127
 
 Niets in deze overeenkomst belet een partij maatregelen te nemen:
 
@@ -1282,7 +1304,7 @@ Niets in deze overeenkomst belet een partij maatregelen te nemen:
 
 - c. die zij van vitaal belang acht voor haar eigen veiligheid, in geval van ernstige binnenlandse onlusten die de openbare orde bedreigen, in tijden van oorlog of ernstige internationale spanningen die een oorlogsdreiging inhouden, of om verplichtingen na te komen die zij voor de bewaring van de vrede en de internationale veiligheid is aangegaan.
 
-#### Artikel 128
+##### Artikel 128
 
 1. Op de door de overeenkomst bestreken terreinen en onverminderd eventueel daarin neergelegde bijzondere bepalingen mogen:
 
@@ -1292,7 +1314,7 @@ Niets in deze overeenkomst belet een partij maatregelen te nemen:
 
 2. Lid 1 doet geen afbreuk aan het recht van de partijen om de desbetreffende bepalingen van hun belastingwetgeving toe te passen op belastingplichtigen die niet in een identieke situatie verkeren ten aanzien van hun woonplaats.
 
-#### Artikel 129
+##### Artikel 129
 
 1. De partijen treffen alle algemene en bijzondere maatregelen die vereist zijn om aan hun verplichtingen krachtens de overeenkomst te voldoen. Zij verzekeren dat de in de overeenkomst beschreven doelstellingen worden bereikt.
 
@@ -1308,7 +1330,7 @@ Bij de keuze van de maatregelen moet voorrang worden gegeven aan maatregelen die
 
 5. De leden 2, 3 en 4 hebben geen invloed op en gelden onverminderd de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IV&hoofdstuk=II&artikel=32&z=2014-12-12&g=2014-12-12), [40](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IV&hoofdstuk=III&artikel=40&z=2014-12-12&g=2014-12-12), [41](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IV&hoofdstuk=III&artikel=41&z=2014-12-12&g=2014-12-12), [42](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IV&hoofdstuk=III&artikel=42&z=2014-12-12&g=2014-12-12) en [46](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IV&hoofdstuk=III&artikel=46&z=2014-12-12&g=2014-12-12) en protocol 3 (Definitie van het begrip „producten van oorsprong” en regelingen voor administratieve samenwerking).
 
-#### Artikel 130
+##### Artikel 130
 
 1. Wanneer tussen de partijen een meningsverschil ontstaat over de interpretatie of de tenuitvoerlegging van de overeenkomst, dient de ene partij bij de andere partij en bij de Stabilisatie- en associatieraad een formeel verzoek tot geschillenbeslechting in.
 
@@ -1326,17 +1348,17 @@ Alle tijdens het overleg verstrekte informatie wordt vertrouwelijk behandeld.
 
 4. Voor vraagstukken die onder protocol 7 vallen, kan een partij het geschil voor arbitrage voordragen overeenkomstig het protocol wanneer de partijen er niet in slagen binnen twee maanden na de inleiding van de in lid 1 bedoelde procedure voor geschillenbeslechting een oplossing te vinden.
 
-#### Artikel 131
+##### Artikel 131
 
 Zolang onder deze overeenkomst geen gelijkwaardige rechten zijn verworven voor personen en ondernemers, doet de overeenkomst geen afbreuk aan de rechten die hun worden verleend bij bestaande overeenkomsten tussen een of meer lidstaten, enerzijds, en Montenegro, anderzijds.
 
-#### Artikel 132
+##### Artikel 132
 
 In protocol 8 worden de algemene beginselen vastgesteld voor de deelname van Montenegro aan communautaire programma’s.
 
 De bijlagen I tot en met VII en de protocollen 1, 2, 3, 4, 5, 6, 7 en 8 vormen een integrerend onderdeel van deze overeenkomst.
 
-#### Artikel 133
+##### Artikel 133
 
 Deze overeenkomst wordt voor onbepaalde tijd gesloten.
 
@@ -1344,33 +1366,33 @@ Elk van beide partijen kan deze overeenkomst opzeggen door de andere partij van 
 
 Elk van beide partijen kan de overeenkomst met onmiddellijke ingang schorsen wanneer de andere partij een essentieel element van deze overeenkomst schendt.
 
-#### Artikel 134
+##### Artikel 134
 
 Voor de toepassing van deze overeenkomst worden onder „partijen” verstaan de Gemeenschap, of haar lidstaten, of de Gemeenschap en haar lidstaten, in overeenstemming met hun respectieve bevoegdheden, enerzijds, en de Republiek Montenegro, anderzijds.
 
-#### Artikel 135
+##### Artikel 135
 
 Deze overeenkomst is enerzijds van toepassing op het grondgebied waarop de [Verdragen tot oprichting van de Europese Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) en de [Europese Gemeenschap voor Atoomenergie](https://wetten.overheid.nl/jci1.3:c:BWBV0004033) van toepassing zijn, onder de in die Verdragen neergelegde voorwaarden, en anderzijds op het grondgebied van Montenegro.
 
-#### Artikel 136
+##### Artikel 136
 
 De secretaris-generaal van de Raad van de Europese Unie is de depositaris van deze overeenkomst.
 
-#### Artikel 137
+##### Artikel 137
 
 Deze overeenkomst is opgesteld in tweevoud in de Bulgaarse, de Spaanse, de Tsjechische, de Deense, de Duitse, de Estse, de Griekse, de Engelse, de Franse, de Italiaanse, de Letse, de Litouwse, de Hongaarse, de Maltese, de Nederlandse, de Poolse, de Portugese, de Roemeense, de Slowaakse, de Sloveense, de Finse en de Zweedse taal en in de officiële taal die in Montenegro wordt gebruikt, zijnde alle teksten gelijkelijk authentiek.
 
-#### Artikel 138
+##### Artikel 138
 
 De overeenkomst wordt door de partijen volgens hun eigen procedures goedgekeurd.
 
 Deze overeenkomst treedt in werking op de eerste dag van de tweede maand na de datum waarop de partijen elkaar ervan in kennis stellen dat de in de eerste alinea bedoelde procedures zijn voltooid.
 
-#### Artikel 139. Interimovereenkomst
+##### Artikel 139. Interimovereenkomst
 
 De partijen komen overeen dat, indien in afwachting van de voltooiing van de procedures die nodig zijn voor de inwerkingtreding van deze overeenkomst, de bepalingen van sommige gedeelten van deze overeenkomst, met name die inzake het vrije verkeer van goederen, alsmede de relevante bepalingen inzake vervoer, door middel van een interimovereenkomst tussen de Gemeenschap en Montenegro ten uitvoer worden gelegd, voor de toepassing van [titel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IV&z=2014-12-12&g=2014-12-12), van de [artikelen 73](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=VI&artikel=73&z=2014-12-12&g=2014-12-12), [74](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=VI&artikel=74&z=2014-12-12&g=2014-12-12) en [75](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=VI&artikel=75&z=2014-12-12&g=2014-12-12) van deze overeenkomst en van de protocollen 1, 2, 3, 5, 6 en 7 alsmede de relevante bepalingen van protocol 4, onder de datum van inwerkingtreding van deze overeenkomst wordt verstaan de datum van inwerkingtreding van de interimovereenkomst, voor wat betreft de verplichtingen die in deze artikelen en protocollen zijn opgenomen.
 
-#### Artikel 1
+##### Artikel 1
 
 1. De Gemeenschap en Montenegro passen op bewerkte landbouwproducten de in bijlage I respectievelijk bijlage II vermelde rechten toe in overeenstemming met de daarin vermelde voorwaarden, ongeacht of beperkingen in het kader van een contingent van toepassing zijn.
 
@@ -1384,7 +1406,7 @@ De partijen komen overeen dat, indien in afwachting van de voltooiing van de pro
 
 3. De Stabilisatie- en associatieraad kan de bij dit protocol vastgestelde rechten vervangen door een stelsel, vastgesteld op basis van de respectieve marktprijzen van de Gemeenschap en Montenegro voor landbouwproducten die daadwerkelijk bij de vervaardiging van de onder dit protocol vallende bewerkte landbouwproducten zijn gebruikt.
 
-#### Artikel 2
+##### Artikel 2
 
 De overeenkomstig artikel 1 toegepaste rechten kunnen bij besluit van de Stabilisatie- en associatieraad worden verlaagd:
 
@@ -1394,11 +1416,11 @@ De overeenkomstig artikel 1 toegepaste rechten kunnen bij besluit van de Stabili
 
 De onder het eerste streepje bedoelde verlagingen worden berekend op het deel van het recht, aangemerkt als landbouwelement, dat overeenstemt met de landbouwproducten die daadwerkelijk bij de vervaardiging van de bedoelde bewerkte landbouwproducten zijn gebruikt en in mindering zijn gebracht op de voor die basislandbouwproducten geldende rechten.
 
-#### Artikel 3
+##### Artikel 3
 
 De Gemeenschap en Montenegro stellen elkaar in kennis van de administratieve regelingen die zijn vastgesteld voor de onder dit protocol vallende producten. Deze regelingen dienen een gelijke behandeling van alle betrokken partijen te waarborgen en dienen zo eenvoudig en soepel mogelijk te zijn.
 
-#### Artikel 1
+##### Artikel 1
 
 Dit protocol omvat:
 
@@ -1406,7 +1428,7 @@ Dit protocol omvat:
 
 - 2. een overeenkomst betreffende de wederzijdse erkenning, bescherming en controle van benamingen van wijnen, gedistilleerde dranken en gearomatiseerde wijnen (bijlage II bij dit protocol).
 
-#### Artikel 2
+##### Artikel 2
 
 De in artikel 1 bedoelde overeenkomsten zijn van toepassing op:
 
@@ -1430,7 +1452,7 @@ De in artikel 1 bedoelde overeenkomsten zijn van toepassing op:
 
 ## TITEL I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 Voor de toepassing van dit protocol wordt verstaan onder:
 
@@ -1462,7 +1484,7 @@ Voor de toepassing van dit protocol wordt verstaan onder:
 
 ## TITEL II. DEFINITIE VAN HET BEGRIP „PRODUCTEN VAN OORSPRONG”
 
-#### Artikel 2. Algemene eisen
+##### Artikel 2. Algemene eisen
 
 1. Voor de toepassing van deze overeenkomst worden de volgende producten beschouwd van oorsprong te zijn uit de Gemeenschap:
 
@@ -1476,7 +1498,7 @@ Voor de toepassing van dit protocol wordt verstaan onder:
 
 - b. in Montenegro verkregen producten waarin materialen zijn verwerkt die daar niet geheel en al zijn verkregen, mits deze materialen in Montenegro een be- of verwerking hebben ondergaan die toereikend is in de zin van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=6&z=2014-12-01&g=2014-12-01).
 
-#### Artikel 3. Cumulatie in de Gemeenschap
+##### Artikel 3. Cumulatie in de Gemeenschap
 
 1. Onverminderd het bepaalde in [artikel 2, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=2&z=2014-12-01&g=2014-12-01), worden producten als van oorsprong uit de Gemeenschap beschouwd indien zij aldaar zijn verkregen door be- of verwerking van materialen van oorsprong uit Montenegro, de Gemeenschap of een ander land of grondgebied dat deelneemt aan het stabilisatie- en associatieproces van de Europese Unie2)Zoals vastgesteld in de conclusies van de Raad Algemene Zaken van april 1997 en de mededeling van de Commissie van mei 1999 over het stabilisatie- en associatieproces met de Westelijke Balkan. , of door be- of verwerking van materialen van oorsprong uit Turkije waarop Beschikking nr. 1/95 van de Associatieraad EG-Turkije van 22 december 19951)Besluit nr. 1/95 van de Associatieraad EG-Turkije van 22 december 1995 is van toepassing op producten niet zijnde landbouwproducten als omschreven in de Overeenkomst tot oprichting van een associatie tussen de Europese Economische Gemeenschap en Turkije en producten niet zijnde kool- en staalproducten als omschreven in de overeenkomst tussen de Europese Gemeenschap voor Kolen en Staal en de Republiek Turkije betreffende handel in producten die vallen onder het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal. van toepassing is, mits deze materialen in de Gemeenschap bewerkingen hebben ondergaan die ingrijpender zijn dan die bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=7&z=2014-12-01&g=2014-12-01). Het is niet noodzakelijk dat deze materialen toereikende be- of verwerkingen hebben ondergaan.
 
@@ -1498,7 +1520,7 @@ De Gemeenschap zal Montenegro door tussenkomst van de Europese Commissie nadere 
 
 De cumulatie geldt niet voor de in bijlage V vermelde producten.
 
-#### Artikel 4. Cumulatie in Montenegro
+##### Artikel 4. Cumulatie in Montenegro
 
 1. Onverminderd het bepaalde in [artikel 2, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=2&z=2014-12-01&g=2014-12-01), worden producten als van oorsprong uit Montenegro beschouwd indien zij aldaar zijn verkregen door be- of verwerking van materialen van oorsprong uit de Gemeenschap, Montenegro of een ander land of grondgebied dat deelneemt aan het stabilisatie- en associatieproces van de Europese Unie3)Zoals vastgesteld in de conclusies van de Raad Algemene Zaken van april 1997 en de mededeling van de Commissie van mei 1999 over het stabilisatie- en associatieproces met de Westelijke Balkan. , of door be- of verwerking van materialen van oorsprong uit Turkije waarop Beschikking nr. 1/95 van de Associatieraad EG-Turkije van 22 december 1995 1)Besluit nr. 1/95 van de Associatieraad EG-Turkije van 22 december 1995 is van toepassing op producten niet zijnde landbouwproducten als omschreven in de Overeenkomst tot oprichting van een associatie tussen de Europese Economische Gemeenschap en Turkije en producten niet zijnde kool- en staalproducten als omschreven in de overeenkomst tussen de Europese Gemeenschap voor Kolen en Staal en de Republiek Turkije betreffende handel in producten die vallen onder het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal. van toepassing is, mits deze materialen in de Gemeenschap bewerkingen hebben ondergaan die ingrijpender zijn dan die bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=7&z=2014-12-01&g=2014-12-01). Het is niet noodzakelijk dat deze materialen toereikende be- of verwerkingen hebben ondergaan.
 
@@ -1520,7 +1542,7 @@ Montenegro verstrekt de Gemeenschap door tussenkomst van de Europese Commissie n
 
 De cumulatie geldt niet voor de in bijlage V vermelde producten.
 
-#### Artikel 5. Geheel en al verkregen producten
+##### Artikel 5. Geheel en al verkregen producten
 
 1. Als geheel en al in de Gemeenschap of in Montenegro verkregen worden beschouwd:
 
@@ -1558,7 +1580,7 @@ De cumulatie geldt niet voor de in bijlage V vermelde producten.
 
 - e. waarvan de bemanning voor ten minste 75% bestaat uit onderdanen van lidstaten of van Montenegro.
 
-#### Artikel 6. Toereikende bewerking of verwerking
+##### Artikel 6. Toereikende bewerking of verwerking
 
 1. Voor de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=2&z=2014-12-01&g=2014-12-01) worden producten die niet geheel en al verkregen zijn, geacht een toereikende bewerking of verwerking te hebben ondergaan indien aan de voorwaarden van de lijst in bijlage II is voldaan.
 
@@ -1574,7 +1596,7 @@ Dit lid is niet van toepassing op de producten die onder de hoofdstukken 50 tot 
 
 3. De leden 1 en 2 zijn van toepassing onder voorbehoud van het bepaalde in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=7&z=2014-12-01&g=2014-12-01).
 
-#### Artikel 7. Ontoereikende bewerking of verwerking
+##### Artikel 7. Ontoereikende bewerking of verwerking
 
 1. Behoudens het bepaalde in lid 2 worden de volgende be- of verwerkingen als ontoereikend beschouwd om de oorsprong te verlenen, ongeacht of aan de voorwaarden van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=6&z=2014-12-01&g=2014-12-01) is voldaan:
 
@@ -1612,7 +1634,7 @@ Dit lid is niet van toepassing op de producten die onder de hoofdstukken 50 tot 
 
 2. Om te bepalen of de be- of verwerkingen die een bepaald product heeft ondergaan ontoereikend zijn in de zin van lid 1 worden alle be- of verwerkingen die dit product in de Gemeenschap of in Montenegro heeft ondergaan tezamen genomen.
 
-#### Artikel 8. Determinerende eenheid
+##### Artikel 8. Determinerende eenheid
 
 1. De determinerende eenheid voor de toepassing van de bepalingen van dit protocol is het product dat volgens de nomenclatuur van het geharmoniseerde systeem als de basiseenheid wordt beschouwd.
 
@@ -1624,15 +1646,15 @@ Hieruit volgt:
 
 2. Wanneer volgens algemene regel 5 voor de interpretatie van het geharmoniseerde systeem de verpakking meetelt voor het vaststellen van de indeling, telt deze ook mee voor het vaststellen van de oorsprong.
 
-#### Artikel 9. Accessoires, vervangingsonderdelen en gereedschap
+##### Artikel 9. Accessoires, vervangingsonderdelen en gereedschap
 
 Accessoires, vervangingsonderdelen en gereedschappen die samen met materieel, machines, apparaten of voertuigen worden geleverd en deel uitmaken van de normale uitrusting daarvan en in de prijs daarvan zijn inbegrepen of niet afzonderlijk in rekening worden gebracht, worden geacht één geheel te vormen met het materieel en de machines, apparaten of voertuigen in kwestie.
 
-#### Artikel 10. Stellen en assortimenten
+##### Artikel 10. Stellen en assortimenten
 
 Stellen of assortimenten in de zin van algemene regel 3 voor de interpretatie van het geharmoniseerde systeem, worden als van oorsprong beschouwd indien alle samenstellende delen van oorsprong zijn. Een stel of assortiment bestaande uit producten van oorsprong en producten die niet van oorsprong zijn, wordt als van oorsprong beschouwd indien de waarde van de producten die niet van oorsprong zijn niet meer dan 15 procent van de prijs af fabriek van het stel of assortiment bedraagt.
 
-#### Artikel 11. Neutrale elementen
+##### Artikel 11. Neutrale elementen
 
 Om te bepalen of een product van oorsprong is, is het niet noodzakelijk de oorsprong na te gaan van bij de vervaardiging gebruikte:
 
@@ -1646,7 +1668,7 @@ Om te bepalen of een product van oorsprong is, is het niet noodzakelijk de oorsp
 
 ## TITEL III. TERRITORIALE VOORWAARDEN
 
-#### Artikel 12. Territorialiteitsbeginsel
+##### Artikel 12. Territorialiteitsbeginsel
 
 1. Aan de in titel II genoemde voorwaarden voor het verkrijgen van de oorsprong moet zonder onderbreking in de Gemeenschap of in Montenegro zijn voldaan, behoudens het bepaalde in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=3&z=2014-12-01&g=2014-12-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=4&z=2014-12-01&g=2014-12-01), en in lid 3 van dit artikel.
 
@@ -1676,7 +1698,7 @@ Om te bepalen of een product van oorsprong is, is het niet noodzakelijk de oorsp
 
 8. Buiten de Gemeenschap of Montenegro verrichte be- of verwerkingen als bedoeld in dit artikel vinden plaats in het kader van de regeling passieve veredeling of een soortgelijke regeling.
 
-#### Artikel 13. Rechtstreeks vervoer
+##### Artikel 13. Rechtstreeks vervoer
 
 1. De bij deze overeenkomst vastgestelde preferentiële regeling is uitsluitend van toepassing op producten die aan de voorwaarden van dit protocol voldoen en die rechtstreeks tussen de Gemeenschap en Montenegro of over het grondgebied van een in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=3&z=2014-12-01&g=2014-12-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=4&z=2014-12-01&g=2014-12-01) genoemd ander land of gebied zijn vervoerd. Goederen die één enkele zending vormen, kunnen via een ander grondgebied worden vervoerd, eventueel met overslag of tijdelijke opslag op dit grondgebied, voor zover zij in het land van doorvoer of opslag onder toezicht van de douane blijven en aldaar geen andere behandelingen ondergaan dan lossen en opnieuw laden of behandelingen om ze in goede staat te bewaren.
 
@@ -1696,7 +1718,7 @@ Producten van oorsprong mogen per pijpleiding via een ander grondgebied dan dat 
 
 - c. hetzij, bij gebreke van bovengenoemde stukken, enig ander bewijsstuk.
 
-#### Artikel 14. Tentoonstellingen
+##### Artikel 14. Tentoonstellingen
 
 1. Deze overeenkomst is van toepassing op producten van oorsprong die naar een tentoonstelling in een ander of grondgebied dan de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=3&z=2014-12-01&g=2014-12-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=4&z=2014-12-01&g=2014-12-01) genoemde landen zijn verzonden en die na de tentoonstelling zijn verkocht en in de Gemeenschap of in Montenegro worden ingevoerd, mits ten genoegen van de douaneautoriteiten wordt aangetoond dat:
 
@@ -1714,7 +1736,7 @@ Producten van oorsprong mogen per pijpleiding via een ander grondgebied dan dat 
 
 ## TITEL IV. TERUGGAVE EN VRIJSTELLING VAN RECHTEN
 
-#### Artikel 15. Verbod op de teruggave of vrijstelling van douanerechten
+##### Artikel 15. Verbod op de teruggave of vrijstelling van douanerechten
 
 1. Niet van oorsprong zijnde materialen die gebruikt zijn bij de vervaardiging van producten van oorsprong uit de Gemeenschap, Montenegro of een van de andere in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=3&z=2014-12-01&g=2014-12-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=4&z=2014-12-01&g=2014-12-01) genoemde landen of gebieden waarvoor overeenkomstig titel V een bewijs van oorsprong is afgegeven of opgesteld, komen in de Gemeenschap of in Montenegro niet in aanmerking voor teruggave of vrijstelling van douanerechten in welke vorm dan ook.
 
@@ -1728,7 +1750,7 @@ Producten van oorsprong mogen per pijpleiding via een ander grondgebied dan dat 
 
 ## TITEL V. BEWIJS VAN OORSPRONG
 
-#### Artikel 16. Algemene voorwaarden
+##### Artikel 16. Algemene voorwaarden
 
 1. Deze overeenkomst is van toepassing op producten van oorsprong uit de Gemeenschap die in Montenegro worden ingevoerd en op producten van oorsprong uit Montenegro die in de Gemeenschap worden ingevoerd, op vertoon van:
 
@@ -1738,7 +1760,7 @@ Producten van oorsprong mogen per pijpleiding via een ander grondgebied dan dat 
 
 2. In afwijking van lid 1 vallen producten van oorsprong in de zin van dit protocol in de in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&artikel=27&z=2014-12-01&g=2014-12-01) bedoelde gevallen onder de toepassing van deze overeenkomst zonder dat een van de hierboven genoemde documenten behoeft te worden overgelegd.
 
-#### Artikel 17. Procedure voor de afgifte van een certificaat inzake goederenverkeer EUR.1
+##### Artikel 17. Procedure voor de afgifte van een certificaat inzake goederenverkeer EUR.1
 
 1. Een certificaat inzake goederenverkeer EUR.1 wordt afgegeven door de douane van het land van uitvoer op schriftelijke aanvraag van de exporteur of, onder diens verantwoordelijkheid, van zijn gemachtigde vertegenwoordiger.
 
@@ -1754,7 +1776,7 @@ Producten van oorsprong mogen per pijpleiding via een ander grondgebied dan dat 
 
 7. Een certificaat inzake goederenverkeer EUR.1 wordt door de douane afgegeven en ter beschikking van de exporteur gesteld zodra de goederen werkelijk worden uitgevoerd of wanneer het zeker is dat zij zullen worden uitgevoerd.
 
-#### Artikel 18. Afgifte achteraf van een certificaat inzake goederenverkeer EUR.1
+##### Artikel 18. Afgifte achteraf van een certificaat inzake goederenverkeer EUR.1
 
 1. In afwijking van [artikel 17, lid 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&artikel=17&z=2014-12-01&g=2014-12-01), kan een certificaat inzake goederenverkeer EUR.1 bij wijze van uitzondering na de uitvoer van de goederen waarop het betrekking heeft worden afgegeven, indien
 
@@ -1772,7 +1794,7 @@ Producten van oorsprong mogen per pijpleiding via een ander grondgebied dan dat 
 
 5. De in lid 4 bedoelde aantekening wordt aangebracht in het vak „Opmerkingen” van het certificaat inzake goederenverkeer EUR.1.
 
-#### Artikel 19. Afgifte van een duplicaat van een certificaat inzake goederenverkeer EUR.1
+##### Artikel 19. Afgifte van een duplicaat van een certificaat inzake goederenverkeer EUR.1
 
 1. In geval van diefstal, verlies of vernietiging van een certificaat inzake goederenverkeer EUR.1, kan de exporteur de douaneautoriteiten die dit certificaat hadden afgegeven, verzoeken een duplicaat op te maken aan de hand van de uitvoerdocumenten die in hun bezit zijn.
 
@@ -1784,11 +1806,11 @@ Producten van oorsprong mogen per pijpleiding via een ander grondgebied dan dat 
 
 4. Het duplicaat, dat dezelfde datum van afgifte draagt als het oorspronkelijke certificaat inzake goederenverkeer EUR.1, geldt vanaf die datum.
 
-#### Artikel 20. Afgifte van een certificaat inzake goederenverkeer EUR.1 aan de hand van een eerder opgesteld of afgegeven bewijs van oorsprong
+##### Artikel 20. Afgifte van een certificaat inzake goederenverkeer EUR.1 aan de hand van een eerder opgesteld of afgegeven bewijs van oorsprong
 
 Voor producten van oorsprong die in de Gemeenschap of in Montenegro onder toezicht van een douanekantoor zijn geplaatst, kan het oorspronkelijke bewijs van oorsprong door een of meer certificaten inzake goederenverkeer EUR.1 worden vervangen bij verzending van deze producten of een gedeelte daarvan naar een andere plaats in de Gemeenschap of in Montenegro. Dit certificaat wordt of deze certificaten worden afgegeven door het douanekantoor dat op de producten toezicht houdt.
 
-#### Artikel 21. Gescheiden boekhouding
+##### Artikel 21. Gescheiden boekhouding
 
 1. Wanneer het met aanzienlijke kosten of moeilijkheden gepaard gaat om afzonderlijke voorraden aan te houden van identieke en onderling verwisselbare materialen die van oorsprong en die niet van oorsprong zijn, kunnen de douaneautoriteiten, op schriftelijk verzoek van de betrokkene, toestaan dat voor het beheer van deze voorraden de methode van de gescheiden boekhouding wordt gebruikt.
 
@@ -1802,7 +1824,7 @@ Voor producten van oorsprong die in de Gemeenschap of in Montenegro onder toezic
 
 6. De douaneautoriteiten houden toezicht op het gebruik van de vergunning en kunnen deze steeds intrekken wanneer de vergunninghouder deze niet correct gebruikt of niet aan een van de andere in dit protocol omschreven voorwaarden voldoet.
 
-#### Artikel 22. Het opstellen van een factuurverklaring
+##### Artikel 22. Het opstellen van een factuurverklaring
 
 1. De in [artikel 16, lid 1, onder b)](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&artikel=16&z=2014-12-01&g=2014-12-01), genoemde factuurverklaring kan worden opgesteld door:
 
@@ -1820,7 +1842,7 @@ Voor producten van oorsprong die in de Gemeenschap of in Montenegro onder toezic
 
 6. Een factuurverklaring kan door de exporteur worden opgesteld bij de uitvoer van de producten waarop zij betrekking heeft of later, maar moet uiterlijk twee jaar na de invoer van de producten waarop zij betrekking heeft in het land van invoer worden aangeboden.
 
-#### Artikel 23. Toegelaten exporteurs
+##### Artikel 23. Toegelaten exporteurs
 
 1. De douane van het land van uitvoer kan exporteurs, hierna „toegelaten exporteurs” genoemd, die veelvuldig producten verzenden waarop deze overeenkomst van toepassing is, vergunning verlenen factuurverklaringen op te stellen, ongeacht de waarde van de betrokken producten. Om voor een dergelijke vergunning in aanmerking te komen, moet de exporteur naar het oordeel van de douane de nodige waarborgen bieden met betrekking tot de controle op de oorsprong van de producten en de naleving van alle andere voorwaarden van dit protocol.
 
@@ -1832,7 +1854,7 @@ Voor producten van oorsprong die in de Gemeenschap of in Montenegro onder toezic
 
 5. De douaneautoriteiten kunnen de vergunning te allen tijde intrekken. Zij zijn verplicht dit te doen wanneer de toegelaten exporteur niet meer de in lid 1 bedoelde garanties biedt, niet meer aan de in lid 2 bedoelde voorwaarden voldoet, of de vergunning oneigenlijk gebruikt.
 
-#### Artikel 24. Geldigheid van bewijzen van oorsprong
+##### Artikel 24. Geldigheid van bewijzen van oorsprong
 
 1. Een bewijs van oorsprong is vier maanden geldig vanaf de datum van afgifte in het land van uitvoer. Het moet binnen deze periode worden ingediend bij de douane van het land van invoer.
 
@@ -1840,15 +1862,15 @@ Voor producten van oorsprong die in de Gemeenschap of in Montenegro onder toezic
 
 3. In andere gevallen van verlate indiening kan de douane van het land van invoer de bewijzen van oorsprong aanvaarden indien de producten vóór het verstrijken van genoemde termijn bij haar zijn aangebracht.
 
-#### Artikel 25. Overlegging van bewijzen van oorsprong
+##### Artikel 25. Overlegging van bewijzen van oorsprong
 
 Bewijzen van oorsprong worden bij de douane van het land van invoer ingediend overeenkomstig de aldaar geldende procedures. Deze autoriteiten kunnen om een vertaling van dit bewijs vragen. Zij kunnen voorts eisen dat de aangifte ten invoer vergezeld gaat van een verklaring van de importeur dat de producten aan de voorwaarden voor de toepassing van deze overeenkomst voldoen.
 
-#### Artikel 26. Invoer in deelzendingen
+##### Artikel 26. Invoer in deelzendingen
 
 Wanneer, op verzoek van de importeur en op de door de douaneautoriteiten van het land van invoer vastgestelde voorwaarden, gedemonteerde of niet-gemonteerde producten in de zin van algemene regel 2 a) voor de interpretatie van het geharmoniseerd systeem, vallende onder de afdelingen XVI en XVII of de posten 7308 en 9406 van het geharmoniseerd systeem, in deelzendingen worden ingevoerd, wordt één enkel bewijs van oorsprong bij de douaneautoriteiten ingediend bij de invoer van de eerste deelzending.
 
-#### Artikel 27. Vrijstelling van bewijs van oorsprong
+##### Artikel 27. Vrijstelling van bewijs van oorsprong
 
 1. Goederen die in kleine zendingen door particulieren aan particulieren worden verzonden of die deel uitmaken van de persoonlijke bagage van reizigers worden als producten van oorsprong toegelaten zonder dat een bewijs van oorsprong behoeft te worden overgelegd, voor zover aan zulke goederen ieder handelskarakter vreemd is en verklaard wordt dat zij aan de voorwaarden voor de toepassing van dit protocol voldoen en er over de juistheid van deze verklaring geen twijfel bestaat. Voor postzendingen kan deze verklaring op het douaneaangifteformulier CN22/CN23 of op een daaraan gehecht blad worden gesteld.
 
@@ -1856,7 +1878,7 @@ Wanneer, op verzoek van de importeur en op de door de douaneautoriteiten van het
 
 3. Voorts mag de totale waarde van deze producten niet meer bedragen dan 500 euro voor kleine zendingen of 1.200 euro voor producten die deel uitmaken van de persoonlijke bagage van reizigers.
 
-#### Artikel 28. Bewijsstukken
+##### Artikel 28. Bewijsstukken
 
 De in [artikel 17, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&artikel=17&z=2014-12-01&g=2014-12-01), en [artikel 22, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&artikel=22&z=2014-12-01&g=2014-12-01), bedoelde documenten aan de hand waarvan wordt aangetoond dat producten die door een certificaat inzake goederenverkeer EUR.1 of een factuurverklaring worden gedekt, producten van oorsprong zijn uit de Gemeenschap, Montenegro of een van de andere in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=3&z=2014-12-01&g=2014-12-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=4&z=2014-12-01&g=2014-12-01) genoemde landen of gebieden en aan de andere voorwaarden van dit protocol voldoen, kunnen onder meer de volgende zijn:
 
@@ -1870,7 +1892,7 @@ De in [artikel 17, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeld
 
 - e. passende bewijsstukken inzake be- of verwerking buiten de Gemeenschap of Montenegro overeenkomstig [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=III&artikel=12&z=2014-12-01&g=2014-12-01), waaruit blijkt dat aan de eisen van dat artikel is voldaan.
 
-#### Artikel 29. Bewaring van de bewijzen van oorsprong en de andere bewijsstukken
+##### Artikel 29. Bewaring van de bewijzen van oorsprong en de andere bewijsstukken
 
 1. Exporteurs die om de afgifte van een certificaat inzake goederenverkeer EUR.1 verzoeken, dienen de in [artikel 17, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&artikel=17&z=2014-12-01&g=2014-12-01), bedoelde documenten ten minste drie jaar te bewaren.
 
@@ -1880,13 +1902,13 @@ De in [artikel 17, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeld
 
 4. De douane van het land van invoer bewaart de certificaten inzake goederenverkeer EUR.1 en factuurverklaringen die bij haar werden ingediend gedurende ten minste drie jaar.
 
-#### Artikel 30. Verschillen en vormfouten
+##### Artikel 30. Verschillen en vormfouten
 
 1. Geringe verschillen tussen de gegevens op het bewijs van oorsprong en de gegevens op de documenten die voor het vervullen van de invoerformaliteiten bij het douanekantoor worden ingediend, maken het certificaat inzake goederenverkeer EUR.1 of de factuurverklaring niet automatisch ongeldig, indien blijkt dat het document wel degelijk met de aangebrachte goederen overeenstemt.
 
 2. Kennelijke vormfouten, zoals typefouten, op het bewijs van oorsprong leiden niet tot weigering van dit document indien deze fouten niet van dien aard zijn dat zij twijfel doen rijzen over de juistheid van de daarin vermelde gegevens.
 
-#### Artikel 31. Bedragen in euro
+##### Artikel 31. Bedragen in euro
 
 1. Voor de toepassing van [artikel 22, lid 1, onder b)](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&artikel=22&z=2014-12-01&g=2014-12-01), en [artikel 27, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=V&artikel=27&z=2014-12-01&g=2014-12-01), wordt, wanneer de producten gefactureerd zijn in een andere valuta dan de euro, de tegenwaarde van de in euro uitgedrukte bedragen in de nationale valuta van de lidstaten van de Gemeenschap, van Montenegro of van een van de andere landen of gebieden bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=3&z=2014-12-01&g=2014-12-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=4&z=2014-12-01&g=2014-12-01), jaarlijks door elk van de betrokken landen vastgesteld.
 
@@ -1900,13 +1922,13 @@ De in [artikel 17, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeld
 
 ## TITEL VI. ADMINISTRATIEVE SAMENWERKING
 
-#### Artikel 32. Wederzijdse bijstand
+##### Artikel 32. Wederzijdse bijstand
 
 1. De douaneautoriteiten van de lidstaten van de Gemeenschap en van Montenegro doen elkaar via de Europese Commissie afdrukken toekomen van de stempels die in hun douanekantoren worden gebruikt bij de afgifte van certificaten inzake goederenverkeer EUR.1, alsmede de adressen van de douanediensten die belast zijn met de controle van deze certificaten en de factuurverklaringen.
 
 2. Met het oog op de correcte toepassing van dit protocol verlenen de Gemeenschap en Montenegro elkaar via de bevoegde douane-instanties bijstand bij de controle op de echtheid van certificaten inzake goederenverkeer EUR.1 en factuurverklaringen en de juistheid van de daarop vermelde gegevens.
 
-#### Artikel 33. Controle van de bewijzen van oorsprong
+##### Artikel 33. Controle van de bewijzen van oorsprong
 
 1. Bewijzen van oorsprong worden achteraf steekproefsgewijs gecontroleerd, alsmede wanneer de douaneautoriteiten van het land van invoer redenen hebben om te twijfelen aan de echtheid van deze documenten, de oorsprong van de betrokken producten of de naleving van de andere voorwaarden van dit protocol.
 
@@ -1920,17 +1942,17 @@ De in [artikel 17, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeld
 
 6. Indien bij gegronde twijfel binnen tien maanden na het verzoek om controle geen antwoord is ontvangen of indien het antwoord niet voldoende gegevens bevat om de echtheid van het betrokken document of de werkelijke oorsprong van de producten vast te stellen, kent de aanvragende douanedienst de preferentiële behandeling niet toe, behoudens buitengewone omstandigheden.
 
-#### Artikel 34. Beslechting van geschillen
+##### Artikel 34. Beslechting van geschillen
 
 Geschillen ten aanzien van de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=VI&artikel=33&z=2014-12-01&g=2014-12-01) bedoelde controles die niet onderling geregeld kunnen worden tussen de douaneautoriteiten die de controle hebben aangevraagd en de douaneautoriteiten die deze hebben moeten uitvoeren, en problemen in verband met de interpretatie van dit protocol worden aan het Stabilisatie- en associatiecomité voorgelegd.
 
 In alle gevallen is de wetgeving van het land van invoer van toepassing op de beslechting van geschillen tussen een importeur en de douane van het land van invoer.
 
-#### Artikel 35. Sancties
+##### Artikel 35. Sancties
 
 Sancties worden getroffen tegen ieder die een document met onjuiste gegevens opstelt of laat opstellen met het doel goederen onder de preferentiële regeling te doen vallen.
 
-#### Artikel 36. Vrije zones
+##### Artikel 36. Vrije zones
 
 1. De Gemeenschap en Montenegro nemen alle nodige maatregelen om te voorkomen dat producten die onder geleide van een bewijs van oorsprong worden verhandeld en die tijdens het vervoer in een op hun grondgebied gelegen vrije zone verblijven, door andere goederen worden vervangen of andere behandelingen ondergaan dan die welke gebruikelijk zijn om ze in goede staat te bewaren.
 
@@ -1938,7 +1960,7 @@ Sancties worden getroffen tegen ieder die een document met onjuiste gegevens ops
 
 ## TITEL VII. CEUTA EN MELILLA
 
-#### Artikel 37. Toepassing van dit protocol
+##### Artikel 37. Toepassing van dit protocol
 
 1. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=II&artikel=2&z=2014-12-01&g=2014-12-01) gebruikte term „Gemeenschap” heeft geen betrekking op Ceuta of Melilla.
 
@@ -1946,7 +1968,7 @@ Sancties worden getroffen tegen ieder die een document met onjuiste gegevens ops
 
 3. Bij toepassing van lid 2 op producten van oorsprong uit Ceuta en Melilla is dit protocol van overeenkomstige toepassing, met inachtneming van de bijzondere voorwaarden van [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=VII&artikel=38&z=2014-12-01&g=2014-12-01).
 
-#### Artikel 38. Bijzondere voorwaarden
+##### Artikel 38. Bijzondere voorwaarden
 
 1. Mits zij rechtstreeks zijn vervoerd overeenkomstig het bepaalde in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=III&artikel=13&z=2014-12-01&g=2014-12-01), worden beschouwd als:
 
@@ -1978,15 +2000,15 @@ Sancties worden getroffen tegen ieder die een document met onjuiste gegevens ops
 
 ## BESLECHTING VAN GESCHILLEN
 
-#### Artikel 39. Wijzigingen van dit protocol
+##### Artikel 39. Wijzigingen van dit protocol
 
 De Stabilisatie- en associatieraad kan besluiten bepalingen van dit protocol te wijzigen.
 
-#### Artikel 1. Doelstellingen
+##### Artikel 1. Doelstellingen
 
 Het doel van dit protocol is geschillen tussen de partijen te vermijden en te beslechten teneinde tot een wederzijds aanvaardbare oplossing te komen.
 
-#### Artikel 2. Toepassingsgebied
+##### Artikel 2. Toepassingsgebied
 
 De bepalingen van dit protocol hebben alleen betrekking op mogelijke verschillen in de interpretatie en toepassing van de hierna volgende bepalingen, met inbegrip van die gevallen waar de ene partij van oordeel is dat een maatregel van de andere partij, of het niet-treffen van een maatregel door de andere partij, een inbreuk is op de verplichtingen die voor de andere partij uit deze bepalingen voortvloeien:
 
@@ -2006,7 +2028,7 @@ De bepalingen van dit protocol hebben alleen betrekking op mogelijke verschillen
 
 - –. [Artikel 75, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=VI&artikel=75&z=2014-12-12&g=2014-12-12) (Intellectuele, industriële en commerciële eigendom) en [artikel 76, lid 1, lid 2 (eerste alinea) en de leden 3 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=VI&artikel=76&z=2014-12-12&g=2014-12-12) (Overheidsopdrachten).
 
-#### Artikel 3. Definities
+##### Artikel 3. Definities
 
 Voor de toepassing van dit protocol wordt verstaan onder:
 
@@ -2022,15 +2044,15 @@ Voor de toepassing van dit protocol wordt verstaan onder:
 
 ### INFRASTRUCTUUR
 
-#### Artikel 4. Algemene bepaling
+##### Artikel 4. Algemene bepaling
 
 De overeenkomstsluitende partijen komen overeen maatregelen voor de ontwikkeling van de vervoersinfrastructuur te nemen en op elkaar af te stemmen, als een wezenlijk middel om de problemen op te lossen die zich voordoen in het goederenvervoer door Montenegro, met name op de wegen 1, 2b, 4 en 6 die respectievelijk de verbinding vormen tussen de grens met Kroatië en Bar, tussen de grens met Bosnië en Herzegovina en de grens met Albanië, tussen de grens met Servië en Misici en tussen Ribaravina en Bac op de grens met Servië; de spoorwegen 2 en 4 die Podgorica verbinden met de grens met Albanië en de grens met Servië met Bar; de haven van Bar en het vliegveld van Podgorica, die deel uitmaken van het fundamentele netwerk voor transportinfrastructuur als gedefinieerd in het memorandum van overeenstemming waarnaar wordt verwezen in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&artikel=5&z=2014-12-01&g=2014-12-01).
 
-#### Artikel 5. Planning
+##### Artikel 5. Planning
 
 De ontwikkeling van een multimodaal regionaal vervoersnetwerk op het grondgebied van Montenegro dat aan de behoeften van Montenegro en van Zuidoost-Europa voldoet en de belangrijkste weg- en spoorwegverbindingen, binnenwateren, binnenhavens, havens, luchthavens en andere relevante knooppunten van het netwerk omvat, is voor de Gemeenschap en voor Montenegro van bijzonder belang. Dit netwerk is gedefinieerd in het memorandum van overeenstemming voor de ontwikkeling van een fundamenteel netwerk voor transportinfrastructuur voor Zuidoost-Europa dat in juni 2004 door de ministers van de regio en de Europese Commissie werd ondertekend. De ontwikkeling van het netwerk en de selectie van de prioriteiten worden doorgevoerd door een stuurgroep met vertegenwoordigers van alle ondertekenende partijen.
 
-#### Artikel 6. Financiële aspecten
+##### Artikel 6. Financiële aspecten
 
 1. De Gemeenschap kan, in het kader van [artikel 116 van de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IX&artikel=116&z=2014-12-01&g=2014-12-01), financieel bijdragen aan de uitvoering van de noodzakelijke in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&artikel=5&z=2014-12-01&g=2014-12-01) bedoelde infrastructuurwerken. Zij kan deze bijdrage verstrekken in de vorm van kredieten van de Europese Investeringsbank, en op elke andere wijze waarop zij nog meer middelen kan vrijmaken.
 
@@ -2038,15 +2060,15 @@ De ontwikkeling van een multimodaal regionaal vervoersnetwerk op het grondgebied
 
 ### VERVOER PER SPOOR EN GECOMBINEERD VERVOER
 
-#### Artikel 7. Algemene bepaling
+##### Artikel 7. Algemene bepaling
 
 De partijen nemen de nodige maatregelen voor de ontwikkeling en de bevordering van het vervoer per spoor en van het gecombineerde vervoer en stemmen deze op elkaar af, met het doel een groot deel van het bilaterale verkeer met en het transitoverkeer door Montenegro in de toekomst op milieuvriendelijker wijze te doen plaatsvinden.
 
-#### Artikel 8. Bijzondere aspecten met betrekking tot de infrastructuur
+##### Artikel 8. Bijzondere aspecten met betrekking tot de infrastructuur
 
 In het kader van de modernisering van de Montenegrijnse spoorwegen moet het nodige worden gedaan om deze aan het gecombineerde vervoer aan te passen, met bijzondere aandacht voor de ontwikkeling of aanleg van terminals, de afmetingen van de tunnels en de capaciteit, waarvoor aanzienlijke investeringen vereist zijn.
 
-#### Artikel 9. Ondersteunende maatregelen
+##### Artikel 9. Ondersteunende maatregelen
 
 De partijen nemen alle nodige maatregelen ter bevordering van de ontwikkeling van gecombineerd vervoer.
 
@@ -2070,7 +2092,7 @@ Deze maatregelen hebben ten doel:
 
 - –. en in het algemeen alle andere passende maatregelen te nemen.
 
-#### Artikel 10. Rol van de spoorwegen
+##### Artikel 10. Rol van de spoorwegen
 
 In het licht van de verdeling van de bevoegdheden tussen de staat en de spoorwegen doen de partijen hun spoorwegmaatschappijen de aanbeveling om voor zowel het personen- als het goederenvervoer:
 
@@ -2082,7 +2104,7 @@ In het licht van de verdeling van de bevoegdheden tussen de staat en de spoorweg
 
 ### VERVOER OVER DE WEG
 
-#### Artikel 11. Algemene bepalingen
+##### Artikel 11. Algemene bepalingen
 
 1. Wat de toegang tot elkaars vervoersmarkt betreft, komen de partijen overeen in het beginstadium en onverminderd lid 2 de regeling te handhaven die voortvloeit uit bilaterale overeenkomsten of andere internationale bilaterale verdragen die tussen de lidstaten van de Gemeenschap en Montenegro zijn gesloten of, bij het ontbreken van dergelijke overeenkomsten of verdragen, uit de feitelijke situatie in 1991.
 
@@ -2096,7 +2118,7 @@ In afwachting van de sluiting van een overeenkomst tussen de Gemeenschap en Mont
 
 5. De partijen onthouden zich van alle eenzijdige maatregelen of handelingen die tot discriminatie tussen vervoerders of voertuigen uit de Gemeenschap en vervoerders of voertuigen uit Montenegro zouden kunnen leiden. Zij nemen alle dienstige maatregelen om het wegvervoer naar of in transito over het grondgebied van de andere overeenkomstsluitende partij te vergemakkelijken.
 
-#### Artikel 12. Markttoegang
+##### Artikel 12. Markttoegang
 
 De partijen verbinden zich bij voorrang ertoe samen te werken om, behoudens hun interne voorschriften, te streven naar:
 
@@ -2104,7 +2126,7 @@ De partijen verbinden zich bij voorrang ertoe samen te werken om, behoudens hun 
 
 - –. een definitieve regeling voor de toekomstige toegang tot elkaars wegvervoersmarkt op basis van wederkerigheid.
 
-#### Artikel 13. Belastingen, tol en andere heffingen
+##### Artikel 13. Belastingen, tol en andere heffingen
 
 1. De partijen erkennen dat belastingen, tol en andere heffingen ten laste van de wegvoertuigen van beide partijen vrij moeten zijn van discriminatie.
 
@@ -2114,13 +2136,13 @@ De partijen verbinden zich bij voorrang ertoe samen te werken om, behoudens hun 
 
 4. Tot de in lid 2 en [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&artikel=12&z=2014-12-01&g=2014-12-01) bedoelde overeenkomsten zijn gesloten, kunnen na de inwerkingtreding van deze overeenkomst voorgestelde wijzigingen van fiscale heffingen, tolheffing en andere heffingen op het communautaire transitoverkeer door Montenegro, alsmede van de systemen voor de inning ervan, niet eerder worden ingevoerd dan na overleg.
 
-#### Artikel 14. Afmetingen en gewichten
+##### Artikel 14. Afmetingen en gewichten
 
 1. Montenegro aanvaardt dat wegvoertuigen die beantwoorden aan de communautaire normen voor afmetingen en gewichten vrij en zonder beperking ter zake aan het verkeer op de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&artikel=5&z=2014-12-01&g=2014-12-01) bedoelde wegen mogen deelnemen. Tot zes maanden na de inwerkingtreding van deze overeenkomst wordt op wegvoertuigen die niet aan de bestaande normen van Montenegro voldoen een speciale niet-discriminerende heffing toegepast, die evenredig is met de schade die door de hogere asdruk wordt veroorzaakt.
 
 2. Montenegro streeft ernaar zijn huidige regelgeving en normen voor wegenaanleg uiterlijk vijf jaar na de inwerkingtreding van deze overeenkomst te harmoniseren met de wetgeving die in de Gemeenschap geldt, en neemt vergaande maatregelen ter verbetering van de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&artikel=5&z=2014-12-01&g=2014-12-01) bedoelde wegen, zodat deze binnen de voorgestelde termijn voldoen aan deze nieuwe regelgeving en normen, een en ander in overeenstemming met zijn financiële mogelijkheden.
 
-#### Artikel 15. Milieu
+##### Artikel 15. Milieu
 
 1. Met het oog op de bescherming van het milieu streven de partijen ernaar normen voor de uitstoot van gassen en deeltjes en voor het geluidsniveau van vrachtwagens in te voeren die een hoog niveau van bescherming bieden.
 
@@ -2128,7 +2150,7 @@ De partijen verbinden zich bij voorrang ertoe samen te werken om, behoudens hun 
 
 3. Bij de invoering van nieuwe normen plegen de partijen overleg teneinde bovengenoemde doelstellingen te bereiken.
 
-#### Artikel 16. Sociale aspecten
+##### Artikel 16. Sociale aspecten
 
 1. Montenegro harmoniseert zijn wetgeving inzake de scholing van vrachtwagenbestuurders, met name wat het vervoer van gevaarlijke stoffen betreft, met de normen van de Europese Gemeenschap.
 
@@ -2138,7 +2160,7 @@ De partijen verbinden zich bij voorrang ertoe samen te werken om, behoudens hun 
 
 4. De partijen zien toe op de gelijkwaardigheid van hun respectieve wetgeving met betrekking tot de toegang tot het beroep van wegvervoerder, zulks met het oog op wederzijdse erkenning.
 
-#### Artikel 17. Bepalingen betreffende het verkeer
+##### Artikel 17. Bepalingen betreffende het verkeer
 
 1. De partijen wisselen hun ervaringen uit en streven ernaar hun wetgeving te harmoniseren teneinde een betere doorstroming van het verkeer tijdens spitsperioden (weekeinden, feestdagen en het vakantieseizoen) te bewerkstelligen.
 
@@ -2148,7 +2170,7 @@ De partijen verbinden zich bij voorrang ertoe samen te werken om, behoudens hun 
 
 4. De partijen streven tevens naar harmonisatie van de technische hulpverlening aan bestuurders, de verspreiding van belangrijke verkeersinformatie en andere voor het toerisme nuttige zaken, en eerste hulp bij ongelukken, inclusief ambulancediensten.
 
-#### Artikel 18. Verkeersveiligheid
+##### Artikel 18. Verkeersveiligheid
 
 1. Uiterlijk op het einde van het tweede jaar na de inwerkingtreding van deze overeenkomst harmoniseert Montenegro zijn wetgeving inzake verkeersveiligheid, met name ten aanzien van het vervoer van gevaarlijke stoffen, met die van de Gemeenschap.
 
@@ -2158,7 +2180,7 @@ De partijen verbinden zich bij voorrang ertoe samen te werken om, behoudens hun 
 
 ### VEREENVOUDIGING VAN FORMALITEITEN
 
-#### Artikel 19. Vereenvoudiging van formaliteiten
+##### Artikel 19. Vereenvoudiging van formaliteiten
 
 1. De partijen komen overeen het goederenvervoer per spoor en over de weg, zowel bilateraal als in transito, te vereenvoudigen.
 
@@ -2168,11 +2190,11 @@ De partijen verbinden zich bij voorrang ertoe samen te werken om, behoudens hun 
 
 ### SLOTBEPALINGEN
 
-#### Artikel 20. Verruiming van het toepassingsgebied
+##### Artikel 20. Verruiming van het toepassingsgebied
 
 Indien één van de partijen bij de toepassing van dit protocol tot de conclusie komt dat andere maatregelen, die niet onder het toepassingsgebied van dit protocol vallen, in het belang van een gecoördineerd Europees vervoersbeleid zijn en met name het probleem van het transitoverkeer kunnen helpen oplossen, dan legt zij de andere partij voorstellen voor zulke maatregelen voor.
 
-#### Artikel 21. Uitvoering
+##### Artikel 21. Uitvoering
 
 1. De samenwerking tussen de partijen vindt plaats in het kader van een speciaal subcomité, dat overeenkomstig [artikel 123](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=X&artikel=123&z=2014-12-01&g=2014-12-01) van deze overeenkomst zal worden opgericht.
 
@@ -2186,7 +2208,7 @@ Indien één van de partijen bij de toepassing van dit protocol tot de conclusie
 
 - d. het coördineren van de activiteiten op het gebied van controle, prognoses en ander statistisch werk betreffende het internationale vervoer, met name het transitoverkeer.
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 Voor de toepassing van dit protocol wordt verstaan onder:
 
@@ -2200,7 +2222,7 @@ Voor de toepassing van dit protocol wordt verstaan onder:
 
 - e. „met de douanewetgeving strijdige handeling”: elke overtreding of poging tot overtreding van de douanewetgeving.
 
-#### Artikel 2. Toepassingsgebied
+##### Artikel 2. Toepassingsgebied
 
 1. De overeenkomstsluitende partijen verlenen elkaar bijstand, op de onder hun bevoegdheid vallende gebieden, en op de wijze en op de voorwaarden als bij dit protocol vastgesteld, om ervoor te zorgen dat de douanewetgeving correct wordt toegepast, in het bijzonder bij de preventie, de opsporing en het onderzoek van handelingen in strijd met deze wetgeving.
 
@@ -2208,7 +2230,7 @@ Voor de toepassing van dit protocol wordt verstaan onder:
 
 3. Bijstand bij de invordering van rechten, heffingen en boetes valt niet onder dit protocol.
 
-#### Artikel 3. Bijstand op verzoek
+##### Artikel 3. Bijstand op verzoek
 
 1. Op aanvraag van de verzoekende autoriteit verschaft de aangezochte autoriteit eerstgenoemde alle ter zake dienende informatie die deze nodig heeft om erop toe te zien dat de douanewetgeving correct wordt toegepast, met inbegrip van informatie betreffende voorgenomen of vastgestelde handelingen die met deze wetgeving in strijd zijn of zouden kunnen zijn.
 
@@ -2228,7 +2250,7 @@ Voor de toepassing van dit protocol wordt verstaan onder:
 
 - d. vervoermiddelen die op zodanige wijze worden of kunnen worden gebruikt dat redelijkerwijze kan worden vermoed dat zij bestemd zijn om in strijd met de douanewetgeving te worden gebruikt.
 
-#### Artikel 4. Ongevraagde bijstand
+##### Artikel 4. Ongevraagde bijstand
 
 De overeenkomstsluitende partijen verlenen elkaar ongevraagd bijstand overeenkomstig hun wetten, voorschriften en andere rechtsinstrumenten indien zij dit noodzakelijk achten voor de juiste toepassing van de douanewetgeving, in het bijzonder indien zij informatie hebben verkregen over:
 
@@ -2242,7 +2264,7 @@ De overeenkomstsluitende partijen verlenen elkaar ongevraagd bijstand overeenkom
 
 - –. middelen van vervoer waarvan redelijkerwijze kan worden vermoed dat zij gebruikt zijn of kunnen worden om handelingen te verrichten die met de douanewetgeving in strijd zijn.
 
-#### Artikel 5. Afgifte van documenten/Kennisgeving van besluiten
+##### Artikel 5. Afgifte van documenten/Kennisgeving van besluiten
 
 Op aanvraag van de verzoekende autoriteit neemt de aangezochte autoriteit, overeenkomstig haar wetgeving, alle maatregelen die nodig zijn voor:
 
@@ -2254,7 +2276,7 @@ die van de verzoekende autoriteit uitgaan en verband houden met de toepassing va
 
 Verzoeken om de afgifte van documenten of om de kennisgeving van besluiten worden schriftelijk aan de aangezochte autoriteit gericht in een officiële taal van die autoriteit of in een voor die autoriteit aanvaardbaar taal.
 
-#### Artikel 6. Vorm en inhoud van verzoeken om bijstand
+##### Artikel 6. Vorm en inhoud van verzoeken om bijstand
 
 1. De verzoeken in het kader van dit protocol worden schriftelijk ingediend. Zij gaan vergezeld van de bescheiden die voor de behandeling ervan noodzakelijk zijn. In spoedeisende gevallen kunnen verzoeken mondeling worden gedaan, mits zij onmiddellijk schriftelijk worden bevestigd.
 
@@ -2276,7 +2298,7 @@ Verzoeken om de afgifte van documenten of om de kennisgeving van besluiten worde
 
 4. Indien een verzoek niet aan de hierboven vermelde eisen voldoet, kan om correctie of aanvulling worden verzocht. Er kunnen echter reeds voorzorgsmaatregelen worden genomen.
 
-#### Artikel 7. Behandeling van verzoeken
+##### Artikel 7. Behandeling van verzoeken
 
 1. De aangezochte autoriteit behandelt verzoeken om bijstand, binnen de grenzen van haar bevoegdheden en met de middelen waarover zij beschikt, alsof zij voor eigen rekening of in opdracht van een andere autoriteit van dezelfde overeenkomstsluitende partij handelde, door reeds beschikbare informatie te verstrekken en het nodige onderzoek te verrichten of te doen verrichten. Deze bepaling is eveneens van toepassing op enige instantie waaraan de aangezochte autoriteit het verzoek doorzendt indien deze autoriteit niet zelfstandig kan handelen.
 
@@ -2286,7 +2308,7 @@ Verzoeken om de afgifte van documenten of om de kennisgeving van besluiten worde
 
 4. Ambtenaren van een overeenkomstsluitende partij kunnen, met instemming van de andere overeenkomstsluitende partij en op de door deze gestelde voorwaarden, aanwezig zijn bij onderzoek dat op het grondgebied van laatstgenoemde wordt verricht.
 
-#### Artikel 8. Vorm waarin de informatie dient te worden verstrekt
+##### Artikel 8. Vorm waarin de informatie dient te worden verstrekt
 
 1. De aangezochte autoriteit deelt de uitslag van het ingestelde onderzoek aan de verzoekende autoriteit mede in de vorm van documenten, gewaarmerkte kopieën van documenten, rapporten en dergelijke.
 
@@ -2294,7 +2316,7 @@ Verzoeken om de afgifte van documenten of om de kennisgeving van besluiten worde
 
 3. De originelen van dossiers en documenten worden enkel op verzoek toegezonden wanneer gewaarmerkte afschriften ontoereikend zijn. Deze originelen worden ten spoedigste geretourneerd.
 
-#### Artikel 9. Gevallen waarin geen bijstand behoeft te worden verleend
+##### Artikel 9. Gevallen waarin geen bijstand behoeft te worden verleend
 
 1. Bijstand kan worden geweigerd of van voorwaarden of eisen afhankelijk worden gesteld wanneer een partij van oordeel is dat bijstand op grond van dit protocol:
 
@@ -2310,7 +2332,7 @@ Verzoeken om de afgifte van documenten of om de kennisgeving van besluiten worde
 
 4. Indien bijstand wordt geweigerd, dient dit besluit en de redenen ervan terstond aan de verzoekende autoriteit te worden medegedeeld.
 
-#### Artikel 10. Uitwisseling van gegevens en geheimhoudingsplicht
+##### Artikel 10. Uitwisseling van gegevens en geheimhoudingsplicht
 
 1. Alle informatie die ter uitvoering van dit protocol in welke vorm dan ook wordt verstrekt, heeft een vertrouwelijk karakter. De verstrekte gegevens vallen onder de geheimhoudingsplicht en worden beschermd volgens de wetgeving van de partij die ze heeft ontvangen, dan wel volgens de regelgeving die op de instellingen van de Gemeenschap van toepassing is.
 
@@ -2320,21 +2342,21 @@ Verzoeken om de afgifte van documenten of om de kennisgeving van besluiten worde
 
 4. De verkregen informatie wordt uitsluitend voor de toepassing van dit protocol gebruikt. Indien een van de overeenkomstsluitende partijen deze informatie voor andere doeleinden wenst te gebruiken, dient zij vooraf om de schriftelijke toestemming te verzoeken van de autoriteit die de informatie heeft verstrekt. Voor dit gebruik gelden dan de eventueel door deze autoriteit vastgestelde beperkingen.
 
-#### Artikel 11. Deskundigen en getuigen
+##### Artikel 11. Deskundigen en getuigen
 
 Een onder een aangezochte autoriteit ressorterende ambtenaar kan worden gemachtigd, binnen de perken van de hem verleende machtiging, als getuige of deskundige op te treden in gerechtelijke of administratieve procedures die betrekking hebben op aangelegenheden waarop dit protocol van toepassing is en daarbij de voor deze procedures noodzakelijke voorwerpen, bescheiden of voor echt gewaarmerkte afschriften voor te leggen. In de convocatie dient uitdrukkelijk te worden vermeld over welke aangelegenheid en in welke functie of hoedanigheid de betrokken ambtenaar zal worden ondervraagd.
 
-#### Artikel 12. Kosten van de bijstand
+##### Artikel 12. Kosten van de bijstand
 
 De overeenkomstsluitende partijen brengen elkaar geen kosten in rekening voor uitgaven die ter uitvoering van dit protocol zijn gemaakt, met uitzondering, in voorkomend geval, van de uitgaven voor deskundigen, getuigen, tolken en vertalers die niet in overheidsdienst zijn.
 
-#### Artikel 13. Uitvoering
+##### Artikel 13. Uitvoering
 
 1. Met de tenuitvoerlegging van dit protocol zijn enerzijds de douaneautoriteiten van Montenegro en anderzijds de bevoegde diensten van de Europese Commissie en, in voorkomend geval, de douaneautoriteiten van de lidstaten belast. Deze autoriteiten stellen alle praktische maatregelen en bepalingen voor de toepassing van dit protocol vast, rekening houdend met de geldende regelgeving, met name op het gebied van de gegevensbescherming. Zij kunnen de bevoegde autoriteiten aanbevelingen doen over wijzigingen die naar hun oordeel in dit protocol moeten worden aangebracht.
 
 2. De overeenkomstsluitende partijen raadplegen elkaar en stellen elkaar in kennis van alle uitvoeringsbepalingen die op grond van dit protocol worden vastgesteld.
 
-#### Artikel 14. Andere overeenkomsten
+##### Artikel 14. Andere overeenkomsten
 
 1. Rekening houdend met de respectieve bevoegdheden van de Gemeenschap en van haar lidstaten, geldt voor de bepalingen van dit protocol dat zij:
 
@@ -2352,11 +2374,11 @@ De overeenkomstsluitende partijen brengen elkaar geen kosten in rekening voor ui
 
 ### HOOFDSTUK I. DOELSTELLINGEN EN TOEPASSINGSGEBIED
 
-#### Artikel 1. Doelstellingen
+##### Artikel 1. Doelstellingen
 
 Het doel van dit protocol is geschillen tussen de partijen te vermijden en te beslechten teneinde tot een wederzijds aanvaardbare oplossing te komen.
 
-#### Artikel 2. Toepassingsgebied
+##### Artikel 2. Toepassingsgebied
 
 De bepalingen van dit protocol hebben alleen betrekking op mogelijke verschillen in de interpretatie en toepassing van de hierna volgende bepalingen, met inbegrip van die gevallen waar de ene partij van oordeel is dat een maatregel van de andere partij, of het niet-treffen van een maatregel door de andere partij, een inbreuk is op de verplichtingen die voor de andere partij uit deze bepalingen voortvloeien:
 
@@ -2380,13 +2402,13 @@ De bepalingen van dit protocol hebben alleen betrekking op mogelijke verschillen
 
 ### AFDELING I. ARBITRAGEPROCEDURE
 
-#### Artikel 3. Inleiding van de arbitrageprocedure
+##### Artikel 3. Inleiding van de arbitrageprocedure
 
 1. Indien de partijen er niet in slagen hun geschil bij te leggen, kan de klagende partij overeenkomstig de voorwaarden van [artikel 130 van deze overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=X&artikel=130&z=2014-12-01&g=2014-12-01) bij de andere partij en bij het Stabilisatie- en associatiecomité een schriftelijk verzoek tot instelling van een arbitragepanel indienen.
 
 2. De klagende partij geeft in haar verzoek het voorwerp van het geschil aan en eventueel de maatregel van de andere partij, of het niet-treffen van een maatregel, die zij beschouwt als in strijd met de bepalingen van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&hoofdstuk=I&artikel=2&z=2014-12-01&g=2014-12-01).
 
-#### Artikel 4. Samenstelling van het arbitragepanel
+##### Artikel 4. Samenstelling van het arbitragepanel
 
 1. Een arbitragepanel bestaat uit drie scheidsrechters.
 
@@ -2406,7 +2428,7 @@ Indien een van de partijen van oordeel is dat de voorzitter van het arbitragepan
 
 7. Indien een scheidsrechter niet aan de procedure kan deelnemen, zich terugtrekt, of overeenkomstig lid 6 wordt vervangen, wordt binnen vijf dagen een vervanger aangewezen overeenkomstig de selectieprocedures die waren gevolgd om de oorspronkelijke scheidsrechter aan te wijzen. De werkzaamheden van het arbitragepanel worden opgeschort voor de duur van deze procedure.
 
-#### Artikel 5. Uitspraken van het arbitragepanel
+##### Artikel 5. Uitspraken van het arbitragepanel
 
 1. Het arbitragepanel deelt zijn uitspraak aan de partijen en aan het Stabilisatie- en associatiecomité mede binnen 90 dagen na de instelling van het arbitragepanel. Indien het arbitragepanel oordeelt dat deze termijn niet kan worden gehaald, stelt de voorzitter van het panel de partijen en het Stabilisatie- en associatiecomité hiervan schriftelijk in kennis, met opgave van de redenen voor het uitstel. In geen geval mag de uitspraak later dan 120 dagen na de instelling van het panel plaatsvinden.
 
@@ -2420,11 +2442,11 @@ Indien een van de partijen van oordeel is dat de voorzitter van het arbitragepan
 
 ### AFDELING II. NALEVING
 
-#### Artikel 6. Naleving van de uitspraak van het arbitragepanel
+##### Artikel 6. Naleving van de uitspraak van het arbitragepanel
 
 Elke partij neemt alle noodzakelijke maatregelen om de uitspraak van het arbitragepanel na te leven en beide partijen streven ernaar overeen te komen de uitspraak binnen een redelijke termijn na te leven.
 
-#### Artikel 7. Redelijke termijn voor naleving
+##### Artikel 7. Redelijke termijn voor naleving
 
 1. Uiterlijk 30 dagen na kennisgeving van de uitspraak van het arbitragepanel aan de partijen, stelt de partij waartegen de klacht is ingediend de klagende partij in kennis van de tijd die nodig zal zijn voor naleving (hierna „redelijke termijn” genoemd). De partijen streven ernaar over deze redelijke termijn tot overeenstemming te komen.
 
@@ -2432,7 +2454,7 @@ Elke partij neemt alle noodzakelijke maatregelen om de uitspraak van het arbitra
 
 3. Indien het oorspronkelijke panel, of een of meer van de leden ervan, niet opnieuw bijeen kan komen, zijn de procedures van [artikel 4 van dit protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&hoofdstuk=II&afdeling=I&artikel=4&z=2014-12-01&g=2014-12-01) van toepassing. De termijn waarbinnen het panel zijn uitspraak moet mededelen, blijft 20 dagen na de instelling ervan.
 
-#### Artikel 8. Herziening van maatregelen getroffen tot naleving van de uitspraak van het arbitragepanel
+##### Artikel 8. Herziening van maatregelen getroffen tot naleving van de uitspraak van het arbitragepanel
 
 1. De partij waartegen de klacht is ingediend stelt de andere partij en het Stabilisatie- en associatiecomité vóór afloop van de redelijke termijn in kennis van alle maatregelen die zij heeft getroffen tot naleving van de uitspraak van het arbitragepanel.
 
@@ -2440,7 +2462,7 @@ Elke partij neemt alle noodzakelijke maatregelen om de uitspraak van het arbitra
 
 3. Indien het oorspronkelijke arbitragepanel, of een of meer van de leden ervan, niet opnieuw bijeen kan komen, zijn de procedures van [artikel 4 van dit protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&hoofdstuk=II&afdeling=I&artikel=4&z=2014-12-01&g=2014-12-01) van toepassing. De termijn waarbinnen het panel zijn uitspraak moet mededelen, blijft 45 dagen na de instelling ervan.
 
-#### Artikel 9. Tijdelijke maatregelen bij niet-naleving
+##### Artikel 9. Tijdelijke maatregelen bij niet-naleving
 
 1. Indien de partij waartegen de klacht is ingediend vóór afloop van de redelijke termijn nalaat kennis te geven van de maatregelen die zijn getroffen tot naleving van de uitspraak van het arbitragepanel, of indien het arbitragepanel oordeelt dat de maatregel waarvan overeenkomstig [artikel 8, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&hoofdstuk=II&afdeling=II&artikel=8&z=2014-12-01&g=2014-12-01), mededeling is gedaan, niet conform is de verplichtingen van de partij krachtens deze overeenkomst, doet de partij waartegen de klacht is ingediend de klagende partij, op haar verzoek, een aanbod van tijdelijke compensatie.
 
@@ -2450,7 +2472,7 @@ Elke partij neemt alle noodzakelijke maatregelen om de uitspraak van het arbitra
 
 4. Opschorting van voordelen is een tijdelijke maatregel en wordt alleen toegepast zolang de maatregel die in strijd was bevonden met deze overeenkomst is ingetrokken of gewijzigd en met deze overeenkomst in overeenstemming gebracht, of tot de partijen overeenkomen het geschil te beslechten.
 
-#### Artikel 10. Herziening van maatregelen tot naleving getroffen na de opschorting van voordelen
+##### Artikel 10. Herziening van maatregelen tot naleving getroffen na de opschorting van voordelen
 
 1. De partij waartegen de klacht is ingediend stelt de andere partij en het Stabilisatie- en associatiecomité in kennis van elke maatregel die zij heeft getroffen tot naleving van de uitspraak van het arbitragepanel en van haar verzoek tot beëindiging van de opschorting van de voordelen door de klagende partij.
 
@@ -2460,19 +2482,19 @@ Elke partij neemt alle noodzakelijke maatregelen om de uitspraak van het arbitra
 
 ### AFDELING III. GEMEENSCHAPPELIJKE BEPALINGEN
 
-#### Artikel 11. Openbare hoorzittingen
+##### Artikel 11. Openbare hoorzittingen
 
 De vergaderingen van het arbitragepanel zijn openbaar onder de voorwaarden van het in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&hoofdstuk=III&artikel=18&z=2014-12-01&g=2014-12-01) vermelde reglement van orde, tenzij het arbitragepanel er uit eigen initiatief of op verzoek van de partijen anders over beschikt.
 
-#### Artikel 12. Inlichtingen en technisch advies
+##### Artikel 12. Inlichtingen en technisch advies
 
 Het panel kan op verzoek van een partij of op eigen initiatief inlichtingen inwinnen bij alle bronnen die het voor de werkzaamheden van het panel passend acht. Het panel heeft tevens het recht deskundigen om advies te vragen indien het dit nuttig acht. Alle op deze manier ingewonnen informatie moet aan beide partijen worden medegedeeld en erover kunnen opmerkingen worden geformuleerd. De belanghebbende partijen zijn gemachtigd bij het arbitragepanel stukken in te dienen als amicus curiae onder de voorwaarden die zijn neergelegd in het reglement van orde als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&hoofdstuk=III&artikel=18&z=2014-12-01&g=2014-12-01).
 
-#### Artikel 13. Interpretatiebeginselen
+##### Artikel 13. Interpretatiebeginselen
 
 De arbitragepanels passen toe en interpreteren de bepalingen van deze overeenkomst volgens de gebruikelijke regels voor de interpretatie van internationaal publiekrecht, met inbegrip van het [Verdrag van Wenen inzake het verdragenrecht](https://wetten.overheid.nl/jci1.3:c:BWBV0003441). Zij geven geen interpretatie van het acquis communautaire. Het feit dat een bepaling inhoudelijk identiek is met een bepaling van het [Verdrag tot oprichting van de Europese Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) is niet bepalend voor de interpretatie van die bepaling.
 
-#### Artikel 14. Besluiten en uitspraken van het arbitragepanel
+##### Artikel 14. Besluiten en uitspraken van het arbitragepanel
 
 1. Alle besluiten van het arbitragepanel, met inbegrip van de vaststelling van de uitspraak, worden getroffen bij meerderheid van stemmen.
 
@@ -2480,13 +2502,13 @@ De arbitragepanels passen toe en interpreteren de bepalingen van deze overeenkom
 
 ### HOOFDSTUK III. ALGEMENE BEPALINGEN
 
-#### Artikel 15. Lijst van scheidsrechters
+##### Artikel 15. Lijst van scheidsrechters
 
 1. Het Stabilisatie- en associatiecomité stelt uiterlijk 6 maanden na de inwerkingtreding van dit protocol een lijst van 15 personen op die bereid en geschikt zijn om als scheidsrechter te fungeren. Elke partij kiest 5 personen die als scheidsrechter kunnen optreden. De partijen komen ook 5 personen overeen die als voorzitter van het arbitragepanel kunnen fungeren. Het Stabilisatie- en associatiecomité ziet erop toe dat het aantal personen op de lijst te allen tijde gehandhaafd blijft.
 
 2. De scheidrechters moeten beschikken over gespecialiseerde kennis en ervaring inzake wetgeving, internationale wetgeving, communautaire wetgeving en/of internationale handel. De scheidsrechters dienen onafhankelijk te zijn, op persoonlijke titel op te treden en niet verbonden te zijn aan of instructies aan te nemen van een organisatie of een regering, en zijn verplicht de in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&hoofdstuk=III&artikel=18&z=2014-12-01&g=2014-12-01) genoemde gedragscode na te leven.
 
-#### Artikel 16. Relatie tot WTO-verplichtingen
+##### Artikel 16. Relatie tot WTO-verplichtingen
 
 Na de eventuele toetreding van Montenegro tot de Wereldhandelsorganisatie (WTO) zijn de volgende bepalingen van toepassing:
 
@@ -2496,7 +2518,7 @@ Na de eventuele toetreding van Montenegro tot de Wereldhandelsorganisatie (WTO) 
 
 - c. Geen enkele bepaling van dit protocol verhindert een partij de opschorting van verplichtingen die is toegestaan door een orgaan voor geschillenbeslechting van de WTO, ten uitvoer te leggen.
 
-#### Artikel 17. Termijnen
+##### Artikel 17. Termijnen
 
 1. Alle in dit protocol vastgestelde termijnen worden gerekend in kalenderdagen vanaf de dag die volgt op de dag waarop het desbetreffende feit plaatsvindt.
 
@@ -2504,7 +2526,7 @@ Na de eventuele toetreding van Montenegro tot de Wereldhandelsorganisatie (WTO) 
 
 3. Alle in dit protocol vermelde termijnen kunnen ook door de voorzitter van het arbitragepanel worden verlengd, op redelijk verzoek van een van de partijen of op eigen initiatief.
 
-#### Artikel 18. Reglement van orde, gedragscode en wijziging van dit protocol
+##### Artikel 18. Reglement van orde, gedragscode en wijziging van dit protocol
 
 1. De Stabilisatie- en associatieraad stelt uiterlijk 6 maanden na de inwerkingtreding van dit protocol het reglement van orde vast voor het verloop van de werkzaamheden van het arbitragepanel.
 
@@ -2512,7 +2534,7 @@ Na de eventuele toetreding van Montenegro tot de Wereldhandelsorganisatie (WTO) 
 
 3. De Stabilisatie- en associatieraad kan besluiten dit protocol te wijzigen.
 
-#### Artikel 1
+##### Artikel 1
 
 Montenegro mag deelnemen aan de volgende communautaire programma’s:
 
@@ -2520,69 +2542,69 @@ Montenegro mag deelnemen aan de volgende communautaire programma’s:
 
 - b. de programma’s die na 27 juli 2005 werden ingesteld of verlengd en die een openstellingsclausule bevatten die in de deelname van Montenegro voorziet.
 
-#### Artikel 2
+##### Artikel 2
 
 Montenegro verstrekt een financiële bijdrage aan de algemene begroting van de Europese Unie in overeenstemming met de specifieke programma’s waaraan het deelneemt.
 
-#### Artikel 3
+##### Artikel 3
 
 Vertegenwoordigers van Montenegro mogen als waarnemers de vergaderingen bijwonen van de comités van beheer die belast zijn met het toezicht op de programma’s waaraan Montenegro een financiële bijdrage levert, voor zover deze betrekking hebben op de onderwerpen die Montenegro aangaan.
 
-#### Artikel 4
+##### Artikel 4
 
 Ten aanzien van projecten en initiatieven die door deelnemers uit Montenegro worden ingediend, gelden in het kader van de betrokken programma’s voor zover mogelijk dezelfde voorwaarden, regels en procedures als voor de lidstaten.
 
-#### Artikel 5
+##### Artikel 5
 
 De specifieke voorwaarden voor de deelname van Montenegro aan elk afzonderlijk programma, in het bijzonder de verschuldigde financiële bijdrage, wordt vastgesteld bij een overeenkomst in de vorm van een memorandum van overeenstemming tussen de Europese Commissie, die optreedt namens de Gemeenschap, en Montenegro.
 
 Indien Montenegro verzoekt om externe bijstand van de Gemeenschap overeenkomstig Verordening (EG) nr. 1085/2006 van de Raad van 17 juli 2006 tot invoering van een instrument voor pretoetredingssteun (IPA)2)PB L 210 van 31.7.2006, blz. 82. , dan wel overeenkomstig een eventuele toekomstige soortgelijke verordening waarin in externe communautaire bijstand voor Montenegro mocht worden voorzien, worden de voorwaarden voor het gebruik door Montenegro van de bijstand van de Gemeenschap vastgesteld in een financieringsmemorandum.
 
-#### Artikel 6
+##### Artikel 6
 
 Overeenkomstig het financieel reglement van de Gemeenschap wordt in het memorandum van overeenstemming bepaald dat door of op gezag van de Europese Commissie, het Europees Bureau voor fraudebestrijding (OLAF) en de Rekenkamer van de Europese Gemeenschappen financiële controles of audits worden verricht.
 
 Er worden gedetailleerde bepalingen vastgesteld inzake financiële controle en audits, administratieve maatregelen, sancties en invordering, waarbij aan de Europese Commissie, OLAF en de Rekenkamer bevoegdheden worden toegekend die gelijkwaardig zijn met hun bevoegdheden ten aanzien van begunstigden of contractanten die in de Gemeenschap zijn gevestigd.
 
-#### Artikel 7
+##### Artikel 7
 
 Uiterlijk drie jaar na de inwerkingtreding van deze overeenkomst, en vervolgens iedere drie jaar, kan de Stabilisatie- en associatieraad de tenuitvoerlegging van dit protocol evalueren aan de hand van de werkelijke deelname van Montenegro aan een of meer communautaire programma’s.
 
 GEDAAN te Luxemburg, de vijftiende oktober 2007.
 
-#### Artikel 1. Toepasselijke regels van oorsprong
+##### Artikel 1. Toepasselijke regels van oorsprong
 
 Voor de toepassing van deze overeenkomst zijn aanhangsel I en de relevante bepalingen van aanhangsel II van de Regionale Conventie betreffende de pan-Euro-mediterrane preferentiële oorsprongsregels1)**PbEU** L 54 van 26.2.2013, blz. 4. („de conventie”), van toepassing.
 
 Alle verwijzingen naar de „desbetreffende overeenkomst” in aanhangsel I en in de desbetreffende bepalingen van aanhangsel II van de Conventie gelden als verwijzingen naar deze overeenkomst.
 
-#### Artikel 2. Geschillenregeling
+##### Artikel 2. Geschillenregeling
 
 Indien er een geschil ontstaat in verband met de controleprocedures in artikel 32 van aanhangsel I van de conventie dat niet kan worden opgelost door de douaneautoriteit die de controle heeft aangevraagd en de douaneautoriteit die de controle moet uitvoeren, wordt het aan de Stabilisatie- en associatieraad voorgelegd.
 
 In alle gevallen is de wetgeving van het land van invoer van toepassing op de regeling van geschillen tussen een importeur en de douaneautoriteiten van het land van invoer.
 
-#### Artikel 3. Wijzigingen van het protocol
+##### Artikel 3. Wijzigingen van het protocol
 
 De Stabilisatie- en associatieraad kan besluiten bepalingen van dit protocol te wijzigen.
 
-#### Artikel 4. Opzegging van de conventie
+##### Artikel 4. Opzegging van de conventie
 
 1. Indien ofwel de Europese Unie ofwel Montenegro de depositaris van de conventie schriftelijk te kennen geeft de conventie op grond van artikel 9 te willen opzeggen, onderhandelen de Europese Unie en Montenegro onmiddellijk over oorsprongsregels voor de toepassing van deze overeenkomst.
 
 2. Tot de inwerkingtreding van deze nieuw overeengekomen oorsprongsregels, blijven op deze overeenkomst de op het moment van opzegging geldende oorsprongsregels in aanhangsel I en, in voorkomend geval, de relevante bepalingen van aanhangsel II van de conventie van toepassing. Vanaf de opzegging worden de oorsprongsregels in aanhangsel I en, in voorkomend geval, de relevante bepalingen van aanhangsel II van de conventie echter zo uitgelegd dat zij uitsluitend bilaterale cumulatie tussen de Europese Unie en Montenegro toestaan.
 
-#### Artikel 5. Overgangsbepalingen – cumulatie
+##### Artikel 5. Overgangsbepalingen – cumulatie
 
 1. Niettegenstaande artikel 3 van aanhangsel I van de conventie blijven de in de artikelen 3 en 4 van protocol nr. 3 bij deze overeenkomst vastgestelde regels betreffende cumulatie, zoals goedgekeurd door de Europese Unie en Montenegro bij het sluiten van de overeenkomst2)**PbEU** L 108 van 29.4.2010, blz. 3., van toepassing tussen de partijen bij deze overeenkomst tot de conventie voor alle in die artikelen genoemde overeenkomstsluitende partijen bij de conventie van toepassing is geworden.
 
 2. Niettegenstaande artikel 16, lid 5, en artikel 21, lid 3, van aanhangsel I van de conventie mag het bewijs van oorsprong een certificaat inzake goederenverkeer EUR.1 of een oorsprongsverklaring zijn indien bij de cumulatie alleen EVA-landen, de Faeröer, de Europese Unie, Turkije en de deelnemers aan het stabilisatie- en associatieproces zijn betrokken.
 
-#### Artikel 1. Doel
+##### Artikel 1. Doel
 
 Het doel van dit protocol is de samenwerking tussen de partijen inzake het vervoer over land, in het bijzonder het transitoverkeer, te bevorderen en in dat verband toe te zien op gecoördineerde ontwikkeling van het vervoer door en via de grondgebieden van de partijen, door middel van de volledige en coherente toepassing van alle bepalingen van dit protocol.
 
-#### Artikel 2. Toepassingsgebied
+##### Artikel 2. Toepassingsgebied
 
 1. De samenwerking heeft betrekking op het vervoer over land, met name het wegvervoer, het spoorvervoer en het gecombineerde vervoer, alsmede de desbetreffende infrastructuur.
 
@@ -2598,7 +2620,7 @@ Het doel van dit protocol is de samenwerking tussen de partijen inzake het vervo
 
 - –. regelmatige uitwisseling van informatie over de ontwikkeling van het vervoersbeleid van de partijen, met bijzondere aandacht voor de vervoersinfrastructuur.
 
-#### Artikel 3. Definities
+##### Artikel 3. Definities
 
 Voor de toepassing van dit protocol wordt verstaan onder:
 
@@ -2614,15 +2636,15 @@ Voor de toepassing van dit protocol wordt verstaan onder:
 
 ### INFRASTRUCTUUR
 
-#### Artikel 4. Algemene bepaling
+##### Artikel 4. Algemene bepaling
 
 De overeenkomstsluitende partijen komen overeen maatregelen voor de ontwikkeling van de vervoersinfrastructuur te nemen en op elkaar af te stemmen, als een wezenlijk middel om de problemen op te lossen die zich voordoen in het goederenvervoer door Montenegro, met name op de wegen 1, 2b, 4 en 6 die respectievelijk de verbinding vormen tussen de grens met Kroatië en Bar, tussen de grens met Bosnië en Herzegovina en de grens met Albanië, tussen de grens met Servië en Misici en tussen Ribaravina en Bac op de grens met Servië; de spoorwegen 2 en 4 die Podgorica verbinden met de grens met Albanië en de grens met Servië met Bar; de haven van Bar en het vliegveld van Podgorica, die deel uitmaken van het fundamentele netwerk voor transportinfrastructuur als gedefinieerd in het memorandum van overeenstemming waarnaar wordt verwezen in artikel 5.
 
-#### Artikel 5. Planning
+##### Artikel 5. Planning
 
 De ontwikkeling van een multimodaal regionaal vervoersnetwerk op het grondgebied van Montenegro dat aan de behoeften van Montenegro en van Zuidoost-Europa voldoet en de belangrijkste weg- en spoorwegverbindingen, binnenwateren, binnenhavens, havens, luchthavens en andere relevante knooppunten van het netwerk omvat, is voor de Gemeenschap en voor Montenegro van bijzonder belang. Dit netwerk is gedefinieerd in het memorandum van overeenstemming voor de ontwikkeling van een fundamenteel netwerk voor transportinfrastructuur voor Zuidoost-Europa dat in juni 2004 door de ministers van de regio en de Europese Commissie werd ondertekend. De ontwikkeling van het netwerk en de selectie van de prioriteiten worden doorgevoerd door een stuurgroep met vertegenwoordigers van alle ondertekenende partijen.
 
-#### Artikel 6. Financiële aspecten
+##### Artikel 6. Financiële aspecten
 
 1. De Gemeenschap kan, in het kader van [artikel 116 van de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=IX&artikel=116&z=2014-12-12&g=2014-12-12), financieel bijdragen aan de uitvoering van de noodzakelijke in artikel 5 bedoelde infrastructuurwerken. Zij kan deze bijdrage verstrekken in de vorm van kredieten van de Europese Investeringsbank, en op elke andere wijze waarop zij nog meer middelen kan vrijmaken.
 
@@ -2630,15 +2652,15 @@ De ontwikkeling van een multimodaal regionaal vervoersnetwerk op het grondgebied
 
 ### VERVOER PER SPOOR EN GECOMBINEERD VERVOER
 
-#### Artikel 7. Algemene bepaling
+##### Artikel 7. Algemene bepaling
 
 De partijen nemen de nodige maatregelen voor de ontwikkeling en de bevordering van het vervoer per spoor en van het gecombineerde vervoer en stemmen deze op elkaar af, met het doel een groot deel van het bilaterale verkeer met en het transitoverkeer door Montenegro in de toekomst op milieuvriendelijker wijze te doen plaatsvinden.
 
-#### Artikel 8. Bijzondere aspecten met betrekking tot de infrastructuur
+##### Artikel 8. Bijzondere aspecten met betrekking tot de infrastructuur
 
 In het kader van de modernisering van de Montenegrijnse spoorwegen moet het nodige worden gedaan om deze aan het gecombineerde vervoer aan te passen, met bijzondere aandacht voor de ontwikkeling of aanleg van terminals, de afmetingen van de tunnels en de capaciteit, waarvoor aanzienlijke investeringen vereist zijn.
 
-#### Artikel 9. Ondersteunende maatregelen
+##### Artikel 9. Ondersteunende maatregelen
 
 De partijen nemen alle nodige maatregelen ter bevordering van de ontwikkeling van gecombineerd vervoer.
 
@@ -2662,7 +2684,7 @@ Deze maatregelen hebben ten doel:
 
 - –. en in het algemeen alle andere passende maatregelen te nemen.
 
-#### Artikel 10. Rol van de spoorwegen
+##### Artikel 10. Rol van de spoorwegen
 
 In het licht van de verdeling van de bevoegdheden tussen de staat en de spoorwegen doen de partijen hun spoorwegmaatschappijen de aanbeveling om voor zowel het personen- als het goederenvervoer:
 
@@ -2674,7 +2696,7 @@ In het licht van de verdeling van de bevoegdheden tussen de staat en de spoorweg
 
 ### VERVOER OVER DE WEG
 
-#### Artikel 11. Algemene bepalingen
+##### Artikel 11. Algemene bepalingen
 
 1. Wat de toegang tot elkaars vervoersmarkt betreft, komen de partijen overeen in het beginstadium en onverminderd lid 2 de regeling te handhaven die voortvloeit uit bilaterale overeenkomsten of andere internationale bilaterale verdragen die tussen de lidstaten van de Gemeenschap en Montenegro zijn gesloten of, bij het ontbreken van dergelijke overeenkomsten of verdragen, uit de feitelijke situatie in 1991.
 
@@ -2688,7 +2710,7 @@ In afwachting van de sluiting van een overeenkomst tussen de Gemeenschap en Mont
 
 5. De partijen onthouden zich van alle eenzijdige maatregelen of handelingen die tot discriminatie tussen vervoerders of voertuigen uit de Gemeenschap en vervoerders of voertuigen uit Montenegro zouden kunnen leiden. Zij nemen alle dienstige maatregelen om het wegvervoer naar of in transito over het grondgebied van de andere overeenkomstsluitende partij te vergemakkelijken.
 
-#### Artikel 12. Markttoegang
+##### Artikel 12. Markttoegang
 
 De partijen verbinden zich bij voorrang ertoe samen te werken om, behoudens hun interne voorschriften, te streven naar:
 
@@ -2696,7 +2718,7 @@ De partijen verbinden zich bij voorrang ertoe samen te werken om, behoudens hun 
 
 - –. een definitieve regeling voor de toekomstige toegang tot elkaars wegvervoersmarkt op basis van wederkerigheid.
 
-#### Artikel 13. Belastingen, tol en andere heffingen
+##### Artikel 13. Belastingen, tol en andere heffingen
 
 1. De partijen erkennen dat belastingen, tol en andere heffingen ten laste van de wegvoertuigen van beide partijen vrij moeten zijn van discriminatie.
 
@@ -2706,13 +2728,13 @@ De partijen verbinden zich bij voorrang ertoe samen te werken om, behoudens hun 
 
 4. Tot de in lid 2 en [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&artikel=12&z=2014-12-12&g=2014-12-12) bedoelde overeenkomsten zijn gesloten, kunnen na de inwerkingtreding van deze overeenkomst voorgestelde wijzigingen van fiscale heffingen, tolheffing en andere heffingen op het communautaire transitoverkeer door Montenegro, alsmede van de systemen voor de inning ervan, niet eerder worden ingevoerd dan na overleg.
 
-#### Artikel 14. Afmetingen en gewichten
+##### Artikel 14. Afmetingen en gewichten
 
 1. Montenegro aanvaardt dat wegvoertuigen die beantwoorden aan de communautaire normen voor afmetingen en gewichten vrij en zonder beperking ter zake aan het verkeer op de in artikel 5 bedoelde wegen mogen deelnemen. Tot zes maanden na de inwerkingtreding van deze overeenkomst wordt op wegvoertuigen die niet aan de bestaande normen van Montenegro voldoen een speciale niet-discriminerende heffing toegepast, die evenredig is met de schade die door de hogere asdruk wordt veroorzaakt.
 
 2. Montenegro streeft ernaar zijn huidige regelgeving en normen voor wegenaanleg uiterlijk vijf jaar na de inwerkingtreding van deze overeenkomst te harmoniseren met de wetgeving die in de Gemeenschap geldt, en neemt vergaande maatregelen ter verbetering van de in artikel 5 bedoelde wegen, zodat deze binnen de voorgestelde termijn voldoen aan deze nieuwe regelgeving en normen, een en ander in overeenstemming met zijn financiële mogelijkheden.
 
-#### Artikel 15. Milieu
+##### Artikel 15. Milieu
 
 1. Met het oog op de bescherming van het milieu streven de partijen ernaar normen voor de uitstoot van gassen en deeltjes en voor het geluidsniveau van vrachtwagens in te voeren die een hoog niveau van bescherming bieden.
 
@@ -2720,7 +2742,7 @@ De partijen verbinden zich bij voorrang ertoe samen te werken om, behoudens hun 
 
 3. Bij de invoering van nieuwe normen plegen de partijen overleg teneinde bovengenoemde doelstellingen te bereiken.
 
-#### Artikel 16. Sociale aspecten
+##### Artikel 16. Sociale aspecten
 
 1. Montenegro harmoniseert zijn wetgeving inzake de scholing van vrachtwagenbestuurders, met name wat het vervoer van gevaarlijke stoffen betreft, met de normen van de Europese Gemeenschap.
 
@@ -2730,7 +2752,7 @@ De partijen verbinden zich bij voorrang ertoe samen te werken om, behoudens hun 
 
 4. De partijen zien toe op de gelijkwaardigheid van hun respectieve wetgeving met betrekking tot de toegang tot het beroep van wegvervoerder, zulks met het oog op wederzijdse erkenning.
 
-#### Artikel 17. Bepalingen betreffende het verkeer
+##### Artikel 17. Bepalingen betreffende het verkeer
 
 1. De partijen wisselen hun ervaringen uit en streven ernaar hun wetgeving te harmoniseren teneinde een betere doorstroming van het verkeer tijdens spitsperioden (weekeinden, feestdagen en het vakantieseizoen) te bewerkstelligen.
 
@@ -2740,7 +2762,7 @@ De partijen verbinden zich bij voorrang ertoe samen te werken om, behoudens hun 
 
 4. De partijen streven tevens naar harmonisatie van de technische hulpverlening aan bestuurders, de verspreiding van belangrijke verkeersinformatie en andere voor het toerisme nuttige zaken, en eerste hulp bij ongelukken, inclusief ambulancediensten.
 
-#### Artikel 18. Verkeersveiligheid
+##### Artikel 18. Verkeersveiligheid
 
 1. Uiterlijk op het einde van het tweede jaar na de inwerkingtreding van deze overeenkomst harmoniseert Montenegro zijn wetgeving inzake verkeersveiligheid, met name ten aanzien van het vervoer van gevaarlijke stoffen, met die van de Gemeenschap.
 
@@ -2750,7 +2772,7 @@ De partijen verbinden zich bij voorrang ertoe samen te werken om, behoudens hun 
 
 ### VEREENVOUDIGING VAN FORMALITEITEN
 
-#### Artikel 19. Vereenvoudiging van formaliteiten
+##### Artikel 19. Vereenvoudiging van formaliteiten
 
 1. De partijen komen overeen het goederenvervoer per spoor en over de weg, zowel bilateraal als in transito, te vereenvoudigen.
 
@@ -2760,11 +2782,11 @@ De partijen verbinden zich bij voorrang ertoe samen te werken om, behoudens hun 
 
 ### SLOTBEPALINGEN
 
-#### Artikel 20. Verruiming van het toepassingsgebied
+##### Artikel 20. Verruiming van het toepassingsgebied
 
 Indien één van de partijen bij de toepassing van dit protocol tot de conclusie komt dat andere maatregelen, die niet onder het toepassingsgebied van dit protocol vallen, in het belang van een gecoördineerd Europees vervoersbeleid zijn en met name het probleem van het transitoverkeer kunnen helpen oplossen, dan legt zij de andere partij voorstellen voor zulke maatregelen voor.
 
-#### Artikel 21. Uitvoering
+##### Artikel 21. Uitvoering
 
 1. De samenwerking tussen de partijen vindt plaats in het kader van een speciaal subcomité, dat overeenkomstig [artikel 123](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=X&artikel=123&z=2014-12-12&g=2014-12-12) van deze overeenkomst zal worden opgericht.
 
@@ -2778,7 +2800,7 @@ Indien één van de partijen bij de toepassing van dit protocol tot de conclusie
 
 - d. het coördineren van de activiteiten op het gebied van controle, prognoses en ander statistisch werk betreffende het internationale vervoer, met name het transitoverkeer.
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 Voor de toepassing van dit protocol wordt verstaan onder:
 
@@ -2792,7 +2814,7 @@ Voor de toepassing van dit protocol wordt verstaan onder:
 
 - e. „met de douanewetgeving strijdige handeling”: elke overtreding of poging tot overtreding van de douanewetgeving.
 
-#### Artikel 2. Toepassingsgebied
+##### Artikel 2. Toepassingsgebied
 
 1. De overeenkomstsluitende partijen verlenen elkaar bijstand, op de onder hun bevoegdheid vallende gebieden, en op de wijze en op de voorwaarden als bij dit protocol vastgesteld, om ervoor te zorgen dat de douanewetgeving correct wordt toegepast, in het bijzonder bij de preventie, de opsporing en het onderzoek van handelingen in strijd met deze wetgeving.
 
@@ -2800,7 +2822,7 @@ Voor de toepassing van dit protocol wordt verstaan onder:
 
 3. Bijstand bij de invordering van rechten, heffingen en boetes valt niet onder dit protocol.
 
-#### Artikel 3. Bijstand op verzoek
+##### Artikel 3. Bijstand op verzoek
 
 1. Op aanvraag van de verzoekende autoriteit verschaft de aangezochte autoriteit eerstgenoemde alle ter zake dienende informatie die deze nodig heeft om erop toe te zien dat de douanewetgeving correct wordt toegepast, met inbegrip van informatie betreffende voorgenomen of vastgestelde handelingen die met deze wetgeving in strijd zijn of zouden kunnen zijn.
 
@@ -2820,7 +2842,7 @@ Voor de toepassing van dit protocol wordt verstaan onder:
 
 - d. vervoermiddelen die op zodanige wijze worden of kunnen worden gebruikt dat redelijkerwijze kan worden vermoed dat zij bestemd zijn om in strijd met de douanewetgeving te worden gebruikt.
 
-#### Artikel 4. Ongevraagde bijstand
+##### Artikel 4. Ongevraagde bijstand
 
 De overeenkomstsluitende partijen verlenen elkaar ongevraagd bijstand overeenkomstig hun wetten, voorschriften en andere rechtsinstrumenten indien zij dit noodzakelijk achten voor de juiste toepassing van de douanewetgeving, in het bijzonder indien zij informatie hebben verkregen over:
 
@@ -2834,7 +2856,7 @@ De overeenkomstsluitende partijen verlenen elkaar ongevraagd bijstand overeenkom
 
 - –. middelen van vervoer waarvan redelijkerwijze kan worden vermoed dat zij gebruikt zijn of kunnen worden om handelingen te verrichten die met de douanewetgeving in strijd zijn.
 
-#### Artikel 5. Afgifte van documenten/Kennisgeving van besluiten
+##### Artikel 5. Afgifte van documenten/Kennisgeving van besluiten
 
 Op aanvraag van de verzoekende autoriteit neemt de aangezochte autoriteit, overeenkomstig haar wetgeving, alle maatregelen die nodig zijn voor:
 
@@ -2846,7 +2868,7 @@ die van de verzoekende autoriteit uitgaan en verband houden met de toepassing va
 
 Verzoeken om de afgifte van documenten of om de kennisgeving van besluiten worden schriftelijk aan de aangezochte autoriteit gericht in een officiële taal van die autoriteit of in een voor die autoriteit aanvaardbaar taal.
 
-#### Artikel 6. Vorm en inhoud van verzoeken om bijstand
+##### Artikel 6. Vorm en inhoud van verzoeken om bijstand
 
 1. De verzoeken in het kader van dit protocol worden schriftelijk ingediend. Zij gaan vergezeld van de bescheiden die voor de behandeling ervan noodzakelijk zijn. In spoedeisende gevallen kunnen verzoeken mondeling worden gedaan, mits zij onmiddellijk schriftelijk worden bevestigd.
 
@@ -2868,7 +2890,7 @@ Verzoeken om de afgifte van documenten of om de kennisgeving van besluiten worde
 
 4. Indien een verzoek niet aan de hierboven vermelde eisen voldoet, kan om correctie of aanvulling worden verzocht. Er kunnen echter reeds voorzorgsmaatregelen worden genomen.
 
-#### Artikel 7. Behandeling van verzoeken
+##### Artikel 7. Behandeling van verzoeken
 
 1. De aangezochte autoriteit behandelt verzoeken om bijstand, binnen de grenzen van haar bevoegdheden en met de middelen waarover zij beschikt, alsof zij voor eigen rekening of in opdracht van een andere autoriteit van dezelfde overeenkomstsluitende partij handelde, door reeds beschikbare informatie te verstrekken en het nodige onderzoek te verrichten of te doen verrichten. Deze bepaling is eveneens van toepassing op enige instantie waaraan de aangezochte autoriteit het verzoek doorzendt indien deze autoriteit niet zelfstandig kan handelen.
 
@@ -2878,7 +2900,7 @@ Verzoeken om de afgifte van documenten of om de kennisgeving van besluiten worde
 
 4. Ambtenaren van een overeenkomstsluitende partij kunnen, met instemming van de andere overeenkomstsluitende partij en op de door deze gestelde voorwaarden, aanwezig zijn bij onderzoek dat op het grondgebied van laatstgenoemde wordt verricht.
 
-#### Artikel 8. Vorm waarin de informatie dient te worden verstrekt
+##### Artikel 8. Vorm waarin de informatie dient te worden verstrekt
 
 1. De aangezochte autoriteit deelt de uitslag van het ingestelde onderzoek aan de verzoekende autoriteit mede in de vorm van documenten, gewaarmerkte kopieën van documenten, rapporten en dergelijke.
 
@@ -2886,7 +2908,7 @@ Verzoeken om de afgifte van documenten of om de kennisgeving van besluiten worde
 
 3. De originelen van dossiers en documenten worden enkel op verzoek toegezonden wanneer gewaarmerkte afschriften ontoereikend zijn. Deze originelen worden ten spoedigste geretourneerd.
 
-#### Artikel 9. Gevallen waarin geen bijstand behoeft te worden verleend
+##### Artikel 9. Gevallen waarin geen bijstand behoeft te worden verleend
 
 1. Bijstand kan worden geweigerd of van voorwaarden of eisen afhankelijk worden gesteld wanneer een partij van oordeel is dat bijstand op grond van dit protocol:
 
@@ -2902,7 +2924,7 @@ Verzoeken om de afgifte van documenten of om de kennisgeving van besluiten worde
 
 4. Indien bijstand wordt geweigerd, dient dit besluit en de redenen ervan terstond aan de verzoekende autoriteit te worden medegedeeld.
 
-#### Artikel 10. Uitwisseling van gegevens en geheimhoudingsplicht
+##### Artikel 10. Uitwisseling van gegevens en geheimhoudingsplicht
 
 1. Alle informatie die ter uitvoering van dit protocol in welke vorm dan ook wordt verstrekt, heeft een vertrouwelijk karakter. De verstrekte gegevens vallen onder de geheimhoudingsplicht en worden beschermd volgens de wetgeving van de partij die ze heeft ontvangen, dan wel volgens de regelgeving die op de instellingen van de Gemeenschap van toepassing is.
 
@@ -2912,21 +2934,21 @@ Verzoeken om de afgifte van documenten of om de kennisgeving van besluiten worde
 
 4. De verkregen informatie wordt uitsluitend voor de toepassing van dit protocol gebruikt. Indien een van de overeenkomstsluitende partijen deze informatie voor andere doeleinden wenst te gebruiken, dient zij vooraf om de schriftelijke toestemming te verzoeken van de autoriteit die de informatie heeft verstrekt. Voor dit gebruik gelden dan de eventueel door deze autoriteit vastgestelde beperkingen.
 
-#### Artikel 11. Deskundigen en getuigen
+##### Artikel 11. Deskundigen en getuigen
 
 Een onder een aangezochte autoriteit ressorterende ambtenaar kan worden gemachtigd, binnen de perken van de hem verleende machtiging, als getuige of deskundige op te treden in gerechtelijke of administratieve procedures die betrekking hebben op aangelegenheden waarop dit protocol van toepassing is en daarbij de voor deze procedures noodzakelijke voorwerpen, bescheiden of voor echt gewaarmerkte afschriften voor te leggen. In de convocatie dient uitdrukkelijk te worden vermeld over welke aangelegenheid en in welke functie of hoedanigheid de betrokken ambtenaar zal worden ondervraagd.
 
-#### Artikel 12. Kosten van de bijstand
+##### Artikel 12. Kosten van de bijstand
 
 De overeenkomstsluitende partijen brengen elkaar geen kosten in rekening voor uitgaven die ter uitvoering van dit protocol zijn gemaakt, met uitzondering, in voorkomend geval, van de uitgaven voor deskundigen, getuigen, tolken en vertalers die niet in overheidsdienst zijn.
 
-#### Artikel 13. Uitvoering
+##### Artikel 13. Uitvoering
 
 1. Met de tenuitvoerlegging van dit protocol zijn enerzijds de douaneautoriteiten van Montenegro en anderzijds de bevoegde diensten van de Europese Commissie en, in voorkomend geval, de douaneautoriteiten van de lidstaten belast. Deze autoriteiten stellen alle praktische maatregelen en bepalingen voor de toepassing van dit protocol vast, rekening houdend met de geldende regelgeving, met name op het gebied van de gegevensbescherming. Zij kunnen de bevoegde autoriteiten aanbevelingen doen over wijzigingen die naar hun oordeel in dit protocol moeten worden aangebracht.
 
 2. De overeenkomstsluitende partijen raadplegen elkaar en stellen elkaar in kennis van alle uitvoeringsbepalingen die op grond van dit protocol worden vastgesteld.
 
-#### Artikel 14. Andere overeenkomsten
+##### Artikel 14. Andere overeenkomsten
 
 1. Rekening houdend met de respectieve bevoegdheden van de Gemeenschap en van haar lidstaten, geldt voor de bepalingen van dit protocol dat zij:
 
@@ -2946,13 +2968,13 @@ De overeenkomstsluitende partijen brengen elkaar geen kosten in rekening voor ui
 
 ### AFDELING I. ARBITRAGEPROCEDURE
 
-#### Artikel 3. Inleiding van de arbitrageprocedure
+##### Artikel 3. Inleiding van de arbitrageprocedure
 
 1. Indien de partijen er niet in slagen hun geschil bij te leggen, kan de klagende partij overeenkomstig de voorwaarden van [artikel 130 van deze overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&titeldeel=X&artikel=130&z=2014-12-12&g=2014-12-12) bij de andere partij en bij het Stabilisatie- en associatiecomité een schriftelijk verzoek tot instelling van een arbitragepanel indienen.
 
 2. De klagende partij geeft in haar verzoek het voorwerp van het geschil aan en eventueel de maatregel van de andere partij, of het niet-treffen van een maatregel, die zij beschouwt als in strijd met de bepalingen van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&hoofdstuk=I&artikel=2&z=2014-12-12&g=2014-12-12).
 
-#### Artikel 4. Samenstelling van het arbitragepanel
+##### Artikel 4. Samenstelling van het arbitragepanel
 
 1. Een arbitragepanel bestaat uit drie scheidsrechters.
 
@@ -2972,7 +2994,7 @@ Indien een van de partijen van oordeel is dat de voorzitter van het arbitragepan
 
 7. Indien een scheidsrechter niet aan de procedure kan deelnemen, zich terugtrekt, of overeenkomstig lid 6 wordt vervangen, wordt binnen vijf dagen een vervanger aangewezen overeenkomstig de selectieprocedures die waren gevolgd om de oorspronkelijke scheidsrechter aan te wijzen. De werkzaamheden van het arbitragepanel worden opgeschort voor de duur van deze procedure.
 
-#### Artikel 5. Uitspraken van het arbitragepanel
+##### Artikel 5. Uitspraken van het arbitragepanel
 
 1. Het arbitragepanel deelt zijn uitspraak aan de partijen en aan het Stabilisatie- en associatiecomité mede binnen 90 dagen na de instelling van het arbitragepanel. Indien het arbitragepanel oordeelt dat deze termijn niet kan worden gehaald, stelt de voorzitter van het panel de partijen en het Stabilisatie- en associatiecomité hiervan schriftelijk in kennis, met opgave van de redenen voor het uitstel. In geen geval mag de uitspraak later dan 120 dagen na de instelling van het panel plaatsvinden.
 
@@ -2986,11 +3008,11 @@ Indien een van de partijen van oordeel is dat de voorzitter van het arbitragepan
 
 ### AFDELING II. NALEVING
 
-#### Artikel 6. Naleving van de uitspraak van het arbitragepanel
+##### Artikel 6. Naleving van de uitspraak van het arbitragepanel
 
 Elke partij neemt alle noodzakelijke maatregelen om de uitspraak van het arbitragepanel na te leven en beide partijen streven ernaar overeen te komen de uitspraak binnen een redelijke termijn na te leven.
 
-#### Artikel 7. Redelijke termijn voor naleving
+##### Artikel 7. Redelijke termijn voor naleving
 
 1. Uiterlijk 30 dagen na kennisgeving van de uitspraak van het arbitragepanel aan de partijen, stelt de partij waartegen de klacht is ingediend de klagende partij in kennis van de tijd die nodig zal zijn voor naleving (hierna „redelijke termijn” genoemd). De partijen streven ernaar over deze redelijke termijn tot overeenstemming te komen.
 
@@ -2998,7 +3020,7 @@ Elke partij neemt alle noodzakelijke maatregelen om de uitspraak van het arbitra
 
 3. Indien het oorspronkelijke panel, of een of meer van de leden ervan, niet opnieuw bijeen kan komen, zijn de procedures van [artikel 4 van dit protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&hoofdstuk=II&afdeling=I&artikel=4&z=2014-12-12&g=2014-12-12) van toepassing. De termijn waarbinnen het panel zijn uitspraak moet mededelen, blijft 20 dagen na de instelling ervan.
 
-#### Artikel 8. Herziening van maatregelen getroffen tot naleving van de uitspraak van het arbitragepanel
+##### Artikel 8. Herziening van maatregelen getroffen tot naleving van de uitspraak van het arbitragepanel
 
 1. De partij waartegen de klacht is ingediend stelt de andere partij en het Stabilisatie- en associatiecomité vóór afloop van de redelijke termijn in kennis van alle maatregelen die zij heeft getroffen tot naleving van de uitspraak van het arbitragepanel.
 
@@ -3006,7 +3028,7 @@ Elke partij neemt alle noodzakelijke maatregelen om de uitspraak van het arbitra
 
 3. Indien het oorspronkelijke arbitragepanel, of een of meer van de leden ervan, niet opnieuw bijeen kan komen, zijn de procedures van [artikel 4 van dit protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&hoofdstuk=II&afdeling=I&artikel=4&z=2014-12-12&g=2014-12-12) van toepassing. De termijn waarbinnen het panel zijn uitspraak moet mededelen, blijft 45 dagen na de instelling ervan.
 
-#### Artikel 9. Tijdelijke maatregelen bij niet-naleving
+##### Artikel 9. Tijdelijke maatregelen bij niet-naleving
 
 1. Indien de partij waartegen de klacht is ingediend vóór afloop van de redelijke termijn nalaat kennis te geven van de maatregelen die zijn getroffen tot naleving van de uitspraak van het arbitragepanel, of indien het arbitragepanel oordeelt dat de maatregel waarvan overeenkomstig [artikel 8, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&hoofdstuk=II&afdeling=II&artikel=8&z=2014-12-12&g=2014-12-12), mededeling is gedaan, niet conform is de verplichtingen van de partij krachtens deze overeenkomst, doet de partij waartegen de klacht is ingediend de klagende partij, op haar verzoek, een aanbod van tijdelijke compensatie.
 
@@ -3016,7 +3038,7 @@ Elke partij neemt alle noodzakelijke maatregelen om de uitspraak van het arbitra
 
 4. Opschorting van voordelen is een tijdelijke maatregel en wordt alleen toegepast zolang de maatregel die in strijd was bevonden met deze overeenkomst is ingetrokken of gewijzigd en met deze overeenkomst in overeenstemming gebracht, of tot de partijen overeenkomen het geschil te beslechten.
 
-#### Artikel 10. Herziening van maatregelen tot naleving getroffen na de opschorting van voordelen
+##### Artikel 10. Herziening van maatregelen tot naleving getroffen na de opschorting van voordelen
 
 1. De partij waartegen de klacht is ingediend stelt de andere partij en het Stabilisatie- en associatiecomité in kennis van elke maatregel die zij heeft getroffen tot naleving van de uitspraak van het arbitragepanel en van haar verzoek tot beëindiging van de opschorting van de voordelen door de klagende partij.
 
@@ -3026,19 +3048,19 @@ Elke partij neemt alle noodzakelijke maatregelen om de uitspraak van het arbitra
 
 ### AFDELING III. GEMEENSCHAPPELIJKE BEPALINGEN
 
-#### Artikel 11. Openbare hoorzittingen
+##### Artikel 11. Openbare hoorzittingen
 
 De vergaderingen van het arbitragepanel zijn openbaar onder de voorwaarden van het in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&hoofdstuk=III&artikel=18&z=2014-12-12&g=2014-12-12) vermelde reglement van orde, tenzij het arbitragepanel er uit eigen initiatief of op verzoek van de partijen anders over beschikt.
 
-#### Artikel 12. Inlichtingen en technisch advies
+##### Artikel 12. Inlichtingen en technisch advies
 
 Het panel kan op verzoek van een partij of op eigen initiatief inlichtingen inwinnen bij alle bronnen die het voor de werkzaamheden van het panel passend acht. Het panel heeft tevens het recht deskundigen om advies te vragen indien het dit nuttig acht. Alle op deze manier ingewonnen informatie moet aan beide partijen worden medegedeeld en erover kunnen opmerkingen worden geformuleerd. De belanghebbende partijen zijn gemachtigd bij het arbitragepanel stukken in te dienen als amicus curiae onder de voorwaarden die zijn neergelegd in het reglement van orde als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&hoofdstuk=III&artikel=18&z=2014-12-12&g=2014-12-12).
 
-#### Artikel 13. Interpretatiebeginselen
+##### Artikel 13. Interpretatiebeginselen
 
 De arbitragepanels passen toe en interpreteren de bepalingen van deze overeenkomst volgens de gebruikelijke regels voor de interpretatie van internationaal publiekrecht, met inbegrip van het [Verdrag van Wenen inzake het verdragenrecht](https://wetten.overheid.nl/jci1.3:c:BWBV0003441). Zij geven geen interpretatie van het acquis communautaire. Het feit dat een bepaling inhoudelijk identiek is met een bepaling van het [Verdrag tot oprichting van de Europese Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) is niet bepalend voor de interpretatie van die bepaling.
 
-#### Artikel 14. Besluiten en uitspraken van het arbitragepanel
+##### Artikel 14. Besluiten en uitspraken van het arbitragepanel
 
 1. Alle besluiten van het arbitragepanel, met inbegrip van de vaststelling van de uitspraak, worden getroffen bij meerderheid van stemmen.
 
@@ -3046,13 +3068,13 @@ De arbitragepanels passen toe en interpreteren de bepalingen van deze overeenkom
 
 ### HOOFDSTUK III. ALGEMENE BEPALINGEN
 
-#### Artikel 15. Lijst van scheidsrechters
+##### Artikel 15. Lijst van scheidsrechters
 
 1. Het Stabilisatie- en associatiecomité stelt uiterlijk 6 maanden na de inwerkingtreding van dit protocol een lijst van 15 personen op die bereid en geschikt zijn om als scheidsrechter te fungeren. Elke partij kiest 5 personen die als scheidsrechter kunnen optreden. De partijen komen ook 5 personen overeen die als voorzitter van het arbitragepanel kunnen fungeren. Het Stabilisatie- en associatiecomité ziet erop toe dat het aantal personen op de lijst te allen tijde gehandhaafd blijft.
 
 2. De scheidrechters moeten beschikken over gespecialiseerde kennis en ervaring inzake wetgeving, internationale wetgeving, communautaire wetgeving en/of internationale handel. De scheidsrechters dienen onafhankelijk te zijn, op persoonlijke titel op te treden en niet verbonden te zijn aan of instructies aan te nemen van een organisatie of een regering, en zijn verplicht de in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004153&hoofdstuk=III&artikel=18&z=2014-12-12&g=2014-12-12) genoemde gedragscode na te leven.
 
-#### Artikel 16. Relatie tot WTO-verplichtingen
+##### Artikel 16. Relatie tot WTO-verplichtingen
 
 Na de eventuele toetreding van Montenegro tot de Wereldhandelsorganisatie (WTO) zijn de volgende bepalingen van toepassing:
 
@@ -3062,7 +3084,7 @@ Na de eventuele toetreding van Montenegro tot de Wereldhandelsorganisatie (WTO) 
 
 - c. Geen enkele bepaling van dit protocol verhindert een partij de opschorting van verplichtingen die is toegestaan door een orgaan voor geschillenbeslechting van de WTO, ten uitvoer te leggen.
 
-#### Artikel 17. Termijnen
+##### Artikel 17. Termijnen
 
 1. Alle in dit protocol vastgestelde termijnen worden gerekend in kalenderdagen vanaf de dag die volgt op de dag waarop het desbetreffende feit plaatsvindt.
 
@@ -3070,7 +3092,7 @@ Na de eventuele toetreding van Montenegro tot de Wereldhandelsorganisatie (WTO) 
 
 3. Alle in dit protocol vermelde termijnen kunnen ook door de voorzitter van het arbitragepanel worden verlengd, op redelijk verzoek van een van de partijen of op eigen initiatief.
 
-#### Artikel 18. Reglement van orde, gedragscode en wijziging van dit protocol
+##### Artikel 18. Reglement van orde, gedragscode en wijziging van dit protocol
 
 1. De Stabilisatie- en associatieraad stelt uiterlijk 6 maanden na de inwerkingtreding van dit protocol het reglement van orde vast voor het verloop van de werkzaamheden van het arbitragepanel.
 
@@ -3078,7 +3100,7 @@ Na de eventuele toetreding van Montenegro tot de Wereldhandelsorganisatie (WTO) 
 
 3. De Stabilisatie- en associatieraad kan besluiten dit protocol te wijzigen.
 
-#### Artikel 1
+##### Artikel 1
 
 Montenegro mag deelnemen aan de volgende communautaire programma’s:
 
@@ -3086,31 +3108,31 @@ Montenegro mag deelnemen aan de volgende communautaire programma’s:
 
 - b. de programma’s die na 27 juli 2005 werden ingesteld of verlengd en die een openstellingsclausule bevatten die in de deelname van Montenegro voorziet.
 
-#### Artikel 2
+##### Artikel 2
 
 Montenegro verstrekt een financiële bijdrage aan de algemene begroting van de Europese Unie in overeenstemming met de specifieke programma’s waaraan het deelneemt.
 
-#### Artikel 3
+##### Artikel 3
 
 Vertegenwoordigers van Montenegro mogen als waarnemers de vergaderingen bijwonen van de comités van beheer die belast zijn met het toezicht op de programma’s waaraan Montenegro een financiële bijdrage levert, voor zover deze betrekking hebben op de onderwerpen die Montenegro aangaan.
 
-#### Artikel 4
+##### Artikel 4
 
 Ten aanzien van projecten en initiatieven die door deelnemers uit Montenegro worden ingediend, gelden in het kader van de betrokken programma’s voor zover mogelijk dezelfde voorwaarden, regels en procedures als voor de lidstaten.
 
-#### Artikel 5
+##### Artikel 5
 
 De specifieke voorwaarden voor de deelname van Montenegro aan elk afzonderlijk programma, in het bijzonder de verschuldigde financiële bijdrage, wordt vastgesteld bij een overeenkomst in de vorm van een memorandum van overeenstemming tussen de Europese Commissie, die optreedt namens de Gemeenschap, en Montenegro.
 
 Indien Montenegro verzoekt om externe bijstand van de Gemeenschap overeenkomstig Verordening (EG) nr. 1085/2006 van de Raad van 17 juli 2006 tot invoering van een instrument voor pretoetredingssteun (IPA)2)PB L 210 van 31.7.2006, blz. 82. , dan wel overeenkomstig een eventuele toekomstige soortgelijke verordening waarin in externe communautaire bijstand voor Montenegro mocht worden voorzien, worden de voorwaarden voor het gebruik door Montenegro van de bijstand van de Gemeenschap vastgesteld in een financieringsmemorandum.
 
-#### Artikel 6
+##### Artikel 6
 
 Overeenkomstig het financieel reglement van de Gemeenschap wordt in het memorandum van overeenstemming bepaald dat door of op gezag van de Europese Commissie, het Europees Bureau voor fraudebestrijding (OLAF) en de Rekenkamer van de Europese Gemeenschappen financiële controles of audits worden verricht.
 
 Er worden gedetailleerde bepalingen vastgesteld inzake financiële controle en audits, administratieve maatregelen, sancties en invordering, waarbij aan de Europese Commissie, OLAF en de Rekenkamer bevoegdheden worden toegekend die gelijkwaardig zijn met hun bevoegdheden ten aanzien van begunstigden of contractanten die in de Gemeenschap zijn gevestigd.
 
-#### Artikel 7
+##### Artikel 7
 
 Uiterlijk drie jaar na de inwerkingtreding van deze overeenkomst, en vervolgens iedere drie jaar, kan de Stabilisatie- en associatieraad de tenuitvoerlegging van dit protocol evalueren aan de hand van de werkelijke deelname van Montenegro aan een of meer communautaire programma’s.
 

@@ -1,13 +1,37 @@
 ---
-title: "Besluit beleggingsinstellingen"
+title: "Besluit van 29 april 1970, houdende vaststelling van het Besluit beleggingsinstellingen"
 identifier: "BWBR0002705"
-categorie: "Bestuursrecht"
-publicatiedatum: 2020-01-01
-laatste_update: 2020-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002705"
+country: "nl"
+rank: "amvb"
+publication_date: "2020-01-01"
+last_updated: "2020-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002705"
+soort: "AMvB"
+stam_id: "239413"
+version_id: "331442"
+internal_id: "C331441"
+label_id: "234704"
+dtd_version: "2.0"
+original_entry_into_force: "2001-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002705/2020-01-01/0"
+intitule_bron: "Stb.1970-190"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1970-04-29"
+intitule_status: "goed"
+original_publication: "Stb.2000-640"
+original_signed_date: "2000-12-20"
+original_published_date: "2000-12-28"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2000-640"
+entry_into_force_date: "2001-01-01"
+jci_1_3: "jci1.3:c:BWBR0002705&z=2020-01-01&g=2020-01-01"
+jci_1_0: "1.0:c:BWBR0002705&g=2020-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit beleggingsinstellingen"
+signed_date: "2000-12-20"
+entry_into_force: "2001-01-01"
 ---
-
 # Besluit van 29 april 1970, houdende vaststelling van het Besluit beleggingsinstellingen
 
 Op de voordracht van de Staatssecretaris van Financiën van 29 december 1969, nr. B 69/23370, Directie Wetgeving directe belastingen;
@@ -20,15 +44,15 @@ Gezien het nader rapport van de Staatssecretaris van Financiën van 22 april 197
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 Dit besluit verstaat onder wet: de [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672).
 
-#### Artikel 1a
+##### Artikel 1a
 
 Indien een beleggingsinstelling heeft gekozen voor het vormen van een herbeleggingsreserve als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002705&artikel=4&z=2020-01-01&g=2020-01-01), wordt in afwijking van artikel 8 van de wet, niet tot de winst gerekend het in het [tweede lid van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002705&artikel=4&z=2020-01-01&g=2020-01-01) bedoelde bedrag.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het in [artikel 28, tweede lid, onderdeel **b,** van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=28) bedoelde gedeelte van de winst is het positieve bedrag van de voor uitdeling beschikbare winst verminderd met de te verrekenen uitdelingstekorten.
 
@@ -62,11 +86,11 @@ Indien een beleggingsinstelling heeft gekozen voor het vormen van een herbeleggi
 
 6. Voor de toepassing van het tweede lid wordt onder een evenredig gedeelte verstaan een gedeelte dat evenredig is aan de verhouding tussen de waarde in het economische verkeer van het vermogen bij aanvang van het boekjaar verminderd met de herbeleggingsreserve bij aanvang van het boekjaar, en de waarde in het economische verkeer van het vermogen bij aanvang van het boekjaar.
 
-#### Artikel 3
+##### Artikel 3
 
 In aanvulling op artikel 8 van de wet wordt uitreiking van aandelen aan een beleggingsinstelling voor de nominale waarde als dividend beschouwd voorzover niet blijkt dat storting heeft plaatsgevonden of zal plaatsvinden. Bijschrijving op aandelen wordt met uitreiking van aandelen gelijkgesteld.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Beleggingsinstellingen die daarvoor kiezen, kunnen een herbeleggingsreserve vormen. Deze keuze geldt ook voor volgende jaren.
 
@@ -86,33 +110,33 @@ In aanvulling op artikel 8 van de wet wordt uitreiking van aandelen aan een bele
 
 7. Voor de toepassing van dit artikel wordt onder evenredig gedeelte verstaan een gedeelte dat evenredig is aan de verhouding tussen de omvang van de herbeleggingsreserve bij aanvang van het boekjaar, en de waarde in het economische verkeer van het gehele vermogen bij aanvang van het boekjaar.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Beleggingsinstellingen kunnen een afrondingsreserve vormen.
 
 2. De reserve bedraagt, behoudens het bepaalde in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002705&artikel=7&z=2020-01-01&g=2020-01-01), ten hoogste één percent van hetgeen is gestort op de bij het einde van het jaar in omloop zijnde aandelen of bewijzen van deelgerechtigdheid. Indien en voor zover de berekening van de belastbare winst tot een negatief bedrag zou leiden, wordt de reserve aan de winst toegevoegd.
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 1. Indien het over een jaar berekende belastbare bedrag van een beleggingsinstelling in afwijking van de aangifte op een hoger bedrag zou moeten worden vastgesteld wordt, in plaats van het gedeelte van die verhoging dat overeenkomt met het bedrag waarmede de op de voet van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002705&artikel=2&z=2020-01-01&g=2020-01-01) te verrichten uitdelingen de over het jaar verrichte uitdelingen te boven gaat, een bedrag gelijk aan dat gedeelte toegevoegd aan de afrondingsreserve. Het in de vorige volzin laatstgenoemde bedrag wordt in het jaar waarin de in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002705&artikel=8&z=2020-01-01&g=2020-01-01), bedoelde beschikking onherroepelijk is komen vast te staan, uit de afrondingsreserve aan de winst van de beleggingsinstelling toegevoegd.
 
 2. Indien het over een jaar berekende belastbare bedrag van een beleggingsinstelling in afwijking van de aangifte op een lager bedrag zou moeten worden vastgesteld wordt, voor zover mogelijk, in plaats daarvan tot het bedrag van de verlaging een bedrag aan de winst van dat jaar toegevoegd uit de afrondingsreserve.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De inspecteur stelt de bedragen van de toevoeging aan of de vermindering van onderscheidenlijk de herbeleggingsreserve en de afrondingsreserve bij voor bezwaar vatbare beschikking vast. [Artikel 11, derde en vierde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=11) (**Stb.** 301) is van overeenkomstige toepassing.
 
 2. Indien enig feit grond oplevert voor het vermoeden dat een toevoeging tot een te laag bedrag of een vermindering tot een te hoog bedrag is vastgesteld, kan de inspecteur de in het eerste lid bedoelde beschikking herzien bij voor bezwaar vatbare beschikking. Een feit dat de inspecteur bekend was of redelijkerwijs bekend had kunnen zijn, kan geen grond voor herziening opleveren. De bevoegdheid tot herziening vervalt door verloop van vijf jaren na het einde van het jaar waarop de beschikking betrekking heeft. Indien voor het doen van aangifte uitstel is verleend, wordt de termijn van vijf jaren met de duur van dit uitstel verlengd.
 
-#### Artikel 9
+##### Artikel 9
 
 Ten aanzien van beleggingsinstellingen bedraagt de belasting nul percent van het belastbare bedrag.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Een lichaam wordt uitsluitend met ingang van een jaar als beleggingsinstelling aangemerkt. Ingeval het lichaam vóór dat tijdstip reeds aan de heffing van vennootschapsbelasting is onderworpen, is dit het jaar volgende op dat waarin aan het bepaalde in het tweede lid is voldaan.
 
@@ -130,11 +154,11 @@ Ten aanzien van beleggingsinstellingen bedraagt de belasting nul percent van het
 
 6. Aan het einde van het jaar, voorafgaande aan dat met ingang waarvan een lichaam niet langer als beleggingsinstelling wordt aangemerkt, worden de beleggingen te boek gesteld voor de waarde welke daaraan in het economische verkeer kan worden toegekend.
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 1. Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad** waarin het is geplaatst.
 

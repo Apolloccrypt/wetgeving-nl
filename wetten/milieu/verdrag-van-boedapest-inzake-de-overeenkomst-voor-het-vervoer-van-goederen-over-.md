@@ -1,13 +1,38 @@
 ---
 title: "Verdrag van Boedapest inzake de Overeenkomst voor het vervoer van goederen over de binnenwateren (CMNI)"
 identifier: "BWBV0001808"
-categorie: "Milieu"
-publicatiedatum: 2006-10-01
-laatste_update: 2001-06-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001808"
+country: "nl"
+rank: "verdrag"
+publication_date: "2006-10-01"
+last_updated: "2001-06-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001808"
+soort: "verdrag"
+stam_id: "10002521523"
+version_id: "10002508372"
+internal_id: "C10006994051"
+label_id: "10002511394"
+dtd_version: "2.0"
+original_entry_into_force: "2006-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001808/2006-10-01/0"
+intitule_bron: "Trb.2001-124"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-06-20"
+intitule_published: "2001-07-26"
+intitule_in_force: "2006-08-11"
+intitule_status: "goed"
+original_publication: "Trb.2001-124"
+original_signed_date: "2006-06-20"
+original_published_date: "2001-07-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2001-124"
+entry_into_force_date: "2006-10-01"
+jci_1_3: "jci1.3:c:BWBV0001808&z=2006-10-01&g=2006-10-01"
+jci_1_0: "1.0:c:BWBV0001808&g=2006-10-01"
+citeertitel_status: "redactioneel"
+signed_date: "2006-06-20"
+entry_into_force: "2006-10-01"
 ---
-
 # Verdrag van Boedapest inzake de Overeenkomst voor het vervoer van goederen over de binnenwateren (CMNI)
 
 De Staten die Partij zijn bij dit Verdrag,
@@ -20,7 +45,7 @@ Hebben besloten met dit doel een verdrag te sluiten en zijn overeengekomen als v
 
 ### HOOFDSTUK I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag:
 
@@ -42,7 +67,7 @@ Voor de toepassing van dit Verdrag:
 
 - 9. dient onder het overeenkomstig dit Verdrag toepasselijke recht van een Staat te worden verstaan, de in deze Staat geldende rechtsnormen met uitzondering van de rechtsnormen van het internationale privaatrecht.
 
-#### Artikel 2. Toepassingsgebied
+##### Artikel 2. Toepassingsgebied
 
 1. Dit Verdrag is van toepassing op iedere vervoerovereenkomst waarbij de laadhaven of plaats van inontvangstneming en loshaven of plaats van aflevering zijn gelegen in twee verschillende Staten waarvan er ten minste één Partij is bij dit Verdrag. Indien de overeenkomst een keuze biedt tussen meerdere loshavens of plaatsen van aflevering, is de loshaven of de plaats waar de goederen feitelijk zijn afgeleverd, bepalend.
 
@@ -56,7 +81,7 @@ Voor de toepassing van dit Verdrag:
 
 ### HOOFDSTUK II. RECHTEN EN VERPLICHTINGEN VAN DE VERDRAGSLUITENDE PARTIJEN
 
-#### Artikel 3. Inontvangstneming, vervoer en aflevering van de goederen
+##### Artikel 3. Inontvangstneming, vervoer en aflevering van de goederen
 
 1. De vervoerder is verplicht de goederen binnen de gestelde termijn naar de plaats van aflevering te vervoeren en deze bij de geadresseerde af te leveren in dezelfde staat als waarin hij ze heeft overhandigd gekregen.
 
@@ -74,7 +99,7 @@ Voor de toepassing van dit Verdrag:
 
 6. De vervoerder mag de goederen slechts vervoeren op het dek of in open ruimen indien dit met de afzender is overeengekomen of indien dit in overeenstemming is met het handelsgebruik of vereist is op grond van geldende voorschriften.
 
-#### Artikel 4. Ondervervoerder
+##### Artikel 4. Ondervervoerder
 
 1. De overeenkomst die beantwoordt aan de begripsomschrijving van artikel 1, eerste lid, gesloten tussen een vervoerder en een ondervervoerder dient te worden beschouwd als een vervoerovereenkomst in de zin van dit Verdrag. Met betrekking tot deze overeenkomst zijn alle bepalingen van dit Verdrag die betrekking hebben op de afzender van toepassing op de vervoerder en alle bepalingen van dit Verdrag die betrekking hebben op de vervoerder op de ondervervoerder.
 
@@ -86,11 +111,11 @@ Voor de toepassing van dit Verdrag:
 
 5. Indien en voor zover zowel de vervoerder als de ondervervoerder aansprakelijk zijn, zijn zij hoofdelijk aansprakelijk. Niets in dit artikel doet afbreuk aan het recht van verhaal tussen hen.
 
-#### Artikel 5. Afleveringstermijn
+##### Artikel 5. Afleveringstermijn
 
 De vervoerder is verplicht de goederen af te leveren binnen de in de vervoerovereenkomst overeengekomen termijn of, indien geen termijn is overeengekomen, binnen de termijn die redelijkerwijs van een zorgvuldig vervoerder mag worden verlangd, rekening houdend met de omstandigheden van de reis en met een ongehinderde vaart.
 
-#### Artikel 6. Verplichtingen van de afzender
+##### Artikel 6. Verplichtingen van de afzender
 
 1. De afzender is verplicht de uit hoofde van de vervoerovereenkomst verschuldigde bedragen te voldoen.
 
@@ -110,7 +135,7 @@ De vervoerder is verplicht de goederen af te leveren binnen de in de vervoerover
 
 4. Onverminderd de verplichtingen van de vervoerder, moet de afzender de goederen laden, stuwen en vastzetten in overeenstemming met de gebruiken in de binnenvaart, tenzij in de vervoerovereenkomst anders is bepaald.
 
-#### Artikel 7. Gevaarlijke of milieuschadelijke goederen
+##### Artikel 7. Gevaarlijke of milieuschadelijke goederen
 
 1. Indien gevaarlijke of milieuschadelijke goederen moeten worden vervoerd is de afzender verplicht, alvorens de goederen te overhandigen, en in aanvulling op de in artikel 6, tweede lid, bedoelde gegevens, de vervoerder schriftelijk en uitdrukkelijk in te lichten over het gevaar en de milieurisico's inherent aan de goederen, alsmede over de te nemen voorzorgsmaatregelen.
 
@@ -122,7 +147,7 @@ De vervoerder is verplicht de goederen af te leveren binnen de in de vervoerover
 
 5. De vervoerder heeft recht op vergoeding van de door hem geleden schade, indien hij gerechtigd is om de in het derde of vierde lid bedoelde maatregelen te nemen.
 
-#### Artikel 8. Aansprakelijkheid van de afzender
+##### Artikel 8. Aansprakelijkheid van de afzender
 
 1. De afzender, ook al heeft deze geen schuld, is aansprakelijk voor alle schaden en kosten die voor de vervoerder of ondervervoerder zijn ontstaan als gevolg van het feit dat:
 
@@ -134,7 +159,7 @@ De vervoerder is verplicht de goederen af te leveren binnen de in de vervoerover
 
 2. De afzender is op gelijke wijze als voor zijn eigen handelen en nalaten, aansprakelijk voor het handelen en nalaten van de personen van wie hij zich bedient bij het verrichten van de taken en het nakomen van de verplichtingen genoemd in de artikelen 6 en 7, voor zover deze personen handelen in de uitoefening van hun functie.
 
-#### Artikel 9. Ontbinding van de vervoerovereenkomst door de vervoerder
+##### Artikel 9. Ontbinding van de vervoerovereenkomst door de vervoerder
 
 1. De vervoerder kan de vervoerovereenkomst ontbinden wanneer de afzender zijn in artikel 6, tweede lid, of in artikel 7, eerste en tweede lid, bedoelde verplichtingen niet nagekomen is.
 
@@ -144,7 +169,7 @@ De vervoerder is verplicht de goederen af te leveren binnen de in de vervoerover
 
 - b. naast de eventuele overliggelden, een schadevergoeding gelijk aan het bedrag van de gemaakte kosten en de ontstane schade alsmede, wanneer de reis is aangevangen, de evenredige vracht voor het reeds afgelegde deel van de reis.
 
-#### Artikel 10. Aflevering van de goederen
+##### Artikel 10. Aflevering van de goederen
 
 1. Behoudens de verplichting van de afzender bedoeld in artikel 6, eerste lid, is de geadresseerde, die na aankomst van de goederen op de plaats van aflevering om aflevering van de goederen verzoekt, in overeenstemming met de vervoerovereenkomst aansprakelijk voor de vracht en de overige op de goederen rustende vorderingen, alsmede voor zijn bijdragen in geval van avarij-grosse. Bij het ontbreken van een vervoersdocument of wanneer dit document niet is overgelegd, is de geadresseerde aansprakelijk voor de met de afzender overeengekomen vracht, indien deze overeenkomt met hetgeen in de handel gebruikelijk is.
 
@@ -152,7 +177,7 @@ De vervoerder is verplicht de goederen af te leveren binnen de in de vervoerover
 
 ### HOOFDSTUK III. VERVOERSDOCUMENTEN
 
-#### Artikel 11. Aard en inhoud
+##### Artikel 11. Aard en inhoud
 
 1. De vervoerder is verplicht voor elk vervoer van goederen waarop dit Verdrag van toepassing is een vervoersdocument op te maken; hij is alleen verplicht een cognossement op te maken indien de afzender daarom verzoekt en indien dit is overeengekomen voorafgaand aan het laden van de goederen of voor hun inontvangstneming ten vervoer. De afwezigheid of onvolledigheid van een vervoersdocument tast niet de geldigheid van de vervoerovereenkomst aan.
 
@@ -184,7 +209,7 @@ De vervoerder is verplicht de goederen af te leveren binnen de in de vervoerover
 
 - j. de dag en de plaats van uitgifte. Het ontbreken van één of meer in dit lid genoemde gegevens tast de juridische aard van een vervoersdocument in de zin van artikel 1, zesde lid, van dit Verdrag niet aan.
 
-#### Artikel 12. Voorbehouden in de vervoersdocumenten
+##### Artikel 12. Voorbehouden in de vervoersdocumenten
 
 1. De vervoerder is gerechtigd in het vervoersdocument voorbehouden op te nemen:
 
@@ -198,7 +223,7 @@ De vervoerder is verplicht de goederen af te leveren binnen de in de vervoerover
 
 3. Indien de goederen, in overeenstemming met de gegevens in het vervoersdocument, in een container of in ruimen van het schip zijn gestuwd die door andere personen dan de vervoerder, zijn ondergeschikten of lasthebbers zijn verzegeld, en de container of de zegels niet beschadigd of verbroken zijn tot aan de loshaven of de plaats van aflevering, wordt vermoed dat het verlies of de beschadiging van de goederen niet tijdens het vervoer heeft plaatsgevonden.
 
-#### Artikel 13. Cognossement
+##### Artikel 13. Cognossement
 
 1. De originele exemplaren van een cognossement zijn waardepapieren die zijn gesteld op naam van de geadresseerde, aan order of aan toonder.
 
@@ -210,7 +235,7 @@ De vervoerder is verplicht de goederen af te leveren binnen de in de vervoerover
 
 ### HOOFDSTUK IV. HET RECHT OM OVER DE GOEDEREN TE BESCHIKKEN
 
-#### Artikel 14. Beschikkingsgerechtigde
+##### Artikel 14. Beschikkingsgerechtigde
 
 1. De afzender heeft het recht over de goederen te beschikken; hij kan met name eisen dat de vervoerder het vervoer van de goederen niet voortzet, dat hij de plaats van aflevering wijzigt of dat hij de goederen aan een andere geadresseerde aflevert dan die in het vervoersdocument vermeld staat.
 
@@ -222,7 +247,7 @@ De vervoerder is verplicht de goederen af te leveren binnen de in de vervoerover
 
 3. Door een daartoe strekkende vermelding in de vrachtbrief kan de afzender bij de uitgifte hiervan ten gunste van de geadresseerde afzien van zijn beschikkingsrecht.
 
-#### Artikel 15. Voorwaarden voor het uitoefenen van het beschikkingsrecht
+##### Artikel 15. Voorwaarden voor het uitoefenen van het beschikkingsrecht
 
 De afzender of, in de gevallen van artikel 14, tweede en derde lid, de geadresseerde, dient, indien hij zijn beschikkingsrecht wenst uit te oefenen,
 
@@ -236,13 +261,13 @@ De afzender of, in de gevallen van artikel 14, tweede en derde lid, de geadresse
 
 ### HOOFDSTUK V. AANSPRAKELIJKHEID VAN DE VERVOERDER
 
-#### Artikel 16. Aansprakelijkheid voor schade
+##### Artikel 16. Aansprakelijkheid voor schade
 
 1. De vervoerder is aansprakelijk voor schade door verlies of door beschadiging van de goederen die ontstaat tussen het ogenblik van de inontvangstneming van de goederen ten vervoer en het ogenblik van hun aflevering, alsmede voor vertraging in de aflevering, voorzover hij niet bewijst dat de schade voortvloeit uit omstandigheden die een zorgvuldig vervoerder niet heeft kunnen vermijden en waarvan hij de gevolgen niet heeft kunnen verhinderen.
 
 2. De aansprakelijkheid van de vervoerder voor schade door verlies of door beschadiging van de goederen die ontstaat vóór het ogenblik van laden in het schip of na het ogenblik van lossing, wordt geregeld door het op de vervoerovereenkomst toepasselijke recht van een Staat.
 
-#### Artikel 17. Ondergeschikten en lasthebbers
+##### Artikel 17. Ondergeschikten en lasthebbers
 
 1. De vervoerder is op gelijke wijze als voor zijn eigen handelen en nalaten, aansprakelijk voor het handelen en nalaten van zijn ondergeschikten en lasthebbers van wier diensten hij gebruik maakt tijdens de uitvoering van de vervoerovereenkomst, indien deze personen in de uitoefening van hun functie hebben gehandeld.
 
@@ -252,7 +277,7 @@ De afzender of, in de gevallen van artikel 14, tweede en derde lid, de geadresse
 
 4. Een loods die door een autoriteit wordt aangewezen en niet vrij kan worden gekozen, wordt niet beschouwd als ondergeschikte of lasthebber in de zin van het eerste lid.
 
-#### Artikel 18. Bijzondere ontheffingen van aansprakelijkheid
+##### Artikel 18. Bijzondere ontheffingen van aansprakelijkheid
 
 1. De vervoerder en de ondervervoerder zijn ontheven van aansprakelijkheid, indien het verlies, de schade of de vertraging het gevolg is van één van de hierna opgesomde omstandigheden of risico's:
 
@@ -274,7 +299,7 @@ De afzender of, in de gevallen van artikel 14, tweede en derde lid, de geadresse
 
 2. Wanneer, gelet op de omstandigheden van het geval, schade een gevolg heeft kunnen zijn van één van de in het eerste lid van dit artikel genoemde omstandigheden of risico's, wordt vermoed dat de schade is ontstaan door deze omstandigheid of dit risico. Dit vermoeden vervalt, indien de benadeelde bewijst dat de schade niet of niet uitsluitend voortvloeit uit één van de in het eerste lid van dit artikel genoemde omstandigheden of risico's.
 
-#### Artikel 19. Berekening van de schadevergoeding
+##### Artikel 19. Berekening van de schadevergoeding
 
 1. Indien de vervoerder aansprakelijk is voor het volledige verlies van de goederen, is de door hem verschuldigde schadevergoeding gelijk aan de waarde van de goederen op de plaats en dag van aflevering zoals vermeld in de vervoerovereenkomst. De aflevering aan een ander persoon dan de rechthebbende wordt beschouwd als een verlies.
 
@@ -286,7 +311,7 @@ De afzender of, in de gevallen van artikel 14, tweede en derde lid, de geadresse
 
 5. Het bepaalde in dit artikel doet geen afbreuk aan het recht van de vervoerder op de vracht zoals voorzien in de vervoerovereenkomst of, bij gebrek aan bijzondere afspraken op dit punt, in toepasselijke nationale regelgeving of gebruiken.
 
-#### Artikel 20. Maximale aansprakelijkheidsgrenzen
+##### Artikel 20. Maximale aansprakelijkheidsgrenzen
 
 1. Onverminderd artikel 21 en het vierde lid van dit artikel en ongeacht de tegen hem ingestelde vordering, is de vervoerder in geen geval aansprakelijk voor bedragen hoger dan 666.67 rekeneenheden voor elk collo of elke andere laadeenheid of 2 rekeneenheden voor elke kilogram van het in het vervoersdocument genoemde gewicht van de verloren gegane of beschadigde goederen, naargelang het hoogstebedrag. Indien het collo of de andere laadeenheid een container is en in het vervoersdocument geen colli of laadeenheden worden aangegeven als zijnde verpakt in een container, komt in de plaats van 666.67 rekeneenheden een bedrag van 1.500 rekeneenheden voor de container zonder de daarin samengebrachte goederen, plus 25.000 rekeneenheden extra voor de in de container samengebrachte goederen.
 
@@ -302,19 +327,19 @@ De afzender of, in de gevallen van artikel 14, tweede en derde lid, de geadresse
 
 5. Het totale bedrag dat voor dezelfde schade door de vervoerder, de ondervervoerder en hun ondergeschikten en lasthebbers als vergoeding verschuldigd is, mag de som van de in dit artikel bedoelde maximale aansprakelijkheidsgrenzen niet te boven gaan.
 
-#### Artikel 21. Verval van het recht op beperking van aansprakelijkheid
+##### Artikel 21. Verval van het recht op beperking van aansprakelijkheid
 
 1. De vervoerder of de ondervervoerder kan geen aanspraak maken op de in dit Verdrag of in de vervoerovereenkomst bedoelde ontheffingen en beperkingen van aansprakelijkheid, indien wordt bewezen dat de schade veroorzaakt is door een handelen of nalaten van hemzelf, hetzij met de opzet een dergelijke schade te veroorzaken, hetzij als gevolg van roekeloos gedragen in de wetenschap dat een dergelijke schade er waarschijnlijk uit zou voortvloeien.
 
 2. De voor de vervoerder of ondervervoerder optredende ondergeschikten en lasthebbers kunnen evenmin aanspraak maken op de in dit Verdrag of in de vervoerovereenkomst bedoelde ontheffingen en beperkingen van aansprakelijkheid, indien wordt bewezen dat zij de schade hebben veroorzaakt op de in het eerste lid omschreven wijze.
 
-#### Artikel 22. Toepassing van de ontheffingen en beperkingen van aansprakelijkheid
+##### Artikel 22. Toepassing van de ontheffingen en beperkingen van aansprakelijkheid
 
 De in dit Verdrag voorziene of in de vervoerovereenkomst overeengekomen ontheffingen en beperkingen zijn van toepassing op elke vordering wegens verlies, schade of te late aflevering van de in de vervoerovereenkomst bedoelde goederen, ongeacht of deze vordering is gebaseerd op een vervoerovereenkomst, op onrechtmatige daad of op een andere rechtsgrond.
 
 ### HOOFDSTUK VI. TERMIJN VOOR HET INSTELLEN VAN VORDERINGEN
 
-#### Artikel 23. Mededeling van schade
+##### Artikel 23. Mededeling van schade
 
 1. De aanvaarding van de goederen zonder voorbehoud door de geadresseerde levert het vermoeden op dat de vervoerder de goederen heeft afgeleverd in dezelfde staat en hoeveelheid als waarin deze aan hem ten vervoer werden overhandigd.
 
@@ -326,7 +351,7 @@ De in dit Verdrag voorziene of in de vervoerovereenkomst overeengekomen ontheffi
 
 5. Voor schade die is ontstaan door vertraging in de aflevering is geen schadevergoeding verschuldigd, tenzij de geadresseerde kan bewijzen dat hij de vertraging binnen een termijn van eenentwintig opeenvolgende dagen na de aflevering van de goederen heeft gemeld aan de vervoerder en de vervoerder deze mededeling ontvangen heeft.
 
-#### Artikel 24. Verjaring
+##### Artikel 24. Verjaring
 
 1. Alle vorderingen die voortvloeien uit een overeenkomst waarop dit Verdrag van toepassing is, verjaren na een jaar, te rekenen vanaf de dag waarop de goederen zijn of hadden moeten zijn afgeleverd bij de geadresseerde. De dag waarop de verjaringstermijn aanvangt, wordt niet meegerekend.
 
@@ -340,7 +365,7 @@ De in dit Verdrag voorziene of in de vervoerovereenkomst overeengekomen ontheffi
 
 ### HOOFDSTUK VII. BEPERKING VAN DE CONTRACTUELE VRIJHEID
 
-#### Artikel 25. Nietige bedingen
+##### Artikel 25. Nietige bedingen
 
 1. Elk beding dat strekt tot uitsluiting, beperking of onder voorbehoud van het bepaalde in artikel 20, vierde lid, uitbreiding van de aansprakelijkheid in de zin van dit Verdrag van de vervoerder, de ondervervoerder of van hun ondergeschikten of lasthebbers, of die strekt tot omkering van de bewijslast of tot verkorting van de in de artikelen 23 en 24 bedoelde vorderings- en verjaringstermijnen, is nietig. Elk beding dat aanspraken uit hoofde van de verzekering van de goederen toewijst aan de vervoerder is eveneens nietig.
 
@@ -354,21 +379,21 @@ De in dit Verdrag voorziene of in de vervoerovereenkomst overeengekomen ontheffi
 
 ### HOOFDSTUK VIII. AANVULLENDE BEPALINGEN
 
-#### Artikel 26. Avarij-grosse
+##### Artikel 26. Avarij-grosse
 
 Dit Verdrag doet geen afbreuk aan de toepassing van de bepalingen van de vervoerovereenkomst of van de nationale wetgeving met betrekking tot de berekening van de schade en van de verplichte bijdragen in geval van avarij-grosse.
 
-#### Artikel 27. Andere toepasselijke regelgeving en kernschade
+##### Artikel 27. Andere toepasselijke regelgeving en kernschade
 
 1. Dit Verdrag laat de rechten en verplichtingen van de vervoerder die voortvloeien uit internationale verdragen of uit het nationale recht inzake de beperking van de aansprakelijkheid van eigenaren van binnenvaart- of zeeschepen onverlet.
 
 2. De vervoerder is ontheven van de aansprakelijkheid uit hoofde van dit Verdrag voor schade veroorzaakt door een kernongeval, indien de exploitant van een kerninstallatie of een voor hem in de plaats tredende persoon voor die schade aansprakelijk is krachtens de wetten envoorschriften van een Staat die de aansprakelijkheid op het gebied van de kernenergie regelen.
 
-#### Artikel 28. Rekeneenheid
+##### Artikel 28. Rekeneenheid
 
 De in artikel 20 van dit Verdrag bedoelde rekeneenheid is het door het Internationale Monetaire Fonds vastgestelde bijzondere trekkingsrecht. De in artikel 20 genoemde bedragen worden geconverteerd in de nationale munteenheid van een Staat op basis van de waarde van die munteenheid op de datum van de uitspraak of op een door de partijen overeengekomen datum. De waarde, uitgedrukt in bijzondere trekkings- rechten, van de nationale munteenheid van een Verdragsluitende Staat, die lid is van het Internationale Monetaire Fonds, wordt berekend volgens de waarderingsmethode die het Internationale Monetaire Fonds op de desbetreffende datum toepast voor zijn eigen verrichtingen en transacties.
 
-#### Artikel 29. Aanvullend nationaal recht
+##### Artikel 29. Aanvullend nationaal recht
 
 1. Bij gebrek aan bepalingen in dit Verdrag wordt de vervoerovereenkomst beheerst door het recht van de door de partijen gekozen Staat.
 
@@ -380,7 +405,7 @@ De in artikel 20 van dit Verdrag bedoelde rekeneenheid is het door het Internati
 
 ### HOOFDSTUK IX. VERKLARINGEN TEN AANZIEN VAN HET TOEPASSINGSGEBIED
 
-#### Artikel 30. Vervoer over bepaalde waterwegen
+##### Artikel 30. Vervoer over bepaalde waterwegen
 
 1. Elke Staat kan, op het tijdstip van ondertekening van dit Verdrag of bij bekrachtiging, aanvaarding, goedkeuring of toetreding, verklaren dat hij dit Verdrag niet toepast op overeenkomsten inzake vervoer waarbij gebruik wordt gemaakt van bepaalde waterwegen gelegen op zijn grondgebied, waarop geen internationaal scheepvaartregime van toepassing is en die geen verbinding vormen tussen dergelijke internationale waterwegen. In een dergelijke verklaring mogen echter niet alle hoofdwaterwegen van deze Staat worden genoemd.
 
@@ -390,7 +415,7 @@ De in artikel 20 van dit Verdrag bedoelde rekeneenheid is het door het Internati
 
 4. De verklaringen bedoeld in het eerste en derde lid kunnen op elk tijdstip geheel of gedeeltelijk worden ingetrokken door middel van een kennisgeving hiertoe aan de depositaris, onder vermelding van de datum waarop de verklaringen ophouden van kracht te zijn. De intrekking van deze verklaringen heeft geen gevolgen voor reeds gesloten overeenkomsten.
 
-#### Artikel 31. Nationaal vervoer of vervoer om niet
+##### Artikel 31. Nationaal vervoer of vervoer om niet
 
 Elke Staat kan op het tijdstip van ondertekening van dit Verdrag, bij bekrachtiging, aanvaarding, goedkeuring of toetreding, of op elk later tijdstip, verklaren dat hij dit Verdrag eveneens toepast:
 
@@ -398,7 +423,7 @@ Elke Staat kan op het tijdstip van ondertekening van dit Verdrag, bij bekrachtig
 
 - b. in afwijking van artikel 1, eerste lid, op vervoer om niet.
 
-#### Artikel 32. Regionale regelgeving met betrekking tot de aansprakelijkheid
+##### Artikel 32. Regionale regelgeving met betrekking tot de aansprakelijkheid
 
 1. Elke Staat kan op het tijdstip van ondertekening van dit Verdrag of bij bekrachtiging, aanvaarding, goedkeuring of toetreding, of op elk later tijdstip, verklaren dat ten aanzien van het vervoer van goederen tussen laadhavens of plaatsen van inonvangstneming en loshavens of plaatsen van aflevering die ofwel beide zijn gelegen op zijn grondgebied of waarvan de ene is gelegen op zijn grondgebied en de andere op het grondgebied van een Staat die dezelfde verklaring heeft afgelegd, de vervoerder niet aansprakelijk is voor schade veroorzaakt door het handelen of nalaten van de schipper, de loods of elke andere persoon in dienst van het schip of van de duwboot of de sleepboot tijdens de navigatie of bij de samenstelling of ontkoppeling van een duw- of sleepkonvooi, mits de vervoerder zijn verplichtingen uit hoofde van artikel 3, derde lid, ten aanzien van de bemanning is nagekomen, tenzij het handelen of nalaten het gevolg was van een opzettelijke poging de schade te veroorzaken of van roekeloos gedrag in de wetenschap dat een dergelijke schade er waarschijnlijk uit zou voortvloeien.
 
@@ -408,7 +433,7 @@ Elke Staat kan op het tijdstip van ondertekening van dit Verdrag, bij bekrachtig
 
 ### HOOFDSTUK X. SLOTBEPALINGEN
 
-#### Artikel 33. Ondertekening, bekrachtiging, aanvaarding, goedkeuring, toetreding
+##### Artikel 33. Ondertekening, bekrachtiging, aanvaarding, goedkeuring, toetreding
 
 1. Dit Verdrag staat gedurende een jaar op de zetel van de depositaris voor alle Staten open ter ondertekening. De termijn voor ondertekening begint op de dag waarop de depositaris vaststelt dat alle authentieke teksten van het Verdrag aanwezig zijn.
 
@@ -422,13 +447,13 @@ Elke Staat kan op het tijdstip van ondertekening van dit Verdrag, bij bekrachtig
 
 3. De akten van bekrachtiging, aanvaarding, goedkeuring of toetreding worden nedergelegd bij de depositaris.
 
-#### Artikel 34. Inwerkingtreding
+##### Artikel 34. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking op de eerste dag van de maand volgend op een termijn van drie maanden, te rekenen vanaf de datum waarop vijf Staten dit Verdrag zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring hebben ondertekend of hun akte van bekrachtiging, aanvaarding, goedkeuring of toetreding bij de depositaris hebben nedergelegd.
 
 2. Voor een Staat die dit Verdrag na inwerkingtreding zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring heeft ondertekend of zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding bij de depositaris heeft nedergelegd, treedt dit Verdrag in werking op de eerste dag van de maand volgend op een termijn van drie maanden na ondertekening zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring of na nederlegging van de akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
 
-#### Artikel 35. Opzegging
+##### Artikel 35. Opzegging
 
 1. Dit Verdrag kan door een Staat die Partij is worden opgezegd na een jaar, te rekenen vanaf de datum waarop het Verdrag voor de desbetreffende Staat in werking is getreden.
 
@@ -436,11 +461,11 @@ Elke Staat kan op het tijdstip van ondertekening van dit Verdrag, bij bekrachtig
 
 3. De opzegging wordt van kracht de eerste dag van de maand volgend op een termijn van een jaar, te rekenen vanaf de datum van nederlegging van de akte of na een hierin vermelde langere termijn.
 
-#### Artikel 36. Herziening en wijzigingen
+##### Artikel 36. Herziening en wijzigingen
 
 Op verzoek van ten minste een derde van de Verdragsluitende Staten, roept de depositaris een conferentie van de Verdragsluitende Staten bijeen met het doel dit Verdrag te herzien of te wijzigen.
 
-#### Artikel 37. Herziening van de maximum bedragen van aansprakelijkheid en van de rekeneenheid
+##### Artikel 37. Herziening van de maximum bedragen van aansprakelijkheid en van de rekeneenheid
 
 1. Onverminderd het bepaalde in artikel 36, doet de depositaris, wanneer een voorstel tot wijziging van de in artikel 20, eerste lid, genoemde bedragen of tot vervanging van de in artikel 28 vastgestelde eenheid door een andere eenheid wordt ingediend, op verzoek van ten minste een vierde van de Staten die Partij zijn bij dit Verdrag het voorstel toekomen aan alle leden van de Economische Commissie voor Europa van de Verenigde Naties, de Centrale Commissie voor de Rijnvaart en de Donaucommissie alsmede alle Verdragsluitende Staten en roept de depositaris een conferentie bijeen die uitsluitend tot doel heeft de in artikel 20, eerste lid, genoemde bedragen te wijzigen of de in artikel 28 genoemde rekeneenheid te vervangen door een andere rekeneenheid.
 
@@ -466,7 +491,7 @@ Op verzoek van ten minste een derde van de Verdragsluitende Staten, roept de dep
 
 10. Indien tot een wijziging is besloten en de termijn van achttien maanden voor de aanneming ervan niet is verstreken, wordt een Staat die tijdens deze termijn een Verdragsluitende Staat wordt, door de wijziging gebonden, indien deze in werking treedt. Een Staat die na deze termijn Verdragsluitende Staat wordt, wordt door een overeenkomstig het zevende lid aanvaarde wijziging gebonden. In de in dit lid genoemde gevallen wordt een Staat door een wijziging gebonden, zodra deze wijziging in werking treedt of zodra dit Verdrag voor deze Staat in werking treedt, indien dit later is.
 
-#### Artikel 38. Depositaris
+##### Artikel 38. Depositaris
 
 1. Dit Verdrag wordt nedergelegd bij de regering van de Republiek Hongarije.
 

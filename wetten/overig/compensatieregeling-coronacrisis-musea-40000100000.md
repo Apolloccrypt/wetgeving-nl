@@ -1,20 +1,42 @@
 ---
 title: "Compensatieregeling Coronacrisis Musea 40.000–100.000"
 identifier: "BWBR0043760"
-categorie: "Overig"
-publicatiedatum: 2020-07-01
-laatste_update: 2020-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043760"
+country: "nl"
+rank: "zbo"
+publication_date: "2020-07-01"
+last_updated: "2020-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043760"
+soort: "zbo"
+stam_id: "15533083"
+version_id: "26834962"
+internal_id: "C38019301"
+label_id: "15475464"
+dtd_version: "2.0"
+original_entry_into_force: "2020-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043760/2020-07-01/0"
+intitule_bron: "Stcrt.2020-34068"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2020-06-30"
+intitule_in_force: "2020-06-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-34068"
+original_published_date: "2020-06-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-34068"
+entry_into_force_date: "2020-07-01"
+jci_1_3: "jci1.3:c:BWBR0043760&z=2020-07-01&g=2020-07-01"
+jci_1_0: "1.0:c:BWBR0043760&g=2020-07-01"
+citeertitel_status: "officieel"
+entry_into_force: "2020-07-01"
 ---
-
 # Compensatieregeling Coronacrisis Musea 40.000–100.000
 
 Gelet op [artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In de regeling wordt verstaan onder:
 
@@ -48,11 +70,11 @@ In de regeling wordt verstaan onder:
 
 - g. overige baten die geen relatie hebben met cultureel ondernemerschap.
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 Het fonds kan subsidie verstrekken in de vorm van een bijdrage aan musea die van vitaal belang zijn voor de lokale culturele infrastructuur en die liquiditeitsproblemen hebben of verwachten te krijgen, om deze musea zo veel mogelijk in stand te houden.
 
-#### Artikel 3. Doelgroep
+##### Artikel 3. Doelgroep
 
 De bijdrage kan worden aangevraagd door een instelling die:
 
@@ -62,7 +84,7 @@ De bijdrage kan worden aangevraagd door een instelling die:
 
 - 3. in de jaren 2017 en 2018 gemiddeld meer dan 40.000 maar minder dan 100.000 betalende bezoekers trok.
 
-#### Artikel 4. Voorwaarden
+##### Artikel 4. Voorwaarden
 
 1. Voor subsidie komen uitsluitend musea in aanmerking die
 
@@ -84,7 +106,7 @@ De bijdrage kan worden aangevraagd door een instelling die:
 
 6. Geen subsidie wordt verstrekt aan aanvragers aan wie reeds eerder een bijdrage is toegekend door de minister van OCW op basis van de [Regeling aanvullende ondersteuning culturele en creatieve sector COVID-19](https://wetten.overheid.nl/jci1.3:c:BWBR0043634).
 
-#### Artikel 5. De aanvraag
+##### Artikel 5. De aanvraag
 
 1. Een aanvraag wordt ingediend met behulp van een door het bestuur opgesteld aanvraagformulier.
 
@@ -112,7 +134,7 @@ De bijdrage kan worden aangevraagd door een instelling die:
 
 6. De aanvraag wordt digitaal ingediend.
 
-#### Artikel 6. Beoordeling
+##### Artikel 6. Beoordeling
 
 1. Aanvragen worden voorgelegd aan een adviescommissie, mits zij voldoen aan de vereisten om voor subsidie in aanmerking te komen.
 
@@ -134,11 +156,11 @@ De adviescommissie weegt de geografische spreiding evenals diversiteit van de ma
 
 5. Als het subsidieplafond ontoereikend is om alle aanvragen, waarover een positief advies is uitgebracht, plaatst de adviescommissie deze in een rangorde op basis van de van in het tweede lid dit artikel bedoelde aspecten.
 
-#### Artikel 7. Hoogte subsidiebedrag
+##### Artikel 7. Hoogte subsidiebedrag
 
 De subsidie bedraagt 60.000 euro.
 
-#### Artikel 8. Besluit
+##### Artikel 8. Besluit
 
 1. Het bestuur besluit gelijktijdig op alle aanvragen.
 
@@ -148,31 +170,31 @@ De subsidie bedraagt 60.000 euro.
 
 4. Op een volledige aanvraag wordt zo spoedig mogelijk maar maximaal binnen tweeëntwintig weken na de in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043760&artikel=5&z=2020-07-01&g=2020-07-01) bedoelde datum beslist door het bestuur. Het bestuur deelt de beslissing binnen vijf werkdagen na het besluit schriftelijk mee aan de aanvrager.
 
-#### Artikel 9. Subsidieplafond
+##### Artikel 9. Subsidieplafond
 
 Het subsidieplafond bedraagt 1.800.000 euro.
 
-#### Artikel 10. Hardheidsclausule
+##### Artikel 10. Hardheidsclausule
 
 Het bestuur kan, gelet op het belang dat deze regeling beoogt te beschermen, artikelen of onderdelen daarvan buiten toepassing laten of daarvan afwijken voor zover strikte toepassing leidt tot een onbillijkheid van overwegende aard.
 
-#### Artikel 11. Overig
+##### Artikel 11. Overig
 
 In alle gevallen waarin dit reglement niet voorziet, beslist het bestuur.
 
-#### Artikel 12. Verantwoording
+##### Artikel 12. Verantwoording
 
 1. De subsidieontvanger stuurt voor 1 april 2021 een inhoudelijke verantwoording met betrekking tot de besteding van de middelen.
 
 2. Het bestuur kan nadere voorwaarden stellen aan de inrichting van de verantwoording.
 
-#### Artikel 13. Inwerkingtreding
+##### Artikel 13. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 1 juli 2020, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 juli 2020.
 
-#### Artikel 14. Citeertitel
+##### Artikel 14. Citeertitel
 
 Deze regeling wordt aangehaald als: Compensatieregeling Coronacrisis Musea 40.000–100.000.
 

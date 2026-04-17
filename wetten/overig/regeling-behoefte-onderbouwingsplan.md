@@ -1,13 +1,39 @@
 ---
-title: "Regeling behoefte-onderbouwingsplan"
+title: "Regeling van de Minister van Economische Zaken van 15 februari 2013, nr. WJZ/13014703, houdende regels inzake de aanwijzing van publieke taken en de inrichting van het behoefte-onderbouwingsplan (Regeling behoefte-onderbouwingsplan)"
 identifier: "BWBR0032900"
-categorie: "Overig"
-publicatiedatum: 2013-03-15
-laatste_update: 2013-03-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032900"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2013-03-15"
+last_updated: "2013-03-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032900"
+soort: "ministeriele-regeling"
+stam_id: "12109363"
+version_id: "20192382"
+internal_id: "C28389921"
+label_id: "12080934"
+dtd_version: "2.0"
+original_entry_into_force: "2013-03-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032900/2013-03-15/0"
+intitule_bron: "Stcrt.2013-3366"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-02-15"
+intitule_published: "2013-02-15"
+intitule_in_force: "2013-02-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-3366"
+original_signed_date: "2013-02-15"
+original_published_date: "2013-02-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-3366"
+entry_into_force_date: "2013-03-15"
+jci_1_3: "jci1.3:c:BWBR0032900&z=2013-03-15&g=2013-03-15"
+jci_1_0: "1.0:c:BWBR0032900&g=2013-03-15"
+citeertitel_status: "officieel"
+short_title: "Regeling behoefte-onderbouwingsplan"
+signed_date: "2013-02-15"
+entry_into_force: "2013-03-15"
 ---
-
 # Regeling van de Minister van Economische Zaken van 15 februari 2013, nr. WJZ/13014703, houdende regels inzake de aanwijzing van publieke taken en de inrichting van het behoefte-onderbouwingsplan (Regeling behoefte-onderbouwingsplan)
 
 Gelet op de [artikelen 3.1, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.1), en [3.2, tweede lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.2);
@@ -18,7 +44,7 @@ Treedt in werking op het tijdstip waarop de Wijzigingswet Telecommunicatiewet, e
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -30,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Aanwijzing publieke taken
 
-#### Artikel 2
+##### Artikel 2
 
 Als publieke taken als bedoeld in [artikel 3.1, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.1) worden aangewezen:
 
@@ -84,7 +110,7 @@ Als publieke taken als bedoeld in [artikel 3.1, tweede lid, onderdeel b, van de 
 
 #### § 3. Inrichting behoefte-onderbouwingsplan
 
-#### Artikel 3
+##### Artikel 3
 
 Een minister wie het mede aangaat, vermeldt in het behoefte-onderbouwingsplan:
 
@@ -122,7 +148,7 @@ Een minister wie het mede aangaat, vermeldt in het behoefte-onderbouwingsplan:
 
 - k. een aanduiding van de gegevens in het behoefte-onderbouwingsplan die niet openbaar gemaakt mogen worden.
 
-#### Artikel 4
+##### Artikel 4
 
 Op verzoek van de minister levert een minister wie het mede aangaat aanvullende gegevens ter nadere onderbouwing van het behoefte-onderbouwingsplan. Deze gegevens kunnen betrekking hebben op:
 
@@ -164,11 +190,11 @@ Op verzoek van de minister levert een minister wie het mede aangaat aanvullende 
 
 #### § 4. Slotbepalingen
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling treedt in werking op het tijdstip waarop het bij koninklijke boodschap van 9 april 2008 ingediende voorstel van wet houdende wijziging van de Telecommunicatiewet in verband met de Nota frequentiebeleid 2005 (Kamerstukken 31412) in werking treedt.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling wordt aangehaald als: Regeling behoefte-onderbouwingsplan.
 

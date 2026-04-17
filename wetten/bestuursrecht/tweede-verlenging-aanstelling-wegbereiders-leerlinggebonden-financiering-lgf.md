@@ -1,13 +1,36 @@
 ---
 title: "Tweede verlenging aanstelling wegbereiders leerlinggebonden financiering (lgf)"
 identifier: "BWBR0015519"
-categorie: "Bestuursrecht"
-publicatiedatum: 2003-09-10
-laatste_update: 2003-09-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015519"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2003-09-10"
+last_updated: "2003-09-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015519"
+soort: "beleidsregel"
+stam_id: "6473763"
+version_id: "11151752"
+internal_id: "C15071531"
+label_id: "6462404"
+original_entry_into_force: "2003-09-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015519/2003-09-10/0"
+intitule_bron: "Uitleg.2003-19"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-08-28"
+intitule_published: "2003-09-10"
+intitule_in_force: "2003-09-10"
+intitule_status: "goed"
+original_publication: "Uitleg.2003-19"
+original_signed_date: "2003-08-28"
+original_published_date: "2003-09-10"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2003-09-10"
+jci_1_3: "jci1.3:c:BWBR0015519&z=2003-09-10&g=2003-09-10"
+jci_1_0: "1.0:c:BWBR0015519&g=2003-09-10"
+citeertitel_status: "redactioneel"
+signed_date: "2003-08-28"
+entry_into_force: "2003-09-10"
 ---
-
 # Tweede verlenging aanstelling wegbereiders leerlinggebonden financiering (lgf)
 
 ### Inleiding

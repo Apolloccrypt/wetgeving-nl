@@ -1,13 +1,38 @@
 ---
 title: "Besluit Ondernemingsfaciliteiten"
 identifier: "BWBR0050370"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050370"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050370"
+soort: "beleidsregel"
+stam_id: "17259193"
+version_id: "30575032"
+internal_id: "C43829471"
+label_id: "17165404"
+dtd_version: "2.0"
+original_entry_into_force: "2024-11-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050370/2025-07-01/0"
+intitule_bron: "Stcrt.2024-34456-n1"
+intitule_effect: "wijziging"
+intitule_signed: "2024-10-17"
+intitule_published: "2024-11-05"
+intitule_in_force: "2024-11-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-34456-n1"
+original_signed_date: "2024-10-17"
+original_published_date: "2024-11-05"
+original_effect: "wijziging"
+original_url_id: "stcrt-2024-34456-n1"
+entry_into_force_date: "2024-11-06"
+jci_1_3: "jci1.3:c:BWBR0050370&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0050370&g=2025-07-01"
+citeertitel_status: "officieel"
+signed_date: "2024-10-17"
+entry_into_force: "2024-11-06"
 ---
-
 # Besluit Ondernemingsfaciliteiten
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

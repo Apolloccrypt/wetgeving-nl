@@ -1,14 +1,37 @@
 ---
-title: "Instellingswet Bijstandkorps burgerlijke rijksambtenaren bestemd voor dienst in Nederlands-Nieuw-Guinea"
+title: "Wet van 25 mei 1962, houdende instelling van een Bijstandkorps van burgerlijke rijksambtenaren, dat bestemd is voor dienst in Nederlands-Nieuw-Guinea"
 identifier: "BWBR0002370"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2002-01-01
-laatste_update: 2002-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002370"
+country: "nl"
+rank: "wet"
+publication_date: "2002-01-01"
+last_updated: "2002-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002370"
+soort: "wet"
+stam_id: "1396483"
+version_id: "2095462"
+internal_id: "C2095461"
+label_id: "1354524"
+dtd_version: "2.0"
+original_entry_into_force: "1962-09-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002370/2002-01-01/0"
+intitule_bron: "Stb.1962-196"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1962-05-25"
+intitule_status: "goed"
+original_publication: "Stb.1962-196"
+original_signed_date: "1962-05-25"
+original_effect: "nieuwe-regeling"
+original_dossier: "6502"
+entry_into_force_date: "1962-09-25"
+jci_1_3: "jci1.3:c:BWBR0002370&z=2002-01-01&g=2002-01-01"
+jci_1_0: "1.0:c:BWBR0002370&g=2002-01-01"
+citeertitel_status: "officieel"
+short_title: "Instellingswet Bijstandkorps burgerlijke rijksambtenaren bestemd voor dienst in Nederlands-Nieuw-Guinea"
+signed_date: "1962-05-25"
+entry_into_force: "1962-09-25"
 ---
-
-# Instellingswet Bijstandkorps burgerlijke rijksambtenaren bestemd voor dienst in Nederlands-Nieuw-Guinea
+# Wet van 25 mei 1962, houdende instelling van een Bijstandkorps van burgerlijke rijksambtenaren, dat bestemd is voor dienst in Nederlands-Nieuw-Guinea
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +39,7 @@ Alzo Wij in overweging genomen hebben, dat het in verband met de voortschrijdend
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan onder:
 
@@ -30,7 +53,7 @@ Nederlander: Nederlander in de zin van de wet op het Nederlanderschap en het ing
 
 2. Tenzij het tegendeel blijkt, zijn in deze wet onder leden van het Bijstandkorps gewezen leden van dat korps begrepen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een Bijstandkorps van burgerlijke rijksambtenaren, dat bestemd is voor dienst in Nederlands-Nieuw-Guinea.
 
@@ -38,19 +61,19 @@ Nederlander: Nederlander in de zin van de wet op het Nederlanderschap en het ing
 
 3. Zij worden als zodanig met inachtneming van bij of krachtens algemene maatregel van bestuur te stellen regelen door Ons of door Onze Minister aangesteld en ontslagen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Alleen Nederlanders kunnen tot lid van het Bijstandkorps worden aangesteld.
 
 2. Wij kunnen in bijzondere gevallen anderen dan Nederlanders tot lid van het Bijstandkorps aanstellen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De leden van het Bijstandkorps worden, tenzij het tot aanstelling bevoegde gezag anders bepaalt, ter beschikking gesteld van het bevoegde gezag van Nederlands-Nieuw-Guinea om, met inachtneming van het bepaalde in de akte van aanstelling tot lid van het Bijstandkorps, te worden aangesteld in de daarvoor in aanmerking komende ambten van Nederlands-Nieuw-Guinea.
 
 2. Ontslag van de leden van het Bijstandkorps als landsdienaar beëindigt niet tevens het lidmaatschap van het Bijstandkorps, tenzij bij algemene maatregel van bestuur anders is bepaald.
 
-#### Artikel 5
+##### Artikel 5
 
 De rechten en verplichtingen van de leden van het Bijstandkorps worden bepaald:
 
@@ -58,7 +81,7 @@ De rechten en verplichtingen van de leden van het Bijstandkorps worden bepaald:
 
 - b. door de voorschriften, welke met betrekking tot de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002370&artikel=4&z=2002-01-01&g=2002-01-01) bedoelde ambten zijn vastgesteld.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Bij of krachtens algemene maatregel van bestuur worden ten aanzien van de leden van het Bijstandkorps, de Centrale Commissie voor Georganiseerd Overleg in Ambtenarenzaken gehoord, voorschriften vastgesteld betreffende:
 
@@ -84,39 +107,39 @@ De rechten en verplichtingen van de leden van het Bijstandkorps worden bepaald:
 
 2. Op gelijke wijze als in het eerste lid is bepaald kunnen ten aanzien van de leden van het Bijstandkorps voorschriften worden vastgesteld betreffende andere onderdelen van de rechtspositie dan die, welke in dat lid zijn genoemd.
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 Onder bij algemene maatregel van bestuur vast te stellen voorwaarden kunnen leden van het Bijstandkorps worden verplicht tijdelijk buiten Nederlands-Nieuw-Guinea werkzaam te zijn.
 
-#### Artikel 9
+##### Artikel 9
 
 Leden van het Bijstandkorps, die deel uitmaken van de zittende magistratuur in Nederlands-Nieuw-Guinea, kunnen, zolang zij een zodanige functie bekleden, niet dan op hun eigen verzoek als lid van het Bijstandkorps worden ontslagen noch als zodanig worden geschorst. Zij kunnen gedurende dat tijdvak niet worden verplicht tijdelijk buiten Nederlands-Nieuw-Guinea werkzaam te zijn. Hun kunnen geen voordelen worden onthouden welke de krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002370&artikel=6&z=2002-01-01&g=2002-01-01) vastgestelde voorschriften aan vergelijkbare leden van het Bijstandkorps toekennen.
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
-#### Artikel 15
+##### Artikel 15
 
 1. Met inachtneming van het overigens in deze wet terzake bepaalde worden aan gewezen leden van het Bijstandkorps, die als lid van dat korps in vaste dienst waren aangesteld, en hun weduwen en wezen, alsmede aan de weduwen en wezen van in vaste dienst aangestelde leden van genoemd korps, pensioenen en uitkeringen toegekend overeenkomstig het bij ordonnantie van 29 december 1958 (**Gouvernementsblad** No. 83) vastgestelde Pensioenreglement Nederlands-Nieuw-Guinea - verder aan te duiden als "het pensioenreglement" - zoals dat op de dag van inwerkingtreding van deze wet luidt.
 
@@ -124,23 +147,23 @@ Vervallen
 
 3. De leden van het Bijstandkorps zijn als zodanig geen ambtenaar in de zin van de Pensioenwet 1922 (**Stb.** 240).
 
-#### Artikel 16
+##### Artikel 16
 
 1. De bij of krachtens het pensioenreglement aan de Gouverneur of andere gezaghebbenden in Nederlands-Nieuw-Guinea toegekende bevoegdheden worden uitgeoefend door Onze Minister.
 
 2. Verzoeken om toekenning van pensioen dienen te worden gericht aan Onze Minister onder overlegging van een verklaring dat belanghebbende de pensioenen en uitkeringen krachtens de voor landsdienaren van Nederlands-Nieuw-Guinea geldende pensioenregeling, welke ingevolge [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002370&artikel=21&z=2002-01-01&g=2002-01-01) geheel of gedeeltelijk in mindering kunnen worden gebracht, heeft aangevraagd.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Bij de toepassing van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002370&artikel=15&z=2002-01-01&g=2002-01-01) wordt de in [het eerste lid van artikel 6 onder **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0002370&artikel=6&z=2002-01-01&g=2002-01-01) bedoelde wedde als bezoldiging aangemerkt met dien verstande, dat voor vaststelling van de pensioengrondslag mede in aanmerking worden genomen de tot het tijdstip van inwerkingtreding van deze wet genoten bezoldigingen in de zin van het Pensioenreglement Nederlands-Nieuw-Guinea.
 
 2. Als pensioengrondslag van een gewezen lid van het Bijstandkorps, dat nog niet tot landsdienaar was aangesteld, wordt aangemerkt de wedde, waarop bij aanstelling tot landsdienaar recht zou zijn verkregen.
 
-#### Artikel 18
+##### Artikel 18
 
 Het ontslag van een lid van het Bijstandkorps, verleend omdat zijn bestemming in Nederlands-Nieuw-Guinea om uitsluitend bij de dienst gelegen redenen vervalt, wordt aangemerkt als een ontslag, bedoeld in artikel 9, vierde lid, van het pensioenreglement.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Krachtens deze wet wordt slechts pensioen toegekend aan degene, die op de dag, waarop het recht op pensioen ontstaat, Nederlander is.
 
@@ -154,11 +177,11 @@ Het ontslag van een lid van het Bijstandkorps, verleend omdat zijn bestemming in
 
 6. Voor de toepassing van dit artikel wordt statenloosheid als een vreemde nationaliteit aangemerkt.
 
-#### Artikel 20
+##### Artikel 20
 
 De financiële aanspraken van de leden van het Bijstandkorps, voortvloeiende uit hetgeen krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002370&artikel=6&z=2002-01-01&g=2002-01-01) wordt bepaald, alsmede de krachtens deze wet toegekende pensioenen en uitkeringen, komen ten laste van 's Rijks begroting.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Op de pensioenen en uitkeringen, toegekend krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002370&artikel=15&z=2002-01-01&g=2002-01-01), wordt in mindering gebracht de tegenwaarde in euro's van de pensioenen en uitkeringen, welke de belanghebbenden ontvangen krachtens de voor landsdienaren van Nederlands-Nieuw-Guinea geldende pensioenregeling.
 
@@ -166,11 +189,11 @@ De financiële aanspraken van de leden van het Bijstandkorps, voortvloeiende uit
 
 3. Bij de toepassing van dit artikel worden algemene toeslagen en kortingen op de pensioenen in aanmerking genomen.
 
-#### Artikel 22
+##### Artikel 22
 
 Indien belanghebbenden geen pensioen of uitkering krachtens de voor landsdienaren van Nederlands-Nieuw-Guinea geldende pensioenregeling ontvangt en door hem geen verklaring werd overgelegd als bedoeld in het [tweede lid van artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002370&artikel=16&z=2002-01-01&g=2002-01-01), wordt op het pensioen en de uitkering, toegekend krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002370&artikel=15&z=2002-01-01&g=2002-01-01), in mindering gebracht hetgeen in mindering zou zijn gebracht, indien het bepaalde in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002370&artikel=21&z=2002-01-01&g=2002-01-01) toepassing had kunnen vinden.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Op de pensioenen, toegekend krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002370&artikel=15&z=2002-01-01&g=2002-01-01), zijn, bij een gelijktijdige aanspraak op pensioen krachtens de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) of de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), de wetten van 20 december 1956 (**Stb.** 616) en 23 september 1959 (**Stb.** 340) van overeenkomstige toepassing, met dien verstande:
 
@@ -182,29 +205,29 @@ Indien belanghebbenden geen pensioen of uitkering krachtens de voor landsdienare
 
 3. De bepalingen van dit artikel blijven buiten toepassing voor degenen, die op grond van gemoedsbezwaren hun aanspraak op uitkering op grond van de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) niet geldig maken.
 
-#### Artikel 24
+##### Artikel 24
 
 Vervallen
 
 #### Overgangs- en slotbepalingen
 
-#### Artikel 25
+##### Artikel 25
 
 1. Nederlanders, die op het tijdstip van inwerkingtreding van deze wet in dienst van het Gouvernement van Nederlands-Nieuw-Guinea zijn anders dan op arbeidsovereenkomst, en op wie de "Bezoldigingsregeling Landsdienaren Nederlands-Nieuw-Guinea 1957" (**Gouvernementsblad** No. 24) van toepassing is, worden geacht op dat tijdstip aangesteld te zijn als lid van het Bijstandkorps.
 
 2. De in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002370&artikel=6&z=2002-01-01&g=2002-01-01) bedoelde algemene maatregel van bestuur stelt ter uitvoering van het in het eerste lid bepaalde nadere overgangsregelingen vast.
 
-#### Artikel 26
+##### Artikel 26
 
 Bij de toepassing van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002370&artikel=15&z=2002-01-01&g=2002-01-01) op gewezen leden van het Bijstandkorps, die krachtens het bepaalde in het eerste lid van artikel 25 lid van dat korps waren en hun weduwen en wezen, alsmede op de weduwen en wezen van leden van het Bijstandkorps, die krachtens evengenoemde bepaling lid van het Bijstandkorps waren, is de ordonnantie van 29 december 1958 (**Gouvernementsblad** no. 83), zoals die op de dag van inwerkingtreding van deze wet luidt, van overeenkomstige toepassing.
 
-#### Artikel 27
+##### Artikel 27
 
 1. De ten laste van de begroting van Nederlands-Nieuw-Guinea komende pensioenen, welke voor de dag van inwerkingtreding van deze wet zijn toegekend aan hen, die op die dag Nederlander zijn, worden geacht mede krachtens deze wet te zijn toegekend.
 
 2. Op de voet van deze wet worden mede pensioenen toegekend aan gewezen landsdienaren, die voor de dag van inwerkingtreding van deze wet zijn ontslagen met uitzicht op pensioen ten laste van de begroting van Nederlands-Nieuw-Guinea en aan hun weduwen en wezen, indien belanghebbenden op de dag, waarop recht ontstaat op pensioen ten laste van die begroting, Nederlander zijn.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Het Rijk vergoedt aan de besturen van instellingen van bijzonder onderwijs de aanspraken van hun personeel, ten behoeve waarvan ten laste van de begroting van Nederlands-Nieuw-Guinea subsidie wordt genoten en dat Nederlander is, welke overeenkomen met die, welke overeenkomstig personeel bij het openbaar onderwijs ontleent of zou ontlenen aan hetgeen krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002370&artikel=6&z=2002-01-01&g=2002-01-01) wordt vastgesteld.
 
@@ -212,23 +235,23 @@ Bij de toepassing van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR00023
 
 3. Op de voet van deze wet worden mede pensioenen toegekend aan voor de dag van inwerkingtreding van deze wet met uitzicht op pensioen ten laste van de begroting van Nederlands-Nieuw-Guinea ontslagen personeel als bedoeld in het eerste lid en aan de weduwen en wezen van dat personeel, indien belanghebbenden op de dag waarop recht ontstaat op pensioen ten laste van die begroting, Nederlander zijn.
 
-#### Artikel 29
+##### Artikel 29
 
 Onze Minister en Onze Minister van Financiën kunnen bij gemeenschappelijke beschikking en onder daarbij te stellen voorwaarden aan rechtspersonen een overeenkomstige vergoeding als bedoeld in [het eerste lid van artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0002370&artikel=28&z=2002-01-01&g=2002-01-01) toekennen ter vergoeding van aanspraken van personeel, waarvan de bezoldiging uit de openbare kas van Nederlands-Nieuw-Guinea wordt bekostigd en hetwelk Nederlander is. Daarbij kan het bepaalde in [het tweede en het derde lid van artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0002370&artikel=28&z=2002-01-01&g=2002-01-01) van overeenkomstige toepassing worden verklaard.
 
-#### Artikel 30
+##### Artikel 30
 
 De bepalingen van [Titel II van de Ambtenarenwet 1929](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=II) vinden overeenkomstige toepassing op de wedde en toelagen, alsmede op de pensioenen, waarop de leden van het Bijstandkorps, dan wel hun weduwen en wezen aanspraak hebben ingevolge het bij en krachtens deze wet bepaalde.
 
-#### Artikel 31
+##### Artikel 31
 
 Tegenover de Staat beschikt de gehuwde vrouw zelfstandig over de wedde en toelagen of over het pensioen, aan haar als lid of als gewezen lid van het Bijstandkorps door de Staat verschuldigd.
 
-#### Artikel 32
+##### Artikel 32
 
 Onze Minister kan in overeenstemming met Onze Minister van Financiën in bijzondere gevallen het bepaalde in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0002370&artikel=28&z=2002-01-01&g=2002-01-01), het [eerste en derde lid van artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0002370&artikel=28&z=2002-01-01&g=2002-01-01), en [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0002370&artikel=29&z=2002-01-01&g=2002-01-01) van toepassing verklaren ten aanzien van anderen dan Nederlanders.
 
-#### Artikel 33
+##### Artikel 33
 
 Deze wet treedt in werking met ingang van een door Ons te bepalen tijdstip.
 

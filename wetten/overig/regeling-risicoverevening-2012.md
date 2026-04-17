@@ -1,13 +1,39 @@
 ---
-title: "Regeling risicoverevening 2012"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 13 december 2011, nr. Z/F-3096189, houdende bepalingen omtrent de in de Zorgverzekeringswet bedoelde vereveningsbijdrage voor het jaar 2012 (Regeling risicoverevening 2012)"
 identifier: "BWBR0030863"
-categorie: "Overig"
-publicatiedatum: 2014-04-01
-laatste_update: 2014-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030863"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2014-04-01"
+last_updated: "2014-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030863"
+soort: "ministeriele-regeling"
+stam_id: "11550143"
+version_id: "19035802"
+internal_id: "C26551771"
+label_id: "11523694"
+dtd_version: "2.0"
+original_entry_into_force: "2011-12-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030863/2014-04-01/0"
+intitule_bron: "Stcrt.2011-23098"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-12-13"
+intitule_published: "2011-12-21"
+intitule_in_force: "2011-12-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-23098"
+original_signed_date: "2011-12-13"
+original_published_date: "2011-12-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-23098"
+entry_into_force_date: "2011-12-22"
+jci_1_3: "jci1.3:c:BWBR0030863&z=2014-04-01&g=2014-04-01"
+jci_1_0: "1.0:c:BWBR0030863&g=2014-04-01"
+citeertitel_status: "officieel"
+short_title: "Regeling risicoverevening 2012"
+signed_date: "2011-12-13"
+entry_into_force: "2011-12-22"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 13 december 2011, nr. Z/F-3096189, houdende bepalingen omtrent de in de Zorgverzekeringswet bedoelde vereveningsbijdrage voor het jaar 2012 (Regeling risicoverevening 2012)
 
 Gelet op [artikel 32, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=32), en [38, tweede lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=38) en de [artikelen 1, onderdelen i, j, k, y, z en bb, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1), [3.2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.2), [3.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.4), [3.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.5), [3.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.6), [3.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.7), [3.8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.8), 3.8a, [3.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.10), [3.11, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.11), [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.13), [3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.14), [3.15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.15), [3.16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.16), [3.17, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.17), [3.19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.19), en [3.22, tweede lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.22);
@@ -26,11 +52,11 @@ Besluit:
 
 ### Hoofdstuk 2. Regels ten behoeve van de toekenning van de vereveningsbijdrage (ex ante) aan een zorgverzekeraar
 
-#### Artikel 24
+##### Artikel 24
 
 Wijzigt de Regeling zorgverzekering.
 
-#### Artikel 25
+##### Artikel 25
 
 Wijzigt de Regeling zorgverzekering.
 
@@ -56,7 +82,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1
+##### Artikel 1
 
 1. Deze regeling verstaat onder:
 
@@ -80,7 +106,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 2. Het bedrag, bedoeld in [artikel 1, onderdeel x, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1), is € 550, en het bedrag, bedoeld in artikel 1, onderdeel y, van het Besluit zorgverzekering is € 2 750.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het macro-prestatiebedrag voor het jaar 2012 bedraagt € 35 634,0 miljoen.
 
@@ -102,29 +128,29 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - b. het macro-deelbedrag kosten van geneeskundige geestelijke gezondheidszorg voor verzekerden van achttien jaar en ouder ad € 3 218,9 miljoen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De opbrengst van de nominale rekenpremie wordt voor het jaar 2012 geraamd op € 13 975,5 miljoen.
 
 2. De opbrengst van het verplicht eigen risico wordt voor het jaar 2012 geraamd op € 1 968,7 miljoen.
 
-#### Artikel 4
+##### Artikel 4
 
 De beschikbare middelen voor het verstrekken van de bijdragen aan zorgverzekeraars, bedoeld in [artikel 32, vierde lid, onderdeel a, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=32), omvatten voor het jaar 2012, naast de middelen, bedoeld in [§ 1.5 van hoofdstuk 3 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&sub-paragraaf=1.5), een bedrag van € 19 689,9 miljoen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De gewichten en de klassen, bedoeld in de [artikelen 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.4), [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.5), [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.7) en [3.8 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.8), zijn vermeld in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030863&bijlage=1&z=2014-04-01&g=2014-04-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0030863&bijlage=2&z=2014-04-01&g=2014-04-01).
 
 2. Het Zorginstituut verdeelt het macro-deelbedrag vaste kosten van ziekenhuisverpleging, over zorgverzekeraars aan de hand van de gemiddelde vaste kosten per verzekerde per zorgverzekeraar in het jaar 2010, de landelijke vaste kostenfactor 2012 en de geraamde aantallen verzekerden voor het vereveningsjaar 2012.
 
-#### Artikel 6
+##### Artikel 6
 
 1. In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030863&hoofdstuk=2&artikel=5&z=2014-04-01&g=2014-04-01), en [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030863&bijlage=1&z=2014-04-01&g=2014-04-01), tabel 1.2, wordt een verzekerde die in het buitenland woont ingedeeld in de FKG-klasse ‘Geen FKG’, waarbij voor hem het gewicht van die klasse door het CVZ wordt vastgesteld op een percentage van het gewicht van de FKG-klasse ‘Geen FKG’ zoals dat op grond van bijlage 1 tabel 1.2 voor in Nederland wonende verzekerden geldt.
 
 2. In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030863&hoofdstuk=2&artikel=5&z=2014-04-01&g=2014-04-01), en [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030863&bijlage=1&z=2014-04-01&g=2014-04-01), tabel 1.3, wordt een verzekerde die in het buitenland woont ingedeeld in de DKG-klasse ‘0’, waarbij voor hem het gewicht van die klasse door het CVZ wordt vastgesteld op een percentage van het gewicht van de DKG-klasse ‘0’ zoals dat op grond van bijlage 1 tabel 1.3 voor in Nederland wonende verzekerden geldt.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De nominale rekenpremie per jaar bedraagt € 1 050 per zorgverzekering waarvoor premie moet worden betaald.
 
@@ -132,7 +158,7 @@ De beschikbare middelen voor het verstrekken van de bijdragen aan zorgverzekeraa
 
 3. Het Zorginstituut berekent het aantal zorgverzekeringen waarvoor premie moet worden betaald door het aantal zorgverzekeringen van verzekerden van achttien jaar en ouder bij een zorgverzekeraar, te verminderen met het aantal zorgverzekeringen van verzekerden als bedoeld in [artikel 24 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24).
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het Zorginstituut raamt de opbrengst van het verplicht eigen risico per zorgverzekeraar, bedoeld in [artikel 3.10, tweede lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.10), door het geraamde aantal verzekerden van achttien jaar en ouder te verminderen met het geraamde aantal verzekerden, bedoeld in [artikel 24 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24), en het resultaat te vermenigvuldigen met de geraamde opbrengst van het verplicht eigen risico per verzekerde.
 
@@ -142,19 +168,19 @@ De beschikbare middelen voor het verstrekken van de bijdragen aan zorgverzekeraa
 
 ### Hoofdstuk 3. De regels ten behoeve van de vaststelling van de vereveningsbijdrage (ex post) aan een zorgverzekeraar
 
-#### Artikel 9
+##### Artikel 9
 
 1. Een verzekerde die slechts gedurende een deel van het vereveningsjaar bij een zorgverzekeraar verzekerd was, telt voor het vaststellen van de vereveningsbijdrage voor die zorgverzekeraar mee in een mate die bepaald wordt door het aantal dagen dat hij in dat jaar bij die zorgverzekeraar verzekerd was te delen door het aantal dagen in dat jaar.
 
 2. Indien een verzekerde gedurende een aantal dagen van het vereveningsjaar bij meer dan één zorgverzekeraar verzekerd was, telt hij voor het vaststellen van de vereveningsbijdrage over die periode mee in een mate die bepaald wordt door het getal 1 te delen door het aantal zorgverzekeraars waarbij hij in die periode verzekerd was.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Voor de in [artikel 3.11, vijfde lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.11) bedoelde herberekening van de gewichten ten behoeve van de in [artikel 3.12, eerste lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.12) bedoelde berekening van de deelbedragen ‘kosten van dbc-zorgproducten in het vrije segment’, ‘variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp’ en ‘kosten van overige prestaties’, gaat het Zorginstituut uit van de verhouding tussen de gewichten, opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030863&bijlage=1&z=2014-04-01&g=2014-04-01).
 
 2. Voor de in [artikel 3.11, vijfde lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.11) bedoelde herberekening van de gewichten ten behoeve van de in [artikel 3.12, eerste lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.12) bedoelde berekening van het deelbedrag ‘kosten van geneeskundige geestelijke gezondheidszorg’, gaat het Zorginstituut voor zover het gaat om de herberekening van de kosten van verzekerden van jonger dan achttien jaar uit van de verhouding tussen de gewichten in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030863&bijlage=2&z=2014-04-01&g=2014-04-01), tabel 2.1, en voor zover het gaat om de herberekening van de kosten van verzekerden van achttien jaar en ouder uit van de verhouding tussen de gewichten, opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030863&bijlage=3&z=2014-04-01&g=2014-04-01).
 
-#### Artikel 11
+##### Artikel 11
 
 1. Nadat het Zorginstituut de gerealiseerde kosten op de in de [artikelen 12 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0030863&hoofdstuk=3&artikel=12&z=2014-04-01&g=2014-04-01), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030863&hoofdstuk=3&artikel=17&z=2014-04-01&g=2014-04-01), [18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030863&hoofdstuk=3&artikel=18&z=2014-04-01&g=2014-04-01), en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0030863&hoofdstuk=3&artikel=19&z=2014-04-01&g=2014-04-01) beschreven wijze heeft toebedeeld aan de clusters ‘dbc-zorgproducten in het vrije segment’, ‘variabele kosten van ziekenhuisverpleging en specialistische hulp’, ‘geneeskundige geestelijke gezondheidszorg’ en ‘overige prestaties’, herberekent het instituut de voor deze clusters relevante gewichten.
 
@@ -192,7 +218,7 @@ De beschikbare middelen voor het verstrekken van de bijdragen aan zorgverzekeraa
 
 5. In afwijking van het tweede en derde lid herberekent het Zorginstituut het gewicht van de klasse ‘Geen kosten van geneeskundige geestelijke gezondheidszorg boven de lage drempel’ van het criterium kosten van geneeskundige geestelijke gezondheidszorg boven de lage drempel en het gewicht van de klasse ‘Geen kosten van geneeskundige geestelijke gezondheidszorg boven de hoge drempel’ van het criterium kosten van geneeskundige geestelijke gezondheidszorg boven de hoge drempel dusdanig, dat per criterium het gesommeerde resultaat van de vermenigvuldiging van de gewichten met het gerealiseerde aantal verzekerden, macro per saldo nul bedraagt.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Het Zorginstituut merkt kosten, bedoeld in [artikel 3.13 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.13), voor prestaties van grensoverschrijdende zorg die zodanig zijn gespecificeerd, dat:
 
@@ -204,17 +230,17 @@ De beschikbare middelen voor het verstrekken van de bijdragen aan zorgverzekeraa
 
 2. Het Zorginstituut merkt kosten voor prestaties van grensoverschrijdende zorg die gemaakt zijn met toepassing van internationale regelingen inzake sociale zekerheid, voor 35 procent aan als kosten van het cluster ‘dbc-zorgproducten in het vrije segment’, voor 10 procent aan als kosten van het cluster ‘variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp’, voor 10 procent aan als kosten van het cluster ‘vaste kosten van ziekenhuisverpleging’, voor 10 procent aan als kosten van het cluster ‘geneeskundige geestelijke gezondheidszorg’ voor verzekerden van achttien jaar en ouder, en voor 35 procent aan als kosten van het cluster ‘overige prestaties’.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Met uitzondering van betalingen uit hoofde van een verplicht of vrijwillig eigen risico, rekent het Zorginstituut zorgkosten die voor rekening komen van de verzekerden niet toe aan een cluster van prestaties.
 
 2. Het Zorginstituut rekent renteheffingskosten niet toe aan een cluster van prestaties.
 
-#### Artikel 14
+##### Artikel 14
 
 Het Zorginstituut merkt de kosten van dbc-zorgproducten in het vrije segment van alle instellingen voor medisch specialistische zorg, uitgezonderd expertproducten, voor 100 procent aan als kosten van het cluster ‘dbc-zorgproducten in het vrije segment’.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Het Zorginstituut merkt de kostencomponent van de kosten van dbc-zorgproducten in het gereguleerde segment van alle instellingen voor medisch specialistische zorg, inclusief long/astma-klinieken en epilepsiecentra, maar uitgezonderd de kosten van expertproducten, voor 75 procent aan als kosten van het cluster ‘variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp’.
 
@@ -236,7 +262,7 @@ Het Zorginstituut merkt de kosten van dbc-zorgproducten in het vrije segment van
 
 - c. alle kosten van overige instellingen op het gebied van ziekenhuisverpleging voor zover zij niet worden gefinancierd op basis van dbc-zorgproducten.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Het Zorginstituut baseert de herberekening per zorgverzekeraar vaste kosten van ziekenhuisverpleging op de vaste kosten in het jaar 2011.
 
@@ -268,13 +294,13 @@ Het Zorginstituut merkt de kosten van dbc-zorgproducten in het vrije segment van
 
 12. Het Zorginstituut calculeert 100 procent na op het verschil tussen de vaste kosten van ziekenhuisverpleging, vastgesteld ingevolge het tweede tot en met negende lid enerzijds, en het herberekende deelbedrag vaste kosten van ziekenhuisverpleging na toepassing van het eerste lid, anderzijds.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Het Zorginstituut merkt de door de zorgautoriteit berekende bedragen ter verrekening van de in 2012 gerealiseerde opbrengstresultaten van gebudgetteerde instellingen voor geneeskundige geestelijke gezondheidszorg voor een door de zorgautoriteit vast te stellen gedeelte aan als kosten die behoren tot het cluster ‘geneeskundige geestelijke gezondheidszorg voor verzekerden jonger dan achttien jaar’.
 
 2. Het Zorginstituut calculeert 100 procent na op het verschil tussen de gerealiseerde kosten van geneeskundige geestelijke gezondheidszorg voor verzekerden jonger dan achttien jaar enerzijds, en het herberekende deelbedrag kosten van geneeskundige geestelijke gezondheidszorg voor verzekerden jonger dan achttien jaar, bedoeld in [artikel 3.12, derde lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.12), anderzijds.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Het Zorginstituut merkt de door de zorgautoriteit berekende bedragen ter verrekening van de in 2012 gerealiseerde opbrengstresultaten van gebudgetteerde instellingen voor geneeskundige geestelijke gezondheidszorg voor een door de zorgautoriteit vast te stellen gedeelte aan als kosten die behoren tot het cluster ‘geneeskundige geestelijke gezondheidszorg’ voor verzekerden van achttien jaar en ouder.
 
@@ -290,19 +316,19 @@ Het Zorginstituut merkt de kosten van dbc-zorgproducten in het vrije segment van
 
 - e. ten slotte wordt het herberekende deelbedrag per zorgverzekeraar nogmaals herberekend door hierbij het resultaat van onderdeel c op te tellen en vervolgens te verminderen met het resultaat van onderdeel d.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Het Zorginstituut merkt de kosten van eerstelijnsdiagnostiek voor 100 procent aan als kosten van het cluster ‘overige prestaties’.
 
 2. Het Zorginstituut merkt de kosten van prestaties waarop de beleidsregels ‘Innovatie ten behoeve van nieuwe zorgprestaties’ of ‘Prestatiebekostiging multidisciplinaire zorgverlening chronische aandoeningen’ van de zorgautoriteit van toepassing zijn, voor 100 procent aan als kosten van het cluster ‘overige prestaties’.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Het bedrag en het percentage bedoeld in [artikel 3.17 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.17) zijn: € 22,50 en 90 procent.
 
 2. Het bedrag en het percentage bedoeld in [artikel 3.17 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.17) zijn: € 7,50 en 90 procent.
 
-#### Artikel 21
+##### Artikel 21
 
 1. De opbrengst van de nominale rekenpremie, bedoeld in [artikel 3.19, tweede lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.19), wordt berekend overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030863&hoofdstuk=2&artikel=7&z=2014-04-01&g=2014-04-01), met dien verstande, dat wordt uitgegaan van het gerealiseerde aantal zorgverzekeringen waarvoor premie moet worden betaald bij de zorgverzekeraar.
 
@@ -310,13 +336,13 @@ Het Zorginstituut merkt de kosten van dbc-zorgproducten in het vrije segment van
 
 ### Hoofdstuk 4. Aanvullingen op de vereveningsbijdrage aan een zorgverzekeraar
 
-#### Artikel 22
+##### Artikel 22
 
 Het in [artikel 3.22, tweede lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.22) bedoelde bedrag per verzekerde bedraagt € 50.
 
 ### Hoofdstuk 5. De betaling van de vereveningsbijdrage aan zorgverzekeraar door het Zorginstituut
 
-#### Artikel 23
+##### Artikel 23
 
 De betaling van de bijdrage geschiedt overeenkomstig door het Zorginstituut te stellen beleidsregels, waarin ten minste een betaalschema is opgenomen dat rekening houdt met het betaalschema van de zorgverzekeraars.
 
@@ -324,11 +350,11 @@ De betaling van de bijdrage geschiedt overeenkomstig door het Zorginstituut te s
 
 ### Hoofdstuk 7. Overige bepalingen
 
-#### Artikel 26
+##### Artikel 26
 
 Wijzigt de Wijzigingsregeling Regeling zorgverzekering (vereveningsbijdrage zorgverzekeraars 2011).
 
-#### Artikel 27
+##### Artikel 27
 
 In afwijking van hetgeen daarover in [artikel 3.16 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.16) zoals dat met betrekking tot het jaar 2010 gold, was geregeld, worden de variabele kosten van ziekenhuisverpleging en de kosten van specialistische hulp ten behoeve van de vaststelling van de vereveningsbijdrage over het jaar 2010 als volgt herberekend:
 
@@ -360,7 +386,7 @@ In afwijking van hetgeen daarover in [artikel 3.16 van de Regeling zorgverzekeri
 
 - 11. Het Zorginstituut calculeert 30 procent na op het verschil tussen de variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp, vastgesteld ingevolge het eerste tot en met negende lid enerzijds, en het herberekende deelbedrag variabele kosten van ziekenhuis.
 
-#### Artikel 28
+##### Artikel 28
 
 In afwijking van hetgeen daarover in [artikel 3.17 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.17) zoals dat met betrekking tot het jaar 2010 gold, was geregeld, worden de vaste kosten van ziekenhuisverpleging ten behoeve van de vaststelling van de vereveningsbijdrage over het jaar 2010 als volgt herberekend:
 
@@ -394,7 +420,7 @@ In afwijking van hetgeen daarover in [artikel 3.17 van de Regeling zorgverzekeri
 
 - 12. Het Zorginstituut calculeert 100 procent na op het verschil tussen de vaste kosten van ziekenhuisverpleging, vastgesteld ingevolge het tweede tot en met elfde lid enerzijds, en het deelbedrag vaste kosten van ziekenhuisverpleging na toepassing van het eerste lid anderzijds.
 
-#### Artikel 29
+##### Artikel 29
 
 In afwijking van hetgeen daarover in [artikel 3.18 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.18) zoals dat met betrekking tot het jaar 2010 gold, was geregeld, worden de kosten van geneeskundige geestelijke gezondheidszorg voor verzekerden jonger dan achttien jaar ten behoeve van de vaststelling van de vereveningsbijdrage over het jaar 2010 als volgt herberekend:
 
@@ -408,7 +434,7 @@ In afwijking van hetgeen daarover in [artikel 3.18 van de Regeling zorgverzekeri
 
 - 5. Het Zorginstituut past overeenkomstig [artikel 3.14 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.14) zoals dat met betrekking tot het jaar 2010 gold, hogekostencompensatie toe op het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg voor verzekerden van achttien jaar en ouder.
 
-#### Artikel 30
+##### Artikel 30
 
 In afwijking van hetgeen daarover in [artikel 3.19 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.19) zoals dat met betrekking tot het jaar 2010 gold, was geregeld, worden de kosten van geneeskundige geestelijke gezondheidszorg voor verzekerden van achttien jaar en ouder ten behoeve van de vaststelling van de vereveningsbijdrage over het jaar 2010 als volgt herberekend:
 
@@ -418,15 +444,15 @@ In afwijking van hetgeen daarover in [artikel 3.19 van de Regeling zorgverzekeri
 
 ### Hoofdstuk 8. Slotbepalingen
 
-#### Artikel 31
+##### Artikel 31
 
 [Hoofdstuk 3 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=3), zoals dat na toepassing van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0030863&hoofdstuk=6&artikel=24&z=2014-04-01&g=2014-04-01) juncto [33, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030863&hoofdstuk=8&artikel=33&z=2014-04-01&g=2014-04-01), zoals dat met betrekking tot het vereveningsjaar 2011 luidde, blijft van toepassing op de vaststelling van de vereveningsbijdragen over 2011.
 
-#### Artikel 32
+##### Artikel 32
 
 Deze regeling wordt aangehaald als: Regeling risicoverevening 2012.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Deze regeling treedt, met uitzondering van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0030863&hoofdstuk=6&artikel=25&z=2014-04-01&g=2014-04-01), in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 30 september 2011.
 

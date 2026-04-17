@@ -1,13 +1,37 @@
 ---
 title: "Regeling onderhoudsovereenkomsten landschapselementen"
 identifier: "BWBR0003126"
-categorie: "Overig"
-publicatiedatum: 1995-05-19
-laatste_update: 1995-05-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003126"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1995-05-19"
+last_updated: "1995-05-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003126"
+soort: "ministeriele-regeling"
+stam_id: "4973843"
+version_id: "8635872"
+internal_id: "C11180081"
+label_id: "4950784"
+dtd_version: "2.0"
+original_entry_into_force: "1977-09-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003126/1995-05-19/0"
+intitule_bron: "Stcrt.1977-182"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1977-09-07"
+intitule_published: "1977-09-19"
+intitule_in_force: "1977-09-19"
+intitule_status: "goed"
+original_publication: "Stcrt.1977-182"
+original_signed_date: "1977-09-07"
+original_published_date: "1977-09-19"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1977-09-20"
+jci_1_3: "jci1.3:c:BWBR0003126&z=1995-05-19&g=1995-05-19"
+jci_1_0: "1.0:c:BWBR0003126&g=1995-05-19"
+citeertitel_status: "officieel"
+signed_date: "1977-09-07"
+entry_into_force: "1977-09-20"
 ---
-
 # Regeling onderhoudsovereenkomsten landschapselementen
 
 Overwegende,
@@ -20,11 +44,11 @@ Besluit:
 
 #### Titel 1. – Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
-#### Artikel 2
+##### Artikel 2
 
 1.
 
@@ -34,7 +58,7 @@ Deze regeling is slechts van toepassing op de vóór 1 januari 1992 met gebruiks
 
 Met ingang van 1 januari 1992 worden door de Minister geen onderhoudsovereenkomsten meer afgesloten.
 
-#### Artikel 3
+##### Artikel 3
 
 In de onderhoudsovereenkomst worden de verplichtingen opgenomen waartoe de gebruiksgerechtigde zich verbindt, met vermelding van de omstandigheden waaronder, de vorm waarin en het tijdstip waarop.
 
@@ -54,7 +78,7 @@ Deze verplichtingen betreffen het jaarlijks onderhoud en kunnen voorts, indien d
 
 #### Titel 2. – Vergoedingen
 
-#### Artikel 4
+##### Artikel 4
 
 1. Aan de gebruiksgerechtigde die een onderhoudsovereenkomst is aangegaan wordt door de Minister een vergoeding toegekend.
 
@@ -68,7 +92,7 @@ Deze verplichtingen betreffen het jaarlijks onderhoud en kunnen voorts, indien d
 
 - d. indien in de onderhoudsovereenkomst tevens bepalingen zijn opgenomen over het wegwerken van achterstallig onderhoud, een bedrag ter vergoeding van de personele en materiële kosten voor het verrichten van de betreffende werkzaamheden.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Indien de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003126&titeldeel=1&artikel=3&z=1995-05-19&g=1995-05-19) bedoelde verplichtingen worden nagekomen door het aanwenden van arbeidsprestaties die anderszins van overheidswege worden gesubsidieerd, wordt de in [artikel 4, tweede lid, onder a en d](https://wetten.overheid.nl/jci1.3:c:BWBR0003126&titeldeel=2&artikel=4&z=1995-05-19&g=1995-05-19) genoemde vergoeding naar evenredigheid verminderd.
 
@@ -76,7 +100,7 @@ Deze verplichtingen betreffen het jaarlijks onderhoud en kunnen voorts, indien d
 
 #### Titel 3. – Algemene voorwaarden
 
-#### Artikel 6
+##### Artikel 6
 
 Tenzij anders wordt overeengekomen, zijn de volgende algemene voorwaarden op onderhoudsovereenkomsten van toepassing:
 
@@ -96,7 +120,7 @@ Tenzij anders wordt overeengekomen, zijn de volgende algemene voorwaarden op ond
 
 #### Titel 4. – Geschillen
 
-#### Artikel 7
+##### Artikel 7
 
 1. Indien uit een onderhoudsovereenkomst een geschil voortkomt, is ieder der partijen gerechtigd dit geschil voor te leggen aan de op grond van de Regeling beheersovereenkomsten en natuurontwikkeling bevoegde provinciale geschillencommissie.
 
@@ -104,7 +128,7 @@ Tenzij anders wordt overeengekomen, zijn de volgende algemene voorwaarden op ond
 
 3. Een geschillencommissie als bedoeld in het eerste of in het tweede lid heeft tot taak te beslissen inzake haar schriftelijk voorgelegde geschillen uit onderhoudsovereenkomsten.
 
-#### Artikel 8
+##### Artikel 8
 
 Een geschillencommissie als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003126&titeldeel=4&artikel=7&z=1995-05-19&g=1995-05-19), bestaat uit:
 
@@ -114,7 +138,7 @@ Een geschillencommissie als bedoeld in [artikel 7, tweede lid](https://wetten.ov
 
 - c. één lid, tevens voorzitter, aangewezen door de onder a en b bedoelde leden.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De geschillencommissies als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003126&titeldeel=4&artikel=7&z=1995-05-19&g=1995-05-19), hierna te noemen de geschillencommissies, beslissen met meerderheid van stemmen.
 
@@ -132,7 +156,7 @@ Een geschillencommissie als bedoeld in [artikel 7, tweede lid](https://wetten.ov
 
 #### Titel 5. – Slotbepalingen
 
-#### Artikel 10
+##### Artikel 10
 
 1. Een onderhoudsovereenkomst wordt niet afgesloten inzake landschapselementen waarvoor op enigerlei andere wijze een periodieke geldelijke bijdrage ten behoeve van het onderhoud en de instandhouding daarvan door de Staat wordt gegeven.
 
@@ -140,7 +164,7 @@ Een geschillencommissie als bedoeld in [artikel 7, tweede lid](https://wetten.ov
 
 3. Een onderhoudsovereenkomst wordt niet verlengd voor zover door het sluiten van een beheersovereenkomst, als bedoeld in artikel 24, eerste lid, van de Beschikking beheersovereenkomsten 1983 mede in het onderhoud van de betrokken landschapselementen kan worden voorzien.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Deze regeling kan worden aangehaald als: Regeling onderhoudsovereenkomsten landschapselementen.
 

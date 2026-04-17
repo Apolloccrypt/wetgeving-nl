@@ -1,13 +1,38 @@
 ---
 title: "Vennootschapsbelasting, inkomstenbelasting, waarderingsaspecten van pensioenen en lijfrenten"
 identifier: "BWBR0042088"
-categorie: "Belastingrecht"
-publicatiedatum: 2019-04-02
-laatste_update: 2019-04-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042088"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2019-04-02"
+last_updated: "2019-04-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042088"
+soort: "beleidsregel"
+stam_id: "15046403"
+version_id: "25782852"
+internal_id: "C36761631"
+label_id: "14996254"
+dtd_version: "2.0"
+original_entry_into_force: "2019-04-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042088/2019-04-02/0"
+intitule_bron: "Stcrt.2019-17206"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-03-19"
+intitule_published: "2019-04-01"
+intitule_in_force: "2019-04-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-17206"
+original_signed_date: "2019-03-19"
+original_published_date: "2019-04-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-17206"
+entry_into_force_date: "2019-04-02"
+jci_1_3: "jci1.3:c:BWBR0042088&z=2019-04-02&g=2019-04-02"
+jci_1_0: "1.0:c:BWBR0042088&g=2019-04-02"
+citeertitel_status: "redactioneel"
+signed_date: "2019-03-19"
+entry_into_force: "2019-04-02"
 ---
-
 # Vennootschapsbelasting, inkomstenbelasting, waarderingsaspecten van pensioenen en lijfrenten
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

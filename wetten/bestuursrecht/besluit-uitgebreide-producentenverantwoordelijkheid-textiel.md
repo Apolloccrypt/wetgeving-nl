@@ -1,13 +1,39 @@
 ---
-title: "Besluit uitgebreide producentenverantwoordelijkheid textiel"
+title: "Besluit van 14 april 2023, houdende regels voor uitgebreide producentenverantwoordelijkheid voor textielproducten (Besluit uitgebreide producentenverantwoordelijkheid textiel)"
 identifier: "BWBR0048093"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-07-01
-laatste_update: 2023-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048093"
+country: "nl"
+rank: "amvb"
+publication_date: "2023-07-01"
+last_updated: "2023-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048093"
+soort: "AMvB"
+stam_id: "16730363"
+version_id: "29351642"
+internal_id: "C41880761"
+label_id: "16646924"
+dtd_version: "2.0"
+original_entry_into_force: "2023-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048093/2023-07-01/0"
+intitule_bron: "Stb.2023-132"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-04-14"
+intitule_published: "2023-04-21"
+intitule_in_force: "2023-04-21"
+intitule_status: "goed"
+original_publication: "Stb.2023-132"
+original_signed_date: "2023-04-14"
+original_published_date: "2023-04-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2023-132"
+entry_into_force_date: "2023-07-01"
+jci_1_3: "jci1.3:c:BWBR0048093&z=2023-07-01&g=2023-07-01"
+jci_1_0: "1.0:c:BWBR0048093&g=2023-07-01"
+citeertitel_status: "officieel"
+short_title: "Besluit uitgebreide producentenverantwoordelijkheid textiel"
+signed_date: "2023-04-14"
+entry_into_force: "2023-07-01"
 ---
-
 # Besluit van 14 april 2023, houdende regels voor uitgebreide producentenverantwoordelijkheid voor textielproducten (Besluit uitgebreide producentenverantwoordelijkheid textiel)
 
 Op de voordracht van de Staatssecretaris van Infrastructuur en Waterstaat van, nr. IenW/BSK-, Hoofddirectie Bestuurlijke en Juridische Zaken;
@@ -20,7 +46,7 @@ Gezien het nader rapport van de Staatssecretaris van Infrastructuur en Waterstaa
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1. (definities en reikwijdte)
+##### Artikel 1. (definities en reikwijdte)
 
 1. In dit besluit en de erop berustende bepalingen wordt verstaan onder:
 
@@ -46,13 +72,13 @@ Hebben goedgevonden en verstaan:
 
 2. Dit besluit heeft betrekking op nieuw gefabriceerde textielproducten van de categorieën kleding en huishoudtextiel.
 
-#### Artikel 2. (gemachtigd vertegenwoordiger)
+##### Artikel 2. (gemachtigd vertegenwoordiger)
 
 1. Een producent die niet in Nederland is gevestigd, wijst een in Nederland gevestigde rechtspersoon of natuurlijke persoon aan als gemachtigd vertegenwoordiger voor de uitvoering van de verplichtingen van de producent in verband met dit besluit en het [Besluit regeling voor uitgebreide producentenverantwoordelijkheid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197).
 
 2. Op de gemachtigd vertegenwoordiger zijn de bij ministeriële regeling vastgestelde vereisten van toepassing.
 
-#### Artikel 3. (voorbereiding voor hergebruik en recycling)
+##### Artikel 3. (voorbereiding voor hergebruik en recycling)
 
 Onverminderd de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048093&artikel=4&z=2023-07-01&g=2023-07-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0048093&artikel=5&z=2023-07-01&g=2023-07-01) draagt de producent er zorg voor dat per kalenderjaar ten minste het volgende gewichtspercentage van het totaal van de door hem in het daaraan voorafgaande kalenderjaar in de handel gebrachte textielproducten wordt voorbereid voor hergebruik of gerecycled:
 
@@ -68,7 +94,7 @@ Onverminderd de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048093&ar
 
 - f. vanaf 2030: 75 gewichtsprocent.
 
-#### Artikel 4. (voorbereiding voor hergebruik)
+##### Artikel 4. (voorbereiding voor hergebruik)
 
 1. De producent draagt er zorg voor dat per kalenderjaar van het totaal van de door hem in het voorafgaande kalenderjaar in de handel gebrachte textielproducten ten minste het volgende gewichtspercentage wordt voorbereid voor hergebruik:
 
@@ -98,7 +124,7 @@ Onverminderd de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048093&ar
 
 - f. vanaf 2030: 15 gewichtsprocent.
 
-#### Artikel 5. (vezel-tot-vezelrecycling)
+##### Artikel 5. (vezel-tot-vezelrecycling)
 
 De producent draagt er zorg voor dat per kalenderjaar van het totaal van de door hem in het voorafgaande kalenderjaar in de handel gebrachte textielproducten die worden gerecycled ten minste het volgende gewichtspercentage vezel-tot-vezel wordt gerecycled:
 
@@ -114,21 +140,21 @@ De producent draagt er zorg voor dat per kalenderjaar van het totaal van de door
 
 - f. vanaf 2030: 33 gewichtsprocent.
 
-#### Artikel 6. (toepassing gerecyclede textielvezels)
+##### Artikel 6. (toepassing gerecyclede textielvezels)
 
 De producent neemt maatregelen die erop zijn gericht dat in textielproducten die hij in de handel brengt zo veel mogelijk gerecyclede textielvezels afkomstig van na gebruik afgedankte textielproducten worden toegepast.
 
-#### Artikel 7. (verslaglegging)
+##### Artikel 7. (verslaglegging)
 
 1. Het verslag, bedoeld in [artikel 5 van het Besluit regeling voor uitgebreide producentenverantwoordelijkheid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=5), wordt jaarlijks voor 1 augustus over het voorafgaande kalenderjaar uitgebracht.
 
 2. In afwijking van [artikel 5, eerste lid, van het Besluit regeling voor uitgebreide producentenverantwoordelijkheid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=5) kan in het verslag over de jaren 2023 en 2024 worden volstaan met vermelding van de hoeveelheid in de handel gebrachte textielproducten.
 
-#### Artikel 8. (inwerkingtreding)
+##### Artikel 8. (inwerkingtreding)
 
 Dit besluit treedt in werking met ingang van 1 juli 2023.
 
-#### Artikel 9. (citeertitel)
+##### Artikel 9. (citeertitel)
 
 Dit besluit wordt aangehaald als: Besluit uitgebreide producentenverantwoordelijkheid textiel.
 

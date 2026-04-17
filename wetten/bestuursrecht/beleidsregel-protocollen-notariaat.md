@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel protocollen notariaat"
+title: "Besluit van de Minister voor Rechtsbescherming van 3 februari 2021 Directie Juridische en Operationele Aangelegenheden, 3180197, tot vaststelling van beleidsregels op het gebied van protocolbeheer en -toewijzing binnen het notariaat (Beleidsregel protocollen notariaat)"
 identifier: "BWBR0044806"
-categorie: "Bestuursrecht"
-publicatiedatum: 2021-02-11
-laatste_update: 2021-02-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044806"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2021-02-11"
+last_updated: "2021-02-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044806"
+soort: "beleidsregel"
+stam_id: "15840693"
+version_id: "27516032"
+internal_id: "C38829361"
+label_id: "15776984"
+dtd_version: "2.0"
+original_entry_into_force: "2021-02-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044806/2021-02-11/0"
+intitule_bron: "Stcrt.2021-6465"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-02-03"
+intitule_published: "2021-02-11"
+intitule_in_force: "2021-02-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-6465"
+original_signed_date: "2021-02-03"
+original_published_date: "2021-02-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-6465"
+entry_into_force_date: "2021-02-11"
+jci_1_3: "jci1.3:c:BWBR0044806&z=2021-02-11&g=2021-02-11"
+jci_1_0: "1.0:c:BWBR0044806&g=2021-02-11"
+citeertitel_status: "redactioneel"
+short_title: "Beleidsregel protocollen notariaat"
+signed_date: "2021-02-03"
+entry_into_force: "2021-02-11"
 ---
-
 # Besluit van de Minister voor Rechtsbescherming van 3 februari 2021 Directie Juridische en Operationele Aangelegenheden, 3180197, tot vaststelling van beleidsregels op het gebied van protocolbeheer en -toewijzing binnen het notariaat (Beleidsregel protocollen notariaat)
 
 Gelet op [artikel 15, eerste lid, van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=15)

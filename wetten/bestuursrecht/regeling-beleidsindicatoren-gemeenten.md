@@ -1,28 +1,54 @@
 ---
-title: "Regeling beleidsindicatoren gemeenten"
+title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 24 maart 2016, nr. 2016-0000177572, tot vaststelling van de beleidsindicatoren die door gemeenten in de programma’s en programmaverantwoording worden opgenomen"
 identifier: "BWBR0037783"
-categorie: "Bestuursrecht"
-publicatiedatum: 2018-12-29
-laatste_update: 2018-12-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037783"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2018-12-29"
+last_updated: "2018-12-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037783"
+soort: "ministeriele-regeling"
+stam_id: "13449783"
+version_id: "24652312"
+internal_id: "C35270001"
+label_id: "13416864"
+dtd_version: "2.0"
+original_entry_into_force: "2017-11-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037783/2018-12-29/0"
+intitule_bron: "Stcrt.2016-16004"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-03-24"
+intitule_published: "2016-04-01"
+intitule_in_force: "2016-04-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-64835"
+original_signed_date: "2017-11-10"
+original_published_date: "2017-11-15"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2017-64835"
+entry_into_force_date: "2017-11-10"
+jci_1_3: "jci1.3:c:BWBR0037783&z=2018-12-29&g=2018-12-29"
+jci_1_0: "1.0:c:BWBR0037783&g=2018-12-29"
+citeertitel_status: "officieel"
+short_title: "Regeling beleidsindicatoren gemeenten"
+signed_date: "2017-11-10"
+entry_into_force: "2017-11-10"
 ---
-
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 24 maart 2016, nr. 2016-0000177572, tot vaststelling van de beleidsindicatoren die door gemeenten in de programma’s en programmaverantwoording worden opgenomen
 
 Gelet op de [artikelen 8, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&artikel=8), en [25, tweede lid, onderdeel a, van het Besluit begroting en verantwoording provincies en gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&artikel=25);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Gemeenten hanteren voor het toelichten van de maatschappelijke effecten in de programma’s en de programmaverantwoording de beleidsindicatoren, die zijn opgenomen in de bijlage behorende bij deze regeling.
 
-#### Artikel 2
+##### Artikel 2
 
 Indien de voor een beleidsindicator relevante gegevens niet door de bronhouder kunnen worden verstrekt, neemt de gemeente bij de beleidsindicator op: gegevens niet beschikbaar.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling treedt in werking op het tijdstip waarop het [besluit van 5 maart 2016, houdende wijziging van het Besluit begroting en verantwoording provincies en gemeenten in verband met de invoering van een aantal wijzigingen die bijdragen aan de interne sturing door provinciale staten en de raad alsmede aan een betere vergelijkbaarheid tussen provincies en tussen gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0037728) (Stb. 101) in werking treedt.
 
@@ -72,7 +98,7 @@ Deze regeling treedt in werking op het tijdstip waarop het [besluit van 5 maart 
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling wordt aangehaald als: Regeling beleidsindicatoren gemeenten.
 

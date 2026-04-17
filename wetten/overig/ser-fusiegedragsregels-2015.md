@@ -1,13 +1,39 @@
 ---
-title: "SER-Fusiegedragsregels 2015"
+title: "Besluit van de Sociaal-Economische Raad van 18 september 2015, houdende fusiegedragsregels ter bescherming van de belangen van in de onderneming werkzame personen (SER-Fusiegedragsregels 2015)"
 identifier: "BWBR0037021"
-categorie: "Overig"
-publicatiedatum: 2022-09-13
-laatste_update: 2022-09-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037021"
+country: "nl"
+rank: "pbo"
+publication_date: "2022-09-13"
+last_updated: "2022-09-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037021"
+soort: "pbo"
+stam_id: "13258853"
+version_id: "22686592"
+internal_id: "C32813891"
+label_id: "13227274"
+dtd_version: "2.0"
+original_entry_into_force: "2015-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037021/2022-09-13/0"
+intitule_bron: "Stcrt.2015-31544"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-09-18"
+intitule_published: "2015-09-25"
+intitule_in_force: "2015-09-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-31544"
+original_signed_date: "2015-09-18"
+original_published_date: "2015-09-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-31544"
+entry_into_force_date: "2015-10-01"
+jci_1_3: "jci1.3:c:BWBR0037021&z=2022-09-13&g=2022-09-13"
+jci_1_0: "1.0:c:BWBR0037021&g=2022-09-13"
+citeertitel_status: "officieel"
+short_title: "SER-Fusiegedragsregels 2015"
+signed_date: "2015-09-18"
+entry_into_force: "2015-10-01"
 ---
-
 # Besluit van de Sociaal-Economische Raad van 18 september 2015, houdende fusiegedragsregels ter bescherming van de belangen van in de onderneming werkzame personen (SER-Fusiegedragsregels 2015)
 
 Gelet op [artikel 2 van de Wet op de Sociaal-Economische Raad](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=2);
@@ -16,7 +42,7 @@ Besluit op te stellen en af te kondigen de volgende fusiegedragsregels ter besch
 
 #### Paragraaf 1. Definities
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit wordt verstaan onder:
 
@@ -58,7 +84,7 @@ verenigingen met volledige rechtsbevoegdheid die krachtens hun statuten tot doel
 
 #### Paragraaf 2. Werkingssfeer
 
-#### Artikel 2
+##### Artikel 2
 
 1. De in paragraaf 3 opgenomen gedragsregels zijn slechts van toepassing op ondernemingen die behoren tot het bedrijfsleven en dienen in acht te worden genomen:
 
@@ -80,7 +106,7 @@ verenigingen met volledige rechtsbevoegdheid die krachtens hun statuten tot doel
 
 #### Paragraaf 3. Gedragsregels
 
-#### Artikel 3. In kennis stellen verenigingen van werknemers
+##### Artikel 3. In kennis stellen verenigingen van werknemers
 
 1. Vóórdat over de voorbereiding of totstandkoming van een fusie een openbare mededeling wordt gedaan, worden de verenigingen van werknemers van de inhoud daarvan in kennis gesteld.
 
@@ -88,7 +114,7 @@ verenigingen met volledige rechtsbevoegdheid die krachtens hun statuten tot doel
 
 3. De verplichtingen, bedoeld in het eerste en tweede lid, rusten op degenen op wie verplichtingen worden gelegd in de [artikelen 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037021&paragraaf=3&artikel=4&z=2022-09-13&g=2022-09-13).
 
-#### Artikel 4. Verstrekken gegevens aan verenigingen van werknemers
+##### Artikel 4. Verstrekken gegevens aan verenigingen van werknemers
 
 1. Voordat zij overeenstemming over een fusie bereiken, geven partijen van de voorbereiding van de fusie kennis aan de verenigingen van werknemers en geven zij gevolg aan hetgeen in de volgende leden van dit artikel is bepaald.
 
@@ -116,19 +142,19 @@ De uiteenzetting, bedoeld in dit lid, wordt schriftelijk verstrekt, tenzij met d
 
 8. Met partijen, bedoeld in dit artikel, zijn bedoeld de natuurlijke en/of rechtspersonen die partij zullen zijn bij de overeenkomst die strekt tot het tot stand brengen van de fusie. De verplichtingen ten opzichte van de verenigingen van werknemers, bedoeld in het eerste tot en met zevende lid, rusten op ieder van deze partijen.
 
-#### Artikel 5. Openbaar bod
+##### Artikel 5. Openbaar bod
 
 1. De bieder die het voornemen heeft om, anders dan op grond van overeenstemming als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037021&paragraaf=3&artikel=4&z=2022-09-13&g=2022-09-13), door middel van een openbaar bod een fusie tot stand te brengen, geeft voor zover mogelijk toepassing aan artikel 4.
 
 2. Het bestuur van de doelvennootschap op de aandelen waarvan een openbaar bod wordt uitgebracht, geeft eveneens voor zover mogelijk toepassing aan [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037021&paragraaf=3&artikel=4&z=2022-09-13&g=2022-09-13).
 
-#### Artikel 6. Geleidelijke aankoop ter beurze
+##### Artikel 6. Geleidelijke aankoop ter beurze
 
 Degene die voornemens is een fusie in de zin van [artikel 1, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0037021&paragraaf=1&artikel=1&z=2022-09-13&g=2022-09-13), tot stand te brengen door middel van geleidelijke aankoop ter beurze van (rechten op) aandelen, moet voor zover mogelijk [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037021&paragraaf=3&artikel=4&z=2022-09-13&g=2022-09-13) toepassen.
 
 #### Paragraaf 4. Geheimhouding
 
-#### Artikel 7
+##### Artikel 7
 
 1. Over de kennisgevingen, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037021&paragraaf=3&artikel=3&z=2022-09-13&g=2022-09-13), en [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037021&paragraaf=3&artikel=4&z=2022-09-13&g=2022-09-13), dienen verenigingen van werknemers geheimhouding te betrachten, tenzij het tegendeel schriftelijk aan hen is meegedeeld. De geheimhouding duurt totdat de voorgenomen fusie openbaar is, tenzij fusiepartijen en verenigingen van werknemers anders overeenkomen.
 
@@ -140,7 +166,7 @@ Degene die voornemens is een fusie in de zin van [artikel 1, eerste lid, onder e
 
 #### Paragraaf 5. Melding van fusies aan de Sociaal-Economische Raad
 
-#### Artikel 8
+##### Artikel 8
 
 1. Tezelfdertijd dat degene die aan de verenigingen van werknemers de kennisgeving, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037021&paragraaf=3&artikel=4&z=2022-09-13&g=2022-09-13), doet, of zou moeten doen indien een vereniging van werknemers aanwezig zou zijn, zendt deze een overeenkomstige kennisgeving aan het secretariaat van de Sociaal-Economische Raad, hierna te noemen: de Raad.
 
@@ -150,7 +176,7 @@ Degene die voornemens is een fusie in de zin van [artikel 1, eerste lid, onder e
 
 #### Paragraaf 6. Geschillencommissie Fusiegedragsregels
 
-#### Artikel 9. Geschillencommissie Fusiegedragsregels
+##### Artikel 9. Geschillencommissie Fusiegedragsregels
 
 1. Er is een commissie van de Raad ter behandeling van geschillen over de naleving van de Fusiegedragsregels.
 
@@ -158,7 +184,7 @@ Degene die voornemens is een fusie in de zin van [artikel 1, eerste lid, onder e
 
 3. De commissie wordt hierna aangeduid als 'de Geschillencommissie'.
 
-#### Artikel 10. Samenstelling
+##### Artikel 10. Samenstelling
 
 1. De Geschillencommissie bestaat uit vijf leden en vijf plaatsvervangende leden. De [artikelen 5 en 9 van de Wet op de Sociaal-Economische Raad](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=5) zijn van overeenkomstige toepassing. De leden, bedoeld in het tweede lid, hebben geen persoonsgebonden plaatsvervanger; de leden, bedoeld in het vijfde lid, wel.
 
@@ -170,21 +196,21 @@ Degene die voornemens is een fusie in de zin van [artikel 1, eerste lid, onder e
 
 5. Voor de benoeming van de overige leden en plaatsvervangende leden stelt het dagelijks bestuur van de Raad voor het ene (plaatsvervangend) lid de daarvoor naar zijn oordeel in aanmerking komende organisaties van ondernemers gezamenlijk en voor het andere (plaatsvervangend) lid de daarvoor naar zijn oordeel in aanmerking komende verenigingen van werknemers gezamenlijk in de gelegenheid een voordracht te doen.
 
-#### Artikel 11. Benoemingstermijn
+##### Artikel 11. Benoemingstermijn
 
 1. De voorzitter, de leden en de plaatsvervangende leden van de Geschillencommissie worden benoemd voor een periode van vier jaar. Zij kunnen terstond opnieuw worden benoemd.
 
 2. Op voordracht van de Geschillencommissie kan de Raad een lid van de Geschillencommissie, wiens handelen of nalaten ernstig nadeel toebrengt aan de goede gang van zaken bij de Geschillencommissie of aan het in haar gestelde vertrouwen, tussentijds ontslaan.
 
-#### Artikel 12. Machtiging dagelijks bestuur Raad
+##### Artikel 12. Machtiging dagelijks bestuur Raad
 
 De Raad kan zijn dagelijks bestuur machtigen namens hem toepassing te geven aan [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037021&paragraaf=6&artikel=11&z=2022-09-13&g=2022-09-13).
 
-#### Artikel 13. Onafhankelijkheid en onpartijdigheid
+##### Artikel 13. Onafhankelijkheid en onpartijdigheid
 
 Een lid van de Geschillencommissie voorkomt belangenverstrengeling. Hij doet datgene wat mogelijk is om belangenverstrengeling of de schijn daarvan te vermijden en maakt geen misbruik van zijn positie. Indien noodzakelijk, treedt in zijn plaats een plaatsvervangend lid van de Geschillencommissie op.
 
-#### Artikel 14. Vervanging van een lid
+##### Artikel 14. Vervanging van een lid
 
 1. Een of meer partijen kunnen op grond van feiten en omstandigheden waardoor getwijfeld kan worden aan de onpartijdigheid of onafhankelijkheid van een lid van de Geschillencommissie verzoeken het betreffende lid te vervangen.
 
@@ -196,13 +222,13 @@ Een lid van de Geschillencommissie voorkomt belangenverstrengeling. Hij doet dat
 
 5. Staken de stemmen bij een beslissing, bedoeld in het derde lid, dan wordt het verzoek tot vervanging geacht te zijn toegewezen.
 
-#### Artikel 15. Geheimhouding
+##### Artikel 15. Geheimhouding
 
 1. De leden van de Geschillencommissie en hun plaatsvervangers zijn verplicht tot geheimhouding van alle zaken- en bedrijfsgeheimen welke zij in hun hoedanigheid vernemen.
 
 2. Zij zijn voorts verplicht tot geheimhouding van alle aangelegenheden ten aanzien waarvan de voorzitter van de Geschillencommissie hun geheimhouding heeft opgelegd of waarvan zij het vertrouwelijk karakter moeten begrijpen.
 
-#### Artikel 16. Secretariaat
+##### Artikel 16. Secretariaat
 
 1. De Geschillencommissie wordt bijgestaan door een secretariaat.
 
@@ -212,7 +238,7 @@ Een lid van de Geschillencommissie voorkomt belangenverstrengeling. Hij doet dat
 
 #### Paragraaf 7. Procedure bij de Geschillencommissie
 
-#### Artikel 17. Afwijkend aantal leden Geschillencommissie
+##### Artikel 17. Afwijkend aantal leden Geschillencommissie
 
 1. Indien de aard van een aan haar voorgelegd geschil zulks toelaat, kan de Geschillencommissie de behandeling ervan opdragen aan een uit drie van haar leden te vormen kamer.
 
@@ -222,7 +248,7 @@ Een lid van de Geschillencommissie voorkomt belangenverstrengeling. Hij doet dat
 
 4. De regels omtrent de werkwijze van de Geschillencommissie, bedoeld in het tweede lid, en de regels omtrent de werkwijze van haar secretariaat, bedoeld in het derde lid, worden opgenomen in een 'Reglement werkwijze Geschillencommissie Fusiegedragsregels'.
 
-#### Artikel 18. Aanhangig maken van geschillen
+##### Artikel 18. Aanhangig maken van geschillen
 
 1. Bij de Geschillencommissie kunnen geschillen slechts aanhangig worden gemaakt door een of meer verenigingen van werknemers en door een of meer bij de totstandbrenging van de fusie betrokken partijen.
 
@@ -232,13 +258,13 @@ Een lid van de Geschillencommissie voorkomt belangenverstrengeling. Hij doet dat
 
 4. Als bij de totstandbrenging van de fusie betrokken partijen worden beschouwd degenen, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037021&paragraaf=3&artikel=3&z=2022-09-13&g=2022-09-13).
 
-#### Artikel 19. Wijze van aanhangig maken van geschillen en bemiddeling
+##### Artikel 19. Wijze van aanhangig maken van geschillen en bemiddeling
 
 1. Een geschil, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0037021&paragraaf=7&artikel=18&z=2022-09-13&g=2022-09-13), moet aanhangig worden gemaakt bij schriftelijk verzoek dat bij het secretariaat van de Geschillencommissie moet worden ingediend. Het schriftelijk verzoek moet worden ingediend binnen een termijn eindigende een maand na openbaarmaking door of namens een of meer bij de totstandbrenging van de fusie betrokken partijen dat de fusie al dan niet doorgang vindt.
 
 2. De Geschillencommissie, of namens haar de voorzitter, kan in het geval van een reeds aan haar voorgelegd geschil als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0037021&paragraaf=7&artikel=18&z=2022-09-13&g=2022-09-13) dan wel in het geval er zulk een geschil dreigt te ontstaan op verzoek van een der partijen of ambtshalve een poging tot bemiddeling doen of laten doen.
 
-#### Artikel 20. Inhoud schriftelijk verzoek
+##### Artikel 20. Inhoud schriftelijk verzoek
 
 1. Een schriftelijk verzoek bevat:
 
@@ -252,7 +278,7 @@ Een lid van de Geschillencommissie voorkomt belangenverstrengeling. Hij doet dat
 
 2. Indien het schriftelijk verzoek wordt ingediend door een gemachtigde van de verzoekende partij, niet zijnde een advocaat, moet bij het schriftelijk verzoek een machtiging zijn gevoegd.
 
-#### Artikel 21. Ontvankelijkheid
+##### Artikel 21. Ontvankelijkheid
 
 1. Na ontvangst van het schriftelijk verzoek gaat de voorzitter van de Geschillencommissie na of de verzoekende partij ontvankelijk is.
 
@@ -266,7 +292,7 @@ Een lid van de Geschillencommissie voorkomt belangenverstrengeling. Hij doet dat
 
 6. De secretaris van de Geschillencommissie zendt een afschrift van de beslissing van de Geschillencommissie terzake van de bezwaren aan de verzoekende partij of partijen en aan de verwerende partij of partijen.
 
-#### Artikel 22. Schriftelijk verweer
+##### Artikel 22. Schriftelijk verweer
 
 1. De secretaris van de Geschillencommissie zendt een afschrift van het schriftelijk verzoek aan de als verweerder aan te merken partij of partijen.
 
@@ -276,31 +302,31 @@ Een lid van de Geschillencommissie voorkomt belangenverstrengeling. Hij doet dat
 
 4. De secretaris zendt terstond een afschrift van het schriftelijk verweer aan de verzoekende partij of partijen.
 
-#### Artikel 23. Mondelinge behandeling
+##### Artikel 23. Mondelinge behandeling
 
 1. Zo spoedig mogelijk na de schriftelijke behandeling, bedoeld in [artikel 20 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0037021&paragraaf=7&artikel=20&z=2022-09-13&g=2022-09-13), houdt de Geschillencommissie een mondelinge behandeling in de zaak.
 
 2. De secretaris van de Geschillencommissie stelt ieder der partijen tijdig in kennis van plaats, datum en tijdstip van de mondelinge behandeling.
 
-#### Artikel 24. Nadere gegevens opvragen
+##### Artikel 24. Nadere gegevens opvragen
 
 1. De Geschillencommissie kan in iedere stand van de procedure een of meer partijen verzoeken schriftelijk nadere gegevens te verstrekken.
 
 2. De secretaris van de Geschillencommissie zendt een afschrift van het desbetreffende verzoek, alsmede van de aan de Geschillencommissie verstrekte schriftelijke gegevens, aan de andere partij of partijen.
 
-#### Artikel 25. Geheimhouding
+##### Artikel 25. Geheimhouding
 
 1. Op verzoek van een partij kan de Geschillencommissie met betrekking tot gegevens die aan de andere partij of partijen hetzij schriftelijk, hetzij tijdens de mondelinge behandeling worden verstrekt, geheimhouding opleggen.
 
 2. Bij het verzoek, bedoeld in het eerste lid, dient te worden aangegeven van welke gegevens geheimhouding wordt verzocht.
 
-#### Artikel 26. Verschijnen tijdens mondelinge behandeling
+##### Artikel 26. Verschijnen tijdens mondelinge behandeling
 
 1. Tijdens de mondelinge behandeling in de zaak voor de Geschillencommissie kunnen partijen zelf verschijnen en optreden dan wel bij gemachtigde. Partijen kunnen zich laten bijstaan door een advocaat of andere adviseur.
 
 2. Indien een partij zich laat bijstaan door een adviseur, niet zijnde een advocaat, dient die adviseur voorafgaande aan de mondelinge behandeling een machtiging van de desbetreffende partij te overleggen.
 
-#### Artikel 27. Getuigen of deskundigen
+##### Artikel 27. Getuigen of deskundigen
 
 1. De Geschillencommissie kan zich tijdens de mondelinge behandeling laten voorlichten door getuigen of deskundigen.
 
@@ -308,29 +334,29 @@ Een lid van de Geschillencommissie voorkomt belangenverstrengeling. Hij doet dat
 
 3. Partijen en hun advocaat of adviseur zijn bevoegd om tijdens de mondelinge behandeling vragen te stellen aan de getuigen of deskundigen, bedoeld in het eerste en tweede lid.
 
-#### Artikel 28. Openbaarheid mondelinge behandeling
+##### Artikel 28. Openbaarheid mondelinge behandeling
 
 1. De mondelinge behandeling voor de Geschillencommissie is openbaar.
 
 2. De Geschillencommissie kan bepalen dat de behandeling van de zaak geheel of gedeeltelijk met gesloten deuren plaatsvindt indien een openbare behandeling een goede rechtspleging of de belangen van de betrokkene(n) ernstig zou schaden.
 
-#### Artikel 29. Afwijking van termijnen
+##### Artikel 29. Afwijking van termijnen
 
 De Geschillencommissie kan van de genoemde termijnen afwijken en eveneens aan partijen afwijking toestaan. Zij draagt er zorg voor dat een redelijke termijn van afhandeling van het geschil verzekerd blijft.
 
 #### Paragraaf 8. Beslissing van de Geschillencommissie
 
-#### Artikel 30. Schriftelijke beslissing
+##### Artikel 30. Schriftelijke beslissing
 
 1. Zo spoedig mogelijk nadat de Geschillencommissie de behandeling van de zaak heeft gesloten, neemt zij een beslissing, die schriftelijk wordt vastgelegd.
 
 2. De beslissing wordt genomen bij meerderheid van stemmen.
 
-#### Artikel 31. Motivering van beslissing
+##### Artikel 31. Motivering van beslissing
 
 De beslissing van de Geschillencommissie wordt met redenen omkleed en houdt de gronden in waarop zij rust.
 
-#### Artikel 32. Soorten beslissingen
+##### Artikel 32. Soorten beslissingen
 
 1. Indien de Geschillencommissie het door een vereniging van werknemers ingediende bezwaar gegrond bevindt, beslist zij dat een bij de totstandbrenging van een fusie betrokken partij een of meer van de Fusiegedragsregels niet of niet naar behoren heeft nageleefd.
 
@@ -338,7 +364,7 @@ De beslissing van de Geschillencommissie wordt met redenen omkleed en houdt de g
 
 3. Zowel in het geval, bedoeld in het eerste lid, als het geval, bedoeld in het tweede lid, kan de Geschillencommissie oordelen dat de niet-naleving of niet behoorlijke naleving een ernstig karakter draagt en in ernstige mate verwijtbaar is. Alsdan kan zij besluiten om onder vermelding van de naam van partijen een persbericht uit te doen gaan met betrekking tot haar beslissing.
 
-#### Artikel 33. Openbare beslissing
+##### Artikel 33. Openbare beslissing
 
 1. Binnen een week nadat de Geschillencommissie haar beslissing heeft genomen, zendt de secretaris een afschrift daarvan aan alle partijen.
 
@@ -348,15 +374,15 @@ De beslissing van de Geschillencommissie wordt met redenen omkleed en houdt de g
 
 #### Paragraaf 9. Slotbepalingen
 
-#### Artikel 34
+##### Artikel 34
 
 Het SER-besluit Fusiegedragsregels 2000 wordt ingetrokken.
 
-#### Artikel 35
+##### Artikel 35
 
 Dit besluit treedt in werking met ingang van 1 oktober 2015.
 
-#### Artikel 36
+##### Artikel 36
 
 Dit besluit wordt aangehaald als: SER-Fusiegedragsregels 2015.
 

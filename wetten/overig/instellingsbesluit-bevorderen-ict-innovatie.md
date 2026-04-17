@@ -1,18 +1,44 @@
 ---
-title: "Instellingsbesluit bevorderen ICT-innovatie"
+title: "Besluit van de Minister van Economische Zaken van 26 september 2014, nr. B&I/14153205, tot instelling van het team bevordering ICT-innovatie (Instellingsbesluit bevorderen ICT-innovatie)"
 identifier: "BWBR0035606"
-categorie: "Overig"
-publicatiedatum: 2016-10-01
-laatste_update: 2016-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035606"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2016-10-01"
+last_updated: "2016-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035606"
+soort: "ministeriele-regeling"
+stam_id: "12810123"
+version_id: "23590682"
+internal_id: "C33961721"
+label_id: "12779844"
+dtd_version: "2.0"
+original_entry_into_force: "2016-09-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035606/2016-10-01/0"
+intitule_bron: "Stcrt.2014-28095"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-09-26"
+intitule_published: "2014-10-01"
+intitule_in_force: "2014-10-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-51415"
+original_signed_date: "2016-09-21"
+original_published_date: "2016-09-30"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2016-51415"
+entry_into_force_date: "2016-09-21"
+jci_1_3: "jci1.3:c:BWBR0035606&z=2016-10-01&g=2016-10-01"
+jci_1_0: "1.0:c:BWBR0035606&g=2016-10-01"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit bevorderen ICT-innovatie"
+signed_date: "2016-09-21"
+entry_into_force: "2016-09-21"
 ---
-
 # Besluit van de Minister van Economische Zaken van 26 september 2014, nr. B&I/14153205, tot instelling van het team bevordering ICT-innovatie (Instellingsbesluit bevorderen ICT-innovatie)
 
 Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -20,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - b. **commissie:** het team bevordering ICT-innovatie.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een commissie, die de ICT-innovatie bevordert.
 
@@ -42,7 +68,7 @@ In dit besluit wordt verstaan onder:
 
 - h. het leveren van input met betrekking tot de voortgang van het ICT-gerelateerde beleid.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De commissie bestaat uit een voorzitter en ten minste drie en ten hoogste zeven andere leden.
 
@@ -54,7 +80,7 @@ In dit besluit wordt verstaan onder:
 
 5. De leden brengen op persoonlijke titel hun kennis en ervaring in en treden niet op als vertegenwoordiger van een specifieke belangengroep.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De commissie stelt haar eigen werkwijze schriftelijk vast.
 
@@ -64,13 +90,13 @@ In dit besluit wordt verstaan onder:
 
 4. De commissie verstrekt desgevraagd aan de Minister de voor de uitoefening van zijn taak benodigde inlichtingen. De Minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Aan de voorzitter van de commissie wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18 van [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) en de arbeidsduurfactor op 0,333 fte.
 
 2. Aan de leden afkomstig uit het Midden- en Klein Bedrijf van de commissie wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 16 van [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) en de arbeidsduurfactor op 0,222 fte.
 
-#### Artikel 6
+##### Artikel 6
 
 Voor de periode van 1 oktober 2016 tot en met 31 december 2019 worden tot lid van de commissie benoemd:
 
@@ -88,17 +114,17 @@ Voor de periode van 1 oktober 2016 tot en met 31 december 2019 worden tot lid va
 
 - g. de heer B. Woldring (afkomstig uit het Midden- en Klein Bedrijf), te Groningen.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 oktober 2014.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit wordt aangehaald als: Instellingsbesluit bevorderen ICT-innovatie.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.
 
-#### Artikel 7a
+##### Artikel 7a
 
 Dit besluit vervalt met ingang van 1 januari 2020.
 

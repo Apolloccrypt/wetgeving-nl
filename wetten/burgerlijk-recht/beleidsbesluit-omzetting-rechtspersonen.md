@@ -1,13 +1,38 @@
 ---
 title: "Beleidsbesluit omzetting rechtspersonen"
 identifier: "BWBR0046561"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2022-04-14
-laatste_update: 2022-04-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046561"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2022-04-14"
+last_updated: "2022-04-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046561"
+soort: "beleidsregel"
+stam_id: "16328073"
+version_id: "28545202"
+internal_id: "C40278041"
+label_id: "16253404"
+dtd_version: "2.0"
+original_entry_into_force: "2022-04-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046561/2022-04-14/0"
+intitule_bron: "Stcrt.2022-9307"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-03-30"
+intitule_published: "2022-04-13"
+intitule_in_force: "2022-04-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-9307"
+original_signed_date: "2022-03-30"
+original_published_date: "2022-04-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-9307"
+entry_into_force_date: "2022-04-14"
+jci_1_3: "jci1.3:c:BWBR0046561&z=2022-04-14&g=2022-04-14"
+jci_1_0: "1.0:c:BWBR0046561&g=2022-04-14"
+citeertitel_status: "officieel"
+signed_date: "2022-03-30"
+entry_into_force: "2022-04-14"
 ---
-
 # Beleidsbesluit omzetting rechtspersonen
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

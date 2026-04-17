@@ -1,13 +1,35 @@
 ---
 title: "Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1992 (Aansprakelijkheidsverdrag 1992)"
 identifier: "BWBV0004147"
-categorie: "Internationaal recht"
-publicatiedatum: 2003-11-01
-laatste_update: 2003-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004147"
+country: "nl"
+rank: "verdrag"
+publication_date: "2003-11-01"
+last_updated: "2003-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004147"
+soort: "verdrag"
+stam_id: "10003959593"
+version_id: "10004097032"
+internal_id: "C10006998611"
+label_id: "10003944584"
+dtd_version: "2.0"
+original_entry_into_force: "1975-12-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004147/2003-11-01/0"
+intitule_bron: "Trb.1970-196"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1970-11-24"
+intitule_in_force: "1975-11-07"
+intitule_status: "goed"
+original_publication: "Trb.1970-196"
+original_published_date: "1970-11-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1970-196"
+entry_into_force_date: "1975-12-08"
+jci_1_3: "jci1.3:c:BWBV0004147&z=2003-11-01&g=2003-11-01"
+jci_1_0: "1.0:c:BWBV0004147&g=2003-11-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1975-12-08"
 ---
-
 # Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1992 (Aansprakelijkheidsverdrag 1992)
 
 De Staten, Partijen bij dit Verdrag,
@@ -20,7 +42,7 @@ de wens koesterende eenvormige internationale regels en procedures te aanvaarden
 
 zijn overeengekomen als volgt:
 
-#### Artikel I
+##### Artikel I
 
 Voor de toepassing van dit Verdrag:
 
@@ -48,7 +70,7 @@ Voor de toepassing van dit Verdrag:
 
 - 10. wordt onder het „Aansprakelijkheidsverdrag, 1969” verstaan: het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969. Voor Partijen bij het Protocol van 1976 bij dit Verdrag, wordt met deze term bedoeld het Aansprakelijkheidsverdrag, 1969, zoals gewijzigd bij dat Protocol.
 
-#### Artikel II
+##### Artikel II
 
 Dit Verdrag is uitsluitend van toepassing op:
 
@@ -60,7 +82,7 @@ Dit Verdrag is uitsluitend van toepassing op:
 
 - b. preventieve maatregelen, waar ook genomen, ter voorkoming of ter beperking van zodanige schade.
 
-#### Artikel III
+##### Artikel III
 
 1. De eigenaar van het schip op het tijdstip van het voorval, of, zo het voorval bestaat uit een opeenvolging van feiten, op het tijdstip van het eerste feit, is, behoudens het bepaalde in het tweede en het derde lid van dit artikel, aansprakelijk voor schade door verontreiniging, veroorzaakt door het schip als gevolg van het voorval.
 
@@ -92,11 +114,11 @@ tenzij de schade het gevolg is van hun persoonlijk handelen of nalaten, begaan h
 
 5. Geen bepaling in dit Verdrag maakt inbreuk op enig recht van verhaal van de eigenaar tegenover derden.
 
-#### Artikel IV
+##### Artikel IV
 
 Wanneer zich een voorval voordoet waarbij twee of meer schepen zijn betrokken en er ten gevolge daarvan schade door verontreiniging is ontstaan, zijn de eigenaren van alle betrokken schepen, tenzij zij ingevolge artikel III van aansprakelijkheid zijn ontheven, hoofdelijk aansprakelijk voor alle schade die redelijkerwijs niet te scheiden is.
 
-#### Artikel V
+##### Artikel V
 
 1. De eigenaar van een schip kan zijn aansprakelijkheid uit hoofde van dit Verdrag per voorval beperken tot een totaal bedrag dat als volgt wordt berekend:
 
@@ -130,7 +152,7 @@ met dien verstande evenwel dat dit bedrag in geen geval in totaal 89.770.000 rek
 
 11. De verzekeraar of persoon die financiële zekerheid stelt heeft het recht tot het vormen van een fonds in overeenstemming met dit artikel op dezelfde voorwaarden en met dezelfde rechtsgevolgen als ware het door de eigenaar gevormd. Een zodanig fonds kan zelfs worden gevormd indien, ingevolge het bepaalde in het tweede lid, de eigenaar niet gerechtigd is zijn aansprakelijkheid te beperken, maar de vorming daarvan laat dan de rechten van de schuldeisers tegenover de eigenaar onverlet.
 
-#### Artikel VI
+##### Artikel VI
 
 1. Indien na een voorval de eigenaar overeenkomstig artikel V een fonds heeft gevormd en gerechtigd is zijn aansprakelijkheid te beperken,
 
@@ -140,7 +162,7 @@ met dien verstande evenwel dat dit bedrag in geen geval in totaal 89.770.000 rek
 
 2. Het voorgaande is evenwel alleen van toepassing indien de schuldeiser toegang heeft tot de rechtbank die het fonds beheert en het fonds daadwerkelijk beschikbaar is tot voldoening van zijn vordering.
 
-#### Artikel VII
+##### Artikel VII
 
 1. De eigenaar van een in een Verdragsluitende Staat teboekgesteld schip dat meer dan 2000 ton olie in bulk als lading vervoert, is gehouden een verzekering of andere financiële zekerheid, zoals een bankgarantie of een door een internationaal schadefonds afgegeven certificaat in stand te houden tot dekking van zijn aansprakelijkheid voor schade door verontreiniging volgens dit Verdrag, tot een bedrag gelijk aan het maximum van zijn aansprakelijkheid ingevolge het eerste lid van artikel V.
 
@@ -176,11 +198,11 @@ met dien verstande evenwel dat dit bedrag in geen geval in totaal 89.770.000 rek
 
 12. Is met betrekking tot een schip dat in eigendom toebehoort aan een Verdragsluitende Staat geen verzekering afgesloten of geen financiële zekerheid gesteld, dan zijn de desbetreffende bepalingen van dit artikel op dat schip niet van toepassing, maar het schip moet wel zijn voorzien van een certificaat, afgegeven door de bevoegde autoriteiten van de Staat waar het is teboekgesteld, houdende de verklaring dat het schip eigendom is van de Staat en dat de aansprakelijkheid voor het schip gedekt is binnen de grenzen van artikel V, eerste lid. Dit certificaat wordt zoveel mogelijk opgesteld volgens het in het tweede lid van dit artikel voorgeschreven model.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Het recht op schadevergoeding krachtens dit Verdrag vervalt wanneer niet binnen drie jaar na de datum waarop de schade is ontstaan een rechtsvordering is ingesteld. In geen geval kan echter een rechtsvordering worden ingesteld nadat zes jaar zijn verstreken na de datum van het voorval dat de schade heeft veroorzaakt. Indien dit voorval wordt gevormd door een opeenvolging van feiten, loopt de termijn van zes jaar van de datum van het eerste feit.
 
-#### Artikel IX
+##### Artikel IX
 
 1. Indien een voorval schade door verontreiniging heeft veroorzaakt op het grondgebied van één of meer Verdragsluitende Staten, de territoriale zee of een gebied zoals bedoeld in artikel II daaronder begrepen, dan wel preventieve maatregelen zijn genomen ter voorkoming of beperking van schade door verontreiniging op dit grondgebied, de territoriale zee of het gebied daaronder begrepen, dan kunnen vorderingen tot schadevergoeding slechts worden ingesteld bij de rechter van die Verdragsluitende Staat of Staten. Van het instellen van zodanige vordering moet aan de verweerder binnen redelijke termijn kennis worden gegeven.
 
@@ -188,7 +210,7 @@ Het recht op schadevergoeding krachtens dit Verdrag vervalt wanneer niet binnen 
 
 3. Nadat het fonds overeenkomstig het bepaalde in artikel V is gevormd, is de rechter van de Staat waar het fonds is gevormd bij uitsluiting bevoegd te beslissen in alle aangelegenheden betreffende de toedeling en verdeling van het fonds.
 
-#### Artikel X
+##### Artikel X
 
 1. Beslissingen van een uit hoofde van artikel IX bevoegde rechter welke voor tenuitvoerlegging vatbaar zijn in de Staat waar zij zijn gegeven en waartegen geen gewoon rechtsmiddel meer openstaat worden erkend in elke andere Verdragsluitende Staat, tenzij:
 
@@ -198,17 +220,17 @@ Het recht op schadevergoeding krachtens dit Verdrag vervalt wanneer niet binnen 
 
 2. Een beslissing welke ingevolge het eerste lid van dit artikel is erkend, is vatbaar voor tenuitvoerlegging in iedere Verdragsluitende Staat, zodra de in die Staat vereiste formaliteiten zijn vervuld. Deze formaliteiten mogen niet leiden tot een hernieuwd onderzoek van de zaak.
 
-#### Artikel XI
+##### Artikel XI
 
 1. De bepalingen van dit Verdrag zijn niet van toepassing op oorlogsschepen of andere schepen in eigendom van of geëxploiteerd door een Staat ten tijde dat zij alleen worden gebruikt in dienst van de overheid voor andere dan handelsdoeleinden.
 
 2. Met betrekking tot schepen die eigendom zijn van een Verdragsluitende Staat en die gebruikt worden voor handelsdoeleinden, kan elke Staat in rechte worden aangesproken voor de rechter die ingevolge artikel IX bevoegd is, en doet afstand van beroep op enig verweer dat is gegrond op zijn hoedanigheid van soevereine Staat.
 
-#### Artikel XII
+##### Artikel XII
 
 Dit Verdrag gaat boven andere internationale overeenkomsten die op de datum waarop dit Verdrag is opengesteld voor ondertekening, van kracht zijn of openstaan voor ondertekening, bekrachtiging of toetreding, doch uitsluitend voor zover deze overeenkomsten daarmede in strijd zouden zijn; de bepalingen van dit Verdrag laten nochtans de uit bedoelde internationale overeenkomsten voortvloeiende verplichtingen van Verdragsluitende Staten tegenover niet-Verdragsluitende Staten onverlet.
 
-#### Artikel XII bis. Overgangsbepalingen
+##### Artikel XII bis. Overgangsbepalingen
 
 De volgende overgangsbepalingen zijn van toepassing in het geval van een Staat die op het tijdstip van een voorval Partij is bij zowel dit Verdrag als het Aansprakelijkheidsverdrag, 1969:
 
@@ -220,13 +242,13 @@ De volgende overgangsbepalingen zijn van toepassing in het geval van een Staat d
 
 - d. bij de toepassing van artikel V, derde lid, van dit Verdrag wordt het totale bedrag van het te vormen fonds verlaagd met het bedrag waarmede aan de aansprakelijkheid geacht wordt te zijn voldaan overeenkomstig letter a van dit artikel.
 
-#### Artikel XII ter. Slotbepalingen
+##### Artikel XII ter. Slotbepalingen
 
 De slotbepalingen van dit Verdrag zijn de [artikelen 12 tot en met 18 van het Protocol van 1992 tot wijziging van het Aansprakelijkheidsverdrag, 1969](https://wetten.overheid.nl/jci1.3:c:BWBV0003263&artikel=12). Verwijzingen in dit Verdrag naar Verdragsluitende Staten dienen te worden uitgelegd als verwijzingen naar de Verdragsluitende Staten bij dat Protocol.
 
 ### SLOTBEPALINGEN
 
-#### Artikel 12. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
+##### Artikel 12. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
 
 1. Dit Protocol staat open voor ondertekening te Londen van 15 januari 1993 tot en met 14 januari 1994 door alle Staten.
 
@@ -244,7 +266,7 @@ De slotbepalingen van dit Verdrag zijn de [artikelen 12 tot en met 18 van het Pr
 
 6. Akten van bekrachtiging, aanvaarding, goedkeuring of toetreding die zijn nedergelegd nadat een wijziging van het Aansprakelijkheidsverdrag, 1969, zoals gewijzigd bij dit Protocol, in werking is getreden, worden geacht van toepassing te zijn op het aldus gewijzigde Verdrag, zoals gewijzigd door bedoelde wijziging.
 
-#### Artikel 13. Inwerkingtreding
+##### Artikel 13. Inwerkingtreding
 
 1. Dit Protocol treedt in werking twaalf maanden na de datum waarop tien Staten, waaronder vier Staten met elk niet minder dan een miljoen brutotonnage van tankschepen, akten van bekrachtiging, aanvaarding, goedkeuring of toetreding hebben nedergelegd bij de Secretaris-Generaal van de Organisatie.
 
@@ -254,13 +276,13 @@ De slotbepalingen van dit Verdrag zijn de [artikelen 12 tot en met 18 van het Pr
 
 4. Ten aanzien van elke Staat die dit Protocol bekrachtigt, aanvaardt, goedkeurt of ertoe toetreedt nadat aan de in het eerste lid gestelde eisen voor inwerkingtreding is voldaan, treedt dit Protocol in werking twaalf maanden na de datum van nederlegging door die Staat van de daartoe strekkende akte.
 
-#### Artikel 14. Herziening en wijziging
+##### Artikel 14. Herziening en wijziging
 
 1. De Organisatie kan een conferentie tot herziening of wijziging van het Aansprakelijkheidsverdrag, 1992, bijeenroepen.
 
 2. De Organisatie roept een conferentie van de Verdragsluitende Staten bijeen tot herziening of wijziging van het Aansprakelijkheidsverdrag, 1992, op verzoek van ten minste een derde van de Verdragsluitende Staten.
 
-#### Artikel 15. Wijzigingen van de beperkingsbedragen
+##### Artikel 15. Wijzigingen van de beperkingsbedragen
 
 1. Op verzoek van ten minste een vierde van de Verdragsluitende Staten worden voorstellen tot wijziging van de aansprakelijkheidsgrenzen, neergelegd in artikel V, eerste lid, van het Verdrag, zoals gewijzigd bij dit Protocol, door de Secretaris-Generaal toegezonden aan alle Leden van de Organisatie en aan alle Verdragsluitende Staten.
 
@@ -286,7 +308,7 @@ De slotbepalingen van dit Verdrag zijn de [artikelen 12 tot en met 18 van het Pr
 
 10. Wanneer een wijziging door de Juridische Commissie is aangenomen, maar het tijdvak van achttien maanden voor de aanvaarding ervan nog niet is verstreken, is een Staat die gedurende dat tijdvak Verdragsluitende Staat wordt, door de wijziging gebonden indien deze in werking treedt. Een Staat die na dat tijdvak Verdragsluitende Staat wordt, is gebonden door een wijziging die overeenkomstig het zevende lid is aanvaard. In de gevallen bedoeld in dit lid wordt een Staat gebonden door een wijziging wanneer deze wijziging in werking treedt, of wanneer dit Protocol voor die Staat in werking treedt, indien deze datum later valt.
 
-#### Artikel 16. Opzegging
+##### Artikel 16. Opzegging
 
 1. Een Partij kan dit Protocol, na de datum waarop het voor die Partij in werking is getreden, te allen tijde opzeggen.
 
@@ -298,7 +320,7 @@ De slotbepalingen van dit Verdrag zijn de [artikelen 12 tot en met 18 van het Pr
 
 5. Opzegging van het [Protocol van 1992 tot wijziging van het Fondsverdrag, 1971](https://wetten.overheid.nl/jci1.3:c:BWBV0003259), door een Staat die Partij blijft bij het Fondsverdrag, 1971, wordt geacht een opzegging te zijn van dit Protocol. Die opzegging wordt van kracht op de datum waarop de opzegging van het Protocol van 1992 tot wijziging van het Fondsverdrag, 1971, van kracht wordt overeenkomstig [artikel 34 van dat Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0003259&artikel=34).
 
-#### Artikel 17. Depositaris
+##### Artikel 17. Depositaris
 
 1. Dit Protocol en alle ingevolge artikel 15 aanvaarde wijzigingen worden nedergelegd bij de Secretaris-Generaal van de Organisatie.
 
@@ -328,11 +350,11 @@ De slotbepalingen van dit Verdrag zijn de [artikelen 12 tot en met 18 van het Pr
 
 3. Zodra dit Protocol in werking treedt, wordt de tekst door de Secretaris-Generaal van de Organisatie toegezonden aan het Secretariaat van de Verenigde Naties ter registratie en publikatie overeenkomstig [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-#### Artikel 18. Talen
+##### Artikel 18. Talen
 
 Dit Protocol is opgesteld in een enkel oorspronkelijk exemplaar in de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse taal, zijnde alle teksten gelijkelijk authentiek.
 
-#### Artikel XIII
+##### Artikel XIII
 
 1. Dit Verdrag staat open voor ondertekening tot 31 december 1970 en staat daarna open voor toetreding.
 
@@ -344,19 +366,19 @@ Dit Protocol is opgesteld in een enkel oorspronkelijk exemplaar in de Arabische,
 
 - (c). toetreding.
 
-#### Artikel XIV
+##### Artikel XIV
 
 1. Bekrachtiging, aanvaarding, goedkeuring of toetreding geschiedt door de nederlegging van een daartoe strekkende akte bij de Secretaris-Generaal van de Organisatie.
 
 2. Alle akten van bekrachtiging, aanvaarding, goedkeuring of toetreding, nedergelegd na de inwerkingtreding van een wijziging op dit Verdrag ten aanzien van alle Verdragsluitende Staten, of na de voltooiing van alle maatregelen, vereist voor de inwerkingtreding van de wijziging ten aanzien van deze Verdragsluitende Staten, worden geacht van toepassing te zijn op het aldus gewijzigde Verdrag.
 
-#### Artikel XV
+##### Artikel XV
 
 1. Dit Verdrag treedt in werking op de negentigste dag na de datum waarop de Regeringen van acht Staten waaronder vijf Staten, elk met niet minder dan 1.000.000 B.R.T. tankertonnage, het hebben ondertekend zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring, dan wel akten van bekrachtiging, aanvaarding, goedkeuring of toetreding hebben nedergelegd bij de Secretaris-Generaal van de Organisatie.
 
 2. Ten aanzien van elke Staat die dit Verdrag daarna bekrachtigt, aanvaardt, goedkeurt of ertoe toetreedt, treedt het Verdrag in werking op de negentigste dag na nederlegging door die Staat van de daartoe strekkende akte.
 
-#### Artikel XVI
+##### Artikel XVI
 
 1. Een Verdragsluitende Staat mag dit Verdrag na de datum waarop het voor die Staat in werking is getreden te allen tijde opzeggen.
 
@@ -364,7 +386,7 @@ Dit Protocol is opgesteld in een enkel oorspronkelijk exemplaar in de Arabische,
 
 3. Een opzegging wordt van kracht een jaar na de nederlegging van de akte van opzegging bij de Secretaris-Generaal van de Organisatie of na een langere termijn, wanneer zulks in die akte is bepaald.
 
-#### Artikel XVII
+##### Artikel XVII
 
 1. De Verenigde Naties, ingeval zij het gezagsorgaan zijn dat het beheer over een gebied uitoefent, of een Verdragsluitende Staat die verantwoordelijk is voor de internationale betrekkingen van een gebied, plegen zo spoedig mogelijk overleg met de daarvoor in aanmerking komende autoriteiten van een zodanig gebied, of nemen andere passende maatregelen ten einde dit Verdrag van toepassing te doen zijn op dat gebied en kunnen de Secretaris-Generaal van de Organisatie te allen tijde schriftelijk mededelen dat dit Verdrag ook op dat gebied van toepassing zal zijn.
 
@@ -374,13 +396,13 @@ Dit Protocol is opgesteld in een enkel oorspronkelijk exemplaar in de Arabische,
 
 4. Dit Verdrag houdt op van toepassing te zijn op het in de kennisgeving genoemde gebied een jaar na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal van de Organisatie of na een langere termijn, wanneer zulks in die kennisgeving is bepaald.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 1. De Organisatie kan een Conferentie tot herziening of wijziging van dit Verdrag bijeenroepen.
 
 2. De Organisatie roept een Conferentie van de Verdragsluitende Staten bijeen tot herziening of wijziging van dit Verdrag op het verzoek van ten minste een derde van de Verdragsluitende Staten.
 
-#### Artikel XIX
+##### Artikel XIX
 
 1. Dit Verdrag wordt nedergelegd bij de Secretaris-Generaal van de Organisatie.
 
@@ -396,11 +418,11 @@ Dit Protocol is opgesteld in een enkel oorspronkelijk exemplaar in de Arabische,
 
 - (b). doet voor eensluidend gewaarmerkte afschriften van dit Verdrag toekomen aan alle ondertekenende Staten en aan alle Staten die tot dit Verdrag toetreden.
 
-#### Artikel XX
+##### Artikel XX
 
 Zodra dit Verdrag in werking treedt wordt de tekst door de Secretaris-Generaal van de Organisatie toegezonden aan het Secretariaat van de Verenigde Naties ter registratie en publicatie overeenkomstig [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-#### Artikel XXI
+##### Artikel XXI
 
 Dit Verdrag is, in een enkel exemplaar, opgesteld in de Engelse en de Franse taal, zijnde beide teksten gelijkelijk authentiek. Officiële vertalingen in de Russische en Spaanse taal worden vervaardigd en nedergelegd bij het ondertekende origineel.
 

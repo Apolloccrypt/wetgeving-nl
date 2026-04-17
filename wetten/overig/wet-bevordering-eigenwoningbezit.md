@@ -1,14 +1,42 @@
 ---
-title: "Wet bevordering eigenwoningbezit"
+title: "Wet van 11 december 2000, houdende nieuwe regels over het toekennen van bijdragen aan lagere inkomensgroepen ten behoeve van het verkrijgen en kunnen blijven bewonen van een eigen woning (Wet bevordering eigenwoningbezit)"
 identifier: "BWBR0011919"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011919"
+country: "nl"
+rank: "wet"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011919"
+soort: "wet"
+stam_id: "1923153"
+version_id: "2852342"
+internal_id: "C2852341"
+label_id: "1873864"
+dtd_version: "2.0"
+original_entry_into_force: "2001-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011919/2026-01-01/0"
+intitule_bron: "Stb.2000-575"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-12-11"
+intitule_published: "2000-12-21"
+intitule_in_force: "2000-12-21"
+intitule_status: "goed"
+original_publication: "Stb.2000-575"
+original_signed_date: "2000-12-11"
+original_published_date: "2000-12-21"
+original_effect: "nieuwe-regeling"
+original_dossier: "25309"
+original_url_id: "stb-2000-575"
+entry_into_force_date: "2001-01-01"
+entry_into_force_dossier: "27466"
+jci_1_3: "jci1.3:c:BWBR0011919&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0011919&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet bevordering eigenwoningbezit"
+signed_date: "2000-12-11"
+entry_into_force: "2001-01-01"
 ---
-
-# Wet bevordering eigenwoningbezit
+# Wet van 11 december 2000, houdende nieuwe regels over het toekennen van bijdragen aan lagere inkomensgroepen ten behoeve van het verkrijgen en kunnen blijven bewonen van een eigen woning (Wet bevordering eigenwoningbezit)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -20,7 +48,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### § 1. Definities
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -64,13 +92,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2. In deze wet, behoudens [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0011919&hoofdstuk=2&paragraaf=3&sub-paragraaf=3.2&artikel=20&z=2026-01-01&g=2026-01-01), en de daarop berustende bepalingen wordt onder bestaande woning, nieuwbouwwoning en woning mede verstaan de daarbij behorende grond.
 
-#### Artikel 1a. Inkomens- en loonbegrippen
+##### Artikel 1a. Inkomens- en loonbegrippen
 
 Vervallen
 
 #### § 2. Overige begripsomschrijvingen
 
-#### Artikel 2. Bewoningssituatie
+##### Artikel 2. Bewoningssituatie
 
 1. Degenen die behoren tot het huishouden van de eigenaar-bewoner, bedoeld in deze wet en de daarop berustende bepalingen, zijn de eigenaar-bewoner en:
 
@@ -90,7 +118,7 @@ Vervallen
 
 - d. tweepersoonsouderenhuishouden: het huishouden van een eigenaar-bewoner waartoe een persoon behoort als bedoeld in het eerste lid, onder a en b, als het aandeel in het toetsinkomen, afkomstig van degenen die op de datum van de offerte voor een hypothecaire lening ter verkrijging van de onder auspiciën van de Stichting Waarborgfonds Eigen Woningen ontwikkelde Nationale Hypotheek Garantie de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), hadden bereikt, meer dan de helft bedraagt.
 
-#### Artikel 3. Toetsinkomen
+##### Artikel 3. Toetsinkomen
 
 1. Het toetsinkomen, bedoeld in deze wet en de daarop berustende bepalingen, is de ten aanzien van degenen die behoren tot het huishouden van de eigenaar-bewoner berekende som van de toetsinkomens in de zin van de voorwaarden en normen voor de onder auspiciën van de Stichting Waarborgfonds Eigen Woningen ontwikkelde Nationale Hypotheek Garantie, zoals deze jaarlijks in de Staatscourant worden gepubliceerd.
 
@@ -98,7 +126,7 @@ Vervallen
 
 3. Met betrekking tot de controle van het toetsinkomen maakt Onze Minister gebruik van het inkomensgegeven, bedoeld in [artikel 21, onderdeel e, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=21).
 
-#### Artikel 4. Toetsvermogen
+##### Artikel 4. Toetsvermogen
 
 1. Het toetsvermogen, bedoeld in deze wet en de daarop berustende bepalingen, is het gezamenlijk vermogen van degenen die behoren tot het huishouden van de eigenaar-bewoner in het peiljaar.
 
@@ -106,7 +134,7 @@ Vervallen
 
 3. De inspecteur, onder wie de eigenaar-bewoner of degene die tot diens huishouden behoort krachtens [artikel 3, tweede lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=3) ressorteert voor de heffing van de inkomstenbelasting, verstrekt op verzoek van Onze Minister over het kalenderjaar voorafgaande aan het kalenderjaar waarin die eigenaar-bewoner de eigenwoningbijdrage heeft aangevraagd, het vermogen, bedoeld in het tweede lid, van de desbetreffende eigenaar-bewoner of degene die tot diens huishouden behoort, aan Onze Minister.
 
-#### Artikel 5. Kosten van verkrijgen in eigendom
+##### Artikel 5. Kosten van verkrijgen in eigendom
 
 Vervallen
 
@@ -114,7 +142,7 @@ Vervallen
 
 #### § 1. Het recht op de eigenwoningbijdrage
 
-#### Artikel 6. Omschrijving recht
+##### Artikel 6. Omschrijving recht
 
 1. Als aan deze wet wordt voldaan, kent Onze Minister, ter tegemoetkoming in de kosten van het in eigendom verkrijgen en vervolgens kunnen blijven bewonen van een woning, op aanvraag aan de eigenaar-bewoner:
 
@@ -142,7 +170,7 @@ Onze Minister maakt het voor het einde van een kalenderjaar geheel aan die verst
 
 #### § 2. Eisen die gelden voor elke toekenning
 
-#### Artikel 7. Inschrijving basisregistratie personen
+##### Artikel 7. Inschrijving basisregistratie personen
 
 1. Behoudens in gevallen als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0011919&hoofdstuk=2&paragraaf=3&sub-paragraaf=3.1&artikel=13&z=2026-01-01&g=2026-01-01) wordt een eigenwoningbijdrage slechts toegekend als degenen die tot het huishouden van de eigenaar-bewoner behoren, op de peildatum als ingezetene in de basisregistratie personen zijn ingeschreven met als adres het adres van de woning in verband met welke de eigenwoningbijdrage is aangevraagd.
 
@@ -150,15 +178,15 @@ Onze Minister maakt het voor het einde van een kalenderjaar geheel aan die verst
 
 3. Behoudens in gevallen als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011919&hoofdstuk=2&paragraaf=3&sub-paragraaf=3.1&artikel=13&z=2026-01-01&g=2026-01-01), wordt een eigenwoningbijdrage slechts toegekend als de eigenaar-bewoner op de peildatum woont in de woning in verband met welke de eigenwoningbijdrage is aangevraagd.
 
-#### Artikel 8. Maximaal toegestaan inkomen
+##### Artikel 8. Maximaal toegestaan inkomen
 
 Vervallen
 
-#### Artikel 9. Maximaal toegestaan toetsvermogen
+##### Artikel 9. Maximaal toegestaan toetsvermogen
 
 Een eigenwoningbijdrage wordt niet toegekend als het toetsvermogen voor een eenpersoonshuishouden of een eenpersoonsouderenhuishouden meer bedraagt dan het eerstgenoemde drempelbedrag, genoemd in [artikel 9.4a, eerste lid, onderdeel a, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.4a), en voor een tweepersoonshuishouden of een tweepersoonsouderenhuishouden meer bedraagt dan het tweede genoemde drempelbedrag, genoemd in artikel 9.4a, eerste lid, onderdeel a, van de Wet inkomstenbelasting 2001.
 
-#### Artikel 10. Hypotheekgarantie
+##### Artikel 10. Hypotheekgarantie
 
 1. Een eigenwoningbijdrage wordt slechts toegekend als, tot zekerheid van de nakoming door de eigenaar-bewoner van de verplichtingen uit hetzij de hypothecaire lening hetzij een daaropvolgende lening of daaropvolgend krediet in rekening-courant ter financiering van het in eigendom verkrijgen van een woning met als zekerheid hypotheek op die woning, voor die lening of dat krediet een garantie is afgegeven door de Stichting Waarborgfonds Eigen Woningen.
 
@@ -168,15 +196,15 @@ Een eigenwoningbijdrage wordt niet toegekend als het toetsvermogen voor een eenp
 
 #### 3.1. Eisen aan degenen die behoren tot het huishouden van de eigenaar-bewoner
 
-#### Artikel 11. Leeftijdsgrens
+##### Artikel 11. Leeftijdsgrens
 
 Voor een primaire toekenning is vereist dat de eigenaar-bewoner op de peildatum 18 jaar of ouder is.
 
-#### Artikel 12. Eigenaar-bewoner geen eigenaar voor eigendomsoverdracht
+##### Artikel 12. Eigenaar-bewoner geen eigenaar voor eigendomsoverdracht
 
 Voor een primaire toekenning is vereist dat de eigenaar-bewoner gedurende een tijdvak van ten minste drie jaar tot de datum van eigendomsoverdracht geen eigenaar is geweest van een woning waar hij zijn hoofdverblijf had.
 
-#### Artikel 13. Latere inschrijving basisregistratie personen/bewoning
+##### Artikel 13. Latere inschrijving basisregistratie personen/bewoning
 
 1. Op een primaire toekenning is [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0011919&hoofdstuk=2&paragraaf=2&artikel=7&z=2026-01-01&g=2026-01-01) niet van toepassing, voorzover de bewoning of de inschrijving in de gemeentelijke basisadministratie persoonsgegevens is uitgesteld:
 
@@ -188,13 +216,13 @@ Voor een primaire toekenning is vereist dat de eigenaar-bewoner gedurende een ti
 
 2. In een geval als bedoeld in het eerste lid kan de eigenwoningbijdrage worden ingetrokken als de inschrijving of de bewoning niet heeft plaatsgevonden bij een situatie als bedoeld in onderdeel a van dat artikellid binnen negen maanden na de gereedgemelde woning of bij een situatie als bedoeld in de onderdelen b en c van dat artikellid binnen negen maanden na de peildatum. De intrekking vindt plaats met ingang van de eerste dag van de kalendermaand die volgt na de afloop van die termijn van negen maanden.
 
-#### Artikel 14. Rechtmatig verblijf in Nederland
+##### Artikel 14. Rechtmatig verblijf in Nederland
 
 Vervallen
 
 #### 3.2. Eisen aan de woning
 
-#### Artikel 15. Maximale koopsom, maximale hypothecaire lening
+##### Artikel 15. Maximale koopsom, maximale hypothecaire lening
 
 1. Voor een primaire toekenning is vereist dat:
 
@@ -204,43 +232,43 @@ Vervallen
 
 2. Het in het eerste lid, onder a, genoemde bedrag wordt met ingang van 1 januari van elk jaar gewijzigd overeenkomstig [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0011919&hoofdstuk=6&artikel=41&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 16. Differentiatie op basis van regionale woningmarkt
+##### Artikel 16. Differentiatie op basis van regionale woningmarkt
 
 Vervallen
 
-#### Artikel 17. Garantiecertificaat voor nieuwbouw
+##### Artikel 17. Garantiecertificaat voor nieuwbouw
 
 Vervallen
 
-#### Artikel 18. Bestaande woning: taxatierapport
+##### Artikel 18. Bestaande woning: taxatierapport
 
 Vervallen
 
-#### Artikel 19. Bestaande woning moet in goede staat zijn
+##### Artikel 19. Bestaande woning moet in goede staat zijn
 
 Vervallen
 
-#### Artikel 20. Bestaande woning niet op ernstig verontreinigde grond
+##### Artikel 20. Bestaande woning niet op ernstig verontreinigde grond
 
 Vervallen
 
-#### Artikel 21. Woonwagens en woonschepen
+##### Artikel 21. Woonwagens en woonschepen
 
 Vervallen
 
 #### 3.3. Overige eisen
 
-#### Artikel 22. Beperkende bedingen in verband met de verkrijging in eigendom
+##### Artikel 22. Beperkende bedingen in verband met de verkrijging in eigendom
 
 Vervallen
 
-#### Artikel 23. Nadere eisen met betrekking tot de hypothecaire lening
+##### Artikel 23. Nadere eisen met betrekking tot de hypothecaire lening
 
 Voor een primaire toekenning is vereist dat de hypothecaire lening wordt afgesloten voor een bij ministeriële regeling te bepalen rentevaste periode.
 
 #### § 3a. Eisen die slechts gelden voor toekenningen na het tweede vijfjaarstijdvak
 
-#### Artikel 24. Hardheid
+##### Artikel 24. Hardheid
 
 1. Onze Minister kan ambtshalve of op verzoek van de eigenaar-bewoner, als in een bepaald geval de onverkorte toepassing van de desbetreffende bepalingen, gelet op het belang dat deze wet beoogt te beschermen, tot een onbillijkheid van overwegende aard zou leiden:
 
@@ -250,7 +278,7 @@ Voor een primaire toekenning is vereist dat de hypothecaire lening wordt afgeslo
 
 2. Een daling van het inkomen, of een daling van het vermogen na het peiljaar, kan niet leiden tot toepassing van het eerste lid.
 
-#### Artikel 25. Overgang ewb bij verlies eigendom
+##### Artikel 25. Overgang ewb bij verlies eigendom
 
 1. Als de eigenaar-bewoner in de loop van het vijfjaarstijdvak de eigendom van de woning verliest, wordt de eigenwoningbijdrage op naam gesteld van diens echtgenoot, geregistreerde partner of bloed- of aanverwant in de eerste of tweede graad, als deze:
 
@@ -264,13 +292,13 @@ Voor een primaire toekenning is vereist dat de hypothecaire lening wordt afgeslo
 
 ### Hoofdstuk 3. De hoogte van de eigenwoningbijdrage
 
-#### Artikel 26. Bepaling toetsrente
+##### Artikel 26. Bepaling toetsrente
 
 1. Het percentage van de toetsrente wordt bij ministeriële regeling vastgesteld, met inachtneming van het rentetarief dat wordt gehanteerd bij het verstrekken van een hypothecaire lening afgesloten in de vorm van een annuïteitenhypotheek.
 
 2. Het percentage, bedoeld in het eerste lid, kan bij ministeriële regeling worden gewijzigd als daartoe aanleiding bestaat als gevolg van de ontwikkeling van het rentetarief, bedoeld in het eerste lid.
 
-#### Artikel 27. Berekening fiscaal effect
+##### Artikel 27. Berekening fiscaal effect
 
 1. Het fiscaal effect wordt verkregen door de tot een bedrag herleide financieringslastnorm te vermenigvuldigen met:
 
@@ -284,11 +312,11 @@ Voor een primaire toekenning is vereist dat de hypothecaire lening wordt afgeslo
 
 2. De in het eerste lid genoemde factoren kunnen worden gewijzigd overeenkomstig [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0011919&hoofdstuk=6&artikel=41&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 28. Bepaling minimum-inkomensijkpunt
+##### Artikel 28. Bepaling minimum-inkomensijkpunt
 
 Vervallen
 
-#### Artikel 29. Bepaling financieringslastnorm en opslagpercentage
+##### Artikel 29. Bepaling financieringslastnorm en opslagpercentage
 
 1. De financieringslastnorm wordt bij ministeriële regeling vastgesteld.
 
@@ -308,7 +336,7 @@ Vervallen
 
 7. Bij ministeriële regeling wordt elk jaar, met ingang van 1 januari, de indeling in inkomensklassen herzien.
 
-#### Artikel 30. Berekening hoogte ewb
+##### Artikel 30. Berekening hoogte ewb
 
 1. De eigenwoningbijdrage, bedoeld in [artikel 6, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011919&hoofdstuk=2&paragraaf=1&artikel=6&z=2026-01-01&g=2026-01-01), bestaat uit een maandelijkse tegemoetkoming in de financieringslast.
 
@@ -328,49 +356,49 @@ f: de van toepassing zijnde factor, bedoeld in [artikel 27](https://wetten.overh
 
 4. De overeenkomstig het tweede lid berekende tegemoetkoming wordt naar boven afgerond op hele eurocenten.
 
-#### Artikel 31. Maximale ewb
+##### Artikel 31. Maximale ewb
 
 Vervallen
 
-#### Artikel 32. Toeslagen
+##### Artikel 32. Toeslagen
 
 Vervallen
 
 ### Hoofdstuk 4. Vangnetregeling
 
-#### Artikel 33. Definities t.b.v. vangnetregeling
+##### Artikel 33. Definities t.b.v. vangnetregeling
 
 Vervallen
 
-#### Artikel 34. Het recht op een bijzondere bijdrage
+##### Artikel 34. Het recht op een bijzondere bijdrage
 
 Vervallen
 
-#### Artikel 35. Procedure bijzondere bijdrage
+##### Artikel 35. Procedure bijzondere bijdrage
 
 Vervallen
 
-#### Artikel 36. Verrekening en terugvordering
+##### Artikel 36. Verrekening en terugvordering
 
 Vervallen
 
-#### Artikel 37. Privacybescherming
+##### Artikel 37. Privacybescherming
 
 Vervallen
 
-#### Artikel 38. Hardheid
+##### Artikel 38. Hardheid
 
 Vervallen
 
 ### Hoofdstuk 5. Het recht op de eigenwoningbijdrage na het vijfde driejaarstijdvak
 
-#### Artikel 39. Vereisten voor ewb na 15 jaar
+##### Artikel 39. Vereisten voor ewb na 15 jaar
 
 1. Bij ministeriële regeling kan een rentevaste periode worden bepaald, waarvoor de lening of het krediet in rekening-courant ter financiering van het in eigendom verkrijgen van een woning met als zekerheid hypotheek op die woning dient te zijn afgesloten, om in aanmerking te komen voor een eigenwoningbijdrage als bedoeld in [artikel 6, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0011919&hoofdstuk=2&paragraaf=1&artikel=6&z=2026-01-01&g=2026-01-01).
 
 2. Op een toekenning van een eigenwoningbijdrage als bedoeld in [artikel 6, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0011919&hoofdstuk=2&paragraaf=1&artikel=6&z=2026-01-01&g=2026-01-01), zijn de [artikelen 6, derde, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011919&hoofdstuk=2&paragraaf=1&artikel=6&z=2026-01-01&g=2026-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0011919&hoofdstuk=2&paragraaf=2&artikel=7&z=2026-01-01&g=2026-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0011919&hoofdstuk=2&paragraaf=2&artikel=9&z=2026-01-01&g=2026-01-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0011919&hoofdstuk=2&paragraaf=3&sub-paragraaf=3.3&artikel=23&z=2026-01-01&g=2026-01-01), [24 tot en met 27](https://wetten.overheid.nl/jci1.3:c:BWBR0011919&hoofdstuk=2&paragraaf=4&artikel=24&z=2026-01-01&g=2026-01-01) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0011919&hoofdstuk=3&artikel=29&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing.
 
-#### Artikel 40. Berekening hoogte van de ewb na 15 jaar
+##### Artikel 40. Berekening hoogte van de ewb na 15 jaar
 
 1. De eigenwoningbijdrage, bedoeld in [artikel 6, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0011919&hoofdstuk=2&paragraaf=1&artikel=6&z=2026-01-01&g=2026-01-01), bestaat uit:
 
@@ -406,7 +434,7 @@ f: de van toepassing zijnde factor, bedoeld in [artikel 27](https://wetten.overh
 
 ### Hoofdstuk 6. Aanpassing van bedragen en factoren
 
-#### Artikel 41. Wijziging
+##### Artikel 41. Wijziging
 
 1. Bij ministeriële regeling wordt elk jaar, met ingang van 1 januari, het bedrag, genoemd in [artikel 15, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011919&hoofdstuk=2&paragraaf=3&sub-paragraaf=3.2&artikel=15&z=2026-01-01&g=2026-01-01) (maximale koopsom), gewijzigd met de ontwikkeling van het prijsindexcijfer voor de bouwkosten.
 
@@ -426,7 +454,7 @@ f: de van toepassing zijnde factor, bedoeld in [artikel 27](https://wetten.overh
 
 ### Hoofdstuk 6. Wijziging van bedragen en factoren
 
-#### Artikel 42. Aanvraag
+##### Artikel 42. Aanvraag
 
 1. De aanvraag tot toekenning van een eigenwoningbijdrage wordt gedaan door middel van een volledig ingevuld formulier. Onze Minister stelt het formulier vast. Onze Minister, de financier die de offerte voor een hypothecaire lening heeft uitgebracht die de eigenaar-bewoner heeft geaccepteerd of andere daartoe door Onze Minister aangewezen personen of instanties stellen het formulier verkrijgbaar.
 
@@ -460,7 +488,7 @@ f: de van toepassing zijnde factor, bedoeld in [artikel 27](https://wetten.overh
 
 8. Een verzoek als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0011919&hoofdstuk=2&paragraaf=4&artikel=24&z=2026-01-01&g=2026-01-01) maakt deel uit van de aanvraag, bedoeld in dit artikel.
 
-#### Artikel 43. Beslistermijnen, aanvulling aanvraag voor een primaire toekenning
+##### Artikel 43. Beslistermijnen, aanvulling aanvraag voor een primaire toekenning
 
 1. Onze Minister neemt een beslissing over:
 
@@ -478,13 +506,13 @@ f: de van toepassing zijnde factor, bedoeld in [artikel 27](https://wetten.overh
 
 4. Onze Minister stelt de financier, bedoeld in [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011919&hoofdstuk=7&artikel=42&z=2026-01-01&g=2026-01-01), terstond in kennis van een beslissing als bedoeld in het derde lid en van de ontvangst van de stukken, bedoeld onder a en b van dat lid.
 
-#### Artikel 44. Uitbetaling
+##### Artikel 44. Uitbetaling
 
 1. De eigenwoningbijdrage, bedoeld in [artikel 6, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011919&hoofdstuk=2&paragraaf=1&artikel=6&z=2026-01-01&g=2026-01-01), wordt steeds over een tijdvak van een maand uitbetaald, direct na afloop van dat tijdvak. De eerste uitbetaling vindt plaats over de eerste kalendermaand van het vijfjaarstijdvak. Uitbetaling geschiedt doordat Onze Minister de eigenwoningbijdrage uitbetaalt aan de eigenaar-bewoner. Met de uitbetaling over het eerste vijfjaarstijdvak wordt niet begonnen, zolang Onze Minister de bescheiden, genoemd in [artikel 43, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011919&hoofdstuk=7&artikel=43&z=2026-01-01&g=2026-01-01), niet heeft ontvangen. Bij ministeriële regeling kunnen nadere regels worden gesteld over de wijze waarop zodanige uitbetaling plaatsvindt.
 
 2. De eigenwoningbijdrage, bedoeld in [artikel 6, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0011919&hoofdstuk=2&paragraaf=1&artikel=6&z=2026-01-01&g=2026-01-01), wordt ineens uitbetaald aan de financier, bedoeld in [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011919&hoofdstuk=7&artikel=42&z=2026-01-01&g=2026-01-01), in de maand die volgt op de maand waarin de laatste betaling volgens het eerste lid is geschied. Onze Minister stelt de eigenaar-bewoner hiervan schriftelijk in kennis.
 
-#### Artikel 45. Beschikken over bijdrage
+##### Artikel 45. Beschikken over bijdrage
 
 1. De eigenwoningbijdrage is niet vatbaar voor vervreemding, verpanding, belening, beslag of uitwinning en verhaal, behoudens dat beslag, verhaal en, in geval van verpanding, uitwinning is toegestaan met het oog op inning van de hypotheeklast.
 
@@ -492,27 +520,27 @@ f: de van toepassing zijnde factor, bedoeld in [artikel 27](https://wetten.overh
 
 ### Hoofdstuk 8. Informatieplicht, verificatie, opschorting, herziening en terugvordering
 
-#### Artikel 46. Informatieplicht huishouden eigenaar-bewoner
+##### Artikel 46. Informatieplicht huishouden eigenaar-bewoner
 
 1. Degenen die tot het huishouden van de eigenaar-bewoner behoren zijn verplicht uit eigen beweging aan Onze Minister onmiddellijk alle inlichtingen te verstrekken waarover zij redelijkerwijs kunnen beschikken, en die redelijkerwijs van belang kunnen zijn voor de vaststelling van het recht op en de hoogte van de eigenwoningbijdrage.
 
 2. De in het eerste lid bedoelde personen zijn verplicht de in dat lid bedoelde gegevens desgevraagd te verstrekken aan Onze Minister en aan de door hem daartoe aangewezen ambtenaren.
 
-#### Artikel 47. Informatieplicht financier
+##### Artikel 47. Informatieplicht financier
 
 1. De financier, bedoeld in [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011919&hoofdstuk=7&artikel=42&z=2026-01-01&g=2026-01-01), is verplicht aan Onze Minister op diens verzoek onmiddellijk inlichtingen met betrekking tot de hypothecaire lening te verstrekken waarover hij redelijkerwijs kan beschikken, en die redelijkerwijs van belang kunnen zijn voor de vaststelling van het recht op en de hoogte van de eigenwoningbijdrage.
 
 2. Onze Minister stelt de eigenaar-bewoner in kennis van elke gegevensverstrekking als bedoeld in het eerste lid.
 
-#### Artikel 48. Controle vermogen
+##### Artikel 48. Controle vermogen
 
 Vervallen
 
-#### Artikel 49. Opschorten
+##### Artikel 49. Opschorten
 
 Onze Minister kan de uitbetaling van de eigenwoningbijdrage geheel of gedeeltelijk opschorten als hij redelijkerwijs kan vermoeden dat ten onrechte of tot een te hoog bedrag een eigenwoningbijdrage is toegekend of dat niet langer is voldaan aan een eis voor de primaire toekenning.
 
-#### Artikel 50. Herzien en terugvorderen
+##### Artikel 50. Herzien en terugvorderen
 
 1. Onze Minister kan de toekenning herzien:
 
@@ -534,7 +562,7 @@ Onze Minister kan de uitbetaling van de eigenwoningbijdrage geheel of gedeelteli
 
 4. Onze Minister kan, als de herziening haar grond vindt in het feit dat het aanvraagformulier niet naar waarheid is ingevuld, dan wel [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0011919&hoofdstuk=8&artikel=46&z=2026-01-01&g=2026-01-01) niet is nageleefd, het terug te vorderen bedrag verhogen met 25 procent, met dien verstande dat deze verhoging niet meer mag bedragen dan € 225 per bijdragejaar, waarover ten onrechte een eigenwoningbijdrage werd genoten. De verhoging kan worden betrokken bij een verrekening als bedoeld in het derde lid.
 
-#### Artikel 51. Invorderen
+##### Artikel 51. Invorderen
 
 1. Een bedrag als bedoeld in [artikel 50, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011919&hoofdstuk=8&artikel=50&z=2026-01-01&g=2026-01-01), wordt ingevorderd door Onze Minister.
 
@@ -550,29 +578,29 @@ Onze Minister kan de uitbetaling van de eigenwoningbijdrage geheel of gedeelteli
 
 ### Hoofdstuk 9. Bestuurlijke informatieverschaffing, toezicht op de naleving en voorlichting
 
-#### Artikel 52. Informatieverstrekking algemeen
+##### Artikel 52. Informatieverstrekking algemeen
 
 Bij algemene maatregel van bestuur kunnen de bij die maatregel aangewezen personen en instanties, met uitzondering van degenen die tot het huishouden van de eigenaar-bewoner behoren, worden verplicht kosteloos gegevens en afschriften van stukken te verstrekken aan burgemeester en wethouders en Onze Minister, voorzover die verstrekking noodzakelijk is voor de uitvoering van deze wet. Bij die maatregel kunnen nadere regels worden gesteld met betrekking tot die verstrekking.
 
-#### Artikel 53. Informatie door b&w
+##### Artikel 53. Informatie door b&w
 
 Burgemeester en wethouders verstrekken desgevraagd aan Onze Minister de gegevens over de uitvoering van deze wet, alsmede inzage in de stukken daarover, op de wijze als door Onze Minister bepaald.
 
-#### Artikel 54. Burgerservicenummer
+##### Artikel 54. Burgerservicenummer
 
 In de administratie over de uitvoering van deze wet wordt het burgerservicenummer opgenomen van degenen die tot het huishouden van de eigenaar-bewoner behoren. Bij de verstrekking van gegevens over de uitvoering van deze wet wordt gebruik gemaakt van dit burgerservicenummer. Onder burgerservicenummer wordt verstaan: het nummer, bedoeld in [artikel 1, onder b, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1).
 
-#### Artikel 55. Toezicht op de naleving
+##### Artikel 55. Toezicht op de naleving
 
 1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.
 
 2. De in het eerste lid bedoelde ambtenaren beschikken niet over de bevoegdheden, genoemd in de [artikelen 5:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15), [5:18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) en [5:19 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19).
 
-#### Artikel 56. Afwijking bij algemene maatregel van bestuur
+##### Artikel 56. Afwijking bij algemene maatregel van bestuur
 
 Vervallen
 
-#### Artikel 57. Voorlichting
+##### Artikel 57. Voorlichting
 
 Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de voorlichting over deze wet.
 
@@ -580,43 +608,43 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omt
 
 #### § 1. Wijziging andere wetten
 
-#### Artikel 58. Wijziging [Huursubsidiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659)
+##### Artikel 58. Wijziging [Huursubsidiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659)
 
 Wijzigt de Huursubsidiewet.
 
-#### Artikel 59. Wijziging [Algemene bijstandswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007333)
+##### Artikel 59. Wijziging [Algemene bijstandswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007333)
 
 Wijzigt de Algemene bijstandswet.
 
-#### Artikel 60
+##### Artikel 60
 
 Vervallen
 
 #### § 2. Overgangs- en slotbepalingen
 
-#### Artikel 61. Nadere regels bij amvb
+##### Artikel 61. Nadere regels bij amvb
 
 Vervallen
 
-#### Artikel 62. Voorhangprocedures
+##### Artikel 62. Voorhangprocedures
 
 Vervallen
 
-#### Artikel 63. Overgangsrecht
+##### Artikel 63. Overgangsrecht
 
 Met ingang van de datum van inwerkingtreding van deze wet worden geen koopgewenningssubsidies vastgesteld op voet van enige daarop betrekking hebbende regeling van Onze Minister.
 
-#### Artikel 63a. Overgangsrecht met betrekking tot inkomen en vermogen
+##### Artikel 63a. Overgangsrecht met betrekking tot inkomen en vermogen
 
 Vervallen
 
-#### Artikel 64. Evaluatie
+##### Artikel 64. Evaluatie
 
 1. Onze Minister brengt jaarlijks verslag uit aan de Staten-Generaal over de werking van deze wet.
 
 2. Onverminderd het eerste lid zendt Onze Minister binnen vier jaar na de inwerkingtreding van deze wet, en vervolgens driejaarlijks, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-#### Artikel 65. Inwerkingtreding
+##### Artikel 65. Inwerkingtreding
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
@@ -626,13 +654,13 @@ Vervallen
 
 - b. de bedragen, genoemd in de [artikelen 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011919&hoofdstuk=2&paragraaf=3&sub-paragraaf=3.2&artikel=15&z=2026-01-01&g=2026-01-01), [29, eerste lid, formule](https://wetten.overheid.nl/jci1.3:c:BWBR0011919&hoofdstuk=3&artikel=29&z=2026-01-01&g=2026-01-01), en [31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011919&hoofdstuk=3&artikel=31&z=2026-01-01&g=2026-01-01): overeenkomstig [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0011919&hoofdstuk=6&artikel=41&z=2026-01-01&g=2026-01-01), met als uitgangspunt dat de laatste wijziging daarvan per 1 januari 2000 heeft plaatsgevonden.
 
-#### Artikel 66. Citeertitel
+##### Artikel 66. Citeertitel
 
 Deze wet wordt aangehaald als: Wet bevordering eigenwoningbezit.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 23a. Vereisten voor ewb na 10 jaar
+##### Artikel 23a. Vereisten voor ewb na 10 jaar
 
 Op een toekenning van een eigenwoningbijdrage na het tweede vijfjaarstijdvak is [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0011919&hoofdstuk=2&paragraaf=3&sub-paragraaf=3.3&artikel=23&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing.
 

@@ -1,13 +1,35 @@
 ---
 title: "Verordening ledenraad 2015"
 identifier: "BWBR0036499"
-categorie: "Overig"
-publicatiedatum: 2018-11-22
-laatste_update: 2018-11-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036499"
+country: "nl"
+rank: "pbo"
+publication_date: "2018-11-22"
+last_updated: "2018-11-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036499"
+soort: "pbo"
+stam_id: "13130303"
+version_id: "22373472"
+internal_id: "C32030281"
+label_id: "13098994"
+dtd_version: "2.0"
+original_entry_into_force: "2015-04-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036499/2018-11-22/0"
+intitule_bron: "Stcrt.2015-9652"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2015-04-09"
+intitule_in_force: "2015-04-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-9652"
+original_published_date: "2015-04-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-9652"
+entry_into_force_date: "2015-04-19"
+jci_1_3: "jci1.3:c:BWBR0036499&z=2018-11-22&g=2018-11-22"
+jci_1_0: "1.0:c:BWBR0036499&g=2018-11-22"
+citeertitel_status: "officieel"
+entry_into_force: "2015-04-19"
 ---
-
 # Verordening ledenraad 2015
 
 De ledenraad van de Koninklijke Notariële Beroepsorganisatie KNB;
@@ -42,7 +64,7 @@ De ledenraad wordt geregeld in de [artikelen 67 t/m 76 van de WNA](https://wette
 
 (Toelichting van 28 januari 2015)
 
-#### Artikel 1
+##### Artikel 1
 
 1. De voorzitter van de ledenraad roept – al dan niet op verzoek van het bestuur van de KNB – de ledenraad bijeen om te vergaderen
 
@@ -72,7 +94,7 @@ De rol van voorzitter van de ledenraad kan met zich meebrengen dat het lastig is
 
 (toelichting 28 januari 2015)
 
-#### Artikel 2
+##### Artikel 2
 
 1. De ring wordt vertegenwoordigd door twee ledenraadsleden of hun plaatsvervangers.
 
@@ -86,7 +108,7 @@ De vertegenwoordiging van een ring kan de stemmen uitbrengen op de wijze die zij
 
 (toelichting 28 januari 2015)
 
-#### Artikel 3
+##### Artikel 3
 
 1. Besluiten worden genomen en verkiezingen geschieden bij volstrekte meerderheid van stemmen, tenzij deze verordening anders bepaalt.
 
@@ -104,7 +126,7 @@ Het is mogelijk voor ledenraadsleden om een amendement op een voorstel in te bre
 
 (toelichting 28 januari 2015)
 
-#### Artikel 4
+##### Artikel 4
 
 De besluiten worden door het bestuur van de KNB met instemming van de voorzitter van de ledenraad zo spoedig mogelijk bekend gemaakt, hetzij schriftelijk, al dan niet door publicatie in een periodiek van de KNB dat aan alle leden wordt toegezonden, hetzij met behulp van datacommunicatie.
 
@@ -112,21 +134,21 @@ Het is van belang dat de leden van de KNB zo snel mogelijk op de hoogte zijn van
 
 (toelichting 28 januari 2015)
 
-#### Artikel 5
+##### Artikel 5
 
 1. De ledenraad kan zich onder zijn verantwoordelijkheid ter voorbereiding en/of uitvoering van zijn taken en van door hem te nemen of genomen besluiten doen bijstaan door één of meer commissies, waaronder in ieder geval een vacaturecommissie en een financiële commissie.
 
 2. De ledenraad kan voor de commissies bedoeld in lid 1 een reglement vaststellen.
 
-#### Artikel 6
+##### Artikel 6
 
 De [Algemene Termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) is van overeenkomstige toepassing op deze verordening
 
-#### Artikel 7
+##### Artikel 7
 
 Deze verordening wordt aangehaald als de Verordening ledenraad 2015.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze verordening treedt in werking met ingang van 1 maart 2015 of zoveel later als de termijn van tien dagen na publicatie in de Staatscourant als bedoeld in [artikel 92 lid 2 van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=92) is verstreken en vervangt de [Verordening ledenraad](https://wetten.overheid.nl/jci1.3:c:BWBR0011168) van 1 oktober 2000.
 

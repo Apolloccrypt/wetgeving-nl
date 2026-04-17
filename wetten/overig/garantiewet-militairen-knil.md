@@ -1,14 +1,38 @@
 ---
-title: "Garantiewet Militairen K.N.I.L."
+title: "Wet van 22 juni 1951, houdende vaststelling van zekere waarborgen jegens bepaalde groepen militairen en gewezen militairen van het voormalige K.N.I.L., alsmede hun nagelaten betrekkingen"
 identifier: "BWBR0002077"
-categorie: "Overig"
-publicatiedatum: 2011-02-23
-laatste_update: 2011-02-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002077"
+country: "nl"
+rank: "wet"
+publication_date: "2011-02-23"
+last_updated: "2011-02-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002077"
+soort: "wet"
+stam_id: "1314113"
+version_id: "1955322"
+internal_id: "C1955321"
+label_id: "1273624"
+dtd_version: "2.0"
+original_entry_into_force: "1951-07-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002077/2011-02-23/0"
+intitule_bron: "Stb.1951-239"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1951-06-22"
+intitule_status: "goed"
+original_publication: "Stb.1951-239"
+original_signed_date: "1951-06-22"
+original_effect: "nieuwe-regeling"
+original_dossier: "1716"
+entry_into_force_date: "1951-07-21"
+entry_into_force_dossier: "1716"
+jci_1_3: "jci1.3:c:BWBR0002077&z=2011-02-23&g=2011-02-23"
+jci_1_0: "1.0:c:BWBR0002077&g=2011-02-23"
+citeertitel_status: "officieel"
+short_title: "Garantiewet Militairen K.N.I.L."
+signed_date: "1951-06-22"
+entry_into_force: "1951-07-21"
 ---
-
-# Garantiewet Militairen K.N.I.L.
+# Wet van 22 juni 1951, houdende vaststelling van zekere waarborgen jegens bepaalde groepen militairen en gewezen militairen van het voormalige K.N.I.L., alsmede hun nagelaten betrekkingen
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +40,7 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is met het oog op de ni
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 Deze wet verstaat onder:
 
@@ -42,7 +66,7 @@ Deze wet verstaat onder:
 
 - VIII. "Pensioenstichting": Stichting tot verzorging en afwikkeling van pensioensaangelegenheden betreffende gewezen overheidspersoneel van Indonesië en hun nagelaten betrekkingen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Met inachtneming van hetgeen hierna in deze wet is bepaald garandeert het Rijk:
 
@@ -60,7 +84,7 @@ Onder gezinsleden worden voor de toepassing van dit lid verstaan de leden van ee
 
 4. Op verzoek van betrokkene kan Onze Minister beslissen, dat in de gevallen, waarin recht bestaat op vrije overtocht naar Nederland ten laste van het Rijk, in plaats van die vrije overtocht ten laste van het Rijk een geldelijke uitkering aan betrokkene wordt toegekend.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De beroepsmilitairen, die niet geplaatst kunnen of konden worden bij de Koninklijke Landmacht en dientengevolge voor of op 25 Juli 1950 wegens reorganisatie bij het voormalige Koninklijk Nederlands Indonesisch Leger werden ontslagen, kunnen - mits dit ontslag eervol is geweest - desverlangd in aanmerking komen voor toepassing van afvloeiingsvoorwaarden, gelijkluidend aan de afvloeiingsvoorwaarden voor overheidsdienaren in vaste dienst, opgenomen onder A in de bijlage bij de Overeenkomst inzake de positie van de Burgerlijke Overheidsdienaren in verband met de souvereiniteitsoverdracht, echter met aftrek van de inkomsten, welke zij genieten ingevolge de sociale voorzieningen als bedoeld in de regelingen, genoemd in [artikel 2, lid 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=2&z=2011-02-23&g=2011-02-23).
 
@@ -68,7 +92,7 @@ Onder gezinsleden worden voor de toepassing van dit lid verstaan de leden van ee
 
 3. Het Rijk garandeert aan de beroepsmilitairen, die niet geplaatst kunnen worden bij de Koninklijke Landmacht, voorzover zij in het genot van wachtgeld worden gesteld, een minimum wachtgeld volgens door Ons, op voordracht van Onze Ministers voor Uniezaken en Overzeese Rijksdelen en van Financiën vast te stellen regelen. Binnen drie maanden na de vaststelling van deze regelen wordt door Ons een voorstel van wet aan de Staten-Generaal gedaan tot bevestiging van die regelen. De bevestiging geschiedt in de vorm van vaststelling van de betreffende regelen, al dan niet gewijzigd, bij de wet.
 
-#### Artikel 3a
+##### Artikel 3a
 
 1. De beroepsmilitairen, die tengevolge van ontslag overeenkomstig artikel 38 van de "Regelingen betreffende militaire aangelegenheden", II, Hoofdstuk V, gehecht aan de Overgangsovereenkomst, behorende bij de Mantelresolutie der Ronde Tafel Conferentie, het deelgenootschap in het voormalige "Weduwen- en Wezenfonds der Europese Officieren van het Nederlandsch-Indische Leger" dan wel het voormalige "Weduwen- en Wezenfonds van Europese militairen beneden de rang van Officier bij de Koloniale Troepen" hebben verloren, kunnen, onder voorwaarde dat zij binnen zes maanden na de inwerkingtreding van deze wet bij de Pensioenstichting de wens daartoe schriftelijk te kennen geven, voor hun weduwen en wezen het recht herkrijgen op pensioen, onderscheidenlijk onderstand, ten laste van de Pensioenstichting op de voet van de rechten en verplichtingen, welke waren verbonden aan het verplichte deelgenootschap in die fondsen, zulks gerekend van de datum van de beëindiging van de dienst bij het voormalige Koninklijk Nederlands Indonesisch Leger, met dien verstande, dat in de gevallen, bedoeld in het vijfde lid van artikel 41 van genoemde regelingen, de verschuldigde bijdragen zullen worden berekend over het wachtgeld, waarvoor de eenmalige uitkering in de plaats is getreden.
 
@@ -80,15 +104,15 @@ Onder gezinsleden worden voor de toepassing van dit lid verstaan de leden van ee
 
 5. In de gevallen, waarin in de regelingen op het gebied van weduwen- en wezenuitkeringen bevoegdheden tot afwijking van die regelingen of tot het treffen van een afzonderlijke voorziening waren voorbehouden aan de Kroon of aan de Gouverneur-Generaal, worden deze bevoegdheden met betrekking tot de buiten het grondgebied van de Republiek Indonesië gevestigde weduwen en wezen uitgeoefend door de Raad van Beheer van de Pensioenstichting na voorafgaande goedkeuring van Onze Ministers van Binnenlandse Zaken en van Financiën.
 
-#### Artikel 3b
+##### Artikel 3b
 
 In de gevallen, waarin in de op 26 December 1949 van kracht zijnde regelingen aan de Kroon of aan de Gouverneur-Generaal de bevoegdheid was voorbehouden om ter aanvulling of in afwijking van die regelingen beslissingen te nemen of bijzondere voorzieningen te treffen, worden deze bevoegdheden, behoudens het bepaalde in [artikel 3**a**, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=3a&z=2011-02-23&g=2011-02-23), voor de toepassing van deze wet uitgeoefend door Onze Minister in overeenstemming met Onze Minister van Financiën.
 
-#### Artikel 3c
+##### Artikel 3c
 
 Op pensioen of onderstand bij wijze van pensioen wordt, indien bij de vaststelling van de grondslagen daarvan rekening is gehouden met bezoldigingen, welke zijn toegekend op grond van na 31 December 1948 geldende bezoldigingsregelingen, buiten Indonesië geen duurtetoeslag en kindertoelage toegekend, tenzij het bedrag van dat pensioen of die onderstand minder bedraagt dan het bedrag aan pensioen of onderstand bij wijze van pensioen, dat zou zijn genoten, indien voor de vaststelling van de grondslag uitsluitend rekening zou zijn gehouden met bezoldigingen, toegekend op basis van de vóór 1 Januari 1949 bestaande bezoldigingsregelingen, vermeerderd met de toekomende duurtetoeslag en kindertoelage, in welk geval het verschil tussen beide bedoelde bedragen in de vorm van een duurtetoeslag wordt toegekend.
 
-#### Artikel 3d
+##### Artikel 3d
 
 1. De uitkeringen, waartoe het Rijk uit hoofde van of krachtens deze wet gehouden is, worden, voor zover niet op andere wijze bij de wet geregeld en behoudens het bepaalde in het derde lid, vastgesteld en toegekend door Onze Minister en naar boven afgerond tot het naastbijliggende veelvoud van één euro of één rupiah.
 
@@ -96,17 +120,17 @@ Op pensioen of onderstand bij wijze van pensioen wordt, indien bij de vaststelli
 
 3. De periodieke uitkeringen aan buiten het grondgebied van de Republiek Indonesië gevestigde weduwen en wezen, uit hoofde van of krachtens de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=2&z=2011-02-23&g=2011-02-23), van deze wet gegeven garantie, worden met inachtneming voor zover nodig van de door Onze Minister te geven aanwijzingen toegekend door de Raad van Beheer van de Pensioenstichting ten laste van die stichting.
 
-#### Artikel 3e
+##### Artikel 3e
 
 1. Indien een militair of gewezen militair op grond van de dienstbeëindiging rechten of aanspraken heeft op uitkeringen ten laste van de Republiek Indonesië, kan hij door Onze Minister worden verplicht het nodige te verrichten teneinde deze rechten en aanspraken geldend te maken.
 
 2. Bij niet-nakoming van de in het vorige lid bedoelde verplichting, zomede indien door of vanwege de Republiek Indonesië op grond van de dienstbeëindiging uitkeringen zijn of worden toegekend, zullen de garanties volgens door Onze Minister te stellen regelen slechts worden verwezenlijkt, voor zover en voor zolang de vanwege de Republiek Indonesië toekomende dan wel toegekende uitkeringen minder bedragen dan de uitkeringen, waarop uit hoofde van of krachtens deze wet recht of aanspraak bestaat.
 
-#### Artikel 4
+##### Artikel 4
 
 Door Onze Minister kan in overeenstemming met Onze Ministers van Financiën en van Sociale Zaken en Volksgezondheid in bijzondere gevallen worden bepaald, dat de garanties uit hoofde van of krachtens deze wet blijven gelden bij verandering van nationaliteit.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het nominale bedrag van de periodieke uitkeringen, waartoe het Rijk uit hoofde van of krachtens deze wet is gehouden, wordt betaalbaar gesteld:
 
@@ -126,7 +150,7 @@ hetzij in Indonesisch courant, hetzij, indien de rechthebbende zich binnen een j
 
 6. In bijzondere gevallen kan van het bepaalde in dit artikel door Onze Minister in overeenstemming met Onze Minister van Financiën ten gunste van belanghebbende worden afgeweken.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een militair of gewezen militair, die uit hoofde van of krachtens deze wet ten laste van het Rijk een periodieke uitkering geniet of zou kunnen genieten, is, zolang hij de voor pensioen voorgeschreven leeftijd nog niet heeft bereikt, verplicht:
 
@@ -160,7 +184,7 @@ Ten aanzien van hen, voor wie rangspensioenreglementen gelden, zal door Ons naar
 
 7. Ter uitvoering van dit artikel kunnen door Onze Minister nadere voorschriften en aanwijzingen hetzij in het algemeen hetzij voor enig bijzonder geval worden gegeven. Bij niet- of niet behoorlijke naleving door de belanghebbende van deze voorschriften of aanwijzingen, is het bepaalde in het vijfde en zesde lid van overeenkomstige toepassing.
 
-#### Artikel 6a
+##### Artikel 6a
 
 1. Indien een beroepsmilitair of gewezen militair een periodieke uitkering ten laste van de Republiek Indonesië geniet, is hij bevoegd zich voor de toepassing van deze wet tot de commissie te wenden met het verzoek om te beslissen:
 
@@ -174,7 +198,7 @@ Ten aanzien van hen, voor wie rangspensioenreglementen gelden, zal door Ons naar
 
 3. Het bepaalde in [artikel 6, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=6&z=2011-02-23&g=2011-02-23), is op een militair of gewezen militair bedoeld in het eerste lid, van overeenkomstige toepassing.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Wij stellen een of meer commissies in, die - behalve de andere bevoegdheden en werkzaamheden, welke haar bij of krachtens deze wet zijn of zullen worden verleend of opgedragen - tot taak hebben voor de toepassing van deze wet, nadat door Onze Minister terzake haar oordeel is gevraagd, te beslissen:
 
@@ -188,7 +212,7 @@ Ten aanzien van hen, voor wie rangspensioenreglementen gelden, zal door Ons naar
 
 4. Bij algemene maatregel van bestuur wordt tevens voorzien in de mogelijkheid tot instelling van beroep tegen beslissingen van de commissie.
 
-#### Artikel 7a
+##### Artikel 7a
 
 1. Voor de toepassing van deze wet zullen Indonesische staatsburgers gewezen Nederlanders worden geacht hun Nederlanderschap te hebben behouden, met dien verstande, dat de [artikelen 3**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=3a&z=2011-02-23&g=2011-02-23) en [3**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=3b&z=2011-02-23&g=2011-02-23) voor hen niet van toepassing zijn en dat de garanties zich te hunnen aanzien niet uitstrekken tot het recht op vrije overtocht naar Nederland.
 
@@ -196,29 +220,29 @@ Ten aanzien van hen, voor wie rangspensioenreglementen gelden, zal door Ons naar
 
 3. In bijzondere gevallen kan, ter beslissing van de commissie, aan de in het vorige lid bedoelde personen, die, waren zij Nederlanders gebleven, uit hoofde van of krachtens deze wet recht op vrije overtocht naar Nederland zouden hebben, vrij vervoer naar Nederland op redelijke voorwaarden worden verleend.
 
-#### Artikel 7b
+##### Artikel 7b
 
 Voor gevallen, waarin deze wet, Hoofdstuk V van de in het eerste lid van [artikel 2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=2&z=2011-02-23&g=2011-02-23), bedoelde regelingen dan wel de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=3&z=2011-02-23&g=2011-02-23) bedoelde afvloeiingsvoorwaarden niet of niet naar billijkheid voorzien, kunnen door Ons op voordracht van Onze Ministers ten behoeve van de militairen, gewezen militairen en nagelaten betrekkingen aanvullende garanties van het Rijk worden vastgesteld.
 
-#### Artikel 7c
+##### Artikel 7c
 
 De garanties strekken zich niet uit over het recht op kindertoelage voor kinderen, voor wie aanspraak bestaat op kinderbijslag ingevolge de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368), de Kinderbijslagwet voor loontrekkenden, of de algemene maatregel van bestuur bedoeld in artikel 10 van laatstgenoemde wet, terwijl de kindertoelage voor die kinderen voor de berekening van de in het [tweede lid van artikel 3**c**](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=3c&z=2011-02-23&g=2011-02-23) bedoelde duurtetoeslag buiten aanmerking wordt gelaten.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Door Ons kunnen op voordracht van Onze Ministers overeenkomstige garanties als bij de voorgaande artikelen van deze wet zijn verleend, worden vastgesteld ten behoeve van andere Nederlanders, dan genoemd in [artikel 1, onder I of III](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=1&z=2011-02-23&g=2011-02-23), zomede in bijzondere gevallen ten behoeve van niet-Nederlanders, voor zover betrokkenen hebben gediend bij het voormalige Koninklijk Nederlands Indonesisch Leger.
 
 2. Aan de vaststelling van de in het vorige lid bedoelde garanties kunnen door Ons voorwaarden worden verbonden.
 
-#### Artikel 8a
+##### Artikel 8a
 
 Vervallen
 
-#### Artikel 8b
+##### Artikel 8b
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Deze wet treedt in werking met ingang van de dag, volgende op die van haar afkondiging. Zij kan worden aangehaald als "Garantiewet Militairen K.N.I.L.".
 

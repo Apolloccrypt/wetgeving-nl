@@ -1,13 +1,37 @@
 ---
-title: "Warenwetbesluit Bereiding en behandeling van levensmiddelen"
+title: "Besluit van 10 december 1992, houdende vaststelling van het warenwetbesluit Bereiding en behandeling van levensmiddelen"
 identifier: "BWBR0005758"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005758"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005758"
+soort: "AMvB"
+stam_id: "2770913"
+version_id: "29063972"
+internal_id: "C41315011"
+label_id: "2717884"
+dtd_version: "2.0"
+original_entry_into_force: "2022-11-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005758/2025-01-01/0"
+intitule_bron: "Stb.1992-678"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-12-10"
+intitule_status: "goed"
+original_publication: "Stb.2022-473"
+original_signed_date: "2022-11-24"
+original_published_date: "2022-11-28"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2022-473"
+entry_into_force_date: "2022-11-24"
+jci_1_3: "jci1.3:c:BWBR0005758&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0005758&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Warenwetbesluit Bereiding en behandeling van levensmiddelen"
+signed_date: "2022-11-24"
+entry_into_force: "2022-11-24"
 ---
-
 # Besluit van 10 december 1992, houdende vaststelling van het warenwetbesluit Bereiding en behandeling van levensmiddelen
 
 Op de voordracht van de Staatssecretaris van Welzijn, Volksgezondheid en Cultuur van 16 juli 1992, nr. VVP/L U-921434, gedaan in overeenstemming met Onze Minister van Economische Zaken en de Staatssecretaris van Landbouw, Natuurbeheer en Visserij;
@@ -32,7 +56,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -94,7 +118,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. **voor menselijke consumptie bestemd water:** al het water, niet zijnde natuurlijk mineraalwater, bronwater of een geneesmiddel, dat in enig levensmiddelenbedrijf wordt gebruikt voor de vervaardiging, de behandeling, de conservering of het in de handel brengen van voor menselijke consumptie bestemde waren of stoffen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het is verboden eet- en drinkwaren te bereiden, te behandelen, te verpakken, te bewaren, te vervoeren of te verhandelen anders dan met inachtneming van de bij of krachtens dit besluit gestelde voorschriften.
 
@@ -114,11 +138,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2. Hygiëne bij de bereiding en behandeling
 
-#### Artikel 3
+##### Artikel 3
 
 Eet- en drinkwaren, van oorsprong uit de Europese Unie, worden verhandeld met inachtneming van de bij of krachtens een EU-noodmaatregel gestelde voorschriften.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Pathogene micro-organismen zijn in eet- en drinkwaren afwezig in hoeveelheden die schadelijk kunnen zijn voor de volksgezondheid, met dien verstande dat:
 
@@ -140,7 +164,7 @@ Eet- en drinkwaren, van oorsprong uit de Europese Unie, worden verhandeld met in
 
 #### § 3. Bereiding
 
-#### Artikel 4a
+##### Artikel 4a
 
 1. Pluimveevlees wordt uitsluitend in een verpakking aan de consument verkocht of afgeleverd.
 
@@ -156,11 +180,11 @@ Eet- en drinkwaren, van oorsprong uit de Europese Unie, worden verhandeld met in
 
 5. Het tweede lid is niet van toepassing op diepgevroren pluimveevlees.
 
-#### Artikel 5
+##### Artikel 5
 
 Het voor menselijke consumptie bestemd water voldoet op het punt waar het water in het levensmiddelenbedrijf wordt gebruikt, aan de parameterwaarden, bedoeld in bijlage I bij richtlijn 2013/51/Euratom.
 
-#### Artikel 5a
+##### Artikel 5a
 
 1. Bij de bereiding van eet- en drinkwaren en grondstoffen mag uitsluitend een door Onze Minister goedgekeurd veilig en effectief decontaminatie-middel gebruikt worden indien daarvoor een dwingende technologische noodzaak bestaat, onder de voorwaarde dat ter zake een door Onze Minister goedgekeurde procesbeschrijving in acht wordt genomen.
 
@@ -170,7 +194,7 @@ Het voor menselijke consumptie bestemd water voldoet op het punt waar het water 
 
 4. Dit artikel heeft geen betrekking op producten van dierlijke oorsprong, bedoeld in bijlage I, punt 8.1, van [verordening (EG) 853/2004](32004R0853).
 
-#### Artikel 6
+##### Artikel 6
 
 Onze Minister stelt ter uitvoering van [richtlijn 2009/32/EG](32009L0032) nadere regels vast ter zake van:
 
@@ -180,13 +204,13 @@ Onze Minister stelt ter uitvoering van [richtlijn 2009/32/EG](32009L0032) nadere
 
 - c. de te bezigen aanduidingen of vermeldingen op verpakkingen of recipiënten van extractiemiddelen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Voor zover het kennelijk technisch noodzakelijk is bij de bereiding van eetwaren minerale olie als los- of smeermiddel te gebruiken, mag uitsluitend vloeibare paraffine worden gebruikt. Als los- of smeermiddel gebruikte vloeibare paraffine mag in eetwaren aanwezig zijn tot een hoeveelheid van ten hoogste 50 mg/kg.
 
 2. Vloeibare paraffine moet voldoen aan de krachtens [artikel 4, tweede lid, van het Warenwetbesluit verpakkingen en gebruiksartikelen](https://wetten.overheid.nl/jci1.3:c:BWBR0018370&artikel=4) aan die stof gestelde specificatie.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het roken van eetwaren mag uitsluitend geschieden met rook, verkregen uit hout of houtachtige gewassen in onbehandelde staat, onder de voorwaarde dat de waar hierdoor de kenmerkende geur-, kleur- en smaakeffecten van het rookproces verkrijgt.
 
@@ -196,7 +220,7 @@ Onze Minister stelt ter uitvoering van [richtlijn 2009/32/EG](32009L0032) nadere
 
 4. In bereidplaatsen, kennelijk bestemd voor het roken van eetwaren, mag onderscheidenlijk mogen geen ander hout of houtachtige gewassen in voorraad of voorhanden worden gehouden dan hout of houtachtige gewassen, bedoeld in het derde lid.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Olie of vet, aanwezig in de bereidplaats en kennelijk bestemd voor het bakken of frituren van eetwaren, moet, onverminderd andere op die grondstof van toepassing zijnde wettelijke bepalingen, voldoen aan de eis dat het gehalte aan dimere en polymere triglyceriden niet hoger is dan 16%.
 
@@ -214,7 +238,7 @@ Onze Minister stelt ter uitvoering van [richtlijn 2009/32/EG](32009L0032) nadere
 
 3. In bereidplaatsen, kennelijk bestemd voor het bakken of frituren van eetwaren, mag geen andere olie of ander vet voorhanden of in voorraad worden gehouden dan olie of vet, dat voldoet aan het eerste en tweede lid.
 
-#### Artikel 10
+##### Artikel 10
 
 1. In eet- en drinkwaren mogen vitamines, fluor- en jodiumverbindingen, aminozuren of hun zouten niet aanwezig zijn, tenzij deze naar aard en hoeveelheid van nature aanwezig zijn in die eet- en drinkwaren.
 
@@ -224,13 +248,13 @@ Onze Minister stelt ter uitvoering van [richtlijn 2009/32/EG](32009L0032) nadere
 
 - b. eet- en drinkwaren waarvoor in enig wettelijk voorschrift anders is bepaald.
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
 #### § 4. Verontreinigingen
 
-#### Artikel 12
+##### Artikel 12
 
 1. Schimmeltoxinen en bacteriële toxinen in hoeveelheden die schadelijk kunnen zijn voor de volksgezondheid, moeten afwezig zijn in eet- en drinkwaren en grondstoffen.
 
@@ -238,13 +262,13 @@ Vervallen
 
 3. Onze Minister kan nadere regels stellen met betrekking tot het in het eerste lid gestelde.
 
-#### Artikel 13
+##### Artikel 13
 
 In eet- en drinkwaren mogen door Onze Minister aangewezen verontreinigingen, andere dan bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=4&artikel=12&z=2025-01-01&g=2025-01-01), die uit oogpunt van gezondheid schadelijk kunnen zijn, niet in een grotere hoeveelheid aanwezig zijn dan door Onze Minister voor de betrokken stof is vastgesteld. De hoeveelheid kan voor de onderscheiden eet- en drinkwaren verschillend worden bepaald.
 
 #### § 4. Verontreinigingen en residuen van bestrijdingsmiddelen
 
-#### Artikel 14
+##### Artikel 14
 
 Onze Minister stelt ter uitvoering van [richtlijn 89/108/EEG](31989L0108) en van de krachtens die richtlijn getroffen maatregelen nadere regels vast ter zake van:
 
@@ -256,7 +280,7 @@ Onze Minister stelt ter uitvoering van [richtlijn 89/108/EEG](31989L0108) en van
 
 - d. de bewaar- en vervoersomstandigheden van diepgevroren eet- en drinkwaren.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Eet- en drinkwaren of grondstoffen, welke gekoeld moeten worden bewaard teneinde microbiologisch bederf of de uitgroei van pathogene bacteriën tegen te gaan, moeten:
 
@@ -282,11 +306,11 @@ Onze Minister stelt ter uitvoering van [richtlijn 89/108/EEG](31989L0108) en van
 
 #### § 5. Bewaring en vervoer
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
-#### Artikel 17
+##### Artikel 17
 
 1. In bedrijfsruimten mogen levensmiddelenadditieven uitsluitend in een verpakking of recipiënt voorhanden zijn of in voorraad worden gehouden. Op die verpakking of recipiënt moet een aanduiding overeenkomstig verordening (EG) 1333/2008 worden gebezigd, alsmede, voor zover van toepassing, de volgende vermeldingen:
 
@@ -298,7 +322,7 @@ Vervallen
 
 #### § 6. Verpakking
 
-#### Artikel 18
+##### Artikel 18
 
 1. Als methoden van onderzoek welke bij uitsluiting beslissend zijn voor de vaststelling of al dan niet is voldaan aan de bij of krachtens dit besluit gestelde regels, worden aangewezen microbiologische onderzoekingsmethoden, chromatografische en andere scheidingsmethoden, organoleptische bepalingsmethoden en detectiemethoden, alsmede de daartoe door een andere Lid-Staat van de Europese Economische Gemeenschap aangewezen methoden.
 
@@ -308,21 +332,21 @@ Vervallen
 
 4. Onverminderd het eerste lid wordt de in artikel 1 en de bijlage bij [verordening (EU) 333/2007](32007R0333) beschreven methode, aangewezen als methode van onderzoek die bij uitsluiting beslissend is voor de vaststelling of met betrekking tot de maximumgehalten aan lood, cadmium, kwik, anorganisch tin, 3-MCPD en benzo(a)pyreen in eet- en drinkwaren al dan niet is voldaan aan de onderdelen 3, 5.1, 5.2 en 5.3 van bijlage I bij [verordening (EU) 2023/915](32023R0915).
 
-#### Artikel 19
+##### Artikel 19
 
 Vervallen
 
-#### Artikel 20
+##### Artikel 20
 
 Dit besluit treedt in werking met ingang van de derde maand na de datum van uitgifte van het Staatsblad, waarin het wordt geplaatst.
 
-#### Artikel 21
+##### Artikel 21
 
 Dit besluit kan worden aangehaald als Warenwetbesluit Bereiding en behandeling van levensmiddelen.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 1a
+##### Artikel 1a
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -366,7 +390,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 3. Bereiding
 
-#### Artikel 11a
+##### Artikel 11a
 
 1. Het cafeïnegehalte onderscheidenlijk het kininegehalte van een als **limonade** of **frisdrank** aangeduide drinkwaar is ten hoogste:
 
@@ -388,7 +412,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 2a
+##### Artikel 2a
 
 Onze Minister is:
 
@@ -404,7 +428,7 @@ Onze Minister is:
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 13a
+##### Artikel 13a
 
 1. In of op eet- en drinkwaren zijn slechts resten, bestanddelen of omzettingsproducten van bestrijdingsmiddelen aanwezig als gevolg van goed landbouwkundig gebruik van bestrijdingsmiddelen en in hoeveelheden die niet schadelijk kunnen zijn voor de volksgezondheid.
 
@@ -418,7 +442,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 4. De aanvrager, bedoeld in artikel 7, eerste lid, van verordening (EG) 396/2005, dient zijn aanvraag in bij het College voor de toelating van gewasbeschermingsmiddelen en biociden.
 
-#### Artikel 11b
+##### Artikel 11b
 
 Het tappen onder overdruk van bier als bedoeld in [artikel 7b van het Warenwetbesluit Gereserveerde aanduidingen](https://wetten.overheid.nl/jci1.3:c:BWBR0009499&artikel=7b) vindt uitsluitend plaats met koolzuur of stikstof of een mengsel daarvan.
 

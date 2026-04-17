@@ -1,14 +1,41 @@
 ---
-title: "Wet implementatie Nagoya Protocol"
+title: "Wet van 30 september 2015, houdende regels ter implementatie van het Nagoya Protocol (Wet implementatie Nagoya Protocol)"
 identifier: "BWBR0037150"
-categorie: "Overig"
-publicatiedatum: 2019-01-01
-laatste_update: 2019-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037150"
+country: "nl"
+rank: "wet"
+publication_date: "2019-01-01"
+last_updated: "2019-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037150"
+soort: "wet"
+stam_id: "13294153"
+version_id: "22756712"
+internal_id: "C33435771"
+label_id: "13262074"
+dtd_version: "2.0"
+original_entry_into_force: "2016-04-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037150/2019-01-01/0"
+intitule_bron: "Stb.2015-388"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-09-30"
+intitule_published: "2015-11-03"
+intitule_in_force: "2016-04-22"
+intitule_status: "goed"
+original_publication: "Stb.2015-388"
+original_signed_date: "2015-09-30"
+original_published_date: "2015-11-03"
+original_effect: "nieuwe-regeling"
+original_dossier: "34142"
+original_url_id: "stb-2015-388"
+entry_into_force_date: "2016-04-23"
+jci_1_3: "jci1.3:c:BWBR0037150&z=2019-01-01&g=2019-01-01"
+jci_1_0: "1.0:c:BWBR0037150&g=2019-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet implementatie Nagoya Protocol"
+signed_date: "2015-09-30"
+entry_into_force: "2016-04-23"
 ---
-
-# Wet implementatie Nagoya Protocol
+# Wet van 30 september 2015, houdende regels ter implementatie van het Nagoya Protocol (Wet implementatie Nagoya Protocol)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +43,7 @@ Alzo Wij in overweging genomen hebben, dat het noodzakelijk is om te voorzien in
 
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -26,7 +53,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. **Onze Minister:** Onze Minister van Landbouw, Natuur en Voedselkwaliteit.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het is verboden in strijd te handelen met bij ministeriële regeling aangewezen voorschriften van EU-verordeningen inzake genetische rijkdommen.
 
@@ -34,11 +61,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Onverminderd het eerste en tweede lid, kunnen bij of krachtens algemene maatregel van bestuur ter uitvoering van het Nagoya Protocol en EU-verordeningen inzake genetische rijkdommen regels worden gesteld met betrekking tot de toegang tot genetische rijkdommen en de eerlijke en billijke verdeling van voordelen voortvloeiende uit hun gebruik.
 
-#### Artikel 3
+##### Artikel 3
 
 Onze Minister kan ontheffing of vrijstelling verlenen van het bepaalde bij of krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037150&artikel=2&z=2019-01-01&g=2019-01-01), overeenkomstig de voorwaarden en beperkingen die in voorkomend geval voortvloeien uit het Nagoya Protocol of EU-verordeningen inzake genetische rijkdommen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Onze Minister wijst een nationaal contactpunt voor toegang en verdeling van voordelen als bedoeld in artikel 13, eerste lid, van het Nagoya Protocol aan.
 
@@ -54,11 +81,11 @@ Onze Minister kan ontheffing of vrijstelling verlenen van het bepaalde bij of kr
 
 5. Van een besluit als bedoeld in het vierde lid, onderdeel a, wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-#### Artikel 5
+##### Artikel 5
 
 Onze Minister is bevoegd tot het opleggen van een last onder bestuursdwang ter handhaving van het bepaalde bij of krachtens deze wet.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=5) en [artikel 117 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=117) kan Onze Minister overeenkomstig de toepasselijke EU-verordeningen inzake genetische rijkdommen onmiddellijke tijdelijke maatregelen treffen ten aanzien van gebruikers die handelen in strijd met het bepaalde bij of krachtens deze wet. Deze maatregelen kunnen inhouden het in bewaring nemen van genetische rijkdommen of daaruit ontwikkelde producten, of een besluit houdende oplegging van:
 
@@ -82,7 +109,7 @@ Onze Minister is bevoegd tot het opleggen van een last onder bestuursdwang ter h
 
 4. Het is verboden in strijd te handelen met een besluit als bedoeld in het eerste lid.
 
-#### Artikel 7
+##### Artikel 7
 
 1. In dit artikel wordt onder overtreding verstaan: gedraging met betrekking tot de administratie of de verstrekking van gegevens die in strijd is met het bepaalde bij of krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037150&artikel=2&z=2019-01-01&g=2019-01-01), in bij algemene maatregel van bestuur aangewezen gevallen.
 
@@ -96,15 +123,15 @@ Onze Minister is bevoegd tot het opleggen van een last onder bestuursdwang ter h
 
 6. Voor overtredingen als bedoeld in het eerste lid kan geen bestuurlijke strafbeschikking worden opgelegd krachtens [artikel 257ba van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257ba).
 
-#### Artikel 8
+##### Artikel 8
 
 Wijzigt de Wet op de economische delicten.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze wet wordt aangehaald als: Wet implementatie Nagoya Protocol.
 

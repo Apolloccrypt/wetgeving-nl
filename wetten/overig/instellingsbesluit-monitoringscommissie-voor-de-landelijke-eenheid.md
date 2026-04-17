@@ -1,13 +1,39 @@
 ---
-title: "Instellingsbesluit monitoringscommissie voor de Landelijke Eenheid"
+title: "Besluit van de Minister van Justitie en Veiligheid van 13 juli 2022, nr. 4094455, houdende instelling van de monitoringscommissie voor de Landelijke Eenheid (Instellingsbesluit monitoringscommissie voor de Landelijke Eenheid)"
 identifier: "BWBR0047219"
-categorie: "Overig"
-publicatiedatum: 2024-06-20
-laatste_update: 2024-06-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047219"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-06-20"
+last_updated: "2024-06-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047219"
+soort: "ministeriele-regeling"
+stam_id: "16502223"
+version_id: "28920762"
+internal_id: "C40945741"
+label_id: "16423824"
+dtd_version: "2.0"
+original_entry_into_force: "2022-10-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047219/2024-06-20/0"
+intitule_bron: "Stcrt.2022-25338"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-07-13"
+intitule_published: "2022-10-03"
+intitule_in_force: "2022-10-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-25338"
+original_signed_date: "2022-07-13"
+original_published_date: "2022-10-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-25338"
+entry_into_force_date: "2022-10-04"
+jci_1_3: "jci1.3:c:BWBR0047219&z=2024-06-20&g=2024-06-20"
+jci_1_0: "1.0:c:BWBR0047219&g=2024-06-20"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit monitoringscommissie voor de Landelijke Eenheid"
+signed_date: "2022-07-13"
+entry_into_force: "2022-10-04"
 ---
-
 # Besluit van de Minister van Justitie en Veiligheid van 13 juli 2022, nr. 4094455, houdende instelling van de monitoringscommissie voor de Landelijke Eenheid (Instellingsbesluit monitoringscommissie voor de Landelijke Eenheid)
 
 Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
@@ -16,7 +42,7 @@ BESLUIT:
 
 De datum van inwerkingtreding in de publicatie ligt voor de datum van uitgifte.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -26,7 +52,7 @@ In dit besluit wordt verstaan onder:
 
 - c. **Landelijke Eenheid:** de Landelijke eenheid van de politie.
 
-#### Artikel 2. Instelling en taak
+##### Artikel 2. Instelling en taak
 
 1. Er is een monitoringscommissie voor de Landelijke Eenheid.
 
@@ -38,7 +64,7 @@ In dit besluit wordt verstaan onder:
 
 3. De commissie onderhoudt actief contact met de werkvloer zodat zicht wordt gehouden op de op de werkvloer zichtbare voortgang en het beeld dat de werkvloer heeft over de transitie.
 
-#### Artikel 3. Samenstelling, benoeming, ontslag
+##### Artikel 3. Samenstelling, benoeming, ontslag
 
 1. De commissie bestaat uit een voorzitter en drie andere leden.
 
@@ -54,7 +80,7 @@ In dit besluit wordt verstaan onder:
 
 7. De voorzitter en de andere leden kunnen worden geschorst en ontslagen door de minister.
 
-#### Artikel 4. Leden
+##### Artikel 4. Leden
 
 Voor de duur van de commissie worden tot lid van de commissie benoemd:
 
@@ -66,13 +92,13 @@ Voor de duur van de commissie worden tot lid van de commissie benoemd:
 
 - d. mevr. drs. Y. I. (Yasemin) Tümer MA.
 
-#### Artikel 5. Instellingsduur
+##### Artikel 5. Instellingsduur
 
 1. De commissie wordt ingesteld met ingang van de datum van inwerkingtreding van dit besluit.
 
 2. De commissie wordt opgeheven per 15 juli 2024.
 
-#### Artikel 6. Secretariaat
+##### Artikel 6. Secretariaat
 
 1. De minister voorziet in het secretariaat van de commissie.
 
@@ -82,7 +108,7 @@ Voor de duur van de commissie worden tot lid van de commissie benoemd:
 
 4. De functionarissen die tot secretaris of medewerker van het secretariaat worden benoemd, zijn tegenover anderen dan de commissie verplicht tot geheimhouding van hetgeen hen in het verband van de werkzaamheden van de commissie bekend is geworden.
 
-#### Artikel 7. Werkwijze
+##### Artikel 7. Werkwijze
 
 1. De commissie stelt haar eigen werkwijze vast. De commissie zorgt daarbij voor actief contact met de werkvloer zodat voldaan kan worden aan de bepaling in [artikel 2 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047219&artikel=2&z=2024-06-20&g=2024-06-20) van dit besluit.
 
@@ -90,13 +116,13 @@ Voor de duur van de commissie worden tot lid van de commissie benoemd:
 
 3. De commissie verstrekt desgevraagd aan de minister de voor de uitoefening van zijn taak benodigde inlichtingen. De minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.
 
-#### Artikel 8. Inwinnen van inlichtingen
+##### Artikel 8. Inwinnen van inlichtingen
 
 1. De commissie is bevoegd zich voor het inwinnen van inlichtingen rechtstreeks te wenden tot personen en instellingen en hen te verzoeken die medewerking te verlenen die redelijkerwijs nodig is voor de taakuitvoering van de commissie.
 
 2. Het Ministerie van Justitie en Veiligheid, en op grond van [artikel 31 van de Politiewet 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=31), de Korpschef, verlenen de commissie de verlangde medewerking en toegang tot alle informatie die zij nodig voor de uitvoering van haar taak.
 
-#### Artikel 9. Vergoeding
+##### Artikel 9. Vergoeding
 
 1. Aan de voorzitter wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18, trede 10, zoals opgenomen in de bijlage bij de meest recente CAO Rijk en de arbeidsduurfactor op 16/36.
 
@@ -106,7 +132,7 @@ Voor de duur van de commissie worden tot lid van de commissie benoemd:
 
 4. De leden ontvangen een vergoeding voor reiskosten gebaseerd op de voet van de regeling, bedoeld in [artikel 2, tweede lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2).
 
-#### Artikel 10. Kosten van de commissie
+##### Artikel 10. Kosten van de commissie
 
 1. De kosten van de commissie komen, voor zover op basis van een door de minister goedgekeurde raming, voor rekening van het Ministerie van Justitie en Veiligheid. Onder kosten worden in ieder geval verstaan:
 
@@ -118,7 +144,7 @@ Voor de duur van de commissie worden tot lid van de commissie benoemd:
 
 2. De commissie biedt zo spoedig mogelijk na haar instelling een raming aan de minister aan.
 
-#### Artikel 11. Rapportages
+##### Artikel 11. Rapportages
 
 1. De commissie rapport schriftelijk aan de minister met een frequentie van één rapportage per vier maanden. De derde rapportage zal verschijnen op 1 juni 2023.
 
@@ -126,17 +152,17 @@ Voor de duur van de commissie worden tot lid van de commissie benoemd:
 
 3. Indien onvoorziene omstandigheden naar oordeel van de commissie het uitbrengen van een voorziene rapportage in de weg staan, dan stelt zijde minister daarvan onverwijld op de hoogte.
 
-#### Artikel 12. Archiefbescheiden
+##### Artikel 12. Archiefbescheiden
 
 De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden of, zo de
 
 omstandigheden daartoe aanleiding geven, zoveel eerder, de bescheiden betreffende die werkzaamheden over aan het archief van het Ministerie van Justitie en Veiligheid.
 
-#### Artikel 13. Inwerkingtreding
+##### Artikel 13. Inwerkingtreding
 
 Dit besluit treedt in werking per 1 september 2022.
 
-#### Artikel 14. Citeertitel
+##### Artikel 14. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit monitoringscommissie voor de Landelijke Eenheid.
 

@@ -1,14 +1,38 @@
 ---
-title: "Vervoersnoodwet"
+title: "Wet van 5 december 1962, houdende regeling van het vervoer te land en op de binnenwateren in buitengewone omstandigheden"
 identifier: "BWBR0002391"
-categorie: "Overig"
-publicatiedatum: 2005-03-16
-laatste_update: 2005-03-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002391"
+country: "nl"
+rank: "wet"
+publication_date: "2005-03-16"
+last_updated: "2005-03-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002391"
+soort: "wet"
+stam_id: "1785073"
+version_id: "2653132"
+internal_id: "C2653131"
+label_id: "1740864"
+dtd_version: "2.0"
+original_entry_into_force: "1963-01-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002391/2005-03-16/0"
+intitule_bron: "Stb.1962-571"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1962-12-05"
+intitule_status: "goed"
+original_publication: "Stb.1962-571"
+original_signed_date: "1962-12-05"
+original_effect: "nieuwe-regeling"
+original_dossier: "5425"
+entry_into_force_date: "1963-01-16"
+entry_into_force_dossier: "5425"
+jci_1_3: "jci1.3:c:BWBR0002391&z=2005-03-16&g=2005-03-16"
+jci_1_0: "1.0:c:BWBR0002391&g=2005-03-16"
+citeertitel_status: "officieel"
+short_title: "Vervoersnoodwet"
+signed_date: "1962-12-05"
+entry_into_force: "1963-01-16"
 ---
-
-# Vervoersnoodwet
+# Wet van 5 december 1962, houdende regeling van het vervoer te land en op de binnenwateren in buitengewone omstandigheden
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +42,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze wet wordt verstaan onder:
 
@@ -36,7 +60,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2. Onder vervoer wordt in deze wet mede verstaan het verplaatsen van vervoermiddelen met behulp van een ander vervoermiddel.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=8&z=2005-03-16&g=2005-03-16), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=9&z=2005-03-16&g=2005-03-16), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=10&z=2005-03-16&g=2005-03-16), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=12&z=2005-03-16&g=2005-03-16), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=13&z=2005-03-16&g=2005-03-16), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=15&z=2005-03-16&g=2005-03-16) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=IV&artikel=17&z=2005-03-16&g=2005-03-16) gezamenlijk of afzonderlijk in werking worden gesteld.
 
@@ -50,7 +74,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 6. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt in ieder geval geplaatst in het **Staatsblad**.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De in deze wet aan Onze Minister toegekende bevoegdheden worden ter zake van de uitvoering van de militaire taak uitgeoefend door Onze Minister en Onze Minister van Defensie gezamenlijk.
 
@@ -58,47 +82,47 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 3. Indien krachtens [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=V&artikel=18&z=2005-03-16&g=2005-03-16), een vergoeding wordt toegekend vanwege de uitoefening van bevoegdheden ter uitvoering van de militaire taak, dan komt deze voor rekening van Onze Minister van Defensie.
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
 ### Hoofdstuk II. De Organen
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
 ### Hoofdstuk III. Vervoer en Vervoermiddelen
 
-#### Artikel 8
+##### Artikel 8
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel 9
+##### Artikel 9
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
 Onze Minister kan bepalen, dat houders van vervoermiddelen verplicht zijn zich in door hem te bepalen gevallen en op een door hem te bepalen wijze en plaats al of niet met het vervoermiddel te melden, zonodig onder mededeling van gegevens omtrent het gebruik, dat van het vervoermiddel wordt gemaakt.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel 11
+##### Artikel 11
 
 1. Met betrekking tot het in het [eerste lid van artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=10&z=2005-03-16&g=2005-03-16) bedoelde vervoer gelden tussen de vervoerder en hem te wiens behoeve het vervoer plaats vindt de voor soortgelijk vervoer rechtens geldende dan wel gebruikelijke tarieven en voorwaarden; bij gebreke zowel van gebruikelijke als van rechtens geldende tarieven en voorwaarden gelden de door Onze Minister vastgestelde tarieven en voorwaarden.
 
 2. Onze Minister kan bij ministeriële regeling regels stellen ter aanvulling of ter vervanging van de rechtens geldende of gebruikelijke tarieven en voorwaarden.
 
-#### Artikel 12
+##### Artikel 12
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
@@ -114,13 +138,13 @@ Onze Minister kan bepalen, dat houders van vervoermiddelen verplicht zijn:
 
 - e. de hun ter beschikking staande vervoermiddelen naar door hem te geven aanwijzingen te verplaatsen of te doen verplaatsen.
 
-#### Artikel 13
+##### Artikel 13
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
 Onze Minister kan aan een beheerder van infrastructuur die open staat voor het verkeer te land, onderscheidenlijk op binnenwater aanwijzingen geven betreffende het beheer, alsmede andere met betrekking tot het verkeer over die infrastructuur toegekende taken en bevoegdheden. Daarbij kan van de op die infrastructuur en die taken en bevoegdheden betrekking hebbende wetgeving worden afgeweken.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Met het toezicht op de naleving van het bepaalde bij of krachtens dit hoofdstuk en [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=IV&z=2005-03-16&g=2005-03-16) zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.
 
@@ -130,7 +154,7 @@ Onze Minister kan aan een beheerder van infrastructuur die open staat voor het v
 
 4. Onze Minister is bevoegd tot toepassing van bestuursdwang ter handhaving van de krachtens dit hoofdstuk en [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=IV&z=2005-03-16&g=2005-03-16) opgelegde verplichtingen.
 
-#### Artikel 15
+##### Artikel 15
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
@@ -142,7 +166,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 ### Hoofdstuk IV. Registratie en behoud vervoermiddelen
 
-#### Artikel 16
+##### Artikel 16
 
 Onze Minister kan bepalen, dat houders van vervoermiddelen verplicht zijn:
 
@@ -152,7 +176,7 @@ Onze Minister kan bepalen, dat houders van vervoermiddelen verplicht zijn:
 
 - 3°. zorg te dragen, dat die vervoermiddelen op door Onze Minister te bepalen wijze door hem vastgestelde bijzondere kenmerken voeren.
 
-#### Artikel 17
+##### Artikel 17
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
@@ -174,7 +198,7 @@ slechts mag geschieden krachtens een door hem verleende vergunning.
 
 ### Hoofdstuk V. Vergoeding en kosten
 
-#### Artikel 18
+##### Artikel 18
 
 1. Onze Minister kan aan de houder van vervoermiddelen of aan de beheerder van infrastructuur aan wie een aanwijzing is gegeven krachtens [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=10&z=2005-03-16&g=2005-03-16), onderscheidenlijk [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=13&z=2005-03-16&g=2005-03-16), een naar billijkheid te bepalen vergoeding toekennen ter zake van buitengewone kosten door betrokkene gemaakt vanwege de naleving van de aanwijzing.
 
@@ -186,19 +210,19 @@ slechts mag geschieden krachtens een door hem verleende vergunning.
 
 5. Tegen een beslissing ter zake van een vergoeding of een uitkering als bedoeld in het eerste, tweede of vierde lid kan de belanghebbende in beroep komen bij een door Ons te benoemen commissie. Bij algemene maatregel van bestuur regelen Wij de samenstelling der commissie, alsmede de wijze waarop zij bij behandeling van het beroep te werk gaat.
 
-#### Artikel 19
+##### Artikel 19
 
 Vervallen
 
 ### Hoofdstuk VI. Strafbepalingen
 
-#### Artikel 20
+##### Artikel 20
 
 1. Overtreding van het bij of krachtens [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=8&z=2005-03-16&g=2005-03-16), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=9&z=2005-03-16&g=2005-03-16), [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=10&z=2005-03-16&g=2005-03-16), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=12&z=2005-03-16&g=2005-03-16), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=13&z=2005-03-16&g=2005-03-16), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=IV&artikel=16&z=2005-03-16&g=2005-03-16) of [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=IV&artikel=17&z=2005-03-16&g=2005-03-16) bepaalde wordt gestraft met hechtenis van ten hoogste een jaar of geldboete van de derde categorie.
 
 2. Het feit is een overtreding.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Opzettelijke overtreding van het bij of krachtens [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=8&z=2005-03-16&g=2005-03-16), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=9&z=2005-03-16&g=2005-03-16), [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=10&z=2005-03-16&g=2005-03-16), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=12&z=2005-03-16&g=2005-03-16), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=13&z=2005-03-16&g=2005-03-16), of [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=IV&artikel=17&z=2005-03-16&g=2005-03-16) bepaalde wordt gestraft met gevangenisstraf van ten hoogste vijf jaren.
 
@@ -206,31 +230,31 @@ Vervallen
 
 3. Indien het in het eerste lid bedoelde misdrijf wordt begaan in een gebied, waarvoor, op grond van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), of [8, eerste lid, van de Coördinatiewet uitzonderings toestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8), bepalingen uit de [Oorlogswet voor Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0007983) in werking zijn gesteld, kan de straf met een derde worden verhoogd.
 
-#### Artikel 22
+##### Artikel 22
 
 Vervallen
 
-#### Artikel 23
+##### Artikel 23
 
 Dit hoofdstuk is van toepassing op de Nederlander die zich buiten Nederland schuldig maakt aan een bij deze wet strafbaar gesteld feit.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Met de opsporing van de bij deze wet strafbaar gestelde feiten zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), belast de daartoe door Onze Minister aangewezen buitengewone opsporingsambtenaren. Deze ambtenaren zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de [artikelen 179 tot en met 182](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=179) en [184 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=184), voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.
 
 2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-#### Artikel 25
+##### Artikel 25
 
 Bij het opsporen van een bij deze wet strafbaar gesteld feit hebben de in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=VI&artikel=24&z=2005-03-16&g=2005-03-16) bedoelde ambtenaren toegang tot elke plaats en zijn zij bevoegd inzage van alle bescheiden te vorderen, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is.
 
-#### Artikel 26
+##### Artikel 26
 
 Vervallen
 
 ### Hoofdstuk VII. Slotbepalingen
 
-#### Artikel 27
+##### Artikel 27
 
 1. Op voordracht van Onze Ministers van Verkeer en Waterstaat en van Defensie worden bij algemene maatregel van bestuur de autoriteiten aangewezen die krachtens algemeen mandaat of krachtens mandaat voor een bepaald geval en met inachtneming van de bij die maatregel gestelde regelen, in enig gebied de in de [artikelen 8 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=8&z=2005-03-16&g=2005-03-16) omschreven bevoegdheden uitoefenen namens Onze Ministers van Verkeer en Waterstaat en van Defensie.
 
@@ -238,17 +262,17 @@ Vervallen
 
 3. Een mandaat voor een bepaald geval als bedoeld in het eerste lid bevat tenminste de naam of de functie van de mandataris, de bevoegdheid die wordt gemandateerd, de periode waarin het mandaat geldt en het geval waarin de bevoegdheid kan worden uitgeoefend.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Een bij of krachtens deze wet opgelegde verplichting vervalt van rechtswege voorzover het voldoen hieraan zou meebrengen dat niet kan worden voldaan aan een verplichting die voortvloeit uit de uitoefening van buitengewone bevoegdheden ten behoeve van de uitvoering van de militaire taak.
 
 2. Een bij of krachtens deze wet opgelegde verplichting die niet voortvloeit uit de uitoefening van buitengewone bevoegdheden ten behoeve van de uitvoering van de militaire taak, vervalt eveneens van rechtswege voorzover het voldoen hieraan zou meebrengen dat niet kan worden voldaan aan een verplichting die bij of krachtens deze of een andere wet is opgelegd in het belang van de bestrijding van een ramp, een zwaar ongeval of van een verstoring van de openbare orde of van ernstige vrees voor het ontstaan daarvan.
 
-#### Artikel 29
+##### Artikel 29
 
 Vervallen
 
-#### Artikel 30
+##### Artikel 30
 
 Deze wet kan worden aangehaald als Vervoersnoodwet. Zij treedt in werking met ingang van de dag, na de datum van uitgifte van het **Staatsblad**, waarin zij is geplaatst.
 

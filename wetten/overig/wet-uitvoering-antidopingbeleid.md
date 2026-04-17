@@ -1,14 +1,41 @@
 ---
-title: "Wet uitvoering antidopingbeleid"
+title: "Wet van 26 september 2018, houdende regels tot uitvoering van het antidopingbeleid en tot instelling van de Dopingautoriteit (Wet uitvoering antidopingbeleid)"
 identifier: "BWBR0041439"
-categorie: "Overig"
-publicatiedatum: 2025-07-05
-laatste_update: 2025-07-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041439"
+country: "nl"
+rank: "wet"
+publication_date: "2025-07-05"
+last_updated: "2025-07-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041439"
+soort: "wet"
+stam_id: "14835073"
+version_id: "29375102"
+internal_id: "C42211621"
+label_id: "14787094"
+dtd_version: "2.0"
+original_entry_into_force: "2023-08-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041439/2025-07-05/0"
+intitule_bron: "Stb.2018-344"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-09-26"
+intitule_published: "2018-10-12"
+intitule_in_force: "2018-11-16"
+intitule_status: "goed"
+original_publication: "Stb.2023-143"
+original_signed_date: "2023-04-19"
+original_published_date: "2023-04-26"
+original_effect: "structuurwijziging"
+original_dossier: "36179"
+original_url_id: "stb-2023-143"
+entry_into_force_date: "2023-08-15"
+jci_1_3: "jci1.3:c:BWBR0041439&z=2025-07-05&g=2025-07-05"
+jci_1_0: "1.0:c:BWBR0041439&g=2025-07-05"
+citeertitel_status: "officieel"
+short_title: "Wet uitvoering antidopingbeleid"
+signed_date: "2023-04-19"
+entry_into_force: "2023-08-15"
 ---
-
-# Wet uitvoering antidopingbeleid
+# Wet van 26 september 2018, houdende regels tot uitvoering van het antidopingbeleid en tot instelling van de Dopingautoriteit (Wet uitvoering antidopingbeleid)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +43,7 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is om te voorzien in ee
 
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1. Begripsbepaling
+##### Artikel 1. Begripsbepaling
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -56,7 +83,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **Wereld Anti-Doping Code:** door het Wereld Anti-Doping Agentschap vastgestelde document dat de basis vormt voor dopingreglementen en het mondiale antidopingbeleid en dat ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&hoofdstuk=1&artikel=3&z=2025-07-05&g=2025-07-05) is bekendgemaakt.
 
-#### Artikel 2. Algemene regels voor sporters
+##### Artikel 2. Algemene regels voor sporters
 
 1. Iedere sporter draagt ervoor zorg dat hij in het belang van een dopingvrije sport handelt in overeenstemming met een voor hem bindend dopingreglement.
 
@@ -64,13 +91,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Indien een sporter wordt onderworpen aan een dopingcontroleproces en zich verzet tegen het afnemen en verzamelen van lichaamsmonsters vinden die afname en verzameling niet bij hem plaats.
 
-#### Artikel 3. Bekendmaking Wereld Anti-Doping Code
+##### Artikel 3. Bekendmaking Wereld Anti-Doping Code
 
 1. Onze Minister draagt zorg voor de bekendmaking van de Wereld Anti-Doping Code en wijzigingen daarvan in de Staatscourant.
 
 2. De bekendmaking kan geschieden in de Engelse taal.
 
-#### Artikel 4. Instelling Dopingautoriteit
+##### Artikel 4. Instelling Dopingautoriteit
 
 1. Er is een Dopingautoriteit.
 
@@ -80,7 +107,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 4. De Dopingautoriteit is de nationale antidopingorganisatie, bedoeld in de Wereld Anti-Doping Code.
 
-#### Artikel 5. Taken
+##### Artikel 5. Taken
 
 1. De Dopingautoriteit heeft tot taak:
 
@@ -96,7 +123,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 2. De taken, bedoeld in het eerste lid, onderdelen a tot en met d, worden uitgevoerd in overeenstemming met de Wereld Anti-Doping Code en internationale standaarden.
 
-#### Artikel 6. Bevoegdheden
+##### Artikel 6. Bevoegdheden
 
 1. De Dopingautoriteit is ter uitvoering van het dopingcontroleproces bevoegd tot:
 
@@ -124,7 +151,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Onverminderd het elders in deze wet bepaalde is de Dopingautoriteit ter uitvoering van haar wettelijke taken bevoegd tot het verzamelen en verwerken van informatie uit openbare en andere bronnen, waaronder persoonsgegevens van sporters en van begeleiders van sporters als bedoeld in artikel 2, onderdeel 5, van het op 19 oktober 2005 tot stand gekomen Internationaal verdrag tegen doping in de sport (**Trb.** 2006, 194), die verband kunnen houden met mogelijke overtredingen van een dopingreglement.
 
-#### Artikel 7. Inrichting
+##### Artikel 7. Inrichting
 
 1. De Dopingautoriteit bestaat uit ten hoogste drie leden onder wie de voorzitter.
 
@@ -134,17 +161,17 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Bij ministeriële regeling kunnen nadere regels worden gesteld over de procedures die worden gevolgd bij de voordracht van de kandidaat-leden en bij de gezamenlijke opstelling van de functieprofielen, bedoeld in het derde lid.
 
-#### Artikel 8. Bestuursreglement
+##### Artikel 8. Bestuursreglement
 
 1. De Dopingautoriteit stelt een bestuursreglement vast en maakt dit openbaar.
 
 2. Het bestuursreglement, bedoeld in het eerste lid, bevat in elk geval regels over de taakuitoefening, samenwerking en besluitvorming door de leden van de Dopingautoriteit, integriteit, mandaat en volmacht.
 
-#### Artikel 9. Financiering
+##### Artikel 9. Financiering
 
 De kosten van de Dopingautoriteit worden bestreden uit de rijksbegroting, inkomsten uit tarieven en andere inkomsten.
 
-#### Artikel 10. Tarifering
+##### Artikel 10. Tarifering
 
 1. De kosten die samenhangen met het verrichten van de werkzaamheden, bedoeld in [artikel 5, eerste lid, onderdelen b en e](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&hoofdstuk=2&artikel=5&z=2025-07-05&g=2025-07-05), kunnen ten laste worden gebracht van degene ten behoeve van wie deze werkzaamheden worden verricht.
 
@@ -152,11 +179,11 @@ De kosten van de Dopingautoriteit worden bestreden uit de rijksbegroting, inkoms
 
 3. Indien Onze Minister goedkeuring onthoudt aan het besluit tot vaststelling van de begroting, wordt de hoogte van de tarieven, bedoeld in het eerste lid, bij ministeriële regeling vastgesteld. De door Onze Minister vastgestelde tariefhoogten kunnen maximumbedragen zijn.
 
-#### Artikel 11. Toezicht door Onze Minister
+##### Artikel 11. Toezicht door Onze Minister
 
 [Artikel 22, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=22), is niet van toepassing op besluiten van de Dopingautoriteit.
 
-#### Artikel 12. Uitwisseling van gegevens met bestuursorganen en antidopingorganisaties
+##### Artikel 12. Uitwisseling van gegevens met bestuursorganen en antidopingorganisaties
 
 1. De Dopingautoriteit verstrekt het openbaar ministerie, de Inspectie gezondheidszorg en jeugd en de Nederlandse Voedsel- en Warenautoriteit de gegevens die zij behoeven voor de uitvoering van hun taken.
 
@@ -180,7 +207,7 @@ De kosten van de Dopingautoriteit worden bestreden uit de rijksbegroting, inkoms
 
 - b. inzage in de verstrekte gegevens wordt beperkt tot de organisaties wier toegang tot de gegevens noodzakelijk is voor de uitvoering van het dopingcontroleproces.
 
-#### Artikel 13. Overige bepalingen over de verwerking van persoonsgegevens
+##### Artikel 13. Overige bepalingen over de verwerking van persoonsgegevens
 
 1. De gegevensverwerkingen, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&hoofdstuk=2&artikel=6&z=2025-07-05&g=2025-07-05), vinden uitsluitend plaats voor zover dat noodzakelijk is voor de uitvoering van het dopingcontroleproces.
 
@@ -188,17 +215,17 @@ De kosten van de Dopingautoriteit worden bestreden uit de rijksbegroting, inkoms
 
 3. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld ten aanzien van de gegevensverwerkingen, bedoeld in [artikel 6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&hoofdstuk=2&artikel=6&z=2025-07-05&g=2025-07-05), en de gegevensverstrekking, bedoeld in [artikel 12, tweede lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&hoofdstuk=2&artikel=12&z=2025-07-05&g=2025-07-05).
 
-#### Artikel 13a. Evaluatiebepaling
+##### Artikel 13a. Evaluatiebepaling
 
 Onze Minister van Volksgezondheid, Welzijn en Sport zendt binnen vier jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-#### Artikel 14. Instelling Beoordelingscommissie dopingzaken
+##### Artikel 14. Instelling Beoordelingscommissie dopingzaken
 
 1. Er is een Beoordelingscommissie dopingzaken.
 
 2. De Beoordelingscommissie dopingzaken heeft haar zetel in een door Onze Minister te bepalen gemeente.
 
-#### Artikel 15. Taken
+##### Artikel 15. Taken
 
 1. De Beoordelingscommissie dopingzaken is als beroepsorgaan belast met het beroep tegen besluiten van de Dopingautoriteit die genomen worden ter uitvoering van [artikel 5, eerste lid, onder a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&hoofdstuk=2&artikel=5&z=2025-07-05&g=2025-07-05) voor zover ingevolge de Wereld Anti-Doping Code of internationale standaarden die besluiten appellabel zijn, tenzij ingevolge de Wereld Anti-Doping Code of internationale standaarden het Hof van Arbitrage voor Sport:
 
@@ -216,7 +243,7 @@ Onze Minister van Volksgezondheid, Welzijn en Sport zendt binnen vier jaar na de
 
 6. Ter uitvoering van de taak, bedoeld in het eerste lid, maakt de Beoordelingscommissie dopingzaken gebruik van een panel van experts als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&hoofdstuk=3&afdeling=3.1&artikel=17&z=2025-07-05&g=2025-07-05), niet zijnde leden als bedoeld in de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495).
 
-#### Artikel 16. Inrichting en benoeming leden en secretaris
+##### Artikel 16. Inrichting en benoeming leden en secretaris
 
 1. De Beoordelingscommissie dopingzaken bestaat uit één lid, de voorzitter.
 
@@ -236,7 +263,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ### Afdeling 3.1. Algemene bepalingen
 
-#### Artikel 17. Panel van experts dat ingezet wordt voor het uitvoeren van de taak
+##### Artikel 17. Panel van experts dat ingezet wordt voor het uitvoeren van de taak
 
 1. Onze Minister benoemt, schorst en ontslaat de personen die onderdeel zijn van een panel van experts en ingezet worden voor het uitvoeren van de taak, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&hoofdstuk=3&afdeling=3.1&artikel=15&z=2025-07-05&g=2025-07-05).
 
@@ -250,7 +277,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 6. Wanneer een persoon als bedoeld in het eerste lid ingezet wordt om een specifiek beroep te behandelen, wordt een lijst met nevenactiviteiten anders dan uit hoofde van de taak van die persoon beschikbaar gesteld aan belanghebbenden en Onze Minister.
 
-#### Artikel 18. Vergoeding
+##### Artikel 18. Vergoeding
 
 1. De Beoordelingscommissie dopingzaken kan een vergoeding toekennen aan de personen die onderdeel zijn van het panel van experts, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&hoofdstuk=3&afdeling=3.1&artikel=17&z=2025-07-05&g=2025-07-05), en ingezet worden voor het uitvoeren van de taak, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&hoofdstuk=3&afdeling=3.1&artikel=15&z=2025-07-05&g=2025-07-05).
 
@@ -258,33 +285,33 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 3. Bij ministeriële regeling kunnen nadere regels worden vastgesteld met betrekking tot de vergoeding, bedoeld in het eerste lid.
 
-#### Artikel 19. Afwijking van de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495)
+##### Artikel 19. Afwijking van de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495)
 
 [Artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=21) en [22, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=22), zijn niet van toepassing op de besluiten van de Beoordelingscommissie dopingzaken.
 
 ### Afdeling 3.2. Regels over het beroep
 
-#### Artikel 20. Vereisten aan beroep
+##### Artikel 20. Vereisten aan beroep
 
 1. In aanvulling op [artikel 6:6, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:6), kan het beroep niet-ontvankelijk worden verklaard, als niet is voldaan aan vereisten die volgen uit de Wereld Anti-Doping Code, de internationale standaarden, of aan enig ander bij de wet gesteld vereiste voor het in behandeling nemen van het beroep, mits de indiener van het beroep de gelegenheid heeft gehad het verzuim te herstellen binnen een hem daartoe gestelde termijn.
 
 2. Het beroep wordt ook niet-ontvankelijk verklaard als de indiener van het beroep tegen het betreffende besluit al eerder beroep heeft ingediend of als, in voorkomend geval, op het moment dat het besluit werd genomen er geen sprake was van een binding aan een dopingreglement.
 
-#### Artikel 21. Termijnen beroep
+##### Artikel 21. Termijnen beroep
 
 In afwijking van [artikel 6:7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:7) en [artikel 6:8, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:8), gelden voor de beroepstermijn en de aanvang van de beroepstermijn, als de indiener van het beroep het Wereld Anti-Doping Agentschap is, de termijnen bedoeld in de Wereld Anti-Doping Code.
 
-#### Artikel 22. Indienen beroep bij niet (tijdig) nemen besluit
+##### Artikel 22. Indienen beroep bij niet (tijdig) nemen besluit
 
 In afwijking van [artikel 6:12, eerste en tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:12), als de indiener van het beroep het Wereld Anti-Doping Agentschap is, geldt voor het Wereld Anti-Doping Agentschap de termijn, bedoeld in de Wereld Anti-Doping Code.
 
-#### Artikel 23. Schorsende werking
+##### Artikel 23. Schorsende werking
 
 Het beroep schorst niet de werking van het besluit op waartegen het is gericht, tenzij de Beoordelingscommissie dopingzaken anders bepaalt.
 
 ### Afdeling 3.3. Regels over het horen
 
-#### Artikel 24. Horen
+##### Artikel 24. Horen
 
 1. [Artikel 7:19](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:19) en [artikel 7:20, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:20), zijn niet van toepassing.
 
@@ -292,7 +319,7 @@ Het beroep schorst niet de werking van het besluit op waartegen het is gericht, 
 
 3. De Beoordelingscommissie dopingzaken kan personen, anders dan belanghebbenden en anders dan de getuigen en deskundigen bedoeld in [artikel 7:22, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:22), in de gelegenheid stellen om te worden gehoord.
 
-#### Artikel 25. Openbaarheid horen
+##### Artikel 25. Openbaarheid horen
 
 1. De Beoordelingscommissie dopingzaken beslist of het horen in het openbaar plaatsvindt.
 
@@ -306,7 +333,7 @@ Het beroep schorst niet de werking van het besluit op waartegen het is gericht, 
 
 ### Afdeling 3.4. Regels over de beoordeling door en het besluit van de Beoordelingscommissie dopingzaken
 
-#### Artikel 26. Toetsingskader
+##### Artikel 26. Toetsingskader
 
 Als het beroep ontvankelijk is, toetst de Beoordelingscommissie dopingzaken het bestreden besluit waarop het beroep ziet ten behoeve van de beoordeling in ieder geval aan:
 
@@ -316,27 +343,27 @@ Als het beroep ontvankelijk is, toetst de Beoordelingscommissie dopingzaken het 
 
 - c. het van toepassing zijnde dopingreglement.
 
-#### Artikel 27. Termijnen besluit Beoordelingscommissie dopingzaken
+##### Artikel 27. Termijnen besluit Beoordelingscommissie dopingzaken
 
 In afwijking van [artikel 7:24, vierde lid, Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:24), kan de Beoordelingscommissie dopingzaken het besluit voor ten hoogste zes weken verdagen. De Beoordelingscommissie dopingzaken doet hiervan schriftelijk mededeling aan belanghebbenden.
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 28. Evaluatiebepaling
+##### Artikel 28. Evaluatiebepaling
 
 Onze Minister van Volksgezondheid, Welzijn en Sport zendt binnen vier jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-#### Artikel 29. Overgangsrecht
+##### Artikel 29. Overgangsrecht
 
 Na inwerkingtreding van artikel I van de Wet van 19 april 2023 tot wijziging van de Wet uitvoering antidopingbeleid houdende instelling van de Beoordelingscommissie dopingzaken (Stb. 2023, 143), worden de bij de Bezwaarcommissie nationaal Dopingreglement lopende procedures tegen besluiten van de Dopingautoriteit voor zover ingevolge de Wereld Anti-Doping Code of internationale standaarden die beslissingen appellabel zijn, bedoeld in het Reglement bezwaarcommissie nationaal dopingreglement van 1 november 2021, overgedragen aan de Beoordelingscommissie dopingzaken. De Beoordelingscommissie dopingzaken beoordeelt en verricht de afhandeling van deze procedures in overeenstemming met het bepaalde in deze wet, zoals die luidt na inwerkingtreding van dat artikel.
 
-#### Artikel 30. Inwerkingtreding
+##### Artikel 30. Inwerkingtreding
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 2. Wijzigt deze wet.
 
-#### Artikel 31. Citeertitel
+##### Artikel 31. Citeertitel
 
 Deze wet wordt aangehaald als: Wet uitvoering antidopingbeleid.
 

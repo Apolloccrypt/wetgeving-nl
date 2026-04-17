@@ -1,13 +1,35 @@
 ---
 title: "Besluit van de Raad van de Voedsel - en Landbouworganisatie der Verenigde Naties tot instelling van de Caraïbische Planten beschermingscommissie"
 identifier: "BWBV0004206"
-categorie: "Internationaal recht"
-publicatiedatum: 1968-02-22
-laatste_update: 1968-02-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004206"
+country: "nl"
+rank: "verdrag"
+publication_date: "1968-02-22"
+last_updated: "1968-02-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004206"
+soort: "verdrag"
+stam_id: "10004004813"
+version_id: "10004165222"
+internal_id: "C10008335751"
+label_id: "10003989314"
+dtd_version: "2.0"
+original_entry_into_force: "1968-02-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004206/1968-02-22/0"
+intitule_bron: "Trb.1968-138"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1968-10-28"
+intitule_in_force: "1968-10-28"
+intitule_status: "goed"
+original_publication: "Trb.1968-138"
+original_published_date: "1968-10-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1968-138"
+entry_into_force_date: "1968-02-22"
+jci_1_3: "jci1.3:c:BWBV0004206&z=1968-02-22&g=1968-02-22"
+jci_1_0: "1.0:c:BWBV0004206&g=1968-02-22"
+citeertitel_status: "redactioneel"
+entry_into_force: "1968-02-22"
 ---
-
 # Besluit van de Raad van de Voedsel - en Landbouworganisatie der Verenigde Naties tot instelling van de Caraïbische Planten beschermingscommissie
 
 The Council
@@ -26,7 +48,7 @@ Considering further that the establishment of a Plant Protection Commission for 
 
 Hereby establishes under Article VI, paragraph 1, of the Constitution of the Organization, a regional commission to be known as the „Caribbean Plant Protection Commission”, the statutes of which shall be as follows:
 
-#### 1
+##### 1
 
 The purpose of the Commission shall be to strengthen intergovernmental co-operation in plant quarantine in the Caribbean area in order to prevent the introduction of destructive plant pests and diseases and to preserve the existing plant resources of that area and to this effect the terms of reference of the Commission shall be to:
 
@@ -42,30 +64,30 @@ The purpose of the Commission shall be to strengthen intergovernmental co-operat
 
 - (f). Promote arrangements for the training of technical personnel in the field of plant quarantine.
 
-#### 2
+##### 2
 
 Memberschip in the Commission shall be open to all Member Nations and Associate Members of the Food and Agriculture Organization of the United Nations whose territories are situated wholly or partly in the Caribbean Area. Membership shall comprise such eligible Member Nations and Associate Members as have notified the Director-General of the Organization of their desire to be considered as members.
 
-#### 3
+##### 3
 
 Any Member Nation of the Organization and any Associate Member that is not a member of the Commission but has a special interest in the work of the Commission, may, upon request communicated to the Director-General of the Organization, attend as observer, sessions of the Commission and of its subsidiary bodies and **ad hoc** meetings.
 
-#### 4
+##### 4
 
 Nations which, while not Member Nations or Associate Members of the Organization, are members of the United Nations may, upon their request, and with the approval of the Council, be invited to attend in an observer capacity sessions of the Commission, in accordance with the provisions relating to the granting of observer status to nations adopted by the Conference of the Organization.
 
-#### 5
+##### 5
 
 Participation of international organizations in the work of the Commission and the relations between the Commission and such organizations shall be governed by the relevant provisions of the Constitution and the General Rules of the Organization as well as by the rules on relations with international organizations adopted by the Conference or Council of the Organization. All such relations shall be dealt with by the Director-General of the Organization.
 
-#### 6
+##### 6
 
 The Commission shall report and make recommendations to the Council through the Director-General, it being understood that copies of each report, including any conclusions and recommendations, will be circulated to interested Member Governments and international organizations for their information as soon as they become available.
 
-#### 7
+##### 7
 
 The Commission may establish such subsidiary bodies as it deems necessary for the accomplishment of its task, subject to the availability of the necessary funds in the relevant chapter of the approved budget of the Organization; the determination of such availability shall be made by the Director-General. Before taking any decisions involving expenditure in connection with the establishment of subsidiary bodies, the Commission must have before it a report from the Director-General on the administrative and financial implications thereof.
 
-#### 8
+##### 8
 
 The Commission may adopt and amend its own Rules of Procedure which shall be in conformity with the Constitution and the General Rules of the Organization and with the statement of principles governing commissions and committees, adopted by the Conference. The Rules of Procedure and amendments thereto shall come into force upon approval by the Director-General subject to confirmation by the Council.

@@ -1,13 +1,38 @@
 ---
 title: "Uitvoeringsregeling schenk- en erfbelasting"
 identifier: "BWBR0027018"
-categorie: "Belastingrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027018"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027018"
+soort: "ministeriele-regeling"
+stam_id: "10366183"
+version_id: "17033872"
+internal_id: "C23490731"
+label_id: "10341434"
+dtd_version: "2.0"
+original_entry_into_force: "2010-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027018/2026-01-01/0"
+intitule_bron: "Stcrt.2009-20619"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-12-17"
+intitule_published: "2009-12-31"
+intitule_in_force: "2009-12-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-20619"
+original_signed_date: "2009-12-17"
+original_published_date: "2009-12-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-20619"
+entry_into_force_date: "2010-01-01"
+jci_1_3: "jci1.3:c:BWBR0027018&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0027018&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2009-12-17"
+entry_into_force: "2010-01-01"
 ---
-
 # Uitvoeringsregeling schenk- en erfbelasting
 
 Gelet op de [artikelen 1a, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=1a), [16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=16), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=17), [32, eerste lid, onder 8°, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=32), [33, onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33), [35b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35b), [35c, vijfde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35c), [35d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35d), [35e, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35e), [73](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=73) en [75, eerste lid, Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=75).
@@ -16,7 +41,7 @@ Besluit:
 
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Artikel 1. Reikwijdte en definities
+##### Artikel 1. Reikwijdte en definities
 
 1. Deze regeling geeft uitvoering aan de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=17), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33), [35b](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35b), [35c](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35c), [35d](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35d), [35e](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35e) en [73 van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=73).
 
@@ -32,25 +57,25 @@ Besluit:
 
 - −. wet: [Successiewet 1956](onbekend).
 
-#### Artikel 2. Uitbreiding partnerbegrip
+##### Artikel 2. Uitbreiding partnerbegrip
 
 Vervallen
 
-#### Artikel 3. Toerekening afgezonderd particulier vermogen
+##### Artikel 3. Toerekening afgezonderd particulier vermogen
 
 [Artikel 4a van de Uitvoeringsregeling inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&artikel=4a) is van overeenkomstige toepassing op de in [artikel 16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=16) bedoelde verkrijging en de in [artikel 17 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=17) bedoelde schenking.
 
 ### Hoofdstuk II. Vrijstellingen
 
-#### Artikel 4. Aangewezen mogendheid
+##### Artikel 4. Aangewezen mogendheid
 
 Vervallen
 
-#### Artikel 5. Schenking ten behoeve van een eigen woning
+##### Artikel 5. Schenking ten behoeve van een eigen woning
 
 Vervallen
 
-#### Artikel 6. Schenking voor de betaling van kosten van een studie of de opleiding voor een beroep
+##### Artikel 6. Schenking voor de betaling van kosten van een studie of de opleiding voor een beroep
 
 1. Een vrijstelling als bedoeld in [artikel 33, onderdeel 5°, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33) voor een schenking die is bestemd voor de betaling van kosten van een studie of de opleiding voor een beroep ten behoeve van dat kind, welke kosten aanzienlijk hoger zijn dan gebruikelijk, wordt niet verleend voor de aflossing van schulden die zijn aangegaan voor de financiering van een dergelijke studie of opleiding en wordt voorts slechts verleend indien:
 
@@ -64,7 +89,7 @@ Vervallen
 
 ### Hoofdstuk III. Bedrijfsopvolging
 
-#### Artikel 7. Hetgeen tot een objectieve onderneming wordt gerekend
+##### Artikel 7. Hetgeen tot een objectieve onderneming wordt gerekend
 
 1. Onder een objectieve onderneming als bedoeld in [artikel 35b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35b) worden mede begrepen:
 
@@ -84,7 +109,7 @@ Vervallen
 
 5. Voor het eerste en tweede lid is [artikel 35c, elfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35c) van overeenkomstige toepassing.
 
-#### Artikel 8. In het kader van een bedrijfsoverdracht uitgegeven preferente aandelen
+##### Artikel 8. In het kader van een bedrijfsoverdracht uitgegeven preferente aandelen
 
 1. Onder een omzetting van gewone aandelen in preferente aandelen als bedoeld in [artikel 35c, vierde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35c) wordt ook begrepen een uitgifte van preferente aandelen in het kader van een aandelenfusie als bedoeld in [artikel 3.55 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.55), een juridische splitsing als bedoeld in [artikel 3.56 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.56) of een juridische fusie als bedoeld in [artikel 3.57 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.57).
 
@@ -106,7 +131,7 @@ Voor de toepassing van dit lid wordt onder een omzetting van gewone aandelen in 
 
 5. Voor de bepaling of de verkrijger van de preferente aandelen voldoet aan de voorwaarde van [artikel 35c, vierde lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35c) worden de preferente aandelen niet gerekend tot het geplaatste kapitaal. De eerste volzin is van overeenkomstige toepassing voor de toepassing van het derde lid, eerste volzin, onderdeel d.
 
-#### Artikel 9. Bezitsperiode
+##### Artikel 9. Bezitsperiode
 
 1. Aan de periodes, bedoeld in [artikel 35d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35d), is mede voldaan:
 
@@ -146,7 +171,7 @@ De eerste zin vindt geen toepassing indien de overgang krachtens huwelijksvermog
 
 8. Het slot van [artikel 35d, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35d) is niet van toepassing op de toename van het belang, bedoeld in dat slot, van de erflater door de verkrijging van het ondernemingsvermogen, bedoeld in het vierde lid.
 
-#### Artikel 10. Voortzettingsperiode
+##### Artikel 10. Voortzettingsperiode
 
 1. Op verzoek van de verkrijger wordt een gebeurtenis niet als een gebeurtenis als bedoeld in [artikel 35e, eerste lid, onderdelen a en c, onder 1° en 3°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35e) aangemerkt voor zover door die gebeurtenis het belang van de verkrijger in de oorspronkelijk verkregen onderneming niet afneemt, mits:
 
@@ -182,7 +207,7 @@ De eerste zin vindt geen toepassing indien de overgang krachtens huwelijksvermog
 
 ### Hoofdstuk IV. Bijzondere bepalingen
 
-#### Artikel 11. Uitbreiding aangifteplicht
+##### Artikel 11. Uitbreiding aangifteplicht
 
 De in [artikel 73 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=73) bedoelde aangifte wordt ingediend bij de inspecteur en houdt in:
 
@@ -190,23 +215,23 @@ De in [artikel 73 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&ar
 
 - b. een omschrijving van de goederen of bewijsstukken, de rechtsverhouding krachtens welke de aangever deze onder zich heeft, en de aanwijzing van hun bestemming.
 
-#### Artikel 12. Opgave verzekeraar en uitvoerder derdebeding
+##### Artikel 12. Opgave verzekeraar en uitvoerder derdebeding
 
 Vervallen
 
 ### Hoofdstuk V. Overgangs- en slotbepalingen
 
-#### Artikel 13. Intrekking [Uitvoeringsregeling Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0003746)
+##### Artikel 13. Intrekking [Uitvoeringsregeling Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0003746)
 
 1. De [Uitvoeringsregeling Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0003746) wordt ingetrokken.
 
 2. De [Uitvoeringsregeling Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0003746) blijft van toepassing op belastbare feiten in de zin van de wet, zoals die op 31 december 2009 luidde, die zich hebben voorgedaan voor 1 januari 2010.
 
-#### Artikel 14. Inwerkingtreding
+##### Artikel 14. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2010.
 
-#### Artikel 15. Citeertitel
+##### Artikel 15. Citeertitel
 
 Deze regeling kan worden aangehaald als: Uitvoeringsregeling schenk- en erfbelasting.
 

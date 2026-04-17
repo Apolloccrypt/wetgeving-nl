@@ -1,13 +1,38 @@
 ---
 title: "Schenk- en erfbelasting, bedrijfsopvolgingsregeling"
 identifier: "BWBR0032849"
-categorie: "Belastingrecht"
-publicatiedatum: 2024-06-15
-laatste_update: 2024-06-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032849"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2024-06-15"
+last_updated: "2024-06-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032849"
+soort: "beleidsregel"
+stam_id: "12091093"
+version_id: "20151892"
+internal_id: "C28315891"
+label_id: "12063444"
+dtd_version: "2.0"
+original_entry_into_force: "2013-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032849/2024-06-15/0"
+intitule_bron: "Stcrt.2013-2175"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-01-17"
+intitule_published: "2013-01-31"
+intitule_in_force: "2013-01-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-2175"
+original_signed_date: "2013-01-17"
+original_published_date: "2013-01-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-2175"
+entry_into_force_date: "2013-02-01"
+jci_1_3: "jci1.3:c:BWBR0032849&z=2024-06-15&g=2024-06-15"
+jci_1_0: "1.0:c:BWBR0032849&g=2024-06-15"
+citeertitel_status: "redactioneel"
+signed_date: "2013-01-17"
+entry_into_force: "2013-02-01"
 ---
-
 # Schenk- en erfbelasting, bedrijfsopvolgingsregeling
 
 De Staatssecretaris van Financiën heeft het volgende besloten.

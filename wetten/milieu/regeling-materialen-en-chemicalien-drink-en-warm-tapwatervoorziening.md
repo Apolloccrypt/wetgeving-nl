@@ -1,13 +1,39 @@
 ---
-title: "Regeling materialen en chemicaliën drink- en warm tapwatervoorziening"
+title: "Regeling van de Staatssecretaris van Infrastructuur en Milieu van 29 juni 2011, nr. BJZ2011048144, houdende regels met betrekking tot bij de drink- en warm tapwatervoorziening te gebruiken materialen en chemicaliën (Regeling materialen en chemicaliën drink- en warm tapwatervoorziening)"
 identifier: "BWBR0030279"
-categorie: "Milieu"
-publicatiedatum: 2025-10-24
-laatste_update: 2025-10-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030279"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-10-24"
+last_updated: "2025-10-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030279"
+soort: "ministeriele-regeling"
+stam_id: "11401753"
+version_id: "18715872"
+internal_id: "C26111911"
+label_id: "11375614"
+dtd_version: "2.0"
+original_entry_into_force: "2011-07-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030279/2025-10-24/0"
+intitule_bron: "Stcrt.2011-11911"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-06-29"
+intitule_published: "2011-07-18"
+intitule_in_force: "2011-07-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-11911"
+original_signed_date: "2011-06-29"
+original_published_date: "2011-07-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-11911"
+entry_into_force_date: "2011-07-19"
+jci_1_3: "jci1.3:c:BWBR0030279&z=2025-10-24&g=2025-10-24"
+jci_1_0: "1.0:c:BWBR0030279&g=2025-10-24"
+citeertitel_status: "officieel"
+short_title: "Regeling materialen en chemicaliën drink- en warm tapwatervoorziening"
+signed_date: "2011-06-29"
+entry_into_force: "2011-07-19"
 ---
-
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu van 29 juni 2011, nr. BJZ2011048144, houdende regels met betrekking tot bij de drink- en warm tapwatervoorziening te gebruiken materialen en chemicaliën (Regeling materialen en chemicaliën drink- en warm tapwatervoorziening)
 
 Handelende in overeenstemming met de Minister van Binnenlandse Zaken en Koninkrijkrelaties;
@@ -18,7 +44,7 @@ Besluit:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -66,7 +92,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. De commissie
 
-#### Artikel 2
+##### Artikel 2
 
 1. De commissie bestaat uit ten minste zeven leden en ten hoogste elf leden, de voorzitter daaronder begrepen.
 
@@ -74,7 +100,7 @@ In deze regeling wordt verstaan onder:
 
 3. Indien het voor het goed functioneren van de commissie vereist is, kunnen de leden van de commissie door de Minister in hun functie worden geschorst of uit hun functie worden ontslagen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De commissie heeft een secretaris. De secretaris is belast met de ondersteuning van de commissie en met het beheer van door de commissie ten behoeve van de uitvoering van haar taken gevormde gegevensbestanden.
 
@@ -82,7 +108,7 @@ In deze regeling wordt verstaan onder:
 
 3. In bijzondere gevallen kan de secretaris door de Minister in zijn functie worden geschorst en uit zijn functie worden ontslagen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De commissie is belast met het adviseren van de Minister omtrent:
 
@@ -106,7 +132,7 @@ In deze regeling wordt verstaan onder:
 
 3. Bij de uitvoering van de in het eerste en tweede lid genoemde taken kan de commissie zich laten bijstaan door een of meer subcommissies. De benoeming en het ontslag van de leden van een subcommissie worden geregeld in het reglement, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=2&artikel=5&z=2025-10-24&g=2025-10-24).
 
-#### Artikel 5
+##### Artikel 5
 
 1. De commissie stelt bij reglement haar werkwijze vast en de werkwijze van een subcommissie als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=2&artikel=4&z=2025-10-24&g=2025-10-24). De commissie stelt daarbij regels vast met betrekking tot de vergoeding van gemaakte kosten. Het [Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279) is van toepassing.
 
@@ -116,7 +142,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 3. Onderzoek en eisen aan materialen en chemicaliën
 
-#### Artikel 6
+##### Artikel 6
 
 1. Materialen, niet zijnde metalen, en chemicaliën voldoen aan de in de [artikelen 7 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=3&artikel=7&z=2025-10-24&g=2025-10-24) bedoelde eisen. Met het oog daarop worden materialen, niet zijnde metalen, en chemicaliën, alsmede de stoffen waaruit deze zijn samengesteld dan wel die worden gebruikt in het productieproces ervan, op de in die artikelen aangegeven wijze beoordeeld op mogelijke nadelige gevolgen voor de volksgezondheid.
 
@@ -136,7 +162,7 @@ In deze regeling wordt verstaan onder:
 
 9. Producten samengesteld uit materialen, niet zijnde metalen, voldoen aan de eisen voor de organoleptische aspecten, bedoeld in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=C&z=2025-10-24&g=2025-10-24) bij deze regeling, voorzover dat in overeenstemming met [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=A&z=2025-10-24&g=2025-10-24) bij deze regeling voor het desbetreffende product relevant is.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De stoffen waaruit materialen, niet zijnde metalen, en chemicaliën zijn samengesteld dan wel die zijn gebruikt in het productieproces ervan, dragen, met uitzondering van acrylamide, vinylchloride en epichloorhydrine, tot maximaal 10% van de parameterwaarden, genoemd in tabel II van [bijlage A, behorend bij het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&bijlage=A), bij aan de concentratie van die stoffen in drinkwater of warm tapwater of het te behandelen water. Acrylamide, vinylchloride en epichloorhydrine dragen tot maximaal 100% van de parameterwaarden, genoemd in tabel II van bijlage A, behorend bij het besluit, bij aan de concentratie van die stoffen in drinkwater of warm tapwater of het te behandelen water.
 
@@ -150,7 +176,7 @@ In deze regeling wordt verstaan onder:
 
 6. Op de samenstellende componenten van metalen producten en de verontreinigingen hierin, niet opgenomen in de tabel van paragraaf 2.8.3.7 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=A&z=2025-10-24&g=2025-10-24) bij deze regeling, zijn het tweede en derde lid van overeenkomstige toepassing.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Alle materialen kunnen worden onderworpen aan laboratoriumonderzoek, uitgevoerd overeenkomstig [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=C&z=2025-10-24&g=2025-10-24) bij deze regeling, met als doel om na te gaan of aan de eisen van deze regeling wordt voldaan.
 
@@ -172,19 +198,19 @@ In deze regeling wordt verstaan onder:
 
 6. Voor metalen producten die niet voldoen aan de eisen, bedoeld in onderdeel 3 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2025-10-24&g=2025-10-24) bij deze regeling, gelden de eisen voor onderzoek en beoordeling, genoemd in onderdeel 2.8 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=A&z=2025-10-24&g=2025-10-24) bij deze regeling.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Alle chemicaliën kunnen worden onderworpen aan laboratoriumonderzoek, uitgevoerd overeenkomstig [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=A&z=2025-10-24&g=2025-10-24), onderdeel 3, bij deze regeling, met als doel om na te gaan of aan de eisen van deze regeling wordt voldaan.
 
 2. Voor chemicaliën zijn de maximaal toelaatbare gehaltes aan verontreinigingen bij een maximale dosering kleiner zijn dan de limieten, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=3&artikel=7&z=2025-10-24&g=2025-10-24).
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het onderzoek en de beoordeling, bedoeld in de [artikelen 6 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=3&artikel=6&z=2025-10-24&g=2025-10-24), worden uitgevoerd volgens de laatste stand van de wetenschap en techniek.
 
 2. De Minister kan nadere aanwijzingen geven over de wijze waarop het onderzoek en de beoordeling, bedoeld in het eerste lid, worden uitgevoerd.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Stoffen waarvoor na de beoordeling, bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=3&artikel=6&z=2025-10-24&g=2025-10-24) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=3&artikel=7&z=2025-10-24&g=2025-10-24), een MTC is vastgesteld, worden opgenomen in de positieve lijsten van onderdelen 1 en 2 van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&bijlage=B&z=2025-10-24&g=2025-10-24) bij deze regeling. Voorzover de bedoelde beoordeling heeft plaatsgevonden op grond van een aanvraag tot afgifte van een erkende kwaliteitsverklaring wordt een stof niet, dan met toestemming van de aanvrager, opgenomen in de positieve lijsten.
 
@@ -192,11 +218,11 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 4. Erkende kwaliteitsverklaring
 
-#### Artikel 12
+##### Artikel 12
 
 De Minister kan een door een erkende certificeringsinstelling af te geven kwaliteitsverklaring op verzoek van die instelling erkennen, indien die kwaliteitsverklaring en de daarop betrekking hebbende aanvraag voldoen aan de eisen, bedoeld in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=4&artikel=13&z=2025-10-24&g=2025-10-24) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=4&artikel=14&z=2025-10-24&g=2025-10-24).
 
-#### Artikel 13
+##### Artikel 13
 
 1. Bij de aanvraag van een kwaliteitsverklaring als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=4&artikel=12&z=2025-10-24&g=2025-10-24) worden door de aanvrager ten minste de gegevens overgelegd, vermeld in deel A, paragraaf 2.4, van de common approach voor organische materialen, in een door de erkende certificeringsinstelling gewenste vorm.
 
@@ -206,7 +232,7 @@ De Minister kan een door een erkende certificeringsinstelling af te geven kwalit
 
 4. De Minister beslist op een aanvraag als bedoeld in het eerste lid, ten hoogste na zes maanden na het moment waarop de gegevens, bedoeld in het eerste lid, zijn overgelegd.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Onverminderd de eisen, bedoeld in de [artikelen 6 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=3&artikel=6&z=2025-10-24&g=2025-10-24), beschikt de aanvrager, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=4&artikel=13&z=2025-10-24&g=2025-10-24), over een kwaliteitssysteem. Dit systeem omvat ten minste:
 
@@ -248,7 +274,7 @@ De Minister kan een door een erkende certificeringsinstelling af te geven kwalit
 
 8. Indien het in het tweede lid, onder b, bedoelde productieproces niet continu van aard of slechts eenmalig is, worden daarover in aanvulling op [artikel 13 en het eerste tot en met het zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=4&artikel=13&z=2025-10-24&g=2025-10-24), aanvullende voorschriften opgenomen in de bijlage behorende bij de erkende kwaliteitsverklaring.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Een certificeringsinstelling stelt de commissie in kennis van de afgifte van een erkende kwaliteitsverklaring.
 
@@ -260,17 +286,17 @@ De Minister kan een door een erkende certificeringsinstelling af te geven kwalit
 
 3. Indien de gegevens, bedoeld in het tweede lid, niet volledig zijn, kan de commissie aanvullende gegevens opvragen.
 
-#### Artikel 16
+##### Artikel 16
 
 Een kwaliteitsverklaring afgegeven door een onafhankelijke certificeringsinstelling in een andere lidstaat van de Europese Unie of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, is gelijkwaardig aan een erkende kwaliteitsverklaring, voorzover naar het oordeel van de Minister uit de eerstgenoemde kwaliteitsverklaring blijkt dat voldaan wordt aan ten minste gelijkwaardige eisen als bedoeld in deze regeling.
 
-#### Artikel 17
+##### Artikel 17
 
 De Minister geeft in de Staatscourant kennis van de afgifte van een erkende kwaliteitsverklaring dan wel een daaraan gelijkwaardige kwaliteitsverklaring als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0030279&hoofdstuk=4&artikel=16&z=2025-10-24&g=2025-10-24) voor de daarbij genoemde materialen of chemicaliën.
 
 ### Hoofdstuk 5. Biociden
 
-#### Artikel 18
+##### Artikel 18
 
 1. Voor producten, zijnde biociden als bedoeld in Verordening (EU) nr. 528/2012 van het Europees Parlement en de Raad van 22 mei 2012 betreffende het op de markt aanbieden en het gebruik van biociden, die ten behoeve van de voorziening van drink- of warm tapwater hiermee in contact worden gebracht, dan wel daaraan worden toegevoegd met het doel een kwaliteitsverandering van dat water te bewerkstelligen, is naast toelating in overeenstemming met de Verordening, een erkende kwaliteitsverklaring vereist.
 
@@ -278,7 +304,7 @@ De Minister geeft in de Staatscourant kennis van de afgifte van een erkende kwal
 
 ### Hoofdstuk 6. Tijdelijke kwaliteitsverklaring
 
-#### Artikel 19
+##### Artikel 19
 
 1. Producten, niet zijnde biociden als bedoeld in de [Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670) die bestemd zijn om de microbiologische kwaliteit van het drinkwater of warm tapwater te beïnvloeden, worden niet toegepast zonder dat daar door de Minister een tijdelijke kwaliteitsverklaringvoor is afgegeven.
 
@@ -288,7 +314,7 @@ De Minister geeft in de Staatscourant kennis van de afgifte van een erkende kwal
 
 ### Hoofdstuk 7. Overgangs- en slotbepalingen
 
-#### Artikel 20
+##### Artikel 20
 
 1. Deze regeling blijft buiten toepassing voor producten die voor het tijdstip van de inwerkingtreding van deze regeling zijn toegepast in bestaande woninginstallaties, bestaande collectieve leidingnetten, bestaande collectieve watervoorzieningen, bestaande distributienetten en bestaande watervoorzieningswerken.
 
@@ -298,11 +324,11 @@ De Minister geeft in de Staatscourant kennis van de afgifte van een erkende kwal
 
 4. Indien voor materialen en chemicaliën voor het tijdstip van de inwerkingtreding van deze regeling een erkende kwaliteitsverklaring op grond van de [Drinkwaterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338) is afgegeven, wordt die verklaring voor de toepassing van deze regeling aangemerkt als een erkende kwaliteitsverklaring.
 
-#### Artikel 21
+##### Artikel 21
 
 Deze regeling treedt in werking op het tijdstip waarop de [Drinkwaterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338) in werking treedt. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven op of na het tijdstip, bedoeld in de eerste volzin, treedt deze regeling in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 22
+##### Artikel 22
 
 Deze regeling wordt aangehaald als: Regeling materialen en chemicaliën drink- en warm tapwatervoorziening.
 
@@ -1786,13 +1812,13 @@ Indien de resultaten van bovenstaande studies of de chemische structuur van de s
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 20a
+##### Artikel 20a
 
 1. De Minister draagt zorg voor de bekendmaking van de op grond van deze regeling toepasselijke common approach middels terinzagelegging en publicatie op internet.
 
 2. Van de bekendmaking wordt mededeling gedaan in de Staatscourant.
 
-#### Artikel 20b
+##### Artikel 20b
 
 1. Een wijziging van de op grond van deze regeling toepasselijke common approach gaat, tenzij bij besluit van de Minister anders is bepaald, voor de toepassing van deze regeling gelden met ingang van de dag waarop van de wijziging mededeling is gedaan in de Staatscourant.
 

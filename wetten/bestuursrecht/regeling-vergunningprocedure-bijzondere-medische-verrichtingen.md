@@ -1,13 +1,37 @@
 ---
 title: "Regeling vergunningprocedure bijzondere medische verrichtingen"
 identifier: "BWBR0009846"
-categorie: "Bestuursrecht"
-publicatiedatum: 1998-08-29
-laatste_update: 1998-08-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009846"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1998-08-29"
+last_updated: "1998-08-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009846"
+soort: "ministeriele-regeling"
+stam_id: "5091753"
+version_id: "9151162"
+internal_id: "C12173071"
+label_id: "5067444"
+dtd_version: "2.0"
+original_entry_into_force: "1998-08-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009846/1998-08-29/0"
+intitule_bron: "Stcrt.1998-162"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-08-17"
+intitule_published: "1998-08-27"
+intitule_in_force: "1998-08-27"
+intitule_status: "goed"
+original_publication: "Stcrt.1998-162"
+original_signed_date: "1998-08-17"
+original_published_date: "1998-08-27"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1998-08-29"
+jci_1_3: "jci1.3:c:BWBR0009846&z=1998-08-29&g=1998-08-29"
+jci_1_0: "1.0:c:BWBR0009846&g=1998-08-29"
+citeertitel_status: "officieel"
+signed_date: "1998-08-17"
+entry_into_force: "1998-08-29"
 ---
-
 # Regeling vergunningprocedure bijzondere medische verrichtingen
 
 Gelet op [artikel 6, tweede en derde lid, van de Wet op bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&artikel=6);
@@ -16,13 +40,13 @@ Besluit:
 
 #### § 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 Deze regeling heeft betrekking op de vergunning, bedoeld in [artikel 2 van de Wet op bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&artikel=2).
 
 #### § 2. Vergunningprocedure
 
-#### Artikel 2
+##### Artikel 2
 
 1. Op de aanvraag om een vergunning beslist de Minister binnen dertien weken na ontvangst van de aanvraag, behoudens het tweede en derde lid.
 
@@ -32,27 +56,27 @@ Deze regeling heeft betrekking op de vergunning, bedoeld in [artikel 2 van de We
 
 #### § 2. Gegevensverstrekking bij vergunningaanvraag
 
-#### Artikel 3
+##### Artikel 3
 
 De aanvrager van een vergunning legt bij de aanvraag de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009846&bijlage=1&z=1998-08-29&g=1998-08-29) bedoelde gegevens over.
 
 #### § 3. Periodieke gegevensverstrekking
 
-#### Artikel 4
+##### Artikel 4
 
 De houder van een vergunning dient jaarlijks bij de Minister de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009846&bijlage=2&z=1998-08-29&g=1998-08-29) bedoelde gegevens in.
 
 #### § 4. Slotbepalingen
 
-#### Artikel 5
+##### Artikel 5
 
 Het Besluit procedures voor bijzondere functies [Wet ziekenhuisvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0002753) wordt ingetrokken.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling wordt aangehaald als: [Regeling vergunningprocedure bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0009846).
 

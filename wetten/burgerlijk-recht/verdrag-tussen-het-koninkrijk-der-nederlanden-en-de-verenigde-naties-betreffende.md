@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Naties betreffende de zetel van het Internationaal Tribunaal voor de vervolging van personen verantwoordelijk voor ernstige schendingen van het internationaal humanitair recht op het grondgebied van het voormalig Joegoslavië sedert 1991"
 identifier: "BWBV0001138"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2016-09-01
-laatste_update: 2016-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001138"
+country: "nl"
+rank: "verdrag"
+publication_date: "2016-09-01"
+last_updated: "2016-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001138"
+soort: "verdrag"
+stam_id: "10001730353"
+version_id: "10005805882"
+internal_id: "C10009148161"
+label_id: "10001730724"
+dtd_version: "2.0"
+original_entry_into_force: "2016-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001138/2016-09-01/0"
+intitule_bron: "Trb.2016-139"
+intitule_effect: "intrekking-regeling"
+intitule_published: "2016-09-07"
+intitule_in_force: "2016-09-07"
+intitule_status: "vervallen"
+original_publication: "Trb.2016-139"
+original_published_date: "2016-09-07"
+original_effect: "intrekking-regeling"
+original_url_id: "trb-2016-139"
+entry_into_force_date: "2016-09-01"
+jci_1_3: "jci1.3:c:BWBV0001138&z=2016-09-01&g=2016-09-01"
+jci_1_0: "1.0:c:BWBV0001138&g=2016-09-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2016-09-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Naties betreffende de zetel van het Internationaal Tribunaal voor de vervolging van personen verantwoordelijk voor ernstige schendingen van het internationaal humanitair recht op het grondgebied van het voormalig Joegoslavië sedert 1991
 
 The Kingdom of the Netherlands and the United Nations,
@@ -24,123 +46,123 @@ Whereas the United Nations and the Kingdom of the Netherlands wish to conclude a
 
 Have agreed as follows:
 
-#### Article I. Definitions
+##### Article I. Definitions
 
 Vervallen
 
-#### Article II. Purpose and scope of the Agreement
+##### Article II. Purpose and scope of the Agreement
 
 Vervallen
 
-#### Article III. Juridical personality of the Tribunal
+##### Article III. Juridical personality of the Tribunal
 
 Vervallen
 
-#### Article IV. Application of the [General](https://wetten.overheid.nl/jci1.3:c:BWBV0005561) and [Vienna Conventions](https://wetten.overheid.nl/jci1.3:c:BWBV0004345)
+##### Article IV. Application of the [General](https://wetten.overheid.nl/jci1.3:c:BWBV0005561) and [Vienna Conventions](https://wetten.overheid.nl/jci1.3:c:BWBV0004345)
 
 Vervallen
 
-#### Article V. Inviolability of the premises of the Tribunal
+##### Article V. Inviolability of the premises of the Tribunal
 
 Vervallen
 
-#### Article VI. Law and authority on the premises of the Tribunal
+##### Article VI. Law and authority on the premises of the Tribunal
 
 Vervallen
 
-#### Article VII. Protection of the premises of the Tribunal and their vicinity
+##### Article VII. Protection of the premises of the Tribunal and their vicinity
 
 Vervallen
 
-#### Article VIII. Funds, assets and other property
+##### Article VIII. Funds, assets and other property
 
 Vervallen
 
-#### Article IX. Inviolability of archives and all documents of the Tribunal
+##### Article IX. Inviolability of archives and all documents of the Tribunal
 
 Vervallen
 
-#### Article X. Exemption from taxes and duties
+##### Article X. Exemption from taxes and duties
 
 Vervallen
 
-#### Article XI. Communications facilities
+##### Article XI. Communications facilities
 
 Vervallen
 
-#### Article XII. Public services for the premises of the Tribunal
+##### Article XII. Public services for the premises of the Tribunal
 
 Vervallen
 
-#### Article XIII. Flag, emblem and markings
+##### Article XIII. Flag, emblem and markings
 
 Vervallen
 
-#### Article XIV. Privileges and immunities of the Judges, the Prosecutor and the Registrar
+##### Article XIV. Privileges and immunities of the Judges, the Prosecutor and the Registrar
 
 Vervallen
 
-#### Article XV. Privileges and immunities of officials of the Tribunal
+##### Article XV. Privileges and immunities of officials of the Tribunal
 
 Vervallen
 
-#### Article XV bis. Employment of Family Members of Officials
+##### Article XV bis. Employment of Family Members of Officials
 
 Vervallen
 
-#### Article XVI. Personnel recruited locally and assigned to hourly rates
+##### Article XVI. Personnel recruited locally and assigned to hourly rates
 
 Vervallen
 
-#### Article XVII. Persons performing missions for the Tribunal
+##### Article XVII. Persons performing missions for the Tribunal
 
 Vervallen
 
-#### Article XVIII. Witnesses and experts appearing before the Tribunal
+##### Article XVIII. Witnesses and experts appearing before the Tribunal
 
 Vervallen
 
-#### Article XIX. Counsel
+##### Article XIX. Counsel
 
 Vervallen
 
-#### Article XX. The suspect or accused
+##### Article XX. The suspect or accused
 
 Vervallen
 
-#### Article XXI. Co-operation with the competent authorities
+##### Article XXI. Co-operation with the competent authorities
 
 Vervallen
 
-#### Article XXII. Notification
+##### Article XXII. Notification
 
 Vervallen
 
-#### Article XXIII. Entry into, exit from and movement within the host country
+##### Article XXIII. Entry into, exit from and movement within the host country
 
 Vervallen
 
-#### Article XXIV. United Nations Laissez-passer and certificate
+##### Article XXIV. United Nations Laissez-passer and certificate
 
 Vervallen
 
-#### Article XXV. Identification cards
+##### Article XXV. Identification cards
 
 Vervallen
 
-#### Article XXVI. Security, safety and protection of persons referred to in this Agreement
+##### Article XXVI. Security, safety and protection of persons referred to in this Agreement
 
 Vervallen
 
-#### Article XXVII. Social security and Pension Fund
+##### Article XXVII. Social security and Pension Fund
 
 Vervallen
 
-#### Article XXVIII. Settlement of disputes
+##### Article XXVIII. Settlement of disputes
 
 Vervallen
 
-#### Article XXIX. Final provisions
+##### Article XXIX. Final provisions
 
 Vervallen
 

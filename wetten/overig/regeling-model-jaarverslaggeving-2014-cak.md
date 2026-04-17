@@ -1,13 +1,36 @@
 ---
-title: "Regeling Model Jaarverslaggeving 2014 CAK"
+title: "Model Jaarverslaggeving 2014 CAK"
 identifier: "BWBR0035801"
-categorie: "Overig"
-publicatiedatum: 2014-11-24
-laatste_update: 2014-11-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035801"
+country: "nl"
+rank: "zbo"
+publication_date: "2014-11-24"
+last_updated: "2014-11-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035801"
+soort: "zbo"
+stam_id: "12853503"
+version_id: "21837152"
+internal_id: "C31341281"
+label_id: "12824354"
+dtd_version: "2.0"
+original_entry_into_force: "2014-11-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035801/2014-11-24/0"
+intitule_bron: "Stcrt.2014-32964"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2014-11-24"
+intitule_in_force: "2014-11-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-32964"
+original_published_date: "2014-11-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-32964"
+entry_into_force_date: "2014-11-24"
+jci_1_3: "jci1.3:c:BWBR0035801&z=2014-11-24&g=2014-11-24"
+jci_1_0: "1.0:c:BWBR0035801&g=2014-11-24"
+citeertitel_status: "redactioneel"
+short_title: "Regeling Model Jaarverslaggeving 2014 CAK"
+entry_into_force: "2014-11-24"
 ---
-
 # Model Jaarverslaggeving 2014 CAK
 
 ### Deel I. Verantwoordingsinformatie VWS

@@ -1,14 +1,40 @@
 ---
-title: "Wet gedwongen tenuitvoerlegging van uitspraken en beschikkingen ingevolge Verdrag tot oprichting van de Europese Gemeenschappen voor kolen en staal"
+title: "Wet van 24 februari 1955, houdende regeling van gedwongen tenuitvoerlegging van uitspraken en beschikkingen van Europese Gemeenschappen"
 identifier: "BWBR0002172"
-categorie: "Internationaal recht"
-publicatiedatum: 2015-07-01
-laatste_update: 2015-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002172"
+country: "nl"
+rank: "wet"
+publication_date: "2015-07-01"
+last_updated: "2015-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002172"
+soort: "wet"
+stam_id: "282663"
+version_id: "11687092"
+internal_id: "C15749931"
+label_id: "276644"
+dtd_version: "2.0"
+original_entry_into_force: "2005-02-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002172/2015-07-01/0"
+intitule_bron: "Stb.1955-73"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1955-02-24"
+intitule_status: "goed"
+original_publication: "Stb.2005-91"
+original_signed_date: "2005-02-03"
+original_published_date: "2005-03-03"
+original_effect: "structuurwijziging"
+original_dossier: "29723"
+original_url_id: "stb-2005-91"
+entry_into_force_date: "2005-02-03"
+entry_into_force_dossier: "29723"
+jci_1_3: "jci1.3:c:BWBR0002172&z=2015-07-01&g=2015-07-01"
+jci_1_0: "1.0:c:BWBR0002172&g=2015-07-01"
+citeertitel_status: "redactioneel"
+short_title: "Wet gedwongen tenuitvoerlegging van uitspraken en beschikkingen ingevolge Verdrag tot oprichting van de Europese Gemeenschappen voor kolen en staal"
+signed_date: "2005-02-03"
+entry_into_force: "2005-02-03"
 ---
-
-# Wet gedwongen tenuitvoerlegging van uitspraken en beschikkingen ingevolge Verdrag tot oprichting van de Europese Gemeenschappen voor kolen en staal
+# Wet van 24 februari 1955, houdende regeling van gedwongen tenuitvoerlegging van uitspraken en beschikkingen van Europese Gemeenschappen
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,11 +42,11 @@ Alzo Wij in overweging genomen hebben, dat het nodig is regelen te stellen betre
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 De aanvraag tot het doen aanbrengen van de formule tot gedwongen tenuitvoerlegging van uitspraken en beschikkingen, die ingevolge het Verdrag tot oprichting van de Europese Gemeenschap en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie kunnen worden tenuitvoergelegd, wordt in Nederland gericht tot Onze Minister van Justitie.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De aanvragende partij zendt aan Onze Minister van Justitie haar aanvraag en een exemplaar van de uitspraak of beschikking.
 
@@ -40,25 +66,25 @@ De aanvraag tot het doen aanbrengen van de formule tot gedwongen tenuitvoerleggi
 
 9. Geschillen over de tenuitvoerlegging worden gebracht voor de rechter van de plaats van tenuitvoerlegging.
 
-#### Artikel 3
+##### Artikel 3
 
 Genoemde Griffier houdt in een afzonderlijk register aantekening van al hetgeen hij ingevolge deze wet ontvangt, verricht en afgeeft.
 
-#### Artikel 4
+##### Artikel 4
 
 Griffierechten zijn ter zake van de toepassing van deze wet niet verschuldigd.
 
-#### Artikel 5
+##### Artikel 5
 
 Onze Minister van Justitie zendt een exemplaar van alle gegevens, die hij van de in genoemde Verdragen bedoelde Instellingen ontvangt ter verificatie van de authenticiteit van expedities van genoemde uitspraken en beschikkingen, onverwijld aan de Griffier van de Hoge Raad der Nederlanden.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad**, waarin zij wordt geplaatst.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 5a
+##### Artikel 5a
 
 De gedwongen tenuitvoerlegging van uitspraken en beschikkingen, die ingevolge het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal kunnen worden tenuitvoergelegd, en die zijn genomen voor 23 juli 2002, vindt plaats overeenkomstig deze wet.
 

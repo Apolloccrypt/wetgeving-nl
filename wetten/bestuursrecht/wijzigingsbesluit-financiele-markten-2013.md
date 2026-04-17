@@ -1,13 +1,39 @@
 ---
-title: "Wijzigingsbesluit financiële markten 2013"
+title: "Besluit van 21 december 2012 tot wijziging van het Besluit Gedragstoezicht financiële ondernemingen Wft, het Besluit marktmisbruik Wft, het Besluit prudentiële regels Wft, alsmede enige andere besluiten op het terrein van de financiële markten (Wijzigingsbesluit financiële markten 2013)"
 identifier: "BWBR0032731"
-categorie: "Bestuursrecht"
-publicatiedatum: 2013-09-18
-laatste_update: 2013-09-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032731"
+country: "nl"
+rank: "amvb"
+publication_date: "2013-09-18"
+last_updated: "2013-09-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032731"
+soort: "AMvB"
+stam_id: "12038343"
+version_id: "20046182"
+internal_id: "C28156261"
+label_id: "12010104"
+dtd_version: "2.0"
+original_entry_into_force: "2013-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032731/2013-09-18/0"
+intitule_bron: "Stb.2012-695"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-12-21"
+intitule_published: "2012-12-28"
+intitule_in_force: "2012-12-28"
+intitule_status: "goed"
+original_publication: "Stb.2012-695"
+original_signed_date: "2012-12-21"
+original_published_date: "2012-12-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2012-695"
+entry_into_force_date: "2013-01-01"
+jci_1_3: "jci1.3:c:BWBR0032731&z=2013-09-18&g=2013-09-18"
+jci_1_0: "1.0:c:BWBR0032731&g=2013-09-18"
+citeertitel_status: "officieel"
+short_title: "Wijzigingsbesluit financiële markten 2013"
+signed_date: "2012-12-21"
+entry_into_force: "2013-01-01"
 ---
-
 # Besluit van 21 december 2012 tot wijziging van het Besluit Gedragstoezicht financiële ondernemingen Wft, het Besluit marktmisbruik Wft, het Besluit prudentiële regels Wft, alsmede enige andere besluiten op het terrein van de financiële markten (Wijzigingsbesluit financiële markten 2013)
 
 Op de voordracht van Onze Minister van Financiën van 18 september 2012, FM/2012/1319M, Generale Thesaurie, directie Financiële Markten;
@@ -20,43 +46,43 @@ Gezien het nader rapport van Onze Minister van Financiën van 21 december 2012, 
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Besluit Gedragstoezicht financiële ondernemingen Wft.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Besluit financiële markten BES.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Besluit marktmisbruik Wft.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het Besluit Markttoegang financiële ondernemingen Wft.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Besluit prudentiële regels Wft.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt het Besluit bestuurlijke boetes financiële sector.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt het Wijzigingsbesluit financiële markten 2010.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt het Uitvoeringsbesluit Wet ter voorkoming van witwassen en financieren van terrorisme.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt het Besluit reikwijdtebepalingen Wft.
 
-#### Artikel X
+##### Artikel X
 
 Dit besluit treedt in werking met ingang van 1 januari 2013, met uitzondering van:
 
@@ -68,7 +94,7 @@ Dit besluit treedt in werking met ingang van 1 januari 2013, met uitzondering va
 
 - d. [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0032731&artikel=VIII&z=2013-09-18&g=2013-09-18), dat, indien het bij koninklijke boodschap van 19 april 2012 ingediende voorstel van wet tot wijziging van de Wet ter voorkoming van witwassen en financieren van terrorisme en de Wet ter voorkoming van witwassen en financieren van terrorisme BES in verband met de implementatie van aanbevelingen van de Financial Action Task Force (33 238) tot wet is of wordt verheven, in werking treedt op het tijdstip waarop artikel I van die wet in werking treedt.
 
-#### Artikel XI
+##### Artikel XI
 
 Dit besluit wordt aangehaald als: Wijzigingsbesluit financiële markten 2013.
 

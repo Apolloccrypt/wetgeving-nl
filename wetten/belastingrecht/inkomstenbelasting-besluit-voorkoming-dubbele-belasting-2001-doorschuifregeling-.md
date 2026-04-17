@@ -1,13 +1,38 @@
 ---
 title: "Inkomstenbelasting, Besluit voorkoming dubbele belasting 2001, doorschuifregeling na overlijden"
 identifier: "BWBR0026370"
-categorie: "Belastingrecht"
-publicatiedatum: 2009-09-15
-laatste_update: 2009-09-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026370"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2009-09-15"
+last_updated: "2009-09-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026370"
+soort: "beleidsregel"
+stam_id: "10174953"
+version_id: "16648472"
+internal_id: "C22919751"
+label_id: "10150894"
+dtd_version: "2.0"
+original_entry_into_force: "2009-09-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026370/2009-09-15/0"
+intitule_bron: "Stcrt.2009-13654"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-09-07"
+intitule_published: "2009-09-14"
+intitule_in_force: "2009-09-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-13654"
+original_signed_date: "2009-09-07"
+original_published_date: "2009-09-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-13654"
+entry_into_force_date: "2009-09-15"
+jci_1_3: "jci1.3:c:BWBR0026370&z=2009-09-15&g=2009-09-15"
+jci_1_0: "1.0:c:BWBR0026370&g=2009-09-15"
+citeertitel_status: "redactioneel"
+signed_date: "2009-09-07"
+entry_into_force: "2009-09-15"
 ---
-
 # Inkomstenbelasting, Besluit voorkoming dubbele belasting 2001, doorschuifregeling na overlijden
 
 De staatssecretaris van Financiën heeft het volgende besloten.

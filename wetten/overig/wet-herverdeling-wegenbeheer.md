@@ -1,14 +1,38 @@
 ---
-title: "Wet herverdeling wegenbeheer"
+title: "Wet van 29 oktober 1992, tot herverdeling van het wegenbeheer over Rijk, provincies, gemeenten en waterschappen en daarmee samenhangende herziening van de financiering van de wegenzorg"
 identifier: "BWBR0005697"
-categorie: "Overig"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005697"
+country: "nl"
+rank: "wet"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005697"
+soort: "wet"
+stam_id: "366493"
+version_id: "540002"
+internal_id: "C540001"
+label_id: "358444"
+dtd_version: "2.0"
+original_entry_into_force: "1992-11-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005697/2024-01-01/0"
+intitule_bron: "Stb.1992-563"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-10-29"
+intitule_status: "goed"
+original_publication: "Stb.1992-563"
+original_signed_date: "1992-10-29"
+original_effect: "nieuwe-regeling"
+original_dossier: "22476"
+entry_into_force_date: "1992-11-04"
+entry_into_force_dossier: "22476"
+jci_1_3: "jci1.3:c:BWBR0005697&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0005697&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet herverdeling wegenbeheer"
+signed_date: "1992-10-29"
+entry_into_force: "1992-11-04"
 ---
-
-# Wet herverdeling wegenbeheer
+# Wet van 29 oktober 1992, tot herverdeling van het wegenbeheer over Rijk, provincies, gemeenten en waterschappen en daarmee samenhangende herziening van de financiering van de wegenzorg
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +42,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk I. Inleidende bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -30,7 +54,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. tunnel: een civieltechnisch bouwwerk waarmee een weg door of onder een weg of een oppervlaktewater wordt geleid of waarmee een oppervlaktewater door of onder een weg wordt geleid, mits dit bouwwerk niet tevens een weg door middel van een overspanning met daarop de wegverharding of het wegdek leidt over een weg of een oppervlaktewater.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De wegen onderscheidenlijk bruggen in de zin van deze wet zijn alleen de wegen onderscheidenlijk bruggen die in beheer zijn bij het Rijk, een provincie, een gemeente of een waterschap, alsmede bij een openbaar lichaam dat onder toepassing van de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) (**Stb.** 1984, 669) is ingesteld, met dien verstande dat door toepassing van [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005697&hoofdstuk=II&artikel=5&z=2024-01-01&g=2024-01-01), ook andere wegen en door toepassing van [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005697&hoofdstuk=II&artikel=6&z=2024-01-01&g=2024-01-01), ook andere bruggen onder de werking van deze wet kunnen worden gebracht.
 
@@ -56,7 +80,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk II. Herverdeling wegenbeheer
 
-#### Artikel 3
+##### Artikel 3
 
 1. Provinciale staten stellen, uiterlijk acht weken voor de overgangsdatum, een herverdelingsplan vast.
 
@@ -86,7 +110,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - f. van elk van de krachtens onderdeel **a**, onderscheidenlijk onderdeel **c**, onderscheidenlijk onderdeel **e** aangewezen wegen, bruggen en tunnels met overgaande bijbehorende werken en voorzieningen voor het wegverkeer een aanduiding van de onroerende zaken en van de rechten waaraan onroerende zaken zijn onderworpen, voor zover die zaken en rechten toebehoren aan de oude beheerder en na de beheersovergang dienen over te gaan op de nieuwe beheerder.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De in [artikel 3, tweede lid, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0005697&hoofdstuk=II&artikel=3&z=2024-01-01&g=2024-01-01), bedoelde aanwijzing geschiedt zodanig dat op de overgangsdatum
 
@@ -130,7 +154,7 @@ in beheer zal zijn bij het Rijk onderscheidenlijk de provincie, als de eerstbedo
 
 in beheer zullen zijn bij het overliggende waterschap.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Indien blijkens een tijdig aan provinciale staten gezonden mededeling het Rijk onderscheidenlijk een provincie met een gemeente is overeengekomen dat:
 
@@ -148,7 +172,7 @@ wordt deze overeenkomst bij de in [artikel 3, tweede lid, onderdeel **a**](https
 
 5. Indien een waterschap bij de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005697&hoofdstuk=II&artikel=4&z=2024-01-01&g=2024-01-01), bedoelde ordening de plaats heeft ingenomen van een gemeente, zijn het eerste tot en met het derde lid van toepassing met dien verstande dat voor "gemeente" wordt gelezen: waterschap. In het geval dat overleg met een waterschap om te komen tot een overeenkomst als bedoeld in het eerste, onderscheidenlijk tweede, onderscheidenlijk derde lid, niet tot overeenstemming heeft geleid, is alsnog het eerste, onderscheidenlijk tweede, onderscheidenlijk derde lid ongewijzigd van toepassing.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De in [artikel 3, tweede lid, onderdeel **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0005697&hoofdstuk=II&artikel=3&z=2024-01-01&g=2024-01-01), bedoelde aanwijzing geschiedt zodanig dat, tenzij naar de mening van provinciale staten om redenen van praktische aard anders moet worden besloten, op de overgangsdatum een brug die mede een functie vervult voor een in beheer overgaande weg, in beheer zal zijn bij
 
@@ -172,23 +196,23 @@ op de overgangsdatum de weg of een van de andere over of onder deze weg geleide 
 
 5. In geval een brug in beheer is bij een openbaar lichaam dat is gevormd onder toepassing van de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740), en het publiekrechtelijke lichaam bij welk krachtens het eerste lid de brug in beheer zou komen, voor het beheer van bruggen als de bedoelde brug deelneemt aan de gemeenschappelijke regeling, wordt de brug niet in het herverdelingsplan opgenomen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De in [artikel 3, tweede lid, onderdeel **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0005697&hoofdstuk=II&artikel=3&z=2024-01-01&g=2024-01-01), bedoelde aanduiding geschiedt wat de in subonderdeel 2 bedoelde uitzondering en de in de subonderdeel 3 bedoelde uitbreiding betreft, op voorstel van de oude beheerder in overeenstemming met de nieuwe beheerder.
 
 2. Het eerste lid is van overeenkomstige toepassing op de in de subonderdelen 2 en 3 van [artikel 3, tweede lid, onderdeel **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0005697&hoofdstuk=II&artikel=3&z=2024-01-01&g=2024-01-01), bedoelde uitzondering en uitbreiding.
 
-#### Artikel 8
+##### Artikel 8
 
 Gedeputeerde staten zenden onverwijld aan de belanghebbende beheerders, alsmede aan Onze Minister, de onderdelen die zijn bedoeld in [artikel 3, tweede lid, onderdelen **a, c** en **e**](https://wetten.overheid.nl/jci1.3:c:BWBR0005697&hoofdstuk=II&artikel=3&z=2024-01-01&g=2024-01-01), en voorts aan elk van de belanghebbende beheerders de op hem betrekking hebbende overige onderdelen van het herverdelingsplan toe.
 
-#### Artikel 9
+##### Artikel 9
 
 Tegen het besluit, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005697&hoofdstuk=II&artikel=3&z=2024-01-01&g=2024-01-01), kunnen belanghebbende beheerders met uitzondering van de provincie binnen zes weken na de datum van de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005697&hoofdstuk=II&artikel=8&z=2024-01-01&g=2024-01-01) bedoelde toezending van het besluit beroep op de Kroon instellen.
 
 ### Hoofdstuk III. Beheersovergang en gevolgen
 
-#### Artikel 10
+##### Artikel 10
 
 1. Met ingang van een bij koninklijk besluit te bepalen datum
 
@@ -210,31 +234,31 @@ Tegen het besluit, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl
 
 4. Met ingang van de dag voor de overgangsdatum worden de in de herverdelingsplannen opgenomen wegen die behoren tot de in [artikel 2, tweede lid, onderdeel **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0005697&hoofdstuk=I&artikel=2&z=2024-01-01&g=2024-01-01), subonderdeel 1, bedoelde categorie, openbaar in de zin van de [Wegenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001948), indien zij niet uit andere hoofde inmiddels openbaar in de zin van de [Wegenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001948) zijn geworden.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Met ingang van de overgangsdatum gaan de rechten en plichten die betrekking hebben op de weg en de overgaande bijbehorende werken en voorzieningen, met uitzondering van lopende vorderingen ontstaan voor de overgangsdatum uit een of meer overeenkomsten of krachtens de wet, van de oude beheerder over op de nieuwe beheerder, onverminderd het bepaalde in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0005697&hoofdstuk=III&artikel=13&z=2024-01-01&g=2024-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0005697&hoofdstuk=III&artikel=14&z=2024-01-01&g=2024-01-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0005697&hoofdstuk=III&artikel=16&z=2024-01-01&g=2024-01-01).
 
 2. Indien niet op de oude beheerder, maar op een openbaar lichaam dat onder toepassing van de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) is ingesteld, de plicht rust een in beheer overgaande weg te onderhouden, en de oude beheerder aan de desbetreffende gemeenschappelijke regeling deelneemt, komt in afwijking van het eerste lid de onderhoudsplicht van het openbaar lichaam met ingang van de overgangsdatum te vervallen, en gaan met ingang van de overgangsdatum de rechten en plichten van het openbare lichaam voor zover zij betrekking hebben op het onderhoud van de weg, over op de nieuwe beheerder.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De oude beheerder draagt, tenzij de oude en de nieuwe beheerder anders zijn overeengekomen, er zorg voor dat de in beheer overgaande weg en de naar de nieuwe beheerder overgaande bijbehorende werken en voorzieningen voor het wegverkeer op de dag voor de overgangsdatum in voldoende staat verkeren.
 
 2. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld volgens welke wordt bepaald of een weg in voldoende staat van onderhoud verkeert.
 
-#### Artikel 13
+##### Artikel 13
 
 De oude beheerder draagt de archiefbescheiden betrekking hebbend op aangelegenheden omtrent de aanleg, het beheer en het onderhoud van de weg en van de naar de nieuwe beheerder overgaande bijbehorende werken en voorzieningen voor het wegverkeer, welke op de overgangsdatum nog niet zijn afgedaan, over aan de nieuwe beheerder.
 
-#### Artikel 14
+##### Artikel 14
 
 De oude en de nieuwe beheerder zijn verplicht binnen zesendertig maanden na de overgangsdatum over te gaan tot onvoorwaardelijke levering, onderscheidenlijk aanvaarding van onroerende zaken en rechten als bedoeld in [artikel 3, tweede lid, onderdeel **f**](https://wetten.overheid.nl/jci1.3:c:BWBR0005697&hoofdstuk=II&artikel=3&z=2024-01-01&g=2024-01-01), alsmede voor zover de verhouding tussen de oude en de nieuwe beheerder daartoe noodzaakt, tot onvoorwaardelijke vestiging, wijziging of afstand van rechten waaraan onroerende zaken zijn onderworpen.
 
-#### Artikel 15
+##### Artikel 15
 
 Ten aanzien van onroerende zaken en rechten daarop die onderwerp zijn van een beroep als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005697&hoofdstuk=II&artikel=9&z=2024-01-01&g=2024-01-01), vangt de termijn, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005697&hoofdstuk=III&artikel=14&z=2024-01-01&g=2024-01-01), aan op de dag van de uitspraak van de Kroon.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0005697&hoofdstuk=III&artikel=11&z=2024-01-01&g=2024-01-01) bedoelde overgang van rechten en verplichtingen en de in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005697&hoofdstuk=III&artikel=14&z=2024-01-01&g=2024-01-01) bedoelde levering en vestiging, wijziging of afstand van rechten geschieden om niet.
 
@@ -242,13 +266,13 @@ Ten aanzien van onroerende zaken en rechten daarop die onderwerp zijn van een be
 
 3. Indien de nieuwe beheerder binnen tien jaar na de overgangsdatum ten gevolge van het bestaan of het bestaan hebben van een verkooppunt van motorbrandstoffen schade lijdt door verontreiniging van de bodem waarop de weg die hij in beheer heeft gekregen, of bijbehorende werken en voorzieningen voor het wegverkeer onder zijn zorg zijn komen te vallen, zijn aangelegd, terwijl de verontreiniging is ontstaan voor de overgangsdatum, en het optreden van de schade hem niet kan worden toegerekend, vergoedt, tenzij de oude en de nieuwe beheerder anders zijn overeengekomen, de oude beheerder de schade aan de nieuwe beheerder.
 
-#### Artikel 17
+##### Artikel 17
 
 De [artikelen 11 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0005697&hoofdstuk=III&artikel=11&z=2024-01-01&g=2024-01-01) zijn van overeenkomstige toepassing als krachtens [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005697&hoofdstuk=III&artikel=10&z=2024-01-01&g=2024-01-01), een brug of krachtens [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005697&hoofdstuk=III&artikel=10&z=2024-01-01&g=2024-01-01), een tunnel in beheer overgaat.
 
 ### Hoofdstuk IV. Personeel
 
-#### Artikel 18
+##### Artikel 18
 
 In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -258,7 +282,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. provinciaal plaatsingsplan: een provinciaal plaatsingsplan als bedoeld in de artikelen 4.2 juncto 4.3 van het Sociaal Statuut.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De oude beheerder biedt, tenzij het provinciaal plaatsingsplan niet voorziet in een mogelijkheid tot plaatsing bij een van de nieuwe beheerders, namens een nieuwe beheerder het personeelslid een functie aan bij die nieuwe beheerder.
 
@@ -274,13 +298,13 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Het personeelslid dat bezwaar heeft tegen het aanbod, bedoeld in het eerste lid, of tegen de mededeling, bedoeld in het derde lid, kan binnen dertig dagen na de dag waarop het aanbod dan wel de mededeling is gedaan, een bezwaarschrift indienen bij de oude beheerder. De oude beheerder neemt, in overeenstemming met de nieuwe beheerder dan wel beheerders, over het bezwaar geen beslissing dan nadat hij advies heeft ingewonnen bij een bezwarencommissie zoals bedoeld in artikel 4.36 van het Sociaal Statuut.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Het personeelslid dat niet tijdig bezwaar heeft gemaakt tegen het aanbod, bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005697&hoofdstuk=IV&artikel=19&z=2024-01-01&g=2024-01-01), en het personeelslid dat binnen twee weken na ontvangst van de afwijzende beslissing op het bezwaarschrift aan de oude beheerder laat weten dat hij het aanbod alsnog aanvaardt, gaat met ingang van de overgangsdatum over in dienst bij de nieuwe beheerder in een dienstverband van tenminste dezelfde aard als voor het personeelslid op de dag voor de overgangsdatum gold.
 
 2. Door de overgang in dienst bij de nieuwe beheerder is het personeelslid van rechtswege eervol ontslagen uit de dienst van de oude beheerder.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Onze Minister stelt nadere regels betreffende het aanbieden van functies aan personeelsleden, het in dienst overgaan, de arbeidsvoorwaarden voor een in dienst overgaand personeelslid, de om-, her- en bijscholing van een personeelslid en het behandelen van bezwaren van een personeelslid.
 
@@ -288,7 +312,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk V. Financiële verhouding
 
-#### Artikel 22
+##### Artikel 22
 
 1. Indien ingevolge [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005697&hoofdstuk=II&artikel=4&z=2024-01-01&g=2024-01-01), of [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005697&hoofdstuk=II&artikel=4&z=2024-01-01&g=2024-01-01), een waterschap op de overgangsdatum wegen in beheer heeft, verstrekt elk van de gemeenten waar door het waterschap beheerde wegen zijn gelegen, aan het waterschap jaarlijks een bijdrage in de kosten van de wegenzorg.
 
@@ -300,7 +324,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 5. Met ingang van het eerste jaar na het jaar waarin de overgangsdatum valt, bedraagt de bijdrage het resultaat van een berekening waarbij het bedrag van de bijdrage in het voorgaande jaar, na toepassing van het vorige lid, wordt verhoogd onderscheidenlijk verlaagd met het percentage waarmee het Gemeentefonds in het uitkeringsjaar in verband met algemene loon- en prijswijzigingen groeit onderscheidenlijk afneemt ten opzichte van het voorgaande uitkeringsjaar.
 
-#### Artikel 23
+##### Artikel 23
 
 Als op de gemeente Groningen op de overgangsdatum nog de in de [Wegenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001948) bedoelde onderhoudsplicht rust voor een weg die is gelegen
 
@@ -310,29 +334,29 @@ Als op de gemeente Groningen op de overgangsdatum nog de in de [Wegenwet](https:
 
 verschaft de gemeente waar de weg is gelegen, aan de gemeente Groningen jaarlijks zo lang de onderhoudsplicht op de gemeente Groningen rust, een bijdrage in de kosten van het onderhoud.
 
-#### Artikel 24
+##### Artikel 24
 
 [Artikel 22, tweede lid tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005697&hoofdstuk=V&artikel=22&z=2024-01-01&g=2024-01-01), is op de in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0005697&hoofdstuk=V&artikel=23&z=2024-01-01&g=2024-01-01) bedoelde bijdrage van overeenkomstige toepassing.
 
 ### Hoofdstuk VI. Overgangsbepalingen
 
-#### Artikel 25
+##### Artikel 25
 
 1. Wie ten tijde van de beheersovergang van een weg een gebruik maakt dat bij de beheerregeling van de oude beheerder niet is verboden, en bij de beheerregeling van de nieuwe beheerder niet of slechts onder beschikking is toegestaan, mag dat gebruik in elk geval de eerste zes maanden ongewijzigd voortzetten en, mits hij binnen die zes maanden een beschikking heeft aangevraagd, het gebruik in elk geval ongewijzigd voortzetten totdat de nieuwe beheerder op de aanvraag heeft beslist.
 
 2. De door de oude beheerder verleende beschikking voor een gebruik van een weg waarvoor bij de beheerregeling van de nieuwe beheerder eveneens een beschikking is vereist, staat gelijk met een door de nieuwe beheerder verleende beschikking. De nieuwe beheerder mag de beschikking met de daartoe behorende voorschriften in de eerste twaalf maanden niet ambtshalve wijzigen of intrekken, tenzij wordt gehandeld in strijd met de beschikking.
 
-#### Artikel 26
+##### Artikel 26
 
 [Artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0005697&hoofdstuk=VI&artikel=25&z=2024-01-01&g=2024-01-01) is van overeenkomstige toepassing als krachtens [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005697&hoofdstuk=III&artikel=10&z=2024-01-01&g=2024-01-01), een brug of krachtens [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005697&hoofdstuk=III&artikel=10&z=2024-01-01&g=2024-01-01), een tunnel in beheer overgaat.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Gedeputeerde staten zorgen er voor dat binnen twee jaar na de overgangsdatum de reserves voor het wegenbeheer worden verdeeld en uitgekeerd.
 
 2. Onder reserves voor het wegenbeheer als bedoeld in het eerste lid, worden verstaan de reserves waarvan de vorming ten laste van de uitkering ingevolge artikel 9 van de Wet Uitkeringen Wegen (**Stb.** 1966, 367) is verantwoord binnen hoofdstuk 3 "Verkeer en Vervoer", paragraaf O "Uitvoering Wet Uitkeringen Wegen", van de provinciale rekening, bedoeld in de Provinciale Comptabiliteitsvoorschriften 1979 (**Stb.** 1979, 324).
 
-#### Artikel 28
+##### Artikel 28
 
 1. De in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005697&hoofdstuk=VI&artikel=27&z=2024-01-01&g=2024-01-01), bedoelde verdeling betreft de saldi van de voor verdeling in aanmerking komende reserves op 31 december van het jaar voor de overgangsdatum, na aftrek van de bijdragen ten laste van deze reserves waartoe het provinciaal bestuur ten laatste op 31 december 1989 heeft besloten, met dien verstande dat het saldo van de in artikel 10, vierde lid, van de Wet Uitkeringen Wegen bedoelde reserve voor voorzieningen ten behoeve van het wegverkeer in drie delen wordt gesplitst, waarna deze delen worden toegevoegd aan de reserves ten behoeve van secundaire, onderscheidenlijk tertiaire onderscheidenlijk quartaire wegen.
 
@@ -344,7 +368,7 @@ verschaft de gemeente waar de weg is gelegen, aan de gemeente Groningen jaarlijk
 
 5. De reserve ten behoeve van in artikel 7 van de Wet Uitkeringen Wegen bedoelde quartaire wegen wordt verdeeld naar rato van de onderhoudsbijdragen die de onderhoudsplichtigen van quartaire wegen in het jaar voor de overgangsdatum hebben ontvangen, en aan die onderhoudsplichtigen uitgekeerd.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Gedeputeerde staten doen binnen vier maanden na de overgangsdatum aan Onze Minister per onderhoudsplichtige per wegvak onderscheidenlijk per veerverbinding gespecificeerd opgave van de op grond van de provinciale verdelingsverordening, bedoeld in artikel 10, eerste lid, van de Wet Uitkeringen Wegen, per jaar toegezegde bijdragen in de kosten van rente en afschrijving van kapitaaluitgaven voor zover
 
@@ -360,7 +384,7 @@ verschaft de gemeente waar de weg is gelegen, aan de gemeente Groningen jaarlijk
 
 4. Gedeputeerde Staten voegen aan de in het derde lid bedoelde opgave een inventarisatie toe waarin voor de in aanmerking komende gemeenten wordt aangegeven, de grootte van de uitkering die de gemeente in het eerste jaar na de overgangsdatum heeft te doen aan andere die de betrokken veerverbindingen verzorgen, om het vervallen van de bijdrage of bijdragen in de kosten van de veerverbinding met uitzondering van de bijdragen in de kosten van rente en afschrijving van kapitaaluitgaven, te compenseren.
 
-#### Artikel 30
+##### Artikel 30
 
 1. Onze Minister stelt aan de hand van de in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005697&hoofdstuk=VI&artikel=29&z=2024-01-01&g=2024-01-01), bedoelde opgaven een overzicht vast van de bijdragen die aan de gemeenten zijn toegezegd.
 
@@ -374,7 +398,7 @@ verschaft de gemeente waar de weg is gelegen, aan de gemeente Groningen jaarlijk
 
 6. Het derde lid is van overeenkomstige toepassing op de vaststelling van het in het vierde lid bedoelde overzicht en van de in het vijfde lid bedoelde lijst.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Een gemeente die op de in [artikel 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005697&hoofdstuk=VI&artikel=30&z=2024-01-01&g=2024-01-01), bedoelde lijst voorkomt, verschaft met inachtneming van de lijst uitkeringen aan de in de lijst genoemde andere onderhoudsplichtigen.
 
@@ -384,7 +408,7 @@ verschaft de gemeente waar de weg is gelegen, aan de gemeente Groningen jaarlijk
 
 4. Op de in het derde lid bedoelde uitkering is het tweede lid van overeenkomstige toepassing.
 
-#### Artikel 32
+##### Artikel 32
 
 1. Aan elk van de gemeenten die voorkomen in het in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005697&hoofdstuk=VI&artikel=30&z=2024-01-01&g=2024-01-01), bedoelde overzicht, wordt ten laste van de begroting van het Gemeentefonds jaarlijks een uitkering gedaan die overeenkomt met de som der aan de gemeente volgens het overzicht toegezegde bijdragen voor het desbetreffende jaar.
 
@@ -398,39 +422,39 @@ verschaft de gemeente waar de weg is gelegen, aan de gemeente Groningen jaarlijk
 
 ### Hoofdstuk VII. Slotbepalingen
 
-#### Artikel 33
+##### Artikel 33
 
 De Wet Uitkeringen Wegen wordt ingetrokken.
 
-#### Artikel 34
+##### Artikel 34
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 35
+##### Artikel 35
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 36
+##### Artikel 36
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 37
+##### Artikel 37
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 38
+##### Artikel 38
 
 Een besluit van provinciale staten tot vaststelling van een herverdelingsplan als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005697&hoofdstuk=II&artikel=3&z=2024-01-01&g=2024-01-01), dat is genomen voor de datum van inwerkingtreding van deze wet, doch overeenkomstig de bepalingen van deze wet, wordt met ingang van datum van inwerkingtreding van deze wet gelijkgesteld met het besluit, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005697&hoofdstuk=II&artikel=3&z=2024-01-01&g=2024-01-01), met dien verstande dat de termijn, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005697&hoofdstuk=II&artikel=9&z=2024-01-01&g=2024-01-01), aanvangt op de datum van inwerkingtreding van deze wet.
 
-#### Artikel 39
+##### Artikel 39
 
 Vervallen
 
-#### Artikel 40
+##### Artikel 40
 
 Deze wet treedt in werking met ingang van de eerste dag na de datum van uitgifte van het **Staatsblad** waarin deze wet wordt geplaatst, met uitzondering van [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0005697&hoofdstuk=VII&artikel=33&z=2024-01-01&g=2024-01-01), dat in werking treedt op de overgangsdatum.
 
-#### Artikel 41
+##### Artikel 41
 
 Deze wet kan worden aangehaald als: Wet herverdeling wegenbeheer.
 

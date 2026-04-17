@@ -1,38 +1,64 @@
 ---
-title: "Planningsbesluit PCI’s en ICD’s"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 1 december 2009, nr. CZ/TSZ-2969842, houdende vaststelling van het Planningsbesluit PCI’s, ICD’s en THI’s"
 identifier: "BWBR0026753"
-categorie: "Overig"
-publicatiedatum: 2018-08-01
-laatste_update: 2018-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026753"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2018-08-01"
+last_updated: "2018-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026753"
+soort: "ministeriele-regeling"
+stam_id: "10296853"
+version_id: "19702152"
+internal_id: "C27638241"
+label_id: "10272284"
+dtd_version: "2.0"
+original_entry_into_force: "2012-10-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026753/2018-08-01/0"
+intitule_bron: "Stcrt.2009-18730"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-01-01"
+intitule_published: "2009-12-04"
+intitule_in_force: "2009-12-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-20652"
+original_signed_date: "2012-10-04"
+original_published_date: "2012-10-12"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2012-20652"
+entry_into_force_date: "2012-10-13"
+jci_1_3: "jci1.3:c:BWBR0026753&z=2018-08-01&g=2018-08-01"
+jci_1_0: "1.0:c:BWBR0026753&g=2018-08-01"
+citeertitel_status: "officieel"
+short_title: "Planningsbesluit PCI’s en ICD’s"
+signed_date: "2012-10-04"
+entry_into_force: "2012-10-13"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 1 december 2009, nr. CZ/TSZ-2969842, houdende vaststelling van het Planningsbesluit PCI’s, ICD’s en THI’s
 
 Gelet op de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&artikel=5) en [6, tweede lid, van de Wet op bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&artikel=6);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De omvang van de behoefte aan percutane coronaire interventies (PCI’s) en het plaatsen van implanteerbare cardioverter defibrillatoren (ICD’s), de wijze waarop in deze behoefte kan worden voorzien en de voorschriften waaraan uitvoerende centra moeten voldoen, zijn neergelegd in de bijlage bij deze regeling.
 
-#### Artikel 2
+##### Artikel 2
 
 Vervallen
 
-#### Artikel 3
+##### Artikel 3
 
 Wijzigt het Planningsbesluit bijzondere interventies aan het hart 2008.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
 2. Het [Planningsbesluit bijzondere interventies aan het hart 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023804) zoals dat luidde op de dag voorafgaande aan de dag waarop dit besluit in werking treedt, blijft van toepassing op voor de inwerkingtreding van dit besluit ontvangen aanvragen van een vergunning tot het verrichten van PCI’s of het plaatsen van ICD’s.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling wordt aangehaald als: Planningsbesluit PCI’s en ICD’s.
 

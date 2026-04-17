@@ -1,13 +1,39 @@
 ---
-title: "Besluit Bibob"
+title: "Besluit van 12 april 2003, houdende uitvoering van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur (Besluit BIBOB)"
 identifier: "BWBR0014964"
-categorie: "Bestuursrecht"
-publicatiedatum: 2020-08-01
-laatste_update: 2020-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0014964"
+country: "nl"
+rank: "amvb"
+publication_date: "2020-08-01"
+last_updated: "2020-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0014964"
+soort: "AMvB"
+stam_id: "3835993"
+version_id: "5614142"
+internal_id: "C5807371"
+label_id: "3816074"
+dtd_version: "2.0"
+original_entry_into_force: "2003-05-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0014964/2020-08-01/0"
+intitule_bron: "Stb.2003-180"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-04-12"
+intitule_published: "2003-05-08"
+intitule_in_force: "2003-05-08"
+intitule_status: "goed"
+original_publication: "Stb.2003-180"
+original_signed_date: "2003-04-12"
+original_published_date: "2003-05-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2003-180"
+entry_into_force_date: "2003-05-09"
+jci_1_3: "jci1.3:c:BWBR0014964&z=2020-08-01&g=2020-08-01"
+jci_1_0: "1.0:c:BWBR0014964&g=2020-08-01"
+citeertitel_status: "officieel"
+short_title: "Besluit Bibob"
+signed_date: "2003-04-12"
+entry_into_force: "2003-05-09"
 ---
-
 # Besluit van 12 april 2003, houdende uitvoering van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur (Besluit BIBOB)
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 1 oktober 2002, nr. EA2002/88934, directoraat-generaal Openbare Orde en Veiligheid, mede namens Onze Minister van Justitie, in overeenstemming met Onze Minister van Verkeer en Waterstaat;
@@ -20,23 +46,23 @@ Gezien het nader rapport van Onze Ministers van Binnenlandse Zaken en Koninkrijk
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder «wet»: de [Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798).
 
-#### Artikel 2
+##### Artikel 2
 
 Als rechtspersoon met een overheidstaak als bedoeld in [artikel 1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=1), worden aangewezen de zelfstandige bestuursorganen van de in de bijlage bij dit besluit genoemde rechtspersonen.
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 Het Bureau stelt jaarlijks de bijdrage in de kosten van het advies, bedoeld in [artikel 16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=16), vast aan de hand van:
 
@@ -48,7 +74,7 @@ Het Bureau stelt jaarlijks de bijdrage in de kosten van het advies, bedoeld in [
 
 - d. het verwachte aantal aanvragen dat in het eerstvolgende kalenderjaar zal worden ingediend.
 
-#### Artikel 6
+##### Artikel 6
 
 Als bestuursorganen als bedoeld in [artikel 27, eerste lid, onderdeel i, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=27), worden aangewezen:
 
@@ -60,17 +86,17 @@ Als bestuursorganen als bedoeld in [artikel 27, eerste lid, onderdeel i, van de 
 
 - d. de Dienst Wegverkeer.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De bestuursorganen, genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014964&artikel=6&z=2020-08-01&g=2020-08-01), en de bestuursorganen, genoemd in [artikel 27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=27), alsmede de gerechten bedoeld in [artikel 27a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=27a), verstrekken de gegevens, bedoeld in de aanhef van [artikel 27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=27), binnen twee weken nadat het Bureau om verstrekking heeft gevraagd.
 
 2. Indien de gegevens niet binnen twee weken kunnen worden verstrekt, stelt het desbetreffende bestuursorgaan het Bureau daarvan in kennis en noemt het daarbij een termijn waarbinnen de gegevens wel tegemoet kunnen worden gezien. Deze termijn bedraagt niet meer dan twee weken na afloop van de termijn, genoemd in het eerste lid.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, met uitzondering van [artikel 6, onderdelen b. en c.](https://wetten.overheid.nl/jci1.3:c:BWBR0014964&artikel=6&z=2020-08-01&g=2020-08-01), dat in werking treedt op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit Bibob.
 

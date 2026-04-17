@@ -1,20 +1,45 @@
 ---
 title: "Reglement Geschillencommissie Defensie Geneeskundige Zorg"
 identifier: "BWBR0041400"
-categorie: "Sociaal recht"
-publicatiedatum: 2018-09-29
-laatste_update: 2018-09-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041400"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2018-09-29"
+last_updated: "2018-09-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041400"
+soort: "ministeriele-regeling"
+stam_id: "14822583"
+version_id: "25342802"
+internal_id: "C36189441"
+label_id: "14774844"
+dtd_version: "2.0"
+original_entry_into_force: "2018-09-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041400/2018-09-29/0"
+intitule_bron: "Stcrt.2018-54197"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-08-29"
+intitule_published: "2018-09-28"
+intitule_in_force: "2018-09-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-54197"
+original_signed_date: "2018-08-29"
+original_published_date: "2018-09-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-54197"
+entry_into_force_date: "2018-09-29"
+jci_1_3: "jci1.3:c:BWBR0041400&z=2018-09-29&g=2018-09-29"
+jci_1_0: "1.0:c:BWBR0041400&g=2018-09-29"
+citeertitel_status: "redactioneel"
+signed_date: "2018-08-29"
+entry_into_force: "2018-09-29"
 ---
-
 # Reglement Geschillencommissie Defensie Geneeskundige Zorg
 
 Gelet op [artikel 18 van de Wet kwaliteit klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=18) en [artikel 19 van de Regeling klachtenbehandeling gezondheidszorg Defensie 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039064&artikel=19).
 
 ### Begripsomschrijving
 
-#### Artikel 1
+##### Artikel 1
 
 In dit reglement wordt verstaan onder:
 
@@ -38,7 +63,7 @@ In dit reglement wordt verstaan onder:
 
 ### Samenstelling en taak
 
-#### Artikel 2
+##### Artikel 2
 
 1. De commissie bestaat uit een door de stichting te bepalen aantal onafhankelijke leden: door de stichting aangezochte voorzitters, alsmede één of meer leden die geacht kunnen worden het perspectief van cliënten te representeren en één of meer leden die geacht kunnen worden het perspectief van het Ministerie van Defensie te representeren. Alle leden worden benoemd door het bestuur van de stichting. De voorzitters dienen de hoedanigheid van meester in de rechten te hebben.
 
@@ -46,7 +71,7 @@ Aan de commissie wordt door het bestuur van de stichting een secretaris toegevoe
 
 2. Aan de behandeling van voorgelegde geschillen nemen deel: een voorzitter, een lid dat geacht kan worden het perspectief van cliënten te representeren en een lid dat geacht kan worden het perspectief van het Ministerie van Defensie te representeren. Indien het geschil betrekking heeft op de geïntegreerde eerstelijnsgezondheids of de zorgverlening onder operationele of daarmee vergelijkbare omstandigheden dient het laatstgenoemde lid over militair-medische expertise te beschikken.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De commissie heeft tot taak alle geschillen tussen cliënten en de militair geneeskundige dienst over gedragingen daarvan, waaronder de afhandeling van klachten, te beslechten. Zij is bevoegd over een geschil een uitspraak te doen bij wege van bindend advies, alsmede een vergoeding van geleden schade toe te kennen tot een bedrag van € 25.000,–. Voorts is zij bevoegd een schikking tussen partijen te bevorderen. De militair geneeskundige dienst, optredend namens de Minister van Defensie in zijn hoedanigheid van zorgaanbieder, fungeert daarbij voor de cliënt als de centraal aanspreekbare partij.
 
@@ -60,13 +85,13 @@ Aan de commissie wordt door het bestuur van de stichting een secretaris toegevoe
 
 ### Bevoegdheid
 
-#### Artikel 4
+##### Artikel 4
 
 De commissie is bevoegd een aanhangig gemaakt geschil te behandelen.
 
 ### Ontvankelijkheid
 
-#### Artikel 5
+##### Artikel 5
 
 De commissie verklaart de cliënt in zijn geschil ambtshalve niet ontvankelijk indien:
 
@@ -76,7 +101,7 @@ De commissie verklaart de cliënt in zijn geschil ambtshalve niet ontvankelijk i
 
 - c. tijdens de behandeling aannemelijk wordt, dat het totale financiële belang na het geschil meer bedraagt dan € 25.000,– tenzij de cliënt bereid is te verklaren – op grond van feiten en omstandigheden die hij redelijkerwijs kon weten tijdens de behandeling van het geschil – zijn vordering te beperken tot € 25.000,– en afstand te doen van het meerdere.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Bij niet binnen 10 weken afhandelen van een bij de militair geneeskundige dienst ingediende klacht, wordt deze klacht geacht niet tot tevredenheid van de cliënt te zijn afgehandeld, tenzij de cliënt met een vertraagde afhandeling heeft ingestemd.
 
@@ -84,13 +109,13 @@ De commissie verklaart de cliënt in zijn geschil ambtshalve niet ontvankelijk i
 
 3. De in het tweede lid bepaalde termijn wordt door de commissie niet ambtshalve toegepast, doch slechts indien daarom door de wederpartij in het geschil bij eerste gelegenheid wordt verzocht. Niettemin kan de commissie, wanneer een zodanig verzoek wordt gedaan, besluiten het geschil toch in behandeling te nemen, indien de cliënt ter zake van de niet naleving van bedoelde termijn naar het oordeel van de commissie redelijkerwijs geen verwijt treft.
 
-#### Artikel 7
+##### Artikel 7
 
 De commissie verklaart op verzoek van de militair geneeskundige dienst – gedaan bij eerste gelegenheid- de cliënt niet ontvankelijk ter zake van een voorgelegd geschil, indien hij dit niet eerst als klacht aan de militair geneeskundige dienst respectievelijk aan de bij het ministerie van Defensie ingestelde klachtencommissie heeft voorgelegd, tenzij sprake is van de gevallen als bedoeld in [artikel 21, eerste lid, onder a. en c. van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=21) dan wel geschillen die niet tot het werkterrein van de voornoemde klachtencommissie behoren, waaronder geschillen over letsel-, zaak- en/of personenschade.
 
 ### De behandeling van geschillen
 
-#### Artikel 8
+##### Artikel 8
 
 1. Een geschil kan worden voorgelegd door:
 
@@ -110,15 +135,15 @@ Het geschil wordt schriftelijk of elektronisch aan de commissie voorgelegd door 
 
 De cliënt stemt er in voorkomend geval voorts mee in, dat de gegevens verband houdend met de behandeling binnen Defensie van de aan het geschil ten grondslag liggende klacht aan de commissie worden verstrekt.
 
-#### Artikel 9
+##### Artikel 9
 
 Indien de cliënt niet binnen één maand na een daartoe strekkend verzoek voldoet aan het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0041400&artikel=8&z=2018-09-29&g=2018-09-29) wordt het geschil niet in behandeling genomen. De commissie kan de termijn van één maand bekorten of verlengen.
 
-#### Artikel 10
+##### Artikel 10
 
 De commissie kan besluiten de behandeling van een geschil niet voort te zetten, indien zij van oordeel is dat het onderwerp van geschil aan een onderzoek van een deskundige dient te worden onderworpen en de cliënt zijn medewerking aan het onderzoek weigert of anderszins het onderzoek naar het oordeel van de commissie niet mogelijk is.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De commissie stelt de militair geneeskundige dienst schriftelijk in kennis van het in behandeling nemen van het geschil en stelt de militair geneeskundige dienst gedurende één maand in de gelegenheid zijn standpunt over het geschil schriftelijk aan de commissie kenbaar te maken. De commissie kan de termijn van één maand bekorten of verlengen.
 
@@ -126,7 +151,7 @@ De commissie verzoekt de militair geneeskundige dienst de daarvoor in aanmerking
 
 2. Het in het eerste lid bedoelde standpunt wordt door de commissie in afschrift aan de cliënt gezonden, die daarop binnen twee weken schriftelijk een weerwoord bij de commissie kan indienen. Een afschrift daarvan wordt aan de militair geneeskundige dienst toegezonden. De commissie kan de termijn van twee weken bekorten of verlengen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Partijen hebben het recht zich bij de behandeling van een geschil door derden te laten bijstaan of vertegenwoordigen.
 
@@ -134,7 +159,7 @@ De commissie verzoekt de militair geneeskundige dienst de daarvoor in aanmerking
 
 3. Partijen kunnen getuigen of deskundigen meenemen en doen horen, tenzij een goede procesorde zich daartegen verzet. De namen en adressen dienen uiterlijk twee weken voor de zitting van de commissie aan haar te zijn opgegeven en worden uiterlijk één week voor de zitting door de commissie aan de wederpartij ter kennis gebracht.
 
-#### Artikel 13
+##### Artikel 13
 
 De commissie kan indien zij dat noodzakelijk acht zelf inlichtingen inwinnen, onder meer door het horen van getuigen of deskundigen, door het instellen van een onderzoek of door het doen instellen van een onderzoek door één of meer door haar aan te wijzen deskundigen. De commissie geeft daarvan kennis aan partijen.
 
@@ -142,7 +167,7 @@ De commissie verstrekt een afschrift van het deskundigenrapport aan partijen, di
 
 ### Uitspraak
 
-#### Artikel 14
+##### Artikel 14
 
 1. De commissie beslist na het beschikbaar zijn van alle daartoe naar het oordeel van de commissie noodzakelijke gegevens naar redelijkheid en billijkheid, met inachtneming van de regels van het recht en de [militaire ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001952). De commissie beslist met meerderheid van stemmen. Het bindend advies wordt door de voorzitter ondertekend en wordt binnen zes maanden na de voorlegging van het geschil schriftelijk aan partijen medegedeeld. In gevallen waarin dat, gelet op de aard van het geschil en de daarbij betrokken belangen, aangewezen is te achten, doet de commissie op korte termijn een uitspraak.
 
@@ -156,7 +181,7 @@ De commissie verstrekt een afschrift van het deskundigenrapport aan partijen, di
 
 - d. de gronden voor de gegeven beslissing.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De commissie doet uitspraak over haar bevoegdheid, de ontvankelijkheid van partijen en het geheel of gedeeltelijk (on)gegrond zijn van het geschil.
 
@@ -172,11 +197,11 @@ alsmede iedere andere beslissing, die zij redelijk en billijk acht ter beëindig
 
 4. De uitspraak van de commissie wordt in geanonimiseerde vorm openbaar gemaakt door publicatie op de website van de stichting.
 
-#### Artikel 16
+##### Artikel 16
 
 Indien de partijen bij de mondelinge behandeling tot een schikking komen, kan de commissie de inhoud daarvan in de vorm van een bindend advies vastleggen.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De door partijen ter zake van de behandeling van het geschil gemaakte kosten komen voor hun eigen rekening. Indien de klacht gegrond verklaard wordt wijst de commissie aan klager op diens verzoek een tegemoetkoming toe in de gemaakte kosten van:
 
@@ -188,7 +213,7 @@ Indien de partijen bij de mondelinge behandeling tot een schikking komen, kan de
 
 3. De in het eerste en tweede lid genoemde bedragen worden per 1 januari van ieder kalenderjaar geïndexeerd met het percentage bedoeld in [artikel 3 van het Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=3).
 
-#### Artikel 18
+##### Artikel 18
 
 1. De voorzitter van de commissie kan uit eigen beweging of op een binnen twee weken na de verzenddatum van het bindend advies door een partij schriftelijk gedaan verzoek een kennelijke fout in het bindend advies herstellen, dan wel – indien de gegevens genoemd in [artikel 14 lid 2 onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0041400&artikel=14&z=2018-09-29&g=2018-09-29) onjuist zijn vermeld – tot verbetering van die gegevens overgaan.
 
@@ -200,11 +225,11 @@ Indien de partijen bij de mondelinge behandeling tot een schikking komen, kan de
 
 ### Geheimhouding, wraking en verschoning
 
-#### Artikel 19
+##### Artikel 19
 
 De leden van de commissie alsmede de aan de commissie verbonden (plaatsvervangend) secretaris en medewerkers zijn tot geheimhouding verplicht ten aanzien van alle de partijen betreffende gegevens die hen bij de behandeling van het geschil ter kennis zijn gekomen.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Elk van de leden van de commissie, die met de behandeling van het geschil belast zijn, kan door één of door beide partijen in het geschil worden gewraakt indien gerechtvaardigde twijfel bestaat aan zijn onpartijdigheid of onafhankelijkheid. Wraking kan worden gedaan uiterlijk binnen een week na de zitting waarop het geschil is behandeld. Om dezelfde redenen kan een aan de commissie toegevoegde secretaris worden gewraakt. Lid 1 en volgende van deze bepaling zijn in dit geval van overeenkomstige toepassing.
 
@@ -220,12 +245,12 @@ De leden van de commissie alsmede de aan de commissie verbonden (plaatsvervangen
 
 ### Slotbepalingen
 
-#### Artikel 21
+##### Artikel 21
 
 1. Vernietiging van het bindend advies van de commissie kan uitsluitend plaatsvinden door het ter toetsing voor te leggen aan de gewone rechter binnen twee maanden na de verzending van de uitspraak aan partijen. De rechter zal het bindend advies vernietigen, indien de uitspraak in verband met de inhoud of wijze van totstandkoming in de gegeven omstandigheden naar maatstaven van redelijkheid en billijkheid onaanvaardbaar zou zijn. Door niet binnen voornoemde termijn de uitspraak aan de burgerlijke rechter ter toetsing voor te leggen, wordt de uitspraak onaantastbaar.
 
 2. Het geschil kan evenwel in volle omvang en met terzijde lating van het bindend advies door de cliënt aan de gewone rechter worden voorgelegd, indien na het wijzen van het bindend advies blijkt, dat vanwege feiten en omstandigheden die de consument bij het aanhangig maken van het geschil redelijkerwijs niet kon weten, de schade meer bedraagt dan de commissie heeft toegekend. Aan dat bindend advies komt geen gezag van gewijsde toe in een procedure voor de burgerlijke rechter.
 
-#### Artikel 22
+##### Artikel 22
 
 In alle gevallen waarin dit reglement niet voorziet, beslist de commissie met inachtneming van eisen van redelijkheid en billijkheid.

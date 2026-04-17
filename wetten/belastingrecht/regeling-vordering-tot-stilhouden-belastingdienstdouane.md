@@ -1,13 +1,39 @@
 ---
-title: "Regeling vordering tot stilhouden Belastingdienst/Douane"
+title: "Regeling van de Minister van Justitie d.d. 31 juli 2008, nr. 5552080/08, houdende de vordering tot stilhouden door inspecteurs van de Belastingdienst/Douane"
 identifier: "BWBR0024322"
-categorie: "Belastingrecht"
-publicatiedatum: 2008-08-01
-laatste_update: 2008-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024322"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2008-08-01"
+last_updated: "2008-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024322"
+soort: "ministeriele-regeling"
+stam_id: "9689153"
+version_id: "15657152"
+internal_id: "C21380531"
+label_id: "9666144"
+dtd_version: "2.0"
+original_entry_into_force: "2008-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024322/2008-08-01/0"
+intitule_bron: "Stcrt.2008-149"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-07-31"
+intitule_published: "2008-08-05"
+intitule_in_force: "2008-07-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-149"
+original_signed_date: "2008-07-31"
+original_published_date: "2008-08-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-149-p7-SC87001"
+entry_into_force_date: "2008-08-01"
+jci_1_3: "jci1.3:c:BWBR0024322&z=2008-08-01&g=2008-08-01"
+jci_1_0: "1.0:c:BWBR0024322&g=2008-08-01"
+citeertitel_status: "officieel"
+short_title: "Regeling vordering tot stilhouden Belastingdienst/Douane"
+signed_date: "2008-07-31"
+entry_into_force: "2008-08-01"
 ---
-
 # Regeling van de Minister van Justitie d.d. 31 juli 2008, nr. 5552080/08, houdende de vordering tot stilhouden door inspecteurs van de Belastingdienst/Douane
 
 Gelet op de [artikelen 1:24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:24), en [1:27, tweede lid, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:27);
@@ -16,7 +42,7 @@ Besluit:
 
 Treedt in werking op het tijdstip waarop de Algemene douanewet in werking treedt.
 
-#### Artikel 1
+##### Artikel 1
 
 1. De vordering ten behoeve van de visitatie van een schip:
 
@@ -32,7 +58,7 @@ wordt gedaan in duidelijke en op het schip goed verstaanbare bewoordingen. Hierb
 
 4. De vordering, bedoeld in het eerste lid, onderdeel a, kan in zee of in een zeegat vanaf een vaartuig van de Belastingdienst/Douane dat als zodanig kenbaar is, ook worden gedaan door middel van het door de Internationale Maritieme Organisatie (IMO) vastgestelde en in het Internationaal Seinboek (Stcrt. 1969, 52) vermelde sein met de betekenis ‘U moet stoppen of bijdraaien. Ik zal bij u aan boord komen’.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De vordering tot het doen stilhouden van een ander vervoermiddel dan een schip of een luchtvaartuig wordt gedaan:
 
@@ -52,17 +78,17 @@ wordt gedaan in duidelijke en op het schip goed verstaanbare bewoordingen. Hierb
 
 4. De vordering tot het buiten werking stellen van de motor van het in het eerste lid bedoelde vervoermiddel wordt gedaan in voor de bestuurder goed verstaanbare bewoordingen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het doen van de vordering tot het stilstaan van personen die goederen vervoeren welke zich niet in of op een vervoermiddel bevinden, alsmede van personen die ingevolge een wettelijk voorschrift aan lijfsvisitatie zijn onderworpen, geschiedt in voor hen goed verstaanbare bewoordingen.
 
 2. De inspecteur maakt daarbij, indien hij niet in uniform is, zijn kwaliteit bekend; tussen zonsonder- en zonsopgang behoeft hij, indien hij niet in uniform is, de bijstand van een inspecteur in uniform of van een politieambtenaar in uniform.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling treedt in werking op het tijdstip waarop de Algemene douanewet in werking treedt.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling wordt aangehaald als: Regeling vordering tot stilhouden Belastingdienst/Douane.
 

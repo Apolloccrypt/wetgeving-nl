@@ -1,13 +1,36 @@
 ---
-title: "Vrijstelling VectoBac WG exotische muggen 2025"
+title: "Tijdelijke vrijstelling op grond van artikel 46, eerste lid van de Wet gewasbeschermingsmiddelen en biociden voor het gebruik van VectoBac WG voor het bestrijden van exotische muggen in binnenruimten (Vrijstelling Vectobac WG 2025)"
 identifier: "BWBR0051000"
-categorie: "Overig"
-publicatiedatum: 2025-05-02
-laatste_update: 2025-05-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051000"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-05-02"
+last_updated: "2025-05-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051000"
+soort: "ministeriele-regeling"
+stam_id: "17419043"
+version_id: "30712262"
+internal_id: "C44020041"
+label_id: "17322144"
+dtd_version: "2.0"
+original_entry_into_force: "2025-05-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051000/2025-05-02/0"
+intitule_bron: "Stcrt.2025-15176"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2025-05-01"
+intitule_in_force: "2025-05-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-15176"
+original_published_date: "2025-05-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-15176"
+entry_into_force_date: "2025-05-02"
+jci_1_3: "jci1.3:c:BWBR0051000&z=2025-05-02&g=2025-05-02"
+jci_1_0: "1.0:c:BWBR0051000&g=2025-05-02"
+citeertitel_status: "officieel"
+short_title: "Vrijstelling VectoBac WG exotische muggen 2025"
+entry_into_force: "2025-05-02"
 ---
-
 # Tijdelijke vrijstelling op grond van artikel 46, eerste lid van de Wet gewasbeschermingsmiddelen en biociden voor het gebruik van VectoBac WG voor het bestrijden van exotische muggen in binnenruimten (Vrijstelling Vectobac WG 2025)
 
 Handelende in overeenstemming met de Minister van Landbouw, Visserij, Voedselkwaliteit en Natuur;
@@ -18,7 +41,7 @@ Gelet op [artikel 46, eerste lid, van de Wet gewasbeschermingsmiddelen en biocid
 
 BESLUIT:
 
-#### Artikel 1
+##### Artikel 1
 
 Ten behoeve van het bestrijden van bepaalde exotische muggen (Aedes spec) in binnenruimtes, wordt op grond van:
 
@@ -26,19 +49,19 @@ Ten behoeve van het bestrijden van bepaalde exotische muggen (Aedes spec) in bin
 
 - b). artikel 55 van [Verordening (EU) nr. 528/2012](32012R0528) toegestaan dat de in het onderdeel a genoemde biocide op de Nederlandse markt wordt aangeboden en gebruikt.
 
-#### Artikel 2
+##### Artikel 2
 
 Aan de vrijstelling en toestemming, bedoeld in [artikel 1, onderdelen a onderscheidenlijk b](https://wetten.overheid.nl/jci1.3:c:BWBR0051000&artikel=1&z=2025-05-02&g=2025-05-02), zijn de in de bijlage bij dit besluit opgenomen beperkingen en voorschriften verbonden.
 
-#### Artikel 3
+##### Artikel 3
 
 De vrijstelling wordt verleend van 1 mei 2025 tot en met 28 oktober 2025 (180 dagen).
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit wordt aangehaald als: Vrijstelling VectoBac WG exotische muggen 2025.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking op de dag na de datum van plaatsing in de Staatscourant waarin het wordt bekendgemaakt.
 

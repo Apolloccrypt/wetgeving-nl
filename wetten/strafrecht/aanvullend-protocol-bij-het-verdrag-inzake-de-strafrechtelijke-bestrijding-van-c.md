@@ -1,13 +1,38 @@
 ---
 title: "Aanvullend Protocol bij het Verdrag inzake de strafrechtelijke bestrijding van corruptie"
 identifier: "BWBV0001762"
-categorie: "Strafrecht"
-publicatiedatum: 2006-03-01
-laatste_update: 2003-05-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001762"
+country: "nl"
+rank: "verdrag"
+publication_date: "2006-03-01"
+last_updated: "2003-05-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001762"
+soort: "verdrag"
+stam_id: "10002153853"
+version_id: "10002252032"
+internal_id: "C10006995451"
+label_id: "10002144064"
+dtd_version: "2.0"
+original_entry_into_force: "2006-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001762/2006-03-01/0"
+intitule_bron: "Trb.2004-226"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-11-16"
+intitule_published: "2004-09-26"
+intitule_in_force: "2006-01-18"
+intitule_status: "goed"
+original_publication: "Trb.2004-226"
+original_signed_date: "2005-11-16"
+original_published_date: "2004-09-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2004-226"
+entry_into_force_date: "2006-03-01"
+jci_1_3: "jci1.3:c:BWBV0001762&z=2006-03-01&g=2006-03-01"
+jci_1_0: "1.0:c:BWBV0001762&g=2006-03-01"
+citeertitel_status: "redactioneel"
+signed_date: "2005-11-16"
+entry_into_force: "2006-03-01"
 ---
-
 # Aanvullend Protocol bij het Verdrag inzake de strafrechtelijke bestrijding van corruptie
 
 De lidstaten van de Raad van Europa en de andere Staten die dit Verdrag hebben ondertekend,
@@ -20,7 +45,7 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. BEGRIPSOMSCHRIJVINGEN
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van dit Protocol:
 
@@ -34,39 +59,39 @@ Voor de toepassing van dit Protocol:
 
 ### HOOFDSTUK II. MAATREGELEN TE NEMEN OP NATIONAAL NIVEAU
 
-#### Artikel 2. Actieve omkoping van nationale arbiters
+##### Artikel 2. Actieve omkoping van nationale arbiters
 
 Iedere Partij neemt de wetgevende en andere maatregelen die nodig blijken te zijn om overeenkomstig haar interne recht als strafbaar feit aan te merken, wanneer opzettelijk gepleegd, het beloven, aanbieden of geven, rechtstreeks of indirect, van elk onverschuldigd voordeel aan een arbiter die zijn of haar taken uitoefent volgens het nationale recht inzake arbitrage van de Partij, voor hemzelf, haarzelf of voor iemand anders, opdat hij of zij een handeling verricht of nalaat te verrichten in de uitoefening van zijn of haar taken.
 
-#### Artikel 3. Passieve omkoping van nationale arbiters
+##### Artikel 3. Passieve omkoping van nationale arbiters
 
 Iedere Partij neemt de wetgevende en andere maatregelen die nodig blijken te zijn om overeenkomstig haar interne recht als strafbaar feit aan te merken, wanneer opzettelijk gepleegd, het vragen of ontvangen door een arbiter die zijn of haar taken uitoefent volgens het nationale recht inzake arbitrage van de Partij, rechtstreeks of indirect, van elk onverschuldigd voordeel, voor hemzelf, haarzelf of voor iemand anders, of het aanvaarden van het aanbod of de belofte daarvan, om een handeling te verrichten of na te laten te verrichten in de uitoefening van zijn of haar taken.
 
-#### Artikel 4. Omkoping van buitenlandse arbiters
+##### Artikel 4. Omkoping van buitenlandse arbiters
 
 Iedere Partij neemt de wetgevende en andere maatregelen die nodig blijken te zijn om overeenkomstig haar interne recht als strafbaar feit aan te merken de gedragingen, bedoeld in de artikelen 2 en 3, wanneer daarbij een arbiter betrokken is die zijn of haar taken uitoefent volgens het nationale recht inzake arbitrage van enige andere staat.
 
-#### Artikel 5. Omkoping van nationale juryleden
+##### Artikel 5. Omkoping van nationale juryleden
 
 Iedere Partij neemt de wetgevende en andere maatregelen die nodig blijken te zijn om overeenkomstig haar interne recht als strafbaar feit aan te merken de gedragingen, bedoeld in de artikelen 2 en 3, wanneer daarbij een persoon betrokken is die binnen haar rechtssysteem optreedt als jurylid.
 
-#### Artikel 6. Omkoping van buitenlandse juryleden
+##### Artikel 6. Omkoping van buitenlandse juryleden
 
 Iedere Partij neemt de wetgevende en andere maatregelen die nodig blijken te zijn om overeenkomstig haar interne recht als strafbaar feit aan te merken de gedragingen, bedoeld in de artikelen 2 en 3, wanneer daarbij een persoon betrokken is die binnen het rechtssysteem van enige andere staat optreedt als jurylid.
 
 ### HOOFDSTUK III. TOEZICHT OP DE IMPLEMENTATIE EN SLOTBEPALINGEN
 
-#### Artikel 7. Toezicht op de implementatie
+##### Artikel 7. Toezicht op de implementatie
 
 De Groep van Staten tegen Corruptie (GRECO) draagt zorg voor het toezicht op de implementatie van dit Protocol door de Partijen.
 
-#### Artikel 8. Verhouding tot het Verdrag
+##### Artikel 8. Verhouding tot het Verdrag
 
 1. De Staten die Partij zijn beschouwen de bepalingen van de artikelen 2 tot en met 6 van dit Protocol als aanvullende artikelen bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001532).
 
 2. De bepalingen van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001532) zijn van toepassing voor zover deze verenigbaar zijn met de bepalingen van dit Protocol.
 
-#### Artikel 9. Verklaringen en voorbehouden
+##### Artikel 9. Verklaringen en voorbehouden
 
 1. Indien een Partij een verklaring heeft afgelegd in overeenstemming met [artikel 36 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001532&artikel=36), kan zij een soortgelijke verklaring afleggen ten aanzien van de artikelen 4 en 6 van dit Protocol op het tijdstip van ondertekening of bij de nederlegging van haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
 
@@ -74,7 +99,7 @@ De Groep van Staten tegen Corruptie (GRECO) draagt zorg voor het toezicht op de 
 
 3. Andere voorbehouden kunnen niet worden gemaakt.
 
-#### Artikel 10. Ondertekening en inwerkingtreding
+##### Artikel 10. Ondertekening en inwerkingtreding
 
 1. Dit Protocol staat open voor ondertekening door de Staten die het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001532) hebben ondertekend. Deze Staten kunnen hun instemming te worden gebonden tot uitdrukking brengen door:
 
@@ -90,13 +115,13 @@ De Groep van Staten tegen Corruptie (GRECO) draagt zorg voor het toezicht op de 
 
 5. Een ondertekenende Staat mag dit Protocol pas bekrachtigen, aanvaarden of goedkeuren wanneer hij gelijktijdig zijn instemming door het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001532) te worden gebonden tot uitdrukking brengt, of dit reeds tot uitdrukking heeft gebracht.
 
-#### Artikel 11. Toetreding tot het Protocol
+##### Artikel 11. Toetreding tot het Protocol
 
 1. Een Staat of de Europese Gemeenschap die is toegetreden tot het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001532) mag tot dit Protocol toetreden na de inwerkingtreding ervan.
 
 2. Ten aanzien van iedere Staat of de Europese Gemeenschap die toetreedt tot het Protocol, treedt het in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van nederlegging van de akte van toetreding bij de Secretaris-Generaal van de Raad van Europa.
 
-#### Artikel 12. Territoriale toepasselijkheid
+##### Artikel 12. Territoriale toepasselijkheid
 
 1. Iedere Staat of de Europese Gemeenschap kan, op het tijdstip van de ondertekening of bij de nederlegging van zijn of haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, het grondgebied of de grondgebieden waarop dit Protocol van toepassing is nader aanduiden.
 
@@ -104,7 +129,7 @@ De Groep van Staten tegen Corruptie (GRECO) draagt zorg voor het toezicht op de 
 
 3. Iedere krachtens de twee vorige leden gedane verklaring kan, met betrekking tot elk in die verklaring nader aangeduid grondgebied, worden ingetrokken door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte kennisgeving. Deze intrekking wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 13. Opzegging
+##### Artikel 13. Opzegging
 
 1. Iedere Partij kan dit Protocol te allen tijde opzeggen door middel van een kennisgeving gericht aan de Secretaris-Generaal van de Raad van Europa.
 
@@ -112,7 +137,7 @@ De Groep van Staten tegen Corruptie (GRECO) draagt zorg voor het toezicht op de 
 
 3. Opzegging van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001532) heeft automatisch opzegging van dit Protocol ten gevolge.
 
-#### Artikel 14. Kennisgeving
+##### Artikel 14. Kennisgeving
 
 De Secretaris-Generaal van de Raad van Europa stelt de lidstaten van de Raad van Europa en iedere Staat, of de Europese Gemeenschap, die tot dit Protocol is toegetreden, in kennis van:
 

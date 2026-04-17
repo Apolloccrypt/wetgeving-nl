@@ -1,13 +1,38 @@
 ---
 title: "Verdrag inzake het Internationale COSPAS-SARSAT-Programma"
 identifier: "BWBV0002153"
-categorie: "Internationaal recht"
-publicatiedatum: 1995-03-03
-laatste_update: 1995-03-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002153"
+country: "nl"
+rank: "verdrag"
+publication_date: "1995-03-03"
+last_updated: "1995-03-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002153"
+soort: "verdrag"
+stam_id: "10002681463"
+version_id: "10002680222"
+internal_id: "C10006986851"
+label_id: "10002669904"
+dtd_version: "2.0"
+original_entry_into_force: "1995-03-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002153/1995-03-03/0"
+intitule_bron: "Trb.1994-226"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-02-01"
+intitule_published: "1994-10-28"
+intitule_in_force: "1995-03-23"
+intitule_status: "goed"
+original_publication: "Trb.1994-226"
+original_signed_date: "1995-02-01"
+original_published_date: "1994-10-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1994-226"
+entry_into_force_date: "1995-03-03"
+jci_1_3: "jci1.3:c:BWBV0002153&z=1995-03-03&g=1995-03-03"
+jci_1_0: "1.0:c:BWBV0002153&g=1995-03-03"
+citeertitel_status: "officieel"
+signed_date: "1995-02-01"
+entry_into_force: "1995-03-03"
 ---
-
 # Verdrag inzake het Internationale COSPAS-SARSAT-Programma
 
 The States Parties to this Agreement:
@@ -26,7 +51,7 @@ Recognizing that it is therefore desirable to operate the COSPAS-SARSAT system, 
 
 Have ageed as follows:
 
-#### Article 1. Definitions
+##### Article 1. Definitions
 
 - -. "Party" means a State for which this Agreement has entered into force;
 
@@ -40,7 +65,7 @@ Have ageed as follows:
 
 - -. "User State" means any State that avails itself of the System under the terms of Article 12.2 and Article 12.3.
 
-#### Article 2. Purpose of the agreement
+##### Article 2. Purpose of the agreement
 
 In fostering international cooperation for search and rescue, the purpose of this Agreement is to:
 
@@ -52,7 +77,7 @@ In fostering international cooperation for search and rescue, the purpose of thi
 
 - d). define the means by which the Parties shall coordinate the management of the System and cooperate with other national authorities and relevant intenational organizations in the operation and coordination of the System.
 
-#### Article 3. General description of the system
+##### Article 3. General description of the system
 
 3.1. The System comprises:
 
@@ -74,13 +99,13 @@ In fostering international cooperation for search and rescue, the purpose of thi
 
 3.2. The COSPAS-SARSAT Space Segment configuration may be enhanced in accordance with decisions of the Council established pursuant to Articles 7 and 8.
 
-#### Article 4. Cooperating agencies
+##### Article 4. Cooperating agencies
 
 4.1. Each Party shall designate a Cooperating Agency which shall be responsible for the implementation of the Programme.
 
 4.2. Each Party shall inform the other Parties of its designated Cooperating Agency and of any subsequent changes.
 
-#### Article 5. Responsibilities of parties
+##### Article 5. Responsibilities of parties
 
 5.1. The Parties shall contribute to the Programme on a long term basis so as to maintain the Space Segment of the System.
 
@@ -106,7 +131,7 @@ In fostering international cooperation for search and rescue, the purpose of thi
 
 5.9. Parties shall exchange such information as is necessary to permit the performance of their respective obligations pursuant to this Agreement.
 
-#### Article 6. Financial Matters
+##### Article 6. Financial Matters
 
 6.1. Each Party, in conformity with its domestic funding procedures, and subject to the availability of appropriated funds, shall be fully responsible for financing all costs associated with its contribution to the Space Segment as determined pursuant to Article 5, and the common costs arising from the obligations of this Agreement.
 
@@ -116,7 +141,7 @@ In fostering international cooperation for search and rescue, the purpose of thi
 
 6.4. Non-Party States choosing to participate in activities associated with the organization, coordination and administration of the Programme as referred to in Article 6.2 may be invited to contribute to the common costs involved under terms determined by the Council.
 
-#### Article 7. Structure
+##### Article 7. Structure
 
 7.1. The following organs shall be established pursuant to this Agreement:
 
@@ -126,7 +151,7 @@ In fostering international cooperation for search and rescue, the purpose of thi
 
 7.2. The Council may establish subsidiary organs as required for the implementation of this Agreement.
 
-#### Article 8. The Council-Composition and procedures
+##### Article 8. The Council-Composition and procedures
 
 8.1. The Council shall be composed of one representative of each of the Parties who may be accompanied by deputies and advisers.
 
@@ -138,7 +163,7 @@ In fostering international cooperation for search and rescue, the purpose of thi
 
 8.5. The languages of Council shall be English, French and Russian.
 
-#### Article 9. Functions of the Council
+##### Article 9. Functions of the Council
 
 The Council shall carry out the relevant policies and coordinate the activities of the Parties. The functions of the Council shall include:
 
@@ -166,7 +191,7 @@ The Council shall carry out the relevant policies and coordinate the activities 
 
 - l). other matters regarding operation of the System's Space and Ground Segments and radiobeacons that the Council agrees shall fall within its purview.
 
-#### Article 10. The Secretariat
+##### Article 10. The Secretariat
 
 10.1. The Secretariat shall be the permanent administrative organ for the Programme and shall assist the Council in the implementation of its functions.
 
@@ -184,7 +209,7 @@ The Council shall carry out the relevant policies and coordinate the activities 
 
 - e). such other services as may be required by the Council for the implementation of this Agreement.
 
-#### Article 11. Ground Segment Providers
+##### Article 11. Ground Segment Providers
 
 11.1. Any State planning to establish and operate Ground Segment equipment shall advise the Council of its intention to do so and shall:
 
@@ -206,7 +231,7 @@ The Council shall carry out the relevant policies and coordinate the activities 
 
 11.2. Any such State wishing to become a Ground Segment Provider shall notify formal acceptance of its obligations pursuant to Article 11.1 to the Depositary which shall inform the Parties. Such notification shall be in the form of a standard letter and shall include the conditions of participation in the System previously agreed with the Council pursuant to Article 11.1.
 
-#### Article 12. User States
+##### Article 12. User States
 
 12.1. Any State may utilize the System both through the reception of COSPAS-SARSAT alert and location data and through the deployment of radiobeacons.
 
@@ -228,25 +253,25 @@ The Council shall carry out the relevant policies and coordinate the activities 
 
 12.3. User States shall notify formal acceptance of their obligations under Article 12.2 to the Depositary which shall inform the Parties. Such notification shall be in the form of a standard letter and shall include the conditions of participation in the System previously agreed with the Council pursuant to Article 12.2.
 
-#### Article 13. Relationship with international organizations
+##### Article 13. Relationship with international organizations
 
 13.1. To promote implementation of this Agreement, the Parties, acting through the Council, shall cooperate with the International Civil Aviation Organization, the International Telecommunication Union and the International Maritime Organization, as well as with other international organizations, on matters of common interest. The Parties shall take into account the relevant resolutions, standards and recommendations of these international organizations.
 
 13.2. This cooperation may be formalized between these Organizations and the Parties.
 
-#### Article 14. Liability
+##### Article 14. Liability
 
 14.1. The Parties shall not make any claims or bring actions against each other for injury, damages or financial losses arising out of activities, or lack thereof, pursuant to this Agreement.
 
 14.2. The Parties accept no liability towards users of the System or any third party, particularly as regards any claims for injury, damages or financial losses that may arise from the use of the System. Parties will cooperate with a view to protecting themselves from any such potential claims.
 
-#### Article 15. Settlement of disputes
+##### Article 15. Settlement of disputes
 
 15.1. Any dispute concerning the interpretation or implementation of this Agreement should be settled by negotiations between or among the Parties concerned.
 
 15.2. If a settlement cannot be reached by such negotiations, the dispute may, if the affected Parties so agree, be referred to arbitration.
 
-#### Article 16. Accession
+##### Article 16. Accession
 
 16.1. This Agreement shall be open for accession by any State that agrees to contribute a minimum of one basic unit to the Space Segment, and is prepared to assume the responsibilities of a Party pursuant to this Agreement.
 
@@ -258,7 +283,7 @@ The Council shall carry out the relevant policies and coordinate the activities 
 
 16.5. This Agreement shall enter into force for the acceding State on the date of deposit of the instrument of accession with the Depositary.
 
-#### Article 17. Withdrawal
+##### Article 17. Withdrawal
 
 17.1. A Party may withdraw from this Agreement.
 
@@ -266,7 +291,7 @@ The Council shall carry out the relevant policies and coordinate the activities 
 
 17.3. A Party intending to withdraw from this Agreement shall endeavour to ensure continuity of its existing contribution to the Space Segment and, in that respect, shall consult with the other Parties to determine adjustments in their respective responsibilities.
 
-#### Article 18. Amendments
+##### Article 18. Amendments
 
 18.1. Amendments to this Agreement may be proposed by any Party.
 
@@ -276,7 +301,7 @@ The Council shall carry out the relevant policies and coordinate the activities 
 
 18.4. The Depositary shall promptly notify all the Parties of the receipt of notifications of acceptance of amendments and of the entry into force of amendments.
 
-#### Article 19. Depositary
+##### Article 19. Depositary
 
 19.1. The Depositaries of this Agreement shall be the Secretary-General of the International Civil Aviation Organization and the Secretary-General of the International Maritime Organization.
 
@@ -284,7 +309,7 @@ The Council shall carry out the relevant policies and coordinate the activities 
 
 19.3. This Agreement shall be registered with the United Nations Secretariat in accordance with [Article 102 of the Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-#### Article 20. Entry into force and duration
+##### Article 20. Entry into force and duration
 
 20.1. This Agreement shall be open for signature by Canada, the Republic of France, the United States of America and the Union of Soviet Socialist Republics. Signature may be made not subject to ratification, acceptance or approval, or may be accompanied by a declaration that it is subject to ratification, acceptance or approval.
 

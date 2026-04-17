@@ -1,13 +1,36 @@
 ---
 title: "Tijdelijke regeling taken en bevoegdheden plaatsvervangend secretaris-generaal VROM ten behoeve van het reorganisatietraject ZEUS"
 identifier: "BWBR0015697"
-categorie: "Overig"
-publicatiedatum: 2003-12-01
-laatste_update: 2003-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015697"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2003-12-01"
+last_updated: "2003-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015697"
+soort: "ministeriele-regeling"
+stam_id: "5455213"
+version_id: "9831632"
+internal_id: "C13288961"
+label_id: "5429734"
+original_entry_into_force: "2003-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015697/2003-12-01/0"
+intitule_bron: "Stcrt.2003-210"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-10-07"
+intitule_published: "2003-10-30"
+intitule_in_force: "2003-10-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2003-210"
+original_signed_date: "2003-10-07"
+original_published_date: "2003-10-30"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2003-12-01"
+jci_1_3: "jci1.3:c:BWBR0015697&z=2003-12-01&g=2003-12-01"
+jci_1_0: "1.0:c:BWBR0015697&g=2003-12-01"
+citeertitel_status: "redactioneel"
+signed_date: "2003-10-07"
+entry_into_force: "2003-12-01"
 ---
-
 # Tijdelijke regeling taken en bevoegdheden plaatsvervangend secretaris-generaal VROM ten behoeve van het reorganisatietraject ZEUS
 
 Gelet op [artikel 10:3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3);
@@ -18,7 +41,7 @@ Gelet op het overleg met de Groepsondernemingsraad van 2 oktober 2003;
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -44,11 +67,11 @@ In deze regeling wordt verstaan onder:
 
 - k. ZEUS Decentraal: de aanpassing van de organisaties en inrichting van een minimaal in te vullen bedrijfsvoeringsfunctie door DG Milieu, DG Wonen, DG Ruimte en de VROM Inspectie.
 
-#### Artikel 2. Eén reorganisatie
+##### Artikel 2. Eén reorganisatie
 
 De reorganisaties van ZEUS Centraal en ZEUS Decentraal worden aangemerkt als één reorganisatie, waarbij de plaatsvervangend secretaris-generaal voor het gehele reorganisatietraject wordt aangewezen als bevoegd gezag, als bedoel in artikel 1 van het Besluit Reorganisaties VROM 2001.
 
-#### Artikel 3. Taken en bevoegdheden van de plaatsvervangend secretaris-generaal in het kader van ZEUS
+##### Artikel 3. Taken en bevoegdheden van de plaatsvervangend secretaris-generaal in het kader van ZEUS
 
 1. De plaatsvervangend secretaris-generaal heeft tot taak het verrichten van alle werkzaamheden die noodzakelijk zijn in verband met de inrichting van de Gemeenschappelijke Dienst, de Concernstaf en de bedrijfsvoeringsonderdelen bij DG Milieu, DG Wonen, DG Ruimte en het Inspectoraat Generaal VROM. Daartoe worden met dit besluit:
 
@@ -58,13 +81,13 @@ De reorganisaties van ZEUS Centraal en ZEUS Decentraal worden aangemerkt als é�
 
 - c. de taken en bevoegdheden, zoals bedoeld in de [artikelen twee tot en met vier van de Regeling taken en bevoegdheden VROM 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013199&artikel=2) toegekend aan de plaatsvervangend –secretaris-generaal. Dit voor zover deze betrekking hebben op ZEUS Centraal en ZEUS Decentraal.
 
-#### Artikel 4. Volmacht en machtiging
+##### Artikel 4. Volmacht en machtiging
 
 1. Aan de plaatsvervangend secretaris-generaal wordt volmacht en machtiging verleend voor het verrichten van (rechts-)handelingen, voor zover het aangelegenheden betreft die verband houden met de taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015697&artikel=3&z=2003-12-01&g=2003-12-01) van deze regeling, waarvan het naar zijn oordeel en te zijner verantwoording niet noodzakelijk is dat de minister of staatssecretaris deze verricht;
 
 2. De plaatsvervangend secretaris-generaal wordt toegestaan het hem verleende mandaat, de hem verleende volmacht of de hem verleende machtiging door te geven aan onder hem ressorterende functionarissen.
 
-#### Artikel 5. Ondertekening
+##### Artikel 5. Ondertekening
 
 1. Ingeval van schriftelijke vastlegging van een handeling van de plaatsvervangend secretaris-generaal, luidt de ondertekening:
 

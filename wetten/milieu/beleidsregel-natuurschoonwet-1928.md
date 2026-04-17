@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregel Natuurschoonwet 1928"
 identifier: "BWBR0044624"
-categorie: "Milieu"
-publicatiedatum: 2021-01-01
-laatste_update: 2021-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044624"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2021-01-01"
+last_updated: "2021-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044624"
+soort: "beleidsregel"
+stam_id: "15788063"
+version_id: "27370792"
+internal_id: "C38651351"
+label_id: "15725954"
+dtd_version: "2.0"
+original_entry_into_force: "2021-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044624/2021-01-01/0"
+intitule_bron: "Stcrt.2020-62986"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-11-27"
+intitule_published: "2020-12-23"
+intitule_in_force: "2020-12-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-62986"
+original_signed_date: "2020-11-27"
+original_published_date: "2020-12-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-62986"
+entry_into_force_date: "2021-01-01"
+jci_1_3: "jci1.3:c:BWBR0044624&z=2021-01-01&g=2021-01-01"
+jci_1_0: "1.0:c:BWBR0044624&g=2021-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "2020-11-27"
+entry_into_force: "2021-01-01"
 ---
-
 # Beleidsregel Natuurschoonwet 1928
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

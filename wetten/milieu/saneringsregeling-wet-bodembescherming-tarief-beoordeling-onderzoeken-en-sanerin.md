@@ -1,13 +1,37 @@
 ---
 title: "Saneringsregeling Wet bodembescherming; tarief beoordeling onderzoeken en saneringsplannen"
 identifier: "BWBR0007592"
-categorie: "Milieu"
-publicatiedatum: 1995-10-11
-laatste_update: 1995-10-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007592"
+country: "nl"
+rank: "circulaire"
+publication_date: "1995-10-11"
+last_updated: "1995-10-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007592"
+soort: "circulaire"
+stam_id: "6332503"
+version_id: "10985622"
+internal_id: "C14876791"
+label_id: "6321314"
+original_entry_into_force: "1995-10-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007592/1995-10-11/0"
+intitule_bron: "Stcrt.1995-197"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-10-03"
+intitule_published: "1995-10-11"
+intitule_in_force: "1995-10-11"
+intitule_status: "goed"
+original_publication: "Stcrt.1995-197"
+original_signed_date: "1995-10-03"
+original_published_date: "1995-10-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1995-197-p16-SC3885"
+entry_into_force_date: "1995-10-11"
+jci_1_3: "jci1.3:c:BWBR0007592&z=1995-10-11&g=1995-10-11"
+jci_1_0: "1.0:c:BWBR0007592&g=1995-10-11"
+citeertitel_status: "redactioneel"
+signed_date: "1995-10-03"
+entry_into_force: "1995-10-11"
 ---
-
 # Saneringsregeling Wet bodembescherming; tarief beoordeling onderzoeken en saneringsplannen
 
 Circulaire aan de Colleges van Gedeputeerde Staten en de Colleges van Burgemeester en Wethouders van de gemeenten Amsterdam, ’s-Gravenhage, Rotterdam en Utrecht

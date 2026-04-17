@@ -1,20 +1,45 @@
 ---
 title: "Nadere voorschriften inzake de werkwijze van het bestuur"
 identifier: "BWBR0048407"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-07-17
-laatste_update: 2023-07-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048407"
+country: "nl"
+rank: "pbo"
+publication_date: "2023-07-17"
+last_updated: "2023-07-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048407"
+soort: "pbo"
+stam_id: "16805523"
+version_id: "29524552"
+internal_id: "C42210171"
+label_id: "16719124"
+dtd_version: "2.0"
+original_entry_into_force: "2023-07-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048407/2023-07-17/0"
+intitule_bron: "Stcrt.2023-19917"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-07-04"
+intitule_published: "2023-07-17"
+intitule_in_force: "2023-07-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-19917"
+original_signed_date: "2023-07-04"
+original_published_date: "2023-07-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-19917"
+entry_into_force_date: "2023-07-17"
+jci_1_3: "jci1.3:c:BWBR0048407&z=2023-07-17&g=2023-07-17"
+jci_1_0: "1.0:c:BWBR0048407&g=2023-07-17"
+citeertitel_status: "officieel"
+signed_date: "2023-07-04"
+entry_into_force: "2023-07-17"
 ---
-
 # Nadere voorschriften inzake de werkwijze van het bestuur
 
 Gelet op [artikel 20 van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=20);
 
 Stelt de volgende nadere voorschriften vast:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze nadere voorschriften wordt, voor zover niet anders is bepaald, verstaan onder:
 
@@ -24,7 +49,7 @@ In deze nadere voorschriften wordt, voor zover niet anders is bepaald, verstaan 
 
 - –. **verordening:** [verordening op het bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0033794);
 
-#### Artikel 2
+##### Artikel 2
 
 Bij het vormgeven van strategie besteedt het bestuur in ieder geval aandacht aan:
 
@@ -40,7 +65,7 @@ Bij het vormgeven van strategie besteedt het bestuur in ieder geval aandacht aan
 
 - f. andere voor de beroepsorganisatie relevante aspecten, zoals een goede zorg voor het milieu, sociale- en personeelsaangelegenheden, eerbiediging van mensenrechten en bestrijding van corruptie en omkoping.
 
-#### Artikel 3
+##### Artikel 3
 
 In aanvulling op de taak, bedoeld in [artikel 2c, derde lid, van de verordening](https://wetten.overheid.nl/jci1.3:c:BWBR0033794&artikel=2c), heeft de audit- en riskcommissie tot taak toezicht te houden op de hoogste leidinggevenden van het bureau en de directie ten aanzien van:
 
@@ -52,7 +77,7 @@ In aanvulling op de taak, bedoeld in [artikel 2c, derde lid, van de verordening]
 
 - d. het risicomanagement in het algemeen en met betrekking tot fraude in het bijzonder.
 
-#### Artikel 4
+##### Artikel 4
 
 In aanvulling op de taak, bedoeld in [artikel 2c, derde lid, van de verordening](https://wetten.overheid.nl/jci1.3:c:BWBR0033794&artikel=2c) heeft de audit- en riskcommissie tot taak:
 
@@ -60,17 +85,17 @@ In aanvulling op de taak, bedoeld in [artikel 2c, derde lid, van de verordening]
 
 - b. de selectie van de accountant voor te bereiden met inachtneming van de observaties van het bestuur.
 
-#### Artikel 5
+##### Artikel 5
 
 Het bestuur verlangt van de audit- en riskcommissie dat zij jaarlijks aan het bestuur rapporteert over het functioneren van en de ontwikkelingen in de relatie met de accountant.
 
-#### Artikel 6
+##### Artikel 6
 
 1. In aanvulling op de taak, bedoeld in [artikel 2c, derde lid, van de verordening](https://wetten.overheid.nl/jci1.3:c:BWBR0033794&artikel=2c) heeft de audit- en riskcommissie tot taak aan het bestuur een voorstel te doen voor de opdracht tot controle van de jaarrekening door de accountant.
 
 2. Bij het formuleren van het voorstel, bedoeld in het vorige lid, heeft de audit- en riskcommissie aandacht voor de reikwijdte van het accountantsonderzoek, de te hanteren materialiteit en het honorarium van de accountant.
 
-#### Artikel 7
+##### Artikel 7
 
 In aanvulling op de taak, bedoeld in [artikel 2c, derde lid, van de verordening](https://wetten.overheid.nl/jci1.3:c:BWBR0033794&artikel=2c) heeft de audit- en riskcommissie tot taak:
 
@@ -78,7 +103,7 @@ In aanvulling op de taak, bedoeld in [artikel 2c, derde lid, van de verordening]
 
 - b. reguliere contacten te onderhouden met de accountant, waarbij zij ten minste eenmaal per jaar buiten aanwezigheid van de directie overleg voert met de accountant.
 
-#### Artikel 8
+##### Artikel 8
 
 In aanvulling op de taak, bedoeld in [artikel 2c, derde lid, van de verordening](https://wetten.overheid.nl/jci1.3:c:BWBR0033794&artikel=2c) heeft de audit- en riskcommissie tot taak ten minste eenmaal per jaar met de accountant te spreken over:
 
@@ -86,7 +111,7 @@ In aanvulling op de taak, bedoeld in [artikel 2c, derde lid, van de verordening]
 
 - b. de bevindingen en de uitkomsten van de controlewerkzaamheden bij de jaarrekening en de management letter.
 
-#### Artikel 9
+##### Artikel 9
 
 In aanvulling op de taak, bedoeld in [artikel 2d, derde lid, van de verordening](https://wetten.overheid.nl/jci1.3:c:BWBR0033794&artikel=2d) heeft de selectie- en remuneratiecommissie tot taak:
 
@@ -112,7 +137,7 @@ In aanvulling op de taak, bedoeld in [artikel 2d, derde lid, van de verordening]
 
 - k. het tijdens de bijeenkomst van de ledenvergadering voeren van het woord over remuneratie- en benoemingskwesties.
 
-#### Artikel 10
+##### Artikel 10
 
 In aanvulling op de taak, bedoeld in [artikel 2e, derde lid, van de verordening](https://wetten.overheid.nl/jci1.3:c:BWBR0033794&artikel=2e) heeft de commissie regelgeving tot taak
 
@@ -120,7 +145,7 @@ In aanvulling op de taak, bedoeld in [artikel 2e, derde lid, van de verordening]
 
 - b. het inhoudelijk en beleidsmatig beoordelen van door de beroepsorganisatie uit te brengen, op leden gerichte vaktechnische interpretaties.
 
-#### Artikel 11
+##### Artikel 11
 
 In aanvulling op de taak, bedoeld in [artikel 2f, derde lid, van de verordening](https://wetten.overheid.nl/jci1.3:c:BWBR0033794&artikel=2f) heeft de juridische commissie tot taak:
 
@@ -130,11 +155,11 @@ In aanvulling op de taak, bedoeld in [artikel 2f, derde lid, van de verordening]
 
 - c. periodiek overleg te voeren met een vertegenwoordiging van de Raad voor Toezicht, de Klachtencommissie, de Adviescommissie voor de bezwaarschriften en de Raad voor Geschillen.
 
-#### Artikel 12
+##### Artikel 12
 
 Het bestuur evalueert ten minste eenmaal per jaar buiten aanwezigheid van directie en de hoogste leidinggevenden van het bureau zowel het functioneren van de directie en de hoogste leidinggevenden van het bureau als collectief, als dat van de leden van de directie en bespreekt de conclusies die aan de evaluatie worden verbonden, zulks mede in het licht van opvolging van de directie.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De leden van het bestuur melden nevenfuncties aan het bestuur.
 
@@ -142,7 +167,7 @@ Het bestuur evalueert ten minste eenmaal per jaar buiten aanwezigheid van direct
 
 3. De aanvaarding van een nevenfunctie door een lid van de directie, behoeft de goedkeuring van het bestuur.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Deze nadere voorschriften treden in werking op de dag na publicatie in de Staatscourant.
 

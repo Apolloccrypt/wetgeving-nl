@@ -1,13 +1,39 @@
 ---
-title: "Implementatiebesluit prudentieel toezicht beleggingsondernemingen"
+title: "Besluit van 19 november 2021 tot wijziging van het Besluit prudentiële regels Wft, het Besluit Gedragstoezicht financiële ondernemingen Wft en enkele andere besluiten ter implementatie van de Richtlijn prudentieel toezicht beleggingsondernemingen (Implementatiebesluit prudentieel toezicht beleggingsondernemingen)"
 identifier: "BWBR0045910"
-categorie: "Bestuursrecht"
-publicatiedatum: 2021-11-26
-laatste_update: 2021-11-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045910"
+country: "nl"
+rank: "amvb"
+publication_date: "2021-11-26"
+last_updated: "2021-11-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045910"
+soort: "AMvB"
+stam_id: "16154603"
+version_id: "28187942"
+internal_id: "C39741791"
+label_id: "16083144"
+dtd_version: "2.0"
+original_entry_into_force: "2021-11-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045910/2021-11-26/0"
+intitule_bron: "Stb.2021-571"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-11-19"
+intitule_published: "2021-11-25"
+intitule_in_force: "2021-11-25"
+intitule_status: "goed"
+original_publication: "Stb.2021-571"
+original_signed_date: "2021-11-19"
+original_published_date: "2021-11-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2021-571"
+entry_into_force_date: "2021-11-26"
+jci_1_3: "jci1.3:c:BWBR0045910&z=2021-11-26&g=2021-11-26"
+jci_1_0: "1.0:c:BWBR0045910&g=2021-11-26"
+citeertitel_status: "officieel"
+short_title: "Implementatiebesluit prudentieel toezicht beleggingsondernemingen"
+signed_date: "2021-11-19"
+entry_into_force: "2021-11-26"
 ---
-
 # Besluit van 19 november 2021 tot wijziging van het Besluit prudentiële regels Wft, het Besluit Gedragstoezicht financiële ondernemingen Wft en enkele andere besluiten ter implementatie van de Richtlijn prudentieel toezicht beleggingsondernemingen (Implementatiebesluit prudentieel toezicht beleggingsondernemingen)
 
 Op de voordracht van Onze Minister van Financiën van 8 september 2021, 2021-0000179037, directie Financiële Markten;
@@ -20,27 +46,27 @@ Gezien het nader rapport van Onze Minister van Financiën van 17 november 2021, 
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Besluit prudentiële regels Wft.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Besluit uitvoering publicatieverplichtingen richtlijn kapitaalvereisten.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Besluit Gedragstoezicht financiële ondernemingen Wft.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het Besluit bestuurlijke boetes financiële sector.
 
-#### Artikel V
+##### Artikel V
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-#### Artikel VI
+##### Artikel VI
 
 Dit besluit wordt aangehaald als: Implementatiebesluit prudentieel toezicht beleggingsondernemingen.
 

@@ -1,18 +1,43 @@
 ---
 title: "Besluit visserij producten 1999 BES"
 identifier: "BWBR0028480"
-categorie: "Overig"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028480"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028480"
+soort: "AMvB-BES"
+stam_id: "10803053"
+version_id: "17781412"
+internal_id: "C24790211"
+label_id: "10777944"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028480/2010-10-10/0"
+intitule_bron: "Stb.2010-656"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-21"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-656"
+original_signed_date: "2010-09-21"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-656"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028480&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028480&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-21"
+entry_into_force: "2010-10-10"
 ---
-
 # Besluit visserij producten 1999 BES
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -96,11 +121,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - ff. **kritisch punt:** elk punt waarop, elk stadium waarin of elk procédé waarmee, door middel van een adequate controle, een bedreiging van de veiligheid van het voedsel kan worden vermeden, opgeheven of tot een aanvaardbaar niveau gereduceerd.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Dit besluit berust op [artikel 3, eerste, tweede en zesde lid van de Warenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&artikel=3).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het is verboden visserijproducten die niet voldoen aan de regels, gegeven bij of krachtens dit besluit, met betrekking tot hun samenstelling te behandelen, op te slaan, te bewerken of verwerken of te verhandelen.
 
@@ -112,11 +137,11 @@ Dit besluit berust op [artikel 3, eerste, tweede en zesde lid van de Warenwet BE
 
 5. Het is verboden visserijproducten anders dan met inachtneming van de bij of krachtens dit besluit gegeven regels binnen het grondgebied van de openbare lichamen Bonaire, Sint Eustatius en Saba te brengen.
 
-#### Artikel 3
+##### Artikel 3
 
 Visserijproducten kunnen slechts binnen het grondgebied van de openbare lichamen Bonaire, Sint Eustatius en Saba worden gebracht, indien zij van een zodanige kwaliteit zijn dat zij bij redelijkerwijs te verwachten wijzen van behandeling en gebruik uit het oogpunt van de volksgezondheid geschikt zijn voor menselijke consumptie.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Visserijproducten die niet afkomstig zijn uit de openbare lichamen Bonaire, Sint Eustatius en Saba, of die in hun natuurlijk milieu door een onder de vlag van een andere staat dan Nederland varend vaartuig gevangen zijn, worden, indien zij voor de uitvoer bestemd zijn, ten minste aan dezelfde voorschriften onderworpen als andere visserijproducten die voor de uitvoer bestemd zijn.
 
@@ -126,7 +151,7 @@ Visserijproducten kunnen slechts binnen het grondgebied van de openbare lichamen
 
 4. Voorschriften als in het tweede lid bedoeld kunnen eveneens worden vastgesteld met betrekking tot de controle van niet voor de uitvoer bestemde visserijproducten die niet afkomstig zijn uit de openbare lichamen Bonaire, Sint Eustatius en Saba of die in hun natuurlijk milieu door een onder de vlag van een andere staat dan Nederland varend vaartuig gevangen zijn.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het is verboden de navolgende visserijproducten te verhandelen:
 
@@ -136,13 +161,13 @@ Visserijproducten kunnen slechts binnen het grondgebied van de openbare lichamen
 
 2. Bij regeling van Onze Minister kunnen nadere regels worden gegeven aangaande de visserijproducten, bedoeld in het eerste lid, en met betrekking tot methoden van onderzoek.
 
-#### Artikel 6
+##### Artikel 6
 
 [Artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0028480&paragraaf=4&artikel=21&z=2010-10-10&g=2010-10-10) is mede van toepassing op de detailhandel, met uitzondering van de verkoop in het klein en de rechtstreekse overdracht op een lokale markt in kleine hoeveelheden door een visser aan de kleinhandel of de consument; de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028480&paragraaf=1&artikel=3&z=2010-10-10&g=2010-10-10), [4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028480&paragraaf=1&artikel=4&z=2010-10-10&g=2010-10-10), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028480&paragraaf=1&artikel=5&z=2010-10-10&g=2010-10-10) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0028480&paragraaf=2&artikel=10&z=2010-10-10&g=2010-10-10) zijn mede van toepassing op de detailhandel, met inbegrip van de bedoelde verkoop in het klein door een visser.
 
 #### § 2. Behandeling, be- en verwerking
 
-#### Artikel 7
+##### Artikel 7
 
 1. Visserijproducten die in hun natuurlijk milieu gevangen zijn, kunnen uitsluitend worden verhandeld, indien aan het navolgende is voldaan:
 
@@ -164,7 +189,7 @@ Visserijproducten kunnen slechts binnen het grondgebied van de openbare lichamen
 
 4. Bij regeling van Onze Minister worden regels gegeven met betrekking tot het bepaalde in het eerste lid.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Behoudens het bepaalde in de volgende leden van dit artikel zijn als levensmiddelenadditieven bij enige fase van de behandeling en bereiding van visserijproducten slechts de bij ministeriële beschikking met algemene werking aangewezen stoffen toegelaten. In die beschikking wordt zo nodig tevens de maximale gehaltes vastgesteld welke in die producten of in een of meer bepaalde soorten of categorieën daarvan van een bepaald levensmiddelenadditief mogen worden aangetroffen.
 
@@ -172,7 +197,7 @@ Visserijproducten kunnen slechts binnen het grondgebied van de openbare lichamen
 
 3. Levensmiddelenadditieven als in het eerste lid bedoeld voldoen wat betreft de zuiverheidseisen aan richtlijn no. 96/77/EG van de Commissie van 2 december 1996 tot vaststelling van specifieke zuiverheidseisen voor levensmiddelenadditieven met uitzondering van kleurstoffen en zoetstoffen (PbEG L 339). Voor zover deze richtlijn op levensmiddelenadditieven welke in visserijproducten kunnen worden aangewend betrekking heeft, is de tekst ervan in bijlage I opgenomen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het is verboden visserijproducten of grondstoffen die bij de bereiding van visserijproducten worden gebruikt met ioniserende stralen te behandelen.
 
@@ -180,13 +205,13 @@ Visserijproducten kunnen slechts binnen het grondgebied van de openbare lichamen
 
 3. Bij ministeriële beschikking met algemene werking, kunnen regels worden gegeven aangaande de doorstraling met ioniserende stralen waarin wordt bepaald onder welke omstandigheden, op welke voorwaarden en voor welke producten het in het eerste lid bedoelde verbod niet geldt.
 
-#### Artikel 10
+##### Artikel 10
 
 Visserijproducten die levend worden verhandeld, worden voortdurend gehouden in omstandigheden die optimaal zijn voor hun overleving.
 
 #### § 3. Inrichtingen
 
-#### Artikel 11
+##### Artikel 11
 
 1. Een inrichting behoeft om te kunnen worden gebruikt voor de werkzaamheden waarvoor zij is aangelegd de erkenning van de bevoegde autoriteit.
 
@@ -208,7 +233,7 @@ Visserijproducten die levend worden verhandeld, worden voortdurend gehouden in o
 
 10. Het gebruik van een erkenningsnummer door een inrichting waarvan de erkenning is ingetrokken is verboden.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Tegen de weigering of nalatigheid om op een aanvrage van erkenning een besluit te nemen en tegen de weigering of intrekking van een erkenning kan degene die daardoor rechtstreeks in zijn belang getroffen wordt, alvorens bij de rechter, bedoeld in artikel 18 van de wet, beroep in te stellen, bij het desbetreffende bestuursorgaan een beroepschrift indienen.
 
@@ -218,7 +243,7 @@ Visserijproducten die levend worden verhandeld, worden voortdurend gehouden in o
 
 4. Alle besluiten welke ingevolge het voorgaande en dit artikel tot stand komen, het besluit op een beroepschrift als bedoeld in het derde lid daarbij inbegrepen, worden bekendgemaakt op de wijze waarop het desbetreffende bestuursorgaan besluiten, niet zijnde besluiten van algemene strekking, pleegt bekend te maken. Indien de inrichting waarop een besluit betrekking heeft een erkenningsnummer heeft of bij dat besluit ontvangt, wordt dit in de bekendmaking vermeld.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De bevoegde instantie stelt een lijst op van erkende inrichtingen onder vermelding van de erkenningsnummers, en werkt deze lijst bij zo dikwijls als daartoe aanleiding bestaat.
 
@@ -226,7 +251,7 @@ Visserijproducten die levend worden verhandeld, worden voortdurend gehouden in o
 
 #### § 4. Fabrieksvaartuigen en vissersvaartuigen
 
-#### Artikel 14
+##### Artikel 14
 
 1. De [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028480&paragraaf=3&artikel=11&z=2010-10-10&g=2010-10-10), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0028480&paragraaf=3&artikel=12&z=2010-10-10&g=2010-10-10) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0028480&paragraaf=3&artikel=13&z=2010-10-10&g=2010-10-10) zijn mede op fabrieksvaartuigen en vissersvaartuigen van toepassing.
 
@@ -234,7 +259,7 @@ Visserijproducten die levend worden verhandeld, worden voortdurend gehouden in o
 
 3. Het model van het certificaat, bedoeld in het tweede lid, wordt vastgesteld bij regeling van Onze Minister.
 
-#### Artikel 15
+##### Artikel 15
 
 De voor een inrichting verantwoordelijke ondernemer draagt er uit eigen beweging zorg voor dat de bij of krachtens dit besluit gegeven regels worden nageleefd. Daartoe ziet hij erop toe dat binnen de inrichting interne controles worden uitgeoefend welke gebaseerd zijn op de volgende uitgangspunten:
 
@@ -248,7 +273,7 @@ De voor een inrichting verantwoordelijke ondernemer draagt er uit eigen beweging
 
 - e. de resultaten van de interne controles en onderzoeken worden op verzoek van personen, belast met de controle of het toezicht, aan deze voorgelegd.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Voor zover de ondernemer de uitvoering van zijn verplichting tot het instellen van interne controles aan ondergeschikten overdraagt, wijst hij hiertoe personen aan die verantwoordelijk zijn voor een of meer productie-eenheden.
 
@@ -256,11 +281,11 @@ De voor een inrichting verantwoordelijke ondernemer draagt er uit eigen beweging
 
 3. Voor de uitvoering van de interne controles in een inrichting kan gebruik worden gemaakt van gidsen voor goede praktijken, opgesteld door Nederlandse beroeps- of anderszins op het gebied van de visproductie werkzame organisaties, mits deze gidsen door de bevoegde instantie zijn aanvaard.
 
-#### Artikel 17
+##### Artikel 17
 
 De ondernemer is verplicht om, indien uit de interne controles of langs andere hem bekende weg blijkt of door hem kan worden vermoed dat een gevaar voor de volksgezondheid bestaat, aan de bevoegde instantie zo spoedig mogelijk mededeling te doen van alle gegevens dienaangaande die hem bekend zijn.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Bij de identificatie van kritische punten, die ingevolge [artikel 15, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028480&paragraaf=4&artikel=15&z=2010-10-10&g=2010-10-10), in het kader van de interne controle in elke inrichting voorgeschreven is, worden al die kritische punten opgespoord die, afhankelijk van de gebruikte of te gebruiken grondstoffen, de toegepaste fabricageprocédé’s, de structuur en de uitrusting van de inrichting en de aard van de eindproducten en van het afzetsysteem, van belang kunnen zijn om de naleving van deze en andere van toepassing zijnde regels, gegeven bij of krachtens dit besluit, te verzekeren.
 
@@ -270,7 +295,7 @@ De ondernemer is verplicht om, indien uit de interne controles of langs andere h
 
 4. Bij het verrichten van de controle of het toezicht wordt nagegaan of de systemen van interne controle op zodanige wijze zijn uitgewerkt en worden gehandhaafd, dat het beoogde resultaat daarvan gewaarborgd is.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De doelmatigheid van de ingevolge [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028480&paragraaf=4&artikel=18&z=2010-10-10&g=2010-10-10) opgezette systemen van interne controles wordt onderzocht door middel van de monsterneming, bedoeld in [artikel 15, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028480&paragraaf=4&artikel=15&z=2010-10-10&g=2010-10-10). Bij regeling van Onze Minister worden regels met betrekking tot deze monsterneming gegeven.
 
@@ -286,7 +311,7 @@ De ondernemer is verplicht om, indien uit de interne controles of langs andere h
 
 4. Zowel de eigen laboratoria van inrichtingen als de externe laboratoria waar monsters voor onderzoek uit hoofde van controle, inspectie of toezicht worden onderzocht, zijn onderworpen aan de goedkeuring door de bevoegde instantie volgens normen die bij ministeriële beschikking met algemene werking worden vastgesteld. Deze normen kunnen voor de eigen laboratoria minder streng zijn dan voor externe laboratoria.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De Commissie is, indien zij dit voor de richtige en eenvormige toepassing van richtlijnen of regelingen van de Europese Gemeenschap nodig of wenselijk acht, bevoegd om door haar aangewezen deskundigen in de openbare lichamen Bonaire, Sint Eustatius en Saba in samenwerking met de bevoegde instantie inspecties te doen uitvoeren ten einde na te gaan of met betrekking tot voor de uitvoer bestemde visserijproducten wordt voldaan aan eisen welke met de in de Europese Gemeenschap in overeenkomstige gevallen gestelde eisen ten minste overeenkomen. Onze Minister, het Bestuurscollege en de bevoegde instantie verlenen aan deze deskundigen alle vereiste medewerking en bijstand bij de uitvoering van hun taak.
 
@@ -294,19 +319,19 @@ De ondernemer is verplicht om, indien uit de interne controles of langs andere h
 
 #### § 4. Analyse van visserijproducten; gezondheidscertificaat
 
-#### Artikel 21
+##### Artikel 21
 
 1. Visserijproducten voldoen aan de analytische en organoleptische eisen die worden gegeven bij regeling van Onze Minister. Ten einde na te gaan of dit het geval is wordt bij uitsluiting gebruik gemaakt van microbiologische en biochemische onderzoeksmethoden, fysisch-chemische scheidings- en detectiemethoden en organoleptische onderzoeksmethoden.
 
 2. Bij regeling van Onze Minister worden regels gegeven met betrekking tot de in het voorgaande lid bedoelde onderzoeksmethoden.
 
-#### Artikel 22
+##### Artikel 22
 
 Een partij visserijproducten wordt bij uitvoer vergezeld van het genummerde, originele exemplaar van een door de bevoegde instantie afgegeven gezondheidscertificaat, waarin wordt verklaard dat de gezondheidsvoorwaarden voor de productie, be- of verwerking en identificering van de producten ten minste gelijkwaardig zijn aan de bij de Richtlijn visserijproducten gestelde voorwaarden. Bij regeling van Onze Minister worden regels gegeven met betrekking tot het certificaat.
 
 #### § 5. Verpakking, aanduiding, opslag en vervoer van voor de uitvoer bestemde visserijproducten
 
-#### Artikel 23
+##### Artikel 23
 
 De uitvoer van visserijproducten geschiedt uitsluitend, indien aan de navolgende voorwaarden is voldaan:
 
@@ -322,7 +347,7 @@ De uitvoer van visserijproducten geschiedt uitsluitend, indien aan de navolgende
 
 - d. de opslag en het vervoer geschieden onder hygiënische omstandigheden.
 
-#### Artikel 24
+##### Artikel 24
 
 Bij regeling van Onze Minister worden in verband met de voorwaarden, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028480&paragraaf=5&artikel=23&z=2010-10-10&g=2010-10-10), regels gegeven met betrekking tot:
 
@@ -334,7 +359,7 @@ Bij regeling van Onze Minister worden in verband met de voorwaarden, bedoeld in 
 
 - d. het vervoer van visserijproducten.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Het is verboden verpakkingen en verpakkingsmaterialen voor visserijproducten met ioniserende stralen te behandelen, indien de gemiddelde geabsorbeerde stralingsdosis meer bedraagt dan 10 kGy.
 
@@ -342,16 +367,16 @@ Bij regeling van Onze Minister worden in verband met de voorwaarden, bedoeld in 
 
 3. Bij regeling van Onze Minister kunnen regels worden gegeven aangaande het gebruik van verpakkingsgassen, waarbij wordt bepaald onder welke omstandigheden, op welke voorwaarden en voor welke visserijproducten het in het eerste lid bedoelde verbod niet geldt.
 
-#### Artikel 26
+##### Artikel 26
 
 Voor zover op grond van dit besluit controles of keuringen moeten worden verricht komen de kosten daarvan voor rekening van de te controleren of keuren inrichting.
 
 #### § 6. Slotbepalingen
 
-#### Artikel 27
+##### Artikel 27
 
 Dit besluit treedt in werking met ingang van de dag na die van uitgifte van het Publicatieblad waarin het geplaatst is en werkt terug tot en met 9 november 1998.
 
-#### Artikel 28
+##### Artikel 28
 
 Dit besluit wordt aangehaald als: Besluit visserij producten 1999 BES.

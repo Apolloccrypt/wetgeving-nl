@@ -1,13 +1,35 @@
 ---
 title: "Protocol tot aanpassing van de institutionele aspecten van de Europa-Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en Roemenië, anderzijds, teneinde rekening te houden met de toetreding van de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden tot de Europese Unie"
 identifier: "BWBV0001412"
-categorie: "Internationaal recht"
-publicatiedatum: 1999-06-28
-laatste_update: 1999-06-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001412"
+country: "nl"
+rank: "verdrag"
+publication_date: "1999-06-28"
+last_updated: "1999-06-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001412"
+soort: "verdrag"
+stam_id: "10002003293"
+version_id: "10002091362"
+internal_id: "C10006992281"
+label_id: "10002003394"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001412/1999-06-28/0"
+intitule_bron: "Trb.1999-159"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-10-14"
+intitule_published: "1999-08-23"
+intitule_status: "nogniet"
+original_publication: "Trb.1999-159"
+original_signed_date: "1999-10-14"
+original_published_date: "1999-08-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1999-159"
+jci_1_3: "jci1.3:c:BWBV0001412&z=1999-06-28&g=1999-06-28"
+jci_1_0: "1.0:c:BWBV0001412&g=1999-06-28"
+citeertitel_status: "redactioneel"
+signed_date: "1999-10-14"
+entry_into_force: "1999-08-23"
 ---
-
 # Protocol tot aanpassing van de institutionele aspecten van de Europa-Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en Roemenië, anderzijds, teneinde rekening te houden met de toetreding van de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden tot de Europese Unie
 
 Het Koninkrijk België,
@@ -62,27 +84,27 @@ Besloten hebbende om in onderling overleg de in de Europa-overeenkomst aan te br
 
 Hebben overeenstemming bereikt omtrent de volgende bepalingen:
 
-#### Artikel 1
+##### Artikel 1
 
 De Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden worden overeenkomstsluitende partij bij de Europa-overeenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en Roemenië, anderzijds.
 
-#### Artikel 2
+##### Artikel 2
 
 De tekst van de Europa-overeenkomst, met inbegrip van de bijlagen en protocollen die daarvan integrerend deel uitmaken, evenals de aan deslotakte gehechte verklaringen, gesteld in de Finse en de Zweedse taal,Niet afgedrukt. zijn onder dezelfde voorwaarden rechtsgeldig als de oorspronkelijke teksten. De Finse en de Zweedse teksten van de genoemde Europa-overeenkomst zijn aan dit protocol gehecht.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit protocol, dat een integrerend bestanddeel vormt van de overeenkomst, wordt door de partijen volgens hun eigen procedures goedgekeurd. De partijen nemen de nodige maatregelen voor de tenuitvoerlegging van dit protocol.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit protocol treedt in werking op de eerste dag van de tweede maand volgende op de datum waarop de overeenkomstsluitende partijen elkaar kennis geven van de voltooiing van de overeenkomstig artikel 3 vereiste procedures.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit protocol wordt nedergelegd bij het secretariaat-generaal van de Raad van de Europese Unie.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit protocol werd opgesteld in twee exemplaren in de Deense, de Duitse, de Engelse, de Finse, de Franse, de Griekse, de Italiaanse, de Nederlandse, de Portugese, de Spaanse, de Zweedse en de Roemeense taal, zijnde alle teksten gelijkelijk authentiek.
 

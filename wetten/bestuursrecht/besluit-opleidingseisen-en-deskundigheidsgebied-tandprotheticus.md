@@ -1,13 +1,39 @@
 ---
-title: "Besluit opleidingseisen en deskundigheidsgebied tandprotheticus"
+title: "Besluit van 22 augustus 1997, houdende regels inzake de opleiding tot en de deskundigheid van de tandprotheticus (Besluit opleidingseisen en deskundigheidsgebied tandprotheticus)"
 identifier: "BWBR0008882"
-categorie: "Bestuursrecht"
-publicatiedatum: 1997-12-01
-laatste_update: 1997-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008882"
+country: "nl"
+rank: "amvb"
+publication_date: "1997-12-01"
+last_updated: "1997-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008882"
+soort: "AMvB"
+stam_id: "711443"
+version_id: "1038672"
+internal_id: "C1038671"
+label_id: "689644"
+dtd_version: "2.0"
+original_entry_into_force: "1997-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008882/1997-12-01/0"
+intitule_bron: "Stb.1997-477"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-08-22"
+intitule_published: "1997-10-23"
+intitule_in_force: "1997-11-27"
+intitule_status: "goed"
+original_publication: "Stb.1997-477"
+original_signed_date: "1997-08-22"
+original_published_date: "1997-10-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-1997-477"
+entry_into_force_date: "1997-12-01"
+jci_1_3: "jci1.3:c:BWBR0008882&z=1997-12-01&g=1997-12-01"
+jci_1_0: "1.0:c:BWBR0008882&g=1997-12-01"
+citeertitel_status: "officieel"
+short_title: "Besluit opleidingseisen en deskundigheidsgebied tandprotheticus"
+signed_date: "1997-08-22"
+entry_into_force: "1997-12-01"
 ---
-
 # Besluit van 22 augustus 1997, houdende regels inzake de opleiding tot en de deskundigheid van de tandprotheticus (Besluit opleidingseisen en deskundigheidsgebied tandprotheticus)
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 16 juni 1997, CSZ/BO-978516;
@@ -24,7 +50,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsbepaling
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -36,13 +62,13 @@ In dit besluit wordt verstaan onder:
 
 #### § 2. Titel
 
-#### Artikel 2
+##### Artikel 2
 
 Het recht tot het voeren van de titel van tandprotheticus is voorbehouden aan degene aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding tot tandprotheticus die is gegeven door een door Onze Minister aangewezen opleidingsinstelling.
 
 #### § 3. Opleiding
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een opleiding als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008882&paragraaf=2&artikel=2&z=1997-12-01&g=1997-12-01) omvat ten minste de volgende onderdelen:
 
@@ -60,7 +86,7 @@ Het recht tot het voeren van de titel van tandprotheticus is voorbehouden aan de
 
 #### § 4. Deskundigheid
 
-#### Artikel 4
+##### Artikel 4
 
 1. Tot het gebied van deskundigheid van de tandprotheticus wordt gerekend:
 
@@ -78,7 +104,7 @@ Het recht tot het voeren van de titel van tandprotheticus is voorbehouden aan de
 
 #### § 5. Aanwijzing opleidingsinstellingen
 
-#### Artikel 5
+##### Artikel 5
 
 1. Onze Minister kan desgevraagd een opleidingsinstelling aanwijzen die een opleiding tot tandprotheticus verzorgt die naar zijn oordeel voldoet aan het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008882&paragraaf=3&artikel=3&z=1997-12-01&g=1997-12-01) gestelde.
 
@@ -96,13 +122,13 @@ Het recht tot het voeren van de titel van tandprotheticus is voorbehouden aan de
 
 4. Van een aanwijzing of een intrekking van een aanwijzing wordt kennis gegeven in de Staatscourant.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De opleidingsinstelling stelt jaarlijks een opleidingsplan vast waarin de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008882&paragraaf=3&artikel=3&z=1997-12-01&g=1997-12-01) omschreven onderdelen nader zijn uitgewerkt.
 
 2. De opleidingsinstelling draagt ervoor zorg dat de studenten en andere belanghebbenden van het opleidingsplan tijdig kennis kunnen nemen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De opleidingsinstelling draagt ervoor zorg dat het afsluitende examen van de opleiding tot tandprotheticus wordt afgenomen door een door haar ingestelde examencommissie en overeenkomstig een door haar vastgesteld examenreglement.
 
@@ -124,11 +150,11 @@ Het recht tot het voeren van de titel van tandprotheticus is voorbehouden aan de
 
 #### § 6. Slotbepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit opleidingseisen en deskundigheidsgebied tandprotheticus.
 

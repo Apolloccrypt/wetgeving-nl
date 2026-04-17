@@ -1,18 +1,44 @@
 ---
-title: "Instellingsbesluit programmaraad IPOHV"
+title: "Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 8 december 2025 nr. OVO/51885541, houdende instelling van de programmaraad Innovatieprogramma Onderwijshuisvesting (IPOHV) voor de periode 2025 tot en met 2039 (Instellingsbesluit programmaraad IPOHV 2025–2039)"
 identifier: "BWBR0051968"
-categorie: "Overig"
-publicatiedatum: 2025-12-18
-laatste_update: 2025-12-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051968"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-12-18"
+last_updated: "2025-12-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051968"
+soort: "ministeriele-regeling"
+stam_id: "17680093"
+version_id: "31200372"
+internal_id: "C44631961"
+label_id: "17579484"
+dtd_version: "2.0"
+original_entry_into_force: "2025-12-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051968/2025-12-18/0"
+intitule_bron: "Stcrt.2025-43286"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-12-08"
+intitule_published: "2025-12-17"
+intitule_in_force: "2025-12-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-43286"
+original_signed_date: "2025-12-08"
+original_published_date: "2025-12-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-43286"
+entry_into_force_date: "2025-12-18"
+jci_1_3: "jci1.3:c:BWBR0051968&z=2025-12-18&g=2025-12-18"
+jci_1_0: "1.0:c:BWBR0051968&g=2025-12-18"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit programmaraad IPOHV"
+signed_date: "2025-12-08"
+entry_into_force: "2025-12-18"
 ---
-
 # Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 8 december 2025 nr. OVO/51885541, houdende instelling van de programmaraad Innovatieprogramma Onderwijshuisvesting (IPOHV) voor de periode 2025 tot en met 2039 (Instellingsbesluit programmaraad IPOHV 2025–2039)
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -26,7 +52,7 @@ In dit besluit wordt verstaan onder:
 
 - **minister:** Minister van Onderwijs, Cultuur en Wetenschap
 
-#### Artikel 2. Instelling en taak van de programmaraad
+##### Artikel 2. Instelling en taak van de programmaraad
 
 1. Er is een programmaraad Innovatieprogramma Onderwijshuisvesting (IPOHV).
 
@@ -44,7 +70,7 @@ In dit besluit wordt verstaan onder:
 
 4. De programmaraad vertegenwoordigt de volle breedte van het funderend onderwijs en de markt op het gebied van onderwijshuisvesting en kan specifieke kennis inwinnen over bepaalde vraagstukken en daarmee zorgdragen voor draagvlak voor de koers en resultaten van het programma.
 
-#### Artikel 3. Samenstelling, benoeming en ontslag
+##### Artikel 3. Samenstelling, benoeming en ontslag
 
 1. De programmaraad bestaat uit een voorzitter en leden.
 
@@ -74,7 +100,7 @@ In dit besluit wordt verstaan onder:
 
 11. Een lid kan te allen tijde als zodanig ontslag nemen en geeft daarvan schriftelijk kennis aan de voorzitter.
 
-#### Artikel 4. Leden
+##### Artikel 4. Leden
 
 Tot deelnemende organisaties van de programmaraad IPOHV worden benoemd:
 
@@ -128,45 +154,45 @@ Markt:
 
 Gebouwtechnologie NL (bestaande uit: Binnenklimaat NL, NVKL, FME, Vereniging Distributie en afgifte Industrie) wordt vertegenwoordigd door Binnenklimaat NL. Dus deze bedrijven hebben indirect zitting in de Raad.
 
-#### Artikel 5. Secretariaat
+##### Artikel 5. Secretariaat
 
 1. De PO-Raad en VO-raad voorzien gezamenlijk in het secretariaat van de programmaraad.
 
 2. Het secretariaat is belast met de voorbereiding en de coördinatie van de werkzaamheden van de programmaraad.
 
-#### Artikel 6. Werkwijze
+##### Artikel 6. Werkwijze
 
 1. De programmaraad stelt haar eigen werkwijze vast binnen de kaders van het programma IPOHV.
 
 2. Na toestemming van de minister kan de programmaraad zich door andere personen laten bijstaan voor zover dat voor de vervulling van haar taak nodig is.
 
-#### Artikel 7. Informatieplicht
+##### Artikel 7. Informatieplicht
 
 De programmaraad verstrekt aan de minister desgevraagd de door hem gewenste inlichtingen. De minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.
 
-#### Artikel 8. Vergoeding
+##### Artikel 8. Vergoeding
 
 Leden van de programmaraad ontvangen geen geldelijke beloning voor de te verrichten werkzaamheden en hebben geen recht op reiskostenvergoeding.
 
-#### Artikel 9. Kosten van de programmaraad
+##### Artikel 9. Kosten van de programmaraad
 
 Voor zover goedgekeurd komen de kosten van de programmaraad voor rekening van de minister.
 
-#### Artikel 10. Openbaarmaking
+##### Artikel 10. Openbaarmaking
 
 Rapporten, notities, verslagen, adviezen en andere producten die door of namens de programmaraad worden vervaardigd of vergaard, worden niet door de programmaraad openbaar gemaakt, maar uitsluitend aan de minister uitgebracht of overgedragen.
 
-#### Artikel 11. Archiefbescheiden
+##### Artikel 11. Archiefbescheiden
 
 De programmaraad draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden de bescheiden betreffende die werkzaamheden over aan het archief van de Directie Voortgezet Onderwijs van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
-#### Artikel 12. Inwerkingtreding en vervaldatum
+##### Artikel 12. Inwerkingtreding en vervaldatum
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van publicatie in de Staatscourant en werkt daarbij terug tot en met 1 mei 2025.
 
 2. Dit besluit vervalt met ingang van 1 januari 2040.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit programmaraad IPOHV.
 

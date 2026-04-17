@@ -1,13 +1,39 @@
 ---
-title: "Besluit beleidsregel bekendmaken delen A en B van het Registration Report"
+title: "Besluit beleidsregel bekendmaken delen A en B van het Registration Report (vastgesteld in vergadering van het College voor de toelating van gewasbeschermingsmiddelen en biociden C-276 d.d. 22 april 2015)"
 identifier: "BWBR0036784"
-categorie: "Overig"
-publicatiedatum: 2015-09-03
-laatste_update: 2015-09-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036784"
+country: "nl"
+rank: "zbo"
+publication_date: "2015-09-03"
+last_updated: "2015-09-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036784"
+soort: "zbo"
+stam_id: "13207253"
+version_id: "22537402"
+internal_id: "C32330331"
+label_id: "13175544"
+dtd_version: "2.0"
+original_entry_into_force: "2015-09-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036784/2015-09-03/0"
+intitule_bron: "Stcrt.2015-18408"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-06-24"
+intitule_published: "2015-07-03"
+intitule_in_force: "2015-07-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-18408"
+original_signed_date: "2015-06-24"
+original_published_date: "2015-07-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-18408"
+entry_into_force_date: "2015-09-03"
+jci_1_3: "jci1.3:c:BWBR0036784&z=2015-09-03&g=2015-09-03"
+jci_1_0: "1.0:c:BWBR0036784&g=2015-09-03"
+citeertitel_status: "officieel"
+short_title: "Besluit beleidsregel bekendmaken delen A en B van het Registration Report"
+signed_date: "2015-06-24"
+entry_into_force: "2015-09-03"
 ---
-
 # Besluit beleidsregel bekendmaken delen A en B van het Registration Report (vastgesteld in vergadering van het College voor de toelating van gewasbeschermingsmiddelen en biociden C-276 d.d. 22 april 2015)
 
 Het College voor de toelating van gewasbeschermingsmiddelen en biociden besluit,

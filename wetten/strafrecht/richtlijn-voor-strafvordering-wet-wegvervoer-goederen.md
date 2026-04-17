@@ -1,13 +1,35 @@
 ---
 title: "Richtlijn voor Strafvordering Wet wegvervoer goederen"
 identifier: "BWBR0041664"
-categorie: "Strafrecht"
-publicatiedatum: 2019-01-01
-laatste_update: 2019-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041664"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2019-01-01"
+last_updated: "2019-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041664"
+soort: "beleidsregel"
+stam_id: "14900633"
+version_id: "25490332"
+internal_id: "C36514571"
+label_id: "14851874"
+dtd_version: "2.0"
+original_entry_into_force: "2019-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041664/2019-01-01/0"
+intitule_bron: "Stcrt.2018-67910"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2018-12-13"
+intitule_in_force: "2018-12-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-67910"
+original_published_date: "2018-12-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-67910"
+entry_into_force_date: "2019-01-01"
+jci_1_3: "jci1.3:c:BWBR0041664&z=2019-01-01&g=2019-01-01"
+jci_1_0: "1.0:c:BWBR0041664&g=2019-01-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2019-01-01"
 ---
-
 # Richtlijn voor Strafvordering Wet wegvervoer goederen
 
 Deze richtlijn bevat het strafvorderingsbeleid van het OM inzake overtredingen bepaald bij of krachtens de [Wet wegvervoer goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024800) (WWG), die in [artikel 1 van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1) (WED) als economisch delict zijn aangemerkt.

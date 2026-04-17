@@ -1,13 +1,39 @@
 ---
-title: "Besluit modern migratiebeleid"
+title: "Besluit van 24 juli 2010, houdende wijziging van het Vreemdelingenbesluit 2000 en enkele andere besluiten in verband met de versterking van de positie van de referent in het reguliere vreemdelingenrecht en versnelling van de vreemdelingenrechtelijke procedure, in verband met de implementatie van Richtlijn 2009/50/EG van de Raad van 25 mei 2009 betreffende de voorwaarden voor toegang en verblijf van onderdanen van derde landen met het oog op een hooggekwalificeerde baan (PbEU L 155), in verband met de openbare orde en enkele andere onderwerpen (Besluit modern migratiebeleid)"
 identifier: "BWBR0027992"
-categorie: "Bestuursrecht"
-publicatiedatum: 2013-10-01
-laatste_update: 2013-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027992"
+country: "nl"
+rank: "amvb"
+publication_date: "2013-10-01"
+last_updated: "2013-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027992"
+soort: "AMvB"
+stam_id: "10628223"
+version_id: "17558232"
+internal_id: "C33893351"
+label_id: "10603134"
+dtd_version: "2.0"
+original_entry_into_force: "2010-07-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027992/2013-10-01/0"
+intitule_bron: "Stb.2010-307"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-07-24"
+intitule_published: "2010-07-30"
+intitule_in_force: "2010-07-30"
+intitule_status: "goed"
+original_publication: "Stb.2010-307"
+original_signed_date: "2010-07-24"
+original_published_date: "2010-07-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-307"
+entry_into_force_date: "2010-07-31"
+jci_1_3: "jci1.3:c:BWBR0027992&z=2013-10-01&g=2013-10-01"
+jci_1_0: "1.0:c:BWBR0027992&g=2013-10-01"
+citeertitel_status: "officieel"
+short_title: "Besluit modern migratiebeleid"
+signed_date: "2010-07-24"
+entry_into_force: "2010-07-31"
 ---
-
 # Besluit van 24 juli 2010, houdende wijziging van het Vreemdelingenbesluit 2000 en enkele andere besluiten in verband met de versterking van de positie van de referent in het reguliere vreemdelingenrecht en versnelling van de vreemdelingenrechtelijke procedure, in verband met de implementatie van Richtlijn 2009/50/EG van de Raad van 25 mei 2009 betreffende de voorwaarden voor toegang en verblijf van onderdanen van derde landen met het oog op een hooggekwalificeerde baan (PbEU L 155), in verband met de openbare orde en enkele andere onderwerpen (Besluit modern migratiebeleid)
 
 Op de voordracht van Onze Minister van Justitie van 15 april 2010, nr. 5649364/10/6;
@@ -20,39 +46,39 @@ Gezien het nader rapport van Onze Minister van Justitie van 6 juli 2010, nr. 566
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Vreemdelingenbesluit 2000.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Besluit politiegegevens.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Besluit justitiële gegevens.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het Besluit studiefinanciering 2000.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Besluit tegemoetkoming onderwijsbijdrage en schoolkosten.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt het Besluit inburgering.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt het Uitvoeringsbesluit Wet op de jeugdzorg.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt het Besluit uitvoering Wet arbeid vreemdelingen.
 
-#### Artikel IX
+##### Artikel IX
 
 1. Op het tijdstip waarop de [Wet modern migratiebeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027930) in werking treedt, is referent van de houder van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14) onder een beperking verband houdend met:
 
@@ -70,7 +96,7 @@ Wijzigt het Besluit uitvoering Wet arbeid vreemdelingen.
 
 2. Bij regeling van Onze Minister kunnen nadere regels worden gesteld omtrent de toepassing van het eerste lid.
 
-#### Artikel X
+##### Artikel X
 
 1. Een op het tijdstip van inwerkingtreding van de [Wet Modern migratiebeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027930) geldige verblijfsvergunning, verleend onder een beperking als genoemd in kolom A, wordt vanaf dat tijdstip aangemerkt als een verblijfsvergunning, verleend onder een beperking als genoemd in kolom B:
 
@@ -103,25 +129,25 @@ Wijzigt het Besluit uitvoering Wet arbeid vreemdelingen.
 
 3. Onze Minister kan nadere regels stellen omtrent de verblijfsvergunningen, verleend onder een andere beperking als bedoeld in [artikel 3.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.4).
 
-#### Artikel XI
+##### Artikel XI
 
 De verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), wordt niet ingetrokken met toepassing van [artikel 18, eerste lid, onder h, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=18), indien zij is verleend voor de inwerkingtreding van de [Wet modern migratiebeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027930).
 
-#### Artikel XII
+##### Artikel XII
 
 Het in [artikel XII, tweede lid, van de Wet modern migratiebeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027930&artikel=XII) bedoelde tijdstip is 1 juli 2010.
 
-#### Artikel XIII
+##### Artikel XIII
 
 1. De [onderdelen MMM en WWW, subonderdeel 3, van artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0027992&artikel=I&z=2013-10-01&g=2013-10-01) van dit besluit blijven buiten toepassing ten aanzien van de vreemdeling wiens verblijf op grond van het recht zoals dat gold voor de inwerkingtreding van dit besluit niet kon worden beëindigd, tenzij die vreemdeling wegens een na inwerkingtreding van die onderdelen van dit besluit gepleegd misdrijf waartegen een gevangenisstraf van twee jaar of meer is bedreigd bij onherroepelijk geworden rechterlijk vonnis is veroordeeld, dan wel hem terzake van een zodanig misdrijf bij onherroepelijke beschikking een taakstraf is opgelegd.
 
 2. Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot de invoering van de [Wet modern migratiebeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027930) en dit besluit.
 
-#### Artikel XIV
+##### Artikel XIV
 
 De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen en onderdelen daarvan en voor de verschillende verblijfsdoelen verschillend kan zijn, met uitzondering van [artikel I, onderdelen C, subonderdeel 1, E, G, subonderdeel 1, N, BBB, subonderdeel 2, CCC, GGG, subonderdeel 2, HHH, MMM, UUU, subonderdeel 2, WWW, subonderdelen 1 en 3, XXX, FFFF, subonderdeel 1, JJJJ, NNNN, subonderdeel 7, PPPP, UUUU, YYYY, subonderdeel 1, BBBBB en FFFFF](https://wetten.overheid.nl/jci1.3:c:BWBR0027992&artikel=I&z=2013-10-01&g=2013-10-01), en [artikel XIII, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027992&artikel=XIII&z=2013-10-01&g=2013-10-01), die in werking treden met ingang van de dag na de datum van afgifte van het Staatsblad waarin dit besluit wordt geplaatst.
 
-#### Artikel XV
+##### Artikel XV
 
 Dit besluit wordt aangehaald als: Besluit modern migratiebeleid.
 

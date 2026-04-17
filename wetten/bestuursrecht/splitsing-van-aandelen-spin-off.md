@@ -1,13 +1,37 @@
 ---
 title: "Splitsing van aandelen ‘Spin off’"
 identifier: "BWBR0006960"
-categorie: "Bestuursrecht"
-publicatiedatum: 1994-10-12
-laatste_update: 1994-10-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006960"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "1994-10-12"
+last_updated: "1994-10-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006960"
+soort: "beleidsregel"
+stam_id: "8400763"
+version_id: "13273522"
+internal_id: "C17843841"
+label_id: "8381594"
+dtd_version: "2.0"
+original_entry_into_force: "1994-10-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006960/1994-10-12/0"
+intitule_bron: "Infob.1994-10"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-10-12"
+intitule_published: "1994-01-01"
+intitule_in_force: "1994-01-01"
+intitule_status: "goed"
+original_publication: "Infob.1994-10"
+original_signed_date: "1994-10-12"
+original_published_date: "1994-01-01"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1994-10-12"
+jci_1_3: "jci1.3:c:BWBR0006960&z=1994-10-12&g=1994-10-12"
+jci_1_0: "1.0:c:BWBR0006960&g=1994-10-12"
+citeertitel_status: "redactioneel"
+signed_date: "1994-10-12"
+entry_into_force: "1994-10-12"
 ---
-
 # Splitsing van aandelen ‘Spin off’
 
 ### 1. Inleiding

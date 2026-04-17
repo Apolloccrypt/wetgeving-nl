@@ -1,13 +1,39 @@
 ---
-title: "Wijzigingsbesluit Besluit inburgering, enz. (versterking eigen verantwoordelijkheid inburgeringsplichtige)"
+title: "Besluit van 25 september 2012, tot wijziging van het Besluit inburgering en enkele andere besluiten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige"
 identifier: "BWBR0032034"
-categorie: "Bestuursrecht"
-publicatiedatum: 2014-03-21
-laatste_update: 2014-03-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032034"
+country: "nl"
+rank: "amvb"
+publication_date: "2014-03-21"
+last_updated: "2014-03-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032034"
+soort: "AMvB"
+stam_id: "11856163"
+version_id: "19663622"
+internal_id: "C27718501"
+label_id: "11828264"
+dtd_version: "2.0"
+original_entry_into_force: "2013-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032034/2014-03-21/0"
+intitule_bron: "Stb.2012-432"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-09-25"
+intitule_published: "2012-09-28"
+intitule_in_force: "2012-10-30"
+intitule_status: "goed"
+original_publication: "Stb.2012-432"
+original_signed_date: "2012-09-25"
+original_published_date: "2012-09-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2012-432"
+entry_into_force_date: "2013-01-01"
+jci_1_3: "jci1.3:c:BWBR0032034&z=2014-03-21&g=2014-03-21"
+jci_1_0: "1.0:c:BWBR0032034&g=2014-03-21"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsbesluit Besluit inburgering, enz. (versterking eigen verantwoordelijkheid inburgeringsplichtige)"
+signed_date: "2012-09-25"
+entry_into_force: "2013-01-01"
 ---
-
 # Besluit van 25 september 2012, tot wijziging van het Besluit inburgering en enkele andere besluiten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige
 
 Op de voordracht van Onze Minister voor Immigratie, Integratie en Asiel van 22 juni 2012, nr. 2012.0000367715, directie Constitutionele Zaken en Wetgeving;
@@ -20,23 +46,23 @@ Gezien het nader rapport van Onze Minister voor Immigratie, Integratie en Asiel 
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Besluit inburgering.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Besluit brede doeluitkering sociaal, integratie en veiligheid.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Besluit participatiebudget.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het Vreemdelingenbesluit 2000.
 
-#### Artikel V
+##### Artikel V
 
 1. In het tweede tot en met zesde lid wordt verstaan onder:
 
@@ -56,7 +82,7 @@ Wijzigt het Vreemdelingenbesluit 2000.
 
 7. Bij regeling van Onze Minister voor Immigratie, Integratie en Asiel wordt een termijn of worden termijnen vastgesteld, waarbinnen [hoofdstuk 3 van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&hoofdstuk=3) van toepassing blijft op de in het tweede tot en met vierde lid bedoelde personen van wie in redelijkheid niet kan worden gevergd dat zij het examen, bedoeld in [artikel 7, tweede lid, onderdeel a, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=7) als gewijzigd door de [wet van 13 september 2012 tot wijziging van de Wet inburgering en enkele andere wetten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige](https://wetten.overheid.nl/jci1.3:c:BWBR0032031) (Stb. 2012, 430) kunnen afleggen, en waarbinnen deze personen het examen, bedoeld in [artikel 13, eerste lid, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=13) zoals dit luidde voor het tijdstip van inwerkingtreding van [artikel I van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032031&artikel=I), kunnen afleggen.
 
-#### Artikel VI
+##### Artikel VI
 
 De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 

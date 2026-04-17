@@ -1,13 +1,37 @@
 ---
-title: "Besluit huurprijzen woonruimte"
+title: "Besluit van 18 april 1979 tot uitvoering van de artikelen 7, eerste lid, 9, eerste lid, 10, vierde lid, 15, eerste en tweede lid, en 18, vierde lid, van de Huurprijzenwet woonruimte"
 identifier: "BWBR0003237"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003237"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003237"
+soort: "AMvB"
+stam_id: "3042883"
+version_id: "30182392"
+internal_id: "C43244321"
+label_id: "2993074"
+dtd_version: "2.0"
+original_entry_into_force: "2024-06-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003237/2026-01-01/0"
+intitule_bron: "Stb.1979-216"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1979-04-18"
+intitule_status: "goed"
+original_publication: "Stb.2024-194"
+original_signed_date: "2024-06-26"
+original_published_date: "2024-06-28"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2024-194"
+entry_into_force_date: "2024-06-26"
+jci_1_3: "jci1.3:c:BWBR0003237&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0003237&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit huurprijzen woonruimte"
+signed_date: "2024-06-26"
+entry_into_force: "2024-06-26"
 ---
-
 # Besluit van 18 april 1979 tot uitvoering van de artikelen 7, eerste lid, 9, eerste lid, 10, vierde lid, 15, eerste en tweede lid, en 18, vierde lid, van de Huurprijzenwet woonruimte
 
 Op de voordracht van de Staatssecretaris van Volkshuisvesting en Ruimtelijke Ordening, drs. M.P.A. van Dam, van 7 september 1977, nr. 0902932, Centrale Afdeling Juridische Zaken;
@@ -20,7 +44,7 @@ Gezien het nader rapport van de Staatssecretaris van Volkshuisvesting en Ruimtel
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit wordt onder de zittingsvoorzitters verstaan: de zittingsvoorzitters, bedoeld in [artikel 3a, tweede lid, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a).
 
@@ -34,15 +58,15 @@ Hebben goedgevonden en verstaan:
 
 - b. het inwonende huishouden een huurovereenkomst heeft voor het gehuurde met de hoofdhuurder.
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het bedrag van de bij wijze van voorschot aan de Staat verschuldigde vergoeding, bedoeld in [artikel 7, eerste lid, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=7), en het bedrag van de vergoeding, bedoeld in dat lid, wordt vastgesteld op:
 
@@ -54,7 +78,7 @@ Vervallen
 
 3. Het bedrag van de aan de Staat verschuldigde vergoeding, bedoeld in [artikel 7a, eerste lid, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=7a), wordt vastgesteld op € 100.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De in [artikel 10, eerste lid, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=10) bedoelde waardering van de kwaliteit van woonruimte vindt plaats:
 
@@ -66,7 +90,7 @@ Vervallen
 
 2. De huurcommissie, het college van burgemeester en wethouders en de rechter kan, indien de aard van de woonruimte daartoe aanleiding geeft, de kwaliteit van woonruimte beoordelen in afwijking van het in het eerste lid bepaalde.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Bij de beoordeling van de redelijkheid van de in rekening te brengen huurprijs ingevolge [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=12), of [artikel 16, eerste lid, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=16) neemt de huurcommissie in aanmerking of zich met betrekking tot de woonruimte een of meer van de omstandigheden, bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=II&z=2026-01-01&g=2026-01-01) van dit besluit, voordoen. Daarbij wordt door de huurcommissie ten laagste als de in rekening te brengen huurprijs die zij redelijk acht, vermeld:
 
@@ -84,19 +108,19 @@ Vervallen
 
 5. Indien zich tegelijkertijd twee of meer omstandigheden voordoen als bedoeld in [bijlage II, onder 1, categorieën A, B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=II&z=2026-01-01&g=2026-01-01), van dit besluit wordt voor de toepassing van het eerste lid door de huurcommissie ten laagste als de in rekening te brengen huurprijs die zij redelijk acht, vermeld de huurprijs, behorend bij de omstandigheid waarvan door het bestuur en de zittingsvoorzitters in het gebrekenboek de laagste in rekening te brengen huurprijs is aangegeven.
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 7a
+##### Artikel 7a
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 8a
+##### Artikel 8a
 
 1. De maximale huurprijsgrens wordt met 35% vermeerderd indien de woonruimte bestaat uit of deel uitmaakt van een rijksmonument als bedoeld in [artikel 1.1 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=1.1) en de huurovereenkomst betreffende die woonruimte is afgesloten na het tijdstip van inwerkingtreding van de [Wet betaalbare huur](https://wetten.overheid.nl/jci1.3:c:BWBR0049889).
 
@@ -118,29 +142,29 @@ Vervallen
 
 7. De vermeerdering, bedoeld in het eerste, derde, vierde of vijfde lid, wordt toegepast op de krachtens [artikel 10, eerste lid, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=10) geldende maximale huurprijsgrens.
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 1. Bij ministeriële regeling worden de maximale huurprijsgrenzen vastgesteld.
 
 2. Bij ministeriële regeling worden elk jaar op 1 januari de op 31 december daaraan voorafgaande krachtens dit besluit geldende maximale huurprijsgrenzen gewijzigd overeenkomstig [artikel 27, eerste lid, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=27), met dien verstande dat de op basis daarvan berekende bedragen naar boven worden afgerond op hele eurocenten.
 
-#### Artikel 13
+##### Artikel 13
 
 Bij ministeriële regeling kunnen nadere voorschriften worden gegeven omtrent de uitvoering van dit besluit.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Dit besluit kan worden aangehaald als Besluit huurprijzen woonruimte.
 
@@ -652,7 +676,7 @@ Vervallen
 
 Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het bedrag, bedoeld in [artikel 3, tweede lid, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3), is de in de ministeriële regeling, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=12&z=2026-01-01&g=2026-01-01), genoemde huurprijsgrens, behorende bij de kwaliteit voor een woonruimte met 186 punten.
 
@@ -954,11 +978,11 @@ Vervallen
 
 Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 12a
+##### Artikel 12a
 
 [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=2&z=2026-01-01&g=2026-01-01) zoals dat luidde op de dag voor de datum van inwerkingtreding van de Wet betaalbare huur blijft van toepassing op huurovereenkomsten die voor die datum zijn gesloten.
 
-#### Artikel 12b
+##### Artikel 12b
 
 1. [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=I&z=2026-01-01&g=2026-01-01), onder A, onderdeel 4.4 (nieuw) vervalt met ingang van 1 januari 2025.
 
@@ -1056,7 +1080,7 @@ De woonruimte vertoont een gebrek dat of een tekortkoming die:
 
 Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 4a
+##### Artikel 4a
 
 Het bedrag van de aan de Staat verschuldigde vergoeding, bedoeld in [artikel 8 van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=8), wordt vastgesteld op:
 

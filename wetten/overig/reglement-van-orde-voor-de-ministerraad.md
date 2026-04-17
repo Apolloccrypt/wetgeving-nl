@@ -1,13 +1,35 @@
 ---
-title: "Reglement van orde voor de ministerraad"
+title: "Besluit van 2 maart 1994, houdende vaststelling van een reglement van orde voor de ministerraad"
 identifier: "BWBR0006501"
-categorie: "Overig"
-publicatiedatum: 2020-04-16
-laatste_update: 2020-04-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006501"
+country: "nl"
+rank: "rijks_kb"
+publication_date: "2020-04-16"
+last_updated: "2020-04-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006501"
+soort: "rijksKB"
+stam_id: "838683"
+version_id: "1218082"
+internal_id: "C1218081"
+label_id: "813004"
+dtd_version: "2.0"
+original_entry_into_force: "1994-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006501/2020-04-16/0"
+intitule_bron: "Stb.1994-203"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-03-02"
+intitule_status: "goed"
+original_publication: "Stb.1994-203"
+original_signed_date: "1994-03-02"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1994-04-01"
+jci_1_3: "jci1.3:c:BWBR0006501&z=2020-04-16&g=2020-04-16"
+jci_1_0: "1.0:c:BWBR0006501&g=2020-04-16"
+citeertitel_status: "officieel"
+short_title: "Reglement van orde voor de ministerraad"
+signed_date: "1994-03-02"
+entry_into_force: "1994-04-01"
 ---
-
 # Besluit van 2 maart 1994, houdende vaststelling van een reglement van orde voor de ministerraad
 
 Op de voordracht van onze Minister-President, Minister van Algemene Zaken, d.d. 25 februari 1994, nr. 94M001478, handelende in overeenstemming met het gevoelen van de ministerraad van het Koninkrijk;
@@ -18,7 +40,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -30,7 +52,7 @@ In dit besluit wordt verstaan onder:
 
 #### § 2. De samenstelling en bevoegdheid van de raad
 
-#### Artikel 2
+##### Artikel 2
 
 1. De ministers vormen te zamen de raad.
 
@@ -42,7 +64,7 @@ In dit besluit wordt verstaan onder:
 
 5. De minister-president benoemt een of meer adjunct-secretarissen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Aan de vergaderingen van de raad, de onderraden en de andere commissies uit de raad kunnen deelnemen met raadgevende stem:
 
@@ -52,7 +74,7 @@ In dit besluit wordt verstaan onder:
 
 2. De directeur-generaal van de Rijksvoorlichtingsdienst of diens plaatsvervanger kan de vergaderingen als toehoorder bijwonen, tenzij de minister-president anders bepaalt.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De raad beraadslaagt en besluit over het algemeen regeringsbeleid en bevordert de eenheid van dat beleid.
 
@@ -96,35 +118,35 @@ In dit besluit wordt verstaan onder:
 
 - m. voorstellen voor ministeriële besluiten tot benoeming van personen en tot ontslag, wegens andere reden dan op verzoek van betrokkenen, voor zover deze gelijk aan of hoger dan een directeur-generaal bij een ministerie worden bezoldigd.
 
-#### Artikel 5
+##### Artikel 5
 
 Over aangelegenheden bij welke het algemeen regeringsbeleid betrokken kan zijn, niet behorende tot die bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006501&paragraaf=2&artikel=4&z=2020-04-16&g=2020-04-16), plegen de ministers overleg met de minister-president. Indien het overleg niet tot overeenstemming leidt, worden deze aangelegenheden in de raad gebracht.
 
-#### Artikel 6
+##### Artikel 6
 
 In gevallen waarin het niet duidelijk is, welke minister in de eerste plaats verantwoordelijk is voor een bepaalde aangelegenheid, beslist de minister-president over die verantwoordelijkheid.
 
-#### Artikel 7
+##### Artikel 7
 
 De minister-president kan, indien een aangelegenheid door een minister die daarvoor in de eerste plaats verantwoordelijk is, niet in de raad aan de orde wordt gesteld, zelf zorg dragen voor de indiening van deze aangelegenheid bij de raad.
 
 #### § 3. De werkwijze van de raad
 
-#### Artikel 8
+##### Artikel 8
 
 De raad vergadert in beginsel op vrijdag en voorts zo dikwijls als de minister-president of ten minste twee andere ministers dat wenselijk achten.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De minister-president stelt de agenda vast. Een exemplaar van de agenda wordt tijdig aan de ministers en de staatssecretarissen gezonden.
 
 2. De voor de raad bestemde stukken worden in het algemeen 7 dagen voor de behandeling in de raad rondgezonden. Zij zijn voorzien van een daartoe bestemd aanbiedingsformulier.
 
-#### Artikel 10
+##### Artikel 10
 
 De minister-president regelt de orde der werkzaamheden tijdens de vergaderingen.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Indien het nodig is bij wijze van stemming te beslissen, wordt het besluit, behoudens afwijking op grond van het Statuut, bij meerderheid van stemmen opgemaakt, waarbij iedere aanwezige minister één stem heeft.
 
@@ -132,7 +154,7 @@ De minister-president regelt de orde der werkzaamheden tijdens de vergaderingen.
 
 3. Bij staking van stemmen wordt de beslissing tot de volgende vergadering aangehouden, tenzij de beslissing niet uitgesteld kan worden of de vergadering voltallig is. In deze gevallen beslist de stem van de minister-president.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Indien een minister een besluit in strijd acht met zijn verantwoordelijkheid, geeft hij daarvan kennis aan de raad.
 
@@ -140,23 +162,23 @@ De minister-president regelt de orde der werkzaamheden tijdens de vergaderingen.
 
 3. Voor zover dit uit het Statuut voortvloeit, geldt dit artikel niet voor de gevolmachtigde ministers.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De secretaris zorgt zo spoedig mogelijk na een vergadering voor het ontwerpen van een besluitenlijst, waarin de conclusies van de raad worden opgenomen.
 
 2. Een exemplaar van die lijst wordt vanwege de minister-president onverwijld toegezonden aan de ministers en de staatssecretarissen.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De secretaris zorgt voor het ontwerpen van de notulen. Zij worden zo spoedig mogelijk door de raad vastgesteld.
 
 2. Een exemplaar van de notulen wordt de Koning ter kennisneming aangeboden.
 
-#### Artikel 15
+##### Artikel 15
 
 De minister-president ondertekent de voordrachten van de raad voor koninklijke besluiten.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De minister-president ziet toe op de totstandkoming van een samenhangend regeringsbeleid.
 
@@ -166,29 +188,29 @@ De minister-president ondertekent de voordrachten van de raad voor koninklijke b
 
 #### § 4. De onderraden
 
-#### Artikel 17
+##### Artikel 17
 
 De raad kan uit zijn midden onderraden vormen ter voorbereiding of ter beslissing van aangelegenheden inzake bepaalde delen van het algemeen regeringsbeleid.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De minister-president is voorzitter van de onderraden.
 
 2. Uit de vaste leden wordt een coördinerend minister aangewezen, die toeziet op de deugdelijke interdepartementale voorbereiding van de onderwerpen die in een onderraad worden behandeld.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De raad benoemt op voorstel van de minister-president de secretaris van een onderraad.
 
 2. De minister-president benoemt de adjunct-secretaris.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Een exemplaar van de agenda van een onderraad wordt tijdig aan de ministers en de staatssecretarissen gezonden.
 
 2. De ministers die van een onderraad geen vaste leden zijn, kunnen desgewenst de vergaderingen bijwonen. Zij hebben dan dezelfde rechten als de vaste leden.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Een onderraad neemt geen beslissing over een aangelegenheid, welke niet op de agenda is vermeld en waarbij een niet-aanwezige minister in het bijzonder is betrokken.
 
@@ -196,13 +218,13 @@ De raad kan uit zijn midden onderraden vormen ter voorbereiding of ter beslissin
 
 3. Ook nadat de onderraad een beslissing heeft genomen, kan een minister verlangen dat de aangelegenheid aan het eindoordeel van de raad wordt onderworpen.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Indien het besprokene in een vergadering van een onderraad daartoe aanleiding geeft, zorgt de secretaris voor het ontwerpen van een besluitenlijst, waarin de conclusies van de onderraad zijn opgenomen.
 
 2. De besluitenlijst van een onderraad behoeft de goedkeuring van de raad.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Deskundigen kunnen met raadgevende stem het overleg in een onderraad bijwonen:
 
@@ -212,13 +234,13 @@ De raad kan uit zijn midden onderraden vormen ter voorbereiding of ter beslissin
 
 2. Ministers kunnen zich met vooraf verkregen toestemming van de voorzitter tijdens de vergaderingen van een onderraad door een ambtenaar doen bijstaan.
 
-#### Artikel 24
+##### Artikel 24
 
 Voor zover in deze paragraaf niet anders is bepaald, heeft een onderraad dezelfde werkwijze als de raad.
 
 #### § 5. Andere commissies uit de raad
 
-#### Artikel 25
+##### Artikel 25
 
 1. De raad kan uit zijn midden andere commissies met een permanent of tijdelijk karakter vormen ter voorbereiding of ter beslissing van bepaalde aangelegenheden.
 
@@ -228,7 +250,7 @@ Voor zover in deze paragraaf niet anders is bepaald, heeft een onderraad dezelfd
 
 #### § 6. De geheimhouding
 
-#### Artikel 26
+##### Artikel 26
 
 1. Ten aanzien van hetgeen ter vergadering besproken wordt of geschiedt, bestaat een geheimhoudingsplicht.
 
@@ -242,25 +264,25 @@ Voor zover in deze paragraaf niet anders is bepaald, heeft een onderraad dezelfd
 
 #### § 7. Slotbepalingen
 
-#### Artikel 27
+##### Artikel 27
 
 De minister-president zorgt ervoor dat dit reglement in acht wordt genomen.
 
-#### Artikel 28
+##### Artikel 28
 
 Het koninklijk besluit van 16 mei 1979, houdende vaststelling van een reglement van orde voor de Raad van Ministers, (**Stb**. 264) wordt ingetrokken.
 
-#### Artikel 29
+##### Artikel 29
 
 Dit besluit treedt in werking met ingang van 1 april 1994.
 
-#### Artikel 30
+##### Artikel 30
 
 Dit besluit wordt aangehaald als: reglement van orde voor de ministerraad.
 
 Onze Minister-President, Minister van Algemene Zaken is belast met de uitvoering van dit besluit dat met de daarbij behorende nota van toelichting in het **Staatsblad** en het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba** zal worden geplaatst.
 
-#### Artikel 26a
+##### Artikel 26a
 
 De minister-president kan, zo nodig en zo lang de continuïteit van de besluitvorming in het kader van de bestrijding van het coronavirus (covid-19) dit noodzakelijk maakt, beslissingen nemen, zo nodig in afwijking van het reglement, met betrekking tot de vergaderingen van de raad, zijn onderraden en commissies ten aanzien van de aanlevering van stukken, de aanwezigheid van anderen dan genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006501&paragraaf=2&artikel=2&z=2020-04-16&g=2020-04-16) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0006501&paragraaf=2&artikel=3&z=2020-04-16&g=2020-04-16), de werkwijze, de geheimhouding en de verslaglegging.
 

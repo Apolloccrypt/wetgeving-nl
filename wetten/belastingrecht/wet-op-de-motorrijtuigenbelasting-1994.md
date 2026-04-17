@@ -1,14 +1,41 @@
 ---
-title: "Wet op de motorrijtuigenbelasting 1994"
+title: "Wet van 16 december 1993, tot vaststelling van de Wet op de motorrijtuigenbelasting 1994"
 identifier: "BWBR0006324"
-categorie: "Belastingrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006324"
+country: "nl"
+rank: "wet"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006324"
+soort: "wet"
+stam_id: "2897233"
+version_id: "21046722"
+internal_id: "C30225811"
+label_id: "2846604"
+dtd_version: "2.0"
+original_entry_into_force: "2013-12-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006324/2026-01-01/0"
+intitule_bron: "Stb.1994-17"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1993-12-16"
+intitule_in_force: "1995-03-31"
+intitule_status: "goed"
+original_publication: "Stb.2013-565"
+original_signed_date: "2013-12-18"
+original_published_date: "2013-12-23"
+original_effect: "structuurwijziging"
+original_dossier: "33752"
+original_url_id: "stb-2013-565"
+entry_into_force_date: "2013-12-18"
+entry_into_force_dossier: "33752"
+jci_1_3: "jci1.3:c:BWBR0006324&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0006324&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet op de motorrijtuigenbelasting 1994"
+signed_date: "2013-12-18"
+entry_into_force: "2013-12-18"
 ---
-
-# Wet op de motorrijtuigenbelasting 1994
+# Wet van 16 december 1993, tot vaststelling van de Wet op de motorrijtuigenbelasting 1994
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -20,7 +47,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Afdeling 1. Belastbaar feit
 
-#### Artikel 1
+##### Artikel 1
 
 1. Onder de naam «motorrijtuigenbelasting» wordt een belasting geheven ter zake van het houden van een personenauto, een bestelauto, een motorrijwiel, een vrachtauto of een autobus.
 
@@ -28,7 +55,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Afdeling 2. Definities
 
-#### Artikel 2
+##### Artikel 2
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -70,7 +97,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - p. tenaamstelling: tenaamstelling in het kentekenregister als bedoeld in [hoofdstuk IV, paragraaf 4a, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&paragraaf=4a), alsmede het te naam stellen of het op naam stellen van een personenauto, een bestelauto, een motorrijwiel, een vrachtauto of een autobus.
 
-#### Artikel 3
+##### Artikel 3
 
 1. In deze wet en de daarop berustende bepalingen wordt onder personenauto mede verstaan een motorrijtuig op drie of meer wielen met een toegestane maximum massa van 3 500 kg of minder met een laadruimte, zulks met uitzondering van een motorrijtuig met een laadruimte die in haar geheel is voorzien van een vlakke laadvloer en die:
 
@@ -118,11 +145,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. de hoogte, de plaats, de constructiewijze en de bevestigingswijze van de vaste wand.
 
-#### Artikel 4
+##### Artikel 4
 
 Bij algemene maatregel van bestuur kunnen regels worden gesteld ingevolge welke met een motorrijwiel worden gelijkgesteld motorrijtuigen op meer dan twee wielen.
 
-#### Artikel 5
+##### Artikel 5
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder weg: elke voor het openbaar rijverkeer of ander verkeer openstaande weg en elk zodanig pad, de in de weg of het pad liggende bruggen en duikers alsmede de tot de weg behorende paden en bermen of zijkanten.
 
@@ -130,11 +157,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder weg: elke vo
 
 ### Afdeling 1. Belastingplichtige
 
-#### Artikel 6
+##### Artikel 6
 
 De belasting wordt geheven van degene die bij de aanvang van een tijdvak het motorrijtuig houdt.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Een motorrijtuig wordt gehouden door degene:
 
@@ -154,7 +181,7 @@ De belasting wordt geheven van degene die bij de aanvang van een tijdvak het mot
 
 4. Een houder als bedoeld in het eerste lid, onderdeel c, zijnde een onderneming of rechtspersoon, wordt, behoudens tegenbewijs, geacht in Nederland te zijn gevestigd indien hij in Nederland is ingeschreven in het handelsregister, genoemd in [artikel 1, eerste lid, onderdeel h, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=1).
 
-#### Artikel 8
+##### Artikel 8
 
 1. Indien het motorrijtuig waarvoor een kenteken is opgegeven feitelijk en niet geheel voorbijgaand ter beschikking staat van een ander dan degene op wiens naam het motorrijtuig is gesteld, kan de inspecteur:
 
@@ -164,27 +191,27 @@ De belasting wordt geheven van degene die bij de aanvang van een tijdvak het mot
 
 2. De inspecteur neemt de beslissing op het verzoek, bedoeld in het eerste lid, onderdeel **a**, en de beslissing, bedoeld in het eerste lid, onderdeel **b**, bij voor bezwaar vatbare beschikking.
 
-#### Artikel 9
+##### Artikel 9
 
 Als degene die het motorrijtuig waarvoor geen kenteken is opgegeven feitelijk ter beschikking heeft wordt beschouwd degene ten aanzien van wie het gebruik van de weg met het motorrijtuig is geconstateerd. Degene ten aanzien van wie het gebruik van de weg is geconstateerd, wordt geacht tot het moment waarop voor het motorrijtuig een kenteken is opgegeven, het motorrijtuig feitelijk ter beschikking te hebben, tenzij is gebleken dat dit onjuist is.
 
 ### Afdeling 1. Tijdvak
 
-#### Artikel 10
+##### Artikel 10
 
 Het tijdvak waarover de belasting moet worden betaald is drie maanden.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Voor een motorrijtuig waarvoor een kenteken is opgegeven vangt het tijdvak aan met ingang van de dag van dagtekening van de eerste tenaamstelling en telkenmale drie maanden later.
 
 2. Bij wijziging van de tenaamstelling van een motorrijtuig wegens wisseling van de houder van het motorrijtuig geldt als kort tijdvak waarover de belasting moet worden betaald, het tijdvak dat aanvangt met ingang van de dag van dagtekening van de wijziging van de tenaamstelling en dat eindigt met de dag voorafgaande aan de eerste dag van het tijdvak met ingang waarvan de belasting voor het eerst na die wisseling moet worden betaald op de voet van het eerste lid.
 
-#### Artikel 12
+##### Artikel 12
 
 Voor een motorrijtuig waarvoor geen kenteken is opgegeven vangt het tijdvak aan met ingang van de dag waarop het gebruik van de weg in Nederland aanvangt en, zolang voor dat motorrijtuig nog geen kenteken is opgegeven, telkenmale drie maanden later.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Voor een in het buitenland geregistreerd motorrijtuig dat in Nederland feitelijk ter beschikking staat vangt het tijdvak aan met ingang van de dag waarop het gebruik van de weg in Nederland aanvangt en, zolang het motorrijtuig in Nederland feitelijk ter beschikking staat, telkenmale drie maanden later.
 
@@ -192,11 +219,11 @@ Voor een motorrijtuig waarvoor geen kenteken is opgegeven vangt het tijdvak aan 
 
 3. In afwijking van het bepaalde in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=1&artikel=10&z=2026-01-01&g=2026-01-01) kan de belasting voor een in het eerste lid bedoeld motorrijtuig van een houder die niet in Nederland zijn hoofdverblijf heeft of is gevestigd ook worden betaald over een tijdvak van 1, 3 of 15 dagen.
 
-#### Artikel 14
+##### Artikel 14
 
 De belasting moet op aangifte worden voldaan.
 
-#### Artikel 15
+##### Artikel 15
 
 1. In afwijking van [artikel 19 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=19) moet de belasting zijn betaald bij de aanvang van het tijdvak.
 
@@ -204,13 +231,13 @@ De belasting moet op aangifte worden voldaan.
 
 3. Onder bij ministeriële regeling te stellen voorwaarden en beperkingen kan de belasting voor motorrijtuigen waarvoor een kenteken is opgegeven, in maandelijkse termijnen worden betaald.
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
 ### Afdeling 3. Aangifte
 
-#### Artikel 17
+##### Artikel 17
 
 1. De aanvraag tot tenaamstelling dan wel tot wijziging van die tenaamstelling wordt aangemerkt als het doen van aangifte. De aangifte geldt, zolang het motorrijtuig niet van houder wisselt, voor alle tijdvakken waarin het motorrijtuig wordt gehouden.
 
@@ -222,7 +249,7 @@ Vervallen
 
 ### Afdeling 3. Teruggaaf
 
-#### Artikel 18
+##### Artikel 18
 
 1. Teruggaaf van belasting wordt verleend over het nog niet verstreken deel van het lopende tijdvak op het tijdstip waarop het motorrijtuig van houder wisselt dan wel het houderschap daarvan wordt beëindigd. Voor een motorrijtuig waarvoor geen kenteken is opgegeven, dan wel een motorrijtuig dat in het buitenland is geregistreerd, wordt de teruggaaf op verzoek verleend.
 
@@ -236,25 +263,25 @@ Vervallen
 
 ### Afdeling 4. Schorsing
 
-#### Artikel 19
+##### Artikel 19
 
 1. Voor een motorrijtuig waarvoor een kenteken is opgegeven wordt de belasting niet geheven over tijdvakken die aanvangen tijdens een voor dat motorrijtuig geldende schorsing als bedoeld in [hoofdstuk IV, paragraaf 6, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&hoofdstuk=IV).
 
 2. Het eerste lid is niet van toepassing indien de schorsing binnen een maand eindigt.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Teruggaaf van belasting wordt verleend over het bij aanvang van de schorsing nog niet verstreken gedeelte van het lopende tijdvak.
 
 2. [Artikel 18, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=3&artikel=18&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 21
+##### Artikel 21
 
 Bij beëindiging van een schorsing geldt als kort tijdvak waarover de belasting moet worden betaald het tijdvak dat aanvangt met ingang van de dag waarop de schorsing is opgeheven en dat eindigt met de dag voorafgaande aan de eerste dag van het tijdvak met ingang waarvan de belasting voor het eerst na beëindiging van die schorsing moet worden betaald op de voet van [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=1&artikel=11&z=2026-01-01&g=2026-01-01).
 
 ### Afdeling 6. Tarief
 
-#### Artikel 22
+##### Artikel 22
 
 1. Voor de toepassing van de tariefbepalingen wordt:
 
@@ -272,7 +299,7 @@ Bij beëindiging van een schorsing geldt als kort tijdvak waarover de belasting 
 
 2. Voor een personenauto of een bestelauto die is voorzien van een installatie voor het verplaatsen of vastzetten van een rolstoel, wordt, onder bij algemene maatregel van bestuur te stellen voorwaarden, op verzoek het gewicht van die installatie niet meegerekend bij het vaststellen van de eigen massa van het motorrijtuig. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Voor een personenauto bedraagt de belasting:
 
@@ -305,7 +332,7 @@ Voor de toepassing van dit lid wordt aandrijving door een kracht die wordt ontle
 
 6. Bij ministeriële regeling kunnen nadere regels worden gesteld ter uitvoering van het vijfde lid.
 
-#### Artikel 24
+##### Artikel 24
 
 1. [Artikel 23, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=2&artikel=23&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
@@ -321,11 +348,11 @@ verhoogd met een fijnstoftoeslag van 15 percent van dat bedrag indien de fijnsto
 
 4. Bij ministeriële regeling kunnen nadere regels worden gesteld ter uitvoering van het derde lid.
 
-#### Artikel 25
+##### Artikel 25
 
 Voor een motorrijwiel bedraagt de belasting over een tijdvak van drie maanden € 31,20.
 
-#### Artikel 25a
+##### Artikel 25a
 
 1. Voor een vrachtauto bedraagt de belasting:
 
@@ -373,11 +400,11 @@ waarbij voor de luchtvering geldt dat deze zich bevindt op de aangedreven assen 
 
 6. Bij ministeriële regeling kunnen nadere regels worden gesteld ter uitvoering van dit artikel.
 
-#### Artikel 25b
+##### Artikel 25b
 
 Voor een motorrijtuig dat wordt gebruikt in de uitoefening van de detailhandel en dat is voorzien van een voor het publiek toegankelijke besloten ruimte die blijvend is ingericht als winkel en uitsluitend als zodanig wordt gebruikt, bedraagt de belasting, in afwijking van het in deze afdeling bepaalde en onder bij algemene maatregel van bestuur te stellen voorwaarden, met overeenkomstige toepassing van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=1&artikel=22&z=2026-01-01&g=2026-01-01), over een tijdvak van drie maanden € 74,72, vermeerderd met € 7,49 per 1000 kg toegestane maximum massa boven 11 000 kg.
 
-#### Artikel 26
+##### Artikel 26
 
 Voor een in het buitenland geregistreerd motorrijtuig dat in Nederland feitelijk ter beschikking staat van een houder die niet in Nederland zijn hoofdverblijf heeft of is gevestigd, bedraagt de belasting:
 
@@ -389,21 +416,21 @@ Voor een in het buitenland geregistreerd motorrijtuig dat in Nederland feitelijk
 
 De belasting bedraagt ten minste € 11.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Bij wijziging van de tenaamstelling wegens wisseling van de houder van het motorrijtuig en bij beëindiging van een schorsing bedraagt de belasting voor het motorrijtuig over het korte tijdvak een evenredig gedeelte van de belasting over een tijdvak van drie maanden. Voor de toepassing van dit artikel wordt een maand gesteld op dertig dagen.
 
 2. Bedragen van € 5 en minder worden niet geheven.
 
-#### Artikel 28
+##### Artikel 28
 
 Vervallen
 
-#### Artikel 29
+##### Artikel 29
 
 Vervallen
 
-#### Artikel 30
+##### Artikel 30
 
 1. Voor een personenauto, een bestelauto of een vrachtauto waarvoor een kenteken is opgegeven dat:
 
@@ -417,17 +444,17 @@ bedraagt de belasting in afwijking van de [artikelen 23](https://wetten.overheid
 
 2. Bij algemene maatregel van bestuur kunnen voorwaarden en beperkingen worden gesteld met betrekking tot de toepassing van het eerste lid.
 
-#### Artikel 31
+##### Artikel 31
 
 Vervallen
 
-#### Artikel 32
+##### Artikel 32
 
 Vervallen
 
 ### Afdeling 5. Tarief vrachtauto
 
-#### Artikel 33
+##### Artikel 33
 
 1. Bij constatering van het feit dat voor een motorrijtuig ten onrechte geen aanvullende aangifte is gedaan, kan de te weinig geheven belasting worden nageheven.
 
@@ -443,7 +470,7 @@ Vervallen
 
 4. Voor de toepassing van dit artikel wordt een maand gesteld op dertig dagen.
 
-#### Artikel 34
+##### Artikel 34
 
 1. Bij constatering van gebruik van de weg met een motorrijtuig waarvoor geen kenteken is opgegeven en de belasting geheel of gedeeltelijk niet is betaald, kan de belasting worden nageheven. Voor de toepassing van dit lid wordt een in het buitenland geregistreerd motorrijtuig aangemerkt als een motorrijtuig waarvoor geen kenteken is opgegeven.
 
@@ -457,7 +484,7 @@ Vervallen
 
 6. De na te heffen belasting wordt verminderd met de belasting die over de periode waarop de naheffingsaanslag betrekking heeft voor het motorrijtuig is betaald en voorzover voor de belasting over die periode geen aanspraak op teruggaaf van belasting bestaat.
 
-#### Artikel 35
+##### Artikel 35
 
 1. Wanneer de schorsing eindigt omdat met het motorrijtuig gebruik van de weg wordt gemaakt als bedoeld in [artikel 68, eerste lid, onderdeel d, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=68) kan de belasting worden nageheven.
 
@@ -471,17 +498,17 @@ Vervallen
 
 6. Voor de heffing van de belasting wordt de schorsing als beëindigd beschouwd met ingang van de laatste dag van het tijdvak waarin het gebruik van de weg met het motorrijtuig is gemaakt.
 
-#### Artikel 35a
+##### Artikel 35a
 
 Indien een voor een motorrijtuig geldende schorsing als bedoeld in [Hoofdstuk IV, paragraaf 6, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&paragraaf=6) binnen een maand eindigt, anders dan als bedoeld in [artikel 68, eerste lid, onderdelen c en d, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=68), wordt de belasting waarvan krachtens [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=4&artikel=20&z=2026-01-01&g=2026-01-01), teruggaaf is verleend alsmede de te weinig geheven belasting nageheven.
 
-#### Artikel 36
+##### Artikel 36
 
 1. Bij constatering van het feit dat met betrekking tot een motorrijtuig waarvoor de belasting is betaald op de voet van [artikel 23a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=2&artikel=23a&z=2026-01-01&g=2026-01-01) of [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=9&artikel=30&z=2026-01-01&g=2026-01-01), niet wordt voldaan aan de bij of krachtens die artikelen gestelde voorwaarden, kan de belasting die zonder toepassing van die artikelen meer verschuldigd zou zijn geweest, worden nageheven.
 
 2. [Artikel 33, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=V&artikel=33&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 37
+##### Artikel 37
 
 In de gevallen, bedoeld in de [artikelen 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=1&artikel=13&z=2026-01-01&g=2026-01-01), [24a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=3&artikel=24a&z=2026-01-01&g=2026-01-01), [24b](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=3&artikel=24b&z=2026-01-01&g=2026-01-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=V&artikel=33&z=2026-01-01&g=2026-01-01), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=V&artikel=34&z=2026-01-01&g=2026-01-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=V&artikel=35&z=2026-01-01&g=2026-01-01) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=V&artikel=36&z=2026-01-01&g=2026-01-01), is [artikel 67c van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67c) van overeenkomstige toepassing.
 
@@ -489,7 +516,7 @@ In de gevallen, bedoeld in de [artikelen 13, tweede lid](https://wetten.overheid
 
 ### Afdeling 9. Overige bepalingen
 
-#### Artikel 37a
+##### Artikel 37a
 
 1. Op verzoek van de houder aan wie de inspecteur een vergunning heeft verleend voor een bedrijfsvoertuigenpark, kan teruggaaf worden verleend van een gedeelte van de belasting die is betaald voor de vrachtauto’s die deel uitmaken van het bedrijfsvoertuigenpark.
 
@@ -497,7 +524,7 @@ In de gevallen, bedoeld in de [artikelen 13, tweede lid](https://wetten.overheid
 
 ### Afdeling 1. Recht op teruggaaf
 
-#### Artikel 37b
+##### Artikel 37b
 
 1. De inspecteur kan op verzoek bij voor bezwaar vatbare beschikking een vergunning voor een bedrijfsvoertuigenpark verlenen.
 
@@ -537,7 +564,7 @@ In de gevallen, bedoeld in de [artikelen 13, tweede lid](https://wetten.overheid
 
 ### Afdeling 1. Recht op teruggaaf
 
-#### Artikel 37c
+##### Artikel 37c
 
 1. De teruggaaf bedraagt over het in [artikel 37b, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=VI&afdeling=2&artikel=37b&z=2026-01-01&g=2026-01-01), bedoelde jaar het verschil tussen de betaalde belasting voor de vrachtauto's die in dat jaar of gedeelten daarvan deel hebben uitgemaakt van het bedrijfsvoertuigenpark en de som van de tarieven die per jaar of gedeelten daarvan voor die vrachtauto's ingevolge de richtlijn minimaal zouden moeten worden betaald, met dien verstande dat per vrachtauto het hoogste tarief wordt genomen van de tarieven die zouden gelden in combinatie met elk van de in het bedrijfsvoertuigenpark opgenomen aanhangwagens. Indien het hoogste tarief per jaar volgens de richtlijn lager zou zijn dan € 352,00 bepaalt de inspecteur dat tarief op € 352,00 of op het evenredig deel daarvan dat overeenstemt met het deel van het jaar waarover de belasting is geheven.
 
@@ -545,7 +572,7 @@ In de gevallen, bedoeld in de [artikelen 13, tweede lid](https://wetten.overheid
 
 ### Afdeling 2. Vergunning bedrijfsvoertuigenpark
 
-#### Artikel 37d
+##### Artikel 37d
 
 1. Indien gebruik van de weg wordt gemaakt met een vrachtauto die deel uitmaakt van een bedrijfsvoertuigenpark en die is verbonden met een aanhangwagen die geen deel uitmaakt van dat bedrijfsvoertuigenpark, is [artikel 37c](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=VI&afdeling=3&artikel=37c&z=2026-01-01&g=2026-01-01) met betrekking tot die vrachtauto niet van toepassing gedurende het in [artikel 37b, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=VI&afdeling=2&artikel=37b&z=2026-01-01&g=2026-01-01), bedoelde jaar.
 
@@ -555,11 +582,11 @@ In de gevallen, bedoeld in de [artikelen 13, tweede lid](https://wetten.overheid
 
 ### Afdeling 3. Bedrag van de teruggaaf
 
-#### Artikel 37e
+##### Artikel 37e
 
 Voor de toepassing van het in dit hoofdstuk bepaalde, wordt de toegestane maximum massa van een aanhangwagen afgerond tot het naaste duizendtal kilogrammen, met dien verstande dat een gedeelte van 1000 kg naar beneden wordt afgerond.
 
-#### Artikel 37f
+##### Artikel 37f
 
 Bij ministeriële regeling worden regels gesteld ten aanzien van de wijze en het tijdstip waarop de in dit hoofdstuk genoemde verzoeken worden ingediend, ten aanzien van de in de verzoeken te verstrekken gegevens, en ten aanzien van het overigens in dit hoofdstuk bepaalde.
 
@@ -567,113 +594,113 @@ Bij ministeriële regeling worden regels gesteld ten aanzien van de wijze en het
 
 ### Afdeling 5. Aanvullende bepalingen
 
-#### Artikel 38
+##### Artikel 38
 
 Vervallen
 
-#### Artikel 39
+##### Artikel 39
 
 Vervallen
 
 ### Afdeling 1. Recht op teruggaaf
 
-#### Artikel 40
+##### Artikel 40
 
 Vervallen
 
-#### Artikel 41
+##### Artikel 41
 
 Vervallen
 
-#### Artikel 42
+##### Artikel 42
 
 Vervallen
 
 ### Afdeling 3. Bedrag van de teruggaaf
 
-#### Artikel 43
+##### Artikel 43
 
 Vervallen
 
-#### Artikel 44
+##### Artikel 44
 
 Vervallen
 
-#### Artikel 45
+##### Artikel 45
 
 Vervallen
 
 ### Afdeling 5. Aanvullende bepalingen
 
-#### Artikel 46
+##### Artikel 46
 
 Vervallen
 
-#### Artikel 47
+##### Artikel 47
 
 Vervallen
 
-#### Artikel 48
+##### Artikel 48
 
 Vervallen
 
-#### Artikel 49
+##### Artikel 49
 
 Vervallen
 
-#### Artikel 50
+##### Artikel 50
 
 Vervallen
 
-#### Artikel 51
+##### Artikel 51
 
 Vervallen
 
-#### Artikel 51a
+##### Artikel 51a
 
 Vervallen
 
 ### Afdeling 5. Naheffing
 
-#### Artikel 52
+##### Artikel 52
 
 Vervallen
 
-#### Artikel 53
+##### Artikel 53
 
 Vervallen
 
-#### Artikel 54
+##### Artikel 54
 
 Vervallen
 
 ### Hoofdstuk IV. Personenauto's, bestelauto’s en autobussen, verbonden met een aanhangwagen
 
-#### Artikel 55
+##### Artikel 55
 
 Vervallen
 
-#### Artikel 56
+##### Artikel 56
 
 Vervallen
 
-#### Artikel 57
+##### Artikel 57
 
 Vervallen
 
-#### Artikel 58
+##### Artikel 58
 
 Vervallen
 
-#### Artikel 59
+##### Artikel 59
 
 Vervallen
 
-#### Artikel 60
+##### Artikel 60
 
 Vervallen
 
-#### Artikel 61
+##### Artikel 61
 
 Vervallen
 
@@ -681,31 +708,31 @@ Vervallen
 
 ### Afdeling 1. Belastingplichtige
 
-#### Artikel 62
+##### Artikel 62
 
 De belasting voor een kenteken als bedoeld in [artikel 37, derde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37) wordt geheven van degene op wiens naam het kenteken is gesteld.
 
 ### Afdeling 1. Belastingplichtige
 
-#### Artikel 63
+##### Artikel 63
 
 1. Het tijdvak waarover de belasting moet worden betaald is drie maanden.
 
 2. Het tijdvak vangt aan met ingang van de dag van dagtekening van de tenaamstelling van het kentekenbewijs behorende bij een kenteken als bedoeld in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=VII&afdeling=1&artikel=62&z=2026-01-01&g=2026-01-01) en telkenmale drie maanden later.
 
-#### Artikel 64
+##### Artikel 64
 
 De [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=2&artikel=14&z=2026-01-01&g=2026-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=2&artikel=15&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing.
 
 ### Afdeling 2. Wijze van heffing
 
-#### Artikel 65
+##### Artikel 65
 
 De aanvraag om afgifte van een kentekenbewijs behorende bij een kenteken als bedoeld in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=VII&afdeling=1&artikel=62&z=2026-01-01&g=2026-01-01) wordt aangemerkt als het doen van aangifte. De aangifte geldt voor de tijdvakken dat het bijzondere kenteken te naam is gesteld in het kentekenregister.
 
 ### Afdeling 1. Belastingplichtige
 
-#### Artikel 66
+##### Artikel 66
 
 1. Teruggaaf van belasting wordt verleend over het lopende tijdvak, voor zover dit niet is verstreken op het tijdstip waarop de tenaamstelling van een kentekenbewijs behorende bij een kenteken als bedoeld in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=VII&afdeling=1&artikel=62&z=2026-01-01&g=2026-01-01) vervalt.
 
@@ -713,17 +740,17 @@ De aanvraag om afgifte van een kentekenbewijs behorende bij een kenteken als bed
 
 ### Afdeling 2. Wijze van heffing
 
-#### Artikel 67
+##### Artikel 67
 
 Voor een kenteken als bedoeld in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=VII&afdeling=1&artikel=62&z=2026-01-01&g=2026-01-01) bedraagt de belasting over een tijdvak van drie maanden het bedrag, opgenomen in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=2&artikel=23&z=2026-01-01&g=2026-01-01), voor een personenauto met een eigen massa van 1000 kg.
 
-#### Artikel 68
+##### Artikel 68
 
 Vervallen
 
 ### Afdeling 3. Aangifte
 
-#### Artikel 69
+##### Artikel 69
 
 1. Indien met betrekking tot een motorrijtuig uit een bedrijfsvoorraad of een motorrijtuig dat voor het verrichten van werkzaamheden daaraan bij een herstelbedrijf is, niet is voldaan aan de krachtens [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=I&afdeling=1&artikel=1&z=2026-01-01&g=2026-01-01), gestelde voorwaarden, kan de belasting worden nageheven.
 
@@ -731,13 +758,13 @@ Vervallen
 
 3. Indien met het motorrijtuig gebruik wordt gemaakt van de weg zonder dat aan de in het tweede lid bedoelde voorwaarden wordt voldaan, wordt de naheffingsaanslag opgelegd aan de bestuurder ingeval degene tot wiens bedrijfsvoorraad het motorrijtuig behoort of degene die het herstelbedrijf uitoefent aannemelijk maakt, dat van het motorrijtuig tegen zijn wil gebruik is gemaakt en hij dit gebruik redelijkerwijs niet heeft kunnen voorkomen.
 
-#### Artikel 70
+##### Artikel 70
 
 In het geval, bedoeld in [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=VII&afdeling=6&artikel=69&z=2026-01-01&g=2026-01-01), is artikel [67c van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67c) van overeenkomstige toepassing.
 
 ### Hoofdstuk VI. Vrijstellingen
 
-#### Artikel 71
+##### Artikel 71
 
 1. Vrijstelling van belasting wordt verleend voor:
 
@@ -753,7 +780,7 @@ In het geval, bedoeld in [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 4. [Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) is van toepassing op verzoeken aan de inspecteur tot vrijstelling als bedoeld in het eerste lid.
 
-#### Artikel 72
+##### Artikel 72
 
 1. Vrijstelling van belasting wordt, onder bij algemene maatregel van bestuur te stellen voorwaarden en beperkingen, verleend voor motorrijtuigen:
 
@@ -789,7 +816,7 @@ In het geval, bedoeld in [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 3. [Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) is van toepassing op verzoeken aan de inspecteur tot vrijstelling als bedoeld in het eerste lid, onderdeel h, j, l en n.
 
-#### Artikel 73
+##### Artikel 73
 
 1. Vrijstelling van belasting wordt, onder bij algemene maatregel van bestuur te stellen voorwaarden en beperkingen, verleend voor motorrijtuigen die:
 
@@ -809,17 +836,17 @@ In het geval, bedoeld in [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 2. [Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) is van toepassing op verzoeken aan de inspecteur tot vrijstelling voor specifieke doeleinden op grond van bepalingen krachtens het eerste lid, onderdelen b en c.
 
-#### Artikel 74
+##### Artikel 74
 
 1. Vrijstelling van een gedeelte van de belasting wordt, onder bij algemene maatregel van bestuur te stellen regels, verleend voor vrachtauto’s die worden gebezigd in het gecombineerde rail-wegvervoer van goederen tussen lidstaten van de Europese Unie. De vrijstelling wordt verleend voor het gedeelte van de over een tijdvak verschuldigde belasting dat overeenkomt met het aantal dagen van het tijdvak waarop de vrachtauto en de aanhangwagen per trein zijn vervoerd.
 
 2. Voor de toepassing van het eerste lid wordt een maand gesteld op dertig dagen.
 
-#### Artikel 75
+##### Artikel 75
 
 Vervallen
 
-#### Artikel 76
+##### Artikel 76
 
 1. Bij constatering van het feit dat met betrekking tot een motorrijtuig ten onrechte een vrijstelling van belasting is verleend dan wel niet wordt voldaan aan de voor een vrijstelling gestelde voorwaarden kan de belasting worden nageheven.
 
@@ -835,7 +862,7 @@ Vervallen
 
 5. Voor de toepassing van dit artikel wordt een maand gesteld op dertig dagen.
 
-#### Artikel 77
+##### Artikel 77
 
 1. In het geval, bedoeld in [artikel 76, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=VIII&artikel=76&z=2026-01-01&g=2026-01-01), vervalt de bevoegdheid tot naheffen door verloop van vijf jaren na het eind van het kalenderjaar waarin de belastingschuld is ontstaan.
 
@@ -843,11 +870,11 @@ Vervallen
 
 ### Hoofdstuk VIII. Vrijstellingen
 
-#### Artikel 78
+##### Artikel 78
 
 Op eerste vordering van ambtenaren van de rijksbelastingdienst of van opsporingsambtenaren als bedoeld in [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) is de bestuurder van een motorrijtuig verplicht dat te doen stilstaan.
 
-#### Artikel 79
+##### Artikel 79
 
 1. De in [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IX&artikel=78&z=2026-01-01&g=2026-01-01) bedoelde ambtenaren zijn bevoegd een motorrijtuig te onderwerpen aan een onderzoek en het daartoe te brengen of te doen brengen naar een nabij gelegen plaats. De bestuurder van het motorrijtuig en bij diens afwezigheid degene die het motorrijtuig houdt, is verplicht desgevorderd zijn voor het onderzoek en het vervoer noodzakelijke medewerking te verlenen en de ambtenaren met het motorrijtuig te vervoeren.
 
@@ -855,41 +882,41 @@ Op eerste vordering van ambtenaren van de rijksbelastingdienst of van opsporings
 
 ### Hoofdstuk VII. Controle
 
-#### Artikel 80
+##### Artikel 80
 
 1. Behoudens wettige bevoegdheid tot heffing van tol, de bevoegdheid van de provincies ingevolge de [Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645) tot het heffen van opcenten op de motorrijtuigenbelasting en de bevoegdheid van gemeenten ingevolge de [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416) tot het heffen van parkeerbelastingen, wordt ter zake van het gebruik van de weg met motorrijtuigen geen belasting geheven door andere publiekrechtelijke lichamen dan de rijksoverheid.
 
 2. Het eerste lid is niet van toepassing voor de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 81
+##### Artikel 81
 
 De [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=8) en [10, tweede en derde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=10) blijven buiten toepassing.
 
-#### Artikel 82
+##### Artikel 82
 
 Het bedrag aan belasting en de daarop geheven toeslagen en opcenten tezamen wordt naar beneden afgerond op gehele euro’s. Bedragen met betrekking tot een teruggaaf van belasting worden naar boven afgerond op gehele euro’s.
 
-#### Artikel 83
+##### Artikel 83
 
 Bij wijziging van het tarief van de belasting vindt de tariefwijziging geen toepassing voor het op het tijdstip met ingang waarvan de wijziging van toepassing is, nog niet verstreken gedeelte van het in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=1&artikel=10&z=2026-01-01&g=2026-01-01), dan wel [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=1&artikel=11&z=2026-01-01&g=2026-01-01), bedoelde tijdvak.
 
-#### Artikel 84
+##### Artikel 84
 
 Bij algemene maatregel van bestuur kunnen ter verzekering van een juiste toepassing van de wet nadere regels worden gesteld ter aanvulling van in deze wet geregelde onderwerpen.
 
 ### Hoofdstuk IX. Slotbepalingen
 
-#### Artikel 85
+##### Artikel 85
 
 De inwerkingtreding van deze wet wordt bij wet geregeld.
 
-#### Artikel 86
+##### Artikel 86
 
 Deze wet kan worden aangehaald als Wet op de motorrijtuigenbelasting 1994.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 81a
+##### Artikel 81a
 
 De [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2) zijn van overeenkomstige toepassing op de in de artikelen [23](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=2&artikel=23&z=2026-01-01&g=2026-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=3&artikel=24&z=2026-01-01&g=2026-01-01), [24a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=3&artikel=24a&z=2026-01-01&g=2026-01-01), [24b](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=3&artikel=24b&z=2026-01-01&g=2026-01-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=4&artikel=25&z=2026-01-01&g=2026-01-01), [25a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=5&artikel=25a&z=2026-01-01&g=2026-01-01), [25b](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=6&artikel=25b&z=2026-01-01&g=2026-01-01), [25c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=7&artikel=25c&z=2026-01-01&g=2026-01-01), [37c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=VI&afdeling=3&artikel=37c&z=2026-01-01&g=2026-01-01), en [84a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=Xa&artikel=84a&z=2026-01-01&g=2026-01-01) vermelde bedragen.
 
@@ -897,7 +924,7 @@ De [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 24a
+##### Artikel 24a
 
 1. In afwijking van het bij [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=3&artikel=24&z=2026-01-01&g=2026-01-01), van overeenkomstige toepassing verklaarde artikel 23, eerste tot en met derde lid, bedraagt onder bij algemene maatregel van bestuur te stellen voorwaarden en beperkingen de belasting voor een bestelauto die is ingericht en wordt gebruikt voor het vervoer van een gehandicapte persoon in de cabine en voor het gelijktijdige vervoer van een niet-opvouwbare rolstoel ten behoeve van die persoon, op verzoek:
 
@@ -927,7 +954,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 8. Bij ministeriële regeling kunnen nadere regels worden gesteld ter uitvoering van dit artikel.
 
-#### Artikel 24b
+##### Artikel 24b
 
 1. In afwijking van het bij [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=3&artikel=24&z=2026-01-01&g=2026-01-01), van overeenkomstige toepassing verklaarde [artikel 23, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=2&artikel=23&z=2026-01-01&g=2026-01-01), bedraagt de belasting die voor een bestelauto wordt geheven van een ondernemer als bedoeld in [artikel 7 van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=7), niet zijnde een persoon die ingevolge [artikel 7, zesde lid, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=7) met betrekking tot een bepaalde levering als ondernemer wordt aangemerkt, die de bestelauto meer dan bijkomstig bezigt in het kader van zijn onderneming:
 
@@ -985,7 +1012,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 23a
+##### Artikel 23a
 
 Voor een personenauto waarvan de binnenruimte is ingericht voor het vervoer en verblijf van personen en is voorzien van een vaste kook- en slaapgelegenheid en die voldoet aan bij algemene maatregel van bestuur gestelde voorwaarden en beperkingen met betrekking tot uiterlijk en inrichting, bedraagt de belasting in afwijking van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=2&artikel=23&z=2026-01-01&g=2026-01-01) en onder bij algemene maatregel van bestuur te stellen voorwaarden, de helft van de ingevolge dat artikel verschuldigde belasting.
 
@@ -1033,7 +1060,7 @@ Voor een personenauto waarvan de binnenruimte is ingericht voor het vervoer en v
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 23b
+##### Artikel 23b
 
 1. In afwijking van de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=2&artikel=23&z=2026-01-01&g=2026-01-01) en[23a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&afdeling=2&artikel=23a&z=2026-01-01&g=2026-01-01) bedraagt de belasting voor een motorrijtuig dat een aandrijving heeft uitsluitend op elektriciteit of waterstof een percentage van de ingevolge die artikelen verschuldigde belasting. Dat percentage is:
 
@@ -1099,7 +1126,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ### Afdeling 6. Tarief rijdende winkel
 
-#### Artikel 25c
+##### Artikel 25c
 
 1. Voor een autobus bedraagt de belasting:
 
@@ -1129,7 +1156,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 84a
+##### Artikel 84a
 
 1. Voor de toepassing van dit hoofdstuk is in afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=1&artikel=10&z=2026-01-01&g=2026-01-01) het tijdvak een kalenderjaar.
 
@@ -1167,7 +1194,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 11. Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit hoofdstuk.
 
-#### Artikel 84b
+##### Artikel 84b
 
 1. In afwijking van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=2&artikel=15&z=2026-01-01&g=2026-01-01), wordt voor het tijdvak 2014 de betaling, bedoeld in [artikel 84a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=Xa&artikel=84a&z=2026-01-01&g=2026-01-01), gedaan vóór 1 maart 2014.
 
@@ -1177,7 +1204,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 24aa
+##### Artikel 24aa
 
 Vervallen
 
@@ -1203,7 +1230,7 @@ Vervallen
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 77a
+##### Artikel 77a
 
 1. De inspecteur is bevoegd om op of aan de weg van een motorrijtuig met behulp van een technisch hulpmiddel kentekengegevens als bedoeld in het tweede lid te verwerken ten behoeve van het toezicht op en de handhaving van deze wet. De aanwezigheid van een technisch hulpmiddel wordt op duidelijke wijze kenbaar gemaakt.
 

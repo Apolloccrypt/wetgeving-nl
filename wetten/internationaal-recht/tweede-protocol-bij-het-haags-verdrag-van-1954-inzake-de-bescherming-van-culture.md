@@ -1,13 +1,38 @@
 ---
 title: "Tweede Protocol bij het Haags Verdrag van 1954 inzake de bescherming van culturele goederen in geval van een gewapend conflict"
 identifier: "BWBV0001962"
-categorie: "Internationaal recht"
-publicatiedatum: 2007-04-30
-laatste_update: 1999-03-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001962"
+country: "nl"
+rank: "verdrag"
+publication_date: "2007-04-30"
+last_updated: "1999-03-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001962"
+soort: "verdrag"
+stam_id: "10002584103"
+version_id: "10002575142"
+internal_id: "C10006992421"
+label_id: "10002573794"
+dtd_version: "2.0"
+original_entry_into_force: "2007-04-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001962/2007-04-30/0"
+intitule_bron: "Trb.1999-107"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-01-30"
+intitule_published: "1999-06-21"
+intitule_in_force: "2007-05-01"
+intitule_status: "goed"
+original_publication: "Trb.1999-107"
+original_signed_date: "2007-01-30"
+original_published_date: "1999-06-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1999-107"
+entry_into_force_date: "2007-04-30"
+jci_1_3: "jci1.3:c:BWBV0001962&z=2007-04-30&g=2007-04-30"
+jci_1_0: "1.0:c:BWBV0001962&g=2007-04-30"
+citeertitel_status: "redactioneel"
+signed_date: "2007-01-30"
+entry_into_force: "2007-04-30"
 ---
-
 # Tweede Protocol bij het Haags Verdrag van 1954 inzake de bescherming van culturele goederen in geval van een gewapend conflict
 
 De Partijen,
@@ -26,7 +51,7 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. INLEIDING
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van dit Protocol wordt verstaan onder:
 
@@ -52,17 +77,17 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 - k. „[Eerste Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0005313)’’, het Protocol inzake de bescherming van culturele goederen in geval van een gewapend conflict, gedaan te ’s-Gravenhage op 14 mei 1954;
 
-#### Artikel 2. Verhouding tot het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005596)
+##### Artikel 2. Verhouding tot het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005596)
 
 Dit Protocol vormt ten aanzien van de betrekkingen tussen de Partijen een aanvulling op het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005596).
 
-#### Artikel 3. Werkingssfeer
+##### Artikel 3. Werkingssfeer
 
 1. Naast de bepalingen die in vredestijd van toepassing zijn, is dit Protocol van toepassing op situaties bedoeld in [artikel 18, eerste en tweede lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005596&artikel=18) en in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005596&artikel=22).
 
 2. Indien een van de partijen bij een gewapend conflict niet door dit Protocol gebonden is, blijven de Partijen bij dit Protocol hierdoor gebonden in hun wederzijdse betrekkingen. Voorts zijn zij door dit Protocol gebonden in hun betrekkingen tot een Staat die partij is bij het conflict en die niet door het Protocol gebonden is, indien deze laatste de bepalingen van dit Protocol aanvaardt en voor zolang hij deze toepast.
 
-#### Artikel 4. Verhouding tussen Hoofdstuk 3 en andere bepalingen van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005596) en dit Protocol
+##### Artikel 4. Verhouding tussen Hoofdstuk 3 en andere bepalingen van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005596) en dit Protocol
 
 De toepassing van de bepalingen van Hoofdstuk 3 van dit Protocol laat onverlet:
 
@@ -72,11 +97,11 @@ De toepassing van de bepalingen van Hoofdstuk 3 van dit Protocol laat onverlet:
 
 ### HOOFDSTUK 2. ALGEMENE BEPALINGEN INZAKE BESCHERMING
 
-#### Artikel 5. Veiligstelling van cultuurgoederen
+##### Artikel 5. Veiligstelling van cultuurgoederen
 
 De in vredestijd getroffen voorbereidende maatregelen voor de veiligstelling van cultuurgoederen tegen de voorzienbare gevolgen van een gewapend conflict ingevolge [artikel 3 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005596&artikel=3) omvatten, naargelang hetgeen van toepassing is, het opstellen van inventarislijsten, het plannen van noodmaatregelen voor de bescherming tegen brand of instorting van gebouwen, de voorbereiding van de verwijdering van roerende cultuurgoederen of de verschaffing van een passende **in situ** bescherming voor dergelijke goederen, en de aanwijzing van bevoegde autoriteiten die verantwoordelijk zijn voor de veiligstelling van cultuurgoederen.
 
-#### Artikel 6. Eerbiediging van cultuurgoederen
+##### Artikel 6. Eerbiediging van cultuurgoederen
 
 Met het doel de eerbiediging van cultuurgoederen in overeenstemming met [artikel 4 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005596&artikel=4) te waarborgen:
 
@@ -92,7 +117,7 @@ Met het doel de eerbiediging van cultuurgoederen in overeenstemming met [artikel
 
 - d. in geval van een aanval op basis van een beslissing overeenkomstig letter a, moet, telkens wanneer de omstandigheden dit toelaten, een doeltreffende vroegtijdige waarschuwing worden gegeven.
 
-#### Artikel 7. Voorzorgen bij aanvallen
+##### Artikel 7. Voorzorgen bij aanvallen
 
 Onverminderd andere voorzorgen die zijn voorgeschreven door het internationale humanitaire recht bij de uitvoering van militaire operaties, dient elke Partij bij het conflict:
 
@@ -108,7 +133,7 @@ Onverminderd andere voorzorgen die zijn voorgeschreven door het internationale h
 
 - ii. dat van de aanval kan worden verwacht dat deze bijkomende schade veroorzaakt aan ingevolge [artikel 4 van het Verdra](https://wetten.overheid.nl/jci1.3:c:BWBV0005596&artikel=4)g beschermde cultuurgoederen, die in verhouding tot het te verwachten tastbare en rechtstreekse militaire voordeel buitensporig zal zijn.
 
-#### Artikel 8. Voorzorgen tegen de gevolgen van vijandelijkheden
+##### Artikel 8. Voorzorgen tegen de gevolgen van vijandelijkheden
 
 De partijen bij het conflict dienen, zo veel mogelijk als praktisch uitvoerbaar is:
 
@@ -116,7 +141,7 @@ De partijen bij het conflict dienen, zo veel mogelijk als praktisch uitvoerbaar 
 
 - b. het plaatsen van militaire doelen in de nabijheid van cultuurgoederen te vermijden.
 
-#### Artikel 9. Bescherming van cultuurgoederen in bezet gebied
+##### Artikel 9. Bescherming van cultuurgoederen in bezet gebied
 
 1. Onverminderd de bepalingen van de [artikelen 4 en 5 het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005596&artikel=4) dient een Partij die het grondgebied van een andere Partij geheel of gedeeltelijk bezet houdt, met betrekking tot het bezette gebied te verbieden en te voorkomen dat:
 
@@ -130,7 +155,7 @@ De partijen bij het conflict dienen, zo veel mogelijk als praktisch uitvoerbaar 
 
 ### HOOFDSTUK 3. VERHOOGDE BESCHERMING
 
-#### Artikel 10. Verhoogde bescherming
+##### Artikel 10. Verhoogde bescherming
 
 Een cultuurgoed kan onder verhoogde bescherming worden gesteld indien het voldoet aan de volgende drie voorwaarden:
 
@@ -140,7 +165,7 @@ Een cultuurgoed kan onder verhoogde bescherming worden gesteld indien het voldoe
 
 - c. het wordt niet gebruikt voor militaire doeleinden of om militaire locaties te beschermen en de Partij onder wier zeggenschap het zich bevindt heeft in een verklaring bevestigd dat het goed hiervoor niet zal worden gebruikt.
 
-#### Artikel 11. Verlening van verhoogde bescherming
+##### Artikel 11. Verlening van verhoogde bescherming
 
 1. Elke Partij dient het Comité een lijst van cultuurgoederen in te dienen voor welke zij van plan is om verlening van verhoogde bescherming te verzoeken.
 
@@ -164,11 +189,11 @@ Een cultuurgoed kan onder verhoogde bescherming worden gesteld indien het voldoe
 
 11. De Directeur-Generaal zendt de Secretaris-Generaal van de Verenigde Naties en alle Partijen onverwijld een kennisgeving van een besluit van het Comité tot opneming van cultuurgoederen in de Lijst.
 
-#### Artikel 12. Onschendbaarheid van cultuurgoederen onder verhoogde bescherming
+##### Artikel 12. Onschendbaarheid van cultuurgoederen onder verhoogde bescherming
 
 De partijen bij een conflict waarborgen de onschendbaarheid van cultuurgoederen die onder verhoogde bescherming zijn geplaatst door zich te onthouden van iedere verwording van deze goederen tot aanvalsdoelen of van ieder gebruik van deze goederen of de onmiddellijke omgeving daarvan ter ondersteuning van militair optreden.
 
-#### Artikel 13. Verlies van verhoogde bescherming
+##### Artikel 13. Verlies van verhoogde bescherming
 
 1. Cultuurgoederen onder verhoogde bescherming verliezen deze bescherming uitsluitend:
 
@@ -190,7 +215,7 @@ De partijen bij een conflict waarborgen de onschendbaarheid van cultuurgoederen 
 
 - iii. aan de strijdkrachten van de tegenstander een redelijke termijn wordt verleend om de situatie te herstellen.
 
-#### Artikel 14. Schorsing en opheffing van verhoogde bescherming
+##### Artikel 14. Schorsing en opheffing van verhoogde bescherming
 
 1. Wanneer een cultuurgoed niet langer aan een van de in artikel 10 van dit Protocol genoemde criteria voldoet, kan het Comité de verhoogde bescherming ervan schorsen of opheffen door het culturele goed van de Lijst te verwijderen.
 
@@ -202,7 +227,7 @@ De partijen bij een conflict waarborgen de onschendbaarheid van cultuurgoederen 
 
 ### HOOFDSTUK 4. STRAFRECHTELIJKE AANSPRAKELIJKHEID EN RECHTSMACHT
 
-#### Artikel 15. Ernstige schendingen van dit Protocol
+##### Artikel 15. Ernstige schendingen van dit Protocol
 
 1. Hij die opzettelijk en in strijd met het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005596) of met dit Protocol één van de volgende handelingen verricht, begaat een strafbaar feit in het kader van dit Protocol:
 
@@ -218,7 +243,7 @@ De partijen bij een conflict waarborgen de onschendbaarheid van cultuurgoederen 
 
 2. Elke Partij neemt de nodige maatregelen teneinde de in dit artikel bedoelde strafbare feiten in haar nationale recht aan te merken als misdrijven en op dergelijke strafbare feiten passende straffen te stellen. Hierbij eerbiedigen de Partijen de algemene rechtsbeginselen en het internationale recht, met inbegrip van de regels die de individuele strafrechtelijke aansprakelijkheid uitbreiden tot andere personen dan de rechtstreekse daders.
 
-#### Artikel 16. Rechtsmacht
+##### Artikel 16. Rechtsmacht
 
 1. Onverminderd het tweede lid treft elke Partij de nodige wettelijke maatregelen om haar rechtsmacht ten aanzien van de in artikel 15 bedoelde strafbare feiten in de volgende gevallen te vestigen:
 
@@ -234,13 +259,13 @@ De partijen bij een conflict waarborgen de onschendbaarheid van cultuurgoederen 
 
 - b. kunnen leden van de strijdkrachten en onderdanen van een Staat die geen Partij is bij dit Protocol, behoudens gevallen waarin een Staat die geen Partij is bij dit Protocol de bepalingen ervan, overeenkomstig artikel 3, tweede lid, aanvaardt en toepast, en behoudens ten aanzien van onderdanen die dienen bij de strijdkrachten van een Staat die wel Partij is bij dit Protocol, niet individueel strafrechtelijk aansprakelijk worden gesteld uit hoofde van dit Protocol, noch behelst dit Protocol enige verplichting tot vestiging van rechtsmacht over dergelijke personen of tot hun uitlevering.
 
-#### Artikel 17. Vervolging
+##### Artikel 17. Vervolging
 
 1. De Partij op het grondgebied waarvan de vermoedelijke dader van een van de in artikel 15, eerste lid, letters a tot en met c, genoemde strafbare feiten wordt aangetroffen, legt, indien zij deze persoon niet uitlevert, de zaak zonder enige uitzondering en zonder onnodige vertraging, voor aan haar bevoegde autoriteiten, voor vervolging in overeenstemming met haar nationale recht of, in voorzover van toepassing, met de desbetreffende regels van internationaal recht.
 
 2. Onverminderd de desbetreffende regels van internationaal recht, voorzover van toepassing, wordt een ieder ten aanzien van wie een procedure plaatsvindt in verband met het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005596) of dit Protocol, in alle fasen van de procedure, een eerlijke behandeling en een eerlijk proces gewaarborgd in overeenstemming met nationaal en internationaal recht en worden hem in geen geval minder gunstige waarborgen toegekend dan die welke in het internationale recht zijn voorzien.
 
-#### Artikel 18. Uitlevering
+##### Artikel 18. Uitlevering
 
 1. De in artikel 15, eerste lid, letters a tot en met c, genoemde strafbare feiten worden geacht te vallen onder de uitleveringsdelicten in elk tussen de Partijen bestaand uitleveringsverdrag dat is gesloten vóór de inwerkingtreding van dit Protocol. De Partijen verplichten zich ertoe bedoelde strafbare feiten op te nemen in ieder uitleveringsverdrag dat in een later stadium tussen hen wordt gesloten.
 
@@ -250,19 +275,19 @@ De partijen bij een conflict waarborgen de onschendbaarheid van cultuurgoederen 
 
 4. Voor uitlevering tussen Partijen worden de in artikel 15, eerste lid, letters a tot en met c, omschreven strafbare feiten indien nodig beschouwd als niet alleen begaan op de plaats waar zij zijn gepleegd maar ook op het grondgebied van de Partijen die hun rechtsmacht hebben gevestigd overeenkomstig artikel 16, eerste lid.
 
-#### Artikel 19. Wederzijdse rechtshulp
+##### Artikel 19. Wederzijdse rechtshulp
 
 1. De Partijen verlenen elkaar de ruimst mogelijke rechtshulp met betrekking tot onderzoeken, bij strafzaken en bij uitleveringsprocedures ten aanzien van de in artikel 15 omschreven strafbare feiten, met inbegrip van rechtshulp ter verkrijging van bewijs in hun bezit dat nodig is voor de procedure.
 
 2. De Partijen komen hun verplichtingen uit hoofde van het eerste lid na in overeenstemming met de verdragen en regelingen inzake wederzijdse rechtshulp die tussen hen bestaan. Indien dergelijke verdragen of regelingen ontbreken, verlenen de Partijen elkaar rechtshulp overeenkomstig hun nationale recht.
 
-#### Artikel 20. Weigeringsgronden
+##### Artikel 20. Weigeringsgronden
 
 1. Ten behoeve van uitlevering en wederzijdse rechtshulp zullen de strafbare feiten omschreven in respectievelijk artikel 15, eerste lid, letters a tot en met c, en artikel 15, niet worden beschouwd als politieke delicten, noch als met politieke delicten samenhangende delicten, noch als delicten ingegeven door politieke motieven. Dienovereenkomstig mag een verzoek om uitlevering of om wederzijdse rechtshulp op basis van dergelijke delicten niet worden geweigerd op grond van het enkele feit dat het een politiek delict, een met een politiek delict samenhangend delict of een delict ingegeven door politieke motieven betreft.
 
 2. Niets in dit Protocol mag zo worden uitgelegd dat het verplicht tot uitlevering of het verlenen van wederzijdse rechtshulp in gevallen waarin de aangezochte Partij ernstige redenen heeft om aan te nemen dat het verzoek om uitlevering voor in artikel 15, eerste lid, letters a tot en met c, omschreven strafbare feiten of om wederzijdse rechtshulp met betrekking tot in artikel 15 genoemde strafbare feiten, is gedaan met de bedoeling een persoon te vervolgen of te bestraffen op grond van zijn ras, godsdienst, nationaliteit, etnische afkomst of politieke overtuiging, of dat inwilliging van het verzoek de positie van de betrokkene om één van deze redenen ongunstig zou kunnen beïnvloeden.
 
-#### Artikel 21. Maatregelen met betrekking tot andere schendingen
+##### Artikel 21. Maatregelen met betrekking tot andere schendingen
 
 Onverminderd [artikel 28 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005596&artikel=28) neemt elke Partij de wettelijke, bestuurlijke of disciplinaire maatregelen die nodig kunnen zijn voor het doen ophouden van de volgende handelingen wanneer deze opzettelijk worden verricht:
 
@@ -272,7 +297,7 @@ Onverminderd [artikel 28 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BW
 
 ### HOOFDSTUK 5. DE BESCHERMING VAN CULTUURGOEDEREN BIJ GEWAPENDE CONFLICTEN VAN NIET-INTERNATIONALE AARD
 
-#### Artikel 22. Gewapende conflicten van niet-internationale aard
+##### Artikel 22. Gewapende conflicten van niet-internationale aard
 
 1. Dit Protocol is van toepassing in geval van een gewapend conflict van niet-internationale aard dat zich voordoet op het grondgebied van een van de Partijen.
 
@@ -290,7 +315,7 @@ Onverminderd [artikel 28 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BW
 
 ### HOOFDSTUK 6. INSTITUTIONELE KWESTIES
 
-#### Artikel 23. Vergadering van de Partijen
+##### Artikel 23. Vergadering van de Partijen
 
 1. De Vergadering van de Partijen wordt gelijktijdig met de Algemene Conferentie van de UNESCO bijeengeroepen, en wordt gecoördineerd met de Vergadering van de Hoge Verdragsluitende Partijen, indien deze door de Directeur-Generaal van de UNESCO bijeen is geroepen.
 
@@ -310,7 +335,7 @@ Onverminderd [artikel 28 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BW
 
 4. Op verzoek van ten minste een vijfde van de Partijen, roept de Directeur-Generaal een Buitengewone Vergadering van de Partijen bijeen.
 
-#### Artikel 24. Comité voor de bescherming van cultuurgoederen in geval van een gewapend conflict
+##### Artikel 24. Comité voor de bescherming van cultuurgoederen in geval van een gewapend conflict
 
 1. Hierbij wordt het Comité voor de bescherming van cultuurgoederen in geval van een gewapend conflict in het leven geroepen. Het Comité is samengesteld uit twaalf Partijen die door de Vergadering van de Partijen worden gekozen.
 
@@ -320,13 +345,13 @@ Onverminderd [artikel 28 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BW
 
 4. De Partijen die lid zijn van het Comité kiezen voor hun vertegenwoordiging personen die gekwalificeerd zijn op het terrein van cultureel erfgoed, defensie of internationaal recht, en zij streven er in onderling overleg naar te waarborgen dat het Comité in zijn geheel de nodige deskundigheid op al deze terreinen omvat.
 
-#### Artikel 25. Ambtstermijn
+##### Artikel 25. Ambtstermijn
 
 1. Een Partij wordt tot lid van het Comité gekozen voor een termijn van vier jaar en is slechts eenmaal onmiddellijk opnieuw verkiesbaar.
 
 2. Onverminderd de bepalingen van het eerste lid, loopt de ambtstermijn van de helft van de gedurende de eerste verkiezing gekozen leden af aan het einde van de eerste gewone zitting van de Vergadering van de Partijen die volgt op die gedurende welke zij zijn gekozen. Deze leden worden gekozen door middel van loting door de Voorzitter van deze Vergadering na de eerste verkiezing.
 
-#### Artikel 26. Huishoudelijk reglement
+##### Artikel 26. Huishoudelijk reglement
 
 1. Het Comité neemt zijn eigen huishoudelijk reglement aan.
 
@@ -334,7 +359,7 @@ Onverminderd [artikel 28 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BW
 
 3. De leden nemen niet deel aan de stemming over besluiten die betrekking hebben op cultuurgoederen die worden bedreigd door een gewapend conflict waarbij zij partij zijn.
 
-#### Artikel 27. Taken
+##### Artikel 27. Taken
 
 1. Het Comité heeft de volgende taken:
 
@@ -356,11 +381,11 @@ Onverminderd [artikel 28 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BW
 
 3. Het Comité werkt samen met internationale en nationale gouvernementele en niet-gouvernementele organisaties die doeleinden hebben die vergelijkbaar zijn met die van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005596), met het [eerste Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0005313) daarvan en met dit Protocol. Teneinde het te helpen bij de uitvoering van zijn taken, kan het Comité vooraanstaande professionele organisaties uitnodigen, in een adviserende hoedanigheid, zijn vergaderingen bij te wonen, zoals die welke formele betrekkingen met de UNESCO hebben, in het bijzonder het Internationale Comité van het Blauwe Schild en de organisaties waaruit dit is samengesteld. Vertegenwoordigers van het International Centre for the Study of the Preservation and Restauration of Cultural Property (Centrum van Rome) (ICCROM) en van het Internationaal Comité van het Rode Kruis kunnen eveneens uitgenodigd worden een vergadering in een adviserende hoedanigheid bij te wonen.
 
-#### Artikel 28. Secretariaat
+##### Artikel 28. Secretariaat
 
 Het Comité wordt bijgestaan door het secretariaat van de UNESCO, dat de documentatie van het Comité voorbereidt alsmede de agenda van zijn vergaderingen en dat verantwoordelijk is voor de uitvoering van zijn besluiten.
 
-#### Artikel 29. Fonds voor de bescherming van cultuurgoederen in geval van een gewapend conflict
+##### Artikel 29. Fonds voor de bescherming van cultuurgoederen in geval van een gewapend conflict
 
 1. Hierbij wordt een Fonds ingesteld dat de volgende doelen heeft:
 
@@ -394,7 +419,7 @@ Het Comité wordt bijgestaan door het secretariaat van de UNESCO, dat de documen
 
 ### HOOFDSTUK 7. VERSPREIDING VAN INFORMATIE EN INTERNATIONALE BIJSTAND
 
-#### Artikel 30. Verspreiding
+##### Artikel 30. Verspreiding
 
 1. De Partijen spannen zich ervoor in, door middel van geschikte middelen, en met name door middel van onderwijs- en informatieprogramma’s, de waardering voor en eerbiediging van cultuurgoederen door hun gehele bevolking te vergroten.
 
@@ -410,11 +435,11 @@ Het Comité wordt bijgestaan door het secretariaat van de UNESCO, dat de documen
 
 - d. het elkaar, zo snel mogelijk, door tussenkomst van de Directeur-Generaal, mededelen van de wetten en bestuurlijke bepalingen die zij aannemen om de toepassing van dit Protocol te waarborgen.
 
-#### Artikel 31. Internationale samenwerking
+##### Artikel 31. Internationale samenwerking
 
 In geval van ernstige schendingen van dit Protocol verplichten de Partijen zich ertoe gezamenlijk via het Comité, of individueel, in samenwerking met de UNESCO en de Verenigde Naties, en in overeenstemming met het [Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143) op te treden.
 
-#### Artikel 32. Internationale bijstand
+##### Artikel 32. Internationale bijstand
 
 1. Een Partij kan het Comité om internationale bijstand ten behoeve van cultuurgoederen onder verhoogde bescherming verzoeken alsmede om bijstand bij de voorbereiding, ontwikkeling of uitvoering van de in artikel 10 bedoelde wetten, bestuurlijke bepalingen en maatregelen.
 
@@ -424,7 +449,7 @@ In geval van ernstige schendingen van dit Protocol verplichten de Partijen zich 
 
 4. De Partijen worden aangemoedigd die Partijen of partijen bij het conflict welke daarom verzoeken, door tussenkomst van het Comité, alle vormen van technische bijstand toe te kennen.
 
-#### Artikel 33. Bijstand van de UNESCO
+##### Artikel 33. Bijstand van de UNESCO
 
 1. Een Partij kan een beroep doen op de UNESCO voor technische bijstand met betrekking tot het organiseren van de bescherming van haar cultuurgoederen, zoals voorzorgen voor het veiligstellen van cultuurgoederen, preventieve en organisatorische maatregelen voor noodsituaties en samenstelling van nationale inventarislijsten van cultuurgoederen, of met betrekking tot ieder ander probleem, voortvloeiende uit de toepassing van dit Protocol. De UNESCO verleent deze medewerking binnen de grenzen van haar programma en haar middelen.
 
@@ -434,65 +459,65 @@ In geval van ernstige schendingen van dit Protocol verplichten de Partijen zich 
 
 ### HOOFDSTUK 8. UITVOERING VAN DIT PROTOCOL
 
-#### Artikel 34. Beschermende mogendheden
+##### Artikel 34. Beschermende mogendheden
 
 Dit Protocol wordt toegepast met de medewerking van de beschermende mogendheden, belast met de behartiging van de belangen van de partijen bij het conflict.
 
-#### Artikel 35. Verzoeningsprocedure
+##### Artikel 35. Verzoeningsprocedure
 
 1. De beschermende mogendheden verlenen hun goede diensten in alle gevallen waarin zij dit wenselijk kunnen achten in het belang van cultuurgoederen, in het bijzonder wanneer er verschil van mening is tussen de partijen bij het conflict met betrekking tot de toepassing of de uitlegging van de bepalingen van dit Protocol.
 
 2. Te dien einde kan elk van de beschermende mogendheden op uitnodiging van een Partij, van de Directeur-Generaal of uit eigen beweging, aan de partijen bij het conflict een bijeenkomst van hun vertegenwoordigers voorstellen, en in het bijzonder van de autoriteiten belast met de bescherming van cultuurgoederen, zonodig op het grondgebied van een Staat die geen partij is bij het conflict. De partijen bij het conflict zijn gehouden gevolg te geven aan de hun gedane voorstellen tot het houden van een bijeenkomst. De beschermende mogendheden leggen aan de partijen bij het conflict een voorstel ter goedkeuring voor betreffende een persoon, behorende tot een staat die geen partij is bij het conflict, of een persoon voorgesteld door de Directeur-Generaal, die uitgenodigd zal worden aan deze bijeenkomst deel te nemen in de hoedanigheid van voorzitter.
 
-#### Artikel 36. Verzoening in afwezigheid van beschermende mogendheden
+##### Artikel 36. Verzoening in afwezigheid van beschermende mogendheden
 
 1. In gevallen van een conflict waarbij geen beschermende mogendheden zijn aangewezen, kan de Directeur-Generaal zijn goede diensten toekennen of door middel van elke andere vorm van verzoening of bemiddeling optreden teneinde het geschil te beslechten.
 
 2. Op uitnodiging van een Partij of van de Directeur-Generaal, kan de voorzitter van het Comité de partijen bij het conflict een bijeenkomst van hun vertegenwoordigers voorstellen, en in het bijzonder van de autoriteiten belast met de bescherming van cultuurgoederen, zonodig op het grondgebied van een Staat die geen partij is bij het conflict.
 
-#### Artikel 37. Vertalingen en rapporten
+##### Artikel 37. Vertalingen en rapporten
 
 1. De Partijen vertalen dit Protocol in hun officiële talen en doen deze officiële vertalingen aan de Directeur-Generaal toekomen.
 
 2. De Partijen leggen iedere vier jaar een rapport inzake de uitvoering van dit Protocol aan het Comité voor.
 
-#### Artikel 38. Aansprakelijkheid van Staten
+##### Artikel 38. Aansprakelijkheid van Staten
 
 Geen enkele bepaling in dit Protocol met betrekking tot individuele strafrechtelijke verantwoordelijkheid doet afbreuk aan de aansprakelijkheid van Staten ingevolge het internationale recht, met inbegrip van de verplichting tot schadeloosstelling.
 
 ### HOOFDSTUK 9. SLOTBEPALINGEN
 
-#### Artikel 39. Talen
+##### Artikel 39. Talen
 
 Dit Protocol is opgesteld in het Arabisch, Chinees, Engels, Frans, Russisch en Spaans, zijnde de zes teksten gelijkelijk authentiek.
 
-#### Artikel 40. Ondertekening
+##### Artikel 40. Ondertekening
 
 Dit Protocol draagt de datum van 26 maart 1999. Het staat van 17 mei 1999 tot en met 31 december 1999 te ’s-Gravenhage open ter ondertekening door alle Hoge Verdragsluitende Partijen.
 
-#### Artikel 41. Bekrachtiging, aanvaarding of goedkeuring
+##### Artikel 41. Bekrachtiging, aanvaarding of goedkeuring
 
 1. Dit Protocol dient te worden bekrachtigd, aanvaard of goedgekeurd door de Hoge Verdragsluitende Partijen die dit Protocol hebben ondertekend, in overeenstemming met hun onderscheiden grondwettelijke procedures.
 
 2. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Directeur-Generaal.
 
-#### Artikel 42. Toetreding
+##### Artikel 42. Toetreding
 
 1. Dit Protocol staat vanaf 1 januari 2000 open voor toetreding door andere Hoge Verdragsluitende Partijen.
 
 2. Toetreding vindt plaats door middel van de nederlegging van een akte van toetreding bij de Directeur-Generaal.
 
-#### Artikel 43. Inwerkingtreding
+##### Artikel 43. Inwerkingtreding
 
 1. Dit Protocol treedt in werking drie maanden nadat 20 akten van bekrachtiging, aanvaarding, goedkeuring of toetreding zijn nedergelegd.
 
 2. Daarna treedt het ten aanzien van elke Partij in werking, drie maanden na de nederlegging van haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
 
-#### Artikel 44. Inwerkingtreding in omstandigheden van gewapend conflict
+##### Artikel 44. Inwerkingtreding in omstandigheden van gewapend conflict
 
 De in de [artikelen 18 en 19 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005596&artikel=18) bedoelde omstandigheden doen de door de partijen bij het conflict voor of na het begin van de vijandelijkheden of van de bezetting nedergelegde akten van bekrachtiging, aanvaarding respectievelijk goedkeuring van of toetreding tot dit Protocol onmiddellijk van kracht worden. In die gevallen doet de Directeur-Generaal langs de snelste weg de mededelingen bedoeld in artikel 46.
 
-#### Artikel 45. Opzegging
+##### Artikel 45. Opzegging
 
 1. Elke Partij kan dit Protocol opzeggen.
 
@@ -500,11 +525,11 @@ De in de [artikelen 18 en 19 van het Verdrag](https://wetten.overheid.nl/jci1.3:
 
 3. De opzegging wordt van kracht een jaar na ontvangst van de akte van opzegging. Indien echter de opzeggende Partij op het ogenblik dat deze termijn afloopt, betrokken is bij een gewapend conflict, heeft de opzegging geen gevolg zolang de vijandelijkheden niet zijn beëindigd of zolang de terugvoering van cultuurgoederen naar het gebied van herkomst niet is voltooid, naar gelang van wat het laatst plaatsvindt.
 
-#### Artikel 46. Kennisgevingen
+##### Artikel 46. Kennisgevingen
 
 De Directeur-Generaal stelt zowel alle Hoge Verdragsluitende Partijen als de Verenigde Naties in kennis van de nederlegging van alle akten van bekrachtiging, aanvaarding, goedkeuring of toetreding bedoeld in de artikelen 41 en 42, evenals van de opzeggingen, bedoeld in artikel 45.
 
-#### Artikel 47. Registratie bij de Verenigde Naties
+##### Artikel 47. Registratie bij de Verenigde Naties
 
 Overeenkomstig [artikel 102 van het Handvest van Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102) wordt dit Verdrag geregistreerd bij het Secretariaat van de Verenigde Naties op verzoek van de Directeur-Generaal.
 

@@ -1,13 +1,35 @@
 ---
 title: "Beleidsregel CBP richtsnoeren informatieplicht basisscholen onderwijskundig rapport"
 identifier: "BWBR0033236"
-categorie: "Onderwijs"
-publicatiedatum: 2009-06-09
-laatste_update: 2009-06-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033236"
+country: "nl"
+rank: "zbo"
+publication_date: "2009-06-09"
+last_updated: "2009-06-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033236"
+soort: "zbo"
+stam_id: "12203693"
+version_id: "20416522"
+internal_id: "C28699711"
+label_id: "12175064"
+dtd_version: "2.0"
+original_entry_into_force: "2009-06-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033236/2009-06-09/0"
+intitule_bron: "Stcrt.2009-103"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2009-06-09"
+intitule_in_force: "2009-06-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-103"
+original_published_date: "2009-06-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-8446"
+entry_into_force_date: "2009-06-09"
+jci_1_3: "jci1.3:c:BWBR0033236&z=2009-06-09&g=2009-06-09"
+jci_1_0: "1.0:c:BWBR0033236&g=2009-06-09"
+citeertitel_status: "redactioneel"
+entry_into_force: "2009-06-09"
 ---
-
 # Beleidsregel CBP richtsnoeren informatieplicht basisscholen onderwijskundig rapport
 
 De [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) (Wbp) bevat regels voor de omgang met persoonsgegevens en hanteert als uitgangspunt dat persoonsgegevens door een verantwoordelijke, zoals een basisschool, in overeenstemming met de wet, behoorlijk en zorgvuldig worden verwerkt. Met ‘wet’ wordt hier niet alleen de Wbp bedoeld maar ook andere wettelijke regelingen die betrekking hebben op de verwerking van persoonsgegevens waaronder leerlinggegevens.

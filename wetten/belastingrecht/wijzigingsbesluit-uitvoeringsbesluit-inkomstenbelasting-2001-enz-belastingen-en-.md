@@ -1,86 +1,112 @@
 ---
-title: "Wijzigingsbesluit Uitvoeringsbesluit inkomstenbelasting 2001, enz. (belastingen en toeslagen)"
+title: "Besluit van 23 december 2015 tot wijziging van enige uitvoeringsbesluiten op het gebied van belastingen en toeslagen"
 identifier: "BWBR0037464"
-categorie: "Belastingrecht"
-publicatiedatum: 2016-08-01
-laatste_update: 2016-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037464"
+country: "nl"
+rank: "amvb"
+publication_date: "2016-08-01"
+last_updated: "2016-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037464"
+soort: "AMvB"
+stam_id: "13371123"
+version_id: "22927282"
+internal_id: "C33153031"
+label_id: "13338984"
+dtd_version: "2.0"
+original_entry_into_force: "2016-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037464/2016-08-01/0"
+intitule_bron: "Stb.2015-544"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-12-23"
+intitule_published: "2015-12-30"
+intitule_in_force: "2015-12-30"
+intitule_status: "goed"
+original_publication: "Stb.2015-544"
+original_signed_date: "2015-12-23"
+original_published_date: "2015-12-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2015-544"
+entry_into_force_date: "2016-01-01"
+jci_1_3: "jci1.3:c:BWBR0037464&z=2016-08-01&g=2016-08-01"
+jci_1_0: "1.0:c:BWBR0037464&g=2016-08-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsbesluit Uitvoeringsbesluit inkomstenbelasting 2001, enz. (belastingen en toeslagen)"
+signed_date: "2015-12-23"
+entry_into_force: "2016-01-01"
 ---
-
 # Besluit van 23 december 2015 tot wijziging van enige uitvoeringsbesluiten op het gebied van belastingen en toeslagen
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Uitvoeringsbesluit inkomstenbelasting 2001.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Uitvoeringsbesluit loonbelasting 1965.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Uitvoeringsbesluit Successiewet 1956.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het Uitvoeringsbesluit belastingen van rechtsverkeer.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Uitvoeringsbesluit omzetbelasting 1968.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt het Uitvoeringsbesluit omzetbelasting 1968.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt het Uitvoeringsbesluit belasting van personenauto’s en motorrijwielen 1992.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt het Uitvoeringsbesluit motorrijtuigenbelasting 1994.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt het Uitvoeringsbesluit verbruiksbelasting van alcoholvrije dranken.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt het Uitvoeringsbesluit belastingen op milieugrondslag.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt het Uitvoeringsbesluit belastingen op milieugrondslag.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt het Uitvoeringsbesluit belastingen op milieugrondslag.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt het Besluit proceskosten bestuursrecht.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt het Besluit voorkoming dubbele belasting 2001.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt het Uitvoeringsbesluit Algemene wet inkomensafhankelijke regelingen.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt het Uitvoeringsbesluit internationale bijstandsverlening bij de heffing van belastingen.
 
-#### Artikel XVII
+##### Artikel XVII
 
 1. [Artikel 19a van het Uitvoeringsbesluit inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&artikel=19a) is van overeenkomstige toepassing op tegemoetkomingen als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025003&artikel=2) en [11a van de Wet tegemoetkoming chronisch zieken en gehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0025003&artikel=11a) zoals deze luidden op 31 december 2015.
 
 2. [Artikel 11 van het Uitvoeringsbesluit loonbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&artikel=11) is van overeenkomstige toepassing op uitkeringen ingevolge [artikel 11a van de Wet tegemoetkoming chronisch zieken en gehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0025003&artikel=11a) zoals dit luidde op 31 december 2015.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 1. Dit besluit treedt in werking met ingang van 1 januari 2016, met dien verstande dat:
 

@@ -1,13 +1,37 @@
 ---
 title: "Regelen vergoeding kosten geneeskundige behandeling en verpleging zeeliedenoorlogsslachtoffers"
 identifier: "BWBR0002901"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2011-01-01
-laatste_update: 2011-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002901"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2011-01-01"
+last_updated: "2011-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002901"
+soort: "ministeriele-regeling"
+stam_id: "4444943"
+version_id: "6241262"
+internal_id: "C6445471"
+label_id: "4423344"
+dtd_version: "2.0"
+original_entry_into_force: "1973-09-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002901/2011-01-01/0"
+intitule_bron: "Stcrt.1973-185"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1973-09-19"
+intitule_published: "1973-09-25"
+intitule_in_force: "1973-09-25"
+intitule_status: "goed"
+original_publication: "Stcrt.1973-185"
+original_signed_date: "1973-09-19"
+original_published_date: "1973-09-25"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1973-09-27"
+jci_1_3: "jci1.3:c:BWBR0002901&z=2011-01-01&g=2011-01-01"
+jci_1_0: "1.0:c:BWBR0002901&g=2011-01-01"
+citeertitel_status: "officieel"
+signed_date: "1973-09-19"
+entry_into_force: "1973-09-27"
 ---
-
 # Regelen vergoeding kosten geneeskundige behandeling en verpleging zeeliedenoorlogsslachtoffers
 
 Gelet op artikel 9, eerste lid, van het Koninklijk besluit van 22 oktober 1949 (Stb. J 469) tot uitvoering van de [artikelen 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=3), en [13 van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=13) (Stb. 1947, H 420);
@@ -16,7 +40,7 @@ Overwegende, dat de bij de beschikkingen van de toenmalige Minister van Verkeer 
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze beschikking wordt verstaan onder:
 
@@ -28,13 +52,13 @@ In deze beschikking wordt verstaan onder:
 
 - **‘de Sociale verzekeringsbank’:** de Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6).
 
-#### Artikel 2
+##### Artikel 2
 
 1. De vergoeding ter zake van kosten van geneeskundige behandeling en verpleging, bedoeld in [artikel 3, zesde lid, der wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&artikel=3) en de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002052&artikel=9) en [11 van het Koninklijk besluit van 22 oktober 1949](https://wetten.overheid.nl/jci1.3:c:BWBR0002052&artikel=11) (Stb. J 469) wordt aan de zeeman uitbetaald na overlegging van een rekening betreffende die behandeling en verpleging. Deze rekening dient vóór het einde van het jaar, volgende op dat, waarin de kosten de zeeman in rekening zijn gebracht of de uitgaven door hem zijn gedaan, op de door de Sociale verzekeringsbank aan te geven wijze bij hem te worden ingediend.
 
 2. Indien de zeeman de rekening niet zelf voldoet, wordt de vergoeding uitbetaald aan degene, die de behandeling en verpleging heeft verstrekt, dan wel te wiens laste deze zijn gekomen.
 
-#### Artikel 3
+##### Artikel 3
 
 De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002901&artikel=2&z=2011-01-01&g=2011-01-01) bedoelde vergoeding wordt verleend met inachtneming van de volgende regelen
 
@@ -78,10 +102,10 @@ De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002901&artikel=2&z=20
 
 - III. Kosten van andere voorzieningen Indien naar het oordeel van de Raad of de Sociale verzekeringsbank in verband met de verwonding, verminking, ziekte of gebreken, waaraan recht op buitengewoon pensioen wordt ontleend, een voorziening van andere aard dan de onder I en II genoemde voorzieningen is vereist, welke niet uit een aan de zeeman toekomende vermeerdering, als bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=9) en [10 der wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=10), kan worden bekostigd en welke voorziening in verhouding tot zijn levensomstandigheden kostbaar moet worden geacht, kan hem een door de Sociale verzekeringsbank naar redelijkheid vast te stellen tegemoetkoming in de kosten van die voorziening worden verleend. Bij de vaststelling van deze tegemoetkoming wordt door de Sociale verzekeringsbank geen rekening gehouden met de vaste vergoeding, bedoeld in [artikel 9, derde lid, van het Koninklijk besluit van 22 oktober 1949](https://wetten.overheid.nl/jci1.3:c:BWBR0002052&artikel=9).
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 3
+##### Artikel 3
 
 Deze beschikking treedt in werking met ingang van de tweede dag na die van haar bekendmaking in de Nederlandse Staatscourant.

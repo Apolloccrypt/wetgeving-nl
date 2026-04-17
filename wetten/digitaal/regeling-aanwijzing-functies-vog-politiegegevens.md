@@ -1,24 +1,50 @@
 ---
-title: "Regeling aanwijzing functies VOG politiegegevens"
+title: "Regeling van de Minister voor Rechtsbescherming van 24 juni 2022, nr. 4040514, houdende het aanwijzen van functies die een hoge mate van integriteit vereisen en waarvoor de afgifte van een verklaring omtrent het gedrag kan worden geweigerd op basis van politiegegevens (Regeling aanwijzing functies VOG politiegegevens)"
 identifier: "BWBR0046821"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046821"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046821"
+soort: "ministeriele-regeling"
+stam_id: "16396493"
+version_id: "28712832"
+internal_id: "C40558891"
+label_id: "16320694"
+dtd_version: "2.0"
+original_entry_into_force: "2022-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046821/2025-01-01/0"
+intitule_bron: "Stcrt.2022-16808"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-06-24"
+intitule_published: "2022-06-28"
+intitule_in_force: "2022-06-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-16808"
+original_signed_date: "2022-06-24"
+original_published_date: "2022-06-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-16808"
+entry_into_force_date: "2022-07-01"
+jci_1_3: "jci1.3:c:BWBR0046821&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0046821&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling aanwijzing functies VOG politiegegevens"
+signed_date: "2022-06-24"
+entry_into_force: "2022-07-01"
 ---
-
 # Regeling van de Minister voor Rechtsbescherming van 24 juni 2022, nr. 4040514, houdende het aanwijzen van functies die een hoge mate van integriteit vereisen en waarvoor de afgifte van een verklaring omtrent het gedrag kan worden geweigerd op basis van politiegegevens (Regeling aanwijzing functies VOG politiegegevens)
 
 Gelet op [artikel 35a, eerste lid, van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=35a);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Deze regeling voorziet in de aanwijzing van functies, bedoeld in [artikel 35a, eerste lid, van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=35a).
 
-#### Artikel 2
+##### Artikel 2
 
 De aanwijzing van functies, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046821&artikel=1&z=2025-01-01&g=2025-01-01), geschiedt door de vermelding in de bijlage bij deze regeling van de volgende gegevens, voor zover van toepassing:
 
@@ -32,11 +58,11 @@ De aanwijzing van functies, bedoeld in [artikel 1](https://wetten.overheid.nl/jc
 
 - e. de criteria, bedoeld in [artikel 35a, tweede lid, van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=35a), op basis waarvan de aanwijzing plaatsvindt.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling treedt in werking met ingang van 1 juli 2022.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling wordt aangehaald als: Regeling aanwijzing functies VOG politiegegevens.
 

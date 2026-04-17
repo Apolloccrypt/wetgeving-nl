@@ -1,13 +1,37 @@
 ---
-title: "Besluit administratieve bepalingen inzake het wegverkeer (BABW)"
+title: "Besluit van 26 juli 1990, houdende vaststelling van het Besluit administratieve bepalingen inzake het wegverkeer"
 identifier: "BWBR0004826"
-categorie: "Verkeer"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004826"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004826"
+soort: "AMvB"
+stam_id: "2013373"
+version_id: "24365232"
+internal_id: "C34962361"
+label_id: "1962714"
+dtd_version: "2.0"
+original_entry_into_force: "2018-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004826/2026-01-01/0"
+intitule_bron: "Stb.1990-460"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1990-07-26"
+intitule_status: "goed"
+original_publication: "Stb.2017-338"
+original_signed_date: "2017-08-29"
+original_published_date: "2017-09-14"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2017-338"
+entry_into_force_date: "2018-01-01"
+jci_1_3: "jci1.3:c:BWBR0004826&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0004826&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit administratieve bepalingen inzake het wegverkeer (BABW)"
+signed_date: "2017-08-29"
+entry_into_force: "2018-01-01"
 ---
-
 # Besluit van 26 juli 1990, houdende vaststelling van het Besluit administratieve bepalingen inzake het wegverkeer
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 12 mei 1989, nr. RW 26148, Hoofddirectie van de Waterstaat, Hoofdafdeling Bestuurlijke en Juridische Zaken;
@@ -22,7 +46,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -60,11 +84,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - q. **spitsmijdenproject:** door of in samenwerking met Onze Minister geïnitieerd mobiliteitsproject waarbij frequente spitsreizigers in het wegverkeer uitgenodigd worden om in ruil voor een beloning de spitstijden te gaan mijden door buiten de spitstijden, met een andere vervoersmodaliteit of, binnen het kader van de doelstellingen van het project, helemaal niet meer te gaan reizen.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Het is aan anderen dan degenen die daartoe krachtens dit besluit bevoegd zijn verboden op, langs of boven de wegen verkeerstekens aan te brengen, te doen aanbrengen, aangebracht te houden of te verwijderen dan wel de zichtbaarheid van verkeerstekens weg te nemen.
 
-#### Artikel 2
+##### Artikel 2
 
 Het is verboden voorwerpen, inrichtingen of borden, van welke aard ook, die het verkeer in verwarring zouden kunnen brengen op, langs of boven de wegen aan te brengen, te doen aanbrengen, of aangebracht te houden.
 
@@ -72,7 +96,7 @@ Het is verboden voorwerpen, inrichtingen of borden, van welke aard ook, die het 
 
 #### § 1. Verkeerstekens
 
-#### Artikel 3
+##### Artikel 3
 
 Verkeerstekens zijn:
 
@@ -82,7 +106,7 @@ Verkeerstekens zijn:
 
 - c. verkeerstekens op het wegdek.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De verkeersborden die een gebod, een verbod of een adviessnelheid betreffen zijn vastgesteld in [bijlage I](onbekend), behorende bij het [RVV 1990, hoofdstukken A tot en met H](onbekend).
 
@@ -90,23 +114,23 @@ Verkeerstekens zijn:
 
 3. De verkeersborden die overige informatie van belang voor de weggebruikers bevatten moeten voor zover in [bijlage I](onbekend), behorende bij het [RVV 1990, hoofdstukken K](onbekend) en [L](onbekend), niet een bepaald model is voorgeschreven, bestaan uit een rechthoekig bord, waarop de letters, cijfers of symbolen in een blauw veld zijn geplaatst. Onze Minister kan veranderingen toestaan.
 
-#### Artikel 5
+##### Artikel 5
 
 De verkeerslichten zijn de lichten genoemd in de [artikelen 68 tot en met 75 van het RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=68).
 
-#### Artikel 6
+##### Artikel 6
 
 1. De verkeerstekens op het wegdek die een gebod of verbod betreffen zijn de verkeerstekens genoemd in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=10), [artikel 23, eerste lid, onderdeel e en g](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=23), [artikel 24, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=24), [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=25), [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=46), [artikel 49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=49) en de [artikelen 76 tot en met 81 van het RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=76).
 
 2. Andere verkeerstekens op het wegdek kunnen worden aangebracht ter geleiding van het verkeer, ter herinnering aan de ter plaatse geldende maximumsnelheid en ter aanduiding van andere omstandigheden.
 
-#### Artikel 7
+##### Artikel 7
 
 Andere verkeerstekens dan de in dit hoofdstuk genoemde worden niet geplaatst.
 
 #### § 2. Onderborden
 
-#### Artikel 8
+##### Artikel 8
 
 1. Onder verkeersborden kunnen onderborden worden geplaatst.
 
@@ -142,7 +166,7 @@ Andere verkeerstekens dan de in dit hoofdstuk genoemde worden niet geplaatst.
 
 #### § 3. Zonale toepassing van verkeersborden
 
-#### Artikel 9
+##### Artikel 9
 
 1. Boven de verkeersborden A1, C1, C6 tot en met C22e, E1, E3, E9, G5 en G7 van [bijlage 1, behorende bij het RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1), kan het woord «zone» worden aangebracht. Hieraan kan een aanduiding van het gebied van de zone worden toegevoegd.
 
@@ -150,17 +174,17 @@ Andere verkeerstekens dan de in dit hoofdstuk genoemde worden niet geplaatst.
 
 3. Aan bord E10 van [bijlage 1 bij het RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1) kan een aanduiding van het gebied van de zone worden toegevoegd.
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
 #### § 4. Plaatsing en verwijdering van verkeerstekens krachtens verkeersbesluit
 
-#### Artikel 12
+##### Artikel 12
 
 De plaatsing of verwijdering van de hierna genoemde verkeerstekens moet geschieden krachtens een verkeersbesluit:
 
@@ -186,43 +210,43 @@ De plaatsing of verwijdering van de hierna genoemde verkeerstekens moet geschied
 
 - VII. haaietanden.
 
-#### Artikel 13
+##### Artikel 13
 
 In het verkeersbesluit tot plaatsing van borden die de snelheid, het parkeren of geslotenverklaringen betreffen alsmede van bord G7 kan worden bepaald, dat de door deze borden aangeduide geboden of verboden gelden in een bepaald gebied.
 
-#### Artikel 14
+##### Artikel 14
 
 Indien onder de in deze paragraaf genoemde verkeersborden onderborden als bedoeld in [artikel 8, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&hoofdstuk=II&paragraaf=2&artikel=8&z=2026-01-01&g=2026-01-01), worden geplaatst, of toepassing wordt gegeven aan artikel 8, derde lid, wordt zulks in het betrokken verkeersbesluit tot uitdrukking gebracht.
 
-#### Artikel 15
+##### Artikel 15
 
 In het verkeersbesluit tot plaatsing van bord A1, voorzover dit aanduidt dat een maximumsnelheid van 30 km/h of 60 km/h geldt, bord B3, B4, B5 of B6 op een 30 km/h- of 60 km/h weg of in een 30 km/h- of 60 km/hzone, en bord G5 van [bijlage 1, behorende bij het RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1), wordt aangegeven op welke wijze wordt voldaan aan de krachtens [artikel 14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=14) gestelde voorschriften.
 
-#### Artikel 16
+##### Artikel 16
 
 Geen verkeersbesluit behoeft te worden genomen indien het betrokken verkeersteken wordt geplaatst of verwijderd ter nadere aanduiding dat een verkeersregel van toepassing is dan wel dat een ander verkeersteken dat een gebod of verbod inhoudt is geplaatst.
 
 #### § 5. Maatregelen ter regeling van het verkeer
 
-#### Artikel 18
+##### Artikel 18
 
 In het verkeersbesluit worden de aard en de omvang van de maatregelen aangegeven.
 
-#### Artikel 19
+##### Artikel 19
 
 Geen verkeersbesluit behoeft te worden genomen, indien de betrokken maatregel strekt tot ondersteuning van een verkeersregel of een aldaar geplaatst verkeersteken dat een gebod of verbod inhoudt.
 
 #### § 6. Verkeersbesluiten
 
-#### Artikel 21
+##### Artikel 21
 
 De motivering van het verkeersbesluit vermeldt in ieder geval welke doelstelling of doelstellingen met het verkeersbesluit worden beoogd. Daarbij wordt aangegeven welke van de in [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=2), van de wet genoemde belangen ten grondslag liggen aan het verkeersbesluit. Indien tevens andere van de in [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=2), van de wet genoemde belangen in het geding zijn, wordt voorts aangegeven op welke wijze de belangen tegen elkaar zijn afgewogen.
 
-#### Artikel 23
+##### Artikel 23
 
 Het openbaar lichaam dat het beheer heeft over de weg of, indien geen openbaar lichaam het beheer heeft, de eigenaar van de weg wordt met betrekking tot verkeersbesluiten gehoord.
 
-#### Artikel 24
+##### Artikel 24
 
 Verkeersbesluiten worden genomen na overleg met:
 
@@ -230,33 +254,33 @@ Verkeersbesluiten worden genomen na overleg met:
 
 - b. de commandant van de Koninklijke marechaussee, indien de taak ten aanzien van het verkeer mede wordt vervuld op een luchtvaartterrein als bedoeld in [artikel 4, eerste lid, onder c, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=4).
 
-#### Artikel 25
+##### Artikel 25
 
 1. Verkeersbesluiten als gevolg waarvan het verkeer op wegen anders dan die waarop het verkeersbesluit betrekking heeft rechtstreeks en ingrijpend wordt beïnvloed, worden genomen na overleg met het ten aanzien van die andere wegen bevoegd gezag.
 
 2. Verkeersbesluiten worden genomen na overleg met de betrokken spoorwegbeheerder, indien het besluit maatregelen betreft nabij een overweg als bedoeld in [artikel 1, onderdeel aab, van het RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=1) , waardoor het verkeer over die overweg wordt beïnvloed.
 
-#### Artikel 26
+##### Artikel 26
 
 De bekendmaking van verkeersbesluiten geschiedt op de in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5) onderscheidenlijk [6 van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=6) bepaalde wijze.
 
-#### Artikel 27
+##### Artikel 27
 
 Verkeersbesluiten als bedoeld in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=15), van de wet treden in werking met ingang van de dag, nadat een termijn van zes weken na de dag waarop het besluit is bekend gemaakt, is verstreken.
 
 #### § 7. Plaatsing, verwijdering, kosten
 
-#### Artikel 29
+##### Artikel 29
 
 De kosten, voortvloeiende uit de plaatsing van bord E6 van [bijlage I, behorende bij het RVV 1990](onbekend), kunnen worden verhaald op degene of degenen ten behoeve van wie het bord is geplaatst.
 
-#### Artikel 33
+##### Artikel 33
 
 Indien in, op, boven of langs een weg activiteiten worden ondernomen welke niet behoren tot het normale verkeersgebruik van die weg en het bevoegd gezag het noodzakelijk acht verkeerstekens te plaatsen of te verwijderen in verband met die activiteiten, kan het bevoegd gezag de kosten die het voor de plaatsing, het onderhoud of de verwijdering heeft gemaakt ten laste brengen van degene die deze activiteiten uitvoert.
 
 #### § 7. Plaatsing, verwijdering, kosten
 
-#### Artikel 34
+##### Artikel 34
 
 Door het bevoegd gezag dan wel door het openbaar lichaam, dat het beheer heeft over een weg of, indien geen openbaar lichaam het beheer heeft, door de eigenaar van de weg kunnen in de hierna genoemde omstandigheden en voor de duur van die omstandigheden verkeerstekens als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&hoofdstuk=II&paragraaf=4&artikel=12&z=2026-01-01&g=2026-01-01), worden geplaatst alsmede maatregelen als bedoeld in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=15), van de wet, worden uitgevoerd:
 
@@ -264,31 +288,31 @@ Door het bevoegd gezag dan wel door het openbaar lichaam, dat het beheer heeft o
 
 - b. ingeval van een door het wegverkeer veroorzaakte ernstige aantasting van voorbijgaande aard van de in [het tweede lid, onder **a**, van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=2) van de wet genoemde belangen.
 
-#### Artikel 35
+##### Artikel 35
 
 De plaatsing van verkeerstekens en het uitvoeren van maatregelen, bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&hoofdstuk=II&paragraaf=8&artikel=34&z=2026-01-01&g=2026-01-01), kunnen geschieden zonder een daaraan ten grondslag liggend verkeersbesluit.
 
-#### Artikel 36
+##### Artikel 36
 
 Van het voornemen tot tijdelijke plaatsing van verkeerstekens en tot het tijdelijk uitvoeren van maatregelen of, indien hiertoe reeds is overgegaan, van dat feit wordt zo spoedig mogelijk kennis gegeven aan het bevoegd gezag dat de tijdelijke plaatsing of de tijdelijke maatregel ongedaan kan maken. De kennisgeving kan achterwege blijven voor zover dit gezag dit heeft bepaald.
 
-#### Artikel 37
+##### Artikel 37
 
 In afwijking van [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&hoofdstuk=II&paragraaf=8&artikel=35&z=2026-01-01&g=2026-01-01) geschieden de tijdelijke plaatsing en de tijdelijke maatregel krachtens een verkeersbesluit indien de omstandigheden die tot de tijdelijke plaatsing of tot de tijdelijke maatregel leiden van langere duur zijn dan vier maanden dan wel zich regelmatig voordoen.
 
-#### Artikel 38
+##### Artikel 38
 
 De met verkeersregeling belaste ambtenaren van politie die zijn aangesteld voor de uitvoering van de politietaak, en de buitengewone opsporingsambtenaren van de Inspectie Verkeer en Waterstaat, kunnen ten behoeve van verkeerscontroles en, indien in onvoorziene omstandigheden de afwikkeling van het verkeer zulks noodzakelijk maakt, voor ten hoogste drie uren verkeerstekens plaatsen en maatregelen uitvoeren zonder dat kennisgeving aan het bevoegd gezag behoeft te geschieden. Geschiedt de plaatsing of maatregel voor langere tijd, dan is [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&hoofdstuk=II&paragraaf=8&artikel=36&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing.
 
-#### Artikel 39
+##### Artikel 39
 
 Indien de toestand van een waterkerende dijk waarop een weg is gelegen zulks vordert, heeft de onderhoudsplichtige van de dijk de bevoegdheid tot het tijdelijk plaatsen van verkeerstekens die een gebod of verbod inhouden alsmede tot het tijdelijk uitvoeren van maatregelen.
 
-#### Artikel 40
+##### Artikel 40
 
 Door of namens de onderhoudsplichtige van de dijk wordt onverwijld aan Onze commissaris in de provincie en aan het openbaar lichaam, dat het beheer heeft over de weg of, indien geen openbaar lichaam het beheer heeft, aan de eigenaar van de weg kennis gegeven van het voornemen tot tijdelijke plaatsing en tot het tijdelijk uitvoeren van maatregelen bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&hoofdstuk=II&paragraaf=8&artikel=39&z=2026-01-01&g=2026-01-01) of, indien hiertoe reeds is overgegaan, van dat feit. Onze commissaris in de provincie kan de tijdelijke plaatsing of de tijdelijke maatregel ongedaan maken.
 
-#### Artikel 41
+##### Artikel 41
 
 Tot het ongedaan maken van de tijdelijke plaatsing van verkeerstekens of het tijdelijk uitvoeren van maatregelen als bedoeld in de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&hoofdstuk=II&paragraaf=8&artikel=36&z=2026-01-01&g=2026-01-01) en [40](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&hoofdstuk=II&paragraaf=8&artikel=40&z=2026-01-01&g=2026-01-01) kan worden overgegaan indien:
 
@@ -300,13 +324,13 @@ Tot het ongedaan maken van de tijdelijke plaatsing van verkeerstekens of het tij
 
 ### Hoofdstuk IIA. Bewegwijzering
 
-#### Artikel 48
+##### Artikel 48
 
 Bij de vaststelling van de grenzen van de bebouwde kom of kommen als bedoeld in [artikel 20a](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=20a) van de wet, zijn de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&hoofdstuk=II&paragraaf=6&artikel=23&z=2026-01-01&g=2026-01-01) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&hoofdstuk=II&paragraaf=6&artikel=24&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing.
 
 ### Hoofdstuk IIA. Bewegwijzering
 
-#### Artikel 49
+##### Artikel 49
 
 1. Aan een gehandicapte kan, overeenkomstig de bij ministeriële regeling gestelde criteria, door het college van burgemeester en wethouders van de gemeente waar hij als ingezetene met een adres is ingeschreven in de basisregistratie personen, een gehandicaptenparkeerkaart worden verstrekt.
 
@@ -314,11 +338,11 @@ Bij de vaststelling van de grenzen van de bebouwde kom of kommen als bedoeld in 
 
 3. Aan een gehandicapte die niet als ingezetene is ingeschreven in de basisregistratie personen kan, overeenkomstig de bij ministeriële regeling gestelde criteria, door het CBR een gehandicaptenparkeerkaart worden verstrekt.
 
-#### Artikel 50
+##### Artikel 50
 
 De houder van een gehandicaptenparkeerkaart laat van de kaart geen gebruik maken indien het parkeren niet rechtstreeks verband houdt met het vervoer van hemzelf, dan wel van het vervoer van gehandicapten die verblijven in de instelling waaraan de kaart is verstrekt.
 
-#### Artikel 51
+##### Artikel 51
 
 1. Behoudens het tweede en het derde lid is een gehandicaptenparkeerkaart geldig voor de duur van vijf achtereenvolgende jaren, gerekend vanaf de dag van afgifte.
 
@@ -326,7 +350,7 @@ De houder van een gehandicaptenparkeerkaart laat van de kaart geen gebruik maken
 
 3. Indien een gehandicaptenparkeerkaart wordt afgegeven aan een aanvrager die tijdelijk in Nederland verblijft, beperkt het gezag dat bevoegd is tot de afgifte van gehandicaptenparkeerkaarten, de geldigheidsduur van de kaart tot de termijn van verblijf van de aanvrager in Nederland.
 
-#### Artikel 52
+##### Artikel 52
 
 1. Het tot de afgifte van gehandicaptenparkeerkaarten bevoegde gezag geeft voor gehandicaptenparkeerkaarten die versleten of geheel of ten dele onleesbaar zijn, dan wel verloren zijn geraakt of teniet zijn gegaan, een duplicaat af.
 
@@ -334,7 +358,7 @@ De houder van een gehandicaptenparkeerkaart laat van de kaart geen gebruik maken
 
 3. Indien de gehandicaptenparkeerkaart verloren is geraakt of teniet is gegaan, wordt een duplicaat slechts uitgereikt tegen overlegging van een door de aanvrager ondertekende verklaring, dat de kaart verloren is geraakt of teniet is gegaan. In de verklaring dienen de omstandigheden waaronder de kaart verloren geraakt of teniet gegaan is, te worden omschreven.
 
-#### Artikel 53
+##### Artikel 53
 
 1. Een gehandicaptenparkeerkaart verliest zijn geldigheid:
 
@@ -352,11 +376,11 @@ De houder van een gehandicaptenparkeerkaart laat van de kaart geen gebruik maken
 
 3. Het gezag dat de gehandicaptenparkeerkaart heeft afgegeven, kan de kaart ongeldig verklaren indien de houder van de kaart gebruik laat maken in strijd met [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&hoofdstuk=IV&artikel=50&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 54
+##### Artikel 54
 
 Indien een gehandicaptenparkeerkaart zijn geldigheid heeft verloren, levert de gehandicapte aan wie de kaart is verstrekt of, indien deze is overleden, degene die de kaart onder zich heeft, de kaart zo spoedig mogelijk in bij het gezag dat de kaart heeft verstrekt.
 
-#### Artikel 55
+##### Artikel 55
 
 1. Bij ministeriële regeling worden voorschriften vastgesteld omtrent:
 
@@ -370,7 +394,7 @@ Indien een gehandicaptenparkeerkaart zijn geldigheid heeft verloren, levert de g
 
 ### Hoofdstuk III. Vaststelling bebouwde kom
 
-#### Artikel 56
+##### Artikel 56
 
 1. Verkeersregelaars worden aangesteld door:
 
@@ -392,11 +416,11 @@ Indien een gehandicaptenparkeerkaart zijn geldigheid heeft verloren, levert de g
 
 4. Verkeersbrigadiers als bedoeld in [artikel 82, derde lid, van het RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=82), worden aangesteld door de burgemeester.
 
-#### Artikel 57
+##### Artikel 57
 
 Op verkeersregelaars, personen als bedoeld in [artikel 82, eerste lid, onderdeel d, van het RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=82) en op verkeersbrigadiers wordt toezicht gehouden door de politie.
 
-#### Artikel 58
+##### Artikel 58
 
 Bij ministeriële regeling worden voorschriften vastgesteld omtrent:
 
@@ -420,7 +444,7 @@ Bij ministeriële regeling worden voorschriften vastgesteld omtrent:
 
 ### Hoofdstuk VI. Strafbepaling
 
-#### Artikel 59
+##### Artikel 59
 
 Overtreding van de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&hoofdstuk=I&artikel=1a&z=2026-01-01&g=2026-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&hoofdstuk=I&artikel=2&z=2026-01-01&g=2026-01-01), [54](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&hoofdstuk=IV&artikel=54&z=2026-01-01&g=2026-01-01), [58a, eerste lid en derde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&hoofdstuk=V&artikel=58a&z=2026-01-01&g=2026-01-01), en [58b](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&hoofdstuk=V&artikel=58b&z=2026-01-01&g=2026-01-01) is een strafbaar feit.
 
@@ -428,19 +452,19 @@ Overtreding van de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR000482
 
 ### Hoofdstuk VII. Bepalingen inzake experimenten
 
-#### Artikel 65
+##### Artikel 65
 
 De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden gesteld.
 
 ### Hoofdstuk V. Verkeersregelaars en verkeersbrigadiers
 
-#### Artikel 66
+##### Artikel 66
 
 Dit besluit kan worden aangehaald als "Besluit administratieve bepalingen inzake het wegverkeer" of als "BABW".
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 60
+##### Artikel 60
 
 1. Onze Minister kan voor een wegvak in beheer bij het Rijk in het kader van een experiment een tijdelijk verkeersbesluit nemen voor toepassing van een variabele maximumsnelheid voor de duur van ten hoogste twee jaar.
 
@@ -456,7 +480,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 bij toepassing van een variabele maximumsnelheid of bij het aanpassen van de maximumsnelheid aan de omstandigheden, bedoeld in [artikel 60c](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&hoofdstuk=VII&artikel=60c&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 60a
+##### Artikel 60a
 
 1. Het experimentverkeersbesluit bevat in elk geval:
 
@@ -470,7 +494,7 @@ bij toepassing van een variabele maximumsnelheid of bij het aanpassen van de max
 
 2. Voor een wegvak kan slechts eenmaal een experimentverkeersbesluit worden genomen.
 
-#### Artikel 60b
+##### Artikel 60b
 
 1. Onze Minister kan bij het nemen, wijzigen of intrekken van een experimentverkeersbesluit afwijken van:
 
@@ -480,7 +504,7 @@ bij toepassing van een variabele maximumsnelheid of bij het aanpassen van de max
 
 2. [Artikel 20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=20) is bij het nemen van een experimentverkeersbesluit niet van toepassing.
 
-#### Artikel 60c
+##### Artikel 60c
 
 1. Onze Minister kan tijdens de duur van het experiment de maximumsnelheid voor een wegvak of één of meer rijstroken binnen dat wegvak op verschillende tijdstippen van de dag aanpassen aan de omstandigheden.
 
@@ -496,17 +520,17 @@ bij toepassing van een variabele maximumsnelheid of bij het aanpassen van de max
 
 3. Bij ministeriële regeling kunnen nadere regels worden gesteld over de toepassing van het eerste en tweede lid.
 
-#### Artikel 60d
+##### Artikel 60d
 
 Onze Minister kan met het oog op het experiment de borden, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&hoofdstuk=II&paragraaf=4&artikel=12&z=2026-01-01&g=2026-01-01), plaatsen of verwijderen tijdens de duur van het experiment.
 
-#### Artikel 60e
+##### Artikel 60e
 
 1. Het experimentverkeersbesluit vervalt na afloop van de duur, bedoeld in [artikel 60a, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&hoofdstuk=VII&artikel=60a&z=2026-01-01&g=2026-01-01).
 
 2. Het verkeersbesluit zoals dat luidde tot het tijdstip waarop het experimentverkeersbesluit van kracht werd, herleeft met ingang van de datum waarop het experimentverkeersbesluit vervalt of wordt ingetrokken, tenzij een verkeersbesluit als bedoeld in [artikel 15, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=15) met ingang van die datum in werking treedt.
 
-#### Artikel 60f
+##### Artikel 60f
 
 1. In bijzondere omstandigheden kan Onze Minister tijdens het experiment het experimentverkeersbesluit wijzigen of intrekken.
 
@@ -518,7 +542,7 @@ Onze Minister kan met het oog op het experiment de borden, bedoeld in [artikel 1
 
 met dien verstande dat de totale duur niet de termijn van twee jaar, genoemd in [artikel 60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&hoofdstuk=VII&artikel=60&z=2026-01-01&g=2026-01-01), overschrijdt.
 
-#### Artikel 60g
+##### Artikel 60g
 
 In afwijking van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&hoofdstuk=II&paragraaf=6&artikel=27&z=2026-01-01&g=2026-01-01) treedt een experimentverkeersbesluit of een besluit tot wijziging of tot intrekking van een experimentverkeersbesluit in werking met ingang van de dag, nadat een termijn van twee weken na de dag waarop het besluit is bekendgemaakt, is verstreken.
 
@@ -528,7 +552,7 @@ In afwijking van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&ho
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 58a
+##### Artikel 58a
 
 1. Transportbegeleiders maken tijdens de uitoefening van hun werkzaamheden gebruik van een begeleidingsvoertuig dat voldoet aan de in de ministeriële regeling, bedoeld in [artikel 58, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&hoofdstuk=V&artikel=58&z=2026-01-01&g=2026-01-01), opgenomen eisen.
 
@@ -550,7 +574,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 4a
+##### Artikel 4a
 
 Vervallen
 
@@ -582,13 +606,13 @@ Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 42
+##### Artikel 42
 
 1. Als verkeerstekens als bedoeld in [artikel 16, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=16) worden aangewezen de verkeerstekens die zijn opgenomen in [bijlage I, hoofdstuk K, van het Reglement verkeersregels en verkeerstekens 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1), met uitzondering van bord K14.
 
 2. In afwijking van het eerste lid worden onder de categorie bewegwijzering niet begrepen verkeerstekens die geplaatst of verwijderd worden in verband met omstandigheden die niet van langere duur zijn dan vier maanden.
 
-#### Artikel 43
+##### Artikel 43
 
 1. Een ontheffingverlening met toepassing van [artikel 149c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149c) voor plaatsing of verwijdering van de verkeerstekens als bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&hoofdstuk=IIA&artikel=42&z=2026-01-01&g=2026-01-01) kan zowel ambtshalve plaatsvinden als op verzoek van degene die bevoegd is tot het plaatsen van deze verkeerstekens.
 
@@ -616,7 +640,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 44
+##### Artikel 44
 
 1. Het bestuursorgaan dat tot een verkeersonderzoek of een spitsmijdenproject besluit is de verantwoordelijke voor de verwerking van de persoonsgegevens die gebruikt worden voor het verkeersonderzoek of het spitsmijdenproject.
 
@@ -634,7 +658,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 5. Gedurende de zomervakanties worden geen kentekengegevens geregistreerd ten behoeve van spitsmijdenprojecten.
 
-#### Artikel 45
+##### Artikel 45
 
 1. De verantwoordelijke draagt ervoor zorg dat kentekenhouders:
 
@@ -646,7 +670,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 3. Indien een in het eerste lid genoemde termijn, na verlenging met toepassing van het tweede lid, wordt overschreden, dan worden de desbetreffende persoonsgegevens, onverminderd de gevallen als bedoeld in [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&hoofdstuk=IIb&artikel=47&z=2026-01-01&g=2026-01-01), direct vernietigd.
 
-#### Artikel 46
+##### Artikel 46
 
 1. De verantwoordelijke verstrekt kentekengegevens die voortkomen uit een verkeersonderzoek of een spitsmijdenproject niet dan na een daartoe strekkend verzoek, behoudens in het geval genoemd onder a, aan:
 
@@ -662,7 +686,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 3. Bij het verstrekken van persoonsgegevens worden gegevens van andere personen geanonimiseerd.
 
-#### Artikel 47
+##### Artikel 47
 
 Kentekengegevens die zijn verkregen met behulp van een technisch hulpmiddel worden:
 
@@ -688,7 +712,7 @@ Kentekengegevens die zijn verkregen met behulp van een technisch hulpmiddel word
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 14a
+##### Artikel 14a
 
 Indien het onderbord, bedoeld in [artikel 8, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&hoofdstuk=II&paragraaf=2&artikel=8&z=2026-01-01&g=2026-01-01), wordt geplaatst, vermeldt het verkeersbesluit de bijzondere redenen daarvoor. Deze redenen hebben betrekking op het vanwege grote drukte op een fietspad of op plaatsen binnen het stelsel van de in het verkeersbesluit betrokken fietspaden:
 
@@ -716,7 +740,7 @@ Indien het onderbord, bedoeld in [artikel 8, tweede lid, onderdeel f](https://we
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 37a
+##### Artikel 37a
 
 Vervallen
 
@@ -726,7 +750,7 @@ Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 58b
+##### Artikel 58b
 
 Het is eenieder die niet is aangesteld als verkeersregelaar verboden zich op zodanige wijze te kleden dan wel te gedragen, dat daardoor bij weggebruikers de indruk kan worden gewekt, dat hij bevoegd is als zodanig op te treden.
 
@@ -734,7 +758,7 @@ Het is eenieder die niet is aangesteld als verkeersregelaar verboden zich op zod
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 21a
+##### Artikel 21a
 
 1. Op het nemen van een verkeersbesluit dat leidt tot een toename van het geluid door een weg in beheer bij een gemeente of waterschap met meer dan 1,5 dB, zijn de [artikelen 5.78a](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.78a), [5.78i](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.78i), [5.78m, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.78m), [5.78n](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.78n) en [5.78o van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.78o) van overeenkomstige toepassing, waarbij voor «een omgevingsplan dat een wijziging van een gemeenteweg, waterschapsweg of lokale spoorweg of een wijziging van het gebruik van een lokale spoorweg toelaat», «de wijziging van het omgevingsplan» en «een omgevingsplan dat de aanleg of wijziging van een gemeenteweg, waterschapsweg of lokale spoorweg toelaat of dat regels bevat over een wijziging van het gebruik van een lokale spoorweg» wordt gelezen: «het verkeersbesluit».
 

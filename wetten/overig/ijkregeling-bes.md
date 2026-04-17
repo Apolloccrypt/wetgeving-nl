@@ -1,13 +1,39 @@
 ---
-title: "IJkregeling BES"
+title: "Regeling van de Minister van Economische Zaken van 12 mei 2016, nr. WJZ/14115350, tot vaststelling van eisen voor meetinstrumenten op Bonaire, Sint Eustatius en Saba (IJkregeling BES)"
 identifier: "BWBR0037983"
-categorie: "Overig"
-publicatiedatum: 2017-01-01
-laatste_update: 2017-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037983"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2017-01-01"
+last_updated: "2017-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037983"
+soort: "ministeriele-regeling-BES"
+stam_id: "13557733"
+version_id: "23230232"
+internal_id: "C33539311"
+label_id: "13524714"
+dtd_version: "2.0"
+original_entry_into_force: "2017-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037983/2017-01-01/0"
+intitule_bron: "Stcrt.2016-26304"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-05-12"
+intitule_published: "2016-05-26"
+intitule_in_force: "2016-05-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-26304"
+original_signed_date: "2016-05-12"
+original_published_date: "2016-05-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-26304"
+entry_into_force_date: "2017-01-01"
+jci_1_3: "jci1.3:c:BWBR0037983&z=2017-01-01&g=2017-01-01"
+jci_1_0: "1.0:c:BWBR0037983&g=2017-01-01"
+citeertitel_status: "officieel"
+short_title: "IJkregeling BES"
+signed_date: "2016-05-12"
+entry_into_force: "2017-01-01"
 ---
-
 # Regeling van de Minister van Economische Zaken van 12 mei 2016, nr. WJZ/14115350, tot vaststelling van eisen voor meetinstrumenten op Bonaire, Sint Eustatius en Saba (IJkregeling BES)
 
 Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&artikel=3), [5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&artikel=5), [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&artikel=7), en [8, tweede lid, van de IJkwet BES 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&artikel=8);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -40,7 +66,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Algemene bepalingen
 
-#### Artikel 2
+##### Artikel 2
 
 Aan ijk en herijk onderworpen meetinstrumenten als bedoeld in [artikel 3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&artikel=3) zijn:
 
@@ -54,7 +80,7 @@ Aan ijk en herijk onderworpen meetinstrumenten als bedoeld in [artikel 3, eerste
 
 - e. watermeters.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een aangewezen meetinstrument, behoudens een niet-automatisch weegwerktuig, voldoet bij ingebruikname aan de in bijlage I van de richtlijn meetinstrumenten opgenomen essentiële eisen en aan de toepasselijke essentiële eisen in de hierna bij het meetinstrument vermelde instrumentspecifieke bijlage:
 
@@ -70,7 +96,7 @@ Aan ijk en herijk onderworpen meetinstrumenten als bedoeld in [artikel 3, eerste
 
 - ‘i). voor zover van toepassing, het nummer van het certificaat van goedkeuring;’ .
 
-#### Artikel 4
+##### Artikel 4
 
 Een aangewezen meetinstrument wordt vermoed overeen te stemmen met de hieraan krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037983&paragraaf=2&artikel=3&z=2017-01-01&g=2017-01-01) gestelde eisen indien:
 
@@ -78,13 +104,13 @@ Een aangewezen meetinstrument wordt vermoed overeen te stemmen met de hieraan kr
 
 - b. het meetinstrument is voorzien van de door dat land voorgeschreven metrologische markeringen.
 
-#### Artikel 5
+##### Artikel 5
 
 Indien ten aanzien van het gebruik een specifieke nauwkeurigheidsklasse voor een aangewezen meetinstrument is voorgeschreven, mag ook een meetinstrument worden gebruikt dat in een hogere nauwkeurigheidsklasse valt.
 
 #### § 3. Eisen na ingebruikname van aangewezen meetinstrumenten
 
-#### Artikel 6
+##### Artikel 6
 
 1. Aangewezen meetinstrumenten voldoen na ingebruikname aan de volgende voorschriften:
 
@@ -98,7 +124,7 @@ Indien ten aanzien van het gebruik een specifieke nauwkeurigheidsklasse voor een
 
 2. Een aangewezen meetinstrument voldoet, behoudens een niet-automatische weegwerktuig, na ingebruikname aan de in bijlage I van de richtlijn meetinstrumenten opgenomen essentiële eisen.
 
-#### Artikel 7
+##### Artikel 7
 
 Kilowattuurmeters voldoen na ingebruikname aan de toepasselijke essentiële eisen van bijlage V van de richtlijn meetinstrumenten, met dien verstande dat:
 
@@ -108,15 +134,15 @@ Kilowattuurmeters voldoen na ingebruikname aan de toepasselijke essentiële eise
 
 - c. voor metingen bij handelsgebruik of lichtindustrieel gebruik van elektriciteit de meter voldoet aan de eisen van klasse B.
 
-#### Artikel 8
+##### Artikel 8
 
 Een vloeistofmeter voldoet na ingebruikname aan de toepasselijke essentiële eisen van de bijlage VII (MI-005) van de richtlijn meetinstrumenten.
 
-#### Artikel 9
+##### Artikel 9
 
 Watermeters voldoen na ingebruikname aan de toepasselijke essentiële eisen van bijlage III van de richtlijn meetinstrumenten, met dien verstande dat de maximaal toelaatbare fouten in onderdeel 5 telkens met een factor 2 worden vermenigvuldigd.
 
-#### Artikel 10
+##### Artikel 10
 
 Een automatisch weeginstrument voldoet na ingebruikname aan de toepasselijke essentiële eisen van bijlage VIII MI-006 van de richtlijn meetinstrumenten, met dien verstande dat:
 
@@ -150,7 +176,7 @@ Een automatisch weeginstrument voldoet na ingebruikname aan de toepasselijke ess
 
 - d. voor continue totalisators van hoofdstuk V, onderdeel 3, tabel 8, opgenomen maximaal toelaatbare fout voor de totale last telkens met een factor 2 wordt vermenigvuldigd.
 
-#### Artikel 11
+##### Artikel 11
 
 Een automatisch weegwerktuig als genoemd in bijlage VIIII (MI-006) van de richtlijn meetinstrumenten, dat niet in een hogere nauwkeurigheidsklasse valt dan, wat betreft:
 
@@ -174,7 +200,7 @@ mag slechts worden gebruikt voor:
 
 - e. het wegen van onverwerkte land-, tuin-, bosbouwproducten, houtskool, levende dieren, huiden, vis en onverwerkte delfstoffen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Een niet-automatische weegwerktuig voldoet na ingebruikname aan de essentiële eisen van bijlage I en de artikelen 1.1, 1.3, 1.4 en 1.5 van bijlage III van de richtlijn niet-automatische weegwerktuigen, waarbij onderdeel i van artikel 1.1 van die bijlage wordt gelezen als:
 
@@ -182,7 +208,7 @@ mag slechts worden gebruikt voor:
 
 2. Een niet-automatisch weegwerktuig dat wordt gebruikt voor weging van edele metalen, parels, edelgesteenten of munten voldoet aan de eisen voor weegwerktuigen met een nauwkeurigheidsklasse I of II als bedoeld in onderdeel 2.1 van bijlage I van de richtlijn niet-automatische weegwerktuigen.
 
-#### Artikel 13
+##### Artikel 13
 
 Een niet-automatisch weegwerktuig met een nauwkeurigheidsklasse IIII, bedoeld in onderdeel 2.1 van bijlage I van de richtlijn niet-automatische weegwerktuigen, mag slechts worden gebruikt voor:
 
@@ -196,13 +222,13 @@ Een niet-automatisch weegwerktuig met een nauwkeurigheidsklasse IIII, bedoeld in
 
 - e. het wegen van onverwerkte land-, tuin-, bosbouwproducten, houtskool, levende dieren, huiden, vis en onverwerkte delfstoffen.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Het goedkeuringsmerk, bedoeld in [artikel 5, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&artikel=5), komt overeen met het model dat is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037983&bijlage=1&z=2017-01-01&g=2017-01-01) bij deze regeling.
 
 2. Het afkeuringsmerk, bedoeld in [artikel 5, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&artikel=5) komt overeen met het model dat is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037983&bijlage=2&z=2017-01-01&g=2017-01-01) bij deze regeling.
 
-#### Artikel 15
+##### Artikel 15
 
 Het verbod, bedoeld in [artikel 7, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&artikel=7) geldt niet indien:
 
@@ -222,11 +248,11 @@ Het verbod, bedoeld in [artikel 7, eerste lid, van de wet](https://wetten.overhe
 
 #### § 4. Slotbepalingen
 
-#### Artikel 16
+##### Artikel 16
 
 Deze regeling treedt in werking met ingang van 1 januari 2017.
 
-#### Artikel 17
+##### Artikel 17
 
 Deze regeling wordt aangehaald als: IJkregeling BES.
 

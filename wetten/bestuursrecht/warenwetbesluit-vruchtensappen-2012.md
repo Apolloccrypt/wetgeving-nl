@@ -1,13 +1,39 @@
 ---
-title: "Warenwetbesluit vruchtensappen 2012"
+title: "Besluit van 19 oktober 2012, houdende regels ter uitvoering van Richtlijn 2001/112/EG (Warenwetbesluit vruchtensappen 2012)"
 identifier: "BWBR0032162"
-categorie: "Bestuursrecht"
-publicatiedatum: 2016-02-19
-laatste_update: 2016-02-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032162"
+country: "nl"
+rank: "amvb"
+publication_date: "2016-02-19"
+last_updated: "2016-02-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032162"
+soort: "AMvB"
+stam_id: "11892213"
+version_id: "19748522"
+internal_id: "C27737411"
+label_id: "11864314"
+dtd_version: "2.0"
+original_entry_into_force: "2013-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032162/2016-02-19/0"
+intitule_bron: "Stb.2012-529"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-10-19"
+intitule_published: "2012-11-01"
+intitule_in_force: "2012-11-01"
+intitule_status: "goed"
+original_publication: "Stb.2012-529"
+original_signed_date: "2012-10-19"
+original_published_date: "2012-11-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2012-529"
+entry_into_force_date: "2013-01-01"
+jci_1_3: "jci1.3:c:BWBR0032162&z=2016-02-19&g=2016-02-19"
+jci_1_0: "1.0:c:BWBR0032162&g=2016-02-19"
+citeertitel_status: "officieel"
+short_title: "Warenwetbesluit vruchtensappen 2012"
+signed_date: "2012-10-19"
+entry_into_force: "2013-01-01"
 ---
-
 # Besluit van 19 oktober 2012, houdende regels ter uitvoering van Richtlijn 2001/112/EG (Warenwetbesluit vruchtensappen 2012)
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 30 augustus 2012, VGP 3128151, gedaan in overeenstemming met de Staatssecretaris van Economische Zaken, Landbouw en Innovatie;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -38,7 +64,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. **vruchtennectar:** hetgeen [Richtlijn 2001/112/EG](32001L0112) daaronder verstaat.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het is verboden vruchtensap, vruchtensap uit concentraat, geconcentreerd vruchtensap, door waterextractie verkregen vruchtensap, gedehydrateerd vruchtensap, vruchtensappoeder of vruchtennectar, te bereiden of te behandelen anders dan met inachtneming van de bij dit besluit gestelde voorschriften.
 
@@ -46,35 +72,35 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Het is verboden vruchtensap, vruchtensap uit concentraat, geconcentreerd vruchtensap, door waterextractie verkregen vruchtensap, gedehydrateerd vruchtensap, vruchtensappoeder of vruchtennectar, te verhandelen anders dan met inachtneming van bij dit besluit gestelde voorschriften met betrekking tot het bezigen van vermeldingen inzake de aard, samenstelling, hoedanigheid of eigenschappen van de waar.
 
-#### Artikel 3
+##### Artikel 3
 
 Het bereiden en behandelen van vruchtensap, vruchtensap uit concentraat, geconcentreerd vruchtensap, door waterextractie verkregen vruchtensap, gedehydrateerd vruchtensap, vruchtensappoeder of vruchtennectar, geschiedt met inachtneming van de bij [Richtlijn 2001/112/EG](32001L0112) gestelde voorschriften.
 
-#### Artikel 4
+##### Artikel 4
 
 Het verhandelen van vruchtensap, vruchtensap uit concentraat, geconcentreerd vruchtensap, door waterextractie verkregen vruchtensap, gedehydrateerd vruchtensap, vruchtensappoeder of vruchtennectar, geschiedt met inachtneming van de bij [Richtlijn 2001/112/EG](32001L0112) gestelde voorschriften inzake hun aanduiding.
 
-#### Artikel 5
+##### Artikel 5
 
 Het verhandelen van vruchtensap, vruchtensap uit concentraat, geconcentreerd vruchtensap, door waterextractie verkregen vruchtensap, gedehydrateerd vruchtensap, vruchtensappoeder of vruchtennectar, geschiedt met inachtneming van de bij [Richtlijn 2001/112/EG](32001L0112) gestelde voorschriften inzake het bezigen van vermeldingen.
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Het [Warenwetbesluit Vruchtensappen](https://wetten.overheid.nl/jci1.3:c:BWBR0013973) wordt ingetrokken.
 
-#### Artikel 8
+##### Artikel 8
 
 Wijzigt het Warenwetbesluit bestuurlijke boeten.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit treedt in werking met ingang van 1 januari 2013.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit wordt aangehaald als: Warenwetbesluit vruchtensappen 2012.
 

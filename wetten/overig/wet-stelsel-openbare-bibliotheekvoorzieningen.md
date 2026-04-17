@@ -1,14 +1,41 @@
 ---
-title: "Wet stelsel openbare bibliotheekvoorzieningen"
+title: "Wet van 19 november 2014 tot vaststelling van een geactualiseerd stelsel van openbare bibliotheekvoorzieningen (Wet stelsel openbare bibliotheekvoorzieningen)"
 identifier: "BWBR0035878"
-categorie: "Overig"
-publicatiedatum: 2022-07-01
-laatste_update: 2022-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035878"
+country: "nl"
+rank: "wet"
+publication_date: "2022-07-01"
+last_updated: "2022-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035878"
+soort: "wet"
+stam_id: "12870743"
+version_id: "21870872"
+internal_id: "C31391421"
+label_id: "12840524"
+dtd_version: "2.0"
+original_entry_into_force: "2015-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035878/2022-07-01/0"
+intitule_bron: "Stb.2014-470"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-11-19"
+intitule_published: "2014-12-05"
+intitule_in_force: "2014-12-05"
+intitule_status: "goed"
+original_publication: "Stb.2014-470"
+original_signed_date: "2014-11-19"
+original_published_date: "2014-12-05"
+original_effect: "nieuwe-regeling"
+original_dossier: "33846"
+original_url_id: "stb-2014-470"
+entry_into_force_date: "2015-01-01"
+jci_1_3: "jci1.3:c:BWBR0035878&z=2022-07-01&g=2022-07-01"
+jci_1_0: "1.0:c:BWBR0035878&g=2022-07-01"
+citeertitel_status: "officieel"
+short_title: "Wet stelsel openbare bibliotheekvoorzieningen"
+signed_date: "2014-11-19"
+entry_into_force: "2015-01-01"
 ---
-
-# Wet stelsel openbare bibliotheekvoorzieningen
+# Wet van 19 november 2014 tot vaststelling van een geactualiseerd stelsel van openbare bibliotheekvoorzieningen (Wet stelsel openbare bibliotheekvoorzieningen)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -38,19 +65,19 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 2. Voor zover in deze wet over een lid van een openbare bibliotheekvoorziening wordt gesproken, wordt hieronder verstaan een voor die bibliotheekvoorziening geregistreerde gebruiker.
 
-#### Artikel 2. Reikwijdte
+##### Artikel 2. Reikwijdte
 
 Deze wet heeft betrekking op lokale bibliotheken, provinciale ondersteuningsinstellingen en de Koninklijke Bibliotheek, voor haar taken op grond van deze wet. Zij zijn in het kader van deze wet openbare bibliotheekvoorzieningen.
 
-#### Artikel 3. Toepasselijkheid op de BES
+##### Artikel 3. Toepasselijkheid op de BES
 
 Deze wet is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba, met uitzondering van de [artikelen 8, onderdelen a, b, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0035878&hoofdstuk=2&artikel=8&z=2022-07-01&g=2022-07-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0035878&hoofdstuk=2&artikel=10&z=2022-07-01&g=2022-07-01), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035878&hoofdstuk=2&artikel=11&z=2022-07-01&g=2022-07-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0035878&hoofdstuk=3&artikel=15&z=2022-07-01&g=2022-07-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0035878&hoofdstuk=3&artikel=16&z=2022-07-01&g=2022-07-01).
 
-#### Artikel 4. Publieke waarden
+##### Artikel 4. Publieke waarden
 
 Een openbare bibliotheekvoorziening heeft een publieke taak die zij voor het algemene publiek vervult op basis van de waarden onafhankelijkheid, betrouwbaarheid, toegankelijkheid, pluriformiteit en authenticiteit.
 
-#### Artikel 5. Bibliotheekfuncties
+##### Artikel 5. Bibliotheekfuncties
 
 Een voor een ieder toegankelijke openbare bibliotheekvoorziening omvat in ieder geval de volgende functies, die bijdragen aan de persoonlijke ontwikkeling en verbetering van de maatschappelijke kansen van het algemene publiek:
 
@@ -64,7 +91,7 @@ Een voor een ieder toegankelijke openbare bibliotheekvoorziening omvat in ieder 
 
 - e. laten kennis maken met kunst en cultuur.
 
-#### Artikel 6. Netwerkverantwoordelijkheid
+##### Artikel 6. Netwerkverantwoordelijkheid
 
 1. Onze Minister, de provinciebesturen, de gemeentebesturen en de besturen van de openbare lichamen Bonaire, Sint Eustatius en Saba zijn gezamenlijk verantwoordelijk voor een netwerk van openbare bibliotheekvoorzieningen.
 
@@ -80,11 +107,11 @@ Een voor een ieder toegankelijke openbare bibliotheekvoorziening omvat in ieder 
 
 ### Hoofdstuk 2. Het bibliotheeknetwerk
 
-#### Artikel 7. Netwerk en deelnemers
+##### Artikel 7. Netwerk en deelnemers
 
 De lokale bibliotheken, de provinciale ondersteuningsinstellingen en de Koninklijke Bibliotheek, voor wat betreft haar taak tot het in stand houden van de landelijke digitale bibliotheek, vormen één netwerk van openbare bibliotheekvoorzieningen als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035878&hoofdstuk=1&artikel=6&z=2022-07-01&g=2022-07-01).
 
-#### Artikel 8. Functioneren van het netwerk
+##### Artikel 8. Functioneren van het netwerk
 
 Een deelnemer aan het netwerk als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035878&hoofdstuk=2&artikel=7&z=2022-07-01&g=2022-07-01):
 
@@ -100,7 +127,7 @@ Een deelnemer aan het netwerk als bedoeld in [artikel 7](https://wetten.overheid
 
 - f. ondersteunt het onderwijs.
 
-#### Artikel 9. Taken Koninklijke Bibliotheek
+##### Artikel 9. Taken Koninklijke Bibliotheek
 
 De Koninklijke Bibliotheek verricht in aanvulling op de taken, bedoeld in [artikel 1.5, tweede lid, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.5), de volgende taken:
 
@@ -116,7 +143,7 @@ De Koninklijke Bibliotheek verricht in aanvulling op de taken, bedoeld in [artik
 
 - c. verzorgen van een bibliotheekvoorziening van noodzakelijk omgezette werken voor personen met een handicap.
 
-#### Artikel 10. Collectieplan
+##### Artikel 10. Collectieplan
 
 1. De Koninklijke Bibliotheek stelt elke vier jaar voor de deelnemers aan het netwerk, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035878&hoofdstuk=2&artikel=7&z=2022-07-01&g=2022-07-01), een gezamenlijk collectieplan vast.
 
@@ -124,7 +151,7 @@ De Koninklijke Bibliotheek verricht in aanvulling op de taken, bedoeld in [artik
 
 3. De Koninklijke Bibliotheek stelt het gezamenlijk collectieplan vast in overeenstemming met vertegenwoordigers van de lokale bibliotheken en provinciale ondersteuningsinstellingen.
 
-#### Artikel 11. Gegevenslevering
+##### Artikel 11. Gegevenslevering
 
 1. Ten behoeve van de gezamenlijke catalogus voor de landelijke digitale bibliotheek verstrekken lokale bibliotheken en provinciale ondersteuningsinstellingen gegevens over de collectie en de beschikbaarheid daarvan aan de Koninklijke Bibliotheek.
 
@@ -134,7 +161,7 @@ De Koninklijke Bibliotheek verricht in aanvulling op de taken, bedoeld in [artik
 
 4. Onze Minister stelt de aard van de gegevens, bedoeld in het tweede lid, nader vast en stelt regels over het tijdstip en de wijze waarop de gegevens worden verstrekt.
 
-#### Artikel 12. Lidmaatschap
+##### Artikel 12. Lidmaatschap
 
 1. Een ieder die als ingezetene is ingeschreven in de basisregistratie personen, bedoeld in [artikel 1.2 van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.2), of in een basisadministratie als bedoeld in [artikel 2 van de Wet basisadministraties persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=2) kan lid worden van de openbare bibliotheek.
 
@@ -144,19 +171,19 @@ De Koninklijke Bibliotheek verricht in aanvulling op de taken, bedoeld in [artik
 
 4. Onze Minister of het college van burgemeester en wethouders of bestuurscollege kan bepalen dat ook andere groepen natuurlijke personen lid van de landelijke digitale bibliotheek onderscheidenlijk een lokale bibliotheek kunnen worden.
 
-#### Artikel 13. Contributievrijstelling jeugd lokale bibliotheken
+##### Artikel 13. Contributievrijstelling jeugd lokale bibliotheken
 
 1. Voor het uitlenen van gedrukte werken of overige werken door lokale bibliotheken aan personen beneden de leeftijd van achttien jaar wordt geen contributie of andere geldelijke bijdrage geheven.
 
 2. Voor personen beneden de leeftijd van achttien jaar wordt geen tarief als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0035878&hoofdstuk=2&artikel=14&z=2022-07-01&g=2022-07-01), contributie of geldelijke bijdrage vastgesteld voor de toegang tot door de Koninklijke Bibliotheek aangewezen digitale werken.
 
-#### Artikel 14. Tarieven landelijke digitale bibliotheek
+##### Artikel 14. Tarieven landelijke digitale bibliotheek
 
 De Koninklijke Bibliotheek kan na overleg met vertegenwoordigers van de lokale bibliotheken tarieven vaststellen voor de toegang tot digitale werken of het gebruik van digitale diensten of bronnen.
 
 ### Hoofdstuk 3. De fysieke openbare bibliotheek
 
-#### Artikel 15. Interbibliothecair leenverkeer
+##### Artikel 15. Interbibliothecair leenverkeer
 
 1. Alle lokale bibliotheken en provinciale ondersteuningsinstellingen nemen deel aan het interbibliothecaire leenverkeer.
 
@@ -168,7 +195,7 @@ De Koninklijke Bibliotheek kan na overleg met vertegenwoordigers van de lokale b
 
 - c. distributie van fysieke werken door provinciale ondersteuningsinstellingen.
 
-#### Artikel 16. Provinciale ondersteuningstaken
+##### Artikel 16. Provinciale ondersteuningstaken
 
 1. Een provinciale ondersteuningsinstelling is verantwoordelijk voor de distributie van fysieke werken door middel van het interbibliothecaire leenverkeer binnen de provincie of provincies waardoor zij wordt gesubsidieerd of in stand gehouden.
 
@@ -180,7 +207,7 @@ De Koninklijke Bibliotheek kan na overleg met vertegenwoordigers van de lokale b
 
 ### Hoofdstuk 4. De landelijke digitale bibliotheek
 
-#### Artikel 17. Uitvoering en beheerplan
+##### Artikel 17. Uitvoering en beheerplan
 
 1. Het in stand houden van de landelijke digitale bibliotheek door de Koninklijke Bibliotheek houdt in ieder geval in:
 
@@ -196,7 +223,7 @@ De Koninklijke Bibliotheek kan na overleg met vertegenwoordigers van de lokale b
 
 2. De Koninklijke Bibliotheek gaat in een apart onderdeel van het instellingsplan, bedoeld in [artikel 2.2a van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=2.2a), in op de wijze waarop zij de landelijke digitale bibliotheek in stand houdt. Zij gaat daarbij specifiek in op de onderdelen, bedoeld in het eerste lid. Dit onderdeel van het instellingsplan heet beheerplan.
 
-#### Artikel 18. Inkoop digitale werken
+##### Artikel 18. Inkoop digitale werken
 
 1. De Koninklijke Bibliotheek verricht namens de Staat der Nederlanden het inkopen van werken voor de landelijke digitale bibliotheek.
 
@@ -206,7 +233,7 @@ De Koninklijke Bibliotheek kan na overleg met vertegenwoordigers van de lokale b
 
 ### Hoofdstuk 5. Financiële en administratieve bepalingen
 
-#### Artikel 19. Bekostiging en overige voorschriften Koninklijke Bibliotheek
+##### Artikel 19. Bekostiging en overige voorschriften Koninklijke Bibliotheek
 
 1. De Koninklijke Bibliotheek ontvangt voor de vervulling van haar taken, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0035878&hoofdstuk=2&artikel=9&z=2022-07-01&g=2022-07-01), een aanvulling op haar rijksbijdrage, bedoeld in [artikel 2.6a van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=2.6a).
 
@@ -222,7 +249,7 @@ De Koninklijke Bibliotheek kan na overleg met vertegenwoordigers van de lokale b
 
 4. De [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=4), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=14) en [15 van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=15), zijn voor zover zij betrekking hebben op de Koninklijke Bibliotheek, van overeenkomstige toepassing op haar taakvervulling op grond van deze wet.
 
-#### Artikel 20. Subsidieverstrekking Koninklijke Bibliotheek
+##### Artikel 20. Subsidieverstrekking Koninklijke Bibliotheek
 
 1. Ten behoeve van de taken, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0035878&hoofdstuk=2&artikel=9&z=2022-07-01&g=2022-07-01), kan de Koninklijke Bibliotheek subsidie verstrekken.
 
@@ -234,19 +261,19 @@ De Koninklijke Bibliotheek kan na overleg met vertegenwoordigers van de lokale b
 
 5. Het niet tijdig bekendmaken van een besluit omtrent goedkeuring of een besluit tot verdaging van de beslissing omtrent goedkeuring heeft niet tot gevolg dat een besluit tot goedkeuring geacht wordt te zijn genomen.
 
-#### Artikel 21. Subsidieverstrekking Minister
+##### Artikel 21. Subsidieverstrekking Minister
 
 1. Onze Minister kan ten behoeve van het netwerk van openbare bibliotheekvoorzieningen in bijzondere gevallen subsidie verstrekken.
 
 2. Bij ministeriële regeling kunnen nadere regels worden gesteld voor het verstrekken van subsidie.
 
-#### Artikel 22. Intellectuele eigendomsrechten
+##### Artikel 22. Intellectuele eigendomsrechten
 
 1. Bij het uitvoeren van de taken, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0035878&hoofdstuk=2&artikel=9&z=2022-07-01&g=2022-07-01), streeft de Koninklijke Bibliotheek er naar de eigendom of een overdraagbaar gebruiksrecht te verkrijgen van bij die uitvoering gevestigde intellectuele eigendomsrechten.
 
 2. Op verzoek van Onze Minister werkt de Koninklijke Bibliotheek mee aan het tot stand komen van een overeenkomst tot het overdragen aan de Staat der Nederlanden van de rechten, bedoeld in het eerste lid. Voor zover wettelijk mogelijk, doet zij afstand van persoonlijkheidsrechten als bedoeld in de Auteurswet die haar of haar personeel toebehoren.
 
-#### Artikel 23. Toezicht ministeriële subsidies
+##### Artikel 23. Toezicht ministeriële subsidies
 
 1. Met het toezicht op de naleving van de verplichtingen die van toepassing zijn op een subsidieontvanger bij verstrekking van subsidie als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0035878&hoofdstuk=5&artikel=21&z=2022-07-01&g=2022-07-01), zijn belast de bij besluit van Onze Minister aangewezen personen.
 
@@ -258,37 +285,37 @@ De Koninklijke Bibliotheek kan na overleg met vertegenwoordigers van de lokale b
 
 ### Hoofdstuk 6. Wijziging andere wetten
 
-#### Artikel 24. [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682)
+##### Artikel 24. [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682)
 
 Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
 
-#### Artikel 25. [Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904)
+##### Artikel 25. [Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904)
 
 Wijzigt de Wet op het specifiek cultuurbeleid.
 
-#### Artikel 26. [Wet op de vaste boekenprijs](https://wetten.overheid.nl/jci1.3:c:BWBR0017452)
+##### Artikel 26. [Wet op de vaste boekenprijs](https://wetten.overheid.nl/jci1.3:c:BWBR0017452)
 
 Wijzigt de Wet op de vaste boekenprijs.
 
-#### Artikel 27. [Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886)
+##### Artikel 27. [Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886)
 
 Wijzigt de Auteurswet.
 
-#### Artikel 28. [Wet op de naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0005921)
+##### Artikel 28. [Wet op de naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0005921)
 
 Wijzigt de Wet op de naburige rechten.
 
 ### Hoofdstuk 7. Slotbepalingen
 
-#### Artikel 29. Evaluatie
+##### Artikel 29. Evaluatie
 
 Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-#### Artikel 30. Inwerkingtreding
+##### Artikel 30. Inwerkingtreding
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 31. Citeertitel
+##### Artikel 31. Citeertitel
 
 Deze wet wordt aangehaald als: Wet stelsel openbare bibliotheekvoorzieningen.
 

@@ -1,13 +1,36 @@
 ---
-title: "Beleidsregel toetsing vergunningen beroepsgoederenvervoer over de weg aan de Wet Bibob"
+title: "Beleidsregel van de Nationale en Internationale Wegvervoer Organisatie (NIWO) inzake toepassing van regels van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur op de toetsing van vergunningen beroepsgoederenvervoer (Beleidsregel toetsing vergunningen beroepsgoederenvervoer aan de Wet Bibob)"
 identifier: "BWBR0049167"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049167"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049167"
+soort: "zbo"
+stam_id: "16984593"
+version_id: "29860662"
+internal_id: "C42809511"
+label_id: "16895004"
+dtd_version: "2.0"
+original_entry_into_force: "2024-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049167/2024-01-01/0"
+intitule_bron: "Stcrt.2023-34393"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2023-12-28"
+intitule_in_force: "2023-12-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-34393"
+original_published_date: "2023-12-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-34393"
+entry_into_force_date: "2024-01-01"
+jci_1_3: "jci1.3:c:BWBR0049167&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0049167&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel toetsing vergunningen beroepsgoederenvervoer over de weg aan de Wet Bibob"
+entry_into_force: "2024-01-01"
 ---
-
 # Beleidsregel van de Nationale en Internationale Wegvervoer Organisatie (NIWO) inzake toepassing van regels van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur op de toetsing van vergunningen beroepsgoederenvervoer (Beleidsregel toetsing vergunningen beroepsgoederenvervoer aan de Wet Bibob)
 
 Gelet op het bepaalde in de [Wet bevordering integriteitsbepalingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798), de [artikelen 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=3.2), [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=3.4), [4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=4.1) en [7.2 van de Wet wegvervoer goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=7.2) en [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
@@ -16,7 +39,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemeen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -38,11 +61,11 @@ In deze beleidsregel wordt verstaan onder:
 
 ### Hoofdstuk 2. Toepassingsbereik
 
-#### Artikel 2. Toepassingsbereik [Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798)
+##### Artikel 2. Toepassingsbereik [Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798)
 
 Tijdens de aanvraag- of verlengingsprocedure van de communautaire vergunning en gedurende de looptijd van de vergunning kan toepassing worden gegeven aan de [Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798).
 
-#### Artikel 3. Kenmerken betrokkene of omgeving
+##### Artikel 3. Kenmerken betrokkene of omgeving
 
 Onder meer de volgende kenmerken van de betrokkene of de omgeving waarbinnen hij zijn activiteiten verricht, kunnen leiden tot toepassing van de [Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798):
 
@@ -58,7 +81,7 @@ Onder meer de volgende kenmerken van de betrokkene of de omgeving waarbinnen hij
 
 - f. zakelijke contacten met van overheidswege geboycotte landen.
 
-#### Artikel 4. Gegevens uit gesloten of open bronnen
+##### Artikel 4. Gegevens uit gesloten of open bronnen
 
 Onder meer de volgende gegevens uit gesloten of open bronnen kunnen leiden tot toepassing van de [Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798):
 
@@ -102,7 +125,7 @@ Onder meer de volgende gegevens uit gesloten of open bronnen kunnen leiden tot t
 
 - t. ontvangen klachten van klanten, leveranciers, afnemers, werknemers en omwonenden van het bedrijf die duiden op een verband met strafbare feiten.
 
-#### Artikel 5. Gedragingen betrokkene
+##### Artikel 5. Gedragingen betrokkene
 
 Onder meer de volgende gedragingen van de betrokkene kunnen leiden tot toepassing van de [Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798):
 
@@ -116,7 +139,7 @@ Onder meer de volgende gedragingen van de betrokkene kunnen leiden tot toepassin
 
 ### Hoofdstuk 3. Uitvoering
 
-#### Artikel 6. Eigen onderzoek
+##### Artikel 6. Eigen onderzoek
 
 1. Voordat toepassing wordt gegeven aan de [Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798), zal de NIWO eerst beoordelen of een weigerings- dan wel een intrekkingsgrond vanuit de wet bestaat.
 
@@ -128,13 +151,13 @@ Onder meer de volgende gedragingen van de betrokkene kunnen leiden tot toepassin
 
 5. Indien blijkt dat de betrokkene opzettelijk onjuiste informatie heeft verschaft, kan de NIWO aangifte doen wegens valsheid in geschrifte.
 
-#### Artikel 7. Adviesaanvraag
+##### Artikel 7. Adviesaanvraag
 
 1. De NIWO kan een Bibob-advies aanvragen indien na eigen onderzoek vragen of onduidelijkheden blijven bestaan over een of meer feiten of omstandigheden als bedoeld in [artikel 3 van de Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3).
 
 2. De NIWO informeert de betrokkene schriftelijk over de aanvraag van het Bibob-advies bij het Landelijk Bureau Bibob.
 
-#### Artikel 8. Adviestermijn
+##### Artikel 8. Adviestermijn
 
 1. Indien de NIWO een Bibob-advies aanvraagt, wordt de wettelijke termijn waarbinnen de communautaire vergunning dient te worden gegeven, opgeschort voor de duur van een termijn van acht weken als bedoeld in [artikel 15, eerste lid, van de Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=15).
 
@@ -146,7 +169,7 @@ Onder meer de volgende gedragingen van de betrokkene kunnen leiden tot toepassin
 
 ### Hoofdstuk 4. Besluitvorming
 
-#### Artikel 9. Weigering of intrekking
+##### Artikel 9. Weigering of intrekking
 
 1. Indien uit eigen onderzoek en een eventueel daarop afgegeven Bibob-advies van het Landelijk Bureau Bibob blijkt dat er sprake is van ernstig gevaar als bedoeld in [artikel 3 van de Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3) kan de NIWO:
 
@@ -158,7 +181,7 @@ Onder meer de volgende gedragingen van de betrokkene kunnen leiden tot toepassin
 
 3. De NIWO heeft eenzelfde bevoegdheid als bedoeld in het eerste lid indien feiten en omstandigheden erop wijzen of redelijkerwijs doen vermoeden dat ter verkrijging of behoud van de aangevraagde dan wel afgegeven vergunning een strafbaar feit is gepleegd.
 
-#### Artikel 10. Verbinden van voorschriften
+##### Artikel 10. Verbinden van voorschriften
 
 1. Indien blijkt dat geen sprake is van ernstig gevaar, kan de NIWO bij mindere mate van gevaar aan de vergunning voorschriften verbinden.
 
@@ -166,11 +189,11 @@ Onder meer de volgende gedragingen van de betrokkene kunnen leiden tot toepassin
 
 3. Indien niet wordt voldaan aan de voorschriften als bedoeld in het eerste of het tweede lid, kan de NIWO de vergunning intrekken.
 
-#### Artikel 11. Vergewisplicht
+##### Artikel 11. Vergewisplicht
 
 De NIWO vergewist zich ervan dat het onderzoek van het Landelijk Bureau Bibob op zorgvuldige wijze heeft plaatsgevonden alvorens zij de aanvraag van een communautaire vergunning weigert, de vergunning intrekt dan wel aan de vergunning voorschriften verbindt.
 
-#### Artikel 12. Hoorplicht
+##### Artikel 12. Hoorplicht
 
 1. De NIWO stelt de betrokkene in de gelegenheid een zienswijze naar voren te brengen alvorens zij overgaat tot weigering van de aanvraag van een communautaire vergunning, de intrekking van de vergunning of aan de vergunning voorschriften verbindt.
 
@@ -178,26 +201,26 @@ De NIWO vergewist zich ervan dat het onderzoek van het Landelijk Bureau Bibob op
 
 3. De betrokkene wordt bij verstrekking van een afschrift van het Bibob-advies door de NIWO gewezen op de geheimhoudingsplicht als bedoeld in [artikel 28 van de Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=28).
 
-#### Artikel 13. Meldplicht
+##### Artikel 13. Meldplicht
 
 1. Indien de NIWO na het eigen onderzoek, zonder Bibob-advies concludeert tot een ernstig gevaar of mindere mate van gevaar als bedoeld in [artikel 3 van de Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3), meldt men dit onverwijld aan het Landelijk Bureau Bibob.
 
 2. Indien de NIWO redelijkerwijs vermoedt dat de betrokkene zich vanwege het toepassen van de [Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798) terugtrekt uit de procedure nadat een eigen onderzoek is gestart of nadat een Bibob-advies is aangevraagd, meldt men dit onverwijld aan het Landelijk Bureau Bibob.
 
-#### Artikel 14. Bewaartermijn
+##### Artikel 14. Bewaartermijn
 
 De NIWO kan een Bibob-advies gedurende vijf jaren gebruiken in verband met een andere beslissing.
 
 ### Hoofdstuk 5. Overige bepalingen
 
-#### Artikel 15. Inwerkingtreding
+##### Artikel 15. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van 1 januari 2024.
 
-#### Artikel 16. Intrekking
+##### Artikel 16. Intrekking
 
 De [beleidsregel van 2 januari 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039046) (**Stcrt**. 2 januari 2017, nr. 50) wordt ingetrokken.
 
-#### Artikel 17. Citeertitel
+##### Artikel 17. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel toetsing vergunningen beroepsgoederenvervoer over de weg aan de Wet Bibob.

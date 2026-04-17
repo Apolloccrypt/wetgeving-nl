@@ -1,13 +1,38 @@
 ---
 title: "Interdepartementale afspraken inzake staatssteun 2017"
 identifier: "BWBR0040099"
-categorie: "Bestuursrecht"
-publicatiedatum: 2017-10-21
-laatste_update: 2017-10-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040099"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2017-10-21"
+last_updated: "2017-10-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040099"
+soort: "beleidsregel"
+stam_id: "14319683"
+version_id: "24535772"
+internal_id: "C35144101"
+label_id: "14280284"
+dtd_version: "2.0"
+original_entry_into_force: "2017-10-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040099/2017-10-21/0"
+intitule_bron: "Stcrt.2017-60151"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-10-12"
+intitule_published: "2017-10-20"
+intitule_in_force: "2017-10-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-60151"
+original_signed_date: "2017-10-12"
+original_published_date: "2017-10-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-60151"
+entry_into_force_date: "2017-10-21"
+jci_1_3: "jci1.3:c:BWBR0040099&z=2017-10-21&g=2017-10-21"
+jci_1_0: "1.0:c:BWBR0040099&g=2017-10-21"
+citeertitel_status: "officieel"
+signed_date: "2017-10-12"
+entry_into_force: "2017-10-21"
 ---
-
 # Interdepartementale afspraken inzake staatssteun 2017
 
 Vastlegging van de actualisatie van de Interdepartementale afspraken inzake staatssteun 2017

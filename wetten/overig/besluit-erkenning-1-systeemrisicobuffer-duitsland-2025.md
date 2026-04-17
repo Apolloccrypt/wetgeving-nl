@@ -1,13 +1,39 @@
 ---
-title: "Besluit erkenning 1% systeemrisicobuffer Duitsland 2025"
+title: "Besluit van De Nederlandsche Bank N.V. van 12 januari 2023 tot erkenning van de op 30 maart 2022 door de Duitse financiële toezichthouder BaFin gepubliceerde systeemrisicobufferpercentage (Besluit erkenning 2% systeemrisicobuffer Duitsland 2022)"
 identifier: "BWBR0047799"
-categorie: "Overig"
-publicatiedatum: 2025-12-01
-laatste_update: 2025-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047799"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-12-01"
+last_updated: "2025-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047799"
+soort: "zbo"
+stam_id: "16651493"
+version_id: "29207352"
+internal_id: "C41502561"
+label_id: "16569314"
+dtd_version: "2.0"
+original_entry_into_force: "2023-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047799/2025-12-01/0"
+intitule_bron: "Stcrt.2023-2784"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-01-12"
+intitule_published: "2023-01-24"
+intitule_in_force: "2023-01-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-2784"
+original_signed_date: "2023-01-12"
+original_published_date: "2023-01-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-2784"
+entry_into_force_date: "2023-02-01"
+jci_1_3: "jci1.3:c:BWBR0047799&z=2025-12-01&g=2025-12-01"
+jci_1_0: "1.0:c:BWBR0047799&g=2025-12-01"
+citeertitel_status: "officieel"
+short_title: "Besluit erkenning 1% systeemrisicobuffer Duitsland 2025"
+signed_date: "2023-01-12"
+entry_into_force: "2023-02-01"
 ---
-
 # Besluit van De Nederlandsche Bank N.V. van 12 januari 2023 tot erkenning van de op 30 maart 2022 door de Duitse financiële toezichthouder BaFin gepubliceerde systeemrisicobufferpercentage (Besluit erkenning 2% systeemrisicobuffer Duitsland 2022)
 
 Na openbare consultatie;
@@ -22,7 +48,7 @@ Gelet op [Richtlijn nr. 2013/36](32013L0036)/EU van het Europees Parlement en de
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
@@ -40,14 +66,14 @@ In dit besluit wordt verstaan onder:
 
 - e). **Niet-zakelijk onroerend goed:** niet-zakelijk onroerend goed als bedoeld in artikel 4, eerste lid, onderdeel 75, van de CRR.
 
-#### Artikel 2. Erkenning systeemrisicobufferpercentage geldend in Duitsland
+##### Artikel 2. Erkenning systeemrisicobufferpercentage geldend in Duitsland
 
 Een instelling waarvan de blootstellingen gedekt door niet-zakelijk onroerend goed in Duitsland meer dan € 10 miljard bedragen en die voor de berekening van de risicogewogen posten voor die blootstellingen gebruikmaakt van de standaardbenadering en de risicogewogen posten in dat geval geheel en volledig gedekt zijn door dat niet-zakelijk onroerend goed als bedoeld in artikel 125, tweede lid, van de CRR, of van de interneratingbenadering, beschikt voor die blootstellingen over een overeenkomstig artikel 133, tweede lid, CRD berekende systeemrisicobuffer van 1% op individuele, gesubconsolideerde en geconsolideerde basis, zoals van toepassing in overeenstemming met deel één, titel II, van de CRR.
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 Dit besluit treedt inwerking op 1 februari 2023.
 
-#### Artikel 4. Citeertitel
+##### Artikel 4. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit erkenning 1% systeemrisicobuffer Duitsland 2025.

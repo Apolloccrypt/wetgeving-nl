@@ -1,13 +1,35 @@
 ---
 title: "Protocol van toetreding tot de Handelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Colombia en Peru, anderzijds, om rekening te houden met de toetreding van Ecuador"
 identifier: "BWBV0006654"
-categorie: "Internationaal recht"
-publicatiedatum: 2024-11-01
-laatste_update: 2016-11-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006654"
+country: "nl"
+rank: "verdrag"
+publication_date: "2024-11-01"
+last_updated: "2016-11-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006654"
+soort: "verdrag"
+stam_id: "10005388293"
+version_id: "10005821672"
+internal_id: "C10010174611"
+label_id: "10005371724"
+dtd_version: "2.0"
+original_entry_into_force: "2024-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006654/2024-11-01/0"
+intitule_bron: "Trb.2016-191"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2016-12-05"
+intitule_in_force: "2025-01-15"
+intitule_status: "goed"
+original_publication: "Trb.2016-191"
+original_published_date: "2016-12-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2016-191"
+entry_into_force_date: "2024-11-01"
+jci_1_3: "jci1.3:c:BWBV0006654&z=2024-11-01&g=2024-11-01"
+jci_1_0: "1.0:c:BWBV0006654&g=2024-11-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2024-11-01"
 ---
-
 # Protocol van toetreding tot de Handelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Colombia en Peru, anderzijds, om rekening te houden met de toetreding van Ecuador
 
 Het Koninkrijk België,
@@ -114,131 +136,131 @@ Zijn het volgende overeengekomen:
 
 ### AFDELING I. OVEREENKOMSTSLUITENDE PARTIJEN
 
-#### Artikel 1
+##### Artikel 1
 
 Ecuador wordt een partij bij de [overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005911), met inbegrip van de in het [aanvullend protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0006561) opgenomen wijzigingen daarvan.
 
 ### AFDELING II. BEPALINGEN VAN DE [OVEREENKOMST](https://wetten.overheid.nl/jci1.3:c:BWBV0005911)
 
-#### Artikel 2
+##### Artikel 2
 
 Wijzigt de Handelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Colombia en Peru, anderzijds; Brussel, 26 juni 2012.
 
 ### AFDELING III. LIJSTEN INZAKE TARIEFAFSCHAFFING
 
-#### Artikel 3
+##### Artikel 3
 
 Wijzigt de Handelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Colombia en Peru, anderzijds; Brussel, 26 juni 2012.
 
-#### Artikel 4
+##### Artikel 4
 
 Wijzigt de Handelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Colombia en Peru, anderzijds; Brussel, 26 juni 2012.
 
-#### Artikel 5
+##### Artikel 5
 
 Wijzigt de Handelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Colombia en Peru, anderzijds; Brussel, 26 juni 2012.
 
 ### AFDELING IV. OORSPRONGSREGELS
 
-#### Artikel 6
+##### Artikel 6
 
 Wijzigt de Handelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Colombia en Peru, anderzijds; Brussel, 26 juni 2012.
 
 ### AFDELING V. LANDBOUWVRIJWARINGSMAATREGELEN
 
-#### Artikel 7
+##### Artikel 7
 
 Wijzigt de Handelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Colombia en Peru, anderzijds; Brussel, 26 juni 2012.
 
 ### AFDELING VI. SANITAIRE EN FYTOSANITAIRE MAATREGELEN
 
-#### Artikel 8
+##### Artikel 8
 
 Wijzigt de Handelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Colombia en Peru, anderzijds; Brussel, 26 juni 2012.
 
-#### Artikel 9
+##### Artikel 9
 
 Wijzigt de Handelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Colombia en Peru, anderzijds; Brussel, 26 juni 2012.
 
 ### AFDELING VII. HANDEL IN DIENSTEN, VESTIGING EN ELEKTRONISCHE HANDEL
 
-#### Artikel 10
+##### Artikel 10
 
 Wijzigt de Handelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Colombia en Peru, anderzijds; Brussel, 26 juni 2012.
 
-#### Artikel 11
+##### Artikel 11
 
 Wijzigt de Handelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Colombia en Peru, anderzijds; Brussel, 26 juni 2012.
 
-#### Artikel 12
+##### Artikel 12
 
 Wijzigt de Handelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Colombia en Peru, anderzijds; Brussel, 26 juni 2012.
 
-#### Artikel 13
+##### Artikel 13
 
 Wijzigt de Handelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Colombia en Peru, anderzijds; Brussel, 26 juni 2012.
 
-#### Artikel 14
+##### Artikel 14
 
 Wijzigt de Handelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Colombia en Peru, anderzijds; Brussel, 26 juni 2012.
 
-#### Artikel 15
+##### Artikel 15
 
 Wijzigt de Handelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Colombia en Peru, anderzijds; Brussel, 26 juni 2012.
 
-#### Artikel 16
+##### Artikel 16
 
 Wijzigt de Handelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Colombia en Peru, anderzijds; Brussel, 26 juni 2012.
 
-#### Artikel 17
+##### Artikel 17
 
 Wijzigt de Handelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Colombia en Peru, anderzijds; Brussel, 26 juni 2012.
 
-#### Artikel 18
+##### Artikel 18
 
 Wijzigt de Handelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Colombia en Peru, anderzijds; Brussel, 26 juni 2012.
 
-#### Artikel 19
+##### Artikel 19
 
 Wijzigt de Handelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Colombia en Peru, anderzijds; Brussel, 26 juni 2012.
 
 ### AFDELING VIII. OVERHEIDSOPDRACHTEN
 
-#### Artikel 20
+##### Artikel 20
 
 Wijzigt de Handelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Colombia en Peru, anderzijds; Brussel, 26 juni 2012.
 
-#### Artikel 21
+##### Artikel 21
 
 Wijzigt de Handelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Colombia en Peru, anderzijds; Brussel, 26 juni 2012.
 
-#### Artikel 22
+##### Artikel 22
 
 Wijzigt de Handelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Colombia en Peru, anderzijds; Brussel, 26 juni 2012.
 
-#### Artikel 23
+##### Artikel 23
 
 Wijzigt de Handelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Colombia en Peru, anderzijds; Brussel, 26 juni 2012.
 
 ### AFDELING IX. GEOGRAFISCHE AANDUIDINGEN
 
-#### Artikel 24
+##### Artikel 24
 
 Wijzigt de Handelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Colombia en Peru, anderzijds; Brussel, 26 juni 2012.
 
-#### Artikel 25
+##### Artikel 25
 
 Wijzigt de Handelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Colombia en Peru, anderzijds; Brussel, 26 juni 2012.
 
 ### AFDELING X. GEZAMENLIJKE VERKLARINGEN
 
-#### Artikel 26
+##### Artikel 26
 
 Wijzigt de Handelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Colombia en Peru, anderzijds; Brussel, 26 juni 2012.
 
 ### AFDELING XI. ALGEMENE EN SLOTBEPALINGEN
 
-#### Artikel 27
+##### Artikel 27
 
 1. Dit protocol wordt gesloten door de EU en elk overeenkomstsluitend Andesland overeenkomstig hun respectieve interne procedures.
 
@@ -256,11 +278,11 @@ Wijzigt de Handelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzi
 
 6. Indien een bepaling uit de [overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005911) in overeenstemming met lid 4 door de partijen in afwachting van de inwerkingtreding van dit protocol wordt toegepast, wordt elke verwijzing in die bepaling naar de datum van inwerkingtreding van dit protocol beschouwd als verwijzing naar de datum met ingang waarvan de partijen overeenkomen die bepaling overeenkomstig lid 4 toe te passen.
 
-#### Artikel 28
+##### Artikel 28
 
 Dit protocol is opgesteld in viervoud, in de volgende talen: Bulgaars, Deens, Duits, Engels, Ests, Fins, Frans, Grieks, Hongaars, Italiaans, Kroatisch, Lets, Litouws, Maltees, Nederlands, Pools, Portugees, Roemeens, Sloveens, Slowaaks, Spaans, Tsjechisch en Zweeds, zijnde alle teksten gelijkelijk authentiek.
 
-#### Artikel 29
+##### Artikel 29
 
 Dit protocol maakt integrerend deel uit van de [overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005911).
 

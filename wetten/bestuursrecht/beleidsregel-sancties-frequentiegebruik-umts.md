@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel sancties frequentiegebruik UMTS"
+title: "Beleidsregel van de Staatssecretaris van Economische Zaken van 23 augustus 2007, nr. AT-EZ/5891756.JZ, houdende vaststelling van regels met betrekking tot toezicht op en handhaving van de naleving van de vergunningsvoorwaarden door de houder van een IMT-2000 vergunning (Beleidsregel sancties frequentiegebruik UMTS)"
 identifier: "BWBR0022424"
-categorie: "Bestuursrecht"
-publicatiedatum: 2007-08-26
-laatste_update: 2007-08-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0022424"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2007-08-26"
+last_updated: "2007-08-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0022424"
+soort: "beleidsregel"
+stam_id: "9188783"
+version_id: "14711542"
+internal_id: "C20019671"
+label_id: "9167564"
+dtd_version: "2.0"
+original_entry_into_force: "2007-08-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0022424/2007-08-26/0"
+intitule_bron: "Stcrt.2007-163"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-08-23"
+intitule_published: "2007-08-24"
+intitule_in_force: "2007-08-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-163"
+original_signed_date: "2007-08-23"
+original_published_date: "2007-08-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2007-163-p6-SC81710"
+entry_into_force_date: "2007-08-26"
+jci_1_3: "jci1.3:c:BWBR0022424&z=2007-08-26&g=2007-08-26"
+jci_1_0: "1.0:c:BWBR0022424&g=2007-08-26"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel sancties frequentiegebruik UMTS"
+signed_date: "2007-08-23"
+entry_into_force: "2007-08-26"
 ---
-
 # Beleidsregel van de Staatssecretaris van Economische Zaken van 23 augustus 2007, nr. AT-EZ/5891756.JZ, houdende vaststelling van regels met betrekking tot toezicht op en handhaving van de naleving van de vergunningsvoorwaarden door de houder van een IMT-2000 vergunning (Beleidsregel sancties frequentiegebruik UMTS)
 
 Gelet op de [artikelen 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.3), [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.5), [3.7, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.7), [15.1, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=15.1), en [15.2, eerste lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=15.2), de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0009997&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0009997&artikel=17) en [21 van het Frequentiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009997&artikel=21) en de [artikelen 5:32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:32) en [4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze beleidsregel wordt verstaan onder:
 
@@ -32,17 +58,17 @@ Besluit:
 
 2. De definities in de vergunningen, bedoeld in het eerste lid, onderdeel c, zijn van toepassing.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze beleidsregel geeft aan op welke wijze de Minister van Economische Zaken de voorschriften betreffende dekking en minimum serviceniveau, genoemd in artikel 3, onderdeel b, van de vergunning, bestuursrechtelijk zal handhaven.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Ter vaststelling of de vergunninghouder voldoet aan de voorschriften betreffende dekking en minimum serviceniveau, genoemd in artikel 3, onderdeel b, van de vergunning, worden op driehonderd verschillende locaties in Nederland metingen verricht.
 
 2. De metingen geschieden overeenkomstig de in de bijlage opgenomen meetmethode.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien een vergunninghouder in minder dan 98% van het in de vergunningsvoorschriften beschreven gebied dekking heeft, wordt wegens overtreding van de voorschriften betreffende dekking, genoemd in artikel 3, onderdeel b, van de vergunning een last onder dwangsom opgelegd.
 
@@ -66,7 +92,7 @@ Deze beleidsregel geeft aan op welke wijze de Minister van Economische Zaken de 
 
 3. De last, bedoeld in het eerste lid, houdt in dat de overtreder op de meetlocaties, waar geen dekking is geconstateerd binnen de gestelde termijn dekking moet hebben gerealiseerd.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Indien een vergunninghouder in minder dan 93,1% van het in de vergunningsvoorschriften beschreven gebied op ieder tijdstip voldoet aan het minimum serviceniveau, wordt wegens overtreding van de voorschriften betreffende minimum serviceniveau, genoemd in artikel 3, onderdeel b, van de vergunning een last onder dwangsom opgelegd.
 
@@ -92,7 +118,7 @@ Deze beleidsregel geeft aan op welke wijze de Minister van Economische Zaken de 
 
 4. De last, bedoeld in het eerste lid, houdt in dat de overtreder op de meetlocaties, waar is geconstateerd dat de overtreder niet heeft voldaan aan het minimum serviceniveau genoemd in het eerste lid, binnen de gestelde termijn het minimum serviceniveau moet hebben gerealiseerd.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Alvorens een last onder dwangsom aan een overtreder wordt opgelegd, wordt overeenkomstig [artikel 4:8 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:8) aan hem een voornemen tot oplegging van een last onder dwangsom verzonden. De overtreder wordt in de gelegenheid gesteld om binnen een maand na dagtekening van dit voornemen mondeling of schriftelijk zijn zienswijze ten aanzien daarvan te uiten.
 
@@ -100,7 +126,7 @@ Deze beleidsregel geeft aan op welke wijze de Minister van Economische Zaken de 
 
 3. In afwijking van het tweede lid kan een langere termijn worden gegund indien de overtreder binnen een maand aantoont dat hij redelijkerwijs niet binnen de termijn van drie maanden aan de last kan voldoen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. In het geval het maximumbedrag als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022424&paragraaf=1&artikel=4&z=2007-08-26&g=2007-08-26), is verbeurd, en de vergunninghouder op meer dan 150 meetlocaties geen dekking heeft, kan de vergunning worden ingetrokken. [Artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022424&paragraaf=1&artikel=3&z=2007-08-26&g=2007-08-26), is van overeenkomstige toepassing.
 
@@ -110,11 +136,11 @@ Deze beleidsregel geeft aan op welke wijze de Minister van Economische Zaken de 
 
 - b. de onder a genoemde termijn is verstreken zonder dat de vergunninghouder de overtreding heeft beëindigd.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze beleidsregel treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel sancties frequentiegebruik UMTS.
 

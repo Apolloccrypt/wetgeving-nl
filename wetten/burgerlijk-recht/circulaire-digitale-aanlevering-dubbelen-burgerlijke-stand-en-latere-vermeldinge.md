@@ -1,13 +1,38 @@
 ---
 title: "Circulaire digitale aanlevering dubbelen burgerlijke stand en latere vermeldingen"
 identifier: "BWBR0042147"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2019-04-25
-laatste_update: 2019-04-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042147"
+country: "nl"
+rank: "circulaire"
+publication_date: "2019-04-25"
+last_updated: "2019-04-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042147"
+soort: "circulaire"
+stam_id: "15058863"
+version_id: "25808282"
+internal_id: "C36796591"
+label_id: "15008044"
+dtd_version: "2.0"
+original_entry_into_force: "2019-04-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042147/2019-04-25/0"
+intitule_bron: "Stcrt.2019-22778"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-04-11"
+intitule_published: "2019-04-25"
+intitule_in_force: "2019-04-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-22778"
+original_signed_date: "2019-04-11"
+original_published_date: "2019-04-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-22778"
+entry_into_force_date: "2019-04-25"
+jci_1_3: "jci1.3:c:BWBR0042147&z=2019-04-25&g=2019-04-25"
+jci_1_0: "1.0:c:BWBR0042147&g=2019-04-25"
+citeertitel_status: "redactioneel"
+signed_date: "2019-04-11"
+entry_into_force: "2019-04-25"
 ---
-
 # Circulaire digitale aanlevering dubbelen burgerlijke stand en latere vermeldingen
 
 ### 1. Inleiding

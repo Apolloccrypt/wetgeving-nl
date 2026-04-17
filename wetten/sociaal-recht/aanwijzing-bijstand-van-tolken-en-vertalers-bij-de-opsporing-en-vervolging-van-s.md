@@ -1,13 +1,35 @@
 ---
 title: "Aanwijzing bijstand van tolken en vertalers bij de opsporing en vervolging van strafbare feiten"
 identifier: "BWBR0034399"
-categorie: "Sociaal recht"
-publicatiedatum: 2014-01-01
-laatste_update: 2014-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034399"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2014-01-01"
+last_updated: "2014-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034399"
+soort: "beleidsregel"
+stam_id: "12483913"
+version_id: "20991342"
+internal_id: "C30154661"
+label_id: "12455004"
+dtd_version: "2.0"
+original_entry_into_force: "2014-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034399/2014-01-01/0"
+intitule_bron: "Stcrt.2013-35062"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2013-12-17"
+intitule_in_force: "2013-12-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-35062"
+original_published_date: "2013-12-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-35062"
+entry_into_force_date: "2014-01-01"
+jci_1_3: "jci1.3:c:BWBR0034399&z=2014-01-01&g=2014-01-01"
+jci_1_0: "1.0:c:BWBR0034399&g=2014-01-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2014-01-01"
 ---
-
 # Aanwijzing bijstand van tolken en vertalers bij de opsporing en vervolging van strafbare feiten
 
 ### 1. Samenvatting

@@ -1,13 +1,39 @@
 ---
-title: "Kaderbesluit subsidies I en M"
+title: "Besluit van 11 februari 2015, houdende regels inzake de verstrekking van subsidies door de Minister van Infrastructuur en Milieu (Kaderbesluit subsidies I en M)"
 identifier: "BWBR0036381"
-categorie: "Bestuursrecht"
-publicatiedatum: 2015-07-01
-laatste_update: 2015-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036381"
+country: "nl"
+rank: "amvb"
+publication_date: "2015-07-01"
+last_updated: "2015-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036381"
+soort: "AMvB"
+stam_id: "13003513"
+version_id: "22206292"
+internal_id: "C31843281"
+label_id: "12972694"
+dtd_version: "2.0"
+original_entry_into_force: "2015-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036381/2015-07-01/0"
+intitule_bron: "Stb.2015-96"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-02-11"
+intitule_published: "2015-03-04"
+intitule_in_force: "2015-03-04"
+intitule_status: "goed"
+original_publication: "Stb.2015-96"
+original_signed_date: "2015-02-11"
+original_published_date: "2015-03-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2015-96"
+entry_into_force_date: "2015-07-01"
+jci_1_3: "jci1.3:c:BWBR0036381&z=2015-07-01&g=2015-07-01"
+jci_1_0: "1.0:c:BWBR0036381&g=2015-07-01"
+citeertitel_status: "officieel"
+short_title: "Kaderbesluit subsidies I en M"
+signed_date: "2015-02-11"
+entry_into_force: "2015-07-01"
 ---
-
 # Besluit van 11 februari 2015, houdende regels inzake de verstrekking van subsidies door de Minister van Infrastructuur en Milieu (Kaderbesluit subsidies I en M)
 
 Op de voordracht van Onze Minister van Infrastructuur en Milieu van 8 juli 2014, nr. IenM/BSK-2014/135720, Hoofddirectie Bestuurlijke en Juridische Zaken;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -46,7 +72,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 2. Verstrekken van subsidie
 
-#### Artikel 2
+##### Artikel 2
 
 1. Onze Minister kan op aanvraag voor activiteiten op gebieden genoemd in [artikel 3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=3), subsidie verstrekken volgens de regels van dit besluit en overeenkomstig de bij ministeriële regeling bepaalde regels.
 
@@ -62,11 +88,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Bij ministeriële regeling kan worden bepaald dat artikelen van dit besluit van overeenkomstige toepassing zijn op verstrekkingen uitsluitend aan rechtspersonen die krachtens publiek recht zijn ingesteld.
 
-#### Artikel 3
+##### Artikel 3
 
 Een subsidie wordt verstrekt aan een natuurlijk persoon of rechtspersoon die voor eigen rekening en risico activiteiten uitvoert die ten goede komen aan de Nederlandse economie.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Bij ministeriële regeling kunnen in ieder geval nadere regels worden gesteld over:
 
@@ -92,7 +118,7 @@ Een subsidie wordt verstrekt aan een natuurlijk persoon of rechtspersoon die voo
 
 2. Bij ministeriele regeling kan een maximum subsidiebedrag per aanvrager worden bepaald.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Indien reeds door een bestuursorgaan of de Commissie van de Europese Unie subsidie is verstrekt voor de subsidiabele kosten of een deel daarvan, wordt het bedrag dat door deze bestuursorganen is verstrekt in mindering gebracht op de subsidie waarvoor de aanvrager krachtens dit besluit of ministeriële regeling in aanmerking komt.
 
@@ -102,7 +128,7 @@ Een subsidie wordt verstrekt aan een natuurlijk persoon of rechtspersoon die voo
 
 ### Hoofdstuk 3. Subsidiabele kosten
 
-#### Artikel 6
+##### Artikel 6
 
 1. Voor subsidie komen in aanmerking de gemaakte kosten die direct verbonden zijn met de uitvoering van activiteiten en die op grond van een ministeriële regeling voor subsidie in aanmerking komen.
 
@@ -120,7 +146,7 @@ Een subsidie wordt verstrekt aan een natuurlijk persoon of rechtspersoon die voo
 
 6. Bij ministeriële regeling kunnen nadere regels worden gesteld over de kosten die voor subsidie in aanmerking komen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Indien in het kader van de berekening van de hoogte van de te verstrekken subsidie uurtarieven worden gehanteerd, worden deze door de aanvrager berekend aan de hand van één of meer in het tweede lid genoemde standaardberekeningswijzen.
 
@@ -136,7 +162,7 @@ Een subsidie wordt verstrekt aan een natuurlijk persoon of rechtspersoon die voo
 
 ### Hoofdstuk 4. Subsidieplafond en wijze van verdelen
 
-#### Artikel 8
+##### Artikel 8
 
 1. Een subsidieplafond kan bij ministeriële regeling worden vastgesteld voor het totale voor subsidieverstrekking beschikbare subsidiebedrag.
 
@@ -160,13 +186,13 @@ Een subsidie wordt verstrekt aan een natuurlijk persoon of rechtspersoon die voo
 
 - e. Onze Minister het bereiken van het subsidieplafond in de Staatscourant bekend maakt indien dit geschiedt voordat de in de ministeriële regeling opgenomen termijn voor het indienen van aanvragen is gesloten.
 
-#### Artikel 9
+##### Artikel 9
 
 Indien bij de vaststelling van een subsidieplafond is gekozen de subsidie te verdelen op volgorde van rangschikking, worden bij ministeriële regeling rangschikkingcriteria vastgesteld en, indien meerdere rangschikkingcriteria worden vastgesteld, de onderlinge weging daarvan. Indien Onze Minister zich bij de rangschikking van aanvragen laat adviseren door een persoon of meerdere personen die of een college dat niet onder zijn verantwoordelijkheid werkzaam is, wordt bij ministeriële regeling bepaald door wie en op welke wijze het advies wordt uitgebracht.
 
 ### Hoofdstuk 5. Indienen van de aanvraag tot subsidieverlening
 
-#### Artikel 10
+##### Artikel 10
 
 1. Een aanvraag om subsidie wordt ingediend met gebruikmaking van een daartoe door Onze Minister beschikbaar gesteld middel.
 
@@ -194,11 +220,11 @@ Indien bij de vaststelling van een subsidieplafond is gekozen de subsidie te ver
 
 ### Hoofdstuk 6. Afwijzingsgronden
 
-#### Artikel 11
+##### Artikel 11
 
 Onze Minister beslist afwijzend op een aanvraag om subsidie indien de aanvraag niet voldoet aan de bij of krachtens dit besluit gestelde regels.
 
-#### Artikel 12
+##### Artikel 12
 
 Onze Minister beslist voorts afwijzend op een aanvraag om subsidie indien:
 
@@ -224,13 +250,13 @@ Onze Minister beslist voorts afwijzend op een aanvraag om subsidie indien:
 
 - k. er naar het oordeel van Onze Minister onaanvaardbaar risico bestaat dat de uitvoering van een voorgenomen activiteit een onevenredige inbreuk zal maken op de economische, ecologische of sociale dimensie van duurzaamheid.
 
-#### Artikel 13
+##### Artikel 13
 
 Bij ministeriële regeling kunnen andere afwijzingsgronden dan de afwijzingsgronden, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&hoofdstuk=6&artikel=11&z=2015-07-01&g=2015-07-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&hoofdstuk=6&artikel=12&z=2015-07-01&g=2015-07-01), worden vastgesteld.
 
 ### Hoofdstuk 7. Subsidieverstrekking
 
-#### Artikel 14
+##### Artikel 14
 
 1. Een beschikking tot subsidieverstrekking wordt gegeven binnen dertien weken na ontvangst van de aanvraag of, indien sprake is van een subsidieplafond en de verdeling plaatsvindt in volgorde van rangschikking van of evenredige verdeling, binnen dertien weken na afloop van de periode waarbinnen de aanvragen kunnen worden ingediend.
 
@@ -246,7 +272,7 @@ Bij ministeriële regeling kunnen andere afwijzingsgronden dan de afwijzingsgron
 
 4. Indien een beschikking niet binnen de termijn, genoemd in het eerste tot en met het derde lid kan worden gegeven, kan deze termijn eenmaal met de diezelfde termijn worden verlengd.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Een subsidie lager dan € 25.000,– wordt verstrekt in de vorm van een vast bedrag dat bij ministeriële regeling wordt vastgelegd of dat wordt bepaald op basis van gegevens die worden ingediend bij de aanvraag.
 
@@ -262,13 +288,13 @@ Bij ministeriële regeling kunnen andere afwijzingsgronden dan de afwijzingsgron
 
 5. Bij ministeriële regeling kunnen regels worden gesteld over de voorwaarden waaronder een subsidie wordt verleend.
 
-#### Artikel 16
+##### Artikel 16
 
 Bij ministeriële regeling kan worden bepaald dat de regels inzake een subsidie lager dan € 25.000,– van toepassing zijn op een subsidie van € 25.000,– of meer of dat de regels inzake een subsidie van € 25.000,– tot € 125.000,– van toepassing zijn op subsidies van € 125.000,– of meer.
 
 ### Hoofdstuk 8. Verplichtingen van de subsidie-ontvanger
 
-#### Artikel 17
+##### Artikel 17
 
 1. De subsidie-ontvanger is verplicht:
 
@@ -288,7 +314,7 @@ Bij ministeriële regeling kan worden bepaald dat de regels inzake een subsidie 
 
 2. Onze Minister kan voor het vertragen, essentieel wijzigen of het stopzetten van activiteiten op voorafgaand verzoek van de subsidie-ontvanger ontheffing verlenen van de verplichting, bedoeld in het eerste lid, onderdeel a. Aan de ontheffing kunnen voorschriften worden verbonden.
 
-#### Artikel 18
+##### Artikel 18
 
 De subsidie-ontvanger doet onverwijld mededeling aan Onze Minister zodra aannemelijk is dat:
 
@@ -296,7 +322,7 @@ De subsidie-ontvanger doet onverwijld mededeling aan Onze Minister zodra aanneme
 
 - b. niet, niet tijdig of niet geheel aan de aan de subsidie verbonden verplichtingen zal worden voldaan.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De subsidie-ontvanger voert een zodanige administratie dat daaruit op eenvoudige en duidelijke wijze is af te leiden:
 
@@ -314,17 +340,17 @@ De subsidie-ontvanger doet onverwijld mededeling aan Onze Minister zodra aanneme
 
 3. Indien de subsidie minder bedraagt dan € 125.000,– zijn het eerste en tweede lid niet van toepassing. In dat geval beschikt de subsidie-ontvanger tot vijf jaar na de datum van de beschikking tot subsidievaststelling over die gegevens die nodig zijn om desgevraagd aan te tonen dat de subsidiabele activiteiten zijn verricht.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Indien de periode van uitvoering van de activiteiten die voor subsidie in aanmerking komen meer dan twaalf maanden in beslag neemt, wordt bij de beschikking tot subsidieverlening de verplichting opgelegd tot indiening van één of meer rapportages, maar ten hoogste één rapportage per jaar
 
 2. Indien de subsidie minder bedraagt dan € 25.000,– is het eerste lid niet van toepassing.
 
-#### Artikel 21
+##### Artikel 21
 
 Onze Minister kan bij de beschikking tot subsidieverstrekking nadere verplichtingen opleggen.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Bij ministeriële regeling kan worden bepaald dat een of meer van de in dit hoofdstuk opgenomen verplichtingen niet van toepassing zijn.
 
@@ -332,7 +358,7 @@ Onze Minister kan bij de beschikking tot subsidieverstrekking nadere verplichtin
 
 ### Hoofdstuk 9. Betaling en bevoorschotting
 
-#### Artikel 23
+##### Artikel 23
 
 1. Onze Minister verstrekt ambtshalve, gelijktijdig met de beschikking tot subsidieverlening, voorschotten voor een subsidie die nog niet is vastgesteld.
 
@@ -348,7 +374,7 @@ Onze Minister kan bij de beschikking tot subsidieverstrekking nadere verplichtin
 
 ### Hoofdstuk 10. Subsidievaststelling
 
-#### Artikel 24
+##### Artikel 24
 
 1. Een aanvraag tot een beschikking tot subsidievaststelling vindt plaats binnen dertien weken na het verricht zijn van de activiteiten waarvoor de subsidie is verstrekt. Bij ministeriële regeling of bij de beschikking tot subsidieverstrekking kan een andere termijn worden bepaald. Als er sprake is van een subsidie waarbij verantwoord wordt volgens het principe van Single Information Single Audit als bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a) vindt vaststelling plaats op basis van die verantwoording.
 
@@ -370,7 +396,7 @@ Onze Minister kan bij de beschikking tot subsidieverstrekking nadere verplichtin
 
 5. Bij ministeriële regeling kan worden bepaald dat, in afwijking van het vierde lid, onderdeel c, de aanvraag niet vergezeld hoeft te gaan van een controleverklaring.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Onze Minister geeft de beschikking tot subsidievaststelling binnen dertien weken na ontvangst van de aanvraag daartoe dan wel nadat de voor het indienen ervan geldende termijn is verstreken.
 
@@ -378,7 +404,7 @@ Onze Minister kan bij de beschikking tot subsidieverstrekking nadere verplichtin
 
 ### Hoofdstuk 11. Samenwerkingsverbanden
 
-#### Artikel 26
+##### Artikel 26
 
 1. Indien bij ministeriële regeling is bepaald dat aanvragers van subsidie mogen samenwerken in een samenwerkingsverband:
 
@@ -400,7 +426,7 @@ Onze Minister kan bij de beschikking tot subsidieverstrekking nadere verplichtin
 
 ### Hoofdstuk 12. Misbruik en oneigenlijk gebruik
 
-#### Artikel 27
+##### Artikel 27
 
 1. Onze Minister houdt ter voorkoming van misbruik en oneigenlijk gebruik van subsidie een registratie bij waarin wordt vastgelegd:
 
@@ -420,23 +446,23 @@ Onze Minister kan bij de beschikking tot subsidieverstrekking nadere verplichtin
 
 ### Hoofdstuk 12*. Slotbepalingen en overgangsbepalingen
 
-#### Artikel 28
+##### Artikel 28
 
 Wijzigt het Besluit ruimtelijke ordening.
 
-#### Artikel 29
+##### Artikel 29
 
 Het [Besluit milieusubsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0010065) wordt ingetrokken.
 
-#### Artikel 30
+##### Artikel 30
 
 In afwijking van de [artikelen 2 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&hoofdstuk=2&artikel=2&z=2015-07-01&g=2015-07-01) gelden voor subsidies verstrekt op basis van algemene maatregelen van bestuur en ministeriële regelingen die voor 1 juli 2015 zijn vastgesteld op basis van de [Wet Milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245), de [Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449) of de [Kaderwet subsidies Verkeer en Waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0009196), en vallend onder het toepassingsgebied van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032789), de in dat besluit of in die regeling opgenomen bepalingen.
 
-#### Artikel 31
+##### Artikel 31
 
 De [artikelen 1 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=1), [10 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=10), [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=17), met uitzondering van het onderdeel [Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994), en de [artikelen 19 tot en met 22 van de Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=19) en dit besluit treden in werking met ingang van 1 juli 2015.
 
-#### Artikel 32
+##### Artikel 32
 
 Dit besluit wordt aangehaald als: Kaderbesluit subsidies I en M.
 

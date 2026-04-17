@@ -1,13 +1,38 @@
 ---
 title: "Regeling Versterking landelijke infrastructuur amateurkunst 2026–2028"
 identifier: "BWBR0051961"
-categorie: "Overig"
-publicatiedatum: 2025-12-16
-laatste_update: 2025-12-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051961"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-12-16"
+last_updated: "2025-12-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051961"
+soort: "zbo"
+stam_id: "17678583"
+version_id: "31187152"
+internal_id: "C44616851"
+label_id: "17578304"
+dtd_version: "2.0"
+original_entry_into_force: "2025-12-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051961/2025-12-16/0"
+intitule_bron: "Stcrt.2025-42862"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-03-27"
+intitule_published: "2025-12-15"
+intitule_in_force: "2025-12-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-42862"
+original_signed_date: "2023-03-27"
+original_published_date: "2025-12-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-42862"
+entry_into_force_date: "2025-12-16"
+jci_1_3: "jci1.3:c:BWBR0051961&z=2025-12-16&g=2025-12-16"
+jci_1_0: "1.0:c:BWBR0051961&g=2025-12-16"
+citeertitel_status: "officieel"
+signed_date: "2023-03-27"
+entry_into_force: "2025-12-16"
 ---
-
 # Regeling Versterking landelijke infrastructuur amateurkunst 2026–2028
 
 gelet op [artikel 10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10), van de **Wet op het specifiek cultuurbeleid**;
@@ -22,7 +47,7 @@ besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1. Gebruikte begrippen
+##### Artikel 1.1. Gebruikte begrippen
 
 In deze regeling worden onderstaande begrippen gebruikt.
 
@@ -70,11 +95,11 @@ In deze regeling worden onderstaande begrippen gebruikt.
 
 - v. **Website van het Fonds:** [www.cultuurparticipatie.nl](http://www.cultuurparticipatie.nl/).
 
-#### Artikel 1.2. Doel van de regeling
+##### Artikel 1.2. Doel van de regeling
 
 Met deze regeling stimuleert het Fonds het ontwikkelen en uitvoeren van projecten die bijdragen aan inhoudelijke versterking van amateurkunstbeoefening, duurzame versterking van de ondersteuningsstructuur voor het amateurkunstenveld en/of de versterking van de landelijke disciplineondersteuning.
 
-#### Artikel 1.3. Subsidieplafond en flexibiliteit
+##### Artikel 1.3. Subsidieplafond en flexibiliteit
 
 1. De subsidieplafonds staan vermeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&z=2025-12-16&g=2025-12-16). Het Fonds kan besluiten de subsidieplafonds te wijzigen. Deze wijzigingen kunnen ook op specifieke categorieën van projecten zijn of gelden voor bepaalde tijdvakken, thema’s, doelgroepen en regio’s.
 
@@ -82,7 +107,7 @@ Met deze regeling stimuleert het Fonds het ontwikkelen en uitvoeren van projecte
 
 3. Een besluit op grond van het eerste of tweede lid wordt gepubliceerd in de Staatscourant en op de website van het Fonds.
 
-#### Artikel 1.4. Algemene weigeringsgronden
+##### Artikel 1.4. Algemene weigeringsgronden
 
 1. Het Fonds weigert subsidie als:
 
@@ -116,7 +141,7 @@ Met deze regeling stimuleert het Fonds het ontwikkelen en uitvoeren van projecte
 
 4. Het Fonds kan weigeren subsidie te verstrekken als de aanvraag op enige wijze niet in overeenstemming is met de regeling.
 
-#### Artikel 1.5. Voorwaarden
+##### Artikel 1.5. Voorwaarden
 
 1. Alleen kosten die direct verband houden met de projecten komen in aanmerking voor subsidiëring.
 
@@ -130,7 +155,7 @@ Met deze regeling stimuleert het Fonds het ontwikkelen en uitvoeren van projecte
 
 3. Aanvragers gevestigd in het Caribisch deel van het Koninkrijk kunnen de benodigde kosten voor het omwisselen van valuta voor het uitvoeren van het project opnemen in de subsidieaanvraag.
 
-#### Artikel 1.6. Verplichtingen
+##### Artikel 1.6. Verplichtingen
 
 1. Met deelname aan deze regeling geeft de aanvrager toestemming aan het Fonds om gegevens uit de aanvraag en de eventuele verantwoording in te zetten voor kennisdeling en onderzoeksdoeleinden. Als het ten dienste staat aan het behalen van de doelstelling van de regeling, kan het Fonds de aanvrager verplichten tot deelname aan een bijeenkomst of begeleidingstraject.
 
@@ -158,7 +183,7 @@ Het Fonds kan bij beschikking van deze termijnen afwijken.
 
 7. De activiteiten van de aanvrager zijn toegankelijk voor mensen met speciale behoeften. Daaronder vallen in ieder geval mensen met een beperkte mobiliteit.
 
-#### Artikel 1.7. Verplichtingen voor het indienen
+##### Artikel 1.7. Verplichtingen voor het indienen
 
 1. Aanvragen worden ingediend via een volledig ingevuld digitaal aanvraagformulier in de online aanvraagomgeving Mijn Fonds, via de website van het Fonds.
 
@@ -172,7 +197,7 @@ Het Fonds kan bij beschikking van deze termijnen afwijken.
 
 3. Het projectplan bevat maximaal 5.000 woorden.
 
-#### Artikel 1.8. Beoordeling van aanvragen
+##### Artikel 1.8. Beoordeling van aanvragen
 
 1. Het Fonds beoordeelt de aanvragen overeenkomstig de regeling.
 
@@ -190,7 +215,7 @@ Het Fonds kan bij beschikking van deze termijnen afwijken.
 
 8. Op de aanvraag wordt binnen uiterlijk dertien weken beslist.
 
-#### Artikel 1.9. Voorschotten
+##### Artikel 1.9. Voorschotten
 
 1. Voor subsidie vanaf € 25.000 betaalt het Fonds een voorschot van 90%. Dit doet het Fonds zo spoedig mogelijk na het verzenden van het subsidieverleningsbesluit.
 
@@ -200,7 +225,7 @@ Het Fonds kan bij beschikking van deze termijnen afwijken.
 
 4. Het Fonds kan de bevoorschotting, al dan niet tijdelijk, stoppen als aanvragers hun subsidieverplichtingen onvoldoende nakomen. Dat kan het Fonds ook doen wanneer de omstandigheden zodanig zijn veranderd dat het aannemelijk is dat de activiteiten of projecten niet op dezelfde manier kunnen worden voortgezet.
 
-#### Artikel 1.10. Verantwoording en vaststelling
+##### Artikel 1.10. Verantwoording en vaststelling
 
 1. Subsidieontvangers die achteraf verantwoording dienen af te leggen over de activiteiten of projecten, doen dit door middel van een activiteitenverslag en een financieel verslag.
 
@@ -210,7 +235,7 @@ Het Fonds kan bij beschikking van deze termijnen afwijken.
 
 #### Paragraaf 2.1. Algemeen
 
-#### Artikel 2.1.1. Doel en effecten
+##### Artikel 2.1.1. Doel en effecten
 
 Met de bepalingen in dit hoofdstuk stimuleert het Fonds projecten die gericht zijn op het bereiken van minimaal één van de volgende effecten:
 
@@ -220,7 +245,7 @@ Met de bepalingen in dit hoofdstuk stimuleert het Fonds projecten die gericht zi
 
 - c. Toegankelijkheid.
 
-#### Artikel 2.1.2. Indieningstermijnen
+##### Artikel 2.1.2. Indieningstermijnen
 
 1. Aanvragen op grond van de [paragrafen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&paragraaf=2.2&z=2025-12-16&g=2025-12-16) en [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&paragraaf=2.3&z=2025-12-16&g=2025-12-16) van dit hoofdstuk kunnen worden ingediend vanaf 2 februari 2026 13:00 uur tot en met 1 april 2026 17:00 uur. De tijdsaanduiding is de tijd die geldt in het Europees deel van Nederland.
 
@@ -232,13 +257,13 @@ Met de bepalingen in dit hoofdstuk stimuleert het Fonds projecten die gericht zi
 
 De tijdsaanduiding is de tijd die geldt in het Europees deel van Nederland.
 
-#### Artikel 2.1.3. Verplichtingen
+##### Artikel 2.1.3. Verplichtingen
 
 1. In de projecten wordt gewerkt aan minimaal een van de vijf inhoudelijke kernambities uit de Actieagenda voor Amateurkunstondersteuning 2024.
 
 2. Gehonoreerde projecten nemen deel aan het Kennistraject amateurkunstondersteuning van LKCA.
 
-#### Artikel 2.1.4. Beoordelingscriteria
+##### Artikel 2.1.4. Beoordelingscriteria
 
 Aanvragen worden beoordeeld aan de hand van de volgende criteria, waarvan in de toelichting is beschreven hoe die toetsing plaatsvindt:
 
@@ -248,17 +273,17 @@ Aanvragen worden beoordeeld aan de hand van de volgende criteria, waarvan in de 
 
 #### Paragraaf 2.2. Amateurkunstkoepels
 
-#### Artikel 2.2.1. Wie kan aanvragen?
+##### Artikel 2.2.1. Wie kan aanvragen?
 
 1. Subsidie kan worden aangevraagd door een amateurkunstkoepel, zoals gedefinieerd in [artikel 1.1 onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=1&artikel=1.1&z=2025-12-16&g=2025-12-16).
 
 2. Amateurkunstkoepels kunnen gezamenlijk een aanvraag indienen waarbij de in [artikel 2.2.3 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&paragraaf=2.2&artikel=2.2.3&z=2025-12-16&g=2025-12-16) opgenomen maximale bedragen kunnen worden opgeteld.
 
-#### Artikel 2.2.2. Waarvoor kan worden aangevraagd?
+##### Artikel 2.2.2. Waarvoor kan worden aangevraagd?
 
 Subsidie kan worden aangevraagd voor projecten met activiteiten die bijdragen aan de versterking en ontwikkeling van de landelijke infrastructuur van disciplinegerichte amateurkunstondersteuning.
 
-#### Artikel 2.2.3. Hoogte van de subsidie
+##### Artikel 2.2.3. Hoogte van de subsidie
 
 De subsidie:
 
@@ -266,13 +291,13 @@ De subsidie:
 
 - b. bedraagt maximaal 100% van de totale projectkosten.
 
-#### Artikel 2.2.4. Subsidieplafond
+##### Artikel 2.2.4. Subsidieplafond
 
 Het subsidieplafond voor deze paragraaf bedraagt € 1.800.000.
 
 #### Paragraaf 2.3. Provinciale steuninstellingen
 
-#### Artikel 2.3.1. Wie kan aanvragen?
+##### Artikel 2.3.1. Wie kan aanvragen?
 
 1. Subsidie kan worden aangevraagd door een provinciale steuninstelling, zoals gedefinieerd in [artikel 1.1 onder t](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=1&artikel=1.1&z=2025-12-16&g=2025-12-16).
 
@@ -282,7 +307,7 @@ Het subsidieplafond voor deze paragraaf bedraagt € 1.800.000.
 
 4. Voor de samenwerking zoals vermeld in [artikel 2.3.2 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&paragraaf=2.3&artikel=2.3.2&z=2025-12-16&g=2025-12-16) wordt een samenwerkingsovereenkomst opgesteld en ondertekend door alle betrokken partijen.
 
-#### Artikel 2.3.2. Waarvoor kan worden aangevraagd?
+##### Artikel 2.3.2. Waarvoor kan worden aangevraagd?
 
 1. Subsidie kan worden aangevraagd voor projecten die bijdragen aan het versterken van de infrastructuur van amateurkunstondersteuning door provinciale steuninstellingen als wezenlijk onderdeel van de keten.
 
@@ -290,7 +315,7 @@ Het subsidieplafond voor deze paragraaf bedraagt € 1.800.000.
 
 3. In het project is minimaal één amateurkunstgroep, verzameling groepen (bijv. een lokale federatie of een stedelijk platform) of collectief van (cultureel) professionals werkzaam in de amateurkunstensector actief betrokken.
 
-#### Artikel 2.3.3. Hoogte van de subsidie
+##### Artikel 2.3.3. Hoogte van de subsidie
 
 De subsidie van het Fonds:
 
@@ -298,13 +323,13 @@ De subsidie van het Fonds:
 
 - b. bedraagt maximaal 50% van de totale projectkosten.
 
-#### Artikel 2.3.4. Subsidieplafond
+##### Artikel 2.3.4. Subsidieplafond
 
 Het subsidieplafond voor deze paragraaf bedraagt € 3.300.000.
 
 #### Paragraaf 2.4. Culturele instellingen
 
-#### Artikel 2.4.1. Wie kan aanvragen?
+##### Artikel 2.4.1. Wie kan aanvragen?
 
 1. Subsidie kan worden aangevraagd door een culturele instelling.
 
@@ -312,27 +337,27 @@ Het subsidieplafond voor deze paragraaf bedraagt € 3.300.000.
 
 3. Voor de samenwerking wordt een samenwerkingsovereenkomst opgesteld en ondertekend door minimaal de culturele instellingen die werkzaam zijn in de amateurkunst.
 
-#### Artikel 2.4.2. Waarvoor kan worden aangevraagd
+##### Artikel 2.4.2. Waarvoor kan worden aangevraagd
 
 1. Subsidie kan worden aangevraagd voor projecten ter versterking van werkwijzen en ontwikkelingen die op dit moment actueel en relevant zijn voor de ontwikkeling van de amateurkunstsector.
 
 2. De aanvrager werkt samen met minimaal één andere culturele instelling die werkzaam is de amateurkunst en met minimaal één amateurkunstgroep, verzameling groepen (bijv. een lokale federatie of een stedelijk platform) of collectief van (cultureel) professionals werkzaam in de amateurkunstensector.
 
-#### Artikel 2.4.3. Hoogte van de subsidie
+##### Artikel 2.4.3. Hoogte van de subsidie
 
 1. Voor een project in [paragraaf 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&paragraaf=2.4&z=2025-12-16&g=2025-12-16) kan minimaal € 50.000 en maximaal € 125.000 worden aangevraagd;
 
 2. De subsidie bedraagt maximaal 100% van de totale projectkosten.
 
-#### Artikel 2.4.4. Subsidieplafond
+##### Artikel 2.4.4. Subsidieplafond
 
 Het subsidieplafond voor deze paragraaf bedraagt in totaal € 2.216.720 waarvan € 1.200.000 voor de indieningstermijn van [artikel 2.1.2, lid 2, sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&paragraaf=2.1&artikel=2.1.2&z=2025-12-16&g=2025-12-16) en € 1.016.720 voor de indieningstermijn van artikel 2.1.2, lid 2, sub b.
 
-#### Artikel 2.4.5. Verplichting
+##### Artikel 2.4.5. Verplichting
 
 Projectaanvragen dienen kenbaar te zijn bij minimaal één van de provinciale steuninstellingen van de provincie waar de projectactiviteiten plaatsvinden.
 
-#### Artikel 2.4.6. Specifieke weigeringsgronden
+##### Artikel 2.4.6. Specifieke weigeringsgronden
 
 1. In aanvulling op [artikel 1.4, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=1&artikel=1.4&z=2025-12-16&g=2025-12-16), wordt subsidie geweigerd als de startdatum van het project waarvoor subsidie wordt gevraagd, eerder is dan de einddatum van een eerder project/gehonoreerde aanvraag van de penvoerder in de regeling **Versterking landelijke infrastructuur amateurkunst 2025** of in [paragraaf 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&paragraaf=2.4&z=2025-12-16&g=2025-12-16) van deze regeling;
 
@@ -342,17 +367,17 @@ Projectaanvragen dienen kenbaar te zijn bij minimaal één van de provinciale st
 
 ### Hoofdstuk 3. Slotbepalingen
 
-#### Artikel 3.1. Hardheidsclausule
+##### Artikel 3.1. Hardheidsclausule
 
 Het Fonds kan afwijken van de rechten en plichten in deze regeling. Dat gebeurt alleen in het voordeel van de aanvrager en in bijzondere gevallen waarop deze regeling een onredelijke uitwerking heeft waarmee geen rekening is gehouden bij het opstellen van de regeling.
 
-#### Artikel 3.2. Inwerkingtreding en vervaldatum
+##### Artikel 3.2. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking op de dag na de datum van uitgifte van de Staatscourant waarin zij wordt gepubliceerd.
 
 2. Deze regeling vervalt met ingang van 31 december 2034. Deze regeling blijft van toepassing op subsidies die op grond van deze regeling zijn verstrekt en op bezwaar- en beroepsprocedures die op dat moment nog niet zijn afgerond.
 
-#### Artikel 3.3. Citeertitel
+##### Artikel 3.3. Citeertitel
 
 Deze regeling wordt aangehaald als:
 

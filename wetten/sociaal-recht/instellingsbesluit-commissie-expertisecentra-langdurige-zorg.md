@@ -1,20 +1,46 @@
 ---
-title: "Instellingsbesluit Commissie Expertisecentra langdurige zorg"
+title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 5 september 2019, kenmerk 1564875-193879-LZ, houdende de instelling van de Commissie Expertisecentra langdurige zorg (Instellingsbesluit Commissie Expertisecentra langdurige zorg)"
 identifier: "BWBR0042534"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-02-28
-laatste_update: 2026-02-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042534"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-02-28"
+last_updated: "2026-02-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042534"
+soort: "ministeriele-regeling"
+stam_id: "15156673"
+version_id: "25988612"
+internal_id: "C37017811"
+label_id: "15104314"
+dtd_version: "2.0"
+original_entry_into_force: "2019-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042534/2026-02-28/0"
+intitule_bron: "Stcrt.2019-50152"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-09-05"
+intitule_published: "2019-09-13"
+intitule_in_force: "2019-09-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-50152"
+original_signed_date: "2019-09-05"
+original_published_date: "2019-09-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-50152"
+entry_into_force_date: "2019-10-01"
+jci_1_3: "jci1.3:c:BWBR0042534&z=2026-02-28&g=2026-02-28"
+jci_1_0: "1.0:c:BWBR0042534&g=2026-02-28"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Commissie Expertisecentra langdurige zorg"
+signed_date: "2019-09-05"
+entry_into_force: "2019-10-01"
 ---
-
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 5 september 2019, kenmerk 1564875-193879-LZ, houdende de instelling van de Commissie Expertisecentra langdurige zorg (Instellingsbesluit Commissie Expertisecentra langdurige zorg)
 
 Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -22,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 - b. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042534&artikel=2&z=2026-02-28&g=2026-02-28).
 
-#### Artikel 2. Instelling en taak
+##### Artikel 2. Instelling en taak
 
 1. Er is een Commissie Expertisecentra langdurige zorg.
 
@@ -54,7 +80,7 @@ In dit besluit wordt verstaan onder:
 
 - h. het voeren van regie op de structurele verankering van de kwaliteitscriteria laagvolume hoogcomplexe doelgroepnetwerken in een kwaliteitsinstrument en op de borging van de nieuw ontwikkelde infrastructuur binnen het zorgstelsel. Beide dienen per 1 januari 2027 gerealiseerd te zijn.
 
-#### Artikel 3. Samenstelling, benoeming, ontslag
+##### Artikel 3. Samenstelling, benoeming, ontslag
 
 1. De commissie bestaat uit een voorzitter en vier andere leden.
 
@@ -80,11 +106,11 @@ In dit besluit wordt verstaan onder:
 
 7. De voorzitter en overige leden kunnen op eigen verzoek of wegens ongeschiktheid, onbekwaamheid of op andere zwaarwegende gronden worden geschorst en ontslagen door de minister.
 
-#### Artikel 4. Instelling
+##### Artikel 4. Instelling
 
 De commissie wordt ingesteld met ingang van 1 oktober 2019 en wordt opgeheven met ingang van 1 januari 2027.
 
-#### Artikel 5. Leden
+##### Artikel 5. Leden
 
 Met ingang van 1 januari 2025 worden tot lid van de commissie benoemd:
 
@@ -98,7 +124,7 @@ Met ingang van 1 januari 2025 worden tot lid van de commissie benoemd:
 
 - e. De heer M.B.V. Rouppe van der Voort, te Houten, tevens portefeuillehouder kwaliteit en auditing.
 
-#### Artikel 6. Programmabureau
+##### Artikel 6. Programmabureau
 
 1. De commissie wordt ondersteund door een programmabureau.
 
@@ -106,19 +132,19 @@ Met ingang van 1 januari 2025 worden tot lid van de commissie benoemd:
 
 3. In het programmabureau wordt voorzien door de minister.
 
-#### Artikel 7. Werkwijze
+##### Artikel 7. Werkwijze
 
 1. De commissie stelt in overleg met de minister haar werkwijze vast.
 
 2. De commissie kan zich door andere personen doen bijstaan voor zover dat voor de vervulling van haar taak nodig is.
 
-#### Artikel 8. Informatieplicht
+##### Artikel 8. Informatieplicht
 
 1. De commissie verstrekt aan de minister desgevraagd de door hem gewenste inlichtingen.
 
 2. De commissie is bevoegd zich voor het inwinnen van inlichtingen rechtstreeks te wenden tot personen en instellingen en hen te verzoeken die medewerking te verlenen die redelijkerwijs nodig is voor de vervulling van haar taak.
 
-#### Artikel 9. Vergoeding
+##### Artikel 9. Vergoeding
 
 1. Aan de voorzitter wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18 zoals vastgelegd in de CAO Rijk en de arbeidsduurfactor op 4/36.
 
@@ -130,7 +156,7 @@ Met ingang van 1 januari 2025 worden tot lid van de commissie benoemd:
 
 5. Aan portefeuillehouder kwaliteit en auditing wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18 zoals vastgelegd in de CAO Rijk en de arbeidsduurfactor op 3/36.
 
-#### Artikel 10. Kosten van de commissie
+##### Artikel 10. Kosten van de commissie
 
 1. De kosten van de commissie komen, voor zover goedgekeurd, voor rekening van de minister. Onder kosten worden in ieder geval verstaan:
 
@@ -140,21 +166,21 @@ Met ingang van 1 januari 2025 worden tot lid van de commissie benoemd:
 
 2. De commissie biedt zo spoedig mogelijk na haar instelling een begroting en een planning aan de minister aan.
 
-#### Artikel 11. Verantwoording
+##### Artikel 11. Verantwoording
 
 De commissie biedt de minister bij voorkeur vóór 1 december 2026, doch uiterlijk 31 december 2026 een eindverslag aan waarin verslag wordt gedaan over de activiteiten van de periode waarin de commissie werkzaam is geweest.
 
-#### Artikel 12. Archiefbescheiden
+##### Artikel 12. Archiefbescheiden
 
 De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden of, zo de omstandigheden daartoe aanleiding geven, zoveel eerder, de bescheiden betreffende die werkzaamheden over aan het archief van de Directie Langdurige Zorg van het Ministerie van Volksgezondheid, Welzijn en Sport.
 
-#### Artikel 13. Inwerkingtreding
+##### Artikel 13. Inwerkingtreding
 
 1. Dit besluit treedt in werking met ingang van 1 oktober 2019.
 
 2. Dit besluit vervalt met ingang van 1 januari 2027.
 
-#### Artikel 14. Citeertitel
+##### Artikel 14. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie Expertisecentra langdurige zorg.
 

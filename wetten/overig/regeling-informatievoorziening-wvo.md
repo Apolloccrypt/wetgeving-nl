@@ -1,13 +1,39 @@
 ---
-title: "Regeling informatievoorziening WVO"
+title: "Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 14 december 2017, nr. VO/1016970, houdende regels over het gebruik van gegevens uit het basisregister onderwijs (bron) door de Minister van Onderwijs, Cultuur en Wetenschap en de Inspectie van het onderwijs, vaststelling van de wijze van gegevenslevering in verband met het onderwijsnummer in het voortgezet onderwijs en de wijze van ordening en beschikbaarstelling van gegevens in het voortgezet onderwijs (Regeling informatievoorziening WVO)"
 identifier: "BWBR0040429"
-categorie: "Overig"
-publicatiedatum: 2025-01-25
-laatste_update: 2025-01-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040429"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-01-25"
+last_updated: "2025-01-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040429"
+soort: "ministeriele-regeling"
+stam_id: "14460923"
+version_id: "24735212"
+internal_id: "C35389911"
+label_id: "14421624"
+dtd_version: "2.0"
+original_entry_into_force: "2017-12-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040429/2025-01-25/0"
+intitule_bron: "Stcrt.2017-73735"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-12-14"
+intitule_published: "2017-12-22"
+intitule_in_force: "2017-12-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-73735"
+original_signed_date: "2017-12-14"
+original_published_date: "2017-12-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-73735"
+entry_into_force_date: "2017-12-23"
+jci_1_3: "jci1.3:c:BWBR0040429&z=2025-01-25&g=2025-01-25"
+jci_1_0: "1.0:c:BWBR0040429&g=2025-01-25"
+citeertitel_status: "officieel"
+short_title: "Regeling informatievoorziening WVO"
+signed_date: "2017-12-14"
+entry_into_force: "2017-12-23"
 ---
-
 # Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 14 december 2017, nr. VO/1016970, houdende regels over het gebruik van gegevens uit het basisregister onderwijs (bron) door de Minister van Onderwijs, Cultuur en Wetenschap en de Inspectie van het onderwijs, vaststelling van de wijze van gegevenslevering in verband met het onderwijsnummer in het voortgezet onderwijs en de wijze van ordening en beschikbaarstelling van gegevens in het voortgezet onderwijs (Regeling informatievoorziening WVO)
 
 Gelet op [artikel 2.3.6c, vierde lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.3.6c), [artikel 164a, derde lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=164), de [artikelen 58, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=58), [103b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=103b), en [103d, vierde lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=103d) en de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008948&artikel=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008948&artikel=4) en [4e van het Besluit informatievoorziening WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0008948&artikel=4e);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Algemeen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -40,89 +66,89 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Gebruik gegevens uit het basisregister onderwijs
 
-#### Artikel 2. Reikwijdte
+##### Artikel 2. Reikwijdte
 
 Vervallen
 
-#### Artikel 3. Te verstrekken gegevens
+##### Artikel 3. Te verstrekken gegevens
 
 Vervallen
 
-#### Artikel 4. Wijze van verstrekking
+##### Artikel 4. Wijze van verstrekking
 
 Vervallen
 
-#### Artikel 5. Tijdstippen van verstrekking gegevens met betrekking tot bepaalde perioden
+##### Artikel 5. Tijdstippen van verstrekking gegevens met betrekking tot bepaalde perioden
 
 Vervallen
 
 #### § 3. Levering inschrijvings- en examengegevens van vo-leerlingen
 
-#### Artikel 6. Reikwijdte
+##### Artikel 6. Reikwijdte
 
 Vervallen
 
-#### Artikel 7. Specificatie van inschrijvingsgegevens
+##### Artikel 7. Specificatie van inschrijvingsgegevens
 
 Vervallen
 
-#### Artikel 8. Specificatie van examengegevens
+##### Artikel 8. Specificatie van examengegevens
 
 Vervallen
 
-#### Artikel 9. Wijze van levering
+##### Artikel 9. Wijze van levering
 
 Vervallen
 
-#### Artikel 10. Melding inschrijvingsgegevens
+##### Artikel 10. Melding inschrijvingsgegevens
 
 Vervallen
 
-#### Artikel 11. Melding examengegevens
+##### Artikel 11. Melding examengegevens
 
 Vervallen
 
-#### Artikel 12. Terugmelding inschrijvingsgegevens
+##### Artikel 12. Terugmelding inschrijvingsgegevens
 
 Vervallen
 
-#### Artikel 13. Terugmelding examengegevens
+##### Artikel 13. Terugmelding examengegevens
 
 Vervallen
 
-#### Artikel 14. Technische specificaties
+##### Artikel 14. Technische specificaties
 
 Vervallen
 
 #### § 4. Levering organisatie- en personeelsgegevens
 
-#### Artikel 15. Reikwijdte
+##### Artikel 15. Reikwijdte
 
 Deze paragraaf berust op de [artikelen 2.68](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.68), [2.69](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.69) en [6.23 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.23).
 
-#### Artikel 16. Gegevens
+##### Artikel 16. Gegevens
 
 De opsomming van door een school te verzamelen gegevens als bedoeld in de [artikelen 2.68](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.68) en [6.23 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.23) is opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2025-01-25&g=2025-01-25).
 
-#### Artikel 17. Wijze van beschikbaarstelling van de gegevens
+##### Artikel 17. Wijze van beschikbaarstelling van de gegevens
 
 Het bevoegd gezag levert de gegevens, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=4&artikel=16&z=2025-01-25&g=2025-01-25), op de wijze zoals beschreven in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=5&z=2025-01-25&g=2025-01-25).
 
 #### § 5. Slotbepalingen
 
-#### Artikel 18. Wijziging [Regeling gebruik gegevens bron](https://wetten.overheid.nl/jci1.3:c:BWBR0027566)
+##### Artikel 18. Wijziging [Regeling gebruik gegevens bron](https://wetten.overheid.nl/jci1.3:c:BWBR0027566)
 
 Wijzigt de Regeling gebruik gegevens bron.
 
-#### Artikel 19
+##### Artikel 19
 
 De [Regeling gegevenslevering onderwijsnummer VO](https://wetten.overheid.nl/jci1.3:c:BWBR0015232) wordt ingetrokken.
 
-#### Artikel 20. Inwerkingtreding
+##### Artikel 20. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 augustus 2017.
 
-#### Artikel 21. Citeertitel
+##### Artikel 21. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling informatievoorziening WVO.
 
@@ -468,7 +494,7 @@ De bevoegde gezagsorganen dragen zorg voor de aanlevering van de genoemde person
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 19a. Omhang
+##### Artikel 19a. Omhang
 
 Deze regeling is gebaseerd op de [artikelen 2.68, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.68), en [6.23, tweede en derde lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.23).
 

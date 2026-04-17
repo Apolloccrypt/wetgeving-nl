@@ -1,20 +1,45 @@
 ---
 title: "Regeling seinen luchtvaart BES"
 identifier: "BWBR0028697"
-categorie: "Milieu"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028697"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028697"
+soort: "ministeriele-regeling-BES"
+stam_id: "10935943"
+version_id: "17921552"
+internal_id: "C24849301"
+label_id: "10910614"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028697/2010-10-10/0"
+intitule_bron: "Stcrt.2010-14838"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-21"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-14838"
+original_signed_date: "2010-09-21"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-14838"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028697&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028697&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-21"
+entry_into_force: "2010-10-10"
 ---
-
 # Regeling seinen luchtvaart BES
 
 Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 06.00 uur in het Europese deel van het Koninkrijk.
 
 ### Hoofdstuk 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -30,7 +55,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Nood- en spoedseinen
 
-#### Artikel 2
+##### Artikel 2
 
 - 1. Een luchtvaartuig dat zich in ernstig en onmiddellijk gevaar bevindt en dringend hulp behoeft, geeft gezamenlijk of afzonderlijk de volgende noodseinen:
 
@@ -46,7 +71,7 @@ In deze regeling wordt verstaan onder:
 
 - 2. Indien het gebruik van één der in het eerste lid genoemde seinen niet mogelijk is, kan een in nood verkerend luchtvaartuig andere seinen gebruiken om de aandacht te trekken, zijn positie kenbaar te maken of hulp te verkrijgen.
 
-#### Artikel 3
+##### Artikel 3
 
 Een luchtvaartuig dat moeilijkheden heeft waardoor het gedwongen wordt te landen zonder dat onmiddellijke hulp nodig is, geeft de volgende spoedseinen, gezamenlijk of afzonderlijk:
 
@@ -54,7 +79,7 @@ Een luchtvaartuig dat moeilijkheden heeft waardoor het gedwongen wordt te landen
 
 - b. het herhaaldelijk in- en uitschakelen van de navigatielichten op zodanige wijze dat er verschil bestaat met knipperende navigatielichten.
 
-#### Artikel 4
+##### Artikel 4
 
 Een luchtvaartuig dat een zeer dringend bericht heeft over te brengen betreffende de veiligheid van een luchtvaartuig, vaartuig of voertuig dan wel over de veiligheid van één of meer personen aan boord of in zicht, geeft de volgende spoedseinen, gezamenlijk of afzonderlijk:
 
@@ -66,15 +91,15 @@ Een luchtvaartuig dat een zeer dringend bericht heeft over te brengen betreffend
 
 ### Hoofdstuk 3. zoek- en reddingsseinen; seinen bij onderschepping
 
-#### Artikel 5
+##### Artikel 5
 
 Ten behoeve van zoek- en reddingsacties worden door de desbetreffende luchtvaartuigen, reddingsvoertuigen, reddingseenheden en overlevenden de seinen gebruikt als in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028697&bijlage=1&z=2010-10-10&g=2010-10-10) is aangegeven. In deze bijlage is tevens aangegeven hoe overeenkomstig deze seinen moet worden gehandeld.
 
-#### Artikel 6
+##### Artikel 6
 
 Bij onderschepping van een luchtvaartuig worden door het onderscheppende en het onderschepte luchtvaartuig de seinen gebruikt als in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028697&bijlage=2&z=2010-10-10&g=2010-10-10) is aangegeven.
 
-#### Artikel 7
+##### Artikel 7
 
 - 1. Luchtvaartuigen die zonder toestemming in of bijna in een beperkt, verboden of gevaarlijk gebied vliegen, worden bij dag en bij nacht gewaarschuwd door het met tussenpozen van 10 seconden vanaf de grond afvuren van een serie projectielen, die bij het springen rode en groene lichten of sterren vertonen.
 
@@ -82,7 +107,7 @@ Bij onderschepping van een luchtvaartuig worden door het onderscheppende en het 
 
 ### Hoofdstuk 4. Seinen voor het luchtvaartterreinverkeer
 
-#### Artikel 8
+##### Artikel 8
 
 - 1. De volgende lichtseinen van een plaatselijke luchtverkeersleidingsdienst aan luchtvaartuigen hebben de daarachter vermelde betekenis:
 
@@ -109,11 +134,11 @@ Bij onderschepping van een luchtvaartuig worden door het onderscheppende en het 
 
 - –. bij nacht: door het tweemaal in- en uitschakelen van de landingslichten of, bij het ontbreken daarvan, het tweemaal uit- en inschakelen van de navigatielichten.
 
-#### Artikel 9
+##### Artikel 9
 
 Op een luchtvaartterrein worden de in de bij deze regelingbehorende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028697&bijlage=3&z=2010-10-10&g=2010-10-10) opgenomen grondseinen met de daarachter vermelde betekenis gebruikt.
 
-#### Artikel 10
+##### Artikel 10
 
 - 1. De seinen, opgenomen in de bij deze regeling behorende [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028697&bijlage=4&z=2010-10-10&g=2010-10-10), worden gegeven met de hand, zo nodig voorzien van een middel ter verduidelijking of verlichting, waarbij de seiner zich heeft opgesteld met zijn gezicht gewend naar het luchtvaartuig op een plaats
 
@@ -125,7 +150,7 @@ Op een luchtvaartterrein worden de in de bij deze regelingbehorende [bijlage 3](
 
 - 3. De betekenis van de seinen blijft gelijk wanneer de seiner borden, verlichte stokken of lantaarns gebruikt.
 
-#### Artikel 11
+##### Artikel 11
 
 De volgende seinen worden gegeven door de bestuurder van een luchtvaartuig vanuit de cockpit, met zijn handen duidelijk zichtbaar voor de seiner, waarbij de handen zo nodig verlicht worden:
 
@@ -141,11 +166,11 @@ De volgende seinen worden gegeven door de bestuurder van een luchtvaartuig vanui
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 12
+##### Artikel 12
 
 Deze regeling wordt aangehaald als: Regeling seinen luchtvaart BES.
 
-#### Artikel 13
+##### Artikel 13
 
 Deze regeling berust op [artikel 105, tweede lid, van het Besluit luchtverkeer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028639&artikel=105).
 

@@ -1,13 +1,38 @@
 ---
 title: "Circulaire Huurprijsbeleid periode 1 juli 2006 tot 1 januari 2007"
 identifier: "BWBR0019760"
-categorie: "Bestuursrecht"
-publicatiedatum: 2006-07-01
-laatste_update: 2006-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019760"
+country: "nl"
+rank: "circulaire"
+publication_date: "2006-07-01"
+last_updated: "2006-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019760"
+soort: "circulaire"
+stam_id: "8243193"
+version_id: "13047192"
+internal_id: "C17580271"
+label_id: "8224554"
+dtd_version: "2.0"
+original_entry_into_force: "2006-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019760/2006-07-01/0"
+intitule_bron: "Stcrt.2006-80"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-04-13"
+intitule_published: "2006-04-25"
+intitule_in_force: "2006-04-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-80"
+original_signed_date: "2006-04-13"
+original_published_date: "2006-04-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-80-p29-SC74728"
+entry_into_force_date: "2006-07-01"
+jci_1_3: "jci1.3:c:BWBR0019760&z=2006-07-01&g=2006-07-01"
+jci_1_0: "1.0:c:BWBR0019760&g=2006-07-01"
+citeertitel_status: "redactioneel"
+signed_date: "2006-04-13"
+entry_into_force: "2006-07-01"
 ---
-
 # Circulaire Huurprijsbeleid periode 1 juli 2006 tot 1 januari 2007
 
 Geacht college, geacht bestuur,

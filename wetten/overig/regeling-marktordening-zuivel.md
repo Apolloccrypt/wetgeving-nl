@@ -1,13 +1,39 @@
 ---
-title: "Regeling marktordening zuivel"
+title: "Regeling van de Staatssecretaris van Economische Zaken van 2 december 2013, nr. WJZ/13199378, houdende de uitvoering van de Europese marktordening voor zuivel (Regeling marktordening zuivel)"
 identifier: "BWBR0034303"
-categorie: "Overig"
-publicatiedatum: 2021-10-01
-laatste_update: 2021-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034303"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-10-01"
+last_updated: "2021-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034303"
+soort: "ministeriele-regeling"
+stam_id: "12452793"
+version_id: "20936592"
+internal_id: "C30055641"
+label_id: "12423654"
+dtd_version: "2.0"
+original_entry_into_force: "2014-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034303/2021-10-01/0"
+intitule_bron: "Stcrt.2013-34150"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-12-02"
+intitule_published: "2013-12-10"
+intitule_in_force: "2013-12-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-34150"
+original_signed_date: "2013-12-02"
+original_published_date: "2013-12-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-34150"
+entry_into_force_date: "2014-01-01"
+jci_1_3: "jci1.3:c:BWBR0034303&z=2021-10-01&g=2021-10-01"
+jci_1_0: "1.0:c:BWBR0034303&g=2021-10-01"
+citeertitel_status: "officieel"
+short_title: "Regeling marktordening zuivel"
+signed_date: "2013-12-02"
+entry_into_force: "2014-01-01"
 ---
-
 # Regeling van de Staatssecretaris van Economische Zaken van 2 december 2013, nr. WJZ/13199378, houdende de uitvoering van de Europese marktordening voor zuivel (Regeling marktordening zuivel)
 
 Gelet op de artikelen 122, eerste lid, onderdeel a, onder iii bis, 126 bis tot en met 126 sexies en 185 septies van Verordening (EU) nr. 1234/2007 houdende een gemeenschappelijke ordening van de landbouwmarkten en specifieke bepalingen voor een aantal landbouwproducten (‘integrale-GMO-verordening’) (PbEU 2007, L 299);
@@ -22,7 +48,7 @@ Besluit:
 
 ### Hoofdstuk 1. Definities en verwijzingen
 
-#### Artikel 1:1
+##### Artikel 1:1
 
 In deze regeling wordt verstaan onder:
 
@@ -40,47 +66,47 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Verplichte melding hoeveelheden rauwe melk
 
-#### Artikel 2:1
+##### Artikel 2:1
 
 De minister is de bevoegde nationale autoriteit, bedoeld in artikel 151 van Verordening 1308/2013.
 
-#### Artikel 2:2
+##### Artikel 2:2
 
 Vervallen
 
-#### Artikel 2:3
+##### Artikel 2:3
 
 Vervallen
 
-#### Artikel 2:4
+##### Artikel 2:4
 
 Vervallen
 
-#### Artikel 2:5
+##### Artikel 2:5
 
 Vervallen
 
-#### Artikel 2:6
+##### Artikel 2:6
 
 Vervallen
 
 ### Hoofdstuk 3. Schoolmelk
 
-#### Artikel 3:1
+##### Artikel 3:1
 
 Vervallen
 
-#### Artikel 3:2
+##### Artikel 3:2
 
 Vervallen
 
-#### Artikel 3:3
+##### Artikel 3:3
 
 Vervallen
 
 ### Hoofdstuk 4. Overgangsrecht
 
-#### Artikel 4:1
+##### Artikel 4:1
 
 Erkenningen die door het Productschap Zuivel zijn verleend:
 
@@ -92,15 +118,15 @@ Erkenningen die door het Productschap Zuivel zijn verleend:
 
 en die van toepassing waren op 31 december 2013, worden met ingang van 1 januari 2014 geacht door de minister te zijn genomen op grond van deze regeling.
 
-#### Artikel 4:2
+##### Artikel 4:2
 
 Archiefbescheiden van het Productschap Zuivel betreffende zaken die na 1 januari 2014 op basis van deze regeling worden behartigd door de minister, worden overgedragen aan de minister voor zover zij niet overeenkomstig de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) zijn overgebracht naar een archiefbewaarplaats.
 
-#### Artikel 4:3
+##### Artikel 4:3
 
 Deze regeling wordt aangehaald als: Regeling marktordening zuivel.
 
-#### Artikel 4:4
+##### Artikel 4:4
 
 Deze regeling treedt in werking op 1 januari 2014.
 

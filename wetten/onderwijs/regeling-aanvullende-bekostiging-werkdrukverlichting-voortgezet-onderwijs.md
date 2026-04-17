@@ -1,13 +1,39 @@
 ---
-title: "Regeling aanvullende bekostiging werkdrukverlichting voortgezet onderwijs"
+title: "Regeling van de Minister voor Primair en Voortgezet Onderwijs van 26 januari 2023 nr. VO/F/34146542, tot regeling van een aanvullende bekostiging ten behoeve van werkdrukverlichting in het voortgezet onderwijs (Regeling aanvullende bekostiging werkdrukverlichting voortgezet onderwijs)"
 identifier: "BWBR0047854"
-categorie: "Onderwijs"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047854"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047854"
+soort: "ministeriele-regeling"
+stam_id: "16667353"
+version_id: "29234322"
+internal_id: "C41532421"
+label_id: "16585194"
+dtd_version: "2.0"
+original_entry_into_force: "2023-02-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047854/2026-01-01/0"
+intitule_bron: "Stcrt.2023-4206"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-01-26"
+intitule_published: "2023-02-07"
+intitule_in_force: "2023-02-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-4206"
+original_signed_date: "2023-01-26"
+original_published_date: "2023-02-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-4206"
+entry_into_force_date: "2023-02-08"
+jci_1_3: "jci1.3:c:BWBR0047854&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0047854&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling aanvullende bekostiging werkdrukverlichting voortgezet onderwijs"
+signed_date: "2023-01-26"
+entry_into_force: "2023-02-08"
 ---
-
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 26 januari 2023 nr. VO/F/34146542, tot regeling van een aanvullende bekostiging ten behoeve van werkdrukverlichting in het voortgezet onderwijs (Regeling aanvullende bekostiging werkdrukverlichting voortgezet onderwijs)
 
 Gelet op [artikel 5.9, eerste lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.9) en [artikel 2.2.3, eerste lid, van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=2.2.3);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -30,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 - **minister:** Minister van Onderwijs, Cultuur en Wetenschap.
 
-#### Artikel 2. Doel van de aanvullende bekostiging
+##### Artikel 2. Doel van de aanvullende bekostiging
 
 De Minister verstrekt aanvullende bekostiging aan het bevoegd gezag voor werkdrukverlichting in het voortgezet onderwijs. De aanvullende bekostiging wordt in gelijke mate verstrekt voor:
 
@@ -38,7 +64,7 @@ De Minister verstrekt aanvullende bekostiging aan het bevoegd gezag voor werkdru
 
 - b. de uitvoering van een collectief beleid voor werkdrukverlichting.
 
-#### Artikel 3. Hoogte en berekeningswijze
+##### Artikel 3. Hoogte en berekeningswijze
 
 1. De aanvullende bekostiging bestaat uit een bedrag per leerling.
 
@@ -60,7 +86,7 @@ De Minister verstrekt aanvullende bekostiging aan het bevoegd gezag voor werkdru
 
 5. De aanvullende bekostiging bedraagt in het openbaar lichaam Sint Eustatius of Saba: USD 664,34 per leerling.
 
-#### Artikel 4. Vaststelling en betaling
+##### Artikel 4. Vaststelling en betaling
 
 1. De Minister stelt de aanvullende bekostiging uiterlijk in de maand mei van het jaar waarop de bekostiging betrekking heeft vast.
 
@@ -68,7 +94,7 @@ De Minister verstrekt aanvullende bekostiging aan het bevoegd gezag voor werkdru
 
 3. De Minister stelt de aanvullende bekostiging uiterlijk in de maand december van het jaar waarop de bekostiging betrekking heeft gewijzigd vast op basis van het door de accountant gevalideerde aantal leerlingen dat op 1 oktober van het voorafgaande kalenderjaar stond ingeschreven bij de school en de kabinetsbijdrage voor loon- en prijsbijstelling voor dat jaar.
 
-#### Artikel 5. Besteding en verantwoording
+##### Artikel 5. Besteding en verantwoording
 
 1. Het bevoegd gezag verantwoordt de besteding van de aanvullende bekostiging in de jaarverslaggeving overeenkomstig de [Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132) of de [Regeling jaarverslaggeving onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0031801).
 
@@ -78,17 +104,17 @@ De Minister verstrekt aanvullende bekostiging aan het bevoegd gezag voor werkdru
 
 4. Het bevoegd gezag kan het niet aangewende deel van de aanvullende bekostiging ook besteden aan andere activiteiten waarvoor bekostiging wordt verstrekt.
 
-#### Artikel 6. Monitoring
+##### Artikel 6. Monitoring
 
 1. De Minister monitort en evalueert de effecten van deze regeling.
 
 2. Het bevoegd gezag werkt mee aan de monitoring en evaluatie van deze regeling.
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2023.
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling aanvullende bekostiging werkdrukverlichting voortgezet onderwijs.
 

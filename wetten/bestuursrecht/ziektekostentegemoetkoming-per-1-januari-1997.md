@@ -1,13 +1,37 @@
 ---
 title: "Ziektekostentegemoetkoming per 1 januari 1997"
 identifier: "BWBR0008654"
-categorie: "Bestuursrecht"
-publicatiedatum: 1997-01-01
-laatste_update: 1997-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008654"
+country: "nl"
+rank: "circulaire"
+publication_date: "1997-01-01"
+last_updated: "1997-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008654"
+soort: "circulaire"
+stam_id: "6332573"
+version_id: "10985852"
+internal_id: "C14877201"
+label_id: "6321514"
+original_entry_into_force: "1997-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008654/1997-01-01/0"
+intitule_bron: "Stcrt.1997-82"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-04-23"
+intitule_published: "1997-04-29"
+intitule_in_force: "1997-04-29"
+intitule_status: "goed"
+original_publication: "Stcrt.1997-82"
+original_signed_date: "1997-04-23"
+original_published_date: "1997-04-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1997-82-p14-SC9206"
+entry_into_force_date: "1997-01-01"
+jci_1_3: "jci1.3:c:BWBR0008654&z=1997-01-01&g=1997-01-01"
+jci_1_0: "1.0:c:BWBR0008654&g=1997-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "1997-04-23"
+entry_into_force: "1997-01-01"
 ---
-
 # Ziektekostentegemoetkoming per 1 januari 1997
 
 «Circulaire aan de Ministers»

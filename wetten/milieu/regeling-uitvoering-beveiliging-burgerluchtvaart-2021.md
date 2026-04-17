@@ -1,13 +1,39 @@
 ---
-title: "Regeling uitvoering beveiliging burgerluchtvaart 2021"
+title: "Regeling van 21 juni 2021, nr. 3366642 houdende voorschriften voor de uitvoering van de controle van personen, bagage en vracht op luchtvaartterreinen (Regeling uitvoering beveiliging burgerluchtvaart 2021)"
 identifier: "BWBR0045371"
-categorie: "Milieu"
-publicatiedatum: 2026-04-01
-laatste_update: 2026-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045371"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-04-01"
+last_updated: "2026-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045371"
+soort: "ministeriele-regeling"
+stam_id: "16017223"
+version_id: "27880002"
+internal_id: "C39374281"
+label_id: "15950794"
+dtd_version: "2.0"
+original_entry_into_force: "2022-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045371/2026-04-01/0"
+intitule_bron: "Stcrt.2021-34011"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-06-21"
+intitule_published: "2021-07-08"
+intitule_in_force: "2021-07-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-34011"
+original_signed_date: "2021-06-21"
+original_published_date: "2021-07-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-34011"
+entry_into_force_date: "2022-01-01"
+jci_1_3: "jci1.3:c:BWBR0045371&z=2026-04-01&g=2026-04-01"
+jci_1_0: "1.0:c:BWBR0045371&g=2026-04-01"
+citeertitel_status: "officieel"
+short_title: "Regeling uitvoering beveiliging burgerluchtvaart 2021"
+signed_date: "2021-06-21"
+entry_into_force: "2022-01-01"
 ---
-
 # Regeling van 21 juni 2021, nr. 3366642 houdende voorschriften voor de uitvoering van de controle van personen, bagage en vracht op luchtvaartterreinen (Regeling uitvoering beveiliging burgerluchtvaart 2021)
 
 Gelet op de [artikelen 37a, tweede lid, onder h, sub 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37a), [37abd](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37abd), [37aca, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37aca), [37acb, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37acb), [37ae, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37ae), [37h, eerste lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37h), [37hb, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37hb), [37j, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37j), [37o, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37o), [37ra, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37ra), [37rc, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37rc), [37rd, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37rd), [37re, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37re), [37u, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37u), en [37v, tweede lid, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37v), de [artikelen 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014397&artikel=15), [17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014397&artikel=17), [21, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014397&artikel=21), en [22, zesde lid, van het Besluit beveiliging burgerluchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0014397&artikel=22) en de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=33) en [36 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=36);
@@ -18,7 +44,7 @@ Treedt in werking op het tijdstip waarop het Uitvoeringsbesluit EG-verordening 3
 
 #### § 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze regeling wordt verstaan onder:
 
@@ -32,17 +58,17 @@ Treedt in werking op het tijdstip waarop het Uitvoeringsbesluit EG-verordening 3
 
 - e. **wet:** de [Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267).
 
-#### Artikel 2
+##### Artikel 2
 
 Op de luchtvaartterreinen Amsterdam Airport Schiphol, Rotterdam The Hague Airport, Groningen Airport Eelde en Maastricht Aachen Airport en op het militaire luchtvaartterrein Eindhoven Airport, voor zover het de burgerluchtvaart betreft, worden als beveiligingspersoneel als bedoeld in [artikel 37a, tweede lid, onder h, sub 2, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37a) aangewezen de militairen van de Koninklijke marechaussee.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De exploitant van een luchtvaartterrein legt het beveiligingsprogramma, bedoeld in [artikel 37aba van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37aba), door tussenkomst van de commandant van de Koninklijke marechaussee over aan de Minister van Justitie en Veiligheid.
 
 2. Met het oog op de instemming door de Minister van Justitie en Veiligheid in overeenstemming met de Minister van Infrastructuur en Waterstaat adviseert de commandant van de Koninklijke marechaussee de Minister van Justitie en Veiligheid over het beveiligingsprogramma.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De luchtvaartmaatschappij legt het beveiligingsprogramma, bedoeld in [artikel 37abb van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37abb), door tussenkomst van de commandant van de Koninklijke marechaussee over aan de Minister van Justitie en Veiligheid.
 
@@ -50,7 +76,7 @@ Op de luchtvaartterreinen Amsterdam Airport Schiphol, Rotterdam The Hague Airpor
 
 3. Met het oog op de instemming door de Minister van Justitie en Veiligheid in overeenstemming met de Minister van Infrastructuur en Waterstaat adviseert de commandant van de Koninklijke marechaussee de Minister van Justitie en Veiligheid over het beveiligingsprogramma.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De aanvraag om instemming van de ingebruikname van detectieapparatuur, bedoeld in [artikel 37aca van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37aca), wordt door de exploitant van een luchtvaartterrein, de luchtvaartmaatschappij of de entiteit door tussenkomst van de commandant van de Koninklijke marechaussee ingediend bij de Minister van Justitie en Veiligheid.
 
@@ -58,11 +84,11 @@ Op de luchtvaartterreinen Amsterdam Airport Schiphol, Rotterdam The Hague Airpor
 
 #### § 2. Passagiers en bagage
 
-#### Artikel 6
+##### Artikel 6
 
 Een beveiligingsonderzoek als bedoeld in [artikel 37h, eerste lid, onder c en d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37h) wordt verricht indien bij een verhoogde dreiging op grond van een risicoanalyse de Minister van Justitie en Veiligheid daartoe beslist.
 
-#### Artikel 7
+##### Artikel 7
 
 Verboden voorwerpen als bedoeld in [artikel 37hb, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37hb) kunnen slechts aan boord van een luchtvaartuig worden gebracht indien:
 
@@ -74,13 +100,13 @@ Verboden voorwerpen als bedoeld in [artikel 37hb, onder b, van de wet](https://w
 
 #### § 3. Vracht en post
 
-#### Artikel 8
+##### Artikel 8
 
 Verboden voorwerpen als bedoeld in [artikel 37j, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37j) kunnen slechts aan boord van een luchtvaartuig worden gebracht indien deze goederen zodanig zijn verpakt dat onmiddellijk gebruik onmogelijk is.
 
 #### § 4. Erkenningen
 
-#### Artikel 9
+##### Artikel 9
 
 De aanvraag voor een erkenning van een entiteit als bedoeld in [artikel 37o, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37o) geschiedt langs elektronische weg door middel van een door de commandant van de Koninklijke marechaussee ter beschikking gesteld aanmeldformulier en een vastgesteld gestandaardiseerd model voor het beveiligingsprogramma.
 
@@ -88,7 +114,7 @@ De aanvraag voor een erkenning van een entiteit als bedoeld in [artikel 37o, eer
 
 #### § 5.1. Eisen aan het opleidingsprogramma van een beveiligingsopleiding
 
-#### Artikel 10
+##### Artikel 10
 
 1. De gehanteerde didactische methoden of opleidingsvormen, bedoeld in [artikel 15, tweede lid, onder f, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014397&artikel=15) dragen bij aan het redelijkerwijs met goed gevolg behalen van de eindtermen van een lesonderdeel.
 
@@ -98,7 +124,7 @@ De aanvraag voor een erkenning van een entiteit als bedoeld in [artikel 37o, eer
 
 4. Bij de aanvraag om instemming van het opleidingsprogramma wordt bij de beschrijving van een beeldherkenningstraining inzicht gegeven in de technische kenmerken van de programmatuur die daarbij wordt gebruikt.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Het opleidingsprogramma bevat voor zover het geen opleiding betreft ten aanzien van taken die op grond van [EU-verordening 2015/1998](31998R2015) slechts mogen worden uitgevoerd door gecertificeerd personeel een examenreglement als bedoeld in [artikel 15, tweede lid, onder e, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014397&artikel=15) waarin in ieder geval is opgenomen:
 
@@ -116,7 +142,7 @@ De aanvraag voor een erkenning van een entiteit als bedoeld in [artikel 37o, eer
 
 2. De kandidaat die met goed gevolg examen heeft gedaan in alle modules van een opleiding ontvangt als bewijs daarvan een diploma.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De aanvraag om instemming met het opleidingsprogramma, bedoeld in [artikel 37rc van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37rc), wordt door tussenkomst van de commandant van de Koninklijke marechaussee ingediend bij de Minister van Justitie en Veiligheid.
 
@@ -142,11 +168,11 @@ De aanvraag voor een erkenning van een entiteit als bedoeld in [artikel 37o, eer
 
 #### § 5.2. Eisen aan de organisatie van de opleidingsinstelling
 
-#### Artikel 13
+##### Artikel 13
 
 De opleidingsinstelling verzorgt, al dan niet in samenwerking met een andere opleidingsinstelling die beschikt over een door de Minister van Justitie en Veiligheid overeenkomstig [artikel 37rc van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37rc) goedgekeurd opleidingsprogramma, ten minste eens in het half jaar een herhalingsopleiding als bedoeld in [artikel 37ra, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37ra).
 
-#### Artikel 14
+##### Artikel 14
 
 Het programma ten aanzien van de interne kwaliteitscontrole, bedoeld in [artikel 17, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014397&artikel=17), omvat in ieder geval:
 
@@ -162,7 +188,7 @@ Het programma ten aanzien van de interne kwaliteitscontrole, bedoeld in [artikel
 
 #### § 5.3. Gecertificeerde instructeurs en gecertificeerd personeel
 
-#### Artikel 15
+##### Artikel 15
 
 Bij de aanvraag tot erkenning als instructeur, bedoeld in [artikel 37re van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37re) en [artikel 21 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014397&artikel=21), worden in ieder geval de volgende gegevens en bescheiden overgelegd:
 
@@ -170,7 +196,7 @@ Bij de aanvraag tot erkenning als instructeur, bedoeld in [artikel 37re van de w
 
 - b. een bewijs waaruit blijkt dat hij bekwaam is in de Nederlandse en Engels taal instructie te geven.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De procedure om de bekwaamheid van personen als bedoeld in [artikel 37rd van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37rd) vast te stellen, omvat in ieder geval een door de Minister van Justitie en Veiligheid vastgestelde:
 
@@ -182,7 +208,7 @@ Bij de aanvraag tot erkenning als instructeur, bedoeld in [artikel 37re van de w
 
 2. De kandidaat die met goed gevolg de in het eerste lid bedoelde procedure heeft doorlopen, ontvangt als bewijs daarvan een certificaat.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De taken en bevoegdheden van de Minister van Justitie en Veiligheid, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=6), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=8), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=13), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=17), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=19), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=31), [31b](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=31b), [31c](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=31c), [33, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=33), [34, eerste, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=34), [34c](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=34c) en [35 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=35) worden uitgevoerd door de commandant van de Koninklijke marechaussee voor zover het de erkenningen, bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014397&artikel=21), en [22, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014397&artikel=22) betreft.
 
@@ -204,7 +230,7 @@ Bij de aanvraag tot erkenning als instructeur, bedoeld in [artikel 37re van de w
 
 #### § 5.4. Explosievenspeurhonden
 
-#### Artikel 18
+##### Artikel 18
 
 1. De aanvraag om instemming van de ingebruikname van explosievenspeurhonden, bedoeld in [artikel 37acb van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37acb), wordt door de exploitant van een luchtvaartterrein, de luchtvaartmaatschappij of de entiteit door tussenkomst van de commandant van de Koninklijke marechaussee ingediend bij de Minister van Justitie en Veiligheid.
 
@@ -216,7 +242,7 @@ Bij de aanvraag tot erkenning als instructeur, bedoeld in [artikel 37re van de w
 
 3. Met het oog op de instemming door de Minister van Justitie en Veiligheid adviseert de commandant van de Koninklijke marechaussee de Minister van Justitie en Veiligheid over de ingebruikname van de explosievenspeurhonden.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Voor het in behandeling nemen van een aanvraag om instemming met de ingebruikname van explosievenspeurhonden EDD-team REST bedraagt de vergoeding van kosten, bedoeld in [artikel 37acb, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37acb):
 
@@ -236,7 +262,7 @@ Bij de aanvraag tot erkenning als instructeur, bedoeld in [artikel 37re van de w
 
 #### § 6. Mandaten
 
-#### Artikel 20
+##### Artikel 20
 
 1. De Minister van Justitie en Veiligheid verleent mandaat en machtiging voor de uitoefening van de volgende bevoegdheden en het verrichten van daarbij behorende overige handelingen aan de commandant van de Koninklijke marechaussee:
 
@@ -254,7 +280,7 @@ Bij de aanvraag tot erkenning als instructeur, bedoeld in [artikel 37re van de w
 
 #### § 6. Mandaten
 
-#### Artikel 21
+##### Artikel 21
 
 Ingetrokken worden:
 
@@ -272,17 +298,17 @@ Ingetrokken worden:
 
 - g. de [Regeling uitvoering beveiliging burgerluchtvaart 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0028839).
 
-#### Artikel 22
+##### Artikel 22
 
 Deze regeling wordt aangehaald als: Regeling uitvoering beveiliging burgerluchtvaart 2021.
 
-#### Artikel 23
+##### Artikel 23
 
 Deze regeling treedt in werking met ingang van de dag waarop het [Uitvoeringsbesluit EG-verordening 300/2008](https://wetten.overheid.nl/jci1.3:c:BWBR0044668) in werking treedt.
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 9a
+##### Artikel 9a
 
 Een erkenning als erkend agent wordt slechts verleend, indien de aanvrager:
 
@@ -294,7 +320,7 @@ Een erkenning als erkend agent wordt slechts verleend, indien de aanvrager:
 
 - d. het beveiligingsprogramma, bedoeld in [artikel 37abc, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37abc) opeen gestandaardiseerd modelformulier heeft beschreven en wat de Minister van Justitie en Veiligheid positief heeft beoordeeld.
 
-#### Artikel 9b
+##### Artikel 9b
 
 De aanvraag voor een erkenning als erkend agent kan worden afgewezen, indien na onderzoek naar de betrouwbaarheid van personen werkzaam voor de aanvrager van een erkenning, als bedoeld in [artikel 37q van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37q), uit omstandigheden of feiten redelijkerwijs kan worden aangenomen dat de veiligheid en de betrouwbaarheid niet is geborgd.
 
@@ -308,7 +334,7 @@ De aanvraag voor een erkenning als erkend agent kan worden afgewezen, indien na 
 
 #### § 5.4. Explosievenspeurhonden
 
-#### Artikel 20a
+##### Artikel 20a
 
 De Minister van Justitie en Veiligheid verleent mandaat en machtiging voor het erkennen van personeel, bedoeld in [artikel 37rd, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37rd) en het verrichten van daarbij behorende overige handelingen aan de instelling die in het kader van de certificering een door de Minister van Justitie en Veiligheid goedgekeurde theorie-, praktijk- of beeldinterpretatie-examen uitvoert.
 

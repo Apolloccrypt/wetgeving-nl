@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel binnenvaart 2013"
+title: "Beleidsregel van de Minister van Infrastructuur en Milieu en de voorzitter van de commissie van deskundigen van 14 oktober 2013, nr. ILT-2013/39422 betreffende een nadere invulling van de technische eisen die gelden in het kader van de afgifte van certificaten van onderzoek voor binnenvaartschepen op grond van de Binnenvaartwet (Beleidsregel Binnenvaart 2013)"
 identifier: "BWBR0034079"
-categorie: "Bestuursrecht"
-publicatiedatum: 2018-02-02
-laatste_update: 2018-02-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034079"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2018-02-02"
+last_updated: "2018-02-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034079"
+soort: "beleidsregel"
+stam_id: "12407753"
+version_id: "20828922"
+internal_id: "C29910391"
+label_id: "12378994"
+dtd_version: "2.0"
+original_entry_into_force: "2013-10-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034079/2018-02-02/0"
+intitule_bron: "Stcrt.2013-29915"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-10-14"
+intitule_published: "2013-10-28"
+intitule_in_force: "2013-10-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-29915"
+original_signed_date: "2013-10-14"
+original_published_date: "2013-10-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-29915"
+entry_into_force_date: "2013-10-29"
+jci_1_3: "jci1.3:c:BWBR0034079&z=2018-02-02&g=2018-02-02"
+jci_1_0: "1.0:c:BWBR0034079&g=2018-02-02"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel binnenvaart 2013"
+signed_date: "2013-10-14"
+entry_into_force: "2013-10-29"
 ---
-
 # Beleidsregel van de Minister van Infrastructuur en Milieu en de voorzitter van de commissie van deskundigen van 14 oktober 2013, nr. ILT-2013/39422 betreffende een nadere invulling van de technische eisen die gelden in het kader van de afgifte van certificaten van onderzoek voor binnenvaartschepen op grond van de Binnenvaartwet (Beleidsregel Binnenvaart 2013)
 
 Gelet op [artikel 4:81, eerste lid van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81),
@@ -16,7 +42,7 @@ Besluiten:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1.1
+##### Artikel 1.1
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -26,13 +52,13 @@ In deze beleidsregel wordt verstaan onder:
 
 - **RosR 1995:** bij resolutie van 18 mei 1994 (protocol 1994-I-23) van de Centrale Commissie voor de Rijnvaart vastgestelde [Reglement onderzoek schepen op de Rijn 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0025973).
 
-#### Artikel 1.2
+##### Artikel 1.2
 
 In afwijking van de in deze beleidsregel worden binnen de grenzen van het [ADN](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1), de [richtlijn 2006/87/EG](32006L0087) en het [RosR 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0025973) andere voorzieningen aanvaard indien ten genoegen van de minister of de commissie van deskundigen wordt aangetoond dat deze een gelijkwaardig niveau van veiligheid garanderen.
 
 #### § 2. Terugstellen motorvermogen
 
-#### Artikel 2.1
+##### Artikel 2.1
 
 Een aanvraag om het vermogen van de voortstuwingsinstallatie van een binnenvaartschip tot een lagere waarde dan het nominale vermogen terug te stellen, wordt ingewilligd onder de volgende voorwaarden:
 
@@ -52,7 +78,7 @@ Een aanvraag om het vermogen van de voortstuwingsinstallatie van een binnenvaart
 
 #### § 3. Kunststof sanitairleidingen en-doorvoeringen
 
-#### Artikel 3.1
+##### Artikel 3.1
 
 Voor de toepassing van de [artikelen 3.04, derde lid, van het RosR 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&artikel=3.04) en 3.04, derde lid, van bijlage II van de EU-[richtlijn 2006/87/EG](32006L0087) worden kunststof afvoerleidingen van sanitaire systemen die door dekken van machinekamers voeren, beschouwd te zijn vervaardigd van onbrandbaar materiaal indien voldaan wordt aan de volgende eisen:
 
@@ -70,17 +96,17 @@ Voor de toepassing van de [artikelen 3.04, derde lid, van het RosR 1995](https:/
 
 - 3°. de aansluitende leidingen in de machinekamer van staal of een ander met betrekking tot onbrandbaarheid gelijkwaardig materiaal vervaardigd zijn. Indien de aansluitende leidingen in de machinekamer van een ander materiaal zijn, zoals kunststof, is de machinekamer voorzien van een doelmatige automatisch werkende brandmeldinstallatie.
 
-#### Artikel 3.2
+##### Artikel 3.2
 
 [Artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0034079&paragraaf=3&artikel=3.1&z=2018-02-02&g=2018-02-02) is van overeenkomstige toepassing indien een doorvoering door een wand gaat.
 
-#### Artikel 3.3
+##### Artikel 3.3
 
 Indien bestaande situaties, die reeds vóór 1 januari 2001 door deminister dan wel door de commissie van deskundigen zijn aanvaard, niet voldoen aan de [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0034079&paragraaf=3&artikel=3.1&z=2018-02-02&g=2018-02-02) en [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0034079&paragraaf=3&artikel=3.2&z=2018-02-02&g=2018-02-02), kan worden aanvaard dat de betreffende leidingen worden geïsoleerd met brandisolatie van voldoende dikte, bijvoorbeeld steenwol met een dikte van ten minste 10 cm.
 
 #### § 4. Constructie en materiaal van scheepsramen
 
-#### Artikel 4.1
+##### Artikel 4.1
 
 In deze paragraaf wordt verstaan onder:
 
@@ -98,11 +124,11 @@ In deze paragraaf wordt verstaan onder:
 
 - **vensters:** ramen, lichtranden en patrijspoorten.
 
-#### Artikel 4.2
+##### Artikel 4.2
 
 Voor de toepassing van de [artikelen 3.02 van het RosR 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&artikel=3.02) en 3.02 van bijlage II van de EU-[richtlijn 2006/87/EG](32006L0087) worden Vensters in de scheepshuid en in de buitenwand van binnenvaartschepen geacht voldoende sterk te zijn indien wordt voldaan aan de in deze paragraaf gestelde eisen.
 
-#### Artikel 4.3
+##### Artikel 4.3
 
 1. De positie van vensters wordt bepaald naar de plaats in hoogte in de scheepshuid dan wel in de buitenwand. Hierbij wordt onderscheid gemaakt in:
 
@@ -126,7 +152,7 @@ Vensters waarvan de onderkant van het glas boven positie 3 ligt.
 
 2. Voor vensters van open rondvaartboten en van rondvaartboten van het Amsterdamse grachtentype, bestemd voor de vaart op zone 4, is geen indeling naar positie bepaald. Ook worden voor deze schepen geen eisen gesteld aan de constructie van de frames.
 
-#### Artikel 4.4
+##### Artikel 4.4
 
 1. Voor de constructie van vensters gelden de volgende eisen:
 
@@ -158,7 +184,7 @@ Vensters waarvan de onderkant van het glas boven positie 3 ligt.
 
 - 2°. er zijn geen eisen van kracht met betrekking tot de constructie van de frames. Indien op een hoogte van 1 m boven het dek een valbescherming aanwezig is en tevens de oppervlakte van het venster niet meer dan 1 m2 bedraagt, is toegestaan dat vensters in een rubberprofiel gevat zijn.
 
-#### Artikel 4.5
+##### Artikel 4.5
 
 1. De minimum glasdikte wordt bepaald volgens de formule uit de NEN-ISO norm 3903 Annex B:
 
@@ -254,13 +280,13 @@ q: de breedte van het gangboord in m, horizontaal gemeten vanaf de buitenkant va
 
 10. De glasdikte van ramen in open rondvaartboten en in rondvaartboten van het Amsterdamse grachtentype, bestemd voor de vaart op zone 4, bedraagt ten minste 5 mm.
 
-#### Artikel 4.6
+##### Artikel 4.6
 
 1. Indien een raam in de positie 3 en 4 door middel van stijlen in afzonderlijke delen is verdeeld, bijvoorbeeld bij toepassing van schuif- of klapramen, wordt bij de bepaling van de glasdikte rekening gehouden met de afmetingen van de afzonderlijke delen indien de frames zo sterk zijn dat de afzonderlijke delen als afzonderlijk raam kunnen worden beschouwd.
 
 2. Bij toepassing van vensters met dubbel glas, waarbij de glasschijven worden gescheiden door een spouw, wordt de glasdikte van de buitenste glasschijf bepaald volgens [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0034079&paragraaf=4&artikel=4.5&z=2018-02-02&g=2018-02-02). De dikte van de binnenste glasschijf bedraagt ten minste 4 mm.
 
-#### Artikel 4.7
+##### Artikel 4.7
 
 1. De [artikelen 4.1 tot en met 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0034079&paragraaf=4&artikel=4.1&z=2018-02-02&g=2018-02-02) zijn niet van toepassing op schepen die op de datum van inwerkingtreding van deze beleidsregel in het bezit zijn van een geldig certificaat van onderzoek.
 
@@ -270,7 +296,7 @@ q: de breedte van het gangboord in m, horizontaal gemeten vanaf de buitenkant va
 
 #### § 5. Voldoende uitzicht stuurhut
 
-#### Artikel 5.1
+##### Artikel 5.1
 
 Bij de toepassing van [artikel 7.02, derde lid, van het RosR 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&artikel=7.02), en artikel 7.02, derde lid, van bijlage II van de [richtlijn 2006/87/EG](32006L0087) wordt onderstaande invulling gegeven aan bevoegdheid van de Commissie van Deskundigen:
 
@@ -288,7 +314,7 @@ Bij de toepassing van [artikel 7.02, derde lid, van het RosR 1995](https://wette
 
 #### § 6. Geldigheidsduur certificaten en termijn droogzettingen
 
-#### Artikel 6.1
+##### Artikel 6.1
 
 Voor certificaten die zijn afgegeven op grond van het [ADN](https://wetten.overheid.nl/jci1.3:c:BWBR0010115) gelden de procedure en de termijnen zoals opgenomen in [hoofdstuk 1.16 van het ADN](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1).
 
@@ -326,13 +352,13 @@ Om aanspraak te kunnen maken op overgangsbepalingen volgens [Hoofdstuk 24](https
 
 Gedurende een overgangsperiode tot 1 februari 2020 kan nog aanspraak op overgangsbepalingen worden gemaakt indien het schip beschikt over een certificaat dat op het moment van de aanvraag voor hercertificering niet langer dan één certificaatsperiode is verlopen. De geldigheidsduur van het certificaat wordt daarbij bepaald als bij verlenging, ingaand vanaf de droogzetting.
 
-#### Artikel 6.2
+##### Artikel 6.2
 
 Voor de toepassing van [artikel 44 van Bijlage 3.8 van de Binnenvaartregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=3.8) hanteert de certificerende instantie voor een bunkerstation een tijdspanne tussen twee droogstaande keuringen van maximaal tien jaar. Tussentijdse inspecties kunnen plaatsvinden terwijl het schip in het water ligt.
 
 #### § 7. Doorvoeringen door schotten
 
-#### Artikel 7.1
+##### Artikel 7.1
 
 Voor de toepassing van de [artikelen 3.03, vijfde lid, van het RoSR 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&artikel=3.03) en 3.03, vijfde lid, van Bijlage II van [richtlijn 2006/87/EG](32006L0087) staat de certificerende instantie de volgende doorvoeringen door de schotten toe:
 
@@ -356,13 +382,13 @@ Voor de toepassing van de [artikelen 3.03, vijfde lid, van het RoSR 1995](https:
 
 #### § 8. Gelijkwaardige onbrandbaarheid
 
-#### Artikel 8.1
+##### Artikel 8.1
 
 Voor de toepassing van de [artikelen 3.04, derde lid, van het RoSR 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&artikel=3.04) en 3.04, derde lid, van Bijlage II bij [richtlijn 2006/87/EG](32006L0087) wordt onder gelijkwaardig onbrandbaar materiaal verstaan: aluminium, geïsoleerd als bij brandklasse A30.
 
 #### § 9. Brugvleugelbediening
 
-#### Artikel 9.1
+##### Artikel 9.1
 
 Indien een schip is voorzien van brugvleugelbediening worden de eisen van de [artikelen 7.03](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&artikel=7.03) en [7.04, van het RoSR 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&artikel=7.04) en 7.03 en 7.04 van Bijlage II bij [Richtlijn 2006/87/EG](32006L0087) toegepast met inachtneming van het volgende.
 
@@ -412,13 +438,13 @@ Indien een schip is voorzien van brugvleugelbediening worden de eisen van de [ar
 
 #### § 10. Verbandtrommel
 
-#### Artikel 10.1
+##### Artikel 10.1
 
 Een geschikte verbandtrommel, zoals bedoeld in de [artikelen 10.02, tweede lid, onderdeel f, van het RosR 199](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&artikel=10.02)5 en 10.02, tweede lid, onderdeel f, van Bijlage II van [richtlijn 2006/87/EG](32006L0087), is de Bedrijfsverbanddoos BHV zoals ontwikkeld door het Oranje Kruis. Deze verbandtrommel is herkenbaar aan het opschrift ‘Goedgekeurd door:’, het logo van ‘Het Oranje Kruis’ en een leveranciersspecifiek goedkeuringsnummer.
 
 #### § 11. Toegang stuurhuthefkolom
 
-#### Artikel 11.1
+##### Artikel 11.1
 
 Voor de toepassing van de [artikelen 11.01, eerste en tweede lid, van het RosR 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&artikel=11.01) en 11.01, eerste en tweede lid, van Bijlage II van [richtlijn 2006/87/EG](32006L0087) geldt ten aanzien van de stuurhuthefkolom het volgende.
 
@@ -428,21 +454,21 @@ Voor de toepassing van de [artikelen 11.01, eerste en tweede lid, van het RosR 1
 
 #### § 12. Constructieve brandbescherming trappen en liften
 
-#### Artikel 12.1
+##### Artikel 12.1
 
 De uitzondering bedoeld in de [artikelen 15.11, dertiende lid, onderdeel b, van het RosR 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&artikel=15.11) en 15.11, dertiende lid, onderdeel b, van Bijlage II bij [richtlijn 2006/87/EG](32006L0087) is niet toegestaan.
 
 #### § 13. Slotbepalingen
 
-#### Artikel 13.1
+##### Artikel 13.1
 
 De [Beleidsregel binnenvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0030456) van 13 september 2011 wordt ingetrokken.
 
-#### Artikel 13.2
+##### Artikel 13.2
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin hij wordt geplaatst.
 
-#### Artikel 13.3
+##### Artikel 13.3
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel binnenvaart 2013.
 

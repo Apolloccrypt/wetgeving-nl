@@ -1,14 +1,41 @@
 ---
-title: "Wet bevorderen samenwerking en rechtmatige zorg"
+title: "Wet van 25 augustus 2023, houdende bepalingen over gegevensuitwisseling ter bevordering van samenwerking binnen het zorgdomein en van doelmatige en rechtmatige zorg, maatschappelijke ondersteuning en jeugdhulp (Wet bevorderen samenwerking en rechtmatige zorg)"
 identifier: "BWBR0048601"
-categorie: "Sociaal recht"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048601"
+country: "nl"
+rank: "wet"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048601"
+soort: "wet"
+stam_id: "16851133"
+version_id: "29608462"
+internal_id: "C43516611"
+label_id: "16763504"
+dtd_version: "2.0"
+original_entry_into_force: "2025-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048601/2025-01-01/0"
+intitule_bron: "Stb.2023-285"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-08-25"
+intitule_published: "2023-09-05"
+intitule_in_force: "2024-09-25"
+intitule_status: "goed"
+original_publication: "Stb.2023-285"
+original_signed_date: "2023-08-25"
+original_published_date: "2023-09-05"
+original_effect: "nieuwe-regeling"
+original_dossier: "35515"
+original_url_id: "stb-2023-285"
+entry_into_force_date: "2025-01-01"
+jci_1_3: "jci1.3:c:BWBR0048601&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0048601&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet bevorderen samenwerking en rechtmatige zorg"
+signed_date: "2023-08-25"
+entry_into_force: "2025-01-01"
 ---
-
-# Wet bevorderen samenwerking en rechtmatige zorg
+# Wet van 25 augustus 2023, houdende bepalingen over gegevensuitwisseling ter bevordering van samenwerking binnen het zorgdomein en van doelmatige en rechtmatige zorg, maatschappelijke ondersteuning en jeugdhulp (Wet bevorderen samenwerking en rechtmatige zorg)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk 1. Begripsbepaling en algemene bepalingen
 
-#### Artikel 1.1
+##### Artikel 1.1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -58,7 +85,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. **zorgverzekeraar:** zorgverzekeraar als bedoeld in [artikel 1, onderdeel b, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1).
 
-#### Artikel 1.2
+##### Artikel 1.2
 
 Op grond van deze wet worden geen gegevens:
 
@@ -72,7 +99,7 @@ Op grond van deze wet worden geen gegevens:
 
 #### § 1. Gegevensverwerking bij gerechtvaardigde overtuiging van fraude in de zorg
 
-#### Artikel 2.1
+##### Artikel 2.1
 
 1. De colleges en ziektekostenverzekeraars verstrekken elkaar kosteloos de bij algemene maatregel van bestuur aangewezen gegevens, waaronder persoonsgegevens, gegevens over gezondheid en persoonsgegevens van strafrechtelijke aard, die noodzakelijk zijn voor de bestrijding van fraude in de zorg. Deze gegevens hebben betrekking op natuurlijke personen of rechtspersonen ten aanzien van wie de gerechtvaardigde overtuiging bestaat dat zij fraude hebben gepleegd met zorg of overige diensten als bedoeld in de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), zorg als bedoeld in de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), maatschappelijke ondersteuning als bedoeld in de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0020031), jeugdhulp en de uitvoering van een kinderbeschermingsmaatregel of jeugdreclassering als bedoeld in de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925) of de door een ziektekostenverzekeraar te vergoeden zorg, die niet behoort tot het verzekerde pakket van de Zorgverzekeringswet of Wet langdurige zorg.
 
@@ -84,7 +111,7 @@ Op grond van deze wet worden geen gegevens:
 
 5. De ministeriële regeling wordt niet eerder vastgesteld dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
-#### Artikel 2.2
+##### Artikel 2.2
 
 1. De verstrekking door het college, bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048601&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2025-01-01&g=2025-01-01), kan niet eerder plaatsvinden dan nadat het onderzoek waardoor het college tot de gerechtvaardigde overtuiging is gekomen, is voorgelegd aan de toezichthouder die is aangewezen op grond van [artikel 6.1, eerste lid, van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=6.1) of, indien deze betrokken was bij het onderzoek, aan een toezichthouder die op grond van een gemeentelijke verordening is belast met het houden van toezicht, en die tot dezelfde gerechtvaardigde overtuiging is gekomen. De toezichthouder doet onverwijld melding van de verstrekking door het college aan de Inspectie gezondheidszorg en jeugd.
 
@@ -92,7 +119,7 @@ Op grond van deze wet worden geen gegevens:
 
 3. De gegevens in het onderzoek worden geanonimiseerd voordat ze worden overlegd aan de toezichthouder respectievelijk aan de Nederlandse Zorgautoriteit.
 
-#### Artikel 2.3
+##### Artikel 2.3
 
 1. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot het bepaalde in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0048601&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2025-01-01&g=2025-01-01). Deze regels hebben betrekking op:
 
@@ -110,7 +137,7 @@ Op grond van deze wet worden geen gegevens:
 
 #### § 2. Het Informatieknooppunt zorgfraude
 
-#### Artikel 2.4
+##### Artikel 2.4
 
 1. Het CIZ, de colleges, de Inspectie gezondheidszorg en jeugd, de Nederlandse Arbeidsinspectie, de rijksbelastingdienst, waaronder de FIOD, de Sociale verzekeringsbank, ziektekostenverzekeraars en de zorgautoriteit verstrekken het Informatieknooppunt zorgfraude, al dan niet op verzoek, kosteloos de bij algemene maatregel van bestuur aangewezen gegevens, waaronder persoonsgegevens en gegevens over gezondheid en persoonsgegevens van strafrechtelijke aard, die noodzakelijk zijn voor een of meerdere van de in dit lid genoemde instanties voor de bestrijding van fraude in de zorg in het kader van de aan die instanties opgedragen wettelijke taken. De verstrekking van politiegegevens door de FIOD en de Nederlandse Arbeidsinspectie aan het Informatieknooppunt zorgfraude geschiedt op grond van en met inachtneming van de [Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463).
 
@@ -128,7 +155,7 @@ Op grond van deze wet worden geen gegevens:
 
 5. De in het eerste lid genoemde instanties zijn bevoegd om de in het derde lid bedoelde ontvangen gegevens, waaronder persoonsgegevens, gegevens over gezondheid, persoonsgegevens van strafrechtelijke aard, enkel te verwerken voor de in het eerste lid bedoelde fraudebestrijding in het kader van de aan die instanties opgedragen wettelijke taken.
 
-#### Artikel 2.5
+##### Artikel 2.5
 
 1. Het Informatieknooppunt zorgfraude heeft voorts tot taak het signaleren van trends en ontwikkelingen en het ontwikkelen van beleidsinformatie en statistische informatie met betrekking tot fraude in de zorg. Indien noodzakelijk worden hiervoor de in [artikel 2.4, eerste tot en met het vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048601&hoofdstuk=2&paragraaf=2&artikel=2.4&z=2025-01-01&g=2025-01-01) bedoelde gegevens, waaronder persoonsgegevens, gegevens over gezondheid en persoonsgegevens van strafrechtelijke aard, verwerkt.
 
@@ -136,15 +163,15 @@ Op grond van deze wet worden geen gegevens:
 
 3. De in het tweede lid bedoelde verstrekking van gegevens bevat geen persoonsgegevens en gegevens over individuele rechtspersonen.
 
-#### Artikel 2.6
+##### Artikel 2.6
 
 Bij de verwerking van persoonsgegevens als bedoeld in [artikel 2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048601&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2025-01-01&g=2025-01-01), vindt geen profilering in de zin van artikel 4, onder 4, van de Algemene verordening gegevensbescherming plaats.
 
-#### Artikel 2.7
+##### Artikel 2.7
 
 Het Informatieknooppunt zorgfraude draagt zorg voor de instandhouding van elektronische voorzieningen voor de verwerking van de gegevens, bedoeld in de [artikelen 2.4, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048601&hoofdstuk=2&paragraaf=2&artikel=2.4&z=2025-01-01&g=2025-01-01), en [2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048601&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 2.8
+##### Artikel 2.8
 
 1. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot het bepaalde in de [artikelen 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0048601&hoofdstuk=2&paragraaf=2&artikel=2.4&z=2025-01-01&g=2025-01-01), [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0048601&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2025-01-01&g=2025-01-01) en [2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0048601&hoofdstuk=2&paragraaf=2&artikel=2.7&z=2025-01-01&g=2025-01-01). Deze regels hebben betrekking op:
 
@@ -182,7 +209,7 @@ Het Informatieknooppunt zorgfraude draagt zorg voor de instandhouding van elektr
 
 #### § 3. Geheimhouding
 
-#### Artikel 2.9
+##### Artikel 2.9
 
 1. Het is een ieder verboden hetgeen hem uit of in verband met enige werkzaamheid bij de uitvoering van deze wet over natuurlijke personen dan wel rechtspersonen blijkt of wordt meegedeeld, verder bekend te maken dan voor de uitvoering van deze wet noodzakelijk is dan wel op grond van deze wet is voorgeschreven of toegestaan.
 
@@ -194,29 +221,29 @@ Het Informatieknooppunt zorgfraude draagt zorg voor de instandhouding van elektr
 
 ### Hoofdstuk 3. Wijziging van andere wetten
 
-#### Artikel 3.1
+##### Artikel 3.1
 
 Wijzigt de Wet maatschappelijke ondersteuning 2015.
 
-#### Artikel 3.2
+##### Artikel 3.2
 
 Wijzigt de Jeugdwet.
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 4.1
+##### Artikel 4.1
 
 De voordracht voor een krachtens deze wet vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
-#### Artikel 4.2
+##### Artikel 4.2
 
 Onze Minister zendt binnen drie jaar na de inwerkingtreding van deze wet en vervolgens telkens na vijf jaar aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-#### Artikel 4.3
+##### Artikel 4.3
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 4.4
+##### Artikel 4.4
 
 Deze wet wordt aangehaald als: Wet bevorderen samenwerking en rechtmatige zorg.
 

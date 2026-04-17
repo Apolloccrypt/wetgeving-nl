@@ -1,13 +1,39 @@
 ---
-title: "Besluit rechtspositie leden met rechtspraak belast en gerechtsauditeurs CRvB en CBb"
+title: "Besluit van 16 november 2010, houdende regels met betrekking tot de overeenkomstige toepassing van het krachtens de Wet rechtspositie rechterlijke ambtenaren bij algemene maatregel van bestuur bepaalde ten aanzien van de leden met rechtspraak belast en de gerechtsauditeurs van de Centrale Raad van Beroep en het College van Beroep voor het bedrijfsleven (Besluit rechtspositie leden met rechtspraak belast en gerechtsauditeurs CRvB en CBb)"
 identifier: "BWBR0028987"
-categorie: "Bestuursrecht"
-publicatiedatum: 2016-12-31
-laatste_update: 2016-12-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028987"
+country: "nl"
+rank: "amvb"
+publication_date: "2016-12-31"
+last_updated: "2016-12-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028987"
+soort: "AMvB"
+stam_id: "11083253"
+version_id: "18116682"
+internal_id: "C25190721"
+label_id: "11057574"
+dtd_version: "2.0"
+original_entry_into_force: "2010-11-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028987/2016-12-31/0"
+intitule_bron: "Stb.2010-778"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-11-16"
+intitule_published: "2010-11-25"
+intitule_in_force: "2010-11-25"
+intitule_status: "goed"
+original_publication: "Stb.2010-778"
+original_signed_date: "2010-11-16"
+original_published_date: "2010-11-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-778"
+entry_into_force_date: "2010-11-26"
+jci_1_3: "jci1.3:c:BWBR0028987&z=2016-12-31&g=2016-12-31"
+jci_1_0: "1.0:c:BWBR0028987&g=2016-12-31"
+citeertitel_status: "officieel"
+short_title: "Besluit rechtspositie leden met rechtspraak belast en gerechtsauditeurs CRvB en CBb"
+signed_date: "2010-11-16"
+entry_into_force: "2010-11-26"
 ---
-
 # Besluit van 16 november 2010, houdende regels met betrekking tot de overeenkomstige toepassing van het krachtens de Wet rechtspositie rechterlijke ambtenaren bij algemene maatregel van bestuur bepaalde ten aanzien van de leden met rechtspraak belast en de gerechtsauditeurs van de Centrale Raad van Beroep en het College van Beroep voor het bedrijfsleven (Besluit rechtspositie leden met rechtspraak belast en gerechtsauditeurs CRvB en CBb)
 
 Op de voordracht van Onze Minister van Justitie van 6 september 2010, nr. 5667020/10/6;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister van Veiligheid en Justitie van 10 nov
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 Op de leden met rechtspraak belast van de Centrale Raad van Beroep onderscheidenlijk het College van Beroep voor het bedrijfsleven is het krachtens de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365) bij algemene maatregel van bestuur bepaalde, voor zover betrekking hebbend op rechterlijke ambtenaren met rechtspraak belast, met uitzondering van de [artikelen 2g, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=2g), [2i, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=2i), [6f](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=6f) en [29a, van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=29a), van overeenkomstige toepassing, met dien verstande dat:
 
@@ -42,7 +68,7 @@ Op de leden met rechtspraak belast van de Centrale Raad van Beroep onderscheiden
 
 - i. voor de overeenkomstige toepassing van [artikel 37b van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=37b) onder functionele autoriteit het bestuur van de Centrale Raad van Beroep onderscheidenlijk het College van Beroep voor het bedrijfsleven, uitgezonderd het niet-rechterlijk lid, wordt verstaan.
 
-#### Artikel 2
+##### Artikel 2
 
 Op de senior-gerechtsauditeurs en gerechtsauditeurs bij de Centrale Raad van Beroep onderscheidenlijk het College van Beroep voor het bedrijfsleven is het krachtens de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365) bij algemene maatregel van bestuur bepaalde, voor zover betrekking hebbend op senior-gerechtsauditeurs en gerechtsauditeurs, met uitzondering van de [artikelen 2g, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=2g), [2i, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=2i), [34b, eerste lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=34b), [36c, eerste lid, onderdeel b, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=36c), en [36m, eerste lid, onderdeel b, van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=36m), van overeenkomstige toepassing, met dien verstande dat:
 
@@ -60,19 +86,19 @@ Op de senior-gerechtsauditeurs en gerechtsauditeurs bij de Centrale Raad van Ber
 
 - g. zij voor de overeenkomstige toepassing van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=9), [14, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=14), [14a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=14a), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=16) en [27b, derde lid, van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=27b) worden gelijkgesteld met bij een gerechtshof of rechtbank werkzame rechterlijke ambtenaren dan wel gewezen rechterlijke ambtenaren die laatstelijk bij een gerechtshof of rechtbank werkzaam zijn geweest.
 
-#### Artikel 3
+##### Artikel 3
 
 Bij regeling van Onze Minister van Veiligheid en Justitie worden regels gesteld met betrekking tot de overeenkomstige toepassing van het krachtens de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365) bij ministeriële regeling bepaalde ten aanzien van de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028987&artikel=1&z=2016-12-31&g=2016-12-31) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0028987&artikel=2&z=2016-12-31&g=2016-12-31) bedoelde leden met rechtspraak belast en senior-gerechtsauditeurs en gerechtsauditeurs.
 
-#### Artikel 4
+##### Artikel 4
 
 Wijzigt het Beroepsreglement.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 juli 2010.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit wordt aangehaald als: Besluit rechtspositie leden met rechtspraak belast en gerechtsauditeurs CRvB en CBb.
 

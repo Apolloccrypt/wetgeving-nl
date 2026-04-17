@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregels particuliere beveiligingsorganisaties en recherchebureaus 2019"
+title: "Besluit van de Minister van Justitie en Veiligheid van 1 april 2019, nr. 2387622, tot vaststelling van beleidsregels op het gebied van particuliere beveiligingsorganisaties en recherchebureaus 2019 (Beleidsregels particuliere beveiligingsorganisaties en recherchebureaus 2019)"
 identifier: "BWBR0042108"
-categorie: "Bestuursrecht"
-publicatiedatum: 2020-11-18
-laatste_update: 2020-11-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042108"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2020-11-18"
+last_updated: "2020-11-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042108"
+soort: "beleidsregel"
+stam_id: "15050203"
+version_id: "25790802"
+internal_id: "C36773821"
+label_id: "15000224"
+dtd_version: "2.0"
+original_entry_into_force: "2019-04-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042108/2020-11-18/0"
+intitule_bron: "Stcrt.2019-19733"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-04-01"
+intitule_published: "2019-04-11"
+intitule_in_force: "2019-04-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-19733"
+original_signed_date: "2019-04-01"
+original_published_date: "2019-04-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-19733"
+entry_into_force_date: "2019-04-12"
+jci_1_3: "jci1.3:c:BWBR0042108&z=2020-11-18&g=2020-11-18"
+jci_1_0: "1.0:c:BWBR0042108&g=2020-11-18"
+citeertitel_status: "officieel"
+short_title: "Beleidsregels particuliere beveiligingsorganisaties en recherchebureaus 2019"
+signed_date: "2019-04-01"
+entry_into_force: "2019-04-12"
 ---
-
 # Besluit van de Minister van Justitie en Veiligheid van 1 april 2019, nr. 2387622, tot vaststelling van beleidsregels op het gebied van particuliere beveiligingsorganisaties en recherchebureaus 2019 (Beleidsregels particuliere beveiligingsorganisaties en recherchebureaus 2019)
 
 **De Minister van Justitie en Veiligheid;**

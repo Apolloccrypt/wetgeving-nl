@@ -1,13 +1,35 @@
 ---
 title: "Protocol betreffende de authentieke tekst in drie talen van het Verdrag inzake de internationale burgerluchtvaart"
 identifier: "BWBV0004681"
-categorie: "Milieu"
-publicatiedatum: 1970-04-20
-laatste_update: 1970-04-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004681"
+country: "nl"
+rank: "verdrag"
+publication_date: "1970-04-20"
+last_updated: "1970-04-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004681"
+soort: "verdrag"
+stam_id: "10004260613"
+version_id: "10004449262"
+internal_id: "C10006984681"
+label_id: "10004246784"
+dtd_version: "2.0"
+original_entry_into_force: "1970-04-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004681/1970-04-20/0"
+intitule_bron: "Trb.1970-60"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1970-04-22"
+intitule_in_force: "1970-04-22"
+intitule_status: "goed"
+original_publication: "Trb.1970-60"
+original_published_date: "1970-04-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1970-60"
+entry_into_force_date: "1970-04-20"
+jci_1_3: "jci1.3:c:BWBV0004681&z=1970-04-20&g=1970-04-20"
+jci_1_0: "1.0:c:BWBV0004681&g=1970-04-20"
+citeertitel_status: "redactioneel"
+entry_into_force: "1970-04-20"
 ---
-
 # Protocol betreffende de authentieke tekst in drie talen van het Verdrag inzake de internationale burgerluchtvaart
 
 The undersigned Governments
@@ -22,15 +44,15 @@ Considering that in making such provision, it should be taken into account that 
 
 Have agreed as follows:
 
-#### Article I
+##### Article I
 
 The text of the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507) in the French and Spanish languages annexed to this Protocol, together with the text of the Convention in the English language, constitutes the text equally authentic in the three languages as specifically referred to in the last paragraph of the Convention.
 
-#### Article II
+##### Article II
 
 If a State party to this Protocol has ratified or in the future ratifies any amendment made to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507) in accordance with [Article 94(a) thereof](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=94), then the text of such amendment in the English, French and Spanish languages shall be deemed to refer to the text, equally authentic in the three languages, which results from this Protocol.
 
-#### Article III
+##### Article III
 
 1). The States members of the International Civil Aviation Organization may become parties to this Protocol either by:
 
@@ -46,27 +68,27 @@ If a State party to this Protocol has ratified or in the future ratifies any ame
 
 4). Adherence to or ratification or approval of this Protocol shall be deemed to be acceptance thereof.
 
-#### Article IV
+##### Article IV
 
 1). This Protocol shall come into force on the thirtieth day after twelve States shall, in accordance with the provisions of Article III, have signed it without reservation as to acceptance or accepted it.
 
 2). As regards any State which shall subsequently become a party to this Protocol, in accordance with Article III, the Protocol shall come into force on the date of its signature without reservation as to acceptance or of its acceptance.
 
-#### Article V
+##### Article V
 
 Any future adherence of a State to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507) shall be deemed to be acceptance of this Protocol.
 
-#### Article VI
+##### Article VI
 
 As soon as this Protocol comes into force, it shall be registered with the United Nations and with the International Civil Aviation Organization by the Government of the United States of America.
 
-#### Article VII
+##### Article VII
 
 1). This Protocol shall remain in force so long as the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507) is in force.
 
 2). This Protocol shall cease to be in force for a State only when that State ceases to be a party to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507).
 
-#### Article VIII
+##### Article VIII
 
 The Government of the United States of America shall give notice to all States members of the International Civil Aviation Organization and to the Organization itself:
 
@@ -76,7 +98,7 @@ The Government of the United States of America shall give notice to all States m
 
 - (c). of the date on which this Protocol comes into force in accordance with the provisions of Article IV, paragraph 1).
 
-#### Article IX
+##### Article IX
 
 This Protocol, drawn up in the English, French and Spanish languages, each text being equally authentic, shall be deposited in the archives of the Government of the United States of America, which shall transmit duly certified copies thereof to the Government of the States members of the International Civil Aviation Organization.
 
@@ -94,19 +116,19 @@ Ont conclu la présente [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV000
 
 ### CHAPITRE I. Principes généraux et application de la [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507)
 
-#### Article premier
+##### Article premier
 
 Souveraineté
 
 Les Etats contractants reconnaissent que chaque Etat a la souveraineté complète et exclusive sur l'espace aérien au-dessus de son territoire.
 
-#### Article 2
+##### Article 2
 
 Territoire
 
 Aux fins de la présente [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), il faut entendre par territoire d'un Etat les régions terrestres et les eaux territoriales y adjacentes qui se trouvent sous la souveraineté, la suzeraineté, la protection ou le mandat dudit Etat.
 
-#### Article 3
+##### Article 3
 
 Aéronefs civils et aéronefs d'Etat
 
@@ -118,7 +140,7 @@ Aéronefs civils et aéronefs d'Etat
 
 - d). Les Etats contractants s'engagent à tenir dûment compte de la sécurité de la navigation des aéronefs civils lorsqu'ils établissent des règlements pour leurs aéronefs d'Etat.
 
-#### Article 4
+##### Article 4
 
 Usage indu de l'Aviation civile
 
@@ -126,7 +148,7 @@ Chaque Etat contractant convient de ne pas employer l'aviation civile à des fin
 
 ### CHAPITRE II. Vol au-dessus du territoire des Etats contractants
 
-#### Article 5
+##### Article 5
 
 Droits des aéronefs n'assurant pas de service régulier
 
@@ -134,25 +156,25 @@ Chaque Etat contractant convient que tous les aéronefs des autres Etats contrac
 
 Si lesdits aéronefs assurent le transport de passagers, de marchandises ou de courrier contre rémunération ou en vertu d'un contrat de location en dehors des services aériens internationaux réguliers, ils auront aussi le privilège, sous réserve des dispositions de l'article 7, d'embarquer ou de débarquer des passagers, des marchandises ou du courrier, sous réserve du droit pour l'Etat où a lieu l'embarquement ou le débarquement d'imposer telles réglementations, conditions ou restrictions qu'il pourra juger souhaitables.
 
-#### Article 6
+##### Article 6
 
 Services aériens réguliers
 
 Aucun service aérien international régulier ne peut être exploité au-dessus ou à l'intérieur du territoire d'un Etat contractant, sauf permission spéciale ou toute autre autorisation dudit Etat et conformément aux conditions de cette permission ou autorisation.
 
-#### Article 7
+##### Article 7
 
 Cabotage
 
 Chaque Etat contractant a le droit de refuser aux aéronefs d'autres Etats contractants la permission d'embarquer sur son territoire des passagers, du courrier ou des marchandises pour les transporter, contre rémunération ou en vertu d'un contrat de location, à destination d'un autre point de son territoire. Chaque Etat contractant s'engage à ne conclure aucun arrangement qui accorde expressément un tel privilège, à titre exclusif, à un autre Etat ou à une entreprise de transport aérien d'un autre Etat, et à ne pas se faire octroyer un tel privilège exclusif par un autre Etat.
 
-#### Article 8
+##### Article 8
 
 Aéronefs sans pilote
 
 Aucun aéronef pouvant voler sans pilote ne peut survoler sans pilote le territoire d'un Etat contractant, sauf autorisation spéciale dudit Etat et conformément aux conditions de celle-ci. Chaque Etat contractant s'engage à faire en sorte que le vol d'un tel aéronef sans pilote dans des régions ouvertes aux aéronefs civils soit soumis à un contrôle qui permette d'éviter tout danger pour les aéronefs civils.
 
-#### Article 9
+##### Article 9
 
 Zones interdites
 
@@ -162,37 +184,37 @@ Zones interdites
 
 - c). Chaque Etat contractant peut, selon des règlements qu'il a la faculté d'édicter, exiger que tout aéronef qui pénètre dans les zones visées aux alinéas a) et b) ci-dessus, atterrisse dès que possible sur un aéroport désigné à l'intérieur de son territoire.
 
-#### Article 10
+##### Article 10
 
 Atterrissage sur un aéroport douanier
 
 Sauf dans le cas où, aux termes de la présente [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507) ou d'une autorisation spéciale, il est permis à des aéronefs de traverser le territoire d'un Etat contractant sans y atterrir, tout aéronef qui pénètre sur le territoire d'un Etat contractant doit, si les règlements dudit Etat l'exigent, atterrir sur un aéroport désigné par cet Etat aux fins d'inspections douanière et autres. En quittant le territoire d'un Etat contractant, ledit aéronef doit partir d'un aéroport douanier désigné aux mêmes fins. Les caractéristiques de tous les aéroports douaniers désignés doivent être publiées par l'Etat et transmises à l'Organisation de l'Aviation civile internationale, instituée en vertu de la deuxième partie de la présente Convention, pour communication à tous les autres Etats contractants.
 
-#### Article 11
+##### Article 11
 
 Application des règlements de l'air
 
 Sous réserve des dispositions de la présente [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), les lois et règlements d'un Etat contractant relatifs à l'entrée et à la sortie de son territoire des aéronefs employés à la navigation aérienne internationale, ou relatifs à l'exploitation et à la navigation desdits aéronefs à l'intérieur de son territoire, s'appliquent, sans distinction de nationalité, aux aéronefs de tous les Etats contractants et lesdits aéronefs doivent s'y conformer à l'entrée, à la sortie et à l'intérieur du territoire de cet Etat.
 
-#### Article 12
+##### Article 12
 
 Règles de l'air
 
 Chaque Etat contractant s'engage à adopter des mesures afin d'assurer que tout aéronef survolant son territoire ou y manoeuvrant, ainsi que tout aéronef portant la marque de sa nationalité, en quelque lieu qu'il se trouve, se conforment aux règles et règlements en vigueur en ce lieu pour le vol et la manoeuvre des aéronefs. Chaque Etat contractant s'engage à maintenir ses règlements dans ce domaine conformes, dans toute la mesure du possible, à ceux qui pourraient être établis en vertu de la présente [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507). Au-dessus de la haute mer, les règles en vigueur sont les règles établies en vertu de la présente Convention. Chaque Etat contractant s'engage à poursuivre toute personne contrevenant aux règlements applicables.
 
-#### Article 13
+##### Article 13
 
 Règlements d'entrée et de congé
 
 Les lois et règlements d'un Etat contractant concernant l'entrée ou la sortie de son territoire des passagers, équipages ou marchandises des aéronefs, tels que les règlements relatifs à l'entrée, au congé, à l'immigration, aux passeports, à la douane et à la santé, doivent être observés à l'entrée, à la sortie ou à l'intérieur du territoire de cet Etat, par lesdits passagers ou équipages, ou en leur nom, et pour les marchandises.
 
-#### Article 14
+##### Article 14
 
 Prévention de la propagation des maladies
 
 Chaque Etat contractant convient de prendre des mesures efficaces pour prévenir la propagation, par la navigation aérienne, du choléra, du typhus (épidémique), de la variole, de la fièvre jaune, de la peste, ainsi que de toute autre maladie contagieuse que les Etats contractants décident de désigner le cas échéant et, à cette fin, les Etats contractants se tiendront en étroite consultation avec les institutions chargées des règlements internationaux relatifs aux mesures sanitaires applicables, aux aéronefs. Une telle consultation ne préjuge en rien l'application de toute convention internationale existant en la matière et à laquelle les Etats contractants seraient parties.
 
-#### Article 15
+##### Article 15
 
 Redevances d'aéroport et droits similaires
 
@@ -206,7 +228,7 @@ Les redevances qu'un Etat contractant peut imposer ou permettre d'imposer pour l
 
 Toutes ces redevances sont publiées et communiquées à l'Organisation de l'Aviation civile internationale, étant entendu que, sur représentation d'un Etat contractant intéressé, les redevances imposées pour l'utilisation des aéroports et autres installations et services sont soumises à l'examen du Conseil, qui fait rapport et formule des recommandations à ce sujet à l'attention de l'Etat ou des Etats intéressés. Aucun Etat contractant ne doit imposer de droits, taxes ou autres redevances uniquement pour le droit de transit, d'entrée ou de sortie de son territoire de tout aéronef d'un Etat contractant, ou de personnes ou biens se trouvant à bord.
 
-#### Article 16
+##### Article 16
 
 Visite des aéronefs
 
@@ -214,31 +236,31 @@ Les autorités compétentes de chacun des Etats contractants ont le droit de vis
 
 ### CHAPITRE III. Nationalité des aéronefs
 
-#### Article 17
+##### Article 17
 
 Nationalité des aéronefs
 
 Les aéronefs ont la nationalité de l'Etat dans lequel ils sont immatriculés.
 
-#### Article 18
+##### Article 18
 
 Double immatriculation
 
 Un aéronef ne peut être valablement immatriculé dans plus d'un Etat, mais son immatriculation peut être transférée d'un Etat à un autre.
 
-#### Article 19
+##### Article 19
 
 Lois nationales régissant l'immatriculation
 
 L'immatriculation ou le transfert d'immatriculation d'aéronefs dans un Etat contractant s'effectue conformément à ses lois et règlements.
 
-#### Article 20
+##### Article 20
 
 Port des marques
 
 Tout aéronef employé à la navigation aérienne internationale porte les marques de nationalité et d'immatriculation qui lui sont propres.
 
-#### Article 21
+##### Article 21
 
 Rapports d'immatriculation
 
@@ -246,19 +268,19 @@ Chaque Etat contractant s'engage à fournir, sur demande, à tout autre Etat con
 
 ### CHAPITRE IV. Mesures destinées à faciliter la navigation aérienne
 
-#### Article 22
+##### Article 22
 
 Simplification des formalités
 
 Chaque Etat contractant convient d'adopter, par la promulgation de règlements spéciaux ou de toute autre manière, toutes mesures en son pouvoir pour faciliter et accélérer la navigation par aéronef entre les territoires des Etats contractants et éviter de retarder sans nécessité les aéronefs, équipages, passagers et cargaisons, particulièrement dans l'application des lois relatives à l'immigration, à la santé, à la douane et au congé.
 
-#### Article 23
+##### Article 23
 
 Formalités de douane et d'immigration
 
 Chaque Etat contractant s'engage, dans la mesure où il le juge réalisable, à établir des règlements de douane et d'immigration intéressant la navigation aérienne internationale, conformément aux pratiques qui pourraient être établies ou recommandées en vertu de la présente [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507). Aucune disposition de la présente Convention ne droit être interprétée comme empêchant la création d'aéroports francs.
 
-#### Article 24
+##### Article 24
 
 Droits de douane
 
@@ -266,19 +288,19 @@ Droits de douane
 
 - b). Les pièces de rechange et le matériel importés dans le territoire d'un Etat contractant pour être installés ou utilisés sur un aéronef d'un autre Etat contractant employé à la navigation aérienne internationale sont admis en franchise de droits de douane, sous réserve de l'observation des règlements de l'Etat intéressé, qui peuvent disposer que ces objets sont placés sous la surveillance et le contrôle de la douane.
 
-#### Article 25
+##### Article 25
 
 Aéronefs en détresse
 
 Chaque Etat contractant s'engage à prendre les mesures qu'il jugera réalisables afin de porter assistance aux aéronefs en détresse sur son territoire et, sous réserve du contrôle par ses propres autorités, à permettre aux propriétaires de l'aéronef ou aux autorités de l'Etat dans lequel l'aéronef est immatriculé de prendre les mesures d'assistance nécessitées par les circonstances. Chaque Etat contractant entreprenant la recherche d'aéronefs disparus collaborera aux mesures coordonnées qui pourraient être recommandées en vertu de la présente [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507).
 
-#### Article 26
+##### Article 26
 
 Enquête sur les accidents
 
 En cas d'accident survenu à un aéronef d'un Etat contractant sur le territoire d'un autre Etat contractant et ayant entraîné mort ou lésion grave ou révélé de graves défectuosités techniques de l'aéronef ou des installations et services de navigation aérienne, l'Etat dans lequel l'accident s'est produit ouvrira une enquête sur les circonstances de l'accident, en se conformant, dans la mesure où ses lois le permettent, à la procédure qui pourra être recommandée par l'Organisation de l'Aviation civile internationale. Il est donné à l'Etat dans lequel l'aéronef est immatriculé la possibilité de nommer des observateurs pour assister à l'enquête et l'Etat procédant à l'enquête lui communique le rapport et les constatations en la matière.
 
-#### Article 27
+##### Article 27
 
 Exemption de saisie en cas de contestation sur les brevets d'invention
 
@@ -288,7 +310,7 @@ Exemption de saisie en cas de contestation sur les brevets d'invention
 
 - c). Seuls bénéficient des dispositions du présent article les Etats parties à la présente [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507) 1) qui sont également parties à la Convention internationale sur la protection de la propriété industrielle et à tous amendements à ladite Convention ou 2) qui ont promulgué, sur les brevets, des lois reconnaissant et protégeant d'une manière adéquate les inventions des ressortissants des autres Etats parties à la présente Convention.
 
-#### Article 28
+##### Article 28
 
 Installations et services de navigation aérienne et systèmes normalisés
 
@@ -302,7 +324,7 @@ Chaque Etat contractant s'engage, dans la mesure où il le juge réalisable:
 
 ### CHAPITRE V. Conditions à remplir en ce qui concerne les aéronefs
 
-#### Article 29
+##### Article 29
 
 Documents de bord des aéronefs
 
@@ -322,7 +344,7 @@ Tout aéronef d'un Etat contractant employé à la navigation internationale doi
 
 - g). s'il transporte du fret, un manifeste et des déclarations détaillées de ce fret.
 
-#### Article 30
+##### Article 30
 
 Equipement radio des aéronefs
 
@@ -330,13 +352,13 @@ Equipement radio des aéronefs
 
 - b). Les appareils émetteurs ne peuvent être utilisés que par les membres de l'équipage navigant munis à cet effet d'une licence spéciale, délivrée par les autorités compétentes de l'Etat dans lequel l'aéronef est immatriculé.
 
-#### Article 31
+##### Article 31
 
 Certificats de navigabilité
 
 Tout aéronef employé à la navigation internationale doit être muni d'un certificat de navigabilité délivré ou validé par l'Etat dans lequel il est immatriculé.
 
-#### Article 32
+##### Article 32
 
 Licences du personnel
 
@@ -344,19 +366,19 @@ Licences du personnel
 
 - b). Chaque Etat contractant se réserve le droit de ne pas reconnaître, pour le survol de son propre territoire, les brevets d'aptitude et les licences accordés à l'un de ses ressortissants par un autre Etat contractant.
 
-#### Article 33
+##### Article 33
 
 Reconnaissance des certificats et licences
 
 Les certificats de navigabilité, ainsi que les brevets d'aptitude et les licences délivrés ou validés par l'Etat contractant dans lequel l'aéronef est immatriculé, seront reconnus valables par les autres Etats contractants si les conditions qui ont régi la délivrance ou la validation de ces certificats, brevets ou licences sont équivalentes ou supérieures aux normes minimales qui pourraient être établies conformément à la présente [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507).
 
-#### Article 34
+##### Article 34
 
 Carnets de route
 
 Pour chaque aéronef employé à la navigation internationale, il est tenu un carnet de route sur lequel sont portés les renseignements relatifs à l'aéronef, à l'équipage et à chaque voyage, sous la forme qui pourrait être prescrite en vertu de la présente [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507).
 
-#### Article 35
+##### Article 35
 
 Restrictions relatives à la cargaison
 
@@ -364,7 +386,7 @@ Restrictions relatives à la cargaison
 
 - b). Chaque Etat contractant se réserve le droit, pour des raisons d'ordre public et de sécurité, de réglementer ou d'interdire le transport, à l'intérieur ou au-dessus de son territoire, d'articles autres que ceux qui sont mentionnés au paragraphe a), à condition qu'il ne soit fait aucune distinction à cet égard entre ses aéronefs nationaux employés à la navigation internationale et les aéronefs des autres Etats employés aux mêmes fins, et à condition aussi qu'il ne soit imposé aucune restriction pouvant gêner le transport et l'usage, à bord des aéronefs, des appareils nécessaires à l'exploitation ou à la navigation desdits aéronefs, ou à la sécurité du personnel ou des passagers.
 
-#### Article 36
+##### Article 36
 
 Appareils photographiques
 
@@ -372,7 +394,7 @@ Tout Etat contractant peut interdire ou réglementer l'usage d'appareils photogr
 
 ### CHAPITRE VI. Normes et pratiques recommandées internationales
 
-#### Article 37
+##### Article 37
 
 Adoption de normes et procédures internationales
 
@@ -404,13 +426,13 @@ A cette fin, l'Organisation de l'Aviation civile internationale adopte et amende
 
 et, lorsqu'il paraît approprié de le faire, de tout autre sujet intéressant la sécurité, la régularité et l'efficacité de la navigation aérienne.
 
-#### Article 38
+##### Article 38
 
 Dérogation aux normes et aux procédures internationales
 
 Tout Etat qui estime ne pouvoir se conformer en tous points à l'une quelconque de ces normes ou procédures internationales, ou mettre ses propres règlements ou pratiques en complet accord avec une norme ou procédure internationale amendée, ou qui juge nécessaire d'adopter des règles ou des pratiques différant sur un point quelconque de celles qui sont établies par une norme internationale, notifie immédiatement à l'Organisation de l'Aviation civile internationale les différences entre ses propres pratiques et celles qui sont établies par la norme internationale. Dans le cas d'amendements à des normes internationales, tout Etat qui n'apporte pas à ses propres règlements ou pratiques les amendements appropriés en avise le Conseil dans les soixante jours à compter de l'adoption de l'amendement à la norme internationale ou indique les mesures qu'il se propose de prendre. En pareil cas, le Conseil notifie immédiatement à tous les autres Etats la différence existant entre un ou plusieurs points de la norme internationale et la pratique nationale correspondante de l'Etat en question.
 
-#### Article 39
+##### Article 39
 
 Annotation des certificats et licences
 
@@ -418,19 +440,19 @@ Annotation des certificats et licences
 
 - b). Tout titulaire d'une licence qui ne satisfait pas entièrement aux conditions imposées par la norme internationale relative à la classe de la licence ou du brevet qu'il détient doit avoir sous forme d'annotation sur sa licence, ou en annexe à celle-ci, l'énumération complète des points sur lesquels il ne satisfait pas auxdites conditions.
 
-#### Article 40
+##### Article 40
 
 Validité des certificats et des licences annotés
 
 Aucun aéronef ou membre du personnel dont le certificat ou la licence a été ainsi annoté ne peut participer à la navigation internationale si ce n'est avec la permission de l'Etat ou des Etats sur le territoire desquels il pénètre. L'immatriculation ou l'emploi d'un tel aéronef ou d'un élément certifié d'aéronef dans un Etat autre que celui où il a été certifié à l'origine, est laissé à la discrétion de l'Etat dans lequel cet aéronef ou élément est importé.
 
-#### Article 41
+##### Article 41
 
 Reconnaissance des normes de navigabilité existantes
 
 Les dispositions du présent chapitre ne s'appliquent ni aux aéronefs ni au matériel d'aéronefs des types dont le prototype a été soumis aux autorités nationales compétentes pour homologation avant l'expiration des trois années qui suivent la date d'adoption d'une norme internationale de navigabilité pour ce matériel.
 
-#### Article 42
+##### Article 42
 
 Reconnaissance des normes existantes de compétence du personnel
 
@@ -440,13 +462,13 @@ Les dispositions du présent chapitre ne s'appliquent pas au personnel dont les 
 
 ### CHAPITRE VII. L'Organisation
 
-#### Article 43
+##### Article 43
 
 Nom et composition
 
 Il est institué par la présente [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507) une organisation qui portera le nom d'Organisation de l'Aviation civile internationale. Elle se compose d'une Assemblée, d'un Conseil et de tous autres organes qui pourraient être nécessaires.
 
-#### Article 44
+##### Article 44
 
 Objectifs
 
@@ -470,19 +492,19 @@ L'Organisation a pour buts et objectifs d'élaborer les principes et les techniq
 
 - i). promouvoir, en général, le développement de l'aéronautique civile internationale sous tous ses aspects.
 
-#### Article 45
+##### Article 45
 
 Siège permanent
 
 L'Organisation aura son siège permanent au lieu que fixera, au cours de sa dernière session, l'Assemblée intérimaire de l'Organisation provisoire de l'Aviation civile internationale, établie par l'Accord intérimaire sur l'aviation civile internationale signé à Chicago le 7 décembre 1944. Ce siège pourra être transféré provisoirement en tout autre lieu par décision du Conseil.
 
-#### Article 46
+##### Article 46
 
 Première session de l'Assemblée
 
 La première session de l'Assemblée sera convoquée par le Conseil intérimaire de l'Organisation provisoire précitée dès l'entrée en vigueur de la présente [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507) et se tiendra à la date et au lieu que fixera le Conseil intérimaire.
 
-#### Article 47
+##### Article 47
 
 Capacité juridique
 
@@ -490,7 +512,7 @@ Sur le territoire de chaque Etat contractant, l'Organisation jouit de la capacit
 
 ### CHAPITRE VIII. L'Assemblée
 
-#### Article 48
+##### Article 48
 
 Sessions de l'Assemblée et vote
 
@@ -500,7 +522,7 @@ Sessions de l'Assemblée et vote
 
 - c). La majorité des Etats contractants est requise pour constituer le quorum lors des réunions de l'Assemblée. Sauf dispositions contraires de la présente [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), les décisions de l'Assemblée sont prises à la majorité des votes émis.
 
-#### Article 49
+##### Article 49
 
 Pouvoirs et obligations de l'Assemblée
 
@@ -530,7 +552,7 @@ Les pouvoirs et obligations de l'Assemblée sont les suivants:
 
 ### CHAPITRE IX. Le Conseil
 
-#### Article 50
+##### Article 50
 
 Composition et élection du Conseil
 
@@ -540,7 +562,7 @@ Composition et élection du Conseil
 
 - c). Aucun représentant d'un Etat contractant au Conseil ne peut être activement associé à l'exploitation d'un service aérien international ou avoir des intérêts financiers dans un tel service.
 
-#### Article 51
+##### Article 51
 
 Président du Conseil
 
@@ -552,19 +574,19 @@ Le Conseil élit son Président pour une période de trois ans. Celui-ci est ré
 
 - c). exercer au nom du Conseil les fonctions que celui-ci lui assigne.
 
-#### Article 52
+##### Article 52
 
 Vote au Conseil
 
 Les décisions du Conseil sont prises à la majorité de ses membres. Le Conseil peut déléguer ses pouvoirs, pour tout sujet déterminé, à un comité composé de membres du Conseil. Les décisions de tout comité du Conseil peuvent être portées en appel devant le Conseil par tout Etat contractant intéressé.
 
-#### Article 53
+##### Article 53
 
 Participation sans droit de vote
 
 Tout Etat contractant peut participer, sans droit de vote, à l'examen par le Conseil ainsi que par ses comités et commissions de toute question qui touche particulièrement ses intérêts. Aucun membre du Conseil ne peut voter lors de l'examen par le Conseil d'un différend auquel il est partie.
 
-#### Article 54
+##### Article 54
 
 Fonctions obligatoires du Conseil
 
@@ -598,7 +620,7 @@ Le Conseil doit:
 
 - n). examiner toute question relative à la [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507) dont il est saisi par un Etat contractant.
 
-#### Article 55
+##### Article 55
 
 Fonctions facultatives du Conseil
 
@@ -616,13 +638,13 @@ Le Conseil peut:
 
 ### CHAPITRE X. La Commission de Navigation aérienne
 
-#### Article 56
+##### Article 56
 
 Nomination de la Commission
 
 La Commission de Navigation aérienne se compose de douze membres nommés par le Conseil parmi des personnes proposées par des Etats contractants. Ces personnes doivent posséder les titres et qualités, ainsi que l'expérience voulus en matière de science et de pratique de l'aéronautique. Le Conseil invite tous les Etats contractants à soumettre des candidatures. Le Président de la Commission de Navigation aérienne est nommé par le Conseil.
 
-#### Article 57
+##### Article 57
 
 Fonctions de la Commission
 
@@ -636,19 +658,19 @@ La Commission de Navigation aérienne doit:
 
 ### CHAPITRE XI. Personnel
 
-#### Article 58
+##### Article 58
 
 Nomination du personnel
 
 Sous réserve des règles établies par l'Assemblée et des dispositions de la présente [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), le Conseil détermine le mode de nomination et de cessation d'emploi, la formation et les traitements, indemnités et conditions de service du Secrétaire général et des autres membres du personnel de l'Organisation et peut employer des ressortissants de tout Etat contractant ou utiliser leurs services.
 
-#### Article 59
+##### Article 59
 
 Caractère international du personnel
 
 Le Président du Conseil, le Secrétaire général et les autres membres du personnel ne doivent ni solliciter ni accepter d'instructions, dans l'exécution de leur tâche, d'aucune autorité extérieure à l'Organisation. Chaque Etat contractant s'engage à respecter pleinement le caractère international des fonctions du personnel et à ne chercher à influencer aucun de ses ressortissants dans l'exécution de sa tâche.
 
-#### Article 60
+##### Article 60
 
 Immunités et privilèges du personnel
 
@@ -656,19 +678,19 @@ Chaque Etat contractant s'engage, dans la mesure où son régime constitutionnel
 
 ### CHAPITRE XII. Finances
 
-#### Article 61
+##### Article 61
 
 Budget et répartition des dépenses
 
 Le Conseil soumet à l'Assemblée un budget annuel, des états de comptes annuels et des prévisions annuelles de toutes recettes et dépenses. L'Assemblée vote le budget en y apportant les modifications qu'elle juge à propos et, exception faite des contributions fixées en vertu du Chapitre XV à l'égard des Etats qui y consentent, répartit les dépenses de l'Organisation entre les Etats contractants sur la base qu'elle détermine en tant que de besoin.
 
-#### Article 62
+##### Article 62
 
 Suspension du droit de vote
 
 L'Assemblée peut suspendre le droit de vote à l'Assemblée et au Conseil de tout Etat contractant qui ne s'acquitte pas, dans un délai raisonnable, de ses obligations financières envers l'Organisation.
 
-#### Article 63
+##### Article 63
 
 Dépenses des délégations et des autres représentants
 
@@ -676,19 +698,19 @@ Chaque Etat contractant prend à sa charge les dépenses de sa propre délégati
 
 ### CHAPITRE XIII. Autres arrangements internationaux
 
-#### Article 64
+##### Article 64
 
 Arrangements en matière de sécurité
 
 Pour les questions aériennes de sa compétence qui concernent directement la sécurité mondiale, l'Organisation peut, par un vote de l'Assemblée, conclure des arrangements appropriés avec toute organisation générale établie par les nations du monde pour préserver la paix.
 
-#### Article 65
+##### Article 65
 
 Arrangements avec d'autres organismes internationaux
 
 Le Conseil peut, au nom de l'Organisation, conclure avec d'autres organismes internationaux des accords en vue d'entretenir des services communs et d'établir des arrangements communs au sujet du personnel et peut, avec l'approbation de l'Assemblée, conclure tous autres arrangements de nature à faciliter le travail de l'Organisation.
 
-#### Article 66
+##### Article 66
 
 Fonctions relatives à d'autres accords
 
@@ -700,7 +722,7 @@ Fonctions relatives à d'autres accords
 
 ### CHAPITRE XIV. Renseignements et rapports
 
-#### Article 67
+##### Article 67
 
 Communication de rapports au Conseil
 
@@ -708,55 +730,55 @@ Chaque Etat contractant s'engage à ce que ses entreprises de transport aérien 
 
 ### CHAPITRE XV. Aéroports et autres installations et services de navigation aérienne
 
-#### Article 68
+##### Article 68
 
 Désignation des itinéraires et des aéroports
 
 Chaque Etat contractant peut, sous réserve des dispositions de la présente [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), désigner l'itinéraire que doit suivre tout service aérien international à l'intérieur de son territoire, ainsi que les aéroports que ce service peut utiliser.
 
-#### Article 69
+##### Article 69
 
 Amélioration des installations et services de navigation aérienne
 
 Si le Conseil estime que les aéroports ou autres installations et services de navigation aérienne d'un Etat contractant, y compris ses services radioélectriques et météorologiques, ne suffisent pas à assurer l'exploitation sûre, régulière, efficace et économique des services aériens internationaux existants ou projetés, il consulte l'Etat directement en cause et les autres Etats intéressés afin de trouver le moyen de remédier à la situation et il peut formuler des recommandations à cet effet. Aucun Etat contractant n'est coupable d'infraction à la présente [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507) s'il omet de donner suite à ces recommandations.
 
-#### Article 70
+##### Article 70
 
 Financement des installations et services de navigation aérienne
 
 Un Etat contractant peut, dans les circonstances envisagées à l'article 69, conclure un arrangement avec le Conseil afin de donner effet à de telles recommandations. L'Etat peut choisir de prendre à sa charge tous les frais résultant dudit arrangement; dans le cas contraire, le Conseil peut accepter, à la demande de l'Etat, de pourvoir à la totalité ou à une partie des frais.
 
-#### Article 71
+##### Article 71
 
 Fourniture et entretien d'installations et services par le Conseil
 
 Si un Etat contractant le demande, le Conseil peut accepter de fournir, pourvoir en personnel, entretenir et administrer en totalité ou en partie les aéroports et autres installations et services de navigation aérienne, y compris les services radioélectriques et météorologiques requis sur le territoire dudit Etat pour l'exploitation sûre, régulière, efficace et économique des services aériens internationaux des autres Etats contractants et peut fixer des redevances justes et raisonnables pour l'utilisation des installations et services fournis.
 
-#### Article 72
+##### Article 72
 
 Acquisition ou utilisation de terrain
 
 Lorsqu'un terrain est nécessaire pour des installations et services financés en totalité ou en partie par le Conseil à la demande d'un Etat contractant, cet Etat doit, soit fournir lui-même ce terrain, dont il conservera la propriété s'il le désire, soit en faciliter l'utilisation par le Conseil à des conditions justes et raisonnables et conformément à ses lois.
 
-#### Article 73
+##### Article 73
 
 Dépenses et répartition des fonds
 
 Dans la limite des fonds qui peuvent être mis à sa disposition par l'Assemblée en vertu du Chapitre XII, le Conseil peut pourvoir aux dépenses courantes aux fins du présent chapitre en prélevant sur les fonds généraux de l'Organisation. Le Conseil fixe les contributions au capital requis aux fins du présent chapitre, selon des proportions préalablement convenues pour une période de temps raisonnable, entre les Etats contractants qui y consentent et dont les entreprises de transport aérien utilisent les installations et services en cause. Le Conseil peut également fixer les contributions des Etats qui y consentent à tous fonds de roulement nécessaires.
 
-#### Article 74
+##### Article 74
 
 Assistance technique et utilisation des revenus
 
 Lorsque le Conseil, à la demande d'un Etat contractant, avance des fonds ou fournit des aéroports ou d'autres installations et services en totalité ou en partie, l'arrangement peut prévoir, avec le consentement de cet Etat, une assistance technique dans la direction et l'exploitation des aéroports et autres installations et services, ainsi que le paiement, par prélèvement sur les revenus d'exploitation de ces aéroports et autres installations et services, des frais d'exploitation desdits aéroports et autres installations et services et des charges d'intérêt et d'amortissement.
 
-#### Article 75
+##### Article 75
 
 Reprise des installations et services fournis par le Conseil
 
 Un Etat contractant peut à tout moment se dégager de toute obligation contractée par lui en vertu de l'article 70 et prendre en charge les aéroports et autres installations et services établis par le Conseil sur son territoire en vertu des dispositions des articles 71 et 72, en versant au Conseil une somme qui, de l'avis du Conseil, est raisonnable en l'occurrence. Si l'Etat estime que la somme fixée par le Conseil n'est pas raisonnable, il peut appeler de la décision du Conseil à l'Assemblée et l'Assemblée peut confirmer ou modifier la décision du Conseil.
 
-#### Article 76
+##### Article 76
 
 Restitution de fonds
 
@@ -764,19 +786,19 @@ Les fonds réunis par le Conseil par voie de remboursement effectué en vertu de
 
 ### CHAPITRE XVI. Organisations d'exploitation en commun et services en pool
 
-#### Article 77
+##### Article 77
 
 Organisations d'exploitation en commun autorisées
 
 Aucune disposition de la présente [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507) n'empêche deux ou plusieurs Etats contractants de constituer, pour les transports aériens, des organisations d'exploitation en commun ou des organismes internationaux d'exploitation, ni de mettre en pool leurs services aériens sur toute route ou dans toute région. Toutefois, ces organisations ou organismes et ces services en pool sont soumis à toutes les dispositions de la présente Convention, y compris celles qui ont trait à l'enregistrement des accords au Conseil. Le Conseil détermine les modalités d'application des dispositions de la présente Convention concernant la nationalité des aéronefs aux aéronefs exploités par des organismes internationaux d'exploitation.
 
-#### Article 78
+##### Article 78
 
 Rôle du Conseil
 
 Le Conseil peut suggérer aux Etats contractants intéressés de former des organisations conjointes pour exploiter des services aériens sur toute route ou dans toute région.
 
-#### Article 79
+##### Article 79
 
 Participation aux organisations d'exploitation
 
@@ -786,25 +808,25 @@ Un Etat peut participer à des organisations d'exploitation en commun ou à des 
 
 ### CHAPITRE XVII. Autres accords et arrangements aéronautiques
 
-#### Article 80
+##### Article 80
 
 Conventions de Paris et de La Havane
 
 Chaque Etat contractant s'engage à dénoncer, dès l'entrée en vigueur de la présente [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), la Convention portant réglementation de la navigation aérienne, signée à Paris le 13 octobre 1919, ou la Convention relative à l'aviation commerciale, signée à La Havane le 20 février 1928, s'il est partie à l'une ou l'autre de ces Conventions. Entre Etats contractants, la présente Convention remplace les Conventions de Paris et de La Havane ci-dessus mentionnées.
 
-#### Article 81
+##### Article 81
 
 Enregistrement des accords existants
 
 Tous les accords aéronautiques existant au moment de l'entrée en vigueur de la présente [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507) entre un Etat contractant et tout autre Etat, ou entre une entreprise de transport aérien d'un Etat contractant et tout autre Etat ou une entreprise de transport aérien de tout autre Etat, doivent être enregistrés immédiatement au Conseil.
 
-#### Article 82
+##### Article 82
 
 Abrogation d'arrangements incompatibles
 
 Les Etats contractants reconnaissent que la présente [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507) abroge toutes les obligations et ententes entre eux qui sont incompatibles avec ses dispositions et s'engagent à ne pas contracter de telles obligations ni conclure de telles ententes. Un Etat contractant qui, avant de devenir membre de l'Organisation, a contracté envers un Etat non contractant ou un ressortissant d'un Etat contractant ou d'un Etat non contractant des obligations incompatibles avec les dispositions de la présente Convention, doit prendre sans délai des mesures pour se libérer desdites obligations. Si une entreprise de transport aérien d'un Etat contractant a assumé de telles obligations incompatibles, l'Etat dont elle a la nationalité s'emploiera de son mieux pour qu'il soit mis fin immédiatement à ces obligations et en tout cas fera en sorte qu'il soit mis fin aussitôt que cela sera juridiquement possible après l'entrée en vigueur de la présente Convention.
 
-#### Article 83
+##### Article 83
 
 Enregistrement des nouveaux arrangements
 
@@ -812,31 +834,31 @@ Sous réserve des dispositions de l'article précédent, tout Etat contractant p
 
 ### CHAPITRE XVIII. Différends et manquements
 
-#### Article 84
+##### Article 84
 
 Règlement des différends
 
 Si un désaccord entre deux ou plusieurs Etats contractants à propos de l'interprétation ou de l'application de la présente [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507) et de ses Annexes ne peut être réglé par voie de négociation, le Conseil statue à la requête de tout Etat impliqué dans ce désaccord. Aucun membre du Conseil ne peut voter lors de l'examen par le Conseil d'un différend auquel il est partie. Tout Etat contractant peut, sous réserve de l'article 85, appeler de la décision du Conseil à un tribunal d'arbitrage ad hoc établi en accord avec les autres parties au différend ou à la Cour permanente de Justice internationale. Un tel appel doit être notifié au Conseil dans les soixante jours à compter de la réception de la notification de la décision du Conseil.
 
-#### Article 85
+##### Article 85
 
 Procédure d'arbitrage
 
 Si un Etat contractant, partie à un différend dans lequel la décision du Conseil est en instance d'appel, n'a pas accepté le Statut de la Cour permanente de Justice internationale et si les Etats contractants parties à ce différend ne peuvent se mettre d'accord sur le choix du tribunal d'arbitrage, chacun des Etats contractants parties au différend désigne un arbitre et ces arbitres désignent un surarbitre. Si l'un des Etats contractants parties au différend n'a pas désigné d'arbitre dans les trois mois à compter de la date de l'appel, un arbitre sera choisi au nom de cet Etat par le Président du Conseil sur une liste de personnes qualifiées et disponibles tenue par le Conseil. Si, dans les trente jours, les arbitres ne peuvent se mettre d'accord sur un surarbitre, le Président du Conseil désigne un surarbitre choisi sur la liste susmentionnée. Les arbitres et le sur arbitre se constituent alors en tribunal d'arbitrage. Tout tribunal d'arbitrage établi en vertu du présent article ou de l'article précédent détermine ses règles de procédure et rend ses décisions à la majorité des voix, étant entendu que le Conseil peut décider des questions de procédure dans le cas d'un retard qu'il estimerait excessif.
 
-#### Article 86
+##### Article 86
 
 Appels
 
 A moins que le Conseil n'en décide autrement, toute décision du Conseil sur la question de savoir si l'exploitation d'une entreprise de transport aérien international est conforme aux dispositions de la présente [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507) conserve son effet, tant qu'elle n'a pas été infirmée en appel. Sur toute autre question, les décisions du Conseil sont suspendues en cas d'appel, jusqu'à ce qu'il soit statué sur l'appel. Les décisions de la Cour permanente de Justice internationale et celles d'un tribunal d'arbitrage sont définitives et obligatoires.
 
-#### Article 87
+##### Article 87
 
 Sanctions à rencontre d'une entreprise de transport aérien qui ne se conforme pas aux dispositions prévues
 
 Chaque Etat contractant s'engage à ne pas permettre, dans l'espace aérien au-dessus de son territoire, l'exploitation d'une entreprise de transport aérien d'un Etat contractant, si le Conseil a décidé que cette entreprise ne se conforme pas à une décision définitive rendue conformément aux dispositions de l'article précédent.
 
-#### Article 88
+##### Article 88
 
 Sanctions à rencontre d'un Etat qui ne se conforme pas aux dispositions prévues
 
@@ -844,7 +866,7 @@ L'Assemblée suspend le droit de vote à l'Assemblée et au Conseil de tout Etat
 
 ### CHAPITRE XIX. Guerre
 
-#### Article 89
+##### Article 89
 
 Guerre et état de crise
 
@@ -852,7 +874,7 @@ En cas de guerre, les dispositions de la présente [Convention](https://wetten.o
 
 ### CHAPITRE XX. Annexes
 
-#### Article 90
+##### Article 90
 
 Adoption et amendement des Annexes
 
@@ -862,7 +884,7 @@ Adoption et amendement des Annexes
 
 ### CHAPITRE XXI. Ratifications, adhésions, amendements et dénonciations
 
-#### Article 91
+##### Article 91
 
 Ratification de la [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507)
 
@@ -872,7 +894,7 @@ Ratification de la [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507)
 
 - c). Il incombe au Gouvernement des Etats-Unis d'Amérique de notifier au Gouvernement de chacun des Etats signataires et adhérents la date d'entrée en vigueur de la présente [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507).
 
-#### Article 92
+##### Article 92
 
 Adhésion à la [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507)
 
@@ -880,13 +902,13 @@ Adhésion à la [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507)
 
 - b). L'adhésion s'effectue par une notification adressée au Gouvernement des Etats-Unis d'Amérique et prend effet le trentième jour qui suit la réception de la notification par le Gouvernement des Etats-Unis d'Amérique, lequel en avise tous les Etats contractants.
 
-#### Article 93
+##### Article 93
 
 Admission d'autres Etats
 
 Les Etats autres que ceux auxquels s'appliquent les articles 91 et 92 a) peuvent, sous réserve de l'approbation de toute organisation internationale générale créée par les nations du monde pour préserver la paix, être admis à participer à la présente [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507) par un vote des quatre cinquièmes de l'Assemblée dans les conditions que l'Assemblée pourra prescrire, étant entendu que dans chaque cas l'assentiment de tout Etat envahi ou attaqué au cours de la présente guerre par l'Etat qui demande son admission sera nécessaire.
 
-#### Article 94
+##### Article 94
 
 Amendement de la [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507)
 
@@ -894,7 +916,7 @@ Amendement de la [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507)
 
 - b). Si à son avis l'amendement est de nature à justifier cette mesure, l'Assemblée peut, dans sa résolution qui en recommande l'adoption, stipuler que tout Etat qui n'aura pas ratifié ledit amendement dans un délai déterminé après que cet amendement sera entré en vigueur cessera alors d'être membre de l'Organisation et partie à la [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507).
 
-#### Article 95
+##### Article 95
 
 Dénonciation de la [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507)
 
@@ -904,7 +926,7 @@ Dénonciation de la [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507
 
 ### CHAPITRE XXII. Définitions
 
-#### Article 96
+##### Article 96
 
 Aux fins de la présente [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507)
 

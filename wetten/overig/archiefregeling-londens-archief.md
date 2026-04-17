@@ -1,20 +1,45 @@
 ---
-title: "Archiefregeling Londens Archief"
+title: "Regeling van de Minister van Buitenlandse Zaken van 15 april 2003, nr. DDI/ST/reg1/2003, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden van het archief, van het Ministerie van Buitenlandse Zaken in ballingschap te Londen, (`Londens Archief'), (1936) 1940-1945 (1958)"
 identifier: "BWBR0014977"
-categorie: "Overig"
-publicatiedatum: 2003-04-18
-laatste_update: 2003-04-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0014977"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2003-04-18"
+last_updated: "2003-04-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0014977"
+soort: "ministeriele-regeling"
+stam_id: "4355513"
+version_id: "6112062"
+internal_id: "C29173271"
+label_id: "4334144"
+dtd_version: "2.0"
+original_entry_into_force: "2003-04-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0014977/2003-04-18/0"
+intitule_bron: "Stcrt.2003-75"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-04-15"
+intitule_published: "2003-04-16"
+intitule_in_force: "2003-04-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2003-75"
+original_signed_date: "2003-04-15"
+original_published_date: "2003-04-16"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2003-04-18"
+jci_1_3: "jci1.3:c:BWBR0014977&z=2003-04-18&g=2003-04-18"
+jci_1_0: "1.0:c:BWBR0014977&g=2003-04-18"
+citeertitel_status: "redactioneel"
+short_title: "Archiefregeling Londens Archief"
+signed_date: "2003-04-15"
+entry_into_force: "2003-04-18"
 ---
-
 # Regeling van de Minister van Buitenlandse Zaken van 15 april 2003, nr. DDI/ST/reg1/2003, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden van het archief, van het Ministerie van Buitenlandse Zaken in ballingschap te Londen, (`Londens Archief'), (1936) 1940-1945 (1958)
 
 Gelet op [artikel 15, eerste lid, onder a en c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15) en [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Met het oog op de eerbiediging van de persoonlijke levenssfeer, alsmede op het anderszins voorkomen van onevenredige bevoordeling of benadeling van betrokken natuurlijke personen of rechtspersonen danwel van derden worden aan de openbaarheid van de naar het Nationaal Archief over te brengen archiefbescheiden van het Ministerie van Buitenlandse Zaken in ballingschap te Londen, (`Londens Archief'), (1936) 1940-1945 (1958), de in het volgende lid genoemde beperkingen gesteld.
 
@@ -34,11 +59,11 @@ is slechts mogelijk na ondertekening door de onderzoeker van het door het Nation
 
 3. De beperking aan de openbaarheid, bedoeld in het tweede lid, geldt tot 75 jaar na afsluiting van het betrokken dossier.
 
-#### Artikel 2
+##### Artikel 2
 
 De directeur van het Nationaal Archief is verplicht de archiefbescheiden in goede staat te bewaren of te doen bewaren, overeenkomstig het bij of krachtens de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) bepaalde.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt gepubliceerd en werkt terug tot en met 6 maart 2003.
 

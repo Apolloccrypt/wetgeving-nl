@@ -1,13 +1,39 @@
 ---
-title: "Regeling vertrouwenspersonen integriteit en ongewenste omgangsvormen OCW 2019"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 23 april 2019, nr. 1396110, houdende de vaststelling van regelingen inzake vertrouwenspersonen integriteit en ongewenste omgangsvormen (Regeling vertrouwenspersonen integriteit en ongewenste omgangsvormen OCW 2019)"
 identifier: "BWBR0042226"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2019-05-24
-laatste_update: 2019-05-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042226"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2019-05-24"
+last_updated: "2019-05-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042226"
+soort: "ministeriele-regeling"
+stam_id: "15077853"
+version_id: "25843312"
+internal_id: "C36839201"
+label_id: "15026674"
+dtd_version: "2.0"
+original_entry_into_force: "2019-05-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042226/2019-05-24/0"
+intitule_bron: "Stcrt.2019-28633"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-04-23"
+intitule_published: "2019-05-23"
+intitule_in_force: "2019-05-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-28633"
+original_signed_date: "2019-04-23"
+original_published_date: "2019-05-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-28633"
+entry_into_force_date: "2019-05-24"
+jci_1_3: "jci1.3:c:BWBR0042226&z=2019-05-24&g=2019-05-24"
+jci_1_0: "1.0:c:BWBR0042226&g=2019-05-24"
+citeertitel_status: "officieel"
+short_title: "Regeling vertrouwenspersonen integriteit en ongewenste omgangsvormen OCW 2019"
+signed_date: "2019-04-23"
+entry_into_force: "2019-05-24"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 23 april 2019, nr. 1396110, houdende de vaststelling van regelingen inzake vertrouwenspersonen integriteit en ongewenste omgangsvormen (Regeling vertrouwenspersonen integriteit en ongewenste omgangsvormen OCW 2019)
 
 Gelet op [artikel 9:14 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:14), [artikel 3, tweede lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=3), [artikel 6, eerste lid, van de Klachtenregeling seksuele intimidatie burgerlijk rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0006835&artikel=6) en[artikel 3, van de Interne Klokkenluidersregeling Rijk, Politie en Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0038940&artikel=3);
@@ -18,7 +44,7 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 - −. **adviseur integriteit:** adviseur medezeggenschap en integriteit van de directie Organisatie en Bedrijfsvoering, afdeling Personeel en Organisatie van het ministerie;
 
@@ -52,23 +78,23 @@ Besluit:
 
 #### § 2. Werkingsgebied
 
-#### Artikel 2
+##### Artikel 2
 
 Een medewerker die een integriteitschending of een misstand vermoedt, kan zich wenden tot zijn direct leidinggevende, tot een vertrouwenspersoon, tot het hoofd van dienst of, indien dit niet in redelijkheid van hem kan worden gevraagd, rechtstreeks een melding doen bij de afdeling Onderzoek van het Huis voor Klokkenluiders in het geval van een vermoeden van een misstand, als bedoeld in [artikel 1, onder d, Wet Huis voor Klokkenluiders](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=1).
 
-#### Artikel 3
+##### Artikel 3
 
 De medewerker die wordt of is geconfronteerd met ongewenste omgangsvormen kan zich wenden tot zijn direct leidinggevende, tot een vertrouwenspersoon, of tot de commissie.
 
 #### § 3. Aanwijzing en taken
 
-#### Artikel 4
+##### Artikel 4
 
 1. Bij het ministerie zijn ten minste één vertrouwenspersoon ongewenste omgangsvormen en één vertrouwenspersoon integriteit.
 
 2. De vertrouwenspersoon ressorteert als zodanig rechtstreeks onder de secretaris-generaal.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De vertrouwenspersoon wordt aangewezen en van zijn taak ontheven door de secretaris-generaal.
 
@@ -76,7 +102,7 @@ De medewerker die wordt of is geconfronteerd met ongewenste omgangsvormen kan zi
 
 3. Indien de SG, gehoord de coördinator, overweegt een vertrouwenspersoon tussentijds van zijn taak te ontheffen, dan wordt de vertrouwenspersoon over dit voornemen gehoord.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Bij het ministerie is een coördinator vertrouwenspersonen.
 
@@ -84,7 +110,7 @@ De medewerker die wordt of is geconfronteerd met ongewenste omgangsvormen kan zi
 
 3. Aanwijzing vindt plaats, behoudens tussentijdse taakontheffing, al dan niet op verzoek, voor de duur van 4 jaar en kan eenmalig met eenzelfde periode worden verlengd.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De vertrouwenspersoon integriteit heeft in elk geval de volgende taken en bevoegdheden:
 
@@ -104,7 +130,7 @@ De medewerker die wordt of is geconfronteerd met ongewenste omgangsvormen kan zi
 
 2. De vertrouwenspersoon integriteit heeft op het gebied van meldingen van het vermoeden van een misstand de taak die is omschreven in [artikel 3, tweede lid, van de Interne Klokkenluidersregeling Rijk, Politie en Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0038940&artikel=3).
 
-#### Artikel 8
+##### Artikel 8
 
 De vertrouwenspersoon ongewenste omgangsvormen heeft in elk geval de volgende taken en bevoegdheden:
 
@@ -126,7 +152,7 @@ De vertrouwenspersoon ongewenste omgangsvormen heeft in elk geval de volgende ta
 
 - i). het registreren van de meldingen ten behoeve van de eigen roluitoefening en mede ten behoeve van de jaarlijkse rapportage aan de secretaris-generaal.
 
-#### Artikel 9
+##### Artikel 9
 
 De coördinator heeft de volgende taken en verantwoordelijkheden:
 
@@ -160,7 +186,7 @@ De coördinator heeft de volgende taken en verantwoordelijkheden:
 
 - o). het onderhouden van contacten met de afdeling P&O van directie O&B en de adviseur integriteit in het bijzonder.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De vertrouwenspersonen brengen jaarlijks gezamenlijk verslag uit aan de secretaris-generaal.
 
@@ -170,7 +196,7 @@ De coördinator heeft de volgende taken en verantwoordelijkheden:
 
 #### § 4. Rechten en plichten
 
-#### Artikel 11
+##### Artikel 11
 
 1. De vertrouwenspersoon kan zich, op grond van vermenging van of tegenstrijdige belangen, tegenover een klager of melder beroepen op verschoning. In dergelijke gevallen kan hij doorverwijzen naar een andere vertrouwenspersoon.
 
@@ -178,13 +204,13 @@ De coördinator heeft de volgende taken en verantwoordelijkheden:
 
 3. De vertrouwenspersoon waarborgt te allen tijde de vertrouwelijkheid.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De vertrouwenspersoon geniet binnen de rijksoverheid verschoningsrecht, behoudens in de situatie dat de wet hem tot informatieverschaffing verplicht.
 
 2. Indien een vertrouwenspersoon op grond van zijn verschoningsrecht weigert informatie te verstrekken heeft dit geen gevolgen voor zijn functioneren of voor zijn rechtspositie.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De directeur Organisatie en Bedrijfsvoering stelt jaarlijks een budget beschikbaar voor de deskundigheidsbevordering van de vertrouwenspersonen.
 
@@ -202,7 +228,7 @@ De coördinator heeft de volgende taken en verantwoordelijkheden:
 
 5. Indien de vertrouwenspersoon niet voldoet aan een of meer van de verplichtingen als bedoeld in het derde en vierde lid, of indien de vertrouwenspersoon zijn taak niet naar behoren verricht, kan de secretaris-generaal op aangeven van de coördinator besluiten de aanwijzing in te trekken.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Een vertrouwenspersoon of gewezen vertrouwenspersoon ondervindt in zijn positie in de organisatie geen nadeel van zijn activiteiten in het kader van de uitvoering van deze regeling.
 
@@ -212,20 +238,20 @@ De coördinator heeft de volgende taken en verantwoordelijkheden:
 
 4. Een medewerker die te goeder trouw ongewenste omgangsvormen aan de orde heeft gesteld of een klacht heeft ingediend respectievelijk een vermoedelijke integriteitsschending, anders dan het vermoeden van een misstand, heeft gemeld, ondervindt in zijn positie als medewerker geen nadeel van zijn handelwijze.
 
-#### Artikel 15
+##### Artikel 15
 
 Indien de vertrouwenspersoon proceskosten maakt, dan is de vergoeding zoals opgenomen in [hoofdstuk 3 van de Interne klokkenluidersregeling Rijk, politie en Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0038940&hoofdstuk=3), van overeenkomstige toepassing.
 
 #### § 5. Overgangs- en slotbepalingen
 
-#### Artikel 16
+##### Artikel 16
 
 Voor de eerste maal worden als vertrouwenspersonen aangewezen de personen die al als zodanig waren aangewezen op grond van de Regeling klachtenprocedure ongewenst gedrag OCW 2004 of de [Interne Klokkenluidersregeling Rijk, Politie en Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0038940). Deze aanwijzing geldt voor de duur van vijf jaar.
 
-#### Artikel 17
+##### Artikel 17
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst en treedt in werking met ingang van de dag na de datum van uitgifte van de desbetreffende Staatscourant.
 
-#### Artikel 18
+##### Artikel 18
 
 Deze regeling wordt aangehaald als: Regeling vertrouwenspersonen integriteit en ongewenste omgangsvormen OCW 2019.

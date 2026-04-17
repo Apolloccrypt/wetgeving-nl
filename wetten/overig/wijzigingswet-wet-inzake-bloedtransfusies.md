@@ -1,14 +1,42 @@
 ---
-title: "Wijzigingswet Wet inzake bloedtransfusies"
+title: "Wet van 10 april 1997 tot wijziging van de Wet inzake bloedtransfusie"
 identifier: "BWBR0008637"
-categorie: "Overig"
-publicatiedatum: 1997-06-06
-laatste_update: 1997-06-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008637"
+country: "nl"
+rank: "wet"
+publication_date: "1997-06-06"
+last_updated: "1997-06-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008637"
+soort: "wet"
+stam_id: "544953"
+version_id: "796852"
+internal_id: "C796851"
+label_id: "528994"
+dtd_version: "2.0"
+original_entry_into_force: "1997-06-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008637/1997-06-06/0"
+intitule_bron: "Stb.1997-215"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-04-10"
+intitule_published: "1997-06-05"
+intitule_in_force: "1997-06-05"
+intitule_status: "goed"
+original_publication: "Stb.1997-215"
+original_signed_date: "1997-04-10"
+original_published_date: "1997-06-05"
+original_effect: "nieuwe-regeling"
+original_dossier: "23805"
+original_url_id: "stb-1997-215"
+entry_into_force_date: "1997-06-06"
+entry_into_force_dossier: "23805"
+jci_1_3: "jci1.3:c:BWBR0008637&z=1997-06-06&g=1997-06-06"
+jci_1_0: "1.0:c:BWBR0008637&g=1997-06-06"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet Wet inzake bloedtransfusies"
+signed_date: "1997-04-10"
+entry_into_force: "1997-06-06"
 ---
-
-# Wijzigingswet Wet inzake bloedtransfusies
+# Wet van 10 april 1997 tot wijziging van de Wet inzake bloedtransfusie
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,19 +44,19 @@ Alzo Wij in overweging genomen hebben, dat het noodzakelijk is de werkingssfeer 
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### ARTIKEL I
+##### ARTIKEL I
 
 Wijzigt de Wet inzake bloedtransfusie.
 
-#### ARTIKEL II
+##### ARTIKEL II
 
 Wijzigt de Wet op de Geneesmiddelenvoorziening.
 
-#### ARTIKEL III
+##### ARTIKEL III
 
 Ten aanzien van het Centraal Laboratorium en de regionale stichtingen welke bij de inwerkingtreding van artikel 25**a** reeds ingevolge een erkenning krachtens artikel 13 van de Wet inzake bloedtransfusie zoals dat luidde vóór het in werking treden van de onderhavige wet, bloedprodukten als bedoeld in artikel 24 mochten bereiden, geldt de in artikel 25**a**, eerste lid, vervatte eis niet tot zes maanden na dat in werking treden, indien vóór het verstrijken van die termijn een verzoek om erkenning als bedoeld in artikel 25**a** is ingediend. Indien vóór het verstrijken van die termijn een verzoek om erkenning is ingediend, geldt die eis ook verder niet tot de eerste dag van de kalendermaand na de dag waarop de beslissing op het verzoek onherroepelijk is geworden.
 
-#### ARTIKEL IV
+##### ARTIKEL IV
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst.
 

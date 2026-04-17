@@ -1,14 +1,40 @@
 ---
-title: "Noodwet financieel verkeer"
+title: "Wet van 25 mei 1978, houdende regelen inzake voorzieningen op het gebied van het financiële verkeer in buitengewone omstandigheden"
 identifier: "BWBR0003173"
-categorie: "Verkeer"
-publicatiedatum: 2007-11-01
-laatste_update: 2007-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003173"
+country: "nl"
+rank: "wet"
+publication_date: "2007-11-01"
+last_updated: "2007-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003173"
+soort: "wet"
+stam_id: "1681053"
+version_id: "9860722"
+internal_id: "C13325391"
+label_id: "1634704"
+dtd_version: "2.0"
+original_entry_into_force: "2003-11-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003173/2007-11-01/0"
+intitule_bron: "Stb.1978-348"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1978-05-25"
+intitule_status: "goed"
+original_publication: "Stb.2003-465"
+original_signed_date: "2003-11-06"
+original_published_date: "2003-11-25"
+original_effect: "structuurwijziging"
+original_dossier: "28915"
+original_url_id: "stb-2003-465"
+entry_into_force_date: "2003-11-06"
+entry_into_force_dossier: "28915"
+jci_1_3: "jci1.3:c:BWBR0003173&z=2007-11-01&g=2007-11-01"
+jci_1_0: "1.0:c:BWBR0003173&g=2007-11-01"
+citeertitel_status: "officieel"
+short_title: "Noodwet financieel verkeer"
+signed_date: "2003-11-06"
+entry_into_force: "2003-11-06"
 ---
-
-# Noodwet financieel verkeer
+# Wet van 25 mei 1978, houdende regelen inzake voorzieningen op het gebied van het financiële verkeer in buitengewone omstandigheden
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +44,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk 1. Inleidende bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van het bij en krachtens deze wet bepaalde wordt verstaan onder:
 
@@ -56,7 +82,7 @@ Voor de toepassing van het bij en krachtens deze wet bepaalde wordt verstaan ond
 
 - l. gereglementeerde markt: een gereglementeerde markt als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) of een met een gereglementeerde markt vergelijkbaar systeem uit een staat die geen lidstaat is.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, de [artikelen 3 tot en met 32](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=II&artikel=3&z=2007-11-01&g=2007-11-01) gezamenlijk of afzonderlijk in werking worden gesteld.
 
@@ -72,7 +98,7 @@ Voor de toepassing van het bij en krachtens deze wet bepaalde wordt verstaan ond
 
 ### Hoofdstuk II. Kredietbeperking
 
-#### Artikel 3
+##### Artikel 3
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
@@ -80,7 +106,7 @@ Onze Minister is bevoegd te bepalen - zo nodig in afwijking van andere wettelijk
 
 ### Hoofdstuk III. Bankenmoratorium
 
-#### Artikel 4
+##### Artikel 4
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
@@ -88,7 +114,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 2. Het is verboden om tegoeden, welke ten behoeve van bepaalde doeleinden worden vrijgegeven, voor andere doeleinden aan te wenden.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
@@ -96,7 +122,7 @@ Onze Minister is bevoegd nadere voorschriften te geven terzake van een krachtens
 
 ### Hoofdstuk IV. Rentevaststelling
 
-#### Artikel 6
+##### Artikel 6
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
@@ -104,13 +130,13 @@ Onze Minister is bevoegd - zo nodig in afwijking van andere wettelijke regelinge
 
 ### Hoofdstuk V. Noodgeld
 
-#### Artikel 7
+##### Artikel 7
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
 Onze Minister is bevoegd noodgeld in omloop te brengen tot de bedragen, welke hij in verband met de buitengewone omstandigheden nodig acht.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
@@ -118,13 +144,13 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 2. Noodgeld is wettig betaalmiddel.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
 Hetgeen bij [artikel 8, eerste lid, van de Muntwet 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=8) ten aanzien van munten is bepaald, is mede van toepassing op noodgeld.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
@@ -132,7 +158,7 @@ Onze Minister is bevoegd in omloop gebracht noodgeld buiten omloop te stellen. H
 
 ### Hoofdstuk VI. Bescherming geldcirculatie
 
-#### Artikel 11
+##### Artikel 11
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
@@ -144,7 +170,7 @@ Onze Minister is bevoegd te bepalen, dat het verboden is:
 
 - c. hulpgeld aan te bieden of aan te nemen behoudens in door hem te bepalen gevallen.
 
-#### Artikel 12
+##### Artikel 12
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
@@ -152,7 +178,7 @@ Onze Minister is bevoegd nadere voorschriften te geven ter bescherming van de ge
 
 ### Hoofdstuk VII. Giraal betalingsverkeer
 
-#### Artikel 13
+##### Artikel 13
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
@@ -160,23 +186,23 @@ Onze Minister is bevoegd te bepalen dat in door hem nader aan te geven gevallen 
 
 ### Hoofdstuk VIII. Bepalingen inzake de bank
 
-#### Artikel 14
+##### Artikel 14
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
 De Bank verleent, in afwijking van het bepaalde in [artikel 8, eerste lid, van de Bankwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&artikel=8), aan de Staat kredieten of voorschotten in blanco volgens regelen door Onze Minister na overleg met de Bank te stellen, wanneer dit voor een tijdelijke versterking van ’s Rijks schatkist nodig is.
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
 ### Hoofdstuk IX. Moratorium levensverzekeringsondernemingen, pensioen- en spaarfondsen en beleggingsinstellingen
 
-#### Artikel 17
+##### Artikel 17
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
@@ -190,13 +216,13 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 3. Met afkoop wordt gelijk gesteld het omzetten van een overeenkomst van levensverzekering in een andere overeenkomst van levensverzekering waarbij de afloopdatum van de verzekering wordt vervroegd.
 
-#### Artikel 18
+##### Artikel 18
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
 Onze Minister is bevoegd nadere voorschriften te geven terzake van een krachtens [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=IX&artikel=17&z=2007-11-01&g=2007-11-01) ingesteld verzekeringsmoratorium, met inbegrip van voorschriften inzake vergoeding van rente over bedragen, waarvan de uitkering ingevolge de bij en krachtens dit hoofdstuk vastgestelde bepalingen is opgeschort.
 
-#### Artikel 18a
+##### Artikel 18a
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
@@ -206,13 +232,13 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 ### Hoofdstuk IXA. Korting op dekking terrorismerisico door verzekeringsondernemingen
 
-#### Artikel 19
+##### Artikel 19
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
 Onze Minister is bevoegd te bepalen, dat in overeenkomsten van levensverzekering het oorlogsrisico van een door hem vast te stellen tijdstip af wordt geacht mede te zijn verzekerd.
 
-#### Artikel 20
+##### Artikel 20
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
@@ -222,25 +248,25 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 3. Onze Minister is bevoegd te bepalen, dat het, zolang hij van de hem in het eerste lid gegeven bevoegdheid geen gebruik heeft gemaakt, verboden is zonder een door of namens hem verleende algemene of bijzondere vergunning uitkeringen ingevolge een overeenkomst van levensverzekering te doen, aan te nemen of daarover te beschikken.
 
-#### Artikel 21
+##### Artikel 21
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
 Onze Minister is bevoegd nadere voorschriften te geven terzake van het mede-verzekeren van het oorlogsrisico in overeenkomsten van levensverzekering en terzake van de in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=X&artikel=20&z=2007-11-01&g=2007-11-01) bedoelde kortingen.
 
-#### Artikel 22
+##### Artikel 22
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
 Onze Minister bepaalt het tijdstip, met ingang waarvan de krachtens [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=X&artikel=20&z=2007-11-01&g=2007-11-01) vastgestelde kortingen niet meer worden toegepast ten aanzien van daarna te sluiten overeenkomsten van levensverzekering.
 
-#### Artikel 23
+##### Artikel 23
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
 Zolang de ingevolge de [artikelen 19-22](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=X&artikel=19&z=2007-11-01&g=2007-11-01) gegeven voorschriften van kracht zijn, blijven de in de betrokken overeenkomsten van levensverzekering opgenomen bepalingen omtrent de dekking van het oorlogsrisico buiten toepassing.
 
-#### Artikel 24
+##### Artikel 24
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
@@ -248,7 +274,7 @@ Het bepaalde in de [artikelen 19-23](https://wetten.overheid.nl/jci1.3:c:BWBR000
 
 ### Hoofdstuk Xa. Bepalingen inzake de effectenbeurzen
 
-#### Artikel 24a
+##### Artikel 24a
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
@@ -256,7 +282,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ### Hoofdstuk XI. Betaling schadeloosstellingen
 
-#### Artikel 25
+##### Artikel 25
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
@@ -268,7 +294,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 ### Hoofdstuk Xa. Bepalingen inzake de effectenbeurzen
 
-#### Artikel 26
+##### Artikel 26
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
@@ -276,13 +302,13 @@ Onze Minister is bevoegd - zo nodig in afwijking van andere wettelijke regelinge
 
 ### Hoofdstuk XI. Betaling schadeloosstellingen
 
-#### Artikel 27
+##### Artikel 27
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
 Wanneer anderen dan Onze Minister algemene of bijzondere vergunningen verlenen overeenkomstig het bepaalde bij of krachtens deze wet, nemen zij de daartoe door Onze Minister gegeven aanwijzingen in acht.
 
-#### Artikel 28
+##### Artikel 28
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
@@ -290,11 +316,11 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 2. Aan een vergunning, als bedoeld in het eerste lid, kunnen voorschriften en voorwaarden worden verbonden.
 
-#### Artikel 29
+##### Artikel 29
 
 Vervallen
 
-#### Artikel 30
+##### Artikel 30
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
@@ -302,51 +328,51 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 2. Andere besluiten van Onze Minister krachtens deze wet genomen treden niet in werking alvorens zij zijn bekendgemaakt door plaatsing in de **Staatscourant** of op een andere door Onze Minister bepaalde wijze.
 
-#### Artikel 31
+##### Artikel 31
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
 Aan het slot van [artikel 1, eerste lid, onder 1°, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1) wordt toegevoegd: de Noodwet financieel verkeer, de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=II&artikel=3&z=2007-11-01&g=2007-11-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=III&artikel=4&z=2007-11-01&g=2007-11-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=III&artikel=5&z=2007-11-01&g=2007-11-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=IV&artikel=6&z=2007-11-01&g=2007-11-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=VI&artikel=11&z=2007-11-01&g=2007-11-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=VI&artikel=12&z=2007-11-01&g=2007-11-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=IX&artikel=17&z=2007-11-01&g=2007-11-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=IX&artikel=18&z=2007-11-01&g=2007-11-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=XII&artikel=26&z=2007-11-01&g=2007-11-01) en [28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=XIII&artikel=28&z=2007-11-01&g=2007-11-01).
 
-#### Artikel 32
+##### Artikel 32
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
 Op noodgeld zijn de [artikelen 208-214 en 440 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=208) van overeenkomstige toepassing.
 
-#### Artikel 33
+##### Artikel 33
 
 Het is aan ieder, die bij de toepassing van de bij of krachtens deze wet gestelde bepalingen enige taak vervult, verboden aan daarbij verkregen gegevens of inlichtingen bekendheid te geven, tenzij zulks voor de juiste uitoefening van die taak wordt vereist.
 
-#### Artikel 34
+##### Artikel 34
 
 Bij algemene maatregel van bestuur worden de autoriteiten aangewezen, die onder daarbij te stellen regelen in enig gebied de daarbij aangewezen bevoegdheden, welke in deze wet aan Onze Minister worden toegekend, uitoefenen, zolang de verbinding tussen dat gebied en Onze Minister is verbroken. Ons besluit wordt mede bekend gemaakt in de **Nederlandse Staatscourant**.
 
-#### Artikel 35
+##### Artikel 35
 
 Bij algemene maatregel van bestuur worden regelen gesteld terzake van betalingen door het Rijk in enig gebied, zo lang de verbindingen tussen Onze Minister en een zodanig gebied zijn verbroken. Hierbij kan van andere wettelijke regelingen worden afgeweken.
 
 ### Hoofdstuk XIV. Slotbepalingen
 
-#### Artikel 36
+##### Artikel 36
 
 Het Besluit Bankenmoratorium 1944 (**Stb.** E28) wordt ingetrokken.
 
-#### Artikel 37
+##### Artikel 37
 
 Na het in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=X&artikel=23&z=2007-11-01&g=2007-11-01) bedoelde tijdvak doen Wij zo spoedig mogelijk een voorstel van wet aan de Staten-Generaal omtrent de definitieve regeling terzake van de krachtens [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=X&artikel=20&z=2007-11-01&g=2007-11-01) genomen maatregelen.
 
-#### Artikel 38
+##### Artikel 38
 
 Deze wet kan worden aangehaald als: Noodwet financieel verkeer.
 
-#### Artikel 39
+##### Artikel 39
 
 Met uitzondering van de [artikelen 3-32](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=II&artikel=3&z=2007-11-01&g=2007-11-01) treedt deze wet in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad**, waarin zij is geplaatst.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 18b
+##### Artikel 18b
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
@@ -356,13 +382,13 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 3. Onze Minister is bevoegd de in het eerste lid bedoelde kortingen en beperkingen van uitkeringen te herzien.
 
-#### Artikel 18c
+##### Artikel 18c
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
 Onze Minister is bevoegd nadere voorschriften te geven terzake van het bepaalde in [artikel 18b](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=IXA&artikel=18b&z=2007-11-01&g=2007-11-01).
 
-#### Artikel 18d
+##### Artikel 18d
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 

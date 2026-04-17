@@ -1,13 +1,35 @@
 ---
 title: "Tarieventabel Handhaving Centraal Bureau voor de Statistiek 2023"
 identifier: "BWBR0049556"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-04-04
-laatste_update: 2023-04-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049556"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-04-04"
+last_updated: "2023-04-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049556"
+soort: "zbo"
+stam_id: "17070363"
+version_id: "30038872"
+internal_id: "C43054131"
+label_id: "16979084"
+dtd_version: "2.0"
+original_entry_into_force: "2023-04-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049556/2023-04-04/0"
+intitule_bron: "Stcrt.2023-10003"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2023-04-04"
+intitule_in_force: "2023-04-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-10003"
+original_published_date: "2023-04-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-10003"
+entry_into_force_date: "2023-04-04"
+jci_1_3: "jci1.3:c:BWBR0049556&z=2023-04-04&g=2023-04-04"
+jci_1_0: "1.0:c:BWBR0049556&g=2023-04-04"
+citeertitel_status: "redactioneel"
+entry_into_force: "2023-04-04"
 ---
-
 # Tarieventabel Handhaving Centraal Bureau voor de Statistiek 2023
 
 ### Algemeen

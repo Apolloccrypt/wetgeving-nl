@@ -1,13 +1,38 @@
 ---
 title: "Europees Verdrag aangaande de wederzijdse rechtshulp in strafzaken"
 identifier: "BWBV0001009"
-categorie: "Internationaal recht"
-publicatiedatum: 2011-04-01
-laatste_update: 2011-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001009"
+country: "nl"
+rank: "verdrag"
+publication_date: "2011-04-01"
+last_updated: "2011-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001009"
+soort: "verdrag"
+stam_id: "10002498353"
+version_id: "10002492042"
+internal_id: "C10006988951"
+label_id: "10002488104"
+dtd_version: "2.0"
+original_entry_into_force: "1969-05-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001009/2011-04-01/0"
+intitule_bron: "Trb.1965-10"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1969-02-14"
+intitule_published: "1965-02-04"
+intitule_in_force: "1969-05-09"
+intitule_status: "goed"
+original_publication: "Trb.1965-10"
+original_signed_date: "1969-02-14"
+original_published_date: "1965-02-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1965-10"
+entry_into_force_date: "1969-05-15"
+jci_1_3: "jci1.3:c:BWBV0001009&z=2011-04-01&g=2011-04-01"
+jci_1_0: "1.0:c:BWBV0001009&g=2011-04-01"
+citeertitel_status: "redactioneel"
+signed_date: "1969-02-14"
+entry_into_force: "1969-05-15"
 ---
-
 # Europees Verdrag aangaande de wederzijdse rechtshulp in strafzaken
 
 De Regeringen die dit Verdrag hebben ondertekend, Leden van de Raad van Europa,
@@ -22,7 +47,7 @@ Zijn als volgt overeengekomen:
 
 ### TITEL I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. De Partijen verbinden zich er onmiddellijk toe om, in overeenstemming met de bepalingen van dit Verdrag, elkander wederzijds in zo ruim mogelijke mate rechtshulp te verlenen in procedures die betrekking hebben op strafbare feiten waarvan de bestraffing op het tijdstip van het verzoek om rechtshulp, tot de bevoegdheid behoort van rechterlijke autoriteiten van de verzoekende Partij.
 
@@ -32,7 +57,7 @@ Zijn als volgt overeengekomen:
 
 4. Wederzijdse rechtshulp wordt niet geweigerd op grond van het enkele feit dat deze betrekking heeft op handelingen waarvoor een rechtspersoon in de verzoekende Partij aansprakelijk kan worden gesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 Rechtshulp kan worden geweigerd:
 
@@ -42,7 +67,7 @@ Rechtshulp kan worden geweigerd:
 
 ### TITEL II. Rogatoire commissies
 
-#### Artikel 3
+##### Artikel 3
 
 1. De aangezochte Partij geeft volgens de procedure voorzien in haar eigen wetgeving gevolg aan de rogatoire commissies aangaande een strafzaak die tot haar worden gericht door de rechterlijke autoriteiten van de verzoekende Partij en die tot doel hebben het verrichten van handelingen van onderzoek of de toezending van stukken van overtuiging, van dossiers of van documenten.
 
@@ -50,13 +75,13 @@ Rechtshulp kan worden geweigerd:
 
 3. De aangezochte Partij zal kunnen volstaan met de toezending van voor eensluidend gewaarmerkte afschriften of fotocopieën van de dossiers of documenten waarom wordt verzocht. Indien de verzoekende Partij uitdrukkelijk vraagt om toezending van het origineel, dient zoveel mogelijk aan een dergelijk verzoek gevolg te worden gegeven.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De aangezochte Partij licht de verzoekende Partij, indien zij daarom uitdrukkelijk vraagt, in aangaande de datum waarop en de plaats waar de rogatoire commissie zal worden uitgevoerd. De autoriteiten van de verzoekende Partij en de betrokkenen kunnen bij die uitvoering aanwezig zijn indien de aangezochte Partij daarin toestemt.
 
 2. Verzoeken om de aanwezigheid van dergelijke autoriteiten of betrokkenen mag niet worden geweigerd wanneer de uitvoering van het verzoek om rechtshulp door hun aanwezigheid naar verwachting beter aansluit bij de behoeften van de verzoekende Partij en aanvullende verzoeken om rechtshulp derhalve naar verwachting vermeden kunnen worden.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Iedere Verdragsluitende Partij kan zich bij de ondertekening van dit Verdrag of bij de nederlegging van de akte van bekrachtiging of van toetreding door een verklaring gericht tot de Secretaris-Generaal van de Raad van Europa het recht voorbehouden de uitvoering van rogatoire commissies strekkende tot huiszoeking of inbeslagneming afhankelijk te stellen van een of meer van de volgende voorwaarden:
 
@@ -68,7 +93,7 @@ Rechtshulp kan worden geweigerd:
 
 2. Wanneer een Verdragsluitende Partij een verklaring overeenkomstig het eerste lid van dit artikel heeft afgelegd, kan elke andere Partij het beginsel van wederkerigheid toepassen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De aangezochte Partij kan de overgave van voorwerpen, dossiers en documenten waarvan de overdracht is gevraagd, uitstellen wanneer zij deze nodig heeft voor een strafrechtelijke procedure.
 
@@ -76,7 +101,7 @@ Rechtshulp kan worden geweigerd:
 
 ### TITEL III. Mededeling van processtukken en rechterlijke beslissingen - Verschijning van getuigen, deskundigen en verdachten
 
-#### Artikel 7
+##### Artikel 7
 
 1. De aangezochte Partij doet de processtukken en rechterlijke beslissingen die haar met dat doel door de verzoekende Partij worden toegezonden, aan de betrokkenen toekomen.
 
@@ -88,15 +113,15 @@ Dit kan geschieden door toezending van het processtuk of van de beslissing aan d
 
 Bij het vaststellen van de datum van verschijning en bij de toezending van de dagvaarding dient met deze termijn rekening te worden gehouden.
 
-#### Artikel 8
+##### Artikel 8
 
 De getuige of deskundige die geen gevolg heeft gegeven aan een dagvaarding waarvan toezending is gevraagd, kan aan geen enkele sanctie of dwangmaatregel worden onderworpen, zelfs niet indien in de dagvaarding een verplichting om te verschijnen is vermeld, tenzij de betrokkene zich daarna uit vrije wil op het grondgebied van de verzoekende Partij begeeft en hij daar op wettige wijze opnieuw gedagvaard wordt.
 
-#### Artikel 9
+##### Artikel 9
 
 De schadeloosstelling en de vergoeding voor reis- en verblijfkosten die aan de getuige of deskundige door de verzoekende Partij moeten worden betaald, worden berekend vanaf de verblijfplaats van de betrokkene, en dienen te worden toegekend volgens tarieven die ten minste gelijk zijn aan die welke van kracht zijn in het land waar het verhoor plaats moet vinden.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Indien de verzoekende Partij het van bijzonder belang acht dat een getuige of een deskundige in persoon voor haar rechterlijke autoriteiten verschijnt, vermeldt zij dit uitdrukkelijk bij haar verzoek tot uitreiking van de dagvaarding.
 
@@ -106,7 +131,7 @@ De aangezochte Partij nodigt een dergelijke getuige of deskundige uit om inderda
 
 3. De aangezochte Partij kan, indien dit aan haar wordt verzocht, aan de getuige of de deskundige een voorschot toekennen. Het bedrag van dit voorschot wordt op de dagvaarding vermeld en terugbetaald door de verzoekende Partij.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Indien de verzoekende Partij, ten behoeve van de bewijsvoering en niet voor het terechtstaan van de betrokkene, de verschijning in persoon verzoekt van een gedetineerde, wordt deze tijdelijk overgebracht naar haar grondgebied, op voorwaarde dat hij of zij binnen de door de aangezochte Partij vastgestelde termijn wordt teruggebracht en onder voorbehoud van het bepaalde in artikel 12 van dit Verdrag, voor zover dit toepassing kan vinden.
 
@@ -124,7 +149,7 @@ De overbrenging kan worden geweigerd indien:
 
 3. De overgebrachte persoon blijft op het grondgebied van de verzoekende Partij en, in voorkomende gevallen op het grondgebied van de Partij aan wie toestemming tot doortocht is verzocht, in detentie, tenzij de Partij die om toestemming tot doortocht wordt verzocht, zijn of haar invrijheidstelling verzoekt.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Een getuige of deskundige, van welke nationaliteit ook, die na gedagvaard te zijn voor de rechterlijke autoriteiten van de verzoekende Partij verschijnt, kan op het grondgebied van die Partij noch worden vervolgd, noch in hechtenis genomen, noch aan enige andere vrijheidsbeperking worden onderworpen voor feiten of veroordelingen die voorafgingen aan zijn vertrek van het grondgebied van de aangezochte Partij.
 
@@ -134,7 +159,7 @@ De overbrenging kan worden geweigerd indien:
 
 ### TITEL IV. Strafregister
 
-#### Artikel 13
+##### Artikel 13
 
 1. De uittreksels uit het strafregister en alle inlichtingen welke op het strafregister betrekking hebben, die door de rechterlijke autoriteiten van een Partij in verband met een strafzaak worden gevraagd, worden door de aangezochte Partij aan die autoriteiten verstrekt, voor zover haar eigen rechterlijke autoriteiten deze in overeenkomstige gevallen kunnen verkrijgen.
 
@@ -142,7 +167,7 @@ De overbrenging kan worden geweigerd indien:
 
 ### TITEL V. Procedure
 
-#### Artikel 14
+##### Artikel 14
 
 1. Verzoeken om rechtshulp dienen de volgende gegevens te bevatten:
 
@@ -156,7 +181,7 @@ De overbrenging kan worden geweigerd indien:
 
 2. De rogatoire commissies bedoeld in de artikelen 3, 4 en 5 dienen bovendien de telastelegging te vermelden en een kort overzicht van de feiten te bevatten.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Verzoeken om wederzijdse rechtshulp, alsmede informatie op eigen initiatief, worden door het Ministerie van Justitie van de verzoekende Partij gericht aan het Ministerie van Justitie van de aangezochte Partij en op dezelfde wijze teruggezonden. Zij mogen evenwel rechtstreeks door de rechterlijke autoriteiten van de verzoekende Partij worden gericht aan de rechterlijke autoriteiten van de aangezochte Partij en op dezelfde wijze worden teruggezonden.
 
@@ -186,7 +211,7 @@ De overbrenging kan worden geweigerd indien:
 
 10. Dit artikel laat onverlet de bepalingen uit bilaterale overeenkomsten of regelingen welke tussen de Partijen van kracht zijn en volgens welke rechtstreekse toezending van verzoeken om rechtshulp tussen hun onderscheiden autoriteiten is voorzien.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Behoudens het bepaalde in het tweede lid van dit artikel wordt geen vertaling van de verzoeken en de daarbij behorende stukken geëist.
 
@@ -194,19 +219,19 @@ De overbrenging kan worden geweigerd indien:
 
 3. Dit artikel laat onverlet de bepalingen met betrekking tot de vertaling van verzoeken om rechtshulp en daarbij behorende stukken welke zijn opgenomen in overeenkomsten of afspraken welke van kracht zijn of nog zullen worden tussen twee of meer Verdragsluitende Partijen.
 
-#### Artikel 17
+##### Artikel 17
 
 De stukken en documenten welke krachtens dit Verdrag worden overgedragen zijn vrijgesteld van alle formaliteiten van legalisatie.
 
-#### Artikel 18
+##### Artikel 18
 
 Indien een autoriteit die een verzoek om rechtshulp ontvangt onbevoegd is om daaraan gevolg te geven, draagt zij dit verzoek ambtshalve over aan de bevoegde autoriteit van haar land. Indien het verzoek rechtstreeks is gedaan, stelt zij de verzoekende Partij rechtstreeks van de overdracht op de hoogte.
 
-#### Artikel 19
+##### Artikel 19
 
 Elke weigering van rechtshulp wordt met redenen omkleed.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De Partijen vorderen van elkaar geen terugbetaling van kosten voortvloeiende uit de toepassing van dit Verdrag of de Protocollen daarbij, behoudens:
 
@@ -224,7 +249,7 @@ Elke weigering van rechtshulp wordt met redenen omkleed.
 
 ### TITEL VI. Aangifte tot het uitlokken van een strafvervolging
 
-#### Artikel 21
+##### Artikel 21
 
 1. Elke aangifte van een Verdragsluitende Partij welke tot strekking heeft het instellen van een strafvervolging voor de rechter van een andere Partij, wordt door het Ministerie van Justitie van de ene Partij tot het Ministerie van Justitie van de andere Partij gericht. De Verdragsluitende Partijen kunnen evenwel gebruik maken van de bevoegdheid voorzien in het zesde lid van artikel 15.
 
@@ -234,7 +259,7 @@ Elke weigering van rechtshulp wordt met redenen omkleed.
 
 ### TITEL VII. Uitwisseling van mededelingen omtrent veroordelingen
 
-#### Artikel 22
+##### Artikel 22
 
 1. Elk der Partijen geeft aan de betrokken Partij kennis van strafvonnissen en van nadien met betrekking tot die vonnissen genomen maatregelen die betrekking hebben op onderdanen van die Partij en in het strafregister zijn vermeld. De Ministeries van Justitie wisselen deze mededelingen ten minste éénmaal per jaar uit. Indien de betrokkene beschouwd wordt als onderdaan van twee of meer Verdragsluitende Partijen, worden de mededelingen aan ieder van de betrokken Partijen gedaan, tenzij de betrokkene de nationaliteit bezit van de Partij op wier grondgebied hij is veroordeeld.
 
@@ -242,7 +267,7 @@ Elke weigering van rechtshulp wordt met redenen omkleed.
 
 ### TITEL VIII. Slotbepalingen
 
-#### Artikel 23
+##### Artikel 23
 
 1. Iedere Verdragsluitende Partij kan bij de ondertekening van dit Verdrag of bij de nederlegging van haar akte van bekrachtiging of van toetreding een voorbehoud maken met betrekking tot een of meer daarbij aangegeven bepalingen van dit Verdrag.
 
@@ -250,11 +275,11 @@ Elke weigering van rechtshulp wordt met redenen omkleed.
 
 3. Een Verdragsluitende Partij die met betrekking tot een bepaling van dit Verdrag een voorbehoud heeft gemaakt kan de naleving van die bepaling van dit Verdrag door een andere Partij slechts verlangen voor zover zij die bepaling zelf heeft aanvaard.
 
-#### Artikel 24
+##### Artikel 24
 
 Iedere Staat geeft op het tijdstip van ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding door een verklaring gericht aan de Secretaris-Generaal van de Raad van Europa aan welke autoriteiten hij beschouwt als rechterlijke autoriteiten in de zin van dit Verdrag. Daarna kan hij deze verklaring te allen tijde en op dezelfde wijze wijzigen.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Dit Verdrag is van toepassing op het tot het moederland behorende grondgebied van de Verdragsluitende Partijen.
 
@@ -266,7 +291,7 @@ Iedere Staat geeft op het tijdstip van ondertekening of bij de nederlegging van 
 
 5. Bij rechtstreekse overeenkomst tussen twee of meer Verdragsluitende Partijen kan de toepasselijkheid van dit Verdrag onder bij die overeenkomst te stellen voorwaarden worden uitgebreid tot elk grondgebied van een van die Partijen hetwelk niet behoort tot het grondgebied bedoeld in de voorgaande leden, voor zover de buitenlandse betrekkingen van die gebieden door een der Partijen worden behartigd.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Onverminderd het bepaalde in het zevende lid van artikel 15 en het derde lid van artikel 16 doet dit Verdrag wat de gebieden waarop het van toepassing is betreft, die bepalingen uit bilaterale verdragen, conventies of overeenkomsten vervallen, die de wederzijdse rechtshulp in strafzaken tussen twee Verdragsluitende Partijen regelen.
 
@@ -276,7 +301,7 @@ Iedere Staat geeft op het tijdstip van ondertekening of bij de nederlegging van 
 
 4. Indien de rechtshulp in strafzaken tussen twee of meer Verdragsluitende Partijen plaatsvindt op grond van een eenvormige wet of van een bijzonder stelsel dat in wederzijdse toepassing van maatregelen van rechtshulp op elkaars grondgebied voorziet, zijn die Partijen bevoegd om hun onderlinge betrekkingen op dit terrein uitsluitend te regelen op basis van zulk een wet of stelsel, niettegenstaande de bepalingen van dit Verdrag. De Verdragsluitende Partijen die in hun onderlinge betrekkingen de toepassing van dit Verdrag van het begin af aan of later uitsluiten overeenkomstig de bepalingen van dit lid, dienen ter zake een mededeling te richten tot de Secretaris-Generaal van de Raad van Europa.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Dit Verdrag is voor ondertekening door de leden van de Raad van Europa opengesteld. Het dient te worden bekrachtigd en de akten van bekrachtiging dienen te worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
 
@@ -284,17 +309,17 @@ Iedere Staat geeft op het tijdstip van ondertekening of bij de nederlegging van 
 
 3. Voor iedere ondertekenende regering die het daarna bekrachtigt, treedt het in werking 90 dagen na de datum van nederlegging van haar akte van bekrachtiging.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Het Comité van Ministers van de Raad van Europa kan elke Staat die geen lid is van de Raad uitnodigen tot dit Verdrag toe te treden, mits de resolutie betreffende deze uitnodiging eenstemmig wordt goedgekeurd door de leden van de Raad die dit Verdrag hebben bekrachtigd.
 
 2. De toetreding vindt plaats door nederlegging bij de Secretaris-Generaal van de Raad van een akte van toetreding. De toetreding treedt in werking 90 dagen na de nederlegging van de desbetreffende akte.
 
-#### Artikel 29
+##### Artikel 29
 
 Iedere Verdragsluitende Partij kan dit Verdrag wat haar betreft opzeggen door een daartoe strekkende kennisgeving, te richten tot de Secretaris-Generaal van de Raad van Europa. De opzegging treedt in werking zes maanden na de datum waarop de kennisgeving door de Secretaris-Generaal van de Raad is ontvangen.
 
-#### Artikel 30
+##### Artikel 30
 
 De Secretaris-Generaal van de Raad van Europa geeft alle leden van de Raad en de regering van elke Staat die tot dit Verdrag is toegetreden, kennis van:
 

@@ -1,20 +1,46 @@
 ---
-title: "Mandaatbesluit Woo en Who Tweede Kamer"
+title: "Besluit van de Griffier van de Tweede Kamer der Staten-Generaal, houdende regels inzake het verlenen van mandaat en machtiging betreffende de uitvoering van de Wet open overheid en de Wet hergebruik van overheidsinformatie (Mandaatbesluit Woo en Who Tweede Kamer)"
 identifier: "BWBR0049764"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2024-06-06
-laatste_update: 2024-06-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049764"
+country: "nl"
+rank: "reglement"
+publication_date: "2024-06-06"
+last_updated: "2024-06-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049764"
+soort: "reglement"
+stam_id: "17117503"
+version_id: "30126532"
+internal_id: "C43165221"
+label_id: "17025964"
+dtd_version: "2.0"
+original_entry_into_force: "2024-06-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049764/2024-06-06/0"
+intitule_bron: "Stcrt.2024-18263"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-05-24"
+intitule_published: "2024-06-05"
+intitule_in_force: "2024-06-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-18263"
+original_signed_date: "2024-05-24"
+original_published_date: "2024-06-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-18263"
+entry_into_force_date: "2024-06-06"
+jci_1_3: "jci1.3:c:BWBR0049764&z=2024-06-06&g=2024-06-06"
+jci_1_0: "1.0:c:BWBR0049764&g=2024-06-06"
+citeertitel_status: "officieel"
+short_title: "Mandaatbesluit Woo en Who Tweede Kamer"
+signed_date: "2024-05-24"
+entry_into_force: "2024-06-06"
 ---
-
 # Besluit van de Griffier van de Tweede Kamer der Staten-Generaal, houdende regels inzake het verlenen van mandaat en machtiging betreffende de uitvoering van de Wet open overheid en de Wet hergebruik van overheidsinformatie (Mandaatbesluit Woo en Who Tweede Kamer)
 
 Gelet op [afdeling 10.1.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.1.1), de [Wet Open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754), de [Wet hergebruik van overheidsinformatie](https://wetten.overheid.nl/jci1.3:c:BWBR0036795) en het [Reglement van Orde van de Tweede Kamer der Staten-Generaal](https://wetten.overheid.nl/jci1.3:c:BWBR0044975),
 
 Besluit
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
@@ -26,7 +52,7 @@ In dit besluit wordt verstaan onder:
 
 - d. **Mandaat:** voor de toepassing van dit besluit wordt met de verlening van mandaat gelijkgesteld de verlening van machtiging om handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn.
 
-#### Artikel 2. Directeuren
+##### Artikel 2. Directeuren
 
 1. Aan de directeuren wordt mandaat verleend voor aangelegenheden op het gebied van de [Woo](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) en de [Who](https://wetten.overheid.nl/jci1.3:c:BWBR0036795), met uitzondering van:
 
@@ -38,7 +64,7 @@ In dit besluit wordt verstaan onder:
 
 2. De directeuren zijn bevoegd ten aanzien van de in het eerste lid aan hen verleende bevoegdheden ondermandaat te verlenen aan onder hun verantwoordelijkheid werkzame medewerkers. Het verlenen van een algemeen mandaat behoeft goedkeuring van de Griffier.
 
-#### Artikel 3. Woo-coördinatoren
+##### Artikel 3. Woo-coördinatoren
 
 Aan medewerkers van de griffie die met de behandeling van Woo-verzoeken en Who-verzoeken zijn belast, wordt mandaat verleend tot:
 
@@ -58,14 +84,14 @@ Aan medewerkers van de griffie die met de behandeling van Woo-verzoeken en Who-v
 
 - h. het reageren op ingekomen zienswijzenverzoeken als bedoeld in [artikel 4:8 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:8) op de voorgenomen openbaarmaking of verstrekking van documenten, tenzij het zienswijzeverzoek informatie van de Voorzitter of het presidium betreft.
 
-#### Artikel 4. Vertegenwoordiging in rechte
+##### Artikel 4. Vertegenwoordiging in rechte
 
 Aan de concernjurist wordt machtiging verleend de Tweede Kamer in rechte te vertegenwoordigen en verweer te voeren in verzoekschrift-, bezwaarschrift-, en (hoger) beroepsprocedures met betrekking tot de [Woo](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) en de [Who](https://wetten.overheid.nl/jci1.3:c:BWBR0036795).
 
-#### Artikel 5. Inwerkingtreding
+##### Artikel 5. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag nadat het besluit bekend is gemaakt.
 
-#### Artikel 6. Citeertitel
+##### Artikel 6. Citeertitel
 
 Dit besluit wordt aangehaald als: Mandaatbesluit Woo en Who Tweede Kamer.

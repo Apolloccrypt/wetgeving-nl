@@ -1,13 +1,35 @@
 ---
 title: "Internationaal Verdrag van Hongkong voor het veilig en milieuvriendelijk recyclen van schepen, 2009"
 identifier: "BWBV0006256"
-categorie: "Milieu"
-publicatiedatum: 2025-06-26
-laatste_update: 2025-06-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006256"
+country: "nl"
+rank: "verdrag"
+publication_date: "2025-06-26"
+last_updated: "2025-06-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006256"
+soort: "verdrag"
+stam_id: "10005120913"
+version_id: "10005471992"
+internal_id: "C10009999131"
+label_id: "10005104454"
+dtd_version: "2.0"
+original_entry_into_force: "2025-06-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006256/2025-06-26/0"
+intitule_bron: "Trb.2010-227"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2010-09-09"
+intitule_in_force: "2023-07-17"
+intitule_status: "goed"
+original_publication: "Trb.2010-227"
+original_published_date: "2010-09-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2010-227"
+entry_into_force_date: "2025-06-26"
+jci_1_3: "jci1.3:c:BWBV0006256&z=2025-06-26&g=2025-06-26"
+jci_1_0: "1.0:c:BWBV0006256&g=2025-06-26"
+citeertitel_status: "redactioneel"
+entry_into_force: "2025-06-26"
 ---
-
 # Internationaal Verdrag van Hongkong voor het veilig en milieuvriendelijk recyclen van schepen, 2009
 
 De partijen bij dit Verdrag,
@@ -34,7 +56,7 @@ Overwegend dat deze doelstellingen mogelijk het best kunnen worden verwezenlijkt
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Algemene verplichtingen
+##### Artikel 1. Algemene verplichtingen
 
 1. Elke partij bij dit Verdrag verbindt zich de bepalingen ervan volledig uit te voeren teneinde ongevallen, letsel en andere schadelijke gevolgen voor de gezondheid van de mens en het milieu ten gevolge van de scheepsrecycling te voorkomen, te beperken, tot een minimum terug te brengen en voor zover haalbaar uit te bannen en de veiligheid van schepen, de bescherming van de gezondheid van de mens en het milieu gedurende de gehele levenscyclus van schepen te bevorderen.
 
@@ -46,7 +68,7 @@ Zijn het volgende overeengekomen:
 
 5. De Bijlage bij dit Verdrag maakt een integrerend onderdeel uit van het Verdrag. Tenzij uitdrukkelijk anders bepaald, vormt een verwijzing naar dit Verdrag tevens een verwijzing naar de Bijlage daarbij.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag, tenzij uitdrukkelijk anders bepaald, wordt verstaan onder:
 
@@ -74,7 +96,7 @@ Voor de toepassing van dit Verdrag, tenzij uitdrukkelijk anders bepaald, wordt v
 
 - 12. „recyclingsbedrijf”: de eigenaar van de scheepsrecyclingsinrichting of elke andere organisatie of persoon die de verantwoordelijkheid voor de scheepsrecycling van de eigenaar heeft overgenomen en die daarmee alle bij dit Verdrag opgelegde taken en verantwoordelijkheden heeft aanvaard.
 
-#### Artikel 3. Toepassing
+##### Artikel 3. Toepassing
 
 1. Tenzij uitdrukkelijk anders bepaald in dit Verdrag, is dit Verdrag van toepassing op:
 
@@ -88,25 +110,25 @@ Voor de toepassing van dit Verdrag, tenzij uitdrukkelijk anders bepaald, wordt v
 
 4. Ten aanzien van schepen die gerechtigd zijn de vlag te voeren van Staten die geen partij zijn bij dit Verdrag, passen de partijen de vereisten van dit Verdrag waar nodig toe teneinde te waarborgen dat dergelijke schepen niet gunstiger behandeld worden.
 
-#### Artikel 4. Controle met betrekking tot scheepsrecycling
+##### Artikel 4. Controle met betrekking tot scheepsrecycling
 
 1. Elke partij verlangt dat schepen die gerechtigd zijn haar vlag te voeren of onder haar gezag opereren voldoen aan de in dit Verdrag vervatte vereisten en treft doeltreffende maatregelen om deze naleving waarborgen.
 
 2. Elke partij verlangt dat scheepsrecyclingsinrichtingen die onder haar rechtsmacht opereren voldoen aan de in dit Verdrag vervatte vereisten en treft doeltreffende maatregelen om deze naleving te waarborgen.
 
-#### Artikel 5. Onderzoek en certificering van schepen
+##### Artikel 5. Onderzoek en certificering van schepen
 
 Elke partij waarborgt dat schepen die onder haar vlag varen of onder haar gezag opereren en onderzocht en gecertificeerd dienen te worden, worden onderzocht en gecertificeerd in overeenstemming met de voorschriften in de Bijlage.
 
-#### Artikel 6. Toelating van scheepsrecyclingsinrichtingen
+##### Artikel 6. Toelating van scheepsrecyclingsinrichtingen
 
 Elke partij waarborgt dat scheepsrecyclingsinrichtingen die onder haar rechtsmacht opereren en schepen recyclen waarop dit Verdrag van toepassing is of schepen die ingevolge [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006256&artikel=3&z=2025-06-26&g=2025-06-26), van dit Verdrag op soortgelijke wijze behandeld worden, in overeenstemming met de voorschriften in de Bijlage worden toegelaten.
 
-#### Artikel 7. Uitwisseling van informatie
+##### Artikel 7. Uitwisseling van informatie
 
 Met betrekking tot de door een partij toegelaten scheepsrecyclingsinrichtingen, verschaft deze partij de Organisatie desgevraagd, en die partijen die daarom verzoeken, de in verband met dit Verdrag relevante gegevens op grond waarvan het besluit tot toelating gebaseerd is. De informatie wordt snel en tijdig uitgewisseld.
 
-#### Artikel 8. Inspectie van schepen
+##### Artikel 8. Inspectie van schepen
 
 1. Een schip waarop dit Verdrag van toepassing is, kan in elke haven of laad- of losplaats buitengaats van een andere partij geïnspecteerd worden door functionarissen die door die partij naar behoren zijn gemachtigd teneinde te bepalen of het schip voldoet aan dit Verdrag. Behalve als het bepaalde in het tweede lid van toepassing is, is een dergelijke inspectie beperkt tot het verifiëren of er een Internationaal certificaat betreffende de inventarisatie van gevaarlijke materialen of een Internationaal certificaat betreffende de gereedheid voor recycling aan boord is dat, mits geldig, dient te worden aanvaard.
 
@@ -116,7 +138,7 @@ Met betrekking tot de door een partij toegelaten scheepsrecyclingsinrichtingen, 
 
 - .2. er aan boord van het schip geen procedure geldt voor het bijhouden van deel 1 van de inventarislijst van gevaarlijke materialen; kan een uitgebreide inspectie worden uitgevoerd met inachtneming van door de Organisatie opgestelde richtlijnen.
 
-#### Artikel 9. Opsporing van overtredingen
+##### Artikel 9. Opsporing van overtredingen
 
 1. De partijen dienen samen te werken bij de opsporing van overtredingen en de handhaving van de bepalingen van dit Verdrag.
 
@@ -126,7 +148,7 @@ Met betrekking tot de door een partij toegelaten scheepsrecyclingsinrichtingen, 
 
 4. Indien van een partij een verzoek om inspectie van een scheepsrecyclingsinrichting wordt ontvangen, tezamen met voldoende bewijs dat deze opereert, heeft geopereerd of op het punt staat te opereren in strijd met een bepaling van dit Verdrag, dient de partij onder wier rechtsmacht de scheepsrecyclingsinrichting valt deze te onderzoeken en een rapport op te stellen. Het rapport van een dergelijk onderzoek wordt gezonden aan de partij die erom heeft verzocht, met inbegrip van informatie over de eventueel getroffen of te treffen maatregelen, alsmede aan de Organisatie ten behoeve van passende maatregelen.
 
-#### Artikel 10. Overtredingen
+##### Artikel 10. Overtredingen
 
 1. Elke overtreding van de vereisten van dit Verdrag dient volgens het nationale recht verboden te zijn en:
 
@@ -142,13 +164,13 @@ Met betrekking tot de door een partij toegelaten scheepsrecyclingsinrichtingen, 
 
 3. De in het recht van een partij voorziene sancties overeenkomstig dit artikel dienen zwaar genoeg te zijn om overtredingen van dit Verdrag ongeacht waar zij plaatsvinden te ontmoedigen.
 
-#### Artikel 11. Onnodige vertraging of aanhouding van schepen
+##### Artikel 11. Onnodige vertraging of aanhouding van schepen
 
 1. Al het mogelijke dient in het werk te worden gesteld om te voorkomen dat een schip onnodig wordt aangehouden of vertraagd op grond van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006256&artikel=8&z=2025-06-26&g=2025-06-26), [9](https://wetten.overheid.nl/jci1.3:c:BWBV0006256&artikel=9&z=2025-06-26&g=2025-06-26) of [10](https://wetten.overheid.nl/jci1.3:c:BWBV0006256&artikel=10&z=2025-06-26&g=2025-06-26) van dit Verdrag.
 
 2. Wanneer een schip onnodig wordt aangehouden of vertraagd op grond van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006256&artikel=8&z=2025-06-26&g=2025-06-26), [9](https://wetten.overheid.nl/jci1.3:c:BWBV0006256&artikel=9&z=2025-06-26&g=2025-06-26) of [10](https://wetten.overheid.nl/jci1.3:c:BWBV0006256&artikel=10&z=2025-06-26&g=2025-06-26) van dit Verdrag, kan het aanspraak maken op vergoeding van elke geleden verlies of schade.
 
-#### Artikel 12. Doorgeven van informatie
+##### Artikel 12. Doorgeven van informatie
 
 Elke partij verschaft de Organisatie de volgende informatie die de Organisatie indien van toepassing verspreidt:
 
@@ -166,7 +188,7 @@ Elke partij verschaft de Organisatie de volgende informatie die de Organisatie i
 
 - .7. maatregelen getroffen ten aanzien van schepen en scheepsrecyclingsinrichtingen onder de rechtsmacht van die partij.
 
-#### Artikel 13. Technische bijstand en samenwerking
+##### Artikel 13. Technische bijstand en samenwerking
 
 1. De partijen verplichten zich, rechtstreeks of via de Organisatie en andere internationale lichamen, naar gelang hetgeen van toepassing is, wat betreft het veilig en milieuverantwoord recyclen van schepen, ondersteuning te bieden aan partijen die verzoeken om technische bijstand:
 
@@ -180,17 +202,17 @@ Elke partij verschaft de Organisatie de volgende informatie die de Organisatie i
 
 2. De partijen verplichten zich actief samen te werken, met inachtneming van hun nationale recht, voorschriften en beleid, bij de overdracht van managementsystemen en technologie met betrekking tot het veilig en milieuverantwoord recyclen van schepen.
 
-#### Artikel 14. Beslechting van geschillen
+##### Artikel 14. Beslechting van geschillen
 
 In het geval van eventuele geschillen betreffende de interpretatie of toepassing van dit Verdrag tussen partijen trachten zij deze te beslechten door middel van onderhandeling of langs andere door hen overeengekomen vreedzame weg, welke onderzoek, bemiddeling, conciliatie, arbitrage, schikking of een beroep op regionale organen of regelingen kan omvatten.
 
-#### Artikel 15. Verhouding tot het internationaal recht en andere internationale overeenkomsten
+##### Artikel 15. Verhouding tot het internationaal recht en andere internationale overeenkomsten
 
 1. Niets in dit Verdrag doet afbreuk aan de rechten en verplichtingen van enige Staat uit hoofde van het [Verdrag van de Verenigde Naties inzake het recht van de zee](onbekend), 1982, of uit hoofde van het internationale gewoonterecht van de zee.
 
 2. Niets in dit Verdrag doet afbreuk aan de rechten en verplichtingen van de partijen uit hoofde van andere relevante en van toepassing zijnde internationale overeenkomsten.
 
-#### Artikel 16. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
+##### Artikel 16. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
 
 1. Dit Verdrag staat van 1 september 2009 tot en met 31 augustus 2010 open voor ondertekening door elke Staat op het hoofdkantoor van de Organisatie en blijft vervolgens open voor toetreding door elke Staat.
 
@@ -210,7 +232,7 @@ In het geval van eventuele geschillen betreffende de interpretatie of toepassing
 
 6. Op het tijdstip waarop een Staat zijn instemming door dit Verdrag te worden gebonden tot uitdrukking brengt verklaart hij tevens of hij expliciete of stilzwijgende goedkeuring van het scheepsrecyclingplan verlangt alvorens een schip in zijn toegelaten scheepsrecyclingsinrichting(en)gerecycled mag worden. Een dergelijke verklaring kan op een later tijdstip worden herzien door middel van een kennisgeving aan de Secretaris-Generaal. In deze kennisgeving wordt de datum van inwerkingtreding van de herziening vermeld.
 
-#### Artikel 17. Inwerkingtreding
+##### Artikel 17. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking 24 maanden na de datum waarop aan de volgende eisen is voldaan:
 
@@ -226,7 +248,7 @@ In het geval van eventuele geschillen betreffende de interpretatie of toepassing
 
 4. Na de datum waarop een wijziging van dit Verdrag geacht wordt te zijn aanvaard uit hoofde van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0006256&artikel=18&z=2025-06-26&g=2025-06-26), is elke nedergelegde akte van bekrachtiging, aanvaarding, goedkeuring of toetreding van toepassing op het Verdrag zoals gewijzigd.
 
-#### Artikel 18. Wijzigingen
+##### Artikel 18. Wijzigingen
 
 1. Dit Verdrag kan worden gewijzigd volgens een van de hieronder omschreven procedures.
 
@@ -278,13 +300,13 @@ In het geval van eventuele geschillen betreffende de interpretatie of toepassing
 
 - .2. elke kennisgeving gedaan uit hoofde van dit artikel.
 
-#### Artikel 19. Opzegging
+##### Artikel 19. Opzegging
 
 1. Dit Verdrag kan na afloop van twee jaar na de datum waarop het voor een partij in werking is getreden te allen tijde door die partij worden opgezegd.
 
 2. Opzegging geschiedt bij schriftelijke kennisgeving aan de Secretaris-Generaal en wordt van kracht een jaar na de ontvangst ervan of na een langere termijn indien vermeld in die kennisgeving.
 
-#### Artikel 20. Depositaris
+##### Artikel 20. Depositaris
 
 1. Dit Verdrag wordt nedergelegd bij de Secretaris-Generaal die het voor eensluidend gewaarmerkt afschrift ervan doet toekomen aan alle Staten die dit Verdrag hebben ondertekend of ertoe zijn toegetreden.
 
@@ -302,13 +324,13 @@ In het geval van eventuele geschillen betreffende de interpretatie of toepassing
 
 - .2. zendt de Secretaris-Generaal de tekst toe aan het Secretariaat van de Verenigde Naties voor registratie en publicatie overeenkomstig [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102), zodra dit Verdrag in werking treedt.
 
-#### Artikel 21. Talen
+##### Artikel 21. Talen
 
 Dit Verdrag is opgesteld in één oorspronkelijk exemplaar in de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse taal, zijnde alle teksten gelijkelijk authentiek.
 
 ### HOOFDSTUK 1. ALGEMENE BEPALINGEN
 
-#### Voorschrift 1. Begripsomschrijvingen
+##### Voorschrift 1. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage wordt verstaan onder:
 
@@ -356,11 +378,11 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 - 12. „werknemer”: elke natuurlijke persoon die werkzaamheden verricht, hetzij op regelmatige basis, hetzij op tijdelijke basis, in het kader van een arbeidsverhouding en omvat mede werkzaamheden die in het kader van de aanneming van werk worden uitgevoerd.
 
-#### Voorschrift 2. Algemene toepasselijkheid
+##### Voorschrift 2. Algemene toepasselijkheid
 
 Tenzij uitdrukkelijk anders bepaald, geschieden het ontwerp, de constructie, het onderzoek, de certificatie, de exploitatie en het recyclen van schepen in overeenstemming met de bepalingen van deze Bijlage.
 
-#### Voorschrift 3. Verhouding tot andere normen, aanbevelingen en richtlijnen
+##### Voorschrift 3. Verhouding tot andere normen, aanbevelingen en richtlijnen
 
 De Partijen treffen maatregelen voor de implementatie van de voorschriften van deze Bijlage en nemen daarbij de door de Internationale Arbeidsorganisatie opgestelde relevante en toepasselijke normen, aanbevelingen en richtlijnen alsmede de uit hoofde van het [Verdrag van Bazel inzake de beheersing van de grensoverschrijdende overbrenging van gevaarlijke afvalstoffen en de verwijdering ervan](onbekend) opgestelde relevante en toepasselijke technische normen, aanbevelingen en richtlijnen in acht.
 
@@ -368,7 +390,7 @@ De Partijen treffen maatregelen voor de implementatie van de voorschriften van d
 
 ## DEEL A. ONTWERP, CONSTRUCTIE, EXPLOITATIE EN ONDERHOUD VAN SCHEPEN
 
-#### Voorschrift 4. Beheersing van gevaarlijke materialen op schepen
+##### Voorschrift 4. Beheersing van gevaarlijke materialen op schepen
 
 In overeenstemming met de vereisten omschreven in [Aanhangsel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006256&bijlage=1&z=2025-06-26&g=2025-06-26) bij dit Verdrag:
 
@@ -378,7 +400,7 @@ In overeenstemming met de vereisten omschreven in [Aanhangsel 1](https://wetten.
 
 en treft elke Partij doeltreffende maatregelen om te waarborgen dat die schepen aan deze vereisten voldoen.
 
-#### Voorschrift 5. Inventarislijst van gevaarlijke materialen
+##### Voorschrift 5. Inventarislijst van gevaarlijke materialen
 
 1. Elk nieuw schip heeft een inventarislijst van gevaarlijke materialen aan boord. De inventarislijst wordt geverifieerd door hetzij de Administratie hetzij een door haar gemachtigde natuurlijke persoon of organisatie, waarbij de door de Organisatie opgestelde richtlijnen, met inbegrip van eventueel daarin opgenomen drempelwaarden en uitzonderingen, in acht worden genomen. De inventarislijst van gevaarlijke materialen dient specifiek te zijn voor elk schip afzonderlijk en ten minste:
 
@@ -392,7 +414,7 @@ en treft elke Partij doeltreffende maatregelen om te waarborgen dat die schepen 
 
 4. Voorafgaand aan het recyclen dienen, naast het naar behoren bijgehouden en geactualiseerde deel I, ook deel II voor het afval dat ontstaat bij de exploitatie van een schip en deel III voor de voorraden in de inventarislijst te worden opgenomen en hetzij door de Administratie hetzij door een door haar gemachtigde persoon of organisatie te worden geverifieerd, waarbij de door de Organisatie opgestelde richtlijnen in aanmerking worden genomen.
 
-#### Voorschrift 6. Procedure voor het voorstellen van wijzigingen van [Aanhangsels 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006256&bijlage=1&z=2025-06-26&g=2025-06-26) en [2](https://wetten.overheid.nl/jci1.3:c:BWBV0006256&bijlage=2&z=2025-06-26&g=2025-06-26)
+##### Voorschrift 6. Procedure voor het voorstellen van wijzigingen van [Aanhangsels 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006256&bijlage=1&z=2025-06-26&g=2025-06-26) en [2](https://wetten.overheid.nl/jci1.3:c:BWBV0006256&bijlage=2&z=2025-06-26&g=2025-06-26)
 
 1. Elke Partij kan in overeenstemming met dit voorschrift een wijziging van [Aanhangsel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006256&bijlage=1&z=2025-06-26&g=2025-06-26) en/of [Aanhangsel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006256&bijlage=2&z=2025-06-26&g=2025-06-26) voorstellen. De voorgestelde wijzigingen worden ingevolge [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006256&artikel=18&z=2025-06-26&g=2025-06-26), en dit voorschrift binnen de Organisatie bestudeerd.
 
@@ -432,7 +454,7 @@ en treft elke Partij doeltreffende maatregelen om te waarborgen dat die schepen 
 
 5. De Commissie besluit of zij een voorstel tot wijziging van [Aanhangsel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006256&bijlage=1&z=2025-06-26&g=2025-06-26) of [Aanhangsel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006256&bijlage=2&z=2025-06-26&g=2025-06-26) en eventuele aanpassingen daarvan indien van toepassing, goedkeurt en neemt daarbij het rapport van de technische groep in aanmerking. Voorstellen tot wijziging omschrijven de toepassing ervan op schepen die in overeenstemming met dit Verdrag reeds waren gecertificeerd voordat de wijziging in werking trad. Indien in het rapport wordt geconstateerd dat het gevaarlijke materiaal in kwestie waarschijnlijk zal leiden tot wezenlijke schadelijke gevolgen voor de gezondheid van de mens of het milieu in de zin van dit Verdrag, mag het ontbreken van volledige wetenschappelijk gefundeerde zekerheid niet worden aangevoerd als reden om het besluit te beletten een gevaarlijk materiaal op te nemen in Aanhangsel 1 of Aanhangsel 2. Een besluit een voorstel niet goed te keuren belet niet dat in de toekomst een nieuw voorstel ter zake van een specifiek gevaarlijk materiaal wordt ingediend indien nieuwe informatie beschikbaar wordt.
 
-#### Voorschrift 7. Technische groepen
+##### Voorschrift 7. Technische groepen
 
 1. De Commissie kan ingevolge [voorschrift 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006256&hoofdstuk=2&deel=A&artikel=6&z=2025-06-26&g=2025-06-26) zo nodig een of meer technische groepen instellen. De technische groep kan bestaan uit vertegenwoordigers van de Partijen, Leden van de Organisatie, de Verenigde Naties en haar Gespecialiseerde Organisaties, intergouvernementele organisaties die overeenkomsten met de Organisatie hebben en non-gouvernementele organisaties die een consultatieve status bij de Organisatie hebben, waaronder bij voorkeur vertegenwoordigers van instituten en laboratoria die deskundig zijn op het gebied van het lot in het milieu en de gevolgen van stoffen, toxicologische gevolgen, mariene biologie, gezondheid van de mens, economische analyse, risicobeheer, scheepsbouw, internationale scheepvaart, gezondheid en -veiligheid op het werk, of andere gebieden van deskundigheid die nodig zijn voor objectieve beoordeling van de technische aspecten van voorstellen.
 
@@ -442,7 +464,7 @@ en treft elke Partij doeltreffende maatregelen om te waarborgen dat die schepen 
 
 ## DEEL B. VOORBEREIDING VOOR SCHEEPSRECYCLING
 
-#### Voorschrift 8. Algemene vereisten
+##### Voorschrift 8. Algemene vereisten
 
 Schepen bestemd voor recycling:
 
@@ -462,7 +484,7 @@ Schepen bestemd voor recycling:
 
 - .6. zijn door de Administratie of een door haar erkende organisatie gecertificeerd als gereed voor recycling voordat enige recyclingactiviteit plaatsvindt.
 
-#### Voorschrift 9. Scheepsrecyclingplan
+##### Voorschrift 9. Scheepsrecyclingplan
 
 Voordat een schip gerecycled wordt, stelt de scheepsrecyclingsinrichting een voor het schip specifiek recyclingplan op, waarbij de door de Organisatie opgestelde richtlijnen in acht worden genomen. Het scheepsrecyclingplan:
 
@@ -484,7 +506,7 @@ Voordat een schip gerecycled wordt, stelt de scheepsrecyclingsinrichting een voo
 
 ## DEEL C. ONDERZOEKEN EN CERTIFICERING
 
-#### Voorschrift 10. Onderzoeken
+##### Voorschrift 10. Onderzoeken
 
 1. Schepen waarop dit Verdrag van toepassing is, worden onderworpen aan de hieronder omschreven onderzoeken:
 
@@ -514,7 +536,7 @@ Voordat een schip gerecycled wordt, stelt de scheepsrecyclingsinrichting een voo
 
 5. Het eerste onderzoek en hernieuwde onderzoeken dienen te worden afgestemd op de ingevolge andere van toepassing zijnde voorgeschreven instrumenten van de Organisatie vereiste onderzoeken.
 
-#### Voorschrift 11. Afgifte van en het plaatsen van aantekeningen op certificaten
+##### Voorschrift 11. Afgifte van en het plaatsen van aantekeningen op certificaten
 
 1. Een Internationaal certificaat betreffende de inventarisatie van gevaarlijke materialen wordt afgegeven door hetzij de Administratie hetzij door een door haar gemachtigde persoon of organisatie na een geslaagde afronding van een eerste of een hernieuwd onderzoek verricht in overeenstemming met [voorschrift 10](https://wetten.overheid.nl/jci1.3:c:BWBV0006256&hoofdstuk=2&deel=C&artikel=10&z=2025-06-26&g=2025-06-26) aan schepen waarop voorschrift 10 van toepassing is, behalve aan bestaande schepen die tegelijkertijd een eerste en een laatste onderzoek ondergaan, waarbij de door de Organisatie opgestelde richtlijnen in aanmerking worden genomen.
 
@@ -542,7 +564,7 @@ Geen enkel certificaat wordt verlengd met meer dan drie maanden en geen enkel sc
 
 12. Een onder het gezag van een Partij afgegeven certificaat wordt door de andere Partijen aanvaard en voor alle doeleinden die vallen onder dit Verdrag behandeld als ware het door henzelf afgegeven. Certificaten worden afgegeven of hierop wordt een aantekening geplaatst hetzij door de Administratie, hetzij door daartoe door haar gemachtigde personen of organisaties. In alle gevallen neemt de Administratie de volle verantwoordelijkheid voor het certificaat op zich.
 
-#### Voorschrift 12. Afgifte van of het plaatsen van aantekeningen op certificaten door een andere Partij
+##### Voorschrift 12. Afgifte van of het plaatsen van aantekeningen op certificaten door een andere Partij
 
 1. Op verzoek van de Administratie kan een andere Partij een schip laten onderzoeken en, indien zij ervan overtuigd is dat aan de bepalingen van dit Verdrag wordt voldaan, geeft zij het certificaat af of geeft zij toestemming voor afgifte van het certificaat aan het schip, en waar van toepassing plaatst zij een aantekening op of geeft zij toestemming tot het plaatsen van een aantekening op dat certificaat van het schip in overeenstemming met deze Bijlage.
 
@@ -552,11 +574,11 @@ Geen enkel certificaat wordt verlengd met meer dan drie maanden en geen enkel sc
 
 4. Geen certificaat wordt afgegeven aan een schip dat gerechtigd is de vlag te voeren van een Staat die geen Partij is.
 
-#### Voorschrift 13. Vorm van de certificaten
+##### Voorschrift 13. Vorm van de certificaten
 
 Het certificaat wordt opgesteld in de officiële taal van de Partij die het afgeeft in een vorm die overeenkomt met het model vervat in de [Aanhangsels 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006256&bijlage=3&z=2025-06-26&g=2025-06-26) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0006256&bijlage=4&z=2025-06-26&g=2025-06-26). Indien de gebruikte taal Engels, Frans noch Spaans is, dient de tekst een vertaling in een van deze talen te omvatten. De Administratie kan echter een Internationaal certificaat betreffende de inventarisatie van gevaarlijke materialen in uitsluitend de officiële taal van de Partij die het afgeeft afgeven aan schepen die geen reizen maken naar havens of laad- of losplaatsen buitengaats onder de rechtsmacht van andere Partijen bij dit Verdrag; het Internationaal certificaat betreffende de gereedheid voor recycling kan worden afgegeven in uitsluitend de officiële taal van de Partij die het afgeeft aan schepen die worden gerecycled in scheepsrecyclingsinrichtingen onder de rechtsmacht van de Partij die het afgeeft.
 
-#### Voorschrift 14. Looptijd en geldigheid van de certificaten
+##### Voorschrift 14. Looptijd en geldigheid van de certificaten
 
 1. Een Internationaal certificaat betreffende de inventarisatie van gevaarlijke materialen afgegeven ingevolge [voorschrift 11](https://wetten.overheid.nl/jci1.3:c:BWBV0006256&hoofdstuk=2&deel=C&artikel=11&z=2025-06-26&g=2025-06-26) of [12](https://wetten.overheid.nl/jci1.3:c:BWBV0006256&hoofdstuk=2&deel=C&artikel=12&z=2025-06-26&g=2025-06-26) verliest in de volgende gevallen zijn geldigheid:
 
@@ -578,7 +600,7 @@ Het certificaat wordt opgesteld in de officiële taal van de Partij die het afge
 
 ### HOOFDSTUK 3. VEREISTEN VOOR SCHEEPSRECYCLINGSINRICHTINGEN
 
-#### Voorschrift 15. Controles van scheepsrecyclingsinrichtingen
+##### Voorschrift 15. Controles van scheepsrecyclingsinrichtingen
 
 1. Elke Partij stelt de nodige wet- en regelgeving en normen vast om te waarborgen dat scheepsrecyclingsinrichtingen op een veilige en milieuverantwoorde manier in overeenstemming met de voorschriften van dit Verdrag worden ontworpen, gebouwd en geëxploiteerd.
 
@@ -588,7 +610,7 @@ Het certificaat wordt opgesteld in de officiële taal van de Partij die het afge
 
 4. Elke Partij wijst een of meer bevoegde autoriteiten alsmede haar centrale aanspreekpunt aan dat door de Organisatie, de Partijen bij dit Verdrag en andere belanghebbende entiteiten dient te worden gebruikt voor aangelegenheden in verband met de scheepsrecyclingsinrichtingen die opereren onder de rechtsmacht van die Partij.
 
-#### Voorschrift 16. Toelaten van scheepsrecyclingsinrichtingen
+##### Voorschrift 16. Toelaten van scheepsrecyclingsinrichtingen
 
 1. Scheepsrecyclingsinrichtingen die schepen recyclen waarop dit Verdrag van toepassing is of schepen die ingevolge [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006256&artikel=3&z=2025-06-26&g=2025-06-26), op vergelijkbare wijze worden behandeld, worden door een Partij toegelaten in overeenstemming met de door Organisatie opgestelde richtlijnen.
 
@@ -602,7 +624,7 @@ Het certificaat wordt opgesteld in de officiële taal van de Partij die het afge
 
 6. Indien incidenten of bij de scheepsrecyclingsinrichting getroffen maatregelen ertoe leiden dat niet langer voldaan wordt aan de voorwaarden voor de toelating, stelt de scheepsrecyclingsinrichting de bevoegde autoriteit(en) daarvan in kennis. De bevoegde autoriteit(en) kan (kunnen) dienovereenkomstig besluiten de toelating op te schorten of in te trekken of corrigerende maatregelen te verlangen van de scheepsrecyclingsinrichting.
 
-#### Voorschrift 17. Algemene vereisten
+##### Voorschrift 17. Algemene vereisten
 
 1. Door een Partij toegelaten scheepsrecyclingsinrichtingen stellen beheerssystemen, -procedures en -technieken in die geen gezondheidsrisico's voor de betrokken werknemers of de bevolking in de nabijheid van de scheepsrecyclingsinrichting vormen en door de scheepsrecyclingsinrichting veroorzaakte schadelijke gevolgen voor het milieu voorkomen, beperken, tot een minimum terugbrengen en voor zover mogelijk uitbannen, waarbij door de Organisatie opgestelde richtlijnen in acht worden genomen.
 
@@ -618,7 +640,7 @@ Het certificaat wordt opgesteld in de officiële taal van de Partij die het afge
 
 - .3. de stukken van de goedkeuring beschikbaar hebben indien daarom verzocht wordt door een scheepseigenaar die overweegt aldaar een schip te laten recyclen.
 
-#### Voorschrift 18. Plan met betrekking tot de scheepsrecyclingsinrichting
+##### Voorschrift 18. Plan met betrekking tot de scheepsrecyclingsinrichting
 
 Door een Partij toegelaten scheepsrecyclingsinrichtingen stellen een plan met betrekking tot de scheepsrecyclingsinrichting op. Het plan dient te worden aanvaard door de directie of door het bevoegde bestuur van het recyclingsbedrijf, en het volgende te omvatten:
 
@@ -640,7 +662,7 @@ Door een Partij toegelaten scheepsrecyclingsinrichtingen stellen een plan met be
 
 - .9. een systeem voor het rapporteren van bedrijfsziekten, -ongevallen, -letsel en andere schadelijke gevolgen voor de veiligheid en gezondheid van werknemers waarbij de door de Organisatie opgestelde richtlijnen in aanmerking worden genomen.
 
-#### Voorschrift 19. Preventie van schadelijke gevolgen voor de gezondheid van de mens en het milieu
+##### Voorschrift 19. Preventie van schadelijke gevolgen voor de gezondheid van de mens en het milieu
 
 Procedures worden door de door een Partij toegelaten scheepsrecyclingsinrichtingen ingesteld en gehanteerd:
 
@@ -652,7 +674,7 @@ Procedures worden door de door een Partij toegelaten scheepsrecyclingsinrichting
 
 - .4. ter voorkoming van lekken of emissies gedurende het gehele recyclingproces die gevaarlijk kunnen zijn voor de gezondheid van de mens en/of het milieu, waarbij de door de Organisatie opgestelde richtlijnen in aanmerking worden genomen.
 
-#### Voorschrift 20. Veilige en milieuverantwoorde beheersing van gevaarlijke materialen
+##### Voorschrift 20. Veilige en milieuverantwoorde beheersing van gevaarlijke materialen
 
 1. Door een Partij toegelaten scheepsrecyclingsinrichtingen waarborgen dat gevaarlijke materialen in een in overeenstemming met [voorschrift 11](https://wetten.overheid.nl/jci1.3:c:BWBV0006256&hoofdstuk=2&deel=C&artikel=11&z=2025-06-26&g=2025-06-26) of [12](https://wetten.overheid.nl/jci1.3:c:BWBV0006256&hoofdstuk=2&deel=C&artikel=12&z=2025-06-26&g=2025-06-26) gecertificeerd schip op veilige en milieuverantwoorde wijze worden verwijderd.
 
@@ -678,7 +700,7 @@ De persoon of personen die leiding geeft of geven aan de recyclingwerkzaamheden 
 
 4. Alle bij de recycling gegenereerde afvalstoffen worden gescheiden gehouden van recyclebare materialen en uitrusting, worden geëtiketteerd en onder passende omstandigheden opgeslagen zodat ze geen risico vormen voor de werknemers, de gezondheid van de mens of het milieu en worden uitsluitend overgebracht naar een inrichting voor afvalbeheer die toegelaten is tot de behandeling en afvoer ervan op een veilige en milieuverantwoorde manier.
 
-#### Voorschrift 21. Draaiboek voor noodgevallen
+##### Voorschrift 21. Draaiboek voor noodgevallen
 
 Door een Partij toegelaten scheepsrecyclingsinrichtingen stellen een draaiboek voor noodgevallen op en houden dat bij. Het draaiboek wordt toegesneden op de locatie en omgeving van de scheepsrecyclingsinrichting, waarbij de omvang en aard van de recyclingwerkzaamheden in aanmerking worden genomen. In het draaiboek wordt voorts:
 
@@ -692,7 +714,7 @@ Door een Partij toegelaten scheepsrecyclingsinrichtingen stellen een draaiboek v
 
 - .5. voorzien in relevante informatieverschaffing aan en training van alle werknemers van de scheepsrecyclingsinrichtingen op alle niveaus en passend bij hun bekwaamheden, waaronder regelmatige oefeningen met ongevallenpreventie en procedures voor noodgevallen.
 
-#### Voorschrift 22. Veiligheid en training van werknemers
+##### Voorschrift 22. Veiligheid en training van werknemers
 
 1. Door een Partij toegelaten scheepsrecyclingsinrichtingen voorzien in de veiligheid voor hun werknemers door maatregelen waaronder:
 
@@ -734,7 +756,7 @@ Door een Partij toegelaten scheepsrecyclingsinrichtingen stellen een draaiboek v
 
 - .6. te worden gedocumenteerd.
 
-#### Voorschrift 23. Rapportage over incidenten, ongevallen, beroepsziekten en chronische gevolgen
+##### Voorschrift 23. Rapportage over incidenten, ongevallen, beroepsziekten en chronische gevolgen
 
 1. Door een Partij toegelaten scheepsrecyclingsinrichtingen rapporteren aan de bevoegde autoriteit(en) elk incident, ongeval, elke beroepsziekte en alle chronische gevolgen die gevaar opleveren of kunnen opleveren voor de veiligheid van werknemers, de gezondheid van de mens en het milieu.
 
@@ -742,7 +764,7 @@ Door een Partij toegelaten scheepsrecyclingsinrichtingen stellen een draaiboek v
 
 ### HOOFDSTUK 4. RAPPORTAGEVEREISTEN
 
-#### Voorschrift 24. Eerste kennisgeving en rapportagevereisten
+##### Voorschrift 24. Eerste kennisgeving en rapportagevereisten
 
 1. Scheepseigenaren stellen de Administratie tijdig schriftelijk in kennis van hun voornemen een schip te recyclen teneinde de Administratie in de gelegenheid te stellen het onderzoek en de certificering zoals vereist bij dit Verdrag voor te bereiden.
 
@@ -774,7 +796,7 @@ Door een Partij toegelaten scheepsrecyclingsinrichtingen stellen een draaiboek v
 
 3. Wanneer voor het te recyclen schip een Internationaal certificaat inzake gereedheid voor recycling is afgegeven, meldt de scheepsrecyclingsinrichting haar bevoegde autoriteit(en) de geplande aanvangsdatum voor de scheepsrecycling. De melding dient te voldoen aan het rapportagemodel van [Aanhangsel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006256&bijlage=6&z=2025-06-26&g=2025-06-26) en dient ten minste een afschrift van het Internationaal certificaat inzake gereedheid voor recycling te omvatten. Het recyclen van het schip mag niet aanvangen voordat het rapport is overgelegd.
 
-#### Voorschrift 25. Rapportage bij voltooiing
+##### Voorschrift 25. Rapportage bij voltooiing
 
 Wanneer het recyclen van een schip geheel of gedeeltelijk is voltooid in overeenstemming met de vereisten van dit Verdrag, geeft de scheepsrecyclingsinrichting een verklaring van voltooiing af en rapporteert dat aan haar bevoegde autoriteit(en). Het rapport wordt conform [Aanhangsel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006256&bijlage=7&z=2025-06-26&g=2025-06-26) opgesteld. De bevoegde autoriteit(en) zendt (zenden) een afschrift van de verklaring aan de Administratie die het Internationaal certificaat van gereedheid voor recycling voor het schip heeft afgegeven.
 

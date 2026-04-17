@@ -1,13 +1,38 @@
 ---
 title: "Besluit macrobeheersinstrument huisartsenzorg 2015"
 identifier: "BWBR0035954"
-categorie: "Sociaal recht"
-publicatiedatum: 2015-01-01
-laatste_update: 2015-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035954"
+country: "nl"
+rank: "zbo"
+publication_date: "2015-01-01"
+last_updated: "2015-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035954"
+soort: "zbo"
+stam_id: "12892213"
+version_id: "21935532"
+internal_id: "C31465621"
+label_id: "12861594"
+dtd_version: "2.0"
+original_entry_into_force: "2015-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035954/2015-01-01/0"
+intitule_bron: "Stcrt.2014-36683"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-12-11"
+intitule_published: "2014-12-19"
+intitule_in_force: "2014-12-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-36683"
+original_signed_date: "2014-12-11"
+original_published_date: "2014-12-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-36683"
+entry_into_force_date: "2015-01-01"
+jci_1_3: "jci1.3:c:BWBR0035954&z=2015-01-01&g=2015-01-01"
+jci_1_0: "1.0:c:BWBR0035954&g=2015-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "2014-12-11"
+entry_into_force: "2015-01-01"
 ---
-
 # Besluit macrobeheersinstrument huisartsenzorg 2015
 
 De Nederlandse Zorgautoriteit heeft met inachtneming van [Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4), [paragrafen 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&paragraaf=4.2) en [4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&paragraaf=4.4), van de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) (Wmg),

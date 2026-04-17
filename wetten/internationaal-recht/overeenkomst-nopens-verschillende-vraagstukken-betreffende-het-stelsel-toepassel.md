@@ -1,13 +1,37 @@
 ---
 title: "Overeenkomst nopens verschillende vraagstukken betreffende het stelsel toepasselijk op de Rijnvaart"
 identifier: "BWBV0006274"
-categorie: "Internationaal recht"
-publicatiedatum: 1939-04-03
-laatste_update: 1939-04-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006274"
+country: "nl"
+rank: "verdrag"
+publication_date: "1939-04-03"
+last_updated: "1939-04-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006274"
+soort: "verdrag"
+stam_id: "10005130593"
+version_id: "10005482952"
+internal_id: "C10008458181"
+label_id: "10005113854"
+dtd_version: "2.0"
+original_entry_into_force: "1939-04-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006274/1939-04-03/0"
+intitule_bron: "Stb.1939-22"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1939-05-22"
+intitule_published: "1939-06-02"
+intitule_in_force: "1939-06-02"
+intitule_status: "goed"
+original_publication: "Stb.1939-22"
+original_signed_date: "1939-05-22"
+original_published_date: "1939-06-02"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1939-04-03"
+jci_1_3: "jci1.3:c:BWBV0006274&z=1939-04-03&g=1939-04-03"
+jci_1_0: "1.0:c:BWBV0006274&g=1939-04-03"
+citeertitel_status: "redactioneel"
+signed_date: "1939-05-22"
+entry_into_force: "1939-04-03"
 ---
-
 # Overeenkomst nopens verschillende vraagstukken betreffende het stelsel toepasselijk op de Rijnvaart
 
 België, Frankrijk en Nederland,
@@ -16,7 +40,7 @@ Vervuld met den wensch, voor zoover hen betreft, het stelsel, van toepassing op 
 
 zijn omtrent de navolgende bepalingen overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 Goederen, welke over den Rijn Straatsburg bereiken dan wel verlaten, kunnen, om te worden aangemerkt als zijnde rechtstreeks vervoerd in den zin van de Fransche wetgeving, zonder onderscheid worden overgeladen, met of zonder opslag in entrepôt, in de Belgische havens Antwerpen en Gent en in de Nederlandsche havens Amsterdam, Dordrecht en Rotterdam met inbegrip van Vlaardingen, Schiedam en Hoek van Holland.
 
@@ -24,7 +48,7 @@ De documenten, welke moeten worden overgelegd om de voordeelen te genieten van b
 
 Alle faciliteiten, welke door Frankrijk mochten worden verleend aan goederen, welke in doorvoer worden vervoerd door een der havens bedoeld in het eerste lid, zullen worden uitgebreid tot alle andere havens genoemd in dat lid.
 
-#### Artikel 2
+##### Artikel 2
 
 De in artikel 1 vastgestelde regeling zal, voor wat betreft de goederen, welke in doorvoer worden vervoerd door de Nederlandsche havens, worden toegepast:
 
@@ -38,13 +62,13 @@ De in artikel 1 vastgestelde regeling zal, voor wat betreft de goederen, welke i
 
 - e). vijf jaar na den dag van inwerkingtreding van deze overeenkomst, op alle andere goederen.
 
-#### Artikel 3
+##### Artikel 3
 
 De Belgische en de Nederlandsche Regeering verbinden zich, voor wat betreft de Rijnvaart, om gedurende een tijdsverloop van tien jaar, beginnende met den dag van inwerkingtreding van deze overeenkomst, zonder voorafgaande onderlinge overeenstemming, geen op dit oogenblik bestaanden maatregel te verscherpen, welke bestemd is om het vervoer afkomstig van of bestemd voor de Belgische havens te begunstigen ten nadeele van de Nederlandsche havens en omgekeerd.
 
 De beide Regeeringen verbinden zich om gedurende hetzelfde tijdsverloop geen nieuwe maatregelen van gelijken aard te treffen zonder voorafgaande onderlinge overeenstemming.
 
-#### Artikel 4
+##### Artikel 4
 
 Voor wat in het bijzonder betreft de premiën, welke door de Belgische Regeering worden verleend voor het vervoer langs den Rijn van bepaalde goederen, stroomopwaarts en stroomafwaarts, wordt overeengekomen, dat gedurende het tijdsverloop van tien jaar, bepaald in het vorige artikel, het gezamenlijke jaarlijksche bedrag, dat thans voor den dienst van die premiën is bestemd, niet zal worden verhoogd, dat het tarief van de premiën per ton, zooals die worden toegekend, niet zal worden verhoogd, en dat geen premiën zullen worden toegekend aan goederen, welke die thans niet genieten.
 
@@ -68,7 +92,7 @@ en als Nederlandsche zeehavens:
 
 Rotterdam met ingebrip van Schiedam, Vlaardingen en Hoek van Holland, Amsterdam, Dordrecht, Terneuzen, Sluiskil, Vlissingen, Velsen, Harlingen en Delfzijl.
 
-#### Artikel 5
+##### Artikel 5
 
 De Belgische en Nederlandsche Regeeringen zullen een gemengde Commissie instellen om de mogelijkheid te onderzoeken om in gemeen overleg, de heffingen en vergoedingen vast te stellen in de havens van Antwerpen, Gent, Amsterdam en Rotterdam.
 
@@ -76,29 +100,29 @@ De Commissie zal het deel van haar rapport, betrekking hebbende op de havengelde
 
 De havengelden voor schepen, niet behoorend tot een geregelden dienst, zullen niet worden gewijzigd gedurende een tijdsverloop van drie maanden, te rekenen van den dag der inwerkingtreding van deze overeenkomst, behoudens overeenstemming tusschen de belanghebbende Regeeringen; de havengelden voor de overige schepen zullen niet worden gewijzigd gedurende een tijdsverloop van zes maanden, te rekenen van die inwerkingtreding, behoudens overeenstemming tusschen de genoemde Regeeringen.
 
-#### Artikel 6
+##### Artikel 6
 
 In afwachting van de vaststelling van een nieuw algemeen stelsel voor de Rijnvaart overeenkomstig de omschrijving in het hierna volgende artikel 7, aanvaarden de contracteerende Staten, dat, behalve de bepalingen van de artikelen 2, 3, 4 en 5 van de overeenkomst van Mannheim van 17 October 1868, gewijzigd en aangevuld als aangegeven in artikel 9 van de onderhavige overeenkomst, de artikelen 7, 9, 10, 11 en 12 van eerstgenoemde overeenkomst, voor wat betreft de scheepvaart afkomstig van of bestemd voor den Rijn, zullen worden toegepast op de waterwegen, welke den Rijn met België verbinden.
 
 In het geval, dat het stelsel, omschreven in de in het eerste lid van dit artikel genoemde bepalingen, op bepaalde punten mocht worden gewijzigd of aangevuld, komen de contracteerende Staten overeen, dat die wijzigingen en aanvullingen zullen worden toegepast op het vervoer, bedoeld in genoemd lid.
 
-#### Artikel 7
+##### Artikel 7
 
 De contracteerende Staten verbinden zich, te aanvaarden, dat de beginselen, neergelegd in de hoofdstukken III, IV, VII en VIII van het ontwerp tot herziening van de overeenkomst voor de Rijnvaart, vastgesteld te Straatsburg in Mei 1936, binnen het kader van een nieuw algemeen stelsel voor den Rijn zullen worden toegepast op de havens van Amsterdam, Rotterdam met inbegrip van Vlaardingen, Schiedam en Hoek van Holland, Dordrecht, Antwerpen en Gent, en dat het vervoer langs den Rijn, bestemd voor of afkomstig zoowel van genoemde havens als van de open zee of van België, voor wat betreft de onderwerpen bedoeld in genoemde hoofdstukken, zal worden behandeld zooals dit het geval zou zijn op den Rijn zelf.
 
 Binnen het kader van het hierboven bedoelde nieuwe algemeene stelsel voor den Rijn, zullen de maatregelen, omschreven in de artikelen 2, 3, 4 en 5 van deze overeenkomst, blijven gelden.
 
-#### Artikel 8
+##### Artikel 8
 
 De contracteerende Staten zullen in onderling overleg pogingen aanwenden teneinde de gemeenschap van den Rijn te herstellen op de basis van volledige gelijkheid van rechten.
 
 Zij verbinden zich om, gedurende de voortzetting dier pogingen, slechts in onderlinge overeenstemming toe te stemmen in wijzigingen van het thans op de Rijnvaart van toepassing zijnde stelsel.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze overeenkomst zal van kracht blijven, zoolang de contracteerende Staten voortgaan met het toepassen van de bepalingen van de overeenkomst van Mannheim van 17 October 1868, gewijzigd door de bepalingen van het Verdrag van Versailles van 28 Juni 1919, voorzoover Nederland zich daarbij heeft aangesloten bij de protocollen van 21 Januari 1921 en 29 Maart 1923.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze overeenkomst zal in werking treden op den dag van haar onderteekening.
 
@@ -106,7 +130,7 @@ Evenwel zullen de artikelen 1 en 2, zoomede de bepaling van het derde lid van he
 
 Bij de gelegenheid van de onderteekening van de overeenkomst nopens verschillende vraagstukken betreffende het stelsel toepasselijk op de Rijnvaart, zijn de ondergeteekenden, daartoe behoorlijk gevolmachtigd, overeengekomen, daaraan de navolgende nadere bepalingen toe te voegen, welke van gelijke kracht en gelijken geldigheidsduur zullen zijn als de genoemde overeenkomst:
 
-#### Ad Artikel 4.
+##### Ad Artikel 4.
 
 Het is wel verstaan, dat voor de toepassing van artikel 4, de statistieken betreffende het vervoer langs den Rijn van de Belgische zeehavens zullen worden samengesteld door het „Bijzonder Komiteit der Scheepvaartwegen van België naar den Rijn” en die betreffende het vervoer aan de grens tusschen Nederland en Duitschland door het Centraal Bureau voor de Statistiek in Nederland.
 
@@ -114,7 +138,7 @@ De Nederlandsche Regeering zal de noodige maatregelen nemen om te bereiken, dat 
 
 De Nederlandsche en de Belgische Regeering garandeerden de juistheid van de door hunne diensten verzamelde statistische gegevens.
 
-#### Ad Artikel 4, vierde alinea.
+##### Ad Artikel 4, vierde alinea.
 
 Het is wel verstaan, dat de herziening, bedoeld in het vierde lid van artikel 4, geen verhooging van het jaarlijksche gezamenlijke bedrag, bedoeld in het derde lid van genoemd artikel, met zich kan brengen, noch een uitbreiding van het verleenen van premies aan goederen, die deze thans niet genieten.
 
@@ -122,7 +146,7 @@ Evenwel zal, in het geval dat gedurende het laatste halfjaar van een jaar, de ve
 
 De tegenwoordige koers van den belga tegenover het goud is 6615,46 voor 1 kilogram fijn goud. De koersen, waarmede rekening zal worden gehouden in geval van wijziging in de verhouding van den belga tot het goud zijn die, welke gepubliceerd worden in het „Bulletin d'Information et de Documentation de la Banque Nationale de Belgique”, onder de rubriek: „Koers van de edele metalen te Londen”.
 
-#### Ad Artikel 6.
+##### Ad Artikel 6.
 
 Het is wel verstaan, dat de nieuwe faciliteiten, welke zouden worden toegestaan overeenkomstig de bepalingen van het tweede lid van artikel 6, zullen worden uitgebreid tot de scheepvaart komende van of met bestemming voor den Rijn, op het Belgische gedeelte van de zee-Schelde.
 
@@ -134,11 +158,11 @@ Evenwel zal de kosteloosheid van de begeleiding, zooals deze in het vorige lid i
 
 Ingeval de kosteloosheid van de begeleiding zou worden opgeheven op de wateren, welke België met den Rijn verbinden, zal het de Belgische Regeering vrijstaan, zulks in afwijking van artikel 3, de kosten van begeleiding aan de belanghebbenden te vergoeden.
 
-#### Ad Artikel 7.
+##### Ad Artikel 7.
 
 De Nederlandsche Gevolmachtigden verklaren, dat de Nederlandsche Regeering zich het recht voorbehoudt, om in het kader van een nieuw algemeen stelsel voor de Rijnvaart, de wetgeving betreffende de evenredige vrachtverdeeling toe te passen op het binnenlandsche Nederlandsche vervoer op de Nederlandsche wateren, bedoeld in artikel 7.
 
-#### Ad Artikel 9.
+##### Ad Artikel 9.
 
 Het is wel verstaan, dat op artikel 9 geen beroep kan worden gedaan om het permanente karakter van de overeenkomst van Mannheim, alsmede van de bepalingen van de verdragen en protocollen, bedoeld in genoemd artikel, te betwisten.
 

@@ -1,13 +1,39 @@
 ---
-title: "Dierproevenregeling 2014"
+title: "Regeling van de Minister van Economische Zaken van 3 december 2014, nr. WJZ / 13149501, tot uitvoering van de Wet op de Dierproeven en het Dierproevenbesluit 2014 (Dierproevenregeling 2014)"
 identifier: "BWBR0035873"
-categorie: "Overig"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035873"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035873"
+soort: "ministeriele-regeling"
+stam_id: "12869513"
+version_id: "27338052"
+internal_id: "C38610271"
+label_id: "12839204"
+dtd_version: "2.0"
+original_entry_into_force: "2020-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035873/2024-01-01/0"
+intitule_bron: "Stcrt.2014-34746"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-12-03"
+intitule_published: "2014-12-05"
+intitule_in_force: "2014-12-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-65069"
+original_signed_date: "2020-12-01"
+original_published_date: "2020-12-18"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2020-65069"
+entry_into_force_date: "2020-12-01"
+jci_1_3: "jci1.3:c:BWBR0035873&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0035873&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Dierproevenregeling 2014"
+signed_date: "2020-12-01"
+entry_into_force: "2020-12-01"
 ---
-
 # Regeling van de Minister van Economische Zaken van 3 december 2014, nr. WJZ / 13149501, tot uitvoering van de Wet op de Dierproeven en het Dierproevenbesluit 2014 (Dierproevenregeling 2014)
 
 Gelet op [richtlijn nr. 2010/63](32010L0063)/EU van 22 september 2010 betreffende de bescherming van dieren die voor wetenschappelijke doeleinden worden gebruikt, de [artikelen 1, eerste lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=1), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=3), [10a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10a), [10a1, zevende lid](onbekend), [11a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=11a), juncto [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=3), en [19, tweede lid, onder d, van de Wet op de dierproeven](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=19) en de [artikelen 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035866&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0035866&artikel=3), [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035866&artikel=8), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035866&artikel=11) en [12 van het Dierproevenbesluit 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035866&artikel=12);
@@ -18,7 +44,7 @@ Treedt in werking op het tijdstip waarop het Dierproevenbesluit 2014 in werking 
 
 #### § 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze regeling wordt verstaan onder:
 
@@ -40,7 +66,7 @@ Treedt in werking op het tijdstip waarop het Dierproevenbesluit 2014 in werking 
 
 #### § 2. Instellingsvergunning
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een aanvraag om een instellingsvergunning wordt ingediend met gebruikmaking van het formulier in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&bijlage=1&z=2024-01-01&g=2024-01-01) bij deze regeling.
 
@@ -54,7 +80,7 @@ Treedt in werking op het tijdstip waarop het Dierproevenbesluit 2014 in werking 
 
 #### § 3. Projectvergunning
 
-#### Artikel 3
+##### Artikel 3
 
 1. Bij een aanvraag om een projectvergunning als bedoeld in [artikel 10a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10a) worden de volgende gegevens en bescheiden overlegd:
 
@@ -86,7 +112,7 @@ Treedt in werking op het tijdstip waarop het Dierproevenbesluit 2014 in werking 
 
 4. Bij de indiening van de aanvraag om een projectvergunning wordt een door de centrale commissie dierproeven vastgesteld en door de Minister goedgekeurd bedrag voldaan. Het bedrag is een vast bedrag dat de gemiddelde kosten die samenhangen met het behandelen van een aanvraag om een projectvergunning dekt. Van het in de eerste volzin bedoelde goedkeuringsbesluit wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Voor de niet-technische samenvatting van het project en eventuele aanvullingen hierop als gevolg van wijzigingen als bedoeld in [artikel 10a5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10a5), of een beoordeling van het project achteraf als bedoeld in [artikel 10a1, eerste lid, onder d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10a1), maakt de aanvrager respectievelijk vergunninghouder gebruik van het in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&bijlage=5&z=2024-01-01&g=2024-01-01) bij deze regeling opgenomen model.
 
@@ -102,7 +128,7 @@ Treedt in werking op het tijdstip waarop het Dierproevenbesluit 2014 in werking 
 
 #### § 4. Deskundigheids- en bekwaamheidseisen
 
-#### Artikel 5
+##### Artikel 5
 
 1. De wetenschappelijke opleiding, bedoeld in [artikel 2, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035866&artikel=2), bestaat uit een master in een relevante studierichting.
 
@@ -110,7 +136,7 @@ Treedt in werking op het tijdstip waarop het Dierproevenbesluit 2014 in werking 
 
 3. De Minister kan op verzoek een ontheffing verlenen van het vereiste in het eerste lid, indien op andere wijze wordt aangetoond dat de persoon, bedoeld in [artikel 9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=9), beschikt over een vergelijkbaar deskundigheids- en bekwaamheidsniveau.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De opleidingen, bedoeld in [artikel 8, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035866&artikel=8), voldoen aan de volgende minimumeisen:
 
@@ -134,7 +160,7 @@ Treedt in werking op het tijdstip waarop het Dierproevenbesluit 2014 in werking 
 
 #### § 5. Vrijstelling instantie voor dierenwelzijn
 
-#### Artikel 7
+##### Artikel 7
 
 In afwijking van [artikel 14a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=14a), zijn de volgende categorieën fokkers, leveranciers en gebruikers niet gehouden een instantie voor dierenwelzijn in te richten:
 
@@ -154,7 +180,7 @@ In afwijking van [artikel 14a, eerste lid, van de wet](https://wetten.overheid.n
 
 #### § 6. Registratie
 
-#### Artikel 8
+##### Artikel 8
 
 1. De fokker, de leverancier en de gebruiker houden aantekening van de volgende gegevens:
 
@@ -178,7 +204,7 @@ In afwijking van [artikel 14a, eerste lid, van de wet](https://wetten.overheid.n
 
 3. De fokker, de leverancier en de gebruiker verstrekken de Minister jaarlijks uiterlijk op 15 maart de in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&bijlage=7&z=2024-01-01&g=2024-01-01) bij deze regeling genoemde gegevens over het voorafgaande kalenderjaar.
 
-#### Artikel 9
+##### Artikel 9
 
 1. In aanvulling op het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&paragraaf=6&artikel=8&z=2024-01-01&g=2024-01-01) houden de fokker, de leverancier en de gebruiker over elke hond, kat en niet-menselijke primaat die zij houden aantekening van de volgende gegevens:
 
@@ -196,7 +222,7 @@ In afwijking van [artikel 14a, eerste lid, van de wet](https://wetten.overheid.n
 
 #### § 7. Nationaal comité
 
-#### Artikel 10
+##### Artikel 10
 
 In aanvulling op de taken, genoemd in [artikel 19, tweede lid, onderdelen a tot en met c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=19), vervult het nationaal comité de volgende taken:
 
@@ -210,17 +236,17 @@ In aanvulling op de taken, genoemd in [artikel 19, tweede lid, onderdelen a tot 
 
 #### § 8. Slotbepalingen
 
-#### Artikel 11
+##### Artikel 11
 
 1. Met een ontheffing op grond van [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&paragraaf=4&artikel=5&z=2024-01-01&g=2024-01-01), wordt gelijkgesteld een vóór de inwerkingtreding van de [wet tot wijziging van de Wet op de dierproeven in verband met implementatie van richtlijn 2010/63/EU](https://wetten.overheid.nl/jci1.3:c:BWBR0035875) op grond van [artikel 16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=16) verleende ontheffing, voor zover deze betrekking heeft op het vereiste dat de persoon bedoeld in [artikel 9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=9) beschikt over een master in een relevante studierichting.
 
 2. Met een ontheffing op grond van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&paragraaf=4&artikel=6&z=2024-01-01&g=2024-01-01), wordt gelijkgesteld een vóór de inwerkingtreding van de wet tot [wijziging van de Wet op de dierproeven in verband met implementatie van richtlijn 2010/63/EU](https://wetten.overheid.nl/jci1.3:c:BWBR0035875) op grond van [artikel 16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=16) verleende ontheffing, voor zover deze ontheffing betrekking heeft op de opleidingsvereisten ten aanzien van personen die proefdieren verzorgen, biotechnische werkzaamheden uitvoeren of proefdieren doden.
 
-#### Artikel 12
+##### Artikel 12
 
 Deze regeling treedt in werking op het tijdstip waarop het [Dierproevenbesluit 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035866) in werking treedt.
 
-#### Artikel 13
+##### Artikel 13
 
 Deze regeling wordt aangehaald als: Dierproevenregeling 2014.
 

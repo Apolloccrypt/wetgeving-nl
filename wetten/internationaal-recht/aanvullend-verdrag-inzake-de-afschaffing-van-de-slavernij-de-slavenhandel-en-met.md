@@ -1,13 +1,35 @@
 ---
 title: "Aanvullend Verdrag inzake de afschaffing van de slavernij, de slavenhandel en met slavernij gelijk te stellen instellingen en praktijken"
 identifier: "BWBV0006246"
-categorie: "Internationaal recht"
-publicatiedatum: 1957-12-03
-laatste_update: 1957-12-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006246"
+country: "nl"
+rank: "verdrag"
+publication_date: "1957-12-03"
+last_updated: "1957-12-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006246"
+soort: "verdrag"
+stam_id: "10005116793"
+version_id: "10005467022"
+internal_id: "C10008439721"
+label_id: "10005100004"
+dtd_version: "2.0"
+original_entry_into_force: "1957-12-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006246/1957-12-03/0"
+intitule_bron: "Trb.1957-118"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1957-08-15"
+intitule_in_force: "1958-02-13"
+intitule_status: "goed"
+original_publication: "Trb.1957-118"
+original_published_date: "1957-08-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1957-118"
+entry_into_force_date: "1957-12-03"
+jci_1_3: "jci1.3:c:BWBV0006246&z=1957-12-03&g=1957-12-03"
+jci_1_0: "1.0:c:BWBV0006246&g=1957-12-03"
+citeertitel_status: "redactioneel"
+entry_into_force: "1957-12-03"
 ---
-
 # Aanvullend Verdrag inzake de afschaffing van de slavernij, de slavenhandel en met slavernij gelijk te stellen instellingen en praktijken
 
 **Preambule**
@@ -32,7 +54,7 @@ Zijn overeengekomen als volgt:
 
 ## AFDELING I. Met slavernij gelijk te stellen instellingen en praktijken
 
-#### Artikel 1
+##### Artikel 1
 
 Iedere Staat die partij is bij dit Verdrag neemt alle uitvoerbare en noodzakelijke wettelijke en andere maatregelen om in toenemende mate en zo spoedig mogelijk de volledige afschaffing en opheffing van de volgende instellingen en praktijken, waar deze nog bestaan, te bewerkstelligen, onverschillig of zij vallen onder de definitie van slavernij vervat in artikel 1 van het op 25 september 1926 te Genève ondertekende Slavernijverdrag:
 
@@ -50,13 +72,13 @@ Iedere Staat die partij is bij dit Verdrag neemt alle uitvoerbare en noodzakelij
 
 - (d). Elke instelling of praktijk waarbij een kind of jeugdige persoon, jonger dan achttien jaar, door zijn beide natuurlijke ouders of een van hen of door zijn voogd aan een ander wordt overgedragen, al of niet tegen beloning, met het doel het kind of de jeugdige persoon zelf dan wel zijn arbeid te exploiteren.
 
-#### Artikel 2
+##### Artikel 2
 
 Ten einde een eind te maken aan de in artikel 1 **(c)** van dit Verdrag genoemde instellingen en praktijken, nemen de Verdragsluitende Partijen op zich, waar zulks nodig is een passende minimum huwbare leeftijd voor te schrijven, het gebruik aan te moedigen van faciliteiten waarbij de toestemming tot een huwelijk door beide partijen vrijelijk tot uitdrukking kan worden gebracht ten overstaan van een bevoegde burgerlijke of kerkelijke autoriteit, en te bevorderen dat huwelijken worden geregistreerd.
 
 ## AFDELING II. De slavenhandel
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het vervoeren van slaven van het ene land naar het andere, of de poging daartoe, onverschillig met welk vervoermiddel, of de medeplichtigheid daaraan, vormt een strafbaar feit volgens de wetten van de Staten welke partij zijn bij dit Verdrag, en personen die daaraan schuldig worden bevonden, stellen zich aan zware straffen bloot.
 
@@ -66,17 +88,17 @@ Ten einde een eind te maken aan de in artikel 1 **(c)** van dit Verdrag genoemde
 
 3. De Staten welke partij zijn bij dit Verdrag, wisselen gegevens uit ten einde te komen tot een praktische coördinatie van de maatregelen welke door hen worden genomen bij de bestrijding van de slavenhandel, en zij doen elkaar mededeling van elk geval van slavenhandel en van elke poging tot dit strafbare feit, dat of die te hunner kennis komt.
 
-#### Artikel 4
+##### Artikel 4
 
 Iedere slaaf die aan boord van enig schip van een Staat welke partij is bij dit Verdrag, een toevlucht zoekt, is **ipso facto** vrij.
 
 ## AFDELING III. Slavernij en met slavernij gelijk te stellen instellingen en praktijken
 
-#### Artikel 5
+##### Artikel 5
 
 In een land waar de afschaffing of opheffing van de slavernij of van de in artikel 1 van dit Verdrag genoemde instellingen en praktijken nog niet is voltooid, vormt het verminken, brandmerken of op andere wijze merken van een slaaf of van een persoon in slaaflijke staat, met het doel zijn staat aan te geven of bij wijze van straf of om enige andere reden, of de medeplichtigheid daaraan, een strafbaar feit volgens de wetten van de Staten welke partij zijn bij dit Verdrag, en personen die daaraan schuldig worden bevonden, stellen zich aan straf bloot.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het tot slaaf maken van een ander of het overhalen van een ander om zichzelf of een van hem afhankelijke persoon tot slaaf te laten maken, of de poging daartoe, of de medeplichtigheid daaraan, of de samenspanning daartoe, vormt een strafbaar feit volgens de wetten van de Staten welke partij zijn bij dit Verdrag, en personen die daaraan schuldig worden bevonden, stellen zich aan straf bloot.
 
@@ -84,7 +106,7 @@ In een land waar de afschaffing of opheffing van de slavernij of van de in artik
 
 ## AFDELING IV. Definities
 
-#### Artikel 7
+##### Artikel 7
 
 In dit Verdrag:
 
@@ -96,7 +118,7 @@ In dit Verdrag:
 
 ## AFDELING V. Samenwerking tussen de Staten welke partij zijn bij dit Verdrag, en mededeling van inlichtingen
 
-#### Artikel 8
+##### Artikel 8
 
 1. De Staten welke partij zijn bij dit Verdrag, verbinden zich, met elkaar en met de Verenigde Naties samen te werken ten einde de voorgaande bepalingen ten uitvoer te leggen.
 
@@ -106,21 +128,21 @@ In dit Verdrag:
 
 ## AFDELING VI. Slotbepalingen
 
-#### Artikel 9
+##### Artikel 9
 
 Bij dit Verdrag mogen geen voorbehouden worden gemaakt.
 
-#### Artikel 10
+##### Artikel 10
 
 Ieder geschil tussen de Staten welke Partij zijn bij dit Verdrag, ten aanzien van de uitlegging of toepassing daarvan, dat niet door onderhandelingen wordt beslecht, wordt verwezen naar het Internationale Gerechtshof op verzoek van een der bij het geschil betrokken partijen, tenzij de betrokken partijen een andere wijze van beslechting overeenkomen.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Dit Verdrag staat tot 1 juli 1957 open ter ondertekening door iedere Staat welke lid is van de Verenigde Naties of van een gespecialiseerde organisatie. Het moet door de ondertekenende Staten worden bekrachtigd en de akten van bekrachtiging zullen worden nedergelegd bij de Secretaris-Generaal van de Verenigde Naties, die daarvan mededeling doet aan alle ondertekenende en toetredende Staten.
 
 2. Na 1 juli 1957 kan iedere Staat welke lid is van de Verenigde Naties of van een gespecialiseerde organisatie, of iedere andere Staat welke daartoe door de Algemene Vergadering van de Verenigde Naties wordt uitgenodigd, tot dit Verdrag toetreden. Toetreding geschiedt door nederlegging van een officiële akte bij de Secretaris-Generaal van de Verenigde Naties, die daarvan mededeling doet aan alle ondertekenende en toetredende Staten.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Dit Verdrag is van toepassing op alle niet-zelfbesturende, trust-, koloniale en andere buiten het moederland gelegen gebieden voor welker internationale betrekkingen een Staat welke partij is bij dit Verdrag, verantwoordelijk is; met inachtneming van het bepaalde in lid 2 van dit artikel geeft de betrokken Partij op het tijdstip van de ondertekening of de bekrachtiging van of de toetreding tot dit Verdrag de buiten het moederland gelegen gebieden aan waarop het Verdrag als gevolg van die ondertekening, bekrachtiging of toetreding **ipso facto** van toepassing is.
 
@@ -128,13 +150,13 @@ Ieder geschil tussen de Staten welke Partij zijn bij dit Verdrag, ten aanzien va
 
 3. Na het verstrijken van het in het vorige lid genoemde tijdvak van twaalf maanden, doen de betrokken Partijen aan de Secretaris-Generaal mededeling van de besprekingen met die niet tot het moederland behorende gebieden voor welker internationale betrekkingen zij verantwoordelijk zijn en die hun toestemming tot toepassing van dit Verdrag mochten hebben geweigerd.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Dit Verdrag treedt in werking op de dag waarop twee Staten er partij bij zijn geworden.
 
 2. Het treedt vervolgens voor elke Staat en elk gebied in werking op de datum van de nederlegging van een akte van bekrachtiging of toetreding van die Staat of van de mededeling van toepassing op dat gebied.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De toepassing van dit Verdrag wordt verdeeld in opeenvolgende perioden van drie jaar, waarvan de eerste begint op de datum waarop het Verdrag ingevolge lid 1 van artikel 13 in werking is getreden.
 
@@ -144,7 +166,7 @@ Ieder geschil tussen de Staten welke Partij zijn bij dit Verdrag, ten aanzien va
 
 4. In gevallen waarin dit Verdrag, overeenkomstig de bepalingen van artikel 12, op een niet tot het moederland behorend gebied van een Partij van toepassing is geworden, kan die Partij, met toestemming van het betrokken gebied, door middel van een kennisgeving aan de Secretaris-Generaal van de Verenigde Naties, dit Verdrag afzonderlijk ten aanzien van dat gebied opzeggen. De opzegging wordt van kracht een jaar na de datum van ontvangst van bedoelde kennisgeving door de Secretaris-Generaal, die van die kennisgeving en de datum waarop zij werd ontvangen mededeling doet aan alle andere Partijen.
 
-#### Artikel 15
+##### Artikel 15
 
 Dit Verdrag, waarvan de Chinese, de Engelse, de Franse, de Russische en de Spaanse tekst gelijkelijk authentiek zijn, wordt nedergelegd in het archief van het Secretariaat van de Verenigde Naties. De Secretaris-Generaal vervaardigt daarvan gewaarmerkte afschriften ter toezending aan de Staten welke partij zijn bij dit Verdrag, alsmede aan alle andere Staten welke lid zijn van de Verenigde Naties en van de gespecialiseerde organisaties.
 

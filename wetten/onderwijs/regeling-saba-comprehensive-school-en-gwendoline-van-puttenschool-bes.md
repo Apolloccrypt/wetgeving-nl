@@ -1,24 +1,50 @@
 ---
-title: "Regeling Saba Comprehensive School en Gwendoline van Puttenschool BES"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap en de Minister voor Basis- en Voortgezet Onderwijs en Media van 18 juni 2021 nr. MBO/25717448, houdende nadere regels over de examens voor het verdiepende vak Nederlands en vaststelling van modellen voor schooldiploma’s en wijziging van de Regeling aanwijzing diploma’s BES, de Regeling vaststelling kwalificaties en opleidingsdomeinen BES, de Regeling jaarverslaggeving onderwijs BES en de Regeling aanmelding en toelating hoger onderwijs in verband met aanwijzen diploma’s voor toelating tot het mbo en ho in Europees Nederland, actualisatie van de lijst met kwalificaties, opleidingsdomeinen BES en herstel van een omissie (Regeling Saba Comprehensive School en Gwendoline van Puttenschool BES)"
 identifier: "BWBR0045328"
-categorie: "Onderwijs"
-publicatiedatum: 2021-08-01
-laatste_update: 2021-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045328"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2021-08-01"
+last_updated: "2021-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045328"
+soort: "ministeriele-regeling-BES"
+stam_id: "16008953"
+version_id: "27864562"
+internal_id: "C39297431"
+label_id: "15942744"
+dtd_version: "2.0"
+original_entry_into_force: "2021-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045328/2021-08-01/0"
+intitule_bron: "Stcrt.2021-33842"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-06-18"
+intitule_published: "2021-07-02"
+intitule_in_force: "2021-07-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-33842"
+original_signed_date: "2021-06-18"
+original_published_date: "2021-07-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-33842"
+entry_into_force_date: "2021-08-01"
+jci_1_3: "jci1.3:c:BWBR0045328&z=2021-08-01&g=2021-08-01"
+jci_1_0: "1.0:c:BWBR0045328&g=2021-08-01"
+citeertitel_status: "officieel"
+short_title: "Regeling Saba Comprehensive School en Gwendoline van Puttenschool BES"
+signed_date: "2021-06-18"
+entry_into_force: "2021-08-01"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap en de Minister voor Basis- en Voortgezet Onderwijs en Media van 18 juni 2021 nr. MBO/25717448, houdende nadere regels over de examens voor het verdiepende vak Nederlands en vaststelling van modellen voor schooldiploma’s en wijziging van de Regeling aanwijzing diploma’s BES, de Regeling vaststelling kwalificaties en opleidingsdomeinen BES, de Regeling jaarverslaggeving onderwijs BES en de Regeling aanmelding en toelating hoger onderwijs in verband met aanwijzen diploma’s voor toelating tot het mbo en ho in Europees Nederland, actualisatie van de lijst met kwalificaties, opleidingsdomeinen BES en herstel van een omissie (Regeling Saba Comprehensive School en Gwendoline van Puttenschool BES)
 
 Gelet op de [artikelen 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&artikel=7), en [24, tweede lid, van het Besluit Saba Comprehensive School en Gwendoline van Puttenschool BES](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&artikel=24), de [artikelen 2.3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=2.3.2), [7.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=7.2.4) en [8.2.1, eerste lid, onder e, en derde lid, onder e, van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=8.2.1), [artikel 8.2.1, eerste lid, onder e, derde lid, onder e, en vierde lid, onder e, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8.2.1), en [artikel 7.28, tweede lid, eerste volzin, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.28);
 
 Besluiten:
 
-#### Artikel 1. Begripsbepaling
+##### Artikel 1. Begripsbepaling
 
 In deze regeling wordt verstaan onder Besluit: het [Besluit Saba Comprehensive School en Gwendoline van Puttenschool BES](https://wetten.overheid.nl/jci1.3:c:BWBR0045020).
 
-#### Artikel 2. Examens verdiepende vak Nederlands
+##### Artikel 2. Examens verdiepende vak Nederlands
 
 Voor het verdiepende vak Nederlands, bedoeld in [artikel 7, vierde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&artikel=7), wordt één van de volgende examens afgenomen:
 
@@ -30,7 +56,7 @@ Voor het verdiepende vak Nederlands, bedoeld in [artikel 7, vierde lid, van het 
 
 - d. een staatsexamen Nederlands.
 
-#### Artikel 3. Modellen voor schooldiploma’s met het verdiepende vak Nederlands
+##### Artikel 3. Modellen voor schooldiploma’s met het verdiepende vak Nederlands
 
 1. Het model voor het schooldiploma Caribbean Advanced Proficiency Examination met het verdiepende vak Nederlands, bedoeld in [artikel 24, eerste lid, onder a, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&artikel=24), wordt vastgesteld volgens [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0045328&bijlage=I&z=2021-08-01&g=2021-08-01) bij deze regeling.
 
@@ -40,31 +66,31 @@ Voor het verdiepende vak Nederlands, bedoeld in [artikel 7, vierde lid, van het 
 
 4. Het model voor het schooldiploma Caribbean Vocational Qualification niveau 2 met het verdiepende vak Nederlands, bedoeld in [artikel 24, eerste lid, onder d, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&artikel=24), wordt vastgesteld volgens [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0045328&bijlage=IV&z=2021-08-01&g=2021-08-01) bij deze regeling.
 
-#### Artikel 4. Richtlijnen voor het invullen van de modellen
+##### Artikel 4. Richtlijnen voor het invullen van de modellen
 
 Regels voor het invullen van de modellen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045328&artikel=3&z=2021-08-01&g=2021-08-01), zijn vastgesteld in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0045328&bijlage=V&z=2021-08-01&g=2021-08-01) van deze regeling.
 
-#### Artikel 5. Wijziging van de [Regeling aanwijzing diploma’s BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030261)
+##### Artikel 5. Wijziging van de [Regeling aanwijzing diploma’s BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030261)
 
 Wijzigt de Regeling aanwijzing diploma’s BES.
 
-#### Artikel 6. Wijziging van de [Regeling vaststelling kwalificaties en opleidingsdomeinen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0034068)
+##### Artikel 6. Wijziging van de [Regeling vaststelling kwalificaties en opleidingsdomeinen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0034068)
 
 Wijzigt de Regeling vaststelling kwalificaties en opleidingsdomeinen BES.
 
-#### Artikel 7. Wijziging van de [Regeling jaarverslaggeving onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0031801)
+##### Artikel 7. Wijziging van de [Regeling jaarverslaggeving onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0031801)
 
 Wijzigt de Regeling jaarverslaggeving onderwijs BES.
 
-#### Artikel 8. Wijziging van de [Regeling aanmelding en toelating hoger onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0035059)
+##### Artikel 8. Wijziging van de [Regeling aanmelding en toelating hoger onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0035059)
 
 Wijzigt de Regeling aanmelding en toelating hoger onderwijs.
 
-#### Artikel 9. Inwerkingtreding
+##### Artikel 9. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 augustus 2021.
 
-#### Artikel 10. Citeertitel
+##### Artikel 10. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling Saba Comprehensive School en Gwendoline van Puttenschool BES.
 

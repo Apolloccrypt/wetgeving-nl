@@ -1,14 +1,41 @@
 ---
-title: "IJkwet BES 2014"
+title: "Wet van 2 juli 2014, houdende regels omtrent meeteenheden en meetinstrumenten voor Bonaire, Sint Eustatius en Saba (IJkwet BES 2014)"
 identifier: "BWBR0035310"
-categorie: "Overig"
-publicatiedatum: 2019-01-01
-laatste_update: 2019-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035310"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2019-01-01"
+last_updated: "2019-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035310"
+soort: "wet-BES"
+stam_id: "12723093"
+version_id: "21531052"
+internal_id: "C33539421"
+label_id: "12693244"
+dtd_version: "2.0"
+original_entry_into_force: "2017-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035310/2019-01-01/0"
+intitule_bron: "Stb.2014-262"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-07-02"
+intitule_published: "2014-07-15"
+intitule_in_force: "2016-05-26"
+intitule_status: "goed"
+original_publication: "Stb.2014-262"
+original_signed_date: "2014-07-02"
+original_published_date: "2014-07-15"
+original_effect: "nieuwe-regeling"
+original_dossier: "33884"
+original_url_id: "stb-2014-262"
+entry_into_force_date: "2017-01-01"
+jci_1_3: "jci1.3:c:BWBR0035310&z=2019-01-01&g=2019-01-01"
+jci_1_0: "1.0:c:BWBR0035310&g=2019-01-01"
+citeertitel_status: "officieel"
+short_title: "IJkwet BES 2014"
+signed_date: "2014-07-02"
+entry_into_force: "2017-01-01"
 ---
-
-# IJkwet BES 2014
+# Wet van 2 juli 2014, houdende regels omtrent meeteenheden en meetinstrumenten voor Bonaire, Sint Eustatius en Saba (IJkwet BES 2014)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -36,7 +63,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 2. Meeteenheden en standaarden
 
-#### Artikel 2
+##### Artikel 2
 
 Bij algemene maatregel van bestuur kunnen voor grootheden meeteenheden worden vastgesteld en kunnen tevens regels worden gesteld betreffende:
 
@@ -46,7 +73,7 @@ Bij algemene maatregel van bestuur kunnen voor grootheden meeteenheden worden va
 
 ### Hoofdstuk 3. Meetinstrumenten
 
-#### Artikel 3
+##### Artikel 3
 
 1. Aan ijk en herijk zijn bij ministeriële regeling aangewezen meetinstrumenten onderworpen die worden gebruikt voor of zich bevinden op plaatsen bestemd voor:
 
@@ -68,7 +95,7 @@ Bij algemene maatregel van bestuur kunnen voor grootheden meeteenheden worden va
 
 4. In de regels, bedoeld in het derde lid, kan onderscheid worden gemaakt tussen het in gebruik nemen en het gebruik van meetinstrumenten.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een meetinstrument ondergaat een herijk op grond van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&hoofdstuk=3&artikel=3&z=2019-01-01&g=2019-01-01) voor dat meetinstrument voorgeschreven eisen:
 
@@ -80,7 +107,7 @@ Bij algemene maatregel van bestuur kunnen voor grootheden meeteenheden worden va
 
 2. Bij ministeriële regeling kan voor een meetinstrument als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&hoofdstuk=3&artikel=3&z=2019-01-01&g=2019-01-01), een termijn worden vastgesteld waarbinnen het herijkt moet worden.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Meetinstrumenten als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&hoofdstuk=3&artikel=3&z=2019-01-01&g=2019-01-01) worden voorzien van een ijkmerk.
 
@@ -92,7 +119,7 @@ Bij algemene maatregel van bestuur kunnen voor grootheden meeteenheden worden va
 
 3. Bij ministeriële regeling worden nadere regels gesteld omtrent de vorm van de ijkmerken.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Bij ijk of herijk goedgekeurde meetinstrumenten krijgen een goedkeuringsmerk.
 
@@ -102,7 +129,7 @@ Bij algemene maatregel van bestuur kunnen voor grootheden meeteenheden worden va
 
 ### Hoofdstuk 4. Verboden en geboden
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het is verboden:
 
@@ -112,13 +139,13 @@ Bij algemene maatregel van bestuur kunnen voor grootheden meeteenheden worden va
 
 2. Bij ministeriële regeling kunnen gevallen of omstandigheden worden bepaald waarin het verbod, bedoeld in het eerste lid, niet geldt.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het is enkel toegestaan een meetinstrument als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&hoofdstuk=3&artikel=3&z=2019-01-01&g=2019-01-01) in gebruik te nemen of te gebruiken wanneer deze voldoet aan de voor dit meetinstrument vastgestelde eisen en is voorzien van een goedkeuringsmerk of vergezeld gaat van een voor dit meetinstrument afgegeven schriftelijke verklaring als bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&hoofdstuk=3&artikel=6&z=2019-01-01&g=2019-01-01).
 
 2. Bij ministeriële regeling kan worden bepaald dat in daarbij aangegeven gevallen of omstandigheden een vrijstelling geldt van het gebod, bedoeld in het eerste lid.
 
-#### Artikel 9
+##### Artikel 9
 
 Het is enkel toegestaan een meetinstrument als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&hoofdstuk=3&artikel=3&z=2019-01-01&g=2019-01-01) te gebruiken indien het meetinstrument:
 
@@ -130,13 +157,13 @@ Het is enkel toegestaan een meetinstrument als bedoeld in [artikel 3](https://we
 
 - d. zodanig gejusteerd en gecorrigeerd wordt dat de aanwijzingsfouten zo dicht mogelijk bij nul liggen.
 
-#### Artikel 10
+##### Artikel 10
 
 Meetinstrumenten welke worden gebruikt voor de verkoop aan particulieren van goederen die bij de maat of het gewicht worden verkocht, moeten zodanig zijn opgesteld, dat de koper de aanwijzing van het betrokken meetinstrument onbelemmerd kan waarnemen.
 
 ### Hoofdstuk 5. Uitvoering en toezicht
 
-#### Artikel 11
+##### Artikel 11
 
 1. Het bestuurscollege wijst één instantie aan die tot taak heeft met inachtneming van het bij of krachtens deze wet bepaalde:
 
@@ -146,13 +173,13 @@ Meetinstrumenten welke worden gebruikt voor de verkoop aan particulieren van goe
 
 2. Bij eilandsverordening, houdende algemene maatregelen, kan de inrichting, samenstelling en werkwijze van de in het eerste lid bedoelde instantie worden geregeld.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De bevoegde instantie kan de eigenaar of houder van een meetinstrument kosten in rekening brengen voor zover deze redelijkerwijs kunnen worden toegerekend aan de voor de ijk en herijk noodzakelijke handelingen.
 
 2. Bij eilandsverordening, houdende algemene maatregelen, kunnen tarieven worden vastgesteld die de bevoegde instantie ten hoogste mag berekenen voor de verrichte werkzaamheden in het kader van ijk en herijk.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de daartoe door het bestuurscollege aangewezen personen. Een zodanige aanwijzing wordt bekendgemaakt in de Staatscourant.
 
@@ -172,53 +199,53 @@ Meetinstrumenten welke worden gebruikt voor de verkoop aan particulieren van goe
 
 5. De krachtens het eerste lid aangewezen personen staan onder het gezag van de door het bestuurscollege aangewezen bevoegde instantie en leggen over werkzaamheden uitsluitend aan die instantie verantwoording af.
 
-#### Artikel 14
+##### Artikel 14
 
 In beslag genomen meetinstrumenten worden niet aan de rechthebbende teruggegeven alvorens te zijn geijkt of herijkt.
 
 ### Hoofdstuk 6. Strafbepalingen
 
-#### Artikel 15
+##### Artikel 15
 
 Met hechtenis van ten hoogste een week of een geldboete van ten hoogste USD 500 wordt gestraft hij, die handelt in strijd met dan wel niet voldoet aan de vereisten gesteld in de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&hoofdstuk=4&artikel=7&z=2019-01-01&g=2019-01-01), [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&hoofdstuk=4&artikel=8&z=2019-01-01&g=2019-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&hoofdstuk=4&artikel=9&z=2019-01-01&g=2019-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&hoofdstuk=4&artikel=10&z=2019-01-01&g=2019-01-01).
 
-#### Artikel 16
+##### Artikel 16
 
 De in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&hoofdstuk=6&artikel=15&z=2019-01-01&g=2019-01-01) strafbaar gestelde feiten worden beschouwd als overtreding.
 
 ### Hoofdstuk 7. Overige bepalingen
 
-#### Artikel 17
+##### Artikel 17
 
 Het bestuurscollege kan de bevoegde instantie opdragen gebruik te maken van haar bevoegdheden om de naleving van deze wet af te dwingen.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De bevoegde instantie verstrekt desgevraagd aan Onze Minister alle voor de uitoefening van diens taak benodigde inlichtingen. Onze Minister kan inzage vorderen van alle gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs noodzakelijk is.
 
 2. De instantie is verplicht Onze Minister of een door hem daartoe aangezochte deskundige of instelling gelegenheid te geven, na te gaan of de toezichthoudende instantie voldoet aan de gestelde eisen en voorschriften.
 
-#### Artikel 19
+##### Artikel 19
 
 De [IJkwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028247) wordt ingetrokken.
 
 ### Hoofdstuk 8. Wijziging van andere wetten
 
-#### Artikel 20
+##### Artikel 20
 
 Wijzigt de Warenwet BES.
 
-#### Artikel 21
+##### Artikel 21
 
 Wijzigt het Wetboek van Strafrecht BES.
 
 ### Hoofdstuk 9. Slotbepalingen
 
-#### Artikel 22
+##### Artikel 22
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 23
+##### Artikel 23
 
 Deze wet wordt aangehaald als: IJkwet BES 2014.
 

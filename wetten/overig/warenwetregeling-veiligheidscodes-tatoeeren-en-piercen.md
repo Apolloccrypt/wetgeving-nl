@@ -1,32 +1,58 @@
 ---
-title: "Warenwetregeling veiligheidscodes tatoeëren en piercen"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 26 januari 2022, 3292766-1021236-VGP, houdende de aanwijzing van veiligheidscodes voor tatoeëren en piercen (Warenwetregeling veiligheidscodes tatoeëren en piercen)"
 identifier: "BWBR0046276"
-categorie: "Overig"
-publicatiedatum: 2022-02-05
-laatste_update: 2022-02-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046276"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-02-05"
+last_updated: "2022-02-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046276"
+soort: "ministeriele-regeling"
+stam_id: "16257623"
+version_id: "28395562"
+internal_id: "C40047641"
+label_id: "16184704"
+dtd_version: "2.0"
+original_entry_into_force: "2022-02-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046276/2022-02-05/0"
+intitule_bron: "Stcrt.2022-4132"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-01-26"
+intitule_published: "2022-02-04"
+intitule_in_force: "2022-02-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-4132"
+original_signed_date: "2022-01-26"
+original_published_date: "2022-02-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-4132"
+entry_into_force_date: "2022-02-05"
+jci_1_3: "jci1.3:c:BWBR0046276&z=2022-02-05&g=2022-02-05"
+jci_1_0: "1.0:c:BWBR0046276&g=2022-02-05"
+citeertitel_status: "officieel"
+short_title: "Warenwetregeling veiligheidscodes tatoeëren en piercen"
+signed_date: "2022-01-26"
+entry_into_force: "2022-02-05"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 26 januari 2022, 3292766-1021236-VGP, houdende de aanwijzing van veiligheidscodes voor tatoeëren en piercen (Warenwetregeling veiligheidscodes tatoeëren en piercen)
 
 Gelet op [artikel 7, tweede lid, van het Warenwetbesluit tatoeëren en piercen](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&artikel=7);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Als veiligheidscode worden aangewezen de in de bijlage bij deze regeling opgenomen norm en hygiënerichtlijnen.
 
-#### Artikel 2
+##### Artikel 2
 
 De [Warenwetregeling aanwijzing veiligheidscodes tatoeëren en piercen](https://wetten.overheid.nl/jci1.3:c:BWBR0021861) wordt ingetrokken.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling wordt aangehaald als: Warenwetregeling veiligheidscodes tatoeëren en piercen.
 
